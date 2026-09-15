@@ -24,7 +24,7 @@ BO0624_81821,30064,22,23,Anforina del 500 con mascherone.,42,95.4,False,position
 BO0624_81821,30065,23,24,Tripode per bracere a base gotica.,46,95.7,False,positional,,,Stoffe; Merletti,,
 BO0624_81821,30066,24,25,"Tripode,lavamano e gratella.",47,94.7,False,positional,,,Stoffe; Merletti,,
 BO0624_81821,30067,25,3,"26.Due torcere primitive a nodi,di varia altezza.",48,98.0,False,positional,,,OGGETTI VARI,,
-BO0624_81821,30068,26,4,"27.Torcera tipica con quattro aste a torti glione, secolo XV.",49,98.3,False,positional,,,Stoffe; Merletti,,
+BO0624_81821,30068,26,4,"27.Torcera tipica con quattro aste a torti glione, secolo XV.",49,98.3,False,positional,,,Stoffe; Merletti,,Sec. XV
 BO0624_81821,30069,27,5,"28.Due torcerine semplici, primitive.",50,97.2,False,positional,,,Stoffe; Merletti,,
 BO0624_81821,30070,28,29,"Due poltrone a braccioli diritti centi nati,montate in cuoio moderno.",53,97.8,False,positional,,,POLTRONE,,
 BO0624_81821,30071,29,30,Idem:preferenza.,54,90.9,False,positional,,,Mobili,,
@@ -32,17 +32,17 @@ BO0624_81821,30072,30,31,Idem:preferenza.,55,90.9,False,positional,,,Mobili,,
 BO0624_81821,30073,31,32,Idem:preferenza.,56,90.9,False,positional,,,Mobili,,
 BO0624_81821,30074,32,33,Idem:preferenza.,57,90.9,False,positional,,,Mobili,,
 BO0624_81821,30075,33,34,Idem:preferenza.,58,90.9,False,positional,,,Mobili,,
-BO0624_81821,30076,34,35,"Elegantissimo leggio a croce intagliato e lumeggiato in oro,conservatissimo. Secolo XVI. 60X0.52",59,94.0,False,positional,,,Mobili,,
+BO0624_81821,30076,34,35,"Elegantissimo leggio a croce intagliato e lumeggiato in oro,conservatissimo. Secolo XVI. 60X0.52",59,94.0,False,positional,,,Mobili,,Sec. XVI
 BO0624_81821,30077,35,36,Tavolino a lira piena.,63,93.3,False,positional,,,ARREDAMENTI,,
 BO0624_81821,30078,36,37,Tavolone da centro a piedi torniti.,64,95.8,False,positional,,,Mobili,,
-BO0624_81821,30079,37,38,"Due sedie a crociera montate in cuoio liscio,secolo XVI.",65,97.3,False,positional,,,SEDIE,,
+BO0624_81821,30079,37,38,"Due sedie a crociera montate in cuoio liscio,secolo XVI.",65,97.3,False,positional,,,SEDIE,,Sec. XVI
 BO0624_81821,30080,38,39,Idem:preferenza.,66,90.9,False,positional,,,Mobili,,
 BO0624_81821,30081,39,40,Idem:preferenza.,67,90.9,False,positional,,,Mobili,,
 BO0624_81821,30082,40,41,Idem:preferenza.,68,90.9,False,positional,,,Mobili,,
 BO0624_81821,30083,41,42,Piccolo stucco robbiano:Madonnina con putto e serafini.,72,97.3,False,positional,,,Sculture,,
 BO0624_81821,30084,42,43,Puttino dormente in stucco.,73,94.5,False,positional,,,Sculture,,
 BO0624_81821,30085,43,44,"Stucco del Rossellino: Madonna con bambino,ricca decorazione.Peccato che abbia perduto il colore!",74,98.4,False,positional,,,Sculture,,
-BO0624_81821,30086,44,45,Ritratto in terracotta.Secolo XVI.,75,95.7,False,positional,,,Sculture,,
+BO0624_81821,30086,44,45,Ritratto in terracotta.Secolo XVI.,75,95.7,False,positional,,,Sculture,,Sec. XVI
 BO0624_81821,30087,45,46,Marzocco in pietra.,76,92.3,False,positional,,,Sculture,,
 BO0624_81821,30088,46,47,"Testa in marmo, romana.",77,93.3,False,positional,,,Sculture,,
 BO0624_81821,30089,47,48,"Testa in marmo,romana.",78,93.3,False,positional,,,Sculture,,
@@ -124,7 +124,7 @@ BO0624_81821,30164,122,5,124.Altre due simili con cartella intagliata.,201,97.8,
 BO0624_81821,30165,123,6,125.Altre due simili a doppia fila di bullette tonde.,202,98.1,False,positional,,,Mobili,,
 BO0624_81821,30166,124,7,"126.Due poltrone in cuoio,differenti.",203,97.3,False,positional,,,POLTRONE,,
 BO0624_81821,30167,125,8,"127.Due poltrone eguali con braccioli centinati, una senza spalliera.",204,98.5,False,positional,,,POLTRONE,,
-BO0624_81821,30168,126,9,"128.Base di leggio a formelle, con filetti d''intarsio, Secolo XV.",205,98.4,False,positional,,,Mobili,,
+BO0624_81821,30168,126,9,"128.Base di leggio a formelle, con filetti d''intarsio, Secolo XV.",205,98.4,False,positional,,,Mobili,,Sec. XV
 BO0624_81821,30169,127,1,28X0.78,207,87.5,False,positional,,,Mobili,,
 BO0624_81821,30170,128,129,"Cassapanchina da centro, bolognese.",209,94.3,False,positional,,,Mobili,,
 BO0624_81821,30171,129,130,Cannoncino di ghisa.,213,90.5,False,positional,,,Armi,,
@@ -145,14 +145,14 @@ BO0624_81821,30185,143,3,144.Terracotta:Madonna con bambino in tabernacolo.,233,
 BO0624_81821,30186,144,145,Stucco a porta: testa di santo.,234,93.5,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30187,145,5,146.Grande busto terracotta policromata. (V.Tav.IV),235,98.0,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30188,146,147,Cassaforte con bullettoni e ricca serratura.,239,95.6,False,positional,,,Terrecotte; Stucchi,,
-BO0624_81821,30189,147,2,148.Detta piu piccola del secolo XV.,240,97.2,False,positional,,,Terrecotte; Stucchi,,
+BO0624_81821,30189,147,2,148.Detta piu piccola del secolo XV.,240,97.2,False,positional,,,Terrecotte; Stucchi,,Sec. XV
 BO0624_81821,30190,148,3,"149.Forzierino in ferro senza cerniere,in disordine.",241,98.1,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30191,149,4,150.Forzierino con decorazioni posteriori.,242,97.6,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30192,150,151,Due piatti molto concavi a sboff.,246,94.1,False,positional,,,PIATTI,,
 BO0624_81821,30193,151,152,"Due piatti grandi, uno figurato e l' altro liscio.",247,95.9,False,positional,,,PIATTI,,
 BO0624_81821,30194,152,153,Due paia di lampade.,248,90.5,False,positional,,,LAMPADE,,
 BO0624_81821,30195,153,154,Due lampade a sboffi.,249,90.9,False,positional,,,LAMPADE,,
-BO0624_81821,30196,154,155,Bacino di rame con brocca analoga di eccezionale grandezza.Splendido esemplare del secolo XVII. (V. Tav. VI). 75,250,96.7,False,positional,,,Terrecotte; Stucchi,,
+BO0624_81821,30196,154,155,Bacino di rame con brocca analoga di eccezionale grandezza.Splendido esemplare del secolo XVII. (V. Tav. VI). 75,250,96.7,False,positional,,,Terrecotte; Stucchi,,Sec. XVII
 BO0624_81821,30197,155,156,Una brocca di ottone con beccuccio. Arte toscana del secolo xVI.,256,96.9,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30198,156,157,Idem.,257,66.7,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30199,157,158,"Quattro lampadine,delle quali due a giorno.",258,95.5,False,positional,,,Terrecotte; Stucchi,,
@@ -165,27 +165,27 @@ BO0624_81821,30205,163,164,"Una pipa, tre sigilli, uno sprone,un pallino e un ma
 BO0624_81821,30206,164,165,Due frammenti di inferriata e una pila da acqua santa.,271,96.4,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30207,165,166,Inferriata con gigli negli interstizj.,272,94.9,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30208,166,167,Inferriata a occhi gotici grandi. 05X0.63,273,84.2,False,positional,,,Terrecotte; Stucchi,,
-BO0624_81821,30209,167,168,"Inferriata a occhio gotico piccolo,piu curata come lavoro. Arte italiana del secolo XIV.",277,97.7,False,positional,,,Terrecotte; Stucchi,,
+BO0624_81821,30209,167,168,"Inferriata a occhio gotico piccolo,piu curata come lavoro. Arte italiana del secolo XIV.",277,97.7,False,positional,,,Terrecotte; Stucchi,,Sec. XIV
 BO0624_81821,30210,168,169,Inferriata orizzontale con foglie.Arte francese dei primi dell'800.,281,97.1,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30211,169,170,Inferriata:il motivo e arricchito di foglie negli interstizj. 25X0.70,285,90.9,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30212,170,171,Grande battente a campanella.,291,93.3,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30213,171,172,Paio battenti da porta a punta di dia mante.Arte toscana.,292,96.6,False,positional,,,Terrecotte; Stucchi,,
-BO0624_81821,30214,172,173,"Due grandi picchi da portone.Arte italiana,secolo XVII.",293,96.4,False,positional,,,Terrecotte; Stucchi,,
+BO0624_81821,30214,172,173,"Due grandi picchi da portone.Arte italiana,secolo XVII.",293,96.4,False,positional,,,Terrecotte; Stucchi,,Sec. XVII
 BO0624_81821,30215,173,174,"Due battenti,uno dei quali a forma di",294,94.9,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30216,174,175,Quattro battenti di forme e grandezze diverse.Epoche varie.,296,96.7,False,positional,,,Terrecotte; Stucchi,,
-BO0624_81821,30217,175,176,Due paletti con battente. Secolo XV eXVI.,297,95.1,False,positional,,,Terrecotte; Stucchi,,
+BO0624_81821,30217,175,176,Due paletti con battente. Secolo XV eXVI.,297,95.1,False,positional,,,Terrecotte; Stucchi,,Sec. XV
 BO0624_81821,30218,176,177,Battente che rappresenta un leone. Lavoro tedesco del secoloXIV.,298,96.9,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30219,177,178,Sei arpioni da facciate.,302,92.0,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30220,178,2,179.Paio arpioni da stanza con gigli.,303,97.3,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30221,179,3,180.Un braccio a mensola e due panchette daletto.,304,98.0,False,positional,,,OGGETTI VARI,,
 BO0624_81821,30222,180,4,181.Grande braccio semplice.,305,96.4,False,positional,,,OGGETTI VARI,,
-BO0624_81821,30223,181,5,182.Braccio per insegna.Termina in un ele gante ciuffo di gigli e foglie svolazzanti con dorature.Lavoroitaliano delsecolo XVIII.,306,99.2,False,positional,,,OGGETTI VARI,,
+BO0624_81821,30223,181,5,182.Braccio per insegna.Termina in un ele gante ciuffo di gigli e foglie svolazzanti con dorature.Lavoroitaliano delsecolo XVIII.,306,99.2,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_81821,30224,182,183,"Magnifico tripode con nodo gotico,del puro quattrocento.(V. Tav.V).",310,96.9,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30225,183,184,"Tre lavamani diversi, uno molto veechio.",311,95.0,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30226,184,185,Un ferro da lavabo senza sostegno.,312,94.3,False,positional,,,Terrecotte; Stucchi,,
-BO0624_81821,30227,185,186,Una torcera del secolo XIV.,313,92.9,False,positional,,,Terrecotte; Stucchi,,
+BO0624_81821,30227,185,186,Una torcera del secolo XIV.,313,92.9,False,positional,,,Terrecotte; Stucchi,,Sec. XIV
 BO0624_81821,30228,186,187,Torcera per sostegno di parati sacri.,314,94.7,False,positional,,,Terrecotte; Stucchi,,
-BO0624_81821,30229,187,188,Due torcerine da tavola.Secolo XV.,315,94.3,False,positional,,,Terrecotte; Stucchi,,
+BO0624_81821,30229,187,188,Due torcerine da tavola.Secolo XV.,315,94.3,False,positional,,,Terrecotte; Stucchi,,Sec. XV
 BO0624_81821,30230,188,189,"Torcera a tortiglione semplice,con pie de gotico.",316,96.0,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30231,189,190,"Torcera spagnola, girante.",317,92.3,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30232,190,191,Tre molle da camino e un soffione.,321,94.3,False,positional,,,Terrecotte; Stucchi,,
@@ -208,8 +208,8 @@ BO0624_81821,30248,206,207,Pila da acqua santa formata da una croce coi simboli 
 BO0624_81821,30249,207,208,Piccolo leggio.Il reggilibro e una lastra traforata che ha per motivo la croce di Malta ripetuta tre volte.,352,98.1,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30250,208,209,Elegante vaso di bronzo.,353,92.0,False,positional,,,VASI,,
 BO0624_81821,30251,209,210,"Secchia da pozzo,gotica.",354,92.0,False,positional,,,Terrecotte; Stucchi,,
-BO0624_81821,30252,210,211,"Grande braccio per insegna, decorato da tralci di vite con pampani e grappoli dorati. Lavoro veneziano del secolo XVIII.",358,98.3,False,positional,,,OGGETTI VARI,,
-BO0624_81821,30253,211,212,"Arpione da stanza decorato dal giglio di Francia.Ottimo lavoro,ben conser vato.Secolo XVI.",359,97.8,False,positional,,,Terrecotte; Stucchi,,
+BO0624_81821,30252,210,211,"Grande braccio per insegna, decorato da tralci di vite con pampani e grappoli dorati. Lavoro veneziano del secolo XVIII.",358,98.3,False,positional,,,OGGETTI VARI,,Sec. XVIII
+BO0624_81821,30253,211,212,"Arpione da stanza decorato dal giglio di Francia.Ottimo lavoro,ben conser vato.Secolo XVI.",359,97.8,False,positional,,,Terrecotte; Stucchi,,Sec. XVI
 BO0624_81821,30254,212,213,Due bracci.Grossi quadrelli e reggetta di ferro battuto.,360,96.5,False,positional,,,Terrecotte; Stucchi,,
 BO0624_81821,30255,213,214,Due bracci per lampade.,361,91.7,False,positional,,,LAMPADE,,
 BO0624_81821,30256,214,215,"Due bracci per ceri.Il tondino e adornato da foglie di acanto, da tralci, rosette e tulipani dorati.Il piattino paracera e finissimo. L'esecuzione e ottima. Buono stato di conservazione.Oro e co lore originali.",362,99.0,False,positional,,,Terrecotte; Stucchi,,
@@ -230,45 +230,45 @@ BO0624_81821,30270,228,231,Culla intagliata a rosette.,382,92.9,False,positional
 BO0624_81821,30271,229,232,Tavolone intagliato a lira piena con piano splendido. 59X1.23,383,89.7,False,positional,,,Mobili,,
 BO0624_81821,30272,230,233,Tre mattonelle maiolica con stemma degli Strozzi.,389,96.0,False,positional,,,Terraglie,,
 BO0624_81821,30273,231,234,"Cinque zuppiere di terraglia francese, frammentate.",390,96.1,False,positional,,,Terraglie,,
-BO0624_81821,30274,232,235,"Alberello:decorazione a vivi colori con stemma ed imprese,datato 1580.Urbino.",391,97.4,False,positional,,,Terraglie,,
+BO0624_81821,30274,232,235,"Alberello:decorazione a vivi colori con stemma ed imprese,datato 1580.Urbino.",391,97.4,False,positional,,,Terraglie,,Sec. XVI
 BO0624_81821,30275,233,236,Altro simile.,392,85.7,False,positional,,,Terraglie,,
 BO0624_81821,30276,234,237,Due bottiglie decorate da insegna claustrale. Cafaggiolo (penne di pavone).,393,97.3,False,positional,,,BOTTIGLIE,,
 BO0624_81821,30277,235,238,Broccone con ritratto.Della Fratta.,394,94.4,False,positional,,,Terraglie,,
 BO0624_81821,30278,236,239,Vaso Savona con mascherone.,395,92.9,False,positional,,,VASI,,
-BO0624_81821,30279,237,240,Giulio Cesare e Nerone.Due statuette in bronzo con basi. Secolo XVII.,399,97.1,False,positional,,,Bronzi,,
+BO0624_81821,30279,237,240,Giulio Cesare e Nerone.Due statuette in bronzo con basi. Secolo XVII.,399,97.1,False,positional,,,Bronzi,,Sec. XVII
 BO0624_81821,30280,238,241,Caligola e Vitellio.,400,90.5,False,positional,,,Bronzi,,
 BO0624_81821,30281,239,242,Galba e Domiziano.,401,89.5,False,positional,,,Bronzi,,
 BO0624_81821,30282,240,243,Ottaviano e Claudio.,402,90.5,False,positional,,,Bronzi,,
 BO0624_81821,30283,241,244,Tiberio ed Ottone.,403,89.5,False,positional,,,Bronzi,,
-BO0624_81821,30284,242,245,La Madonna in adorazione del Bambino;in alto l'Eterno Padre contornato di Angeli. Stucco policromato. Secolo XVI.,407,98.2,False,positional,,,Sculture,,
-BO0624_81821,30285,243,246,Testa d’uomo in terracotta.Secolo XVI.,408,94.9,False,positional,,,Sculture,,
+BO0624_81821,30284,242,245,La Madonna in adorazione del Bambino;in alto l'Eterno Padre contornato di Angeli. Stucco policromato. Secolo XVI.,407,98.2,False,positional,,,Sculture,,Sec. XVI
+BO0624_81821,30285,243,246,Testa d’uomo in terracotta.Secolo XVI.,408,94.9,False,positional,,,Sculture,,Sec. XVI
 BO0624_81821,30286,244,247,San Sebastiano.Seultura policromata in legno del secoloXV.Ammirabile come finezza di esecuzione e per il sentimento di dolore che inspira.(V.Tav. XxxII). 1.84,409,98.7,False,positional,,,Sculture,,
 BO0624_81821,30287,245,248,Grande terracotta:La Samaritana di Giovanni della Robbia.(V.Tav. XI).,410,97.0,False,positional,DELLA ROBBIA ANDREA,Scuola di Giovanni Della Robbia,Sculture,,
-BO0624_81821,30288,246,249,Busto di monaca in terracotta policromata. Base di legno in parte dorato. Secolo XV.,411,97.6,False,positional,,,Sculture,,
-BO0624_81821,30289,247,250,Marmo da tomba.Secolo XIV.,412,92.6,False,positional,,,Sculture,,
-BO0624_81821,30290,248,251,Paio di battenti massello a campanella con fogliame.Lavoro finissimo del secolo XVI.,416,97.6,False,positional,,,Sculture,,
+BO0624_81821,30288,246,249,Busto di monaca in terracotta policromata. Base di legno in parte dorato. Secolo XV.,411,97.6,False,positional,,,Sculture,,Sec. XV
+BO0624_81821,30289,247,250,Marmo da tomba.Secolo XIV.,412,92.6,False,positional,,,Sculture,,Sec. XIV
+BO0624_81821,30290,248,251,Paio di battenti massello a campanella con fogliame.Lavoro finissimo del secolo XVI.,416,97.6,False,positional,,,Sculture,,Sec. XVI
 BO0624_81821,30291,249,252,Battente.Massello a forma di cuore. Rosa in piastra ritagliata e traforata. La decorazione ericca emolto finamente eseguita.,417,98.4,False,positional,,,Sculture,,
-BO0624_81821,30292,250,253,Due battenti da porta formati da volute riunite da una conchiglia.Decorazione semplice ottenuta a scalpello. Lavoro dei piu fini.Arte italiana del secolo XVI.,418,98.7,False,positional,,,Sculture,,
-BO0624_81821,30293,251,254,Battente a campanella con piastra traforata a croce.Bel lavoro tedesco del secolo XV.,419,97.7,False,positional,,,Sculture,,
+BO0624_81821,30292,250,253,Due battenti da porta formati da volute riunite da una conchiglia.Decorazione semplice ottenuta a scalpello. Lavoro dei piu fini.Arte italiana del secolo XVI.,418,98.7,False,positional,,,Sculture,,Sec. XVI
+BO0624_81821,30293,251,254,Battente a campanella con piastra traforata a croce.Bel lavoro tedesco del secolo XV.,419,97.7,False,positional,,,Sculture,,Sec. XV
 BO0624_81821,30294,252,255,Battente con mascheroni.,420,92.0,False,positional,,,Sculture,,
-BO0624_81821,30295,253,256,Battente a campanella.Rappresenta un serpe squamato che simorde la coda. In basso un anello con rosetta.Buon lavoro del secolo XVI. (V.Tav. I).,421,98.6,False,positional,,,Sculture,,
+BO0624_81821,30295,253,256,Battente a campanella.Rappresenta un serpe squamato che simorde la coda. In basso un anello con rosetta.Buon lavoro del secolo XVI. (V.Tav. I).,421,98.6,False,positional,,,Sculture,,Sec. XVI
 BO0624_81821,30296,254,257,Battente formato da quattro serpi dai corpi squamosi che si attorcigliano fra loro due a due.Le teste sono in alto. Curioso lavoro tedesco del secolo xVo XVI.(V. Tav.I).,422,98.8,False,positional,,,Sculture,,
 BO0624_81821,30297,255,258,Paletto a traforo in lamiera con cam,423,94.7,False,positional,,,Sculture,,
 BO0624_81821,30298,256,259,Tre campanelle a battente in forma di,425,94.9,False,positional,,,Sculture,,
-BO0624_81821,30299,257,260,Picchio.Piastra di lamiera traforata a disegno intricatissimo.Lavoro spagnolo del secolo XV.,427,97.8,False,positional,,,Sculture,,
+BO0624_81821,30299,257,260,Picchio.Piastra di lamiera traforata a disegno intricatissimo.Lavoro spagnolo del secolo XV.,427,97.8,False,positional,,,Sculture,,Sec. XV
 BO0624_81821,30300,258,261,Tre bellissime serrature tedesche.,431,94.3,False,title_direct,,,Serrature,,
-BO0624_81821,30301,259,262,Grande serratura con chiave. Lavoro italiano del secolo XVII.,432,96.7,False,positional,,,Serrature,,
+BO0624_81821,30301,259,262,Grande serratura con chiave. Lavoro italiano del secolo XVII.,432,96.7,False,positional,,,Serrature,,Sec. XVII
 BO0624_81821,30302,260,263,"Sette piccole serrature variate,molto",433,94.9,False,title_direct,,,Serrature,,
 BO0624_81821,30303,261,264,Paio torcere emiliane.Piede a tripode formato di volute e controvolute.Tre grossi nodi ed il piattino di bronzo. La-,435,98.3,False,positional,,,Serrature,,
 BO0624_81821,30304,262,265,Torcere con base di legno.Buon lavoro,437,94.9,False,positional,,,Serrature,,
-BO0624_81821,30305,263,266,Paio di torcere.Il tripode ha la forma gotica. Lasta ha due nodi: uno in basso ed uno in alto.Lavoro del secolo XIV.,439,98.3,False,positional,,,Serrature,,
+BO0624_81821,30305,263,266,Paio di torcere.Il tripode ha la forma gotica. Lasta ha due nodi: uno in basso ed uno in alto.Lavoro del secolo XIV.,439,98.3,False,positional,,,Serrature,,Sec. XIV
 BO0624_81821,30306,264,267,Doppio alare. Caratteristiche le im-,443,94.4,False,positional,,,Serrature,,
 BO0624_81821,30307,265,268,Paio di alari con finali a gabbia.,445,94.3,False,positional,,,Serrature,,
 BO0624_81821,30308,266,269,Due paia di alari da caminetto.Un,446,94.3,False,positional,,,Serrature,,
 BO0624_81821,30309,267,270,Due paia di alari diversi. (Un paio in,448,94.7,False,positional,,,Serrature,,
 BO0624_81821,30310,268,271,"Lavabo policromato.Un tripode adorno di foglie e fiori,volute e riccioli sopporta il bacile.Il secchiello e portato da una bella mensola terminata con un drago ad ali aperte che con la coda forma un gancio, al quale é appeso il secchiello. Un braccio a svolazzo serve per P' asciu-",453,99.3,False,positional,,,Serrature,,
 BO0624_81821,30311,269,272,"Lavabo a tripode,epoca ottima,per-",454,94.3,False,positional,,,Serrature,,
-BO0624_81821,30312,270,273,"Due lavamani da muro, uno dei quali veneziano, del secolo XVII, con secchia.",457,97.3,False,positional,,,Serrature,,
+BO0624_81821,30312,270,273,"Due lavamani da muro, uno dei quali veneziano, del secolo XVII, con secchia.",457,97.3,False,positional,,,Serrature,,Sec. XVII
 BO0624_81821,30313,271,274,Due graziosi fusti per lavamani. Gran-,459,94.7,False,positional,,,Serrature,,
 BO0624_81821,30314,272,275,Bilancia per sospendere 9 lampade. Tondino reggetta e bandone colorato e,463,97.3,False,positional,,,Serrature,,
 BO0624_81821,30315,273,276,"Cancellino alto policromato,ad un sol",465,94.9,False,positional,,,Serrature,,
@@ -294,7 +294,7 @@ BO0624_81821,30334,292,295,Staderina e gancio romano.,492,92.6,False,positional,
 BO0624_81821,30335,293,296,Nove maniglie da porta.,493,91.7,False,positional,,,Serrature,,
 BO0624_81821,30336,294,10,297.Angelo portalampada.In grossa lamiera di ferro a sbalzo. Tracce di po licromia e dorature.,494,98.4,False,positional,,,Serrature,,
 BO0624_81821,30337,295,298,"Sei smoccolatoi,due forchette e una scatola da ostie.",495,96.3,False,positional,,,Serrature,,
-BO0624_81821,30338,296,12,"299.Lume veneziano del 1700,in lamiera, oroe.colore.",496,97.1,False,positional,,,Serrature,,
+BO0624_81821,30338,296,12,"299.Lume veneziano del 1700,in lamiera, oroe.colore.",496,97.1,False,positional,,,Serrature,,Sec. XVIII
 BO0624_81821,30339,297,13,300.Leone che serve da porta-insegna.,497,96.0,False,positional,,,Serrature,,
 BO0624_81821,30340,298,301,"Macinino,colabrodo e altri tre pezzi da cucina.",506,95.8,False,positional,,,Serrature,,
 BO0624_81821,30341,299,302,Tre coltelli.,507,85.7,False,positional,,,Serrature,,
@@ -308,15 +308,15 @@ BO0624_81821,30348,306,309,Copertina di messale.,514,90.9,False,positional,,,Ser
 BO0624_81821,30349,307,310,Rilegatura di corale.Con borchie ed angoli in ferro battuto.,515,96.7,False,positional,,,Serrature,,
 BO0624_81821,30350,308,311,Bilancie.,516,80.0,False,positional,,,Serrature,,
 BO0624_81821,30351,309,312,"Cassetta per il sale, bolognese e una toppa senza boncinello.",517,96.7,False,positional,,,Serrature,,
-BO0624_81821,30352,310,313,Mezza figura del 1300.,521,91.3,False,positional,,,Sculture,,
+BO0624_81821,30352,310,313,Mezza figura del 1300.,521,91.3,False,positional,,,Sculture,,Sec. XIV
 BO0624_81821,30353,311,2,314.Frammento di Benedetto da Rovezzano.,522,97.5,False,positional,,,Sculture,,
 BO0624_81821,30354,312,315,"Venere, alto rilievo.",523,90.5,False,positional,,,Sculture,,
 BO0624_81821,30355,313,316,Pila con serafino.Desiderio.,524,93.1,False,positional,,,Sculture,,
 BO0624_81821,30356,314,5,317.Bustino di Cristo in pietra.,525,96.9,False,positional,,,Sculture,,
 BO0624_81821,30357,315,318,Piccola rosta.,529,86.7,False,positional,,,Sculture,,
-BO0624_81821,30358,316,319,"Grande rosta a volute. Arte toscana, secolo XVII.",533,95.8,False,positional,,,Sculture,,
-BO0624_81821,30359,317,320,"Rosta.Reggetta tortiglione e rosette in lamiera.Lavoro lucchese, secolo XV.",537,97.3,False,positional,,,Sculture,,
-BO0624_81821,30360,318,321,Rosta da porta.Tondino a tortiglione di differente sezione.Buon lavoro del secolo XIV.,538,97.7,False,positional,,,Sculture,,
+BO0624_81821,30358,316,319,"Grande rosta a volute. Arte toscana, secolo XVII.",533,95.8,False,positional,,,Sculture,,Sec. XVII
+BO0624_81821,30359,317,320,"Rosta.Reggetta tortiglione e rosette in lamiera.Lavoro lucchese, secolo XV.",537,97.3,False,positional,,,Sculture,,Sec. XV
+BO0624_81821,30360,318,321,Rosta da porta.Tondino a tortiglione di differente sezione.Buon lavoro del secolo XIV.,538,97.7,False,positional,,,Sculture,,Sec. XIV
 BO0624_81821,30361,319,322,"Rosta da porta o cancello. Ha il monogramma AF,elegantissimo,adorno di volute.",539,97.4,False,positional,,,Sculture,,
 BO0624_81821,30362,320,323,Piccola vera da pozzo in reggetta e lamiera.,540,95.6,False,positional,,,Sculture,,
 BO0624_81821,30363,321,324,Due pannelli in lamiera sbalzata.,544,94.1,False,positional,,,PANNELLI,,
@@ -327,7 +327,7 @@ BO0624_81821,30367,325,328,Chiusura di botte a forma di gallo.,551,94.4,False,po
 BO0624_81821,30368,326,329,Idem.,552,66.7,False,positional,,,Sculture,,
 BO0624_81821,30369,327,330,Idem.,553,66.7,False,positional,,,Sculture,,
 BO0624_81821,30370,328,331,"Inferriata a occhi gotici.Fine lavoro del secolo XV,squisitamente eseguito. 0.60X0.45",556,97.7,False,positional,,,Sculture,,
-BO0624_81821,30371,329,332,Inferriatina italiana del secolo XV. 0.48X0.50,557,95.7,False,positional,,,Sculture,,
+BO0624_81821,30371,329,332,Inferriatina italiana del secolo XV. 0.48X0.50,557,95.7,False,positional,,,Sculture,,Sec. XV
 BO0624_81821,30372,330,333,"Piccola inferriata,probabilmente spia da porta.",558,95.8,False,positional,,,Sculture,,
 BO0624_81821,30373,331,334,Cancello ad un battente. 40X1.25,562,79.3,False,positional,,,Sculture,,
 BO0624_81821,30374,332,335,Cancellino completo da tabernacolo composto di due battenti ed una rosta piccola con iserizioni.,566,97.9,False,positional,,,Sculture,,
@@ -341,11 +341,11 @@ BO0624_81821,30381,339,342,Cinque piecoli battenti in massello.,579,94.6,False,p
 BO0624_81821,30382,340,2,343.Tre toppe diverse.,580,95.5,False,positional,,,Sculture,,
 BO0624_81821,30383,341,3,344.Battente del secolo XVI.Due serpi con la testa in basso coi corpi aggrovigliolati slanciano le loro code terminanti in punta di lancia in cima.,581,99.3,False,positional,CIMA DA CONEGLIANO,,Sculture,,
 BO0624_81821,30384,342,4,345.Due chiavistelli e quattro frammenti eguali da letto.,582,98.2,False,positional,,,Sculture,,
-BO0624_81821,30385,343,5,"346.Paio di picchi primitivi terminanti a teste di animale; forme e grandezze diverse,secolo XIV.",583,99.0,False,positional,,,Sculture,,
+BO0624_81821,30385,343,5,"346.Paio di picchi primitivi terminanti a teste di animale; forme e grandezze diverse,secolo XIV.",583,99.0,False,positional,,,Sculture,,Sec. XIV
 BO0624_81821,30386,344,6,"347.Un battente,una campanella,un mor taio e un arpione da cavalli.",584,98.5,False,positional,,,Sculture,,
-BO0624_81821,30387,345,7,348.Picchi da porta (due eguali) a forma di serpi. Secolo XV.,585,98.3,False,positional,,,Sculture,,
+BO0624_81821,30387,345,7,348.Picchi da porta (due eguali) a forma di serpi. Secolo XV.,585,98.3,False,positional,,,Sculture,,Sec. XV
 BO0624_81821,30388,346,8,349.Paio battenti da porta.Forma campanella allungata.Decorazione geometrica e grossi fori a punzone.Lavoro ben eseguito.Ottima conservazione.Lavoro italiano del secoloXIV.,586,99.4,False,positional,,,Sculture,,
-BO0624_81821,30389,347,9,"350.Battente in massello.E fornato da un drago senza ali con la coda larga a spire ed il collo proteso in basso,come quello di un cigno. Tiene in bocca un serpentello il quale gli morde un orecchio. Il corpo del primo e a intaccature.Il serpe e liscio.Bel lavoro del secolo XV.",587,99.6,False,positional,,,Sculture,,
+BO0624_81821,30389,347,9,"350.Battente in massello.E fornato da un drago senza ali con la coda larga a spire ed il collo proteso in basso,come quello di un cigno. Tiene in bocca un serpentello il quale gli morde un orecchio. Il corpo del primo e a intaccature.Il serpe e liscio.Bel lavoro del secolo XV.",587,99.6,False,positional,,,Sculture,,Sec. XV
 BO0624_81821,30390,348,351,Bischetto bolognese.,591,90.5,False,positional,,,Mobili,,
 BO0624_81821,30391,349,352,Mobile a credenzina.,592,90.5,False,title_direct,,,Mobili,,
 BO0624_81821,30392,350,353,"Due sedie a cartella, diverse.",593,93.3,False,positional,,,SEDIE,,
@@ -359,7 +359,7 @@ BO0624_81821,30399,357,360,Due poltrone spagnole cuoio nero.,600,94.1,False,posi
 BO0624_81821,30400,358,361,Due idem:preferenza.,601,90.5,False,positional,,,Mobili,,
 BO0624_81821,30401,359,362,Due idem:preferenza.,602,90.5,False,positional,,,Mobili,,
 BO0624_81821,30402,360,363,Savonarola moderna.,603,90.0,False,positional,,,Mobili,,
-BO0624_81821,30403,361,364,Grande mobile da ingresso in noce a formellescolpiteecolonninescannellate. Secolo XVI. 50X3.05,604,93.3,False,positional,,,Mobili,,
+BO0624_81821,30403,361,364,Grande mobile da ingresso in noce a formellescolpiteecolonninescannellate. Secolo XVI. 50X3.05,604,93.3,False,positional,,,Mobili,,Sec. XVI
 BO0624_81821,30404,362,365,Grande cassapanca di accompagno.,608,93.9,False,positional,,,Mobili,,
 BO0624_81821,30405,363,366,Cassa toscana a cartelle. 50X3.05,609,80.0,False,positional,,,Mobili,,
 BO0624_81821,30406,364,367,"Cassa a sarcofago,romagnola, intarsiata.",613,95.0,False,positional,,,Mobili,,
@@ -371,7 +371,7 @@ BO0624_81821,30411,369,372,Sei chiavi e sei bocchette.,621,92.9,False,positional
 BO0624_81821,30412,370,373,Due torcere. Il tripode a grandi ricciolieornato di striature larghe eprofonde longitudinalmente.,624,97.9,False,positional,,,Mobili,,
 BO0624_81821,30413,371,2,374.Torcera.Da un tripode a piedi arcuati a voluta e terminanti in riccioli si erge 1'asta formata da quattro quadrelli riuniti a tortiglione.,625,99.3,False,positional,,,Mobili,,
 BO0624_81821,30414,372,375,Torcera del secolo XVIII.Quadrello e lamiera.Bella e simpatica forma.Buon barocco.Esecuzione accurata.V.Tavola II).,626,98.3,False,positional,,,Mobili,,
-BO0624_81821,30415,373,376,Paio alari toscani. Secolo XVI.,630,93.5,False,positional,,,Oggetti di Cucina,,
+BO0624_81821,30415,373,376,Paio alari toscani. Secolo XVI.,630,93.5,False,positional,,,Oggetti di Cucina,,Sec. XVI
 BO0624_81821,30416,374,377,"Quattro ferri da stirare, due dei quali con cassetta per il fuoco.Secolo xVIII.",631,97.5,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30417,375,378,Due catene da camino con ganci.,632,93.8,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30418,376,379,Paio alari toscani.,633,90.0,False,positional,,,Oggetti di Cucina,,
@@ -382,16 +382,16 @@ BO0624_81821,30422,380,383,"Paio alari.Due piedi, ciascuno ad arco, senza riccio
 BO0624_81821,30423,381,384,"Due utensili per bracere,un battente a serpe e una lucernina.",638,96.8,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30424,382,385,Paniera a larghi trafori collegati da filo di ferro grosso a S.,642,96.9,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30425,383,386,"Una culla,rara.",643,87.5,False,positional,,,Oggetti di Cucina,,
-BO0624_81821,30426,384,387,Chiodo adoperato nella armatura di quercia della cupola di S.Maria del Fiore (1421-1434)e tolto dal fabbro fio. rentino Rapi nel 1895 durante i restauri.,644,98.7,False,positional,,,Oggetti di Cucina,,
+BO0624_81821,30426,384,387,Chiodo adoperato nella armatura di quercia della cupola di S.Maria del Fiore (1421-1434)e tolto dal fabbro fio. rentino Rapi nel 1895 durante i restauri.,644,98.7,False,positional,,,Oggetti di Cucina,,Sec. XV
 BO0624_81821,30427,385,388,Mappamondo.,645,83.3,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30428,386,389,"Piccola scrivania da tavola,intagliata e lumeggiata in oro.",646,96.7,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30429,387,390,Piccola scrivania da tavola comelaprecedente.,647,95.7,False,positional,,,Oggetti di Cucina,,
-BO0624_81821,30430,388,391,"Lume a mano del secolo XV, con piede a tripode.",648,95.7,False,positional,,,Oggetti di Cucina,,
+BO0624_81821,30430,388,391,"Lume a mano del secolo XV, con piede a tripode.",648,95.7,False,positional,,,Oggetti di Cucina,,Sec. XV
 BO0624_81821,30431,389,392,Manichino con armatura completa.,649,93.9,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30432,390,393,Testa marmo romana.,653,90.0,False,positional,,,Sculture,,
 BO0624_81821,30433,391,394,Testa marmo romana.,654,90.0,False,positional,,,Sculture,,
 BO0624_81821,30434,392,395,Terracotta:Madonna e Bambino.V. Tav.VII). 20 Due piccoli angioli scolpiti in legno.,659,63.3,False,positional,,,Sculture,,
-BO0624_81821,30435,393,2,397.Madonna in legno del 1300:collezione Stroganoff.,660,98.1,False,positional,,,Sculture,COLLEZIONE GREGORIO STROGANOFF,
+BO0624_81821,30435,393,2,397.Madonna in legno del 1300:collezione Stroganoff.,660,98.1,False,positional,,,Sculture,COLLEZIONE GREGORIO STROGANOFF,Sec. XIV
 BO0624_81821,30436,394,3,"398.Statuina in terracotta,rappresentante un vescovo.",661,98.1,False,positional,,,Sculture,,
 BO0624_81821,30437,395,4,"399.Terracotta:Madonna con bambino,policromata.",662,97.9,False,positional,,,Sculture,,
 BO0624_81821,30438,396,5,400.Due marzocchini in pietra.,663,96.7,False,positional,,,Sculture,,
@@ -401,7 +401,7 @@ BO0624_81821,30441,399,403,Idem.,674,66.7,False,positional,,,Sculture,,
 BO0624_81821,30442,400,404,Cassettina da libro.Due borchie tedesche per cassone. Calamaio e porta orologio.,675,97.5,False,positional,,,Sculture,,
 BO0624_81821,30443,401,405,"Un paio carrucole,un arpione,uno stelo di rosa,un cerchio a decorazioni geometriche.Epoche diverse.",676,98.0,False,positional,,,Sculture,,
 BO0624_81821,30444,402,406,Dodici pezzi varj. Epoche diverse.,677,94.1,False,positional,,,Sculture,,
-BO0624_81821,30445,403,407,"Un arpione da cavallo,secolo XIV,due paletti,un chiavistello,secolo XV.",678,97.2,False,positional,,,Sculture,,
+BO0624_81821,30445,403,407,"Un arpione da cavallo,secolo XIV,due paletti,un chiavistello,secolo XV.",678,97.2,False,positional,,,Sculture,,Sec. XV
 BO0624_81821,30446,404,408,"Ferro da piedi,ferro da polsi e nodo da sospensione.Epoche diverse.",679,97.1,False,positional,,,Sculture,,
 BO0624_81821,30447,405,409,"Croce greca su grande ciuffo, croce latina,secoli XVII e XVIII.",680,96.8,False,positional,,,Sculture,,
 BO0624_81821,30448,406,410,Due piatti ottone a sboffi.,684,92.9,False,positional,,,PIATTI,,
@@ -409,20 +409,20 @@ BO0624_81821,30449,407,411,Due catinelle di ottone.,685,92.0,False,positional,,,
 BO0624_81821,30450,408,412,Grande piatto con mesci acqua di pel tro.,686,95.2,False,positional,,,Sculture,,
 BO0624_81821,30451,409,413,Grande brocca rame con mascherone sbalzato.,687,95.5,False,positional,,,Sculture,,
 BO0624_81821,30452,410,414,Picchio da porta in forma di drago.,691,94.4,False,positional,,,Sculture,,
-BO0624_81821,30453,411,415,"Bellissimo battente a campanella,com pleto.Lavoro italiano del secolo XV.",692,97.3,False,positional,,,Sculture,,
-BO0624_81821,30454,412,416,"Picchio.Grossa reggetta.E ornato di trofei d'armi, foglie ed emblemi ottenuti a basso rilievo. Lavoro italiano del secolo XVI.",693,98.4,False,positional,,,Sculture,,
+BO0624_81821,30453,411,415,"Bellissimo battente a campanella,com pleto.Lavoro italiano del secolo XV.",692,97.3,False,positional,,,Sculture,,Sec. XV
+BO0624_81821,30454,412,416,"Picchio.Grossa reggetta.E ornato di trofei d'armi, foglie ed emblemi ottenuti a basso rilievo. Lavoro italiano del secolo XVI.",693,98.4,False,positional,,,Sculture,,Sec. XVI
 BO0624_81821,30455,413,417,Battente.Delfino piegato. Gli ornati sono finissimamente scolpiti ed incisi. Stupendo lavoroitaliano del secoloXVI.,694,98.2,False,positional,,,Sculture,,
 BO0624_81821,30456,414,418,Grande battente da porta.Strano lavoro del secolo xIVo xV.,695,96.6,False,positional,,,Sculture,,
 BO0624_81821,30457,415,419,Battente. Massello. Una grossa lucertola fissa: su di essa un serpente con la testa di drago.La lucertola ha il corpo decorato di stelle regolari a punzone.Lavoro tedesco del secolo xVI. (V.Tav.XII).,696,99.0,False,positional,,,Sculture,,
 BO0624_81821,30458,416,420,"Picchio a testa di drago. Massello.Il picchio con la larga testa a sezione quadrata,smussata,e coperto da una foglia a riccioli,contornata a lobi di acanto e squamata, formante quasi il corpo del1'animale. Termina in una bellissima",697,99.1,False,positional,,,Sculture,,
-BO0624_81821,30459,417,421,Tre battenti da porta (due eguali.La voro italiano.Secolo XIV.,699,96.8,False,positional,,,Sculture,,
-BO0624_81821,30460,418,422,"Paio di picchi da porta; uno a testa di drago,l'altro profondamente inciso. Secolo XIV.",700,97.7,False,positional,,,Sculture,,
+BO0624_81821,30459,417,421,Tre battenti da porta (due eguali.La voro italiano.Secolo XIV.,699,96.8,False,positional,,,Sculture,,Sec. XIV
+BO0624_81821,30460,418,422,"Paio di picchi da porta; uno a testa di drago,l'altro profondamente inciso. Secolo XIV.",700,97.7,False,positional,,,Sculture,,Sec. XIV
 BO0624_81821,30461,419,423,"Alare doppio con stemma Morosini.Le linee generali maestose in se stesse e le proporzioni armoniche ne fanno uno dei pezzi piu importanti della collezione. Dal lato tecnico poi e una perfezione. Gli alari ricchi di chioccioli, di anelli, di campanelle, sono sormontati da due porta-vasi di forma ancora quattrocentesca,ed infine il coronamento e arricchito dallo stemma dei Morosini. Lavoro veneziano del secoloXV.",704,99.5,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30462,420,424,Due paia di alari dei quali un paio con pomi di bronzo.Epoche diverse.,705,97.2,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30463,421,425,Paio alari bronzo. ll fusto e a bellissime palle istoriate. Secolo XVI.(V. Tavola XXI).,706,97.6,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30464,422,426,Due bracci per lampade.,710,91.7,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30465,423,427,Due bracci con angeli e carrucola per appendere la lampada.,711,96.7,False,positional,,,Oggetti di Cucina,,
-BO0624_81821,30466,424,428,Candelabro dorato (da attaccare al muro). Con volute ricongiunte da collari con quattro boccioli sorretti da petali di rosellina di macchia.Arte francese. Secolo XVIII.,712,98.8,False,positional,,,Oggetti di Cucina,,
+BO0624_81821,30466,424,428,Candelabro dorato (da attaccare al muro). Con volute ricongiunte da collari con quattro boccioli sorretti da petali di rosellina di macchia.Arte francese. Secolo XVIII.,712,98.8,False,positional,,,Oggetti di Cucina,,Sec. XVIII
 BO0624_81821,30467,425,429,Due viticci a tre candele.,713,92.6,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30468,426,430,Quattro viticci dorati.,714,91.7,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30469,427,431,Due viticci a foglie d’acanto.,715,93.5,False,positional,,,Oggetti di Cucina,,
@@ -430,14 +430,14 @@ BO0624_81821,30470,428,432,Braccio per appendere un'insegna 0 una lampada.,716,9
 BO0624_81821,30471,429,433,Bellissimo braccio a fogliami dorati e,717,95.0,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30472,430,434,"Braccio per cero,a forma di tulipano col gambo coperto da foglie di aeanto in grossa lamiera. Bellissimo lavoro. Resti di pittura.Ottimo stato.(V.Tavola XXII).",719,98.7,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30473,431,435,Due piccoli bracci dorati.,720,92.6,False,positional,,,Oggetti di Cucina,,
-BO0624_81821,30474,432,436,"Pieta Robbiana.Terracotta,secolo XV.",724,94.6,False,positional,,,Sculture,,
+BO0624_81821,30474,432,436,"Pieta Robbiana.Terracotta,secolo XV.",724,94.6,False,positional,,,Sculture,,Sec. XV
 BO0624_81821,30475,433,437,"Due angioli grandi, dorati, policromati.(V.Tav.XVII).",725,96.0,False,positional,,,Sculture,,
-BO0624_81821,30476,434,438,"Statuetta legno,manto dorato.Secolo XIV.",726,95.1,False,positional,,,Sculture,,
+BO0624_81821,30476,434,438,"Statuetta legno,manto dorato.Secolo XIV.",726,95.1,False,positional,,,Sculture,,Sec. XIV
 BO0624_81821,30477,435,439,"Stemma:leone rampante,in pietra.Secolo xV.",727,95.3,False,positional,,,Sculture,,
 BO0624_81821,30478,436,440,Stemma:Aquila con targa quattrocentesca.,728,95.1,False,positional,,,Sculture,,
-BO0624_81821,30479,437,441,Madonnina marmo con bambino.Altorilievo del secolo XV. (V.Tav.XXII).,729,97.0,False,positional,,,Sculture,,
+BO0624_81821,30479,437,441,Madonnina marmo con bambino.Altorilievo del secolo XV. (V.Tav.XXII).,729,97.0,False,positional,,,Sculture,,Sec. XV
 BO0624_81821,30480,438,442,"Cofanetto noce,montato in pietre dure e lumeggiato in oro.",733,96.6,False,positional,,,Sculture,,
-BO0624_81821,30481,439,443,Bellissimo cofanetto ricoperto di cuoio impresso a piccoli ferri;rapporti di bronzo. Secolo XVI.,734,97.9,False,positional,,,Sculture,,
+BO0624_81821,30481,439,443,Bellissimo cofanetto ricoperto di cuoio impresso a piccoli ferri;rapporti di bronzo. Secolo XVI.,734,97.9,False,positional,,,Sculture,,Sec. XVI
 BO0624_81821,30482,440,444,Cassa o forziere in legno armato di ferro con ricca borchia.,735,96.7,False,positional,,,Sculture,,
 BO0624_81821,30483,441,445,Forziere da campo.Cassa in lamiera di ferro rinforzata.,736,96.4,False,positional,,,Sculture,,
 BO0624_81821,30484,442,446,Forzierino d' acciaio.Lamiera d' acciaio con riporti di ferro.,737,96.7,False,positional,,,Sculture,,
@@ -445,24 +445,24 @@ BO0624_81821,30485,443,447,Forzierino in ferro con scritta:ToMASO AGAZZI.,738,95
 BO0624_81821,30486,444,448,Dieci chiavi e diciannove borchie.,742,94.3,False,positional,,,Sculture,,
 BO0624_81821,30487,445,449,Otto chiavi e dieci bocchette.,743,93.5,False,positional,,,Sculture,,
 BO0624_81821,30488,446,450,Dieci belle chiavi.,744,90.0,False,positional,,,Sculture,,
-BO0624_81821,30489,447,451,Grande cancello da giardino a due battenti.Secolo XVII.,747,96.4,False,positional,,,Sculture,,
+BO0624_81821,30489,447,451,Grande cancello da giardino a due battenti.Secolo XVII.,747,96.4,False,positional,,,Sculture,,Sec. XVII
 BO0624_81821,30490,448,1,85X2.91,749,87.5,False,positional,,,Sculture,,
-BO0624_81821,30491,449,453,"Cancello ad un sol battente.Il lavoro e accuratissimo, della massima precisione ed ottimo di disegno.Lavoro italiano della fine del secolo XVII.",751,98.6,False,positional,,,Sculture,,
+BO0624_81821,30491,449,453,"Cancello ad un sol battente.Il lavoro e accuratissimo, della massima precisione ed ottimo di disegno.Lavoro italiano della fine del secolo XVII.",751,98.6,False,positional,,,Sculture,,Sec. XVII
 BO0624_81821,30492,450,452,Geniale esemplare di ferriata a volute con finale splendido.Lavoro aretino del secolo XVI.(V.Tav.XVIII).,752,98.1,False,positional,,,Sculture,,
 BO0624_81821,30493,451,2,24X1.38,754,87.5,False,positional,,,Sculture,,
-BO0624_81821,30494,452,454,Grande inferriata da balaustra.Lavoro italiano del secolo XVII.,756,96.9,False,positional,,,Sculture,,
+BO0624_81821,30494,452,454,Grande inferriata da balaustra.Lavoro italiano del secolo XVII.,756,96.9,False,positional,,,Sculture,,Sec. XVII
 BO0624_81821,30495,453,455,Ringhiera a tortiglione.Bel lavoro senese del secolo xV. 07X0.90 Inferriata da balaustra.Grosso quadrello dorato a mordente.Lavoro italiano del secoloxVIII. 13X0.91,761,71.1,False,positional,,,Sculture,,
 BO0624_81821,30496,454,457,Inferriata a quadrifoglio.,765,92.6,False,positional,,,Sculture,,
-BO0624_81821,30497,455,458,Inferriata con sportellino.Al centro ma un poco in alto uno sportellino a guisa di spia.Stupendo lavoro del secolo XV.,766,98.3,False,positional,,,Sculture,,
+BO0624_81821,30497,455,458,Inferriata con sportellino.Al centro ma un poco in alto uno sportellino a guisa di spia.Stupendo lavoro del secolo XV.,766,98.3,False,positional,,,Sculture,,Sec. XV
 BO0624_81821,30498,456,459,"Pannello in lamiera, puro stile Luigi XVI.",767,95.2,False,positional,,,Sculture,,
-BO0624_81821,30499,457,460,Inferriata quattrocentesca.Lavoro veneto del secolo XVI. (V. Tav. XxVIII).,771,97.1,False,positional,,,Sculture,,
+BO0624_81821,30499,457,460,Inferriata quattrocentesca.Lavoro veneto del secolo XVI. (V. Tav. XxVIII).,771,97.1,False,positional,,,Sculture,,Sec. XVI
 BO0624_81821,30500,458,461,"Cancellino ad un battente. Bellissimo motivo con grossi collarini tondi,riunioni ed attacchi di semplice reggetta schiacciata.Serratura posteriore.Lavoro veneziano delsecoloXVII.",772,98.9,False,title_direct,,,Serrature,,
-BO0624_81821,30501,459,462,Cancellino basso a due battenti.E ricco e molto bene eseguito.Lavoro veneziano del secolo XVIII. 10X1.00,776,94.1,False,positional,,,Sculture,,
-BO0624_81821,30502,460,463,Cancellino.Lavoro italiano della fine del secolo XVI. 69X0.84,780,89.7,False,positional,,,Sculture,,
+BO0624_81821,30501,459,462,Cancellino basso a due battenti.E ricco e molto bene eseguito.Lavoro veneziano del secolo XVIII. 10X1.00,776,94.1,False,positional,,,Sculture,,Sec. XVIII
+BO0624_81821,30502,460,463,Cancellino.Lavoro italiano della fine del secolo XVI. 69X0.84,780,89.7,False,positional,,,Sculture,,Sec. XVI
 BO0624_81821,30503,461,464,Inferriata con spia centrale.Per la sua,784,95.1,False,positional,,,Sculture,,
 BO0624_81821,30504,462,465,Due casse intarsiate eguali.,790,93.1,False,positional,,,Mobili,,
 BO0624_81821,30505,463,466,"Letto a colonne in legno finamente scolpito e dorato.Esempio veramente signorile di scultura cinquecentesca,con doratura originale,accarezzata dal tempo che le ha dato una velatura meravigliosa.",791,99.0,False,positional,,,Mobili,,
-BO0624_81821,30506,464,467,"Leggio a croce lumeggiato,del 1700.",792,94.4,False,positional,,,Mobili,,
+BO0624_81821,30506,464,467,"Leggio a croce lumeggiato,del 1700.",792,94.4,False,positional,,,Mobili,,Sec. XVIII
 BO0624_81821,30507,465,1,90X0.56,794,87.5,False,positional,,,Mobili,,
 BO0624_81821,30508,466,469,Piccolo mobile a trono. Davanti di cassa a sgusci con stemma.,797,74.7,False,positional,,,Mobili,,
 BO0624_81821,30509,467,470,"Mobilone con alzata e finali a cuspide, moderno.",798,95.8,False,title_direct,,,Mobili,,
@@ -480,20 +480,20 @@ BO0624_81821,30520,478,9,"481.Due sedie da frateria,una intagliata e laltra inta
 BO0624_81821,30521,479,10,"482.Due sedie da frateria,intarsiate,eguali.",813,96.6,False,positional,,,SEDIE,,
 BO0624_81821,30522,480,11,483.Due fusti di poltrona moderni.,814,95.7,False,positional,,,POLTRONE,,
 BO0624_81821,30523,481,484,"Lavamano.E ricco di volute,rosette,",818,94.4,False,positional,,,Mobili,,
-BO0624_81821,30524,482,485,Lavamano di forma caratteristica e bella.Secolo XIV.,820,96.2,False,positional,,,Mobili,,
-BO0624_81821,30525,483,486,Sostegno per bracere.Tre piedi ornati che si riuniscono in alto e danno origine a quattro grandi bracci raccomandati a due cerchi uno inferiore e l'altro superiore.Una catenella serviva per la paletta da sbraciare. Secolo XVI.,821,99.1,False,positional,,,Mobili,,
+BO0624_81821,30524,482,485,Lavamano di forma caratteristica e bella.Secolo XIV.,820,96.2,False,positional,,,Mobili,,Sec. XIV
+BO0624_81821,30525,483,486,Sostegno per bracere.Tre piedi ornati che si riuniscono in alto e danno origine a quattro grandi bracci raccomandati a due cerchi uno inferiore e l'altro superiore.Una catenella serviva per la paletta da sbraciare. Secolo XVI.,821,99.1,False,positional,,,Mobili,,Sec. XVI
 BO0624_81821,30526,484,487,"Tripode per bracere.I finali delle quattro branche che reggono il braciere, terminano a gigli di Francia dei quali uno solo e completo.Il grosso nodo e a quattro facce con punta di diamante. Secolo XIV.Stupendo lavoro.",822,99.1,False,positional,,,Mobili,,
-BO0624_81821,30527,485,488,"Piccole torcerine da tavola.Rare,del secolo XV.",823,95.8,False,positional,,,Mobili,,
+BO0624_81821,30527,485,488,"Piccole torcerine da tavola.Rare,del secolo XV.",823,95.8,False,positional,,,Mobili,,Sec. XV
 BO0624_81821,30528,486,489,Quattro lanterne da birri.,827,92.6,False,positional,,,Mobili,,
 BO0624_81821,30529,487,490,Sei lucernine a mano.,828,90.9,False,positional,,,Mobili,,
 BO0624_81821,30530,488,491,"Due lanterne cieche,un frammento di armae due arpioni a foglia.",829,96.9,False,positional,,,Mobili,,
 BO0624_81821,30531,489,492,"Tre lumi a ciabatta,un soffietto e varj frammenti.",830,96.1,False,positional,,,Mobili,,
-BO0624_81821,30532,490,493,Lampadiera a foglie d'acanto.Arte spagnola della fine del secolo XVII.,831,97.2,False,positional,,,Mobili,,
-BO0624_81821,30533,491,494,Lampadiera a foglie e fiori del XVI secolo.,832,95.5,False,positional,,,Mobili,,
+BO0624_81821,30532,490,493,Lampadiera a foglie d'acanto.Arte spagnola della fine del secolo XVII.,831,97.2,False,positional,,,Mobili,,Sec. XVII
+BO0624_81821,30533,491,494,Lampadiera a foglie e fiori del XVI secolo.,832,95.5,False,positional,,,Mobili,,Sec. XVI
 BO0624_81821,30534,492,495,"Due tiranti da carro,bolognesi, del se colo XVII.",833,95.9,False,positional,,,Mobili,,
 BO0624_81821,30535,493,496,Maniglia da porta.Grossa lamiera e massello.La piastra che si fissa sul legno e frastagliata ai margini e tutta traforata.Secolo XVI.(V.Tav.I).,834,98.6,False,positional,,,Mobili,,
-BO0624_81821,30536,494,497,Sostegno da lucernine e due piccoli bracci.Secolo XIV o xV.,835,96.7,False,positional,,,Mobili,,
-BO0624_81821,30537,495,498,Due stadere. Lavoro italiano del secolo XVII.,836,95.6,False,positional,,,Mobili,,
+BO0624_81821,30536,494,497,Sostegno da lucernine e due piccoli bracci.Secolo XIV o xV.,835,96.7,False,positional,,,Mobili,,Sec. XIV
+BO0624_81821,30537,495,498,Due stadere. Lavoro italiano del secolo XVII.,836,95.6,False,positional,,,Mobili,,Sec. XVII
 BO0624_81821,30538,496,499,Quattro orologi apolvere.,837,92.3,False,positional,,,Mobili,,
 BO0624_81821,30539,497,500,"Catena,portabandiera e una stadera.",838,94.4,False,positional,,,Mobili,,
 BO0624_81821,30540,498,501,Due campanelle a battente.,849,92.6,False,positional,,,Mobili,,
@@ -506,13 +506,13 @@ BO0624_81821,30546,504,507,"Due braceri, uno di rame e laltro d'ottone.",855,95.
 BO0624_81821,30547,505,508,"Due secchie da pozzo, gotiche.",856,93.3,False,positional,,,Mobili,,
 BO0624_81821,30548,506,509,Due campanelle a battente con delfini.,857,94.9,False,positional,,,Mobili,,
 BO0624_81821,30549,507,510,Due serrature tedesche.,858,91.7,False,title_direct,,,Serrature,,
-BO0624_81821,30550,508,511,Una campanella a battente. Secolo XV.,859,94.6,False,positional,,,Mobili,,
+BO0624_81821,30550,508,511,Una campanella a battente. Secolo XV.,859,94.6,False,positional,,,Mobili,,Sec. XV
 BO0624_81821,30551,509,512,Due attizzafuoco e catena.,863,92.6,False,positional,,,Oggetti da Cucina,,
 BO0624_81821,30552,510,513,"Tre stiacce, una delle quali con versi.",864,94.9,False,positional,,,Oggetti da Cucina,,
 BO0624_81821,30553,511,514,Quattro ferri da camino.,865,92.0,False,positional,,,Oggetti da Cucina,,
 BO0624_81821,30554,512,515,Quattro molle ed un attizzafuoco.,866,94.1,False,positional,,,Oggetti da Cucina,,
 BO0624_81821,30555,513,516,Doppio alare:Grandi piedi a ricciolo incisi profondamente. Campanella a tortiglione e rinforzi traforati e ondeg-,867,98.2,False,positional,,,Oggetti da Cucina,,
-BO0624_81821,30556,514,517,Tripode da bracere. Secolo XIV.,871,93.5,False,positional,,,Oggetti da Cucina,,
+BO0624_81821,30556,514,517,Tripode da bracere. Secolo XIV.,871,93.5,False,positional,,,Oggetti da Cucina,,Sec. XIV
 BO0624_81821,30557,515,518,"Splendido tripode da bracere, dei piu antichi,con targhe quattrocentesche nelle fasce di lamiera che ne rivestono il vuoto superiore.Lavoro senese accuratissimo come esecuzione e purissimo come disegno. (V.Tav.V).",872,99.0,False,positional,,,Oggetti da Cucina,,
 BO0624_81821,30558,516,519,"Due torcere montate in bronzi,molto eleganti.Lavoro emiliano del sec.XVII. (V.Tav.XXVI).",873,97.7,False,positional,,,Oggetti da Cucina,,
 BO0624_81821,30559,517,520,Paio torcere.Sono decorate a volute e riccioli. Lavoro grossolano di epoca pri mitiva.,874,97.7,False,positional,,,Oggetti da Cucina,,
@@ -522,7 +522,7 @@ BO0624_81821,30562,520,3,"523.Magnifico tavolone da centro in noce a sei piedi t
 BO0624_81821,30563,521,3,42X1.22,882,87.5,False,positional,,,Mobili,,
 BO0624_81821,30564,522,524,Una credenza intagliata. 65X1.17,883,79.3,False,positional,,,Mobili,,
 BO0624_81821,30565,523,525,"Grande mobilone bresciano a quattro sportelli,arricchito di cariatidi e grandi mascheroni.",887,97.8,False,positional,,,Mobili,,
-BO0624_81821,30566,524,526,"Splendido cassone da matrimonio,a sarcofago,intarsiato riccamente alla certosina. Secolo XV. 90X0.80",888,93.8,False,positional,,,Mobili,,
+BO0624_81821,30566,524,526,"Splendido cassone da matrimonio,a sarcofago,intarsiato riccamente alla certosina. Secolo XV. 90X0.80",888,93.8,False,positional,,,Mobili,,Sec. XV
 BO0624_81821,30567,525,527,"Due poltroncine a braccioli diritti montate in velluto rosso, con bullettoni a la stra traforata.(V. Tav.XIII).",892,98.1,False,positional,,,Mobili,,
 BO0624_81821,30568,526,528,Idem:preferenza.,893,88.2,False,positional,,,Mobili,,
 BO0624_81821,30569,527,529,Idem:preferenza.,894,88.2,False,positional,,,Mobili,,
@@ -536,9 +536,9 @@ BO0624_81821,30576,534,536,"Cassone da matrimonio in pastiglia dorata,toscano,de
 BO0624_81821,30577,535,537,"Letto, semplicemente meraviglioso.E il piu bel pezzo della raccolta e puo consi derarsi senza tema di esagerare,fra i pin grandi campioni di ferro battuto che si conoscano.Anziche battuto pare in ogni particolare modellato come fosse di una materia molle cedevole al capriccio del1'artefice o meglio dell'artista,perche ce n'e dell'arte in quello strano viluppo di foglie,di fori,di animali mischiati con un'armonia e un gusto ideali!La doratura smorta col tempo,perduta in gran parte, dona all'insieme un carattere di magnificenza superba. Credesi lavoro veneto del secolo XVI.(V. Copertina e Tav.XiX).",905,99.7,False,positional,,,Mobili,,
 BO0624_81821,30578,536,538,"Specchio poligonale incrostato di ossi scolpiti a figure,primitivo.Molto raro. Secolo XIV.(V.Tav.XXIII).",906,98.0,False,positional,,,Mobili,,
 BO0624_81821,30579,537,539,Sei candelieri scolpiti e dorati.,907,94.1,False,positional,,,Mobili,,
-BO0624_81821,30580,538,540,"E questo il famoso mobile del castello di Torchiara,ove la leggenda racconta si nascondesse per ascoltar le preci,la castellana Bianca Pellegrini amante del conte Piermaria Rossi,ritiratosi a Torchiara per sfuggire alle persecuzioni, dopo l'uccisione del duca Gian Galeazzo Visconti.Ha due grandi sezioni a formelle gotiche ricchissime di intaglio a volute bizzarre,con stemmi e figure riccamente dorateepolicromate,di conservazione piu unica che rara.Termina con una grande cuspide intarsiata alla fratina, con pannelli a soggetto.E un mobile stranissimo che non ha rivali per originalita. Secolo XV e forse prima. (V.Tav.IXeX).",908,99.7,False,positional,,,PANNELLI,,
+BO0624_81821,30580,538,540,"E questo il famoso mobile del castello di Torchiara,ove la leggenda racconta si nascondesse per ascoltar le preci,la castellana Bianca Pellegrini amante del conte Piermaria Rossi,ritiratosi a Torchiara per sfuggire alle persecuzioni, dopo l'uccisione del duca Gian Galeazzo Visconti.Ha due grandi sezioni a formelle gotiche ricchissime di intaglio a volute bizzarre,con stemmi e figure riccamente dorateepolicromate,di conservazione piu unica che rara.Termina con una grande cuspide intarsiata alla fratina, con pannelli a soggetto.E un mobile stranissimo che non ha rivali per originalita. Secolo XV e forse prima. (V.Tav.IXeX).",908,99.7,False,positional,,,PANNELLI,,Sec. XV
 BO0624_81821,30581,539,541,Calamaio a tripode con mascheroni.,912,94.3,False,positional,,,Bronzi,,
-BO0624_81821,30582,540,542,Guerriero in bronzo con targa.Secolo XV.,913,95.1,False,positional,,,Bronzi,,
+BO0624_81821,30582,540,542,Guerriero in bronzo con targa.Secolo XV.,913,95.1,False,positional,,,Bronzi,,Sec. XV
 BO0624_81821,30583,541,543,Rana in bronzo giallo.,914,91.3,False,positional,,,Bronzi,,
 BO0624_81821,30584,542,544,Teca in bronzo con figure a rilievo. Bella patina. Scavo.,915,96.4,False,positional,,,Bronzi,,
 BO0624_81821,30585,543,545,Turribolo in bronzo con figure a rilievo. Secolo xV.,916,96.2,False,positional,,,Bronzi,,
@@ -550,10 +550,10 @@ BO0624_81821,30590,548,550,Chiusura di botte.,924,89.5,False,positional,,,Bronzi
 BO0624_81821,30591,549,551,Griglia e ringhiera.Lavoro italiano del,928,95.1,False,positional,,,Bronzi,,
 BO0624_81821,30592,550,552,Cancello a due battenti a occhi gotici. Lavoro italiano del secolo xV.(V.Tavola XXIV).,932,97.6,False,positional,,,Bronzi,,
 BO0624_81821,30593,551,553,Porzione di ringhiera.Lavoro italiano del secoloxVII. 65X0.75,936,89.7,False,positional,,,Bronzi,,
-BO0624_81821,30594,552,554,Cancellino ad un sol battente.Lavoro dellItalia settentrionale.Secolo XVIII. 1.14X0.81,940,97.7,False,positional,,,Bronzi,,
+BO0624_81821,30594,552,554,Cancellino ad un sol battente.Lavoro dellItalia settentrionale.Secolo XVIII. 1.14X0.81,940,97.7,False,positional,,,Bronzi,,Sec. XVIII
 BO0624_81821,30595,553,555,Inferriata con spia centrale.Lavoro del secoloXVoXIV.,941,96.3,False,positional,,,Bronzi,,
 BO0624_81821,30596,554,556,Inferriata da pozzo.Arte italiana del secoloXVIII.,942,96.1,False,positional,,,Bronzi,,
-BO0624_81821,30597,555,557,Sopraporta o coronamento di iporta. Arte senese del secolo XVII.,946,96.9,False,positional,,,Bronzi,,
+BO0624_81821,30597,555,557,Sopraporta o coronamento di iporta. Arte senese del secolo XVII.,946,96.9,False,positional,,,Bronzi,,Sec. XVII
 BO0624_81821,30598,556,558,Cimosa o adornamento di palchetto da finestra.Lavoro italiano del sec.XVII.,950,97.4,False,positional,,,Bronzi,,
 BO0624_81821,30599,557,559,Rosta o coronamento di inferriata o di cancellino.Stemma secentesco con ornamenti avolutefermati da nodilisci.,951,98.2,False,positional,,,Bronzi,,
 BO0624_81821,30600,558,560,Brocca in maiolica policromata.Della Fratta.,955,95.6,False,positional,,,Terraglie,,
@@ -561,7 +561,7 @@ BO0624_81821,30601,559,561,Due boccioni variati decorati da cartella e rami di f
 BO0624_81821,30602,560,562,Barattolo decorato a disegni geometrici in bleu su fondo bianco.Faenza.,957,97.2,False,positional,,Scuola Faentina,Terraglie,,
 BO0624_81821,30603,561,563,Barattolo decorato a disegni geometrici in bleu su fondo bianco. Faenza.,958,97.2,False,positional,,Scuola Faentina,Terraglie,,
 BO0624_81821,30604,562,564,Broccone con corona robbiana e stella centrale.Serostata.Cafaggiolo.,959,97.1,False,positional,,,Terraglie,,
-BO0624_81821,30605,563,565,Madonna col bambino.Gruppo fram mentato di Urbino. Secolo XV.,960,96.7,False,positional,,,Terraglie,,
+BO0624_81821,30605,563,565,Madonna col bambino.Gruppo fram mentato di Urbino. Secolo XV.,960,96.7,False,positional,,,Terraglie,,Sec. XV
 BO0624_81821,30606,564,566,Due vasi giapponesi in porcellana bleu chiara con tenui lumeggiature d'oro: montati in bronzi dorati.Due oggetti su perbi per ricchissima decorazione.Vedi Tav.XIV).,961,98.8,False,positional,,,OGGETTI IN ORO,,
 BO0624_81821,30607,565,567,Due vasi Faenza a disegni geometrici bleu in fondo bianco.,965,96.6,False,positional,,Scuola Faentina,VASI,,
 BO0624_81821,30608,566,568,Vaso Faenza a disegni geometrici bleu in fondo bianco.,966,96.4,False,positional,,Scuola Faentina,VASI,,
@@ -611,11 +611,11 @@ BO0624_81821,30651,609,613,"Cinque ferri variati,per camino.",1032,93.9,False,po
 BO0624_81821,30652,610,614,Un paio di alari con dei piatti di stiacce.,1033,95.5,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30653,611,616,Un alare del quattrocento a gabbia: pid basso.,1034,95.7,False,positional,,,Oggetti di Cucina,,
 BO0624_81821,30654,612,617,Busto in terracotta del Bastianini. (V.Tav.IV).,1038,95.6,False,positional,,,Oggetti d'Arte,,
-BO0624_81821,30655,613,618,"Statuetta di marmo alto rilievo,secolo XV.",1042,95.3,False,positional,,,Oggetti d'Arte,,
+BO0624_81821,30655,613,618,"Statuetta di marmo alto rilievo,secolo XV.",1042,95.3,False,positional,,,Oggetti d'Arte,,Sec. XV
 BO0624_81821,30656,614,2,619.Busto in terracotta: Sant'Antonino. Secolo Xv.,1043,97.9,False,positional,,,Oggetti d'Arte,,
 BO0624_81821,30657,615,3,620.Due angiolini scolpiti e dorati.,1044,97.2,False,positional,,,Oggetti d'Arte,,
 BO0624_81821,30658,616,4,621.Grande stucco:modello di Jacopo Della Quercia.,1045,98.0,False,positional,,,Oggetti d'Arte,,
-BO0624_81821,30659,617,622,Quattro bracci per candele a fogliee fiori.Lavoro italiano del secolo XVIII.,1049,97.4,False,positional,,,Oggetti d'Arte,,
+BO0624_81821,30659,617,622,Quattro bracci per candele a fogliee fiori.Lavoro italiano del secolo XVIII.,1049,97.4,False,positional,,,Oggetti d'Arte,,Sec. XVIII
 BO0624_81821,30660,618,623,Braccio per lampada con lamiera dorata.,1050,95.0,False,positional,,,LAMPADE,,
 BO0624_81821,30661,619,624,Cinque piccoli bracci.,1051,91.3,False,positional,,,Oggetti d'Arte,,
 BO0624_81821,30662,620,625,Portaceri di bronzo con tre piattelli.,1052,94.9,False,positional,,,Oggetti d'Arte,,
@@ -633,9 +633,9 @@ BO0624_81821,30673,631,638,"Due poltrone diverse, spagnole, cuoio nero.",1071,95
 BO0624_81821,30674,632,639,"Due torcere legno dorato molto eleganti di forma, forse toscane.(V.Tav.Xxv).",1072,97.3,False,positional,,,Mobili,,
 BO0624_81821,30675,633,1,77,1074,66.7,False,positional,,,Mobili,,
 BO0624_81821,30676,634,2,12X1.02,1076,87.5,False,positional,,,Mobili,,
-BO0624_81821,30677,635,640,Grande tavola in noce a piedi pieni con traversa.Secolo XVI.,1078,96.7,False,positional,,,Mobili,,
+BO0624_81821,30677,635,640,Grande tavola in noce a piedi pieni con traversa.Secolo XVI.,1078,96.7,False,positional,,,Mobili,,Sec. XVI
 BO0624_81821,30678,636,641,Tavolino ottagono con cinque colonne a tortiglione.,1079,96.2,False,positional,,,ARREDAMENTI,,
-BO0624_81821,30679,637,642,Bel cassone da nozze con specchi intarsiati a soggetto e ricca decorazione alla fratina.Secolo XV.,1080,98.0,False,positional,,,SPECCHI,,
+BO0624_81821,30679,637,642,Bel cassone da nozze con specchi intarsiati a soggetto e ricca decorazione alla fratina.Secolo XV.,1080,98.0,False,positional,,,SPECCHI,,Sec. XV
 BO0624_81821,30680,638,643,Quattro grandi chiavi.,1081,91.3,False,positional,,,Mobili,,
 BO0624_81821,30681,639,645,Sette chiavi.,1082,85.7,False,positional,,,Mobili,,
 BO0624_81821,30682,640,2,30X1.44,1084,87.5,False,positional,,,Mobili,,
@@ -651,8 +651,8 @@ BO0624_81821,30691,649,653,Griglia a losanghe con sportellino. Lavoro italiano d
 BO0624_81821,30692,650,654,Balcone elegantissimo.Lavoro della fine del secolo XVII.(V. Tav.XXX).,1103,97.0,False,positional,,,Mobili,,
 BO0624_81821,30693,651,655,Cancellino a due battenti.Fine lavoro del secolo xVIII.,1104,96.4,False,positional,,,Mobili,,
 BO0624_81821,30694,652,1,05X0.90,1106,87.5,False,positional,,,Mobili,,
-BO0624_81821,30695,653,657,"Ferro da pozzo. Tondino, grossa reg getta,bandone e lamiera.Ai lati due tulipani tenuti da due collarini.Il ciuffo di coronamentoe formato di foglie d'acanto che si intrecciano,sormontano e svolgono in tutti i sensi. E grazioso l'arco moresco dalquale pende la carrucola. Ottima esecuzione del secolo XVI. Lavoro veneziano. Carrucola da ferro di pozzo.Porta una catena speciale e due secchie con ossatura di ferro.",1108,87.1,False,positional,,,Mobili,,
-BO0624_81821,30696,654,658,Cassaforte in legno. Secolo XV.,1113,93.5,False,positional,,,Mobili,,
+BO0624_81821,30695,653,657,"Ferro da pozzo. Tondino, grossa reg getta,bandone e lamiera.Ai lati due tulipani tenuti da due collarini.Il ciuffo di coronamentoe formato di foglie d'acanto che si intrecciano,sormontano e svolgono in tutti i sensi. E grazioso l'arco moresco dalquale pende la carrucola. Ottima esecuzione del secolo XVI. Lavoro veneziano. Carrucola da ferro di pozzo.Porta una catena speciale e due secchie con ossatura di ferro.",1108,87.1,False,positional,,,Mobili,,Sec. XVI
+BO0624_81821,30696,654,658,Cassaforte in legno. Secolo XV.,1113,93.5,False,positional,,,Mobili,,Sec. XV
 BO0624_81821,30697,655,2,660.Cofanetto da viaggio o da dispacci.,1114,97.4,False,positional,,,Mobili,,
 BO0624_81821,30698,656,3,659.Cassa forte con grandi maniglie.,1115,97.2,False,positional,,,Mobili,,
 BO0624_81821,30699,657,4,661.Cofanetto di legno con applicazione in ferro.Bandone.,1116,98.2,False,positional,,,Mobili,,
@@ -664,15 +664,15 @@ BO0624_81821,30704,662,666,Bellissimo lavamanodi massello con borchie di bronzo.
 BO0624_81821,30705,663,667,"Torcera semplice a nodi,base di legno.",1124,94.9,False,positional,,,Mobili,,
 BO0624_81821,30706,664,668,Torcera con piede a tripode in lamiera del 700.,1125,95.8,False,positional,,,Mobili,,
 BO0624_81821,30707,665,669,"Torcera,fusto semplice con tre piatti.",1126,94.9,False,positional,,,PIATTI,,
-BO0624_81821,30708,666,670,"Torcera spagnola,girante. Secolo XV.",1127,94.4,False,positional,,,Mobili,,
+BO0624_81821,30708,666,670,"Torcera spagnola,girante. Secolo XV.",1127,94.4,False,positional,,,Mobili,,Sec. XV
 BO0624_81821,30709,667,671,Due battenti da porta.Massello.Nel solito anello decorato a lineeche si intrec ciano passa la campanella a forma di pera.Lavoro italiano del secolo xVI.,1131,98.7,False,positional,,,Mobili,,
 BO0624_81821,30710,668,672,Due battenti a campanella semplice.,1132,94.4,False,positional,,,Mobili,,
 BO0624_81821,30711,669,673,Due campanelle con borchia.,1133,92.9,False,positional,,,Mobili,,
 BO0624_81821,30712,670,674,"Tre serrature, una delle quali con boncinello ed un paletto daporta.",1134,97.1,False,title_direct,,,Serrature,,
-BO0624_81821,30713,671,675,Boncinello che rappresenta una testa di leone con lunga lingua.Bellissimo lavoro ottenuto dalmassello.Ornamenti a punzone.Raro.Secolo XIV.,1135,98.6,False,positional,,,Mobili,,
+BO0624_81821,30713,671,675,Boncinello che rappresenta una testa di leone con lunga lingua.Bellissimo lavoro ottenuto dalmassello.Ornamenti a punzone.Raro.Secolo XIV.,1135,98.6,False,positional,,,Mobili,,Sec. XIV
 BO0624_81821,30714,672,676,"Due campanelle a battente,forma variata.",1136,95.1,False,positional,,,Mobili,,
 BO0624_81821,30715,673,677,"Paio di battenti da porta a forma di pera un poco variati.Lavoro italiano, secoloXVI.",1137,97.6,False,positional,,,Mobili,,
-BO0624_81821,30716,674,678,Due campanelle differenti del sec. XV.,1138,94.7,False,positional,,,Mobili,,
+BO0624_81821,30716,674,678,Due campanelle differenti del sec. XV.,1138,94.7,False,positional,,,Mobili,,Sec. XV
 BO0624_81821,30717,675,679,"Due campanelle a battente, forme variate.",1139,95.1,False,positional,,,Mobili,,
 BO0624_81821,30718,676,680,Tre serrature con chiavi. Epoche di verse.,1140,95.2,False,title_direct,,,Serrature,,
 BO0624_81821,30719,677,681,Due tiranti da carro.,1144,90.9,False,positional,,,Mobili,,
@@ -705,7 +705,7 @@ BO0624_81821,30745,703,7,"721.Grande serratura da portone,con stemma Niccolini. 
 BO0624_81821,30746,704,8,722.Paletto.La maniglia e le punte sono,1180,97.5,False,positional,,,Stucchi; Terrecotte,,
 BO0624_81821,30747,705,701,Due tiranti da carro.,1184,90.9,False,positional,,,Stucchi; Terrecotte,,
 BO0624_81821,30748,706,702,Stadera con finale a serpe.,1185,92.9,False,positional,,,Stucchi; Terrecotte,,
-BO0624_81821,30749,707,703,Bella maniglia da porta a fiori e anfora dimetallo.Ottima conservazione.Lavoro accuratissimo.Arte tedesca del secolo XVII.,1186,98.4,False,positional,,,Stucchi; Terrecotte,,
+BO0624_81821,30749,707,703,Bella maniglia da porta a fiori e anfora dimetallo.Ottima conservazione.Lavoro accuratissimo.Arte tedesca del secolo XVII.,1186,98.4,False,positional,,,Stucchi; Terrecotte,,Sec. XVII
 BO0624_81821,30750,708,704,Quattro eleganti viticci.,1187,92.3,False,positional,,,Stucchi; Terrecotte,,
 BO0624_81821,30751,709,705,Sostegno con doppia lucerna a ciabatta.,1188,95.0,False,positional,,,Stucchi; Terrecotte,,
 BO0624_81821,30752,710,706,"Due maniglie,una con borchie ed a quile.",1189,95.1,False,positional,,,Stucchi; Terrecotte,,
@@ -713,11 +713,11 @@ BO0624_81821,30753,711,707,Paio di battenti a delfini;diverse forme e decorazion
 BO0624_81821,30754,712,708,"Paio di battenti, di grandezza e forma variata.Secolo xVI.",1194,96.6,False,positional,,,Stucchi; Terrecotte,,
 BO0624_81821,30755,713,709,Picchio a serpente.,1195,90.0,False,positional,,,Stucchi; Terrecotte,,
 BO0624_81821,30756,714,710,Due picchi di varia forma.,1196,92.6,False,positional,,,OGGETTI VARI,,
-BO0624_81821,30757,715,711,Due campanelle elegantissime del secolo XV.,1197,95.5,False,positional,,,Stucchi; Terrecotte,,
+BO0624_81821,30757,715,711,Due campanelle elegantissime del secolo XV.,1197,95.5,False,positional,,,Stucchi; Terrecotte,,Sec. XV
 BO0624_81821,30758,716,712,"Due campanelle, una con borchia.",1198,93.8,False,positional,,,Stucchi; Terrecotte,,
 BO0624_81821,30759,717,713,Cinque toppe differenti.,1199,92.0,False,positional,,,Stucchi; Terrecotte,,
 BO0624_81821,30760,718,714,Battente a forma di pesce.,1200,92.6,False,positional,,,Stucchi; Terrecotte,,
-BO0624_81821,30761,719,723,Grandepaletto terminante con due orecchioni bellissimi e benissimo decorati. Ottima esecuzione e conservazione.Arte italiana delprincipio del secolo XVII.,1202,98.7,False,positional,,,Stucchi; Terrecotte,,
+BO0624_81821,30761,719,723,Grandepaletto terminante con due orecchioni bellissimi e benissimo decorati. Ottima esecuzione e conservazione.Arte italiana delprincipio del secolo XVII.,1202,98.7,False,positional,,,Stucchi; Terrecotte,,Sec. XVII
 BO0624_81821,30762,720,724,Grandi alari a gabbia.,1206,91.3,False,positional,,,Stucchi; Terrecotte,,
 BO0624_81821,30763,721,725,Due piccoli alari con foglie sul fusto.,1207,95.0,False,positional,,,Stucchi; Terrecotte,,
 BO0624_81821,30764,722,726,Altri alari con finali di bronzo e bellis simo piede.,1208,96.3,False,positional,,,Stucchi; Terrecotte,,
@@ -746,7 +746,7 @@ BO0624_81821,30786,744,748,Balaustra.Tondino e reggetta.Si com- 24X0.48,1245,85.
 BO0624_81821,30787,745,749,Rosta con monogramma G.C.Lavoro,1250,93.9,False,positional,,,Mobili,,
 BO0624_81821,30788,746,750,"Balcone meraviglioso ricchissimo di fregi e volute,con stemma gentilizio, retto da mensole scolpite a figure in pietra serena.Epoca Luigi XIV.",1252,98.6,False,positional,,Periodo di Luigi XIV,Mobili,,
 BO0624_81821,30789,747,751,Balconcino in due pezzi a punta di,1253,94.4,False,positional,,,Mobili,,
-BO0624_81821,30790,748,752,Rosta da cancello ricca di volute ornamentali a foglie e fiori di finissima esecuzione.Lavoro italiano del secolo XVI.,1255,98.3,False,positional,,,Mobili,,
+BO0624_81821,30790,748,752,Rosta da cancello ricca di volute ornamentali a foglie e fiori di finissima esecuzione.Lavoro italiano del secolo XVI.,1255,98.3,False,positional,,,Mobili,,Sec. XVI
 BO0624_81821,30791,749,753,Piccola rosta per spia di porta.,1257,93.9,False,positional,,,Mobili,,
 BO0624_81821,30792,750,754,Finale da pozzo. Grossa reggetta.Losanga terminante in punta e ornata di riccioli a forma di rozze foglie di acanto:nel centro la mezzaluna di Casa,1258,98.6,False,positional,,,Mobili,,
 BO0624_81821,30793,751,755,Finale da pozzo terminante a giglio.,1260,94.6,False,positional,,,Mobili,,
@@ -770,7 +770,7 @@ BO0624_81821,30810,768,772,Insegna che rappresenta un leone.,1280,94.1,False,pos
 BO0624_81821,30811,769,773,Vaso di Orvieto con grifo.,1281,92.6,False,positional,,,VASI,,
 BO0624_81821,30812,770,774,Quattro finali in ferro con altri frammenti.,1282,95.6,False,positional,,,Mobili,,
 BO0624_81821,30813,771,775,"Stemma:leone rampante,in marmo.",1283,93.8,False,positional,,,Mobili,,
-BO0624_81821,30814,772,776,Grande stemma araldico.Secolo XV.,1284,94.1,False,positional,,,Mobili,,
+BO0624_81821,30814,772,776,Grande stemma araldico.Secolo XV.,1284,94.1,False,positional,,,Mobili,,Sec. XV
 BO0624_81821,30815,773,777,"San Giuseppe robbiano, alto rilievo.",1285,94.4,False,positional,,,Mobili,,
 BO0624_81821,30816,774,778,"Drago.La testa ed il corpo sono ornati di intaccature a squame e di incisioni rettilinee incrociantisi a losanghe.Coda aspira,terminata a sega.Bel lavoro del secolo xVI. (V. Tav. XII).",1286,98.9,False,positional,,,STAMPE E INCISIONI,,
 BO0624_81821,30817,775,779,Piccola vetrina lumeggiata in oro.,1287,94.3,False,positional,,,Mobili,,

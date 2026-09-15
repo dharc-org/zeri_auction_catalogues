@@ -38,8 +38,8 @@ BO0624_88224,574902,36,33,| 3 An der Kinzig bei Soden-Salmuinster. |            
 BO0624_88224,574903,37,34,| Weidenbaume an der Nidda.              | Leinw. a. Karton 16/21             |,152,96.8,False,positional,Friedr.BINGEL,,,,
 BO0624_88224,574904,38,35,| ki-Hitten in der Schlierseer Gegend.   | Leinw.a. Karton 24/32              |,153,97.4,False,positional,Friedr.BINGEL,,,,
 BO0624_88224,574905,39,36,| Nach dem Gewitter.                     | Leinw. a. Karton 21/27             |,154,96.2,False,positional,Friedr.BINGEL,,,,
-BO0624_88224,574906,40,38,"Battalje der Ostreiger, Mainzer und Pfalzer Landsturm gegen die Franzosen anno 1795 bei Nied. Gouache 37/52",161,98.6,False,positional,Friedr.BINGEL,,,,
-BO0624_88224,574907,41,39,Battalje der Ostreiger gegen die Franzosen bei Nied 1799.,162,97.4,False,positional,Friedr.BINGEL,,,,
+BO0624_88224,574906,40,38,"Battalje der Ostreiger, Mainzer und Pfalzer Landsturm gegen die Franzosen anno 1795 bei Nied. Gouache 37/52",161,98.6,False,positional,Friedr.BINGEL,,,,Sec. XVIII
+BO0624_88224,574907,41,39,Battalje der Ostreiger gegen die Franzosen bei Nied 1799.,162,97.4,False,positional,Friedr.BINGEL,,,,Sec. XVIII
 BO0624_88224,574908,42,40,Kopf eines lachenden Madchens.,170,95.1,False,positional,Otto GILs,,,,
 BO0624_88224,574909,43,41,Cronberg i. Taunus.,176,91.9,False,positional,Aug.HANLEIN,,,,
 BO0624_88224,574910,44,43,| Der Konigssee.                                                            | Pendant z. Vor.                                  |,183,94.7,False,positional,Edmund HEDING,,,,
@@ -131,14 +131,14 @@ BO0624_88224,574995,129,143,"Fayenceschissel, weiB,gewellt mit blauem Chinadekor
 BO0624_88224,574996,130,144,"Desgl. weiB,gewelit mit blauem Dekor. Durchmesser 31 cm.",427,96.4,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,574997,131,145,"Desgl. weib, gewellt mit blauem Dekor. Durchmesser 27,5 cm (mit",429,96.7,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,574998,132,146,"Desgl. weiB, gewellt mit blauem Dekor. Durchmesser 23 cm (mit",431,96.6,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
-BO0624_88224,574999,133,147,"Desgl. weiB, 8 eckig gebogen, Jahreszahl 1739. Durchmesser 22 cm.",433,96.8,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
+BO0624_88224,574999,133,147,"Desgl. weiB, 8 eckig gebogen, Jahreszahl 1739. Durchmesser 22 cm.",433,96.8,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,Sec. XVIII
 BO0624_88224,575000,134,148,"Desgl. weiB, gewellt mit blauer Landschaft. Durchmesser 20 cm",434,96.7,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575001,135,149,"Desgl. weiB, gewellt mit blauer Landschaft. Pendant z. Vor.",436,96.4,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575002,136,150,"Desgl.weib,gewellt mit blauem Frichtedekor. Durchmesser 20 cm.",437,96.8,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575003,137,151,"Desgl. weiB, gewellt mit Inschrift: Brost die Mahlzeit.Durchmesser 20 cm.",438,97.2,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575004,138,152,"Fayenceschissel,8eckig,gewellt,lila gesprenkelt,der Spiegel farbig dekoriert.Durchmeser 17 cm.",439,97.9,False,title_direct,,,SPECCHI,,
 BO0624_88224,575005,139,153,"Desgl. weiB, gewellt mit braun, gelb,blauem Dekor und Inschrift.",441,96.8,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
-BO0624_88224,575006,140,154,Fayenceteller mit Hl.Franziskus 1826. Durchmesser 23 cm.,442,96.4,False,title_direct,,,Fayence,,
+BO0624_88224,575006,140,154,Fayenceteller mit Hl.Franziskus 1826. Durchmesser 23 cm.,442,96.4,False,title_direct,,,Fayence,,Sec. XIX
 BO0624_88224,575007,141,156,"- 155 Desgl.weiB,mit blauem Frichtekorb und Vogeldekor etc. Durchmesser 22 cm.",444,100.0,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575008,142,158,158,446,100.0,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575009,143,159,"- 160 Fayenceschissel auf hohem FuB, weib mit buntem Blumendekor.",449,100.0,False,title_direct,,,Fayence,,
@@ -192,7 +192,7 @@ BO0624_88224,575056,190,218,27 cm.,545,71.4,False,positional,,,Mobel; Holzschnit
 BO0624_88224,575057,191,219,"- 220 Bauch. Tontopf, weib mit blauen Arabesken. Hohe 20,Durchmesser 16,5 cm (mit Marke).",547,100.0,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575058,192,221,"Bartmannskrug, bauch. Hohe 24,Durchmesser 16 cm.",548,95.7,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575059,193,222,"Teller, weiB mit blauen Arabesken und Sterndekor. Durchmesser 24,5 cm.",549,97.1,False,positional,,,PIATTI,,
-BO0624_88224,575060,194,223,"- 224 TongefaB, viereckig mit eingedallten Streifen und Jahreszahl 1737 einerseits und 1. G. F. H. anderseits. Hohe 37, 35/15 cm.",551,100.0,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
+BO0624_88224,575060,194,223,"- 224 TongefaB, viereckig mit eingedallten Streifen und Jahreszahl 1737 einerseits und 1. G. F. H. anderseits. Hohe 37, 35/15 cm.",551,100.0,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,Sec. XVIII
 BO0624_88224,575061,195,225,"Fayence-Walzenkrug mit Medaillon zwischen lila Feldern und wagrechten Verzierungen, Zinndeckel und FuB. Hohe 23,5, Durchmesser 11,5 cm.",554,98.5,False,title_direct,,,Fayence,,
 BO0624_88224,575062,196,226,"Desgl. mit Blumendekor, Zinndeckel und FuB. Hohe 22,Durchmesser 11,5 cm.",555,97.1,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575063,197,227,"- deckel und FuB. Hohe 24, Durchmesser 12,5 cm.",557,100.0,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
@@ -317,12 +317,12 @@ BO0624_88224,575181,315,361,"Zwei Ecksticke, gruner Ton, gelb mit gewundenen Sau
 BO0624_88224,575182,316,362,"- Zehn Kacheln mit Figuren. Ton, gelb glasiert. Louis XVI. 43/22 cm,",764,100.0,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575183,317,363,"- 364 Zwei Kachelmodelle, unglasiert.",766,100.0,False,positional,,,Mobel; Holzschnitzereien; Waffen; Stiche,,
 BO0624_88224,575184,318,365,"Zwei Leuchterengel, knieend. Holz, geschnitzt und polichromiert.",772,96.8,False,positional,,,LAMPADE,,
-BO0624_88224,575185,319,366,"Figur,Heilige mit Schwert und Rad,vollrund geschnitzt mit Spuren von Bemalung. Hohe 50 cm. XVI. Jahrhundert.",774,98.1,False,positional,,,Holzskulpturen; Mobel,,
+BO0624_88224,575185,319,366,"Figur,Heilige mit Schwert und Rad,vollrund geschnitzt mit Spuren von Bemalung. Hohe 50 cm. XVI. Jahrhundert.",774,98.1,False,positional,,,Holzskulpturen; Mobel,,Sec. XVI
 BO0624_88224,575186,320,367,"Desgl. mit Kopftuch und Krone, vollrund geschnitzt. Hohe 43 cm.",775,96.7,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575187,321,368,- Renaissance.,777,100.0,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575188,322,369,"- Desgl. auf Postament, vollrund geschnitzt und polichromiert. Hohe 30 cm. Barok.",780,100.0,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575189,323,3701,polichromiert. Hohe 35 cm. Rokoko.,782,92.5,False,positional,,,Holzskulpturen; Mobel,,
-BO0624_88224,575190,324,371,"Pieta. Madonna mit dem Leichnam Christi auf dem SchoB. Holz, geschnitzt und polichromiert. Alte Fassung. XVI. Jahrhundert. Hohe 32 cm.",783,98.4,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88224,575190,324,371,"Pieta. Madonna mit dem Leichnam Christi auf dem SchoB. Holz, geschnitzt und polichromiert. Alte Fassung. XVI. Jahrhundert. Hohe 32 cm.",783,98.4,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88224,575191,325,372,"Uhrgestell. Der Lebensbaum mit Figur am FuB, reich geschnitzt",784,96.7,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575192,326,373,"Zwei Apostel. Huftsticke, geschnitzt und polichromiert. Hohe je 27 cm. Barok.",786,97.3,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575193,327,374,"Figur, Pilger, liegend, geschnitzt und polichromiert. Hohe 10,5, Lange 42 cm.Rokoko.",787,97.5,False,positional,,,Holzskulpturen; Mobel,,
@@ -361,7 +361,7 @@ BO0624_88224,575225,359,412,"Kleine Urne. Holz und Bein. Hohe 10 cm und 2 Verzie
 BO0624_88224,575226,360,413,"Rahmen fur ein Heiligenbild. Lichte GroBe, Hohe 28, Breite 15 cm.",860,96.8,False,positional,,,CORNICI,,
 BO0624_88224,575227,361,414,"Stehender Bischof mit Mitra und faltigem Gewand, halbrund",861,96.6,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575228,362,415,Desgl. Ahnliche Figur. Hohe 54 cm.,863,93.9,False,positional,,,Holzskulpturen; Mobel,,
-BO0624_88224,575229,363,416,"Stehende Madonna mit dem Jesuskind auf der Hand, vollrund geschnitzt und polichromiert. XVI. Jahrhundert. Hohe 75 cm.",864,98.2,False,positional,,,Holzskulpturen; Mobel,,
+BO0624_88224,575229,363,416,"Stehende Madonna mit dem Jesuskind auf der Hand, vollrund geschnitzt und polichromiert. XVI. Jahrhundert. Hohe 75 cm.",864,98.2,False,positional,,,Holzskulpturen; Mobel,,Sec. XVI
 BO0624_88224,575230,364,417,"Drei Relieffiguren, Apostel, geschnitzt mit Spuren von Bemalung. Hohe je 55 cm.",865,97.4,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575231,365,418,Drei Schilder mit kirchl. Bemalung. Je 52/38 cm. Rokoko.,866,96.3,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575232,366,419,"- Sechs Verzierungen, geschnitzt.",868,100.0,False,positional,,,Holzskulpturen; Mobel,,
@@ -369,9 +369,9 @@ BO0624_88224,575233,367,420,Zwei Kirchenleuchter in Relief weiB mit Spuren von V
 BO0624_88224,575234,368,421,versilbert.,872,83.3,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575235,369,422,"- Relief. Heiliger in Wolken schauend. 32,5/24 cm.",874,100.0,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575236,370,423,"Relief, Jager im Wald und Doppeladler in Herzform.",875,96.0,False,positional,,,Holzskulpturen; Mobel,,
-BO0624_88224,575237,371,424,"- Schatulle, geschnitzt mit Jahreszahl 1704. Hohe 12, 33/7 cm.",877,100.0,False,positional,,,Holzskulpturen; Mobel,,
+BO0624_88224,575237,371,424,"- Schatulle, geschnitzt mit Jahreszahl 1704. Hohe 12, 33/7 cm.",877,100.0,False,positional,,,Holzskulpturen; Mobel,,Sec. XVIII
 BO0624_88224,575238,372,425,"- Desgl. bemalt mit Renaissancefiguren. Hohe 10, 27/18 cm. XVIll. Jahrhundert.",879,100.0,False,positional,,,Holzskulpturen; Mobel,,
-BO0624_88224,575239,373,426,"Desgl. mit Wismutmalerei. Opfer Abrahams 1779. 27,5/18 cm.",880,96.4,False,positional,,,Holzskulpturen; Mobel,,
+BO0624_88224,575239,373,426,"Desgl. mit Wismutmalerei. Opfer Abrahams 1779. 27,5/18 cm.",880,96.4,False,positional,,,Holzskulpturen; Mobel,,Sec. XVIII
 BO0624_88224,575240,374,427,Desgl. mit Wismutmalerei.,881,92.0,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575241,375,428,"- Hohe 10,",883,100.0,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575242,376,429,"- Schatulle mit Wismutmalerei. Edelmann und Edeldame. Hohe 13, 28,5/19 cm. xV1ll. Jahrhundert.",887,100.0,False,positional,,,Holzskulpturen; Mobel,,
@@ -381,7 +381,7 @@ BO0624_88224,575245,379,432,"Desgl. 3 lad., nuBb. mit Figuren und Landschaften e
 BO0624_88224,575246,380,433,"Kabinet, schwarz mit 7 Schubladen hinter Flugelturchen. Hohe ,5, 24/16 cm. XV111. Jahrhundert.",894,77.9,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575247,381,434,"Aufsatzkabinet, schwarz,7 Schubladchen mit bemaltem Spiegelglas hinter Flugelturchen. Hohe 38, 27/17 cm. XV111. Jahrh.",896,98.2,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575248,382,435,"- Kabinet, nuBbaum mit 7 Schubladchen hinter Flugelturchen. Hohe 19, 24/15,5 cm. XV111. Jahrhundert.",898,100.0,False,positional,,,Holzskulpturen; Mobel,,
-BO0624_88224,575249,383,436,"Kastchen mit Wismutmalerei in Blumenornamenten 1803. Hohe ,22/15cm.",899,90.3,False,positional,,,SCATOLE,,
+BO0624_88224,575249,383,436,"Kastchen mit Wismutmalerei in Blumenornamenten 1803. Hohe ,22/15cm.",899,90.3,False,positional,,,SCATOLE,,Sec. XIX
 BO0624_88224,575250,384,437,"besetzt. Hohe 11,12,5/10,5 cm.",902,93.3,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575251,385,438,Zwei Kastchen mit Wismutmalerei und Stroharbeit. XVIll. Jahrh.,903,96.7,False,positional,,,SCATOLE,,
 BO0624_88224,575252,386,439,"Medizinkastchen, nuBbaum mit vielen Gefachen und Eisen-",905,96.4,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
@@ -394,7 +394,7 @@ BO0624_88224,575258,392,445,Spatgotisch. Hohe 67 cm.,917,91.7,False,positional,,
 BO0624_88224,575259,393,446,Stehende weibl. Figur in reichem Faltenwurf und Kopftuch. Vollrund geschnitzt mit Spuren von Bemalung. Spatgotisch. Hohe 85 cm.,918,98.4,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575260,394,447,Christus am Kreuz mit Maria am FuB. Vollrund geschnitzt. xVIl.,919,96.7,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575261,395,448,"Desgl. Christus, vollrund geschnitzt und polichromiert. xvill.",921,96.7,False,positional,,,Holzskulpturen; Mobel,,
-BO0624_88224,575262,396,449,Stehender Christus in rotem faltenreichen Mantel. schnitzt.Um 1500. Hohe 87 cm.,923,97.4,False,positional,,,Holzskulpturen; Mobel,,
+BO0624_88224,575262,396,449,Stehender Christus in rotem faltenreichen Mantel. schnitzt.Um 1500. Hohe 87 cm.,923,97.4,False,positional,,,Holzskulpturen; Mobel,,Sec. XVI
 BO0624_88224,575263,397,450,Hohe 93 cm.,926,83.3,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575264,398,451,- Desgl. ahnliche Figur wie vorige. Hohe 107 cm.,928,100.0,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575265,399,452,Stehende weibl. Figur in rotem Gewand. und polichromiert. Gotisch. Hohe 107 cm.,930,97.4,False,positional,,,Holzskulpturen; Mobel,,
@@ -402,12 +402,12 @@ BO0624_88224,575266,400,453,geschnitzt. Barok. Hohe 90 cm.,932,93.1,False,positi
 BO0624_88224,575267,401,454,"Stehender Joseph mit dem Christuskind auf dem Arm, in faltenreichem Gewand. Halbrund geschnitzt und polichromiert.",933,98.2,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575268,402,455,- 456 Desgl. Ahnliche Figur. Hohe 105 cm.,937,100.0,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575269,403,457,Desgl. auf Sockel mit Bischofsmitze; Stab und Buch in den Handen. Halbrund geschnitzt und polichromiert. xVll. Jahrhundert. Hohe 130 cm.,938,98.5,False,positional,,,Holzskulpturen; Mobel,,
-BO0624_88224,575270,404,458,Desgl. in faltenreichem Gewand mit Buch in der Hand. Halbrund geschnitzt und polichromiert. XVII. Jahrhundert.Hohe 118 cm.,939,98.3,False,positional,,,Holzskulpturen; Mobel,,
+BO0624_88224,575270,404,458,Desgl. in faltenreichem Gewand mit Buch in der Hand. Halbrund geschnitzt und polichromiert. XVII. Jahrhundert.Hohe 118 cm.,939,98.3,False,positional,,,Holzskulpturen; Mobel,,Sec. XVII
 BO0624_88224,575271,405,459,"Heil. Sebastian am Baum stehend, vollrund geschnitzt und polichromiert. Spatgotisch. Hohe 75 cm.",941,97.8,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575272,406,460,"Der Oberkorper Gott-Vaters, die Weltkugel auf der linken Hand haltend in faltigem Gewand. Vollrund geschnitzt. Gotisch. Hohe 51 cm.",942,98.4,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575273,407,461,groBzigigem Faltenwurf. Gotisch. Hohe 77.,944,95.0,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575274,408,462,"- Stehende Heilige mit Krone,halbrund geschnitzt und polichromiert mit schwerem Faltenwurf am Mantel. Altdeutsch. Hohe 76.",946,100.0,False,positional,,,Holzskulpturen; Mobel,,
-BO0624_88224,575275,409,463,"- Madonna mit Kind auf der Mondsichel stehend,in faltigem Gewand, halbrund geschnitzt mit Spuren von Bemalung. XVI. Jahrh. Hohe 60. (Siehe Abbildung. Tafel 1II1.)",948,100.0,False,positional,,,Holzskulpturen; Mobel,,
+BO0624_88224,575275,409,463,"- Madonna mit Kind auf der Mondsichel stehend,in faltigem Gewand, halbrund geschnitzt mit Spuren von Bemalung. XVI. Jahrh. Hohe 60. (Siehe Abbildung. Tafel 1II1.)",948,100.0,False,positional,,,Holzskulpturen; Mobel,,Sec. XVI
 BO0624_88224,575276,410,464,"Stehende Madonna, das Jesuskind mit beiden Handen auf dem Bauch liegend haltend,mit schwerem Faltenwurf, halbrund",949,98.2,False,positional,,,Holzskulpturen; Mobel,,
 BO0624_88224,575277,411,465,"Gruppe Pieta. Madonna sitzend, halt den toten Christus auf dem SchoB. Halbrund geschnitzt und polichromiert. Gotisch. Hohe 87, Breite 53. (Siehe Abbildung, Tafel III.)",951,98.7,False,positional,,,OGGETTI VARI,,
 BO0624_88224,575278,412,466,"Figur. Stehender Konig mit Krone und Schwert, die Weltkugel auf der Hand haltend, einen roten faltigen Mantel tragend.Halbrund geschnitzt und polichromiert. Spat-",952,98.7,False,positional,,,Holzskulpturen; Mobel,,
@@ -506,7 +506,7 @@ BO0624_88224,575370,504,579,"- Desgl. Zylindrisch, glatt. Hohe 8,5 cm.",1136,100
 BO0624_88224,575371,505,580,Zinnhumpen mit Deckel. Zylindrisch mit Riefen. Hohe 26 cm.,1138,96.5,False,positional,,,Porzellan,,
 BO0624_88224,575372,506,581,"Desgl.mit Deckel. Zylindrisch, graviert. Hohe 27,5 cm.",1139,96.2,False,positional,,,Porzellan,,
 BO0624_88224,575373,507,582,"Zinnkanne mit Deckel. Zylindrisch, graviert. Hohe 29 cm.",1140,96.3,False,positional,,,OGGETTI IN LATTA,,
-BO0624_88224,575374,508,583,"Zinnhumpen mit Deckel. Zylindrisch, graviert 1751. Hohe 23 cm.",1141,96.7,False,positional,,,Porzellan,,
+BO0624_88224,575374,508,583,"Zinnhumpen mit Deckel. Zylindrisch, graviert 1751. Hohe 23 cm.",1141,96.7,False,positional,,,Porzellan,,Sec. XVIII
 BO0624_88224,575375,509,584,"Weinkanne. Zinn mit Deckel. Zylindrisch, graviert. Hohe 27 cm.",1142,96.6,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88224,575376,510,585,"- Desgl. Zinn mit Deckel. Zylindrisch, graviert. Hohe 25 cm.",1144,100.0,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88224,575377,511,586,ziert. Hohe 21 und 17 cm.,1146,92.0,False,positional,,,Porzellan,,
@@ -539,7 +539,7 @@ BO0624_88224,575403,537,614,"Zinnteller,glatt. Durchmesser 26 cm.",1185,94.4,Fal
 BO0624_88224,575404,538,6157,"- 616 Drei Zinntellerchen.Durchmesser 15, 12 und 8,5 cm.",1188,100.0,False,positional,,,Porzellan,,
 BO0624_88224,575405,539,617,"Runde Platte. Rokoko, fassoniert mit feiner Gravierung. Durch-",1189,96.7,False,positional,,,Porzellan,,
 BO0624_88224,575406,540,618,- 619,1192,100.0,False,positional,,,Porzellan,,
-BO0624_88224,575407,541,620,"- Zinnhumpen, konisch mit Riefen und Deckel, Jahreszahl 1845. Hohe 22 cm.",1194,100.0,False,positional,,,Porzellan,,
+BO0624_88224,575407,541,620,"- Zinnhumpen, konisch mit Riefen und Deckel, Jahreszahl 1845. Hohe 22 cm.",1194,100.0,False,positional,,,Porzellan,,Sec. XIX
 BO0624_88224,575408,542,621,Desgl. konisch mit Riefen. Hohe 27 cm.,1197,94.6,False,positional,,,Porzellan,,
 BO0624_88224,575409,543,622,- Desgl. konisch mit Gravierung. Hohe 24 cm.,1199,100.0,False,positional,,,Porzellan,,
 BO0624_88224,575410,544,624,624,1201,100.0,False,positional,,,Porzellan,,
@@ -592,7 +592,7 @@ BO0624_88224,575456,590,673,"- Weihwasserkessel. Zinn. Hohe 13,5 cm.",1276,100.0
 BO0624_88224,575457,591,674,"MehlfaB. Zinn. Hohe 21,18/15 cm.",1277,93.5,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88224,575458,592,675,- GroBe ovale Zinnplatte. 38/48 cm.,1279,100.0,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88224,575459,593,676,GroBe runde Zinnplatte. Fassonniert. Durchmesser 40 cm.,1280,96.3,False,positional,,,OGGETTI IN LATTA,,
-BO0624_88224,575460,594,677,Desgl. mit Krone und Jahreszahl 1713.,1281,94.6,False,positional,,,Porzellan,,
+BO0624_88224,575460,594,677,Desgl. mit Krone und Jahreszahl 1713.,1281,94.6,False,positional,,,Porzellan,,Sec. XVIII
 BO0624_88224,575461,595,678,"Zinnschissel mit Ring. Hohe 5,5, Durchmesser 18,5 cm.",1282,96.2,False,positional,,,Porzellan,,
 BO0624_88224,575462,596,679,"Zwei Zinnteller, graviert. Durchmesser 22 cm.",1283,95.5,False,positional,,,PIATTI,,
 BO0624_88224,575463,597,680,- Zinn-Wasserkanne mit Krahnen und 2 Henkeln. Empire. Hohe 32cm.,1285,100.0,False,positional,,,OGGETTI IN LATTA,,
@@ -718,7 +718,7 @@ BO0624_88224,575582,716,830,"- Saugflaschchen, gemalt. Hohe 16 cm.",1522,100.0,F
 BO0624_88224,575583,717,831,"Zwei Saugflaschchen, geschliffen und gedreht. Hohe je 16 cm.",1523,96.6,False,positional,,,Glas,,
 BO0624_88224,575584,718,832,"Blumen-Vaschen, gedreht mit verzierten Henkeln. Hohe 13 cm.",1524,96.6,False,positional,,,Glas,,
 BO0624_88224,575585,719,833,"Kelchglas und Henkelglas, gemalt. Hohe 12 und 9 cm.",1525,96.0,False,positional,,,Glas,,
-BO0624_88224,575586,720,834,- Bauchschraubenflasche mit Malerei u. Inschrift. 1762. Hohe 17 cm.,1527,100.0,False,positional,,,Glas,,
+BO0624_88224,575586,720,834,- Bauchschraubenflasche mit Malerei u. Inschrift. 1762. Hohe 17 cm.,1527,100.0,False,positional,,,Glas,,Sec. XVIII
 BO0624_88224,575587,721,835,"Zwei Schraubenflaschchen, 8eckig mit Malerei. Hohe 14 u. 15 cm.",1528,96.7,False,positional,,,Glas,,
 BO0624_88224,575588,722,836,"- Laterne, 6eckig. Hohe 34, Durchmesser 18,5 cm.",1530,100.0,False,positional,,,Glas,,
 BO0624_88224,575589,723,837,- 838,1532,100.0,False,positional,,,Glas,,
@@ -780,7 +780,7 @@ BO0624_88224,575644,778,895,Perkussionspistole.,1643,90.0,False,positional,,,Waf
 BO0624_88224,575645,779,896,Pulverhorn.,1645,83.3,False,positional,,,Waffen,,
 BO0624_88224,575646,780,897,Horngriff und Bronzebeschlag.,1649,93.3,False,positional,,,Waffen,,
 BO0624_88224,575647,781,898,Hirschfanger in Lederscheide mit Eisenbeschlag und Messer. Desgl. mit Hirschhorngriff und reich geschnittenem Messingbeschlag. - Desgl. desgl. mit Messingbeschlag und Messer.,1651,56.2,False,positional,,,Waffen,,
-BO0624_88224,575648,782,901,Sabel in Lederscheide. 1791.,1654,92.9,False,positional,,,Waffen,,
+BO0624_88224,575648,782,901,Sabel in Lederscheide. 1791.,1654,92.9,False,positional,,,Waffen,,Sec. XVIII
 BO0624_88224,575649,783,902,Desgl. Desgl.,1655,84.6,False,positional,,,Waffen,,
 BO0624_88224,575650,784,903,Bajonett mit Scheide und Ladestockhulse.,1656,95.1,False,positional,,,Waffen,,
 BO0624_88224,575651,785,904,Italienischer Dolch mit Stahlgriff.,1657,94.4,False,positional,,,Waffen,,
@@ -830,7 +830,7 @@ BO0624_88224,575694,828,959,Desgl. Desgl. getrieben und Hornstiel. Desgl. Desgl.
 BO0624_88224,575695,829,962,Desgl. mit Holz geschnittenem Kopf und Silberbeschlag.,1741,96.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88224,575696,830,963,- Desgl.,1743,100.0,False,positional,,,Waffen,,
 BO0624_88224,575697,831,964,- Zwei plastische Bilder aus Hl. Schrift. 26/36 cm.,1746,100.0,False,positional,,,FOTOGRAFIE,,
-BO0624_88224,575698,832,965,"- Teller mit franz.Militar der I. Republique. Convention 1792-1795, Mieder. Schwarz und gelb mit Silberkrappen. Drei Haubchen, gestickt und 2 Quasten.",1748,61.1,False,positional,,,PIATTI,,
+BO0624_88224,575698,832,965,"- Teller mit franz.Militar der I. Republique. Convention 1792-1795, Mieder. Schwarz und gelb mit Silberkrappen. Drei Haubchen, gestickt und 2 Quasten.",1748,61.1,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_88224,575699,833,968,- Desgl. Schwarz Seide gestickt. Desgl.,1753,100.0,False,positional,,,Waffen,,
 BO0624_88224,575700,834,969,Desgl. Rot und gelb.,1754,90.0,False,positional,,,Waffen,,
 BO0624_88224,575701,835,970,Desgl. knopfen.,1756,86.7,False,positional,,,Waffen,,
@@ -874,37 +874,37 @@ BO0624_88224,575738,872,1011,"Weihwasserkesselchen, rot, Glas bemalt. Mit Madonn
 BO0624_88224,575739,873,1012,- Kleine Tabakspfeife. Holz geschnitzt mit Metallbeschlag.,1817,100.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88224,575740,874,1013,"Zwei Becherchen. Holz mit Elfenbein und Bronze getrieben und geschnitten. Hohe 6,5 und 5,5 cm.",1818,97.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88224,575741,875,1014,Zwei Gemmen-Abgisse und Brosche mit Ohrringen. Stein ge-,1819,95.6,False,positional,,,CAMEI,,
-BO0624_88224,575742,876,1015,"- 1016 Lesepult mit feiner Straminstickerei. Lackrahmen mit Stahlbeschlag.21/25,5 cm. XVIll. Jahrhundert.",1823,100.0,False,positional,,,Waffen,,
+BO0624_88224,575742,876,1015,"- 1016 Lesepult mit feiner Straminstickerei. Lackrahmen mit Stahlbeschlag.21/25,5 cm. XVIll. Jahrhundert.",1823,100.0,False,positional,,,Waffen,,Sec. XI
 BO0624_88224,575743,877,1017,presst. XVlll. Jahrhundert. Zwei Kloster-Arbeiten. Heilige gemalt in Gold- und S Silberstickerei-Umrahmung mit Perlen u. Farbsteinen. Je 15/10 cm. und Farbsteinen in Rahmen 26/20 cm.,1827,78.4,False,positional,,,CORNICI,,
-BO0624_88224,575744,878,1020,- 1021 Kloster-Arbeit. St. Johannes Nepomuk in Gold und Silber gearbeiteter Umrahmung. 22/16 cm.,1830,100.0,False,positional,,,OGGETTI IN ORO,,
+BO0624_88224,575744,878,1020,- 1021 Kloster-Arbeit. St. Johannes Nepomuk in Gold und Silber gearbeiteter Umrahmung. 22/16 cm.,1830,100.0,False,positional,,,OGGETTI IN ORO,,Sec. XI
 BO0624_88224,575745,879,1022,Sieben diverse Kloster-Arbeiten.,1832,92.5,False,positional,,,Waffen,,
 BO0624_88224,575746,880,1023,Drei Klosterglasmalereien. Heilige verschiedener GroBen.,1833,95.6,False,positional,,,Waffen,,
 BO0624_88224,575747,881,1024,"Vier desgl. Heilige 15,5/10,5 und 10/6 cm. Kastchen mit Anhanger, Knopfe, Loffelchen, Armband etc. Rahmen.16/12 cm.",1836,67.1,False,positional,,,CORNICI,,
-BO0624_88224,575748,882,1027,- 1028,1839,100.0,False,positional,,,Waffen,,
+BO0624_88224,575748,882,1027,- 1028,1839,100.0,False,positional,,,Waffen,,Sec. XI
 BO0624_88224,575749,883,1029,Schropfkopfmesser. Messing.,1842,90.9,False,positional,,,Waffen,,
 BO0624_88224,575750,884,1030,Schraubdose.Holz und Horn.,1843,90.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88224,575751,885,1031,Drei schwarze schwabische Hauben mit Bandern und Stickereien.,1844,96.0,False,positional,,Scuola Sveva,Waffen,,
-BO0624_88224,575752,886,1032,"Herrenmitze, schwarzer Samt, gestickt mit Perlen etc. 4Marktkorb in Leder gearbeitet.1842. Brautkrone und Taschchen.",1845,60.2,False,positional,,,OGGETTI IN PELLE,,
-BO0624_88224,575753,887,1035,- 1036,1849,100.0,False,positional,,,Waffen,,
+BO0624_88224,575752,886,1032,"Herrenmitze, schwarzer Samt, gestickt mit Perlen etc. 4Marktkorb in Leder gearbeitet.1842. Brautkrone und Taschchen.",1845,60.2,False,positional,,,OGGETTI IN PELLE,,Sec. XIX
+BO0624_88224,575753,887,1035,- 1036,1849,100.0,False,positional,,,Waffen,,Sec. XI
 BO0624_88224,575754,888,1037,"Holzschieber geschnitzt. Lange 65, Breite 13 cm.",1852,100.0,False,positional,,,Waffen,,
 BO0624_88224,575755,889,1038,"Desgl. Desgl. je 25/18,5 cm.",1854,90.9,False,positional,,,Waffen,,
-BO0624_88224,575756,890,1039,"- 1040 Desgl. mit Malerei und Stickerei je 24/18,5 cm.",1856,100.0,False,positional,,,Waffen,,
+BO0624_88224,575756,890,1039,"- 1040 Desgl. mit Malerei und Stickerei je 24/18,5 cm.",1856,100.0,False,positional,,,Waffen,,Sec. XI
 BO0624_88224,575757,891,1041,"Desgl. Glasgemalde 27,5/20 und 25/18,5 cm.",1862,94.1,False,title_direct,,,Glas,,
-BO0624_88224,575758,892,1043,"- 1042 Zwei Vogel in Landschaften. Aquarelle mit Federn besetzt, je 38/36 cm.",1864,100.0,False,title_direct,,,Aquarelle,,
+BO0624_88224,575758,892,1043,"- 1042 Zwei Vogel in Landschaften. Aquarelle mit Federn besetzt, je 38/36 cm.",1864,100.0,False,title_direct,,,Aquarelle,,Sec. XI
 BO0624_88224,575759,893,1044,"Stickereibild ,Der Glaube"". 36/26 cm.",1865,93.0,False,positional,,,Waffen,,
 BO0624_88224,575760,894,1045,"Schwabische Silberhaube mit Perlen, Steinen, schwarzen Zier-",1867,95.8,False,positional,,Scuola Sveva,Waffen,,
 BO0624_88224,575761,895,1046,"Desgl., ahnlich der vorigen. Hohe 17, 19/15 cm.",1868,94.4,False,positional,,,Waffen,,
 BO0624_88224,575762,896,1047,"Bindbandern besetzt. Hohe 14, 21/16 cm.",1871,93.5,False,positional,,,Waffen,,
-BO0624_88224,575763,897,1048,1049,1875,100.0,False,positional,,,Waffen,,
+BO0624_88224,575763,897,1048,1049,1875,100.0,False,positional,,,Waffen,,Sec. XI
 BO0624_88224,575764,898,1050,"Desgl. Desgl. Hohe 17,20/16 cm.",1879,91.8,False,positional,,,Waffen,,
 BO0624_88224,575765,899,1051,"Desgl. Desgl. Hohe 17, 21/17 cm.",1885,91.8,False,positional,,,Waffen,,
-BO0624_88224,575766,900,1053,"1052 Desgl. Desgl. Hohe 16, 21/16 cm.",1889,100.0,False,positional,,,Waffen,,
+BO0624_88224,575766,900,1053,"1052 Desgl. Desgl. Hohe 16, 21/16 cm.",1889,100.0,False,positional,,,Waffen,,Sec. XI
 BO0624_88224,575767,901,1054,"Desgl. Desgl. Hohe 15, 18/13 cm.",1891,91.8,False,positional,,,Waffen,,
 BO0624_88224,575768,902,1055,"Desgl. Desgl. Hohe 15, 17/12 cm.",1895,91.8,False,positional,,,Waffen,,
-BO0624_88224,575769,903,1056,"- 1057 Haube mit Silber und Gold, Perlen und Steindekor. Hohe 16,",1897,100.0,False,positional,,,OGGETTI IN ORO,,
-BO0624_88224,575770,904,1058,"- 1059 Zwei Goldhauben ohne Banddekor, verschiedene Grossen.",1899,100.0,False,positional,,,Waffen,,
-BO0624_88224,575771,905,1060,"1061 Pelzmitze, oben flach, mit Goldeinsatz. Hohe 12, Durchm. 22 cm.",1902,100.0,False,positional,,,Waffen,,
-BO0624_88224,575772,906,1062,1063 Schwarze Haube mit stahifarbigem Metallgeflecht und schwarzen,1906,100.0,False,positional,,,Waffen,,
+BO0624_88224,575769,903,1056,"- 1057 Haube mit Silber und Gold, Perlen und Steindekor. Hohe 16,",1897,100.0,False,positional,,,OGGETTI IN ORO,,Sec. XI
+BO0624_88224,575770,904,1058,"- 1059 Zwei Goldhauben ohne Banddekor, verschiedene Grossen.",1899,100.0,False,positional,,,Waffen,,Sec. XI
+BO0624_88224,575771,905,1060,"1061 Pelzmitze, oben flach, mit Goldeinsatz. Hohe 12, Durchm. 22 cm.",1902,100.0,False,positional,,,Waffen,,Sec. XI
+BO0624_88224,575772,906,1062,1063 Schwarze Haube mit stahifarbigem Metallgeflecht und schwarzen,1906,100.0,False,positional,,,Waffen,,Sec. XI
 BO0624_88224,575773,907,19,/16 cm.,1910,76.9,False,positional,,,Waffen,,
 BO0624_88224,575774,908,1065,Kleines Wulsthaubchen mit Gold und schwarzen Bandern. Haubendeckel mit schwarzen Perlen. 18/15 cm.,1919,68.4,False,positional,,,OGGETTI IN ORO,,
 BO0624_88224,575775,909,1066,Desgl. Ahnlich dem vorigen.,1925,100.0,False,positional,,,Waffen,,
@@ -921,7 +921,7 @@ BO0624_88224,575785,919,1078,Stoff.,1951,66.7,False,positional,,,Waffen,,
 BO0624_88224,575786,920,1079,"Seidener Frauenschurz, silbergrau mit grinen und braunen Streifen.",1954,96.2,False,positional,,,Waffen,,
 BO0624_88224,575787,921,1080,Desgl. schwarz und braunrot schillernd.,1955,93.7,False,positional,,,Waffen,,
 BO0624_88224,575788,922,1081,Rotseidener Frauenschurz mit Goldborde.,1956,93.8,False,positional,,,Waffen,,
-BO0624_88224,575789,923,1082,"1083 Seidenes Brusttuch, rot mit farbigen Streifen und Silberborde.",1959,100.0,False,positional,,,Waffen,,
+BO0624_88224,575789,923,1082,"1083 Seidenes Brusttuch, rot mit farbigen Streifen und Silberborde.",1959,100.0,False,positional,,,Waffen,,Sec. XI
 BO0624_88224,575790,924,1084,Desgl. schwarz mit farbigem Streifenmuster und Goldborde.,1963,95.7,False,positional,,,Waffen,,
 BO0624_88224,575791,925,1085,"Brusttuch, schwarz mit seidener Blumenstickerei und Fransen.",1964,95.9,False,positional,,,Waffen,,
 BO0624_88224,575792,926,1086,"WeiBes, dreieckiges Kopftuch mit brauner und weiBer Stickerei. Schaufenstervorhang eines Stoff- und Spezereigeschaftes. Biedermeier. Schwarzes, seidenes Deckchen und Gobelinstoffbezug.",1966,54.0,False,positional,,Biedermeier,Waffen,,
@@ -940,7 +940,7 @@ BO0624_88224,575804,938,1102,Kolorierter Druck. Schlacht bei Saalfeld und Rudols
 BO0624_88224,575805,939,1103,Lithographie. 35/20 cm und ein gleicher Rahmen. Louis XVI.,1991,95.7,False,positional,,,Stiche,,
 BO0624_88224,575806,940,1104,"- Zwei kolorierte Drucke. Gang nach dem Eisenhammer und Weinbergshaus in Dresden, verschiedene GroBen.",1993,100.0,False,positional,,,Stiche,,
 BO0624_88224,575807,941,1105,"Zwei Portrats. Louis XVIll. und Franz Jos. Carl, Prinz von Parma und Modling. Kupferstiche je 10,5/8 cm.",1994,97.5,False,positional,,,Stiche,,
-BO0624_88224,575808,942,1106,"- Zwei Heiligen-Bilder. 1723. Tempera auf Holz, je 41/30.",1996,100.0,False,positional,,,Stiche,,
+BO0624_88224,575808,942,1106,"- Zwei Heiligen-Bilder. 1723. Tempera auf Holz, je 41/30.",1996,100.0,False,positional,,,Stiche,,Sec. XVIII
 BO0624_88224,575809,943,1107,"Desgl. Oel auf Holz und Leinwand, verschiedene GroBen.",1997,95.3,False,positional,,,Stiche,,
 BO0624_88224,575810,944,1108,Desgl. Desgl. Desgl.,1998,87.2,False,positional,,,Stiche,,
 BO0624_88224,575811,945,1109,Zwei Portrats. Desgl. Desgl.,1999,90.9,False,positional,,,Stiche,,
@@ -952,7 +952,7 @@ BO0624_88224,575816,950,1114,"Olgemalde.,Der Koch."" Leinw.44/64cm.",2007,92.8,F
 BO0624_88224,575817,951,1115,freiungskriege. Je 19/25 cm.,2009,91.2,False,positional,,,Stiche,,
 BO0624_88224,575818,952,1116,"- Drei Braundrucke. Schlachtenbilder nach Rugendas. Je 18/21,5 cm.",2011,100.0,False,positional,RUGENDAS GEORG PHILIPP,,Stiche,,
 BO0624_88224,575819,953,1117,"Vier Stahlstiche. Landschaften von Poppel, Hofer und And. Je 16/22 cm.",2012,96.4,False,positional,,,Stiche,,
-BO0624_88224,575820,954,1118,Farbiger Druck. Brand in Passau. 24.Juli 1809. 23/28 cm.,2013,95.4,False,positional,,,Stiche,,
+BO0624_88224,575820,954,1118,Farbiger Druck. Brand in Passau. 24.Juli 1809. 23/28 cm.,2013,95.4,False,positional,,,Stiche,,Sec. XIX
 BO0624_88224,575821,955,1119,Sieben Drucke. Diverse Schildereien verschiedener GroBen.,2014,95.7,False,positional,,,Stiche,,
 BO0624_88224,575822,956,1120,Funf diverse Heiligenbilder. Malereien verschiedener GroBen.,2015,95.9,False,positional,,,Stiche,,
 BO0624_88224,575823,957,1121,- Zwei Seidendrucke. Heiligenbilder. Je 20/15 cm.,2017,100.0,False,positional,,,Stiche,,

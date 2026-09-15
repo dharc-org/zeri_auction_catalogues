@@ -69,7 +69,7 @@ BO0624_87987,551616,67,87,| Waldlandschaft bei Gewitterstimmung. Bezeichnet.    
 BO0624_87987,551617,68,100,"## Jozef Israels t, Haag.",147,100.0,False,title_direct,Jozef Israels,,,,
 BO0624_87987,551618,69,90,| Bauernpaar in Holland.                                      | Kreidezeichnung 90/70    |,149,96.6,False,positional,Jozef Israels,,,,
 BO0624_87987,551619,70,91,| Italienische Schule. Dame mit Perlenkette bei der Toilette. | Leinw.54/45              |,151,97.9,False,positional,Jozef Israels,,OGGETTI VARI,,
-BO0624_87987,551620,71,92,"Felsengrotte mit Tigerfamilie. | Jan van Kessel, 1626-1678, Antwerpen.                       | Leinw. 45/58             |",152,98.1,False,positional,Jozef Israels,,,,
+BO0624_87987,551620,71,92,"Felsengrotte mit Tigerfamilie. | Jan van Kessel, 1626-1678, Antwerpen.                       | Leinw. 45/58             |",152,98.1,False,positional,Jozef Israels,,,,Sec. XVII
 BO0624_87987,551621,72,94,| Klostermalerei. Christus am Olberg.                         | Leinw. 109/88            |,154,96.8,False,positional,Jozef Israels,,,,
 BO0624_87987,551622,73,95,"| Ludwig Knaus , Berlin. Mannliches Bildnis. Bezeichnet.      | Blei 29/24               |",155,97.6,False,positional,Jozef Israels,Scuola di Berlino,OGGETTI IN PIOMBO,,
 BO0624_87987,551623,74,96,"| Professor Hugo Knorr , Karlsruhe.                           | Leinw. a. Karton 52/36,5 |",156,97.2,False,positional,Jozef Israels,,,,
@@ -148,7 +148,7 @@ BO0624_87987,551695,146,193,Zeichnung. Plan von Breda.,328,92.3,False,positional
 BO0624_87987,551696,147,194,Desgl. Plan von Luxembourg.,329,92.6,False,positional,Conrad Zoll,,,,
 BO0624_87987,551697,148,195,- Desgl.·Plan des Attaques de la ville de Tournay.,331,100.0,False,positional,Conrad Zoll,,,,
 BO0624_87987,551698,149,197,197,333,100.0,False,positional,Conrad Zoll,,,,
-BO0624_87987,551699,150,198,Desgl. desgl. 1812. La compagnie.,336,93.5,False,positional,Conrad Zoll,,,,
+BO0624_87987,551699,150,198,Desgl. desgl. 1812. La compagnie.,336,93.5,False,positional,Conrad Zoll,,,,Sec. XIX
 BO0624_87987,551700,151,199,"- Konvolut. Guckkastenblatter, koloriert.",338,100.0,False,positional,Conrad Zoll,,,,
 BO0624_87987,551701,152,201,201,340,100.0,False,positional,Conrad Zoll,,,,
 BO0624_87987,551702,153,202,Desgl. n. Ostade. Die Raucher.,343,92.9,False,positional,Conrad Zoll,,,,
@@ -170,13 +170,13 @@ BO0624_87987,551717,168,217,Desgl. Humphrey. Money Lenders.,366,93.3,False,posit
 BO0624_87987,551718,169,218,- Desgl. n. Ostade. Le passe temps de l'hiver.,368,100.0,False,positional,Conrad Zoll,,,,
 BO0624_87987,551719,170,219,"Desgl. n. Engelbrecht. Wilhelm,Prinz v. Oranien.",369,95.6,False,positional,Conrad Zoll,,,,
 BO0624_87987,551720,171,220,Desgl.,370,71.4,False,positional,Conrad Zoll,,,,
-BO0624_87987,551721,172,221,- Plakatentwurf. Komo-Ausstellung 1898.,372,100.0,False,positional,Conrad Zoll,,,,
+BO0624_87987,551721,172,221,- Plakatentwurf. Komo-Ausstellung 1898.,372,100.0,False,positional,Conrad Zoll,,,,Sec. XIX
 BO0624_87987,551722,173,222,"Photogravure. ,Landschaft"".",373,92.0,False,positional,Conrad Zoll,,,,
 BO0624_87987,551723,174,223,- Plakatentwurf v. Biais.,375,100.0,False,positional,Conrad Zoll,,,,
 BO0624_87987,551724,175,224,"Farbige Reproduktion v. Bakst. Dame am Tisch sitzend.""",376,96.2,False,positional,Conrad Zoll,,,,
 BO0624_87987,551725,176,225,"Tiefbrandarbeit. "",Heilige Cacilie"".",377,93.9,False,positional,Conrad Zoll,,,,
 BO0624_87987,551726,177,226,Stich auf Seide.,378,88.2,False,positional,Conrad Zoll,,,,
-BO0624_87987,551727,178,227,Russische Medaille. Auf die Geburt Peter des Grossen. Zinn. 30.Mai 1672.,383,97.1,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87987,551727,178,227,Russische Medaille. Auf die Geburt Peter des Grossen. Zinn. 30.Mai 1672.,383,97.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVII
 BO0624_87987,551728,179,228,Diverse romische Minzen.,384,92.0,False,positional,,Scuola Romana,Antiquitaten; Kunstsachen,,
 BO0624_87987,551729,180,229,Diverse Brakteaten. Silber.,385,92.6,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551730,181,230,- Medaille von Kevelaer. Silber.,387,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -309,7 +309,7 @@ BO0624_87987,551856,307,363,- Suppenterrine. Berlin.,584,100.0,False,positional,
 BO0624_87987,551857,308,364,Zwei Facher.,585,84.6,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551858,309,365,Zwei Puppenfiguren.,586,90.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551859,310,366,- Pendile. Goldbronze. Engel mit Schmetterling. Empire.,588,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87987,551860,311,367,Buste des Bischofs St. Martinus. Eichenholz. Niederrheinisch um 1480. Hohe 50 cm.,589,97.4,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87987,551860,311,367,Buste des Bischofs St. Martinus. Eichenholz. Niederrheinisch um 1480. Hohe 50 cm.,589,97.4,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XV
 BO0624_87987,551861,312,368,Hohe 80 cm.,591,83.3,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551862,313,369,Elfenbein-Christus am Holzkreuz.,592,93.9,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551863,314,370,Meistergeige von Guadagnani.,593,93.1,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -317,7 +317,7 @@ BO0624_87987,551864,315,371,Streichzither in Kasten.,594,92.0,False,positional,,
 BO0624_87987,551865,316,372,Foulardtaschentuch.,595,90.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551866,317,373,- Lichtputzschere. Stahl und And.,597,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551867,318,374,Kasten mit Photographien.,598,92.3,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87987,551868,319,375,Hohe Standuhr mit Monogramm G.v. B. 1795.,599,95.0,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87987,551868,319,375,Hohe Standuhr mit Monogramm G.v. B. 1795.,599,95.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVIII
 BO0624_87987,551869,320,376,Pfeilerspiegel mit Consol. Mahagoni. Empire.,600,95.3,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551870,321,378,378,602,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551871,322,379,- Zweitur. Schrank. Eichen geschnitzt. Renaissance.,606,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -344,7 +344,7 @@ BO0624_87987,551891,342,399,"Grosse Vase in griechischem Stil, mit weissen Relie
 BO0624_87987,551892,343,401,401,632,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551893,344,402,Uhr in Holzgehause auf Sockel.,635,93.5,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551894,345,403,Pendule. Franzosische Goldbronze. Sitzende weibliche,636,96.2,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87987,551895,346,404,Truhenschloss. 16. Jahrhundert.,638,93.3,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87987,551895,346,404,Truhenschloss. 16. Jahrhundert.,638,93.3,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVI
 BO0624_87987,551896,347,405,Desgl. Desgl.,639,84.6,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,551897,348,406,"Trachtenpuppe in alten Gewandern, mit echtem Silberschmuck aus der Sammlung des Fursten Thurn und Taxis.",640,98.1,False,positional,,,Antiquitaten; Kunstsachen,COLLEZIONE DEI PRINCIPI DI THURN E TAXIS,
 BO0624_87987,551898,349,407,Skulptur aus Kalkstein. Siena.,641,93.3,False,positional,,Scuola Senese,Antiquitaten; Kunstsachen,,
@@ -510,9 +510,9 @@ BO0624_87987,552057,508,576,Henkelkanne.,904,100.0,False,positional,,,Antiquitat
 BO0624_87987,552058,509,577,Desgl. Blau Delft.,908,88.9,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,552059,510,578,"Glas mit Spruch. ,Ihr Wohi"".",910,92.3,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,552060,511,579,Zwei Kartenteller. Bunt bemalt. Italienisch.,912,95.3,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87987,552061,512,580,Scheide in Leder 1766.,914,91.3,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87987,552061,512,580,Scheide in Leder 1766.,914,91.3,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVIII
 BO0624_87987,552062,513,581,Drei Lichtputzscheren. Messing.,916,93.5,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87987,552063,514,582,Sextant Anno 1700.,918,89.5,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87987,552063,514,582,Sextant Anno 1700.,918,89.5,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVIII
 BO0624_87987,552064,515,583,Leuchter.Bronze.,922,88.2,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,552065,516,584,Zwei Ollampen. Messing.,924,91.3,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,552066,517,585,Ollampe. Messing.,928,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -596,8 +596,8 @@ BO0624_87987,552143,594,668,- Fayenceteller.Gemalt.,1053,100.0,False,positional,
 BO0624_87987,552144,595,669,Vorbilder fur hausliche Kunst.,1054,93.5,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,552145,596,670,- Damastdecke. Weiss.,1056,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,552146,597,671,Mappe. Ornamentale Malerei von Schloss Trausnitz.,1057,95.9,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87987,552147,598,672,Taschenbuch 1824.,1058,88.9,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87987,552148,599,673,Beckers Taschenbuch. 1827.,1059,92.3,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87987,552147,598,672,Taschenbuch 1824.,1058,88.9,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_87987,552148,599,673,Beckers Taschenbuch. 1827.,1059,92.3,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_87987,552149,600,674,"Iffland. 3 Schauspiele, dabei erste Ausgabe.",1060,95.3,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,552150,601,675,- Zwei Ansichten. Bunt. Mainz und Innsbruck.,1062,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87987,552151,602,676,Konvolut. Diverse Stiche.,1063,92.0,False,positional,,,Antiquitaten; Kunstsachen,,

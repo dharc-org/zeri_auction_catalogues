@@ -1,13 +1,13 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88521,499378,1,1,"- 2 TintenfaB,viereckig mitToneinsatz. Anf. 19. Jahrh. Hohe 6,5 cm.",2,100.0,False,none,,,,,
-BO0624_88521,499379,2,3,"- 4 SalzfaB, Becherform. Anf. 19. Jahrh. Hohe 5,5 cm.",4,100.0,False,none,,,,,
+BO0624_88521,499378,1,1,"- 2 TintenfaB,viereckig mitToneinsatz. Anf. 19. Jahrh. Hohe 6,5 cm.",2,100.0,False,none,,,,,Sec. XIX
+BO0624_88521,499379,2,3,"- 4 SalzfaB, Becherform. Anf. 19. Jahrh. Hohe 5,5 cm.",4,100.0,False,none,,,,,Sec. XIX
 BO0624_88521,499380,3,5,- 6,6,100.0,False,none,,,,,
 BO0624_88521,499381,4,7,- 8,8,100.0,False,none,D'HONDECOETER MELCHIOR,,,,
-BO0624_88521,499382,5,9,"Buchse, gedeckelt. Gemarkt, bez. 1753. Hohe 7 cm.",16,97.7,False,positional,,,Zinn,,
-BO0624_88521,499383,6,10,"Becher, gedeckelt. Urnenform. Hohe 14 cm. Desgleichen. 19. Jahrh.Hohe 7,5 cm. Becher. Bez. 1862. Hohe 6,5 cm.",18,53.6,False,positional,,,Zinn,,
+BO0624_88521,499382,5,9,"Buchse, gedeckelt. Gemarkt, bez. 1753. Hohe 7 cm.",16,97.7,False,positional,,,Zinn,,Sec. XVIII
+BO0624_88521,499383,6,10,"Becher, gedeckelt. Urnenform. Hohe 14 cm. Desgleichen. 19. Jahrh.Hohe 7,5 cm. Becher. Bez. 1862. Hohe 6,5 cm.",18,53.6,False,positional,,,Zinn,,Sec. XIX
 BO0624_88521,499384,7,13,"Puppengeschirr: Platte, Schuissel, Gewirzkastchen.",21,96.8,False,title_direct,,,Schusseln,,
-BO0624_88521,499385,8,14,Bierglasdeckel mit Zimmermannsemblemen. 19. Jahrh.,23,96.9,False,positional,,,Zinn,,
-BO0624_88521,499386,9,15,Kunkelschussel. 19. Jahrh. Durchmesser 9 cm.,24,96.4,False,positional,,,Zinn,,
+BO0624_88521,499385,8,14,Bierglasdeckel mit Zimmermannsemblemen. 19. Jahrh.,23,96.9,False,positional,,,Zinn,,Sec. XIX
+BO0624_88521,499386,9,15,Kunkelschussel. 19. Jahrh. Durchmesser 9 cm.,24,96.4,False,positional,,,Zinn,,Sec. XIX
 BO0624_88521,499387,10,19,Jahrh. mit Marken.,28,91.4,False,positional,,,Zinn,,
 BO0624_88521,499388,11,2,"16 Doppelliter mit Deckel. Hohe 26,5 cm.",29,97.4,False,positional,,,Zinn,,
 BO0624_88521,499389,12,3,17,30,66.7,False,positional,,Scuola Russo-Bizantina,Zinn,,
@@ -20,128 +20,128 @@ BO0624_88521,499395,18,9,22,36,66.7,False,positional,,,Zinn,,
 BO0624_88521,499396,19,10,23 Zehntelliter desgleichen. 2 Stick. Hohe 9 cm.,37,96.8,False,positional,,,Zinn,,
 BO0624_88521,499397,20,11,Desgleichen.,38,88.0,False,positional,,,Zinn,,
 BO0624_88521,499398,21,12,24 Doppelhundertstelliter desgleichen. 3 Stick. Hohe 5 cm.,39,97.3,False,positional,,,Zinn,,
-BO0624_88521,499399,22,13,26 1/4 Liter. Marke franzos. Ruckert in Wurzburg. 19. Jahrh. Hohe 12 cm.,40,97.8,False,positional,,,Zinn,,
+BO0624_88521,499399,22,13,26 1/4 Liter. Marke franzos. Ruckert in Wurzburg. 19. Jahrh. Hohe 12 cm.,40,97.8,False,positional,,,Zinn,,Sec. XIX
 BO0624_88521,499400,23,14,25 Hundertstelliter desgleichen. Hohe 4 cm.,41,96.5,False,positional,,,Zinn,,
 BO0624_88521,499401,24,15,27,42,57.1,False,positional,,,Zinn,,
 BO0624_88521,499402,25,16,"Sat von Doppelzehntelliter, Zehntelliter, Halber Zehntel-",43,97.3,False,positional,,,Zinn,,
 BO0624_88521,499403,26,17,28 Halber Zehntelliter und Doppelhundertstelliter.,44,97.0,False,positional,,,Zinn,,
 BO0624_88521,499404,27,18,29,45,57.1,False,positional,,,Zinn,,
-BO0624_88521,499405,28,19,"30 Halber Zehntelliter mit Marke. 18. Jahrh. Hohe 6,5 cm.",46,97.2,False,positional,,,Zinn,,
+BO0624_88521,499405,28,19,"30 Halber Zehntelliter mit Marke. 18. Jahrh. Hohe 6,5 cm.",46,97.2,False,positional,,,Zinn,,Sec. XVIII
 BO0624_88521,499406,29,20,"liter, Doppelhundertstelliter,Hundertstellitr.",47,96.7,False,positional,,,Zinn,,
-BO0624_88521,499407,30,21,Halber Liter mit AusguB. 18. Jahrh. Hohe 15 cm.,48,96.6,False,positional,,,Zinn,,
+BO0624_88521,499407,30,21,Halber Liter mit AusguB. 18. Jahrh. Hohe 15 cm.,48,96.6,False,positional,,,Zinn,,Sec. XVIII
 BO0624_88521,499408,31,22,"Desgleichen, auf 3 FuBen. Hohe 3 cm.",49,95.7,False,positional,,,Zinn,,
 BO0624_88521,499409,32,47,## Kaffee- und Milchkannen.,52,100.0,False,title_direct,,,Kaffee- und Milchkannen,,
 BO0624_88521,499410,33,32,"Gedrehter Korper. Gedeckelt. Rokoko. Hohe 19,5 cm. Abbildung Tafel IV.",55,97.7,False,positional,,,Kaffee- und Milchkannen,,
 BO0624_88521,499411,34,33,Desgleichen.,57,88.0,False,positional,,,Kaffee- und Milchkannen,,
-BO0624_88521,499412,35,34,- Birnformiger Korper. Gedeckelt. 18. Jahrh. Hohe 19 cm.,59,100.0,False,positional,,,Kaffee- und Milchkannen,,
+BO0624_88521,499412,35,34,- Birnformiger Korper. Gedeckelt. 18. Jahrh. Hohe 19 cm.,59,100.0,False,positional,,,Kaffee- und Milchkannen,,Sec. XVIII
 BO0624_88521,499413,36,35,Desgleichen. Mit Rosenzinnmarke. Hohe 22 cm.,60,96.5,False,positional,,,Kaffee- und Milchkannen,,
 BO0624_88521,499414,37,36,Breiter AusguB. Ohne Deckel.Empire. Mit Marke. Hohe 14 cm.,61,97.3,False,positional,,,Kaffee- und Milchkannen,,
 BO0624_88521,499415,38,38,Zylindrische Form. Hohe 27 cm.,67,94.9,False,positional,,,Kannen,,
 BO0624_88521,499416,39,39,Desgleichen. Mit Marken. 18.19. Jahrh. Hohe 20 cm.,68,96.8,False,positional,,,Kannen,,
 BO0624_88521,499417,40,40,"Zylindrische Form, nach unten weit ausladend. Hohe 22 cm.",69,97.3,False,positional,,,Kannen,,
 BO0624_88521,499418,41,41,Desgleichen. Graviert. Hohe 30 cm.,70,95.4,False,positional,,,Kannen,,
-BO0624_88521,499419,42,42,Kleiner AusguB. Meistermarke von 1710.,71,96.0,False,positional,,,Kannen,,
+BO0624_88521,499419,42,42,Kleiner AusguB. Meistermarke von 1710.,71,96.0,False,positional,,,Kannen,,Sec. XVIII
 BO0624_88521,499420,43,43,"Hohe 20,5 cm.",73,88.9,False,positional,,,Kannen,,
 BO0624_88521,499421,44,44,- Desgleichen. Marke Kreuz und Meistermarke.17. Jahrh. Hohe 28 cm.,75,100.0,False,positional,,,Kannen,,
 BO0624_88521,499422,45,45,Abbildung Tafel IV.,77,92.3,False,positional,,,Kannen,,
 BO0624_88521,499423,46,462,Abbildung Tafel IV.,79,90.0,False,positional,,,Kannen,,
-BO0624_88521,499424,47,48,"Sechseckig, datiert 1780. Hohe 20 cm.",84,95.8,False,positional,,,Schraubflaschen,,
-BO0624_88521,499425,48,49,- Desgleichen.Stempel Gunzenhausen.19. Jahrh.Hohe 22 cm.,86,100.0,False,positional,,,Schraubflaschen,,
-BO0624_88521,499426,49,50,Achteckig. 19. Jahrh. Hohe 19 cm.,87,95.1,False,positional,,,Schraubflaschen,,
-BO0624_88521,499427,50,51,Zylindrisch. Datiert 1840. Hohe 13 cm. Abbildung Tafel IV. Jahrh. Hohe 15 cm.,88,84.4,False,positional,,,Schraubflaschen,,
+BO0624_88521,499424,47,48,"Sechseckig, datiert 1780. Hohe 20 cm.",84,95.8,False,positional,,,Schraubflaschen,,Sec. XVIII
+BO0624_88521,499425,48,49,- Desgleichen.Stempel Gunzenhausen.19. Jahrh.Hohe 22 cm.,86,100.0,False,positional,,,Schraubflaschen,,Sec. XVIII
+BO0624_88521,499426,49,50,Achteckig. 19. Jahrh. Hohe 19 cm.,87,95.1,False,positional,,,Schraubflaschen,,Sec. XIX
+BO0624_88521,499427,50,51,Zylindrisch. Datiert 1840. Hohe 13 cm. Abbildung Tafel IV. Jahrh. Hohe 15 cm.,88,84.4,False,positional,,,Schraubflaschen,,Sec. IV
 BO0624_88521,499428,51,52,Desgleichen.,90,88.0,False,positional,,,Schraubflaschen,,
 BO0624_88521,499429,52,53,Desgleichen.,91,88.0,False,positional,,,Schraubflaschen,,
 BO0624_88521,499430,53,54,Desgleichen. Jahrh.Hohe 23 cm.,93,72.3,False,positional,,,Schraubflaschen,,
-BO0624_88521,499431,54,55,Desgleichen. Datiert 1851. Hohe 25 cm.,95,95.9,False,positional,,,Schraubflaschen,,
-BO0624_88521,499432,55,56,Desgleichen. Datiert 1827. Zinnmarken.Hohe 26 cm. - 65,96,93.9,False,title_direct,,,Zinn,,
-BO0624_88521,499433,56,57,Gerillt. 19. Jahrh.Hohe 19 cm.,102,94.7,False,positional,,,Krige,,
+BO0624_88521,499431,54,55,Desgleichen. Datiert 1851. Hohe 25 cm.,95,95.9,False,positional,,,Schraubflaschen,,Sec. XIX
+BO0624_88521,499432,55,56,Desgleichen. Datiert 1827. Zinnmarken.Hohe 26 cm. - 65,96,93.9,False,title_direct,,,Zinn,,Sec. XIX
+BO0624_88521,499433,56,57,Gerillt. 19. Jahrh.Hohe 19 cm.,102,94.7,False,positional,,,Krige,,Sec. XIX
 BO0624_88521,499434,57,58,Desgleichen. 19.Jahrh. Hohe 18 cm.,103,95.4,False,positional,,,Krige,,
-BO0624_88521,499435,58,59,GlockenfuB. 19.Jahrh.Hohe 19 cm.,104,95.2,False,positional,,,Krige,,
-BO0624_88521,499436,59,60,"- Desgleichen. Anf. 19. Jahrh.Hohe 19,5 cm.",106,100.0,False,positional,,,Krige,,
+BO0624_88521,499435,58,59,GlockenfuB. 19.Jahrh.Hohe 19 cm.,104,95.2,False,positional,,,Krige,,Sec. XIX
+BO0624_88521,499436,59,60,"- Desgleichen. Anf. 19. Jahrh.Hohe 19,5 cm.",106,100.0,False,positional,,,Krige,,Sec. XIX
 BO0624_88521,499437,60,61,"- Glatt. Anf. 19.Jahrh.Hohe 11,5 cm.",108,100.0,False,positional,,,Krige,,
 BO0624_88521,499438,61,62,Pokal. Bekronung romischer Krieger.17.-18. Jahrh. Hohe 38 cm. Abbildung Tafel IV.,109,98.0,False,positional,,,Krige,,
 BO0624_88521,499439,62,63,"- Kokospokal.Alt, Zusammengesetzt.17.-18. Jahrh. Hohe 31 cm.",111,100.0,False,positional,,,Krige,,
-BO0624_88521,499440,63,64,"Becher. Glockenform, graviert mit Studentenzirkel und Kneipnamen.Anf. 19. Jahrh.Hohe 18 cm. Abbildung Tafel IV.",112,98.6,False,positional,,,VASI,,
+BO0624_88521,499440,63,64,"Becher. Glockenform, graviert mit Studentenzirkel und Kneipnamen.Anf. 19. Jahrh.Hohe 18 cm. Abbildung Tafel IV.",112,98.6,False,positional,,,VASI,,Sec. XIX
 BO0624_88521,499441,64,2,Stick.Hohe 24 cm. Abbildung Tafel IV.,117,97.2,False,positional,,,Leuchter,,
 BO0624_88521,499442,65,66,RundfuB.Verdickter Schaft. Empire. Hohe 19 cm.,118,96.6,False,positional,,,Leuchter,,
 BO0624_88521,499443,66,67,GlockenfuB. Gerillter Schaft. Tulle fehlt. Empireform. Hohe 21 cm.,119,97.6,False,positional,,,Leuchter,,
 BO0624_88521,499444,67,68,TellerfuB. Schlanker Schaft. 18.—19. Jahrh. Hohe 22 cm.,120,97.0,False,title_direct,,,Teller,,
-BO0624_88521,499445,68,69,GlockenfuB. Balusterschaft.2 Stick. Anf. 19. Jahrh. Hohe 15 cm.,121,97.4,False,positional,,,Leuchter,,
+BO0624_88521,499445,68,69,GlockenfuB. Balusterschaft.2 Stick. Anf. 19. Jahrh. Hohe 15 cm.,121,97.4,False,positional,,,Leuchter,,Sec. XIX
 BO0624_88521,499446,69,70,"Desgleichen. 1 Stuick.Hohe 14,5 cm.",122,95.7,False,positional,,,Leuchter,,
-BO0624_88521,499447,70,71,"- 72 Desgleichen. 18. Jahrh. Hohe 17,5 cm.",124,100.0,False,positional,,,Leuchter,,
+BO0624_88521,499447,70,71,"- 72 Desgleichen. 18. Jahrh. Hohe 17,5 cm.",124,100.0,False,positional,,,Leuchter,,Sec. XVIII
 BO0624_88521,499448,71,73,"Lampe, viereckiger FuB.Balusterschaft. Gedeckelt.",126,96.8,False,positional,,,Leuchter,,
 BO0624_88521,499449,72,74,"Desgleichen. RundfuB, gehenkelt. 18.—19.Jahrh. Hohe 9,5 cm. Jahrh. Hohe 26 cm.",127,84.1,False,positional,,,Leuchter,,
 BO0624_88521,499450,73,75,Desgleichen. 18.Jahrh. Hohe 19 cm.,129,95.4,False,positional,,,Leuchter,,
-BO0624_88521,499451,74,76,"Desgleichen. 18. Jahrh. Hohe 5 cm. Maienkriglein.Vasen, gehenkelt. 18.Jahrh. Hohe 15 cm.",134,76.3,False,positional,,,VASI,,
+BO0624_88521,499451,74,76,"Desgleichen. 18. Jahrh. Hohe 5 cm. Maienkriglein.Vasen, gehenkelt. 18.Jahrh. Hohe 15 cm.",134,76.3,False,positional,,,VASI,,Sec. XVIII
 BO0624_88521,499452,75,77,Abbildung Tafel IV.,135,92.3,False,positional,,,Liturgische Gegenstande,,
 BO0624_88521,499453,76,78,- Desgleichen. 18.—19. Jahrh. Hohe 20 cm.,137,100.0,False,positional,,,Liturgische Gegenstande,,
 BO0624_88521,499454,77,79,"- Hostienbichse. 8eckiger FuB, reich gegliederter Schaft. Hohe 18 cm.",139,100.0,False,positional,,,Liturgische Gegenstande,,
 BO0624_88521,499455,78,80,"2 MeBkannchen auf 8eckiger, gravierter Platte. Kannchen Hohe 9,5 cm, Platte 24/18,5 cm.18. Jahrh. Abbildung Tafel IV.",142,98.7,False,positional,,,Liturgische Gegenstande,,
 BO0624_88521,499456,79,81,Abbildung Tafel IV.,144,92.3,False,positional,,,Liturgische Gegenstande,,
-BO0624_88521,499457,80,82,2 MeBkannchen. Anf. 19. Jahrh. Hohe 12 cm.,145,96.1,False,positional,,,Liturgische Gegenstande,,
-BO0624_88521,499458,81,83,Desgleichen. 18. Jahrh. Hohe 11 cm.,146,95.4,False,positional,,,Liturgische Gegenstande,,
-BO0624_88521,499459,82,84,Untersatzplatte fir Taufkanne.Gemarkt. 18. Jahrh.,147,96.8,False,positional,,,Liturgische Gegenstande,,
+BO0624_88521,499457,80,82,2 MeBkannchen. Anf. 19. Jahrh. Hohe 12 cm.,145,96.1,False,positional,,,Liturgische Gegenstande,,Sec. XIX
+BO0624_88521,499458,81,83,Desgleichen. 18. Jahrh. Hohe 11 cm.,146,95.4,False,positional,,,Liturgische Gegenstande,,Sec. XVIII
+BO0624_88521,499459,82,84,Untersatzplatte fir Taufkanne.Gemarkt. 18. Jahrh.,147,96.8,False,positional,,,Liturgische Gegenstande,,Sec. XVIII
 BO0624_88521,499460,83,85,Kruzifix.GlockenfuB.Balusterschaft. Kleeblattform.18. Jahrh. Hohe 39 cm. Abbildung Tafel IV.,149,98.3,False,positional,,,Liturgische Gegenstande,,
-BO0624_88521,499461,84,86,Anf. 19. Jahrh.Hohe 78 cm.,152,93.9,False,positional,,,Liturgische Gegenstande,,
-BO0624_88521,499462,85,87,Abendmahlkanne. kronung. 18. Jahrh. Hohe 33 cm.,154,96.6,False,positional,,,Liturgische Gegenstande,,
-BO0624_88521,499463,86,88,- Desgleichen. Figurlicher Henkel. 18. Jahrh. Hohe 35 cm.,156,100.0,False,positional,,,Liturgische Gegenstande,,
-BO0624_88521,499464,87,89,"Weihwasserkessel, gehenkelt. 18. Jahrh. Hohe 6 cm.",158,96.8,False,positional,,,Liturgische Gegenstande,,
+BO0624_88521,499461,84,86,Anf. 19. Jahrh.Hohe 78 cm.,152,93.9,False,positional,,,Liturgische Gegenstande,,Sec. XIX
+BO0624_88521,499462,85,87,Abendmahlkanne. kronung. 18. Jahrh. Hohe 33 cm.,154,96.6,False,positional,,,Liturgische Gegenstande,,Sec. XVIII
+BO0624_88521,499463,86,88,- Desgleichen. Figurlicher Henkel. 18. Jahrh. Hohe 35 cm.,156,100.0,False,positional,,,Liturgische Gegenstande,,Sec. XVIII
+BO0624_88521,499464,87,89,"Weihwasserkessel, gehenkelt. 18. Jahrh. Hohe 6 cm.",158,96.8,False,positional,,,Liturgische Gegenstande,,Sec. XVIII
 BO0624_88521,499465,88,90,Desgleichen.Hohe 5 cm.,159,93.3,False,positional,,,Liturgische Gegenstande,,
 BO0624_88521,499466,89,91,Desgleichen ohne Henkel. Hohe 8 cm.,160,95.7,False,positional,,,Liturgische Gegenstande,,
-BO0624_88521,499467,90,92,- Weihwassergefab. Mit Relief: Gottvater und Kruzifix. Deutsch. 18. Jahrh. Hohe 14 cm.,162,100.0,False,title_direct,,Deutsch,,,
+BO0624_88521,499467,90,92,- Weihwassergefab. Mit Relief: Gottvater und Kruzifix. Deutsch. 18. Jahrh. Hohe 14 cm.,162,100.0,False,title_direct,,Deutsch,,,Sec. XVIII
 BO0624_88521,499468,91,93,"Doppelhenkel, gedeckelt. Empire. Hohe 9 cm.",166,96.3,False,positional,,,Wochenbettschisseln,,
 BO0624_88521,499469,92,94,Desgleichen. Hohe 10 cm.,167,93.6,False,positional,,,Wochenbettschisseln,,
 BO0624_88521,499470,93,95,- Desgleichen. Mit Marke Schnell in Hall. Hohe 11 cm.,169,100.0,False,positional,,,Wochenbettschisseln,,
-BO0624_88521,499471,94,96,- Gedrehte Rokokoform. 18. Jahrh. Hohe 10 cm.,171,100.0,False,positional,,,Wochenbettschisseln,,
+BO0624_88521,499471,94,96,- Gedrehte Rokokoform. 18. Jahrh. Hohe 10 cm.,171,100.0,False,positional,,,Wochenbettschisseln,,Sec. XVIII
 BO0624_88521,499472,95,97,Doppelhenkel ohne Deckel.2 Marken.18. Jahrh.,172,96.6,False,positional,,,Wochenbettschisseln,,
 BO0624_88521,499473,96,98,Stark vertieft.Glatter Rand.18.—19.Jahrh.Durchm.23cm.,177,97.1,False,positional,,,Schusseln,,
 BO0624_88521,499474,97,99,- Desgleichen.19. Jahrh.Durchm.22 cm.,179,100.0,False,positional,,,Schusseln,,
 BO0624_88521,499475,98,100,Durchm. 22 cm.,180,85.7,False,positional,,,Schusseln,,
 BO0624_88521,499476,99,101,- 102 Desgleichen.Durchm.21 cm.,182,100.0,False,positional,,,Schusseln,,
 BO0624_88521,499477,100,103,"- Vertieft, mit Rand. Gemarkt.Anf.19. Jahrh.Durchm.23,5 cm.",189,100.0,False,positional,,,Teller,,
-BO0624_88521,499478,101,104,Desgleichen. Gemarkt. Graviert:1848. Durchm.23 cm.,190,95.8,False,positional,,,Teller,,
+BO0624_88521,499478,101,104,Desgleichen. Gemarkt. Graviert:1848. Durchm.23 cm.,190,95.8,False,positional,,,Teller,,Sec. XIX
 BO0624_88521,499479,102,105,"Mit (neu) getriebenem Hirsch.Durchm. 22,5 cm.",191,95.3,False,positional,,,Teller,,
 BO0624_88521,499480,103,106,Flach.19. Jahrh.Durchm.22 cm.,192,93.1,False,positional,,,Teller,,
-BO0624_88521,499481,104,107,- Desgleichen. Zinnmarke von 1791. Durchm.21 cm.,194,100.0,False,title_direct,,,Zinn,,
-BO0624_88521,499482,105,108,Zinnmarken von 1708.Graviert 1752.,195,94.3,False,title_direct,,,Zinn,,
-BO0624_88521,499483,106,109,Desgleichen.1 18. Jahrh.Durchm.22 cm.,197,94.6,False,positional,,,Teller,,
-BO0624_88521,499484,107,110,Desgleichen. 2 Stick. Eines graviert 1769. Durchm.22 cm.,198,96.3,False,positional,,,Teller,,
-BO0624_88521,499485,108,111,122 Desgleichen. 12 Stick. Alle gemarkt. 18. Jahrh.,199,95.8,False,positional,,,Teller,,
+BO0624_88521,499481,104,107,- Desgleichen. Zinnmarke von 1791. Durchm.21 cm.,194,100.0,False,title_direct,,,Zinn,,Sec. XVIII
+BO0624_88521,499482,105,108,Zinnmarken von 1708.Graviert 1752.,195,94.3,False,title_direct,,,Zinn,,Sec. XVIII
+BO0624_88521,499483,106,109,Desgleichen.1 18. Jahrh.Durchm.22 cm.,197,94.6,False,positional,,,Teller,,Sec. XVIII
+BO0624_88521,499484,107,110,Desgleichen. 2 Stick. Eines graviert 1769. Durchm.22 cm.,198,96.3,False,positional,,,Teller,,Sec. XVIII
+BO0624_88521,499485,108,111,122 Desgleichen. 12 Stick. Alle gemarkt. 18. Jahrh.,199,95.8,False,positional,,,Teller,,Sec. XVIII
 BO0624_88521,499486,109,123,"127 Fassonierter Rand. Stark vertieft.5 Stuick.Gemarkt.18. Jahrh.Georg Nerf. Durchm.23,5 cm.",201,97.8,False,positional,,,Teller,,
 BO0624_88521,499487,110,128,"141 Fassonierter Rand, flach.",202,93.1,False,positional,,,Teller,,
-BO0624_88521,499488,111,14,"Stuick.Gemarkt. 18. Jahrh./Anf.19. Jahrh. Georg Nerff. Durchm.23,5 cm.",203,97.7,False,positional,,,Teller,,
+BO0624_88521,499488,111,14,"Stuick.Gemarkt. 18. Jahrh./Anf.19. Jahrh. Georg Nerff. Durchm.23,5 cm.",203,97.7,False,positional,,,Teller,,Sec. XVIII
 BO0624_88521,499489,112,143,143,205,100.0,False,positional,,,Teller,,
-BO0624_88521,499490,113,144,Untersatzplatte. Gemarkt. Anf. 19. Jahrh. Durchm.23 cm.,212,96.1,False,positional,,,Teller,,
+BO0624_88521,499490,113,144,Untersatzplatte. Gemarkt. Anf. 19. Jahrh. Durchm.23 cm.,212,96.1,False,positional,,,Teller,,Sec. XIX
 BO0624_88521,499491,114,145,Kurfurstenteller. Nirnberger Zinnmarke. 17.Jahrh. Durchm. 20 cm.,213,96.7,False,title_direct,,,Zinn,,
-BO0624_88521,499492,115,146,- GroBe Platte. Marke Nerff.Ende 18. Jahrh. Durchm.35 cm.,215,100.0,False,positional,,,Teller,,
+BO0624_88521,499492,115,146,- GroBe Platte. Marke Nerff.Ende 18. Jahrh. Durchm.35 cm.,215,100.0,False,positional,,,Teller,,Sec. XVIII
 BO0624_88521,499493,116,147,- 148,222,100.0,False,positional,,,Glas,,
-BO0624_88521,499494,117,149,"- ScherzgefaB: Hund, grin. 19. Jahrh. Lange 20 cm.",224,100.0,False,positional,,,Glas,,
+BO0624_88521,499494,117,149,"- ScherzgefaB: Hund, grin. 19. Jahrh. Lange 20 cm.",224,100.0,False,positional,,,Glas,,Sec. XIX
 BO0624_88521,499495,118,150,"Desgleichen. WeiB, beschadigt. Lange 19 cm.",225,95.1,False,positional,,,Glas,,
-BO0624_88521,499496,119,151,Platte mit Korb. Kristall. 19. Jahrh. Lange 29 cm.,226,95.7,False,positional,,,Glas,,
+BO0624_88521,499496,119,151,Platte mit Korb. Kristall. 19. Jahrh. Lange 29 cm.,226,95.7,False,positional,,,Glas,,Sec. XIX
 BO0624_88521,499497,120,152,"154 Drei Teller, desgleichen. Durchm. 18,5 cm.",227,95.5,False,title_direct,,,Teller,,
 BO0624_88521,499498,121,155,"1 Teller, desgleichen. Durchm. 17 cm.",228,94.3,False,title_direct,,,Teller,,
 BO0624_88521,499499,122,156,"Deckelpokal. Kristall mit Golddekor. Deutsch. I. Halfte Jahrh. Hohe 20,5 cm.",229,81.6,False,title_direct,,Deutsch,Gold,,
 BO0624_88521,499500,123,157,"Zuckerdose. Kristall mit vergoldeter Montierung, in Originallederfutteral, mit beiliegendem Schreiben Konig Wilhelms I. von Wurttemberg. Hohe 10 cm.",231,98.6,False,positional,,,Glas,,
 BO0624_88521,499501,124,158,Bowle. Kristall. Deckel versilbertes Metall mit trinken-,232,96.4,False,positional,,,OGGETTI IN METALLO,,
-BO0624_88521,499502,125,159162,4 Trinkglaser.15kantig. Wappen Monogramm 1786. Hohe 8 cm.,234,93.9,False,positional,,,Glas,,
-BO0624_88521,499503,126,163,165 3 Schnapsflaschen. ZinnverschluB. Farbige Emailmalerei. 18.Jahrh.Hohe 1315 cm.,235,97.5,False,title_direct,,,Zinn,,
+BO0624_88521,499502,125,159162,4 Trinkglaser.15kantig. Wappen Monogramm 1786. Hohe 8 cm.,234,93.9,False,positional,,,Glas,,Sec. XVIII
+BO0624_88521,499503,126,163,165 3 Schnapsflaschen. ZinnverschluB. Farbige Emailmalerei. 18.Jahrh.Hohe 1315 cm.,235,97.5,False,title_direct,,,Zinn,,Sec. XIV
 BO0624_88521,499504,127,166,"- 167 Trinkglas mit farbiger Transparentmalerei:Wallensteins Lager von Johann Georg Buhler, Urach 17611823. Hohe 12 cm.",237,100.0,False,positional,,,Glas,,
 BO0624_88521,499505,128,168,"Hohe 12,5 cm. Abbildung Tafel Ill.",241,94.1,False,positional,,,Glas,,
 BO0624_88521,499506,129,169,Medaillons. Hohe 1l cm. Abbildung Tafel Ill.,242,95.3,False,positional,,,Glas,,
-BO0624_88521,499507,130,170,"- 171 Milchglasbecher. Farbige Malerei, deutsch. 18. Jahrh.",244,100.0,False,title_direct,,Deutsch,,,
+BO0624_88521,499507,130,170,"- 171 Milchglasbecher. Farbige Malerei, deutsch. 18. Jahrh.",244,100.0,False,title_direct,,Deutsch,,,Sec. XVIII
 BO0624_88521,499508,131,172,- 173 Saugflasche mit ZinnverschluB. Anf.19. Jahrh. Hohe 17 cm.,248,100.0,False,title_direct,,,Zinn,,
 BO0624_88521,499509,132,174,GroBe Platte. Im Fonds Christus und die Samariterin,253,96.2,False,positional,,,Majolika,,
 BO0624_88521,499510,133,175,Desgleichen. Im Fonds Hagar und ihr Sohn. Durchm.,254,95.8,False,positional,,,Majolika,,
 BO0624_88521,499511,134,176,"- Nach italienischem Vorbild. Durchm.42 cm. ,5cm.",256,95.1,False,title_direct,,Italienisch,,,
 BO0624_88521,499512,135,177,Schlangenhenkel. Dekor: Antike Szenen,258,94.6,False,positional,,,Majolika,,
 BO0624_88521,499513,136,178,- 2Kannen. nach italienischem Vorbild. Hohe 45 cm.,262,100.0,False,title_direct,,Italienisch,Kannen,,
-BO0624_88521,499514,137,18,"Jahrh. Springe und Erganzungen. Hohe 40,5 cm. 179 Runde Fillplatte mit gemalter Ruinenarchitektur und Landschaft. Italien, 18. Jahrh. Der Rand abgeschliffen. Durchm.28 cm.",272,99.1,False,positional,,,Majolika,,
+BO0624_88521,499514,137,18,"Jahrh. Springe und Erganzungen. Hohe 40,5 cm. 179 Runde Fillplatte mit gemalter Ruinenarchitektur und Landschaft. Italien, 18. Jahrh. Der Rand abgeschliffen. Durchm.28 cm.",272,99.1,False,positional,,,Majolika,,Sec. XVIII
 BO0624_88521,499515,138,180,- Blumenvase. Gelb und blau. Orientalische Form. Gez. 2 Blumenvasen. Blatterkelch mit Schnepfe. Mod. Hohe 40cm. Sevilla. Hohe 37 cm.,275,61.0,False,positional,,,Majolika,,
-BO0624_88521,499516,139,183,Rechaud. Marke B. 19. Jahrh. Hohe 22 cm.,279,94.6,False,positional,,,Steingut,,
+BO0624_88521,499516,139,183,Rechaud. Marke B. 19. Jahrh. Hohe 22 cm.,279,94.6,False,positional,,,Steingut,,Sec. XIX
 BO0624_88521,499517,140,184,"Tasse mit Untertasse. Rot, Biedermeier. Marke HN Hohe 5 cm.",280,96.5,False,positional,,Biedermeier,Steingut,,
 BO0624_88521,499518,141,185,Service:88 Stuick.,281,89.5,False,positional,,,OGGETTI VARI,,
-BO0624_88521,499519,142,22,"Suppenteller, 46 Speiseteller, 1 SuppenterrinemitPlatte,2Gemiseschusseln,2Deckel schisseln,2Tunkenschisseln,4kleineBeilageschusseln, 6 Fleischplatten,1Fischplatte,1 tiefe,1 flache Platt, 2 Salatschisseln. Dekor in Ueberdruck. Farbige chinesische Landschaften. Marke Davenport. Erikamuster. England, 1. Viertel 19. Jahrh.",282,99.5,False,title_direct,,,Schusseln,,
-BO0624_88521,499520,143,186191,"6 Teller. Darstellungen aus dem Leben Napoleons: Napoleon in Kairo, Donauuibergang 1805, Schlacht bei Jena, bei Austerlitz, bei Ligny, Napoleon auf Helena. Fabrikstempel: S. v. B. Holland, 19. Jahrh. Durchm. 18,7 cm.",283,98.3,False,title_direct,,,Teller,,
+BO0624_88521,499519,142,22,"Suppenteller, 46 Speiseteller, 1 SuppenterrinemitPlatte,2Gemiseschusseln,2Deckel schisseln,2Tunkenschisseln,4kleineBeilageschusseln, 6 Fleischplatten,1Fischplatte,1 tiefe,1 flache Platt, 2 Salatschisseln. Dekor in Ueberdruck. Farbige chinesische Landschaften. Marke Davenport. Erikamuster. England, 1. Viertel 19. Jahrh.",282,99.5,False,title_direct,,,Schusseln,,Sec. XIX
+BO0624_88521,499520,143,186191,"6 Teller. Darstellungen aus dem Leben Napoleons: Napoleon in Kairo, Donauuibergang 1805, Schlacht bei Jena, bei Austerlitz, bei Ligny, Napoleon auf Helena. Fabrikstempel: S. v. B. Holland, 19. Jahrh. Durchm. 18,7 cm.",283,98.3,False,title_direct,,,Teller,,Sec. XIX
 BO0624_88521,499521,144,193,Schokolade-Tasse und Untertasse. Listriert. Fabrik-,285,96.0,False,positional,,,Steingut,,
 BO0624_88521,499522,145,194,"Kaffee-Tasse und Untertasse.Luistriert.Fabrikstempel: Sarguemines. Die Obertasse beschadigt. Kaffeekanne. Listriert. Fabrikstempel: Sarguemines, Der Deckel fehlt. AusguB und oberer Rand beschadigt. Teller.Listriert.Achtseitiger Rand.Fabrikstempel: Sarguemines. Durchm.18,5 cm.",288,54.1,False,title_direct,,,Teller,,
 BO0624_88521,499523,146,197,"Untertasse.Listriert. Fabrikstempel: Sarguemines. Durchm.13,5 cm.",290,96.8,False,positional,,,Steingut,,
@@ -153,68 +153,68 @@ BO0624_88521,499528,151,202,Schauer. Modern. Lange 40 cm.,297,92.9,False,positio
 BO0624_88521,499529,152,203,Ruhender Rappe. Schramberg. Modern. Lange 15 cm.,298,95.7,False,positional,,,Steingut,,
 BO0624_88521,499530,153,204,Kriglein. Altes Beschlag. Hohe 20 cm.,302,94.4,False,title_direct,,,Krige,,
 BO0624_88521,499531,154,205,## Fayencen.,305,100.0,False,title_direct,,,Fayencen,,
-BO0624_88521,499532,155,206,Kanne ohne Deckel. Kornblumen- und Festonsdekor. Marke Schretzheim. 18. Jahrh. Hohe 14 cm.,307,97.6,False,title_direct,,,Kannen,,
+BO0624_88521,499532,155,206,Kanne ohne Deckel. Kornblumen- und Festonsdekor. Marke Schretzheim. 18. Jahrh. Hohe 14 cm.,307,97.6,False,title_direct,,,Kannen,,Sec. XVIII
 BO0624_88521,499533,156,206,a Desgleichen. Hohe 14 cm. b Desgleichen. Hohe 16 cm.,309,63.2,False,positional,,,Fayencen,,
 BO0624_88521,499534,157,207,Desgleichen. Ohne Marke. Gekittet. Hohe 11 cm.,313,95.5,False,positional,,,Fayencen,,
-BO0624_88521,499535,158,208,TintenfaB. Schretzheim. 18. Jahrh. Hohe 6 cm.,314,95.2,False,positional,,,Fayencen,,
+BO0624_88521,499535,158,208,TintenfaB. Schretzheim. 18. Jahrh. Hohe 6 cm.,314,95.2,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88521,499536,159,209,- 210-213 4 Teller.Blumen-und figirl. Dekor.,318,100.0,False,title_direct,,,Teller,,
 BO0624_88521,499537,160,18,Jahrh. Durchm.25 cm.,321,92.3,False,positional,,,Fayencen,,
 BO0624_88521,499538,161,214,Teller. Grinblaues Dekor. StraBburg ?,322,94.3,False,title_direct,,,Teller,,
-BO0624_88521,499539,162,215,Birnkrug. Dekor: Pferd. Gekittet. Suiddeutsch. 18. Jahrh. Hohe 25 cm.,323,96.8,False,title_direct,,Suddeutsch,,,
+BO0624_88521,499539,162,215,Birnkrug. Dekor: Pferd. Gekittet. Suiddeutsch. 18. Jahrh. Hohe 25 cm.,323,96.8,False,title_direct,,Suddeutsch,,,Sec. XVIII
 BO0624_88521,499540,163,216,Birnkriglein. Blumendekor. Zinndeckel. Gekittet. Suid deutsch.18. Jahrh. Hohe 17 cm.,324,97.5,False,title_direct,,Deutsch,Zinn,,
-BO0624_88521,499541,164,218,- 217 Salz- und PfeffergefaB. Farbiges Blumendekor. Suddeutsch. 18. Jahrh. Lange 14 cm.,326,100.0,False,title_direct,,Suddeutsch,,,
+BO0624_88521,499541,164,218,- 217 Salz- und PfeffergefaB. Farbiges Blumendekor. Suddeutsch. 18. Jahrh. Lange 14 cm.,326,100.0,False,title_direct,,Suddeutsch,,,Sec. XVIII
 BO0624_88521,499542,165,219,SalzgefaB. Frauengestalt. Neulothringen. Hohe 18 cm.,327,96.0,False,positional,,,Fayencen,,
 BO0624_88521,499543,166,220,Desgleichen. Gekittet. Hohe 18 cm.,329,93.9,False,positional,,,Fayencen,,
 BO0624_88521,499544,167,221,"Gruppe von 4 Figuren auf Bergsockel, in der Tracht",331,96.1,False,positional,,,OGGETTI VARI,,
 BO0624_88521,499545,168,222,225 Teller. Blau Dekor. Schiff. 4 Stick. Neudelfft.,332,95.8,False,title_direct,,,Teller,,
-BO0624_88521,499546,169,227,/228 2 Tassen mit Untertasse. Eine Untertasse gekittet. Landschaftsdekor. EingepreBte Marke:Pferd. Furstenberg? 18. Jahrh.Hohe 7 cm.,337,98.4,False,positional,,,Porzellan,,
-BO0624_88521,499547,170,230,"Tasse mit Untertasse. Eierbecherform. Empiredekor auf mattgrinem Grund. Tasse gesprungen. Frankreich. Anf. 19. Jahrh. Hohe 11 cm. Service. Bestehend aus: Teekanne, Zuckerdose, Milchkanne und Tasse mit Untertasse. Golddekor.Graumalerei. Landschaft. Frankreich. Anf. 19. Jahrh.",339,69.2,False,title_direct,,,Gold,,
-BO0624_88521,499548,171,231,Untertasse. Korbflechtmuster. Farbige Putten. Goldrand. Blaumarke:Hochst. 18. Jahrh. Durchm.14 cm.,340,97.8,False,title_direct,,Manifattura di Hochst,Gold,,
+BO0624_88521,499546,169,227,/228 2 Tassen mit Untertasse. Eine Untertasse gekittet. Landschaftsdekor. EingepreBte Marke:Pferd. Furstenberg? 18. Jahrh.Hohe 7 cm.,337,98.4,False,positional,,,Porzellan,,Sec. XVIII
+BO0624_88521,499547,170,230,"Tasse mit Untertasse. Eierbecherform. Empiredekor auf mattgrinem Grund. Tasse gesprungen. Frankreich. Anf. 19. Jahrh. Hohe 11 cm. Service. Bestehend aus: Teekanne, Zuckerdose, Milchkanne und Tasse mit Untertasse. Golddekor.Graumalerei. Landschaft. Frankreich. Anf. 19. Jahrh.",339,69.2,False,title_direct,,,Gold,,Sec. XIX
+BO0624_88521,499548,171,231,Untertasse. Korbflechtmuster. Farbige Putten. Goldrand. Blaumarke:Hochst. 18. Jahrh. Durchm.14 cm.,340,97.8,False,title_direct,,Manifattura di Hochst,Gold,,Sec. XVIII
 BO0624_88521,499549,172,232,Untersetzplatte in Blatform. Farbiges Blumendekor. Blaumarke: Hochst mit Krone. Gesprungen. Durchm. 22 cm.,341,98.0,False,positional,,Manifattura di Hochst,Porzellan,,
 BO0624_88521,499550,173,233,Teebichse. Figurendekor.Blaumarke: Ludwigsburg. Hohe 11 cm.,342,96.5,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
 BO0624_88521,499551,174,234,"Tasse mit Untertasse. Blaumalerei. Ludwigsburg. 18.Jahrh. Hohe 5,5 cm.",343,97.0,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
 BO0624_88521,499552,175,235,Tasse mit Untertasse. Golddekor.Farbige Malerei. Eremit und heil. Magdalena.Goldmarke W.B. Lud-,344,97.8,False,title_direct,,,Gold,,
 BO0624_88521,499553,176,236,Vase. Kelchform. Blau mit Gold. Goldmarke F.R. Lud-,345,95.8,False,title_direct,,,Gold,,
-BO0624_88521,499554,177,237,- wigsburg ? Anf. 19. Jahrh.,347,100.0,False,positional,,,Porzellan,,
+BO0624_88521,499554,177,237,- wigsburg ? Anf. 19. Jahrh.,347,100.0,False,positional,,,Porzellan,,Sec. XIX
 BO0624_88521,499555,178,238,Kaffeetasse mit Untertasse. Bunter indianischer Vogeldekor. Goldrand. Blaumarke: Ludwigsburg mit Krone. 18.Jahrh.,351,98.2,False,title_direct,,Manifattura di Ludwigsburg,Gold,,
 BO0624_88521,499556,179,239,- 240,353,100.0,False,positional,,,Porzellan,,
 BO0624_88521,499557,180,241,Desgleichen.,354,84.6,False,positional,,,Porzellan,,
 BO0624_88521,499558,181,242,Desgleichen. Schuppenmuster mit buntem Blumendekor und violettem Rand. Blaumarke: Ludwigsburg mit,357,97.9,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
 BO0624_88521,499559,182,243,245 Desgleichen.,358,88.2,False,positional,,,Porzellan,,
-BO0624_88521,499560,183,246,Desgleichen. Schuppenmuster mit buntem Blumendekor und Goldrand. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Desgleichen. Korbrand. Bunter Blumendekor. Goldener Randstreifen. Blaumarke: Ludwigsburg. 18. Jahrh. Abbildung Tafel IV.,361,68.3,False,title_direct,,Manifattura di Ludwigsburg,Gold,,
+BO0624_88521,499560,183,246,Desgleichen. Schuppenmuster mit buntem Blumendekor und Goldrand. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Desgleichen. Korbrand. Bunter Blumendekor. Goldener Randstreifen. Blaumarke: Ludwigsburg. 18. Jahrh. Abbildung Tafel IV.,361,68.3,False,title_direct,,Manifattura di Ludwigsburg,Gold,,Sec. XVIII
 BO0624_88521,499561,184,247,Desgleichen.,362,84.6,False,positional,,,Porzellan,,
 BO0624_88521,499562,185,249,- Kaffeetasse und Untertasse. Korbrand. Bunter Blumendekor. Goldener Randstreifen. Blaumarke: Ludwigs-,364,100.0,False,title_direct,,,Gold,,
-BO0624_88521,499563,186,251,- 250 burg mit Krone. 18. Jahrh. Abbildung Tafel IIl.,366,100.0,False,positional,,,Porzellan,,
-BO0624_88521,499564,187,252,Desgleichen. Schuppenmuster mit buntem Blumendekor und Goldrand. Blaumarke:Ludwigsburg mit Krone. 18. Jahrh.,367,98.1,False,title_direct,,Manifattura di Ludwigsburg,Gold,,
-BO0624_88521,499565,188,253,Desgleichen. Blaumarke: Ludwigsburg. 18. Jahrh.,373,95.5,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
-BO0624_88521,499566,189,254,Cremetasse. Muschelform mit Asthenkel auf drei FuBen. Bunter Blumendekor. Goldrand. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Abbildung Tafel IIl.,375,98.6,False,title_direct,,Manifattura di Ludwigsburg,Gold,,
+BO0624_88521,499563,186,251,- 250 burg mit Krone. 18. Jahrh. Abbildung Tafel IIl.,366,100.0,False,positional,,,Porzellan,,Sec. XVIII
+BO0624_88521,499564,187,252,Desgleichen. Schuppenmuster mit buntem Blumendekor und Goldrand. Blaumarke:Ludwigsburg mit Krone. 18. Jahrh.,367,98.1,False,title_direct,,Manifattura di Ludwigsburg,Gold,,Sec. XVIII
+BO0624_88521,499565,188,253,Desgleichen. Blaumarke: Ludwigsburg. 18. Jahrh.,373,95.5,False,positional,,Manifattura di Ludwigsburg,Porzellan,,Sec. XVIII
+BO0624_88521,499566,189,254,Cremetasse. Muschelform mit Asthenkel auf drei FuBen. Bunter Blumendekor. Goldrand. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Abbildung Tafel IIl.,375,98.6,False,title_direct,,Manifattura di Ludwigsburg,Gold,,Sec. XVIII
 BO0624_88521,499567,190,256,256,377,100.0,False,positional,,,Porzellan,,
-BO0624_88521,499568,191,257,Desgleichen. Blaumarke: Ludwigsburg. 18. Jahrh.,381,95.5,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
+BO0624_88521,499568,191,257,Desgleichen. Blaumarke: Ludwigsburg. 18. Jahrh.,381,95.5,False,positional,,Manifattura di Ludwigsburg,Porzellan,,Sec. XVIII
 BO0624_88521,499569,192,258,Teetasse mit Untertasse. Gemalter Korbrand mit bunten,382,96.3,False,title_direct,,,Gemalde,,
 BO0624_88521,499570,193,259,Abbildung Tafel VI.,386,100.0,False,positional,,,Porzellan,,
-BO0624_88521,499571,194,260,"Flacher Teller. Korbrand. Bunter indianischer Vogeldekor.Goldener Randstreifen. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Durchm. 24,3 cm. Abbildung Tafel IIl.",389,98.7,False,title_direct,,Manifattura di Ludwigsburg,Gold,,
+BO0624_88521,499571,194,260,"Flacher Teller. Korbrand. Bunter indianischer Vogeldekor.Goldener Randstreifen. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Durchm. 24,3 cm. Abbildung Tafel IIl.",389,98.7,False,title_direct,,Manifattura di Ludwigsburg,Gold,,Sec. XVIII
 BO0624_88521,499572,195,261,/262 Desgleichen.,390,88.2,False,positional,,,Porzellan,,
-BO0624_88521,499573,196,263,Desgleichen. Korbrand. Bunter Blumendekor. Violetter Randstreifen. Blaumarke: Hirschstange. Ludwigsburg. 18. Jahrh. Durchm.24 cm.,391,98.3,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
+BO0624_88521,499573,196,263,Desgleichen. Korbrand. Bunter Blumendekor. Violetter Randstreifen. Blaumarke: Hirschstange. Ludwigsburg. 18. Jahrh. Durchm.24 cm.,391,98.3,False,positional,,Manifattura di Ludwigsburg,Porzellan,,Sec. XVIII
 BO0624_88521,499574,197,264,Desgleichen.,392,84.6,False,positional,,,Porzellan,,
 BO0624_88521,499575,198,265,Desgleichen. Korbrand. Bunter Blumendekor. Violetter Randstreifen. Blaumarke:Ludwigsburg mit Krone. 18.Jahrh.,394,98.1,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
-BO0624_88521,499576,199,266,Desgleichen. Blaumarke: Ludwigsburg. 18. Jahrh. Abbildung Tafel IIl.,395,96.9,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
-BO0624_88521,499577,200,267,"Desgleichen. Korbrand. Bunter Blumendekor. Violetter Randstreifen. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh.Durchm.24,5 cm. Abbildung Tafel IIl. m Rand ein gemalter Eichenkranz.Im Spiegel das wtirtt. Konigswappen. Blaumarke: Hirschstange. Ludwigsburg. Anf.19.Jahrh. Durchm.23 cm.",396,67.6,False,positional,,Manifattura di Ludwigsburg,SPECCHI,,
+BO0624_88521,499576,199,266,Desgleichen. Blaumarke: Ludwigsburg. 18. Jahrh. Abbildung Tafel IIl.,395,96.9,False,positional,,Manifattura di Ludwigsburg,Porzellan,,Sec. XVIII
+BO0624_88521,499577,200,267,"Desgleichen. Korbrand. Bunter Blumendekor. Violetter Randstreifen. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh.Durchm.24,5 cm. Abbildung Tafel IIl. m Rand ein gemalter Eichenkranz.Im Spiegel das wtirtt. Konigswappen. Blaumarke: Hirschstange. Ludwigsburg. Anf.19.Jahrh. Durchm.23 cm.",396,67.6,False,positional,,Manifattura di Ludwigsburg,SPECCHI,,Sec. XVIII
 BO0624_88521,499578,201,268,Desgleichen.,398,84.6,False,positional,,,Porzellan,,
 BO0624_88521,499579,202,269,Desgleichen. Abbildung Tafel IV.,399,93.8,False,positional,,,Porzellan,,
 BO0624_88521,499580,203,270,"Gartnerpaar.Bunt bemalt. Siehe Balet, Abbildung Nr.54. Tadellos erhaltenes Stick. Blaumarke: Ludwigsburg. 18.Jahrh. Hohe 12 cm. Abbildung Tafel IIl.",401,98.6,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
 BO0624_88521,499581,204,271,Abbildung Tafel IIl.,402,90.5,False,positional,,,Porzellan,,
-BO0624_88521,499582,205,272,"Cimon und Pera. Bunt bemalt. Siehe Balet, Abbildung haltenes Stick. Blaumarke: Ludwigsburg. 18. Jahrh. Hohe 17,5 cm.",403,98.2,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
-BO0624_88521,499583,206,273,"Liegender FluBgott mit Putto. Bunt bemalt. Modell von Ferretti. Siehe Balet Nr.113. Ludwigsburg. 18. Jahrh.Hohe 19,5 cm. a) Wahrsager. Bunt bemalt. Siehe Balet Nr. 182. Gut erhaltenes Stick. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Hohe 20 cm. Abbildung Tafel IIl. Orpheus mit der Leier. Bunt bemalt. Modell von Beyer. Siehe Balet Nr. 151. Ein Stick vom Schwanz des Cerberus fehlt. Sonst gut erhalten. Ludwigsburg. 18. Jahrh. Hohe 26 cm. Abbildung Tafel IIl.",408,59.4,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
-BO0624_88521,499584,207,276,"b) Wahrsagerin. Bunt bemalt. Gegenstick zu Nr. 275a. Im Sockel ein feiner Sprung. Sonst tadelloses Stick. Blaumarke: Ludwigsburg. 18. Jahrh. Hohe 20,5 cm. Abbildung Tafel Ill.",409,98.8,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
+BO0624_88521,499582,205,272,"Cimon und Pera. Bunt bemalt. Siehe Balet, Abbildung haltenes Stick. Blaumarke: Ludwigsburg. 18. Jahrh. Hohe 17,5 cm.",403,98.2,False,positional,,Manifattura di Ludwigsburg,Porzellan,,Sec. XVIII
+BO0624_88521,499583,206,273,"Liegender FluBgott mit Putto. Bunt bemalt. Modell von Ferretti. Siehe Balet Nr.113. Ludwigsburg. 18. Jahrh.Hohe 19,5 cm. a) Wahrsager. Bunt bemalt. Siehe Balet Nr. 182. Gut erhaltenes Stick. Blaumarke: Ludwigsburg mit Krone. 18. Jahrh. Hohe 20 cm. Abbildung Tafel IIl. Orpheus mit der Leier. Bunt bemalt. Modell von Beyer. Siehe Balet Nr. 151. Ein Stick vom Schwanz des Cerberus fehlt. Sonst gut erhalten. Ludwigsburg. 18. Jahrh. Hohe 26 cm. Abbildung Tafel IIl.",408,59.4,False,positional,,Manifattura di Ludwigsburg,Porzellan,,Sec. XVIII
+BO0624_88521,499584,207,276,"b) Wahrsagerin. Bunt bemalt. Gegenstick zu Nr. 275a. Im Sockel ein feiner Sprung. Sonst tadelloses Stick. Blaumarke: Ludwigsburg. 18. Jahrh. Hohe 20,5 cm. Abbildung Tafel Ill.",409,98.8,False,positional,,Manifattura di Ludwigsburg,Porzellan,,Sec. XVIII
 BO0624_88521,499585,208,277,"Jagerpaar. Bunt bemalt. Siehe Balet, Abbildung Nr.40. Der Schwanz des Hundes erganzt,beide Ohren des Rehbocks abgestoBen, das Astwerk des Baumes be-",410,98.6,False,positional,,,Porzellan,,
-BO0624_88521,499586,209,278,"- schadigt. Ludwigsburg. 18. Jahrh. Hohe 28,5 cm. Abbildung Tafel IIl.",412,100.0,False,positional,,Manifattura di Ludwigsburg,Porzellan,,
+BO0624_88521,499586,209,278,"- schadigt. Ludwigsburg. 18. Jahrh. Hohe 28,5 cm. Abbildung Tafel IIl.",412,100.0,False,positional,,Manifattura di Ludwigsburg,Porzellan,,Sec. XVIII
 BO0624_88521,499587,210,279,Kaffeekanne.Farbige Blumenranke. Ohne Deckel. Meiben.,413,96.2,False,positional,,,OGGETTI VARI,,
-BO0624_88521,499588,211,3,TaBchen mit Untertassen. Blaudekor. MeiBen. 18. Jahrh. Hohe 4 cm.,414,98.3,False,positional,,,Porzellan,,
+BO0624_88521,499588,211,3,TaBchen mit Untertassen. Blaudekor. MeiBen. 18. Jahrh. Hohe 4 cm.,414,98.3,False,positional,,,Porzellan,,Sec. XVIII
 BO0624_88521,499589,212,18,Jahrh.Hohe 23 cm.,415,91.4,False,positional,,,Porzellan,,
 BO0624_88521,499590,213,280,"Teekannchen. Heroldmalerei. Chinesendekor in Purpur, Blaumarke: KPM und Schwerter.",417,97.5,False,positional,,,Porzellan,,
 BO0624_88521,499591,214,281,SalzfaBchen. Flache Form.Vogeldekor. Meiben.19. Jahrh. Lange 9 cm. Biedermeier. marke. Hohe 13 cm.,418,78.7,False,positional,,Biedermeier,Porzellan,,
 BO0624_88521,499592,215,284,"thal.18. Jahrh.Hohe 10,5 cm. Abbildung Tafel IIl.",423,95.8,False,positional,,,Porzellan,,
-BO0624_88521,499593,216,285,"Walzenkrug. Farbiges Blumendekor, in Purpurrokokokartusche. Arche Noah in hellrot. Marke: Buchszweig. Schretzheim. Silbermontierung, Deckel und FuBreif, I1. Halfte 19. Jahrh.Schretzheim 18. Jahrh. Hohe 12 cm.",424,99.0,False,title_direct,,,Silber,,
+BO0624_88521,499593,216,285,"Walzenkrug. Farbiges Blumendekor, in Purpurrokokokartusche. Arche Noah in hellrot. Marke: Buchszweig. Schretzheim. Silbermontierung, Deckel und FuBreif, I1. Halfte 19. Jahrh.Schretzheim 18. Jahrh. Hohe 12 cm.",424,99.0,False,title_direct,,,Silber,,Sec. XIX
 BO0624_88521,499594,217,286,Suppenterrine. Farbiges Blumendekor. Knauf Putto mit Marke Volkstett.,426,97.1,False,positional,,,Porzellan,,
 BO0624_88521,499595,218,287,Tasse mit Untertasse. Indianisches Purpurdekor. Marke:,428,96.2,False,positional,,,Porzellan,,
 BO0624_88521,499596,219,288,Becher mit Untertasse. Goldrand und Spruch. Gekittet.,431,96.2,False,title_direct,,,Gold,,
@@ -240,7 +240,7 @@ BO0624_88521,499615,238,312,"2 alte chinesische Teller, bemalt mit Fischen in br
 BO0624_88521,499616,239,313,"1 japanische Miniaturtasse mit Untertasse, mit Bemalung",482,96.4,False,positional,,,Ostasiatische Kunst,,
 BO0624_88521,499617,240,314,"Chin. Gottheit aus Porzellan, mit Papierrolle und Hirsch und blauer Bemalung, repariert. Hohe 19 cm.",485,66.7,False,title_direct,,,Porzellan,,
 BO0624_88521,499618,241,315,1 Baum.,486,75.0,False,positional,,,Ostasiatische Kunst,,
-BO0624_88521,499619,242,316,"2 chinesische Porzellanvasen, heller Craquele-Grund mit vielen Schriftzeichen und GefaBen in grin, gold, rot und braun. Am FuB und am Ansatz des Halses braune Bordiren mit reliefierten Eidechsen und Feldern mit hellem Grund und Blumen bemalt. Braune Henkel aus Tierfiguren. Hohe 60 cm. 19. Jahrh. Repariert. Abbildung Tafel Ill.",488,99.4,False,title_direct,,,OGGETTI IN ORO,,
+BO0624_88521,499619,242,316,"2 chinesische Porzellanvasen, heller Craquele-Grund mit vielen Schriftzeichen und GefaBen in grin, gold, rot und braun. Am FuB und am Ansatz des Halses braune Bordiren mit reliefierten Eidechsen und Feldern mit hellem Grund und Blumen bemalt. Braune Henkel aus Tierfiguren. Hohe 60 cm. 19. Jahrh. Repariert. Abbildung Tafel Ill.",488,99.4,False,title_direct,,,OGGETTI IN ORO,,Sec. XIX
 BO0624_88521,499620,243,317,2 japanische Bronzevasen mit reliefierten Blumen und,489,96.3,False,positional,,,Ostasiatische Kunst,,
 BO0624_88521,499621,244,318,"1 chinesische Bronze-Rauchervase, mit Ornamenten verziert, getragen von 3 Chinesen. Hohe 18,5 cm. Abbildung Tafel Ill.",490,98.3,False,positional,,,Ostasiatische Kunst,,
 BO0624_88521,499622,245,319,- 320,492,100.0,False,positional,,,Ostasiatische Kunst,,
@@ -267,13 +267,13 @@ BO0624_88521,499642,265,339,"2 Galvanobronze-Figuren, Minnesanger und Edeldame. 
 BO0624_88521,499643,266,340,"2 Galvanobronze-Figuren, Mutter mit Kind. Hohe 60 cm.",531,96.2,False,positional,,,Plastik,,
 BO0624_88521,499644,267,341,"1 Galvanobronze-Beleuchtungsfigur, weibl. Gestalt mit Schmetterlingsfligeln. Hohe 33 cm.",532,97.7,False,positional,,,Plastik,,
 BO0624_88521,499645,268,342,1 Galvanobronze-Schale auf FuB. Hohe 3O cm.Durchm. 25 cm.,533,96.4,False,positional,,,OGGETTI VARI,,
-BO0624_88521,499646,269,343,"1 spanisches Kastchen,rechteckig,mit Deckel mit reichem Beschlag. 15. Jahrh. GroBe 10,6x7,2 cm. Hohe 5,3 cm.",534,98.1,False,positional,,,SCATOLE,,
-BO0624_88521,499647,270,344,"1 Prunkschissel,oval, getrieben, am Rand reiches Ornament, auf dem Grund Herkules, den Nessus totend. In der Mitte Widmung von 1615. Vergoldet. GroBe 52x40,5cm. Original Deutschordensschatz Wien. Meister vermutlich Tobias Kramer 1582-1634 Rll 314a.",535,99.2,False,title_direct,,Deutsch,,,
-BO0624_88521,499648,271,345,"- 1 Taufkanne, Helmkannenform, vergoldet, Henkel mit Frauengestalt. Um 1720. Hohe 27,8 cm.",537,100.0,False,positional,,,Plastik,,
+BO0624_88521,499646,269,343,"1 spanisches Kastchen,rechteckig,mit Deckel mit reichem Beschlag. 15. Jahrh. GroBe 10,6x7,2 cm. Hohe 5,3 cm.",534,98.1,False,positional,,,SCATOLE,,Sec. XV
+BO0624_88521,499647,270,344,"1 Prunkschissel,oval, getrieben, am Rand reiches Ornament, auf dem Grund Herkules, den Nessus totend. In der Mitte Widmung von 1615. Vergoldet. GroBe 52x40,5cm. Original Deutschordensschatz Wien. Meister vermutlich Tobias Kramer 1582-1634 Rll 314a.",535,99.2,False,title_direct,,Deutsch,,,Sec. XVII
+BO0624_88521,499648,271,345,"- 1 Taufkanne, Helmkannenform, vergoldet, Henkel mit Frauengestalt. Um 1720. Hohe 27,8 cm.",537,100.0,False,positional,,,Plastik,,Sec. XVIII
 BO0624_88521,499649,272,346,1,538,33.3,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Plastik,,
 BO0624_88521,499650,273,347,"1 10,7x17,5 cm.",541,87.5,False,positional,,,Plastik,,
 BO0624_88521,499651,274,348,"1 Relief, Geiselung Christi von Moderno, versilbert und",542,96.4,False,positional,,,Plastik,,
-BO0624_88521,499652,275,349,"1 Relief mit mythol. Szene von Moderno, versilbert und 1 Prunkpokal, vergoldet, mit reichem RenaissanceOrnament, Bekronung Ritter. 16. Jahrh. Original im Welfenschatz. Hohe 50 cm. 1 Becher mit figirlichem Ornament,sassanidisch,Original im Antikenkabinett in Wien. Hohe 6 cm.",546,61.8,False,positional,,Scuola Viennese,VASI,,
+BO0624_88521,499652,275,349,"1 Relief mit mythol. Szene von Moderno, versilbert und 1 Prunkpokal, vergoldet, mit reichem RenaissanceOrnament, Bekronung Ritter. 16. Jahrh. Original im Welfenschatz. Hohe 50 cm. 1 Becher mit figirlichem Ornament,sassanidisch,Original im Antikenkabinett in Wien. Hohe 6 cm.",546,61.8,False,positional,,Scuola Viennese,VASI,,Sec. XVI
 BO0624_88521,499653,276,352,"1 Wasseralfinger EisenguB, ruhender Lowe. GroBe x8 cm.",548,90.0,False,positional,,,Plastik,,
 BO0624_88521,499654,277,353,"1 Paar Bronzeleuchter, Rokoko. Hohe 16 cm. 1 Leuchter, WeiBmetall. Hohe 17 cm. 1 Paar Bronzeleuchter, Rokoko. Hohe 15,5 cm.",552,52.8,False,title_direct,,,Leuchter,,
 BO0624_88521,499655,278,356,"- 357 1 Leuchter, Messing.",554,100.0,False,title_direct,,,Leuchter,,
@@ -289,7 +289,7 @@ BO0624_88521,499664,287,367,2 verzinnte Barockleuchter. Hohe 70 cm.,571,94.9,Fal
 BO0624_88521,499665,288,368,- 369,573,100.0,False,positional,,,Plastik,,
 BO0624_88521,499666,289,1,"turkische Mokkamihle, Messing.",574,96.6,False,positional,,,Plastik,,
 BO0624_88521,499667,290,370,"10 alte Mobelgriffe und Beschlage. - 1 kleiner Messing-Schopfer. 1 Tintenzeug in Form eines Miniaturschreibtisches,ZinkguB.",578,65.9,False,title_direct,,,Mobel,,
-BO0624_88521,499668,291,373,"1 Fischkessel, Kupfer, aus dem Jahre 1720. kleine Hexe aus Gips.",579,75.7,False,positional,,,OGGETTI IN RAME,,
+BO0624_88521,499668,291,373,"1 Fischkessel, Kupfer, aus dem Jahre 1720. kleine Hexe aus Gips.",579,75.7,False,positional,,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88521,499669,292,374,"Hifthorn von Herzog Eberhard Ludwig, Elfenbein,",581,95.7,False,positional,,,Plastik,,
 BO0624_88521,499670,293,375,"- 376 1 Holzskulptur, mannlicher Kopf in Oval. Hohe 16 cm.",583,100.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88521,499671,294,1,mit geschnitzter Sauhatz.,584,96.0,False,positional,,,Plastik,,
@@ -332,7 +332,7 @@ BO0624_88521,499707,330,415,"1 Biedermeier-Steckkamm, holzgeschnitzt.",664,95.0,
 BO0624_88521,499708,331,416,1,665,33.3,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Mobel,,
 BO0624_88521,499709,332,417,1 Biedermeier-Spielkastchen mit 4 Markenkastchen und bunten Spielmarken und Spielkarten.,666,97.8,False,positional,,Biedermeier,OGGETTI VARI,,
 BO0624_88521,499710,333,418,- 419 alter Bauernschirm.,671,95.2,False,positional,,,Mobel,,
-BO0624_88521,499711,334,419,"a 1 eiserne Kassette mit KunstschloB auf 4 EisenfuiBen, 18. Jahrh. Hohe 68 cm, Breite 75 cm, Tiefe 35 cm.",672,98.5,False,positional,,,Mobel,,
+BO0624_88521,499711,334,419,"a 1 eiserne Kassette mit KunstschloB auf 4 EisenfuiBen, 18. Jahrh. Hohe 68 cm, Breite 75 cm, Tiefe 35 cm.",672,98.5,False,positional,,,Mobel,,Sec. XVIII
 BO0624_88521,499712,335,420,"- 1 facettierter Spiegel in vergoldetem Stuckrahmen, Glas 48×40 cm.",674,100.0,False,title_direct,,,SPECCHI,,
 BO0624_88521,499713,336,421,"1 goldene lange Halskette,18kar.,3fache Erbskette40gr.",678,96.3,False,positional,,,Gold; Silber; Schmuckgegenstande,,
 BO0624_88521,499714,337,422,"1 gold. lange Uhrkette, 14kar. lange Glieder mit Rokokoverzierungen u. verziertem Schraubenkarabiner 29 gr. Paar goldene Ohrringe, Biedermeierzeit,mit blau und",679,78.8,False,positional,,Biedermeier,OGGETTI IN ORO,,
@@ -342,13 +342,13 @@ BO0624_88521,499717,340,425,"1 goldener Ring mit Turkis, 8kar.",683,93.9,False,p
 BO0624_88521,499718,341,426,1 goldener Damenring mit Turkis.,684,93.9,False,positional,,,Gold; Silber; Schmuckgegenstande,,
 BO0624_88521,499719,342,427,1 goldener Ring mit Haararbeit.,685,93.8,False,positional,,,Gold; Silber; Schmuckgegenstande,,
 BO0624_88521,499720,343,428,1 goldener Ring mit Granaten.,686,93.3,False,positional,,,Gold; Silber; Schmuckgegenstande,,
-BO0624_88521,499721,344,429,"1 silberne Tasse mit Untertasse und Loffel. Schlangenhenkel mit Gravierung:Carl von Schitz, 1823 und Fisch, Augsburg, Seethaler. Loffel, Stuttgarter Beschau.500 gr.",687,98.7,False,positional,,,Gold; Silber; Schmuckgegenstande,,
-BO0624_88521,499722,345,430,"1 silbernes Korbchen mit blauem Glaseinsatz und Henkel, Empireform, graviert F. A.K. 1804, mit Stempel, 138 gr. Abbildung Tafel Ill.",688,98.4,False,title_direct,,,STAMPE E INCISIONI,,
+BO0624_88521,499721,344,429,"1 silberne Tasse mit Untertasse und Loffel. Schlangenhenkel mit Gravierung:Carl von Schitz, 1823 und Fisch, Augsburg, Seethaler. Loffel, Stuttgarter Beschau.500 gr.",687,98.7,False,positional,,,Gold; Silber; Schmuckgegenstande,,Sec. XIX
+BO0624_88521,499722,345,430,"1 silbernes Korbchen mit blauem Glaseinsatz und Henkel, Empireform, graviert F. A.K. 1804, mit Stempel, 138 gr. Abbildung Tafel Ill.",688,98.4,False,title_direct,,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88521,499723,346,431,1,689,33.3,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Gold; Silber; Schmuckgegenstande,,
 BO0624_88521,499724,347,432,"1 silberner kleiner Teller mit Filigranrand, 29 gr.",690,96.1,False,title_direct,,,Teller,,
-BO0624_88521,499725,348,433,"1 silberner Zahnstocherbehalter in Form eines Stachelschweins, 511/ gr. 1 Silberkasten mit 12fachem Besteck, Fadenmuster. Marke E. Foehr, Stuttgart. 2 silberne Kompottloffel in Etui, verg. und mit Ornamenten in Email reich verziert, mit Stempel, 1571/ gr.",694,58.6,False,title_direct,,,STAMPE E INCISIONI,,
+BO0624_88521,499725,348,433,"1 silberner Zahnstocherbehalter in Form eines Stachelschweins, 511/ gr. 1 Silberkasten mit 12fachem Besteck, Fadenmuster. Marke E. Foehr, Stuttgart. 2 silberne Kompottloffel in Etui, verg. und mit Ornamenten in Email reich verziert, mit Stempel, 1571/ gr.",694,58.6,False,title_direct,,,STAMPE E INCISIONI,,Sec. XVI
 BO0624_88521,499726,349,436,1: silberne Herren-Taschenuhr.,695,93.3,False,positional,,,Gold; Silber; Schmuckgegenstande,,
-BO0624_88521,499727,350,437,2Silberminzen. Braunschweig 1653 u.Mecklenburg 1549.,696,96.2,False,title_direct,,,Silber,,
+BO0624_88521,499727,350,437,2Silberminzen. Braunschweig 1653 u.Mecklenburg 1549.,696,96.2,False,title_direct,,,Silber,,Sec. XVII
 BO0624_88521,499728,351,438,"- 439 1 Gemmenanhanger, Flora in Etui.",698,100.0,False,positional,,,Gold; Silber; Schmuckgegenstande,,
 BO0624_88521,499729,352,10,verschiedene alte Silberminzen.,699,95.2,False,title_direct,,,Silber,,
 BO0624_88521,499730,353,440,"2 kleine Gemmen fir Ringe. 11 Miniaturenanhanger mit Silbermontierung, junger Prinz. 1 kl. Miniature fuir Anhanger, Hollanderin.",701,63.0,False,title_direct,,,Miniaturen,,
@@ -377,11 +377,11 @@ BO0624_88521,499752,375,463,"- Theaterschmuck, wie Krone, Diademe und Haarnadeln
 BO0624_88521,499753,376,464,1 Sammlung von 40 Halbedelsteinen.,759,94.3,False,positional,,,Gold; Silber; Schmuckgegenstande,,
 BO0624_88521,499754,377,465,1 vers. Samovar.,760,87.5,False,positional,,,Gold; Silber; Schmuckgegenstande,,
 BO0624_88521,499755,378,466,"1vers. Jardiniere, W. M. F. mit Glaseinsatz.",761,95.0,False,title_direct,,,Glas,,
-BO0624_88521,499756,379,467,"- 1 Medaille, Ostende 1904. a 1 Tablett mit Kaffeekanne, Rahmkannchen und Zucker-",764,80.6,False,positional,,,OGGETTI VARI,,
+BO0624_88521,499756,379,467,"- 1 Medaille, Ostende 1904. a 1 Tablett mit Kaffeekanne, Rahmkannchen und Zucker-",764,80.6,False,positional,,,OGGETTI VARI,,Sec. XX
 BO0624_88521,499757,380,468,"- 469 Kavalier, Oel in ovalem Messingrahmen.",771,100.0,False,positional,,,Miniaturen,,
 BO0624_88521,499758,381,470,"- Madchenkopf auf Elfenbein, in rundem Rahmchen.",773,100.0,False,positional,,,Miniaturen,,
-BO0624_88521,499759,382,471,"Weibl. Rickenakt, Oel. Anf. 19. Jahrh.",774,94.1,False,positional,,,Miniaturen,,
-BO0624_88521,499760,383,472,"Messing, bez. F. J. Pollinger, 1842.",776,93.8,False,positional,,,Miniaturen,,
+BO0624_88521,499759,382,471,"Weibl. Rickenakt, Oel. Anf. 19. Jahrh.",774,94.1,False,positional,,,Miniaturen,,Sec. XIX
+BO0624_88521,499760,383,472,"Messing, bez. F. J. Pollinger, 1842.",776,93.8,False,positional,,,Miniaturen,,Sec. XIX
 BO0624_88521,499761,384,473,"Friedrich der GroBe als Kind mit seiner Schwester, nach dem Gemalde von Antoine Pesne, auf Elfenbein in Bronzerahmen.",777,98.3,False,title_direct,,,Gemalde,,
 BO0624_88521,499762,385,474,"- Dame mit Hut, nach Gainsborough, auf Elfenbein in Elfenbeinrahmen.",779,100.0,False,positional,,,Miniaturen,,
 BO0624_88521,499763,386,475,"Madchen mit Hund, auf Elfenbein in Elfenbeinrahmen.",780,96.1,False,positional,,,Miniaturen,,
@@ -452,7 +452,7 @@ BO0624_88521,499827,450,528,"a 1 weiBes Seidentuch, doppelseitig bestickt mit se
 BO0624_88521,499828,451,529,"weiber Tullschal, mit versilberten Faden durchzogen,",926,96.2,False,positional,,,Stoffe; Decken; Teppiche,,
 BO0624_88521,499829,452,530,"1 weibBer Tuillschal, mit vergoldeten Faden durchzogen, 2,35×0,75m.",927,97.0,False,positional,,,Stoffe; Decken; Teppiche,,
 BO0624_88521,499830,453,531,"1 schwarzer Tuillschal mit versilberten Faden durchzogen, 2,05x0,60 m.",928,97.1,False,positional,,,Stoffe; Decken; Teppiche,,
-BO0624_88521,499831,454,532,"1 Stick Goldbrokat. 19. Jahrh. 1,30x0,58 m.",929,95.1,False,title_direct,,,Gold,,
+BO0624_88521,499831,454,532,"1 Stick Goldbrokat. 19. Jahrh. 1,30x0,58 m.",929,95.1,False,title_direct,,,Gold,,Sec. XIX
 BO0624_88521,499832,455,533,1,930,33.3,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Stoffe; Decken; Teppiche,,
 BO0624_88521,499833,456,534,1,932,33.3,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Stoffe; Decken; Teppiche,,
 BO0624_88521,499834,457,535,1 orientalische Seidendecke mit Gold- und Seidenstickerei auf griinem Grund mit Goldspitze 50x50 cm.,934,98.0,False,title_direct,,,Gold,,
@@ -463,7 +463,7 @@ BO0624_88521,499838,461,541,Ansicht des Klosters Beuron. Kol. Aquatintastich.,94
 BO0624_88521,499839,462,543,543,945,100.0,False,positional,,,Stiche; Lithographien,,
 BO0624_88521,499840,463,544,- Gesamtansicht von EBlingen. Oeldruck.,948,100.0,False,positional,,,Stiche; Lithographien,,
 BO0624_88521,499841,464,545,Fenster der Stiftskirche. Farbiger Druck.,949,95.1,False,positional,,,Stiche; Lithographien,,
-BO0624_88521,499842,465,546,Burgermilitar um 1830. Kol. Lithographie.,951,95.0,False,title_direct,,,Lithographien,,
+BO0624_88521,499842,465,546,Burgermilitar um 1830. Kol. Lithographie.,951,95.0,False,title_direct,,,Lithographien,,Sec. XIX
 BO0624_88521,499843,466,547,Prospect des Romer-Bergs zu Franckfurt am Mayn. Guckkastenbild. Kol. Stich. Bei G.B.Probst exc.Voller Rand. K- d.,952,96.2,False,positional,,,Stiche; Lithographien,,
 BO0624_88521,499844,467,548,exc. Voller Rand.,972,88.2,False,positional,,,Stiche; Lithographien,,
 BO0624_88521,499845,468,549,"Parforcejagd. Nach Coreggio, Minchen. Farbige Gravuire.",974,96.2,False,positional,CORREGGIO,,Stiche; Lithographien,,
@@ -480,7 +480,7 @@ BO0624_88521,499855,478,560,Shakespeare wegen Wildfrevels vor dem Friedensrichte
 BO0624_88521,499856,479,561,- Bildnis von Friedrich Voltz. Rad. von J. L. Raab. Fol.,994,100.0,False,positional,VOLTZ LUDWIG,,Stiche; Lithographien,,
 BO0624_88521,499857,480,562,Virgo Maria Sancti Sixti Raphael pinx. Thouvenin del,995,96.2,False,positional,SANZIO RAFFAELLO,,Stiche; Lithographien,,
 BO0624_88521,499858,481,563,Et ibunt hi in supplicium aeternum justi autem in vitam aeternam (Jungstes Gericht).P.P. Rubens pinxit Antwerpiae Carolus Ernestus HeB sculpsit Monachi. Gr.-fol. mit Rand.,997,98.8,False,title_direct,F.Ruben,Scuola di Rubens,,,
-BO0624_88521,499859,482,564,- Vesuv. Stich von C. Frommel 1830. Gr.-qu.-fol.m.Rand.,999,100.0,False,positional,,,Stiche; Lithographien,,
+BO0624_88521,499859,482,564,- Vesuv. Stich von C. Frommel 1830. Gr.-qu.-fol.m.Rand.,999,100.0,False,positional,,,Stiche; Lithographien,,Sec. XIX
 BO0624_88521,499860,483,565,Aetna. Stich von C. Frommel. Gr.-qu.-fol. mit Rand.,1000,95.7,False,positional,,,Stiche; Lithographien,,
 BO0624_88521,499861,484,566,8 verschiedene Pferdebilder. Farbige Lithographie nach Volkers usw.,1001,97.0,False,title_direct,,,Lithographien,,
 BO0624_88521,499862,485,567,A dutch School. V. Green fecit.,1003,93.3,False,positional,,,Stiche; Lithographien,,
@@ -524,38 +524,38 @@ BO0624_88521,499899,522,612,"The children in the Wood. Rotelstich, im Rund, leic
 BO0624_88521,499900,523,613,"Jupiter et Danae. Schabkunstblatt. Dessine par J. B. Huet, peintre du Roi. Tire du Cabinet de Monsieur Lallie. Qu.fol. mit Rand.",1077,98.3,False,positional,HUET J.B.,,STAMPE E INCISIONI,,
 BO0624_88521,499901,524,614,Hercule et Omphale. Schabkunstblatt. F. Boucher del. Tire du Cabinet de Monsieur Lallie. Qu.-fol. mit Rand.,1078,98.0,False,positional,BOUCHER FRANCOIS,,STAMPE E INCISIONI,,
 BO0624_88521,499902,525,615,- 8 Blatt Szenen aus dem Leben von Gotz von Berlichingen. Almanachblatter. Stiche.,1080,100.0,False,title_direct,,,Stiche,,
-BO0624_88521,499903,526,616,"- Hamburg nach dem Brande 1842. Stich qu.und Zeitungen und Extrablatter von 1866, 1871 und 1914.",1082,100.0,False,positional,,,Mappenwerke; Aquarelle; Handzeichnungen; Stiche,,
+BO0624_88521,499903,526,616,"- Hamburg nach dem Brande 1842. Stich qu.und Zeitungen und Extrablatter von 1866, 1871 und 1914.",1082,100.0,False,positional,,,Mappenwerke; Aquarelle; Handzeichnungen; Stiche,,Sec. XIX
 BO0624_88521,499904,527,617,Nach Gerard von J. Godefroy,1083,92.9,False,positional,,,Mappenwerke; Aquarelle; Handzeichnungen; Stiche,,
-BO0624_88521,499905,528,618,Tod des Admiral Nelson. Grave a Paris par Falckeisen 1789. Qu.-fol. mit Rand.,1085,97.3,False,positional,,,Mappenwerke; Aquarelle; Handzeichnungen; Stiche,,
+BO0624_88521,499905,528,618,Tod des Admiral Nelson. Grave a Paris par Falckeisen 1789. Qu.-fol. mit Rand.,1085,97.3,False,positional,,,Mappenwerke; Aquarelle; Handzeichnungen; Stiche,,Sec. XVIII
 BO0624_88521,499906,529,619,"Congres de Vienne. Seance des plenipotentiaires des huit puissances signatures du traite de Paris. Stich, gr.-qu.-fol.",1086,98.2,False,positional,,,Mappenwerke; Aquarelle; Handzeichnungen; Stiche,,
-BO0624_88521,499907,530,620,Kgl. Wuirtt. Militar 1865. Farbige Lithographie von Kirn.,1087,96.4,False,title_direct,,,Lithographien,,
+BO0624_88521,499907,530,620,Kgl. Wuirtt. Militar 1865. Farbige Lithographie von Kirn.,1087,96.4,False,title_direct,,,Lithographien,,Sec. XIX
 BO0624_88521,499908,531,621,"- Pauline, Konigin von Wurttemberg. Imp. Lithographie von Villain.",1089,100.0,False,title_direct,,,Lithographien,,
 BO0624_88521,499909,532,622,Dasselbe.,1090,80.0,False,positional,,,Mappenwerke; Aquarelle; Handzeichnungen; Stiche,,
 BO0624_88521,499910,533,623,- Apoll unter den Hirten. Lithographie nach Schick von C. C. Schmidt.Gr.-qu.-fol.,1092,100.0,False,title_direct,,,Lithographien,,
 BO0624_88521,499911,534,631,"Allers, C. W. Capri. 53 Facsimiledrucke und 9 Aquarell-",1099,96.2,False,title_direct,,,Aquarelle,,
-BO0624_88521,499912,535,632,Allgemeine Historie der Reisen zu Wasser und zu Lande oder Sammlung aller Reisebeschreibungen. Mit zahlreichen Kupfern. Band 4—19. Leipzig 1749-1769. Gleichzeitige Pappbande mit Lederricken.,1101,98.9,False,positional,,,OGGETTI IN RAME,,
+BO0624_88521,499912,535,632,Allgemeine Historie der Reisen zu Wasser und zu Lande oder Sammlung aller Reisebeschreibungen. Mit zahlreichen Kupfern. Band 4—19. Leipzig 1749-1769. Gleichzeitige Pappbande mit Lederricken.,1101,98.9,False,positional,,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88521,499913,536,633,"Arndt, Johann. Samtliche Geistreiche Buicher vom 2.Auflage. Wahren Christentum.",1102,97.4,False,positional,,,Bucher,,
 BO0624_88521,499914,537,634,"Avenarius, Johann.",1104,88.9,False,positional,,,Bucher,,
 BO0624_88521,499915,538,635,- 636,1107,100.0,False,positional,,,Bucher,,
 BO0624_88521,499916,539,637,"- Biondi, Giofranc.L'Eromena,La Donzella,l Corallo.",1109,100.0,False,positional,,,Bucher,,
-BO0624_88521,499917,540,638,"Dobel, Heinrich Wilhelm. Neueroffnete Jager-Praktika. 4. Auflage. I. und I1. Teil. Leipzig 1868. Pappband.",1113,98.0,False,positional,,,Bucher,,
-BO0624_88521,499918,541,639,"- Gessler, J. Die Mode des 19. Jahrhunderts, 1800-1897. Wien um 1897.",1115,100.0,False,positional,,Scuola Viennese,Bucher,,
-BO0624_88521,499919,542,640,"Goebel, Johann Konrad. Der erste Teil, der ander Teil der Augsburgischen Konfessions-Predigen. Titelkupfer. Augsburg 1633-1634. 2 Bande in Schweins-",1117,98.6,False,positional,,,Bucher,,
-BO0624_88521,499920,543,641,des Ulmer Minsters.U Ulm 1890.,1120,93.5,False,positional,,,Bucher,,
-BO0624_88521,499921,544,642,"Hirt, Dr. Johann. Rostopschin oder: Napoleon in Moskau.Konstanz 1838. In rotem gleichzeitigem Maroquinband.",1121,98.1,False,positional,,,Bucher,,
+BO0624_88521,499917,540,638,"Dobel, Heinrich Wilhelm. Neueroffnete Jager-Praktika. 4. Auflage. I. und I1. Teil. Leipzig 1868. Pappband.",1113,98.0,False,positional,,,Bucher,,Sec. XIX
+BO0624_88521,499918,541,639,"- Gessler, J. Die Mode des 19. Jahrhunderts, 1800-1897. Wien um 1897.",1115,100.0,False,positional,,Scuola Viennese,Bucher,,Sec. XIX
+BO0624_88521,499919,542,640,"Goebel, Johann Konrad. Der erste Teil, der ander Teil der Augsburgischen Konfessions-Predigen. Titelkupfer. Augsburg 1633-1634. 2 Bande in Schweins-",1117,98.6,False,positional,,,Bucher,,Sec. XVII
+BO0624_88521,499920,543,641,des Ulmer Minsters.U Ulm 1890.,1120,93.5,False,positional,,,Bucher,,Sec. XIX
+BO0624_88521,499921,544,642,"Hirt, Dr. Johann. Rostopschin oder: Napoleon in Moskau.Konstanz 1838. In rotem gleichzeitigem Maroquinband.",1121,98.1,False,positional,,,Bucher,,Sec. XIX
 BO0624_88521,499922,545,643,"Hochstetter, M.H.F.543 Abbildungen zu H. Rebans Naturgeschichte. (2 Tafeln Pflanzenreich fehlen.)",1122,97.8,False,positional,,,Bucher,,
-BO0624_88521,499923,546,644,"Kauffmann, Hugo. Hochzeitsbuch mit Musikanten. 25 Tusch- und Federzeichnungen. 2.Auflage. Munchen 1889.",1123,98.0,False,positional,KAUFFMANN HUGO,,Bucher,,
-BO0624_88521,499924,547,645,"Kraiss, Joh.Konr. Tagebuch der Reichsstadt Biberach. Pappband mit 1801. Stift Buchau,1801. Lederricken.",1124,76.1,False,positional,,,Bucher,,
-BO0624_88521,499925,548,646,"Passhalius, Carolus. De Coronis. Leyden 1671. Mit",1126,95.7,False,positional,,,Bucher,,
-BO0624_88521,499926,549,647,"Petrobelli, Oratio. Specchio di Verita. Venedig 1626. Beigebunden: Bell'haver, Thomas. Doctrina facile per ridurre. 1'Hebreo. Venedig 1608. Schweinsleder.",1127,98.6,False,positional,,,Bucher,,
+BO0624_88521,499923,546,644,"Kauffmann, Hugo. Hochzeitsbuch mit Musikanten. 25 Tusch- und Federzeichnungen. 2.Auflage. Munchen 1889.",1123,98.0,False,positional,KAUFFMANN HUGO,,Bucher,,Sec. XIX
+BO0624_88521,499924,547,645,"Kraiss, Joh.Konr. Tagebuch der Reichsstadt Biberach. Pappband mit 1801. Stift Buchau,1801. Lederricken.",1124,76.1,False,positional,,,Bucher,,Sec. XIX
+BO0624_88521,499925,548,646,"Passhalius, Carolus. De Coronis. Leyden 1671. Mit",1126,95.7,False,positional,,,Bucher,,Sec. XVII
+BO0624_88521,499926,549,647,"Petrobelli, Oratio. Specchio di Verita. Venedig 1626. Beigebunden: Bell'haver, Thomas. Doctrina facile per ridurre. 1'Hebreo. Venedig 1608. Schweinsleder.",1127,98.6,False,positional,,,Bucher,,Sec. XVII
 BO0624_88521,499927,550,648,"Robertson,F.R. W. Leipzig.",1129,92.0,False,positional,,,Bucher,,
 BO0624_88521,499928,551,649,"Stillhammer, Hans Wilhelm. Rumanien. Mappe: 20 Zeichnungen,Konigl.Wurtt.Gebirgsbataillon1916/17.",1130,97.8,False,positional,,,Bucher,,
 BO0624_88521,499929,552,650,"Szegedinus,Stephan. Speculum pontificum Romanorum.",1132,96.0,False,positional,,,Bucher,,
-BO0624_88521,499930,553,651,- 1592.In Schweinsledereinband.,1134,100.0,False,positional,,,Bucher,,
-BO0624_88521,499931,554,652,"Weitzmann, C. Auserlesene Gedichte. Herausgegeben von Friedrich Weitzmann. Stuttgart 1854.Br.",1135,97.8,False,positional,,,Bucher,,
-BO0624_88521,499932,555,653,"7 Miniatur-Buchlein in Karton, bestehend aus: Plaisir et Gaite, A Paris chez Marcilly fils; L'emploi di Temps etrennes,Paris,chezMarcilly fils1815,epetitaroissien de l'enfance, Paris, Le petit Paroissien de l'enfance, Paris, Le petit Volage pour lannee 1819, Tanzbichlein, Photographie-Album.",1137,99.3,False,positional,,,MINIATURE,,
+BO0624_88521,499930,553,651,- 1592.In Schweinsledereinband.,1134,100.0,False,positional,,,Bucher,,Sec. XVI
+BO0624_88521,499931,554,652,"Weitzmann, C. Auserlesene Gedichte. Herausgegeben von Friedrich Weitzmann. Stuttgart 1854.Br.",1135,97.8,False,positional,,,Bucher,,Sec. XIX
+BO0624_88521,499932,555,653,"7 Miniatur-Buchlein in Karton, bestehend aus: Plaisir et Gaite, A Paris chez Marcilly fils; L'emploi di Temps etrennes,Paris,chezMarcilly fils1815,epetitaroissien de l'enfance, Paris, Le petit Paroissien de l'enfance, Paris, Le petit Volage pour lannee 1819, Tanzbichlein, Photographie-Album.",1137,99.3,False,positional,,,MINIATURE,,Sec. XIX
 BO0624_88521,499933,556,661,"Bildnis der Kaiserin Elisabeth von Oesterreich zu Pferd. Oel auf Leinwand, 60x85 cm. Holzgeschnitzter Naturrahmen.Bez. Emil Adam, Minchen.",1143,98.5,False,title_direct,Emil Adam,,,,
-BO0624_88521,499934,557,662,"25x33 cm. Bez. Eugen Adam, 1871.",1147,93.3,False,title_direct,Eugen Adam,,,,
+BO0624_88521,499934,557,662,"25x33 cm. Bez. Eugen Adam, 1871.",1147,93.3,False,title_direct,Eugen Adam,,,,Sec. XIX
 BO0624_88521,499935,558,663,"Kuhhandel. Ein Handler bietet einem Bauern Banknoten an, die der Bauer aber abweist und im Begriff ist, durch die Stalltire zu verschwinden. Oel auf Holz, x20 cm.Bez. R. Aigner.",1152,92.5,False,positional,Richard Aigner,,OGGETTI IN LEGNO,,
 BO0624_88521,499936,559,664,"Strasse am Hafen von Neapel mit Aussicht auf den Vesuv. Im Vordergrund italienische Karrenfuhrwerke,",1157,98.0,False,title_direct,,Italienisch,,,
 BO0624_88521,499937,560,665,"Sizilianisches StraBenbild.Im Hintergrund rauchender Bez. Vulkan. Oel auf Leinwand, 65x108 cm. E.Ankelen, Minchen.",1159,98.2,False,title_direct,E.Ankelen,,,,
@@ -572,20 +572,20 @@ BO0624_88521,499947,570,675,"Bauersfrau mit Kopftuch. Gegenstick zum Vorigen. Oe
 BO0624_88521,499948,571,6762,Zechende Ritter in einer hollandischen Stube.Oel auf,1196,95.4,False,positional,K.Blatter-Uhlig,,,,
 BO0624_88521,499949,572,677,"EntbloBte Odaliske mit reichem Kopf und Halsschmuck in ihrem Gemach.Oel auf Leinwand, 70x59 cm. Bez. A.de Bouche.",1201,98.2,False,title_direct,A.de Bouche,,,,
 BO0624_88521,499950,573,678,"Odaliske in ihrem Gemach auf Kissen ruhend. Oel auf Leinwand, 75x106 cm.Bez. A. de Bouche.",1202,97.7,False,title_direct,A.de Bouche,,BIANCHERIA,,
-BO0624_88521,499951,574,679,"2 Zugochsen bringen 2 mit Fassern beladene Wagen zu Tal. Aquarell, 14x8,5 cm. Bez. A. Braith 17.Mai 97. Maulesel mit Fassern beladen beim Abstieg im Gebirge. Braun und weib gefleckte Kuh liegt vor einem Wassertimpel im Hochgebirge. Weiter rickwarts 2 liegende Kuihe. Aquarell,10x16cm. Bez.A.Braith 1908.",1208,65.4,False,title_direct,BRAITH ANTON,,Aquarelle,,
+BO0624_88521,499951,574,679,"2 Zugochsen bringen 2 mit Fassern beladene Wagen zu Tal. Aquarell, 14x8,5 cm. Bez. A. Braith 17.Mai 97. Maulesel mit Fassern beladen beim Abstieg im Gebirge. Braun und weib gefleckte Kuh liegt vor einem Wassertimpel im Hochgebirge. Weiter rickwarts 2 liegende Kuihe. Aquarell,10x16cm. Bez.A.Braith 1908.",1208,65.4,False,title_direct,BRAITH ANTON,,Aquarelle,,Sec. XX
 BO0624_88521,499952,575,682,"Der kleine Reiter. Kleiner Knabe mit roter Weste reitet auf einem eingeschirrten Schimmel durch die Stalltire. Links eine Kutsche. Rechts ein Schubkarren. Pappe, ,5x12 cm.Bez. Braun.",1213,93.4,False,positional,Reinhold Braun,,,,
 BO0624_88521,499953,576,683,"## Albert Heinrich Brendel, Berlin .",1218,100.0,False,title_direct,Albert Heinrich Brendel,Scuola di Berlino,,,
 BO0624_88521,499954,577,684,"Aufbruch zur Weide. Ein wallonischer Schafer offnet das Tor eines Schafstalls, aus dem die Schafe ungestim herausdrangen. Oel auf Leinwand, 59x47 cm.",1220,98.6,False,positional,Albert Heinrich Brendel,,,,
 BO0624_88521,499955,578,685,"Hugellandschaft mit Windmihle. Links vor der Muhle zieht ein Hohlweg, auf dem 2 Bauern gehen, voriber. Sommerliche Stimmung bei heranziehendem Gewitter.",1227,98.7,False,positional,Colestin Brigner,,,,
 BO0624_88521,499956,579,686,"Am Thurner See.Auf dem diesseitigen bewaldeten Ufer steht ein schloBartiges Gebaude. Jenseits des Oel auf Leinwand, Ufers die Hochgebirgskette. 27x41 cm.Bez. Lac de Thune, 14 aout du matin.",1231,98.9,False,positional,H.Bittgen,,,,
 BO0624_88521,499957,580,687,"Partie aus Nordtirol. Bauernhaus, daneben dreitirmige Kapelle an einem See. Am jenseitigen Ufer das steil aufsteigende Hochgebirge. Oel auf Leinwand,34x25 cm. Verschneiter Tannenwald. Durch eine Lichtung ist eine bewaldete Anhohe mit SchloBruine sichtbar.Oel auf",1232,74.1,False,positional,H.Bittgen,,,,
-BO0624_88521,499958,581,688,"Holz,65x52 cm. Bez. Buittgen 1844.",1234,93.9,False,positional,H.Bittgen,,OGGETTI IN LEGNO,,
+BO0624_88521,499958,581,688,"Holz,65x52 cm. Bez. Buittgen 1844.",1234,93.9,False,positional,H.Bittgen,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88521,499959,582,689,Perspektivische Ansicht der Kapelle vom kgl. groben,1238,96.2,False,positional,R.H. Burnitz,,,,
 BO0624_88521,499960,583,690,"Sautreiber. Bauer mit roter Aermelweste, welcher ein Schwein vor sich her treibt. Leinwand auf Holz, x12 cm.Bez.B.",1243,91.9,False,positional,Wilhelm v. Busch,,OGGETTI IN LEGNO,,
 BO0624_88521,499961,584,691,"Jager hinter einem HolzstoB auf dem Anstand im Winterwald. Oel auf Pappe, 12x21 cm. Bez. A. Chelius.",1248,97.9,False,title_direct,A.Chelius,,,,
 BO0624_88521,499962,585,692,"Vor der Strecke. Ein Jager mit seinen jungen Treibern betrachten das im Schnee liegende tote Reh.Oel auf Pappe,12x21 cm. Bez. A. Chelius.",1249,98.5,False,title_direct,A.Chelius,,,,
 BO0624_88521,499963,586,693,"Kuhe auf der Weide vor einem Gehoft, an das sich ein mit einer Mauer umgebener parkahnlicher Garten anschlieBt.Oel auf Leinwand,65x90 cm. Bez.A.Chelius,",1250,98.7,False,title_direct,A.Chelius,,,,
-BO0624_88521,499964,587,694,"Treibjagd im Winter.Oel auf Pappe,13x21 cm. Bez. A. Chelius, Munchen 1921.",1252,97.2,False,title_direct,A.Chelius,,,,
+BO0624_88521,499964,587,694,"Treibjagd im Winter.Oel auf Pappe,13x21 cm. Bez. A. Chelius, Munchen 1921.",1252,97.2,False,title_direct,A.Chelius,,,,Sec. XX
 BO0624_88521,499965,588,695,"Waldniederung in der bayer.Hochebene.Pappe,32x43cm.",1257,96.2,False,positional,L. Correggio,,,,
 BO0624_88521,499966,589,696,Sonniger Wintertag.,1260,90.0,False,positional,Robert Curry,,,,
 BO0624_88521,499967,590,697,Stiller Waldsee im Winter mit Ausblick auf das Hoch-,1261,96.2,False,positional,Robert Curry,,,,
@@ -608,7 +608,7 @@ BO0624_88521,499983,606,713,"wand, 56x49 cm.Bez.F. Freund.",1329,92.9,False,titl
 BO0624_88521,499984,607,714,"Alter Jager mit Vollbart, der sich auf den Tisch stitzt und die Pfeife raucht. Neben ihm ein MaBkrug. Oel",1333,98.1,False,positional,Josef Futterer,,,,
 BO0624_88521,499985,608,715,"In einer hollandischen Stube ist eine Frau,die am Fenster steht,mit Stricken beschaftigt. Oel auf Pappe, 57x46 cm.Bez.M. Gaisser.",1338,98.4,False,positional,Max Gaisser,,,,
 BO0624_88521,499986,609,716,"Alter Faun mit Jungem auf einem Baumstamm sitzend. Oel auf Holz, 35x24 cm. Bez. Casp. Aug. Geiger, Minchen.",1342,98.0,False,positional,Caspar Augustin Geiger,,OGGETTI IN LEGNO,,
-BO0624_88521,499987,610,717,"Abschiedsszene aus der Auswanderung der evang. Zillertaleram31.8.1837. Historisches, figurenreiches Gemalde. Lt. Thieme-Becker das Hauptwerk des Meisters. Oel auf Leinwand, 90x126 cm. Bez. K.F. Goser, 1839.",1345,99.0,False,title_direct,,,Gemalde,,
+BO0624_88521,499987,610,717,"Abschiedsszene aus der Auswanderung der evang. Zillertaleram31.8.1837. Historisches, figurenreiches Gemalde. Lt. Thieme-Becker das Hauptwerk des Meisters. Oel auf Leinwand, 90x126 cm. Bez. K.F. Goser, 1839.",1345,99.0,False,title_direct,,,Gemalde,,Sec. XIX
 BO0624_88521,499988,611,718,"Arabischer Priester, der sein Gebet auf einem Teppich verrichtet.Oel auf Holz, 11x10 cm. Bez.A.D. Golz 87.",1349,98.1,False,title_direct,A. D. Golz,,OGGETTI IN LEGNO,,
 BO0624_88521,499989,612,719,"Vollansicht des Staffelsees bei Murnau mit dem hohen Peibenberg im Hintergrund. Im Vordergrund Bauern Oel auf Leinwand, 68x100 cm.",1353,98.4,False,positional,Th. Gratz,,,,
 BO0624_88521,499990,613,720,- bei der Heuernte. Bez.Th.Gratz.,1355,100.0,False,title_direct,Th. Gratz,,,,
@@ -626,9 +626,9 @@ BO0624_88521,500001,624,7321,Partie aus der Ramsau. Bez. F.Halberg-KrauB.,1389,9
 BO0624_88521,500002,625,733,"Oel auf Leinwand,",1394,88.9,False,positional,D.Harders,,,,
 BO0624_88521,500003,626,7341,"Landschaft bei Pocking. Oel auf Pappe, 14x22 cm.",1399,94.7,False,positional,Ludwig Hartmann,,,,
 BO0624_88521,500004,627,735,"Aus den Dolomiten. Oel auf Pappe,20x13 cm. Bez. M.Haubtmann.",1404,96.6,False,title_direct,M.Haubtmann,,,,
-BO0624_88521,500005,628,736,"Kaiser Wilhelm I. in der Schlacht bei Sedan. Der Kaiser verteilt an die Krieger das Eiserne Kreuz. Aquarell, 20x24 cm.Bez.R.Haug 1912.",1408,98.5,False,title_direct,,,Aquarelle,,
+BO0624_88521,500005,628,736,"Kaiser Wilhelm I. in der Schlacht bei Sedan. Der Kaiser verteilt an die Krieger das Eiserne Kreuz. Aquarell, 20x24 cm.Bez.R.Haug 1912.",1408,98.5,False,title_direct,,,Aquarelle,,Sec. XX
 BO0624_88521,500006,629,737,Furstenpaar unter dem Volk.Zeitbild aus den Frei-,1409,96.0,False,positional,Robert von Haug,,,,
-BO0624_88521,500007,630,738,"Die SchloBwache in Ludwigsburg um 1840. Aquarell, x23 cm. Bez. Haug.",1411,82.5,False,title_direct,,Manifattura di Ludwigsburg,Aquarelle,,
+BO0624_88521,500007,630,738,"Die SchloBwache in Ludwigsburg um 1840. Aquarell, x23 cm. Bez. Haug.",1411,82.5,False,title_direct,,Manifattura di Ludwigsburg,Aquarelle,,Sec. XIX
 BO0624_88521,500008,631,739,"Ein alter Forster, der im Mondschein iber ein Schneefeld schreitet.Oelauf Pappe,25x15 cm. Bez.Ch.Haug - 743",1416,96.1,False,title_direct,Ch.Haug,,,,
 BO0624_88521,500009,632,740,Forsthaus am See. Rechts von dem Haus ein groBer steinerner Torbogen. Der mit dem Boot heimkehrende Jager wird von Frau und Kind empfangen. Pappe. x47 cm.Bez.R.Heck.,1422,92.8,False,positional,Robert Heck,,,,
 BO0624_88521,500010,633,741,Schlechte Unterhaltung. Herr und Dame der Gesellschaft,1427,96.4,False,positional,E.Heilemann,,,,
@@ -685,7 +685,7 @@ BO0624_88521,500060,683,793,"Der Hamburger Hafen mit groBen Dampfern und Segelbo
 BO0624_88521,500061,684,794,Segelboote auf hoher See. Bez.E.Mercker.,1606,95.0,False,title_direct,E.Mercker,,,,
 BO0624_88521,500062,685,795,"Seestick.Oel auf Leinwand, 88x65 cm. Bez.E.Mercker.",1607,96.0,False,title_direct,E.Mercker,,,,
 BO0624_88521,500063,686,796,Fischfang in Sardinien. Sardinische Fischer in einem,1611,96.2,False,positional,Kunz Meyer-Waldeck,,,,
-BO0624_88521,500064,687,797,"Orientalische Landschaft bei Sonnenuntergang. Aquarell, x29 cm.Bez. Martin Meyer 1866.",1616,76.3,False,title_direct,Martin Meyer,,Aquarelle,,
+BO0624_88521,500064,687,797,"Orientalische Landschaft bei Sonnenuntergang. Aquarell, x29 cm.Bez. Martin Meyer 1866.",1616,76.3,False,title_direct,Martin Meyer,,Aquarelle,,Sec. XIX
 BO0624_88521,500065,688,798,2 Ochsen am Pflug in herbstlicher Landschaft. Oel auf,1621,96.3,False,positional,Arnold Moller,,,,
 BO0624_88521,500066,689,799,"Ein guter Tropfen. Vor der idyllischen Einsiedelei, die in eine Felsennische eingebaut und von Buschwerk umgeben ist, sitzt der einsame Monch in brauner Kutte und betrachtet wohlgefallig das mit Wein gefillte Glas in seiner Hand. Oel auf Holz,40x25 cm.1 Bez. Willi Moralt, Munchen.",1626,99.3,False,title_direct,Willi Moralt,,OGGETTI IN LEGNO,,
 BO0624_88521,500067,690,800,- 801,1630,100.0,False,positional,Willi Moralt,,,,
@@ -713,7 +713,7 @@ BO0624_88521,500088,711,822,"Bauer mit grinsender Miene, der eine kupferne Weink
 BO0624_88521,500089,712,823,"Bauer mit roter Weste, der sich die Pfeife anzindet.",1715,96.2,False,positional,A.Roseler,,,,
 BO0624_88521,500090,713,824,"- Lustige Gesellschaft. Dachauer Bauern sitzen im Dorfwirtshaus um den runden Tisch und lauschen vergnigt dem Guitarrespiel eines ihrer Kollegen. Oel auf Leinwand, 101x81 cm. Bez. A. Roseler.",1718,100.0,False,title_direct,A.Roseler,,,,
 BO0624_88521,500091,714,825,"Bauernkopf.Oelauf Leinwand,41x36 cm.Bez.A.RoBler.",1719,96.0,False,positional,A.Roseler,,,,
-BO0624_88521,500092,715,826,"Die gelehrige Schilerin. Alter Gesangslehrer mit Laute erteilt einem Madchen,das ein Notenbuch in den Handen halt, Unterricht. Mittelalterliches Kostimbild. Oel auf Leinwand,65x80 cm. Bez. Jos. Rosl, Muinchen 1878.",1723,99.0,False,positional,Josef Rosl,,,,
+BO0624_88521,500092,715,826,"Die gelehrige Schilerin. Alter Gesangslehrer mit Laute erteilt einem Madchen,das ein Notenbuch in den Handen halt, Unterricht. Mittelalterliches Kostimbild. Oel auf Leinwand,65x80 cm. Bez. Jos. Rosl, Muinchen 1878.",1723,99.0,False,positional,Josef Rosl,,,,Sec. XIX
 BO0624_88521,500093,716,827,"Hafen eines nordischen Fischerdorfs. Am Ufer Fischerboote mit Fischern, die ihre Netze zum Trocknen ausgehangt haben. Rechts das Dorf, dahinter hohe Berge. Oel auf Leinwand, 68x105 cm. Bez. J. Rollin.",1727,99.0,False,title_direct,J.Rollin,,,,
 BO0624_88521,500094,717,828,"Weidendes Vieh mit Hirte vor einer Burgruine. Oel auf Leinwand,36x49 cm.Bez.",1731,97.4,False,positional,Joh.Heinr. Roos,,,,
 BO0624_88521,500095,718,829,"Ruhendes Vieh unter Baumen. Daneben der Hirte. Oel auf Leinwand, 36x49 cm. ## Max Rofmann, Minchen.",1732,85.4,False,title_direct,Max Rofmann,,,,
@@ -731,7 +731,7 @@ BO0624_88521,500106,729,841,"Badendes Mdchen vor dem See. Oel auf Holz, 6x16 cm.
 BO0624_88521,500107,730,842,"Badendes Madchen. Oel auf Holz, 16x12 cm.Bez.",1788,95.5,False,positional,Schneider-Seenus,,OGGETTI IN LEGNO,,
 BO0624_88521,500108,731,842,"a Abschied in den Bergen. b Brustbild eines Tiroler Bauernmadchens mit Kopfschmuck. Oel auf Holz, 17,5x14 cm. Bez. Matthias Schmid.",1795,87.7,False,title_direct,Matthias Schmid,,OGGETTI IN LEGNO,,
 BO0624_88521,500109,732,843,"Schneefeld mit Hochgebirge von der Sonne beschienen. Oel auf Leinwand, 57x80 cm. Bez. Wilhelm Schwarz.",1799,98.0,False,title_direct,Wilhelm Schwarz,,,,
-BO0624_88521,500110,733,844,"Ulanenpatrouille, die im Galopp die Strabe herabreitet, wird von franzosischen Infanterieposten beschossen. Episode aus dem Krieg 1870/71. Oel auf Leinwand, x34 cm. Bez. Chr. Sell.",1803,92.6,False,title_direct,Chr. Sell,,,,
+BO0624_88521,500110,733,844,"Ulanenpatrouille, die im Galopp die Strabe herabreitet, wird von franzosischen Infanterieposten beschossen. Episode aus dem Krieg 1870/71. Oel auf Leinwand, x34 cm. Bez. Chr. Sell.",1803,92.6,False,title_direct,Chr. Sell,,,,Sec. XIX
 BO0624_88521,500111,734,845,"Morgenandacht. Inneres einer oberbayerischen Bauernstube mit Bettnische, deren Vorhang zurickgezogen ist. Vor einem Kruzifix kniet ein Madchen und verrichtetdie Morgenandacht. Oel auf Leinwand, X64 cm.Bez. V. Sieger.",1808,94.0,False,positional,Viktor Sieger,,,,
 BO0624_88521,500112,735,846,"Bewaldeter Bergabhang mit Ausblick in ein weites Tal,",1812,96.3,False,positional,L.Sigwart,,,,
 BO0624_88521,500113,736,847,"Seelandschaft mit Gebirge bei Sonnenuntergang. Am linken Ufer ein einsames Kirchlein mit Park, der von einer Mauer umgeben ist. Oel auf Leinwand, 50x77 cm. Bez.L.Sigwart.",1814,98.8,False,title_direct,L.Sigwart,,,,
@@ -782,10 +782,10 @@ BO0624_88521,500157,780,891,"Friedrich der GroBe und der Windmiller. Das Bild st
 BO0624_88521,500158,781,892,"Junge Gutacherin in Tracht. Oel auf Leinwand, 38x28cm. Bez. C.A. Weinberger.",1942,97.2,False,title_direct,C.A. Weinberger,,,,
 BO0624_88521,500159,782,893,20x32 cm.,1946,80.0,False,positional,Viktor Weishaupt,,,,
 BO0624_88521,500160,783,894,"Schwiler Sommertag am Chiemsee. Im Vordergrund Fischer beim Netzeinziehen am Ufer. Im Hintergrund die Fraueninsel. Gewitterwolken kommen vom Gebirge her und verdecken den blauen Sommerhimmel. Oel auf Leinwand, 39x54 cm.Bez. J. Wopfner. Abbildung Tafel 1.",1951,99.2,False,title_direct,J.Wopfner,,,,
-BO0624_88521,500161,784,895,"Wilde Gebirgslandschaft mit GieBbach im Vordergrund. Auf einer mit Felsblocken und verkiimmerten Fichten umsaumten Lichtung kampfen 2 Adler um ein totes Schaf.Im Hintergrund das Hochgebirge. Oel auf Leinwand,74x114.Bez.1868.",1954,99.1,False,positional,Albert Zimmermann,,,,
+BO0624_88521,500161,784,895,"Wilde Gebirgslandschaft mit GieBbach im Vordergrund. Auf einer mit Felsblocken und verkiimmerten Fichten umsaumten Lichtung kampfen 2 Adler um ein totes Schaf.Im Hintergrund das Hochgebirge. Oel auf Leinwand,74x114.Bez.1868.",1954,99.1,False,positional,Albert Zimmermann,,,,Sec. XIX
 BO0624_88521,500162,785,896,"Waldrand mit Vieh, das an einem kleinen Teich weidet. Bewolkter Himmel. Oel auf Pappe, 37x48 cm. Bez.A.Zimmermann.",1958,98.2,False,positional,Alfred Zimmermann,,,,
 BO0624_88521,500163,786,897,"Kopf eines blonden Bauernknaben.S Studie.Oel auf Pappe, 18x14,5 cm. Bez. E. Z. auf der Vorderseite. Auf der Ruickseite Ernst Zimmermann.",1962,98.5,False,title_direct,Ernst Zimmermann,,,,
-BO0624_88521,500164,787,898,2 bepackte Maulesel. Bez. H.Zugel 1919.,1966,94.7,False,positional,Heinrich von Zugel,,,,
+BO0624_88521,500164,787,898,2 bepackte Maulesel. Bez. H.Zugel 1919.,1966,94.7,False,positional,Heinrich von Zugel,,,,Sec. XX
 BO0624_88521,500165,788,899,"- Bleistiftzeichnung, 11x12 cm.",1968,100.0,False,positional,Heinrich von Zugel,,,,
 BO0624_88521,500166,789,900,"Der Konigsee. Oel auf Leinwand, 94x140 cm. Bez. J.KeBler.",1973,96.3,False,title_direct,J. KeBler,,,,
 BO0624_88521,500167,790,901,"Erdarbeiter. Oel auf Pappe, 18X35 cm. Bez.F. Keller.",1979,95.9,False,positional,Fr. von Keller,,,,

@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84055,138316,1,I,Jeune Femme en corsage bleu.,18,96.4,False,positional,BERNARD,,,,
-BO0624_84055,138317,2,2,Portrait d'Homme en habit gris. Signe et date : 1759.,30,98.0,False,positional,BERNARD,,,,
+BO0624_84055,138317,2,2,Portrait d'Homme en habit gris. Signe et date : 1759.,30,98.0,False,positional,BERNARD,,,,Sec. XVIII
 BO0624_84055,138318,3,7,La Passerelle.,58,92.9,False,positional,CAFFIERI,,,,
 BO0624_84055,138319,4,5,Jeune Femme assise sur un lit de repos.,70,97.4,False,positional,LE PRINCE,,,,
 BO0624_84055,138320,5,6,La Muse de la musique.,80,95.5,False,positional,NATOIRE,,,,
@@ -80,7 +80,7 @@ BO0624_84055,138393,78,88,"8—Plat a ombilic en ancienne faience hispano-maures
 BO0624_84055,138394,79,89,"—Plat a ombilic en ancienne faience hispano-mauresque, decor, a reflets metalliques :fleurs et palmettes symetriques.",914,98.7,False,positional,,,PIATTI,,
 BO0624_84055,138395,80,92,Plat en ancienne faience hispano-mauresque; decor,917,97.0,False,positional,,,PIATTI,,
 BO0624_84055,138396,81,93,"- —Plat en ancienne faience hispano-mauresque, decor bleu et a reflets metalliques; griffon dans un écusson, inscriptions simulees et faux godrons.",920,100.0,False,positional,,,PIATTI,,
-BO0624_84055,138397,82,94,"Assiette en ancienne faience de Delft, atelier de Pynacker, decoree dans le style chinois de pagodes et d'arbustes avec rehauts de dorure.",921,98.9,False,positional,,,"FAIENCES,PORCELAINES",,
+BO0624_84055,138397,82,94,"Assiette en ancienne faience de Delft, atelier de Pynacker, decoree dans le style chinois de pagodes et d'arbustes avec rehauts de dorure.",921,98.9,False,positional,PYNACKER ADAM,,"FAIENCES,PORCELAINES",,
 BO0624_84055,138398,83,95,"Plateau d'aiguiere en ancienne faience de Deruta, decor a reflets metalliques: Buste de femme au centre, avec compartiments rayonnants a imbrications et pal-",922,99.0,False,positional,,,"FAIENCES,PORCELAINES",,
 BO0624_84055,138399,84,96,"- Plat en ancienne faience de Deruta, decore en bleu,",924,97.0,False,positional,,,PIATTI,,
 BO0624_84055,138400,85,97,"—Pot de toilette avec couvercle, decore de fleurs, en ancienne porcelaine tendre de Mennecy.",926,98.3,False,positional,,,OGGETTI VARI,,

@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84117,646108,1,196,"Deux chiens de Fo,en ancienne porcelaine de Chine, emaillee sur biscuit.Epoque Kang-hi (1662-1723).",7,100.0,False,positional,,,BISCOTTI,,
+BO0624_84117,646108,1,196,"Deux chiens de Fo,en ancienne porcelaine de Chine, emaillee sur biscuit.Epoque Kang-hi (1662-1723).",7,100.0,False,positional,,,BISCOTTI,,Sec. XVII
 BO0624_84117,646109,2,197,"Deux cache-pots en ancienne porcelaine de Chine, epoque Kang-hi. Montures en bronze cisele et dore, du temps de Louis XIV.",15,100.0,False,positional,,,PORCELAINES,,
 BO0624_84117,646110,3,198,"Cache-pot en ancienne porcelaine de Chine, epoque Kang-hi. De forme ronde, il est entierement decore de rochers, de feurs et de papillons.",28,100.0,False,positional,,,PORCELAINES,,
 BO0624_84117,646111,4,199,"Vase pi-tong,avec couvercle, en ancien celadon bleu turquoise truite de la Chine. l affecte la forme d'une section de bambou et est decore,en relief, d'animaux chimeriques et de feuilles aquatiques;le couvercle est surmonte d'une statuette de personnage assis;il est borde d'un cercle de bronze cisele et dore, orne de petites feuilles.",34,86.4,False,positional,,,VASI,,
@@ -17,7 +17,7 @@ BO0624_84117,646122,15,210,"Deux coupes avec couvercles, en ancienne porcelaine 
 BO0624_84117,646123,16,211,"Deux vases en ancien celadon vert clair de la Chine. Montures en bronze cisele et dore, du temps de la Regence.",164,100.0,False,positional,,,VASI,,
 BO0624_84117,646124,17,212,"Deux brule-parfums,avec couvercles, en ancien celadon vert clair de la Chine. Montures en bronze cisele et dore du temps de",173,100.0,False,positional,,,PORCELAINES,,
 BO0624_84117,646125,18,213,"Brule-parfums, avec couvercle, en ancien celadon vert clair de la Chine. Monture en bronze cisele et dore du temps de",192,100.0,False,positional,,,PORCELAINES,,
-BO0624_84117,646126,19,214,"Deux petits vases en ancienne porcelaine de Chine, epoque Young-Tching (1723-1736). Montures en bronze dore, de la fin du regne de Louis Xv.",207,100.0,False,positional,,Periodo di Luigi XV,VASI,,
+BO0624_84117,646126,19,214,"Deux petits vases en ancienne porcelaine de Chine, epoque Young-Tching (1723-1736). Montures en bronze dore, de la fin du regne de Louis Xv.",207,100.0,False,positional,,Periodo di Luigi XV,VASI,,Sec. XVIII
 BO0624_84117,646127,20,215,"Brule-parfums, avec couvercle, en ancien celadon vert clair de la Chine. Monture en bronze cisele et dore, d'epoque Louis XVI.",221,100.0,False,positional,,,PORCELAINES,,
 BO0624_84117,646128,21,216,"Deux vases avec couvercles en ancienne porcelaine tendre francaise, garnis de bronze cisele et dore. Epoque Louis XVI.",230,100.0,False,positional,,,VASI,,
 BO0624_84117,646129,22,217,"Deux vases,avec couvercles, en ancienne porcelaine tendre de",239,100.0,False,positional,,,VASI,,
@@ -48,8 +48,8 @@ BO0624_84117,646153,46,242,"Coussin en satin creme et applications de broderie e
 BO0624_84117,646154,47,243,"Deux coussins en soie creme, brodee au passe et au point de chainette. Epoque Louis XVI.",503,100.0,False,positional,,,OBJETS,,
 BO0624_84117,646155,48,244,"Coussin en soie, brodee en chenille et au point de chainette, du temps de Louis XVI.",511,100.0,False,positional,,,OBJETS,,
 BO0624_84117,646156,49,245,"Petit socle en bois sculpte et dore, du temps de Louis XVI.",520,100.0,False,positional,,,OBJETS,,
-BO0624_84117,646157,50,246,"Paire de fambeaux en argent fondu et cisele, du temps de Louis XV. Annees 1748-49.",530,100.0,False,positional,,Periodo di Luigi XV,ORFEVRERIE,,
-BO0624_84117,646158,51,247,"Paire de fambeaux en argent fondu et cisele, de la fin du regne de Louis XV. Annees 1774-75. NSTRUMENTS DE MATHEMATIQUES",542,86.4,False,title_direct,,Periodo di Luigi XV,INSTRUMENTS DE MATHEMATIQUES,,
+BO0624_84117,646157,50,246,"Paire de fambeaux en argent fondu et cisele, du temps de Louis XV. Annees 1748-49.",530,100.0,False,positional,,Periodo di Luigi XV,ORFEVRERIE,,Sec. XVIII
+BO0624_84117,646158,51,247,"Paire de fambeaux en argent fondu et cisele, de la fin du regne de Louis XV. Annees 1774-75. NSTRUMENTS DE MATHEMATIQUES",542,86.4,False,title_direct,,Periodo di Luigi XV,INSTRUMENTS DE MATHEMATIQUES,,Sec. XVIII
 BO0624_84117,646159,52,248,"Grand compas de reduction en cuivre grave et dore, du xvie siecle. l est decore de cornes d'abondance,de trophees d'instruments de mathematiques, de branches feuries, de mufles de lion sur les deux faces.",559,80.8,False,positional,,,INSTRUMENTS DE MATHEMATIQUES,,
 BO0624_84117,646160,53,249,"Grand compas de reduction, en cuivre cisele, grave et dore. l est decore de feuillages, de cornes d'abondance et de coquilles sur les deux faces.Il est signe:Leclair,a Paris, rue Dauphine,a lImage NotreDame. Long., 5o cent.",571,84.9,False,positional,,,INSTRUMENTS DE MATHEMATIQUES,,
 BO0624_84117,646161,54,250,"Compas d’epaisseur, en fer cisele et grave. xvi siecle.",581,100.0,False,positional,,,INSTRUMENTS DE MATHEMATIQUES,,
@@ -149,7 +149,7 @@ BO0624_84117,646254,147,335,"Petite table-etagere en laque, ebene et bronze, du 
 BO0624_84117,646255,148,336,"Cartonnier-etagere en bois de placage, du temps de Louis XV. l est a hauteur d'appui, se compose de trois tablettes et est surmonte",1536,70.7,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_84117,646256,149,337,Table-bureau en bois de placage. Epoque Louis XVI.,1544,100.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_84117,646257,150,I,"l est muni de quatre cartons en maroquin rouge dore, assortis au meuble.",1556,99.3,False,positional,,,OGGETTI VARI,,
-BO0624_84117,646258,151,31,juillet 1752;il habitait rue du Faubourg-Saint-Antoine.,1558,97.3,False,positional,,,MEUBLES,,
+BO0624_84117,646258,151,31,juillet 1752;il habitait rue du Faubourg-Saint-Antoine.,1558,97.3,False,positional,,,MEUBLES,,Sec. XVIII
 BO0624_84117,646259,152,338,"## Gueridon-etagere en acajou, du temps de Louis XVI.",1565,100.0,False,positional,,,ACQUEFORTI,,
 BO0624_84117,646260,153,339,"Tres grand paravent a douze feuilles, en ancienne laque du",1575,100.0,False,positional,,,ARREDAMENTI,,
 BO0624_84117,646261,154,340,"Petit tapis en tissu de la Savonnerie, du temps de Louis XIV.",1596,100.0,False,positional,,,TAPIS; MEUBLES,,

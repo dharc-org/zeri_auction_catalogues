@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_87489,557009,1,I,"nteressante Federzeichnung. In Tusche lavirt. Bezeichnet:A.Achenbach 1846. Hohe 22, Breite 31 Cent. Unter Glas und Rahmen.",9,99.6,False,positional,Andreas Achenbach,,CORNICI,,
+BO0624_87489,557009,1,I,"nteressante Federzeichnung. In Tusche lavirt. Bezeichnet:A.Achenbach 1846. Hohe 22, Breite 31 Cent. Unter Glas und Rahmen.",9,99.6,False,positional,Andreas Achenbach,,CORNICI,,Sec. XIX
 BO0624_87489,557010,2,2,"Die Geburt Christi. Die jugendliche Mutter des Herrn hebt den Sehleier von ihrem Neugeborenen, den der hl. Joseph und in der Hohe schwebende Engel andachtig betrachten. In der Ferne die mit einem Licht nahenden Hirten.",17,99.5,False,positional,Antonio Allegri; Correggio,,,,
 BO0624_87489,557011,3,3,"Kolossalkopf. Weissgelockter bartiger Kopf, nach oben blickend.",18,98.4,False,positional,Antonio Allegri; Correggio,,,,
 BO0624_87489,557012,4,4,Traum eines Konigs. In einem Sessel sitzt derselbe schlafend; in der Hohe in Wolken ein von Engeln getragener Ordensgeistlicher.,20,99.2,False,positional,Antonio Allegri; Correggio,,,,
@@ -30,7 +30,7 @@ BO0624_87489,557036,28,33,"Johannes,predigend. Ganze Figur des Vorlaufers Christ
 BO0624_87489,557037,29,341,hl. Joseph.,229,81.8,False,positional,Paolo Caliari; Veronese,,,,
 BO0624_87489,557038,30,35,"Palastscene. Bei einem Tische sitzt ein vornehmes Paar, vor ihm einige",240,97.8,False,positional,Paolo Caliari; Veronese,,,,
 BO0624_87489,557039,31,36,"Maria mit dem Kinde. Unter einem rothen Vorhange steht die jugendliche Maria in weissem Kleide mit blaulichem Mantel und halt auf beiden Armen den nackten Jesusknaben, zu dem sie zartlich niederblickt.",248,99.2,False,positional,Luca Cambiaso,,BIANCHERIA,,
-BO0624_87489,557040,32,37,geb. zu Moneglia bei Genua 1527; zu Madrid um 1585.,251,100.0,False,positional,Luca Cambiaso,,,,
+BO0624_87489,557040,32,37,geb. zu Moneglia bei Genua 1527; zu Madrid um 1585.,251,100.0,False,positional,Luca Cambiaso,,,,Sec. XVI
 BO0624_87489,557041,33,38,"Ecce homo.Brustbild des dornengekronten Heilandes, die Arme iber der Brust gekreuzt haltend. Ein Scherge, seitwarts hinter ihm stehend,hebt",261,98.9,False,positional,Lodovico Cardi; Cigoli,,,,
 BO0624_87489,557042,34,39,"Engelgruppe. Eine Anzahl theils musicirender, theils singender Engel",269,97.8,False,positional,Agostino Carracci,,,,
 BO0624_87489,557043,35,40,gewandt; die Rechte halt er auf der Brust.,281,96.4,False,positional,Agostino Carracci,,,,
@@ -207,7 +207,7 @@ BO0624_87489,557213,205,222,/223 Zwei Darstellungen aus der 0dyssee. 1. Odysseus
 BO0624_87489,557214,206,I,nsel Ogygia und 2. Odysseus wird von Nausicaa bekleidet.,1491,99.1,False,positional,Trajan R. Wallis jr.,,,,
 BO0624_87489,557215,207,224,"Weibliches Bildniss. Halbfgur einer, in einem Lehnstuhle sitzenden vornehmen Dame,in schwarzem Gewande.Vom Lockenhaupte hangt eine grosse Perle auf die Stirne hernieder, den entblossten Hals schmickt eine edoppelreihige Kette.",1492,99.1,False,positional,Trajan R. Wallis jr.,,SCOMPARTI,,
 BO0624_87489,557216,208,225,Einzug eines Siegers. Figurenreiche Skizze.,1496,95.3,False,positional,Trajan R. Wallis jr.,,,,
-BO0624_87489,557217,209,226,"/227 Zwei Kinderportraits. Halbfiguren. Sie halten beide vor sich ein Inschriftblatt. Auf der Ruckseite Bezeichnungen, wonach die Dargestellten Mitglieder der Familie Haksteen und zwar I Pieter Haksteen und seine Schwester sind. Datirt 1780.",1502,99.2,False,positional,Hendriks Wybrand,,,,
+BO0624_87489,557217,209,226,"/227 Zwei Kinderportraits. Halbfiguren. Sie halten beide vor sich ein Inschriftblatt. Auf der Ruckseite Bezeichnungen, wonach die Dargestellten Mitglieder der Familie Haksteen und zwar I Pieter Haksteen und seine Schwester sind. Datirt 1780.",1502,99.2,False,positional,Hendriks Wybrand,,,,Sec. XVIII
 BO0624_87489,557218,210,228,"Engelgruppe. Einige sich an der Hand fassende, schwebende Engel bei",1509,97.0,False,positional,Domenico Zampieri; Domenichino,,,,
 BO0624_87489,557219,211,229,Der hl. Nicolaus und der verarmte Edelmann.1 Letzterer sitzt in Ge-,1518,97.0,False,positional,Domenico Zampieri; Domenichino,,,,
 BO0624_87489,557220,212,230,"Die Salbung Davids. Umgeben von einer Menge Krieger, seinen Bridern etc., kniet David auf einer Estrade. Vor ihm Samuel, das Horn mit Oel",1523,98.5,False,positional,Domenico Zampieri; Domenichino,,,,
@@ -276,7 +276,7 @@ BO0624_87489,557282,274,292,"IHIme Fete flamande nach D. Teniers. Roy. qu. fol. 
 BO0624_87489,557283,275,293,Dasselbe Blatt der Ausgabe Vve Jean als HIme Fete famande. Schoner Abdruck mit vollem Rande. Unter Glas in Rahmen.,1808,98.2,False,positional,J.B. le Bas,,CORNICI,,
 BO0624_87489,557284,276,294,"IVme Fete flamande nach D.Teniers. Roy. qu. fol. Sehr guter Abdruck, bis zum Plattenrande beschnitten.Unter Glas in Rahmen.",1809,98.3,False,positional,J.B. le Bas,Scuola Fiamminga,CORNICI,,
 BO0624_87489,557285,277,295,Dasselbe Blatt der Ausgabe Vve Jean als Iere Fete famande.,1810,96.6,False,positional,J.B. le Bas,,,,
-BO0624_87489,557286,278,296,"Sophonisbe.F.Solimena 1783. kl. fol. Nagl. 41. Vorziglicher Abdruck in Farben, vor der Dedication. Aufgezogen.",1815,98.1,False,positional,Heinrich Sintzenich,,,,
+BO0624_87489,557286,278,296,"Sophonisbe.F.Solimena 1783. kl. fol. Nagl. 41. Vorziglicher Abdruck in Farben, vor der Dedication. Aufgezogen.",1815,98.1,False,positional,Heinrich Sintzenich,,,,Sec. XVIII
 BO0624_87489,557287,279,297,Die Vestalinnen. Sconjans p.,1816,92.9,False,positional,Heinrich Sintzenich,,,,
 BO0624_87489,557288,280,298,Die hl.Cacilia. Domenichino p. kl. fol. Nagl. 33. Ebenso. Bis zur Darstellung beschnitten und aufgezogen.,1818,98.0,False,title_direct,Domenichino,,,,
 BO0624_87489,557289,281,299,Cassandra und ihre Gefahrtin. A.Hickel p.,1819,95.1,False,positional,Heinrich Sintzenich,,,,

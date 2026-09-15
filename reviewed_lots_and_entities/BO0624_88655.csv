@@ -1,104 +1,104 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88655,471303,1,I,"nfolgedessen finden sich darin nicht nur einzelne interessante Sticke, sondern es ist eine Zusammenstellung von Glasern aller Epochen,die dem Sammler etwas zu bieten haben. Natirlich wiegt das deutsche Glas, einschlieflich der berihmten Erzeugnisse Deutschbohmens und Schlesiens vor, doch sind auch hervorragende Sticke der Venetia ner Glaskinstler (Nr. 150) vorhanden, so feine, leichte Fadenglaser und Arbeiten des 16. Jahrhunderts, die durch ihre wunderbare Leichtigkeit und den Glasglanz auffallen (Nr. 145),Platten und Weinkelche (Nr. 144). Zum Vergleich finden wir daneben Glaser mit den verschiedensten Fadeneinlagen aus Bohmen und dem ibrigen Deutschland (Nr. 160).",7,99.9,False,title_direct,,Bohmen,PIATTI,,
-BO0624_88655,471304,2,2,"Weinglaschen auf viereckiger FuBplatte, geschliffen,um 1800.",40,98.3,False,positional,,,Glaser,,
+BO0624_88655,471303,1,I,"nfolgedessen finden sich darin nicht nur einzelne interessante Sticke, sondern es ist eine Zusammenstellung von Glasern aller Epochen,die dem Sammler etwas zu bieten haben. Natirlich wiegt das deutsche Glas, einschlieflich der berihmten Erzeugnisse Deutschbohmens und Schlesiens vor, doch sind auch hervorragende Sticke der Venetia ner Glaskinstler (Nr. 150) vorhanden, so feine, leichte Fadenglaser und Arbeiten des 16. Jahrhunderts, die durch ihre wunderbare Leichtigkeit und den Glasglanz auffallen (Nr. 145),Platten und Weinkelche (Nr. 144). Zum Vergleich finden wir daneben Glaser mit den verschiedensten Fadeneinlagen aus Bohmen und dem ibrigen Deutschland (Nr. 160).",7,99.9,False,title_direct,,Bohmen,PIATTI,,Sec. XVI
+BO0624_88655,471304,2,2,"Weinglaschen auf viereckiger FuBplatte, geschliffen,um 1800.",40,98.3,False,positional,,,Glaser,,Sec. XIX
 BO0624_88655,471305,3,2,- 3,43,100.0,False,positional,CHARDIN J.B.S.,,Glaser,,
 BO0624_88655,471306,4,5,5,45,100.0,False,positional,,,Glaser,,
 BO0624_88655,471307,5,6,"Henkelkannchen, Kristallglas, reich geschliffen. H. 10 cm.",47,98.1,False,positional,,,Glaser,,
 BO0624_88655,471308,6,7,"- Kindersaugflaschchen, reich gesteinelt m. Silbermontierung. H. 13 cm.",50,100.0,False,positional,,,Glaser,,
-BO0624_88655,471309,7,8,"Empireranke und Devise, Potsdam (?) um 1810. H. 10,5 cm.",52,98.0,False,positional,,,Glaser,,
+BO0624_88655,471309,7,8,"Empireranke und Devise, Potsdam (?) um 1810. H. 10,5 cm.",52,98.0,False,positional,,,Glaser,,Sec. XIX
 BO0624_88655,471310,8,9,"hauses H.11,5 cm.",54,94.1,False,positional,,,Glaser,,
 BO0624_88655,471311,9,10,"Becher geschweift mit Olivenschliff, am Fufrand Freimaurer- - Schwerer geschweifter Becher mit Johannes dem Taufer, Inschrift",63,68.1,False,positional,,,VASI,,
 BO0624_88655,471312,10,11,Br.Friebock.H. 14 cm.,64,92.7,False,positional,,,Glaser,,
-BO0624_88655,471313,11,12,"Grund,Bohmen 1840.H. 10,5 cm.",69,94.7,False,title_direct,,Bohmen,,,
-BO0624_88655,471314,12,13,"Rubinglasbecher, geschweift, mit reichem vergoldeten Kaligraphenornament, Bohmen 1850. H. 12 cm. Abbildung Tafel 1.",70,98.6,False,title_direct,,Bohmen,,,
-BO0624_88655,471315,13,14,"Geschweifter Becher, blau opalisierend, achtseitig fazettiert mit versilbertem Reliefornament, Bohmen 1850. H. 12 cm. Abbildung Tafel 1.",71,98.9,False,title_direct,,Bohmen,VASI,,
-BO0624_88655,471316,14,15,"Becher, Rubinglas, geschweift, achtseitig fazettiert mit Silberborduire, Bohmen 1850. H. 12 cm. Abbildung Tafel 1.",72,98.6,False,title_direct,,Bohmen,VASI,,
-BO0624_88655,471317,15,16,"- Becher, Rubinglasiberfang mit durchschliffenen Fazetten,um 1850. H.13cm.",74,100.0,False,positional,,,VASI,,
-BO0624_88655,471318,16,17,"vergoldeter Weinranke, Bohmen, 1840. H. 9,5 cm. Abbildung Tafel 1.",76,97.6,False,title_direct,,Bohmen,,,
-BO0624_88655,471319,17,18,"Becher, geschweift mit profiliertem Fufrand, achteckig fazettiert, innen weif iberfangen,mit verschmolzenen Kobaldbrocken,vergoldete Linien,getriebener Deckel,romantische Gotik,versilbert, um 1840. H. 22 cm. Abbildung Tafel 1.",77,99.3,False,positional,,,VASI,,
-BO0624_88655,471320,18,19,"Pokal mit reichem geschliffenen Festonbehang, Blauiberfang mit Silberdeckel,um 1820.H.15 cm. Abbildung Tafel 1.",78,98.6,False,positional,,,Glaser,,
-BO0624_88655,471321,19,20,"1810. H. 11,5 cm.",80,90.3,False,positional,,,Glaser,,
+BO0624_88655,471313,11,12,"Grund,Bohmen 1840.H. 10,5 cm.",69,94.7,False,title_direct,,Bohmen,,,Sec. XIX
+BO0624_88655,471314,12,13,"Rubinglasbecher, geschweift, mit reichem vergoldeten Kaligraphenornament, Bohmen 1850. H. 12 cm. Abbildung Tafel 1.",70,98.6,False,title_direct,,Bohmen,,,Sec. XIX
+BO0624_88655,471315,13,14,"Geschweifter Becher, blau opalisierend, achtseitig fazettiert mit versilbertem Reliefornament, Bohmen 1850. H. 12 cm. Abbildung Tafel 1.",71,98.9,False,title_direct,,Bohmen,VASI,,Sec. XIX
+BO0624_88655,471316,14,15,"Becher, Rubinglas, geschweift, achtseitig fazettiert mit Silberborduire, Bohmen 1850. H. 12 cm. Abbildung Tafel 1.",72,98.6,False,title_direct,,Bohmen,VASI,,Sec. XIX
+BO0624_88655,471317,15,16,"- Becher, Rubinglasiberfang mit durchschliffenen Fazetten,um 1850. H.13cm.",74,100.0,False,positional,,,VASI,,Sec. XIX
+BO0624_88655,471318,16,17,"vergoldeter Weinranke, Bohmen, 1840. H. 9,5 cm. Abbildung Tafel 1.",76,97.6,False,title_direct,,Bohmen,,,Sec. XIX
+BO0624_88655,471319,17,18,"Becher, geschweift mit profiliertem Fufrand, achteckig fazettiert, innen weif iberfangen,mit verschmolzenen Kobaldbrocken,vergoldete Linien,getriebener Deckel,romantische Gotik,versilbert, um 1840. H. 22 cm. Abbildung Tafel 1.",77,99.3,False,positional,,,VASI,,Sec. XIX
+BO0624_88655,471320,18,19,"Pokal mit reichem geschliffenen Festonbehang, Blauiberfang mit Silberdeckel,um 1820.H.15 cm. Abbildung Tafel 1.",78,98.6,False,positional,,,Glaser,,Sec. XIX
+BO0624_88655,471321,19,20,"1810. H. 11,5 cm.",80,90.3,False,positional,,,Glaser,,Sec. XIX
 BO0624_88655,471322,20,25,## Hyalith,87,100.0,False,positional,,,Glaser,,
 BO0624_88655,471323,21,23,"2 Kannchen, reich mit Golddekor und Chinoiseriendekor, Graf",89,97.4,False,positional,,,Glaser,,
-BO0624_88655,471324,22,24,"Deckelbecher,gehenkelt,mit vergoldetem Ornament,um 1830.",91,97.3,False,positional,,,Glaser,,
-BO0624_88655,471325,23,26,"zier, Paris 1820.",97,90.9,False,positional,,,Glaser,,
+BO0624_88655,471324,22,24,"Deckelbecher,gehenkelt,mit vergoldetem Ornament,um 1830.",91,97.3,False,positional,,,Glaser,,Sec. XIX
+BO0624_88655,471325,23,26,"zier, Paris 1820.",97,90.9,False,positional,,,Glaser,,Sec. XIX
 BO0624_88655,471326,24,27,"Anhanger, eingeglastes Portrat eines Admirals. Abbildung Tafel 5.",98,97.6,False,positional,,,Glaser,,
-BO0624_88655,471327,25,29,"FuBbecher in Originallederetui,sehr fein geschnittene ,Ruine der Kapelle Herrenalb, 1842 Brandauer Ostertag Gother"", Wuirttemberg 1842. (Publiziert G. Pazaurek, Empire und Biedermeierglaser.) H.12cm.",103,99.2,False,positional,,,Glaser,,
-BO0624_88655,471328,26,30,"Marstall in Stuttgart,Wuirttemberg 1840. H. 11 cm.",105,96.9,False,positional,,,Glaser,,
-BO0624_88655,471329,27,31,"Hohes geschweiftes Glas, 'siebenseitig fazettiert, im Boden eingeschmolzen: 1/2 Silbergulden, 1838.",106,98.4,False,title_direct,,,Glas,,
-BO0624_88655,471330,28,32,"- Pokal, achtseitig fazettiert mit Schnittdekor, vergoldet, Ulmer Minster, um 1850. H. 16,5 cm.",108,100.0,False,positional,,,Glaser,,
+BO0624_88655,471327,25,29,"FuBbecher in Originallederetui,sehr fein geschnittene ,Ruine der Kapelle Herrenalb, 1842 Brandauer Ostertag Gother"", Wuirttemberg 1842. (Publiziert G. Pazaurek, Empire und Biedermeierglaser.) H.12cm.",103,99.2,False,positional,,,Glaser,,Sec. XIX
+BO0624_88655,471328,26,30,"Marstall in Stuttgart,Wuirttemberg 1840. H. 11 cm.",105,96.9,False,positional,,,Glaser,,Sec. XIX
+BO0624_88655,471329,27,31,"Hohes geschweiftes Glas, 'siebenseitig fazettiert, im Boden eingeschmolzen: 1/2 Silbergulden, 1838.",106,98.4,False,title_direct,,,Glas,,Sec. XIX
+BO0624_88655,471330,28,32,"- Pokal, achtseitig fazettiert mit Schnittdekor, vergoldet, Ulmer Minster, um 1850. H. 16,5 cm.",108,100.0,False,positional,,,Glaser,,Sec. XIX
 BO0624_88655,471331,29,33,Weinglas mit Ulmer Muinster. Abbildung Tafel 5.,109,72.0,False,positional,,,Glaser,,
-BO0624_88655,471332,30,34,"- 35 Grofer Humpen mit Fufrand, Fichtelberg mit Spruch: ,Ich bin der edle Fichtelberg ...., aus mir 4 Wasser rauschen, die in 4 End der Welt thun lauffen 1719"", mit kalt bemaltem Deckel, Fichtelgebirge",117,100.0,False,positional,,,Glaser,,
+BO0624_88655,471332,30,34,"- 35 Grofer Humpen mit Fufrand, Fichtelberg mit Spruch: ,Ich bin der edle Fichtelberg ...., aus mir 4 Wasser rauschen, die in 4 End der Welt thun lauffen 1719"", mit kalt bemaltem Deckel, Fichtelgebirge",117,100.0,False,positional,,,Glaser,,Sec. XVIII
 BO0624_88655,471333,31,1719,"H.20,5 cm.",118,78.3,False,positional,,,Glaser,,
 BO0624_88655,471334,32,36,"Sammlung De Ridder, Versteigerung Helbing). H. 29 cm. Abbildung Tafel 6.",123,97.8,False,positional,,,Glaser,COLLEZIONE A. DE RIDDER,
-BO0624_88655,471335,33,38,men 1730. H. 9 cm.,126,90.9,False,positional,,,Glaser,,
-BO0624_88655,471336,34,39,"2 Becher, zylindrisch, mit Wappen, Aufschrift: ,anno domini 1810"", (einer gesprungen), Arbeit von Bihler, Urach 1810. H. 10,5 cm.",127,98.7,False,positional,,,VASI,,
-BO0624_88655,471337,35,40,"Becher mit Doppelwappen, signiert ,Fecit Bihler 1804"", (Sprung). Urach 1804. H. 10,5 cm. Abbildung Tafel 6.",128,98.5,False,positional,,,VASI,,
-BO0624_88655,471338,36,41,deutsch 1780.H.21 cm. Abbildung Tafel 6.,130,96.2,False,positional,,,Glaser,,
-BO0624_88655,471339,37,42,"- Vase, mit Schwarz-rot-Malerei und. Vergoldung, siddeutsch um 1820. H. 23 cm.",132,100.0,False,positional,,,VASI,,
-BO0624_88655,471340,38,43,"- Beinglaskrigel mit Bauer, seinen Schatz im Strohbindel tragend, Anfang 19. Jahrhundert (Sprung).",134,100.0,False,positional,,,Glaser,,
-BO0624_88655,471341,39,44,"Grofe Potpourri-Vase mit Deckel, Beinglas, porzellanartig gemalte Blumen, (gekittete Risse), deutsch um 1750. H. 29 cm. Abbildung Tafel 7.",135,98.8,False,title_direct,,,VASI,,
-BO0624_88655,471342,40,45,"18.Jahrhundert.H. 13 cm. Abbildung Tafel 7. Doppelhenkelvase, mit bunten indianischen Blumen, gekniffene",138,73.4,False,positional,,,Glaser,,
+BO0624_88655,471335,33,38,men 1730. H. 9 cm.,126,90.9,False,positional,,,Glaser,,Sec. XVIII
+BO0624_88655,471336,34,39,"2 Becher, zylindrisch, mit Wappen, Aufschrift: ,anno domini 1810"", (einer gesprungen), Arbeit von Bihler, Urach 1810. H. 10,5 cm.",127,98.7,False,positional,,,VASI,,Sec. XIX
+BO0624_88655,471337,35,40,"Becher mit Doppelwappen, signiert ,Fecit Bihler 1804"", (Sprung). Urach 1804. H. 10,5 cm. Abbildung Tafel 6.",128,98.5,False,positional,,,VASI,,Sec. XIX
+BO0624_88655,471338,36,41,deutsch 1780.H.21 cm. Abbildung Tafel 6.,130,96.2,False,positional,,,Glaser,,Sec. XVIII
+BO0624_88655,471339,37,42,"- Vase, mit Schwarz-rot-Malerei und. Vergoldung, siddeutsch um 1820. H. 23 cm.",132,100.0,False,positional,,,VASI,,Sec. XIX
+BO0624_88655,471340,38,43,"- Beinglaskrigel mit Bauer, seinen Schatz im Strohbindel tragend, Anfang 19. Jahrhundert (Sprung).",134,100.0,False,positional,,,Glaser,,Sec. XIX
+BO0624_88655,471341,39,44,"Grofe Potpourri-Vase mit Deckel, Beinglas, porzellanartig gemalte Blumen, (gekittete Risse), deutsch um 1750. H. 29 cm. Abbildung Tafel 7.",135,98.8,False,title_direct,,,VASI,,Sec. XVIII
+BO0624_88655,471342,40,45,"18.Jahrhundert.H. 13 cm. Abbildung Tafel 7. Doppelhenkelvase, mit bunten indianischen Blumen, gekniffene",138,73.4,False,positional,,,Glaser,,Sec. XVIII
 BO0624_88655,471343,41,46,"Verzierungen, Schweiz, Elz. 17 cm. Abbildung Tafel 7.",139,97.0,False,positional,,,Glaser,,
-BO0624_88655,471344,42,47,"Becher konisch geschweift, Rokokodame, lautespielend, vergoldeter Mundrand, siddeutsch um 1750. H.12,5 cm. Abbildung Tafel 7.",140,98.7,False,positional,,,VASI,,
-BO0624_88655,471345,43,48,"- Essig- und Oelkannchen, reich geschliffen, mit Deckel und Henkel aus Zinn. 18. Jahrhundert.",142,100.0,False,title_direct,,,Zinn,,
+BO0624_88655,471344,42,47,"Becher konisch geschweift, Rokokodame, lautespielend, vergoldeter Mundrand, siddeutsch um 1750. H.12,5 cm. Abbildung Tafel 7.",140,98.7,False,positional,,,VASI,,Sec. XVIII
+BO0624_88655,471345,43,48,"- Essig- und Oelkannchen, reich geschliffen, mit Deckel und Henkel aus Zinn. 18. Jahrhundert.",142,100.0,False,title_direct,,,Zinn,,Sec. XVIII
 BO0624_88655,471346,44,49,"Koppchen, Beinglas mit verkammten Kobaltbrocken. Desgleichen mit Ut. Verkammte Brocken von Mangan und grinem",143,98.6,False,positional,,,Glaser,,
 BO0624_88655,471347,45,50,- 51 2 Henkelbecherchen. Tonnenformig. Kavalier und Dame in Roko-,147,100.0,False,positional,,,Glaser,,
 BO0624_88655,471348,46,53,53,150,100.0,False,positional,,,Glaser,,
 BO0624_88655,471349,47,54,"5 Koppchen mit Ut. Gerippt. Mit reicher bunter Malerei, mit Gold Miniaturschalchen mit Ut. Manganspritzer. Dm. 25 mm.",153,70.1,False,positional,,,OGGETTI IN ORO,,
-BO0624_88655,471350,48,55,- 5Rundes Schalchen. Indianische Blumen. Um 1700. Dm. 10 cm.,157,100.0,False,positional,,,Glaser,,
+BO0624_88655,471350,48,55,- 5Rundes Schalchen. Indianische Blumen. Um 1700. Dm. 10 cm.,157,100.0,False,positional,,,Glaser,,Sec. XVIII
 BO0624_88655,471351,49,56,- 57 Becher. Beinglas mit eingeschliffener Zackenbordire und Boden17.Jahrhundert. H. 6 cm.,159,100.0,False,positional,,,VASI,,
 BO0624_88655,471352,50,58,"Kelchglas mit trichterformiger Kuppa, reicher Mattschnitt, Rankenornament,Deutschbohmen 17.Jahrhundert. H. 14,5 cm.",165,98.7,False,positional,,Deutschland; Bohmen; Schlesien,,,
 BO0624_88655,471353,51,59,"- Hoher Pokal mit Scheibenbaluster,Mattschnitt,Blumenranken mit Vogel, wie oben. H. 21 cm.",167,100.0,False,positional,,Deutschland; Bohmen; Schlesien,,,
 BO0624_88655,471354,52,60,"Deckelpokal, hoher Scheibenbaluster, Kelch am Fufrand gekniffen, mit Blumenranken,wie oben. H. 22 cm.",168,98.4,False,positional,,Deutschland; Bohmen; Schlesien,,,
 BO0624_88655,471355,53,61,Deckelpokal mit Jagdfries. Auf der Fufplatte Monogramm C.H. G. Wie oben. H. 33 cm.,169,98.1,False,positional,,Deutschland; Bohmen; Schlesien,,,
 BO0624_88655,471356,54,62,"Deckelpokal, geschweifter Kelch. Mattschnitt. Deutschbohmen 18. J. H. 23 cm.",170,97.9,False,positional,,Deutschland; Bohmen; Schlesien,,,
-BO0624_88655,471357,55,63,"Deckelpokal mit Wappenfries, im Hohlnodus ein beweglicher Wirfel. Deckel mit Rubinspirale, Deutschbohmen 17. Jahrh. H. 24 cm. Abbildung Tafel 2.",171,98.9,False,positional,,Deutschland; Bohmen; Schlesien,,,
-BO0624_88655,471358,56,64,"Hoher Pokal mit Puttenfries. Deckel als Becher ausgebildet, mit reichem Ornamentfries. Fuf erganzt. Deutschbohmen 17. Jahrh. H.14cm.",172,98.8,False,positional,,Deutschland; Bohmen; Schlesien,VASI,,
-BO0624_88655,471359,57,65,"Apostelbecher: Mattschnitt, um 1700. (Deckel mit Gottvater und Umschrift P. S. 66). H. 11 cm.",173,98.2,False,positional,,Deutschland; Bohmen; Schlesien,,,
-BO0624_88655,471360,58,66,"Hoher Deckelpokal mit reichem figuralem Schnitt,tanzende Rokokogesellschaft. Am Mundrand Lambrekin. Fufplatte ausgebrochen. Mitteldeutschland 1750.H.33 cm.",174,99.0,False,title_direct,,Deutschland,,,
+BO0624_88655,471357,55,63,"Deckelpokal mit Wappenfries, im Hohlnodus ein beweglicher Wirfel. Deckel mit Rubinspirale, Deutschbohmen 17. Jahrh. H. 24 cm. Abbildung Tafel 2.",171,98.9,False,positional,,Deutschland; Bohmen; Schlesien,,,Sec. XVII
+BO0624_88655,471358,56,64,"Hoher Pokal mit Puttenfries. Deckel als Becher ausgebildet, mit reichem Ornamentfries. Fuf erganzt. Deutschbohmen 17. Jahrh. H.14cm.",172,98.8,False,positional,,Deutschland; Bohmen; Schlesien,VASI,,Sec. XVII
+BO0624_88655,471359,57,65,"Apostelbecher: Mattschnitt, um 1700. (Deckel mit Gottvater und Umschrift P. S. 66). H. 11 cm.",173,98.2,False,positional,,Deutschland; Bohmen; Schlesien,,,Sec. XVIII
+BO0624_88655,471360,58,66,"Hoher Deckelpokal mit reichem figuralem Schnitt,tanzende Rokokogesellschaft. Am Mundrand Lambrekin. Fufplatte ausgebrochen. Mitteldeutschland 1750.H.33 cm.",174,99.0,False,title_direct,,Deutschland,,,Sec. XVIII
 BO0624_88655,471361,59,67,"- Becher, konisch, mit gekrontem Allianzwappen, wie oben. H. 12 cm.",176,100.0,False,positional,,Deutschland; Bohmen; Schlesien,VASI,,
 BO0624_88655,471362,60,68,"H. 12,5 cm.",178,85.7,False,positional,,Deutschland; Bohmen; Schlesien,,,
-BO0624_88655,471363,61,69,"- Grofer Becher mit Jagdszenen. Deutsch 18. Jahrh. H. 14,5 cm.",180,100.0,False,positional,,Deutschland; Bohmen; Schlesien,VASI,,
+BO0624_88655,471363,61,69,"- Grofer Becher mit Jagdszenen. Deutsch 18. Jahrh. H. 14,5 cm.",180,100.0,False,positional,,Deutschland; Bohmen; Schlesien,VASI,,Sec. XVIII
 BO0624_88655,471364,62,70,- 71,182,100.0,False,positional,,Deutschland; Bohmen; Schlesien,,,
-BO0624_88655,471365,63,3,diverse Weingliser. 18. Jahrhundert.,183,97.1,False,positional,,Deutschland; Bohmen; Schlesien,,,
+BO0624_88655,471365,63,3,diverse Weingliser. 18. Jahrhundert.,183,97.1,False,positional,,Deutschland; Bohmen; Schlesien,,,Sec. XVIII
 BO0624_88655,471366,64,72,"2 Trichterglaser. Eingeschmolzene Blasen, reicher Schnittdekor. Wappen. Wie oben. H. 14,5 cm.",185,98.3,False,positional,,Deutschland; Bohmen; Schlesien,,,
 BO0624_88655,471367,65,73,- Sektglas mit Jagdfries. Hohlbaluster. Wie oben. H. 16 cm.,187,100.0,False,positional,,Deutschland; Bohmen; Schlesien,,,
 BO0624_88655,471368,66,4,"Wappenbecher, fazettiert. Reich geschnittene Wappen. Goldrand.",188,98.3,False,positional,,Deutschland; Bohmen; Schlesien,,,
-BO0624_88655,471369,67,2,Bohmen 1750. H. 8 cm.,189,94.7,False,title_direct,,Bohmen,,,
-BO0624_88655,471370,68,75,1750. H.23 cm.,191,88.9,False,positional,,Deutschland; Bohmen; Schlesien,,,
-BO0624_88655,471371,69,76,"Abendmahlskanne, gehenkelt, reich verziert. In Form geblasen. Um 1700.H.21cm. ## Potsdamer Glaser",192,87.8,False,title_direct,,,Glas,,
+BO0624_88655,471369,67,2,Bohmen 1750. H. 8 cm.,189,94.7,False,title_direct,,Bohmen,,,Sec. XVIII
+BO0624_88655,471370,68,75,1750. H.23 cm.,191,88.9,False,positional,,Deutschland; Bohmen; Schlesien,,,Sec. XVIII
+BO0624_88655,471371,69,76,"Abendmahlskanne, gehenkelt, reich verziert. In Form geblasen. Um 1700.H.21cm. ## Potsdamer Glaser",192,87.8,False,title_direct,,,Glas,,Sec. XVIII
 BO0624_88655,471372,70,77,"Deckelpokal. Fuf pseudofazettiert. Fufrand der Kuppa und Deckel mit Reliefschnitt. Inschrift: ,a la maison royal"", (krank), Potsdam? H. 29 cm.",197,95.7,False,positional,,,Glaser,,
-BO0624_88655,471373,71,78,und sch wer vergoldet. Zechlin 1735. H. 40 cm. Abbildung Tafel 5.,202,97.6,False,positional,,,Glaser,,
+BO0624_88655,471373,71,78,und sch wer vergoldet. Zechlin 1735. H. 40 cm. Abbildung Tafel 5.,202,97.6,False,positional,,,Glaser,,Sec. XVIII
 BO0624_88655,471374,72,79,"H. 9,5 cm.",208,84.2,False,positional,,,Glaser,,
 BO0624_88655,471375,73,80,Saugflaschchen mit Kinderfries. Mattschliff. Silbermontierung. Wie,212,97.7,False,positional,,,Glaser,,
 BO0624_88655,471376,74,81,Wie oben. H. 5 cm.,218,90.9,False,positional,,,Glaser,,
-BO0624_88655,471377,75,82,"Konfektschale, Schiffchen. Muschelformig, reich geschliffen. 1745.",224,97.6,False,positional,,Schlesien; Bohmen,,,
-BO0624_88655,471378,76,84,"Fruchtbindeln und figuralen Medaillons. Engel mit maskierter Katze. Sinnspruch.1715. H.15,5 cm. Abbildung Tafel 3.",227,98.6,False,positional,,Schlesien; Bohmen,,,
-BO0624_88655,471379,77,85,"delwerk mit ,David und Jonathan. 1730. H. 11,5 cm.",229,96.8,False,positional,,Schlesien; Bohmen,,,
-BO0624_88655,471380,78,86,"Niedriger Pokal, ohne Balusterschaft. Laub-und Bandelwerk. Allegorie Hase und Hund. ,Schau dir diesen Hasen an, nimm dir ein Exempel an"". Schlesien 1750. (Vergl. Schmidt Figur 167). H.10.5 cm.",230,99.2,False,title_direct,,Schlesien,,,
-BO0624_88655,471381,79,871,"Deckelpokal, fazettiert. Reicher Schnitt mit Vergoldung. Portrat Friedrich des Grofen, Kriegsembleme und Inschrift: .... schlagt er durch die Wachtparade noch einmal 8o ooo Mann. (Schlacht bei Leuthen.) Fufplatte gesprungen. Schlesien 1743. H. 23 cm. Abbildung Tafel 3.",231,99.2,False,title_direct,,Schlesien,,,
-BO0624_88655,471382,80,89,"2 Weinkelche, a) mit vergoldeter Muschel, Laub und Bandelwerk. ,Denke dieser Stunden, die unser Herz verbunden"". H. 14 cm. b) Jagdglaschen mit Fuchs und Hund, fazettiert. Schlesien 1730. H. 12 cm.",232,99.2,False,title_direct,,Schlesien,,,
-BO0624_88655,471383,81,90,"Rokokopokal, mit Darstellung der vier Elemente. Vergoldetes Muschelwerk in Reliefschliff von J. E. Baumgartner. (Vergl. Schmidt Nr. 169.) Silberfuf. Schlesien 1760. H. 17,5 cm. Abbildung Tafel 2.",233,99.2,False,title_direct,,Schlesien,,,
-BO0624_88655,471384,82,91,",Kynast"". Riesengebirge. Ende 18. Jahrhundert. H. 11 cm. Abbildung Tafel 1.",235,97.8,False,positional,,Schlesien; Bohmen,,,
-BO0624_88655,471385,83,92,Hoher Deckelpokal. Mit vergoldeter Palmette. Reichster Rokokoschnitt. Mit Wappen und Freundschaftsdevise. (Vergl. Schmidt Nr. 166.) Schlesien 1750.H.24 cm.,236,99.0,False,title_direct,,Schlesien,,,
-BO0624_88655,471386,84,93,"Deckelpokal mit Wappen. Ohne Baluster, mit Reliefschliff, am Fufrand reichstes Laub- und Bandelwerk. Kavalierpaar mit Devise. Schlesien 1730. H. 20 cm. Abbildung Tafel 2.",237,99.1,False,title_direct,,Schlesien,,,
-BO0624_88655,471387,85,94,"- Hoher Deckelpokal. Elfseitig fazettiert. Das ganze Glas und Deckel durchzogen von spiraligen Rubin- und Goldstreifen. Bohmen um 1700 (krank). H. 28,5 cm. Abbildung Tafel 5.",239,100.0,False,title_direct,,Bohmen,Glas,,
+BO0624_88655,471377,75,82,"Konfektschale, Schiffchen. Muschelformig, reich geschliffen. 1745.",224,97.6,False,positional,,Schlesien; Bohmen,,,Sec. XVIII
+BO0624_88655,471378,76,84,"Fruchtbindeln und figuralen Medaillons. Engel mit maskierter Katze. Sinnspruch.1715. H.15,5 cm. Abbildung Tafel 3.",227,98.6,False,positional,,Schlesien; Bohmen,,,Sec. XVIII
+BO0624_88655,471379,77,85,"delwerk mit ,David und Jonathan. 1730. H. 11,5 cm.",229,96.8,False,positional,,Schlesien; Bohmen,,,Sec. XVIII
+BO0624_88655,471380,78,86,"Niedriger Pokal, ohne Balusterschaft. Laub-und Bandelwerk. Allegorie Hase und Hund. ,Schau dir diesen Hasen an, nimm dir ein Exempel an"". Schlesien 1750. (Vergl. Schmidt Figur 167). H.10.5 cm.",230,99.2,False,title_direct,,Schlesien,,,Sec. XVIII
+BO0624_88655,471381,79,871,"Deckelpokal, fazettiert. Reicher Schnitt mit Vergoldung. Portrat Friedrich des Grofen, Kriegsembleme und Inschrift: .... schlagt er durch die Wachtparade noch einmal 8o ooo Mann. (Schlacht bei Leuthen.) Fufplatte gesprungen. Schlesien 1743. H. 23 cm. Abbildung Tafel 3.",231,99.2,False,title_direct,,Schlesien,,,Sec. XVIII
+BO0624_88655,471382,80,89,"2 Weinkelche, a) mit vergoldeter Muschel, Laub und Bandelwerk. ,Denke dieser Stunden, die unser Herz verbunden"". H. 14 cm. b) Jagdglaschen mit Fuchs und Hund, fazettiert. Schlesien 1730. H. 12 cm.",232,99.2,False,title_direct,,Schlesien,,,Sec. XVIII
+BO0624_88655,471383,81,90,"Rokokopokal, mit Darstellung der vier Elemente. Vergoldetes Muschelwerk in Reliefschliff von J. E. Baumgartner. (Vergl. Schmidt Nr. 169.) Silberfuf. Schlesien 1760. H. 17,5 cm. Abbildung Tafel 2.",233,99.2,False,title_direct,,Schlesien,,,Sec. XVIII
+BO0624_88655,471384,82,91,",Kynast"". Riesengebirge. Ende 18. Jahrhundert. H. 11 cm. Abbildung Tafel 1.",235,97.8,False,positional,,Schlesien; Bohmen,,,Sec. XVIII
+BO0624_88655,471385,83,92,Hoher Deckelpokal. Mit vergoldeter Palmette. Reichster Rokokoschnitt. Mit Wappen und Freundschaftsdevise. (Vergl. Schmidt Nr. 166.) Schlesien 1750.H.24 cm.,236,99.0,False,title_direct,,Schlesien,,,Sec. XVIII
+BO0624_88655,471386,84,93,"Deckelpokal mit Wappen. Ohne Baluster, mit Reliefschliff, am Fufrand reichstes Laub- und Bandelwerk. Kavalierpaar mit Devise. Schlesien 1730. H. 20 cm. Abbildung Tafel 2.",237,99.1,False,title_direct,,Schlesien,,,Sec. XVIII
+BO0624_88655,471387,85,94,"- Hoher Deckelpokal. Elfseitig fazettiert. Das ganze Glas und Deckel durchzogen von spiraligen Rubin- und Goldstreifen. Bohmen um 1700 (krank). H. 28,5 cm. Abbildung Tafel 5.",239,100.0,False,title_direct,,Bohmen,Glas,,Sec. XVIII
 BO0624_88655,471388,86,95,Grofer Bierkrug mit Deckel. Schnitt Riesengebirge mit Schnee-,240,97.5,False,positional,,Schlesien; Bohmen,,,
-BO0624_88655,471389,87,96,"Niedriger Pokal mit Flakondeckel. Laub- und Bandelwerk, Miniaturjagden und Emblemen. Schlesien 1730. H. 17 cm.",242,98.6,False,title_direct,,Schlesien,,,
+BO0624_88655,471389,87,96,"Niedriger Pokal mit Flakondeckel. Laub- und Bandelwerk, Miniaturjagden und Emblemen. Schlesien 1730. H. 17 cm.",242,98.6,False,title_direct,,Schlesien,,,Sec. XVIII
 BO0624_88655,471390,88,26,"Deckelpokal. Kelch mit reichen Streublumen und Devise ,unser",243,97.5,False,positional,,Schlesien; Bohmen,,,
-BO0624_88655,471391,89,98,"Becher, gesch weift, mit Hochschnittdekor. Schwere geschwungene Akanthusranken mit einem Tannenbaum und der Devise ,aucun temps ne le change"". Mit kleinen Jagdbildchen in Tiefschnitt. (Vergl. Schmidt Nr. 148 Wappen Schaffgotsch.) Hirschberger Tal (Fr. Winter?). Um 1700. Sprung. H. 12 cm.",245,99.4,False,positional,,Schlesien; Bohmen,VASI,,
-BO0624_88655,471392,90,99,"Vivat D. L. H. Suddeutsch um 1700. H. 21,5 cm.",250,96.4,False,positional,,Schlesien; Bohmen,,,
-BO0624_88655,471393,91,100,deckel. Um 1790. Sprung. H. 19 cm. Enghalskrige mit Zinndeckel. Handwerksembleme und Blumen.,253,78.9,False,title_direct,,,Zinn,,
+BO0624_88655,471391,89,98,"Becher, gesch weift, mit Hochschnittdekor. Schwere geschwungene Akanthusranken mit einem Tannenbaum und der Devise ,aucun temps ne le change"". Mit kleinen Jagdbildchen in Tiefschnitt. (Vergl. Schmidt Nr. 148 Wappen Schaffgotsch.) Hirschberger Tal (Fr. Winter?). Um 1700. Sprung. H. 12 cm.",245,99.4,False,positional,,Schlesien; Bohmen,VASI,,Sec. XVIII
+BO0624_88655,471392,90,99,"Vivat D. L. H. Suddeutsch um 1700. H. 21,5 cm.",250,96.4,False,positional,,Schlesien; Bohmen,,,Sec. XVIII
+BO0624_88655,471393,91,100,deckel. Um 1790. Sprung. H. 19 cm. Enghalskrige mit Zinndeckel. Handwerksembleme und Blumen.,253,78.9,False,title_direct,,,Zinn,,Sec. XVIII
 BO0624_88655,471394,92,101,Suddeutsch. H. 32 cm.,254,90.0,False,positional,,Schlesien; Bohmen,,,
 BO0624_88655,471395,93,102,- Flasche mit Zinnschraube. Reich gekugelt.Mit Sternmuster. H. 26 cm.,256,100.0,False,title_direct,,,Zinn,,
-BO0624_88655,471396,94,103,- Konischer Becher. Figuraler Mattschnitt. Kampfende Giganten. Signiert: Z. Deutsch um 1900. H. 13 cm.,258,100.0,False,positional,,Schlesien; Bohmen,VASI,,
-BO0624_88655,471397,95,104,bohmen 1730. H. 16 cm.,263,90.5,False,positional,,,Goldglaser,,
-BO0624_88655,471398,96,105,Figur. Bohmen 1740. H. 5 cm.,265,92.3,False,title_direct,,Bohmen,,,
-BO0624_88655,471399,97,106,"- Weinkelch.Auf hohem Balusterfuf, fazettiert. Vergoldetes Ornament und Devise ,Nichts iber die so edle Freiheit"". 1760. H. 18 cm.",267,100.0,False,positional,,,Goldglaser,,
+BO0624_88655,471396,94,103,- Konischer Becher. Figuraler Mattschnitt. Kampfende Giganten. Signiert: Z. Deutsch um 1900. H. 13 cm.,258,100.0,False,positional,,Schlesien; Bohmen,VASI,,Sec. XX
+BO0624_88655,471397,95,104,bohmen 1730. H. 16 cm.,263,90.5,False,positional,,,Goldglaser,,Sec. XVIII
+BO0624_88655,471398,96,105,Figur. Bohmen 1740. H. 5 cm.,265,92.3,False,title_direct,,Bohmen,,,Sec. XVIII
+BO0624_88655,471399,97,106,"- Weinkelch.Auf hohem Balusterfuf, fazettiert. Vergoldetes Ornament und Devise ,Nichts iber die so edle Freiheit"". 1760. H. 18 cm.",267,100.0,False,positional,,,Goldglaser,,Sec. XVIII
 BO0624_88655,471400,98,107,Becher fazettiert mit Bodenmedaillon. Gold auf rotem Grund Jo-,271,96.8,False,positional,,,OGGETTI IN ORO,,
-BO0624_88655,471401,99,108,"- 109 szene , Wer da —- gut Freund"". Bohmen 1725. H. 9,5 cm.",276,100.0,False,title_direct,,Bohmen,,,
-BO0624_88655,471402,100,110,"- Becher, Zwischengold. Vielseitig fazettiert. Jagddarstellungen. Im Stil des Meisters I. Bohmen 1725. H. 8,5 cm.",278,100.0,False,title_direct,,Bohmen,VASI,,
+BO0624_88655,471401,99,108,"- 109 szene , Wer da —- gut Freund"". Bohmen 1725. H. 9,5 cm.",276,100.0,False,title_direct,,Bohmen,,,Sec. XVIII
+BO0624_88655,471402,100,110,"- Becher, Zwischengold. Vielseitig fazettiert. Jagddarstellungen. Im Stil des Meisters I. Bohmen 1725. H. 8,5 cm.",278,100.0,False,title_direct,,Bohmen,VASI,,Sec. XVIII
 BO0624_88655,471403,101,1112,Zwischengoldpokal mit Hirschjagd. Fufplatte erganzt. Verstofen:,279,96.0,False,positional,,,Zwischengoldglaser,,
 BO0624_88655,471404,102,114,"Rotgrund ,Wahre Liebe und Treue. Mildner, Wien. Abbildung Tafel 5.",284,96.8,False,positional,,Scuola Viennese,Zwischengoldglaser,,
 BO0624_88655,471405,103,115,"Parfimflaschchen, reicher Schliff mit Silberverschluf. Medaillon Engelkopf rot gold. Mildner, Wien. H. 7,5 cm. Abbildung Tafel 5.",285,98.4,False,positional,,Scuola Viennese,OGGETTI IN ORO,,
@@ -114,14 +114,14 @@ BO0624_88655,471414,112,124,- Schnapsflasche in gleicher Form. Tirol. H. 15 cm.,
 BO0624_88655,471415,113,125,"Nabelflasche, spiralig gerieft, schon tiefblaues Glas. H. 17 cm. Abbildung Tafel 4.",312,97.5,False,title_direct,,,Glas,,
 BO0624_88655,471416,114,126,"Schnapshund, grines Waldglas, gerippt, frihe Form. Abbildung Tafel 4.",313,97.0,False,positional,,,Glaser,,
 BO0624_88655,471417,115,271,"Glashund, weif mit Henkelschwanzchen, w. o.",314,95.1,False,title_direct,,,Glas,,
-BO0624_88655,471418,116,128,"Wie oben, in Form geblasen mit Warzen W. Gl. 18. Jahrhundert.",316,96.6,False,positional,,,Glaser,,
+BO0624_88655,471418,116,128,"Wie oben, in Form geblasen mit Warzen W. Gl. 18. Jahrhundert.",316,96.6,False,positional,,,Glaser,,Sec. XVIII
 BO0624_88655,471419,117,129,- Ampel mit gekniffenen Blattchen und altem Kettwerk.,318,100.0,False,positional,,,Glaser,,
 BO0624_88655,471420,118,130,Hoher Stehleuchter fuir Oellampchen.,319,94.6,False,positional,,,Glaser,,
 BO0624_88655,471421,119,131,"""Mannekenpif"", Groteskfigur als Schnapsvexierflasche. Anf. 18. J.",320,96.7,False,positional,,,Glaser,,
-BO0624_88655,471422,120,132,um 1700. Abbildung Tafel 5.,323,92.6,False,positional,,,Glaser,,
-BO0624_88655,471423,121,133,"- Tintenfafchen mit gekniffenem Henkel, grines Waldglas. 17. Jahrh.",325,100.0,False,positional,,,Glaser,,
+BO0624_88655,471422,120,132,um 1700. Abbildung Tafel 5.,323,92.6,False,positional,,,Glaser,,Sec. XVIII
+BO0624_88655,471423,121,133,"- Tintenfafchen mit gekniffenem Henkel, grines Waldglas. 17. Jahrh.",325,100.0,False,positional,,,Glaser,,Sec. XVII
 BO0624_88655,471424,122,134,Wetterglas mit Standrohr.,326,92.3,False,positional,,,Glaser,,
-BO0624_88655,471425,123,135,"- Pfeife, reich dekoriert. 17. Jahrhundert. Gek. Abbildung Tafel 4.",328,100.0,False,positional,,,Glaser,,
+BO0624_88655,471425,123,135,"- Pfeife, reich dekoriert. 17. Jahrhundert. Gek. Abbildung Tafel 4.",328,100.0,False,positional,,,Glaser,,Sec. XVII
 BO0624_88655,471426,124,136,"Grofe Pistole mit Hahn, als Flasche. Abbildung Tafel 4.",329,96.3,False,positional,,,Glaser,,
 BO0624_88655,471427,125,137,Abbildung Tafel 4.,331,89.5,False,positional,,,Glaser,,
 BO0624_88655,471428,126,138,"- Trichter mit Henkel, Mundrand mit gezacktem Faden. (Sprung.) Abbildung Tafel 4.",333,100.0,False,positional,,,Glaser,,
@@ -135,15 +135,15 @@ BO0624_88655,471435,133,145,"2 Platten, feinstes duinnes Glas, mit grinen Kanten
 BO0624_88655,471436,134,146,H. 15 cm.,347,77.8,False,positional,,,Glaser,,
 BO0624_88655,471437,135,147,Kelchglas mit breittrichterformigem Kelch und 4paf Hohlknauf. Venedig 16.—17.Jahrh.,349,97.6,False,positional,,,Glaser,,
 BO0624_88655,471438,136,148,- 8 2 Kelche auf Hohlfuf mit geschnittenem Wappen. Abbildung Tafel 6.,351,100.0,False,positional,,,COPPE,,
-BO0624_88655,471439,137,149,2 Sektkelche mit matt geschnittener Mundrandborte. 17. Jahrh.,352,96.7,False,positional,,,Glaser,,
-BO0624_88655,471440,138,150,Kleiner Kelch mit incorp. Fadenstreifen in vier Farben. Venedig 16. Jahrhundert. Abbildung Tafel 7.,353,97.9,False,positional,,,Glaser,,
-BO0624_88655,471441,139,151,"Zylinderbecher mit vielfach verstrickten Faden,Streifen weif. Venedig 16. Jahrh. Abbildung Tafel 7.",354,97.9,False,positional,,,Glaser,,
+BO0624_88655,471439,137,149,2 Sektkelche mit matt geschnittener Mundrandborte. 17. Jahrh.,352,96.7,False,positional,,,Glaser,,Sec. XVII
+BO0624_88655,471440,138,150,Kleiner Kelch mit incorp. Fadenstreifen in vier Farben. Venedig 16. Jahrhundert. Abbildung Tafel 7.,353,97.9,False,positional,,,Glaser,,Sec. XVI
+BO0624_88655,471441,139,151,"Zylinderbecher mit vielfach verstrickten Faden,Streifen weif. Venedig 16. Jahrh. Abbildung Tafel 7.",354,97.9,False,positional,,,Glaser,,Sec. XVI
 BO0624_88655,471442,140,152,"- Pokal aus Fadenglas, trichterformig,FuBplatte Silber.Venedig 16. J.",356,100.0,False,positional,,,Glaser,,
 BO0624_88655,471443,141,153,"GroBe Henkelkanne, weifes Fadenglas (Henkel Sprung). Venedig 16.Jahrhundert. H.28 cm. Abbildung Tafel 7.",357,98.0,False,positional,,,Glaser,,
 BO0624_88655,471444,142,154,Abbildung Tafel 7.,359,89.5,False,positional,,,Glaser,,
 BO0624_88655,471445,143,155,"- 5 Kannchen w. o., mit gebugtem Mundrand, rot gerandert. Bohmen. Abbildung Tafel 7.",361,100.0,False,title_direct,,Bohmen,,,
 BO0624_88655,471446,144,160,"Becher, gesch weift m. aufrechten wechselnd. Fadenstreifen. Bohmen.",362,96.9,False,title_direct,,Bohmen,VASI,,
-BO0624_88655,471447,145,161,"Kleines Flaschchen,farbige Streifen. Deutsch 18. Jahrhundert. Abbildung Tafel 7.",364,97.4,False,positional,,,Glaser,,
+BO0624_88655,471447,145,161,"Kleines Flaschchen,farbige Streifen. Deutsch 18. Jahrhundert. Abbildung Tafel 7.",364,97.4,False,positional,,,Glaser,,Sec. XVIII
 BO0624_88655,471448,146,165,"Kleines Biedermeierbadglas, Kugelform. Mit Ansicht von Rakoczy.",368,96.8,False,positional,,,Glaser,,
 BO0624_88655,471449,147,166,"- 6 Flasche, flache Form. Rotes Ueberfangglas.",370,100.0,False,positional,,,Glaser,,
 BO0624_88655,471450,148,167,"- 2 Kristallkaraffen,Biedermeier.",372,100.0,False,positional,,Biedermeier,Glaser,,
@@ -194,14 +194,14 @@ BO0624_88655,471494,192,213,"- desgleichen, Adam und Eva in bunter Umrahmung.",4
 BO0624_88655,471495,193,214,- 215,455,100.0,False,positional,,,Miniaturen; Dosen; Silhouetten,,
 BO0624_88655,471496,194,1,"grofe, 2 kleine desgleichen.",457,96.3,False,positional,,,Miniaturen; Dosen; Silhouetten,,
 BO0624_88655,471497,195,216,"4 Klosterarbeiten und 1 kleine gerahmte Litho ,Maria mit Kind"".",458,96.8,False,positional,,,Miniaturen; Dosen; Silhouetten,,
-BO0624_88655,471498,196,217,"Speiseservice, 40teilig, bestehend aus: 1 ovale Suppenschuissel, 1 Sauciere, 1 Butterdose, 1 Senftopf, 2 Salznapfchen, 6 tiefe Teller, 6 flache Teller, 3 Kummen (verschieden grof), 8 ovale Platten (verBlumendekor, Korbrand, Ludwigsburg, 18. Jahrh.",462,99.1,False,positional,,Manifattura di Ludwigsburg,PIATTI,,
+BO0624_88655,471498,196,217,"Speiseservice, 40teilig, bestehend aus: 1 ovale Suppenschuissel, 1 Sauciere, 1 Butterdose, 1 Senftopf, 2 Salznapfchen, 6 tiefe Teller, 6 flache Teller, 3 Kummen (verschieden grof), 8 ovale Platten (verBlumendekor, Korbrand, Ludwigsburg, 18. Jahrh.",462,99.1,False,positional,,Manifattura di Ludwigsburg,PIATTI,,Sec. XVIII
 BO0624_88655,471499,197,218,"Kleine runde Schissel, Blumendekor, Wien. Neu.",464,95.5,False,positional,,Scuola Viennese,Porzellan; Fayence,,
 BO0624_88655,471500,198,219,- Aufsatz. Porzellankorb von 3 Frauenfiguren aus Biskuit getragen. Porzellansockel. Weif mit Gold. Empire.,466,100.0,False,title_direct,,,OGGETTI IN ORO,,
 BO0624_88655,471501,199,220,Vase in Urnenform. Gedeckelt. Weif. Berlin.,467,95.1,False,positional,,Scuola di Berlino,VASI,,
 BO0624_88655,471502,200,221,"- Blumenmadchen,Meifen,neu.",469,100.0,False,positional,,,Porzellan; Fayence,,
 BO0624_88655,471503,201,222,- 223,471,100.0,False,positional,,,Porzellan; Fayence,,
-BO0624_88655,471504,202,224,Der kleine Schaffler. Biskuit. Hochst. 18. Jahrh.,474,95.7,False,positional,,Manifattura di Hochst,Porzellan; Fayence,,
-BO0624_88655,471505,203,225,wigsburg. 19. Jahrh.,476,89.5,False,positional,,,Porzellan; Fayence,,
+BO0624_88655,471504,202,224,Der kleine Schaffler. Biskuit. Hochst. 18. Jahrh.,474,95.7,False,positional,,Manifattura di Hochst,Porzellan; Fayence,,Sec. XVIII
+BO0624_88655,471505,203,225,wigsburg. 19. Jahrh.,476,89.5,False,positional,,,Porzellan; Fayence,,Sec. XIX
 BO0624_88655,471506,204,226,- 6Astronomia. Frankenthal. 18.Jahrh.,478,100.0,False,positional,,,Porzellan; Fayence,,
 BO0624_88655,471507,205,277,Tasse mit Ut. Blumendekor. Ludwigsburg.,479,94.7,False,positional,,Manifattura di Ludwigsburg,Porzellan; Fayence,,
 BO0624_88655,471508,206,228,Grobe Mohrengruppe. Dreifigurig auf Rokailsockel.,480,95.9,False,positional,,,Porzellan; Fayence,,
@@ -211,13 +211,13 @@ BO0624_88655,471511,209,231,"Kaffeeservice, bestehend aus: 12 Tassen mit Ut., zw
 BO0624_88655,471512,210,232,"1 Meifner,1 Wiener Teller,verschiedener Dekor. Dazu 2 kleine moderne Teller.",485,97.4,False,positional,,,PIATTI,,
 BO0624_88655,471513,211,233,"Kaffee trinkende Dame, an einem Tisch sitzend. Ludwigsburg. 18. J.",486,96.8,False,positional,,Manifattura di Ludwigsburg,Porzellan; Fayence,,
 BO0624_88655,471514,212,234,"Kanne mit Korbrand, auf drei Fifen. Blumendekor. Ludwigsburg.",487,96.6,False,positional,,Manifattura di Ludwigsburg,Porzellan; Fayence,,
-BO0624_88655,471515,213,235,Apoll mit Leyer. Ludwigsburg. 18. Jahrh.,488,94.7,False,positional,,Manifattura di Ludwigsburg,Porzellan; Fayence,,
-BO0624_88655,471516,214,236,"Speiseservice, 152teilig, bestehend aus: 4 runde Suppenschisseln, 1 langliche desgl., 1 ovale Bratenschissel, 3 ovale Fruchtschalen, 2 Sektkihler, 3 Salzfasser,1 hohe Fruchtschale,2 hohe runde Konfektschalen,1 runde Eierschale mit Deckel, 9 Fruchtschalen mit Henkeln (verschieden grof), 11 Kummen (verschieden grof), 16 Teller und Schisseln (verschieden grof), 97 Braten- und Suppenteller. Blumendekor. Meifen. Anfang 19. Jahrh. Abbildung Tafel 8.",489,99.5,False,positional,,,COPPE,,
-BO0624_88655,471517,215,237,2 gebauchte Kaffeekannen. Blumendekor. Ludwigsburg. 18. Jahrh. Deckel fehlen. dreieckige Platten. Korbrand. Farbiger Blumendekor. Ludwigs-,490,70.0,False,positional,,Manifattura di Ludwigsburg,PIATTI,,
-BO0624_88655,471518,216,238,burg. 18. Jahrh.,492,86.7,False,positional,,,Porzellan; Fayence,,
+BO0624_88655,471515,213,235,Apoll mit Leyer. Ludwigsburg. 18. Jahrh.,488,94.7,False,positional,,Manifattura di Ludwigsburg,Porzellan; Fayence,,Sec. XVIII
+BO0624_88655,471516,214,236,"Speiseservice, 152teilig, bestehend aus: 4 runde Suppenschisseln, 1 langliche desgl., 1 ovale Bratenschissel, 3 ovale Fruchtschalen, 2 Sektkihler, 3 Salzfasser,1 hohe Fruchtschale,2 hohe runde Konfektschalen,1 runde Eierschale mit Deckel, 9 Fruchtschalen mit Henkeln (verschieden grof), 11 Kummen (verschieden grof), 16 Teller und Schisseln (verschieden grof), 97 Braten- und Suppenteller. Blumendekor. Meifen. Anfang 19. Jahrh. Abbildung Tafel 8.",489,99.5,False,positional,,,COPPE,,Sec. XIX
+BO0624_88655,471517,215,237,2 gebauchte Kaffeekannen. Blumendekor. Ludwigsburg. 18. Jahrh. Deckel fehlen. dreieckige Platten. Korbrand. Farbiger Blumendekor. Ludwigs-,490,70.0,False,positional,,Manifattura di Ludwigsburg,PIATTI,,Sec. XVIII
+BO0624_88655,471518,216,238,burg. 18. Jahrh.,492,86.7,False,positional,,,Porzellan; Fayence,,Sec. XVIII
 BO0624_88655,471519,217,239,"Hirschgruppe. Hirsch, der 2 Hunde abkampft. Ludwigsburg. 18. J.",493,96.6,False,positional,,Manifattura di Ludwigsburg,Porzellan; Fayence,,
 BO0624_88655,471520,218,240,- 2 Biedermeierfigirchen. Knabe und Madchen. Farbig bemalt.,495,100.0,False,positional,,,Porzellan; Fayence,,
-BO0624_88655,471521,219,241,"Speiseservice,26teilig,bestehend aus: 6 flache Teller,6 tiefe Teller, 1 Suppenterrine rund, 1 Sauciere, 2 grofe und 2 kleine ovale Platten,2 groBe und 1 kleinere runde Platten,1 Kumme, 4 kleinere runde Schisseln. Korbrand, farbiger Blumendekor. Ludwigsburg. 18. Jahrh.",496,99.2,False,positional,,Manifattura di Ludwigsburg,PIATTI,,
+BO0624_88655,471521,219,241,"Speiseservice,26teilig,bestehend aus: 6 flache Teller,6 tiefe Teller, 1 Suppenterrine rund, 1 Sauciere, 2 grofe und 2 kleine ovale Platten,2 groBe und 1 kleinere runde Platten,1 Kumme, 4 kleinere runde Schisseln. Korbrand, farbiger Blumendekor. Ludwigsburg. 18. Jahrh.",496,99.2,False,positional,,Manifattura di Ludwigsburg,PIATTI,,Sec. XVIII
 BO0624_88655,471522,220,242,"36 flache Teller, 7 tiefe Teller,1 groBe, 1 kleine ovale Platte,2 kleine ovale Plattchen. Dekor und Befund wie oben. 2 kleine, 1 grofer ovaler Korb. Durchbrochener Rand. Befund wie oben.",497,98.9,False,positional,,,PIATTI,,
 BO0624_88655,471523,221,243,- 244,500,100.0,False,positional,,,Porzellan; Fayence,,
 BO0624_88655,471524,222,245,- 6 Miniaturfigirchen.Biedermeier.,502,100.0,False,positional,,Biedermeier,Porzellan; Fayence,,
@@ -227,10 +227,10 @@ BO0624_88655,471527,225,246,2 zylindrische BiedermeiertaBchen. Bunt- und Golddek
 BO0624_88655,471528,226,247,"2 Pfeifenkopfe,1 Pfeife. Wappen- und figurlicher Dekor.",506,96.3,False,positional,,,OGGETTI VARI,,
 BO0624_88655,471529,227,248,"- Kaffeeservice, 5teilig, mit Blumendekor. Neu-Nympfenburg.",508,100.0,False,positional,,,Porzellan; Fayence,,
 BO0624_88655,471530,228,250,250,510,100.0,False,positional,,,Porzellan; Fayence,,
-BO0624_88655,471531,229,251,"Speiseservice, 50teilig, bestehend aus:6 Suppenteller, 28 groBe Speiseteller, 11 kleinere Teller, 6 Obstteller, 2 grobe Teller, Schale, grofe ovale Platte, grobe Fischplatte, 2 Saucieren, Teller mit Blutterglocke, 1 Salzfafchen. Goldrand, Frichte- und Blumendekor. Meifen. 19. Jahrh.",513,99.2,False,positional,,,OGGETTI VARI,,
+BO0624_88655,471531,229,251,"Speiseservice, 50teilig, bestehend aus:6 Suppenteller, 28 groBe Speiseteller, 11 kleinere Teller, 6 Obstteller, 2 grobe Teller, Schale, grofe ovale Platte, grobe Fischplatte, 2 Saucieren, Teller mit Blutterglocke, 1 Salzfafchen. Goldrand, Frichte- und Blumendekor. Meifen. 19. Jahrh.",513,99.2,False,positional,,,OGGETTI VARI,,Sec. XIX
 BO0624_88655,471532,230,252,- Tasse mit Untertasse. Blau mit reichem Golddekor.,515,100.0,False,positional,,,Porzellan; Fayence,,
 BO0624_88655,471533,231,253,"- Tanzerin, farbig bemalt. Neu-Meifen.",517,100.0,False,positional,,,Porzellan; Fayence,,
-BO0624_88655,471534,232,254,stick. Ludwigsburg. 18. Jahrh.,519,92.9,False,positional,,Manifattura di Ludwigsburg,Porzellan; Fayence,,
+BO0624_88655,471534,232,254,stick. Ludwigsburg. 18. Jahrh.,519,92.9,False,positional,,Manifattura di Ludwigsburg,Porzellan; Fayence,,Sec. XVIII
 BO0624_88655,471535,233,255,- Amor im Fangeisen. Farbig bemalt. Neu-Meifen.,521,100.0,False,positional,,,Porzellan; Fayence,,
 BO0624_88655,471536,234,256,- 257,523,100.0,False,positional,,,Porzellan; Fayence,,
 BO0624_88655,471537,235,259,259,525,100.0,False,positional,,,Porzellan; Fayence,,
@@ -446,12 +446,12 @@ BO0624_88655,471746,444,483,Hollandischer Patrizier in blauem Rock mit Krug und 
 BO0624_88655,471747,445,484,Der Dorfwirt. Oel auf Pappe. 17:11 cm. Bez. Hans Best.,963,96.1,False,title_direct,Hans Best,,,,
 BO0624_88655,471748,446,485,- 486,968,100.0,False,positional,Rosa Bonheur,,,,
 BO0624_88655,471749,447,2,Studien. Ochsen und Schafe. Oel auf Leinwand. 17:21 cm.,969,98.1,False,positional,Rosa Bonheur,,,,
-BO0624_88655,471750,448,487,Mannliches Portrat. Oel auf Leinw. 50:45 cm. Bez. C.Brinner 1873.,977,96.8,False,title_direct,C. Brinner,,,,
+BO0624_88655,471750,448,487,Mannliches Portrat. Oel auf Leinw. 50:45 cm. Bez. C.Brinner 1873.,977,96.8,False,title_direct,C. Brinner,,,,Sec. XIX
 BO0624_88655,471751,449,488,Damenbildnis. Oel auf Leinwand. 52:44 cm.,978,95.0,False,positional,C. Brinner,,,,
-BO0624_88655,471752,450,489,- Fruchtestilleben. Oel auf Pappe. 32:27 cm. Bez. C. B. 1895.,980,100.0,False,positional,C. Brinner,,,,
+BO0624_88655,471752,450,489,- Fruchtestilleben. Oel auf Pappe. 32:27 cm. Bez. C. B. 1895.,980,100.0,False,positional,C. Brinner,,,,Sec. XIX
 BO0624_88655,471753,451,490,- Kircheninterieur.Oel auf Leinwand. 63:42.,982,100.0,False,positional,C. Brinner,,,,
 BO0624_88655,471754,452,491,Italienische Landschaft. Oel auf Holz. 22:28 cm. Bez. A. Calame.,986,96.7,False,positional,Arthur Calame,,OGGETTI IN LEGNO,,
-BO0624_88655,471755,453,492,Bez. J. Castell 1861.,991,90.0,False,title_direct,J. Castell,,,,
+BO0624_88655,471755,453,492,Bez. J. Castell 1861.,991,90.0,False,title_direct,J. Castell,,,,Sec. XIX
 BO0624_88655,471756,454,493,- Mutter und Kind. Oel auf Leinwand. 46:36 cm.,996,100.0,False,positional,Jean Baptist Simeon Chardin,,,,
 BO0624_88655,471757,455,494,Heimkehr vom Markt. Oel auf Leinwand. 46:36 cm.,997,95.7,False,positional,Jean Baptist Simeon Chardin,,,,
 BO0624_88655,471758,456,495,"- Ziegen und Schafe auf der Weide. Oel auf Leinwand. 29:32 cm. Bez. J. v. Cuylenburg. ## Hugo Dietz, Stuttgart.",1002,87.9,False,title_direct,Hugo Dietz,,,,
@@ -462,7 +462,7 @@ BO0624_88655,471762,460,499,Abend in einem schwabischen Dorf. Im Vordergrund Sch
 BO0624_88655,471763,461,500,Partie aus Alt-Eflingen. Aquarell. 28:22 cm.,1019,95.3,False,positional,F. Eibner,,,,
 BO0624_88655,471764,462,501,Hauser am Brickensteg. Oel auf Leinwand. 53:64 cm. Bez.E.Eimer.,1023,96.7,False,positional,Ernst Eimer,,,,
 BO0624_88655,471765,463,503,Entenfamilie. Oel auf Holz. 60:49.,1031,93.9,False,positional,,Flamische Schule,OGGETTI IN LEGNO,,
-BO0624_88655,471766,464,504,Norwegische Fjordlandschaft. Im Vordergrund Fischerhaus mit figurlicher Staffage. Oel auf Leinwand. 55:73 cm. Bez. P. Franken 1852.,1035,98.4,False,positional,Paul von Franken,Famiglia Francken,,,
+BO0624_88655,471766,464,504,Norwegische Fjordlandschaft. Im Vordergrund Fischerhaus mit figurlicher Staffage. Oel auf Leinwand. 55:73 cm. Bez. P. Franken 1852.,1035,98.4,False,positional,Paul von Franken,Famiglia Francken,,,Sec. XIX
 BO0624_88655,471767,465,505,Norwegische Fjordlandschaft. Gegenstick. Bez. P. Franken.,1036,96.3,False,positional,Paul von Franken,Famiglia Francken,,,
 BO0624_88655,471768,466,506,Bildnis eines jungen Mannes (Robert Finley) aus der Biedermeier-,1040,96.8,False,positional,Ernst Fries,Biedermeier,,,
 BO0624_88655,471769,467,507,Mannliches Bildnis. Bleistiftzeichnung. 29:20 cm.,1042,95.8,False,positional,Ernst Fries,,,,
@@ -512,7 +512,7 @@ BO0624_88655,471812,510,I,n der Karavanserei. Oel auf Leinwand. 57:97 cm. Abbild
 BO0624_88655,471813,511,559,wand. 38:53 cm. Bez. Fr. Keller.,1176,93.1,False,positional,Prof. Friedr. von Keller,,,,
 BO0624_88655,471814,512,560,- Steinbruch. Oel auf Leinwand. 26:36 cm. Bez. Keller.,1178,100.0,False,positional,Prof. Friedr. von Keller,,,,
 BO0624_88655,471815,513,561,Alter Hof. Oel auf Leinwand. 30:42 cm. Letzter Sonnenstrahl. Oel auf Leinwand. 92:137 cm. Bez. P. W.,1182,76.2,False,positional,Paul Wilhelm von Keller-Reutlingen,,,,
-BO0624_88655,471816,514,562,Keller-Reutlingen 1900.,1183,91.7,False,title_direct,Paul Wilhelm von Keller-Reutlingen,,,,
+BO0624_88655,471816,514,562,Keller-Reutlingen 1900.,1183,91.7,False,title_direct,Paul Wilhelm von Keller-Reutlingen,,,,Sec. XX
 BO0624_88655,471817,515,564,564,1185,100.0,False,positional,Paul Wilhelm von Keller-Reutlingen,,,,
 BO0624_88655,471818,516,565,Bauer mit Pfeife. Oel auf Holz. 17:12 cm. Bez. W. Klein.,1194,96.2,False,title_direct,W. Klein,,OGGETTI IN LEGNO,,
 BO0624_88655,471819,517,566,Bauer mit Weinglas. Gegenstick.,1195,93.5,False,positional,W. Klein,,,,
@@ -543,14 +543,14 @@ BO0624_88655,471843,541,589,Kirchen-Inneres. Oel auf Pappe. 56:43 cm.,1293,95.0,
 BO0624_88655,471844,542,590,Greis mit Brille. Oel auf Leinwand. 61:44 cm.,1297,95.5,False,positional,Josef Nogari,,,,
 BO0624_88655,471845,543,591,- 592,1302,100.0,False,positional,A. Oberlander,,,,
 BO0624_88655,471846,544,593,- Vaterfreuden. Federzeichnung. 21:18 cm. Bez. Oberlander.,1304,100.0,False,title_direct,A. Oberlander,,,,
-BO0624_88655,471847,545,594,Kartenspielende Bauerngesellschaft in einer Schenke. Oel auf Leinwand. 60:75 cm. Bez. J. v. Ostade 1645.,1313,98.0,False,positional,Isaac von Ostade,,,,
+BO0624_88655,471847,545,594,Kartenspielende Bauerngesellschaft in einer Schenke. Oel auf Leinwand. 60:75 cm. Bez. J. v. Ostade 1645.,1313,98.0,False,positional,Isaac von Ostade,,,,Sec. XVII
 BO0624_88655,471848,546,5,Landschaft bei Flims. Oel auf Holz. 32:40 cm. Bez. P. F. Peters.,1317,99.1,False,title_direct,P. F. Peters,,OGGETTI IN LEGNO,,
 BO0624_88655,471849,547,596,- Junger Mann mit Geige. Oel auf Leinwand. 63:50 cm.,1322,100.0,False,positional,S. del Piombo,,,,
 BO0624_88655,471850,548,597,- Junge Romerin. Oel auf Leinwand. 64:50 cm.,1324,100.0,False,positional,S. del Piombo,,,,
 BO0624_88655,471851,549,600,## Kopie nach Rembrandt.,1335,100.0,False,title_direct,Rembrandt,,,,
 BO0624_88655,471852,550,601,Selbstbildnis. Oel auf Leinwand. 53:42 cm.,1338,95.1,False,positional,Rembrandt,,,,
 BO0624_88655,471853,551,602,Kopf eines alten bartigen Mannes mit Turban. Oel auf H. 25:20 cm. Monogrammiert T. M.,1339,97.6,False,positional,Rembrandt,,,,
-BO0624_88655,471854,552,603,Kuh und Schafe auf der Weide. Links daneben sitzt der Hirte. Oel auf Leinwand. 32:44 cm. Bez. Roos J. 1761. Abbildung Tafel 11.,1343,98.3,False,positional,Josef Ro0s,,,,
+BO0624_88655,471854,552,603,Kuh und Schafe auf der Weide. Links daneben sitzt der Hirte. Oel auf Leinwand. 32:44 cm. Bez. Roos J. 1761. Abbildung Tafel 11.,1343,98.3,False,positional,Josef Ro0s,,,,Sec. XVIII
 BO0624_88655,471855,553,604,"- Ochs, Schafe und Ziege auf der Weide mit Hirten. Gegenstuick.",1345,100.0,False,positional,Josef Ro0s,,,,
 BO0624_88655,471856,554,605,Weidende Viehherde. Links vor einer Ruine Hirte zu Pferd mit Kuihen am Brunnen. Rechts Ziegenherde. Oel auf Leinw. 72:97 cm.,1349,98.3,False,positional,Philipp Peter Roos,,,,
 BO0624_88655,471857,555,606,A.Sachs.,1355,77.8,False,title_direct,A. Sachs,,,,
@@ -566,7 +566,7 @@ BO0624_88655,471866,564,617,- Belehrung Maria. Oel auf Leinwand. 195:140 cm.,139
 BO0624_88655,471867,565,618,Ungarische Bauernkirchweih. Oel auf Holz. 21:31 cm.,1399,96.0,False,positional,Julius Schoppe,,OGGETTI IN LEGNO,,
 BO0624_88655,471868,566,619,2 Blumenstilleben. Oel auf Leinwand. 47:40 cm.,1400,95.6,False,positional,Julius Schoppe,,OGGETTI VARI,,
 BO0624_88655,471869,567,620,Waldteich.Oel auf Leinwand.21:30 cm.,1401,94.6,False,positional,Julius Schoppe,,,,
-BO0624_88655,471870,568,621,- Fliehende Krieger zu Pferd. Oel auf Holz. (Um 1700.) 25:32 cm.,1403,100.0,False,positional,Julius Schoppe,,OGGETTI IN LEGNO,,
+BO0624_88655,471870,568,621,- Fliehende Krieger zu Pferd. Oel auf Holz. (Um 1700.) 25:32 cm.,1403,100.0,False,positional,Julius Schoppe,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88655,471871,569,622,"Stilleben mit Vasen, Truhen, Stoffen und Tichern. Oel auf Lein-",1404,96.7,False,title_direct,,,BAULI,,
 BO0624_88655,471872,570,623,Abendlandschaft.Oel auf Leinwand. 36:47 cm.,1406,95.3,False,positional,Julius Schoppe,,,,
 BO0624_88655,471873,571,624,Bildnis einer Spanierin. Oel auf Leinwand. 38:30 cm.,1407,96.1,False,positional,Julius Schoppe,,,,
@@ -577,7 +577,7 @@ BO0624_88655,471877,575,628,Madonna.Oel auf Leinwand. 34:28 cm.,1412,94.3,False,
 BO0624_88655,471878,576,629,Weidendes Vieh mit Hirte und Hirtin. Oel auf Leinwand. 37:50 cm.,1413,96.8,False,positional,Julius Schoppe,,,,
 BO0624_88655,471879,577,631,631,1415,100.0,False,positional,Julius Schoppe,,,,
 BO0624_88655,471880,578,632,Madonna mit Kind. Oel auf Leinwand. 26:20 cm. 632a Christus am Brunnen.,1418,97.1,False,positional,Julius Schoppe,,,,
-BO0624_88655,471881,579,633,"## Lodewigck de Vadder, 1655, Brissel.",1425,100.0,False,title_direct,Lodewigck de Vadder,,,,
+BO0624_88655,471881,579,633,"## Lodewigck de Vadder, 1655, Brissel.",1425,100.0,False,title_direct,Lodewigck de Vadder,,,,Sec. XVII
 BO0624_88655,471882,580,634,esel. Oel auf Leinwand. 50:60 cm.,1428,93.8,False,positional,Lodewigck de Vadder,,,,
 BO0624_88655,471883,581,635,2 romantische Landschaften. Aquarelle auf Pappe. 34:49 cm. Bez.,1432,96.7,False,positional,Joh. Georg Wagner,,,,
 BO0624_88655,471884,582,636,Abend am Teich. Oel auf Leinw. 23:38 cm. Bez. C. Wassenegger.,1437,96.5,False,title_direct,C. Wassenegger,,,,
@@ -603,7 +603,7 @@ BO0624_88655,471903,601,655,15 Stiche nach Shakespeareschen Dramen usw.,1477,95.
 BO0624_88655,471904,602,656,8 verschiedene Stiche in gleichem Rahmen.,1478,95.2,False,title_direct,,,Stiche,,
 BO0624_88655,471905,603,657,PreuBisches Militar. 2 kleine kol. Stiche.,1479,95.1,False,title_direct,,,Stiche,,
 BO0624_88655,471906,604,658,7 gerahmte Modekupfer. Empire.,1480,93.3,False,positional,,,Stiche,,
-BO0624_88655,471907,605,659,3 desgleichen. 1820/30.,1481,91.3,False,positional,,,Stiche,,
+BO0624_88655,471907,605,659,3 desgleichen. 1820/30.,1481,91.3,False,positional,,,Stiche,,Sec. XIX
 BO0624_88655,471908,606,660,Triberger und Todtnauer Volkstrachten. 2 kol. gerahmte Stiche.,1482,96.7,False,title_direct,,,Stiche,,
 BO0624_88655,471909,607,661,"Zusammenkunft Napoleon I. und Alexander I. Kol. Stich, gerahmt.",1483,96.7,False,positional,,,Stiche,,
 BO0624_88655,471910,608,662,"Der Rothenberg. Kol. Lith., gerahmt.",1484,93.9,False,positional,,,Stiche,,

@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84227,432379,1,4,"Euvre importante, signee a droite et datee : 1811.",74,97.9,False,positional,DAEL,,,,
+BO0624_84227,432379,1,4,"Euvre importante, signee a droite et datee : 1811.",74,97.9,False,positional,DAEL,,,,Sec. XIX
 BO0624_84227,432380,2,6,La Ronde des Amours.,95,95.0,False,positional,DYCK,,,,
 BO0624_84227,432381,3,8,Sainte Famille.,119,93.3,False,positional,,ECOLE FLAMANDE,,,
 BO0624_84227,432382,4,12,- Plat creux en ancienne faience de Rhodes. Il est decoré d'une rosace rayonnante et de compartiments émaillés vert et rouge.,159,98.8,False,positional,,,PIATTI,,
@@ -55,9 +55,9 @@ BO0624_84227,432431,53,66,- Miniature ronde:Portrait d'homme en habit vert et gi
 BO0624_84227,432432,54,67,"Miniature ronde, presentant un portrait de jeune femme en corsage decollete blanc avec ceinture violette, la chevelure ornee d'une coiffe de dentelle et ruban ; fond de paysage. Epoque Louis XVI. Cadre a reverbere en cuivre dore et perles d'email blanc.",350,99.4,False,positional,,,MINIATURE,,
 BO0624_84227,432433,55,68,"Miniature ovale:Portrait d'une fillette en buste,vetue d'un corsage decollete. Elle est montee sur le couvercle d'une boite ronde en ivoire cerclée d'or.Epoque Louis XVI.",351,99.1,False,positional,,,MINIATURE,,
 BO0624_84227,432434,56,69,"Miniature ovale, dans la maniere de SicarDi, presentant un portrait de jeune femme a haute coiffure paree de feurs. Elle est montee sur le couvercle d'une boite ronde en or guilloche et cercle a perles et rosace. Epoque Louis XVI.",352,99.3,False,positional,,,MINIATURE,,
-BO0624_84227,432435,57,70,"— Miniature ovale: Portrait de femme en robe bleue avec fichu et coiffe blancs. Signee : M. M. et datee : 1785. Au revers, cheveux tresses et inscription decoupee en or: Precious remembrance. Cadre medaillon en or.",353,99.3,False,positional,,,MINIATURE,,
+BO0624_84227,432435,57,70,"— Miniature ovale: Portrait de femme en robe bleue avec fichu et coiffe blancs. Signee : M. M. et datee : 1785. Au revers, cheveux tresses et inscription decoupee en or: Precious remembrance. Cadre medaillon en or.",353,99.3,False,positional,,,MINIATURE,,Sec. XVIII
 BO0624_84227,432436,58,I,L,354,66.7,False,title_direct,DAEL,ECOLE FLAMANDE,BRONZES D'AMEUBLEMENT,,
-BO0624_84227,432437,59,72,"Miniature ovale, par IsaBey, signee et datee :1788:Portrait d'un officier anglais. Cadre en cuivre dore.",356,98.5,False,positional,ISABEY EUGENE,,MINIATURE,,
+BO0624_84227,432437,59,72,"Miniature ovale, par IsaBey, signee et datee :1788:Portrait d'un officier anglais. Cadre en cuivre dore.",356,98.5,False,positional,ISABEY EUGENE,,MINIATURE,,Sec. XVIII
 BO0624_84227,432438,60,73,"Miniature ronde, par IsaBey, signee: Portrait d'homme en habit bleu et cravate rouge. Fin du xvie siecle. Cadre en or.",357,98.7,False,positional,ISABEY EUGENE,,MINIATURE,,
 BO0624_84227,432439,61,74,"Miniature ronde, par IsaBEy, signee des initiales : Portrait de jeune femme en robe rose decolletee avec écharpe bleue. Fin du xvine siecle. Cadre en or.",358,99.0,False,positional,ISABEY EUGENE,,MINIATURE,,
 BO0624_84227,432440,62,75,Miniature ronde: Portrait de femme en robe blanche decolletee avec collerette de dentelle. Epoque Empire. Cadre en cuivre.,359,98.7,False,positional,,,MINIATURE,,
@@ -66,7 +66,7 @@ BO0624_84227,432442,64,77,—,361,0.0,False,positional,,,OBJETS DE VITRINE,,
 BO0624_84227,432443,65,78,"8—Petite miniature ovale,probablement de JacQues,non signee et presentant le portrait de l'Imperatrice Marie-Louise. Elle fait pendant a la miniature precedente. Cadre en bronze dore surmonte d'un aigle.",363,99.3,False,positional,,,MINIATURE,,
 BO0624_84227,432444,66,79,"- —Miniature ovale, attribuee a IsaBEy, non signee :Portrait de l'Empereur Napoleon Ier en costume de general. Cadre en cuivre guilloche dore sur fond de velours.",365,100.0,False,positional,ISABEY EUGENE,,MINIATURE,,
 BO0624_84227,432445,67,8,o  Miniature ronde : Portrait de femme assise en toilette de,366,99.1,False,positional,,,MINIATURE,,
-BO0624_84227,432446,68,81,"Miniature ovale, par IsaBey, signee et datee:1817, presen-",368,97.3,False,positional,ISABEY EUGENE,,MINIATURE,,
+BO0624_84227,432446,68,81,"Miniature ovale, par IsaBey, signee et datee:1817, presen-",368,97.3,False,positional,ISABEY EUGENE,,MINIATURE,,Sec. XIX
 BO0624_84227,432447,69,82,"- Broche rectangulaire en or et nacre, avec petite aquarelle,",370,97.4,False,positional,,,OBJETS DE VITRINE,,
 BO0624_84227,432448,70,83,"— Broche rectangulaire en or et nacre, avec petite aquarelle",372,97.4,False,positional,,,OBJETS DE VITRINE,,
 BO0624_84227,432449,71,84,"Statuette en bronze patine et grave de divinite assise de face, drapee dans une longue robe. Le bras droit replie, la main appuyee contre la ceinture. Ancien travail chinois.",376,99.1,False,positional,,,OBJETS VARIES,,

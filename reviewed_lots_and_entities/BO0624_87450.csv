@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_87450,509309,1,1,Niederlandische Schule. Ein vornehmer Herr.,3,97.6,False,none,,,,,
 BO0624_87450,509310,2,2,2.Niederlandische Schule.Ein vornehmer Herr.,4,97.7,False,none,,,,,
 BO0624_87450,509311,3,3,3.Unbekannt. Konig Max I.,5,95.8,False,none,,,,,
-BO0624_87450,509312,4,4,Unbekannt. Christine Charlotte Baronin de Stein nee d'Eiffa 1750.,6,98.4,False,none,,,,,
+BO0624_87450,509312,4,4,Unbekannt. Christine Charlotte Baronin de Stein nee d'Eiffa 1750.,6,98.4,False,none,,,,,Sec. XVIII
 BO0624_87450,509313,5,5,5.Unbekannt. Fin vornehmer Herr.,7,96.8,False,none,,,,,
 BO0624_87450,509314,6,6,6.Unbekannt. Freiherr von Welden 16o9.,8,97.3,False,none,,,,,
 BO0624_87450,509315,7,7,7.Unbekannt. Cardinal Roth.,9,96.2,False,none,ROTH PHILIPP,,,,
@@ -137,7 +137,7 @@ BO0624_87450,509443,135,149,Christian Georg Schutz. Mainlandschaft mit Staffage.
 BO0624_87450,509444,136,150,A. Rosenthal. Abendlandschaft mit Staffage.,180,95.2,False,none,,,,,
 BO0624_87450,509445,137,151,H. Fahr.,182,75.0,False,none,,,,,
 BO0624_87450,509446,138,152,H. Fahr. Partie aus dem Zillerthal.,183,94.1,False,none,,,,,
-BO0624_87450,509447,139,153,Franz Joachim Beich. Landschaft mit Staffage.,184,95.6,False,none,,,,,
+BO0624_87450,509447,139,153,Franz Joachim Beich. Landschaft mit Staffage.,184,95.6,False,none,BEICH JOACHIM FRANZ,,,,
 BO0624_87450,509448,140,154,Munchener Schule. Christus und Magdalena.,185,95.1,False,none,,Scuola di Monaco,,,
 BO0624_87450,509449,141,155,Max Josef Wagenbauer. Gebirgssee mit Staffage.,186,95.7,False,none,,,,,
 BO0624_87450,509450,142,156,Niederlandische Schule. Bauernwirthschaft.,187,95.2,False,none,,,,,
@@ -180,7 +180,7 @@ BO0624_87450,509486,178,191,Peter Breughel.,227,87.5,False,none,BRUEGEL PIETER I
 BO0624_87450,509487,179,31,Landschaft mit Staffage.,228,93.9,False,none,,,,,
 BO0624_87450,509488,180,32,Der babylonische Thurm. Hervorragendes werthvolles Bild.,229,97.3,False,none,,,,,
 BO0624_87450,509489,181,193,Otto Porsche. Jagerlatein. Otto Porsche. Jagerlatein.,230,64.9,False,none,,,,,
-BO0624_87450,509490,182,194,Otto Porsche. Jagerlatein. A. Rosenthal. H. Adam 1823. Italienische Landschaft mit Staffage.,234,71.5,False,none,,,,,
+BO0624_87450,509490,182,194,Otto Porsche. Jagerlatein. A. Rosenthal. H. Adam 1823. Italienische Landschaft mit Staffage.,234,71.5,False,none,,,,,Sec. XIX
 BO0624_87450,509491,183,197,Otto Porsche. Landschaft mit heraufziehendem Gewitter.,236,85.1,False,none,,,,,
 BO0624_87450,509492,184,198,Otto Porsche.,237,85.7,False,none,,,,,
 BO0624_87450,509493,185,41,Im Kampfe ums Dasein.,238,93.0,False,none,,,,,
@@ -197,8 +197,8 @@ BO0624_87450,509503,195,6,205.P. Rembrandt van Ryn.Die Grablegung Christi. Sehr 
 BO0624_87450,509504,196,206,Hans Holbein.Churfirst von Sachsen. Sehr gutes Bild.,249,96.2,False,none,HOLBEIN HANS IL GIOVANE,,,,
 BO0624_87450,509505,197,207,A. Rosenthal. Abendlandschaft.,250,93.1,False,none,,,,,
 BO0624_87450,509506,198,208,Friedrich Voltz.Der Besuch auf der Alm. Sehr gutes Bildchen. Tempel nach Rembrandt.,251,81.7,False,none,REMBRANDT VAN RIJN,,,,
-BO0624_87450,509507,199,209,"J. Th. Ch. Hendschel, Regensburg 1788. Die Darstellung im",253,96.3,False,none,,,,,
-BO0624_87450,509508,200,210,J. Th. Ch. Hendschel 1788. Federzeichnung nach C. Le Peintre.,257,96.5,False,none,,,,,
+BO0624_87450,509507,199,209,"J. Th. Ch. Hendschel, Regensburg 1788. Die Darstellung im",253,96.3,False,none,,,,,Sec. XVIII
+BO0624_87450,509508,200,210,J. Th. Ch. Hendschel 1788. Federzeichnung nach C. Le Peintre.,257,96.5,False,none,,,,,Sec. XVIII
 BO0624_87450,509509,201,211,"Strixner,nach Hemling.I Die Ausgiessung des hl, Geistes. Lithographie u. Gl. u. R.",258,97.4,False,none,,,STAMPE E INCISIONI,,
 BO0624_87450,509510,202,212,Ulmer nach Mignard. Die hi. Cacilie.,259,94.3,False,none,MIGNARD PIERRE,,,,
 BO0624_87450,509511,203,213,"Raphael Morghen, nach Murillo. Die buissende Magdalena. Kupferstich u. Gl. u.R.",263,80.6,False,none,SANZIO RAFFAELLO,,OGGETTI IN RAME,,

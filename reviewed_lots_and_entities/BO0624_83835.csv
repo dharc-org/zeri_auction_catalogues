@@ -23,8 +23,8 @@ BO0624_83835,21646,21,39,"40 — DEUx VAsEs DE PHARMAcIE (Taro), faience hispano
 BO0624_83835,21647,22,41,"GRAND PLAT a ombilic saillant, faience hispano-mauresque. l est emaille interieurement et exterieurement d'email blanc jaunatre. La decoration est executee en jaune chamois a reflets",930,81.8,False,positional,,,PIATTI,,
 BO0624_83835,21648,23,42,"PLAQUE DE REvETEMENT, faience de Valence.xve siecle.",946,97.1,False,positional,,,FAIENCES,,
 BO0624_83835,21649,24,43,"PLAQUE DE REvETEMENT, faience espagnole. Valence, xv siecle. Pendant du numero precedent.",957,98.8,False,positional,,,FAIENCES,,
-BO0624_83835,21650,25,44,"PLAQuE DE REvETEMENT, faience espagnole. Valence, xve siecle. De la meme suite que le numero precedent.",965,98.5,False,positional,,,FAIENCES,,
-BO0624_83835,21651,26,45,"PLAQUE DE REvETEMENT, faience espagnole. Valence, xve siecle. De la meme serie que les trois pieces precedentes.",971,98.6,False,positional,,,FAIENCES,,
+BO0624_83835,21650,25,44,"PLAQuE DE REvETEMENT, faience espagnole. Valence, xve siecle. De la meme suite que le numero precedent.",965,98.5,False,positional,,,FAIENCES,,Sec. XV
+BO0624_83835,21651,26,45,"PLAQUE DE REvETEMENT, faience espagnole. Valence, xve siecle. De la meme serie que les trois pieces precedentes.",971,98.6,False,positional,,,FAIENCES,,Sec. XV
 BO0624_83835,21652,27,46,"— EP1 DE FAITAGE, faience espagnole. xve siecle. Cet epi, dont subsiste seulement la partie superieure, consiste, sur la panse, en une frise decoree d'une serie de motifs d'ornement rappelant un i gothique, traces prealablement sur la terre,a l'aide d'une composition de manganese teinte de violet, accompagnes de fleurons tres stylises, teintes de jaune, le tout se detachant sur un fond d'email blanc.",977,99.6,False,positional,,,FAIENCES,,
 BO0624_83835,21653,28,47,"— Coupe, faience hispano-mauresque. Fin du xve siecle.",982,97.0,False,positional,,,FAIENCES,,
 BO0624_83835,21654,29,48,"PLAT, faience espagnole.Valence,xve siecle.",990,96.5,False,positional,,,PIATTI,,
@@ -56,11 +56,11 @@ BO0624_83835,21679,54,72,"—— CHAINE D'orDRE en argent filigrane. Espagne, fi
 BO0624_83835,21680,55,73,"— Boire, argent battu et repousse. Art espagnol, xvl siecle.",1319,97.3,False,positional,,,ORFEVRERIE CIVILE,,
 BO0624_83835,21681,56,74,"—— PLATEAu rond en or repousse. Espagne, xvn siecle. l presente au centre une rosace et au marli des rinceaux et des cartouches. Il est enrichi de pierreries ainsi que de medaillons",1341,84.8,False,positional,,,ORFEVRERIE CIVILE,,
 BO0624_83835,21682,57,75,"—— EcuELLE en argent doré. Augsbourg, commencement du",1345,97.0,False,positional,,,ORFEVRERIE CIVILE,,
-BO0624_83835,21683,58,76,"NECEssAIRE.Londres,1754-55. l se compose de deux vases a the et un sucrier avec couvercles, en argent, decores de feurs et d'écussons armories. Ils sont contenus dans un écrin en chagrin garni d'argent et presentant la meme armoirie.",1356,94.0,False,positional,,,VASI,,
+BO0624_83835,21683,58,76,"NECEssAIRE.Londres,1754-55. l se compose de deux vases a the et un sucrier avec couvercles, en argent, decores de feurs et d'écussons armories. Ils sont contenus dans un écrin en chagrin garni d'argent et presentant la meme armoirie.",1356,94.0,False,positional,,,VASI,,Sec. XVIII
 BO0624_83835,21684,59,77,— PETITE PLAQuE en émail translucide sur argent. xIve siecle.,1362,97.4,False,positional,,,ORFEVRERIE RELIGIEUSE,,
 BO0624_83835,21685,60,78,"PLAQuE en émail translucide sur relief:la Nativite. Art famand,",1370,97.6,False,positional,,,ORFEVRERIE RELIGIEUSE,,
 BO0624_83835,21686,61,79,—— PeNDANT du numero precedent: la Descente du Christ aux Limbes.,1387,97.6,False,positional,,,ORFEVRERIE RELIGIEUSE,,
-BO0624_83835,21687,62,8,"o— BoITE Aux SAINTEs HuILEs en argent fondu,repousse,grave et dore.Artportugais,1454.",1401,99.4,False,positional,,,SCATOLE,,
+BO0624_83835,21687,62,8,"o— BoITE Aux SAINTEs HuILEs en argent fondu,repousse,grave et dore.Artportugais,1454.",1401,99.4,False,positional,,,SCATOLE,,Sec. XV
 BO0624_83835,21688,63,81,"Groupe en argent repousse, fondu et cisele: la Vierge et l'En- 'Enfant Jesus etaient originairement recouverts de peintures, dont il subsiste encore d'assez nombreuses traces.",1432,78.6,False,positional,,,ORFEVRERIE RELIGIEUSE,,
 BO0624_83835,21689,64,82,"—— BaisEr DE PAix, argent fondu, repousse, cisele et en partie dore. Art espagnol, fin du xve siecle.",1436,98.4,False,positional,,,ORFEVRERIE RELIGIEUSE,,
 BO0624_83835,21690,65,83,"BoITE AUx sAINTEs HuILEs, argent fondu, repousse et dore. Art espagnol,xv siecle.",1451,98.1,False,positional,,,SCATOLE,,
@@ -97,7 +97,7 @@ BO0624_83835,21720,95,I,"l est de forme rectangulaire et muni d'un couvercle bom
 BO0624_83835,21721,96,I,l repose sur quatre pieds hemispheriques.,1947,98.8,False,positional,,,ANTIQUES; OBJETS DIVERS,,
 BO0624_83835,21722,97,115,"—Puprrre de fer forge et cisele. Espagne, xvr siecle.",1964,96.1,False,positional,,,ANTIQUES; OBJETS DIVERS,,
 BO0624_83835,21723,98,116,"Deux FLAMBEAux, fer forge. Espagne, xvr siecle.",1976,95.6,False,positional,,,TORCE,,
-BO0624_83835,21724,99,117,"— ReTABLE en bois et fer, destine a renfermer des reliques. Art espagnol, 1579. l se compose d'un rectangle, divise en trois parties par des colonnes cannelees, entre lesquelles s'ouvrent lateralement deux arcades en plein cintre et, au centre, une arcade surbaissee accom-",1986,83.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_83835,21724,99,117,"— ReTABLE en bois et fer, destine a renfermer des reliques. Art espagnol, 1579. l se compose d'un rectangle, divise en trois parties par des colonnes cannelees, entre lesquelles s'ouvrent lateralement deux arcades en plein cintre et, au centre, une arcade surbaissee accom-",1986,83.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_83835,21725,100,118,"119 —Deux LUTRINs, fer forge. Espagne,.fin du xvr siecle.",1997,96.3,False,positional,,,ANTIQUES; OBJETS DIVERS,,
 BO0624_83835,21726,101,I,"ls reposent sur une base composee de quatre volutes adossees, terminees a leurs extremites par des fleurettes estampees et rapportees.",1999,99.6,False,positional,,,ANTIQUES; OBJETS DIVERS,,
 BO0624_83835,21727,102,120,"— MANCHE DE CoUTEAU LITURGIQUE, buis sculpte. Art italien,",2009,96.4,False,positional,,,ANTIQUES; OBJETS DIVERS,,
@@ -221,7 +221,7 @@ BO0624_83835,21844,219,231,"—PLAQuE rectangulaire. Couly II Noylier, Limoges, 
 BO0624_83835,21845,220,232,"— DEux MEDAILLoNs ovales.Pierre Courteys, Limoges, xvIe siecle. Sur l'un,une Pieta; sur lautre, saint Paul debout, tenant d'une main le glaive, de lautre un volumen; fond bleu; tons gris, violets, jaunes et verts.",3918,99.0,False,positional,,,EMAUX PEINTS,,
 BO0624_83835,21846,221,234,"—TroIs PLAQuEs. Atelier des Courteys,Limoges, xvr siecle.",3927,96.4,False,positional,,,EMAUX PEINTS,,
 BO0624_83835,21847,222,235,"—— PLAQuE rectangulaire.Atelier des Penicaud, Limoges, xvr siecle.",3934,96.8,False,positional,,,EMAUX PEINTS,,
-BO0624_83835,21848,223,236,"— ENsEIGNE DE cHAPEAu.Atelier des Penicaud,Limoges, xvr siecle. De forme ovale, elle presente une dame et un seigneur debout, dans le costume du temps, ce dernier offrant a la dame une branche de feurs. Au-dessus d'eux, on lit le nom :Paris. Tons gris, bleus, verts,violets; fond rouge; rehauts de dorure.",3940,99.3,False,positional,,,EMAUX PEINTS,,
+BO0624_83835,21848,223,236,"— ENsEIGNE DE cHAPEAu.Atelier des Penicaud,Limoges, xvr siecle. De forme ovale, elle presente une dame et un seigneur debout, dans le costume du temps, ce dernier offrant a la dame une branche de feurs. Au-dessus d'eux, on lit le nom :Paris. Tons gris, bleus, verts,violets; fond rouge; rehauts de dorure.",3940,99.3,False,positional,,,EMAUX PEINTS,,Sec. XV
 BO0624_83835,21849,224,237,"— MEDAILLoN. Jean Limousin, Limoges, fin du xvI siecle.",3944,96.1,False,positional,,,EMAUX PEINTS,,
 BO0624_83835,21850,225,238,"—PLAQUE RECTANGULAIRE:le Christ. Jean Limousin, fin du xVI",3964,96.5,False,positional,,,EMAUX PEINTS,,
 BO0624_83835,21851,226,239,"PLAQUE RECTANGULAIRE: la Vierge, par Jean Limousin. Fin du xvr siecle,pendant du numero precedent.",3980,97.9,False,positional,,,EMAUX PEINTS,,
@@ -236,7 +236,7 @@ BO0624_83835,21859,234,248,"—ORNEMENT TERMINAL D'UNE LANIERE, bronze vert. Art
 BO0624_83835,21860,235,249,"—ORNEMENT TERMINAL D'UNE LANIERE.Art barbare,VI siecle. Cet ornement,en forme de patte, est de bronze, divise en compartiments par des moulures saillantes determinant a la surface de l'objet cinq compartiments symetriques sur les bordures desquels se relevent des boutons saillants.",4070,99.3,False,positional,,,BIJOUX,,
 BO0624_83835,21861,236,25,"o—ORNEMENT D'UNE ExTREMITE DE LANIERE.Art barbare,VI siecle.",4074,98.3,False,positional,,,BIJOUX,,
 BO0624_83835,21862,237,251,"— ORNEMENT DE CEINTURE OU DE HARNACHEMENT. Art eSpagnol,",4080,96.3,False,positional,,,BIJOUX,,
-BO0624_83835,21863,238,252,"—PeNDANT DE cou, argent. Art byzantin, xim1° ou xIv siecle. De forme rectangulaire, il est borde sur sa face et son revers d'un ornement perle, puis de rinceaux et de volutes de filigrane, entourant : au revers, une croix a branches égales; sur la face,un chaton central de forme rectangulaire également, enchassant un camee.",4089,99.4,False,positional,,,BIJOUX,,
+BO0624_83835,21863,238,252,"—PeNDANT DE cou, argent. Art byzantin, xim1° ou xIv siecle. De forme rectangulaire, il est borde sur sa face et son revers d'un ornement perle, puis de rinceaux et de volutes de filigrane, entourant : au revers, une croix a branches égales; sur la face,un chaton central de forme rectangulaire également, enchassant un camee.",4089,99.4,False,positional,,,BIJOUX,,Sec. XV
 BO0624_83835,21864,239,253,"——Mors DE cHAPE, argent doré, décore de cristal et de cabochons.",4098,96.7,False,positional,,,BIJOUX,,
 BO0624_83835,21865,240,254,"— ORNEMENT DE CEINTURE, cuivre fligrane et émaille. Art mau-",4113,96.5,False,positional,,,BIJOUX,,
 BO0624_83835,21866,241,255,"—ORNEMENT DE CEINTURE. Art hispano-mauresque,xIv ou xve siecle,cuivre doré, filigrane, enchassant des émaux cloisonnes translucides. a reunion de ces motifs,quatre fois repetes,arrive a donner au medaillon tout entier a peu pres le galbe d'une croix a branches",4131,66.8,False,positional,,,BIJOUX,,
@@ -371,9 +371,9 @@ BO0624_83835,21994,369,381,"BANDEAU en satin broche.xvIl siecle. l presente, sur
 BO0624_83835,21995,370,382,"ORNEMENT D'EGLIsE en soie vieux rose et broderie d'or. xvIr siecle. l se compose d’une chasuble, d’un voile de calice, d’un corporal et d'une étole.Il est orne de rinceaux.",5673,75.8,False,positional,,,ETOFFES; DENTELLES,,
 BO0624_83835,21996,371,383,"— OrNEMeNT d'eglise en satin brode. xvir siecle. l se compose d'une chasuble, d'une chape, de deux dalmatiques, d'un voile de calice, d'un manipule, de deux étoles, de trois mors",5676,84.9,False,positional,,,ETOFFES; DENTELLES,,
 BO0624_83835,21997,372,384,"GRAND PANNEAU en soie brochee. xvIr siecle. l presente, sur un fond rouge damasse,un dessin d’oiseaux et de branches fleuries, en soie jaune brochee,rehaussee de metal.",5684,85.6,False,positional,,,OGGETTI IN METALLO,,
-BO0624_83835,21998,373,385,— Lor de bandes de cuir de Cordoue gaufre et peint. xvin siecle. Le decor consiste en groupes de fruits soutenus par des amours.,5688,98.4,False,positional,,,OGGETTI VARI,,
+BO0624_83835,21998,373,385,— Lor de bandes de cuir de Cordoue gaufre et peint. xvin siecle. Le decor consiste en groupes de fruits soutenus par des amours.,5688,98.4,False,positional,,,OGGETTI VARI,,Sec. XIV
 BO0624_83835,21999,374,386,"— AuMoNIERE en velours et broderie.xvin siecle. Elle est ornee d'un blason de prelat, ainsi que de rinceaux.",5689,98.1,False,positional,,,ETOFFES; DENTELLES,,
-BO0624_83835,22000,375,387,"Tapis en soie et filet. Travail des colonies espagnoles, xvi1 siecle. Le milieu,en moire saumon brodee de soie,presente une rosace",5690,98.4,False,positional,,,ETOFFES; DENTELLES,,
+BO0624_83835,22000,375,387,"Tapis en soie et filet. Travail des colonies espagnoles, xvi1 siecle. Le milieu,en moire saumon brodee de soie,presente une rosace",5690,98.4,False,positional,,,ETOFFES; DENTELLES,,Sec. XIV
 BO0624_83835,22001,376,388,— BANNIERE en satin et peinture. xvIn siecle. Vierge.,5696,96.0,False,positional,,,ETOFFES; DENTELLES,,
 BO0624_83835,22002,377,389,PETITE BANDE en satin brode. xVIn siecle.,5702,95.1,False,positional,,,ETOFFES; DENTELLES,,
 BO0624_83835,22003,378,3,go - Dessus DE LIT. Fin du xvinl siecle.,5704,98.6,False,positional,,,ETOFFES; DENTELLES,,

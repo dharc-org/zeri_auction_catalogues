@@ -1,12 +1,12 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_81921,645251,1,1,a-b,5,75.0,False,none,Scuola di Huet J.B.,,,,
 BO0624_81921,645252,2,2,a-b,9,75.0,False,none,Scuola di Huet J.B.,,,,
-BO0624_81921,645253,3,3,CANDELIERE veneziano in bronzo tornito a balaustra. Secolo XVI.,15,100.0,False,none,,,,,
+BO0624_81921,645253,3,3,CANDELIERE veneziano in bronzo tornito a balaustra. Secolo XVI.,15,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645254,4,5,"Paio di ALARI bresciani in ferro battuto, con piede a volute e finale in bronzo lavorato.",29,100.0,False,none,,,,,
 BO0624_81921,645255,5,6,PoRTA CAMPANA in ferro battuto a volute di fogliami e fiori. Lavoro emiliano del XVll sec.,33,100.0,False,none,,,,,
 BO0624_81921,645256,6,8,"Un paio di CANDELIERI TOsCANI in legno scolpito, dorato e policromato a fondo blu. Piede rettangolare e fusto a balaustra. Secolo XVll.",42,100.0,False,none,,,OGGETTI IN LEGNO,,
 BO0624_81921,645257,7,9,a-b,46,85.7,False,none,Scuola di Huet J.B.,,,,
-BO0624_81921,645258,8,10,"PIATTo MAIOLICA a decorazioni di fogliame ed uccellini gialli e verdi su fondo bianco. La parte centrale e modellata a sgusci. Umbria, secolo XVII.",54,100.0,False,none,,,,,
+BO0624_81921,645258,8,10,"PIATTo MAIOLICA a decorazioni di fogliame ed uccellini gialli e verdi su fondo bianco. La parte centrale e modellata a sgusci. Umbria, secolo XVII.",54,100.0,False,none,,,,,Sec. XVII
 BO0624_81921,645259,9,12,a-b,62,75.0,False,none,Scuola di Huet J.B.,,,,
 BO0624_81921,645260,10,13,a-b,68,66.7,False,none,Scuola di Huet J.B.,,,,
 BO0624_81921,645261,11,14,"INGINOcCHIATOIo in noce scolpito di forma sagomata, con sportello. ornato da una testina di bronzo. La parte superiore a ribalta. Lavoro lucchese del '700.",73,100.0,False,none,,,,,
@@ -19,17 +19,17 @@ BO0624_81921,645267,17,18,d -),119,50.0,False,none,DELACROIX VICTOR EUGENE,Scuol
 BO0624_81921,645268,18,18,c -,121,50.0,False,none,COROT JEAN-BAPTISTE-CAMILLE,Scuola di Corneille Poelenburg,,,
 BO0624_81921,645269,19,20,CREDENZINA in noce sagomata e scolpita a patina bruna contiene un cassetto e due sportelli con tiranti originali in bronzo. Ai lati pilastri a capitello ionico con intaglio a ( crazie ). Riposa su piedi in forma di leoni (restaurati). Lavoro toscano del '600.,128,100.0,False,none,,,,,
 BO0624_81921,645270,20,21,Paio di ALARI in ferro battuto con piede ad arco di stile gotico finemente lavorato. Finali in bronzo. Lavoro toscano della fine del del XVlI secolo.,138,100.0,False,none,,,,,
-BO0624_81921,645271,21,22,TAvOLA in noce patina chiara a un cassetto. Arte toscana della fine del XVI secolo.,144,100.0,False,none,,,,,
+BO0624_81921,645271,21,22,TAvOLA in noce patina chiara a un cassetto. Arte toscana della fine del XVI secolo.,144,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645272,22,23,Due BRACCI PER LUMI a forma di cornucopia porta torciera in legno scolpito e dorato. Lavoro bolognese dei primi anni del 600.,152,100.0,False,none,,,,,
 BO0624_81921,645273,23,24,CANCELLo in ferro battuto finemente lavorato a giorno con finali in bronzo e decorazione a volute. Arte italiana del XVll sec.,160,100.0,False,none,,,,,
 BO0624_81921,645274,24,26,* 27,177,100.0,False,none,,,,,
 BO0624_81921,645275,25,28,CREDENZINA in noce scolpita con cassette a cartella con fregio di dop- pie crazie e volute. Tiranti a maniglie in bronzo; nella parte inferiore 2 sportelli con tiranti in bronzo e pilastri finemente scolpiti. Riposa su piedi di leoni (restaurati). Lavoro toscano della meta del XVll sec. Patina chiara.,185,100.0,False,none,,,,,
 BO0624_81921,645276,26,29,a,193,40.0,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645277,27,29,6,197,40.0,False,none,,,,,
-BO0624_81921,645278,28,31,PoLTRoNA TosCANA in noce. Braccioli diritti : ciabatte a forma di zampe di leone. Ricoperta con velluto giallo contratagliato e bordura di altro velluto arancione dell'epoca. Fine del sec. XVI.,212,100.0,False,none,,,POLTRONE,,
+BO0624_81921,645278,28,31,PoLTRoNA TosCANA in noce. Braccioli diritti : ciabatte a forma di zampe di leone. Ricoperta con velluto giallo contratagliato e bordura di altro velluto arancione dell'epoca. Fine del sec. XVI.,212,100.0,False,none,,,POLTRONE,,Sec. XVI
 BO0624_81921,645279,29,32,"STIPo in noce scolpito a ( bambocci ). La parte superiore offre una teoria di putti musicanti con stemma al centro e vien chiusa a mezzo di 3 cassetti, 1' interno offre 8 cassette laterali e 3 sportelli che racchiudono altri cassettini a segreto. ll tutto poggia su piedi ornati anteriormente da teste di leone. Lavoro probabilmente umbro di stile ligure. XVll sec.",218,100.0,False,none,,,,,
 BO0624_81921,645280,30,33,TAvoLINo IN NoCE scolpito con quattro gambe a colonnine riunite fra loro da traverse. Offre due cassette con tiranti in bronzo. Arte bo- lognese del XVll sec.,230,100.0,False,none,,,ARREDAMENTI,,
-BO0624_81921,645281,31,34,BELLA POLTRoNA toscana in noce. Braccioli leggermente incurvati con rosetta intagliata e traversa a giorno : finali intagliati. Ricoperta di velluto blu zaffiro. Fine sec. XVI.,234,100.0,False,none,,,POLTRONE,,
+BO0624_81921,645281,31,34,BELLA POLTRoNA toscana in noce. Braccioli leggermente incurvati con rosetta intagliata e traversa a giorno : finali intagliati. Ricoperta di velluto blu zaffiro. Fine sec. XVI.,234,100.0,False,none,,,POLTRONE,,Sec. XVI
 BO0624_81921,645282,32,36,Una DETTA pendant del N. 35 TAv. N. 51.,255,100.0,False,none,,,,,
 BO0624_81921,645283,33,37,"ARMADio in noce a patina bruna riccamente scolpito. ll mobile e a 2 s e oe d ap  : oaoe  ns iod a i telli ed hanno al centro 2 cassetti. Bellissimo e raro esemplare del XVll sec., e perfetta conservazione. TAv. N. 21.",259,100.0,False,none,,,,,
 BO0624_81921,645284,34,38,PA10 DI ALARI in ferro battuto terminanti a volute fiorite. Lavoro bergamasco della fine del XVll sec.,271,100.0,False,none,,,,,
@@ -42,12 +42,12 @@ BO0624_81921,645290,40,41,CAssoNE in noce di stile sansovinesco riccamente intag
 BO0624_81921,645291,41,42,a,304,50.0,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645292,42,42,b -Una detta.,310,91.7,False,none,,,,,
 BO0624_81921,645293,43,42,c- d-),312,33.3,False,none,,,,,
-BO0624_81921,645294,44,43,BASSORILIEVo RETTANGOLARE IN STUCCO policromato. La Madonna rappresentata a mezzo corpo si abbandona in dolce meditazione mentre il Bambino sulle sue ginocchia stringe con le due mani un uccellino che tenta di volare. Replica in stucco di un marmo di Tommaso Flamberti. Tabernacolo in legno scolpito e dipinto. Firenze XV sec.,318,100.0,False,none,,,OGGETTI IN LEGNO,,
+BO0624_81921,645294,44,43,BASSORILIEVo RETTANGOLARE IN STUCCO policromato. La Madonna rappresentata a mezzo corpo si abbandona in dolce meditazione mentre il Bambino sulle sue ginocchia stringe con le due mani un uccellino che tenta di volare. Replica in stucco di un marmo di Tommaso Flamberti. Tabernacolo in legno scolpito e dipinto. Firenze XV sec.,318,100.0,False,none,,,OGGETTI IN LEGNO,,Sec. XV
 BO0624_81921,645295,45,45,PoRTA CERo PAsQUALE in ferro battuto con decorazione a volute fiorite e viticci. Bell'esemplare. Sec. XVIl.,327,100.0,False,none,,,,,
-BO0624_81921,645296,46,46,CREDENZA IN NocE scolpito con decorazione baccellata. Offre due cassetti e due sportelli scolpiti e ornati di borchie in legno. Riposa su zampe di leone. Lavoro toscano del XVI sec. di perfetta con- servazione e di bella patina bruna. Tav. N. 24.,333,100.0,False,none,,,,,
+BO0624_81921,645296,46,46,CREDENZA IN NocE scolpito con decorazione baccellata. Offre due cassetti e due sportelli scolpiti e ornati di borchie in legno. Riposa su zampe di leone. Lavoro toscano del XVI sec. di perfetta con- servazione e di bella patina bruna. Tav. N. 24.,333,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645297,47,47,"PoLTRoNA in noce intagliato, con braccioli ricurvi e sostegni e traverse a torciglioni e ricoperta con velluto e frange violacee dell'epoca. Arte ligure del XVll sec.",343,100.0,False,none,,,POLTRONE,,
-BO0624_81921,645298,48,48,"( SAvONAROLA ), Poltrona a stecche, pieghevole, in noce, patina chiara. Cuscino in velluto. Umbria, XVI sec.",349,100.0,False,none,,,POLTRONE,,
-BO0624_81921,645299,49,49,"INGINoccHIAToIo in noce scolpito. Sullo sportello stemma gentilizio e su due delle tre cassette teste di serafini, ai lati due cariatidi. Bell'esemplare di arte bresciana del XVI sec.",353,100.0,False,none,,,,,
+BO0624_81921,645298,48,48,"( SAvONAROLA ), Poltrona a stecche, pieghevole, in noce, patina chiara. Cuscino in velluto. Umbria, XVI sec.",349,100.0,False,none,,,POLTRONE,,Sec. XVI
+BO0624_81921,645299,49,49,"INGINoccHIAToIo in noce scolpito. Sullo sportello stemma gentilizio e su due delle tre cassette teste di serafini, ai lati due cariatidi. Bell'esemplare di arte bresciana del XVI sec.",353,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645300,50,50,b - Una detta.,364,88.0,False,none,,,,,
 BO0624_81921,645301,51,50,c-,366,50.0,False,none,COROT JEAN-BAPTISTE-CAMILLE,Scuola di Corneille Poelenburg,,,
 BO0624_81921,645302,52,50,d-,368,50.0,False,none,DELACROIX VICTOR EUGENE,Scuola di Teniers,AUBUSSONS,,
@@ -67,16 +67,16 @@ BO0624_81921,645315,65,62,d -,458,50.0,False,none,DELACROIX VICTOR EUGENE,Scuola
 BO0624_81921,645316,66,62,e -》,460,50.0,False,none,DELACROIX VICTOR EUGENE,Scuola Toscana,MINIATURE,,
 BO0624_81921,645317,67,62,g -,462,40.0,False,none,BASSANO GIACOMO,Scuola di G. Romney,STAMPE E INCISIONI,,
 BO0624_81921,645318,68,62,f--》 h-,464,33.3,False,none,DROUAIS FRANCOIS-HUBERT,,,,
-BO0624_81921,645319,69,63,MoRIoNE in ferro battuto con ornati sbalzati e dorati a foggia di giglio Farnese. Lavoro del sec. XVI.,470,100.0,False,none,,,,,
+BO0624_81921,645319,69,63,MoRIoNE in ferro battuto con ornati sbalzati e dorati a foggia di giglio Farnese. Lavoro del sec. XVI.,470,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645320,70,64,ALTRo sIMILE con sbalzo a foggia di mezza luna.,474,100.0,False,none,,,,,
 BO0624_81921,645321,71,65,Due CANDELIERI in legno scolpito e dorato con piede triangolare ornato da teste di serafini. Lavoro italiano del XVlI sec.,478,100.0,False,none,,,,,
 BO0624_81921,645322,72,66,VAso di ottone di forma sferica con tre piedi a palla. Sec. XVIl.,484,100.0,False,none,,,VASI,,
 BO0624_81921,645323,73,68,a b,491,66.7,False,none,Scuola di Huet J.B.,,,,
 BO0624_81921,645324,74,69,70,495,57.1,False,none,,,,,
 BO0624_81921,645325,75,71,TAvOLINo in noce a ( bischetto )) con cassetta e quattro piedi a balaustro. Lavoro bolognese del XVll sec. a patina bruna.,503,100.0,False,none,,,ARREDAMENTI,,
-BO0624_81921,645326,76,72,"Paio DI CANDELIERI in bronzo a fusto tornito, e piede triangolare finamente lavorato, poggiante su zampe di leone. Lavoro toscano della fine del XVII sec.",516,100.0,False,none,,,,,
+BO0624_81921,645326,76,72,"Paio DI CANDELIERI in bronzo a fusto tornito, e piede triangolare finamente lavorato, poggiante su zampe di leone. Lavoro toscano della fine del XVII sec.",516,100.0,False,none,,,,,Sec. XVII
 BO0624_81921,645327,77,73,a Due BoccE in vetro sferiche dell'800.,528,97.3,False,none,,,,,
-BO0624_81921,645328,78,74,VAso DI BRoNzo a patina chiara. Lavoro modenese dei primi anni del sec. XVII.,532,100.0,False,none,,,VASI,,
+BO0624_81921,645328,78,74,VAso DI BRoNzo a patina chiara. Lavoro modenese dei primi anni del sec. XVII.,532,100.0,False,none,,,VASI,,Sec. XVII
 BO0624_81921,645329,79,75,Nove PIATTI in maiolica antica fra i quali 4 di Montelupo e 2 Ispano-,536,100.0,False,none,,,PIATTI,,
 BO0624_81921,645330,80,76,a,540,40.0,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645331,81,76,b -Una detta.,545,88.0,False,none,,,,,
@@ -89,13 +89,13 @@ BO0624_81921,645337,87,82,IsTRUMENTo MUSICALE detto ( Girondino ). Lavoro del XV
 BO0624_81921,645338,88,83,a,583,50.0,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645339,89,83,b - Una detta.,588,88.0,False,none,,,,,
 BO0624_81921,645340,90,83,c - d-)）,590,33.3,False,none,,,,,
-BO0624_81921,645341,91,84,"SCATOLA NUZIALE IN LEGNo di forma circolare, con decorazioni foreali in blu scuro su fondo rosso. Nel centro del coperchio due stemmi gentilizi. Lavoro senese del XV sec.",596,100.0,False,none,,,,,
+BO0624_81921,645341,91,84,"SCATOLA NUZIALE IN LEGNo di forma circolare, con decorazioni foreali in blu scuro su fondo rosso. Nel centro del coperchio due stemmi gentilizi. Lavoro senese del XV sec.",596,100.0,False,none,,,,,Sec. XV
 BO0624_81921,645342,92,85,Due BoccE DI vETRo di Murano a forma quadrata delle quali una orlata di smalto bianco. Sec. XVIl.,604,100.0,False,none,,Scuola di Murano,,,
 BO0624_81921,645343,93,86,Otto STEMMI RICAMATI in seta ed oro. Secc. XVIl e XVIll.,610,100.0,False,none,,,,,
-BO0624_81921,645344,94,87,"GRANDE TAvoLA da centro in noce con piedi torniti ad ( asso di coppe ) e con traversa sagomata a decorazione di ( grembiule ) sotto la cintura. Nella cintura o ( tamburo ) vi sono tre tiretti con maniglie di bronzo. Il piano e decorato, sull'orlo, con quattro fletti di cipresso. Bell'esemplare di arte toscana (Pistoia) della fine del secolo XVI con patina bruna scura. Prov. Salvadori, Firenze. TAVOLA N. 32.",614,100.0,False,none,,,COPPE,,
+BO0624_81921,645344,94,87,"GRANDE TAvoLA da centro in noce con piedi torniti ad ( asso di coppe ) e con traversa sagomata a decorazione di ( grembiule ) sotto la cintura. Nella cintura o ( tamburo ) vi sono tre tiretti con maniglie di bronzo. Il piano e decorato, sull'orlo, con quattro fletti di cipresso. Bell'esemplare di arte toscana (Pistoia) della fine del secolo XVI con patina bruna scura. Prov. Salvadori, Firenze. TAVOLA N. 32.",614,100.0,False,none,,,COPPE,,Sec. XVI
 BO0624_81921,645345,95,89,TRITTIco rappresentante nella tavoletta centrale la Madonna col Bam-bino in maesta fra due Sante e sui pannelli laterali due fgure di Santi. Arte marchigiana del XVll sec.,629,100.0,False,none,,,PANNELLI,,
-BO0624_81921,645346,96,90,"FRAMMENTo DI MOBILE composto di due pannelli riccamente scolpiti. separati da pilastri scannellati. Sui pannelli scene bibliche rappre-. sentanti il Sacrifizio d' Isacco e finissime decorazioni di festoni, frutta e grotteschi. Lavoro francese della fine del XVI sec.",637,100.0,False,none,,,PANNELLI,,
-BO0624_81921,645347,97,16,MoBILINo IN NOCE scolpito con un cassetto e uno sportello. Ai lati pilastri scannellati e mensola. Lavoro bresciano della fine del secolo XVI.,645,100.0,False,none,,,,,
+BO0624_81921,645346,96,90,"FRAMMENTo DI MOBILE composto di due pannelli riccamente scolpiti. separati da pilastri scannellati. Sui pannelli scene bibliche rappre-. sentanti il Sacrifizio d' Isacco e finissime decorazioni di festoni, frutta e grotteschi. Lavoro francese della fine del XVI sec.",637,100.0,False,none,,,PANNELLI,,Sec. XVI
+BO0624_81921,645347,97,16,MoBILINo IN NOCE scolpito con un cassetto e uno sportello. Ai lati pilastri scannellati e mensola. Lavoro bresciano della fine del secolo XVI.,645,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645348,98,92,LUCERNINA TosCANA in bronzo a due becchi. XVIll sec.,655,100.0,False,none,,,,,
 BO0624_81921,645349,99,94,CoPERTA lunga composta di parecchi teli di velluto verde smeraldo. Principio del XVlI sec.,664,100.0,False,none,,,,,
 BO0624_81921,645350,100,95,"ture a foggia di figure allegoriche ed offre uno sportello a ribalta con ferrature dell'epoca. L' interno e al solito composto di cassette laterali finamente intagliate e di tre sportelli centrali ornati di figure che celano altri cassetti a segreto. I tiranti dei cassetti sono in bronzo a forma d'aquila ad ali aperte. Lavoro dell'alta talia, XVIl sec.",670,97.8,False,none,,,,,
@@ -103,7 +103,7 @@ BO0624_81921,645351,101,96,"PIcCOLA CREDENZA in noce intagliato, con tre tiretti
 BO0624_81921,645352,102,97,PANCHINA o canape in noce intagliato. La spalliera e a due ordini con intagli e stemma al centro; i braccioli sono diritti e la traversa intagliata. E ricoperta con velluto cremisi dell'epoca. Esemplare rarissimo. XVll sec.,692,100.0,False,none,,,,,
 BO0624_81921,645353,103,99,ORCIo IN TERRAGLIA smaltata di colore giallo bruno. Arte toscana del XVll sec. (Pistoia).,705,100.0,False,none,,,,,
 BO0624_81921,645354,104,100,CoNFESSIONALE IN NOCE SCOLPITO con cappello a stemma gentilizio sostenuto da angioli a cariatidi di forte rilievo. Bell'esemplare di scultura in legno dell' Italia settentrionale del sec. XVIll.,709,100.0,False,none,,,,,
-BO0624_81921,645355,105,101,"VAso IN BRoNzo a forma di pentola con due manici. Modena, XVI sec.",719,100.0,False,none,,,VASI,,
+BO0624_81921,645355,105,101,"VAso IN BRoNzo a forma di pentola con due manici. Modena, XVI sec.",719,100.0,False,none,,,VASI,,Sec. XVI
 BO0624_81921,645356,106,102,Paio DI GRANDI ToRCERE in legno riccamente scolpito. Base triangolare poggiante su zampe di leone. Fusto a balaustro. Arte veneziana sansovinesca del XVll sec.,727,100.0,False,none,,,,,
 BO0624_81921,645357,107,103,a,731,40.0,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645358,108,103,b -Una detta.,737,84.6,False,none,,,,,
@@ -111,53 +111,53 @@ BO0624_81921,645359,109,103,c-),739,40.0,False,none,COROT JEAN-BAPTISTE-CAMILLE,
 BO0624_81921,645360,110,105,TAvOLINo IN NocE con quattro gambe tornite a balaustra e cassetta laterale. Arte bolognese della fine del XVll sec.,750,100.0,False,none,,,ARREDAMENTI,,
 BO0624_81921,645361,111,106,PANCHINA IN NoCE a braccioli con spalliera intagliata e con birilli. Grazioso esemplare toscano del XVlI sec.,760,100.0,False,none,,,,,
 BO0624_81921,645362,112,107,Due PUTTI ALATI porta ceri in noce. Sono in piedi nell'atteggiamento di sorreggere un candelabro (scomparso). Arte del Roccatagliata di finissima esecuzione. Provengono dal Castello di Arcore (Milano). XVIl sec.,766,100.0,False,none,,,,,
-BO0624_81921,645363,113,108,Piccolo CAssoNE da armeria a forma di baule in legno dipinto con insegne araldiche. Arte toscana del XVI sec.,772,100.0,False,none,,,,,
+BO0624_81921,645363,113,108,Piccolo CAssoNE da armeria a forma di baule in legno dipinto con insegne araldiche. Arte toscana del XVI sec.,772,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645364,114,116,GHIRLANDA IN TERRACOTTA smaltata e policromata a frutta e fiori. In,832,100.0,False,none,,,,,
-BO0624_81921,645365,115,117,GRANDE POLTRONA in noce ; ricoperta di velluto antico verde. Braccciuoli ricurvi e traverse traforate. Italia del Nord. Fine del XVI secolo.,840,100.0,False,none,,,POLTRONE,,
-BO0624_81921,645366,116,118,TAvoLA a piano ovale e tamburo rettangolare in noce scolpito. Un cas- setto flettato di legno piu chiaro. I piedi riuniti da quattro traverse formano delle cornici finemente scolpite. Tipo molto raro. Bologna fine del XVI sec. Gia coll. Salvadori. Tav. N. 36.,844,100.0,False,none,,Scuola Bolognese,CORNICI,,
+BO0624_81921,645365,115,117,GRANDE POLTRONA in noce ; ricoperta di velluto antico verde. Braccciuoli ricurvi e traverse traforate. Italia del Nord. Fine del XVI secolo.,840,100.0,False,none,,,POLTRONE,,Sec. XVI
+BO0624_81921,645366,116,118,TAvoLA a piano ovale e tamburo rettangolare in noce scolpito. Un cas- setto flettato di legno piu chiaro. I piedi riuniti da quattro traverse formano delle cornici finemente scolpite. Tipo molto raro. Bologna fine del XVI sec. Gia coll. Salvadori. Tav. N. 36.,844,100.0,False,none,,Scuola Bolognese,CORNICI,,Sec. XVI
 BO0624_81921,645367,117,119,Grande POLTRoNA pieghevoie (tipo detto a ( Dantesca )) in noce scolpita. Sul davanti una rosetta intagliata. Ricoperta in velluto viola con cuscino e frange dell'epoca. Bologna o Venezia. Principio del XVll secolo.,854,100.0,False,none,,Scuola Bolognese,POLTRONE,,
 BO0624_81921,645368,118,121,"MoBILE INGINOcCHIATOIo, in noce scolpito ornato da colonne laterali. Finissimo esemplare dell'arte fiorentina del XVl secolo.",863,100.0,False,none,,,,,
-BO0624_81921,645369,119,122,Bellissima POLTRoNA veneta del XVI secolo in noce scolpito. Bracciuoli ricurvi su balaustri; traverse con scudetti ricoperti di velluto violaceo antico.,869,100.0,False,none,,,POLTRONE,,
-BO0624_81921,645370,120,123,"Due ANGIOLI porta candelabri, inginocchiati, in marmo bianco. (Pietra d' Istria). Stile veneziano. ll dott. Bodmer li attribuisce a Giorgio Sebenico, artista dalmata che lavorava a Venezia verso il 14501475. Lavoro importante della seconda meta del XV secolo. Gia coll. A. Barsanti Roma. Tav. N. 12.",873,100.0,False,none,,,CANDELABRI,,
-BO0624_81921,645371,121,124,Piccolo modello di POLTRoNA in noce con lumeggiature d'oro e ciabatte. Arte toscana della fine del XVI secolo.,879,100.0,False,none,,,POLTRONE,,
-BO0624_81921,645372,122,125,Due BALAUsTRE in noce scolpito e decorate con colonne a fogliami. Arte toscana della fine del XVI sec.,883,100.0,False,none,,,,,
+BO0624_81921,645369,119,122,Bellissima POLTRoNA veneta del XVI secolo in noce scolpito. Bracciuoli ricurvi su balaustri; traverse con scudetti ricoperti di velluto violaceo antico.,869,100.0,False,none,,,POLTRONE,,Sec. XVI
+BO0624_81921,645370,120,123,"Due ANGIOLI porta candelabri, inginocchiati, in marmo bianco. (Pietra d' Istria). Stile veneziano. ll dott. Bodmer li attribuisce a Giorgio Sebenico, artista dalmata che lavorava a Venezia verso il 14501475. Lavoro importante della seconda meta del XV secolo. Gia coll. A. Barsanti Roma. Tav. N. 12.",873,100.0,False,none,,,CANDELABRI,,Sec. XV
+BO0624_81921,645371,121,124,Piccolo modello di POLTRoNA in noce con lumeggiature d'oro e ciabatte. Arte toscana della fine del XVI secolo.,879,100.0,False,none,,,POLTRONE,,Sec. XVI
+BO0624_81921,645372,122,125,Due BALAUsTRE in noce scolpito e decorate con colonne a fogliami. Arte toscana della fine del XVI sec.,883,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645373,123,1,"' insieme misura m. 2,50 x 0,53.",894,96.6,False,none,,,,,
 BO0624_81921,645374,124,128,"INGINoccHIAToIo in noce, con cassette e pilastri finamente scolpiti, sportelli con borchie e tiranti in bronzo. Firenze XVll sec. Proven. Salvadori, Firenze.",898,100.0,False,none,,,,,
 BO0624_81921,645375,125,129,Vaso in maiolica con immagine della Vergine e decorazione foreale policromata su fondo bianco. XVIll sec.,908,100.0,False,none,,,VASI,,
 BO0624_81921,645376,126,130,CAssETTINA in legno dorato e policromato con zampe di leone. XVll s.,914,100.0,False,none,,,OGGETTI IN LEGNO,,
 BO0624_81921,645377,127,131,Una lucerna del XVIll secolo in ottone con piede sagomato e beccucci.,922,100.0,False,none,,,,,
-BO0624_81921,645378,128,132,SEccHIELLo a paniere in ottone con manico. Lavoro toscano della fine del XVII secolo.,926,100.0,False,none,,,,,
-BO0624_81921,645379,129,134,Due CANDELIERI in bronzo torniti a forma di balaustro. Toscana XVII secolo.,935,100.0,False,none,,,,,
+BO0624_81921,645378,128,132,SEccHIELLo a paniere in ottone con manico. Lavoro toscano della fine del XVII secolo.,926,100.0,False,none,,,,,Sec. XVII
+BO0624_81921,645379,129,134,Due CANDELIERI in bronzo torniti a forma di balaustro. Toscana XVII secolo.,935,100.0,False,none,,,,,Sec. XVII
 BO0624_81921,645380,130,135,CANDELIERE in ottone base a tondo e fusto a colonna. Fine del XVll sec.,941,100.0,False,none,,,,,
-BO0624_81921,645381,131,136,BRACCIo PORTA CERO a guisa d' insegna in ferro battuto. Alta Italia XVII sec.,947,100.0,False,none,,,OGGETTI VARI,,
+BO0624_81921,645381,131,136,BRACCIo PORTA CERO a guisa d' insegna in ferro battuto. Alta Italia XVII sec.,947,100.0,False,none,,,OGGETTI VARI,,Sec. XVII
 BO0624_81921,645382,132,137,CoPERTA in velluto contratagliato a piccoli disegni di colore viola su fondo crema. Venezia XVIll secolo.,955,100.0,False,none,,,,,
 BO0624_81921,645383,133,138,Graziosa SEGGIOLINA (( da balia ) con spalliera intagliata a ( tacca ) ricoperta di velluto blu. Lavoro umbro del '600.,961,100.0,False,none,,,,,
-BO0624_81921,645384,134,139,PIccOLo RILIEVo SANsovINEsCo in pastiglia il tutto a doratura con decorazione bulinata. Venezia XVI sec.,967,100.0,False,none,,,,,
-BO0624_81921,645385,135,141,Due PIATTI di ottone con centro a sbalzo e doppio circolo d' iscrizione. XVI sec.,976,100.0,False,none,,,PIATTI,,
+BO0624_81921,645384,134,139,PIccOLo RILIEVo SANsovINEsCo in pastiglia il tutto a doratura con decorazione bulinata. Venezia XVI sec.,967,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645385,135,141,Due PIATTI di ottone con centro a sbalzo e doppio circolo d' iscrizione. XVI sec.,976,100.0,False,none,,,PIATTI,,Sec. XVI
 BO0624_81921,645386,136,143,"GRANDE FRONToNE in legno scolpito con volute, cornucopie e putti che sorreggono una cartella. Arte toscana del '600.",986,100.0,False,none,,,,,
 BO0624_81921,645387,137,144,VAso in bronzo a tre piedi con manico di ferro. Arte bresciana del XVIll sec.,998,100.0,False,none,,,VASI,,
 BO0624_81921,645388,138,145,Paio di ALARI in ferro battuto con piede a volute e sopra grosse palle in bronzo finamente cesellate. Bellissimo lavoro veneziano della fine del '500.,1002,100.0,False,none,,,,,
 BO0624_81921,645389,139,146,Quattro BoccE in vetro dell' 800.,1006,100.0,False,none,,,,,
 BO0624_81921,645390,140,147,"Otto PIATTI di maiolica di epoche diverse : di cui 5 di Valenza, 2 di Montelupo ed uno di fabbrica incerta.",1017,100.0,False,none,,,PIATTI,,
 BO0624_81921,645391,141,148,149,1021,100.0,False,none,,,,,
-BO0624_81921,645392,142,150,MoRIoNE in ferro battuto con giglio Farnese sbalzato e dorato. Sec. XVI.,1027,100.0,False,none,,,,,
-BO0624_81921,645393,143,151,TAPPETINo in velluto controtagliato rosso rubino (Mantellina per Doge veneziano) con disegni di fiori e festoni. Venezia XVI secolo. Bel- lissimo esemplare.,1031,100.0,False,none,,,,,
-BO0624_81921,645394,144,152,"GRANDE TABELLA ARALDICA dipinta su legno con gli stemmi dei Gonfalonieri dei quartieri di Firenze a cominciare dal 1293 fino al XVI sec. Interessante documento storico proveniente dalla Villa del poeta Browning, Firenze. Vedi Tav. B.",1039,100.0,False,none,BROWNING R.B.,,,,
+BO0624_81921,645392,142,150,MoRIoNE in ferro battuto con giglio Farnese sbalzato e dorato. Sec. XVI.,1027,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645393,143,151,TAPPETINo in velluto controtagliato rosso rubino (Mantellina per Doge veneziano) con disegni di fiori e festoni. Venezia XVI secolo. Bel- lissimo esemplare.,1031,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645394,144,152,"GRANDE TABELLA ARALDICA dipinta su legno con gli stemmi dei Gonfalonieri dei quartieri di Firenze a cominciare dal 1293 fino al XVI sec. Interessante documento storico proveniente dalla Villa del poeta Browning, Firenze. Vedi Tav. B.",1039,100.0,False,none,BROWNING R.B.,,,,Sec. XVI
 BO0624_81921,645395,145,154,"Alt.m.0,24.",1050,100.0,False,none,,,,,
-BO0624_81921,645396,146,155,"Una TAvOLA bolognese rettangolare con piedi a balaustro, tavola bruna, sec. XVII.",1060,100.0,False,none,,,,,
+BO0624_81921,645396,146,155,"Una TAvOLA bolognese rettangolare con piedi a balaustro, tavola bruna, sec. XVII.",1060,100.0,False,none,,,,,Sec. XVII
 BO0624_81921,645397,147,156,a-b,1062,66.7,False,none,Scuola di Huet J.B.,,,,
 BO0624_81921,645398,148,157,"Due SEGGIOLE con spalliera a balaustri (birilli) in noce e ricoperte di velluto bleu. Arte toscana del XVll secolo. Gia collezione Salvadori, Firenze.",1078,100.0,False,none,,,,COLLEZIONE SALVADORI,
 BO0624_81921,645399,149,158,"Un TAvoLINo bolognese sec. XVIll, rettangolare, con gambe a balau-",1082,100.0,False,none,,,ARREDAMENTI,,
 BO0624_81921,645400,150,160,Due VAsETTI d'altare in ottone. Italia XVll sec.,1093,100.0,False,none,,,,,
-BO0624_81921,645401,151,161,Due MoRTAI in bronzo XVI sec.,1097,100.0,False,none,,,,,
+BO0624_81921,645401,151,161,Due MoRTAI in bronzo XVI sec.,1097,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645402,152,162,PALIoTTo di velluto verde smeraldo scuro. Venezia XVll secolo composto di quattro teli larghi cm. 50 e lunghi cm. 90. Insieme frammento dello stesso velluto.,1101,100.0,False,none,,,,,
-BO0624_81921,645403,153,163,VAso a rocchetto in antica Faenza italiana a decorazione di fiori e iscrizione gotica ( Balanga 》. Faenza XVI secolo.,1105,100.0,False,none,,Scuola Faentina,VASI,,
+BO0624_81921,645403,153,163,VAso a rocchetto in antica Faenza italiana a decorazione di fiori e iscrizione gotica ( Balanga 》. Faenza XVI secolo.,1105,100.0,False,none,,Scuola Faentina,VASI,,Sec. XVI
 BO0624_81921,645404,154,164,Piccola TAvoLA da centro da lavoro in noce scolpito a decorazione di rosette con piano rettangolare sporgente. Rarissimo. Italia. Ta- vola N. 41. Gia Collez. Barsanti. Roma.,1109,100.0,False,none,,,,,
-BO0624_81921,645405,155,165,"ALToRILIEvo in stucco policromato. Maniera di Jacopo della Quercia 1371-1438 (Periodo Fonte Gaia). Figura a mezzo corpo della Vergine, la testa ammantata e coperta da un velo bianco e reclinata a destra in amoroso gesto verso il Bambino che le cerca il seno.",1113,100.0,False,none,,,,,
-BO0624_81921,645406,156,1371,1438 -(Periodo Fonte Gaia).,1117,90.2,False,none,,,,,
-BO0624_81921,645407,157,167,"MoBILE sCRIvANIA in noce scolpito con grande pannello a ribalta. Ai lati cariatidi, nell' interno 19 cassetti di cui il piu grande al centro, e ornato da una figura allegorica di donna e volute fiorite. Mobile fiorentino della fine del XVI sec. di magnifica arte. Tav. N. 19.",1130,100.0,False,none,,,,,
+BO0624_81921,645405,155,165,"ALToRILIEvo in stucco policromato. Maniera di Jacopo della Quercia 1371-1438 (Periodo Fonte Gaia). Figura a mezzo corpo della Vergine, la testa ammantata e coperta da un velo bianco e reclinata a destra in amoroso gesto verso il Bambino che le cerca il seno.",1113,100.0,False,none,,,,,Sec. XV
+BO0624_81921,645406,156,1371,1438 -(Periodo Fonte Gaia).,1117,90.2,False,none,,,,,Sec. XV
+BO0624_81921,645407,157,167,"MoBILE sCRIvANIA in noce scolpito con grande pannello a ribalta. Ai lati cariatidi, nell' interno 19 cassetti di cui il piu grande al centro, e ornato da una figura allegorica di donna e volute fiorite. Mobile fiorentino della fine del XVI sec. di magnifica arte. Tav. N. 19.",1130,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645408,158,168,MoBILE CREDENZA in noce scolpito e decorato da cariatidi e volute fio- rite. Raro e grazioso esemplare d'arte ligure del XVll sec. Tav. N. 19.,1140,100.0,False,none,,,,,
-BO0624_81921,645409,159,169,VAso di forma sferica in antica maiolica veneziana smaltata e policroma a decorazione di frutta. ll coperchio e formato da un mazzo di frutta in maiolica. Bellissimo esemplare sec. XVI.,1154,100.0,False,none,,,VASI,,
+BO0624_81921,645409,159,169,VAso di forma sferica in antica maiolica veneziana smaltata e policroma a decorazione di frutta. ll coperchio e formato da un mazzo di frutta in maiolica. Bellissimo esemplare sec. XVI.,1154,100.0,False,none,,,VASI,,Sec. XVI
 BO0624_81921,645410,160,170,a,1156,40.0,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645411,161,170,b -Una detta.,1160,88.0,False,none,,,,,
 BO0624_81921,645412,162,170,c-),1162,40.0,False,none,COROT JEAN-BAPTISTE-CAMILLE,Scuola di Corneille Poelenburg,,,
@@ -166,81 +166,81 @@ BO0624_81921,645414,164,170,e-,1166,40.0,False,none,DELACROIX VICTOR EUGENE,Scuo
 BO0624_81921,645415,165,170,f-）,1168,40.0,False,none,DELACROIX VICTOR EUGENE,Scuola di F. Boucher,,,
 BO0624_81921,645416,166,172,"Grande CREDENZA in noce scolpito con bella patina chiara. Due tiretti e due sportelli. La parte superiore decorata da un ordine di piccole mensole, e il corpo principale decorato a colonne scanalate e cariatidi. Il mobile e sostenuto da zampe di leone. Firenze XVI",1175,100.0,False,none,,,,,
 BO0624_81921,645417,167,173,GRADINo D'ALTARE in legno scolpito e lumeggiato d'oro. Sulla cartella centrale decorazioni a fogliame. Gia collezione Salvadori.,1183,100.0,False,none,,,,COLLEZIONE SALVADORI,
-BO0624_81921,645418,168,174,STRIsCIA in velluto controtagliato con decorazione di fiorellini verdi sul fondo rosa. Genova XV secolo.,1189,100.0,False,none,,,,,
-BO0624_81921,645419,169,175,Grande PIvIALE di velluto paonazzo della fine del XVI secolo.,1193,100.0,False,none,,,,,
+BO0624_81921,645418,168,174,STRIsCIA in velluto controtagliato con decorazione di fiorellini verdi sul fondo rosa. Genova XV secolo.,1189,100.0,False,none,,,,,Sec. XV
+BO0624_81921,645419,169,175,Grande PIvIALE di velluto paonazzo della fine del XVI secolo.,1193,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645420,170,176,Grande CAssoNE in noce con intarsi di legno chiaro detto ( Certosino . Il frontone e suddiviso in quattro pannelli rettangolari a disegni geometrici incorniciati da un fregio d'' intarsio a volute,1199,100.0,False,none,,,PANNELLI,,
-BO0624_81921,645421,171,178,mi. Italia XVI secolo. Tav. N. 47.,1218,100.0,False,none,,,,,
-BO0624_81921,645422,172,179,gliami. (Cadeau de mariage). Arte italiana del XVI sec. Tav. N. 46.,1224,100.0,False,none,,,,,
-BO0624_81921,645423,173,180,Superbo SGABELLo in noce scolpito e decorato da conchiglie (scudetti gentilizi e fogliami). Arte italiana del XVI sec. Tav. N. 47.,1230,100.0,False,none,,,,,
+BO0624_81921,645421,171,178,mi. Italia XVI secolo. Tav. N. 47.,1218,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645422,172,179,gliami. (Cadeau de mariage). Arte italiana del XVI sec. Tav. N. 46.,1224,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645423,173,180,Superbo SGABELLo in noce scolpito e decorato da conchiglie (scudetti gentilizi e fogliami). Arte italiana del XVI sec. Tav. N. 47.,1230,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645424,174,181,SGABELLo in noce scolpito - da sala d'armi. Dossello e piede intagliato a decorazioni di mascheroni in volute di foglie e stemmi della Famiglia. Dietro il dossello si legge il nome della famiglia e quello dell'artista: Sanseverino 166l — Primo Montelli fecit. Tav. N.46.,1234,100.0,False,none,,,,,
 BO0624_81921,645425,175,182,a-b,1236,66.7,False,none,Scuola di Huet J.B.,,,,
 BO0624_81921,645426,176,183,TESTA DI PoMoNA con l'acconciatura dei capelli a boccoli ornata di frutta e annodata con un nastro. L'espressione e quella di una,1242,100.0,False,none,,,,,
 BO0624_81921,645427,177,184,Bellissima TAvoLA italiana in noce scolpito a due tiretti. Le gambe a tortiglione su delle ciabatte riunite da una traversa a decorazioni di volute e mezzi leoni accovacciati. Le cassette sono ornate da mascheroni e intagli a fogliame. Lavoro genovese di bellissima patina. Molto raro. Gia nella coll. Villa di Genova. Tav. N. 34.,1251,100.0,False,none,,,,,
 BO0624_81921,645428,178,185,CAssETTINA in noce scolpito. Sul davanti pannello e decorazioni di volute: al centro scudetto; ai lati cariatidi d'uomo e di donna.,1263,100.0,False,none,,,,,
-BO0624_81921,645429,179,186,TELo di velluto controtagliato genovese del XVI secolo con disegno di roselline e volute in rosso a lumeggiature d'argento su fondo tramato di fli d'oro.,1273,100.0,False,none,,,,,
+BO0624_81921,645429,179,186,TELo di velluto controtagliato genovese del XVI secolo con disegno di roselline e volute in rosso a lumeggiature d'argento su fondo tramato di fli d'oro.,1273,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645430,180,187,Paio di PoLTRoNE in noce scolpito di tipo detto ( Sansovino ）) ricoperte di velluto bleu dell'epoca. Gia coll. Salvadori. Italia XVll secolo. Tav. N. 34.,1277,100.0,False,none,SANSOVINO JACOPO,,POLTRONE,,
-BO0624_81921,645431,181,189,TAvoLo A FoRzIERE in noce scolpito detto ( tavolo da notaro ). Piano rettangolare che poggia su di un tamburo a due tiretti a sua volta sostenuto da una base a due tiretti laterali. ll tavolo termina con due piedi a ciabatta. Da notarsi le finissime mensoline intagliate sotto il tamburo. Sui fianchi intarsio. Arte toscana della meta del XVI secolo. Superbo esemplare dell'antica collezione Volpi nel Palazzo Davanzati. Tav. N. 30.,1284,100.0,False,none,,,,COLLEZIONE ELIA VOLPI,
-BO0624_81921,645432,182,190,(# DANTEsCA ) in noce scolpito. Dossello e sedile in antico velluto bleu dell'epoca fissato con grossi bulloni in bronzo. Bell'esemplare di arte toscana del XVI sec. Gia nella coll. Romano. Tav. N. 39.,1294,100.0,False,none,,,,,
-BO0624_81921,645433,183,191,CoPERTA in velluto verde della fine del XVI secolo.,1298,100.0,False,none,,,,,
-BO0624_81921,645434,184,192,"Due ANGIOLI PORTA CANDELABRO in piedi in legno scolpito dipinto e dorato a lunga veste con pieghe stilizzate. Base dorata e scolpita a cartella gotica. Conservazione perfetta. Magnifici esemplari dell'arte italiana settentrionale della prima meta del XV sec. Gia coll. A. De Clemente, Firenze. Tav. N. 13.",1304,100.0,False,none,,,,,
+BO0624_81921,645431,181,189,TAvoLo A FoRzIERE in noce scolpito detto ( tavolo da notaro ). Piano rettangolare che poggia su di un tamburo a due tiretti a sua volta sostenuto da una base a due tiretti laterali. ll tavolo termina con due piedi a ciabatta. Da notarsi le finissime mensoline intagliate sotto il tamburo. Sui fianchi intarsio. Arte toscana della meta del XVI secolo. Superbo esemplare dell'antica collezione Volpi nel Palazzo Davanzati. Tav. N. 30.,1284,100.0,False,none,,,,COLLEZIONE ELIA VOLPI,Sec. XVI
+BO0624_81921,645432,182,190,(# DANTEsCA ) in noce scolpito. Dossello e sedile in antico velluto bleu dell'epoca fissato con grossi bulloni in bronzo. Bell'esemplare di arte toscana del XVI sec. Gia nella coll. Romano. Tav. N. 39.,1294,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645433,183,191,CoPERTA in velluto verde della fine del XVI secolo.,1298,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645434,184,192,"Due ANGIOLI PORTA CANDELABRO in piedi in legno scolpito dipinto e dorato a lunga veste con pieghe stilizzate. Base dorata e scolpita a cartella gotica. Conservazione perfetta. Magnifici esemplari dell'arte italiana settentrionale della prima meta del XV sec. Gia coll. A. De Clemente, Firenze. Tav. N. 13.",1304,100.0,False,none,,,,,Sec. XV
 BO0624_81921,645435,185,193,"BAsso RILIEvo in terracotta smalatata e policromata: rappresenta due angioli in adorazione del calice, sul quale discende lo Spirito Santo. ll bassorilievo serviva come sportello al tabernacolo con-",1310,100.0,False,none,,,,,
 BO0624_81921,645436,186,194,"- iMagnifico CAssoNE NUZIALE in noce scolpito a forma ( bombe , pa-",1317,100.0,False,none,,,,,
 BO0624_81921,645437,187,195,"- ( DANTEscA ) in noce, dossello e sedile in antico velluto rosso dell'epoca fissato con grossi bulloni in bronzo. Bell'esemplare d'arte toscana",1331,100.0,False,none,,,,,
-BO0624_81921,645438,188,196,- Magnifica (# DANTEsCA ) in noce e bella patina. Sul davanti rosone intagliato. Cuscino e dossello in velluto rosso dell'epoca. Esemplare rarissimo per la mirabile conservazione. Arte toscana del XV secolo. Gia coll. Salvatori. Tav. N. 38.,1336,100.0,False,none,,,,,
+BO0624_81921,645438,188,196,- Magnifica (# DANTEsCA ) in noce e bella patina. Sul davanti rosone intagliato. Cuscino e dossello in velluto rosso dell'epoca. Esemplare rarissimo per la mirabile conservazione. Arte toscana del XV secolo. Gia coll. Salvatori. Tav. N. 38.,1336,100.0,False,none,,,,,Sec. XV
 BO0624_81921,645439,189,197,CAPPA composta di vari teli di velluto bleu del XVll secolo.,1340,100.0,False,none,,,,,
 BO0624_81921,645440,190,198,"- LEGGio in noce scolpito. La parte inferiore e costituita da una grande base rettangolare decorata da rosoni e da teste di cherubino, e riposa su zampe di leone. La parte superiore e formata da un vaso",1346,100.0,False,none,,,VASI,,
 BO0624_81921,645441,191,199,"PRIORISTA FIoRENTINo. Libro con copertina in carta pecora ed interno in carta a mano con tutti gli stemmi ed insegne dei sestieri e della citta, dei gonfaloni etc., e delle armi gentilizie fiorentine. Lavoro eseguito a mano del XVlI secolo. Tav. N. 1l.",1351,100.0,False,none,,,,,
 BO0624_81921,645442,192,200,"CoPERTA a piccolo punto a disegno di rosette policrome su fondo bleu incorniciato a volute intrecciate. Arte veneziana del XVll secolo. 2,30 XI, 70.",1355,100.0,False,none,,,,,
 BO0624_81921,645443,193,201,VAso a due manici di antica maiolica di Montelupo a decorazioni di fogliame policromo. XVll secolo.,1359,100.0,False,none,,,VASI,,
 BO0624_81921,645444,194,202,"GRAZIOSO ED INTERESSANTE MOBILINO SCOLPITO con cassetto e sportello. Brescia,XVll secolo.",1365,100.0,False,none,,,,,
-BO0624_81921,645445,195,203,ADORAZIoNE DEI MAGI. Predella di Scuola Fiorentina verso (1450-1460).,1377,100.0,False,none,,Scuola Fiorentina,,,
-BO0624_81921,645446,196,204,"Paio di cANDELIERI ad anelli in ottone. Italia, XVI sec.",1386,100.0,False,none,,,,,
-BO0624_81921,645447,197,205,"BELLIsSIMA CREDENZA in noce scolpito e patina chiara. Sui pannelli intagli a guisa di stoffati, tipici dello stile gotico. Cardini e cerniere in ferro battuto. Rarissimo esemplare di gotico italiano. Provenienza : Valle d'Aosta. Fine del XV secolo. Gia coll. A. Barsanti, Roma.",1392,100.0,False,none,,,PANNELLI,,
-BO0624_81921,645448,198,206,"PIATTo IN OTToNE sbalzato : al centro, in rilievo, fgura di San Cristoforo che traversa il torrente e intorno iscrizioni gotiche. Gia collezione Pedulli, Firenze. Italia settentrionale XV sec.",1398,100.0,False,none,,,,COLLEZIONE PEDULLI,
-BO0624_81921,645449,199,207,"PIATTo IN oTToNE sbalzato con al centro l'Agnus Dei, emblema dell'arte della lana. All' intorno iscrizioni gotiche. Italia settentrionale, principio del XV sec.",1402,100.0,False,none,,,,,
-BO0624_81921,645450,200,209,SEGGIoLINA con dossello sagomato in noce scolpito. Ricoperta di velluto rosso. Tipo detto ( Casentinese ). Fine del XV secolo.,1415,100.0,False,none,,,,,
+BO0624_81921,645445,195,203,ADORAZIoNE DEI MAGI. Predella di Scuola Fiorentina verso (1450-1460).,1377,100.0,False,none,,Scuola Fiorentina,,,Sec. XV
+BO0624_81921,645446,196,204,"Paio di cANDELIERI ad anelli in ottone. Italia, XVI sec.",1386,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645447,197,205,"BELLIsSIMA CREDENZA in noce scolpito e patina chiara. Sui pannelli intagli a guisa di stoffati, tipici dello stile gotico. Cardini e cerniere in ferro battuto. Rarissimo esemplare di gotico italiano. Provenienza : Valle d'Aosta. Fine del XV secolo. Gia coll. A. Barsanti, Roma.",1392,100.0,False,none,,,PANNELLI,,Sec. XV
+BO0624_81921,645448,198,206,"PIATTo IN OTToNE sbalzato : al centro, in rilievo, fgura di San Cristoforo che traversa il torrente e intorno iscrizioni gotiche. Gia collezione Pedulli, Firenze. Italia settentrionale XV sec.",1398,100.0,False,none,,,,COLLEZIONE PEDULLI,Sec. XV
+BO0624_81921,645449,199,207,"PIATTo IN oTToNE sbalzato con al centro l'Agnus Dei, emblema dell'arte della lana. All' intorno iscrizioni gotiche. Italia settentrionale, principio del XV sec.",1402,100.0,False,none,,,,,Sec. XV
+BO0624_81921,645450,200,209,SEGGIoLINA con dossello sagomato in noce scolpito. Ricoperta di velluto rosso. Tipo detto ( Casentinese ). Fine del XV secolo.,1415,100.0,False,none,,,,,Sec. XV
 BO0624_81921,645451,201,210,"Paio di ALARI in ferro battuto con finali in bronzo e piedi a volute di stile gotico. Firenze, XVll secolo.",1419,100.0,False,none,,,,,
-BO0624_81921,645452,202,211,"MoBILINo in noce scolpito a patina chiara, decorato da colonnine e pilastri con scudetto. Sportello centrale. Bell'esemplare dell'arte fiorentina del XVI sec.",1425,100.0,False,none,,,,,
+BO0624_81921,645452,202,211,"MoBILINo in noce scolpito a patina chiara, decorato da colonnine e pilastri con scudetto. Sportello centrale. Bell'esemplare dell'arte fiorentina del XVI sec.",1425,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645453,203,212,"Un VAsETTo D'ALTARE in ottone. Italia, XVlI secolo.",1435,100.0,False,none,,,,,
-BO0624_81921,645454,204,213,"CoFANETTo in legno dipinto ornato da medaglioni a chiaroscuro (donna e bambini) sopra un fondo a scomparti rossi, blu e oro. Arte toscana del XVI secolo.",1439,100.0,False,none,,,SCOMPARTI,,
-BO0624_81921,645455,205,214,Una BACINELLA in ottone sbalzato. Sec. XVI.,1443,100.0,False,none,,,,,
-BO0624_81921,645456,206,215,CANDELIERE d'altare in ottone. Italia XV secolo.,1447,100.0,False,none,,,,,
+BO0624_81921,645454,204,213,"CoFANETTo in legno dipinto ornato da medaglioni a chiaroscuro (donna e bambini) sopra un fondo a scomparti rossi, blu e oro. Arte toscana del XVI secolo.",1439,100.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_81921,645455,205,214,Una BACINELLA in ottone sbalzato. Sec. XVI.,1443,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645456,206,215,CANDELIERE d'altare in ottone. Italia XV secolo.,1447,100.0,False,none,,,,,Sec. XV
 BO0624_81921,645457,207,217,a-b,1458,60.0,False,none,Scuola di Huet J.B.,,,,
 BO0624_81921,645458,208,218,"Paio di ALARI in ferro battuto e lavorato con finali in ottone e piedi a volute. Italia, XVlI secolo.",1464,100.0,False,none,,,,,
-BO0624_81921,645459,209,219,"VAso IN RAME argentato e decorazione a sbalzo. Italia, XVII secolo.",1468,100.0,False,none,,,VASI,,
-BO0624_81921,645460,210,220,"Un FERRo BATTUTo del sec. XV con disegno gotico, probabilmente de- corazione di pozzo.",1472,100.0,False,none,,,,,
-BO0624_81921,645461,211,221,Un piccolo RELIQUIARIo gotico in bronzo dorato. Italia XVI sec.,1479,100.0,False,none,,,,,
-BO0624_81921,645462,212,222,Bella PENToLA in bronzo di forma sferica con 2 manici a corda. Modena XVI secolo.,1483,100.0,False,none,,,,,
+BO0624_81921,645459,209,219,"VAso IN RAME argentato e decorazione a sbalzo. Italia, XVII secolo.",1468,100.0,False,none,,,VASI,,Sec. XVII
+BO0624_81921,645460,210,220,"Un FERRo BATTUTo del sec. XV con disegno gotico, probabilmente de- corazione di pozzo.",1472,100.0,False,none,,,,,Sec. XV
+BO0624_81921,645461,211,221,Un piccolo RELIQUIARIo gotico in bronzo dorato. Italia XVI sec.,1479,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645462,212,222,Bella PENToLA in bronzo di forma sferica con 2 manici a corda. Modena XVI secolo.,1483,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645463,213,223,CuLLA in legno scolpito e decorato da rosoni. Italia. Brescia. XVll sec.,1487,100.0,False,none,,,,,
 BO0624_81921,645464,214,224,BAcILE in ottone sbalzato con sostegno in ferro battuto a grandi volute. Epoca Luigi XIV.,1491,100.0,False,none,,Periodo di Luigi XIV,,,
 BO0624_81921,645465,215,225,( SAvoNAROLA ) in noce scolpito a numerose stecche. Braccioli ricurvi e cuscino in velluto rosso. Arte bolognese del XVll secolo.,1495,100.0,False,none,,,,,
-BO0624_81921,645466,216,226,( SAvoNARoLA 》 in noce scolpito a numerose stecche e dossello inciso. Italia XVI secolo.,1499,100.0,False,none,,,,,
-BO0624_81921,645467,217,227,TAvoLo in noce a patina bruna con un tiretto e gambe a colonne su ciabatte scorniciate. Piano sporgente. Bologna fine del XVI secolo.,1503,100.0,False,none,,Scuola Bolognese,,,
+BO0624_81921,645466,216,226,( SAvoNARoLA 》 in noce scolpito a numerose stecche e dossello inciso. Italia XVI secolo.,1499,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645467,217,227,TAvoLo in noce a patina bruna con un tiretto e gambe a colonne su ciabatte scorniciate. Piano sporgente. Bologna fine del XVI secolo.,1503,100.0,False,none,,Scuola Bolognese,,,Sec. XVI
 BO0624_81921,645468,218,230,a-b,1514,66.7,False,none,Scuola di Huet J.B.,,,,
-BO0624_81921,645469,219,231,"Un PIATTo in ottone sbalzato, ornato di un rosone al centro ed incisione gotica. XVI sec.",1524,100.0,False,none,,,,,
+BO0624_81921,645469,219,231,"Un PIATTo in ottone sbalzato, ornato di un rosone al centro ed incisione gotica. XVI sec.",1524,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645470,220,232,Due PIATTI in ottone sbalzato a roscni e iscrizioni gotiche. Italia sett. principio del xV sec.,1528,100.0,False,none,,,PIATTI,,
 BO0624_81921,645471,221,234,a,1538,40.0,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645472,222,234,b -Una detta,1543,84.6,False,none,,,,,
 BO0624_81921,645473,223,234,c-》 ),1545,40.0,False,none,COROT JEAN-BAPTISTE-CAMILLE,Scuola di Corneille Poelenburg,,,
 BO0624_81921,645474,224,234,d-),1547,40.0,False,none,DELACROIX VICTOR EUGENE,Scuola di Teniers,AUBUSSONS,,
-BO0624_81921,645475,225,236,Due CANDELIERI bronzo di arte Padovana finemente lavorati con piedi a sfinge e fusto a balaustro con testine. XVI secolo.,1557,100.0,False,none,,,,,
+BO0624_81921,645475,225,236,Due CANDELIERI bronzo di arte Padovana finemente lavorati con piedi a sfinge e fusto a balaustro con testine. XVI secolo.,1557,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645476,226,239,b - Una detta.,1575,84.6,False,none,,,,,
 BO0624_81921,645477,227,239,c -,1577,33.3,False,none,COROT JEAN-BAPTISTE-CAMILLE,Scuola di Corneille Poelenburg,,,
 BO0624_81921,645478,228,239,d-,1579,33.3,False,none,DELACROIX VICTOR EUGENE,Scuola di Teniers,AUBUSSONS,,
 BO0624_81921,645479,229,239,e- f-》,1581,28.6,False,none,GAISSER JAKOB EMANUEL,,,,
 BO0624_81921,645480,230,240,g ) h-,1587,28.6,False,none,,,,,
 BO0624_81921,645481,231,241,"Alt. m. 0,36.",1592,100.0,False,none,,,,,
-BO0624_81921,645482,232,242,(# SAvoNAROLA ) in noce scolpito di leggiadra forma a numerose stecche. Dossello sagomato con scudetto inciso nel centro. Cuscino in velluto rosso. Gia Coll. Costantini. Arte Toscana del XVI sec.,1598,100.0,False,none,,,,,
-BO0624_81921,645483,233,243,TAvOLo a un cassetto con piano rettangolare in noce scolpito. I piedi su ciabatte a traversa a guisa di vasi da fiori. Raro e finissimo lavoro d’arte toscana del XVI sec. Tav. N. 31.,1602,100.0,False,none,,,VASI,,
+BO0624_81921,645482,232,242,(# SAvoNAROLA ) in noce scolpito di leggiadra forma a numerose stecche. Dossello sagomato con scudetto inciso nel centro. Cuscino in velluto rosso. Gia Coll. Costantini. Arte Toscana del XVI sec.,1598,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645483,233,243,TAvOLo a un cassetto con piano rettangolare in noce scolpito. I piedi su ciabatte a traversa a guisa di vasi da fiori. Raro e finissimo lavoro d’arte toscana del XVI sec. Tav. N. 31.,1602,100.0,False,none,,,VASI,,Sec. XVI
 BO0624_81921,645484,234,244,Due VAsETTI D'ALTARE in ottone con manichi a voluta. Italia XVIl sec.,1612,100.0,False,none,,,,,
-BO0624_81921,645485,235,245,Due VAsi da farmacia a rocchetto in maiolica decorati in blu su fondo bianco con volute e cartella con iscrizione gotica. Faenza XV sec. Gia Coll. Galliani di Bologna.,1616,100.0,False,none,,Scuola Bolognese,VASI DA FARMACIA,,
+BO0624_81921,645485,235,245,Due VAsi da farmacia a rocchetto in maiolica decorati in blu su fondo bianco con volute e cartella con iscrizione gotica. Faenza XV sec. Gia Coll. Galliani di Bologna.,1616,100.0,False,none,,Scuola Bolognese,VASI DA FARMACIA,,Sec. XV
 BO0624_81921,645486,236,246,"Alt. m. 0,18.",1620,100.0,False,none,,,,,
 BO0624_81921,645487,237,247,"Due PACI in legno dipinto, rappresentanti uno : la Vergine e il Bambino, e l'altro : la Pieta. Cornici in legno scolpito e dorato. Scuola fiorentina del XVll sec. Prov. Antica, coll. Sangiorgi.",1633,100.0,False,none,,Scuola Fiorentina,CORNICI,,
 BO0624_81921,645488,238,249,"MADONNA e BAMBINo. Bassorilievo inedito di scuola fiorentina : di maestro molto vicino al Verrocchio, in stucco policromo, forse Francesco di Simone Ferrucci, in un magnifico tabernacolo dell'epoca in legno dipinto e dorato, avente, nella parte inferiore uno stemma e 1' iscrizione ( Ave Maria gratia pl. ). La Madonna e rappresentata velata, a mezzo corpo quasi di fronte, la testa leggermente reclinata sulla spalla, sfiora la guancia del Bambino in piedi presso di Lei in atto di abbracciarla. Gia coll. Salvadori, Firenze. Tavola N. 10.",1647,100.0,False,none,,Scuola del Verrocchio,,,
-BO0624_81921,645489,239,250,Grande coPERTA a parecchi teli di velluto rosso della fine del XVI sec.,1651,100.0,False,none,,,,,
-BO0624_81921,645490,240,252,"Paio di ALARI in bronzo lavorato in forma di vasi di fiori sopra uno zoccolo a volute. Bellissimi e rari esemplari. Arte veronese del XVI sec. Gia coll. Bertoldi, Verona.",1664,100.0,False,none,PAOLO VERONESE,,VASI,,
+BO0624_81921,645489,239,250,Grande coPERTA a parecchi teli di velluto rosso della fine del XVI sec.,1651,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645490,240,252,"Paio di ALARI in bronzo lavorato in forma di vasi di fiori sopra uno zoccolo a volute. Bellissimi e rari esemplari. Arte veronese del XVI sec. Gia coll. Bertoldi, Verona.",1664,100.0,False,none,PAOLO VERONESE,,VASI,,Sec. XVI
 BO0624_81921,645491,241,253,GRAZIosIssIMA sCULTURINA in terracotta antica ; smalto policromo meno che in alcune parti dove la terra e stata lasciata allo stato naturale. Scultura attribuita a Giovanni Della Robbia. Rappresenta il Buon Pastore in piedi con l'agnello sotto il braccio destro e accarezza con la mano sinistra il collo d'una pecora che gli cammina accanto. Tav. N. 4. Base in legno scolpito e dorato. Gia coll. Barsanti.,1670,100.0,False,none,DELLA ROBBIA ANDREA,Scuola di Giovanni Della Robbia,OGGETTI VARI,,
-BO0624_81921,645492,242,254,CAssoNE NUZIALE in noce scolpito con finissime decorazioni di piccoli archetti gotici e pannelli riccamente intagliati. Tracce di doratura. Bellissimo esemplare dell'ultimo gotico nell' Italia. XV sec.,1676,100.0,False,none,,,PANNELLI,,
+BO0624_81921,645492,242,254,CAssoNE NUZIALE in noce scolpito con finissime decorazioni di piccoli archetti gotici e pannelli riccamente intagliati. Tracce di doratura. Bellissimo esemplare dell'ultimo gotico nell' Italia. XV sec.,1676,100.0,False,none,,,PANNELLI,,Sec. XV
 BO0624_81921,645493,243,255,a - Una detta.,1689,84.6,False,none,,,,,
 BO0624_81921,645494,244,255,b-,1691,40.0,False,none,COROT JEAN-BAPTISTE-CAMILLE,Scuola di Greuze,,,
 BO0624_81921,645495,245,255,c- ),1693,40.0,False,none,COROT JEAN-BAPTISTE-CAMILLE,Scuola di Corneille Poelenburg,,,
@@ -251,26 +251,26 @@ BO0624_81921,645499,249,257,c- ),1715,40.0,False,none,COROT JEAN-BAPTISTE-CAMILL
 BO0624_81921,645500,250,257,d-,1717,40.0,False,none,DELACROIX VICTOR EUGENE,Scuola di Teniers,AUBUSSONS,,
 BO0624_81921,645501,251,259,a,1726,40.0,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645502,252,259,b-Una detta. c-)),1730,81.5,False,none,,,,,
-BO0624_81921,645503,253,260,Grande TAVOLA DA REFETToRIo in noce scolpito. I piedi sono riuniti tra loro da ferri battuti a volute e ornati di ricchi intagli a fogliami. Il piano intagliato nel bordo a foglioline. Gia collezione Cigerza. Arte ligure della fine del XVI sec. Tav. N. 35.,1736,100.0,False,none,,,,COLLEZIONE CIGERZA,
+BO0624_81921,645503,253,260,Grande TAVOLA DA REFETToRIo in noce scolpito. I piedi sono riuniti tra loro da ferri battuti a volute e ornati di ricchi intagli a fogliami. Il piano intagliato nel bordo a foglioline. Gia collezione Cigerza. Arte ligure della fine del XVI sec. Tav. N. 35.,1736,100.0,False,none,,,,COLLEZIONE CIGERZA,Sec. XVI
 BO0624_81921,645504,254,261,"SuPERBo TELo detto telo di S. Giovanni, in velluto controtagliato e la- minato d'oro. E decorato con grandi fogliami ondulati che avviluppano dei melograni in rosso rubino su fondo d'oro. Arte veneziana del XVI-XVll sec. Questi teli di velluto servivano come premio ai vincitori delle corse cosidette del ( Palio ). Tav. N. 52.",1746,100.0,False,none,,,,,
 BO0624_81921,645505,255,262,a,1752,40.0,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
-BO0624_81921,645506,256,263,- Bellissima POLTRONA fiorentina del XVI sec. in noce scolpito. Larghi bracciuoli e balaustri; traversa con scudetto e ricoperta con magnifico velluto blu dell'epoca. Tav. N. 44.,1767,100.0,False,none,,,POLTRONE,,
-BO0624_81921,645507,257,264,- Bellissima POLTRONA del XVI sec. di tipo gotico in noce scolpito e decorata con piccoli mascheroni e grotteschi ; ricoperta di velluto blu,1771,100.0,False,none,,,POLTRONE,,
+BO0624_81921,645506,256,263,- Bellissima POLTRONA fiorentina del XVI sec. in noce scolpito. Larghi bracciuoli e balaustri; traversa con scudetto e ricoperta con magnifico velluto blu dell'epoca. Tav. N. 44.,1767,100.0,False,none,,,POLTRONE,,Sec. XVI
+BO0624_81921,645507,257,264,- Bellissima POLTRONA del XVI sec. di tipo gotico in noce scolpito e decorata con piccoli mascheroni e grotteschi ; ricoperta di velluto blu,1771,100.0,False,none,,,POLTRONE,,Sec. XVI
 BO0624_81921,645508,258,265,"- Piccolo CAssoNE NUZIALE in noce scolpito, di dimensioni e forma rarissima. Coperchio intagliato a squame; il cassone leggermente bombe e ornato da teste di cherubini, da rosoni. Nel pannello cen-",1776,100.0,False,none,,,,,
 BO0624_81921,645509,259,266,a,1785,33.3,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645510,260,266,b - Una detta.,1791,84.6,False,none,,,,,
 BO0624_81921,645511,261,266,c-)),1793,40.0,False,none,COROT JEAN-BAPTISTE-CAMILLE,Scuola di Corneille Poelenburg,,,
-BO0624_81921,645512,262,268,"CAssETTINA italiana, del XVI sec., in noce scolpito. Coperchio a squame, sul davanti scudetto con lo stemma dei Bevilacqua (un'ala) sosteGia coll. Barsanti, Roma.",1810,100.0,False,none,,,,,
+BO0624_81921,645512,262,268,"CAssETTINA italiana, del XVI sec., in noce scolpito. Coperchio a squame, sul davanti scudetto con lo stemma dei Bevilacqua (un'ala) sosteGia coll. Barsanti, Roma.",1810,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645513,263,269,"PLAccA in stucco policromo, rappresentante in bassorilievo la Vergine e il Bambino: quasi di faccia leggermente voltata verso destra. La Vergine velata ——a mezzo corpo ——t tiene il Bambino per la mano sinistra. Lo sguardo vago, la mano destra che s'abbandona, Ella ha una deliziosa espressione di sogno, mentre il Bambino stringe tra le mani un uccellino che vorrebbe scappargli. Sul fondo due candelabri ornati da festoni. Magnifico tabernacolo : nella lunetta pittura rappresentante Cristo in croce tra S. Francesco e S. Girolamo, nel basso iscrizione ( Ave Regina Celorum ). Gia Coll. Salvadori. Tav.N. 9.",1814,100.0,False,none,,,CANDELABRI,,
-BO0624_81921,645514,264,273,"CAssoNE NUZIALE in noce scolpito. ll davanti e suddiviso in tre pannelli: nei due laterali scudetto incorniciato in un rosone gotico tissimi a griglia sui quali si disegnano quattro rosoni gotici. Superbo lavoro della Val d'Aosta del XV sec. sotto una doppia infuenza francese e svizzera. Molto raro. Gia coll. Bacchi, Milano.",1831,100.0,False,none,,,PANNELLI,,
+BO0624_81921,645514,264,273,"CAssoNE NUZIALE in noce scolpito. ll davanti e suddiviso in tre pannelli: nei due laterali scudetto incorniciato in un rosone gotico tissimi a griglia sui quali si disegnano quattro rosoni gotici. Superbo lavoro della Val d'Aosta del XV sec. sotto una doppia infuenza francese e svizzera. Molto raro. Gia coll. Bacchi, Milano.",1831,100.0,False,none,,,PANNELLI,,Sec. XV
 BO0624_81921,645515,265,274,CoPERTA di velluto rosso composto di parecchi teli. XVIl sec. Circa metri sei.,1837,100.0,False,none,,,,,
-BO0624_81921,645516,266,275,"CoPERTA composta di parecchi teli, di velluto violetto, del XVII sec.",1841,100.0,False,none,,,,,
+BO0624_81921,645516,266,275,"CoPERTA composta di parecchi teli, di velluto violetto, del XVII sec.",1841,100.0,False,none,,,,,Sec. XVII
 BO0624_81921,645517,267,276,TAvOLo A FORZIERE detto ( tavolo da notaro ) in noce modanato e scol- pito (decorazione a rosette). Piano scorrevole; nell' interno cas-,1847,100.0,False,none,,,,,
 BO0624_81921,645518,268,5,"Lungh. m. 1,80.",1851,100.0,False,none,,,,,
 BO0624_81921,645519,269,278,VAso di forma sferica in antica maiolica faentina smaltata e con decorazioni a fogliame blu su fondo bianco. Con coperchio robbiano e frutta. Fine sec.XVI.,1872,100.0,False,none,,,VASI,,
 BO0624_81921,645520,270,279,"MoBILE A DUE coRPI ciascuno a due sportelli, in noce scolpito. E decorato inferiormente da rilievi nello stile di Jean Goujon. (Figure allegoriche, in bassorilievo sugli sportelli, cariatidi a tutto tondo sui pilastri, mascheroni sui tiretti). Nella parte superiore figure scolpite a tutto tondo di guerrieri e signori, sul pilastro centrale figura di donna che suona il mandolino, sugli sportelli soggetti",1878,100.0,False,none,,,,,
 BO0624_81921,645521,271,280,Grande CAPPA composta di parecchie striscie di velluto rosso con nappe.,1885,100.0,False,none,,,,,
-BO0624_81921,645522,272,281,"- Piccola AsCIA DA PARATA in ferro con ageminature in oro. Decorazioni a volute di foglie d'uva, di animali e rosette in entrambe le parti. In un medaglione, il ritratto del Principe e della Principessa. Arte indo-persiana del XVII sec.",1891,100.0,False,none,,,,,
+BO0624_81921,645522,272,281,"- Piccola AsCIA DA PARATA in ferro con ageminature in oro. Decorazioni a volute di foglie d'uva, di animali e rosette in entrambe le parti. In un medaglione, il ritratto del Principe e della Principessa. Arte indo-persiana del XVII sec.",1891,100.0,False,none,,,,,Sec. XVII
 BO0624_81921,645523,273,282,"- STIPo A ( BAMBocCI ) in noce e radica di noce con parecchi cassetti e grande pannello a ribalta. Ai lati e nella parte superiore numerose figurine scolpite a tutto tondo rappresentanti putti ed altri soggetti mitologici e allegorici. Internamente molti cassetti e scomparti ornati ugualmente da figurine scolpite. Arte del nord d' Italia, sec. XVl. Gia coll. Todaro, Firenze. Lo stipo poggia sopra un tavolo antico di noce a due cassetti. Tav. N. 18.",1895,100.0,False,none,,,SCOMPARTI,,
 BO0624_81921,645524,274,283,"TAvOLINo, come sopra descritto, Bologna XVIl sec.",1901,100.0,False,none,,Scuola Bolognese,ARREDAMENTI,,
 BO0624_81921,645525,275,284,"- La MADONNA DELL'ANNUNCIAZIONE, di Benedetto da Maiano (14421497). La Madonna e in piedi lievemente rivolta verso sinistra, la testa inclinata sulla spalla, ella posa la mano destra sul petto, al suo mantello di scivolare. L'espressione di raccoglimento di questa figura e resa con una grazia, che la mette nel rango delle a",1905,99.7,False,none,,,,,
@@ -280,48 +280,48 @@ BO0624_81921,645528,278,288,"Un VAsETTo DA ALTARE in ottone, XVIl sec.",1932,100
 BO0624_81921,645529,279,289,"Alt. m. 1,10.",1936,100.0,False,none,,,,,
 BO0624_81921,645530,280,290,a,1941,33.3,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645531,281,290,b - Un paio detti. c-),1947,83.3,False,none,,,,,
-BO0624_81921,645532,282,291,"Un BACILE in ottone con supporto in ferro battuto a tripode. XVI sec,",1953,100.0,False,none,,,,,
-BO0624_81921,645533,283,292,"MoBILINo in noce scolpito, con cassetta e due sportelli. Ai lati due colonnine e al centro rosette intagliate. Arte toscana del XVI sec.",1957,100.0,False,none,,,,,
+BO0624_81921,645532,282,291,"Un BACILE in ottone con supporto in ferro battuto a tripode. XVI sec,",1953,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645533,283,292,"MoBILINo in noce scolpito, con cassetta e due sportelli. Ai lati due colonnine e al centro rosette intagliate. Arte toscana del XVI sec.",1957,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645534,284,293,"Grande PENToLA in bronzo, di forma sferica a vaso con due manici. Bell'esemplare, sec. XVll. Bologna.",1961,100.0,False,none,,Scuola Bolognese,VASI,,
 BO0624_81921,645535,285,294,295,1965,100.0,False,none,,,,,
 BO0624_81921,645536,286,297,a-b,1972,66.7,False,none,Scuola di Huet J.B.,,,,
-BO0624_81921,645537,287,298,"Due PIATTI in ottone sbalzato, ornato di rosoni e iscrizioni gotiche. Due PiATTI in ottone shalzato, ornato di rosoni e iscrizioni gotiche. XV sec.",1980,100.0,False,none,,,PIATTI,,
+BO0624_81921,645537,287,298,"Due PIATTI in ottone sbalzato, ornato di rosoni e iscrizioni gotiche. Due PiATTI in ottone shalzato, ornato di rosoni e iscrizioni gotiche. XV sec.",1980,100.0,False,none,,,PIATTI,,Sec. XV
 BO0624_81921,645538,288,299,a-b,1982,60.0,False,none,Scuola di Huet J.B.,,,,
-BO0624_81921,645539,289,300,"ANFoRINA detta (# Rebecca ) con apertura a beccuccio, manico a volute, ottone. Arte nord Italia, XVI sec.",1988,100.0,False,none,,,,,
+BO0624_81921,645539,289,300,"ANFoRINA detta (# Rebecca ) con apertura a beccuccio, manico a volute, ottone. Arte nord Italia, XVI sec.",1988,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645540,290,301,"Paio di cANDELIERI in ottone ad anelli di sapore gotico. Italia, XVI scc",1992,100.0,False,none,,,,,
 BO0624_81921,645541,291,302,"Due PIATTI in antica maiolica di Montelupo l'uno decorato da un Liocorno che galoppa, l'altro da due cervi che s'abbeveran. Italia,",1996,100.0,False,none,,,PIATTI,,
 BO0624_81921,645542,292,303,"Un paio ALARI ferro battuto toscani, con piede ad archetto e finale in bronzo,XVI sec.",2000,100.0,False,none,,,,,
 BO0624_81921,645543,293,304,Grande coPERTA di parecchi teti in velluto giallastro. Fine del XVll sec.,2004,100.0,False,none,,,,,
-BO0624_81921,645544,294,306,Due PIATTI ottone sbalzato con rosone al centro ed iscrizione gotica. XVI sec.,2011,100.0,False,none,,,PIATTI,,
-BO0624_81921,645545,295,307,"ALBERELLo da farmacia con la marca di fabbrica e lo stemma della Famiglia, ai lati le lettere G. F. su un nastro e scritto ( Noce Lonce ). Maiolica italiana a smalto blu grigio del XVI sec.",2015,100.0,False,none,,,,,
+BO0624_81921,645544,294,306,Due PIATTI ottone sbalzato con rosone al centro ed iscrizione gotica. XVI sec.,2011,100.0,False,none,,,PIATTI,,Sec. XVI
+BO0624_81921,645545,295,307,"ALBERELLo da farmacia con la marca di fabbrica e lo stemma della Famiglia, ai lati le lettere G. F. su un nastro e scritto ( Noce Lonce ). Maiolica italiana a smalto blu grigio del XVI sec.",2015,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645546,296,308,"Un MoRTAlo in bronzo da farmacia con armi gentilizie, sul retro in rilievo la Vergine col Bambino. Bell'esemplare arte lucchese. Fine del '500.",2021,100.0,False,none,,,,,
 BO0624_81921,645547,297,309,"VAso in maiolica a smalto verde, munito di due anse a forma di busti femminili. Montelupo, XVll sec.",2025,100.0,False,none,,,VASI,,
 BO0624_81921,645548,298,310,"Grande vAso (orcio) in maiolica smaltata e policromata con decorazione di fogliami su fondo bianco. Montelupo, XVll sec.",2031,100.0,False,none,,,VASI,,
-BO0624_81921,645549,299,311,"CARIATIDE di mobile in legno scolpito, dipinto e dorato : rappresenta mezzo corpo di donna, nella parte inferiore testa di cherubino. Arte veneziana del XVI sec.",2037,100.0,False,none,,,,,
-BO0624_81921,645550,300,3126,PANNELLo rettangolare in velluto controtagliato del principio del XVI sec. con decorazioni a festoni bleu su trama giallo-oro. Questo telo e per lo stallo descritto al n. 312 a.,2046,100.0,False,none,,,,,
-BO0624_81921,645551,301,313,Due GRUPPI DI NAPPE in seta con argento. Lavoro spagnolo del XVII sec. (Ogni gruppo comporta 5 nappe con cordoni).,2052,100.0,False,none,,,,,
+BO0624_81921,645549,299,311,"CARIATIDE di mobile in legno scolpito, dipinto e dorato : rappresenta mezzo corpo di donna, nella parte inferiore testa di cherubino. Arte veneziana del XVI sec.",2037,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645550,300,3126,PANNELLo rettangolare in velluto controtagliato del principio del XVI sec. con decorazioni a festoni bleu su trama giallo-oro. Questo telo e per lo stallo descritto al n. 312 a.,2046,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645551,301,313,Due GRUPPI DI NAPPE in seta con argento. Lavoro spagnolo del XVII sec. (Ogni gruppo comporta 5 nappe con cordoni).,2052,100.0,False,none,,,,,Sec. XVII
 BO0624_81921,645552,302,314,Otto NAPPE IN SETA a colori di cui alcune appaiate. Epoca XVll e XVIll sec.,2056,100.0,False,none,,,,,
 BO0624_81921,645553,303,315,Dieci NAPPE IN sETA di vari colori e di varie dimensioni. Sec. XVIll.,2060,100.0,False,none,,,,,
-BO0624_81921,645554,304,316,Un LIBRETTo A MANo in pergamena. XVI sec.,2064,100.0,False,none,,,,,
+BO0624_81921,645554,304,316,Un LIBRETTo A MANo in pergamena. XVI sec.,2064,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645555,305,317,"Due VAsETTI d'altare in ottone. Italia, XVIl sec.",2068,100.0,False,none,,,,,
 BO0624_81921,645556,306,318,α,2071,33.3,False,none,,,,,
-BO0624_81921,645557,307,319,Grande cREDENZA in noce scolpita a patina chiara. Si sviluppa a pannelli separati da colonne a capitello corinzio. Il pannello centrale E ornato da uno stemma gentilizio (quercia tra due leoni rampanti). Gli altri pannelli sono ornati da mascheroni in bronzo. Il basamento del mobile e a baccelliera sgusciata. Magnifico esemplare dell'arte toscana della fine del XVI sec. (restauri nell'interno).,2077,100.0,False,none,,,PANNELLI,,
+BO0624_81921,645557,307,319,Grande cREDENZA in noce scolpita a patina chiara. Si sviluppa a pannelli separati da colonne a capitello corinzio. Il pannello centrale E ornato da uno stemma gentilizio (quercia tra due leoni rampanti). Gli altri pannelli sono ornati da mascheroni in bronzo. Il basamento del mobile e a baccelliera sgusciata. Magnifico esemplare dell'arte toscana della fine del XVI sec. (restauri nell'interno).,2077,100.0,False,none,,,PANNELLI,,Sec. XVI
 BO0624_81921,645558,308,320,321,2089,100.0,False,none,,,,,
 BO0624_81921,645559,309,322,a,2093,33.3,False,none,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
 BO0624_81921,645560,310,322,b,2097,40.0,False,none,COROT JEAN-BAPTISTE-CAMILLE,Scuola di Greuze,,,
-BO0624_81921,645561,311,324,BRoccA in antica maiolica italiana del XVI sec. con beccuccio e manico piatto. Decorazione di volute e iscrizione ( De Epittamo ). Dietro data : 1515.,2104,100.0,False,none,,,,,
-BO0624_81921,645562,312,325,ALBERELLo da farmacia in antica maiolica italiana del XVI sec. Decodi lauro.,2108,100.0,False,none,,,,,
-BO0624_81921,645563,313,326,ALBERELLo da farmacia in antica maiolica italiana del XVI sec. Decorato a trofei con cartella e le lettere S. P. Q. R. e l' iscrizione (LCO.DE. P.VVL）in una ghirlanda di lauro e frutta.Dietro la data 1524.,2112,100.0,False,none,,,,,
+BO0624_81921,645561,311,324,BRoccA in antica maiolica italiana del XVI sec. con beccuccio e manico piatto. Decorazione di volute e iscrizione ( De Epittamo ). Dietro data : 1515.,2104,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645562,312,325,ALBERELLo da farmacia in antica maiolica italiana del XVI sec. Decodi lauro.,2108,100.0,False,none,,,,,Sec. XVI
+BO0624_81921,645563,313,326,ALBERELLo da farmacia in antica maiolica italiana del XVI sec. Decorato a trofei con cartella e le lettere S. P. Q. R. e l' iscrizione (LCO.DE. P.VVL）in una ghirlanda di lauro e frutta.Dietro la data 1524.,2112,100.0,False,none,,,,,Sec. XVI
 BO0624_81921,645564,314,327,Piccolo TAvoLo da centro detto (# a banchina ). Arte toscana del XVll sec.,2116,100.0,False,none,,,,,
 BO0624_81921,645565,315,328,"BoTTIGLIA in vetro soffato a collo lungo. La pancia ornata di fili bianchi.Italia,XVIl sec.",2128,100.0,False,none,,,,,
-BO0624_81921,645566,316,329,BocciA DI vETRo a sifone con tappo a nappe in seta verde. Sec. XIX.,2132,100.0,False,none,,,,,
+BO0624_81921,645566,316,329,BocciA DI vETRo a sifone con tappo a nappe in seta verde. Sec. XIX.,2132,100.0,False,none,,,,,Sec. XIX
 BO0624_81921,645567,317,330,Una BocCIA IN vETRo verde esagonale del '700.,2138,100.0,False,none,,,,,
 BO0624_81921,645568,318,74,SCRivANIA in noce a banchino con ribalta; nell' interno cassette variamente disposte. Lavoro toscano della fine del '700. Decorazioni dipinte con qualche rifacimento.,2141,100.0,False,none,,,,,
 BO0624_81921,645569,319,332,"Paio di ALARI in ferro battuto, copia da originale pregevolissimo posseduto anteriormente dal proprietario.",2151,100.0,False,none,,,,,
 BO0624_81921,645570,320,333,QuADRo moderno su tela : natura morta. Cornice noce ed oro.,2157,100.0,False,none,,,,,
-BO0624_81921,645571,321,334,"TAvOLo IN NoCE con quattro gambe .tornite a balaustra, tamburo intagliato a foggia di nastro avvolto. Le quattro gambe sono collegate da una traversa centrale a decorazione di rosette. Epoca XVII sec.",2161,100.0,False,none,,,,,
+BO0624_81921,645571,321,334,"TAvOLo IN NoCE con quattro gambe .tornite a balaustra, tamburo intagliato a foggia di nastro avvolto. Le quattro gambe sono collegate da una traversa centrale a decorazione di rosette. Epoca XVII sec.",2161,100.0,False,none,,,,,Sec. XVII
 BO0624_81921,645572,322,335,Due MoRTAl in bronzo. Uno patina scura ed uno chiara con piccole decorazioni.XVI sec.,2169,100.0,False,none,,,,,
-BO0624_81921,645573,323,336,"PoLTRoNcINA in noce scolpito. Braccioli diritti, traverse con archettini e finali a mensola. Ricoperta con velluto roseo a frangie rosse. XVIII sec.",2173,100.0,False,none,,,,,
+BO0624_81921,645573,323,336,"PoLTRoNcINA in noce scolpito. Braccioli diritti, traverse con archettini e finali a mensola. Ricoperta con velluto roseo a frangie rosse. XVIII sec.",2173,100.0,False,none,,,,,Sec. XVIII
 BO0624_81921,645574,324,338,"Grande coPERTA composta di parecchi teli di damasco bleu chiaro con disegni di grandi volute a fogliame. Italia, XVll sec. Circa m. 8,80.",2184,100.0,False,none,,,,,
 BO0624_81921,645575,325,339,"Grande coPERTA di parecchi teli di damasco verde con disegni a grandi volute a fogliame. Italia, XVIl sec. Circa m. 10,40.",2188,100.0,False,none,,,,,
 BO0624_81921,645576,326,340,"Un TAPPET0 m. 3,70 × 3. (Persia moderno).",2192,100.0,False,none,,,,,

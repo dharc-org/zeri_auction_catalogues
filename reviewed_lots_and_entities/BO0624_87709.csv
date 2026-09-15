@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87709,307556,1,1585,Todesjahr unbekannt.,9,88.4,False,positional,Hendrik Averkamp,,,,
-BO0624_87709,307557,2,1,"Figurenstudien. Potpourri von Gruppen und einzelnen Figuren in malerischer Zeittracht. Holz. Hohe 1512,Breite 241/e cm.",11,99.1,False,positional,Hendrik Averkamp,,OGGETTI IN LEGNO,,
+BO0624_87709,307557,2,1,"Figurenstudien. Potpourri von Gruppen und einzelnen Figuren in malerischer Zeittracht. Holz. Hohe 1512,Breite 241/e cm.",11,99.1,False,positional,Hendrik Averkamp,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_87709,307558,3,3,"Gebirgslandschaft. Bei hohem Bergabhang rechts Wasserfall;im Mittelgrund baumbestandenes Gelande,von Figuren staffiert.",27,99.2,False,positional,Simon Joseph Bemmel,,,,
 BO0624_87709,307559,4,4,"Kleine Landschaft. Rechts Waldeingang mit hohen Felsblocken; als Staffage heimziehende Herde. Holz. Hohe 20,Breite 25 cm.",33,99.1,False,positional,J. Both,,OGGETTI IN LEGNO,,
 BO0624_87709,307560,5,5,"Parklandschaft. Im Vorgrunde links sich bis zum Hintergrunde ausdehnender Park mit ruinenartigen Architekturen； rechts grober,von Baumen bestandener Weiher. Holz. Hohe 18,Breite 22 cm.",39,99.4,False,positional,Paul Bril,,OGGETTI IN LEGNO,,
@@ -27,7 +27,7 @@ BO0624_87709,307580,25,25,"Stilleben. Auf Porzellanschuissel gesottene Krebse, T
 BO0624_87709,307581,26,26,"Italienische Landschaft. Beiderseitig von Baumen flankiertes,baumloses Gelande;im Hintergrunde Bergkegel. Holz. Hohe 16,Breite 23 cm. Monogrammiert.",165,99.0,False,positional,Guilliam te Heusch,,OGGETTI IN LEGNO,,
 BO0624_87709,307582,27,27,"Landschaft. Breiter Weg,rechts von Waldpartie flankiert,links Wassermihle",169,98.0,False,positional,Meindert Hobbema,,,,
 BO0624_87709,307583,28,28,"Portrat. Ganzfigur einer jungen Dame als Justitia, seitlich Amorette. Be-",177,97.9,False,positional,J.F. de Hoffon,,,,
-BO0624_87709,307584,29,29,"Die Wahrsagerin. In wohnlich ausgestatteter Stube alte Frau, einem jungen Madchen wahrsagend,umgeben von vier weitern Figuren. 1698.",185,96.9,False,positional,Pieter de Hoog,,,,
+BO0624_87709,307584,29,29,"Die Wahrsagerin. In wohnlich ausgestatteter Stube alte Frau, einem jungen Madchen wahrsagend,umgeben von vier weitern Figuren. 1698.",185,96.9,False,positional,Pieter de Hoog,,,,Sec. XVII
 BO0624_87709,307585,30,30,Portrat. Brustbild eines Geistlichen in schwarzer Kleidung und schwarz-,193,97.9,False,positional,Wolfgang Ludw. Hopfer,,,,
 BO0624_87709,307586,31,31,Reitergefecht. Vor baumbestandener Anhohe ist ein heftiger Reiterkampf,202,97.9,False,positional,Jan van Hugtenburg,,OGGETTI VARI,,
 BO0624_87709,307587,32,32,Galante Gesellschaft. In einem einfach ansgestatteten Zimmer eine Gesell-,210,97.9,False,positional,N. Lancret,,,,
@@ -73,7 +73,7 @@ BO0624_87709,307626,71,71,FluBlandschaft. Ein Fluf durchquert das Gelande; beide
 BO0624_87709,307627,72,72,"Landschaft mit Vieh. Vor waldigem Hintergrunde Viehherde am Wasser; links Hirtin auf Pferd reitend. Leinwand.Hohe 35,Breite 52 cm.",466,98.8,False,positional,Adrian van de Velde,,,,
 BO0624_87709,307628,73,73,Landschaft mit Vieh. Im Vorgrunde von Baumen umrahmtes Gelande;rechts,467,97.8,False,positional,Adrian van de Velde,,,,
 BO0624_87709,307629,74,74,"Italienischer Seehafen.Breiter Hafen,beiderseits von hohen baumbewachsenen Felsen und Tuirmen begrenzt und von mehreren bemannten Kahnen belebt. Holz. Hohe 22,Breite 26 cm.",476,99.1,False,positional,Claude Joseph Vernet,,OGGETTI IN LEGNO,,
-BO0624_87709,307630,75,75,"Der Trinker. Mann mit breitkrampigem Hute,in der Rechten einen Romer, 1722.",482,94.4,False,positional,Cornelis de Vos,,,,
+BO0624_87709,307630,75,75,"Der Trinker. Mann mit breitkrampigem Hute,in der Rechten einen Romer, 1722.",482,94.4,False,positional,Cornelis de Vos,,,,Sec. XVIII
 BO0624_87709,307631,76,76,"Madonna mit dem Kinde. In felsiger Landschaft sitzt Maria, den Jesusknaben im Schobe,schlafend;in der Luft ein Engel mit Palmenzweig.",489,98.9,False,positional,Adrian van der Werff,,,,
 BO0624_87709,307632,77,77,"Allegorie. Vor zurickgezogenem Vorhange junge, dekolletierte Frauengestalt;",494,98.0,False,positional,Pieter van der Werff,,BIANCHERIA,,
 BO0624_87709,307633,78,78,Kirmes. In Bauernkneipe Manner und Weiber zechend und tanzend; an der Erde mehrere trunkene Manner.,505,98.5,False,positional,Sir David Wilkie,,,,
@@ -124,7 +124,7 @@ BO0624_87709,307677,122,124,Familienkonzert. In einem reich ausgestatteten Wohnr
 BO0624_87709,307678,123,125,"Norwegischer Fjord. Im linken Vorgrunde auf hohem ansteigendem Ufer mehrere Huitten;im Hintergrunde weiter Gebirgszug. Bezeichnet. Holz. Hohe 11, Breite 21 cm.",710,98.7,False,positional,Andr. Askevold,,OGGETTI IN LEGNO,,
 BO0624_87709,307679,124,126,"Frauenbildnis. Lebensgrobes Brustbild in Dreiviertelwendung links. Bezeichnet:Frid.Becher. Malkarton auf Holz.Hohe 36,Breite 31 cm.",716,98.4,False,positional,Fridolin Becker,,OGGETTI IN LEGNO,,
 BO0624_87709,307680,125,127,"Heuernte. Weiter Wiesenplan, von kleinem Bache durchquert und im Hintergrunde von hohen Baumen abgeschlossen, vor welchen mehrere Figuren bei",722,98.6,False,positional,Louis Hugo Becker,,,,
-BO0624_87709,307681,126,128,Portrat eines Teilnehmers aus dem Histor. Festzug zur Dombaufeier in Koln 1880.,732,97.5,False,positional,W. Beckmann,,,,
+BO0624_87709,307681,126,128,Portrat eines Teilnehmers aus dem Histor. Festzug zur Dombaufeier in Koln 1880.,732,97.5,False,positional,W. Beckmann,,,,Sec. XIX
 BO0624_87709,307682,127,129,"Ganselieserl. Vor offenem Schafstalle sitzt ein junges Madchen strickend, von Gansen umgackert; links Hugellandschaft.",740,98.3,False,positional,Fritz Beinke,,,,
 BO0624_87709,307683,128,130,"Schafer mit Herde.Vor offenem Stalle ein alter Schafer, seine Herde hinausfuhrend. Bezeichnet. Leinwand. Hohe 44,Breite 34 cm.",742,98.4,False,positional,Fritz Beinke,,,,
 BO0624_87709,307684,129,131,"Frihlingslandschaft.Weiter Wiesenplan mit jungem strickendem Madchen unter hohem Baume bei zahlreicher Schafherde;im Hintergrunde Ortschaft. Bezeichnet. Leinwand. Hohe 39,Breite 55 cm.",743,98.9,False,positional,Fritz Beinke,,,,
@@ -172,7 +172,7 @@ BO0624_87709,307725,170,173,"Interieur mit einer Gruppe von funf reich kostumier
 BO0624_87709,307726,171,174,Schachspieler.In vornehmem Gemach verschiedene Personen beim Schachspiel; links naht ein Page.,1013,97.9,False,positional,Jac.E. Gaiβer,,,,
 BO0624_87709,307727,172,175,"Kavalier in Hoftracht. Bezeichnet und datiert. Holz. Hohe 16,Breite 10 cm. Geschnitzter Rahmen.",1021,97.8,False,positional,J. Gallegos,,CORNICI,,
 BO0624_87709,307728,173,176,"Klosterbruder, ein Bild in der Linken haltend, mit lachender Gebarde,en face. Bezeichnet. Leinwand. Hohe 41, Breite 30 cm.",1025,98.3,False,positional,G.Galli,,,,
-BO0624_87709,307729,174,177,"Markt in Andalusien. Auf weiter steiniger Ebene, im Hintergrunde von langer Gebirgskette begrenzt, zahlreiche Reiter und Gruppen beim Handel. Bezeichnet. Sept.1838 zu Dresden.",1029,92.2,False,positional,B. Galofre,,OGGETTI VARI,,
+BO0624_87709,307729,174,177,"Markt in Andalusien. Auf weiter steiniger Ebene, im Hintergrunde von langer Gebirgskette begrenzt, zahlreiche Reiter und Gruppen beim Handel. Bezeichnet. Sept.1838 zu Dresden.",1029,92.2,False,positional,B. Galofre,,OGGETTI VARI,,Sec. XIX
 BO0624_87709,307730,175,178,Schafe in Landschaft. Vor einem Sumpfe Hirtenmadchen bei Schafherde. Bezeichnet.,1036,97.5,False,positional,Friedr. Otto Gebler,,,,
 BO0624_87709,307731,176,179,"Bischof mit Mitra und Stab, en face, in Oval. Karton. Hohe 64,Breite 48 cm.",1042,97.2,False,positional,Carl Gehrts,,,,
 BO0624_87709,307732,177,180,"Windspiele. In einem Vorzimmer zwei Windspiele neben Stuhl, auf dem ein Federhut liegt. Bezeichnet. Holz. Hohe 37,Breite 48 cm.",1046,98.4,False,positional,B. te Gempt,,OGGETTI IN LEGNO,,
@@ -190,7 +190,7 @@ BO0624_87709,307743,188,191,Stilleben.,1110,81.8,False,positional,Adriana van Ha
 BO0624_87709,307744,189,192,"Andachtige vor Madonnenbild. Holz. Hohe S1, Breite 23 cm.",1124,96.4,False,positional,Georg Gillis van Haanen,,OGGETTI IN LEGNO,,
 BO0624_87709,307745,190,193,"Interieur. Vor breiter, durch einfallendes Licht erhellter Treppe ein Knabe, der einen vor ihm sitzenden Hund fittert.",1125,98.3,False,positional,Georg Gillis van Haanen,,ARREDAMENTI,,
 BO0624_87709,307746,191,194,Die Fischverkauferin. Neben Treppenaufgang eines Hauses Fischverkauferin; auf der Treppe Frau mit Kind; rechts Durchblick in belebte Strabe. Mondbeleuchtung.,1131,98.7,False,positional,Georg Gillis van Haanen,,,,
-BO0624_87709,307747,192,195,Monche. Zwei Monche in Betrachtung sitzend und stehend im Saulengang eines Klosters;landschaftlicher Hintergrund. 1840.,1144,96.1,False,positional,C.Haberlin,,,,
+BO0624_87709,307747,192,195,Monche. Zwei Monche in Betrachtung sitzend und stehend im Saulengang eines Klosters;landschaftlicher Hintergrund. 1840.,1144,96.1,False,positional,C.Haberlin,,,,Sec. XIX
 BO0624_87709,307748,193,196,"Sommerlandschaft. Breiter Fahrweg durchquert,zum baumreichen Hintergrunde fuihrend, ein Dorf.",1152,97.8,False,positional,C.L. Hansen,,,,
 BO0624_87709,307749,194,197,"Sommerlandschaft. Ein breiter Weg fuihrt an rechts liegendem Gehofte voriber zum Hintergrunde hin;links Wiese mit Viehherde. Bezeichnet. Holz. Hohe 26,Breite 33 cm.",1158,98.8,False,positional,C.L. Hansen,,OGGETTI IN LEGNO,,
 BO0624_87709,307750,195,198,"Marine. Im Vorgrund eines leicht bewegten Sees sind mehrere Schiffer damit beschaftigt,ein Fischerboot vom Strande abzustoben. Bezeichnet. Leinwand.Hohe 50,Breite 65 cm.",1164,98.8,False,positional,G.Haquette,,,,

@@ -3,7 +3,7 @@ BO0624_81819,81389,1,I,NCISIONI-STAMPA BERTIERIEVANZETTI MILANO,1,98.8,False,non
 BO0624_81819,81390,2,1,Elle sera faite au comptant.,36,96.4,False,positional,M.RLINO PESARO,,,,
 BO0624_81819,81391,3,2,Les acquereurs paieront dix pour cent en sus des encheres.,37,98.3,False,positional,M.RLINO PESARO,,,,
 BO0624_81819,81392,4,3,En cas de contestation le lot sera remis en vente.,38,98.0,False,positional,M.RLINO PESARO,,,,
-BO0624_81819,81393,5,4,Les offres ne pourront etre inferieures d'un franc jusqu'a 100 frs.; de 5 frs. jusqu'a 1000 frs.et de 50 frs. au dela de 1000 frs.,39,99.2,False,positional,M.RLINO PESARO,,,,
+BO0624_81819,81393,5,4,Les offres ne pourront etre inferieures d'un franc jusqu'a 100 frs.; de 5 frs. jusqu'a 1000 frs.et de 50 frs. au dela de 1000 frs.,39,99.2,False,positional,M.RLINO PESARO,,,,Sec. XI
 BO0624_81819,81394,6,5,"Le Directeur de la Vente se reserve le droit de changer 1'ordre du catalogue, de reunir et diviser les lots.",40,99.1,False,positional,M.RLINO PESARO,,,,
 BO0624_81819,81395,7,6,Le transport et l'emballage des objets vendus sont a la charge de lacquereur.,41,98.7,False,positional,M.RLINO PESARO,,OGGETTI VARI,,
 BO0624_81819,81396,8,7,"L'entreprise ne garde pas en depot les objets vendus; l'acquereur devra les retirer dans la matinee suivante 1adjudication, passe ce delai de temps le vendeur proprietaire se reserve le droit d'annuler ou de rendre operative ladjudication. L'Entreprise aura aussi le droit de remetre en vente les objets non retires a",42,99.7,False,positional,M.RLINO PESARO,,OGGETTI VARI,,
@@ -87,7 +87,7 @@ BO0624_81819,81473,85,69,"Fleurs, tres belle peinture sur toile, cadre dore; m. 
 BO0624_81819,81474,86,70,"J. B. Panini (maniere), Architecture et figures, peinture sur toile, cadre dore; m.1.25X0.94.",174,98.2,False,positional,,,Tableaux,,
 BO0624_81819,81475,87,71,"D.Orsay, Portrait de dame, peinture sur toile, cadre dore; m. 0.95x0.73.",175,97.8,False,positional,,,Tableaux,,
 BO0624_81819,81476,88,72,"Ecole Toscane,xVe siecle,Episodes de lancien testament,deux interessants",177,98.0,False,positional,,Scuola Toscana,Tableaux,,
-BO0624_81819,81477,89,73,"Amb.Figino, Un saint, peinture sur toile, avec tabernacle. Ecole Venitienne, xvllle siecle, Le martyre d'un saint, peinture sur toile, cadre en bois;m.1.25X0.94. P.P. Rubens (attribue), Venus, Mars et Amour, forte esquisse peinte sur toile,cadre dore;m.1.96X1.25 (PLANCHE 1).",180,58.2,False,positional,RUBENS PETER PAUL,Scuola Veneziana,OGGETTI IN LEGNO,,
+BO0624_81819,81477,89,73,"Amb.Figino, Un saint, peinture sur toile, avec tabernacle. Ecole Venitienne, xvllle siecle, Le martyre d'un saint, peinture sur toile, cadre en bois;m.1.25X0.94. P.P. Rubens (attribue), Venus, Mars et Amour, forte esquisse peinte sur toile,cadre dore;m.1.96X1.25 (PLANCHE 1).",180,58.2,False,positional,RUBENS PETER PAUL,Scuola Veneziana,OGGETTI IN LEGNO,,Sec. XIV
 BO0624_81819,81478,90,76,"Ecole Bolonaise,xVlle siecle,Le mariage de Sainte Catherine,peinture sur",181,98.0,False,positional,,Scuola Bolognese,Tableaux,,
 BO0624_81819,81479,91,77,"Marc. Venusti (attribue), La Pitie, peinture sur bois, cadre dore; m. 0.47x0.83.",182,97.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81819,81480,92,78,"Ecole Cremonaise, xVIle siecle, Un luthiste,interessante peinture sur toile,",184,98.0,False,positional,,,Tableaux,,
@@ -96,11 +96,11 @@ BO0624_81819,81482,94,80,"Ecole Genoise,xVllle siecle,Portrait du Cardinal Ottob
 BO0624_81819,81483,95,81,"Ecole Flamande,La resurrection de Lazare,interessante peinture sur bois, cadre guilloche; m.0.55X0.45.",191,98.5,False,positional,,Scuola Fiamminga,OGGETTI IN LEGNO,,
 BO0624_81819,81484,96,82,"Ecole Venitienne,xve siecle,Portrait d'un gentilhomme,peint sur toile,ca dre dore;m.1.83X0.62.",193,98.4,False,positional,,Scuola Veneziana,Tableaux,,
 BO0624_81819,81485,97,83,"M. Buonarroti (ecole),La Nuit, allegorie, peinture sur bois, cadre sculpte et dore;m.1.23X0.80 (PLANCHE I1).",194,98.5,False,positional,MICHELANGELO BUONARROTI,,OGGETTI IN LEGNO,,
-BO0624_81819,81486,98,84,"Ecole Flamande, XVe siecle, La Sainte Famille, sur le fond un perspective; interessante peinture sur toile, grand et riche tabernacle sculpte et dore; metres 1.31X0.90 (PLANCHE III).",195,99.1,False,positional,,Scuola Fiamminga,Tableaux,,
+BO0624_81819,81486,98,84,"Ecole Flamande, XVe siecle, La Sainte Famille, sur le fond un perspective; interessante peinture sur toile, grand et riche tabernacle sculpte et dore; metres 1.31X0.90 (PLANCHE III).",195,99.1,False,positional,,Scuola Fiamminga,Tableaux,,Sec. XV
 BO0624_81819,81487,99,85,"P. Breughel, Une Kermesse, peinture sur toile, cadre ancien sculpte et dore;",196,97.9,False,positional,BRUEGEL PIETER IL VECCHIO,,Tableaux,,
-BO0624_81819,81488,100,86,"Nicolas Berghem,1620-1683,Paysage avec figures,cadre dore;m.0.58X0.95",198,97.9,False,positional,BERCHEM NICOLAAS,,Tableaux,,
-BO0624_81819,81489,101,87,"N.Lancret, 1671-1745,Les joies de frere Philippe,peinture sur toile,cadre",200,98.0,False,positional,LANCRET NICOLAS,,Tableaux,,
-BO0624_81819,81490,102,88,"Georges Vasari, 1514-1578,Le sacre de Come de Medici, belle peinture sur toile, cadre richement sculpte et dore; m. 2.04X1.45 (PLANCHE VIIl). Cette belle piece a ete execute sur l'ordre de Ramirez de Montalvo qui est la figure debout a gauche. G.Vasari y figure aussi.",202,99.4,False,positional,DUPRE GIOVANNI,,Tableaux,,
+BO0624_81819,81488,100,86,"Nicolas Berghem,1620-1683,Paysage avec figures,cadre dore;m.0.58X0.95",198,97.9,False,positional,BERCHEM NICOLAAS,,Tableaux,,Sec. XVII
+BO0624_81819,81489,101,87,"N.Lancret, 1671-1745,Les joies de frere Philippe,peinture sur toile,cadre",200,98.0,False,positional,LANCRET NICOLAS,,Tableaux,,Sec. XVII
+BO0624_81819,81490,102,88,"Georges Vasari, 1514-1578,Le sacre de Come de Medici, belle peinture sur toile, cadre richement sculpte et dore; m. 2.04X1.45 (PLANCHE VIIl). Cette belle piece a ete execute sur l'ordre de Ramirez de Montalvo qui est la figure debout a gauche. G.Vasari y figure aussi.",202,99.4,False,positional,DUPRE GIOVANNI,,Tableaux,,Sec. XVI
 BO0624_81819,81491,103,89,"Ecole Francaise,xvlle siecle,Portrait dhomme,peint sur bois,cadre noir;",203,97.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81819,81492,104,90,"Ecole nitienne,xvlle siecle,Deux paysages,ints sur toile,cadre scu teet dore;m.0.43X0.32.",205,98.3,False,positional,,,Tableaux,,
 BO0624_81819,81493,105,91,"Andre Del Sarto,La Madone sur le trone avec les Saints,esquisse sur",206,97.8,False,positional,DEL SARTO ANDREA,,Tableaux,,
@@ -116,7 +116,7 @@ BO0624_81819,81502,114,101,"Ecole Siennoise, xve siecle,La Madone avec l'Enfant,
 BO0624_81819,81503,115,102,"Inconnu,Portrait de Giovanni Cotta,peint sur bois,cadre dore; m.0.41X0.28.",223,97.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81819,81504,116,103,"Paysage avec un temple, peinture sur toile, cadre dore; m. 1.27X1.01.",224,97.0,False,positional,,,Tableaux,,
 BO0624_81819,81505,117,104,"Joseph Bossi,Portrait d'homme,peint sur toile,cadre sculpte et dore avec armoiries;m.0.40x0.28.",225,97.9,False,positional,,,Tableaux,,
-BO0624_81819,81506,118,105,"P.Molyn dit ""Tempesta"",1643-1699 (ecole), Paysage, peinture sur toile, cadre dore;m.0.64x0.52.",226,97.7,False,positional,,,Tableaux,,
+BO0624_81819,81506,118,105,"P.Molyn dit ""Tempesta"",1643-1699 (ecole), Paysage, peinture sur toile, cadre dore;m.0.64x0.52.",226,97.7,False,positional,,,Tableaux,,Sec. XVII
 BO0624_81819,81507,119,106,"Magnasco (ecole), Interieur d'une cuisine, tres belle peinture sur toile, cadre dore;m.0.70x0.57.",227,97.8,False,positional,,,ARREDAMENTI,,
 BO0624_81819,81508,120,107,"Ecole Napolitaine, xVlle siecle, Interieur d'un magasin, deux belles peintures sur bois,cadres dores;m.0.42x0.58.",228,98.2,False,positional,,Scuola Napoletana,ARREDAMENTI,,
 BO0624_81819,81509,121,108,"Ecole de Bergame, xvlle siecle, Portrait de gentilhomme peint sur toile,",229,97.2,False,positional,,Scuola Bergamasca,Tableaux,,
@@ -137,7 +137,7 @@ BO0624_81819,81523,135,122,"Ecole Venitienne, xVle siecle, Etude de nu peint sur
 BO0624_81819,81524,136,123,"Rose de Tivoli (ecole), Betail et paysage, peinture sur toile, cadre doré;",252,97.1,False,positional,ROOS PHILIPP PETER,,Tableaux,,
 BO0624_81819,81525,137,124,"Ecole Bolonaise,xVIle siecle,La Madone avec lEnfant,peinture sur toile, cadre dore; m.0.27x0.25.",254,97.9,False,positional,,Scuola Bolognese,Tableaux,,
 BO0624_81819,81526,138,125,"La Madone avec l'Enfant et les anges, peinture sur bois, fond d'or, cadre dore;m.0.44X0.32.",255,97.8,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_81819,81527,139,126,"Alex. Allori dit ""Bronzino"",Jesus parait aux Maries, superbe peinture sur toile, cadre richement sculpte et dore;m.2.04X1.45 (PLANCHE VIlI).",256,98.5,False,positional,,,Tableaux,,
+BO0624_81819,81527,139,126,"Alex. Allori dit ""Bronzino"",Jesus parait aux Maries, superbe peinture sur toile, cadre richement sculpte et dore;m.2.04X1.45 (PLANCHE VIlI).",256,98.5,False,positional,"BRONZINO, AGNOLO DI COSIMO",,Tableaux,,
 BO0624_81819,81528,140,127,"Ecole Francaise,xvllle siecle,Portrait de dame peint sur toile, cadre dore;",258,97.3,False,positional,,,Tableaux,,
 BO0624_81819,81529,141,128,"Ecole Flamande, xVle siecle, La descente de la croix, peinture sur bois, cadre dore;m.0.45X0.30 (PLANCHE V1).",260,98.1,False,positional,,Scuola Fiamminga,OGGETTI IN LEGNO,,
 BO0624_81819,81530,142,129,"Ecole Francaise, xvlle siecle,Portrait d'un gentilhomme peint sur toile, cadre dore;m.0.88x0.73.",261,97.9,False,positional,,,Tableaux,,
@@ -148,7 +148,7 @@ BO0624_81819,81534,146,133,"Ad.Veld V.,Portrait de femme, peinture sur toile, ca
 BO0624_81819,81535,147,134,"Ecole Francaise, xVlle siecle,L’Hiver,Ete, deux peintures allegoriques",266,97.1,False,positional,,,Tableaux,,
 BO0624_81819,81536,148,135,"s.Rosa, Paysages avec figures, deux peintures sur toile, cadre dore; metres 0.49X0.66.",268,97.6,False,positional,ROSA SALVATOR,,Tableaux,,
 BO0624_81819,81537,149,136,"Fra Galgario (attribue),Portrait d'un homme,forte peinture sur toile,cadre dore;m.0.96X0.75.",269,97.8,False,positional,,,Tableaux,,
-BO0624_81819,81538,150,137,"Antoine Van Dyck,1599-1641,Portrait du marquis de Moncada,peint sur toile, cadre sculpte et dore; m. 0.68X0.52 (PLANCHE VI1).",270,98.3,False,positional,VAN DYCK ANTON,,Tableaux,,
+BO0624_81819,81538,150,137,"Antoine Van Dyck,1599-1641,Portrait du marquis de Moncada,peint sur toile, cadre sculpte et dore; m. 0.68X0.52 (PLANCHE VI1).",270,98.3,False,positional,VAN DYCK ANTON,,Tableaux,,Sec. XVII
 BO0624_81819,81539,151,138,"L.Lotto (attribue), Portrait d’un Ingenieur, belle peinture sur toile, cadre",271,97.3,False,positional,,,Tableaux,,
 BO0624_81819,81540,152,139,"Ecole nitienne,xVle sicle,Deux paysages,peintures sur toile,cad dore;m.0.32X0.25.",273,97.6,False,positional,,,Tableaux,,
 BO0624_81819,81541,153,140,"Ecole Venitienne,xVlle siecle,Joueurs,peinture sur toile,cadre sculptt",274,97.2,False,positional,,Scuola Veneziana,Tableaux,,
@@ -164,7 +164,7 @@ BO0624_81819,81550,162,149,"Ecole Venitienne,xVlle siecle,Susanne,peinture sur t
 BO0624_81819,81551,163,150,"cole Flamande,xlle sicleaysage avecfigurespinture sur toile,cade dore;m.0.72x0.40.",289,97.6,False,positional,,Scuola Fiamminga,Tableaux,,
 BO0624_81819,81552,164,151,"Ecole Flamande, xVlle siecle, Paysage, peinture sur toile, cadre noir; metres 0.53x0.38.",290,97.6,False,positional,,Scuola Fiamminga,Tableaux,,
 BO0624_81819,81553,165,152,"Giotto (ecole), La Madonne et des Saints, peinture sur bois.",291,96.5,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_81819,81554,166,153,"G.Chito,Venise, peinture sur toile signee et avec la date 1861, cadre do-",293,97.2,False,positional,,,Tableaux,,
+BO0624_81819,81554,166,153,"G.Chito,Venise, peinture sur toile signee et avec la date 1861, cadre do-",293,97.2,False,positional,,,Tableaux,,Sec. XIX
 BO0624_81819,81555,167,154,"Ecole Flamande, xvlle siecle, Une poule et ses poussins peinture sur toile, cadrenoir;m.0.48X0.38.",294,97.9,False,positional,,Scuola Fiamminga,Tableaux,,
 BO0624_81819,81556,168,2,"155.Inconnu, Sainte Therese, peinture sur toile, cadre dore; m.1.o9x0.80.",295,98.6,False,positional,,,Tableaux,,
 BO0624_81819,81557,169,3,"157.Ecole Venitienne,xVll siecle,Paysages,quatre peintures sur toile,cade dore;m.0.69×0.95.",296,98.9,False,positional,,Scuola Veneziana,Tableaux,,
@@ -198,7 +198,7 @@ BO0624_81819,81584,196,178,"Ecole Venitienne, xVle siecle, Saint Jerome dans le 
 BO0624_81819,81585,197,179,"Paris Bordone,15001570,Portrait d’un gentilhomme,peint sur bois,cadre",327,97.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81819,81586,198,180,"Ecole Francaise, xvllle siecle, Portrait d'une princesse, peinture sur toile, cadre sculpte et dore; m. 0.96x0.74.",329,98.2,False,positional,,,Tableaux,,
 BO0624_81819,81587,199,181,"Luc. Cambiasi,La Sainte Famille, peinture sur toile aux couleus vives,cadre",330,97.3,False,positional,,,Tableaux,,
-BO0624_81819,81588,200,182,"F.Abani,1578-1669,Diane,surle fond beau paysage,fines peinture sur toile,",332,97.3,False,positional,,,Tableaux,,
+BO0624_81819,81588,200,182,"F.Abani,1578-1669,Diane,surle fond beau paysage,fines peinture sur toile,",332,97.3,False,positional,,,Tableaux,,Sec. XVII
 BO0624_81819,81589,201,183,"Er.Fiscer Svanefelt,Le retour de la chasse au faucon, belle peinture sur",334,97.3,False,positional,,,Tableaux,,
 BO0624_81819,81590,202,184,"Guercino,Le Christ parait a la Madeleine,peinture sur toile, cadre dore; m.0.57X0.67.",336,97.6,False,positional,GUERCINO,,Tableaux,,
 BO0624_81819,81591,203,185,"Ecole dAnverse, Le Mariage de la Vierge, peinture sur cuivre, cadre dore; m.0.66X0.84.",337,97.6,False,positional,,,Tableaux,,
@@ -241,10 +241,10 @@ BO0624_81819,81627,239,221,"Ecole Bolonaise, xVle siecle, Christ parait a la Mad
 BO0624_81819,81628,240,222,"Ecole Venitienne,xVle siecle,Jesus sur le Calvaire,peinture sur toile,ca",398,97.3,False,positional,,Scuola Veneziana,Tableaux,,
 BO0624_81819,81629,241,223,"Ecole Napolitaine,XVlle siecle,La Madone,lEnfant et Saint Jean,pein ture sur toile, cadre noir et dore; m. 1.25x0.95.",399,98.3,False,positional,,Scuola Napoletana,Tableaux,,
 BO0624_81819,81630,242,224,"Ecole Flamande, xvlle siecle,La descente de la croix, peinture sur toile, cadre dore;m.0.96x0.95",401,97.9,False,positional,,Scuola Fiamminga,Tableaux,,
-BO0624_81819,81631,243,225,"Ecole Venitienne, xVle siecle, Le veau dor,esquisse sur toile, cadre noir;",402,97.2,False,positional,,Scuola Veneziana,Tableaux,,
+BO0624_81819,81631,243,225,"Ecole Venitienne, xVle siecle, Le veau dor,esquisse sur toile, cadre noir;",402,97.2,False,positional,,Scuola Veneziana,Tableaux,,Sec. XIV
 BO0624_81819,81632,244,226,"B. Montagna (attribue), Un saint, peint a la detrempe sur toile, cadre en pastelle;m.0.75X0.18",404,97.8,False,positional,,,Tableaux,,
 BO0624_81819,81633,245,227,"Rose de Tivoli, Betail et paysage, deux peintures sur toile, cadres dores; m.1.33×0.97.",405,97.6,False,positional,ROOS PHILIPP PETER,,Tableaux,,
-BO0624_81819,81634,246,228,"J. B. Piazzetta (ecole), La Madone avec l'Enfant, peinture sur toile, cadre",406,97.1,False,positional,,,Tableaux,,
+BO0624_81819,81634,246,228,"J. B. Piazzetta (ecole), La Madone avec l'Enfant, peinture sur toile, cadre",406,97.1,False,positional,PIAZZETTA JEAN-BAPTISTE,,Tableaux,,
 BO0624_81819,81635,247,229,"Boniface Venitien (attribue),La Sainte Famille et Sainte Catherine, sur le fond, beau paysage, peinture sur toile, riche encadrement sculpte et dore; metres 1.31X1.03 (PLANCHE III).",408,98.8,False,positional,,,Tableaux,,
 BO0624_81819,81636,248,230,"Ecole Francaise, xville siecle,Portrait du baron et de la baronne Malvica de Palerme, dans un beau costume, peinture sur toile, cadre sculpte et dore; me tres 2.02X0.91 (PLANCHE V).",409,98.9,False,positional,,,Tableaux,,
 BO0624_81819,81637,249,231,"Ecole Venitienne,xVlle siecle,ujet biblique,peinture sur toile,cadre dore;",410,97.3,False,positional,,Scuola Veneziana,Tableaux,,
@@ -252,7 +252,7 @@ BO0624_81819,81638,250,232,"Ecole Siennoise,xVe siecle,Un saint, belle peinture 
 BO0624_81819,81639,251,233,"Ecole Toscane, La Madone avec les saints, fond d’or, peinture sur bois;",413,97.1,False,positional,,Scuola Toscana,OGGETTI IN LEGNO,,
 BO0624_81819,81640,252,234,"A1. Magnasco dit ""Lisandrino"",Paysage avec figures, peinture sur toile, cadre sculpte et dore;m.0.94x1.30.",415,98.0,False,positional,,,Tableaux,,
 BO0624_81819,81641,253,235,"Ant.Moro,Portrait de lEmpereur Maximilien Il,peinture sur toile, cadre",416,97.2,False,positional,,,Tableaux,,
-BO0624_81819,81642,254,236,"A.Watteau,1684-1721,Les masques italiennes,esquisse du grand tableau,",418,97.1,False,positional,WATTEAU FRANCOIS,,Tableaux,,
+BO0624_81819,81642,254,236,"A.Watteau,1684-1721,Les masques italiennes,esquisse du grand tableau,",418,97.1,False,positional,WATTEAU FRANCOIS,,Tableaux,,Sec. XVIII
 BO0624_81819,81643,255,237,"David Tenier, Paysage, peinture sur toile,bonne peinture, signee T. D.,",420,97.0,False,positional,,,Tableaux,,
 BO0624_81819,81644,256,238,"S.Rosa,Bataille, grande et belle peinture sur toile, cadre dore;m.2.27X1.52 bis. Henry Scheffer,Charlotte Corday conduite a la prison,belle peinture",424,66.4,False,positional,ROSA SALVATOR,,Tableaux,,
 BO0624_81819,81645,257,239,"Quatre figures de femme,en terrecuite, style Empire. 241.Quatre statuettes,en terrecuite.",432,71.4,False,title_direct,,,Terrecuites,,
@@ -266,7 +266,7 @@ BO0624_81819,81652,264,10,"247.La Maternite, terrecuite.",441,94.7,False,title_d
 BO0624_81819,81653,265,248,"L'Annonciation, bas-relief en albatre, cadre dore.",442,95.9,False,positional,,,BASSORILIEVI,,
 BO0624_81819,81654,266,249,"Deux figures en costume napolitain, statuettes en terrecuite. Devant de chaire, en marbre sculpte et polychrome avec la Vierge,un saint",444,70.2,False,title_direct,,,POLTRONE,,
 BO0624_81819,81655,267,250,"Guirano M. Riviere,belle statuette en pate de cire.",445,96.1,False,positional,,,Marbres; Terrecuites; Sculptures,,
-BO0624_81819,81656,268,15,"et un ange, XIVe siecle (PLANCHE XI).",446,95.7,False,positional,,,Marbres; Terrecuites; Sculptures,,
+BO0624_81819,81656,268,15,"et un ange, XIVe siecle (PLANCHE XI).",446,95.7,False,positional,,,Marbres; Terrecuites; Sculptures,,Sec. XIV
 BO0624_81819,81657,269,253,"Deux panneaux, en bois sculpte, avec la Vierge et le Redempteur d'un cote et les saints de l'autre. 252.Bastianini (attribue), Buste en terrecuite polychrome.",447,76.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81819,81658,270,254,"Un saint, statuette en marbre, xVIle siecle.",449,95.3,False,positional,,,Marbres; Terrecuites; Sculptures,,
 BO0624_81819,81659,271,19,"255.P.Galvani, Belle statuette en terrecuite.",450,96.6,False,title_direct,,,Terrecuites,,
@@ -277,7 +277,7 @@ BO0624_81819,81663,275,259,"Sainte Therese, sculpture polychrome en bois.",454,9
 BO0624_81819,81664,276,260,"Ecole Toscane,xVle siecle, Tete de Saint,haut-relief en terrecuite emaillee, piece rare de Musee;m.0.50X0.40 (PLANCHE XI1).",455,98.3,False,positional,,Scuola Toscana,Marbres; Terrecuites; Sculptures,,
 BO0624_81819,81665,277,261,"Mino de Fiesole (attribue), Un amour, sculpture en marbre de superbe exe- cution;m. 0.65 (PLANCHE XI).",456,82.4,False,positional,,,Marbres; Terrecuites; Sculptures,,
 BO0624_81819,81666,278,262,Un saint sculpte en bois polychrome et dore;m.1.05.,458,96.2,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_81819,81667,279,263,"Buste en marbre sculpte representant un des Grand-Ducs de Toscane, signe M.D.1520 (PLANCHE XIII).",459,97.9,False,title_direct,,,Marbres,,
+BO0624_81819,81667,279,263,"Buste en marbre sculpte representant un des Grand-Ducs de Toscane, signe M.D.1520 (PLANCHE XIII).",459,97.9,False,title_direct,,,Marbres,,Sec. XVI
 BO0624_81819,81668,280,264,"Figure de femme, statuette en terrecuite, style Empire.",463,96.3,False,positional,,,Marbres; Terrecuites; Sculptures,,
 BO0624_81819,81669,281,265,"Un religieux, terrecuite.",465,92.0,False,title_direct,,,Terrecuites,,
 BO0624_81819,81670,282,266,"Statuette en plomb,sur le base petit enfant.",467,95.6,False,positional,,,Marbres; Terrecuites; Sculptures,,
@@ -290,7 +290,7 @@ BO0624_81819,81676,288,272,"L'Ete, belle statuette en pierre sculptee, m. 0.98."
 BO0624_81819,81677,289,273,"Tres belle compostiere en fayence de Turin, decorations d’armoiries,xVille siecle. Plat en fayence de Toscane, decore d’ armoiries. Grand plat en fayence de Savone, decoration bleue.",484,61.8,False,title_direct,,,PIATTI,,
 BO0624_81819,81678,290,276,"Grand plat en fayence de Faenza, avec armoiries, xvllle siecle. Plat pestonne en fayence de Faenza, decore d’ armoiries, xvlle siecle. Plat en fayence d'Urbin, decoration polychrome a la raphaelesque,xVle siecle.",494,53.9,False,title_direct,,Scuola Faentina,PIATTI,,
 BO0624_81819,81679,291,279,"Deux plats en fayence de Faenza, avec armoiries. Plat en fayence de Deruta, decoration polychrome, XVle siecle. Deux plats et deux coupes en fayence de Pavie.",498,55.8,False,title_direct,,Scuola Faentina,PIATTI,,
-BO0624_81819,81680,292,282,"Plat en fayence de Gubbio, decoration polychrome, XVIe siecle. Plat en fayence d’Urbin, decore de petits amours et armoiries, XVle siecle. Grand Plat en fayence de Turin, decore d’armoiries, XVIlle siecle.",504,53.7,False,title_direct,,Scuola Umbra,PIATTI,,
+BO0624_81819,81680,292,282,"Plat en fayence de Gubbio, decoration polychrome, XVIe siecle. Plat en fayence d’Urbin, decore de petits amours et armoiries, XVle siecle. Grand Plat en fayence de Turin, decore d’armoiries, XVIlle siecle.",504,53.7,False,title_direct,,Scuola Umbra,PIATTI,,Sec. XVI
 BO0624_81819,81681,293,285,"Grand Plat en fayence d’Urbin, decoration polychrome, xVIe siecle. Deux plats en fayence de Faenza, decoration polychrome. Grand plat en fayence de Faenza,decoration polychrome.",508,52.9,False,title_direct,,Scuola Faentina,PIATTI,,
 BO0624_81819,81682,294,288,"Grande coupe en fayence de Mantoue, decore d’oiseaux. Quatre plats en porcelaine diverses, decoration de fleurs. Petit plat en fayence de Faenza, decoration polychrome.",516,51.4,False,title_direct,,Scuola Faentina,OGGETTI VARI,,
 BO0624_81819,81683,295,291,"Cruche en ancienne fayence des Abruzzes, piece rare (restauree). Tres belle cruche en fayence de Pavie, decoration polychrome. Cruche en ancienne fayence des Abruzzes.",522,53.8,False,title_direct,,,fayence,,
@@ -347,8 +347,8 @@ BO0624_81819,81733,345,11,345.Etui en bois sculpte et dore.,595,95.5,False,posit
 BO0624_81819,81734,346,346,"Chambre a coucher composee d’un lit a dais, une commode, de deux ta-",596,97.0,False,positional,,,Objets d'art; meubles,,
 BO0624_81819,81735,347,13,"bles a nuit, d’une grande glace et d’un armoire.",597,96.8,False,positional,,,Objets d'art; meubles,,
 BO0624_81819,81736,348,14,"346 bis. Grand buffet en noyer finement sculpte, decore de figures et dauphins,",598,98.1,False,positional,,,Objets d'art; meubles,,
-BO0624_81819,81737,349,15,XVI siecle;m.1.50X0.78 (PLANCHE XV).,599,95.7,False,positional,,,Objets d'art; meubles,,
-BO0624_81819,81738,350,347,"Grand buffet en noyer, finement sculpte, decore de figures et mascarons, XVIe siecle;m.1.40X2.30 (PLANCHE XV).",600,78.0,False,positional,,,Objets d'art; meubles,,
+BO0624_81819,81737,349,15,XVI siecle;m.1.50X0.78 (PLANCHE XV).,599,95.7,False,positional,,,Objets d'art; meubles,,Sec. XVI
+BO0624_81819,81738,350,347,"Grand buffet en noyer, finement sculpte, decore de figures et mascarons, XVIe siecle;m.1.40X2.30 (PLANCHE XV).",600,78.0,False,positional,,,Objets d'art; meubles,,Sec. XVI
 BO0624_81819,81739,351,348,"Grande glace sculpte et doree, en style Louis xV; m. 1.80X1.80.",602,96.7,False,positional,,Periodo di Luigi XV,Objets d'art; meubles,,
 BO0624_81819,81740,352,349,Table a tiroir en noyer; m. 0.80x0.55.,603,94.6,False,positional,,,Objets d'art; meubles,,
 BO0624_81819,81741,353,350,"Serrure en bronze cisele, ancienne copie de la serrure de B. Cellini",604,97.1,False,positional,,,Objets d'art; meubles,,
@@ -361,7 +361,7 @@ BO0624_81819,81747,359,356,"Un guerrier, petite statuette en bronze, a cire perd
 BO0624_81819,81748,360,357,Table en noyer avec deux tiroirs; m. 1.20x0.50.,611,95.7,False,positional,,,Objets d'art; meubles,,
 BO0624_81819,81749,361,358,Table avec deux tiroirs; m.1.10X0.55.,612,94.6,False,positional,,,Objets d'art; meubles,,
 BO0624_81819,81750,362,29,"359.Glace venitienne,en bois sculpte et dore;m.2.85X1.20.",613,97.4,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_81819,81751,363,360,"Ecole Francaise, Grand panneau en bois sculpte,representant la mort d'un saint, XVII siecle; m.1.8OX0.84 (PLANCHE XI1).",614,98.3,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_81819,81751,363,360,"Ecole Francaise, Grand panneau en bois sculpte,representant la mort d'un saint, XVII siecle; m.1.8OX0.84 (PLANCHE XI1).",614,98.3,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_81819,81752,364,361,"Bout de lit, finement sculpte, avec la Vierge et des Saints, xVle siecle; metres 1.70X0.85 (PLANCHE XII).",615,98.0,False,positional,,,Objets d'art; meubles,,
 BO0624_81819,81753,365,3,362.Deux petites tables a tiroirs.,616,97.1,False,positional,,,Objets d'art; meubles,,
 BO0624_81819,81754,366,363,"Deux consolles, en bois sculpte et dore, xvllle siecle.",617,96.3,False,positional,,,OGGETTI IN LEGNO,,
@@ -386,7 +386,7 @@ BO0624_81819,81772,384,381,Porte-feuille en cuir avec decoration en or.,635,95.6
 BO0624_81819,81773,385,382,"Deux cones en bronze dore, socle en bois.",639,95.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81819,81774,386,383,Deux colonnes tortillees en bois sculpte et dore.,640,96.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81819,81775,387,3,384.Tres belle tapisserie flamande representante la mort d’un heros;a 1entour,641,98.7,False,positional,,Scuola Fiamminga,Objets d'art; meubles,,
-BO0624_81819,81776,388,4,"riche bordure, XVIe siecle; m. 3.50 (PLANCHE XIV).",642,97.8,False,positional,,,Objets d'art; meubles,,
+BO0624_81819,81776,388,4,"riche bordure, XVIe siecle; m. 3.50 (PLANCHE XIV).",642,97.8,False,positional,,,Objets d'art; meubles,,Sec. XVI
 BO0624_81819,81777,389,385,"Lot de deux mors pour cheval, deux eperons et d autres pieces.",643,96.8,False,positional,,,Objets d'art; meubles,,
 BO0624_81819,81778,390,386,Trois paires de chenet en fer et en bronze.,644,95.5,False,positional,,,Objets d'art; meubles,,
 BO0624_81819,81779,391,387,Six appliques en bois sculpte et dore.,645,94.9,False,positional,,,LAMPADE,,

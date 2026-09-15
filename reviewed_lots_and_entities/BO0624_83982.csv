@@ -1,9 +1,9 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83982,70805,1,I,"l est represente de trois quarts a mi-corps, le casque de dragon sur la tete, le sabre passe sous le bras. Ce tableau a du etre peint peu apres 1783, annee ou Simon Chenard, basse-taille celebre, obtint un si grand succes dans cet operacomique de Monsigny,a la Comedie Italienne, represente pour la premiere fois en 1769.",130,99.8,False,positional,BOILLY,,,,
+BO0624_83982,70805,1,I,"l est represente de trois quarts a mi-corps, le casque de dragon sur la tete, le sabre passe sous le bras. Ce tableau a du etre peint peu apres 1783, annee ou Simon Chenard, basse-taille celebre, obtint un si grand succes dans cet operacomique de Monsigny,a la Comedie Italienne, represente pour la premiere fois en 1769.",130,99.8,False,positional,BOILLY,,,,Sec. XVIII
 BO0624_83982,70806,2,12,La Visite a l'accouchee.,202,93.9,False,positional,CARMONTELLE,,,,
 BO0624_83982,70807,3,15,16,238,100.0,False,positional,COYPEL,Scuola di Antwerp,,,
 BO0624_83982,70808,4,18,## DE MACHY,271,100.0,False,title_direct,DE MACHY,,,,
-BO0624_83982,70809,5,1752,1817.,345,61.5,False,positional,DROLLING,,,,
+BO0624_83982,70809,5,1752,1817.,345,61.5,False,positional,DROLLING,,,,Sec. XIX
 BO0624_83982,70810,6,28,Deguisements enfantins.,427,93.6,False,positional,EISEN le Pere,,,,
 BO0624_83982,70811,7,3,o — Portrait d’un jeune garcon.,454,98.2,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83982,70812,8,32,—— -La Causerie.,475,88.0,False,positional,,ECOLE FRANCAISE,,,
@@ -38,7 +38,7 @@ BO0624_83982,70840,36,83,— Le Duo.,1189,80.0,False,positional,VESTIER,,,,
 BO0624_83982,70841,37,86,一,1209,40.0,False,positional,VIGEE-LEBRUN,,,,
 BO0624_83982,70842,38,85,Gilles.,1217,80.0,False,positional,WATTEAU,,,,
 BO0624_83982,70843,39,I,"mportante composition,inspiree des sujets analogues de",1233,99.1,False,positional,WATTEAU,,,,
-BO0624_83982,70844,40,1725,1800.,1237,10.5,False,positional,WATTEAU,,,,
+BO0624_83982,70844,40,1725,1800.,1237,10.5,False,positional,WATTEAU,,,,Sec. XIX
 BO0624_83982,70845,41,I,"l est vu de face, ses yeux bleus leves, brillants d'inspiration. Son visage plein, que l'age a deja marque de sillons, s'encadre de cheveux souples et poudres.Il est vetu d'un habit de soie bleu paon, qui s'ouvre sur une chemise blanche a jabot.",1241,41.9,False,positional,WATTEAU,,,,
 BO0624_83982,70846,42,96,Cartel ornemente.,1242,37.5,False,positional,WATTEAU,,,,
 BO0624_83982,70847,43,I,La Jeune mere. I01,1246,35.6,False,positional,WATTEAU,,,,
@@ -57,7 +57,7 @@ BO0624_83982,70859,55,114,Le Triomphe dAmphitrite.,1331,51.2,False,positional,HO
 BO0624_83982,70860,56,I,mportante aquarelle.,1335,42.1,False,positional,HOIN,,,,
 BO0624_83982,70861,57,116,LEte.,1339,40.0,False,positional,HOIN,,,,
 BO0624_83982,70862,58,117,## HUET (JEAN-BAPTISTE),1346,63.4,False,title_direct,HUET,,,,
-BO0624_83982,70863,59,118,"Experience aerostatique du 15juillet 1784,a",1352,43.6,False,positional,PERRONNEAU,,,,
+BO0624_83982,70863,59,118,"Experience aerostatique du 15juillet 1784,a",1352,43.6,False,positional,PERRONNEAU,,,,Sec. XVIII
 BO0624_83982,70864,60,123,La Jouissance.,1369,50.0,False,positional,VIGEE,,,,
 BO0624_83982,70865,61,124,"— Lady Smyth et ses enfants, d’apres Sir J. Reynolds.",1382,41.3,False,positional,REYNOLDS JOSHUA,,Dessins Aneiens,,
 BO0624_83982,70866,62,I,"mportante composition, dans laquelle chacune des petites figures est un portrait spirituellement indique.",1408,41.2,False,positional,BOUCHER,,,,
@@ -88,7 +88,7 @@ BO0624_83982,70890,86,162,—Portrait de Mrs.Benwell.,1783,57.6,False,positional
 BO0624_83982,70891,87,163,Portrait de Mrs.Gwyn.,1802,47.8,False,positional,BARTOLOZZI,,,,
 BO0624_83982,70892,88,164,"— Vue des ruines de la villa Sacchetti, a Rome.",1808,44.0,False,positional,BARTOLOZZI,,,,
 BO0624_83982,70893,89,165,165—Ruines antiques.,1816,35.3,False,positional,BARTOLOZZI,,STAMPE E INCISIONI,,
-BO0624_83982,70894,90,166,"## 166—Portrait de Marie-Antoinette d'Autriche,Reine de France et de Navarre, 1777.",1818,50.8,False,positional,BARTOLOZZI,,,,
+BO0624_83982,70894,90,166,"## 166—Portrait de Marie-Antoinette d'Autriche,Reine de France et de Navarre, 1777.",1818,50.8,False,positional,BARTOLOZZI,,,,Sec. XVIII
 BO0624_83982,70895,91,167,## 167 — Portrait d’une jeune princesse (Frederique-Sophie-,1830,56.5,False,positional,BONNET,,,,
 BO0624_83982,70896,92,168,La Toilette de Venus.,1839,37.8,False,positional,BOUCHER,,OGGETTI VARI,,
 BO0624_83982,70897,93,16,g —Ah! laisse-moi donc voir!,1849,44.8,False,positional,BOUCHER,,,,
@@ -106,7 +106,7 @@ BO0624_83982,70908,104,183,"- 3—Portrait deS.A.S.Madame Anastasie,Landgrave de
 BO0624_83982,70909,105,184,— Box Lobby Loungers (Les Flaneurs dans le foyer des loges).,1897,35.2,False,positional,DAGOTY,,,,
 BO0624_83982,70910,106,185,## SAINT-AUBIN (D'apres AUGUsTIN DE),1901,43.2,False,title_direct,SAINT-AUBIN,,,,
 BO0624_83982,70911,107,186,"—Portrait du general Marceau,a ne a Chartres, soldat a XVI ans,general a XXIII,mort aXXVII.",1926,39.0,False,positional,DEBUCOURT,,,,
-BO0624_83982,70912,108,187,"一 The Promenade at Carlisle-House,1781.",1935,50.0,False,positional,DEBUCOURT,,,,
+BO0624_83982,70912,108,187,"一 The Promenade at Carlisle-House,1781.",1935,50.0,False,positional,DEBUCOURT,,,,Sec. XVIII
 BO0624_83982,70913,109,188,-Noce de village.,1937,48.5,False,positional,DEBUCOURT,,,,
 BO0624_83982,70914,110,189,—A Flower piece.,1939,37.0,False,positional,DEBUCOURT,,,,
 BO0624_83982,70915,111,190,—Auditoire dans l'edifice de la Societe Felix Meritis aAmsterdam.,1976,45.0,False,positional,DEBUCOURT,,,,
@@ -238,11 +238,11 @@ BO0624_83982,71040,236,320,"—REGuLATEuR, de forme contournee,en marqueterie de
 BO0624_83982,71041,237,321,"- PAIRE DE MEUBLEs-ENcoIGNuREs, de forme mouvementee, en bois noir, s'ouvrant a deux portes faites d'ancienne laque de Coromandel, a decor de personnages chinois occupes a des jeux divers dans des interieurs. Riche ornementation de bronzes ciselés et dores, formant encadrements,composes de baguettes a rinceaux et rocailles, culots de feuillages et autres motifs; chutes et agrafes aux angles. Dessus de marbre brocatelle. Ces deux beaux meubles portent l'estampille d''un maitre ebeniste de l'époque Louis XV,a qui l'on doit des ouvrages remarquables, et qui marquait ses ceuvres des",3195,99.7,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_83982,71042,238,322,"GRAND BUREAU,ouvrant a cylindre,sur quatre pieds cambres, en marqueterie de bois de placage. Il est a quatre faces, de forme mouvementee,et muni de tiroirs. Garniture de bronzes dores et galerie ajouree en cuivre sur le dessus. Fin de I'époque Louis Xv.",3202,99.2,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_83982,71043,239,323,"—PETITE TABLE-BUREAu de dame, de forme contournee sur quatre pieds cambres, s'ouvrant a tiroir lateral, en bois de placage et marqueterie de bois debout, sur le dessus, a fleurs et rinceaux.Epoque Louis XV.",3207,99.0,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
-BO0624_83982,71044,240,324,"—MeUBLE D'ENTRE-DEUx,a hauteur d'appui,ouvrant a abattant et deux portes, de forme droite avec cotes fuyants, en marqueterie de bois de couleur a branchages fleuris et oiseaux. Entree de serrure et rosaces en bronze cisele et dore. Dessus de marbre breche d'Alep. Il porte l'estampille du maitre ébeniste:J.-B. Hedouin (rue Traversiere St Antoine, recu maitre le 22 mai 1738). Epoque fin Louis XV.",3215,99.5,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
+BO0624_83982,71044,240,324,"—MeUBLE D'ENTRE-DEUx,a hauteur d'appui,ouvrant a abattant et deux portes, de forme droite avec cotes fuyants, en marqueterie de bois de couleur a branchages fleuris et oiseaux. Entree de serrure et rosaces en bronze cisele et dore. Dessus de marbre breche d'Alep. Il porte l'estampille du maitre ébeniste:J.-B. Hedouin (rue Traversiere St Antoine, recu maitre le 22 mai 1738). Epoque fin Louis XV.",3215,99.5,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_83982,71045,241,325,"— SecRETAIRE de forme droite avec angles coupes, en",3218,96.0,False,positional,,,MEUBLES D'EBENISTERIE,,
 BO0624_83982,71046,242,326,"—TABLE-sERvANTE glaciere,de forme contournee, en acajou, reposant sur quatre pieds reunis par deux tablettes. Le dessus, muni d'un tiroir,est perce de quatre cavites dont deux sont garnies de seaux a glace en metal argente. xville siecle.",3223,99.1,False,positional,,,ACQUEFORTI,,
 BO0624_83982,71047,243,327,"—ConsoLe d'entre-deux, forme demi-lune, en acajou. Elle repose sur quatre pieds canneles et s'ouvre a deux rangs de tiroirs ornes de moulures de cuivre. Dessus de marbre blanc. Epoque Louis XVI.",3227,98.9,False,positional,,,ACQUEFORTI,,
-BO0624_83982,71048,244,328,"—PETITE TABLE ovale,en acajou,avec tablette d'entrejambe ornee d'une galerie ajouree en cuivre. Le dessus offre, sous verre,une Vue du Palais-Royal prise du fond du jardin, executee sur le tour par CoMpiGNE, tablettier du Roy. Elle porte I'estampille du maitre ebeniste G. M. Cramer (rue du Bac, recu maitre le 4 septembre 1771). Epoque Louis XVI.",3231,99.4,False,positional,DU JARDIN KAREL,,ACQUEFORTI,,
+BO0624_83982,71048,244,328,"—PETITE TABLE ovale,en acajou,avec tablette d'entrejambe ornee d'une galerie ajouree en cuivre. Le dessus offre, sous verre,une Vue du Palais-Royal prise du fond du jardin, executee sur le tour par CoMpiGNE, tablettier du Roy. Elle porte I'estampille du maitre ebeniste G. M. Cramer (rue du Bac, recu maitre le 4 septembre 1771). Epoque Louis XVI.",3231,99.4,False,positional,DU JARDIN KAREL,,ACQUEFORTI,,Sec. XVIII
 BO0624_83982,71049,245,329,"— PeTITE TABLE-LIsEusE a pupitre de forme rectangulaire, avec écran mobile et flambeau sur le cote. Elle est en acajou avec tablette d'entrejambe et galerie ajouree en",3235,98.8,False,positional,,,ACQUEFORTI,,
 BO0624_83982,71050,246,330,"- TREs PETIT GuERIDoN en acajou, avec support median garni de trois flacons. Epoque Louis xVI.",3241,97.8,False,positional,,,ACQUEFORTI,,
 BO0624_83982,71051,247,331,- CoNsoLE D'ENcoIGNuRE en acajou s'ouvrant a tiroir avec,3245,96.4,False,positional,,,ACQUEFORTI,,

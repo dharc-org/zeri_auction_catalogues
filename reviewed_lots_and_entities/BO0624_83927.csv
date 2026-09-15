@@ -1,10 +1,10 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83927,649672,1,1435,1495.,7,61.5,False,positional,BENVENUTO DI GIOVANNI,,,,
+BO0624_83927,649672,1,1435,1495.,7,61.5,False,positional,BENVENUTO DI GIOVANNI,,,,Sec. XV
 BO0624_83927,649673,2,I,"l est debout, de trois quarts a droite,tenant son chapeau de la main gauche et, de la main droite, dessinant un geste de commandement.",42,99.6,False,positional,BOILLY,,,,
-BO0624_83927,649674,3,1467,1516.,49,61.5,False,positional,BOLTRAFFIO,,,,
+BO0624_83927,649674,3,1467,1516.,49,61.5,False,positional,BOLTRAFFIO,,,,Sec. XVI
 BO0624_83927,649675,4,I,"l est represente jusqu'a la poitrine, de trois quarts a gauche, en vetement gris sur sa chemise blanche. Il tient de la main droite,les doigts serres, le manche de son maillet de fer. Il est coiffe d'un large feutre mou, dont les rebords inscrivent sur son front et ses yeux une ombre transparente. Le reste de la figure s'eclaire de plein soleil.",72,99.9,False,positional,CHARDIN,,,,
 BO0624_83927,649676,5,6,## CONSTABLE,81,100.0,False,title_direct,CONSTABLE,,,,
-BO0624_83927,649677,6,1776,1837,83,61.5,False,positional,CONSTABLE,,,,
+BO0624_83927,649677,6,1776,1837,83,61.5,False,positional,CONSTABLE,,,,Sec. XIX
 BO0624_83927,649678,7,10,一,109,40.0,False,positional,CONSTABLE,,,,
 BO0624_83927,649679,8,3,## 12,138,100.0,False,positional,CONSTABLE,,,,
 BO0624_83927,649680,9,13,—La Charrette de foin. 17,152,87.0,False,positional,CONSTABLE,,,,
@@ -27,14 +27,14 @@ BO0624_83927,649696,25,35,Saint Mary's Church.,370,92.7,False,positional,CONSTAB
 BO0624_83927,649697,26,36,— Ecluse sur la Stour.,380,92.7,False,positional,CONSTABLE,,,,
 BO0624_83927,649698,27,3,g — Le Petit pont.,395,90.3,False,positional,CONSTABLE,,,,
 BO0624_83927,649699,28,4,## CONSTABLE,401,100.0,False,title_direct,CONSTABLE,,,,
-BO0624_83927,649700,29,1480,1535.,430,61.5,False,positional,CORTELLINI DE FERRARE,,,,
-BO0624_83927,649701,30,1748,1825,456,61.5,False,positional,DAVID,,,,
+BO0624_83927,649700,29,1480,1535.,430,61.5,False,positional,CORTELLINI DE FERRARE,,,,Sec. XVI
+BO0624_83927,649701,30,1748,1825,456,61.5,False,positional,DAVID,,,,Sec. XIX
 BO0624_83927,649702,31,45,"一 l est vu de profl a gauche, les cheveux gris. Le col seul du vetement est indique.",467,98.1,False,positional,DAVID,,,,
 BO0624_83927,649703,32,46,Antiochus et Stratonice.,477,93.9,False,positional,DAVID,,,,
 BO0624_83927,649704,33,47,## DAVID,489,100.0,False,title_direct,DAVID,Scuola di Teniers,,,
 BO0624_83927,649705,34,I,"l est vu debout, de face,a mi-corps, en robe lie de vin; les mains croisees sur la poitrine sont retenues par une corde. Sur le front et sur les cheveux tombant en tresses blondes, on a enfonce la couronne d'epines, dont les dechirures laissent couler sur le front,le long des joues etsur les epaules,des gouttes de sang. La figure se detache sur un fond sombre.",523,99.9,False,positional,FOPPA,,,,
-BO0624_83927,649706,35,50,## GAINSBOROUGH 1788.,530,82.8,False,title_direct,GAINSBOROUGH,,,,
-BO0624_83927,649707,36,51,— Les Bohemiens dans le bois. 1824.,548,86.7,False,positional,GAINSBOROUGH,,OGGETTI IN LEGNO,,
+BO0624_83927,649706,35,50,## GAINSBOROUGH 1788.,530,82.8,False,title_direct,GAINSBOROUGH,,,,Sec. XVIII
+BO0624_83927,649707,36,51,— Les Bohemiens dans le bois. 1824.,548,86.7,False,positional,GAINSBOROUGH,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_83927,649708,37,52,"Portrait de Jamar, son eleve.",555,94.7,False,positional,GERICAULT,,,,
 BO0624_83927,649709,38,53,—La Folle.,567,84.2,False,positional,GERICAULT,,,,
 BO0624_83927,649710,39,54,## GERICAULT,575,100.0,False,title_direct,GERICAULT,,,,
@@ -49,49 +49,49 @@ BO0624_83927,649718,47,I,l est vu de face jusqu'a la poitrine,680,98.6,False,pos
 BO0624_83927,649719,48,63,—Etude de lion couche de trois quarts a gauche.,686,96.8,False,positional,GERICAULT,,,,
 BO0624_83927,649720,49,66,## GERICAULT,693,100.0,False,title_direct,GERICAULT,,,,
 BO0624_83927,649721,50,6,Esquisse pour le tableau de l'Officier de chasseurs chargeant.,707,98.4,False,positional,GERICAULT,,,,
-BO0624_83927,649722,51,1502,1529.,738,61.5,False,positional,GERINO DA PISTOIA,,,,
+BO0624_83927,649722,51,1502,1529.,738,61.5,False,positional,GERINO DA PISTOIA,,,,Sec. XVI
 BO0624_83927,649723,52,68,——Le Christ en croix.,742,92.3,False,positional,GERINO DA PISTOIA,,,,
-BO0624_83927,649724,53,1767,1824.,755,61.5,False,positional,GIRODET-TRIOSON,,,,
+BO0624_83927,649724,53,1767,1824.,755,61.5,False,positional,GIRODET-TRIOSON,,,,Sec. XIX
 BO0624_83927,649725,54,I,"l est represente debout, appuye contre une pierre sur laquelle rampent des lierres. Il est vu jusqu'a mi-jambes, la main droite a demi engagee dans le revers de l'habit noir. Son pantalon est de ton brun; sur I'habit,il porte un manteau ouvert, de drap marron,a parements de velours noir. Contre le revers de l'habit,on apercoit le bord du gilet cafe au lait.et le plastron souple de la chemise serree au cou par une ample cravate noire. La tete, aux cheveux coiffes en coup de vent, est legerement tournee de trois quarts a gauche. Les yeux sont vifs, le nez fin,la bouche d'un dessin serre et mordant. La figure se detache sur un fond de ciel et de paysage ou l'on apercoit des ruines d'un cirque romain,",759,99.9,False,title_direct,LE BRUN CHARLES,,Dessins,,
 BO0624_83927,649726,55,70,champs.,767,80.0,False,positional,GIRODET-TRIOSON,,,,
-BO0624_83927,649727,56,1746,1828.,780,61.5,False,positional,GOYA,,,,
+BO0624_83927,649727,56,1746,1828.,780,61.5,False,positional,GOYA,,,,Sec. XIX
 BO0624_83927,649728,57,72,"## GOYA l est debout, de face, sur un plateau, inspectant le camp ennemi a l'aide d'une longue vue.",801,96.7,False,title_direct,GOYA,,,,
 BO0624_83927,649729,58,73,— Charles IV et sa famille.,807,94.1,False,positional,GOYA,,,,
-BO0624_83927,649730,59,1596,1666.,815,61.5,False,positional,GOYEN,,,,
-BO0624_83927,649731,60,1548,1625.,834,61.5,False,positional,EL GRECO,,,,
+BO0624_83927,649730,59,1596,1666.,815,61.5,False,positional,GOYEN,,,,Sec. XVII
+BO0624_83927,649731,60,1548,1625.,834,61.5,False,positional,EL GRECO,,,,Sec. XVII
 BO0624_83927,649732,61,76,Saint Dominique.,838,90.9,False,positional,EL GRECO,,,,
 BO0624_83927,649733,62,77,## EL GRECO,851,100.0,False,title_direct,EL GRECO,,,,
-BO0624_83927,649734,63,1771,1835.,878,61.5,False,positional,Baron GROS,,,,
-BO0624_83927,649735,64,79,Francaise. 1792.,882,69.2,False,positional,Baron GROS,,,,
+BO0624_83927,649734,63,1771,1835.,878,61.5,False,positional,Baron GROS,,,,Sec. XIX
+BO0624_83927,649735,64,79,Francaise. 1792.,882,69.2,False,positional,Baron GROS,,,,Sec. XVIII
 BO0624_83927,649736,65,80,Canal a Venise.,892,90.3,False,positional,GUARDI,,,,
 BO0624_83927,649737,66,81,"L'Eglise de San Michele,a Pile des Tombeaux (cimetiere de Venise).",898,97.7,False,positional,GUARDI,,,,
 BO0624_83927,649738,67,82,—La Jeune femme a la toque de velours noir.,905,96.5,False,positional,HOPPNER,,,,
 BO0624_83927,649739,68,1826,83 — Portrait d’un Conventionnel.,917,100.0,False,positional,LANEUVILLE,,,,
-BO0624_83927,649740,69,1769,1830.,924,61.5,False,positional,LAWRENCE,Scuola Viennese,,,
+BO0624_83927,649740,69,1769,1830.,924,61.5,False,positional,LAWRENCE,Scuola Viennese,,,Sec. XIX
 BO0624_83927,649741,70,84,Portrait de Lady X...,926,92.3,False,positional,LAWRENCE,,,,
 BO0624_83927,649742,71,85,"La Vierge debout, la tete de trois quarts a gauche et penchee en avant, tient de la main gauche l'Enfant Jesus nu, debout également sur une console.De la main droite,la Vierge porte une feurette que l'Enfant veut prendre de sa main droite. La Vierge est vetue de la chlamyde bleue a revers jaunes sur une robe rouge.",940,100.0,False,positional,BERNARDINO LUINI,,,,
 BO0624_83927,649743,72,86,— Tete de Christ mort.,953,92.7,False,positional,MARLIANO PIAZZA DA LODI,,,,
-BO0624_83927,649744,73,1403,1440(2).,961,70.6,False,positional,MASOLINO DA PANICALE,,,,
-BO0624_83927,649745,74,1480,1528.,977,61.5,False,positional,MAZZOLINO DA FERRARA,,,,
+BO0624_83927,649744,73,1403,1440(2).,961,70.6,False,positional,MASOLINO DA PANICALE,,,,Sec. XV
+BO0624_83927,649745,74,1480,1528.,977,61.5,False,positional,MAZZOLINO DA FERRARA,,,,Sec. XVI
 BO0624_83927,649746,75,88,— La Vierge et quelques martyrs.,981,95.1,False,positional,MAZZOLINO DA FERRARA,,,,
 BO0624_83927,649747,76,90,一,986,40.0,False,positional,MAZZOLINO DA FERRARA,,,,
-BO0624_83927,649748,77,1757,1836.,992,61.5,False,positional,MERIMEE,,,,
-BO0624_83927,649749,78,1763,1804.,1004,61.5,False,positional,MORLAND,,,,
-BO0624_83927,649750,79,1790,1819.,1018,61.5,False,positional,PAGNEST,,,,
+BO0624_83927,649748,77,1757,1836.,992,61.5,False,positional,MERIMEE,,,,Sec. XIX
+BO0624_83927,649749,78,1763,1804.,1004,61.5,False,positional,MORLAND,,,,Sec. XIX
+BO0624_83927,649750,79,1790,1819.,1018,61.5,False,positional,PAGNEST,,,,Sec. XIX
 BO0624_83927,649751,80,91,## PEDRINI,1027,100.0,False,title_direct,PEDRINI,,,,
-BO0624_83927,649752,81,1760,1823.,1043,61.5,False,positional,PRUD'HON,,,,
+BO0624_83927,649752,81,1760,1823.,1043,61.5,False,positional,PRUD'HON,,,,Sec. XIX
 BO0624_83927,649753,82,94,## PRUD'HON,1056,100.0,False,title_direct,PRUD'HON,Scuola di Prud'hon,,,
 BO0624_83927,649754,83,95,## PRUD'HON,1073,100.0,False,title_direct,PRUD'HON,Scuola di Prud'hon,,,
-BO0624_83927,649755,84,1756,1823.,1089,61.5,False,positional,RAEBURN,,,,
+BO0624_83927,649755,84,1756,1823.,1089,61.5,False,positional,RAEBURN,,,,Sec. XIX
 BO0624_83927,649756,85,97,—Portrait de femme.,1091,91.9,False,positional,RAEBURN,,,,
 BO0624_83927,649757,86,I,"l est represente en costume, jusqu'a mi-corps,le torse de trois quarts a droite,la tete tournee legerement a gauche.Le visage est plein,l'eil magnifiquement expressif, les cheveux sont quelque peu en desordre;la bouche est grave. Sur le costume marron,la collerette,garnie de point coupe,joue avec souplesse. La main gauche,les doigts ployes, est croisee sur le bras droit. La figure se detache sur un fond sombre.",1102,99.9,False,positional,REYNOLDS,,,,
 BO0624_83927,649758,87,I,"l en existe une copie au musee Shakespeare,a Stratfordsur-Avon.",1106,99.2,False,positional,REYNOLDS,,,,
 BO0624_83927,649759,88,100,Neron.,1109,71.4,False,positional,REYNOLDS,,,,
 BO0624_83927,649760,89,I,"l apparait le visage sensuel, les yeux de cote, le cou robuste et torture,les épaules couvertes de la pourpre.",1111,99.5,False,positional,REYNOLDS,,,,
-BO0624_83927,649761,90,1734,1802.,1119,61.5,False,positional,ROMNEY,,,,
+BO0624_83927,649761,90,1734,1802.,1119,61.5,False,positional,ROMNEY,,,,Sec. XIX
 BO0624_83927,649762,91,99,Lady Hamilton en ingenue.,1121,94.1,False,positional,ROMNEY,,,,
-BO0624_83927,649763,92,1458,1530.,1130,61.5,False,positional,ANDREA DA SOLARIO,Scuola Fiorentina,,,
-BO0624_83927,649764,93,1775,1851.,1158,61.5,False,positional,TURNER,,,,
+BO0624_83927,649763,92,1458,1530.,1130,61.5,False,positional,ANDREA DA SOLARIO,Scuola Fiorentina,,,Sec. XVI
+BO0624_83927,649764,93,1775,1851.,1158,61.5,False,positional,TURNER,,,,Sec. XIX
 BO0624_83927,649765,94,103,The Artist's House at Twickham.,1160,93.8,False,positional,TURNER,,,,
 BO0624_83927,649766,95,104,"Saint Jean-Baptiste. l est vu jusqu'a mi-corps. Sa tete souriante s'incline vers l'épaule droite. Sur son crane, ses cheveux roux ondules sont partages par une raie et tombent en tresses legeres de chaque cote du visage. De sa main droite relevee, l'index tendu,il indique le ciel. De la main gauche ramenee pres de la poitrine, il retient la peau de bete qui lui sert de vetement.",1171,97.4,False,positional,LEONARDO DA VINCI,,,,
 BO0624_83927,649767,96,105,——-La Vierge aux rochers.,1188,91.3,False,positional,LEONARDO DA VINCI,,,,
@@ -99,14 +99,14 @@ BO0624_83927,649768,97,106,"uLa Joconde , de Leonardo da Vinci.",1205,94.1,False
 BO0624_83927,649769,98,107,— Portrait d'homme.,1215,88.9,False,positional,,ECOLE HOLLANDAISE,,,
 BO0624_83927,649770,99,108,"—La Vierge, I'Enfant Jesus et lagneau.",1223,94.6,False,positional,,ECOLE ITALIENNE,,,
 BO0624_83927,649771,100,109,Portrait d'homme.,1236,88.9,False,positional,,ECOLE ITALIENNE,,,
-BO0624_83927,649772,101,1822,1899.,1277,61.5,False,positional,BONHEUR,,,,
+BO0624_83927,649772,101,1822,1899.,1277,61.5,False,positional,BONHEUR,,,,Sec. XIX
 BO0624_83927,649773,102,I1,I,1285,40.0,False,title_direct,ANDREA DA SOLARIO,ECOLE FRANCAISE,,,
-BO0624_83927,649774,103,1801,1828.,1290,61.5,False,positional,BONINGTON,,,,
+BO0624_83927,649774,103,1801,1828.,1290,61.5,False,positional,BONINGTON,,,,Sec. XIX
 BO0624_83927,649775,104,113,—La Seine en amont de Notre-Dame.,1292,93.9,False,positional,BONINGTON,,,,
 BO0624_83927,649776,105,114,一,1300,33.3,False,positional,BONINGTON,,,,
 BO0624_83927,649777,106,115,vus de la Piazetta.,1310,90.0,False,positional,BONINGTON,,,,
 BO0624_83927,649778,107,116,—Le Prince Noir.,1316,87.5,False,positional,BONINGTON,,,,
-BO0624_83927,649779,108,117,## BONVIN 1887.,1325,70.6,False,title_direct,BONVIN,,,,
+BO0624_83927,649779,108,117,## BONVIN 1887.,1325,70.6,False,title_direct,BONVIN,,,,Sec. XIX
 BO0624_83927,649780,109,118,"uLa Plage a maree basse,dapres",1344,93.8,False,positional,BONVIN,,,,
 BO0624_83927,649781,110,119,"— Les Syndics ,dapres Rembrandt.",1358,93.3,False,positional,BONVIN,,,,
 BO0624_83927,649782,111,120,Tete de femme de profil a droite.,1366,94.1,False,positional,CALS,,,,
@@ -131,12 +131,12 @@ BO0624_83927,649800,129,138,assis sur un banc.,1605,89.5,False,positional,COROT,
 BO0624_83927,649801,130,I,"l est vu de dos, un panier au bras.",1619,98.5,False,positional,COROT,,,,
 BO0624_83927,649802,131,2181,6181,1642,61.5,False,positional,COURBET,,,,
 BO0624_83927,649803,132,47,## COUTURE,1688,100.0,False,title_direct,COUTURE,,,,
-BO0624_83927,649804,133,1815,1879,1692,61.5,False,positional,COUTURE,,,,
+BO0624_83927,649804,133,1815,1879,1692,61.5,False,positional,COUTURE,,,,Sec. XIX
 BO0624_83927,649805,134,146,Portrait d'homme.,1706,88.9,False,positional,COUTURE,,,,
 BO0624_83927,649806,135,149,150,1721,100.0,False,positional,COUTURE,,,,
 BO0624_83927,649807,136,I,"l est vu de trois quarts a droite, dans la penombre,la lumiere arrivant seulement sur l'oreille et la pommette droite. Il a les cheveux chatain clair,partages sur le milieu de la tete,et une barbe blonde taillee en pointe.",1735,99.8,False,positional,DEGAS,,,,
-BO0624_83927,649808,137,1822,1882.,1743,61.5,False,positional,DEHODENCQ,,,,
-BO0624_83927,649809,138,1798,1863.,1756,61.5,False,positional,DELACROIX,,,,
+BO0624_83927,649808,137,1822,1882.,1743,61.5,False,positional,DEHODENCQ,,,,Sec. XIX
+BO0624_83927,649809,138,1798,1863.,1756,61.5,False,positional,DELACROIX,,,,Sec. XIX
 BO0624_83927,649810,139,151,Hercule et Alceste.,1758,90.0,False,positional,DELACROIX,,,,
 BO0624_83927,649811,140,152,一 -La Grece expirant sur les ruines de Missolonghi.,1779,96.1,False,positional,DELACROIX,,,,
 BO0624_83927,649812,141,153,3—Etudes de babouches.,1793,91.3,False,positional,DELACROIX,,,,
@@ -175,16 +175,16 @@ BO0624_83927,649844,173,186,## DELACROIX,2303,100.0,False,title_direct,DELACROIX
 BO0624_83927,649845,174,188,"—u Etude de selle arabe  et de person- nages, d'apres Goya.",2329,96.4,False,positional,DELACROIX,,,,
 BO0624_83927,649846,175,190,一,2334,33.3,False,positional,DELACROIX,,,,
 BO0624_83927,649847,176,191,## DIAZ DE LA PENA,2383,100.0,False,title_direct,DIAZ DE LA PENA,,,,
-BO0624_83927,649848,177,193,— Dans la foret. 1883.,2387,74.3,False,positional,DIAZ DE LA PENA,,,,
+BO0624_83927,649848,177,193,— Dans la foret. 1883.,2387,74.3,False,positional,DIAZ DE LA PENA,,,,Sec. XIX
 BO0624_83927,649849,178,194,— Le Chevalier errant.,2399,90.5,False,positional,DIAZ DE LA PENA,,,,
-BO0624_83927,649850,179,1836,1904.,2407,61.5,False,positional,FANTIN-LATOUR,,,,
+BO0624_83927,649850,179,1836,1904.,2407,61.5,False,positional,FANTIN-LATOUR,,,,Sec. XX
 BO0624_83927,649851,180,196,Trois peches sur une assiette.,2419,93.5,False,positional,FANTIN-LATOUR,,,,
 BO0624_83927,649852,181,197,198,2424,100.0,False,positional,FANTIN-LATOUR,,,,
 BO0624_83927,649853,182,200,Bouquet de roses.,2459,88.9,False,positional,FANTIN-LATOUR,,,,
-BO0624_83927,649854,183,1820,1876.,2479,61.5,False,positional,FROMENTIN,,,,
+BO0624_83927,649854,183,1820,1876.,2479,61.5,False,positional,FROMENTIN,,,,Sec. XIX
 BO0624_83927,649855,184,203,-Etudes d'Arabes assis ou debout. ## GAVARNI,2493,83.8,False,title_direct,GAVARNI,,,,
-BO0624_83927,649856,185,204,— Le Joueur de violon. 1865.,2500,80.9,False,positional,GAVARNI,,,,
-BO0624_83927,649857,186,205,— 1905.,2518,61.5,False,positional,HENNER,,,,
+BO0624_83927,649856,185,204,— Le Joueur de violon. 1865.,2500,80.9,False,positional,GAVARNI,,,,Sec. XIX
+BO0624_83927,649857,186,205,— 1905.,2518,61.5,False,positional,HENNER,,,,Sec. XX
 BO0624_83927,649858,187,206,Nymphe au bord d'une source.,2520,93.1,False,positional,HENNER,,,,
 BO0624_83927,649859,188,I,NGRES,2528,90.9,False,title_direct,INGRES,,,,
 BO0624_83927,649860,189,I,NGRES,2535,90.9,False,title_direct,INGRES,,,,
@@ -193,23 +193,23 @@ BO0624_83927,649862,191,210,—,2541,0.0,False,positional,INGRES,,,,
 BO0624_83927,649863,192,I,NGRES,2552,90.9,False,title_direct,INGRES,,,,
 BO0624_83927,649864,193,I,NGRES,2564,90.9,False,title_direct,INGRES,,,,
 BO0624_83927,649865,194,211,Eschyle. NGRES,2583,58.3,False,title_direct,INGRES,,,,
-BO0624_83927,649866,195,212,(1784-1873). SRAELS,2597,62.1,False,title_direct,ISRAELS,,,,
+BO0624_83927,649866,195,212,(1784-1873). SRAELS,2597,62.1,False,title_direct,ISRAELS,,,,Sec. XIX
 BO0624_83927,649867,196,213,一 Une Hollandaise.,2607,89.5,False,positional,ISRAELS,,,,
 BO0624_83927,649868,197,214,— Jeune femme allaitant son enfant.,2617,94.1,False,positional,LANDSEER,,,,
 BO0624_83927,649869,198,I,NGRES,2623,90.9,False,title_direct,INGRES,,,,
 BO0624_83927,649870,199,219,## LAVIEILLE,2626,100.0,False,title_direct,LAVIEILLE,,,,
-BO0624_83927,649871,200,1820,1889.,2630,61.5,False,positional,LAVIEILLE,,,,
-BO0624_83927,649872,201,216,Edipe vainqueur du Sphinx. 1883.,2642,84.7,False,positional,LEVY,,,,
+BO0624_83927,649871,200,1820,1889.,2630,61.5,False,positional,LAVIEILLE,,,,Sec. XIX
+BO0624_83927,649872,201,216,Edipe vainqueur du Sphinx. 1883.,2642,84.7,False,positional,LEVY,,,,Sec. XIX
 BO0624_83927,649873,202,217,La Barque de Dante.,2654,90.0,False,positional,MANET,,,,
 BO0624_83927,649874,203,218,"Portrait de Moore, critique anglais.",2662,94.4,False,positional,MANET,,,,
-BO0624_83927,649875,204,1811,1847.,2679,61.5,False,positional,MARILHAT,,,,
+BO0624_83927,649875,204,1811,1847.,2679,61.5,False,positional,MARILHAT,,,,Sec. XIX
 BO0624_83927,649876,205,221,Napoleon Ier,2693,85.7,False,positional,MEISSONIER,,,,
 BO0624_83927,649877,206,222,Chemin decouvert aupres d'une carriere. ## MILLET,2701,87.4,False,title_direct,MILLET,,,,
 BO0624_83927,649878,207,223,Bucheron.,2710,80.0,False,positional,MILLET,,,,
 BO0624_83927,649879,208,1,"'horizon, le soleil decline et va bientot disparaitre.",2724,98.1,False,positional,MOREAU,,,,
 BO0624_83927,649880,209,225,croix.,2734,71.4,False,positional,POTERLET,,,,
-BO0624_83927,649881,210,226,— La Mort de Sardanapale. 1898.,2742,83.0,False,positional,POTERLET; DELACROIX,,,,
-BO0624_83927,649882,211,227,一 Madeleine. 1860.,2751,71.0,False,positional,PUVIS DE CHAVANNES,,,,
+BO0624_83927,649881,210,226,— La Mort de Sardanapale. 1898.,2742,83.0,False,positional,POTERLET; DELACROIX,,,,Sec. XIX
+BO0624_83927,649882,211,227,一 Madeleine. 1860.,2751,71.0,False,positional,PUVIS DE CHAVANNES,,,,Sec. XIX
 BO0624_83927,649883,212,228,Deux armures.,2762,85.7,False,positional,RAFFET,,,,
 BO0624_83927,649884,213,229,— Portrait de Murat.,2770,89.5,False,positional,RAFFET,,,,
 BO0624_83927,649885,214,230,"Espagnol, guide d'Henri Regnault et de Clairin npendant leur voyage d'Espagne. l est debout, de trois quarts a droite, la chemise ouverte, le costume, culotte, ceinture et veste, bariole de jaune,de rouge et de bleu. Un manteau, jete sur l'epaule droite, laisse a peine passer la main qui serre le canon d'un fusil. La tete est coiffee d'un feutre noir. La figure se detache sur un fond gris.",2780,88.8,False,positional,REGNAULT,,,,
@@ -217,16 +217,16 @@ BO0624_83927,649886,215,231,"—Le Petit cuisinier. l est vu de profl a gauche, 
 BO0624_83927,649887,216,232,"2——α Les Syndics , d'apres Rembrandt.",2803,94.3,False,positional,RICARD,,,,
 BO0624_83927,649888,217,233,"α La Chasse au lion , d'apres Dela- croix.",2813,95.0,False,positional,RIESENER,,,,
 BO0624_83927,649889,218,234,Des roses au-dessus desquelles voltigent des papillons et des libellules.,2822,97.3,False,positional,ROUSSEAU,,,,
-BO0624_83927,649890,219,235,Etude de tronc d’'arbre. 1874.,2836,89.8,False,positional,ROUSSEAU,,,,
+BO0624_83927,649890,219,235,Etude de tronc d’'arbre. 1874.,2836,89.8,False,positional,ROUSSEAU,,,,Sec. XIX
 BO0624_83927,649891,220,236,— Femmes dans un interieur.,2848,92.3,False,positional,TASSAERT,,ARREDAMENTI,,
 BO0624_83927,649892,221,237,Nymphe couchee.,2859,87.5,False,positional,TASSAERT,,,,
 BO0624_83927,649893,222,238,— Portrait de jeune femme.,2871,92.0,False,positional,TASSAERT,,,,
 BO0624_83927,649894,223,239,一 Danae. 243 — Six feuilles d'etudes de vaches debout ou couchees.,2896,91.4,False,positional,TROYON,,,,
 BO0624_83927,649895,224,242,一 La Grand'Route.,2914,88.9,False,positional,VOLLON,,,,
-BO0624_83927,649896,225,1761,1845.,2939,61.5,False,positional,BOILLY,,,,
+BO0624_83927,649896,225,1761,1845.,2939,61.5,False,positional,BOILLY,,,,Sec. XIX
 BO0624_83927,649897,226,244,——Soins maternels.,2941,88.2,False,positional,BOILLY,,,,
 BO0624_83927,649898,227,245,"Lavis d'encre de Chine. Signe a gauche, en bas: Bonington.",2953,100.0,False,positional,BONINGTON,,,,
-BO0624_83927,649899,228,246,## CANO 1667.,2956,61.5,False,title_direct,CANO,,,,
+BO0624_83927,649899,228,246,## CANO 1667.,2956,61.5,False,title_direct,CANO,,,,Sec. XVII
 BO0624_83927,649900,229,247,248,2996,100.0,False,positional,CONSTABLE,,,,
 BO0624_83927,649901,230,249,251,2999,100.0,False,positional,CONSTABLE,,,,
 BO0624_83927,649902,231,61,feuillets de croquis et de notes.,3005,95.5,False,positional,DAVID,,,,
@@ -240,7 +240,7 @@ BO0624_83927,649909,238,257,Descente de Croix.,3077,89.5,False,positional,GERICA
 BO0624_83927,649910,239,258,——Le Naufrage de la 《 Meduse 》.,3087,92.3,False,positional,GERICAULT,,,,
 BO0624_83927,649911,240,260,—La Princesse de Salm.,3103,90.9,False,positional,GIRODET-TRIOSON,,,,
 BO0624_83927,649912,241,261,一,3111,33.3,False,positional,GIRODET-TRIOSON,,,,
-BO0624_83927,649913,242,262,"—Le Fort Saint-Ange,a Rome. 1839.",3124,84.7,False,positional,LORRAIN,,,,
+BO0624_83927,649913,242,262,"—Le Fort Saint-Ange,a Rome. 1839.",3124,84.7,False,positional,LORRAIN,,,,Sec. XIX
 BO0624_83927,649914,243,263,一 Scene de roman.,3138,88.9,False,positional,MALLET,,,,
 BO0624_83927,649915,244,264,1 Etude de femme nue (faite d'apres,3148,94.4,False,positional,PRUD'HON,,,,
 BO0624_83927,649916,245,265,"— Academie dhomme debout,marchant, les bras leves.",3160,95.8,False,positional,PRUD'HON,,,,
@@ -248,12 +248,12 @@ BO0624_83927,649917,246,266,— Femme se coiffant.,3169,89.5,False,positional,PR
 BO0624_83927,649918,247,267,La Musique.,3179,83.3,False,positional,PRUD'HON,,,,
 BO0624_83927,649919,248,268,—Saskia.,3188,75.0,False,positional,REMBRANDT,,,,
 BO0624_83927,649920,249,269,Abraham benissant Jacob.,3196,92.0,False,positional,REMBRANDT,,,,
-BO0624_83927,649921,250,1775,1851.,3206,61.5,False,positional,TURNER,,,,
-BO0624_83927,649922,251,1796,1875.,3239,61.5,False,positional,BARYE,,,,
+BO0624_83927,649921,250,1775,1851.,3206,61.5,False,positional,TURNER,,,,Sec. XIX
+BO0624_83927,649922,251,1796,1875.,3239,61.5,False,positional,BARYE,,,,Sec. XIX
 BO0624_83927,649923,252,2,La Panthere noire.,3241,94.4,False,positional,BARYE,,,,
 BO0624_83927,649924,253,272,"Dans un defle,la panthere, de profl a droite, se glisse a pas assourdis, l'eil en feu,la gueule entrouverte, guettant une proie.",3245,100.0,False,positional,BARYE,,,,
 BO0624_83927,649925,254,273,## 274,3264,100.0,False,positional,BARYE,,,,
-BO0624_83927,649926,255,1828,1886.,3282,61.5,False,positional,BAUDRY,,,,
+BO0624_83927,649926,255,1828,1886.,3282,61.5,False,positional,BAUDRY,,,,Sec. XIX
 BO0624_83927,649927,256,276,## BIDA,3298,100.0,False,title_direct,BIDA,,,,
 BO0624_83927,649928,257,279,Le Marchand d'os.,3331,88.9,False,positional,BONINGTON,,,,
 BO0624_83927,649929,258,280,pagne.,3343,71.4,False,positional,CHARLET,,,,
@@ -332,8 +332,8 @@ BO0624_83927,650001,330,366,Trois dessins dans un meme cadre.,4490,94.1,False,ti
 BO0624_83927,650002,331,372,## DELACROIX,4500,100.0,False,title_direct,DELACROIX,Scuola di De La Corix,,,
 BO0624_83927,650003,332,369,Huit feuillets de croquis a la mine de plomb et a la plume.,4527,96.7,False,positional,DELACROIX,,,,
 BO0624_83927,650004,333,370,"一 Son portrait, presque de face.",4535,93.8,False,positional,DESBOUTIN,,,,
-BO0624_83927,650005,334,373,— 1866.,4572,61.5,False,positional,GAVARNI,,,,
-BO0624_83927,650006,335,374,— Vue de la villa d'Este. 1865.,4582,83.0,False,positional,HARPIGNIES,,,,
+BO0624_83927,650005,334,373,— 1866.,4572,61.5,False,positional,GAVARNI,,,,Sec. XIX
+BO0624_83927,650006,335,374,— Vue de la villa d'Este. 1865.,4582,83.0,False,positional,HARPIGNIES,,,,Sec. XIX
 BO0624_83927,650007,336,375,## INGRES,4617,100.0,False,title_direct,INGRES,,,,
 BO0624_83927,650008,337,376,-L'Age d'or. NGRES,4619,66.7,False,title_direct,INGRES,,,,
 BO0624_83927,650009,338,377,"Etudes de femmes nues pour  le Bain Turc , offertes a Theophile Gautier.",4629,97.1,False,positional,INGRES,,,,
@@ -355,7 +355,7 @@ BO0624_83927,650024,353,392,Meunier chargeant des sacs de farine sur un fardier.
 BO0624_83927,650025,354,393,Soins maternels.,4796,88.2,False,positional,MILLET,,,,
 BO0624_83927,650026,355,394,—La Baigneuse. 一 Sapho.,4812,66.7,False,positional,MILLET,,,,
 BO0624_83927,650027,356,395,Un Puits a Greville.,4839,90.5,False,positional,MILLET,,,,
-BO0624_83927,650028,357,396,一 La Campagne pres Cusset (1875).,4847,93.8,False,positional,MILLET,,,,
+BO0624_83927,650028,357,396,一 La Campagne pres Cusset (1875).,4847,93.8,False,positional,MILLET,,,,Sec. XIX
 BO0624_83927,650029,358,399,Laveuses au bord d'un etang. —,4878,93.1,False,positional,PISSARRO,,,,
 BO0624_83927,650030,359,403,## PUVIS DE CHAVANNES,4884,100.0,False,title_direct,PUVIS DE CHAVANNES,,,,
 BO0624_83927,650031,360,402,les genoux releves.,4905,90.0,False,positional,PUVIS DE CHAVANNES,,,,

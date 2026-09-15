@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88740,587404,1,1,Schlucht im Mon dschein; vier Manner am Lagerfeuer. Pappe. Gr.26X19 cm. S.R.,7,98.6,False,positional,,DRESDNER MALER,,,
 BO0624_88740,587405,2,2,Deutscher Eichenwald; vorn ein Teich mit Seerosen. Lwd. Gr.67X86 cm. S.R. Sign.,13,98.6,False,positional,AUGUSTZIMMERMANN,,,,
-BO0624_88740,587406,3,3,Furst Bismarck in Uniform der Pasewalker Kurassiere. Brustbild. Pastell. Gr.35X54 cm.Eichenrahmen. Sign.und dat.:1887.,19,99.1,False,positional,FRITZMARTIN,,,,
+BO0624_88740,587406,3,3,Furst Bismarck in Uniform der Pasewalker Kurassiere. Brustbild. Pastell. Gr.35X54 cm.Eichenrahmen. Sign.und dat.:1887.,19,99.1,False,positional,FRITZMARTIN,,,,Sec. XIX
 BO0624_88740,587407,4,4,Tod des Hussiten fuhrers Ziska auf dem Schlachtfeld;figurenreiche Komposition.Lwd.Gr.36X52cm.G.-R.,25,99.0,False,positional,,BOHMISCHE MEISTER,,,
 BO0624_88740,587408,5,5,Der Markusplatz in Venedig mit Staffage. Holz. Gr.27X38cm. S.R.,31,98.3,False,positional,,BOHMISCHE MEISTER,OGGETTI IN LEGNO,,
 BO0624_88740,587409,6,6,Felsige K i s ten la n d s c ha ft mit einer Schlacht. Holz. Gr.38X58 cm. G.R. Sign.,37,98.8,False,positional,L.G.EUGENE ISABEY,,OGGETTI IN LEGNO,,
@@ -12,12 +12,12 @@ BO0624_88740,587413,10,10,Munchener Dult. Pappe. Gr.37X50 cm. S.R. Sign.,60,96.5
 BO0624_88740,587414,11,11,Wei den weg a m Boden see. Malmappe. Gr. 33X52 cm. S. R. Sign.,66,97.3,False,positional,C.TH.MEYER-BASEL,,,,
 BO0624_88740,587415,12,12,Ein Federviehhandler.-Eine Gemusehandlerin. Gegenstuicke. Holz. Gr.je 22X15 cm.G.-R.,72,84.3,False,positional,RUD.F.SUHRLANDT,,OGGETTI IN LEGNO,,
 BO0624_88740,587416,13,13,"Im Gebir g swald; yorn auf dem Wege ein Wanderer, hinten ein Reiter. Bewegter Himmel. Lwd.Gr.83X65cm.G.R.",79,98.5,False,positional,,MUNCHENERLANDSCHAFTER,,,
-BO0624_88740,587417,14,14,"Ein Maskenball. Zahlreiche Masken, augenscheinlich Bildnisse in einem Saal. Getuschte Bleistiftzeichnung. Gr.28X36 cm.Geschnitzter Eichenrahmen. Sign.und dat.: Febr. 1866. Mit Widmung des Kunstlers.",85,88.6,False,positional,ADOLPHCHARLEMAGNE,,,,
+BO0624_88740,587417,14,14,"Ein Maskenball. Zahlreiche Masken, augenscheinlich Bildnisse in einem Saal. Getuschte Bleistiftzeichnung. Gr.28X36 cm.Geschnitzter Eichenrahmen. Sign.und dat.: Febr. 1866. Mit Widmung des Kunstlers.",85,88.6,False,positional,ADOLPHCHARLEMAGNE,,,,Sec. XIX
 BO0624_88740,587418,15,15,Bauerntanz vor dem Wirtshaus; landschaft.Lwd.Gr.44X62cm.G.-R. Sign.,93,97.7,False,positional,SCHOBELL,,,,
-BO0624_88740,587419,16,16,"Hollandische Winterlandschaft. Ein Kanal mit Schlittschuhlaufern, links ein Turm vor einem Gehoft,am Horizont die Silhouette einer Stadt. Lwd. Gr.41X55 cm. G.-R. Sign.und dat.: 1851.",99,99.1,False,positional,EDUARDHILDEBRANDT,,,,
-BO0624_88740,587420,17,17,Landschaft mit Schafen und einer Ziege auf der Weide. Lwd. Grofe 32X48 cn.（Bildflache leicht verletzt.) Sign.1845? G.R.,104,98.7,False,positional,JAN BAPT. DE JONGHE,,,,
+BO0624_88740,587419,16,16,"Hollandische Winterlandschaft. Ein Kanal mit Schlittschuhlaufern, links ein Turm vor einem Gehoft,am Horizont die Silhouette einer Stadt. Lwd. Gr.41X55 cm. G.-R. Sign.und dat.: 1851.",99,99.1,False,positional,EDUARDHILDEBRANDT,,,,Sec. XIX
+BO0624_88740,587420,17,17,Landschaft mit Schafen und einer Ziege auf der Weide. Lwd. Grofe 32X48 cn.（Bildflache leicht verletzt.) Sign.1845? G.R.,104,98.7,False,positional,JAN BAPT. DE JONGHE,,,,Sec. XIX
 BO0624_88740,587421,18,18,Les enf ants egarés. Ein Knabe und ein Madchen trauernd vor einem Hugel. Lwd.Gr.40X32cm.G.R.Sign.,110,98.4,False,positional,ARYSCHEFFER,,,,
-BO0624_88740,587422,19,19,Bauerndorfin Barbizon mit Staffage. Holz. Gr. 17X25 cm. G.R. Sign.und dat.:1875.,116,98.0,False,positional,FLORIMOND GUENOT,,OGGETTI IN LEGNO,,
+BO0624_88740,587422,19,19,Bauerndorfin Barbizon mit Staffage. Holz. Gr. 17X25 cm. G.R. Sign.und dat.:1875.,116,98.0,False,positional,FLORIMOND GUENOT,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88740,587423,20,20,"Wa1dwies e mit Kuhe n, Nachmittagsstimmung. Lwd. Gr. 53X73 cm. G.-R.",120,97.6,False,positional,JULES DUPRE,,,,
 BO0624_88740,587424,21,21,Ein kleines Madchen mit Tulpenstrauf und Hyazinthe sitzt in einer hollandischen Ofenecke. Lwd. Gr.41X4i cm. Sign.und dat.:19.,126,98.8,False,positional,REINHOLD KOCH-ZEUTHEN,,,,
 BO0624_88740,587425,22,22,Bildnis eines alteren Mannes. Lwd. Gr.55X46 cm. S.R. (Beschadigt.),132,97.5,False,positional,,DEUTSCH,,,
@@ -31,7 +31,7 @@ BO0624_88740,587432,29,30,"Kleiner Ka nalin Vene dig, Blick auf S. M. della Salu
 BO0624_88740,587433,30,31,Rus sische Land schaft mit Wanderer und Kind. Holz. Gr. 13X17 cm. Mit,174,97.7,False,positional,,RUSSISCH,OGGETTI IN LEGNO,,
 BO0624_88740,587434,31,32,Figuren im Park nach Watteau. Holz. Gr.9X7 cm. Oval. G.R.,181,97.2,False,positional,WATTEAU FRANCOIS,FRANZOSISCH,OGGETTI IN LEGNO,,
 BO0624_88740,587435,32,33,"Konzertszene. Holz. Gr.5X7,5 cm. G.R.",187,95.7,False,positional,,FRANZOSISCH,OGGETTI IN LEGNO,,
-BO0624_88740,587436,33,34,Kopf einer jungen Frau mit Federputz im Haar. Farbige Kreide. Gr.37X27 cm. S.R.Sign.und dat.:1838.,193,98.4,False,positional,LUIGI BISI,,,,
+BO0624_88740,587436,33,34,Kopf einer jungen Frau mit Federputz im Haar. Farbige Kreide. Gr.37X27 cm. S.R.Sign.und dat.:1838.,193,98.4,False,positional,LUIGI BISI,,,,Sec. XIX
 BO0624_88740,587437,34,35,Bauernhof in Schliersee. Aquarell. Gr.17X22 cm. S.R. Sign.,199,97.2,False,positional,PHILIPPROTH,,,,
 BO0624_88740,587438,35,36,Wiese mit Rindern im Gebirge. Pappe. Gr.25X31 cm. S.R. Sign. und dat.:R.82.,200,90.8,False,positional,PHILIPPROTH,,,,
 BO0624_88740,587439,36,37,Herbst. Pappe. Gr.20X18 cm.S.R.,206,94.9,False,positional,EDUARDSCHLEICHDERALTERE,,,,
@@ -39,48 +39,48 @@ BO0624_88740,587440,37,38,Teichlandschaft mit Kihen. Lwd. Gr.49X72 cm. G.R. Sign
 BO0624_88740,587441,38,39,"Hau s un ter Baumen, Schliersee. Aquarell. Gr. 17X24 cm. S. R. Sign.",216,97.6,False,positional,PHILIPP ROTH,,,,
 BO0624_88740,587442,39,40,Ho c h m o o r bei tribem Wetter. Holz. Gr. 19X36 cm. S. R. Sign.,222,97.5,False,positional,ALBERTZIMMERMANN,,OGGETTI IN LEGNO,,
 BO0624_88740,587443,40,41,Kahne am Seeufer. Pappe. Gr.21X35 cm. G.R. Sign.,226,96.6,False,positional,FERDINAND BELLERMANN,,,,
-BO0624_88740,587444,41,42,Innereseines Buchenwaldes mit einem Jager. Lwd. Gr. 41X53 cm. G.-R. Sign.und dat.: 1885.,232,98.1,False,positional,PAUL FLICKEL,,,,
+BO0624_88740,587444,41,42,Innereseines Buchenwaldes mit einem Jager. Lwd. Gr. 41X53 cm. G.-R. Sign.und dat.: 1885.,232,98.1,False,positional,PAUL FLICKEL,,,,Sec. XIX
 BO0624_88740,587445,42,43,Mystische Krankenheilung. Lwd. Gr. 46X71 cm. G.R. Sign.: Albert Keller.,238,97.7,False,positional,ALBERTVON KELLER,,,,
 BO0624_88740,587446,43,44,"Romeo und Julia,Balkonszene. Lwd. Gr. 40X32 cm. G.-R.",244,96.9,False,positional,ALBERTVON KELLER,,,,
 BO0624_88740,587447,44,46,Stirmischer Tag am Chiem see. Malmappe. Gr.36X59 cm. S.R. Sign.,250,97.5,False,positional,JOSEPH WOPFNER,,,,
-BO0624_88740,587448,45,47,I n n c re s ei n e r Ka t he d r a le. Zahlreiche Menschen in Renaissancetracht als Staffage. An einem Seitenaltar wird eine Messe gelesen. Holz. Gr. 66X80 cm.G-R. Sign. und dat.:1854.Wichtiges Bild des Meisters.,256,99.3,False,positional,VICTOR JULES GENISSON,,OGGETTI IN LEGNO,,
+BO0624_88740,587448,45,47,I n n c re s ei n e r Ka t he d r a le. Zahlreiche Menschen in Renaissancetracht als Staffage. An einem Seitenaltar wird eine Messe gelesen. Holz. Gr. 66X80 cm.G-R. Sign. und dat.:1854.Wichtiges Bild des Meisters.,256,99.3,False,positional,VICTOR JULES GENISSON,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88740,587449,46,48,Herbstlan dschaf t; in einem waldigen Tal ein Reiter in rotem Mantel. Lwd. Gr.47X53cm.G.-R.Sign.,261,98.4,False,positional,CARL W. KOLBE D.J.,,,,
 BO0624_88740,587450,47,49,Huhner in Stall. Holz. Gr.32X24 cm. G.R. Sign.,267,96.5,False,positional,ADOLPHE SALMON,,OGGETTI IN LEGNO,,
 BO0624_88740,587451,48,50,Junges Madchen in antiker Tracht auf einer Schaukel im Walde. Holz. Lwd.Gr.23X17cm.G.R.Sign.,273,98.3,False,positional,HENRI BARON,,OGGETTI IN LEGNO,,
 BO0624_88740,587452,49,51,Sturm bei einer alten Ruine mit Baumen.l Reiche Staffage. Holz.Grofse,279,97.8,False,positional,BAREND CORNELIS KOEKKOEK,,OGGETTI IN LEGNO,,
-BO0624_88740,587453,50,2,34X45 cm.G.-R.Sign.und dat.:1853.,280,96.8,False,positional,BAREND CORNELIS KOEKKOEK,,,,
+BO0624_88740,587453,50,2,34X45 cm.G.-R.Sign.und dat.:1853.,280,96.8,False,positional,BAREND CORNELIS KOEKKOEK,,,,Sec. XIX
 BO0624_88740,587454,51,3,"52.Waldla ndschaft mit Teich, in dem Kuhe stehen, Landleute auf dem Waldweg.",281,98.6,False,positional,BAREND CORNELIS KOEKKOEK,,,,
-BO0624_88740,587455,52,4,Lwd.Gr.44X62cm.G.-R.Sign.und dat.:1854.,282,97.3,False,positional,BAREND CORNELIS KOEKKOEK,,,,
+BO0624_88740,587455,52,4,Lwd.Gr.44X62cm.G.-R.Sign.und dat.:1854.,282,97.3,False,positional,BAREND CORNELIS KOEKKOEK,,,,Sec. XIX
 BO0624_88740,587456,53,53,"Tirolerin, Halbfigur von vorn, mit ineinandergeschlagenen Armen. Holz. Grofe 32X24cm.G.-R.Sign.",288,87.8,False,positional,FRANZ VON DEFREGGER,,OGGETTI IN LEGNO,,
 BO0624_88740,587457,54,54,Genre s zene; eine Dame in reichem Atlaskleid von einem besuchenden Kavalier iber- rascht. Holz.Gr.40X32 cm.G.-R. Sign.,295,81.6,False,positional,ALEXANDRE GUILLEMAIN,,OGGETTI IN LEGNO,,
 BO0624_88740,587458,55,55,"Dame in Renaissancetracht, im Walde Blumen pfluickend. Holz. Grofe 38X24cm.G.R.Sign.",302,98.2,False,positional,FRITZ AUGUSTKAULBACH,,OGGETTI IN LEGNO,,
 BO0624_88740,587459,56,56,Dame in Maskenkostum; ；hinten venezianische Stadtansicht.Holz.Grofe 43X20 cm.G.R.mit Samt.Sign.,308,81.2,False,positional,FRANCOIS FLAMENG,,OGGETTI IN LEGNO,,
-BO0624_88740,587460,57,57,S cha f e un d H ihn er auf der Weide. Holz. Gr.31X41 cm. G.R. Sign. und dat.: 1855.,314,98.1,False,positional,EUGENE VERBOECKHOVEN,,OGGETTI IN LEGNO,,
-BO0624_88740,587461,58,58,Ga rten s zene; eine Kinderfrau und ein Madchen zeigen ein kleines Kind einem alten Invaliden. Parkhintergrund. Holz.Gr.40X47 cm. G.-R. Sign.und dat.:1849.,322,99.0,False,positional,J.BAPT.MADOU; HIL.A.KREINS,,OGGETTI IN LEGNO,,
+BO0624_88740,587460,57,57,S cha f e un d H ihn er auf der Weide. Holz. Gr.31X41 cm. G.R. Sign. und dat.: 1855.,314,98.1,False,positional,EUGENE VERBOECKHOVEN,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88740,587461,58,58,Ga rten s zene; eine Kinderfrau und ein Madchen zeigen ein kleines Kind einem alten Invaliden. Parkhintergrund. Holz.Gr.40X47 cm. G.-R. Sign.und dat.:1849.,322,99.0,False,positional,J.BAPT.MADOU; HIL.A.KREINS,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88740,587462,59,59,"Betendes Madchen,nach links sitzend. Lwd. Gr. 25X19 cm. G.R. Sign.und datiert.",328,92.1,False,positional,ARY SCHEFFER,,,,
-BO0624_88740,587463,60,60,Die R au c her. Zwei Herren in der Tracht um 1780 beim Bier sitzend. Holz. Grofe 22X16 cm.G.-R.Sign.und dat.:1859.,335,81.9,False,positional,EUGENE FICHEL,,OGGETTI IN LEGNO,,
+BO0624_88740,587463,60,60,Die R au c her. Zwei Herren in der Tracht um 1780 beim Bier sitzend. Holz. Grofe 22X16 cm.G.-R.Sign.und dat.:1859.,335,81.9,False,positional,EUGENE FICHEL,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88740,587464,61,61,Portrat eines grofen weifen Windhundes. Lwd. Gr.131X163 cm. G.-R. Mit Signatur.,342,84.8,False,positional,,BELGISCHER MEISTER,,,
 BO0624_88740,587465,62,62,In der Ta v e r n e; Reiter in Renaissancetracht mit zahlreichen Burgern am Tisch. Holz.,349,98.3,False,positional,HERMAN TEN KATE,,OGGETTI IN LEGNO,,
 BO0624_88740,587466,63,63,63.B1ickauf Neapel. Lwd. Gr.30X41 cm. G.R.,354,100.0,False,positional,FRIEDERICH NERLY,,,,
 BO0624_88740,587467,64,64,64.Pre digt Ca1vin s vor einer zechenden Gesellschaft. Holz. Gr.59X75 cm.,358,97.2,False,positional,CONST.WAUTERS,,OGGETTI IN LEGNO,,
-BO0624_88740,587468,65,65,Kopf eines Greises. Lwd. Gr.54X46 cm. G.R. Sign.und dat.: 1829.,365,97.4,False,positional,KARL P.BRYLOW,,,,
+BO0624_88740,587468,65,65,Kopf eines Greises. Lwd. Gr.54X46 cm. G.R. Sign.und dat.: 1829.,365,97.4,False,positional,KARL P.BRYLOW,,,,Sec. XIX
 BO0624_88740,587469,66,66,Gluck w unsch beim Kardinal. Eine Dame laft ihr Kindchen einem Kardinal Blumen iberreichen.Lwd.Gr.29X40 cm.Sign.G.-R.,370,74.9,False,positional,,ITALIENISCHER MEISTER,,,
 BO0624_88740,587470,67,67,Hollandische Teichlan d schaft mit Bauernhaus und Schaferin. Holz. Grofe,377,97.9,False,positional,WILLEM ROELOFS,,OGGETTI IN LEGNO,,
 BO0624_88740,587471,68,68,"Friedrich der Grofe mit Zieten, Seidlitzu.a. Generalen auf einem Hugel. Rechts im Hintergrund Offziere und Grenadiere. Grauer Himmel. Holz. Grofe 49X40 cm.G.-R.Sign.und dat.:92. Abb.Tafel 12",383,99.2,False,positional,CARL SEILER,,OGGETTI IN LEGNO,,
 BO0624_88740,587472,69,69,"Italienische Landschaft; im Mittelgrund eine Stadt und Festung auf einer Bergkuppe;yorn Landleute und ballspielende Madchen. Gebirgsgegend,Abendstimmung. Lwd.Gr.100X150 cm.G.R. Sign. Abb.Tafel4",389,99.2,False,positional,OSWALD ACHENBACH,,,,
 BO0624_88740,587473,70,70,Madchen kopf mit weifer Haube vor grauem Hintergrund. Holz. Gr. 24X17 cm. G.-R.Rickseitig: Nachlafstempel.,395,98.5,False,positional,GABRIEL MAX,,OGGETTI IN LEGNO,,
-BO0624_88740,587474,71,71,Wirt s haus-Szene; Kavalier und junges Madchen in Rokokotracht. Lwd. Grofe 47X65 cm.G.-R.Sign.und dat.:Firenze 1901.,401,98.7,False,positional,FRANCESCO VINEA,,,,
+BO0624_88740,587474,71,71,Wirt s haus-Szene; Kavalier und junges Madchen in Rokokotracht. Lwd. Grofe 47X65 cm.G.-R.Sign.und dat.:Firenze 1901.,401,98.7,False,positional,FRANCESCO VINEA,,,,Sec. XX
 BO0624_88740,587475,72,72,Venusmit drei Liebesgottern im Freien. Lwd. Gr.61X42 cm. G.R. Sign. und dat.:67. Abb.Tafel 3,407,98.3,False,positional,NARCISSEV.DIAZDELA PENA,,,,
 BO0624_88740,587476,73,73,Franziskanermonch mit Bierglas beim Fruhstick. Holz. Gr.38X30 cm.,413,97.6,False,positional,EDUARD GRUTZNER,,OGGETTI IN LEGNO,,
 BO0624_88740,587477,74,2,G.-R. Sign.und dat.: 88. Abb.Tafel 11,414,97.0,False,positional,EDUARD GRUTZNER,,,,
 BO0624_88740,587478,75,3,32X43 cm.Sign.G.-R.,415,94.4,False,positional,EDUARD GRUTZNER,,,,
-BO0624_88740,587479,76,74,"Kusten la n d schaf t. Hugliges Ufer, am Ufer Boote und Fischer. Nachmittag. Lwd.Gr.42X62 cm.G.-R. Sign.und dat.:1841.",420,98.7,False,positional,JEAN ANTOINE GUDIN,,,,
+BO0624_88740,587479,76,74,"Kusten la n d schaf t. Hugliges Ufer, am Ufer Boote und Fischer. Nachmittag. Lwd.Gr.42X62 cm.G.-R. Sign.und dat.:1841.",420,98.7,False,positional,JEAN ANTOINE GUDIN,,,,Sec. XIX
 BO0624_88740,587480,77,75,"Auf dem Ba uer n hof. Links cine Scheune, der Bauer harkt Stroh zusammen, Kinder spielen, ein Knabe steigt cine Leiter hinauf. Holz. Gr.40X50 cm.G.R. Sign.",426,99.0,False,positional,MARITEN KATE,,OGGETTI IN LEGNO,,
 BO0624_88740,587481,78,76,"Im Wald von Fontaineb leau. Lichtung in einem Eichenwald, vorn ein Tumpel und Waldwiese. Rechts eine Holzsammlerin. Holz. Gr. 37X46 cm. G.R. Sign.",430,98.9,False,positional,NARCISSE V.DIAZ DE LA PENA,,OGGETTI IN LEGNO,,
 BO0624_88740,587482,79,77,"Der Huhnerhof. Truthahn, braune Henne und Entenkucken. Lwd. Grofe",436,97.6,False,positional,RUDOLFBERNHARDWILLMANN,,,,
-BO0624_88740,587483,80,78,Kurhaus in Travem unde. Fruh-Herbststimmung. Beiderseitig sign.und dat.:1907.G.R.,442,98.1,False,positional,ULRICH HUBNER,,,,
+BO0624_88740,587483,80,78,Kurhaus in Travem unde. Fruh-Herbststimmung. Beiderseitig sign.und dat.:1907.G.R.,442,98.1,False,positional,ULRICH HUBNER,,,,Sec. XX
 BO0624_88740,587484,81,79,Bergwaldmit Holzhauschenun d Reh. Holz. Gr.48X34 cm. S.R. Sign.,448,97.5,False,positional,ADOLF Oberlander,,OGGETTI IN LEGNO,,
-BO0624_88740,587485,82,80,Dame in sch war zem Cape am Landwehrkanal. Pastell. Gr. 60X46 cn. S. R. Sign. und dat.: 1898.,454,98.2,False,positional,FRANZ SKARBINA,,,,
+BO0624_88740,587485,82,80,Dame in sch war zem Cape am Landwehrkanal. Pastell. Gr. 60X46 cn. S. R. Sign. und dat.: 1898.,454,98.2,False,positional,FRANZ SKARBINA,,,,Sec. XIX
 BO0624_88740,587486,83,81,Alte Festung am Meer. Holz. Gr.30X38 cm. G.R. Sign.,460,96.8,False,positional,THEODORE GUDIN,,OGGETTI IN LEGNO,,
 BO0624_88740,587487,84,82,"Der Arzt,einem kranken Madchen den Puls fuhlend. Lwd. Grofe",466,97.4,False,positional,OSKAR WISNIEWSKI,,,,
 BO0624_88740,587488,85,2,20X15cm.G.-R.,467,91.7,False,positional,OSKAR WISNIEWSKI,,,,
@@ -95,11 +95,11 @@ BO0624_88740,587496,93,88,"Kustenla n d schaft mit Segelboot, Kahn mit Fischern.
 BO0624_88740,587497,94,89,Im Waldevon Fontainebleau. Lwd. Gr.36X55 cm. G.R. Abb.Tatel7,511,97.4,False,positional,,MEISTER DER SCHULE VON BARBIZON,,,
 BO0624_88740,587498,95,90,"Ein Hafen in der Levante; auf dem Wasser ein grofes Segelschiff, das entladen",518,98.0,False,positional,AMBROISELOUIS GARNERAY,,,,
 BO0624_88740,587499,96,91,Abend im Dorf. Ein Wagen mit drei weifen Ochsen an einem Bauernhaus; vor ihm Mutter mit Kindern und Huhnern. Holz. Gr.47X56 cm. S. R. Sign.,522,98.9,False,positional,F.S.BRISSOT DE WARWILLE,,OGGETTI IN LEGNO,,
-BO0624_88740,587500,97,92,Die Ernte. Lwd. Gr.34X56 cm. G.-R. Sign.und dat.: 1837.,529,96.9,False,positional,CAMILLE ROQUEPLAN,,,,
+BO0624_88740,587500,97,92,Die Ernte. Lwd. Gr.34X56 cm. G.-R. Sign.und dat.: 1837.,529,96.9,False,positional,CAMILLE ROQUEPLAN,,,,Sec. XIX
 BO0624_88740,587501,98,93,Der erste Schneeim Walde. Holz. Gr.34X28 cm. S.R. Sign.,535,97.1,False,positional,ERICH KUBIERSCHKY,,OGGETTI IN LEGNO,,
 BO0624_88740,587502,99,94,Fahre an einem kleinen Fluf. Lwd. Gr. 28X42 cm. S. R. Sign.,541,97.2,False,positional,PAUL D.TROUILLEBERT,,,,
 BO0624_88740,587503,100,95,Fluflandschaft mit drei Figuren. Holz.Gr. 24X33 cm. S. R. Mit Widmung auf der Rickseite.,542,98.2,False,positional,PAUL D.TROUILLEBERT,,OGGETTI IN LEGNO,,
-BO0624_88740,587504,101,96,Entengruppe a m Teich. Lwd. Gr.38X28 cm. S. R. Sign. und dat.: 1881.,548,97.5,False,positional,FRITZ LANGE,,,,
+BO0624_88740,587504,101,96,Entengruppe a m Teich. Lwd. Gr.38X28 cm. S. R. Sign. und dat.: 1881.,548,97.5,False,positional,FRITZ LANGE,,,,Sec. XIX
 BO0624_88740,587505,102,97,Einzug franzosischer Kurassierein eine alte Stadt. Lwd. Gr. 25X35 cm. G.-R.Sign.,552,98.0,False,positional,WILFRID BEAUQUESNE,,,,
 BO0624_88740,587506,103,98,Ka valier und junge Dame im Walde. Holz. Gr. 32X42 cm. G.R. Sign.,556,97.5,False,positional,MARI; HERMAN TEN KATE,,OGGETTI IN LEGNO,,
 BO0624_88740,587507,104,99,Am Hochgebirgsee. Malpappe.Gr.38X34 cm. G.-R. Sign.,562,96.8,False,positional,HEINRICH HEINLEIN,,,,
@@ -120,37 +120,37 @@ BO0624_88740,587521,118,114,"Gro fe s Stille ben. Melonen, Birnen. Apfel, Traube
 BO0624_88740,587522,119,114,"a. Ba de n d es M a d c he n. Ein junges Weib, ein weifes Tuch um die Schulter, hockt neben",653,98.3,False,positional,ANTOINE JOSEPH WIERTZ,,,,
 BO0624_88740,587523,120,114,"b.,Br a co n nier s.Wachestehende Wilderer, Sonnenuntergang, Blick in eine weite Ebene.",660,98.2,False,positional,JOSEPH LIES,,,,
 BO0624_88740,587524,121,114,"c. Die k leinen Apfel diebe in einer Herbstlandschaft, gruner Himmel. Holz. Grofe",667,98.1,False,positional,CHARLESJ.BEAUVERIE,,OGGETTI IN LEGNO,,
-BO0624_88740,587525,122,33,X55 cm.G.-R.Sign.und dat.:1874.,668,96.6,False,positional,CHARLESJ.BEAUVERIE,,,,
-BO0624_88740,587526,123,114,d. Die Bi belle kt i re. Judisches Ehepaar in einem reichen Renaissancezimmer sitzend. Holz.Gr.50X64cm. G.R. Sign.und dat.: 1826. e.Magnolien- und Kir schbliten in japanischer Vase. Lwd. Gr. 75X196 cm.,674,77.6,False,positional,M.J.VAN BREE,,OGGETTI IN LEGNO,,
+BO0624_88740,587525,122,33,X55 cm.G.-R.Sign.und dat.:1874.,668,96.6,False,positional,CHARLESJ.BEAUVERIE,,,,Sec. XIX
+BO0624_88740,587526,123,114,d. Die Bi belle kt i re. Judisches Ehepaar in einem reichen Renaissancezimmer sitzend. Holz.Gr.50X64cm. G.R. Sign.und dat.: 1826. e.Magnolien- und Kir schbliten in japanischer Vase. Lwd. Gr. 75X196 cm.,674,77.6,False,positional,M.J.VAN BREE,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88740,587527,124,115,Im Schweinekoben. Lwd. Gr.70X92 cm. G.R. Sign.,685,95.3,False,positional,HANS LOOSCHEN,,,,
 BO0624_88740,587528,125,116,In einem friesischen Bauernhaus. Eine alte Frau beim Rubenschalen. Malpappe. Gr.31X36 cm. S.R. Sign. mit Monogr.,694,98.1,False,positional,RUDOLPH JORDAN,,,,
 BO0624_88740,587529,126,117,"Hollandischer Herbstgarten; vor einem Hause Astern und Straucher, zwei Hollanderinnen auf dem Wege. Lwd.Gr.74X54 cm. S.R. Sign.",700,70.5,False,positional,HANS HERRMANN,,,,
-BO0624_88740,587530,127,118,Grofes Rosenstilleben in Porzellanvase. Lwd. Gr. 64X84 cm. G.R. 1865 Dresden,707,87.2,False,positional,HELEN IVERSEN,,,,
+BO0624_88740,587530,127,118,Grofes Rosenstilleben in Porzellanvase. Lwd. Gr. 64X84 cm. G.R. 1865 Dresden,707,87.2,False,positional,HELEN IVERSEN,,,,Sec. XIX
 BO0624_88740,587531,128,119,"See s tuck mit Schiffen, helles Wetter. Holz. Gr.57X48 cm. G.-R. Signiert.",715,97.1,False,positional,PIETER VAN SCHOTEL,,OGGETTI IN LEGNO,,
 BO0624_88740,587532,129,120,Bildnis eines blondlockigen Lwd.Gr.49X39 cm.Alter geschnitzter Rahmen. Ruckseitig,722,97.6,False,positional,PHILIPP VEIT,,CORNICI,,
 BO0624_88740,587533,130,121,"Alter Hof, ein kleines Madchen in einem Winkel sitzend. Pappe. Gr.41X36 cm.",728,97.3,False,positional,CH.MEER WEBB,,,,
 BO0624_88740,587534,131,122,Herbstabend im Park.Lwd.Gr.66X103cm.G.R. Sign.und dat.:04. Hauptbild des Meisters.,734,97.5,False,positional,FRIEDRICH VON SCHENNIS,,,,
 BO0624_88740,587535,132,123,"Bauerin m it Kiepe auf dem Felde, im Hintergrund ein Dorf. Lwd. Gr.90X73 cm. G.-R. Sign. Mit Expertise von Julius Meier-Graefe.",740,98.3,False,positional,CAMILLEPISSARRO,,,,
 BO0624_88740,587536,133,124,Blondlockiges kleines Madchen in Pelzkappe. Lwd. Gr.34X26cm.,746,96.6,False,positional,RUDOLF EPP,,,,
-BO0624_88740,587537,134,125,Win dm ihle und Bauernhof; vorn Bauer und Bauerin an cinem Zaun im Gesprach.Lwd. Gr.60X40 cm.G.R.Sign.und dat.: 1856.,751,98.2,False,positional,CHARLES HOGUET,,,,
+BO0624_88740,587537,134,125,Win dm ihle und Bauernhof; vorn Bauer und Bauerin an cinem Zaun im Gesprach.Lwd. Gr.60X40 cm.G.R.Sign.und dat.: 1856.,751,98.2,False,positional,CHARLES HOGUET,,,,Sec. XIX
 BO0624_88740,587538,135,126,"Die Einfahrt in den Canale Grande in Venedig. Grofe Stadtansicht mit reicher Staffage von Segelbooten, Gondeln und kleinen Kahnen. Lwd. Gr. 80X120 cm. G.R. Sign. Charakteristisches Werk des Meisters.",757,99.0,False,positional,FRIEDRICH NERLY,,,,
-BO0624_88740,587539,136,127,"I m Re n n sta ll. In der Mitte des Bildes eine Schimmelstute, um die Stallmeister und Stallboy beschaftigt sind. In der hinteren Box ein Fuchs und ein schwarzes Pferd mit Sammlung Alfred Schindler, Wien. 1888 Bruissel",763,95.7,False,positional,ALBRECHT ADAM,Scuola Viennese,,COLLEZIONE ALFRED SCHINDLER,
+BO0624_88740,587539,136,127,"I m Re n n sta ll. In der Mitte des Bildes eine Schimmelstute, um die Stallmeister und Stallboy beschaftigt sind. In der hinteren Box ein Fuchs und ein schwarzes Pferd mit Sammlung Alfred Schindler, Wien. 1888 Bruissel",763,95.7,False,positional,ALBRECHT ADAM,Scuola Viennese,,COLLEZIONE ALFRED SCHINDLER,Sec. XIX
 BO0624_88740,587540,137,128,Kuhe auf der Weide. Lwd. Gr.55X75cm. G.R. Sign.,769,95.5,False,positional,E.DE PRATERE,,,,
 BO0624_88740,587541,138,129,"Mon dschein lan dschaft, Motiv aus dem Riesengebirge. In der Mitte ein Bach.",775,97.3,False,positional,MORITZ ERDMANN,,,,
 BO0624_88740,587542,139,2,Rechts in einer Felshohle Feuer. Vollmond. Lwd. Gr.125X95 cm. G.-R. Sign.,776,98.5,False,positional,MORITZ ERDMANN,,,,
-BO0624_88740,587543,140,1849,1915 Munchen,782,82.8,False,positional,ALFREDVON WIERUSZ-KOWALSKI,,,,
+BO0624_88740,587543,140,1849,1915 Munchen,782,82.8,False,positional,ALFREDVON WIERUSZ-KOWALSKI,,,,Sec. XX
 BO0624_88740,587544,141,130,Uberfall der Wolfe auf einen durch abendliche Schneelandschaft jagenden Schlitten.Lwd.Gr.88X135cm.G.-R.Sign. Abb.Tafel6,784,98.3,False,positional,ALFREDVON WIERUSZ-KOWALSKI,,,,
 BO0624_88740,587545,142,131,Mucius Scaevola vor Porsenna. Lwd. Gr.75X58cm. G.-R.,788,95.9,False,positional,HANS VON MAREES,,,,
 BO0624_88740,587546,143,132,Alte Geflugelrupferin. Holz. Gr.26X20 cm. G.-R. Sign. ## JEANVICTORADAM,794,83.2,False,title_direct,JEANVICTORADAM,,OGGETTI IN LEGNO,,
 BO0624_88740,587547,144,133,Ein Araber in reicher Tracht. Lwd. Gr.30X23 cm. S.R. Sign.und dat.:,801,96.8,False,positional,JEANVICTORADAM,,,,
 BO0624_88740,587548,145,134,Uberfall auf einen Kaufmannszug. Holz. Gr.31X45cm. G.R. Sign. und dar.,807,97.0,False,positional,WILHELM DIEZ,,OGGETTI IN LEGNO,,
-BO0624_88740,587549,146,135,Landschaft mit Wasserfa1l. Lwd. Gr.100X140cm. G.R. Sign.und dat.: 1851. Hauptbild des Meisters. Abb.Tafel5 1891 Munchen.,813,92.0,False,positional,ALEXANDRECALAME,,,,
-BO0624_88740,587550,147,136,Ungarische Pferdediebe in der Puszta. Lwd. Gr.50X98 cm. S.R. Sign.und dat.:Munchen 1876.,821,97.6,False,positional,HEINRICH LANG,,,,
+BO0624_88740,587549,146,135,Landschaft mit Wasserfa1l. Lwd. Gr.100X140cm. G.R. Sign.und dat.: 1851. Hauptbild des Meisters. Abb.Tafel5 1891 Munchen.,813,92.0,False,positional,ALEXANDRECALAME,,,,Sec. XIX
+BO0624_88740,587550,147,136,Ungarische Pferdediebe in der Puszta. Lwd. Gr.50X98 cm. S.R. Sign.und dat.:Munchen 1876.,821,97.6,False,positional,HEINRICH LANG,,,,Sec. XIX
 BO0624_88740,587551,148,137,Gebirgslandschaft mit Bach. Aquarell. Gr.32X28cm.G.-R.,827,96.2,False,positional,FR.PRELLERd.A.,,,,
 BO0624_88740,587552,149,138,Wa1d1and schaft.Malpappe. Gr.32X24 cm. S.R. Sign.,833,95.7,False,positional,LUDWIG WILLROIDER,,,,
 BO0624_88740,587553,150,139,Landschaft. Weg zwischen Fels und Wasser. Lwd. Gr.43X60 cm. S.R. Sign. und dat.:V.22.,839,97.5,False,positional,C.GERHARDINGER,,,,
 BO0624_88740,587554,151,140,Hauser bei Berchtesgaden. Lwd. Gr. 40X50cm. S.R. Sign.,845,96.0,False,positional,PAUL WEBER,,,,
-BO0624_88740,587555,152,141,Mutter und Sohn. Malpappe. Gr.45X35 cm. S.R. Sign.und dat.: 1920.,849,96.7,False,positional,A.FAISTAUER,,,,
+BO0624_88740,587555,152,141,Mutter und Sohn. Malpappe. Gr.45X35 cm. S.R. Sign.und dat.: 1920.,849,96.7,False,positional,A.FAISTAUER,,,,Sec. XX
 BO0624_88740,587556,153,142,Nym phenburger A1lee. Holz. Gr.48X35cm. S.R. Sign.,853,95.7,False,positional,PHILIPP ROTH,,OGGETTI IN LEGNO,,
 BO0624_88740,587557,154,143,"Som mertag in W or p s wede, wolkiger Himmel. Lwd. Gr. 92X118 cm. S. R. Sign.:F. Overbeck,Worpswede.",858,97.8,False,positional,FRITZOVERBECK,,,,
 BO0624_88740,587558,155,144,Ein Gru ne wa ld see bei bedecktem Himmel; Abendstimmung. Deckfarben. Grofe 31X45 cm.G.R.Sign.,864,86.7,False,positional,WALTER LEISTIKOW,,,,
@@ -158,7 +158,7 @@ BO0624_88740,587559,156,145,Stilleben mit Elfenbeinpokal und Silberhumpen. Lwd. 
 BO0624_88740,587560,157,146,"Im Zirkus stall. Warter mit Shetlandpony, Pelikan, Affe und Hund. Lwd.",877,97.0,False,positional,H.SCHAUMANN,,,,
 BO0624_88740,587561,158,147,Ungarischer Bauer und Bauerin vor der Hutte. Holz. Gr.31X22cm.,883,96.7,False,positional,PAUL BOHM,,OGGETTI IN LEGNO,,
 BO0624_88740,587562,159,148,Som m e r. Norwegisches kleines Madchen auf einer Sommerwiese. Lwd. Gr. 63X46 cn.,889,97.4,False,positional,HANS DAHL,,,,
-BO0624_88740,587563,160,149,Nordseefischer bei bewegter See an der Mole anlegend. Lwd. Gr.44X62cn. G.-R. Sign.und dat.: 1857.,895,83.8,False,positional,THEODOR WEBER,,,,
+BO0624_88740,587563,160,149,Nordseefischer bei bewegter See an der Mole anlegend. Lwd. Gr.44X62cn. G.-R. Sign.und dat.: 1857.,895,83.8,False,positional,THEODOR WEBER,,,,Sec. XIX
 BO0624_88740,587564,161,150,Ubersch wemmte Ebene bei Sonnenuntergang. Lwd. Gr.63X105 cm. G.R.,902,96.8,False,positional,CARL SCHERRES,,,,
 BO0624_88740,587565,162,151,Ba u m wi ese mit Blick auf die Alpen. Deckfarben. Gr.45X64 cm. G.R. Echtheit,906,97.3,False,positional,WALTER LEISTIKOW,,,,
 BO0624_88740,587566,163,2,rickseitig von Max Liebermann bestatigt.,907,97.5,False,positional,WALTER LEISTIKOW,,,,
@@ -168,7 +168,7 @@ BO0624_88740,587569,166,5,G.-R.Sign.,910,88.9,False,positional,WALTER LEISTIKOW,
 BO0624_88740,587570,167,6,Sign.: C. S.,911,88.9,False,positional,WALTER LEISTIKOW,,,,
 BO0624_88740,587571,168,152,Kopf eines braunen Pferdes von vorn. Lwd. Gr.75X39 cm. G.R. Sign.,918,96.8,False,positional,WILHELM TRUBNER,,,,
 BO0624_88740,587572,169,153,"Sch werer Ackerschim mel mit Pflug, vor ihm ein alter Bauer. Unten Spruch- band mit zwei Wappen und dem Wort: ANGELVS. Holz. Gr.93X107 cm.S.R. Ruckseitig Nachlafstempel. Abb.Tafel 13",927,74.1,False,positional,FRITZ BOHLE,,OGGETTI IN LEGNO,,
-BO0624_88740,587573,170,154,Ho1landische Stadt bei Abendsonne; bedeckter Himmel. Lwd. Gr.64X98 cm. G.-R. Sign.und dat.:1916. Abb.Tafel13,933,77.6,False,positional,GUSTAV SCHONLEBER,,,,
+BO0624_88740,587573,170,154,Ho1landische Stadt bei Abendsonne; bedeckter Himmel. Lwd. Gr.64X98 cm. G.-R. Sign.und dat.:1916. Abb.Tafel13,933,77.6,False,positional,GUSTAV SCHONLEBER,,,,Sec. XX
 BO0624_88740,587574,171,155,Der heilige Michael als Drachentoter. Bleistift auf gilblichem Papier (auf Lein- wand aufgezogen).Gr.170X114cm.S.R.,940,80.6,False,positional,MORITZ VON SCHWIND,,,,
 BO0624_88740,587575,172,156,"Vor Barbizon bei Fontainebleau. Baumreicher Fleck vor dem Dorf, Hirten und Kuhe an einer Mauer. Holz. Gr.24X32 cm.G.-R. Sign. und dat.",947,71.3,False,positional,ALBERT BRENDEL,,OGGETTI IN LEGNO,,
 BO0624_88740,587576,173,157,"Er w a r tung. Auf einer Mole am Felsstrand von Dieppe sitzt eine junge Frau, den Kopf in die Hand gestitzt. Lwd. Gr.65X73 cm.G.-R. Sign.",952,74.2,False,positional,RUDOLPH JORDAN,,,,
@@ -176,28 +176,28 @@ BO0624_88740,587577,174,158,Madchen in sturmischer Landschaft. Pastell. Gr.23X36
 BO0624_88740,587578,175,160,"Blon der Kna be, Brustbild nach vorn, auf den Locken grine Mutze, in der Linken irdenen Topf. Lwd.Gr.hochoval 64X53 cm. Holzgeschnitzter reicher G.-R. Sign.:Ant. Rotta, Venezia.",970,70.0,False,positional,ANTONIO ROTTA,,,,
 BO0624_88740,587579,176,161,B r a n d u n g.Malpappe.Gr.37X64 cm.G.-R.,975,95.2,False,positional,EUGEN BRACHT,,,,
 BO0624_88740,587580,177,162,"Reit knecht, ein Pferd haltend, in einer schattigen Allee mit durchfallenden Sonnenlichtern.Lwd.Gr.54X85 cm.G.-R. Sign.",981,98.3,False,positional,MAXLIEBERMANN,,,,
-BO0624_88740,587581,178,163,"Romischer Kar neva l, auferordentliche figurenreiche Komposition. Aquarell. Gr.31X40cm.G.-R.Sign.und dat.:1853.",987,79.6,False,positional,CARL WERNER,,,,
+BO0624_88740,587581,178,163,"Romischer Kar neva l, auferordentliche figurenreiche Komposition. Aquarell. Gr.31X40cm.G.-R.Sign.und dat.:1853.",987,79.6,False,positional,CARL WERNER,,,,Sec. XIX
 BO0624_88740,587582,179,164,Vier Kinder mit einem Lowen spielend. Lwd. Gr.36X66cm. G.R. Sign.,994,96.8,False,positional,ADOLF OBERLANDER,,,,
 BO0624_88740,587583,180,165,"Im Herbst. Drei gescheckte Kuhe mit zwei Frauen an einem Teich; herbstliche Baume, bedeckter Himmel. Lwd. Gr.64X49 cm. G.R. Sign. und dat.: 95. Abb.Tafel I2",1001,66.1,False,positional,LUDWIG MUNTHE,,,,
-BO0624_88740,587584,181,166,M ee r e s s t u r m. Segelschiffe und Fischerkahne auf bewegter See bei Abendbeleuchtung. Lwd.Gr.50X73cm.G.-R.Sign.und dat.:1827.,1005,98.4,False,positional,THEODORE GUDIN,,,,
+BO0624_88740,587584,181,166,M ee r e s s t u r m. Segelschiffe und Fischerkahne auf bewegter See bei Abendbeleuchtung. Lwd.Gr.50X73cm.G.-R.Sign.und dat.:1827.,1005,98.4,False,positional,THEODORE GUDIN,,,,Sec. XIX
 BO0624_88740,587585,182,167,"Der Traum des Dichters. Am Strande des Meeres ruhend, hat der Dichter die Vision zahlloser mythischer Gestalten. Lwd. Gr.97X159 cm.G.-R. Sign.",1012,66.7,False,positional,J.LEON GEROME,,,,
 BO0624_88740,587586,183,168,Nach der Jagd. In einem hohen Ruinenraum Jager und Jagdgehilfen mit,1018,97.1,False,positional,WOUTER VERSCHUUR,,,,
-BO0624_88740,587587,184,169,"Der Lehrjunge als Kinderm adchen. Ein Lehrling, ein weinendes Kind im Steckkissen im Arm, ift einen Apfel. Lwd. Gr.58X40 cm.G.-R. Sign.und dat.: 1863.",1025,98.6,False,positional,LUDWIG KNAUS,,,,
+BO0624_88740,587587,184,169,"Der Lehrjunge als Kinderm adchen. Ein Lehrling, ein weinendes Kind im Steckkissen im Arm, ift einen Apfel. Lwd. Gr.58X40 cm.G.-R. Sign.und dat.: 1863.",1025,98.6,False,positional,LUDWIG KNAUS,,,,Sec. XIX
 BO0624_88740,587588,185,2,Bekanntes Bild des Meisters. Abb.Tafel2,1026,97.4,False,positional,LUDWIG KNAUS,,,,
 BO0624_88740,587589,186,27,X36cm.G.-R.,1027,90.0,False,positional,LUDWIG KNAUS,,,,
 BO0624_88740,587590,187,174,Madchenkopf,1028,84.6,False,positional,LUDWIG KNAUS,,,,
-BO0624_88740,587591,188,170,Kuh herde mit Hirt am Seeufer. Holz. Gr.30X60 cm. Sign. und dat.: 1879. Abb.Tafel8,1034,97.4,False,positional,FRIEDRICH VOLTZ,,OGGETTI IN LEGNO,,
-BO0624_88740,587592,189,171,Madchen mit Hund bei alten Strohhutten. Lwd. Gr.24X32 cm. G.R. Sign. und dat.:1843.,1040,97.4,False,positional,ERNST HILDEBRANDT,,,,
+BO0624_88740,587591,188,170,Kuh herde mit Hirt am Seeufer. Holz. Gr.30X60 cm. Sign. und dat.: 1879. Abb.Tafel8,1034,97.4,False,positional,FRIEDRICH VOLTZ,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88740,587592,189,171,Madchen mit Hund bei alten Strohhutten. Lwd. Gr.24X32 cm. G.R. Sign. und dat.:1843.,1040,97.4,False,positional,ERNST HILDEBRANDT,,,,Sec. XIX
 BO0624_88740,587593,190,172,"Stille ben: Silberpokal, Fayenceschale mit Trauben. Holz. Gr. 30X41 cm. G.R. Abb.Tafel14",1046,97.6,False,positional,KARL SCHUCH,,OGGETTI IN LEGNO,,
 BO0624_88740,587594,191,173,Nachtlandschaft mit Bauerngesellschaft um ein Lagerfeuer. Malpappe. Grofe,1052,97.3,False,positional,,FRANZOSISCHER MALER,,,
-BO0624_88740,587595,192,175,Blick auf das Meer bei Abend. Links vorn der Strand mit Fischern. Abend- wolken.Lwd.Gr.59X80 cm.G.-R. Sign.und dat.:1870.,1062,73.8,False,positional,ANDREAS ACHENBACH,,,,
-BO0624_88740,587596,193,176,"Bildnis eines jungen Madchens mit offenem blonden Haar, nach rechts gewandt.Lwd.Gr.55X44 cm.G.R.Sign.und dat.:T.C.1855. 1823 Paris",1069,93.9,False,positional,THOMAS COUTURE,,,,
+BO0624_88740,587595,192,175,Blick auf das Meer bei Abend. Links vorn der Strand mit Fischern. Abend- wolken.Lwd.Gr.59X80 cm.G.-R. Sign.und dat.:1870.,1062,73.8,False,positional,ANDREAS ACHENBACH,,,,Sec. XIX
+BO0624_88740,587596,193,176,"Bildnis eines jungen Madchens mit offenem blonden Haar, nach rechts gewandt.Lwd.Gr.55X44 cm.G.R.Sign.und dat.:T.C.1855. 1823 Paris",1069,93.9,False,positional,THOMAS COUTURE,,,,Sec. XIX
 BO0624_88740,587597,194,177,"Zwei russische Dreigespanne, mit Bauern und Soldaten, in einer sommer- lichen Landschaft. Lwd. Gr.28X36 cm.G.R. Sign.",1077,74.0,False,positional,JACQUES F.J.SWEBACH,,,,
-BO0624_88740,587598,195,178,Im Schaf sta ll. Durch ein lukenartiges Fenster fallt das Tageslicht auf die Herde. Lwd. Gr.65X99 cm.G.-R. Sign.und dat.:1871. Abb.Tafel10,1084,75.0,False,positional,CHARLES JACQUE,,,,
+BO0624_88740,587598,195,178,Im Schaf sta ll. Durch ein lukenartiges Fenster fallt das Tageslicht auf die Herde. Lwd. Gr.65X99 cm.G.-R. Sign.und dat.:1871. Abb.Tafel10,1084,75.0,False,positional,CHARLES JACQUE,,,,Sec. XIX
 BO0624_88740,587599,196,179,"Bildnis ciner jungen Dame mit hohem Hut, graues Kleid. Brustbild, halb von der Seite gesechen. Lwd. Gr.45X38 cm. G.R. Sign.",1092,72.0,False,positional,ALBERT EDELFELT,,,,
-BO0624_88740,587600,197,180,"181. Zwei grofe Blu m en stilleben in Vasen, auf den Tischen Ananas, Trauben, Pfrsiche und Vogel. Gegenstuicke..Lwd. Gr.je 93X71 cm. G.R. Sign.und dat.:1836.",1099,98.6,False,positional,FRANZXAVER PETTER,,VASI,,
+BO0624_88740,587600,197,180,"181. Zwei grofe Blu m en stilleben in Vasen, auf den Tischen Ananas, Trauben, Pfrsiche und Vogel. Gegenstuicke..Lwd. Gr.je 93X71 cm. G.R. Sign.und dat.:1836.",1099,98.6,False,positional,FRANZXAVER PETTER,,VASI,,Sec. XIX
 BO0624_88740,587601,198,182,"Blu m en stille ben, Rosen,Tulpen, Rittersporn und andere Blumen, links unten zwei Pfrsiche. Lwd.Gr.70X51 cm.G.R.Sign.",1105,80.6,False,positional,SEBASTIAN WEGMAYR,,,,
-BO0624_88740,587602,199,183,"E v a, stehend in Landschaft. Malpappe. Gr.67X47 cm. Silber-R. Sign. und dat.: 1908.",1110,97.4,False,positional,SEBASTIAN WEGMAYR,,,,
+BO0624_88740,587602,199,183,"E v a, stehend in Landschaft. Malpappe. Gr.67X47 cm. Silber-R. Sign. und dat.: 1908.",1110,97.4,False,positional,SEBASTIAN WEGMAYR,,,,Sec. XX
 BO0624_88740,587603,200,184,Teich in Baumwiesen. Lwd. Gr.72X98 cm. G.-R. Sign.,1116,95.7,False,positional,JOSEF BLOCK,,,,
 BO0624_88740,587604,201,185,"Madchen, am Strande ausruhend. Lwd. Gr.76X89cm. G.R. Sign.",1117,96.3,False,positional,JOSEF BLOCK,,,,
 BO0624_88740,587605,202,186,Beim Wa scheauf hangen; junges Madchen im Garten mit Teich. Lwd. Grofe 130X95cm.G.-R.Sign.und dat.:09.,1123,98.0,False,positional,WALTER GEORGY,,,,
@@ -206,54 +206,54 @@ BO0624_88740,587607,204,2,und dat.: 6.9.98.Muinster.,1130,95.8,False,positional,
 BO0624_88740,587608,205,3,S.R.Sign.,1131,88.9,False,positional,R.HERMANNS,,,,
 BO0624_88740,587609,206,188,Bretonische Fischer am Quai; mit Blick auf den Hafen. Lwd. Gr.48X63 cm.,1137,97.1,False,positional,LUDWIG DILL,,,,
 BO0624_88740,587610,207,189,Fischerboot in Chioggia. Malpappe. Gr.32X46cm. GR. Sign.,1138,96.2,False,positional,LUDWIG DILL,,,,
-BO0624_88740,587611,208,190,Brauner Huhnerhund im Schnee; Landschaft mit bedecktem Himmel. Lwd. Gr.94X78cm.G.-R.Sign.und dat.:1895.,1143,98.0,False,positional,JOHANNES DEIKER,,,,
+BO0624_88740,587611,208,190,Brauner Huhnerhund im Schnee; Landschaft mit bedecktem Himmel. Lwd. Gr.94X78cm.G.-R.Sign.und dat.:1895.,1143,98.0,False,positional,JOHANNES DEIKER,,,,Sec. XIX
 BO0624_88740,587612,209,191,Laer dals ore n; Meeresbucht mit Hochgebirge. Lwd. Gr. 75X113 cm. G.R. Sign.,1150,97.2,False,positional,THEMISTOKLES VON ECKENBRECHER,,,,
-BO0624_88740,587613,210,192,"Wa1d1an ds chaft, Abendwolken.Holz.Gr.45X55 cm.Geschnitzter G.-R. 1883 Disseldorf",1156,86.1,False,positional,,SCHULE VON BARBIZON,OGGETTI IN LEGNO,,
-BO0624_88740,587614,211,193,Pa tr ouillengef echt. Preufische Ulanen und Zuaven. Winter.Holz. Gr.23X31 cm. G.-R. Sign.und dat.:1874.,1164,85.1,False,positional,CHRISTIAN SELL,,OGGETTI IN LEGNO,,
+BO0624_88740,587613,210,192,"Wa1d1an ds chaft, Abendwolken.Holz.Gr.45X55 cm.Geschnitzter G.-R. 1883 Disseldorf",1156,86.1,False,positional,,SCHULE VON BARBIZON,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88740,587614,211,193,Pa tr ouillengef echt. Preufische Ulanen und Zuaven. Winter.Holz. Gr.23X31 cm. G.-R. Sign.und dat.:1874.,1164,85.1,False,positional,CHRISTIAN SELL,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88740,587615,212,194,"Ritter un d Monche beim Abendbrot,auf einem Baumhugel. Lwd. Gr.31X39 cm.",1171,97.2,False,positional,CARL FRIEDRICH LESSING,,,,
 BO0624_88740,587616,213,195,Fischerboot auf bewegter See. Lwd. Gr.51X65 cm. G.R. Sign.,1178,96.4,False,positional,GEORGES HAQUETTE,,,,
 BO0624_88740,587617,214,196,"Kuhe in den Bergen von Berchtesgaden. Lwd. Gr.36X51 cm, G.R. Sign.: Munchen. a. Fischer im Kahn. Malpappe. Gr.18X29 cm.G.R. Sign.",1184,72.6,False,positional,JOSEF HERMANNSTORFER,,,,
-BO0624_88740,587618,215,197,Englische Touristen in Italien. Samtliche Mitglieder der Familie sind auf einer Gebirgspartie mit Lesen beschaftigt. Lwd. Gr.80X65 cm. Sign. und dat.: 1859.,1194,98.7,False,positional,C.SCHUBERT,,,,
+BO0624_88740,587618,215,197,Englische Touristen in Italien. Samtliche Mitglieder der Familie sind auf einer Gebirgspartie mit Lesen beschaftigt. Lwd. Gr.80X65 cm. Sign. und dat.: 1859.,1194,98.7,False,positional,C.SCHUBERT,,,,Sec. XIX
 BO0624_88740,587619,216,198,Bildnis eines Generals in grofer Uniform. Lwd. Gr.101X81 cm. Sign.und,1201,97.1,False,positional,OTTO GRASHOF,,,,
 BO0624_88740,587620,217,199,Nor m a nni s c he Bauerin nen in einer Landschaft. Holz. Gr. 56X78 cm. G.R. Sign.,1207,97.4,False,positional,EMILEDAMERON,,OGGETTI IN LEGNO,,
 BO0624_88740,587621,218,200,"Italienisches Bauernmadchen, im Gebet kniend. Lwd. Gr.35X27cm.",1213,96.7,False,positional,AUGUST KASELOWSKY,,,,
-BO0624_88740,587622,219,2,G.-R.Sign.und dat.: 1862.,1214,95.5,False,positional,AUGUST KASELOWSKY,,,,
-BO0624_88740,587623,220,1817,1886 Munchen,1220,82.8,False,positional,FRIEDRICH VOLTZ,,,,
+BO0624_88740,587622,219,2,G.-R.Sign.und dat.: 1862.,1214,95.5,False,positional,AUGUST KASELOWSKY,,,,Sec. XIX
+BO0624_88740,587623,220,1817,1886 Munchen,1220,82.8,False,positional,FRIEDRICH VOLTZ,,,,Sec. XIX
 BO0624_88740,587624,221,201,"Hinter dem Dorf, Bachlauf mit Baumen. Lwd. Gr.34X42cm. S.R. Sign. Ruickseitig Nachlafstempel.",1222,79.2,False,positional,FRIEDRICH VOLTZ,,,,
 BO0624_88740,587625,222,202,"Die Wolf gangsschlucht bei Eisenach. Grofe Waldlandschaft, eine Beeren-",1227,97.1,False,positional,FRANZARNDT-WEIMAR,,,,
 BO0624_88740,587626,223,2,sammlerin als Staffage. Lwd. Gr.109X99 cm.G.R. Signiert.,1228,98.1,False,positional,FRANZARNDT-WEIMAR,,,,
-BO0624_88740,587627,224,1803,1881,1232,61.5,False,positional,CARL STURMER,,,,
+BO0624_88740,587627,224,1803,1881,1232,61.5,False,positional,CARL STURMER,,,,Sec. XIX
 BO0624_88740,587628,225,203,Die Versuchung des heiligen Antonius. Lwd. Gr.38X43cm. HolzR.,1234,96.6,False,positional,CARL STURMER,,,,
 BO0624_88740,587629,226,204,Brustbild eines jungen Madchens mit grofem Hut und Obstkorb. Holz. Gr.15X13 cm.Alter Holz-R.Signiert.,1238,98.0,False,positional,LONK,,OGGETTI IN LEGNO,,
 BO0624_88740,587630,227,205,Christus heilt den Blinden und den Lahmen. Lwd. Gr.37X47cm.,1244,96.6,False,positional,FRANZ SCHUBERT,,,,
 BO0624_88740,587631,228,2,G.-R.Sign. Oberflache ladiert.,1245,96.4,False,positional,FRANZ SCHUBERT,,,,
-BO0624_88740,587632,229,207,REMBRANDT VAN RYN(1606-1669). Die grofe Kreuzabnahme.,1254,96.2,False,positional,REMBRANDT VAN RIJN,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587632,229,207,REMBRANDT VAN RYN(1606-1669). Die grofe Kreuzabnahme.,1254,96.2,False,positional,REMBRANDT VAN RIJN,ALTER UND NEUERER MEISTER,,,Sec. XVII
 BO0624_88740,587633,230,2,"(Bl. 56, D. 88.) Radierung in Groffolio I1. Zustand.",1255,97.8,False,positional,,ALTER UND NEUERER MEISTER,ACQUEFORTI,,
-BO0624_88740,587634,231,3,"207a. FRANZOSISCHE SCHULE, um 1790; Junges Madchen, Brustbild.",1256,98.3,False,title_direct,,FRANZOSISCH,,,
+BO0624_88740,587634,231,3,"207a. FRANZOSISCHE SCHULE, um 1790; Junges Madchen, Brustbild.",1256,98.3,False,title_direct,,FRANZOSISCH,,,Sec. XVIII
 BO0624_88740,587635,232,4,Blei.,1257,80.0,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN LATTA,,
 BO0624_88740,587636,233,5,Kohle und Rotel.Gr.44X34cm.,1258,96.3,False,positional,,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587637,234,208,"JAN VAN GOYEN, ART. Wasserlandschaft mit Baumen. Gr.7,5X10,5cm.",1259,96.7,False,positional,GOYEN JAN VAN,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587638,235,209,"DREI ITALIENISCHE ZEICHNUNGEN: Bacciccio Gaulli, Anbetung der Madonna und Heiligengruppe. -Genuesis che Sc hu le, Bischof segnend mit Ministranten. Alle drei Feder und Tusche; auf einem Blatt.",1260,98.9,False,positional,,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587639,236,210,"ELF ALTE ZEICHNUNGEN, italienisch und franzosisch, XVI.-XVIll. Jahrh.Verschiedene Formate und Techniken.",1261,98.0,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587640,237,211,"ITALIENISCHER MEISTER des XVII. Jahrh. Bacchanal. Feder und Sepia,laviert.Gr.34X49cm.",1262,97.6,False,title_direct,,ITALIENISCHER MEISTER,,,
+BO0624_88740,587640,237,211,"ITALIENISCHER MEISTER des XVII. Jahrh. Bacchanal. Feder und Sepia,laviert.Gr.34X49cm.",1262,97.6,False,title_direct,,ITALIENISCHER MEISTER,,,Sec. XVII
 BO0624_88740,587641,238,213,"SCHULE DER CARRACCI,Pferdestudie.Feder laviert. Gr.23X66cm.",1263,96.6,False,positional,CARRACCI,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587642,239,214,FEDERZEICHNUNG NACH MARC ANTON: Der Kindermord von Raffael. Feder. Gr.31X47 cm.,1264,97.4,False,positional,,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587643,240,215,"FERRARESISCHE SCHULE, um 15o0: Der Zwolfjahrige Jesus im Tem pel. Sepia, weif gehoht. Gr.34X51 cm.",1265,97.9,False,positional,,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587644,241,216,ANNIBALE CARRACCI. Der hl. Rochus spendet den Pest- kranken Almosen. Rotel. Gr.41X63cm.,1266,72.2,False,positional,CARRACCI ANNIBALE,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587645,242,217,"a d. BIBIENA: Vier Ruinenlandschaften mit phantastischen Architekturen: a) Mar ktplatz; in der Mitte ein grofer Obelisk. b) Ahnliche Kompo sition mit Triumphbogen. c) Forum, links eine Halle mit Obelisken, dahinter cin Rundtempel. d) Platz, von Kirchen umgeben, vorn ein Rundbau mit vicr Obelisken.Feder, Sepia und Tusche. Gr. je 50X93 cm.",1268,99.5,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587646,243,218,"ABRAHAM BLOEMAERT (1564-1647). Apostel. Feder, aquarelliert",1269,96.4,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587647,244,219,219. FRANZEDMUND WEIROTTER(1730-1771). Higelwegan einem,1271,100.0,False,positional,,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587646,243,218,"ABRAHAM BLOEMAERT (1564-1647). Apostel. Feder, aquarelliert",1269,96.4,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XVI
+BO0624_88740,587647,244,219,219. FRANZEDMUND WEIROTTER(1730-1771). Higelwegan einem,1271,100.0,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XVIII
 BO0624_88740,587648,245,220,220. DERSELBE: Fluflandschaft mit Brucke. 14X20 cm.Sign.,1273,82.5,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587649,246,221,JOH.EV.HOLZER (1709-1740). Kronung eines Heiligen. Decken-,1274,96.4,False,positional,,ALTER UND NEUERER MEISTER,BIANCHERIA,,
-BO0624_88740,587650,247,222,"ITALIENISCHE SCHULE, um 1600. Apollo und Marsyas. Feder",1276,96.3,False,positional,,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587649,246,221,JOH.EV.HOLZER (1709-1740). Kronung eines Heiligen. Decken-,1274,96.4,False,positional,,ALTER UND NEUERER MEISTER,BIANCHERIA,,Sec. XVIII
+BO0624_88740,587650,247,222,"ITALIENISCHE SCHULE, um 1600. Apollo und Marsyas. Feder",1276,96.3,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XVII
 BO0624_88740,587651,248,223,KONVOLUT von acht alten italienischen und franzosischen,1278,96.5,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587652,249,224,HUBERT ROBERT (1733-1808). Romischer Tempelmit einer KolonSepia und Feder.Gr.32X42cm.,1280,97.6,False,positional,ROBERT HUBERT,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587652,249,224,HUBERT ROBERT (1733-1808). Romischer Tempelmit einer KolonSepia und Feder.Gr.32X42cm.,1280,97.6,False,positional,ROBERT HUBERT,ALTER UND NEUERER MEISTER,,,Sec. XVIII
 BO0624_88740,587653,250,225,FARBIGER KUPFERSTICH von Chaponnier naxch Fleury: La,1282,96.2,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN RAME,,
 BO0624_88740,587654,251,226,ROTELSTICH von G.Wynne nach Angelika Kauffmann: The Dutchess of Richmond. Folio. Breiter Rand.,1284,97.8,False,positional,KAUFFMANN ANGELICA,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587655,252,227,"a-i NEUN BLATTER der Ikonographie des Van Dyck: a)C.v. d. Gees t, gest. von P. Pontius. Wib. 59.b) R.v.Voer st, gest.von R.v.Voerst. Wib. 73.c) M.Mierevelt, gest.von W.J. Delphius. Wib. 26,V.- d) Hon. Urfei, gest. von P. de Bailliu. Wib. 122. -e)Lucia Berrye Ctsse Carlyte, gest. von P. de Bailliu. Wib. 121.- f) Bea trix Cosa ntia, gest. von P. de jode. Wib.137.—g) Jeh. v.Mildert, gest. von Vorsterman. Wib. 87.—h) S.Vouet, gest. von R. v. Voerst. Wib. 74. i) C. Gevaer t, gest. von P. Pontius. Wib. 49.",1285,99.7,False,positional,VAN DYCK ANTON,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587656,253,228,ENGLISCHES SCHABKUNSTBLATT von P. W. Pether nach,1286,95.8,False,positional,,ALTER UND NEUERER MEISTER,STAMPE E INCISIONI,,
-BO0624_88740,587657,254,229,TRAKTAT VON DER MAHLEREY von Leonardo da Vinci Deutsche Ubersetzung von Johann Georg Bohm sen. Nir n berg 1724. Mit zahlreichen Illustrationstafeln.Pergamentbd. Grofoktav.,1288,98.8,False,positional,DA VINCI LEONARDO,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587658,255,230,FARBIGER PUNKTIERSTICH yon Schiavonetti nach Cosway: Michael und Isabella v. Lasockich Oginscy. London 1793. Grofoktav.G.-R.,1289,98.3,False,positional,,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587657,254,229,TRAKTAT VON DER MAHLEREY von Leonardo da Vinci Deutsche Ubersetzung von Johann Georg Bohm sen. Nir n berg 1724. Mit zahlreichen Illustrationstafeln.Pergamentbd. Grofoktav.,1288,98.8,False,positional,DA VINCI LEONARDO,ALTER UND NEUERER MEISTER,,,Sec. XVIII
+BO0624_88740,587658,255,230,FARBIGER PUNKTIERSTICH yon Schiavonetti nach Cosway: Michael und Isabella v. Lasockich Oginscy. London 1793. Grofoktav.G.-R.,1289,98.3,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XVIII
 BO0624_88740,587659,256,231,FARBIGER CRAYONSTICH von Demarteau nach J. B. Huet: Dame mit Gitarre in ovaler Umrandung. (Nr.483.) Folio. G.R.,1291,68.8,False,positional,HUET J.B.,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587660,257,232,FARBSTICH von Bonnet nach J.B. Huet: Junges Madchen mit Wein-,1292,96.7,False,positional,HUET J.B.,ALTER UND NEUERER MEISTER,STAMPE E INCISIONI,,
 BO0624_88740,587661,258,6,"tra u be (Nr.374).Paris,Bonnet.Vor der Unterschrift.Oktav.G.-R.",1293,98.3,False,positional,,ALTER UND NEUERER MEISTER,,,
@@ -261,31 +261,31 @@ BO0624_88740,587662,259,7,233-34. ZWEI ROTELSTICHE von Demarteau nach F. Boucher
 BO0624_88740,587663,260,8,Vo Iute(Nr.253).Gr.-Quer-Folio.,1295,96.6,False,positional,,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587664,261,9,235-36. ZWEI FARBS TICHE nachA. v.Ostade von Janinet: LeNouveliste und,1296,98.5,False,positional,ADRIAEN VAN OSTADE,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587665,262,10,"Bauerngesellschaft vor dem Wirtshaus. Vorzigliche Abdricke, knapp beschnitten. Holzr.",1297,98.2,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587666,263,237,ADOLPH MENZEL (1815-1905). Die Fahnenweihe.Ein Mann Kostuim des 18. Jahrhunderts mit Dreispitz und in rotem langen Rock schwingt eine im fransenbesetzte Fahne. Hinter ihm ein zweiter Mann in gleicher Tracht und zuschauendes Publikum. Sepia und Aquarell. Gr.24X30 cm. Sign.und dat.: A. Menzel. 78. G.R.,1298,99.3,False,positional,MENZEL ADOLPH VON,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587667,264,238,J.L.E.MEISSONNIER (1815-1891). Der Raucher. Kavalier in Rokoko-,1299,96.7,False,positional,MEISSONIER JEAN-LOUS-ERNEST,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587666,263,237,ADOLPH MENZEL (1815-1905). Die Fahnenweihe.Ein Mann Kostuim des 18. Jahrhunderts mit Dreispitz und in rotem langen Rock schwingt eine im fransenbesetzte Fahne. Hinter ihm ein zweiter Mann in gleicher Tracht und zuschauendes Publikum. Sepia und Aquarell. Gr.24X30 cm. Sign.und dat.: A. Menzel. 78. G.R.,1298,99.3,False,positional,MENZEL ADOLPH VON,ALTER UND NEUERER MEISTER,,,Sec. XVIII
+BO0624_88740,587667,264,238,J.L.E.MEISSONNIER (1815-1891). Der Raucher. Kavalier in Rokoko-,1299,96.7,False,positional,MEISSONIER JEAN-LOUS-ERNEST,ALTER UND NEUERER MEISTER,,,Sec. XIX
 BO0624_88740,587668,265,13,Abb.Tafelg,1300,87.0,False,positional,,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587669,266,14,"tracht am Fenster sitzend. Sepiatuschzeichnung. Gr.12,5X9 cm.G.-R. Sign. Abb.Tafel9",1301,98.1,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587670,267,239,JOSEFKRIEHUBER(1801-1876).Bildniseiner furstlichen Dame in einem Lehnstuhl nach links sitzend. Aquarell. Gr.39X26 cm.S,1302,98.3,False,positional,,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587670,267,239,JOSEFKRIEHUBER(1801-1876).Bildniseiner furstlichen Dame in einem Lehnstuhl nach links sitzend. Aquarell. Gr.39X26 cm.S,1302,98.3,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XIX
 BO0624_88740,587671,268,16,Sign.und dat.:847. Samtr.,1303,93.6,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587672,269,17,240.LUDWIGADRIAN RICHTER (1803-1884）. Mutteran der Wiege. Farbig getonte Bleistiftzeichnung. Gr. 8X9 cm. Sign. Weifer R. mit Gold.,1304,98.8,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN ORO,,
+BO0624_88740,587672,269,17,240.LUDWIGADRIAN RICHTER (1803-1884）. Mutteran der Wiege. Farbig getonte Bleistiftzeichnung. Gr. 8X9 cm. Sign. Weifer R. mit Gold.,1304,98.8,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN ORO,,Sec. XIX
 BO0624_88740,587673,270,241,Rettung aus Wassersnot: ein Bursche tragt ein Madchen durch cinen Bach. Bleistift. Gr.12X9 cm.Weifer R.mit Gold.,1305,98.2,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN ORO,,
-BO0624_88740,587674,271,242,WILHELM VON KAULBACH (1805-1874). Knabe und Madchen 1aufend. Bleistift.Gr.21X27 cm. Sign.,1306,71.1,False,title_direct,WILHELM VON KAULBACH,,,,
-BO0624_88740,587675,272,243,JULIUS SCHOLTZ (1825-1893). Konzertsangerin mit Begleiter und Publikum. Blei und Aquarell. Gr.21X13 cm. Mit Widmung und Signatur:1865.,1308,98.4,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN PIOMBO,,
-BO0624_88740,587676,273,244,BONAVENTURA GENELLI (1798-1868). Ruhende Nymphe. Blei. Gr.22X20cm.Sign.,1309,97.0,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN PIOMBO,,
-BO0624_88740,587677,274,245,CASPAR DAVID FRIEDRICH (1774-1840). Baumstudie. Tusche. Gr.20X22cm.Bez.:D.F.,1310,97.2,False,positional,,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587674,271,242,WILHELM VON KAULBACH (1805-1874). Knabe und Madchen 1aufend. Bleistift.Gr.21X27 cm. Sign.,1306,71.1,False,title_direct,WILHELM VON KAULBACH,,,,Sec. XIX
+BO0624_88740,587675,272,243,JULIUS SCHOLTZ (1825-1893). Konzertsangerin mit Begleiter und Publikum. Blei und Aquarell. Gr.21X13 cm. Mit Widmung und Signatur:1865.,1308,98.4,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN PIOMBO,,Sec. XIX
+BO0624_88740,587676,273,244,BONAVENTURA GENELLI (1798-1868). Ruhende Nymphe. Blei. Gr.22X20cm.Sign.,1309,97.0,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN PIOMBO,,Sec. XIX
+BO0624_88740,587677,274,245,CASPAR DAVID FRIEDRICH (1774-1840). Baumstudie. Tusche. Gr.20X22cm.Bez.:D.F.,1310,97.2,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XIX
 BO0624_88740,587678,275,246,"MORITZ VON SCHWIND. Die hl.Elisabeth,stehend. Blei und Feder. Gr.19X13 cm. Studie zu den Elisabethfresken der Wartburg. Sign.",1312,67.4,False,title_direct,MORITZ VON SCHWIND,,OGGETTI IN PIOMBO,,
-BO0624_88740,587679,276,247,Pferde in Wolken einhersprengend. Feder und Sepia.Gr.21X35 cm. Sign.mit Monogramm:1870.,1313,97.7,False,positional,,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587679,276,247,Pferde in Wolken einhersprengend. Feder und Sepia.Gr.21X35 cm. Sign.mit Monogramm:1870.,1313,97.7,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XIX
 BO0624_88740,587680,277,6,Land-,1314,80.0,False,positional,,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587681,278,7,schaft mit Bricke und Anglern. Blei mit Sepia. Gr.i6X20 cm.,1315,98.2,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN PIOMBO,,
 BO0624_88740,587682,279,249,"LUDWIG ADRIAN RICHTER. Ein Marchen. In der Mitte hausliche Szene, ein kleines Madchen ibergibt ihren Eltern einen Brief, rechts und links andere Szenen der Geschichte,nicht ganz vollendet. Blei und Sepia. Gr.12X32 cm.",1316,79.1,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN PIOMBO,,
-BO0624_88740,587683,280,250,MICHAEL VON ZICHY (geb.1827). Liegendes junges Madchen. Blei und Farbstift. Gr.22X36cm.Sign.und dat.: 60.,1318,67.1,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN PIOMBO,,
-BO0624_88740,587684,281,251,"MAX KLINGER (1857-1920). Der Kin stler. Radierung aus ,Vom Tode”, I1. Teil. Folio. Auf japanischem Papier.",1320,73.9,False,positional,,ALTER UND NEUERER MEISTER,ACQUEFORTI,,
-BO0624_88740,587685,282,252,ALEXANDRECALAME (1810-1864). Rundgangineinem antiken Zir k u s. Ein Mann als Staffage. Aquarell. Gr.28X19 cm. G.-R. Glas verletzt. Sign.,1322,98.4,False,title_direct,ALEXANDRECALAME,,STAMPE E INCISIONI,,
-BO0624_88740,587686,283,253,"PETER KRAEMER. Minchener Zeitungsverkaufer mit Zeitungen und einer illustrierten Zeitschrift, die Hindenburgs Bildnis zeigt. Aquarell. Gr. 21X17 cm. S.R. Sign.und dat.:1915.",1323,98.8,False,positional,,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587683,280,250,MICHAEL VON ZICHY (geb.1827). Liegendes junges Madchen. Blei und Farbstift. Gr.22X36cm.Sign.und dat.: 60.,1318,67.1,False,positional,,ALTER UND NEUERER MEISTER,OGGETTI IN PIOMBO,,Sec. XIX
+BO0624_88740,587684,281,251,"MAX KLINGER (1857-1920). Der Kin stler. Radierung aus ,Vom Tode”, I1. Teil. Folio. Auf japanischem Papier.",1320,73.9,False,positional,,ALTER UND NEUERER MEISTER,ACQUEFORTI,,Sec. XIX
+BO0624_88740,587685,282,252,ALEXANDRECALAME (1810-1864). Rundgangineinem antiken Zir k u s. Ein Mann als Staffage. Aquarell. Gr.28X19 cm. G.-R. Glas verletzt. Sign.,1322,98.4,False,title_direct,ALEXANDRECALAME,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_88740,587686,283,253,"PETER KRAEMER. Minchener Zeitungsverkaufer mit Zeitungen und einer illustrierten Zeitschrift, die Hindenburgs Bildnis zeigt. Aquarell. Gr. 21X17 cm. S.R. Sign.und dat.:1915.",1323,98.8,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XX
 BO0624_88740,587687,284,254,MONOGRAMMIERT EG: Stehender Araberscheich. Aquarell. Gr.34X19cm.Unter Glas.,1324,79.0,False,positional,,ALTER UND NEUERER MEISTER,,,
 BO0624_88740,587688,285,255,FARBIGE GUASCHZEICHNUNG: Die Schlacht zwischen Franzosen und den Verbundeten im Elbtal mit Blick auf den Konig-,1326,98.2,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587689,286,19,"stein.1813 rechts unten signiert.Gr.36,5X51 cm.",1327,96.8,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587690,287,20,Grofe 256. ITALIENISCH (um 1830). Guasche: Ausbruch des Vesuvs. 5X13cm.,1328,97.7,False,positional,,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587689,286,19,"stein.1813 rechts unten signiert.Gr.36,5X51 cm.",1327,96.8,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XIX
+BO0624_88740,587690,287,20,Grofe 256. ITALIENISCH (um 1830). Guasche: Ausbruch des Vesuvs. 5X13cm.,1328,97.7,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XIX
 BO0624_88740,587691,288,257,TUSCHZEICHNUNG: Brustbild eines jungen Madchens (Liebesorakel).Um1840.,1329,97.1,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587692,289,258,ITALIENISCH (um 1830). Der Golf von Neapel mit dem Ausbruch des Vesuvs.Guasche.Gr.43X64cm.,1330,97.7,False,positional,,ALTER UND NEUERER MEISTER,,,
-BO0624_88740,587693,290,3,259-60. ZWEI UNGERAHMTE AQUARELLE. a) Sign.: Talarius 1836: Handwerksbursche beim Schuster; b) Huftbild einer vornehmen Dame von J. H orWath1855.,1331,99.3,False,positional,,ALTER UND NEUERER MEISTER,,,
+BO0624_88740,587692,289,258,ITALIENISCH (um 1830). Der Golf von Neapel mit dem Ausbruch des Vesuvs.Guasche.Gr.43X64cm.,1330,97.7,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XIX
+BO0624_88740,587693,290,3,259-60. ZWEI UNGERAHMTE AQUARELLE. a) Sign.: Talarius 1836: Handwerksbursche beim Schuster; b) Huftbild einer vornehmen Dame von J. H orWath1855.,1331,99.3,False,positional,,ALTER UND NEUERER MEISTER,,,Sec. XIX

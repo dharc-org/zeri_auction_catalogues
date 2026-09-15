@@ -28,7 +28,7 @@ BO0624_83734,131707,26,26,DEFAUX. Une Basse-cour a Bercy.,472.0,66.7,False,title
 BO0624_83734,131708,27,27,Delacroix. Assasinat de l'eveque de Liege.,479.0,82.2,False,positional,DELACROIX,,,,
 BO0624_83734,131709,28,28,DIDIER. L'Abreuvoir: Campagne de Rome.,524.0,86.2,False,title_direct,DIDIER,,,,
 BO0624_83734,131710,29,29,Doutreleau. Le Bapteme.,534.0,64.7,False,positional,DOUTRELEAU,,,,
-BO0624_83734,131711,30,30,Duprey. Aux Remparts: 1870-71.,542.0,80.0,False,positional,DUPRAY,,,,
+BO0624_83734,131711,30,30,Duprey. Aux Remparts: 1870-71.,542.0,80.0,False,positional,DUPRAY,,,,Sec. XIX
 BO0624_83734,131712,31,31,Dupré. Bords de riviere.,546.0,37.0,False,positional,DUPRE,,,,
 BO0624_83734,131713,32,32,ERNST. Negre jouant du fifre.,552.0,86.3,False,title_direct,ERNST,,,,
 BO0624_83734,131714,33,33,ERPIKUM. Nymphe pres d’une fontaine.,581.0,85.7,False,title_direct,ERPIKUM,,,,
@@ -106,7 +106,7 @@ BO0624_83734,131785,104,104,"DELAcRoix. Cheval sauvage, lithographie.—De LEMUD
 BO0624_83734,131786,105,105,"Portrait du Baron de Schwiter, phototypie d’apres un dessin de DELAcRoIx.",1283.0,81.0,False,positional,WATTIER,,,,
 BO0624_83734,131787,106,106,DecaMps. Treize eaux-fortes et lithographies originales.,1285.0,96.4,False,positional,WATTIER,,ACQUEFORTI,,
 BO0624_83734,131788,107,107,DecaMps (D'apres). Dix-huit gravures et lithographies.,1286.0,96.2,False,positional,WATTIER,,STAMPE E INCISIONI,,
-BO0624_83734,131789,108,108,"ANDrieux. Six lithographies du siege de Paris, 1870.",1287.0,96.1,False,positional,WATTIER,,STAMPE E INCISIONI,,
+BO0624_83734,131789,108,108,"ANDrieux. Six lithographies du siege de Paris, 1870.",1287.0,96.1,False,positional,WATTIER,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_83734,131790,109,109,Marvy. Vingt-sept eaux-fortes originales.,1288.0,95.1,False,positional,WATTIER,,ACQUEFORTI,,
 BO0624_83734,131791,110,110,"Cent quinze gravures d'apres CoroT, RoussEAu, ReMBRANDT etautres.",1289.0,96.9,False,positional,WATTIER,,STAMPE E INCISIONI,,
 BO0624_83734,131792,111,111,CHARLET. Quarante-neuf lithographies originales.,1290.0,95.8,False,positional,WATTIER,,STAMPE E INCISIONI,,
@@ -124,11 +124,11 @@ BO0624_83734,131803,122,122,"Deux vAses, ornes de dragons, en porcelaine de Chin
 BO0624_83734,131804,123,123,"Deux atres, meme porcelaine: personages.",,0.0,True,none,,,,,
 BO0624_83734,131805,124,124,"GRAND PLAT RoND, en ancienne porcelaine de Chine, famille rose, a fleurs et lambrequins.",1306.0,97.7,False,positional,WATTIER,,PIATTI,,
 BO0624_83734,131806,125,125-129,"ENvIRoN soIxANTE PIEcEs : plats, assiettes, plaques en faience, porcelaine et gres.",1307.0,94.5,False,positional,WATTIER,,PIATTI,,
-BO0624_83734,131807,126,130,"MiNIATuRE ovALE :portrait presume de Madame Ary Scheffer, en buste, vetue de blanc avec ceinture bleue, par Mansion; signee et datee : 1829,a Londres.",1310.0,98.6,False,positional,WATTIER,,MINIATURE,,
+BO0624_83734,131807,126,130,"MiNIATuRE ovALE :portrait presume de Madame Ary Scheffer, en buste, vetue de blanc avec ceinture bleue, par Mansion; signee et datee : 1829,a Londres.",1310.0,98.6,False,positional,WATTIER,,MINIATURE,,Sec. XIX
 BO0624_83734,131808,127,131,"PETIT LUsTRE, en verre de Venise.",1311.0,93.9,False,positional,WATTIER,,LUSTRI,,
 BO0624_83734,131809,128,132,"HoRLOGE-APPLIQUE,a pOids.",1312.0,96.0,False,positional,WATTIER,,,,
 BO0624_83734,131810,129,133,"BARoMETRE Louis XVI, en bois dore.",1314.0,94.1,False,positional,WATTIER,,OGGETTI IN LEGNO,,
-BO0624_83734,131811,130,134,"BusTE plus grand que nature,en terre cuite blanche:Bernard Palissy,par Deuers,1866. Pied en terre, vernissee vert.",1318.0,67.1,False,positional,WATTIER,,,,
+BO0624_83734,131811,130,134,"BusTE plus grand que nature,en terre cuite blanche:Bernard Palissy,par Deuers,1866. Pied en terre, vernissee vert.",1318.0,67.1,False,positional,WATTIER,,,,Sec. XIX
 BO0624_83734,131812,131,135,"CHEvAUx DE TRAIT,de Fremiet.Platre.",1320.0,94.4,False,positional,WATTIER,,PIATTI,,
 BO0624_83734,131813,132,136,"CHIENNE et ses petits, de Mene. Platre.",1321.0,94.7,False,positional,WATTIER,,PIATTI,,
 BO0624_83734,131814,133,137,"LE TERRIER, de Mene. Platre.",1322.0,92.6,False,positional,WATTIER,,PIATTI,,

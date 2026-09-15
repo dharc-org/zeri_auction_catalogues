@@ -22,11 +22,11 @@ BO0624_88036,725142,20,21,| Dampfboot auf dem See. Pendant z. Vor.     |        
 BO0624_88036,725143,21,22,| Fischerboot bei Mondschein.                | Leinw.73/54                |,97,96.2,False,positional,Correggio (Antonio Allegri),,,,
 BO0624_88036,725144,22,23,| Heimkehrendes Fischerboot. Pendant z. Vor. |                            |,98,96.3,False,positional,Correggio (Antonio Allegri),,,,
 BO0624_88036,725145,23,24,| Aus dem Hochgebirg. Partie bei Oberstdorf im Allgau. Bezeichnet:H.D.      | Karton 51/70 Siehe Abbildung Tafel III.   |,102,98.6,False,positional,Hermann Dumler,,,,
-BO0624_88036,725146,24,25,"| Schwarzwaldbauernhaus. Aus Schonauberg in Wiesental. Bezeichnet:H.D.1903. | Karton 50/44,5 Siehe Abbildung Tafel III. |",104,98.7,False,positional,Hermann Dumler,,,,
+BO0624_88036,725146,24,25,"| Schwarzwaldbauernhaus. Aus Schonauberg in Wiesental. Bezeichnet:H.D.1903. | Karton 50/44,5 Siehe Abbildung Tafel III. |",104,98.7,False,positional,Hermann Dumler,,,,Sec. XX
 BO0624_88036,725147,25,26,"| Schwarzwaldlandschaft.                                                    | Karton 35,5/52,5                          |",105,96.2,False,positional,Hermann Dumler,,,,
 BO0624_88036,725148,26,27,| Wiese mit grossen Baumen.                                                 | Karton 45/69                              |,106,96.1,False,positional,Hermann Dumler,,,,
 BO0624_88036,725149,27,28,Landschaft mit Staffage.,112,93.9,False,positional,Adam Elzheimer,,,,
-BO0624_88036,725150,28,29,Niederlegung der Kranze in Friedrichsruh in den ersten Tagen nach Bismarcks Tod 1898.,116,98.2,False,positional,Ismael Gentz,,,,
+BO0624_88036,725150,28,29,Niederlegung der Kranze in Friedrichsruh in den ersten Tagen nach Bismarcks Tod 1898.,116,98.2,False,positional,Ismael Gentz,,,,Sec. XIX
 BO0624_88036,725151,29,30,Christus eine Witwe trostend.,122,94.9,False,positional,Ismael Gentz,,,,
 BO0624_88036,725152,30,31,Korbflechter in Baden-Baden.,126,94.7,False,positional,Ismael Gentz,,,,
 BO0624_88036,725153,31,32,Idyll. Hof in Tripolis.,132,93.3,False,positional,Ismael Gentz,,,,
@@ -35,8 +35,8 @@ BO0624_88036,725155,33,34,"Am Kurplatz in Wildungen. Aquarell 21,5/30",149,96.5,
 BO0624_88036,725156,34,35,Ludwig Knaus an unserem Gartenzaun.,155,100.0,False,positional,Ismael Gentz,,,,
 BO0624_88036,725157,35,36,Feiertagsstille.,163,90.9,False,positional,Ismael Gentz,,,,
 BO0624_88036,725158,36,37,Alter Jude auf einer Gartenbank. Bezeichnet:Ismael Gentz.,169,97.3,False,title_direct,Ismael Gentz,,,,
-BO0624_88036,725159,37,38,Ein alter Gerichtsvollzieher. Bezeichnet:Ismael Gentz 30. Juli 1910.,175,97.7,False,title_direct,Ismael Gentz,,,,
-BO0624_88036,725160,38,39,Hinterhausbalkon Berlin W. Aquarell 36/16 Bezeichnet:Ismael Gentz Juli 1903.,179,98.0,False,title_direct,Ismael Gentz,Scuola di Berlino,,,
+BO0624_88036,725159,37,38,Ein alter Gerichtsvollzieher. Bezeichnet:Ismael Gentz 30. Juli 1910.,175,97.7,False,title_direct,Ismael Gentz,,,,Sec. XX
+BO0624_88036,725160,38,39,Hinterhausbalkon Berlin W. Aquarell 36/16 Bezeichnet:Ismael Gentz Juli 1903.,179,98.0,False,title_direct,Ismael Gentz,Scuola di Berlino,,,Sec. XX
 BO0624_88036,725161,39,40,Zwei Blatt Radierungen. Max Klinger und Guido Weiss. Vorzugsdrucke mit Kuinstlersignatur. Plattengr. je 30/22,181,98.6,False,positional,Ismael Gentz,,ACQUEFORTI,,
 BO0624_88036,725162,40,41,Landschaft vor der Bergstrasse.,185,95.2,False,positional,Heinrich Hoffmann,,,,
 BO0624_88036,725163,41,42,- Bacchantin am Meeresstrand. Gemalde in Gobelinmanier. Leinw.190/110,195,100.0,False,positional,August Horter,,,,
@@ -179,7 +179,7 @@ BO0624_88036,725299,177,187,Fra Fjorland.,743,85.7,False,positional,S.Rasmussen,
 BO0624_88036,725300,178,188,Partie vom Norofjord.,747,90.9,False,positional,S.Rasmussen,,,,
 BO0624_88036,725301,179,189,Sommertag im Sognefjord.,751,92.0,False,positional,S.Rasmussen,,,,
 BO0624_88036,725302,180,190,Nordwestwind auf dem Vanelsfjord.,758,94.1,False,positional,J.Refnas,,,,
-BO0624_88036,725303,181,193,"Aus der Kornblumengasse. Sepia 13,5/11,5 Bezeichnet:Reiffenstein,23.Oktober 1883.                                                             |",764,97.5,False,positional,J.Refnas,,,,
+BO0624_88036,725303,181,193,"Aus der Kornblumengasse. Sepia 13,5/11,5 Bezeichnet:Reiffenstein,23.Oktober 1883.                                                             |",764,97.5,False,positional,J.Refnas,,,,Sec. XIX
 BO0624_88036,725304,182,194,Aus der Amelungensage. Leinw.121/162                                                                                                          |,765,94.6,False,positional,J.Refnas,,,,
 BO0624_88036,725305,183,195,"Lesendes Madchen. Aquarell 16/12,5 Bezeichnet:Ph.Rumpf.                                                                                       |",766,96.4,False,positional,J.Refnas,,,,
 BO0624_88036,725306,184,196,Der Ritter von Falkenstein. Aquarell 20/15 Bezeichnet:Ph.Rumpf.                                                                               |,767,96.8,False,positional,J.Refnas,,,,

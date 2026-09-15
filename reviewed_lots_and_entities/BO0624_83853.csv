@@ -73,7 +73,7 @@ BO0624_83853,151304,71,6,Rembrandt dessinant.,888,95.0,False,positional,REMBRAND
 BO0624_83853,151305,72,96,B.22.,892,100.0,False,positional,REMBRANDT VAN RIJN,,,,
 BO0624_83853,151306,73,97,"— Portrait de Jean Asselyn, surnomme Crabbelje.",897,96.6,False,positional,REMBRANDT VAN RIJN,,,,
 BO0624_83853,151307,74,98,Dieu couronnant la Sainte Vierge.,903,95.5,False,positional,SCHONGAUER,,,,
-BO0624_83853,151308,75,99,"— Antonius Stradivarius. Crémone, 1725. Avec étui acajou.",914,97.1,False,positional,,,ACQUEFORTI,,
+BO0624_83853,151308,75,99,"— Antonius Stradivarius. Crémone, 1725. Avec étui acajou.",914,97.1,False,positional,,,ACQUEFORTI,,Sec. XVIII
 BO0624_83853,151309,76,100,一 Grancino (marque Amati). Avec étui.,916,94.3,False,positional,,,VIOLONS,,
 BO0624_83853,151310,77,101,-Vuillaume (Jean-Baptiste).Avec étui.,918,94.3,False,positional,,,VIOLONS,,
 BO0624_83853,151311,78,102,"——ANcIEN REcouPE, par Aldric. Avec étui.",922,94.6,False,positional,,,ALTOS,,
@@ -95,7 +95,7 @@ BO0624_83853,151326,93,117,"— Voirin. Violoncelle, baguette ronde.",947,94.3,F
 BO0624_83853,151327,94,118,"—VIoLE D'AMouR de Paulus Alletsee,21 cordes.",951,95.5,False,positional,,,ARCHETS,,
 BO0624_83853,151328,95,119,9—PETITE MANDoLINE ivoire et ébene.,952,94.4,False,positional,,,ARCHETS,,
 BO0624_83853,151329,96,120,—MANDoLINE avec manche incruste et ornements.,953,95.6,False,positional,,,OGGETTI VARI,,
-BO0624_83853,151330,97,121,"一 QuINToN de Guersan, 1763.",954,92.6,False,positional,,,ARCHETS,,
+BO0624_83853,151330,97,121,"一 QuINToN de Guersan, 1763.",954,92.6,False,positional,,,ARCHETS,,Sec. XVIII
 BO0624_83853,151331,98,122,——LuTH-GuITARE de Despont.,956,92.0,False,positional,,,ARCHETS,,
 BO0624_83853,151332,99,123,LuTH ancien.,958,84.6,False,positional,,,ARCHETS,,
 BO0624_83853,151333,100,124,ARCHILUTH.,959,81.8,False,positional,,,ARCHETS,,
@@ -229,7 +229,7 @@ BO0624_83853,151460,227,357,"GoNZAGUE（Hippolyte). HIPPOLITA·GONZAGA·FERNEC A
 BO0624_83853,151461,228,358,-PIERRE ARETIN.DIVVS·PETRVS·ARETINVS.Buste drape,1536,95.9,False,positional,,,MEDAILLES ARTISTIQUES,,
 BO0624_83853,151462,229,259,"TosCANI.IOANNES ALOISIVS TVSCA·AVDITOR·CAM. Bustea g.,avecberet. R.VICTAIAM NVRSIA FATIS AGITVR. Neptune dans un bige d'hippocampes. — Diam., o,o42. Trouee. (Armand,t.II,28.)",1538,98.8,False,positional,,,MEDAILLES ARTISTIQUES,,
 BO0624_83853,151463,230,260,"- ANDRE DoRIA. ANDREAS·DORIA·P·P. Buste cuirasse. R. Galere.—Diam.,0,04o. (Armand, t. I, p. 164.) Leoni.",1539,97.8,False,positional,,,MEDAILLES ARTISTIQUES,,
-BO0624_83853,151464,231,261,"DULC1.IOAN·VIN·DVLCIVS·IVR·CON·CAN·PATAVIN· AETA·LVII. Buste habille, a g., 1539. R. DVLCIS GENIO BENEVOLENTIAE. Sacrificateur tenant un dauphin.—Diam., 0,037.(Armand, t. I,p.181.) Cavino.",1540,98.8,False,positional,,,MEDAILLES ARTISTIQUES,,
+BO0624_83853,151464,231,261,"DULC1.IOAN·VIN·DVLCIVS·IVR·CON·CAN·PATAVIN· AETA·LVII. Buste habille, a g., 1539. R. DVLCIS GENIO BENEVOLENTIAE. Sacrificateur tenant un dauphin.—Diam., 0,037.(Armand, t. I,p.181.) Cavino.",1540,98.8,False,positional,,,MEDAILLES ARTISTIQUES,,Sec. XVI
 BO0624_83853,151465,232,262,"- ARIosTE. LVDOVICVS ARIOSTE·POET. Buste laure, a g. R.MALVM PRO BONO. Ruche incendiée.Diam., o,o38.",1541,97.8,False,positional,,,MEDAILLES ARTISTIQUES,,
 BO0624_83853,151466,233,263,"GRIMAN1(Ant.).ANT·GRIMANVSDVXVENETIAR.Buste a g.R.IVSTITIA ET PAX OSCVLATE SVNT.La Justice et la Paix se donnant la main.——Diam., o,o31.",1542,98.5,False,positional,,,MEDAILLES ARTISTIQUES,,
 BO0624_83853,151467,234,264,"- GRITI (Andre). ANDREAS GRITI DVX VENET. Buste a g. R. AEQVITAS PRINCIPIS. L'Equite debout. - Diam., o,029.",1543,97.9,False,positional,,,MEDAILLES ARTISTIQUES,,
@@ -237,8 +237,8 @@ BO0624_83853,151468,235,265,"BENTIVoGLIo (Jean).IOANNES BENTIVOLVS II·BONONIENS
 BO0624_83853,151469,236,266,"- AGosTo DA UDINE. AVGVSTVS VATES. Buste laure, a g.",1545,95.8,False,positional,,,MEDAILLES ARTISTIQUES,,
 BO0624_83853,151470,237,267,"HERcULE D'EsTE. HERCVLES·DVX·FERRARIAE.Tete a g. R. Cavalier. Argent.— Diam., o,028. (Armand, t. II, p. 44.)",1547,97.9,False,positional,,,MEDAILLES ARTISTIQUES,,
 BO0624_83853,151471,238,268,"CLAIRE DE GoNZAGUE.CLARA·DE·GONZ·COMITI·MONT(is) PENSERII·ET·DELPHINA·ALV(ern)IE. Buste a dr.,la tete",1548,98.0,False,positional,,,MEDAILLES ARTISTIQUES,,
-BO0624_83853,151472,239,269,"-HENRI II ET CATHERINE DE MEDICIS. HENRICVS·II·GALLIARVM·REX·INVICTISS·P·P. Buste laure et cuirasse,a dr. R.KATHARINA DE MEDICIS REGINA FRANCORVM. Buste a g., 1555. Bronze doré. - Diam., 0,o55.",1550,98.9,False,positional,,,MEDAILLES ARTISTIQUES,,
-BO0624_83853,151473,240,270,"PRINCESSE DE GUEMENE.ANNEDE ROHAN PRINCESSE DE GVEMENE. Buste a dr.; dessous, VARIN. R. SPES DVRAT AVORVM. Aigle au vol, regardant le soleil. 1638. — Diam., 0,053.",1551,98.7,False,positional,,,MEDAILLES ARTISTIQUES,,
+BO0624_83853,151472,239,269,"-HENRI II ET CATHERINE DE MEDICIS. HENRICVS·II·GALLIARVM·REX·INVICTISS·P·P. Buste laure et cuirasse,a dr. R.KATHARINA DE MEDICIS REGINA FRANCORVM. Buste a g., 1555. Bronze doré. - Diam., 0,o55.",1550,98.9,False,positional,,,MEDAILLES ARTISTIQUES,,Sec. XVI
+BO0624_83853,151473,240,270,"PRINCESSE DE GUEMENE.ANNEDE ROHAN PRINCESSE DE GVEMENE. Buste a dr.; dessous, VARIN. R. SPES DVRAT AVORVM. Aigle au vol, regardant le soleil. 1638. — Diam., 0,053.",1551,98.7,False,positional,,,MEDAILLES ARTISTIQUES,,Sec. XVII
 BO0624_83853,151474,241,271,"ANNE DE MoNTMORENCY. ANNAS MOMMORANCIVS MILITIAE GALLICAE PRAEF. Buste cuirasse,a g.R.PROVIDENTIA DVCIS FORTISS. AC FOELICISS. La Prudence, ailee, entre les personnifications de la Guerre et de la Navigation. Cuivre jaune. Trouee. —Diam., o.o52. (Armand, t. II, p. 19o.)",1552,99.4,False,positional,,,MEDAILLES ARTISTIQUES,,
 BO0624_83853,151475,242,272,"RICHELIEU.ARMANDVS IOANNES CARDINALIS DE RICHELIEV. Buste a dr., en habit cardinalice. R. TANDEM VICTA SEQVOR. Louis XIII assis dans un quadrige, a g.",1553,98.6,False,positional,,Periodo di Luigi XIII,MEDAILLES ARTISTIQUES,,
 BO0624_83853,151476,243,273,"MAXIMILIEN lr ETMARIE DE BoURGOGNE.MAXIMILIANVS·FR· CAES·F·DVX·AVSTR·BVRGVND.Busteadr.,lescheveux longs. R. MARIA·KAROLI·F·DVX·BVRGVNDIAE·AVSTRIAE·BRAB·C·FLAN.Buste a dr.;derriere,monogramme",1555,99.2,False,positional,,,MEDAILLES ARTISTIQUES,,

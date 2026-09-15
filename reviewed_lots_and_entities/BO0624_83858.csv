@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83858,395905,1,2,"Palais. On sait l'eclatant succes qu'obtint cette admirable manifestation d'art... Ce fut le dernier acte de la vie administrative de M. Emile Molinier, puisqu'au lendemain de son triomphe, il quittait le Louvre pour s'adonner personnellement au commerce des choses d'art, mettant au service de ses nouvelles fonctions toute sa clairvoyante activite, et sa vaste et solide erudition. d'une main experte, procede a l'arrangement definitif de diverses salles et au classement rationnel des objets appartenant a la",30,100.0,False,positional,EMILE MOLINIER,,OGGETTI VARI,,
-BO0624_83858,395906,2,I,"l est de toute evidence que le triptyque de la Sainte Famille appartient a la premiere periode de la carriere de Lucas Cranach (1472-1553). La signature, volontairement latinisee, l'indique assez, car on sait que, du jour ou, par la supreme volonte de son protecteur et admirateur, Frederic Ill de Saxe, dit le Sage, Cranach fut nomme gentilhomme de la chambre, les peintures du maitre cesserent de porter sa signature. Il la remplaca par l'image d'un dragon. Or, 1'anoblissement de lartiste eut lieu vers 1509.",61,99.9,False,positional,EMILE MOLINIER,,,,
+BO0624_83858,395906,2,I,"l est de toute evidence que le triptyque de la Sainte Famille appartient a la premiere periode de la carriere de Lucas Cranach (1472-1553). La signature, volontairement latinisee, l'indique assez, car on sait que, du jour ou, par la supreme volonte de son protecteur et admirateur, Frederic Ill de Saxe, dit le Sage, Cranach fut nomme gentilhomme de la chambre, les peintures du maitre cesserent de porter sa signature. Il la remplaca par l'image d'un dragon. Or, 1'anoblissement de lartiste eut lieu vers 1509.",61,99.9,False,positional,EMILE MOLINIER,,,,Sec. XVI
 BO0624_83858,395907,3,I,"ci, sous peine de donner a cette modeste preface les proportions d'un livre, nous devons desormais nous borner a citer, presque sans commentaires, les ceuvres qui, dans l'ombre du petit hotel de la rue La Rochefoucauld, ont attire davantage notre attention et nous paraissent devoir, a la grande lumiere de la salle des ventes, solliciter plus particulierement les regards des visiteurs.",83,99.9,False,positional,EMILE MOLINIER,,,,
 BO0624_83858,395908,4,1,"Les Della Robbia, par Emile Molinier et J.-C. Cavalucci. QuATRE coMPoTIERs, vases et feurs; ancienne porcelaine de Chine,famille rose.",112,73.9,False,positional,DELLA ROBBIA ANDREA,Scuola di Giovanni Della Robbia,VASI,,
 BO0624_83858,395909,5,2,"Deux AssIETTEs, feurs; ancienne porcelaine de Chine, famille rose.",113,98.4,False,positional,,,PIATTI,,
@@ -89,7 +89,7 @@ BO0624_83858,395991,87,85,"-PLAr a ombilic, presentant au centre une croix sur u
 BO0624_83858,395992,88,86,"— Corner de pharmacie, a decor de rinceaux, avec buste de femme. Ancienne faience de Faenza.",280,98.3,False,positional,,Scuola Faentina,FAIENCES,,
 BO0624_83858,395993,89,87,"CorNET de pharmacie, decore de feuillages. Ancienne faience de Faenza.",281,97.8,False,positional,,Scuola Faentina,FAIENCES,,
 BO0624_83858,395994,90,88,- CARREAu hexagonal : tete de femme. Ancienne faience de Faenza.,282,97.5,False,positional,,Scuola Faentina,FAIENCES,,
-BO0624_83858,395995,91,89,"Deux corners de pharmacie, decores d'inscriptions et de trophees, et portant la date:1566.Ancienne faience de Faenza.",283,98.7,False,positional,,Scuola Faentina,FAIENCES,,
+BO0624_83858,395995,91,89,"Deux corners de pharmacie, decores d'inscriptions et de trophees, et portant la date:1566.Ancienne faience de Faenza.",283,98.7,False,positional,,Scuola Faentina,FAIENCES,,Sec. XVI
 BO0624_83858,395996,92,91,"— CarrEAu, presentant un buste de femme sur fond gros bleu, encadre de rinceaux. Ancienne faience de Sienne.",287,98.6,False,positional,,,FAIENCES,,
 BO0624_83858,395997,93,92,— Six cARREAux varies en ancienne faience de Sienne.,291,97.0,False,positional,,,FAIENCES,,
 BO0624_83858,395998,94,93,"PLAT creux, tondino, decore au fond d’un écusson armorie, avec",292,97.5,False,positional,,,PIATTI,,
@@ -107,12 +107,12 @@ BO0624_83858,396009,105,105,—PLAT en ancienne faience d'Urbino :femme nue; fon
 BO0624_83858,396010,106,106,"— CorNET de pharmacie, orne d'un medaillon contenant un buste. Ancienne faience de Castel-Durante.",326,97.9,False,positional,,,FAIENCES,,
 BO0624_83858,396011,107,107,"— CorNET de pharmacie, decore de deux medaillons : bustes d'hommes dans des encadrements de rinceaux feuillages.Ancienne faience de Castel-Durante.",327,98.6,False,positional,,,FAIENCES,,
 BO0624_83858,396012,108,1,"o8 - Deux coRNETs de pharmacie, en ancienne faience de CastelDurante, feuillages sur fond bleu.",328,99.4,False,positional,,,FAIENCES,,
-BO0624_83858,396013,109,1,"o9 —PLATEAu de coupe d'accouchee, orne d'une femme tenant un enfant au maillot. Ancienne faience de Castel-Durante, 1539.",329,99.6,False,positional,,,FAIENCES,,
+BO0624_83858,396013,109,1,"o9 —PLATEAu de coupe d'accouchee, orne d'une femme tenant un enfant au maillot. Ancienne faience de Castel-Durante, 1539.",329,99.6,False,positional,,,FAIENCES,,Sec. XVI
 BO0624_83858,396014,110,I,"o - Coupe ajouree, presentant au centre un ange dans un paysage. Le pied manque. Ancienne faience de Castel-Durante.",333,99.5,False,positional,,,FAIENCES,,
 BO0624_83858,396015,111,11,"1 - CorneT de pharmacie, orne de deux ecussons et de larges feuilles. Ancienne faience italienne.",337,98.4,False,positional,,,FAIENCES,,
 BO0624_83858,396016,112,112,"— CoRNET de pharmacie, decore de feuillages. Ancienne faience italienne.",338,97.1,False,positional,,,FAIENCES,,
 BO0624_83858,396017,113,113,"— CorNEr de pharmacie, decoré de deux zones de feuillages. Ancienne faience italienne.",339,97.6,False,positional,,,FAIENCES,,
-BO0624_83858,396018,114,114,"-PLAT, decore au fond d'une enclume avec la date: 1545, et orne au marli de palmettes en bianco sopra bianco. Ancienne faience italienne.",340,98.5,False,positional,,,PIATTI,,
+BO0624_83858,396018,114,114,"-PLAT, decore au fond d'une enclume avec la date: 1545, et orne au marli de palmettes en bianco sopra bianco. Ancienne faience italienne.",340,98.5,False,positional,,,PIATTI,,Sec. XVI
 BO0624_83858,396019,115,115,"—PETIT PLAT creux, en ancienne faience italienne, decor de motifs irreguliers.",341,97.4,False,positional,,,PIATTI,,
 BO0624_83858,396020,116,116,"CrucHE en ancienne faience italienne,presentant une inscription et des rinceaux fleuris.",342,97.8,False,positional,,,FAIENCES,,
 BO0624_83858,396021,117,117,— Deux PLATs creux: personnages. Ancienne faience de Montelupo.,343,96.7,False,positional,,,PIATTI,,
@@ -122,7 +122,7 @@ BO0624_83858,396024,120,120,"-CrucHE en faience, decoree d'armoiries au milieu d
 BO0624_83858,396025,121,121,"—DEux cRucHEs avec couvercles,en faience.",347,95.1,False,positional,,,FAIENCES,,
 BO0624_83858,396026,122,122,"— SaLIERE en forme de petit monument, en faience, dans le genre de Saint-Porchaire.",348,97.5,False,positional,,,FAIENCES,,
 BO0624_83858,396027,123,123,"a 134 — Sous ces numeros, plats, carreaux, fragments, de faiences variees.",349,97.1,False,positional,,,PIATTI,,
-BO0624_83858,396028,124,135,La Sculpture. 1553,356,72.7,False,positional,BLANCHET,,,,
+BO0624_83858,396028,124,135,La Sculpture. 1553,356,72.7,False,positional,BLANCHET,,,,Sec. XVI
 BO0624_83858,396029,125,136,—La Sainte Famille. Triptyque.,371,93.1,False,positional,CRANACH,,,,
 BO0624_83858,396030,126,I,"l est assis pres d'une fenetre et tient sur ses genoux un livre richement relie. Au premier plan,la Vierge est repre-",385,99.6,False,positional,CRANACH,,,,
 BO0624_83858,396031,127,I,"l est represente debout; devant lui, une femme, la Vierge, allaite l'Enfant Jesus. Au premier plan, saint Jean-Baptiste tient un livre entr'ouvert. Dans le fond, bati sur des rochers, un chateau fort se profile au milieu d'un paysage.",392,99.8,False,positional,CRANACH,,,,

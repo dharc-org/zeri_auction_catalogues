@@ -11,7 +11,7 @@ BO0624_87969,500178,9,12,| Vier Militarstudien.                                 
 BO0624_87969,500179,10,13,| Drei desgl.                                                | Aquarell je 7/12                   |,28,94.7,False,none,,,,,
 BO0624_87969,500180,11,14,| Zwei desgl.                                                | Aquarell je 7/12                   |,29,94.7,False,none,,,,,
 BO0624_87969,500181,12,15,"| Hub. Bellis, Brussel. 5Blumenstocke in Topfen. Bezeichnet. | Leinw.90/70                        |",30,97.7,False,none,,,,,
-BO0624_87969,500182,13,16,"Blumenstilleben mit Kohlmeise.  | Arnoldus Bloemers 1792—1844,Amsterdam.                     | Holz 52/38,5                       |",31,98.2,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87969,500182,13,16,"Blumenstilleben mit Kohlmeise.  | Arnoldus Bloemers 1792—1844,Amsterdam.                     | Holz 52/38,5                       |",31,98.2,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_87969,500183,14,18,"8Herrenportrat.                 | Brunner, Paris.                                            | Kohle 30/26                        |",33,96.4,False,none,,,,,
 BO0624_87969,500184,15,19,| 9Landschaft mit Herde am See. Bezeichnet.                  |                                    |,35,96.3,False,none,,,,,
 BO0624_87969,500185,16,22,| Kanallandschaft am Abend. Leinw.3857 Bezeichnet.                                              |,39,96.8,False,none,,,,,
@@ -25,7 +25,7 @@ BO0624_87969,500192,23,32,| Mannerkopf. Holz 23/19                              
 BO0624_87969,500193,24,33,"| Sommerlandschaft mit Windmihle in Holland. Bezeichnet.          | Leinw.43,5/48        |",53,97.8,False,positional,C.C. Cruseman,,,,
 BO0624_87969,500194,25,34,| Partie bei Szegedin.                                            | Leinw.26/48          |,55,95.4,False,positional,C.C. Cruseman,,,,
 BO0624_87969,500195,26,35,| Partie bei Gran. Beide bezeichnet.                              | Pendant z. Vor.      |,56,96.8,False,positional,C.C. Cruseman,,,,
-BO0624_87969,500196,27,36,"Das Gastmahl des Herodes. | Abraham van Diepenbeeck, 1607-1675,Antwerpen.                   | Kupfer 22/17         |",57,98.2,False,positional,C.C. Cruseman,,OGGETTI IN RAME,,
+BO0624_87969,500196,27,36,"Das Gastmahl des Herodes. | Abraham van Diepenbeeck, 1607-1675,Antwerpen.                   | Kupfer 22/17         |",57,98.2,False,positional,C.C. Cruseman,,OGGETTI IN RAME,,Sec. XVII
 BO0624_87969,500197,28,37,"| Studienkopf.                                                    | Holz 26/19,5         |",58,94.1,False,positional,C.C. Cruseman,,OGGETTI IN LEGNO,,
 BO0624_87969,500198,29,38,| Desgl.                                                          | Pendant z.Vor.       |,59,92.7,False,positional,C.C. Cruseman,,,,
 BO0624_87969,500199,30,39,| Morgen am Strand.                                               | Karton 41/33         |,60,95.1,False,positional,C.C. Cruseman,,,,
@@ -53,7 +53,7 @@ BO0624_87969,500220,51,71,"| Hermann Hesse, Karlsruhe. Hafeneinfahrt. Bezeichnet
 BO0624_87969,500221,52,73,| Hollandische Schule 8Familienidylle.                                      | Holz 19/17               |,104,96.8,False,positional,E. Happ,,OGGETTI IN LEGNO,,
 BO0624_87969,500222,53,74,| Christus am Kreuz.                                                        | Leinw.85/54              |,106,95.1,False,positional,E. Happ,,,,
 BO0624_87969,500223,54,75,"| Hans Kaufmann, Munchen. Stille Stunde. Bezeichnet.                        | Holz 50/40               |",107,97.4,False,positional,E. Happ,,OGGETTI IN LEGNO,,
-BO0624_87969,500224,55,76,"| Bez.: Adolf Klein, 1879. Portrat eines Herrn.                             | Leinw.70/56              |",108,97.2,False,positional,E. Happ,,,,
+BO0624_87969,500224,55,76,"| Bez.: Adolf Klein, 1879. Portrat eines Herrn.                             | Leinw.70/56              |",108,97.2,False,positional,E. Happ,,,,Sec. XIX
 BO0624_87969,500225,56,77,"78 | Portrat einer Dame. Pendant z. Vor. Hugo Knorr , Karlsruhe. Meeresstrand. | Leinw. a. Karton 20/27,5 |",109,98.4,False,positional,E. Happ,,,,
 BO0624_87969,500226,57,79,| Landschaft mit Rehen. Monogrammiert.                                  | Holz 22/30                |,112,96.8,False,positional,Joh. Chr. Kroner,,OGGETTI IN LEGNO,,
 BO0624_87969,500227,58,80,| Nach von Enhuber von Jaquemot. Ein Gerichtstag.                       | Platte 54/63              |,115,97.5,False,positional,Joh. Chr. Kroner,,,,
@@ -82,8 +82,8 @@ BO0624_87969,500249,80,106,| Landschaft mit Burg und Bricke.                    
 BO0624_87969,500250,81,107,Portrat eines hollandischen Patriziers. |                                                                             | Holz 49/37                       |,149,96.1,False,positional,,,Lithographie,,
 BO0624_87969,500251,82,108,| Desgl. einer Frau.                                                          | Pendant z.Vor.                   |,150,93.8,False,positional,,,Lithographie,,
 BO0624_87969,500252,83,109,"| Landschaft. Leinw.22,5/34,5                                                                 |",153,92.9,False,positional,,,Lithographie,,
-BO0624_87969,500253,84,110,"| J.de Moucheron,1670-1744,Amsterdam. Holz 34/52,5 Landschaft mit Felsendurchblick.           |",154,97.5,False,positional,,,Lithographie,,
-BO0624_87969,500254,85,111,"| August Muller, 1836—1885,Munchen. Schwarzwalderin. Aquarell,oval 23,5/18 Bezeichnet.        |",155,97.6,False,positional,,,Lithographie,,
+BO0624_87969,500253,84,110,"| J.de Moucheron,1670-1744,Amsterdam. Holz 34/52,5 Landschaft mit Felsendurchblick.           |",154,97.5,False,positional,,,Lithographie,,Sec. XVII
+BO0624_87969,500254,85,111,"| August Muller, 1836—1885,Munchen. Schwarzwalderin. Aquarell,oval 23,5/18 Bezeichnet.        |",155,97.6,False,positional,,,Lithographie,,Sec. XIX
 BO0624_87969,500255,86,114,| Bezeichnet. Irrlicht. Schoner Frauenkopf zwischen Schilf im Wasser. Leinw.48/38 Bezeichnet. |,158,97.8,False,positional,,,Lithographie,,
 BO0624_87969,500256,87,117,"| Leinw.21/15,5                                                                               |",162,86.7,False,positional,,,Lithographie,,
 BO0624_87969,500257,88,118,| 8 Landschaft mit Bricke. Leinw.30/23 Bezeichnet.                                            |,164,95.8,False,positional,,,Lithographie,,
@@ -101,7 +101,7 @@ BO0624_87969,500268,99,134,Gelehrter bei Kerzenlicht.                           
 BO0624_87969,500269,100,138,Winterlandschaft in Holstein. Bezeichnet.                                 | Leinw.82/125     |,189,96.3,False,positional,Jakob Ruisdael,,,,
 BO0624_87969,500270,101,139,Am Meer.                                                                  | Aquarell 60/50   |,190,91.7,False,positional,Jakob Ruisdael,,,,
 BO0624_87969,500271,102,141,Zwei Faune.                                                               | Karton je 110/93 |,192,93.1,False,positional,Jakob Ruisdael,,,,
-BO0624_87969,500272,103,143,"Landschaft mit Dorf.  Aquarell 13/8  144  Desgl.  mit Kornfeld. Pendant z.Vor.  145  Desgl.  am Waldrand.  Aquarell 13/8  146  Desgl.  mit Haus. Pendant z. Vor.  Adolf Stademann t, Munchen.  147 Winterlandschaft.  Holz 20/30  Ant. Tempesta, 1555-1630, Florenz.  148  8Landschaft bei Gewitter.  Leinw.47/76  Desire Thomasin, Muinchen.  149  Abendlandschaft mit Fuhrwerk.  Leinw.26/47  Bezeichnet.  ## Art des Velasquez.  150 Portrat des Don Juan d'Austria. Grossprior. Leinw.75/61  Vlamische Schule.  151 Invalide.  Leinw.44/35,5  Karl Volkers, Dusseldorf.  152  Pferdeportrat.  Leinw.46/37  153  Desgl.  Pendant z. Vor.  Beide bezeichnet.  J. Wagner, Wien.  154  Fischerboote.  Leinw.69/56  Bezeichnet.  S. Weighert, Berlin.  155 Heidelandschaft.  Leinw.50/70  Bezeichnet.   |",196,99.7,False,positional,August Splitgerber jun.,Scuola Viennese,OGGETTI IN LEGNO,,
+BO0624_87969,500272,103,143,"Landschaft mit Dorf.  Aquarell 13/8  144  Desgl.  mit Kornfeld. Pendant z.Vor.  145  Desgl.  am Waldrand.  Aquarell 13/8  146  Desgl.  mit Haus. Pendant z. Vor.  Adolf Stademann t, Munchen.  147 Winterlandschaft.  Holz 20/30  Ant. Tempesta, 1555-1630, Florenz.  148  8Landschaft bei Gewitter.  Leinw.47/76  Desire Thomasin, Muinchen.  149  Abendlandschaft mit Fuhrwerk.  Leinw.26/47  Bezeichnet.  ## Art des Velasquez.  150 Portrat des Don Juan d'Austria. Grossprior. Leinw.75/61  Vlamische Schule.  151 Invalide.  Leinw.44/35,5  Karl Volkers, Dusseldorf.  152  Pferdeportrat.  Leinw.46/37  153  Desgl.  Pendant z. Vor.  Beide bezeichnet.  J. Wagner, Wien.  154  Fischerboote.  Leinw.69/56  Bezeichnet.  S. Weighert, Berlin.  155 Heidelandschaft.  Leinw.50/70  Bezeichnet.   |",196,99.7,False,positional,August Splitgerber jun.,Scuola Viennese,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_87969,500273,104,156,Mondscheinlandschaft am See.,200,93.1,False,positional,A. Windfelder,,,,
 BO0624_87969,500274,105,157,"Partie an der Karlsbrucke. Nurnberg. Aquarell 26,5/18",206,96.2,False,positional,Elfr. Wolffel,Scuola di Norimberga,,,
 BO0624_87969,500275,106,158,Don Quixote.,210,84.6,False,positional,Elfr. Wolffel,,,,
@@ -138,9 +138,9 @@ BO0624_87969,500305,136,188,Nach Van Dyck.Kreuzabnahme. Druck v.d. Schrift.,256,
 BO0624_87969,500306,137,189,Steifensand nach Paul Veronese. Die Anbetung der,257,95.9,False,positional,PAOLO VERONESE,,Kunstblatter,,
 BO0624_87969,500307,138,190,Convolut. 10 Diverse Blatt.,259,92.6,False,positional,,,Kunstblatter,,
 BO0624_87969,500308,139,191,"- Vier Blatt Silhuetten aus der franzosischen Revolution, verlegt in Frankfurt a. M., Hanau, Neufchatel etc.",261,100.0,False,positional,,,Kunstblatter,,
-BO0624_87969,500309,140,192,"J.Ofenbach. Die Schlacht bei Hochst, 1622.",262,95.1,False,positional,,Manifattura di Hochst,Kunstblatter,,
-BO0624_87969,500310,141,193,"- Caspar Merian. Bankett im Romer, 1658.",264,100.0,False,positional,,,Kunstblatter,,
-BO0624_87969,500311,142,194,"Derselbe. Rennbahn auf dem Rossmarkt, 1658.",265,95.2,False,positional,,,Kunstblatter,,
+BO0624_87969,500309,140,192,"J.Ofenbach. Die Schlacht bei Hochst, 1622.",262,95.1,False,positional,,Manifattura di Hochst,Kunstblatter,,Sec. XVII
+BO0624_87969,500310,141,193,"- Caspar Merian. Bankett im Romer, 1658.",264,100.0,False,positional,,,Kunstblatter,,Sec. XVII
+BO0624_87969,500311,142,194,"Derselbe. Rennbahn auf dem Rossmarkt, 1658.",265,95.2,False,positional,,,Kunstblatter,,Sec. XVII
 BO0624_87969,500312,143,195,H. Hasselhorst. Stahlstich von Kolb und Girsch. Die Deutsche Nationalversammlung in der Paulskirche zu Frankfurt a. M.,266,98.3,False,positional,,,Kunstblatter,,
 BO0624_87969,500313,144,196,Drei Blatt Stadteansichten.,267,92.9,False,positional,,,Kunstblatter,,
 BO0624_87969,500314,145,197,"Drei desgl. Homburg,Baden u. Frankfurt a. M. Diverse.",269,96.0,False,positional,,,Kunstblatter,,
@@ -163,11 +163,11 @@ BO0624_87969,500330,161,213,Drei desgl. Nancy und Neustadt a. d. Hardt. Kupferst
 BO0624_87969,500331,162,214,"- Drei desgl. Benszheim, Blamont und La Motte. Desgl.",294,100.0,False,positional,,,Kunstblatter,,
 BO0624_87969,500332,163,215,Ansicht von Wormbs. Kupferstich.,295,93.8,False,positional,,,Kunstblatter,,
 BO0624_87969,500333,164,216,J. C. Otto. Ansicht von Pyrmont in Farben. Kupferstich.,296,96.2,False,positional,,,Kunstblatter,,
-BO0624_87969,500334,165,217,"Drei Wappentafeln. Corps des Kosener S. C. Verbandes (Wappen- und Farbentafel) und der Deutschen Burschenschaften,Wintersemester 1878-1879.",297,98.5,False,positional,,,Kunstblatter,,
+BO0624_87969,500334,165,217,"Drei Wappentafeln. Corps des Kosener S. C. Verbandes (Wappen- und Farbentafel) und der Deutschen Burschenschaften,Wintersemester 1878-1879.",297,98.5,False,positional,,,Kunstblatter,,Sec. XIX
 BO0624_87969,500335,166,218,- Ansicht von Frankfurt a.M. Stahlstich.,299,100.0,False,positional,,,Kunstblatter,,
 BO0624_87969,500336,167,219,Stahlstich.,301,83.3,False,positional,,,Kunstblatter,,
-BO0624_87969,500337,168,220,J.B. Hossel nach J. H. Sturmer. Malerische Ansicht von Berlin im Anfang des 19. Jahrh.Farbendruck.,302,97.9,False,positional,,Scuola di Berlino,Kunstblatter,,
-BO0624_87969,500338,169,221,"B.Franz. Die Feier des Gutenbergfestes zu Mainz am 14.,15. und 16. August 1837. Farbiger Druck.",303,97.8,False,positional,,,Kunstblatter,,
+BO0624_87969,500337,168,220,J.B. Hossel nach J. H. Sturmer. Malerische Ansicht von Berlin im Anfang des 19. Jahrh.Farbendruck.,302,97.9,False,positional,,Scuola di Berlino,Kunstblatter,,Sec. XIX
+BO0624_87969,500338,169,221,"B.Franz. Die Feier des Gutenbergfestes zu Mainz am 14.,15. und 16. August 1837. Farbiger Druck.",303,97.8,False,positional,,,Kunstblatter,,Sec. XIX
 BO0624_87969,500339,170,222,J.Couche nach Titian. Mort d'Acteon. Kupferstich.,304,95.8,False,positional,TIZIANO VECELLIO,,Kunstblatter,,
 BO0624_87969,500340,171,223,- C.v.Otterstedt. Figuren- u.Compositions-Studie. Sepia.,306,100.0,False,positional,,,Kunstblatter,,
 BO0624_87969,500341,172,224,Derselbe. Figuren- und Compositions-Studie.S Sepia.,307,96.0,False,positional,,,Kunstblatter,,
@@ -175,11 +175,11 @@ BO0624_87969,500342,173,225,Derselbe. Desgl. desgl.,308,90.9,False,positional,,,
 BO0624_87969,500343,174,226,Derselbe. Desgl. desgl. Desgl.,310,92.9,False,positional,,,Kunstblatter,,
 BO0624_87969,500344,175,227,Derselbe. Engelstudie.Sepia.,311,92.9,False,positional,,,Kunstblatter,,
 BO0624_87969,500345,176,228,F.Specht. 2 Blatt Portratstudien. Blei,312,94.7,False,positional,,,Kunstblatter,,
-BO0624_87969,500346,177,229,J.F.Essich. 1828. Coblenz u.Ehrenbreitstein. Tusche.,313,96.0,False,positional,,,Kunstblatter,,
+BO0624_87969,500346,177,229,J.F.Essich. 1828. Coblenz u.Ehrenbreitstein. Tusche.,313,96.0,False,positional,,,Kunstblatter,,Sec. XIX
 BO0624_87969,500347,178,230,Unbekannt. Gebirgslandschaft.Aquarell.,314,94.7,False,positional,,,Kunstblatter,,
 BO0624_87969,500348,179,231,Desgl.,315,71.4,False,positional,,,Kunstblatter,,
 BO0624_87969,500349,180,232,Desgl. 2 Blatt Seehafen. Gouache.,317,93.8,False,positional,,,Kunstblatter,,
-BO0624_87969,500350,181,233,"- Autograph. Eigenhandiger Brief von Richard Wagner a. d.Jahr 1866,mit sehr interessantem Inhalt.(4 Seiten.)",319,100.0,False,positional,,,Kunstblatter,,
+BO0624_87969,500350,181,233,"- Autograph. Eigenhandiger Brief von Richard Wagner a. d.Jahr 1866,mit sehr interessantem Inhalt.(4 Seiten.)",319,100.0,False,positional,,,Kunstblatter,,Sec. XIX
 BO0624_87969,500351,182,234,Andr. Zingg. Ruine mit Staffage. Tusche.,320,94.7,False,positional,,,Kunstblatter,,
 BO0624_87969,500352,183,235,J.B.Scholl.,322,83.3,False,positional,,,Kunstblatter,,
 BO0624_87969,500353,184,236,- Mart. Schongauer. Der Engel der Verkundigung. Kop. v. B. I. 80.,324,100.0,False,positional,,,Kunstblatter,,
@@ -220,20 +220,20 @@ BO0624_87969,500387,218,272,- Ph.Herrmann t. Burg Eltz. Blei.,373,100.0,False,po
 BO0624_87969,500388,219,273,"Hess , Eug., Hch. und Max. 5 Blatt Pferde und Figuren.",374,95.9,False,positional,,,Kunstblatter,,
 BO0624_87969,500389,220,274,F.Hoch t.4 Blatt Landschaften.,376,93.5,False,positional,,,Kunstblatter,,
 BO0624_87969,500390,221,275,Desgl. Desgl. Desgl.,378,89.5,False,positional,,,Kunstblatter,,
-BO0624_87969,500391,222,276,"F.Hochecker t, 1769. Eschersh. Muhle. Tusche.",379,95.2,False,positional,,,Kunstblatter,,
+BO0624_87969,500391,222,276,"F.Hochecker t, 1769. Eschersh. Muhle. Tusche.",379,95.2,False,positional,,,Kunstblatter,,Sec. XVIII
 BO0624_87969,500392,223,277,Desgl. Landschaft. Pendant z.Vor.,380,93.8,False,positional,,,Kunstblatter,,
 BO0624_87969,500393,224,278,Carl Morgenstern t. Terracino.Blei.,381,94.3,False,positional,MORGENSTERN CARL,,Kunstblatter,,
 BO0624_87969,500394,225,279,Franz Nadorp t. Grablegung Christi. Blei und Tusche.,382,96.1,False,positional,,,Kunstblatter,,
 BO0624_87969,500395,226,280,- von Lowenfeldt t.6 Blatt die Planeten.Feder.,384,100.0,False,positional,,,Kunstblatter,,
-BO0624_87969,500396,227,281,P.F.Peters 1856.Wildbad.Aquarell.,385,94.1,False,positional,,,Kunstblatter,,
-BO0624_87969,500397,228,282,J.G.Schmidt 1769.Portrat. Tusche.,386,93.9,False,positional,,,Kunstblatter,,
+BO0624_87969,500396,227,281,P.F.Peters 1856.Wildbad.Aquarell.,385,94.1,False,positional,,,Kunstblatter,,Sec. XIX
+BO0624_87969,500397,228,282,J.G.Schmidt 1769.Portrat. Tusche.,386,93.9,False,positional,,,Kunstblatter,,Sec. XVIII
 BO0624_87969,500398,229,283,Chr. G. Schutz. Schloss Cronberg. Tusche.,387,94.7,False,positional,SCHUTZ CHRISTIAN GEORG,,Kunstblatter,,
 BO0624_87969,500399,230,284,Desgl. Landschaft mit Brucke.Bister.,388,94.4,False,positional,,,Kunstblatter,,
 BO0624_87969,500400,231,285,Schwantaler. Ritter. Blei.,389,92.0,False,positional,,,Kunstblatter,,
 BO0624_87969,500401,232,286,"- Chr. Siedentopf. 4 Blatt Landschaften. Blei,Feder.",391,100.0,False,positional,,,Kunstblatter,,
 BO0624_87969,500402,233,287,Virgil Solis. Kopie. Das Alphabet in Atlethenfiguren. Blei.,392,96.5,False,positional,,,Kunstblatter,,
-BO0624_87969,500403,234,288,S.R.W.Prinz z. Solms 1744 u. And. 8 Blatt Land-,393,95.6,False,positional,,,Kunstblatter,,
-BO0624_87969,500404,235,289,J. C.Zehender 1770. 2 Landschaften. Tusche.,395,95.1,False,positional,,,Kunstblatter,,
+BO0624_87969,500403,234,288,S.R.W.Prinz z. Solms 1744 u. And. 8 Blatt Land-,393,95.6,False,positional,,,Kunstblatter,,Sec. XVIII
+BO0624_87969,500404,235,289,J. C.Zehender 1770. 2 Landschaften. Tusche.,395,95.1,False,positional,,,Kunstblatter,,Sec. XVIII
 BO0624_87969,500405,236,290,Desgl. 2 Mosellandschaften. Tusche.,396,94.1,False,positional,,,Kunstblatter,,
 BO0624_87969,500406,237,291,- Desgl. Kesselstadt und Felspartie.Tusche.,398,100.0,False,positional,,,Kunstblatter,,
 BO0624_87969,500407,238,292,Photographie-Album.,404,90.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -245,7 +245,7 @@ BO0624_87969,500412,243,297,- Triktrakspiel mit 31 Steinen.,410,100.0,False,posi
 BO0624_87969,500413,244,299,299,412,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500414,245,300,Desgl. mit Blumen.,415,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500415,246,301,Desgl. mit Emblemen.,416,90.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87969,500416,247,302,- Relief. Napoleon im 10. Lebensjahr.,418,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87969,500416,247,302,- Relief. Napoleon im 10. Lebensjahr.,418,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. X
 BO0624_87969,500417,248,303,- Teewarmer.,420,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500418,249,304,Buste Bismarck.Versilbert.,421,92.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500419,250,305,Zwei Porzellanplatten. Berlin.,422,93.3,False,positional,,Scuola di Berlino,Antiquitaten; Kunstgegenstande,,
@@ -359,9 +359,9 @@ BO0624_87969,500526,357,414,Zinnleuchter.,565,85.7,False,positional,,,Antiquitat
 BO0624_87969,500527,358,415,Funf Zinnteller. Glatt. Diam.24 cm.,566,94.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500528,359,416,Desgl. Desgl.,567,84.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500529,360,417,Zinnplatte. Diam.28 cm.,568,91.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87969,500530,361,418,Zinnplatte.Graviert 1773.,569,92.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87969,500530,361,418,Zinnplatte.Graviert 1773.,569,92.3,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87969,500531,362,419,Desgl.Diam.24 cm.,570,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87969,500532,363,420,Zinnschuissel mit Relief und gewelltem Rand. 1753. Diam.30 cm.,571,96.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87969,500532,363,420,Zinnschuissel mit Relief und gewelltem Rand. 1753. Diam.30 cm.,571,96.7,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87969,500533,364,421,"- Feldflasche, 6eckig. Zinn graviert. Hohe 27 cm.",573,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500534,365,422,"Tablett, Butterdose, Salzfass mit Glaseinsatzen. Zinn. Louis XVI.",574,96.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500535,366,423,Kurfurstenteller. Zinn.,575,91.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -373,7 +373,7 @@ BO0624_87969,500540,371,428,Zwei Wandsalzfasser. Messing getrieben.,582,94.9,Fal
 BO0624_87969,500541,372,429,Sabbathlampe. Messing.,583,90.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500542,373,430,Desgl. Desgl.,584,84.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500543,374,431,Desgl. Desgl.,585,84.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87969,500544,375,432,- Schneiderzunftschild. 1762. Zinn.,587,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87969,500544,375,432,- Schneiderzunftschild. 1762. Zinn.,587,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87969,500545,376,433,Wandsalzfass. Kupfer.,588,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500546,377,434,Drei Kupferformen. Melonenform.,589,93.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500547,378,435,"Kupferform, klein.",590,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -531,16 +531,16 @@ BO0624_87969,500698,529,587,Grosser Humpen. Kreuzfahrer. Messing getrieben.,817,
 BO0624_87969,500699,530,589,589,819,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500700,531,590,Beschlagstick. Amor und Psyche.,822,93.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87969,500701,532,591,Desgl. Das Opfer.,823,88.2,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87969,500702,533,592,Band. Novum Missale Romanum.1731.,829,93.9,False,positional,,,Bucher,,
-BO0624_87969,500703,534,593,Bibel mit vielen Kupferstichen. 1836.,830,94.6,False,positional,,,OGGETTI IN RAME,,
-BO0624_87969,500704,535,594,Hausarzeneibuch von S. A. D. Tissot. 1775.,831,94.9,False,positional,,,Bucher,,
-BO0624_87969,500705,536,595,Rousseau. Emile.4 Bande. Lille 1793.,832,94.3,False,positional,ROUSSEAU JEAN-JACQUES,,Bucher,,
+BO0624_87969,500702,533,592,Band. Novum Missale Romanum.1731.,829,93.9,False,positional,,,Bucher,,Sec. XVIII
+BO0624_87969,500703,534,593,Bibel mit vielen Kupferstichen. 1836.,830,94.6,False,positional,,,OGGETTI IN RAME,,Sec. XIX
+BO0624_87969,500704,535,594,Hausarzeneibuch von S. A. D. Tissot. 1775.,831,94.9,False,positional,,,Bucher,,Sec. XVIII
+BO0624_87969,500705,536,595,Rousseau. Emile.4 Bande. Lille 1793.,832,94.3,False,positional,ROUSSEAU JEAN-JACQUES,,Bucher,,Sec. XVIII
 BO0624_87969,500706,537,596,- Pyrkers samtliche Werke. 3 Bande.,834,100.0,False,positional,,,Bucher,,
 BO0624_87969,500707,538,597,- Marggraff. Gedichte.,836,100.0,False,positional,,,Bucher,,
 BO0624_87969,500708,539,598,Faber.Gedichte und der Pachthof.,837,93.9,False,positional,,,Bucher,,
 BO0624_87969,500709,540,599,Hch. Hubsch.Bauwerke.,838,90.5,False,positional,,,Bucher,,
 BO0624_87969,500710,541,600,- G.Moller und F. Heger. Entwurfe ausgef. Bauten.,840,100.0,False,positional,,,Bucher,,
-BO0624_87969,500711,542,601,- Beschryving. Slang-Brand-Spuiten. 1735.,842,100.0,False,positional,,,Bucher,,
+BO0624_87969,500711,542,601,- Beschryving. Slang-Brand-Spuiten. 1735.,842,100.0,False,positional,,,Bucher,,Sec. XVIII
 BO0624_87969,500712,543,602,Musterbuch. Silberschmiede.,843,92.6,False,positional,,,Bucher,,
 BO0624_87969,500713,544,603,Drei Hefte fuir Zeichenschuler und Heft mit Munzen etc.,844,96.4,False,positional,,,Bucher,,
 BO0624_87969,500714,545,604,Mappe mit photogr. Ansichten.,845,93.1,False,positional,,,Bucher,,
@@ -558,26 +558,26 @@ BO0624_87969,500725,556,616,Veit Valentin. Uber Kunst und Kuinstler.,860,95.0,Fa
 BO0624_87969,500726,557,617,Italienische Kunst.,861,90.0,False,positional,,,Bucher,,
 BO0624_87969,500727,558,618,"Von Steinle. Briefwechsel,2 Bande.",862,94.1,False,positional,,,Bucher,,
 BO0624_87969,500728,559,619,W. Turner.The Water Colours.,863,92.9,False,positional,,,Bucher,,
-BO0624_87969,500729,560,620,Millais's illustrations. London 1866.,864,94.6,False,positional,,,Bucher,,
+BO0624_87969,500729,560,620,Millais's illustrations. London 1866.,864,94.6,False,positional,,,Bucher,,Sec. XIX
 BO0624_87969,500730,561,621,Drei Bande fur Graphische Gewerbe etc.,865,94.9,False,positional,,,Bucher,,
 BO0624_87969,500731,562,622,- Topograph. Italiae.,867,100.0,False,positional,,,Bucher,,
 BO0624_87969,500732,563,623,G.Hirth. Der Formenschatz.,868,92.3,False,positional,,,Bucher,,
 BO0624_87969,500733,564,624,V.Valentin. Die hohe Frau von Milo.,869,94.3,False,positional,,,Bucher,,
-BO0624_87969,500734,565,625,Neunzehn Bande Diodor. 1827.,870,92.9,False,positional,,,Bucher,,
+BO0624_87969,500734,565,625,Neunzehn Bande Diodor. 1827.,870,92.9,False,positional,,,Bucher,,Sec. XIX
 BO0624_87969,500735,566,626,"- Trostbuch fur die Kranken, in Schweinsleder-Einband.",872,100.0,False,positional,,,Bucher,,
 BO0624_87969,500736,567,627,Altes Buch.,873,83.3,False,positional,,,Bucher,,
 BO0624_87969,500737,568,628,Schweinsleder-Einband.,874,91.3,False,positional,,,Bucher,,
-BO0624_87969,500738,569,629,Zwei Schweinsleder-Einbande. 1563 und 1591.,875,95.3,False,positional,,,LAMPADE,,
-BO0624_87969,500739,570,630,Leder-Einband. 1602.,876,90.0,False,positional,,,OGGETTI IN PELLE,,
+BO0624_87969,500738,569,629,Zwei Schweinsleder-Einbande. 1563 und 1591.,875,95.3,False,positional,,,LAMPADE,,Sec. XVI
+BO0624_87969,500739,570,630,Leder-Einband. 1602.,876,90.0,False,positional,,,OGGETTI IN PELLE,,Sec. XVII
 BO0624_87969,500740,571,631,Desgl. mit schoner Wappenpressung.,877,94.1,False,positional,,,Bucher,,
 BO0624_87969,500741,572,632,- Vier Bande mit schoner Lederpressung.,879,100.0,False,positional,,,Bucher,,
-BO0624_87969,500742,573,633,"Zwei desgl. 1632, mit Lederpressung.",880,94.3,False,positional,,,Bucher,,
-BO0624_87969,500743,574,634,"Buch. 1560,mit Lederpressung. Bischofshut.",881,95.1,False,positional,,,Bucher,,
+BO0624_87969,500742,573,633,"Zwei desgl. 1632, mit Lederpressung.",880,94.3,False,positional,,,Bucher,,Sec. XVII
+BO0624_87969,500743,574,634,"Buch. 1560,mit Lederpressung. Bischofshut.",881,95.1,False,positional,,,Bucher,,Sec. XVI
 BO0624_87969,500744,575,635,- Buch. Symbolica aegyptiorum.,883,100.0,False,positional,,,Bucher,,
 BO0624_87969,500745,576,636,Drei Bande. Ossemens Fossiles.,884,93.3,False,positional,,,Bucher,,
 BO0624_87969,500746,577,637,Inventar des Frankfurter Stadtarchivs. 3 Bande.,885,95.7,False,positional,,,Bucher,,
 BO0624_87969,500747,578,638,Grosser deutscher Atlas. 25 Blatt.,886,94.1,False,positional,,,Bucher,,
-BO0624_87969,500748,579,639,Vier Hefte iber den Feldzug Frankreichs in Spanien 1823.,887,96.5,False,positional,,,Bucher,,
+BO0624_87969,500748,579,639,Vier Hefte iber den Feldzug Frankreichs in Spanien 1823.,887,96.5,False,positional,,,Bucher,,Sec. XIX
 BO0624_87969,500749,580,641,641,889,100.0,False,positional,,,Bucher,,
 BO0624_87969,500750,581,642,Desgl. Diverse Drucke.,892,90.9,False,positional,,,STAMPE E INCISIONI,,
 BO0624_87969,500751,582,643,Gaillard und Boucher. 2 Blatt. Le Berger recompense,893,96.1,False,positional,BOUCHER FRANCOIS,,Bucher,,
@@ -590,9 +590,9 @@ BO0624_87969,500757,588,649,Mappe mit Frankfurter Schriftstucken.,900,94.7,False
 BO0624_87969,500758,589,650,Rolle. 15 alte Landkarten.,901,92.3,False,positional,,,Bucher,,
 BO0624_87969,500759,590,651,Kupferstich. Drei ostreichische Feldherren.,902,95.3,False,positional,,,OGGETTI IN RAME,,
 BO0624_87969,500760,591,652,Desgl. Freiburger Kirche.,903,92.0,False,positional,,,Bucher,,
-BO0624_87969,500761,592,653,Rheinisches Taschenbuch. 1844.,904,93.3,False,positional,,,Bucher,,
-BO0624_87969,500762,593,654,Taschenbuch.1827.,905,88.9,False,positional,,,Bucher,,
-BO0624_87969,500763,594,655,Desgl. 1829.,906,83.3,False,positional,,,Bucher,,
-BO0624_87969,500764,595,656,Desgl. 1831.,907,83.3,False,positional,,,Bucher,,
+BO0624_87969,500761,592,653,Rheinisches Taschenbuch. 1844.,904,93.3,False,positional,,,Bucher,,Sec. XIX
+BO0624_87969,500762,593,654,Taschenbuch.1827.,905,88.9,False,positional,,,Bucher,,Sec. XIX
+BO0624_87969,500763,594,655,Desgl. 1829.,906,83.3,False,positional,,,Bucher,,Sec. XIX
+BO0624_87969,500764,595,656,Desgl. 1831.,907,83.3,False,positional,,,Bucher,,Sec. XIX
 BO0624_87969,500765,596,657,Das Wesertal von Munden bis Minden.,908,94.4,False,positional,,,Bucher,,
 BO0624_87969,500766,597,658,Drei diverse Bucher. Engl. und franz.,909,94.4,False,title_direct,,,Bucher,,

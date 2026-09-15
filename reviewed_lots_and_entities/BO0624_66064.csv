@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_66064,630112,1,1,"PORTRAIT OF FREDERICA CHARLOTTE CATHERINE,DUCHESS OF YoRK, eldest daughter of the King of Prussia;married in 1791,Frederick,Duke of York, second son of George III",13,99.7,False,positional,"SIR W. BEECHEY,R.A.",,,,
+BO0624_66064,630112,1,1,"PORTRAIT OF FREDERICA CHARLOTTE CATHERINE,DUCHESS OF YoRK, eldest daughter of the King of Prussia;married in 1791,Frederick,Duke of York, second son of George III",13,99.7,False,positional,"SIR W. BEECHEY,R.A.",,,,Sec. XVIII
 BO0624_66064,630113,2,34,in.by 27 in.,17,88.0,False,positional,"SIR W. BEECHEY,R.A.",,,,
 BO0624_66064,630114,3,1868,Presented to Mrs. Gwyn by Her Royal Highness,25,100.0,False,positional,"SIR W. BEECHEY,R.A.",,,,
 BO0624_66064,630115,4,1896,"Described in ""Sir W.Beechey,R.A.""by W.Roberts, p.71",33,100.0,False,positional,"SIR W. BEECHEY,R.A.",,,,
@@ -8,12 +8,12 @@ BO0624_66064,630117,6,850,<!-- image -->,42,100.0,False,positional,"SIR W. BEECH
 BO0624_66064,630118,7,2,PORTRAITOFLADY Courtenay Throckmorton,49,98.7,False,positional,"SIR W.BEECHEY, R.A.",,,,
 BO0624_66064,630119,8,I,"n white dress, cut low at the neck,and with short elbow sleeves, yellow sash,with large bow at the back; her hair done wide,and powdered; seated under some trees,with a black and white dog in front of her",51,99.8,False,positional,"SIR W.BEECHEY, R.A.",,,,
 BO0624_66064,630120,9,50,in.by 40 in.,53,88.0,False,positional,"SIR W.BEECHEY, R.A.",,,,
-BO0624_66064,630121,10,3,"THE EMBARKATION OF GEORGE IV.FROM WHITEHALL ON THE OCCASION OF HIS OPENING WATERLOO BRIDGE,JUNE 18TH,1817",57,99.5,False,positional,"J.CONSTABLE,R.A.",,,,
+BO0624_66064,630121,10,3,"THE EMBARKATION OF GEORGE IV.FROM WHITEHALL ON THE OCCASION OF HIS OPENING WATERLOO BRIDGE,JUNE 18TH,1817",57,99.5,False,positional,"J.CONSTABLE,R.A.",,,,Sec. XIX
 BO0624_66064,630122,11,58,in.by 94 in.,63,88.0,False,positional,"J.CONSTABLE,R.A.",,,,
 BO0624_66064,630123,12,1896,See Illustration,71,100.0,False,positional,"J.CONSTABLE,R.A.",,,,
 BO0624_66064,630124,13,49,in.by 39 in.,86,88.0,False,positional,"T.GAINSBOROUGH,R.A.",,,,
 BO0624_66064,630125,14,3200,<!-- image -->,97,100.0,False,positional,"T.GAINSBOROUGH,R.A.",,,,
-BO0624_66064,630126,15,6,"PORTRAIT OF ADMIRAL LORD THOMAS GRAVES, son of Rear-Admiral Graves;second in command under Admiral Howe against the French off Brest on June 1, 1794, when he was badly wounded;for his services he was created Lord Graves,Baron of Gravesend;died 1802",124,99.8,False,positional,"T.GAINSBOROUGH,R.A.",,OGGETTI VARI,,
+BO0624_66064,630126,15,6,"PORTRAIT OF ADMIRAL LORD THOMAS GRAVES, son of Rear-Admiral Graves;second in command under Admiral Howe against the French off Brest on June 1, 1794, when he was badly wounded;for his services he was created Lord Graves,Baron of Gravesend;died 1802",124,99.8,False,positional,"T.GAINSBOROUGH,R.A.",,OGGETTI VARI,,Sec. XVIII
 BO0624_66064,630127,16,I,"n blue naval coat edged with gold braid,yellow vest, white breeches and white stock,holding his cocked hat under his left arm,resting his right hand upon a table;a red curtain on the left",126,99.7,False,positional,"T.GAINSBOROUGH,R.A.",,OGGETTI IN ORO,,
 BO0624_66064,630128,17,49,in.by 39 in.,128,88.0,False,positional,"T.GAINSBOROUGH,R.A.",,,,
 BO0624_66064,630129,18,63,in.by 42in.,139,87.0,False,positional,"T.GAINSBOROUGH,R.A.",,,,
@@ -38,11 +38,11 @@ BO0624_66064,630147,36,I,"n white dress,cut low at the neck,and long sleeves, wi
 BO0624_66064,630148,37,49,in.by 39 in.,289,88.0,False,positional,"SIR H.RAEBURN,R.A.",,,,
 BO0624_66064,630149,38,I,"n white satin dress,cut low at the neck,and with long sleeves; the skirt is gathered at the side and falls in big folds;a string of pearls over her shoulder and fastened in a knot in front;her hair is done high and with two large curls on each side of her neck; standing to the right with her left hand resting upon her hip;at her side is a brown and white spaniel jumping up;landscape background,with a stream in the middle distance; a tree on theleft",302,99.9,False,positional,"SIR J. REYNOLDS,P.R.A.",,,,
 BO0624_66064,630150,39,1894,"From the Collection of Sir Julian Goldsmid,Bart.",324,100.0,False,positional,"SIR J. REYNOLDS,P.R.A.",,,COLLEZIONE GOLDSMID,
-BO0624_66064,630151,40,1896,"Engraved bg W.Dickinson,1780",328,100.0,False,positional,"SIR J. REYNOLDS,P.R.A.",,,,
+BO0624_66064,630151,40,1896,"Engraved bg W.Dickinson,1780",328,100.0,False,positional,"SIR J. REYNOLDS,P.R.A.",,,,Sec. XVIII
 BO0624_66064,630152,41,I,"n white satin dress trimmed with gold braid,with a knot and tassel in front; over her arms is a yellow gauze scarf;her hair is done high and bound with a coloured riband;walking in a landscape,with her right arm extended; trees on the right and a column on the left",341,99.8,False,positional,"SIR J. REYNOLDS,P.R.A.",,OGGETTI IN ORO,,
-BO0624_66064,630153,42,22,"PORTRAITOF CHARLES MANNERS,FoURTH DUKE OF RuTLAND. Born 1754; son of the famous Marquess of Granby; succeeded his grandfather as fourth Duke,1779; a great lover of the fine arts,he gave Sir Joshua 1200 for his ""Nativity""(destroyed at the fire at Belvoir)—an enormous price at that time; died 1787,when Lord- n Garter robes of white and crimson, the blue cloak tied with a white knot at the shoulder,embroidered sleeves, with lace frills and white lace stock;standing to the left with his hand resting upon a table,on which is his plumed hat,his left foot upon a stool,and a wand in his right hand;red curtain background,and landscape on the right",361,69.3,False,positional,"SIR J.REYNOLDS,P.R.A.",,,,
+BO0624_66064,630153,42,22,"PORTRAITOF CHARLES MANNERS,FoURTH DUKE OF RuTLAND. Born 1754; son of the famous Marquess of Granby; succeeded his grandfather as fourth Duke,1779; a great lover of the fine arts,he gave Sir Joshua 1200 for his ""Nativity""(destroyed at the fire at Belvoir)—an enormous price at that time; died 1787,when Lord- n Garter robes of white and crimson, the blue cloak tied with a white knot at the shoulder,embroidered sleeves, with lace frills and white lace stock;standing to the left with his hand resting upon a table,on which is his plumed hat,his left foot upon a stool,and a wand in his right hand;red curtain background,and landscape on the right",361,69.3,False,positional,"SIR J.REYNOLDS,P.R.A.",,,,Sec. XVIII
 BO0624_66064,630154,43,23,"“REFLECTIoNS ON ‘CLARISSA HARLow'""(a portrait of Miss in.by 24 in.",378,86.7,False,positional,"SIR J.REYNOLDS,P.R.A.",,,,
-BO0624_66064,630155,44,24,"PORTRAIT OF LADY URITH SHORE, daughter of Joseph Offley, Esq.,of Norton Hall,and co-heir of her brother; married,as his frst wife, March 15,1759, Samuel Shore, Esq., of Norton Hall and Mearsbrook; died in 1781",391,99.3,False,positional,G.ROMNEY,,,,
+BO0624_66064,630155,44,24,"PORTRAIT OF LADY URITH SHORE, daughter of Joseph Offley, Esq.,of Norton Hall,and co-heir of her brother; married,as his frst wife, March 15,1759, Samuel Shore, Esq., of Norton Hall and Mearsbrook; died in 1781",391,99.3,False,positional,G.ROMNEY,,,,Sec. XVIII
 BO0624_66064,630156,45,49,in.by 39 in.,395,88.0,False,positional,G.ROMNEY,,,,
 BO0624_66064,630157,46,I,"n blue satin bodice, cut low at the neck, with black lace fichu and white quilted skirt, seated in a yellow brocade arm-chair; by her side is a stone ledge, on which sits her young child, wearing a white frock and lace cap, and holding an apple",408,99.8,False,positional,G.ROMNEY,,,,
 BO0624_66064,630158,47,49,in. by 39 in.,410,88.0,False,positional,G.ROMNEY,,,,
@@ -97,7 +97,7 @@ BO0624_66064,630206,95,13,in.by 11 in.,813,88.0,False,positional,S.VAN DER DOES,
 BO0624_66064,630207,96,56,A SMOKER,815,88.9,False,positional,S.VAN DER DOES,,,,
 BO0624_66064,630208,97,57,PoNTIUS PILATE,825,90.3,False,positional,AERT DE GELDER,,,,
 BO0624_66064,630209,98,I,"n the centre is Pontius Pilate,in rich crimson and gold dress, with white turban; before him stands an attendant,in red costume,pouring water from a golden ewer over the hands of his master; two soldiers carrying halberds stand behind; on the left, Christ is being led away by two soldiers through an archway",827,99.8,False,positional,AERT DE GELDER,,OGGETTI IN ORO,,
-BO0624_66064,630210,99,I,"nscribed,“AETAT SUAE 52 AN°1639""",838,98.4,False,positional,FRANS HALS,,,,
+BO0624_66064,630210,99,I,"nscribed,“AETAT SUAE 52 AN°1639""",838,98.4,False,positional,FRANS HALS,,,,Sec. XVII
 BO0624_66064,630211,100,451,in.by 351 in.,840,85.7,False,positional,FRANS HALS,,,,
 BO0624_66064,630212,101,59,PORTRAIT OF A YOUNG WOMAN,865,94.3,False,positional,FRANS HALS,,,,
 BO0624_66064,630213,102,I,"n black dress, showing white chemisette at the neck; over her sh culders a Jarge white lawn collarhanging in two long points, with tassels attached; a close-fitting white lace cap on her head;pearl ear-rings",867,99.8,False,positional,FRANS HALS,,,,
@@ -132,7 +132,7 @@ BO0624_66064,630241,130,75,THE FORD,1060,88.9,False,positional,W.VAN MIERIS,,,,
 BO0624_66064,630242,131,56,in. by 46 in.,1066,88.0,False,positional,W.VAN MIERIS,,,,
 BO0624_66064,630243,132,950,<!-- image -->,1079,100.0,False,positional,EGLON VAN DER NEER,,,,
 BO0624_66064,630244,133,33,in.by 27 in.,1083,88.0,False,positional,EGLON VAN DER NEER,,,,
-BO0624_66064,630245,134,1857,"Echibited at the Victoria and Albert Museum,1891-8",1091,100.0,False,positional,EGLON VAN DER NEER,,,,
+BO0624_66064,630245,134,1857,"Echibited at the Victoria and Albert Museum,1891-8",1091,100.0,False,positional,EGLON VAN DER NEER,,,,Sec. XIX
 BO0624_66064,630246,135,1200,<!-- image -->,1104,100.0,False,positional,EGLON VAN DER NEER,,,,
 BO0624_66064,630247,136,36,in.by 29in.,1112,90.9,False,positional,JACOB VAN OCHTERVELT,,,,
 BO0624_66064,630248,137,25,in.by 20 in.,1123,88.0,False,positional,JACOB VAN OCHTERVELT,,,,
@@ -157,7 +157,7 @@ BO0624_66064,630266,155,420,<!-- image -->,1274,100.0,False,positional,JAN STEEN
 BO0624_66064,630267,156,90,THE PEEP-SHOW in.by 21 in.,1289,63.4,False,positional,JAN STEEN,,,,
 BO0624_66064,630268,157,91,A GUARD RoOM,1297,88.9,False,positional,D.TENIERS,,,,
 BO0624_66064,630269,158,I,"n the centre is a large heap of armour,with weapons, drum,and standards;on the left a cavalier and a peasant are seated together smoking; in the background are three peasants before a fire, and a group of figures playing cards round the table",1299,99.8,False,positional,D.TENIERS,,,,
-BO0624_66064,630270,159,22,"in.by 33 in. Collection Boitelle,Paris,1867 Collection of E.B.Narischkine,Paris,1883",1301,98.2,False,positional,D.TENIERS,,,,
+BO0624_66064,630270,159,22,"in.by 33 in. Collection Boitelle,Paris,1867 Collection of E.B.Narischkine,Paris,1883",1301,98.2,False,positional,D.TENIERS,,,,Sec. XIX
 BO0624_66064,630271,160,92,SKITTLE PLAYERS,1305,90.9,False,positional,D.TENIERS,,,,
 BO0624_66064,630272,161,93,THE HURDY-GURDY PLAYER,1313,93.6,False,positional,D.TENIERS,,,,
 BO0624_66064,630273,162,3400,<!-- image -->,1328,100.0,False,positional,G.TERBURG,,,,
@@ -170,7 +170,7 @@ BO0624_66064,630279,168,96,PORTRAIT OF MADAME DE WITTE,1361,94.7,False,positiona
 BO0624_66064,630280,169,850,<!-- image -->,1365,100.0,False,positional,SIR A.VAN DYCK,,,,
 BO0624_66064,630281,170,36,in.by 28 in.,1369,88.0,False,positional,SIR A.VAN DYCK,,,,
 BO0624_66064,630282,171,I,"llustrated in “Vandyck,by Emile Schaeffer, p. 140",1373,98.9,False,positional,SIR A.VAN DYCK,,,,
-BO0624_66064,630283,172,97,"PoRTRAIT OF LADY ELIZABETH HERBERT, daughter of Sir William DormerKnight;married in 1628 Lord Edward Herbert,afterwards second Marquis of·Worcester; died in 1635",1377,99.1,False,positional,VAN DYCK,,OGGETTI VARI,,
+BO0624_66064,630283,172,97,"PoRTRAIT OF LADY ELIZABETH HERBERT, daughter of Sir William DormerKnight;married in 1628 Lord Edward Herbert,afterwards second Marquis of·Worcester; died in 1635",1377,99.1,False,positional,VAN DYCK,,OGGETTI VARI,,Sec. XVII
 BO0624_66064,630284,173,I,"n white satin dress, cut square at the neck,with short sleeves,a green bow at her waist and a fur over her shoulders；pearl necklace and ornaments;red curtain and architecturalbackground",1379,99.7,False,positional,VAN DYCK,,,,
 BO0624_66064,630285,174,49,in.by 37 in.,1381,88.0,False,positional,VAN DYCK,,,,
 BO0624_66064,630286,175,98,THE MAGDALEN,1389,88.9,False,positional,VAN DYOK,,,,

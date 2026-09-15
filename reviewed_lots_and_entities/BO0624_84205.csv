@@ -1,8 +1,8 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84205,149071,1,2,"Dix-sept assiettes en faience, de l'époque revo-",21,97.9,False,positional,,,PIATTI,,
 BO0624_84205,149072,2,3,—Deux assiettes aux emblemes des trois ordres.,23,97.8,False,positional,,,PIATTI,,
-BO0624_84205,149073,3,4,"Assiette,presentant une figure de saint Pierre avec le nom Pierre Gaillard 1790. Ancienne faience francaise.",25,99.1,False,positional,,,FAIENCES,,
-BO0624_84205,149074,4,5,"-Vase, decore de branchages en relief et de papillons. Ancienne faience de La Rochelle. Marque:La Rochelle 1777.",26,99.1,False,positional,,,VASI,,
+BO0624_84205,149073,3,4,"Assiette,presentant une figure de saint Pierre avec le nom Pierre Gaillard 1790. Ancienne faience francaise.",25,99.1,False,positional,,,FAIENCES,,Sec. XVIII
+BO0624_84205,149074,4,5,"-Vase, decore de branchages en relief et de papillons. Ancienne faience de La Rochelle. Marque:La Rochelle 1777.",26,99.1,False,positional,,,VASI,,Sec. XVIII
 BO0624_84205,149075,5,6,"Fontaine-applique en ancienne faience de Rouen,a decor de fleurs et dauphins en bleu.",27,98.8,False,positional,,,FAIENCES,,
 BO0624_84205,149076,6,8,"Grand plat rond, decore d'une rosace et d'un",29,97.7,False,positional,,,PIATTI,,
 BO0624_84205,149077,7,9,"Plat,decore d'une petite corbeille de fleurs et de lambrequins en bleu et rouge. Ancienne faience de Rouen.",31,99.1,False,positional,,,PIATTI,,

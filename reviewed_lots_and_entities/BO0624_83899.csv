@@ -1,159 +1,159 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83899,696551,1,1658,apres 1701,6,80.0,False,positional,BOUT (PIERRE); BOUDEWYNS (ADRIAEN),,,,
+BO0624_83899,696551,1,1658,apres 1701,6,80.0,False,positional,BOUT (PIERRE); BOUDEWYNS (ADRIAEN),,,,Sec. XVIII
 BO0624_83899,696552,2,1644,apres1700,12,78.3,False,positional,BOUT (PIERRE); BOUDEWYNS (ADRIAEN),,,,
-BO0624_83899,696553,3,1605,1638,18,61.5,False,positional,BROUWER (ADRIAEN),,,,
-BO0624_83899,696554,4,2,一 Il tire la Langue.... 1684,20,84.4,False,positional,BROUWER (ADRIAEN),,,,
+BO0624_83899,696553,3,1605,1638,18,61.5,False,positional,BROUWER (ADRIAEN),,,,Sec. XVII
+BO0624_83899,696554,4,2,一 Il tire la Langue.... 1684,20,84.4,False,positional,BROUWER (ADRIAEN),,,,Sec. XVII
 BO0624_83899,696555,5,3,La Distribution des Pains.,30,96.2,False,positional,COQUES (GONZALES),,,,
-BO0624_83899,696556,6,4,Portrait d'Homme. 1641,38,82.1,False,positional,COQUES (GONZALES),,,,
+BO0624_83899,696556,6,4,Portrait d'Homme. 1641,38,82.1,False,positional,COQUES (GONZALES),,,,Sec. XVII
 BO0624_83899,696557,7,5,Portrait d'un Gentilhomme de la Famille de Spinola.,47,98.0,False,positional,DYCK(ANTHONIE VAN),,,,
 BO0624_83899,696558,8,I,"l est represente en pied,de trois quarts a droite,la jambe gauche portee du cote droit,la pointe en dehors. Son visage aimable s'eclaire vivement; le front est decouvert; les cheveux noirs sont coupes pointes relevees, la levre inferieure est accentuee d'une mouche. Le cou est enserre dans une haute fraise grise a tuyautes rigides et a bordure de guipure, ainsi que la ruche qui entoure les poignels. Le personnage est vetu d'un pourpoint de velours noir et d'un haut-de-chausses a taillades et creves blanes. brode d'or, ct a manches. Sur la poitrine, il a une chaine d'or qui passe sous la fraise. Sur l'epaule gauche,un manteau noir dont la doublure est faite d'une soie blanche a broderies d'or. l s'appuie de la main gauche,le bras ploye,au pommeau de son epee,et dela main droite,le bras pendant naturellement, il tient son chapeau noir a aigrette de plumes,orne d'un affquet d'or enrichi de pierreries. ll est chausse de souliers noirs a nouds de ruban et de chausses de soie blanche. Sa figure elegante, svelte, d'une distinction de race, se dessine sur une architecture a colonnes; a gauche, une draperie rouge est relevee.",49,100.0,False,positional,DYCK(ANTHONIE VAN),,,,
-BO0624_83899,696559,9,1599,1641,54,61.5,False,positional,DYCK (ANTHONIE VAN),,,,
+BO0624_83899,696559,9,1599,1641,54,61.5,False,positional,DYCK (ANTHONIE VAN),,,,Sec. XVII
 BO0624_83899,696560,10,6,一 Portrait de la Comtesse de Devon.,56,97.1,False,positional,DYCK (ANTHONIE VAN),,,,
-BO0624_83899,696561,11,1599,1641,65,61.5,False,positional,DYCK (ANTHONIE VAN),,,,
-BO0624_83899,696562,12,1599,1641,74,61.5,False,positional,DYCK (ANTHONIE VAN),,,,
-BO0624_83899,696563,13,8,La Vierge et I'Enfant. 1641,76,85.7,False,positional,DYCK (ANTHONIE VAN),,,,
+BO0624_83899,696561,11,1599,1641,65,61.5,False,positional,DYCK (ANTHONIE VAN),,,,Sec. XVII
+BO0624_83899,696562,12,1599,1641,74,61.5,False,positional,DYCK (ANTHONIE VAN),,,,Sec. XVII
+BO0624_83899,696563,13,8,La Vierge et I'Enfant. 1641,76,85.7,False,positional,DYCK (ANTHONIE VAN),,,,Sec. XVII
 BO0624_83899,696564,14,9,一 Portrait d'un Abbe.,89,95.2,False,positional,DYCK (ANTHONIE VAN),,,,
 BO0624_83899,696565,15,I,"l est assis,de trois quarts a droite,sur un fauteuil de velours rouge a clous de cuivre;il porte une robe de laine blanche et un camail noir. ll est coiffe de la barrette, sur ses cheveux gris. Son visage exprime une volonte bienveillante. Son regard est aigu, son nez puissant, sa bouche presque souriante, son menton marque d'une profonde fossette. Sur la poitrine,une croix d'or est suspendue par un cordonnet. ll soutient du geste de la main gauche appuyee a laccoudoir du fauteuil, lindex allonge,ce qu'il est en train de dire. ll tient naturellement sur la cuisse droite, de la main droite, son livre de prieres entre les feuillets duquel son index est insere. A lannulaire droit il a un anneau d'or a chaton de pierrerie. Sur le siege du fauteuil le passage du rouge au blanc est menage par un coussin noir. La figure se detache sur un fond de rideau jaune a ramages, qui se releve et decouvre un portique decore d'une statue de la Vierge et de I'Enfant Jesus et de l'autre cote duquel on apercoit une abbaye; a gauche, sur un pilastre, sont representees ses armoiries de prelat abbe.",91,100.0,False,positional,DYCK (ANTHONIE VAN),,SCOMPARTI,,
-BO0624_83899,696566,16,1599,1641,98,61.5,False,positional,DYCK (ANTHONIE VAN),,,,
+BO0624_83899,696566,16,1599,1641,98,61.5,False,positional,DYCK (ANTHONIE VAN),,,,Sec. XVII
 BO0624_83899,696567,17,10,La Femme au Collier de Perles.,100,95.1,False,positional,DYCK (ANTHONIE VAN),,,,
 BO0624_83899,696568,18,11,— Tete de l'Apotre Saint Pierre.,112,95.1,False,positional,DYCK (ANTHONIE VAN),,,,
 BO0624_83899,696569,19,12,"Portrait d'un Magistrat. l est debout,en pied,de trois quarts a gauche,la jambe droite legerement portee en avant;il est vetu d'une robe noire, d'une fraise a tuyautes rigides, et coiffe d'une barrette noire a pompon; de la main gauche il tient ses gants, et fait du bras droit un geste en avant, l'index allonge. Sa silhouette se dessine sur une colonne que I'on apercoit entre un fond de paysage et une draperie relevee.",127,97.1,False,positional,DYCK (ANTHONIE VAN),,STAMPE E INCISIONI,,
 BO0624_83899,696570,20,13,Melon d'Eau et Olivette.,134,93.9,False,positional,,ECOLE FLAMANDE,,,
 BO0624_83899,696571,21,14,Tete d'Homme.,140,88.9,False,positional,,ECOLE FLAMANDE,,,
-BO0624_83899,696572,22,15,Portrait d'un Prince d'Orange. 1661,148,87.9,False,positional,,ECOLE FLAMANDE,,,
+BO0624_83899,696572,22,15,Portrait d'un Prince d'Orange. 1661,148,87.9,False,positional,,ECOLE FLAMANDE,,,Sec. XVII
 BO0624_83899,696573,23,16,La Chasse.,156,85.7,False,positional,FYT (JAN),,,,
-BO0624_83899,696574,24,17,Le Grand-Duc. 1661,161,75.0,False,positional,FYT (JAN),,,,
+BO0624_83899,696574,24,17,Le Grand-Duc. 1661,161,75.0,False,positional,FYT (JAN),,,,Sec. XVII
 BO0624_83899,696575,25,18,Le Paon.,170,82.4,False,positional,FYT(JAN),,,,
-BO0624_83899,696576,26,1611,1661,178,61.5,False,positional,FYT(JAN),,,,
-BO0624_83899,696577,27,1611,1661,181,61.5,False,positional,FYT (JAN),,,,
+BO0624_83899,696576,26,1611,1661,178,61.5,False,positional,FYT(JAN),,,,Sec. XVII
+BO0624_83899,696577,27,1611,1661,181,61.5,False,positional,FYT (JAN),,,,Sec. XVII
 BO0624_83899,696578,28,19,Chiens de Chasse gardant le Butin.,183,95.7,False,positional,FYT (JAN),,,,
 BO0624_83899,696579,29,20,Chien gardant le Gibier.,187,93.9,False,positional,FYT (JAN),,,,
-BO0624_83899,696580,30,1611,1661,200,61.5,False,positional,FYT (JAN),,,,
+BO0624_83899,696580,30,1611,1661,200,61.5,False,positional,FYT (JAN),,,,Sec. XVII
 BO0624_83899,696581,31,2,l.-Gibiers au Coin d'un Bois.,202,98.2,False,positional,FYT (JAN),,OGGETTI IN LEGNO,,
-BO0624_83899,696582,32,22,Le Chien danois. 1661,206,78.9,False,positional,FYT (JAN),,,,
+BO0624_83899,696582,32,22,Le Chien danois. 1661,206,78.9,False,positional,FYT (JAN),,,,Sec. XVII
 BO0624_83899,696583,33,23,Chien flairant du Gibier.,219,94.1,False,positional,FYT (JAN),,,,
-BO0624_83899,696584,34,24,Perdrix et Geai. 1616,223,78.9,False,positional,FYT (JAN),,,,
+BO0624_83899,696584,34,24,Perdrix et Geai. 1616,223,78.9,False,positional,FYT (JAN),,,,Sec. XVII
 BO0624_83899,696585,35,25,Portrait d'Homme.,235,91.4,False,positional,GELDORP (GORTZIUS),,,,
 BO0624_83899,696586,36,26,Le Roi boit.,248,88.0,False,positional,GELDORP (GORTZIUS),,,,
 BO0624_83899,696587,37,27,Au Preche.,256,85.7,False,positional,GELDORP (GORTZIUS),,,,
 BO0624_83899,696588,38,28,Les deux Soeurs.,260,90.9,False,positional,GELDORP (GORTZIUS),,,,
-BO0624_83899,696589,39,1593,1678,266,61.5,False,positional,JORDAENS (JACOB),,,,
-BO0624_83899,696590,40,1614,1670,269,61.5,False,positional,LOO (JACOB VAN),,,,
-BO0624_83899,696591,41,29,Portrait d'une Dame flamande. 1767,271,87.5,False,positional,LOO (JACOB VAN),Scuola Fiamminga,,,
+BO0624_83899,696589,39,1593,1678,266,61.5,False,positional,JORDAENS (JACOB),,,,Sec. XVII
+BO0624_83899,696590,40,1614,1670,269,61.5,False,positional,LOO (JACOB VAN),,,,Sec. XVII
+BO0624_83899,696591,41,29,Portrait d'une Dame flamande. 1767,271,87.5,False,positional,LOO (JACOB VAN),Scuola Fiamminga,,,Sec. XVIII
 BO0624_83899,696592,42,30,- Retour du Vainqueur au Camp.,289,94.7,False,positional,PLATZER (JOHANN VICTOR),,,,
-BO0624_83899,696593,43,31,Le Triomphe. 1640,297,73.3,False,positional,PLATZER (JOHANN VICTOR),,,,
+BO0624_83899,696593,43,31,Le Triomphe. 1640,297,73.3,False,positional,PLATZER (JOHANN VICTOR),,,,Sec. XVII
 BO0624_83899,696594,44,32,Venus et lAmour.,304,90.9,False,positional,RUBENS (PETRUS PAULUS),,,,
 BO0624_83899,696595,45,34,"Judas. l est vu jusqu'a mi-corps, la tete tournee de profil a gauche. Il est vetu d'une robe rouge et drape de noir. Sa main droite se croise sur la main gauche qui semble vouloir derober aux regards un objet qu'il tient,la bourse aux trente deniers, sans doute.",311,98.6,False,positional,RUBENS (PETRUS PAULUS),,,,
 BO0624_83899,696596,46,35,Saint Paul.,315,87.0,False,positional,RUBENS (PETRUS PAULUS),,,,
 BO0624_83899,696597,47,36,Portrait d'Homme.,323,91.4,False,positional,RUBENS (PETRUS PAULUS),,,,
 BO0624_83899,696598,48,I,"l est represente a mi-corps,de trois quarts a gauche,le teint anime, les cheveux naturellement en desordre,les moustaches en pointes tombantes, la barbiche courte. Ses yeux sont clairs, sa bouche est sensuelle, son nez puissant. Dans l'ecartement du col blanc rabattu sur le pourpoint noir, son cou robuste laisse apparaitre la saillie prononcee du corps thyroide. Sur son pourpoint, il porte un manteau noir drape;la tete se detache sur un fond brun.",325,99.9,False,positional,RUBENS (PETRUS PAULUS),,,,
-BO0624_83899,696599,49,1577,1640,333,61.5,False,positional,RUBENS (PETRUS PAULUS),,,,
+BO0624_83899,696599,49,1577,1640,333,61.5,False,positional,RUBENS (PETRUS PAULUS),,,,Sec. XVII
 BO0624_83899,696600,50,33,Saint Thomas.,335,88.9,False,positional,RUBENS (PETRUS PAULUS),,,,
 BO0624_83899,696601,51,I,"l tient de la main droite, le bras plie et releve,une hallebarde dont la hampe doit poser a terre.",337,99.5,False,positional,RUBENS (PETRUS PAULUS),,,,
-BO0624_83899,696602,52,1577,1640,344,61.5,False,positional,RUBENS(PETRUSPAULUS),,,,
-BO0624_83899,696603,53,37,Portrait d'Homme. 1640,346,80.0,False,positional,RUBENS(PETRUSPAULUS),,,,
-BO0624_83899,696604,54,38,- Enfant Jesus. 1640,359,75.0,False,positional,RUBENS (PETRUS PAULUS),,,,
-BO0624_83899,696605,55,39,- Le Consul Decius Mus racontant son Reve a ses Officiers. 1640,368,93.2,False,positional,RUBENS (PETRUS PAULUS),,,,
+BO0624_83899,696602,52,1577,1640,344,61.5,False,positional,RUBENS(PETRUSPAULUS),,,,Sec. XVII
+BO0624_83899,696603,53,37,Portrait d'Homme. 1640,346,80.0,False,positional,RUBENS(PETRUSPAULUS),,,,Sec. XVII
+BO0624_83899,696604,54,38,- Enfant Jesus. 1640,359,75.0,False,positional,RUBENS (PETRUS PAULUS),,,,Sec. XVII
+BO0624_83899,696605,55,39,- Le Consul Decius Mus racontant son Reve a ses Officiers. 1640,368,93.2,False,positional,RUBENS (PETRUS PAULUS),,,,Sec. XVII
 BO0624_83899,696606,56,40,Combat de Taureaux. (Esquisse.),379,94.7,False,positional,RUBENS (PETRUS PAULUS),,,,
 BO0624_83899,696607,57,41,Dieu apparaissant a Moise.(Esquisse.),387,95.8,False,positional,RUBENS (PETRUS PAULUS),,,,
-BO0624_83899,696608,58,42,Hercule écrasant I'Envie.(Esquisse.) 1640,393,89.2,False,positional,RUBENS (PETRUS PAULUS),,,,
+BO0624_83899,696608,58,42,Hercule écrasant I'Envie.(Esquisse.) 1640,393,89.2,False,positional,RUBENS (PETRUS PAULUS),,,,Sec. XVII
 BO0624_83899,696609,59,43,Portrait de Juste Lipse.,408,93.9,False,positional,RUBENS (PETRUS PAULUS),,,,
 BO0624_83899,696610,60,44,Saint Christophe de Lycie.,416,94.3,False,positional,RUBENS (PETRUS PAULUS),,,,
 BO0624_83899,696611,61,45,Hector tue par Achille. ?,422,93.6,False,positional,RUBENS (PETRUS PAULUS),,,,
-BO0624_83899,696612,62,46,Au Bord du Gue. 1718,437,77.8,False,positional,SIBERECHTS (JAN),,,,
+BO0624_83899,696612,62,46,Au Bord du Gue. 1718,437,77.8,False,positional,SIBERECHTS (JAN),,,,Sec. XVIII
 BO0624_83899,696613,63,47,La Coupe de Figues.,449,92.3,False,positional,SON JAN FRANS VAN),,,,
 BO0624_83899,696614,64,48,一,458,40.0,False,positional,SON JAN FRANS VAN),,,,
 BO0624_83899,696615,65,I,nterieur de Boucherie.,462,97.7,False,positional,TENIERS(DAVID),,,,
-BO0624_83899,696616,66,1610,1690,471,61.5,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696617,67,49,La Tentation de Saint Antoine. 1690,473,87.9,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696618,68,50,Les Chemineaux. 1690,486,77.8,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696619,69,51,Le Marchand de Cochons. 1690,497,84.6,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696620,70,52,Au Bas de la Cote. 1690,510,81.0,False,positional,TENIERS (DAVID),,,,
+BO0624_83899,696616,66,1610,1690,471,61.5,False,positional,TENIERS (DAVID),,,,Sec. XVII
+BO0624_83899,696617,67,49,La Tentation de Saint Antoine. 1690,473,87.9,False,positional,TENIERS (DAVID),,,,Sec. XVII
+BO0624_83899,696618,68,50,Les Chemineaux. 1690,486,77.8,False,positional,TENIERS (DAVID),,,,Sec. XVII
+BO0624_83899,696619,69,51,Le Marchand de Cochons. 1690,497,84.6,False,positional,TENIERS (DAVID),,,,Sec. XVII
+BO0624_83899,696620,70,52,Au Bas de la Cote. 1690,510,81.0,False,positional,TENIERS (DAVID),,,,Sec. XVII
 BO0624_83899,696621,71,53,Le Sabbat aux Enfers.,521,93.0,False,positional,TENIERS (DAVID),,,,
 BO0624_83899,696622,72,54,Paturages auPied de la Montagne.,528,95.4,False,positional,TENIERS(DAVID),,,,
 BO0624_83899,696623,73,55,U,535,40.0,False,title_direct,AQUILI(ANTONIO),CLOUET (Ecole de),OGGETTI IN METALLO,,
-BO0624_83899,696624,74,1610,1690,539,61.5,False,positional,TENIERS(DAVID),,,,
-BO0624_83899,696625,75,1610,1690,550,61.5,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696626,76,56,L'Alchimiste. 1690,552,75.0,False,positional,TENIERS (DAVID),,,,
+BO0624_83899,696624,74,1610,1690,539,61.5,False,positional,TENIERS(DAVID),,,,Sec. XVII
+BO0624_83899,696625,75,1610,1690,550,61.5,False,positional,TENIERS (DAVID),,,,Sec. XVII
+BO0624_83899,696626,76,56,L'Alchimiste. 1690,552,75.0,False,positional,TENIERS (DAVID),,,,Sec. XVII
 BO0624_83899,696627,77,57,L'Enfant prodigue.,563,91.9,False,positional,TENIERS(DAVID),,,,
-BO0624_83899,696628,78,58,Le Concert improvise. 1690,569,83.3,False,positional,TENIERS(DAVID),,,,
+BO0624_83899,696628,78,58,Le Concert improvise. 1690,569,83.3,False,positional,TENIERS(DAVID),,,,Sec. XVII
 BO0624_83899,696629,79,59,L'Arc-en-Ciel.,578,89.7,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696630,80,60,Troupeaux paissant devant la Ferme. 1690,588,89.5,False,positional,TENIERS (DAVID),,,,
+BO0624_83899,696630,80,60,Troupeaux paissant devant la Ferme. 1690,588,89.5,False,positional,TENIERS (DAVID),,,,Sec. XVII
 BO0624_83899,696631,81,61,L'Homme a la Brouette.,607,93.3,False,positional,TENIERS (DAVID),,,,
 BO0624_83899,696632,82,62,Le Passage difficile.,613,93.0,False,positional,TENIERS (DAVID),,,,
 BO0624_83899,696633,83,63,Paysans arretes a lEntree d'une Grotte.,621,96.2,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696634,84,64,Le Chateau. 1690,631,71.4,False,positional,TENIERS (DAVID),,,,
+BO0624_83899,696634,84,64,Le Chateau. 1690,631,71.4,False,positional,TENIERS (DAVID),,,,Sec. XVII
 BO0624_83899,696635,85,65,Le Jardinier.— -Le Printemps.,648,94.3,False,positional,TENIERS (DAVID),,,,
 BO0624_83899,696636,86,66,Les Glaneurs.— L'Eté.,654,92.3,False,positional,TENIERS (DAVID),,,,
 BO0624_83899,696637,87,67,L'Echanson.— L'Automne.,662,93.0,False,positional,TENIERS (DAVID),,,,
 BO0624_83899,696638,88,68,Le Vieux a lEcuelle vide.L'Hiver.,670,95.5,False,positional,TENIERS (DAVID),,,,
 BO0624_83899,696639,89,I,"l est debout dans un paysage neigeux traverse par un canal glace ou s'exercent des patineurs. Appuye sur son baton, dans son manteau sombre a col de fourrure, et la tete engoncee sous son bonnet rose garni de fourrure egalement, il personnifie, avec sa barbe blanche, le bonhomme  Iliver .",672,99.8,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696640,90,1610,1690,685,61.5,False,positional,TENIERS (DAVID),,,,
+BO0624_83899,696640,90,1610,1690,685,61.5,False,positional,TENIERS (DAVID),,,,Sec. XVII
 BO0624_83899,696641,91,69,Le Joueur de Luth.,687,91.9,False,positional,TENIERS (DAVID),,,,
 BO0624_83899,696642,92,70,La Chanson.,691,87.0,False,positional,TENIERS (DAVID),,,,
 BO0624_83899,696643,93,71,La Vieille Femme a I'Eillet.,699,94.7,False,positional,TENIERS (DAVID),,,,
 BO0624_83899,696644,94,72,Le Chateau Fort.,705,90.9,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696645,95,73,Idylle. 1690,718,60.0,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696646,96,74,Le Joueur de Cornemuse. 1690,730,84.6,False,positional,TENIERS (DAVID),,,,
+BO0624_83899,696645,95,73,Idylle. 1690,718,60.0,False,positional,TENIERS (DAVID),,,,Sec. XVII
+BO0624_83899,696646,96,74,Le Joueur de Cornemuse. 1690,730,84.6,False,positional,TENIERS (DAVID),,,,Sec. XVII
 BO0624_83899,696647,97,75,Les Joueurs de Boule.,749,93.0,False,positional,TENIERS (DAVID),,,,
-BO0624_83899,696648,98,76,Le petit Pont. 1651,755,76.5,False,positional,TENIERS (DAVID),,,,
+BO0624_83899,696648,98,76,Le petit Pont. 1651,755,76.5,False,positional,TENIERS (DAVID),,,,Sec. XVII
 BO0624_83899,696649,99,77,"Portrait d'un Prince. l est vu en buste, de trois quarts a droite, en pourpoint de velours noir a passementeries de meme couleur et manteau noir ouvert, decouvrant une chaine d'or qui pend devant la poitrine. Sa tete a la barbe rare,a la chair molle et rose, aux cheveux chatain clair,porte sur une haute fraise a tuyautes rigides garnie d'une etroite dentelle.",770,97.1,False,positional,VOS (CORNELIS DE),,,,
 BO0624_83899,696650,100,78,Portrait d'un Sculpteur.,776,93.9,False,positional,VOS (CORNELIS DE),,,,
 BO0624_83899,696651,101,I,"l est assis de trois quarts a droite, sur un fauteuil garni de velours rouge. Sa tete a de la noblesse et de la distinction. Son teint est anime, ses traits sont marques,c'est un homme aux limites de la blonde etrare.",778,99.8,False,positional,VOS (CORNELIS DE),,SCOMPARTI,,
 BO0624_83899,696652,102,I,"l a le cou enserre dans une fraise blanche a tuyautes rigides. ll est vetu d'un pourpoint de velours noir a basque, a la taille duquel sindique le ceinturon a boucle d'argent bruni :il porte un ample manteau noir. Les manches ont des rebras blancs. Les mains posent naturellement sur les genoux. Sa main droite tient les gants.",780,99.8,False,positional,VOS (CORNELIS DE),,STAMPE E INCISIONI,,
-BO0624_83899,696653,103,1590,1678,793,61.5,False,positional,VOS(PAUL DE),,,,
+BO0624_83899,696653,103,1590,1678,793,61.5,False,positional,VOS(PAUL DE),,,,Sec. XVII
 BO0624_83899,696654,104,79,Buses attaquant des Poules.,795,94.5,False,positional,VOS(PAUL DE),,,,
 BO0624_83899,696655,105,80,A loffice.,801,85.7,False,positional,VOS(PAUL DE),,,,
 BO0624_83899,696656,106,I,TALIENNE ET ESPAGNOLE,812,97.7,False,positional,VOS(PAUL DE),,,,
-BO0624_83899,696657,107,1578,1660,819,61.5,False,positional,ALBANI (FRANCESCO),,,,
-BO0624_83899,696658,108,81,Le Char d'Amphitrite. 1607,821,83.3,False,positional,ALBANI (FRANCESCO),,,,
+BO0624_83899,696657,107,1578,1660,819,61.5,False,positional,ALBANI (FRANCESCO),,,,Sec. XVII
+BO0624_83899,696658,108,81,Le Char d'Amphitrite. 1607,821,83.3,False,positional,ALBANI (FRANCESCO),,,,Sec. XVII
 BO0624_83899,696659,109,82,Portrait de jeune femme.,831,93.9,False,positional,ALLORI(ALESSANDRO),,,,
-BO0624_83899,696660,110,83,- La Vierge et l'Enfant Jesus. 1499,842,87.1,False,positional,AQUILI(ANTONIO),,,,
-BO0624_83899,696661,111,84,La Vierge et l'Enfant Jesus. 1517,855,87.1,False,positional,BALDOVINETTI (ALESSIO),,,,
+BO0624_83899,696660,110,83,- La Vierge et l'Enfant Jesus. 1499,842,87.1,False,positional,AQUILI(ANTONIO),,,,Sec. XV
+BO0624_83899,696661,111,84,La Vierge et l'Enfant Jesus. 1517,855,87.1,False,positional,BALDOVINETTI (ALESSIO),,,,Sec. XVI
 BO0624_83899,696662,112,85,"La Vierge, l'Enfant Jesus et Saint Jean.",865,96.2,False,positional,BARTOLOMEO (FRA),,,,
 BO0624_83899,696663,113,86,Le Poete.,872,84.2,False,positional,BARTOLOMEO (FRA),,,,
-BO0624_83899,696664,114,87,La Vierge et l'Enfant Jesus. 1554,889,87.1,False,positional,BASAITI(MARCO),,,,
-BO0624_83899,696665,115,88,"- La Vierge, I'Enfant Jesus et Saint Jean. 1516",901,90.5,False,positional,BAZZI (GIOVANNI ANTONIO),,,,
-BO0624_83899,696666,116,89,Sainte Famille. 1498,914,77.8,False,positional,BELLINI (GIOVANNI),,,,
-BO0624_83899,696667,117,90,La Vierge et l'Enfant Jesus. 1515,929,87.1,False,positional,BENOZZO GOZZOLI DI LESE DI SANDRO,,,,
+BO0624_83899,696664,114,87,La Vierge et l'Enfant Jesus. 1554,889,87.1,False,positional,BASAITI(MARCO),,,,Sec. XVI
+BO0624_83899,696665,115,88,"- La Vierge, I'Enfant Jesus et Saint Jean. 1516",901,90.5,False,positional,BAZZI (GIOVANNI ANTONIO),,,,Sec. XVI
+BO0624_83899,696666,116,89,Sainte Famille. 1498,914,77.8,False,positional,BELLINI (GIOVANNI),,,,Sec. XV
+BO0624_83899,696667,117,90,La Vierge et l'Enfant Jesus. 1515,929,87.1,False,positional,BENOZZO GOZZOLI DI LESE DI SANDRO,,,,Sec. XVI
 BO0624_83899,696668,118,91,Sainte Famille.,939,90.3,False,positional,BETTI (BERNARDINO),,,,
 BO0624_83899,696669,119,92,"## BIGIO(FRANCESCO),DITFRANCIABIGIO",948,100.0,False,title_direct,BIGIO(FRANCESCO),,,,
-BO0624_83899,696670,120,1485,1525,950,61.5,False,positional,BIGIO(FRANCESCO),,,,
+BO0624_83899,696670,120,1485,1525,950,61.5,False,positional,BIGIO(FRANCESCO),,,,Sec. XVI
 BO0624_83899,696671,121,I,"l est represente de trois quarts a droite en buste,le visage jeune avec des yeux bleus, coiffe d’un large bonnet noir sur ses cheveux roux qui tombent en tresses ondulees jusqu'au cou. ll est drape dans une cape gris-bleu qui laisse apparaitre au cou un peu de la chemise au poignet fronce et brode.",954,99.8,False,positional,BIGIO(FRANCESCO),,,,
-BO0624_83899,696672,122,1487,1555,960,61.5,False,positional,BONIFACIO VENEZIANO,,,,
-BO0624_83899,696673,123,93,Sainte Famille. 1555,962,77.8,False,positional,BONIFACIO VENEZIANO,,,,
-BO0624_83899,696674,124,94,"Jesus,la Vierge et sainte Lucie. 1519",973,88.6,False,positional,BONIFACIO VENEZIANO,,,,
+BO0624_83899,696672,122,1487,1555,960,61.5,False,positional,BONIFACIO VENEZIANO,,,,Sec. XVI
+BO0624_83899,696673,123,93,Sainte Famille. 1555,962,77.8,False,positional,BONIFACIO VENEZIANO,,,,Sec. XVI
+BO0624_83899,696674,124,94,"Jesus,la Vierge et sainte Lucie. 1519",973,88.6,False,positional,BONIFACIO VENEZIANO,,,,Sec. XVI
 BO0624_83899,696675,125,95,Jesus devant les Docteurs.,990,94.3,False,positional,BONSIGNORI (FRANCESCO),,,,
 BO0624_83899,696676,126,I,"l est represente,la poitrine emergeant d'une chaire de pierre, de trois quarts a gauche,en robe front,et pendant en tresses ondulees le long des tempes.Le visage est aimable et intelligent, avec des yeux vifs,une bouche petite,et des joues roses.",992,99.8,False,positional,BONSIGNORI (FRANCESCO),,POLTRONE,,
-BO0624_83899,696677,127,1500,1571,1005,61.5,False,positional,BORDONE (PARIS),,,,
+BO0624_83899,696677,127,1500,1571,1005,61.5,False,positional,BORDONE (PARIS),,,,Sec. XVI
 BO0624_83899,696678,128,96,Portrait de Femme.,1007,91.9,False,positional,BORDONE (PARIS),,,,
 BO0624_83899,696679,129,97,Portrait de Femme.,1016,91.9,False,positional,"BRONZINO (ANGELO DI COSIMO,DIT IL)",,,,
 BO0624_83899,696680,130,98,"Portrait de Jean de Medicis. l est represente a micorps,la tete tournee de trois quarts a gauche,la barbe courte,les cheveux chatain roux, le teint chaud, les regards severes.ll est revetu dune armure garnie de peluche grenat et s'appuie de la main droite sur son casque pose sur une table, devant lui Au fond a droite,on apercoit la silhouette d'une ville sous un ciel gris.A gauche,la figure se detache sur une draperie noire.",1035,96.7,False,positional,"BRONZINO (ANGELO DI COSIMO,DIT IL)",,,,
 BO0624_83899,696681,131,99,Portrait de Cosme Ie,1039,93.0,False,positional,"BRONZINO (ANGELO DI COSIMO,DIT IL)",,,,
 BO0624_83899,696682,132,I,"l est vu de trois quarts a gauche, le corps de trois quarts a droite.Le visage severe, l'eil grave.Il porte des cheveux courts et une barbe chatain arrondie. ll apparait jusqu'a mi-corps. 1l est vetu d'un pourpoint fonce a broderies d'or et d'un manteau garni de fourrure. De ses deux mains, il tient un foulard blanc a dessins noirs.Un col de guipure est rabattu sur le pourpoint. Devant la poitrine,l'insigne de la toison dor suspendu parun cordon de soie verte.A lindex de la main droite,une bague d'or a chaton de pierreries.",1041,99.9,False,positional,"BRONZINO (ANGELO DI COSIMO,DIT IL)",,,,
-BO0624_83899,696683,133,1502,1572,1046,61.5,False,positional,"BRONZINO (ANGELO DI COSIMO, DIT IL)",,,,
+BO0624_83899,696683,133,1502,1572,1046,61.5,False,positional,"BRONZINO (ANGELO DI COSIMO, DIT IL)",,,,Sec. XVI
 BO0624_83899,696684,134,100,Portrait de Femme.,1048,89.5,False,positional,"BRONZINO (ANGELO DI COSIMO, DIT IL)",,,,
 BO0624_83899,696685,135,10,l.-Portrait presume de Cosme de Medicis.,1067,97.4,False,positional,"BRONZINO (ANGELO DI COSIMO, DIT IL)",,,,
 BO0624_83899,696686,136,I,"l est vu de trois quarts a gauche,jusqua micorps,le visage barbu, aux traits accentues et auteint sanguin sur un fond sombre.De la main gauche, le bras ploye,il tient un mouchoir.Un col de guipure blanche est rabattu sur son costume noir marque par le collier de la toison d'or.",1069,99.8,False,positional,"BRONZINO (ANGELO DI COSIMO, DIT IL)",,,,
-BO0624_83899,696687,137,1502,1572,1074,61.5,False,positional,"BRONZINO (ANGELO DI COSIMO,DIT IL)",,,,
-BO0624_83899,696688,138,102,Portrait de Bianca Capella. 1572,1076,85.2,False,positional,"BRONZINO (ANGELO DI COSIMO,DIT IL)",,,,
+BO0624_83899,696687,137,1502,1572,1074,61.5,False,positional,"BRONZINO (ANGELO DI COSIMO,DIT IL)",,,,Sec. XVI
+BO0624_83899,696688,138,102,Portrait de Bianca Capella. 1572,1076,85.2,False,positional,"BRONZINO (ANGELO DI COSIMO,DIT IL)",,,,Sec. XVI
 BO0624_83899,696689,139,103,Portrait d'une Princesse.,1089,92.3,False,positional,"BRONZINO (ANGELO DI COSIMO,DIT IL)",,,,
 BO0624_83899,696690,140,104,Portrait de Femme.,1099,89.5,False,positional,"BRONZINO (ANGELO DI COSIMO,DIT IL)",,,,
 BO0624_83899,696691,141,105,Portrait de Julius Cesar Mariscottus.,1110,94.7,False,positional,CALCAR (JOHANNES STEPHAN VON),,,,
 BO0624_83899,696692,142,I,"l est vetu de son costume de chevalier de Saint-Jacques, de trois quarts a gauche, debout,vu jusqu'a mi-jambes. Sa figure expressive et belle de traits, avec ses yeux bleus et sa barbe grisonnante, a le teint mat. Sur l'oreille droite son bonnet de velours est penche; son costume se compose d'un pourpoint a basques gris fonce a baguettes de velours noir et a manches de satin marron plisse, d'un manteau brun a bandes de velours, aux manches fendues depuis Iepaule. Il porte un ccinturon noir pendue par un cordon noir; sur le cote gauche est cousue en rouge l'insigne de son ordre; au bord de ses manches ainsi qu'autour du cou il a une ruche blanche de dentelle; sa main droite disparait sous la basque de son pourpoint; sa main gauche, le bras presque allonge, s'appuie a la poignee de lepee.",1112,99.9,False,positional,CALCAR (JOHANNES STEPHAN VON),,,,
 BO0624_83899,696693,143,I,VLIVS CESAR,1116,95.7,False,positional,CALCAR (JOHANNES STEPHAN VON),,,,
-BO0624_83899,696694,144,106,",- Le Combat des Horaces et des Curiaces. ou1502-1572",1127,82.2,False,positional,CAMPAGNOLA (DOMENICO),,,,
+BO0624_83899,696694,144,106,",- Le Combat des Horaces et des Curiaces. ou1502-1572",1127,82.2,False,positional,CAMPAGNOLA (DOMENICO),,,,Sec. XVI
 BO0624_83899,696695,145,107,L'Homme au Faucon.,1141,89.5,False,positional,CAMPI (GIULIO),,,,
 BO0624_83899,696696,146,I,"l est assis de face, les mains croisees devant lui et portant un faucon. ll est vetu d'un vetement sombre d'ou debordent des manches etroites blanches.ll porte sur sa tete,au systeme pileux abondant, un large chapeau noir.",1143,99.8,False,positional,CAMPI (GIULIO),,,,
-BO0624_83899,696697,147,1697,1768,1151,61.5,False,positional,CANALE (ANTONIO),,,,
-BO0624_83899,696698,148,108,La Passerelle au Seuil du Chateau. 1768,1153,88.0,False,positional,CANALE (ANTONIO),,,,
+BO0624_83899,696697,147,1697,1768,1151,61.5,False,positional,CANALE (ANTONIO),,,,Sec. XVIII
+BO0624_83899,696698,148,108,La Passerelle au Seuil du Chateau. 1768,1153,88.0,False,positional,CANALE (ANTONIO),,,,Sec. XVIII
 BO0624_83899,696699,149,109,Le Pont du Rialto.,1164,89.5,False,positional,CANALE(ANTONIO),,,,
 BO0624_83899,696700,150,111,## CARRACCI (LUDOVICO),1173,100.0,False,title_direct,CARRACCI (LUDOVICO),,,,
-BO0624_83899,696701,151,1555,1619,1175,61.5,False,positional,CARRACCI (LUDOVICO),,,,
+BO0624_83899,696701,151,1555,1619,1175,61.5,False,positional,CARRACCI (LUDOVICO),,,,Sec. XVII
 BO0624_83899,696702,152,110,Portrait d'un Medecin.,1177,91.3,False,positional,CARRACCI (LUDOVICO),,,,
-BO0624_83899,696703,153,1494,1557,1191,61.5,False,positional,CARRUCCI JACOPO),,,,
+BO0624_83899,696703,153,1494,1557,1191,61.5,False,positional,CARRUCCI JACOPO),,,,Sec. XVI
 BO0624_83899,696704,154,I,"l est assis a une table couverte d'un tapis vert. ll insere le medium et I'annulaire gauche entre les feuillets d'un cahier manuscrit,et tient un calame de la main droite.",1199,99.7,False,positional,CARRUCCI JACOPO),,,,
-BO0624_83899,696705,155,1459,ou1460-1517,1206,84.6,False,positional,CIMA (GIOVANNI BATTISTA),,,,
+BO0624_83899,696705,155,1459,ou1460-1517,1206,84.6,False,positional,CIMA (GIOVANNI BATTISTA),,,,Sec. XVI
 BO0624_83899,696706,156,112,La Vierge et I'Enfant Jésus.,1208,93.1,False,positional,CIMA (GIOVANNI BATTISTA),,,,
 BO0624_83899,696707,157,114,"Portrait d'Homme. l est represente debout,presque de face,l'air tragique,avec des yeux etincelants sous ses cheveux noirs coupes court;il a la barbe noire,courte egalement et rare;il est vetu d'un pourpoint de velours noir et d'un manteau de meme couleur, dont il ramene le pan devant lui,retenu par la main gauche,le bras ploye dans le manteau;la main gauche tient les gants.ll s'appuie de la main droite sur une console de marbre qui porte son bonnet noir, et une mince colonne dominee par une sphere.Au cou et au poignet,il a une ruche blanche liseree derouge.A droite,on apercoit la poignee de lepee.Le fond est gris avec un decor de palmettes noires. A droite, en haut,il y a un paysage.",1229,98.8,False,positional,DOSSI (DOSSO),,STAMPE E INCISIONI,,
 BO0624_83899,696708,158,115,"Portrait de Philippe Stozza. l est represente debout,de trois quarts a gauche, jusqu'a mi-jambes;il a le visage barbu et la tete coiffee d'un bonnet de velours marron. ll est vetu d'un pourpoint sombre et d'une simarre a bandes d'hermine;il a le bras droit ploye,la main ramenee pres de la poitrine,et le bras gauche presque allonge, la main pendant naturellement.",1239,96.1,False,positional,,ECOLE ITALIENNE,,,
@@ -163,57 +163,57 @@ BO0624_83899,696711,161,119,Sainte Catherine d'Alexandrie.,1281,93.5,False,posit
 BO0624_83899,696712,162,120,Portrait de Femme.,1285,89.5,False,positional,,ECOLE ITALIENNE,,,
 BO0624_83899,696713,163,121,"Portrait d'un Prince Royal. l est debout,de face,en armure d'acier a decors dores,le crane denude,la barbe grisonnante sur la fraise blanche qui deborde du gorgerin.Les epaulieres sont garnies de peluche rouge, ainsi que les tassettes.A son ceinturon a pendant sont suspendues son epee et sa rapiere. Il s'appuie, de passementes, et portant son casque a cimier de plumes rouges. ll a les jambes enfermees dans des",1297,96.7,False,positional,LE PRINCE,ECOLE ITALIENNE,,,
 BO0624_83899,696714,164,122,Acteon.,1306,75.0,False,positional,,ECOLE ITALIENNE,,,
-BO0624_83899,696715,165,123,La Nymphe Eucharide. 1606,1320,80.9,False,positional,,ECOLE ITALIENNE,,,
+BO0624_83899,696715,165,123,La Nymphe Eucharide. 1606,1320,80.9,False,positional,,ECOLE ITALIENNE,,,Sec. XVII
 BO0624_83899,696716,166,124,Portrait d'un Magistrat d'ordre administratif.,1327,95.7,False,positional,FARINATO (PAOLO),,,,
 BO0624_83899,696717,167,I,"l est represente de trois quarts a droite,a micorps,levisage aux traits puissants,au teint chaud, au regard severe,dans l'encadrement des cheveux gris rejetes en arriere en coup de vent,et de la barbe grise egalement longue,et legere.",1329,99.8,False,positional,FARINATO (PAOLO),,,,
 BO0624_83899,696718,168,I,"l porte un pourpoint de velours marron, a ganses d''or en lignes brisees, masque par une chaine d'or,et un manteau brun,fourre,jete sur I'epaule gauche.",1331,99.7,False,positional,FARINATO (PAOLO),,,,
-BO0624_83899,696719,169,1528,1572,1341,61.5,False,positional,FASOLO (GIOVANNI ANTONIO),,,,
-BO0624_83899,696720,170,125,Portrait de Femme. 1510,1343,79.1,False,positional,FASOLO (GIOVANNI ANTONIO),,,,
+BO0624_83899,696719,169,1528,1572,1341,61.5,False,positional,FASOLO (GIOVANNI ANTONIO),,,,Sec. XVI
+BO0624_83899,696720,170,125,Portrait de Femme. 1510,1343,79.1,False,positional,FASOLO (GIOVANNI ANTONIO),,,,Sec. XVI
 BO0624_83899,696721,171,126,La Vierge et l'Enfant Jesus.,1354,93.1,False,positional,FILIPEPI (SANDRO DI MARIANO),,,,
-BO0624_83899,696722,172,127,Madone. 1793,1364,57.1,False,positional,FRANCESCO DA NAPOLI,,,,
-BO0624_83899,696723,173,128,La Place Saint-Marc. 1793,1381,80.9,False,positional,GUARDI (FRANCESCO),,,,
+BO0624_83899,696722,172,127,Madone. 1793,1364,57.1,False,positional,FRANCESCO DA NAPOLI,,,,Sec. XVIII
+BO0624_83899,696723,173,128,La Place Saint-Marc. 1793,1381,80.9,False,positional,GUARDI (FRANCESCO),,,,Sec. XVIII
 BO0624_83899,696724,174,129,Canal a Venise.,1390,87.5,False,positional,GUARDI (FRANCESCO),,,,
 BO0624_83899,696725,175,130,Santa Maria della Salute.,1396,92.3,False,positional,GUARDI (FRANCESCO),,,,
 BO0624_83899,696726,176,13,l.-L'Arc de Triomphe.,1400,95.0,False,positional,GUARDI (FRANCESCO),,,,
-BO0624_83899,696727,177,132,La Piazzetta. 1795,1410,72.7,False,positional,GUARDI (FRANCESCO),,,,
+BO0624_83899,696727,177,132,La Piazzetta. 1795,1410,72.7,False,positional,GUARDI (FRANCESCO),,,,Sec. XVIII
 BO0624_83899,696728,178,133,La Piazzetta et le Campanile.,1423,93.3,False,positional,GUARDI (FRANCESCO),,,,
 BO0624_83899,696729,179,134,Le Palais des Doges.,1429,90.5,False,positional,GUARDI (FRANCESCO),,,,
 BO0624_83899,696730,180,135,"Palais au Bord d'un Canal,a Venise.",1437,94.4,False,positional,GUARDI (FRANCESCO),,,,
-BO0624_83899,696731,181,136,Un Canal a Venise. 1795,1445,79.1,False,positional,GUARDI (FRANCESCO),,,,
+BO0624_83899,696731,181,136,Un Canal a Venise. 1795,1445,79.1,False,positional,GUARDI (FRANCESCO),,,,Sec. XVIII
 BO0624_83899,696732,182,137,La Place Saint-Marc.,1458,90.5,False,positional,GUARDI (FRANCESCO),,,,
 BO0624_83899,696733,183,138,Le Pont du Rialto.,1464,89.5,False,positional,GUARDI (FRANCESCO),,,,
 BO0624_83899,696734,184,139,Canal a Venise.,1472,87.5,False,positional,GUARDI (FRANCESCO),,,,
 BO0624_83899,696735,185,140,La Gondole. NGANNATI(PIETRO DEGLI),1489,77.8,False,title_direct,INGANNATI(PIETRO DEGLI),,,,
-BO0624_83899,696736,186,141,La Benediction a Sainte Catherine d'Alexandrie. 1540,1493,91.1,False,positional,INGANNATI(PIETRO DEGLI),,,,
-BO0624_83899,696737,187,142,Les Epoux. 1540,1503,66.7,False,positional,LICINIO (GIOVANNI ANTONIO),,,,
+BO0624_83899,696736,186,141,La Benediction a Sainte Catherine d'Alexandrie. 1540,1493,91.1,False,positional,INGANNATI(PIETRO DEGLI),,,,Sec. XVI
+BO0624_83899,696737,187,142,Les Epoux. 1540,1503,66.7,False,positional,LICINIO (GIOVANNI ANTONIO),,,,Sec. XVI
 BO0624_83899,696738,188,143,Portrait de Femme.,1518,89.5,False,positional,LICINIO GIOVANNI ANTONIO),,,,
 BO0624_83899,696739,189,144,La Vierge en Adoration.,1532,91.7,False,positional,LIPPI (FRA FILIPPO),,,,
 BO0624_83899,696740,190,146,Judith.,1537,75.0,False,positional,LIPPI (FRA FILIPPO),,,,
-BO0624_83899,696741,191,1480,1554,1545,61.5,False,positional,LOTTO (LORENZO),,,,
+BO0624_83899,696741,191,1480,1554,1545,61.5,False,positional,LOTTO (LORENZO),,,,Sec. XVI
 BO0624_83899,696742,192,145,Le Mariage mystique de Sainte Catherine.,1547,95.1,False,positional,LOTTO (LORENZO),,,,
-BO0624_83899,696743,193,147,Portrait de Vittoria Colonna et d'un Enfant. apres 1555,1554,85.1,False,positional,LUCIANO (SEBASTIANO),,,,
+BO0624_83899,696743,193,147,Portrait de Vittoria Colonna et d'un Enfant. apres 1555,1554,85.1,False,positional,LUCIANO (SEBASTIANO),,,,Sec. XVI
 BO0624_83899,696744,194,148,Portrait de jeune Fille.,1569,92.0,False,positional,LUINI (BERNARDINO),,,,
-BO0624_83899,696745,195,149,La Buire et le vieux Livre. 1794,1583,85.2,False,positional,MALTESE (CAVALIERE),,,,
-BO0624_83899,696746,196,150,Le Pont du Rialto. 1445,1592,79.1,False,positional,MARIESCHI JACOPO),,,,
+BO0624_83899,696745,195,149,La Buire et le vieux Livre. 1794,1583,85.2,False,positional,MALTESE (CAVALIERE),,,,Sec. XVIII
+BO0624_83899,696746,196,150,Le Pont du Rialto. 1445,1592,79.1,False,positional,MARIESCHI JACOPO),,,,Sec. XV
 BO0624_83899,696747,197,151,- Jesus et les Apotres.,1604,90.9,False,positional,MASO GUIDI DI SAN GIOVANNI,,,,
 BO0624_83899,696748,198,152,Portrait d'Homme.,1613,88.9,False,positional,MAZZOLA (FILIPPO),,,,
 BO0624_83899,696749,199,I,"l est vu jusqu'a mi-corps, de trois quarts a gauche,en pourpoint noir et chemisette blanche； sa tete aux traits accentues,et aux cheveux noirs tombant,est coiffee d'un bonnet de velours noir. Sur son pourpoint,il porte une cape noire, doublee de soie rouge.",1615,99.8,False,positional,MAZZOLA (FILIPPO),,,,
-BO0624_83899,696750,200,1520,1572,1623,61.5,False,positional,MORONI (GIOVANNI BAPTISTA),,,,
+BO0624_83899,696750,200,1520,1572,1623,61.5,False,positional,MORONI (GIOVANNI BAPTISTA),,,,Sec. XVI
 BO0624_83899,696751,201,153,Portrait d'Homme,1625,88.9,False,positional,MORONI (GIOVANNI BAPTISTA),,,,
 BO0624_83899,696752,202,I,"l est represente,debout,de trois quarts a droite,appuye du bras droit,la main pendante,sur une table couverte d'un tapis vert. Les traits reguliers ont une expression severe; il porte la barbe en carre, chatain clair,et ses cheveux bruns sont releves,frises et coupes court.",1627,99.8,False,positional,MORONI (GIOVANNI BAPTISTA),,,,
-BO0624_83899,696753,203,1520,1572,1636,61.5,False,positional,MORONI (GIOVANNI BAPTISTA),,,,
+BO0624_83899,696753,203,1520,1572,1636,61.5,False,positional,MORONI (GIOVANNI BAPTISTA),,,,Sec. XVI
 BO0624_83899,696754,204,154,"Portrait de Francois Titio,Venitien.",1638,94.6,False,positional,MORONI (GIOVANNI BAPTISTA),,,,
 BO0624_83899,696755,205,155,Portrait de Filippo Rainoldi.,1648,93.3,False,positional,MORONI (GIOVANNI BAPTISTA),,,,
 BO0624_83899,696756,206,I,"l est assis de trois quarts a gauche,vetu de noir,la main droite posee sur un livre,la main gauche pendant naturellement sur la cuisse. Il a les cheveux courts et la barbe tres fournie. Il porte un petit col rabattu et des manchettes ruchees au bord des manches.",1650,99.8,False,positional,MORONI (GIOVANNI BAPTISTA),,,,
-BO0624_83899,696757,207,1487,1564,1661,61.5,False,positional,NANNI GIOVANNI DA UDINE,,,,
+BO0624_83899,696757,207,1487,1564,1661,61.5,False,positional,NANNI GIOVANNI DA UDINE,,,,Sec. XVI
 BO0624_83899,696758,208,156,La Vierge et l'Enfant Jesus a la Grenade.,1663,95.2,False,positional,NANNI GIOVANNI DA UDINE,,,,
-BO0624_83899,696759,209,157,La Nativite. 1558,1675,71.0,False,positional,PACCHIAROTTO (JACOPO),,,,
-BO0624_83899,696760,210,158,L'Annonciation. 1558,1686,75.7,False,positional,PALMEZZANO(MARCO),,,,
-BO0624_83899,696761,211,159,Martyre de Saint Sebastien. 1558,1697,85.2,False,positional,PALMEZZANO (MARCO),,,,
+BO0624_83899,696759,209,157,La Nativite. 1558,1675,71.0,False,positional,PACCHIAROTTO (JACOPO),,,,Sec. XVI
+BO0624_83899,696760,210,158,L'Annonciation. 1558,1686,75.7,False,positional,PALMEZZANO(MARCO),,,,Sec. XVI
+BO0624_83899,696761,211,159,Martyre de Saint Sebastien. 1558,1697,85.2,False,positional,PALMEZZANO (MARCO),,,,Sec. XVI
 BO0624_83899,696762,212,160,Le Sommeil de Jesus.,1712,90.5,False,positional,PALMEZZANO (MARCO),,,,
 BO0624_83899,696763,213,16,l.-La Femme au Collier de Pierres.,1725,97.0,False,positional,PEDRINI (GIOVANNI),,,,
-BO0624_83899,696764,214,162,-Le Martyre de Sainte Bosone. 1556,1737,85.7,False,positional,PISANO (VITTORIO),,,,
-BO0624_83899,696765,215,163,La Vierge jouant avec IEnfant Jesus. 1592,1748,88.6,False,positional,PIPPI (GIULO),,,,
+BO0624_83899,696764,214,162,-Le Martyre de Sainte Bosone. 1556,1737,85.7,False,positional,PISANO (VITTORIO),,,,Sec. XVI
+BO0624_83899,696765,215,163,La Vierge jouant avec IEnfant Jesus. 1592,1748,88.6,False,positional,PIPPI (GIULO),,,,Sec. XVI
 BO0624_83899,696766,216,164,"Il est represente debout, a mi-jambes,de trois quarts a gauche. Son regard est intelligent et doux, son visage maigre aux pommettes saillantes, son nez mouvemente et volontaire, avec une barbe et des moustaches blondes,et ses cheveux chatain,en desordre et frises.",1763,100.0,False,positional,PONTE JACOPO DA),,,,
 BO0624_83899,696767,217,I,"l est vetu d'un pourpoint noir,avec col de batiste rabattu, et d'un manteau fourre,de velours brun avec un large revers et des manches larges. ll a passe la main droite dans louverture du manteau, au bord duquel il la retient,le bras presque allonge,et s'appuie de Iavant-bras gauche,sur un buste de jeune fille.",1765,99.8,False,positional,PONTE JACOPO DA),,,,
 BO0624_83899,696768,218,I,O PAVLVS CORNELIVS,1771,97.3,False,positional,PONTE JACOPO DA),,,,
@@ -221,69 +221,69 @@ BO0624_83899,696769,219,I,ERMOLAI.A.E.SVE XXXII.A.CHR.MDLXI,1773,98.5,False,posi
 BO0624_83899,696770,220,165,Portrait du noble Octave Detta Dal Toldo.,1777,95.2,False,positional,PONTE JACOPO DA),,,,
 BO0624_83899,696771,221,I,"l est represente de trois quarts a droite,jusqu'a mi-jambes,le masque energique, les yeux bruns, les cheveux et la barbe noirs. ll porte une armure dacier bruni a clous d'or,aux epaulieres garnies de peluche grenat;ilala tete portee sur une fraise atuyautes rigides. Sous tassettes de I'armure, on apercoit son haut-de-chausses rouge ainsi que les chausses de soie rouge; a son ceinturon, sont suspendues son epee a poignee d'or sur le pommeau de laquelle il pese de la main gauche et,derriere, sa rapiere.Pres de lui, sur une table couverte d'un tapis marron, il a depose ses gantelets et son casque a plume blanche,au frontal duquel il sappuie de la main droite.A gauche, une draperie rouge relevee sur un fond gris clair.",1779,99.9,False,positional,PONTE JACOPO DA),,,,
 BO0624_83899,696772,222,1580,"## PONTE (JACOPO DA),DIT JACOPO BASSANO",1786,100.0,False,title_direct,PONTE (JACOPO DA),,,,
-BO0624_83899,696773,223,1510,1592,1788,61.5,False,positional,PONTE (JACOPO DA),,,,
+BO0624_83899,696773,223,1510,1592,1788,61.5,False,positional,PONTE (JACOPO DA),,,,Sec. XVI
 BO0624_83899,696774,224,166,"Le Joueur de Luth. l est assis sur un fauteuil florentin,vu jusqu'a mi-jambes,et jouant du luth. ll a le teint vif et les traits sympathiques dans Iencadrement de ses cheveux et de sa barbe frises;il chante;il porte un vetement de soie blanche a baguettes de satin noir.",1792,96.3,False,positional,PONTE (JACOPO DA),,SCOMPARTI,,
 BO0624_83899,696775,225,167,Portrait de lArtiste.,1796,90.9,False,positional,PONTE (JACOPO DA),,,,
 BO0624_83899,696776,226,I,"l est vu de trois quarts a droite,jusqu'a mi-corps, le visage emacie,le masque osseux,le teint mat,la peau sillonnee de rides,la bouche grave,les cheveux courts et rares,leil au regard incisif. Dans Iecartement de sa simarre de satin noir,on apercoit son pourpoint de soie cramoisie.",1798,99.8,False,positional,PONTE (JACOPO DA),,,,
-BO0624_83899,696777,227,1510,1592,1805,61.5,False,positional,PONTE JACOPO DA),,,,
+BO0624_83899,696777,227,1510,1592,1805,61.5,False,positional,PONTE JACOPO DA),,,,Sec. XVI
 BO0624_83899,696778,228,168,"Portrait d'Homme. l est represente jusqu'a mi-corps,de trois quarts a droite,en pourpoint noir ferme par des boutons de metal. Sa tete,au regard severe,est coiffee d'un bonnet noir sur ses cheveux bruns. ll a autour du cou",1809,96.2,False,positional,PONTE JACOPO DA),,OGGETTI IN METALLO,,
 BO0624_83899,696779,229,169,Vierge et Enfant Jesus.,1823,91.7,False,positional,PREVITALI (ANDREA),,,,
-BO0624_83899,696780,230,170,La Vierge au Donateur. 1517,1832,82.4,False,positional,RAIBOLINI(DOMENICO),,,,
-BO0624_83899,696781,231,171,"La Vierge, lEnfant Jesus, Saint Laurent et un Pape. 1517",1845,91.4,False,positional,RAIBOLINI (FRANCESCO),,,,
+BO0624_83899,696780,230,170,La Vierge au Donateur. 1517,1832,82.4,False,positional,RAIBOLINI(DOMENICO),,,,Sec. XVI
+BO0624_83899,696781,231,171,"La Vierge, lEnfant Jesus, Saint Laurent et un Pape. 1517",1845,91.4,False,positional,RAIBOLINI (FRANCESCO),,,,Sec. XVI
 BO0624_83899,696782,232,172,Sainte Famille.,1856,87.5,False,positional,RAIBOLINI (FRANCESCO),,,,
-BO0624_83899,696783,233,173,Mariage mystique de Sainte Catherine. 1542,1876,88.9,False,positional,RAIBOLINI(GIACOMO),,,,
-BO0624_83899,696784,234,174,"La Sainte Famille avec Saint Jean lEvangeliste, Saint 1594",1885,92.0,False,positional,RAMENGHI (BARTOLOMEO),,,,
-BO0624_83899,696785,235,175,Portrait de Melchior Michael. 1594,1906,86.2,False,positional,ROBUSTIJACOPO),,,,
+BO0624_83899,696783,233,173,Mariage mystique de Sainte Catherine. 1542,1876,88.9,False,positional,RAIBOLINI(GIACOMO),,,,Sec. XVI
+BO0624_83899,696784,234,174,"La Sainte Famille avec Saint Jean lEvangeliste, Saint 1594",1885,92.0,False,positional,RAMENGHI (BARTOLOMEO),,,,Sec. XVI
+BO0624_83899,696785,235,175,Portrait de Melchior Michael. 1594,1906,86.2,False,positional,ROBUSTIJACOPO),,,,Sec. XVI
 BO0624_83899,696786,236,176,Portrait de Laurentius Superantius.,1921,94.4,False,positional,ROBUSTI JACOPO),,,,
 BO0624_83899,696787,237,I,"l est represente debout jusqu'a mijambes,le corps de trois quarts a gauche,la tete de trois quarts a droite. Son visage est beau et expressif avec ses grands yeux calmes, son nez fort, sa bouche qui apparait,les levres desserrees,dans la grande barbe chatain clair. ll a le front decouvert sous des cheveux coupes court. Et, du geste de ses deux mains portees en avant, les bras ployes,il appuie ce qu'il dit.",1923,99.9,False,positional,ROBUSTI JACOPO),,,,
 BO0624_83899,696788,238,I,"l est vetu d’une ample simarre de velours rouge frappe, garnie et doublee d’hermine. La tete se dessine sur un fond d'architecture sombre.",1925,99.6,False,positional,ROBUSTI JACOPO),,,,
-BO0624_83899,696789,239,177,Venus couchee. 1450,1937,74.3,False,positional,ROBUSTI JACOPO),,,,
-BO0624_83899,696790,240,178,Sainte Famille. 1685,1948,75.7,False,positional,RONDINELLI (NICOLO),,,,
+BO0624_83899,696789,239,177,Venus couchee. 1450,1937,74.3,False,positional,ROBUSTI JACOPO),,,,Sec. XV
+BO0624_83899,696790,240,178,Sainte Famille. 1685,1948,75.7,False,positional,RONDINELLI (NICOLO),,,,Sec. XVII
 BO0624_83899,696791,241,179,"Saint Antoine de Padoue et l'Enfant Jesus. l est vu jusqu'a mi-corps,en costume de franciscain, debout,une branche de lis dans la main gauche et porte, sur un Evangile a plat,relie en rouge,lEnfant Jesus nu,vu de face, dessinant de la",1962,90.2,False,positional,SALVI (GIOVANNI BATTISTA),,PIATTI,,
 BO0624_83899,696792,242,180,La Vierge du Duc de Lorraine.,1975,93.3,False,positional,SANTI(RAFFAELLO),,,,
-BO0624_83899,696793,243,181,La Vierge et IEnfant Jesus. 1770,1986,85.2,False,positional,SOLARIO (ANTONIO),,,,
-BO0624_83899,696794,244,182,"- Sainte Helene,imperatrice,mere de Constantin. 1795",1997,90.7,False,positional,TIEPOLO (GIOVANNI BATTISTA),,,,
+BO0624_83899,696793,243,181,La Vierge et IEnfant Jesus. 1770,1986,85.2,False,positional,SOLARIO (ANTONIO),,,,Sec. XVIII
+BO0624_83899,696794,244,182,"- Sainte Helene,imperatrice,mere de Constantin. 1795",1997,90.7,False,positional,TIEPOLO (GIOVANNI BATTISTA),,,,Sec. XVIII
 BO0624_83899,696795,245,183,"Saint Laurent. l va subir le martyre: ses pieds portent sur la roue ou l'on voulait l'attacher,et deja on prepare le gril sur lequel on va le torturer :mais il tourne ses regards leves vers le ciel ou des cherubins ailes escortent lange qui lui apporte la palme des martyrs. ll est vetu d'une dalmatique rouge sur son aube blanche.Autour de lui, au nom du peuple et du senat romains dont on porte derriere lui le drapeau rouge marque des lettres S.P.Q.R.,ses bourreaux sont affaires.",2011,98.6,False,positional,TIEPOLO (GIOVANNI DOMENICO),,,,
 BO0624_83899,696796,246,184,Saint Vincent.,2019,86.7,False,positional,TIEPOLO (GIOVANNI DOMENICO),,,,
 BO0624_83899,696797,247,185,Vierge en Priere.,2036,88.9,False,positional,VANUCCI(PIETRO),,,,
 BO0624_83899,696798,248,186,-Sainte Famille.,2051,87.5,False,positional,VANUCCI (PIETRO),,,,
-BO0624_83899,696799,249,187,La Vierge et I'Enfant Jesus. ou1477-1576,2057,77.1,False,positional,VANUCCI (PIETRO),,,,
-BO0624_83899,696800,250,188,Le Denier de Cesar. ou1477-1576,2068,69.2,False,positional,VECELLIO (TIZIANO),,,,
+BO0624_83899,696799,249,187,La Vierge et I'Enfant Jesus. ou1477-1576,2057,77.1,False,positional,VANUCCI (PIETRO),,,,Sec. XVI
+BO0624_83899,696800,250,188,Le Denier de Cesar. ou1477-1576,2068,69.2,False,positional,VECELLIO (TIZIANO),,,,Sec. XVI
 BO0624_83899,696801,251,189,Portrait d'un Seigneur venitien.,2087,93.9,False,positional,VECELLIO(TIZIANO),,,,
 BO0624_83899,696802,252,I,"l est represente debout,de trois quarts a droite,jusqu'a mi-jambes,en pourpoint de soie velours, serree par une ganse sur la tete,et marquee sur le cote droit, d'un affquet dor a chaton de pierreries.ll regarde le spectateur d'un eil spirituel et etincelant.",2091,99.8,False,positional,VECELLIO(TIZIANO),,,,
-BO0624_83899,696803,253,1476,ou1477-1576,2102,84.6,False,positional,VECELLIO(TIZIANO),,,,
+BO0624_83899,696803,253,1476,ou1477-1576,2102,84.6,False,positional,VECELLIO(TIZIANO),,,,Sec. XVI
 BO0624_83899,696804,254,190,La Sainte Famille.,2104,89.5,False,positional,VECELLIO(TIZIANO),,,,
 BO0624_83899,696805,255,19,"i.- Portrait d'une Patricienne,",2117,96.6,False,positional,VECELLIO(TIZIANO),,,,
-BO0624_83899,696806,256,192,L'Assomption de la Vierge. 1828,2130,84.7,False,positional,,ECOLE ESPAGNOLE,,,
+BO0624_83899,696806,256,192,L'Assomption de la Vierge. 1828,2130,84.7,False,positional,,ECOLE ESPAGNOLE,,,Sec. XIX
 BO0624_83899,696807,257,193,"Portrait de don Alonso Munoz. l est represente de trois quarts a gauche,a mi-corps,en redingote marron, les bras croises. Il a la tete forte,avec descheveux chatains en broussaille,le teint rose,levisage rase,des yeux spirituels,la levre inferieure avancant un peu.",2142,94.3,False,positional,GOYA Y LUCIENTES (FRANCISCO),,,,
 BO0624_83899,696808,258,194,Portrait d'Homme.,2148,88.9,False,positional,GOYA Y LUCIENTES (FRANCISCO),,,,
 BO0624_83899,696809,259,I,"l estvu la tetedeface,lecorps de troisquarts a gauche,enbuste,assisa une table et tenant dela main droite un cahier de papier.la le teint chaud, sous ses cheveux gris,courts et frises.Ses yeux sont noirs,son regard est franc, son nez fort; sa bouche,aux levres fines,doit etre facile a lironie.",2150,99.8,False,positional,GOYA Y LUCIENTES (FRANCISCO),,,,
 BO0624_83899,696810,260,I,"l est vetu d'une redingote noire a haut collet, entre les revers ecartes de laquelle on apercoit la cravate a barbes de dentelle blanche.Fond gris.",2152,99.7,False,positional,GOYA Y LUCIENTES (FRANCISCO),,,,
-BO0624_83899,696811,261,1610,1666,2159,61.5,False,positional,MOYA (PEDRO DE),,,,
-BO0624_83899,696812,262,195,Portrait d'Homme. 1682,2161,78.0,False,positional,MOYA (PEDRO DE),,,,
-BO0624_83899,696813,263,196,Magdeleine au Pied de la Croix. 1682,2172,87.0,False,positional,MURILLO (BARTOLOME ESTEBAN),,,,
+BO0624_83899,696811,261,1610,1666,2159,61.5,False,positional,MOYA (PEDRO DE),,,,Sec. XVII
+BO0624_83899,696812,262,195,Portrait d'Homme. 1682,2161,78.0,False,positional,MOYA (PEDRO DE),,,,Sec. XVII
+BO0624_83899,696813,263,196,Magdeleine au Pied de la Croix. 1682,2172,87.0,False,positional,MURILLO (BARTOLOME ESTEBAN),,,,Sec. XVII
 BO0624_83899,696814,264,197,Saint Joseph et l'Enfant Jésus.,2185,93.8,False,positional,MURILLO (BARTOLOME ESTEBAN),,,,
-BO0624_83899,696815,265,198,-Saint Jean-Baptiste et I'Agneau. avant 1609,2195,80.5,False,positional,MURILLO (BARTOLOME ESTEBAN),,,,
+BO0624_83899,696815,265,198,-Saint Jean-Baptiste et I'Agneau. avant 1609,2195,80.5,False,positional,MURILLO (BARTOLOME ESTEBAN),,,,Sec. XVII
 BO0624_83899,696816,266,199,L'Enfant et IAieul.,2204,90.0,False,positional,PANTOJA DE LA CRUZ,,,,
 BO0624_83899,696817,267,200,Saint Francois d'Assise.,2215,92.0,False,positional,THEOTOKOPULI (DOMENICO),,,,
 BO0624_83899,696818,268,201,Sainte Magdeleine en Priere.,2221,93.1,False,positional,THEOTOKOPULI (DOMENICO),,,,
-BO0624_83899,696819,269,202,(Ecole de) 1662,2230,76.2,False,positional,VELAZQUEZ (DIEGO RODRIGUEZ DE SILVA Y),,,,
-BO0624_83899,696820,270,203,Magdeleine en Priere. 1662,2242,81.6,False,positional,ZURBARAN (FRANCISCO DE),,,,
+BO0624_83899,696819,269,202,(Ecole de) 1662,2230,76.2,False,positional,VELAZQUEZ (DIEGO RODRIGUEZ DE SILVA Y),,,,Sec. XVII
+BO0624_83899,696820,270,203,Magdeleine en Priere. 1662,2242,81.6,False,positional,ZURBARAN (FRANCISCO DE),,,,Sec. XVII
 BO0624_83899,696821,271,204,9 Saint Francois d'Assise.,2253,92.6,False,positional,ZURBARAN (FRANCISCO DE),,,,
 BO0624_83899,696822,272,I,"l est sur la montagne,a genoux, les bras en croix, en attitude extatique. Les mains et les pieds portent les stigmates des saintes plaies,ainsi que la poitrine,dont on apercoit la blessure par une ouverture de la robe de bure. A gauche, en contre-bas,un franciscain apparait, en prieres,un livre d'heures ouvert,tenu des deuxmains.",2255,99.8,False,positional,ZURBARAN (FRANCISCO DE),,OGGETTI VARI,,
-BO0624_83899,696823,273,1500,1562,2269,61.5,False,positional,AMBERGER (CHRISTOPH),,,,
+BO0624_83899,696823,273,1500,1562,2269,61.5,False,positional,AMBERGER (CHRISTOPH),,,,Sec. XVI
 BO0624_83899,696824,274,205,Portrait d'Homme.,2271,88.9,False,positional,AMBERGER (CHRISTOPH),,,,
 BO0624_83899,696825,275,I,"l est represente de trois quarts a gauche, jusqu'a mi-corps, debout, en manteau brun garni de vison.ll a la figure fine, les traits emacies sous le chapeau large qui coiffe ses cheveux chatains. Dans dentelle.",2273,99.8,False,positional,AMBERGER (CHRISTOPH),,,,
-BO0624_83899,696826,276,1495,1555,2285,61.5,False,positional,BRUYN (BARTHOLOMAEUS),,,,
+BO0624_83899,696826,276,1495,1555,2285,61.5,False,positional,BRUYN (BARTHOLOMAEUS),,,,Sec. XVI
 BO0624_83899,696827,277,206,Descente de Croix.,2287,89.5,False,positional,BRUYN (BARTHOLOMAEUS),,,,
 BO0624_83899,696828,278,207,"Portrait d'Homme. l est vu de trois quarts a droite, jusqu'a mi-corps, en manteau noir a parements de fourrure sur un pourpoint noir; sa tete aux traits severes,a la levre cruelle,engoncee dans un col ruche blanc,et coiffe d'une toque noire, sur ses cheveux chatains. l a la barbe longue formant deux pointes.",2300,97.3,False,positional,BRUYN (BARTHOLOMAEUS),,,,
 BO0624_83899,696829,279,208,Portrait d'Homme a longue barbe.,2310,93.9,False,positional,BRUYN (BARTHOLOMAEUS),,,,
 BO0624_83899,696830,280,I,"l est represente sur un fond gris, de face,assis a une table couverte dun velours vert et portant un livre,relie en rouge,a fermoir. Son visage pale a une longue barbe grisonnante terminee par deux pointes. Il a les yeux petits, le nez bossue et fort.Il est coiffe d'un bonnet noir a rabat de meme couleur, et vetu d'un manteau de velours noir garni de fourrure, et d'une fraise a tuyautes rigides. Sa main droite tient des gants, sa main gauche s'appuie sur le livre. Ses manches sont bordees de ruches empesees.",2312,99.9,False,positional,BRUYN (BARTHOLOMAEUS),,STAMPE E INCISIONI,,
-BO0624_83899,696831,281,1493,1555,2316,61.5,False,positional,BRUYN (BARTHOLOMAEUS),,,,
-BO0624_83899,696832,282,209,Portrait de jeune Femme. 1553,2321,83.6,False,positional,,CLOUET (Ecole de),,,
+BO0624_83899,696831,281,1493,1555,2316,61.5,False,positional,BRUYN (BARTHOLOMAEUS),,,,Sec. XVI
+BO0624_83899,696832,282,209,Portrait de jeune Femme. 1553,2321,83.6,False,positional,,CLOUET (Ecole de),,,Sec. XVI
 BO0624_83899,696833,283,210,L'Amour.,2341,77.8,False,positional,CRANACH (LUCAS),,,,
 BO0624_83899,696834,284,I,"l est u nu,debout,de face,avec des ailes bleues,dansant, soulevant un voile de son front avec",2343,99.5,False,positional,CRANACH (LUCAS),,,,
-BO0624_83899,696835,285,1472,1555,2352,61.5,False,positional,CRANACH (LUCAS),,,,
+BO0624_83899,696835,285,1472,1555,2352,61.5,False,positional,CRANACH (LUCAS),,,,Sec. XVI
 BO0624_83899,696836,286,2,l1.-Le Triomphe de la Foi,2354,98.0,False,positional,CRANACH (LUCAS),,,,
 BO0624_83899,696837,287,212,La Nuit au Jardin des Oliviers.,2366,93.8,False,positional,CRANACH (LUCAS),,,,
 BO0624_83899,696838,288,2,i3.-Le Christ et Saint Francois d'Assise.,2381,98.7,False,positional,DAVID (GERARD),,,,
@@ -297,7 +297,7 @@ BO0624_83899,696845,295,I,"l est vetu, sur son pourpoint de velours noir, d'un m
 BO0624_83899,696846,296,220,Descente de Croix.,2463,89.5,False,positional,,ECOLE FLAMANDE,,,
 BO0624_83899,696847,297,221,Portrait d'une Femme de qualite.,2480,93.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83899,696848,298,222,Sainte Famille.,2492,87.5,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83899,696849,299,223,L'Adoration des Bergers. 1584,2503,83.6,False,positional,GOES (HUGO VAN DER),,,,
+BO0624_83899,696849,299,223,L'Adoration des Bergers. 1584,2503,83.6,False,positional,GOES (HUGO VAN DER),,,,Sec. XVI
 BO0624_83899,696850,300,224,Portrait de Louise van Lyden.,2513,93.3,False,positional,HEERE (LUCAS DE),,,,
 BO0624_83899,696851,301,225,Portrait d'Erasme.,2526,89.5,False,positional,HOLBEIN (HANS),,,,
 BO0624_83899,696852,302,I,"lest represente de trois quarts a gauche,ami-corps.les deux mains appuyees sur le plat dun livre rouge pose sur une table.",2528,99.6,False,positional,HOLBEIN (HANS),,PIATTI,,
@@ -312,12 +312,12 @@ BO0624_83899,696860,310,I,"l est coiffe d'une toque de velours noir brode, ornee
 BO0624_83899,696861,311,228,Portrait d'Homme jeune.,2565,91.7,False,positional,HOLBEIN (HANS),,,,
 BO0624_83899,696862,312,I,"l est jeune et de curieuse expression,avec sa figure osseuse aux pommettes saillantes,encadree de cheveux roux tombant en bourrelets crepes et ondules de chaque cote du visage,et coiffee d'une toque de velours noir inclinee sur la tempe droite et decouvrant les cheveux coupes court sur le front. La chemise blanche, froncee et garnie d'une passementerie d'or, apparait sous le manteau noir double de fourrure. La main gauche,le bras ploye, s'attache au bord du manteau.Une bague d'or a chaton de pierre et une alliance brillent a l'index de la main gauche.",2567,99.9,False,positional,HOLBEIN (HANS),,,,
 BO0624_83899,696863,313,I,SENBRANT (ADRIAEN),2570,97.0,False,title_direct,ISENBRANT (ADRIAEN),,,,
-BO0624_83899,696864,314,229,Le Christ en Croix. 1555,2574,80.0,False,positional,ISENBRANT (ADRIAEN),,,,
-BO0624_83899,696865,315,230,Sainte Catherine d'Alexandrie. 1566,2586,86.6,False,positional,LEYDE (LUCAS VAN),,,,
+BO0624_83899,696864,314,229,Le Christ en Croix. 1555,2574,80.0,False,positional,ISENBRANT (ADRIAEN),,,,Sec. XVI
+BO0624_83899,696865,315,230,Sainte Catherine d'Alexandrie. 1566,2586,86.6,False,positional,LEYDE (LUCAS VAN),,,,Sec. XVI
 BO0624_83899,696866,316,231,L'Adoration des Rois Mages.,2599,92.9,False,positional,LOMBARD (LAMBERT),,,,
-BO0624_83899,696867,317,232,Portrait d'une jeune Femme. 1541,2611,85.2,False,positional,"LUCIDEL(NICOLAES NEUFCHATEL,DIT)",,,,
+BO0624_83899,696867,317,232,Portrait d'une jeune Femme. 1541,2611,85.2,False,positional,"LUCIDEL(NICOLAES NEUFCHATEL,DIT)",,,,Sec. XVI
 BO0624_83899,696868,318,233,Mars et Venus.,2626,86.7,False,positional,"MABUSE (JEAN GOSSAERT,DIT JAN VAN)",,,,
-BO0624_83899,696869,319,234,La Vierge avec l'Enfant Jesus et un Ange. 1541,2637,89.9,False,positional,"MABUSE JAN GOSSAERT,DIT JAN VAN)",,,,
+BO0624_83899,696869,319,234,La Vierge avec l'Enfant Jesus et un Ange. 1541,2637,89.9,False,positional,"MABUSE JAN GOSSAERT,DIT JAN VAN)",,,,Sec. XVI
 BO0624_83899,696870,320,235,La Vierge et I'Enfant Jesus.,2648,93.1,False,positional,"MABUSE JAN GOSSAERT,DIT JAN VAN)",,,,
 BO0624_83899,696871,321,236,-La Vierge et lEnfant Jesus.,2654,92.9,False,positional,"MABUSE JAN GOSSAERT,DIT JAN VAN)",,,,
 BO0624_83899,696872,322,237,Le Repos pendant la Fuite en Egypte.,2665,94.6,False,positional,MAITRE DES DEMI-FIGURESDE FEMMES,,,,
@@ -328,8 +328,8 @@ BO0624_83899,696876,326,1512,entre1576et1578,2704,85.7,False,positional,MORO (AN
 BO0624_83899,696877,327,24,l.- Portrait du Peintre par Lui-meme.,2706,97.1,False,positional,MORO (ANTHONIE),,,,
 BO0624_83899,696878,328,I,"l s'est represente en pourpoint de velours noir a rayures gaufrees, debout, de trois quarts a droite, avec des manches de gilet de soie blanche galonnees d'or. Il a les cheveux coupes ras ainsi que la barbe; les yeux sont vivants,encore. que la physionomie,aux traits reguliers,affecte d'etre impassible. Une dentelle a tuyautes souples entoure le cou :une dentelle pareille joue sur le poignet. La main gauche est appuyee de dos a la hanche; la main droite sappuie, le bras presque allonge, au coin d'une table couverte d'un tapis vert.",2708,99.9,False,positional,MORO (ANTHONIE),,,,
 BO0624_83899,696879,329,242,Coquetterie.,2719,84.6,False,positional,ORLEY (BARENT VAN),,,,
-BO0624_83899,696880,330,243,"La Mise au Tombeau, 1622",2728,80.0,False,positional,OUWATER (ALBERT VAN),,,,
-BO0624_83899,696881,331,244,"Portrait de Volckart Overlander, seigneur de Purmerland et Ilpendam. 1622",2738,93.6,False,positional,POURBUS (FRANS),,,,
+BO0624_83899,696880,330,243,"La Mise au Tombeau, 1622",2728,80.0,False,positional,OUWATER (ALBERT VAN),,,,Sec. XVII
+BO0624_83899,696881,331,244,"Portrait de Volckart Overlander, seigneur de Purmerland et Ilpendam. 1622",2738,93.6,False,positional,POURBUS (FRANS),,,,Sec. XVII
 BO0624_83899,696882,332,245,"Portrait de Volckart Overlander, Seigneur de Purmerland et Ilpendam. l est represente debout de trois quarts a droite, en pourpoint, manteau et haut-de-chausses de satin noir broche;sa tete,aux modeles accentues,est coiffee de ses cheveux courts frises,chatain fauve, formant toupet sur le haut de la tete. Il a la barbe rousse en pointe et les moustaches relevees en croc. Le regard est intelligent,le masque exprime la volonte. La tete repose sur une fraise de mousseline a larges tuyautes rigides.La main gauche apparait vuede dos,le bras a demiploye,avec bague d'ora chaton enflee sur lindex; une manchette de batiste souple se chiffonne a la manche. La main droite, a demi gantee et tenant lautre gant, s'appuie,renversee,a la hanche.La chemise de batiste blanche fait ici rebras sur la manche. A gauche, on apercoit sur le fond brun une table rectangulaire couverte d'un tapis de velours de Genes a pentes.",2751,96.2,False,positional,POURBUS(FRANS),,,,
 BO0624_83899,696883,333,246,"Portrait d'un Ecclesiastique. l est assis de trois quarts a droite sur un fauteuil et vu jusqu'a mi-jambes : c'est un homme age au suborbiculaires legerement gonfles, le menton rond dessine dans le pli gras du cou, le front marque d'une ride profonde. Il est coiffe d'une toque large a rabat de velours noir sur ses cheveux blanes.1l porte un pourpoint noir marque au cou par un col de batiste blanche legerement empesee, et un manteau a doublure de marthe dont les revers sont ecartes. Les deux bras s'appuient aux accoudoirs du fauteuil. Les mains portes en avant sont ornees, aux index et aux annulaires, de bagues d'or a chatons de pierreries.",2763,97.7,False,positional,POURBUS (PIETER),,OGGETTI VARI,,
 BO0624_83899,696884,334,247,Portrait d'une jeune Femme.,2776,92.9,False,positional,POURBUS (PIETER),,,,

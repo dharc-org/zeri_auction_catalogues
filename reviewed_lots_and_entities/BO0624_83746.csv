@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_83746,72443,1,56,Portraits de Cosme de Medicis et d'Eleonore de Tolede.,5,41.8,False,none,,,,,
 BO0624_83746,72444,2,57,"Portraits de Francois,Ferdinand, Pierre et",12,50.6,False,none,,,,,
 BO0624_83746,72445,3,I,"sabelle de Medicis, enfants de Cosme Ier.",22,39.4,False,positional,CLOUET,,,,
-BO0624_83746,72446,4,1450,1517.,28,31.6,False,positional,DUMONSTIER,,,,
+BO0624_83746,72446,4,1450,1517.,28,31.6,False,positional,DUMONSTIER,,,,Sec. XVI
 BO0624_83746,72447,5,65,Salome.,37,33.3,False,positional,LATOUR,,,,
 BO0624_83746,72448,6,I,"l est represente en pied, de grandeur naturelle, marchant vers la gauche, vetu d'un habit vert sombre a basques pendant sur ses chausses de soie rouge.",45,46.6,False,positional,LATOUR,,,,
 BO0624_83746,72449,7,73,73—Le Dante.,52,40.0,False,positional,LEONI,,,,
@@ -153,7 +153,7 @@ BO0624_83746,72593,151,242,"2— Buou DE corsAGe en or ajoure a rinceaux, conten
 BO0624_83746,72594,152,243,"— Buou-RELIQuAiRE en agate rubanee;a linterieur, les attributs de la Passion en or émaille. Espagne, xvin siecle.",2000,29.0,False,positional,LEFEBVRE,,,,
 BO0624_83746,72595,153,244,"— Boite en forme de vase, en agate; monture en or a rocailles;",2004,41.0,False,positional,LEFEBVRE,,SCATOLE,,
 BO0624_83746,72596,154,245,"— Boire ronde, en écaille blonde, posee or a entrelacs et galonnee d'argent. Sur le couvercle, un fixe : paysage. Epoque Louis XVI.",2006,27.6,False,positional,LEFEBVRE,,,,
-BO0624_83746,72597,155,246,"—Boire ronde en écaille brune, posee et galonnee or; sur le couvercle et sur le dessous,un motif rayonnant. Poincons de Fouache, regisseur des droits de marque, 1774-178o. Epoque",2016,28.7,False,positional,LEFEBVRE,,,,
+BO0624_83746,72597,155,246,"—Boire ronde en écaille brune, posee et galonnee or; sur le couvercle et sur le dessous,un motif rayonnant. Poincons de Fouache, regisseur des droits de marque, 1774-178o. Epoque",2016,28.7,False,positional,LEFEBVRE,,,,Sec. XVIII
 BO0624_83746,72598,156,247,"— BoiTe ronde en or de couleur guilloche et cisele, a semis de pois, avec bordures de petites feuilles. Poincons de Clavel, regisseur des droits de marque, 178o-178g. Epoque Louis XVI.",2049,39.1,False,positional,MOREAU,,SCATOLE,,
 BO0624_83746,72599,157,248,"— Boire ronde, décorée au vernis de rayures et galonnee dor;",2051,44.4,False,positional,MOREAU,,,,
 BO0624_83746,72600,158,249,"— Boire plate oblongue en ivoire, ornee, aux extremites du cou-",2060,38.1,False,positional,MULLER (CHARLES-LOUIS),,,,
@@ -199,7 +199,7 @@ BO0624_83746,72639,197,288,"-EveNTaiL en ivoire decore au vernis, a sujet mythol
 BO0624_83746,72640,198,289,"-MiniATuRE ovale par Hall, signee: portrait presume de Mme de Graffigny, selon une inscription au revers. Elle est representee en buste, de face,les cheveux poudres,ornes de fleurs,vetue d'un corsage blanc decollete, borde de dentelle. Encadrée.",2403,28.7,False,positional,BRACADE LA GARD,,MINIATURE,,
 BO0624_83746,72641,199,290,"— MINIATuRE ovale par Hall, signee et datee 177o. Portrait",2438,47.7,False,positional,MEISSONIER,,MINIATURE,,
 BO0624_83746,72642,200,291,"— MiNIATuRE ovale, par Sicardi, signee:portrait de femme en buste, vetue d'un corsage vert decollete, avec bouquet de fleurs et",2481,33.5,False,positional,VIOLLET-LE-DUC,,MINIATURE,,
-BO0624_83746,72643,201,292,"— MINIATuRE ronde par Sicardi, signee et datee 1786. Portrait de",2492,48.9,False,positional,DUBUFE,,MINIATURE,,
+BO0624_83746,72643,201,292,"— MINIATuRE ronde par Sicardi, signee et datee 1786. Portrait de",2492,48.9,False,positional,DUBUFE,,MINIATURE,,Sec. XVIII
 BO0624_83746,72644,202,293,"MiNiaTuRE ovale,portrait presume de Gluick,attribuee a Sicardi. xvinle siecle. Encadree.",2549,39.7,False,positional,HEBERT,,MINIATURE,,
 BO0624_83746,72645,203,294,"MiNiATuRE ovale,portrait de femme a mi-corps,en corsage jaune decollete avec draperie violette.Epoque Louis XV. Cadre en argent.",2555,42.2,False,positional,HEBERT,Periodo di Luigi XV,MINIATURE,,
 BO0624_83746,72646,204,295,"—MinIATuRE ronde, portrait d'homme en buste,vetu d'un habit bleu. Epoque Louis XV. Encadree.",2576,48.8,False,positional,,Periodo di Luigi XV,MINIATURE,,

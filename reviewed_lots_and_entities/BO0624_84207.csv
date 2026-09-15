@@ -1,13 +1,13 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84207,60121,1,I,Interieur d’artiste.,22,95.0,False,positional,BIDA,,ARREDAMENTI,,
-BO0624_84207,60122,2,2,Dahabieh ensable dans le Nil. Toile. Signee et datee : 1877.,30,98.2,False,positional,BELLY,,,,
-BO0624_84207,60123,3,3,Une Marchande de bijoux a Pompei. 1860,39,90.1,False,positional,BOULANGER,,BIGIOTTERIA,,
+BO0624_84207,60122,2,2,Dahabieh ensable dans le Nil. Toile. Signee et datee : 1877.,30,98.2,False,positional,BELLY,,,,Sec. XIX
+BO0624_84207,60123,3,3,Une Marchande de bijoux a Pompei. 1860,39,90.1,False,positional,BOULANGER,,BIGIOTTERIA,,Sec. XIX
 BO0624_84207,60124,4,4,Diogene jetant sa sebile.,54,96.0,False,positional,DECAMPS,,,,
-BO0624_84207,60125,5,I,"mportant dessin au fusain, rehausse de pastel et de gouache. Signe a gauche, sur une pierre : Decamps et date : 1843.",61,99.5,False,positional,DECAMPS,,,,
-BO0624_84207,60126,6,1803,1860,72,61.5,False,positional,DECAMPS,Scuola di Dusseldorf,,,
+BO0624_84207,60125,5,I,"mportant dessin au fusain, rehausse de pastel et de gouache. Signe a gauche, sur une pierre : Decamps et date : 1843.",61,99.5,False,positional,DECAMPS,,,,Sec. XIX
+BO0624_84207,60126,6,1803,1860,72,61.5,False,positional,DECAMPS,Scuola di Dusseldorf,,,Sec. XIX
 BO0624_84207,60127,7,5,Les Catalans pres de Marseille.,74,96.8,False,positional,DECAMPS,,,,
 BO0624_84207,60128,8,6,Au bord de la mer.,86,94.4,False,positional,DUEZ,,,,
-BO0624_84207,60129,9,8,Portrait de Jeune Femme. avril 1880.),108,78.0,False,positional,JACQUET,,,,
+BO0624_84207,60129,9,8,Portrait de Jeune Femme. avril 1880.),108,78.0,False,positional,JACQUET,,,,Sec. XIX
 BO0624_84207,60130,10,9,Le Tambourinaire.,122,94.1,False,positional,MARCHETTI,,,,
 BO0624_84207,60131,11,10,"Le Garde du palais, epoque Henri III. Aquarelle. Signee a droite en bas.",132,97.8,False,positional,MARCHETTI,,,,
 BO0624_84207,60132,12,12,--Francesca di Rimini.,153,92.7,False,positional,SCHEFFER,,,,
@@ -15,34 +15,34 @@ BO0624_84207,60133,13,13,Le Taureau vainqueur.,169,93.0,False,positional,WERBOEC
 BO0624_84207,60134,14,14,"Homme adosse a un mur, tenant sa canne de la main droite.",175,97.3,False,positional,VILLEGAS,,,,
 BO0624_84207,60135,15,15,Le Lever.,182,84.2,False,positional,VILLEGAS,,,,
 BO0624_84207,60136,16,1520,"16—La Vierge a leillet, tenant l'Enfant Jesus; fond de paysage.",196,100.0,False,positional,BLES,,,,
-BO0624_84207,60137,17,1755,1838,210,61.5,False,positional,BILCOQ,,,,
+BO0624_84207,60137,17,1755,1838,210,61.5,False,positional,BILCOQ,,,,Sec. XIX
 BO0624_84207,60138,18,17,Diane.,215,76.9,False,positional,BOUCHER,,,,
 BO0624_84207,60139,19,18,Le Souhait de la bonne annee au grand-papa.,225,96.6,False,positional,CANOT,,,,
 BO0624_84207,60140,20,19,—Portrait de Jeune Femme tenant uin cahier de musique.,233,97.2,False,positional,CARRIERA,,,,
 BO0624_84207,60141,21,20,—L'Education de la Vierge.,245,94.1,False,positional,CRAYER,,,,
-BO0624_84207,60142,22,21,——Chien et faisan. 16 mai 1881:,252,66.7,False,positional,DESPORTES,,,,
+BO0624_84207,60142,22,21,——Chien et faisan. 16 mai 1881:,252,66.7,False,positional,DESPORTES,,,,Sec. XIX
 BO0624_84207,60143,23,22,—Portrait de Femme.,266,91.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84207,60144,24,23,"La Reine Marie-Antoinette,en grand costume.",274,96.6,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84207,60145,25,24,Les Danseurs russiens.,281,93.3,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84207,60146,26,25,Fleurs et fruits.,291,91.4,False,positional,,ECOLE HOLLANDAISE,,,
 BO0624_84207,60147,27,26,La Presentation au Temple.,297,94.3,False,positional,,ECOLE ITALIENNE,,,
 BO0624_84207,60148,28,27,Portrait de la Fille du Titien.,304,95.2,False,positional,TIZIANO VECELLIO,ECOLE VENITIENNE,,,
-BO0624_84207,60149,29,28,"Portrait de deux Jeunes Filles representees en buste, vetues de riches costumes. 1778",316,95.1,False,positional,,ECOLE VENITIENNE,,,
+BO0624_84207,60149,29,28,"Portrait de deux Jeunes Filles representees en buste, vetues de riches costumes. 1778",316,95.1,False,positional,,ECOLE VENITIENNE,,,Sec. XVIII
 BO0624_84207,60150,30,29,—— Les Joueurs de des.,329,92.3,False,positional,EISEN,,,,
 BO0624_84207,60151,31,30,Fruits et Gibiers.,336,91.9,False,positional,EISEN,,,,
-BO0624_84207,60152,32,31,Les Chanteurs. 1695,349,76.5,False,positional,FYT,,,,
+BO0624_84207,60152,32,31,Les Chanteurs. 1695,349,76.5,False,positional,FYT,,,,Sec. XVII
 BO0624_84207,60153,33,32,Le Coq et la Perle. 16mai1881:,364,73.5,False,positional,HONDEKOETER,,,,
-BO0624_84207,60154,34,33,"Poules, paon et pigeons dans un parc. 1811",378,89.7,False,positional,HONDEKOETER,,,,
+BO0624_84207,60154,34,33,"Poules, paon et pigeons dans un parc. 1811",378,89.7,False,positional,HONDEKOETER,,,,Sec. XIX
 BO0624_84207,60155,35,34,La Bonne Mere.,389,89.7,False,positional,HUET,,,,
-BO0624_84207,60156,36,9,11 mars 1887.),401,92.3,False,positional,HUET,,,,
-BO0624_84207,60157,37,1619,1690,432,61.5,False,positional,LEBRUN,,,,
+BO0624_84207,60156,36,9,11 mars 1887.),401,92.3,False,positional,HUET,,,,Sec. XIX
+BO0624_84207,60157,37,1619,1690,432,61.5,False,positional,LEBRUN,,,,Sec. XVII
 BO0624_84207,60158,38,37,"Projet, a la gloire d’un Prince de la Maison",434,96.6,False,positional,LEBRUN,,,,
 BO0624_84207,60159,39,3,g—La Famille malheureuse. Interieur rustique.,461,70.6,False,positional,PRUD'HON,,ARREDAMENTI,,
 BO0624_84207,60160,40,4,I——Minerve et Thetis.,487,97.4,False,positional,RUBENS,,,,
-BO0624_84207,60161,41,1625,1682,500,61.5,False,positional,RUYSDAEL,,,,
+BO0624_84207,60161,41,1625,1682,500,61.5,False,positional,RUYSDAEL,,,,Sec. XVII
 BO0624_84207,60162,42,42,—La Grande mare.,502,90.3,False,positional,RUYSDAEL,,,,
 BO0624_84207,60163,43,43,Jeune Femme pleurant.,516,93.0,False,positional,SUBLEYRAS,,,,
-BO0624_84207,60164,44,44,"Les Danseurs. l est cite dans le Catalogue raisonne de SMITH, vol. III, page 403, no 536. Il a éte expose a 1Institution britannique en 1829.",539,94.5,False,positional,TENIERS LE JEUNE,,,,
+BO0624_84207,60164,44,44,"Les Danseurs. l est cite dans le Catalogue raisonne de SMITH, vol. III, page 403, no 536. Il a éte expose a 1Institution britannique en 1829.",539,94.5,False,positional,TENIERS LE JEUNE,,,,Sec. XIX
 BO0624_84207,60165,45,45,—Portrait d'une Dame.,546,92.7,False,positional,TOURNIERES,,,,
 BO0624_84207,60166,46,9,16mai1881:,550,90.0,False,positional,TOURNIERES,,,,
 BO0624_84207,60167,47,47,—— Le Cavalier au repos.,571,93.0,False,positional,WOUWERMAN,,,,
@@ -67,10 +67,10 @@ BO0624_84207,60185,65,66,— Saxe. Groupe de trois personnages :Le Marchand,622,
 BO0624_84207,60186,66,67,"— Saxe. Deux statuettes de fillette et jeune garcon,",627,97.0,False,positional,,,FAIENCES; PORCELAINES,,
 BO0624_84207,60187,67,68,"Saxe. Mouton broutant en ancienne porcelaine, decor au naturel.",629,97.6,False,positional,,,FAIENCES; PORCELAINES,,
 BO0624_84207,60188,68,69,"- — Saxe. Petit vase, a cinq goulots, en ancienne porcelaine, decor a personnages et fleurs en couleurs, dans le gout japonais.",631,100.0,False,positional,,,VASI,,
-BO0624_84207,60189,69,70,"— Saxe. Vase en ancienne porcelaine, de forme ovoide, decor a gerbes de fleurs dans le gout japonais. 9mai 1884.)",632,93.6,False,positional,,,VASI,,
+BO0624_84207,60189,69,70,"— Saxe. Vase en ancienne porcelaine, de forme ovoide, decor a gerbes de fleurs dans le gout japonais. 9mai 1884.)",632,93.6,False,positional,,,VASI,,Sec. XIX
 BO0624_84207,60190,70,71,"pate tendre, a decor, au centre, oiseau; a la chute, six reserves a fleurs et vannerie, alternant. Annee 176o, Evans,decorateur.",640,98.8,False,positional,,,FAIENCES; PORCELAINES,,
-BO0624_84207,60191,71,2,"Sevres. Petite tasse droite,a une anse,et sa sou72 coupe en ancienne porcelaine pate tendre, a decor de medaillons charges de couronnes de roses, bleuets, et feuillages de laurier, reserves sur fond bleu de roi. Petitebordurea entrelacs de feuillages et batons rompus en dorure. Annee 1772,Tandart,decorateur.",641,99.7,False,positional,,,FAIENCES; PORCELAINES,,
-BO0624_84207,60192,72,73,"Sevres. Tasse arrondie, couverte, a deux anses, avec son presentoir, en ancienne porcelaine tendre, decor bleu dit bleu de Vincennes, et reserves a oiseaux dans des encadrements de feuillages sen dorure. Theodore,doreur,annee 1758.",642,99.3,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_84207,60191,71,2,"Sevres. Petite tasse droite,a une anse,et sa sou72 coupe en ancienne porcelaine pate tendre, a decor de medaillons charges de couronnes de roses, bleuets, et feuillages de laurier, reserves sur fond bleu de roi. Petitebordurea entrelacs de feuillages et batons rompus en dorure. Annee 1772,Tandart,decorateur.",641,99.7,False,positional,,,FAIENCES; PORCELAINES,,Sec. XVIII
+BO0624_84207,60192,72,73,"Sevres. Tasse arrondie, couverte, a deux anses, avec son presentoir, en ancienne porcelaine tendre, decor bleu dit bleu de Vincennes, et reserves a oiseaux dans des encadrements de feuillages sen dorure. Theodore,doreur,annee 1758.",642,99.3,False,positional,,,FAIENCES; PORCELAINES,,Sec. XVIII
 BO0624_84207,60193,73,74,"Sevres. Petite tasse et sa soucoupe en ancienne porcelaine tendre, decor en couleur et dorure; médaillons relies par des guirlandes de feuillages; bandes bleu, rose, et frise de postes. Capelle, decorateur.",645,99.2,False,positional,,,FAIENCES; PORCELAINES,,
 BO0624_84207,60194,74,76,"- 5-Urbino.Plat rond en ancienne faience,attribue a Fra Xanto, decore en plein d'un sujet ayant trait a la conquete de la Toison-d'or.",651,100.0,False,positional,,,PIATTI,,
 BO0624_84207,60195,75,78,"Deux LAMPEs, formees chacune d'un vase-rouleau, en celadon vert pomme, fleuri, en bleu. Monture en bronze simulant des aiguieres.",659,98.8,False,positional,,,LAMPADE,,
@@ -134,7 +134,7 @@ BO0624_84207,60252,132,138,"PETITE gauche, en costume bleu brode.",812,94.6,Fals
 BO0624_84207,60253,133,139,"— MINIATURE ovALE en largeur, de 1Ecole francaise du xvinre siecle : Jeune femme coupant les ailes a un amour qu'elle tient sur ses genoux.",813,98.5,False,title_direct,,,MINIATURES,,
 BO0624_84207,60254,134,140,"- MINIATURE ovALE, de 1Ecole francaise du xviIIe siecle : Portrait de femme de trois quarts a droite, en robe décolletee bleue, coiffée d'un bonnet de lingerie, le cou pare d'un collier de perles.",814,98.9,False,title_direct,,,MINIATURES,,
 BO0624_84207,60255,135,141,"MINIATURE OVALE en largeur, fixe sous verre, présentant une chasse du roi Louis XV. xvi siecle. Cadre",815,98.0,False,title_direct,,Periodo di Luigi XV,MINIATURES,,
-BO0624_84207,60256,136,142,"— PETITE MINIATURE OVALE, de 1Ecole francaise du xvil siecle: Portrait d'un prince, revetu de sa cuirasse; la poitrine barree d'un cordon d'ordre. Cadre-medail- 21 mai 1885.)",817,95.0,False,title_direct,,,MINIATURES,,
+BO0624_84207,60256,136,142,"— PETITE MINIATURE OVALE, de 1Ecole francaise du xvil siecle: Portrait d'un prince, revetu de sa cuirasse; la poitrine barree d'un cordon d'ordre. Cadre-medail- 21 mai 1885.)",817,95.0,False,title_direct,,,MINIATURES,,Sec. XIX
 BO0624_84207,60257,137,143,"— MINIATURE RONDE, de 1'Ecole francaise du xVIe siecle: Jeune femme assise dans un fauteuil, tenant une fillette sur ses genoux.",824,98.4,False,title_direct,,,MINIATURES,,
 BO0624_84207,60258,138,144,"— PETITE MINIATURE OVALE, de 1Ecole francaise du xvinl siecle : Portrait d'homme de trois quarts a droite,",825,98.0,False,title_direct,,,MINIATURES,,
 BO0624_84207,60259,139,145,"—PETITE MINIATURE RECTANGULAIRE, de 1Ecole francaise du xvin siecle : Portrait de jeune femme en",827,97.9,False,title_direct,,,MINIATURES,,
@@ -145,7 +145,7 @@ BO0624_84207,60263,143,149,"— MINIATURE RONDE :Portrait d'homme en buste, la",
 BO0624_84207,60264,144,150,"—MINIATURE RONDE, Par DUMONT,S costume,",839,94.7,False,title_direct,,,MINIATURES,,
 BO0624_84207,60265,145,151,"— DEUX PLAQUES RECTANGULAIRES en emaux de couleurs et rehausses d'or, du xvr siecle,representant: l'une, le Couronnement d'epines; 1autre, la Flagellation. Cadre en bois noir.",844,98.8,False,positional,,,LAMPADE,,
 BO0624_84207,60266,146,152,"—DEUX PETITES PLAQUES RECTANGULAIRES, dans le meme cadre, en ancien émail peint en grisaille,par PIERRE RAyMoND, de Limoges, du xVI siecle, représentant :1une, 1Enlevement de Dejanire; 1autre,un sujet relatif a Hercule.",850,99.1,False,positional,,,EMAUX; IVOIRES,,
-BO0624_84207,60267,147,153,"—PLAQUE RECTANGULAIRE en ancien email peint de Limoges,atelier des Penicaud, xvr siecle,representant la Mise au tombeau. au 8mars 1884.)",852,92.9,False,positional,,,EMAUX; IVOIRES,,
+BO0624_84207,60267,147,153,"—PLAQUE RECTANGULAIRE en ancien email peint de Limoges,atelier des Penicaud, xvr siecle,representant la Mise au tombeau. au 8mars 1884.)",852,92.9,False,positional,,,EMAUX; IVOIRES,,Sec. XIX
 BO0624_84207,60268,148,154,PLaQuE cintree a sa partie superieure en ancien,858,95.9,False,positional,,,EMAUX; IVOIRES,,
 BO0624_84207,60269,149,155,"—Deux sTATuETTEs en ivoire sculpté, representant Apollon et Flore debout. xvir siecle. Socles en bois",864,98.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_84207,60270,150,156,"STATUETTE d'enfant nu, debout,une draperie",867,96.5,False,positional,,,EMAUX; IVOIRES,,
@@ -153,7 +153,7 @@ BO0624_84207,60271,151,157,VoLET,872,71.4,False,positional,VOLTZ FRIEDRICH JOHAN
 BO0624_84207,60272,152,158,"—MEDAILLoN ovALE, peint sur émail, representant saint Nicolas, dans un entourage simulant un cadre a cartouches armories et croix de Lorraine dans les milieux,ainsi que des oiseaux aux ailes éployées. xVll siecle.",874,99.0,False,positional,,,EMAUX; IVOIRES,,
 BO0624_84207,60273,153,159,"— PLATEAU cIRcULAIRE en verre de Venise grave, decore d'armoirie papale dans le fond. xvre siecle.",881,97.9,False,positional,,,EMAUX; IVOIRES,,
 BO0624_84207,60274,154,16,"o— QUATRE VITRAUx RONDs, du xvI siecle, peints en grisaille et representant la Nativite,Jesus chez les disciples d'Emmaus, Jésus montre au peuple,et le Martyre d'une sainte.— Deux autres vitraux ovales peints en grisaille : 1Automne et lHiver.",882,99.6,False,positional,,,EMAUX; IVOIRES,,
-BO0624_84207,60275,155,161,"— BaisER DE PAIx en bronze et argent. Italie, xvie avril-4mai 1887.)",886,82.1,False,positional,,,EMAUX; IVOIRES,,
+BO0624_84207,60275,155,161,"— BaisER DE PAIx en bronze et argent. Italie, xvie avril-4mai 1887.)",886,82.1,False,positional,,,EMAUX; IVOIRES,,Sec. XIX
 BO0624_84207,60276,156,162,"—CoFFRET RECTANGULAIRE, Contenant des tiroirs,en marqueterie d'ivoire grave, a decor de rinceaux. Travail italien, xvil siecle.",893,98.4,False,positional,,,EMAUX; IVOIRES,,
 BO0624_84207,60277,157,163,"—ORNEMENT-APPLIQUE en bronze patine, de forme mouvementee, a decor de rocailles et medaillons présentant le Bapteme du Christ, xvinle siecle.",894,98.6,False,positional,,,EMAUX; IVOIRES,,
 BO0624_84207,60278,158,164,"— PeTIT vAsE ovoiDe a piedouche, sur socle a degrés, en spath-fluor et bronze cisele dore, muni d'un couvercle a bouton pomme de pin, anses-tetes de belier, guirlandes, lyre,entrelacs, etc.xvin siecle.",897,99.0,False,positional,,,VASI,,
@@ -214,4 +214,4 @@ BO0624_84207,60332,212,220,"—Deux CHAisEs cannees en bois sculpte dore, a",105
 BO0624_84207,60333,213,221,— IMPORTANT AMEUBLEMENT DE SALON en bois SCulpte,1067,95.8,False,title_direct,,,ARREDAMENTI,,
 BO0624_84207,60334,214,222,"—QUATRE PORTIEREs DoUBLEs, et quatre cantonnieres",1069,95.9,False,positional,,,TAPISSERIES,,
 BO0624_84207,60335,215,223,"TAPISSERIE RECTANGULAIRE DE BRUXELLES,du xvil siecle, presentant une composition a grands personnages : Le Depart pour le Carrousel. Dans un parc avec chateau d'eau,on voit, a droite, sur le perron d'un palais a colonnade,une femme et un homme en costume oriental, un chien aupres d'eux. Au bas de 1'escalier, un enfant donne lar main a une dame de qualite en riche robe a traine, que releve un page. Elle offre une écharpe a un gentilhomme. Un petit chien aboie apres le groupe. Sur la gauche, un cavalier monte un cheval piaffant; en arriere,on apercoit un cheval tenu en main par un valet. Riche bordure d'encadrement, a chutes et enchevetrement de fleurs",1071,99.7,False,title_direct,,,TAPISSERIES,,
-BO0624_84207,60336,216,26,29 avril 1882.),1075,89.7,False,positional,,,TAPISSERIES,,
+BO0624_84207,60336,216,26,29 avril 1882.),1075,89.7,False,positional,,,TAPISSERIES,,Sec. XIX

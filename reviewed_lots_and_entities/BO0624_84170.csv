@@ -1,11 +1,11 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84170,8382,1,I,voires.                                 |                                          |                          |                             |                             | 174a184                     |                             |,19,96.6,False,none,,,,,
-BO0624_84170,8383,2,1813,"+Madrid,1870.",289,81.5,False,none,,,,,
+BO0624_84170,8383,2,1813,"+Madrid,1870.",289,81.5,False,none,,,,,Sec. XIX
 BO0624_84170,8384,3,15,Portrait d'enfant.,362,91.9,False,none,,,,,
 BO0624_84170,8385,4,2,<!-- image -->,370,100.0,False,none,,,,,
 BO0624_84170,8386,5,I,"l est represente en buste,tourne de trois-quarts vers la droite, les yeux regardant le spectateur. Son visage au nez lourd. a la moustache mince, sur une bouche aux levres epaisses, est encadre d'une longue perruque brune, tombant sur les épaules. Le pourpoint court, de couleur brun jaunatre,a les manches ouvertes sur une chemise blanche, visible egalement sur la poitrine, au-dessous d'un rabat de dentelles.",507,99.9,False,none,DEBUCOURT P.L.,,,,
 BO0624_84170,8387,6,I,"l est debout, le corps nu, de face;la tete ronde,aux cheveux blonds,legerement tournee de trois-quarts vers riere lui, decouvrant tout le devant du corps. De ses",559,99.7,False,none,,,,,
-BO0624_84170,8388,7,9,"16 mai 1881),n°324.",597,94.4,False,none,,,,,
+BO0624_84170,8388,7,9,"16 mai 1881),n°324.",597,94.4,False,none,,,,,Sec. XIX
 BO0624_84170,8389,8,1,"En haut:le Calvaire.—Sur un tertre,le Christ en croix,le corps penche en avant,le visage incline sur lepaule droite,les yeux clos,a la Vierge a sa gauche et saint Jean a sa droite. La Vierge est entierement drapee dans un manteau bleu vert, tres sombre,sous lequel elle joint les mains et les éleve vers le Crucifie qu'elle contemple. Saint Jean, en manteau rose sur une tunique droite.Le sang coule des plaies du Christ et jaillit de verte,medite tristement,la tete appuyee sur la main son flanc perce.",664,99.8,False,none,,,,,
 BO0624_84170,8390,9,2,"En bas:le Christ jardinier.-Dans un jardin plante de petits arbres, Marie-Madeleine, agenouillee a gauche,un manteau rose jete sur sa robe rouge vif, fait un geste d'adoration, en levant les yeux vers Jesus qui lui apparait a droite, debout,en tunique verte a rayures",668,99.6,False,none,DU JARDIN KAREL,,,,
 BO0624_84170,8391,10,1,"En haut :la Vierge sur son trone, entre un saint personnage et un benedictin.—La Vierge,entierement drapee dans un manteau bleu a semis de points d'or, ramene sur la tete coiffee d'une couronne, est assise sur un trone et tient l'Enfant assis sur ses genoux. La main gauche sur l'épaule de son fils, elle fait, de l'autre main, un geste de protection vers un donateur, agenouille a gauche, en habit de benedictin, la tete recouverte de la coule.A droite, le saint patron du donateur, en longue robe rose, debout pres du trone, les mains jointes et le visage comme tendu vers l'Enfant, qui le regarde en faisant un geste analogue a celui de sa mere, lui recom mande son client.",691,99.8,False,none,,,,,
@@ -13,7 +13,7 @@ BO0624_84170,8392,11,2,"En bas : Trois saints personnages. — Tous trois sont d
 BO0624_84170,8393,12,I,"l est tourne de trois-quarts vers la gauche et écoute le recit que lui fait de son reve le grand échanson, debout devant lui. Celui-ci porte un chaperon vert, des chausses jaunes et une cotte rouge, a col et revers gris,",720,99.8,False,none,,,,,
 BO0624_84170,8394,13,1,"l est vu en buste, tourne de trois-quarts vers la droite, ses grands yeux regardant le spectateur. Son visage est encadre de cheveux bruns, dont les meches lui tombent sur le front et le long des joues. Il est coiffé d'un bonnet rouge et porte un manteau noir, garni de larges bandes d'hermine,laissant voir la chemise blanche par une échancrure du col.",756,99.9,False,none,,,,,
 BO0624_84170,8395,14,36,Predication de saint Pierre.,834,94.7,False,none,,,,,
-BO0624_84170,8396,15,21,"22 mai 1883), n° 127.",851,91.9,False,none,,,,,
+BO0624_84170,8396,15,21,"22 mai 1883), n° 127.",851,91.9,False,none,,,,,Sec. XIX
 BO0624_84170,8397,16,38,Le Calvaire.,878,88.0,False,none,,,,,
 BO0624_84170,8398,17,3,g —La Vierge a la grenade.,906,98.0,False,none,,,,,
 BO0624_84170,8399,18,I,"l est represente en buste, tourne de trois-quarts vers la gauche, les regards diriges de ce cote. Ses cheveux blonds, tombant de chaque cote du visage maigre, aux yeux gris bleu, au nez court et fort, sont coiffes d''une toque brune. Par l'ouverture d'un manteau brun, on voit un justaucorps de meme couleur, orne de fourrure sur le devant, et largement decollete pour laisser passer la chemise blanche,bordee, autour du cou, d'un rang de petites perles.",954,99.9,False,none,DEBUCOURT P.L.,,,,
@@ -142,7 +142,7 @@ BO0624_84170,8521,140,1,"go ——Lionel d'Este, par Vittore PisANo.",2361,98.6,
 BO0624_84170,8522,141,161,"一 Rimini, par Matteo DE PasTI.",2376,93.3,False,none,,,,,
 BO0624_84170,8523,142,192,"Pandolfe Malatesta,par Matteo DE PasTI.",2395,95.0,False,none,,,,,
 BO0624_84170,8524,143,196,"TeTe imberbe de profl a gauche, couverte d'un capuchon.",2448,96.4,False,none,,,,,
-BO0624_84170,8525,144,197,"Louis XIl et Anne de Bretagne. Lyon, Nicolas et Jean de SAINr-PRIEsT, 1499.",2454,97.3,False,none,,,,,
+BO0624_84170,8525,144,197,"Louis XIl et Anne de Bretagne. Lyon, Nicolas et Jean de SAINr-PRIEsT, 1499.",2454,97.3,False,none,,,,,Sec. XV
 BO0624_84170,8526,145,200,"— Venus chatiant l'Amour,par Andrea Brrosco,",2495,95.3,False,none,,,,,
 BO0624_84170,8527,146,203,"—Bacchante et Satyre. Ecole de Padoue, fin du xve siecle ou commencement du xvie.",2527,97.5,False,none,,Scuola Padovana,,,
 BO0624_84170,8528,147,204,"La Vierge et lEnfant Jesus. Ecole de Padoue, fin du xve siecle.",2535,96.8,False,none,,Scuola Padovana,,,
@@ -151,7 +151,7 @@ BO0624_84170,8530,149,206,"206 — Hercule et Geryon, par MoDERNo. Nord de l'Ita
 BO0624_84170,8531,150,207,"## 207 — Hercule et Cacus, par MoDERNo.",2573,100.0,False,none,,,,,
 BO0624_84170,8532,151,208,"—David,vainqueur de Goliath,par MoDERNo.",2582,95.0,False,none,,,,,
 BO0624_84170,8533,152,209,Triomphe de la Pauvrete. Maitre anonyme,2592,95.0,False,none,,,,,
-BO0624_84170,8534,153,211,- Bacchante.Imitation de l'antique.Attribuee a Donatello(1386-1466).,2615,100.0,False,none,,,,,
+BO0624_84170,8534,153,211,- Bacchante.Imitation de l'antique.Attribuee a Donatello(1386-1466).,2615,100.0,False,none,,,,,Sec. XV
 BO0624_84170,8535,154,212,"du Nord, fin du xve siecle.",2626,92.6,False,none,,,,,
 BO0624_84170,8536,155,216,"S STAruETTE en bronze antique,a patine verte, representant Mercure au repos, assis,tenant la bourse.",2661,98.0,False,none,,,,,
 BO0624_84170,8537,156,217,Bronze antique romain a patine verte. Socle en marbre jaune de Sienne.,2670,97.1,False,none,,,,,
@@ -169,7 +169,7 @@ BO0624_84170,8548,167,226,"1 PLaQuE rectangulaire en bronze fondu a cire perdue,
 BO0624_84170,8549,168,227,"1 MorTiEr en bronze patine,decoré,au pour-",2754,95.3,False,none,,,,,
 BO0624_84170,8550,169,228,"1 MesurE en dinanderie. Elle est munie d'une anse laterale carrée et est ornee, au pourtour, de nervures saillantes terminees par des griffes. xve siecle.",2762,98.7,False,none,,,OGGETTI IN METALLO,,
 BO0624_84170,8551,170,229,一 de deux anses.,2769,88.2,False,none,,,,,
-BO0624_84170,8552,171,230,"A la partie superieure, une inscription famande et la date 1565.xv1e siecle.",2776,100.0,False,none,,,,,
+BO0624_84170,8552,171,230,"A la partie superieure, une inscription famande et la date 1565.xv1e siecle.",2776,100.0,False,none,,,,,Sec. XVI
 BO0624_84170,8553,172,231,"— PeTIT MorTIER en bronze patiné. Il presente, au pourtour, un écusson armorie ainsi quun buste d'homme vu de face inscrit dans un encadrement de feuilles et de feurs, soutenu talie, xvie siecle.",2780,93.9,False,none,,,,,
 BO0624_84170,8554,173,232,- Tere de jeune garcon en cuivre repousse et polychrome. ll est coiffe de cheveux boucles,2787,97.7,False,none,,,,,
 BO0624_84170,8555,174,233,"—Deux sTATuETTEs en bronze patine,prove-",2792,95.0,False,none,,,,,

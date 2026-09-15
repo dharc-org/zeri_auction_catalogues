@@ -1,12 +1,12 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83979,31789,1,1656,1746.,14,61.5,False,positional,LARGILLIERRE,,,,
+BO0624_83979,31789,1,1656,1746.,14,61.5,False,positional,LARGILLIERRE,,,,Sec. XVIII
 BO0624_83979,31790,2,I,"l est represente, debout, jusqu'aux genoux,le corps de trois quarts a gauche,la tete tournee de trois quarts a droite et coiffee de la haute perruque qui encadre son visage énergique et spirituel. Il porte une armure a ornements dores; sur la cuirasse, et comme descendant de l'epauliere gauche, est suspendue une croix de Saint-Louis. Une cravate de dentelle joue sur le bord de la cuirasse.",18,99.9,False,positional,LARGILLIERRE,,OGGETTI VARI,,
 BO0624_83979,31791,3,I1,"est debout,le corps de trois quarts a droite,la tete tournee de face,le visage expressif et spirituel, encadré de la haute perruque dont la poudre s'est éparpillée en neige sur les épaules.",39,99.2,False,positional,LARGILLIERRE,,,,
 BO0624_83979,31792,4,I,"l est vetu d'un habit en velours brun,a basques amples et a manches larges, dont les parements sont abondantes et souples, collete d'une cravate rose. Le costume est complete d'un manteau jete sur le bras",41,99.8,False,positional,LARGILLIERRE,,,,
 BO0624_83979,31793,5,I,"l cause, et peut-etre a-t-il plaisir a s'ecouter causer. Debout,le corps de trois quarts a droite,il tourne la tete de face, en une attitude elegante. Son visage souriant s'encadre de la perruque basse, poudree a frimas, et dont les boucles, tres soignees,viennent poser sur les epaules. Son cou se degage de tres riches dentelles que fait a peine croiser une cravate de soie rose tendre savamment denouee.Pour costume,un habit de drap brun a fines broderies d'arabesques d'or, et un grand manteau de velours groseille, ou mieux une draperie dont il s'enveloppe de la plus galante facon et qu'il semble retenir de sa main droite appuyee a la hanche. De la main gauche ouverte et portee en avant,il souligne,les doigts expres- sifs,les intentions de son discours.",79,99.9,False,positional,LARGILLIERRE,,,,
 BO0624_83979,31794,6,5,## LARGILLIERRE,92,100.0,False,title_direct,LARGILLIERRE,,,,
 BO0624_83979,31795,7,6,La Femme a leillet.Portrait presume de Mme de Parabere.,119,98.2,False,positional,LARGILLIERRE,,,,
-BO0624_83979,31796,8,1733,1808.,147,61.5,False,positional,ROBERT,,,,
+BO0624_83979,31796,8,1733,1808.,147,61.5,False,positional,ROBERT,,,,Sec. XIX
 BO0624_83979,31797,9,8,-Le Chateau de Maintenon.,170,95.8,False,positional,ROBERT,,,,
 BO0624_83979,31798,10,9,## ROBERT,181,100.0,False,title_direct,ROBERT,Scuola di Hubert Robert,,,
 BO0624_83979,31799,11,12,attributs militaires.,227,93.0,False,positional,VALLAYER-COSTER,,,,

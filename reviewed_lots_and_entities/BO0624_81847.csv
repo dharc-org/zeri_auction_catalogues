@@ -21,9 +21,9 @@ BO0624_81847,152765,19,6,"MASCARINI. -- Lettura, pastello in cornice dorata, 50 
 BO0624_81847,152766,20,7,"FARINA I. —Barche a secco, dipinto su tavola in cornice dorata, 44 x 32.",42,98.5,False,none,,,,,
 BO0624_81847,152767,21,8,"SCUOLA FRANCESE, Sec. XVIHl. —Ritratto di cavaliere, dipinto",43,98.2,False,none,,,,,
 BO0624_81847,152768,22,9,"su tela, 82x64. IGNOrO, Sec. XVIl.— Testa di Michelangelo, dipinto su tela, 48x37.",45,89.6,False,none,CARAVAGGIO,,,,
-BO0624_81847,152769,23,10,TAVOLA da Tea in stile Bolognese del Sec. XVI.,46,96.7,False,title_direct,,,TAVOLE,,
+BO0624_81847,152769,23,10,TAVOLA da Tea in stile Bolognese del Sec. XVI.,46,96.7,False,title_direct,,,TAVOLE,,Sec. XVI
 BO0624_81847,152770,24,11,TAVOLINO da Tea forma esagona a cinque colonne.,47,96.8,False,title_direct,,,ARREDAMENTI,,
-BO0624_81847,152771,25,42,TAVOLINO in noce da Tea. Piano ottagono stile Sec. XVI.,48,97.2,False,title_direct,,,ARREDAMENTI,,
+BO0624_81847,152771,25,42,TAVOLINO in noce da Tea. Piano ottagono stile Sec. XVI.,48,97.2,False,title_direct,,,ARREDAMENTI,,Sec. XVI
 BO0624_81847,152772,26,13,"MINIATURA su avorio.-- Signora Inglese, cornicetta nera.",49,97.1,False,none,,,MINIATURE,,
 BO0624_81847,152773,27,15,14.1 DUE VASETTI di scavo Etruschi. LOTTO di quattro Ciotole di scavo Etrusche.,51,72.1,False,none,,,,,
 BO0624_81847,152774,28,16,LOTTO di tre Vasi Etruschi di scavo.,52,95.9,False,none,,,VASI,,
@@ -46,15 +46,15 @@ BO0624_81847,152790,44,11,"Lago Maggiore, dipinto su tela in cor-",71,96.0,False
 BO0624_81847,152791,45,33,DUE SPECCHIERE in legno dorato.,72,95.2,False,none,,,,,
 BO0624_81847,152792,46,34,"SEDIA Savonarola, noce scolpito.",73,95.2,False,none,,,,,
 BO0624_81847,152793,47,14,35.,74,57.1,False,none,,,,,
-BO0624_81847,152794,48,15,"VAsO maiolica di Pesaro con manico, Sec. XVII.",75,96.6,False,none,,,VASI,,
+BO0624_81847,152794,48,15,"VAsO maiolica di Pesaro con manico, Sec. XVII.",75,96.6,False,none,,,VASI,,Sec. XVII
 BO0624_81847,152795,49,36,"ALBERELLO maiolica di Caltagirone, Sec. XVHI.",76,96.6,False,none,,,,,
 BO0624_81847,152796,50,38,"FRANCESCO GUARDI (Imitazione da). —Capricci, due dipinti su tela in cornice dorata, 25 x 44 ciasc. 37.IGNOTO. - Architetture, due dipinti su tela con cornici dorate.",77,73.7,False,none,GUARDI FRANCESCO,,CORNICI,,
-BO0624_81847,152797,51,39,"VAN THULDEN THEODORO (Fiam.), Sec. XVII. - Soggetto stori-",79,97.0,False,none,,,,,
+BO0624_81847,152797,51,39,"VAN THULDEN THEODORO (Fiam.), Sec. XVII. - Soggetto stori-",79,97.0,False,none,,,,,Sec. XVII
 BO0624_81847,152798,52,20,"co, dipinto su tela in cornice dorata, 35 x 40.",80,96.7,False,none,,,,,
 BO0624_81847,152799,53,21,"40.PANNINI G. BATT.,SeC. XVII.— Paesaggio con rovine, dipinto",81,97.3,False,none,,,,,
 BO0624_81847,152800,54,22,"su tela in cornice dorata,68x 40.",82,95.5,False,none,,,,,
-BO0624_81847,152801,55,41,"G. B. SALVI (detto il Sassoferrato), Sec. XVII. -Testa della Ver- gine, dipinto su tela, cornice dorata.",83,74.2,False,none,,,,,
-BO0624_81847,152802,56,42,"F. GILLMANS, Fiam., Sec. XVII. — Natura morta, dipinto su tavola in cornice dorata, 25 x 34.",85,98.2,False,none,,,,,
+BO0624_81847,152801,55,41,"G. B. SALVI (detto il Sassoferrato), Sec. XVII. -Testa della Ver- gine, dipinto su tela, cornice dorata.",83,74.2,False,none,"SASSOFERRATO, GIOV. BATTISTA SALVI",,,,Sec. XVII
+BO0624_81847,152802,56,42,"F. GILLMANS, Fiam., Sec. XVII. — Natura morta, dipinto su tavola in cornice dorata, 25 x 34.",85,98.2,False,none,,,,,Sec. XVII
 BO0624_81847,152803,57,43,"SCUOLA VENETA, Sec. XVIl. -La Cena in Emaus, dipinto su tavola in cornice dorata, 30 x 40. 45.FEDERICO MICHELE. Grotta azzurra, dipinto su tela, cornice nera.",86,71.2,False,none,,Scuola Veneta,,,
 BO0624_81847,152804,58,44,"IGNOTO SCUOLA FRANCESE, Sec. XVIll. — Ritratto di Dama, tela con cornice dorata.",88,98.0,False,none,,,,,
 BO0624_81847,152805,59,29,"46.CORRADI HERMAN.L'Etna visto da Catania, dipinto su tela in cornice dorata.",89,98.0,False,none,,,,,
@@ -66,9 +66,9 @@ BO0624_81847,152810,64,52,"DUE VASI vecchia Cina, famiglia verde.",95,96.0,False
 BO0624_81847,152811,65,53,DUE VASI tipo Delft.,96,92.7,False,none,,,VASI,,
 BO0624_81847,152812,66,2,54.BARZANTI LICINIO.—,97,95.0,False,none,,,,,
 BO0624_81847,152813,67,3,"Riviera di Levante, dipinto su tela in cornice dorata.",98,98.1,False,none,,,,,
-BO0624_81847,152814,68,55,"CASSA DA CORREDO noce scolpito, Sec. XVII.",99,96.3,False,none,,,,,
+BO0624_81847,152814,68,55,"CASSA DA CORREDO noce scolpito, Sec. XVII.",99,96.3,False,none,,,,,Sec. XVII
 BO0624_81847,152815,69,56,"POLTRONA DANTESCA noce scolpito, sedile e schienale in cuoio.",100,97.5,False,none,,,POLTRONE,,
-BO0624_81847,152816,70,57,"DUE POLTRONE noce a bracciuoli con fiamme dorate, sedile cuoio e schienale pure in cuoio bulinato, stile Sec. XVI.",101,70.1,False,none,,,POLTRONE,,
+BO0624_81847,152816,70,57,"DUE POLTRONE noce a bracciuoli con fiamme dorate, sedile cuoio e schienale pure in cuoio bulinato, stile Sec. XVI.",101,70.1,False,none,,,POLTRONE,,Sec. XVI
 BO0624_81847,152817,71,58,"RAFFAELLO SANZIO (Copia da). —-La Madonna della Seggiola, dinpito su tela in cornice scolpita e dorata, diametro 70.",104,68.7,False,none,SANZIO RAFFAELLO,,,,
 BO0624_81847,152818,72,59,"TORO A. — Testa di ragazza, dipinto in cornice dorata.",105,97.0,False,none,,,,,
 BO0624_81847,152819,73,60,"TORO A. -- Testa di ragazza, dipinto in cornice dorata.",106,97.0,False,none,,,,,
@@ -104,14 +104,14 @@ BO0624_81847,152848,102,20,nice dorata.,148,88.0,False,none,,,,,
 BO0624_81847,152849,103,94,"ZENO E.— Chiesa della Salute a Venezia, dipinto su tela in cor-",149,97.5,False,none,,,,,
 BO0624_81847,152850,104,22,"92.ZENO E.—T Torcello, Venezia, dipinto su tela in cornice dorata.",150,97.6,False,none,,,,,
 BO0624_81847,152851,105,23,"del 7oo, dipinto su tavola in cornice dorata.",151,96.6,False,none,,,,,
-BO0624_81847,152852,106,93,"LONGHI PIETRO (maniera di), Sec. XVIH. -Scenette veneziane",152,97.2,False,none,,,,,
+BO0624_81847,152852,106,93,"LONGHI PIETRO (maniera di), Sec. XVIH. -Scenette veneziane",152,97.2,False,none,LONGHI PIETRO,,,,
 BO0624_81847,152853,107,94,"SCUOLA NAPOLETANA, Sec.XVH.—La Circoncisione, dipinto su tela applicata in cornice dorata, 35 x 65.",153,98.4,False,none,,Scuola Napoletana,,,
 BO0624_81847,152854,108,95,"TIZIANO VECELLIO (Copia antica da). — La Venere, dipinto su tela in cornice dorata, 21 x 29.",154,75.7,False,none,TIZIANO VECELLIO,,,,
-BO0624_81847,152855,109,96,"STANZIONE MASSIMO, Sec. XVII. —Filosofo, tela cornice dorata, 1.20 ×97.",156,97.7,False,none,,,,,
-BO0624_81847,152856,110,97,"NEGRETTI JACOPO (Scuola di), detto il PALMA, Sec. XVI. Martirio di S. Agata, rame, cornice scolpita, 20 x 30.",158,67.1,False,none,,,,,
+BO0624_81847,152855,109,96,"STANZIONE MASSIMO, Sec. XVII. —Filosofo, tela cornice dorata, 1.20 ×97.",156,97.7,False,none,,,,,Sec. XVII
+BO0624_81847,152856,110,97,"NEGRETTI JACOPO (Scuola di), detto il PALMA, Sec. XVI. Martirio di S. Agata, rame, cornice scolpita, 20 x 30.",158,67.1,False,none,,,,,Sec. XVI
 BO0624_81847,152857,111,98,"CRISMI PIER FRANCESCO. -- Brianzola, tela corn. dor., 74 x 62.",159,97.2,False,none,,,,,
 BO0624_81847,152858,112,99,"SCUOLA NAPOLETANA, Sec. XVI-XVII. —Gruppi di Putti, due dipinti su tela en pendant, cornici dorate, 100 x 60.",161,66.7,False,none,,Scuola Napoletana,CORNICI,,
-BO0624_81847,152859,113,100,"NICOLA MOLENAAR, olandese, Sec. XVIII. —Paesaggio, dipinto",162,96.3,False,none,MOLENAER CLAAS,,,,
+BO0624_81847,152859,113,100,"NICOLA MOLENAAR, olandese, Sec. XVIII. —Paesaggio, dipinto",162,96.3,False,none,MOLENAER CLAAS,,,,Sec. XVIII
 BO0624_81847,152860,114,10,"su tavola con macchiette, cornice dorata, 24 x 33.",163,96.9,False,none,,,,,
 BO0624_81847,152861,115,104,COPERTA in velluto rosso.,164,92.3,False,none,,,,,
 BO0624_81847,152862,116,12,COPERTA di broccato verde con frangia.,165,96.1,False,none,,,,,
@@ -138,8 +138,8 @@ BO0624_81847,152882,136,32,"tavola a fondo oro in cornice applicata, dim. 60 x 3
 BO0624_81847,152883,137,147,"SCUOLA PISANA, Sec. XIV.—L'Adorazione nell'Orto, dipinto",186,96.3,False,none,,Scuola Pisana,,,
 BO0624_81847,152884,138,34,"su tavola a forma lunetta, in cornice dorat, 34 x 24.",187,97.1,False,none,,,,,
 BO0624_81847,152885,139,118,"SCUOLA PISANA, Sec. XIV.—La Pieta con Angeli,dipinto su tavola a forma lunetta, in cornice dorata, 34 x 24.",188,66.2,False,none,,Scuola Pisana,,,
-BO0624_81847,152886,140,119,"SCUOLA TEDESGA, Sec. XVI. S. Gregorio, tela applicata alla tavola, cornice dorata, 41 x 27. Ritratto di Gentiluomo, cornice antica, tavola 60 x 50.",190,74.4,False,none,,,,,
-BO0624_81847,152887,141,120,"SCUOLA DI CARRUCCI JACOPO, detto il PONTORMO, Sec. XVI.",193,96.2,False,none,,,,,
+BO0624_81847,152886,140,119,"SCUOLA TEDESGA, Sec. XVI. S. Gregorio, tela applicata alla tavola, cornice dorata, 41 x 27. Ritratto di Gentiluomo, cornice antica, tavola 60 x 50.",190,74.4,False,none,,,,,Sec. XVI
+BO0624_81847,152887,141,120,"SCUOLA DI CARRUCCI JACOPO, detto il PONTORMO, Sec. XVI.",193,96.2,False,none,,,,,Sec. XVI
 BO0624_81847,152888,142,124,FORNITURA di cinque vasi in porcellana Delft.,195,95.7,False,none,,,VASI,,
 BO0624_81847,152889,143,123,"COLONNA marmo verde di Prato. SORTINI SAVERIO.Inutile attesa, statua in bronzo.",197,75.6,False,none,,,,,
 BO0624_81847,152890,144,124,"FIASCA Persiana. TAPPETINO antico in velluto di Scutari. PIVIALE in broccato veneziano, Sec. XVIll.",200,58.4,False,none,,,,,
@@ -151,11 +151,11 @@ BO0624_81847,152895,149,11,130.GRUBASA.-,205,88.0,False,none,,,,,
 BO0624_81847,152896,150,129,"GRUBAS A. — Sala del maggior Consiglio di Venezia, dipinto su tela in cornice dorata, 57x 79.",206,97.8,False,none,,,,,
 BO0624_81847,152897,151,134,"MINIATURA su avorio firmata M. Gilbert.— Ritratto di signora inglese, cornice nera.",207,97.5,False,none,,,MINIATURE,,
 BO0624_81847,152898,152,14,"Chiesa della Salute a Venezia, dipinto su tela in cornice dorata, 57 x 79.",208,97.9,False,none,,,,,
-BO0624_81847,152899,153,132,"MINIATURA su avorio.—Dama inglese, cornicetta nera. IGNOTO VENEZIANO, Sec. XVII. —Soggetto storico, tela cornice",210,68.7,False,none,,,MINIATURE,,
+BO0624_81847,152899,153,132,"MINIATURA su avorio.—Dama inglese, cornicetta nera. IGNOTO VENEZIANO, Sec. XVII. —Soggetto storico, tela cornice",210,68.7,False,none,,,MINIATURE,,Sec. XVII
 BO0624_81847,152900,154,133,"SCUOLA INGLESE.Ritratto di Dama, tela cornice dorata, 55 ×70.",211,96.6,False,none,,,,,
 BO0624_81847,152901,155,18,"policroma, 80 x 62.",212,91.9,False,none,,,,,
-BO0624_81847,152902,156,136,"TAVOLINO da Tea in stile Bolognese, Sec. XVI. WOUWERMANS FILIPPO (Scuola di), Sec. XVII.—L L'inseguimento, cornice guilloche su tela, 26 × 20.",214,79.5,False,title_direct,WOUWERMAN PHILIPS,Scuola Bolognese,ARREDAMENTI,,
-BO0624_81847,152903,157,137,"TAvOLINO in noce da Tea, piano ottagono, stile Sec. XVI. BONIVENTO EUGENIO.—Venezia nel 700, dipinto ovale in cor-",216,66.7,False,none,,,ARREDAMENTI,,
+BO0624_81847,152902,156,136,"TAVOLINO da Tea in stile Bolognese, Sec. XVI. WOUWERMANS FILIPPO (Scuola di), Sec. XVII.—L L'inseguimento, cornice guilloche su tela, 26 × 20.",214,79.5,False,title_direct,WOUWERMAN PHILIPS,Scuola Bolognese,ARREDAMENTI,,Sec. XVI
+BO0624_81847,152903,157,137,"TAvOLINO in noce da Tea, piano ottagono, stile Sec. XVI. BONIVENTO EUGENIO.—Venezia nel 700, dipinto ovale in cor-",216,66.7,False,none,,,ARREDAMENTI,,Sec. XVI
 BO0624_81847,152904,158,138,"DUE maschere veneziane baute, maiolica di Bassano.",217,96.0,False,none,BASSANO GIACOMO,,,,
 BO0624_81847,152905,159,24,nice dorata.,218,88.0,False,none,,,,,
 BO0624_81847,152906,160,25,nice dorata.,219,88.0,False,none,,,,,
@@ -170,7 +170,7 @@ BO0624_81847,152914,168,149,"CALAMAIO in ottone, stile Sec. XVIlI.",231,94.4,Fal
 BO0624_81847,152915,169,150,MENSOLA in ebano dipinto.,232,92.3,False,none,,,,,
 BO0624_81847,152916,170,154,DUE VASETTI con coperchio antichi con loro mensolette peluche.,237,96.8,False,none,,,,,
 BO0624_81847,152917,171,153,DUE CHOPS artistici per birra. Arte Bavarese. VAsO cristallo Boemia colorato rosa. Vaso ceramica fantasia Cantagalli. Vaso cristallo a boccia color opale.,239,82.2,False,none,,,VASI,,
-BO0624_81847,152918,172,154,"VASO maiolica decorata. Arte Paesana. FOsSATI. —Paese, tavoletta cornice dorata. ALBERELLO maiolica Venezia, decorazione margherite, Secolo XVII.",242,61.7,False,none,,,VASI,,
+BO0624_81847,152918,172,154,"VASO maiolica decorata. Arte Paesana. FOsSATI. —Paese, tavoletta cornice dorata. ALBERELLO maiolica Venezia, decorazione margherite, Secolo XVII.",242,61.7,False,none,,,VASI,,Sec. XVII
 BO0624_81847,152919,173,157,"SALVETTI ANTONIO.-Interno di Chiesa. PROSDOCIMI ALBERTO.-Pesca in laguna,acquerello, cornice dorata, 34 x 23. COsTA GIOVANNI. — Paesaggio Livornese, tavoletta cornice dor.",244,59.5,False,none,,,,,
 BO0624_81847,152920,174,160,"CASANOVA C. - Sole di gennaio, in cornice dorata, 16 x 22.",246,96.3,False,none,,,,,
 BO0624_81847,152921,175,464,"CASANOVA C. - Nel silenzio degli alti pascoli, dipinto in cornice dorata, 22 x 16.",247,97.4,False,none,,,,,
@@ -191,20 +191,20 @@ BO0624_81847,152935,189,172,"SASSI PIETRO.—Bosco, tela cornice dorata.",262,95
 BO0624_81847,152936,190,2,173.AGAZZI ERMENEGILDO.,263,95.7,False,none,,,,,
 BO0624_81847,152937,191,3,"Mare mosso,dipinto su tela in cornice dorata, 70x 91.",264,98.1,False,none,,,,,
 BO0624_81847,152938,192,4,"174.AGAZZI ERMENEGILDO.Rioiera, dipinto su tela in cornice dorata, 60 x 80.",265,98.6,False,none,,,,,
-BO0624_81847,152939,193,175,"TAvOLINO da Tea in noce piano ottagono, stile Sec. XVI.",266,96.3,False,none,,,ARREDAMENTI,,
-BO0624_81847,152940,194,167,"TAvOLINO da Tea in stile Bolognese, Sec. XVI.",268,95.5,False,none,,,ARREDAMENTI,,
+BO0624_81847,152939,193,175,"TAvOLINO da Tea in noce piano ottagono, stile Sec. XVI.",266,96.3,False,none,,,ARREDAMENTI,,Sec. XVI
+BO0624_81847,152940,194,167,"TAvOLINO da Tea in stile Bolognese, Sec. XVI.",268,95.5,False,none,,,ARREDAMENTI,,Sec. XVI
 BO0624_81847,152941,195,478,"POLTRONA Dantesca noce scolpito, sedile e schienale cuoio.",270,96.6,False,none,,,POLTRONE,,
 BO0624_81847,152942,196,177,"TAvOLINO da Tea, forma esagona a cinque colonne.",272,95.8,False,none,,,ARREDAMENTI,,
 BO0624_81847,152943,197,179,"POLTRONA Dantesca noce scolpito, sedile e schienale cuoio.",274,96.6,False,none,,,POLTRONE,,
-BO0624_81847,152944,198,180,"TAvOLA in noce da centro, forma quadrata, stile del Sec. XVI.",275,96.6,False,none,,,,,
-BO0624_81847,152945,199,181,"DUE poltrone noce a braccioli con fimme dorate e sedile cuoio e schienale pure in cuoio bulinato, stile Sec. XVI.",276,71.2,False,none,,,POLTRONE,,
+BO0624_81847,152944,198,180,"TAvOLA in noce da centro, forma quadrata, stile del Sec. XVI.",275,96.6,False,none,,,,,Sec. XVI
+BO0624_81847,152945,199,181,"DUE poltrone noce a braccioli con fimme dorate e sedile cuoio e schienale pure in cuoio bulinato, stile Sec. XVI.",276,71.2,False,none,,,POLTRONE,,Sec. XVI
 BO0624_81847,152946,200,182,ARMADIO in noce scolpito genovese del Sec. XVHl.,278,95.8,False,none,,,,,
 BO0624_81847,152947,201,183,"LIBRERIA in noce scolpito con cariatidi, a quattro sportelli con griglie in ferro a borchie dorate alta 125, lunga 230, prof. 0.40.",279,98.4,False,none,,,,,
 BO0624_81847,152948,202,184,"PIANETA completa ricamata, Sec. XVIll. due dalmatiche, due pianete, due stole e manopole, Sec. xvIHI.",281,76.3,False,none,,,,,
 BO0624_81847,152949,203,185,"PARAMENTO sacro in lampasso rosso e bianco, composto di:",282,96.4,False,none,,,,,
 BO0624_81847,152950,204,186,PILA in marmo bardiglio.,283,92.0,False,none,,,,,
 BO0624_81847,152951,205,187,"VAsO cilindrico maiolica di Venezia, con 2 medaglioni, Sec.XVII.",284,96.8,False,none,,,VASI,,
-BO0624_81847,152952,206,188,"ALBERELLO maiolica di Trapani con 2 medaglioni, Sec. XVII.",285,96.5,False,none,,,,,
+BO0624_81847,152952,206,188,"ALBERELLO maiolica di Trapani con 2 medaglioni, Sec. XVII.",285,96.5,False,none,,,,,Sec. XVII
 BO0624_81847,152953,207,189,"GALLI DA BIBBIENA, Sec. XVIl. —Paesaggio con rovine, dipinto su tela, cornice scolpita e dorata, 92 x 1.70.",286,98.0,False,none,,,,,
 BO0624_81847,152954,208,190,"SCUOLA DI UBALDINI DOMENICO detto il PULIGO, Sec. XV-",287,96.2,False,none,,,,,
 BO0624_81847,152955,209,191,"IGNOTO FIAMMINGO. Sec. XVI.-Madonna del Silenzio, su ta- vola, cornice guilloche, 100 x 70.",289,73.9,False,none,,,,,
@@ -218,10 +218,10 @@ BO0624_81847,152962,216,196,"SCUOLA FIORENTINA, Sec. XIV.—San Marco e San Giov
 BO0624_81847,152963,217,198,"CLAESZ PIETER, Sec. XVIl.—Natura morta, dipinto su tavola in cornice guilloche, dim. 63 x 45.",300,97.7,False,none,,,,,
 BO0624_81847,152964,218,2,Vedi illustrazione.,301,94.7,False,none,,,,,
 BO0624_81847,152965,219,3,"dipinto su tavola, cornice dorata, 39 x 56. Vedi illustrazione.",302,98.3,False,none,,,,,
-BO0624_81847,152966,220,199,"JOSSE VAN CRAESBEEK (Fiammingo), Sec. XVII. —La rissa,",303,95.9,False,none,,,,,
+BO0624_81847,152966,220,199,"JOSSE VAN CRAESBEEK (Fiammingo), Sec. XVII. —La rissa,",303,95.9,False,none,VAN CRAESBEECK JOOS,,,,Sec. XVII
 BO0624_81847,152967,221,200,"HUBERT ROBERT, Sec. XVIHI.—Nello studio del pittore,tela",304,96.4,False,none,ROBERT HUBERT,,,,
 BO0624_81847,152968,222,6,"cornice dorata, 78 x 63. Vedi illustrazione.",305,97.6,False,none,,,,,
-BO0624_81847,152969,223,204,"MORONI G. B., Sec. XVI. — Ritratto d’uomo, dipinto su tela in",306,96.4,False,none,,,,,
+BO0624_81847,152969,223,204,"MORONI G. B., Sec. XVI. — Ritratto d’uomo, dipinto su tela in",306,96.4,False,none,,,,,Sec. XVI
 BO0624_81847,152970,224,8,"cornice dorata, 67 × 53.",307,95.2,False,none,,,,,
 BO0624_81847,152971,225,9,"202.ZAMPIERI DOMENICO,detto il DOMENICHINO,Sec.XVI-XVII. Visione di S. Teresa, tela con cornice, 1.30 x 95.",308,99.0,False,none,,,,,
 BO0624_81847,152972,226,10,"re, su tela cornice dorata, 71 x 62.",309,95.7,False,none,,,,,
@@ -252,7 +252,7 @@ BO0624_81847,152996,250,223,DUE vasetti inglesi.,335,90.5,False,none,,,,,
 BO0624_81847,152997,251,224,VAsO porcellana colorato con coperchio R. W.,336,95.5,False,none,,,VASI,,
 BO0624_81847,152998,252,225,VASETTO ceramica Cantagalli.,337,93.1,False,none,,,,,
 BO0624_81847,152999,253,226,"MINIATURA. — Madonna col bambino, in cornice.",342,95.2,False,none,,,MINIATURE,,
-BO0624_81847,153000,254,227,"CASSETTINA in noce scolpito, Sec. XVI.",343,94.6,False,none,,,,,
+BO0624_81847,153000,254,227,"CASSETTINA in noce scolpito, Sec. XVI.",343,94.6,False,none,,,,,Sec. XVI
 BO0624_81847,153001,255,228,LOTTO di 4 Vasi Etruschi di scavo.,344,94.3,False,none,,,VASI,,
 BO0624_81847,153002,256,229,"MINIATURA su avorio. — Il Re di Roma, cerchietto bronzo dor.",345,96.5,False,none,,,MINIATURE,,
 BO0624_81847,153003,257,230,ALZATA da tavola bronzo e cristallo.,346,94.6,False,none,,,,,
@@ -268,30 +268,30 @@ BO0624_81847,153012,266,238,"SAN MALATO V. -Uva, dipinto in cornice dorata. CHAH
 BO0624_81847,153013,267,239,"CONTI TITO. — Testa di Giovanetta, tavoletta cornice dorata.",357,96.5,False,none,,,,,
 BO0624_81847,153014,268,240,PICCOLA scrivania da signora in noce intarsiata del Sec. XVIHl.,358,96.8,False,none,,,,,
 BO0624_81847,153015,269,244,TAVOLINA da Tea forma esagona a cinque colonne.,359,95.8,False,title_direct,,,TAVOLE,,
-BO0624_81847,153016,270,242,"TAVOLINA da Tea stile Bolognese, Sec. XVI. .",360,95.1,False,title_direct,,,TAVOLE,,
+BO0624_81847,153016,270,242,"TAVOLINA da Tea stile Bolognese, Sec. XVI. .",360,95.1,False,title_direct,,,TAVOLE,,Sec. XVI
 BO0624_81847,153017,271,243,"POLTRONA Dantesca noce scolpito, sedile e schienale cuoio bu-",361,96.7,False,none,,,POLTRONE,,
 BO0624_81847,153018,272,244,"DUE piccole sedie a rocchetto dette da Balia, sedile coperto in cuoio. linato.",362,92.5,False,none,,,SEDIE,,
 BO0624_81847,153019,273,245,"SERIE di 8 Maschere Italiane, formato piccolo, maiolica di Bas- sano.",364,93.0,False,none,,,,,
 BO0624_81847,153020,274,246,"DUE MASCHERE veneziane, Baute grandi,maiolica di Bassano.",366,96.5,False,none,BASSANO GIACOMO,,,,
 BO0624_81847,153021,275,26,247.PIVIALE VENEZIANO in broccato del Sec. XVIll.,367,96.9,False,none,,,,,
-BO0624_81847,153022,276,248,"CAVALLINO BERNARDO, Sec. XVII. -Incendio di Sodoma, su tela cornice dorata, 48 x 80..",368,97.5,False,none,,,,,
+BO0624_81847,153022,276,248,"CAVALLINO BERNARDO, Sec. XVII. -Incendio di Sodoma, su tela cornice dorata, 48 x 80..",368,97.5,False,none,,,,,Sec. XVII
 BO0624_81847,153023,277,249,"VELASQUEZ DIEGO (Scuola di), Sec. XVIl. - Ritratto di giovinetto, su tela cornice dorata, 55x 40.",369,97.8,False,none,,Scuola di Velasquez,,,
-BO0624_81847,153024,278,250,"MOLENAER J. M. (Ol.), Sec. XVII. Interno con figure, dipinto su tavola in cornice dorata, dim. 49 x 41. LORENZETTI AMBROGIO (Scuola di), Sec. XIV.—La Madonna col Bambino, dipinto su tavola a fondo oro, 48 x 34. POTTER PAOLO (Ol.), Sec. XVIl. —Animali, dipinto su tavola in cornice guilloche, dim. 44 x 32.",371,52.7,False,none,MOLENAER JAN MIENSE,Scuola di Lorenzetti,,,
-BO0624_81847,153025,279,253,"SCUOLA GIOTTESCA, Sec. XIV. —Cristo in croce con la Madonna e San Giovanni, dipinto su tavola a fondo oro 43 x 24, con tabernacolo stile Gotico. JEAN GOSSAERT detto de MABUSE (Fiammingo), Sec. XVI. La Vergine col Bambino, su tavola, cornice dorata, 66 x 49. Vedi illustrazione. INNOCENZO DA IMOLA,Sec.XV.— Madonna con Bambino e San Giovanni, dipinto su tela in cornice dorata, 80 x 65.",373,54.4,False,none,"GOSSAERT JAN, MABUSE",Scuola di Giotto,,,
+BO0624_81847,153024,278,250,"MOLENAER J. M. (Ol.), Sec. XVII. Interno con figure, dipinto su tavola in cornice dorata, dim. 49 x 41. LORENZETTI AMBROGIO (Scuola di), Sec. XIV.—La Madonna col Bambino, dipinto su tavola a fondo oro, 48 x 34. POTTER PAOLO (Ol.), Sec. XVIl. —Animali, dipinto su tavola in cornice guilloche, dim. 44 x 32.",371,52.7,False,none,MOLENAER JAN MIENSE,Scuola di Lorenzetti,,,Sec. XVII
+BO0624_81847,153025,279,253,"SCUOLA GIOTTESCA, Sec. XIV. —Cristo in croce con la Madonna e San Giovanni, dipinto su tavola a fondo oro 43 x 24, con tabernacolo stile Gotico. JEAN GOSSAERT detto de MABUSE (Fiammingo), Sec. XVI. La Vergine col Bambino, su tavola, cornice dorata, 66 x 49. Vedi illustrazione. INNOCENZO DA IMOLA,Sec.XV.— Madonna con Bambino e San Giovanni, dipinto su tela in cornice dorata, 80 x 65.",373,54.4,False,none,"GOSSAERT JAN, MABUSE",Scuola di Giotto,,,Sec. XIV
 BO0624_81847,153026,280,256,"ROTTENHAMER JEAN (Ted.), Sec. XVI.-Adamo ed Eva nel Paradiso Terrestre, dipinto su tavola in cornice nera, dimensione 45×35. Vedi illustrazione. COSSA FRANCESCO, Sec. XV.-San Sebastiano, dipinto su tavola a fondo paese, in cornice dorata, applicata, 79 x 47. TIZIANO VECELLIO, Sec. XV-XVI. Madonna col Bambino, dipinto su tavola, cornice dorata, 37x 30. (Si presume possa essere il bozzetto di un quadro noto, esistente a Milano).",378,57.7,False,none,TIZIANO VECELLIO,,,,
 BO0624_81847,153027,281,259,"DUCCIO DI BONINSEGNA, Sec. XIV.—",379,93.3,False,none,,,,,
-BO0624_81847,153028,282,260,"FRA DIAMANTE, Sec. XV. --Madonna con Bambino sul Trono, dipinto su tavola in fondo oro con corn. a tabernacolo, 98 x 55. Vedi illustrazione.",380,98.5,False,none,,,,,
+BO0624_81847,153028,282,260,"FRA DIAMANTE, Sec. XV. --Madonna con Bambino sul Trono, dipinto su tavola in fondo oro con corn. a tabernacolo, 98 x 55. Vedi illustrazione.",380,98.5,False,none,,,,,Sec. XV
 BO0624_81847,153029,283,12,"Madonna col Bambino, dipinto su tavola a fondo oro in cornice policromata, 35 x 27.",381,98.2,False,none,,,,,
 BO0624_81847,153030,284,13,"Madonna con Bambinoe Santi, dipinto su tavola a fondo oro, in cornice policromata,",382,98.1,False,none,,,,,
 BO0624_81847,153031,285,264,"MATTEO DI GIOVANNI, Scc. XV.34×21.",383,93.9,False,none,,,,,
-BO0624_81847,153032,286,263,"PARAMENTO sacro completo di:N. 2 dalmatiche, Pianeta,Piviale, Stole, Manopole e Copricalice in velluto rosso e gallone d'oro, Sec. XVI. BROCCATELLO rosso Sec. XVIl, complessivi metri 100.70 in 39 pezzi.",387,79.0,False,none,,,,,
-BO0624_81847,153033,287,264,"SALA da pranzo in stile del Sec. XVI, noce antico scolpito com- posta di: Mobile cristalliera, alto 235 x 170;-Credenzone, alto 120 x 455; Credenza piccola, alta 100 x 110; Tavola con piedi a vaso, lunga 208 × 85; 2 Poltrone e 6 Sedie con schienale e sedile pelle.",390,86.1,False,none,,,OGGETTI VARI,,
-BO0624_81847,153034,288,265,"BUREAU-TRUMEAU con ribalta e specchi in radica massiccia con cassetti e segreti, Sec. XVII.",391,75.7,False,none,,,SPECCHI,,
-BO0624_81847,153035,289,266,"CAMERA DA LETTO in lacca verde, stile veneziano Sec. XVIII, composta di: 2 letti, 2 comodini, como con specchiera, toilette con piccola specchiera, 2 sedie, poltroncina, tavolino.",393,80.6,False,none,,,ARREDAMENTI,,
-BO0624_81847,153036,290,267,"CASSA-PANCA con pedana noce scolpito, Sec. XVI.",395,95.7,False,none,,,,,
+BO0624_81847,153032,286,263,"PARAMENTO sacro completo di:N. 2 dalmatiche, Pianeta,Piviale, Stole, Manopole e Copricalice in velluto rosso e gallone d'oro, Sec. XVI. BROCCATELLO rosso Sec. XVIl, complessivi metri 100.70 in 39 pezzi.",387,79.0,False,none,,,,,Sec. XVI
+BO0624_81847,153033,287,264,"SALA da pranzo in stile del Sec. XVI, noce antico scolpito com- posta di: Mobile cristalliera, alto 235 x 170;-Credenzone, alto 120 x 455; Credenza piccola, alta 100 x 110; Tavola con piedi a vaso, lunga 208 × 85; 2 Poltrone e 6 Sedie con schienale e sedile pelle.",390,86.1,False,none,,,OGGETTI VARI,,Sec. XVI
+BO0624_81847,153034,288,265,"BUREAU-TRUMEAU con ribalta e specchi in radica massiccia con cassetti e segreti, Sec. XVII.",391,75.7,False,none,,,SPECCHI,,Sec. XVII
+BO0624_81847,153035,289,266,"CAMERA DA LETTO in lacca verde, stile veneziano Sec. XVIII, composta di: 2 letti, 2 comodini, como con specchiera, toilette con piccola specchiera, 2 sedie, poltroncina, tavolino.",393,80.6,False,none,,,ARREDAMENTI,,Sec. XVIII
+BO0624_81847,153036,290,267,"CASSA-PANCA con pedana noce scolpito, Sec. XVI.",395,95.7,False,none,,,,,Sec. XVI
 BO0624_81847,153037,291,268,"CREMONA TRANQUILLO. — Zampognaro, dipinto su tavola in cornice nera, 45 x 33. Vedi illustrazione.",396,97.8,False,none,,,,,
 BO0624_81847,153038,292,269,"VINEA FRANCESCO.-Il pollaio, dipinto su tela in cornice dorata, 75 x 50.",397,97.1,False,none,,,,,
-BO0624_81847,153039,293,270,"HUET PAOLO (attribuito a), Sec. XIX. — Pascolo nel bosco, dipinto su tela, cornice dorata. Vedi illustrazione.",398,98.0,False,none,HUET J.B.,,,,
+BO0624_81847,153039,293,270,"HUET PAOLO (attribuito a), Sec. XIX. — Pascolo nel bosco, dipinto su tela, cornice dorata. Vedi illustrazione.",398,98.0,False,none,HUET J.B.,,,,Sec. XIX
 BO0624_81847,153040,294,274,"MICHETTI FRANCESCO PAOLO.— tela con cornice dorata e cassetta, 32 x 23.",399,97.1,False,none,,,,,
 BO0624_81847,153041,295,10,"Contadinella, dipinto su",400,93.9,False,none,,,,,
 BO0624_81847,153042,296,272,"MORELLI DOMENICO. — Refugium peccatorum, dipinto su tela, cornice dorata, 32 x 24.",401,97.4,False,none,,,,,
@@ -302,9 +302,9 @@ BO0624_81847,153046,300,276,"MAGGI CESARE.— Sempione, dipinto su tavola in cor
 BO0624_81847,153047,301,277,"RIVALTA AUGUSTO. — S. Giovanni Battista, statuetta in bronzo.",408,96.5,False,none,,,,,
 BO0624_81847,153048,302,19,COLONNA marmo verde di Prato.,409,94.9,False,none,,,,,
 BO0624_81847,153049,303,20,278.,410,66.7,False,none,,,,,
-BO0624_81847,153050,304,279,"POLTRONA noce con cartella e ricorso in cuoio bulinato, frangia verde, stile Sec. XVI.",411,83.8,False,none,,,POLTRONE,,
+BO0624_81847,153050,304,279,"POLTRONA noce con cartella e ricorso in cuoio bulinato, frangia verde, stile Sec. XVI.",411,83.8,False,none,,,POLTRONE,,Sec. XVI
 BO0624_81847,153051,305,280,"POLTRONA noce con cartella e ricorso in cuoio bulinato, frangia",413,96.9,False,none,,,POLTRONE,,
-BO0624_81847,153052,306,24,"verde, stile Sec. XVI.",414,92.7,False,none,,,,,
+BO0624_81847,153052,306,24,"verde, stile Sec. XVI.",414,92.7,False,none,,,,,Sec. XVI
 BO0624_81847,153053,307,284,"SPECCHIERA con cornice scolpita e dorata, grandezza della luce 98 x 1.92.",415,97.3,False,none,,,CORNICI,,
 BO0624_81847,153054,308,282,MOBILINO per Bibelots in mogano.,416,93.9,False,none,,,,,
 BO0624_81847,153055,309,283,PORTA VASO in pietra d'Istria con colonna.,418,95.3,False,none,,,VASI,,
@@ -345,13 +345,13 @@ BO0624_81847,153089,343,319,PILA in marmo bianco.,471,90.9,False,none,,,,,
 BO0624_81847,153090,344,320,FIORIERA marmo scolpito a due colonne.,473,94.9,False,none,,,,,
 BO0624_81847,153091,345,324,"SCUOLA NAPOLETANA, Sec.XVII.—Natura morta,tavola due",474,96.2,False,none,,Scuola Napoletana,,,
 BO0624_81847,153092,346,322,"SEBASTIANO RICCI, Sec. XVIHl.-Visione d'Isacco, tela cornice",476,96.6,False,none,SEBASTIANO RICCI,,,,
-BO0624_81847,153093,347,323,"BARTOLOMEO ESTEVAN MURILLO (Copia da), Sec. XVII. Madonna col Bambino, dipinto su tela in corn. dor., 1.60 x 1.05.",479,72.7,False,none,MURILLO BARTOLOME ESTEBAN,,,,
+BO0624_81847,153093,347,323,"BARTOLOMEO ESTEVAN MURILLO (Copia da), Sec. XVII. Madonna col Bambino, dipinto su tela in corn. dor., 1.60 x 1.05.",479,72.7,False,none,MURILLO BARTOLOME ESTEBAN,,,,Sec. XVII
 BO0624_81847,153094,348,324,"SCUOLA FERRARESE, Sec. XVI.—La deposizione, dipinto su tela in cornice dorata, 30 x 47.",480,97.6,False,none,,Scuola Ferrarese,,,
-BO0624_81847,153095,349,325,"SCUOLA SPAGNUOLA, Sec. XVII. —Ritratto di Gentiluomo, di- pinto su tela in cornice guilloche, dim. 77 x 64.",481,66.7,False,none,,,,,
+BO0624_81847,153095,349,325,"SCUOLA SPAGNUOLA, Sec. XVII. —Ritratto di Gentiluomo, di- pinto su tela in cornice guilloche, dim. 77 x 64.",481,66.7,False,none,,,,,Sec. XVII
 BO0624_81847,153096,350,326,"MAGNASCO ALESSANDRO, Sec. XVII-XVIII.— Paesaggio con macchiette, su tela, cornice dorata, 95 x 120.",483,97.8,False,none,,,,,
-BO0624_81847,153097,351,327,"PITTONI GIOV. BATTA, Sec. XVII e XVIH. L'annunciazione, dipinto su tela, cornice dorata, 62 x 48. Vedi illustrazione.",484,98.2,False,none,,,,,
-BO0624_81847,153098,352,328,"LUCA CRANACH (Scuola Tedesca), Sec. XVI. — Adamo ed Eva, dipinto su tavola, 24 x 21.",485,97.4,False,none,CRANACH LUCAS,,,,
-BO0624_81847,153099,353,329,"JEAN STEEN (Ol.), Sec. XVII. —Interno con bevitori, dipinto su",486,96.4,False,none,STEEN JAN,,,,
+BO0624_81847,153097,351,327,"PITTONI GIOV. BATTA, Sec. XVII e XVIH. L'annunciazione, dipinto su tela, cornice dorata, 62 x 48. Vedi illustrazione.",484,98.2,False,none,,,,,Sec. XVII
+BO0624_81847,153098,352,328,"LUCA CRANACH (Scuola Tedesca), Sec. XVI. — Adamo ed Eva, dipinto su tavola, 24 x 21.",485,97.4,False,none,CRANACH LUCAS,,,,Sec. XVI
+BO0624_81847,153099,353,329,"JEAN STEEN (Ol.), Sec. XVII. —Interno con bevitori, dipinto su",486,96.4,False,none,STEEN JAN,,,,Sec. XVII
 BO0624_81847,153100,354,10,"tavola in cornice dorata, dim. 38 x 29.",487,96.0,False,none,,,,,
 BO0624_81847,153101,355,11,"Madonna col Bambino, di-",488,93.6,False,none,,,,,
 BO0624_81847,153102,356,330,"SCUOLA FIAMMINGA,Sec.XVI.— pinto su tavola in cornice a tabernacolo, dim. 44 x 34.",489,97.5,False,none,,Scuola Fiamminga,,,
@@ -362,34 +362,34 @@ BO0624_81847,153106,360,334,"INNOCENZO DA IMOLA, Sec. XVI.—Sacra Famiglia, su 
 BO0624_81847,153107,361,335,"GADDI TADDEO, Sec. XIV.— Madonna con bambino, dipinto su tavola a fondo oro,in cornice a tabernacolo, dim. 80x 50.",495,88.7,False,none,,,,,
 BO0624_81847,153108,362,336,"VAN HEMMESKERK EGBERT, Sec.XVII.—Interno con beoitori, dipinto su tela in cornice mogano. Vedi illustrazione.",496,98.1,False,none,,,,,
 BO0624_81847,153109,363,20,"337.VINCKENBOOMS-DAVID E ROTTENHAMER,Sec.XVIeXVII. Paesaggio con figure, rame cornice dorata. Vedi illustrazione.",497,98.6,False,none,VINCKBOONS DAVID,,,,
-BO0624_81847,153110,364,338,"SANO DI PIETRO, Sec. XV. - Madonna con Bambino e Santi, dipinto su tavola a fondo oro in cornice a tabernacolo, stile Gotico, 40x 28.",498,98.4,False,none,,,,,
+BO0624_81847,153110,364,338,"SANO DI PIETRO, Sec. XV. - Madonna con Bambino e Santi, dipinto su tavola a fondo oro in cornice a tabernacolo, stile Gotico, 40x 28.",498,98.4,False,none,,,,,Sec. XV
 BO0624_81847,153111,365,339,"PORBUS FRANCESCO (Fiam.), Sec. XVI.—Ritratto di Gentiluo- mo, dipinto su tavola in cornice nera-oro, 50 x 38.",503,65.8,False,none,,,,,
 BO0624_81847,153112,366,340,"BRENGHEL PIETRO detto dell'INFERNO, Sec.XVII e XVIII.",504,96.2,False,none,,,,,
 BO0624_81847,153113,367,4,"L'incendio di Troia, su tavola cornice guilloche, 40 x 60.",505,98.2,False,none,,,,,
-BO0624_81847,153114,368,344,"VECELLIO TIZIANO (Scuola di), Sec. XVI. Sacra Famiglia,",506,96.1,False,none,TIZIANO VECELLIO,Scuola di Tiziano,,,
+BO0624_81847,153114,368,344,"VECELLIO TIZIANO (Scuola di), Sec. XVI. Sacra Famiglia,",506,96.1,False,none,TIZIANO VECELLIO,Scuola di Tiziano,,,Sec. XVI
 BO0624_81847,153115,369,2,"dipinto su tela in cornice dorata, 90 x 4.33.",507,97.7,False,none,,,,,
 BO0624_81847,153116,370,342,"QUINTIN METSYS, Sec:XVI.—Madonna col Bambino, dipinto su tavola in cornice guilloche, 37 x 45. Vedi illustrazione.",508,88.6,False,none,,,,,
-BO0624_81847,153117,371,343,"FRA FILIPPO LIPPI, Sec. XV. -—L'Adorazione del Divin Figlio, dipinto su tavola con tabernacolo in stile, 68 x 40. Vedi illustrazione.",510,98.4,False,none,,,,,
-BO0624_81847,153118,372,344,"STROZZI BERNARDO detto il CAPPUCCINO, Sec. XVII. -S. Cecilia, su tela cornice scolpita e dorata, 1.88 x 4.22. Alla recente esposizione della pittura Italiana del 600 e 700 nel Palazzo Pitti a Firenze era ammirato nella grande sala dello Strozzi e Feti. Vedi riproduzione nell'lllustrazione Italiana del 25 giugno 1922, pag. 746. Vedi illustrazione.",511,96.5,False,none,,,,,
+BO0624_81847,153117,371,343,"FRA FILIPPO LIPPI, Sec. XV. -—L'Adorazione del Divin Figlio, dipinto su tavola con tabernacolo in stile, 68 x 40. Vedi illustrazione.",510,98.4,False,none,,,,,Sec. XV
+BO0624_81847,153118,372,344,"STROZZI BERNARDO detto il CAPPUCCINO, Sec. XVII. -S. Cecilia, su tela cornice scolpita e dorata, 1.88 x 4.22. Alla recente esposizione della pittura Italiana del 600 e 700 nel Palazzo Pitti a Firenze era ammirato nella grande sala dello Strozzi e Feti. Vedi riproduzione nell'lllustrazione Italiana del 25 giugno 1922, pag. 746. Vedi illustrazione.",511,96.5,False,none,,,,,Sec. XVII
 BO0624_81847,153119,373,345,"VAN DYCK ANTONIO, Sec. XVII.La Pieta, dipinto su tela 80× 70, cornice guilloche gia appartenuto a patrizia famiglia genovese. Vedi illustrazione.",513,91.2,False,none,VAN DYCK ANTON,,,,
 BO0624_81847,153120,374,346,"VANNUCCI PIETRO detto il PERUGINO, Sec. XV.— Madonna con bambino in braccio, dipinto su tavola, in cornice a tabernacolo in stile, 82x 53. Vedi illustrazione.",515,91.9,False,none,"VANUCCI PIETRO, PERUGINO",,OGGETTI VARI,,
-BO0624_81847,153121,375,347,"ALLEGRI ANTONIO detto il CORREGGIO, Sec. XVI. L'adorazione dei Pastori, dipinto su tela, cornice dorata, 46 x 35. Vedi illustrazione.",517,98.4,False,none,CORREGGIO,,,,
-BO0624_81847,153122,376,348,"CATENA VINCENZO, Sec. XVI. -Sacra Famiglia, dipinto su tavola in cornice dorata, 90 x 1.20. Vedi illustrazione.",518,98.1,False,none,,,,,
-BO0624_81847,153123,377,349,"ZEIBLON BARTHOLOMAEUS (Scuola Bavarese),4484-1519.— Santo Vescovo con aureola d'oro, sportello di trittico, in cornice nera, tavola 1.21 x 43. Vedi illustrazione.",519,98.7,False,none,,Scuola Bavarese,,,
+BO0624_81847,153121,375,347,"ALLEGRI ANTONIO detto il CORREGGIO, Sec. XVI. L'adorazione dei Pastori, dipinto su tela, cornice dorata, 46 x 35. Vedi illustrazione.",517,98.4,False,none,CORREGGIO,,,,Sec. XVI
+BO0624_81847,153122,376,348,"CATENA VINCENZO, Sec. XVI. -Sacra Famiglia, dipinto su tavola in cornice dorata, 90 x 1.20. Vedi illustrazione.",518,98.1,False,none,,,,,Sec. XVI
+BO0624_81847,153123,377,349,"ZEIBLON BARTHOLOMAEUS (Scuola Bavarese),4484-1519.— Santo Vescovo con aureola d'oro, sportello di trittico, in cornice nera, tavola 1.21 x 43. Vedi illustrazione.",519,98.7,False,none,,Scuola Bavarese,,,Sec. XVI
 BO0624_81847,153124,378,15,"349.bis SQUARCIONE FRANCESCO, Sec. XV.Un Santo, dipinto",520,97.2,False,none,,,,,
 BO0624_81847,153125,379,16,"su tavola a fondo oro, cornice a tabernacolo in stile, 1.10 x 80.",521,97.6,False,none,,,,,
 BO0624_81847,153126,380,350,"RICCI SEBASTIANO, Sec. XVIII.— La regina di Saba, dipinto in cornice dorata.",522,97.2,False,none,SEBASTIANO RICCI,,,,
 BO0624_81847,153127,381,354,"DUE PORTIERE in velluto antico rosso-viola con galloni, provenienti dal Palazzo Mompensier di Bologna, di metri 18 circa.",523,98.3,False,none,,Scuola Bolognese,,,
 BO0624_81847,153128,382,352,"DUE PORTIERE in velluto antico rosso-viola con galloni, provenienti dal Palazzo Mompensier di Bologna, di metri 18 circa.",524,98.3,False,none,,Scuola Bolognese,,,
-BO0624_81847,153129,383,353,"DUE PORTIERE in velluto antico rosso-viola con galloni, provenienti dal Palazzo Mompensier di Bologna, di metri 18 circa. LIBRERIA noce antico, stile del Sec. XVI, 2 scompartimenti a vetri, 1 a sportello pieno. CREDENZONE noce scantonato a nicchie, Sec. XVI.",525,64.0,False,none,,Scuola Bolognese,,,
-BO0624_81847,153130,384,356,"LIBRERIA noce antico, stile del Sec. XVI, 2 scompartimenti a",528,96.6,False,none,,,,,
+BO0624_81847,153129,383,353,"DUE PORTIERE in velluto antico rosso-viola con galloni, provenienti dal Palazzo Mompensier di Bologna, di metri 18 circa. LIBRERIA noce antico, stile del Sec. XVI, 2 scompartimenti a vetri, 1 a sportello pieno. CREDENZONE noce scantonato a nicchie, Sec. XVI.",525,64.0,False,none,,Scuola Bolognese,,,Sec. XVI
+BO0624_81847,153130,384,356,"LIBRERIA noce antico, stile del Sec. XVI, 2 scompartimenti a",528,96.6,False,none,,,,,Sec. XVI
 BO0624_81847,153131,385,357,"ARMADIO di legno noce finemente sagomato, epoca Louis XIV. sportello pieno, 1 a vetri.",529,78.9,False,none,,,,,
-BO0624_81847,153132,386,358,"POLTRONA noce con cartella e ricorso in cuoio bulinato, frangia verde, stile Sec. XVI.",531,97.6,False,none,,,POLTRONE,,
-BO0624_81847,153133,387,359,"POLTRONA noce con cartella e ricorso in cuoio bulinato, frangia verde, stile Sec. XVI.",532,83.8,False,none,,,POLTRONE,,
-BO0624_81847,153134,388,360,"SEI SEDIE noce, stile del Sec. XVI, sedile e schienale cuoio bulinato, finali dorati. COLONNA marmo verde di Prato. RIVALTA AUGUSTO.— Sisifo, statua in bronzo.",534,68.7,False,none,,,SEDIE,,
+BO0624_81847,153132,386,358,"POLTRONA noce con cartella e ricorso in cuoio bulinato, frangia verde, stile Sec. XVI.",531,97.6,False,none,,,POLTRONE,,Sec. XVI
+BO0624_81847,153133,387,359,"POLTRONA noce con cartella e ricorso in cuoio bulinato, frangia verde, stile Sec. XVI.",532,83.8,False,none,,,POLTRONE,,Sec. XVI
+BO0624_81847,153134,388,360,"SEI SEDIE noce, stile del Sec. XVI, sedile e schienale cuoio bulinato, finali dorati. COLONNA marmo verde di Prato. RIVALTA AUGUSTO.— Sisifo, statua in bronzo.",534,68.7,False,none,,,SEDIE,,Sec. XVI
 BO0624_81847,153135,389,363,"SORTINI SAVERIO. — Suonatore di vigna, statua in bronzo. SCUOLA BIZANTINA. — Cristo con la Madonna e San Giovanni, Santa Teodora e San Eutimio, dipinto su tavola in cornice a tabernacolo, 30 × 20. COLONNA in marmo verde di Prato.",538,75.3,False,none,,,,,
-BO0624_81847,153136,390,366,"BELLOTTO BERNARDO (Scuola di), Sec. XVIII. -Vedute di Venezia, due dipinti su tela in cornice nera, 58 x 73 ciasc. in cornice dorata, 58 × 73 ciasc.",540,86.1,False,none,BELOTTO BERNARDO,,,,
-BO0624_81847,153137,391,367,"BELLOTTO BERNARDO (Scuola di), Sec. XVIII. 一 Bacino S. Marco e Canal Grande con Ponte di Rialto, due dipinti su tela",542,98.2,False,none,CANALE ANTONIO,,,,
+BO0624_81847,153136,390,366,"BELLOTTO BERNARDO (Scuola di), Sec. XVIII. -Vedute di Venezia, due dipinti su tela in cornice nera, 58 x 73 ciasc. in cornice dorata, 58 × 73 ciasc.",540,86.1,False,none,BELOTTO BERNARDO,,,,Sec. XVIII
+BO0624_81847,153137,391,367,"BELLOTTO BERNARDO (Scuola di), Sec. XVIII. 一 Bacino S. Marco e Canal Grande con Ponte di Rialto, due dipinti su tela",542,98.2,False,none,CANALE ANTONIO,,,,Sec. XVIII
 BO0624_81847,153138,392,368,"SCUOLA FRANCESE, Sec. XVIHl.-Adamo ed Eva, dipinto su vetro in cornice nera, 18 x 25.",543,97.5,False,none,,,,,
 BO0624_81847,153139,393,369,"BONIVENTO EUGENIO. Venezia nel 7o0, dipinto ovale in cornice dorata.",544,97.0,False,none,,,,,
 BO0624_81847,153140,394,370,"BONIVENTO EUGENIO.—Venezia nel 7oo, dipinto ovale in cornice dorata.",545,97.0,False,none,,,,,
@@ -401,19 +401,19 @@ BO0624_81847,153145,399,374,"LENTINI G. — Paesaggio e contadina, dipinto in co
 BO0624_81847,153146,400,375,"CASANOVA C. Fra le betulle, dipinto in cornice dor., 28 × 37. 38×42.",551,91.5,False,none,,,,,
 BO0624_81847,153147,401,376,"LOTTO di N. 20 Stampe, soggetti vari. VASO di scavo Etrusco. LOTTO di N. 6 Stampe, soggetti vari.",561,53.5,False,none,,,STAMPE E INCISIONI,,
 BO0624_81847,153148,402,379,LOTTO di N. 5 Vasi di scavo Etruschi.,563,94.6,False,none,,,VASI,,
-BO0624_81847,153149,403,380,"ALBERELLO maiolica Caltagirone con medaglione, Sec. XVII.",565,96.4,False,none,,,,,
-BO0624_81847,153150,404,384,"BOCCALE maiolica di Caltagirone, Sec. XVII.",567,95.2,False,none,,,,,
-BO0624_81847,153151,405,382,"BOCCALE maiolica di Caltagirone con frutta, Sec. XVII.",569,96.2,False,none,,,,,
+BO0624_81847,153149,403,380,"ALBERELLO maiolica Caltagirone con medaglione, Sec. XVII.",565,96.4,False,none,,,,,Sec. XVII
+BO0624_81847,153150,404,384,"BOCCALE maiolica di Caltagirone, Sec. XVII.",567,95.2,False,none,,,,,Sec. XVII
+BO0624_81847,153151,405,382,"BOCCALE maiolica di Caltagirone con frutta, Sec. XVII.",569,96.2,False,none,,,,,Sec. XVII
 BO0624_81847,153152,406,383,"LEANDRO DA PONTE detto il BASSANO, Sec. XVI.—Battesimo di Cristo nel Giordano, dipinto su tela in cornice dorata, 66 x 53.",571,98.3,False,none,BASSANO GIACOMO,,,,
 BO0624_81847,153153,407,384,"SCUOLA VENEZIANA, Sec. XVII.--La Maddalena, dipinto su tela in cornice nera, 64 x 44.",572,97.5,False,none,,Scuola Veneziana,,,
 BO0624_81847,153154,408,385,"SCUOLA SPAGNUOLA, Sec. XVII.—Ritratto di Gentiluomo, di- pinto su tela, 57 x 40.",573,79.7,False,none,,,,,
-BO0624_81847,153155,409,386,"SCUOLA VENEZIANA, Sec. XVII. Venere colca, dipinto su tela in cornice dorata, 80 x 100.",575,97.6,False,none,,Scuola Veneziana,,,
+BO0624_81847,153155,409,386,"SCUOLA VENEZIANA, Sec. XVII. Venere colca, dipinto su tela in cornice dorata, 80 x 100.",575,97.6,False,none,,Scuola Veneziana,,,Sec. XVII
 BO0624_81847,153156,410,387,"SCUOLA BOLOGNESE, Sec. XVII.—Papa Innocenzo XI, dipinto su tela, 1.26 x 95.",576,82.3,False,none,,Scuola Bolognese,,,
 BO0624_81847,153157,411,388,"CARRACCI ANNIBALE (Scuola di).—Allegoria, dipinto su tela, 1.30 x 96.",578,88.3,False,none,CARRACCI ANNIBALE,,,,
 BO0624_81847,153158,412,389,SEDIA SAVONAROLA noce scolpita.,580,93.8,False,none,,,,,
 BO0624_81847,153159,413,390,"POLTRONA Dantesca noce scolpito, sedile e schienale cuoio.",581,96.6,False,none,,,POLTRONE,,
-BO0624_81847,153160,414,394,"TAVOLINO da Tea, stile Bolognese, Sec. XVI.",582,95.1,False,title_direct,,,ARREDAMENTI,,
-BO0624_81847,153161,415,392,"TAVOLINO in noce da Tea, piano ottagono, stile Sec. XVI.",583,96.3,False,title_direct,,,ARREDAMENTI,,
+BO0624_81847,153160,414,394,"TAVOLINO da Tea, stile Bolognese, Sec. XVI.",582,95.1,False,title_direct,,,ARREDAMENTI,,Sec. XVI
+BO0624_81847,153161,415,392,"TAVOLINO in noce da Tea, piano ottagono, stile Sec. XVI.",583,96.3,False,title_direct,,,ARREDAMENTI,,Sec. XVI
 BO0624_81847,153162,416,393,"DUE SEDIE noce, epoca Louis XV.",585,93.5,False,none,,Periodo di Luigi XV,SEDIE,,
 BO0624_81847,153163,417,394,"ZENO E. — Venezia nel 7oo, dipinto su tela in cornice dorata.",587,96.6,False,none,,,,,
 BO0624_81847,153164,418,395,"ZENO E. -- Venezia nel 7oo, dipinto su tela in cornice dorata.",588,96.6,False,none,,,,,
@@ -422,40 +422,40 @@ BO0624_81847,153166,420,397,"MENEGHELLI ENRICO.—Caprette al pascolo, dipinto i
 BO0624_81847,153167,421,398,"GALLI RICCARDO. — Paesaggio, dipinto su tavola in cor. dor.",592,96.4,False,none,,,,,
 BO0624_81847,153168,422,399,"DE SANCTIS GIUSEPPE.— Crisantemi, dipinto su tela, cornice dorata.",593,96.8,False,none,,,,,
 BO0624_81847,153169,423,400,"CASSA da corredo noce scolpito, Sec. XVHI.",594,95.1,False,none,,,,,
-BO0624_81847,153170,424,404,"STiPETTO in noce antico a bambocci, Sec. XVI.",595,95.5,False,none,,,,,
+BO0624_81847,153170,424,404,"STiPETTO in noce antico a bambocci, Sec. XVI.",595,95.5,False,none,,,,,Sec. XVI
 BO0624_81847,153171,425,402,"DUE piccole Sedie a rocchetto dette da Balia, sedile coperto in damasco verde.",596,97.4,False,none,,,SEDIE,,
 BO0624_81847,153172,426,403,"DIZIANI GASPARE,Sec.XVIII.Mose salvato dalle acque,tela cornice dorata, 1.10 x 90.",597,97.6,False,none,,,,,
-BO0624_81847,153173,427,404,"ABRAM VAN KALRAAT (Ol.), Sec. XVII. Pesche e uva, di- pinto su tela in cornice dorata, dim. 38x 45.",598,65.7,False,none,,,,,
-BO0624_81847,153174,428,405,"VAN ENGELBREKSTEN, Scolaro e contemporaneo di F. GUARDI, Sec. XVII e XVIII. Marina, dipinto su tela in cornice dorata, 25×45.",600,98.3,False,none,GUARDI FRANCESCO,,,,
+BO0624_81847,153173,427,404,"ABRAM VAN KALRAAT (Ol.), Sec. XVII. Pesche e uva, di- pinto su tela in cornice dorata, dim. 38x 45.",598,65.7,False,none,,,,,Sec. XVII
+BO0624_81847,153174,428,405,"VAN ENGELBREKSTEN, Scolaro e contemporaneo di F. GUARDI, Sec. XVII e XVIII. Marina, dipinto su tela in cornice dorata, 25×45.",600,98.3,False,none,GUARDI FRANCESCO,,,,Sec. XVII
 BO0624_81847,153175,429,406,"KEY ADRIEN (Fiam), Sec. XVII.—I Ritratto di Gentiluomo,di- pinto su tavola con cornice nera, 63 × 79.",601,70.7,False,none,,,,,
 BO0624_81847,153176,430,407,"BETTI BERNARDINO detto il PINTURICCHIO (Scuola di), Seco- lo XV.La Madonna del latte, dipinto su tavola in cornice scolpita e dorata, dim. 47x37.",604,75.3,False,none,,Scuola di Pinturicchio,,,
 BO0624_81847,153177,431,408,"SCUOLA FIORENTINA, Sec. XV.—Fatto di storia Romana, frontale per cassa da corredo,dipinto su tavola in cornice a tabernacolo in stile, 1.09x 36.",605,98.6,False,none,,Scuola Fiorentina,,,
 BO0624_81847,153178,432,409,"G. B. GREUZE (Francese), Sec. XVIlI.'—Ninfe e amorini, dipinto su tavola firmato, cornice dorata, 35x 47. Vedi illustrazione.",609,89.0,False,none,GREUZE J. B.,,,,
 BO0624_81847,153179,433,410,"VAN HEMMESKERCK EGBERT (Olandese), Sec. XVII.—Festa di campagnoli in una taverna, su tela, firmato con monogramma,",611,98.1,False,none,,,,,
 BO0624_81847,153180,434,4,65×80.,612,83.3,False,none,,,,,
-BO0624_81847,153181,435,441,"VAN HEMMESKERCH EGBERT (Olan.), Sec. XVII. —Il concerto, su tela, firmato con monogramma, 65 x 80. Vedi illustrazione.",616,88.3,False,none,,,,,
+BO0624_81847,153181,435,441,"VAN HEMMESKERCH EGBERT (Olan.), Sec. XVII. —Il concerto, su tela, firmato con monogramma, 65 x 80. Vedi illustrazione.",616,88.3,False,none,,,,,Sec. XVII
 BO0624_81847,153182,436,442,"DADDI BERNARDO, Sec.XHI-XIV.— Madonna col Bambino, dipinto su tavola a fondo oro, in cornice a forma ogivale, 74 x 42. Madonna col Bambino sul Trono, dipinto su tavola a fondo oro, forma esagonale, cornice",618,71.6,False,none,,,,,
 BO0624_81847,153183,437,443,"SCUOLA VENEZIANA,Sec.XIV.— applicata, dim. 90 x 57.",620,95.8,False,none,,Scuola Veneziana,,,
 BO0624_81847,153184,438,444,"CRIVELLI CARLO, Sec.XV.— Madonna col Bambino, dipinto su tavola a fondo oro, dim. 69 x 45. Vedi illustrazione.",621,87.8,False,none,,,,,
 BO0624_81847,153185,439,445,"GENTILE DA FABRIANO, Secoli XVIXV.— Vedi illustrazione.",624,96.2,False,none,,,,,
 BO0624_81847,153186,440,416,"MAZZUOLI FRANCESCO detto il PARMIGIANO, Sec.XVI.—Matrimonio mistico di s. Caterina, dipinto su tela in cornice intagliata e dorata, 45 x 35. Vedi illustrazione.",625,98.7,False,none,,,,,
 BO0624_81847,153187,441,447,"ALBERT CUYP (Olandese), Sec. XVHI. — -Veduta di Dordrecht, dipinto su tavola firmato, cornice dorata in legno scolpito, 109 ×78.",626,98.3,False,none,CUIJP ALBERT,,,,
-BO0624_81847,153188,442,419,"CANALE ANTONIO detto il CANALETTO, 1697-4768.— appartenenti a casa Cambiaso, 54 x 90.",636,97.6,False,none,CANALE ANTONIO,,,,
+BO0624_81847,153188,442,419,"CANALE ANTONIO detto il CANALETTO, 1697-4768.— appartenenti a casa Cambiaso, 54 x 90.",636,97.6,False,none,CANALE ANTONIO,,,,Sec. XVII
 BO0624_81847,153189,443,420,"SCUOLA FIORENTINA, Sec. XV.—Madonna con Bambino, di-",639,95.9,False,none,,Scuola Fiorentina,,,
-BO0624_81847,153190,444,422,"BELLINI (Scuola dei), Sec. XV. — vola con cornice dorata, 43 x 36.",644,96.6,False,none,,,,,
+BO0624_81847,153190,444,422,"BELLINI (Scuola dei), Sec. XV. — vola con cornice dorata, 43 x 36.",644,96.6,False,none,,,,,Sec. XV
 BO0624_81847,153191,445,423,"VASO artistico vecchia Cina, famiglia verde.",645,95.5,False,none,,,VASI,,
 BO0624_81847,153192,446,424,"SORTINI SAVERIO.—Trieste in attesa della redenzione, bronzo.",646,96.6,False,none,,,,,
 BO0624_81847,153193,447,425,COLONNA in marmo verde di Prato.,647,93.9,False,none,,,,,
 BO0624_81847,153194,448,426,"POLTRONA dorata, finemente scolpita con teste di Cherubini,",648,96.6,False,none,,,POLTRONE,,
-BO0624_81847,153195,449,427,"CASSA da corredo noce scolpito, Sec. XVI.",650,95.0,False,none,,,,,
+BO0624_81847,153195,449,427,"CASSA da corredo noce scolpito, Sec. XVI.",650,95.0,False,none,,,,,Sec. XVI
 BO0624_81847,153196,450,428,CASSA da corredo in Pastiglia policroma.,651,95.1,False,none,,,,,
-BO0624_81847,153197,451,429,"ARMADIO genovese in noce a 2 sportelli, Sec. XVII.",652,95.9,False,none,,,,,
+BO0624_81847,153197,451,429,"ARMADIO genovese in noce a 2 sportelli, Sec. XVII.",652,95.9,False,none,,,,,Sec. XVII
 BO0624_81847,153198,452,430,"TAvOLA in noce scolpito, copia perfetta della Medicea esistente al Bargello.",653,97.4,False,none,,,,,
 BO0624_81847,153199,453,431,"VELLUTO rosso in seta proveniente dal Palazzo Imperiale di Berlino, complessivi metri 67 in 20 pezzi, Sec. XVll.",654,98.2,False,none,,,,,
 BO0624_81847,153200,454,432,"DAMASCO rosso Sec. XVIl, complessivi metri 104 in 8 pezzi.",655,96.5,False,none,,,,,
-BO0624_81847,153201,455,433,"VAsO mezza palla maiolica Casteldurante con medag. Santa, Secolo XVII.",656,97.1,False,none,,,VASI,,
-BO0624_81847,153202,456,434,"VASO a palla grande, maiolica di Venezia con medaglione, Secolo XVII.",657,97.1,False,none,,,VASI,,
-BO0624_81847,153203,457,435,"VAsO a palla grande, maiolica di Caltagirone, Sec. XVII.",658,96.3,False,none,,,VASI,,
+BO0624_81847,153201,455,433,"VAsO mezza palla maiolica Casteldurante con medag. Santa, Secolo XVII.",656,97.1,False,none,,,VASI,,Sec. XVII
+BO0624_81847,153202,456,434,"VASO a palla grande, maiolica di Venezia con medaglione, Secolo XVII.",657,97.1,False,none,,,VASI,,Sec. XVII
+BO0624_81847,153203,457,435,"VAsO a palla grande, maiolica di Caltagirone, Sec. XVII.",658,96.3,False,none,,,VASI,,Sec. XVII
 BO0624_81847,153204,458,436,"SERIE di 8 Maschere Italiane, maiolica di Bassano, form. gran.",659,96.7,False,none,BASSANO GIACOMO,,,,
 BO0624_81847,153205,459,437,"MINIATURA su avorio, firmata Romenier.—Ritratto di vecchio gentiluomo in costume del Sec. XVlll, montatura in bronzo dor.",660,98.3,False,none,,,MINIATURE,,
 BO0624_81847,153206,460,438,"MINIATURA su avorio.Ritratto di dama in costume del XVIll Sec., forma ovale, cornice bronzo dorato.",661,73.1,False,none,,,MINIATURE,,
@@ -468,7 +468,7 @@ BO0624_81847,153212,466,443,"MIGLIARO VINCENZO. — Danzatrice, tavoletta cornic
 BO0624_81847,153213,467,444,"COSTANTINI G. — Figura di donna, pastello in cornice dorata, 63x40.",671,96.8,False,none,,,,,
 BO0624_81847,153214,468,445,"FIORE E. - I nonni, dipinto su tela in cornice dorata, 55 x 68.",672,96.6,False,none,,,,,
 BO0624_81847,153215,469,446,"R. W. — Alberi d'inverno, acquerello in cornice dorata, 37 x 13. PIATTO TAKONABE vecchia Cina. Epoca dei Ming. PIATTO TAKONABE vecchia Cina. Epoca dei Ming.",673,55.3,False,none,,,,,
-BO0624_81847,153216,470,449,"ALBERELLO maiolica di Savona, Sec. XVII.",676,94.9,False,none,,,,,
+BO0624_81847,153216,470,449,"ALBERELLO maiolica di Savona, Sec. XVII.",676,94.9,False,none,,,,,Sec. XVII
 BO0624_81847,153217,471,24,450.VASO di scavo Etrusco.,677,94.3,False,none,,,VASI,,
 BO0624_81847,153218,472,454,QUATTRO scodellette Etrusche di scavo.,682,94.9,False,none,,,,,
 BO0624_81847,153219,473,452,VASO Etrusco di scavo.,683,91.3,False,none,,,VASI,,
@@ -481,7 +481,7 @@ BO0624_81847,153225,479,458,PORTANTINA cristallo α sopramobile  per bibelots.,6
 BO0624_81847,153226,480,459,DUE teste ceramica in stile antico Robbiano (Cantagalli).,691,96.4,False,none,,,,,
 BO0624_81847,153227,481,460,OROLOGIO porcellana fantasia.,692,93.3,False,none,,,,,
 BO0624_81847,153228,482,461,"IGNOTO. —Marina, pressi di Catania, due dipinti su tela in cornice dorata.",693,97.2,False,none,,,,,
-BO0624_81847,153229,483,462,"IGNOTO VENEZIANO, Sec. XVII. -Flora, tela in cornice do- rata, 46x 38.",694,86.2,False,none,,,,,
+BO0624_81847,153229,483,462,"IGNOTO VENEZIANO, Sec. XVII. -Flora, tela in cornice do- rata, 46x 38.",694,86.2,False,none,,,,,Sec. XVII
 BO0624_81847,153230,484,463,"CARELLI G.—Paiazzo Donn'Anna, su tavola in cornice dorata, 42x26.",696,96.8,False,none,,,,,
 BO0624_81847,153231,485,464,FERGUSON G.—,697,83.3,False,none,,,,,
 BO0624_81847,153232,486,17,"Castellana con leurieri, tela in cornice dorata, 38 ×50.",698,97.2,False,none,,,,,
@@ -496,20 +496,20 @@ BO0624_81847,153240,494,470,"BRESCIANI A.DA GAZOLDO.— La mia Modella,pastello 
 BO0624_81847,153241,495,27,"cornice bianca, 49 x 60.",708,93.6,False,none,,,,,
 BO0624_81847,153242,496,472,"MINIATURA su avorio. Signora Francese, cornicetta nera.",709,96.3,False,none,,,MINIATURE,,
 BO0624_81847,153243,497,473,ZUPPIERA maiolica di Bassano a forma di Coniglio.,710,96.0,False,none,BASSANO GIACOMO,,,,
-BO0624_81847,153244,498,474,"ALBERELLO maiolica Caltagirone, Sec. XVII.",711,95.1,False,none,,,,,
+BO0624_81847,153244,498,474,"ALBERELLO maiolica Caltagirone, Sec. XVII.",711,95.1,False,none,,,,,Sec. XVII
 BO0624_81847,153245,499,475,VASO Coreano antico.,712,90.5,False,none,,,VASI,,
-BO0624_81847,153246,500,476,"VASO a cilindro, maiolica di Caltagirone, dec. foglie e frutti, Sec. XVII.",713,97.1,False,none,,,VASI,,
+BO0624_81847,153246,500,476,"VASO a cilindro, maiolica di Caltagirone, dec. foglie e frutti, Sec. XVII.",713,97.1,False,none,,,VASI,,Sec. XVII
 BO0624_81847,153247,501,477,"IGNOTO, Sec. XVIll. —La tosatura delle pecore, dipinto su tela in cornice dorata, 42 x 57.",714,79.2,False,none,,,,,
 BO0624_81847,153248,502,478,"IGNOTO, Sec. XVHl. — Il bacio di Giuda, dipinto su tela in cor- nice dorata, 60 x 46.",716,82.4,False,none,,,,,
-BO0624_81847,153249,503,479,"IGNOTO VENEZIANO, Sec. XVII. — Testa di S. Teresa, tela cornice dorata, 37 x 29.",718,97.3,False,none,,,,,
-BO0624_81847,153250,504,480,"RENI GUIDO (Scuola di), Sec. XVII. — L'Adorazione di Cristo nell'Orto, dipinto su tela in cornice dorata, 53 × 38.",719,65.8,False,none,GUIDO RENI,Scuola di Guido Reni,,,
-BO0624_81847,153251,505,481,"MARATTA CARLO, Sec. XVII. -—La Vergine (mezzo busto), di- pinto su tela, cornice dorata, 50 x 40.",721,70.1,False,none,MARATTI CARLO,,,,
+BO0624_81847,153249,503,479,"IGNOTO VENEZIANO, Sec. XVII. — Testa di S. Teresa, tela cornice dorata, 37 x 29.",718,97.3,False,none,,,,,Sec. XVII
+BO0624_81847,153250,504,480,"RENI GUIDO (Scuola di), Sec. XVII. — L'Adorazione di Cristo nell'Orto, dipinto su tela in cornice dorata, 53 × 38.",719,65.8,False,none,GUIDO RENI,Scuola di Guido Reni,,,Sec. XVII
+BO0624_81847,153251,505,481,"MARATTA CARLO, Sec. XVII. -—La Vergine (mezzo busto), di- pinto su tela, cornice dorata, 50 x 40.",721,70.1,False,none,MARATTI CARLO,,,,Sec. XVII
 BO0624_81847,153252,506,482,"NOLP (Ol.), Sec. XVIl. - Paese d'inverno con pattinatori, dipin- to su tavola in cornice nera, dim. 30 x 40.",723,70.6,False,none,,,,,
-BO0624_81847,153253,507,483,"MOUCHERON ISAAC (Ol.), Sec. XVII. — Paesaggio con figure, dipinto su tela in cornice guilloche.",725,97.7,False,none,,,,,
-BO0624_81847,153254,508,484,"KNELLER GODFROY (Ing.), Sec. XVII. — Ritratto dell'Infante Charles Qa Duca di Grafton, dipinto su tela in cornice guilloche, dim. 1.21 x 90. e",726,98.5,False,none,,,,,
-BO0624_81847,153255,509,485,"CASSA da corredo noce scolpito, Sec. XVI.",727,95.0,False,none,,,,,
+BO0624_81847,153253,507,483,"MOUCHERON ISAAC (Ol.), Sec. XVII. — Paesaggio con figure, dipinto su tela in cornice guilloche.",725,97.7,False,none,,,,,Sec. XVII
+BO0624_81847,153254,508,484,"KNELLER GODFROY (Ing.), Sec. XVII. — Ritratto dell'Infante Charles Qa Duca di Grafton, dipinto su tela in cornice guilloche, dim. 1.21 x 90. e",726,98.5,False,none,,,,,Sec. XVII
+BO0624_81847,153255,509,485,"CASSA da corredo noce scolpito, Sec. XVI.",727,95.0,False,none,,,,,Sec. XVI
 BO0624_81847,153256,510,486,"TAvOLA da centro in noce scolpito con gambe tornite, stile Se- colo XVI, m. 2.02 x 80.",728,82.8,False,none,,,,,
-BO0624_81847,153257,511,487,"CREDENZONE noce a pilastri scannellati, Sec. XVI.",730,95.8,False,none,,,,,
+BO0624_81847,153257,511,487,"CREDENZONE noce a pilastri scannellati, Sec. XVI.",730,95.8,False,none,,,,,Sec. XVI
 BO0624_81847,153258,512,488,"BIANCHI LUIGI. —Contadina, dipinto su tela in cornice dorata, 1.30x71.",731,97.0,False,none,,,,,
 BO0624_81847,153259,513,489,"PALIZZI FILIPPO. — Studi di teste di bovi e pecore, su tela, 56× 42.",732,96.8,False,none,,,,,
 BO0624_81847,153260,514,490,PALIZZI FILIPPO. --,733,88.2,False,none,,,,,
@@ -521,9 +521,9 @@ BO0624_81847,153265,519,494,"PALIZZI FILIPPO. —Studio di pecore, su tela, 30 x
 BO0624_81847,153266,520,496,"COLONNA in marmo verde di Prato. 495.1 RIVALTA AUGUSTO. — Amazzone, gruppo in bronzo.",740,74.4,False,none,,,,,
 BO0624_81847,153267,521,497,"DUE VASI in porcellana di Canton. LUCERNA Fiorentina grande a due beccucci, bronzo, circa metri 4.60. FIORIERA marmo scolpito.",742,68.8,False,none,,,VASI,,
 BO0624_81847,153268,522,500,"POLTRONA Dantesca noce scolpito, sedile e schienale cuoio, frangia rossa.",744,97.2,False,none,,,POLTRONE,,
-BO0624_81847,153269,523,501,"DUE dalmatiche in broccato veneziano bianco a fiorami, Secolo XVIII.",745,97.1,False,none,,,,,
+BO0624_81847,153269,523,501,"DUE dalmatiche in broccato veneziano bianco a fiorami, Secolo XVIII.",745,97.1,False,none,,,,,Sec. XVIII
 BO0624_81847,153270,524,3,"502.DE STEFANI.— Margherite, dipinto su tavola in cornice dorata.",746,98.4,False,none,,,,,
-BO0624_81847,153271,525,503,"MORBELLI ANGELO, Sec. XIX. —Interno di Chiesa, dipinto su tela in cornice dorata.",747,79.4,False,none,,,,,
+BO0624_81847,153271,525,503,"MORBELLI ANGELO, Sec. XIX. —Interno di Chiesa, dipinto su tela in cornice dorata.",747,79.4,False,none,,,,,Sec. XIX
 BO0624_81847,153272,526,504,"SCATTOLA F.-—Festa del Redentore a Venezia, dipinto su tela",749,96.6,False,none,,,,,
 BO0624_81847,153273,527,7,"in cornice dorata, 72 x 82.",750,96.2,False,none,,,,,
 BO0624_81847,153274,528,8,"Maremma Toscana, dipinto su tela in",751,97.1,False,none,,,,,
@@ -536,8 +536,8 @@ BO0624_81847,153280,534,510,"SENET RAFFAELE.  Pecorelle, dipinto in cornice dora
 BO0624_81847,153281,535,11,"MENEGHELLI ENRICO. -Un crocchio, dipinto in passe-partout",758,97.3,False,none,,,,,
 BO0624_81847,153282,536,16,e cornice dorata.,759,91.4,False,none,,,,,
 BO0624_81847,153283,537,542,"JEMOLI. — Testa di donna, dipinto in cornice dorata.",760,95.9,False,none,,,,,
-BO0624_81847,153284,538,513,"IGNOTO, Sec. XIX. -- Paesaggio con macchiette, due dipinti su tavola in cornice dorata, 57 x 92.",761,97.8,False,none,,,,,
-BO0624_81847,153285,539,544,"BASCHENIS, Sec. XVII. — Natura morta, dipinto su tela in cor- nice dorata, 40 x 48.",762,81.8,False,none,,,,,
+BO0624_81847,153284,538,513,"IGNOTO, Sec. XIX. -- Paesaggio con macchiette, due dipinti su tavola in cornice dorata, 57 x 92.",761,97.8,False,none,,,,,Sec. XIX
+BO0624_81847,153285,539,544,"BASCHENIS, Sec. XVII. — Natura morta, dipinto su tela in cor- nice dorata, 40 x 48.",762,81.8,False,none,,,,,Sec. XVII
 BO0624_81847,153286,540,545,LOTTO di 3 Vasi di scavo Etruschi.,764,94.3,False,none,,,VASI,,
 BO0624_81847,153287,541,516,PEZzO damasco rosso vellutato.,766,93.5,False,none,,,,,
 BO0624_81847,153288,542,517,CALAMAIO in bronzo (riproduzione dal Tacca).,768,95.3,False,none,,,,,
@@ -550,12 +550,12 @@ BO0624_81847,153294,548,523,"IGNOTO. — San Matteo, dipinto su pergamena in cor
 BO0624_81847,153295,549,524,"IGNOTO. — Cristo, dipinto su tavola in cornice dorata, 42x 25.",779,96.6,False,none,,,,,
 BO0624_81847,153296,550,525,DUE incisioni Giuseppe II e I'ultimo Gioiello della Vedova.,780,96.7,False,none,,,STAMPE E INCISIONI,,
 BO0624_81847,153297,551,526,"VASETTO porcellana a scarabei, Sassonia. OROLOGIO a pendolo murale. LAMPADA da comodino bronzo con pietre.",787,53.1,False,none,,,LAMPADE,,
-BO0624_81847,153298,552,529,"DUE VASETTI giapponesi smalto azzurro. IGNOTO, Sec. XVI. -- Soggetto Sacro, dipinto su tela.",789,69.7,False,none,,,,,
+BO0624_81847,153298,552,529,"DUE VASETTI giapponesi smalto azzurro. IGNOTO, Sec. XVI. -- Soggetto Sacro, dipinto su tela.",789,69.7,False,none,,,,,Sec. XVI
 BO0624_81847,153299,553,530,"CRISTOLIUM. — La vestale, impressione su vetro con cornice.",790,96.4,False,none,,,,,
 BO0624_81847,153300,554,532,"IGNOTO. - Laguna veneta, tavola in cornice nera, 27 x 18. CHIALIVA G.Casa rustica, dipinto su tela, 58 x 79. IGNOTO. — Ritratto d'uomo, dipinto su tela, 42x 36.",791,51.0,False,none,,,,,
 BO0624_81847,153301,555,535,"IGNOTO. - Contadinella al mare, tavola in cornice dor., 35 x 20.",794,96.6,False,none,,,,,
-BO0624_81847,153302,556,11,"536.A ALBERELLO maiolica siciliana, Sec. XVII.",795,96.6,False,none,,,,,
-BO0624_81847,153303,557,538,"PAPPAGALLO in porcellana policromata. ALBERELLO maiolica Caltagirone con putto, Sec. XVII.",797,71.9,False,none,,,,,
+BO0624_81847,153302,556,11,"536.A ALBERELLO maiolica siciliana, Sec. XVII.",795,96.6,False,none,,,,,Sec. XVII
+BO0624_81847,153303,557,538,"PAPPAGALLO in porcellana policromata. ALBERELLO maiolica Caltagirone con putto, Sec. XVII.",797,71.9,False,none,,,,,Sec. XVII
 BO0624_81847,153304,558,539,"PAPPAGALLO in porcellana policromata. PIATTO grande Takonabe vecchia Cina, epoca dei Ming. COLONNA in marmo verde di Prato.",799,59.0,False,none,,,,,
 BO0624_81847,153305,559,542,"FERRI DOMENICO. Donna Piangente, pastello in cornice. AGAZZI ERMENEGILDO.Chiesa della Salute e barche, dipin-",802,67.1,False,none,,,,,
 BO0624_81847,153306,560,543,"MIGLIARO VINCENZO. —Danzatrice, tavoletta con cornice dor.",803,96.4,False,none,,,,,
@@ -572,43 +572,43 @@ BO0624_81847,153316,570,31,"Assedio, dipinto in cornice dorata.",815,95.7,False,
 BO0624_81847,153317,571,554,"ZENO E. — Venezia nel 7o0, dipinto su tela in cornice dorata.",816,96.6,False,none,,,,,
 BO0624_81847,153318,572,552,"POLTRONA Dantesca noce scolpito, sedile e schienale cuoio.",817,96.6,False,none,,,POLTRONE,,
 BO0624_81847,153319,573,553,TAVOLINO da Tea in stile Bolognese del Sec. XVl.,818,95.8,False,title_direct,,,ARREDAMENTI,,
-BO0624_81847,153320,574,554,"IGNOTO, Sec. XIX. — Soggetto Biblico, dipinto su tela in cornice dorata, 1.45 x 1.90.",819,83.5,False,none,,,,,
+BO0624_81847,153320,574,554,"IGNOTO, Sec. XIX. — Soggetto Biblico, dipinto su tela in cornice dorata, 1.45 x 1.90.",819,83.5,False,none,,,,,Sec. XIX
 BO0624_81847,153321,575,555,"SCUOLA BOLOGNESE, Sec. XVII.—San Sebastiano, dipinto su tela in cornice dorata, 4.42x 4.50.",821,72.9,False,none,,Scuola Bolognese,,,
-BO0624_81847,153322,576,556,"HALS FRANZ, Fiam. (Scuola di), Sec. XVII. — Ritratto di Gentiluomo, su tela, cornice dorata, 1.47 x 89.",823,97.8,False,none,HALS FRANS,,,,
+BO0624_81847,153322,576,556,"HALS FRANZ, Fiam. (Scuola di), Sec. XVII. — Ritratto di Gentiluomo, su tela, cornice dorata, 1.47 x 89.",823,97.8,False,none,HALS FRANS,,,,Sec. XVII
 BO0624_81847,153323,577,557,"VANNUCCHI ANDREA detto DEL SARTO, Sec. XVI.—Madonna col Bambino, dipinto su tela con cornice dorata, 90 x 75. Vedi illustrazione.",824,98.4,False,none,DEL SARTO ANDREA,,,,
-BO0624_81847,153324,578,558,"PIOLA GIOV. BATT., Sec. XVI. —La Sacra Famiglia, dipinto su tela firmato con monogramma G. B. P., cornice dorata, proviene da Casa Doria Candachiti, 2.20x 4.50. Vedi illustrazione.",825,92.7,False,none,,,,,
-BO0624_81847,153325,579,559,"CRESTI DOMENICO detto il PASSIGNANO, Sec. XVI e XVII. S. Iuo avvocato e Vescovo protettore delle vedove e fanciulli, tela cornice dorata, 2.10x 1.50.",827,86.4,False,none,,,,,
+BO0624_81847,153324,578,558,"PIOLA GIOV. BATT., Sec. XVI. —La Sacra Famiglia, dipinto su tela firmato con monogramma G. B. P., cornice dorata, proviene da Casa Doria Candachiti, 2.20x 4.50. Vedi illustrazione.",825,92.7,False,none,,,,,Sec. XVI
+BO0624_81847,153325,579,559,"CRESTI DOMENICO detto il PASSIGNANO, Sec. XVI e XVII. S. Iuo avvocato e Vescovo protettore delle vedove e fanciulli, tela cornice dorata, 2.10x 1.50.",827,86.4,False,none,,,,,Sec. XVI
 BO0624_81847,153326,580,560,"LIPPO MEMMI, Sec. XIV.--La Madonna col Bambino, dipinto",829,96.2,False,none,,,,,
 BO0624_81847,153327,581,15,"su tavola a fondo oro con tabernacolo in stile, dim. 63 x 43.",830,97.5,False,none,,,,,
-BO0624_81847,153328,582,564,"VAN DER WEYDEN ROGER, Sec. XIV e XV.— Madonna col",831,95.7,False,none,,,,,
+BO0624_81847,153328,582,564,"VAN DER WEYDEN ROGER, Sec. XIV e XV.— Madonna col",831,95.7,False,none,,,,,Sec. XIV
 BO0624_81847,153329,583,17,"Bambino, dipinto su tavola, 35 x 25.",832,95.7,False,none,,,,,
 BO0624_81847,153330,584,562,"CAMERA da letto in lacca gialla stile Veneziano, Sec. XVIll, composta di: Letto grande, Como con specchiera, Due comodini, Consolle e piccola toilette, Due sedie, Due poltroncine ricoperte",833,98.9,False,none,,,OGGETTI VARI,,
 BO0624_81847,153331,585,19,in seta a righe.,834,90.9,False,none,,,,,
 BO0624_81847,153332,586,564,"TIZIANO VECELLIO (Scuola di), Sec. XV-XVI.— Senatore Ve-",835,96.1,False,none,TIZIANO VECELLIO,Scuola di Tiziano,,,
 BO0624_81847,153333,587,563,DUE grandi vasi in porcellana Giapponesi.,836,95.2,False,none,,,VASI,,
 BO0624_81847,153334,588,22,"neziano, ritratto, su tela, cornice dorata, 1.o0x 80.",837,97.0,False,none,,,,,
-BO0624_81847,153335,589,23,"565.VAN DER HELST BARTOLOMEO, Sec. XVII.—Miscellanea,di-",838,97.2,False,none,,,,,
+BO0624_81847,153335,589,23,"565.VAN DER HELST BARTOLOMEO, Sec. XVII.—Miscellanea,di-",838,97.2,False,none,VAN DER HELST BARTHOLOMAEUS,,,,
 BO0624_81847,153336,590,24,pinto firmato monogramma.,839,94.1,False,none,,,,,
-BO0624_81847,153337,591,566,"VANNUCCI PIETRO detto il PERUGINO (Scuola di), Sec. XVI. - La crocefissione, dipinto su tela in corn. a tabernacolo, 70 x 55.",841,70.4,False,none,"VANUCCI PIETRO, PERUGINO",,,,
-BO0624_81847,153338,592,567,"GANDOLFI GAETANO, Sec. XVIII. Sposalizio di s. Caterina, dipinto su tela in cornice dorata, 1.45 x 1.03. Vedi illustrazione.",842,98.3,False,none,,,,,
-BO0624_81847,153339,593,568,"CALIARI PAOLO detto il VERONESE (Scuola di), Sec. XVI. Matrimonio mistico, su tavola, cornice dorata.",843,67.1,False,none,PAOLO VERONESE,Scuola di Paolo Veronese,,,
-BO0624_81847,153340,594,569,"MOLENAAR NICOLA (OI.), Sec. XVII. Paesaggio d'inverno, dipinto su tela firmato in cornice guilloche, dim. 56 x 45.",846,69.9,False,none,MOLENAER CLAAS,,,,
-BO0624_81847,153341,595,570,"MARZIO MORO. —Festa fantastica in piazza San Marco, dipinto",847,96.6,False,none,,,,,
+BO0624_81847,153337,591,566,"VANNUCCI PIETRO detto il PERUGINO (Scuola di), Sec. XVI. - La crocefissione, dipinto su tela in corn. a tabernacolo, 70 x 55.",841,70.4,False,none,"VANUCCI PIETRO, PERUGINO",,,,Sec. XVI
+BO0624_81847,153338,592,567,"GANDOLFI GAETANO, Sec. XVIII. Sposalizio di s. Caterina, dipinto su tela in cornice dorata, 1.45 x 1.03. Vedi illustrazione.",842,98.3,False,none,,,,,Sec. XVIII
+BO0624_81847,153339,593,568,"CALIARI PAOLO detto il VERONESE (Scuola di), Sec. XVI. Matrimonio mistico, su tavola, cornice dorata.",843,67.1,False,none,PAOLO VERONESE,Scuola di Paolo Veronese,,,Sec. XVI
+BO0624_81847,153340,594,569,"MOLENAAR NICOLA (OI.), Sec. XVII. Paesaggio d'inverno, dipinto su tela firmato in cornice guilloche, dim. 56 x 45.",846,69.9,False,none,MOLENAER CLAAS,,,,Sec. XVII
+BO0624_81847,153341,595,570,"MARZIO MORO. —Festa fantastica in piazza San Marco, dipinto",847,96.6,False,none,PIAZZETTA JEAN-BAPTISTE,,,,
 BO0624_81847,153342,596,2,"a tempra in cornice dorata e scolpita, 65 x 1.10.",848,97.9,False,none,,,,,
 BO0624_81847,153343,597,574,"MARZIO MORO.— Ricevimento galante nel Secolo xvill, dipinto a tempra in cornice dorata e scolpita (pendent del pre-",849,98.2,False,none,,,,,
 BO0624_81847,153344,598,4,"cedente), 65x 1.10.",850,94.1,False,none,,,,,
 BO0624_81847,153345,599,572,DUE vasi con ricca decorazione in porcellana marcati Schierholz.,851,96.9,False,none,,,VASI,,
 BO0624_81847,153346,600,573,PILA in marmo scolpito.,852,91.7,False,none,,,,,
 BO0624_81847,153347,601,574,"LUCERNA Fiorentina grande a cinque beccucci, bronzo, alta circa 1.70.",853,88.0,False,none,,,,,
-BO0624_81847,153348,602,575,"HALS FRANZ (Scuola di), Sec. XVII. — Ritratto di Gentiluomo, su tela, cornice dorata.",855,79.4,False,none,HALS FRANS,,,,
-BO0624_81847,153349,603,576,"JACOPO DA PONTE, detto il BASSANO, Sec. XVI. — Ritratto d'uomo, dipinto su tela in cornice dorata, 64 x 48.",857,98.0,False,none,BASSANO GIACOMO,,,,
+BO0624_81847,153348,602,575,"HALS FRANZ (Scuola di), Sec. XVII. — Ritratto di Gentiluomo, su tela, cornice dorata.",855,79.4,False,none,HALS FRANS,,,,Sec. XVII
+BO0624_81847,153349,603,576,"JACOPO DA PONTE, detto il BASSANO, Sec. XVI. — Ritratto d'uomo, dipinto su tela in cornice dorata, 64 x 48.",857,98.0,False,none,BASSANO GIACOMO,,,,Sec. XVI
 BO0624_81847,153350,604,577,DUE Piatti in maiolica di Takonabe.,859,94.4,False,none,,,PIATTI,,
-BO0624_81847,153351,605,578,"BROCCA maiolica di Montelupo, Sec. XVII.",861,94.9,False,none,,,,,
-BO0624_81847,153352,606,579,"ALBERELLO maiolica di Caltagirone, con dec. a margherite, Sec. xVII. VASO grande a cilindro, maiolica di Pesaro, Sec. XVII.",862,69.6,False,none,,,VASI,,
+BO0624_81847,153351,605,578,"BROCCA maiolica di Montelupo, Sec. XVII.",861,94.9,False,none,,,,,Sec. XVII
+BO0624_81847,153352,606,579,"ALBERELLO maiolica di Caltagirone, con dec. a margherite, Sec. xVII. VASO grande a cilindro, maiolica di Pesaro, Sec. XVII.",862,69.6,False,none,,,VASI,,Sec. XVII
 BO0624_81847,153353,607,580,"584. MINIATURA su avorio.—La Principessa di Lichtenstein, cornicetta nera.",867,100.0,False,none,,,MINIATURE,,
 BO0624_81847,153354,608,582,"MINIATURA su avorio. — Signorina Stolz, cerchietto bronzo dor.",868,96.6,False,none,,,MINIATURE,,
 BO0624_81847,153355,609,583,TAvOLINA da Tea forma esagona a cinque colonne.,870,95.8,False,none,,,,,
-BO0624_81847,153356,610,584,TAVOLINA da Tea in stile Bolognese del Sec. XVII.,872,95.9,False,title_direct,,,TAVOLE,,
+BO0624_81847,153356,610,584,TAVOLINA da Tea in stile Bolognese del Sec. XVII.,872,95.9,False,title_direct,,,TAVOLE,,Sec. XVII
 BO0624_81847,153357,611,585,"CAMPRIANI ALCESTE.—La Chiesa della Salute, tela corn. dor.",874,96.4,False,none,,,,,
 BO0624_81847,153358,612,586,"CAMPRIANI ALCESTE. Barca tirata a secco, tela cornice dor.",876,96.5,False,none,,,,,
 BO0624_81847,153359,613,587,"CAMPRIANI ALCESTE. Viale, dipinto su tela in cornice dor.",877,96.4,False,none,,,,,
@@ -630,12 +630,12 @@ BO0624_81847,153374,628,602,TAVOLINO a 4 gambe e cassetto.,909,93.5,False,title_
 BO0624_81847,153375,629,603,"FERGUSON. — Suonatore di mandolino, cartone in cornice dor.",910,96.4,False,none,,,,,
 BO0624_81847,153376,630,604,"FERGUSON D. —Rose, tela in cornice nera, 39 x 27.",911,95.7,False,none,,,,,
 BO0624_81847,153377,631,605,"ALBERELLO maiolica di Palermo, medaglione e trofei Sec. XVIl.",912,96.7,False,none,,,,,
-BO0624_81847,153378,632,606,"TAVOLINA da Tea, stile Bolognese, Sec. XVI.",913,95.1,False,title_direct,,,TAVOLE,,
+BO0624_81847,153378,632,606,"TAVOLINA da Tea, stile Bolognese, Sec. XVI.",913,95.1,False,title_direct,,,TAVOLE,,Sec. XVI
 BO0624_81847,153379,633,607,"MINIATURA su avorio. —Lady Ellen Borrogh, in cornicetta ner.",914,96.6,False,none,,,MINIATURE,,
 BO0624_81847,153380,634,608,COLONNA in marmo verde di Prato.,915,93.9,False,none,,,,,
 BO0624_81847,153381,635,609,"POLTRONA dantesca, sedile e schienale cuoio con frangia dorata.",916,96.8,False,none,,,POLTRONE,,
 BO0624_81847,153382,636,610,"DUE anfore in porceliana con decorazioni a rilievo, marcate Capodimonte. rello in cornice dorata, 45 x 64.",917,79.5,False,none,,,,,
-BO0624_81847,153383,637,611,"BORTOLOTTI GAETANO, 1867. —Buoi all'abbeveraggio, acque-",919,96.2,False,none,,,,,
+BO0624_81847,153383,637,611,"BORTOLOTTI GAETANO, 1867. —Buoi all'abbeveraggio, acque-",919,96.2,False,none,,,,,Sec. XIX
 BO0624_81847,153384,638,612,"SAN MALATO V. —Iris e violette, dipinto in cornice dorata.",920,96.4,False,none,,,,,
 BO0624_81847,153385,639,613,"SAN MALATO V.—Riflessi, dipinto in cornice dorata.",921,95.9,False,none,,,,,
 BO0624_81847,153386,640,614,"DELLA GATTA.—Darsena, tavoletta con cornice.",922,95.3,False,none,,,,,
@@ -670,11 +670,11 @@ BO0624_81847,153414,668,636,TAVOLINO per signora in citronnier intarsiato.,957,9
 BO0624_81847,153415,669,637,"SALOTTINO in citronnier, finissimo lavoro Inglese, composto di : Canape, 4 Sedie, 2 Poltrone, Tavolino, Vetrina con vetri con-",958,98.3,False,none,,,ARREDAMENTI,,
 BO0624_81847,153416,670,638,"MOBILE Inglese con alzata, mogano finemente intarsiato.",960,96.4,False,none,,,,,
 BO0624_81847,153417,671,639,"SORTINI SAVERIO.La vittoria del ferro, statua in bronzo.",961,96.4,False,none,,,,,
-BO0624_81847,153418,672,640,"BARBUDO-SANCHEZ SALVATORE.—Ritratto di Gentiluomo in costume Sec. XVI, dipinto su tela in cornice dorata, firmato e datato, 96 x 58.",962,98.4,False,none,,,,,
+BO0624_81847,153418,672,640,"BARBUDO-SANCHEZ SALVATORE.—Ritratto di Gentiluomo in costume Sec. XVI, dipinto su tela in cornice dorata, firmato e datato, 96 x 58.",962,98.4,False,none,,,,,Sec. XVI
 BO0624_81847,153419,673,644,"BARBUDO-SANCHEZ SALVATORE.-Ritratto di Giovane in costume del Secolo XVll, dipinto su tela in cornice dorata, firmato e datato, 53x 32.",966,98.5,False,none,,,,,
 BO0624_81847,153420,674,642,"MICHETTI FRANCESCO PAOLO.—Il Voto, prima idea dell'artista, disegno colorato di grande interesse per la storia dell'arte moderna.",967,98.4,False,none,,,,,
 BO0624_81847,153421,675,643,"MICHETTI F. PAOLO.—Contadina, dipinto su tela in cornice dorata con contro-cornice, 35 × 25.",968,97.7,False,none,,,,,
-BO0624_81847,153422,676,4,"644.CAPRILE VINCENZO.— La strage degl'Innocenti o Mercato di Pasqua, dipinto su tela, cornice dorata, 2.20 x 1.10. Premiato all' Esposizione di Monaco di Baviera 1896.",969,99.4,False,none,,,,,
+BO0624_81847,153422,676,4,"644.CAPRILE VINCENZO.— La strage degl'Innocenti o Mercato di Pasqua, dipinto su tela, cornice dorata, 2.20 x 1.10. Premiato all' Esposizione di Monaco di Baviera 1896.",969,99.4,False,none,,,,,Sec. XIX
 BO0624_81847,153423,677,10,"orata, a, gia",980,100.0,False,none,,,,,
 BO0624_81847,153424,678,I,l'arte ornice,992,96.3,False,none,,,,,
 BO0624_81847,153425,679,645,"FONTANESI ANTONIO.—La Quercia, tela cornice dorata. Regalo che fu fatto da S. M. Umberto I al Conte Lanza ambasciatore a Berlino.",996,98.4,False,none,,,,,
@@ -727,9 +727,9 @@ BO0624_81847,153471,725,692,"KASAK,218×143=311.",1079,89.5,False,positional,,,T
 BO0624_81847,153472,726,693,"AFGHAN BOKARA,cm.180×110=198. BELUCISTAN, cm.174×095=159. GALLERIA KASAK,cm.246×110=270.",1085,54.7,False,positional,,,TAPPETI PERSIANI,,
 BO0624_81847,153473,727,696,"GALLERIA,cm.369x112=413.",1087,92.0,False,positional,,,TAPPETI PERSIANI,,
 BO0624_81847,153474,728,697,"KASAK,cm.237x156=369.",1089,90.9,False,positional,,,TAPPETI PERSIANI,,
-BO0624_81847,153475,729,698,"CABRISTAN,cm.197×137=270. SUMACK,cm.295×190=560. MAHAL,cm.382×275=1050.",1093,51.6,False,positional,,,TAPPETI PERSIANI,,
+BO0624_81847,153475,729,698,"CABRISTAN,cm.197×137=270. SUMACK,cm.295×190=560. MAHAL,cm.382×275=1050.",1093,51.6,False,positional,,,TAPPETI PERSIANI,,Sec. XI
 BO0624_81847,153476,730,701,"AFGHAN,cm.180×116=208. FERAKAN GALLERIA,cm.340×130=481. VECCHIO JORDEZ,cm. 200×117=234.",1099,55.9,False,positional,,,TAPPETI PERSIANI,,
-BO0624_81847,153477,731,704,"JORAVAN,cm.360×288=1076.",1103,92.0,False,positional,,,TAPPETI PERSIANI,,
+BO0624_81847,153477,731,704,"JORAVAN,cm.360×288=1076.",1103,92.0,False,positional,,,TAPPETI PERSIANI,,Sec. XI
 BO0624_81847,153478,732,705,"SERABEND,324×235=761.",1105,90.9,False,positional,,,TAPPETI PERSIANI,,
 BO0624_81847,153479,733,706,"KASAK,cm.338x180=608.",1107,90.9,False,positional,,,TAPPETI PERSIANI,,
 BO0624_81847,153480,734,707,"CHIRVAN,cm.285×120=342.",1108,91.7,False,positional,,,TAPPETI PERSIANI,,
@@ -742,10 +742,10 @@ BO0624_81847,153486,740,713,"KASAK, cm. 240x 425=300.",1120,91.3,False,positiona
 BO0624_81847,153487,741,714,"SEJADE, cm.200×130=260.",1122,91.3,False,positional,,,TAPPETI PERSIANI,,
 BO0624_81847,153488,742,715,"KASAK, cm. 360×180=648.",1124,90.9,False,positional,,,TAPPETI PERSIANI,,
 BO0624_81847,153489,743,746,"BECHIR,cm.442x163=720.",1126,91.3,False,positional,,,TAPPETI PERSIANI,,
-BO0624_81847,153490,744,717,"KARABAGH, cm. 564x210=1184.",1128,92.3,False,positional,,,TAPPETI PERSIANI,,
+BO0624_81847,153490,744,717,"KARABAGH, cm. 564x210=1184.",1128,92.3,False,positional,,,TAPPETI PERSIANI,,Sec. XII
 BO0624_81847,153491,745,748,"TEBRIZ finissimo,cm.326×249=714.",1130,93.9,False,positional,,,TAPPETI PERSIANI,,
-BO0624_81847,153492,746,719,"TEBRIZ,cm. 377×277=1044.",1132,91.7,False,positional,,,TAPPETI PERSIANI,,
-BO0624_81847,153493,747,720,"TEBRIZ, cm. 425×306=1300.",1134,91.7,False,positional,,,TAPPETI PERSIANI,,
+BO0624_81847,153492,746,719,"TEBRIZ,cm. 377×277=1044.",1132,91.7,False,positional,,,TAPPETI PERSIANI,,Sec. XI
+BO0624_81847,153493,747,720,"TEBRIZ, cm. 425×306=1300.",1134,91.7,False,positional,,,TAPPETI PERSIANI,,Sec. XIV
 BO0624_81847,153494,748,724,"BOKARA ROYAL,cm.308×218=074.",1136,93.1,False,positional,,,TAPPETI PERSIANI,,
 BO0624_81847,153495,749,722,"BOKARA ROYAL-PENDIK,cm.302×210=634.",1138,94.4,False,positional,,,TAPPETI PERSIANI,,
 BO0624_81847,153496,750,723,"AFGAN BOKARA,cm.413×196=809.",1140,93.1,False,positional,,,TAPPETI PERSIANI,,

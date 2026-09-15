@@ -1,29 +1,29 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88142,608220,1,1,"Joh. Jodoco Beck. Hochgravlich Hohenloh-Neuensteinischer Rath, vollstandiges und nach dem heutigen Curial-Stilo eingerichtetes Formular, darinnen verschiedene Instrumenta und Wechselprotest etc. 3. Aufl. Verl.: Locher,",5,99.5,False,positional,,,Bicher,,
-BO0624_88142,608221,2,2,"Bibel, das ist die ganze hl. Schrift des alten und neuen Testaments, wie solche von Dr.Martin Luther ibersetzt wurde. Nurnberg 1747.  Mit vielen Kupfern, darunter 11 Bildnisse der chur- und fuirstlichen evangelischen Helden",7,99.5,False,positional,,Scuola di Norimberga,OGGETTI IN RAME,,
-BO0624_88142,608222,3,3,"- 4 Braun, Einleitung in die Gotterlehre. Mit vielen Kupfern. Verl.: Elias Tobias Lotter, Augsburg 1776.",9,100.0,False,positional,,,OGGETTI IN RAME,,
+BO0624_88142,608221,2,2,"Bibel, das ist die ganze hl. Schrift des alten und neuen Testaments, wie solche von Dr.Martin Luther ibersetzt wurde. Nurnberg 1747.  Mit vielen Kupfern, darunter 11 Bildnisse der chur- und fuirstlichen evangelischen Helden",7,99.5,False,positional,,Scuola di Norimberga,OGGETTI IN RAME,,Sec. XVIII
+BO0624_88142,608222,3,3,"- 4 Braun, Einleitung in die Gotterlehre. Mit vielen Kupfern. Verl.: Elias Tobias Lotter, Augsburg 1776.",9,100.0,False,positional,,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88142,608223,4,5,"Concordia, christliche wiederholete einmutige Bekenntnis nach-",11,98.4,False,positional,,,Bicher,,
-BO0624_88142,608224,5,6,"Dominikus, Heinrich der Vierte. Verlag Ziegler, Zurich 1797.",12,98.2,False,positional,,,Bicher,,
-BO0624_88142,608225,6,7,"4 Ex. Ekeman-Allesson, Rindvieh- und Haustierrassen auf den Privatgitern S. M. des Konigs von Wuirttbg. Verlag Lofflund &amp; Sohn, Stuttgart, 1827.",14,99.3,False,positional,,,Bicher,,
+BO0624_88142,608224,5,6,"Dominikus, Heinrich der Vierte. Verlag Ziegler, Zurich 1797.",12,98.2,False,positional,,,Bicher,,Sec. XVIII
+BO0624_88142,608225,6,7,"4 Ex. Ekeman-Allesson, Rindvieh- und Haustierrassen auf den Privatgitern S. M. des Konigs von Wuirttbg. Verlag Lofflund &amp; Sohn, Stuttgart, 1827.",14,99.3,False,positional,,,Bicher,,Sec. XIX
 BO0624_88142,608226,7,9,9,16,100.0,False,positional,DE MOMPER JODOCUS,,Bicher,,
-BO0624_88142,608227,8,10,"Florinus, Grosser Herren Stands und Adelicher Hausvatter. Teil Il. Mit vielen Kupfern. Fol. Nuirnberg 1719.",18,98.5,False,positional,,,OGGETTI IN RAME,,
+BO0624_88142,608227,8,10,"Florinus, Grosser Herren Stands und Adelicher Hausvatter. Teil Il. Mit vielen Kupfern. Fol. Nuirnberg 1719.",18,98.5,False,positional,,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88142,608228,9,11,"- 12 Grin, Anastasius, der letzte Ritter.",21,100.0,False,positional,,,Bicher,,
-BO0624_88142,608229,10,13,Heydelberg. Historischer Schauplatz. Frankfurt 1733.,23,97.0,False,positional,,,Bicher,,
-BO0624_88142,608230,11,14,"1 Herbarium Hochfirst. Mergentheimer Kalender vom Jahr 1802. 3 Wurtt.Kalender aus d. Jahren 1820, 1821,1836.",26,63.2,False,positional,,,Bicher,,
-BO0624_88142,608231,12,17,"Karl Eugen,Herzog von Wurttemberg und seine Zeit. 14 Hefte. Verl. Paul Neff, Stuttgart 1903.",28,98.3,False,title_direct,Paul,,,,
+BO0624_88142,608229,10,13,Heydelberg. Historischer Schauplatz. Frankfurt 1733.,23,97.0,False,positional,,,Bicher,,Sec. XVIII
+BO0624_88142,608230,11,14,"1 Herbarium Hochfirst. Mergentheimer Kalender vom Jahr 1802. 3 Wurtt.Kalender aus d. Jahren 1820, 1821,1836.",26,63.2,False,positional,,,Bicher,,Sec. XIX
+BO0624_88142,608231,12,17,"Karl Eugen,Herzog von Wurttemberg und seine Zeit. 14 Hefte. Verl. Paul Neff, Stuttgart 1903.",28,98.3,False,title_direct,Paul,,,,Sec. XX
 BO0624_88142,608232,13,18,"Knackfuss, Kunstlermonographien. Stuck, Rethel, Raffael,",29,97.1,False,positional,STUCK FRANZ VON,,Bicher,,
 BO0624_88142,608233,14,19,"- Meissner, Skizzen. 3.u.4. Sammlung.",31,100.0,False,positional,,,Bicher,,
 BO0624_88142,608234,15,20,"Mozart, Auswahl der vorziglichsten Arien und Gesange aus der komischen Oper: Die Gartnerin aus Liebe. Leipzig, Bureau de Mussic 1.Heft. Munchner Vergissmeinnicht mit 20 bildlichen Darstellungen der Gebaude, Strassen, Platze etc. Mozart, Gesange beim Klavier: Das Bandchen, ein scherzhaftes Terzett.Verlag Gotz, Mannheim.",33,59.1,False,positional,,Scuola di Monaco,Bicher,,
 BO0624_88142,608235,16,23,Musee de Versailles ou Tableaux de l'histoire de France.,36,97.3,False,positional,,,Bicher,,
-BO0624_88142,608236,17,24,"Nicolai, Anekdoten von Konig Friedrich Il. von Preussen. Berlin 1790.",37,97.7,False,positional,,Scuola di Berlino,Bicher,,
-BO0624_88142,608237,18,25,"Proben aus der Schriftgiesserei der Andreaischen Buchhandlung in Frankfurt a. M. 1834. Schmid, Nekrolog deutscher Dichter. In 1 Bd. Verl. Mylius Berlin 175, Rabener, Satiren. 5 Bd.",38,65.1,False,positional,,Scuola di Berlino,Bicher,,
+BO0624_88142,608236,17,24,"Nicolai, Anekdoten von Konig Friedrich Il. von Preussen. Berlin 1790.",37,97.7,False,positional,,Scuola di Berlino,Bicher,,Sec. XVIII
+BO0624_88142,608237,18,25,"Proben aus der Schriftgiesserei der Andreaischen Buchhandlung in Frankfurt a. M. 1834. Schmid, Nekrolog deutscher Dichter. In 1 Bd. Verl. Mylius Berlin 175, Rabener, Satiren. 5 Bd.",38,65.1,False,positional,,Scuola di Berlino,Bicher,,Sec. XIX
 BO0624_88142,608238,19,28,"Schonhaar, Heimfihrung des durchl. Fursten und Herrn Karl Herzog zu Wurttemberg. Vollstandiges Exemplar mit Leonberger Jagd.",41,98.8,False,positional,,,Bicher,,
 BO0624_88142,608239,20,29,"Schramm, Historischer Schauplatz in welchem die merkwirdigsten Bricken beschrieben sind. a dito ohne llustrationen.",42,85.6,False,positional,,,OGGETTI VARI,,
 BO0624_88142,608240,21,30,"Schreiber, Lehrbuch der Perspektive.",44,95.8,False,positional,,,Bicher,,
 BO0624_88142,608241,22,31,"Schwab, Gustav. Wanderungen durch Schwaben mit 30 Stahl-",53,97.2,False,positional,,,OGGETTI IN METALLO,,
 BO0624_88142,608242,23,32,"Seidel's Bildersammlung,in welcher 1o0 grosstenteils in der",54,97.5,False,positional,,,Bicher,,
 BO0624_88142,608243,24,33,dess Funften. Frankfurt i583.,57,94.7,False,positional,,,Bicher,,
-BO0624_88142,608244,25,34,"Wanderungen durch Tirol und Vorarlberg. Usi e Costumi di tutti i popoli dell Universo. Vol. I. L'Europa. Tasso, das befreite Jerusalem. Leipzig 1744.",60,59.8,False,positional,,Scuola Tirolese,Bicher,,
+BO0624_88142,608244,25,34,"Wanderungen durch Tirol und Vorarlberg. Usi e Costumi di tutti i popoli dell Universo. Vol. I. L'Europa. Tasso, das befreite Jerusalem. Leipzig 1744.",60,59.8,False,positional,,Scuola Tirolese,Bicher,,Sec. XVIII
 BO0624_88142,608245,26,37,4 div. Bicher.,62,88.9,False,title_direct,,,Bicher,,
 BO0624_88142,608246,27,38,b Alfr. Rethel. Auch ein Totentanz mit Text von Reineck.,63,98.1,False,positional,,,Bicher,,
 BO0624_88142,608247,28,38,"4 Bicher,Geometrie, Geschichte etc.",64,95.7,False,title_direct,,,Bicher,,
@@ -57,14 +57,14 @@ BO0624_88142,608274,55,73,b Bronzeleuchter mit Glocke.,144,96.4,False,positional
 BO0624_88142,608275,56,73,"a Zunftzeichen der Huf und Wagenschmiede, eisengeschmiedet. Renaissance.",146,98.6,False,positional,,,Fayencen,,
 BO0624_88142,608276,57,73,c Nahkissenhalter (Ulmisch).,148,96.2,False,positional,,,Fayencen,,
 BO0624_88142,608277,58,73,"e 1 Paar Engel, Leuchtertrager; Holzgeschnitzt und bemalt. Renaissance.",150,98.5,False,positional,,,Fayencen,,
-BO0624_88142,608278,59,73,d Zunftbuch der Backer und Bierbrauer.Beginnend 1617.,152,98.1,False,positional,,,Fayencen,,
+BO0624_88142,608278,59,73,d Zunftbuch der Backer und Bierbrauer.Beginnend 1617.,152,98.1,False,positional,,,Fayencen,,Sec. XVII
 BO0624_88142,608279,60,73,"f 1 Paar gefligelte Engelskopfe, bunt bemalt. Holz.",154,98.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88142,608280,61,73,"h Grosser Engelskopf, geflugelt, Barock.",156,97.4,False,positional,,,Fayencen,,
 BO0624_88142,608281,62,73,g Grosser gefligelter Engelskopf. Renaissance.,158,97.8,False,positional,,,Fayencen,,
 BO0624_88142,608282,63,73,"i Holzfigur, Apostel, Renaissance. 63 cm hoch.",164,97.7,False,positional,,,Fayencen,,
 BO0624_88142,608283,64,83,cm. Siehe Abbildung.,166,92.3,False,positional,,,Fayencen,,
-BO0624_88142,608284,65,73,"k sitzende Mutter Anna selb dritt. Um 1450. Hohe """"",168,97.9,False,positional,,,Fayencen,,
-BO0624_88142,608285,66,731,"sitzender Petrus. Fruhgotisch. Um 1400. Hohe 58 cm. 73m Grosser Altaraufsatz, Spatrenaissance in alter Bemalung und "" Oelgemalde: Maria Himmelfahrt. Augsburger Arbeit (Art des Huber von Weissenhorn.) Siehe Abbildung.",170,99.0,False,positional,,,Fayencen,,
+BO0624_88142,608284,65,73,"k sitzende Mutter Anna selb dritt. Um 1450. Hohe """"",168,97.9,False,positional,,,Fayencen,,Sec. XV
+BO0624_88142,608285,66,731,"sitzender Petrus. Fruhgotisch. Um 1400. Hohe 58 cm. 73m Grosser Altaraufsatz, Spatrenaissance in alter Bemalung und "" Oelgemalde: Maria Himmelfahrt. Augsburger Arbeit (Art des Huber von Weissenhorn.) Siehe Abbildung.",170,99.0,False,positional,,,Fayencen,,Sec. XV
 BO0624_88142,608286,67,730,"St. Katharina, in alter Bemalung. Barock. """,172,94.9,False,positional,,,Fayencen,,
 BO0624_88142,608287,68,73,"n Holzfigur in alter Bemalung, St. Barbara. Barock.",174,97.9,False,positional,,,Fayencen,,
 BO0624_88142,608288,69,73,"p St. Florian, "" "" "" """,176,92.3,False,positional,,,Fayencen,,
@@ -162,7 +162,7 @@ BO0624_88142,608379,160,176,'dito.,365,66.7,False,positional,,,Zinn,,
 BO0624_88142,608380,161,177,dito.,367,66.7,False,positional,,,Zinn,,
 BO0624_88142,608381,162,178,Hostiendose mit Deckel. Sehr interessantes Stick! Siehe Abbildung.,375,96.9,False,positional,,,Zinn,,
 BO0624_88142,608382,163,179,a Grosse Platte mit reicher Gravierung. Gestoch. in Regensburg.,376,97.6,False,positional,,,Zinn,,
-BO0624_88142,608383,164,179,dito. Pfarrer Vogeli zu Stein gewidmet von Salomon Meyer 1783. Sehr seltenes Stuick! Siehe Abbildung.,378,98.0,False,positional,,,Zinn,,
+BO0624_88142,608383,164,179,dito. Pfarrer Vogeli zu Stein gewidmet von Salomon Meyer 1783. Sehr seltenes Stuick! Siehe Abbildung.,378,98.0,False,positional,,,Zinn,,Sec. XVIII
 BO0624_88142,608384,165,179,b Schweizer Kanne. Siehe Abbildung.,380,95.7,False,positional,,,Zinn,,
 BO0624_88142,608385,166,179,d dito.,382,80.0,False,positional,,,Zinn,,
 BO0624_88142,608386,167,179,"c Suppenschussel, gedeckelt. Rokoko.",384,95.7,False,positional,,,Zinn,,
@@ -528,19 +528,19 @@ BO0624_88142,608745,526,806,Fries zum Hohenhafen. Zeichnung.,1786,93.8,False,tit
 BO0624_88142,608746,527,808,- 807 Gemaltes Fenster in Konstanz.,1790,100.0,False,positional,,,Skizzenbicher,,
 BO0624_88142,608747,528,809,"Huldigung, Zeichnung vom Hohenhafen.",1792,94.4,False,positional,,,Skizzenbicher,,
 BO0624_88142,608748,529,810,"Fries aus Konstanz, Huldigung der Konstanzia. 2 Studienblatter aus dem 30jahrigen Krieg. 3 Studienkopfe.",1796,58.5,False,positional,,,Skizzenbicher,,
-BO0624_88142,608749,530,813,Kostuimblatt aus dem Jahr 1809. Schweizer Kostimblatt. Kostimfiguren aus Konstanz aus dem Jahre 1738.,1801,63.9,False,positional,,,Skizzenbicher,,
-BO0624_88142,608750,531,816,Kostumbild aus Zurich. 18. Jahrh.,1803,93.8,False,positional,,,Skizzenbicher,,
-BO0624_88142,608751,532,817,"Hollander, 15. Jahrhundert. Kostimbild.",1805,94.6,False,positional,,,Skizzenbicher,,
-BO0624_88142,608752,533,818,"Kostimbild der Wurttemberger,1724-34.",1806,94.7,False,positional,,,Skizzenbicher,,
-BO0624_88142,608753,534,819,"a Rasierbude in Tunis. Spezialzeichnung. Gerahmt, Oesterreichisches Kostuimblatt 1710/30.",1807,68.7,False,positional,,,Skizzenbicher,,
+BO0624_88142,608749,530,813,Kostuimblatt aus dem Jahr 1809. Schweizer Kostimblatt. Kostimfiguren aus Konstanz aus dem Jahre 1738.,1801,63.9,False,positional,,,Skizzenbicher,,Sec. XIX
+BO0624_88142,608750,531,816,Kostumbild aus Zurich. 18. Jahrh.,1803,93.8,False,positional,,,Skizzenbicher,,Sec. XVIII
+BO0624_88142,608751,532,817,"Hollander, 15. Jahrhundert. Kostimbild.",1805,94.6,False,positional,,,Skizzenbicher,,Sec. XV
+BO0624_88142,608752,533,818,"Kostimbild der Wurttemberger,1724-34.",1806,94.7,False,positional,,,Skizzenbicher,,Sec. XVIII
+BO0624_88142,608753,534,819,"a Rasierbude in Tunis. Spezialzeichnung. Gerahmt, Oesterreichisches Kostuimblatt 1710/30.",1807,68.7,False,positional,,,Skizzenbicher,,Sec. XVIII
 BO0624_88142,608754,535,820,Studienblatt. Architekturstudie aus Buochs. Guitarrespielendes Madchen.,1810,58.0,False,positional,,,Skizzenbicher,,
 BO0624_88142,608755,536,823,Sarwey'sches Haus in der Kronenstrasse. 2 Studienblatter aus dem 30jahrigen Krieg. Feuerspringen im wirt. Schwarzwalde. Hervorr. schone Zeich.,1814,58.5,False,positional,,,Skizzenbicher,,
 BO0624_88142,608756,537,826,- 828,1816,100.0,False,positional,,,Skizzenbicher,,
 BO0624_88142,608757,538,827,Szene aus Wallenstein.,1817,91.3,False,positional,,,Skizzenbicher,,
 BO0624_88142,608758,539,I,m Ratskeller.,1819,96.0,False,positional,,,Skizzenbicher,,
 BO0624_88142,608759,540,829,2 Titelblatter zu Kinderbilderbichern. Schweizer Kostimblatt.,1821,74.0,False,positional,,,Skizzenbicher,,
-BO0624_88142,608760,541,830,- 832 Kostimblatt aus der Schweiz. Kanton Zurich. 18. Jahrh.,1824,100.0,False,positional,,,Skizzenbicher,,
-BO0624_88142,608761,542,834,Kostuimblatt der Wurttemberger. 1724/26. - Kostimblatt eines Franzosen.  15. Jahrh.,1825,65.0,False,positional,,,Skizzenbicher,,
+BO0624_88142,608760,541,830,- 832 Kostimblatt aus der Schweiz. Kanton Zurich. 18. Jahrh.,1824,100.0,False,positional,,,Skizzenbicher,,Sec. XVIII
+BO0624_88142,608761,542,834,Kostuimblatt der Wurttemberger. 1724/26. - Kostimblatt eines Franzosen.  15. Jahrh.,1825,65.0,False,positional,,,Skizzenbicher,,Sec. XV
 BO0624_88142,608762,543,835,Gartenfest auf Villa Berg. Im Vordergrunde Konig Karl. Szene aus Wallenstein. - Hopfenernte in Tettnang.,1828,67.5,False,positional,,,Skizzenbicher,,
 BO0624_88142,608763,544,838,"Haydn am Klavier,dirigierend.S dito. Hus auf dem Scheiterhaufen.",1832,62.5,False,positional,,,Skizzenbicher,,
 BO0624_88142,608764,545,841,"Kostimwerk mit 64 teils doppelseitigen Blattern,(Feder-und Bleistiftzeichnungen) mit tausenden von Kostimen sowie Pause und 5 aquarellierten Blattern. Auf Wunsch",1836,81.3,False,title_direct,,,OGGETTI IN PIOMBO,,
@@ -634,73 +634,73 @@ BO0624_88142,608851,632,963,c Studienblatt. Handwerksburschen.,2031,95.5,False,p
 BO0624_88142,608852,633,963,"e A.K.,Tuschzeichnung, Eber.",2033,94.3,False,positional,,,Aquarelle; Zeichnungen; Oelstudien,,
 BO0624_88142,608853,634,963,"g Guibal, Studienkopf. Rotelzeichnung.",2035,95.9,False,positional,,,Aquarelle; Zeichnungen; Oelstudien,,
 BO0624_88142,608854,635,963,"f Unbekannt, Federzeichnung. Lesender Mann aus der Biedermeierzeit.",2037,97.7,False,positional,,Biedermeier,Aquarelle; Zeichnungen; Oelstudien,,
-BO0624_88142,608855,636,963,"h S.F.1795, Horatier. Sepiazeichnung.",2039,95.8,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88142,608856,637,963,"k Koblitz, Stolzenfels am Rhein.Aquarell. i S.F.1795,Kampfende Krieger. Tuschzeichnung. Vorziglich.",2043,71.5,False,title_direct,,,Aquarelle,,
+BO0624_88142,608855,636,963,"h S.F.1795, Horatier. Sepiazeichnung.",2039,95.8,False,positional,,,STAMPE E INCISIONI,,Sec. XVIII
+BO0624_88142,608856,637,963,"k Koblitz, Stolzenfels am Rhein.Aquarell. i S.F.1795,Kampfende Krieger. Tuschzeichnung. Vorziglich.",2043,71.5,False,title_direct,,,Aquarelle,,Sec. XVIII
 BO0624_88142,608857,638,964,von 358 Exlibris.,2047,88.9,False,positional,,,Exlibris-Sammlung,,
 BO0624_88142,608858,639,966,"Johann Elias Ridinger, Titelblatt.",2055,94.1,False,positional,,,Ridingerstiche,,
 BO0624_88142,608859,640,968,967 meinem Bein etc.),2059,100.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608860,641,969,"Anno 1736 im Walde bei Stahrenberg, nach der Natur gez. Hirschbild.",2061,97.0,False,positional,,,Ridingerstiche,,
+BO0624_88142,608860,641,969,"Anno 1736 im Walde bei Stahrenberg, nach der Natur gez. Hirschbild.",2061,97.0,False,positional,,,Ridingerstiche,,Sec. XVIII
 BO0624_88142,608861,642,970,"- 971 Jagdbild, Dises Rehe-Bocks Gewichtel ist gantz ineinandergewachsen, das man nicht durchsehen kan.",2069,100.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608862,643,972,"Anno 1720 Haben disen ganz weissen Fuchsen, Ihro Excellenz",2072,96.6,False,positional,,,Ridingerstiche,,
-BO0624_88142,608863,644,973,Karl Friedrich zu Hohenzollern-Sigmaringen Schiesset diesen Hirsch von ohngrad 18 Enden in des Furstenbuichen Faulbronner Forsts 1773.,2073,98.5,False,positional,,,Ridingerstiche,,
-BO0624_88142,608864,645,975,"5 Disen Hirsch Haben Ihro Hochfirstl. Durchl. Cari Alexander Herzog zu Wurtenberg, Anno 1735 den 22. Aug. in den Vorhalden Frickenhauser Huth Kirchheimer Forsts selbst geschossen.",2076,98.9,False,positional,,,Ridingerstiche,,
-BO0624_88142,608865,646,976,In dem Herzogthum Wurtenberg wurde Anno 1736 diser,2078,96.2,False,positional,,,Ridingerstiche,,
-BO0624_88142,608866,647,977,In dem Herzogthum Wuirtemberg ist Anno 1736 dises Stuck,2079,96.5,False,positional,STUCK FRANZ VON,,Ridingerstiche,,
-BO0624_88142,608867,648,978,Als anno 1728 Johann Ernst Wagner Hochfirstl. Bichsen-,2083,96.3,False,positional,,,Ridingerstiche,,
+BO0624_88142,608862,643,972,"Anno 1720 Haben disen ganz weissen Fuchsen, Ihro Excellenz",2072,96.6,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608863,644,973,Karl Friedrich zu Hohenzollern-Sigmaringen Schiesset diesen Hirsch von ohngrad 18 Enden in des Furstenbuichen Faulbronner Forsts 1773.,2073,98.5,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608864,645,975,"5 Disen Hirsch Haben Ihro Hochfirstl. Durchl. Cari Alexander Herzog zu Wurtenberg, Anno 1735 den 22. Aug. in den Vorhalden Frickenhauser Huth Kirchheimer Forsts selbst geschossen.",2076,98.9,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608865,646,976,In dem Herzogthum Wurtenberg wurde Anno 1736 diser,2078,96.2,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608866,647,977,In dem Herzogthum Wuirtemberg ist Anno 1736 dises Stuck,2079,96.5,False,positional,STUCK FRANZ VON,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608867,648,978,Als anno 1728 Johann Ernst Wagner Hochfirstl. Bichsen-,2083,96.3,False,positional,,,Ridingerstiche,,Sec. XVIII
 BO0624_88142,608868,649,980,Dasselbe Blatt in tadelloser Erhaltung mit breitem Rand.,2089,96.5,False,positional,,,Ridingerstiche,,
 BO0624_88142,608869,650,981,- Sehr schoner Abdruck.,2091,100.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608870,651,982,Anno 1735 haben Ihre H.F. Durchl. Carl Alexander zu Wur-,2092,96.4,False,positional,,,Ridingerstiche,,
+BO0624_88142,608870,651,982,Anno 1735 haben Ihre H.F. Durchl. Carl Alexander zu Wur-,2092,96.4,False,positional,,,Ridingerstiche,,Sec. XVIII
 BO0624_88142,608871,652,983,Dasselbe.,2095,84.2,False,positional,,,Ridingerstiche,,
-BO0624_88142,608872,653,984,Anno 1730 ist von S. H.f. D. Hertzog Eberhard Ludwig von,2096,96.4,False,positional,,,Ridingerstiche,,
-BO0624_88142,608873,654,985,Anno 1728 haben Ihro Hochfurstl: Durchl:Carl Alexander,2097,96.4,False,positional,,,Ridingerstiche,,
-BO0624_88142,608874,655,986,Anno 1720 haben Ihro Hochfurstl:Durchl:Heinrich Fridrich Herzog zu Wirtemberg disen Hirsch bei Wennenthat Luiterbacher Huth Reichenberger Forsts in der Brunsst,2101,98.8,False,positional,,,Ridingerstiche,,
-BO0624_88142,608875,656,987,Anno 1729 haben Ihro Hoch-Furstl: Durchl: Carl Alexander Herzog zu Wurttemberg disen Hirsch ...in Servien geschossen.,2106,98.2,False,positional,,,Ridingerstiche,,
-BO0624_88142,608876,657,989,988 Anno 1721 haben Ihro Hochfurstl. Durchl: Eberhard Ludwig Herzog zu Wurttemberg diesen Hirsch ... Tubinger Forsts geschossen.,2109,100.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608877,658,990,Anno 1728 haben I.H.F.D. Carl Alexander Herzog zu Wuirtenberg disen Hirsch Nr.1.in Servien geschossen; anno 1737 haben I. H.F.D. Maria Augusta Herzogin zu Wurtenberg diesen Hirsch Nr. 2 bei Tubingen und Anno 1738 den Hirsch Nr.3 in dem Tiefenbach ... geschossen.,2111,99.2,False,positional,,,Ridingerstiche,,
+BO0624_88142,608872,653,984,Anno 1730 ist von S. H.f. D. Hertzog Eberhard Ludwig von,2096,96.4,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608873,654,985,Anno 1728 haben Ihro Hochfurstl: Durchl:Carl Alexander,2097,96.4,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608874,655,986,Anno 1720 haben Ihro Hochfurstl:Durchl:Heinrich Fridrich Herzog zu Wirtemberg disen Hirsch bei Wennenthat Luiterbacher Huth Reichenberger Forsts in der Brunsst,2101,98.8,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608875,656,987,Anno 1729 haben Ihro Hoch-Furstl: Durchl: Carl Alexander Herzog zu Wurttemberg disen Hirsch ...in Servien geschossen.,2106,98.2,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608876,657,989,988 Anno 1721 haben Ihro Hochfurstl. Durchl: Eberhard Ludwig Herzog zu Wurttemberg diesen Hirsch ... Tubinger Forsts geschossen.,2109,100.0,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608877,658,990,Anno 1728 haben I.H.F.D. Carl Alexander Herzog zu Wuirtenberg disen Hirsch Nr.1.in Servien geschossen; anno 1737 haben I. H.F.D. Maria Augusta Herzogin zu Wurtenberg diesen Hirsch Nr. 2 bei Tubingen und Anno 1738 den Hirsch Nr.3 in dem Tiefenbach ... geschossen.,2111,99.2,False,positional,,,Ridingerstiche,,Sec. XVIII
 BO0624_88142,608878,659,991,992,2116,100.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608879,660,993,Anno i736 ist dise Wilde Gans...von einem Fuchsen bei Reichenweiler etc. Anno 1760 Ist dieser rare Rehe-Bock... in Bohmen ge- Anno 1718. Diser junge und rasche 8ter ist ...im Tyrol etc.,2122,57.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608880,661,996,Anno 1758. Dises Thier ist von Jugend auf in dem H. R. G: Waldsteinischen Thiergarten zu Treutz in Mahren etc. Anno 1739 ... haben I. Ex. Herr Herr Frantz Laetantius.. disen Hirsch ... in dem Salzburg geschossen. auf disen Starcken Gems-Bock etc.,2132,62.5,False,positional,,,Ridingerstiche,,
-BO0624_88142,608881,662,999,1000 Anno 1675 Ist dieser Edle Hirsch dessen Gewichte 58Enden ..,2142,100.0,False,positional,,,Ridingerstiche,,
+BO0624_88142,608879,660,993,Anno i736 ist dise Wilde Gans...von einem Fuchsen bei Reichenweiler etc. Anno 1760 Ist dieser rare Rehe-Bock... in Bohmen ge- Anno 1718. Diser junge und rasche 8ter ist ...im Tyrol etc.,2122,57.0,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608880,661,996,Anno 1758. Dises Thier ist von Jugend auf in dem H. R. G: Waldsteinischen Thiergarten zu Treutz in Mahren etc. Anno 1739 ... haben I. Ex. Herr Herr Frantz Laetantius.. disen Hirsch ... in dem Salzburg geschossen. auf disen Starcken Gems-Bock etc.,2132,62.5,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608881,662,999,1000 Anno 1675 Ist dieser Edle Hirsch dessen Gewichte 58Enden ..,2142,100.0,False,positional,,,Ridingerstiche,,Sec. XI
 BO0624_88142,608882,663,1001,bei Basel gepirschet worden.,2148,100.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608883,664,1001,a Dasselbe Blatt. Ein Brunsst-Hirsch mit Wild .. bey Schleissheim anno 1736 gezeichnet. Anno 1700 :.. haben S. H. F. D. Alexander Sigismundus Herzog zu Pfalz und Bischoff zu Augspurg diesen Hirsch etc.,2158,71.6,False,positional,,,Ridingerstiche,,
-BO0624_88142,608884,665,1004,Das Brunsst-Schiessen ...bey Starenberg 1736 gez. an der Donau etc. Diser Hirsch von 19 Enden ist im Algeuw ...i701 etc.,2166,61.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608885,666,1007,Anno 1718 ... haben I. H. F. D. Wilhelm Fridrich Marggraf zu Anspach diesen Hasen bey Windspach gebaizet. Anno 1734 Ist diser wohlgerichte Hiner Hund ... bey Nymphenburg etc. Anno 1731 habe dise Vorstellung in dem Parc von Nymphenburg etc.(Hirschjagd).,2168,57.1,False,positional,,,Ridingerstiche,,
-BO0624_88142,608886,667,1010,Anno 1741 ... ist dises sehr alte und rare Stuck Wild ...,2173,95.1,False,positional,STUCK FRANZ VON,,Ridingerstiche,,
-BO0624_88142,608887,668,1011,Anno 1668 haben 1. H.F. D.Alexander Sigismundus Herzog von der Pfalz und Bischoff zu Augsburg dieses Wild... in dem Algow etc.,2175,98.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608888,669,1012,Kampfende Brunsst-Hirsche ..bei Neuburg anno 1722,2179,94.9,False,positional,,,Ridingerstiche,,
+BO0624_88142,608883,664,1001,a Dasselbe Blatt. Ein Brunsst-Hirsch mit Wild .. bey Schleissheim anno 1736 gezeichnet. Anno 1700 :.. haben S. H. F. D. Alexander Sigismundus Herzog zu Pfalz und Bischoff zu Augspurg diesen Hirsch etc.,2158,71.6,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608884,665,1004,Das Brunsst-Schiessen ...bey Starenberg 1736 gez. an der Donau etc. Diser Hirsch von 19 Enden ist im Algeuw ...i701 etc.,2166,61.0,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608885,666,1007,Anno 1718 ... haben I. H. F. D. Wilhelm Fridrich Marggraf zu Anspach diesen Hasen bey Windspach gebaizet. Anno 1734 Ist diser wohlgerichte Hiner Hund ... bey Nymphenburg etc. Anno 1731 habe dise Vorstellung in dem Parc von Nymphenburg etc.(Hirschjagd).,2168,57.1,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608886,667,1010,Anno 1741 ... ist dises sehr alte und rare Stuck Wild ...,2173,95.1,False,positional,STUCK FRANZ VON,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608887,668,1011,Anno 1668 haben 1. H.F. D.Alexander Sigismundus Herzog von der Pfalz und Bischoff zu Augsburg dieses Wild... in dem Algow etc.,2175,98.0,False,positional,,,Ridingerstiche,,Sec. XVII
+BO0624_88142,608888,669,1012,Kampfende Brunsst-Hirsche ..bei Neuburg anno 1722,2179,94.9,False,positional,,,Ridingerstiche,,Sec. XVIII
 BO0624_88142,608889,670,1013,Der Anstand auf einen Hirschen ... bey Schleisheim ge- gezeichnet.,2181,96.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608890,671,1014,Anno 1750 ... ist dieser schone Hirsch von Sr. H. G. Ex.,2187,95.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608891,672,1015,Anno 1721 haben I. Chur. Furstl. D. zu Trier Franciskus,2189,95.3,False,positional,,,Ridingerstiche,,
-BO0624_88142,608892,673,1016,Anno 1741 ist diser Hase mit 8 Laufften ... auf den Zob-,2191,95.3,False,positional,,,Ridingerstiche,,
-BO0624_88142,608893,674,1017,Anno 1615 haben Herr Wilhelm von Maxelheim Freiherr,2199,95.3,False,positional,,,Ridingerstiche,,
-BO0624_88142,608894,675,1018,"Diesen Hirsch von 66 Enden haben S. M. Fridericus I., Konig in Preussen im Ampte Fuirsten Walde selbst geschossen. 1696. Dieser Hirsch mit Weissen Flecken ist.. 1746...in in der Grafschaft Wernigerode gepirschet worden. Dieser sehr rare weisse Dachs... ist 1724..bei St. Hubertsburg etc.",2201,58.6,False,positional,,,Ridingerstiche,,
-BO0624_88142,608895,676,1021,Diser Fuchs mit zwey Schwanzen ist 1734 bei Oranienburg geschossen etc. Disen Hirsch von ungeraden 24 Enden haben I. H.F. D. Herr Markgraf Wilhelm Friedrich zu Brandenburg-Onoltzbach anno 1719 auf Gunzenhauser Wildfuhr etc. dem kaiserl. Lust-Schloss Lichtenberg etc.,2211,73.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608896,677,1024,Dasselbe Blatt. Diser grosse Schauffel-Hirsch ... ist anno 1748 von S. H.F.D. dem regierenden Hr. Landgraffen zu Hessen Darmstatt... bey Romrod etc. Disen Hirsch von ungeraden 16 Enden ... haben S. H. F. D. Herr Marggraf Wilhelm Fridrich zu Brandenburg-Onoltzbach Anno 1720 etc.,2219,63.9,False,positional,,,Ridingerstiche,,
-BO0624_88142,608897,678,1027,"Anno 1741 ist diser Hirsch von 16 Enden ...im Forst Romrod von I. H. F. D. dem regierenden Hr. Landgrafen zu Hessen Darmstadt etc. Diser Hirsch von 28 Enden ist von I. H. F. D.dem regierenden Herrn Landgrafen zu Hessen-Darmstatt 1742 bey Battenberg etc. Anno 1746 ..ist diesser getygerte Hirsch von 12 Enden von I. H. F.D. H. H. Wihelm Heinrich, regierenden Fursten zu Nassau-Saarbricken im Neunkircher Forst etc.",2225,56.4,False,positional,,,Ridingerstiche,,
-BO0624_88142,608898,679,1030,Dises stumpf-ohrichte Hauptschwein . . . haben I. H. F. D. der regierende Hr. Landgraff Ludewig zu HessenDarmstatt ... 1749... im Bessunger Forst etc. Diesen Hirsch mit Schlappohren haben des Reg. Hr. Land- Disen Hirsch von 24 Enden haben I.H. F.D.Herr Landgraff Wilhelm der achte zu Hessen-Cassel ... 1752 etc.,2226,62.5,False,positional,,,Ridingerstiche,,
+BO0624_88142,608890,671,1014,Anno 1750 ... ist dieser schone Hirsch von Sr. H. G. Ex.,2187,95.0,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608891,672,1015,Anno 1721 haben I. Chur. Furstl. D. zu Trier Franciskus,2189,95.3,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608892,673,1016,Anno 1741 ist diser Hase mit 8 Laufften ... auf den Zob-,2191,95.3,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608893,674,1017,Anno 1615 haben Herr Wilhelm von Maxelheim Freiherr,2199,95.3,False,positional,,,Ridingerstiche,,Sec. XVII
+BO0624_88142,608894,675,1018,"Diesen Hirsch von 66 Enden haben S. M. Fridericus I., Konig in Preussen im Ampte Fuirsten Walde selbst geschossen. 1696. Dieser Hirsch mit Weissen Flecken ist.. 1746...in in der Grafschaft Wernigerode gepirschet worden. Dieser sehr rare weisse Dachs... ist 1724..bei St. Hubertsburg etc.",2201,58.6,False,positional,,,Ridingerstiche,,Sec. XVII
+BO0624_88142,608895,676,1021,Diser Fuchs mit zwey Schwanzen ist 1734 bei Oranienburg geschossen etc. Disen Hirsch von ungeraden 24 Enden haben I. H.F. D. Herr Markgraf Wilhelm Friedrich zu Brandenburg-Onoltzbach anno 1719 auf Gunzenhauser Wildfuhr etc. dem kaiserl. Lust-Schloss Lichtenberg etc.,2211,73.0,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608896,677,1024,Dasselbe Blatt. Diser grosse Schauffel-Hirsch ... ist anno 1748 von S. H.F.D. dem regierenden Hr. Landgraffen zu Hessen Darmstatt... bey Romrod etc. Disen Hirsch von ungeraden 16 Enden ... haben S. H. F. D. Herr Marggraf Wilhelm Fridrich zu Brandenburg-Onoltzbach Anno 1720 etc.,2219,63.9,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608897,678,1027,"Anno 1741 ist diser Hirsch von 16 Enden ...im Forst Romrod von I. H. F. D. dem regierenden Hr. Landgrafen zu Hessen Darmstadt etc. Diser Hirsch von 28 Enden ist von I. H. F. D.dem regierenden Herrn Landgrafen zu Hessen-Darmstatt 1742 bey Battenberg etc. Anno 1746 ..ist diesser getygerte Hirsch von 12 Enden von I. H. F.D. H. H. Wihelm Heinrich, regierenden Fursten zu Nassau-Saarbricken im Neunkircher Forst etc.",2225,56.4,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608898,679,1030,Dises stumpf-ohrichte Hauptschwein . . . haben I. H. F. D. der regierende Hr. Landgraff Ludewig zu HessenDarmstatt ... 1749... im Bessunger Forst etc. Diesen Hirsch mit Schlappohren haben des Reg. Hr. Land- Disen Hirsch von 24 Enden haben I.H. F.D.Herr Landgraff Wilhelm der achte zu Hessen-Cassel ... 1752 etc.,2226,62.5,False,positional,,,Ridingerstiche,,Sec. XVIII
 BO0624_88142,608899,680,1033,grafen von Hessen Darmstadt H. F. D. i754...bei Darmstadt etc.,2234,100.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608900,681,1034,Nimmersatt! Auf der Donau zwischen Peterwardein u. Belgard 1740 etc.,2236,96.3,False,positional,,,Ridingerstiche,,
-BO0624_88142,608901,682,1035,1037,2242,100.0,False,positional,,,Ridingerstiche,,
+BO0624_88142,608900,681,1034,Nimmersatt! Auf der Donau zwischen Peterwardein u. Belgard 1740 etc.,2236,96.3,False,positional,,,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608901,682,1035,1037,2242,100.0,False,positional,,,Ridingerstiche,,Sec. XI
 BO0624_88142,608902,683,1036,Falkonier.,2244,78.3,False,positional,,,Ridingerstiche,,
 BO0624_88142,608903,684,1038,Araber mit Pferd.,2246,86.5,False,positional,,,Ridingerstiche,,
 BO0624_88142,608904,685,1039,Ein Normand. Dises Junge Tyger Pferd welches zu Oranien-Polder (Provinz Holland) gezogen...ist 1743von der Hochgrafl. Promnitzschen Herschafft aus Schlesien . erkauft worden. Divani von der rechten Seite anzusehen.,2254,85.1,False,positional,,,Ridingerstiche,,
-BO0624_88142,608905,686,1042,Anno 1740 ist dises noble Pferd...in dem Kayserl. Reitstall zu Wien ..etc.,2258,96.5,False,positional,,Scuola Viennese,Ridingerstiche,,
-BO0624_88142,608906,687,1044,1043 Diser rahre Tyger-Schimmel mit Schwartzen Haaren . dass er der H. G. Erbachischen Familie zu gehoret etc. 1687.,2262,100.0,False,positional,,,Ridingerstiche,,
+BO0624_88142,608905,686,1042,Anno 1740 ist dises noble Pferd...in dem Kayserl. Reitstall zu Wien ..etc.,2258,96.5,False,positional,,Scuola Viennese,Ridingerstiche,,Sec. XVIII
+BO0624_88142,608906,687,1044,1043 Diser rahre Tyger-Schimmel mit Schwartzen Haaren . dass er der H. G. Erbachischen Familie zu gehoret etc. 1687.,2262,100.0,False,positional,,,Ridingerstiche,,Sec. XI
 BO0624_88142,608907,688,1045,Grosse Arth der Wind Hunde etc.,2264,92.3,False,positional,,,Ridingerstiche,,
-BO0624_88142,608908,689,1046,1047 Dressierter Huener Hund samt einem abgetragenen Habicht.,2270,100.0,False,positional,,,Ridingerstiche,,
+BO0624_88142,608908,689,1046,1047 Dressierter Huener Hund samt einem abgetragenen Habicht.,2270,100.0,False,positional,,,Ridingerstiche,,Sec. XI
 BO0624_88142,608909,690,1048,Deutsche Jagdhunde mit einem gefleckten Dam-Hirschen.,2274,95.4,False,positional,,,Ridingerstiche,,
 BO0624_88142,608910,691,1049,Isslandischer weisser mit schwarzen Federen gesprengter,2276,95.7,False,positional,,,Ridingerstiche,,
 BO0624_88142,608911,692,1050,Falcke etc.,2280,100.0,False,positional,,,Ridingerstiche,,
-BO0624_88142,608912,693,1051,Anno 1748 ...ist dises Nashorn Rhinoceros etc.,2282,94.4,False,positional,,,Ridingerstiche,,
+BO0624_88142,608912,693,1051,Anno 1748 ...ist dises Nashorn Rhinoceros etc.,2282,94.4,False,positional,,,Ridingerstiche,,Sec. XVIII
 BO0624_88142,608913,694,1052,"Die Fuchsen holeten sich im Hiner Stall ein Gastmahl,",2286,95.4,False,positional,,,Ridingerstiche,,
 BO0624_88142,608914,695,1053,allein alsbald etc.,2290,100.0,False,positional,,,Ridingerstiche,,
 BO0624_88142,608915,696,1054,Die Hohle einer Baehrin mit Jungen.,2292,93.2,False,positional,,,Ridingerstiche,,
-BO0624_88142,608916,697,1055,Indianischer Wolff. Hensons Luftdampfwagen mit Beschreibung. Humoristische Abbildung der Luftschiffahrt aus dem Jahre 1843. Stich.,2304,68.7,False,positional,,,Diverse Stiche,,
+BO0624_88142,608916,697,1055,Indianischer Wolff. Hensons Luftdampfwagen mit Beschreibung. Humoristische Abbildung der Luftschiffahrt aus dem Jahre 1843. Stich.,2304,68.7,False,positional,,,Diverse Stiche,,Sec. XIX
 BO0624_88142,608917,698,1058,Monogramm I. H.aus Blumenguirlanden hergestelt.,2306,94.7,False,positional,,,Diverse Stiche,,
-BO0624_88142,608918,699,1059,"6 Bildliche Darstellungen der Monate aus der Biedermeierzeit. (April, Mai, Juni, August, September, November). Gemalt von I. Voltz, gestochen von Nussbigel. Kol. Stiche. Joseph, Erzherzog von Oesterreich, Palatinus von Ungarn. Gest.v. David Weiss. Ferdinand, Grossherzog von Toscana 1769—1824. Wien, Artaria.",2307,69.7,False,positional,VOLTZ FRIEDRICH JOHANN,Scuola Viennese,Diverse Stiche,,
+BO0624_88142,608918,699,1059,"6 Bildliche Darstellungen der Monate aus der Biedermeierzeit. (April, Mai, Juni, August, September, November). Gemalt von I. Voltz, gestochen von Nussbigel. Kol. Stiche. Joseph, Erzherzog von Oesterreich, Palatinus von Ungarn. Gest.v. David Weiss. Ferdinand, Grossherzog von Toscana 1769—1824. Wien, Artaria.",2307,69.7,False,positional,VOLTZ FRIEDRICH JOHANN,Scuola Viennese,Diverse Stiche,,Sec. XVIII
 BO0624_88142,608919,700,1062,"Ferdinand, Kronprinz v. Oesterreich. Gest. v. Mansfeld.",2313,95.1,False,positional,,,Diverse Stiche,,
 BO0624_88142,608920,701,1063,"Ludwig, Erzherzog von Oesterreich 17841864. Artaria,Wien.",2315,95.6,False,positional,,Scuola Viennese,Diverse Stiche,,
-BO0624_88142,608921,702,1064,Leopoldus Il. Stahlstich von Norp. 1790.,2317,93.7,False,positional,,,Diverse Stiche,,
+BO0624_88142,608921,702,1064,Leopoldus Il. Stahlstich von Norp. 1790.,2317,93.7,False,positional,,,Diverse Stiche,,Sec. XVIII
 BO0624_88142,608922,703,1065,Ranieri Arciduca d'Austria.,2319,91.2,False,positional,,,Diverse Stiche,,
 BO0624_88142,608923,704,1066,"Hermine, Gemahlin S. K. Hoheit Erzherzog v. Oesterreich, Palatinus von Ungarn geb: Herzogin von Anhalt-Bern- burg-Schaumburg. Gest. v. Hofel.",2323,98.1,False,positional,,,Diverse Stiche,,
 BO0624_88142,608924,705,1067,"·Maria Ciementina, Erzherzogin von Oesterreich. Gest. v. Hofel.",2325,95.8,False,positional,,,Diverse Stiche,,
@@ -711,14 +711,14 @@ BO0624_88142,608928,709,1073,"7 Studentenbilder mit studentischen Gebrauchen wie
 BO0624_88142,608929,710,1074,Domestic happiness. Painted by G.Morland. Gest.,2341,94.6,False,positional,,,Diverse Stiche,,
 BO0624_88142,608930,711,1075,The elopement. Painted by G. Morland. Gest. v. Barloloti. Pendant zum vorigen.H Hervorragend schone Stiche in tadelloser Erhaltung. Les avantages de la victoire. Alte kol. Lith. v. Weber. Ah! quel plaisir d'etre soldat. Alte kol. Lith.v. Weber. Sehr schones Blatt.,2343,66.1,False,positional,WEBER PAUL,,Diverse Stiche,,
 BO0624_88142,608931,712,1078,Stella. Farbiger Stich von Sealt.,2349,92.5,False,positional,,,Diverse Stiche,,
-BO0624_88142,608932,713,1080,1079 Le rideau. Stich v. Marckl.,2353,100.0,False,positional,,,Diverse Stiche,,
+BO0624_88142,608932,713,1080,1079 Le rideau. Stich v. Marckl.,2353,100.0,False,positional,,,Diverse Stiche,,Sec. XI
 BO0624_88142,608933,714,1081,View of the ground floor in the villa of Maecenas at Tivoli. Engraved by Hauer.,2355,96.9,False,positional,,,Diverse Stiche,,
-BO0624_88142,608934,715,1082,"1083 Farbiges Aquatintablatt, romische Ruine.",2359,100.0,False,positional,,Scuola Romana,Diverse Stiche,,
-BO0624_88142,608935,716,1084,Trauernde Germania 1850.Fuhrich zugeschrieben.,2365,94.7,False,positional,,,Diverse Stiche,,
+BO0624_88142,608934,715,1082,"1083 Farbiges Aquatintablatt, romische Ruine.",2359,100.0,False,positional,,Scuola Romana,Diverse Stiche,,Sec. XI
+BO0624_88142,608935,716,1084,Trauernde Germania 1850.Fuhrich zugeschrieben.,2365,94.7,False,positional,,,Diverse Stiche,,Sec. XIX
 BO0624_88142,608936,717,1085,Schab-,2367,66.7,False,positional,,,Diverse Stiche,,
-BO0624_88142,608937,718,1086,Le Portrait de Daniel Herz le noble de Herzberg. kunstblatt von Schnell. 1763.,2371,100.0,False,positional,,,Diverse Stiche,,
+BO0624_88142,608937,718,1086,Le Portrait de Daniel Herz le noble de Herzberg. kunstblatt von Schnell. 1763.,2371,100.0,False,positional,,,Diverse Stiche,,Sec. XVIII
 BO0624_88142,608938,719,1087,rahmt von schonen Zeichnungen.,2375,92.1,False,title_direct,,,Zeichnungen,,
-BO0624_88142,608939,720,1088,1089 3 Karikaturenblatter aus histor. krotesk. kom. Bilderatlas.,2379,100.0,False,title_direct,,,Karikaturen,,
+BO0624_88142,608939,720,1088,1089 3 Karikaturenblatter aus histor. krotesk. kom. Bilderatlas.,2379,100.0,False,title_direct,,,Karikaturen,,Sec. XI
 BO0624_88142,608940,721,30,"Radierungen ,Paysages &amp; autres Sujets inv. et graves a l'eau forte par I. C. Dietzsch et a trouver chez 1. F. Frauenholz a Nuremberg.""",2383,98.8,False,positional,,,Diverse Stiche,,
 BO0624_88142,608941,722,1090,"| Nagelneue Krahwinkeliaden oder bildliche Darstellungen, wie es in Krahwinkel aussieht. 7 Lithographien.   | Nagelneue Krahwinkeliaden oder bildliche Darstellungen, wie es in Krahwinkel aussieht. 7 Lithographien.   | Nagelneue Krahwinkeliaden oder bildliche Darstellungen, wie es in Krahwinkel aussieht. 7 Lithographien.   | Nagelneue Krahwinkeliaden oder bildliche Darstellungen, wie es in Krahwinkel aussieht. 7 Lithographien.   | Nagelneue Krahwinkeliaden oder bildliche Darstellungen, wie es in Krahwinkel aussieht. 7 Lithographien.   |                                                                                |                                                                        |",2384,99.5,False,positional,,,Diverse Stiche,,
 BO0624_88142,608942,723,1091,"| 4 Stammbuchblatter, Gottingen bei Widerhold und Dresden bei Brickmann.                                    | 4 Stammbuchblatter, Gottingen bei Widerhold und Dresden bei Brickmann.                                    | 4 Stammbuchblatter, Gottingen bei Widerhold und Dresden bei Brickmann.                                    | 4 Stammbuchblatter, Gottingen bei Widerhold und Dresden bei Brickmann.                                    | 4 Stammbuchblatter, Gottingen bei Widerhold und Dresden bei Brickmann.                                    | 4 Stammbuchblatter, Gottingen bei Widerhold und Dresden bei Brickmann.         | 4 Stammbuchblatter, Gottingen bei Widerhold und Dresden bei Brickmann. |",2386,99.5,False,positional,,,Diverse Stiche,,
@@ -734,26 +734,26 @@ BO0624_88142,608951,732,1100,| ”                                              
 BO0624_88142,608952,733,1101,| ”                                                                                                         |                                                                                                           | 17                                                                                                        | kol. Ansichten aus Italien.                                                                               | kol. Ansichten aus Italien.                                                                               | kol. Ansichten aus Italien.                                                    | kol. Ansichten aus Italien.                                            |,2396,97.7,False,positional,,,Diverse Stiche,,
 BO0624_88142,608953,734,1102,| ”                                                                                                         | ” ”                                                                                                       | 23                                                                                                        | ” Stiche Lithographien etc. ”                                                                             | ” Stiche Lithographien etc. ”                                                                             | ” Stiche Lithographien etc. ”                                                  | ” Stiche Lithographien etc. ”                                          |,2397,97.6,False,positional,,,Diverse Stiche,,
 BO0624_88142,608954,735,1103,| ”                                                                                                         | ”                                                                                                         | 7                                                                                                         | ” Stiche von Chodowiecki Almanachen.                                                                      | ” Stiche von Chodowiecki Almanachen.                                                                      | ” Stiche von Chodowiecki Almanachen.                                           | aus                                                                    |,2398,97.7,False,positional,,,Diverse Stiche,,
-BO0624_88142,608955,736,1104,"| ”                                                                                                         | ”                                                                                                         |                                                                                                           | 11 Kostimblatter aus den Jahren 1629, 1634 etc.                                                           | 11 Kostimblatter aus den Jahren 1629, 1634 etc.                                                           | 11 Kostimblatter aus den Jahren 1629, 1634 etc.                                | 11 Kostimblatter aus den Jahren 1629, 1634 etc.                        |",2399,98.7,False,positional,,,Diverse Stiche,,
+BO0624_88142,608955,736,1104,"| ”                                                                                                         | ”                                                                                                         |                                                                                                           | 11 Kostimblatter aus den Jahren 1629, 1634 etc.                                                           | 11 Kostimblatter aus den Jahren 1629, 1634 etc.                                                           | 11 Kostimblatter aus den Jahren 1629, 1634 etc.                                | 11 Kostimblatter aus den Jahren 1629, 1634 etc.                        |",2399,98.7,False,positional,,,Diverse Stiche,,Sec. XVII
 BO0624_88142,608956,737,1105,"| ”                                                                                                         | ”                                                                                                         | 20 Blatt, tirkische Kostime etc.                                                                          | 20 Blatt, tirkische Kostime etc.                                                                          | 20 Blatt, tirkische Kostime etc.                                                                          | 20 Blatt, tirkische Kostime etc.                                               | 20 Blatt, tirkische Kostime etc.                                       |",2400,98.4,False,positional,,,Diverse Stiche,,
-BO0624_88142,608957,738,1106,| ””                                                                                                        | ”                                                                                                         | 14 Kostimblatter der Wiener Mode a. d. J.1830.                                                            | 14 Kostimblatter der Wiener Mode a. d. J.1830.                                                            | 14 Kostimblatter der Wiener Mode a. d. J.1830.                                                            | 14 Kostimblatter der Wiener Mode a. d. J.1830.                                 | 14 Kostimblatter der Wiener Mode a. d. J.1830.                         |,2401,98.9,False,positional,,,Diverse Stiche,,
-BO0624_88142,608958,739,1107,1108      | ””                                                                                                        | ”                                                                                                         | 21 Blatt.                                                                                                 | Englische Modebilder a. d.j. 1822. 13 Blatt.                                                              | Englische Modebilder a. d.j. 1822. 13 Blatt.                                                              | Englische Modebilder a. d.j. 1822. 13 Blatt.                                   |                                                                        |,2402,98.2,False,positional,,,Diverse Stiche,,
+BO0624_88142,608957,738,1106,| ””                                                                                                        | ”                                                                                                         | 14 Kostimblatter der Wiener Mode a. d. J.1830.                                                            | 14 Kostimblatter der Wiener Mode a. d. J.1830.                                                            | 14 Kostimblatter der Wiener Mode a. d. J.1830.                                                            | 14 Kostimblatter der Wiener Mode a. d. J.1830.                                 | 14 Kostimblatter der Wiener Mode a. d. J.1830.                         |,2401,98.9,False,positional,,,Diverse Stiche,,Sec. XIX
+BO0624_88142,608958,739,1107,1108      | ””                                                                                                        | ”                                                                                                         | 21 Blatt.                                                                                                 | Englische Modebilder a. d.j. 1822. 13 Blatt.                                                              | Englische Modebilder a. d.j. 1822. 13 Blatt.                                                              | Englische Modebilder a. d.j. 1822. 13 Blatt.                                   |                                                                        |,2402,98.2,False,positional,,,Diverse Stiche,,Sec. XII
 BO0624_88142,608959,740,1109,| ”                                                                                                         | ”                                                                                                         |                                                                                                           | 22 Blatt. Englische Kostimblatter aus den                                                                 | 22 Blatt. Englische Kostimblatter aus den                                                                 | 22 Blatt. Englische Kostimblatter aus den                                      |                                                                        |,2404,98.0,False,positional,,,Diverse Stiche,,
-BO0624_88142,608960,741,1110,|                                                                                                           |                                                                                                           | Jahren 1821/23. 7 Blatt. Kostime aus dem Jahre 1836.                                                      | Jahren 1821/23. 7 Blatt. Kostime aus dem Jahre 1836.                                                      | Jahren 1821/23. 7 Blatt. Kostime aus dem Jahre 1836.                                                      | Jahren 1821/23. 7 Blatt. Kostime aus dem Jahre 1836.                           | Jahren 1821/23. 7 Blatt. Kostime aus dem Jahre 1836.                   |,2405,99.0,False,positional,,,Diverse Stiche,,
-BO0624_88142,608961,742,1111,| ” ”                                                                                                       | ”                                                                                                         | 6 Blatt.                                                                                                  | Kostime der eleganten Welt aus den Jahren 1832.                                                           | Kostime der eleganten Welt aus den Jahren 1832.                                                           | Kostime der eleganten Welt aus den Jahren 1832.                                |                                                                        |,2406,98.3,False,positional,,,Diverse Stiche,,
+BO0624_88142,608960,741,1110,|                                                                                                           |                                                                                                           | Jahren 1821/23. 7 Blatt. Kostime aus dem Jahre 1836.                                                      | Jahren 1821/23. 7 Blatt. Kostime aus dem Jahre 1836.                                                      | Jahren 1821/23. 7 Blatt. Kostime aus dem Jahre 1836.                                                      | Jahren 1821/23. 7 Blatt. Kostime aus dem Jahre 1836.                           | Jahren 1821/23. 7 Blatt. Kostime aus dem Jahre 1836.                   |,2405,99.0,False,positional,,,Diverse Stiche,,Sec. XIX
+BO0624_88142,608961,742,1111,| ” ”                                                                                                       | ”                                                                                                         | 6 Blatt.                                                                                                  | Kostime der eleganten Welt aus den Jahren 1832.                                                           | Kostime der eleganten Welt aus den Jahren 1832.                                                           | Kostime der eleganten Welt aus den Jahren 1832.                                |                                                                        |,2406,98.3,False,positional,,,Diverse Stiche,,Sec. XIX
 BO0624_88142,608962,743,1112,| ”                                                                                                         | ”                                                                                                         | 8 Blatt. Diverse Kostime.                                                                                 | 8 Blatt. Diverse Kostime.                                                                                 | 8 Blatt. Diverse Kostime.                                                                                 | 8 Blatt. Diverse Kostime.                                                      | 8 Blatt. Diverse Kostime.                                              |,2407,97.9,False,positional,,,Diverse Stiche,,
-BO0624_88142,608963,744,1113,1114      |                                                                                                           | ”                                                                                                         |                                                                                                           | 18Blatt. Kostime der Turken etc.                                                                          | 18Blatt. Kostime der Turken etc.                                                                          | 18Blatt. Kostime der Turken etc.                                               |                                                                        |,2408,97.5,False,positional,,,Diverse Stiche,,
+BO0624_88142,608963,744,1113,1114      |                                                                                                           | ”                                                                                                         |                                                                                                           | 18Blatt. Kostime der Turken etc.                                                                          | 18Blatt. Kostime der Turken etc.                                                                          | 18Blatt. Kostime der Turken etc.                                               |                                                                        |,2408,97.5,False,positional,,,Diverse Stiche,,Sec. XII
 BO0624_88142,608964,745,1115,| ”                                                                                                         | ” ”                                                                                                       |                                                                                                           | Antike Mobel.                                                                                             | Antike Mobel.                                                                                             | Antike Mobel.                                                                  | Antike Mobel.                                                          |,2410,95.3,False,title_direct,,,Mobel,,
-BO0624_88142,608965,746,1116,1117      | ”                                                                                                         |                                                                                                           |                                                                                                           | 23 Blatt. Kostime aus den Jahren 1803/14.                                                                 | 23 Blatt. Kostime aus den Jahren 1803/14.                                                                 | 23 Blatt. Kostime aus den Jahren 1803/14.                                      |                                                                        |,2411,98.0,False,positional,,,Diverse Stiche,,
-BO0624_88142,608966,747,1118,|                                                                                                           |                                                                                                           | 4 Blatt aus dem Gothaischen Kalender aus dem Jahre 1787 etc.                                              | 4 Blatt aus dem Gothaischen Kalender aus dem Jahre 1787 etc.                                              | 4 Blatt aus dem Gothaischen Kalender aus dem Jahre 1787 etc.                                              | 4 Blatt aus dem Gothaischen Kalender aus dem Jahre 1787 etc.                   | 4 Blatt aus dem Gothaischen Kalender aus dem Jahre 1787 etc.           |,2412,99.2,False,positional,,,Diverse Stiche,,
+BO0624_88142,608965,746,1116,1117      | ”                                                                                                         |                                                                                                           |                                                                                                           | 23 Blatt. Kostime aus den Jahren 1803/14.                                                                 | 23 Blatt. Kostime aus den Jahren 1803/14.                                                                 | 23 Blatt. Kostime aus den Jahren 1803/14.                                      |                                                                        |,2411,98.0,False,positional,,,Diverse Stiche,,Sec. XII
+BO0624_88142,608966,747,1118,|                                                                                                           |                                                                                                           | 4 Blatt aus dem Gothaischen Kalender aus dem Jahre 1787 etc.                                              | 4 Blatt aus dem Gothaischen Kalender aus dem Jahre 1787 etc.                                              | 4 Blatt aus dem Gothaischen Kalender aus dem Jahre 1787 etc.                                              | 4 Blatt aus dem Gothaischen Kalender aus dem Jahre 1787 etc.                   | 4 Blatt aus dem Gothaischen Kalender aus dem Jahre 1787 etc.           |,2412,99.2,False,positional,,,Diverse Stiche,,Sec. XVIII
 BO0624_88142,608967,748,1119,| ”                                                                                                         | ”                                                                                                         | 13Blatt.Almanachblatter von Chodowiecky etc.                                                              | 13Blatt.Almanachblatter von Chodowiecky etc.                                                              | 13Blatt.Almanachblatter von Chodowiecky etc.                                                              | 13Blatt.Almanachblatter von Chodowiecky etc.                                   | 13Blatt.Almanachblatter von Chodowiecky etc.                           |,2414,98.9,False,positional,,,Diverse Stiche,,
 BO0624_88142,608968,749,1120,|                                                                                                           |                                                                                                           |                                                                                                           |                                                                                                           |                                                                                                           |                                                                                |                                                                        |,2415,0.0,False,positional,,,Diverse Stiche,,
-BO0624_88142,608969,750,1121,| ” ”                                                                                                       | ” ”                                                                                                       | 8Blatt.Kostimbilder aus den Jahren 1620/i788. 35Blatt.                                                    | 8Blatt.Kostimbilder aus den Jahren 1620/i788. 35Blatt.                                                    | Portrats von Augsburg etc.                                                                                |                                                                                |                                                                        |,2416,98.1,False,positional,,,Diverse Stiche,,
+BO0624_88142,608969,750,1121,| ” ”                                                                                                       | ” ”                                                                                                       | 8Blatt.Kostimbilder aus den Jahren 1620/i788. 35Blatt.                                                    | 8Blatt.Kostimbilder aus den Jahren 1620/i788. 35Blatt.                                                    | Portrats von Augsburg etc.                                                                                |                                                                                |                                                                        |,2416,98.1,False,positional,,,Diverse Stiche,,Sec. XVII
 BO0624_88142,608970,751,1122,| ”                                                                                                         | ”                                                                                                         | 30 Blatt. 27 Blatt.                                                                                       | 30 Blatt. 27 Blatt.                                                                                       |                                                                                                           |                                                                                |                                                                        |,2417,93.3,False,positional,,,Diverse Stiche,,
 BO0624_88142,608971,752,1123,|                                                                                                           |                                                                                                           | 27 Blatt.                                                                                                 |                                                                                                           |                                                                                                           | Portrats von Sachsen etc. Portrats von Nirnberg etc.                           | Portrats von Sachsen etc. Portrats von Nirnberg etc.                   |,2418,97.8,False,positional,,,Diverse Stiche,,
 BO0624_88142,608972,753,1124,| ”                                                                                                         | ”                                                                                                         |                                                                                                           |                                                                                                           |                                                                                                           |                                                                                |                                                                        |,2419,0.0,False,positional,,,Diverse Stiche,,
 BO0624_88142,608973,754,1125,| ”                                                                                                         | ” ””                                                                                                      | 32 Blatt.                                                                                                 |                                                                                                           |                                                                                                           | Portrats von diversen Stadten.                                                 | Portrats von diversen Stadten.                                         |,2420,96.5,False,positional,,,Diverse Stiche,,
-BO0624_88142,608974,755,1126,"1127 1128 | ” ”                                                                                                       | ” ”                                                                                                       | 29 Blatt. 41 Blatt. 8Blatt.                                                                               |                                                                                                           |                                                                                                           | Portrats von Polen, Turken etc. Portrats von Frankreich. Portrats von Spanien. |                                                                        |",2422,97.8,False,positional,,,Diverse Stiche,,
+BO0624_88142,608974,755,1126,"1127 1128 | ” ”                                                                                                       | ” ”                                                                                                       | 29 Blatt. 41 Blatt. 8Blatt.                                                                               |                                                                                                           |                                                                                                           | Portrats von Polen, Turken etc. Portrats von Frankreich. Portrats von Spanien. |                                                                        |",2422,97.8,False,positional,,,Diverse Stiche,,Sec. XII
 BO0624_88142,608975,756,1130,|                       |                | 14Blatt. Portrats von Hessen-Nassau.                                                        |,2425,93.2,False,positional,,,Diverse Stiche,,
 BO0624_88142,608976,757,1131,|                       | ”              | 11 Blatt. Portrats von Russland.                                                            |,2426,92.3,False,positional,,,Diverse Stiche,,
 BO0624_88142,608977,758,1132,| ””                    | ””             | 13 Blatt. Portrats von Oesterreich.                                                         |,2427,93.0,False,positional,,,Diverse Stiche,,
@@ -767,46 +767,46 @@ BO0624_88142,608984,765,1139,|                       |                | 14 Blatt
 BO0624_88142,608985,766,1140,| ””                    | ””             | 7Blatt. Portrats von Malern.                                                                |,2435,70.0,False,positional,,,Diverse Stiche,,
 BO0624_88142,608986,767,1141,|                       |                |                                                                                             |,2436,100.0,False,positional,,,Diverse Stiche,,
 BO0624_88142,608987,768,1142,| ”                     | ”              | 13 Blatt. Figirliche Darstellungen von Bartsch.                                             |,2440,94.7,False,positional,,,Diverse Stiche,,
-BO0624_88142,608988,769,1143,"1144      |                       | ”              | 9 Blatt. Alte Stiche, Indianerszenen etc.                                                   |",2441,94.5,False,positional,,,Diverse Stiche,,
+BO0624_88142,608988,769,1143,"1144      |                       | ”              | 9 Blatt. Alte Stiche, Indianerszenen etc.                                                   |",2441,94.5,False,positional,,,Diverse Stiche,,Sec. XII
 BO0624_88142,608989,770,1145,"|                       | ”              | 13 Blatt. Die Jahreszeiten, Elemente. Sinne                                                 |",2443,94.1,False,positional,,,Diverse Stiche,,
-BO0624_88142,608990,771,1146,|                       |                | etc.grave par Jeaurat 1712/16. 15 Blatt. Englische Stahlstiche.                             |,2444,96.0,False,positional,,,Diverse Stiche,,
+BO0624_88142,608990,771,1146,|                       |                | etc.grave par Jeaurat 1712/16. 15 Blatt. Englische Stahlstiche.                             |,2444,96.0,False,positional,,,Diverse Stiche,,Sec. XVIII
 BO0624_88142,608991,772,1147,|                       | ”              |                                                                                             |,2445,0.0,False,positional,,,Diverse Stiche,,
-BO0624_88142,608992,773,1148,"|                       |                | 17 Stichen. Soldaten, 15. Jahrhundert.                                                      |",2447,93.2,False,positional,,,Diverse Stiche,,
+BO0624_88142,608992,773,1148,"|                       |                | 17 Stichen. Soldaten, 15. Jahrhundert.                                                      |",2447,93.2,False,positional,,,Diverse Stiche,,Sec. XV
 BO0624_88142,608993,774,1149,|                       |                | 16 Stichen diversen Genres.                                                                 |,2448,91.2,False,positional,,,Diverse Stiche,,
 BO0624_88142,608994,775,1150,| ””                    |                | 12 alten Stichen. Schlachten etc.                                                           |,2449,92.5,False,positional,,,Diverse Stiche,,
 BO0624_88142,608995,776,1151,|                       |                | 15 alten Stichen.                                                                           |,2450,86.5,False,positional,,,Diverse Stiche,,
 BO0624_88142,608996,777,1152,|                       |                | 38a alten Stichen von Teniers etc.                                                          |,2451,93.0,False,positional,TENIERS DAVID IL GIOVANE,,Diverse Stiche,,
-BO0624_88142,608997,778,1153,"|                       |                | 19 Radierungen der Hofmalerin Ellenrieder,                                                  | 1157      |                       |                | 25 Blattern, Capitano de Baroni von Jaque Callot.                                           |",2454,71.5,False,positional,,,Diverse Stiche,,
-BO0624_88142,608998,779,1154,1155      |                       | ”              | llias.                                                                                      |,2455,80.0,False,positional,,,Diverse Stiche,,
-BO0624_88142,608999,780,1158,"1159      |                       |                | 29 Stichen etc. diverse Photographien, Holzschnitte etc. von                                |",2457,96.1,False,positional,,,Diverse Stiche,,
+BO0624_88142,608997,778,1153,"|                       |                | 19 Radierungen der Hofmalerin Ellenrieder,                                                  | 1157      |                       |                | 25 Blattern, Capitano de Baroni von Jaque Callot.                                           |",2454,71.5,False,positional,,,Diverse Stiche,,Sec. XII
+BO0624_88142,608998,779,1154,1155      |                       | ”              | llias.                                                                                      |,2455,80.0,False,positional,,,Diverse Stiche,,Sec. XII
+BO0624_88142,608999,780,1158,"1159      |                       |                | 29 Stichen etc. diverse Photographien, Holzschnitte etc. von                                |",2457,96.1,False,positional,,,Diverse Stiche,,Sec. XII
 BO0624_88142,609000,781,1160,|                       |                | Haberlin (u. a. nach seinen Gemalden). 1 Buch mit Pausen.                                   |,2458,95.3,False,positional,,,Diverse Stiche,,
 BO0624_88142,609001,782,1161,|                       | ””             |                                                                                             |,2459,0.0,False,positional,,,Diverse Stiche,,
-BO0624_88142,609002,783,1162,1163      |                       | ” ”            | 2 Bucher mit Holzschnitten. 15 Stiche etc.                                                  |,2460,94.7,False,positional,,,Diverse Stiche,,
-BO0624_88142,609003,784,1164,1165      | 14 Blatt Malvorlagen. |                |                                                                                             |,2462,90.9,False,positional,,,Diverse Stiche,,
+BO0624_88142,609002,783,1162,1163      |                       | ” ”            | 2 Bucher mit Holzschnitten. 15 Stiche etc.                                                  |,2460,94.7,False,positional,,,Diverse Stiche,,Sec. XII
+BO0624_88142,609003,784,1164,1165      | 14 Blatt Malvorlagen. |                |                                                                                             |,2462,90.9,False,positional,,,Diverse Stiche,,Sec. XII
 BO0624_88142,609004,785,1166,"| 16 Stiche, Portrats.  |                | Diverse Stiche, Lithographien etc. (gerollt).                                               | 34 Stiche, Schlachten. 62 Blatt franzosische Revolution.",2463,66.7,False,title_direct,,,Diverse Stiche,,
 BO0624_88142,609005,786,1169,5 Blatt Napoleon Ruckzug aus Russland. Lithographie von Popuda.,2467,96.1,False,positional,,,Diverse Stiche,,
-BO0624_88142,609006,787,1170,7 Blatt. Adam. Russischer Feldzug 1812/13.,2468,94.0,False,positional,,,Diverse Stiche,,
-BO0624_88142,609007,788,1171,9 Rugendas Schlachtenbilder. Preussens Ruhm und Ehre.Gedachtnistafel 1813/15.Mit Carolo Imo. Magnae Britanniae regi. Gest von Martin. Landwehrmann vom 2o. Landwehrinfanterieregiment. Kol. a Vexierbild von Napoleon und Friedrich d. Gr. Lith. v. Pons.,2476,39.7,False,positional,RUGENDAS GEORG PHILIPP,,Diverse Stiche,,
+BO0624_88142,609006,787,1170,7 Blatt. Adam. Russischer Feldzug 1812/13.,2468,94.0,False,positional,,,Diverse Stiche,,Sec. XIX
+BO0624_88142,609007,788,1171,9 Rugendas Schlachtenbilder. Preussens Ruhm und Ehre.Gedachtnistafel 1813/15.Mit Carolo Imo. Magnae Britanniae regi. Gest von Martin. Landwehrmann vom 2o. Landwehrinfanterieregiment. Kol. a Vexierbild von Napoleon und Friedrich d. Gr. Lith. v. Pons.,2476,39.7,False,positional,RUGENDAS GEORG PHILIPP,,Diverse Stiche,,Sec. XIX
 BO0624_88142,609008,789,1175,"Michel Ney, Duc d'Elchingen etc. Kolorierter Stich. Hervor-",2479,95.7,False,title_direct,,,Kolorierte Stiche,,
 BO0624_88142,609009,790,1176,- Napoleon schlafend. Vor der Schrift.,2481,100.0,False,positional,,,Diverse Stiche,,
 BO0624_88142,609010,791,1177,Goethe. Lithographie von Muiller. Sehr interessantes Blatt.,2482,95.7,False,positional,,,Diverse Stiche,,
 BO0624_88142,609011,792,1178,Handelnde Soldaten. Kleines Blatt.,2486,92.8,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609012,793,1179,Der grossen Mutter Schoss muss hier zum Ruhbett werden.,2490,95.6,False,positional,,,Rugendas-Blatter,,
-BO0624_88142,609013,794,1181,"1180 Im Lager horet man nicht nur das Lermen, Blasen etc.",2493,100.0,False,positional,,,Rugendas-Blatter,,
+BO0624_88142,609013,794,1181,"1180 Im Lager horet man nicht nur das Lermen, Blasen etc.",2493,100.0,False,positional,,,Rugendas-Blatter,,Sec. XII
 BO0624_88142,609014,795,1182,Cupido fihrt sowohl als Mars im Feld die Waffen etc.,2497,100.0,False,title_direct,,,Waffen,,
 BO0624_88142,609015,796,1183,Nun wird die Beut mit Freud vo Wald nach Hauss getrage etc.,2501,100.0,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609016,797,1184,Es wird gewiss im Krieg sehr grossen Vorteil bringen etc.,2503,95.7,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609017,798,1185,"Sobald der Schluss gefasst, dass man zu Feld woll gehen etc. Wohlabgerichte Pferd auch einen Aufzug zieren etc. Wann ein Soldatenweib beschwert mit vielen Kindern etc.",2507,51.3,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609018,799,1188,"- Sehr grossen Vorteil bringt das schnelle Gallopieren etc. Der Anfall ist gewagt, die mochten mit angreifen etc. Dem Mann und Pferd ist bang, ein wenig still zu stehen etc.",2519,50.9,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609019,800,1191,"Nach fett erlangter Beut, geht es nun an ein Teilen etc.",2521,95.6,False,positional,,,Rugendas-Blatter,,
-BO0624_88142,609020,801,1193,1192 Der flichtige Husar hat kaum die Beut gewonnen etc.,2525,100.0,False,positional,,,Rugendas-Blatter,,
+BO0624_88142,609020,801,1193,1192 Der flichtige Husar hat kaum die Beut gewonnen etc.,2525,100.0,False,positional,,,Rugendas-Blatter,,Sec. XII
 BO0624_88142,609021,802,1194,Hier fliege grimmig aus sechsbeinigte Heuschrecke etc.,2527,95.5,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609022,803,1195,"Wo sie nicht aufsgeseht, da habe sie geschnitten etc.",2533,100.0,False,positional,,,Rugendas-Blatter,,
-BO0624_88142,609023,804,1196,1197,2537,100.0,False,positional,,,Rugendas-Blatter,,
+BO0624_88142,609023,804,1196,1197,2537,100.0,False,positional,,,Rugendas-Blatter,,Sec. XII
 BO0624_88142,609024,805,1198,Wann kaum die Sonn das Licht der Erden mitgeteilet.,2541,95.2,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609025,806,1199,Nachdem der Muselmann schon mit der Haut bezahit etc. Wenn durch Verhack und Dill der Pass scheint abgeschnitten etc. Nachdem das frische Wild ist einmal aufgehetzet etc.,2547,53.8,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609026,807,1202,"Bei einer Schweinhatz ist Lust und Gefahr verbunden etc. Ein Pferd von edler Arth wird also zugeritten etc. Ergrimmter Muselmann, du kommst nicht an die rechten etc.",2553,50.9,False,positional,,,Rugendas-Blatter,,
-BO0624_88142,609027,808,1205,1207,2561,100.0,False,positional,,,Rugendas-Blatter,,
+BO0624_88142,609027,808,1205,1207,2561,100.0,False,positional,,,Rugendas-Blatter,,Sec. XIII
 BO0624_88142,609028,809,1206,Wann Mars zu seinem Dienst will frische Vogel fangen etc.,2565,100.0,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609029,810,1208,"Der ist, weil ihm der Kauff gereut etc.",2567,93.7,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609030,811,1209,Des Geldes Glanz und Klang etc.,2573,92.3,False,positional,,,Rugendas-Blatter,,
@@ -817,32 +817,32 @@ BO0624_88142,609034,815,1215,Spargit rapida ungula rores etc. Discurunt variantq
 BO0624_88142,609035,816,1218,- Agmina concurrunt ducibusq et viribus cequis etc.,2584,100.0,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609036,817,1219,Postquam cuncta videt caelo coustare vereno etc.,2585,94.9,False,positional,,,Rugendas-Blatter,,
 BO0624_88142,609037,818,1220,"Sobald der Ort besiegt, macht man die Beut zusammen etc. Der Teutschen Tapferkeit will sich hiebei auch zeigen etc.",2591,66.7,False,positional,,,Blaue Aquatintablatter,,
-BO0624_88142,609038,819,1221,- 1223 Da ein verwegener Streich auf ein Palanck zu wagen etc.,2593,100.0,False,positional,,,Blaue Aquatintablatter,,
-BO0624_88142,609039,820,1224,Einnahme von Regensburg den 23. April 1809. Hervorragend schones Blatt.,2597,96.5,False,positional,,,Kolorierte Stiche,,
-BO0624_88142,609040,821,1225,- Siege de Danzic. Apres un Siege de 51 jours le brave General royal prussien Comte de Kalkreuth se vit contraint de rendre cette place considerable a lArmee Francaise combienee sous les ordres du Marechal Lefebure le 24.Mai 1807.,2599,100.0,False,positional,,,Kolorierte Stiche,,
-BO0624_88142,609041,822,1225,"a Volkerschlacht bei Leipzig 19. Oktober 1813. Hervorragend schones Blatt. Gerahmt. b Zur 50jahrigen Jubelfeier der Schlacht bei Leipzig 1863, grosser Holzschnitt mit Mittelbild Blick auf das Schlachtfeld und 17 Seitenansichten der Volkerschlacht 1813.",2603,80.3,False,positional,,,Kolorierte Stiche,,
-BO0624_88142,609042,823,1226,Szene nach der Schlacht bei Waterloo. Wellington und Blichers Zusammenkunft auf dem Schlachtfelde von Belle-Alliance 1815 am Abend des 18.Juni. Gerahmt.,2605,98.3,False,positional,,,Kolorierte Stiche,,
-BO0624_88142,609043,824,1227,Napoleon le Grand ouvre la campagne de 1809. Hervorragend schones Blatt mit schonem Rand in altem Rahmen. Darstellung des Treffens an der Susselbach bei Strassburg.,2607,76.6,False,positional,,,Kolorierte Stiche,,
+BO0624_88142,609038,819,1221,- 1223 Da ein verwegener Streich auf ein Palanck zu wagen etc.,2593,100.0,False,positional,,,Blaue Aquatintablatter,,Sec. XIII
+BO0624_88142,609039,820,1224,Einnahme von Regensburg den 23. April 1809. Hervorragend schones Blatt.,2597,96.5,False,positional,,,Kolorierte Stiche,,Sec. XIX
+BO0624_88142,609040,821,1225,- Siege de Danzic. Apres un Siege de 51 jours le brave General royal prussien Comte de Kalkreuth se vit contraint de rendre cette place considerable a lArmee Francaise combienee sous les ordres du Marechal Lefebure le 24.Mai 1807.,2599,100.0,False,positional,,,Kolorierte Stiche,,Sec. XIX
+BO0624_88142,609041,822,1225,"a Volkerschlacht bei Leipzig 19. Oktober 1813. Hervorragend schones Blatt. Gerahmt. b Zur 50jahrigen Jubelfeier der Schlacht bei Leipzig 1863, grosser Holzschnitt mit Mittelbild Blick auf das Schlachtfeld und 17 Seitenansichten der Volkerschlacht 1813.",2603,80.3,False,positional,,,Kolorierte Stiche,,Sec. XIX
+BO0624_88142,609042,823,1226,Szene nach der Schlacht bei Waterloo. Wellington und Blichers Zusammenkunft auf dem Schlachtfelde von Belle-Alliance 1815 am Abend des 18.Juni. Gerahmt.,2605,98.3,False,positional,,,Kolorierte Stiche,,Sec. XIX
+BO0624_88142,609043,824,1227,Napoleon le Grand ouvre la campagne de 1809. Hervorragend schones Blatt mit schonem Rand in altem Rahmen. Darstellung des Treffens an der Susselbach bei Strassburg.,2607,76.6,False,positional,,,Kolorierte Stiche,,Sec. XIX
 BO0624_88142,609044,825,1228,Napoleon bei Leipzig mit dem Fernrohr auf der Schulter eines Husaren. Kol.Lith. Gerahmt.,2613,97.1,False,positional,,,Kolorierte Stiche,,
 BO0624_88142,609045,826,1231,- Joseph u. Pharao. Engl. Schabkunstblatt v. Ward. Gerahmt. Gerahmt.,2620,92.7,False,positional,,,Kolorierte Stiche,,
-BO0624_88142,609046,827,1232,Schlacht der Spanier und Franzosen mit den Portugiesen 1762. Guckkastenbild.,2624,96.7,False,positional,,,Kolorierte Stiche,,
-BO0624_88142,609047,828,1233,Plan von Aire 1641.,2628,87.8,False,positional,,,Stadteansichten,,
-BO0624_88142,609048,829,1234,Afbeelding der Illuminatie van Het Stadhuis te Amsteldam etc.1768 Gest. v. Smit.,2629,96.9,False,positional,,,Stadteansichten,,
+BO0624_88142,609046,827,1232,Schlacht der Spanier und Franzosen mit den Portugiesen 1762. Guckkastenbild.,2624,96.7,False,positional,,,Kolorierte Stiche,,Sec. XVIII
+BO0624_88142,609047,828,1233,Plan von Aire 1641.,2628,87.8,False,positional,,,Stadteansichten,,Sec. XVII
+BO0624_88142,609048,829,1234,Afbeelding der Illuminatie van Het Stadhuis te Amsteldam etc.1768 Gest. v. Smit.,2629,96.9,False,positional,,,Stadteansichten,,Sec. XVIII
 BO0624_88142,609049,830,1235,Amsterdam Gesamtansicht mit Plan.,2630,92.8,False,positional,,,Stadteansichten,,
 BO0624_88142,609050,831,1236,"Assmannshausen, Chorographimetrische Ansicht. a Vue d'Amsterdam de Botermarkt. Kol. Stich v. Lutz.",2634,66.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609051,832,1237,"Ansicht von Assmarinshausen, mit freiem Aug aufgenommen.",2636,95.6,False,positional,,,Stadteansichten,,
-BO0624_88142,609052,833,1239,"1238 Augsburg, Plan. Gest.v. Seutter.",2640,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609052,833,1239,"1238 Augsburg, Plan. Gest.v. Seutter.",2640,100.0,False,positional,,,Stadteansichten,,Sec. XIII
 BO0624_88142,609053,834,1240,"Gesamtansicht mit religiosen Darstellungen. """,2644,100.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609054,835,1241,Burgergarde der K. B. Kreishauptstadt. Sehr interessantes Blatt. 3,2646,96.1,False,positional,,,Stadteansichten,,
 BO0624_88142,609055,836,1242,Vorstellung der Zuge der Herren Schitzen und der spater nachgefolgten Aufziige der Handwerks-,2650,97.4,False,positional,,,Stadteansichten,,
-BO0624_88142,609056,837,1243,Ansicht des Hochgrafl. Minuccischen Lustschlosses bei Adels- innungen zu Augsburg. August 1829 etc. Ansicht des Kaiserl. Marmorhauses von der Gartenseite.,2652,76.6,False,positional,,,Stadteansichten,,
+BO0624_88142,609056,837,1243,Ansicht des Hochgrafl. Minuccischen Lustschlosses bei Adels- innungen zu Augsburg. August 1829 etc. Ansicht des Kaiserl. Marmorhauses von der Gartenseite.,2652,76.6,False,positional,,,Stadteansichten,,Sec. XIX
 BO0624_88142,609057,838,1244,"Ansicht von Berlin, Guckkastenbild.",2658,93.0,False,positional,,Scuola di Berlino,Stadteansichten,,
 BO0624_88142,609058,839,1247,Blechhammer in Oberschlesien. Bingen a. Rhein.,2662,73.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609059,840,1248,"Bremen, Gesamtansicht.Gest. v. French.",2666,93.2,False,positional,,,Stadteansichten,,
-BO0624_88142,609060,841,1250,1249 Ansichten von Bremen. Gest. v. Haldenwang.,2672,97.6,False,positional,,,Stadteansichten,,
+BO0624_88142,609060,841,1250,1249 Ansichten von Bremen. Gest. v. Haldenwang.,2672,97.6,False,positional,,,Stadteansichten,,Sec. XIII
 BO0624_88142,609061,842,1251,Copenhagen. Gest. v. Seutter.,2676,100.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609062,843,1252,Constanz. Kol. Lith.,2678,87.2,False,positional,,,Stadteansichten,,
-BO0624_88142,609063,844,1253,Plan von Deutschland aus dem Jahre 1803. Ansicht von Dresden mit der Elbe. Kol. Stich. Brihl'sche Terasse in Dresden. Sehr feiner kol. Stich.,2688,55.8,False,positional,,,Stadteansichten,,
+BO0624_88142,609063,844,1253,Plan von Deutschland aus dem Jahre 1803. Ansicht von Dresden mit der Elbe. Kol. Stich. Brihl'sche Terasse in Dresden. Sehr feiner kol. Stich.,2688,55.8,False,positional,,,Stadteansichten,,Sec. XIX
 BO0624_88142,609064,845,1256,"Erklarung etlicher Oerter der Stadt Dresden. Ansicht von Elfeld und Erbach. Gest. v. Ziegler. Kol. Stich. Eisleben, Luthers Geburtsort. Lith. v. Faulhaber.",2694,54.5,False,positional,,,Stadteansichten,,
 BO0624_88142,609065,846,1259,Ansicht der Kurfuirstl. Bayr. Grenzstadt Friedberg. Zweite Passage von Augsburg nach Munchen. Kol. Stich v.Weber. Frankfurt am Main. Frankfurt am Main. Kol. Stich.,2698,80.8,False,positional,WEBER PAUL,,Stadteansichten,,
 BO0624_88142,609066,847,1262,Hochfurstl. Residenz Friedenstein und Hauptstadt Gotha. Gest. v. Seutter.,2704,96.5,False,positional,,,Stadteansichten,,
@@ -858,11 +858,11 @@ BO0624_88142,609075,856,1271,Aussicht auf die Eibe und auf die Gegenden nach Sud
 BO0624_88142,609076,857,1272,"Aussicht aus Altona auf die Elbe und deren Gegenden bis Hamburg. Das Rathaus und die Bank von Hamburg. Lith. v. Suhr. Hamburg, Jungfernstiegs. Lith. v. Heuer.",2739,58.3,False,positional,,,Stadteansichten,,
 BO0624_88142,609077,858,1275,"Hamburg, kleiner Stich. "" Gest. v. Seutter. """,2747,67.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609078,859,1278,Heidelberg. Kol. Lith.,2750,88.4,False,positional,,,Stadteansichten,,
-BO0624_88142,609079,860,1280,- 1279 Kol. Stich.,2752,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609079,860,1280,- 1279 Kol. Stich.,2752,100.0,False,positional,,,Stadteansichten,,Sec. XIII
 BO0624_88142,609080,861,1281,Hohenschwangau. Stahlstich v. Poppel.,2753,93.2,False,positional,,,Stadteansichten,,
 BO0624_88142,609081,862,1282,Kempten. Ansicht der Stadt Leipzig gegen Abend. Kol. Stich v. Beichling Leibsigk. Aus Seb. Munster.,2757,76.9,False,positional,,,Stadteansichten,,
 BO0624_88142,609082,863,1285,Leipzig. Gest. v.Seutter.,2759,89.8,False,positional,,,Stadteansichten,,
-BO0624_88142,609083,864,1287,- 1286 Lichtenau.Plan.1668.,2761,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609083,864,1287,- 1286 Lichtenau.Plan.1668.,2761,100.0,False,positional,,,Stadteansichten,,Sec. XIII
 BO0624_88142,609084,865,1288,- Lindau a. Bodensee. Alter Stich.,2763,100.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609085,866,1289,Libeck. Kleiner Stich.,2764,88.9,False,positional,,,Stadteansichten,,
 BO0624_88142,609086,867,1290,Magdeburg. Gest. v. Seutter. Ansicht von Mainz von der neuen Anlage von Delkeskamp. Ausfluss des Mains in den Rhein. Lith. v. Mayer.,2767,59.7,False,positional,,,Stadteansichten,,
@@ -878,17 +878,17 @@ BO0624_88142,609095,876,1307,Vue de Munich. Von Warnberger.,2804,91.8,False,posi
 BO0624_88142,609096,877,1308,Nurnberg. Gest. v. Seutter.,2805,90.2,False,positional,,Scuola di Norimberga,Stadteansichten,,
 BO0624_88142,609097,878,1309,Nirnbergischer Bezirk innerhalb denen so genannten Grenz-,2809,95.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609098,879,1310,Das Nirnbergische Gebiet mit allen Nurnbergischen Hauptmannschaften. Vue du chateau du Bellevue (Paris).,2811,77.9,False,positional,,,Stadteansichten,,
-BO0624_88142,609099,880,1311,1313,2817,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609099,880,1311,1313,2817,100.0,False,positional,,,Stadteansichten,,Sec. XIV
 BO0624_88142,609100,881,1315,Zeremonie eines chinesischen Festes. Guckkastenbild. Passau. Stich v. Engelbrecht.,2823,75.8,False,positional,,,Stadteansichten,,
 BO0624_88142,609101,882,1316,St. Petersburg. Stich v. Seutter. Rotterdam. Kol. Stich von Engelbrecht. Churfirstl. sachs. Lustschloss Pillnitz bei Dresden. Kol. Stich. Sehr interessantes Blatt.,2831,71.1,False,positional,,,Stadteansichten,,
 BO0624_88142,609102,883,1319,Rufach samt dem Schloss Isenburg. Alter Stich. Stockholm. Gest. v. Seutter. Schletstadt. Alter Stich.,2835,64.2,False,positional,,,Stadteansichten,,
 BO0624_88142,609103,884,1322,"Ansicht von Steckborn. Kol. Lith. Sehr schones Blatt. Vue de la ville de Strassbourg, prise de Kehl. Kol. Stich Stein am Rhein. Kol. Lith. Sehr schones Blatt.",2843,53.4,False,positional,,,Stadteansichten,,
 BO0624_88142,609104,885,1325,von Salathe. Weissenburg. Alter Stich.,2855,76.2,False,positional,,,Stadteansichten,,
-BO0624_88142,609105,886,1326,1328 10 Ansichten von Wiesbaden. Gest. v. Wagner.,2859,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609105,886,1326,1328 10 Ansichten von Wiesbaden. Gest. v. Wagner.,2859,100.0,False,positional,,,Stadteansichten,,Sec. XIV
 BO0624_88142,609106,887,1330,Wurzburg mit 4 Seitenansichten. Gest. v. Geissler. Luther's Einzug in Worms zum Reichstag.,2861,67.6,False,positional,,,Stadteansichten,,
 BO0624_88142,609107,888,1331,## Oesterreich.,2867,100.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609108,889,1332,Gmunden von Calvarienberge. Gest. v. Hablitscheck.,2869,94.8,False,positional,,,Stadteansichten,,
-BO0624_88142,609109,890,1333,1334 Molk. Kol. Lith. von Wage.,2873,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609109,890,1333,1334 Molk. Kol. Lith. von Wage.,2873,100.0,False,positional,,,Stadteansichten,,Sec. XIV
 BO0624_88142,609110,891,I,nnsbruck. Lith. Krauss.,2877,97.6,False,positional,,,Stadteansichten,,
 BO0624_88142,609111,892,1335,Ansicht der.Benediktinerabtei Melk. Kol. Stich v. Ziegler. Sehr schones Blatt.,2879,96.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609112,893,1336,Vue de la ville capitale de Salzbourg avec la forteresse.,2883,95.7,False,positional,,,Stadteansichten,,
@@ -898,10 +898,10 @@ BO0624_88142,609115,896,1339,Gesamtansicht von Wien alter Stich von Merian.,2891
 BO0624_88142,609116,897,1340,"Prospekt der kaiserl. Residenzstadt wien, wie solche von",2893,95.6,False,positional,,Scuola Viennese,Stadteansichten,,
 BO0624_88142,609117,898,1341,Mitternacht anzusehen.Gest. v. Seutter.,2897,100.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609118,899,1342,Die Pfarrkirche und die beiden Kollegien der Vater der,2899,95.6,False,positional,,,Stadteansichten,,
-BO0624_88142,609119,900,1343,1344,2903,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609119,900,1343,1344,2903,100.0,False,positional,,,Stadteansichten,,Sec. XIV
 BO0624_88142,609120,901,1345,Zu- und Eingang in Augarten. Kol. Stich v. Ziegler. Sehr schones und sehr seltenes Blatt.,2912,97.1,False,positional,,,Stadteansichten,,
-BO0624_88142,609121,902,1346,"Die prachtvolle Schlittenfahrt von Wien nach Schonbrunn, 23. Januar 1815.",2914,96.6,False,positional,,Scuola Viennese,Stadteansichten,,
-BO0624_88142,609122,903,1347,Freilegung des Stephansdomes im Jahr 1792. Gest. v. Schitz.,2918,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609121,902,1346,"Die prachtvolle Schlittenfahrt von Wien nach Schonbrunn, 23. Januar 1815.",2914,96.6,False,positional,,Scuola Viennese,Stadteansichten,,Sec. XIX
+BO0624_88142,609122,903,1347,Freilegung des Stephansdomes im Jahr 1792. Gest. v. Schitz.,2918,100.0,False,positional,,,Stadteansichten,,Sec. XVIII
 BO0624_88142,609123,904,1348,"Vienne, vue prise du Pratre. Koi. Lith. v. Champin.",2920,94.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609124,905,1349,Wien und Umgebung mit 10 verschiedenen Planen. Stich,2924,95.3,False,positional,,Scuola Viennese,Stadteansichten,,
 BO0624_88142,609125,906,1350,"54 Stadteansichten v.Merian ,Schweiz."" Aletsch —Gletscher —— Meer. Chute de lAar sur le Crimsel,Canton de Bern. Kolorierter Stich v. Wyss.",2934,70.0,False,title_direct,,,Stadteansichten,,
@@ -913,13 +913,13 @@ BO0624_88142,609130,911,1359,le village de Gunt et de Simble. Grave par Francois
 BO0624_88142,609131,912,1360,Vue de Interlaken sur le lac de Brienne. Koiorierter Stich von Descourdis.,2956,96.6,False,title_direct,,,Kolorierte Stiche,,
 BO0624_88142,609132,913,1361,Jungfrau im Berner Oberland. Kolorierte Lithographie.,2960,100.0,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88142,609133,914,1362,Lugano. Kolorierte Lithographie.,2962,92.3,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88142,609134,915,1363,1364 Der Rheinfall bei Lauffenburg. Kol. Stich.,2966,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609134,915,1363,1364 Der Rheinfall bei Lauffenburg. Kol. Stich.,2966,100.0,False,positional,,,Stadteansichten,,Sec. XIV
 BO0624_88142,609135,916,1365,Lausanne. Stahlstich.,2970,88.4,False,positional,,,Stadteansichten,,
 BO0624_88142,609136,917,1367,Souvenir de Lugano. Stich von Mayer.,2974,93.2,False,positional,,,Stadteansichten,,
-BO0624_88142,609137,918,1369,"La chute du Rhin. Stich von Suter. 1368 Vue de la.chute du Rhin, prise de face.",2982,71.8,False,positional,,,Stadteansichten,,
+BO0624_88142,609137,918,1369,"La chute du Rhin. Stich von Suter. 1368 Vue de la.chute du Rhin, prise de face.",2982,71.8,False,positional,,,Stadteansichten,,Sec. XIV
 BO0624_88142,609138,919,1370,"Rheinfall mit Schlosschen Lauffen. Farbiger Stich.Vor der Schrift,mit vollem Rand. Sehr selten.",2986,100.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609139,920,1371,La chute du Rhin. Seefeld. Gestochen von Riegel.,2994,74.4,False,positional,,,Stadteansichten,,
-BO0624_88142,609140,921,1372,1374 Solothurn. Alter Stich.,3000,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609140,921,1372,1374 Solothurn. Alter Stich.,3000,100.0,False,positional,,,Stadteansichten,,Sec. XIV
 BO0624_88142,609141,922,1376,Vue prise sur la Limite du Valais et Savois au col de Balme contre le levant. Kolorierter Stich. Thun et les alpes bernoises.,3002,85.1,False,title_direct,,,Kolorierte Stiche,,
 BO0624_88142,609142,923,1377,Vevey.Kolorierter Stich.,3006,90.2,False,title_direct,,,Kolorierte Stiche,,
 BO0624_88142,609143,924,1378,"Zurich, depuis la Waid. Kolorierter Stich Neapel. Gestochen von Seutter. Vue de lAetna.",3008,61.9,False,title_direct,,,Kolorierte Stiche,,
@@ -927,37 +927,37 @@ BO0624_88142,609144,925,1381,Veduta di vianco della Primitiale della Cilla di Pi
 BO0624_88142,609145,926,1384,Venedig.Kolorierter Stich.,3021,90.9,False,title_direct,,,Kolorierte Stiche,,
 BO0624_88142,609146,927,1385,"Lithographie. """"",3023,82.8,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88142,609147,928,1386,"8 deutsche Ansichten auf einem Blatt. 7 Ansichten, Stiche etc. 7 Plane der Schweiz etc.",3027,60.5,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88142,609148,929,1389,1390 Plan von Jerusalem.,3035,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609148,929,1389,1390 Plan von Jerusalem.,3035,100.0,False,positional,,,Stadteansichten,,Sec. XIV
 BO0624_88142,609149,930,3,farbige Stiche von englischen Schlossern. Oval. Sehr schon. Gerahmt.,3037,98.5,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88142,609150,931,1392,Stammbaum des K. wirtt. Hauses von der Mitte des 13. Jahrhunderts bis zu Anfang des Jahres 1839. Unten das Stammhaus Wurttemberg sowie der Hohenstaufen mit den Wappentieren Lowe und Hirsch.,3047,98.7,False,positional,,,Stadteansichten,,
-BO0624_88142,609151,932,1394,1393 Ulrich.Herzog von Wurttemberg und Teck 1487-1550.,3051,100.0,False,positional,,,Stadteansichten,,
-BO0624_88142,609152,933,1395,Johannes Fridericus Dux Wirttembergiae 1582-1628.,3053,95.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609150,931,1392,Stammbaum des K. wirtt. Hauses von der Mitte des 13. Jahrhunderts bis zu Anfang des Jahres 1839. Unten das Stammhaus Wurttemberg sowie der Hohenstaufen mit den Wappentieren Lowe und Hirsch.,3047,98.7,False,positional,,,Stadteansichten,,Sec. XIII
+BO0624_88142,609151,932,1394,1393 Ulrich.Herzog von Wurttemberg und Teck 1487-1550.,3051,100.0,False,positional,,,Stadteansichten,,Sec. XVI
+BO0624_88142,609152,933,1395,Johannes Fridericus Dux Wirttembergiae 1582-1628.,3053,95.0,False,positional,,,Stadteansichten,,Sec. XVII
 BO0624_88142,609153,934,1396,Fridericus Dux Wirttembergiae et Teck. Derselbe. Derselbe. Mit breitem Rand.,3057,64.9,False,positional,,,Stadteansichten,,
 BO0624_88142,609154,935,1399,Johannes Fridericus Dux Wirttemberg.,3063,93.3,False,positional,,,Stadteansichten,,
 BO0624_88142,609155,936,1400,Prinz Friedrich Ludwig Herzog zu Wirttemberg.,3067,94.6,False,positional,,,Stadteansichten,,
 BO0624_88142,609156,937,1401,"Vorbildung alter tapferer Helden, welche sich in dem Ent-",3071,95.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609157,938,1402,"Georg Friedrich, Herzog zu Wurttemberg.",3073,93.7,False,positional,,,Stadteansichten,,
-BO0624_88142,609158,939,1404,"1403 Friedrich Carl, Herzog zu Wirttemberg.",3077,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609158,939,1404,"1403 Friedrich Carl, Herzog zu Wirttemberg.",3077,100.0,False,positional,,,Stadteansichten,,Sec. XV
 BO0624_88142,609159,940,1405,"Ludwig Eberhard, Herzog von Wurttemberg.",3079,93.8,False,positional,,,Stadteansichten,,
 BO0624_88142,609160,941,1406,"Eberhard,Herzog von Wurttemberg Karl Alexander,regierender Herzog von Wurttemberg u.Teck. Herzog Eberhard Ludwig und Herzogin Sybilla. 2 Holzschnitte.",3087,56.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88142,609161,942,1409,"Friedericus Eugenius, Herzog von Wurttemberg. Erinnerungsblatt an das 25 jahr. Regierungsjubilaum S. M.",3091,70.1,False,positional,,,Stadteansichten,,
 BO0624_88142,609162,943,1410,Wilhem Konig von Wurttemberg. Relief.,3093,93.3,False,positional,,,Stadteansichten,,
 BO0624_88142,609163,944,1413,Derselbe.Von Strixner. Konig Wilhelm von Wuirttemberg. Lith. v. Schreiner.,3099,79.3,False,positional,,,Stadteansichten,,
 BO0624_88142,609164,945,1414,Konig Wilhelm von Wirttemberg und seine Generale zu Pferd; nach links reitend.,3101,96.8,False,positional,,,Stadteansichten,,
-BO0624_88142,609165,946,1391,1415,3104,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609165,946,1391,1415,3104,100.0,False,positional,,,Stadteansichten,,Sec. XV
 BO0624_88142,609166,947,1416,Wilhelm Konig von Wurttemberg und Konigin Pauline. Gest. v.Fleischmann.,3106,96.5,False,title_direct,Paul,,,,
 BO0624_88142,609167,948,1417,"Queen of Wirtemburgh. Stich v.Fresman. Pauline, Konigin von Wurttemberg. Lih.v. Villain. Pauline, Konigin von Wurttemberg, im Hintergrunde der Rosenstein. Lith. v. Kistner.",3114,64.5,False,title_direct,Paul,,,,
 BO0624_88142,609168,949,1420,"Carl, Kronprinz von Wurttemberg. Stich v. Ditmarsch.",3116,95.0,False,positional,,,Stadteansichten,,
-BO0624_88142,609169,950,1421,"1422 Charles, prince royal de Wurttemberg. Lith. v. Victor. Brustbild.",3120,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609169,950,1421,"1422 Charles, prince royal de Wurttemberg. Lith. v. Victor. Brustbild.",3120,100.0,False,positional,,,Stadteansichten,,Sec. XV
 BO0624_88142,609170,951,1423,"Dasselbe Blatt. Dasselbe Blatt, koloriert. Son altesse imperial Madame la grand duchesse Olga Nicolaievna.",3128,74.6,False,positional,,,Stadteansichten,,
 BO0624_88142,609171,952,1426,Prinz Eugen von Wurttemberg. Nach Menzel. Lith. v. Kretzschmar. 3 Blatt wirtt. Munzen. Prinz Weimar. Stich v. Deis.,3130,69.0,False,positional,MENZEL ADOLPH VON,,Stadteansichten,,
 BO0624_88142,609172,953,1429,"Georg Friedrich, Furst von Waldeck. Graf Reischach zu Pferd.",3136,69.5,False,positional,,,Stadteansichten,,
 BO0624_88142,609173,954,1430,"Maximillianus Willibaldus, comes de Wolfegg et baro de Waldburg.",3140,96.1,False,positional,,,Stadteansichten,,
-BO0624_88142,609174,955,1431,"aE Ernst Christian Carl, Furst zu Hohenlohe-Langenburg. Lith. von Kistner. Bidembach, Georg 1666. Johannes Albertus Bengelius.",3142,72.5,False,positional,,,Stadteansichten,,
-BO0624_88142,609175,956,1434,"Composition von A. v. Breitschwert sowie Photographie von M.v.Breitschwert. Burkhard,Andreas, wirtt. Geheimerat 1642. Dr. Johannes Brenz, wirtt. Reformator. Lith. v. Lowenstern.",3148,59.8,False,positional,,,Stadteansichten,,
+BO0624_88142,609174,955,1431,"aE Ernst Christian Carl, Furst zu Hohenlohe-Langenburg. Lith. von Kistner. Bidembach, Georg 1666. Johannes Albertus Bengelius.",3142,72.5,False,positional,,,Stadteansichten,,Sec. XVII
+BO0624_88142,609175,956,1434,"Composition von A. v. Breitschwert sowie Photographie von M.v.Breitschwert. Burkhard,Andreas, wirtt. Geheimerat 1642. Dr. Johannes Brenz, wirtt. Reformator. Lith. v. Lowenstern.",3148,59.8,False,positional,,,Stadteansichten,,Sec. XVII
 BO0624_88142,609176,957,1437,"Joh.Friedr. Freiherr v. Cotta.Lith.v, Bach. Johann Georg Cotta. Lith.v. Bach. Johannes Fidericus Cotta. Schabkunstblatt von Haid.",3158,57.5,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88142,609177,958,1440,Freiherr Friedrich von Ellrichshausen. Lith. v. Wagner. Joh. Heinr. Faber aus Weinsberg. Stich v. Kilian. Friedrich Freiherr von Elrichshausen und Freifrau Henriette geb. Schilling von Cannstatt. Lith. v. Wagner.,3164,67.1,False,positional,,,Stadteansichten,,
-BO0624_88142,609178,959,1443,"Joannes Henricus Faber von Weinsberg. Stich von Kilian 1622. Paulus Gerhard. Lith.v. Weiss. Martin Faber, Diaconus bei Seebald 1569.",3166,61.7,False,title_direct,Paul,,,,
+BO0624_88142,609178,959,1443,"Joannes Henricus Faber von Weinsberg. Stich von Kilian 1622. Paulus Gerhard. Lith.v. Weiss. Martin Faber, Diaconus bei Seebald 1569.",3166,61.7,False,title_direct,Paul,,,,Sec. XVII
 BO0624_88142,609179,960,1446,"Johann Gottfried Groschopf Pfarrer zu Lonsee, geb.zu Ulm",3172,95.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609180,961,1447,"Andreas Harter, Pfarrer zu Belsenberg in Waldenburg. Gest. v.Heckenauer. Oel.",3174,93.8,False,positional,,,Stadteansichten,,
 BO0624_88142,609181,962,1448,"Johann Reinhard Hedinger, wirtt. Consistorialrat. Christian Hochstatter. Johannes Henisius Ulmensis. Grosser Stich von Kilian.",3182,59.1,False,positional,,,Stadteansichten,,
@@ -970,21 +970,21 @@ BO0624_88142,609187,968,1464,"Schiller.S Stich von Hoffmeister. Karl Seydelmann 
 BO0624_88142,609188,969,1467,"v. Sternenfels zu Pferd. 31 Blatt Stadlinger wurtt. Militar Markus Christoph Welser, Rath von Ulm.",3223,56.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609189,970,1470,"Seele, Invalid.",3225,83.9,False,positional,,,Stadteansichten,,
 BO0624_88142,609190,971,1471,"Wuirttemberger Militar, Feldjager etc.",3227,93.5,False,positional,,,Stadteansichten,,
-BO0624_88142,609191,972,1472,"Schwabischer Kreis-Artillerie-Unterofficier, den 1. Nov. 1788 zum Corps. Hervorragend schones Apuarell. Siehe Abbildung. Der Ausschuss der wirtt. Landesversammlung vom Jahre 1850, darunter Schoder, Prasident; Fetzer, Mohl etc. Zwolf",3228,67.3,False,positional,,,Stadteansichten,,
+BO0624_88142,609191,972,1472,"Schwabischer Kreis-Artillerie-Unterofficier, den 1. Nov. 1788 zum Corps. Hervorragend schones Apuarell. Siehe Abbildung. Der Ausschuss der wirtt. Landesversammlung vom Jahre 1850, darunter Schoder, Prasident; Fetzer, Mohl etc. Zwolf",3228,67.3,False,positional,,,Stadteansichten,,Sec. XVIII
 BO0624_88142,609192,973,1473,Napoleon und Rohrle.,3232,88.4,False,positional,,,Stadteansichten,,
 BO0624_88142,609193,974,2,Biatter Bismarck. Faber und Rossleswirt von Cannstatt.,3236,98.1,False,positional,,,Stadteansichten,,
 BO0624_88142,609194,975,1475,Ehepaar von Bonnigheim mit 53 Kindern. 18 Urkunden etc. auf Familie Moser beziiglich.,3240,68.7,False,positional,,,Stadteansichten,,
-BO0624_88142,609195,976,1476,1478 2 Schriften auf Anna Elisabetha Cottain geb. Schaberin und Maria Angelica Cotta geb. Helfferichin beziglich.,3244,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609195,976,1476,1478 2 Schriften auf Anna Elisabetha Cottain geb. Schaberin und Maria Angelica Cotta geb. Helfferichin beziglich.,3244,100.0,False,positional,,,Stadteansichten,,Sec. XV
 BO0624_88142,609196,977,1480,"Wappenbuch von Putlitz, Bulow, Orzten etc. 2 Schriften auf Faber beziglich.",3246,67.8,False,positional,,,Stadteansichten,,
 BO0624_88142,609197,978,1481,Wappen der Familie Wacker. Ludwigsburg.,3252,93.7,False,positional,,Manifattura di Ludwigsburg,Stadteansichten,,
-BO0624_88142,609198,979,1483,1482,3256,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609198,979,1483,1482,3256,100.0,False,positional,,,Stadteansichten,,Sec. XV
 BO0624_88142,609199,980,1484,"79 von Studenten von Hohenheim, Tubingen etc. Bilder von wurttembergischen Malern, Kupferstechern etc. "" Portrats Tubinger Studenten. Lithographie von Kull.",3260,78.1,False,positional,,,FOTOGRAFIE,,
-BO0624_88142,609200,981,1485,1487,3268,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609200,981,1485,1487,3268,100.0,False,positional,,,Stadteansichten,,Sec. XV
 BO0624_88142,609201,982,1486,"Wachter, Cornelia.Gestochen von Rahl.",3270,93.3,False,positional,,,Stadteansichten,,
 BO0624_88142,609202,983,1488,"2 Stiche von Miller, Jahreszeiten. Jean Georg Wille. Gestochen von J. G. Muiller.",3280,70.5,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88142,609203,984,1489,- 1491,3284,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609203,984,1489,- 1491,3284,100.0,False,positional,,,Stadteansichten,,Sec. XV
 BO0624_88142,609204,985,1492,Von Fr. Muiller. Vor der Schrift. Sehr selten.,3288,94.4,False,positional,,,Stadteansichten,,
-BO0624_88142,609205,986,1493,"Die Marztage 1848. Lithographie von Fay. Das grosse Festinjagen bei Bebenhausen Nach Seele, gestochen von Fr Muller. Siehe Abbildung. Leonberg im Jahre 1748. Tuschzeichnung.",3298,70.8,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88142,609205,986,1493,"Die Marztage 1848. Lithographie von Fay. Das grosse Festinjagen bei Bebenhausen Nach Seele, gestochen von Fr Muller. Siehe Abbildung. Leonberg im Jahre 1748. Tuschzeichnung.",3298,70.8,False,positional,,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88142,609206,987,1496,Schloss Albeck im obern Neckartal. Kol. Stich von Ebner. Ruine der Klosterkirche Allerheiligen. Lithographie. Aalen. Stich von Bodenehr.,3304,56.7,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88142,609207,988,1499,Altshausen. Aquarell. Ammernthal. Kolorierter Stich von Ebner. dito.,3314,73.6,False,title_direct,,,Kolorierte Stiche,,
 BO0624_88142,609208,989,1502,Backnang. Kolorierter Stich von Ebner. Bebenhausen bei Tubingen. Ansicht vom K. Jagdschloss,3320,71.8,False,title_direct,,,Kolorierte Stiche,,
@@ -993,7 +993,7 @@ BO0624_88142,609210,991,1506,"Besigheim. Kolorierter Stich von Ebner. Aussicht b
 BO0624_88142,609211,992,1507,Der Blautopf bei Blaubeuren. Lithographie von Lacroix.,3330,95.4,False,positional,DELACROIX VICTOR EUGENE,,STAMPE E INCISIONI,,
 BO0624_88142,609212,993,1508,Blaubeuren. Hervorragend schones Aquarell. Bad Boll. Lithographie von Schacher. Bodensee auf der germanischen Seite. Stich von S. Munster.,3333,58.6,False,title_direct,,,STAMPE E INCISIONI,,
 BO0624_88142,609213,994,1511,Das Belvedere in Boll. Lithographie von Emminger.,3334,94.9,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88142,609214,995,1513,- 1512 Das Badegebaude in Boll. Lithographie von Kustner.,3336,100.0,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88142,609214,995,1513,- 1512 Das Badegebaude in Boll. Lithographie von Kustner.,3336,100.0,False,positional,,,STAMPE E INCISIONI,,Sec. XVI
 BO0624_88142,609215,996,1514,Bopfingen. Kolorierter Stich von Ebner.,3337,93.7,False,title_direct,,,Kolorierte Stiche,,
 BO0624_88142,609216,997,1515,"Stich von Bodenehr. """,3339,87.8,False,positional,,,Stadteansichten,,
 BO0624_88142,609217,998,1516,Buchau. Kolorierter Stich von Ebner. Gesamtansicht. Calw.,3341,73.9,False,title_direct,,,Kolorierte Stiche,,
@@ -1006,9 +1006,9 @@ BO0624_88142,609223,1004,1528,Cuinzelsau. Ehingen. Lithographie von Kunicke mit 
 BO0624_88142,609224,1005,1529,Dietenheim bei Laupheim. Aquarell von F. Baur.,3360,94.5,False,title_direct,,,Aquarelle,,
 BO0624_88142,609225,1006,1532,Partie vom schonen Graben. Lithographie von,3362,94.4,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88142,609226,1007,1531,Aquarell von Wintergerst.,3363,90.6,False,title_direct,,,Aquarelle,,
-BO0624_88142,609227,1008,1534,Die gefirstete Probstei Ellwangen mit den Herrschaften Ellwangen aus dem Jahr 1549 aus S. Muinster.,3365,69.2,False,positional,,,Stadteansichten,,
-BO0624_88142,609228,1009,1535,Novissima et accurata tabula geographica principalis S. R. J. praepositurae Ellewagensis a Matteo Seuttero. Gest. v.Lotter 1760.,3369,98.0,False,positional,,,Stadteansichten,,
-BO0624_88142,609229,1010,1536,1537,3372,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609227,1008,1534,Die gefirstete Probstei Ellwangen mit den Herrschaften Ellwangen aus dem Jahr 1549 aus S. Muinster.,3365,69.2,False,positional,,,Stadteansichten,,Sec. XVI
+BO0624_88142,609228,1009,1535,Novissima et accurata tabula geographica principalis S. R. J. praepositurae Ellewagensis a Matteo Seuttero. Gest. v.Lotter 1760.,3369,98.0,False,positional,,,Stadteansichten,,Sec. XVIII
+BO0624_88142,609229,1010,1536,1537,3372,100.0,False,positional,,,Stadteansichten,,Sec. XVI
 BO0624_88142,609230,1011,1538,Ehningen nebst seinen Umgebungen. Gesamtansicht mit,3374,95.2,False,positional,,,Stadteansichten,,
 BO0624_88142,609231,1012,1539,dito. Nebenansichten.Lith.v.Haff.,3379,90.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609232,1013,1540,"Gesamtansicht.Lith. v. Emminger. """,3380,92.1,False,positional,,,Stadteansichten,,
@@ -1023,12 +1023,12 @@ BO0624_88142,609240,1021,1558,"Goppingen. Kol. Lith. Schw. Hall und die Comburg.
 BO0624_88142,609241,1022,1561,"Vom Schloss Comburg aus. Kol. Stich v. Ebner. "" Territorium civitatis suevo hallensis. """" Die Michaelskirche.  Stahlstich v. Voltz. """,3405,50.3,False,positional,VOLTZ FRIEDRICH JOHANN,,Stadteansichten,,
 BO0624_88142,609242,1023,1564,Ansicht. Alter Stich.,3408,88.4,False,positional,,,Stadteansichten,,
 BO0624_88142,609243,1024,1565,"Heilbronn, Gesamtansicht. Lith.v. Emminger.",3409,94.0,False,positional,,,Stadteansichten,,
-BO0624_88142,609244,1025,1576,"Vierteilig von der Sud-, Nord, Ost- und West-"" seite. Lith. v. Wolf. Sehr seltenes Blatt. Neckaransicht. Kol. Stahlstich v. Peine. "" Der Turm, in weichem Gotz von Berlichingen """" als Gefangener verwahrt wurde. Aquarell v. Hack. 1578 Der Marktplatz. """,3412,64.5,False,title_direct,,,Aquarelle,,
-BO0624_88142,609245,1026,1580,- 1582,3414,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609244,1025,1576,"Vierteilig von der Sud-, Nord, Ost- und West-"" seite. Lith. v. Wolf. Sehr seltenes Blatt. Neckaransicht. Kol. Stahlstich v. Peine. "" Der Turm, in weichem Gotz von Berlichingen """" als Gefangener verwahrt wurde. Aquarell v. Hack. 1578 Der Marktplatz. """,3412,64.5,False,title_direct,,,Aquarelle,,Sec. XVI
+BO0624_88142,609245,1026,1580,- 1582,3414,100.0,False,positional,,,Stadteansichten,,Sec. XVI
 BO0624_88142,609246,1027,1581,"- mit Neckar. Kol. Lith. v. Lacey. """"",3416,100.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609247,1028,1583,"Kol. "" Ansicht des K. Lustschlosses. Guckkastenbild. "" Sehr selten. Hohenheim. Kol. Stich v. Ebner.",3420,75.9,False,positional,,,Stadteansichten,,
-BO0624_88142,609248,1029,1586,"Grotte beim Wasserfall. Kol. Stich v.Heideloff. 1587 "" Das Boudoir. Sehr selten.",3422,96.7,False,positional,,,Stadteansichten,,
-BO0624_88142,609249,1030,1589,"- 1588 "" Die gothische Kirche beim Wasserfall. """" Kol. "" Stich v. Heideloff.",3424,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609248,1029,1586,"Grotte beim Wasserfall. Kol. Stich v.Heideloff. 1587 "" Das Boudoir. Sehr selten.",3422,96.7,False,positional,,,Stadteansichten,,Sec. XVI
+BO0624_88142,609249,1030,1589,"- 1588 "" Die gothische Kirche beim Wasserfall. """" Kol. "" Stich v. Heideloff.",3424,100.0,False,positional,,,Stadteansichten,,Sec. XVI
 BO0624_88142,609250,1031,1590,- Hohenstaufen. Kreuzzug Kaiser Friedrich I. nach Jerusalem. Kol. Lith.v. Renz.,3426,100.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609251,1032,1566,| ”   | Nicolaikirche u. Pensionat. Lith. v. Emminger.   |    |,3429,94.3,False,positional,,,Stadteansichten,,
 BO0624_88142,609252,1033,1567,|     | Bahnhof und Post                                 | ”  |,3431,86.5,False,positional,,,Stadteansichten,,
@@ -1041,18 +1041,18 @@ BO0624_88142,609258,1039,1573,| ”   | Wartberg.                               
 BO0624_88142,609259,1040,1574,| ”   | Jagerhaus. ”                                     |    |,3438,78.3,False,positional,,,Stadteansichten,,
 BO0624_88142,609260,1041,1575,|     | Hefenweiler.                                     | ”  |,3439,81.5,False,positional,,,Stadteansichten,,
 BO0624_88142,609261,1042,1592,Das Furstentum Hohenlohe mit des deutschen Ordens Gross-,3442,95.7,False,positional,,,Stadteansichten,,
-BO0624_88142,609262,1043,1591,Hohentwiel.Festung 1633.U Verteidigung.,3444,93.8,False,positional,,,Stadteansichten,,
-BO0624_88142,609263,1044,1594,Horb.Aus S. Minster. Karte von Hohenlohe aus d. J. 1748.,3450,75.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609262,1043,1591,Hohentwiel.Festung 1633.U Verteidigung.,3444,93.8,False,positional,,,Stadteansichten,,Sec. XVII
+BO0624_88142,609263,1044,1594,Horb.Aus S. Minster. Karte von Hohenlohe aus d. J. 1748.,3450,75.0,False,positional,,,Stadteansichten,,Sec. XVIII
 BO0624_88142,609264,1045,1595,Ingelfingen. Kol. Stich v. Ebner. Kirchberg a. Jagst. Kol. Stich v. Ebner. Kirchheim u. Teck. Lith.v. Wolffle.,3454,52.6,False,positional,,,Stadteansichten,,
 BO0624_88142,609265,1046,1598,Kirchberg.Lith.v. Mayer. Kornthal. Kol. Stich v. Ebner. Konigsbronn. K. Schmelzwerk.,3460,50.9,False,positional,,,Stadteansichten,,
 BO0624_88142,609266,1047,1601,Kreglingen. Lith. v. Schauffele.,3464,91.8,False,positional,,,Stadteansichten,,
-BO0624_88142,609267,1048,1602,1603 Langenburg. Koi. Stich v. Ebner.,3468,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609267,1048,1602,1603 Langenburg. Koi. Stich v. Ebner.,3468,100.0,False,positional,,,Stadteansichten,,Sec. XVII
 BO0624_88142,609268,1049,1604,Lauterbad.,3471,78.3,False,positional,,,Stadteansichten,,
 BO0624_88142,609269,1050,1605,Leutkirch. Liebenzell. Kol. Stich v. Ebner. Lichtenstein. Grosse Lith.,3479,60.4,False,positional,,,Stadteansichten,,
 BO0624_88142,609270,1051,1608,"Lith. "" Ludwigsburg, Monrepos. Lith. v. Obach. Das untere Bad. Lith. v. Federer.",3485,64.2,False,positional,,Manifattura di Ludwigsburg,Stadteansichten,,
 BO0624_88142,609271,1052,1611,"Die Emichsburg, eine Partie in der englischen "" Anlage, nachst dem Kgl. wurttemb. Residenzschloss zu Ludwigsburg. Farb. Stich v. Friedr. Weber.Herrliches Blatt mit vollem Rand. S.Abbildung. Gerahmt. Marbach. Stich von Lacey. Das Kgl. wirttemb. Residenzschloss von der Ruckseite nebst der Insel in der englischen Anlage bei Ludwigsburg. Gest. v.Friedr. Weber. Ebenso wie voriges. S. Abbildung.",3489,66.3,False,positional,WEBER PAUL,Manifattura di Ludwigsburg,Stadteansichten,,
 BO0624_88142,609272,1053,1614,"Maulbronn. Kol. Stich v. Ebner. Von der Westseite. Lith.v.Arnz. "" Mergentheim. Kol. Stich v. Willmann.",3499,52.0,False,positional,,,Stadteansichten,,
-BO0624_88142,609273,1054,1617,Im Vordergrunde viele Figuren. Lih. Munderkingen Kol. Stich v. Ebner. Mockmihl im Jahre 1648.Grav.v.Lieb.,3507,51.1,False,positional,,,Stadteansichten,,
+BO0624_88142,609273,1054,1617,Im Vordergrunde viele Figuren. Lih. Munderkingen Kol. Stich v. Ebner. Mockmihl im Jahre 1648.Grav.v.Lieb.,3507,51.1,False,positional,,,Stadteansichten,,Sec. XVII
 BO0624_88142,609274,1055,1620,Neckarsulm. Grav. v. Lieb. Stammschloss Neipperg. Aquarell. Stich von Merian.,3511,59.0,False,title_direct,,,Aquarelle,,
 BO0624_88142,609275,1056,1623,Neuenbirg. Kol. Stich v.Ebner. Neuenstadt a.Linde.Grav.v. Lieb.,3517,66.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609276,1057,1624,dito.,3519,61.5,False,positional,,,Stadteansichten,,
@@ -1065,11 +1065,11 @@ BO0624_88142,609282,1063,1632,Oehringen. Seiner Hochfirstl. Durchlaucht dem regi
 BO0624_88142,609283,1064,1633,Ansicht gegen Plochingen u. die Alb. Kol. Stich mit vollem Rand. Sehr selten.,3538,96.6,False,positional,,,Stadteansichten,,
 BO0624_88142,609284,1065,1634,"Ravensburg. Kol. Lith. Sehr schones Blatt. Der Rechberg. Kol. Lith.v. Renz. Prospekt der Karmeliterkirche samt Kloster u. "" der evang. Kirche.",3548,63.6,False,positional,,,Stadteansichten,,
 BO0624_88142,609285,1066,1637,Schloss Rechberg. Lith. v. Wagner. Reutlingen mit seinen interessantesten Umgebungen. Lith. v.Bode. Gesamtansicht mit 12 Nebenansichten. Rechberg in Wirtt. Lith. v. Kistner. Mit vollem Rand.,3552,70.3,False,positional,,,Stadteansichten,,
-BO0624_88142,609286,1067,1640,"Reutlingen u. die Achalm von der Mittagsseite 1821. Kol. Stich v.Ebner. "" Alter Stich. Unten mit Wappen von Reibold. """,3556,60.5,False,positional,,,Stadteansichten,,
+BO0624_88142,609286,1067,1640,"Reutlingen u. die Achalm von der Mittagsseite 1821. Kol. Stich v.Ebner. "" Alter Stich. Unten mit Wappen von Reibold. """,3556,60.5,False,positional,,,Stadteansichten,,Sec. XIX
 BO0624_88142,609287,1068,1643,Kol. Lith.,3562,76.2,False,positional,,,Stadteansichten,,
 BO0624_88142,609288,1069,1644,"Reutlingen, Kol. Stich v. Burkhardt. Gesamtansicht umgeben von der Achalm mit den Vorbergen der schwab. Rotenberg.Stich v. Merian. Ansicht von Riepoldsau. Geatzt von Vollenweider.",3563,71.8,False,positional,,,Stadteansichten,,
 BO0624_88142,609289,1070,1647,Rotenburg a. Neckar. Kol. Stich mit vollem Rand. Sehr selten. Kapelle auf dem Rotenberg. Lith. y. Heinzmann. Grabmal auf dem Rotenberg. Kol. Stich v. Ebner.,3571,54.9,False,positional,,,Stadteansichten,,
-BO0624_88142,609290,1071,1650,Rottweil im Jahre 1643. Lith.v. Ebner.,3577,93.3,False,positional,,,Stadteansichten,,
+BO0624_88142,609290,1071,1650,Rottweil im Jahre 1643. Lith.v. Ebner.,3577,93.3,False,positional,,,Stadteansichten,,Sec. XVII
 BO0624_88142,609291,1072,1651,Stetten.Stich v.S. Muinster.,3579,91.2,False,positional,,,Stadteansichten,,
 BO0624_88142,609292,1073,1652,"Sulz am Neckar. Kol. Stich v. Ebner. Kol. Stich v. Ebner. "" mit den 3 Bricken. Kol. Stich v. Ebner. "" "" """,3589,57.1,False,positional,,,OGGETTI VARI,,
 BO0624_88142,609293,1074,1655,"Scharnhausen. "" "" "" "" Schillingfirst. Lith. Schacher. Scheer "" """,3593,71.6,False,positional,,,Stadteansichten,,
@@ -1094,29 +1094,29 @@ BO0624_88142,609311,1092,1686,Das Rathaus. Kol. Stich v. Poppel.,3659,92.3,False
 BO0624_88142,609312,1093,1687,Das Rathaus. Kol. Lith. ”,3663,88.9,False,positional,,,Stadteansichten,,
 BO0624_88142,609313,1094,1688,Torbogen am Minster.,3667,100.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609314,1095,1690,” Seitengang im Munster. ”,3671,89.4,False,positional,,,Stadteansichten,,
-BO0624_88142,609315,1096,1691,Musikfest am 25. Juli 1836. Lith.v.Pobuda. ”,3673,94.0,False,positional,,,Stadteansichten,,
-BO0624_88142,609316,1097,1692,Das Fischerstechen auf der Donau 25. Juli 1836.,3675,94.7,False,positional,,,Stadteansichten,,
-BO0624_88142,609317,1098,1693,"Uim, 24 Ulmer Trachten. Am Rande etwas beschnitten. Schifferstechen in Ulm den 25. Juni 1865. "" Ulmisches Reichsstadt-Kostim gegen das Ende des "" 18. Jahrhunderts. In 24 Blattern mit vollem Rand.",3687,68.8,False,positional,,,Stadteansichten,,
-BO0624_88142,609318,1099,1696,"Ansicht der feierlichen Grundsteinlegung der Ludwig-"" Wilhemsbricke iber die Donau bei Ulm am 15.Okt.1829. Lith. v. Farr. Sehr seltenes Blatt mit vollem Rand.",3689,98.4,False,positional,,,Stadteansichten,,
-BO0624_88142,609319,1100,1697,1698 Belagerung der Stadt. Nach Rugendas. Gest.von Ellenrieder.,3693,100.0,False,positional,RUGENDAS GEORG PHILIPP,,Stadteansichten,,
-BO0624_88142,609320,1101,1699,"Prise d'Ulm. 18. August 1805. Grave par Swebach. "" Untertirkheim a. Neckar. Alter Stich. Feier des Erntefestes in Ulm am 5.Aug. 18i7. Kol. Stich.",3701,58.2,False,positional,,,Stadteansichten,,
+BO0624_88142,609315,1096,1691,Musikfest am 25. Juli 1836. Lith.v.Pobuda. ”,3673,94.0,False,positional,,,Stadteansichten,,Sec. XIX
+BO0624_88142,609316,1097,1692,Das Fischerstechen auf der Donau 25. Juli 1836.,3675,94.7,False,positional,,,Stadteansichten,,Sec. XIX
+BO0624_88142,609317,1098,1693,"Uim, 24 Ulmer Trachten. Am Rande etwas beschnitten. Schifferstechen in Ulm den 25. Juni 1865. "" Ulmisches Reichsstadt-Kostim gegen das Ende des "" 18. Jahrhunderts. In 24 Blattern mit vollem Rand.",3687,68.8,False,positional,,,Stadteansichten,,Sec. XVIII
+BO0624_88142,609318,1099,1696,"Ansicht der feierlichen Grundsteinlegung der Ludwig-"" Wilhemsbricke iber die Donau bei Ulm am 15.Okt.1829. Lith. v. Farr. Sehr seltenes Blatt mit vollem Rand.",3689,98.4,False,positional,,,Stadteansichten,,Sec. XIX
+BO0624_88142,609319,1100,1697,1698 Belagerung der Stadt. Nach Rugendas. Gest.von Ellenrieder.,3693,100.0,False,positional,RUGENDAS GEORG PHILIPP,,Stadteansichten,,Sec. XVII
+BO0624_88142,609320,1101,1699,"Prise d'Ulm. 18. August 1805. Grave par Swebach. "" Untertirkheim a. Neckar. Alter Stich. Feier des Erntefestes in Ulm am 5.Aug. 18i7. Kol. Stich.",3701,58.2,False,positional,,,Stadteansichten,,Sec. XIX
 BO0624_88142,609321,1102,1702,Aussicht in das Neckartal bei Untertirkheim. Kol. Stich mit vollem Rand. Sehr selten.,3703,97.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609322,1103,1703,"Aussicht in das Neckartal von der Hohe des Stammschlosses Wurttemberg herab.Kol. Stich mit vollem Rand. Sehr selten! Stammhaus der Truchsesen von Waldburg. Seiner Durchlaucht dem Fursten Joseph von Waldburg Wolfegg und Waldsee als Stammaltesten gewidmet Butziger. Filseck. Stahistich, sehr selten.",3706,66.2,False,positional,,,Stadteansichten,,
 BO0624_88142,609323,1104,1706,Waldenburg.Kol. Stich v. Ebner. Waldshut. Holzschnitt v. S. Minster. Stich v. Merian.,3712,58.4,False,positional,,,Stadteansichten,,
 BO0624_88142,609324,1105,1709,Waldsee. Kol. Stich v. Ebner. Weikersheim.Von der Westseite.Lith.v. Emminger. Wangen i. Allg. Kol. Stich v.Ebner.,3718,60.1,False,positional,,,Stadteansichten,,
 BO0624_88142,609325,1106,1712,Dasselbe. Beschnitten.,3722,88.9,False,positional,,,Stadteansichten,,
 BO0624_88142,609326,1107,1713,Weikersheim.,3732,81.5,False,positional,,,Stadteansichten,,
-BO0624_88142,609327,1108,1714,1715 Das Schloss in Weil. Kol. Stich v. Ebner.,3736,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609327,1108,1714,1715 Das Schloss in Weil. Kol. Stich v. Ebner.,3736,100.0,False,positional,,,Stadteansichten,,Sec. XVIII
 BO0624_88142,609328,1109,1716,"Weil. Kol. Stich v. Ebner. 3Feierliche Prozession,welche alle Jahre je am Freitag nach Christi Himmelfahrth mit dem Heilig Blut Christi zu Altdorf-Weingarten gehalten wird. Kol. Lith. v. Bayer. Weingarten.Kol. Stich v. Ebner.",3742,86.1,False,positional,,,Stadteansichten,,
 BO0624_88142,609329,1110,1719,"Weinsberg. Kol. Lith. v. Payne. Lith. v. Emminger. "" mit Weibertreu.Kol. Stich v. Lacey.",3749,58.9,False,positional,,,Stadteansichten,,
 BO0624_88142,609330,1111,1722,Wiesensteig. Kol. Stich v. Ebner. Wildbad. Lith. v. Pobuda. Bad- und Promenade in Wildbad Kol. Stich v. Thumling.,3755,64.5,False,positional,,,Stadteansichten,,
 BO0624_88142,609331,1112,1725,"Gesamtansicht mit 10 Nebenansichten. Kol. Lith. "" Hotel Klumpp in Wildbad. 39 Lith.v. Emminger. """"",3757,64.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609332,1113,1728,Kurhaus und Badgebaude in Wildbad. Lith. v.Kistner. Mit reicher Staffage. Gesamtansicht.Lith. Gesamtansicht im Vordergrunde 4 Figuren und Hund. Kol. Stich.Sehr selten.,3767,60.7,False,positional,,,Stadteansichten,,
-BO0624_88142,609333,1114,1731,Winnenden.Kol. Stich v. Ebner. Stammschloss Wirttemberg 1567 und Herzog Christoph. Kol. Lith.v.Renz. dito.,3775,78.8,False,positional,,,Stadteansichten,,
+BO0624_88142,609333,1114,1731,Winnenden.Kol. Stich v. Ebner. Stammschloss Wirttemberg 1567 und Herzog Christoph. Kol. Lith.v.Renz. dito.,3775,78.8,False,positional,,,Stadteansichten,,Sec. XVI
 BO0624_88142,609334,1115,1734,Wurzach.Kol. Lith.v..Ebner. Deinach und die Burg Zavelstein. Lith v. Scheuffele. Zavelstein.,3781,71.9,False,positional,,,Stadteansichten,,
 BO0624_88142,609335,1116,1737,Schitzenfest in einem schwabischen Stadtchen. Zeichnung.,3785,95.6,False,title_direct,,,Zeichnungen,,
-BO0624_88142,609336,1117,1738,Karte von Schwaben a.d.J. 1743.,3787,92.1,False,positional,,,Stadteansichten,,
-BO0624_88142,609337,1118,1739,Ducatus Wirttembergici. Karte mit wirtt. Wappen und Ansichten von Stuttgart und Tubingen sowie dem Portrat Eberhard Ludwigs. 1740. 2 Teile. Ausstellungsplakat der Ausstellung 1896. Karte von Schwaben aus d. J. 1743. 1741,3788,76.6,False,positional,,,Stadteansichten,,
+BO0624_88142,609336,1117,1738,Karte von Schwaben a.d.J. 1743.,3787,92.1,False,positional,,,Stadteansichten,,Sec. XVIII
+BO0624_88142,609337,1118,1739,Ducatus Wirttembergici. Karte mit wirtt. Wappen und Ansichten von Stuttgart und Tubingen sowie dem Portrat Eberhard Ludwigs. 1740. 2 Teile. Ausstellungsplakat der Ausstellung 1896. Karte von Schwaben aus d. J. 1743. 1741,3788,76.6,False,positional,,,Stadteansichten,,Sec. XVIII
 BO0624_88142,609338,1119,1743,Furstl. Lustgarten zu Stuttgart. Ueberaus seltener Stich von Merian. Siehe Abbildung auf dem Umschlag.,3798,97.5,False,positional,,,Stadteansichten,,
 BO0624_88142,609339,1120,1744,Wahre Contrafactur des Saahls in dem Furstl. wirtt. Lust-,3802,95.6,False,positional,,,Stadteansichten,,
 BO0624_88142,609340,1121,1745,Hauptansicht des Konigl. Residenzschlosses zu Stuttgart.,3804,95.6,False,positional,,,Stadteansichten,,
@@ -1128,46 +1128,46 @@ BO0624_88142,609345,1126,1750,Das alte Schloss in Stuttgart. Kol. Stich v. Emden
 BO0624_88142,609346,1127,1751,Der Schlossplatz zu Stuttgart mit seinen neuen Anlagen. Sr. Maj. dem Konig Wilhelm I. gewidmet. Lith. v. Kistner.,3822,97.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609347,1128,1752,Der Stuttgarter Perdemarkt am alten Schloss. Kol. Lith. von,3826,95.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609348,1129,1753,Erinnerung an Stuttgart. Lith. v. Emminger. Gesamtansicht mit 18 Seitenansichten.,3828,96.8,False,positional,,,Stadteansichten,,
-BO0624_88142,609349,1130,1755,"1754 Stuttgart, Gesamtansicht. Kol. Lith. v. Emminger.",3832,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609349,1130,1755,"1754 Stuttgart, Gesamtansicht. Kol. Lith. v. Emminger.",3832,100.0,False,positional,,,Stadteansichten,,Sec. XVIII
 BO0624_88142,609350,1131,1756,Plan von Stuttgart. Von Merian.,3834,92.1,False,title_direct,,,Plane von Stuttgart,,
 BO0624_88142,609351,1132,1757,Erinnerung an Stuttgart. Farbige Lith. v. Schacher. Gesamt-,3838,95.6,False,positional,,,Stadteansichten,,
 BO0624_88142,609352,1133,1758,"ansicht mit 12 Nebenansichten. Stutgard, Gesamtansicht. Gest. v. Wolffy.",3848,71.0,False,positional,,,Stadteansichten,,
-BO0624_88142,609353,1134,1759,"1761 Stuttgart,Die hochtirstl. annehml. Haupt- und Residenzstadt des Herzogtums Wirtenberg.Plan mit Gesamtansicht v.Seutter.Gerahmt.",3852,100.0,False,positional,,,Stadteansichten,,
+BO0624_88142,609353,1134,1759,"1761 Stuttgart,Die hochtirstl. annehml. Haupt- und Residenzstadt des Herzogtums Wirtenberg.Plan mit Gesamtansicht v.Seutter.Gerahmt.",3852,100.0,False,positional,,,Stadteansichten,,Sec. XVIII
 BO0624_88142,609354,1135,1762,Gesamtansicht von Stuttgart. Alter Stich m.Aufschrift: Juste,3856,95.9,False,positional,,,Stadteansichten,,
-BO0624_88142,609355,1136,1763,Ansicht von Stuttgart im Jahre 1592. Autographiert v. Max,3858,95.7,False,positional,,,Stadteansichten,,
+BO0624_88142,609355,1136,1763,Ansicht von Stuttgart im Jahre 1592. Autographiert v. Max,3858,95.7,False,positional,,,Stadteansichten,,Sec. XVI
 BO0624_88142,609356,1137,1764,Der Marktplatz von Stuttgart. Kol. Stich v.Gerstner.,3862,95.1,False,positional,,,Stadteansichten,,
-BO0624_88142,609357,1138,1765,Der Marktplatz in Stuttgart. Am Tage des 4ten Sakularfestes der Buchdruckerkunst 24.Juni 1840. Lith. von Kistner. Der Schiessrain zu Stuttgart. Stich. 7 Briefkopfe von Stuttgart.,3863,76.5,False,title_direct,,,Plane von Stuttgart,,
+BO0624_88142,609357,1138,1765,Der Marktplatz in Stuttgart. Am Tage des 4ten Sakularfestes der Buchdruckerkunst 24.Juni 1840. Lith. von Kistner. Der Schiessrain zu Stuttgart. Stich. 7 Briefkopfe von Stuttgart.,3863,76.5,False,title_direct,,,Plane von Stuttgart,,Sec. XIX
 BO0624_88142,609358,1139,1768,Die Freimaurerloge in der Augustenstrasse. Im Hintergrund die Silberburg. Die Silberburg mit Aussicht auf Stuttgart. Kol. Lith. Das Kunstgebaude. Nach der Natur gez.,3869,60.7,False,positional,,,Stadteansichten,,
 BO0624_88142,609359,1140,1771,Der See zu Stuttgart. Alter Stich.,3875,92.8,False,positional,,,Stadteansichten,,
 BO0624_88142,609360,1141,1772,Aussicht auf der Strasse von Cannstatt nach Stuttgart gegen,3881,95.9,False,positional,,,Stadteansichten,,
-BO0624_88142,609361,1142,1773,"Das sogenannte Beguinenhaus, friher Gaisstr. 22, Parterreflur 1581 nach einem Brand wieder erbaut. Kohlendruck.Vorziiglich. Rosenstein. Kol. Stich v. Ebner. Das Konigl. Hoftheater in Cannstatt. Farbiger Stich v.Abresch.",3883,71.5,False,positional,,,Stadteansichten,,
+BO0624_88142,609361,1142,1773,"Das sogenannte Beguinenhaus, friher Gaisstr. 22, Parterreflur 1581 nach einem Brand wieder erbaut. Kohlendruck.Vorziiglich. Rosenstein. Kol. Stich v. Ebner. Das Konigl. Hoftheater in Cannstatt. Farbiger Stich v.Abresch.",3883,71.5,False,positional,,,Stadteansichten,,Sec. XVI
 BO0624_88142,609362,1143,1776,Das Jagdschlosschen am Barensee. Kol. Stich v. Ebner.,3889,95.1,False,positional,,,Stadteansichten,,
 BO0624_88142,609363,1144,1777,"Blick vom Hasenberg auf Stuttgart, Degerloch und Kalten-",3893,95.6,False,positional,,,Stadteansichten,,
 BO0624_88142,609364,1145,1778,Solitude. Das Konigl. Landhaus Rosenstein. Lith.v.Emminger. Kol. Lith.v. Muhlecker.,3899,74.0,False,positional,,,Stadteansichten,,
 BO0624_88142,609365,1146,1781,Erinnerung an die Jubilaumsfeier Sr. Maj. des Konigs Wilhelm,3903,95.9,False,positional,,,Stadteansichten,,
-BO0624_88142,609366,1147,1782,Festzug des 5 ten deutschen Bundesschiessens zu Stuttgart. 1875.Kol. Lith. v. Loffler. Aquarelbild von Stuttgart v. Federer. Grosse 255/116 cm. brief.,3905,71.4,False,positional,,,Stadteansichten,,
-BO0624_88142,609367,1148,1785,Stuttgart mit dero Gegend auf 2 Stund.Aus dem Jahr 1724 etc.,3917,95.9,False,positional,,,Plane von Stuttgart,,
-BO0624_88142,609368,1149,1787,1786 Plan von Stuttgart aus dem Jahr 1812.,3921,100.0,False,title_direct,,,Plane von Stuttgart,,
-BO0624_88142,609369,1150,1788,""" aus dem Jahre 1841.",3923,87.8,False,positional,,,Plane von Stuttgart,,
+BO0624_88142,609366,1147,1782,Festzug des 5 ten deutschen Bundesschiessens zu Stuttgart. 1875.Kol. Lith. v. Loffler. Aquarelbild von Stuttgart v. Federer. Grosse 255/116 cm. brief.,3905,71.4,False,positional,,,Stadteansichten,,Sec. XIX
+BO0624_88142,609367,1148,1785,Stuttgart mit dero Gegend auf 2 Stund.Aus dem Jahr 1724 etc.,3917,95.9,False,positional,,,Plane von Stuttgart,,Sec. XVIII
+BO0624_88142,609368,1149,1787,1786 Plan von Stuttgart aus dem Jahr 1812.,3921,100.0,False,title_direct,,,Plane von Stuttgart,,Sec. XVIII
+BO0624_88142,609369,1150,1788,""" aus dem Jahre 1841.",3923,87.8,False,positional,,,Plane von Stuttgart,,Sec. XIX
 BO0624_88142,609370,1151,1790,Grundriss der herzogl. wirtt. Haupt- und Residenzstadt,3929,95.3,False,positional,,,Plane von Stuttgart,,
 BO0624_88142,609371,1152,1791,Grundriss der herzogl. wirtt. Haupt- und ersten Residenzstadt Stuttgart. Grave par Balleis. Mit Gesamtansicht und 2 Wappen. In altem Rahmen.,3933,98.2,False,positional,,,CORNICI,,
 BO0624_88142,609372,1153,1792,Plan der ersten Kgl. Haupt- u. Residenzstadt Stuttgart. Im,3937,95.6,False,positional,,,Plane von Stuttgart,,
-BO0624_88142,609373,1154,1793,Grundriss von Stuttgart 1827. Plan von Stuttgart von Bodenehr. Gesamtansicht von Stuttgart. Plan von Merian.,3943,60.5,False,title_direct,,,Plane von Stuttgart,,
-BO0624_88142,609374,1155,1796,"Stuttgart, Plan aus dem Jahre 1846/71. Von Bohnert. Zistercienserabtei Maulbronn v. Paulus. und seine Umgebung. "" Relief v. Villforth.",3946,55.8,False,title_direct,Paul,,,,
+BO0624_88142,609373,1154,1793,Grundriss von Stuttgart 1827. Plan von Stuttgart von Bodenehr. Gesamtansicht von Stuttgart. Plan von Merian.,3943,60.5,False,title_direct,,,Plane von Stuttgart,,Sec. XIX
+BO0624_88142,609374,1155,1796,"Stuttgart, Plan aus dem Jahre 1846/71. Von Bohnert. Zistercienserabtei Maulbronn v. Paulus. und seine Umgebung. "" Relief v. Villforth.",3946,55.8,False,title_direct,Paul,,,,Sec. XIX
 BO0624_88142,609375,1156,1799,"1799a Graphisch-archaologische Vergleichung des Grafen Wilhelm Jahreshefte des wirtt. Altertumsvereins; ausserdem Heft 5, 6, 7 und 9 doppelt.",3958,70.8,False,positional,,,Plane von Stuttgart,,
-BO0624_88142,609376,1157,1800,2 Soldatenbilder aus den Jahren 1813/14/15. Gerahmt.,3962,95.2,False,positional,,,Plane von Stuttgart,,
+BO0624_88142,609376,1157,1800,2 Soldatenbilder aus den Jahren 1813/14/15. Gerahmt.,3962,95.2,False,positional,,,Plane von Stuttgart,,Sec. XIX
 BO0624_88142,609377,1158,1801,## von,3970,100.0,False,positional,Professor C.v. Haberlin,Scuola di Moritz von Schwind,,,
 BO0624_88142,609378,1159,1802,Lagerleben; wurfelnde Landsknechte mit Feldschlange.,3976,95.2,False,positional,Professor C.v. Haberlin,,,,
-BO0624_88142,609379,1160,1804,1803 Kopf eines verwundeten Kriegers. zeichnung.,3980,100.0,False,positional,Professor C.v. Haberlin,,,,
+BO0624_88142,609379,1160,1804,1803 Kopf eines verwundeten Kriegers. zeichnung.,3980,100.0,False,positional,Professor C.v. Haberlin,,,,Sec. XIX
 BO0624_88142,609380,1161,1805,Eintritt in die Burg. Kohlen- u. Kreidezeichnung. Vorzuglich.,3984,100.0,False,positional,Professor C.v. Haberlin,,,,
 BO0624_88142,609381,1162,1806,Holofernes. Kohlenzeichnung.,3988,100.0,False,positional,Professor C.v. Haberlin,,,,
 BO0624_88142,609382,1163,1807,Ritterschlag. Bleistiftzeichnung. Hervorragend schon.,3990,95.2,False,positional,Professor C.v. Haberlin,,,,
 BO0624_88142,609383,1164,1808,Schloss Hornegg bei Gundelsheim. Zeichnung. Furstenportrat. Bleistiftzeichnung.Vorzuglich. Interieur in Ueberlingen. Bleistiftzeichnung.,3996,50.3,False,positional,Professor C.v. Haberlin,,ARREDAMENTI,,
-BO0624_88142,609384,1165,1811,Kriegsszene von 1870. Bleistiftzeichnung. Sestri Levante. Aquarell. Ueberfall des General Roye. Bleistiftzeichnung.,4006,58.4,False,title_direct,,,Aquarelle,,
+BO0624_88142,609384,1165,1811,Kriegsszene von 1870. Bleistiftzeichnung. Sestri Levante. Aquarell. Ueberfall des General Roye. Bleistiftzeichnung.,4006,58.4,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_88142,609385,1166,1814,Ausfahrende Fischer in Noli.Aquarell. Fischerhutte mit Kahnen in Savona Aquarell. Sehr schon. Am Strande in Noli. Aquarell.,4010,61.4,False,title_direct,,,Aquarelle,,
 BO0624_88142,609386,1167,1817,Conzertsangerin in einem beleuchteten Saale. Oelskizze.,4014,95.5,False,positional,Professor C.v. Haberlin,,,,
 BO0624_88142,609387,1168,1818,Besuch vom Lande.Oel.,4016,88.9,False,positional,Professor C.v. Haberlin,,,,
-BO0624_88142,609388,1169,1819,1820 Hofstudie.Oel.,4020,100.0,False,positional,Professor C.v. Haberlin,,,,
+BO0624_88142,609388,1169,1819,1820 Hofstudie.Oel.,4020,100.0,False,positional,Professor C.v. Haberlin,,,,Sec. XIX
 BO0624_88142,609389,1170,1821,Treppe.Oel. Ruine mit abbrockelnden Steinen und Mauergewachsen. Oel. Frau in Betrachtung. Vom Licht beschienen. Oel.,4026,65.1,False,positional,Professor C.v. Haberlin,,,,
 BO0624_88142,609390,1171,1824,Vesuv bei Nacht am Golf von Neapel. Oel. Partie bei Neckarels. Oel. Sehr schon.,4030,65.0,False,positional,Professor C.v. Haberlin,,,,
 BO0624_88142,609391,1172,1825,Ausziehende Fischer im Hafen von Goletta. Oel.,4034,94.6,False,positional,Professor C.v. Haberlin,,,,
@@ -1176,49 +1176,49 @@ BO0624_88142,609393,1174,1829,Nachbarskinder. Oel. Verwundeter Krieger.,4040,64.
 BO0624_88142,609394,1175,1830,Malschule bei Rustige. Oel.,4044,90.9,False,positional,Professor C.v. Haberlin,,,,
 BO0624_88142,609395,1176,1831,Interieur. Oel.,4046,83.9,False,positional,Professor C.v. Haberlin,,ARREDAMENTI,,
 BO0624_88142,609396,1177,1832,Winterlandschaft.Oel. Feldgeistlicher predigend. Oel. Abendlandschaft.Oel.,4049,57.7,False,positional,Professor C.v. Haberlin,,,,
-BO0624_88142,609397,1178,1835,1836,4055,100.0,False,positional,Professor C.v. Haberlin,,,,
+BO0624_88142,609397,1178,1835,1836,4055,100.0,False,positional,Professor C.v. Haberlin,,,,Sec. XIX
 BO0624_88142,609398,1179,1837,Flusslandschaft. Oel. Skizze zu einer Gerichtssitzung. Oel. Seestick bei Capri.,4065,63.2,False,positional,Professor C.v. Haberlin,,,,
 BO0624_88142,609399,1180,1840,Gebirgslandschaft mit untergehender Sonne. Oel.,4069,94.7,False,positional,Professor C.v. Haberlin,,,,
 BO0624_88142,609400,1181,1841,Hohlenbewohner.Oel.,4071,87.8,False,positional,Professor C.v. Haberlin,,,,
-BO0624_88142,609401,1182,1842,1843 Episode aus dem schleswig-holsteinischen Krieg. Grosse Zeichnung.,4075,100.0,False,title_direct,,,Zeichnungen,,
-BO0624_88142,609402,1183,1844,1845 Studienkopf einer Baurin.,4085,100.0,False,positional,Paul; Th. Widmayer,,,,
+BO0624_88142,609401,1182,1842,1843 Episode aus dem schleswig-holsteinischen Krieg. Grosse Zeichnung.,4075,100.0,False,title_direct,,,Zeichnungen,,Sec. XIX
+BO0624_88142,609402,1183,1844,1845 Studienkopf einer Baurin.,4085,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XIX
 BO0624_88142,609403,1184,1846,Scbmied am Feuer. Chinesisches Segelschiff in voller Fahrt. Aussicht vom Uhlberg auf Achalm und die Alb. Aquarell.,4093,63.5,False,title_direct,,,Aquarelle,,
 BO0624_88142,609404,1185,1849,Bauernhaus mit Stall. Lesendes Bauernmadchen. Fahrende Leute.,4097,54.1,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609405,1186,1852,Apostel.,4101,73.7,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609406,1187,1853,Landschaft mit Kirche.,4103,89.4,False,title_direct,,,Landschaften,,
 BO0624_88142,609407,1188,1854,Bopserwald.,4105,80.0,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609408,1189,1855,Bewaldete Hohen.,4107,85.7,False,positional,Paul; Th. Widmayer,,,,
-BO0624_88142,609409,1190,1857,"1856 Bei Birkach, Landschaft mit Baurin und Bauernjunge.",4111,100.0,False,positional,Paul; Th. Widmayer,,,,
+BO0624_88142,609409,1190,1857,"1856 Bei Birkach, Landschaft mit Baurin und Bauernjunge.",4111,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XIX
 BO0624_88142,609410,1191,1858,Gebirgslandschaft bei Hindelang.,4113,92.5,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609411,1192,1859,Dorfkirche bei Hindelang.,4117,90.6,False,positional,Paul; Th. Widmayer,,,,
-BO0624_88142,609412,1193,1861,1860 Landschaftsstudie bei Hindelang.,4121,100.0,False,positional,Paul; Th. Widmayer,,,,
+BO0624_88142,609412,1193,1861,1860 Landschaftsstudie bei Hindelang.,4121,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XIX
 BO0624_88142,609413,1194,1862,Landschaft am Abend.,4123,88.4,False,title_direct,,,Landschaften,,
 BO0624_88142,609414,1195,1863,"Hindelang. Am Bodensee,im Hintergrunde der Hohentwiel.",4131,86.9,False,positional,Paul; Th. Widmayer,,,,
-BO0624_88142,609415,1196,1864,1866 Landschaft mit Ackerfeld.,4135,100.0,False,positional,Paul; Th. Widmayer,,,,
+BO0624_88142,609415,1196,1864,1866 Landschaft mit Ackerfeld.,4135,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XIX
 BO0624_88142,609416,1197,1868,Alte Burg am Neckar. Heranziehendes Gewitter im Hindelanger Tal.,4139,78.9,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609417,1198,1869,Bauernhaus. Am Cannstatter Wehr. Bodenseelandschaft.,4143,54.8,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609418,1199,1872,Bodenseelandschaft.,4145,87.8,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609419,1200,1873,"Gebirgslandschaft mit Gebirgsbach,",4149,93.0,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609420,1201,1874,Landschaftsstudie. Vorder-Hindelang. Findlingsblocke auf der schwab. Alb.,4154,64.8,False,title_direct,,,Landschaften,,
-BO0624_88142,609421,1202,1877,1878,4158,100.0,False,positional,Paul; Th. Widmayer,,,,
+BO0624_88142,609421,1202,1877,1878,4158,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XIX
 BO0624_88142,609422,1203,1879,Neuschnee bei Hindelang.,4162,90.2,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609423,1204,1880,Auf derFeuerbacher Heide. Uhlbergturm mit Blick auf Teck. Landschaft bei Dachau mit fahrendem Zug.,4170,57.6,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609424,1205,1883,Landschaft mit Kornfeldern u. Schnittern. Stehendes Pferd. Studienkopf.,4172,70.3,False,title_direct,,,Landschaften,,
-BO0624_88142,609425,1206,1886,1887 Gebirgslandschaft.,4180,100.0,False,positional,Paul; Th. Widmayer,,,,
+BO0624_88142,609425,1206,1886,1887 Gebirgslandschaft.,4180,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XIX
 BO0624_88142,609426,1207,1888,Hohlweg. Der erste Schritt. Beim Schullehrer.,4186,56.2,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609427,1208,1891,Schiefertafel mit Puppen.Aquarell.,4190,93.0,False,title_direct,,,Aquarelle,,
-BO0624_88142,609428,1209,1892,1893,4194,100.0,False,positional,Paul; Th. Widmayer,,,,
+BO0624_88142,609428,1209,1892,1893,4194,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XIX
 BO0624_88142,609429,1210,1894,Landschaft auf den Fildern.,4198,91.2,False,title_direct,,,Landschaften,,
 BO0624_88142,609430,1211,1895,Gebirgsbach Landschaft bei St.Gallen. Bodenseelandschaft.,4206,59.5,False,positional,Paul; Th. Widmayer,,,,
-BO0624_88142,609431,1212,1898,1899,4212,100.0,False,positional,Paul; Th. Widmayer,,,,
+BO0624_88142,609431,1212,1898,1899,4212,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XIX
 BO0624_88142,609432,1213,1900,Bodenseelandschaft. Landschaft im Allgau. Der Neugierige.,4222,53.2,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609433,1214,1903,Interieur. Bewegte See mit Schiff u. Sennhutte. Madchenkopf.,4228,73.7,False,positional,Paul; Th. Widmayer,,ARREDAMENTI,,
 BO0624_88142,609434,1215,1906,Stadtbasen.Sehr nett. Landschaft mit Spaziergangern. Nahende Frau.,4234,61.9,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609435,1216,1909,Stilleben.,4238,78.3,False,positional,Paul; Th. Widmayer,,,,
-BO0624_88142,609436,1217,1911,1910 Alte Frau mit Haube.,4242,100.0,False,positional,Paul; Th. Widmayer,,,,
+BO0624_88142,609436,1217,1911,1910 Alte Frau mit Haube.,4242,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XX
 BO0624_88142,609437,1218,1912,Kochin.,4244,70.6,False,positional,Paul; Th. Widmayer,,,,
-BO0624_88142,609438,1219,1914,1913,4248,100.0,False,positional,Paul; Th. Widmayer,,,,
-BO0624_88142,609439,1220,1916,1915 Landschaft mit Baum.,4258,100.0,False,positional,Paul; Th. Widmayer,,,,
+BO0624_88142,609438,1219,1914,1913,4248,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XX
+BO0624_88142,609439,1220,1916,1915 Landschaft mit Baum.,4258,100.0,False,positional,Paul; Th. Widmayer,,,,Sec. XX
 BO0624_88142,609440,1221,1917,Bauernkinder mit Hasen. Das schlechte Zeugnis. Das zerbrochene Glas.,4264,48.8,False,positional,Paul; Th. Widmayer,,,,
 BO0624_88142,609441,1222,1920,Kucheninterieur.,4268,85.7,False,positional,Paul; Th. Widmayer,,OGGETTI VARI,,
 BO0624_88142,609442,1223,1921,"Bodenseelandschaft. Blumenstilleben,Alpenveilchen. Hofstudie.",4274,65.2,False,positional,Paul; Th. Widmayer,,OGGETTI VARI,,
@@ -1349,14 +1349,14 @@ BO0624_88142,609566,1347,2153,im Hintergrunde Dorf mit Dorfkirche. ” ”,4809,
 BO0624_88142,609567,1348,2154,mit Feldkreuz. ” ”,4811,83.9,False,positional,,,Gerahmte Gemalde; Aquarelle,,
 BO0624_88142,609568,1349,2155,Moorlandschaft.,4813,84.8,False,positional,,,Gerahmte Gemalde; Aquarelle,,
 BO0624_88142,609569,1350,2156,Schlider. Mannl. Kopf.,4815,88.4,False,positional,,,Gerahmte Gemalde; Aquarelle,,
-BO0624_88142,609570,1351,2157,"Dirr,Historienmaler,Ueberlingen.2 Ansichten von Mark- dorf,im Vordergrunde viele Reiter. 1799.",4817,97.3,False,positional,,,Gerahmte Gemalde; Aquarelle,,
+BO0624_88142,609570,1351,2157,"Dirr,Historienmaler,Ueberlingen.2 Ansichten von Mark- dorf,im Vordergrunde viele Reiter. 1799.",4817,97.3,False,positional,,,Gerahmte Gemalde; Aquarelle,,Sec. XVIII
 BO0624_88142,609571,1352,2158,Unbekannt. Blumenmadchen.Farbige Gravure.,4819,94.0,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88142,609572,1353,2159,Unbekannt.Fruchteverkauferin.Farbige Gravure.,4821,94.6,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88142,609573,1354,2160,"2 alte Stiche, gerahmt. Seeschlacht von Toulon u.Radetzky mit seiner Umgebung m.Erklarungsblatt.",4823,97.4,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88142,609574,1355,2161,"- 1 Rolle mit 2 alten Gemalden, Schiffe darstellend. a Ludw.Pfeifenkopf mit farbigen Blumen und silbernem Deckel. Sehr selten.",4832,73.8,False,positional,,,Gerahmte Gemalde; Aquarelle,,
 BO0624_88142,609575,1356,2162,"Porzellan-Dose mit Deckel, farbiger Malerei und Reliefrand. Porzellankorbchen, durchbrochen,mit farb. Blumen. dito.",4833,66.7,False,positional,,,SCATOLE,,
-BO0624_88142,609576,1357,2165,"Miniature Madchen in Biedermeiertrachtvon A.Wagner 1830. dito. Madchenkopf von Milz. """,4836,78.0,False,title_direct,,,Miniaturen,,
-BO0624_88142,609577,1358,2168,"Miniature Madchenkopf. Maria von Valois,Herzogin von Burgund  1482. Stich. "" Friedrich der Grosse.",4840,68.1,False,title_direct,,,Miniaturen,,
+BO0624_88142,609576,1357,2165,"Miniature Madchen in Biedermeiertrachtvon A.Wagner 1830. dito. Madchenkopf von Milz. """,4836,78.0,False,title_direct,,,Miniaturen,,Sec. XIX
+BO0624_88142,609577,1358,2168,"Miniature Madchenkopf. Maria von Valois,Herzogin von Burgund  1482. Stich. "" Friedrich der Grosse.",4840,68.1,False,title_direct,,,Miniaturen,,Sec. XV
 BO0624_88142,609578,1359,2171,Jakob Hess. Turicensis Schabkunstblatt von Haid.,4842,94.8,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88142,609579,1360,2172,- Lazarus ab Imhoff.Stich.,4844,100.0,False,positional,,,Gerahmte Gemalde; Aquarelle,,
 BO0624_88142,609580,1361,2173,"Maria, Helena, Sabina ab Imhoff in Merlach. Convolute von 7 Costumbildern. Farbige Lithographien. The Nativity. Stich von Hurd. Gerahmt.",4846,56.5,False,positional,,,STAMPE E INCISIONI,,

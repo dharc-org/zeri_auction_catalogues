@@ -35,7 +35,7 @@ BO0624_88216,178509,33,39,- 40,152,100.0,False,positional,Otto Cornill,,,,
 BO0624_88216,178510,34,41,- 42,154,100.0,False,positional,Otto Cornill,,,,
 BO0624_88216,178511,35,54,In der LoBnitz.,156,90.3,False,positional,Otto Cornill,,,,
 BO0624_88216,178512,36,43,Portrait einer Dame. Pastell 75/57. Bezeichnet.,160,96.7,False,positional,Corway,,,,
-BO0624_88216,178513,37,44,Segelschiffe. Bez.: Paul Dahlen Segler 1911. Orig. Holzsch. Kl. 40.,164,97.5,False,title_direct,Paul Dahlen,,,,
+BO0624_88216,178513,37,44,Segelschiffe. Bez.: Paul Dahlen Segler 1911. Orig. Holzsch. Kl. 40.,164,97.5,False,title_direct,Paul Dahlen,,,,Sec. XX
 BO0624_88216,178514,38,45,Sternblumen. Bez.:Sternblumen Paul Dahlen O8. Desgl.,165,97.0,False,title_direct,Paul Dahlen,,,,
 BO0624_88216,178515,39,46,Steinigung des Harpagus. Leinw. 32/45. Bezeichnet. Wasserfall in Tyrol. Pend. z. Vor. Beide bezeichnet. Gebirgswasserfall in Steyermark. Leinw. 103/74.,173,51.9,False,positional,J. Donner,,,,
 BO0624_88216,178516,40,49,Italienerin.Leinw. 77/64.Bezeichnet.,178,95.8,False,positional,F.Duswald,,,,
@@ -136,7 +136,7 @@ BO0624_88216,178610,134,156,Desgl.Pend. z. Vor. Beide bezeichnet.,502,94.3,False
 BO0624_88216,178611,135,157,Winterlandschaft bei untergehender Sonne. Holz 18/28. Monogrammiert. 163 Desgl. Pend. z. Vor. Beide bezeichnet.,506,75.6,False,positional,Ludwig Munthe,,OGGETTI IN LEGNO,,
 BO0624_88216,178612,136,158,Herrenportrait. Kniestick.Leinw. 100/70. Bezeichnet.,513,96.0,False,positional,Jakob NuBbaum,,,,
 BO0624_88216,178613,137,159,"Trinkende Bauern. Holz 24/33,5.",517,93.5,False,positional,Adr. van Ostade,,OGGETTI IN LEGNO,,
-BO0624_88216,178614,138,160,"Portrait einer jungen Dame des 18. Jahrh. Copie Leinw. ov. 75,5/63.",521,96.9,False,positional,P. Paede,,,,
+BO0624_88216,178614,138,160,"Portrait einer jungen Dame des 18. Jahrh. Copie Leinw. ov. 75,5/63.",521,96.9,False,positional,P. Paede,,,,Sec. XVIII
 BO0624_88216,178615,139,161,Italienischer Bauer. Oelstudie. Leinw. 37/29. Bezeichnet.,525,96.3,False,positional,L.Passini,,,,
 BO0624_88216,178616,140,164,Mannerkopf. Pastell 42/32. Bezeichnet.,533,94.6,False,positional,Alois Penz,,,,
 BO0624_88216,178617,141,165,"Partie aus Rothenburg o. d. T. Aquarell 36/32,5.",537,95.7,False,title_direct,,,Aquarelle,,
@@ -147,8 +147,8 @@ BO0624_88216,178621,145,170,"Schlacht von Jena nach Martinet. Pend. z. Vor. n.Ha
 BO0624_88216,178622,146,173,"n. Lefler ,Das Gefihl."" Desgl.74/37. n. Hildebrandt ,Die Pyramiden bei Sonnenuntergang.""Farbdr.21/40. n.Thomas Ireland ,Still Waters"".",557,66.7,False,title_direct,G.Thomas,,,,
 BO0624_88216,178623,147,176,"Blumensuchendes Madchen. Heliogr.22/17. Grafin Potocka n. Stich v.Rob. Reyher. Desgl. 40/30. n.Boecklin ,Abenteurer."" Desgl. 38,5/50,5.",565,57.5,False,positional,,,Reproduktionen,,
 BO0624_88216,178624,148,179,"Eleonore Duse nach einer Radierung. n.Waiser ,Erntefest.""Farbdr.22/36,5,",573,64.8,False,positional,,,Reproduktionen,,
-BO0624_88216,178625,149,180,"n.Eug. Bracht Gestade der Vergessenheit.""Desgl. 37/70,",577,96.2,False,positional,,,Reproduktionen,,
-BO0624_88216,178626,150,191,"## Sir Joshua Reynolds, 1723-1792,London.",580,100.0,False,title_direct,Sir Joshua Reynolds,,,,
+BO0624_88216,178625,149,180,"n.Eug. Bracht Gestade der Vergessenheit.""Desgl. 37/70,",577,96.2,False,positional,BRACHT EUGEN,,Reproduktionen,,
+BO0624_88216,178626,150,191,"## Sir Joshua Reynolds, 1723-1792,London.",580,100.0,False,title_direct,Sir Joshua Reynolds,,,,Sec. XVIII
 BO0624_88216,178627,151,182,Portrait einer jungen Dame. Pastell ov.80/68. Ansprechendes Portrait.,582,97.1,False,positional,Sir Joshua Reynolds,,,,
 BO0624_88216,178628,152,183,Landschaft. Leinw.48/72. Bezeichnet.,586,94.3,False,positional,Aug. von Ruidt,,,,
 BO0624_88216,178629,153,184,Landschaft mit Bauernhausern.Holz 24/34.,590,95.1,False,positional,J. van Ruisdael,,OGGETTI IN LEGNO,,
@@ -309,7 +309,7 @@ BO0624_88216,178783,307,388,Brosche. Gold mit Brillant.,982,92.6,False,positiona
 BO0624_88216,178784,308,389,Armband. Gold mit Opal.,983,91.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,178785,309,390,Collier und Medaillon. Gold mit Brill. und Rosen.,984,95.8,False,positional,BRIL PAUL,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,178786,310,391,Herrenremontoiruhr. Gold.,985,92.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88216,178787,311,392,- Medaille des Nied.-Oesterr. Gewerbevereins 1864. Silber.,987,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88216,178787,311,392,- Medaille des Nied.-Oesterr. Gewerbevereins 1864. Silber.,987,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_88216,178788,312,393,Austria.Silber.,989,87.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,178789,313,394,"- Desgl. Deutscher Phonix, Frankfurt a. M., zur Feier des 50jahr.",991,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,178790,314,395,"Becher, Silber getrieben.",993,92.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -341,9 +341,9 @@ BO0624_88216,178815,339,428,- 429 Zwei kl. Fayence-Cachepots. Bez.:H 39.,1047,10
 BO0624_88216,178816,340,431,"431. Zwei Elfenbein-Reliefs. Fliegende Amoretten 16,5/11.",1049,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,178817,341,432,"Zwei Kugeln durchbrochen. Holz. RauchergefaB. Bronze. China. Kastchen in Metall, Holz und Elfenbein eingelegt. H. 9. 19/13.",1053,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,178818,342,435,- Vier Armringe. Bronze. Orientalisch.,1055,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88216,178819,343,436,- 437 Kommunionbuch mit Silberbeschlag. 1834.,1057,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88216,178819,343,436,- 437 Kommunionbuch mit Silberbeschlag. 1834.,1057,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_88216,178820,344,438,Gebetbuch mit Silberbeschlag und Perlenstickerei.,1059,96.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88216,178821,345,440,"- 439 Heilige Schrift mit Pergamenteinband,farbig. 1740.",1061,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88216,178821,345,440,"- 439 Heilige Schrift mit Pergamenteinband,farbig. 1740.",1061,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88216,178822,346,441,Donatorenschild mit Silberbeschlag und Minzen. Rokoko.64/45.,1062,96.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,178823,347,442,- Desgl. Pend. z. Vor.,1065,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,178824,348,443,Partie diverse Orden und Ehrenzeichen.,1066,94.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -536,8 +536,8 @@ BO0624_88216,179010,534,690,Detektiv-Romane. 10 Bde.,1474,91.7,False,positional,
 BO0624_88216,179011,535,691,Reklam-Hefte.26 Hefte.,1475,91.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,179012,536,692,Die Jugend. 67 Hefte.,1476,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,179013,537,693,Illustrierte Auktions-Kataloge. 32 Stick.,1477,95.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88216,179014,538,694,"Frankfurter AdreBbuch 1912. Grandville J. J.: Les fleurs animees, mit vielen color. Stichen. Beilagen.",1480,76.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88216,179015,539,697,Sebastiani Minsteri 1628. Buch der Cosmographey.,1483,95.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88216,179014,538,694,"Frankfurter AdreBbuch 1912. Grandville J. J.: Les fleurs animees, mit vielen color. Stichen. Beilagen.",1480,76.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XX
+BO0624_88216,179015,539,697,Sebastiani Minsteri 1628. Buch der Cosmographey.,1483,95.8,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVII
 BO0624_88216,179016,540,699,699,1485,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,179017,541,700,Convolut: Diverse Schriftstuicke.,1488,93.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88216,179018,542,701,- Frauenkopf. Marmor. Griechisch.H.9.,1503,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -682,7 +682,7 @@ BO0624_88216,179156,680,886,"Junge Frau halt die Statuette eines ,shishi""(Fabel
 BO0624_88216,179157,681,887,Theaterszene mit zwei Schauspielern. Junge Frau mit Tamburin,1845,96.7,False,positional,Ippitsusai Buncho,,,,
 BO0624_88216,179158,682,888,"JungeFrau im Kimono mit dem ,Obi"", mit Karpfen-Muster.25,5/16,5.",1846,96.8,False,positional,Ippitsusai Buncho,,,,
 BO0624_88216,179159,683,889,9Tanzerin den Notanz tanzend. 29/14.,1847,94.4,False,positional,Ippitsusai Buncho,,,,
-BO0624_88216,179160,684,890,## Keisai Kitao Masayoshi (t 1824).,1850,100.0,False,title_direct,Keisai Kitao Masayoshi,,,,
+BO0624_88216,179160,684,890,## Keisai Kitao Masayoshi (t 1824).,1850,100.0,False,title_direct,Keisai Kitao Masayoshi,,,,Sec. XIX
 BO0624_88216,179161,685,891,"Bergige Schneelandschaft am Meeresufer. 25,5/19. 3 Portrait des Schauspielers Onoue Matsusuke als Ronin. Teils mit Mika gedruckt. 39/26. Siehe Abbildung Tafel IV. Portrait des Schauspielers Nakayama Domisabre in einer Frauenrolle. Teils mit Mika gedruckt. 38,5/26. Siehe Abbildung Tafel IV.",1858,61.9,False,positional,Sharaku,,,,
 BO0624_88216,179162,686,894,"Theaterszene mit drei Schauspielern, darunter zwei Frauen. Triptychon. 31/43.",1862,97.3,False,positional,Katsukawa Shuncho,,,,
 BO0624_88216,179163,687,895,"Daimio von jungen Frauen umgeben im inneren Hofe eines Hauses. 37,5/25.",1863,97.2,False,positional,Katsukawa Shuncho,,,,
@@ -694,7 +694,7 @@ BO0624_88216,179168,692,901,"Ochsen reitet. 32,5/22.",1877,91.3,False,positional
 BO0624_88216,179169,693,902,Portrait eines Fechters. Ganzfigur.39/25.,1878,95.1,False,positional,Katsukawa Shunyei,,,,
 BO0624_88216,179170,694,903,"- Schauspieler, barfuB,zieht seinen Sabel. 32,5/15.",1880,100.0,False,positional,Katsukawa Shunyei,,,,
 BO0624_88216,179171,695,904,Schauspieler in der Ristung eines Kriegers mit gekreuzten Armen,1881,96.9,False,positional,Katsukawa Shunyei,,,,
-BO0624_88216,179172,696,905,## Katsukawa Shunko (tatig ca.1780-1800).,1886,100.0,False,title_direct,Katsukawa Shunko,,,,
+BO0624_88216,179172,696,905,## Katsukawa Shunko (tatig ca.1780-1800).,1886,100.0,False,title_direct,Katsukawa Shunko,,,,Sec. XIX
 BO0624_88216,179173,697,906,"einer Terrasse iber ihm eingeschlafen ist. 31/14,5.",1889,96.1,False,positional,Katsukawa Shunko,,,,
 BO0624_88216,179174,698,907,"- Theaterszene mit vier Personen. 31,5/14,5.",1891,100.0,False,positional,Katsukawa Shunko,,,,
 BO0624_88216,179175,699,908,Im Hintergrund blihender,1892,92.3,False,positional,Katsukawa Shunko,,,,
@@ -754,11 +754,11 @@ BO0624_88216,179228,752,974,"Zwei Damen, deren eine an der Seite eines Hirsches 
 BO0624_88216,179229,753,975,"- 976 Theaterszene mit zwei Schauspielern. Mann und Frau. 35,5/24.",2031,100.0,False,positional,Utagawa Toyokuni,,,,
 BO0624_88216,179230,754,978,"Dame besucht eine Freundin, die beschaftigt ist, einen Stoff iber Drei Kurtisanen auf einem S der eine Laterne tragt. 37,5/24.",2034,66.7,False,positional,Utagawa Toyokuni,,,,
 BO0624_88216,179231,755,979,"Zwei Damen und ein kleiner Knabe bei einem Windschirm, auf",2036,96.6,False,positional,Utagawa Toyokuni,,,,
-BO0624_88216,179232,756,980,## Utagawa Toyohiro (1773-1828).,2040,100.0,False,title_direct,Toyohiro,,,,
+BO0624_88216,179232,756,980,## Utagawa Toyohiro (1773-1828).,2040,100.0,False,title_direct,Toyohiro,,,,Sec. XVIII
 BO0624_88216,179233,757,981,"Junge Dame reicht einem jungen Mann eine Vase, der einen",2042,96.5,False,positional,Utagawa Toyohiro,,VASI,,
 BO0624_88216,179234,758,982,- 983,2045,100.0,False,positional,Utagawa Toyohiro,,,,
 BO0624_88216,179235,759,985,985,2047,100.0,False,positional,Utagawa Toyohiro,,,,
-BO0624_88216,179236,760,986,## Torii Kiyomine (1786-1868).,2058,100.0,False,title_direct,Torii Kiyomine,,,,
+BO0624_88216,179236,760,986,## Torii Kiyomine (1786-1868).,2058,100.0,False,title_direct,Torii Kiyomine,,,,Sec. XIX
 BO0624_88216,179237,761,987,"Kurtisane,reich gekleidet,auf einer Bank. 37,526.",2060,95.9,False,positional,Torii Kiyomine,,,,
 BO0624_88216,179238,762,988,"Triptychon. 38,5/75.",2067,90.0,False,positional,Yeizan,,,,
 BO0624_88216,179239,763,989,"- 990 Junge Frau auf einer Bank. 37/25,5.",2069,100.0,False,positional,Yeizan,,,,
@@ -767,7 +767,7 @@ BO0624_88216,179241,765,994,994,2073,100.0,False,positional,Yeizan,,,,
 BO0624_88216,179242,766,995,"Drei Damen auf einem Spaziergang durch die Kirschblite. 38/25,5.",2076,96.9,False,positional,Yeizan,,,,
 BO0624_88216,179243,767,996,Dame in hellgrinem Mantel. 38/25.,2079,93.9,False,positional,Yeizan,,,,
 BO0624_88216,179244,768,997,"- 998 Szene aus Yoshiwara: Dame, die sich auf eine Saule stitzt, laBt von einer kleinen Dienerin Erfrischungen bereiten. 37/24.",2081,100.0,False,positional,Yeizan,,,,
-BO0624_88216,179245,769,999,- 1000 Mann halt,2084,100.0,False,positional,Yeizan,,,,
+BO0624_88216,179245,769,999,- 1000 Mann halt,2084,100.0,False,positional,Yeizan,,,,Sec. XI
 BO0624_88216,179246,770,1001,"Wassermihle aus dem Dorf Onden, Provinz Musaski. 25/38.",2091,95.4,False,positional,Hokusai,,,,
 BO0624_88216,179247,771,1002,"Ansicht von Ao-yama. Partie aus Yedo, wo die Riesenfichte,",2092,95.7,False,positional,Hokusai,,,,
 BO0624_88216,179248,772,1003,"- Ansicht von To-to-ura, Dorf in der Provinz Katzusa. Tempeltore.26,5/38,5.",2095,100.0,False,positional,Hokusai,,,,
@@ -782,15 +782,15 @@ BO0624_88216,179256,780,1011,"Ansicht des Ufers des Tago in Ye-djiri, Station de
 BO0624_88216,179257,781,1012,"Durchgang in der Hohe des Gebirges Inume, Provinz Ko-shin.",2105,95.7,False,positional,Hokusai,,,,
 BO0624_88216,179258,782,1013,"- Holzbricke, deren sehr gewolbte Bogen auf Stein-Pfeilern ruhen. Regenstimmung 24/36",2108,100.0,False,positional,Hokusai,,,,
 BO0624_88216,179259,783,1014,"Mondscheinlandschaft. Der Mond wirft seine Strahlen auf ein HerrenschloB, das sich am Ufer eines von Barken belebten Flusses",2109,98.0,False,positional,Hokusai,,,,
-BO0624_88216,179260,784,1015,- 1016 Reichgegliederte Landschaft mit jungen Fichten bepilanzt und,2116,100.0,False,positional,Hokusai,,,,
-BO0624_88216,179261,785,1017,"- 1018 Shika shashin-kyo. Aus der Folge der zehn groBen Gedichte: Der Dichter iberschreitet am FuBe eines hohen Gebirges eine uiber einen Gebirgsbach gelegte Bricke, wahrend die letzten Strahlen der untergehenden Sonne die Gipfel vergolden. 46/21.",2120,100.0,False,positional,Hokusai,,,,
+BO0624_88216,179260,784,1015,- 1016 Reichgegliederte Landschaft mit jungen Fichten bepilanzt und,2116,100.0,False,positional,Hokusai,,,,Sec. XI
+BO0624_88216,179261,785,1017,"- 1018 Shika shashin-kyo. Aus der Folge der zehn groBen Gedichte: Der Dichter iberschreitet am FuBe eines hohen Gebirges eine uiber einen Gebirgsbach gelegte Bricke, wahrend die letzten Strahlen der untergehenden Sonne die Gipfel vergolden. 46/21.",2120,100.0,False,positional,Hokusai,,,,Sec. XI
 BO0624_88216,179262,786,1020,Paonie und Schmetterling. 26/38. Iris.27/38.,2124,78.9,False,positional,Hokusai,,,,
 BO0624_88216,179263,787,1021,"- Hortensien und Sperling. 25,5/36,5.",2127,100.0,False,positional,Hokusai,,,,
 BO0624_88216,179264,788,1022,"zeichnet: Taito. 39/25,5.",2129,89.8,False,positional,Hokusai,,,,
-BO0624_88216,179265,789,1023,"- 1024 Der Prinz Narihira,von zwei Dienern begleitet,reitet am FuBe",2135,100.0,False,positional,Hiroshige,,,,
+BO0624_88216,179265,789,1023,"- 1024 Der Prinz Narihira,von zwei Dienern begleitet,reitet am FuBe",2135,100.0,False,positional,Hiroshige,,,,Sec. XI
 BO0624_88216,179266,790,1025,"Der Winter in den Bergen von Kiso.L Unter tiefem Schnee, am FuBe eines Bergriesen, wolbt sich eine rohgezimmerte Bricke uiber einen GebirgsiluB, dessen blaue Wasser durch eine tiefe, zerkliftete Schlucht flieBen. 73/24,5.Pfostenbild.",2136,98.9,False,positional,Hiroshige,,,,
 BO0624_88216,179267,791,1026,"Numazu im Tokaido. Eine herumziehende Schauspielerfamilie mit ihren Requisiten beladen zieht am Ufer eines Flusses durch die von prachtigem Mondschein erhellte Nacht. 23,5/35,5.",2138,98.6,False,positional,Hiroshige,,,,
-BO0624_88216,179268,792,1027,"- 1028 GroBer Adler, schwebt iber der mit Schnee bedeckten Landschaft. 34,5/24.",2140,100.0,False,positional,Hiroshige,,,,
+BO0624_88216,179268,792,1027,"- 1028 GroBer Adler, schwebt iber der mit Schnee bedeckten Landschaft. 34,5/24.",2140,100.0,False,positional,Hiroshige,,,,Sec. XI
 BO0624_88216,179269,793,1030,"Itahana am Kisokaido. Mit Schnee bedeckte Reisende auf einem von Fichten eingesaumten Weg, der nach dem Dorfe fihrt, das GroBerKarpfen,erklimmt einen Wasserfall. 72,5/25. Pfostenbild.",2145,78.3,False,positional,Keisai Yeisen,,,,
 BO0624_88216,179270,794,1031,- man iber eine Bricke erreicht. Sonnenuntergang. 2 22/34.,2148,100.0,False,positional,Keisai Yeisen,,,,
 BO0624_88216,179271,795,1032,"Blatt mit zwei Darstellungen, unzerschnitten, mit Schrift:",2151,95.7,False,positional,Keisai Yeisen,,,,
@@ -881,12 +881,12 @@ BO0624_88216,179355,879,1194,Schauspieler. Desgl.,2550,68.6,False,positional,Shu
 BO0624_88216,179356,880,1195,Desgl.,2552,66.7,False,positional,Shunyei,,,,
 BO0624_88216,179357,881,1197,Desgl. Desgl.,2554,57.1,False,positional,Shunyei,,,,
 BO0624_88216,179358,882,1198,Desgl.,2566,100.0,False,positional,Shunyei,,,,
-BO0624_88216,179359,883,1200,1201 Desgl.,2568,90.0,False,positional,Shunyei,,,,
+BO0624_88216,179359,883,1200,1201 Desgl.,2568,90.0,False,positional,Shunyei,,,,Sec. XIII
 BO0624_88216,179360,884,1202,Desgl. Ringer. Desgl.,2572,50.0,False,positional,Shunyei,,,,
 BO0624_88216,179361,885,1205,Schauspieler. Desgl. Desgl.,2576,58.5,False,positional,Shunyei,,,,
 BO0624_88216,179362,886,1208,Desgl.,2578,66.7,False,positional,Shunyei,,,,
 BO0624_88216,179363,887,1209,Diptychon.,2584,78.3,False,positional,Shunyei,,,,
-BO0624_88216,179364,888,1210,1211 Desgl.,2590,100.0,False,positional,Shunko,,,,
+BO0624_88216,179364,888,1210,1211 Desgl.,2590,100.0,False,positional,Shunko,,,,Sec. XIII
 BO0624_88216,179365,889,1212,Desgl. Desgl. Desgl.,2594,44.4,False,positional,Shunko,,,,
 BO0624_88216,179366,890,1215,Desgl.,2596,66.7,False,positional,Shunko,,,,
 BO0624_88216,179367,891,1216,Desgl.,2598,66.7,False,positional,Shunko,,,,
@@ -899,7 +899,7 @@ BO0624_88216,179373,897,1222,Blatt von Hokkei.,2616,86.5,False,title_direct,Hokk
 BO0624_88216,179374,898,1223,Desgl.von Hokkei Juro.,2618,89.4,False,title_direct,Hokkei,,,,
 BO0624_88216,179375,899,1224,Wandschirm.,2620,80.0,False,positional,,,Surimonos,,
 BO0624_88216,179376,900,1225,Diptychon. Desgl. Desgl.,2624,51.4,False,positional,Masanobu,,,,
-BO0624_88216,179377,901,1228,1229 Desgl.,2632,100.0,False,positional,Masanobu,,,,
+BO0624_88216,179377,901,1228,1229 Desgl.,2632,100.0,False,positional,Masanobu,,,,Sec. XIII
 BO0624_88216,179378,902,1230,Diptychon.,2638,78.3,False,positional,Jeizan,,,,
 BO0624_88216,179379,903,1231,Triptychon.,2640,80.0,False,positional,Jeizan,,,,
 BO0624_88216,179380,904,1232,Frauen auf der Veranda.,2644,89.8,False,positional,Hokkei,,,,

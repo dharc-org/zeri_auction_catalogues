@@ -1,95 +1,95 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_87696,435074,1,1,| Vollstandiger Harnisch.1460-1500.                                                  |,36,97.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435075,2,2,| Glatter Harnisch ohne Helm. Um 1500.                                               |,38,97.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435076,3,3,"| Geriefter (kannelierter,geriifelter) Feldharnisch (Maximiliansrustung). 1510-1530. |",39,98.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435077,4,5,| Feldharnisch Um 1530-1550.                                                         |,41,96.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435078,5,6,| Feldharnisch.Um 1560.                                                              |,42,95.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435079,6,7,| Schwarzer Reiterharnirch mit ge- schliffenen Randern.1600-1650.                    |,43,98.4,False,positional,,,Schutzwaffen,,
-BO0624_87696,435080,7,8,| Deutsche Halbrustung. 1600-1650.                                                   |,44,96.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435081,8,9,| Deutsche Halbrustung. 1600-1650.                                                   |,45,96.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435082,9,10,| ltalienische Halbrustung. 1600-1650.                                               |,46,95.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435083,10,11,| Kesselhaube.1300--1320.                                                            |,47,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435084,11,12,| Kesselhaube mit Visier.1350--1390.                                                 |,48,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435085,12,13,| Eisenhut.1440-1480.                                                                |,49,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435086,13,14,| Visierheim. Zur sogenannten Maximilians rustung gehorig. 1510-1530.                |,50,97.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435074,1,1,| Vollstandiger Harnisch.1460-1500.                                                  |,36,97.0,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435075,2,2,| Glatter Harnisch ohne Helm. Um 1500.                                               |,38,97.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435076,3,3,"| Geriefter (kannelierter,geriifelter) Feldharnisch (Maximiliansrustung). 1510-1530. |",39,98.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435077,4,5,| Feldharnisch Um 1530-1550.                                                         |,41,96.2,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435078,5,6,| Feldharnisch.Um 1560.                                                              |,42,95.2,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435079,6,7,| Schwarzer Reiterharnirch mit ge- schliffenen Randern.1600-1650.                    |,43,98.4,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435080,7,8,| Deutsche Halbrustung. 1600-1650.                                                   |,44,96.8,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435081,8,9,| Deutsche Halbrustung. 1600-1650.                                                   |,45,96.8,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435082,9,10,| ltalienische Halbrustung. 1600-1650.                                               |,46,95.8,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435083,10,11,| Kesselhaube.1300--1320.                                                            |,47,93.3,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435084,11,12,| Kesselhaube mit Visier.1350--1390.                                                 |,48,95.5,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435085,12,13,| Eisenhut.1440-1480.                                                                |,49,92.3,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435086,13,14,| Visierheim. Zur sogenannten Maximilians rustung gehorig. 1510-1530.                |,50,97.7,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435087,14,15,| VisierheIm.Zur Maximiliansrustung gehorig.                                         |,51,96.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435088,15,16,| Sogenannter Jagdhelm. Um 1550.                                                     |,52,94.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435089,16,17,| Italienischer Helm.1550-1600.                                                      |,53,94.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435090,17,18,| Deutsche Backenhaube.1550-1600.                                                    |,54,95.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435091,18,19,| Reitersturmhaube (Zischagge). 1600-1650.                            |          |         |,59,96.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435092,19,20,| Unterschlachtiges Visier. Un 1550.                                  |          |         |,60,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435093,20,21,| Nackenstuck eines Helmes. Um 1550.                                  |          |         |,61,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435094,21,22,| Modelleines deutschen Stechhelmes. 1530-1550.                       |          |         |,62,96.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435095,22,23,| Gewolbte Brustplatte.1390-1430.                                     |          |         |,63,95.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435096,23,24,| Kugelbrust einer Maximiliansrustung. 1510-1550.                     |          |         |,64,96.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435097,24,25,| Desgleichen.1510-1530.                                              |          |         |,65,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435098,25,26,| Ruckenharnisch einer Maximilians- rustung.1510-1530.                |          |         |,66,97.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435099,26,27,| Brust. Um 1550.                                                     |          |         |,67,89.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435100,27,28,| Modell eines Brust- und Ruckenhar- nisches.1570-1600.               |          |         |,68,97.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435101,28,29,| Halsberg einer Maximiliansrustung. 1510-1530.                       |          |         |,69,96.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435102,29,30,| Deutscher Halsberg. 1580-1600.                                      |          |         |,70,94.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435103,30,31,| Halsberg.1580-1600.                                                 |          |         |,71,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435104,31,32,| Halsberg mit Achselschienen. 1600-1650.                             |          |         |,72,96.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435105,32,33,| Ein Paar Oberarmschienen zum Ein- hangen auf den Halsberg. Um 1500. |          |         |,73,97.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435106,33,34,| Ein Paar Oberarmschienen einer Maximiliansristung.1510-1530.        |          |         |,74,97.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435107,34,35,| Linke Oberarmrohre einer Maxi- mlliansrustung.1510-1530.            |          |         |,75,97.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435108,35,36,Linker Flug nach vorn und hinten mit Ansatz des Oberarms und Uberlege.Um 1550-1570.,76,98.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435109,36,37,Linker Flug mit dem oberen Teil des Armes.1550--1600.,77,97.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435110,37,38,Ein Paar0berarmschienen.1550-1600,78,95.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435088,15,16,| Sogenannter Jagdhelm. Um 1550.                                                     |,52,94.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435089,16,17,| Italienischer Helm.1550-1600.                                                      |,53,94.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435090,17,18,| Deutsche Backenhaube.1550-1600.                                                    |,54,95.2,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435091,18,19,| Reitersturmhaube (Zischagge). 1600-1650.                            |          |         |,59,96.0,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435092,19,20,| Unterschlachtiges Visier. Un 1550.                                  |          |         |,60,95.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435093,20,21,| Nackenstuck eines Helmes. Um 1550.                                  |          |         |,61,95.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435094,21,22,| Modelleines deutschen Stechhelmes. 1530-1550.                       |          |         |,62,96.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435095,22,23,| Gewolbte Brustplatte.1390-1430.                                     |          |         |,63,95.2,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435096,23,24,| Kugelbrust einer Maximiliansrustung. 1510-1550.                     |          |         |,64,96.8,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435097,24,25,| Desgleichen.1510-1530.                                              |          |         |,65,93.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435098,25,26,| Ruckenharnisch einer Maximilians- rustung.1510-1530.                |          |         |,66,97.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435099,26,27,| Brust. Um 1550.                                                     |          |         |,67,89.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435100,27,28,| Modell eines Brust- und Ruckenhar- nisches.1570-1600.               |          |         |,68,97.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435101,28,29,| Halsberg einer Maximiliansrustung. 1510-1530.                       |          |         |,69,96.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435102,29,30,| Deutscher Halsberg. 1580-1600.                                      |          |         |,70,94.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435103,30,31,| Halsberg.1580-1600.                                                 |          |         |,71,92.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435104,31,32,| Halsberg mit Achselschienen. 1600-1650.                             |          |         |,72,96.1,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435105,32,33,| Ein Paar Oberarmschienen zum Ein- hangen auf den Halsberg. Um 1500. |          |         |,73,97.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435106,33,34,| Ein Paar Oberarmschienen einer Maximiliansristung.1510-1530.        |          |         |,74,97.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435107,34,35,| Linke Oberarmrohre einer Maxi- mlliansrustung.1510-1530.            |          |         |,75,97.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435108,35,36,Linker Flug nach vorn und hinten mit Ansatz des Oberarms und Uberlege.Um 1550-1570.,76,98.2,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435109,36,37,Linker Flug mit dem oberen Teil des Armes.1550--1600.,77,97.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435110,37,38,Ein Paar0berarmschienen.1550-1600,78,95.7,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435111,38,39,Desgleichen. Ebenso.,79,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435112,39,40,Ein Paar Oberarm-und Unterarmrohren mit geschlossenen Mauseln.1550-1600.,80,97.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435113,40,41,Linker geschlossener Arm mit geschlossenem Mausel.1550-1600.,81,97.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435114,41,42,2Linker geschlossener Arm mit geschlossenem Mausel. 1550-1600.,82,97.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435115,42,43,Ellenbogenkachel einer Prachtrustung.1580-1600.,83,96.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435116,43,44,Ein Paar Faustlinge.1460-1500.,84,95.1,False,positional,,,Schutzwaffen,,
+BO0624_87696,435112,39,40,Ein Paar Oberarm-und Unterarmrohren mit geschlossenen Mauseln.1550-1600.,80,97.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435113,40,41,Linker geschlossener Arm mit geschlossenem Mausel.1550-1600.,81,97.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435114,41,42,2Linker geschlossener Arm mit geschlossenem Mausel. 1550-1600.,82,97.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435115,42,43,Ellenbogenkachel einer Prachtrustung.1580-1600.,83,96.8,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435116,43,44,Ein Paar Faustlinge.1460-1500.,84,95.1,False,positional,,,Schutzwaffen,,Sec. XV
 BO0624_87696,435117,44,45,Des gleichen. Ebenso.,85,92.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435118,45,46,Ein Paar Faustlinge einer Maximiliansrustung.1510-1530.,86,97.3,False,positional,,,Schutzwaffen,,
+BO0624_87696,435118,45,46,Ein Paar Faustlinge einer Maximiliansrustung.1510-1530.,86,97.3,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435119,46,47,Desgleichen. Ebenso.,87,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435120,47,48,Ein Paar Faustlinge. 1520-1550.,88,95.1,False,positional,,,Schutzwaffen,,
+BO0624_87696,435120,47,48,Ein Paar Faustlinge. 1520-1550.,88,95.1,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435121,48,49,Des gleichen. Ebenso.,89,92.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435122,49,50,Rechter Faustling. 1520-1550.,90,94.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435122,49,50,Rechter Faustling. 1520-1550.,90,94.7,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435123,50,51,Desgleichen. Ebenso.,91,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435124,51,52,Linker Faustling. 1520-1550.,92,94.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435125,52,53,Linker Fingerhandschuh. 1550-1610.,93,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435126,53,54,Rechter Fingerhandschuh.1550-1610.,94,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435127,54,55,| Rechter Fingerhandschuh. 1560-1610.                  |          |         |,99,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435128,55,56,| Linker Fingerhandschuh. 1600-1650.                   |          |         |,100,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435129,56,57,| Ein Paar Fingerhandschuhe. 1600-1650.                |          |         |,101,95.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435130,57,58,| Zwei Beintaschen-Abschlusse. 1550-1560.              |          |         |,102,96.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435131,58,59,| Knieabschluss einer Halbrustung. Um 1550.            |          |         |,103,96.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435132,59,60,| Linker Knieabschluss. Um 1550-1560.                  |          |         |,104,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435133,60,61,| Fusskappe.Um 1550-1560.                              |          |         |,105,93.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435134,61,62,| Ein Sporn. 12. Jahrhundert.                          |          |         |,106,94.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435135,62,63,| Desgleichen. 13. Jahrhundert.                        |          |         |,107,94.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435136,63,64,| Rittersporn.Um 1490-1550.                            |          |         |,108,94.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435137,64,65,"| Sporn, sogenannte Schwanenhals- form.1620--1650.     |          |         |",109,96.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435138,65,66,| Lanzenhacken. 1550-1600.                             |          |         |,110,93.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435139,66,67,| Ross-Stirne zu einer Maximilians- rustung.1510-1530. |          |         |,111,97.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435140,67,68,| Turnier-Ross-Stirne.1510-1550.                       |          |         |,112,95.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435141,68,69,| Persische Ross-Stirne. 16. Jahrhundert.              |          |         |,113,96.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435142,69,70,| Orientalisches Hemd mit Armeln. 16. Jahrhundert.     |          |         |,114,96.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435143,70,71,| Orientalisches Hemd ohne Armel. 16. Jahrhundert.     |          |         |,115,96.8,False,positional,,,Schutzwaffen,,
+BO0624_87696,435124,51,52,Linker Faustling. 1520-1550.,92,94.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435125,52,53,Linker Fingerhandschuh. 1550-1610.,93,95.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435126,53,54,Rechter Fingerhandschuh.1550-1610.,94,95.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435127,54,55,| Rechter Fingerhandschuh. 1560-1610.                  |          |         |,99,95.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435128,55,56,| Linker Fingerhandschuh. 1600-1650.                   |          |         |,100,95.5,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435129,56,57,| Ein Paar Fingerhandschuhe. 1600-1650.                |          |         |,101,95.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435130,57,58,| Zwei Beintaschen-Abschlusse. 1550-1560.              |          |         |,102,96.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435131,58,59,| Knieabschluss einer Halbrustung. Um 1550.            |          |         |,103,96.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435132,59,60,| Linker Knieabschluss. Um 1550-1560.                  |          |         |,104,95.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435133,60,61,| Fusskappe.Um 1550-1560.                              |          |         |,105,93.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435134,61,62,| Ein Sporn. 12. Jahrhundert.                          |          |         |,106,94.1,False,positional,,,Schutzwaffen,,Sec. XII
+BO0624_87696,435135,62,63,| Desgleichen. 13. Jahrhundert.                        |          |         |,107,94.5,False,positional,,,Schutzwaffen,,Sec. XIII
+BO0624_87696,435136,63,64,| Rittersporn.Um 1490-1550.                            |          |         |,108,94.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435137,64,65,"| Sporn, sogenannte Schwanenhals- form.1620--1650.     |          |         |",109,96.7,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435138,65,66,| Lanzenhacken. 1550-1600.                             |          |         |,110,93.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435139,66,67,| Ross-Stirne zu einer Maximilians- rustung.1510-1530. |          |         |,111,97.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435140,67,68,| Turnier-Ross-Stirne.1510-1550.                       |          |         |,112,95.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435141,68,69,| Persische Ross-Stirne. 16. Jahrhundert.              |          |         |,113,96.0,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435142,69,70,| Orientalisches Hemd mit Armeln. 16. Jahrhundert.     |          |         |,114,96.8,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435143,70,71,| Orientalisches Hemd ohne Armel. 16. Jahrhundert.     |          |         |,115,96.8,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435144,71,72,| Schwert. 1o. Jahrhundert.                                                                |          |         |,119,93.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435145,72,73,| Ritterschwert.1350-1400.                                                                 |          |         |,120,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435146,73,74,| Jagd-Schwert.1500-1530.                                                                  |          |         |,121,93.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435147,74,75,| Ritterschwert (Maximiliansschwert). 1510-1530.                                           |          |         |,122,96.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435148,75,76,| Schweizer Schwert. 1520-1550.                                                            |          |         |,123,94.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435149,76,77,| Reiter-Schwert.1530-1570.                                                                |          |         |,124,94.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435150,77,78,"| Schwert aus dem Grabe des Hoch- und Deutschmoisters Georg Hund von Wenkheim, gest. 1572. |          |         |",125,98.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435151,78,79,| Korbschwert.1580-1620.                                                                   |          |         |,126,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435152,79,80,| Italienischer Degen.1580-1640.                                                           |          |         |,127,95.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435153,80,81,| Korbschwert. 1600-1650.                                                                  |          |         |,128,93.3,False,positional,,,Schutzwaffen,,
+BO0624_87696,435145,72,73,| Ritterschwert.1350-1400.                                                                 |          |         |,120,93.9,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435146,73,74,| Jagd-Schwert.1500-1530.                                                                  |          |         |,121,93.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435147,74,75,| Ritterschwert (Maximiliansschwert). 1510-1530.                                           |          |         |,122,96.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435148,75,76,| Schweizer Schwert. 1520-1550.                                                            |          |         |,123,94.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435149,76,77,| Reiter-Schwert.1530-1570.                                                                |          |         |,124,94.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435150,77,78,"| Schwert aus dem Grabe des Hoch- und Deutschmoisters Georg Hund von Wenkheim, gest. 1572. |          |         |",125,98.2,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435151,78,79,| Korbschwert.1580-1620.                                                                   |          |         |,126,93.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435152,79,80,| Italienischer Degen.1580-1640.                                                           |          |         |,127,95.1,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435153,80,81,| Korbschwert. 1600-1650.                                                                  |          |         |,128,93.3,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435154,81,82,| Desgleichen. Ebenso.                                                                     |          |         |,129,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435155,82,83,| Korbdegen.1600--1650.                                                                    |          |         |,130,92.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435156,83,84,| Desgleichen.1600-1630.                                                                   |          |         |,131,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435157,84,85,| Korbrappier.1600-1630.                                                                   |          |         |,132,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435158,85,86,| Galadegen.1600~1640.                                                                     |          |         |,133,92.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435159,86,87,| Haudegen.1620-1650.                                                                      |          |         |,134,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435160,87,88,| Degen.1650-1680.                                                                         |          |         |,135,90.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435161,88,89,| FranzosischerGaladegen.1710-1730.                                                        |          |         |,136,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435162,89,90,| Zweiteiliges Degengehange.1590-1630.                                                     |          |         |,137,95.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435163,90,91,| Dreiteiliges Degengehange.1590-1630.                                                     |          |         |,138,95.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435164,91,93,94 95 96 97 98 99 100 101 102 103 104 105 106 107 110 111   | 92 Zweihander (Bidenhander). Glatter Zweihander. Um 1550. Flammberg.1550-1600. Einschneidiger Dolch. 13.Jahrhundert. ZweischneidigerDolch.14.Jahrhundert. Desgleichen. 16.Jahrhundert. Desgleichen.1540-1600. Desgleichen. Ebenso. Desgleichen. Ende des 16. Jahrhunderts. Spanischer vierkantiger Dolch. 1550-1620. Hellebarde (Helmbarde = Stangenbeil). 1550-1600. Hellebarde.1550-1600. Hellebarde.17. Jahrhundert. Partisane. 17. Jahrhundert. Modell eines Sponton. 18.Jahrhundert. Streithammer.1500-1520. Desgleichen. 108 Desgleichen. Ill. Schusswaffen. 109 Armbrust (Fussbogen). 1450-1500. Fussbogen mit Winde. 16. Jahrhundert. Jagdarmbrust mit Winde. (Geissfuss). 16.Jahrhundert.   | Kaufer   |,141,99.8,False,positional,,,Schutzwaffen,,
+BO0624_87696,435155,82,83,| Korbdegen.1600--1650.                                                                    |          |         |,130,92.7,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435156,83,84,| Desgleichen.1600-1630.                                                                   |          |         |,131,93.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435157,84,85,| Korbrappier.1600-1630.                                                                   |          |         |,132,93.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435158,85,86,| Galadegen.1600~1640.                                                                     |          |         |,133,92.7,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435159,86,87,| Haudegen.1620-1650.                                                                      |          |         |,134,92.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435160,87,88,| Degen.1650-1680.                                                                         |          |         |,135,90.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435161,88,89,| FranzosischerGaladegen.1710-1730.                                                        |          |         |,136,95.5,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435162,89,90,| Zweiteiliges Degengehange.1590-1630.                                                     |          |         |,137,95.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435163,90,91,| Dreiteiliges Degengehange.1590-1630.                                                     |          |         |,138,95.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435164,91,93,94 95 96 97 98 99 100 101 102 103 104 105 106 107 110 111   | 92 Zweihander (Bidenhander). Glatter Zweihander. Um 1550. Flammberg.1550-1600. Einschneidiger Dolch. 13.Jahrhundert. ZweischneidigerDolch.14.Jahrhundert. Desgleichen. 16.Jahrhundert. Desgleichen.1540-1600. Desgleichen. Ebenso. Desgleichen. Ende des 16. Jahrhunderts. Spanischer vierkantiger Dolch. 1550-1620. Hellebarde (Helmbarde = Stangenbeil). 1550-1600. Hellebarde.1550-1600. Hellebarde.17. Jahrhundert. Partisane. 17. Jahrhundert. Modell eines Sponton. 18.Jahrhundert. Streithammer.1500-1520. Desgleichen. 108 Desgleichen. Ill. Schusswaffen. 109 Armbrust (Fussbogen). 1450-1500. Fussbogen mit Winde. 16. Jahrhundert. Jagdarmbrust mit Winde. (Geissfuss). 16.Jahrhundert.   | Kaufer   |,141,99.8,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435165,92,1,1,144,100.0,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Schutzwaffen,,
 BO0624_87696,435166,93,1,1,146,100.0,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Schutzwaffen,,
 BO0624_87696,435167,94,1,1,148,100.0,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Schutzwaffen,,
@@ -99,374 +99,374 @@ BO0624_87696,435170,97,1,1,154,100.0,False,positional,TENIERS DAVID IL GIOVANE,S
 BO0624_87696,435171,98,1,1,156,100.0,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Schutzwaffen,,
 BO0624_87696,435172,99,1,1,158,100.0,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Schutzwaffen,,
 BO0624_87696,435173,100,1,|     |                                                                                 | Kaufer   | Preis   |,177,100.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435174,101,112,| Eiserner Kugelschnepper.1550-1600.                                              |          |         |,179,94.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435175,102,113,| Vogelarmbrust fur Kugel oder Bolzen. Anfang des 17. Jahrhunderts.               |          |         |,180,96.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435176,103,114,| Stahlbogen einer Armbrust. (Fuss- bogen.) 15. Jahrhundert.                      |          | 22      |,181,96.4,False,positional,,,Schutzwaffen,,
+BO0624_87696,435174,101,112,| Eiserner Kugelschnepper.1550-1600.                                              |          |         |,179,94.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435175,102,113,| Vogelarmbrust fur Kugel oder Bolzen. Anfang des 17. Jahrhunderts.               |          |         |,180,96.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435176,103,114,| Stahlbogen einer Armbrust. (Fuss- bogen.) 15. Jahrhundert.                      |          | 22      |,181,96.4,False,positional,,,Schutzwaffen,,Sec. XV
 BO0624_87696,435177,104,115,| Pfeile.                                                                         |          |         |,182,75.0,False,positional,,,Schutzwaffen,,
 BO0624_87696,435178,105,116,| Pfeilspitzen.                                                                   |          |         |,183,85.7,False,positional,,,Schutzwaffen,,
 BO0624_87696,435179,106,117,| Gewehr mit Luntenschloss. Aus der Zeit des dreissigjahrigen Krieges.            |          |         |,184,97.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435180,107,118,| Vogelflinte mit Radschloss. 1598.                                               |          |         |,185,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435181,108,119,| Radschlossbuchse. Um 1650.                                                      |          |         |,186,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435182,109,120,| Desgleichen. 1659.                                                              |          |         |,187,88.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435183,110,121,| Desgleichen. 1669.                                                              |          |         |,188,88.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435184,111,122,| Desgleichen.Um 1700.                                                            |          |         |,189,90.5,False,positional,,,Schutzwaffen,,
+BO0624_87696,435180,107,118,| Vogelflinte mit Radschloss. 1598.                                               |          |         |,185,93.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435181,108,119,| Radschlossbuchse. Um 1650.                                                      |          |         |,186,92.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435182,109,120,| Desgleichen. 1659.                                                              |          |         |,187,88.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435183,110,121,| Desgleichen. 1669.                                                              |          |         |,188,88.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435184,111,122,| Desgleichen.Um 1700.                                                            |          |         |,189,90.5,False,positional,,,Schutzwaffen,,Sec. XVIII
 BO0624_87696,435185,112,123,| Desgleichen. Ebenso.                                                            |          |         |,190,90.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435186,113,124,| Radschloss-Faustrohr.(Pistole)1594.                                             |          |         |,191,94.3,False,positional,,,Schutzwaffen,,
+BO0624_87696,435186,113,124,| Radschloss-Faustrohr.(Pistole)1594.                                             |          |         |,191,94.3,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435187,114,125,| Ein Paar Radschloss-Reiterpistolen. 17.Jahrhundert.                             |          |         |,192,96.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435188,115,126,| Schnapphahnpistole.1600-1630.                                                   |          |         |,193,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435189,116,127,| Feuersteinpistole. Um 1700.                                                     |          |         |,194,92.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435190,117,128,| Ein Paar Feuersteinpistolen. 1700-1720.                                         |          |         |,195,94.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435191,118,129,| Radschloss. Um 1650.                                                            |          |         |,196,90.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435192,119,130,| Radschloss mit eigener Lunten- zundung und Sicherung. Um 1700.                  |          |         |,197,96.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435193,120,131,| Ein Paar dreieckige Pulverflaschen. Aus der ersten Halfte des 17. Jahrhunderts. |          |         |,198,97.4,False,positional,,,OGGETTI VARI,,
-BO0624_87696,435194,121,132,133 137   | Runde Zundkrautflasche.1550-1600. Desgleichen. Desgleichen. Um 1700. Patronenhulsen. 17. Jahrhundert. IV. Arbeiten in Eisen. 136 Gotisches Schloss. Anfang des 15. Gotisches Kistenschloss. Um 1450. Gotisches Schloss.14601480. Gotisches Tur- oder Torschloss. 1460-1480. Gotisches Kastenschloss. Ende des 15. Hangeschloss.1530-1580. Einfaches Kistenschloss. Mitte des Kistenschloss. Ende des 16. Jahrhunderts. des 16. Jahrhunderts. Kistenschloss mitSchlussel. Um 1600. Zwei Kugelschlosser mit Schlussel. 17. Jahrhundert. Eingericht eines Schlosses mit dem   | Kaufer   | Preis   |,203,99.6,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
+BO0624_87696,435188,115,126,| Schnapphahnpistole.1600-1630.                                                   |          |         |,193,93.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435189,116,127,| Feuersteinpistole. Um 1700.                                                     |          |         |,194,92.6,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435190,117,128,| Ein Paar Feuersteinpistolen. 1700-1720.                                         |          |         |,195,94.9,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435191,118,129,| Radschloss. Um 1650.                                                            |          |         |,196,90.0,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435192,119,130,| Radschloss mit eigener Lunten- zundung und Sicherung. Um 1700.                  |          |         |,197,96.7,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435193,120,131,| Ein Paar dreieckige Pulverflaschen. Aus der ersten Halfte des 17. Jahrhunderts. |          |         |,198,97.4,False,positional,,,OGGETTI VARI,,Sec. XVII
+BO0624_87696,435194,121,132,133 137   | Runde Zundkrautflasche.1550-1600. Desgleichen. Desgleichen. Um 1700. Patronenhulsen. 17. Jahrhundert. IV. Arbeiten in Eisen. 136 Gotisches Schloss. Anfang des 15. Gotisches Kistenschloss. Um 1450. Gotisches Schloss.14601480. Gotisches Tur- oder Torschloss. 1460-1480. Gotisches Kastenschloss. Ende des 15. Hangeschloss.1530-1580. Einfaches Kistenschloss. Mitte des Kistenschloss. Ende des 16. Jahrhunderts. des 16. Jahrhunderts. Kistenschloss mitSchlussel. Um 1600. Zwei Kugelschlosser mit Schlussel. 17. Jahrhundert. Eingericht eines Schlosses mit dem   | Kaufer   | Preis   |,203,99.6,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,Sec. XVII
 BO0624_87696,435195,122,134,|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |          |         |,204,100.0,False,positional,,,Schutzwaffen,,
 BO0624_87696,435196,123,135,|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |          |         |,205,0.0,False,positional,,,Schutzwaffen,,
 BO0624_87696,435197,124,138,|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |          |         |,206,0.0,False,positional,,,Schutzwaffen,,
 BO0624_87696,435198,125,139,|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |          |         |,207,0.0,False,positional,,,Schutzwaffen,,
 BO0624_87696,435199,126,140,| Jahrhunderts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |          |         |,210,85.7,False,positional,,Scuola di Antwerp,OGGETTI IN RAME,,
 BO0624_87696,435200,127,141,|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |          |         |,211,0.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435201,128,142,| 16. Jahrhunderts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |          |         |,212,88.2,False,positional,,Scuola di Antwerp,OGGETTI IN RAME,,
+BO0624_87696,435201,128,142,| 16. Jahrhunderts.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |          |         |,212,88.2,False,positional,,Scuola di Antwerp,OGGETTI IN RAME,,Sec. XVI
 BO0624_87696,435202,129,143,|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |          |         |,213,0.0,False,positional,,,Schutzwaffen,,
 BO0624_87696,435203,130,144,| Miniaturschrankschlosschen. Ende                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |          |         |,214,93.9,False,positional,,,Schutzwaffen,,
 BO0624_87696,435204,131,145,|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |          |         |,215,0.0,False,positional,,,Schutzwaffen,,
 BO0624_87696,435205,132,146,|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |          |         |,216,0.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435206,133,147,| dazu passenden Hohlschlussel. 17. Jahrbundert.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |          |         |,217,95.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435207,134,148,| Eingericht mit Schlussel. Ende des 17. Jahrhunderts.              |          |         |,220,96.1,False,positional,,,SCATOLE,,
-BO0624_87696,435208,135,149,| Gotisches Ornament als oberer An- satz eines Schlosses.1450-1500. |          |         |,221,96.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435209,136,150,| Uberlage eines Kistenschlosses. 1450-1500.                        |          |         |,222,95.2,False,positional,,,Schutzwaffen,,
+BO0624_87696,435206,133,147,| dazu passenden Hohlschlussel. 17. Jahrbundert.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |          |         |,217,95.6,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435207,134,148,| Eingericht mit Schlussel. Ende des 17. Jahrhunderts.              |          |         |,220,96.1,False,positional,,,SCATOLE,,Sec. XVII
+BO0624_87696,435208,135,149,| Gotisches Ornament als oberer An- satz eines Schlosses.1450-1500. |          |         |,221,96.9,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435209,136,150,| Uberlage eines Kistenschlosses. 1450-1500.                        |          |         |,222,95.2,False,positional,,,Schutzwaffen,,Sec. XV
 BO0624_87696,435210,137,151,| Desgleichen.                                                      |          | 730     |,223,88.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435211,138,152,| Schlossblechplatte. Ende des 15. Jahr- hunderts.                  |          |         |,224,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435212,139,153,| Desgleichen.1500-1550.                                            |          |         |,225,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435213,140,154,| Schlossblech einerKiste.1580-1600.                                |          |         |,226,94.3,False,positional,,,Schutzwaffen,,
+BO0624_87696,435211,138,152,| Schlossblechplatte. Ende des 15. Jahr- hunderts.                  |          |         |,224,95.7,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435212,139,153,| Desgleichen.1500-1550.                                            |          |         |,225,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435213,140,154,| Schlossblech einerKiste.1580-1600.                                |          |         |,226,94.3,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435214,141,155,| Teil eines Schlossbleches. Um1680.                                |          |         |,227,94.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435215,142,156,| Schlussellochschild. Um 1700.                                     |          |         |,228,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435216,143,157,| Desgleichen.1720-1750.                                            |          |         |,229,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435217,144,158,| Desgleichen.Um 1750.                                              |          |         |,230,90.5,False,positional,,,Schutzwaffen,,
+BO0624_87696,435215,142,156,| Schlussellochschild. Um 1700.                                     |          |         |,228,93.1,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435216,143,157,| Desgleichen.1720-1750.                                            |          |         |,229,91.3,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435217,144,158,| Desgleichen.Um 1750.                                              |          |         |,230,90.5,False,positional,,,Schutzwaffen,,Sec. XVIII
 BO0624_87696,435218,145,159,| Eine Sammlunng von 3o Schlusseln aus dem 11. bis 18.Jahrhundert.  |          |         |,231,96.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435219,146,160,| Turklopfermit Rucklage.1500-1520.                                 |          |         |,232,94.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435220,147,161,| Desgleichen.1580-1620.                                            |          |         |,233,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435221,148,162,| Desgleichen.1580.-1620.                                           |          |         |,234,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435222,149,163,| Desgleichen. 17. Jahrhundert.                                     |          |         |,235,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435223,150,164,| Beweglicher Turgriff mit Rucklage. 1450-1500.                     |          |         |,236,95.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435224,151,165,| Turgriff oder Beizieher. 1474.                                    |          |         |,237,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435225,152,166,| Desgleichen. Ende des 15. Jahrhunderts.                           |          |         |,238,94.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435219,146,160,| Turklopfermit Rucklage.1500-1520.                                 |          |         |,232,94.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435220,147,161,| Desgleichen.1580-1620.                                            |          |         |,233,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435221,148,162,| Desgleichen.1580.-1620.                                           |          |         |,234,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435222,149,163,| Desgleichen. 17. Jahrhundert.                                     |          |         |,235,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435223,150,164,| Beweglicher Turgriff mit Rucklage. 1450-1500.                     |          |         |,236,95.6,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435224,151,165,| Turgriff oder Beizieher. 1474.                                    |          |         |,237,93.3,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435225,152,166,| Desgleichen. Ende des 15. Jahrhunderts.                           |          |         |,238,94.7,False,positional,,,Schutzwaffen,,Sec. XV
 BO0624_87696,435226,153,167,| Desgieichen.                                                      |          |         |,239,84.6,False,positional,,,Schutzwaffen,,
 BO0624_87696,435227,154,168,| Desgleichen.                                                      |          |         |,240,84.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435228,155,169,| Turgriff oder Beizieher. Ende des 15. Jahrhunderts.             |          |         |,245,96.0,False,positional,,,Schutzwaffen,,
+BO0624_87696,435228,155,169,| Turgriff oder Beizieher. Ende des 15. Jahrhunderts.             |          |         |,245,96.0,False,positional,,,Schutzwaffen,,Sec. XV
 BO0624_87696,435229,156,170,| Desgleichen.                                                    |          |         |,246,84.6,False,positional,,,Schutzwaffen,,
 BO0624_87696,435230,157,171,| Desgleichen. Anfang des 17.Jahrhunderts.                        |          |         |,247,95.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435231,158,172,| Desgleichen. Um 1650.                                           |          |         |,248,90.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435232,159,173,| Rucklage eines Turklopfers. 1450-1500.                          |          |         |,249,94.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435231,158,172,| Desgleichen. Um 1650.                                           |          |         |,248,90.5,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435232,159,173,| Rucklage eines Turklopfers. 1450-1500.                          |          |         |,249,94.7,False,positional,,,Schutzwaffen,,Sec. XV
 BO0624_87696,435233,160,174,| Desgleichen.                                                    |          |         |,250,84.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435234,161,175,| Desgleichen.1474.                                               |          |         |,251,88.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435235,162,176,| Turgriff mit dazu gehoriger Rosette. Ende des 15. Jahrhunderts. |          |         |,252,96.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435236,163,177,| Griff einer Schrankture. Um 1450.                               |          |         |,253,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435237,164,178,| Griff mit Rosette fur ein Schrank- turchen.Um 1450.             |          |         |,254,96.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435238,165,179,| Schrankturhenkel mit Rucklage. 1550—1600.                       |          |         |,255,95.1,False,positional,,,Schutzwaffen,,
+BO0624_87696,435234,161,175,| Desgleichen.1474.                                               |          |         |,251,88.9,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435235,162,176,| Turgriff mit dazu gehoriger Rosette. Ende des 15. Jahrhunderts. |          |         |,252,96.8,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435236,163,177,| Griff einer Schrankture. Um 1450.                               |          |         |,253,93.9,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435237,164,178,| Griff mit Rosette fur ein Schrank- turchen.Um 1450.             |          |         |,254,96.1,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435238,165,179,| Schrankturhenkel mit Rucklage. 1550—1600.                       |          |         |,255,95.1,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435239,166,180,| Griff einer Schran ktire. Anfang des 17.Jahrhunderts.           |          |         |,256,96.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435240,167,181,| Schranktirhenkel mit Rucklage. Anfang des 17. Jahrhunderts.     |          |         |,257,96.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435241,168,182,| Schrankhenkel. Anfang des 17. Jahr- hunderts.                   |          |         |,258,95.3,False,positional,,,Schutzwaffen,,
+BO0624_87696,435240,167,181,| Schranktirhenkel mit Rucklage. Anfang des 17. Jahrhunderts.     |          |         |,257,96.6,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435241,168,182,| Schrankhenkel. Anfang des 17. Jahr- hunderts.                   |          |         |,258,95.3,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435242,169,183,| Schrankturhenkel mit Rucklage. 17.Jahrhundert.                  |          |         |,259,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435243,170,184,| Kastenhenkel. 17. Jahrhundert.                                  |          |         |,260,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435244,171,185,| Gotisches Schrankbesohlag.1450-1500.                            |          |         |,261,94.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435245,172,186,| Blattwerk von Torbeschlagen. 1450-1500.                         |          |         |,262,94.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435246,173,187,| Eisenband einer Schrankture. 1450-1500.                                                  |          |         |,265,94.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435247,174,188,| Auslauf eines Turbeschlages. 1450-1500.                                                  |          |         |,266,94.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435248,175,189,| Sc ha rnier. Ende des 16. Jahrhunderts.                                                  |          |         |,267,94.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435249,176,190,| Zwei gleiche Bander fur Schrank- turen.Um 1750.                                          |          |         |,268,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435250,177,191,| Bugel zum Durchziehen eines Quer- balkens an einem Haustor. Anfang des 16. Jahrhunderts. |          |         |,269,97.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435251,178,192,| Fensterriegel oder Reiber. Ende des 16. Jahrhunderts.                                    |          |         |,270,96.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435252,179,193,| Zwei Fensterreiber. 17. Jahrhundert.                                                     |          |         |,271,94.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435253,180,194,| Schraubenkopf. Anfang des 17. Jahr- hunderts.                                            |          |         |,272,95.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435254,181,195,| Schraubenkopf in Form einer Rose. Anfang des 17. Jahrhunderts.                           |          |         |,273,96.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435255,182,196,| Vier kleine Schraubenkopfe. 17. Jahr- hundert.                                           |          |         |,274,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435256,183,197,| Gotische Krabbe.1450-1500.                                                               |          |         |,275,92.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435257,184,198,| Kronenartiges Gehause einer Glocke. Ende des 15. Jahrhunderts.                           |          |         |,276,96.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435258,185,199,| Gotische Rosette. Ende des 15. Jahr- hunderts.                                           |          |         |,277,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435259,186,200,| Vierkantige Rosette. Ende des 15. Jahrhunderts.                                          |          |         |,278,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435260,187,201,| Gotische Rosette. Um 1500.                                                               |          |         |,279,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435261,188,202,| Rosette.Um 1550.                                                                         |          |         |,280,88.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435262,189,203,| Zwei Rosetten.1580-1620.                                                                 |          |         |,281,92.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435263,190,205,| Blattwerk. Ende des 17. Jahrhunderts.                                 |          |         |       |,285,94.4,False,positional,,,Schutzwaffen,,
-BO0624_87696,435264,191,206,| Freistehende Blume. 1600-1620.                                        |          |         | 22    |,286,93.9,False,positional,,,Schutzwaffen,,
+BO0624_87696,435243,170,184,| Kastenhenkel. 17. Jahrhundert.                                  |          |         |,260,93.1,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435244,171,185,| Gotisches Schrankbesohlag.1450-1500.                            |          |         |,261,94.6,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435245,172,186,| Blattwerk von Torbeschlagen. 1450-1500.                         |          |         |,262,94.9,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435246,173,187,| Eisenband einer Schrankture. 1450-1500.                                                  |          |         |,265,94.9,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435247,174,188,| Auslauf eines Turbeschlages. 1450-1500.                                                  |          |         |,266,94.9,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435248,175,189,| Sc ha rnier. Ende des 16. Jahrhunderts.                                                  |          |         |,267,94.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435249,176,190,| Zwei gleiche Bander fur Schrank- turen.Um 1750.                                          |          |         |,268,95.7,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435250,177,191,| Bugel zum Durchziehen eines Quer- balkens an einem Haustor. Anfang des 16. Jahrhunderts. |          |         |,269,97.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435251,178,192,| Fensterriegel oder Reiber. Ende des 16. Jahrhunderts.                                    |          |         |,270,96.2,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435252,179,193,| Zwei Fensterreiber. 17. Jahrhundert.                                                     |          |         |,271,94.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435253,180,194,| Schraubenkopf. Anfang des 17. Jahr- hunderts.                                            |          |         |,272,95.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435254,181,195,| Schraubenkopf in Form einer Rose. Anfang des 17. Jahrhunderts.                           |          |         |,273,96.7,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435255,182,196,| Vier kleine Schraubenkopfe. 17. Jahr- hundert.                                           |          |         |,274,95.5,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435256,183,197,| Gotische Krabbe.1450-1500.                                                               |          |         |,275,92.6,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435257,184,198,| Kronenartiges Gehause einer Glocke. Ende des 15. Jahrhunderts.                           |          |         |,276,96.7,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435258,185,199,| Gotische Rosette. Ende des 15. Jahr- hunderts.                                           |          |         |,277,95.5,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435259,186,200,| Vierkantige Rosette. Ende des 15. Jahrhunderts.                                          |          |         |,278,95.7,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435260,187,201,| Gotische Rosette. Um 1500.                                                               |          |         |,279,92.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435261,188,202,| Rosette.Um 1550.                                                                         |          |         |,280,88.2,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435262,189,203,| Zwei Rosetten.1580-1620.                                                                 |          |         |,281,92.0,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435263,190,205,| Blattwerk. Ende des 17. Jahrhunderts.                                 |          |         |       |,285,94.4,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435264,191,206,| Freistehende Blume. 1600-1620.                                        |          |         | 22    |,286,93.9,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435265,192,207,| Desgleichen.                                                          |          |         | 22    |,287,87.5,False,positional,,,Schutzwaffen,,
 BO0624_87696,435266,193,208,| Desgleichen.                                                          |          |         | 22    |,288,87.5,False,positional,,,Schutzwaffen,,
 BO0624_87696,435267,194,209,| Ros e.16. Jahrhundert.                                                |          |         | 22    |,289,92.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435268,195,210,| Schwertknauf.1550--1580.                                              |          |         | 22    |,290,92.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435269,196,211,| Petschaft. Ende des 17. Jahrhunderts.                                 |          |         | 22    |,291,94.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435270,197,212,| Geatztes Kastchen.1550-1600.                                          |          |         |       |,292,93.1,False,positional,,,SCATOLE,,
-BO0624_87696,435271,198,213,| Bemaltes Kastchen.1600-1620.                                          |          |         |       |,293,93.1,False,positional,,,SCATOLE,,
+BO0624_87696,435268,195,210,| Schwertknauf.1550--1580.                                              |          |         | 22    |,290,92.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435269,196,211,| Petschaft. Ende des 17. Jahrhunderts.                                 |          |         | 22    |,291,94.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435270,197,212,| Geatztes Kastchen.1550-1600.                                          |          |         |       |,292,93.1,False,positional,,,SCATOLE,,Sec. XVI
+BO0624_87696,435271,198,213,| Bemaltes Kastchen.1600-1620.                                          |          |         |       |,293,93.1,False,positional,,,SCATOLE,,Sec. XVII
 BO0624_87696,435272,199,214,| Grubenschmelz. 1l. Jahrhundert.                                       |          |         | 23    |,295,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435273,200,215,| Vortragkreuz. 12. Jahrhundert.                                        |          |         | 23    |,296,93.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435274,201,216,| Vorderdeckel eines Evangeliars. Ita- lienische Arbeit Um 1300.        |          |         | 23    |,297,96.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435275,202,217,| Knopf einer Stange eines Vortrag- kreuzes. 14. Jahrhundert.           |          |         | 23 23 |,298,96.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435276,203,218,| Bruchstuckeiner Monstranz.1400-1450.                                  |          |         | 23    |,299,95.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435277,204,219,| Gotisches Blattwerk. 1400-1450.                                       |          |         | 23    |,300,94.1,False,positional,,,Schutzwaffen,,
+BO0624_87696,435273,200,215,| Vortragkreuz. 12. Jahrhundert.                                        |          |         | 23    |,296,93.8,False,positional,,,Schutzwaffen,,Sec. XII
+BO0624_87696,435274,201,216,| Vorderdeckel eines Evangeliars. Ita- lienische Arbeit Um 1300.        |          |         | 23    |,297,96.9,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435275,202,217,| Knopf einer Stange eines Vortrag- kreuzes. 14. Jahrhundert.           |          |         | 23 23 |,298,96.8,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435276,203,218,| Bruchstuckeiner Monstranz.1400-1450.                                  |          |         | 23    |,299,95.0,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435277,204,219,| Gotisches Blattwerk. 1400-1450.                                       |          |         | 23    |,300,94.1,False,positional,,,Schutzwaffen,,Sec. XV
 BO0624_87696,435278,205,220,| Die vier Evangelisten mit ihren                                       |          |         | 23    |,301,94.4,False,positional,,,Schutzwaffen,,
-BO0624_87696,435279,206,221,| Sym bolen. Ende des 15. Jahrhunderts. Altarleuchter. 15. Jahrhundert. |          |         | 24 24 |,302,97.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435280,207,223,| Weibliche Herme. Anfang des 17. Jahr- hunderts.     |          |         |,306,95.6,False,positional,,,Schutzwaffen,,
+BO0624_87696,435279,206,221,| Sym bolen. Ende des 15. Jahrhunderts. Altarleuchter. 15. Jahrhundert. |          |         | 24 24 |,302,97.2,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435280,207,223,| Weibliche Herme. Anfang des 17. Jahr- hunderts.     |          |         |,306,95.6,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435281,208,224,| Statuette einer Flora. 17.Jahrhundert.              |          |         |,307,94.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435282,209,225,| Loffel. Anfang des 16. Jahrhunderts.                |          |         |,308,94.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435283,210,226,| Desgleichen.1550-1600.                              |          |         |,309,91.3,False,positional,,,Schutzwaffen,,
+BO0624_87696,435282,209,225,| Loffel. Anfang des 16. Jahrhunderts.                |          |         |,308,94.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435283,210,226,| Desgleichen.1550-1600.                              |          |         |,309,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435284,211,227,| Desgleichen.17. Jahrhundert.                        |          |         |,310,92.9,False,positional,,,Schutzwaffen,,
 BO0624_87696,435285,212,228,| Uhrplatte.17. Jahrhundert.                          |          |         |,311,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435286,213,229,| Pokal in Traubenform.1549.                          |          |         |,312,92.6,False,positional,,,Schutzwaffen,,
+BO0624_87696,435286,213,229,| Pokal in Traubenform.1549.                          |          |         |,312,92.6,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435287,214,230,| Zwei gleiche Gewandnadeln. (Fibeln.) 8.Jahrhundert. |          |         |,314,95.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435288,215,231,| Zwei Knopfe von Bergkrystall. 12. Jahrhundert.      |          |         |,315,95.6,False,positional,,,OGGETTI VARI,,
+BO0624_87696,435288,215,231,| Zwei Knopfe von Bergkrystall. 12. Jahrhundert.      |          |         |,315,95.6,False,positional,,,OGGETTI VARI,,Sec. XII
 BO0624_87696,435289,216,232,| Amule t. 14.Jahrhundert.                            |          |         |,316,91.7,False,positional,,,Schutzwaffen,,
 BO0624_87696,435290,217,233,| Funf Knopfe.15. Jahrhundert.                        |          |         |,317,92.9,False,positional,,,OGGETTI VARI,,
-BO0624_87696,435291,218,234,| Anhanger. 15. Jahrhundert.                          |          |         |,318,92.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435292,219,235,| Desgleichen.Um 1500.                                |          |         |,319,90.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435293,220,236,| Des gleichen. Anfang des 16. Jahrhunderts.          |          |         |,320,95.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435294,221,237,| Desgleichen. Um 1540.                               |          |         |,321,90.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435295,222,238,| Desgleichen. 1550-1580.                             |          |         |,322,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435296,223,239,| Desgleichen. 16. Jahrhundert.                       |          |         |,323,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435297,224,240,| Desgleichen. 16. Jahrhundert.                       |          |         |,324,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435298,225,241,| Desgleichen. 16. Jahrhundert.                       |          |         |,325,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435299,226,242,| Desgleichen. 16. Jahrhundert.                       |          |         |,326,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435300,227,244,| Des gleichen. 16. Jahrhundert.                                              |          |         |,330,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435301,228,245,| Desgleichen. 17. Jahrhundert.                                               |          |         |,331,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435302,229,246,| Desgleichen. 17. Jahrhundert.                                               |          |         |,332,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435303,230,247,| Desgleichen. 17. Jahrhundert.                                               |          |         |,333,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435304,231,248,| Desgleic hen. 17. Jahrhundert.                                              |          |         |,334,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435305,232,249,| Desgleichen. 17. Jahrhundert.                                               |          |         |,335,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435306,233,250,| Desgleic hen. 17. Jahrhundert.                                              |          |         |,336,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435307,234,251,| Desgleic hen. 17. Jahrhundert.                                              |          |         |,337,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435308,235,252,| De sgleichen. 17. Jahrhundert.                                              |          |         |,338,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435309,236,253,| Des g leiehen. (Amulet fur zahnende Kinder.) 17. Jahrhundert.               |          |         |,339,96.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435310,237,254,| Desgleichen. 17. Jahrhundert.                                               |          |         |,340,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435311,238,255,| Desgleichen. 17. Jahrhundert.                                               |          |         |,341,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435312,239,256,| Desgleichen. 17. Jahrhundert.                                               |          |         |,342,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435313,240,257,| Desgleichen. 17. Jahrhundert.                                               |          |         |,343,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435314,241,258,| Miederanhanger. 17. Jahrhundert.                                            |          |         |,344,93.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435315,242,259,| Jagdanhanger. 17. Jahrhurdert.                                              |          |         |,345,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435316,243,260,| Biberzahn als Jagdschmuck. 17. Jahr- hundert.                               |          |         |,346,95.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435317,244,261,| Geschwungene Jagdpfeife als An h ang er. Zweite Haifte des 17. Jahrhunderts |          |         |,347,97.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435318,245,262,| Pulverhornchen zum Zundkraut als Anhanger. Ende des 16. Jahrhunderts.       |          |         |,348,97.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435319,246,263,| Anhanger.1718.                                                              |          |         |,349,86.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435291,218,234,| Anhanger. 15. Jahrhundert.                          |          |         |,318,92.0,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435292,219,235,| Desgleichen.Um 1500.                                |          |         |,319,90.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435293,220,236,| Des gleichen. Anfang des 16. Jahrhunderts.          |          |         |,320,95.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435294,221,237,| Desgleichen. Um 1540.                               |          |         |,321,90.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435295,222,238,| Desgleichen. 1550-1580.                             |          |         |,322,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435296,223,239,| Desgleichen. 16. Jahrhundert.                       |          |         |,323,92.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435297,224,240,| Desgleichen. 16. Jahrhundert.                       |          |         |,324,92.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435298,225,241,| Desgleichen. 16. Jahrhundert.                       |          |         |,325,92.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435299,226,242,| Desgleichen. 16. Jahrhundert.                       |          |         |,326,92.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435300,227,244,| Des gleichen. 16. Jahrhundert.                                              |          |         |,330,93.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435301,228,245,| Desgleichen. 17. Jahrhundert.                                               |          |         |,331,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435302,229,246,| Desgleichen. 17. Jahrhundert.                                               |          |         |,332,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435303,230,247,| Desgleichen. 17. Jahrhundert.                                               |          |         |,333,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435304,231,248,| Desgleic hen. 17. Jahrhundert.                                              |          |         |,334,93.1,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435305,232,249,| Desgleichen. 17. Jahrhundert.                                               |          |         |,335,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435306,233,250,| Desgleic hen. 17. Jahrhundert.                                              |          |         |,336,93.1,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435307,234,251,| Desgleic hen. 17. Jahrhundert.                                              |          |         |,337,93.1,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435308,235,252,| De sgleichen. 17. Jahrhundert.                                              |          |         |,338,93.1,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435309,236,253,| Des g leiehen. (Amulet fur zahnende Kinder.) 17. Jahrhundert.               |          |         |,339,96.5,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435310,237,254,| Desgleichen. 17. Jahrhundert.                                               |          |         |,340,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435311,238,255,| Desgleichen. 17. Jahrhundert.                                               |          |         |,341,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435312,239,256,| Desgleichen. 17. Jahrhundert.                                               |          |         |,342,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435313,240,257,| Desgleichen. 17. Jahrhundert.                                               |          |         |,343,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435314,241,258,| Miederanhanger. 17. Jahrhundert.                                            |          |         |,344,93.5,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435315,242,259,| Jagdanhanger. 17. Jahrhurdert.                                              |          |         |,345,93.1,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435316,243,260,| Biberzahn als Jagdschmuck. 17. Jahr- hundert.                               |          |         |,346,95.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435317,244,261,| Geschwungene Jagdpfeife als An h ang er. Zweite Haifte des 17. Jahrhunderts |          |         |,347,97.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435318,245,262,| Pulverhornchen zum Zundkraut als Anhanger. Ende des 16. Jahrhunderts.       |          |         |,348,97.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435319,246,263,| Anhanger.1718.                                                              |          |         |,349,86.7,False,positional,,,Schutzwaffen,,Sec. XVIII
 BO0624_87696,435320,247,264,| Desgleichen.18. Jahrhundert.                                                |          |         |,350,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435321,248,265,| Anhanger 18. Jahrhundert.                      |          |         |,353,92.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435322,249,266,| Kaurimuschel (0tterkopfchen). 18. Jahrhundert. |          |         |,354,95.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435323,250,267,| Reliquienanhanger. 18. Jahrhundert.            |          |         |,355,94.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435324,251,268,| Doppelkreuz. 18. Jahrhundert.                  |          |         |,356,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435325,252,269,| Ring. 1490-1520.                               |          |         |,357,87.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435326,253,270,| Desgleichen.1510-1530.                         |          |         |,358,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435327,254,271,| Desgleichen. 17. Jahrhundert.                  |          |         |,359,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435328,255,272,| Desgleichen. 17. Jahrhundert.                  |          |         |,360,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435329,256,273,| Desgleichen. 17. Jahrhundert.                  |          |         |,361,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435330,257,274,| Desgleichen. 17. Jahrhundert.                  |          |         |,362,92.9,False,positional,,,Schutzwaffen,,
+BO0624_87696,435321,248,265,| Anhanger 18. Jahrhundert.                      |          |         |,353,92.0,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435322,249,266,| Kaurimuschel (0tterkopfchen). 18. Jahrhundert. |          |         |,354,95.3,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435323,250,267,| Reliquienanhanger. 18. Jahrhundert.            |          |         |,355,94.1,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435324,251,268,| Doppelkreuz. 18. Jahrhundert.                  |          |         |,356,92.9,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435325,252,269,| Ring. 1490-1520.                               |          |         |,357,87.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435326,253,270,| Desgleichen.1510-1530.                         |          |         |,358,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435327,254,271,| Desgleichen. 17. Jahrhundert.                  |          |         |,359,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435328,255,272,| Desgleichen. 17. Jahrhundert.                  |          |         |,360,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435329,256,273,| Desgleichen. 17. Jahrhundert.                  |          |         |,361,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435330,257,274,| Desgleichen. 17. Jahrhundert.                  |          |         |,362,92.9,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435331,258,275,| Desg leichen. 17.Jahrhundert.                  |          |         |,363,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435332,259,276,| Ovale Kapsel. Um 1550.                         |          |         |,364,90.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435333,260,277,| Gurtelschnalle. 16. Jahrhundert.               |          |         |,365,93.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435334,261,278,| Desgleichen. 16. Jahrhundert.                  |          |         |,366,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435335,262,279,| Riechbuchslein. 16. Jahrhundert.               |          |         |,367,93.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435336,263,280,| Desgleichen. 17. Jahrhundert.                  |          |         |,369,100.0,False,positional,,,Schutzwaffen,,
+BO0624_87696,435332,259,276,| Ovale Kapsel. Um 1550.                         |          |         |,364,90.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435333,260,277,| Gurtelschnalle. 16. Jahrhundert.               |          |         |,365,93.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435334,261,278,| Desgleichen. 16. Jahrhundert.                  |          |         |,366,92.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435335,262,279,| Riechbuchslein. 16. Jahrhundert.               |          |         |,367,93.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435336,263,280,| Desgleichen. 17. Jahrhundert.                  |          |         |,369,100.0,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435337,264,282,|                                                |          |         |,370,0.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435338,265,283,| Desgleichen. 18. Jahrhundert.                  |          |         |,371,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435339,266,284,| Filigran kreuz. 18. Jahrhundert.               |          |         |,372,93.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435340,267,285,| Zwei Filigranknopfe. 18. Jahrhundert.          |          |         |,373,94.4,False,positional,,,Schutzwaffen,,
-BO0624_87696,435341,268,286,| Filigran-0hrring. 18. Jahrhundert.             |          |         |,374,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435342,269,287,| Filigranrahmchen. 18. Jahrhundert.             |          |         |,375,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435343,270,288,| Vier Dukaten-Buchslein. 18. Jahrh.             |          |         |,376,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435344,271,289,| Sechs Schlusselhacken von Bronze. 15. und 17. Jahrhundert.                      |          |         |,379,96.4,False,positional,,,Schutzwaffen,,
-BO0624_87696,435345,272,290,| Halskette. Um 1520.                                                             |          |         |,380,89.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435346,273,292,| Stuck einer Gurtelkette. 16. Jahrh.                                             |          |         |,381,94.1,False,positional,STUCK FRANZ VON,,Schutzwaffen,,
-BO0624_87696,435347,274,293,| Riemenbe schlag. Ende des 16. Jahrh.                                            |          |         |,382,94.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435348,275,294,| Messergehange mit Messer und Stahl. Ende des 16. Jahrhunderts.                  |          |         |,383,96.7,False,positional,,,OGGETTI IN METALLO,,
-BO0624_87696,435349,276,295,| Gurtel mit Messerbesteck in einem Kocher. Erstes Drittel des 17. Jahrh.         |          |         |,384,97.1,False,positional,,,Schutzwaffen,,
+BO0624_87696,435338,265,283,| Desgleichen. 18. Jahrhundert.                  |          |         |,371,92.9,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435339,266,284,| Filigran kreuz. 18. Jahrhundert.               |          |         |,372,93.5,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435340,267,285,| Zwei Filigranknopfe. 18. Jahrhundert.          |          |         |,373,94.4,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435341,268,286,| Filigran-0hrring. 18. Jahrhundert.             |          |         |,374,93.9,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435342,269,287,| Filigranrahmchen. 18. Jahrhundert.             |          |         |,375,93.9,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435343,270,288,| Vier Dukaten-Buchslein. 18. Jahrh.             |          |         |,376,93.9,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435344,271,289,| Sechs Schlusselhacken von Bronze. 15. und 17. Jahrhundert.                      |          |         |,379,96.4,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435345,272,290,| Halskette. Um 1520.                                                             |          |         |,380,89.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435346,273,292,| Stuck einer Gurtelkette. 16. Jahrh.                                             |          |         |,381,94.1,False,positional,STUCK FRANZ VON,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435347,274,293,| Riemenbe schlag. Ende des 16. Jahrh.                                            |          |         |,382,94.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435348,275,294,| Messergehange mit Messer und Stahl. Ende des 16. Jahrhunderts.                  |          |         |,383,96.7,False,positional,,,OGGETTI IN METALLO,,Sec. XVI
+BO0624_87696,435349,276,295,| Gurtel mit Messerbesteck in einem Kocher. Erstes Drittel des 17. Jahrh.         |          |         |,384,97.1,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435350,277,296,| Des gleic hen. Erstes Drittel des 17.Jahrh.                                     |          |         |,385,95.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435351,278,297,| Gurtel mit Kocher. Ende des 17. Jahrh.                                          |          |         |,386,94.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435352,279,298,| Desgleichen. Ende des 17. Jahrhunderts.                                         |          |         |,387,94.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435353,280,299,| Gurtelkette fur ein Frauenbesteck. 17. Jahrhundert.                             |          |         |,388,96.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435354,281,300,| Stuck einer Gurtelkette mit Bugel zum Einhangen in die Tasche. 17. Jahrhundert. |          |         |,389,97.4,False,positional,STUCK FRANZ VON,,Schutzwaffen,,
-BO0624_87696,435355,282,301,| Gurtelkette. Ende des 17. Jahrhunderts.                                         |          |         |,390,94.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435351,278,297,| Gurtel mit Kocher. Ende des 17. Jahrh.                                          |          |         |,386,94.6,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435352,279,298,| Desgleichen. Ende des 17. Jahrhunderts.                                         |          |         |,387,94.7,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435353,280,299,| Gurtelkette fur ein Frauenbesteck. 17. Jahrhundert.                             |          |         |,388,96.0,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435354,281,300,| Stuck einer Gurtelkette mit Bugel zum Einhangen in die Tasche. 17. Jahrhundert. |          |         |,389,97.4,False,positional,STUCK FRANZ VON,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435355,282,301,| Gurtelkette. Ende des 17. Jahrhunderts.                                         |          |         |,390,94.7,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435356,283,302,| Desgleichen. 17.Jahrhundert.                                                    |          |         |,391,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435357,284,303,| Breitere Gurtelkette. Ende des 17. Jahrhunderts.                                |          |         |,392,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435358,285,304,| Gurtel mit Messerbesteck in einem Kocher. Um 1700.                              |          |         |,393,96.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435359,286,305,| Kocher mit Messerbesteck. Um 1700.                                              |          |         |,394,94.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435360,287,306,| Eisenornament. 1700-1750.                                                       |          |         |,395,92.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435361,288,308,| Elfenbeintafel. 1300-1350.                                   |          |         |,398,92.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435362,289,309,| Desgleiehen. 1380-1400.                                      |          |         |,399,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435363,290,310,| Die heilige Jungfrau mit dem Kinde. Um 1400.                 |          |         |,400,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435364,291,311,| Zwei Balkentrager von Hausvor- sprungen.1400-1420.           |          |         |,401,96.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435365,292,312,| Maria mit dem Kinde auf dem Halb- mond stehend.1400-1450:    |          |         |,402,96.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435366,293,313,| Johannes der Taufer. 1400-1500.                              |          |         |,403,93.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435367,294,314,| Der heilige Sebastian.(?) 1400-1420.                         |          |         |,404,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435368,295,315,"| Kaiser Heinrich ll., der Heilige. 1400-—1420.                |          |         |",405,95.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435369,296,316,| Bekronung eines Altarbildes. 1400-1420.                      |          |         |,406,94.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435370,297,317,| Ein Papst. Um 1450.                                          |          |         |,407,89.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435371,298,318,| Maria mit dem Kinde. Um 1450.                                |          |         |,408,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435372,299,319,| Die heilige Margaretha. Um 1450.                             |          |         |,409,93.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435373,300,320,| Ein Bischof. Um 1450.                                        |          |         |,410,90.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435374,301,321,| Die heilige Elisabeth von Thuringen. Um 1450.                |          |         |,411,95.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435375,302,322,| Der heilige Nikolaus. 1450-1500.                             |          |         |,412,93.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435376,303,323,| Huftbildnis eines Bildhauers. Um 1480.                       |          |         |,413,94.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435377,304,324,| Die heilige Jungfrau. 1480-1500. Von Tilman Riemenschneider. |          |         |,414,96.6,False,positional,,,Schutzwaffen,,
+BO0624_87696,435357,284,303,| Breitere Gurtelkette. Ende des 17. Jahrhunderts.                                |          |         |,392,95.7,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435358,285,304,| Gurtel mit Messerbesteck in einem Kocher. Um 1700.                              |          |         |,393,96.0,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435359,286,305,| Kocher mit Messerbesteck. Um 1700.                                              |          |         |,394,94.1,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435360,287,306,| Eisenornament. 1700-1750.                                                       |          |         |,395,92.0,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435361,288,308,| Elfenbeintafel. 1300-1350.                                   |          |         |,398,92.3,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435362,289,309,| Desgleiehen. 1380-1400.                                      |          |         |,399,91.3,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435363,290,310,| Die heilige Jungfrau mit dem Kinde. Um 1400.                 |          |         |,400,95.5,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435364,291,311,| Zwei Balkentrager von Hausvor- sprungen.1400-1420.           |          |         |,401,96.0,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435365,292,312,| Maria mit dem Kinde auf dem Halb- mond stehend.1400-1450:    |          |         |,402,96.5,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435366,293,313,| Johannes der Taufer. 1400-1500.                              |          |         |,403,93.5,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435367,294,314,| Der heilige Sebastian.(?) 1400-1420.                         |          |         |,404,93.9,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435368,295,315,"| Kaiser Heinrich ll., der Heilige. 1400-—1420.                |          |         |",405,95.2,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435369,296,316,| Bekronung eines Altarbildes. 1400-1420.                      |          |         |,406,94.9,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435370,297,317,| Ein Papst. Um 1450.                                          |          |         |,407,89.5,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435371,298,318,| Maria mit dem Kinde. Um 1450.                                |          |         |,408,93.1,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435372,299,319,| Die heilige Margaretha. Um 1450.                             |          |         |,409,93.8,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435373,300,320,| Ein Bischof. Um 1450.                                        |          |         |,410,90.5,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435374,301,321,| Die heilige Elisabeth von Thuringen. Um 1450.                |          |         |,411,95.6,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435375,302,322,| Der heilige Nikolaus. 1450-1500.                             |          |         |,412,93.8,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435376,303,323,| Huftbildnis eines Bildhauers. Um 1480.                       |          |         |,413,94.7,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435377,304,324,| Die heilige Jungfrau. 1480-1500. Von Tilman Riemenschneider. |          |         |,414,96.6,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435378,305,325,"| Der heilige Johannes, der Junger. Ebenso. Ebenso.            |          |         |",415,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435379,306,326,| Die heilige Barbara.1480-1500.                               |          |         |,416,93.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435380,307,328,| Figur eines Landmannes. 1480-1500. Aus einer Gruppe der Anbetung der Hirten.            |          |,420,97.3,False,positional,,,OGGETTI VARI,,
-BO0624_87696,435381,308,329,| Pieta.1480-1500.                                                                        |          |,421,88.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435382,309,330,| Predella eines Hausaltares. 1480-1500.                                                  |          |,422,94.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435383,310,331,| Die heilige Ursula. 1480-1500.                                                          |          |,423,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435384,311,332,| Die heilige Magdalena. 1500-1520.                                                       |          |,424,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435385,312,333,| Kaiser Maximilianl. 1500-1520.                                                          |          |,425,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435386,313,334,| Friesverzierung in derArtundWeise von Heinrich Aldesrever. Um 1530                      |          |,426,97.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435387,314,335,| Lusterweibchen. Um 1530.                                                                |          |,427,91.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435388,315,336,| Lusterweibchen. Um 1530.                                                                |          |,428,91.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435389,316,337,| Die Geburt Christi. 1500-1530.                                                          |          |,429,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435390,317,338,"| Die heilige Elisabeth,Landgrafin von Thuringen. 1500-1550.                              |          |",430,96.6,False,positional,,,Schutzwaffen,,
+BO0624_87696,435379,306,326,| Die heilige Barbara.1480-1500.                               |          |         |,416,93.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435380,307,328,| Figur eines Landmannes. 1480-1500. Aus einer Gruppe der Anbetung der Hirten.            |          |,420,97.3,False,positional,,,OGGETTI VARI,,Sec. XVI
+BO0624_87696,435381,308,329,| Pieta.1480-1500.                                                                        |          |,421,88.2,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435382,309,330,| Predella eines Hausaltares. 1480-1500.                                                  |          |,422,94.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435383,310,331,| Die heilige Ursula. 1480-1500.                                                          |          |,423,93.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435384,311,332,| Die heilige Magdalena. 1500-1520.                                                       |          |,424,93.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435385,312,333,| Kaiser Maximilianl. 1500-1520.                                                          |          |,425,93.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435386,313,334,| Friesverzierung in derArtundWeise von Heinrich Aldesrever. Um 1530                      |          |,426,97.0,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435387,314,335,| Lusterweibchen. Um 1530.                                                                |          |,427,91.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435388,315,336,| Lusterweibchen. Um 1530.                                                                |          |,428,91.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435389,316,337,| Die Geburt Christi. 1500-1530.                                                          |          |,429,93.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435390,317,338,"| Die heilige Elisabeth,Landgrafin von Thuringen. 1500-1550.                              |          |",430,96.6,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435391,318,339,| Die heilige Ursula.Gegenstick zum Vorigen. Ebenso.                                      |          |,431,96.0,False,positional,,,Schutzwaffen,,
 BO0624_87696,435392,319,340,| Der heilige Bartholomaus. Gegenstuick zu den Vorigen. Ebenso.                           |          |,432,96.7,False,positional,,,Schutzwaffen,,
 BO0624_87696,435393,320,341,| Die heilige Barbara. Gegenstick zu den Vorigen. Ebenso.                                 |          |,433,96.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435394,321,342,| Nurnberger Bauernbraut. 1500-1550.                                                      |          |,434,94.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435395,322,343,| Jacobus major. 1550-1600.                                                               |          |,435,92.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435396,323,344,| Wappen einer Schutzengesellschaft. Anfang des 17. Jahrhunderts.                         |          |,436,96.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435397,324,345,| Ein musizierender und ein singender Engel. Von Alonso Cano 1601-1667. Spanische Arbeit. |          |,437,97.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435394,321,342,| Nurnberger Bauernbraut. 1500-1550.                                                      |          |,434,94.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435395,322,343,| Jacobus major. 1550-1600.                                                               |          |,435,92.0,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435396,323,344,| Wappen einer Schutzengesellschaft. Anfang des 17. Jahrhunderts.                         |          |,436,96.8,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435397,324,345,| Ein musizierender und ein singender Engel. Von Alonso Cano 1601-1667. Spanische Arbeit. |          |,437,97.7,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435398,325,346,"| Der heilige Antonius, der Einsidler. 17.Jahrhundert.            |",440,96.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435399,326,347,| Ein phantastischer Fisch und ein Meerweibchen. 17. Jahrhundert. |,442,96.8,False,positional,,,Schutzwaffen,,
+BO0624_87696,435399,326,347,| Ein phantastischer Fisch und ein Meerweibchen. 17. Jahrhundert. |,442,96.8,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435400,327,348,| Wappen der Familie Liebling. 17.Jahrhundert.                    |,443,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435401,328,349,"| Weibliche Figur, eine Naherin. Un 1650—1670.                    |",444,95.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435402,329,350,| Musc hel. Ende des 17. Jahrhunderts.                            |,445,94.3,False,positional,,,Schutzwaffen,,
+BO0624_87696,435401,328,349,"| Weibliche Figur, eine Naherin. Un 1650—1670.                    |",444,95.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435402,329,350,| Musc hel. Ende des 17. Jahrhunderts.                            |,445,94.3,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435403,330,351,| Ornament. Ebenso.                                               |,446,88.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435404,331,352,| Zwei Bilderrahmen.1680-1720.                                    |,447,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435405,332,358,| Hanswurst. Um 1700.                                             |,448,89.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435406,333,354,| Madonna.1700-1750.                                              |,449,89.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435407,334,355,| Ein heiliger Bischof. Um 1750.                                  |,450,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435408,335,356,| Laufer.Um 1750.                                                 |,451,87.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435409,336,357,"| Dame, zum Fenster herausschauend. Um 1750.                      |",452,95.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435410,337,358,| Adam und Eva.1750-1790.                                         |,453,91.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435404,331,352,| Zwei Bilderrahmen.1680-1720.                                    |,447,93.1,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435405,332,358,| Hanswurst. Um 1700.                                             |,448,89.5,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435406,333,354,| Madonna.1700-1750.                                              |,449,89.5,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435407,334,355,| Ein heiliger Bischof. Um 1750.                                  |,450,93.3,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435408,335,356,| Laufer.Um 1750.                                                 |,451,87.5,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435409,336,357,"| Dame, zum Fenster herausschauend. Um 1750.                      |",452,95.1,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435410,337,358,| Adam und Eva.1750-1790.                                         |,453,91.7,False,positional,,,Schutzwaffen,,Sec. XVIII
 BO0624_87696,435411,338,359,| Christus am Kreuze. Ebenso.                                     |,454,92.6,False,positional,,,Schutzwaffen,,
 BO0624_87696,435412,339,360,| Zwei mannliche Figuren. Ebenso.                                 |,455,93.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435413,340,361,| Zwei weibliche Figuren. Um 1790.                                |,456,93.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435414,341,362,| Klavierspielende Dame. 1793.                                    |,457,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435415,342,363,| Die Verkundigung Mariae. 1545. Solenhofener Stein.              |,458,95.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435416,343,364,| Zwei Karyatiden. 1600-1620.                                     |,459,92.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435417,344,365,| Madonna.Um 1500.                                                |,460,88.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435418,345,366,| Weibliche Figur. Um 1750.                                       |,461,92.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435419,346,367,| Gewandfigur (Johannes der Taufer?). 1767.                                    | Gewandfigur (Johannes der Taufer?). 1767.                                    |         |,468,97.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435420,347,369,| Grauer Siegburger Krug. 1500-1540.                                           | Grauer Siegburger Krug. 1500-1540.                                           |         |,469,97.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435421,348,370,| Nassauer Krug. 1600-1620.                                                    | Nassauer Krug. 1600-1620.                                                    |         |,470,95.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435422,349,371,| Creussener Krug. 1600-1650.                                                  | Creussener Krug. 1600-1650.                                                  | 1250    |,471,96.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435423,350,372,| Creussener Apostelkrug. 1666.                                                | Creussener Apostelkrug. 1666.                                                | 2.70    |,472,96.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435424,351,373,| Baldachin mit Fiale.1400-1450.                                               | Baldachin mit Fiale.1400-1450.                                               |         |,473,96.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435413,340,361,| Zwei weibliche Figuren. Um 1790.                                |,456,93.8,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435414,341,362,| Klavierspielende Dame. 1793.                                    |,457,92.9,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435415,342,363,| Die Verkundigung Mariae. 1545. Solenhofener Stein.              |,458,95.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435416,343,364,| Zwei Karyatiden. 1600-1620.                                     |,459,92.6,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435417,344,365,| Madonna.Um 1500.                                                |,460,88.2,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435418,345,366,| Weibliche Figur. Um 1750.                                       |,461,92.0,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435419,346,367,| Gewandfigur (Johannes der Taufer?). 1767.                                    | Gewandfigur (Johannes der Taufer?). 1767.                                    |         |,468,97.3,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435420,347,369,| Grauer Siegburger Krug. 1500-1540.                                           | Grauer Siegburger Krug. 1500-1540.                                           |         |,469,97.0,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435421,348,370,| Nassauer Krug. 1600-1620.                                                    | Nassauer Krug. 1600-1620.                                                    |         |,470,95.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435422,349,371,| Creussener Krug. 1600-1650.                                                  | Creussener Krug. 1600-1650.                                                  | 1250    |,471,96.6,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435423,350,372,| Creussener Apostelkrug. 1666.                                                | Creussener Apostelkrug. 1666.                                                | 2.70    |,472,96.8,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435424,351,373,| Baldachin mit Fiale.1400-1450.                                               | Baldachin mit Fiale.1400-1450.                                               |         |,473,96.7,False,positional,,,Schutzwaffen,,Sec. XV
 BO0624_87696,435425,352,374,| Ofenkachel.                                                                  | Ende des 15.Jahrhunderts.                                                    |         |,474,94.6,False,positional,,,Schutzwaffen,,
 BO0624_87696,435426,353,375,| Desgleichen.                                                                 | Ebenso.                                                                      |         |,475,90.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435427,354,377,| Desgleichen. Um 1530.                                                        | Von Augustin Hirschvogel.                                                    |         |,476,95.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435427,354,377,| Desgleichen. Um 1530.                                                        | Von Augustin Hirschvogel.                                                    |         |,476,95.7,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435428,355,378,| Kachel.                                                                      | Desgleichen. Gegenstuick zu der vorigen                                      |         |,477,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435429,356,379,| Desgleichen.1500-1530.                                                       |                                                                              |         |,478,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435430,357,380,| Desgleichen.1566.                                                            |                                                                              |         |,479,88.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435431,358,381,| Desgleichen.1580~1610.                                                       |                                                                              |         |,480,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435432,359,382,| Desgleichen.1590.-1610.                                                      |                                                                              |         |,481,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435433,360,383,| Desgleichen.1590-1610.                                                       |                                                                              |         |,482,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435434,361,384,| Desgleichen. Um 1620.                                                        |                                                                              |         |,483,90.5,False,positional,,,Schutzwaffen,,
+BO0624_87696,435429,356,379,| Desgleichen.1500-1530.                                                       |                                                                              |         |,478,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435430,357,380,| Desgleichen.1566.                                                            |                                                                              |         |,479,88.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435431,358,381,| Desgleichen.1580~1610.                                                       |                                                                              |         |,480,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435432,359,382,| Desgleichen.1590.-1610.                                                      |                                                                              |         |,481,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435433,360,383,| Desgleichen.1590-1610.                                                       |                                                                              |         |,482,91.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435434,361,384,| Desgleichen. Um 1620.                                                        |                                                                              |         |,483,90.5,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435435,362,385,| Eine Sammlung von 20 Stuck Fliesen. 14. und 15.Jahrhundert.                  | Eine Sammlung von 20 Stuck Fliesen. 14. und 15.Jahrhundert.                  |         |,484,98.3,False,positional,STUCK FRANZ VON,,Schutzwaffen,COLLEZIONE BALDINGER-SEIDENBERG,
-BO0624_87696,435436,363,386,| Zwei Fliesen. 14. Jahrhundert.                                               | Zwei Fliesen. 14. Jahrhundert.                                               |         |,485,96.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435437,364,387,| Dicke Fussbodenplatte. 14. Jahrh.                                            | Dicke Fussbodenplatte. 14. Jahrh.                                            |         |,486,96.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435438,365,388,| Drei zusammengehorige Fussboden- platten. Franzosische Arbeit des 16. Jahrh. | Drei zusammengehorige Fussboden- platten. Franzosische Arbeit des 16. Jahrh. |         |,487,98.6,False,positional,,,PIATTI,,
+BO0624_87696,435436,363,386,| Zwei Fliesen. 14. Jahrhundert.                                               | Zwei Fliesen. 14. Jahrhundert.                                               |         |,485,96.5,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435437,364,387,| Dicke Fussbodenplatte. 14. Jahrh.                                            | Dicke Fussbodenplatte. 14. Jahrh.                                            |         |,486,96.8,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435438,365,388,| Drei zusammengehorige Fussboden- platten. Franzosische Arbeit des 16. Jahrh. | Drei zusammengehorige Fussboden- platten. Franzosische Arbeit des 16. Jahrh. |         |,487,98.6,False,positional,,,PIATTI,,Sec. XVI
 BO0624_87696,435439,366,390,| Susanna und die beiden Alten.                                       |          |            |,493,93.3,False,positional,,,Schutzwaffen,,
 BO0624_87696,435440,367,391,| Schla fende Venus. Anfang des 17.Jahrh.                             |          |            |,494,94.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435441,368,392,| Abschie dsgruppe. Anfang des 17. Jahrh.                             |          |            |,495,94.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435441,368,392,| Abschie dsgruppe. Anfang des 17. Jahrh.                             |          |            |,495,94.7,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435442,369,393,| Brustbildnis eines hoheren Geist- lichen. Ende des 18.Jahrhunderts. |          |            |,496,97.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435443,370,395,| Seidenstoff. 12. Jahrhundert.                                       |          |            |,499,92.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435444,371,396,| Geschorener Sammt. Um 1450.                                         |          |            |,500,92.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435445,372,397,| Handtuch.1450-1500.                                                 |          |            |,501,90.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435446,373,398,| Zwei Wappen von Messgewandern. Ende des 15. Jahrhunderts.           |          |            |,502,96.4,False,positional,,,Schutzwaffen,,
-BO0624_87696,435447,374,399,| Granatapfelmuster.1480-1520.                                        |          |            |,503,93.1,False,positional,,,Schutzwaffen,,
+BO0624_87696,435443,370,395,| Seidenstoff. 12. Jahrhundert.                                       |          |            |,499,92.9,False,positional,,,Schutzwaffen,,Sec. XII
+BO0624_87696,435444,371,396,| Geschorener Sammt. Um 1450.                                         |          |            |,500,92.6,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435445,372,397,| Handtuch.1450-1500.                                                 |          |            |,501,90.0,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435446,373,398,| Zwei Wappen von Messgewandern. Ende des 15. Jahrhunderts.           |          |            |,502,96.4,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435447,374,399,| Granatapfelmuster.1480-1520.                                        |          |            |,503,93.1,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435448,375,400,| Desgleichen. Ebenso.                                                |          | .......... |,504,90.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435449,376,401,| Wandteppich. Anfang des 16. Jahrh.                                  |          |            |,505,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435450,377,402,| Stickereien. Um 1520.                                               |          | yTy        |,506,92.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435451,378,403,| Handtuch.1520-1550.                                                 |          | .o..       |,507,90.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435452,379,404,| Teppich mit Granatapfelmuster. 1500—1550.                           |          | 120        |,508,95.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435453,380,405,| Gewirkter Teppich. 1549.                                            |          |            |,509,91.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435454,381,406,| Tafeltuch. 1583.                                                    |          |            |,510,87.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435455,382,407,| Roter Seidendamast. Anfang des 18. Jahrhunderts.                    |          |            |,511,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435456,383,408,| Desgleichen. Um 1750.                                               |          |            |,512,90.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435457,384,409,| Desgleichen. Um 1750.                                               |          |            |,513,90.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435458,385,410,Gold-Brokat.Um 1750. 410a Nadelarbeit. 16. Jahrhundert. Sizilianisch. 410b Desgleichen. 16. Jahrh.Italienisch. 410c Desgleichen.16. Jahrhundert. Deutsch. 410d Desgleichen. Ebenso. 410e Desgleichen. Um 1600. Deutsch. 410f Go Idspitze. 16. Jahrhundert.Italienisch. 410g Desgleichen. Ebenso. 410h Wappen. 17. Jahrhundert. Deutsch (?). IX. Kleidungsstucke. 411 Lederkoller.1600-1650. 412 Nurnberger Flitterhaube Flinzerles- haube.) Um 1650. 413 Mannerjacke.Um 1650. 414 Linker Mannerhandschuh. Um 1680. 415 Haarnetz. Um 1680. 416 Ein Paar Frauenhandschuhe. Anfang des 18. Jahrhunderts. 417 Mieder-Vorstecker.1700-1750.   | Preis 29   |,514,99.7,False,positional,,,OGGETTI IN ORO,,
-BO0624_87696,435459,386,422,| Madchenschuh. Ende des 17. Jahrh. Ein Paar Strassburger Frauenschuhe.                 |          |         |,518,97.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435460,387,423,| Um 1730. Ein Paar Damenschuhe mit Unter-                                              |          |         |,519,95.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435461,388,424,| schuhen.1760-1780. X. Mobel. Gotischer Stollenschrank. Ende des 15.Jahrhunderts.      |          |         |,520,97.4,False,positional,,,Schutzwaffen,,
+BO0624_87696,435449,376,401,| Wandteppich. Anfang des 16. Jahrh.                                  |          |            |,505,93.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435450,377,402,| Stickereien. Um 1520.                                               |          | yTy        |,506,92.0,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435451,378,403,| Handtuch.1520-1550.                                                 |          | .o..       |,507,90.9,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435452,379,404,| Teppich mit Granatapfelmuster. 1500—1550.                           |          | 120        |,508,95.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435453,380,405,| Gewirkter Teppich. 1549.                                            |          |            |,509,91.7,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435454,381,406,| Tafeltuch. 1583.                                                    |          |            |,510,87.5,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435455,382,407,| Roter Seidendamast. Anfang des 18. Jahrhunderts.                    |          |            |,511,95.7,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435456,383,408,| Desgleichen. Um 1750.                                               |          |            |,512,90.5,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435457,384,409,| Desgleichen. Um 1750.                                               |          |            |,513,90.5,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435458,385,410,Gold-Brokat.Um 1750. 410a Nadelarbeit. 16. Jahrhundert. Sizilianisch. 410b Desgleichen. 16. Jahrh.Italienisch. 410c Desgleichen.16. Jahrhundert. Deutsch. 410d Desgleichen. Ebenso. 410e Desgleichen. Um 1600. Deutsch. 410f Go Idspitze. 16. Jahrhundert.Italienisch. 410g Desgleichen. Ebenso. 410h Wappen. 17. Jahrhundert. Deutsch (?). IX. Kleidungsstucke. 411 Lederkoller.1600-1650. 412 Nurnberger Flitterhaube Flinzerles- haube.) Um 1650. 413 Mannerjacke.Um 1650. 414 Linker Mannerhandschuh. Um 1680. 415 Haarnetz. Um 1680. 416 Ein Paar Frauenhandschuhe. Anfang des 18. Jahrhunderts. 417 Mieder-Vorstecker.1700-1750.   | Preis 29   |,514,99.7,False,positional,,,OGGETTI IN ORO,,Sec. XVI
+BO0624_87696,435459,386,422,| Madchenschuh. Ende des 17. Jahrh. Ein Paar Strassburger Frauenschuhe.                 |          |         |,518,97.0,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435460,387,423,| Um 1730. Ein Paar Damenschuhe mit Unter-                                              |          |         |,519,95.0,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435461,388,424,| schuhen.1760-1780. X. Mobel. Gotischer Stollenschrank. Ende des 15.Jahrhunderts.      |          |         |,520,97.4,False,positional,,,Schutzwaffen,,Sec. XVIII
 BO0624_87696,435462,389,425,|                                                                                       |          |         |,521,0.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435463,390,426,| Schrankchen in Truhenform. Erste Halfte des 16. Jahrhunderts.                         |          |         |,522,96.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435463,390,426,| Schrankchen in Truhenform. Erste Halfte des 16. Jahrhunderts.                         |          |         |,522,96.7,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435464,391,427,| Schrank in Truhenform. Ende des 16.Jahrhunderts.                                      |          |         |,523,95.8,False,positional,,,Schutzwaffen,,
 BO0624_87696,435465,392,429,| Intarsia-Schrankchen. Anfang des 17.Jahrhunderts.                                     |          |         |,524,95.9,False,positional,,,Schutzwaffen,,
 BO0624_87696,435466,393,430,|                                                                                       |          |         |,525,0.0,False,positional,,,Schutzwaffen,,
 BO0624_87696,435467,394,432,| Schwarzgebeiztes Kastchen mit                                                         |          |         |,527,93.5,False,positional,,,SCATOLE,,
 BO0624_87696,435468,395,433,| XI. Olgemalde.                                                                        |          |         |,529,85.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435469,396,435,| Deutscher Meister. (1600-1650.) Bild- nis (Kniestuick) eines vornehmen jungen Mannes. |          |         |,531,97.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435470,397,436,| Frankischer Meister. (Anfang des 16. Jahrhunderts.) Der heilige Valentin.             |          |         |,532,97.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435471,398,437,| Frans Francken der Jungere. (1581—1642.) Das Schwert des Damokles.                                    |         |,537,96.8,False,positional,,Famiglia Francken,Schutzwaffen,,
-BO0624_87696,435472,399,438,| Willem Gabr0n.(1619-1678. Stilleben.                                                                  |         |,538,94.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435473,400,439,| Adriaen Hannemann. (1601—1671.) Bildnis eines  Mannes mit Schnurr- und Knebelbart.                    |         |,539,97.4,False,positional,,,Schutzwaffen,,
-BO0624_87696,435474,401,440,| Jobst Harrich.(t 1617.) Kopie nach Lukas Cranach.                                                     |         |,540,95.7,False,positional,CRANACH LUCAS,,Schutzwaffen,,
-BO0624_87696,435475,402,441,| Hollandischer Kunstler.(1600-1650.) Bildnis einer jungen Dame mit Halskrause.                         |         |,541,97.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435476,403,442,| J.V. Hooren. (Erste Halfte des 17. Jahr- hunderts. Huftbildnis eines Kriegers.                        |         |,543,97.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435477,404,443,| Michiel Jansz Mierevelt.(1547-1641.) Brustbild einer alten Dame.                                      |         |,544,96.8,False,positional,MIEREVELT MICHEL JANSON,,Schutzwaffen,,
-BO0624_87696,435478,405,444,| Niederlandischer Kunster. (Erstes Drittel des 16. Jahrhunderts.) Ein Bischof.                         |         |,545,97.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435479,406,445,| Desg leichen. (Ende des 16. Jahrhunderts.) Mars und Venus mit Amor.                                   |         |,546,96.8,False,positional,,,Schutzwaffen,,
+BO0624_87696,435469,396,435,| Deutscher Meister. (1600-1650.) Bild- nis (Kniestuick) eines vornehmen jungen Mannes. |          |         |,531,97.5,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435470,397,436,| Frankischer Meister. (Anfang des 16. Jahrhunderts.) Der heilige Valentin.             |          |         |,532,97.1,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435471,398,437,| Frans Francken der Jungere. (1581—1642.) Das Schwert des Damokles.                                    |         |,537,96.8,False,positional,,Famiglia Francken,Schutzwaffen,,Sec. XVI
+BO0624_87696,435472,399,438,| Willem Gabr0n.(1619-1678. Stilleben.                                                                  |         |,538,94.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435473,400,439,| Adriaen Hannemann. (1601—1671.) Bildnis eines  Mannes mit Schnurr- und Knebelbart.                    |         |,539,97.4,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435474,401,440,| Jobst Harrich.(t 1617.) Kopie nach Lukas Cranach.                                                     |         |,540,95.7,False,positional,CRANACH LUCAS,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435475,402,441,| Hollandischer Kunstler.(1600-1650.) Bildnis einer jungen Dame mit Halskrause.                         |         |,541,97.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435476,403,442,| J.V. Hooren. (Erste Halfte des 17. Jahr- hunderts. Huftbildnis eines Kriegers.                        |         |,543,97.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435477,404,443,| Michiel Jansz Mierevelt.(1547-1641.) Brustbild einer alten Dame.                                      |         |,544,96.8,False,positional,MIEREVELT MICHEL JANSON,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435478,405,444,| Niederlandischer Kunster. (Erstes Drittel des 16. Jahrhunderts.) Ein Bischof.                         |         |,545,97.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435479,406,445,| Desg leichen. (Ende des 16. Jahrhunderts.) Mars und Venus mit Amor.                                   |         |,546,96.8,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435480,407,446,| Desgleichen. (Mitte des 17.Jahrhunderts.) Brustbild einer Dame in schwarzem Gewande.                  |         |,547,97.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435481,408,447,| Nurnberger Schule. (1500-1550.) Weibliches Brustbild mit reicher Brautkrone.                          | 办y      |,548,97.4,False,positional,,Scuola di Norimberga,Schutzwaffen,,
-BO0624_87696,435482,409,448,| Nurnberger Kunstler. (Um 1650). Huftbildnis einer alten Frau.                                         |         |,549,96.6,False,positional,,,Schutzwaffen,,
+BO0624_87696,435481,408,447,| Nurnberger Schule. (1500-1550.) Weibliches Brustbild mit reicher Brautkrone.                          | 办y      |,548,97.4,False,positional,,Scuola di Norimberga,Schutzwaffen,,Sec. XVI
+BO0624_87696,435482,409,448,| Nurnberger Kunstler. (Um 1650). Huftbildnis einer alten Frau.                                         |         |,549,96.6,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435483,410,449,| Desgleichen. (18. Jahrhundert.) Bildnis des Nurnberger Ratsherrn Balthasar Sebastian Munker.          |         |,550,97.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435484,411,450,| Peter Paul Rubens.(1577-1640.) Bildnis einer alten Frau.                                                           | Kaufer   |,553,96.7,False,positional,RUBENS PETER PAUL,Scuola di Rubens,Schutzwaffen,,
-BO0624_87696,435485,412,451,| Roelant Savery. (1576-1639.) Die Tiere eilen zu der Arche.                                                         |          |,555,96.4,False,positional,SAVERY ROELAND,,Schutzwaffen,,
-BO0624_87696,435486,413,452,| Martin Schaffner. (In Ulm tatig von 1508—1535.) Epitaph des 1532 verstorbenen Sebastian Welling.                   |          |,556,97.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435487,414,455,| Schwabischer Meister. (Ende des 15. Jahrhunderts.) Brustbild eines jungen Mannes mit gruner Jacke.                 |          |,557,97.9,False,positional,,Scuola Sveva,Schutzwaffen,,
-BO0624_87696,435488,415,456,| Schwabische Schule. (Um 1520.) Ein heiliger Bischof.                                                               |          |,558,95.9,False,positional,,Scuola Sveva,Schutzwaffen,,
+BO0624_87696,435484,411,450,| Peter Paul Rubens.(1577-1640.) Bildnis einer alten Frau.                                                           | Kaufer   |,553,96.7,False,positional,RUBENS PETER PAUL,Scuola di Rubens,Schutzwaffen,,Sec. XVII
+BO0624_87696,435485,412,451,| Roelant Savery. (1576-1639.) Die Tiere eilen zu der Arche.                                                         |          |,555,96.4,False,positional,SAVERY ROELAND,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435486,413,452,| Martin Schaffner. (In Ulm tatig von 1508—1535.) Epitaph des 1532 verstorbenen Sebastian Welling.                   |          |,556,97.8,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435487,414,455,| Schwabischer Meister. (Ende des 15. Jahrhunderts.) Brustbild eines jungen Mannes mit gruner Jacke.                 |          |,557,97.9,False,positional,,Scuola Sveva,Schutzwaffen,,Sec. XV
+BO0624_87696,435488,415,456,| Schwabische Schule. (Um 1520.) Ein heiliger Bischof.                                                               |          |,558,95.9,False,positional,,Scuola Sveva,Schutzwaffen,,Sec. XVI
 BO0624_87696,435489,416,457,| Desgleichen. (Ebenso.) Die heilige Margaretha.                                                                     |          |,559,95.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435490,417,458,| David Vink-bo0ns.(1578-1629.) Allegorie.                                                                           | 220      |,560,95.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435491,418,459,| Bartholomaeus Zeitblom. (In Ulm um 1480-1518 tatig.) Brustbild eines schwarz gekleideten Mannes. Xll. Glasgemalde. |          |,561,98.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435492,419,460,| Der heilige Florian. 15. Jahrhundert.                                                                              |          |,562,94.4,False,positional,,,Schutzwaffen,,
-BO0624_87696,435493,420,461,| Kronung Maria. Um 1520.                                                                                            |          |,563,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435494,421,462,| Wappen mit figurlicher Darstellung. 1500—1550.                                                                     |          |,564,95.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435490,417,458,| David Vink-bo0ns.(1578-1629.) Allegorie.                                                                           | 220      |,560,95.2,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435491,418,459,| Bartholomaeus Zeitblom. (In Ulm um 1480-1518 tatig.) Brustbild eines schwarz gekleideten Mannes. Xll. Glasgemalde. |          |,561,98.2,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435492,419,460,| Der heilige Florian. 15. Jahrhundert.                                                                              |          |,562,94.4,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435493,420,461,| Kronung Maria. Um 1520.                                                                                            |          |,563,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435494,421,462,| Wappen mit figurlicher Darstellung. 1500—1550.                                                                     |          |,564,95.7,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435495,422,463,| Desgleichen. Ebenso.                                                                                               |          |,565,90.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435496,423,464,| Wappen der Nurnberger Familie Haller von Hallerstein. 16. Jahrh.                                                   |          |,566,96.8,False,positional,,,Schutzwaffen,,
+BO0624_87696,435496,423,464,| Wappen der Nurnberger Familie Haller von Hallerstein. 16. Jahrh.                                                   |          |,566,96.8,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435497,424,465,| Wappen der Nurnberger Familie Furer. Ebenso.                                                                       |          |,567,95.5,False,positional,,,Schutzwaffen,,
-BO0624_87696,435498,425,466,| Wappenscheibe. Um 1550.                                      |          |         |,570,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435499,426,467,| Glasgemalde.1550-1600.                                       |          |         |,571,91.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435500,427,468,| Drei kleine ovale Wappenscheiben. Ende des 16. Jahrhunderts. |          |         |,572,96.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435501,428,471,| Mannliches Bildnis. Ende des 17. Jahrhunderts.               |          |         |,575,95.6,False,positional,,,Schutzwaffen,,
+BO0624_87696,435498,425,466,| Wappenscheibe. Um 1550.                                      |          |         |,570,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435499,426,467,| Glasgemalde.1550-1600.                                       |          |         |,571,91.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435500,427,468,| Drei kleine ovale Wappenscheiben. Ende des 16. Jahrhunderts. |          |         |,572,96.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435501,428,471,| Mannliches Bildnis. Ende des 17. Jahrhunderts.               |          |         |,575,95.6,False,positional,,,Schutzwaffen,,Sec. XVII
 BO0624_87696,435502,429,472,| Weibliches Bildnis. Ebenso.                                  |          |         |,576,92.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435503,430,473,| Kaiser Leopold I. Um 1700.                                   |          |         |,577,92.3,False,positional,,,Schutzwaffen,,
+BO0624_87696,435503,430,473,| Kaiser Leopold I. Um 1700.                                   |          |         |,577,92.3,False,positional,,,Schutzwaffen,,Sec. XVIII
 BO0624_87696,435504,431,474,| Der heilige Johannes von Nepomuk. 18.Jahrhundert.            |          |         |,578,95.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435505,432,475,| Gegossene Medaille. 16. Jahrhundert.                         |          |         |,580,94.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435506,433,476,| Sachsische Denkmunze. 1530.                                  |          |         |,581,92.6,False,positional,,,Schutzwaffen,,
+BO0624_87696,435505,432,475,| Gegossene Medaille. 16. Jahrhundert.                         |          |         |,580,94.3,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435506,433,476,| Sachsische Denkmunze. 1530.                                  |          |         |,581,92.6,False,positional,,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435507,434,477,| Desgleichen. Ebenso.                                         |          |         |,582,90.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435508,435,478,| Reitermedaille desromischenKonigs Ferdinand.1541.            |          |         |,583,96.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435509,436,479,| Gulden des Markgrafen Albrecht Alcibiades.1550.              |          |         |,584,95.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435510,437,480,| Rechenpfennig. 1553.                                         |          |         |,585,90.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435511,438,481,| Denkmunze auf den Goldschmied und Stempelschneider Valentin Maler. In Nurnberg tatig 1569-1603. |          |         |,588,97.9,False,positional,,Scuola di Norimberga,Schutzwaffen,,
+BO0624_87696,435508,435,478,| Reitermedaille desromischenKonigs Ferdinand.1541.            |          |         |,583,96.0,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435509,436,479,| Gulden des Markgrafen Albrecht Alcibiades.1550.              |          |         |,584,95.8,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435510,437,480,| Rechenpfennig. 1553.                                         |          |         |,585,90.0,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435511,438,481,| Denkmunze auf den Goldschmied und Stempelschneider Valentin Maler. In Nurnberg tatig 1569-1603. |          |         |,588,97.9,False,positional,,Scuola di Norimberga,Schutzwaffen,,Sec. XVI
 BO0624_87696,435512,439,482,| Eh em eda ille. 17.Jahrhundert.                                                                 |          |         |,589,93.5,False,positional,,,Schutzwaffen,,
 BO0624_87696,435513,440,483,| Gegossene Medaille. Ebenso.                                                                     |          |         |,590,92.6,False,positional,,,Schutzwaffen,,
 BO0624_87696,435514,441,484,| Plakette. Ebenso.                                                                               |          |         |,591,88.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435515,442,485,"| Thaler des Herzogs Johann von Sachsen,Julich, Cleve und Berg.1625.                              |          |         |",592,97.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435516,443,486,| Ehemedaille.1629.                                                                               |          |         | a | a Denkmunze auf Gustav Adolf. 163l.                                                             |          |         |,594,80.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435517,444,487,| Thaler Kaiser Ferdinand ll. 1638.                                                               |          |         |,595,93.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435518,445,488,| Nurnberger Denkmunze. Um 1640.                                                                  |          |         |,596,93.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435519,446,489,| Denkmunze auf den westfalischen Frieden. 1648.                                                  |          |         |,597,95.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435520,447,490,| Patenminze. 1690.                                                                               |          |         |,598,88.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435521,448,491,| Desgleic hen. 17. Jahrhundert.                                                                  |          |         |,599,93.1,False,positional,,,Schutzwaffen,,
-BO0624_87696,435522,449,492,| Denkmunze des Klosters Bero- munster. 1720.                                                     |          |         |,600,95.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435523,450,493,| Munze auf Sus 0ppenheimer. 1738.                                                                |          |         |,601,93.8,False,positional,,,Schutzwaffen,,
-BO0624_87696,435524,451,494,| Vicariatsmunze des Kurfursten Karl Albrecht von Bayern. 1740.                                   |          |         |,602,96.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435525,452,495,| Denkmunze auf den Papst Clemens X111.1758-1769.                                                 |          |         |,603,95.8,False,positional,,,Schutzwaffen,,
+BO0624_87696,435515,442,485,"| Thaler des Herzogs Johann von Sachsen,Julich, Cleve und Berg.1625.                              |          |         |",592,97.0,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435516,443,486,| Ehemedaille.1629.                                                                               |          |         | a | a Denkmunze auf Gustav Adolf. 163l.                                                             |          |         |,594,80.0,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435517,444,487,| Thaler Kaiser Ferdinand ll. 1638.                                                               |          |         |,595,93.9,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435518,445,488,| Nurnberger Denkmunze. Um 1640.                                                                  |          |         |,596,93.3,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435519,446,489,| Denkmunze auf den westfalischen Frieden. 1648.                                                  |          |         |,597,95.7,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435520,447,490,| Patenminze. 1690.                                                                               |          |         |,598,88.2,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435521,448,491,| Desgleic hen. 17. Jahrhundert.                                                                  |          |         |,599,93.1,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435522,449,492,| Denkmunze des Klosters Bero- munster. 1720.                                                     |          |         |,600,95.2,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435523,450,493,| Munze auf Sus 0ppenheimer. 1738.                                                                |          |         |,601,93.8,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435524,451,494,| Vicariatsmunze des Kurfursten Karl Albrecht von Bayern. 1740.                                   |          |         |,602,96.7,False,positional,,,Schutzwaffen,,Sec. XVIII
+BO0624_87696,435525,452,495,| Denkmunze auf den Papst Clemens X111.1758-1769.                                                 |          |         |,603,95.8,False,positional,,,Schutzwaffen,,Sec. XVIII
 BO0624_87696,435526,453,496,| Jeton aus den Hungerjahren l8i617.                                                              |          |         |,604,94.3,False,positional,,,Schutzwaffen,,
-BO0624_87696,435527,454,498,| Pergamenthandschrift. Anfang des 14. Jahrhunderts.                                                                                                                                                                                                                                       |,610,95.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435528,455,499,| Desgleichen. Ende des 14. Jahrhunderts.                                                                                                                                                                                                                                                  |,611,94.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435529,456,500,| Missale.Um 1450.                                                                                                                                                                                                                                                                         |,612,88.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435530,457,501,"| Officium fur Klosterfrauen, wahr- scheinlich fur Beguinen. Um 1480.                                                                                                                                                                                                                      |",613,96.9,False,positional,,,Schutzwaffen,,
-BO0624_87696,435531,458,502,| Gebetbuch (Livre d'heures). Ende des 15. Jahrhunderts.                                                                                                                                                                                                                                   |,614,96.1,False,positional,,,OGGETTI VARI,,
-BO0624_87696,435532,459,503,| Pergamenthandschrift. Ende des 15. Jahrhunderts.                                                                                                                                                                                                                                         |,615,95.7,False,positional,,,Schutzwaffen,,
+BO0624_87696,435527,454,498,| Pergamenthandschrift. Anfang des 14. Jahrhunderts.                                                                                                                                                                                                                                       |,610,95.9,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435528,455,499,| Desgleichen. Ende des 14. Jahrhunderts.                                                                                                                                                                                                                                                  |,611,94.7,False,positional,,,Schutzwaffen,,Sec. XIV
+BO0624_87696,435529,456,500,| Missale.Um 1450.                                                                                                                                                                                                                                                                         |,612,88.2,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435530,457,501,"| Officium fur Klosterfrauen, wahr- scheinlich fur Beguinen. Um 1480.                                                                                                                                                                                                                      |",613,96.9,False,positional,,,Schutzwaffen,,Sec. XV
+BO0624_87696,435531,458,502,| Gebetbuch (Livre d'heures). Ende des 15. Jahrhunderts.                                                                                                                                                                                                                                   |,614,96.1,False,positional,,,OGGETTI VARI,,Sec. XV
+BO0624_87696,435532,459,503,| Pergamenthandschrift. Ende des 15. Jahrhunderts.                                                                                                                                                                                                                                         |,615,95.7,False,positional,,,Schutzwaffen,,Sec. XV
 BO0624_87696,435533,460,504,| Des gleichen. Ebenso.                                                                                                                                                                                                                                                                    |,616,90.5,False,positional,,,Schutzwaffen,,
 BO0624_87696,435534,461,505,| Desgleichen. Ebenso.                                                                                                                                                                                                                                                                     |,617,90.0,False,positional,,,Schutzwaffen,,
 BO0624_87696,435535,462,506,| Papierhand schrift. Stammbuch des An- dreas Haydenreich von Pidenegg. 15961611.                                                                                                                                                                                                          |,618,97.4,False,positional,,,Schutzwaffen,,
-BO0624_87696,435536,463,507,| Des gleichen. Sammlung von 95 einzelnen Stammbuchblattern. Von 1577 bis zur Mitte des 18. Jahrhunderts.                                                                                                                                                                                  |,619,98.0,False,positional,,,Schutzwaffen,,
+BO0624_87696,435536,463,507,| Des gleichen. Sammlung von 95 einzelnen Stammbuchblattern. Von 1577 bis zur Mitte des 18. Jahrhunderts.                                                                                                                                                                                  |,619,98.0,False,positional,,,Schutzwaffen,,Sec. XVIII
 BO0624_87696,435537,464,4,"(22-24) Eine Kanne in Gold mit Henkel und Deckel, mit Diamanten, Saphiren,Rubinen und Smaragden geschmickt. Mit Abbildung der Innenseite des Deckels und des Fusses. Auf dem Deckel ein sehr grosser ungeschliffener Smaragd, der allein noch von dem Kunstwerke vorhanden ist. Drei Blatter.",629,99.6,False,positional,,,OGGETTI IN ORO,,
-BO0624_87696,435538,465,11,509 Nicolas Lagneau.Lanneau.) (1590-1610.) 30 mannliche und 10 weibliche Studienkopfe.,636,98.2,False,positional,,,Schutzwaffen,,
-BO0624_87696,435539,466,12,510 Hans Bock. (1540-1610.) Phaeton uud Apollo.,637,96.6,False,positional,,,Schutzwaffen,,
-BO0624_87696,435540,467,13,511 Jorg Breu der Jungere (?).(?-1547.) Zwei Geharnischte.,638,97.0,False,positional,,,Schutzwaffen,,
-BO0624_87696,435541,468,14,512 Pieter Brueghel der Jungere (?)(1564-1638.) Frau in ganzer Figur.,639,97.6,False,positional,BRUEGEL PIETER IL VECCHIO,,Schutzwaffen,,
+BO0624_87696,435538,465,11,509 Nicolas Lagneau.Lanneau.) (1590-1610.) 30 mannliche und 10 weibliche Studienkopfe.,636,98.2,False,positional,,,Schutzwaffen,,Sec. XVII
+BO0624_87696,435539,466,12,510 Hans Bock. (1540-1610.) Phaeton uud Apollo.,637,96.6,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435540,467,13,511 Jorg Breu der Jungere (?).(?-1547.) Zwei Geharnischte.,638,97.0,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435541,468,14,512 Pieter Brueghel der Jungere (?)(1564-1638.) Frau in ganzer Figur.,639,97.6,False,positional,BRUEGEL PIETER IL VECCHIO,,Schutzwaffen,,Sec. XVI
 BO0624_87696,435542,469,15,513 Deutscher Kunstler. Ein Deckelpokal und e ein Kokosnussbecher.,640,97.7,False,positional,,,Schutzwaffen,,
-BO0624_87696,435543,470,16,514 Desgleichen.(1550—1600.) Ein Flussgott mit zwei Nymphen.,641,97.4,False,positional,,,Schutzwaffen,,
-BO0624_87696,435544,471,17,515 Desgleichen. (Gegen Ende des 16. Jahrhunderts.) Prachtkanne in Vasenform.,642,97.9,False,positional,,,Schutzwaffen,,
+BO0624_87696,435543,470,16,514 Desgleichen.(1550—1600.) Ein Flussgott mit zwei Nymphen.,641,97.4,False,positional,,,Schutzwaffen,,Sec. XVI
+BO0624_87696,435544,471,17,515 Desgleichen. (Gegen Ende des 16. Jahrhunderts.) Prachtkanne in Vasenform.,642,97.9,False,positional,,,Schutzwaffen,,Sec. XVI

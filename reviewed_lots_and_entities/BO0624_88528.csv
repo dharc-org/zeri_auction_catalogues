@@ -4,7 +4,7 @@ BO0624_88528,720603,2,2,"Durch die Besichtigung ist Jedermann Gelegenheit gegebe
 BO0624_88528,720604,3,3,"Die Sachen werden in dem Zustande verkauff, in dem sie sich befinden, ohne fuir Fehler, Mangel oder Benennung einzustehen. Da das Verzeichnis nur als Fuihrer dienen soll, wird fir die darin enthaltenen Angaben keine Gewahr geleistet:",7,99.6,False,none,,,,,
 BO0624_88528,720605,4,4,Bei Gemalden verstehen sich die angegebenen Mabe ohne Rahmen. Ueber die Reihenfolge der einzelnen Nummern wahrend der Versteigerung behalt sich der Versteigerer das Recht von Abanderungen vor.,8,99.5,False,none,,,CORNICI,,
 BO0624_88528,720606,5,5,"Mit dem Zuschlag ist der Gegenstand in den Besik des Kaufers uibergegangen. Die Zahlung hat sofort in Gold-Rentenmark und anderen wert bestandigen Zahlungsbedingungen zu erfolgen. Bei Zahlungen in Papier mark ist der amtliche Berliner Mittelkurs am Tage der Zahlung maBgebend. Auch mub eine angemessene Anzahlung geleistef werden.  Diejenigen Kaufer, die vor der Auktion ein dem Ankaufswerf entsprechendes Depot",9,99.8,False,none,,Scuola di Berlino,OGGETTI IN ORO,,
-BO0624_88528,720607,6,6,"Erfolgt ein doppeltes Gebot,so wird der Gegenstand noch einmal ausgeboten, bei Streitigkeiten enischeidet das Los.(Gesek vom 10. Juli 1902.)",11,99.3,False,none,,,,,
+BO0624_88528,720607,6,6,"Erfolgt ein doppeltes Gebot,so wird der Gegenstand noch einmal ausgeboten, bei Streitigkeiten enischeidet das Los.(Gesek vom 10. Juli 1902.)",11,99.3,False,none,,,,,Sec. XX
 BO0624_88528,720608,7,7,"Gesteigert wird nach folgenden Grundsaben: Niedrigstes Gebot um 20 Goldpfennig bis Mk.3.-,um 50 Goldpfennig bis Mk. 10.-,um 1 Goldmark bis Mk.20.-,um 2 Goldmark bis Mk.50.-,um 5 Goldmark bis Mk.100.-u.s. f. Ausnahmen sind zulassig. Das ibliche Aufgeld betragt 20 Prozent der Kaufsumme. Luxussteuer haf der Kaufer nicht zu zahlen.",12,99.7,False,none,,,,,
 BO0624_88528,720609,8,8,Kaufauffrage werden zu den Bedingungen des Katalogs reell ausgefihrt ohne besondere Berechnung. Erteilte Kaufauffrage konnen nicht wieder zuriickgezogen werden.,13,99.4,False,none,,,,,
 BO0624_88528,720610,9,9,Die Abnahme der Erwerbungen hat von den Kaufern am Versteigerungstage Andere Vereinbarungen haben vor der Versteigerung stafzufinden und werden schrifflich niedergelegt und gegenseitig bestatigt.,16,77.9,False,none,,,,,
@@ -48,35 +48,35 @@ BO0624_88528,720647,46,39,"Viermastsegelschiff vor Anker,Oelgemalde auf Leinewan
 BO0624_88528,720648,47,40,"Galeere Reale"", Oelgemalde auf Leinewand im Goldrahmen, Grosse 30X45 cm bezeichnet Chr. Rave",211,98.3,False,positional,Christopher Rave,,,,
 BO0624_88528,720649,48,41,"Hamburger Hafen, Oelgemalde auf Leinewand im Goldrahmen, Grosse 30X45 cm bezeichnet Chr.Rave",212,98.4,False,positional,Christopher Rave,,,,
 BO0624_88528,720650,49,42,"2Segler auf See, Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 45X30 cm,bezeichnet Chr.Rave",213,98.5,False,positional,Christopher Rave,,CORNICI,,
-BO0624_88528,720651,50,43,"Huhhert Galeasse, Anfang des 19. Jahrhunderts. Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 45X30 cm,bez. Chr.Rave (Siehe Abbildung Tafe17)",214,99.3,False,positional,Christopher Rave,,CORNICI,,
+BO0624_88528,720651,50,43,"Huhhert Galeasse, Anfang des 19. Jahrhunderts. Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 45X30 cm,bez. Chr.Rave (Siehe Abbildung Tafe17)",214,99.3,False,positional,Christopher Rave,,CORNICI,,Sec. XIX
 BO0624_88528,720652,51,44,",Amerikanischer Dreimaster"", Oelgemalde auf Leinewand in schwarzem Rahmen Grosse 30X45 cm,bezeichnet Chr.Rave",215,98.6,False,positional,Christopher Rave,,CORNICI,,
 BO0624_88528,720653,52,45,"5,Schlepper im Hamburger Hafen"", Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 30X45 cm, bezeichnet Chr.Rave",216,98.7,False,positional,Christopher Rave,,CORNICI,,
 BO0624_88528,720654,53,46,"Kriegsschiff Unter Ramses lI, Oelgemalde auf Leinewand in schwarzem Rahmen Grosse 30X45 cm,bezeichnet Chr.Rave",217,99.1,False,positional,Christopher Rave,,CORNICI,,
 BO0624_88528,720655,54,48,"Monchgut auf Rigen in Abendstimmung, Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 29X45 cm,bezeichnet W.Moras (Siehe Abbildung Tafel 7)",225,98.9,False,title_direct,B.Moras,,CORNICI,,
 BO0624_88528,720656,55,50,"Lesendes junges Madchen am Tisch sitzend, Oelgemalde auf Holz in schwarzem Rahmen, Grosse 44X35 cm, bezeichnet J. Benedicter (Siehe Abbildung Tafel 7)",235,99.0,False,positional,Joseph Benedicter,,CORNICI,,
-BO0624_88528,720657,56,51,"Norwegische Kiste,Oelgemalde auf Leinewand in schwarzem Rahmen Grosse 31X48 cm,bezeichnet B.Lindholm 1881",239,98.6,False,title_direct,B.Lindholm,,CORNICI,,
+BO0624_88528,720657,56,51,"Norwegische Kiste,Oelgemalde auf Leinewand in schwarzem Rahmen Grosse 31X48 cm,bezeichnet B.Lindholm 1881",239,98.6,False,title_direct,B.Lindholm,,CORNICI,,Sec. XIX
 BO0624_88528,720658,57,52,"Kihe an der Schwemme,Oelgemalde auf Leinewand in schwarzem Rahmen Grosse 19X48 cm,bezeichnet C.Leopold, Mohn",242,98.6,False,title_direct,C. Leopold,,CORNICI,,
 BO0624_88528,720659,58,53,"Vase mit Stiefmitterchen"",Oelgemalde auf Karton, oval, in Passepartout,in schwarzem Rahmen, Grosse 35X44 cm, bezeichnet P. Kaupke",246,99.2,False,title_direct,P.Kaupke,,CORNICI,,
 BO0624_88528,720660,59,54,"Madchenportrat. Junges Madchen mit lose herabhangendem Haar, geschmickt mit Blumenkranz. Der Oberkorper wird durch einen grinseidenen Schleier verhilt: Oelstudie auf Karton unter Glas in braunem Rahmen, Grosse 56X42 cm,unsigniert",250,99.6,False,title_direct,,,CORNICI,,
 BO0624_88528,720661,60,55,"Flusslandschaft in Abendstimmung,Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 36X48 cm,bezeichnet Lorenz Murowana",256,98.8,False,title_direct,Lorenz Murowana,,CORNICI,,
 BO0624_88528,720662,61,56,Gegenstuick zu voriger Nummer,257,95.1,False,positional,Lorenz Murowana,,,,
-BO0624_88528,720663,62,57,"Ansicht von Bonifacio auf Korsika, Oelgemalde auf Karton in schwarzem Rahmen, Grosse 34X48 cm,bezeichnet E. Kubierschky, Bonifacio Korsika 1882",261,99.3,False,positional,Erich Kubierschky,,CORNICI,,
+BO0624_88528,720663,62,57,"Ansicht von Bonifacio auf Korsika, Oelgemalde auf Karton in schwarzem Rahmen, Grosse 34X48 cm,bezeichnet E. Kubierschky, Bonifacio Korsika 1882",261,99.3,False,positional,Erich Kubierschky,,CORNICI,,Sec. XIX
 BO0624_88528,720664,63,58,"Flusslandschaft,Oelgemalde auf Leinewand im Goldrahmen,Grosse 33X43 cm bezeichnet O.Eschke",267,98.9,False,positional,Oskar Eschke,,,,
 BO0624_88528,720665,64,59,"Ewer am Strand,Oelgemalde auf Karton in schwarzem Rahmen, drosse 35X49 cm,bezeichnet Rohwedder-Ruge",273,99.0,False,title_direct,Rohwedder-Ruge,,CORNICI,,
 BO0624_88528,720666,65,60,",Brandung, Oelgemalde auf Karton in schwarzem Rahmen, Grosse 35X49 cm bezeichnet Rohwedder-Ruge",274,98.4,False,title_direct,Rohwedder-Ruge,,CORNICI,,
 BO0624_88528,720667,66,61,",Felsige Kiste, Oelgemalde auf Karton in schwarzem Rahmen, Grosse 35X49 cm bezeichnet Rohwedder-Ruge",275,98.5,False,title_direct,Rohwedder-Ruge,,CORNICI,,
-BO0624_88528,720668,67,62,"Norwegische Kiste bei Kap Statland, Oelgemalde auf Leinewand im Goldrahmen, Grosse 33X47 cm,bezeichnet T.v.Eckenbrecher 1903",280,99.2,False,positional,Karl Paul Themistokles von Eckenbrecher,,,,
+BO0624_88528,720668,67,62,"Norwegische Kiste bei Kap Statland, Oelgemalde auf Leinewand im Goldrahmen, Grosse 33X47 cm,bezeichnet T.v.Eckenbrecher 1903",280,99.2,False,positional,Karl Paul Themistokles von Eckenbrecher,,,,Sec. XX
 BO0624_88528,720669,68,63,",Einsamkeit"",Oelgemalde auf Karton im Goldrahmen, Grosse 37X49 cm bezeichnet J. Sussmayr",284,98.2,False,title_direct,J. Sissmayr,,,,
 BO0624_88528,720670,69,64,"Gemitliche Unterhaltung beim Kruge Wein, Oelgemalde auf Leinewand im Goldrahmen,Grosse 45X54 cm,bezeichnet Georg Muhlberg",290,99.2,False,title_direct,Georg Muhlberg,,OGGETTI VARI,,
-BO0624_88528,720671,70,65,"Park,Oelgemalde auf Leinewand im Goldrahmen, Grosse 45X55 cm,bezeichnet H.Hisgen 1910",294,98.8,False,title_direct,H.Husgen,,,,
+BO0624_88528,720671,70,65,"Park,Oelgemalde auf Leinewand im Goldrahmen, Grosse 45X55 cm,bezeichnet H.Hisgen 1910",294,98.8,False,title_direct,H.Husgen,,,,Sec. XX
 BO0624_88528,720672,71,66,"In der Laube, Oelgemalde auf Leinewand unter Glas im Goldrahmen, Grosse 49X68 cm,bezeichnet Karl Breitbach,Schonna Oktober 65",300,98.8,False,title_direct,Karl Breitbach,,Glas,,
-BO0624_88528,720673,72,67,"Flusslandschaft, Oelgemalde auf Karton in schwarzem Rahmen, Girosse 51X64 cm,bezeichnet O.Leu 1902",306,98.5,False,positional,Otto Friedrich Leu,,CORNICI,,
+BO0624_88528,720673,72,67,"Flusslandschaft, Oelgemalde auf Karton in schwarzem Rahmen, Girosse 51X64 cm,bezeichnet O.Leu 1902",306,98.5,False,positional,Otto Friedrich Leu,,CORNICI,,Sec. XX
 BO0624_88528,720674,73,68,"Lesende alte Dame im Lehnstul sitzend, Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 63X52 cm, bezeichnet W.A.Hildenbrand",310,99.2,False,title_direct,W.Hildenbrand,,CORNICI,,
-BO0624_88528,720675,74,69,",Weiblicher Akt,Oelgemalde auf Leinewand in schwarzem Rahmen,Grosse 65X38 cm,bezeichnet Hagenkotter Ddf.1913",314,98.6,False,title_direct,Hagenkotter,,CORNICI,,
+BO0624_88528,720675,74,69,",Weiblicher Akt,Oelgemalde auf Leinewand in schwarzem Rahmen,Grosse 65X38 cm,bezeichnet Hagenkotter Ddf.1913",314,98.6,False,title_direct,Hagenkotter,,CORNICI,,Sec. XX
 BO0624_88528,720676,75,70,"Einzug Konig Meneliks von Abessinien, Oelgemalde auf Karton im Goldrahmen, Grosse 34X62 cm, bezeichnet Fritz Neuhaus Nachlass",318,98.8,False,title_direct,Fritz Neuhaus,,,,
-BO0624_88528,720677,76,71,"Landhaus am See,Oelgemalde auf Karton im Goldrahmen, Grosse 37X54 cm bezeichnet S.Hansen 1914",321,98.9,False,positional,Sophus Hansen,,,,
+BO0624_88528,720677,76,71,"Landhaus am See,Oelgemalde auf Karton im Goldrahmen, Grosse 37X54 cm bezeichnet S.Hansen 1914",321,98.9,False,positional,Sophus Hansen,,,,Sec. XX
 BO0624_88528,720678,77,72,"rahmen, Grosse 55X68 cm, bezeichnet C.Jutz jr.",329,96.6,False,positional,Carl Jutz,,CORNICI,,
-BO0624_88528,720679,78,73,",Winterlandschaft,im Vordergrund auf dem Eise befindliche Leute, im Hintergrund zwischen Baumen versteckt liegende Hauser. Oelgemalde auf Holz im Goldrahmen, Grosse 45X60 cm,bez.Ch.van der Eyken 1839 (Siehe Abbildung Tafel 4)",333,99.3,False,positional,Karel van der Eiken,,OGGETTI IN LEGNO,,
+BO0624_88528,720679,78,73,",Winterlandschaft,im Vordergrund auf dem Eise befindliche Leute, im Hintergrund zwischen Baumen versteckt liegende Hauser. Oelgemalde auf Holz im Goldrahmen, Grosse 45X60 cm,bez.Ch.van der Eyken 1839 (Siehe Abbildung Tafel 4)",333,99.3,False,positional,Karel van der Eiken,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88528,720680,79,74,",Landschaft mit Kirche,Oelgemalde auf Leinewand im Goldrahmen Grosse 35X52 cm,bezeichnet R.v.H.73",341,98.5,False,positional,Remi van Haanen,,,,
 BO0624_88528,720681,80,75,"Ausfligler am Waldsee,beim Picknick,Oelgemalde auf Leinewand in schwarzem Rahmen,Grosse 29X53 cm,bezeichnet M.Gronvold",347,99.2,False,title_direct,M. Gronvold,,CORNICI,,
 BO0624_88528,720682,81,76,"Ausflug,Oelgemalde auf Leinewand im Goldrahmen, Grosse 71X44 cm bezeichnet M. Gronvold (Siehe Abbildung Tafel 6)",348,99.1,False,title_direct,M. Gronvold,,,,
@@ -84,7 +84,7 @@ BO0624_88528,720683,82,77,"Huihner vor dem Stall,Oelgemalde auf Karton in schwar
 BO0624_88528,720684,83,78,",Waldbach,Oelgemalde auf Leinewand im Goldrahmen, Grosse 48x61 cm,bezeichnet H. Kohnert",356,98.2,False,title_direct,H.Kohnert,,,,
 BO0624_88528,720685,84,79,"Hugelige Landschaft mit Hausern,Oelgemalde auf Leinewand im Goldrahmen Grosse 51X72cm,bezeichnet K.Dahl",360,98.6,False,title_direct,K.Dahl,,,,
 BO0624_88528,720686,85,80,"Isartal, im Hintergrund die Alpen. Oelgemalde auf Karton in schwarzem Rahmen Grosse 43X64 cm,bezeichnet Fuhrmann-Randeck",364,99.2,False,title_direct,Fuhrmann-Randeck,,CORNICI,,
-BO0624_88528,720687,86,81,"Schlossansicht in Rom,Aquarell auf Karton unter Glas im Goldrahmen, Grosse 64X55 cm,bezeichnet Jul.Zielcke,Rom 1915",368,98.7,False,title_direct,,,Glas,,
+BO0624_88528,720687,86,81,"Schlossansicht in Rom,Aquarell auf Karton unter Glas im Goldrahmen, Grosse 64X55 cm,bezeichnet Jul.Zielcke,Rom 1915",368,98.7,False,title_direct,,,Glas,,Sec. XX
 BO0624_88528,720688,87,82,",Waldpartie,Oelgemalde auf Karton in schwarzem Rahmen, Grosse 64X49 cm,bezeichnet A.Leu",373,98.3,False,positional,August Wilhelm Leu,,CORNICI,,
 BO0624_88528,720689,88,83,"Frohliches Zechgelage*, Oelgemalde auf Leinewand in schwarzem Rahmen Grosse 50X65 cm,bezeichnet Georg Mihlberg (Siehe Abbildung Tafel6)",377,99.2,False,title_direct,Georg Mihlberg,,CORNICI,,
 BO0624_88528,720690,89,84,",Partie aus dem Berner Oberland, Oelgemalde auf Leinewand in schwarzem Rahmen,Grosse 46X65 cm,bez. T.v.Eckenbrecher (Siehe Abbildung Tafel 6)",381,98.9,False,positional,Karl Paul Themistockles von Eckenbrecher,,CORNICI,,
@@ -103,14 +103,14 @@ BO0624_88528,720702,101,96,"Segler The Royal Sovereign, Oelgemalde auf Leinewand
 BO0624_88528,720703,102,97,",Nachtliche Fahrt eines grossen Frachtdampfers*, Oelgemalde auf Leinewand im Goldrahmen,Giosse 90x60 cm, bezeichnet Chr. Rave",432,98.8,False,positional,Christopher Rave,,,,
 BO0624_88528,720704,103,98,"8Prunkschiff,Oelgemalde auf Leinewand im Goldrahmen,Grosse 60x90 cm bezeichnet Chr. Rave",433,98.3,False,positional,Christopher Rave,,,,
 BO0624_88528,720705,104,99,",La Conronne,Kriegsschiff um 17oo*, Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 60x90 cm,bezeichnet Chr.Rave",434,98.7,False,positional,Christopher Rave,,CORNICI,,
-BO0624_88528,720706,105,100,",Santa Ana, spanisches Segelschiff um 1750°, Oelgmade auf Leinewand in schwarzem Rahmen, Grosse 60x90 cm,bezeichnet Chi.Rave",435,98.3,False,positional,Christopher Rave,,CORNICI,,
-BO0624_88528,720707,106,101,"Hollandische Bark um 1700°,Oelgemalde auf Leinewand im Goldrahmen Grosse 90x60 cm, bezeichnet Chr.Rave",436,98.0,False,positional,Christopher Rave,,,,
-BO0624_88528,720708,107,102,"Kriegsschiff um 1700°,Oelgemalde auf Leinewand im Goldrahmen, Grosse 90x60 cm,bezeichnet Chr.Rave",437,98.4,False,positional,Christopher Rave,,,,
+BO0624_88528,720706,105,100,",Santa Ana, spanisches Segelschiff um 1750°, Oelgmade auf Leinewand in schwarzem Rahmen, Grosse 60x90 cm,bezeichnet Chi.Rave",435,98.3,False,positional,Christopher Rave,,CORNICI,,Sec. XVIII
+BO0624_88528,720707,106,101,"Hollandische Bark um 1700°,Oelgemalde auf Leinewand im Goldrahmen Grosse 90x60 cm, bezeichnet Chr.Rave",436,98.0,False,positional,Christopher Rave,,,,Sec. XVIII
+BO0624_88528,720708,107,102,"Kriegsschiff um 1700°,Oelgemalde auf Leinewand im Goldrahmen, Grosse 90x60 cm,bezeichnet Chr.Rave",437,98.4,False,positional,Christopher Rave,,,,Sec. XVIII
 BO0624_88528,720709,108,103,",Junge bayrische Bauerin in Festuracht, am Tische sitzend"", Oelgemalde auf Leinewand im Goldrahmen,Grosse 80X60 cm, bez. Otto Bauer",441,98.4,False,positional,Professor Otto Bauer,,,,
 BO0624_88528,720710,109,104,",Damenportrat. Junge Dame in Halbprofil, das lose herabhangende Haar wird durch einen Schmuck gehalien,iber den weiss gekleideten,halb entblossten Oberkorper halt die Dame mit der rechten Hand einen mit Pelz besetzten Mantel. Oeigemalde auf Leinewand im Goldrahmen unter Glas, Grosse 81x55 cm,bezeichnet G.Max",449,99.3,False,title_direct,,,Glas,,
 BO0624_88528,720711,110,105,",Dame im Salon"", Oelgemalde auf Leinewand im Goldrahmen, Grosse 50x79 cm bezeichnet Otalia Kruzenska",452,98.0,False,title_direct,Otalia Kruzenska,,OGGETTI VARI,,
 BO0624_88528,720712,111,106,",Blumenstilleben"". Oelgemalde auf Leinewand im Goldrahmen, Gr8sse 69X88 cm bezeichnet Felix Behr,Hbg.",456,98.0,False,title_direct,Felix Behr,,OGGETTI VARI,,
-BO0624_88528,720713,112,107,",Gesellschaft im Park"". Rechts drei altere Damen am Tisch beim Kartenspiel, daneben junges Madchen beim Servieren, links zwei junge Damen in Unterhaltung. Oelgemalde auf Leinewand im Goldrahmen Grosse 65x95 cm.bezeichnet M.Gionvold 1909",460,99.1,False,positional,M. Gronvold,,,,
+BO0624_88528,720713,112,107,",Gesellschaft im Park"". Rechts drei altere Damen am Tisch beim Kartenspiel, daneben junges Madchen beim Servieren, links zwei junge Damen in Unterhaltung. Oelgemalde auf Leinewand im Goldrahmen Grosse 65x95 cm.bezeichnet M.Gionvold 1909",460,99.1,False,positional,M. Gronvold,,,,Sec. XX
 BO0624_88528,720714,113,108,",Flusslandschaft"", Oelgemalde auf Leinewand in schwarzem Rahmen, arosse 69x99 cm,bezeichnet M.Poretschew 13",464,98.1,False,title_direct,M. Poretschew,,CORNICI,,
 BO0624_88528,720715,114,109,",,Kindergottesdienst,Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 100x72cm,bezeichnet R.deWitt",468,98.0,False,positional,R. de Witf,,CORNICI,,
 BO0624_88528,720716,115,111,",Kistenlandschaft am Mittellandischen Meer"",Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 82X115 cm,bezeichnet J. Kuhrholz",476,98.4,False,title_direct,J.Kuhrholz,,CORNICI,,
@@ -120,13 +120,13 @@ BO0624_88528,720719,118,114,"Blumenmarkt,Oelgemalde auf Leinewand in schwarzem R
 BO0624_88528,720720,119,115,"Ramsauer Kirche gegen die Reiter Alp, Oelgemalde auf Leinewand in schwarzem Rahmen,Grosse 80X120 cm,bezeichnet H.Kiekebusch",491,98.4,False,title_direct,H.Kiekebusch,,CORNICI,,
 BO0624_88528,720721,120,116,"Wagenrennen im alten Rom, Oelgemalde auf Leinewand in schwarzem Rahmen Grosse 86X128 cm,bezeichnet Wald-Walsuorf",495,98.7,False,positional,Prof. Wald-Walsdorf,,CORNICI,,
 BO0624_88528,720722,121,118,"Jahrmarkt in einer polnischen Stadt,Oelgemalde auf Linewand im Goldrahmen,Gi0sse 75x125 cm,bezeichnet Hans P.Feddersen Wtimar 76 (Siehe Abbildung Tafel 13)",505,99.0,False,title_direct,O.Fedder,,,,
-BO0624_88528,720723,122,119,"Der 6.Oktober 1789.Bekannte his orische Scene,Konig Ludwig XVI. mit seiner Gemahlin Maria Anonjette auf dem Wege von Versailles nach Paris zur Nationalversammlung,von Militar ur d Volk umgeben. Oelgemalde auf Leinewand im Goldrahmen,Grosse 100x160 cm bezeichnet A.Knoop",513,99.4,False,positional,August Hermann Knoop,,,,
-BO0624_88528,720724,123,120,"Unschuld*.Auf einer Bank sitzendes junges Madchen im weissen Kleid eine Taube fitternd. Oelgemalde auf Leinewand im Goldrahmen Grosse 166X110 cm,bezeichnet C.v.Bodenhausen 1894",521,98.9,False,positional,Professor Freiherr von Bodenhausen,,,,
+BO0624_88528,720723,122,119,"Der 6.Oktober 1789.Bekannte his orische Scene,Konig Ludwig XVI. mit seiner Gemahlin Maria Anonjette auf dem Wege von Versailles nach Paris zur Nationalversammlung,von Militar ur d Volk umgeben. Oelgemalde auf Leinewand im Goldrahmen,Grosse 100x160 cm bezeichnet A.Knoop",513,99.4,False,positional,August Hermann Knoop,,,,Sec. XVIII
+BO0624_88528,720724,123,120,"Unschuld*.Auf einer Bank sitzendes junges Madchen im weissen Kleid eine Taube fitternd. Oelgemalde auf Leinewand im Goldrahmen Grosse 166X110 cm,bezeichnet C.v.Bodenhausen 1894",521,98.9,False,positional,Professor Freiherr von Bodenhausen,,,,Sec. XIX
 BO0624_88528,720725,124,121,"Norditalienische Kistenlandschaft,Oelgemalde auf Leinewand im Goldrahmen Grosse 107X180 cm,bezeichnet Helene Riehl, Minchen 79 (Siehe Abbildung Tafel 5)",527,99.0,False,positional,Helene Christine Riehl,,,,
 BO0624_88528,720726,125,122,",Treibjagen im Winter"", Oelgemalde auf Leinewand im Goldrahmen, Grosse 43X 60 cm, bezeichnet Gust. Lange (Siehe Abbildung Tafel 4)",532,98.4,False,positional,Helene Christine Riehl,,,,
-BO0624_88528,720727,126,123,"Schiffbrichige im Sturm"", Oelgemalde auf Leinewand im Goldrahmen,Grosse 55X79 cm, bezeichnet Egidius Linnig 1855 (Siehe Abbildung Tafel 3)",538,98.5,False,title_direct,Egidius Linnig,,,,
+BO0624_88528,720727,126,123,"Schiffbrichige im Sturm"", Oelgemalde auf Leinewand im Goldrahmen,Grosse 55X79 cm, bezeichnet Egidius Linnig 1855 (Siehe Abbildung Tafel 3)",538,98.5,False,title_direct,Egidius Linnig,,,,Sec. XIX
 BO0624_88528,720728,127,124,",KleinkinderschuleOelgemalde auf Leinewand im Goldrahmen,Grosse 75X98 cm",546,97.3,False,positional,Karl Larsen,,,,
-BO0624_88528,720729,128,117,"X163 cm, bezeichnet A. Leu 1877 (Siehe Abbildung Tafel 2)",550,97.2,False,positional,August Wilhelm Leu,,,,
+BO0624_88528,720729,128,117,"X163 cm, bezeichnet A. Leu 1877 (Siehe Abbildung Tafel 2)",550,97.2,False,positional,August Wilhelm Leu,,,,Sec. XIX
 BO0624_88528,720730,129,126,"Postkutsche,Oelgemalde auf Holz in schwarzem Rahmen, Grosse 8X10 cm bezeichnet L.Furst",557,97.7,False,title_direct,L.Furst,,CORNICI,,
 BO0624_88528,720731,130,127,"Erntewagen,Oelgemalde auf Karton in schwarzem Rahmen, Grosse 8X11 cm bezeichnet L.Furst Bauer beim Pfluigen,Oelgemalde auf Karton in schwarzem Rahmen,Grosse",558,70.2,False,title_direct,L.Furst,,CORNICI,,
 BO0624_88528,720732,131,128,"8X11 cm,bezeichnet L.Furst",560,92.9,False,title_direct,L.Furst,,,,
@@ -162,7 +162,7 @@ BO0624_88528,720761,160,157,",Kuken, Oelgemalde auf Holz im Goldrahmen, unter Gl
 BO0624_88528,720762,161,158,"Fischerboote an der franzosischen Kuste, Oelgemalde auf Holz in schwarzem Rahmen,Gr0sse 14X20 cm X24 cm,bezeichnet K.v.Wieghem",635,84.8,False,title_direct,K.v.Wieghem,,CORNICI,,
 BO0624_88528,720763,162,159,"Schafe auf der Weide, Oelgemalde auf Holz im Goldrahmen, arosse",640,96.8,False,positional,K.v.Wieghem,,OGGETTI IN LEGNO,,
 BO0624_88528,720764,163,160,"Kuihe auf der Weide, Aquarell unter Glas in schwarzem Rahmen, Grosse 12X20 cm,bezeichnet F.V.",644,97.8,False,title_direct,,,CORNICI,,
-BO0624_88528,720765,164,161,"Portrat des Prof. Dr. Schwalbe*, Bleistiftzeichnung auf Karton in schwarzem. Rahmen, Grosse 31X24 cm, bezeichnet Emanuel Grosser 1897",647,98.4,False,positional,Professor Emanuel Grosser,,CORNICI,,
+BO0624_88528,720765,164,161,"Portrat des Prof. Dr. Schwalbe*, Bleistiftzeichnung auf Karton in schwarzem. Rahmen, Grosse 31X24 cm, bezeichnet Emanuel Grosser 1897",647,98.4,False,positional,Professor Emanuel Grosser,,CORNICI,,Sec. XIX
 BO0624_88528,720766,165,162,",Landschaft, Oelgemalde auf Leinewand im Goldrahmen, Grosse 21X26 cm",651,97.0,False,positional,A. Bocklin,,,,
 BO0624_88528,720767,166,163,",Hollandisches Interieur, Rudolstadter Porzellanmalerei, Grosse Bi X24 cm bezeichnet rickseitig R.",652,97.9,False,title_direct,,,ARREDAMENTI,,
 BO0624_88528,720768,167,164,"Adam und Eva im Paradiese"", Oelgemalde auf Karton in schwarzem Rahmen Grosse 29X20 cm,bezeichnet A.R",656,98.0,False,positional,A. Bocklin,,CORNICI,,
@@ -170,18 +170,18 @@ BO0624_88528,720769,168,165,",Patrouille,Oelgemalde auf Leinewand im Goldrahmen,
 BO0624_88528,720770,169,166,"Portrat eines alten Mannes,Oelgemalde auf Holz in schwarzem Rahmen Grosse 41X32cm",664,98.2,False,positional,Rembrandt,,CORNICI,,
 BO0624_88528,720771,170,167,"Einsiedler in seiner Klause sitzend beim Lesen der Heiligen Schrift, Oelgemalde atuf Holz im Goldrahmen, Grosse 49X32 cm",668,98.3,False,positional,Rembrandt,,OGGETTI IN LEGNO,,
 BO0624_88528,720772,171,34,"X47 cm,bezeichnet F.Kreutzer",672,96.6,False,positional,Felix Kreutzer,,,,
-BO0624_88528,720773,172,169,"Feldwachen und Patrouillen in dem Umschliessungsgirtel von Paris 1871"" Oelgemaldeauf Leinewand im Goldrahmen,Grosse 46X56cmi bezeichnet C.von Binzer",682,98.7,False,title_direct,C.von Binzer,,,,
-BO0624_88528,720774,173,170,",Wassermihle,Oelgemalde auf Holz im Goldrahmen, Grosse 28X40 cm bezeichnet . Scllier 1854",689,97.7,False,positional,E. Schliter,,OGGETTI IN LEGNO,,
+BO0624_88528,720773,172,169,"Feldwachen und Patrouillen in dem Umschliessungsgirtel von Paris 1871"" Oelgemaldeauf Leinewand im Goldrahmen,Grosse 46X56cmi bezeichnet C.von Binzer",682,98.7,False,title_direct,C.von Binzer,,,,Sec. XIX
+BO0624_88528,720774,173,170,",Wassermihle,Oelgemalde auf Holz im Goldrahmen, Grosse 28X40 cm bezeichnet . Scllier 1854",689,97.7,False,positional,E. Schliter,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88528,720775,174,171,"Spielende Kinder,Aquarell unter Glas im Goldrahmen, Grosse 52x38 cm bezeichnet Georg Melchior",695,97.9,False,title_direct,,,Glas,,
 BO0624_88528,720776,175,172,"Porrat Konig Karls 1. von England"",Oelgemalde auf Leinewand im Goldrahmen,Grosse 52x39cm",699,97.7,False,positional,van Dydk,,,,
-BO0624_88528,720777,176,173,",Hraufziehendes Gewitter iber einen Tiroler Gebirgssee,Oelgemalde auf Leinewand im Goldrahmen, Grosse 49x61 cm,bezeichnet rickseitig Ludwig Meixner, gemal in Munchen 1866 (Siehe Abbildung Tafel 10)",705,99.0,False,title_direct,Ludwig Meixner,,,,
+BO0624_88528,720777,176,173,",Hraufziehendes Gewitter iber einen Tiroler Gebirgssee,Oelgemalde auf Leinewand im Goldrahmen, Grosse 49x61 cm,bezeichnet rickseitig Ludwig Meixner, gemal in Munchen 1866 (Siehe Abbildung Tafel 10)",705,99.0,False,title_direct,Ludwig Meixner,,,,Sec. XIX
 BO0624_88528,720778,177,175,",Landleute bei der Mittagsrast auf dem Felde, Oelgemalde auf Leinewand im Goldrahmen, Grosse 46X59 cm,bezeichne1 P.",713,98.2,False,positional,Johann Heinrich Ramberg,,,,
 BO0624_88528,720779,178,176,",Stillben, Oelgemalde auf Leinewand im Goldrahmen, Grosse 79X67 cm bezeichnet Withoos (Siehe Abbildung Tafel 1l)",719,98.2,False,positional,Franz Withoos,,,,
 BO0624_88528,720780,179,177,",Rheinlandschaft"", Aquarell unter Glas in braunem Rahmen, Grosse 25X85 cm",723,97.2,False,title_direct,,,CORNICI,,
-BO0624_88528,720781,180,178,",Stillben"", Oelgemalde auf Leinewand im Goldrahmen, Grosse 80X125 cm bezeichniet H. Runge 1913",727,97.8,False,title_direct,H. Runge,,,,
+BO0624_88528,720781,180,178,",Stillben"", Oelgemalde auf Leinewand im Goldrahmen, Grosse 80X125 cm bezeichniet H. Runge 1913",727,97.8,False,title_direct,H. Runge,,,,Sec. XX
 BO0624_88528,720782,181,179,",Alpengruppe mit Jungfrau"", Oelgemalde auf Leinewand im Goldrahmen Grosse 87X116 cm,rickseitig bezeichnet Graf Kalckreuth (Siche Abbildung Tafel 12)",734,98.6,False,positional,Graf Stanislaus von Kalckreuth,,,,
-BO0624_88528,720783,182,180,"Austreibung aus dem Tempel, Oelgemalde auf Leinewand im Goldrahmen Grosse 190x110 cm,bezeichnet Arendt Kopke 1661",740,98.2,False,title_direct,Arendt Kopke,,,,
-BO0624_88528,720784,183,181,",Christus mit seinen Jungern vor dem Tempel, Oelgemalde auf Leinewand im Goldrahmen, Gr6sse 190x110 cm,bezeichnet Jochim Brunauw 1660",746,98.5,False,title_direct,Jochim Brunauw,,,,
+BO0624_88528,720783,182,180,"Austreibung aus dem Tempel, Oelgemalde auf Leinewand im Goldrahmen Grosse 190x110 cm,bezeichnet Arendt Kopke 1661",740,98.2,False,title_direct,Arendt Kopke,,,,Sec. XVII
+BO0624_88528,720784,183,181,",Christus mit seinen Jungern vor dem Tempel, Oelgemalde auf Leinewand im Goldrahmen, Gr6sse 190x110 cm,bezeichnet Jochim Brunauw 1660",746,98.5,False,title_direct,Jochim Brunauw,,,,Sec. XVII
 BO0624_88528,720785,184,182,",Offenbarung, Oelgemalde auf Leinewand im Goldrahmen, Grosse 190x110 cm",753,97.1,False,positional,Elias Richter,,,,
 BO0624_88528,720786,185,183,84 2 Damenbildnisse,758,90.5,False,positional,Elias Richter,,,,
 BO0624_88528,720787,186,185,90,760,50.0,False,positional,Elias Richter,,,,
@@ -244,7 +244,7 @@ BO0624_88528,720843,242,324,"|  1 |    | M.Ledeli ,In der Werkstatt"",bezeichnet
 BO0624_88528,720844,243,325,"|  1 | 66 | C.Haberlin,Schloss Riedersheim bei Munchen"",bez. C.Haberlin                      | 99                                                                            |",861,97.0,False,positional,,,Zeichnungen; Kupferstiche; Radierungen; Aquarelle,,
 BO0624_88528,720845,244,326,"|  1 | 92 | Lau，Kirche,bezeichnet Lau                                                        |                                                                               |",862,93.8,False,positional,,,Zeichnungen; Kupferstiche; Radierungen; Aquarelle,,
 BO0624_88528,720846,245,327,"|  1 |    | H.Schonfeld ，,Flusslandschaft"",bezeichnet H.Schonfeld                            |                                                                               |",863,96.3,False,positional,,,Zeichnungen; Kupferstiche; Radierungen; Aquarelle,,
-BO0624_88528,720847,246,328,"|  1 |    | Samuel Rosel,Der Hirtensitz bei Buchwald"",bez. S. Rosel 1810                     |                                                                               |",864,96.7,False,positional,,,Zeichnungen; Kupferstiche; Radierungen; Aquarelle,,
+BO0624_88528,720847,246,328,"|  1 |    | Samuel Rosel,Der Hirtensitz bei Buchwald"",bez. S. Rosel 1810                     |                                                                               |",864,96.7,False,positional,,,Zeichnungen; Kupferstiche; Radierungen; Aquarelle,,Sec. XIX
 BO0624_88528,720848,247,329,"|  1 | ”” | Samuel Rosel ,Stadt am Flusse""bezeichnet Rosel                                   |                                                                               |",865,95.9,False,positional,,,Zeichnungen; Kupferstiche; Radierungen; Aquarelle,,
 BO0624_88528,720849,248,330,"|  1 | ”” | Otto Georgy ,Gebirgslandschaft,bezeichnet Georgy                                 |                                                                               |",866,96.1,False,positional,,,Zeichnungen; Kupferstiche; Radierungen; Aquarelle,,
 BO0624_88528,720850,249,331,"|  1 |    | Otto Georgy ,Marktplatz“,bezeichnet O.Georgy                                     |                                                                               |",867,95.7,False,positional,,,Zeichnungen; Kupferstiche; Radierungen; Aquarelle,,
@@ -539,7 +539,7 @@ BO0624_88528,721138,537,654,"Bierkrug mit Inschrift,Hohe 24 cm",1399,94.3,False,
 BO0624_88528,721139,538,655,"1 Wappen,Hohe 24 cm",1401,90.5,False,positional,,,Zinnsammlung,,
 BO0624_88528,721140,539,656,"1 Inschrift R.S.,Hohe 25 cm",1403,92.9,False,positional,,,Zinnsammlung,,
 BO0624_88528,721141,540,657,"1 Weinkanne mit Wappen,Hohe 33 cm",1405,94.3,False,positional,,,Zinnsammlung,,
-BO0624_88528,721142,541,658,"1 Bierkrug mit Inschrift Johan Harder 1747, Hohe 31 cm",1407,96.4,False,positional,,,Zinnsammlung,,
+BO0624_88528,721142,541,658,"1 Bierkrug mit Inschrift Johan Harder 1747, Hohe 31 cm",1407,96.4,False,positional,,,Zinnsammlung,,Sec. XVIII
 BO0624_88528,721143,542,659,"1Weinkanne mit Zieselierung, Hohe 31 cm",1409,95.0,False,positional,,,Zinnsammlung,,
 BO0624_88528,721144,543,660,"1Krug mit Inschrift, Hohe 27 cm",1411,93.8,False,positional,,,Zinnsammlung,,
 BO0624_88528,721145,544,661,"1 Krug mit Inschrift, Hohe 28 cm",1413,93.9,False,positional,,,Zinnsammlung,,
@@ -552,7 +552,7 @@ BO0624_88528,721151,550,667,"1 Krug mit Inschrift J. F. H. B., Hohe 15 cm",1425,
 BO0624_88528,721152,551,668,"1Kafeekanne,Hohe 21 cm",1427,91.7,False,positional,,,Zinnsammlung,,
 BO0624_88528,721153,552,669,"1 Mass, Hohe 16 cm",1429,89.5,False,positional,,,Zinnsammlung,,
 BO0624_88528,721154,553,670,"1 kleine Kanne, Hohe 15 cm",1431,92.6,False,positional,,,Zinnsammlung,,
-BO0624_88528,721155,554,690,"1 34 cm,mit Inschrift Catharina, Margaretha Hitmann 1833 """,1432,96.5,False,positional,,,Zinnsammlung,,
+BO0624_88528,721155,554,690,"1 34 cm,mit Inschrift Catharina, Margaretha Hitmann 1833 """,1432,96.5,False,positional,,,Zinnsammlung,,Sec. XIX
 BO0624_88528,721156,555,699,"1 Kaffeekanne, Hohe 28 cm",1433,92.3,False,positional,,,Zinnsammlung,,
 BO0624_88528,721157,556,672,"|     | 1 Salzfass, Hohe 26 cm           |                                   |      |",1437,91.3,False,positional,,,Zinnsammlung,,
 BO0624_88528,721158,557,673,"|     | 1 Salzfass, Hohe 26 cm           |                                   |      |",1438,91.3,False,positional,,,Zinnsammlung,,
@@ -574,7 +574,7 @@ BO0624_88528,721173,572,688,| 1   | Schale                           | 31cm     
 BO0624_88528,721174,573,689,"|     | Teller,                          | 33cm                              |      |",1454,84.6,False,positional,,,Zinnsammlung,,
 BO0624_88528,721175,574,691,"| 1   | Schale,                          | 36cm                              |      |",1455,86.7,False,positional,,,Zinnsammlung,,
 BO0624_88528,721176,575,692,"| 1   | Teller,                          | 35cm                              |      |",1456,86.7,False,positional,,,Zinnsammlung,,
-BO0624_88528,721177,576,693,"| 1   | “                                | 39 cm, mit Inschrift L. L. D.1738 |      |",1457,94.1,False,positional,,,Zinnsammlung,,
+BO0624_88528,721177,576,693,"| 1   | “                                | 39 cm, mit Inschrift L. L. D.1738 |      |",1457,94.1,False,positional,,,Zinnsammlung,,Sec. XVIII
 BO0624_88528,721178,577,694,"| 1   | Topf mit Henkel, Hohe 21 cm      |                                   |      |",1458,93.3,False,positional,,,Zinnsammlung,,
 BO0624_88528,721179,578,695,| 1   | 79                               | 16cm                              |      |,1459,81.8,False,positional,,,Zinnsammlung,,
 BO0624_88528,721180,579,696,"| 1   | Henkelschale, Durchmesser 18 cm  |                                   |      |",1460,94.1,False,positional,,,Zinnsammlung,,
@@ -602,7 +602,7 @@ BO0624_88528,721201,600,722,"1 Gewurzstreuer, Hohe 8 cm",1499,92.6,False,positio
 BO0624_88528,721202,601,723,"24 2 kleine Kannchen,Hohe 7 cm",1501,93.8,False,positional,,,Zinnsammlung,,
 BO0624_88528,721203,602,725,"1Becher,Hohe 5 cm",1503,89.5,False,positional,,,Zinnsammlung,,
 BO0624_88528,721204,603,726,29 4 Maasse,1505,84.6,False,positional,,,Zinnsammlung,,
-BO0624_88528,721205,604,730,"1 Weihwasserbecken mit Inschrift 1774,Hohe 21 cm",1507,96.0,False,positional,,,Zinnsammlung,,
+BO0624_88528,721205,604,730,"1 Weihwasserbecken mit Inschrift 1774,Hohe 21 cm",1507,96.0,False,positional,,,Zinnsammlung,,Sec. XVIII
 BO0624_88528,721206,605,731,"1 Dose,Lange 14 cm",1509,90.0,False,positional,,,Zinnsammlung,,
 BO0624_88528,721207,606,732,33 2Dosen,1511,81.8,False,positional,,,Zinnsammlung,,
 BO0624_88528,721208,607,734,352Teller,1513,81.8,False,positional,,,Zinnsammlung,,
@@ -706,10 +706,10 @@ BO0624_88528,721305,704,1,grosse indische Decke,1719,95.5,False,positional,,,Tep
 BO0624_88528,721306,705,1,reichhalfige Bibliothek,1723,95.8,False,positional,,,Teppiche; Bricken,,
 BO0624_88528,721307,706,830,## Nachtrag,1726,100.0,False,positional,,,Teppiche; Bricken,,
 BO0624_88528,721308,707,3,",Mann mit Pfeife"",Oelgemalde auf Holz in schwarzem Rahmen, Grosse 18X14cm",1730,98.6,False,positional,Hans Fenger,,CORNICI,,
-BO0624_88528,721309,708,823,bezeichnet Hans Fenger 1923,1731,93.1,False,title_direct,Hans Fenger,,,,
-BO0624_88528,721310,709,824,",Alter Mann beim Kruge Wein"", Oelgemalde auf Holz in schwarzem Rahmen Grosse 18X14 cm,bezeichnet Hans Fenger 1923",1732,98.2,False,title_direct,Hans Fenger,,CORNICI,,
-BO0624_88528,721311,710,825,"5,Die Weinprobe"", Oelgemalde auf Holz in schwarzem Rahmen, Grosse 18X14 cm bezeichnet Hans Fenger 1923",1733,98.0,False,title_direct,Hans Fenger,,CORNICI,,
-BO0624_88528,721312,711,826,"6,Edelmann am Kamin sitzend"",Oelgemalde auf Holz in schwarzem Rahmen Grosse 14X18 cm,bezeichnet Hans Fenger 1923",1734,98.2,False,title_direct,Hans Fenger,,CAMINI,,
+BO0624_88528,721309,708,823,bezeichnet Hans Fenger 1923,1731,93.1,False,title_direct,Hans Fenger,,,,Sec. XX
+BO0624_88528,721310,709,824,",Alter Mann beim Kruge Wein"", Oelgemalde auf Holz in schwarzem Rahmen Grosse 18X14 cm,bezeichnet Hans Fenger 1923",1732,98.2,False,title_direct,Hans Fenger,,CORNICI,,Sec. XX
+BO0624_88528,721311,710,825,"5,Die Weinprobe"", Oelgemalde auf Holz in schwarzem Rahmen, Grosse 18X14 cm bezeichnet Hans Fenger 1923",1733,98.0,False,title_direct,Hans Fenger,,CORNICI,,Sec. XX
+BO0624_88528,721312,711,826,"6,Edelmann am Kamin sitzend"",Oelgemalde auf Holz in schwarzem Rahmen Grosse 14X18 cm,bezeichnet Hans Fenger 1923",1734,98.2,False,title_direct,Hans Fenger,,CAMINI,,Sec. XX
 BO0624_88528,721313,712,827,",Bauern bei der Ernte"", Gouache Malerei auf Karton in schwarzem Rahmen",1739,97.1,False,positional,Hugo Muhlig,,CORNICI,,
 BO0624_88528,721314,713,828,",Ansicht von Molln am Abend"", Oelgemalde auf Karton in schwarzem Rahmen",1744,97.1,False,positional,M.Soltmeyer,,CORNICI,,
 BO0624_88528,721315,714,829,",Stilleben"", Oelgemalde auf Holz in schwarzem Rahmen, Grosse 39X30 cm",1749,97.0,False,positional,M.Soltmeyer,,CORNICI,,
@@ -717,7 +717,7 @@ BO0624_88528,721316,715,831,"Im Stall,Oelgemalde auf Leinewand in schwarzem Rahm
 BO0624_88528,721317,716,832,",Junge Dame an der Kapelle"", Oelgemalde auf Leinewand in schwarzem Rahmen Grosse 49X40 cm,bezeichnet H.Fenger",1761,98.1,False,positional,Hans Fenger,,CORNICI,,
 BO0624_88528,721318,717,833,",Rosen"", Oelgemalde auf Leinewand in schwarzem Rahmen, Grosse 50X40 cm",1762,97.1,False,positional,Hans Fenger,,CORNICI,,
 BO0624_88528,721319,718,835,"| Chrysanthemen, Aquarell unter Glas in schwarzem Rahmen, Grosse 64X48 cm                                                                                                                    |",1768,97.2,False,title_direct,,,CORNICI,,
-BO0624_88528,721320,719,836,"| Astern,Aquarell unter Glas in schwarzem Rahmen, Grosse 64X48 cm, be- zeichnet E.Ruger 1919                                                                                                 |",1769,97.8,False,title_direct,E.Ruiger,,CORNICI,,
+BO0624_88528,721320,719,836,"| Astern,Aquarell unter Glas in schwarzem Rahmen, Grosse 64X48 cm, be- zeichnet E.Ruger 1919                                                                                                 |",1769,97.8,False,title_direct,E.Ruiger,,CORNICI,,Sec. XX
 BO0624_88528,721321,720,837,"| Dalien, Aquarell unter Glas in schwarzem Rahmen, Grosse 64X48 cm, be- zeichnet E.Ruger                                                                                                     |",1770,97.6,False,title_direct,E.Ruiger,,CORNICI,,
 BO0624_88528,721322,721,838,"| Margarethen, Aquarell unter Glas in schwarzem Rahmen, Grosse 64X48 cm bezeichnet E.Ruger                                                                                                   |",1771,97.7,False,title_direct,E.Ruiger,,CORNICI,,
 BO0624_88528,721323,722,839,"| Astern, Aquarell unter Glas in schwarzem Rahmen, Grosse 64X48 cm, be- zeichnet E.Kriger                                                                                                    |",1772,97.6,False,title_direct,,,CORNICI,,

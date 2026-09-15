@@ -3,7 +3,7 @@ BO0624_88700,679307,1,1,Hollandische Spinnstube.,7,95.8,False,positional,MAX LIE
 BO0624_88700,679308,2,2,Bildnis seines Zeichenlehrers Dreesen.,21,97.4,False,positional,WILHELM LEIBL,,,,
 BO0624_88700,679309,3,3,Bildnis R. Sieger.,41,94.1,False,positional,LOVIS CORINTH,,,,
 BO0624_88700,679310,4,5,Alter Mann.,52,90.9,False,positional,LOVIS CORINTH,,,,
-BO0624_88700,679311,5,6,Sonniger Bergwald mit Herdentieren. a Abend bei Tivoli 1891.,82,72.3,False,positional,HANS THOMA,,,,
+BO0624_88700,679311,5,6,Sonniger Bergwald mit Herdentieren. a Abend bei Tivoli 1891.,82,72.3,False,positional,HANS THOMA,,,,Sec. XIX
 BO0624_88700,679312,6,7,Anbetung der heiligen drei Konige.,109,97.1,False,positional,HANS THOMA,,,,
 BO0624_88700,679313,7,8,Die Einsiedelei.,125,93.8,False,positional,CARL SPITZWEG,,,,
 BO0624_88700,679314,8,9,"Berglandschaft in Abendbeleuchtung,mit Hirtin.",140,97.8,False,positional,CARL SPITZWEG,,,,
@@ -67,9 +67,9 @@ BO0624_88700,679371,65,80,Lautespielender Putto. m Vordergrunde einer arkadische
 BO0624_88700,679372,66,81,Der Burgermeister.,1028,91.9,False,positional,HANS BEST,,,,
 BO0624_88700,679373,67,83,Hund mit erlegtem Hasen. n dichtem Riedgrase vorn verhalt ein grauschwarzer Huhnerhund. einen erlegten Hasen im Fang. Sonnige Mittagsstimmung.,1057,90.9,False,positional,CARL FRIEDRICH DEIKER,,,,
 BO0624_88700,679374,68,84,Die Spione.,1065,87.0,False,positional,HERMAN TEN KATE,,,,
-BO0624_88700,679375,69,I,"n einem Renaissancesaal mit geschnitztem Kamin rechts sitzt ein General neben rotweiBblauer Fahne an grungedecktem Tische vor zwei Offizieren und einem Schreiber. Links werden von Soldaten zwei beim Spionieren ertappte Bauern hereingebracht,deren vorderster vor dem General in die Knie sinkt. Reiche farbige Kostume des 17. Jahrh.",1069,99.8,False,positional,HERMAN TEN KATE,,CAMINI,,
-BO0624_88700,679376,70,1806,1880,1077,61.5,False,positional,WILLEM BODEMAN; EUGENE VERBOECKHOVEN,Scuola di Monaco,,,
-BO0624_88700,679377,71,1799,1881,1079,61.5,False,positional,WILLEM BODEMAN; EUGENE VERBOECKHOVEN,,,,
+BO0624_88700,679375,69,I,"n einem Renaissancesaal mit geschnitztem Kamin rechts sitzt ein General neben rotweiBblauer Fahne an grungedecktem Tische vor zwei Offizieren und einem Schreiber. Links werden von Soldaten zwei beim Spionieren ertappte Bauern hereingebracht,deren vorderster vor dem General in die Knie sinkt. Reiche farbige Kostume des 17. Jahrh.",1069,99.8,False,positional,HERMAN TEN KATE,,CAMINI,,Sec. XVII
+BO0624_88700,679376,70,1806,1880,1077,61.5,False,positional,WILLEM BODEMAN; EUGENE VERBOECKHOVEN,Scuola di Monaco,,,Sec. XIX
+BO0624_88700,679377,71,1799,1881,1079,61.5,False,positional,WILLEM BODEMAN; EUGENE VERBOECKHOVEN,,,,Sec. XIX
 BO0624_88700,679378,72,85,Baumreiche Landschaft mit Herde.,1081,95.4,False,positional,WILLEM BODEMAN; EUGENE VERBOECKHOVEN,,,,
 BO0624_88700,679379,73,86,Bildnis einer Edeldame.,1093,93.6,False,positional,FRITZ VON UHDE,,,,
 BO0624_88700,679380,74,87,Im Wirtshausgarten.,1104,92.3,False,positional,GERHARD JANSSEN,,,,
@@ -107,7 +107,7 @@ BO0624_88700,679411,105,129,Beim Mahle uberrascht.,1663,91.3,False,positional,JU
 BO0624_88700,679412,106,130,Soldaten Friedrichs des Groβen. m Helldunkel einer Scheune farbenbuntes Durcheinander aller moglichen Waffengattungen des preubischen Heeres im siebenjahrigen,1677,89.4,False,positional,CARL SEILER,,,,
 BO0624_88700,679413,107,131,"Der Besuch. m Ofenwinkel einer Tiroler Bauernstube sitzt ein junger Ehemann in Hemdsarmeln und rotem Kamisol neben seiner jungen Frau, die ihren kleinen SproBling auf dem SchoBe halt, einem Dirndl gegenuber, die mit Hut und rotem Regenschirm neben dem Tische Platz genommen hat. Die alte Mutter in rotem Kopftuch steht im Eck und hort der lustigen",1691,98.2,False,positional,FRANZ VON DEFREGGER,,,,
 BO0624_88700,679414,108,132,"Blumenstraup in gelber Tonvase,vor blauem Grunde.",1707,96.0,False,positional,SERAPHIN ACHILLE VERHOEVEN,,,,
-BO0624_88700,679415,109,133,Alte Frau in der Kirche. geb.1863 in Haarlem 1876,1718,90.5,False,positional,GERHARD JANSSEN,,,,
+BO0624_88700,679415,109,133,Alte Frau in der Kirche. geb.1863 in Haarlem 1876,1718,90.5,False,positional,GERHARD JANSSEN,,,,Sec. XIX
 BO0624_88700,679416,110,134,SonnigeWaldlichtung,1728,92.7,False,positional,NARZ. VIRG. DIAZ,,,,
 BO0624_88700,679417,111,135,Bauerin.,1739,77.8,False,positional,BENJAMIN VAUTIER,,,,
 BO0624_88700,679418,112,136,Schafe. m Vordergrunde einer Landschaft lagert eine Schafherde in der Bild- mitte unter einem Baume.Hirten im Hintergrunde.,1753,96.6,False,positional,CHARLES JACQUE,,,,
@@ -115,9 +115,9 @@ BO0624_88700,679419,113,137,Selbstbildnis.,1759,86.7,False,positional,GERHARD JA
 BO0624_88700,679420,114,138,Lachender Mannerkopf.,1769,90.9,False,positional,GERHARD JANSSEN,,,,
 BO0624_88700,679421,115,138,a Alte Frau am Kaffeetisch.,1777,94.5,False,positional,GERHARD JANSSEN,,,,
 BO0624_88700,679422,116,140,Rauchender Bauer.,1806,88.9,False,positional,BENJAMIN VAUTIER,,,,
-BO0624_88700,679423,117,142,",Das tagliche Brot"". 1903",1832,79.1,False,positional,HANS VON BARTELS,,,,
+BO0624_88700,679423,117,142,",Das tagliche Brot"". 1903",1832,79.1,False,positional,HANS VON BARTELS,,,,Sec. XX
 BO0624_88700,679424,118,143,Drei bretonische Bauernmadchen auf einer Wiese. Wald-Inneres. Jesus und der unglaubige Thomas.,1844,65.2,False,positional,PAUL GAUGUIN,,,,
-BO0624_88700,679425,119,146,Bildnis seines Sohnes Bernard Daubigny 1898,1879,89.4,False,positional,CHARLES DAUBIGNY,,,,
+BO0624_88700,679425,119,146,Bildnis seines Sohnes Bernard Daubigny 1898,1879,89.4,False,positional,CHARLES DAUBIGNY,,,,Sec. XIX
 BO0624_88700,679426,120,147,Groβes Hafenbild.,1893,88.9,False,positional,JAQUES BARTHELEMY APPIAN,,,,
 BO0624_88700,679427,121,148,Gegenstuick zu vorigem.,1901,91.7,False,positional,JAQUES BARTHELEMY APPIAN,,,,
 BO0624_88700,679428,122,153,Im Altmannerheim.,1959,91.4,False,positional,BENJAMIN VAUTIER,,,,
@@ -163,12 +163,12 @@ BO0624_88700,679467,161,194,Brucke in Rouen. Kohlezeichnung.Betitelt:Rouen.Monog
 BO0624_88700,679468,162,195,"Gruppe von drei Arbeitern, stehend,von hinten gesehen. Sepia- und Bleistiftzeichnung. Monogrammiert: C.P.21X14.",2183,98.1,False,positional,CAMILLE PISSARRO,,OGGETTI VARI,,
 BO0624_88700,679469,163,196,"Sitzende Frau, mit emporgerichtetem Blick,nach rechts gewendet.Kohlezeichnung. Gestempelt H.E. C.21X22.",2189,98.0,False,positional,HENRI EDMOND CROSS,,,,
 BO0624_88700,679470,164,203,Bastonade.,2190,81.8,False,positional,HENRI EDMOND CROSS,,,,
-BO0624_88700,679471,165,1878,1916,2194,61.5,False,positional,ANDRE DERAIN,,,,
+BO0624_88700,679471,165,1878,1916,2194,61.5,False,positional,ANDRE DERAIN,,,,Sec. XX
 BO0624_88700,679472,166,197,"Weibliches Bildnis. Brustbild en face, die linke Hand zur Brust erhoben. Bleistiftzeichnung. 31X20.",2196,97.9,False,positional,ANDRE DERAIN,,,,
 BO0624_88700,679473,167,198,"Blumenstrauβ in Vase. Zeichnung in Kohle und blauer Kreide. 22,5X17.",2197,97.0,False,positional,ANDRE DERAIN,,VASI,,
 BO0624_88700,679474,168,199,Baumdurchsetzte Gebirgslandschaft,2203,95.7,False,positional,RAOUL DUFY,,,,
 BO0624_88700,679475,169,200,Baumdurchsetzte Landschaft. Bleistiftzeichnung.Monogrammiert:Ch.J.11X18.,2210,97.2,False,positional,CHARLES JACQUE,,,,
-BO0624_88700,679476,170,201,"Stiefmutterchen in gruner Vase.Aquarell. Monogrammiert:M.L.17,5X14. 1892",2214,93.5,False,positional,MARIE LAURENCIN,,VASI,,
+BO0624_88700,679476,170,201,"Stiefmutterchen in gruner Vase.Aquarell. Monogrammiert:M.L.17,5X14. 1892",2214,93.5,False,positional,MARIE LAURENCIN,,VASI,,Sec. XIX
 BO0624_88700,679477,171,202,"Weiblicher Kopf. Bleistiftzeichnung, weiB gehoht. 8,5X6,5.",2220,96.4,False,positional,HENRI LAUTREC DE TOULOUSE,,,,
 BO0624_88700,679478,172,204,",Pour lalbum de Picard.",2227,91.3,False,positional,MAXIMILIEN LUCE,,,,
 BO0624_88700,679479,173,205,"Bildnis Lugue Poe. Kohlezeichnung.Bezeichnet:Luce.34X11,5.",2229,96.6,False,positional,MAXIMILIEN LUCE,,,,
@@ -178,4 +178,4 @@ BO0624_88700,679482,176,208,Das Flop.-Familie in humoristischem Badekostim.,2256
 BO0624_88700,679483,177,209,"Zwei Kinder nebeneinander. Federzeichnung.Bezeichnet:J.F.Raffaelli.18,5X22.",2258,97.3,False,positional,JEAN FRANCOIS RAFFAELLI,,,,
 BO0624_88700,679484,178,211,Blumenstraup in Vase. Schwarze Tuschzeichnung. Bezeichnet:Vlaminck. 37X29.,2268,97.2,False,positional,MAURICE DE VLAMINCK,,VASI,,
 BO0624_88700,679485,179,212,"Alte Frau vor einem Haus. Bleistiftzeichnung.Monogrammiert: J.F.M.14,5X18.",2274,97.3,False,positional,JEAN FRANCOIS MILLET,,,,
-BO0624_88700,679486,180,1814,1874,2276,61.5,False,positional,JEAN FRANCOIS MILLET,,,,
+BO0624_88700,679486,180,1814,1874,2276,61.5,False,positional,JEAN FRANCOIS MILLET,,,,Sec. XIX

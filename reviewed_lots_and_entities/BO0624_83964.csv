@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83964,3766,1,3,Repos de chasse.,38,93.8,False,positional,BLARENBERGHE (LoUIS VAN),,,,
-BO0624_83964,3767,2,1761,1845.,61,61.5,False,positional,BOILLY (LOUIS-LEOPOLD),,,,
+BO0624_83964,3767,2,1761,1845.,61,61.5,False,positional,BOILLY (LOUIS-LEOPOLD),,,,Sec. XIX
 BO0624_83964,3768,3,5,Portrait presume de Boieldieu.,63,96.7,False,positional,BOILLY (LOUIS-LEOPOLD),,,,
 BO0624_83964,3769,4,6,La Saone.,75,88.9,False,positional,BOUCHER (Attribue a FRANcoIs),,,,
 BO0624_83964,3770,5,I,"l est surpris a la vue de Venus, de ses suivantes et de l'Amour qui dorment a terre au milieu des rochers.",112,99.5,False,positional,BREENBERGH (BARTHELEMY),,,,
@@ -29,7 +29,7 @@ BO0624_83964,3792,27,41,## KENNFFER,397,100.0,False,title_direct,KENNFFER,,,,
 BO0624_83964,3793,28,40,— Achille plonge dans le Styx.,399,94.7,False,positional,KENNFFER,,,,
 BO0624_83964,3794,29,I,nterieur d'ecurie.,407,97.1,False,positional,KENNFFER,,,,
 BO0624_83964,3795,30,44,— Les Deux amis.,440,89.7,False,positional,LEDOUX (MIIe JEANNE-PHILIBERTE),,,,
-BO0624_83964,3796,31,46,## LODER (MATHIEU) 1828.,456,83.9,False,title_direct,LODER (MATHIEU),,,,
+BO0624_83964,3796,31,46,## LODER (MATHIEU) 1828.,456,83.9,False,title_direct,LODER (MATHIEU),,,,Sec. XIX
 BO0624_83964,3797,32,47,— Autre Spadassin.,468,90.9,False,positional,LODER (MATHIEU),,,,
 BO0624_83964,3798,33,48,— -Portrait d'un amiral.,478,93.0,False,positional,MIEREVELT (MICHEL-JEAN),,,,
 BO0624_83964,3799,34,49,## MIEREVELT (Ecole de MICHEL-JEAN),487,100.0,False,title_direct,MIEREVELT MICHEL JANSON,MIEREVELT (Ecole de MICHEL-JEAN),,,
@@ -43,22 +43,22 @@ BO0624_83964,3806,41,58,## —Interieur de tabagie.,576,100.0,False,positional,R
 BO0624_83964,3807,42,59,— Portrait de l'artiste.,586,93.3,False,positional,REMBRANDT,,,,
 BO0624_83964,3808,43,6,o - Portrait d'un gentilhomme.,593,98.2,False,positional,REYN(JEANDE),,,,
 BO0624_83964,3809,44,I,"l est represente jusqu'aux genoux, de trois quarts vers la droite, les cheveux noirs et crepus. Il porte un col de batiste a glands retombant, et un pourpoint violace et soutache de noir. La main droite sur la hanche, il est appuye de la gauche sur une chaise de bois, a demi enveloppe dans un manteau de velours noir. A droite, dans le fond,un rideau de soie vert cendre; dans le haut, des armoiries.",595,99.9,False,positional,REYN(JEANDE),,OGGETTI IN LEGNO,,
-BO0624_83964,3810,45,61,- Portrait de femme. 1734.,600,81.0,False,positional,REYN (JEAN DE),,,,
+BO0624_83964,3810,45,61,- Portrait de femme. 1734.,600,81.0,False,positional,REYN (JEAN DE),,,,Sec. XVIII
 BO0624_83964,3811,46,62,— L'Abondance recompense la Vertu.,609,95.4,False,positional,RICCI (SEBASTIEN),,,,
 BO0624_83964,3812,47,63,— Portrait du Cardinal de Fleury.,617,95.2,False,positional,RIGAUD (D'apres HYAcINTHE),,,,
 BO0624_83964,3813,48,64,- Le Triomphe de Venus.,627,93.0,False,positional,ROORE (JACQUES DE),,,,
-BO0624_83964,3814,49,1564,1623.,636,61.5,False,positional,ROTTENHAMER (J.),,,,
-BO0624_83964,3815,50,1568,1625.,640,61.5,False,positional,BREUGHEL DE VELOURS,,,,
+BO0624_83964,3814,49,1564,1623.,636,61.5,False,positional,ROTTENHAMER (J.),,,,Sec. XVII
+BO0624_83964,3815,50,1568,1625.,640,61.5,False,positional,BREUGHEL DE VELOURS,,,,Sec. XVII
 BO0624_83964,3816,51,65,-La Vierge aux anges.,642,92.7,False,positional,BREUGHEL DE VELOURS,,,,
-BO0624_83964,3817,52,66,— Tentation de saint Antoine. 1640.,656,86.7,False,positional,BREUGHEL D'ENFER,,,,
+BO0624_83964,3817,52,66,— Tentation de saint Antoine. 1640.,656,86.7,False,positional,BREUGHEL D'ENFER,,,,Sec. XVII
 BO0624_83964,3818,53,67,— Ericton dans la corbeille.,666,94.3,False,positional,,RUBENS (Ecole de P.-P.),,,
 BO0624_83964,3819,54,68,—Le Serpent d'airain.,673,92.7,False,positional,,RUBENS (Ecole de P.-P.),,,
 BO0624_83964,3820,55,69,Concert galant.,681,90.3,False,positional,,RUBENS (Ecole de P.-P.),,,
 BO0624_83964,3821,56,70,—— Le Festin des dieux.,689,92.7,False,positional,,RUBENS (Ecole de P.-P.),,,
 BO0624_83964,3822,57,71,## RYCKAERT(DAVID),696,100.0,False,title_direct,RYCKAERT(DAVID),,,,
-BO0624_83964,3823,58,1612,1662.,698,61.5,False,positional,RYCKAERT(DAVID),,,,
+BO0624_83964,3823,58,1612,1662.,698,61.5,False,positional,RYCKAERT(DAVID),,,,Sec. XVII
 BO0624_83964,3824,59,73,74 一,719,72.7,False,positional,SMOUT (Luc),,,,
-BO0624_83964,3825,60,76,neige. 1655.,744,55.6,False,positional,TENIERS LE JEUNE (DAVID),,,,
+BO0624_83964,3825,60,76,neige. 1655.,744,55.6,False,positional,TENIERS LE JEUNE (DAVID),,,,Sec. XVII
 BO0624_83964,3826,61,77,— Le Partage de la Terre promise.,757,95.2,False,positional,TESTELIN (LoUIS),,,,
 BO0624_83964,3827,62,78,-Venus et l'Amour.,765,91.4,False,positional,,"TITIEN (Ecole de VEcELLI, dit le)",,,
 BO0624_83964,3828,63,81,## VAN DER NEER (EGLON) o - Diane au repos.,782,67.9,False,title_direct,VAN DER NEER (EGLON),,,,
@@ -79,18 +79,18 @@ BO0624_83964,3842,77,103,Halte de chasse.,1016,88.2,False,positional,WOUWERMAN (
 BO0624_83964,3843,78,104,La Halte. Histoire de la vie d'Henri IV.,1056,84.5,False,positional,BLARENBERGHE (LoUIS VAN),,,,
 BO0624_83964,3844,79,105,## 107 一,1063,100.0,False,positional,BLARENBERGHE (LoUIS VAN),,,,
 BO0624_83964,3845,80,1,o8 - Femme nue couchee et de profil.,1077,98.5,False,positional,BLARENBERGHE (LoUIS VAN),,,,
-BO0624_83964,3846,81,1599,1675.,1085,61.5,False,positional,DIEPENBECK (ABRAHAM VAN),,,,
+BO0624_83964,3846,81,1599,1675.,1085,61.5,False,positional,DIEPENBECK (ABRAHAM VAN),,,,Sec. XVII
 BO0624_83964,3847,82,109,一 Une Joute au XVlle siecle.,1087,93.1,False,positional,DIEPENBECK (ABRAHAM VAN),,,,
 BO0624_83964,3848,83,110,Interieur de cathedrale.,1101,92.0,False,positional,DOUELLE (JEAN),,ARREDAMENTI,,
-BO0624_83964,3849,84,1726,1806.,1108,61.5,False,positional,DOYEN (GABRIEL-FRANCOIS),,,,
+BO0624_83964,3849,84,1726,1806.,1108,61.5,False,positional,DOYEN (GABRIEL-FRANCOIS),,,,Sec. XIX
 BO0624_83964,3850,85,III,— Projet de plafond.,1110,89.5,False,positional,DOYEN (GABRIEL-FRANCOIS),,,,
 BO0624_83964,3851,86,113,-La Vierge aux anges.,1126,90.5,False,positional,DUCHATEL (FRANCOIS),,,,
 BO0624_83964,3852,87,115,Le Paradis. ## ECOLE FRANCAISE (xvIn siecle),1140,83.1,False,title_direct,,ECOLE FRANCAISE,,,
 BO0624_83964,3853,88,116,S Sujet d'un plafond.,1147,90.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83964,3854,89,118,一 Une Famille hollandaise.,1165,92.6,False,positional,,ECOLE ROMAINE,,,
 BO0624_83964,3855,90,120,一 Effet de lumiere.,1185,90.0,False,positional,JORDAENS (JACQUES),,,,
-BO0624_83964,3856,91,1687,1761.,1192,61.5,False,positional,LAJOUE (JACQUES),,,,
-BO0624_83964,3857,92,175,g-1849.,1206,80.0,False,positional,REDOUTE (PIERRE-JOSEPH),,,,
+BO0624_83964,3856,91,1687,1761.,1192,61.5,False,positional,LAJOUE (JACQUES),,,,Sec. XVIII
+BO0624_83964,3857,92,175,g-1849.,1206,80.0,False,positional,REDOUTE (PIERRE-JOSEPH),,,,Sec. XIX
 BO0624_83964,3858,93,128,129,1236,100.0,False,positional,REDOUTE (PIERRE-JOSEPH),,,,
 BO0624_83964,3859,94,131,## REGEMORTES (PIERRE-JEAN VAN),1240,100.0,False,title_direct,REGEMORTES (PIERRE-JEAN VAN),,,,
 BO0624_83964,3860,95,127,一 Artistes et bourgeois.,1242,92.0,False,positional,REGEMORTES (PIERRE-JEAN VAN),,,,
@@ -101,7 +101,7 @@ BO0624_83964,3864,99,134,- Le Marchand de plaisirs endormi.,1301,93.9,False,posi
 BO0624_83964,3865,100,135,L'Heureuse famille.,1311,90.0,False,positional,SAINT-QUENTIN,,,,
 BO0624_83964,3866,101,136,Le Triomphe d'Amphitrite.,1321,92.3,False,positional,SAINT-QUENTIN,,,,
 BO0624_83964,3867,102,137,-Officiant t agenouille au pied de l'autel.,1330,95.3,False,positional,VAN LOO (CARLE),,,,
-BO0624_83964,3868,103,1578,1629.,1338,61.5,False,positional,VINCKEBOONS (DAVID),,,,
+BO0624_83964,3868,103,1578,1629.,1338,61.5,False,positional,VINCKEBOONS (DAVID),,,,Sec. XVII
 BO0624_83964,3869,104,148,Tetes de femmes et une femme assise jusqu'aux genoux.,1409,96.3,False,positional,WATTEAU (LoUIS-JoSEPH),,,,
 BO0624_83964,3870,105,149,-Jeune femme.,1413,84.6,False,positional,WATTEAU (LoUIS-JoSEPH),,,,
 BO0624_83964,3871,106,150,Scenes de jardins publics.,1421,92.6,False,positional,WATTEAU (LoUIS-JoSEPH),,,,

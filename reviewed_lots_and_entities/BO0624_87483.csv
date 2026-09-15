@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_87483,463815,1,1,Die Verkundigung Maria.,48,95.7,False,positional,,Altkolnischer Meister,,,
 BO0624_87483,463816,2,I,"m Innern einer von Saulen getragenen gothischen Halle sitzt Maria, die gefaltenen Hande im Schooss; vor ihr der Erzengel Gabriel. In den Wolken Gott Vater von dem goldenen Strahl, in dessen Mitte der hl. Geist die Jungfrau Maria bescheint.",50,99.8,False,positional,METSU GABRIEL,Altkolnischer Meister,,,
 BO0624_87483,463817,3,I,"nteressantes Bild. Leinwand, Hohe 60, Breite 73 ctm. Schwarzer Rahmen.",52,99.2,False,positional,,Altkolnischer Meister,CORNICI,,
-BO0624_87483,463818,4,1610,1660.,56,61.5,False,positional,Asselyn,,,,
+BO0624_87483,463818,4,1610,1660.,56,61.5,False,positional,Asselyn,,,,Sec. XVII
 BO0624_87483,463819,5,2,Reitergefecht.,58,92.9,False,positional,Asselyn,,OGGETTI VARI,,
 BO0624_87483,463820,6,3,Landschaft mit Staffage. Gute Tuschezeichnung.,64,97.8,False,positional,F.Barber,,,,
 BO0624_87483,463821,7,2,4.Der Schuster. Geistreiche Aquarelle.Voll bezeichnet.,65,98.1,False,positional,F.Barber,,,,
@@ -22,13 +22,13 @@ BO0624_87483,463834,20,16,Portrait.,172,84.2,False,positional,,Deutscher Meister
 BO0624_87483,463835,21,17,Flusslandschaft mit Staffage.,178,94.9,False,positional,J. Chr. Dietzsch,,,,
 BO0624_87483,463836,22,18,Die nachdenkende Alte.,186,93.3,False,positional,Gerard Dow,,,,
 BO0624_87483,463837,23,20,Junge Frau umarmt einen Knaben. Sehr feine bunte Stiftzeichnung.,197,97.6,False,positional,,Dusseldorfer Meister,,,
-BO0624_87483,463838,24,26,"geb. Antwerpen 1599, gest. Blackfriars 1641. 21. Christus an der Saule.",205,100.0,False,positional,Anton van Dyick,,,,
+BO0624_87483,463838,24,26,"geb. Antwerpen 1599, gest. Blackfriars 1641. 21. Christus an der Saule.",205,100.0,False,positional,Anton van Dyick,,,,Sec. XVI
 BO0624_87483,463839,25,27,ist mit den Handen an eine Saule gebunden; zur Seite kniet ein betender Engel.,209,100.0,False,positional,Anton van Dyick,,,,
 BO0624_87483,463840,26,I,n Grisaille fein ausgefihrtes Bild.,213,98.6,False,positional,Anton van Dyick,,,,
 BO0624_87483,463841,27,22,"Winterlandschaft mit Volksbelustigung. Im Vordergrund eine Anzahl Bauernhauser, daneben ein grosses zugefrorenes Gewasser, das von vielen Schlittschuhlaufern stark belebt wird.",221,99.1,False,positional,Falkenburg,,,,
 BO0624_87483,463842,28,23,Zigeuner werden in einem Dorf verhohnt und mit Steinen ge,226,97.4,False,positional,A.Ferrari,,,,
 BO0624_87483,463843,29,24,Rast am Brunnen.,232,90.9,False,positional,Vincenz Fischer,,,,
-BO0624_87483,463844,30,25,"Brustbild eines jungen Mannes. 1862. Oben links die Jahreszahl Meisterhafte Aquarelle, voll bezeichnet.",240,98.5,False,positional,Georg Fuchs,,,,
+BO0624_87483,463844,30,25,"Brustbild eines jungen Mannes. 1862. Oben links die Jahreszahl Meisterhafte Aquarelle, voll bezeichnet.",240,98.5,False,positional,Georg Fuchs,,,,Sec. XIX
 BO0624_87483,463845,31,26,"Scene aus: Wie war zu Koln es doch vordem Mit Heinzelminnchen so bequem Feine Stiftzeichnung, voll bezeichnet.",241,98.6,False,positional,Georg Fuchs,,,,
 BO0624_87483,463846,32,28,29,245,100.0,False,positional,Georg Fuchs,,,,
 BO0624_87483,463847,33,3,ses ern,248,100.0,False,positional,Georg Fuchs,,,,
@@ -67,8 +67,8 @@ BO0624_87483,463879,65,2,"In einer Kiche, in der mehrere Tische mit Speisevorrat
 BO0624_87483,463880,66,3,"bedeckt sind, sieht man eine Kochin bei der Arbeit. Holz, Hohe 86, Breite 64 ctm.",497,98.7,False,positional,G. Metsu,,OGGETTI IN LEGNO,,
 BO0624_87483,463881,67,56,Die Kochin.,501,87.0,False,positional,A. Meulemans,,,,
 BO0624_87483,463882,68,57,Junge Frau und Knabe am Fenster. Tuschezeichnung auf blauem Papier mit erhohten Lichtern. Auf der Rickseite voll bezeichnet,505,82.5,False,positional,A. Meulemans,,,,
-BO0624_87483,463883,69,58,"Nordische Mondlandschaft mit zahlreicher Staffage um ein Feuer. Sehr schone Tuschezeichnung, teilweise aquarellirt. Links auf einem Stein mit Namen und Jahreszahl 1848 bez",510,83.3,False,positional,Hermann Mevius,,,,
-BO0624_87483,463884,70,59,"Winterlandschaft (Scheeveningen) mit zahlreicher Staffage. Hiibsche Aquarelle, voll bezeichnet im Jahr 1845. Schone Silberstiftzeichnung, voll bezeichnet u. Jahr 1848.",512,77.7,False,positional,Hermann Mevius,,,,
+BO0624_87483,463883,69,58,"Nordische Mondlandschaft mit zahlreicher Staffage um ein Feuer. Sehr schone Tuschezeichnung, teilweise aquarellirt. Links auf einem Stein mit Namen und Jahreszahl 1848 bez",510,83.3,False,positional,Hermann Mevius,,,,Sec. XIX
+BO0624_87483,463884,70,59,"Winterlandschaft (Scheeveningen) mit zahlreicher Staffage. Hiibsche Aquarelle, voll bezeichnet im Jahr 1845. Schone Silberstiftzeichnung, voll bezeichnet u. Jahr 1848.",512,77.7,False,positional,Hermann Mevius,,,,Sec. XIX
 BO0624_87483,463885,71,60,Rettung aus dem Schiffbruch.,514,94.7,False,positional,Hermann Mevius,,,,
 BO0624_87483,463886,72,61,"Zwei Engel das schlafende Jesuskind wiegend. nmitten eines grossen Rittersaales sitzt auf geschnitztem goth· Throne der sterbende Gustav Wasa, umgeben von Verwandten",524,84.7,False,positional,,Moderner Meister,,,
 BO0624_87483,463887,73,62,Gustav Wasas letzter Augenblick. und Wurdentragern.,526,74.7,False,positional,,Moderner Meister,,,
@@ -94,7 +94,7 @@ BO0624_87483,463906,92,81,Mondscheinlandschaft.,665,93.0,False,positional,K. Sch
 BO0624_87483,463907,93,82,"Links die Moolen, auf denen zahlreiche Seeleute den vor dem Sturm fichtenden Fischerbooten entgegensehen. Meisterhaft ausgefihrte leicht aquarellirte Originalzeichnung dieses gesuchten Niederlanders.",714,99.2,False,positional,J. C. Schotel,,,,
 BO0624_87483,463908,94,I,m Mittelgrund a,745,96.8,False,positional,G. Soukins,,,,
 BO0624_87483,463909,95,91,Rheinlandscha.ft.,747,91.4,False,positional,G. Soukins,,,,
-BO0624_87483,463910,96,I,"m Mittelgrund ein gesattelter Schimmel, dem ein Schmied ein geb. zu Dortrecht 1610; gest. ebenda 1686.",763,99.5,False,positional,Dirk Stoop,,,,
+BO0624_87483,463910,96,I,"m Mittelgrund ein gesattelter Schimmel, dem ein Schmied ein geb. zu Dortrecht 1610; gest. ebenda 1686.",763,99.5,False,positional,Dirk Stoop,,,,Sec. XVII
 BO0624_87483,463911,97,93,Die Pferdescbmiede.,765,92.3,False,positional,Dirk Stoop,,,,
 BO0624_87483,463912,98,95,Der Geizhalz.,770,88.9,False,positional,Dirk Stoop,,,,
 BO0624_87483,463913,99,96,Der Salbenverkaufer.,774,92.7,False,positional,Dirk Stoop,,,,
@@ -111,7 +111,7 @@ BO0624_87483,463923,109,104,Seestick. Holz,833,86.7,False,positional,Dav. Tenier
 BO0624_87483,463924,110,105,Lebensgrosses Portrat eines Bischofs mit Mithra und,837,96.2,False,positional,Dav. Teniers,,,,
 BO0624_87483,463925,111,106,Portrait eines Edelmannes mit Muihlensteinkragen.,839,96.0,False,positional,Dav. Teniers,,,,
 BO0624_87483,463926,112,I,nteressantes Originalbild.,850,98.0,False,positional,David Vinckebooms,,,,
-BO0624_87483,463927,113,I,m Vordergrund mehrere Boote und Barken; im Hintergrund die Stadt Amsterdam. Meisterhafte Original-Federzeichnung auf Pergament. Links auf einem Segelschiff bezeichnet: S. de Vlieger. 1653. Unter Passe-partout.,854,99.8,False,positional,Simon de Vlieger,,,,
+BO0624_87483,463927,113,I,m Vordergrund mehrere Boote und Barken; im Hintergrund die Stadt Amsterdam. Meisterhafte Original-Federzeichnung auf Pergament. Links auf einem Segelschiff bezeichnet: S. de Vlieger. 1653. Unter Passe-partout.,854,99.8,False,positional,Simon de Vlieger,,,,Sec. XVII
 BO0624_87483,463928,114,108,108. Parthie bei Amsterdam.,856,100.0,False,positional,Simon de Vlieger,,,,
 BO0624_87483,463929,115,109,## 109. Historienbild.,864,100.0,False,positional,Simon Vouet,,,,
 BO0624_87483,463930,116,110,11,870,100.0,False,positional,Simon Vouet,,,,
@@ -185,7 +185,7 @@ BO0624_87483,463997,183,197,"Launey, N. de, Le petit jour. S. Freudeberg. pinx. 
 BO0624_87483,463998,184,198,"Keller, Prof. J., Regina pacis. Nach Prof. C. Deger. Prachtvoller Druck auf chinesisch Papier vor aller Schrift. Gerahmt.",1179,98.2,False,positional,,,"Kupferstiche, Radirungen u Holzschnitte",,
 BO0624_87483,463999,185,199,"Klau b er, J. S., Petit ecolier de Harlem. C. Poelemburg pinx.",1180,96.5,False,positional,POELENBURGH CORNELIS VAN,,"Kupferstiche, Radirungen u Holzschnitte",,
 BO0624_87483,464000,186,200,"Loffler, Huldigung der Kolner Stande dem Kaiser Leopold J. Toussynino. et del.  Interessantes allegorisches Blatt. gr. Fol.",1182,98.3,False,positional,,,"Kupferstiche, Radirungen u Holzschnitte",,
-BO0624_87483,464001,187,201,"Louis 1844, Brustbild der Madonna. L'Espangolet pinx. Fruher. Gerahmt. (Etwas Druck vor der Schrift auf chinesisch Papier. wasserfleckig.)",1183,98.5,False,positional,,,"Kupferstiche, Radirungen u Holzschnitte",,
+BO0624_87483,464001,187,201,"Louis 1844, Brustbild der Madonna. L'Espangolet pinx. Fruher. Gerahmt. (Etwas Druck vor der Schrift auf chinesisch Papier. wasserfleckig.)",1183,98.5,False,positional,,,"Kupferstiche, Radirungen u Holzschnitte",,Sec. XIX
 BO0624_87483,464002,188,202,"Nothnagel, J. B., Der bartige Orientale. Sehr schoner Druck",1184,96.4,False,positional,,,"Kupferstiche, Radirungen u Holzschnitte",,
 BO0624_87483,464003,189,203,"Picart, B., Zwanzig Illustrationen zu Homers Ilias. 20 Blatter.",1186,96.7,False,positional,,,"Kupferstiche, Radirungen u Holzschnitte",,
 BO0624_87483,464004,190,205,"Prestel, J., Viehheerde.",1189,90.9,False,positional,,,"Kupferstiche, Radirungen u Holzschnitte",,
@@ -233,7 +233,7 @@ BO0624_87483,464045,231,261,"Bank, reich mit Blumen und Quadrateinlagen verziert
 BO0624_87483,464046,232,262,Reich geschnitzter Ballentisch.,1300,93.8,False,positional,,,Mobel und Arbeiten in Holz,,
 BO0624_87483,464047,233,263,Vierfuissiger Ballentisch aus Eichen,1304,94.7,False,positional,,,Mobel und Arbeiten in Holz,,
 BO0624_87483,464048,234,264,Grosser Florentiner Spiegel. Geschnitzter Holzrahmen.,1305,96.2,False,positional,,,Mobel und Arbeiten in Holz,,
-BO0624_87483,464049,235,265,"Grosser Kupferstich-Kalender von 1754, mit Portrait ClemensAugust. Madonnenstatue aus Holz auf Sockel.",1307,76.6,False,positional,,,Mobel und Arbeiten in Holz,,
+BO0624_87483,464049,235,265,"Grosser Kupferstich-Kalender von 1754, mit Portrait ClemensAugust. Madonnenstatue aus Holz auf Sockel.",1307,76.6,False,positional,,,Mobel und Arbeiten in Holz,,Sec. XVIII
 BO0624_87483,464050,236,266,2 Bronze Prasentier-Stander mit 6 chinesischen Tellern.,1309,96.4,False,positional,,,Mobel und Arbeiten in Holz,,
 BO0624_87483,464051,237,269,"Geschnitzte Truhe. Truhe, die 4 Fuillungen mit Spitzquadern und Ornamenten ver- Damenschreibtisch in Nussbaumholz.",1314,68.6,False,positional,,,Mobel und Arbeiten in Holz,,
 BO0624_87483,464052,238,272,Zierlich gearbeitetes Stollenschrankchen mit hubscher Bildhauer-,1317,96.9,False,positional,,,Mobel und Arbeiten in Holz,,
@@ -314,9 +314,9 @@ BO0624_87483,464126,312,368,Milchkannchen a.Silber. 57 Gr.,1444,93.3,False,posit
 BO0624_87483,464127,313,369,Eine silberne Kanne. 505 Gr.,1445,92.9,False,positional,,,Arbeiten in Gold und Silber,,
 BO0624_87483,464128,314,370,"Dejeuner a. Silber, bestehend aus Platte, 2 Kannen u. Zuckerdose. 885 Gr.",1446,97.1,False,positional,,,OGGETTI VARI,,
 BO0624_87483,464129,315,371,Trinkstiefel aus Silber. 520 Gr.,1447,93.8,False,positional,,,Arbeiten in Gold und Silber,,
-BO0624_87483,464130,316,372,Silb. Brodkorbchen. 1390 Gr.,1448,92.6,False,positional,,,Arbeiten in Gold und Silber,,
+BO0624_87483,464130,316,372,Silb. Brodkorbchen. 1390 Gr.,1448,92.6,False,positional,,,Arbeiten in Gold und Silber,,Sec. XIV
 BO0624_87483,464131,317,373,2 silb. Handleuchter. 329 Gr.,1449,92.9,False,positional,,,Arbeiten in Gold und Silber,,
-BO0624_87483,464132,318,374,Silberne Monstranze v. Jahre 1683. 395 Gr.,1450,95.1,False,positional,,,Arbeiten in Gold und Silber,,
+BO0624_87483,464132,318,374,Silberne Monstranze v. Jahre 1683. 395 Gr.,1450,95.1,False,positional,,,Arbeiten in Gold und Silber,,Sec. XVII
 BO0624_87483,464133,319,375,2 holland. Leuchter. 390 Gr.,1451,92.6,False,positional,,,LAMPADE,,
 BO0624_87483,464134,320,376,Krinolinbecher a. Silb. 311 Gr.,1452,93.3,False,positional,,,Arbeiten in Gold und Silber,,
 BO0624_87483,464135,321,377,Theedose. 305 Gr.,1453,88.2,False,positional,,,Arbeiten in Gold und Silber,,
@@ -457,7 +457,7 @@ BO0624_87483,464269,455,545,"一 dito. Eine Vase. Wedgewood Theekanne,",1725,67.
 BO0624_87483,464270,456,548,Tonplatte.,1726,81.8,False,positional,,,"Porzellan,Fayence",,
 BO0624_87483,464271,457,549,— dito.,1727,66.7,False,positional,,,"Porzellan,Fayence",,
 BO0624_87483,464272,458,550,"Kleine Schussel. Kleine Siegburger Schnelle, Frechemer Henkelkrug mit 3 schonen Wappen.",1730,65.1,False,positional,,,OGGETTI VARI,,
-BO0624_87483,464273,459,553,Kolner Krug mit Umschrift Trink u. ess Gott nicht vergess. Siegburger Bauerntanzkrug mit Jahreszahl 1588. Trinkgefass aus Ton mit Widderkopfverzierung.,1731,54.1,False,positional,,,"Porzellan,Fayence",,
+BO0624_87483,464273,459,553,Kolner Krug mit Umschrift Trink u. ess Gott nicht vergess. Siegburger Bauerntanzkrug mit Jahreszahl 1588. Trinkgefass aus Ton mit Widderkopfverzierung.,1731,54.1,False,positional,,,"Porzellan,Fayence",,Sec. XVI
 BO0624_87483,464274,460,556,Bunzlauer Kaffeekanne.,1734,91.3,False,positional,,,OGGETTI VARI,,
 BO0624_87483,464275,461,557,"Apostelkrug, Kreussener Krug.-",1735,93.1,False,positional,,,"Porzellan,Fayence",,
 BO0624_87483,464276,462,55,55,1737,100.0,False,positional,,,"Porzellan,Fayence",,
@@ -473,7 +473,7 @@ BO0624_87483,464285,471,561,Zwei emaillirte Apostelbecher.,1767,93.5,False,posit
 BO0624_87483,464286,472,562,Grosse Schnabelkanne mit schonem scharf gepresstem Jagdfries,1771,96.8,False,positional,,,"Porzellan,Fayence",,
 BO0624_87483,464287,473,563,Fisch aus gebranntem Ton.,1773,92.3,False,positional,,,"Porzellan,Fayence",,
 BO0624_87483,464288,474,564,Seidel aus Serpentinstein mit Zinndeckel.,1774,95.2,False,positional,,,OGGETTI IN PIETRA,,
-BO0624_87483,464289,475,565,"Collection von siebzehn Siegburger Topferformen aus den Jahren 1550-1580 mit Friesdarstellungen, Medaillons und grosseren scenischen Darstellungen, wovon zwei in Sandstein gehauen, die",1775,98.9,False,positional,,,"Porzellan,Fayence",,
+BO0624_87483,464289,475,565,"Collection von siebzehn Siegburger Topferformen aus den Jahren 1550-1580 mit Friesdarstellungen, Medaillons und grosseren scenischen Darstellungen, wovon zwei in Sandstein gehauen, die",1775,98.9,False,positional,,,"Porzellan,Fayence",,Sec. XVI
 BO0624_87483,464290,476,566,Siegburger Topferform aus Messing mit Wappendarstellung.,1780,96.5,False,positional,,,"Porzellan,Fayence",,
 BO0624_87483,464291,477,67,Achteckig abgeflachte Glasflasche mit Zinnverschluss.,1781,97.2,False,positional,,,"Porzellan,Fayence",,
 BO0624_87483,464292,478,568,Bierseidel mit eingeschliffener Verzierung und Zinndeckel.,1784,96.6,False,positional,,,"Porzellan,Fayence",,
@@ -631,43 +631,43 @@ BO0624_87483,464443,629,746,Constantin der Jungere. 44 verschiedene Varietaten. 
 BO0624_87483,464444,630,747,Const a nti us II. 12 verschiedene Varietaten. 12 Kleinbronzen. Schon erhalten.,2168,97.4,False,positional,,,Miinzen,,
 BO0624_87483,464445,631,748,7 verschiedene Silberdenare.,2169,93.1,False,positional,,,Miinzen,,
 BO0624_87483,464446,632,749,Vierzig romische Minzen.,2170,92.0,False,title_direct,,Scuola Romana,Miinzen,,
-BO0624_87483,464447,633,750,Andernach. Rathszeichen 1725. Stadtschild. Rv. Der auf dem Drachen,2171,96.9,False,positional,,,Miinzen,,
+BO0624_87483,464447,633,750,Andernach. Rathszeichen 1725. Stadtschild. Rv. Der auf dem Drachen,2171,96.9,False,positional,,,Miinzen,,Sec. XVIII
 BO0624_87483,464448,634,751,Baden. Grossherzogs nel st Gemahlin. Rev. Ansicht von Baden-Baden.,2175,96.9,False,positional,,,Miinzen,,
 BO0624_87483,464449,635,752,Feldherr zu Pferde. Ludw. Guelmus Mar. Bad. S. C.M. exercit summus dux. Rv.Lowe einen Wolf anfallend. Non Curat,2179,98.1,False,positional,,,Miinzen,,
-BO0624_87483,464450,636,753,Bamberg. Av. Franciscus episc. Bamb. et. Winceb. Silberzwanziger von 1787. 60 eine feine Mark. Mit Portrait und dem hl. Kilian. —Av.Doppelportrait. Umschr.: Carl Albrecht und Carl Phi- Bayern. Bavariae.,2182,76.5,False,positional,,,Miinzen,,
+BO0624_87483,464450,636,753,Bamberg. Av. Franciscus episc. Bamb. et. Winceb. Silberzwanziger von 1787. 60 eine feine Mark. Mit Portrait und dem hl. Kilian. —Av.Doppelportrait. Umschr.: Carl Albrecht und Carl Phi- Bayern. Bavariae.,2182,76.5,False,positional,,,Miinzen,,Sec. XVIII
 BO0624_87483,464451,637,756,Belgien.,2191,77.8,False,positional,,Scuola di Antwerp,Miinzen,,
-BO0624_87483,464452,638,758,— Silber Gulden. 1790. Av. Lowe. Mon. Nov. Arg. Prov.,2199,95.6,False,positional,,,Miinzen,,
+BO0624_87483,464452,638,758,— Silber Gulden. 1790. Av. Lowe. Mon. Nov. Arg. Prov.,2199,95.6,False,positional,,,Miinzen,,Sec. XVIII
 BO0624_87483,464453,639,759,Vergoldete Bronzemedaille,2201,92.6,False,positional,,,Miinzen,,
 BO0624_87483,464454,640,760,Frankfurt.,2202,81.8,False,positional,,,Miinzen,,
 BO0624_87483,464455,641,6,Kreuzer und 1 Kreuzer mit Ansicht der Stadt Frankfurt.,2204,98.1,False,positional,,,Miinzen,,
 BO0624_87483,464456,642,76,l Frankreich.,2205,92.3,False,positional,,,Miinzen,,
 BO0624_87483,464457,643,762,—,2207,0.0,False,positional,,,Miinzen,,
-BO0624_87483,464458,644,763,-. Schone Broncemuinze von Oudine der Pariser Weltausstellung 1878.,2213,96.9,False,positional,BOUDIN EUGENE,,Miinzen,,
-BO0624_87483,464459,645,764,— Av. Portrait. Armanus Joan. Card de Richelieu. Rev. Astronom. Darstellung. Mens Sidera Volvit 1631. Grosse,2215,98.0,False,positional,,,Miinzen,,
-BO0624_87483,464460,646,765,-- Av. Kopf. E. V. E. B. Comte de Castellane. Rev. Schild von Eichenl ub umgeben.1 Dieu aidant. Au General en chef Comte de Castellane et a larmee de Lyon pour avoir preserve la cite de la guerre civile dans les jours de Dec. 1851. Prachtvolle Bronzemedaille von G. Bonnet.,2216,99.2,False,positional,,,Miinzen,,
+BO0624_87483,464458,644,763,-. Schone Broncemuinze von Oudine der Pariser Weltausstellung 1878.,2213,96.9,False,positional,BOUDIN EUGENE,,Miinzen,,Sec. XIX
+BO0624_87483,464459,645,764,— Av. Portrait. Armanus Joan. Card de Richelieu. Rev. Astronom. Darstellung. Mens Sidera Volvit 1631. Grosse,2215,98.0,False,positional,,,Miinzen,,Sec. XVII
+BO0624_87483,464460,646,765,-- Av. Kopf. E. V. E. B. Comte de Castellane. Rev. Schild von Eichenl ub umgeben.1 Dieu aidant. Au General en chef Comte de Castellane et a larmee de Lyon pour avoir preserve la cite de la guerre civile dans les jours de Dec. 1851. Prachtvolle Bronzemedaille von G. Bonnet.,2216,99.2,False,positional,,,Miinzen,,Sec. XIX
 BO0624_87483,464461,647,766,Hannover:,2218,80.0,False,positional,,,Miinzen,,
 BO0624_87483,464462,648,769,Koln. Erzbischof Piligrim 10221036. Denar.  Av. Kreuz Pi li gr in. Umschrift. Rev. Funfsauliges Portal SANCTA COLONIA. 6 Exemplare.,2226,98.4,False,positional,,,Miinzen,,
-BO0624_87483,464463,649,770,"Churfuirst Friedrich. 1 Stuiber 1777. 3 Exempl. 1/2 Petermannchen 1722. 2 Exempl., sowie eine kleine Silberm.1 Ernst v. Bayern. Churf. y. Koln 1583-1612. 6 Stick.",2230,99.0,False,positional,,,Miinzen,,
+BO0624_87483,464463,649,770,"Churfuirst Friedrich. 1 Stuiber 1777. 3 Exempl. 1/2 Petermannchen 1722. 2 Exempl., sowie eine kleine Silberm.1 Ernst v. Bayern. Churf. y. Koln 1583-1612. 6 Stick.",2230,99.0,False,positional,,,Miinzen,,Sec. XVI
 BO0624_87483,464464,650,771,Leodensis.,2231,81.8,False,positional,,,Miinzen,,
 BO0624_87483,464465,651,773,Nurnberg.,2238,80.0,False,positional,,Scuola di Norimberga,Miinzen,,
-BO0624_87483,464466,652,774,Brustbild Wolf Fesler. Rev. Wappen. Anno Domini 1537. Bleimedaille.,2242,96.9,False,positional,,,Miinzen,,
-BO0624_87483,464467,653,776,-· Silberne Kronungsmedaille. Krone. Franciscus etc. Electus In Regem Roman. Coronatus. Franc. 4. Oct. 1745. Rev. Kronungsinsignien. Deo et Imperio. Stempelglanz.,2248,98.6,False,positional,,,Miinzen,,
-BO0624_87483,464468,654,777,一 Brustbild.Maria. Hungar Bohem equae reginae jam pro Cesarae Carol Vo in Flandris. Rev.J Reiterschlacht und fuinfzeilige Unterschrift. 1521 Bleimedaille.,2249,98.7,False,positional,,,OGGETTI VARI,,
-BO0624_87483,464469,655,778,"Franz I.1745—1765. tion Meyer-Gedanensis No. 5. Mk. 6,50.",2251,96.3,False,positional,,,Miinzen,,
+BO0624_87483,464466,652,774,Brustbild Wolf Fesler. Rev. Wappen. Anno Domini 1537. Bleimedaille.,2242,96.9,False,positional,,,Miinzen,,Sec. XVI
+BO0624_87483,464467,653,776,-· Silberne Kronungsmedaille. Krone. Franciscus etc. Electus In Regem Roman. Coronatus. Franc. 4. Oct. 1745. Rev. Kronungsinsignien. Deo et Imperio. Stempelglanz.,2248,98.6,False,positional,,,Miinzen,,Sec. XVIII
+BO0624_87483,464468,654,777,一 Brustbild.Maria. Hungar Bohem equae reginae jam pro Cesarae Carol Vo in Flandris. Rev.J Reiterschlacht und fuinfzeilige Unterschrift. 1521 Bleimedaille.,2249,98.7,False,positional,,,OGGETTI VARI,,Sec. XVI
+BO0624_87483,464469,655,778,"Franz I.1745—1765. tion Meyer-Gedanensis No. 5. Mk. 6,50.",2251,96.3,False,positional,,,Miinzen,,Sec. XVIII
 BO0624_87483,464470,656,779,一 Maria Theresia. 2 verschiedene 5-Kreuzersticke.,2252,95.9,False,positional,,,Miinzen,,
-BO0624_87483,464471,657,780,Huldigungs-Jeton 1790. Kopf Leopoldus II. Romanorum Imperator. Rev. Kronungsinsignien. FELICITAS-PUPLICA. Stempelglanz.,2253,98.2,False,positional,,,Miinzen,,
+BO0624_87483,464471,657,780,Huldigungs-Jeton 1790. Kopf Leopoldus II. Romanorum Imperator. Rev. Kronungsinsignien. FELICITAS-PUPLICA. Stempelglanz.,2253,98.2,False,positional,,,Miinzen,,Sec. XVIII
 BO0624_87483,464472,658,782,一 6 verschiedene kleine Silberminzen. x1 一 Marien Silber-Zwanziger. Ferdinand I. Rev. Patronae Hungariae.,2255,76.8,False,positional,,,Miinzen,,
-BO0624_87483,464473,659,783,Pisis 1807. Thaler. Doppelportrait. Carolus Lud. D. G. Rex Etr. et M.,2256,96.8,False,positional,,,Miinzen,,
+BO0624_87483,464473,659,783,Pisis 1807. Thaler. Doppelportrait. Carolus Lud. D. G. Rex Etr. et M.,2256,96.8,False,positional,,,Miinzen,,Sec. XIX
 BO0624_87483,464474,660,784,Polen. 3 Thaler Stanislaus Aug. Konig von Polen.,2260,95.7,False,positional,,,Miinzen,,
 BO0624_87483,464475,661,785,Portugal. 2 kleine Silberminzen.,2261,93.8,False,positional,,,Miinzen,,
 BO0624_87483,464476,662,786,Preussen.,2262,80.0,False,positional,,,Miinzen,,
-BO0624_87483,464477,663,787,一 Fredrich Wilhelm II. Ein Thaler.1817.,2266,94.9,False,positional,,,Miinzen,,
+BO0624_87483,464477,663,787,一 Fredrich Wilhelm II. Ein Thaler.1817.,2266,94.9,False,positional,,,Miinzen,,Sec. XIX
 BO0624_87483,464478,664,788,Denkmal,2267,77.8,False,positional,,,Miinzen,,
-BO0624_87483,464479,665,789,Portrait. Zur Feier der Huldigung 1840. Sehr schone Bronzemedaille.,2270,97.0,False,positional,,,Miinzen,,
+BO0624_87483,464479,665,789,Portrait. Zur Feier der Huldigung 1840. Sehr schone Bronzemedaille.,2270,97.0,False,positional,,,Miinzen,,Sec. XIX
 BO0624_87483,464480,666,790,— Bronzene Staatsmedaille fuir Landwirthschaftliche Leistungen. In Etui.,2271,97.1,False,positional,,,Miinzen,,
-BO0624_87483,464481,667,791,- Kopf Kaiser Wilhelm I und Friedrich Wilhelm Ill. 1832 bis 1882. Rev. Sitzende Germania einen Lorbeerkranz haltend. m Hintergrund Stadt und Reiter. Prachtvolle grosse silberne,2273,78.9,False,positional,,,Miinzen,,
+BO0624_87483,464481,667,791,- Kopf Kaiser Wilhelm I und Friedrich Wilhelm Ill. 1832 bis 1882. Rev. Sitzende Germania einen Lorbeerkranz haltend. m Hintergrund Stadt und Reiter. Prachtvolle grosse silberne,2273,78.9,False,positional,,,Miinzen,,Sec. XIX
 BO0624_87483,464482,668,792,Sachsen.,2275,77.8,False,positional,,,Miinzen,,
-BO0624_87483,464483,669,793,"Salcburg. Maximilian Gandolf, Graf von Khuenburg, Trier. 10 kleine Silberminzen der Erzbischofe Lothar, Carl Caspar und Johann Hugo.10 Stick. Schweden. Konigin Christine. 1645. 1 Kupfer-Or.",2282,65.7,False,positional,,,OGGETTI IN RAME,,
+BO0624_87483,464483,669,793,"Salcburg. Maximilian Gandolf, Graf von Khuenburg, Trier. 10 kleine Silberminzen der Erzbischofe Lothar, Carl Caspar und Johann Hugo.10 Stick. Schweden. Konigin Christine. 1645. 1 Kupfer-Or.",2282,65.7,False,positional,,,OGGETTI IN RAME,,Sec. XVII
 BO0624_87483,464484,670,796,Sechzig Hohlpfennige. 60 Stick. 20 verschiedene alte kleine Silberminzen. 30 kleine Silberminzen.,2286,59.9,False,positional,,,Miinzen,,
 BO0624_87483,464485,671,799,70 Kupferminzen.,2290,88.2,False,positional,,,Miinzen,,
 BO0624_87483,464486,672,800,16 Kupfermiinzen. Silberne Medaille von F. Loos. Av. Allegorische Figur. Der Fleiss benutzt die Zeit. Rev. Lorbeerkranz und Rosenkranz. Die Zeit belohnt den Fleiss. Grosse silberne Umschrift. Rev. Inschrift. Schon erhalten.,2294,79.0,False,title_direct,,,Miinzen,,
@@ -687,9 +687,9 @@ BO0624_87483,464499,685,821,Kleine Bronze-Munze auf Guttenberg.,2324,94.4,False,
 BO0624_87483,464500,686,822,Bronze-Medaille auf die 300jahrige Lutherfeier.,2325,95.8,False,positional,,,Miinzen,,
 BO0624_87483,464501,687,823,Bronze-Denkminze auf Maria Theresia.,2326,94.6,False,positional,,,Miinzen,,
 BO0624_87483,464502,688,824,Stadt Mannheim. 3 kl. Munzen. 64. 26 Kaiser Joseph. 3 kleine Silbermiinzen.,2328,76.1,False,title_direct,,,Miinzen,,
-BO0624_87483,464503,689,825,Bruchsal. Franciscus Christophorus episc. 1747.,2329,95.7,False,positional,,,Miinzen,,
+BO0624_87483,464503,689,825,Bruchsal. Franciscus Christophorus episc. 1747.,2329,95.7,False,positional,,,Miinzen,,Sec. XVIII
 BO0624_87483,464504,690,827,Grosse Silberminze von A. Wiedemann. Avers:Portrait Antonia arc. aust. Ludovis Franciae Delphin Sponsa. Rev. opfernde Genien.,2330,98.3,False,positional,,,Miinzen,,
-BO0624_87483,464505,691,828,"Leopold I. Silber-Medaille, Av. belorbertes Brustbild. Rv. alegorische Darstellung: Suevia restituita hostes imper. Caesi Fugati 1704.",2331,98.4,False,positional,,,Miinzen,,
+BO0624_87483,464505,691,828,"Leopold I. Silber-Medaille, Av. belorbertes Brustbild. Rv. alegorische Darstellung: Suevia restituita hostes imper. Caesi Fugati 1704.",2331,98.4,False,positional,,,Miinzen,,Sec. XVIII
 BO0624_87483,464506,692,829,"Christus-Thaler, Ay. Christus von den Juingern verrathen. Christi Auferstehung. Umschrift Christi ist auferstanden etc.",2332,98.3,False,positional,,,Miinzen,,
 BO0624_87483,464507,693,831,Bronze-Medaille auf Ereignisse und Personen aus der franzos.,2335,96.7,False,positional,,,Miinzen,,
 BO0624_87483,464508,694,832,Silber-Medaille Papst Clemens IX. Portrait. Rev. foederis opus.,2337,96.7,False,positional,,,Miinzen,,
@@ -711,24 +711,24 @@ BO0624_87483,464523,709,847,"13 dito. von Durlach, Hochberg, Hanau etc.",2362,95
 BO0624_87483,464524,710,1673,und 3 kl. Badische Silberminzen.,2363,92.3,False,positional,,,Miinzen,,
 BO0624_87483,464525,711,850,"Oesterreich, Freiburg etc. 8 Silber- und 6 Kupferminzen. 15 Kupfer- und Silberminzen von Bremen, Weimar, Koln etc",2365,67.5,False,positional,,,OGGETTI IN RAME,,
 BO0624_87483,464526,712,851,"Wurzburg, Liegnitz, Colmar, Frankfurt. 12 Silber- u. 5 Kupfer-",2366,96.5,False,positional,,,OGGETTI IN RAME,,
-BO0624_87483,464527,713,852,Konstanz. 2 Silberminzen von 1633.,2367,94.1,False,positional,,,Miinzen,,
+BO0624_87483,464527,713,852,Konstanz. 2 Silberminzen von 1633.,2367,94.1,False,positional,,,Miinzen,,Sec. XVII
 BO0624_87483,464528,714,855,"20 kleine Silber-Muinzen. Joseph I, fuir Pfalz und Baden. Leopold I. 6 Silberminzen.",2370,78.8,False,title_direct,,,Miinzen,,
-BO0624_87483,464529,715,856,A dolph zu Nassau. (60) Rv. Wappen. Moneta. Holzapel 1676. Hamburger Thaler von 1629. Av. Moneta nova civita Hamburgensis. Die Stadtburg. Rev. Ferdinand II. Doppel-Adler,2374,79.5,False,positional,,,Miinzen,,
+BO0624_87483,464529,715,856,A dolph zu Nassau. (60) Rv. Wappen. Moneta. Holzapel 1676. Hamburger Thaler von 1629. Av. Moneta nova civita Hamburgensis. Die Stadtburg. Rev. Ferdinand II. Doppel-Adler,2374,79.5,False,positional,,,Miinzen,,Sec. XVII
 BO0624_87483,464530,716,857,"10 kleine Silbermiinzen, Schweiz u. 4 Kupferminzen.",2375,96.0,False,title_direct,,,Miinzen,,
-BO0624_87483,464531,717,860,dito von 1682. Leopold I. Thaler von 1698 mit Brustbild und Reichsadler.,2378,89.1,False,positional,,,Miinzen,,
-BO0624_87483,464532,718,861,Hieronymus Napoleon. Konig von Westfalen. Thaler von 1813 und 1 Kupferminze. Braunschweig. 24 Marien-Groschen. Zuirich. 1/2 Thaler mit Stadt-Ansicht.,2379,66.7,False,positional,,,Miinzen,,
+BO0624_87483,464531,717,860,dito von 1682. Leopold I. Thaler von 1698 mit Brustbild und Reichsadler.,2378,89.1,False,positional,,,Miinzen,,Sec. XVII
+BO0624_87483,464532,718,861,Hieronymus Napoleon. Konig von Westfalen. Thaler von 1813 und 1 Kupferminze. Braunschweig. 24 Marien-Groschen. Zuirich. 1/2 Thaler mit Stadt-Ansicht.,2379,66.7,False,positional,,,Miinzen,,Sec. XIX
 BO0624_87483,464533,719,864,"20 kleine Silberminzen von Trier, Basel, Bamberg, Pfalz.",2382,96.3,False,positional,,,Miinzen,,
 BO0624_87483,464534,720,8,f6 73 meist verschiedene Silber-Brakteaden alle in prachtvoller Erhaltung.,2385,99.3,False,positional,,,Miinzen,,
 BO0624_87483,464535,721,869,"10 kl. Silbermiinzen. Georg von Brandenburg. Karl V. ferner Sigismund, Konrad, Otto etc.",2389,97.6,False,title_direct,,,Miinzen,,
-BO0624_87483,464536,722,871,Ferdinand I. Thaler von 1562.,2392,93.1,False,positional,,,Miinzen,,
+BO0624_87483,464536,722,871,Ferdinand I. Thaler von 1562.,2392,93.1,False,positional,,,Miinzen,,Sec. XVI
 BO0624_87483,464537,723,872,Karl der Grosse. Aachener Denar?,2394,93.8,False,positional,,,Miinzen,,
 BO0624_87483,464538,724,873,Heinrich H. Denar.,2396,88.9,False,positional,,,Miinzen,,
-BO0624_87483,464539,725,874,Wolfgang Joachim Oting. Weissgroschen von 1519 mit St. Sebastianus.,2398,97.0,False,positional,,,Miinzen,,
+BO0624_87483,464539,725,874,Wolfgang Joachim Oting. Weissgroschen von 1519 mit St. Sebastianus.,2398,97.0,False,positional,,,Miinzen,,Sec. XVI
 BO0624_87483,464540,726,875,1 Sekel aus Silber.,2399,90.0,False,positional,,,Miinzen,,
 BO0624_87483,464541,727,876,2 Brakteaden in der Grosse eines Weissgroschen mit Kreuz u.,2400,96.7,False,positional,,,Miinzen,,
 BO0624_87483,464542,728,877,2 Bischofs-Denare und 4 Brakteaden.,2402,94.4,False,positional,,,Miinzen,,
 BO0624_87483,464543,729,878,Christian Wilhelm. /3Thaler.,2403,92.6,False,positional,,,Miinzen,,
-BO0624_87483,464544,730,879,"Anton Ignaz princeps etc. Ellwangensis 1765. 20 eine feine Mark, mit Portrait.",2404,97.4,False,positional,,,Miinzen,,
+BO0624_87483,464544,730,879,"Anton Ignaz princeps etc. Ellwangensis 1765. 20 eine feine Mark, mit Portrait.",2404,97.4,False,positional,,,Miinzen,,Sec. XVIII
 BO0624_87483,464545,731,880,Kaiser Heinrich I. Bronze-Minze mit geharnichtem Ritter.,2406,96.4,False,positional,,,Miinzen,,
 BO0624_87483,464546,732,881,50 verschiedene Bronze-Munzen.,2408,93.5,False,positional,,,Miinzen,,
 BO0624_87483,464547,733,882,16 romische Bronze-Minzen.,2410,92.6,False,title_direct,,Scuola Romana,Miinzen,,
@@ -763,12 +763,12 @@ BO0624_87483,464575,761,934,"4 dito von Trajan (2) Caesar Augustus. 12 dito von 
 BO0624_87483,464576,762,937,"15 Klein- u. Mittelbronze von Valerianus, Julius Caesar, Maximinianus, Diocletian, Dionysos Bacchus, Homeros, Galienus,",2465,98.2,False,positional,,,Miinzen,,
 BO0624_87483,464577,763,938,Gold-Munze.,2466,83.3,False,positional,,,OGGETTI IN ORO,,
 BO0624_87483,464578,764,939,- 940 Ferdinand III.,2470,100.0,False,positional,,,Miinzen,,
-BO0624_87483,464579,765,941,- 942 Philipp IV. von Spanien. Doppelducat von 1654.,2475,100.0,False,positional,,,Miinzen,,
-BO0624_87483,464580,766,944,- 943 Ferdinand Il. Augsburger Ducat von 1650.,2477,100.0,False,positional,,,Miinzen,,
+BO0624_87483,464579,765,941,- 942 Philipp IV. von Spanien. Doppelducat von 1654.,2475,100.0,False,positional,,,Miinzen,,Sec. XVII
+BO0624_87483,464580,766,944,- 943 Ferdinand Il. Augsburger Ducat von 1650.,2477,100.0,False,positional,,,Miinzen,,Sec. XVII
 BO0624_87483,464581,767,945,Zwei kleine tirkische Goldminzen.,2478,94.1,False,positional,,,OGGETTI IN ORO,,
 BO0624_87483,464582,768,947,Alexander der Grosse. Silber-Denar.,2480,94.3,False,positional,,,Miinzen,,
-BO0624_87483,464583,769,948,Georg von Baden. 13-Thaler von 1584.,2481,94.4,False,positional,,,Miinzen,,
-BO0624_87483,464584,770,949,Schaffhausen. Thaler von 1631 mit Lamm.,2483,79.4,False,positional,,,Miinzen,,
+BO0624_87483,464583,769,948,Georg von Baden. 13-Thaler von 1584.,2481,94.4,False,positional,,,Miinzen,,Sec. XVI
+BO0624_87483,464584,770,949,Schaffhausen. Thaler von 1631 mit Lamm.,2483,79.4,False,positional,,,Miinzen,,Sec. XVII
 BO0624_87483,464585,771,950,Kleine ovale Goldminze mit Portrait Gustav Adolph.,2484,96.1,False,positional,,,Miinzen,,
 BO0624_87483,464586,772,951,Grosser Silberbrakteat mit Bischof.,2485,94.4,False,positional,,,Miinzen,,
 BO0624_87483,464587,773,952,Eine Anzahl Kupfer- und Blei-Medaillen und Munzen.,2486,96.0,False,positional,,,OGGETTI IN PIOMBO,,
@@ -814,12 +814,12 @@ BO0624_87483,464626,812,997,"998 Zwei Salzfasser auf 3 Fussen ruhend, rund, mit 
 BO0624_87483,464627,813,999,一,2599,100.0,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464628,814,1000,Sechs Liqueurglaser in Silberfassung.,2601,93.5,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464629,815,1001,Silb. Petschaft.,2605,84.8,False,positional,,,Arbeiten in Silber,,
-BO0624_87483,464630,816,1003,1002 -Dose mit Kaiserpaar in Emaille.,2609,100.0,False,positional,,,SCATOLE,,
+BO0624_87483,464630,816,1003,1002 -Dose mit Kaiserpaar in Emaille.,2609,100.0,False,positional,,,SCATOLE,,Sec. XI
 BO0624_87483,464631,817,1004,一,2611,28.6,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464632,818,1005,一 dito mit roth Emaille-Blatt.,2615,92.1,False,positional,ROTH PHILIPP,,Arbeiten in Silber,,
 BO0624_87483,464633,819,1006,dito dito. Brosche in Korbchenform. 一 Rococo-Brosche.,2621,61.5,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464634,820,1009,—in Schleifenform. Schnalle. 一 Lutherring mit Kreuzigung Christi.,2629,71.3,False,positional,,,Arbeiten in Silber,,
-BO0624_87483,464635,821,1012,1013 Elfenbeindose mit Miniaturen.,2633,100.0,False,title_direct,,,Miniaturen,,
+BO0624_87483,464635,821,1012,1013 Elfenbeindose mit Miniaturen.,2633,100.0,False,title_direct,,,Miniaturen,,Sec. XI
 BO0624_87483,464636,822,1014,Miniaturbild. - -1 mit Caspar Hauser.,2641,71.4,False,title_direct,,,Miniaturen,,
 BO0624_87483,464637,823,1017,mit Orientalien.,2643,85.7,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464638,824,1018,Schmiedeeisener Portiertrager.,2647,92.1,False,positional,,,Arbeiten in Silber,,
@@ -880,9 +880,9 @@ BO0624_87483,464692,878,1088,Confectschale a jour. Zwei Silber-vergoldete Leucht
 BO0624_87483,464693,879,1091,Jardiniere aus Silber mit Messingeinsatz.,2770,94.1,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464694,880,1093,一 dito auf 4 Fissen. 500 gramm. 2 一 dito a jour mit Glaseinsatz.,2774,69.5,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464695,881,1094,dito a jour Herkules mit der Schlange in prachtvoller getriebener Arbeit.,2776,96.6,False,positional,,,Arbeiten in Silber,,
-BO0624_87483,464696,882,1095,"Suppenterine aus Silber, reich getriebene Arbeit. 1132 Gr. Kaffeekanne aus Silber. 660 Gr. Platte ausS Frichterand in getriebener Arbeit. 758 Gr.",2780,56.4,False,positional,,,OGGETTI VARI,,
+BO0624_87483,464696,882,1095,"Suppenterine aus Silber, reich getriebene Arbeit. 1132 Gr. Kaffeekanne aus Silber. 660 Gr. Platte ausS Frichterand in getriebener Arbeit. 758 Gr.",2780,56.4,False,positional,,,OGGETTI VARI,,Sec. XII
 BO0624_87483,464697,883,1098,Emaileuhr mit Silber montirt.,2781,91.8,False,positional,,,Arbeiten in Silber,,
-BO0624_87483,464698,884,1099,"- 1100 Drei Figuren, Musikanten aus Elfenbein und Veilchenholz.",2784,100.0,False,positional,,,Arbeiten in Silber,,
+BO0624_87483,464698,884,1099,"- 1100 Drei Figuren, Musikanten aus Elfenbein und Veilchenholz.",2784,100.0,False,positional,,,Arbeiten in Silber,,Sec. XII
 BO0624_87483,464699,885,1102,"Ring verziert mit Perle zwei Brillanten und Rosen. Silberne, vergoldete Theebichse.",2785,73.1,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464700,886,1103,dito mit 1 Smaragd und 8 Brillanten. Vorstecknadel mit hangender Perle und Brillant. dito in Marquisenform mit 1 Saphir und 14 Brillanten.,2789,56.2,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464701,887,1106,dito mit Fussform.,2790,89.5,False,positional,,,Arbeiten in Silber,,
@@ -933,7 +933,7 @@ BO0624_87483,464745,931,1166,Theesieb.,2900,76.2,False,positional,,,Arbeiten in 
 BO0624_87483,464746,932,1168,Schale. 79 Gr.,2902,82.8,False,positional,,,OGGETTI VARI,,
 BO0624_87483,464747,933,150,Gr.,2904,50.0,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464748,934,1167,Vier Karten-Spielteller.,2906,90.2,False,positional,,,Arbeiten in Silber,,
-BO0624_87483,464749,935,1169,1170,2910,100.0,False,positional,,,Arbeiten in Silber,,
+BO0624_87483,464749,935,1169,1170,2910,100.0,False,positional,,,Arbeiten in Silber,,Sec. XII
 BO0624_87483,464750,936,9,93Gr.,2912,80.0,False,positional,,,Arbeiten in Silber,,
 BO0624_87483,464751,937,1171,Miniatur mit Montesquieu.,2914,90.6,False,title_direct,,,Miniaturen,,
 BO0624_87483,464752,938,1172,M. de Hond. dito. 一 in schwarzem Holzrahmen.,2922,74.3,False,positional,,,Arbeiten in Silber,,

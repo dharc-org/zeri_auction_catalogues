@@ -29,7 +29,7 @@ BO0624_84067,76716,27,28,"— Scenes de camp. Bois. Haut., 16 cent.; larg., 17 c
 BO0624_84067,76717,28,29,Jeune Femme en buste. Signe a gauche.                                                           |,199,95.9,False,positional,GUARDI,,,,
 BO0624_84067,76718,29,30,"Baigneuse. Bois.Haut., 18 cent.; larg.,16 cent.                                 |",202,96.4,False,positional,VALLIN,,OGGETTI IN LEGNO,,
 BO0624_84067,76719,30,31,"Femme en buste. Bois. Haut., 42 cent.; larg., 35 cent.                          |",204,96.8,False,positional,VALLIN,,OGGETTI IN LEGNO,,
-BO0624_84067,76720,31,32,"La Lecture du poeme. Signe et date: 1865. Toile.Haut.,40 cent.; larg., 32 cent. |",205,97.9,False,positional,VALLIN,,,,
+BO0624_84067,76720,31,32,"La Lecture du poeme. Signe et date: 1865. Toile.Haut.,40 cent.; larg., 32 cent. |",205,97.9,False,positional,VALLIN,,,,Sec. XIX
 BO0624_84067,76721,32,33,"Ville au bord d’un lac. Bois. Haut., 28 cent.; larg., 42 cent.                  |",206,97.2,False,positional,VALLIN,,OGGETTI IN LEGNO,,
 BO0624_84067,76722,33,34,"Figures humoristiques. Bois. Haut., 15 cent.; larg., 14 cent.                   |",207,97.2,False,positional,VALLIN,,OGGETTI IN LEGNO,,
 BO0624_84067,76723,34,35,Portrait de MadameFavart.,212,94.1,False,positional,,ECOLE FRANCAISE,,,
@@ -42,7 +42,7 @@ BO0624_84067,76729,40,41,Petite boite a épices en faience persane.,229,96.4,Fal
 BO0624_84067,76730,41,42,"— Couvercle, decore de fleurs.Ancienne faience de Rouen.",230,97.2,False,positional,,,FAIENCES VARIEES,,
 BO0624_84067,76731,42,43,"Compotier, orne d'une rosace en bleu. Ancienne faience de Rouen.",231,97.6,False,positional,,,FAIENCES VARIEES,,
 BO0624_84067,76732,43,44,"—— Grand plat rond en ancienne faience de Rouen, decore d'une rosace en bleu.",232,98.0,False,positional,,,PIATTI,,
-BO0624_84067,76733,44,45,"Ecuelle avec couvercle en ancienne faience de Rouen,decoree interieurement et exterieurement de feuilles et de rocailles,avec la date 1749 sous l'ecuelle.",233,99.0,False,positional,,,FAIENCES VARIEES,,
+BO0624_84067,76733,44,45,"Ecuelle avec couvercle en ancienne faience de Rouen,decoree interieurement et exterieurement de feuilles et de rocailles,avec la date 1749 sous l'ecuelle.",233,99.0,False,positional,,,FAIENCES VARIEES,,Sec. XVIII
 BO0624_84067,76734,45,46,"- Cache-pot cotele, decore en bleu de lambre-",234,96.5,False,positional,,,FAIENCES VARIEES,,
 BO0624_84067,76735,46,47,"Hanap-casque, decore de lambrequins en bleu, en ancienne faience de Rouen.",236,97.9,False,positional,,,FAIENCES VARIEES,,
 BO0624_84067,76736,47,48,"— Hanap-casque, decore en bleu de corbeilles de fleurs et d'un mascaron. Ancienne faience de Rouen.",237,98.4,False,positional,,,FAIENCES VARIEES,,
@@ -121,7 +121,7 @@ BO0624_84067,76808,119,123,"— Deux petits cornets en ancienne porcelaine de Ch
 BO0624_84067,76809,120,124,- Potiche a pans avec couvercle en ancienne,384,95.3,False,positional,,,PORCELAINES,,
 BO0624_84067,76810,121,125,Deux statuettes en poterie japonaise:per-,386,96.4,False,positional,,,PORCELAINES,,
 BO0624_84067,76811,122,126,- Medaillon-buste en ancien biscuit:tete de personnage de profil sur fond bleu.,388,97.4,False,positional,,,BISCOTTI,,
-BO0624_84067,76812,123,127,"- Deux groupes en ancien biscuit de Sevres : le Maitre et la Maitresse d'ecole. Dates, l'un, 24 decembre 1764;lautre,Seures,28 decembre 1766.",389,98.5,False,positional,,,BISCOTTI,,
+BO0624_84067,76812,123,127,"- Deux groupes en ancien biscuit de Sevres : le Maitre et la Maitresse d'ecole. Dates, l'un, 24 decembre 1764;lautre,Seures,28 decembre 1766.",389,98.5,False,positional,,,BISCOTTI,,Sec. XVIII
 BO0624_84067,76813,124,128,-Tasse droite:rinceaux sur fond jaune. Ancienne porcelaine tendre de Sevres.,390,97.3,False,positional,,,PORCELAINES,,
 BO0624_84067,76814,125,129,— Tasse droite :personnages chinois sur fond rouge. Ancienne porcelaine dure de Sevres.,391,97.6,False,positional,,,PORCELAINES,,
 BO0624_84067,76815,126,130,—Deux coquetiers émailles bleu.Meme porcelaine.,392,95.7,False,positional,,,PORCELAINES,,

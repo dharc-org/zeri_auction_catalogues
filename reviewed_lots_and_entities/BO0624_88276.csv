@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88276,388844,1,1,| FluBlandschaft. Bezeichnet.                                                                                                                                     | Leinw.21/34                                                |,11,97.4,False,none,,,,,
-BO0624_88276,388845,2,2,"| Aug.Wilh. Julius AHLB0RN,17961857,Rom. Italienische Landschaft mit Hirtenidyll. Feine stimmungsvolle Landschaft, bez. mit Jahreszahl 1832.                      | Leinw.26/20,5                                              |",13,99.3,False,none,,,,,
+BO0624_88276,388845,2,2,"| Aug.Wilh. Julius AHLB0RN,17961857,Rom. Italienische Landschaft mit Hirtenidyll. Feine stimmungsvolle Landschaft, bez. mit Jahreszahl 1832.                      | Leinw.26/20,5                                              |",13,99.3,False,none,,,,,Sec. XIX
 BO0624_88276,388846,3,4,"5   | 3FluBlandschaft mit Kahnen. Herbst-Abend. Der goldene Baum auf einer Anhohe. Der Herr Birgermeister, seine Rede studierend. Bei der Morgentoilette. Frauenkopf. | Karton 30/41 Karton 27,5/20,5 Karton 29,5/35 Pastell 45/35 |",14,99.5,False,none,,,,,
 BO0624_88276,388847,4,6,"7 8 | H.ARTMANN, Wien.                                                                                                                                                | Metall 17/13 Gegenstuick z. Vor.                           |",15,98.0,False,none,,Scuola Viennese,OGGETTI IN METALLO,,
 BO0624_88276,388848,5,9,| Partie auf Capri. Bezeichnet.                                                                                                                                   | Leinw.82/65                                                |,16,97.5,False,none,,,,,
@@ -38,18 +38,18 @@ BO0624_88276,388879,36,50,"51 52                                                
 BO0624_88276,388880,37,53,"| Sachsenhauser Warte.                                                             | Desg1. 6,5/6 Desgl. 6,5/6 Aquarell 28/23 |",138,97.5,False,positional,Jak. Furchtegott DIELMANN,,,,
 BO0624_88276,388881,38,54,|                                                                                  |                                          |,139,0.0,False,positional,Jak. Furchtegott DIELMANN,,,,
 BO0624_88276,388882,39,56,56,142,100.0,False,positional,Jak. Furchtegott DIELMANN,,,,
-BO0624_88276,388883,40,57,"Im Junghof. 1850. Desgl. 16/20,5",150,95.1,False,positional,Jak. Furchtegott DIELMANN,,,,
+BO0624_88276,388883,40,57,"Im Junghof. 1850. Desgl. 16/20,5",150,95.1,False,positional,Jak. Furchtegott DIELMANN,,,,Sec. XIX
 BO0624_88276,388884,41,58,Zu den 3 weiBen Tauben. Klostergasse 23. Sepia 16/9,151,97.0,False,positional,Jak. Furchtegott DIELMANN,,,,
 BO0624_88276,388885,42,59,- Hof Rosengasse 5. Desgl.20/10,153,100.0,False,positional,Jak. Furchtegott DIELMANN,,,,
-BO0624_88276,388886,43,60,"Hof Goetheplatz 11 im Jahre 1877. Aquarell 11,5/8,5",154,97.1,False,positional,Jak. Furchtegott DIELMANN,,,,
+BO0624_88276,388886,43,60,"Hof Goetheplatz 11 im Jahre 1877. Aquarell 11,5/8,5",154,97.1,False,positional,Jak. Furchtegott DIELMANN,,,,Sec. XIX
 BO0624_88276,388887,44,61,Kihhornshof.,155,88.0,False,positional,Jak. Furchtegott DIELMANN,,,,
-BO0624_88276,388888,45,62,- Blick vom Mainzerpfortchen gegen das Galgentor 1792.,157,100.0,False,positional,Jak. Furchtegott DIELMANN,,,,
-BO0624_88276,388889,46,63,Die Butterwage 1869.,158,92.7,False,positional,Jak. Furchtegott DIELMANN,,,,
-BO0624_88276,388890,47,64,Senckenberg-Stiftshaus 1852.,159,94.7,False,positional,Jak. Furchtegott DIELMANN,,,,
+BO0624_88276,388888,45,62,- Blick vom Mainzerpfortchen gegen das Galgentor 1792.,157,100.0,False,positional,Jak. Furchtegott DIELMANN,,,,Sec. XVIII
+BO0624_88276,388889,46,63,Die Butterwage 1869.,158,92.7,False,positional,Jak. Furchtegott DIELMANN,,,,Sec. XIX
+BO0624_88276,388890,47,64,Senckenberg-Stiftshaus 1852.,159,94.7,False,positional,Jak. Furchtegott DIELMANN,,,,Sec. XIX
 BO0624_88276,388891,48,65,"Desgl. 16,5/20",162,100.0,False,positional,Jak. Furchtegott DIELMANN,,,,
 BO0624_88276,388892,49,66,Blei 11/9,169,100.0,False,positional,Jak. Furchtegott DIELMANN,,OGGETTI IN PIOMBO,,
 BO0624_88276,388893,50,67,- Der Pfarrturm.,173,100.0,False,positional,Jak. Furchtegott DIELMANN,,,,
-BO0624_88276,388894,51,68,Klingergasse 1862.,174,91.9,False,positional,Jak. Furchtegott DIELMANN,,,,
+BO0624_88276,388894,51,68,Klingergasse 1862.,174,91.9,False,positional,Jak. Furchtegott DIELMANN,,,,Sec. XIX
 BO0624_88276,388895,52,69,Luther-Eck.,175,87.0,False,positional,Jak. Furchtegott DIELMANN,,,,
 BO0624_88276,388896,53,70,Predigergasse.,176,89.7,False,positional,Jak. Furchtegott DIELMANN,,,,
 BO0624_88276,388897,54,71,Alte Mainzergasse. (Die kleine Wallachei.),177,96.2,False,positional,Jak. Furchtegott DIELMANN,,,,
@@ -70,7 +70,7 @@ BO0624_88276,388911,68,871,| Der GeburtstagsstrauB.                             
 BO0624_88276,388912,69,88,| Die Huhnerfutterung.                                                               | Silhouette 9/14                                                 |,258,95.9,False,positional,Carl FROEHLICH,,,,
 BO0624_88276,388913,70,89,"90 Vignette mit Kindern und Vieh.                                                                 | Der Fischzug.                                                                      | Silhouette 5,5/7 Silhouette 12/16,5                             |",259,98.2,False,positional,Carl FROEHLICH,,,,
 BO0624_88276,388914,71,92,| Gesichtsstudie eines Mannes. Bezeichnet.                                           | Karton 21/12                                                    |,261,97.1,False,positional,Carl FROEHLICH,,,,
-BO0624_88276,388915,72,94,"Hollandische FluBlandschaft mit Schlittschuhlaufer.                                               | Martha HAMMERLEIN,1826, Mainz.                                                     | Seidenstickerei 19/29                                           |",263,98.5,False,positional,Carl FROEHLICH,,,,
+BO0624_88276,388915,72,94,"Hollandische FluBlandschaft mit Schlittschuhlaufer.                                               | Martha HAMMERLEIN,1826, Mainz.                                                     | Seidenstickerei 19/29                                           |",263,98.5,False,positional,Carl FROEHLICH,,,,Sec. XIX
 BO0624_88276,388916,73,95,"| Prof. Karl HEFFNER, Freiburg. 5Arbeiter im Walde. Bezeichnet.                      | Leinw.28/23                                                     |",264,97.8,False,positional,Carl FROEHLICH,,,,
 BO0624_88276,388917,74,96,"97 98 Mondscheinlandschaft mit Windmuihle. 99 Bachlandschaft bei Mondschein. Samtlich bezeichnet. | Eduard HEIN ,Dusseldorf. Landschaft mit Weiher, Brucke und Haus. Winterlandschaft. | Leinw.65/80 Leinw. 36,5/29 Gegenstiick z. Vor. Leinw. 34,5/27,5 |",265,99.4,False,positional,Carl FROEHLICH,,,,
 BO0624_88276,388918,75,100,| Partie am Thunersee.                                                               | Leinw.52/90                                                     |,267,93.9,False,positional,Carl FROEHLICH,,,,
@@ -88,14 +88,14 @@ BO0624_88276,388929,86,115,| Landschaft im Herbst. Beide bezeichnet.            
 BO0624_88276,388930,87,116,| Kanal von Utrecht. Kanalpartie von Amsterdam.                                                                                          | Holz 13/21               |,291,96.4,False,positional,Tony HIRSCHIG,,OGGETTI IN LEGNO,,
 BO0624_88276,388931,88,117,|                                                                                                                                        | Holz 13/21               |,292,83.3,False,positional,Tony HIRSCHIG,,OGGETTI IN LEGNO,,
 BO0624_88276,388932,89,118,| Samtlich bezeichnet.                                                                                                                   |                          |,293,90.5,False,positional,Tony HIRSCHIG,,,,
-BO0624_88276,388933,90,121,| Postillon und Bauer mit Pferden in der Dorfschmiede. Bezeichnet 1885.                                                      | Bleizchn.17/23                       |,300,97.6,False,positional,Hermann KAUFFMANN,,,,
+BO0624_88276,388933,90,121,| Postillon und Bauer mit Pferden in der Dorfschmiede. Bezeichnet 1885.                                                      | Bleizchn.17/23                       |,300,97.6,False,positional,Hermann KAUFFMANN,,,,Sec. XIX
 BO0624_88276,388934,91,125,"| Nelson KINSLEY, Cronberg. 5Rotwild am Winterabend. Bezeichnet.                                                             | Leinw.51/66                          |",304,97.2,False,positional,Hermann KAUFFMANN,,,,
 BO0624_88276,388935,92,128,"| 8Glaube, Liebe,Hoffnung. Bezeichnet.                                                                                       | Feder 7,5/13,5                       |",307,96.0,False,positional,Hermann KAUFFMANN,,,,
 BO0624_88276,388936,93,129,"| Prof.Alfred von KoWALsKI-WIERUsZ, Munchen (angeblich). 9Winterlandschaft mit Pferd vor einem Schlitten.                    | Leinw.59/70                          |",308,98.2,False,positional,Hermann KAUFFMANN,,,,
 BO0624_88276,388937,94,130,"131 | Guter Jahrgang. Saurer Jahrgang. Beide bezeichnet.                                                                         | Aquarell 24/20,5 Gegenstuick z. Vor. |",309,97.7,False,positional,Hermann KAUFFMANN,,,,
 BO0624_88276,388938,95,132,| Die Lowenburg bei Kassel. 133 Madonna della Sedia.                              | Aquarelliert 12/18 Desg1.24/20   |,314,97.5,False,positional,,,Kunstdrucke,,
-BO0624_88276,388939,96,134,"| Kupferstiche. W. F. Gmelin nach Ph. Hackert. Veduta di Baja.                    | P1.44/58,5                       |",316,97.0,False,positional,,,Kunstdrucke,,
-BO0624_88276,388940,97,135,"| Gg. Hackert nach Ph.Hackert. Vue de Caserte.                                    | P1.44/58,5                       |",317,96.3,False,positional,,,Kunstdrucke,,
+BO0624_88276,388939,96,134,"| Kupferstiche. W. F. Gmelin nach Ph. Hackert. Veduta di Baja.                    | P1.44/58,5                       |",316,97.0,False,positional,HACKERT PHILIPPE,,Kunstdrucke,,
+BO0624_88276,388940,97,135,"| Gg. Hackert nach Ph.Hackert. Vue de Caserte.                                    | P1.44/58,5                       |",317,96.3,False,positional,HACKERT PHILIPPE,,Kunstdrucke,,
 BO0624_88276,388941,98,136,| P.Parboni n.Poussin. Waldlandschaft mit Wasserfall u. Staffage. Pl. 48/60       |                                  |,318,97.2,False,positional,POUSSIN NICOLAS,,Kunstdrucke,,
 BO0624_88276,388942,99,137,| P.Parboni n. Claudia di Lovena. Rom. Landschaft mit Staffage. Pl. 48/61         |                                  |,319,97.1,False,positional,,,Kunstdrucke,,
 BO0624_88276,388943,100,138,| Gauff nach Raphael. Die heilige Familie.                                        | P1.45/33                         |,320,95.9,False,positional,SANZIO RAFFAELLO,,Kunstdrucke,,
@@ -119,9 +119,9 @@ BO0624_88276,388960,117,166,167     | Brustbild eines Herrn. Bereiter zu Pferd. 
 BO0624_88276,388961,118,169,"170     | Stilleben. Fruchte,Apfel und Pflaumen.                                                     |                              |",353,95.2,False,positional,Henry LOT,,,,
 BO0624_88276,388962,119,171,"Frichtestick. Korb mit Apfeln. 172 StrauB mit Schneeballen. Samtlich bezeichnet.     | Leinw.51/55,5 Leinw.72/53        |",358,98.1,False,positional,Henry LOT,,,,
 BO0624_88276,388963,120,183,"Am Pumpbrunnen. 184S Studienkopf. Madchen.                                      | Blei 11/7,5 Blei 17/14        |",371,96.9,False,positional,Professor Ch. PETERS,,OGGETTI IN PIOMBO,,
-BO0624_88276,388964,121,191,"Partie vom Lahntal. Bez.:1865 Sept.                                             | Aquarell 20,5/33              |",379,96.1,False,positional,Professor Ch. PETERS,,,,
+BO0624_88276,388964,121,191,"Partie vom Lahntal. Bez.:1865 Sept.                                             | Aquarell 20,5/33              |",379,96.1,False,positional,Professor Ch. PETERS,,,,Sec. XIX
 BO0624_88276,388965,122,192,"Partie bei Dehrn an der Lahn. 193 Olstudie aus dem Taunus.                      | Aquarell 40/62 Karton 14/19,5 |",380,97.7,False,positional,Professor Ch. PETERS,,,,
-BO0624_88276,388966,123,199,"| Ludwig RICHTER +, Dresden. Singendes Madchen mit Mandoline. Bezeichnet mit Jahreszahl 1836. | Leinw. 33/25                      |",387,98.0,False,positional,Professor Ch. PETERS,,,,
+BO0624_88276,388966,123,199,"| Ludwig RICHTER +, Dresden. Singendes Madchen mit Mandoline. Bezeichnet mit Jahreszahl 1836. | Leinw. 33/25                      |",387,98.0,False,positional,Professor Ch. PETERS,,,,Sec. XIX
 BO0624_88276,388967,124,200,| Spielende Kinder am Dorfbrunnen.                                                            | Bleizchn.11/9                     |,388,95.7,False,positional,Professor Ch. PETERS,,,,
 BO0624_88276,388968,125,201,"Edelmann. | SANOVILLE.                                                                                  | Aquarell 22,5/15                  |",389,94.6,False,positional,Professor Ch. PETERS,,,,
 BO0624_88276,388969,126,203,"204       | Julius SCHEURER, Muinchen. Entenfamilie. Huhner. Beide bezeichnet.                          | Holz 9/12 Gegenstick z. Vor.      |",391,97.9,False,positional,Professor Ch. PETERS,,OGGETTI IN LEGNO,,
@@ -138,7 +138,7 @@ BO0624_88276,388979,136,226,"227 | Art des TENIERs. Hollandischer Bettler in ein
 BO0624_88276,388980,137,228,"| Desire THoMAssIN, Minchen. 8 Aus dem 30 jahr. Krieg. Bezeichnet.                                       | Holz 18/27                      |",420,97.2,False,positional,Prof. Konrad SUTTER,,OGGETTI IN LEGNO,,
 BO0624_88276,388981,138,229,"| C. T. THYsSEN, Amsterdam. 9Alte Frau in der Stube arbeitend. Bezeichnet.                               | Holz 26/23                      |",421,97.5,False,positional,Prof. Konrad SUTTER,,OGGETTI IN LEGNO,,
 BO0624_88276,388982,139,231,232 | Schule VAN DE VELDE. Kanallandschaft mit Schiffen. Desgl.                                              | Holz 34/50 Gegenstuick z. Vor.  |,423,97.8,False,positional,Prof. Konrad SUTTER,,OGGETTI IN LEGNO,,
-BO0624_88276,388983,140,233,"| Claude Jos.VERNET, 1712—1789, Paris (Art). 8Seehafen mit Staffage.                                     | Leinw.69/93                     |",424,97.3,False,positional,Prof. Konrad SUTTER,,,,
+BO0624_88276,388983,140,233,"| Claude Jos.VERNET, 1712—1789, Paris (Art). 8Seehafen mit Staffage.                                     | Leinw.69/93                     |",424,97.3,False,positional,Prof. Konrad SUTTER,,,,Sec. XVIII
 BO0624_88276,388984,141,235,"| Thilo WACKER, Lubeck. Bauerngespann. Bezeichnet.                                                       | Pastell 40/60                   |",426,96.7,False,positional,Prof. Konrad SUTTER,,,,
 BO0624_88276,388985,142,236,Frihlingslandschaft.,429,90.5,False,positional,Arthur WANSLEBEN,,,,
 BO0624_88276,388986,143,237,Abendlandschaft mit Wild. Bezeichnet.,435,94.6,False,positional,Alfred WECZERZICK,,,,
@@ -157,31 +157,31 @@ BO0624_88276,388998,155,250,"F.Boehle. Ehepaar. Desgl. 20/19. Finf Blatt. Kupfer
 BO0624_88276,388999,156,253,Neun Blatt. Desgl. Desgl. des XVIll. Jahrh.,463,95.0,False,positional,W. WILLGERODT,,,,
 BO0624_88276,389000,157,255,- 254 Zehn Blatt. Desgl. Desgl. des XVIll. Jahrh.,465,100.0,False,positional,W. WILLGERODT,,,,
 BO0624_88276,389001,158,256,Plan der Stadt Augsburg.,467,92.0,False,positional,W. WILLGERODT,,,,
-BO0624_88276,389002,159,257,"Fritz Boehle 1913. Kalendervignette. Litho. 29,5/56. Desgl.1915. Wohltatigkeitsvignette.Litho.28/21 Desgl.1911.Desgl. Litho. 42/42.",470,55.8,False,positional,W. WILLGERODT,,,,
-BO0624_88276,389003,160,260,Zehender 1773. Muhlberg und Frankfurt a. M. von Oberrad aus. Farb-,472,96.8,False,positional,W. WILLGERODT,,,,
-BO0624_88276,389004,161,261,"Desgl.1782. Blick auf Bockenheim iber den Kettenhofweg.Farbdruck 16,5/34,5.",473,97.3,False,positional,W. WILLGERODT,,,,
-BO0624_88276,389005,162,262,- 263 Historisches Taschenbuch fir Damen. 1791. Von Friedr. Schiller.,475,100.0,False,positional,W. WILLGERODT,,,,
+BO0624_88276,389002,159,257,"Fritz Boehle 1913. Kalendervignette. Litho. 29,5/56. Desgl.1915. Wohltatigkeitsvignette.Litho.28/21 Desgl.1911.Desgl. Litho. 42/42.",470,55.8,False,positional,W. WILLGERODT,,,,Sec. XX
+BO0624_88276,389003,160,260,Zehender 1773. Muhlberg und Frankfurt a. M. von Oberrad aus. Farb-,472,96.8,False,positional,W. WILLGERODT,,,,Sec. XVIII
+BO0624_88276,389004,161,261,"Desgl.1782. Blick auf Bockenheim iber den Kettenhofweg.Farbdruck 16,5/34,5.",473,97.3,False,positional,W. WILLGERODT,,,,Sec. XVIII
+BO0624_88276,389005,162,262,- 263 Historisches Taschenbuch fir Damen. 1791. Von Friedr. Schiller.,475,100.0,False,positional,W. WILLGERODT,,,,Sec. XVIII
 BO0624_88276,389006,163,264,- 265,493,100.0,False,positional,W. WILLGERODT,,,,
-BO0624_88276,389007,164,266,- Schwabisches Taschenbuch.1820 Wanner-Brandt. Alt-Ludwigsburg.,497,67.4,False,positional,W. WILLGERODT,Manifattura di Ludwigsburg,,,
-BO0624_88276,389008,165,267,"Sechs Neujahrshefte der Kunstlergesellschaft Zurich. Jahrgang 1810, 11, 14,16,20,24.",498,97.6,False,positional,W. WILLGERODT,,,,
+BO0624_88276,389007,164,266,- Schwabisches Taschenbuch.1820 Wanner-Brandt. Alt-Ludwigsburg.,497,67.4,False,positional,W. WILLGERODT,Manifattura di Ludwigsburg,,,Sec. XIX
+BO0624_88276,389008,165,267,"Sechs Neujahrshefte der Kunstlergesellschaft Zurich. Jahrgang 1810, 11, 14,16,20,24.",498,97.6,False,positional,W. WILLGERODT,,,,Sec. XIX
 BO0624_88276,389009,166,270,270,500,100.0,False,positional,W. WILLGERODT,,,,
-BO0624_88276,389010,167,271,Alte Karte von Deutschland. 1782.,503,93.9,False,positional,W. WILLGERODT,,,,
+BO0624_88276,389010,167,271,Alte Karte von Deutschland. 1782.,503,93.9,False,positional,W. WILLGERODT,,,,Sec. XVIII
 BO0624_88276,389011,168,272,Finf Guckkastenbilder.,504,91.3,False,positional,W. WILLGERODT,,,,
 BO0624_88276,389012,169,273,- Stammbuch.,506,100.0,False,positional,W. WILLGERODT,,,,
 BO0624_88276,389013,170,274,Napoleon vor Moskau. Ubermalter Farbstich.,507,95.2,False,positional,W. WILLGERODT,,STAMPE E INCISIONI,,
-BO0624_88276,389014,171,275,Zwolf Kostimblatter um 1830.,508,93.1,False,positional,W. WILLGERODT,,,,
-BO0624_88276,389015,172,276,Zehn Kostimblatter aus den Jahren 1818-1822.,509,95.6,False,positional,W. WILLGERODT,,,,
+BO0624_88276,389014,171,275,Zwolf Kostimblatter um 1830.,508,93.1,False,positional,W. WILLGERODT,,,,Sec. XIX
+BO0624_88276,389015,172,276,Zehn Kostimblatter aus den Jahren 1818-1822.,509,95.6,False,positional,W. WILLGERODT,,,,Sec. XIX
 BO0624_88276,389016,173,277,Partie versch. Stiche von Kleinmeistern u. s.w. Ca. 225 Blatt.,510,96.6,False,positional,W. WILLGERODT,,STAMPE E INCISIONI,,
 BO0624_88276,389017,174,278,Drei Blatt Festzige. Sechselauten in Zurich.,511,95.5,False,positional,W. WILLGERODT,,,,
 BO0624_88276,389018,175,279,Acht Blatt Ridinger. Neudrucke.,512,93.5,False,positional,W. WILLGERODT,,,,
 BO0624_88276,389019,176,280,"Zusammenkunft der Kaiser von RuBland,Osterreich und des Konigs von",513,97.1,False,positional,W. WILLGERODT,,,,
 BO0624_88276,389020,177,281,Fuinf Blatter von Waldeck-Pyrmont.,515,94.3,False,positional,W. WILLGERODT,,,,
-BO0624_88276,389021,178,282,Nach Merian 1622.Hochst a. M. Kloster St. Anthoni.Aq. 36/46.,516,96.5,False,positional,W. WILLGERODT,Manifattura di Hochst,,,
+BO0624_88276,389021,178,282,Nach Merian 1622.Hochst a. M. Kloster St. Anthoni.Aq. 36/46.,516,96.5,False,positional,W. WILLGERODT,Manifattura di Hochst,,,Sec. XVII
 BO0624_88276,389022,179,283,- Desgl. Hochst a. M. Blick vom Dorfe Nied aus. Aq. 31/46.,518,100.0,False,positional,W. WILLGERODT,Manifattura di Hochst,,,
 BO0624_88276,389023,180,284,"Desgl. Hochst a. M. Nordwestl. Eckturm der Stadtbefestigung. Aq. 45/35,5.",519,97.1,False,positional,W. WILLGERODT,Manifattura di Hochst,,,
 BO0624_88276,389024,181,285,"Desgl. Hochst a. M. Westliches Tor (Mainzer). Aq. 43/35,5.",520,96.2,False,positional,W. WILLGERODT,Manifattura di Hochst,,,
 BO0624_88276,389025,182,286,"Desgl. Hochst a. M. Suidwestl. Eckturm der Stadtbefestigung. Aq. 46/35,5.",521,97.1,False,positional,W. WILLGERODT,Manifattura di Hochst,,,
-BO0624_88276,389026,183,287,- Karl Ballenberger 1810—1860. Trachtenstudien. 4 Blatt. Feder u.Blei. 27/20.,523,100.0,False,positional,W. WILLGERODT,,OGGETTI IN PIOMBO,,
+BO0624_88276,389026,183,287,- Karl Ballenberger 1810—1860. Trachtenstudien. 4 Blatt. Feder u.Blei. 27/20.,523,100.0,False,positional,W. WILLGERODT,,OGGETTI IN PIOMBO,,Sec. XIX
 BO0624_88276,389027,184,288,Erster Jahrgang der Liller Kriegszeitung.,524,95.2,False,positional,W. WILLGERODT,,,,
 BO0624_88276,389028,185,289,Zweiter Jahrgang der Liller Kriegszeitung.,525,95.3,False,positional,W. WILLGERODT,,,,
 BO0624_88276,389029,186,290,- Schaubeck-Album mit ca. 820 Briefmarken.,527,100.0,False,positional,W. WILLGERODT,,FRANCOBOLLI,,
@@ -319,7 +319,7 @@ BO0624_88276,389160,317,472,- 473 Gotze. Bronze.,786,100.0,False,positional,,,Mo
 BO0624_88276,389161,318,474,"- 475 Zinnhumpen mit Portrat, Schild und Buckeln. Hohe 36, Durchm. 18,5 cm.",789,100.0,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88276,389162,319,476,Flache Zinnkanne mit Portratrelief. Hohe 42 cm.,791,95.7,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88276,389163,320,477,"- 478 Desgl. 6eckig, graviert, auf 3 KlauenfuiBen. Hohe 28,5 cm.",794,100.0,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88276,389164,321,480,"Desgl. 8eckig mit Jahreszahl 1797. Hohe 19 cm. Schraubzinnkrug,4eckig,mit 4 Kaiserportrats. Hohe 24 cm.",796,73.1,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
+BO0624_88276,389164,321,480,"Desgl. 8eckig mit Jahreszahl 1797. Hohe 19 cm. Schraubzinnkrug,4eckig,mit 4 Kaiserportrats. Hohe 24 cm.",796,73.1,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88276,389165,322,481,"Zinnkanne mit Portrat und Frankfurter Adler auf Schild. Hohe 39 cm Zinnteller mit Wappen. Durchm. 22,5 cm. Zinnplatte mit Wappen getrieben. Durchm. 30 cm.",797,60.2,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88276,389166,323,484,Desgl. Gegenstiick.,800,89.5,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88276,389167,324,485,Zwei Zinnbecher. Rokoko getrieben.,801,94.1,False,positional,,,OGGETTI IN LATTA,,
@@ -336,13 +336,13 @@ BO0624_88276,389177,334,500,heim.),821,66.7,False,positional,,,Mobel; Antiquitat
 BO0624_88276,389178,335,503,Madchenbiste. Italienische Bronze auf gelbem Marmorsockel. Bez.: Silbergruppe. Troika auf Marmorsockel. Hohe 16 cm. 36/15. Silber.,824,65.9,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88276,389179,336,504,Venusbiste. Karrarischer Marmor. Kopie nach der Antike. Hohe mit,826,96.8,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88276,389180,337,506,506,828,100.0,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88276,389181,338,507,Desgl. mit scharf geschnittenen Ornamenten. 18. Jahrh.,832,96.2,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88276,389182,339,508,"Glaskrug, geatzt mit ornamentiertem Zinndeckel. 18. Jahrh. Indischer Schlangenbeschworer. Metall bemalt. Desgl. Ebenso.",833,63.9,False,positional,,,OGGETTI IN METALLO,,
+BO0624_88276,389181,338,507,Desgl. mit scharf geschnittenen Ornamenten. 18. Jahrh.,832,96.2,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,Sec. XVIII
+BO0624_88276,389182,339,508,"Glaskrug, geatzt mit ornamentiertem Zinndeckel. 18. Jahrh. Indischer Schlangenbeschworer. Metall bemalt. Desgl. Ebenso.",833,63.9,False,positional,,,OGGETTI IN METALLO,,Sec. XVIII
 BO0624_88276,389183,340,511,Feuerzeugbehalter. Kanone auf Lafette und Radern.,836,95.9,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88276,389184,341,512,- Brunnenglas mit feineim Schliff und Goldrand. Bohmisch. 18. Jahrh.,838,100.0,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
+BO0624_88276,389184,341,512,- Brunnenglas mit feineim Schliff und Goldrand. Bohmisch. 18. Jahrh.,838,100.0,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88276,389185,342,513,Trinkglas mit geatzten Ornamenten. Biedermeier.,839,95.7,False,positional,,Biedermeier,Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88276,389186,343,515,- 514,841,100.0,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88276,389187,344,516,"Bauernteller mit Blumenornamenten. Marburg. 1804. Sechs Porzellanteller mit geschweiftem und gebogtem Rand, im Spiegel Schissel, brauner Ton mit geometr. Ornamenten. 18. Jahrh.",845,58.8,False,positional,,,SPECCHI,,
+BO0624_88276,389187,344,516,"Bauernteller mit Blumenornamenten. Marburg. 1804. Sechs Porzellanteller mit geschweiftem und gebogtem Rand, im Spiegel Schissel, brauner Ton mit geometr. Ornamenten. 18. Jahrh.",845,58.8,False,positional,,,SPECCHI,,Sec. XVIII
 BO0624_88276,389188,345,519,"Bauernteller mit 3 herzform. umrandeten Sprichen, gelb,blau, grin und",848,97.1,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88276,389189,346,520,Desgl. mit Spruch. Desgl. Desgl. Ebenso mit Marke.,852,64.8,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88276,389190,347,523,Desgl. Ebenso.,854,85.7,False,positional,,,Mobel; Antiquitaten; Kunstgegenstande,,

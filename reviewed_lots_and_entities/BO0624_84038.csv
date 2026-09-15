@@ -1,40 +1,40 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84038,633503,1,1728,1806.,9,61.5,False,positional,CHARPENTIER,,,,
+BO0624_84038,633503,1,1728,1806.,9,61.5,False,positional,CHARPENTIER,,,,Sec. XIX
 BO0624_84038,633504,2,I1,## DROUAIS,42,100.0,False,title_direct,DROUAIS,,,,
-BO0624_84038,633505,3,1727,1775.,46,61.5,False,positional,DROUAIS,,,,
+BO0624_84038,633505,3,1727,1775.,46,61.5,False,positional,DROUAIS,,,,Sec. XVIII
 BO0624_84038,633506,4,I,"ls sont tous deux assis sur de la paille; l'un, la tete tournee de trois quarts, joue de la vielle, tandis que son compagnon fait danser une marmotte qui se tient debout sur ses pattes de derriere et s'appuie sur un baton. Le petit gamin tient sa marmotte par un ruban bleu. Il est vetu d'un habit heliotrope marque par une ceinture de gaze feurie. Son bas de la jambe gauche glisse du genou qu'il laisse a decouvert. Sa chemise s'ouvre au cou dont elle laisse apercevoir la blancheur. La petite figure,aux joues pleines, a la bouche souriante et rose,aux grands yeux gais et tendres, est coiffee d'un feutre sombre sur des cheveux blond pale. Le joueur de vielle qui est plus age a la tete nue. Ses yeux sont espiegles, sa bouche est fine, son nez est d'un joli dessin. Lui aussi est vetu d'un habit heliotrope. Ses mains,qui font marcher l'instrument, laissent apparaitre au poignet la chemise blanche. Ses bas ne sont pas rigidement tires. Ses pieds sont chausses de petits chaussons de cuir, sans talons et a boucles.",56,99.9,False,positional,DROUAIS,,,,
 BO0624_84038,633507,5,I,"l pourrait sembler qu'il y a une contradiction entre ces noms : il n'en est rien:voici, a ce sujet, une note qui nous a éte communiquee par M. Jacques Mayer, collaborateur du Repertoire d'art et d'archeologie:",75,99.8,False,positional,DROUAIS,,,,
-BO0624_84038,633508,6,1,"° Jacques-Leopold-Charles Godefroy,prince de Bouillon,ne le 15 janvier 1746,colonel d'un regiment de son nom,marie, le 17 juillet 1768 a Bouillon, a Marie-Hedwige-Eleonore-Christine de Hesse-Rheinfels-Rothenbourg,nee le 26 juin 1748,fille du landgrave Constantin et de Marie-Sophie, comtesse de Starhenberg;",79,99.7,False,positional,DROUAIS,,,,
-BO0624_84038,633509,7,2,"Charles-Louis Godefroy,ne le 22 septembre 1749, prince d'Auvergne,",80,98.5,False,positional,DROUAIS,,,,
+BO0624_84038,633508,6,1,"° Jacques-Leopold-Charles Godefroy,prince de Bouillon,ne le 15 janvier 1746,colonel d'un regiment de son nom,marie, le 17 juillet 1768 a Bouillon, a Marie-Hedwige-Eleonore-Christine de Hesse-Rheinfels-Rothenbourg,nee le 26 juin 1748,fille du landgrave Constantin et de Marie-Sophie, comtesse de Starhenberg;",79,99.7,False,positional,DROUAIS,,,,Sec. XVIII
+BO0624_84038,633509,7,2,"Charles-Louis Godefroy,ne le 22 septembre 1749, prince d'Auvergne,",80,98.5,False,positional,DROUAIS,,,,Sec. XVIII
 BO0624_84038,633510,8,I,ls etaient les fils de:,84,97.8,False,positional,DROUAIS,,,,
-BO0624_84038,633511,9,30,octobre 1728.,88,88.9,False,positional,DROUAIS,,,,
+BO0624_84038,633511,9,30,octobre 1728.,88,88.9,False,positional,DROUAIS,,,,Sec. XVIII
 BO0624_84038,633512,10,I,"l est debout,vu jusqu’a mi-corps, le corps de profil a droite, la tete tournee de trois quarts. Sa petite figure rose, aux yeux bleus intelligents et espiegles,et aux cheveux blonds poudres,nattes par derriere, est coiffee d'un chapeau de feutre noir aux souplesses torturees, formant une corne sur la tempe droite et fortement incline sur la tempe gauche. ll est vetu d'un habit rouge grenat,marque au col et aux poignets par le feston de la chemise et la dentelle des manchettes; il porte sous son bras son carton a dessin recouvert de parchemin jaune. La figure, d'une joliesse exquise, se detache sur un fond neutre. On imagine sans peine que cet ecolier doit etre distrait et turbulent.",97,99.9,False,positional,DROUAIS,,,,
 BO0624_84038,633513,11,I,ls sont sous glace.,189,97.3,False,positional,DROUAIS,,,,
-BO0624_84038,633514,12,1732,1806.,198,61.5,False,positional,FRAGONARD,,,,
+BO0624_84038,633514,12,1732,1806.,198,61.5,False,positional,FRAGONARD,,,,Sec. XIX
 BO0624_84038,633515,13,I,l en existe une autre gravure faite en Italie par EReDi (Benedetto).,216,99.2,False,positional,FRAGONARD,,STAMPE E INCISIONI,,
-BO0624_84038,633516,14,1727,1788.,263,61.5,False,positional,GAINSBOROUGH,,,,
+BO0624_84038,633516,14,1727,1788.,263,61.5,False,positional,GAINSBOROUGH,,,,Sec. XVIII
 BO0624_84038,633517,15,I,"l est debout, de face, le pied gauche legerement porte en avant; il est vetu d'un pourpoint a creves et d'une culotte de satin bleu. 1ll tient de sa main droite, le bras pendant et allonge, son feutre sombre a larges bords, orne d'une plume blanche, et sur son bras gauche, le poing appuye a la hanche, il releve son manteau bleu. Il est chausse de souliers de peau de daim ornes de noeuds de rubans, et son bas de soie est retenu au genou par une jarretiere de dentelle. Le jeune garcon au visage long et mince, aux yeux clairs, aux levres rouges, aux cheveux qui tombent en longues tresses, porte un col empese de batiste blanche garni de point coupe. La figure se detache en pleine lumiere sur un fond de paysage montagneux et de ciel orageux.",269,99.9,False,positional,GAINSBOROUGH,,,,
-BO0624_84038,633518,16,1725,1806.,278,61.5,False,positional,GREUZE,,,,
-BO0624_84038,633519,17,176,g-1839.,319,80.0,False,positional,LAWRENCE,,,,
+BO0624_84038,633518,16,1725,1806.,278,61.5,False,positional,GREUZE,,,,Sec. XIX
+BO0624_84038,633519,17,176,g-1839.,319,80.0,False,positional,LAWRENCE,,,,Sec. XIX
 BO0624_84038,633520,18,I,"l est represente debout jusqu'a mi-jambes,le corps de face,la tete tournee de trois quarts a droite.Tout, dans sa physionomie et dans son attitude,indique qu'il doit pretendre a une reputee elegance.",357,99.7,False,positional,LAWRENCE,,,,
 BO0624_84038,633521,19,I,"l est vetu d'un habit marron boutonne,a larges revers,qui laissent apercevoir un gilet blanc sur lequel joue un jabot festonne. Son pantalon a pont est noir-gris, marque par des breloques d'or suspendues a une chatelaine de rubans rouges.Il tient son chapeau de la main droite et sappuie, de la main gauche gantee, sur une canne.La tete est expressive et souriante, aux traits accentues, aux yeux bleus limpides, aux cheveux boucles follement qui se continuent sur les joues en de tres minces favoris. Le menton et les levres rases sont epouses par le col de batiste blanche, maintenu par une ample cravate de soie noire nouee en foulard et piquee d'une epingle d'or. La figure se detache sur un fond de ciel ennuage.",359,99.9,False,positional,LAWRENCE,,,,
-BO0624_84038,633522,20,1685,1766.,431,61.5,False,positional,NATTIER,,,,
-BO0624_84038,633523,21,1733,1808.,459,61.5,False,positional,ROBERT,,,,
-BO0624_84038,633524,22,1579,1657.,508,61.5,False,positional,SNYDERS,,,,
-BO0624_84038,633525,23,1745,1811.,523,61.5,False,positional,HUET,,,,
-BO0624_84038,633526,24,1802,1828.,546,61.5,False,positional,BONINGTON,,,,
-BO0624_84038,633527,25,1796,1875.,572,61.5,False,positional,COROT,,,,
+BO0624_84038,633522,20,1685,1766.,431,61.5,False,positional,NATTIER,,,,Sec. XVIII
+BO0624_84038,633523,21,1733,1808.,459,61.5,False,positional,ROBERT,,,,Sec. XIX
+BO0624_84038,633524,22,1579,1657.,508,61.5,False,positional,SNYDERS,,,,Sec. XVII
+BO0624_84038,633525,23,1745,1811.,523,61.5,False,positional,HUET,,,,Sec. XIX
+BO0624_84038,633526,24,1802,1828.,546,61.5,False,positional,BONINGTON,,,,Sec. XIX
+BO0624_84038,633527,25,1796,1875.,572,61.5,False,positional,COROT,,,,Sec. XIX
 BO0624_84038,633528,26,I,"ls sont entres dans le panier dont les couvercles sont tenus releves par les petites tetes aux mines preoccupees; sur le fanc du panier, on lit en guise d'adresse :α Madame X..., envoi de Lambert 》.",597,99.7,False,positional,LAMBERT,,,,
-BO0624_84038,633529,27,1828,1893.,642,61.5,False,positional,VEYRASSAT,,,,
+BO0624_84038,633529,27,1828,1893.,642,61.5,False,positional,VEYRASSAT,,,,Sec. XIX
 BO0624_84038,633530,28,7,## LAMI,672,100.0,False,title_direct,LAMI,,,,
-BO0624_84038,633531,29,175,g-1832.,808,80.0,False,positional,AUGUSTIN,,,,
-BO0624_84038,633532,30,1761,1827.,843,61.5,False,positional,CAPET,,,,
-BO0624_84038,633533,31,1740,1821.,876,61.5,False,positional,COSWAY,,,,
+BO0624_84038,633531,29,175,g-1832.,808,80.0,False,positional,AUGUSTIN,,,,Sec. XIX
+BO0624_84038,633532,30,1761,1827.,843,61.5,False,positional,CAPET,,,,Sec. XIX
+BO0624_84038,633533,31,1740,1821.,876,61.5,False,positional,COSWAY,,,,Sec. XIX
 BO0624_84038,633534,32,I,"l est debout,en habit bleu,la main droite inseree dans le gilet,la tete coiffée de la perruque poudree a cadenettes.",920,99.6,False,positional,,ECOLE FRANCAISE,,,
-BO0624_84038,633535,33,1767,1855.,973,61.5,False,positional,ISABEY,,,,
+BO0624_84038,633535,33,1767,1855.,973,61.5,False,positional,ISABEY,,,,Sec. XIX
 BO0624_84038,633536,34,I,"l est represente jusqu'a la poitrine, avec la croix de Saint-Louis et le grand-cordon du Saint-Esprit.",979,99.5,False,positional,ISABEY,,,,
 BO0624_84038,633537,35,I,"ls sont tous deux nus, dans une corbeille de roses suspendue a un arbre.",998,99.3,False,positional,ISABEY,,,,
-BO0624_84038,633538,36,1657,1734.,1047,61.5,False,positional,KLINGSTET,,,,
+BO0624_84038,633538,36,1657,1734.,1047,61.5,False,positional,KLINGSTET,,,,Sec. XVIII
 BO0624_84038,633539,37,I,"l est represente de trois quarts a gauche, en habit bleu, avec la croix de Saint-Louis et le grand cordon du Saint-Esprit.",1053,46.5,False,positional,KLINGSTET,,,,
 BO0624_84038,633540,38,72,"— Borre ronde, en racine, ornee sur le couvercle d''une miniature :le Char de l'Amour. Fin du xvine siecle.",1055,51.5,False,positional,KLINGSTET,,MINIATURE,,
 BO0624_84038,633541,39,73,"CoFFRET ET INRo, en ancien laque d’or du Japon.",1065,40.4,False,positional,KONTA,,,,
@@ -42,7 +42,7 @@ BO0624_84038,633542,40,74,"—— FLAcoN A sEL, de forme aplatie et contournee, 
 BO0624_84038,633543,41,76,"PETITE BoITE-CAssoLETTE, forme masque, en ancienne porcelaine de Saxe, enrichie de pierres,les yeux incrustes de deux brillants. Couvercle en agate arborisee.xvin siecle.",1074,47.8,False,positional,LEGER,,SCATOLE,,
 BO0624_84038,633544,42,77,"— BoiTE RoNDE en ecaille de couleur; le couvercle orne d'une miniature peinte a la gouache en grisaille, presentant, dans un medaillon, un sujet allegorique a l'amour. Epoque Louis XVI.",1090,49.2,False,positional,MOREAU,,MINIATURE,,
 BO0624_84038,633545,43,78,"BoTE A MusIQuE rectangulaire, avec oiseau chanteur, en ecaille brune, ornee sur le couvercle d'un medaillon emaille sur or en couleur, paysage maritime. Ancien travail de Geneve.",1101,46.2,False,positional,PERIN,,,,
-BO0624_84038,633546,44,79,"- 8o — Boire oblongue, en or cisele, a sujets de chasse et encadrement de rocailles feuillagees incrustees de roses. Poincon de Brichard, sous-fermier, 1756-1762. Epoque Louis XV.",1115,42.6,False,positional,PERIN,Periodo di Luigi XV,,,
+BO0624_84038,633546,44,79,"- 8o — Boire oblongue, en or cisele, a sujets de chasse et encadrement de rocailles feuillagees incrustees de roses. Poincon de Brichard, sous-fermier, 1756-1762. Epoque Louis XV.",1115,42.6,False,positional,PERIN,Periodo di Luigi XV,,,Sec. XVIII
 BO0624_84038,633547,45,81,"— Boire ovale en or plaque de nacre de couleur, posée d’or",1117,41.2,False,positional,PERIN,,,,
 BO0624_84038,633548,46,82,"- TREs PETITE BOITE oblongue, a angles coupés, en or cisele, guilloche et pointille, decoree sur le dessus d'un medaillon a attributs, rinceaux et bordure a feston de feuillages.",1140,42.5,False,positional,SICARDI,,SCATOLE,,
 BO0624_84038,633549,47,83,"BoiTe rectangulaire, le couvercle ouvrant a charniere,en",1142,42.7,False,positional,SICARDI,,SCATOLE,,
@@ -65,7 +65,7 @@ BO0624_84038,633565,63,I,"oI - EruI A ciRE en or guilloche, cisele et emaille ma
 BO0624_84038,633566,64,102,"- PETITE BoITE A DEvIsE, en or guilloche et cisele, decorée sur le couvercle d'une lyre, au centre, et d'une guirlande avec incrustations de pierres fines. Commencement du xixe siecle.",1307,46.0,False,positional,WELPER,,SCATOLE,,
 BO0624_84038,633567,65,103,"— BoNBoNNIERE forme belier, en prime d'amethyste; monture en or enrichie de brillants et de rubis.",1316,48.1,False,positional,WELPER,,,,
 BO0624_84038,633568,66,104,"—— PETIT FACE-A-MAIN en or, pave de brillants; tige faite d'un vase a branchages feuris.",1324,47.1,False,positional,WELPER,,VASI,,
-BO0624_84038,633569,67,105,"— Boite ovale, en or guilloche, cisele et émaille a queue de paon sur fond bleu. Bordures partiellement emaillees en couleurs. Poincon de Clavel, regisseur general, 1780-178g.Epoque Louis XVI.",1332,65.8,False,positional,WELPER,,SCATOLE,,
+BO0624_84038,633569,67,105,"— Boite ovale, en or guilloche, cisele et émaille a queue de paon sur fond bleu. Bordures partiellement emaillees en couleurs. Poincon de Clavel, regisseur general, 1780-178g.Epoque Louis XVI.",1332,65.8,False,positional,WELPER,,SCATOLE,,Sec. XVIII
 BO0624_84038,633570,68,I06,"-PeTITE BoITE ovale en or cisele et emaille sur toutes ses faces en camaieu bleu sur fond de grisaille, sujets d'enfants d'apres Drouais.Bordures a grecques en or cisele. Epoque Louis XVI.",1336,56.2,False,positional,WELPER,,SCATOLE,,
 BO0624_84038,633571,69,I,"o7 —GRANDE BoITE ovale,en or cisele et emaille blanc. Bordures et pilastres partiellement emailles en couleurs. Elle est ornee,sur le couvercle,d'une miniature :portrait de femme,peint sur email,encadree debrillants.Epoque Louis XVI.",1340,49.0,False,positional,WELPER,,MINIATURE,,
 BO0624_84038,633572,70,1,"o8 -BortE ovale,en or cisele et émaille a fond bleu etoile d'or. Bordures a feuillages partiellement emaillees, enrichies de petites perles fines. Sur le couvercle,medaillon ovale emaille, sujet de personnages d'apres Angelica Kauffmann, entoure de demi-perles. Epoque Louis XVI.",1359,64.8,False,positional,WELPER,,,,

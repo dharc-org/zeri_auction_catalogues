@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87420,198495,1,1,"Thonschussel. Gross mit der Verkuindigung, farbig gemalt. Inschrift :",35.0,98.5,False,positional,,,Topferarbeiten,,
-BO0624_87420,198496,2,2,- Peter Renner in Sonsbeck 1720.,37.0,100.0,False,positional,,,Topferarbeiten,,
+BO0624_87420,198496,2,2,- Peter Renner in Sonsbeck 1720.,37.0,100.0,False,positional,,,Topferarbeiten,,Sec. XVIII
 BO0624_87420,198497,3,3,Fayence-Kanne mit Schale.Gewunden. Weiss.,39.0,97.5,False,positional,,,OGGETTI VARI,,
 BO0624_87420,198498,4,4,Wandplatte. Delft. Blau mit Schwanen. Desgl. Desgl.1 Klein. Desgl. Desgl. Achteckig.,40.0,60.7,False,positional,,,Topferarbeiten,,
 BO0624_87420,198499,5,7,- Desgl. Rouen. Desgl.,44.0,100.0,False,positional,,,Topferarbeiten,,
@@ -43,7 +43,7 @@ BO0624_87420,198535,41,22,Fayence-Kannchen. Gewunden mit Blumen.,95.0,96.0,False
 BO0624_87420,198536,42,23,Fayence-Teller. Blau mit Doppeladler.,96.0,95.9,False,positional,,,PIATTI,,
 BO0624_87420,198537,43,40,Holsteiner Teller mit bunten Blumen.,97.0,95.9,False,positional,,,PIATTI,,
 BO0624_87420,198538,44,41,Schone Thonschussel. Hirschvogel. Mit Darstellung des Abend-,98.0,97.4,False,positional,,,Topferarbeiten,,
-BO0624_87420,198539,45,26,42.Fayence-Platte. 1680.Mit schonen blauen Ornamenten und Blumenkorb.,99.0,97.8,False,positional,,,Topferarbeiten,,
+BO0624_87420,198539,45,26,42.Fayence-Platte. 1680.Mit schonen blauen Ornamenten und Blumenkorb.,99.0,97.8,False,positional,,,Topferarbeiten,,Sec. XVII
 BO0624_87420,198540,46,43,Fayence-Platte.S Stylisirte Fruichte. Grin.,100.0,96.5,False,positional,,,Topferarbeiten,,
 BO0624_87420,198541,47,44,Desgl.,101.0,76.9,False,positional,,,Topferarbeiten,,
 BO0624_87420,198542,48,29,45.,102.0,57.1,False,positional,,,Topferarbeiten,,
@@ -158,7 +158,7 @@ BO0624_87420,198650,156,2,148.,245.0,75.0,False,positional,,,Glas,,
 BO0624_87420,198651,157,149,Desgl. Ebenso. Rubinglasflacon. Ebenso.,247.0,78.0,False,positional,,,Glas,,
 BO0624_87420,198652,158,150,"Deckelglas. Goldumfangen, mit Cavalieren und Damen. mit Christus am Kreuz und Pieta.",248.0,72.7,False,positional,,,Glas,,
 BO0624_87420,198653,159,151,Desgl. Desgl. mit Madonna und Bischofswappen.,250.0,95.5,False,positional,,,Glas,,
-BO0624_87420,198654,160,8,Zwei Deckelglaser. Desgl. Inschrift: Mildner fec. a Gutenbrunn 1799.,251.0,98.4,False,positional,,,Glas,,
+BO0624_87420,198654,160,8,Zwei Deckelglaser. Desgl. Inschrift: Mildner fec. a Gutenbrunn 1799.,251.0,98.4,False,positional,,,Glas,,Sec. XVIII
 BO0624_87420,198655,161,9,153.,252.0,75.0,False,positional,,,Glas,,
 BO0624_87420,198656,162,10,"Deckelhumpen. Reich geschliffen und vergoldet, mit St. Catharina und St. Jacobus.",253.0,98.1,False,positional,,,Glas,,
 BO0624_87420,198657,163,154,Deckelpokal mit vergoldetem Broncefuss.,254.0,95.0,False,positional,,,Glas,,
@@ -211,7 +211,7 @@ BO0624_87420,198703,209,186,Gruner Stiefel.,301.0,87.5,False,positional,,,Glas,,
 BO0624_87420,198704,210,11,187.,302.0,66.7,False,positional,,,Glas,,
 BO0624_87420,198705,211,12,188.,303.0,66.7,False,positional,,,Glas,,
 BO0624_87420,198706,212,13,Trinkglas mit Buckeln.,304.0,93.3,False,positional,,,Glas,,
-BO0624_87420,198707,213,14,Blaues Glas mit Mullerwappen und Jahrzahl 1741.,305.0,96.8,False,title_direct,,,Glas,,
+BO0624_87420,198707,213,14,Blaues Glas mit Mullerwappen und Jahrzahl 1741.,305.0,96.8,False,title_direct,,,Glas,,Sec. XVIII
 BO0624_87420,198708,214,189,Zwei Romer. Farbfaden im Fuss.,306.0,93.3,False,positional,,,Glas,,
 BO0624_87420,198709,215,190,Henkelkorbchen. Desgl.,307.0,90.9,False,positional,,,Glas,,
 BO0624_87420,198710,216,17,191.,308.0,66.7,False,positional,,,Glas,,
@@ -222,7 +222,7 @@ BO0624_87420,198714,220,196,"Trinkglas mit Frankfurter Adler ,Stark im Recht""."
 BO0624_87420,198715,221,197,Vier geschliffene Glaser.,315.0,92.3,False,title_direct,,,Glas,,
 BO0624_87420,198716,222,198,Essig- und Oelflasche. Geschliffen.,316.0,94.1,False,positional,,,Glas,,
 BO0624_87420,198717,223,26,199.,317.0,66.7,False,positional,,,Glas,,
-BO0624_87420,198718,224,27,"Deckelhumpen mit Gerathen, 1797. Geschliffen.",318.0,96.6,False,positional,,,Glas,,
+BO0624_87420,198718,224,27,"Deckelhumpen mit Gerathen, 1797. Geschliffen.",318.0,96.6,False,positional,,,Glas,,Sec. XVIII
 BO0624_87420,198719,225,200,Trinkglas mit Gartner. Geschliffen.,319.0,94.3,False,positional,,,Glas,,
 BO0624_87420,198720,226,29,201.,320.0,66.7,False,positional,,,Glas,,
 BO0624_87420,198721,227,30,Zwei emaillirte Bauernglaser.,321.0,94.9,False,positional,,,Glas,,
@@ -240,7 +240,7 @@ BO0624_87420,198732,238,41,211.,332.0,66.7,False,positional,,,Glas,,
 BO0624_87420,198733,239,42,Desgl. mit Butzenscheiben.,333.0,94.1,False,positional,,,Glas,,
 BO0624_87420,198734,240,212,Zwei Flaschen und drei Glaser.,334.0,93.5,False,title_direct,,,Glas,,
 BO0624_87420,198735,241,213,Konischer Becher. Gravirt.,337.0,92.3,False,positional,,,Zinn,,
-BO0624_87420,198736,242,2,Pokal mit schoner Gravirung und Jahrzahl 1697.,338.0,97.8,False,positional,,,Zinn,,
+BO0624_87420,198736,242,2,Pokal mit schoner Gravirung und Jahrzahl 1697.,338.0,97.8,False,positional,,,Zinn,,Sec. XVII
 BO0624_87420,198737,243,3,214.,339.0,75.0,False,positional,,,Zinn,,
 BO0624_87420,198738,244,215,Schraubenkrug mit Amorette.,340.0,92.9,False,positional,,,Zinn,,
 BO0624_87420,198739,245,216,Durchbrochener Krug.,341.0,90.5,False,positional,,,Zinn,,
@@ -250,7 +250,7 @@ BO0624_87420,198742,248,219,Rococo-Zuckerdose.Versilbert.,344.0,93.3,False,posit
 BO0624_87420,198743,249,9,220.,345.0,75.0,False,positional,,,Zinn,,
 BO0624_87420,198744,250,10,Teller. Kaiser und Kurfuirsten.,346.0,95.1,False,positional,,,Zinn,,
 BO0624_87420,198745,251,221,"Zwei Kannchen. Gewunden, Rococo.",347.0,93.5,False,positional,,,Zinn,,
-BO0624_87420,198746,252,222,Humpen mit Deckel. Jahrzahl 1616.,348.0,93.9,False,positional,,,Zinn,,
+BO0624_87420,198746,252,222,Humpen mit Deckel. Jahrzahl 1616.,348.0,93.9,False,positional,,,Zinn,,Sec. XVII
 BO0624_87420,198747,253,223,Rococo-Kannchen.Versilbert.,349.0,92.9,False,positional,,,Zinn,,
 BO0624_87420,198748,254,224,Rococo-Terrine mit Untersatz.,350.0,93.3,False,positional,,,Zinn,,
 BO0624_87420,198749,255,15,225.,351.0,66.7,False,positional,,,Zinn,,
@@ -261,12 +261,12 @@ BO0624_87420,198753,259,19,Rococo-Salzfass. Versilbert.,355.0,94.5,False,positio
 BO0624_87420,198754,260,228,Teller. Kaiser Ferdinand IIl. und Kurfursten. Polychrom.,356.0,96.3,False,positional,,,Zinn,,
 BO0624_87420,198755,261,21,229.,357.0,66.7,False,positional,,,Zinn,,
 BO0624_87420,198756,262,22,Desgl. Mit biblischen Scenen.,358.0,94.7,False,positional,,,Zinn,,
-BO0624_87420,198757,263,230,Seilerzunfthumpen.1743-1790.,359.0,93.1,False,positional,,,Zinn,,
+BO0624_87420,198757,263,230,Seilerzunfthumpen.1743-1790.,359.0,93.1,False,positional,,,Zinn,,Sec. XVIII
 BO0624_87420,198758,264,231,Ausgusskanne. Bauchig gerieft.,360.0,93.3,False,positional,,,Zinn,,
-BO0624_87420,198759,265,232,Schraubenflasche. Achteckig. Gravirt. 1675. Sehr schon.,361.0,96.2,False,positional,,,Zinn,,
+BO0624_87420,198759,265,232,Schraubenflasche. Achteckig. Gravirt. 1675. Sehr schon.,361.0,96.2,False,positional,,,Zinn,,Sec. XVII
 BO0624_87420,198760,266,233,Desgl. Desgl.,362.0,84.6,False,positional,,,Zinn,,
-BO0624_87420,198761,267,234,Zwei Humpen mit Figuren und Blumen. 1794.,363.0,95.1,False,positional,,,Zinn,,
-BO0624_87420,198762,268,235,Kanne auf Engelfuissen. Zunft der Weber 1722.,364.0,95.6,False,positional,WEBER PAUL,,Zinn,,
+BO0624_87420,198761,267,234,Zwei Humpen mit Figuren und Blumen. 1794.,363.0,95.1,False,positional,,,Zinn,,Sec. XVIII
+BO0624_87420,198762,268,235,Kanne auf Engelfuissen. Zunft der Weber 1722.,364.0,95.6,False,positional,WEBER PAUL,,Zinn,,Sec. XVIII
 BO0624_87420,198763,269,236,Becher.Gebuckelt.,365.0,88.9,False,positional,,,Zinn,,
 BO0624_87420,198764,270,237,Kannchen. Gewunden.,366.0,89.5,False,positional,,,Zinn,,
 BO0624_87420,198765,271,31,238.,367.0,66.7,False,positional,,,Zinn,,
@@ -352,13 +352,13 @@ BO0624_87420,198844,350,15,Ring. Gold mit Miniatur: Charitas.,477.0,95.4,False,p
 BO0624_87420,198845,351,321,Desgl. Gold mit Haararbeit und Perlen besetzt.,478.0,95.7,False,positional,,,Arbeiten in Metall,,
 BO0624_87420,198846,352,322,Funf Ringe und Ohrringe. Gold.,479.0,93.3,False,positional,,,Arbeiten in Metall,,
 BO0624_87420,198847,353,323,Ring mit Tigerauge in Silber gefasst zum Oeffnen mit Goldbuchstaben G.,480.0,97.2,False,positional,,,Arbeiten in Metall,,
-BO0624_87420,198848,354,324,Uhrschlussel mit Bischofsminze von 1694. Silber.,481.0,95.8,False,positional,,,Arbeiten in Metall,,
+BO0624_87420,198848,354,324,Uhrschlussel mit Bischofsminze von 1694. Silber.,481.0,95.8,False,positional,,,Arbeiten in Metall,,Sec. XVII
 BO0624_87420,198849,355,20,325.,482.0,66.7,False,positional,,,Arbeiten in Metall,,
-BO0624_87420,198850,356,21,Anhangeminze mit Kaiser Maximilian 1612. Desgl.,483.0,96.8,False,positional,,,Arbeiten in Metall,,
+BO0624_87420,198850,356,21,Anhangeminze mit Kaiser Maximilian 1612. Desgl.,483.0,96.8,False,positional,,,Arbeiten in Metall,,Sec. XVII
 BO0624_87420,198851,357,327,Gurtelschnallchen. Silber.,484.0,92.3,False,positional,,,Arbeiten in Metall,,
-BO0624_87420,198852,358,328,"Thaler. Maximilian,Erzbischof von Salzburg 1673.",486.0,90.9,False,positional,,,Arbeiten in Metall,,
-BO0624_87420,198853,359,329,"Desgl. Leopold, Erzherzog von Oestreich 1632",487.0,95.5,False,positional,,,Arbeiten in Metall,,
-BO0624_87420,198854,360,330,"Desgl. Johann Georg,Reichsverweser 1619.",488.0,95.0,False,positional,,,Arbeiten in Metall,,
+BO0624_87420,198852,358,328,"Thaler. Maximilian,Erzbischof von Salzburg 1673.",486.0,90.9,False,positional,,,Arbeiten in Metall,,Sec. XVII
+BO0624_87420,198853,359,329,"Desgl. Leopold, Erzherzog von Oestreich 1632",487.0,95.5,False,positional,,,Arbeiten in Metall,,Sec. XVII
+BO0624_87420,198854,360,330,"Desgl. Johann Georg,Reichsverweser 1619.",488.0,95.0,False,positional,,,Arbeiten in Metall,,Sec. XVII
 BO0624_87420,198855,361,331,Zwei Manchettenknopfe. Gold mit Corallen.,489.0,95.1,False,positional,,,Arbeiten in Metall,,
 BO0624_87420,198856,362,332,Anhange-Doppelkreuz. Versilbert.,490.0,93.8,False,positional,,,Arbeiten in Metall,,
 BO0624_87420,198857,363,333,Anhanger mit ，Verkundigung. Vergoldet.,491.0,94.6,False,positional,,,Arbeiten in Metall,,
@@ -400,7 +400,7 @@ BO0624_87420,198892,398,364,Johannes. Ebenso. Hohe der Figur 100 cm.,532.0,94.9,
 BO0624_87420,198893,399,365,Drei Console.,533.0,85.7,False,positional,,,Holzschnitzereien; Elfenbeinarbeiten,,
 BO0624_87420,198894,400,366,"Consol mit Engelskopfen und Eckbrett. Einerseits Pieta, anderseits heilige Familie",535.0,69.8,False,positional,,,Holzschnitzereien; Elfenbeinarbeiten,,
 BO0624_87420,198895,401,367,Elfenbeinmedaillon. in Silberrahmchen.,536.0,94.7,False,positional,,,Holzschnitzereien; Elfenbeinarbeiten,,
-BO0624_87420,198896,402,368,"Gothische Wanduhr. Ganz aus Eisen getrieben. Reich verzierte Vorderseite und Ornamente vergoldet. Von prachtigem Aufbau, wohl einst Kronung eines Sakramentshauschens. XV. Jahrh.",538.0,79.2,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
+BO0624_87420,198896,402,368,"Gothische Wanduhr. Ganz aus Eisen getrieben. Reich verzierte Vorderseite und Ornamente vergoldet. Von prachtigem Aufbau, wohl einst Kronung eines Sakramentshauschens. XV. Jahrh.",538.0,79.2,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,Sec. XV
 BO0624_87420,198897,403,369,"Rococo-Wanduhr. Die geschweifte Vorderseite mit Messing belegt,",539.0,96.8,False,positional,,,Holzschnitzereien; Elfenbeinarbeiten,,
 BO0624_87420,198898,404,4,"das hoch getrieben und versilbert,in reichen Ornamentmotiven.",540.0,98.4,False,positional,,,Holzschnitzereien; Elfenbeinarbeiten,,
 BO0624_87420,198899,405,5,370.,541.0,75.0,False,positional,,,Holzschnitzereien; Elfenbeinarbeiten,,
@@ -462,7 +462,7 @@ BO0624_87420,198954,460,418,Holzkastchen mit Schnitzerei.,617.0,93.3,False,title
 BO0624_87420,198955,461,419,Kastchen mit Elfenbeineinlagen.,618.0,93.8,False,title_direct,,,Kastchen,,
 BO0624_87420,198956,462,420,"Schrankchen in Nussbaum, Elfenbein eingelegt, mit vielen Schubladen.",619.0,97.0,False,positional,,,Kastchen,,
 BO0624_87420,198957,463,421,Kastchen. Wismuthmalerei.,620.0,92.0,False,title_direct,,,Kastchen,,
-BO0624_87420,198958,464,422,"Zunfttruhe der Bottcher. Eingelegt, 1697.",621.0,95.0,False,positional,,,Kastchen,,
+BO0624_87420,198958,464,422,"Zunfttruhe der Bottcher. Eingelegt, 1697.",621.0,95.0,False,positional,,,Kastchen,,Sec. XVII
 BO0624_87420,198959,465,423,Schrankchen in schwarzem Holz mit Spiegelschubladchen.,622.0,96.4,False,title_direct,,,Spiegel,,
 BO0624_87420,198960,466,424,Kastchen desgl. mit Steineinlagen.,624.0,82.8,False,title_direct,,,Kastchen,,
 BO0624_87420,198961,467,425,"Wismuthkastchen mit sehr schoner, bestens erhaltener Blumenmalerei.Viele Schubladen.",625.0,97.6,False,title_direct,,,Kastchen,,
@@ -523,7 +523,7 @@ BO0624_87420,199015,521,476,"Kreuzigungsgruppe, in Alabaster geschnittenes Relie
 BO0624_87420,199016,522,477,Zwei Untersatze.,699.0,88.2,False,positional,,,Mobel; Spiegel,,
 BO0624_87420,199017,523,478,Kleine Loupe und Meerschaumpfeife.,700.0,94.3,False,positional,,,Mobel; Spiegel,,
 BO0624_87420,199018,524,5,479.,701.0,75.0,False,positional,,,Mobel; Spiegel,,
-BO0624_87420,199019,525,6,Wachsbossirung. Kaiser Paul im 16. Jahre.,702.0,97.4,False,positional,,,Mobel; Spiegel,,
+BO0624_87420,199019,525,6,Wachsbossirung. Kaiser Paul im 16. Jahre.,702.0,97.4,False,positional,,,Mobel; Spiegel,,Sec. XVI
 BO0624_87420,199020,526,7,480.,703.0,75.0,False,positional,,,Mobel; Spiegel,,
 BO0624_87420,199021,527,8,Christuskopf. Bergcristall in Metallrahmchen.,704.0,97.7,False,positional,,,Mobel; Spiegel,,
 BO0624_87420,199022,528,481,"Lackbrett, reich mit Vogeln und Blumen gemalt.",705.0,95.7,False,positional,,,Mobel; Spiegel,,
@@ -566,7 +566,7 @@ BO0624_87420,199058,564,512,Zwei Yatagan mit Korallen und Steinen besetzt.,756.0
 BO0624_87420,199059,565,513,Hirschfanger.,757.0,85.7,False,positional,,,Waffen,,
 BO0624_87420,199060,566,514,Geflammter Dolch.,758.0,88.9,False,positional,,,Waffen,,
 BO0624_87420,199061,567,515,- Jagdmesser mit Hirschhorngriff.,760.0,100.0,False,positional,,,Waffen,,
-BO0624_87420,199062,568,516,Zwei Reitersabel. 1848. P. Knecht Solingen.,761.0,95.1,False,positional,,,Waffen,,
+BO0624_87420,199062,568,516,Zwei Reitersabel. 1848. P. Knecht Solingen.,761.0,95.1,False,positional,,,Waffen,,Sec. XIX
 BO0624_87420,199063,569,517,Zwei Degen mit Messinggefassen.,762.0,93.8,False,positional,,,Waffen,,
 BO0624_87420,199064,570,518,- Turkischer Sabel.,764.0,100.0,False,positional,,,Waffen,,
 BO0624_87420,199065,571,519,Zwei Sabel mit Metallscheiden.,765.0,93.5,False,positional,,,Waffen,,
@@ -631,9 +631,9 @@ BO0624_87420,199123,629,576,Vorhang. Fantasiestoff uber zwei Fenster.,846.0,95.1
 BO0624_87420,199124,630,577,Ripsportiere. Gruin mit Saufeder als Halter.,847.0,95.5,False,positional,,,Stoffe; Teppiche; Vorhinge,,
 BO0624_87420,199125,631,578,"Seesturm. Oelgemalde, Leinw. 63/82                                                                          |",852.0,93.9,False,title_direct,,,Gemalde,,
 BO0624_87420,199126,632,579,"| 579. Altarfigel. St. Oswald. Oelgemalde, oben abgerundet, Holz 107/30                                            |",854.0,100.0,False,title_direct,,,OGGETTI IN LEGNO,,
-BO0624_87420,199127,633,580,"580. Strandendes Schiff. Aquarell 25/35 Canon, Hans,1829—1885.                              |",855.0,87.2,False,positional,,,Gemalde; Miniaturen,,
-BO0624_87420,199128,634,581,"| 581.Der Kreislauf des Lebens.Bez.: Hans Canon 1882. Oelgemalde, Leinw. 93/102                                    |",856.0,100.0,False,title_direct,,,Gemalde,,
-BO0624_87420,199129,635,582,"582. Waldlandschaft mit Hirschen. Bez.: Crola 1835 Muinchen. Oelgemalde,Leinw.105/144 |",857.0,86.5,False,title_direct,,,Gemalde,,
+BO0624_87420,199127,633,580,"580. Strandendes Schiff. Aquarell 25/35 Canon, Hans,1829—1885.                              |",855.0,87.2,False,positional,,,Gemalde; Miniaturen,,Sec. XIX
+BO0624_87420,199128,634,581,"| 581.Der Kreislauf des Lebens.Bez.: Hans Canon 1882. Oelgemalde, Leinw. 93/102                                    |",856.0,100.0,False,title_direct,,,Gemalde,,Sec. XIX
+BO0624_87420,199129,635,582,"582. Waldlandschaft mit Hirschen. Bez.: Crola 1835 Muinchen. Oelgemalde,Leinw.105/144 |",857.0,86.5,False,title_direct,,,Gemalde,,Sec. XIX
 BO0624_87420,199130,636,583,583. Wascherinnen nach Boucher. Rothdruck 21/18                                     |,858.0,76.9,False,positional,BOUCHER FRANCOIS,,Gemalde; Miniaturen,,
 BO0624_87420,199131,637,584,"| 584. Selbstportrait. Oelgemalde, Carton 31/25                                                                    |",859.0,100.0,False,title_direct,,,Gemalde,,
 BO0624_87420,199132,638,585,585.Karl der Grosse. Lichtdruck                                                           |,860.0,74.1,False,positional,,,Gemalde; Miniaturen,,
@@ -649,7 +649,7 @@ BO0624_87420,199141,647,595,"Schweizerlandschaft. Oelgemalde,Leinw.16/12        
 BO0624_87420,199142,648,596,"| 596.Der sterbende Hirsch. Oelgemalde,Leinw.63/75                                                                     |",873.0,100.0,False,title_direct,,,Gemalde,,
 BO0624_87420,199143,649,597,"597.Heilige Familie auf Goldgrund. Oelgemalde,Holz 39/32                                                   |",874.0,92.4,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_87420,199144,650,598,"598.Taunuslandschaft. Oelgemalde,Leinw.23/30                                                |",875.0,81.9,False,title_direct,,,Gemalde,,
-BO0624_87420,199145,651,599,"| 599. Selbstportrait. Bez.:HIPSCH MARTIN SCHONGA VER MALER 1483. Oelgemalde,auf Leinw.ibertragen 27/20                |",876.0,100.0,False,title_direct,,,Gemalde,,
+BO0624_87420,199145,651,599,"| 599. Selbstportrait. Bez.:HIPSCH MARTIN SCHONGA VER MALER 1483. Oelgemalde,auf Leinw.ibertragen 27/20                |",876.0,100.0,False,title_direct,,,Gemalde,,Sec. XV
 BO0624_87420,199146,652,600,600. Brustbild: Joh. Wilh. Friso. Kupferstich 24/18                                               |,877.0,83.6,False,positional,"Plimsel, A.",,OGGETTI IN RAME,,
 BO0624_87420,199147,653,601,"| 601. Brustbild eines Pilgers. Bez.: Stauffer. Oelgemalde, Leinw. 33/30                                               |",878.0,100.0,False,title_direct,,,Gemalde,,
 BO0624_87420,199148,654,602,602. Fichten. Kreidezeichnung 45/58                                                                 |,879.0,83.5,False,positional,"Plimsel, A.",,,,
@@ -659,46 +659,46 @@ BO0624_87420,199151,657,605,"605. Durchblick durch Laubwerk. Oelgemalde,Carton 2
 BO0624_87420,199152,658,606,"Umranktes Fenster. Oelgemalde, Leinw. 69/50                                                                     |",882.0,95.2,False,title_direct,,,Gemalde,,
 BO0624_87420,199153,659,607,"Maria mit dem Kind. Bez.: Maria von Gutten Rath. In Plusch- rahme mit Silberfiligran. Oelgemalde,Leinw.40/29    |",883.0,98.1,False,title_direct,,,Gemalde,,
 BO0624_87420,199154,660,608,"Portrait eines Mannes. Oelgemilde,Blech 20/15                                                                   |",884.0,95.7,False,positional,"Plimsel, A.",,OGGETTI IN METALLO,,
-BO0624_87420,199155,661,609,"Zwei Landschaften. Aquarelle je 17/14 Verhas, Theodor,1812-1872.                                                |",885.0,96.8,False,positional,"Plimsel, A.",,,,
+BO0624_87420,199155,661,609,"Zwei Landschaften. Aquarelle je 17/14 Verhas, Theodor,1812-1872.                                                |",885.0,96.8,False,positional,"Plimsel, A.",,,,Sec. XIX
 BO0624_87420,199156,662,610,| 610. Zwei Zeichnungen. Sepia.                                                                                        |,886.0,100.0,False,positional,"Plimsel, A.",,,,
 BO0624_87420,199157,663,611,611. Gobert-Thurm in Baden-Baden. Bleistiftzeichnung getuscht und weiss gehoht 33/26     |,887.0,86.3,False,positional,"Plimsel, A.",,,,
 BO0624_87420,199158,664,612,612.Diverse Schildereien.                                                                                   |,888.0,85.7,False,positional,"Plimsel, A.",,,,
 BO0624_87420,199159,665,613,"Mappe mit Portraits, Stichen, Lithographien, Photographien etc.                                                 | ## P.Bicher.",889.0,90.1,False,title_direct,,,FOTOGRAFIE,,
-BO0624_87420,199160,666,614,Val. Konig.Genealogische Adelshistorie. 3 Theile mit Kpfst. Pergament-Rucken.Leipzig 1727—1736.,894.0,97.8,False,positional,,,Bicher,,
+BO0624_87420,199160,666,614,Val. Konig.Genealogische Adelshistorie. 3 Theile mit Kpfst. Pergament-Rucken.Leipzig 1727—1736.,894.0,97.8,False,positional,,,Bicher,,Sec. XVIII
 BO0624_87420,199161,667,2,615.,895.0,75.0,False,positional,,,Bicher,,
-BO0624_87420,199162,668,3,"Missale. Pluschband mit schon gravirten, vergoldeten Beschlagen. Campidonensi 1734.",896.0,98.8,False,positional,,,Bicher,,
-BO0624_87420,199163,669,616,Bibel. Gepresster Perg.-Band mit Metallbeschlagen. Ulm 1688.,897.0,96.6,False,positional,,,Bicher,,
-BO0624_87420,199164,670,617,Desgl. Lederband mit Goldpressung. Nurnberg 1712. A.v. Witzleben. Genealogie und Geschichte des Fursten-Hauses Nassau. Halbfranzband. Stuttgart 1854. J.F. Bastien. La nouvelle maison rustique. I. Theil mit Kpfst. Lederband mit Goldpressung. Paris 1798.,900.0,58.3,False,positional,,Scuola di Norimberga,Bicher,,
+BO0624_87420,199162,668,3,"Missale. Pluschband mit schon gravirten, vergoldeten Beschlagen. Campidonensi 1734.",896.0,98.8,False,positional,,,Bicher,,Sec. XVIII
+BO0624_87420,199163,669,616,Bibel. Gepresster Perg.-Band mit Metallbeschlagen. Ulm 1688.,897.0,96.6,False,positional,,,Bicher,,Sec. XVII
+BO0624_87420,199164,670,617,Desgl. Lederband mit Goldpressung. Nurnberg 1712. A.v. Witzleben. Genealogie und Geschichte des Fursten-Hauses Nassau. Halbfranzband. Stuttgart 1854. J.F. Bastien. La nouvelle maison rustique. I. Theil mit Kpfst. Lederband mit Goldpressung. Paris 1798.,900.0,58.3,False,positional,,Scuola di Norimberga,Bicher,,Sec. XVIII
 BO0624_87420,199165,671,620,Portrait-Gallerie der regierenden Fursten und Furstinnen Europas. 8Radirungen.1.-4.Lieferung.Fursten-Ausgabe.,901.0,73.6,False,positional,,,Bicher,,
 BO0624_87420,199166,672,621,Bucher &amp; Gnauth.Das Kunsthandwerk.Jahrg. I-IIl. 3 Pracht-,903.0,96.6,False,positional,,,Bicher,,
-BO0624_87420,199167,673,11,bande. Stuttgart 1874-1876.,904.0,94.3,False,positional,,,Bicher,,
+BO0624_87420,199167,673,11,bande. Stuttgart 1874-1876.,904.0,94.3,False,positional,,,Bicher,,Sec. XIX
 BO0624_87420,199168,674,12,Notizbuch. Mit Messingdeckel.,905.0,94.7,False,positional,,,Bicher,,
 BO0624_87420,199169,675,623,Desgl. In Leder.,906.0,87.5,False,positional,,,OGGETTI IN PELLE,,
 BO0624_87420,199170,676,624,Desgl.,907.0,71.4,False,positional,,,Bicher,,
 BO0624_87420,199171,677,15,625.,908.0,66.7,False,positional,,,Bicher,,
 BO0624_87420,199172,678,16,desgl.,909.0,76.9,False,positional,,,Bicher,,
-BO0624_87420,199173,679,17,Gothaischer-Hofkalender.Jahrg. 1823.29.39.43. 48-50. 54. 59-66.69-80.82-85.87.88.,910.0,98.1,False,positional,,,Bicher,,
-BO0624_87420,199174,680,626,Gothaischer-Hofkalender. Grafiches Taschenbuch.1838.48.59-63. 69-80.82.84.85.87.88.,911.0,82.5,False,positional,,,Bicher,,
-BO0624_87420,199175,681,627,Gothaischer-Hofkalender.Freiherrn. 1848. 56. 59-61.63-66. 69-79.81.83.84.86-88. Skakespeare. Werke. Uebersetzt von Ortlepp. 8 Bande. Stutt-,913.0,71.5,False,positional,,,Bicher,,
-BO0624_87420,199176,682,628,gart 1838.,915.0,81.8,False,positional,,,Bicher,,
+BO0624_87420,199173,679,17,Gothaischer-Hofkalender.Jahrg. 1823.29.39.43. 48-50. 54. 59-66.69-80.82-85.87.88.,910.0,98.1,False,positional,,,Bicher,,Sec. XIX
+BO0624_87420,199174,680,626,Gothaischer-Hofkalender. Grafiches Taschenbuch.1838.48.59-63. 69-80.82.84.85.87.88.,911.0,82.5,False,positional,,,Bicher,,Sec. XIX
+BO0624_87420,199175,681,627,Gothaischer-Hofkalender.Freiherrn. 1848. 56. 59-61.63-66. 69-79.81.83.84.86-88. Skakespeare. Werke. Uebersetzt von Ortlepp. 8 Bande. Stutt-,913.0,71.5,False,positional,,,Bicher,,Sec. XIX
+BO0624_87420,199176,682,628,gart 1838.,915.0,81.8,False,positional,,,Bicher,,Sec. XIX
 BO0624_87420,199177,683,23,629.,916.0,66.7,False,positional,,,Bicher,,
-BO0624_87420,199178,684,24,Schiller. Werke. 12 Bande und Suppl. Cotta 1837. Fehlt Band 7.,917.0,97.4,False,positional,,,Bicher,,
+BO0624_87420,199178,684,24,Schiller. Werke. 12 Bande und Suppl. Cotta 1837. Fehlt Band 7.,917.0,97.4,False,positional,,,Bicher,,Sec. XIX
 BO0624_87420,199179,685,25,630.,918.0,66.7,False,positional,,,Bicher,,
 BO0624_87420,199180,686,26,631.,919.0,66.7,False,positional,,,Bicher,,
-BO0624_87420,199181,687,632,"5 Bandchen Gedichte. Thummel. Werke. 8 Bande in 4 gebunden, Leipzig 1839.",921.0,82.4,False,positional,,,Bicher,,
+BO0624_87420,199181,687,632,"5 Bandchen Gedichte. Thummel. Werke. 8 Bande in 4 gebunden, Leipzig 1839.",921.0,82.4,False,positional,,,Bicher,,Sec. XIX
 BO0624_87420,199182,688,633,6 Desgl. desgl. 4 Desgl. desgl.,923.0,68.2,False,positional,,,Bicher,,
 BO0624_87420,199183,689,634,6 Desgl. desgl.,924.0,86.7,False,positional,,,Bicher,,
 BO0624_87420,199184,690,32,636.,925.0,66.7,False,positional,,,Bicher,,
-BO0624_87420,199185,691,33,Aug. Lewald. Die Geheimnisse des Theaters. Mit Federzeichnungen. 10 Lieferungen Broch. Stuttgart 1845.,926.0,98.5,False,positional,,,Bicher,,
-BO0624_87420,199186,692,34,Moliere. Oeuvres. 8 Bande. Paris 1822.,927.0,95.8,False,positional,,,Bicher,,
-BO0624_87420,199187,693,637,Jose Baronin Schneider-Arno. Aus Oesterreich. Gedichte 5 Exem- plare in farbigem Umschlage. Wien 1889.,928.0,73.8,False,positional,,Scuola Viennese,Bicher,,
-BO0624_87420,199188,694,638,Jose Baronin Schneider-Arno. Novellen. 5 Exemplare Broch. Deutsche Verlags-Anstalt 1890.,930.0,76.1,False,positional,,,Bicher,,
-BO0624_87420,199189,695,639,Gregor Samarow. Um Scepter und Kronen. 4 Bande. Europ. Minen und Gegenminen.4 Bande (fehlt Band 1.) Zwei Kaiserkronen 4 Bande. Kreuz und Schwert 4 Bande sammtlich brochirt. Stuttgart 1872-1875.,933.0,83.9,False,positional,,,Bicher,,
+BO0624_87420,199185,691,33,Aug. Lewald. Die Geheimnisse des Theaters. Mit Federzeichnungen. 10 Lieferungen Broch. Stuttgart 1845.,926.0,98.5,False,positional,,,Bicher,,Sec. XIX
+BO0624_87420,199186,692,34,Moliere. Oeuvres. 8 Bande. Paris 1822.,927.0,95.8,False,positional,,,Bicher,,Sec. XIX
+BO0624_87420,199187,693,637,Jose Baronin Schneider-Arno. Aus Oesterreich. Gedichte 5 Exem- plare in farbigem Umschlage. Wien 1889.,928.0,73.8,False,positional,,Scuola Viennese,Bicher,,Sec. XIX
+BO0624_87420,199188,694,638,Jose Baronin Schneider-Arno. Novellen. 5 Exemplare Broch. Deutsche Verlags-Anstalt 1890.,930.0,76.1,False,positional,,,Bicher,,Sec. XIX
+BO0624_87420,199189,695,639,Gregor Samarow. Um Scepter und Kronen. 4 Bande. Europ. Minen und Gegenminen.4 Bande (fehlt Band 1.) Zwei Kaiserkronen 4 Bande. Kreuz und Schwert 4 Bande sammtlich brochirt. Stuttgart 1872-1875.,933.0,83.9,False,positional,,,Bicher,,Sec. XIX
 BO0624_87420,199190,696,640,5 Diverse.,934.0,81.8,False,positional,,,Bicher,,
 BO0624_87420,199191,697,641,5 desgl.,935.0,77.8,False,positional,,,Bicher,,
 BO0624_87420,199192,698,642,6 desgl.,936.0,77.8,False,positional,,,Bicher,,
 BO0624_87420,199193,699,643,Brochiiren u.A.,937.0,87.5,False,positional,,,Bicher,,
-BO0624_87420,199194,700,644,Georg Hirth. Das deutsche Zimmer der Renaissance. Muinchen 1880.,938.0,96.8,False,positional,,,Bicher,,
+BO0624_87420,199194,700,644,Georg Hirth. Das deutsche Zimmer der Renaissance. Muinchen 1880.,938.0,96.8,False,positional,,,Bicher,,Sec. XIX
 BO0624_87420,199195,701,12,645.,939.0,66.7,False,positional,,,Bicher,,
 BO0624_87420,199196,702,13,646.,940.0,66.7,False,positional,,,Bicher,,
 BO0624_87420,199197,703,14,Cataloge u. A.,941.0,88.9,False,positional,,,Bicher,,
@@ -706,7 +706,7 @@ BO0624_87420,199198,704,15,7 Bande.Gesang- und Gebetbicher.,942.0,95.2,False,pos
 BO0624_87420,199199,705,647,Carl Schuler. Die heiligen Schriften in Kupfern. Freiburg o. J.,943.0,96.7,False,positional,,,OGGETTI IN RAME,,
 BO0624_87420,199200,706,648,Operntexte u.A.,944.0,87.5,False,positional,,,Bicher,,
 BO0624_87420,199201,707,649,Photographien aus Italien.,945.0,92.6,False,positional,,,FOTOGRAFIE,,
-BO0624_87420,199202,708,650,Brockhaus.Conversationslexikon 1848.Brochirt.,946.0,95.7,False,positional,,,Bicher,,
+BO0624_87420,199202,708,650,Brockhaus.Conversationslexikon 1848.Brochirt.,946.0,95.7,False,positional,,,Bicher,,Sec. XIX
 BO0624_87420,199203,709,651,17 Reisehandbucher.,947.0,90.0,False,positional,,,Bicher,,
 BO0624_87420,199204,710,652,Convolut. Diverse.,948.0,88.9,False,positional,,,Bicher,,
 BO0624_87420,199205,711,653,Deutsche Schaubuihne. Diverse Hefte.,949.0,94.4,False,positional,,,Bicher,,

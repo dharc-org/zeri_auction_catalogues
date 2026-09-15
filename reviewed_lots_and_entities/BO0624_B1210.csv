@@ -1,9 +1,9 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_B1210,100152,1,1,"LA LEGGITRICE (La Liseuse), statue assise, en marbre blanc. Grand prix a 1Exposition de Florence (1861) et a Londres (1862). Haut.M.1.10 Piedestal formant quatre jardinieres, en noyer seulpte et a panneaux en marbre de couleur.",8,99.5,False,positional,Magni Pietro,,PANNELLI,,
+BO0624_B1210,100152,1,1,"LA LEGGITRICE (La Liseuse), statue assise, en marbre blanc. Grand prix a 1Exposition de Florence (1861) et a Londres (1862). Haut.M.1.10 Piedestal formant quatre jardinieres, en noyer seulpte et a panneaux en marbre de couleur.",8,99.5,False,positional,Magni Pietro,,PANNELLI,,Sec. XIX
 BO0624_B1210,100153,2,2,BUSTE de femme:signé.,12,95.2,False,positional,Albano,,,,
-BO0624_B1210,100154,3,3,BUSTE en marbre d'Emmanuel Arago: signe David 1839. Provenant de la vente de San Donato. Haut.M.0.64 Piedestal en marbre poli.,16,99.2,False,title_direct,David,,,,
-BO0624_B1210,100155,4,4,BUSTE en marbre du seulpteur Dupre:signe Amalia Dupre 1873.,20,98.3,False,positional,Dupre Amalia,,,,
-BO0624_B1210,100156,5,5,"STATUETTE en marbre, representant Gioacchino Rossini assis : signee M. Poggi 1891.",29,98.7,False,positional,Poggi M.,,,,
+BO0624_B1210,100154,3,3,BUSTE en marbre d'Emmanuel Arago: signe David 1839. Provenant de la vente de San Donato. Haut.M.0.64 Piedestal en marbre poli.,16,99.2,False,title_direct,David,,,,Sec. XIX
+BO0624_B1210,100155,4,4,BUSTE en marbre du seulpteur Dupre:signe Amalia Dupre 1873.,20,98.3,False,positional,Dupre Amalia,,,,Sec. XIX
+BO0624_B1210,100156,5,5,"STATUETTE en marbre, representant Gioacchino Rossini assis : signee M. Poggi 1891.",29,98.7,False,positional,Poggi M.,,,,Sec. XIX
 BO0624_B1210,100157,6,6,DEBARDEUR. Haut.M.0.90                                                                                                                                                          |,35,95.5,False,positional,Magni Pietro,,,,
 BO0624_B1210,100158,7,7,DEUX COUPES en albatre jaune.Les anses formees par deux cygnes a ailes deployees. Piedestal de forme exagonale aussi en albatre jaune. Socle en bois verni. Haut. totale M.1.60 |,37,99.4,False,positional,Magni Pietro,,OGGETTI IN LEGNO,,
 BO0624_B1210,100159,8,8,SAN GIOVANNINO. Haut.M.1                                                                                                                                                        |,38,95.8,False,positional,Magni Pietro,,,,
@@ -12,11 +12,11 @@ BO0624_B1210,100161,10,10,"BUSTE d'Auguste jeune, copie du Musee du Vatican. Hau
 BO0624_B1210,100162,11,11,BUsTE en marbre de lamiral John Franklin. Haut.M.0.53                                                                                                                          |,41,97.2,False,positional,Magni Pietro,,,,
 BO0624_B1210,100163,12,12,"STATUE en marbre,couchee,grandeur naturelle,ayant pour sujet:Faites laumone.                                                                                                                                                               |",44,98.0,False,positional,Bastianini,,,,
 BO0624_B1210,100164,13,13,"DEMI-FIGURE,grandeur naturelle, en marbre blane, repre sentant Beatrice di Tenda. Haut.M.0.53 Piedestal en breccia di Levanto avec base en marbre blane.                                                                                   |",46,99.0,False,positional,Bastianini,,,,
-BO0624_B1210,100165,14,14,"BAS-RELIEF en marbre. Putti soutenant des écussons avec armoiries. XV siecle. Haut.M. 0.38, long. 1.50                                                                                                                                     |",47,98.5,False,positional,Bastianini,,BASSORILIEVI,,
+BO0624_B1210,100165,14,14,"BAS-RELIEF en marbre. Putti soutenant des écussons avec armoiries. XV siecle. Haut.M. 0.38, long. 1.50                                                                                                                                     |",47,98.5,False,positional,Bastianini,,BASSORILIEVI,,Sec. XV
 BO0624_B1210,100166,15,15,"BAS-RELIEF en pierre grise (pietra serena). Putti. Haut.M. 0.20, long.1.60                                                                                                                                                                 |",48,97.8,False,positional,Bastianini,,BASSORILIEVI,,
-BO0624_B1210,100167,16,16,LA VIERGE et l'Enfant. Groupe en marbre. (Scuola pisana). XV siecle. Haut.M.0.65                                                                                                                                                           |,49,98.0,False,positional,Bastianini,Scuola Pisana,,,
-BO0624_B1210,100168,17,17,DEMI-FIGURE representant la Vierge et 1Enfant. Marbre ancien. XVI siecle. Haut.M.0.55                                                                                                                                                      |,50,98.2,False,positional,Bastianini,,,,
-BO0624_B1210,100169,18,18,BAMBOCHADE.Petit groupe en marbre. XVe siecle. Haut.M.0.50                                                                                                                                                                                 |,51,97.4,False,positional,Bastianini,,,,
+BO0624_B1210,100167,16,16,LA VIERGE et l'Enfant. Groupe en marbre. (Scuola pisana). XV siecle. Haut.M.0.65                                                                                                                                                           |,49,98.0,False,positional,Bastianini,Scuola Pisana,,,Sec. XV
+BO0624_B1210,100168,17,17,DEMI-FIGURE representant la Vierge et 1Enfant. Marbre ancien. XVI siecle. Haut.M.0.55                                                                                                                                                      |,50,98.2,False,positional,Bastianini,,,,Sec. XVI
+BO0624_B1210,100169,18,18,BAMBOCHADE.Petit groupe en marbre. XVe siecle. Haut.M.0.50                                                                                                                                                                                 |,51,97.4,False,positional,Bastianini,,,,Sec. XV
 BO0624_B1210,100170,19,19,"MICHEL-ANGE DANS SON ATELIER.Toile. Le grand artiste est represente devant le buste de Brutus a peine ebauche et son regard pensif rappelle les vers: Dum Bruti effigiem seulptor de marmore ducit In mentem seeleris venit, et abstinuit. |",52,99.4,False,positional,Bastianini,,,,
 BO0624_B1210,100171,20,20,MOLIERE lisant ses comedies a sa gouvernante.Toile.,57,97.1,False,positional,Prof. Gatti,,,,
 BO0624_B1210,100172,21,21,BUSTE en marbre blanc:lEmpereur Nerva.,65,96.1,False,positional,Prof. Gatti,,,,
@@ -108,7 +108,7 @@ BO0624_B1210,100257,106,9,116.PETIT FAUTEUIL recouvert en satin mais. Les deux m
 BO0624_B1210,100258,107,10,sees et des noeuds de ruban.,486,94.7,False,positional,Magni Pietro,,,,
 BO0624_B1210,100259,108,11,117.TABLE ronde a trois supports en bois sculpte et dore. Style Louis XVI. Ornee de griffons ailes soutenant des festons et des mascarons.,487,98.9,False,positional,Magni Pietro,,OGGETTI IN LEGNO,,
 BO0624_B1210,100260,109,118,"ELEGANTE PETITE CONSOLE-APPLIQUE en bois dore et sculpte, surmontee de deux glaces formant encoignure.",490,98.0,False,positional,Magni Pietro,,OGGETTI IN LEGNO,,
-BO0624_B1210,100261,110,119,"GLACE de cheminee dans le style du XVIII siecle.Forme cintree,d'une decoration tres riche et d'un dessin mouvemente.Ornee de chimeres,d'oiseaux et de feuillages.Deux",495,98.8,False,positional,Magni Pietro,,,,
+BO0624_B1210,100261,110,119,"GLACE de cheminee dans le style du XVIII siecle.Forme cintree,d'une decoration tres riche et d'un dessin mouvemente.Ornee de chimeres,d'oiseaux et de feuillages.Deux",495,98.8,False,positional,Magni Pietro,,,,Sec. XVIII
 BO0624_B1210,100262,111,120,"JARDINIERE en bronze dore,montee sur pied,a quatre supports et terminée a ses extremites par deux candelabres a huit fammes. Charmant groupe d'Amours style Louis XV. Haut. M.0.75, larg.1.00",500,98.9,False,positional,Magni Pietro,Periodo di Luigi XV,CANDELABRI,,
 BO0624_B1210,100263,112,2,"121.DEUX FLAMBEAUX en bronze dore et cisele, soutenus par un groupe de cariatides a trois tetes de femme.",501,99.0,False,positional,Magni Pietro,,TORCE,,
 BO0624_B1210,100264,113,122,"CHENETS en bronze dore. Forme urne. Style Louis XV. Long. M. 1.50, haut. 0.60.",505,97.2,False,positional,Magni Pietro,Periodo di Luigi XV,,,
@@ -177,7 +177,7 @@ BO0624_B1210,100326,175,178,TAPIS feutré en drap vert pre.,704,93.5,False,posit
 BO0624_B1210,100327,176,179,"GRAND TAPIS oriental (ancien),a grands ramages sur fond blanc.",708,96.7,False,positional,Magni Pietro,,,,
 BO0624_B1210,100328,177,180,DEUX PUTTI en marbre blane formant porte-lampe. Haut.M.1.10 Piedestal en marbre poli.,719,97.6,False,positional,Tomba,,,,
 BO0624_B1210,100329,178,181,"DEUX LAMPES en porcelaine blanche, monture bronze dore.",720,96.4,False,positional,Tomba,,LAMPADE,,
-BO0624_B1210,100330,179,182,LA MORT D'ANACREON. Grande toile cintree. Cadre en bois dore. Signe 1870.,724,97.2,False,positional,Tedesco,,OGGETTI IN LEGNO,,
+BO0624_B1210,100330,179,182,LA MORT D'ANACREON. Grande toile cintree. Cadre en bois dore. Signe 1870.,724,97.2,False,positional,Tedesco,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_B1210,100331,180,183,"LES MEDICIS CHASSES DE FLORENCE. Grande toile. Belle composition, tres interessante pour les costumes de l'epoque et pour le lieu ou la scene est representee. Cadre en bois dore.",728,98.9,False,positional,Cianfanelli,,OGGETTI IN LEGNO,,
 BO0624_B1210,100332,181,184,"LANTERNE, forme venitienne, en bronze dore, a deux",734,95.9,False,positional,Cianfanelli,,,,
 BO0624_B1210,100333,182,185,GRAND TAPIS d''escalier en moquette anglaise rouge de la Reine:bordure a tetes de lions. Compose de deux rampes avec palier semicirculaire et,741,98.6,False,positional,Cianfanelli,,,,
@@ -211,7 +211,7 @@ BO0624_B1210,100360,209,209,"L'ADORATION des Mages, peinture sur bois forme meda
 BO0624_B1210,100361,210,210,"TABERNACLE,peinture fond orrepresentant SaintLaurent.",827,96.3,False,positional,Puccinelli,,,,
 BO0624_B1210,100362,211,211,PLAQUE encuivre dorefigurantlemonogramme du Christ entoure de la couronne d'epines.,832,97.6,False,positional,Puccinelli,,,,
 BO0624_B1210,100363,212,212,"TABERNACLE a colonnes torses,peinture fond or. Saint Augustin:lunette avec tete d'Evangeliste.",836,97.9,False,positional,Puccinelli,,,,
-BO0624_B1210,100364,213,213,"FRAGMENT d'un triptyque,representant Saint Nicolas eveque,peinture sur bois; fond or. Cadre dore. XV siecle. Haut.M.0.85, larg. 0.60",845,98.4,False,positional,,Ancienne ecole venitienne,OGGETTI IN LEGNO,,
+BO0624_B1210,100364,213,213,"FRAGMENT d'un triptyque,representant Saint Nicolas eveque,peinture sur bois; fond or. Cadre dore. XV siecle. Haut.M.0.85, larg. 0.60",845,98.4,False,positional,,Ancienne ecole venitienne,OGGETTI IN LEGNO,,Sec. XV
 BO0624_B1210,100365,214,214,BACCHUS surveillant les vendanges. Curieuse peinture sur bois. Cadre en velours.,849,97.5,False,positional,,Ancienne ecole allemande,OGGETTI IN LEGNO,,
 BO0624_B1210,100366,215,215,"GRAND CANAPE a trois places en bois sculpte et dore, style Louis XIv.Encadrement couronne d'une cartouche armoiriee; volutes et rinceaux. Le dossier et le siege sont recouverts d'une splendide tapisserie au petit point dont le fond est brode en soie blanche avecune large bordure de broderie en soie vert,parsemee d'une riche decoration a bouquets de roses enchevetres et relies par des rubans bleu. Haut.M.1.25,long.2.25",861,92.5,False,positional,,Ancienne ecole allemande,OGGETTI IN LEGNO,,
 BO0624_B1210,100367,216,216,SIX GRANDS FAUTEUILS allant avec.,862,94.1,False,positional,,Ancienne ecole allemande,SCOMPARTI,,
@@ -221,7 +221,7 @@ BO0624_B1210,100370,219,218,"QUATRE RIDEAUX en tapisserie,fond brode en soie bla
 BO0624_B1210,100371,220,219,"DEUX TABOURETS carres en bois dore,a quatre supports,",871,96.3,False,positional,,Ancienne ecole allemande,OGGETTI IN LEGNO,,
 BO0624_B1210,100372,221,221,BAHUT a trois panneaux en ebene;marqueterie en cuivre et applications en bronze dore. Dessus en marbre gris. Style Louis XVI.,877,98.4,False,positional,,Ancienne ecole allemande,PANNELLI,,
 BO0624_B1210,100373,222,222,"BAHUT Louis XVI en bois de rose avec marqueteries et appliques en bronze dore. Medaillon en porcelaine de Se- vres, sujet Watteau.L'interieur en acajou.",881,82.6,False,positional,WATTEAU FRANCOIS,Ancienne ecole allemande,ACQUEFORTI,,
-BO0624_B1210,100374,223,223,DEUX CONSOLES en bois sculpte et dore. Style italien du XVIII siecle.,886,97.1,False,positional,,Ancienne ecole allemande,OGGETTI IN LEGNO,,
+BO0624_B1210,100374,223,223,DEUX CONSOLES en bois sculpte et dore. Style italien du XVIII siecle.,886,97.1,False,positional,,Ancienne ecole allemande,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_B1210,100375,224,224,"DEUX GRANDS PORTE-FLEURS en bois dore,formes par deux sirenes sur des bases soutenues par des dauphins en saillie a triangle.",890,98.4,False,positional,,Ancienne ecole allemande,OGGETTI IN LEGNO,,
 BO0624_B1210,100376,225,225,"DEUX LAMPES a carcel, formees par deux.grands vases en porcelaine francaise, fond bleu de Sevres,rehaussee de dorures a double medaillon sur émail, figures et feurs.",894,98.8,False,positional,,Ancienne ecole allemande,LAMPADE,,
 BO0624_B1210,100377,226,226,"DEUX ETAGERES,monture en bambou:tablettes formees par des carreaux en faience de Minton.",898,97.8,False,positional,,Ancienne ecole allemande,ARREDAMENTI,,
@@ -244,7 +244,7 @@ BO0624_B1210,100393,242,2,"242.PETITE BOITE a gants,en marqueterie.",962,97.5,Fa
 BO0624_B1210,100394,243,243,"DEUX LAMPES suspensions a huile,forme sphere,en faience bleu sur jaune et abat-jour en cristal opalise.Monture en bronze dore, chaine de suspension en cuivre dore.",963,98.8,False,positional,,Ancienne ecole allemande,LAMPADE,,
 BO0624_B1210,100395,244,244,"DEUX pareilles,decoration paysages.",964,94.4,False,positional,,Ancienne ecole allemande,,,
 BO0624_B1210,100396,245,245,"DEUX TABLEAUX faisant pendant.Fleurs et fruits,d'une rare execution: toile. Cadres en bois dore.",968,97.9,False,title_direct,,,OGGETTI IN LEGNO,,
-BO0624_B1210,100397,246,246,"GRANDE TOILE representant une manoeuvre a bord d'un navire anglais.Tableau tres interessant pour lanimation des figures et pour un effet d'orage qui enveloppe toute la scene. Signe 《Biard, 1855 》. Cadre en bois dore.",974,99.1,False,title_direct,Biard,,OGGETTI IN LEGNO,,
+BO0624_B1210,100397,246,246,"GRANDE TOILE representant une manoeuvre a bord d'un navire anglais.Tableau tres interessant pour lanimation des figures et pour un effet d'orage qui enveloppe toute la scene. Signe 《Biard, 1855 》. Cadre en bois dore.",974,99.1,False,title_direct,Biard,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_B1210,100398,247,247,DEUX TABLEAUX representant des fruits. Peint avec un grand effet et une grande vivacite de coloris:toile. Cadre en bois dore.,984,98.4,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_B1210,100399,248,248,INTERIEUR dans un village de la Ciociaria (province de Rome) avec un groupe de paysans dans leurs costumes pictoresques s'extasiant a la marchandise d'un mercier ambulant: toile. Cadre en bois dore.,988,99.0,False,positional,T. Signorini,,ARREDAMENTI,,
 BO0624_B1210,100400,249,249,DEUX GRANDS TABLEAUX faisant pendant.Fruits et légumes avec fond de paysage:toile. Cadre richement sculpte,992,98.1,False,title_direct,,,TABLEAUX,,
@@ -253,7 +253,7 @@ BO0624_B1210,100402,251,251,"LA VIERGE AVEC L'ENFANT,peinture sur bois. Cadre",1
 BO0624_B1210,100403,252,252,"LA MISE AU TOMBEAU, peinture sur bois.Interessante. Cadre dore.",1011,96.8,False,positional,,Eeole allemande,OGGETTI IN LEGNO,,
 BO0624_B1210,100404,253,253,LA VIERGE et lEnfant avec deux seraphins jouant du luth. Peinture bois sur fond or.,1017,97.6,False,positional,Neri di Bicci,,OGGETTI IN LEGNO,,
 BO0624_B1210,100405,254,254,"L'ADORATION DES MAGES, peinture sur bois. Interessante. Cadre dore.",1027,96.9,False,positional,Mazzolino da Ferrara,,OGGETTI IN LEGNO,,
-BO0624_B1210,100406,255,255,"TABLEAU d'autel,representant la Vierge,l'Enfant et une Sainte, peinture sur bois. Cadre et entablement sculpte et decore dans le style du XVI siecle.",1033,98.6,False,title_direct,,,OGGETTI IN LEGNO,,
+BO0624_B1210,100406,255,255,"TABLEAU d'autel,representant la Vierge,l'Enfant et une Sainte, peinture sur bois. Cadre et entablement sculpte et decore dans le style du XVI siecle.",1033,98.6,False,title_direct,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_B1210,100407,256,256,"LoT compose de quatre porte-bouquets en cristal dore avee medaillons,et d'une petite corbeille en faience anglaise.",1038,98.3,False,positional,,Ecole florentine,,,
 BO0624_B1210,100408,257,2,257.LOT compose de deux assiettes de la fabrique MiLIANI de Naples arefletsmetalliques et d'un petitpanierporte-fleurs en faience anglaise.,1039,99.3,False,positional,,Ecole florentine,PIATTI,,
 BO0624_B1210,100409,258,3,258.BOlTE a the en ébene et cristal depoli.,1040,97.7,False,positional,,Ecole florentine,,,
@@ -317,7 +317,7 @@ BO0624_B1210,100466,315,15,314.QUATRE ASSIETTESvieuxVienne.Bordure rehaussee d'o
 BO0624_B1210,100467,316,16,2.Ulysse enlevant le fils d'Andromaque.,1146,96.2,False,positional,,Ecole florentine,,,
 BO0624_B1210,100468,317,17,3.L'Amour enchainant une jeune femme endormie.,1147,96.8,False,positional,,Ecole florentine,,,
 BO0624_B1210,100469,318,18,4.Sujet mythologique.,1148,93.0,False,positional,,Ecole florentine,,,
-BO0624_B1210,100470,319,315,"BECASSINE.Bronze francais, signe PAUL CoMoLERA,1861.",1154,96.2,False,positional,,Ecole florentine,,,
+BO0624_B1210,100470,319,315,"BECASSINE.Bronze francais, signe PAUL CoMoLERA,1861.",1154,96.2,False,positional,,Ecole florentine,,,Sec. XIX
 BO0624_B1210,100471,320,316,"L'ENFANT A L'OIE.Reproduction de lancien.Bronze francais, reduction mecanique.",1155,97.4,False,positional,,Ecole florentine,,,
 BO0624_B1210,100472,321,317,"GOBELET en spato, bord relie en argent.",1156,94.9,False,positional,,Ecole florentine,,,
 BO0624_B1210,100473,322,318,SAPHO. Belle miniature sur ivoire. Cadre en bronze cisele et dore.Style Empire.,1157,97.4,False,positional,,Ecole florentine,MINIATURE,,
@@ -430,13 +430,13 @@ BO0624_B1210,100579,428,5,"pinces et pique-feu, seau a charbon avec pelle.",1454
 BO0624_B1210,100580,429,6,"420.TAPIS DE TABLE,turc carre,broderies en soie, point de chainette sur applications de drap en couleurs.",1455,99.0,False,positional,,Ecole flamande,,,
 BO0624_B1210,100581,430,421,"QUATRE TABLEAUX,peinture costumes villageois sur bois en camaieux.Ecole flamande.",1459,97.6,False,title_direct,,Ecole flamande,OGGETTI IN LEGNO,,
 BO0624_B1210,100582,431,422,TROIS PEINTURES sur parchemin dans le style de Rubens,1463,96.4,False,positional,RUBENS PETER PAUL,Ecole flamande,,,
-BO0624_B1210,100583,432,423,DEUX VOLETS anciens:figures de Saints sur fond or. Ecole de Gentile da Fabriano. XV siecle.,1468,97.8,False,positional,,Ecole flamande,,,
+BO0624_B1210,100583,432,423,DEUX VOLETS anciens:figures de Saints sur fond or. Ecole de Gentile da Fabriano. XV siecle.,1468,97.8,False,positional,,Ecole flamande,,,Sec. XV
 BO0624_B1210,100584,433,2,"424.TERRE-CUITE DE DELLA ROBBIA.Trois corbeilles,coloriees",1469,98.3,False,positional,DELLA ROBBIA ANDREA,Ecole flamande,,,
 BO0624_B1210,100585,434,3,fruits et feurs. DITO.Deux plus petites.,1470,97.4,False,positional,,Ecole flamande,,,
 BO0624_B1210,100586,435,4,425.STATUETTE en bronze.Style romain.,1471,97.3,False,positional,,Ecole flamande,,,
 BO0624_B1210,100587,436,426,"MORTIER en bronze, orne de figures. Haut.M.0.15",1475,95.7,False,positional,,Ecole flamande,,,
 BO0624_B1210,100588,437,427,"LoT compose de deux tasses,une coupe et cinq petits vases",1476,96.6,False,positional,,Ecole flamande,VASI,,
-BO0624_B1210,100589,438,428,"LoT compose de quatre petits bronzes, dont deux Anges, un petit Amour sur piedestal et un enfant endormi. XVII siecle.",1478,98.3,False,positional,,Ecole flamande,,,
+BO0624_B1210,100589,438,428,"LoT compose de quatre petits bronzes, dont deux Anges, un petit Amour sur piedestal et un enfant endormi. XVII siecle.",1478,98.3,False,positional,,Ecole flamande,,,Sec. XVII
 BO0624_B1210,100590,439,429,STATUETTE de lutteur en bronze.,1479,93.8,False,positional,,Ecole flamande,,,
 BO0624_B1210,100591,440,430,"LoT compose de deux Crucifix, dont un plus grand, et d'un benitier surmonte d'une statuette en bronze moderne re-",1482,98.2,False,positional,,Ecole flamande,,,
 BO0624_B1210,100592,441,431,"GRAND CRUCIFIX en ivoire, dont la figure, quoique d'un modele arcaique, ne manque pas d'expression.",1484,97.9,False,positional,,Ecole flamande,,,
@@ -455,10 +455,10 @@ BO0624_B1210,100604,453,443,CRUCIFIX en ivoire d'un modele superbe. Croix en ebe
 BO0624_B1210,100605,454,444,"UN ETUI contenant un Christ en bronze dore et cisele, d'un tresbeau travail et d'une expression poignante,et de deux statuettes en bronze dore representant laVierge et l'apotre St. Jean.",1523,98.9,False,positional,,Ecole flamande,,,
 BO0624_B1210,100606,455,445,"GRANDE ET BELLE STATUEen bronzerepresentantNapoleon I a cheval, euvre tres importante due auciseau du CoMTE D'ORsAY,provenant de la vente de San Donato",1527,98.7,False,positional,,Ecole flamande,,,
 BO0624_B1210,100607,456,446,LoT compose de trois bronzes japonais anciens representant des dragons ailes.,1532,97.4,False,positional,,Ecole flamande,,,
-BO0624_B1210,100608,457,447,"STATUETTE DE PUTTO en bronze, avec piedestal en bois. Belle patine. XVI siecle. Haut.du bronze M.0.29",1533,98.0,False,positional,,Ecole flamande,OGGETTI IN LEGNO,,
+BO0624_B1210,100608,457,447,"STATUETTE DE PUTTO en bronze, avec piedestal en bois. Belle patine. XVI siecle. Haut.du bronze M.0.29",1533,98.0,False,positional,,Ecole flamande,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_B1210,100609,458,448,"PETIT ANGE en bronze,avec piedestal en bois.",1534,95.6,False,positional,,Ecole flamande,OGGETTI IN LEGNO,,
 BO0624_B1210,100610,459,449,"LoT compose de deux benitiers en cuivre cisele et ajoure, dont un a figures.",1536,97.4,False,positional,,Ecole flamande,,,
-BO0624_B1210,100611,460,450,"LoT compose d'une petite boite en cuivre cisele, d'une tabatiere en ivoire, forme ovale,et d'un baiser de paix en bronze du XVI siecle avec bas-reliefrepresentant laVierge et l'Enfant entoures d'anges.",1537,99.0,False,positional,,Ecole flamande,SCATOLE,,
+BO0624_B1210,100611,460,450,"LoT compose d'une petite boite en cuivre cisele, d'une tabatiere en ivoire, forme ovale,et d'un baiser de paix en bronze du XVI siecle avec bas-reliefrepresentant laVierge et l'Enfant entoures d'anges.",1537,99.0,False,positional,,Ecole flamande,SCATOLE,,Sec. XVI
 BO0624_B1210,100612,461,451,"CHAUFFERETTE en palissandre,marqueteries en ivoire.",1538,96.2,False,positional,,Ecole flamande,,,
 BO0624_B1210,100613,462,452,PETIT COFFRET sicilien en ivoire decore a arabesques.,1539,96.3,False,positional,,Ecole flamande,,,
 BO0624_B1210,100614,463,453,"LoT compose d'un petit poignard avec manche en fer martele; d'un stylet a bec de faucon, manche en os grave, et",1540,98.2,False,positional,,Ecole flamande,,,
@@ -468,7 +468,7 @@ BO0624_B1210,100617,466,2,sculpte et termine par des pattes de lion.,1551,97.6,F
 BO0624_B1210,100618,467,3,456.BUREAU-SECRETAIRE en palissandre avec applications et poignees en bronze dore. Etagere superieure a 6 tiroirs. Forme cintre sur le devant.,1552,99.3,False,positional,,Ecole flamande,,,
 BO0624_B1210,100619,468,457,"QUATRE SUPPORT-CONSOLESen bois sculpte representant des satyres (sculpture ancienne)pouvant former table,",1556,98.1,False,positional,,Ecole flamande,OGGETTI IN LEGNO,,
 BO0624_B1210,100620,469,458,"CABINET-MEDICIS en ebene a incrustations d'ivoire;petit panneau central flanque de colonnes et surmonte d'une balustrade: dans le panneau, Hercule tuant l'Hydre.",1561,80.4,False,positional,,Ecole flamande,PANNELLI,,
-BO0624_B1210,100621,470,459,COFFRET forentin du XV siecle en marqueterie.Clef en,1568,96.3,False,positional,,Ecole flamande,,,
+BO0624_B1210,100621,470,459,COFFRET forentin du XV siecle en marqueterie.Clef en,1568,96.3,False,positional,,Ecole flamande,,,Sec. XV
 BO0624_B1210,100622,471,460,"GLACE avec encadrement sculpte et dore,XVIII siecle. Haut.M.1.05, larg. 0.90",1572,97.3,False,positional,,Ecole flamande,,,
 BO0624_B1210,100623,472,461,"GARNITURE de cheminee composee d'une pendule,mouvement LEvy de Paris,et de deux candelabres a 5 fam mes, en bronze dore et cisele.",1573,98.5,False,positional,,Ecole flamande,CANDELABRI,,
 BO0624_B1210,100624,473,462,DEUX PETITS FLAMBEAUX en bronze cisele et dore,1581,95.8,False,positional,,Ecole flamande,TORCE,,
@@ -489,7 +489,7 @@ BO0624_B1210,100638,487,475,PORTRAIT d'homme. Cadre en ebene.,1630,93.9,False,po
 BO0624_B1210,100639,488,476,PETIT BAS-RELIEF en bronzerepresentant la Flagellation.,1634,96.4,False,positional,,Ecole de Holbein,BASSORILIEVI,,
 BO0624_B1210,100640,489,477,"LOT compose de deux tableaux, dont une peinture sur LE CRUCIFIEMEMT. Toile,cadre en ebene.",1639,70.9,False,positional,,Ecole de Holbein,,,
 BO0624_B1210,100641,490,478,LE DUC DE MORNY. Biscuit de Gille. Buste.                            | M.0.36   |,1651,95.7,False,positional,,Ecole venitienne (Tiepolo),BISCOTTI,,
-BO0624_B1210,100642,491,479,"CARICATUREdeMeyerbeer.Platre deDANTONJEUNE,1860.                      |          |",1653,95.9,False,positional,,Ecole venitienne (Tiepolo),PIATTI,,
+BO0624_B1210,100642,491,479,"CARICATUREdeMeyerbeer.Platre deDANTONJEUNE,1860.                      |          |",1653,95.9,False,positional,,Ecole venitienne (Tiepolo),PIATTI,,Sec. XIX
 BO0624_B1210,100643,492,480,CARICATURE de Rossini.Platre dumeme.                                  | M.0.35   |,1654,95.5,False,positional,,Ecole venitienne (Tiepolo),PIATTI,,
 BO0624_B1210,100644,493,481,LE COMTE DE CHAMBORD.Platre de L.VERAY.Buste.                         | M.0.40   |,1655,96.2,False,positional,,Ecole venitienne (Tiepolo),PIATTI,,
 BO0624_B1210,100645,494,482,"BUSTE de Murphy, fameux joueur d'echees.                              | M.0.65   |",1656,95.7,False,positional,,Ecole venitienne (Tiepolo),,,
@@ -551,7 +551,7 @@ BO0624_B1210,100700,549,4,"536.GLACE dessus de commode avec encadrement blanc et
 BO0624_B1210,100701,550,5,"537.LoT compose de deux porte-bouquets, Chine, et de deux vases en cristal anglais taille, bleu irise.",1848,99.0,False,positional,Scipione Gaetani,,VASI,,
 BO0624_B1210,100702,551,538,CADRE en bois sculpte et dore.,1849,93.5,False,positional,Scipione Gaetani,,OGGETTI IN LEGNO,,
 BO0624_B1210,100703,552,539,DEUX CACHE-POTS en porcelaine safran avec medaillons émailles et figures.Assiettes allant avec.,1853,97.9,False,positional,Scipione Gaetani,,PIATTI,,
-BO0624_B1210,100704,553,540,"BISCUIT de GILLE JEUNE a Paris,representant le Repas de Pierrot,ayant figurea l'Exposition de Londres de 1862.",1854,98.2,False,positional,Scipione Gaetani,,BISCOTTI,,
+BO0624_B1210,100704,553,540,"BISCUIT de GILLE JEUNE a Paris,representant le Repas de Pierrot,ayant figurea l'Exposition de Londres de 1862.",1854,98.2,False,positional,Scipione Gaetani,,BISCOTTI,,Sec. XIX
 BO0624_B1210,100705,554,541,"PETITE BANQUETTE en érable sculpte,recouverte de reps beige.",1859,96.7,False,positional,Scipione Gaetani,,,,
 BO0624_B1210,100706,555,542,DEUX FAUTEUILS allant avec.,1860,92.9,False,positional,Scipione Gaetani,,SCOMPARTI,,
 BO0624_B1210,100707,556,543,DEUX CHAISES de fumoir recouvertes en velours vert garni d'une bande en tapisserie.,1861,97.6,False,positional,Scipione Gaetani,,,,
@@ -601,7 +601,7 @@ BO0624_B1210,100750,599,586,"DEUX GRAVURES a relief sur pierre dure,encadrees de
 BO0624_B1210,100751,600,587,"LES CASCADES DE TERNI ET DE TIVOLI. Deux tableaux faisant pendant.Toile. Haut.M.0.42,larg. 0.27",2004,97.9,False,positional,,Ecole francaise,,,
 BO0624_B1210,100752,601,588,"LE FORUM de Rome et le Templum Solis, dit de Vesta, avant leglise in Cosmedin.Deux tableaux faisant pendant. Toile.",2008,98.2,False,positional,,Ecole francaise,,,
 BO0624_B1210,100753,602,589,NATURE morte; gibier et poissons. Toile. Cadre dore.,2015,96.0,False,positional,J.C.Bertier,,,,
-BO0624_B1210,100754,603,591,"LE DEPART pour la promenade. Signe,1867.Peinture sur bois. Cadre dore.",2029,97.1,False,positional,Fauvelet,,OGGETTI IN LEGNO,,
+BO0624_B1210,100754,603,591,"LE DEPART pour la promenade. Signe,1867.Peinture sur bois. Cadre dore.",2029,97.1,False,positional,Fauvelet,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_B1210,100755,604,592,"LA PARTIE d'echecs. Signe.Peinture sur bois. Cadre dore. Larg.M.0.27, haut 0.35",2033,97.4,False,positional,Delechaux,,OGGETTI IN LEGNO,,
 BO0624_B1210,100756,605,593,QUATRE ESCABEAUX en acajou massif sculpte. Fabrication anglaise.,2038,96.9,False,positional,Delechaux,,ACQUEFORTI,,
 BO0624_B1210,100757,606,2,"594.DEUX FAUTEUILS en cerisier et ébene recouverts en reps de soie vert,dessin a damiers.",2039,98.9,False,positional,Delechaux,,SCOMPARTI,,
@@ -619,7 +619,7 @@ BO0624_B1210,100768,617,604,"MAGNIFIQUE BORDURE en brocart fond cerise, dessin",
 BO0624_B1210,100769,618,605,"BORDURE en brocart cerise, dessin a grecque. Neuf.",2084,95.9,False,positional,J.D.Corniaud,,,,
 BO0624_B1210,100770,619,606,BORDURE en brocart meme couleur et dessin. Neuf.,2088,95.8,False,positional,J.D.Corniaud,,,,
 BO0624_B1210,100771,620,607,BELLE BORDURE en brocart vert a feuillages or. Neuf.,2092,96.2,False,positional,J.D.Corniaud,,,,
-BO0624_B1210,100772,621,114,"ETOFFES 608. LoT compose de cinq coupons de brocart fond vert et de satin meme couleur. 609.MAGNIFIQUE BROCART, style et dessin du XIV siecle, fond rouge avec etoile entouree de trefles sur fond de baguettes entrelacees. Grandeur de coussin ou de siege de fauteuil carre. M.0.56 AUTRE pareil,mais plus petit. M.0.42X0.39 610. AUTRE pareil,mais plus grand. M.0.50X0.43 611.UN LE DE BROCART cerise,riche dessin a feuillages et neuds en or. Neuf. Long.M. 2.00, haut. 0.75 612.UN LE DE SATIN blanc.Neuf. Long.M.5.00, haut. 0.55 613.LoT compose trois belles embrasses a deux glands et d'une embrasseaungland,ensoiebleueetpendeloques assorties. 614.AGREMENT en soie verte et bouton d'or.Neuf. Long. M.39.00, haut. 0.01",2095,99.7,False,positional,J.D.Corniaud,,SCOMPARTI,,
+BO0624_B1210,100772,621,114,"ETOFFES 608. LoT compose de cinq coupons de brocart fond vert et de satin meme couleur. 609.MAGNIFIQUE BROCART, style et dessin du XIV siecle, fond rouge avec etoile entouree de trefles sur fond de baguettes entrelacees. Grandeur de coussin ou de siege de fauteuil carre. M.0.56 AUTRE pareil,mais plus petit. M.0.42X0.39 610. AUTRE pareil,mais plus grand. M.0.50X0.43 611.UN LE DE BROCART cerise,riche dessin a feuillages et neuds en or. Neuf. Long.M. 2.00, haut. 0.75 612.UN LE DE SATIN blanc.Neuf. Long.M.5.00, haut. 0.55 613.LoT compose trois belles embrasses a deux glands et d'une embrasseaungland,ensoiebleueetpendeloques assorties. 614.AGREMENT en soie verte et bouton d'or.Neuf. Long. M.39.00, haut. 0.01",2095,99.7,False,positional,J.D.Corniaud,,SCOMPARTI,,Sec. XIV
 BO0624_B1210,100773,622,615,"TAPIs en moquette gris, pour escalier. Bordure amaranthe. Six morceaux.",2103,97.1,False,positional,J.D.Corniaud,,,,
 BO0624_B1210,100774,623,616,"ONZE VIEUX TAPIS en moquette veloute anglaise, fond amaranthe, ton sur ton a fleurs et ramages.",2107,68.5,False,positional,J.D.Corniaud,,,,
 BO0624_B1210,100775,624,617,"DEUX VIEUX TAPIS Brussel, fond gris a dessin geome-",2112,96.1,False,positional,J.D.Corniaud,,,,

@@ -1,22 +1,22 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83636,166376,1,I,"l était ne le 1 octobre 1813,a Toulouse; mais sa famille etait toriginaire des Ardennes. Gonzague Bida, le pere de l'artiste, avait, pendant la Revolution, pris du service en Suede; a son retour de lemigration, dans les premieres annees du Consulat, et, comme il traversait la France pour se rendre en Espagne, un hasard de voyage le fit s'arreter a Montgiscard. Il y resta, s'y maria, y ouvrit une ecole et alla bientot apres s'etablir a Toulouse ou son institution jouit d'une certaine vogue.",38,99.9,False,positional,ALEXANDRE BIDA,,OGGETTI VARI,,
+BO0624_83636,166376,1,I,"l était ne le 1 octobre 1813,a Toulouse; mais sa famille etait toriginaire des Ardennes. Gonzague Bida, le pere de l'artiste, avait, pendant la Revolution, pris du service en Suede; a son retour de lemigration, dans les premieres annees du Consulat, et, comme il traversait la France pour se rendre en Espagne, un hasard de voyage le fit s'arreter a Montgiscard. Il y resta, s'y maria, y ouvrit une ecole et alla bientot apres s'etablir a Toulouse ou son institution jouit d'une certaine vogue.",38,99.9,False,positional,ALEXANDRE BIDA,,OGGETTI VARI,,Sec. XIX
 BO0624_83636,166377,2,2,— Croquis de Venise. Date avril 77.,75,96.9,False,positional,,,AQUARELLES,,
 BO0624_83636,166378,3,3,Etudes de femme : Venise et Alsace.,78,100.0,False,positional,,,AQUARELLES,,
-BO0624_83636,166379,4,4,Composition pour la Bible. Signe et date 1893.,80,97.8,False,positional,,,AQUARELLES,,
+BO0624_83636,166379,4,4,Composition pour la Bible. Signe et date 1893.,80,97.8,False,positional,,,AQUARELLES,,Sec. XIX
 BO0624_83636,166380,5,5,Le Catechisme.,88,92.9,False,positional,,,AQUARELLES,,
 BO0624_83636,166381,6,6,Arabes du Caire.,90,93.8,False,positional,,,AQUARELLES,,
 BO0624_83636,166382,7,8,"La Fille de Jaire. Haut.,42 cent.;larg.,55 cent.",93,97.7,False,positional,,,AQUARELLES,,
 BO0624_83636,166383,8,9,"Interieur de l'eglise Saint-Marc, a Venise. Signe a gauche et date 77.",94,98.5,False,positional,,,ARREDAMENTI,,
-BO0624_83636,166384,9,10,"— Vue de Venise. Date Venezia,1877.",98,95.4,False,positional,,,AQUARELLES,,
+BO0624_83636,166384,9,10,"— Vue de Venise. Date Venezia,1877.",98,95.4,False,positional,,,AQUARELLES,,Sec. XIX
 BO0624_83636,166385,10,12,— Le Banc des Suissesses. Signe a gauche.,106,96.1,False,positional,,,AQUARELLES,,
 BO0624_83636,166386,11,13,一,107,40.0,False,positional,,,AQUARELLES,,
 BO0624_83636,166387,12,14,— Luigia et Cattina. Portraits de deux Venitiennes. Date 28 et 29 mai 77. — Predication de saint Jean. Signe a gauche. - Interieur d'eglise.,112,68.3,False,positional,,,ARREDAMENTI,,
 BO0624_83636,166388,13,17,Egyptiens du Caire.,124,92.3,False,positional,,,AQUARELLES,,
 BO0624_83636,166389,14,18,— Hami; portrait de Jeune Egyptien.,128,95.4,False,positional,,,AQUARELLES,,
-BO0624_83636,166390,15,19,"— Interieur d'eglise a Venise. Date Venezia, 1872.",132,96.8,False,positional,,,ARREDAMENTI,,
+BO0624_83636,166390,15,19,"— Interieur d'eglise a Venise. Date Venezia, 1872.",132,96.8,False,positional,,,ARREDAMENTI,,Sec. XIX
 BO0624_83636,166391,16,20,— Portrait de jeune homme. D'apres le Titien (Musee du Louvre). Signe du monogramme.,136,98.1,False,positional,TIZIANO VECELLIO,,AQUARELLES,,
 BO0624_83636,166392,17,22,— Le Cardinal Ingherami.,146,93.3,False,positional,,,AQUARELLES,,
-BO0624_83636,166393,18,23,"·— Plafond du Palais-Royal (Venise). D'apres le Titien. Date Florence, 1874.",154,97.8,False,positional,TIZIANO VECELLIO,,AQUARELLES,,
+BO0624_83636,166393,18,23,"·— Plafond du Palais-Royal (Venise). D'apres le Titien. Date Florence, 1874.",154,97.8,False,positional,TIZIANO VECELLIO,,AQUARELLES,,Sec. XIX
 BO0624_83636,166394,19,24,.Les Epouc Sassetti.,157,92.3,False,positional,,,AQUARELLES,,
 BO0624_83636,166395,20,25,5— Le Jugement de Paris.,163,93.6,False,positional,,,AQUARELLES,,
 BO0624_83636,166396,21,27,— Portrait du pape Jules II.,171,94.3,False,positional,,,AQUARELLES,,
@@ -40,7 +40,7 @@ BO0624_83636,166413,38,45,— Le Tonneau des Danaides.,286,93.9,False,positional
 BO0624_83636,166414,39,46,"Dessin pour Namouna, Musset.",292,94.5,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166415,40,47,- La Rencontre de Joseph et de Jacob.,298,95.8,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166416,41,48,—Le Depart de la caravane.,302,94.1,False,positional,,,DESSINS AU CRAYON NOIR,,
-BO0624_83636,166417,42,49,"-Jesus au milieu des docteurs. Signe a droite et date Buhl, 1871-1877.",308,97.8,False,positional,,,DESSINS AU CRAYON NOIR,,
+BO0624_83636,166417,42,49,"-Jesus au milieu des docteurs. Signe a droite et date Buhl, 1871-1877.",308,97.8,False,positional,,,DESSINS AU CRAYON NOIR,,Sec. XIX
 BO0624_83636,166418,43,50,Le Calvaire.,314,88.0,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166419,44,51,Le Massacre des Mamelucks.,315,94.3,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166420,45,52,"—— Croquis d'Arabes. Quatre feuilles en un cadre. Date Le Caire et Jerusalem, 56.",321,98.0,False,positional,,,DESSINS AU CRAYON NOIR,,
@@ -74,7 +74,7 @@ BO0624_83636,166447,72,80,— Composition pour les Evangiles.,438,95.2,False,pos
 BO0624_83636,166448,73,82,| 82 — Deux compositions pour les Evangiles.                                            |,445,100.0,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166449,74,84,"| 84 — L'Areopage. Signe a droite. Haut., 24 cent,;larg.,32 cent.                       |",448,100.0,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166450,75,86,| 86 — La Fuite en Egypte.                                                              |,450,100.0,False,positional,,,DESSINS AU CRAYON NOIR,,
-BO0624_83636,166451,76,87,"| Tete d'homme. D'apres Holbein. Date, Bale, 1869. Haut., 20 cent.; larg.,17 cent.      |",451,97.9,False,positional,HOLBEIN HANS IL GIOVANE,,DESSINS AU CRAYON NOIR,,
+BO0624_83636,166451,76,87,"| Tete d'homme. D'apres Holbein. Date, Bale, 1869. Haut., 20 cent.; larg.,17 cent.      |",451,97.9,False,positional,HOLBEIN HANS IL GIOVANE,,DESSINS AU CRAYON NOIR,,Sec. XIX
 BO0624_83636,166452,77,89,"| -Six croquis. D'apres Rembrandt, Rubens et Velazquez. Haut., 14 cent.; larg., 8 cent. |",453,98.0,False,positional,REMBRANDT VAN RIJN,Scuola di Rubens,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166453,78,16,| Jesus au milieu des docteurs.                                         |,455,94.9,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166454,79,92,"| Tete de jeune fille. Signe a droite. Haut., 16 cent.; larg., 10 cent. |",457,97.6,False,positional,,,DESSINS AU CRAYON NOIR,,
@@ -102,7 +102,7 @@ BO0624_83636,166475,100,119,- 一 Trois compositions pour les Evangiles.,520,100
 BO0624_83636,166476,101,120,一,521,33.3,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166477,102,12,l —Arabe du desert.,526,94.4,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166478,103,122,- 123 一,534,100.0,False,positional,,,DESSINS AU CRAYON NOIR,,
-BO0624_83636,166479,104,124,— Adam et Eve chasses du paradis terrestre. Signe a droite et date 1894.,538,97.1,False,positional,,,DESSINS AU CRAYON NOIR,,
+BO0624_83636,166479,104,124,— Adam et Eve chasses du paradis terrestre. Signe a droite et date 1894.,538,97.1,False,positional,,,DESSINS AU CRAYON NOIR,,Sec. XIX
 BO0624_83636,166480,105,125,一 Vieille Femme.,541,88.2,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166481,106,126,— Jesus. au milieu des docteurs.,549,93.3,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166482,107,127,— Tombeau arabe. Signe a droite.,553,93.3,False,positional,,,DESSINS AU CRAYON NOIR,,
@@ -123,7 +123,7 @@ BO0624_83636,166496,121,150,—. Croquis d'Orient. Quatre dessins.,601,93.9,Fals
 BO0624_83636,166497,122,151,Croquis de Crimee.,602,91.9,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166498,123,152,Ali-Ben-Mergouia.,606,88.9,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166499,124,153,Jeune Musulman.,610,87.5,False,positional,,,DESSINS AU CRAYON NOIR,,
-BO0624_83636,166500,125,154,"一 Voyage en 0rient, 1858. Deux portraits.",614,95.0,False,positional,,,DESSINS AU CRAYON NOIR,,
+BO0624_83636,166500,125,154,"一 Voyage en 0rient, 1858. Deux portraits.",614,95.0,False,positional,,,DESSINS AU CRAYON NOIR,,Sec. XIX
 BO0624_83636,166501,126,155,"I Nassouroulla. Date, Mars 56.",615,93.1,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166502,127,156,"— Les Precieuses ridicules. Rebecca. Haut., 24 cent.; larg., 30 cent. —Le Misanthrope.",625,61.8,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166503,128,159,— Armenien.,627,80.0,False,positional,,,DESSINS AU CRAYON NOIR,,
@@ -145,11 +145,11 @@ BO0624_83636,166518,143,175,"| 175 —Jacob et l'Ange:la Lutte. Signe a droite. 
 BO0624_83636,166519,144,176,"| Moise. Haut., 24 cent.; larg., 16 cent.                                       |",663,93.9,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166520,145,177,"| Composition pour la Bible. Signe a droite. Haut., 25 cent.; larg.,17 cent.    |",664,97.1,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166521,146,179,"| 179 — Depart d'une caravane. Signe a gauche. Haut., 16 cent.; larg., 24 cent. |",666,100.0,False,positional,,,DESSINS AU CRAYON NOIR,,
-BO0624_83636,166522,147,180,| Artisans arabes. Voyage de 1856.                                              |,667,93.8,False,positional,,,DESSINS AU CRAYON NOIR,,
+BO0624_83636,166522,147,180,| Artisans arabes. Voyage de 1856.                                              |,667,93.8,False,positional,,,DESSINS AU CRAYON NOIR,,Sec. XIX
 BO0624_83636,166523,148,182,"| 182 — Orfa quittant Noemi. Haut., 38 cent.; larg.,27 cent.                    |",669,100.0,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166524,149,183,"| 183 — Portrait de jeune garcon. Haut., 25 cent.; larg.,20 cent.               |",670,100.0,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166525,150,184,- Composition pour Ruth et Booz.,671,93.5,False,positional,,,DESSINS AU CRAYON NOIR,,
-BO0624_83636,166526,151,185,"一 Tete de femme. Premier dessin d'apres nature de l'artiste (1835). Haut., 27 cent.; larg.,20 cent.",675,97.8,False,positional,,,DESSINS AU CRAYON NOIR,,
+BO0624_83636,166526,151,185,"一 Tete de femme. Premier dessin d'apres nature de l'artiste (1835). Haut., 27 cent.; larg.,20 cent.",675,97.8,False,positional,,,DESSINS AU CRAYON NOIR,,Sec. XIX
 BO0624_83636,166527,152,186,— Ruth et Booz.,676,85.7,False,positional,,,DESSINS AU CRAYON NOIR,,
 BO0624_83636,166528,153,187,Andre del Sarto.,682,88.2,False,positional,ALFRED DE MUSSET,Scuola di Andrea del Sarto,,,
 BO0624_83636,166529,154,188,"-Namouna. Haut., 10 cent., larg, 16 cent.",686,94.3,False,positional,ALFRED DE MUSSET,,,,
@@ -176,12 +176,12 @@ BO0624_83636,166549,174,209,— Adam et Eoe chasses du Paradis ter- restre.     
 BO0624_83636,166550,175,210,"— Etude pour les Joyeuses Commeres de Windsor. Haut.,19 cent.;larg.,25 cent |",734,97.2,False,positional,ALFRED DE MUSSET,,,,
 BO0624_83636,166551,176,211,"— Etude d'ane. Haut., 24 cent.; larg., 27 cent.                             |",735,94.9,False,positional,ALFRED DE MUSSET,,,,
 BO0624_83636,166552,177,212,"- La Mechante femme mise a la raison. Haut., 25 cent.; larg., 18 cent.      |",736,96.8,False,positional,ALFRED DE MUSSET,,,,
-BO0624_83636,166553,178,213,Types d'Orientaux. Voyage de 1856.                                         |,737,94.1,False,positional,ALFRED DE MUSSET,,,,
-BO0624_83636,166554,179,214,Types de Tripoli et de Bethleem. Voyage de 1856.                            |,738,95.8,False,positional,ALFRED DE MUSSET,,,,
-BO0624_83636,166555,180,215,"— Bouillard, brigadier de la 2 compagnie d'armuriers. Voyage de 1856.       |",739,97.0,False,positional,ALFRED DE MUSSET,,,,
-BO0624_83636,166556,181,216,— Soldats de Crimee. Voyage de 1856.,740,94.1,False,positional,ALFRED DE MUSSET,,,,
-BO0624_83636,166557,182,217,"Montenegrins. Voyage de 1856. Deux dessins,",741,95.2,False,positional,ALFRED DE MUSSET,,,,
-BO0624_83636,166558,183,218,Un Fellah. Voyage de 1865.,742,92.3,False,positional,ALFRED DE MUSSET,,,,
+BO0624_83636,166553,178,213,Types d'Orientaux. Voyage de 1856.                                         |,737,94.1,False,positional,ALFRED DE MUSSET,,,,Sec. XIX
+BO0624_83636,166554,179,214,Types de Tripoli et de Bethleem. Voyage de 1856.                            |,738,95.8,False,positional,ALFRED DE MUSSET,,,,Sec. XIX
+BO0624_83636,166555,180,215,"— Bouillard, brigadier de la 2 compagnie d'armuriers. Voyage de 1856.       |",739,97.0,False,positional,ALFRED DE MUSSET,,,,Sec. XIX
+BO0624_83636,166556,181,216,— Soldats de Crimee. Voyage de 1856.,740,94.1,False,positional,ALFRED DE MUSSET,,,,Sec. XIX
+BO0624_83636,166557,182,217,"Montenegrins. Voyage de 1856. Deux dessins,",741,95.2,False,positional,ALFRED DE MUSSET,,,,Sec. XIX
+BO0624_83636,166558,183,218,Un Fellah. Voyage de 1865.,742,92.3,False,positional,ALFRED DE MUSSET,,,,Sec. XIX
 BO0624_83636,166559,184,219,Croquis d'Egypte.,743,91.4,False,positional,ALFRED DE MUSSET,,,,
 BO0624_83636,166560,185,220,"——Tobie. Haut., 28 cent.; larg.,34 cent.",747,93.9,False,positional,ALFRED DE MUSSET,,,,
 BO0624_83636,166561,186,221,—L'Abandon de Moise.,748,90.0,False,positional,ALFRED DE MUSSET,,,,
@@ -221,7 +221,7 @@ BO0624_83636,166594,219,257,— Composition pour Tobie.,846,91.7,False,positiona
 BO0624_83636,166595,220,258,Ruth et Booz.,850,85.7,False,positional,ALFRED DE MUSSET,,,,
 BO0624_83636,166596,221,259,— Etudes pour Tobie. Deux dessins.,853,93.8,False,positional,ALFRED DE MUSSET,,,,
 BO0624_83636,166597,222,260,7 Tetes de femmes.,854,89.5,False,positional,ALFRED DE MUSSET,,,,
-BO0624_83636,166598,223,261,—Les Falaises d'Etretat. Date 1866.,860,94.1,False,positional,ALFRED DE MUSSET,,,,
+BO0624_83636,166598,223,261,—Les Falaises d'Etretat. Date 1866.,860,94.1,False,positional,ALFRED DE MUSSET,,,,Sec. XIX
 BO0624_83636,166599,224,262,Portrait de femme. D'apres Frans Hals. Date 87.,864,95.7,False,positional,ALFRED DE MUSSET,,,,
 BO0624_83636,166600,225,263,— Adam et Eve chasses du Paradis ter-,865,94.4,False,positional,ALFRED DE MUSSET,,,,
 BO0624_83636,166601,226,264,——Tartufe.,867,77.8,False,positional,ALFRED DE MUSSET,,,,
@@ -328,7 +328,7 @@ BO0624_83636,166701,326,375,Lithographie.,1404,85.7,False,positional,RAFFET,,STA
 BO0624_83636,166702,327,371,- 376— Vive la Republique.— Abordez franche-,1407,100.0,False,positional,RAFFET,,,,
 BO0624_83636,166703,328,377,—Le Represeniant...,1412,88.2,False,positional,RAFFET,,,,
 BO0624_83636,166704,329,378,LeTestament,1417,84.6,False,positional,RAFFET,,,,
-BO0624_83636,166705,330,379,—Le Beau chanteur. —Ah!c'te balle.— Bernard et Mouton.—1813. Quatre lithographies.,1422,97.4,False,positional,RAFFET,,STAMPE E INCISIONI,,
+BO0624_83636,166705,330,379,—Le Beau chanteur. —Ah!c'te balle.— Bernard et Mouton.—1813. Quatre lithographies.,1422,97.4,False,positional,RAFFET,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_83636,166706,331,380,— Le Drapeau du 17 leger.,1423,91.7,False,positional,RAFFET,,,,
 BO0624_83636,166707,332,382,382 — Rembrandt. Jesus-Christ prechant (La petite tombe).,1431,100.0,False,positional,RAFFET,,,,
 BO0624_83636,166708,333,383,— Rembrandt. Le Docleur Faustus.,1434,93.3,False,positional,RAFFET,,,,
@@ -339,37 +339,37 @@ BO0624_83636,166712,337,387,"Tres belle epreuve, avec dedicace.",1462,100.0,Fals
 BO0624_83636,166713,338,388,- — Un lot de gravures (portraits anciens et modernes).,1465,100.0,False,positional,RAFFET,,STAMPE E INCISIONI,,
 BO0624_83636,166714,339,389,Un lot de gravures anciennes et modernes.,1469,95.2,False,positional,RAFFET,,STAMPE E INCISIONI,,
 BO0624_83636,166715,340,390,— Un lot de gravures anciennes et mo-,1470,94.4,False,positional,RAFFET,,STAMPE E INCISIONI,,
-BO0624_83636,166716,341,391,"— Lemaistre de Sacy. Histoire d'Esther, 1 vol. in-folio, illustre par Bida. Paris, Hachette. 1882.(Velin.)",1474,97.9,False,positional,,,LIVRES; PHOTOGRAPHIES,,
+BO0624_83636,166716,341,391,"— Lemaistre de Sacy. Histoire d'Esther, 1 vol. in-folio, illustre par Bida. Paris, Hachette. 1882.(Velin.)",1474,97.9,False,positional,,,LIVRES; PHOTOGRAPHIES,,Sec. XIX
 BO0624_83636,166717,342,392,"—Le meme, edition sur Hollande.",1475,93.3,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166718,343,393,"- Le meme, edition sur Whatman.",1477,100.0,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166719,344,394,"一 Le meme, édition sur Chine.",1478,93.1,False,positional,,,LIVRES; PHOTOGRAPHIES,,
-BO0624_83636,166720,345,395,"一 Lemaistre de Sacy. Histoire de Joseph, 1 vol.in-folio, illustre épar Bida. Paris, Hachette.1878.(Velin.)",1479,98.0,False,positional,,,LIVRES; PHOTOGRAPHIES,,
+BO0624_83636,166720,345,395,"一 Lemaistre de Sacy. Histoire de Joseph, 1 vol.in-folio, illustre épar Bida. Paris, Hachette.1878.(Velin.)",1479,98.0,False,positional,,,LIVRES; PHOTOGRAPHIES,,Sec. XIX
 BO0624_83636,166721,346,396,"— Le meme, édition sur Hollande.",1480,93.3,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166722,347,397,"— Le meme, édition sur Whatman.",1481,93.1,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166723,348,398,"— Le meme, edition sur Chine.",1482,92.6,False,positional,,,LIVRES; PHOTOGRAPHIES,,
-BO0624_83636,166724,349,399,"— Lemaistre de Sacy. Le Liore de Ruth, illustre par Bida. Paris, vol.in-folio, Hachette. 1878. (Velin.)",1483,75.8,False,positional,,,LIVRES; PHOTOGRAPHIES,,
+BO0624_83636,166724,349,399,"— Lemaistre de Sacy. Le Liore de Ruth, illustre par Bida. Paris, vol.in-folio, Hachette. 1878. (Velin.)",1483,75.8,False,positional,,,LIVRES; PHOTOGRAPHIES,,Sec. XIX
 BO0624_83636,166725,350,400,"— Le meme, edition sur Hollande.",1485,93.3,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166726,351,401,"— Le meme, edition sur Whatman.",1486,93.1,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166727,352,402,"— Le meme, édition sur Chine.",1487,92.6,False,positional,,,LIVRES; PHOTOGRAPHIES,,
-BO0624_83636,166728,353,403,"— Lemaistre de Sacy. Histoire de Tobie. vol. in-folio, illustre par Bida.Paris, Hachette.1880.(Chine.)",1489,76.0,False,positional,,,LIVRES; PHOTOGRAPHIES,,
+BO0624_83636,166728,353,403,"— Lemaistre de Sacy. Histoire de Tobie. vol. in-folio, illustre par Bida.Paris, Hachette.1880.(Chine.)",1489,76.0,False,positional,,,LIVRES; PHOTOGRAPHIES,,Sec. XIX
 BO0624_83636,166729,354,404,"-Le meme, édition sur Whatman.",1490,93.1,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166730,355,405,"- — Le meme, édition sur Hollande.",1492,100.0,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166731,356,406,—Blanc (Ch.) L'OEuore de Rembrandt (en,1493,94.3,False,positional,REMBRANDT VAN RIJN,,LIVRES; PHOTOGRAPHIES,,
-BO0624_83636,166732,357,407,"—Renan (Ernest). Le Cantique des Cantiques, 1 vol. in-folio, illustre par Bida, avec les gravures en plusieurs etats.(Exemplaire reserve, relie par Marius Michel.) Paris, Hachette. 1886.",1495,98.8,False,positional,,,STAMPE E INCISIONI,,
-BO0624_83636,166733,358,408,"—Le meme. Paris, Hachette, 1880. Edi-",1496,93.9,False,positional,,,LIVRES; PHOTOGRAPHIES,,
+BO0624_83636,166732,357,407,"—Renan (Ernest). Le Cantique des Cantiques, 1 vol. in-folio, illustre par Bida, avec les gravures en plusieurs etats.(Exemplaire reserve, relie par Marius Michel.) Paris, Hachette. 1886.",1495,98.8,False,positional,,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_83636,166733,358,408,"—Le meme. Paris, Hachette, 1880. Edi-",1496,93.9,False,positional,,,LIVRES; PHOTOGRAPHIES,,Sec. XIX
 BO0624_83636,166734,359,409,"Le meme, edition sur velin.",1498,92.6,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166735,360,440,"— Le meme, édition sur Japon.",1500,92.6,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166736,361,414,"—Le meme, edition sur Chine.",1502,92.6,False,positional,,,LIVRES; PHOTOGRAPHIES,,
-BO0624_83636,166737,362,412,"Michelet (J.). Jeanne d'Arc, I vol. gr. in-8°, avec 10 eaux-fortes, d'apres les dessins de Bida. Paris, Hachette: 1888. (Japon.)",1503,98.2,False,positional,,,ACQUEFORTI,,
+BO0624_83636,166737,362,412,"Michelet (J.). Jeanne d'Arc, I vol. gr. in-8°, avec 10 eaux-fortes, d'apres les dessins de Bida. Paris, Hachette: 1888. (Japon.)",1503,98.2,False,positional,,,ACQUEFORTI,,Sec. XIX
 BO0624_83636,166738,363,413,"—Le meme, edition sur Chine.",1504,92.6,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166739,364,414,—Robaut (Alfred). L'OEuore complet d'Eugene Delacroix. 1 vol. illustre. Paris. 4885.,1505,97.4,False,positional,DELACROIX VICTOR EUGENE,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166740,365,415,"Michel (Emile). Rembrandt, sa vie, son euvre et son temps. 1 vol. illustre. Paris.",1506,97.3,False,positional,REMBRANDT VAN RIJN,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166741,366,1893,"- 416 — Hedouin. lllustrations pour le Theatre de Moliere. 1 vol. in-4. Paris, Morgand.",1508,100.0,False,positional,,,LIVRES; PHOTOGRAPHIES,,
-BO0624_83636,166742,367,417,"— Les Saints Evangiles. 1 vol. in-folio, illustre par Bida. Paris, Hachette. 1878.",1510,97.3,False,positional,,,LIVRES; PHOTOGRAPHIES,,
+BO0624_83636,166742,367,417,"— Les Saints Evangiles. 1 vol. in-folio, illustre par Bida. Paris, Hachette. 1878.",1510,97.3,False,positional,,,LIVRES; PHOTOGRAPHIES,,Sec. XIX
 BO0624_83636,166743,368,418,"—Le meme, broche.",1512,87.5,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166744,369,419,—Chenier (Andre). Poesies. 1 vol. illustre,1513,94.7,False,positional,,,LIVRES; PHOTOGRAPHIES,,
-BO0624_83636,166745,370,420,"— De Musset (Alfred). OEuvres completes, illustrees par Bida. 10 vol. Paris. 1865.",1515,97.3,False,positional,,,LIVRES; PHOTOGRAPHIES,,
-BO0624_83636,166746,371,421,"— Duruy (Victor). Histoire des Grecs. 7 vol. Paris. 1885. — Histoire des Romains. 3 vol. Paris. 1889.— Wallon. Jeanne d'Arc. 1 vol. illustre.Paris.1883.— Mme de Witt,nee Guizot. Les Chroniqueurs de l'Histoire de France.1 vol.Paris.1885.—L'Histoire de France racontee a mes petits-enfants. vol. Paris. 1877.—E. Renan. OEuores. 10.vol.—S Saint-Simon. Memoires. 20 vol. —La Gazette des Beaux-Arts. M vol. 一 Le Tour du Monde. 51 vol.—Les Contes de Perrault, illustres par Gustave Dore. —— Toppfer. Le Docteur Festus. —— Giacomelli. L'OEuore de Raffet.",1516,69.1,False,positional,LA TOUR MAURICE-QUENTIN DE,,LIVRES; PHOTOGRAPHIES,,
+BO0624_83636,166745,370,420,"— De Musset (Alfred). OEuvres completes, illustrees par Bida. 10 vol. Paris. 1865.",1515,97.3,False,positional,,,LIVRES; PHOTOGRAPHIES,,Sec. XIX
+BO0624_83636,166746,371,421,"— Duruy (Victor). Histoire des Grecs. 7 vol. Paris. 1885. — Histoire des Romains. 3 vol. Paris. 1889.— Wallon. Jeanne d'Arc. 1 vol. illustre.Paris.1883.— Mme de Witt,nee Guizot. Les Chroniqueurs de l'Histoire de France.1 vol.Paris.1885.—L'Histoire de France racontee a mes petits-enfants. vol. Paris. 1877.—E. Renan. OEuores. 10.vol.—S Saint-Simon. Memoires. 20 vol. —La Gazette des Beaux-Arts. M vol. 一 Le Tour du Monde. 51 vol.—Les Contes de Perrault, illustres par Gustave Dore. —— Toppfer. Le Docteur Festus. —— Giacomelli. L'OEuore de Raffet.",1516,69.1,False,positional,LA TOUR MAURICE-QUENTIN DE,,LIVRES; PHOTOGRAPHIES,,Sec. XIX
 BO0624_83636,166747,372,422,— Sous ce numero seront vendus environ,1521,94.7,False,positional,,,LIVRES; PHOTOGRAPHIES,,
 BO0624_83636,166748,373,423,Groupe en bronze a patine verte:Cheval,1529,95.0,False,positional,,,BRONZES; CUIVRES,,
 BO0624_83636,166749,374,424,— Groupe de levrettes senbronze. Signe P.J. Mene. Avec dedicace.,1531,96.7,False,positional,,,BRONZES; CUIVRES,,

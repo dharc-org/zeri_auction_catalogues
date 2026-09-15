@@ -112,7 +112,7 @@ BO0624_87500,209682,110,123,"- Madonna mit Jesukind und Engeln, oben 3 Nischen m
 BO0624_87500,209683,111,124,"Hl. Familie von Sprenger auf Holz, 23 cm hoch, 18 cm breit.",291,96.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_87500,209684,112,125,"- Madonna mit Jesukind, Brustbild, auf Kupfer, 17 cm hoch, 13 cm breit.",293,100.0,False,positional,,,OGGETTI IN RAME,,
 BO0624_87500,209685,113,126,"- 2 Stuck, Evangelisten darstellend, auf Kupfer, 13 cm hoch, 9 cm breit.",295,100.0,False,positional,STUCK FRANZ VON,,OGGETTI IN RAME,,
-BO0624_87500,209686,114,127,"Max Josef I1l. (1797), 26 cm hoch und 2o cm breit.",297,95.7,False,positional,,,GEMALDE,,
+BO0624_87500,209686,114,127,"Max Josef I1l. (1797), 26 cm hoch und 2o cm breit.",297,95.7,False,positional,,,GEMALDE,,Sec. XVIII
 BO0624_87500,209687,115,128,"- Zwei Marinebilder, Niederlander,28 cm hoch und 2o cm breit.",299,100.0,False,positional,,,GEMALDE,,
 BO0624_87500,209688,116,129,"Stillleben (Kuchengeschirr), Niederlander.",300,95.0,False,positional,,,GEMALDE,,
 BO0624_87500,209689,117,130,Zwei Madchenkopfe unter Glas.,301,93.3,False,positional,,,GEMALDE,,
@@ -124,7 +124,7 @@ BO0624_87500,209694,122,136,"Frolicher Otto (t), Nach dem Gewitter, aus der Schw
 BO0624_87500,209695,123,137,"Steffan Arnold (t), Haslithal in der Schweiz, 83 cm hoch und 66 cm breit.",310,97.1,False,positional,,,GEMALDE,,
 BO0624_87500,209696,124,2,"o Stuck weitere Nummern,Landschaften und Studien.",311,99.0,False,positional,STUCK FRANZ VON,,GEMALDE,,
 BO0624_87500,209697,125,158,"Eingerahmte Kupferstiche,Trinitas nach Raphael, gest.von Keller.",312,96.9,False,positional,SANZIO RAFFAELLO,,OGGETTI IN RAME,,
-BO0624_87500,209698,126,159,"- H. Golzius,Mannliches Bildniss.",314,100.0,False,positional,,,GEMALDE,,
+BO0624_87500,209698,126,159,"- H. Golzius,Mannliches Bildniss.",314,100.0,False,positional,GOLTZIUS HENDRIK,,GEMALDE,,
 BO0624_87500,209699,127,160,"Silberbecher, getriebene Arbeit.",318,93.8,False,positional,,,SILBER-UND METALLGEGENSTANDE,,
 BO0624_87500,209700,128,161,"""""",319,0.0,False,positional,,,SILBER-UND METALLGEGENSTANDE,,
 BO0624_87500,209701,129,162,"kleiner, getriebene Arbeit. """,321,92.6,False,positional,,,SILBER-UND METALLGEGENSTANDE,,
@@ -215,30 +215,30 @@ BO0624_87500,209785,213,319,"Rococo-Kastchen, geschnitzt von Nussholz mit Schubl
 BO0624_87500,209786,214,321,"- Glaskastchen, einfach-schwarz (Barok.)",502,100.0,False,positional,,,MOBEL,,
 BO0624_87500,209787,215,28,Stuck.,506,76.9,False,positional,STUCK FRANZ VON,Scuola di Franz von Stuck,GEDENK- UND GESCHICHTSMUNZEN,,
 BO0624_87500,209788,216,2,Bde. in 1 Bd. gebd. Augsburg 18oo.,514,96.8,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
-BO0624_87500,209789,217,322,"Pozzo, Andrea, S. J. der Mahler u. Baumeister Perspectiv, mit 219 K. Fol. Bayerland heiliges, a. d.Latein. des P. Mat. Rader S. J. ubers. v.Rassler. 3 Thle. in 1 Bd. mit vielen Kupfern. Fol. Augsburg 1714. Schwldbd.",517,79.5,False,positional,,,OGGETTI IN RAME,,
-BO0624_87500,209790,218,323,trefflichen Poeten und Oratoren Francisci Petrarcha Trostbucher mit vielen Holzschn. Fol. Frankfurt 1584. Diesem Werke ist beigebunden: Ouidij von Veranderung der Gestalt g. Buch bis Schluss. Mit vielen Holzschn.Frankfurt 1581.Schw.Ledbd.,518,99.1,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
+BO0624_87500,209789,217,322,"Pozzo, Andrea, S. J. der Mahler u. Baumeister Perspectiv, mit 219 K. Fol. Bayerland heiliges, a. d.Latein. des P. Mat. Rader S. J. ubers. v.Rassler. 3 Thle. in 1 Bd. mit vielen Kupfern. Fol. Augsburg 1714. Schwldbd.",517,79.5,False,positional,,,OGGETTI IN RAME,,Sec. XVIII
+BO0624_87500,209790,218,323,trefflichen Poeten und Oratoren Francisci Petrarcha Trostbucher mit vielen Holzschn. Fol. Frankfurt 1584. Diesem Werke ist beigebunden: Ouidij von Veranderung der Gestalt g. Buch bis Schluss. Mit vielen Holzschn.Frankfurt 1581.Schw.Ledbd.,518,99.1,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XVI
 BO0624_87500,209791,219,326,326,520,100.0,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
 BO0624_87500,209792,220,327,"- 328 Habermann,X.Eine Sammlung von Altaren, Kanzeln u. s.w. im besten Zopfstil. Stiche in Fol., beigeb. einige Bl. nach Boucher, Nilson u. s. w. Fol./Franzbd.",524,100.0,False,positional,BOUCHER FRANCOIS,,STAMPE E INCISIONI,,
-BO0624_87500,209793,221,331,"Ehrentempel der Herren Geistlichen, die 1648 bei westphal.Friedensschluss zu Augspurg im evangel.Predigeramt gestanden. Sammlung von 28 Portrats in Schwarzkunst gest. v. Bodenehr.Fol. gebd. Neues Blumenbuch, darinen die schonsten Blumen,Fruchte, Schnacken u.Geschmeiss, gefertigt u. gestochen v. Chr. Weiget.4° geb.",527,75.0,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
+BO0624_87500,209793,221,331,"Ehrentempel der Herren Geistlichen, die 1648 bei westphal.Friedensschluss zu Augspurg im evangel.Predigeramt gestanden. Sammlung von 28 Portrats in Schwarzkunst gest. v. Bodenehr.Fol. gebd. Neues Blumenbuch, darinen die schonsten Blumen,Fruchte, Schnacken u.Geschmeiss, gefertigt u. gestochen v. Chr. Weiget.4° geb.",527,75.0,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XVII
 BO0624_87500,209794,222,332,thums bis neuere Zeit mit einigen S. Text. (Elogia diversorum veterum,529,97.1,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
-BO0624_87500,209795,223,333,Tirolensium principum comitum. Der gefursteten Grafen zu Tyrol von 1229 bis 16oo eigentliche Contrafacturen. 23 Portrats in ganzen Figuren. Kupferstich. Fol. Augsburg 1599. Schwldb.,531,98.9,False,positional,,,OGGETTI IN RAME,,
-BO0624_87500,209796,224,334,Schedels Chronica universalis. Buch der Chroniken u. gedechtnus wirdigern geschihte vo anbegyn der weolt bis auf dise unssere Zeit vo hochgelerte manne in latein mit gr. feiss versammelt u. durch Georgium alten zu Nurmberg aus latein u. s. w. in diss teutsch gebracht. Abbild.v. M. Wohlgemuth u.W. Pleyden.1469.286 folig. Blatter.1 Landk.in Holzsch. Pergtbd.,532,99.4,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
+BO0624_87500,209795,223,333,Tirolensium principum comitum. Der gefursteten Grafen zu Tyrol von 1229 bis 16oo eigentliche Contrafacturen. 23 Portrats in ganzen Figuren. Kupferstich. Fol. Augsburg 1599. Schwldb.,531,98.9,False,positional,,,OGGETTI IN RAME,,Sec. XIII
+BO0624_87500,209796,224,334,Schedels Chronica universalis. Buch der Chroniken u. gedechtnus wirdigern geschihte vo anbegyn der weolt bis auf dise unssere Zeit vo hochgelerte manne in latein mit gr. feiss versammelt u. durch Georgium alten zu Nurmberg aus latein u. s. w. in diss teutsch gebracht. Abbild.v. M. Wohlgemuth u.W. Pleyden.1469.286 folig. Blatter.1 Landk.in Holzsch. Pergtbd.,532,99.4,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XV
 BO0624_87500,209797,225,335,"Sadeler, J. eine Sammlung von 8o Kupferstichen aus der hl. Geschichte nebst einigen alleg. Blattern qu. Fol.2 Pergtbd.",533,98.2,False,positional,,,OGGETTI IN RAME,,
-BO0624_87500,209798,226,336,Schmied u. Wagnergesellenordnung a. d. J. 1737 aus Regensburg. Manu-,534,96.9,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
+BO0624_87500,209798,226,336,Schmied u. Wagnergesellenordnung a. d. J. 1737 aus Regensburg. Manu-,534,96.9,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XVIII
 BO0624_87500,209799,227,337,Ein goth. Gebetbuchlein in Manuscript auf Pergament mit etlichen nitialen.160.,536,88.1,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
-BO0624_87500,209800,228,338,"Geistlicher Kalender, chur-bayrischer 5Thl. Oberpfaltz (1752) mit Abbildg.",538,97.2,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
+BO0624_87500,209800,228,338,"Geistlicher Kalender, chur-bayrischer 5Thl. Oberpfaltz (1752) mit Abbildg.",538,97.2,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XVIII
 BO0624_87500,209801,229,339,Schreibkalender auf das Jahr 174o.Ulm.,539,94.9,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
-BO0624_87500,209802,230,340,"Augsburgischer Adress-Sack-Kalender 1781 u. 1796, enth. Adressbuch",541,96.9,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
-BO0624_87500,209803,231,342,- Ciceronis opera.8 Schwldb.Argentorati 1481.,544,100.0,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
-BO0624_87500,209804,232,343,Dionis Cassii Nicaei romanae historiae. Lugduni 1559. Schwld.,545,96.7,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
-BO0624_87500,209805,233,344,"Ott, G.,Legende von den lieben Heiligen Gottes. 2 Bde. In Bildern 4°. 1/2 Sars. Regensburg 1854.",549,97.8,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
-BO0624_87500,209806,234,345,Leipzig 1881. 1/2 Lederb.,550,92.0,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
-BO0624_87500,209807,235,35,Fol.-Lichtdr.-Tafeln. Munchen 1891.,554,95.4,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
+BO0624_87500,209802,230,340,"Augsburgischer Adress-Sack-Kalender 1781 u. 1796, enth. Adressbuch",541,96.9,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XVIII
+BO0624_87500,209803,231,342,- Ciceronis opera.8 Schwldb.Argentorati 1481.,544,100.0,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XV
+BO0624_87500,209804,232,343,Dionis Cassii Nicaei romanae historiae. Lugduni 1559. Schwld.,545,96.7,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XVI
+BO0624_87500,209805,233,344,"Ott, G.,Legende von den lieben Heiligen Gottes. 2 Bde. In Bildern 4°. 1/2 Sars. Regensburg 1854.",549,97.8,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XIX
+BO0624_87500,209806,234,345,Leipzig 1881. 1/2 Lederb.,550,92.0,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XIX
+BO0624_87500,209807,235,35,Fol.-Lichtdr.-Tafeln. Munchen 1891.,554,95.4,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,Sec. XIX
 BO0624_87500,209808,236,347,Overbeck's Evangelien in Kupferstichen. 4o Bl. Sars.-Bd.,555,96.3,False,positional,,,OGGETTI IN RAME,,
 BO0624_87500,209809,237,86,Tafeln.In Mappe.,556,90.9,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
 BO0624_87500,209810,238,349,"Kallenbach, G., Atlas zur Geschichte der deutsch-mittelalt. Baukunst in",557,97.1,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
 BO0624_87500,209811,239,1883,",in2Fol.Mappen.Munchen.",562,89.4,False,positional,,,OGGETTI VARI,,
-BO0624_87500,209812,240,353,"Niedling, A,Bucherornamentik in Miniaturen.Fol. Weimar 1888.",563,96.6,False,positional,,,MINIATURE,,
+BO0624_87500,209812,240,353,"Niedling, A,Bucherornamentik in Miniaturen.Fol. Weimar 1888.",563,96.6,False,positional,,,MINIATURE,,Sec. XIX
 BO0624_87500,209813,241,354,"Goldschmidt, A.,Lubecker Malerei und Plastik bis 153o.43 Lichtdrucke.",564,97.1,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
 BO0624_87500,209814,242,357,Sammlung von mittelalt.Ornamenten in Lithogr.42 Fol.Tafeln. geb. 1Bl. fehlt.,569,97.3,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,
 BO0624_87500,209815,243,358,- Wappenbuch， 359 66,572,100.0,False,positional,,,BUCHER UND ILLUSTRIRTE WERKE,,

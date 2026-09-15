@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88285,679589,1,1,Waldinneres mit Wild.                                                                                                         | Karton 21/27                                             |,13,98.5,False,none,,,,,
 BO0624_88285,679590,2,5,"Der Romerberg uor dem Umbau des Romers. 6 Der Pfarrturm und die Schlachthausgafle. 7 Unter der alten Linde zu Steinheim a.M. | Aquarell 25/33,5 Desgl.34/21 Desgl.29/19 Desgl.12,5/19,5 |",18,99.4,False,none,,,,,
-BO0624_88285,679591,3,9,Frankfurt im 17. Jahrhundert vom Schneidwallturm aus gelehen.,19,98.3,False,none,,,,,
+BO0624_88285,679591,3,9,Frankfurt im 17. Jahrhundert vom Schneidwallturm aus gelehen.,19,98.3,False,none,,,,,Sec. XVII
 BO0624_88285,679592,4,11,Idylle. Motiu von Welenberg (Helfen).,27,95.7,False,none,,,,,
 BO0624_88285,679593,5,13,"Kohle 40/30 Bauernmadchen,angelehnt ftehend.",39,100.0,False,positional,Anton Burger,,,,
 BO0624_88285,679594,6,14,"Madchen in landlicher Tracht mit dunklem Kopftuch, auf Stuhl fitend.",41,97.8,False,positional,Anton Burger,,,,
@@ -40,7 +40,7 @@ BO0624_88285,679626,38,49,Spreelandlchaft bei Mondlchein.,198,95.2,False,positio
 BO0624_88285,679627,39,50,Desgl.,202,76.9,False,positional,C. Lorenz,,,,
 BO0624_88285,679628,40,51,"52 53   | Am Strand. Stilleben.Tulpen. Desgl. Weibe Rolen. 54Desgl.Desgl.   | Aquarell 23,5/28 Desgl.ou.26/21 Desgl.28/33 Desgl.24/19,5   |",208,98.8,False,positional,C. Lorenz,,,,
 BO0624_88285,679629,41,55,Reichenau.,212,85.7,False,positional,C. Lorenz,,,,
-BO0624_88285,679630,42,56,"## J. Franz nitlchner, 1857.",216,100.0,False,title_direct,J. Franz nitlchner,,,,
+BO0624_88285,679630,42,56,"## J. Franz nitlchner, 1857.",216,100.0,False,title_direct,J. Franz nitlchner,,,,Sec. XIX
 BO0624_88285,679631,43,57,Damenbruftbild.,222,90.3,False,positional,J. Franz nitlchner,,,,
 BO0624_88285,679632,44,58,Kartoffelacker.,226,90.3,False,positional,J. Franz nitlchner,,,,
 BO0624_88285,679633,45,59,nach Tizian. Lauinia.,232,92.7,False,positional,J. Franz nitlchner,,,,
@@ -170,20 +170,20 @@ BO0624_88285,679756,168,195,Spindeltalchenuhr. Silber mit Doppeluerlchluhdeckel.
 BO0624_88285,679757,169,196,- Koranftander. Rofenholz mit Perlmuttereinlagen. Hohe 60' cm.,530,100.0,False,positional,Frit Wucherer,,,,
 BO0624_88285,679758,170,197,Tyroler Bauerntruhe aus Aruenholz. Uorderleite reich gelchnitt. Hohe 95 cm. /75.,531,95.4,False,positional,Frit Wucherer,,,,
 BO0624_88285,679759,171,198,"Alte Haube, Hardanger Handarbeit,weih.",533,94.7,False,positional,Frit Wucherer,,,,
-BO0624_88285,679760,172,199,"Alte Seruiette 18. Jahrh. mit Figurenweberei ,Tilchgefellchaft"".",534,96.7,False,positional,Frit Wucherer,,,,
-BO0624_88285,679761,173,200,"- Zwei Streifen in Aufnaharbeit, Ichwarz-weib. 17. Jahrhundert.",536,100.0,False,positional,Frit Wucherer,,,,
-BO0624_88285,679762,174,201,"Burla, rot Sammt. 18. Jahrhundert.",537,93.8,False,positional,Frit Wucherer,,,,
-BO0624_88285,679763,175,202,Gelber Damaft mit Blumen.Franzofilch. 17. Jahrhundert.,538,96.2,False,positional,Frit Wucherer,,,,
-BO0624_88285,679764,176,203,"- Stola, gelb Damaft. 17. Jahrhundert.",540,100.0,False,positional,Frit Wucherer,,,,
+BO0624_88285,679760,172,199,"Alte Seruiette 18. Jahrh. mit Figurenweberei ,Tilchgefellchaft"".",534,96.7,False,positional,Frit Wucherer,,,,Sec. XVIII
+BO0624_88285,679761,173,200,"- Zwei Streifen in Aufnaharbeit, Ichwarz-weib. 17. Jahrhundert.",536,100.0,False,positional,Frit Wucherer,,,,Sec. XVII
+BO0624_88285,679762,174,201,"Burla, rot Sammt. 18. Jahrhundert.",537,93.8,False,positional,Frit Wucherer,,,,Sec. XVIII
+BO0624_88285,679763,175,202,Gelber Damaft mit Blumen.Franzofilch. 17. Jahrhundert.,538,96.2,False,positional,Frit Wucherer,,,,Sec. XVII
+BO0624_88285,679764,176,203,"- Stola, gelb Damaft. 17. Jahrhundert.",540,100.0,False,positional,Frit Wucherer,,,,Sec. XVII
 BO0624_88285,679765,177,204,Gelbes Mebgewand mit grun-uiolett.,541,94.3,False,positional,Frit Wucherer,,,,
 BO0624_88285,679766,178,205,- Ttalienilch.16 Jahrhundert.,543,100.0,False,positional,Frit Wucherer,,,,
-BO0624_88285,679767,179,206,"Drei Stucke einer franzolilchen Applikationsarbeit auf grun Moire. 16. Jahrhundert. Stola und Manipel, bemaltes und vergoldetes Leder. Deutfch.17. Jahr- Stola und Manipel, grinweiher Genueler Sammet. 17. Jahrhundert.",545,55.4,False,positional,Frit Wucherer,,OGGETTI IN PELLE,,
+BO0624_88285,679767,179,206,"Drei Stucke einer franzolilchen Applikationsarbeit auf grun Moire. 16. Jahrhundert. Stola und Manipel, bemaltes und vergoldetes Leder. Deutfch.17. Jahr- Stola und Manipel, grinweiher Genueler Sammet. 17. Jahrhundert.",545,55.4,False,positional,Frit Wucherer,,OGGETTI IN PELLE,,Sec. XVI
 BO0624_88285,679768,180,209,"Stola, gelb-weihe Aufnaharbeit. Italienilch.16. Jahrhundert.",549,96.6,False,positional,Frit Wucherer,,,,
 BO0624_88285,679769,181,210,"Drei Stick Brokatell, gelb-grin.17. Jahrhundert.",550,95.7,False,positional,Frit Wucherer,,,,
-BO0624_88285,679770,182,211,"Zwei Stick Brokatell, blau. 17. Jahrhundert.",551,95.2,False,positional,Frit Wucherer,,,,
-BO0624_88285,679771,183,212,"Patene, mit Engeln geltickt. 17. Jahrhundert.",552,95.3,False,positional,Frit Wucherer,,,,
+BO0624_88285,679770,182,211,"Zwei Stick Brokatell, blau. 17. Jahrhundert.",551,95.2,False,positional,Frit Wucherer,,,,Sec. XVII
+BO0624_88285,679771,183,212,"Patene, mit Engeln geltickt. 17. Jahrhundert.",552,95.3,False,positional,Frit Wucherer,,,,Sec. XVII
 BO0624_88285,679772,184,213,Koranftander.Lackarbeit. Damaskus.,553,94.1,False,positional,Frit Wucherer,,,,
-BO0624_88285,679773,185,214,"- Desgl.,eingelegt.Molaik. Perlien. Anfang 19. Jahrhundert.",555,100.0,False,positional,Frit Wucherer,,,,
+BO0624_88285,679773,185,214,"- Desgl.,eingelegt.Molaik. Perlien. Anfang 19. Jahrhundert.",555,100.0,False,positional,Frit Wucherer,,,,Sec. XIX
 BO0624_88285,679774,186,215,"Gurtel, Batikarbeit,Jaua.",556,92.0,False,positional,Frit Wucherer,,,,
 BO0624_88285,679775,187,216,"Burla,Sammetbrokat. Ttalien.17. Jahrhundert.",557,95.3,False,positional,Frit Wucherer,,,,
 BO0624_88285,679776,188,217,- Buchdeckel. Silber getrieben. China.,559,100.0,False,positional,Frit Wucherer,,,,
@@ -193,11 +193,11 @@ BO0624_88285,679779,191,221,- 222 Wandichmuck. Relief. Damenkopf.,565,100.0,Fals
 BO0624_88285,679780,192,223,Bandonion mit Schule.,567,90.9,False,positional,Frit Wucherer,,,,
 BO0624_88285,679781,193,224,Apollo uon Praziteles. Kaften-Uhr mit Rokokozifferblatt. Uenus von Milo.,569,62.9,False,positional,Frit Wucherer,,,,
 BO0624_88285,679782,194,227,Wand-uhr. Desgl.,571,87.5,False,positional,Frit Wucherer,,,,
-BO0624_88285,679783,195,228,- Bronzeleuchter. 18. Jahrhundert.,573,100.0,False,positional,Frit Wucherer,,,,
+BO0624_88285,679783,195,228,- Bronzeleuchter. 18. Jahrhundert.,573,100.0,False,positional,Frit Wucherer,,,,Sec. XVIII
 BO0624_88285,679784,196,229,- 230 Etui mit Silb.-Manikure. 5 teil.,575,100.0,False,positional,Frit Wucherer,,,,
 BO0624_88285,679785,197,231,Laterne.Schmiedeeifen.,577,91.3,False,positional,Frit Wucherer,,,,
 BO0624_88285,679786,198,232,## Frankofurtenfien.,580,100.0,False,positional,Frit Wucherer,,,,
-BO0624_88285,679787,199,233,Sachfenhaufen nach Merian 1600. Sepia weib gehoht uon C. F. Mylius. 24/34.,583,97.2,False,positional,Frit Wucherer,,,,
+BO0624_88285,679787,199,233,Sachfenhaufen nach Merian 1600. Sepia weib gehoht uon C. F. Mylius. 24/34.,583,97.2,False,positional,Frit Wucherer,,,,Sec. XVII
 BO0624_88285,679788,200,235,235,585,100.0,False,positional,Frit Wucherer,,,,
 BO0624_88285,679789,201,236,Gelber Hirich.Sepia und Aquarell uon C.F. Mylius. 33/23.,588,96.4,False,positional,Frit Wucherer,,,,
 BO0624_88285,679790,202,237,"Koppler Hofchen. Grilaille von C. F. Mylius. 32/16,5.",589,96.0,False,positional,Frit Wucherer,,,,
@@ -205,15 +205,15 @@ BO0624_88285,679791,203,238,"Judengalle.Ruckfeite.Sepia uon C. F. Mylius. 31,5/2
 BO0624_88285,679792,204,239,Alte Mainzergalle.Hexenplatchen.,591,93.9,False,positional,Frit Wucherer,,,,
 BO0624_88285,679793,205,240,"Hainerhof.Am Domplat.Sepia uon C. F.Mylius.37,5/23,5.",593,96.2,False,positional,Frit Wucherer,,,,
 BO0624_88285,679794,206,241,- Predigergafle und Arnsburger Hof. Grilaille von C. F. Mylius. 35/25.,595,100.0,False,positional,Frit Wucherer,,,,
-BO0624_88285,679795,207,242,Heilig-Geiftfpital 1839. Sepia uon C.F. Mylius. 20/30.,596,96.2,False,positional,Frit Wucherer,,,,
-BO0624_88285,679796,208,243,"- Im Deutichherrnhaus. Sepia uon C. F. Mylius. 1893. 23/36,5.",598,100.0,False,positional,Frit Wucherer,,,,
+BO0624_88285,679795,207,242,Heilig-Geiftfpital 1839. Sepia uon C.F. Mylius. 20/30.,596,96.2,False,positional,Frit Wucherer,,,,Sec. XIX
+BO0624_88285,679796,208,243,"- Im Deutichherrnhaus. Sepia uon C. F. Mylius. 1893. 23/36,5.",598,100.0,False,positional,Frit Wucherer,,,,Sec. XIX
 BO0624_88285,679797,209,244,Im Romer. Sepia und Aquarell uon C. F. Mylius. 33/24.,599,96.0,False,positional,Frit Wucherer,,,,
-BO0624_88285,679798,210,245,"- Sog. Chriftenbrand am 26. und 27. Juni 1719, geft. uon G. Bodenehr. 20/37.",601,100.0,False,positional,Frit Wucherer,,,,
-BO0624_88285,679799,211,246,"Durchzug Guft. Adolf uon Schweden 17. nou. 1631, geft. uon G. Bodenehr. 17/30.",602,97.2,False,positional,Frit Wucherer,,,,
-BO0624_88285,679800,212,247,Schlacht bei Hochft 1622. Stich. 30/38.,603,94.7,False,positional,Frit Wucherer,,,,
+BO0624_88285,679798,210,245,"- Sog. Chriftenbrand am 26. und 27. Juni 1719, geft. uon G. Bodenehr. 20/37.",601,100.0,False,positional,Frit Wucherer,,,,Sec. XVIII
+BO0624_88285,679799,211,246,"Durchzug Guft. Adolf uon Schweden 17. nou. 1631, geft. uon G. Bodenehr. 17/30.",602,97.2,False,positional,Frit Wucherer,,,,Sec. XVII
+BO0624_88285,679800,212,247,Schlacht bei Hochft 1622. Stich. 30/38.,603,94.7,False,positional,Frit Wucherer,,,,Sec. XVII
 BO0624_88285,679801,213,248,Abbildungen famtlicher Kailer des Kailerlaals im Romer.,604,96.4,False,positional,Frit Wucherer,,,,
-BO0624_88285,679802,214,249,And. Achenbach t.5 Blatt.Originalradierungen aus Teiner Frankfurter Zeit.1837/8.,605,97.5,False,title_direct,Lenbach,,ACQUEFORTI,,
-BO0624_88285,679803,215,250,Uier Blatt Karikaturen 1848.Ein Genius der Wahrheit kein Standpunkt!,606,97.1,False,positional,Frit Wucherer,,OGGETTI VARI,,
+BO0624_88285,679802,214,249,And. Achenbach t.5 Blatt.Originalradierungen aus Teiner Frankfurter Zeit.1837/8.,605,97.5,False,title_direct,Lenbach,,ACQUEFORTI,,Sec. XIX
+BO0624_88285,679803,215,250,Uier Blatt Karikaturen 1848.Ein Genius der Wahrheit kein Standpunkt!,606,97.1,False,positional,Frit Wucherer,,OGGETTI VARI,,Sec. XIX
 BO0624_88285,679804,216,251,Ant. Burger t. Uorbereitung zur Schlittenfahrt. Aquarell. 18/25.,608,96.7,False,title_direct,Anton Burger,,,,
 BO0624_88285,679805,217,252,"Morgenftern. Das Elchenheimer Tor. Kol. Stich. 10,5/13,5.",615,96.3,False,positional,Frit Wucherer,,,,
 BO0624_88285,679806,218,253,Das Bockenheimer Tor. Ebenlo. Das Allerheiligen Tor. Ebenlo. Das Friedberger Tor. Ebenlo.,619,50.4,False,positional,Frit Wucherer,,,,
@@ -279,7 +279,7 @@ BO0624_88285,679865,277,345,Turkilcher Teppich. 270/365. Perlerteppich. 110/225.
 BO0624_88285,679866,278,348,Seidenteppich.,822,86.7,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,679867,279,349,Spiegel in Metallrahmen.,823,92.0,False,positional,Jol. Piatka; Lenbach,,SPECCHI,,
 BO0624_88285,679868,280,350,Spieluhr mit Glockenlpiel. Schaferlieder und Chorale Ipielend. Empire.,824,97.1,False,positional,Jol. Piatka; Lenbach,,OGGETTI VARI,,
-BO0624_88285,679869,281,351,Sitende Heilige in alter Falfung. 14. Jahrhundert. Hohe 87 cm.,825,96.7,False,positional,Jol. Piatka; Lenbach,,,,
+BO0624_88285,679869,281,351,Sitende Heilige in alter Falfung. 14. Jahrhundert. Hohe 87 cm.,825,96.7,False,positional,Jol. Piatka; Lenbach,,,,Sec. XIV
 BO0624_88285,679870,282,352,Bronze-Garnitur. Standuhr und 2 Leuchter mit Putten.,826,96.2,False,positional,Jol. Piatka; Lenbach,,LAMPADE,,
 BO0624_88285,679871,283,353,- Bronzefigur.Tiger auf Holzunterlat.Japan.,828,100.0,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,679872,284,354,Ulamilcher Gobelin. Sommer. Landlchaft mit Figuren und Bordire. 290/300.,829,97.1,False,positional,Jol. Piatka; Lenbach,,,,
@@ -361,7 +361,7 @@ BO0624_88285,679947,359,446,"Schaperglas, zwei Reiter. Hohe 12,5 cm.",958,94.7,F
 BO0624_88285,679948,360,447,Teelieb.Silber.,959,87.5,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,679949,361,448,"Elfenbeinbirne, als Kocher, durchbrochen,mit Kegellpiel.",960,96.4,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,679950,362,449,Briefbelchwerer mit Bronzefigur Merkur.,961,95.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,679951,363,450,- Talchenkalender.Augsburg 1800.,963,100.0,False,positional,Jol. Piatka; Lenbach,,,,
+BO0624_88285,679951,363,450,- Talchenkalender.Augsburg 1800.,963,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XIX
 BO0624_88285,679952,364,451,Drei Spielmarken. Perlmutterfilche und Lorgnon. Silber grauiert.,964,96.8,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,679953,365,452,Mulchel-Kamee.Frauenkopf.,965,92.3,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,679954,366,453,"Wedgewood-Plakette. Frau eine Urne tragend. 6,5/5.",966,95.9,False,positional,Jol. Piatka; Lenbach,,,,
@@ -429,59 +429,59 @@ BO0624_88285,680015,427,516,- Zuckerzange Storch.Silber.,1054,100.0,False,positi
 BO0624_88285,680016,428,517,- Kreuz. Silberfiligran mit Perlmutter.,1056,100.0,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,680017,429,518,Roflenkranz mit grunen Perlen und Silberfiligran-Arbeit.,1057,96.5,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,680018,430,519,Doschen. Silber.Buchform.,1058,92.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680019,431,520,"- 521 Zwei Halbbrakteaten, 12. Jahrhundert, und 2-Grofchenftuck. Silber. 3 Stick.",1063,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680020,432,522,Aachen. 13 Marck 1754 und X11 Heller 1760. 2 Stuick.,1065,96.1,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680021,433,523,- Anam.Cant-Hung-Cu-Ba.1740/85.,1067,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680022,434,524,"Anhalt-Bernburg.Alexander Carl. 1/Thaler.1862. Bayern. 2-Kreuzer 1370, IV.St.1506,20-Kreuzer 1770 und 6-Kreuzer 1814.4Stuck. Baden.6-Kreuzer 1834 und 3-Kreuzer 1868.2 Stick.",1069,62.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680023,435,527,Bohmen. Grolchen.1536.,1071,90.9,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680024,436,528,"Brandenburg. Munze auf die Grindung Berlins, Otto III.1220-67. Kippergrolchen,Georg Wilhelm,1619-1640 und 18-Grofchenftick,Friedrich Wil helm (der Grobe Kurfurft),1640-88.3 Stick.",1072,98.9,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680025,437,529,- 530 Bremen. Schilling.1747.,1074,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680026,438,531,- 533 Deutfches Reich. Heinrich VI. 1190-97 Brakteat. 22 mm.,1078,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680027,439,532,Deutfcher Orden. Johann von Tiefen (1489-97). Schilling o.J.,1079,96.5,False,positional,Jol. Piatka; Lenbach,,DECORAZIONI DA PARETE,,
-BO0624_88285,680028,440,534,"1/s Taler Maximilian 1516, 3 Stick a 20 Pfg., 1873/75/88 und 2 Denk-",1080,97.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680029,441,535,England. Silber-Munze Konigin Elifabeth 1574 und 1 Cent 1882. 2 Stuck.,1082,97.1,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680030,442,536,"Frankfurt a. M. I1ll Heller 1728, neukreuzer 1773, Kreuzer 1841 und Heller 1859.4 Stuck.",1083,97.6,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680031,443,537,Frankfurter Kreuzer mit Stadtanlicht. 1773.,1084,95.3,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680032,444,538,"- 539 Frankreich.Philippus uon Tours. Silber-Munze 14.Jahrhundert,Heinrich IIl. Silber-Munze 1580,Louis XII1l. Silber-Munze 1703, Louis XV. Munze 1785, Kupfer-Munze 1793 und napoleon I1l. 50-Centimes 1866. 8 Stick.",1086,100.0,False,positional,Jol. Piatka; Lenbach,Periodo di Luigi XV,OGGETTI IN RAME,,
-BO0624_88285,680033,445,540,Glickftadt. 1/as Taler 1642 (Chriftian IV. von Danemark).,1088,96.3,False,positional,Jol. Piatka; Lenbach,,,,
+BO0624_88285,680019,431,520,"- 521 Zwei Halbbrakteaten, 12. Jahrhundert, und 2-Grofchenftuck. Silber. 3 Stick.",1063,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XII
+BO0624_88285,680020,432,522,Aachen. 13 Marck 1754 und X11 Heller 1760. 2 Stuick.,1065,96.1,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680021,433,523,- Anam.Cant-Hung-Cu-Ba.1740/85.,1067,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680022,434,524,"Anhalt-Bernburg.Alexander Carl. 1/Thaler.1862. Bayern. 2-Kreuzer 1370, IV.St.1506,20-Kreuzer 1770 und 6-Kreuzer 1814.4Stuck. Baden.6-Kreuzer 1834 und 3-Kreuzer 1868.2 Stick.",1069,62.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XIX
+BO0624_88285,680023,435,527,Bohmen. Grolchen.1536.,1071,90.9,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVI
+BO0624_88285,680024,436,528,"Brandenburg. Munze auf die Grindung Berlins, Otto III.1220-67. Kippergrolchen,Georg Wilhelm,1619-1640 und 18-Grofchenftick,Friedrich Wil helm (der Grobe Kurfurft),1640-88.3 Stick.",1072,98.9,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680025,437,529,- 530 Bremen. Schilling.1747.,1074,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680026,438,531,- 533 Deutfches Reich. Heinrich VI. 1190-97 Brakteat. 22 mm.,1078,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XII
+BO0624_88285,680027,439,532,Deutfcher Orden. Johann von Tiefen (1489-97). Schilling o.J.,1079,96.5,False,positional,Jol. Piatka; Lenbach,,DECORAZIONI DA PARETE,,Sec. XV
+BO0624_88285,680028,440,534,"1/s Taler Maximilian 1516, 3 Stick a 20 Pfg., 1873/75/88 und 2 Denk-",1080,97.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVI
+BO0624_88285,680029,441,535,England. Silber-Munze Konigin Elifabeth 1574 und 1 Cent 1882. 2 Stuck.,1082,97.1,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVI
+BO0624_88285,680030,442,536,"Frankfurt a. M. I1ll Heller 1728, neukreuzer 1773, Kreuzer 1841 und Heller 1859.4 Stuck.",1083,97.6,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680031,443,537,Frankfurter Kreuzer mit Stadtanlicht. 1773.,1084,95.3,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680032,444,538,"- 539 Frankreich.Philippus uon Tours. Silber-Munze 14.Jahrhundert,Heinrich IIl. Silber-Munze 1580,Louis XII1l. Silber-Munze 1703, Louis XV. Munze 1785, Kupfer-Munze 1793 und napoleon I1l. 50-Centimes 1866. 8 Stick.",1086,100.0,False,positional,Jol. Piatka; Lenbach,Periodo di Luigi XV,OGGETTI IN RAME,,Sec. XVI
+BO0624_88285,680033,445,540,Glickftadt. 1/as Taler 1642 (Chriftian IV. von Danemark).,1088,96.3,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
 BO0624_88285,680034,446,541,Halberftadt..Silber-Kreuzer.12. Jahrhundert.,1089,95.3,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680035,447,542,"- Hanau-Lichtenberg. Albus 1669 und Philipp, II Albus. 2 Stuick.",1091,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680036,448,543,- Hamburg. Schilling. 1855.,1093,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680037,449,544,Hannouer.6 Pfennige.1851.,1094,92.3,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680038,450,545,"Heffen.Albus 1615,Albus 1655,Kreuzer 1723,Kreuzer 1728,4Kreuzer 1748, Kreuzer 1804, 1/24 Taler 1807 und Kreuzer 1860. 8 Stuick.",1095,98.4,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680039,451,546,Hildesheim. 24 Pfennige.1699.,1096,93.1,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680040,452,547,- Holland. Deuenter Silber-Munze 1601 und Zeeland Kupfer-Munze 1657. 2 Stick.,1098,100.0,False,positional,Jol. Piatka; Lenbach,,OGGETTI IN RAME,,
-BO0624_88285,680041,453,548,Honkong.Kupfer-Cent.1863.,1099,92.3,False,positional,Jol. Piatka; Lenbach,,OGGETTI IN RAME,,
-BO0624_88285,680042,454,549,"- Isny.Silber-Munze, Karl V.,1519-56.",1101,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680043,455,550,"Kraywinkel, Hanns. Munze 17. Jahrhundert.",1102,94.9,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680044,456,551,nalfau.4 Pfennige.1765.,1103,91.7,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680045,457,552,niederlande.25 Cents.1848.,1104,92.6,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680046,458,553,"Ofterreich.10Kreuzer1787,20-Kreuzer 1791,12-Kreuzer1795,3-Kreuzer1800, Kreuzer und 10-Heller 1849. 6 Stuck.",1105,78.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680047,459,554,- 555 Onolzbach. 1 Schilling 1750.,1109,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680048,460,556,"Papft Pius VI. Groffo 1777, Duc Carlini 1780, Groffo 1783.3 Stick.",1110,96.9,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680049,461,557,"- Pfalz. Zwei Handlein-Pfennige,14.Jahrhundert, und 2 Kreuzer 1727 und 1764.4Stuck.",1112,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680050,462,558,"- Polen. Lithauer 12 Grofchen o. J.,Alexander (1492-1506), desgl. Joh. Calimir (1641-67),2-Zlote Polski 1816, 10-Grofz Polski 1831. 4 Stuck.",1114,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680051,463,559,"Pommern. Philipp Julius, Grolchen 1619.",1115,94.7,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680052,464,560,"1888,Bleimedaille 1897.4 Stuck.",1117,93.8,False,positional,Jol. Piatka; Lenbach,,,,
+BO0624_88285,680035,447,542,"- Hanau-Lichtenberg. Albus 1669 und Philipp, II Albus. 2 Stuick.",1091,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680036,448,543,- Hamburg. Schilling. 1855.,1093,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XIX
+BO0624_88285,680037,449,544,Hannouer.6 Pfennige.1851.,1094,92.3,False,positional,Jol. Piatka; Lenbach,,,,Sec. XIX
+BO0624_88285,680038,450,545,"Heffen.Albus 1615,Albus 1655,Kreuzer 1723,Kreuzer 1728,4Kreuzer 1748, Kreuzer 1804, 1/24 Taler 1807 und Kreuzer 1860. 8 Stuick.",1095,98.4,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680039,451,546,Hildesheim. 24 Pfennige.1699.,1096,93.1,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680040,452,547,- Holland. Deuenter Silber-Munze 1601 und Zeeland Kupfer-Munze 1657. 2 Stick.,1098,100.0,False,positional,Jol. Piatka; Lenbach,,OGGETTI IN RAME,,Sec. XVII
+BO0624_88285,680041,453,548,Honkong.Kupfer-Cent.1863.,1099,92.3,False,positional,Jol. Piatka; Lenbach,,OGGETTI IN RAME,,Sec. XIX
+BO0624_88285,680042,454,549,"- Isny.Silber-Munze, Karl V.,1519-56.",1101,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVI
+BO0624_88285,680043,455,550,"Kraywinkel, Hanns. Munze 17. Jahrhundert.",1102,94.9,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680044,456,551,nalfau.4 Pfennige.1765.,1103,91.7,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680045,457,552,niederlande.25 Cents.1848.,1104,92.6,False,positional,Jol. Piatka; Lenbach,,,,Sec. XIX
+BO0624_88285,680046,458,553,"Ofterreich.10Kreuzer1787,20-Kreuzer 1791,12-Kreuzer1795,3-Kreuzer1800, Kreuzer und 10-Heller 1849. 6 Stuck.",1105,78.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680047,459,554,- 555 Onolzbach. 1 Schilling 1750.,1109,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680048,460,556,"Papft Pius VI. Groffo 1777, Duc Carlini 1780, Groffo 1783.3 Stick.",1110,96.9,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680049,461,557,"- Pfalz. Zwei Handlein-Pfennige,14.Jahrhundert, und 2 Kreuzer 1727 und 1764.4Stuck.",1112,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680050,462,558,"- Polen. Lithauer 12 Grofchen o. J.,Alexander (1492-1506), desgl. Joh. Calimir (1641-67),2-Zlote Polski 1816, 10-Grofz Polski 1831. 4 Stuck.",1114,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XV
+BO0624_88285,680051,463,559,"Pommern. Philipp Julius, Grolchen 1619.",1115,94.7,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680052,464,560,"1888,Bleimedaille 1897.4 Stuck.",1117,93.8,False,positional,Jol. Piatka; Lenbach,,,,Sec. XIX
 BO0624_88285,680053,465,561,Riga.,1119,66.7,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680054,466,562,"- Sachfen. Freiberger Engelgrolchen, Friedr. IlI., Johann und Georg (1507 bis 1525) und 6-Pfennig 1757. 2 Stuck.",1121,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680055,467,563,Salzburg. 2 Kreuzer 1675.,1122,92.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680056,468,564,Schaumburg-Lippe. Silbergrofchen 1858.,1123,94.7,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680057,469,565,Schlelien.Grolchen 1627.,1124,92.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680058,470,566,Siebenburgen. Grolchen 1610.,1125,92.9,False,positional,Jol. Piatka; Lenbach,,,,
+BO0624_88285,680054,466,562,"- Sachfen. Freiberger Engelgrolchen, Friedr. IlI., Johann und Georg (1507 bis 1525) und 6-Pfennig 1757. 2 Stuck.",1121,100.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVI
+BO0624_88285,680055,467,563,Salzburg. 2 Kreuzer 1675.,1122,92.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680056,468,564,Schaumburg-Lippe. Silbergrofchen 1858.,1123,94.7,False,positional,Jol. Piatka; Lenbach,,,,Sec. XIX
+BO0624_88285,680057,469,565,Schlelien.Grolchen 1627.,1124,92.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680058,470,566,Siebenburgen. Grolchen 1610.,1125,92.9,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
 BO0624_88285,680059,471,567,- 568 Spanien. Philipp II. % Taler.,1127,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680060,472,569,"Thur. Zwei Schilling o. J. und 1748, 3-Haller 1790. 3 Stuick.",1129,96.5,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680061,473,570,Tirol. Erzherzog Leopold. 10-Kreuzer 1632.,1130,95.1,False,positional,Jol. Piatka; Lenbach,Scuola Tirolese,,,
-BO0624_88285,680062,474,571,Trier. Kreuzer 1608 und I1l Grolchen 1694. 2 Stick.,1131,96.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680063,475,572,Ungarn. 10-Kreuzer 1667 und Taler 1778. 2 Stuck.,1132,95.7,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680064,476,573,Utrecht. Stuiuer 1768.,1133,90.9,False,positional,Jol. Piatka; Lenbach,,,,
+BO0624_88285,680060,472,569,"Thur. Zwei Schilling o. J. und 1748, 3-Haller 1790. 3 Stuick.",1129,96.5,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
+BO0624_88285,680061,473,570,Tirol. Erzherzog Leopold. 10-Kreuzer 1632.,1130,95.1,False,positional,Jol. Piatka; Lenbach,Scuola Tirolese,,,Sec. XVII
+BO0624_88285,680062,474,571,Trier. Kreuzer 1608 und I1l Grolchen 1694. 2 Stick.,1131,96.0,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680063,475,572,Ungarn. 10-Kreuzer 1667 und Taler 1778. 2 Stuck.,1132,95.7,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680064,476,573,Utrecht. Stuiuer 1768.,1133,90.9,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
 BO0624_88285,680065,477,574,- Uenedig. Silber-Henkelmunze. S. Andreas.,1135,100.0,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,680066,478,575,"Uier Scheidemunzen. Schweizer, Argentinien, Wurtemberg.",1136,96.2,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,680067,479,576,"Uier Kupfermunzen. Papftlich, Preuhifch und Franzolifch.",1137,96.4,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,680068,480,578,578,1139,100.0,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680069,481,579,"Worms. Kipper, 3 Batner. S. R. 1620. Stick.",1142,85.7,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680070,482,580,"Wurttemberg. 1/4s Taler 1692, 3 Kreuzer 1710, 1743, 1769 und 1/4s Taler 1776.",1144,97.3,False,positional,Jol. Piatka; Lenbach,,,,
-BO0624_88285,680071,483,581,Wurzburg. Grolchen 1751.,1145,91.7,False,positional,Jol. Piatka; Lenbach,,,,
+BO0624_88285,680069,481,579,"Worms. Kipper, 3 Batner. S. R. 1620. Stick.",1142,85.7,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680070,482,580,"Wurttemberg. 1/4s Taler 1692, 3 Kreuzer 1710, 1743, 1769 und 1/4s Taler 1776.",1144,97.3,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVII
+BO0624_88285,680071,483,581,Wurzburg. Grolchen 1751.,1145,91.7,False,positional,Jol. Piatka; Lenbach,,,,Sec. XVIII
 BO0624_88285,680072,484,582,- 583,1151,100.0,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,680073,485,584,- 585 Lucius Saturninus. Denar. Ru.Uiergelpann. Um 100 u. Chr.,1153,100.0,False,positional,Jol. Piatka; Lenbach,,,,
 BO0624_88285,680074,486,586,"Aemilia, Gattin des Paulus Lepidus, Pontif. Max. Denar. Um 49-40 u. Chr.",1155,97.0,False,positional,Jol. Piatka; Lenbach,,,,

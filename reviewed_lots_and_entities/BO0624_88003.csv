@@ -27,7 +27,7 @@ BO0624_88003,524685,25,30,|                                                     
 BO0624_88003,524686,26,31,"| Dorfansicht. Aquarell 18,5/28,5                                                    |",113,95.2,False,positional,W. J. Brasch,,,,
 BO0624_88003,524687,27,32,"| In den Dunen. Abendstimmung. Aquarell 18,5/30                                      |",114,96.6,False,positional,W. J. Brasch,,,,
 BO0624_88003,524688,28,33,| Rheinlandschaft bei Wittlaer. Bezeichnet.                                                  | Karton 24/32                         |,117,97.2,False,positional,Walter Cleff,,,,
-BO0624_88003,524689,29,38,| Mondschein im Gebirg. Bezeichnet mit Jahreszahl 1849.                                      | Leinw.8977                           |,128,97.6,False,positional,Walter Cleff,,,,
+BO0624_88003,524689,29,38,| Mondschein im Gebirg. Bezeichnet mit Jahreszahl 1849.                                      | Leinw.8977                           |,128,97.6,False,positional,Walter Cleff,,,,Sec. XIX
 BO0624_88003,524690,30,39,| Dorfstrasse. Im Sommer.                                                                    | Leinw.65/48                          |,129,95.7,False,positional,Walter Cleff,,,,
 BO0624_88003,524691,31,40,| Nahende alte Frau.                                                                         | Aquarell 31/26                       |,130,95.5,False,positional,Walter Cleff,,,,
 BO0624_88003,524692,32,41,| Partie bei Szegedin.                                                                       | Leinw.26/48                          |,132,95.4,False,positional,Walter Cleff,,,,
@@ -38,10 +38,10 @@ BO0624_88003,524696,36,46,"Gelehrter beim Studiun. Alter Mann mit grossem weisse
 BO0624_88003,524697,37,47,"Mutze und Pelzmantel, schreibend am Tische.",155,96.5,False,positional,Gerard Dou,,,,
 BO0624_88003,524698,38,48,Schweizerlandschaft. Leinw.61/88,161,95.4,False,positional,,Duisseldorfer Schule,,,
 BO0624_88003,524699,39,49,Leinw.18/24,165,88.0,False,positional,Hermann Dumler,,,,
-BO0624_88003,524700,40,50,- Odenwaldlandschaft am Abend. Bezeichnet H. D.1896.,167,100.0,False,positional,Hermann Dumler,,,,
+BO0624_88003,524700,40,50,- Odenwaldlandschaft am Abend. Bezeichnet H. D.1896.,167,100.0,False,positional,Hermann Dumler,,,,Sec. XIX
 BO0624_88003,524701,41,51,Leinw.24/28,169,88.0,False,positional,Hermann Dumler,,,,
-BO0624_88003,524702,42,52,Februarabend. Landschaft mit Schnee. Bezeichnet H. D. 1901.,171,97.3,False,positional,Hermann Dumler,,,,
-BO0624_88003,524703,43,53,Schwarzwalddorfkapelle. Sonnige Landschaft. Bezeichnet H. D. 1905.,173,97.6,False,positional,Hermann Dumler,,,,
+BO0624_88003,524702,42,52,Februarabend. Landschaft mit Schnee. Bezeichnet H. D. 1901.,171,97.3,False,positional,Hermann Dumler,,,,Sec. XX
+BO0624_88003,524703,43,53,Schwarzwalddorfkapelle. Sonnige Landschaft. Bezeichnet H. D. 1905.,173,97.6,False,positional,Hermann Dumler,,,,Sec. XX
 BO0624_88003,524704,44,54,Das Schneckenhorn. Landschaft aus dem sudlichen,175,96.8,False,positional,Hermann Dumler,,,,
 BO0624_88003,524705,45,55,| Hakelndes Madchen. Bezeichnet.                                           | Holz 37/28     |,181,96.3,False,positional,Rudolf Epp,,OGGETTI IN LEGNO,,
 BO0624_88003,524706,46,58,| Bachlandschaft.                                                          | Leinw.51/80    |,185,94.5,False,positional,Rudolf Epp,,,,
@@ -50,7 +50,7 @@ BO0624_88003,524708,48,60,"| Professor Guiseppe Ferrarini , Rom. Capri di Primav
 BO0624_88003,524709,49,62,"| Madchen an der Quelle.                                                   | Leinw.36,5/29  |",190,95.9,False,positional,Rudolf Epp,,,,
 BO0624_88003,524710,50,63,| Stallinneres.                                                            | Leinw.35/50    |,191,94.1,False,positional,Rudolf Epp,,,,
 BO0624_88003,524711,51,64,Aus Oberbayern. Bezeichnet.                                                                                                     | Leinw.54/43     |,194,96.1,False,positional,M.Freitag,,,,
-BO0624_88003,524712,52,65,"Waldlichtung. Bezeichnet: M. W. Gerretsen 1876 s'Hage.j                                                                         | Leinw.34,5/51,5 |",196,97.8,False,positional,M.Freitag,,,,
+BO0624_88003,524712,52,65,"Waldlichtung. Bezeichnet: M. W. Gerretsen 1876 s'Hage.j                                                                         | Leinw.34,5/51,5 |",196,97.8,False,positional,M.Freitag,,,,Sec. XIX
 BO0624_88003,524713,53,67,Hollandische Landschaft mit verfallenen Hausern.                                                                                | Leinw.27/37     |,198,97.5,False,positional,M.Freitag,,,,
 BO0624_88003,524714,54,69,Inneres einer Scheune bei Antwerpen. Mit Nachlapstempel.                                                                        | Karton 45/53    |,200,97.8,False,positional,M.Freitag,,,,
 BO0624_88003,524715,55,70,Bergschlucht.                                                                                                                   | Leinw.43/28     |,201,94.1,False,positional,M.Freitag,,,,
@@ -78,12 +78,12 @@ BO0624_88003,524736,76,100,| Landschaft mit Windmihle.                          
 BO0624_88003,524737,77,101,| Desgl. Pendant z. Vor.                                                                                                   |                           |,238,90.5,False,positional,,Hollandische Schule,,,
 BO0624_88003,524738,78,102,| Desgl. Blau.                                                                                                             | 6 Kacheln 24/38           |,239,92.9,False,positional,,Hollandische Schule,,,
 BO0624_88003,524739,79,103,| Desgl. Pendant z. Vor.                                                                                                   |                           |,240,90.5,False,positional,,Hollandische Schule,,,
-BO0624_88003,524740,80,106,"| Hermann Frederik Karel ten Kate, 1822-1891, Haag. Mondschein im Walde. Im ruhigen Waldwasser spiegelt sich der Vollmond. |                           |",241,98.3,False,positional,,Hollandische Schule,,,
+BO0624_88003,524740,80,106,"| Hermann Frederik Karel ten Kate, 1822-1891, Haag. Mondschein im Walde. Im ruhigen Waldwasser spiegelt sich der Vollmond. |                           |",241,98.3,False,positional,,Hollandische Schule,,,Sec. XIX
 BO0624_88003,524741,81,109,| Winterlandschaft mit Schlittschuhlaufern. Leinw.35/47                                                                    |                           |,246,96.3,False,positional,,Hollandische Schule,,,
 BO0624_88003,524742,82,110,| Fischer am Chiemsee.                                                                                                     | Leinw.72/58               |,248,93.9,False,positional,,Hollandische Schule,,,
 BO0624_88003,524743,83,111,| Kapelle bei Berchtesgaden.                                                                                               | Leinw.73/25               |,249,94.9,False,positional,,Hollandische Schule,,,
 BO0624_88003,524744,84,112,"| Brustbild eines Herrn.                                                              | Pastell 60/45,5                                                                     |                                                                                     |",252,94.9,False,positional,,Hollandische Schule,,,
-BO0624_88003,524745,85,113,Brustbild einer Dame. Pend. z. Vor. Bezeichnet: gratis pinxit anno domini 1785. | 113 Brustbild einer Dame. Pend. z. Vor. Bezeichnet: gratis pinxit anno domini 1785. | 113 Brustbild einer Dame. Pend. z. Vor. Bezeichnet: gratis pinxit anno domini 1785. | 113 Brustbild einer Dame. Pend. z. Vor. Bezeichnet: gratis pinxit anno domini 1785. |,254,99.4,False,positional,,Hollandische Schule,,,
+BO0624_88003,524745,85,113,Brustbild einer Dame. Pend. z. Vor. Bezeichnet: gratis pinxit anno domini 1785. | 113 Brustbild einer Dame. Pend. z. Vor. Bezeichnet: gratis pinxit anno domini 1785. | 113 Brustbild einer Dame. Pend. z. Vor. Bezeichnet: gratis pinxit anno domini 1785. | 113 Brustbild einer Dame. Pend. z. Vor. Bezeichnet: gratis pinxit anno domini 1785. |,254,99.4,False,positional,,Hollandische Schule,,,Sec. XVIII
 BO0624_88003,524746,86,114,"| Holzsammlerin im Wald.                                                              | Holz 26,5/35                                                                        |                                                                                     |",256,94.4,False,positional,,Hollandische Schule,OGGETTI IN LEGNO,,
 BO0624_88003,524747,87,115,"| Aus Wackersbach.                                                                    | Karton 25,5/28                                                                      |                                                                                     |",257,93.8,False,positional,,Hollandische Schule,,,
 BO0624_88003,524748,88,116,| Im Schatten zwischen Grin. Samtlich mit Nachlassstempel.                            | Karton 15/24                                                                        |                                                                                     |,258,97.1,False,positional,,Hollandische Schule,,,
@@ -106,13 +106,13 @@ BO0624_88003,524764,104,137,"| Stilleben. Auf einem Tisch Silberkorb mit Obst, d
 BO0624_88003,524765,105,138,139 | Landschaft mit Windmihlen. Desgl.Pendant z. Vor. Beide bezeichnet:H. Parson.                            | Leinw.29/40    |,290,97.8,False,positional,Georgius Jacobus Johannes van Os,,,,
 BO0624_88003,524766,106,141,| Landschaft im Spatsommer.                                                                               | Leinw.48/60    |,292,94.7,False,positional,Georgius Jacobus Johannes van Os,,,,
 BO0624_88003,524767,107,142,| Lanaschaft bei Abendaammerung. Beide bezeichnet.                                                        | Leinw.48/60    |,293,96.7,False,positional,Georgius Jacobus Johannes van Os,,,,
-BO0624_88003,524768,108,143,"| Jan Willem Pienemann,1779-1853,Amsterdam. Schweizerlandschaft.                                          | Holz 22/27     |",294,97.3,False,positional,Georgius Jacobus Johannes van Os,,OGGETTI IN LEGNO,,
+BO0624_88003,524768,108,143,"| Jan Willem Pienemann,1779-1853,Amsterdam. Schweizerlandschaft.                                          | Holz 22/27     |",294,97.3,False,positional,Georgius Jacobus Johannes van Os,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88003,524769,109,144,| Wiesenflache. Bezeichnet: Geo Poggenbeet.                                                               | Karton 25/38   |,295,96.2,False,positional,Georgius Jacobus Johannes van Os,,,,
 BO0624_88003,524770,110,145,146 | Schlafende Nymphe und Faune. Diana und Aktaon. Pendant z.Vor.                                           | Holz 26/35     |,296,97.3,False,positional,Georgius Jacobus Johannes van Os,,OGGETTI IN LEGNO,,
 BO0624_88003,524771,111,148,| Stadt-Ansicht. Leinw.60/80 Bezeichnet.                                                |,302,94.7,False,positional,E.Pottner,,,,
 BO0624_88003,524772,112,150,"| Stilleben. Hering, Zitronen und Orangen. Leinw.28/39 Bezeichnet: J. Prinzenberg.      |",305,97.4,False,positional,E.Pottner,,,,
 BO0624_88003,524773,113,151,152 | Auf der Weide. Holz 14/18 Rast.Pendant z. Ver.                                        |,306,95.9,False,positional,E.Pottner,,OGGETTI IN LEGNO,,
-BO0624_88003,524774,114,153,"| August Querfurth,1696-1761,Wien. Episode aus dem 30jahr.Krieg. Holz 54,5/72,5         |",307,97.4,False,positional,E.Pottner,Scuola Viennese,OGGETTI IN LEGNO,,
+BO0624_88003,524774,114,153,"| August Querfurth,1696-1761,Wien. Episode aus dem 30jahr.Krieg. Holz 54,5/72,5         |",307,97.4,False,positional,E.Pottner,Scuola Viennese,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88003,524775,115,155,| Bauernhaus am Walde.Im Vordergrund unter einer Baumgruppe Kanal mit Boot. Leinw.42/62 |,309,97.7,False,positional,E.Pottner,,,,
 BO0624_88003,524776,116,159,Strasse in Rotterdam. In der Ferne sieht man eine Windmuhle. Bezeichnet:A. de la Riviere.   |                                                          | Aquarell 52/39                                       |,315,98.0,False,positional,Adrian de la Riviere,,,,
 BO0624_88003,524777,117,160,Wiese mit Wasser und Windmihle. Bezeichnet.!                                                |                                                          | Aquarell 26/41                                       |,317,96.6,False,positional,Adrian de la Riviere,,,,
@@ -127,7 +127,7 @@ BO0624_88003,524785,125,171,| Marine. Bezeichnet.                               
 BO0624_88003,524786,126,173,"| Alfred von Schonberger , Cronberg. Kirche in Neuyork. Bezeichnet.  | Leinw.59/47    |",336,97.3,False,positional,E.R. D. Schaap,,,,
 BO0624_88003,524787,127,177,|                                                                                                                               | Der heilige Hieronymus mit dem Lowen in der Wuste. Leinw.118/94   |,345,96.9,False,positional,,Spanische Schule,,,
 BO0624_88003,524788,128,178,| Winterlandschaft.                                                                                                             | Holz 20/30                                                        |,347,93.1,False,positional,,Spanische Schule,OGGETTI IN LEGNO,,
-BO0624_88003,524789,129,181,"| Cornelis Thim,1755-1813,Rotterdam. Madchenbildnis. Kniestuck in Landschaft. Leinw.80/63 Riicks. bezeichnet: Thim pincit 1794. |                                                                   |",350,98.3,False,positional,,Spanische Schule,,,
+BO0624_88003,524789,129,181,"| Cornelis Thim,1755-1813,Rotterdam. Madchenbildnis. Kniestuck in Landschaft. Leinw.80/63 Riicks. bezeichnet: Thim pincit 1794. |                                                                   |",350,98.3,False,positional,,Spanische Schule,,,Sec. XVIII
 BO0624_88003,524790,130,182,"| Thoma-Hofele, Munchen. Stilleben. Bezeichnet.                                                                                 | Leinw.46/64                                                       |",351,96.4,False,positional,,Spanische Schule,,,
 BO0624_88003,524791,131,183,"| Desire Thomasin, Munchen. Abendlandschaft mit Fuhrwerk. Bezeichnet.                                                           | Leinw.26/47                                                       |",352,97.4,False,positional,THOMASSIN DESIRE,Spanische Schule,,,
 BO0624_88003,524792,132,185,"| Christi Himmelfahrt. Hollandische Schule des XVIll. Jahrhunderts.                                                             | Aquarell 40,5/30                                                  |",355,97.5,False,title_direct,,Hollandische Schule,,,
@@ -140,7 +140,7 @@ BO0624_88003,524798,138,192,| Pferdeportrat.                                    
 BO0624_88003,524799,139,193,| Desgl. Pendant z.Vor. Beide bezeichnet.                                                                                               |                |,366,94.7,False,positional,,Spanische Schule,,,
 BO0624_88003,524800,140,196,| Heidelandschaft Bezeichnet.                                                                                                           | Leinw.50/70    |,369,95.0,False,positional,,Spanische Schule,,,
 BO0624_88003,524801,141,198,| 8 Inneres einer Bauernstube. Bezeichnet: J.Weiland.                                                                   | Leinw.44/56            |,374,96.8,False,positional,A.van Weiland,,,,
-BO0624_88003,524802,142,199,"| Hendrik Jan Weissenbruch, 1824-1903, Haag. Heidelandschaft mit Wasser. Abendstimmung. Bezeichnet: J. H. Weissenbruch. | Aquarell 32/48         |",375,98.4,False,positional,A.van Weiland,,,,
+BO0624_88003,524802,142,199,"| Hendrik Jan Weissenbruch, 1824-1903, Haag. Heidelandschaft mit Wasser. Abendstimmung. Bezeichnet: J. H. Weissenbruch. | Aquarell 32/48         |",375,98.4,False,positional,A.van Weiland,,,,Sec. XIX
 BO0624_88003,524803,143,200,"201 | Waldlichtung. Gemisegarten.                                                                                           | Leinw.a.Karton 27/38,5 |",376,96.3,False,positional,A.van Weiland,,,,
 BO0624_88003,524804,144,205,"| Haus am Wasser, davor Wascherin. Beide bezeichnet:J. Witgens.                                                         | Leinw.36/31            |",380,97.2,False,positional,A.van Weiland,,,,
 BO0624_88003,524805,145,207,Blick auf die Sebalduskirche in Nurnberg. Aquarell 25/12,382,96.5,False,positional,A.van Weiland,Scuola di Norimberga,,,
@@ -391,7 +391,7 @@ BO0624_88003,525049,389,469,Glasfenster.,777,84.6,False,positional,Willem H. de 
 BO0624_88003,525050,390,470,Relief. St. Sebastian. Ton.,778,92.0,False,positional,Willem H. de Zwart,,,,
 BO0624_88003,525051,391,471,Becher. Bronze getrieben.,779,92.0,False,positional,Willem H. de Zwart,,VASI,,
 BO0624_88003,525052,392,472,Etui mit Miniaturen.,780,90.5,False,positional,Willem H. de Zwart,,MINIATURE,,
-BO0624_88003,525053,393,473,Fayencekrug mit Jahreszahl 1827.,781,93.9,False,positional,Willem H. de Zwart,,,,
+BO0624_88003,525053,393,473,Fayencekrug mit Jahreszahl 1827.,781,93.9,False,positional,Willem H. de Zwart,,,,Sec. XIX
 BO0624_88003,525054,394,474,- 475 Zwei Fayencekannchen. Gelb.,783,100.0,False,positional,Willem H. de Zwart,,,,
 BO0624_88003,525055,395,476,Platte. Achteckig mit Blumendekor. China.,785,95.0,False,positional,Willem H. de Zwart,,,,
 BO0624_88003,525056,396,478,478,787,100.0,False,positional,Willem H. de Zwart,,,,

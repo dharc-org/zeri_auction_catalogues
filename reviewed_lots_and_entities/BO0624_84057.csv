@@ -113,7 +113,7 @@ BO0624_84057,714216,111,154,## ROSALBA,2302,100.0,False,title_direct,ROSALBA,,,,
 BO0624_84057,714217,112,155,## RUSSELL,2319,100.0,False,title_direct,RUSSELL,,,,
 BO0624_84057,714218,113,156,## SAINT-AUBIN,2334,100.0,False,title_direct,SAINT-AUBIN,,,,
 BO0624_84057,714219,114,158,La Porte du chateau de Chailot.,2367,93.8,False,positional,SAINT-AUBIN,,,,
-BO0624_84057,714220,115,159,La Promenade en traineau. 1818.,2382,84.2,False,positional,SAINT-AUBIN,,,,
+BO0624_84057,714220,115,159,La Promenade en traineau. 1818.,2382,84.2,False,positional,SAINT-AUBIN,,,,Sec. XIX
 BO0624_84057,714221,116,160,—La Famille royale.,2404,89.5,False,positional,SAUVAGE,,,,
 BO0624_84057,714222,117,161,Les Apprets de la maternite.,2417,93.1,False,positional,SCHENEAU,,,,
 BO0624_84057,714223,118,162,Le Nouveau-ne.,2423,86.7,False,positional,SCHENEAU,,,,
@@ -128,13 +128,13 @@ BO0624_84057,714231,126,174,## ECOLE FRANCAISE,2612,100.0,False,title_direct,,EC
 BO0624_84057,714232,127,177,## ECOLE FRANCAISE,2628,100.0,False,title_direct,,ECOLE FRANCAISE,,,
 BO0624_84057,714233,128,176,Le Droit du seigneur.,2643,90.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84057,714234,129,I,ncendie a la fete des Loges.,2655,98.2,False,positional,,ECOLE FRANCAISE,,,
-BO0624_84057,714235,130,1710,1795.,2674,61.5,False,positional,ALLEGRAIN,,,,
-BO0624_84057,714236,131,178,Bacchante. 1814.,2676,66.7,False,positional,ALLEGRAIN,,,,
+BO0624_84057,714235,130,1710,1795.,2674,61.5,False,positional,ALLEGRAIN,,,,Sec. XVIII
+BO0624_84057,714236,131,178,Bacchante. 1814.,2676,66.7,False,positional,ALLEGRAIN,,,,Sec. XIX
 BO0624_84057,714237,132,179,Leda et le Cygne.,2687,88.9,False,positional,CLODION,,,,
 BO0624_84057,714238,133,180,--Le Satyre et son fils.,2696,91.3,False,positional,CLODION,,,,
 BO0624_84057,714239,134,181,L'Innocence.,2704,84.6,False,positional,CLODION,,,,
 BO0624_84057,714240,135,182,—Le Faune aux marmousets.,2712,92.0,False,positional,CLODION,,,,
-BO0624_84057,714241,136,183,—Jeune fille. 1733.,2727,71.0,False,positional,COUASNON,,,,
+BO0624_84057,714241,136,183,—Jeune fille. 1733.,2727,71.0,False,positional,COUASNON,,,,Sec. XVIII
 BO0624_84057,714242,137,184,—Portrait d'une princesse royale.,2741,93.9,False,positional,COUSTOU,,,,
 BO0624_84057,714243,138,185,—— Jacques-Benigne Bossuet.,2750,92.0,False,positional,COYSEVOX,,,,
 BO0624_84057,714244,139,186,Portrait d'un magistrat.,2759,92.0,False,positional,COYSEVOX,,,,
@@ -143,15 +143,15 @@ BO0624_84057,714246,141,I,"l existe plusieurs exemplaires signes de cette ceuvre
 BO0624_84057,714247,142,190,161,2798,100.0,False,positional,HOUDON,,,,
 BO0624_84057,714248,143,192,## HOUDON,2802,100.0,False,title_direct,HOUDON,,,,
 BO0624_84057,714249,144,193,Prosper Jolyot de Crebillon.,2835,93.1,False,positional,LEMOYNE,,,,
-BO0624_84057,714250,145,194,## MARIN 1834.,2842,66.7,False,title_direct,MARIN,,,,
+BO0624_84057,714250,145,194,## MARIN 1834.,2842,66.7,False,title_direct,MARIN,,,,Sec. XIX
 BO0624_84057,714251,146,195,La Citoyenne Briqueville.,2861,92.3,False,positional,MARIN,,,,
 BO0624_84057,714252,147,196,Bacchanale.,2873,83.3,False,positional,MARIN,,,,
 BO0624_84057,714253,148,197,Buste de femme.,2881,87.5,False,positional,MARIN,,,,
-BO0624_84057,714254,149,1730,1809.,2892,61.5,False,positional,PAJOU,,,,
+BO0624_84057,714254,149,1730,1809.,2892,61.5,False,positional,PAJOU,,,,Sec. XIX
 BO0624_84057,714255,150,199,Barry.,2903,71.4,False,positional,PAJOU,,,,
 BO0624_84057,714256,151,200,一,2916,33.3,False,positional,PAJOU,,,,
 BO0624_84057,714257,152,202,## PAJOU,2926,100.0,False,title_direct,PAJOU,,,,
-BO0624_84057,714258,153,1524,1608.,2936,61.5,False,positional,BOLOGNE,,,,
+BO0624_84057,714258,153,1524,1608.,2936,61.5,False,positional,BOLOGNE,,,,Sec. XVII
 BO0624_84057,714259,154,201,Un fleuve.,2938,81.8,False,positional,BOLOGNE,,,,
 BO0624_84057,714260,155,1,Deux cherubins.,2948,93.3,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84057,714261,156,203,204,2963,66.7,False,positional,,ECOLE FRANCAISE,,,

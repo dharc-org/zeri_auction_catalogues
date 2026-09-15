@@ -1,13 +1,13 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88730,608066,1,2,ANTWERPENER MEISTERVOM ENDE DES 16.JAHRHUNDERTS,19,97.9,False,title_direct,,ANTWERPENER MEISTER,,,
 BO0624_88730,608067,2,I,TALIENISIERENDE FLUSSLAND,40,98.0,False,positional,JAN ASSELYN,,,,
-BO0624_88730,608068,3,5,BAYERISCHER MEISTER UM 1520,49,96.4,False,title_direct,,BAYERISCHER MEISTER,,,
+BO0624_88730,608068,3,5,BAYERISCHER MEISTER UM 1520,49,96.4,False,title_direct,,BAYERISCHER MEISTER,,,Sec. XVI
 BO0624_88730,608069,4,8,HENDR.HENDRICKSZ BOGAERT n einer Bauernwirtshaft mit grobem Kamin ein tanzender junger,98,83.8,False,title_direct,HENDR. HENDRICKSZ BOGAERT,,CAMINI,,
 BO0624_88730,608070,5,9,## BOLOGNESER MEISTER DER MITTE DES17.JAHRHUNDERTS,111,100.0,False,title_direct,,BOLOGNESER MEISTER,,,
 BO0624_88730,608071,6,10,CARLO BONONI,119,88.9,False,title_direct,CARLO BONONI,,,,
 BO0624_88730,608072,7,I,"n einer duster gehaltenen Landschaft die beiden Figuren. Antonius kniet, auf einen Stabzweig gestutzt,vor der Leihe des von links nah rechts hingestreckt liegenden Gefahrten, dessen Arme gekreuzt und dessen Schultern und Leib ein dunkelkarmoisin-farbenes Gewand um= hullt. Linkerhand zwei Lowen.",127,99.8,False,positional,CARLO BONONI,,,,
 BO0624_88730,608073,8,12,## PHANTASIELANDSCHAFT MIT,148,100.0,False,positional,PIETER BOUT,,,,
-BO0624_88730,608074,9,14,"Maler aus Antwerpen, tatig in Italien Anfang des 17. Jahrhunderts.",165,100.0,False,positional,PIETER BOUT,,,,
+BO0624_88730,608074,9,14,"Maler aus Antwerpen, tatig in Italien Anfang des 17. Jahrhunderts.",165,100.0,False,positional,PIETER BOUT,,,,Sec. XVII
 BO0624_88730,608075,10,16,## PAUL BRILL,206,100.0,False,title_direct,PAUL BRILL,,,,
 BO0624_88730,608076,11,17,An dem Hedk des Dreimasters vorn links die Buhstaben B. P.,217,100.0,False,positional,PAUL BRILL,,,,
 BO0624_88730,608077,12,18,ANTWERPENER MEISTERUM1520,242,96.2,False,title_direct,,ANTWERPENER MEISTER,,,
@@ -17,8 +17,8 @@ BO0624_88730,608080,15,22,LUKAS CRANACH NACHFOLGE,309,93.9,False,title_direct,CR
 BO0624_88730,608081,16,23,"ANTHONYJANSZVANDER CROOS nteressant ist die wohlgelungene perspektivische Verkurzung der Baume, die das rechte Flubufer einsaumen. Eine Kuhherde treibt auf dem anderen Ufer,an einem Wegweiser vorbei, dem Vordergrunde zu.",322,93.6,False,title_direct,ANTHONY JANSZ VAN DER CROOS,,,,
 BO0624_88730,608082,17,24,"## DIRCKVANDELEN n grobzugiger Architektur baut sich vor dem Blicdk des Beshauers eine saulengetragene, mactige Halle auf,wahrend links eine Freitreppe mit Portal, in das Innere des Gebaudes fuhrend, zu sehen ist. Vorn zwei Paare in der Tradt der Zeit, gefolgt von einem Windspiel und einem Diener in rotem Wams,welher einen Degen tragt.Durh die Halle Blidk auf eine Lauben=Architektur.Die verhaltnismabig weichen Farben sind von gehaltvoller Tonigkeit; insbesondere ist auf die feine Beobachtung des von rudwarts einfallenden, sic mahlic nah vorn verteilenden",338,98.8,False,title_direct,DIRCK VAN DELEN,,,,
 BO0624_88730,608083,18,25,DEUTSCHER BILDNISMALER,347,93.6,False,title_direct,,DEUTSCHER BILDNISMALER,,,
-BO0624_88730,608084,19,26,DONAUSCHULE 1556,355,91.4,False,title_direct,,DONAUSCHULE,,,
-BO0624_88730,608085,20,27,## DONAUSCHULE UM 1560,367,100.0,False,title_direct,,DONAUSCHULE,,,
+BO0624_88730,608084,19,26,DONAUSCHULE 1556,355,91.4,False,title_direct,,DONAUSCHULE,,,Sec. XVI
+BO0624_88730,608085,20,27,## DONAUSCHULE UM 1560,367,100.0,False,title_direct,,DONAUSCHULE,,,Sec. XVI
 BO0624_88730,608086,21,29,## GASPARD DUGHET,398,100.0,False,title_direct,GASPARD DUGHET,,,,
 BO0624_88730,608087,22,I,DYLLISCHELANDSCHAFT,402,97.4,False,positional,GASPARD DUGHET,,,,
 BO0624_88730,608088,23,31,## CORNELIS DUSART,413,100.0,False,title_direct,CORNELIS DUSART,,,,
@@ -29,8 +29,8 @@ BO0624_88730,608092,27,33,"FLAEMISCHER BAUERNMALER n dem nah vorne offenen Raum 
 BO0624_88730,608093,28,34,FLAEMISCHER BAUERNMALER,461,93.9,False,title_direct,,FLAEMISCHER BAUERNMALER,,,
 BO0624_88730,608094,29,35,"FLAEMISCHESHAUSALTARCHEN UM1490 m Mittelschrein die Verkundigung, auf dem linken Seitenflugel der hei= lige Hieronymus,auf dem rechten Seitenflugel der heilige Christophorus mit dem Jesusknaben. Die Verkundigung ist der Auffassung der Zeit entsprechend in ein Zimmer verlegt,das durch ein halbvergittertesFenster aufgehellt wird. Maria kniet in Vorderansicht,von einem faltenreichen rotfarbenen Mantel umrauscht, vor dem grun ausgeschlagenen Himmel bett. Sie hat die Linke als Gebarde der Verwunderung vor die Brust gelegt. Links von ihr die schlanke Figur des jugendlicden Engels Ga= briel, der in ein weibblaulices Gewand mit groben Rohrenfalten ge= kleidet ist. Auf der Truhenbank vor dem Fenster Lilien in einer Vase. Hieronymus kniet in weiBem Bubergewand vor dem an einem Baum befestigten kleinen Kruzifix.Vor ihm der Lowe und sein tiefrot far=",477,98.1,False,title_direct,,,VASI,,
 BO0624_88730,608095,30,36,FLAEMISCHER MEISTER UM1530,490,96.3,False,title_direct,,FLAEMISCHER MEISTER,,,
-BO0624_88730,608096,31,37,FLAEMISCHER MEISTER UM 1530,500,96.4,False,title_direct,,FLAEMISCHER MEISTER,,,
-BO0624_88730,608097,32,38,FLAEMISCHER MEISTER UM 1600,507,96.4,False,title_direct,,FLAEMISCHER MEISTER,,,
+BO0624_88730,608096,31,37,FLAEMISCHER MEISTER UM 1530,500,96.4,False,title_direct,,FLAEMISCHER MEISTER,,,Sec. XVI
+BO0624_88730,608097,32,38,FLAEMISCHER MEISTER UM 1600,507,96.4,False,title_direct,,FLAEMISCHER MEISTER,,,Sec. XVII
 BO0624_88730,608098,33,39,FLAEMISCHER MEISTER DES SPATEN17.JAHRHUNDERTS,519,96.8,False,title_direct,,FLAEMISCHER MEISTER,,,
 BO0624_88730,608099,34,40,41,534,100.0,False,positional,,FLAEMISCHER SITTENMALER,,,
 BO0624_88730,608100,35,42,einem Felsen am linken Bildrand zu sehen. Fur die Figuren begegnen bei Anwendung weicher heller Lasuren als Farben Rot und Blaugrun. Fohrenholz.Nach oben rundbogig abgesclossen.,538,100.0,False,positional,,FLAEMISCHER SITTENMALER,,,
@@ -61,13 +61,13 @@ BO0624_88730,608124,59,68,LOMBARDISCHE SCHULE DES 16.JAHRHUNDERTS,878,96.3,False
 BO0624_88730,608125,60,70,## PIETROLONGHI,887,100.0,False,title_direct,PIETRO LONGHI,,,,
 BO0624_88730,608126,61,71,BARENDVANDER MEER,909,91.9,False,title_direct,BAREND VAN DER MEER,,,,
 BO0624_88730,608127,62,72,JAN BAPTISTEVAN DER MEIREN n einer von Pulverdampf dem Blidk zumeist entzogenen Landschaft tobt ein wilder Reiterkampf. Besonders sticht ein Offizier hervor in langem blauem Rok auf einem nach hinten ausschlagenden Schimmel.,928,93.8,False,title_direct,JAN BAPTISTE VAN DER MEIREN,,,,
-BO0624_88730,608128,63,73,"geboren zu Delft 1567, gestorben 1641 daselbst.",953,100.0,False,positional,JAN MIEL,,,,
+BO0624_88730,608128,63,73,"geboren zu Delft 1567, gestorben 1641 daselbst.",953,100.0,False,positional,JAN MIEL,,,,Sec. XVI
 BO0624_88730,608129,64,75,MITTELRHEINISCHER MEISTER,969,94.3,False,title_direct,,MITTELRHEINISCHER MEISTER,,,
 BO0624_88730,608130,65,77,FRANSDE MOMPER,1002,90.3,False,title_direct,FRANS DE MOMPER,,,,
 BO0624_88730,608131,66,79,## MONOGRAMMIST HC.IN.,1035,100.0,False,title_direct,MONOGRAMMIST HC.IN.,,,,
-BO0624_88730,608132,67,811,NIEDERDEUTSCHER MEISTER UM 1500,1068,93.9,False,title_direct,,NIEDERDEUTSCHER MEISTER,,,
+BO0624_88730,608132,67,811,NIEDERDEUTSCHER MEISTER UM 1500,1068,93.9,False,title_direct,,NIEDERDEUTSCHER MEISTER,,,Sec. XVI
 BO0624_88730,608133,68,82,NIEDERLANDISCHER MALER,1081,95.7,False,title_direct,,NIEDERLANDISCHER MALER,,,
-BO0624_88730,608134,69,83,NIEDERLANDISCHER MEISTER UM 1550,1093,95.5,False,title_direct,,NIEDERLANDISCHER MEISTER,,,
+BO0624_88730,608134,69,83,NIEDERLANDISCHER MEISTER UM 1550,1093,95.5,False,title_direct,,NIEDERLANDISCHER MEISTER,,,Sec. XVI
 BO0624_88730,608135,70,84,NIEDERLANDISCHER MEISTER DES 16.JAHRHUNDERTS,1104,96.7,False,title_direct,,NIEDERLANDISCHER MEISTER,,,
 BO0624_88730,608136,71,85,OBERITALIENISCHER MEISTER DES 17.JAHRHUNDERTS,1112,96.8,False,title_direct,,ITALIENISCHER MEISTER,,,
 BO0624_88730,608137,72,86,89,1133,100.0,False,positional,W. OTTO,,,,
@@ -78,7 +78,7 @@ BO0624_88730,608141,76,91,NICOLAS POUSSIN &lt;UMKREIS&gt;,1193,95.1,False,title_
 BO0624_88730,608142,77,92,JOHANNROTTENHAMMER,1205,92.3,False,title_direct,JOHANN ROTTENHAMMER,,,,
 BO0624_88730,608143,78,1644,in der Gilde zu Middelburg,1216,91.2,False,positional,FRANCOIS RYCKHALS,,,,
 BO0624_88730,608144,79,I,"n reizvoller Art sind links im Vordergrund Kruge verschiedener Art, ein Kupfergefab, ein Fab, ein Strohhut und zwei grobe Krautkopfe zu einer malerischen Gruppe zusammengesclossen. Dahinter hantieren zwei Bauern. Vorne rehts eine kauernde Ziege.",1222,99.8,False,positional,FRANCOIS RYCKHALS,,OGGETTI VARI,,
-BO0624_88730,608145,80,94,SALZBURGER MEISTER UM 1480,1230,94.5,False,title_direct,,SALZBURGER MEISTER,,,
+BO0624_88730,608145,80,94,SALZBURGER MEISTER UM 1480,1230,94.5,False,title_direct,,SALZBURGER MEISTER,,,Sec. XV
 BO0624_88730,608146,81,97,## JANVAN DE SANDE,1241,100.0,False,title_direct,JAN VAN DE SANDE,,,,
 BO0624_88730,608147,82,96,GOTTFRIEDSCHALCKEN,1253,92.3,False,title_direct,GOTTFRIED SCHALCKEN,,,,
 BO0624_88730,608148,83,I,"n dunklem Raum eine aus einem Bud lesende Frau, neben welher ein junger Mann mit brennender Kerze.",1259,99.5,False,positional,GOTTFRIED SCHALCKEN,,,,
@@ -86,15 +86,15 @@ BO0624_88730,608149,84,I,"n einer Grotte, als Halbfigur sichtbar, die vor einem 
 BO0624_88730,608150,85,98,CHRISTIAN GEORG SCHuTZ D.J.,1276,94.5,False,title_direct,CHRISTIAN GEORG SCHUTZ D.J.,,,,
 BO0624_88730,608151,86,99,CHRISTIAN GEORG SCHUTZ D.J.,1286,94.5,False,title_direct,CHRISTIAN GEORG SCHUTZ D.J.,,,,
 BO0624_88730,608152,87,100,SCHWABISCHER MEISTERUM1450,1298,94.5,False,title_direct,,SCHWABISCHER MEISTER,,,
-BO0624_88730,608153,88,101,SCHWABISCHER MEISTERUM 1560&lt;?&gt;,1311,95.7,False,title_direct,,SCHWABISCHER MEISTER,,,
+BO0624_88730,608153,88,101,SCHWABISCHER MEISTERUM 1560&lt;?&gt;,1311,95.7,False,title_direct,,SCHWABISCHER MEISTER,,,Sec. XVI
 BO0624_88730,608154,89,102,SCHWABISCHER SIPPENMEISTER UM1510 ) einzugruppieren.,1317,76.7,False,title_direct,,SCHWABISCHER SIPPENMEISTER,,,
 BO0624_88730,608155,90,103,HENDRIK SCHWEGMANN,1330,90.0,False,title_direct,HENDRIK SCHWEGMANN,,,,
 BO0624_88730,608156,91,104,BALTHASAR VAN SEMENS,1346,90.9,False,title_direct,BALTHASAR VAN SEMENS,,,,
 BO0624_88730,608157,92,105,## FRANS SNYDERS,1363,100.0,False,title_direct,FRANS SNYDERS,,,,
-BO0624_88730,608158,93,106,SPANISCHER MEISTER UM 1650,1379,92.9,False,title_direct,,SPANISCHER MEISTER,,,
+BO0624_88730,608158,93,106,SPANISCHER MEISTER UM 1650,1379,92.9,False,title_direct,,SPANISCHER MEISTER,,,Sec. XVII
 BO0624_88730,608159,94,108,## SPANISCHER MEISTER DES 17.JAHRHUNDERTS,1388,100.0,False,title_direct,,SPANISCHER MEISTER,,,
 BO0624_88730,608160,95,109,STILLEBEN-MALERDERZWEITEN,1406,94.3,False,title_direct,,STILLEBEN-MALER,,,
-BO0624_88730,608161,96,110,STILLEBEN-MALER DESSPATEN 18.JAHRHUNDERTS SUDDEUTSCHER MEISTER DER Das Darstellungsmotiv ist dem Holzschnitt B.94 vom Jahre 1520 von Albrecht Durer entnommen. Der Eindrudk des Bildes ist durdh die Nahdunklung der spateren Firnisschihten beeintrachtigt.,1452,84.5,False,title_direct,DURER ALBRECHT,STILLEBEN-MALER,,,
+BO0624_88730,608161,96,110,STILLEBEN-MALER DESSPATEN 18.JAHRHUNDERTS SUDDEUTSCHER MEISTER DER Das Darstellungsmotiv ist dem Holzschnitt B.94 vom Jahre 1520 von Albrecht Durer entnommen. Der Eindrudk des Bildes ist durdh die Nahdunklung der spateren Firnisschihten beeintrachtigt.,1452,84.5,False,title_direct,DURER ALBRECHT,STILLEBEN-MALER,,,Sec. XVI
 BO0624_88730,608162,97,113,HERMANN SWANEVELT TALIENISIERENDELANDSCHAFT,1458,72.5,False,title_direct,HERMANN SWANEVELT,,,,
 BO0624_88730,608163,98,114,DAVID TENIERSDER JUNGERE,1470,92.3,False,title_direct,DAVID TENIERS DER JUNGERE,,,,
 BO0624_88730,608164,99,115,GIOVANNI BATTISTA TIEPOLO,1487,92.6,False,title_direct,GIOVANNI BATTISTA TIEPOLO,,,,

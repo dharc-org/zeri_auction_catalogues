@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83687,68239,1,1,"CrucHE en terre émaillee de Munich, decoree au pourtour de divinites de la fable en relief et portant la date de 1663.",14,99.1,False,positional,,,CERAMIQUE,,
+BO0624_83687,68239,1,1,"CrucHE en terre émaillee de Munich, decoree au pourtour de divinites de la fable en relief et portant la date de 1663.",14,99.1,False,positional,,,CERAMIQUE,,Sec. XVII
 BO0624_83687,68240,2,2,- — CrucHE en gres gris et bleu de Raeren a bec orné d'un mascaron. xvn. siecle.,16,100.0,False,positional,,,CERAMIQUE,,
 BO0624_83687,68241,3,3,Deux sTATuETTEs en terre cuite émaillee blanc:Homme,17,98.1,False,positional,,,CERAMIQUE,,
 BO0624_83687,68242,4,4,一 par sainte Anne et les noms de : Anne Bajon. Rouen.,20,99.0,False,positional,,,CERAMIQUE,,
@@ -44,7 +44,7 @@ BO0624_83687,68280,42,44,"— Coupe du xvr siecle, en forme de coquille, avec an
 BO0624_83687,68281,43,45,"AuTRE coupe du xvi siecle, de forme oblongue, decorée d'ornements graves en creux. Cristal de roche. Le pied, qui a éte rapporte, est forme d'une statuette cn cuivre argenté, montee sur une plaque de cristal de roche de travail moderne.",84,99.3,False,positional,,,OGGETTI VARI,,
 BO0624_83687,68282,44,46,Deux PETITs FLAMBEAux composes de pieces d'enfilage en cristal de roche reliees par une monture d'argent. Cristal de roche.xvine siecle.,85,98.9,False,positional,,,TORCE,,
 BO0624_83687,68283,45,47,— PETIT GRoupE en ivoire : le Christ a la colonne. xvn siecle.,89,97.4,False,positional,,,IVOIRES,,
-BO0624_83687,68284,46,48,"- Bas-RELiEF cambre, representant Venus et 1'Amour. Ivoire. xvn siecle. Le sujet a éte execute dans l'interieur de la defense d'ivoire.",90,98.8,False,positional,,,ARREDAMENTI,,
+BO0624_83687,68284,46,48,"- Bas-RELiEF cambre, representant Venus et 1'Amour. Ivoire. xvn siecle. Le sujet a éte execute dans l'interieur de la defense d'ivoire.",90,98.8,False,positional,,,ARREDAMENTI,,Sec. XIV
 BO0624_83687,68285,47,49,"— Groupe de deux figures, ivoire: Saint en adoration devant un ange sur des nuages, executes en nacre avec tetes de cherubins rapportees en ivoire. Socle en ivoire, jaspe, nacre",91,99.1,False,positional,,,IVOIRES,,
 BO0624_83687,68286,48,50,"GroupE, ivoire:la Vierge assise sur son trone et tenant 1'Enfant Jesus debout sur sa jambe gauche. Espagne. xvhle",93,98.7,False,positional,,,IVOIRES,,
 BO0624_83687,68287,49,51,"GroupE, ivoire, portant le monogramme A. G. et la date 16o5. — La Vierge debout et drapee tient son divin fils nu,",95,98.6,False,positional,,,IVOIRES,,
@@ -74,7 +74,7 @@ BO0624_83687,68310,72,77,"—— STATuETTE en terre cuite, de personnage barbu, 
 BO0624_83687,68311,73,78,— Deux GRoupes en terre cuite : Enlevements. xvinr siecle.,137,97.2,False,positional,,,OGGETTI VARI,,
 BO0624_83687,68312,74,79,— STATuETTE en terre cuite : Vestale aupres d'un autel. Epoque Louis XVI.,138,97.8,False,positional,,,TERRES CUITES,,
 BO0624_83687,68313,75,8,"o—PAIRE DE vAsEs en terre cuite, de forme Medicis, decores",139,99.1,False,positional,,,VASI,,
-BO0624_83687,68314,76,81,"QuATRE sTATUETTEs d'enfants, assis en diverses attitudes. Ils sont signes: Tiazzi 1786.",141,98.2,False,positional,,,OGGETTI VARI,,
+BO0624_83687,68314,76,81,"QuATRE sTATUETTEs d'enfants, assis en diverses attitudes. Ils sont signes: Tiazzi 1786.",141,98.2,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_83687,68315,77,82,"SrATuETTE en terre cuite:le Printemps sous les traits d'une femme, tenant une corbeille dans la main gauche. Signe A.Thomay (?). Fin du xvinl siecle.",142,99.3,False,positional,,,TERRES CUITES,,
 BO0624_83687,68316,78,83,"GroupE en terre cuite, du xvin siecle:1Enlevement d'Europe.",143,97.4,False,positional,,,TERRES CUITES,,
 BO0624_83687,68317,79,84,Deux sTATuETTEs en terre cuite :Diane et Venus.,144,97.8,False,positional,,,TERRES CUITES,,

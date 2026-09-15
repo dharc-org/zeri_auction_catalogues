@@ -1,8 +1,8 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88088,459588,1,1,- 2 Umrisse zu Schillers Werken von Nissle.,49,100.0,False,positional,Felix Fleischhauer,,,,
 BO0624_88088,459589,2,3,## Bucher.,52,100.0,False,title_direct,BOUCHER FRANCOIS,,Bucher,,
-BO0624_88088,459590,3,4,Stuttgart seit 25 Jahren von Wochner. 1871.,56,97.6,False,title_direct,,Stuttgart,,,
-BO0624_88088,459591,4,5,Jahresbericht der polytechnischen Hochschule mit Abbildungen des Lusthauses in Stuttgart. 1869.,57,98.9,False,title_direct,,Stuttgart,,,
+BO0624_88088,459590,3,4,Stuttgart seit 25 Jahren von Wochner. 1871.,56,97.6,False,title_direct,,Stuttgart,,,Sec. XIX
+BO0624_88088,459591,4,5,Jahresbericht der polytechnischen Hochschule mit Abbildungen des Lusthauses in Stuttgart. 1869.,57,98.9,False,title_direct,,Stuttgart,,,Sec. XIX
 BO0624_88088,459592,5,6,"- 7 Schwaben, wie es isst und trinkt. 4 Hefte.  Inhalt: Das Schlachtfest zu Strimpfelbach, das Cannstatter Volksfest und die Redoute zu Stuttgart. 184445.",59,100.0,False,title_direct,,Stuttgart,,,
 BO0624_88088,459593,6,9,9,62,100.0,False,positional,DE MOMPER JODOCUS,,Bucher,,
 BO0624_88088,459594,7,10,"Sattler, Geschichte Wuirttembergs. 10 verschiedene Bde.",64,97.2,False,positional,,,Bucher,,
@@ -13,14 +13,14 @@ BO0624_88088,459598,11,14,- 15 5 verschiedene Bicher.,71,100.0,False,positional,
 BO0624_88088,459599,12,16,"Nagler, Kinstlerlexikon. 3 Bde.",73,94.9,False,positional,,,Bucher,,
 BO0624_88088,459600,13,17,Nurnberger Friedensexekutions-Handlungen und Geschichte.,74,97.3,False,positional,,,Bucher,,
 BO0624_88088,459601,14,18,Ansichten von Frankfurt a. M.,77,94.7,False,title_direct,,Frankfurt a. M.,Ansichten,,
-BO0624_88088,459602,15,19,Alte Bibel mit Silberschloss. 1758.,78,95.7,False,positional,,,Bucher,,
+BO0624_88088,459602,15,19,Alte Bibel mit Silberschloss. 1758.,78,95.7,False,positional,,,Bucher,,Sec. XVIII
 BO0624_88088,459603,16,21,21,80,100.0,False,positional,,,Bucher,,
 BO0624_88088,459604,17,22,Dore-Bibel. 2 Bde. Katholische Ausgabe. Kunsteinbande.,83,97.1,False,positional,,,Bucher,,
 BO0624_88088,459605,18,23,1 Album mit eingeklebten Bildern.,84,95.5,False,positional,,,Bucher,,
 BO0624_88088,459606,19,24,Theodor Schuiz-Album.,85,93.0,False,positional,,,Bucher,,
 BO0624_88088,459607,20,24,a Chronik der Truchsessen von Waldburg-Zeil. 2 Bde. Mit,86,98.1,False,positional,,,Bucher,,
 BO0624_88088,459608,21,24,b 47 Kupferstiche und Holzschnitte aus der Sammlung der Konigin,88,98.4,False,title_direct,,,Kupfer,COLLEZIONE DELLA REGINA DESIDERIA,
-BO0624_88088,459609,22,24,"c Abbildungen der Rindvieh- und andern Haustierrassen aus den Privatguitern des Konigs von Wurttemberg, von Weckherlin.1824. 5 Exemplare. d Der Totentanz in der Marienkirche in Berlin, von Pruifer.",90,81.6,False,positional,,Scuola di Berlino,Bucher,,
+BO0624_88088,459609,22,24,"c Abbildungen der Rindvieh- und andern Haustierrassen aus den Privatguitern des Konigs von Wurttemberg, von Weckherlin.1824. 5 Exemplare. d Der Totentanz in der Marienkirche in Berlin, von Pruifer.",90,81.6,False,positional,,Scuola di Berlino,Bucher,,Sec. XIX
 BO0624_88088,459610,23,25,Laufer mit Stickerei und Goldbrokat.,95,95.9,False,positional,,,Kirchliche Stoffe; Brokate,,
 BO0624_88088,459611,24,26,- 27 66,97,100.0,False,positional,,,Kirchliche Stoffe; Brokate,,
 BO0624_88088,459612,25,28,1 Stick Goldbrokat.,100,92.3,False,positional,,,Kirchliche Stoffe; Brokate,,
@@ -90,10 +90,10 @@ BO0624_88088,459675,88,104,2 Netzschisselchen.,210,90.0,False,positional,,,Zinn,
 BO0624_88088,459676,89,105,- 6 Salzgefasse.,212,100.0,False,positional,,,Zinn,,
 BO0624_88088,459677,90,106,- Diverse Bauernknopfe.,214,100.0,False,positional,,,Zinn,,
 BO0624_88088,459678,91,107,3 runde flache Teller.,215,91.3,False,positional,,,Zinn,,
-BO0624_88088,459679,92,108,- 1 runder flacher Teller mit alt-graviertem Hirsch. 1762.,217,100.0,False,positional,,,Zinn,,
+BO0624_88088,459679,92,108,- 1 runder flacher Teller mit alt-graviertem Hirsch. 1762.,217,100.0,False,positional,,,Zinn,,Sec. XVIII
 BO0624_88088,459680,93,109,4 Rosenteller.,218,86.7,False,positional,,,Zinn,,
 BO0624_88088,459681,94,110,2 runde Zinnplatten.,219,90.5,False,title_direct,,,Zinn,,
-BO0624_88088,459682,95,111,Grosse Zinnplatte. 1780.,220,91.7,False,title_direct,,,Zinn,,
+BO0624_88088,459682,95,111,Grosse Zinnplatte. 1780.,220,91.7,False,title_direct,,,Zinn,,Sec. XVIII
 BO0624_88088,459683,96,112,2 grosse gravierte Platten mit Esslingen und Urach.,221,96.2,False,positional,,,Zinn,,
 BO0624_88088,459684,97,112,a Barockzinnschissel mit reicher Verzierung. Sehr schon!,222,97.3,False,positional,,,Zinn,,
 BO0624_88088,459685,98,112,b Nussstander.,223,89.7,False,positional,,,Zinn,,
@@ -127,7 +127,7 @@ BO0624_88088,459712,125,134,"""",278,0.0,False,positional,,,Zitzenhauser Tonfigu
 BO0624_88088,459713,126,135,Kuhhandel.,279,81.8,False,positional,,,Zitzenhauser Tonfiguren,,
 BO0624_88088,459714,127,136,- Affenkapelle. 12 Stick.,281,100.0,False,positional,,,Zitzenhauser Tonfiguren,,
 BO0624_88088,459715,128,137,Musikkapelle. 12 Stick.,282,91.3,False,positional,,,Zitzenhauser Tonfiguren,,
-BO0624_88088,459716,129,138,Backerzunftlampe 1792. Bronze.,286,93.3,False,title_direct,,,Bronzen,,
+BO0624_88088,459716,129,138,Backerzunftlampe 1792. Bronze.,286,93.3,False,title_direct,,,Bronzen,,Sec. XVIII
 BO0624_88088,459717,130,139,2 Bronzeleuchter.,287,88.9,False,title_direct,,,Bronzen,,
 BO0624_88088,459718,131,140,Indische Messingtablette.,288,92.3,False,title_direct,,,Messing,,
 BO0624_88088,459719,132,141,"- Kupfernes Handwaschgefass, getrieben.",290,100.0,False,title_direct,,,Kupfer,,
@@ -217,7 +217,7 @@ BO0624_88088,459802,215,218,- Krigchen mit Marke Ludwigsburg.,422,100.0,False,po
 BO0624_88088,459803,216,219,Krug mit blauer Malerei. Marke Ludwigsburg.,423,95.3,False,positional,,Manifattura di Ludwigsburg,Fayencen,,
 BO0624_88088,459804,217,220,"Grosse Platte, bemalt.",424,90.9,False,positional,,,Fayencen,,
 BO0624_88088,459805,218,221,Platte mit Malerei.,425,90.0,False,positional,,,Fayencen,,
-BO0624_88088,459806,219,222,"Teekessel. 1800. """" 9 Krug mit Blumengewinde und Zinndeckel. 1803.",428,81.9,False,title_direct,,,Zinn,,
+BO0624_88088,459806,219,222,"Teekessel. 1800. """" 9 Krug mit Blumengewinde und Zinndeckel. 1803.",428,81.9,False,title_direct,,,Zinn,,Sec. XIX
 BO0624_88088,459807,220,225,Schale mit blauer Malerei.,429,92.6,False,positional,,,OGGETTI VARI,,
 BO0624_88088,459808,221,226,- Rote Tasse mit Untertasse und Relief.,431,100.0,False,positional,,,Fayencen,,
 BO0624_88088,459809,222,227,"Tintenzeug, weiss.",432,88.9,False,positional,,,Fayencen,,
@@ -231,8 +231,8 @@ BO0624_88088,459816,229,234,Teller mit Blumenkorb.,443,91.3,False,positional,,,P
 BO0624_88088,459817,230,235,""" """,444,0.0,False,positional,,,Fayencen,,
 BO0624_88088,459818,231,237,"- 236 "" "" - Malerei und Spruch: Hautt ist nicht der Tag, das "" "" ich borgen mag.",448,96.8,False,positional,,,Fayencen,,
 BO0624_88088,459819,232,238,"- Malerei und Spruch: Qualt Dich die Lieb, so 9 "" trinke Wein, dann schlaft der lose Amor ein.",450,100.0,False,positional,,,Fayencen,,
-BO0624_88088,459820,233,239,Silberbeschlagenes Trinkhorn mit Aufschrift: Die Fuichse des W. S. 1878-79 i 1. math. nat. Verein Strassburg i. E.,454,98.1,False,positional,,,Fayencen,,
-BO0624_88088,459821,234,240,2 Dreispitz-Bauernhite. 3 Bauernschirme. Teuerungsandenken aus dem Jahre 1817.,457,66.1,False,positional,,,Fayencen,,
+BO0624_88088,459820,233,239,Silberbeschlagenes Trinkhorn mit Aufschrift: Die Fuichse des W. S. 1878-79 i 1. math. nat. Verein Strassburg i. E.,454,98.1,False,positional,,,Fayencen,,Sec. XIX
+BO0624_88088,459821,234,240,2 Dreispitz-Bauernhite. 3 Bauernschirme. Teuerungsandenken aus dem Jahre 1817.,457,66.1,False,positional,,,Fayencen,,Sec. XIX
 BO0624_88088,459822,235,243,Lampenuhr.,458,81.8,False,positional,,,Fayencen,,
 BO0624_88088,459823,236,244,- Kokosnuss-Zuckergefass mit Silber beschlagen.,460,100.0,False,positional,,,Fayencen,,
 BO0624_88088,459824,237,245,- Horndose mit Relief: Friderikus wirttembergica Rex.,462,100.0,False,positional,,,SCATOLE,,
@@ -311,9 +311,9 @@ BO0624_88088,459896,309,4,Silberpfennige von Herzog Otto Ill. u. Rudolf I. v. Ba
 BO0624_88088,459897,310,4,"Silberbrakteaten von Rottenburg, Uberlingen, Konstanz und St. Gallen.",579,98.5,False,positional,,,Muinzen,,
 BO0624_88088,459898,311,321,22 Haller Handleinspfennige ohne Umschrift.,580,95.5,False,positional,,,Muinzen,,
 BO0624_88088,459899,312,322,"15 mit "" 66",581,81.8,False,positional,,,Muinzen,,
-BO0624_88088,459900,313,323,"3 unbekannte Silberminzen aus dem Jahr 1518, 1523 u. 1621. 10 Kreuzersticke von Herzog Karl und Konig Friedrich von alte, seltene Minzen der Herzoge von Wurttemberg.",583,53.6,False,title_direct,,,Muinzen,,
+BO0624_88088,459900,313,323,"3 unbekannte Silberminzen aus dem Jahr 1518, 1523 u. 1621. 10 Kreuzersticke von Herzog Karl und Konig Friedrich von alte, seltene Minzen der Herzoge von Wurttemberg.",583,53.6,False,title_direct,ANONIMO,,Muinzen,,Sec. XVI
 BO0624_88088,459901,314,326,"- Wurttemberg. Silberminzen, Berner Schlisselpfennig,Konstanz, Monfort etc.",587,90.6,False,positional,,,Muinzen,,
-BO0624_88088,459902,315,327,1 Regimentstaler der Stadt Memmingen 1623. 1 Marientaler von.1855. 1 2/ Taler von Mainz. 1680.,588,61.2,False,positional,,,Muinzen,,
+BO0624_88088,459902,315,327,1 Regimentstaler der Stadt Memmingen 1623. 1 Marientaler von.1855. 1 2/ Taler von Mainz. 1680.,588,61.2,False,positional,,,Muinzen,,Sec. XVII
 BO0624_88088,459903,316,330,"9 wirttembergische Kreuzer, Groschen und Sechser.",591,95.9,False,positional,,,Muinzen,,
 BO0624_88088,459904,317,331,"- 8 Silberminzen, worunter 2 mittelalterliche, 4 von Kaiser; Leopold, ubrige unbekannt.",593,100.0,False,positional,,,Muinzen,,
 BO0624_88088,459905,318,332,"- 13 Silberminzen von Bern, Salzburg etc.",595,100.0,False,positional,,,Muinzen,,
@@ -325,25 +325,25 @@ BO0624_88088,459910,323,337,"- 10 Minzen (2 tirkische, 1 arabische, 2 papstliche
 BO0624_88088,459911,324,338,"10 Minzen (/ und #/4 Dollar, 1 Leu, 1 Drachme, 1 Franc, 20 Kopeken. 10 und 5 cents, 10 und 5 centimes.",603,97.8,False,title_direct,,,Muinzen,,
 BO0624_88088,459912,325,339,"9 Kupferminzen. 1 Bronzerelief. 2 Medaillen aus Zinn, worunter eine seltene der Stadt Dinkelsbuhl und 2 Messingjettons.",606,84.3,False,title_direct,,,Kupfer,,
 BO0624_88088,459913,326,342,164 Biermarken. Exemplare.,607,66.7,False,positional,,,Muinzen,,
-BO0624_88088,459914,327,343,Goldminze Hieronymus 1776.,611,92.6,False,positional,,,Muinzen,,
+BO0624_88088,459914,327,343,Goldminze Hieronymus 1776.,611,92.6,False,positional,,,Muinzen,,Sec. XVIII
 BO0624_88088,459915,328,344,- Ulmer Minster-Taler.,613,100.0,False,positional,,,Muinzen,,
 BO0624_88088,459916,329,345,"Handelstaler, Konig Wilhelm I. von Wuirttemberg.",614,95.7,False,positional,,,Muinzen,,
-BO0624_88088,459917,330,346,Kronentaler 1829.,615,88.9,False,positional,,,Muinzen,,
-BO0624_88088,459918,331,347,Zweigulden 1830.,616,88.2,False,positional,,,Muinzen,,
-BO0624_88088,459919,332,348,"- Eingulden, Konig Wilhelm. 1841.",618,100.0,False,positional,,,Muinzen,,
+BO0624_88088,459917,330,346,Kronentaler 1829.,615,88.9,False,positional,,,Muinzen,,Sec. XIX
+BO0624_88088,459918,331,347,Zweigulden 1830.,616,88.2,False,positional,,,Muinzen,,Sec. XIX
+BO0624_88088,459919,332,348,"- Eingulden, Konig Wilhelm. 1841.",618,100.0,False,positional,,,Muinzen,,Sec. XIX
 BO0624_88088,459920,333,349,"Siegestaler, Konig Karl.",619,91.7,False,title_direct,,,Siegel,,
-BO0624_88088,459921,334,350,- Jubilaumsgulden 1841.,621,100.0,False,positional,,,Muinzen,,
+BO0624_88088,459921,334,350,- Jubilaumsgulden 1841.,621,100.0,False,positional,,,Muinzen,,Sec. XIX
 BO0624_88088,459922,335,351,Brief der Franziska von Hohenheim.,625,94.3,False,positional,,,Urkunden,,
-BO0624_88088,459923,336,352,"Kaufbrief von l5ll zwischen Jorg Meurer und Hans Zaine- Briefe von Herzog Friedrich von Wurttemberg, 1597 und 1598.",628,67.8,False,positional,,,Urkunden,,
-BO0624_88088,459924,337,353,- 354 Brief des Vogtes Vischer zu Weinsberg 1665.,630,100.0,False,positional,,,Urkunden,,
+BO0624_88088,459923,336,352,"Kaufbrief von l5ll zwischen Jorg Meurer und Hans Zaine- Briefe von Herzog Friedrich von Wurttemberg, 1597 und 1598.",628,67.8,False,positional,,,Urkunden,,Sec. XVI
+BO0624_88088,459924,337,353,- 354 Brief des Vogtes Vischer zu Weinsberg 1665.,630,100.0,False,positional,,,Urkunden,,Sec. XVII
 BO0624_88088,459925,338,355,""" """,631,0.0,False,positional,,,Urkunden,,
 BO0624_88088,459926,339,356,Autogramm nebst Siegel von Herzog Karl Eugen v. Wurttbg.,633,96.4,False,title_direct,,,Siegel,,
-BO0624_88088,459927,340,357,Egloffsteinsches Wappen und ein alter Reichsadler. Siegel in Wachskapseln aus dem 16. Jahrhundert.,634,66.2,False,title_direct,,,Siegel,,
+BO0624_88088,459927,340,357,Egloffsteinsches Wappen und ein alter Reichsadler. Siegel in Wachskapseln aus dem 16. Jahrhundert.,634,66.2,False,title_direct,,,Siegel,,Sec. XVI
 BO0624_88088,459928,341,358,- 359,640,100.0,False,positional,,,Siegel,,
 BO0624_88088,459929,342,360,I grosses Siegel des Herzog Friedrich Il. v. Wurttbg.,641,96.2,False,title_direct,,,Siegel,,
 BO0624_88088,459930,343,4,"Holzkapseln 17. 99 66 """,642,95.2,False,positional,,,Siegel,,
-BO0624_88088,459931,344,6,Siegel wirtt. Herzoge aus dem 17. Jahrhundert mit Papier-,643,98.2,False,title_direct,,,Siegel,,
-BO0624_88088,459932,345,362,"6 , wurtt. Herzoge aus dem 17. und 18. Jahrhundert. uiberzug.",644,87.4,False,positional,,,Siegel,,
+BO0624_88088,459931,344,6,Siegel wirtt. Herzoge aus dem 17. Jahrhundert mit Papier-,643,98.2,False,title_direct,,,Siegel,,Sec. XVII
+BO0624_88088,459932,345,362,"6 , wurtt. Herzoge aus dem 17. und 18. Jahrhundert. uiberzug.",644,87.4,False,positional,,,Siegel,,Sec. XVIII
 BO0624_88088,459933,346,363,"12 Firstl., grafl. etc. Siegel.",646,92.9,False,title_direct,,,Siegel,,
 BO0624_88088,459934,347,364,"40 Siegel. 6 """,647,84.6,False,title_direct,,,Siegel,,
 BO0624_88088,459935,348,365,"- 366 1 Siegel des Bischofs und Propstes von Ellwangen, Anton Ignaz Graf von Fugger.",649,100.0,False,title_direct,,,Siegel,,
@@ -565,8 +565,8 @@ BO0624_88088,460150,563,599,"Ein Hirsch von 12 Enden, welcher in voller Flucht i
 BO0624_88088,460151,564,600,"Ein Gabelhirsch, welcher die mit Bast bewachsene etc.",1037,96.2,False,title_direct,,Sachsen,,,
 BO0624_88088,460152,565,601,Dieser Hirsch ist von S. Exz. dem Herrn Grafen von Lengheim bei seinem Schloss Wagna in Steiermark geschossen.,1038,98.2,False,positional,Berthold Heinrich Brockes,,,,
 BO0624_88088,460153,566,602,Wie die Rehe in Netzen oder Garn gefangen werden.,1039,96.0,False,positional,Berthold Heinrich Brockes,,,,
-BO0624_88088,460154,567,603,"- Anno 1698 haben I. H. D. Alexander Sigismundus, Herzog von der Pfalz und Bischoff von Augsburg dieses Wild im Allgau gepirschet.",1041,100.0,False,positional,Berthold Heinrich Brockes,,,,
-BO0624_88088,460155,568,604,"Dieser Hirsch von 14 Enden, welcher noch ein End unter der Rose hat, wurde 1748 von I. H. D. dem regierenden Herrn Landgraffen zu Hessen-Darmstadt im Forst Windhausen geschossen. n dem Herzogtum Wirttemberg ist anno 1736 dieses Stick",1042,85.4,False,positional,Berthold Heinrich Brockes,,,,
+BO0624_88088,460154,567,603,"- Anno 1698 haben I. H. D. Alexander Sigismundus, Herzog von der Pfalz und Bischoff von Augsburg dieses Wild im Allgau gepirschet.",1041,100.0,False,positional,Berthold Heinrich Brockes,,,,Sec. XVII
+BO0624_88088,460155,568,604,"Dieser Hirsch von 14 Enden, welcher noch ein End unter der Rose hat, wurde 1748 von I. H. D. dem regierenden Herrn Landgraffen zu Hessen-Darmstadt im Forst Windhausen geschossen. n dem Herzogtum Wirttemberg ist anno 1736 dieses Stick",1042,85.4,False,positional,Berthold Heinrich Brockes,,,,Sec. XVIII
 BO0624_88088,460156,569,605,Wild im Kirchheimer Forst gefunden worden.,1044,95.3,False,positional,Berthold Heinrich Brockes,,,,
 BO0624_88088,460157,570,606,berg bei Barackin in Serbien geschossen.,1046,95.1,False,positional,Berthold Heinrich Brockes,,,,
 BO0624_88088,460158,571,607,gart geschossen.,1048,88.2,False,positional,Berthold Heinrich Brockes,,,,
@@ -642,7 +642,7 @@ BO0624_88088,460227,640,693,"Initiale A auf Goldgrund. A "" "" 0 """,1281,85.7,F
 BO0624_88088,460228,641,696,Kostimbilder aus Hamburg. 6 Blatt.,1287,94.1,False,positional,,,Pergamentblatter,,
 BO0624_88088,460229,642,697,5 Kostimbilder aus Steiermark. Kostimbild aus Korsika. Papstliche Schweizergarde. 2 Blatt.,1297,55.3,False,title_direct,,Schweiz,,,
 BO0624_88088,460230,643,700,701 5 Blatt Pariser Kostime.,1304,100.0,False,positional,,Schweiz,,,
-BO0624_88088,460231,644,702,3 turkische Kostime. Blatt Kostimbilder aus den Jahren 1808/1831.,1310,80.7,False,positional,,Schweiz,,,
+BO0624_88088,460231,644,702,3 turkische Kostime. Blatt Kostimbilder aus den Jahren 1808/1831.,1310,80.7,False,positional,,Schweiz,,,Sec. XIX
 BO0624_88088,460232,645,703,Portrat der Kaiserin Josephine.U Umrissstich.,1314,95.7,False,title_direct,,,Portrats,,
 BO0624_88088,460233,646,704,705 Holbein.,1318,100.0,False,positional,HOLBEIN HANS IL GIOVANE,,Portrats,,
 BO0624_88088,460234,647,706,Napoleon I. in Russland. Umrissstich.,1322,94.4,False,positional,,,Portrats,,
@@ -651,7 +651,7 @@ BO0624_88088,460236,649,708,2 Blatter Friedrich der Grosse.,1328,93.8,False,posi
 BO0624_88088,460237,650,709,Ziethen sitzend vor seinem Konig. Stich v. Frenzel. Mit,1332,96.3,False,positional,,,Portrats,,
 BO0624_88088,460238,651,710,- Russisch kaiserl. Kavallerie. Gerahmt.,1335,100.0,False,positional,,,Portrats,,
 BO0624_88088,460239,652,711,K. K. leichte Infanterie. Nach Seele.,1337,94.3,False,positional,,,Portrats,,
-BO0624_88088,460240,653,712,- 713 Erstirmung von Vizenza 1848. Gerahmt.,1341,100.0,False,positional,,,Portrats,,
+BO0624_88088,460240,653,712,- 713 Erstirmung von Vizenza 1848. Gerahmt.,1341,100.0,False,positional,,,Portrats,,Sec. XIX
 BO0624_88088,460241,654,714,"""",1342,0.0,False,positional,,,Portrats,,
 BO0624_88088,460242,655,715,"- der Diuppler Schanzen. ,",1348,100.0,False,positional,,,Portrats,,
 BO0624_88088,460243,656,716,Madame Pauliner Portrat.,1355,92.0,False,title_direct,,,Portrats,,
@@ -665,7 +665,7 @@ BO0624_88088,460250,663,724,4 kleine Stiche Erlkonig etc.,1368,93.3,False,title_
 BO0624_88088,460251,664,725,"- Vecelli, Depart d' Adonis.",1370,100.0,False,positional,TIZIANO VECELLIO,,Kupferstiche,,
 BO0624_88088,460252,665,726,Naissance de Bacchus.,1371,90.9,False,positional,,,Kupferstiche,,
 BO0624_88088,460253,666,727,"Offrande a Venus, von Caspard Netscher.",1372,94.9,False,positional,NETSCHER CASPAR,,Kupferstiche,,
-BO0624_88088,460254,667,728,Le devoir naturel. Von Poporat 1770. Sehr seltener Stich.,1373,96.4,False,positional,,,Kupferstiche,,
+BO0624_88088,460254,667,728,Le devoir naturel. Von Poporat 1770. Sehr seltener Stich.,1373,96.4,False,positional,,,Kupferstiche,,Sec. XVIII
 BO0624_88088,460255,668,729,"- 730 Titian, Schabkunstblatt.",1375,100.0,False,positional,TIZIANO VECELLIO,,Kupferstiche,,
 BO0624_88088,460256,669,731,"Carlo Dolce, Fides salvam fecit. Stich von Schuler.",1376,96.0,False,positional,DOLCI CARLO,,Kupferstiche,,
 BO0624_88088,460257,670,732,Madonna nach Holbein. Gest. v. Leybold.,1377,94.6,False,positional,HOLBEIN HANS IL GIOVANE,,Kupferstiche,,
@@ -708,7 +708,7 @@ BO0624_88088,460293,706,764,8 Blatt Aktstudien. Grave par Carre etc.,1436,95.0,F
 BO0624_88088,460294,707,765,"14 "" Architekturbilder. Grave par Legrand etc.",1438,95.5,False,positional,,,Kupferstiche,,
 BO0624_88088,460295,708,766,"767 10 Landschaften etc. """,1442,100.0,False,positional,,,Kupferstiche,,
 BO0624_88088,460296,709,12,""" Frichte Blumen ctc.",1444,92.3,False,positional,,,Kupferstiche,,
-BO0624_88088,460297,710,768,"28 etc. "" "" 12 Abbildungen aus dem Gothakalender 1787. 15 "" Ansichten etc.",1448,76.4,False,title_direct,,,Ansichten,,
+BO0624_88088,460297,710,768,"28 etc. "" "" 12 Abbildungen aus dem Gothakalender 1787. 15 "" Ansichten etc.",1448,76.4,False,title_direct,,,Ansichten,,Sec. XVIII
 BO0624_88088,460298,711,771,43 kleine Stiche.,1452,88.9,False,title_direct,,,Stiche,,
 BO0624_88088,460299,712,772,3Landschaften.,1456,86.7,False,positional,,,Kupferstiche,,
 BO0624_88088,460300,713,773,7 iberseeische Landschaften.,1458,93.1,False,positional,,,Kupferstiche,,
@@ -768,12 +768,12 @@ BO0624_88088,460353,766,847,Esslingen mit Frauenkirche. Lith. v. Mathieu.,1585,9
 BO0624_88088,460354,767,848,"Lith. v. Emminger. """,1586,88.2,False,positional,,,Portrats,,
 BO0624_88088,460355,768,850,Schloss und Stadt Friedrichshafen mit altem Dampfschiff. Lith. v. Woelffle. Sehr selten.,1588,97.6,False,positional,,,Portrats,,
 BO0624_88088,460356,769,851,- Schloss in Friedrichshafen.,1590,100.0,False,positional,,,Portrats,,
-BO0624_88088,460357,770,852,Friedrichshafen. Originalzeichnung v. Obach. 1854. a Gmund. Kol. Lithographie.,1591,76.0,False,title_direct,,,Lithographien,,
+BO0624_88088,460357,770,852,Friedrichshafen. Originalzeichnung v. Obach. 1854. a Gmund. Kol. Lithographie.,1591,76.0,False,title_direct,,,Lithographien,,Sec. XIX
 BO0624_88088,460358,771,853,- Guiglingen. Lith. v. Obach.,1594,100.0,False,positional,,,Portrats,,
 BO0624_88088,460359,772,854,Heilbronn v. Merian.,1595,90.0,False,positional,,,Portrats,,
 BO0624_88088,460360,773,855,Aussicht des Schlosses Hohenheim auf das nahe gelegene,1596,96.4,False,positional,,,Portrats,,
 BO0624_88088,460361,774,856,Hornberg.,1598,80.0,False,positional,,,Portrats,,
-BO0624_88088,460362,775,857,- Stadt Jsny im Allgau wie solche 1631 gestanden und nach,1600,100.0,False,positional,,,Portrats,,
+BO0624_88088,460362,775,857,- Stadt Jsny im Allgau wie solche 1631 gestanden und nach,1600,100.0,False,positional,,,Portrats,,Sec. XVII
 BO0624_88088,460363,776,858,Kornthal. Gerahmt.,1602,88.9,False,positional,,,Portrats,,
 BO0624_88088,460364,777,859,"Langenargen a.Bodensee,mit 1 Mittelansichtu.8 Seitenansichten.",1603,96.8,False,title_direct,,,Ansichten,,
 BO0624_88088,460365,778,860,- Langenargen. Farbiges Aquatintablatt. Sehr selten. Vorziglich erhalten. Alteste Ansicht Langenargens.,1605,100.0,False,positional,,,Portrats,,
@@ -813,7 +813,7 @@ BO0624_88088,460398,811,905,"von der Morgenseite. Lith. v. Emminger. """,1686,94
 BO0624_88088,460399,812,906,"Plan von Bodenehr. """,1687,89.5,False,positional,,,Ansichten,,
 BO0624_88088,460400,813,907,Residenzschloss mit dem Anlagensee.,1688,94.4,False,positional,,,Ansichten,,
 BO0624_88088,460401,814,908,- Stiftskirche in Stuttgart mit Schillerdenkmal. Lith. v. Muihlecker.,1690,100.0,False,title_direct,,Stuttgart,,,
-BO0624_88088,460402,815,909,Ansicht der Einfahrt des ersten Getreidewagens im Jahre 1817. Kol. Stich v. Muiller.,1691,97.6,False,title_direct,,,Ansichten,,
+BO0624_88088,460402,815,909,Ansicht der Einfahrt des ersten Getreidewagens im Jahre 1817. Kol. Stich v. Muiller.,1691,97.6,False,title_direct,,,Ansichten,,Sec. XIX
 BO0624_88088,460403,816,910,- Schillerdenkmal auf dem alten Schlossplatz zu Stuttgart. Lith. v. Kistner.,1693,100.0,False,title_direct,,Stuttgart,,,
 BO0624_88088,460404,817,911,Konigsbau.,1695,81.8,False,positional,,,Ansichten,,
 BO0624_88088,460405,818,912,Cannstatter Tor zu Stuttgart. Von Nilson. Sehr schones,1696,96.3,False,title_direct,,Stuttgart,,,
@@ -827,8 +827,8 @@ BO0624_88088,460412,825,919,Minzen.,1706,75.0,False,title_direct,,,Muinzen,,
 BO0624_88088,460413,826,920,Ruine der alten Burg Teck. Lith. v. Kenngott.,1707,95.3,False,positional,,,Ansichten,,
 BO0624_88088,460414,827,921,"Dto. Plan von Ulm. Tibingen, Gesamtansicht von Bodenehr. Sehr schon!",1710,83.2,False,positional,,,Ansichten,,
 BO0624_88088,460415,828,924,"der Festung Ulm von Merian. """,1711,92.9,False,positional,,,Ansichten,,
-BO0624_88088,460416,829,926,"- 925 Ulm, Belagerung 1702.",1713,100.0,False,positional,,,Ansichten,,
-BO0624_88088,460417,830,927,"von der Abendseite. Kol. Lith. mit Staffage. Sehr "" selten! Existieren nur 3 Abdricke. Feier des Erntefestes in Ulm 1817 mit Minster und Erntewagen. Sehr selten! Gerahmt. - 929 Ulmer Minster. Lith. v. Brickner.",1716,59.2,False,positional,,,Ansichten,,
+BO0624_88088,460416,829,926,"- 925 Ulm, Belagerung 1702.",1713,100.0,False,positional,,,Ansichten,,Sec. XVIII
+BO0624_88088,460417,830,927,"von der Abendseite. Kol. Lith. mit Staffage. Sehr "" selten! Existieren nur 3 Abdricke. Feier des Erntefestes in Ulm 1817 mit Minster und Erntewagen. Sehr selten! Gerahmt. - 929 Ulmer Minster. Lith. v. Brickner.",1716,59.2,False,positional,,,Ansichten,,Sec. XIX
 BO0624_88088,460418,831,931,Untertuirkheim mit Rotenberg und Kapelle.,1720,95.2,False,positional,,,Ansichten,,
 BO0624_88088,460419,832,1690,- 932,1722,100.0,False,positional,,,Ansichten,,
 BO0624_88088,460420,833,933,Schiesstal bei Urach.,1724,90.9,False,positional,,,Ansichten,,
@@ -843,7 +843,7 @@ BO0624_88088,460428,841,944,"""",1743,0.0,False,positional,,,Ansichten,,
 BO0624_88088,460429,842,945,"""",1744,0.0,False,positional,,,Ansichten,,
 BO0624_88088,460430,843,947,947,1750,100.0,False,positional,,,Ansichten,,
 BO0624_88088,460431,844,948,2 Infanteristen.,1752,88.2,False,positional,,,Ansichten,,
-BO0624_88088,460432,845,949,Rittmeister der Artillerie zu Pferd. 9 Blatt wurtt. Militar. 8 Abbildungen des wurtt. Militars 1837.,1756,57.4,False,positional,,,Ansichten,,
+BO0624_88088,460432,845,949,Rittmeister der Artillerie zu Pferd. 9 Blatt wurtt. Militar. 8 Abbildungen des wurtt. Militars 1837.,1756,57.4,False,positional,,,Ansichten,,Sec. XIX
 BO0624_88088,460433,846,952,- 953,1758,100.0,False,positional,,,Ansichten,,
 BO0624_88088,460434,847,10,Blatt Eckert und Monten.,1759,93.9,False,positional,,,Ansichten,,
 BO0624_88088,460435,848,36,Abbildungen des wirtt. Militars.S Stadlinger.,1760,96.6,False,positional,,,Ansichten,,
@@ -851,34 +851,34 @@ BO0624_88088,460436,849,954,Der Nachtkarz.,1762,86.7,False,positional,,,Ansichte
 BO0624_88088,460437,850,955,- Wie der deutsche Michel auf der Hoftheaterredoute zu Stutt-,1764,100.0,False,positional,,,Ansichten,,
 BO0624_88088,460438,851,956,Das Volsfest zu Cannstatt.,1766,92.6,False,positional,,,Ansichten,,
 BO0624_88088,460439,852,957,Schlachtfest zu Strimpfelbach.,1767,93.5,False,positional,,,Ansichten,,
-BO0624_88088,460440,853,958,Ulmer Kegelgesellschaft. 1850.,1768,93.3,False,positional,,,Ansichten,,
+BO0624_88088,460440,853,958,Ulmer Kegelgesellschaft. 1850.,1768,93.3,False,positional,,,Ansichten,,Sec. XIX
 BO0624_88088,460441,854,959,"Gasthof in Mailand, in welchem Prinzessin Katharine als 14jahriges Madchen abgestiegen.",1769,97.7,False,positional,,,Ansichten,,
 BO0624_88088,460442,855,960,- Dto.,1771,100.0,False,positional,,,Ansichten,,
-BO0624_88088,460443,856,961,Abbildung des Trauergeristes Ihrer Majestat der Konigin Katharine von Wurttemberg. 1819. Gestochen von Duttenhofer.S Sehr schon.,1772,98.4,False,positional,,,Ansichten,,
+BO0624_88088,460443,856,961,Abbildung des Trauergeristes Ihrer Majestat der Konigin Katharine von Wurttemberg. 1819. Gestochen von Duttenhofer.S Sehr schon.,1772,98.4,False,positional,,,Ansichten,,Sec. XIX
 BO0624_88088,460444,857,962,- 2 Sarge aus der Furstengruft in der Stiftskirche zu Stuttgart.,1774,100.0,False,title_direct,,Stuttgart,,,
 BO0624_88088,460445,858,963,Ehrengedachtnis von dem regierenden Herzog Ludwig Eugen,1775,96.5,False,positional,,,Ansichten,,
 BO0624_88088,460446,859,964,- 965 2 Herzog Ulrich Bilder. Gerahmt.,1779,100.0,False,positional,,,FOTOGRAFIE,,
 BO0624_88088,460447,860,966,Einzug des Herzogs Karl Eugen und seiner Gemahlin Elisabeth Friederike Sophie von Brandenburg Bayreuth in Stuttgart,1780,98.3,False,title_direct,,Stuttgart,,,
-BO0624_88088,460448,861,967,Erinnerungsblatt zur Feier der 25 jahrigen Regierung Konig Wilhelm I. 1841.,1782,97.3,False,positional,,,Ansichten,,
-BO0624_88088,460449,862,968,Belagerung von Stuttgart. 1286.,1783,93.5,False,title_direct,,Stuttgart,,,
-BO0624_88088,460450,863,969,Schlacht bei Doffingen. 1388.,1784,93.1,False,positional,,,Ansichten,,
+BO0624_88088,460448,861,967,Erinnerungsblatt zur Feier der 25 jahrigen Regierung Konig Wilhelm I. 1841.,1782,97.3,False,positional,,,Ansichten,,Sec. XIX
+BO0624_88088,460449,862,968,Belagerung von Stuttgart. 1286.,1783,93.5,False,title_direct,,Stuttgart,,,Sec. XIII
+BO0624_88088,460450,863,969,Schlacht bei Doffingen. 1388.,1784,93.1,False,positional,,,Ansichten,,Sec. XIV
 BO0624_88088,460451,864,970,- Gefangennahme der Schlegler zu Heimsheim.,1786,100.0,False,positional,,,Ansichten,,
-BO0624_88088,460452,865,1395,- 971 Einweihung der Universitat Tubingen. 1477.,1788,100.0,False,positional,,,Ansichten,,
-BO0624_88088,460453,866,972,Erteilung der Herzogswirde an Graf Eberhard im Bart. 1495.,1789,96.6,False,positional,,,Ansichten,,
-BO0624_88088,460454,867,973,Schlacht bei Laufen. 1534.,1790,92.3,False,positional,,,Ansichten,,
-BO0624_88088,460455,868,974,Flucht des Prinzen Christoph. 1532.,1791,94.3,False,positional,,,Ansichten,,
-BO0624_88088,460456,869,975,Schlacht bei Hochstadt. 1504,1792,93.1,False,positional,,,Ansichten,,
-BO0624_88088,460457,870,976,"Belgrad. 1747. "" """,1793,85.7,False,positional,,,Ansichten,,
-BO0624_88088,460458,871,977,Erhebung der Karlsakademie zur Universitat. 1781.,1794,95.9,False,positional,,,Ansichten,,
-BO0624_88088,460459,872,978,Verkindigung der Konigswirde. 1806.,1795,94.3,False,positional,,,Ansichten,,
-BO0624_88088,460460,873,979,Jubilaum Konig Wilhelm I. 1841.,1796,93.5,False,positional,,,Ansichten,,
+BO0624_88088,460452,865,1395,- 971 Einweihung der Universitat Tubingen. 1477.,1788,100.0,False,positional,,,Ansichten,,Sec. XV
+BO0624_88088,460453,866,972,Erteilung der Herzogswirde an Graf Eberhard im Bart. 1495.,1789,96.6,False,positional,,,Ansichten,,Sec. XV
+BO0624_88088,460454,867,973,Schlacht bei Laufen. 1534.,1790,92.3,False,positional,,,Ansichten,,Sec. XVI
+BO0624_88088,460455,868,974,Flucht des Prinzen Christoph. 1532.,1791,94.3,False,positional,,,Ansichten,,Sec. XVI
+BO0624_88088,460456,869,975,Schlacht bei Hochstadt. 1504,1792,93.1,False,positional,,,Ansichten,,Sec. XVI
+BO0624_88088,460457,870,976,"Belgrad. 1747. "" """,1793,85.7,False,positional,,,Ansichten,,Sec. XVIII
+BO0624_88088,460458,871,977,Erhebung der Karlsakademie zur Universitat. 1781.,1794,95.9,False,positional,,,Ansichten,,Sec. XVIII
+BO0624_88088,460459,872,978,Verkindigung der Konigswirde. 1806.,1795,94.3,False,positional,,,Ansichten,,Sec. XIX
+BO0624_88088,460460,873,979,Jubilaum Konig Wilhelm I. 1841.,1796,93.5,False,positional,,,Ansichten,,Sec. XIX
 BO0624_88088,460461,874,980,- 17 Kupferstiche von Gnaut nach Weitbrecht.,1798,100.0,False,title_direct,,,Kupfer,,
 BO0624_88088,460462,875,981,2 Blatter Photographien aus Hofers Atelier.,1799,95.5,False,positional,,,FOTOGRAFIE,,
 BO0624_88088,460463,876,982,"Wachter, Hiob.",1800,85.7,False,positional,,,OGGETTI VARI,,
-BO0624_88088,460464,877,983,Plakat der Ausstellung 1896.,1801,93.1,False,positional,,,Ansichten,,
-BO0624_88088,460465,878,984,- berg im Jahre 1748. Sepiazeichnung. Unikum. Gerahmt.,1803,100.0,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88088,460464,877,983,Plakat der Ausstellung 1896.,1801,93.1,False,positional,,,Ansichten,,Sec. XIX
+BO0624_88088,460465,878,984,- berg im Jahre 1748. Sepiazeichnung. Unikum. Gerahmt.,1803,100.0,False,positional,,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_88088,460466,879,985,Das grosse Festin-Jagen bei Bebenhausen. Sr. Majestat dem Konig Friedrich von Wuirttemberg nach Seele gestochen von Friedrich Muller. Jn dieser schonen Erhaltung mit,1804,98.8,False,positional,,,Ansichten,,
-BO0624_88088,460467,880,986,",Repraesentatio der Furstlichen Auffizug vnd Ritterspil So bei des Durchleuchtigen - Herrn Johann Friederichen Vnd der Durchleuchtigen - Furstin - Barbara Sophien Ehrnfest den 6. November Ao 1609 in - Stuttgarten mit groBer Solennitet gehalten worden.- Gradiert Vnnd Gedruckt Durch Balthasarn Kichlein - zu Schwabischn Gmund."" 2 Bl. Text, Titelblatt und 219 Blatt Abbildungen.",1806,99.4,False,title_direct,,Stuttgart,,,
+BO0624_88088,460467,880,986,",Repraesentatio der Furstlichen Auffizug vnd Ritterspil So bei des Durchleuchtigen - Herrn Johann Friederichen Vnd der Durchleuchtigen - Furstin - Barbara Sophien Ehrnfest den 6. November Ao 1609 in - Stuttgarten mit groBer Solennitet gehalten worden.- Gradiert Vnnd Gedruckt Durch Balthasarn Kichlein - zu Schwabischn Gmund."" 2 Bl. Text, Titelblatt und 219 Blatt Abbildungen.",1806,99.4,False,title_direct,,Stuttgart,,,Sec. XVII
 BO0624_88088,460468,881,987,l10 Blatt Abbildungen aus obigem Werk.,1807,94.9,False,positional,,,Ansichten,,
 BO0624_88088,460469,882,988,- Wappen des immatrikulierten wirttembergischen Adels nach dem Alphabet geordnet,1809,100.0,False,positional,,,Ansichten,,
 BO0624_88088,460470,883,989,"Max Bach, Villenquartier in Degerloch.",1944,94.7,False,positional,,,Aquarelle; Zeichnungen,,
@@ -895,7 +895,7 @@ BO0624_88088,460480,893,999,"Kerschensteiner, Zirkuspferd. Gerahmt. a Dto.",1971
 BO0624_88088,460481,894,1000,"Gabriel Max, Bleistiftskizze.",1975,91.5,False,positional,MAX GABRIEL VON,,Aquarelle; Zeichnungen,,
 BO0624_88088,460482,895,1001,"- Mayrshofer, Pferderennen. Gerahmt.",1979,100.0,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460483,896,1002,"Eisenbahngeleise. "" """,1981,86.5,False,positional,,,Aquarelle; Zeichnungen,,
-BO0624_88088,460484,897,1004,"1003 Zwei Reiter. "" """,1985,100.0,False,positional,,,Aquarelle; Zeichnungen,,
+BO0624_88088,460484,897,1004,"1003 Zwei Reiter. "" """,1985,100.0,False,positional,,,Aquarelle; Zeichnungen,,Sec. XI
 BO0624_88088,460485,898,1005,"Landstrasse. ""， rrenszene. "" """"",1987,59.5,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460486,899,1006,"Nitzki, Landschaft.",1991,87.2,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460487,900,1007,"""，",1993,0.0,False,positional,,,Aquarelle; Zeichnungen,,
@@ -911,14 +911,14 @@ BO0624_88088,460496,909,1018,- Bauernhof am Abend.,2009,100.0,False,positional,,
 BO0624_88088,460497,910,1019,"Schneider, Sitzender Hase.",2011,90.6,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460498,911,1020,"K. Schott, Donauquelle.",2012,88.9,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460499,912,1021,"Fetan, auf der Ruckseite Landegg in Tirol. """,2014,94.1,False,positional,,Scuola Tirolese,Aquarelle; Zeichnungen,,
-BO0624_88088,460500,913,1023,"1022 Landegg in Tirol. """,2018,100.0,False,positional,,Scuola Tirolese,Aquarelle; Zeichnungen,,
+BO0624_88088,460500,913,1023,"1022 Landegg in Tirol. """,2018,100.0,False,positional,,Scuola Tirolese,Aquarelle; Zeichnungen,,Sec. XI
 BO0624_88088,460501,914,1024,"Ruine mit Bauernhaus. """,2020,88.9,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460502,915,1025,"Sitzendes Madchen. Olstudie. ""，",2023,91.2,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460503,916,1026,"Sell, Einzug der Generale Goben und Manteuffel in Rouen.",2024,95.6,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460504,917,1027,"Specht, Friedrich, Sitzender Bar.",2025,92.3,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460505,918,1028,"Nilkrokodile. "" "" Lowenkopf. Gerahmt. Vorzuiglich. ""， Fuchs. "" """,2028,73.2,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460506,919,1031,"Spitzweg, Sitzender Tirke.",2031,90.6,False,positional,SPITZWEG CARL,,Aquarelle; Zeichnungen,,
-BO0624_88088,460507,920,1033,"- 1032 """,2035,100.0,False,positional,,,Aquarelle; Zeichnungen,,
+BO0624_88088,460507,920,1033,"- 1032 """,2035,100.0,False,positional,,,Aquarelle; Zeichnungen,,Sec. XI
 BO0624_88088,460508,921,1034,2 Landschaften von Splitgerber. Hochformat.,2037,94.3,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460509,922,1035,2,2041,28.6,False,positional,,Scuola Napoletana,Aquarelle; Zeichnungen,,
 BO0624_88088,460510,923,1036,"Landschaft, Starnberger See mit Segelschiffen.",2044,94.6,False,positional,,,Aquarelle; Zeichnungen,,
@@ -952,7 +952,7 @@ BO0624_88088,460537,950,1063,| ”             | Landschaft mit Staffage.       
 BO0624_88088,460538,951,1064,"| ”             | , Bauernhaus. Farbstiftzeichnung. ”                                      |",2074,92.1,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460539,952,1065,|               | Bauerndorf und Dorfkriche. ” Farbstiftzeichnung.                         |,2075,94.6,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_88088,460540,953,1066,| ””            | Moorlandschaft. Samtliche Willroider ganz vorziglich.                    |,2076,95.3,False,positional,WILLROIDER JOSEPH,,Aquarelle; Zeichnungen,,
-BO0624_88088,460541,954,1067,"R. Albitz, Schloss Monbijou. Gewinn in der Berliner Kunstausstellungslotterie. Dezember 1912.",2080,97.2,False,positional,,Scuola di Berlino,Olgemalde,,
+BO0624_88088,460541,954,1067,"R. Albitz, Schloss Monbijou. Gewinn in der Berliner Kunstausstellungslotterie. Dezember 1912.",2080,97.2,False,positional,,Scuola di Berlino,Olgemalde,,Sec. XX
 BO0624_88088,460542,955,1068,"Askevold, Fjord.",2081,84.8,False,positional,,,Olgemalde,,
 BO0624_88088,460543,956,1069,"- Arueger, Landschaft mit Bauernhausern.",2083,100.0,False,positional,,,Olgemalde,,
 BO0624_88088,460544,957,1070,"Beda, Jul., Im Atelier. Binder, Tiroler. Raritatenhandler. ""，",2084,50.7,False,positional,,,Olgemalde,,
@@ -970,34 +970,34 @@ BO0624_88088,460555,968,1085,"untergehender Sonne. "" "" """,2102,88.4,False,pos
 BO0624_88088,460556,969,1086,"a Griner-Lengenfeld, Trauben. Morgenstimmung.",2103,74.0,False,positional,,,Olgemalde,,
 BO0624_88088,460557,970,1087,"Gugel, Frauenschonheit.",2105,89.4,False,positional,,,Olgemalde,,
 BO0624_88088,460558,971,1088,"""",2106,0.0,False,positional,,,Olgemalde,,
-BO0624_88088,460559,972,1089,"- 1090 Haag, Winterlandschaft.",2108,100.0,False,positional,,,Olgemalde,,
+BO0624_88088,460559,972,1089,"- 1090 Haag, Winterlandschaft.",2108,100.0,False,positional,,,Olgemalde,,Sec. XI
 BO0624_88088,460560,973,1092,"Hanger, Huhnerbild. Haaland, Bewegte See mit Segelschiff.",2111,77.4,False,positional,,,Olgemalde,,
 BO0624_88088,460561,974,1093,"Pendant zum vorigen. "" ""， Herbst. "" Heinen, Im Moor bei Bernried mit Rehbocken.",2114,73.7,False,positional,,,Olgemalde,,
-BO0624_88088,460562,975,1096,- 1097,2116,100.0,False,positional,,,Olgemalde,,
+BO0624_88088,460562,975,1096,- 1097,2116,100.0,False,positional,,,Olgemalde,,Sec. XI
 BO0624_88088,460563,976,1098,"P. Her, Graf Eberhard an der Bahre seines Sohnes. Sehr",2118,95.3,False,positional,,,Olgemalde,,
 BO0624_88088,460564,977,1099,"A. Hutschenreuther, Dorfgendarm. Derselbe, Sommertag in Langenargen. Kappis, Prof., Nachtliche Kelterszene.",2123,51.1,False,positional,,,Olgemalde,,
-BO0624_88088,460565,978,1102,"- 1103 im Zabergau. ""，",2125,100.0,False,positional,,,Olgemalde,,
+BO0624_88088,460565,978,1102,"- 1103 im Zabergau. ""，",2125,100.0,False,positional,,,Olgemalde,,Sec. XII
 BO0624_88088,460566,979,1104,"Prof. Fr. v. Keller, Karrenschieber. ""， Derselbe, Steinbrucharbeiter.",2127,65.3,False,positional,,,Olgemalde,,
 BO0624_88088,460567,980,1107,"Hans Klatte, Landschaft.",2131,89.8,False,positional,,,Olgemalde,,
 BO0624_88088,460568,981,1108,"H.Koch, Stilleben.",2132,86.5,False,positional,,,Olgemalde,,
-BO0624_88088,460569,982,1109,"- 1110 Schlittenfahrt. ""，",2135,100.0,False,positional,,,Olgemalde,,
-BO0624_88088,460570,983,1111,"- 1112 E. Klein, Schlittenfahrt.",2137,100.0,False,positional,,,Olgemalde,,
+BO0624_88088,460569,982,1109,"- 1110 Schlittenfahrt. ""，",2135,100.0,False,positional,,,Olgemalde,,Sec. XII
+BO0624_88088,460570,983,1111,"- 1112 E. Klein, Schlittenfahrt.",2137,100.0,False,positional,,,Olgemalde,,Sec. XII
 BO0624_88088,460571,984,1113,"Dto., Aus alter Zeit. Magg. Bad Niedernau. Dto., Interieur mit Figur. Vorzuiglich!",2141,63.7,False,positional,,,ARREDAMENTI,,
 BO0624_88088,460572,985,1116,"Matthay F. Post in Mittenwald. "" Mesmer. Huhnerbild.",2142,70.9,False,positional,,,Olgemalde,,
 BO0624_88088,460573,986,1119,"Moritz Miller sen. Verkampfte Hirsche. Ochsengespann mit Bauer und Baurin. "" """" Miller-Cornelius. Bayrische Post.",2145,50.0,False,positional,,,Olgemalde,,
-BO0624_88088,460574,987,1122,- 1123,2149,100.0,False,positional,,,Olgemalde,,
+BO0624_88088,460574,987,1122,- 1123,2149,100.0,False,positional,,,Olgemalde,,Sec. XII
 BO0624_88088,460575,988,1124,"Ein mit Pferden bespannter Heuwagen. "" """"",2151,93.3,False,positional,,,Olgemalde,,
-BO0624_88088,460576,989,1125,"- 1126 Heuwagen mit Bauern. """,2154,100.0,False,positional,,,Olgemalde,,
-BO0624_88088,460577,990,1127,- 1128 Ortlieb.,2156,100.0,False,positional,,,Olgemalde,,
+BO0624_88088,460576,989,1125,"- 1126 Heuwagen mit Bauern. """,2154,100.0,False,positional,,,Olgemalde,,Sec. XII
+BO0624_88088,460577,990,1127,- 1128 Ortlieb.,2156,100.0,False,positional,,,Olgemalde,,Sec. XII
 BO0624_88088,460578,991,1129,"Otterstedt. Pfingstrosen. - Waldquelle mit Madchen. figuirl. Darstellung. """,2161,50.0,False,positional,,,Olgemalde,,
 BO0624_88088,460579,992,1132,Anna Peters. Blumenstilleben.' Pfingstrosen mit Tag- und Nachtveilchen.,2164,96.4,False,positional,,,OGGETTI VARI,,
 BO0624_88088,460580,993,1133,Anna Peters. Blumenstilleben mit Kirschen.,2165,94.1,False,positional,,,OGGETTI VARI,,
 BO0624_88088,460581,994,1134,Prof. Herm. Pleuer. in Stuttgart.,2168,92.1,False,title_direct,,Stuttgart,,,
-BO0624_88088,460582,995,1135,"- 1136 Emil Rau, Muinchen.",2170,100.0,False,positional,,,Olgemalde,,
+BO0624_88088,460582,995,1135,"- 1136 Emil Rau, Muinchen.",2170,100.0,False,positional,,,Olgemalde,,Sec. XII
 BO0624_88088,460583,996,1137,- Tegernseerin.,2172,100.0,False,positional,,,Olgemalde,,
 BO0624_88088,460584,997,1138,"Oberbayerischer Bauer. Pendant zum "" """,2173,93.0,False,positional,,,Olgemalde,,
 BO0624_88088,460585,998,1139,Prof Carl Raupp. Herren-Chiemsee.,2176,92.5,False,positional,RAUPP KARL,,Olgemalde,,
-BO0624_88088,460586,999,1140,- 1141,2178,100.0,False,positional,,,Olgemalde,,
+BO0624_88088,460586,999,1140,- 1141,2178,100.0,False,positional,,,Olgemalde,,Sec. XII
 BO0624_88088,460587,1000,1142,Prof. Reiniger. Waldbach. Vorziglich!,2181,93.0,False,positional,,,Olgemalde,,
 BO0624_88088,460588,1001,1143,Abend im Walde. Sehr schon!,2182,90.9,False,positional,,,Olgemalde,,
 BO0624_88088,460589,1002,1144,Fritz Rossler. Heuernte.,2183,89.8,False,positional,,,Olgemalde,,
@@ -1012,7 +1012,7 @@ BO0624_88088,460597,1010,1152,"- Schlemmer, Oskar. Kopie nach Menzel.",2198,100.
 BO0624_88088,460598,1011,1153,"66 """" "" """,2199,44.4,False,positional,,,Olgemalde,,
 BO0624_88088,460599,1012,1154,"- Oskar Schmitt, Wilderer.",2201,100.0,False,positional,,,Olgemalde,,
 BO0624_88088,460600,1013,1155,Derselbe Bauernwirt.,2202,88.4,False,positional,,,Olgemalde,,
-BO0624_88088,460601,1014,1156,Unbekannt.,2203,78.3,False,positional,,,Olgemalde,,
+BO0624_88088,460601,1014,1156,Unbekannt.,2203,78.3,False,positional,ANONIMO,,Olgemalde,,
 BO0624_88088,460602,1015,1157,Senglaub.,2205,76.2,False,positional,,,Olgemalde,,
 BO0624_88088,460603,1016,1158,Landschaft. 66,2207,83.9,False,positional,,,Olgemalde,,
 BO0624_88088,460604,1017,1159,"Skramstadt, Ludwig.",2209,87.2,False,positional,,,Olgemalde,,
@@ -1037,4 +1037,4 @@ BO0624_88088,460622,1035,1181,"Art Tiepolo, Maria Verkiindigung. Vorzigliches Bi
 BO0624_88088,460623,1036,1182,"Unbekannt, Flusslandschaft mit Weiden.",2241,93.5,False,positional,,,Olgemalde,,
 BO0624_88088,460624,1037,1183,"Unbekannt, Alte Burgen.",2243,89.4,False,positional,,,Olgemalde,,
 BO0624_88088,460625,1038,1184,"Art Berchem, Landschaft mit reicher Staffage, Hirten und Viehherde.",2244,96.2,False,positional,BERCHEM NICOLAAS,,Olgemalde,,
-BO0624_88088,460626,1039,1185,"Altarbild mit 2 Seitenflugeln aus hochadeligem Besitze. J.G. Strobel, pinxit 1784. Mit alten geschnitzten Rahmen. Fur Hauskapellen, Kirchen, Schlosser etc. sehr geeignet.",2245,98.5,False,positional,,,CORNICI,,
+BO0624_88088,460626,1039,1185,"Altarbild mit 2 Seitenflugeln aus hochadeligem Besitze. J.G. Strobel, pinxit 1784. Mit alten geschnitzten Rahmen. Fur Hauskapellen, Kirchen, Schlosser etc. sehr geeignet.",2245,98.5,False,positional,,,CORNICI,,Sec. XVIII

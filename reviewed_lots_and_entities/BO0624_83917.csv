@@ -17,7 +17,7 @@ BO0624_83917,73829,15,15,Venus et Mercure.,156,91.4,False,positional,LE MOYNE (F
 BO0624_83917,73830,16,16,—— Sainte Elisabeth de Hongrie.,165,94.7,False,positional,LOO (CARLE VAN),,,,
 BO0624_83917,73831,17,17,-Vue d'Italie.,175,88.9,False,positional,MACHY (PIERRE-ANTOINE DE),,,,
 BO0624_83917,73832,18,18,Vue de Montmartre.,185,91.9,False,positional,MICHEL,,,,
-BO0624_83917,73833,19,19,"Portrait de Louis de Bourbon,comte de Vermandois (fils de Mme de la Valliere,mort a Courtray en 1683, a lage de seize ans.)",190,98.8,False,positional,RIGAUD (H.),,,,
+BO0624_83917,73833,19,19,"Portrait de Louis de Bourbon,comte de Vermandois (fils de Mme de la Valliere,mort a Courtray en 1683, a lage de seize ans.)",190,98.8,False,positional,RIGAUD (H.),,,,Sec. XVII
 BO0624_83917,73834,20,20,Portrait de Boileau(?),200,92.7,False,positional,RIGAUD (H.),,,,
 BO0624_83917,73835,21,21,Bacchante.,208,85.7,False,positional,TARAVAL (H.),,,,
 BO0624_83917,73836,22,22,mees par les Peuples et l'Armee.,217,95.4,False,positional,TAUNAY (NICOLAS-ANTOINE),,,,
@@ -51,12 +51,12 @@ BO0624_83917,73863,49,49,Le Valet de Chiens.,473,92.3,False,positional,GREUZE (J
 BO0624_83917,73864,50,50,Marine.,481,80.0,False,positional,HEEMSKERK (VAN BEERS),,,,
 BO0624_83917,73865,51,51,"Scene bachique. mportante composition, dessinee a la sepia, sur parchemin.",495,88.9,False,positional,HEEMSKERK (VAN BEERS),,,,
 BO0624_83917,73866,52,52,Vue de Rouen.,502,88.9,False,positional,JONGKIND,,,,
-BO0624_83917,73867,53,53,L'Antiquaire. 1831 (DEUX PENDANTS),522,70.4,False,positional,JORDAENS (J.),,,,
+BO0624_83917,73867,53,53,L'Antiquaire. 1831 (DEUX PENDANTS),522,70.4,False,positional,JORDAENS (J.),,,,Sec. XIX
 BO0624_83917,73868,54,54,— Paysage auec de grands arbres.,524,95.1,False,positional,JORDAENS (J.),,,,
 BO0624_83917,73869,55,54,bisVue de Village. mportantes compositions a l'aquarelle.,532,81.7,False,positional,JORDAENS (J.),,,,
 BO0624_83917,73870,56,55,"Melee de combat au bord d’un fleuve. mportant dessin au trait de sepia,releve de lavis d'encre de Chine.",539,78.1,False,positional,LANGENDYK (DIRR),,,,
 BO0624_83917,73871,57,56,"Louis XVI,a lAssemblee nationale,fait le serment demaintenir et de defendre la Consti-",545,98.3,False,positional,LE JEUNE,,,,
-BO0624_83917,73872,58,57,"Armoiries du duc de Montmorency-Lucembourg,prince de Tingry,lieutenant general aue Flandres.Marechal de France 1676-1746. Deuise:》 Dieu ayde au premier baron chrestien.》",554,99.1,False,positional,MONNET (CH.),,,,
+BO0624_83917,73872,58,57,"Armoiries du duc de Montmorency-Lucembourg,prince de Tingry,lieutenant general aue Flandres.Marechal de France 1676-1746. Deuise:》 Dieu ayde au premier baron chrestien.》",554,99.1,False,positional,MONNET (CH.),,,,Sec. XVIII
 BO0624_83917,73873,59,58,Le Passage de la riviere.,563,94.1,False,positional,MOREAU (LOUIS),,,,
 BO0624_83917,73874,60,58,"bis——Le Pont rustique. l est jete sur un ruisseau dont les eaux sont envahies par les roseaux et les multiples frondaisons naissant au pied des grands arbres bordant les rives. Sur une poutrelle servant de garde-fou, une femme depose une jarre qu'elle vient d'emplir. Plus loin,un valet tient en mains deux chevaux dont l'un est monte par une dame en riche costume; des moutons paissent, des habitations et des bouquets d'arbres s'etendent dans la vallee a perte de vue.",569,97.8,False,positional,MOREAU (LOUIS),,,,
 BO0624_83917,73875,61,59,—Deux encadrements pour les portraits de:,578,96.3,False,positional,NILSON (JEAN),,,,
@@ -184,7 +184,7 @@ BO0624_83917,73996,182,185,"Petit cadre,de forme ovale,en bronze tres finement c
 BO0624_83917,73997,183,186,"—Eventail,du temps de Louis XVI,a monture d'ivoire sculpte et dore,a medaillon offrant un 《Sacrifice a l'Amour 》;les deux montants sont La feuille est decoree d'un motif central avec sujet pastoral et de deux autres sujets d'amours.",1103,99.1,False,positional,,,OBJETS DE VITRINE,,
 BO0624_83917,73998,184,187,"Louis.Philippe, duc d'Orleans, Valois, Chartres, Nemours et Montpensier, comte de Soissons et de Vermandois, prince de Joinville,pair d'Avesne,MCCLXXXII, medaille par LoRTHIoR, inv. et sculp. Epreuve ancienne dans un cadre en bronze cisele et dore de l'epoque.",1104,99.2,False,positional,,,OBJETS DE VITRINE,,
 BO0624_83917,73999,185,188,"Armoiries de Marie-Antoinette d'Autriche, reine de France, medaille par LoRTHIor, inv. et sculp. Epreuve ancienne dans un cadre en",1105,98.4,False,positional,,,OBJETS DE VITRINE,,
-BO0624_83917,74000,186,189,"—Marie-Antoinette,reine de France,1744,médaille par LoRTHioR, inv. et sculp. Epreuve ancienne dans un cadre en bronze cisele et dore del'époque.",1107,98.6,False,positional,,,OBJETS DE VITRINE,,
+BO0624_83917,74000,186,189,"—Marie-Antoinette,reine de France,1744,médaille par LoRTHioR, inv. et sculp. Epreuve ancienne dans un cadre en bronze cisele et dore del'époque.",1107,98.6,False,positional,,,OBJETS DE VITRINE,,Sec. XVIII
 BO0624_83917,74001,187,190,"Lorgnette en ivoire, garnie de galons d'or et montee en or,portant l'inscription: Noseda Et Compagnie au Palais Royal,no 115.Epoque de",1108,98.5,False,positional,,,OBJETS DE VITRINE,,
 BO0624_83917,74002,188,191,"Petit plateau, a rebords en écaille brune, orne d'ornements piques d'or et decore au centre d'une rosace a entrelacs d'or grave et incruste. Epoque de Louis XIV.",1110,98.7,False,positional,,,OGGETTI VARI,,
 BO0624_83917,74003,189,192,"— Croix rayonnante en cailloux du Rhin, mon-",1111,95.2,False,positional,,,OBJETS DE VITRINE,,

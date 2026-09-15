@@ -29,26 +29,26 @@ BO0624_83776,77460,27,34,ECOLE FLAMANDE. Descente de Croix.,184,69.2,False,posit
 BO0624_83776,77461,28,35,ECOLE FRANCAISE. XVIll siecle. L'Epouvante.,186,81.2,False,positional,,Ecole Francaise,,,
 BO0624_83776,77462,29,36,ECOLE FRANCAISE. XVIll siecle. Buste de Naiade.,192,75.0,False,positional,,Ecole Francaise,,,
 BO0624_83776,77463,30,37,ECOLE FRANCAISE. Amours.,198,81.1,False,positional,,Ecole Francaise,,,
-BO0624_83776,77464,31,38,ECOLE HOLLANDAISE. Fin du XV siecle. Le Calvaire.,214,71.1,False,positional,,Ecole Hollandaise,,,
-BO0624_83776,77465,32,39,ECOLE HOLLANDAISE. XVII siecle. Vaches et moutois dans un paysage.,218,68.8,False,positional,,Ecole Hollandaise,,,
-BO0624_83776,77466,33,40,ECOLE HOLLANDAISE. XVII siecle. Portrait d'homme.,220,77.3,False,positional,,Ecole Hollandaise,,,
-BO0624_83776,77467,34,41,ECOLE HOLLANDAISE. XVII siecle. Portrait d'homme.,228,73.7,False,positional,,Ecole Hollandaise,,,
+BO0624_83776,77464,31,38,ECOLE HOLLANDAISE. Fin du XV siecle. Le Calvaire.,214,71.1,False,positional,,Ecole Hollandaise,,,Sec. XV
+BO0624_83776,77465,32,39,ECOLE HOLLANDAISE. XVII siecle. Vaches et moutois dans un paysage.,218,68.8,False,positional,,Ecole Hollandaise,,,Sec. XVII
+BO0624_83776,77466,33,40,ECOLE HOLLANDAISE. XVII siecle. Portrait d'homme.,220,77.3,False,positional,,Ecole Hollandaise,,,Sec. XVII
+BO0624_83776,77467,34,41,ECOLE HOLLANDAISE. XVII siecle. Portrait d'homme.,228,73.7,False,positional,,Ecole Hollandaise,,,Sec. XVII
 BO0624_83776,77468,35,42,ECOLE HOLLANDAISE. Portrait de jeune femme.,236,71.9,False,positional,,Ecole Hollandaise,,,
-BO0624_83776,77469,36,43,ECOLE HOLLANDAISE. XVII siecle. Portrait de femme.,241,74.7,False,positional,,Ecole Hollandaise,,,
-BO0624_83776,77470,37,44,ECOLE HOLLANDAISE. XVIII siecle.  Portrait de vieillard.,245,71.6,False,positional,,Ecole Hollandaise,,,
+BO0624_83776,77469,36,43,ECOLE HOLLANDAISE. XVII siecle. Portrait de femme.,241,74.7,False,positional,,Ecole Hollandaise,,,Sec. XVII
+BO0624_83776,77470,37,44,ECOLE HOLLANDAISE. XVIII siecle.  Portrait de vieillard.,245,71.6,False,positional,,Ecole Hollandaise,,,Sec. XVIII
 BO0624_83776,77471,38,45,ECOLE ITALIENNE. Sainte Famille.,253,66.7,False,positional,,Ecole Italienne,,,
 BO0624_83776,77472,39,46,ECOLE ITALIENNE. Sainte Madeleine..,259,66.7,False,positional,,Ecole Italienne,,,
 BO0624_83776,77473,40,47,ECOLE ITALIENNE. Vierge tenant sur ses genoux l'Enfant Jesus.,265,75.5,False,positional,,Ecole Italienne,,,
 BO0624_83776,77474,41,48,ECOLE ITALIENNE. Naiades.,270,78.9,False,positional,,Ecole Italienne,,,
 BO0624_83776,77475,42,49,ECOLE ITALIENNE. Le Christ entre les deux larrons.,276,79.5,False,positional,,Ecole Italienne,,,
-BO0624_83776,77476,43,50,"ECOLE ITALIENNE, XVI siecle. Allegorie des Arts.",278,72.2,False,positional,,Ecole Italienne,,,
-BO0624_83776,77477,44,51,ECOLE ITALIENNE. XVII siecle. Trilogie.,284,84.4,False,positional,,Ecole Italienne,,,
-BO0624_83776,77478,45,52,ECOLE ITALIENNE. XVII siecle. La Danse.,290,84.4,False,positional,,Ecole Italienne,,,
-BO0624_83776,77479,46,53,ECOLE ITALIENNE. XVII siecle. Le Genie de la Paix.,301,72.0,False,positional,,Ecole Italienne,,,
-BO0624_83776,77480,47,54,ECOLE ITALIENNE. XVII siecle. Les Trois portiques.,309,72.0,False,positional,,Ecole Italienne,,,
-BO0624_83776,77481,48,55,ECOLE ITALIENNE. XVII siecle. Tete de vieille femme.,321,71.1,False,positional,,Ecole Italienne,,,
-BO0624_83776,77482,49,56,ECOLE ITALIENNE. XVII siecle. Glorification de la Sainte Croix.,323,69.5,False,positional,,Ecole Italienne,,,
-BO0624_83776,77483,50,57,ECOLE ITALIENNE. XVII siecle. L'Enfance de Bacchus.,327,71.1,False,positional,,Ecole Italienne,,,
+BO0624_83776,77476,43,50,"ECOLE ITALIENNE, XVI siecle. Allegorie des Arts.",278,72.2,False,positional,,Ecole Italienne,,,Sec. XVI
+BO0624_83776,77477,44,51,ECOLE ITALIENNE. XVII siecle. Trilogie.,284,84.4,False,positional,,Ecole Italienne,,,Sec. XVII
+BO0624_83776,77478,45,52,ECOLE ITALIENNE. XVII siecle. La Danse.,290,84.4,False,positional,,Ecole Italienne,,,Sec. XVII
+BO0624_83776,77479,46,53,ECOLE ITALIENNE. XVII siecle. Le Genie de la Paix.,301,72.0,False,positional,,Ecole Italienne,,,Sec. XVII
+BO0624_83776,77480,47,54,ECOLE ITALIENNE. XVII siecle. Les Trois portiques.,309,72.0,False,positional,,Ecole Italienne,,,Sec. XVII
+BO0624_83776,77481,48,55,ECOLE ITALIENNE. XVII siecle. Tete de vieille femme.,321,71.1,False,positional,,Ecole Italienne,,,Sec. XVII
+BO0624_83776,77482,49,56,ECOLE ITALIENNE. XVII siecle. Glorification de la Sainte Croix.,323,69.5,False,positional,,Ecole Italienne,,,Sec. XVII
+BO0624_83776,77483,50,57,ECOLE ITALIENNE. XVII siecle. L'Enfance de Bacchus.,327,71.1,False,positional,,Ecole Italienne,,,Sec. XVII
 BO0624_83776,77484,51,58,ECOLE MODERNE. Tete de chien.,338,65.1,False,positional,,Ecole Moderne,,,
 BO0624_83776,77485,52,59,EVERDINGEN. Paysage.,342,71.4,False,positional,Everdingen,,,,
 BO0624_83776,77486,53,60,"FRAGONARD, Ecole de. Rondes d'enfants",350,67.9,False,positional,Fragonard,,,,

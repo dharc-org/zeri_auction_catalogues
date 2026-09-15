@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_88467,490697,1,1,Kosaken-Patrouille. Tuschzeichnung 25x24 cm. Schwarzer Rahmen.,7,98.3,False,positional,Benno Adam,,CORNICI,,
 BO0624_88467,490698,2,2,Reiter auf Schimmel. Aquarell 17x21 cm. Schwarzer Rahmen.,8,98.2,False,title_direct,,,CORNICI,,
 BO0624_88467,490699,3,3,"Moorlandschaft mit Gebirge. Oel auf Leinwand 24x33,5 cm. Schwarzer Rahmen.",12,98.6,False,positional,Emil Adam,,CORNICI,,
-BO0624_88467,490700,4,4,Landschaft mit Turm und Figuren. Oel auf Leinwand 18x29 cm. Goldrahmen. Bez. unten links F.Bamberger 1850.,18,99.0,False,title_direct,,,Gold,,
+BO0624_88467,490700,4,4,Landschaft mit Turm und Figuren. Oel auf Leinwand 18x29 cm. Goldrahmen. Bez. unten links F.Bamberger 1850.,18,99.0,False,title_direct,,,Gold,,Sec. XIX
 BO0624_88467,490701,5,5,"Vor dem Ball. Weissgekleidete Dame in einem Wintergarten sitzend, von dem aus eine Ture in ein rotbeleuchtetes Boudoir fihrt. Aquarell 70x50 cm. Holzgeschnitzter vergoideter Rahmen. Bez. oben rechts Paul Barthel 96.",22,99.5,False,title_direct,Paul Barthel,,CORNICI,,
 BO0624_88467,490702,6,6,Liegender weiblicher Akt mit Affe mit Pfauenfeder. Pastell 36X57 cm.Goldrahmen. Bez. unten rechts A. Bender.,26,91.1,False,title_direct,A. Bender,,Gold,,
 BO0624_88467,490703,7,7,Weiblicher Akt mit blauem Tuch. Pastell 36x57 cm. Goldrahmen. Bez.A. Bender.,28,98.6,False,title_direct,A. Bender,,Gold,,
@@ -10,13 +10,13 @@ BO0624_88467,490704,8,8,Weiblicher Akt mit blauem Tuch um den Arm gehangt. Paste
 BO0624_88467,490705,9,9,Meereskiste mit Felspartieen im Mondschein. Oel auf Leinwand 104x83 cm. Goldrahmen. Bez.,34,98.8,False,title_direct,,,Gold,,
 BO0624_88467,490706,10,10,Blauer Papagei. Oel auf Pappe 39x31 cm. Goldrahmen. Bez. unten links H. Boklen.,39,98.0,False,title_direct,,,Gold,,
 BO0624_88467,490707,11,11,"Fressende, junge Pagageien. Oel auf Pappe 22X38 cm. Goldrahmen. Bez. oben rechts H. Boklen.",40,98.2,False,title_direct,,,Gold,,
-BO0624_88467,490708,12,12,Zirkus-Akrobaten. Oel auf Pappe. 41x35 cm. Schwarzer Rahmen. Bez. unten rechts H. Boklen 1921.,41,98.3,False,positional,Hilde Boklen,,CORNICI,,
+BO0624_88467,490708,12,12,Zirkus-Akrobaten. Oel auf Pappe. 41x35 cm. Schwarzer Rahmen. Bez. unten rechts H. Boklen 1921.,41,98.3,False,positional,Hilde Boklen,,CORNICI,,Sec. XX
 BO0624_88467,490709,13,13,Gebirgslandschaft mit Wallfahrt. Oel auf Leinwand 36x52 cm. Schwarzer Rahmen. Bez. unten,45,98.2,False,positional,Karl Bolze,,CORNICI,,
 BO0624_88467,490710,14,14,"Liegender junger Stier. Oel auf Holz 15,5x18,5 cm. Schwarzer Rahmen. Bez. A. Braith.",49,98.1,False,title_direct,A.Braith,,CORNICI,,
 BO0624_88467,490711,15,15,"Mauleselherde. Zeichnung 12,5x18,5. Schwarzer Rahmen. Bez. A. B.",50,97.5,False,positional,A.Braith,,CORNICI,,
 BO0624_88467,490712,16,16,"Maulesel. Zeichnung 12.5x16,5 cm. Schwarzer Rahmen. Bez. A. B.",51,97.4,False,positional,A.Braith,,CORNICI,,
 BO0624_88467,490713,17,18,Blumenstilleben. Oel auf Pappe 48x58 cm. Schwarzer Rahmen. Bez. unten rechts B. Buihler.,59,98.2,False,title_direct,B. Buhler,,CORNICI,,
-BO0624_88467,490714,18,20,Waldpartie mit Bach. Oel auf Leinwand 52x45 cm. Goldrahmen. Bez. Buttgen 1835.,70,98.0,False,title_direct,H.Buttgen,,Gold,,
+BO0624_88467,490714,18,20,Waldpartie mit Bach. Oel auf Leinwand 52x45 cm. Goldrahmen. Bez. Buttgen 1835.,70,98.0,False,title_direct,H.Buttgen,,Gold,,Sec. XIX
 BO0624_88467,490715,19,21,Schenke an der Landstrasse. Davor rastende Fuhrleute an einem Wirtstisch. Pferde und Ochsen-,74,98.3,False,positional,P. Burmeister,,,,
 BO0624_88467,490716,20,22,Der Sautreiber. Oel auf Holz 14x11 cm. Goldrahmen.,79,96.9,False,title_direct,,,Gold,,
 BO0624_88467,490717,21,23,Die Hinterriss in der Jachenau bei Lenggries in Oberbayern. Oel auf Pappe 17x27 cm. Schwarzer,83,98.4,False,positional,L.Corregio,,,,
@@ -24,7 +24,7 @@ BO0624_88467,490718,22,24,"Bauernhauser in Oberbayern. Oel auf Pappe 17,5x26 cm.
 BO0624_88467,490719,23,25,Norwegischer Fjord. Oel auf Leinwand. 100x65 cm. Goldrahmen. Bez. unten rechts Hans Andreas Dahl.,89,98.4,False,title_direct,Hans Andreas Dahl,,Gold,,
 BO0624_88467,490720,24,26,Schwarzer Rahmen. Bez. unten links van der Dank,96,96.8,False,title_direct,van der Dank,,CORNICI,,
 BO0624_88467,490721,25,27,Bauernmadchen mit Schirze und weissem Kopftuch. Oel auf Holz 25x18 cm. Goldrahmen. Bez. unten links Defregger.,100,98.6,False,title_direct,,,Gold,,
-BO0624_88467,490722,26,28,Bildnis einer jungen Dame. Oel auf Leinwand 90x40 cm. Goldrahmen. Bez.unten links Defregger 1906.,101,98.4,False,title_direct,,,Gold,,
+BO0624_88467,490722,26,28,Bildnis einer jungen Dame. Oel auf Leinwand 90x40 cm. Goldrahmen. Bez.unten links Defregger 1906.,101,98.4,False,title_direct,,,Gold,,Sec. XX
 BO0624_88467,490723,27,29,In der Sennhitte. Bauern und Jager mit Sennerinnen um einen Tisch sitzend. Gut durchgefihrte,102,98.4,False,positional,Franz von Defregger,,,,
 BO0624_88467,490724,28,30,"Hauser in Wildberg OA. Nagold. Oel auf Leinwand 46x38,5 cm. Schwarzer Rahmen. Bez. unten",106,98.2,False,positional,C.Dehn,,CORNICI,,
 BO0624_88467,490725,29,31,"2 Kihe auf der Weide. Oel auf Pappe 8,5x12 cm. Schwarzer Rahmen. Bez. A. D.",111,97.9,False,positional,A. Denzel,,CORNICI,,
@@ -97,15 +97,15 @@ BO0624_88467,490791,95,98,Dorfweiher. Oel auf Pappe 15x14. Holzgeschnitzter Gold
 BO0624_88467,490792,96,99,Sitzender Bauer. Aquarell 32x23 cm. Weisser Rahmen.,364,97.0,False,title_direct,,,CORNICI,,
 BO0624_88467,490793,97,100,Mondschein am Meeresstrand. Aquarell 21x29. Weisser Rahmen. Bez. H. R. Lichtenberger.,365,97.5,False,title_direct,H. R. Lichtenberger,,CORNICI,,
 BO0624_88467,490794,98,101,Frichten-Stilleben.Oel auf Leinwand 38x49 cm. Goldrahmen.,369,96.5,False,title_direct,,,Gold,,
-BO0624_88467,490795,99,102,"Taufe am Chiemsee. Bauernhaus am Chiemsee, von dem aus sich ein Taufzug zu dem am Strand befindlichen Kahn begibt. Oel auf Leinwand 37x40 cm.Goldrahmen. Bez. unten rechts Chr.Mali 1864.",375,98.9,False,title_direct,,,Gold,,
+BO0624_88467,490795,99,102,"Taufe am Chiemsee. Bauernhaus am Chiemsee, von dem aus sich ein Taufzug zu dem am Strand befindlichen Kahn begibt. Oel auf Leinwand 37x40 cm.Goldrahmen. Bez. unten rechts Chr.Mali 1864.",375,98.9,False,title_direct,,,Gold,,Sec. XIX
 BO0624_88467,490796,100,103,"- Sidliche Stadtansicht mit Bricke. Im Vordergrund Kanal und Schiffer. Davor Gemise- und Fruchtenhandler mit Maultier-Karren.Oel auf Leinwand 80x62 cm.Goldrahmen. Bez. unten rechts Chr.Mali, Munchen.",377,100.0,False,title_direct,,,Gold,,
-BO0624_88467,490797,101,105,Weiblicher Akt. Oel auf Leinwand 118x63 cm. Goldrahmen. Bez.unten rechts K. F. Merz 1912.,381,97.6,False,title_direct,,,Gold,,
+BO0624_88467,490797,101,105,Weiblicher Akt. Oel auf Leinwand 118x63 cm. Goldrahmen. Bez.unten rechts K. F. Merz 1912.,381,97.6,False,title_direct,,,Gold,,Sec. XX
 BO0624_88467,490798,102,106,Enten am Bach bei Sonnenschein. Oel auf Leinwand 48x74 cm. Schwarzer Rahmen. Bez.unten rechts G. Messmer.,385,98.0,False,title_direct,G. Messmer,,CORNICI,,
 BO0624_88467,490799,103,107,"Ein Marchen. 2 Kinder im Walde, denen eine Fee mit Blumen erscheint. Oel auf Leinwand X48 cm.Goldrahmen. Bez. unten rechts Kunz Meyer, Muinchen.",391,73.5,False,title_direct,Kunz Meyer,,Gold,,
 BO0624_88467,490800,104,108,Bildnis eines Mannes mit schwarzem Rock und Barett. Oel auf Leinwand 92x76 cm. Goldrahmen.,396,97.8,False,title_direct,,,Gold,,
 BO0624_88467,490801,105,109,Kuh und Stier auf der Weide. Oel auf Pappe 47x58 cm. Goldrahmen. Bez.unten rechts A. Moller.,400,97.8,False,title_direct,,,Gold,,
 BO0624_88467,490802,106,110,2 0chsen bespannt. Oel auf Pappe 43x54 cm.,402,95.2,False,positional,Arnold Moller,,,,
-BO0624_88467,490803,107,111,Heimkehr der Bettelleute. Oel auf Leinwand 22x24 cm. Schwarzer Rahmen. Bez. unten links J. M.1664. ## Heinrich Maria Dietrich Monten,410,84.0,False,title_direct,Heinrich Maria Dietrich Monten,,CORNICI,,
+BO0624_88467,490803,107,111,Heimkehr der Bettelleute. Oel auf Leinwand 22x24 cm. Schwarzer Rahmen. Bez. unten links J. M.1664. ## Heinrich Maria Dietrich Monten,410,84.0,False,title_direct,Heinrich Maria Dietrich Monten,,CORNICI,,Sec. XVII
 BO0624_88467,490804,108,112,Schlachtenbild. Angriff von Kurassieren gegen Infanterie. Im Hintergrund brennendes Gehoft.,417,97.8,False,positional,Heinrich Maria Dietrich Monten,,,,
 BO0624_88467,490805,109,113,Das Stadtchen. Sommerliche Landschaft mit Stadtchen im Tal. Rechts ein altes Schloss. Im,422,97.7,False,positional,Willy Moralt,,,,
 BO0624_88467,490806,110,114,Der Klausner.,424,85.7,False,positional,Willy Moralt,,,,
@@ -132,7 +132,7 @@ BO0624_88467,490826,130,133,Kinder mit Schafchen in einem Bauernhof. Oel auf Lei
 BO0624_88467,490827,131,136,Schiff im Watt. Oel auf Leinwand 55x65 cm. Goldrahmen. Bez. O'Lynch. a Liebesszene. Aquarell in Goldrahmen. Bez. C. O.,494,72.0,False,title_direct,,,Gold,,
 BO0624_88467,490828,132,137,Landschaft bei Kongen a. N. Aquarell 24x32 cm. Schwarzer Rahmen. Bez. unten rechts P. F. Peters 99.,502,97.8,False,title_direct,,,CORNICI,,
 BO0624_88467,490829,133,138,Bodensee-Strand. Oel auf Leinwand 23x39 cm. Goldrahmen. Bez. unten links P. F. Peters.,503,97.5,False,title_direct,,,Gold,,
-BO0624_88467,490830,134,139,Bewaffneter Transport. Oel auf Holz 37x44 cm. Goldrahmen. Bez. unten links Pflug 1839.,509,97.6,False,title_direct,,,Gold,,
+BO0624_88467,490830,134,139,Bewaffneter Transport. Oel auf Holz 37x44 cm. Goldrahmen. Bez. unten links Pflug 1839.,509,97.6,False,title_direct,,,Gold,,Sec. XIX
 BO0624_88467,490831,135,140,Bildnis eines jungen Madchens. Kopie nach Velasquez. Oel auf Leinwand 84x64 cm. Goldrahmen.,513,97.8,False,title_direct,,,Gold,,
 BO0624_88467,490832,136,141,Kopie nach Murillo. Bildnis eines jungen spanischen Edelmanns. Oel auf Leinwand 109x80 cm. Goldrahmen.,514,98.0,False,title_direct,Murillo,,Gold,,
 BO0624_88467,490833,137,142,Madchen aus der Ramsau. Oel auf Pappe 30x25 cm. Schwarzer Rahmen. Bez. unten links E. Rau.,518,97.7,False,positional,E.Rau,,CORNICI,,
@@ -143,12 +143,12 @@ BO0624_88467,490837,141,146,Felsendurchblick mit Schafherde. Im Hintergrund See 
 BO0624_88467,490838,142,147,Waldinneres. Oel auf Pappe 27x41 cm. Schwarzer Rahmen. Bez. O.R.,532,96.7,False,positional,Otto Reiniger,,CORNICI,,
 BO0624_88467,490839,143,149,wildschwein von Hunden gestellt. Oel auf Leinwand 43x58 cm. Schwarzer Rahmen.,537,97.4,False,positional,Joh. Elias Riedinger,,CORNICI,,
 BO0624_88467,490840,144,150,Dachauer Bauer mit Masskrug. Oel auf Leinwand 34x27 cm.S Schwarzer Rahmen.Bez.unten rechts A. Roseler.,541,98.0,False,positional,August Roseler,,CORNICI,,
-BO0624_88467,490841,145,151,Heilige Familie. Ein Reiter begegnet der heiligen Familie. Oben tragen 4 Engel die Santo Casa nach Loretto. Am Sattel ist das Familienwappen der Freiherrn von Wetzel angebracht. Das Bild ist die Darstellung einer alten Familiensage. Oel auf Leinwand 150x192 cm. Schwarzer goldverzierter Rahmen. Bez. rechts J. Roos 1674 fecit. Abbildung Tafel 1.,547,99.4,False,positional,Joh. Heinrich Roos,,CORNICI,,
+BO0624_88467,490841,145,151,Heilige Familie. Ein Reiter begegnet der heiligen Familie. Oben tragen 4 Engel die Santo Casa nach Loretto. Am Sattel ist das Familienwappen der Freiherrn von Wetzel angebracht. Das Bild ist die Darstellung einer alten Familiensage. Oel auf Leinwand 150x192 cm. Schwarzer goldverzierter Rahmen. Bez. rechts J. Roos 1674 fecit. Abbildung Tafel 1.,547,99.4,False,positional,Joh. Heinrich Roos,,CORNICI,,Sec. XVII
 BO0624_88467,490842,146,152,"Adam und Eva im Paradies mit vielen Tierfiguren, Engeln usw. Oel auf Kupfer 54x42 cm. Goldrahmen.",551,97.9,False,title_direct,,,Gold,,
 BO0624_88467,490843,147,153,Bildnis einer Heiligen. Oel auf Leinwand 165x101 cm. Goldrahmen.,559,96.8,False,title_direct,,,Gold,,
-BO0624_88467,490844,148,154,Die Flickarbeit. Pfarrer eine Heiligenfigur flickend. Daneben eine nahende Frau mit Besen und sonstigem Hausgerat. Oel auf Leinwand 51x42 cm. Goldrahmen. Bez.unten rechts H. Rustige 1864.,565,98.9,False,title_direct,,,Gold,,
+BO0624_88467,490844,148,154,Die Flickarbeit. Pfarrer eine Heiligenfigur flickend. Daneben eine nahende Frau mit Besen und sonstigem Hausgerat. Oel auf Leinwand 51x42 cm. Goldrahmen. Bez.unten rechts H. Rustige 1864.,565,98.9,False,title_direct,,,Gold,,Sec. XIX
 BO0624_88467,490845,149,155,"Landschaft mit Gebirge und Wasserfall. Im Vordergrund weidende Kuhe, Ziegen und 'Schafe. Links unter einem Baum ein Bauernhaus mit Figuren. Am Fenster eine Frau, die Huihner fuittert. Oel auf Holz 44x69 cm. Goldrahmen. Bez. unten Roelant Savery. Abbildung Tafel 1.",569,99.2,False,title_direct,Roelant Savery,,Gold,,
-BO0624_88467,490846,150,156,Kurassier-Angrif. Oel auf Leinwand 28x32 cm. Goldrahmen. Bez. unten rechts J. Schamer 1843.,575,97.7,False,title_direct,J.Schamer,,Gold,,
+BO0624_88467,490846,150,156,Kurassier-Angrif. Oel auf Leinwand 28x32 cm. Goldrahmen. Bez. unten rechts J. Schamer 1843.,575,97.7,False,title_direct,J.Schamer,,Gold,,Sec. XIX
 BO0624_88467,490847,151,157,"Knabe mit Kaninchen. Oel auf Holz 12,5x17,5 cm. Goldrahmen. Bez. unten links F. Schlesinger.",579,97.7,False,title_direct,F.Schlesinger,,Gold,,
 BO0624_88467,490848,152,158,"Hochwild im Winter.Oel auf Leinwand 118x97 cm. Goldrahmen. Bez. unten rechts J. Schmitzberger, Munchen.",583,98.0,False,title_direct,J.Schmitzberger,,Gold,,
 BO0624_88467,490849,153,159,Hirsche im Hochwald. Oel auf Leinwand 130x107 cm. Schwarzer Rahmen. Bez. unten rechts,584,97.6,False,positional,J.Schmitzberger,,CORNICI,,
@@ -174,7 +174,7 @@ BO0624_88467,490868,172,182,Christuskopf. Oel auf Holz 42x34 cm. Schwarzer Rahme
 BO0624_88467,490869,173,183,La Fornarina. Oel auf Leinwand 69x61 cm. Goldrahmen.,695,96.1,False,title_direct,,,Gold,,
 BO0624_88467,490870,174,184,Bildnis von Johann Ephraim Lessing. Oel auf Leinwand 53x44 cm. Goldrahmen.,699,97.3,False,title_direct,LESSING CARL F.,,Gold,,
 BO0624_88467,490871,175,185,Goldrahmen.,704,83.3,False,title_direct,,,Gold,,
-BO0624_88467,490872,176,186,Grosse Jagd bei Leonberg im Jahre 1773. Aquarell in Biedermeier-Rahmen 75x58 cm.,705,97.5,False,title_direct,,Biedermeier,CORNICI,,
+BO0624_88467,490872,176,186,Grosse Jagd bei Leonberg im Jahre 1773. Aquarell in Biedermeier-Rahmen 75x58 cm.,705,97.5,False,title_direct,,Biedermeier,CORNICI,,Sec. XVIII
 BO0624_88467,490873,177,187,- 188,707,100.0,False,positional,Tischbein,,,,
 BO0624_88467,490874,178,189,Bildnis von Theodor Korner. Pastell 60x47 cm. Goldrahmen.,708,96.4,False,title_direct,,,Gold,,
 BO0624_88467,490875,179,190,Ansicht von Bad Teinach mit der Ruine Zavelstein in alter Zeit. Aquarell 42x63 cm. Goldrahmen.,710,97.8,False,title_direct,,,Gold,,
@@ -217,7 +217,7 @@ BO0624_88467,490911,215,229,"Die Weinprobe. Oel auf Holz 54x41 cm. Schwarzer Rah
 BO0624_88467,490912,216,230,Blumenstilleben.Oel auf Leinwand 81x67 cm.Goldrahmen. Bez.unten rechts Paul Johann Walch.,802,97.8,False,title_direct,Paul Johann Walch,,Gold,,
 BO0624_88467,490913,217,234,Kriegs-Embleme (Sur-porte). Oel auf Leinwand 188x58 cm. Brauner Rahmen. Der Schitzenkonig. Jager mit Bierglas in der Hand und Schwein im Arm auf einem Wildschwein reitend. Oel auf Holz. Schitzenscheibe. SchwarzerRahmen 46x46 cm. Bez. unten rechts Zugel.,809,83.5,False,positional,Heinrich von Zugel,,CORNICI,,
 BO0624_88467,490914,218,235,Auigang durch den Wald zu einem Schloss mit Figuren. Oel auf Leinwand 60X47 cm. Goldrahmen.,815,97.8,False,title_direct,,,Gold,,
-BO0624_88467,490915,219,236,Pierdestudie. Aquarell 18x27 cm. Schwarzer Rahmen. Bez. Louis Braun. Das Wornitzer Thor in Dinkelsbihl. Aquarell 37x24 cm. Schwarzer Rahmen. Bez. G. Conz. Partie aus Feuerbach. Aquarell 30x23 cm. Schwarzer Rahmen. Bez. G. Conz 1887.,824,54.4,False,title_direct,Louis Braun,,CORNICI,,
+BO0624_88467,490915,219,236,Pierdestudie. Aquarell 18x27 cm. Schwarzer Rahmen. Bez. Louis Braun. Das Wornitzer Thor in Dinkelsbihl. Aquarell 37x24 cm. Schwarzer Rahmen. Bez. G. Conz. Partie aus Feuerbach. Aquarell 30x23 cm. Schwarzer Rahmen. Bez. G. Conz 1887.,824,54.4,False,title_direct,Louis Braun,,CORNICI,,Sec. XIX
 BO0624_88467,490916,220,239,"Hausergruppe mit Bricke in Waiblingen. Aquarell 23x28,5 cm. Schwarzer Rahmen. Bez. G. Conz.",826,97.7,False,title_direct,,,CORNICI,,
 BO0624_88467,490917,221,240,"Bildnis einer Dame mit bunter spitzenbesetzter Haube. Oel auf Holz 33x24,5 cm. Silbergetonter Rahmen.",830,98.0,False,title_direct,,,CORNICI,,
 BO0624_88467,490918,222,241,Zigeunerin. Aquarell 36x21 cm. Schwarzer holzgeschnitzter Rahmen. Bez. David Franz.,833,97.5,False,title_direct,David Franz,,CORNICI,,
@@ -228,7 +228,7 @@ BO0624_88467,490922,226,245,"Pierdekopf. Oel auf Pappe 15x13,5 cm. Schwarzer Rah
 BO0624_88467,490923,227,246,Talblick.Oel auf Leinwand 33x26 cm. Schwarzer Rahmen. Bez. unten rechts M. Nikolaus.,853,97.5,False,title_direct,M. Nikolaus,,CORNICI,,
 BO0624_88467,490924,228,247,"Lied und Lieb. Wirtsstube in einem oberbayerischen Dorfe. 2 Jager an einem Wirtstisch sitzend,",858,97.8,False,positional,August Mayer,,,,
 BO0624_88467,490925,229,248,Gebirgslandschaft mit Bach und Kuhen an einem Brunnen. Sepia-Zeichnung 11x16 cm. Goldrahmen. Bez. unten rechts Fischbach.,862,98.3,False,title_direct,,,Gold,,
-BO0624_88467,490926,230,251,Zusammenkunft Napoleons mit Alexander 1. am 25. 4. 1807. Farbstich.,867,96.9,False,positional,,,Stiche; Lithographien,,
+BO0624_88467,490926,230,251,Zusammenkunft Napoleons mit Alexander 1. am 25. 4. 1807. Farbstich.,867,96.9,False,positional,,,Stiche; Lithographien,,Sec. XIX
 BO0624_88467,490927,231,252,- 15 Ansichten von Gmind. Lithographie.,869,100.0,False,title_direct,,,Lithographien,,
 BO0624_88467,490928,232,253,"Le Midi. Viehherde am Brunnen. Nach Berchem, Stahlstich von Dequevau.",870,97.0,False,positional,BERCHEM NICOLAAS,,Stiche; Lithographien,,
 BO0624_88467,490929,233,254,Le Matin.,871,80.0,False,positional,,,Stiche; Lithographien,,
@@ -260,7 +260,7 @@ BO0624_88467,490954,258,281,Die Reutbahn. Farbstich.,907,91.7,False,positional,,
 BO0624_88467,490955,259,282,- Horses going to a Fair. Farbstich von W. Fellows nach S. J. E. Jones.,909,100.0,False,positional,,,Stiche; Lithographien,,
 BO0624_88467,490956,260,284,284,911,100.0,False,positional,,,Stiche; Lithographien,,
 BO0624_88467,490957,261,285,Das entschlossene Madchen. Farbstich. Gemalt und geazt von Seele.,914,96.9,False,positional,,,Stiche; Lithographien,,
-BO0624_88467,490958,262,286,grossen Teuerung 1817. Kolorierter Stich nach Gottlob L. Edinger.,916,96.9,False,positional,,,Stiche; Lithographien,,
+BO0624_88467,490958,262,286,grossen Teuerung 1817. Kolorierter Stich nach Gottlob L. Edinger.,916,96.9,False,positional,,,Stiche; Lithographien,,Sec. XIX
 BO0624_88467,490959,263,287,- Auffindung des Moseskindleins. Stich von Ridner nach Bortolozzi.,918,100.0,False,positional,,,Stiche; Lithographien,,
 BO0624_88467,490960,264,288,Ueberbringung der Brautgeschenke an Rahel. Stich von Ridner nach Bortolozzi.,919,97.4,False,positional,,,Stiche; Lithographien,,
 BO0624_88467,490961,265,289,"- Oesterreich, Tirol und Vorariberg. Trachtenbild mit Schitzenfest. Farbige Lithographie.",921,100.0,False,title_direct,,Scuola Tirolese,Lithographien,,
@@ -320,7 +320,7 @@ BO0624_88467,491014,318,344,- 1 silb. Filigran-Gurtel.,1000,100.0,False,position
 BO0624_88467,491015,319,345,1 russ. Tuladoschen.,1001,90.0,False,positional,,,Silber; Gold,,
 BO0624_88467,491016,320,346,- 1 silb. Bonbonniere.,1003,100.0,False,positional,,,Silber; Gold,,
 BO0624_88467,491017,321,347,1 kleine silb. Dose.,1004,90.0,False,positional,,,SCATOLE,,
-BO0624_88467,491018,322,348,1 goldene Dose mit Garde du Corps Abzeichen und Inschrift 1854-1858.,1005,97.1,False,positional,,,SCATOLE,,
+BO0624_88467,491018,322,348,1 goldene Dose mit Garde du Corps Abzeichen und Inschrift 1854-1858.,1005,97.1,False,positional,,,SCATOLE,,Sec. XIX
 BO0624_88467,491019,323,349,1 verg. Hostiendose.,1006,90.0,False,positional,,,Silber; Gold,,
 BO0624_88467,491020,324,350,1 vers. Tabernakelstander.,1007,92.3,False,positional,,,Silber; Gold,,
 BO0624_88467,491021,325,351,- 1 vers. Sabbathlampe. Hohe 50 cm.,1009,100.0,False,positional,,,Silber; Gold,,
@@ -351,7 +351,7 @@ BO0624_88467,491045,349,376,"1 silb. Taschenuhr, Grande Armee a Pleine Marche.",
 BO0624_88467,491046,350,377,"1 silb. Taschenuhr mit blauem EmailZifferblatt mit silb. Relief, Amoretten, verziert.",1077,97.6,False,positional,,,Taschenuhren,,
 BO0624_88467,491047,351,378,1 silb. Taschenuhr mit verziertem Zifferblatt.,1079,95.7,False,positional,,,Taschenuhren,,
 BO0624_88467,491048,352,379,Bildnis ines Offiziers.,1083,91.7,False,positional,,,Miniaturen; Dosen,,
-BO0624_88467,491049,353,380,Bildnis des K.K. Hauptmanns Baron Staudach. Bez. Beyer 1832.,1085,96.6,False,positional,,,Miniaturen; Dosen,,
+BO0624_88467,491049,353,380,Bildnis des K.K. Hauptmanns Baron Staudach. Bez. Beyer 1832.,1085,96.6,False,positional,,,Miniaturen; Dosen,,Sec. XIX
 BO0624_88467,491050,354,381,Bildnis der Baronin Staudach.,1087,93.3,False,positional,,,Miniaturen; Dosen,,
 BO0624_88467,491051,355,382,"Bildnis der Baronin Szorengi, als junges Madchen, oval.",1089,96.3,False,positional,,,Miniaturen; Dosen,,
 BO0624_88467,491052,356,383,"Bildnis des Barons Anton Szorengi, oval.",1091,95.0,False,positional,,,Miniaturen; Dosen,,
@@ -367,15 +367,15 @@ BO0624_88467,491061,365,392,Bildnis eines Herrn aus der Empirezeit. Bez. Holder.
 BO0624_88467,491062,366,393,Bildnis einer Rokokodame. Oel auf Kupfer in Rokoko-Bronzerahmchen.,1116,97.0,False,title_direct,,,OGGETTI IN RAME,,
 BO0624_88467,491063,367,394,"Baronin Therese Szorengi, gemalte Silhouette, oval.",1117,96.0,False,positional,,,Miniaturen; Dosen,,
 BO0624_88467,491064,368,395,"Frederike Quitton von Rosenwald, gemalte Silhouette, oval.",1121,100.0,False,positional,,,Miniaturen; Dosen,,
-BO0624_88467,491065,369,396,"Fanny Quitton von Rosenwald, gest. 3.5.1849, gemalte Silhouette, oval. Abbildungen der Miniaturen No. 380-396 Tafel 3.",1123,98.2,False,title_direct,,,Miniaturen,,
+BO0624_88467,491065,369,396,"Fanny Quitton von Rosenwald, gest. 3.5.1849, gemalte Silhouette, oval. Abbildungen der Miniaturen No. 380-396 Tafel 3.",1123,98.2,False,title_direct,,,Miniaturen,,Sec. XIX
 BO0624_88467,491066,370,397,"Rauchender Hollander. Oel, oval.",1124,93.5,False,positional,,,Miniaturen; Dosen,,
 BO0624_88467,491067,371,398,Abbildung Tafel 3.,1126,89.5,False,positional,,,Miniaturen; Dosen,,
 BO0624_88467,491068,372,399,Kriegszug in Indien mit Elefanten. Aquarell.,1127,95.5,False,title_direct,,,Aquarelle,,
 BO0624_88467,491069,373,400,"Klingstedt, der Versucher. Tuschzeichnung.",1128,95.1,False,positional,,,Miniaturen; Dosen,,
-BO0624_88467,491070,374,401,"Bildnis von Wallenstein, Oel auf Kupfer 5,5x6,5 cm, oval. Auf der Vorderseite bezeichnet: AE. TATIS 41. AO. 1625, auf der Ruckseite ist Wallensteins Horoskop in die Kupferplatte eingraviert. Sehr interessantes Stuck aus firstlicher Sammlung. Abbildung Tafel 3.",1129,99.2,False,positional,STUCK FRANZ VON,,OGGETTI IN RAME,,
+BO0624_88467,491070,374,401,"Bildnis von Wallenstein, Oel auf Kupfer 5,5x6,5 cm, oval. Auf der Vorderseite bezeichnet: AE. TATIS 41. AO. 1625, auf der Ruckseite ist Wallensteins Horoskop in die Kupferplatte eingraviert. Sehr interessantes Stuck aus firstlicher Sammlung. Abbildung Tafel 3.",1129,99.2,False,positional,STUCK FRANZ VON,,OGGETTI IN RAME,,Sec. XVII
 BO0624_88467,491071,375,402,"Bildnis einer Ulmer Patrizierin, oval.",1130,94.7,False,positional,,,Miniaturen; Dosen,,
 BO0624_88467,491072,376,403,1 Kupferemaildose mit Blumen.,1132,93.3,False,positional,,,Miniaturen; Dosen,,
-BO0624_88467,491073,377,404,"1 ovale Achatdose mit Silber vergoldeter Montierung, 1843. a 1 silb. runde Dose mit Porzellanmalerei, Rokokoszene.",1133,66.3,False,title_direct,,,SCATOLE,,
+BO0624_88467,491073,377,404,"1 ovale Achatdose mit Silber vergoldeter Montierung, 1843. a 1 silb. runde Dose mit Porzellanmalerei, Rokokoszene.",1133,66.3,False,title_direct,,,SCATOLE,,Sec. XIX
 BO0624_88467,491074,378,405,- 51 kleines eingelegtes Kastchen.,1136,100.0,False,positional,,,SCATOLE,,
 BO0624_88467,491075,379,406,- 1 kleines eingelegtes Kastchen mit Schnitzerei.,1138,100.0,False,positional,,,SCATOLE,,
 BO0624_88467,491076,380,407,- 1 hollandische Messing-Teedose,1140,100.0,False,title_direct,,,Messing,,
@@ -442,7 +442,7 @@ BO0624_88467,491136,440,465,"1 Ludwigsburger Zuckerdose mit Deckel, Korbrand mit
 BO0624_88467,491137,441,466,"- 1 Ludwigsburger Teedose, geschuppt mit Blumenmalerei.",1243,100.0,False,positional,,Manifattura di Ludwigsburg,Porzellane; Fayencen; Steingut,,
 BO0624_88467,491138,442,467,- 468,1245,100.0,False,positional,,,Porzellane; Fayencen; Steingut,,
 BO0624_88467,491139,443,469,- 4 Ludwigsburger Teller mit Korbrand und Blumen.,1247,100.0,False,positional,,Manifattura di Ludwigsburg,PIATTI,,
-BO0624_88467,491140,444,2,"Ludwigsburger Wand-Platten, antike Kriegerkopfe auf blauem Grunde mit goldenem Rande und Bronzeverzierung. Durchm.25,5 cm. Gemalt von Konigin Charlotte Mathilde. Bez. C.M.1814.",1248,99.4,False,title_direct,,Manifattura di Ludwigsburg,PIATTI,,
+BO0624_88467,491140,444,2,"Ludwigsburger Wand-Platten, antike Kriegerkopfe auf blauem Grunde mit goldenem Rande und Bronzeverzierung. Durchm.25,5 cm. Gemalt von Konigin Charlotte Mathilde. Bez. C.M.1814.",1248,99.4,False,title_direct,,Manifattura di Ludwigsburg,PIATTI,,Sec. XIX
 BO0624_88467,491141,445,1,"Ludwigsburger Figur,Madchen mit Blumenkorb, farbig. Hohe 15 cm.",1249,98.4,False,positional,,Manifattura di Ludwigsburg,Porzellane; Fayencen; Steingut,,
 BO0624_88467,491142,446,470,"- 1 Ludwigsburger Figur, Metzger mit Fleisch, farbig. Hohe 15 cm.",1251,100.0,False,positional,,Manifattura di Ludwigsburg,Porzellane; Fayencen; Steingut,,
 BO0624_88467,491143,447,471,·1,1252,33.3,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Porzellane; Fayencen; Steingut,,
@@ -467,7 +467,7 @@ BO0624_88467,491161,465,489,"1 Fayencekrug mit Zinndeckel, blauer Grund mit spri
 BO0624_88467,491162,466,490,"1 Fayencekrug mit Zinndeckel, mit Baumen und trinkendem Mann. Hohe 21 cm.",1280,97.2,False,title_direct,,,Zinn,,
 BO0624_88467,491163,467,491,"1 Fayencekrug mit Zinndeckel, mit Ritter St. Georg bemalt. Hohe 23 cm. Abbildung Tafel 5.",1282,97.7,False,title_direct,,,Zinn,,
 BO0624_88467,491164,468,492,"1 Fayencekrug mit Zinndeckel, mit Kirche bemalt. Hohe 22,5 cm.",1283,96.7,False,title_direct,,,Zinn,,
-BO0624_88467,491165,469,493,"1 Fayencekrug mit Zinndeckel, mit Baumen und Rokokodame bemalt. Zinndeckel mitGravierung 1782.Hohe 22,5 cm. Abbildung Tafel 5.",1285,98.4,False,title_direct,,,Zinn,,
+BO0624_88467,491165,469,493,"1 Fayencekrug mit Zinndeckel, mit Baumen und Rokokodame bemalt. Zinndeckel mitGravierung 1782.Hohe 22,5 cm. Abbildung Tafel 5.",1285,98.4,False,title_direct,,,Zinn,,Sec. XVIII
 BO0624_88467,491166,470,494,1 Steingut-Enghalskrug mit blauer Malerei. Hohe 21 cm.,1286,96.3,False,title_direct,,,Steingut,,
 BO0624_88467,491167,471,495,1 Steingut-Krug mit Zinndeckel und blauer Bemalung. Hohe 25 cm.,1287,96.8,False,title_direct,,,Steingut,,
 BO0624_88467,491168,472,496,1 ringformiger Steingutkrug mit blauer Verzierung. Hohe 35 cm.,1288,96.8,False,title_direct,,,Steingut,,
@@ -492,7 +492,7 @@ BO0624_88467,491186,490,513,"12 geschliffene, grosse Wasserglaser (vom Residenzs
 BO0624_88467,491187,491,514,"- 12 geschliffene Weissweinglaser, mit hohem, grinem Fuss.",1315,100.0,False,positional,,,Glaswaren,,
 BO0624_88467,491188,492,515,- 516,1317,100.0,False,positional,,,Glaswaren,,
 BO0624_88467,491189,493,6,fein geschliffene Sektkelche.,1318,96.6,False,positional,,,Glaswaren,,
-BO0624_88467,491190,494,1,"Glaspokal mit Deckel, reich geschliffen und farbig verziert. Mit Ansicht von Minchen und Widmung 1842. Hohe 34 cm.",1319,99.1,False,positional,,,OGGETTI VARI,,
+BO0624_88467,491190,494,1,"Glaspokal mit Deckel, reich geschliffen und farbig verziert. Mit Ansicht von Minchen und Widmung 1842. Hohe 34 cm.",1319,99.1,False,positional,,,OGGETTI VARI,,Sec. XIX
 BO0624_88467,491191,495,517,1 Trinkglas mit geschliffenem Fuss und Ansicht des Muinsters zu Ulm.,1320,97.1,False,positional,,,Glaswaren,,
 BO0624_88467,491192,496,518,2 Kristallschalen mit Fuss und reichem Schliff.,1321,95.8,False,positional,,,Glaswaren,,
 BO0624_88467,491193,497,519,2 geschliffene Kristallschalen mit Fuss und Deckel.,1322,96.2,False,positional,,,Glaswaren,,
@@ -508,7 +508,7 @@ BO0624_88467,491202,506,528,"1 hellblaue Glasbowle mit Platte und 6 Glasern, Bie
 BO0624_88467,491203,507,529,"1 grosse, blaue Glasvase. 53 cm hoch.",1351,100.0,False,positional,,,Glaswaren,,
 BO0624_88467,491204,508,530,"1 blaue Tiffany-Vase mit Metallverzierungen, niedere Form.",1353,96.6,False,positional,,,VASI,,
 BO0624_88467,491205,509,531,2 grinliche Glasblocke.,1355,91.7,False,positional,,,Glaswaren,,
-BO0624_88467,491206,510,532,1 Zunftzeichen der Schuhmacher 1795.,1357,94.6,False,positional,,,Glaswaren,,
+BO0624_88467,491206,510,532,1 Zunftzeichen der Schuhmacher 1795.,1357,94.6,False,positional,,,Glaswaren,,Sec. XVIII
 BO0624_88467,491207,511,533,"2 Empire-Leuchter,Hohe 28 cm.",1359,93.3,False,positional,,,LAMPADE,,
 BO0624_88467,491208,512,534,"1 Leuchter.Hohe 20 cm. Empire-Leuchter, Figur, bunt bemalt. Hohe 21 cm.",1363,81.4,False,positional,,,LAMPADE,,
 BO0624_88467,491209,513,535,"1 rundes Empire-Gestell. Hohe 7 cm. Durchm. 10,5 cm.",1367,100.0,False,positional,,,Glaswaren,,
@@ -715,7 +715,7 @@ BO0624_88467,491409,713,732,2 alte Perlborsen.,1857,89.5,False,positional,,,Alte
 BO0624_88467,491410,714,733,1 eingelegtes Vexiermappchen.,1859,93.3,False,positional,,,Altertumer,,
 BO0624_88467,491411,715,734,"1 Messerbesteck mit 3 Heften, Renaissance.",1863,100.0,False,positional,,,Altertumer,,
 BO0624_88467,491412,716,735,1 Renaissancemesser.,1865,90.5,False,positional,,,Altertumer,,
-BO0624_88467,491413,717,736,"1 Hirschfanger, anno 1600.",1867,92.3,False,positional,,,Altertumer,,
+BO0624_88467,491413,717,736,"1 Hirschfanger, anno 1600.",1867,92.3,False,positional,,,Altertumer,,Sec. XVII
 BO0624_88467,491414,718,7371,orientalischer Dolch.,1869,88.9,False,positional,,,Altertumer,,
 BO0624_88467,491415,719,738,1 anatolisches Tula-Taschenmesser.,1871,94.3,False,positional,,,Altertumer,,
 BO0624_88467,491416,720,739,"91 Bronze-Briefoffner mit Mausen, arabisch",1875,100.0,False,title_direct,,,Bronze,,
@@ -726,7 +726,7 @@ BO0624_88467,491420,724,743,"744 1 russisches ronzerelief, emailliert, Tod einer
 BO0624_88467,491421,725,745,"1 russisches Bronzerelief, emailliert, Christus am Kreuz, auf Samtgrund. russisches Heiligenbild.",1893,85.0,False,title_direct,,,STAMPE E INCISIONI,,
 BO0624_88467,491422,726,746,1 russisches Heiligenbild.,1895,100.0,False,positional,,,Altertumer,,
 BO0624_88467,491423,727,747,1 Zunftzeichen der Fischer.,1899,92.9,False,positional,,,Altertumer,,
-BO0624_88467,491424,728,748,"1 kupferne Schraubenkanne graviert A. G. 1867. Hohe 31 cm, Durchmesser 20,5 cm.",1901,97.4,False,positional,,,Altertumer,,
+BO0624_88467,491424,728,748,"1 kupferne Schraubenkanne graviert A. G. 1867. Hohe 31 cm, Durchmesser 20,5 cm.",1901,97.4,False,positional,,,Altertumer,,Sec. XIX
 BO0624_88467,491425,729,749,"1 kleiner eiserner Stander, Renaissance. Jagdsammlung bestehend aus: 1 geschnitzten Hirschkopf, 3 Hirschgeweihen, 18 Rehgehornen,",1907,81.7,False,positional,,,Altertumer,,
 BO0624_88467,491426,730,750,"1Fuchskopf, 1 Dachskopf,1 Affen.",1909,93.8,False,positional,,,Altertumer,,
 BO0624_88467,491427,731,751,"1 Hirschkopf, holzgeschnitzt, ungerader 14Ender.",1913,100.0,False,positional,,,Altertumer,,
@@ -743,7 +743,7 @@ BO0624_88467,491437,741,762,"1 Bronzeabguss, romische Krieger.",1939,93.9,False,
 BO0624_88467,491438,742,763,a 7 versch. orientalische Munzen-Nachahmungen. 1 Sammlung von ca. 70 Stuick Zinnniederschlagen von alten Minzen.,1943,74.3,False,title_direct,,,Munzen,,
 BO0624_88467,491439,743,764,9 orientalische Silber- und 3 Kupferminzen.,1944,95.3,False,title_direct,,,Silber,,
 BO0624_88467,491440,744,764,a 1 St. Georgs-Taler.,1946,92.7,False,positional,,,Briefmarkensammlungen; Munzen,,
-BO0624_88467,491441,745,764,"b 1 Bleiminze, Frankfurt 1792. c 1 Ulmer Munze, Nachbildung",1950,65.1,False,positional,,,Briefmarkensammlungen; Munzen,,
+BO0624_88467,491441,745,764,"b 1 Bleiminze, Frankfurt 1792. c 1 Ulmer Munze, Nachbildung",1950,65.1,False,positional,,,Briefmarkensammlungen; Munzen,,Sec. XVIII
 BO0624_88467,491442,746,765,"2 grosse, japanische Vasen mit figirlicher Bemalung, sitzende Japaner als Henkel, auf Holzuntersatz.",1954,98.0,False,title_direct,,,Vasen,,
 BO0624_88467,491443,747,766,"2 chinesiche Vasen mit Deckel und figurlicher Bemalung, auf dem Deckel vergoldete Lowen. Hohe 85 cm. Abbildung Tafel 6.",1956,98.3,False,title_direct,,,Vasen,,
 BO0624_88467,491444,748,767,"2 chinesiche Vasen mit figuirlicher Malerei, Blumen und Vogel, vergold. Henkel und vergoldete Eidechsen. Hohe 90 cm. Abbildung Tafel 6.",1957,98.5,False,title_direct,,,Vasen,,
@@ -813,7 +813,7 @@ BO0624_88467,491507,811,826,"1 marmorierte Saule mit drehbarem Aufsatz. Durchmes
 BO0624_88467,491508,812,827,2 schwarze Saulen. Hohe 97 cm.,2102,100.0,False,title_direct,,,Saulen,,
 BO0624_88467,491509,813,828,"2 schwarze Saulen mit Bronzebeschlagen. Hohe 1,07 m.",2104,96.2,False,title_direct,,,Bronze,,
 BO0624_88467,491510,814,829,"1 schwarze Saule.Hohe 1,05 m. dreiteiliger Ofenschirm, Eichenrahmen mit Leder,verziert mit getonter Lederpressung,altdeutsche",2108,87.7,False,positional,,,OGGETTI IN PELLE,,
-BO0624_88467,491511,815,830,"Edelfrau darstellend. grosser Barockschrank aus dem Jahre 1767, reich eingelegt. Hohe 1,90 m. Breite 1,75 m.",2110,88.8,False,positional,,,Mobel; Spiegel; Saulen,,
+BO0624_88467,491511,815,830,"Edelfrau darstellend. grosser Barockschrank aus dem Jahre 1767, reich eingelegt. Hohe 1,90 m. Breite 1,75 m.",2110,88.8,False,positional,,,Mobel; Spiegel; Saulen,,Sec. XVIII
 BO0624_88467,491512,816,831,Tiefe 55 cm.,2111,84.6,False,positional,,,Mobel; Spiegel; Saulen,,
 BO0624_88467,491513,817,832,"1 Tabernakelschrankchen mit Schnitzereien. Hohe 1,06 m. Breite 0,85 m.",2112,97.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88467,491514,818,832,"a 1 gepolsteter Sessel mit besticktem rosa Lederiberzug, reiche Schnitzerei, Blumen und Hohenloher Wappen..",2113,98.6,False,positional,,,Mobel; Spiegel; Saulen,,

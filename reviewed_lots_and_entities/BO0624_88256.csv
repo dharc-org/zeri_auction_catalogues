@@ -1,12 +1,12 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88256,549817,1,1,"F. Bartolozzi. (?) Madonna, auf einer Bank sitzend, mit dem Jesuskind zur Rechten. Kupferstich (nach Cipriani ?). Hohe 32 cm, Breite 24,5 cm. Vor der Schrift; mit vollem Rand. ，——",5,99.4,False,title_direct,,,Kupferstiche,,
 BO0624_88256,549818,2,2,Hans Bol. Die Landschaft mit dem Planwagen. Schoner alter Druck. Quer-Fol. 5—,9,98.6,False,positional,,,Radierungen,,
-BO0624_88256,549819,3,3,"J.Chapman.Portrat Martin Luthers. Brustbild in Oval; unten Allegorie. Kolorierter Kupferstich. London, Jones, 1814.Hohe 15 cm, Breite 9 cm. ,—",10,99.2,False,title_direct,,,Kupferstiche,,
+BO0624_88256,549819,3,3,"J.Chapman.Portrat Martin Luthers. Brustbild in Oval; unten Allegorie. Kolorierter Kupferstich. London, Jones, 1814.Hohe 15 cm, Breite 9 cm. ,—",10,99.2,False,title_direct,,,Kupferstiche,,Sec. XIX
 BO0624_88256,549820,4,4,"Al. Contardi. Bildnis des Papstes Pius VIl. Brustbild in Oval. Kolorierter Kupferstich nach J. B. Wicar. Hohe 28,5 cm, Breite 22 cm. Mit breitem Rand. ,—",14,99.3,False,title_direct,,,Kupferstiche,,
 BO0624_88256,549821,5,5,E.J. Cranford. Landschaft mit Staffage. Originalra-,18,97.9,False,positional,,,Radierungen,,
 BO0624_88256,549822,6,6,"- —Allegorie. Originalradierung. Hohe 14 cm, Breite 9cm. ，—",21,100.0,False,positional,,,Radierungen,,
 BO0624_88256,549823,7,7,J. Danzel. La Laveuse. J. B. Greuze pinxit. Schoner,25,97.8,False,positional,GREUZE J. B.,,Radierungen,,
-BO0624_88256,549824,8,8,"R. Earlom. Una. GroBer Kupferstich (Schabkunstblatt) nach Benj. West. London, Boydell, 1772. Mit schmalem Rand. Hohe 45 cm, Breite 58 cm. ,—",27,99.2,False,title_direct,,,Kupferstiche,,
+BO0624_88256,549824,8,8,"R. Earlom. Una. GroBer Kupferstich (Schabkunstblatt) nach Benj. West. London, Boydell, 1772. Mit schmalem Rand. Hohe 45 cm, Breite 58 cm. ,—",27,99.2,False,title_direct,,,Kupferstiche,,Sec. XVIII
 BO0624_88256,549825,9,9,Englisches Schabkunstblatt. Knabe in Soldatenuniform. Vorziglicher alter Druck. 9，——,29,98.7,False,positional,,,Radierungen,,
 BO0624_88256,549826,10,10,Miss playing with Cup and Ball. Vorziglicher alter 9,30,97.1,False,positional,,,Radierungen,,
 BO0624_88256,549827,11,11,"A. Flamm. Kornernte. GroBe farbige Lithographie. Hohe 28 cm,Breite 40 cm. 3，—",32,97.9,False,title_direct,,,Lithographien,,
@@ -25,23 +25,23 @@ BO0624_88256,549839,23,23,- 一,87,100.0,False,positional,,,Radierungen,,
 BO0624_88256,549840,24,24,"一 Schneelandschaft. Hohe 12 cm, Breite 29 cm. 5，——",91,96.7,False,positional,,,Radierungen,,
 BO0624_88256,549841,25,25,"一 Fischerhitte in den Dunen. Hohe 12 cm, Breite ,5 cm. 5，——",93,90.0,False,positional,,,Radierungen,,
 BO0624_88256,549842,26,26,"Strombild. Hohe 12 cm, Breite 28,5 cm. 5，—",97,96.1,False,positional,,,Radierungen,,
-BO0624_88256,549843,27,27,"H. Goltzius. Mythologische Darstellung. B. Spranger inv. Schoner alter Druck. Aufgezogen. Gr.-Fol. 3,—",99,98.4,False,positional,,,Radierungen,,
+BO0624_88256,549843,27,27,"H. Goltzius. Mythologische Darstellung. B. Spranger inv. Schoner alter Druck. Aufgezogen. Gr.-Fol. 3,—",99,98.4,False,positional,GOLTZIUS HENDRIK,,Radierungen,,
 BO0624_88256,549844,28,28,P. Gunst. Portrats Karls V. und Madelaine de France. Van der Werf pinx. Alte Drucke. Fol. 3，—,101,98.2,False,positional,,,Radierungen,,
 BO0624_88256,549845,29,29,J. E. Haid. Melle. sa Soeur. Heilmann pinx. Schones Schabkunstblatt mit breitem Rand. Gr.-Fol. ，—,103,98.3,False,positional,,,Radierungen,,
 BO0624_88256,549846,30,30,Wilh.Hecht. Furst Bismarck. Nach Lenbach. Abdruck auf chinesischem Papier. Royal-Folio. 2，—,107,98.2,False,positional,LENBACH FRANZ VON,,Radierungen,,
 BO0624_88256,549847,31,31,Henriquel-Dupont. Lord Strafford. Paul de la Roche pinx. Vor aller Schrift auf chinesischem Papier. Qu. mp.-Fol.,109,95.1,False,positional,,,Radierungen,,
 BO0624_88256,549848,32,32,"C. H. Hodges. Christ laid in the Sepulchre. Parme- ,—",112,96.8,False,positional,,,Radierungen,,
-BO0624_88256,549849,33,33,Wenzel Hollar. Die Herde am Wasser. Parthey 1220.,117,96.8,False,positional,,,Radierungen,,
+BO0624_88256,549849,33,33,Wenzel Hollar. Die Herde am Wasser. Parthey 1220.,117,96.8,False,positional,,,Radierungen,,Sec. XIII
 BO0624_88256,549850,34,34,J. B. Huet (?) Lagernde Schafherde in Landschaft.,119,96.6,False,positional,HUET J.B.,,Radierungen,,
-BO0624_88256,549851,35,35,"F. Jukes. View on the River Dee near Bala. Kolorierter Kupferstich nach T. Walmsley. London, F. Jukes, 1792. Mit schmalem Rand. Hohe 30 cm, Breite 42 cm.10,—",121,99.0,False,title_direct,,,Kupferstiche,,
+BO0624_88256,549851,35,35,"F. Jukes. View on the River Dee near Bala. Kolorierter Kupferstich nach T. Walmsley. London, F. Jukes, 1792. Mit schmalem Rand. Hohe 30 cm, Breite 42 cm.10,—",121,99.0,False,title_direct,,,Kupferstiche,,Sec. XVIII
 BO0624_88256,549852,36,36,"Aug. Kaulbach,Kinderportrat. Buntdruck in reichem Goldrahmen.Durchm. 20 cm.",122,97.9,False,positional,KAULBACH FRITZ AUGUST VON,,Radierungen,,
 BO0624_88256,549853,37,37,"A. von Keller. Frihling. Farbiges Kunstblatt. Goldrahmen. Hohe 16 cm, Breite 15 cm.",123,98.1,False,positional,,,Radierungen,,
 BO0624_88256,549854,38,38,Ch.Knight. Attention. S. de Voster painted. Alter Ab- ，,124,97.0,False,positional,,,Radierungen,,
-BO0624_88256,549855,39,39,"K. W. Kolbe d. Ae. Damon et Phillis. La Grotte. Zwei mythologische Landschaften nach S. Gessner. Kupferstiche, ca.1810.2 Blatt. Hohe 25 cm, Breite 33 cm und Hohe 27,5 cm, Breite 38 cm. ,—",129,99.1,False,title_direct,,,Kupferstiche,,
-BO0624_88256,549856,40,40,"Koenig und Leclerc. Le drapeau liberateur. Derniere ressource d'un brave. 2 Bl. farbige Kupferstiche nach Collin. Episoden aus dem Peninsulakrieg und dem Rickzug in RuBland 1812. Unten franzosischer Text, an 3 Seiten beschnitten. Quaderrahmen. Hohe je 31,5 cm, ,—",133,99.4,False,title_direct,,,Kupferstiche,,
+BO0624_88256,549855,39,39,"K. W. Kolbe d. Ae. Damon et Phillis. La Grotte. Zwei mythologische Landschaften nach S. Gessner. Kupferstiche, ca.1810.2 Blatt. Hohe 25 cm, Breite 33 cm und Hohe 27,5 cm, Breite 38 cm. ,—",129,99.1,False,title_direct,,,Kupferstiche,,Sec. XIX
+BO0624_88256,549856,40,40,"Koenig und Leclerc. Le drapeau liberateur. Derniere ressource d'un brave. 2 Bl. farbige Kupferstiche nach Collin. Episoden aus dem Peninsulakrieg und dem Rickzug in RuBland 1812. Unten franzosischer Text, an 3 Seiten beschnitten. Quaderrahmen. Hohe je 31,5 cm, ,—",133,99.4,False,title_direct,,,Kupferstiche,,Sec. XIX
 BO0624_88256,549857,41,41,Kostimbilder. Herren- und Damenkostimbilder von Kolorierte Stiche. 9 Blatt.,138,75.6,False,positional,,,Radierungen,,
-BO0624_88256,549858,42,42,— Sammlung von 32 Bl. franzos. Mode- und Kostimbilder aus den Jahren 1859 und 1860. Bunte Stiche. 32 Blatt.,140,98.5,False,positional,,,Radierungen,,
-BO0624_88256,549859,43,43,"—Nuirnberger Trachtenbild:,Afbeelding van eenige byzondere Dragten der Neurenbergers."" Dargestellt sind 7 Figuren; kolor. Kupferstich, um 1700. Hohe 14,5 cm, Breite 22,5 cm.",141,99.1,False,title_direct,,,Kupferstiche,,
+BO0624_88256,549858,42,42,— Sammlung von 32 Bl. franzos. Mode- und Kostimbilder aus den Jahren 1859 und 1860. Bunte Stiche. 32 Blatt.,140,98.5,False,positional,,,Radierungen,,Sec. XIX
+BO0624_88256,549859,43,43,"—Nuirnberger Trachtenbild:,Afbeelding van eenige byzondere Dragten der Neurenbergers."" Dargestellt sind 7 Figuren; kolor. Kupferstich, um 1700. Hohe 14,5 cm, Breite 22,5 cm.",141,99.1,False,title_direct,,,Kupferstiche,,Sec. XVIII
 BO0624_88256,549860,44,3,，—,143,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549861,45,5,，——,145,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549862,46,9,，—,147,0.0,False,positional,,,Radierungen,,
@@ -59,22 +59,22 @@ BO0624_88256,549873,57,40,",—",168,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549874,58,4,"- in Punktiermanier. Paris chez Voysard. Mit schmalem Rand. Hohe 33,5 cm, Breite 25,5 cm.",172,100.0,False,positional,,,Radierungen,,
 BO0624_88256,549875,59,52,Dom. Marchetti. Rom. Meleagar und Atalante. Friher Druck vor aller Schrift. Qu.-Imp.-Fol.,173,98.2,False,positional,,,Radierungen,,
 BO0624_88256,549876,60,53,"Raphael Morghen. Ruhe auf der Flucht nach Aegypten. N.Poussin p. Prachtvoller alter Abdruck. Qu.-Imp.-Fol. 12,—",174,98.6,False,positional,POUSSIN NICOLAS,,Radierungen,,
-BO0624_88256,549877,61,54,Georg Pencz.1500-1550. Johannes Friedericus Saxoniae Dux. Vorziglicher alter Abdruck mit Randchen. Gr.Fol. Selten.,175,98.6,False,positional,,,Radierungen,,
-BO0624_88256,549878,62,55,"Portrats. Sal. GeBner,Dichter und Maler, + 1788.",176,96.6,False,positional,,,Radierungen,,
+BO0624_88256,549877,61,54,Georg Pencz.1500-1550. Johannes Friedericus Saxoniae Dux. Vorziglicher alter Abdruck mit Randchen. Gr.Fol. Selten.,175,98.6,False,positional,,,Radierungen,,Sec. XVI
+BO0624_88256,549878,62,55,"Portrats. Sal. GeBner,Dichter und Maler, + 1788.",176,96.6,False,positional,,,Radierungen,,Sec. XVIII
 BO0624_88256,549879,63,25,",——",178,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549880,64,40,",——",180,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549881,65,25,",—",181,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549882,66,56,"Portrats. Ant. KreB v. Kressenstein, Geh. Rat zu Nirn-",186,97.0,False,positional,,,Radierungen,,
 BO0624_88256,549883,67,57,"Maria Louise, Kaiserin von Frankreich. Halbfigur als Herzogin von Parma. Kolorierter Kupferstich. J. Remon sc., in Punktiermanier. Mit schmalem, unterlegtem Rand. Hohe 20 cm, Breite 17,5 cm. ,—",188,99.2,False,title_direct,,,Kupferstiche,,
-BO0624_88256,549884,68,58,"Gg.M. Preibler, Nirnberg 1725. Portrat M. Gg. Jac.",192,96.7,False,positional,,,Radierungen,,
-BO0624_88256,549885,69,59,"Joh.Welser, 1600. Brustbild mit Wappen.Emmart",194,96.6,False,positional,,,Radierungen,,
+BO0624_88256,549884,68,58,"Gg.M. Preibler, Nirnberg 1725. Portrat M. Gg. Jac.",192,96.7,False,positional,,,Radierungen,,Sec. XVIII
+BO0624_88256,549885,69,59,"Joh.Welser, 1600. Brustbild mit Wappen.Emmart",194,96.6,False,positional,,,Radierungen,,Sec. XVII
 BO0624_88256,549886,70,60,"- Gg. Andr. Willius, Prof. zu Altorf. Brustbild in oval. Rahmen. Kupferstich, J. E. Ihle pinxt., J. E. Haid sc.",196,98.4,False,title_direct,,,Kupferstiche,,
 BO0624_88256,549887,71,1782,"Hohe 21 cm, Breite 13 cm.",197,90.2,False,positional,,,Radierungen,,
 BO0624_88256,549888,72,3,，——,199,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549889,73,2,",——",201,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549890,74,3,，—,203,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549891,75,5,",—",205,0.0,False,positional,,,Radierungen,,
-BO0624_88256,549892,76,61,"Giebener Studenten-Gruppenbild. Nach der Natur auf Stein gezeichnet von A. Schmitz. GieBen, Sommer, 1847. GroBe Lithographie. Hohe 56 cm, Breite 77 cm.",207,99.0,False,title_direct,,,Lithographien,,
+BO0624_88256,549892,76,61,"Giebener Studenten-Gruppenbild. Nach der Natur auf Stein gezeichnet von A. Schmitz. GieBen, Sommer, 1847. GroBe Lithographie. Hohe 56 cm, Breite 77 cm.",207,99.0,False,title_direct,,,Lithographien,,Sec. XIX
 BO0624_88256,549893,77,62,"J. Prudhon. Le bain d'Amour. Farbiger Kupferstich nach Mallet. Paris chez Basset. Mit vollem Rand. Goldrahmen. Hohe 32 cm,Breite 42 cm. ,—",208,98.8,False,title_direct,PRUD'HON PIERRE PAUL,,Kupferstiche,,
 BO0624_88256,549894,78,63,S. F. Ravenet. The young Gipsy. Kupferstich nach,212,96.7,False,title_direct,,,Kupferstiche,,
 BO0624_88256,549895,79,64,Rembrandt. Bildnis der Elisabeth Bas. Graviire.Gold-,214,97.0,False,positional,REMBRANDT VAN RIJN,,Radierungen,,
@@ -92,21 +92,21 @@ BO0624_88256,549906,90,70,"P.P.Rubens. Madonna. Radierung nach Rubens. Hohe 28,5
 BO0624_88256,549907,91,71,"F. J. Sarjent. Carisbrook Castle near the Village, Isle of Wight. Kolorierter Kupferstich nach T. Walmesley. London, by F. J. Sarjent. Hohe 32,5 cm, Breite 44 cm. 10,—",233,99.0,False,title_direct,,,Kupferstiche,,
 BO0624_88256,549908,92,72,E. Schaffer. chinesischem Papier. Imp.-Folio.,235,96.4,False,positional,,,Radierungen,,
 BO0624_88256,549909,93,73,Schweiz. Le Grand Theatre des Alpes et Glaciers.,236,96.8,False,positional,,,Radierungen,,
-BO0624_88256,549910,94,74,"—Hohgau mit Umgebungen. Gesamtansicht umgeben von 12 Detailansichten. Getonte Lithographie von E. Neumann, ca.1840. Hohe 27 cm, Breite 37 cm.",239,98.9,False,title_direct,,,Lithographien,,
+BO0624_88256,549910,94,74,"—Hohgau mit Umgebungen. Gesamtansicht umgeben von 12 Detailansichten. Getonte Lithographie von E. Neumann, ca.1840. Hohe 27 cm, Breite 37 cm.",239,98.9,False,title_direct,,,Lithographien,,Sec. XIX
 BO0624_88256,549911,95,75,"P. Simon.The Woodman. GroBer Kupferstich nach ,—",240,96.6,False,title_direct,,,Kupferstiche,,
-BO0624_88256,549912,96,76,N. Swain.1881. Altertimliches Stadtbild. Original-,245,96.8,False,positional,,,Radierungen,,
-BO0624_88256,549913,97,77,"Stadteansichten. Aachen. Gesamtansicht, aus Bertius, ca. 1616. Kupferstich. Seltenes Blatt. Mit Rand. Hohe ,5 cm, Breite 18,5 cm.",247,89.4,False,title_direct,,,Kupferstiche,,
-BO0624_88256,549914,98,78,"- Caub und die Pfalz. Konigswinter. Andernach von der Westseite. 3 Bl. feine Stahlstiche, C. Hohe del., Grinewald und H. Emden sc. ca. 1850. Breitrandig.",249,98.9,False,positional,,,Radierungen,,
+BO0624_88256,549912,96,76,N. Swain.1881. Altertimliches Stadtbild. Original-,245,96.8,False,positional,,,Radierungen,,Sec. XIX
+BO0624_88256,549913,97,77,"Stadteansichten. Aachen. Gesamtansicht, aus Bertius, ca. 1616. Kupferstich. Seltenes Blatt. Mit Rand. Hohe ,5 cm, Breite 18,5 cm.",247,89.4,False,title_direct,,,Kupferstiche,,Sec. XVII
+BO0624_88256,549914,98,78,"- Caub und die Pfalz. Konigswinter. Andernach von der Westseite. 3 Bl. feine Stahlstiche, C. Hohe del., Grinewald und H. Emden sc. ca. 1850. Breitrandig.",249,98.9,False,positional,,,Radierungen,,Sec. XIX
 BO0624_88256,549915,99,3,，——,251,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549916,100,4,，-,253,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549917,101,3,，——,255,0.0,False,positional,,,Radierungen,,
-BO0624_88256,549918,102,79,"Essen-Ruhr:,Essend"". Gesamtansicht in Kupferstich.Aus Merian, ca. 1650. Hohe 10,5 cm, Breite 32 cm.",257,98.4,False,title_direct,,,Kupferstiche,,
-BO0624_88256,549919,103,80,"-Iserlohn. Schone Gesamtansicht der Stadt, umgeben von 14 Detailansichten. GroBe getonte Lithographie, ca. 1850. Hohe 37,5 cm, Breite 51 cm.",258,98.9,False,title_direct,,,Lithographien,,
-BO0624_88256,549920,104,81,"1 Minster i. W. ,Die Insel im Aa-FluB bey Muinster"" Kupferstich, Savin del. et sc., ca. 1800. Breitrandig.",259,98.4,False,title_direct,,,Kupferstiche,,
-BO0624_88256,549921,105,82,"- —Trier: ,Triers"". Schone Gesamtansicht der Stadt, im Vordergrund Weinlese. Kupferstich, J. Mynde sc. ca. 1700. Ohne Rand. Hohe 16,5 cm, Breite 25 cm.",261,100.0,False,title_direct,,,Kupferstiche,,
+BO0624_88256,549918,102,79,"Essen-Ruhr:,Essend"". Gesamtansicht in Kupferstich.Aus Merian, ca. 1650. Hohe 10,5 cm, Breite 32 cm.",257,98.4,False,title_direct,,,Kupferstiche,,Sec. XVII
+BO0624_88256,549919,103,80,"-Iserlohn. Schone Gesamtansicht der Stadt, umgeben von 14 Detailansichten. GroBe getonte Lithographie, ca. 1850. Hohe 37,5 cm, Breite 51 cm.",258,98.9,False,title_direct,,,Lithographien,,Sec. XIX
+BO0624_88256,549920,104,81,"1 Minster i. W. ,Die Insel im Aa-FluB bey Muinster"" Kupferstich, Savin del. et sc., ca. 1800. Breitrandig.",259,98.4,False,title_direct,,,Kupferstiche,,Sec. XIX
+BO0624_88256,549921,105,82,"- —Trier: ,Triers"". Schone Gesamtansicht der Stadt, im Vordergrund Weinlese. Kupferstich, J. Mynde sc. ca. 1700. Ohne Rand. Hohe 16,5 cm, Breite 25 cm.",261,100.0,False,title_direct,,,Kupferstiche,,Sec. XVIII
 BO0624_88256,549922,106,6,",——",262,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549923,107,2,"3,—",268,100.0,False,positional,CHARDIN J.B.S.,,Radierungen,,
-BO0624_88256,549924,108,83,"Stadteansichten.Wiesbaden:,Der Kursaal u. d.beiden Colonnaden""Hibsche Ansicht m.Staffage,Voddiggel del., Hunkler sc.ca.1840. Breitrandig.Hohe 13 cm,Breite 23 cm.2,—",269,99.1,False,positional,,,Radierungen,,
+BO0624_88256,549924,108,83,"Stadteansichten.Wiesbaden:,Der Kursaal u. d.beiden Colonnaden""Hibsche Ansicht m.Staffage,Voddiggel del., Hunkler sc.ca.1840. Breitrandig.Hohe 13 cm,Breite 23 cm.2,—",269,99.1,False,positional,,,Radierungen,,Sec. XIX
 BO0624_88256,549925,109,84,J. Thouvenin. Paris. Die Vermahlung von Maria und Josef. Nach Raphael. Vorz. Abdruck auf chines. Papier,270,98.5,False,positional,SANZIO RAFFAELLO,,Radierungen,,
 BO0624_88256,549926,110,7,",——",271,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549927,111,15,",—",273,0.0,False,positional,,,Radierungen,,
@@ -120,7 +120,7 @@ BO0624_88256,549934,118,89,A. Wagner. Der heilige Hieronimus. Gandolfi p. Schone
 BO0624_88256,549935,119,90,—Heilige verehren das Jesuskind. P. Cagliary p. Pracht- ，—,297,97.1,False,positional,,,Radierungen,,
 BO0624_88256,549936,120,91,"W. Ward. A Visit to the Grandmother. Koloriertes Schabkunstblatt nach J. R. Smith. Am Rande ausgebessert. Hohe 38 cm,Breite 29,5 cm. ,——",302,98.8,False,positional,,,Radierungen,,
 BO0624_88256,549937,121,92,"J. Watson. The Lover Undress'd. Feiner Kupferstich nach G. Schalken. Schones Blatt. Mit schmalem Rand. ,—",306,98.4,False,title_direct,SCHALCKEN GODFRIED,,Kupferstiche,,
-BO0624_88256,549938,122,93,"S. L.Weban.  1897 zu Muinchen. Strandlandschaft mit Windmihle. Originalradierung. Hohe 11,5 cm, Breite ,5 cm.",311,96.0,False,positional,,,Radierungen,,
+BO0624_88256,549938,122,93,"S. L.Weban.  1897 zu Muinchen. Strandlandschaft mit Windmihle. Originalradierung. Hohe 11,5 cm, Breite ,5 cm.",311,96.0,False,positional,,,Radierungen,,Sec. XIX
 BO0624_88256,549939,123,94,"— Stadtbild im abendlichem Regen. Originalradierung. Vor aller Schrift. Hohe 20 cm, Breite 20 cm.",313,98.4,False,positional,,,Radierungen,,
 BO0624_88256,549940,124,95,"Dorfstrabe. Hohe 12 cm, Breite 9 cm.",315,95.7,False,positional,,,Radierungen,,
 BO0624_88256,549941,125,96,Strabenbild mit Staffage. Originalradierung. Vor aller,316,97.2,False,positional,,,Radierungen,,
@@ -141,10 +141,10 @@ BO0624_88256,549955,139,5,",——",348,0.0,False,positional,,,Radierungen,,
 BO0624_88256,549956,140,104,"-Kolner Vierfarbenspiel von 36 Karten in altdeutscher Manier. 10,—",350,96.9,False,positional,,,Radierungen,,
 BO0624_88256,549957,141,105,"Altdeutsche Tarockkarte aus Nirnberg. 48 Karten. 5,—",351,96.0,False,positional,,,Radierungen,,
 BO0624_88256,549958,142,105,"a — France Pellerin. Vierfarbenspiel. 69 Karten. ,—",352,96.6,False,positional,,,Radierungen,,
-BO0624_88256,549959,143,106,"Stammbicher. Freundesstammbuch eines gew. J. G.; Kartonband mit Monogramm J. G. Inhalt: 114 Blatter mit 29 Eintragungen aus Berlin, Heidelberg, Frankfurt a. O. etc.aus 1823-25. Mit 7 Aquarellen und anderen ,— Quer-Oktav. Interessantes Stick. ,—",356,91.6,False,title_direct,,Scuola di Berlino,Aquarelle,,
+BO0624_88256,549959,143,106,"Stammbicher. Freundesstammbuch eines gew. J. G.; Kartonband mit Monogramm J. G. Inhalt: 114 Blatter mit 29 Eintragungen aus Berlin, Heidelberg, Frankfurt a. O. etc.aus 1823-25. Mit 7 Aquarellen und anderen ,— Quer-Oktav. Interessantes Stick. ,—",356,91.6,False,title_direct,,Scuola di Berlino,Aquarelle,,Sec. XIX
 BO0624_88256,549960,144,108,"-Damenstammbuch (aus Frankfurt a. M. ?) Hibsches Etui enthaltend 43 lose Blatter mit 40 Eintragungen aus Frankfurt a. M., Darmstadt, Stuttgart etc., aus den",366,98.6,False,positional,,,Radierungen,,
-BO0624_88256,549961,145,109,"-Damenstammbuch (Hennenhofer ?) Etui enthaltend 42 Blatter mit 37 Eintragungen aus Calw, Cannstatt, Stuttgart etc.aus den Jahren 1818-1825. Mit 4 Bildbeilagen. Quer-Oktav.",368,98.8,False,positional,,,Radierungen,,
-BO0624_88256,549962,146,110,"Stammbicher.Damenstammbuch 1812-1818. Hub- sches gepr. Etui mit Schieber. Inhalt: 23 Blatter mit 13 Eintragungen aus Frankfurt a. M., Tubingen etc. Mit Bildbeilagen. Quer-Oktav.   | 10,-   |",369,98.8,False,positional,,,Radierungen,,
+BO0624_88256,549961,145,109,"-Damenstammbuch (Hennenhofer ?) Etui enthaltend 42 Blatter mit 37 Eintragungen aus Calw, Cannstatt, Stuttgart etc.aus den Jahren 1818-1825. Mit 4 Bildbeilagen. Quer-Oktav.",368,98.8,False,positional,,,Radierungen,,Sec. XIX
+BO0624_88256,549962,146,110,"Stammbicher.Damenstammbuch 1812-1818. Hub- sches gepr. Etui mit Schieber. Inhalt: 23 Blatter mit 13 Eintragungen aus Frankfurt a. M., Tubingen etc. Mit Bildbeilagen. Quer-Oktav.   | 10,-   |",369,98.8,False,positional,,,Radierungen,,Sec. XIX
 BO0624_88256,549963,147,111,"Ein Konvolut enthaltend 14 Blatter meist alter Stiche. 4,                                                                                                                           |        |",371,96.5,False,positional,,,Radierungen,,
 BO0624_88256,549964,148,112,— enthaltend 10 Blatter Landschaften.                                                                                                                                               | 3，——   |,372,94.7,False,positional,,,Radierungen,,
 BO0624_88256,549965,149,113,"-enthaltend 15 Blatter Stiche,Radierungen etc. Meist groBes Format.                                                                                                                 | 5，——   |",373,97.1,False,title_direct,,,Radierungen,,
@@ -154,8 +154,8 @@ BO0624_88256,549968,152,116,"—Konig mit zwei Edeldamen. Aquarellierte Federzei
 BO0624_88256,549969,153,117,"一 Page und Edelfraulein. Aquarellierte Federzeichn. Hohe 33 cm, Breite 26 cm.",380,97.3,False,title_direct,,,Aquarelle,,
 BO0624_88256,549970,154,4,，,382,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,549971,155,4,，,384,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,549972,156,118,"Bartolome van der Ast um 1622. Auf einem Baumstamm ein Vogel, auf der Erde eine Muschel und auf einer Blite ein Schmetterling. Bezeichnet v. d. A. Aquarellierte Zeichnung. Brauner Rahmen. ,—",386,98.9,False,title_direct,,,CORNICI,,
-BO0624_88256,549973,157,119,"Jan Both 1610-1651. Landschaft mit Maultiertreibern. Tusche. Hohe 29 cm, Breite 20 cm. ，——",390,97.6,False,positional,BOTH JAN,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,549972,156,118,"Bartolome van der Ast um 1622. Auf einem Baumstamm ein Vogel, auf der Erde eine Muschel und auf einer Blite ein Schmetterling. Bezeichnet v. d. A. Aquarellierte Zeichnung. Brauner Rahmen. ,—",386,98.9,False,title_direct,VAN DER HELST BARTHOLOMAEUS,,CORNICI,,Sec. XVII
+BO0624_88256,549973,157,119,"Jan Both 1610-1651. Landschaft mit Maultiertreibern. Tusche. Hohe 29 cm, Breite 20 cm. ，——",390,97.6,False,positional,BOTH JAN,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XVII
 BO0624_88256,549974,158,120,"Professor Ernst Deger. Christus vor Pilatus. Meister- ,—",394,96.2,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,549975,159,121,Ecce Homo. Feine Stiftzeichnung. Bezeichnet. Hohe,399,95.8,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,549976,160,20,"cm,Breite 12 cm.",400,90.9,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
@@ -173,21 +173,21 @@ BO0624_88256,549987,171,25,",——",428,0.0,False,positional,,,Aquarelle; Handz
 BO0624_88256,549988,172,129,"Flamischer Meister. Madonna mit dem Kind. Aquarellierte Federzeichnung. Hohe 24 cm, Breite 18 cm. 8,—",430,97.9,False,title_direct,,Scuola Fiamminga,Aquarelle,,
 BO0624_88256,549989,173,130,"一 Maria mit dem Kind an einer Mauer sitzend. Aquarell. Federzeichnung. Hohe 38 cm, Breite 28 cm.12,—",431,97.9,False,title_direct,,,Aquarelle,,
 BO0624_88256,549990,174,131,"B. Gasperi. 21 Blatter Sepiazeichnungen. Biblische Darstellungen in der Art Raphael Sanzios. Hohe 27 cm,Breite 38 cm.",432,98.2,False,positional,SANZIO RAFFAELLO,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,549991,175,132,"C. F. W.v. Gavel. Barby (Prov. Sachsen). Panorama der Stadt vom rechten Elbeufer gesehen. Feine aquarellierte Tuschezeichng., ca. 1830. Hohe 18 cm, Breite 33 cm.",433,98.6,False,title_direct,,,Aquarelle,,
+BO0624_88256,549991,175,132,"C. F. W.v. Gavel. Barby (Prov. Sachsen). Panorama der Stadt vom rechten Elbeufer gesehen. Feine aquarellierte Tuschezeichng., ca. 1830. Hohe 18 cm, Breite 33 cm.",433,98.6,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_88256,549992,176,40,",—",435,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,549993,177,10,",—",437,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,549994,178,134,"Hr. Sal. Gebner. Wasserfall 2 Stunden von Zurich pp. Datiert 1789. Tuschzeichnung. Hohe 20,5 cm, Breite 32cm.",439,98.1,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,549994,178,134,"Hr. Sal. Gebner. Wasserfall 2 Stunden von Zurich pp. Datiert 1789. Tuschzeichnung. Hohe 20,5 cm, Breite 32cm.",439,98.1,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XVIII
 BO0624_88256,549995,179,133,"Carl Gehrts. Szene aus Kaiser Sigismunds Leben. Vorzigliche Stiftzeichnung. Bezeichnet. Hohe 38 cm, Breite 29 cm.",440,98.2,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,549996,180,3,，—,442,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,549997,181,135,"Chr.Heyden. Stiftsprobst Dr. Ferd. Schlinkes ( 20. Aug. 1884) auf dem Sterbebette. Bleifederzeichnung. Gerahmt. Hohe 28 cm, Breite 28 cm.",444,98.4,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,549998,182,136,"F.Hochecker 1730-1792. Mainlandschaft. Monogr. Kreidezeichnung auf blauem Papier. Hohe 25 cm, Breite 39 cm.",445,98.1,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,549997,181,135,"Chr.Heyden. Stiftsprobst Dr. Ferd. Schlinkes ( 20. Aug. 1884) auf dem Sterbebette. Bleifederzeichnung. Gerahmt. Hohe 28 cm, Breite 28 cm.",444,98.4,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XIX
+BO0624_88256,549998,182,136,"F.Hochecker 1730-1792. Mainlandschaft. Monogr. Kreidezeichnung auf blauem Papier. Hohe 25 cm, Breite 39 cm.",445,98.1,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XVIII
 BO0624_88256,549999,183,5,",—",447,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550000,184,4,"- 137 K. G. Horn, Paris. Aquarell. FluBlandschaft. Brauner Rahmen. Hohe 14,5 cm, Breite 23 cm.",451,100.0,False,title_direct,,,CORNICI,,
 BO0624_88256,550001,185,15,",—",453,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550002,186,138,Prof.Fr. Ittenbach. Knieender Jungling mit erhobener Rechten. Fein ausgefihrte Stiftzeichn. Monogrammiert.,454,98.1,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550003,187,139,"Josef Kehren. Christus am Olberg. Stiftzeichnung. Bezeichnet. Hohe 35 cm, Breite 25 cm.",455,97.6,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550004,188,140,"B. C. Koekoek 1803-1862. Waldpartie mit Lichtung. Bezeichnet. Tusche. Hohe 36 cm,Breite 29 cm.",457,97.8,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550005,189,141,"Paulus van Liender 1731-1797. Hollandische Dorflandschaft. Sepiazeichnung. Bezeichnet. Hohe 20 cm,",458,97.9,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88256,550004,188,140,"B. C. Koekoek 1803-1862. Waldpartie mit Lichtung. Bezeichnet. Tusche. Hohe 36 cm,Breite 29 cm.",457,97.8,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XIX
+BO0624_88256,550005,189,141,"Paulus van Liender 1731-1797. Hollandische Dorflandschaft. Sepiazeichnung. Bezeichnet. Hohe 20 cm,",458,97.9,False,positional,,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_88256,550006,190,142,"Fred E. Lintz. Seemanns Abschied. Ein Seemann verabschiedet sich von seinen Eltern. Hinter ihm seine Frau und sein Kind. Pastell. Bezeichnet. Goldrahmen. Hohe 34 cm,Breite 50 cm.",460,98.8,False,title_direct,,,Pastelle,,
 BO0624_88256,550007,191,143,"Stephan Lochner (nach). Madonna in der Rosenlaube. Vorzigliche aquarellierte Federzeichn. Hohe 48 cm, Breite 37 cm.",461,98.2,False,title_direct,,,Aquarelle,,
 BO0624_88256,550008,192,50,",—",463,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
@@ -196,27 +196,27 @@ BO0624_88256,550010,194,10,",——",467,0.0,False,positional,,,Aquarelle; Handz
 BO0624_88256,550011,195,10,",—",469,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550012,196,144,H. Mevius. Breite 46 cm.,471,91.3,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550013,197,145,"一 Bauernhaus am Walde. Tusche. Bezeichnet. Hohe cm, Breite 21 cm.",473,81.5,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550014,198,146,"Th. Mintrop 1869. Von Engeln bewachte schlafende Kinder. Vorzuigliche Stiftzeichnung. Bezeichnet. Hohe cm, Breite 39 cm.",475,90.7,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,550014,198,146,"Th. Mintrop 1869. Von Engeln bewachte schlafende Kinder. Vorzuigliche Stiftzeichnung. Bezeichnet. Hohe cm, Breite 39 cm.",475,90.7,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XIX
 BO0624_88256,550015,199,147,"- Zwei singende Amoretten mit Schriftband. Feine monogrammierte Stiftzeichnung. Hohe 22 cm, Breite cm.",477,96.4,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550016,200,148,"Monogrammiert 15 A 34. Portrat des Hans v. Scheniz. Federzeichn. Bezeichnet. Hohe 37 cm, Breite 27 cm.",479,97.9,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550017,201,149,Prof. Carl Muiller. Salvator mundi. Geistreiche Stift-,480,96.2,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550018,202,150,Sitzender Jesusknabe.Kreidezeichnung. Bezeichnet.,482,95.9,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550019,203,151,"A.Muttenthaler 1820-1870. Kain in einer Landschaft. Vorziigliche Federzeichnung. Bezeichnet. Hohe 26 cm, Breite 32 cm.",484,98.2,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,550019,203,151,"A.Muttenthaler 1820-1870. Kain in einer Landschaft. Vorziigliche Federzeichnung. Bezeichnet. Hohe 26 cm, Breite 32 cm.",484,98.2,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XIX
 BO0624_88256,550020,204,6,",—",486,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550021,205,3,，——,488,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550022,206,5,，— ，—,490,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550023,207,6,",—",492,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550024,208,6,",—",494,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550025,209,8,",—",496,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550026,210,152,"Johann Friedrich Overbeck 1789-1869. Madonna mit dem Kind. Vorzigliche Tuschzeichnung. Monogrammiert. Hohe 48 cm, Breite 34 cm.",499,98.4,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,550026,210,152,"Johann Friedrich Overbeck 1789-1869. Madonna mit dem Kind. Vorzigliche Tuschzeichnung. Monogrammiert. Hohe 48 cm, Breite 34 cm.",499,98.4,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XIX
 BO0624_88256,550027,211,25,",—",501,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550028,212,25,",—",503,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550029,213,153,"Madonna mit dem Kind und Johannes. Meisterhafte Rotelzeichnung. Monogrammiert. Hohe 47 cm,Breite 38 cm.",505,98.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550030,214,154,"Charles Francois Pecrus (Limoges 1826-1887). Landschaft mit Obstsammlerin. Meisterhafte OriginalKreidezeichnung. Voll bezeichnet. Hohe 47 cm, Breite",506,98.6,False,positional,DAUBIGNY C. FRANCOIS,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,550030,214,154,"Charles Francois Pecrus (Limoges 1826-1887). Landschaft mit Obstsammlerin. Meisterhafte OriginalKreidezeichnung. Voll bezeichnet. Hohe 47 cm, Breite",506,98.6,False,positional,DAUBIGNY C. FRANCOIS,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XIX
 BO0624_88256,550031,215,32,cm.,507,57.1,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550032,216,50,",——",509,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550033,217,155,"Guido Reni 1575-1642.Die Kreuzigung Petri Kapitale ,——",511,96.2,False,positional,GUIDO RENI,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550034,218,156,H.L. Schaeufelein 1490-1539. Anbetung der Hirten.,516,95.8,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,550033,217,155,"Guido Reni 1575-1642.Die Kreuzigung Petri Kapitale ,——",511,96.2,False,positional,GUIDO RENI,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XVII
+BO0624_88256,550034,218,156,H.L. Schaeufelein 1490-1539. Anbetung der Hirten.,516,95.8,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XVI
 BO0624_88256,550035,219,157,"Gottfr. Schalken. Beim Gewirzhandler. Durch eine Fensternische der Handler,um ihn seine Waren. Neben ihm eine Frau mit Kerze. Ausgezeichnete Tuschzeichnung. Gerahmt. Hohe 45 cm, Breite 42 cm. ,—",518,98.9,False,positional,SCHALCKEN GODFRIED,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550036,220,158,"Andr.Schelfhout Winterlandschaft. Am Rande eines Waldes Holzarbeiter und ein Bauerngefahrt. Tusch- ,——",522,97.9,False,positional,SCHELFHOUT ANDREAS,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550037,221,159,"Professor C. Scheuren. Szenen aus Goethe's Faust. Meisterhafte Stiftzeichnung. Bezeichnet. 24X17 cm. 15,—",527,98.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
@@ -225,21 +225,21 @@ BO0624_88256,550039,223,161,Betender Eremit. Zarte Stiftzeichnung. Bezeichnet.,5
 BO0624_88256,550040,224,162,"Szenen aus Goethe's Faust. Vorzigliche Stiftzeichnung. Bezeichnet. Hohe 26 cm,Breite 19 cm. 15,—",530,97.8,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550041,225,163,"—Der Evangelist Mathaus. Feine Stiftzeichnung. Bezeichnet. Hohe 25 cm, Breite 17 cm.",532,97.5,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550042,226,164,L. M. Schwanthaler. Der Harfner vor der Schmiede.,533,95.7,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550043,227,165,"Franz Scarbina. Einzug Kaiser Wilhelms unter den Linden 1871.Figurenreiche Kreidezeichnung. Bezeichn. Gerahmt. Hohe 25 cm, Breite 30 cm.",535,98.5,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,550043,227,165,"Franz Scarbina. Einzug Kaiser Wilhelms unter den Linden 1871.Figurenreiche Kreidezeichnung. Bezeichn. Gerahmt. Hohe 25 cm, Breite 30 cm.",535,98.5,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XIX
 BO0624_88256,550044,228,8,",—",537,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550045,229,5,，—,539,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550046,230,166,"G. Sipmann. Alpensee bei untergehender Sonne. Original-Aquarell. Bezeichnet. Hohe 21 cm, Breite 30 cm.",542,97.9,False,title_direct,,,Aquarelle,,
 BO0624_88256,550047,231,167,"Prof. C. Sohn. Edeldame mit Weinkanne, Frichten und Laute. Stift. Bezeichnet. Hohe 20 cm, Breite 12 cm.",546,97.9,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550048,232,168,"- 8- Studienblatt mit junger Dame, Kopf, Hande usw. Stift. Bezeichnet. Hohe 40 cm, Breite 30 cm.",548,100.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550049,233,169,"E. von Steinle. 1874. Zwei Blatter mit je 3 Heiligenfiguren. Stiftzeichnungen. Monogrammiert. Hohe 22 cm,",549,98.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550050,234,170,"Const.Troyon, Paris, 1810-1868. Lagernde Rinderherde am Waldesrand. Fleibige grobe Tuschezeichnung. Bezeichnet C. T. 1850. In Passepartout u. Goldrahmen.",551,98.6,False,positional,TROYON CONSTANTIN,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,550049,233,169,"E. von Steinle. 1874. Zwei Blatter mit je 3 Heiligenfiguren. Stiftzeichnungen. Monogrammiert. Hohe 22 cm,",549,98.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XIX
+BO0624_88256,550050,234,170,"Const.Troyon, Paris, 1810-1868. Lagernde Rinderherde am Waldesrand. Fleibige grobe Tuschezeichnung. Bezeichnet C. T. 1850. In Passepartout u. Goldrahmen.",551,98.6,False,positional,TROYON CONSTANTIN,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XIX
 BO0624_88256,550051,235,171,Unbekannt. Rheinlandschaft mit der Loreley. Fein in Temperafarben ausgefihrt. In braunem Rahmen.,553,97.9,False,positional,,,CORNICI,,
 BO0624_88256,550052,236,172,— Rheinlandschaft mit dem Rolandsbogen u.Drachenfels. In Temperafarben fein ausgefuihrt. In braunem,555,97.9,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550053,237,173,"Unbekannter Meister. Junger Prinz in Ritterristung. ,——",557,96.1,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550054,238,174,"Prof. B. Vautier, Zwei Studienkopfe. Bleistift. Be-",562,95.7,False,positional,VAUTIER BENJAMIN,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550055,239,3,",—",563,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550056,240,5,",—",565,0.0,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
-BO0624_88256,550057,241,175,"Raphael Winter,1784—1855.Wolf,ein Lamm fressend. Schone Federzeichnung. Hohe 20 cm, Breite 27 cm.",569,97.9,False,positional,SANZIO RAFFAELLO,,Aquarelle; Handzeichnungen; Pastelle,,
+BO0624_88256,550057,241,175,"Raphael Winter,1784—1855.Wolf,ein Lamm fressend. Schone Federzeichnung. Hohe 20 cm, Breite 27 cm.",569,97.9,False,positional,SANZIO RAFFAELLO,,Aquarelle; Handzeichnungen; Pastelle,,Sec. XVIII
 BO0624_88256,550058,242,176,"Wappenbilder. 5 Blatter Federzeichnungen,davon 3 handkoloriert; dabei 1 Blatt Reichswappen, 1 Blatt Zus. 19,— Reichsherold, 1 Blatt Allegorie. Klein-Quart. ,—",570,98.6,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
 BO0624_88256,550059,243,177,Ein Konvolut enthaltend 5 Blatter Wappen in Aquarelle.,574,96.4,False,title_direct,,,Aquarelle,,
 BO0624_88256,550060,244,178,"Ein Konvolut enthaltend 15 Feder- und Spezialzeich- ,—",575,96.1,False,positional,,,Aquarelle; Handzeichnungen; Pastelle,,
@@ -257,7 +257,7 @@ BO0624_88256,550071,255,182,"Romantische Landschaft. Reiche Gebirgswaldungen ,-"
 BO0624_88256,550072,256,183,"Wald. Herbstlich gestimmter Wald,rechts eine Schneise; ,-",616,96.3,False,positional,C.Bome,,,,
 BO0624_88256,550073,257,184,"Pferd mit Fohlen auf der Weide. Flott gemaltes Aquarell. Monogrammiert. Hohe 25 cm, Breite 36 cm. 18,—",623,97.9,False,title_direct,,,Aquarelle,,
 BO0624_88256,550074,258,185,"Reitknecht mit zwei Pferden in Landschaft. Schones Aquarell. Monogrammiert. Hohe 26 cm, Breite 36 cm. 18,—",624,98.0,False,title_direct,,,Aquarelle,,
-BO0624_88256,550075,259,186,"Rocky Mountains. Von einem zerkluifteten Plateau blickt man auf ein tiefes, bewaldetes Tal, welches sich im Hintergrund zwischen Bergkegeln verliert. Rechts ein von der Sonne grell beleuchteter Felsblock und davor ein Wassertimpel und umherliegende Baumstamme. Bezeichnet:H. Carmiencke N.Y. 1860. Goldrahmen. Auf Leinwand. Hohe 90 cm, Breite 130 cm. 300,",630,99.4,False,positional,Johann jermann Carmiencke,,,,
+BO0624_88256,550075,259,186,"Rocky Mountains. Von einem zerkluifteten Plateau blickt man auf ein tiefes, bewaldetes Tal, welches sich im Hintergrund zwischen Bergkegeln verliert. Rechts ein von der Sonne grell beleuchteter Felsblock und davor ein Wassertimpel und umherliegende Baumstamme. Bezeichnet:H. Carmiencke N.Y. 1860. Goldrahmen. Auf Leinwand. Hohe 90 cm, Breite 130 cm. 300,",630,99.4,False,positional,Johann jermann Carmiencke,,,,Sec. XIX
 BO0624_88256,550076,260,90,",——",632,0.0,False,positional,Johann jermann Carmiencke,,,,
 BO0624_88256,550077,261,50,",-—",634,0.0,False,positional,Johann jermann Carmiencke,,,,
 BO0624_88256,550078,262,187,"Blumenstilleben. Vor dunklem Hintergrund ein Korb gefillt mit Nelken und andern Blumen in farbiger Zusammenstellung. Goldrahmen. Holz. Hohe 58 cm, Breite 75 cm.",639,98.7,False,positional,Courbet,,OGGETTI IN LEGNO,,
@@ -281,7 +281,7 @@ BO0624_88256,550095,279,199,"Der Menuettanz. Figurenreiches Rokokobild in vorzig
 BO0624_88256,550096,280,65,",—",699,0.0,False,positional,,Franzofifdher Mleifter,,,
 BO0624_88256,550097,281,50,",——",701,0.0,False,positional,,Franzofifdher Mleifter,,,
 BO0624_88256,550098,282,200,"Die junge Wahrsagerin. Figurenreiches Bild aus der Rokokozeit in meisterhafter Ausfuihrung. Goldrahmen. Hohe 28 cm, Breite 39 cm.",705,98.4,False,positional,,Franzofifdher Mleifter,,,
-BO0624_88256,550099,283,201,"Stilleben. Auf einem Tisch hohe Delfter Vase mit grobem Blumenstraub, daneben ein Korbchen, aus welchem Trauben, Pfirsiche etc. fallen. Bezeichnet und datiert 1849.Goldrahmen. Hohe 78 cm, Breite 58 cm.110,—",709,99.0,False,positional,F.6ruben,,VASI,,
+BO0624_88256,550099,283,201,"Stilleben. Auf einem Tisch hohe Delfter Vase mit grobem Blumenstraub, daneben ein Korbchen, aus welchem Trauben, Pfirsiche etc. fallen. Bezeichnet und datiert 1849.Goldrahmen. Hohe 78 cm, Breite 58 cm.110,—",709,99.0,False,positional,F.6ruben,,VASI,,Sec. XIX
 BO0624_88256,550100,284,202,"Feuerpause. Der Abendhimmel rot gefarbt von dem feindlichen Feuer. lm Vordergrund eine Kanone mit Bedienung. Voll bezeichnet und datiert. Goldrahmen. Hohe 58 cm, Breite 69 cm.",713,98.8,False,positional,heinz jeinrics,,,,
 BO0624_88256,550101,285,50,",—",715,0.0,False,positional,heinz jeinrics,,,,
 BO0624_88256,550102,286,40,",—",717,0.0,False,positional,heinz jeinrics,,,,
@@ -298,7 +298,7 @@ BO0624_88256,550112,296,20,",—",745,0.0,False,positional,6.jendrikx,,,,
 BO0624_88256,550113,297,211,"Schotte und Schottin in Landschaft. Monogrammiert. Hohe 53 cm,Breite 42 cm.",751,97.3,False,positional,6.jendrikx,,,,
 BO0624_88256,550114,298,212,"Auf der Weide. Links hinter einer Wasserlache ragt eine alte Weide empor, rechts grasen auf Wiesengrund Kihe. Im Hintergrund unter Baumen versteckt ein Bauerngehoft.Gerahmt. Hohe 28 cm,Breite 33 cm. 30,—",755,99.0,False,positional,6.jendrikx,,,,
 BO0624_88256,550115,299,213,"Eifellandschaft. Auf hugeligem V Wiesengelande blihender Ginster. Rechts im Hintergrund Bauerngehoft. Bezeichnet. Goldrahmen. Hohe 47 cm, Breite 65 cm. 30,— ,——",759,98.7,False,positional,L.Keller,,,,
-BO0624_88256,550116,300,214,"Auf dem Rennplatze. Herren und Damen wohnen einem Pferderennen bei; rechts sieht man einige Reiter eine Hirde nehmen. Bezeichnet und datiert 1881. Goldrahmen. Hohe 94 cm, Breite 162 cm.",763,98.9,False,positional,6eorg Karl Kod,,,,
+BO0624_88256,550116,300,214,"Auf dem Rennplatze. Herren und Damen wohnen einem Pferderennen bei; rechts sieht man einige Reiter eine Hirde nehmen. Bezeichnet und datiert 1881. Goldrahmen. Hohe 94 cm, Breite 162 cm.",763,98.9,False,positional,6eorg Karl Kod,,,,Sec. XIX
 BO0624_88256,550117,301,215,"Flublandschaft. Am Ufer eines Flusses, welcher eine nsel umschlieBt, sitzt ein Hirte, neben ihm weiden Ziegen. Schwarz. Rahmen. Hohe 49 cm, Breite 68 cm.190,—",768,80.2,False,positional,B.C.KoeRoek,,CORNICI,,
 BO0624_88256,550118,302,216,Landschaft am Wasser. Rechts am erhohten Ufer,772,95.7,False,positional,h.Ladnit,,,,
 BO0624_88256,550119,303,217,Stilleben. Auf einem Tisch liegen alte Pergament-,777,95.9,False,positional,forace mercier,,,,
@@ -314,7 +314,7 @@ BO0624_88256,550128,312,223,"Winterlandschaft. Am Stadtgraben zieht sich der von
 BO0624_88256,550129,313,35,",—",813,0.0,False,positional,H. O. Reimann,,,,
 BO0624_88256,550130,314,12,",—",815,0.0,False,positional,H. O. Reimann,,,,
 BO0624_88256,550131,315,224,"Kanalansicht. Links am Ufer eines Kanals schloBartige Bauten, vor welchen mehrere Boote angelegt haben. Bezeichnet. Goldrahmen. Hohe 37 cm, Breite 51 cm.",821,98.6,False,positional,H. O. Reimann,,,,
-BO0624_88256,550132,316,225,"Alpenlandschaft mit See. Im Vordergrunde fihrt ein Weg, von mehreren Personen belebt, zu den von Baumen umgebenen Hausern. Zu beiden Seiten Wiesen und Wald. Zwischen den Wiesen und den im Hintergrund liegenden Alpen liegt ein See. Holz. Voll bezeichnet und datiert 1866. Goldrahmen. Hohe 37 cm, Breite 59 cm. ,——",825,99.3,False,positional,Emil Richter,,OGGETTI IN LEGNO,,
+BO0624_88256,550132,316,225,"Alpenlandschaft mit See. Im Vordergrunde fihrt ein Weg, von mehreren Personen belebt, zu den von Baumen umgebenen Hausern. Zu beiden Seiten Wiesen und Wald. Zwischen den Wiesen und den im Hintergrund liegenden Alpen liegt ein See. Holz. Voll bezeichnet und datiert 1866. Goldrahmen. Hohe 37 cm, Breite 59 cm. ,——",825,99.3,False,positional,Emil Richter,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88256,550133,317,226,Strabenbild. Im Vordergrund eine Bauerin mit ihrem Kind. Die alten Hauser zum Teil bewachsen. Bezeichn.,831,98.0,False,positional,L.Rohmer,,,,
 BO0624_88256,550134,318,227,"Landschaft. GroBe Baume stehen an einem See, an",836,95.7,False,positional,fermann Radifubli,,,,
 BO0624_88256,550135,319,50,",——",838,0.0,False,positional,fermann Radifubli,,,,
@@ -340,7 +340,7 @@ BO0624_88256,550154,338,130,",—",905,0.0,False,positional,Iwo hj.Stercken,,,,
 BO0624_88256,550155,339,60,",——",907,0.0,False,positional,Iwo hj.Stercken,,,,
 BO0624_88256,550156,340,25,，—,909,0.0,False,positional,Iwo hj.Stercken,,,,
 BO0624_88256,550157,341,242,"Flut. Im Vordergrund die heranbrausenden Wogen; am Horizonte mehrere Segler. Leicht geroteter, bewolkter Himmel. Bezeichnet J. H. Stercken. Goldrahm. Hohe 48 cm, Breite 70 cm.",913,98.8,False,positional,Iwo hj.Stercken,,,,
-BO0624_88256,550158,342,243,"Im Buchenwald. Durch einen hohen Buchenwald fihrt von der Mitte zum Hintergrund ein Weg, auf welchem ein Hirsch steht. Bezeichnet und datiert 1881. Gerahmt. Hohe 85 cm,Breite 68 cm.",917,98.9,False,positional,Iwo hj.Stercken,,,,
+BO0624_88256,550158,342,243,"Im Buchenwald. Durch einen hohen Buchenwald fihrt von der Mitte zum Hintergrund ein Weg, auf welchem ein Hirsch steht. Bezeichnet und datiert 1881. Gerahmt. Hohe 85 cm,Breite 68 cm.",917,98.9,False,positional,Iwo hj.Stercken,,,,Sec. XIX
 BO0624_88256,550159,343,244,"Rheinlandschaft. Zwischen Gebirge flieBt der Rhein. Am Abhange liegen Dorfer. Fernsicht. Goldrahmen. Hohe 48 cm, Breite 69 cm.",921,98.3,False,positional,Iwo hj.Stercken,,,,
 BO0624_88256,550160,344,245,"FluBlandschaft. Zwischen Wiesen und Waldern flieBt an einer Kirche vorbei ein FluB, von mehreren Schiffen belebt. Goldrahmen. Hohe 47 cm, Breite 66,5 cm.",922,98.7,False,positional,Iwo hj.Stercken,,,,
 BO0624_88256,550161,345,246,"Landschaft am Wasser. Am Ufer eines Wassers mehrere bemannte Boote und versteckt unter Baumen ein Bauerngehoft. Schwarzer Rahmen. Hohe 50 cm,",923,98.6,False,positional,Iwo hj.Stercken,,CORNICI,,
@@ -402,7 +402,7 @@ BO0624_88256,550216,400,289,Desgleichen. Delft. Mit Blumenstauden in Blaumalerei
 BO0624_88256,550217,401,290,"Kaminbild aus 6 Delfter Platten bestehend. Vogel mit Vogelkorb. In Eichenrahmen.                                                            | 40,— 20,—   | 30    |",1100,97.7,False,positional,,,PIATTI,,
 BO0624_88256,550218,402,291,Drei Teller. Fayence. Franzosisch. Achteckig. Mit Traubenbordire und im Fond Landschaften in Schwarz. Durchm.20 cm.                         |             |       |,1101,98.2,False,positional,,,PIATTI,,
 BO0624_88256,550219,403,292,"Enghalskrug mit Zinndeckel. Fayence. Engelmarke. Siddeutsch. Auf der gewellten Leibung Edeldame in Landschaft in Blaumalerei. Hohe 23,5 cm. | 19,—        | 3 3   |",1102,98.6,False,positional,,,Steinzeuge,,
-BO0624_88256,550220,404,293,"Walzenkrug mit Zinndeckel. Fayence. In bunt St. Anna und St. Johannes sowie mit Spruch und der Jahreszahl 1814. Hohe 18 crm.                | 12,—        | 3     |",1103,98.4,False,positional,,,Steinzeuge,,
+BO0624_88256,550220,404,293,"Walzenkrug mit Zinndeckel. Fayence. In bunt St. Anna und St. Johannes sowie mit Spruch und der Jahreszahl 1814. Hohe 18 crm.                | 12,—        | 3     |",1103,98.4,False,positional,,,Steinzeuge,,Sec. XIX
 BO0624_88256,550221,405,294,"Tiefe runde Schissel. Siddeutschland. Der hohe ge- wolbte Rand gewellt und von bunter Ranke umzogen. Im Fond in rundem Medaillon eine Blume. Mit Sprung. Hohe 8 cm,Durchm. 34 cm.           | 9，——   |",1106,98.8,False,positional,,,Steinzeuge,,
 BO0624_88256,550222,406,295,"Kumpe. Wedgword. Mit durchbrochenem Rand. Durchm.13,5 cm.                                                                                                                                   | 2，——   |",1108,96.5,False,positional,,,Steinzeuge,,
 BO0624_88256,550223,407,296,Desgleichen. Wedgword. Mit durchbrochenem Rand. Durchm.18 cm.                                                                                                                               | 4      |,1109,96.7,False,positional,,,Steinzeuge,,
@@ -531,8 +531,8 @@ BO0624_88256,550345,529,401,"Zwei runde Miniaturen in einem Rahmen. Prachtig gem
 BO0624_88256,550346,530,402,"36 kleine Elfenbeinminiaturen.                                                                                                              | 80,—             |",1356,94.1,False,title_direct,,,Elfenbein,,
 BO0624_88256,550347,531,404,Silhouette. Brustbild eines Mannes in Biedermeier- tracht. Breiter Metallrahmen.                                                            |                  |,1357,97.4,False,title_direct,,Biedermeier,Silhouetten,,
 BO0624_88256,550348,532,405,"Grobe Silhouette. Offizier in Galauniform zu Pferd. Mit Kreide ausgefihrt. Bezeichnet v.Krastein. Gold- rahmen. Hohe 23 cm, Breite 18,5 cm. | 10,—             |",1358,98.5,False,title_direct,,,CORNICI,,
-BO0624_88256,550349,533,406,"Friedensgedenkminze von 1658. Zinn. 407 1/4 Georgsthaler mit St. Georg. Rev,mit Schiff in alter Silberfassung.                              | 2,—— 20,—        |",1359,98.2,False,positional,,,OGGETTI IN LATTA,,
-BO0624_88256,550350,534,408,"Sedesvacanz-Doppelthaler. Koln 1761. Av. St. Petrus Rev. Hl. 3 Konige. Schone Erhaltung. Selten.                                            | 18,—             |",1360,97.8,False,positional,,,Miniaturen; Silhouetten,,
+BO0624_88256,550349,533,406,"Friedensgedenkminze von 1658. Zinn. 407 1/4 Georgsthaler mit St. Georg. Rev,mit Schiff in alter Silberfassung.                              | 2,—— 20,—        |",1359,98.2,False,positional,,,OGGETTI IN LATTA,,Sec. XVII
+BO0624_88256,550350,534,408,"Sedesvacanz-Doppelthaler. Koln 1761. Av. St. Petrus Rev. Hl. 3 Konige. Schone Erhaltung. Selten.                                            | 18,—             |",1360,97.8,False,positional,,,Miniaturen; Silhouetten,,Sec. XVIII
 BO0624_88256,550351,535,409,Alte Schraubmedaille. Silber auf die Emigranten Schon getrieben.                                                                            | 6，—              |,1361,97.0,False,positional,,,Miniaturen; Silhouetten,,
 BO0624_88256,550352,536,410,"Schweres Goldmedaillon mit meisterhaft geschnittener Kamee.                                                                                 | 24,——            |",1362,96.8,False,positional,,,Miniaturen; Silhouetten,,
 BO0624_88256,550353,537,41,l Zwei Medaillen. Messing vergoldet und graviert.                                                                                             | 5，——             |,1363,98.0,False,positional,,,Miniaturen; Silhouetten,,
@@ -541,7 +541,7 @@ BO0624_88256,550355,539,413,Plakette.Bronze. Gut ausgefihrt.                    
 BO0624_88256,550356,540,414,"Desgleichen.Versilbert.Kronung Maria. Durchm.9 cm. 6,—                                                                                      |                  |",1366,96.2,False,positional,,,Miniaturen; Silhouetten,,
 BO0624_88256,550357,541,416,"Taschenmesser. Auf beiden Seiten in Perlmutter ein                                                                                          | 8,—              |",1368,96.2,False,title_direct,,,Perlmutter,,
 BO0624_88256,550358,542,418,Schlob mit Schluissel. Gothisch. Eisen. Mit Geheim-,1370,95.9,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
-BO0624_88256,550359,543,419,"Brillenetui mit Brille. Messing. Anf. XIX. Jahrhundert. Lange 12 cm. 0,50",1372,97.1,False,positional,,,Miniaturen; Silhouetten,,
+BO0624_88256,550359,543,419,"Brillenetui mit Brille. Messing. Anf. XIX. Jahrhundert. Lange 12 cm. 0,50",1372,97.1,False,positional,,,Miniaturen; Silhouetten,,Sec. XIX
 BO0624_88256,550360,544,420,"Goldwage. In Holzkasten. Joh.Pet.Aeckersberg, Wich-",1373,95.9,False,positional,,,Miniaturen; Silhouetten,,
 BO0624_88256,550361,545,421,"Gravierte Messingplatte. Jagdszene. Durchm.10 cm. 8,—",1375,96.0,False,positional,,,Miniaturen; Silhouetten,,
 BO0624_88256,550362,546,422,"Arm eines Wandleuchters. Messing. 2,—",1376,94.3,False,positional,,,Miniaturen; Silhouetten,,
@@ -604,7 +604,7 @@ BO0624_88256,550418,602,481,Kinderspielzeug. sversilbert.Tablett.,1483,94.6,Fals
 BO0624_88256,550419,603,9,",-",1485,0.0,False,positional,,,Miniaturen; Silhouetten,,
 BO0624_88256,550420,604,4,，-,1487,0.0,False,positional,,,Miniaturen; Silhouetten,,
 BO0624_88256,550421,605,5,",—",1489,0.0,False,positional,,,Miniaturen; Silhouetten,,
-BO0624_88256,550422,606,482,"Desgleichen. 17. Jahrh. Tiere zum Aufstellen. 17 Teile. 9,—",1493,96.3,False,positional,,,Miniaturen; Silhouetten,,
+BO0624_88256,550422,606,482,"Desgleichen. 17. Jahrh. Tiere zum Aufstellen. 17 Teile. 9,—",1493,96.3,False,positional,,,Miniaturen; Silhouetten,,Sec. XVII
 BO0624_88256,550423,607,483,"Desgleichen. Silber. Schaufel, Zange, Kerzenleuchter, Kaffeekanne, Schissel, Tasse. Harke, Rasenscheere. 8 Teile. 15,—",1494,98.1,False,positional,,,OGGETTI VARI,,
 BO0624_88256,550424,608,484,"Spielzeug.Versilbert. Stuhl und Kind in einem Laufstuhl. 12,—",1495,96.6,False,positional,,,Miniaturen; Silhouetten,,
 BO0624_88256,550425,609,485,"Puppenservice. Versilbert. Nirnberg. 28 Teile. 12,—— ,——",1496,95.7,False,positional,,,Miniaturen; Silhouetten,,
@@ -648,10 +648,10 @@ BO0624_88256,550462,646,516,"Desgleichen.Biedermeier.Reiche Glasrohrchenstickere
 BO0624_88256,550463,647,517,"Schal. Reiches buntes Muster. Lange 330 cm, Breite 162 cm.",1565,96.4,False,positional,,,Schmucksachen; Uhren,,
 BO0624_88256,550464,648,518,Gobelinweberei. Kornernte. In blauseidenem Plischrahmen.18 cm.,1566,96.7,False,positional,,,Schmucksachen; Uhren,,
 BO0624_88256,550465,649,519,"Madonna mit Kind. Lindenholz. Spatgotisch und polychromiert. Auf Halbmond stehend und in faltenreichen Mantel gehillt, iber welchen das lockige Haar wallt. Auf dem linken Arm tragt sie das Jesuskindlein. Hohe 75 cm.",1572,99.0,False,positional,,,Einrichtungsgegenstande; Mobel,,
-BO0624_88256,550466,650,520,"Relief. Annaselbdritt. Weichholz. Um 1600. Auf einer Bank sitzen Anna und Maria, das Jususkindlein steht zwischen ihnen. Fast vollrund.",1573,98.5,False,positional,,,Einrichtungsgegenstande; Mobel,,
+BO0624_88256,550466,650,520,"Relief. Annaselbdritt. Weichholz. Um 1600. Auf einer Bank sitzen Anna und Maria, das Jususkindlein steht zwischen ihnen. Fast vollrund.",1573,98.5,False,positional,,,Einrichtungsgegenstande; Mobel,,Sec. XVII
 BO0624_88256,550467,651,190,",—",1575,0.0,False,positional,,,Einrichtungsgegenstande; Mobel,,
 BO0624_88256,550468,652,160,",—",1577,0.0,False,positional,,,Einrichtungsgegenstande; Mobel,,
-BO0624_88256,550469,653,521,"Desgleichen.Maria Bekronung. XV. Jahrh.Eichenholz. geschnitzt,auf Wolken stehend, in der Mitte Maria, zu Seiten Jesus und Gott Vater. Beide halten iber ihr Haupt die",1579,98.8,False,positional,,,Einrichtungsgegenstande; Mobel,,
+BO0624_88256,550469,653,521,"Desgleichen.Maria Bekronung. XV. Jahrh.Eichenholz. geschnitzt,auf Wolken stehend, in der Mitte Maria, zu Seiten Jesus und Gott Vater. Beide halten iber ihr Haupt die",1579,98.8,False,positional,,,Einrichtungsgegenstande; Mobel,,Sec. XV
 BO0624_88256,550470,654,100,",—",1581,0.0,False,positional,,,Einrichtungsgegenstande; Mobel,,
 BO0624_88256,550471,655,35,，——,1583,0.0,False,positional,,,Einrichtungsgegenstande; Mobel,,
 BO0624_88256,550472,656,522,"Gruppe. Blackwood. Geschnitten mit Silberfaden-Einlagen. Auf Sockel chinesischer Ochse mit Reiter. Hohe cm, Breite 24 cm.",1586,90.8,False,positional,,,OGGETTI VARI,,
@@ -742,13 +742,13 @@ BO0624_88256,550556,740,587,"Desgleichen. Renaissance. Eichenholz. Auf gedrehten
 BO0624_88256,550557,741,588,N.Barthelmess. Spaziergang vor dem Tor. (Goethes Druck von Schwan &amp; Steifensand in Disseldorf. Hohe,1813,98.0,False,positional,,,Kupferstiche,,
 BO0624_88256,550558,742,589,"Th. Burke. Cupid finding Aglai a asleep binds her to a Laurel. GroBes Schabkunstblatt. Ang. Kaufmann ,—",1815,97.9,False,positional,KAUFFMANN ANGELICA,,Kupferstiche,,
 BO0624_88256,550559,743,590,"Phil. Louis Debucourt. Le moment de la chasse. Kolorierter Kupferstich, Debucourt dess. et grave. Folio. ,—",1820,98.0,False,title_direct,DEBUCOURT P.L.,,Kupferstiche,,
-BO0624_88256,550560,744,591,"J. F. Deininger. Falscher Spieler. Kupferstich nach A.Seitz.Kolner Kunstvereinsblatt fuir 1875.Hohe ,5 cm, Breite 29 cm.",1825,89.6,False,title_direct,,,Kupferstiche,,
+BO0624_88256,550560,744,591,"J. F. Deininger. Falscher Spieler. Kupferstich nach A.Seitz.Kolner Kunstvereinsblatt fuir 1875.Hohe ,5 cm, Breite 29 cm.",1825,89.6,False,title_direct,,,Kupferstiche,,Sec. XIX
 BO0624_88256,550561,745,592,"M. Horte. Ruhe auf der Flucht. GroBe Radierung nach Murillo. Gedruckt bei G.Fischer, Berlin. Hohe 55 cm,",1827,98.0,False,title_direct,MURILLO BARTOLOME ESTEBAN,Scuola di Berlino,Radierungen,,
 BO0624_88256,550562,746,65,，——,1828,0.0,False,positional,,,Kupferstiche,,
 BO0624_88256,550563,747,3,，——,1830,0.0,False,positional,,,Kupferstiche,,
 BO0624_88256,550564,748,6,，——,1832,0.0,False,positional,,,Kupferstiche,,
 BO0624_88256,550565,749,593,"M. Horte. L'amour paysible. GroBe Radierung nach A.Watteau. Gedruckt bei C. Labo, Berlin. Hohe 50 cm, Breite 72 cm. Am rechten Rand eingerissen.",1835,98.5,False,title_direct,WATTEAU FRANCOIS,Scuola di Berlino,Radierungen,,
-BO0624_88256,550566,750,594,"Rembrandt. Jacob zegent zyne kleinzonen Eiraim en Manasse. GroBe Reproduktion in Kupferdruck der Vereeniging tot Bevordering van Beeldende Kunsten, 1906. Hohe 44 cm, Breite 53 cm.",1836,98.9,False,positional,REMBRANDT VAN RIJN,,Kupferstiche,,
+BO0624_88256,550566,750,594,"Rembrandt. Jacob zegent zyne kleinzonen Eiraim en Manasse. GroBe Reproduktion in Kupferdruck der Vereeniging tot Bevordering van Beeldende Kunsten, 1906. Hohe 44 cm, Breite 53 cm.",1836,98.9,False,positional,REMBRANDT VAN RIJN,,Kupferstiche,,Sec. XX
 BO0624_88256,550567,751,595,"G.Segantini. Am Pflug. Farbige Wiedergabe der Photographischen Union in Munchen. Hohe 35 cm,",1837,97.8,False,positional,,,Kupferstiche,,
 BO0624_88256,550568,752,596,"W.Unger. Das Familienkonzert. GroBe Radierung nach Fritz v.Uhde. Hohe 40 cm, Breite 58 cm. Rand an einer Seite ladirt.",1839,98.2,False,title_direct,VON UHDE FRITZ,,Radierungen,,
 BO0624_88256,550569,753,597,"J.A. Watteau. Das Konzert. GroBe farbige Reproduktion von F. Bruckmann A.-G.in Muinchen. Hohe 44 cm, Breite 60 cm.",1840,98.1,False,positional,WATTEAU FRANCOIS,,Kupferstiche,,

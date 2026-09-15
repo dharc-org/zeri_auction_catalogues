@@ -7,13 +7,13 @@ BO0624_83723,159338,5,5,LAGNEAU. Portrait de vieillard.,72,84.0,False,title_dire
 BO0624_83723,159339,6,6,LAGNEAU. Portrait de vieillard.,82,80.8,False,title_direct,LAGNEAU,,,,
 BO0624_83723,159340,7,7,RICCI. Saint Jérome.,91,68.8,False,title_direct,RICCI,,,,
 BO0624_83723,159341,8,8,VIVARINI. La Vierge tenant l'Enfant-Jésus.,100,84.9,False,title_direct,VIVARINI,,,,
-BO0624_83723,159342,9,9,école Allemande. XV siecle. La Vierge et le Christ.,112,62.9,False,positional,,ECOLE ALLEMANDE,,,
-BO0624_83723,159343,10,10,école espagnole. XV siecle. Deux personagges.,117,49.1,False,positional,,ECOLE ESPAGNOLE,,,
-BO0624_83723,159344,11,11,école Flamande. XVI siecle. La Vierge allaitant l'Enfant-Jesus.,133,72.3,False,positional,,ECOLE FLAMANDE,,,
-BO0624_83723,159345,12,12,école Flamande. XVI siecle. Tryptyque.,140,53.1,False,positional,,ECOLE FLAMANDE,,,
+BO0624_83723,159342,9,9,école Allemande. XV siecle. La Vierge et le Christ.,112,62.9,False,positional,,ECOLE ALLEMANDE,,,Sec. XV
+BO0624_83723,159343,10,10,école espagnole. XV siecle. Deux personagges.,117,49.1,False,positional,,ECOLE ESPAGNOLE,,,Sec. XV
+BO0624_83723,159344,11,11,école Flamande. XVI siecle. La Vierge allaitant l'Enfant-Jesus.,133,72.3,False,positional,,ECOLE FLAMANDE,,,Sec. XVI
+BO0624_83723,159345,12,12,école Flamande. XVI siecle. Tryptyque.,140,53.1,False,positional,,ECOLE FLAMANDE,,,Sec. XVI
 BO0624_83723,159346,13,13,école francaise. Le concert.,150,68.3,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83723,159347,14,14,école francaise. Triptyque.,159,70.0,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83723,159348,15,15,école dell'Italie du nord. XV siecle. Sujets saints.,169,62.2,False,positional,,ECOLE DE L'ITALIE DU NORD,,,
+BO0624_83723,159348,15,15,école dell'Italie du nord. XV siecle. Sujets saints.,169,62.2,False,positional,,ECOLE DE L'ITALIE DU NORD,,,Sec. XV
 BO0624_83723,159349,16,16,Objets d'art. FibuLE en argent dore de forme cintree. Epoque merovingienne.,186,89.6,False,positional,,,OGGETTI VARI,,
 BO0624_83723,159350,17,17,"Objets d'art. PETIT BAs-RELIEF en argent repousse :la Vierge, l'Enfant-Jesus et saint Jean-Baptiste. Travail italien, xvie siecle. Cadre en ebene incruste d'os, de forme architecturale et d'ancien travail italien.",190,96.5,False,positional,,,BASSORILIEVI,,
 BO0624_83723,159351,18,18,"Objets d'art. Deux corNETs de pharmacie en ancienne faience de Faenza, decores l'un, d'une panthere, l'autre d'un buste d'empereur romain,",194,94.5,False,positional,,Scuola Faentina,OGGETTI VARI,,
@@ -43,7 +43,7 @@ BO0624_83723,159374,41,41,"Objets d'art. BRAS-APPLIQUE en fer, en forme de drago
 BO0624_83723,159375,42,42,Objets d'art. PETITE SCIE en fer a decor de feuillages.xvie siecle.,293,88.3,False,positional,,,OGGETTI VARI,,
 BO0624_83723,159376,43,43,Objets d'art. PINcE en fer simulant un crocodile. xvi siecle.,297,53.7,False,positional,,,OGGETTI VARI,,
 BO0624_83723,159377,44,44,"Objets d'art.  SciE en fer a decor de moulures. Poignee en bois sculpte a mascarons. Travail parisien, xvl1 siecle.",299,93.3,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_83723,159378,45,45,Objets d'art.  SEcATEuR en fer a decor de moulures. XVII siecle.,303,83.6,False,positional,,,OGGETTI VARI,,
+BO0624_83723,159378,45,45,Objets d'art.  SEcATEuR en fer a decor de moulures. XVII siecle.,303,83.6,False,positional,,,OGGETTI VARI,,Sec. XVII
 BO0624_83723,159379,46,46,Objets d'art.  MarTEau forme d’une cle d'epinette en fer. Epoque Regence.,307,89.1,False,positional,,,OGGETTI VARI,,
 BO0624_83723,159380,47,47,Bronzes de Barye. LioNNE marchant; bronze a patine verte de Barye. Ancienne,312,85.3,False,positional,BARYE ANTOINE LOUIS,,BRONZES,,
 BO0624_83723,159381,48,48,Bronzes de Barye. LioN marchant; bronze a patine brune de Barye. Modele. Epreuve ancienne.,317,88.5,False,positional,BARYE ANTOINE LOUIS,,BRONZES,,
@@ -82,7 +82,7 @@ BO0624_83723,159413,80,80,"Sculptures.  Groupe-AppLiQuE en pierre sculptee avec 
 BO0624_83723,159414,81,81,"Sculptures. Groupe en pierre sculptee；la Vierge assise, vetue de long, coiffee d'un voile retenu par un diademe et tenant l'Enfant-Jesus debout aupres d'elle. France, xive siecle.",443,96.4,False,positional,,,SCULPTURES,,
 BO0624_83723,159415,82,82,Sculptures. BAs-RELIEF en albatre;la Resurrection.xive siecle.,447,89.3,False,positional,,,BASSORILIEVI,,
 BO0624_83723,159416,83,83,"Sculptures. HAuT-RELIEF en albatre partiellement dore:1'Annonciation;a la partie superieure, le Pere-Eternel et le Saint-Esprit. Commencement du xve siecle.",451,95.9,False,positional,,,SCULPTURES,,
-BO0624_83723,159417,84,84,"Sculptures. STATUETTE-APPLIQuE,en marbre tendre blanc,de pleureur debout, les mains jointes, portant la cagoule. xive siecle. Provenant de Poblet (Espagne). Au revers, l'inscription gravee : sAcADo DEL PANTEoN DEL REY DON JAIME EN POBLET, ANNO 1836.",455,97.4,False,positional,,,SCULPTURES,,
+BO0624_83723,159417,84,84,"Sculptures. STATUETTE-APPLIQuE,en marbre tendre blanc,de pleureur debout, les mains jointes, portant la cagoule. xive siecle. Provenant de Poblet (Espagne). Au revers, l'inscription gravee : sAcADo DEL PANTEoN DEL REY DON JAIME EN POBLET, ANNO 1836.",455,97.4,False,positional,,,SCULPTURES,,Sec. XIX
 BO0624_83723,159418,85,85,Sculptures. PETIT GRouPE-APpLIQuE en marbre tendre blanc:la Vierge debout,458,91.2,False,positional,,,SCULPTURES,,
 BO0624_83723,159419,86,86,"Sculptures. Groupe-AppLIQuE en marbre tendre blanc;la Vierge assise, tenant sur un genou l'Enfant-Jesus debout.xve siecle.",463,94.8,False,positional,,,SCULPTURES,,
 BO0624_83723,159420,87,87,Sculptures. PETIT GRouPE-APpLIQuE en marbre tendre blanc:lAnnonciation. Fin du xve siecle.,467,92.8,False,positional,,,SCULPTURES,,
@@ -200,7 +200,7 @@ BO0624_83723,159531,198,205,"BRODERIES - VELOURS. Deux BANDEs D'oRFRoIs en brode
 BO0624_83723,159532,199,206,"BRODERIES - VELOURS. PLuviAL de chape en broderie de soie de couleur et a l'or nue, orne du sujet de la Cene; encadrement a gros reliefs. Flandres, xv1 siecle.Encadre.",942,93.4,False,title_direct,,,BRODERIES,,
 BO0624_83723,159533,200,207,"BRODERIES - VELOURS. PeTIT TABLEAu en broderie de soie de couleur et d'argent, representant l'Adoration des Rois Mages. Flandres, fin du xvie siecle.",946,92.6,False,title_direct,,,BRODERIES,,
 BO0624_83723,159534,201,208,"BRODERIES - VELOURS. BANDE ET DEux PETITS CARREs en velours rouge et satin jaune, brodes de soie de couleur et d'or et soutaches, presentant le monogramme du Christ, l'initiale M de la Vierge, ainsi que les feurs de lys de France, l'initiale A et les hermines d'Anne de Bretagne. Epoque Louis XII.",950,96.4,False,title_direct,,,BRODERIES,,
-BO0624_83723,159535,202,209,"BRODERIES - VELOURS. Croix provenant d'une chasuble en satin vieux rose, avec applications de broderie de soie de couleur et d'or;elle presente,au milieu d'entrelacs, de feuillages et de couronnes, le buste du donateur surmonte d'une figure de la Synagogue. Plus haut, le roi David entre un joueur de cornemuse et un joueur de viole; enfin, a la partie superieure, la Vierge et l'Enfant-Jesus.Parmi les motifs d'ornementation,un cartouche avec la date 1526.France, xvie siecle.",954,98.0,False,title_direct,,,BRODERIES,,
+BO0624_83723,159535,202,209,"BRODERIES - VELOURS. Croix provenant d'une chasuble en satin vieux rose, avec applications de broderie de soie de couleur et d'or;elle presente,au milieu d'entrelacs, de feuillages et de couronnes, le buste du donateur surmonte d'une figure de la Synagogue. Plus haut, le roi David entre un joueur de cornemuse et un joueur de viole; enfin, a la partie superieure, la Vierge et l'Enfant-Jesus.Parmi les motifs d'ornementation,un cartouche avec la date 1526.France, xvie siecle.",954,98.0,False,title_direct,,,BRODERIES,,Sec. XVI
 BO0624_83723,159536,203,210,"BRODERIES - VELOURS. Croix provenant d'une chasuble en broderie de soie de couleur et d'or, presentant le Christ crucifie;a la partie superieure, le Pere Eternel; au-dessous, la Vierge et saint Jean. Travail du nord de la France, xvi siecle.",957,96.0,False,title_direct,,,BRODERIES,,
 BO0624_83723,159537,204,211,"BRODERIES - VELOURS. BANDE D'orrroi en broderie de soie de couleur et de metal, présentant, sous des arcades superposees a pinacles gothiques avec oiseaux, des figures de saints personnages. Fin du xive siecle.",961,94.9,False,title_direct,,,OGGETTI IN METALLO,,
 BO0624_83723,159538,205,212,"BRODERIES - VELOURS. FRAGMENT compose de deux bandes en broderie de soie de couleur et de metal, presentant, sous des arcades gothiques avec oiseaux, quatre groupes de deux saints personnages. Fin du xive siecle.",965,94.9,False,title_direct,,,OGGETTI IN METALLO,,

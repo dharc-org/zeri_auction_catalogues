@@ -105,7 +105,7 @@ BO0624_84104,103,103,124,"—BoITE REcTANGULAiRE, montée a cage, en argent et",
 BO0624_84104,104,104,125,-DRAGEoIR oBLONG en prime d’amethyste; monture,685,95.7,False,positional,,,FAIENCES,,
 BO0624_84104,105,105,126,"—BoITE REcTANGULAIRE en ecaille brune, ornee, sur le couvercle, d'une miniature ovale, de lepoque Louis XV: Portrait de femme, assise, vetue de bleu",687,98.6,False,positional,,Periodo di Luigi XV,MINIATURE,,
 BO0624_84104,106,106,127,"BoITE ovALE en écaille brune, presentant, sur le couvercle,une miniature,d'epoque Louis XV:Portrait presume de Mme de Caylus, vue a mi-corps, assise et tenant un loup; cncadrement de demi-perles.",689,99.0,False,positional,,Periodo di Luigi XV,MINIATURE,,
-BO0624_84104,107,107,128,"— BoITE ovALE en or de couleur cisele, a decor d'attributs et cordons de feuillages. Elle est ornee, sur le couvercle, d'une miniature ovale:Portrait de femme, en buste, vetue de bleu. Poincons de Fouache, regis seur des droits de marque, anmees 1778-79. Epoque Louis XVI.",690,99.2,False,positional,,,MINIATURE,,
+BO0624_84104,107,107,128,"— BoITE ovALE en or de couleur cisele, a decor d'attributs et cordons de feuillages. Elle est ornee, sur le couvercle, d'une miniature ovale:Portrait de femme, en buste, vetue de bleu. Poincons de Fouache, regis seur des droits de marque, anmees 1778-79. Epoque Louis XVI.",690,99.2,False,positional,,,MINIATURE,,Sec. XVIII
 BO0624_84104,108,108,129,"— BoirE RoNDE, decoree de rayures au vernis et présentant, sur le couvercle, un bas-relief en ivoire ajoure, a sujet d'amours et de rinceaux, au milieu duquel se detache une miniature ronde:Portrait de femme en buste,la poitrine decouverte. Epoque Louis XVI.",694,99.2,False,positional,,,BASSORILIEVI,,
 BO0624_84104,109,109,13,"o—BoITE RoNDE, formee de lamelles de verre sur paillons verts et violets juxtaposees;monture en or de couleur cisele a cordons de petites feuilles, avec bordure de demi-perles. Le couvercle presente, en outre, un bouquet de fleurs execute en petites roses, dans un Epoque",697,99.6,False,positional,,,OGGETTI VARI,,
 BO0624_84104,110,110,131,"-TABATIERE, a deux tabacs, en ancienne porcelaine de Saxe, decoree, sur toutes les faces et les revers des couvercles, de compositions de style chinois, ainsi",702,98.7,False,positional,,,FAIENCES,,
@@ -172,8 +172,8 @@ BO0624_84104,170,170,191,"—MINIATuRE RONDE:Portrait presume de Mme de Polignac
 BO0624_84104,171,171,192,"- MINIATURE RONDE : Portrait de femme en buste, vetue d'un corsage bleu decollete, avec fichu ; fond de",833,97.9,False,title_direct,,,MINIATURES,,
 BO0624_84104,172,172,193,"MINIATURE RONDE: Portrait de femme en buste, vetue de blanc, portant de longues boucles d'oreilles.",835,97.9,False,title_direct,,,MINIATURES,,
 BO0624_84104,173,173,194,"—DEUx MINIATUREs RONDEs en grisaille: Portraits en buste de Marie-Therese-Charlotte de France et de Louis-Charles, dauphin de France, par Barbier. Epoque Louis XVI.",837,98.8,False,title_direct,,,MINIATURES,,
-BO0624_84104,174,174,195,"MINIATURE RoNDE:Portrait presume de MarieAntoinette, vue a mi-corps, en corsage rose decollete avec draperie bleue et grand chapeau noir, par Bourdier fils: Signee et datee: 1789.",838,98.9,False,title_direct,,,MINIATURES,,
-BO0624_84104,175,175,196,"— MINIATURE RONDE: Portrait de femme en buste, vetue de blanc, avec corsage decollete,des perles dans les cheveux, par Noortroyck. Signee et datée: 1786.",839,98.6,False,title_direct,,,MINIATURES,,
+BO0624_84104,174,174,195,"MINIATURE RoNDE:Portrait presume de MarieAntoinette, vue a mi-corps, en corsage rose decollete avec draperie bleue et grand chapeau noir, par Bourdier fils: Signee et datee: 1789.",838,98.9,False,title_direct,,,MINIATURES,,Sec. XVIII
+BO0624_84104,175,175,196,"— MINIATURE RONDE: Portrait de femme en buste, vetue de blanc, avec corsage decollete,des perles dans les cheveux, par Noortroyck. Signee et datée: 1786.",839,98.6,False,title_direct,,,MINIATURES,,Sec. XVIII
 BO0624_84104,176,176,197,"— MiNIATURE RoNDE: Portrait presume de Florian, vu a mi-corps, vetu d'un habit marron ; fond de pay-",840,97.9,False,positional,,,MINIATURES,,
 BO0624_84104,177,177,198,"— MINIATuRE: Portrait presume du duc de Penthievre, debout, a micorps, en armure. Epoque Louis XVI, par Rouvier. Signée.",844,98.2,False,positional,,,MINIATURES,,
 BO0624_84104,178,178,199,"— MINIATURE OBLONGUE: Corbeille de fleurs, raisins, peches, etc.,par G.van Spaendonck.",845,97.5,False,title_direct,,,MINIATURES,,
@@ -190,15 +190,15 @@ BO0624_84104,188,188,209,"—MINIATURE RoNDE: Portrait presume de Mme de Tourzel
 BO0624_84104,189,189,210,"MINIATURE ovALE:Portrait presume de Mlle Clairon, en buste, assise, vetue d'un corsage bleu decollete. Signee : Hall.",865,98.2,False,title_direct,,,MINIATURES,,
 BO0624_84104,190,190,211,"MINIATURE ovALE, signee :Hall :Portrait de femme en buste, vetue d'un corsage vert, laissant un sein a decouvert; elle est coiffee d'un petit bonnet",866,98.6,False,title_direct,,,MINIATURES,,
 BO0624_84104,191,191,212,"MINIATURE ovALE :Portrait de Louis XVI, en buste. Signee : Hall.",871,97.5,False,title_direct,,,MINIATURES,,
-BO0624_84104,192,192,213,"MINIATURE ovALE :Portrait de femme,en buste, vetue d'un corsage bleu et blanc decollete, orne d'une rose. Signee : Hall et datee : 1786.",872,98.4,False,title_direct,,,MINIATURES,,
+BO0624_84104,192,192,213,"MINIATURE ovALE :Portrait de femme,en buste, vetue d'un corsage bleu et blanc decollete, orne d'une rose. Signee : Hall et datee : 1786.",872,98.4,False,title_direct,,,MINIATURES,,Sec. XVIII
 BO0624_84104,193,193,214,"MINIATURE ovALE:Portrait de femme, en buste,",876,95.5,False,title_direct,,,MINIATURES,,
 BO0624_84104,194,194,215,"MINIATURE RONDE:Portrait de femme, en buste,",878,95.5,False,title_direct,,,MINIATURES,,
 BO0624_84104,195,195,216,"MINIATURE RONDE : Portrait d'homme, en buste, vetu d'un habit a brandebourgs, avec decoration.",883,97.8,False,title_direct,,,MINIATURES,,
 BO0624_84104,196,196,217,"—MINIATURE ovALE:Portrait dhomme en buste, vetu d'un habit vert, la tete tournee vers l'epaule droite.",885,98.0,False,title_direct,,,MINIATURES,,
 BO0624_84104,197,197,218,"MINIATuRE ovALE:Portrait de femme en buste,",887,95.5,False,positional,,,MINIATURES,,
-BO0624_84104,198,198,219,"MINIATURE ovALE :Portrait de femme, en buste, coiffee d'un grand chapeau. Signée : Vestier, 1790.",889,97.8,False,title_direct,,,MINIATURES,,
+BO0624_84104,198,198,219,"MINIATURE ovALE :Portrait de femme, en buste, coiffee d'un grand chapeau. Signée : Vestier, 1790.",889,97.8,False,title_direct,,,MINIATURES,,Sec. XVIII
 BO0624_84104,199,199,220,"MINIATURE RoNDE:Portrait dhomme,en buste, vetu d'un habit bleu, par Augustin. Signee et datee: Diam.,55 millim.",890,90.5,False,title_direct,,,MINIATURES,,
-BO0624_84104,200,200,221,"—FixE ovALE, presentant une corbeille de raisin et un vase de fleurs, par Mme Coster. Signe et date : 1795.",895,98.0,False,positional,,,MINIATURES,,
+BO0624_84104,200,200,221,"—FixE ovALE, presentant une corbeille de raisin et un vase de fleurs, par Mme Coster. Signe et date : 1795.",895,98.0,False,positional,,,MINIATURES,,Sec. XVIII
 BO0624_84104,201,201,222,"PEINTURE RoNDE, sur émail:Euryclee reveillant Penelope, pour lui annoncer l'arrivee d'Ulysse, par",897,97.9,False,positional,,,MINIATURES,,
 BO0624_84104,202,202,223,"PEINTURE RoNDE, sur émail :Portrait de femme, vue de dos, en buste, une draperie rouge autour des",902,97.9,False,positional,,,MINIATURES,,
 BO0624_84104,203,203,224,"— MINIATURE RONDE :Portrait presume de Barnave,",904,95.6,False,title_direct,,,MINIATURES,,
@@ -233,7 +233,7 @@ BO0624_84104,231,231,252,"—MEDAILLoN ovALE, peint sur émail, sur cuivre, pré
 BO0624_84104,232,232,253,MINIATURE RECTANGULAIRE:Portrait presume de la mere de Napoleon Ier. Epoque Empire.,988,97.6,False,title_direct,,,MINIATURES,,
 BO0624_84104,233,233,254,"MINIATURE RONDE: Portrait de femme, assise,a mi-corps, vetue de blanc, le sein droit a decouvert ; fond de paysage. Commencement du xix siecle. En-",989,98.9,False,title_direct,,,MINIATURES,,
 BO0624_84104,234,234,255,MINIATURE RONDE:Portrait de jeune femme en,994,95.5,False,title_direct,,,MINIATURES,,
-BO0624_84104,235,235,256,"-GRANDE MINIATURE ovALE:Portrait presume de la duchesse de Berry,en buste,vetue d'un corsage vert decollete, avec fourrure et epingle dans les cheveux, par Dubois Drahonet. Signee et datee:1829.",996,99.0,False,title_direct,,,MINIATURES,,
+BO0624_84104,235,235,256,"-GRANDE MINIATURE ovALE:Portrait presume de la duchesse de Berry,en buste,vetue d'un corsage vert decollete, avec fourrure et epingle dans les cheveux, par Dubois Drahonet. Signee et datee:1829.",996,99.0,False,title_direct,,,MINIATURES,,Sec. XIX
 BO0624_84104,236,236,257,"—EBAucHE, de forme ovale:Portrait dIngres, repre-",1000,95.7,False,positional,,,MINIATURES,,
 BO0624_84104,237,237,258,— MINIATURE RECTANGULAIRE: Sainte Cecile jouant de,1005,95.9,False,title_direct,,,MINIATURES,,
 BO0624_84104,238,238,259,"—MINIATuRE ovALE:Portrait presume de Mme Elisabeth,vetue de bleu et vue en buste. Revers en ivoire",1007,98.0,False,positional,,,MINIATURES,,

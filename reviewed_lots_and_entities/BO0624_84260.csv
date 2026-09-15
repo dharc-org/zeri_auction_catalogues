@@ -5,7 +5,7 @@ BO0624_84260,441765,3,1,"laut.,21 cent.1/2;larg.,18 cent. 1/2.",112,98.5,False,p
 BO0624_84260,441766,4,20,21,242,57.1,False,positional,TAUNAY,,,,
 BO0624_84260,441767,5,22,"## Portrait de Marie-Antoinette,",269,100.0,False,positional,VIGEE-LEBRUN,,,,
 BO0624_84260,441768,6,23,"— Laborde (de). Choix de chansons mises en musique par M. de Laborde, premier valet de chambre ordinaire du Roi, gouverneur du Louvre, ornees d'estampes par J.-M. Moreau, dediees a Madame la Dauphine.A Paris, chez de Lormel, imprimeur de l'Académie royale de Musique, rue du FoinSaint-Jacques. MDCCLXXIlI. Avec approbation et privilege du Roi. <!-- image -->",294,98.6,False,positional,VIGEE-LEBRUN,,STAMPE E INCISIONI,,
-BO0624_84260,441769,7,24,"—La Fontaine (J. de). Fables choisies, mises en vers par J.de La Fontaine. A Paris,1755-1759, chez Desaint et. Saillant. 4 vol. in-fol. Cartonne; dos et coins en basane.",319,99.0,False,positional,VIGEE-LEBRUN,,,,
+BO0624_84260,441769,7,24,"—La Fontaine (J. de). Fables choisies, mises en vers par J.de La Fontaine. A Paris,1755-1759, chez Desaint et. Saillant. 4 vol. in-fol. Cartonne; dos et coins en basane.",319,99.0,False,positional,VIGEE-LEBRUN,,,,Sec. XVIII
 BO0624_84260,441770,8,25,"Retif de la Bretonne. Monument du Costume physique et moral de la fin du xvine siecle, ou Tableaux de la vie, ornes de figures dessinees par M. Moreau le Jeune, dessinateur du Cabinet de S. M. T. C., et par d'autres celebres artistes. A Neuwied sur le Rhin, chez la Societe Typographique.MDCCLXXXIX.",321,99.5,False,positional,VIGEE-LEBRUN,,,,
 BO0624_84260,441771,9,26,## Trois Portraits de femmes.,344,100.0,False,positional,COSWAY,,,,
 BO0624_84260,441772,10,27,## La Promenade.,377,100.0,False,positional,COSWAY,,,,
@@ -38,10 +38,10 @@ BO0624_84260,441798,36,54,## PENDANT DU PRECEDENT,1000,100.0,False,positional,VA
 BO0624_84260,441799,37,55,56,1019,57.1,False,positional,VERDUSSEN,,,,
 BO0624_84260,441800,38,57,"## Lion marchant, profil a gauche. Lionnes luttant.",1042,100.0,False,positional,BARYE,,,,
 BO0624_84260,441801,39,I,"re vente Hazard, decembre 1gi9, n° 297.",1054,98.6,False,positional,BARYE,,,,
-BO0624_84260,441802,40,1834,1917.,1063,61.5,False,positional,DEGAS,,,,
+BO0624_84260,441802,40,1834,1917.,1063,61.5,False,positional,DEGAS,,,,Sec. XX
 BO0624_84260,441803,41,58,## Femme a sa toilette.,1067,100.0,False,positional,DEGAS,,OGGETTI VARI,,
 BO0624_84260,441804,42,59,## Danseuses a l'exercice.,1086,100.0,False,positional,DEGAS,,,,
-BO0624_84260,441805,43,60,## Danseuse. 1891.,1100,76.2,False,positional,DEGAS,,,,
+BO0624_84260,441805,43,60,## Danseuse. 1891.,1100,76.2,False,positional,DEGAS,,,,Sec. XIX
 BO0624_84260,441806,44,61,## L'Hiver en Hollande.,1125,100.0,False,positional,JONGKIND,,,,
 BO0624_84260,441807,45,62,## Portrait presume,1156,100.0,False,positional,DE FERNEX,,,,
 BO0624_84260,441808,46,63,"## Portrait de Monsieur de Sartine, Conseiller d'Etai, Lieutenant de Police.",1183,100.0,False,positional,DE FERNEX,,,,
@@ -107,13 +107,13 @@ BO0624_84260,441867,105,115,"- BeRGERe a oreilles, en bois sculpte et peint. Epo
 BO0624_84260,441868,106,116,"— Canape d'alcove, en bois sculpte et dore. Fin de lépoque",1893,96.4,False,positional,VASSE,,OGGETTI IN LEGNO,,
 BO0624_84260,441869,107,I,l est couvert et muni de quatre coussins de velours rose ancien avec bordures de passementerie.,1898,99.5,False,positional,VASSE,,BIANCHERIA,,
 BO0624_84260,441870,108,I,l porte I'estampille de P. Pluvinet.,1900,98.6,False,positional,VASSE,,,,
-BO0624_84260,441871,109,14,juillet 1754; il habitait rue de Clery.,1906,96.1,False,positional,VASSE,,,,
+BO0624_84260,441871,109,14,juillet 1754; il habitait rue de Clery.,1906,96.1,False,positional,VASSE,,,,Sec. XVIII
 BO0624_84260,441872,110,117,"— FAuTeuIL de bureau, canne. Epoque Louis XV. De forme contournee, en bois moulure, sculpte et cire; decor de petits feuillages. Coussin de cuir.",1914,98.5,False,positional,VASSE,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_84260,441873,111,118,"— Deux FAuTEuILs en bois sculpte ciré, du temps de Louis xV, couverts en ancienne tapisserie au point. Corbeilles de feurs et torsades, sur fond blanc.",1918,98.6,False,positional,VASSE,Periodo di Luigi XV,BIANCHERIA,,
 BO0624_84260,441874,112,119,"— FauTeuIL en bois moulure, sculpte et cire, du temps de Louis XV, couvert en ancienne tapisserie au point a feurs <!-- image -->",1922,95.6,False,positional,VASSE,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_84260,441875,113,120,"- CaNApe d'angle en bois sculpte peint, couvert en lampas. Epoque Louis XV.",1942,97.2,False,positional,VASSE,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_84260,441876,114,I,"l porte, plusieurs fois repetee, l'estampille de I. Nadal. Il est recouvert et garni d'un coussin en lampas a fond jaune broche a sujets de personnages dans le gout chinois, sur des branchages, d'époque Louis XV.",1946,99.8,False,positional,VASSE,Periodo di Luigi XV,,,
-BO0624_84260,441877,115,I,"l existait deux sculpteurs ebenistes du nom de Nadal, l'un, Henri, recu maitre le 22 septembre 1756,habitait ruede Cléry;l'autre, Michel, recu le 6 fevrier 1765,habitait la meme rue.",1950,99.7,False,positional,VASSE,,,,
+BO0624_84260,441877,115,I,"l existait deux sculpteurs ebenistes du nom de Nadal, l'un, Henri, recu maitre le 22 septembre 1756,habitait ruede Cléry;l'autre, Michel, recu le 6 fevrier 1765,habitait la meme rue.",1950,99.7,False,positional,VASSE,,,,Sec. XVIII
 BO0624_84260,441878,116,121,"—Deux FAuTeuILs de forme contournee, en bois mouluré, sculpte et peint gris. ls sont garnis de tapisserie au point, du temps de",1958,72.7,False,positional,VASSE,,OGGETTI IN LEGNO,,
 BO0624_84260,441879,117,122,"EcraN en bois sculpte et peint, avec sa feuille en ancienne tapisserie fine du xvine siecle. Epoque Louis XVI.",1966,98.2,False,positional,VASSE,,OGGETTI IN LEGNO,,
 BO0624_84260,441880,118,123,"Ecran ovale en bois dore, muni d’une feuille de tapis-",1981,96.3,False,positional,VASSE,,OGGETTI IN LEGNO,,

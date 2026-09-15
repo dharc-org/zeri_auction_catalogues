@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83827,106934,1,1,"- Sous ce numero,les estampes non cataloguees.",27,100.0,False,positional,,,ESTAMPES,,
 BO0624_83827,106935,2,2,"Superbe epreuve avant toutes lettres, toute marge.",31,100.0,False,positional,,,ESTAMPES,,
-BO0624_83827,106936,3,3,"—Bartolozzi (F.). Catherine II,Empress of Russia, d'apres M.BENEDETTI, 1783.Joli portrait en pied, in-fol.",33,99.0,False,positional,,,ESTAMPES,,
+BO0624_83827,106936,3,3,"—Bartolozzi (F.). Catherine II,Empress of Russia, d'apres M.BENEDETTI, 1783.Joli portrait en pied, in-fol.",33,99.0,False,positional,,,ESTAMPES,,Sec. XVIII
 BO0624_83827,106937,4,4,Baudouin (D'apres P.A.).Les Amants sur-,37,97.2,False,positional,,,ESTAMPES,,
 BO0624_83827,106938,5,5,"Baudouin (D'apres P.-A.). Le Coucher de la mariee, par J.-M. MoREAu LE JEUNE et J.-B.",41,98.7,False,positional,MOREAU ADRIAN,,ESTAMPES,,
 BO0624_83827,106939,6,6,"Baudouin (D'apres P.-A.). La Jeune bouquetiere. Copie de lestampe : MARToN.Petite piece ovale in-4°, publiee chez Crépy (E. B. 31), gravée au pointille et imprimee en bistre.",46,99.4,False,positional,,,ESTAMPES,,
@@ -27,7 +27,7 @@ BO0624_83827,106958,25,29,"Isabey (D'apres J.). Marie-Louise, archiduchesse d'Au
 BO0624_83827,106959,26,30,"— Janinet (F.). L'Agreable neglige. Medaillon ovale dans un encadrement rectangulaire, in-4°, d'apres BAuDouIn (Le Leger vetement) (E.B.28).",163,98.8,False,positional,JANINET FRANCOIS,,ESTAMPES,,
 BO0624_83827,106960,27,31,"Janinet(F.). La Compagne de Pomone, d'apres SAINT-QuENTIn. Charmante estampe en medaillon ovale, avec encadrement gravé. In-4°.",169,98.7,False,positional,JANINET FRANCOIS,,ESTAMPES,,
 BO0624_83827,106961,28,32,"—Janinet (F.). L'Aimable paysanne, d'apres SAINT-QuENTIN. Charmante estampe en medaillon ovale avec encadrement grave. In-4°.",172,98.7,False,positional,JANINET FRANCOIS,,ESTAMPES,,
-BO0624_83827,106962,29,33,"Janinet (F.). Mademoiselle du T...(Duthe). Estampe ovale, grand in-4°, d'apres LEMoINE, 1799. Elle est representee de face, assise devant sa toilette; elle tient des roses de la main droite,une lettre de la main gauche; son miroir la reflete de profil.",178,99.4,False,positional,JANINET FRANCOIS,,ESTAMPES,,
+BO0624_83827,106962,29,33,"Janinet (F.). Mademoiselle du T...(Duthe). Estampe ovale, grand in-4°, d'apres LEMoINE, 1799. Elle est representee de face, assise devant sa toilette; elle tient des roses de la main droite,une lettre de la main gauche; son miroir la reflete de profil.",178,99.4,False,positional,JANINET FRANCOIS,,ESTAMPES,,Sec. XVIII
 BO0624_83827,106963,30,34,"—Janinet (F.). La Toilette de Venus. Belle estampe in-fol., d'apres F. BoucHER.",184,97.9,False,positional,BOUCHER FRANCOIS,,ESTAMPES,,
 BO0624_83827,106964,31,35,"John (F.). Anna Adamberger, dans le role",188,95.9,False,positional,,,ESTAMPES,,
 BO0624_83827,106965,32,36,"Kauffmann.(D'apres ANG.). Mme la Comtesse d'Harcourt, nee Elisabeth Vernon. Gracieux portrait en medaillon ovale,in-4°. Grave par C.RUOTTE.",192,99.2,False,positional,KAUFFMANN ANGELICA,,ESTAMPES,,
@@ -36,7 +36,7 @@ BO0624_83827,106967,34,38,"Lawreince (D'apres N.) Ah!le Joli petit chien.-Le Pet
 BO0624_83827,106968,35,39,Lawreince (D'apres N.). Le Billet doux.—,208,95.8,False,positional,Scuola di Nicolas Lavreince,,ESTAMPES,,
 BO0624_83827,106969,36,40,"Lawrence (D'apres Sir TH.). Mrs. Croker. Petite gravure in-8, en maniere noire, par THOMSON.",213,98.2,False,positional,LAVREINCE NICOLAS,,ESTAMPES,,
 BO0624_83827,106970,37,41,"—Lawrence (D'apres Sir TH.). The Countess Gower and the Lady Elisabeth Leveson Gower. Beau portrait en maniere noire, in-fol., grave par S. CousINs.",216,98.9,False,positional,LAVREINCE NICOLAS,,ESTAMPES,,
-BO0624_83827,106971,38,42,"一 Méchel (De). Marie-Therese-Charlotte de France, fille du roi Louis XVI,nee a Versailles, le 19 decembre 1778. Charmant portrait en medaillon ovale, publie a l'occasion du passage de cette princesse a Bale, le 26 decembre 1795.",220,99.3,False,positional,,,ESTAMPES,,
+BO0624_83827,106971,38,42,"一 Méchel (De). Marie-Therese-Charlotte de France, fille du roi Louis XVI,nee a Versailles, le 19 decembre 1778. Charmant portrait en medaillon ovale, publie a l'occasion du passage de cette princesse a Bale, le 26 decembre 1795.",220,99.3,False,positional,,,ESTAMPES,,Sec. XVIII
 BO0624_83827,106972,39,44,44,225,100.0,False,positional,,,ESTAMPES,,
 BO0624_83827,106973,40,45,"dite,par VIDAL.",235,90.3,False,positional,,,ESTAMPES,,
 BO0624_83827,106974,41,46,"——Mouchet (D'apres F.). L'Illusion.La Toilette. Deux medaillons ovales, petits in-fol.faisant pendants, par DaRcis (?).",239,98.6,False,positional,,,ESTAMPES,,
@@ -63,7 +63,7 @@ BO0624_83827,106994,61,67,——La meme estampe.,331,90.9,False,positional,,,EST
 BO0624_83827,106995,62,68,"8—Vanloo (D'apres L.-M.). Mademoiselle d'Oligny, de la Comedie-Francaise, par J.-J. HuBER. Gracieux portrait en medaillon ovale in-fol., avec tablette.",335,98.9,False,positional,VAN LOO MICHEL,,ESTAMPES,,
 BO0624_83827,106996,63,69,"Vidal. H Aide Beaumesnil, de 1Academie royale de Musique, pensionnaire du Roi, d'apres Pujos. Gracieux portrait grave a la maniere du",338,98.8,False,positional,,,ESTAMPES,,
 BO0624_83827,106997,64,70,dans un cadre ornemente.,346,93.9,False,positional,Collection de Goncourt,,,,
-BO0624_83827,106998,65,73,"Fables choisies, mises en vers par J. DE LA FoNTA1NE.Paris,Desaint et Saillard, 1755-1759. 4 vol. in-fol. Frontispice et figures d'apres J.-B. OUDRY.",367,98.9,False,positional,OUDRY JEAN BAPTISTE,,LIVRES,,
+BO0624_83827,106998,65,73,"Fables choisies, mises en vers par J. DE LA FoNTA1NE.Paris,Desaint et Saillard, 1755-1759. 4 vol. in-fol. Frontispice et figures d'apres J.-B. OUDRY.",367,98.9,False,positional,OUDRY JEAN BAPTISTE,,LIVRES,,Sec. XVIII
 BO0624_83827,106999,66,74,"— Contes et Nouvelles en vers, par M. DE LA",368,96.3,False,positional,,,LIVRES,,
 BO0624_83827,107000,67,75,Catalogue de la vente Spitzer.2 vol. de texte,370,96.7,False,positional,,,LIVRES,,
 BO0624_83827,107001,68,76,"- 5— Catalogue illustre de la vente apres deces de Mme C. Lelong. 3 vol. in-4°, broches.",373,100.0,False,positional,,,LIVRES,,
@@ -89,8 +89,8 @@ BO0624_83827,107020,87,97,"Ecole francaise du xVIlle siecle. Paysage avec figure
 BO0624_83827,107021,88,98,- 99,425,100.0,False,positional,,,Peintures; Gouaches,,
 BO0624_83827,107022,89,100,- Ecole francaise du xVIlle siecle. Paysage anime de figures. Gouache. Cadre Louis XVI,427,97.6,False,title_direct,,,Gouaches,,
 BO0624_83827,107023,90,1,"o1  Ecole francaise du XVIlle siecle. Portrait de Mme de Montbazon. Elle est vetue de bleu, avec col de guipure; sa chevelure est ornée de perles et de plumes. Belle miniature, peinte en émail (le nom est peint au dos de l'émail). Cadre en or, en partie émaille, a reverbere, de style",429,99.8,False,positional,,,MINIATURE,,
-BO0624_83827,107024,91,102,"- Ecole hollandaise du XVII siecle.Portrait de femme. En buste, avec large collerette de dentelle, collier de perles et coiffure de guipure.",431,98.5,False,positional,,,Peintures; Gouaches,,
-BO0624_83827,107025,92,1,"o3 -Ecole italienne.Buste de femme.Fragment d'un tableau d'Allori, du musee des Offices. Miniature ovale. Plus,une miniature:portrait d'homme du temps de la Restauration, de forme",433,99.7,False,positional,,,MINIATURE,,
+BO0624_83827,107024,91,102,"- Ecole hollandaise du XVII siecle.Portrait de femme. En buste, avec large collerette de dentelle, collier de perles et coiffure de guipure.",431,98.5,False,positional,,,Peintures; Gouaches,,Sec. XVII
+BO0624_83827,107025,92,1,"o3 -Ecole italienne.Buste de femme.Fragment d'un tableau d'Allori, du musee des Offices. Miniature ovale. Plus,une miniature:portrait d'homme du temps de la Restauration, de forme",433,99.7,False,positional,"BRONZINO, ALLORI ALESSANDRO",,MINIATURE,,
 BO0624_83827,107026,93,104,"—Aubry (L.-F.).Portrait de Caroline, reine de Naples, seur de Napoleon. En buste, de trois quarts a droite, vetue d'un corsage rouge, le cou et la chevelure ornes de perles.Fond de tenture sur une colonne. Miniature de forme ovale, sur",435,99.1,False,positional,,,DECORAZIONI DA PARETE,,
 BO0624_83827,107027,94,105,"—Augustin (Attribue a). Portrait de jeune femme en robe blanche decolletee, avec manteau rouge sur l'epaule. Fond de paysage. Miniature ovale sur ivoire du temps de l'Empire. Cadre",439,98.9,False,positional,,,MINIATURE,,
 BO0624_83827,107028,95,106,"— Bobe. Portrait presume de Mlle Adeline, de la Comedie-Francaise. Vue presque de face,en robe de soie violette decolletee et lacee sur la poitrine. Chevelure bouclee.Miniature sur ivoire, de forme ronde. Signee et datee:178g. Cadre en bronze de style Louis XVI.",444,99.2,False,positional,,,MINIATURE,,
@@ -111,9 +111,9 @@ BO0624_83827,107042,109,119,"Rouge. De face, en costume d'offcier d'etatmajor. G
 BO0624_83827,107043,110,120,sur ivoire. Cadre en cuivre dore.,483,93.9,False,positional,,,Peintures; Gouaches,,
 BO0624_83827,107044,111,121,"—Hue de Brevai (Mlle). Portrait de MarieTherese de Rouge, fille des precedents. En buste, de trois quarts a droite, en robe blanche decolletee,l'épaule droite couverte d'un manteau. Miniature ovale sur ivoire. Signee. Cadre en",484,99.1,False,positional,,,MINIATURE,,
 BO0624_83827,107045,112,122,"de Rouge, frere de la precedente. De trois quarts a gauche,vetement a boutons jaunes et grand col marin ouvert. Miniature ovale sur ivoire. Signee et datee,a droite: 181g. Cadre en bronze doré.",487,99.2,False,positional,,,MINIATURE,,
-BO0624_83827,107046,113,123,"—Isabey (J.). Portrait de jeune femme. Robe decolletee et fichu de gaze, bouquets de feurs dans la chevelure et au corsage. Grande miniature sur velin, de forme ovale. Signee et datee: 1825. Cadre en bronze cisele de la meme époque.",488,99.1,False,positional,ISABEY EUGENE,,MINIATURE,,
-BO0624_83827,107047,114,124,"—Isabey (J.). Portrait du roi Louis XVIII. Miniature ovale en hauteur, signee et datee: 1814. Cadre rectangulaire, a pans en or cisele feurdelise.",492,98.5,False,positional,ISABEY EUGENE,,MINIATURE,,
-BO0624_83827,107048,115,125,"—Jaquotot (MARIE-V1cToIRE),1778-1855.Portrait d'Hortense Mancini, niece de Mazarin, duchesse de la Meilleraie. Miniature de forme",495,98.4,False,positional,,,MINIATURE,,
+BO0624_83827,107046,113,123,"—Isabey (J.). Portrait de jeune femme. Robe decolletee et fichu de gaze, bouquets de feurs dans la chevelure et au corsage. Grande miniature sur velin, de forme ovale. Signee et datee: 1825. Cadre en bronze cisele de la meme époque.",488,99.1,False,positional,ISABEY EUGENE,,MINIATURE,,Sec. XIX
+BO0624_83827,107047,114,124,"—Isabey (J.). Portrait du roi Louis XVIII. Miniature ovale en hauteur, signee et datee: 1814. Cadre rectangulaire, a pans en or cisele feurdelise.",492,98.5,False,positional,ISABEY EUGENE,,MINIATURE,,Sec. XIX
+BO0624_83827,107048,115,125,"—Jaquotot (MARIE-V1cToIRE),1778-1855.Portrait d'Hortense Mancini, niece de Mazarin, duchesse de la Meilleraie. Miniature de forme",495,98.4,False,positional,,,MINIATURE,,Sec. XIX
 BO0624_83827,107049,116,126,"—Landerset (De). Portraits de jeunes femmes. Trois miniatures de formes carree et rondes, d'apres des miniatures anciennes de la collection",497,98.5,False,positional,,,MINIATURE,,
 BO0624_83827,107050,117,127,"—Lawreince (D'apres N.). Jeune femme en buste, jouant de la mandoline. Miniature ronde.",499,97.5,False,positional,Scuola di Nicolas Lavreince,,MINIATURE,,
 BO0624_83827,107051,118,128,"Lecourt. Portrait d'homme. Petite miniature de forme ronde,ornant le boitier d'une",501,97.6,False,positional,,,MINIATURE,,
@@ -128,7 +128,7 @@ BO0624_83827,107059,126,136,"- Saint. Portrait de Mme Gid, premiere chanteuse de
 BO0624_83827,107060,127,137,— Sauvage. Deux miniatures rondes sur ivoire : Les Charmeuses doiseaux.—Sacrifice a une deesse. Deux grisailles signees. Bordures en argent dore.,526,98.6,False,positional,,,MINIATURE,,
 BO0624_83827,107061,128,138,"—Taunay (Attribue a N.). Miniature ronde, representant le Retour du marche, sur une",530,97.4,False,positional,TAUNAY NICOLAS-ANTOINE,,MINIATURE,,
 BO0624_83827,107062,129,139,"-Tournieres (D'apres). Portrait de femme assise, les bras appuyes sur une console en bois dore. Grande miniature sur ivoire. Cadre en",535,98.4,False,positional,LEVRAC-TOURNIERES ROBERT,,MINIATURE,,
-BO0624_83827,107063,130,140,"-Troivaux. Portrait du Comte Laguiche. Miniature ovale, signee et datee:1823. Cadre",537,97.5,False,positional,,,MINIATURE,,
+BO0624_83827,107063,130,140,"-Troivaux. Portrait du Comte Laguiche. Miniature ovale, signee et datee:1823. Cadre",537,97.5,False,positional,,,MINIATURE,,Sec. XIX
 BO0624_83827,107064,131,141,d'oiseaux. Signee. Bordure en cuivre dore.,540,95.1,False,positional,,,Peintures; Gouaches,,
 BO0624_83827,107065,132,142,Van Spaendonck (Attribue a G.). Miniature fixee sous verre. Panier de feurs. De forme ronde. Cadre en cuivre dore.,544,98.1,False,positional,DUPRE GIOVANNI,,MINIATURE,,
 BO0624_83827,107066,133,143,"Weyler. Portrait presume de Pierre le Grand. En buste, la tete de trois quarts a droite, il porte larmure, couverte en partie d'une echarpe rose. Belle miniature peinte en email et signee. De forme ovale. Cadre a reverbere, en or, a filet émaille bleu.",547,99.2,False,positional,,,MINIATURE,,
@@ -147,7 +147,7 @@ BO0624_83827,107078,145,155,—Peyrol-Bonheur (Mme). Foret de Fontainebleau.,590
 BO0624_83827,107079,146,156,-Point (A.). Sanguine.,596,88.9,False,positional,,,TABLEAUX,,
 BO0624_83827,107080,147,157,—Recipon. Carriere de sable. Toile.,597,93.9,False,positional,CARRIERE EUGENE,,TABLEAUX,,
 BO0624_83827,107081,148,158,—Rosa (Attribue a Salvator).Paysage.,598,94.1,False,positional,ROSA SALVATOR,,TABLEAUX,,
-BO0624_83827,107082,149,159,— Swebach (Ed.). Halte de soldats. Bois signe et date a gauche: 1795.,600,96.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_83827,107082,149,159,— Swebach (Ed.). Halte de soldats. Bois signe et date a gauche: 1795.,600,96.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_83827,107083,150,160,— Titien (D'apres le). Le Martyre de saint Pierre Dominicain.,604,96.5,False,positional,TIZIANO VECELLIO,,TABLEAUX,,
 BO0624_83827,107084,151,161,—Verkolie (N.). Le Petit chien favori.,608,94.1,False,positional,,,TABLEAUX,,
 BO0624_83827,107085,152,162,—Verkolie (N.). Jeune femme tenant une cor-,610,94.9,False,positional,,,TABLEAUX,,
@@ -213,14 +213,14 @@ BO0624_83827,107144,211,223,"TroIs BEURRIERs couverts, en ancienne porcelaine te
 BO0624_83827,107145,212,224,"— PETIT DRAGEoir forme d'un cygne, avec cou-",760,95.2,False,positional,Collection Marquis,,,,
 BO0624_83827,107146,213,225,"— AssiETTE en ancienne porcelaine de Sevres,",765,95.3,False,positional,Collection Marquis,,,,
 BO0624_83827,107147,214,226,"— PLAT de forme contournee,en ancienne porcelaine de Sevres, pate tendre, decore de bouquets de feurs en couleur, filets bleus et bord doré.",767,98.5,False,positional,Collection Marquis,,PIATTI,,
-BO0624_83827,107148,215,228,"- -QuATRE TAssEs ET soUcoUPEs en ancienne porcelaine de Sevres, pate tendre, a decor de semis de roses et deux bordures de lauriers, par Fontaine, Chapuis, etc., 1779-178o.",770,100.0,False,positional,Collection Marquis,,,,
-BO0624_83827,107149,216,229,"— PETITE TAsSE DRoITE ET soUcoUPE en ancienne porcelaine de Sevres, pate tendre,a decor de semis de roses et bordure de fleurs en couleurs sur pointille bleu, par Pierre jeune et Bar, 1775.",771,98.9,False,positional,Collection Marquis,,,,
-BO0624_83827,107150,217,23,"o — TAssE DRoITE ET soucouPE,en ancienne porcelaine de Sevres, pate tendre, a fond jaune et semis de myosotis en bleu;la tasse offre, dans un medaillon reserve en blanc et en forme de losange, les lettres D en or et B en roses, entrelacees (chiffre de Mme du Barry ?). Decor de Moiron et Grison,1786.",772,99.7,False,positional,Collection Marquis,,,,
+BO0624_83827,107148,215,228,"- -QuATRE TAssEs ET soUcoUPEs en ancienne porcelaine de Sevres, pate tendre, a decor de semis de roses et deux bordures de lauriers, par Fontaine, Chapuis, etc., 1779-178o.",770,100.0,False,positional,Collection Marquis,,,,Sec. XVIII
+BO0624_83827,107149,216,229,"— PETITE TAsSE DRoITE ET soUcoUPE en ancienne porcelaine de Sevres, pate tendre,a decor de semis de roses et bordure de fleurs en couleurs sur pointille bleu, par Pierre jeune et Bar, 1775.",771,98.9,False,positional,Collection Marquis,,,,Sec. XVIII
+BO0624_83827,107150,217,23,"o — TAssE DRoITE ET soucouPE,en ancienne porcelaine de Sevres, pate tendre, a fond jaune et semis de myosotis en bleu;la tasse offre, dans un medaillon reserve en blanc et en forme de losange, les lettres D en or et B en roses, entrelacees (chiffre de Mme du Barry ?). Decor de Moiron et Grison,1786.",772,99.7,False,positional,Collection Marquis,,,,Sec. XVIII
 BO0624_83827,107151,218,231,PoT A cREME en ancienne porcelaine de,776,94.9,False,positional,Collection Marquis,,,,
 BO0624_83827,107152,219,232,"一 PETIr coQuETIER en ancienne porcelaine de Sevres, pate tendre,a decor de medaillons de roses sur fond de feuillages en quadrille, par",778,98.5,False,positional,Collection Marquis,,,,
 BO0624_83827,107153,220,233,"—SucRIEr a poudre couvert et son plateau, en ancienne porcelaine de Sevres, pate tendre,a decor de semis de roses et bordure dentelee,en dorure,par Hunny et Theodore (accident au",783,98.9,False,positional,Collection Marquis,,,,
-BO0624_83827,107154,221,234,"—PETIT PLATEAU de forme carree,a bords obliques, en ancienne porcelaine de Sevres, pate tendre, decore de jetes de feurs en camaieu rose et bordure dentelee en dorure,par Bertrand, Vente de Courval,mars 1892.",785,91.9,False,positional,Collection Marquis,,,,
-BO0624_83827,107155,222,235,"-PLATEAu d'écuelle a bouillon, en ancienne porcelaine de Sevres, pate tendre,a bord lobe et dentele d'or; bordures de lauriers et semis de roses en couleur, par Taillandier, 1777.",789,98.9,False,positional,Collection Marquis,,,,
+BO0624_83827,107154,221,234,"—PETIT PLATEAU de forme carree,a bords obliques, en ancienne porcelaine de Sevres, pate tendre, decore de jetes de feurs en camaieu rose et bordure dentelee en dorure,par Bertrand, Vente de Courval,mars 1892.",785,91.9,False,positional,Collection Marquis,,,,Sec. XIX
+BO0624_83827,107155,222,235,"-PLATEAu d'écuelle a bouillon, en ancienne porcelaine de Sevres, pate tendre,a bord lobe et dentele d'or; bordures de lauriers et semis de roses en couleur, par Taillandier, 1777.",789,98.9,False,positional,Collection Marquis,,,,Sec. XVIII
 BO0624_83827,107156,223,236,"PETIT PLATEAu oblong, en ancienne porcelaine de Sevres, pate tendre, a decor de barbeaux et",790,97.8,False,positional,Collection Marquis,,,,
 BO0624_83827,107157,224,237,"- NEuF TAssEs ET soucouPES en ancienne porcelaine de Sevres, pate dure du temps de l'Empire ou de la Restauration, a decors varies dans le gout de l'antique, d'arabesques ou de",795,98.8,False,positional,Collection Marquis,,,,
 BO0624_83827,107158,225,238,"— EuF en porcelaine decoree d'un medaillon avec figure de saint, et inscription russe, a fond",797,97.8,False,positional,Collection Marquis,,,,

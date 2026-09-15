@@ -10,11 +10,11 @@ BO0624_83966,157334,8,46,—Vue du Pantheon.,524,90.9,False,positional,BALTARD,,
 BO0624_83966,157335,9,47,48,540,57.1,False,positional,BARBIER-WALBONNE,,,,
 BO0624_83966,157336,10,I,"mportante gouache, signee en bas, a gauche : I'an",594,98.9,False,positional,BLARENBERGHE,,,,
 BO0624_83966,157337,11,15,May1762,744,87.5,False,positional,CARMONTELLE,,,,
-BO0624_83966,157338,12,62,"Fete donnee a Versailles pour la naissance de M. le Duc de Bourgogne, le 30 decembre 1751.",751,98.3,False,positional,COCHIN,,,,
-BO0624_83966,157339,13,1745,1801.,892,61.5,False,positional,FREUDEBERG,,,,
+BO0624_83966,157338,12,62,"Fete donnee a Versailles pour la naissance de M. le Duc de Bourgogne, le 30 decembre 1751.",751,98.3,False,positional,COCHIN,,,,Sec. XVIII
+BO0624_83966,157339,13,1745,1801.,892,61.5,False,positional,FREUDEBERG,,,,Sec. XIX
 BO0624_83966,157340,14,73,一 Portrait du Duc de Reichstadt.,911,95.4,False,positional,GERSTMAIER,,,,
 BO0624_83966,157341,15,I,"l est debout dans un parc, en costume de hussard autrichien.",913,99.1,False,positional,GERSTMAIER,,,,
-BO0624_83966,157342,16,16,g9-1773.,922,87.5,False,positional,GRAVELOT,,,,
+BO0624_83966,157342,16,16,g9-1773.,922,87.5,False,positional,GRAVELOT,,,,Sec. XVIII
 BO0624_83966,157343,17,I,"l est anime de plusieurs personnages: des dames, des enfants,un soldat；a gauche,la fontaine de Medicis;a droite,les batiments du seminaire de Saint-Louis,couverts d'un toit a la Mansard et en partie caches par un massif d'arbres.",963,99.8,False,positional,HILAIRE,,BIANCHERIA,,
 BO0624_83966,157344,18,79,8o - Les Singes predicateurs.,990,94.5,False,positional,HUET,,,,
 BO0624_83966,157345,19,7,## 84 一,1011,100.0,False,positional,HUQUIER,,,,
@@ -30,7 +30,7 @@ BO0624_83966,157354,28,126,126 -Vue d'un monument de Rome.,1133,48.1,False,posit
 BO0624_83966,157355,29,127,## 127 - Ruines romaines.,1135,48.5,False,positional,LE GUAY,Scuola Romana,,,
 BO0624_83966,157356,30,128,- Fete de nuit sur la place Louis xV.,1142,55.4,False,positional,LE GUAY,Periodo di Luigi XV,,,
 BO0624_83966,157357,31,130,"一 Vue du chateau etdu parc de Versailles, prise devant le bassin de Latone.",1144,48.6,False,positional,LE GUAY,,,,
-BO0624_83966,157358,32,17,"Juillet 1789,a 6 heures apres midi, escorte d'un grand nombre de citoyens qui l'accompagne a l'Hotel de Ville.",1160,41.1,False,positional,LEMOINE,,OGGETTI VARI,,
+BO0624_83966,157358,32,17,"Juillet 1789,a 6 heures apres midi, escorte d'un grand nombre de citoyens qui l'accompagne a l'Hotel de Ville.",1160,41.1,False,positional,LEMOINE,,OGGETTI VARI,,Sec. XVIII
 BO0624_83966,157359,33,142,## VIGNON,1166,30.8,False,title_direct,VIGNON,,,,
 BO0624_83966,157360,34,143,Le Printemps.,1181,52.6,False,positional,LEMOINE,,,,
 BO0624_83966,157361,35,144,一 L'Ete.,1191,42.9,False,positional,LEMOINE,,,,
@@ -58,11 +58,11 @@ BO0624_83966,157382,56,184,"— Deux Groupes en ancien biscuit de Sevres, person
 BO0624_83966,157383,57,185,- GRAND GRouPE en ancien biscuit:la Naissance de Bacchus.,1541,44.4,False,positional,REMBRANDT,,BISCOTTI,,
 BO0624_83966,157384,58,186,"-MINIATuRE oblongue:portrait de femme, a mi-corps,",1555,38.9,False,positional,ROBERT,,MINIATURE,,
 BO0624_83966,157385,59,187,"- MinIATuRE ronde:portrait de Marie-Antoinette dauphine, en buste, vetue d'un corsage decollete, un ruban",1565,40.8,False,positional,ROBERT,,MINIATURE,,
-BO0624_83966,157386,60,188,"- MINIATuRE ronde,representant Camille Desmoulins et Lucile aupres d'un clavecin. Miniature non terminee, par Leguay (Etienne-Charles Leguay,né en 1762).",1586,46.7,False,positional,ROBERT,,MINIATURE,,
+BO0624_83966,157386,60,188,"- MINIATuRE ronde,representant Camille Desmoulins et Lucile aupres d'un clavecin. Miniature non terminee, par Leguay (Etienne-Charles Leguay,né en 1762).",1586,46.7,False,positional,ROBERT,,MINIATURE,,Sec. XVIII
 BO0624_83966,157387,61,189,"—MiniATuRE ronde:portrait de femme,a mi-corps, vetue de blanc avec chapeau releve, ceinture bleue et",1609,42.7,False,positional,ROBERT,,MINIATURE,,
 BO0624_83966,157388,62,19,o - MiniaTuRE ovale: portrait de femme en corsage rose,1619,43.3,False,positional,ROBERT,,MINIATURE,,
 BO0624_83966,157389,63,I9,I— MINIATuRE ovale: portrait de femme en corsage bleu avec écharpe de dentelle noire et coiffure de mousseline. Epoque Louis xVI.,1631,44.6,False,positional,ROBERT,,MINIATURE,,
-BO0624_83966,157390,64,192,"MiNIATuRE ovale,portrait de femme en buste,vetue d'un corsage bleu a rubans blancs; cheveux poudres retenus par un ruban. Signee: H.D.,1785. Epoque",1657,45.9,False,positional,SAINT-AUBIN,,MINIATURE,,
+BO0624_83966,157390,64,192,"MiNIATuRE ovale,portrait de femme en buste,vetue d'un corsage bleu a rubans blancs; cheveux poudres retenus par un ruban. Signee: H.D.,1785. Epoque",1657,45.9,False,positional,SAINT-AUBIN,,MINIATURE,,Sec. XVIII
 BO0624_83966,157391,65,193,"PETITE MINIATURE ovale, portrait de femme en corsage marron,les cheveux poudrés,avec ruban bleu et plume",1659,45.4,False,title_direct,,,MINIATURES,,
 BO0624_83966,157392,66,194,"—MiNIATuRE ronde,portrait de femme en buste,vetue",1664,37.1,False,positional,SAINT-AUBIN,,MINIATURE,,
 BO0624_83966,157393,67,195,"MINiATuRE, portrait d'officier en habit bleu, a collet et épaulettes rouges, et parements blancs. Epoque",1666,42.9,False,positional,SAINT-AUBIN,,MINIATURE,,
@@ -104,7 +104,7 @@ BO0624_83966,157428,102,230,"-TroIs GRoUPEs DE soLDATs de plomb du xvIn1e siecle
 BO0624_83966,157429,103,231,"232 -Deux PETITs cANoNs en bronze,a decor de trophees et armoiries, sur affuts en bois garnis de fer. xville siecle.",2172,43.5,False,positional,,ECOLE FRANCAISE,OGGETTI IN LEGNO,,
 BO0624_83966,157430,104,233,"-SaBrE a garde de bronze composee d'emblemes revolutionnaires:fusee formee d'un faisceau de licteur surmonte d'un bonnet phrygien; branches de garde a feuilles de chene; coquille presentant la Declaration des Droits de I'homme et l'acte constitutionnel de la Republique francaise,Fourreau offrant des emblemes varies. ong., I m.o6.",2201,44.2,False,positional,,,FAIENCES & PORCELAINES,,
 BO0624_83966,157431,105,234,"—TroMPETTE allemande,signee:Philipp Scholler in Minchen,avec pavillon en soie et broderie d'argent aux armes d'Empire.xvine siecle.",2205,41.6,False,positional,,,FAIENCES & PORCELAINES,,
-BO0624_83966,157432,106,235,-- TAMBouR orne d'une armoirie avec la date 1621.,2209,47.3,False,positional,,,FAIENCES & PORCELAINES,,
+BO0624_83966,157432,106,235,-- TAMBouR orne d'une armoirie avec la date 1621.,2209,47.3,False,positional,,,FAIENCES & PORCELAINES,,Sec. XVII
 BO0624_83966,157433,107,236,-GRAND TAMBouR orne d'un écusson aux armes de Baviere. xvie siecle.,2215,42.9,False,positional,,,FAIENCES & PORCELAINES,,
 BO0624_83966,157434,108,237,"— Harpe en bois sculpte, peint et dore, a decor de personnages, feurs et attributs. Epoque Louis XVI.",2222,47.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83966,157435,109,238,"—- CLavEcin a caisse peinte a decor de figures, feurs et rocailles sur fond or.L'interieur du couvercle presente l'Enlevement d'Europe, composition de nombreux amours, tritons et nereides. Table d'harmonie ornee de fleurs. xvil siecle.",2226,43.5,False,positional,,,ARREDAMENTI,,
@@ -149,13 +149,13 @@ BO0624_83966,157473,147,278,"ArMoire a deux portes, en bois sculpte, a decor de 
 BO0624_83966,157474,148,279,"—PARAvENT a six feuilles, peint sur toile, a sujets galants dans des encadrements a rocailles. Epoque Louis XV.",2683,98.1,False,positional,,Periodo di Luigi XV,ARREDAMENTI,,
 BO0624_83966,157475,149,280,-TABLE TRIANGULAIRE en marqueterie a fleurs de la,2687,96.0,False,positional,,,MEUBLES,,
 BO0624_83966,157476,150,281,"—CoMMoDe a trois rangs de tiroirs, en marqueterie de bois de couleurs a quadrilles et trophees d'instruments de musique; garnitures de bronze. Dessus de marbre blanc.Fin de I'époque Louis XV.",2692,98.9,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
-BO0624_83966,157477,151,282,"SecRETAIRE droit a abattant, portes et trois rangs de tiroirs, en bois de placage a filets. Il est orne d'encadrements, de chutes, d'entrees de serrure,de poignees et de rosaces, en bronze cisele et doré. Dessus de marbre brocatelle. Au revers,la signature de: C.Krier.(Charles Krier,rue du Bac, recu maitre en 1774.) Epoque Louis XVI.",2695,99.4,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_83966,157477,151,282,"SecRETAIRE droit a abattant, portes et trois rangs de tiroirs, en bois de placage a filets. Il est orne d'encadrements, de chutes, d'entrees de serrure,de poignees et de rosaces, en bronze cisele et doré. Dessus de marbre brocatelle. Au revers,la signature de: C.Krier.(Charles Krier,rue du Bac, recu maitre en 1774.) Epoque Louis XVI.",2695,99.4,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_83966,157478,152,283,"—TABLE-ETAGERE formant rafraichissoir, en acajou,a filets de cuivre,avec recipients en metal. Epoque Louis XVI.",2699,98.2,False,positional,,,ACQUEFORTI,,
 BO0624_83966,157479,153,284,"— ConsoLE demi-lune en bois ajoure, sculpte et partiellement dore, a decor de rosaces dans des medaillons ovales; pieds canneles. Dessus de marbre breche d'Alep. Epoque Louis XVI.",2703,98.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83966,157480,154,285,"CAGE D'HoRLoGE en chene sculpte, a decor de feuillages et de rocailles. xvin siecle.",2707,97.6,False,positional,,,MEUBLES,,
 BO0624_83966,157481,155,286,"- ETENDARD en soie, presentant des chardons et des",2713,95.9,False,title_direct,,,ETENDARDS,,
 BO0624_83966,157482,156,287,"- ETENDARD, copie du precedent.",2716,93.1,False,title_direct,,,ETENDARDS,,
-BO0624_83966,157483,157,288,"ETENDARD en soie, offrant une figure de saint Sebastien avec la date 1758, surmontee d'armoiries ducales. xvIn siecle.",2717,98.3,False,title_direct,,,ETENDARDS,,
+BO0624_83966,157483,157,288,"ETENDARD en soie, offrant une figure de saint Sebastien avec la date 1758, surmontee d'armoiries ducales. xvIn siecle.",2717,98.3,False,title_direct,,,ETENDARDS,,Sec. XVIII
 BO0624_83966,157484,158,289,"— ErENDaRD en soie, presentant un dragon couronne encadre de feuillages. xvi siecle.",2718,97.5,False,positional,,,ETENDARDS; ETOFFES,,
 BO0624_83966,157485,159,290,"ETENDARD en soie de couleurs, avec croix latine au centre. xvinl siecle.",2719,97.2,False,title_direct,,,ETENDARDS,,
 BO0624_83966,157486,160,291,"- ETENDARD en soie de la guilde de saint Christofe. Hollande,xvinl siecle.",2720,97.2,False,title_direct,,,ETENDARDS,,

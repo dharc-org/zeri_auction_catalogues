@@ -18,7 +18,7 @@ BO0624_88099,366641,16,17,Derselbe: Comptez sur mes sermens.,90.0,95.5,False,pos
 BO0624_88099,366642,17,18,Correggio: Jupiter und Jo.,94.0,94.1,False,positional,Rembrandt,,,,
 BO0624_88099,366643,18,19,Raphael: Sixtinische Madonna.,98.0,94.7,False,positional,Rembrandt,,,,
 BO0624_88099,366644,19,20,Unbekannt: Liebespaar. /71.,102.0,87.0,False,positional,Rembrandt,,,,
-BO0624_88099,366645,20,21,Gebirgslandschaft mit SchloBruine. Bez.:C.G.Schuetz 1820.,108.0,97.3,False,positional,Schutz d. J.,,,,
+BO0624_88099,366645,20,21,Gebirgslandschaft mit SchloBruine. Bez.:C.G.Schuetz 1820.,108.0,97.3,False,positional,Schutz d. J.,,,,Sec. XIX
 BO0624_88099,366646,21,22,Ziegenherde und Hirte bei Ruinen.,112.0,95.5,False,positional,Verstan,,,,
 BO0624_88099,366647,22,23,Madchen mit Taube und Kornahre.,126.0,95.2,False,positional,Verstan,,,,
 BO0624_88099,366648,23,24,FluBlandschaft mit Lastfuhrwerk.,130.0,95.4,False,positional,Verstan,,,,
@@ -34,9 +34,9 @@ BO0624_88099,366657,32,34,Schaferstudie.,179.0,89.7,False,positional,Bahner,,,,
 BO0624_88099,366658,33,35,Wintertag aus Zwingenberg. Samtlich bezeichnet.,180.0,96.8,False,positional,Bahner,,,,
 BO0624_88099,366659,34,36,Das verkannte Genie.,191.0,92.7,False,positional,Bahner,,,,
 BO0624_88099,366660,35,37,Die feierliche Heimkehr der Prinzessin.,203.0,96.2,False,positional,Baworowski,,,,
-BO0624_88099,366661,36,38,Arion mit der Leier auf einem Delfin. Bez.:W.A.Beer 1861.,211.0,97.3,False,title_direct,Beer,,,,
+BO0624_88099,366661,36,38,Arion mit der Leier auf einem Delfin. Bez.:W.A.Beer 1861.,211.0,97.3,False,title_direct,Beer,,,,Sec. XIX
 BO0624_88099,366662,37,39,Hessisches Bauernmadchen. Bezeichnet.,217.0,95.9,False,positional,Beithan,,,,
-BO0624_88099,366663,38,40,Gebirgslandschaft mit dem Watzmann. Leinw.66/60. Bez.:G.Canton 1846.,223.0,81.4,False,title_direct,Canton,,,,
+BO0624_88099,366663,38,40,Gebirgslandschaft mit dem Watzmann. Leinw.66/60. Bez.:G.Canton 1846.,223.0,81.4,False,title_direct,Canton,,,,Sec. XIX
 BO0624_88099,366664,39,41,Eifellandschaft. Leinw.45/51.,225.0,94.7,False,positional,Canton,,,,
 BO0624_88099,366665,40,42,Leuchtturm in Suidfrankreich.,233.0,94.9,False,positional,Dmitrieff,,,,
 BO0624_88099,366666,41,43,43. Segelboot bei Windstille.,237.0,100.0,False,positional,Dmitrieff,,,,
@@ -45,9 +45,9 @@ BO0624_88099,366668,43,45,Untergehende Sonne.,245.0,92.3,False,positional,Dmitri
 BO0624_88099,366669,44,46,46. Boot am Strande in der Bucht.,249.0,100.0,False,positional,Dmitrieff,,,,
 BO0624_88099,366670,45,47,47. Strand am Abend.,251.0,76.6,False,positional,Dmitrieff,,,,
 BO0624_88099,366671,46,48,48. Wiesenlandschaft mit Baumgruppe.,257.0,84.0,False,positional,Dumler,,,,
-BO0624_88099,366672,47,49,FluBbett im Schwarzwald. Bez.:H.D.1904.,263.0,96.0,False,positional,Dumler,,,,
-BO0624_88099,366673,48,50,S Schwarzwalddorf-Kapelle. Sonnige Landschaft. Bez.:H.D.1905.,267.0,97.4,False,positional,Dumler,,,,
-BO0624_88099,366674,49,51,Das Schneckenhorn im sidlichen Schwarzwald. Be2.:H.D.1905.,271.0,97.3,False,positional,Dumler,,,,
+BO0624_88099,366672,47,49,FluBbett im Schwarzwald. Bez.:H.D.1904.,263.0,96.0,False,positional,Dumler,,,,Sec. XX
+BO0624_88099,366673,48,50,S Schwarzwalddorf-Kapelle. Sonnige Landschaft. Bez.:H.D.1905.,267.0,97.4,False,positional,Dumler,,,,Sec. XX
+BO0624_88099,366674,49,51,Das Schneckenhorn im sidlichen Schwarzwald. Be2.:H.D.1905.,271.0,97.3,False,positional,Dumler,,,,Sec. XX
 BO0624_88099,366675,50,67,Im Biegwald.,280.0,88.0,False,positional,Dumler,,,,
 BO0624_88099,366676,51,68,Stuttgarter Wald.,284.0,91.4,False,positional,Dumler,,,,
 BO0624_88099,366677,52,69,Der dunkle Erdteil.,288.0,92.3,False,positional,Dumler,,,,
@@ -114,7 +114,7 @@ BO0624_88099,366737,112,113,113. Junge Hunde.,621.0,18.2,False,positional,von Ka
 BO0624_88099,366738,113,114,114. Umgarnt. Samtlich bezeichnet.   | Leinw.42/62. Leinw.36/27. Leinw.45/35. |,622.0,44.4,False,positional,von Kamecke,,,,
 BO0624_88099,366739,114,115,115. Hollandisches Dorf am Kanal. Bezeichnet.                                         | Aquarell 20/28.,623.0,51.4,False,positional,von Kamecke,,,,
 BO0624_88099,366740,115,116,Landschaft. 117. Desgl. Beide bezeichnet. Mevius                                                                 |                                        |,624.0,40.6,False,positional,von Kamecke,,,,
-BO0624_88099,366741,116,127,Motiv bei Dorfweil. Bez.:L.Finck 1906.,630.0,94.6,False,title_direct,Finck,,,,
+BO0624_88099,366741,116,127,Motiv bei Dorfweil. Bez.:L.Finck 1906.,630.0,94.6,False,title_direct,Finck,,,,Sec. XX
 BO0624_88099,366742,117,128,Motiv bei Usingen.,632.0,89.5,False,positional,von Kamecke,,,,
 BO0624_88099,366743,118,129,Herbstlandschaft.,636.0,88.9,False,positional,von Kamecke,,,,
 BO0624_88099,366744,119,120,Landschaft mit Wild.,644.0,90.5,False,positional,Muller jr.,,,,
@@ -137,7 +137,7 @@ BO0624_88099,366760,135,139,| 139. Kronung Mariae.,726.0,25.8,False,positional,P
 BO0624_88099,366761,136,140,140. Muschelstilleben. Beide bezeichnet:G.Papperitz. Pichler,743.0,72.2,False,title_direct,Papperitz,,,,
 BO0624_88099,366762,137,141,141. Waldwiese im Sommer.,744.0,0.0,False,positional,Papperitz,,,,
 BO0624_88099,366763,138,142,142. Desgl.                                                                                 | Leinw.48/59. Pendant z. vo,745.0,56.2,False,positional,Papperitz,,,,
-BO0624_88099,366764,139,143,| 143. Birken- und Buchenwald bei Wiesenburg. Samtlich bezeichnet:Rud.Pichler 1911.,746.0,92.8,False,title_direct,Pichler,,,,
+BO0624_88099,366764,139,143,| 143. Birken- und Buchenwald bei Wiesenburg. Samtlich bezeichnet:Rud.Pichler 1911.,746.0,92.8,False,title_direct,Pichler,,,,Sec. XX
 BO0624_88099,366765,140,144,144. Dame mit rotem Haar im Profil. Bez.:W.v.Plessen. C.E.Post,747.0,76.8,False,positional,Papperitz,,,,
 BO0624_88099,366766,141,145,"Landschaft mit Bach. Bezeichnet. Zeichnungen.                                                                                                     | Leinw.54,5/44.                                                          |",748.0,96.6,False,positional,Papperitz,,,,
 BO0624_88099,366767,142,146,| 146. Otto Cornill t. Mannliche Aktstudie.,,0.0,True,none,,,,,
@@ -196,7 +196,7 @@ BO0624_88099,366819,194,219,Desgl.              | 230×120   | 245. Desgl.      
 BO0624_88099,366820,195,220,Desgl.              | 120×110   | 246. Desgl.           | 108×75    |,817.0,93.8,False,positional,,,Teppiche,,
 BO0624_88099,366821,196,221,Mossulvorlage.      | 230×80    |                       |           |,818.0,90.9,False,positional,,,Teppiche,,
 BO0624_88099,366822,197,247,Biedermeierhut mit Originalbandern. Desgl. Desgl. Desgi. Desgl.,822.0,70.8,False,positional,,,Antiquitaten,,
-BO0624_88099,366823,198,250,Zwei Biedermeierhite. Zwei gestickte Bauernhauben aus Franken. GroBer Gartenhut von 1790.,826.0,62.0,False,title_direct,Franke,Famiglia Francken,,,
+BO0624_88099,366823,198,250,Zwei Biedermeierhite. Zwei gestickte Bauernhauben aus Franken. GroBer Gartenhut von 1790.,826.0,62.0,False,title_direct,Franke,Famiglia Francken,,,Sec. XVIII
 BO0624_88099,366824,199,253,"Zwei Ledertaschen, eine mit Stickerei 255.",828.0,90.0,False,positional,,,Antiquitaten,,
 BO0624_88099,366825,200,254,Schellenzug. Leder mit Porzellangriff.,830.0,94.7,False,positional,,,Antiquitaten,,
 BO0624_88099,366826,201,256,"Partie Quasten, Silberbordenbiindel, Fransen, Sticktuch etc. Knicksonnenschirm. Biedermeier.",831.0,76.7,False,positional,,Biedermeier,Antiquitaten,,
@@ -204,8 +204,8 @@ BO0624_88099,366827,202,257,"Deckchen mit gesticktem Blumenkorb. Biedermeier. Sh
 BO0624_88099,366828,203,260,Seidentuch. Biedermeier. Desgl. Desgl. Desgl. Desgl.,836.0,61.1,False,positional,,Biedermeier,Antiquitaten,,
 BO0624_88099,366829,204,263,"Gesticktes Wappen. Perltasche, gestickt. Roter und griner Stoff.",841.0,53.5,False,positional,,,Antiquitaten,,
 BO0624_88099,366830,205,266,"Kopftuch, Leinen, weiB mit schwarzer Seide. Kissenstickerei, weiB mit bunter Seide und Silberstickerei. Wappentaschchen.",843.0,66.3,False,positional,,,Antiquitaten,,
-BO0624_88099,366831,206,269,Zwei Paar Handschuhe 1790. Puppenkleid um 1740. 4 Facher.Biedermeier.,845.0,52.6,False,positional,,Biedermeier,Antiquitaten,,
-BO0624_88099,366832,207,272,"Blouse,paar Strimpfe,2 Aermel, gestickt,um 1800. Weihwasserkessel, Silber. Velourbild.Postillon d'Amour.48/37.Biedermeier.",850.0,57.5,False,positional,,Biedermeier,Antiquitaten,,
+BO0624_88099,366831,206,269,Zwei Paar Handschuhe 1790. Puppenkleid um 1740. 4 Facher.Biedermeier.,845.0,52.6,False,positional,,Biedermeier,Antiquitaten,,Sec. XVIII
+BO0624_88099,366832,207,272,"Blouse,paar Strimpfe,2 Aermel, gestickt,um 1800. Weihwasserkessel, Silber. Velourbild.Postillon d'Amour.48/37.Biedermeier.",850.0,57.5,False,positional,,Biedermeier,Antiquitaten,,Sec. XIX
 BO0624_88099,366833,208,275,"Nautilus, Silber vergoldet. Visitenkartenschale, Silber. Tortenspaten, Silber.",852.0,52.9,False,positional,,,Antiquitaten,,
 BO0624_88099,366834,209,278,"Kleiner Ananaspokal, Silber. 280.",854.0,86.7,False,positional,,,Antiquitaten,,
 BO0624_88099,366835,210,279,"Streuloffel, Silber.",856.0,90.0,False,positional,,,Antiquitaten,,
@@ -250,7 +250,7 @@ BO0624_88099,366873,248,321,Desgl. Venus von Milo. Hohe 20 cm. Bisquitporzellan.
 BO0624_88099,366874,249,322,Glasdose mit Blumen bemalt. Biedermeier.,908.0,95.0,False,positional,,Biedermeier,Antiquitaten,,
 BO0624_88099,366875,250,27,Glas-Flacon in Gestalt eines Hundes.,909.0,95.9,False,positional,,,Antiquitaten,,
 BO0624_88099,366876,251,28,323.,910.0,66.7,False,positional,,,Antiquitaten,,
-BO0624_88099,366877,252,29,"Schnapsglas, FR. Vivat Konig v.PreuBen 1814.",911.0,96.5,False,positional,,,Antiquitaten,,
+BO0624_88099,366877,252,29,"Schnapsglas, FR. Vivat Konig v.PreuBen 1814.",911.0,96.5,False,positional,,,Antiquitaten,,Sec. XIX
 BO0624_88099,366878,253,30,324.,912.0,66.7,False,positional,,,Antiquitaten,,
 BO0624_88099,366879,254,325,Tasse mit Stilleben. Fische etc.,913.0,93.8,False,title_direct,Frische,,,,
 BO0624_88099,366880,255,326,Kugelflasche mit Wappen Otto Botenlaub.,914.0,95.0,False,positional,,,Antiquitaten,,
@@ -265,7 +265,7 @@ BO0624_88099,366888,263,334,"Zwei Plaketten. Empire. Amor Pfeile schmiedend und 
 BO0624_88099,366889,264,42,Schaf und schwarzer Pudel. Holz geschnitzt.,924.0,96.5,False,positional,,,Antiquitaten,,
 BO0624_88099,366890,265,43,335.,925.0,66.7,False,positional,,,Antiquitaten,,
 BO0624_88099,366891,266,336,Weibliche Figur mit Blumenkorb. Uhrhalter. Hohe 21. 16x5.,926.0,96.4,False,positional,,,Antiquitaten,,
-BO0624_88099,366892,267,337,"PreuBische Minzwage, 1808.",927.0,92.3,False,positional,,,Antiquitaten,,
+BO0624_88099,366892,267,337,"PreuBische Minzwage, 1808.",927.0,92.3,False,positional,,,Antiquitaten,,Sec. XIX
 BO0624_88099,366893,268,338,Unzenwage.,928.0,81.8,False,positional,,,Antiquitaten,,
 BO0624_88099,366894,269,47,Tabakspfeife. Holzgeschnitzt mit Jagdsujet.,929.0,96.5,False,positional,,,Antiquitaten,,
 BO0624_88099,366895,270,340,Desgl. Porzellan gemalt. Jupiter und Antiope.,930.0,95.5,False,positional,,,Antiquitaten,,
@@ -372,7 +372,7 @@ BO0624_88099,366995,370,437,Paar Teeurnen mit Holzdeckel.,1043.0,93.3,False,posi
 BO0624_88099,366996,371,438,"Chines. Shawl, weiB Seide mit silbergr. Stickerei. 250x75.",1044.0,96.4,False,positional,,,Antiquitaten,,
 BO0624_88099,366997,372,439,"Crepe-Stoff, weiB mit schwarz. 18 m 70 cm breit.",1045.0,95.7,False,positional,,,Antiquitaten,,
 BO0624_88099,366998,373,441,"Pyjama, weiB. Halbseide.",1046.0,91.3,False,positional,,,Antiquitaten,,
-BO0624_88099,366999,374,442,Desgl.weiB. Reinseide. Pulverhorn. Degen. 18. Jahrhundert.,1049.0,55.3,False,positional,,,Antiquitaten,,
+BO0624_88099,366999,374,442,Desgl.weiB. Reinseide. Pulverhorn. Degen. 18. Jahrhundert.,1049.0,55.3,False,positional,,,Antiquitaten,,Sec. XVIII
 BO0624_88099,367000,375,445,Offizierssabel in Stahlscheide.,1050.0,93.8,False,positional,,,Antiquitaten,,
 BO0624_88099,367001,376,446,Venezianischer Dolch in Scheide.,1051.0,93.9,False,positional,,,Antiquitaten,,
 BO0624_88099,367002,377,17,447.,1052.0,66.7,False,positional,,,Antiquitaten,,
@@ -420,7 +420,7 @@ BO0624_88099,367043,418,481,"481. Desgl. Mrs.Abington. 6,5/5,5.",1100.0,100.0,Fa
 BO0624_88099,367044,419,482,Desgl.,1102.0,71.4,False,positional,,,Antiquitaten,,
 BO0624_88099,367045,420,3,",5/4.",1103.0,75.0,False,positional,,,Antiquitaten,,
 BO0624_88099,367046,421,8,"eckig. 3,5/4. 484. Desgl. Gefangennahme des Generai Vandamme 18i3.",1104.0,99.2,False,positional,,,Antiquitaten,,
-BO0624_88099,367047,422,483,Porzellan-Miniatur. Erzherzog Karl bei Aspern 1809. 8 eckig.,1105.0,96.6,False,positional,,,Antiquitaten,,
+BO0624_88099,367047,422,483,Porzellan-Miniatur. Erzherzog Karl bei Aspern 1809. 8 eckig.,1105.0,96.6,False,positional,,,Antiquitaten,,Sec. XIX
 BO0624_88099,367048,423,486,"486.Elfenbein-Miniatur. Portrat Furst Konstantin v. Loewenstein. 5,5/5.",1108.0,100.0,False,positional,,,Antiquitaten,,
 BO0624_88099,367049,424,487,"Miniatur.Portrat Vaubans. Blech, oval 4/3,5.",1109.0,95.3,False,positional,,,Antiquitaten,,
 BO0624_88099,367050,425,488,"Elfenbein-Miniatur. 2 Portrats von Mr. und Mme de la Verrue in Etui. eckig je 6,5/5.",1110.0,87.2,False,positional,,,Antiquitaten,,
@@ -452,7 +452,7 @@ BO0624_88099,367075,450,513,Schildpattdose mit Elfenbein-Miniatur. Marquise de V
 BO0624_88099,367076,451,514,"Lackdose mit Landschaft und Kirchturm. Diameter 10,5 cm.",1142.0,96.4,False,positional,,,Antiquitaten,,
 BO0624_88099,367077,452,515,Desgl. mit tragischem Ende eines halbgebratenen Ochsen. Diam. 9 cm.,1143.0,96.9,False,positional,,,Antiquitaten,,
 BO0624_88099,367078,453,516,"Lackdose mit StraBen-Ansicht. Diameter 9,5 cm.",1144.0,95.7,False,positional,,,Antiquitaten,,
-BO0624_88099,367079,454,517,Schildpattdose. Boite royale de Baviere 1823. Diameter 8 cm.,1145.0,96.6,False,positional,,,Antiquitaten,,
+BO0624_88099,367079,454,517,Schildpattdose. Boite royale de Baviere 1823. Diameter 8 cm.,1145.0,96.6,False,positional,,,Antiquitaten,,Sec. XIX
 BO0624_88099,367080,455,518,Viereckige Dose. Holzgeschnitzt mit Satyr. 10/6.,1146.0,95.7,False,positional,,,Antiquitaten,,
 BO0624_88099,367081,456,519,"Miniatur. Portrat eines Vogels. Diameter 7,5 cm.",1147.0,95.7,False,positional,,,Antiquitaten,,
 BO0624_88099,367082,457,520,Kleiner Taschenbigel. Silber graviert.,1148.0,94.7,False,positional,,,Antiquitaten,,
@@ -461,7 +461,7 @@ BO0624_88099,367084,459,522,Perltasche. Souvenir de Venise. 14x18.,1150.0,94.6,F
 BO0624_88099,367085,460,8,"523.Miniatur.Dame mit Korallenkette.10,5/8,5. Aquarelliert.",1151.0,98.3,False,positional,,,Antiquitaten,,
 BO0624_88099,367086,461,9,"524.Desgl. Dame mit Spitzenhaube, oval 12/10.",1152.0,97.7,False,positional,,,Antiquitaten,,
 BO0624_88099,367087,462,10,Aquarelliert.,1153.0,88.9,False,positional,,,Antiquitaten,,
-BO0624_88099,367088,463,525,Stich nach Rowlandson 1861. Domestic miseries.,1157.0,95.7,False,positional,,,Antiquitaten,,
+BO0624_88099,367088,463,525,Stich nach Rowlandson 1861. Domestic miseries.,1157.0,95.7,False,positional,,,Antiquitaten,,Sec. XIX
 BO0624_88099,367089,464,526,Stich nach Ryley. The last interview between Charlotte and Werter.,1158.0,97.0,False,positional,,,Antiquitaten,,
 BO0624_88099,367090,465,527,Stich nach Morland. The visit returned in the country.,1159.0,96.3,False,positional,,,Antiquitaten,,
 BO0624_88099,367091,466,528,Farbstich. Le moment de la reflection.,1160.0,94.7,False,positional,,,Antiquitaten,,
@@ -475,9 +475,9 @@ BO0624_88099,367098,473,11,534.Desgl. Desgl.,1167.0,90.9,False,positional,,,Anti
 BO0624_88099,367099,474,13,535.,1169.0,66.7,False,positional,,,Antiquitaten,,
 BO0624_88099,367100,475,14,Desgl. Desgl.,1170.0,88.0,False,positional,,,Antiquitaten,,
 BO0624_88099,367101,476,536,Desgl. Desgl.,1171.0,84.6,False,positional,,,Antiquitaten,,
-BO0624_88099,367102,477,537,Album mit Details vom Heidelberger SchloB. 1822.,1172.0,95.8,False,positional,,,Antiquitaten,,
+BO0624_88099,367102,477,537,Album mit Details vom Heidelberger SchloB. 1822.,1172.0,95.8,False,positional,,,Antiquitaten,,Sec. XIX
 BO0624_88099,367103,478,538,Nach Claude Gelee v. Gmelin. Acis und Galathea.,1173.0,95.7,False,positional,"GELEE CLAUDE, LORRAIN",,Antiquitaten,,
-BO0624_88099,367104,479,539,"J. M. Moreau le jeune: Bilder aus dem Leben der Maria und Jesu nach den Evangelisten. 40 Blatt, gest. von Langlois, de Longueil, Dambrun, Delignon etc. Marokinband mit Goldschnitt 1791.",1174.0,98.9,False,positional,MOREAU GUSTAVE,,Antiquitaten,,
+BO0624_88099,367104,479,539,"J. M. Moreau le jeune: Bilder aus dem Leben der Maria und Jesu nach den Evangelisten. 40 Blatt, gest. von Langlois, de Longueil, Dambrun, Delignon etc. Marokinband mit Goldschnitt 1791.",1174.0,98.9,False,positional,MOREAU GUSTAVE,,Antiquitaten,,Sec. XVIII
 BO0624_88099,367105,480,540,Felicien Rops. 3 Blatt Illustrationen.,1175.0,94.7,False,positional,,,Antiquitaten,,
 BO0624_88099,367106,481,20,Selten.,1176.0,80.0,False,positional,,,Antiquitaten,,
 BO0624_88099,367107,482,21,Kupferstich,1177.0,88.0,False,positional,,,Antiquitaten,,
@@ -488,7 +488,7 @@ BO0624_88099,367111,486,26,Radierung.,1182.0,85.7,False,positional,,,Antiquitate
 BO0624_88099,367112,487,545,Desgl. La dame en noir. Radierung. 544.Desgl. Le depart pour Cythere.F,1184.0,68.0,False,positional,,,Antiquitaten,,
 BO0624_88099,367113,488,546,Desgl.,1185.0,71.4,False,positional,,,Antiquitaten,,
 BO0624_88099,367114,489,30,La dame au arlequin. Farbige Gravur v. Charreyre.,1186.0,96.8,False,positional,,,Antiquitaten,,
-BO0624_88099,367115,490,31,547.Manet.,1187.0,85.7,False,positional,,,Antiquitaten,,
+BO0624_88099,367115,490,31,547.Manet.,1187.0,85.7,False,positional,MANET EDUARD,,Antiquitaten,,
 BO0624_88099,367116,491,548,Desg!. Traum des Seemannes. Originalradierung. Stilleben. Originalradierung.,1188.0,72.4,False,positional,,,Antiquitaten,,
 BO0624_88099,367117,492,549,Desgl. Portrat v. Rouviere. Originalradierung.,1190.0,95.5,False,positional,,,Antiquitaten,,
 BO0624_88099,367118,493,550,Desgl. Seifenblasen. Originalradierung.,1191.0,94.7,False,positional,,,Antiquitaten,,
@@ -519,7 +519,7 @@ BO0624_88099,367142,517,586,Desgl.,1235.0,100.0,False,positional,,,Antiquitaten,
 BO0624_88099,367143,518,587,Desgl. Diverse Kunstblatter. Franzosich. Desgl. Farbige Kunstblatter. Desgl. Desgl.,1236.0,63.2,False,positional,,,Antiquitaten,,
 BO0624_88099,367144,519,590,Desgl. Kunstblatter nach Rembrandt und Anderen. Desgl. Desgl. Desgl. Desgl.,1239.0,76.3,False,title_direct,Rembrandt,,STAMPE E INCISIONI,,
 BO0624_88099,367145,520,593,Desgl. 11 Blatter von Riedinger. Janke. 2 Radierungen. Riedinger nach ihm selbst 2 Blatt.,1244.0,56.2,False,positional,,,Antiquitaten,,
-BO0624_88099,367146,521,596,Nach Merian. Heidelberg 1620. Desgl. Diverse Photographien. Convolut. 5 Stiche aus Italien.,1247.0,50.8,False,positional,,,Antiquitaten,,
+BO0624_88099,367146,521,596,Nach Merian. Heidelberg 1620. Desgl. Diverse Photographien. Convolut. 5 Stiche aus Italien.,1247.0,50.8,False,positional,,,Antiquitaten,,Sec. XVII
 BO0624_88099,367147,522,599,Desgl. Desgl. Desgl. Spanierin. Farbkreide. 30/24. Unbekannt. Seesturm. Farbkreide. 30/44.,1250.0,62.2,False,positional,,,Antiquitaten,,
 BO0624_88099,367148,523,602,Nach Raphael.Portrat.Gew.Kreide. 33/21.,1251.0,94.9,False,positional,SANZIO RAFFAELLO,,Antiquitaten,,
 BO0624_88099,367149,524,603,Nach Stella von Le Grand. Sauveur du monde. Farb. Stich.,1252.0,96.3,False,positional,,,Antiquitaten,,
@@ -551,52 +551,52 @@ BO0624_88099,367174,549,31,Schweizerische Kunst.,1281.0,93.0,False,title_direct,
 BO0624_88099,367175,550,625,Desgl.,1282.0,71.4,False,positional,,,Antiquitaten,,
 BO0624_88099,367176,551,33,Germania von Joh. Scherr.,1283.0,93.9,False,positional,,,Antiquitaten,,
 BO0624_88099,367177,552,34,Spiegel schoner Frauen.,1284.0,93.6,False,positional,,,Antiquitaten,,
-BO0624_88099,367178,553,627,Ovids Verwandlungen. Band I und IlI mit vielen Kupferstichen. Augsburg 1802.,1285.0,97.3,False,positional,,,Antiquitaten,,
+BO0624_88099,367178,553,627,Ovids Verwandlungen. Band I und IlI mit vielen Kupferstichen. Augsburg 1802.,1285.0,97.3,False,positional,,,Antiquitaten,,Sec. XIX
 BO0624_88099,367179,554,626,Desgl.,1286.0,71.4,False,positional,,,Antiquitaten,,
 BO0624_88099,367180,555,37,Die deutschen Kaiser nach den Bildern im Frankfurter Romer von Prof.,1287.0,97.8,False,positional,,,Antiquitaten,,
 BO0624_88099,367181,556,38,628.,1288.0,66.7,False,positional,,,Antiquitaten,,
 BO0624_88099,367182,557,39,Fritz Bamberger koloriert und sonstige Portrats von Fursten.,1289.0,97.5,False,positional,,,Antiquitaten,,
-BO0624_88099,367183,558,629,"Theorie der Geisterkunde von Jung genannt Stilling, Nurnberg 1808.",1290.0,97.0,False,positional,,Scuola di Norimberga,Antiquitaten,,
-BO0624_88099,367184,559,630,"Die Sammlung des Grafen Caylus, (agyptische, etrurische, griechische und romische Altertimer), Wolfgang Winterschmidt. Nurnberg 1766.",1291.0,69.0,False,title_direct,Frische,Scuola Romana,ANTICHITA',COLLEZIONE DEL CONTE CAYLUS,
-BO0624_88099,367185,560,631,Homann'scher Atlas. Nurnberg 1813.,1293.0,94.1,False,positional,,Scuola di Norimberga,Antiquitaten,,
+BO0624_88099,367183,558,629,"Theorie der Geisterkunde von Jung genannt Stilling, Nurnberg 1808.",1290.0,97.0,False,positional,,Scuola di Norimberga,Antiquitaten,,Sec. XIX
+BO0624_88099,367184,559,630,"Die Sammlung des Grafen Caylus, (agyptische, etrurische, griechische und romische Altertimer), Wolfgang Winterschmidt. Nurnberg 1766.",1291.0,69.0,False,title_direct,Frische,Scuola Romana,ANTICHITA',COLLEZIONE DEL CONTE CAYLUS,Sec. XVIII
+BO0624_88099,367185,560,631,Homann'scher Atlas. Nurnberg 1813.,1293.0,94.1,False,positional,,Scuola di Norimberga,Antiquitaten,,Sec. XIX
 BO0624_88099,367186,561,44,632.,1294.0,66.7,False,positional,,,Antiquitaten,,
-BO0624_88099,367187,562,45,Biblisches Engel und Kunstwerk von Ulrich Krause gestochen. Augsb. 1694.,1295.0,97.9,False,positional,,,Antiquitaten,,
+BO0624_88099,367187,562,45,Biblisches Engel und Kunstwerk von Ulrich Krause gestochen. Augsb. 1694.,1295.0,97.9,False,positional,,,Antiquitaten,,Sec. XVII
 BO0624_88099,367188,563,46,633,1296.0,66.7,False,positional,,,Antiquitaten,,
-BO0624_88099,367189,564,47,Immanuel Kants physische Geographie. 6 Bande. Mainz und Hamburg 1812.,1297.0,97.8,False,positional,,,Antiquitaten,,
-BO0624_88099,367190,565,634,Caesaris Commentarie. Leipzig 1731.,1298.0,94.3,False,positional,,,Antiquitaten,,
-BO0624_88099,367191,566,49,Erklarung der Bicher Tristium und Ex Ponto des Ovid. Augsburg 1732.,1299.0,97.7,False,positional,,,Antiquitaten,,
+BO0624_88099,367189,564,47,Immanuel Kants physische Geographie. 6 Bande. Mainz und Hamburg 1812.,1297.0,97.8,False,positional,,,Antiquitaten,,Sec. XIX
+BO0624_88099,367190,565,634,Caesaris Commentarie. Leipzig 1731.,1298.0,94.3,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88099,367191,566,49,Erklarung der Bicher Tristium und Ex Ponto des Ovid. Augsburg 1732.,1299.0,97.7,False,positional,,,Antiquitaten,,Sec. XVIII
 BO0624_88099,367192,567,50,635.,1300.0,66.7,False,positional,,,Antiquitaten,,
 BO0624_88099,367193,568,51,636.,1301.0,66.7,False,positional,,,Antiquitaten,,
-BO0624_88099,367194,569,52,"Thomas Aniello. Trauerspiel von Aug. Fresenius, Frankfurt a. M. 1818.",1302.0,97.7,False,positional,,,Antiquitaten,,
-BO0624_88099,367195,570,637,Die Messiade in 12 Gesangen. Amsterdam 1762.,1303.0,95.5,False,positional,,,Antiquitaten,,
-BO0624_88099,367196,571,638,Himmlische Gartengesellschaft. Leipzig 1708.,1304.0,95.5,False,positional,,,Antiquitaten,,
-BO0624_88099,367197,572,639,Biblische Real und Verbal Handkonkordanz. EBlingen 1747.,1305.0,96.4,False,positional,,,Antiquitaten,,
-BO0624_88099,367198,573,640,Kunst der wahren Vergnigung von Conr. Mels. Zurich 1742.,1306.0,96.4,False,positional,,,Antiquitaten,,
-BO0624_88099,367199,574,641,Fragmente iber Friedrich den GroBen von Ritter von Zimmermann. 3 Bande in 1 Band. Leipzig 1790.,1307.0,97.9,False,positional,,,Antiquitaten,,
-BO0624_88099,367200,575,642,Plinius Epistolae. Nurnberg 1772.,1308.0,93.9,False,positional,,Scuola di Norimberga,Antiquitaten,,
-BO0624_88099,367201,576,643,"Vademecum juridicum, (Der sich selbst rathende Advokat). Basel 1750.",1309.0,96.9,False,positional,,,Antiquitaten,,
-BO0624_88099,367202,577,644,Historische Bilderbibel. Augsburg 1705.,1310.0,94.9,False,title_direct,Frische,,,,
-BO0624_88099,367203,578,645,Cicero de officiis. Leipzig 1712.,1311.0,93.9,False,positional,,,Antiquitaten,,
-BO0624_88099,367204,579,646,"Anleitung zu den firnehmsten historischen Wissenschaften. Benjamin Hederichs,Berlin und Zerbst 1709.",1312.0,77.8,False,title_direct,Frische,Scuola di Berlino,,,
-BO0624_88099,367205,580,647,Verninftige Gedanken von dem gesellschaftlichen Leben der Menschen. Frankfurt und Leipzig 1747.,1314.0,97.9,False,positional,,,Antiquitaten,,
-BO0624_88099,367206,581,6,Hubners Biblische Historien mit vielen Kupferstichen. Leipzig 1811.,1315.0,98.5,False,positional,,,Antiquitaten,,
+BO0624_88099,367194,569,52,"Thomas Aniello. Trauerspiel von Aug. Fresenius, Frankfurt a. M. 1818.",1302.0,97.7,False,positional,,,Antiquitaten,,Sec. XIX
+BO0624_88099,367195,570,637,Die Messiade in 12 Gesangen. Amsterdam 1762.,1303.0,95.5,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88099,367196,571,638,Himmlische Gartengesellschaft. Leipzig 1708.,1304.0,95.5,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88099,367197,572,639,Biblische Real und Verbal Handkonkordanz. EBlingen 1747.,1305.0,96.4,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88099,367198,573,640,Kunst der wahren Vergnigung von Conr. Mels. Zurich 1742.,1306.0,96.4,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88099,367199,574,641,Fragmente iber Friedrich den GroBen von Ritter von Zimmermann. 3 Bande in 1 Band. Leipzig 1790.,1307.0,97.9,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88099,367200,575,642,Plinius Epistolae. Nurnberg 1772.,1308.0,93.9,False,positional,,Scuola di Norimberga,Antiquitaten,,Sec. XVIII
+BO0624_88099,367201,576,643,"Vademecum juridicum, (Der sich selbst rathende Advokat). Basel 1750.",1309.0,96.9,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88099,367202,577,644,Historische Bilderbibel. Augsburg 1705.,1310.0,94.9,False,title_direct,Frische,,,,Sec. XVIII
+BO0624_88099,367203,578,645,Cicero de officiis. Leipzig 1712.,1311.0,93.9,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88099,367204,579,646,"Anleitung zu den firnehmsten historischen Wissenschaften. Benjamin Hederichs,Berlin und Zerbst 1709.",1312.0,77.8,False,title_direct,Frische,Scuola di Berlino,,,Sec. XVIII
+BO0624_88099,367205,580,647,Verninftige Gedanken von dem gesellschaftlichen Leben der Menschen. Frankfurt und Leipzig 1747.,1314.0,97.9,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88099,367206,581,6,Hubners Biblische Historien mit vielen Kupferstichen. Leipzig 1811.,1315.0,98.5,False,positional,,,Antiquitaten,,Sec. XIX
 BO0624_88099,367207,582,7,648.,1316.0,75.0,False,positional,,,Antiquitaten,,
-BO0624_88099,367208,583,649,Dr. Goldsmiths Geschichte der Romer und Philipps und Alexander des GroBen. Frankenthal 1789. 2 Bande.,1317.0,98.0,False,title_direct,Franke,,,,
-BO0624_88099,367209,584,9,Alexander Pope. Briefe. Mannheim 1781. 4 Bande in 2 gebunden.,1318.0,98.3,False,positional,,,Antiquitaten,,
+BO0624_88099,367208,583,649,Dr. Goldsmiths Geschichte der Romer und Philipps und Alexander des GroBen. Frankenthal 1789. 2 Bande.,1317.0,98.0,False,title_direct,Franke,,,,Sec. XVIII
+BO0624_88099,367209,584,9,Alexander Pope. Briefe. Mannheim 1781. 4 Bande in 2 gebunden.,1318.0,98.3,False,positional,,,Antiquitaten,,Sec. XVIII
 BO0624_88099,367210,585,10,650.,1319.0,66.7,False,positional,,,Antiquitaten,,
 BO0624_88099,367211,586,11,651.,1320.0,66.7,False,positional,,,Antiquitaten,,
 BO0624_88099,367212,587,12,"Gerlach und Schenk, Wien. Allegorien und Embleme, Zunftwappen etc. 2 Bande.",1321.0,97.9,False,title_direct,Gerlach,Scuola Viennese,,,
 BO0624_88099,367213,588,652,Briefmarken-Album mit ca.3150 Stick.,1322.0,94.6,False,positional,,,Antiquitaten,,
 BO0624_88099,367214,589,653,Desgl. mit ca.950 Stick.,1323.0,91.7,False,positional,,,Antiquitaten,,
-BO0624_88099,367215,590,654,"Plan von Frankfurt und Umgegend von 1819 nach C. F. Ulerich von C.Felsing, Darmstadt.",1327.0,97.6,False,positional,,,Antiquitaten,,
+BO0624_88099,367215,590,654,"Plan von Frankfurt und Umgegend von 1819 nach C. F. Ulerich von C.Felsing, Darmstadt.",1327.0,97.6,False,positional,,,Antiquitaten,,Sec. XIX
 BO0624_88099,367216,591,655,Desgl. mit 30 Patrizier-Wappen von Joh. und Conr. Blaeu.,1328.0,96.3,False,positional,,,Antiquitaten,,
 BO0624_88099,367217,592,656,Zwei Blatt. Kronung der romischen Kaiserin Maria im Dom zu Frankfurt,1329.0,97.1,False,positional,,,Antiquitaten,,
 BO0624_88099,367218,593,4,und Festessen nach Funk von RoeBler und Regenfus.,1330.0,98.0,False,positional,,,Antiquitaten,,
 BO0624_88099,367219,594,5,657.,1331.0,75.0,False,positional,,,Antiquitaten,,
-BO0624_88099,367220,595,6,"Desgl. Abbildung und Huldigung am Romerberg nach Funk von M. RoeBler, 1742.",1332.0,98.6,False,positional,,,Antiquitaten,,
+BO0624_88099,367220,595,6,"Desgl. Abbildung und Huldigung am Romerberg nach Funk von M. RoeBler, 1742.",1332.0,98.6,False,positional,,,Antiquitaten,,Sec. XVIII
 BO0624_88099,367221,596,7,Desgl. Aus- und Innwendiger Prospekt der Stiege im Romer nach Funk,1333.0,98.5,False,positional,,,Antiquitaten,,
 BO0624_88099,367222,597,658,von Reinhardt und RoeBler.,1334.0,92.6,False,positional,Louis Reinhardt,,Antiquitaten,,
-BO0624_88099,367223,598,659,Ansichten von Frankfurt a.M.aus dem Schatzkastlein. 1630.,1335.0,96.5,False,positional,,,Antiquitaten,,
+BO0624_88099,367223,598,659,Ansichten von Frankfurt a.M.aus dem Schatzkastlein. 1630.,1335.0,96.5,False,positional,,,Antiquitaten,,Sec. XVII
 BO0624_88099,367224,599,660,Vue d'Optique le Marche aux Chevaux de Francfort sur le Mein par Dumont,1336.0,97.3,False,positional,,,Antiquitaten,,
 BO0624_88099,367225,600,11,Farbig.,1337.0,80.0,False,positional,,,Antiquitaten,,
 BO0624_88099,367226,601,12,661.,1338.0,66.7,False,positional,,,Antiquitaten,,
@@ -606,17 +606,17 @@ BO0624_88099,367229,604,663,Dieselbe Ansicht. A Londres et a Paris chez Chereau.
 BO0624_88099,367230,605,664,"Zwei Blatt. liere et Ilieme Vue du Mein, dediee a Monsieur C. G. Schiitz Peintre a Francfort et gravee par A.Zingg a Paris chez Wille graveur",1342.0,98.6,False,title_direct,Frische,,,,
 BO0624_88099,367231,606,17,du Roi. Mit vollem Rand.S Sehr selten.,1343.0,96.0,False,positional,,,Antiquitaten,,
 BO0624_88099,367232,607,18,665.,1344.0,66.7,False,positional,,,Antiquitaten,,
-BO0624_88099,367233,608,19,Mainansicht. Aetzdruck von C. G.Schuitz. 1783. Sehr selten.,1345.0,97.3,False,positional,,,Antiquitaten,,
+BO0624_88099,367233,608,19,Mainansicht. Aetzdruck von C. G.Schuitz. 1783. Sehr selten.,1345.0,97.3,False,positional,,,Antiquitaten,,Sec. XVIII
 BO0624_88099,367234,609,666,Zwei Blatt Frankfurter Kostime von Wenzel Hollar. Mercatoris Francofurtensis Uxor und Matrona Francofurtensis.,1346.0,98.2,False,positional,,,Antiquitaten,,
 BO0624_88099,367235,610,667,"Vue du Palais et du jardin de Lichtenstein, d'ou l'on decouvert l'Hopital des Espagnols et l'Eglise de N. Dame de la Mercy a Francford sur le Mein. A Paris chez Mondhare. (Wohl eine Ansicht von Wien.)",1347.0,99.0,False,title_direct,Frische,Scuola Viennese,,,
 BO0624_88099,367236,611,668,Theodor de Bry. 3 Blatt. Vignette u.A. Sehr selten.,1350.0,95.9,False,positional,,,Antiquitaten,,
 BO0624_88099,367237,612,669,Ders.7 Blatt Wappen.,1351.0,90.5,False,positional,,,Antiquitaten,,
 BO0624_88099,367238,613,670,"Ders. 3 Blatt Portrats Petrarcas, Titelblatt und Buchstabe S.",1352.0,96.7,False,positional,,,Antiquitaten,,
-BO0624_88099,367239,614,671,"Portrat von Conrad Schopp, Schneider, Erklehrter Achter 1614 zu Frank- furt a.M.,hingerichtet am 28. Februar 1896. Sehr selten.",1353.0,70.2,False,positional,,,Antiquitaten,,
+BO0624_88099,367239,614,671,"Portrat von Conrad Schopp, Schneider, Erklehrter Achter 1614 zu Frank- furt a.M.,hingerichtet am 28. Februar 1896. Sehr selten.",1353.0,70.2,False,positional,,,Antiquitaten,,Sec. XVII
 BO0624_88099,367240,615,672,"Gothe, Lithographie von Vogel nach Tischbein und Chr. Mundenius von Hermann nach Lippold. 2 Blatt.",1355.0,76.7,False,positional,,,Antiquitaten,,
 BO0624_88099,367241,616,673,"Jost Amann. 20 Blatt Holzschnitte aus dem ,RoBbuch"",mit Teil der Vorrede.",1357.0,97.2,False,positional,,,Antiquitaten,,
 BO0624_88099,367242,617,674,"Ders. 22 Blatt,diverse Holzschnitte.",1358.0,94.4,False,positional,,,Antiquitaten,,
-BO0624_88099,367243,618,675,"Eberhard Kieser. 39 Blatt. 15 Titelblatter zum ,Schatzkastlein"" mit 2 Portrats und 24 Blatt Vorreden zu demselben Werk. 1630.",1359.0,67.7,False,positional,,,Antiquitaten,,
+BO0624_88099,367243,618,675,"Eberhard Kieser. 39 Blatt. 15 Titelblatter zum ,Schatzkastlein"" mit 2 Portrats und 24 Blatt Vorreden zu demselben Werk. 1630.",1359.0,67.7,False,positional,,,Antiquitaten,,Sec. XVII
 BO0624_88099,367244,619,676,C. G. Winterschmidt. 2 Blatt Potpourris. Farbig.,1361.0,95.6,False,positional,,,Antiquitaten,,
 BO0624_88099,367245,620,677,Convolut. 14 Blatt Diverse.,1362.0,92.6,False,positional,,,Antiquitaten,,
 BO0624_88099,367246,621,678,Hiroshige. 4 kleine Landschaften.,1366.0,93.9,False,positional,,,Antiquitaten,,

@@ -6,7 +6,7 @@ BO0624_88244,232795,4,5,Fischer auf Rigen.,34,94.4,False,positional,E.ANKELEN,,,
 BO0624_88244,232796,5,6,Landschaft aus Glicksburg.,38,96.2,False,positional,E.ANKELEN,,,,
 BO0624_88244,232797,6,7,Fischer auf Katwyk. Spalato.,42,78.3,False,positional,E.ANKELEN,,,,
 BO0624_88244,232798,7,8,- 9,60,100.0,False,positional,W. von BARTELS,,,,
-BO0624_88244,232799,8,10,Attacke der Leibhusaren bei Arten 1870. Bezeichnet.                       | Leinw. 64/100                |,67,97.6,False,positional,Karl BECKER,,,,
+BO0624_88244,232799,8,10,Attacke der Leibhusaren bei Arten 1870. Bezeichnet.                       | Leinw. 64/100                |,67,97.6,False,positional,Karl BECKER,,,,Sec. XIX
 BO0624_88244,232800,9,12,Katzen. Bezeichnet.                                                       | Karton 49/38                 |,71,95.2,False,positional,Karl BECKER,,,,
 BO0624_88244,232801,10,14,Winterlandschaft bei Eller. Bezeichnet.                                   | Leinw. 70/100                |,74,97.1,False,positional,Karl BECKER,,,,
 BO0624_88244,232802,11,15,Jager in der Sennhitte. Bezeichnet.                                       | Leinw. 100/80                |,75,96.8,False,positional,Karl BECKER,,,,
@@ -108,9 +108,9 @@ BO0624_88244,232897,106,142,"Sommerlandschaft mit Heuernte. Leinw. 22/36 143 Bau
 BO0624_88244,232898,107,144,Partie bei Minchen. Leinw.a.Karton 21/33 Bezeichnet.                                                     |                                   |,298,96.2,False,positional,Claes MOLENAER,,,,
 BO0624_88244,232899,108,149,W. Schroter. Waldlandschaft mit Bach.                                       | Original-Radierung 44/56             |,305,96.7,False,positional,,,Radierungen,,
 BO0624_88244,232900,109,150,Krostewitz n. Troyon.                                                       | Treiber mit Jagdhunden. Platte 63/47 |,307,96.5,False,positional,TROYON CONSTANTIN,,Radierungen,,
-BO0624_88244,232901,110,151,"Forsterwiese, junger Baumbestand. Olstudie. Karton 19,5/27 Bezeichnet 1842. |                                      |",308,97.3,False,positional,,,Radierungen,,
-BO0624_88244,232902,111,152,"Baumpartie bei Eberbach. Olstudie. Bezeichnet 1847.                         | Karton 20/27,5                       |",309,96.9,False,positional,,,Radierungen,,
-BO0624_88244,232903,112,153,"Peterskirchhof in Frankfurt a.M. Mauerwerk. Bezeichnet 1840.                | Leinw.24,5/14                        |",310,97.3,False,positional,,,Radierungen,,
+BO0624_88244,232901,110,151,"Forsterwiese, junger Baumbestand. Olstudie. Karton 19,5/27 Bezeichnet 1842. |                                      |",308,97.3,False,positional,,,Radierungen,,Sec. XIX
+BO0624_88244,232902,111,152,"Baumpartie bei Eberbach. Olstudie. Bezeichnet 1847.                         | Karton 20/27,5                       |",309,96.9,False,positional,,,Radierungen,,Sec. XIX
+BO0624_88244,232903,112,153,"Peterskirchhof in Frankfurt a.M. Mauerwerk. Bezeichnet 1840.                | Leinw.24,5/14                        |",310,97.3,False,positional,,,Radierungen,,Sec. XIX
 BO0624_88244,232904,113,154,Rast. 155 Studie.                                                           | Leinw.22/17                          |,312,93.1,False,positional,,,Radierungen,,
 BO0624_88244,232905,114,156,Landschaft mit Enten.                                                       | Leinw.45/49                          |,313,94.1,False,positional,,,Radierungen,,
 BO0624_88244,232906,115,157,Desgl. Samtlich bezeichnet.                                                 | Leinw.30/35                          |,314,94.9,False,positional,,,Radierungen,,
@@ -219,7 +219,7 @@ BO0624_88244,233008,217,300,Romerbiste. Farb. Marmor. Hohe 46 cm.,502,94.3,False
 BO0624_88244,233009,218,301,Romerbiiste. Gegenstuck z.Vor.,503,93.3,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233010,219,302,"- 303 Zwei Glasscheiben, gemalt. Landsknechte. Je 57/34 cm.",505,100.0,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233011,220,305,- Stuccorelief. Philosoph. 43/30 Runde Glasscheibe. Wappen. Durchmesser 44 cm.,508,76.9,False,positional,Gustav WENDLING,,,,
-BO0624_88244,233012,221,306,Glashumpen mit Email-Inschrift und -Figuren. 1818. Hohe 17 cm.,509,96.7,False,positional,Gustav WENDLING,,,,
+BO0624_88244,233012,221,306,Glashumpen mit Email-Inschrift und -Figuren. 1818. Hohe 17 cm.,509,96.7,False,positional,Gustav WENDLING,,,,Sec. XIX
 BO0624_88244,233013,222,307,"- 308 Porzellanschissel, Schifform.Hohe 12,33/21 cm. Imari.",511,100.0,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233014,223,309,"- 310 Zwei indische Becher mit Deckeln. Messingbronze, graviert.",513,100.0,False,positional,Gustav WENDLING,,VASI,,
 BO0624_88244,233015,224,311,"- Glaspokal mit Deckel, geschliffen. Hohe 24 cm.",515,100.0,False,positional,Gustav WENDLING,,OGGETTI VARI,,
@@ -293,7 +293,7 @@ BO0624_88244,233082,291,396,"Porzellantopf mit Deckel. China. Hohe 20, Durchmess
 BO0624_88244,233083,292,397,Glasscheibe mit Lowe gemalt. Durchmesser 23 cm.,645,95.7,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233084,293,400,400,647,100.0,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233085,294,401,- 2 Zwei Kannen und Zuckerdose mit Landschaften gemalt.,650,100.0,False,positional,Gustav WENDLING,,OGGETTI VARI,,
-BO0624_88244,233086,295,402,"Frankenthal.C.T. mit Krone, 1785.",653,93.8,False,positional,Gustav WENDLING,,,,
+BO0624_88244,233086,295,402,"Frankenthal.C.T. mit Krone, 1785.",653,93.8,False,positional,Gustav WENDLING,,,,Sec. XVIII
 BO0624_88244,233087,296,403,- Kristalflakon mit Silbermontierung.,656,100.0,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233088,297,404,Zwei Kristallkaraffen.,657,91.3,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233089,298,405,- Glas mit Zinndeckel und Inschrift.,659,100.0,False,positional,Gustav WENDLING,,,,
@@ -347,7 +347,7 @@ BO0624_88244,233136,345,460,"- 461 Zinnweinkanne,zylinderform.",742,100.0,False,
 BO0624_88244,233137,346,463,463,745,100.0,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233138,347,464,"Ovale Zinnplatte, fassoniert.",748,93.1,False,positional,Gustav WENDLING,,OGGETTI IN LATTA,,
 BO0624_88244,233139,348,465,Zinnplatte.,749,83.3,False,positional,Gustav WENDLING,,OGGETTI IN LATTA,,
-BO0624_88244,233140,349,466,- Zinn-Zunftpokal der Schneider 1657.,751,100.0,False,positional,Gustav WENDLING,,OGGETTI IN LATTA,,
+BO0624_88244,233140,349,466,- Zinn-Zunftpokal der Schneider 1657.,751,100.0,False,positional,Gustav WENDLING,,OGGETTI IN LATTA,,Sec. XVII
 BO0624_88244,233141,350,467,"Messingleuchter, ziseliert.",752,92.6,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233142,351,469,469,754,100.0,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233143,352,470,"Bronzevase mit 2 Henkeln, Blumen und Vogeln.",756,95.5,False,positional,Gustav WENDLING,,,,
@@ -438,8 +438,8 @@ BO0624_88244,233227,436,573,- Desgl. Desgl. Hohe 26 cm. Napoli.,909,100.0,False,
 BO0624_88244,233228,437,574,Wassertopf mit braun-schwarzer Glasur. Yung tsching. Hohe 27 cm.,910,96.8,False,positional,Gustav WENDLING,,,,
 BO0624_88244,233229,438,575,- 576 Derselbe. Junge Frau reicht einem Reiter eine Pfeife. 27/20,916,100.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233230,439,577,Prinzessin in rotem Gewand halt einen Facher.,917,95.7,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233231,440,578,"Isoda Koriusai, tatig 1760—1780. Herr sitzt neben einer Koto-Spielerin. 26/19",919,97.4,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233232,441,579,"- Katsukawa Shuncho, tatig ca.1785—1810. Junger Mann geht mit 3 Kurtisanen und 2 kl. Kamuros spazieren. 35/24",921,100.0,False,positional,,,Farbenholzschnitte,,
+BO0624_88244,233231,440,578,"Isoda Koriusai, tatig 1760—1780. Herr sitzt neben einer Koto-Spielerin. 26/19",919,97.4,False,positional,,,Farbenholzschnitte,,Sec. XVIII
+BO0624_88244,233232,441,579,"- Katsukawa Shuncho, tatig ca.1785—1810. Junger Mann geht mit 3 Kurtisanen und 2 kl. Kamuros spazieren. 35/24",921,100.0,False,positional,,,Farbenholzschnitte,,Sec. XVIII
 BO0624_88244,233233,442,580,- Derselbe. Drei junge Frauen auf einer Terrasse am FluBufer. 36/25,923,100.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233234,443,581,- Derselbe. Vier Damen in einem Zimmer mit Ausblick auf eine Landschaft. 38/25,925,100.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233235,444,582,in einer Frauenrolle. Teils mit Mika gedruckt. 38/26,927,96.2,False,positional,,,Farbenholzschnitte,,
@@ -447,16 +447,16 @@ BO0624_88244,233236,445,583,Sharaku. Ronin.Teils mit Mika gedruckt. 39/26,929,95
 BO0624_88244,233237,446,584,schiff.,930,75.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233238,447,585,Derselbe. Junge Frau bei der Toilette. Neben ihr halt eine,931,96.6,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233239,448,586,39/25,934,71.4,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233240,449,587,"Chobunsai Yeishi, tatig ca.1780—1800. Junger Mann und Damen lagern am Ufer eines Flusses. Triptychon. 35/71",936,98.1,False,positional,,,Farbenholzschnitte,,
+BO0624_88244,233240,449,587,"Chobunsai Yeishi, tatig ca.1780—1800. Junger Mann und Damen lagern am Ufer eines Flusses. Triptychon. 35/71",936,98.1,False,positional,,,Farbenholzschnitte,,Sec. XVIII
 BO0624_88244,233241,450,588,Druck,937,71.4,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233242,451,589,"Yeisho, tatig ca. 17901800. Kurtisane auf einem Spaziergang mit 2 Madchen, welche Grun von Fichten pfluicken.",939,98.1,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233243,452,590,Utagawa Toyohiro 1773-1828. Herr und Dame vor der Falkenjagd. Triptychon. 37/76 /24,940,95.6,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233244,453,591,"Hokusai 1760-1849. Ansicht von Ko-ishi-kawa, Yedo,",942,95.9,False,positional,,,Farbenholzschnitte,,
+BO0624_88244,233243,452,590,Utagawa Toyohiro 1773-1828. Herr und Dame vor der Falkenjagd. Triptychon. 37/76 /24,940,95.6,False,positional,,,Farbenholzschnitte,,Sec. XVIII
+BO0624_88244,233244,453,591,"Hokusai 1760-1849. Ansicht von Ko-ishi-kawa, Yedo,",942,95.9,False,positional,,,Farbenholzschnitte,,Sec. XVIII
 BO0624_88244,233245,454,593,- 592 Fichtenallee mit Reiter und Sanfte. 25/38,946,100.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233246,455,594,Derselbe.,948,80.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233247,456,595,Derselbe. Hortensien und Sperling. 25/36,949,95.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233248,457,596,Pfostenbild.73/24,952,89.5,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233249,458,597,"- Keisai Yeisen 1790-1848. GroBer Karpfen,erklimmt einen Wasserfall. Pfostenbild 72/25.",954,100.0,False,positional,,,Farbenholzschnitte,,
+BO0624_88244,233249,458,597,"- Keisai Yeisen 1790-1848. GroBer Karpfen,erklimmt einen Wasserfall. Pfostenbild 72/25.",954,100.0,False,positional,,,Farbenholzschnitte,,Sec. XIX
 BO0624_88244,233250,459,598,Buch. Hans Bartsch. Der Flieger. Desgl. Bernstein. Arbeiterbewegung. Desgl. Schafer. Rheinsagen.,956,53.7,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233251,460,601,Vier Kriegshefte der Suiddeutschen Monatshefte.,958,95.8,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233252,461,603,- 602 Monatsheft. Der neue Merkur.,960,100.0,False,positional,,,Farbenholzschnitte,,
@@ -467,11 +467,11 @@ BO0624_88244,233256,465,609,"Funf Notenbande: Romanzen, Lieder etc.",969,94.6,Fa
 BO0624_88244,233257,466,610,- 611 Desgl. Desgl.,972,100.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233258,467,612,"- 613 Partie Notenhefte: Arien, Opern,Operetten, Tanze etc.",974,100.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233259,468,614,Desgl. Ebenso.,977,85.7,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233260,469,615,Goethe's samtliche Werke in 40 Banden. Cottascher Verlag Stuttgart 1840.,978,97.2,False,positional,,,Farbenholzschnitte,,
+BO0624_88244,233260,469,615,Goethe's samtliche Werke in 40 Banden. Cottascher Verlag Stuttgart 1840.,978,97.2,False,positional,,,Farbenholzschnitte,,Sec. XIX
 BO0624_88244,233261,470,616,Schillers samtliche Werke in 12 Banden. Cottascher Verlag,980,96.6,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233262,471,617,Platens gesammelte Werke in 5 Banden. Cottascher Verlag Stuttgart 1848.,981,97.2,False,positional,,,Farbenholzschnitte,,
+BO0624_88244,233262,471,617,Platens gesammelte Werke in 5 Banden. Cottascher Verlag Stuttgart 1848.,981,97.2,False,positional,,,Farbenholzschnitte,,Sec. XIX
 BO0624_88244,233263,472,618,H.Paret. 9 Bande.,983,88.2,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233264,473,619,"Shakespeare's Werke, a. d. Engl. von Schlegel u. Tieck. 12 Bande. Berlin 1850.",984,97.2,False,positional,,Scuola di Berlino,Farbenholzschnitte,,
+BO0624_88244,233264,473,619,"Shakespeare's Werke, a. d. Engl. von Schlegel u. Tieck. 12 Bande. Berlin 1850.",984,97.2,False,positional,,Scuola di Berlino,Farbenholzschnitte,,Sec. XIX
 BO0624_88244,233265,474,620,"- Thierry, Histoire de la Couquete de l'Angleterre par les Nor-",986,100.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233266,475,621,mands. 4 Bande.,988,86.7,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233267,476,622,"Dante: Holle, Fegefeuer, Paradies. 3 Bande.",989,95.0,False,positional,,,Farbenholzschnitte,,
@@ -480,11 +480,11 @@ BO0624_88244,233269,478,625,"Ariost, ubersetzt von J. D. Gries. 5 Bande.",992,95
 BO0624_88244,233270,479,627,627,995,100.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233271,480,628,und Virgil.,999,83.3,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233272,481,629,- 630,1001,100.0,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233273,482,631,"- Parcival, Wolfram v.Eschenbach, v. San Marte 1836. 2 Bande.",1003,100.0,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233274,483,632,Funf Bande. Schlossers Weltgeschichte des 18.u. 19. Jahrh.,1006,96.4,False,positional,,,Farbenholzschnitte,,
+BO0624_88244,233273,482,631,"- Parcival, Wolfram v.Eschenbach, v. San Marte 1836. 2 Bande.",1003,100.0,False,positional,,,Farbenholzschnitte,,Sec. XIX
+BO0624_88244,233274,483,632,Funf Bande. Schlossers Weltgeschichte des 18.u. 19. Jahrh.,1006,96.4,False,positional,,,Farbenholzschnitte,,Sec. XIX
 BO0624_88244,233275,484,633,Das Weltall v. Dr. W. F.A. Zimmermann. Zwei Lehrbicher der kosmischen Physik nebst Atlas u. Meteorologie v. D. J. Muller.,1007,98.2,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233276,485,634,Drei Bande. K. Simrock.,1008,90.9,False,positional,,,Farbenholzschnitte,,
-BO0624_88244,233277,486,635,"- Desgl. Die Kunst und die Kunstler des 16., 17. und 18. Jahrh. v.A.W. Becker und Dr.A.Gorling, sowie Leitfaden der Kunstgeschichte v. W. Lubke.",1010,100.0,False,positional,,,Farbenholzschnitte,,
+BO0624_88244,233277,486,635,"- Desgl. Die Kunst und die Kunstler des 16., 17. und 18. Jahrh. v.A.W. Becker und Dr.A.Gorling, sowie Leitfaden der Kunstgeschichte v. W. Lubke.",1010,100.0,False,positional,,,Farbenholzschnitte,,Sec. XVIII
 BO0624_88244,233278,487,636,Poetischer Hausschatz und Briefwechsel zwischen,1011,95.9,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233279,488,637,- Wolff. Schiller und Goethe. 2 Bande.,1013,100.0,False,positional,,,Farbenholzschnitte,,
 BO0624_88244,233280,489,638,"Spinoza's samtliche Werke v. B. Auerbach, 2 brosch. Bande",1015,96.4,False,positional,,,Farbenholzschnitte,,

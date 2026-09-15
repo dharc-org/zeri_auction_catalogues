@@ -17,7 +17,7 @@ BO0624_84267,611240,15,17,## Portrait de Voltaire. Voltaire.,273,81.6,False,posi
 BO0624_84267,611241,16,18,## Portrait presume,294,100.0,False,positional,LARGILLIERE,,,,
 BO0624_84267,611242,17,19,## Portrait de jeune femme.,310,100.0,False,positional,LARGILLIERE,,,,
 BO0624_84267,611243,18,20,## La Dame a l'eventail.,325,100.0,False,positional,NONNOTTE,,,,
-BO0624_84267,611244,19,21,"## Portrait presume fs, 1668  Caen, 1752.",358,69.2,False,positional,TOURNIERES,,,,
+BO0624_84267,611244,19,21,"## Portrait presume fs, 1668  Caen, 1752.",358,69.2,False,positional,TOURNIERES,,,,Sec. XVII
 BO0624_84267,611245,20,22,"## Portrait de Jean Duc,le fils.",362,100.0,False,positional,TOURNIERES,,,,
 BO0624_84267,611246,21,23,"## Portrait d'homme. l est debout, vu a mi-corps, dans l'embrasure d'une fenetre cintree quorne une draperie verte. Le visage tourne de trois quarts vers la droite, il tient de la main gauche un pli du",379,95.7,False,positional,TOURNIERES,,,,
 BO0624_84267,611247,22,24,## Portrait de femme en Diane.,400,100.0,False,positional,TROY,,,,
@@ -47,8 +47,8 @@ BO0624_84267,611270,45,47,"— Deux PETITs BouGEoiRs en ancienne porcelaine tend
 BO0624_84267,611271,46,48,"Deux PETITs FLAMBEAUx, forme vases, en porcelaine tendre",451,97.3,False,positional,,,TORCE,,
 BO0624_84267,611272,47,49,"—— Deux poTs a creme varies avec couvercles, en ancienne",453,97.2,False,positional,,,PORCELAINES,,
 BO0624_84267,611273,48,5,"o- Boire en poudre d'écaille bleue, ornee d'une miniature: portrait d'homme en buste,vetu d'un habit bleu a parements d'or. Fin de l'epoque Louis XV.",458,99.7,False,positional,,Periodo di Luigi XV,MINIATURE,,
-BO0624_84267,611274,49,51,"Boire ovale en or, du temps de Louis XVI, reemaillee bleu. Poincons de Clavel, annee 1784.",459,98.3,False,positional,,,OBJETS DE VITRINE; EVENTAILS,,
-BO0624_84267,611275,50,52,"MiNIATuRE ronde :jeune fille et tourterelle aupres d'un double coeur perce d'une fleche. Signee : Vallette, 1779. Epoque Louis XVI.",460,98.8,False,positional,,,MINIATURE,,
+BO0624_84267,611274,49,51,"Boire ovale en or, du temps de Louis XVI, reemaillee bleu. Poincons de Clavel, annee 1784.",459,98.3,False,positional,,,OBJETS DE VITRINE; EVENTAILS,,Sec. XVIII
+BO0624_84267,611275,50,52,"MiNIATuRE ronde :jeune fille et tourterelle aupres d'un double coeur perce d'une fleche. Signee : Vallette, 1779. Epoque Louis XVI.",460,98.8,False,positional,,,MINIATURE,,Sec. XVIII
 BO0624_84267,611276,51,53,"— MinIAruRE ronde:portrait de femme en buste, de profil,",461,97.2,False,positional,,,OBJETS DE VITRINE; EVENTAILS,,
 BO0624_84267,611277,52,54,MiniATuRE rectangulaire en grisaille : cortege antique.,463,97.2,False,positional,,,MINIATURE,,
 BO0624_84267,611278,53,55,MiNIATuRE octogone en grisaille : char de l'Amour. Fin du xvine siecle.,465,97.8,False,positional,,,MINIATURE,,

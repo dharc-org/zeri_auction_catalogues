@@ -71,19 +71,19 @@ BO0624_81811,150616,69,48,INTERESSANTE GUARNIZIONE per una piccola Sala composta
 BO0624_81811,150617,70,49,CAMINETTO in marmo bianco di Carrara scolpito,163,96.8,False,none,,,,,
 BO0624_81811,150618,71,50,SCUOLA FIAMMINGA.—Quadro di bella composizione,166,96.8,False,none,,Scuola Fiamminga,,,
 BO0624_81811,150619,72,51,CANALETTO (Maniera). Venezia.Quadro dipinto ad olio su tela.,172,97.4,False,none,CANALE ANTONIO,,,,
-BO0624_81811,150620,73,52,RITRATTO DI DAMA in costume del XVII secolo; dipinto ad olio su tela entro cornice di legno intagliato e dorato.,173,98.7,False,none,,,,,
+BO0624_81811,150620,73,52,RITRATTO DI DAMA in costume del XVII secolo; dipinto ad olio su tela entro cornice di legno intagliato e dorato.,173,98.7,False,none,,,,,Sec. XVII
 BO0624_81811,150621,74,53,ANTICO VASO DI FORMA MEDICEA in terra cotta con dorature su fondo bianco.,174,98.0,False,none,,,VASI,,
 BO0624_81811,150622,75,54,RITRATTO DI DAMA in costume,175,94.7,False,none,,,,,
 BO0624_81811,150623,76,55,SCUOLA BOLOGNESE.—Davide con la testa di Golia. Quadro dipinto ad olio su tela entro cornice di legno,181,98.5,False,none,,Scuola Bolognese,,,
 BO0624_81811,150624,77,56,GRANDE PLACCA in antica majolica di Delft smaltata con vaso di fiori e volatili a colori policromi su fondobianco.,183,98.7,False,none,,,VASI,,
 BO0624_81811,150625,78,57,DUE MENSOLONI porta busto in legno intagliato e dorato su fondo color marrone.,187,98.1,False,none,,,,,
-BO0624_81811,150626,79,2,58.FIORIERA in legno intagliato e dorato sopra fondo di pinto a colori con fiori e medaglioni. Epoca XVII secolo.,188,99.1,False,none,,,,,
-BO0624_81811,150627,80,3,59.RELIQUIARIO a forma di urna in legno intagliato e dorato decorato da teste di serafini. Epoca XVII secolo.,189,99.1,False,none,,,,,
+BO0624_81811,150626,79,2,58.FIORIERA in legno intagliato e dorato sopra fondo di pinto a colori con fiori e medaglioni. Epoca XVII secolo.,188,99.1,False,none,,,,,Sec. XVII
+BO0624_81811,150627,80,3,59.RELIQUIARIO a forma di urna in legno intagliato e dorato decorato da teste di serafini. Epoca XVII secolo.,189,99.1,False,none,,,,,Sec. XVII
 BO0624_81811,150628,81,60,PICCOLA CORNICE VENEZIANA in legno dipinto a colori con entro quadretto su tavola rappr. un putto.,191,69.8,False,none,,,,,
 BO0624_81811,150629,82,61,"TIBERIO, antico busto in marmo bianco d'epoca romano con petto panneggiato in bigio antico, sopra pieduccio simile.",198,98.7,False,none,,,,,
-BO0624_81811,150630,83,63,SOCRATE. Semibusto scolpito in marmo bianco. Epoca XVII secolo.,200,97.6,False,none,,,,,
+BO0624_81811,150630,83,63,SOCRATE. Semibusto scolpito in marmo bianco. Epoca XVII secolo.,200,97.6,False,none,,,,,Sec. XVII
 BO0624_81811,150631,84,64,DUE ANTICHI PUTTI scolpiti in pietra d'Ancona.,201,96.8,False,none,,,,,
-BO0624_81811,150632,85,65,"DUE DETTI, come sopra.— Epoca XVII secolo.",206,96.2,False,none,,,,,
+BO0624_81811,150632,85,65,"DUE DETTI, come sopra.— Epoca XVII secolo.",206,96.2,False,none,,,,,Sec. XVII
 BO0624_81811,150633,86,66,DUE ANTICHE COLONNE di bigio morato con basi di marmo bianco.,207,97.6,False,none,,,,,
 BO0624_81811,150634,87,67,SCUOLAFRANCESE.Quadro di forma rotonda dipinto ad olio sopra tela rappresentante un gruppo di amorini volanti; entro bella cornice di legno intagliato e dorato.,211,99.1,False,none,,,,,
 BO0624_81811,150635,88,68,DUE AQUILE scolpite in marmo bianco di Carrara di grandezza al naturale.,214,97.9,False,none,,,,,
@@ -94,7 +94,7 @@ BO0624_81811,150639,92,2,in marmo bianco di Carrara sopra rocchio di marmo sette
 BO0624_81811,150640,93,3,"72.DUE QUADRI per alto,",225,95.7,False,none,,,,,
 BO0624_81811,150641,94,4,"dipinti ad olio su tela, entro cornice di legno intagliato e dorato.",226,98.5,False,none,,,,,
 BO0624_81811,150642,95,73,DUE GRANDI LEONI (Marzocco) scolpiti in marmo bianco di Carrara.,227,97.6,False,none,,,,,
-BO0624_81811,150643,96,74,"LE MUSE.—Due rare figure di donna sedute, scolpite in marmo bianco; grandezza al naturale. Epoca XVII secolo.",232,69.6,False,none,,,,,
+BO0624_81811,150643,96,74,"LE MUSE.—Due rare figure di donna sedute, scolpite in marmo bianco; grandezza al naturale. Epoca XVII secolo.",232,69.6,False,none,,,,,Sec. XVII
 BO0624_81811,150644,97,75,POUSSIN (Maniera).-Paesaggio con figure (Tobia e l'Angelo). Dipinto ad olio su tela entro cornice di legno dorato.,233,98.6,False,none,"DUGHET GASPARD, POUSSIN",,,,
 BO0624_81811,150645,98,76,VITELLIO E CARACALLA.-Due semi-busti scolpiti in marmo bianco di Carrara sopra erme in marmo,237,98.4,False,none,,,,,
 BO0624_81811,150646,99,77,"TRONCA COLONNA in antico marmo portasanta, sopra",242,96.9,False,none,,,,,
@@ -170,7 +170,7 @@ BO0624_81811,150715,168,146,"GIULIO ROMANO(attribuito).LA VERGINE,IL BAM. BINO E
 BO0624_81811,150716,169,147,DUE UCCELLI in celedon della Cina smaltati color,473,96.0,False,none,,,,,
 BO0624_81811,150717,170,148,DUE SEDIE VENEZIANE in noce laccate color avorio. Spalliera tessuta in canna d'India con medaglione dipinto a colori. Epoca Luigi XVI.,478,98.5,False,none,,,SEDIE,,
 BO0624_81811,150718,171,150,"PLACCA in antica maiolica di Castelli, con figure a soggetto sacro smaltate a colori.",480,97.6,False,none,,,,,
-BO0624_81811,150719,172,151,"BARILE GIOVANNI(1513)(Originale).—DUE ANTICHE,SPLENDIDE E RARE COLONNE in legno di fiori, volute, targhe e soggetti mitologici. Loro capitelli di stile corintio formati con foglie e festoni finemente lavorati. Eseguite su disegno dell'immortale Raffaello noce scolpite ed intagliate all'ingiro con ornati a foglie, Sanzio. Bella patina, perfetto stato di conservazione.",481,81.1,False,none,SANZIO RAFFAELLO,,,,
+BO0624_81811,150719,172,151,"BARILE GIOVANNI(1513)(Originale).—DUE ANTICHE,SPLENDIDE E RARE COLONNE in legno di fiori, volute, targhe e soggetti mitologici. Loro capitelli di stile corintio formati con foglie e festoni finemente lavorati. Eseguite su disegno dell'immortale Raffaello noce scolpite ed intagliate all'ingiro con ornati a foglie, Sanzio. Bella patina, perfetto stato di conservazione.",481,81.1,False,none,SANZIO RAFFAELLO,,,,Sec. XVI
 BO0624_81811,150720,173,152,"QUATTRO IMPORTANTI PICCOLE SEDIE di noce intagliate di stile raffaellesco, simili per lornato alle due colonne del numero precedente.In alto della spalliera due stemmi d'una famiglia patrizia romana. Piano e dossale ricoperto in antico cuoio, con deco-",488,99.2,False,none,,,SEDIE,,
 BO0624_81811,150721,174,153,"SPADINI (Maniera). —— Due quadri di fiori con putti dipinti ad olio sopra tela, di forma rettangolare entro cornici alla Salvator Rosa in legno intagliato e dorato. M. 1,33 X 0,95.",490,98.8,False,none,ROSA SALVATOR,,CORNICI,,
 BO0624_81811,150722,175,154,DUE VASI in antica porcellana di Berlino di forma ovoide con due manici:decorazione a fiori con lumeggiature in oro su fondo bianco.,491,98.5,False,none,,,VASI,,
@@ -179,33 +179,33 @@ BO0624_81811,150724,177,156,SCUOLA FRANCESE. — Graziosissimo quadretto rappre-
 BO0624_81811,150725,178,157,OROLOGIO DA TAVOLINO a forma occhio di bue,499,95.5,False,none,,,ARREDAMENTI,,
 BO0624_81811,150726,179,158,"DUE BEI VASI in marmo verde antico di forma medecorati in bronzo finemente cesellato e putti, teste di ariete e figure &amp; dicea con coperchio sopra base quadrata interamente dorato con allegoriche. Epoca Luigi XVI.",501,71.8,False,none,,,VASI,,
 BO0624_81811,150727,180,159,"ANTICO ARAZZO AUBUSSON tessuto in seta e lana rappr. giovane danzante; con paesaggio. Bordura a tralci di viti. Firmato: Eletin A Duran. M. 2,40 X m. 2.",503,98.6,False,none,,,AUBUSSONS,,
-BO0624_81811,150728,181,160,"BELLO SCRIGNO VENEZIANO in legno di noce con sei tiretti e sportelli nel centro ornati da placche in vetro smaltato e colori con dorature. Epoca XVI secolo. M. 0,40 X 0,25.",504,98.8,False,none,,,,,
+BO0624_81811,150728,181,160,"BELLO SCRIGNO VENEZIANO in legno di noce con sei tiretti e sportelli nel centro ornati da placche in vetro smaltato e colori con dorature. Epoca XVI secolo. M. 0,40 X 0,25.",504,98.8,False,none,,,,,Sec. XVI
 BO0624_81811,150729,182,161,"SCUOLA FIAMMINGA. Finissimo quadretto frmato RIPETER VANDERNOLF,rappresentante frutta e cristalli entro cornice di legno intagliato e dorato (Raro quadro da collezione).",505,92.0,False,none,,Scuola Fiamminga,,,
 BO0624_81811,150730,183,162,"MOBILE A BUREAU con alzata,in radice di noce con sportello calatore e luce di specchio nella parte supe-",510,98.1,False,none,,,,,
 BO0624_81811,150731,184,163,"GRANDE ED ANTICA SPECCHIERA di stile barocco X1,60.",515,89.8,False,none,,,,,
 BO0624_81811,150732,185,164,MOBILE A BUREAU con alzata in noce intarsiato con varii legni e guarnito di maniglie in bronzo. Epoca,522,98.0,False,none,,,OGGETTI IN LEGNO,,
 BO0624_81811,150733,186,165,PICCOLA SCATOLA in antica porcellana di Saxe smaltata con fiori a colori in fondo bianco.,527,97.8,False,none,,,,,
 BO0624_81811,150734,187,166,"OROLOGIO DA TAVOLINO inleguo di noce intagliato e dorato,fondo laccato bianco, decorato da tre figure scolpite in legno e da un medaglione rappresentante Luigi XVI. Epoca Luigi XVI.",528,98.9,False,none,,,ARREDAMENTI,,
-BO0624_81811,150735,188,167,SUBTERMAUS (Originale). Interessante Ritratto di un giovane in costume del XVI secolo dipinto ad olio su tela. Cornice in legno fondo nero lumeggiato,530,98.6,False,none,,,,,
+BO0624_81811,150735,188,167,SUBTERMAUS (Originale). Interessante Ritratto di un giovane in costume del XVI secolo dipinto ad olio su tela. Cornice in legno fondo nero lumeggiato,530,98.6,False,none,,,,,Sec. XVI
 BO0624_81811,150736,189,168,VAsO in antica porcellana di Saxe decorato da piccole figure di soggetto orientale smaltate a colori polieromi con lumeggiature in oro su fondo bianco.,534,83.3,False,none,,,VASI,,
 BO0624_81811,150737,190,169,"GRANDE ED ANTICO TAPPETO divelluto in seta color bleu, interamente ricamato a riporto in argento dorato.",536,98.1,False,none,,,,,
 BO0624_81811,150738,191,170,COMMO DE di forma centinata con tre tirettiin palisandro intieramente intarsiato in avorio con medaglioni a soggetto mitologico. Luigi XV.,540,85.7,False,none,,Periodo di Luigi XV,,,
 BO0624_81811,150739,192,171,COPPA in antica majolica italiana decorazione a colori,542,96.4,False,none,,,,,
 BO0624_81811,150740,193,4,su fondo bianco.,543,93.8,False,none,,,,,
 BO0624_81811,150741,194,5,"172.INTERESSANTE ED ANTICO MOBILE certosino a quattro sportelli in palisandro finemente intarsiato in avorio, ornato da scorniciature e ricca cimasa. m. 2,70 X 1,30.",544,99.4,False,none,,,,,
-BO0624_81811,150742,195,173,ANTICA COMMODE in legno di noce decorata da sfingi intagliate e scorniciature. Epoca XVI secolo.,545,97.9,False,none,,,,,
-BO0624_81811,150743,196,174,"DUE GRANDI MENSOLONI barocchi in legno di noce scolpiti e dorati ornati da mascheroni, frutta e volute. Epoca XVII secolo.",546,98.3,False,none,,,,,
+BO0624_81811,150742,195,173,ANTICA COMMODE in legno di noce decorata da sfingi intagliate e scorniciature. Epoca XVI secolo.,545,97.9,False,none,,,,,Sec. XVI
+BO0624_81811,150743,196,174,"DUE GRANDI MENSOLONI barocchi in legno di noce scolpiti e dorati ornati da mascheroni, frutta e volute. Epoca XVII secolo.",546,98.3,False,none,,,,,Sec. XVII
 BO0624_81811,150744,197,175,ANTICA POLTRONA VENEZIANA in legno di noce laccato color avorio con lumeggiature in oro;braccioli a riccio ricoperta di stoffa in seta a fiori. Epoca Luigi XV.,550,98.7,False,none,ANDREA BRIOSCO DETTO IL RICCIO,Periodo di Luigi XV,POLTRONE,,
 BO0624_81811,150745,198,176,"CONSOLLE di forma centinata in legno intagliato e dorato, con traverse e piano in marmo rosso. Epoca Luigi XV.",551,98.2,False,none,,Periodo di Luigi XV,,,
 BO0624_81811,150746,199,177,GRANDE ED ANTICO TAPPETO tessuto in pelo di camello con disegni geometrici a colori su fondo rosso. m.7Xm.6.,556,98.1,False,none,,,,,
-BO0624_81811,150747,200,178,"MOBILE A CREDENZA in noce con tre sportelli e un tiretto,ornata da scorniciature e maniglie in bronzo pulimentato.Epoca XVII secolo.",558,77.2,False,none,,,,,
+BO0624_81811,150747,200,178,"MOBILE A CREDENZA in noce con tre sportelli e un tiretto,ornata da scorniciature e maniglie in bronzo pulimentato.Epoca XVII secolo.",558,77.2,False,none,,,,,Sec. XVII
 BO0624_81811,150748,201,179,ANTICA POLTRONA in noce con braccioli diritti e fiamme dorate alla spalliera ricoperta di stoffa in seta punto a fiamma.Epoca XVlI secolo.,559,84.9,False,none,,,POLTRONE,,
-BO0624_81811,150749,202,180,"COMMODE in legno ad ebano, con tre tiretti intarsiati in in avorio con maniglie in bronzo dorato. Epoca XVII secolo.",561,98.3,False,none,,,,,
+BO0624_81811,150749,202,180,"COMMODE in legno ad ebano, con tre tiretti intarsiati in in avorio con maniglie in bronzo dorato. Epoca XVII secolo.",561,98.3,False,none,,,,,Sec. XVII
 BO0624_81811,150750,203,181,ANTICO TAVOLO in noce intagliata con gambe a lira,568,96.1,False,none,,,,,
 BO0624_81811,150751,204,182,SCRIVANIA DA CENTRO PER SIGNORA in legno di noce intarsiata con piano apritore e cassetti interni. Epoca Luigi XV.,573,98.2,False,none,,Periodo di Luigi XV,,,
 BO0624_81811,150752,205,183,ANTICO SCRIGNO in legno di noce di forma architettonica con sedici tiretti placcati in cuoio lavorato a piccoli ferri con dorature. La parte centrale a forma di tempio con sportello e tiretti interni.,577,99.0,False,none,,,,,
 BO0624_81811,150753,206,184,ANTICO TAPPETO DA TAVOLINO di stoffa calabrese a righe rosse e verdi con fodera e frangia all'ingiro.,581,98.0,False,none,,,ARREDAMENTI,,
-BO0624_81811,150754,207,185,GRANDE MOBILE a due corpi in legno di noce con quattro sportelli guarniti di mascheroni scolpiti. Epoca XVII secolo.,582,98.3,False,none,,,,,
+BO0624_81811,150754,207,185,GRANDE MOBILE a due corpi in legno di noce con quattro sportelli guarniti di mascheroni scolpiti. Epoca XVII secolo.,582,98.3,False,none,,,,,Sec. XVII
 BO0624_81811,150755,208,186,DUE POLTRONE in noce con braccioli dritti ricoperte di cuoio di Cordova con bolloni. Stile xvI secolo.,583,98.0,False,none,,,POLTRONE,,
 BO0624_81811,150756,209,187,"OROLOGIO DA TAVOLINO detto Romano in noce con quadrante e fregi in bronzo cesellato e dorato. Alt. 0,50.",584,98.1,False,none,,,ARREDAMENTI,,
 BO0624_81811,150757,210,188,"POLTRONA VENEZIANA in legno intagliato e dorato, fondo laccato nero,braccioli a riccio,ricoperta di stoffa rossa a fiori. Epoca Luigi XV.",585,98.5,False,none,ANDREA BRIOSCO DETTO IL RICCIO,Periodo di Luigi XV,POLTRONE,,
@@ -217,9 +217,9 @@ BO0624_81811,150762,215,193,"DUE CONSOLLES di stile Barocco in legno intagliato 
 BO0624_81811,150763,216,4,193 bis. DUE SPECCHIERE d'accompagno alle precedanti.,598,98.1,False,none,,,,,
 BO0624_81811,150764,217,5,194.DUE COLONNE in marmo bianco interamente intagliate con sfingi in rilievo e foglie. Loro basi e capitelli d'ordine corintio.,599,99.2,False,none,,,,,
 BO0624_81811,150765,218,195,VASO DA FARMACIA forma alberello in antica maiolica di Cafaggiolo con medaglione rappresentante ritratto di donna nel corpo del vaso.,603,98.5,False,none,,,VASI,,
-BO0624_81811,150766,219,196,"GRANDE MOBILE PER USO CRISTALLIERA in legno di noce finemente intagliato e dorato con decorazioni ad ornato sullo stile del xvI secolo. Lavoro eseguito nel 1855 dal prof. B. Vespasiani di Roma. Alto m. 2,20Largo m. 1,30.",604,99.1,False,none,,,,,
+BO0624_81811,150766,219,196,"GRANDE MOBILE PER USO CRISTALLIERA in legno di noce finemente intagliato e dorato con decorazioni ad ornato sullo stile del xvI secolo. Lavoro eseguito nel 1855 dal prof. B. Vespasiani di Roma. Alto m. 2,20Largo m. 1,30.",604,99.1,False,none,,,,,Sec. XIX
 BO0624_81811,150767,220,197,DUE CANI BRACCHI SEDUTI scolpiti in marmo bianco di Carrara. Grandezza naturale.,605,97.5,False,none,,,,,
-BO0624_81811,150768,221,198,"MOBILE A CREDENZA in legno di noce a due sportelli con scorniciature e tiretti. Epoca xvhl secolo. M. 1,10 X0,50.",607,69.8,False,none,,,,,
+BO0624_81811,150768,221,198,"MOBILE A CREDENZA in legno di noce a due sportelli con scorniciature e tiretti. Epoca xvhl secolo. M. 1,10 X0,50.",607,69.8,False,none,,,,,Sec. XVI
 BO0624_81811,150769,222,199,PICCOLA FONTANA DA MURO in antica maiolica di Moustier con coperchio e bacile.Rubinetto in bronzo dorato.,608,98.1,False,none,,,,,
 BO0624_81811,150770,223,200,"GRANDE PIATTO di forma rotonda in antica maiolica di Castelli, decorato con soggetto di guerra smaltato a colori policromi. Cornice in noce intagliata lumeggiata in oro.",612,98.8,False,none,,,,,
 BO0624_81811,150771,224,201,ROSA DA TIVOLI (Originale). —Paesaggio con animali e figure dipinto ad olio su tela con cornice in legno intagliato e dorato.,613,98.4,False,none,ROOS PHILIPP PETER,,,,
@@ -227,7 +227,7 @@ BO0624_81811,150772,225,202,"RICCA ED ANTICAGUARNIZIONEDA CAMINETTO di stile Roc
 BO0624_81811,150773,226,203,"GRANDE E BEL TAPPETO in antico peluche veneziano tessuto. in seta a colori vari. Decorazione ad ornati e disegni geometrici. Bella bordura all' ingiro. Perfetto stato di conservazione con colori molto vivaci. M.5,10X3.",618,99.1,False,none,,,,,
 BO0624_81811,150774,227,204,"ANTICO SEMIBUSTO in bronzo del xvI secolo rappresentante Giunone, sopra pieduccio in marmo giailo antico. Finemente cesellato, di bella patina ed in perfetto stato di conservazione. Vedi illustrazione Tav.V.",619,99.0,False,none,,,,,
 BO0624_81811,150775,228,205,"VASO forma potiche con coperehio, in antica porcellana del Giappone smaltata con fiori e frutta in rilievo a colori con lumeggiature in oro su fondo bianco. Base",620,98.8,False,none,,,VASI,,
-BO0624_81811,150776,229,206,"ANTICO COFANETTO AD JSO NECESSAIRE DA TOILETTE del xvI secolo in legno dipinto ad olio a colori ed ornato di bronzi dorati. Nell'interno del coperchio apritore superiore stemma dell'Eec.ma Casa Lancellotti sorretto da due putti alati dipinto ad oli sopra seta; allingiro dell'astuccio pitture ad olio raffiguranti scene campestri con figure di soggetto mitologico. In alto bordura a fiori e frutta con intersecazione di putti. Nell'interno del cofanetto utensili da toilette in bosso montati in argento cesellato,portanti lo stemma del1'Ecc.ma Casa Chigi. Maniglie in bronzo cesellato e dorato. Questo interessante cofanetto fu eseguito nel 1540 in occasione del matrimonio avvenuto tra Donna Laura Lancellotti e Don Lorenzo Chigi. Dallo stile della pittura, dal colorito e dai soggetti di decorazione si ritiene un lavoro originale di Giulio Romano,allievo di Raffaello Sanzio. Perfetto stato di conservazione.",622,99.8,False,none,SANZIO RAFFAELLO,,OGGETTI VARI,,
+BO0624_81811,150776,229,206,"ANTICO COFANETTO AD JSO NECESSAIRE DA TOILETTE del xvI secolo in legno dipinto ad olio a colori ed ornato di bronzi dorati. Nell'interno del coperchio apritore superiore stemma dell'Eec.ma Casa Lancellotti sorretto da due putti alati dipinto ad oli sopra seta; allingiro dell'astuccio pitture ad olio raffiguranti scene campestri con figure di soggetto mitologico. In alto bordura a fiori e frutta con intersecazione di putti. Nell'interno del cofanetto utensili da toilette in bosso montati in argento cesellato,portanti lo stemma del1'Ecc.ma Casa Chigi. Maniglie in bronzo cesellato e dorato. Questo interessante cofanetto fu eseguito nel 1540 in occasione del matrimonio avvenuto tra Donna Laura Lancellotti e Don Lorenzo Chigi. Dallo stile della pittura, dal colorito e dai soggetti di decorazione si ritiene un lavoro originale di Giulio Romano,allievo di Raffaello Sanzio. Perfetto stato di conservazione.",622,99.8,False,none,SANZIO RAFFAELLO,,OGGETTI VARI,,Sec. XVI
 BO0624_81811,150777,230,207,"DUE GRANDI VASI in porcellana della Cina decorati smaltato a colori policromi lumeggiati da personaggi, in oro su fondo bianco. Montatura in bronzo cesellato e dorato formante in alto un candelabro a sette bracci.",627,73.3,False,none,,,VASI,,
 BO0624_81811,150778,231,208,GRUPPO in porcellana bianca di Capodimonte rappresentante satiro e baccante.,628,97.4,False,none,,,,,
 BO0624_81811,150779,232,4,209.RARA GUARNIZIONE DA CAMINETTO formata da un grande orologio e due candelabri in marmo bigio e bronzo patinato con fregi dorati. L'orologio a forma di tempio con quadrante smaltato firmato Lecolle a Paris e due candelabri a nove bracci ciascuno sorrretti da due Flore volanti. Lavoro francese. Luigi XVI.,629,99.7,False,none,,,CANDELABRI,,
@@ -296,7 +296,7 @@ BO0624_81811,150841,294,267,OROLOGIO DA TAVOLINO a forma di tempio detto Romano 
 BO0624_81811,150842,295,268,GRANDE ZUPPIERA in antica porcellana di Saxe di forma rotonda con coperchio sormontato da un putto. Decorazione di bouquets di fiori policromi su fondo bianco graffito.,771,93.8,False,positional,Ferretti,,,,
 BO0624_81811,150843,296,269,COMMODE in noce decorata da figure scolpite in ri-,773,96.1,False,positional,Ferretti,,,,
 BO0624_81811,150844,297,8,lievo con quattro tiretti. Stile xvi secolo.,774,97.7,False,positional,Ferretti,,,,
-BO0624_81811,150845,298,9,"270.ANTICOESPLENDIDO OROLOGIODA TAVOLINO a forma di tempio in noce,interamente guarnito con sfingi di donna e fregi in bronzo cesellato e dorato. Quadrante smaltato con fiori e foglie a colori in rilievo. Firmato: F. S. Gillanders, London 1772. Movi mento a tutta suoneria; perfetto stato di conservaZione.",775,99.7,False,positional,Ferretti,,ARREDAMENTI,,
+BO0624_81811,150845,298,9,"270.ANTICOESPLENDIDO OROLOGIODA TAVOLINO a forma di tempio in noce,interamente guarnito con sfingi di donna e fregi in bronzo cesellato e dorato. Quadrante smaltato con fiori e foglie a colori in rilievo. Firmato: F. S. Gillanders, London 1772. Movi mento a tutta suoneria; perfetto stato di conservaZione.",775,99.7,False,positional,Ferretti,,ARREDAMENTI,,Sec. XVIII
 BO0624_81811,150846,299,271,DUE VASI in antica porcellana della Cina famiglia verde forma potiche con coperchio sormontato da un drago dorato. Decorazione personaggi e fiori smaltati a colori policromi su fondo bianco.,779,98.9,False,positional,Ferretti,,VASI,,
 BO0624_81811,150847,300,272,PICCOLO GRUPPO in porcellana bianca di Capodi monte formato da tre putti.,780,97.3,False,positional,Ferretti,,,,
 BO0624_81811,150848,301,3,273.DUE PICCOLE cantoniere in legno intagliato e dorato su fondo laccato color avorio. Epoca Luigi XVI.,781,99.0,False,positional,Ferretti,,,,
@@ -341,10 +341,10 @@ BO0624_81811,150886,339,10,306-bis. TABACCHIERA in argento cesellato con figure 
 BO0624_81811,150887,340,11,"307.ANTICO NECESSAIRE PER LAVORO di stile orientale in legno laccato nero con lumeggiature in oro, forniture in avorio.",864,98.7,False,positional,Ferretti,,,,
 BO0624_81811,150888,341,308,PICCOLA CONSOLLE di forma mezza tonda in boisde-rose intarsiata di vari legni colorati. Piano marmo colorato. Luigi XVl. bis. PORTA BIGLIETTI di forma rotonda in argento lavorato a sbalzo e traforato.,865,74.1,False,positional,Ferretti,,OGGETTI IN LEGNO,,
 BO0624_81811,150889,342,309,VETRINA PER PORCELLANA in legno di mogano,867,95.3,False,positional,Ferretti,,,,
-BO0624_81811,150890,343,310,CASSETTINO CERTOSINO in noce intarsiato. Epoca XVI secolo. bis.CUCCHIAIO DA CREMA in argento cesellatoe,868,69.6,False,positional,Ferretti,,,,
+BO0624_81811,150890,343,310,CASSETTINO CERTOSINO in noce intarsiato. Epoca XVI secolo. bis.CUCCHIAIO DA CREMA in argento cesellatoe,868,69.6,False,positional,Ferretti,,,,Sec. XVI
 BO0624_81811,150891,344,311,ANTICA CONSOLLE BAROCCA in legno di noce,872,95.2,False,positional,Ferretti,,,,
 BO0624_81811,150892,345,312,LAMPADA DA NOTTE formata da una conchiglia sopra,873,96.0,False,positional,Ferretti,,LAMPADE,,
-BO0624_81811,150893,346,313,"GRANDE ED ANTICO TAVOLO DA CENTROin legno di noce con scorniciature a quattro tiretti. Epoca XVI secolo. M. 2,80 X 0,75.",876,98.3,False,positional,Ferretti,,,,
+BO0624_81811,150893,346,313,"GRANDE ED ANTICO TAVOLO DA CENTROin legno di noce con scorniciature a quattro tiretti. Epoca XVI secolo. M. 2,80 X 0,75.",876,98.3,False,positional,Ferretti,,,,Sec. XVI
 BO0624_81811,150894,347,314,DUE ANTICHE CANTONIERE di stile barocco in legno bis. PICCOLA TABACCHIERA in argento cesellato con figure nel coperchio.,879,72.6,False,positional,Ferretti,,,,
 BO0624_81811,150895,348,315,"ANTICO ASTUCCIO in cuoio lavorato con dorature a piccoli ferri, contenente un collier, un bracciale e un paio orecchini in granate orientali martellate,montatura in oro.",880,98.8,False,positional,Ferretti,,,,
 BO0624_81811,150896,349,316,"SCRIVANIA A TAVOLINO VENEZIANA in legno, dipinta a colori con figure di stile orientale. Epoca Luigi XV.",881,98.1,False,positional,Ferretti,Periodo di Luigi XV,ARREDAMENTI,,
@@ -519,7 +519,7 @@ BO0624_81811,151064,517,17,453.SPLENDIDA E RARA GUARNIZIONE DA CAMINETTO compost
 BO0624_81811,151065,518,455,PICCOLA CAFFETTIERA in porcellanadi Capodimonte a colori. FRUTTA.legno dorato.,1273,82.4,False,positional,Ferretti,,,,
 BO0624_81811,151066,519,456,"PICCOLA CAFFETTIERA in porcellana di Venezia con coperchio e sottopiatto, smaltata con piccole figure e",1275,98.1,False,positional,Ferretti,,,,
 BO0624_81811,151067,520,457,IMPORTANTE GUARNITURA per salone composta di tre divani forma marquise e quindici poltrore con braccioli. Il tutto laccato color avorio con lumeggiatura in oro. Epoca Luigi XVI.,1276,98.9,False,positional,Ferretti,,,,
-BO0624_81811,151068,521,457,"bis. GRUPPO in porcellana bianca formato da quattro figure in costume del xvil secole assise a mensa. COMMODE in noce intarsiato di giallo Angelino a quattro tiretti, con maniglie in bronzo cesellato. Epoca XVII secolo. M. 1,30 X 0,60.",1279,71.7,False,positional,Ferretti,,,,
+BO0624_81811,151068,521,457,"bis. GRUPPO in porcellana bianca formato da quattro figure in costume del xvil secole assise a mensa. COMMODE in noce intarsiato di giallo Angelino a quattro tiretti, con maniglie in bronzo cesellato. Epoca XVII secolo. M. 1,30 X 0,60.",1279,71.7,False,positional,Ferretti,,,,Sec. XVII
 BO0624_81811,151069,522,458,"PAESAGGIO CON MARINA.Quadro dipinto ad olio su tela, entro cornice di legno, intagliato e dorato. M. 0,90 X 1,50.",1280,98.2,False,positional,Ferretti,,,,
 BO0624_81811,151070,523,459,bis.PICCOLA CORNICE VENEZIANA in legno intagliato e dorato con ricca cimasa. Epoca Luigi XV.,1281,97.8,False,positional,Ferretti,Periodo di Luigi XV,,,
 BO0624_81811,151071,524,460,MENSOLONE PORTA VASO in legno intagliato e do-,1283,95.7,False,positional,Ferretti,,VASI,,
@@ -543,7 +543,7 @@ BO0624_81811,151088,541,476,SCRIVANIA DA CENTRO a bancone in noce intarsiata di 
 BO0624_81811,151089,542,18,"477.GRANDE SCRIGNO di legno ad ebano, forma archi-",1306,97.0,False,positional,Ferretti,,,,
 BO0624_81811,151090,543,19,"tettonica con diciotto tiretti placcati di tartaruga ornato da scorniciature e fregi in bronzo cesellato e dorato. M.0,75X1,20.",1307,98.8,False,positional,Ferretti,,,,
 BO0624_81811,151091,544,478,"TAVOLO di forma rotonda di stile bizantino in marmo bianco, sorretto da un balaustro poggiato sopra base formata da un leone in piedi.",1308,98.5,False,positional,Ferretti,,,,
-BO0624_81811,151092,545,479,"ANTICO MOBILE A CREDENZA con due sportelli e tiretto in noce con scorniciature e pomi in bronzo cesellato e dorato. Epoca xvl1 secolo. M. 1,10 X 0,60.",1309,98.6,False,positional,Ferretti,,,,
+BO0624_81811,151092,545,479,"ANTICO MOBILE A CREDENZA con due sportelli e tiretto in noce con scorniciature e pomi in bronzo cesellato e dorato. Epoca xvl1 secolo. M. 1,10 X 0,60.",1309,98.6,False,positional,Ferretti,,,,Sec. XVI
 BO0624_81811,151093,546,480,QUATTRO SEDIE in noce con piano e spalliera tes- suti in canna d'India.,1310,78.3,False,positional,Ferretti,,SEDIE,,
 BO0624_81811,151094,547,481,CUCCHIAIO DA CREMA in argento cesellato e dorato. di damasco in seta color verde.,1322,73.3,False,positional,Corsi,,,,
 BO0624_81811,151095,548,482,DUE SGABELLI in legno di noce imbottiti e ricoperti,1324,96.2,False,positional,Corsi,,,,
@@ -552,7 +552,7 @@ BO0624_81811,151097,550,484,STIPETTO in legno di noce intagliato con sportello e
 BO0624_81811,151098,551,485,DUE TORCERI da muro in bronzo pulimentato. Epoca,1331,95.9,False,positional,Corsi,,,,
 BO0624_81811,151099,552,486,"CABARET VENEZIANO in ferro, con fiori e frutti a colori. Epoca Luigi XVI. QUATTRO CANDELIERI in bronzo pulimentato fir-",1332,74.1,False,positional,Corsi,,,,
 BO0624_81811,151100,553,487,VENTAGLIO in seta con medaglioni dipinti a colori e bacchette in avorio. Epoca Luigi XVI.,1334,97.8,False,positional,Corsi,,,,
-BO0624_81811,151101,554,5,mati 《1629 》.,1335,90.0,False,positional,Corsi,,,,
+BO0624_81811,151101,554,5,mati 《1629 》.,1335,90.0,False,positional,Corsi,,,,Sec. XVII
 BO0624_81811,151102,555,490,PARAFUOCO in bronzo cesellato e dorato stile Luigi XVI. PICCOLO CANE in argento per uso sopraccarte.,1336,69.2,False,positional,Corsi,,,,
 BO0624_81811,151103,556,491,PICCOLO TAVOLO da centro con tiretto in bois-de-rose,1338,96.3,False,positional,Corsi,,OGGETTI IN LEGNO,,
 BO0624_81811,151104,557,492,MEDAGLIONE in oro con miniatura rappresentante una giovine donna. con metalli dorati. Stile Luigi XV.,1339,77.1,False,positional,Corsi,Periodo di Luigi XV,MINIATURE,,
@@ -609,7 +609,7 @@ BO0624_81811,151154,607,542,"PICCOLA CONSOLLE in mogano, sorretta da colonne in 
 BO0624_81811,151155,608,4,"542-bis. PICCOLA TABACCHIERA in avorio scolpito a soggetto mitologico, montata in argento.",1433,98.9,False,positional,Corsi,,,,
 BO0624_81811,151156,609,5,Epoca xvll secolo.,1434,94.4,False,positional,Corsi,,,,
 BO0624_81811,151157,610,544,"CORNICETTA in argento cesellato lavorato a traforo. M. 0,10 X 0,08.",1446,97.0,False,positional,Corsi,,,,
-BO0624_81811,151158,611,2,XVII secolo.,1447,91.7,False,positional,Corsi,,,,
+BO0624_81811,151158,611,2,XVII secolo.,1447,91.7,False,positional,Corsi,,,,Sec. XVII
 BO0624_81811,151159,612,546,SPECCHIETTO A MANO in argento cesellato. Stile,1448,95.7,False,positional,Corsi,,,,
 BO0624_81811,151160,613,4,Luigi XV.,1449,88.9,False,positional,Corsi,Periodo di Luigi XV,,,
 BO0624_81811,151161,614,5,547.ANTICA LUCERNA ROMANA in argento cesellato con suoi accessori.,1450,98.5,False,positional,Corsi,,,,

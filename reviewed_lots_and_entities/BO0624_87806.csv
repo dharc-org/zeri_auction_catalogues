@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87806,543340,1,I,"n seinen Landschaftswerken bevorzugte er die bayrische, tiroler und schweizer Alpennatur. In spateren Jahren pflegte er nicht weniger erfolgreich niederrheinische, bergische usw. Motive. Erwahnt seien ein Zyklus von Aquarell-Landschaften aus dem Kaukasus, fur ein Album des Kaisers Alexander II. von Russland, zwei grosse Olgemalde, das eine eine kaukasische Landschaft, das andere den Lorscher Wald bei Darmstadt mit der kaiserlichen Jagdgesellschaft (diese von Frisch gemalt) darstellend, ebenfalls im Besitz des russischen Kaisers; eine grossere oberbayrische Landschaft in der Galerie zu Darmstadt und eine grosse Anzahl grosserer und kleinerer Bilder, angekauft durch Private und die Kunstvereine von Dusseldorf, Frankfurt a. M., Darmstadt, Hannover, Magdeburg, Danzig, Konigsberg usw. Schweich ist Mitglied des Vereins der Dusseldorfer Kunstler und der deutschen Kunstgenossenschaft.",49.0,99.9,False,title_direct,,Scuola di Dusseldorf,FOTOGRAFIE,,
 BO0624_87806,543341,2,3,"| 3.Salvator mundi.                                                                               | Holz 22/17,5     |",65.0,100.0,False,positional,Andreas Achenbach,,OGGETTI IN LEGNO,,
-BO0624_87806,543342,3,4,"| Hans Anetsberger, Munchen. Stilleben. Korb, Obst und Blumen. Bez.:H. Anetsberger,Minchen 1902.  | Leinw.55/60      |",66.0,99.0,False,positional,Andreas Achenbach,,,,
+BO0624_87806,543342,3,4,"| Hans Anetsberger, Munchen. Stilleben. Korb, Obst und Blumen. Bez.:H. Anetsberger,Minchen 1902.  | Leinw.55/60      |",66.0,99.0,False,positional,Andreas Achenbach,,,,Sec. XX
 BO0624_87806,543343,4,5,| Anonyme Meister. Mann mit Buch.                                                                 | Leinw.50/35      |,67.0,97.6,False,positional,Andreas Achenbach,,,,
 BO0624_87806,543344,5,6,| Alter Mann.                                                                                     | Leinw.52/41      |,68.0,95.7,False,positional,Andreas Achenbach,,,,
 BO0624_87806,543345,6,7,| Christus vor Pilatus.                                                                           | Leinw.82/104     |,69.0,97.1,False,positional,Andreas Achenbach,,,,
@@ -23,13 +23,13 @@ BO0624_87806,543360,21,30,"31.     | Denderah am Nyl. Aquarell 17/38,5 Moschee T
 BO0624_87806,543361,22,32,"33.     | Fischerboote am Abend. Aquarell 23,5/45 Die Pyramiden fruh morgens von Suden aus gesehen.                                                                 |",97.0,98.4,False,positional,Andreas Achenbach,,,,
 BO0624_87806,543362,23,36,| Hollandischer Strand. Bez.:Edm.Dittmann.                                         | Holz 20/46                                  |                |,107.0,97.0,False,positional,Max Dasio,,OGGETTI IN LEGNO,,
 BO0624_87806,543363,24,40,| 39. Katharinenkirche in Braunschweig. Beide bez.:R. Feldner.                     | Leinw.62/42                                 |                |,111.0,97.8,False,positional,Max Dasio,,,,
-BO0624_87806,543364,25,41,"| 41. Im Hochgebirg.             | Karl Schweich, t 1898, Dusseldorf.                                               |",112.0,86.5,False,title_direct,Karl Schweich,,,,
+BO0624_87806,543364,25,41,"| 41. Im Hochgebirg.             | Karl Schweich, t 1898, Dusseldorf.                                               |",112.0,86.5,False,title_direct,Karl Schweich,,,,Sec. XIX
 BO0624_87806,543365,26,42,"| 42. Der Wendelstein, von der Rantzinger Hohe aus. Kart.13/31 Bez.:C.Schweich 44. |",113.0,100.0,False,positional,Max Dasio,,,,
 BO0624_87806,543366,27,43,"| Terrainstudie.                                                                   | Leinw.14,5/23                               |                |",114.0,94.7,False,positional,Max Dasio,,,,
 BO0624_87806,543367,28,44,| Landschaftsstudie.                                                               | Karton 14/26                                |                |,115.0,95.2,False,positional,Max Dasio,,,,
-BO0624_87806,543368,29,45,| Chiemsee (Sommer 1844). Ruckseite bez.: C. Schweich.                             | Leinw.a.Kart.16/30                          |                |,116.0,97.7,False,positional,Max Dasio,,,,
+BO0624_87806,543368,29,45,| Chiemsee (Sommer 1844). Ruckseite bez.: C. Schweich.                             | Leinw.a.Kart.16/30                          |                |,116.0,97.7,False,positional,Max Dasio,,,,Sec. XIX
 BO0624_87806,543369,30,46,Portrat einer schonen jungen Dame mit Band im Haar.,120.0,97.1,False,positional,,Franzosischer Meister Ende des XVlll. Jahrhundert,,,
-BO0624_87806,543370,31,47,"Originalportrat Napoleon I. Leinw.47/37 Gemalt 10.-13. Juli 1807 in Konigsberg,laut Inschrift: ,Auf dem konigl. Schloss zu Konigsberg i. Pr. nach dem Leben gemalt von Funck"".   |",125.0,99.1,False,title_direct,Funck,,,,
+BO0624_87806,543370,31,47,"Originalportrat Napoleon I. Leinw.47/37 Gemalt 10.-13. Juli 1807 in Konigsberg,laut Inschrift: ,Auf dem konigl. Schloss zu Konigsberg i. Pr. nach dem Leben gemalt von Funck"".   |",125.0,99.1,False,title_direct,Funck,,,,Sec. XIX
 BO0624_87806,543371,32,48,"| 48. Waldbach. Aquarell 28,5/44",127.0,100.0,False,positional,Funck,,,,
 BO0624_87806,543372,33,49,"49. Chiemsee. Holz 14,5/20,5 Bez.:L.Gebhardt.",128.0,77.4,False,positional,Funck,,OGGETTI IN LEGNO,,
 BO0624_87806,543373,34,50,Vieh an der Tranke. Leinw.49/63 Bez.: O. G.                                                                                                                                     |,129.0,96.2,False,positional,Funck,,,,
@@ -39,11 +39,11 @@ BO0624_87806,543376,37,53,53.Stilleben. Holz 40/47,132.0,55.4,False,positional,F
 BO0624_87806,543377,38,54,"54. Der Konigsee. Leinw.71,5/90 Bez.:H. Heilmejer Minchen.",133.0,84.1,False,positional,Funck,,,,
 BO0624_87806,543378,39,55,| 55.Bei Pipping. Karton 17/24 Bez.: M. Heilmajer Pipping und Nachlafstempel.,134.0,100.0,False,positional,Funck,,,,
 BO0624_87806,543379,40,56,| 56.Abendlandschaft. Bez.:Nachlafstempel.                                                   | Holz 39/51    |,137.0,100.0,False,positional,Philipp Herrmann,,OGGETTI IN LEGNO,,
-BO0624_87806,543380,41,57,57. Brustbild eines Mannes. Bez.:S. Hempel 1835.                                | Leinw.46/43   |,139.0,92.4,False,positional,Philipp Herrmann,,,,
+BO0624_87806,543380,41,57,57. Brustbild eines Mannes. Bez.:S. Hempel 1835.                                | Leinw.46/43   |,139.0,92.4,False,positional,Philipp Herrmann,,,,Sec. XIX
 BO0624_87806,543381,42,58,"| Heinrich Hiller, Charlottenburg. Winter im Wald.                                           | Holz 16/12    |",140.0,97.4,False,positional,Philipp Herrmann,,OGGETTI IN LEGNO,,
 BO0624_87806,543382,43,59,60.                          | Sommer im Wald. Pendant z.Vor. Sonnenuntergang mit Windmuhle. Bez.:H.H.                    | Leinw.18/28   |,141.0,98.2,False,positional,Philipp Herrmann,,,,
 BO0624_87806,543383,44,61,| Partie aus Rotterdam.                                                                      | Holz 32/25    |,142.0,95.4,False,positional,Philipp Herrmann,,OGGETTI IN LEGNO,,
-BO0624_87806,543384,45,63,"63. Waldlandschaft mit Vieh. | Aus Alt-Hamburg. Pendant z. Vor. Beide bez.:H. Hiller. W. Fr. Hirt,  1772, Frankfurt a. M",143.0,93.7,False,positional,Philipp Herrmann,,,,
+BO0624_87806,543384,45,63,"63. Waldlandschaft mit Vieh. | Aus Alt-Hamburg. Pendant z. Vor. Beide bez.:H. Hiller. W. Fr. Hirt,  1772, Frankfurt a. M",143.0,93.7,False,positional,Philipp Herrmann,,,,Sec. XVIII
 BO0624_87806,543385,46,64,| Professor Hjork. Wiesenlandschaft mit Jager und Hund.                                      | Holz 16/22    |,144.0,97.6,False,positional,Philipp Herrmann,,OGGETTI IN LEGNO,,
 BO0624_87806,543386,47,69,"| 69.Holzhauser in Treguier (Bretagne). Bez.: Monogr. E. J. Treguier und Stempel: Vente Isabey.   | Blei 17,5/11   |",151.0,100.0,False,positional,Eugene Isabey,,OGGETTI IN PIOMBO,,
 BO0624_87806,543387,48,70,70. Belgische Fischer bergen ihre Beute.                                 | Leinw.50/36    |,153.0,82.6,False,positional,Eugene Isabey,,,,
@@ -68,14 +68,14 @@ BO0624_87806,543405,66,91,91.Italienerin. Leinw. 63/50 Bez.:O.L.05.             
 BO0624_87806,543406,67,92,| Madchen mit Blumen. Karton 26/20                                               |,178.0,95.4,False,positional,F. Konarski,,,,
 BO0624_87806,543407,68,94,| 94.Im Schafstall.                                                                   | Leinw.3546    |,182.0,100.0,False,positional,Lepesqueur,,,,
 BO0624_87806,543408,69,95,"| Am Chiemsee.                                                                        | Leinw.73/58,5 |",184.0,94.3,False,positional,Lepesqueur,,,,
-BO0624_87806,543409,70,97,97.Partie bei Breitbrunn. Bez.:Monogr.W L u. Breitbrunn. | Aquarell 1933 |,186.0,84.6,False,positional,Lepesqueur,,,,
+BO0624_87806,543409,70,97,97.Partie bei Breitbrunn. Bez.:Monogr.W L u. Breitbrunn. | Aquarell 1933 |,186.0,84.6,False,positional,Lepesqueur,,,,Sec. XX
 BO0624_87806,543410,71,98,"| Adolf Lier t, Munchen. Chiemseelandschaft. Leinw.auf Karton 15/35,5 Bez.:A.Lier.    |               |",187.0,98.0,False,positional,Lepesqueur,,,,
 BO0624_87806,543411,72,99,"| Hermann Lindenschmit, Munchen.                                                      | Leinw.55/43   |",188.0,96.4,False,positional,Lepesqueur,,,,
 BO0624_87806,543412,73,101,| 101. Landschaft mit Herde bei einer Ruine. Leinw. 2231                              |               |,190.0,100.0,False,positional,Lepesqueur,,,,
 BO0624_87806,543413,74,102,| Der Liebesbrief.                                                                    | Leinw.82/63   |,191.0,93.1,False,positional,Lepesqueur,,,,
 BO0624_87806,543414,75,104,| 104. Mittagsrast im Walde.                                                          | Leinw.28/37   |,193.0,100.0,False,positional,Lepesqueur,,,,
 BO0624_87806,543415,76,105,| 105. Das Schweisstuch d.heil. Veronika. Oeldruck 59/47     |                                                |,198.0,100.0,False,positional,Gabriel Max,,,,
-BO0624_87806,543416,77,106,"| Ernst Adolf Meissner,t 1902, Munchen. Zwei Kihe.           | Karton 23/37                                   |",200.0,96.7,False,positional,Gabriel Max,,,,
+BO0624_87806,543416,77,106,"| Ernst Adolf Meissner,t 1902, Munchen. Zwei Kihe.           | Karton 23/37                                   |",200.0,96.7,False,positional,Gabriel Max,,,,Sec. XX
 BO0624_87806,543417,78,107,| Landschaft. Beide bez.mit dem Nachlafsstempel.             | Karton 22/37                                   |,201.0,96.6,False,positional,Gabriel Max,,,,
 BO0624_87806,543418,79,108,| Weidende Kuh. Bez.:Ernst Meissner.                         | Leinw.auf Karton 23/30                         |,202.0,96.4,False,positional,Gabriel Max,,,,
 BO0624_87806,543419,80,109,"| Herbstfeuer. Leinw.auf Karton 25,5/33,5 Bez.:E. Meissner.  |                                                |",203.0,96.4,False,positional,Gabriel Max,,,,
@@ -87,29 +87,29 @@ BO0624_87806,543424,85,118,| 118. Landschaft am Thunersee. Bez.:F.M.            
 BO0624_87806,543425,86,119,119. In der Bauernschenke.                                                 | Holz 47/55   |,215.0,66.7,False,positional,Gabriel Max,,OGGETTI IN LEGNO,,
 BO0624_87806,543426,87,120,120. Vieh auf der Weide.                                                                      | Holz 50/40   |,216.0,79.5,False,positional,Gabriel Max,,OGGETTI IN LEGNO,,
 BO0624_87806,543427,88,121,121. Winterlandschaft am Abend. Bez.: Ed. J. Muiller.                             | Leinw.43/59  |,217.0,81.7,False,positional,Gabriel Max,,,,
-BO0624_87806,543428,89,122,"122.Z Zehnender in einer Hochgebirgslandschaft. Lw. 30/25 Bez.:M. Muiller, Munchen 1904. |              |",218.0,88.2,False,positional,Gabriel Max,,,,
+BO0624_87806,543428,89,122,"122.Z Zehnender in einer Hochgebirgslandschaft. Lw. 30/25 Bez.:M. Muiller, Munchen 1904. |              |",218.0,88.2,False,positional,Gabriel Max,,,,Sec. XX
 BO0624_87806,543429,90,123,"123. Ophelia. Brustbild.                                                                        | Holz 17/14,5 |",219.0,81.0,False,positional,Gabriel Max,,OGGETTI IN LEGNO,,
-BO0624_87806,543430,91,124,124. Kopf einer alten Frau. Ruckseite bez.: C. v. Mussini 1871.                  | Leinw.46/37  |,220.0,83.4,False,positional,Gabriel Max,,,,
+BO0624_87806,543430,91,124,124. Kopf einer alten Frau. Ruckseite bez.: C. v. Mussini 1871.                  | Leinw.46/37  |,220.0,83.4,False,positional,Gabriel Max,,,,Sec. XIX
 BO0624_87806,543431,92,125,| 125. Reiter und Vieh am Brunnen.                                                                                 | Lei,221.0,89.5,False,positional,Gabriel Max,,,,
 BO0624_87806,543432,93,126,"126. Swineminde. Osternothafen, Ostmole und Winkbake, bei Mondschein.              | Leinw.40/73  |",222.0,84.9,False,positional,Gabriel Max,,,,
 BO0624_87806,543433,94,127,Anglesey. Strandhutte. Beide bez.:Eugen Niethe.                                                             | Leinw.65/59  |,223.0,96.5,False,positional,Gabriel Max,,,,
 BO0624_87806,543434,95,128,Beim Schachspiel.                                                         | Holz 27/21                                                                   |,226.0,93.1,False,positional,C. Nordheim,,OGGETTI IN LEGNO,,
 BO0624_87806,543435,96,129,Belauscht. Pendant z. Vor. Beide bez.: C. Nordheim 96.                   |                                                                              |,228.0,95.9,False,title_direct,C. Nordheim,,,,
 BO0624_87806,543436,97,130,Baumstudie.                                                              | Karton 18/26                                                                 |,229.0,92.0,False,positional,C. Nordheim,,,,
-BO0624_87806,543437,98,131,"Inntal bei Brannenburg. Bez.Ruckseite:C. Schweich 1845.                  | Karton 16,5/26,5                                                             |",230.0,97.2,False,positional,C. Nordheim,,,,
-BO0624_87806,543438,99,132,"Blick auf den Starnbergersee bei Pocking.                                | Leinw.auf Karton 14/31,5 Bez.: C. Schweig 1854. (Aus der Erinnerung gemalt). |",231.0,98.2,False,positional,C. Nordheim,,,,
-BO0624_87806,543439,100,133,Chiemsee (Sommer 1844). Rickseite bez.:C. Schweich.                      | Karton 19/39                                                                 |,232.0,96.7,False,positional,C. Nordheim,,,,
-BO0624_87806,543440,101,134,"Kochelsee. Bez.: C. Schweich 1855.                                       | Karton 21,5/31,5                                                             |",233.0,95.8,False,positional,C. Nordheim,,,,
+BO0624_87806,543437,98,131,"Inntal bei Brannenburg. Bez.Ruckseite:C. Schweich 1845.                  | Karton 16,5/26,5                                                             |",230.0,97.2,False,positional,C. Nordheim,,,,Sec. XIX
+BO0624_87806,543438,99,132,"Blick auf den Starnbergersee bei Pocking.                                | Leinw.auf Karton 14/31,5 Bez.: C. Schweig 1854. (Aus der Erinnerung gemalt). |",231.0,98.2,False,positional,C. Nordheim,,,,Sec. XIX
+BO0624_87806,543439,100,133,Chiemsee (Sommer 1844). Rickseite bez.:C. Schweich.                      | Karton 19/39                                                                 |,232.0,96.7,False,positional,C. Nordheim,,,,Sec. XIX
+BO0624_87806,543440,101,134,"Kochelsee. Bez.: C. Schweich 1855.                                       | Karton 21,5/31,5                                                             |",233.0,95.8,False,positional,C. Nordheim,,,,Sec. XIX
 BO0624_87806,543441,102,135,Nazzi.                                                                   | Holz 16/12                                                                   |,234.0,88.9,False,positional,C. Nordheim,,OGGETTI IN LEGNO,,
 BO0624_87806,543442,103,138,| 138. Blondine in lila Kleid. Bez.:P.Paede.                                    | Leinw.51/40,236.0,100.0,False,positional,C. Nordheim,,,,
 BO0624_87806,543443,104,139,139. Episode aus dem Bauernkrieg. | Leinw.117/92                                                                 |,237.0,68.8,False,positional,C. Nordheim,,,,
 BO0624_87806,543444,105,140,| 140. Fidele Stunden. Bez.:F.J. Perl.,240.0,83.8,False,positional,Fr. Perl,,,,
-BO0624_87806,543445,106,141,141. Mutter und Kind. Auf der Ruickseite bez.:H. Pforr 1903.                                             | Holz 16/15,242.0,88.0,False,positional,Fr. Perl,,OGGETTI IN LEGNO,,
+BO0624_87806,543445,106,141,141. Mutter und Kind. Auf der Ruickseite bez.:H. Pforr 1903.                                             | Holz 16/15,242.0,88.0,False,positional,Fr. Perl,,OGGETTI IN LEGNO,,Sec. XX
 BO0624_87806,543446,107,142,142. Auf dem Pferdemarkt.,,0.0,True,none,,,,,
-BO0624_87806,543447,108,143,143. Einquartierung. Pendant z.Vor. Bez.:J.G.Pforr 1780. | Gouache 26/23 |,243.0,67.0,False,positional,Fr. Perl,,,,
+BO0624_87806,543447,108,143,143. Einquartierung. Pendant z.Vor. Bez.:J.G.Pforr 1780. | Gouache 26/23 |,243.0,67.0,False,positional,Fr. Perl,,,,Sec. XVIII
 BO0624_87806,543448,109,144,144. Frankische Landschaft mit Staffage. Bez.:H.Philips 71.                                         | Leinw.55/44   |,244.0,84.8,False,positional,Fr. Perl,,,,
 BO0624_87806,543449,110,145,Abenddammerung.                                                                                                          | Leinw.48/60   |,245.0,92.9,False,positional,Fr. Perl,,,,
-BO0624_87806,543450,111,146,Spatsommer. Beide bez.:R. Pichler 1906.                                                                                  | Leinw.48/60   |,246.0,95.9,False,positional,Fr. Perl,,,,
+BO0624_87806,543450,111,146,Spatsommer. Beide bez.:R. Pichler 1906.                                                                                  | Leinw.48/60   |,246.0,95.9,False,positional,Fr. Perl,,,,Sec. XX
 BO0624_87806,543451,112,147,| 147. Im bayerischen Vorgebirg. Bez.:W.Porst.,247.0,87.9,False,positional,Fr. Perl,,,,
 BO0624_87806,543452,113,148,148. Arkadische Landschaft mit See.,248.0,49.6,False,positional,Fr. Perl,,,,
 BO0624_87806,543453,114,149,149. Desgl. desgl. Pendant z.Vor.                               | Leinw.67/95   |,249.0,31.0,False,positional,Fr. Perl,,,,
@@ -125,13 +125,13 @@ BO0624_87806,543462,123,158,Landschaft mit Schafherde an der Tranke.,288.0,95.1,
 BO0624_87806,543463,124,159,Schwarzwaldlandschaft.,296.0,91.3,False,positional,Max Roman,,,,
 BO0624_87806,543464,125,160,Der Kopais-See mit dem Parnass.,302.0,93.8,False,positional,Karl Rottmann,,,,
 BO0624_87806,543465,126,161,| 161. Sonnenuntergang im Winter.,313.0,38.3,False,positional,A. von Rudt,,,,
-BO0624_87806,543466,127,162,162. Desgl. Pendant z. Vor. Beide bez.:A.Rudt 1905.   | Leinw.33/25                  |,315.0,79.2,False,positional,A. von Rudt,,,,
+BO0624_87806,543466,127,162,162. Desgl. Pendant z. Vor. Beide bez.:A.Rudt 1905.   | Leinw.33/25                  |,315.0,79.2,False,positional,A. von Rudt,,,,Sec. XX
 BO0624_87806,543467,128,163,"163. Flote blasender Faun. Bez.: N.v.Santho.                  | Holz 17,5/14                 |",317.0,83.2,False,positional,A. von Rudt,,OGGETTI IN LEGNO,,
 BO0624_87806,543468,129,164,164. Winterlandschaft. Bez.:L.Scheins.       | Karton 18/27                 |,318.0,72.3,False,positional,A. von Rudt,,,,
 BO0624_87806,543469,130,165,| 165.Am Dorfweiher.,,0.0,True,none,,,,,
 BO0624_87806,543470,131,166,"166.Vor der Hundehitte. Beide bez.:Jul. Scheuerer.                 | Karton 27,5/33 Leinw.24,5/31 |",319.0,89.3,False,positional,A. von Rudt,,,,
 BO0624_87806,543471,132,167,"167. Ein Flotensolo. Bez.:Mathias Schmid.          | Aquarel127,5/20              |",320.0,76.3,False,positional,A. von Rudt,,,,
-BO0624_87806,543472,133,168,"168. Partie am Eibsee. Bez.:L. Schmitt, Tolz 1880.                  | Leinw.24/32,5                |",321.0,88.5,False,positional,A. von Rudt,,,,
+BO0624_87806,543472,133,168,"168. Partie am Eibsee. Bez.:L. Schmitt, Tolz 1880.                  | Leinw.24/32,5                |",321.0,88.5,False,positional,A. von Rudt,,,,Sec. XIX
 BO0624_87806,543473,134,169,Huhnerhof.                                                                       |                              |,323.0,81.8,False,positional,A. von Rudt,,,,
 BO0624_87806,543474,135,170,"Desgl.Pendant z. Vor. Bez.:A. Schonian, Munchen.                                 |                              |",324.0,95.5,False,positional,A. von Rudt,,,,
 BO0624_87806,543475,136,173,"| Motiv vom Chiemsee.                                                                                                              | Karton 15,5/21,5           |",330.0,94.6,False,positional,Wilhelm Schroeter,,,,
@@ -139,12 +139,12 @@ BO0624_87806,543476,137,174,| Motiv vom Staffelsee. Pendant z. Vor.             
 BO0624_87806,543477,138,175,| Landschaft. Bez.: C. Schweich.                                                                                                   | Karton 23/32               |,332.0,95.0,False,positional,Wilhelm Schroeter,,,,
 BO0624_87806,543478,139,176,"| Desgl.                                                                                                                           | Leinw.auf Karton 17/21,5   |",333.0,93.8,False,positional,Wilhelm Schroeter,,,,
 BO0624_87806,543479,140,177,"| Sennhitte.                                                                                                                       | Karton 18,5/31             |",334.0,92.3,False,positional,Wilhelm Schroeter,,,,
-BO0624_87806,543480,141,178,"| Landschaft mit Staffage. (Das erste Oibild des Meisters.) Bez.: C. Schweich 1840.                                                | Leinw.49,5/65              |",335.0,97.8,False,positional,Wilhelm Schroeter,,,,
+BO0624_87806,543480,141,178,"| Landschaft mit Staffage. (Das erste Oibild des Meisters.) Bez.: C. Schweich 1840.                                                | Leinw.49,5/65              |",335.0,97.8,False,positional,Wilhelm Schroeter,,,,Sec. XIX
 BO0624_87806,543481,142,179,| Landschaft. Kopie nach Ruisdael.                                                                                                 | Leinw.51/67                |,336.0,95.5,False,positional,Wilhelm Schroeter,,,,
 BO0624_87806,543482,143,180,| Studienkopf.                                                                                                                     | Karton 53/46               |,337.0,92.3,False,positional,Wilhelm Schroeter,,,,
 BO0624_87806,543483,144,182,182. Das Loisachtal. Bez.:C. Schweich.                                                                        | Leinw.12,339.0,80.8,False,positional,Wilhelm Schroeter,,,,
-BO0624_87806,543484,145,184,"| 184.Desgl. Bez.:Souvenir de Monsieur Vermote, Anvers 1848.",341.0,89.3,False,positional,Wilhelm Schroeter,,,,
-BO0624_87806,543485,146,185,"| 185. Mannlicher Studienkopf. Bez.:C. Schweich,Anvers 1848.",342.0,87.6,False,positional,Wilhelm Schroeter,,,,
+BO0624_87806,543484,145,184,"| 184.Desgl. Bez.:Souvenir de Monsieur Vermote, Anvers 1848.",341.0,89.3,False,positional,Wilhelm Schroeter,,,,Sec. XIX
+BO0624_87806,543485,146,185,"| 185. Mannlicher Studienkopf. Bez.:C. Schweich,Anvers 1848.",342.0,87.6,False,positional,Wilhelm Schroeter,,,,Sec. XIX
 BO0624_87806,543486,147,187,"| 187. Baumpartie mit Bach, im Hintergrund Dorfkirche. Bez.: L. Sckell.",344.0,83.2,False,positional,Wilhelm Schroeter,,,,
 BO0624_87806,543487,148,188,188. Der Leuchtturm von Genua. Bez.: Scotti.                                                           |,345.0,86.7,False,positional,Wilhelm Schroeter,,,,
 BO0624_87806,543488,149,189,189.Auf dem Feld. Bez.: C. Seeger.                         |,347.0,53.2,False,positional,Wilhelm Schroeter,,,,
@@ -159,7 +159,7 @@ BO0624_87806,543496,157,197,197. Abendstimmung im Fuldatal.                     
 BO0624_87806,543497,158,198,An der Muhle bei Gersfeld. In RaffaelliTechnik. Karton 36/48 Samtlich bez.:P. Staerck.                        |,356.0,97.6,False,positional,Wilhelm Schroeter,,,,
 BO0624_87806,543498,159,199,"| 199. Nebliger Tag. Leinw. auf Karton 19,5/14,5 Bez.:V. St.86.             |                |",359.0,100.0,False,positional,Vitus Staudacher,,,,
 BO0624_87806,543499,160,200,200. Kuhe auf der Weide. Bez.:P.Stortenbeker.      | Aquarell 6/19  |,361.0,84.6,False,positional,Vitus Staudacher,,,,
-BO0624_87806,543500,161,201,"Kochelsee mit dem Herzogenstand. Bez.: C. Schweich 1855.             | Karton 22/33,5 |",362.0,97.1,False,positional,Vitus Staudacher,,,,
+BO0624_87806,543500,161,201,"Kochelsee mit dem Herzogenstand. Bez.: C. Schweich 1855.             | Karton 22/33,5 |",362.0,97.1,False,positional,Vitus Staudacher,,,,Sec. XIX
 BO0624_87806,543501,162,202,"Sennhitten im Gebirge. Bez.: C. Schweich.                            | Karton 31/40,5 |",363.0,96.2,False,positional,Vitus Staudacher,,,,
 BO0624_87806,543502,163,203,"Buchen im Gebirge.                                                   | Karton 31/40,5 |",364.0,94.1,False,positional,Vitus Staudacher,,,,
 BO0624_87806,543503,164,204,"Felsblocke im Gebirge.                                               | Karton 30,5/40 |",365.0,94.7,False,positional,Vitus Staudacher,,,,
@@ -176,7 +176,7 @@ BO0624_87806,543513,174,214,Landschaft mit Vieh.,389.0,90.5,False,positional,Vit
 BO0624_87806,543514,175,215,Pferde an der Tranke.,399.0,90.9,False,positional,Vitus Staudacher,,,,
 BO0624_87806,543515,176,216,| 216. Inneres eines Kuhstalls. Bez.:L.Voltz.                                                               | Karton auf,408.0,89.3,False,positional,Ludwig Voltz,,,,
 BO0624_87806,543516,177,217,217. Portrat eines Mannes mit Muhlstein-Kragen.                        | Holz 59/45                 |,410.0,78.3,False,positional,Ludwig Voltz,,OGGETTI IN LEGNO,,
-BO0624_87806,543517,178,218,"218. Weidelandschaft mit Bauernhaus und Ruine. Bez.:L.C.Wagner f.1832. | Leinw.48,566,5             |",411.0,83.9,False,positional,Ludwig Voltz,,,,
+BO0624_87806,543517,178,218,"218. Weidelandschaft mit Bauernhaus und Ruine. Bez.:L.C.Wagner f.1832. | Leinw.48,566,5             |",411.0,83.9,False,positional,Ludwig Voltz,,,,Sec. XIX
 BO0624_87806,543518,179,219,| 219. Am Kocheisee.,,0.0,True,none,,,,,
 BO0624_87806,543519,180,220,220. Am Wendelstein.Pendant z.Vor. Beide bez.: H. Walter.                              | Holz 14/18                 |,412.0,87.9,False,positional,Ludwig Voltz,,OGGETTI IN LEGNO,,
 BO0624_87806,543520,181,221,221. Waldbach.,,0.0,True,none,,,,,
@@ -192,8 +192,8 @@ BO0624_87806,543529,190,230,230. Heimkehr vom Felde. Karton 51/72 Bez.:E. R. Zul
 BO0624_87806,543530,191,231,231. See am Gebirge. Karton 26/42                           |,426.0,67.4,False,positional,E. Wolffel,,,,
 BO0624_87806,543531,192,232,"Desgl. Karton 23,5/45                                                                  |",427.0,90.9,False,positional,E. Wolffel,,,,
 BO0624_87806,543532,193,233,"Geholz am Gebirge. Karton 30/46,5                                                      |",428.0,94.1,False,positional,E. Wolffel,,,,
-BO0624_87806,543533,194,234,Blick aus dem Hochgebirge. Karton 30/52 Bez.: C.Schweich 1849.                         |,429.0,96.7,False,positional,E. Wolffel,,,,
-BO0624_87806,543534,195,235,"See am Gebirge. Karton 30,5/53,5 Bez.:C.Schweich 1855.                                 |",430.0,96.2,False,positional,E. Wolffel,,,,
+BO0624_87806,543533,194,234,Blick aus dem Hochgebirge. Karton 30/52 Bez.: C.Schweich 1849.                         |,429.0,96.7,False,positional,E. Wolffel,,,,Sec. XIX
+BO0624_87806,543534,195,235,"See am Gebirge. Karton 30,5/53,5 Bez.:C.Schweich 1855.                                 |",430.0,96.2,False,positional,E. Wolffel,,,,Sec. XIX
 BO0624_87806,543535,196,236,Abel. Maultier und Treiber. Blei 38/30,433.0,94.7,False,positional,,,Kunstblatter,,
 BO0624_87806,543536,197,237,"Achenbach, Andreas. Matrosen. Orig.Rad. Qu. 80",434.0,95.3,False,positional,ANDREAS ACHENBACH,,Kunstblatter,,
 BO0624_87806,543537,198,238,"Alt, Jakob. Bei Wittingen. Sepia 17/24",435.0,94.6,False,positional,,,Kunstblatter,,
@@ -252,7 +252,7 @@ BO0624_87806,543589,250,282,Derselbe. Quellnymphe. Blei 51/37,525.0,93.9,False,p
 BO0624_87806,543590,251,283,Derselbe. Der Fruhling. Aquarell 56/40,527.0,94.7,False,positional,,,Kunstblatter,,
 BO0624_87806,543591,252,284,Derselbe. In Gedanken. Kohle 49/21,529.0,94.1,False,positional,,,Kunstblatter,,
 BO0624_87806,543592,253,285,Derselbe. Staudenweber und Staudenweberin.,531.0,95.2,False,positional,,,Kunstblatter,,
-BO0624_87806,543593,254,286,- Keutzer (1839).Kuh und Stier. Feder 23/28,535.0,100.0,False,positional,,,Kunstblatter,,
+BO0624_87806,543593,254,286,- Keutzer (1839).Kuh und Stier. Feder 23/28,535.0,100.0,False,positional,,,Kunstblatter,,Sec. XIX
 BO0624_87806,543594,255,287,"Kobell, Jan. Ochse. Kohie 30/36,5",536.0,93.8,False,positional,,,Kunstblatter,,
 BO0624_87806,543595,256,288,"- Koller, G.,(Munchen). Der Abschied. Aquarell 17/13",538.0,100.0,False,positional,,,Kunstblatter,,
 BO0624_87806,543596,257,289,"Kraus, Georg Melchior. Sitzender Mann. Kohle 18/19,5",539.0,96.1,False,positional,,,Kunstblatter,,
@@ -289,10 +289,10 @@ BO0624_87806,543626,287,315,"Rops, Felicien. Holocaustes. Orig.Rad., K1.-Fol.",5
 BO0624_87806,543627,288,6,316.,582.0,75.0,False,positional,,,Kunstblatter,,
 BO0624_87806,543628,289,7,"Rosenkranz, Karl Heinr. Landschaftsstudie. Blei 12/16",583.0,98.0,False,positional,,,Kunstblatter,,
 BO0624_87806,543629,290,317,"Derselbe. Desgl. Blei 11/15,5",584.0,93.1,False,positional,,,Kunstblatter,,
-BO0624_87806,543630,291,318,"Sande-Bakhuysen, G. van de. Kanallandschaft.",585.0,95.2,False,positional,,,Kunstblatter,,
+BO0624_87806,543630,291,318,"Sande-Bakhuysen, G. van de. Kanallandschaft.",585.0,95.2,False,positional,BACKHUYSEN LUDOLF,,Kunstblatter,,
 BO0624_87806,543631,292,10,319.,586.0,66.7,False,positional,,,Kunstblatter,,
 BO0624_87806,543632,293,11,320.,587.0,66.7,False,positional,,,Kunstblatter,,
-BO0624_87806,543633,294,12,"Aquarell 20/22 Sande-Bakhuysen, J. van de.Am Waldrand.",588.0,97.1,False,positional,,,Kunstblatter,,
+BO0624_87806,543633,294,12,"Aquarell 20/22 Sande-Bakhuysen, J. van de.Am Waldrand.",588.0,97.1,False,positional,BACKHUYSEN LUDOLF,,Kunstblatter,,
 BO0624_87806,543634,295,13,"Tusche 37,5/29",589.0,90.3,False,positional,,,Kunstblatter,,
 BO0624_87806,543635,296,14,"Schelfhout, A.Flachlandschaft mit Windmuhle. Aquarell 37/53",590.0,97.4,False,positional,SCHELFHOUT ANDREAS,,Kunstblatter,,
 BO0624_87806,543636,297,321,"Schneider, E. Figurenstudie. Tusche 11,5/16",591.0,95.2,False,positional,,,Kunstblatter,,
@@ -308,7 +308,7 @@ BO0624_87806,543645,306,330,Derselbe. Einsamer Hof bei Gersfeld. Aquarell 36/49,
 BO0624_87806,543646,307,331,Derselbe. An der Milseburg. Aquarell 35/49,602.0,95.2,False,positional,,,Kunstblatter,,
 BO0624_87806,543647,308,332,Derselbe. Berglandschaft bei Gersfeld. Aquarell 25/40,603.0,96.2,False,positional,,,Kunstblatter,,
 BO0624_87806,543648,309,333,Derselbe. Aus der Kaskadenschlucht. Aquarell 49/35,605.0,88.9,False,positional,,,Kunstblatter,,
-BO0624_87806,543649,310,334,"Steinhardt, C. F.(1863). Am Brunnen. Aquarell 31/25",606.0,95.7,False,positional,,,Kunstblatter,,
+BO0624_87806,543649,310,334,"Steinhardt, C. F.(1863). Am Brunnen. Aquarell 31/25",606.0,95.7,False,positional,,,Kunstblatter,,Sec. XIX
 BO0624_87806,543650,311,335,Derselbe. Bauerin. Aquarell 30/22,607.0,93.9,False,positional,,,Kunstblatter,,
 BO0624_87806,543651,312,32,336.,608.0,66.7,False,positional,,,Kunstblatter,,
 BO0624_87806,543652,313,33,"Stry, Abraham van. Am Spinnrad. Aquarell 17/22",609.0,96.6,False,positional,,,Kunstblatter,,
@@ -332,7 +332,7 @@ BO0624_87806,543669,330,350,"Wendelstadt, Karl Friedrich. Am Fenster. Aq.15/11",
 BO0624_87806,543670,331,18,"Waldorp, Anthonis. Hauser am Kanal. Tusche 18/26,5",627.0,96.9,False,positional,,,Kunstblatter,,
 BO0624_87806,543671,332,19,351.,628.0,66.7,False,positional,,,Kunstblatter,,
 BO0624_87806,543672,333,20,"Westenberg, Pieter George. Landschaft mit Architektur.",629.0,97.1,False,positional,,,Kunstblatter,,
-BO0624_87806,543673,334,352,Wjvt (1809). Schafstudie. Blei 25/40,633.0,94.1,False,positional,,,Kunstblatter,,
+BO0624_87806,543673,334,352,Wjvt (1809). Schafstudie. Blei 25/40,633.0,94.1,False,positional,,,Kunstblatter,,Sec. XIX
 BO0624_87806,543674,335,353,Derselbe. Desgl. Pendant z.Vor.,634.0,93.3,False,positional,,,Kunstblatter,,
 BO0624_87806,543675,336,3,354.,635.0,75.0,False,positional,,,Kunstblatter,,
 BO0624_87806,543676,337,4,Tusche 10/7,636.0,91.7,False,positional,,,Kunstblatter,,
@@ -572,9 +572,9 @@ BO0624_87806,543909,570,560,- Desgl. Zylinderformig. Metall.,933.0,100.0,False,p
 BO0624_87806,543910,571,561,Kelch. Metall.,934.0,85.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87806,543911,572,562,Doppelgulden. Erzherzog Johann. Frankfurt a. M.,935.0,95.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87806,543912,573,563,- Desgl. mit Adler.Frankfurt a. M.,937.0,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87806,543913,574,564,"- Desgl, Friedrich Wilhelm IV. 1849.",939.0,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87806,543913,574,564,"- Desgl, Friedrich Wilhelm IV. 1849.",939.0,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_87806,543914,575,565,"Kriegsdenkminze ,Schaar der Freiwilligen.""",940.0,95.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87806,543915,576,566,Tapferkeitsmedaille. Carl Theodor Furst Primas. 1808.,942.0,96.2,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87806,543915,576,566,Tapferkeitsmedaille. Carl Theodor Furst Primas. 1808.,942.0,96.2,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_87806,543916,577,567,Dienstkreuz.10 jahr.Frankfurt a.M.Kupfer.,943.0,95.2,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87806,543917,578,568,- Zigarettendose. Silber mit roter Emaille.,945.0,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87806,543918,579,569,Tintenfass und 2 Leuchter. Goldbronze. Rokoko.,946.0,95.6,False,positional,,,Antiquitaten; Kunstgegenstande,,

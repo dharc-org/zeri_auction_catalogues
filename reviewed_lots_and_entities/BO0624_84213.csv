@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84213,133225,1,1833,## 13,186,100.0,False,positional,BERRE,,,,
 BO0624_84213,133226,2,1739,"Toile.Haur.,So cent.;larg.,65 cent.",518,100.0,False,positional,NATTIER,,,,
-BO0624_84213,133227,3,I,"fs,1668+Caen,1752..",674,97.1,False,positional,TOURNIERES,,,,
+BO0624_84213,133227,3,I,"fs,1668+Caen,1752..",674,97.1,False,positional,TOURNIERES,,,,Sec. XVII
 BO0624_84213,133228,4,46,Fleurs.,690,80.0,False,positional,VANDAEL,,,,
 BO0624_84213,133229,5,5,## 47 一,701,100.0,False,positional,VANDAEL,,,,
 BO0624_84213,133230,6,48,"Deux PLATEAux, decor bleu a la Berain. Ancienne faience de Moustiers.",728,98.5,False,positional,,,FAIENCES ET PORCELAINES,,

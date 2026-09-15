@@ -21,7 +21,7 @@ BO0624_83695,120011,19,38,Scene militaire.,374,90.9,False,positional,MEULEN,,,,
 BO0624_83695,120012,20,41,—,376,0.0,False,positional,MEULEN,,,,
 BO0624_83695,120013,21,40,— Portrait de jeune seigneur.,393,94.5,False,positional,NATTIER,,,,
 BO0624_83695,120014,22,45,## RIGAUD (HYAC.),408,100.0,False,title_direct,RIGAUD,,,,
-BO0624_83695,120015,23,42,"— Portrait de Louis de Bourbon, comte de Vermandois (fils de Mme de La Valliere, mort a Courtray, en 1683, a l'age de 16 ans).",410,98.7,False,positional,RIGAUD,,,,
+BO0624_83695,120015,23,42,"— Portrait de Louis de Bourbon, comte de Vermandois (fils de Mme de La Valliere, mort a Courtray, en 1683, a l'age de 16 ans).",410,98.7,False,positional,RIGAUD,,,,Sec. XVII
 BO0624_83695,120016,24,43,"perruque, vetu d'un costume de velours gris et enveloppe d'une draperie rose.",417,98.0,False,positional,RIGAUD,,,,
 BO0624_83695,120017,25,44,L'Heureuse mere.,425,90.9,False,positional,SAINT-AUBIN,,,,
 BO0624_83695,120018,26,48,## TENIERS(D.),446,100.0,False,title_direct,TENIERS,Scuola di Teniers,,,
@@ -58,7 +58,7 @@ BO0624_83695,120048,56,82,DESFRICHES. VUE PRISE DANS LE LOIRET.,665,95.9,False,p
 BO0624_83695,120049,57,83,DUCERCEAU (J.A.).PROJET DE CREDENCE.,673,95.5,False,positional,AUGUSTIN,,,,
 BO0624_83695,120050,58,86,— DUPLESSIS. SOLDATS JOUANT AUX CARTES.,691,95.9,False,title_direct,DUPLESSIS,,,,
 BO0624_83695,120051,59,87,"- 88.— EARLOM (Richard). PoRTRAIT DE LoRD ELIOTT, gouverneur de Gibraltar.",700,100.0,False,positional,DUNKER,,,,
-BO0624_83695,120052,60,89,ECOLE ITALIENNE DU XVI SIECLE.VASE DEcoRATIF avec une anse en forme de chimere supportant des figures; panse a go- drons et rinceaux.,706,91.4,False,positional,DUNKER,,VASI,,
+BO0624_83695,120052,60,89,ECOLE ITALIENNE DU XVI SIECLE.VASE DEcoRATIF avec une anse en forme de chimere supportant des figures; panse a go- drons et rinceaux.,706,91.4,False,positional,DUNKER,,VASI,,Sec. XVI
 BO0624_83695,120053,61,90,"A la plume rehausse de lavis. (H.0.30.—L.0,21.)",716,100.0,False,positional,DUNKER,,,,
 BO0624_83695,120054,62,92,"ARC DE TRIoMPHE, surmonte d'une statue equestre.",722,96.8,False,positional,DUNKER,,,,
 BO0624_83695,120055,63,95,"PoRTRAITs D'HOMMEs, en silhouettes. Neuf dessins au crayon noir sur fond de gouache. PoRTRAITs D'HOMMEs ET DE FEMMES, en silhouet-",741,77.5,False,positional,DUNKER,,,,
@@ -71,12 +71,12 @@ BO0624_83695,120061,69,102,GALOFRE.VUE DE ToLEDE.,771,91.3,False,positional,DUNK
 BO0624_83695,120062,70,103,"- GELLEE (Cl.), dit le Lorrain.PAYSAGE AU GRAND ARBRE, avec figures.",777,100.0,False,positional,DUNKER,,,,
 BO0624_83695,120063,71,104,"— GILLOT (C.). LA FESTE DU DIEU PAN. mportante composition avec de nombreuses figures de femmes, d'enfants et de Satyres. A ete gravee.",785,86.9,False,positional,DUNKER,,,,
 BO0624_83695,120064,72,105,GOYEN (J. Van). LA CHARRETTE.,791,92.3,False,positional,DUNKER,,,,
-BO0624_83695,120065,73,106,VUE DES REMPARTS DE DORDRECHT. Crayon et lavis. Signe et date 1638. CollectionPitcairn-Knowles.,801,97.8,False,positional,DUNKER,,,COLLEZIONE KNOWLES,
+BO0624_83695,120065,73,106,VUE DES REMPARTS DE DORDRECHT. Crayon et lavis. Signe et date 1638. CollectionPitcairn-Knowles.,801,97.8,False,positional,DUNKER,,,COLLEZIONE KNOWLES,Sec. XVII
 BO0624_83695,120066,74,107,"MARCHE AU BORD DE LA MER, nombreuses figures et barques.",802,96.4,False,positional,DUNKER,,,,
-BO0624_83695,120067,75,108,"— VILLAGE, église, cours d'eau et figures. Crayon et encre de Chine. Signe et date 1653. (H.O,12.—L.0,20.)",806,97.9,False,positional,DUNKER,,,,
+BO0624_83695,120067,75,108,"— VILLAGE, église, cours d'eau et figures. Crayon et encre de Chine. Signe et date 1653. (H.O,12.—L.0,20.)",806,97.9,False,positional,DUNKER,,,,Sec. XVII
 BO0624_83695,120068,76,109,"— PAYsAGE RUsTIQUE, avec figures. Crayon et lavis. (H.0,12.—L.0,23.) GRAVELOT (Attribue a).PARADE DANS LA CoUR",807,72.8,False,positional,DUNKER,,,,
 BO0624_83695,120069,77,110,D'UN CHATEAU.,809,85.7,False,positional,DUNKER,,,,
-BO0624_83695,120070,78,I,mportante composition signee et datee 1770.,816,98.8,False,positional,HACKERT,,,,
+BO0624_83695,120070,78,I,mportante composition signee et datee 1770.,816,98.8,False,positional,HACKERT,,,,Sec. XVIII
 BO0624_83695,120071,79,113,"HOIN (CI.). COMPOSITION ALLEGORIQUE EN L'HONNEUR DE MoNSIEUR, FRERE DU RoI, PrOtecteur des Arts et des Lettres, represente en buste. mportant dessin de lartiste fait alors qu'il desirait obtetenir le titre de:Peintre de Monsieur.(Voir Cl. Hoin,par le ba- ron Portalis, p.13.)",832,68.8,False,title_direct,HOIN,,,,
 BO0624_83695,120072,80,114,HUET (J.-B.). LE PASSAGE DU GUE.,838,92.9,False,title_direct,HUET,,,,
 BO0624_83695,120073,81,115,COMPOSITION DE PLUSIEURS PERSONNAGES.,844,94.7,False,positional,HALM,,,,
@@ -85,23 +85,23 @@ BO0624_83695,120075,83,118,HIsTOIRE DE LA REvOLUTIoN. Assemblée constituante.,8
 BO0624_83695,120076,84,1,"2. —— 20 juin 178g.— Entrée des Deputés dans le Jeu de Paume, a Versailles.",865,98.5,False,positional,HALM,,,,
 BO0624_83695,120077,85,20,juin 178g. — Les Deputes jurent de ne,866,95.8,False,positional,HALM,,,,
 BO0624_83695,120078,86,3,4. ——3o juin 178g.——Le peuple delivre les Gardes Francaises a la prison de l'Abbaye de Saint-Germain-,868,99.0,False,positional,HALM,,,,
-BO0624_83695,120079,87,5,"6. — 12 juillet 1789. ——Le Prince de Lambesc, a la tete d'un detachement du Royal-Allemand, charge le peuple dans le jardin des Tuileries.",871,99.2,False,positional,HALM,,,,
+BO0624_83695,120079,87,5,"6. — 12 juillet 1789. ——Le Prince de Lambesc, a la tete d'un detachement du Royal-Allemand, charge le peuple dans le jardin des Tuileries.",871,99.2,False,positional,HALM,,,,Sec. XVIII
 BO0624_83695,120080,88,7,8.—14 juillet 178g.—Le Gouverneur de la,874,97.4,False,positional,HALM,,,,
-BO0624_83695,120081,89,9,13 juillet 1789.-Pillage de la maison de Saint-Lazare.,879,98.1,False,positional,HALM,,,,
+BO0624_83695,120081,89,9,13 juillet 1789.-Pillage de la maison de Saint-Lazare.,879,98.1,False,positional,HALM,,,,Sec. XVIII
 BO0624_83695,120082,90,10,"11.—14 juillet.178g.—Le Marquis de Pelleport, voulant arracher le major de la Bastile des mains du peuple, est lui-meme pres d'expirer sous les coups de la hache d'un factieux.",881,99.1,False,positional,HALM,,,,
-BO0624_83695,120083,91,14,juillet 1789. M. de Launay.,885,96.0,False,positional,HALM,,,,
+BO0624_83695,120083,91,14,juillet 1789. M. de Launay.,885,96.0,False,positional,HALM,,,,Sec. XVIII
 BO0624_83695,120084,92,12,13.—14 juillet 178g.—Transport des canons des Invalides dont le peuple et les bourgeois s'étaient empares.,887,98.6,False,positional,HALM,,,,
-BO0624_83695,120085,93,14,15.—17 juillet 1789:Arrivee deLouis XVI dans la capitale.,891,97.3,False,positional,HALM,,,,
+BO0624_83695,120085,93,14,15.—17 juillet 1789:Arrivee deLouis XVI dans la capitale.,891,97.3,False,positional,HALM,,,,Sec. XVIII
 BO0624_83695,120086,94,17,"juillet 178g. Louis XVI se montre a l'une des fenetres de la grande salle de l'Hotel de Ville, la cocarde nationale au chapeau.",893,99.2,False,positional,HALM,,,,
 BO0624_83695,120087,95,16,17.—19 juillet 178g.-Emeute a Saint-Ger- main. Les membres d'une deputation de l'Assembiee Nationale a genoux devant le peuple pour le fechir et arracher a la mort le nomme Thomassin.,895,99.2,False,positional,HALM,,,,
 BO0624_83695,120088,96,23,juillet 178g.— Supplice de Foulon sur la,897,96.2,False,positional,HALM,,,,
 BO0624_83695,120089,97,18,17 aoit 178g.—Monsieur Walche apaise des furieux qui veulent ravager le chateau de Chassenon en leur faisant preparer un repas.,899,98.8,False,positional,HALM,,,,
 BO0624_83695,120090,98,19,20. —2 aout 178g. —Emeute de Saint-Denis. Massacre du lieutenant de Maire.,903,97.8,False,positional,HALM,,,,
-BO0624_83695,120091,99,5,octobre 1789. —Les femmes voulant pendre labbe Lefevre et les hommes voulant incendier les papiers (cour de l'Hotel de Ville).,905,99.2,False,positional,HALM,,,,
+BO0624_83695,120091,99,5,octobre 1789. —Les femmes voulant pendre labbe Lefevre et les hommes voulant incendier les papiers (cour de l'Hotel de Ville).,905,99.2,False,positional,HALM,,,,Sec. XVIII
 BO0624_83695,120092,100,21,"22. —5 octobre 178g. —Les dames de la Halle partent pour aller chercher le Roi, a Versailles.",906,98.3,False,positional,HALM,,,,
 BO0624_83695,120093,101,8,"fevrier1790.— Apres l'execution des deux freres Agasse, leurs corps sont remis a leur famille.",908,99.4,False,positional,HALM,,,,
-BO0624_83695,120094,102,23,24.—14juillet 1790.——Passage des federes au quai de la Conference.,910,97.6,False,positional,HALM,,,,
-BO0624_83695,120095,103,25,"26.3 aoit 1790.—Devouement du jeune Desilles a la porte Stainville, a Nancy.",914,98.0,False,positional,HALM,,,,
+BO0624_83695,120094,102,23,24.—14juillet 1790.——Passage des federes au quai de la Conference.,910,97.6,False,positional,HALM,,,,Sec. XVIII
+BO0624_83695,120095,103,25,"26.3 aoit 1790.—Devouement du jeune Desilles a la porte Stainville, a Nancy.",914,98.0,False,positional,HALM,,,,Sec. XVIII
 BO0624_83695,120096,104,119,119. RAMEAUX.,921,100.0,False,positional,HALM,,,,
 BO0624_83695,120097,105,120,120.,929,66.7,False,positional,HALM,,,,
 BO0624_83695,120098,106,121,- LANCRET (N.).TROIS ETUDES D'HOMME.,930,100.0,False,positional,HALM,,,,
@@ -182,7 +182,7 @@ BO0624_83695,120172,180,197,— WATTEAU (Fr.). F1GURES DE MODES. ancien Louis XV
 BO0624_83695,120173,181,198,—- DEUx FIGUREs DE MODEs. Femmes assises. A la mine de plomb.,1318,75.8,False,positional,HALM,,,,
 BO0624_83695,120174,182,199,—- WATTEAU (de Lille). AssEMBLEE DANS UN PARC. Esquisse au crayon.,1320,77.2,False,title_direct,WATTEAU,,,,
 BO0624_83695,120175,183,200,"—WILLE. PORTRAIT DE LA MERE DU PEINTRE GREUZE. Beau dessin a la sanguine. (H.0,33.—L.0,26.)",1322,97.6,False,title_direct,GREUZE,,,,
-BO0624_83695,120176,184,4,"201.— WILLE (P.-A.), le Fils. CosTUMES DE L'AN VI (1796). Fin dessin au trait de bistre. (H.0,28.—L.0,21.)",1323,98.9,False,positional,HALM,,,,
+BO0624_83695,120176,184,4,"201.— WILLE (P.-A.), le Fils. CosTUMES DE L'AN VI (1796). Fin dessin au trait de bistre. (H.0,28.—L.0,21.)",1323,98.9,False,positional,HALM,,,,Sec. XVIII
 BO0624_83695,120177,185,202,"ANONYME. Modeles de BouToNs, formes de trophées, avec instruments de musique, motifs differents graves a l'aquatinte sur une seule planche.",1327,69.2,False,positional,,,GRAVURES,,
 BO0624_83695,120178,186,203,"BAUDoUIN (D'apres P.-A.). α Jusque dans la moindre chose 》, par Masquelier.",1332,97.1,False,positional,,,GRAVURES,,
 BO0624_83695,120179,187,204,"—BONNET.α The Amiable family ), d'apres Hombert.",1336,95.6,False,positional,,,GRAVURES,,
@@ -195,67 +195,67 @@ BO0624_83695,120185,193,210,—MOREAU le Jeune (D'apres J-M.). A LA REINE.,1367,
 BO0624_83695,120186,194,21,1.—— SAINT-AUBIN (Aug.). LA FAMILLE ROYALE.,1371,95.9,False,title_direct,SAINT-AUBIN,,,,
 BO0624_83695,120187,195,212,"TOUZE (D'apres). PoRTRAIT DE MARIE-ANTO1NETTE D'AuTRICHE, reine de France et de Navarre, par Duflos.",1377,97.9,False,positional,,,GRAVURES,,
 BO0624_83695,120188,196,213,"— VERNET (D'apres Carle). NAPOLEON ET sON ETAT-MAJoR, par Levachez.",1381,96.8,False,positional,VERNET CLAUDE JOSE,,GRAVURES,,
-BO0624_83695,120189,197,214,"—La Chanson des Gueux, par J. RIcHEPIN. Paris, M.Dreyfous, 1185, avec le fascicule des pieces supprimees (Londres,1885). Dessins originaux, portraits et illustrations dans et hors texte, par A.-A. HaNNoTEAU, 2 vol. in-4, brochés.",1386,99.1,False,positional,,,LIVRES,,
-BO0624_83695,120190,198,2,"215.La Mer, par J. RicHEPIN. Paris, M. Dreyfous, 1886. Portraits et illustrations, par A.-A. HANNoTEAU, I vol. in-4, broche.",1387,99.1,False,positional,,,LIVRES,,
+BO0624_83695,120189,197,214,"—La Chanson des Gueux, par J. RIcHEPIN. Paris, M.Dreyfous, 1185, avec le fascicule des pieces supprimees (Londres,1885). Dessins originaux, portraits et illustrations dans et hors texte, par A.-A. HaNNoTEAU, 2 vol. in-4, brochés.",1386,99.1,False,positional,,,LIVRES,,Sec. XII
+BO0624_83695,120190,198,2,"215.La Mer, par J. RicHEPIN. Paris, M. Dreyfous, 1886. Portraits et illustrations, par A.-A. HANNoTEAU, I vol. in-4, broche.",1387,99.1,False,positional,,,LIVRES,,Sec. XIX
 BO0624_83695,120191,199,3,"2 16.—Le Conservatoire.de la Danse moderne, Charges Parisiennes. Paris, chez Aubert.—Suite de 12 pl. lithogr. col., Par QuILi.EBoIs, I vol. cart.",1388,99.3,False,positional,,,LIVRES,,
-BO0624_83695,120192,200,4,"217.—Masques et Visages, par GAvARN1. Paris, 1868, 1 vol. toile.",1389,98.3,False,positional,,,LIVRES,,
-BO0624_83695,120193,201,5,"2 18. -- Chants et chansons populaires de la France, Notices par M.Du MeRsAN. Paris, Delloye, 1843. Nombreuses illustrations par TRIMOLET,STENHEIL,DAUBIGNY,STAAL, E.DE BEAUMONT,DUBOULOZ,NARGEOT,J. BoILLY,MEISSONIEr, etc., 3 vol. in-4, demi-rel. mar. rouge av. coins,",1390,99.6,False,positional,BOILLY JULES,,LIVRES,,
+BO0624_83695,120192,200,4,"217.—Masques et Visages, par GAvARN1. Paris, 1868, 1 vol. toile.",1389,98.3,False,positional,,,LIVRES,,Sec. XIX
+BO0624_83695,120193,201,5,"2 18. -- Chants et chansons populaires de la France, Notices par M.Du MeRsAN. Paris, Delloye, 1843. Nombreuses illustrations par TRIMOLET,STENHEIL,DAUBIGNY,STAAL, E.DE BEAUMONT,DUBOULOZ,NARGEOT,J. BoILLY,MEISSONIEr, etc., 3 vol. in-4, demi-rel. mar. rouge av. coins,",1390,99.6,False,positional,BOILLY JULES,,LIVRES,,Sec. XIX
 BO0624_83695,120194,202,6,tr.dor.,1391,85.7,False,positional,,,LIVRES,,
 BO0624_83695,120195,203,7,"Recueil de Chansons revolutionnaires. Suite de 125 morceaux numerotes avec musique, portant le timbre (o,15) de la Republique. Suivi d'autres chansons",1392,99.3,False,positional,,,LIVRES,,
 BO0624_83695,120196,204,219,"manuscrites. 1 vol. in-8, mar. rouge. nteressant recueil.",1393,73.6,False,positional,,,LIVRES,,
-BO0624_83695,120197,205,220,"Euvres de Moliere, précedees d'une notice sur sa vie et ses ouvrages, par M. SAINTE-BeuvE. Paris, 1835; illustrat. par T. JoHANNoT, 2 vol. in-8, non rognes, demi-rel.",1397,98.7,False,positional,,,LIVRES,,
+BO0624_83695,120197,205,220,"Euvres de Moliere, précedees d'une notice sur sa vie et ses ouvrages, par M. SAINTE-BeuvE. Paris, 1835; illustrat. par T. JoHANNoT, 2 vol. in-8, non rognes, demi-rel.",1397,98.7,False,positional,,,LIVRES,,Sec. XIX
 BO0624_83695,120198,206,22,"1. -Il Callotto resuscitato. Suite de 1 frontispice et 48 planches gravees et coloriees de grotesques avec legendes, au milieu d'encadrements differents d'arabesques et de",1398,99.1,False,positional,,,LIVRES,,
 BO0624_83695,120199,207,222,"Editions Cazin. Suite de 24 vol. parmi lesquels : les Contes de La Fontaine, Euvres de Grecourt, de Chaulieu, de Rabelais,la Jerusalem delivree, les Sai-",1400,98.6,False,positional,,,LIVRES,,
-BO0624_83695,120200,208,223,"Histoire du regne de Louis XIv. Amsterdam, 1717,",1411,95.7,False,positional,,,LIVRES,,
+BO0624_83695,120200,208,223,"Histoire du regne de Louis XIv. Amsterdam, 1717,",1411,95.7,False,positional,,,LIVRES,,Sec. XVIII
 BO0624_83695,120201,209,2,"Tome V. 1 vol. in-18, v. marb. aux armes de la Marquise de Pompadour.",1412,98.4,False,positional,,,LIVRES,,
-BO0624_83695,120202,210,3,"La Fraude, comedia nuova di A. BADALuccHIo. Venezia, 1597, 1 vol. pet. in-8, veau marb. filets, aux armes de la Marquise de Pompadour, 2 vol.",1413,99.2,False,positional,,,LIVRES,,
-BO0624_83695,120203,211,224,"—Recueil de differentes brochures. Paris, 1768, 1 vol. in-8, mar. rouge, fl. tr. dor. (Rel. anc.)",1414,97.6,False,positional,,,LIVRES,,
-BO0624_83695,120204,212,225,"— Lycoris, ou la Courtisane grecque. Amsterdam, 1746,",1418,95.9,False,positional,,,LIVRES,,
+BO0624_83695,120202,210,3,"La Fraude, comedia nuova di A. BADALuccHIo. Venezia, 1597, 1 vol. pet. in-8, veau marb. filets, aux armes de la Marquise de Pompadour, 2 vol.",1413,99.2,False,positional,,,LIVRES,,Sec. XVI
+BO0624_83695,120203,211,224,"—Recueil de differentes brochures. Paris, 1768, 1 vol. in-8, mar. rouge, fl. tr. dor. (Rel. anc.)",1414,97.6,False,positional,,,LIVRES,,Sec. XVIII
+BO0624_83695,120204,212,225,"— Lycoris, ou la Courtisane grecque. Amsterdam, 1746,",1418,95.9,False,positional,,,LIVRES,,Sec. XVIII
 BO0624_83695,120205,213,2,vignette sur titre. Suivi du,1419,96.4,False,positional,,,LIVRES,,
-BO0624_83695,120206,214,3,"Reglement pour l'opera de Paris; a Utopie, chez Thomas Morus, 1748 (Meunier de Querlon), front. par BoucHER et CocHIN fils. En un vol. in-I2, v. éc.",1420,99.3,False,positional,BOUCHER FRANCOIS,,LIVRES,,
+BO0624_83695,120206,214,3,"Reglement pour l'opera de Paris; a Utopie, chez Thomas Morus, 1748 (Meunier de Querlon), front. par BoucHER et CocHIN fils. En un vol. in-I2, v. éc.",1420,99.3,False,positional,BOUCHER FRANCOIS,,LIVRES,,Sec. XVIII
 BO0624_83695,120207,215,4,tr.r.,1421,80.0,False,positional,,,LIVRES,,
 BO0624_83695,120208,216,5,"226.—Les Amours pastorales de Daphnis et Chloe, par Lo-",1422,98.1,False,positional,,,LIVRES,,
-BO0624_83695,120209,217,6,"GUs, 1718. Petit in-8 avec 1 front. par CoypEL et 28 fig. par le Regent, gravées par AuDRAN, la 29° fig. les Petits pieds, par le Cte De CayLus.",1423,99.3,False,positional,COYPEL CHARLES ANTOINE,,LIVRES,,
-BO0624_83695,120210,218,227,"—— Le Decameron, par J. BoccAcE, traduit par Le Macon. Londres (Paris), 1757. Portrait, figures et culs-de-lampe, par BouCHER, EisEN, GRAvELoT, etc. 5 vol. in-8, mar. rouge, fil. tr. dor. (Rel.anc.)",1428,98.8,False,positional,BOUCHER FRANCOIS,,OGGETTI IN FERRO,,
-BO0624_83695,120211,219,228,"— Les Metamorphoses d'Ovide, en latin et en francais, de la traduction de M. 1labbe BAN1Er. Paris, 1767-1771, fig. 4 vol. in-4, veau marb. v. tr. jas. (Rel. anc.)",1432,98.6,False,positional,,,LIVRES,,
+BO0624_83695,120209,217,6,"GUs, 1718. Petit in-8 avec 1 front. par CoypEL et 28 fig. par le Regent, gravées par AuDRAN, la 29° fig. les Petits pieds, par le Cte De CayLus.",1423,99.3,False,positional,COYPEL CHARLES ANTOINE,,LIVRES,,Sec. XVIII
+BO0624_83695,120210,218,227,"—— Le Decameron, par J. BoccAcE, traduit par Le Macon. Londres (Paris), 1757. Portrait, figures et culs-de-lampe, par BouCHER, EisEN, GRAvELoT, etc. 5 vol. in-8, mar. rouge, fil. tr. dor. (Rel.anc.)",1428,98.8,False,positional,BOUCHER FRANCOIS,,OGGETTI IN FERRO,,Sec. XVIII
+BO0624_83695,120211,219,228,"— Les Metamorphoses d'Ovide, en latin et en francais, de la traduction de M. 1labbe BAN1Er. Paris, 1767-1771, fig. 4 vol. in-4, veau marb. v. tr. jas. (Rel. anc.)",1432,98.6,False,positional,,,LIVRES,,Sec. XVIII
 BO0624_83695,120212,220,2,229.—,1433,75.0,False,positional,,,LIVRES,,
 BO0624_83695,120213,221,3,"Les Amours de Psyche et de Cupidon, avec le poeme d'Adonis, par LA FoNTAINE. Edition ornée de fig. dessinees par Moreau le Jeune et gravees sous sa direction. Paris, Didot le Jeune, l'an 3. Papier vélin, 1 vol. in-4, v. marb. fil. et palm., tr. dor. (Rel. anc.)",1434,99.6,False,positional,MOREAU GUSTAVE,,LIVRES,,
 BO0624_83695,120214,222,4,"23o.— Euvres de Seneque. Elzevir, Lyon, 164o, fig. Ex.",1435,97.9,False,positional,,,LIVRES,,
 BO0624_83695,120215,223,5,"libris J. T. Aubry, grave par MARTINET, 3 vol. in-18, mar. rouge jans. dos orné d'aigles, tr. dor. (Rel. anc.)",1436,99.0,False,positional,,,LIVRES,,
 BO0624_83695,120216,224,6,"231.—Livret des emblemes de Maitre Andre Alciat, mises",1437,98.1,False,positional,,,LIVRES,,
-BO0624_83695,120217,225,7,"en rimes francoises et presentes a Mgr lAmiral de France. Paris, Chretien Wechel, 1536. Nombreuses planches sur bois, 1 vol. in-12. (Rel. mod.)",1438,99.2,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_83695,120217,225,7,"en rimes francoises et presentes a Mgr lAmiral de France. Paris, Chretien Wechel, 1536. Nombreuses planches sur bois, 1 vol. in-12. (Rel. mod.)",1438,99.2,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_83695,120218,226,8,232.,1439,75.0,False,positional,,,LIVRES,,
-BO0624_83695,120219,227,9,"— Catalogue historique de peinture et sculpture francaise de M. Lalive,introducteur des Ambassadeurs, etc. Paris, 1764, Portrait et fig. par LALivE DE JuLLy. 1 vol. in-8, mar. v., fil. tr. dor. (Rel. anc.)",1440,99.5,False,positional,,,LIVRES,,
-BO0624_83695,120220,228,233,"— Catalogue raisonné d'une collection considerable de diverses curiosites en tous genres contenues dans les cabinets de feu M. Bouner de la Mosson, par E.-F. Gersaint. Paris, 1744, front. par BoucHER, suivi du",1441,99.0,False,positional,BOUCHER FRANCOIS,,OGGETTI VARI,,
-BO0624_83695,120221,229,11,"— Catalogue raisonne de coquilles et autres curiosites naturelles par M. GERsAINT. Paris, 1736, front. par BoucHEr. 2 catal. en I vol. in-12, v. mar. fil. tr. dor. (Rel. anc., prix marques.)",1442,99.1,False,positional,BOUCHER FRANCOIS,,OGGETTI VARI,,
+BO0624_83695,120219,227,9,"— Catalogue historique de peinture et sculpture francaise de M. Lalive,introducteur des Ambassadeurs, etc. Paris, 1764, Portrait et fig. par LALivE DE JuLLy. 1 vol. in-8, mar. v., fil. tr. dor. (Rel. anc.)",1440,99.5,False,positional,,,LIVRES,,Sec. XVIII
+BO0624_83695,120220,228,233,"— Catalogue raisonné d'une collection considerable de diverses curiosites en tous genres contenues dans les cabinets de feu M. Bouner de la Mosson, par E.-F. Gersaint. Paris, 1744, front. par BoucHER, suivi du",1441,99.0,False,positional,BOUCHER FRANCOIS,,OGGETTI VARI,,Sec. XVIII
+BO0624_83695,120221,229,11,"— Catalogue raisonne de coquilles et autres curiosites naturelles par M. GERsAINT. Paris, 1736, front. par BoucHEr. 2 catal. en I vol. in-12, v. mar. fil. tr. dor. (Rel. anc., prix marques.)",1442,99.1,False,positional,BOUCHER FRANCOIS,,OGGETTI VARI,,Sec. XVIII
 BO0624_83695,120222,230,12,"234.— Catalogue raisonne des tableaux, dessins et estampes, etc., apres le deces de M. de Julienne, par",1443,98.4,False,positional,,,STAMPE E INCISIONI,,
 BO0624_83695,120223,231,2,(Prix marques et noms.),1445,95.2,False,positional,,,LIVRES,,
-BO0624_83695,120224,232,235,"— Catalogue detableaux, dessins, estampes, bronzes, etc., dont la vente se fera a l'hotel d'Alligre le 15 decembre 1777, sous la direction de M. A. PAiLLET (quelques prix). Suivi d'un catal. de vente par le meme expert et du Catalogue d'une belle collection de tableaux, gouaches, etc., par Le BruN peintre 1782, avec les prix et les noms et quelques illustrations en marge a la plume et au crayon. I vol in-I2,v. éc.(Rel.anc.)",1446,99.5,False,positional,LE BRUN CHARLES,,STAMPE E INCISIONI,,
+BO0624_83695,120224,232,235,"— Catalogue detableaux, dessins, estampes, bronzes, etc., dont la vente se fera a l'hotel d'Alligre le 15 decembre 1777, sous la direction de M. A. PAiLLET (quelques prix). Suivi d'un catal. de vente par le meme expert et du Catalogue d'une belle collection de tableaux, gouaches, etc., par Le BruN peintre 1782, avec les prix et les noms et quelques illustrations en marge a la plume et au crayon. I vol in-I2,v. éc.(Rel.anc.)",1446,99.5,False,positional,LE BRUN CHARLES,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_83695,120225,233,4,236.—Catalogue d'une riche collection de tableaux des,1447,98.1,False,positional,,,LIVRES,,
-BO0624_83695,120226,234,5,"maitres les plus celebres des trois écoles, dessins, etc., qui composent le cabinet de feue S.A.S. Msr le Prince de Conti, prince du sang et grand prieur de France. Paris, 1777,frontisp. par MorEAu le Jeune, in-12. cart. (Prix marques.)",1448,99.5,False,positional,MOREAU ADRIAN,,LIVRES,,
-BO0624_83695,120227,235,6,"237.— Catalogue de tableaux et dessins precieux des maitres celebres des trois écoles, figures de marbre, etc., du cabinet de feu M. Randon de Boisset, par P. ReMy. Paris, 1777. Suivi du Catologue des vases, colonnes de marbre, etc., faisant partie du meme cabinet. Vendu par",1449,99.6,False,positional,,,VASI,,
+BO0624_83695,120226,234,5,"maitres les plus celebres des trois écoles, dessins, etc., qui composent le cabinet de feue S.A.S. Msr le Prince de Conti, prince du sang et grand prieur de France. Paris, 1777,frontisp. par MorEAu le Jeune, in-12. cart. (Prix marques.)",1448,99.5,False,positional,MOREAU ADRIAN,,LIVRES,,Sec. XVIII
+BO0624_83695,120227,235,6,"237.— Catalogue de tableaux et dessins precieux des maitres celebres des trois écoles, figures de marbre, etc., du cabinet de feu M. Randon de Boisset, par P. ReMy. Paris, 1777. Suivi du Catologue des vases, colonnes de marbre, etc., faisant partie du meme cabinet. Vendu par",1449,99.6,False,positional,,,VASI,,Sec. XVIII
 BO0624_83695,120228,236,7,C.-F. Julliot. 1 vol. in-12 cart. (Prix marques.),1450,97.6,False,positional,,,LIVRES,,
 BO0624_83695,120229,237,238,"— Le meme catalogue. I vol. in-12, v. f. fl. tr. dor.",1451,95.6,False,positional,,,LIVRES,,
 BO0624_83695,120230,238,239,"— Album de papier blanc ancien. In-4, mar. rouge, fil. armoiries sur les plats.",1452,97.3,False,positional,,,PIATTI,,
-BO0624_83695,120231,239,240,"Almanach dedie aux Dames (1824). Chez Le Fuel et Delaunay. Titre avec vignette et 6 fig. In-16, mar. rouge, plats et dos ornes. Etui anal. vol.",1456,97.0,False,positional,,,PIATTI,,
+BO0624_83695,120231,239,240,"Almanach dedie aux Dames (1824). Chez Le Fuel et Delaunay. Titre avec vignette et 6 fig. In-16, mar. rouge, plats et dos ornes. Etui anal. vol.",1456,97.0,False,positional,,,PIATTI,,Sec. XIX
 BO0624_83695,120232,240,241,"— Les Beaux caprices d'un jeune poete (18og). Chez Janet. Titre et 12 fig.avec texte grave. In-64, cart. tr.",1461,98.0,False,positional,,,LIVRES,,
 BO0624_83695,120233,241,2,dor.,1462,75.0,False,positional,DIETRICH MONTEN HEINRICH MARIA,,LIVRES,,
-BO0624_83695,120234,242,3,—Les Souvenirs d'un Troubadour (1815). Chez Janet.,1463,97.8,False,positional,,,LIVRES,,
+BO0624_83695,120234,242,3,—Les Souvenirs d'un Troubadour (1815). Chez Janet.,1463,97.8,False,positional,,,LIVRES,,Sec. XIX
 BO0624_83695,120235,243,4,"Titre avec vignette et 8 fig. In-32, cart. (Non decrit.)",1464,98.0,False,positional,,,LIVRES,,
-BO0624_83695,120236,244,5,—L'Oiseau bleu (1822). Chez Janet. Titre avec vignette et 8 fig. par S. Le Roy. In-32 cart. rose. Etui anal.,1465,99.0,False,positional,,,LIVRES,,
+BO0624_83695,120236,244,5,—L'Oiseau bleu (1822). Chez Janet. Titre avec vignette et 8 fig. par S. Le Roy. In-32 cart. rose. Etui anal.,1465,99.0,False,positional,,,LIVRES,,Sec. XIX
 BO0624_83695,120237,245,6,—Le Temple de la Vertu (i828). Chez Le Fuel. Titre avec vignette et 6 fig. Calendrier encadré d'une vignette.,1466,99.0,False,positional,,,LIVRES,,
 BO0624_83695,120238,246,7,"In-32, cart. rose, bord. dor. (Incompletement decrit.)",1467,97.9,False,positional,,,LIVRES,,
 BO0624_83695,120239,247,4,volumes.,1469,93.3,False,positional,,,LIVRES,,
-BO0624_83695,120240,248,242,"—La Morale du Coeur (pour lannee 1812). Chez Janet. Titre et 6 fig. Recueil de poesies charmantes.In-64, mar.",1471,98.1,False,positional,,,LIVRES,,
+BO0624_83695,120240,248,242,"—La Morale du Coeur (pour lannee 1812). Chez Janet. Titre et 6 fig. Recueil de poesies charmantes.In-64, mar.",1471,98.1,False,positional,,,LIVRES,,Sec. XIX
 BO0624_83695,120241,249,2,rouge orne. Etui anal.,1472,95.2,False,positional,,,LIVRES,,
-BO0624_83695,120242,250,3,"—Joconde ou les Coureurs d'Aventures (1815). Chez Janet. Titre et 6 fig. de S. LE Roy. In-24, mar. rouge avec grecque. Etui analogue.",1473,99.2,False,positional,,,LIVRES,,
-BO0624_83695,120243,251,4,"—Le Petit chansonnier du dix-huitieme siecle (1815). Chez Le Fuel. Titre et 5 fig. par S. Le Roy. In-32, broche.",1474,99.0,False,positional,,,LIVRES,,
-BO0624_83695,120244,252,5,"—Rose et Pensee (1828).A Paris, chez Marcilly.",1475,97.6,False,positional,,,LIVRES,,
+BO0624_83695,120242,250,3,"—Joconde ou les Coureurs d'Aventures (1815). Chez Janet. Titre et 6 fig. de S. LE Roy. In-24, mar. rouge avec grecque. Etui analogue.",1473,99.2,False,positional,,,LIVRES,,Sec. XIX
+BO0624_83695,120243,251,4,"—Le Petit chansonnier du dix-huitieme siecle (1815). Chez Le Fuel. Titre et 5 fig. par S. Le Roy. In-32, broche.",1474,99.0,False,positional,,,LIVRES,,Sec. XIX
+BO0624_83695,120244,252,5,"—Rose et Pensee (1828).A Paris, chez Marcilly.",1475,97.6,False,positional,,,LIVRES,,Sec. XIX
 BO0624_83695,120245,253,6,"Titre et 6 fig. avec un Souvenir des Dames. In-32, décousu.",1476,98.2,False,positional,,,LIVRES,,
 BO0624_83695,120246,254,4,volumes.,1478,93.3,False,positional,,,LIVRES,,
 BO0624_83695,120247,255,243,"Almanach du bel age, ou les Charmes de la bienfaisance (18io). Chez Le Fuel. Titre et 6 fig. non signees. In-32, mar. rouge orne. volumes.",1480,95.2,False,positional,,,LIVRES,,
-BO0624_83695,120248,256,244,Les Petits riens (1812). Chez Janet. Titre avec vignette et 6 fig. (Incomplet de 2 fig. et 4 feuillets de texte volumes.,1485,94.5,False,positional,,,LIVRES,,
-BO0624_83695,120249,257,245,"— Les Etrennes de Polymnie, ou choix d'Ariettes, nouvelles de l'Opera-Comique et du Vaudeville. A Paris, chez Janet (1810). 1 titre grave et6 fig. In-32, mar.rouge, plats ornes avec motifs de 2 tourterelles se becquetant sur un fambeau et un carquois,tr. dor. Etui mar. rouge.",1492,99.2,False,positional,,,PIATTI,,
+BO0624_83695,120248,256,244,Les Petits riens (1812). Chez Janet. Titre avec vignette et 6 fig. (Incomplet de 2 fig. et 4 feuillets de texte volumes.,1485,94.5,False,positional,,,LIVRES,,Sec. XIX
+BO0624_83695,120249,257,245,"— Les Etrennes de Polymnie, ou choix d'Ariettes, nouvelles de l'Opera-Comique et du Vaudeville. A Paris, chez Janet (1810). 1 titre grave et6 fig. In-32, mar.rouge, plats ornes avec motifs de 2 tourterelles se becquetant sur un fambeau et un carquois,tr. dor. Etui mar. rouge.",1492,99.2,False,positional,,,PIATTI,,Sec. XIX
 BO0624_83695,120250,258,246,"— Le Soufle de Zephire (18o9). Chez Janet. Titre grave avec vignette, 1o8 pages de texte imprimé et 6 fig. par MAssoL, d'apres S. Le Roy, suivi du Souvenir ou Tablettes a l'usage des Dames. In-24, mar. rouge jans. tr. dor. (Non decrit.) volumes.",1493,97.3,False,positional,,,LIVRES,,
 BO0624_83695,120251,259,247,"—— Le Petit Florian, ou Recueil de Romances pastorales. A Paris, chez Janet (année 18o7). Un titre grave et 12 fi- gures non signees. In-32, mar. rouge orné, tr. dor.",1500,80.6,False,positional,,,LIVRES,,
 BO0624_83695,120252,260,248,"— Etrennes de Minerve a l'Adolescence. A Paris, chez Janet (an VIIl). Un titre grave et 12 figures de DoRGEz. In-64 relie en soie brodee a paillettes.",1503,79.1,False,positional,,,LIVRES,,
@@ -265,66 +265,66 @@ BO0624_83695,120255,263,251,"1 Manuel de Piete a l'usage des Voyageurs. A Chaalo
 BO0624_83695,120256,264,252,"— Le Joujou des enfants. Almanach pour l'an 18o2. A Paris, chez Janet. Recueil de chansons et devises orne de 8 fig. In-128, mar. rouge orne. (Non decrit.)",1511,98.6,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120257,265,2,"—Le Favori des enfants. Almanach pour 18og.A Paris, chez Janet. 8 planches, avec devises pour demoiselles et garcons. In-128, mar. rouge orne.",1512,99.3,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120258,266,3,"Le Petit bijou des Dames. A Paris, chez Marcilly",1513,97.9,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120259,267,4,"(1818), 8 petites figures. In-128, mar. rouge orne. (Non decrit.)",1514,98.2,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120259,267,4,"(1818), 8 petites figures. In-128, mar. rouge orne. (Non decrit.)",1514,98.2,False,positional,,,ALMANACHS MINUSCULES,,Sec. XIX
 BO0624_83695,120260,268,5,"Le Petit chanteur pour 181g. A Paris, chez Louis Janet. Recueil de chansons et devises, orne de 8 fig. In-128, mar.rouge orne.",1515,99.2,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120261,269,6,"Le Tableau de la vie. Annee 182o. A Paris, chez Mozard. Recueil de chansons orne de 8 fig. In-128, mar. rouge orne.",1516,99.1,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120262,270,7,"一1 Les Jeux de l'amour. Annee 1S2o. A Paris. Recueil de chansons orné de 8 fig. In-128, mar. vert orne. Etui semblable avec trophees.",1517,99.2,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120263,271,253,"Le Jardin des ames sensible (sic).Almanach. Orne de jolies gravures. A Paris, chez Janet (annee 1797). Texte grave, 1 titre frontispice et 12 tres jolies figures de DoRGEz, enluminées du temps. In-32, mar. rouge orne sur les plats d'une dent. et d'un medaillon avec figures, tr. dor.",1520,99.3,False,positional,DU JARDIN KAREL,,PIATTI,,
-BO0624_83695,120264,272,254,"L'Empire de la beaute par les élements,les ages et les saisons. Etrenne au beau sexe. A Paris, chez Janet (1796-97). 1 titre grave et 12 figures; un des jolis almanachs de cette époque. In-24, mar. vert, petite dent. tr. dor.",1521,99.1,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120265,273,255,— Les Finesses cousues de fil blanc ou les Aventures chez Janet (Calendrier pour lannee bissextile 1796). i titre grave et 12 figures dans le genre de DoRGEz.,1522,98.7,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120263,271,253,"Le Jardin des ames sensible (sic).Almanach. Orne de jolies gravures. A Paris, chez Janet (annee 1797). Texte grave, 1 titre frontispice et 12 tres jolies figures de DoRGEz, enluminées du temps. In-32, mar. rouge orne sur les plats d'une dent. et d'un medaillon avec figures, tr. dor.",1520,99.3,False,positional,DU JARDIN KAREL,,PIATTI,,Sec. XVIII
+BO0624_83695,120264,272,254,"L'Empire de la beaute par les élements,les ages et les saisons. Etrenne au beau sexe. A Paris, chez Janet (1796-97). 1 titre grave et 12 figures; un des jolis almanachs de cette époque. In-24, mar. vert, petite dent. tr. dor.",1521,99.1,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
+BO0624_83695,120265,273,255,— Les Finesses cousues de fil blanc ou les Aventures chez Janet (Calendrier pour lannee bissextile 1796). i titre grave et 12 figures dans le genre de DoRGEz.,1522,98.7,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120266,274,256,"— Etrenne des neuf sceurs. Dedie a lAmour. A Paris, chez Blanmayeur (an IV). Titre grave et 12 jolies figures. In-32, mar. rouge richement orné sur les plats,",1524,98.6,False,positional,,,PIATTI,,
-BO0624_83695,120267,275,257,"A Almanach des Folies de l'amour, ou le Tribut de 1'amitie au beau sexe. A Paris, chez Jubert (annee 1795). I titre grave (avec seulement l'indication de Jubert éditeur) et 1o tres jolies figures (deux manquent) de DorGEz, coloriees du temps. In-32, mar. rouge avec plats ornes,",1526,99.2,False,positional,,,PIATTI,,
+BO0624_83695,120267,275,257,"A Almanach des Folies de l'amour, ou le Tribut de 1'amitie au beau sexe. A Paris, chez Jubert (annee 1795). I titre grave (avec seulement l'indication de Jubert éditeur) et 1o tres jolies figures (deux manquent) de DorGEz, coloriees du temps. In-32, mar. rouge avec plats ornes,",1526,99.2,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_83695,120268,276,258,"— L'Apologie de la Tendresse ou le Pouvoir de l'Amitie. A Paris, chez Janet (an 3). 1 titre et 12 jolies figures non signées. In-32, riche reliure en mar. rouge avec large dent. encadrant un medaillon avec sujet et la devise: Il me conduit, tr. dor. Etui de mar. rouge orne.",1528,99.2,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120269,277,259,— L'Amant trompe par l'amour etc. (1793). Titre grave,1529,95.9,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120270,278,26,"o.— Toujours de lAmour,Almanach nouveau sur les plus jolis Airs. Chez Janet (1792). Titre gravé et 12 fig. attribuees a DoRGEz. In-32. Cart. imitant le mar. avec vi-",1531,99.4,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120269,277,259,— L'Amant trompe par l'amour etc. (1793). Titre grave,1529,95.9,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
+BO0624_83695,120270,278,26,"o.— Toujours de lAmour,Almanach nouveau sur les plus jolis Airs. Chez Janet (1792). Titre gravé et 12 fig. attribuees a DoRGEz. In-32. Cart. imitant le mar. avec vi-",1531,99.4,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120271,279,261,"— Les Meurs des premiers ages, etc. A Paris, chez",1534,95.7,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120272,280,262,"Le Fanal des Patriotes ou les LXxxIlI Departements. Almanach orne de jolies gravures. A Paris, chez Janet, beau-frere et successeur du S Jubert, doreur (année 1791). 1 titre grave par DoRGez portant en tete la devise: Vivre libre ou mourir, et 6 tres jolies figures par DoRGEz, enluminees du temps,qui font de ce petit almanach un des plus jolis de l'époque. In-24,relie en",1536,99.4,False,positional,,,STAMPE E INCISIONI,,
+BO0624_83695,120272,280,262,"Le Fanal des Patriotes ou les LXxxIlI Departements. Almanach orne de jolies gravures. A Paris, chez Janet, beau-frere et successeur du S Jubert, doreur (année 1791). 1 titre grave par DoRGez portant en tete la devise: Vivre libre ou mourir, et 6 tres jolies figures par DoRGEz, enluminees du temps,qui font de ce petit almanach un des plus jolis de l'époque. In-24,relie en",1536,99.4,False,positional,,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_83695,120273,281,263,"Les Amusements champetres, etc. A Paris, che Desnos (179o). 24 petites estampes en couleurs. In-32, mar. rouge, fil.tr.dor.(Non decrit.)",1538,98.4,False,positional,,,STAMPE E INCISIONI,,
 BO0624_83695,120274,282,264,Almanach Dauphin historique ct allegorique. Dédie,1539,96.0,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120275,283,265,"Le Vrai Calendrier perpetuel ou exposition des principaux articles du calendrier, etc. par M.J. GuIBERT. A Paris, chez Lamy, 1783. Un vol.in-32, mar. rouge, fil. tr.dor.",1541,98.7,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120276,284,266,"Etrennes de l'Amour, des ris, des jeux et des plaisirs (1783). Chez Boulanger. Titre grave et 7 jolies fig. (in- vol.",1542,96.3,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120277,285,267,"Petites etrennes spirituelles a Madame la Dauphine (1771).In-32,mar.rouge, dent.",1553,97.4,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120275,283,265,"Le Vrai Calendrier perpetuel ou exposition des principaux articles du calendrier, etc. par M.J. GuIBERT. A Paris, chez Lamy, 1783. Un vol.in-32, mar. rouge, fil. tr.dor.",1541,98.7,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
+BO0624_83695,120276,284,266,"Etrennes de l'Amour, des ris, des jeux et des plaisirs (1783). Chez Boulanger. Titre grave et 7 jolies fig. (in- vol.",1542,96.3,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
+BO0624_83695,120277,285,267,"Petites etrennes spirituelles a Madame la Dauphine (1771).In-32,mar.rouge, dent.",1553,97.4,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120278,286,268,"Le Petit fabuliste chantant. Etrennes pour l'année 179o. In-32, mar. rouge, flets.",1558,97.4,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120279,287,1793,"In-32, mar. vert, richement orne.",1560,92.1,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120280,288,3,vol.,1564,85.7,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120281,289,269,"Le Calendrier de Minerve ou le Joujou de l'Innocence. A Paris, chez Jubert (annee 179o). 1 titre gravé",1566,98.0,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120282,290,270,"Galatee, pastorale. A vous que j'aime. A Paris, chez Boulanger. (179o). 1 titre gravé et 12 jolies figures, par QuEvERDo. In-32, mar. rouge, flets, tr. dor",1568,98.6,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120283,291,271,"1 Etrennes comme il y en a peu ou melange agreable des plus jolies choses en tout genre pour l'annee bissextile 1778. A Falaise, chez Bouquet, et a Paris, chez Moutard. In-32, mar. rouge, les plats ornés offrant au centre un medaillon a 2 personnages, representant la cueillette des pommes, tr. dor.",1569,99.3,False,positional,,,PIATTI,,
+BO0624_83695,120283,291,271,"1 Etrennes comme il y en a peu ou melange agreable des plus jolies choses en tout genre pour l'annee bissextile 1778. A Falaise, chez Bouquet, et a Paris, chez Moutard. In-32, mar. rouge, les plats ornés offrant au centre un medaillon a 2 personnages, representant la cueillette des pommes, tr. dor.",1569,99.3,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_83695,120284,292,272,—Les Amours d'Heloise et d'Abeilard. Dediees aux,1570,95.8,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120285,293,273,"一 Les Espiegleries amoureuses ou les Intrigues de Cythere. A Paris, chez Hardoin (année 1787). 1 titrefrontispice et 12 figures par DoRGEz. In-32, mar. rouge, filets, tr. dor. (Rel. anc.)",1572,98.8,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120285,293,273,"一 Les Espiegleries amoureuses ou les Intrigues de Cythere. A Paris, chez Hardoin (année 1787). 1 titrefrontispice et 12 figures par DoRGEz. In-32, mar. rouge, filets, tr. dor. (Rel. anc.)",1572,98.8,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120286,294,274,": —— Les Caprices de Venus. A Paris, chez Jubert Doreur",1573,96.0,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120287,295,275,"— L'Amour ermite (sic) ou le joujou de lamour. AParis, grave et 12 tres jolies figures , par QuEveRDo. In-32,",1578,98.0,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120288,296,2,"chez lauteur, rue Saint-Jacques (annee 1786). 1 titre mar. rouge, filets, tr. dor.",1579,98.6,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120288,296,2,"chez lauteur, rue Saint-Jacques (annee 1786). 1 titre mar. rouge, filets, tr. dor.",1579,98.6,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120289,297,1,'Almanach des Mappemondes.,1583,96.0,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120290,298,276,"—Les Muses a Cythere, etc. A Paris, chez Desnos (1785). Titre gravé et 1 1 fig. In-24, mar.rouge, fil. tr. dor.",1585,98.0,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120290,298,276,"—Les Muses a Cythere, etc. A Paris, chez Desnos (1785). Titre gravé et 1 1 fig. In-24, mar.rouge, fil. tr. dor.",1585,98.0,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120291,299,277,"—— Petit chansonnier, Calcas moderne, etc. A Paris, che? DesRAis, au lieu de 1o, chiffre indique dans la bibliographie des almanachs, par J. GRAND-CARTEREr. In-24, mar. rouge, fil. tr. dor.",1586,98.8,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120292,300,278,"— La Veillee de Venus, etc. A Paris, chez Desnos (1784). Titre grave, frontispice en couleur et 11 petites gravures en noir non signées. In-24, mar. rouge, fl. tr. dor.",1587,96.3,False,positional,,,STAMPE E INCISIONI,,
+BO0624_83695,120292,300,278,"— La Veillee de Venus, etc. A Paris, chez Desnos (1784). Titre grave, frontispice en couleur et 11 petites gravures en noir non signées. In-24, mar. rouge, fl. tr. dor.",1587,96.3,False,positional,,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_83695,120293,301,279,"— Recueil de chansons des meilleurs auteurs. A Paris, Desnos (s. d.). Titre grave et 8 tres jolies fig. 4 ff. de musique et chansons gravécs. In-24, mar. rouge, fil. tr. dor.(Incompletement decrit.)",1589,98.9,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120294,302,4,"28o.— Almanach des Marches de Paris. Etrennes curieuses et comiques avec des chansons interessantes. Dedie a Marie Barbe, Fruitiere, Orangere. Dresse et grave par M. QuEvERDo. A Paris, chez Boulanger (annee 1782). Titre grave et 12 ravissantes fig. Texte grave et 24 pages de musique. Suivi de",1590,99.6,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120295,303,5,"L'Almanach galant des Costumes francais, des plus a la mode, dessines d'apres nature. Dédie au Beau Sexe. A. P. D. R. A Paris, chez le Sr Boulanger (année 1782).Almanach entierement gravé. Titre avec 2 amours nus, coiffés de chapeaux et 18 planches de costumes, d'apres DEsRAIs, A. DE ST-AuBIN, L. WATTEAU, etc.",1591,99.7,False,title_direct,WATTEAU,,,,
-BO0624_83695,120296,304,281,"— Etrennes chronologiques et historiques (1787). In-18, veau fauve.",1595,96.8,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120294,302,4,"28o.— Almanach des Marches de Paris. Etrennes curieuses et comiques avec des chansons interessantes. Dedie a Marie Barbe, Fruitiere, Orangere. Dresse et grave par M. QuEvERDo. A Paris, chez Boulanger (annee 1782). Titre grave et 12 ravissantes fig. Texte grave et 24 pages de musique. Suivi de",1590,99.6,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
+BO0624_83695,120295,303,5,"L'Almanach galant des Costumes francais, des plus a la mode, dessines d'apres nature. Dédie au Beau Sexe. A. P. D. R. A Paris, chez le Sr Boulanger (année 1782).Almanach entierement gravé. Titre avec 2 amours nus, coiffés de chapeaux et 18 planches de costumes, d'apres DEsRAIs, A. DE ST-AuBIN, L. WATTEAU, etc.",1591,99.7,False,title_direct,WATTEAU,,,,Sec. XVIII
+BO0624_83695,120296,304,281,"— Etrennes chronologiques et historiques (1787). In-18, veau fauve.",1595,96.8,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120297,305,2,Etrennes interessantes des 4 parties du monde,1596,97.8,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120298,306,3,"(1791). In-32, mar. vert orne.",1597,96.0,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120298,306,3,"(1791). In-32, mar. vert orne.",1597,96.0,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120299,307,4,Le meme almanach pour 1'an X1I (18o3-18o4).,1598,97.6,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120300,308,5,"In-32, mar. rouge.",1599,93.8,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120301,309,3,vol.,1601,85.7,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120302,310,282,"Etrennes mignonnes, curieuses et utiles pour l'annee 1784. In-32, mar. rouge, large dent. (Manque le vol.",1603,95.9,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120303,311,283,"Le Calendrier de la Cour pourl'année 1782. A Paris, chez la Vve Herissant. In-18 elzevir, avec riche reliure en maroquin rouge ornee sur les plats d'un Amour",1612,98.7,False,positional,,,PIATTI,,
+BO0624_83695,120302,310,282,"Etrennes mignonnes, curieuses et utiles pour l'annee 1784. In-32, mar. rouge, large dent. (Manque le vol.",1603,95.9,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
+BO0624_83695,120303,311,283,"Le Calendrier de la Cour pourl'année 1782. A Paris, chez la Vve Herissant. In-18 elzevir, avec riche reliure en maroquin rouge ornee sur les plats d'un Amour",1612,98.7,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_83695,120304,312,2,appuye sur un cartouche renfermant un dauphin.,1613,97.8,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120305,313,3,"284.-Le Calendrier de la Cour pour 1année 1763. In-18,",1614,98.1,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120305,313,3,"284.-Le Calendrier de la Cour pour 1année 1763. In-18,",1614,98.1,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120306,314,4,"mar. rouge, fil. tr. dor.",1615,95.2,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120307,315,5,"一 Le meme, pour lannee 1778. In-18 mar. rouge, fl. jans. tr. dor.",1616,98.3,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120307,315,5,"一 Le meme, pour lannee 1778. In-18 mar. rouge, fl. jans. tr. dor.",1616,98.3,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120308,316,6,"mignonnes curieuses et utiles pour la meme annee. 2 parties en un vol. in-18 mar. rouge, fl. tr. dor.",1617,98.9,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120309,317,7,"-Le meme, pour 1'annee 18o8. In-18 mar. rouge, orne tr. dor.",1618,98.1,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120310,318,4,vol.,1620,75.0,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120311,319,285,"Z Zeelands cronijk Almanach. Voor den Jaare Te petits vol. in-32 avec frontispice grave pour les annees 1777,1778, 1781, 1782, 1783, 1784. Quelquesuns avec pianches gravees et cartes geographiques. Reliure en mar. rouge ornee sur les plats d'un ecusson avec la devise : Luctor et emergo.",1624,90.9,False,positional,,,PIATTI,,
-BO0624_83695,120312,320,286,"Almanach des Heroides (annee bissextile 1776) Amsterdam, chez Magerus, 6 pl. doub. non signees.",1625,97.8,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120311,319,285,"Z Zeelands cronijk Almanach. Voor den Jaare Te petits vol. in-32 avec frontispice grave pour les annees 1777,1778, 1781, 1782, 1783, 1784. Quelquesuns avec pianches gravees et cartes geographiques. Reliure en mar. rouge ornee sur les plats d'un ecusson avec la devise : Luctor et emergo.",1624,90.9,False,positional,,,PIATTI,,Sec. XVIII
+BO0624_83695,120312,320,286,"Almanach des Heroides (annee bissextile 1776) Amsterdam, chez Magerus, 6 pl. doub. non signees.",1625,97.8,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120313,321,I,"n-24, soie peinte et brodée, tr. dor.",1626,98.5,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120314,322,3,vol.,1629,85.7,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120315,323,287,"Le Petit livre d'Eglise, dedie a Mgr le Dauphin.",1630,95.8,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120316,324,288,"Almanach iconologique （1767) des Vertus, par M. GRAvELoT. A Paris, chez Lattré. 1 titre et 12 fig. suivi de 1Almanach iconologique (1764), par M. GRAVELoT. 1 titre, 1 frontispice et 12 fig.1 vol. in-24 mar. vol.",1632,97.9,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120316,324,288,"Almanach iconologique （1767) des Vertus, par M. GRAvELoT. A Paris, chez Lattré. 1 titre et 12 fig. suivi de 1Almanach iconologique (1764), par M. GRAVELoT. 1 titre, 1 frontispice et 12 fig.1 vol. in-24 mar. vol.",1632,97.9,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120317,325,289,Petit Carnet de bal formant souvenir du temps de,1640,96.0,False,positional,,,ALMANACHS MINUSCULES,,
-BO0624_83695,120318,326,29,"o.— Almanach iconologique, illustre par GRAvELoT. Annee 1765. Des Arts. 1 port. de GRAvELoT, 1 titre,",1643,98.9,False,positional,,,ALMANACHS MINUSCULES,,
+BO0624_83695,120318,326,29,"o.— Almanach iconologique, illustre par GRAvELoT. Annee 1765. Des Arts. 1 port. de GRAvELoT, 1 titre,",1643,98.9,False,positional,,,ALMANACHS MINUSCULES,,Sec. XVIII
 BO0624_83695,120319,327,2,"front., I2 fig. 7 ff. de texte.",1644,96.3,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120320,328,7,ff. de texte. ff. de texte.,1651,66.7,False,positional,,,ALMANACHS MINUSCULES,,
 BO0624_83695,120321,329,8,ff. de texte.,1653,91.7,False,positional,,,ALMANACHS MINUSCULES,,
@@ -373,12 +373,12 @@ BO0624_83695,120363,371,336,"BoITE en ancienne PoRcELAINE pate tendre de forme p
 BO0624_83695,120364,372,337,"PETIT VASE couvert en ancienne PoRcELAINE TENDRE BLANCHE DE MENNECy-VILLERoY, en forme de pot-pourri, decore en relief sur la panse de feuilles, et sur le cou-",1892,98.7,False,positional,,,VASI,,
 BO0624_83695,120365,373,338,"ancienne PORCELAINE DE MENNEcy-VILLERoY, pate tendre emaillee en blanc, imi-",1894,97.3,False,title_direct,,,PORCELAINES,,
 BO0624_83695,120366,374,339,"DEux PoTs A CREME en ancienne PoRCELAINE TENDRE DE MeNNEcy-VILLERoy decores de bouquets de feurs,",1896,98.0,False,positional,,,PORCELAINES,,
-BO0624_83695,120367,375,340,"1 fond mauve, par Noel. Annee 1786.",1899,94.1,False,positional,,,PORCELAINES,,
+BO0624_83695,120367,375,340,"1 fond mauve, par Noel. Annee 1786.",1899,94.1,False,positional,,,PORCELAINES,,Sec. XVIII
 BO0624_83695,120368,376,341,"—— Tasse cylindrique avec sa soucoupe en ancienne PORCELAINE TENDRE DE SEvRES, decorée par CAPELLE de",1900,98.0,False,title_direct,,,PORCELAINES,,
-BO0624_83695,120369,377,342,"PETITE TASSE CYLINDRIQUE aVec sa soucoupe en ancienne PoRCELAINETENDRE DE SEVREs a fond jaune citron, decoree d'ornements en rinceaux; au centre de la soucoupe, deux pigeons sur un carquois. Annee 1786.",1902,99.0,False,positional,,,OGGETTI VARI,,
-BO0624_83695,120370,378,343,"CREMIER en ancienne PORCELAINE DE SEvRES, pale tendre, a fond blanc decore sur le bord et sur l'anse d'un ruban bleu borde de filets dores, et sur la panse de bouquets de feurs. L'anse est reliee aux pieds par des branches feuries en relief. Lettre A (1753), decor par de Choisy (?).",1906,97.4,False,title_direct,,,PORCELAINES,,
-BO0624_83695,120371,379,344,"PETIT PLATEAU CARREenancienne PORCELAINE DE SEVRES pate tendre, a fond blanc, dentele d'or sur les bords et decore de festons de feurs en camaieu bleu. Lettre f (1758).",1908,97.2,False,title_direct,,,PORCELAINES,,
-BO0624_83695,120372,380,345,DEux BEuRRIERs en ancienne porcelaine tendre DE SevRes decores de filets bleus et de bouquets de feurs par JoyAu (annee 1772).,1910,98.4,False,positional,,,PORCELAINES,,
+BO0624_83695,120369,377,342,"PETITE TASSE CYLINDRIQUE aVec sa soucoupe en ancienne PoRCELAINETENDRE DE SEVREs a fond jaune citron, decoree d'ornements en rinceaux; au centre de la soucoupe, deux pigeons sur un carquois. Annee 1786.",1902,99.0,False,positional,,,OGGETTI VARI,,Sec. XVIII
+BO0624_83695,120370,378,343,"CREMIER en ancienne PORCELAINE DE SEvRES, pale tendre, a fond blanc decore sur le bord et sur l'anse d'un ruban bleu borde de filets dores, et sur la panse de bouquets de feurs. L'anse est reliee aux pieds par des branches feuries en relief. Lettre A (1753), decor par de Choisy (?).",1906,97.4,False,title_direct,,,PORCELAINES,,Sec. XVIII
+BO0624_83695,120371,379,344,"PETIT PLATEAU CARREenancienne PORCELAINE DE SEVRES pate tendre, a fond blanc, dentele d'or sur les bords et decore de festons de feurs en camaieu bleu. Lettre f (1758).",1908,97.2,False,title_direct,,,PORCELAINES,,Sec. XVIII
+BO0624_83695,120372,380,345,DEux BEuRRIERs en ancienne porcelaine tendre DE SevRes decores de filets bleus et de bouquets de feurs par JoyAu (annee 1772).,1910,98.4,False,positional,,,PORCELAINES,,Sec. XVIII
 BO0624_83695,120373,381,346,"TAssE DroITE en ancienne porcelaine tendre de VINCENNEs, a fond blanc, tres finement decoree d'un sujet",1914,98.1,False,positional,,,PORCELAINES,,
 BO0624_83695,120374,382,347,- DEUx CoMPoTIERs en ancienne FAiENCE DE MousTIERs de forme contournee a decor bleu d'arabesques de BeRAIN sur fond blanc.,1922,74.3,False,positional,,,FAIENCES,,
 BO0624_83695,120375,383,348,"PoRTE-HuILIER en ancienne faience francaise en forme de nacelle, a decor polychrome avec parties ajourees.",1923,98.1,False,positional,,,FAIENCES,,
@@ -401,7 +401,7 @@ BO0624_83695,120391,399,4,feurs de GuILLEBAUT.,1953,95.0,False,positional,,,FAIE
 BO0624_83695,120392,400,361,BoITE AUx TRoIS-EPIcEs en ancienne FAiENcE DE RouEn a decor bleu et rouge forme de compartiments symetriques pointilles de rouge et rinceaux.,1954,80.0,False,positional,,,SCATOLE,,
 BO0624_83695,120393,401,362,"DEux AssIETTEs en ancienne FAiENCE DE RoUEN, a",1958,95.7,False,positional,,,PIATTI,,
 BO0624_83695,120394,402,363,"—AssIETTE en ancienne FAieNcE DE RouEN, a decor polychrome dit a la pagode offrant au marli des feurs se detacliant en reserve sur fond d'émail bleu.",1966,81.5,False,positional,,,FAIENCES,,
-BO0624_83695,120395,403,364,"PicHET avec son couvercle en ancienne FAiENcE DE Rouen, a decor polychrome dit a la corne, agrémente de feurs, oiseaux et papillons. l porte en decor l'inscription Marie Rabardi, 1774. Collection Pouyer-Quertier. (Haut.o,35.)",1970,73.8,False,positional,,,FAIENCES,COLLEZIONE POUYER-QUERTIER,
+BO0624_83695,120395,403,364,"PicHET avec son couvercle en ancienne FAiENcE DE Rouen, a decor polychrome dit a la corne, agrémente de feurs, oiseaux et papillons. l porte en decor l'inscription Marie Rabardi, 1774. Collection Pouyer-Quertier. (Haut.o,35.)",1970,73.8,False,positional,,,FAIENCES,COLLEZIONE POUYER-QUERTIER,Sec. XVIII
 BO0624_83695,120396,404,365,"AsSIETTE en ancienne FAieNcE DE RouEN a decor bleu offrant au centre un blason forme de deux écussons, surmonte d'un cimier; au marli des festons et arabesques.",1974,98.7,False,positional,,,FAIENCES,,
 BO0624_83695,120397,405,366,"- AssIETTE en ancienne FAieNcE DE RouEN a bords contournes eta decor polychrome,offrant au centre un écusson armorie surmonte d'une couronne de comte, decore du cordon du Saint-Esprit. Au marli, compartiments dans lesquels des fleurs jaunes se detachent sur fond blanc pointillé de rouge.",1980,99.3,False,positional,,,FAIENCES,,
 BO0624_83695,120398,406,367,"AssIETTE en ancienne FAiENcE DE RouEN a decor polychrome offrant au centre les chiffres L et M entrelaces, surmontes d'une couronne ducale supportée par deux anges. Marli a lambrequins de coquilles et d'ara-",1984,99.0,False,positional,,,FAIENCES,,
@@ -444,7 +444,7 @@ BO0624_83695,120434,442,402,"BusTE DE JEUNE FEMME en forme de chef en chene scul
 BO0624_83695,120435,443,403,"BAs-RELIEF en ancienne terre cuite, dans le goit de Clodion, representant une jeune nymphe étendue nue sur une draperie entouree d'amours dont deux ornent sa chevelure tandis que d'autres en voltigeant lui offrent des fleurs et des fruits.",2142,99.2,False,positional,CLODION MICHEL,,BASSORILIEVI,,
 BO0624_83695,120436,444,404,"— DEux FIGURINEs faisant pendants en terre cuite, par EDME BoucHARDoN, representant un jeune garcon vetu en paysan, et une jeune fille amplement drapee tenant une urne.",2149,81.5,False,positional,,,SCULPTURES,,
 BO0624_83695,120437,445,405,"— Deux STATuETTEs faisant pendants en bois sculpte et ivoire. Elles personnifient Mezzetin et Colombine. L'habillement en bois teinte polychrome,les tetes, les mains, la lingerie et les chaussures travaillees en ivoire.",2153,87.0,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_83695,120438,446,406,"— BAs-RELIEF modele en cire sur fond d'ardoise signe PInsoN f.1781.Portrait de la chevaliere d'Eon de Beaumont,chevalier de Saint-Louis,neea Tonnerre le5octobre1728.",2157,98.8,False,positional,,,BASSORILIEVI,,
+BO0624_83695,120438,446,406,"— BAs-RELIEF modele en cire sur fond d'ardoise signe PInsoN f.1781.Portrait de la chevaliere d'Eon de Beaumont,chevalier de Saint-Louis,neea Tonnerre le5octobre1728.",2157,98.8,False,positional,,,BASSORILIEVI,,Sec. XVIII
 BO0624_83695,120439,447,407,— DEux PETITs BAs-RELIEFs modeles en cire rose sur fond d'ardoise figurant des allegories de la Guerre et de la Concorde dans leurs petits cadres du temps. xvilre siecle.,2162,82.8,False,positional,,,BASSORILIEVI,,
 BO0624_83695,120440,448,408,"—— PERsoNNAGE RIANT dans une pose hieratique, en pierre de lare, assis sur un rocher et vetu d'un riche costume. Travail ancien de l'Extreme-Orient.",2163,98.6,False,positional,,,SCULPTURES,,
 BO0624_83695,120441,449,409,—DEux FIGuREs DE FEMMEs nues debout faisant pendants,2167,96.2,False,positional,,,SCULPTURES,,

@@ -1,193 +1,213 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_81786,131843,1,1,"Scuola di Giotto. Sec. XIV. La Vergine col Bambino; ai piedi cinque figure di devoti. Interessante dipinto su tavola a fondo oro di buonissima conservazione. Su tabernacolo in legno policromato.Alt. cm.117, larg.cm.58.",5,99.5,False,positional,,Scuola di Giotto,OGGETTI IN LEGNO,,
-BO0624_81786,131844,2,2,tavolaa fondooro. Scuola Senese. Sec.XV. La Vergine col Bambino. Buon dipinto su,7,87.6,False,positional,,Scuola Senese,Quadri Antichi,,
-BO0624_81786,131845,3,3,Scuola Umbra. Sec. XV. S. Francesco d'Assisi. Dipinto su tavola. Cor-,8,98.4,False,positional,,Scuola Umbra,Quadri Antichi,,
-BO0624_81786,131846,4,5,"4.Ignoto. Sec.XV.La Vergine, dipinto su tavola a fondo oro. Maniera",9,98.5,False,positional,,,Quadri Antichi,,
-BO0624_81786,131847,5,6,"nice legno scolpito. Alt.cm.1l8,larg. cm.47.",10,97.6,False,positional,,,Quadri Antichi,,
-BO0624_81786,131848,6,7,"bizantina.Alt.cm.40,larg.cm.35.",11,96.8,False,positional,,,Quadri Antichi,,
-BO0624_81786,131849,7,8,6.Fra Bartolomeo (Baccio della Porta). 1469-1517. La Deposizione.,12,98.4,False,positional,,,Quadri Antichi,,
-BO0624_81786,131850,8,5,"Scuola Toscana. Sec.XVI. Gesu Bambino. Bel dipinto su tavola: sfondo di paese.Alt.cm.47,larg..cm.58.",13,98.9,False,positional,,Scuola Toscana,Quadri Antichi,,
-BO0624_81786,131851,9,10,"Schizzo su tavola molto avanzato del quadro esistente nella Galleria Pitti a Firenze. Cornice legno scolpito e dorato. Alt. cm.48, larghezza cm.66.",14,99.0,False,positional,,,Quadri Antichi,,
-BO0624_81786,131852,10,12,"7.Fra Bartolommeo (Scuola di). Sec. XV. La Vergine col Bambino,",16,97.4,False,positional,,,Quadri Antichi,,
-BO0624_81786,131853,11,8,"Bernardo Zenale. Sec. XV. La Vergine col Bambino e due Sante. Interessante e bellissimo dipinto su tavola, su fondo dorato. Cornice legno scolpito e dorato.Alt.cm. 65,larg.cm.65.",17,99.4,False,positional,,,Quadri Antichi,,
-BO0624_81786,131854,12,14,9.Dosso Dossi. 14...1558. La Samaritana al pozzo. Dipinto su tela,18,97.6,False,positional,,,Quadri Antichi,,
-BO0624_81786,131855,13,11,"Scuola Lombarda. Sec. XVI. La Vergine col Bambino: sfondo di paese. Dipinto su tavola. Cornice legno dorato. Alt. cm. 60, larg. cm.43. Garofalo (Benvenuto Tisi da). 1481-1559.La Vergine in trono col Bambino.Bel dipinto su tavola. Cornice legno scolpito e dorato.Altezza cm.125,larg.cm.45. Vedi tavola N. 8.",24,73.1,False,positional,,Scuola Lombarda,Quadri Antichi,,
-BO0624_81786,131856,14,12,"Foppa Vincenzo (Scuola di). Sec. XV. La Deposizione. Dipinto su tavola,molto interessante. Cornice legno nero con decorazione in oro. Alt.cm.105,larg.cm.83.",25,99.0,False,positional,,,Quadri Antichi,,
-BO0624_81786,131857,15,13,"Luini Bernardino.1470-1540. La Vergine,il Bambino e S.Giovan-",28,97.5,False,positional,BERNARDINO LUINI,,Quadri Antichi,,
-BO0624_81786,131858,16,14,"Salaino (Andrea Salai detto il).Sec.XVI. La Madonna del velo di Raffaello; copia bellissima del Salaino. Dipinto su tavola. Alt.em. 110, larg.cm.100.",30,98.9,False,positional,,,Quadri Antichi,,
-BO0624_81786,131859,17,15,Solario Andrea.Sec.XVI.La Vergine addolorata;interessante fondo,31,97.7,False,positional,,,Quadri Antichi,,
-BO0624_81786,131860,18,16,Andrea del Sarto (Maniera di). Sec. XVI. Gesu Cristo benedicente.,36,97.5,False,positional,DEL SARTO ANDREA,,Quadri Antichi,,
-BO0624_81786,131861,19,17,Bronzino (Alessandro Allori detto il). Sec. XVI. Ritratto d'uomo. Forte dipinto su tavola.Cornice antica legno scolpito e dorato.Altezza,37,98.9,False,positional,,,Quadri Antichi,,
-BO0624_81786,131862,20,18,0razio Alfani.1513-1583. La Santa Famiglia.Buon dipinto su tavola,40,97.7,False,positional,,,Quadri Antichi,,
-BO0624_81786,131863,21,19,"Francia Francesco.1450-1535. La Deposizione. Dipinto su tavola bellissimo, di corretto disegno e buon colorito. Cornice legno dorato. Altezza cm.4l,larg.cm.80.",42,99.0,False,positional,,,Quadri Antichi,,
-BO0624_81786,131864,22,20,"Correggio (Maniera del). Sec. XVI. La Vergine e S. Giuseppe adorano il Bambino. Ottimo dipinto su tavola. Interessantissimo sfondo di paesaggio. Cornice legno nero scolpito. Alt. cm. 42, larg. cm. 33.",46,99.2,False,positional,CORREGGIO,,Quadri Antichi,,
-BO0624_81786,131865,23,21,"Ignoto. Sec.XVI. La Vergine col Bambino e Santi.Grande e bella pala d’altare. Alt. cm. 170, larg. 135.",47,76.4,False,positional,,,Quadri Antichi,,
-BO0624_81786,131866,24,22,"Cariani Giovanni. 1480-1519. La Vergine col Bambino e due Donatori.Dipinto su tela di grande interesse.Cornice legno dorato.Altezza cm. 98, Jarg. cm. 100. Vedi tavola N.2.",49,99.1,False,positional,,,Quadri Antichi,,
-BO0624_81786,131867,25,23,Moretto da Brescia.Sec.XVI. La Deposizione. Bel dipinto su tela.,50,97.6,False,positional,,,Quadri Antichi,,
-BO0624_81786,131868,26,24,"Scuola Veneta. Sec.XVI. Ritratto di Madonna Laura. Buon dipinto su tela.Cornice in legno polieromato.Alt.cm.50, larg. cm.38. Cornice legno seolpito e dorato.Alt.cm.70,larg. cm. 60. Vedi tavola N.9.",51,76.6,False,positional,,Scuola Veneta,Quadri Antichi,,
-BO0624_81786,131869,27,25,"Giorgione (Giorgio Barbarelli detto il). Sec.XVI. (Maniera). Ritratto di giovane gentiluomo. Bel dipinto su tela. Cornice legno dorato. Alt.cm.65,larg.cm.50. larg. cm. 124.",53,95.1,False,positional,GIORGIONE,,Quadri Antichi,,
-BO0624_81786,131870,28,26,"Tintoretto (Jacopo Robusti detto il). 1512-1594. La Piscina. Schizzo molto avanzato pel quadro esistente a Venezia nella Chiesa di S.Rocco. Dipinto su tela di sommo interesse. Cornice legno dorato. Alt. cm.46,",55,99.3,False,positional,TINTORETTO,,Quadri Antichi,,
-BO0624_81786,131871,29,27,"Tintoretto (Jacopo Robusti detto il). 1512-1594. La Deposizione. Bellissimo dipinto su tela. Cornice scolpita e dorata. Alt.cm.7o, larghezza cm. 60.",60,73.4,False,positional,TINTORETTO,,Quadri Antichi,,
-BO0624_81786,131872,30,28,"Moroni G.B.1510-1578.Ritratto di magistrato.Bellissimo dipinto su tela. Cornice legno dorato.Alt. cm.139, larg. cm.105. Vedi la riproduzione sulla copertina del Catalogo.",65,99.1,False,positional,,,Quadri Antichi,,
-BO0624_81786,131873,31,29,"Moroni G.B. 1510-1578. La Vergine col Bambino e coro di Cherubini. Bel dipinto su tela. Cornice legno dorato. Alt. cm.67, larg. cm.58. Vedi tavola N.8.",66,98.9,False,positional,,,Quadri Antichi,,
-BO0624_81786,131874,32,30,"Tiziano Vecellio.1477-1576.Ritratto di una vecchia signora,in co-",67,97.7,False,positional,TIZIANO VECELLIO,,Quadri Antichi,,
-BO0624_81786,131875,33,3,l.Bassano Leandro.1558-1623.Ritratto di giovane gentiluomo. Bel,72,99.2,False,positional,BASSANO GIACOMO,,Quadri Antichi,,
-BO0624_81786,131876,34,32,"Bassano Francesco (Francesco da Ponte detto).1548-1591. Ritratto di vecchio magistrato. Bel dipinto su tela. Alt. cm.120,larghezza cm.100.",77,98.9,False,positional,BASSANO GIACOMO,,Quadri Antichi,,
-BO0624_81786,131877,35,33,Lippi Lorenzo.1606-1664. Trionfo di David. Buon dipinto su tela.,78,97.6,False,positional,,,Quadri Antichi,,
-BO0624_81786,131878,36,34,Moncalvo (Guglielmo Caccia detto il). 1568-1625. La Deposizione.,79,97.5,False,positional,,,Quadri Antichi,,
-BO0624_81786,131879,37,35,Crespi Daniele.1590-1630.S.Antonio. Buon dipinto su tela.Cornice,82,97.7,False,positional,CRESPI DANIELE,,Quadri Antichi,,
-BO0624_81786,131880,38,36,"Crespi Giuseppe Maria (Maniera). 1655-1747. S. Francesco d'Assisi. Dipinto su tela di tocco vigoroso. Cornice legno dorato.Alt.cm.38, larg. cm. 27.",83,98.9,False,positional,CRESPI DANIELE,,Quadri Antichi,,
-BO0624_81786,131881,39,37,Schedone Bartolommeo. 15...-1615. San Giovanni nel bosco. Bel di-,85,97.5,False,positional,,,Quadri Antichi,,
-BO0624_81786,131882,40,38,"Guido Reni.1575-1642.L'Arcangelo Gabriele. Bellissimo dipinto su su tela;ripetizione di quello esistente a Roma. Bella cornice in legno scolpito e dorato.Alt.cm.148,larg. cm 113.",86,99.1,False,positional,GUIDO RENI,,Quadri Antichi,,
-BO0624_81786,131883,41,39,Scuola Veneta. Sec.XVII.Testa di vecchio. Bel dipinto ovale su tela,88,97.7,False,positional,,Scuola Veneta,Quadri Antichi,,
-BO0624_81786,131884,42,40,"Francesco Zuccarelli. 1704-17.. Paesaggio. Bellissimo dipinto su tela a colori freschi e vivaci. Cornice francese a pastiglia. Alt. cm. 79, larg.cm.102.",90,99.0,False,positional,,,Quadri Antichi,,
-BO0624_81786,131885,43,41,Zuccarelli Francesco (Maniera). Sec. XVIII. Paesaggio. Bel di-,91,97.3,False,positional,,,Quadri Antichi,,
-BO0624_81786,131886,44,42,Zuccarelli Francesco (Maniera). Sec.XVIII. Paesaggio. Bel di-,93,97.3,False,positional,,,Quadri Antichi,,
-BO0624_81786,131887,45,43,"Zuccarelli Francesco (Maniera). Sec.XVIII. Paesaggio. Bel dipinto su tela. Cornice legno dorato.Alt.cm.90,larg. cm.120.",95,98.7,False,positional,,,Quadri Antichi,,
-BO0624_81786,131888,46,44,Zuccarelli Francesco (Maniera). Sec. XVIII. Paesaggio. Rovine,96,97.3,False,positional,,,Quadri Antichi,,
-BO0624_81786,131889,47,45,Zais Giuseppe. 17..-1784. Paesaggio.Dipinto su tela. Cornice legno,97,97.6,False,positional,ZAIS GIUSEPPE,,Quadri Antichi,,
-BO0624_81786,131890,48,46,"Canaletto (Maniera del). Sec.XVIII. Piazza S. Marco. Due bei dipinti su tela. Alt. cm. 25, larg. cm. 38.",100,98.4,False,positional,CANALE ANTONIO,,Quadri Antichi,,
-BO0624_81786,131891,49,47,Canaletto (Maniera del). Sec.XVIII. Veduta di S. Maria della Sa-,103,97.5,False,positional,CANALE ANTONIO,,Quadri Antichi,,
-BO0624_81786,131892,50,48,Scuola Veneziana. Sec.XVIII. Trionfo di due Santi. dipinto su ta-,104,97.6,False,positional,,Scuola Veneziana,Quadri Antichi,,
-BO0624_81786,131893,51,3,"lute a Venezia. Grazioso dipinto su tela. Cornice in legno dorato. Altezza cm.49,larg.cm.30.",105,98.9,False,positional,,,Quadri Antichi,,
-BO0624_81786,131894,52,4,"vola. Cornice legno dorato. Alt. cm. 30, larg. cm. 20.",106,97.9,False,positional,,,Quadri Antichi,,
-BO0624_81786,131895,53,5,"nice in legno scolpito e dorato. Alt. cm.105, larg. cm.85.",107,98.1,False,positional,,,Quadri Antichi,,
-BO0624_81786,131896,54,49,Scuola Veneziana. Sec.XVIII. Giunone. Dipinto su tela. Ricca cor-,108,97.6,False,positional,,Scuola Veneziana,Quadri Antichi,,
-BO0624_81786,131897,55,50,Scuola Veneziana. Sec. XVIII. Santa conversazione. Dipinto su tela.,109,97.6,False,positional,,Scuola Veneziana,Quadri Antichi,,
-BO0624_81786,131898,56,51,Longhi P. Sec.XVIII. Ritratto di gentiluomo. Dipinto su tela. Cor-,110,97.6,False,positional,,,Quadri Antichi,,
-BO0624_81786,131899,57,9,"Cornice legno dorato. Alt. cm. 45, larg. cm.30.",111,97.6,False,positional,,,Quadri Antichi,,
-BO0624_81786,131900,58,10,"nice legno dorato. Alt. cm.10o, larg. em.85.",112,96.3,False,positional,,,Quadri Antichi,,
-BO0624_81786,131901,59,52,"Longhi Pietro.Sec.XVIII. Ritratto di gentiluomo; ritratto di gentildonna.Due dipinti su tela. Cornici legno dipinto e dorato. Alt.cm.65, larg.cm.45",113,99.0,False,positional,,,CORNICI,,
-BO0624_81786,131902,60,53,Dietrick (Cristiano Guglielmo Ernesto). 1712-1774. Adorazione dei,114,97.6,False,positional,,,Quadri Antichi,,
-BO0624_81786,131903,61,13,"Re Magi. Bel dipinto su tela. Cornice legno dorato. Alt. cm,142, larghezza cm. 96.",115,98.0,False,positional,,,Quadri Antichi,,
-BO0624_81786,131904,62,14,54.Van Dyk (Maniera di). Sec.XVII. Ritratto di gentiluomo in piedi.,116,97.6,False,positional,VAN DYCK ANTON,,Quadri Antichi,,
-BO0624_81786,131905,63,55,Rembrandt (Maniera di). Sec.XVII. Ritratto d’uomo. Buon dipinto,117,97.5,False,positional,REMBRANDT VAN RIJN,,Quadri Antichi,,
-BO0624_81786,131906,64,16,"Cornice legno dorato.Alt.cm.216, larg.cm.138",118,96.6,False,positional,,,Quadri Antichi,,
-BO0624_81786,131907,65,17,"su tela di forte colorito. Cornice legno dipinto.Alt.cm.44, larg. cm.34.",119,97.8,False,positional,,,Quadri Antichi,,
-BO0624_81786,131908,66,57,"Nattier G. Sec.XVIII. Ritratto di gentiluomo in parrucca. Bel dipinto su tela.Cornice legno dorato.Alt.cm.104,larg.cm.82. 56.Van Ostade (Maniera di). Sec.XV. Un suonatore di chitarra. Graziosissimo dipinto su tavola toccato da maestro.",120,67.8,False,positional,ADRIAEN VAN OSTADE,,Quadri Antichi,,
-BO0624_81786,131909,67,58,"Lancret Nicolas.1690-1743. Contadine e gentiluomini. Due bei dipinti su tela, di colorito delicato.Cornice legno scolpito e dorato.Altezza cm.78,larg.cm.43.",122,99.0,False,positional,LANCRET NICOLAS,,Quadri Antichi,,
-BO0624_81786,131910,68,21,"59.Greuse Giov.Batta.1725-1805.Ritratto di giovinetto.Bellissimo dipinto, di corretto disegno. Cornice francese dell'epoca. Alt. cm. 53,larghezza cm.42.",123,99.0,False,positional,,,Quadri Antichi,,
-BO0624_81786,131911,69,60,Scuola Francese. Sec.XVIII. Ritratto di gentildcnna. Buon dipinto,124,97.6,False,positional,,,Quadri Antichi,,
-BO0624_81786,131912,70,61,Scuola Inglese.Sec.XVIII. Ritratto di giovinetto. Testa molto piu,125,97.7,False,positional,,,Quadri Antichi,,
-BO0624_81786,131913,71,24,"su tela.Cornice legno dorato. Alt.cm.92,larg.cm.73.",126,97.0,False,positional,,,Quadri Antichi,,
-BO0624_81786,131914,72,25,"grande del vero. Cornice legno dorato. Alt. cm.10o, larg. cm.85.",127,97.5,False,positional,,,Quadri Antichi,,
-BO0624_81786,131915,73,62,"Scuola Inglese. Sec.XIX. Interno dello studio di un pittore. Graziosissimo dipinto. Cornice in legno nero a sbalzo.Alt. cm.37,larghezza cm.29.",128,98.9,False,positional,,,Quadri Antichi,,
-BO0624_81786,131916,74,63,Dubois J. Sec. XIX. Paesaggio svizzero. Grazioso piccolo dipinto. Cornice in legno scolpito e dorato.,129,98.4,False,positional,,,Quadri Antichi,,
-BO0624_81786,131917,75,64,Bottiglia in maiolica di Montelupo verniciata in giallo. See. XVI. Grande orcio in terracotta verniciata. Sec. XVII. Cachepot in terra-cotta verniciata.Epoca Impero.,133,56.2,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131918,76,67,Piatto in maiolica di Savona. Decorazione policroma di figura e fogliami. Marcato.Sec.XVII.,136,98.3,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131919,77,68,Lotto di quattro vasetti in maiolica di Faenza. Decorazioni diverse. Secolo XVIII.,139,98.1,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
-BO0624_81786,131920,78,2,69.Lotto di3 piatti di fabbriche ed epoche diverse.,140,98.0,False,positional,,,PIATTI,,
-BO0624_81786,131921,79,71,Due bei vasetti in maiolica di Treviso; decorazione policroma. Sec. XVIIl. Terracotta rappresentante un marzocco che sostiene uno stemma.,141,68.3,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131922,80,72,Lotto di sei vasetti in maiolica di Faenza: decorazione bleue. Sec. XVIll. Un vasetto in maiolica di Cafaggiolo: decorazione bleue. Sec. XVI. Lotto di sei vasetti in maiolica di Faenza. Decorazione bleue. Sec. XVIII.,145,51.3,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
-BO0624_81786,131923,81,75,Piatto di Montelupo; decorazione policroma. Piatto di Faenza recante un putto nel centro. Sec. XVIl. Vassoio circolare in maiolica di Moustier.Decorazione di fiori ed uccelli.,146,71.2,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
-BO0624_81786,131924,82,76,Lotto di tre piatti in porcellana della China e di un piatto vecchio GInori.Decorazioni policrome diverse.,148,98.6,False,positional,,,PIATTI,,
-BO0624_81786,131925,83,11,Sec.XVIII.,149,85.7,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131926,84,78,Lotto di due interessanti vassoi in maiolica di Rouen. Sec. XVII. fogliami. Sec. XVII.,150,85.5,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131927,85,79,"Due vasi in maiolica di Faenza: decorazione bleue di stemma, animali e",152,97.8,False,positional,,Scuola Faentina,VASI,,
-BO0624_81786,131928,86,80,"Due vasi in maiolica li Faenza: decorazione bleue di stemma, animali e fogliami. Sec. XVII.",153,86.6,False,positional,,Scuola Faentina,VASI,,
-BO0624_81786,131929,87,81,"Due vasetti in maiolica di Faenza. Decorazione bleue di stemma, animali e fogliami. Sec.XVII.",155,85.7,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
-BO0624_81786,131930,88,82,"Due bottiglie in maiolica di Faenza: decorazione bleue di stemma, ani- mali e fogliami. Sec. XVII.",157,82.7,False,positional,,Scuola Faentina,BOTTIGLIE,,
-BO0624_81786,131931,89,83,Due vasetti in maiolica di Faenza: decorazione bleue con stemma poli- cromo. Sec. XVII.,159,88.2,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
-BO0624_81786,131932,90,84,Due vasetti in maiolica di Faenza: decorazione bleue con stemma poli- cromo. Sec.XVII.,161,88.2,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
-BO0624_81786,131933,91,85,Due vasi con ansa e becco in maiolica di Faenza: decorazione bleue di,163,97.8,False,positional,,Scuola Faentina,VASI,,
-BO0624_81786,131934,92,86,Due vasi in maiolica di Faenza. Decorazione bleue di stemma animali e,164,97.8,False,positional,,Scuola Faentina,VASI,,
-BO0624_81786,131935,93,27,"stemma,animali e fogliami. Sec.XvII.",165,95.8,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131936,94,28,fogliami. Sec.XVII.,166,91.9,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131937,95,87,Due bottiglie in maiolica di Faenza: decorazione bleue di stemma ani- mali e fogliami. Sec. XVII.,167,82.7,False,positional,,Scuola Faentina,BOTTIGLIE,,
-BO0624_81786,131938,96,88,"Due vasi in maiolica di Faenza: decorazione bleue di stemma, animali e",169,97.8,False,positional,,Scuola Faentina,VASI,,
-BO0624_81786,131939,97,89,"Due vasi in maiolica di Faenza, con ansa e becco: decorazione bleue a festoni. Sec. XVII. fogliami. Sec. XVII.",170,88.9,False,positional,,Scuola Faentina,VASI,,
-BO0624_81786,131940,98,90,Due vasi in maiolica del Marocco. Decorazione policroma. Sec. XVI. Porta-fiori in maiolica di Marsiglia. Decorazione polieroma. See. XVIII. Zuppiera in maiolica di Savona. Decorazione bleue di fiori e fogliami. Sec.XVIII.,174,54.3,False,positional,,,VASI,,
-BO0624_81786,131941,99,93,Cachepot in maiolica di Delft Decorazione bleue di figure e paesaggio. Sec.XVIl. Pezzo interessante e raro.,175,98.6,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131942,100,94,Due vassoi in maiolica di Vienna. Decorazione policroma di fiori. Marcati. See.XVIII.,176,98.2,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131943,101,39,95.Due basi in porcellana di Vienna. Marcate. See. XVIII.,177,97.2,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131944,102,96,Bella zuppiera in porcellana di Venezia. Decorazione di fiori ed oro. Secolo XVIII.,178,98.2,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131945,103,97,Catinella in maiolica di Rouen. Decorazione bleue di fogliami e selvag- gina. See. XVII.,181,89.0,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131946,104,98,Ricco ed elegante servito in maiolica inglese composto di 103 pezzi. Decorazione verde di fiorellini. See.XVIll.,183,98.6,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131947,105,4,99.Due vasi in maiolica di Savona.Decorazione bleue su fondo bleue. Se-,184,98.6,False,positional,,,VASI,,
-BO0624_81786,131948,106,5,colo XVIII.,185,90.9,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131949,107,6,100.Tre piatti in porcellana della China.Bella decorazione policroma. Mar-,186,98.6,False,positional,,,PIATTI,,
-BO0624_81786,131950,108,7,cati.,187,80.0,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131951,109,8,101.Insalatiera in maiolica di Rouen.Decorazione policroma di fiori. Secolo XVIII.,188,98.8,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131952,110,9,102.Insalatiera in,189,94.7,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131953,111,10,maiolica di Rouen.Decorazione policroma di fiori. Secolo XVIII.,190,97.6,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131954,112,103,Seatola in porcellana bianca di Venezia formata da un gruppo di fan- ciulli. See. XVIII.,191,86.5,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131955,113,104,Il marito bastonato. Bellissimo gruppo in porcellana di Meissen. Marcato.,193,97.2,False,positional,,Scuola di Meissen,Maioliche e Porcellane,,
-BO0624_81786,131956,114,105,Tassa da brodo in maiolica di Faenza. Decorazione bleue su fondo bleu. Epoca Louis XVI.,194,97.7,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
-BO0624_81786,131957,115,106,Tazza da brodo in maiolica di Faenza.Decorazione bleue su fondo bleu. Epoca Louis XVI.,195,97.7,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
-BO0624_81786,131958,116,16,.107. Vaso con ansa e becco in maiolica di Casteldurante. Decorazione poli-,196,97.9,False,positional,,,VASI,,
-BO0624_81786,131959,117,17,croma.Sec.XVII.,197,90.3,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131960,118,108,Boccale da scommessa in maiolica di Casteldurante. Decorazione policroma.Sec.XVII.,198,97.6,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131961,119,109,Bel vasetto in maiolica di Savona. Decorazione bleue su fondo bianco. Sec. XVI.,199,97.4,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131962,120,110,Due vasi in maiolica di Savona. Decorazione bleue a ramages. Sec. XVII.,200,97.1,False,positional,,,VASI,,
-BO0624_81786,131963,121,21,1ll. Bel vasetto in maiolica di Savona.Decorazione bianca e gialla su fondo,201,98.0,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131964,122,22,bleu. Sec. XVI.,202,88.9,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131965,123,112,Vaso in maiolica di Faenza a due anse.Decorazione bleue. Sec. XVII.,203,97.0,False,positional,,Scuola Faentina,VASI,,
-BO0624_81786,131966,124,24,1l3. Due vasi in maiolica di Faenza. Decorazione policroma di figure e paesaggi. Datati 1735.,204,98.3,False,positional,,Scuola Faentina,VASI,,
-BO0624_81786,131967,125,114,Boccale in maiolica della Fratta con grafiti primitivi. Sec. XVI.,205,96.9,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131968,126,26,115.Lotto di due vasi con ansa e becco in maiolica di Faenza decorato a,206,97.9,False,positional,,Scuola Faentina,VASI,,
-BO0624_81786,131969,127,27,festoni e di un vaso a tromba pure in maiolica di Faenza decorato in bleue a ramages. Sec. XVII.,207,98.4,False,positional,,Scuola Faentina,VASI,,
-BO0624_81786,131970,128,116,Due vasi a rocchetto in maiolica di Savona. Decorazione bleue a ra- mages. Sec. XVII.,208,87.2,False,positional,,,VASI,,
-BO0624_81786,131971,129,117,Grande fltro in maiolica inglese. See. XVIll.,210,95.5,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131972,130,118,Due grandi e belle bottiglie di Savona. Decorazione bleue su fondo di animali e fogliami. Sec. XVII.,211,98.0,False,positional,,,BOTTIGLIE,,
-BO0624_81786,131973,131,119,"Quattro vasetti con coperehio in maiolica di Pesaro, decorazioni di fiori. Sec. XVIII.",212,97.6,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131974,132,120,"Quattro vasetti con coperchio in maiolica di Pesaro, decorazioni di fiori. Sec. XVIII.",213,97.6,False,positional,,,Maioliche e Porcellane,,
-BO0624_81786,131975,133,121,"Baule in cuoio policromo e ferro battuto. Sec. XVI. Piccola serivania in noce lustrata a ebano. ornata di bronzi. Stile Louis XV. Cassa in noce intagliata, fiamminga.",218,63.6,False,positional,,Periodo di Luigi XV,Mobili,,
-BO0624_81786,131976,134,124,"Tavolone toscano a gambe tornite. Sec. XVII. Quattro sgabelli in noce a gambe tornite coperti in tessuti di crine. Sec.XVII. Stipo a vari tiretti, scolpito e lumeggiato in oro.",224,62.4,False,positional,,,Mobili,,
-BO0624_81786,131977,135,127,Specchio in bella cornice di noce lustrato a ebano scolpito e dorato. Sec. XVII. Sgabello in legno con schienale scolpito. Sec. XVI. Sgabello in legno con schienale scolpito. See. XVI.,228,60.2,False,positional,,,Mobili,,
-BO0624_81786,131978,136,130,"Due poltrone in legno scolpito, coperte in paglia. Epoca Louis XVI. Baule in cuoio lavorato. Sec. XVI. Sedia in legno con sehienale intagliato. Sec. XVII.",234,60.1,False,positional,,,POLTRONE,,
-BO0624_81786,131979,137,133,Bella ed elegante poltroneina in noce intagliato con ritratti nella cimasa bis. Armadio in noce scolpito. Epoca Luigi XV.,240,75.5,False,positional,,Periodo di Luigi XV,Mobili,,
-BO0624_81786,131980,138,134,Cassa forte in noce e ferro. Sec. XVI. Due poltrone Savonarola. Due poltroncine Savonarola.,246,56.0,False,positional,,,POLTRONE,,
-BO0624_81786,131981,139,137,Tavolo in noce con piedi a lira intagliato. Sec. XVI. Due sedie in noce intagliato coperte in canna d'India. Epoca Louis XVI. Due sedie in noce intagliato coperte in canna d’India. Epoca Louis XVI.,254,53.2,False,positional,,,SEDIE,,
-BO0624_81786,131982,140,140,Tavolone in noce a gambe tornite ornato da borchie in bronzo. Sec. XVII. l.Bellissima cassa in,258,84.1,False,positional,,,Mobili,,
-BO0624_81786,131983,141,141,bis. Armadio in noce. Sec. XVII. Madia in noce. Sec. XVII. Madia in noce. See. XVII.,264,52.8,False,positional,,,Mobili,,
-BO0624_81786,131984,142,144,Una credenza in noce. See. XVII.,270,93.5,False,positional,,,Mobili,,
-BO0624_81786,131985,143,145,"bis. Quattro poltrone in mogano, coperte in cuoio. Impero. Bella poltrona francese in legno intagliato. See. XVI.",272,65.9,False,positional,,,POLTRONE,,
-BO0624_81786,131986,144,146,"Lotto di due graziosi gruppi in terracotta policromata. See. XVIII. Cornetto ad uso fiasca da polvere, in avorio scolpito a soggetti di caccia. Due ritratti di gentiluomini. Piccolo dittico in avorio.",280,54.8,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131987,145,149,Ritratto d'uomo. Finissima miniatura ovale in avorio con bella cornice in argento e strass. Epoca Impero.,284,98.1,False,positional,,,MINIATURE,,
-BO0624_81786,131988,146,150,Piccolo cofano in legno intagliato. Sec. XVI.,287,95.5,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131989,147,151,Tre placchette in argento a sbalzo rappresentanti tre santi. Sec. XV.,289,97.1,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131990,148,152,Sei bocchette da serratura di diverso modello in bronzo cesellato e dorato. Sec.XVIII.,291,97.7,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131991,149,153,Gruppo in radica di scopa rappresentante 《 La Pieta 》. Sec. XVIII.,293,96.7,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131992,150,154,Due urne in legno scolpito dipinto e dorato. Sec. XVII.,295,96.3,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131993,151,155,Placchetta russa in bronzo e smalti rappresentante Cristo Crocifisso. Tovaglia con entre-deux a piccoli rombi. Sec. XVII. Tovaglia con entre-deux a piecoli rombi. Sec. XVIl.,297,57.1,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131994,152,158,Bouvar in cuoio con bullettoni. Sec. XVI.,303,95.0,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131995,153,159,"Custodia per libro da preghiera, in cuoio lavorato con stemma. Se-",305,96.9,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131996,154,2,colo XVII.,306,90.0,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131997,155,3,160.Piccolo polittico in bronzo e smalto bleu rappresentante varie scene della vita di Cristo.,307,98.9,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131998,156,161,Bordo in trina punto Milano. Lung. m. 4.30.,308,95.1,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,131999,157,162,Due pezzi trina punto Milano. Lung. complessiva m. 6.70.,309,96.3,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132000,158,163,Bassorilievo in terracotta rappresentante la Vergine col Bambino. Se- colo XVI.,310,91.2,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132001,159,164,Le bien allee.— En route pour la chasse.— The Hermit.— Due incisioni colorate francesi e una incisione colorata inglese.,313,98.3,False,positional,,,STAMPE E INCISIONI,,
-BO0624_81786,132002,160,165,"Frontale di cofano fiammingo,in quercia scolpita:decorazione di figure e fogliami. Sec.XVI.",315,97.8,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132003,161,166,L'Annunciazione. Due altorilievi in noce. Sec. XVI. Alt. cm. 87.,317,96.6,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132004,162,167,La Gloria.Bellissimo bozzetto in bronzo montato su base di marmo attribuito ad Antonio Canova.Alt.cm.42.,319,98.1,False,positional,CANALE ANTONIO,,Oggetti d'Arte,,
-BO0624_81786,132005,163,2,168.Lotto di un facone e di un portazucchero in cristallo di Venezia.Secolo XVIII.,320,98.8,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132006,164,169,"Due graziosissime compostiere in vetro di Murano con ornati policromi. Sec.XVIll. Pezzi rari, da collezione.",321,78.0,False,positional,,Scuola di Murano,Oggetti d'Arte,,
-BO0624_81786,132007,165,170,Due candelieri in bronzo cesellato.Epoca Impero.,324,95.9,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132008,166,171,Obelisco in marmo. Sec. XVII.,326,92.9,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132009,167,173,Grazioso arcolaio in legno tornito. Sec.XVII.,330,95.6,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132010,168,174,Lampada cieca in ferro battuto. Sec. XV.,332,94.9,False,positional,,,LAMPADE,,
-BO0624_81786,132011,169,175,Alzata in bronzo dorato formata da tre cariatidi.,334,96.0,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132012,170,176,"Bellissima statua in argento rappresentante l'Arcangelo S. Michele che atterraSatana,montata su base con ornati in tartaruga. Sec. XVI. Peso netto dellargento circa 3 chilogrammi.",336,98.9,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132013,171,177,Bel bronzo moderno rappresentante una figura di donna sdraiata.,338,96.9,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132014,172,178,"Busto in marmo di G. Rossini, maestro compositore di musica.Lavoro attribuito al Canova. Alt. cm.84.",340,97.9,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132015,173,179,Busto in marmo di Giuseppe Verdi. Alt. cm. 58.,342,95.5,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132016,174,180,Bel bronzo rappresentante una testa di donna.,344,95.7,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132017,175,18,l.Lotto di sei fbbie. Epoche diverse.,346,97.2,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132018,176,182,Lotto di sette pettini antichi.,348,93.8,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132019,177,183,Lotto di tre astucci in cuoio bulinato a piccoli ferri. Sec. XVI. Due candelieri in argento finemente cesellati. Epoca Louis XVI.,353,65.6,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132020,178,184,Due alari in bronzo. Epoca Louis XVI.,355,94.6,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132021,179,187,Anfora e piatto in cristallo di Venezia. Decorazione in oro. Sec.XVIll.,359,97.1,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132022,180,188,Coppa in argento cesellato recante nel centro il ritratto di un principe. Stile rinascimento. Trionfo in legno scolpito e dorato.Epoca Impero.,363,77.8,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132023,181,189,Due candelieri veneziani in rame smaltato bleu e giallo.Epoca Louis XV.,367,97.2,False,positional,,Periodo di Luigi XV,Oggetti d'Arte,,
-BO0624_81786,132024,182,19,l. Astuccio in argento a forma di pesce. Sec. XVIl.,369,97.9,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132025,183,192,"Lotto di un astuccio in Vernis-Martin,e di un agoraio in madreperla",373,97.1,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132026,184,193,"Lotto di un cannocchiale in avorio e di una impugnatura da parasole, in avorio, rappresentante una figura di donna. Sec. XVIl. Due piccoli battenti in bronzo cesellato. Sec. XVlI. Statuetta in bronzo rappresentante una ballerina. Sec. XvIll.",375,68.2,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132027,185,196,Vaso in cristallo di Boemia a due manici. Decorazione in oro. Sec. XVIHI. Bellissimo vaso in cristallo di Boemia con coperchio.Decorazione in oro. Sec. XVIlI. Graziosa pendola in bronzo dorato. Epoca Louis XV.,383,57.5,False,positional,,Periodo di Luigi XV,VASI,,
-BO0624_81786,132028,186,199,"Due alabarde italiane con asta dell'epoca. See. XVI. Coperta da letto in damasco rosso. Sec. XVIlI. Due cartelle in seta ricamata, con stemmi Sec. XVII.",391,51.0,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132029,187,202,Caffettiera in argento cesellato. Lavoro inglese. Sec. XVIll.,393,96.6,False,positional,,,Oggetti d'Arte,,
-BO0624_81786,132030,188,203,Quarantotto figurini di mode. In due cornici noce. Impero.,395,96.5,False,positional,,,CORNICI,,
-BO0624_81786,132031,189,204,"Tappeto persiano Hernian. Alt. m. 3.20, larg. m. 2.70. Tappeto persiano da preghiera. Alt. m. 1.50, larg. m. 1.00. Tappeto persiano Kassack. Alt. m. 2.45, larg. m. 1.05.",401,53.9,False,positional,,,Tappeti Persiani,,
-BO0624_81786,132032,190,207,"Tappeto persiano Mossul. Alt. m. 2.30, larg. m. 1.10. Tappeto persiano Habistan. Alt. m. 2.72, larg. m. 1.06. Tappeto persiano Sommack. Alt. m. 3.65, larg. m. 2.10.",407,52.3,False,positional,,,Tappeti Persiani,,
-BO0624_81786,132033,191,210,"Tappeto persiano Kassack. Alt. m. 2.10, larg. m. 1.20.",411,95.9,False,positional,,,Tappeti Persiani,,
-BO0624_81786,132034,192,211,"Tappeto persiano Habessan. Alt. m. 2.30, larg. m. 1.10.",413,96.0,False,positional,,,Tappeti Persiani,,
+BO0624_81786,131843,1,1,"Scuola di Giotto. Sec. XIV. La Vergine col Bambino; ai piedi cinque figure di devoti. Interessante dipinto su tavola a fondo oro di buonissima conservazione. Su tabernacolo in legno policromato.Alt. cm.117, larg.cm.58.",5.0,99.5,False,positional,,Scuola di Giotto,OGGETTI IN LEGNO,,Sec. XIV
+BO0624_81786,131844,2,2,Scuola Senese. Sec.XV. La Vergine col Bambino. Buon dipinto su tavolaa fondooro.,7.0,86.1,False,positional,,Scuola Senese,Quadri Antichi,,
+BO0624_81786,131845,3,3,"Scuola Umbra. Sec. XV. S. Francesco d'Assisi. Dipinto su tavola. Cornice legno scolpito. Alt.cm.1l8,larg. cm.47.",8.0,74.3,False,positional,,Scuola Umbra,Quadri Antichi,,Sec. XV
+BO0624_81786,131846,4,4,".Ignoto. Sec.XV.La Vergine, dipinto su tavola a fondo oro. Maniera bizantina.Alt.cm.40,larg.cm.35.",9.0,78.0,False,positional,,,Quadri Antichi,,
+BO0624_81786,131847,5,6,"6.Fra Bartolomeo (Baccio della Porta). 1469-1517. La Deposizione. Schizzo su tavola molto avanzato del quadro esistente nella Galleria Pitti a Firenze. Cornice legno scolpito e dorato. Alt. cm.48, larghezza cm.66.",12.0,45.3,False,positional,,,Quadri Antichi,,Sec. XV
+BO0624_81786,131848,6,5,"Scuola Toscana. Sec.XVI. Gesu Bambino. Bel dipinto su tavola: sfondo di paese.Alt.cm.47,larg..cm.58.",13.0,98.9,False,positional,,Scuola Toscana,Quadri Antichi,,
+BO0624_81786,131849,7,7,"7.Fra Bartolommeo (Scuola di). Sec. XV. La Vergine col Bambino,",16.0,97.4,False,positional,,,Quadri Antichi,,Sec. XV
+BO0624_81786,131850,8,8,"Bernardo Zenale. Sec. XV. La Vergine col Bambino e due Sante. Interessante e bellissimo dipinto su tavola, su fondo dorato. Cornice legno scolpito e dorato.Alt.cm. 65,larg.cm.65.",17.0,99.4,False,positional,,,Quadri Antichi,,Sec. XV
+BO0624_81786,131851,9,9,9.Dosso Dossi. 14...1558. La Samaritana al pozzo. Dipinto su tela,18.0,97.6,False,positional,,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131852,10,10,"Garofalo (Benvenuto Tisi da). 1481-1559.La Vergine in trono col Bambino.Bel dipinto su tavola. Cornice legno scolpito e dorato.Altezza cm.125,larg.cm.45. Vedi tavola N. 8.",23.0,63.0,False,positional,,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131853,11,11,"Scuola Lombarda. Sec. XVI. La Vergine col Bambino: sfondo di paese. Dipinto su tavola. Cornice legno dorato. Alt. cm. 60, larg. cm.43. Garofalo (Benvenuto Tisi da). 1481-1559.La Vergine in trono col Bambino.Bel dipinto su tavola. Cornice legno scolpito e dorato.Altezza cm.125,larg.cm.45. Vedi tavola N. 8.",24.0,73.1,False,positional,,Scuola Lombarda,Quadri Antichi,,Sec. XVI
+BO0624_81786,131854,12,12,"Foppa Vincenzo (Scuola di). Sec. XV. La Deposizione. Dipinto su tavola,molto interessante. Cornice legno nero con decorazione in oro. Alt.cm.105,larg.cm.83.",25.0,99.0,False,positional,,,Quadri Antichi,,Sec. XV
+BO0624_81786,131855,13,13,"Luini Bernardino.1470-1540. La Vergine,il Bambino e S.Giovan-",28.0,97.5,False,positional,BERNARDINO LUINI,,Quadri Antichi,,Sec. XV
+BO0624_81786,131856,14,14,"Salaino (Andrea Salai detto il).Sec.XVI. La Madonna del velo di Raffaello; copia bellissima del Salaino. Dipinto su tavola. Alt.em. 110, larg.cm.100.",30.0,98.9,False,positional,,,Quadri Antichi,,
+BO0624_81786,131857,15,15,Solario Andrea.Sec.XVI.La Vergine addolorata;interessante fondo,31.0,97.7,False,positional,,,Quadri Antichi,,
+BO0624_81786,131858,16,16,Andrea del Sarto (Maniera di). Sec. XVI. Gesu Cristo benedicente.,36.0,97.5,False,positional,DEL SARTO ANDREA,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131859,17,17,Bronzino (Alessandro Allori detto il). Sec. XVI. Ritratto d'uomo. Forte dipinto su tavola.Cornice antica legno scolpito e dorato.Altezza,37.0,98.9,False,positional,"BRONZINO, AGNOLO DI COSIMO",,Quadri Antichi,,Sec. XVI
+BO0624_81786,131860,18,18,Orazio Alfani.1513-1583. La Santa Famiglia.Buon dipinto su tavola,40.0,96.2,False,positional,,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131861,19,19,"Francia Francesco.1450-1535. La Deposizione. Dipinto su tavola bellissimo, di corretto disegno e buon colorito. Cornice legno dorato. Altezza cm.4l,larg.cm.80.",42.0,99.0,False,positional,,,Quadri Antichi,,Sec. XV
+BO0624_81786,131862,20,20,"Correggio (Maniera del). Sec. XVI. La Vergine e S. Giuseppe adorano il Bambino. Ottimo dipinto su tavola. Interessantissimo sfondo di paesaggio. Cornice legno nero scolpito. Alt. cm. 42, larg. cm. 33.",46.0,99.2,False,positional,CORREGGIO,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131863,21,21,"Ignoto. Sec.XVI. La Vergine col Bambino e Santi.Grande e bella pala d’altare. Alt. cm. 170, larg. 135.",47.0,76.4,False,positional,,,Quadri Antichi,,
+BO0624_81786,131864,22,22,"Cariani Giovanni. 1480-1519. La Vergine col Bambino e due Donatori.Dipinto su tela di grande interesse.Cornice legno dorato.Altezza cm. 98, Jarg. cm. 100. Vedi tavola N.2.",49.0,99.1,False,positional,,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131865,23,23,Moretto da Brescia.Sec.XVI. La Deposizione. Bel dipinto su tela.,50.0,97.6,False,positional,,,Quadri Antichi,,
+BO0624_81786,131866,24,24,"Scuola Veneta. Sec.XVI. Ritratto di Madonna Laura. Buon dipinto su tela.Cornice in legno polieromato.Alt.cm.50, larg. cm.38. Cornice legno seolpito e dorato.Alt.cm.70,larg. cm. 60. Vedi tavola N.9.",51.0,76.6,False,positional,,Scuola Veneta,Quadri Antichi,,
+BO0624_81786,131867,25,25,"Giorgione (Giorgio Barbarelli detto il). Sec.XVI. (Maniera). Ritratto di giovane gentiluomo. Bel dipinto su tela. Cornice legno dorato. Alt.cm.65,larg.cm.50. larg. cm. 124.",53.0,95.1,False,positional,GIORGIONE,,Quadri Antichi,,
+BO0624_81786,131868,26,26,"Tintoretto (Jacopo Robusti detto il). 1512-1594. La Piscina. Schizzo molto avanzato pel quadro esistente a Venezia nella Chiesa di S.Rocco. Dipinto su tela di sommo interesse. Cornice legno dorato. Alt. cm.46,",55.0,99.3,False,positional,TINTORETTO,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131869,27,27,"Tintoretto (Jacopo Robusti detto il). 1512-1594. La Deposizione. Bellissimo dipinto su tela. Cornice scolpita e dorata. Alt.cm.7o, larghezza cm. 60.",60.0,73.4,False,positional,TINTORETTO,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131870,28,28,"Moroni G.B.1510-1578.Ritratto di magistrato.Bellissimo dipinto su tela. Cornice legno dorato.Alt. cm.139, larg. cm.105. Vedi la riproduzione sulla copertina del Catalogo.",65.0,99.1,False,positional,,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131871,29,29,"Moroni G.B. 1510-1578. La Vergine col Bambino e coro di Cherubini. Bel dipinto su tela. Cornice legno dorato. Alt. cm.67, larg. cm.58. Vedi tavola N.8.",66.0,98.9,False,positional,,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131872,30,30,"Tiziano Vecellio.1477-1576.Ritratto di una vecchia signora,in co-",67.0,97.7,False,positional,TIZIANO VECELLIO,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131873,31,31,Bassano Leandro.1558-1623.Ritratto di giovane gentiluomo. Bel,72.0,97.6,False,positional,BASSANO GIACOMO,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131874,32,32,"Bassano Francesco (Francesco da Ponte detto).1548-1591. Ritratto di vecchio magistrato. Bel dipinto su tela. Alt. cm.120,larghezza cm.100.",77.0,98.9,False,positional,BASSANO GIACOMO,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131875,33,33,Lippi Lorenzo.1606-1664. Trionfo di David. Buon dipinto su tela.,78.0,97.6,False,positional,,,Quadri Antichi,,Sec. XVII
+BO0624_81786,131876,34,34,Moncalvo (Guglielmo Caccia detto il). 1568-1625. La Deposizione.,79.0,97.5,False,positional,,,Quadri Antichi,,Sec. XVI
+BO0624_81786,131877,35,35,Crespi Daniele.1590-1630.S.Antonio. Buon dipinto su tela.Cornice,82.0,97.7,False,positional,CRESPI DANIELE,,Quadri Antichi,,Sec. XVII
+BO0624_81786,131878,36,36,"Crespi Giuseppe Maria (Maniera). 1655-1747. S. Francesco d'Assisi. Dipinto su tela di tocco vigoroso. Cornice legno dorato.Alt.cm.38, larg. cm. 27.",83.0,98.9,False,positional,CRESPI DANIELE,,Quadri Antichi,,Sec. XVII
+BO0624_81786,131879,37,37,Schedone Bartolommeo. 15...-1615. San Giovanni nel bosco. Bel di-,85.0,97.5,False,positional,,,Quadri Antichi,,Sec. XVII
+BO0624_81786,131880,38,38,"Guido Reni.1575-1642.L'Arcangelo Gabriele. Bellissimo dipinto su su tela;ripetizione di quello esistente a Roma. Bella cornice in legno scolpito e dorato.Alt.cm.148,larg. cm 113.",86.0,99.1,False,positional,GUIDO RENI,,Quadri Antichi,,Sec. XVII
+BO0624_81786,131881,39,39,Scuola Veneta. Sec.XVII.Testa di vecchio. Bel dipinto ovale su tela,88.0,97.7,False,positional,,Scuola Veneta,Quadri Antichi,,
+BO0624_81786,131882,40,40,"Francesco Zuccarelli. 1704-17.. Paesaggio. Bellissimo dipinto su tela a colori freschi e vivaci. Cornice francese a pastiglia. Alt. cm. 79, larg.cm.102.",90.0,99.0,False,positional,,,Quadri Antichi,,Sec. XVIII
+BO0624_81786,131883,41,41,Zuccarelli Francesco (Maniera). Sec. XVIII. Paesaggio. Bel di-,91.0,97.3,False,positional,,,Quadri Antichi,,Sec. XVIII
+BO0624_81786,131884,42,42,Zuccarelli Francesco (Maniera). Sec.XVIII. Paesaggio. Bel di-,93.0,97.3,False,positional,,,Quadri Antichi,,
+BO0624_81786,131885,43,43,"Zuccarelli Francesco (Maniera). Sec.XVIII. Paesaggio. Bel dipinto su tela. Cornice legno dorato.Alt.cm.90,larg. cm.120.",95.0,98.7,False,positional,,,Quadri Antichi,,
+BO0624_81786,131886,44,44,Zuccarelli Francesco (Maniera). Sec. XVIII. Paesaggio. Rovine,96.0,97.3,False,positional,,,Quadri Antichi,,Sec. XVIII
+BO0624_81786,131887,45,45,Zais Giuseppe. 17..-1784. Paesaggio.Dipinto su tela. Cornice legno,97.0,97.6,False,positional,ZAIS GIUSEPPE,,Quadri Antichi,,Sec. XVIII
+BO0624_81786,131888,46,46,"Canaletto (Maniera del). Sec.XVIII. Piazza S. Marco. Due bei dipinti su tela. Alt. cm. 25, larg. cm. 38.",100.0,98.4,False,positional,CANALE ANTONIO,,Quadri Antichi,,
+BO0624_81786,131889,47,47,"Canaletto (Maniera del). Sec.XVIII. Veduta di S. Maria della Salute a Venezia. Grazioso dipinto su tela. Cornice in legno dorato. Altezza cm.49,larg.cm.30.",103.0,56.0,False,positional,CANALE ANTONIO,,Quadri Antichi,,
+BO0624_81786,131890,48,48,Scuola Veneziana. Sec.XVIII. Trionfo di due Santi. dipinto su ta-,104.0,97.6,False,positional,,Scuola Veneziana,Quadri Antichi,,
+BO0624_81786,131891,49,49,Scuola Veneziana. Sec.XVIII. Giunone. Dipinto su tela. Ricca cor-,108.0,97.6,False,positional,,Scuola Veneziana,Quadri Antichi,,
+BO0624_81786,131892,50,50,Scuola Veneziana. Sec. XVIII. Santa conversazione. Dipinto su tela.,109.0,97.6,False,positional,,Scuola Veneziana,Quadri Antichi,,Sec. XVIII
+BO0624_81786,131893,51,51,Longhi P. Sec.XVIII. Ritratto di gentiluomo. Dipinto su tela. Cor-,110.0,97.6,False,positional,LONGHI PIETRO,,Quadri Antichi,,
+BO0624_81786,131894,52,52,"Longhi Pietro.Sec.XVIII. Ritratto di gentiluomo; ritratto di gentildonna.Due dipinti su tela. Cornici legno dipinto e dorato. Alt.cm.65, larg.cm.45",113.0,99.0,False,positional,LONGHI PIETRO,,CORNICI,,
+BO0624_81786,131895,53,53,"Dietrick (Cristiano Guglielmo Ernesto). 1712-1774. Adorazione dei Re Magi. Bel dipinto su tela. Cornice legno dorato. Alt. cm,142, larghezza cm. 96.",115.0,71.6,False,positional,,,Quadri Antichi,,Sec. XVIII
+BO0624_81786,131896,54,54,54.Van Dyk (Maniera di). Sec.XVII. Ritratto di gentiluomo in piedi.,116.0,97.6,False,positional,VAN DYCK ANTON,,Quadri Antichi,,
+BO0624_81786,131897,55,55,Rembrandt (Maniera di). Sec.XVII. Ritratto d’uomo. Buon dipinto,117.0,97.5,False,positional,REMBRANDT VAN RIJN,,Quadri Antichi,,
+BO0624_81786,131898,56,56,Van OStade (Maniera di). Sec. XV. Un suonatore di chitarra. Graziosissimo dipinto su tavola,119.0,42.3,False,positional,ADRIAEN VAN OSTADE,,Quadri Antichi,,Sec. XV
+BO0624_81786,131899,57,57,"Nattier G. Sec.XVIII. Ritratto di gentiluomo in parrucca. Bel dipinto su tela.Cornice legno dorato.Alt.cm.104,larg.cm.82. 56.Van Ostade (Maniera di). Sec.XV. Un suonatore di chitarra. Graziosissimo dipinto su tavola toccato da maestro.",120.0,67.8,False,positional,ADRIAEN VAN OSTADE,,Quadri Antichi,,
+BO0624_81786,131900,58,58,"Lancret Nicolas.1690-1743. Contadine e gentiluomini. Due bei dipinti su tela, di colorito delicato.Cornice legno scolpito e dorato.Altezza cm.78,larg.cm.43.",122.0,99.0,False,positional,LANCRET NICOLAS,,Quadri Antichi,,Sec. XVIII
+BO0624_81786,131901,59,59,"59.Greuse Giov.Batta.1725-1805.Ritratto di giovinetto.Bellissimo dipinto, di corretto disegno. Cornice francese dell'epoca. Alt. cm. 53,larghezza cm.42.",123.0,99.0,False,positional,,,Quadri Antichi,,Sec. XVIII
+BO0624_81786,131902,60,60,Scuola Francese. Sec.XVIII. Ritratto di gentildcnna. Buon dipinto,124.0,97.6,False,positional,,,Quadri Antichi,,
+BO0624_81786,131903,61,61,Scuola Inglese.Sec.XVIII. Ritratto di giovinetto. Testa molto piu,125.0,97.7,False,positional,,,Quadri Antichi,,
+BO0624_81786,131904,62,62,"Scuola Inglese. Sec.XIX. Interno dello studio di un pittore. Graziosissimo dipinto. Cornice in legno nero a sbalzo.Alt. cm.37,larghezza cm.29.",128.0,98.9,False,positional,,,Quadri Antichi,,
+BO0624_81786,131905,63,63,Dubois J. Sec. XIX. Paesaggio svizzero. Grazioso piccolo dipinto. Cornice in legno scolpito e dorato.,129.0,98.4,False,positional,,,Quadri Antichi,,Sec. XIX
+BO0624_81786,131906,64,64,Bottiglia in maiolica di Montelupo verniciata in giallo. Sec. XVI.,133.0,96.1,False,positional,,,Maioliche e Porcellane,,Sec. XVI
+BO0624_81786,131907,65,65,Cachepot in terra-cotta verniciata.Epoca Impero.,134.0,68.8,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131908,66,66,Grande orcio in terracotta verniciata. Sec. XVII.,135.0,68.8,False,positional,,,Maioliche e Porcellane,,Sec. XVII
+BO0624_81786,131909,67,67,Piatto in maiolica di Savona. Decorazione policroma di figura e fogliami. Marcato.Sec.XVII.,136.0,98.3,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131910,68,68,Lotto di quattro vasetti in maiolica di Faenza. Decorazioni diverse. Secolo XVIII.,139.0,98.1,False,positional,,Scuola Faentina,Maioliche e Porcellane,,Sec. XVIII
+BO0624_81786,131911,69,69,69.Lotto di3 piatti di fabbriche ed epoche diverse.,140.0,98.0,False,positional,,,PIATTI,,
+BO0624_81786,131912,70,70,Terracotta rappresentante un marzocco che sostiene uno stemma,142.0,97.6,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131913,71,71,Due bei vasetti in maiolica di Treviso; decorazione policroma. Sec. XVIIl. Terracotta rappresentante un marzocco che sostiene uno stemma.,143.0,50.7,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131914,72,72,Lotto di sei vasetti in maiolica di Faenza: decorazione bleue. Sec. XVIll.,144.0,77.0,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
+BO0624_81786,131915,73,73,Lotto di sei vasetti in maiolica di Faenza. Decorazione bleue. Sec. XVIII.,145.0,97.9,False,positional,,Scuola Faentina,Maioliche e Porcellane,,Sec. XVIII
+BO0624_81786,131916,74,74,Un vasetto in maiolica di Cafaggiolo: decorazione bleue. Sec. XVI.,146.0,48.8,False,positional,,,Maioliche e Porcellane,,Sec. XVI
+BO0624_81786,131917,75,75,Piatto di Montelupo; decorazione policroma. Piatto di Faenza recante un putto nel centro. Sec. XVIl. Vassoio circolare in maiolica di Moustier.Decorazione di fiori ed uccelli.,147.0,60.4,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
+BO0624_81786,131918,76,76,Lotto di tre piatti in porcellana della China e di un piatto vecchio GInori.Decorazioni policrome diverse.,148.0,98.6,False,positional,,,PIATTI,,
+BO0624_81786,131919,77,77,Vassoio circolare in maiolica di Moustier. Decorazione di fiori e uccelli.Sec.XVIII.,149.0,21.3,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131920,78,78,Lotto di due interessanti vassoi in maiolica di Rouen. Sec. XVII. fogliami. Sec. XVII.,150.0,85.5,False,positional,,,Maioliche e Porcellane,,Sec. XVII
+BO0624_81786,131921,79,79,"Due vasi in maiolica di Faenza: decorazione bleue di stemma, animali e",152.0,97.8,False,positional,,Scuola Faentina,VASI,,
+BO0624_81786,131922,80,80,"Due vasi in maiolica li Faenza: decorazione bleue di stemma, animali e fogliami. Sec. XVII.",153.0,86.6,False,positional,,Scuola Faentina,VASI,,Sec. XVII
+BO0624_81786,131923,81,81,"Due vasetti in maiolica di Faenza. Decorazione bleue di stemma, animali e fogliami. Sec.XVII.",155.0,85.7,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
+BO0624_81786,131924,82,82,"Due bottiglie in maiolica di Faenza: decorazione bleue di stemma, ani- mali e fogliami. Sec. XVII.",157.0,82.7,False,positional,,Scuola Faentina,BOTTIGLIE,,Sec. XVII
+BO0624_81786,131925,83,83,Due vasetti in maiolica di Faenza: decorazione bleue con stemma poli- cromo. Sec. XVII.,159.0,88.2,False,positional,,Scuola Faentina,Maioliche e Porcellane,,Sec. XVII
+BO0624_81786,131926,84,84,Due vasetti in maiolica di Faenza: decorazione bleue con stemma poli- cromo. Sec.XVII.,161.0,88.2,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
+BO0624_81786,131927,85,85,Due vasi con ansa e becco in maiolica di Faenza: decorazione bleue di,163.0,97.8,False,positional,,Scuola Faentina,VASI,,
+BO0624_81786,131928,86,86,Due vasi in maiolica di Faenza. Decorazione bleue di stemma animali e,164.0,97.8,False,positional,,Scuola Faentina,VASI,,
+BO0624_81786,131929,87,87,Due bottiglie in maiolica di Faenza: decorazione bleue di stemma ani- mali e fogliami. Sec. XVII.,167.0,82.7,False,positional,,Scuola Faentina,BOTTIGLIE,,Sec. XVII
+BO0624_81786,131930,88,88,"Due vasi in maiolica di Faenza: decorazione bleue di stemma, animali e",169.0,97.8,False,positional,,Scuola Faentina,VASI,,
+BO0624_81786,131931,89,89,"Due vasi in maiolica di Faenza, con ansa e becco: decorazione bleue a festoni. Sec. XVII. fogliami. Sec. XVII.",170.0,88.9,False,positional,,Scuola Faentina,VASI,,Sec. XVII
+BO0624_81786,131932,90,90,Due vasi in maiolica del Marocco. Decorazione policroma. Sec. XVI. Porta-fiori in maiolica di Marsiglia. Decorazione polieroma. See. XVIII. Zuppiera in maiolica di Savona. Decorazione bleue di fiori e fogliami. Sec.XVIII.,171.0,15.7,False,positional,,,VASI,,Sec. XVI
+BO0624_81786,131933,91,91,Zuppiera in maiolica di Savona. Decorazione bleue di fiori e fogliami. Sec.XVIII.,172.0,64.3,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131934,92,92,Porta-fiori in maiolica di Marsiglia. Decorazione polieroma. See. XVIII.,173.0,97.8,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131935,93,93,Cachepot in maiolica di Delft Decorazione bleue di figure e paesaggio. Sec.XVIl. Pezzo interessante e raro.,175.0,98.6,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131936,94,94,Due vassoi in maiolica di Vienna. Decorazione policroma di fiori. Marcati. See.XVIII.,176.0,98.2,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131937,95,95,95.Due basi in porcellana di Vienna. Marcate. See. XVIII.,177.0,97.2,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131938,96,96,Bella zuppiera in porcellana di Venezia. Decorazione di fiori ed oro. Secolo XVIII.,178.0,98.2,False,positional,,,Maioliche e Porcellane,,Sec. XVIII
+BO0624_81786,131939,97,97,Catinella in maiolica di Rouen. Decorazione bleue di fogliami e selvag- gina. See. XVII.,181.0,89.0,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131940,98,98,Ricco ed elegante servito in maiolica inglese composto di 103 pezzi. Decorazione verde di fiorellini. See.XVIll.,183.0,98.6,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131941,99,99,99.Due vasi in maiolica di Savona.Decorazione bleue su fondo bleue. Se-,184.0,98.6,False,positional,,,VASI,,
+BO0624_81786,131942,100,100,100.Tre piatti in porcellana della China.Bella decorazione policroma. Mar-,186.0,98.6,False,positional,,,PIATTI,,
+BO0624_81786,131943,101,101,101.Insalatiera in maiolica di Rouen.Decorazione policroma di fiori. Secolo XVIII.,188.0,98.8,False,positional,,,Maioliche e Porcellane,,Sec. XVIII
+BO0624_81786,131944,102,102,102.Insalatiera in maiolica di Rouen.Decorazione policroma di fiori. Secolo XVIII.,190.0,88.9,False,positional,,,Maioliche e Porcellane,,Sec. XVIII
+BO0624_81786,131945,103,103,Seatola in porcellana bianca di Venezia formata da un gruppo di fan- ciulli. See. XVIII.,191.0,86.5,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131946,104,104,Il marito bastonato. Bellissimo gruppo in porcellana di Meissen. Marcato.,193.0,97.2,False,positional,,Scuola di Meissen,Maioliche e Porcellane,,
+BO0624_81786,131947,105,105,Tassa da brodo in maiolica di Faenza. Decorazione bleue su fondo bleu. Epoca Louis XVI.,194.0,97.7,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
+BO0624_81786,131948,106,106,Tazza da brodo in maiolica di Faenza.Decorazione bleue su fondo bleu. Epoca Louis XVI.,195.0,97.7,False,positional,,Scuola Faentina,Maioliche e Porcellane,,
+BO0624_81786,131949,107,107,Vaso con ansa e becco in maiolica di Casteldurante. Decorazione poli-,196.0,95.0,False,positional,,,VASI,,
+BO0624_81786,131950,108,108,Boccale da scommessa in maiolica di Casteldurante. Decorazione policroma.Sec.XVII.,198.0,97.6,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131951,109,109,Bel vasetto in maiolica di Savona. Decorazione bleue su fondo bianco. Sec. XVI.,199.0,97.4,False,positional,,,Maioliche e Porcellane,,Sec. XVI
+BO0624_81786,131952,110,110,Due vasi in maiolica di Savona. Decorazione bleue a ramages. Sec. XVII.,200.0,97.1,False,positional,,,VASI,,Sec. XVII
+BO0624_81786,131953,111,111,Bel vasetto in maiolica di Savona.Decorazione bianca e gialla su fondo,201.0,95.2,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131954,112,112,Vaso in maiolica di Faenza a due anse.Decorazione bleue. Sec. XVII.,203.0,97.0,False,positional,,Scuola Faentina,VASI,,Sec. XVII
+BO0624_81786,131955,113,113,Due vasi in maiolica di Faenza. Decorazione policroma di figure e paesaggi. Datati 1735.,204.0,96.0,False,positional,,Scuola Faentina,VASI,,Sec. XVIII
+BO0624_81786,131956,114,114,Boccale in maiolica della Fratta con grafiti primitivi. Sec. XVI.,205.0,96.9,False,positional,,,Maioliche e Porcellane,,Sec. XVI
+BO0624_81786,131957,115,115,Lotto di due vasi con ansa e becco in maiolica di Faenza decorato a,206.0,95.0,False,positional,,Scuola Faentina,VASI,,
+BO0624_81786,131958,116,116,Due vasi a rocchetto in maiolica di Savona. Decorazione bleue a ra- mages. Sec. XVII.,208.0,87.2,False,positional,,,VASI,,Sec. XVII
+BO0624_81786,131959,117,117,Grande fltro in maiolica inglese. See. XVIll.,210.0,95.5,False,positional,,,Maioliche e Porcellane,,
+BO0624_81786,131960,118,118,Due grandi e belle bottiglie di Savona. Decorazione bleue su fondo di animali e fogliami. Sec. XVII.,211.0,98.0,False,positional,,,BOTTIGLIE,,Sec. XVII
+BO0624_81786,131961,119,119,"Quattro vasetti con coperehio in maiolica di Pesaro, decorazioni di fiori. Sec. XVIII.",212.0,97.6,False,positional,,,Maioliche e Porcellane,,Sec. XVIII
+BO0624_81786,131962,120,120,"Quattro vasetti con coperchio in maiolica di Pesaro, decorazioni di fiori. Sec. XVIII.",213.0,97.6,False,positional,,,Maioliche e Porcellane,,Sec. XVIII
+BO0624_81786,131963,121,121,Baule in cuoio policromo e ferro battuto. Sec. XVI.,216.0,96.0,False,positional,,,Mobili,,Sec. XVI
+BO0624_81786,131964,122,122,"Cassa in noce intagliata, fiamminga.",220.0,94.4,False,positional,,,Mobili,,
+BO0624_81786,131965,123,123,Piccola serivania in noce lustrata a ebano. ornata di bronzi. Stile Louis XV.,222.0,40.3,False,positional,,Periodo di Luigi XV,Mobili,,
+BO0624_81786,131966,124,124,Tavolone toscano a gambe tornite. Sec. XVII.,224.0,52.5,False,positional,,,Mobili,,Sec. XVII
+BO0624_81786,131967,125,125,"Stipo a vari tiretti, scolpito e lumeggiato in oro.",226.0,96.1,False,positional,,,Mobili,,
+BO0624_81786,131968,126,126,Quattro sgabelli in noce a gambe tornite coperti in tessuti di crine. Sec.XVII.,,0.0,True,none,,,,,
+BO0624_81786,131969,127,127,Specchio in bella cornice di noce lustrato a ebano scolpito e dorato. Sec. XVII.,228.0,97.5,False,positional,,,Mobili,,Sec. XVII
+BO0624_81786,131970,128,128,Sgabello in legno con schienale scolpito. See. XVI.,230.0,94.0,False,positional,,,Mobili,,
+BO0624_81786,131971,129,129,Sgabello in legno con schienale scolpito. Sec. XVI.,232.0,94.0,False,positional,,,Mobili,,Sec. XVI
+BO0624_81786,131972,130,130,"Due poltrone in legno scolpito, coperte in paglia. Epoca Louis XVI.",234.0,97.0,False,positional,,,POLTRONE,,
+BO0624_81786,131973,131,131,Sedia in legno con sehienale intagliato. Sec. XVII.,238.0,96.0,False,positional,,,Mobili,,Sec. XVII
+BO0624_81786,131974,132,132,Baule in cuoio lavorato. Sec. XVI.,240.0,38.5,False,positional,,,Mobili,,Sec. XVI
+BO0624_81786,131975,133,133,Bella ed elegante poltroneina in noce intagliato con ritratti nella cimasa bis. Armadio in noce scolpito. Epoca Luigi XV.,242.0,53.3,False,positional,,Periodo di Luigi XV,Mobili,,
+BO0624_81786,131976,134,134,Cassa forte in noce e ferro. Sec. XVI. Due poltrone Savonarola. Due poltroncine Savonarola.,246.0,56.0,False,positional,,,POLTRONE,,Sec. XVI
+BO0624_81786,131977,135,135,Due poltroncine Savonarola.,248.0,86.8,False,positional,,,Mobili,,
+BO0624_81786,131978,136,136,Due poltrone Savonarola.,250.0,86.8,False,positional,,,POLTRONE,,
+BO0624_81786,131979,137,137,Tavolo in noce con piedi a lira intagliato. Sec. XVI.,252.0,96.2,False,positional,,,Mobili,,Sec. XVI
+BO0624_81786,131980,138,138,Due sedie in noce intagliato coperte in canna d’India. Epoca Louis XVI.,254.0,97.2,False,positional,,,SEDIE,,
+BO0624_81786,131981,139,139,Due sedie in noce intagliato coperte in canna d'India. Epoca Louis XVI.,256.0,97.2,False,positional,,,SEDIE,,
+BO0624_81786,131982,140,140,Tavolone in noce a gambe tornite ornato da borchie in bronzo. Sec. XVII. l.Bellissima cassa in,258.0,84.1,False,positional,,,Mobili,,Sec. XVII
+BO0624_81786,131983,141,141bis,bis. Armadio in noce. Sec. XVII.,264.0,93.3,False,positional,,,Mobili,,Sec. XVII
+BO0624_81786,131984,142,142,Madia in noce. See. XVII.,266.0,87.5,False,positional,,,Mobili,,
+BO0624_81786,131985,143,143,Madia in noce. Sec. XVII.,268.0,87.5,False,positional,,,Mobili,,Sec. XVII
+BO0624_81786,131986,144,144,Una credenza in noce. See. XVII.,270.0,93.5,False,positional,,,Mobili,,
+BO0624_81786,131987,145,145,Bella poltrona francese,272.0,39.5,False,positional,,,POLTRONE,,
+BO0624_81786,131988,146,145bis,"Quattro poltrone in mogano, coperte in cuoio. Impero. Bella poltrona francese in legno intagliato. See. XVI.",274.0,66.2,False,positional,,,POLTRONE,,
+BO0624_81786,131989,147,146,Lotto di due graziosi gruppi in terracotta policromata. See. XVIII.,278.0,97.0,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,131990,148,147,Due ritratti di gentiluomini. Piccolo dittico in avorio.,280.0,39.7,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,131991,149,148,"Cornetto ad uso fiasca da polvere, in avorio scolpito a soggetti di caccia.",282.0,41.2,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,131992,150,149,Ritratto d'uomo. Finissima miniatura ovale in avorio con bella cornice in argento e strass. Epoca Impero.,284.0,98.1,False,positional,,,MINIATURE,,
+BO0624_81786,131993,151,150,Piccolo cofano in legno intagliato. Sec. XVI.,287.0,95.5,False,positional,,,Oggetti d'Arte,,Sec. XVI
+BO0624_81786,131994,152,151,Tre placchette in argento a sbalzo rappresentanti tre santi. Sec. XV.,289.0,97.1,False,positional,,,Oggetti d'Arte,,Sec. XV
+BO0624_81786,131995,153,152,Sei bocchette da serratura di diverso modello in bronzo cesellato e dorato. Sec.XVIII.,291.0,97.7,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,131996,154,153,Gruppo in radica di scopa rappresentante 《 La Pieta 》. Sec. XVIII.,293.0,96.7,False,positional,,,Oggetti d'Arte,,Sec. XVIII
+BO0624_81786,131997,155,154,Due urne in legno scolpito dipinto e dorato. Sec. XVII.,295.0,96.3,False,positional,,,Oggetti d'Arte,,Sec. XVII
+BO0624_81786,131998,156,155,Placchetta russa in bronzo e smalti rappresentante Cristo Crocifisso.,297.0,97.1,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,131999,157,156,Tovaglia con entre-deux a piecoli rombi. Sec. XVIl.,299.0,92.0,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132000,158,157,Tovaglia con entre-deux a piccoli rombi. Sec. XVII.,301.0,92.0,False,positional,,,Oggetti d'Arte,,Sec. XVII
+BO0624_81786,132001,159,158,Bouvar in cuoio con bullettoni. Sec. XVI.,303.0,95.0,False,positional,,,Oggetti d'Arte,,Sec. XVI
+BO0624_81786,132002,160,159,"Custodia per libro da preghiera, in cuoio lavorato con stemma. Se-",305.0,96.9,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132003,161,160,160.Piccolo polittico in bronzo e smalto bleu rappresentante varie scene della vita di Cristo.,307.0,98.9,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132004,162,161,Bordo in trina punto Milano. Lung. m. 4.30.,308.0,95.1,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132005,163,162,Due pezzi trina punto Milano. Lung. complessiva m. 6.70.,309.0,96.3,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132006,164,163,Bassorilievo in terracotta rappresentante la Vergine col Bambino. Se- colo XVI.,310.0,91.2,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132007,165,164,Le bien allee.— En route pour la chasse.— The Hermit.— Due incisioni colorate francesi e una incisione colorata inglese.,313.0,98.3,False,positional,,,STAMPE E INCISIONI,,
+BO0624_81786,132008,166,165,"Frontale di cofano fiammingo,in quercia scolpita:decorazione di figure e fogliami. Sec.XVI.",315.0,97.8,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132009,167,166,L'Annunciazione. Due altorilievi in noce. Sec. XVI. Alt. cm. 87.,317.0,96.6,False,positional,,,Oggetti d'Arte,,Sec. XVI
+BO0624_81786,132010,168,167,La Gloria.Bellissimo bozzetto in bronzo montato su base di marmo attribuito ad Antonio Canova.Alt.cm.42.,319.0,98.1,False,positional,CANALE ANTONIO,,Oggetti d'Arte,,
+BO0624_81786,132011,169,168,168.Lotto di un facone e di un portazucchero in cristallo di Venezia.Secolo XVIII.,320.0,98.8,False,positional,,,Oggetti d'Arte,,Sec. XVIII
+BO0624_81786,132012,170,169,"Due graziosissime compostiere in vetro di Murano con ornati policromi. Sec.XVIll. Pezzi rari, da collezione.",321.0,78.0,False,positional,,Scuola di Murano,Oggetti d'Arte,,
+BO0624_81786,132013,171,170,Due candelieri in bronzo cesellato.Epoca Impero.,324.0,95.9,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132014,172,171,Obelisco in marmo. Sec. XVII.,326.0,92.9,False,positional,,,Oggetti d'Arte,,Sec. XVII
+BO0624_81786,132015,173,172,Due bellissimi alari in bronzo dorato,328.0,17.8,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132016,174,173,Grazioso arcolaio in legno tornito. Sec.XVII.,330.0,95.6,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132017,175,174,Lampada cieca in ferro battuto. Sec. XV.,332.0,94.9,False,positional,,,LAMPADE,,Sec. XV
+BO0624_81786,132018,176,175,Alzata in bronzo dorato formata da tre cariatidi.,334.0,96.0,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132019,177,176,"Bellissima statua in argento rappresentante l'Arcangelo S. Michele che atterraSatana,montata su base con ornati in tartaruga. Sec. XVI. Peso netto dellargento circa 3 chilogrammi.",336.0,98.9,False,positional,,,Oggetti d'Arte,,Sec. XVI
+BO0624_81786,132020,178,177,Bel bronzo moderno rappresentante una figura di donna sdraiata.,338.0,96.9,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132021,179,178,"Busto in marmo di G. Rossini, maestro compositore di musica.Lavoro attribuito al Canova. Alt. cm.84.",340.0,97.9,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,132022,180,179,Busto in marmo di Giuseppe Verdi. Alt. cm. 58.,342.0,95.5,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740869,181,180,Bel bronzo rappresentante una testa di donna.,344.0,95.7,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740870,182,181,Lotto di sei fbbie. Epoche diverse.,346.0,94.3,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740871,183,182,Lotto di sette pettini antichi.,348.0,93.8,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740872,184,183,Lotto di tre astucci in cuoio bulinato a piccoli ferri. Sec. XVI. Due candelieri in argento finemente cesellati. Epoca Louis XVI.,351.0,65.3,False,positional,,,Oggetti d'Arte,,Sec. XVI
+BO0624_81786,740873,185,184,Due alari in bronzo. Epoca Louis XVI.,353.0,62.0,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740874,186,185,Due candelieri in argento finemente cesellati,355.0,47.6,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740875,187,186,"Due statuette in bronzo rappresentanti una Ninfa ed un Satiro,montate",357.0,97.2,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740876,188,187,Anfora e piatto in cristallo di Venezia. Decorazione in oro. Sec.XVIll.,359.0,97.1,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740877,189,188,Coppa in argento cesellato recante nel centro il ritratto di un principe. Stile rinascimento. Trionfo in legno scolpito e dorato.Epoca Impero.,363.0,77.8,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740878,190,189,Due candelieri veneziani in rame smaltato bleu e giallo.Epoca Louis XV.,367.0,97.2,False,positional,,Periodo di Luigi XV,Oggetti d'Arte,,
+BO0624_81786,740879,191,190,Trionfo in legno scolpito,369.0,37.8,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740880,192,191,l. Astuccio in argento a forma di pesce. Sec. XVIl.,371.0,48.5,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740881,193,192,"Lotto di un astuccio in Vernis-Martin,e di un agoraio in madreperla",373.0,97.1,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740882,194,193,"Lotto di un cannocchiale in avorio e di una impugnatura da parasole, in avorio, rappresentante una figura di donna. Sec. XVIl.",375.0,98.4,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740883,195,194,Statuetta in bronzo rappresentante una ballerina. Sec. XvIll.,379.0,96.7,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740884,196,195,Due piccoli battenti in bronzo cesellato. Sec. XVlI.,381.0,42.6,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740885,197,196,Vaso in cristallo di Boemia a due manici. Decorazione in oro. Sec. XVIHI.,383.0,77.9,False,positional,,,VASI,,
+BO0624_81786,740886,198,197,Graziosa pendola in bronzo dorato. Epoca Louis XV.,385.0,96.0,False,positional,,Periodo di Luigi XV,Oggetti d'Arte,,
+BO0624_81786,740887,199,198,Bellissimo vaso in cristallo di Boemia con coperchio.Decorazione in oro. Sec. XVIlI.,,0.0,True,none,,,VASI,,
+BO0624_81786,740888,200,199,Due alabarde italiane con asta dell'epoca. See. XVI.,387.0,96.1,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740889,201,200,"Due cartelle in seta ricamata, con stemmi Sec. XVII.",389.0,54.2,False,positional,,,Oggetti d'Arte,,Sec. XVII
+BO0624_81786,740890,202,201,Coperta da letto in damasco rosso. Sec. XVIlI.,391.0,52.1,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740891,203,202,Caffettiera in argento cesellato. Lavoro inglese. Sec. XVIll.,393.0,96.6,False,positional,,,Oggetti d'Arte,,
+BO0624_81786,740892,204,203,Quarantotto figurini di mode. In due cornici noce. Impero.,395.0,96.5,False,positional,,,CORNICI,,
+BO0624_81786,740893,205,204,"Tappeto persiano Hernian. Alt. m. 3.20, larg. m. 2.70.",399.0,95.9,False,positional,,,Tappeti Persiani,,
+BO0624_81786,740894,206,205,"Tappeto persiano Kassack. Alt. m. 2.45, larg. m. 1.05.",401.0,75.7,False,positional,,,Tappeti Persiani,,
+BO0624_81786,740895,207,206,"Tappeto persiano da preghiera. Alt. m. 1.50, larg. m. 1.00.",403.0,75.7,False,positional,,,Tappeti Persiani,,
+BO0624_81786,740896,208,207,"Tappeto persiano Mossul. Alt. m. 2.30, larg. m. 1.10.",405.0,95.8,False,positional,,,Tappeti Persiani,,
+BO0624_81786,740897,209,208,"Tappeto persiano Sommack. Alt. m. 3.65, larg. m. 2.10.",407.0,74.7,False,positional,,,Tappeti Persiani,,
+BO0624_81786,740898,210,209,"Tappeto persiano Habistan. Alt. m. 2.72, larg. m. 1.06.",409.0,74.7,False,positional,,,Tappeti Persiani,,
+BO0624_81786,740899,211,210,"Tappeto persiano Kassack. Alt. m. 2.10, larg. m. 1.20.",411.0,95.9,False,positional,,,Tappeti Persiani,,
+BO0624_81786,740900,212,211,"Tappeto persiano Habessan. Alt. m. 2.30, larg. m. 1.10.",413.0,96.0,False,positional,,,Tappeti Persiani,,

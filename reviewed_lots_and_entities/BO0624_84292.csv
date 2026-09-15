@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_84292,388347,1,1,2 —Les Amants surpris.—Les Amours champetres.,7,97.7,False,positional,BAUDOUIN,,,,
 BO0624_84292,388348,2,3,La Soiree des Tuileries.,17,95.8,False,positional,BAUDOUIN,,,,
 BO0624_84292,388349,3,4,"L'Optique,par F. CAzENAvE.",27,96.0,False,positional,BOILLY,,,,
-BO0624_84292,388350,4,5,"6—The Woman taking coffee,1774.—— woman,1774.",36,97.6,False,positional,BONNET,,,,
+BO0624_84292,388350,4,5,"6—The Woman taking coffee,1774.—— woman,1774.",36,97.6,False,positional,BONNET,,,,Sec. XVIII
 BO0624_84292,388351,5,7,HUET.,53,80.0,False,title_direct,HUET,,,,
 BO0624_84292,388352,6,8,Le Compliment ou la Matinee du Jour de lAn.,61,97.7,False,positional,DEBUCOURT,,,,
 BO0624_84292,388353,7,9,- —Les Bouquets ou la Fete de la grandmaman.,63,100.0,False,positional,DEBUCOURT,,,,
@@ -21,9 +21,9 @@ BO0624_84292,388365,19,26,"Mademoiselle du T.. (Duthe), d’apres LEMoINE.",186,
 BO0624_84292,388366,20,27,28 Le Repas des Moissonneurs.—La Noce de Village. Deux pendants d'apres P.-A.WILLE.,196,98.1,False,positional,JANINET,,,,
 BO0624_84292,388367,21,29,## JANINET (F.),205,100.0,False,title_direct,JANINET,,,,
 BO0624_84292,388368,22,30,31 L'Accident imprevu.—,219,93.3,False,positional,LAWREINCE,,,,
-BO0624_84292,388369,23,32,"La Comparaison,par JANINET,1786.",233,95.4,False,title_direct,JANINET,,,,
+BO0624_84292,388369,23,32,"La Comparaison,par JANINET,1786.",233,95.4,False,title_direct,JANINET,,,,Sec. XVIII
 BO0624_84292,388370,24,33,## LAVREINCE (D'apres Nic.),246,100.0,False,title_direct,LAVREINCE,,,,
-BO0624_84292,388371,25,34,"Promenade du Jardin du Palais-Royal,1787, d'apres DesRAIs.",262,98.2,False,positional,LE CEUR,,,,
+BO0624_84292,388371,25,34,"Promenade du Jardin du Palais-Royal,1787, d'apres DesRAIs.",262,98.2,False,positional,LE CEUR,,,,Sec. XVIII
 BO0624_84292,388372,26,35,"35 —Bal de la Bastille.—Ici, l'on danse. D'apres",276,100.0,False,positional,LE CCEUR,,,,
 BO0624_84292,388373,27,36,## 36 —Coucou!par BELJAMBE.,287,100.0,False,title_direct,BELJAMBE,,,,
 BO0624_84292,388374,28,37,Epsom races.,296,88.0,False,positional,POLLARD,,,,
@@ -44,7 +44,7 @@ BO0624_84292,388388,42,55,## 55 — La Campagne de Rome.,521,100.0,False,positio
 BO0624_84292,388389,43,56,Groupe en ancien biscuit de Sevres presentant :Junon et,538,97.3,False,positional,,,BISCOTTI,,
 BO0624_84292,388390,44,57,GroupE en ancien biscuit:Nymphe et Amour.,544,96.4,False,positional,,,BISCOTTI,,
 BO0624_84292,388391,45,58,"- Six Tasses et soucoupes, en ancienne porcelaine tendre de Sevres; decor en camaieu bleu de festons de feuillages et feurs. Les soucoupes seules sont marquees et datees de la lettre O. Dans un écrin.",550,99.2,False,positional,,,PORCELAINES,,
-BO0624_84292,388392,46,5,"g — PeTIT vAsE avec couvercle, en ancienne porcelaine tendre de Vincennes,a fond bleu turquoise et reserves chargees de feurs. Monture ancienne a deux anses, en argent. Annee B(1754).",554,99.7,False,positional,,,VASI,,
+BO0624_84292,388392,46,5,"g — PeTIT vAsE avec couvercle, en ancienne porcelaine tendre de Vincennes,a fond bleu turquoise et reserves chargees de feurs. Monture ancienne a deux anses, en argent. Annee B(1754).",554,99.7,False,positional,,,VASI,,Sec. XVIII
 BO0624_84292,388393,47,6,"o - DEux BoNBoNNIEREs en ancienne porcelaine de Saxe,formees chacune d'une statuette de negre decore au naturel, debout aupres d'un recipient couvert decore de feurs.Montures de bases en bronze dore.",560,99.7,False,positional,,,SCATOLE,,
 BO0624_84292,388394,48,61,"62 -Deux BusTEs, grandeur nature, d’homme et femme en",569,97.1,False,positional,,,SCULPTURES,,
 BO0624_84292,388395,49,63,"- CHRisT en ivoire sculpte, renferme dans un cadre-vitrine de forme contournee, en bois moulure, sculpte et dore; le couronnement forme de deux tetes d'angelots accompagnees de chutes de roses;a la base, noeud de ruban liant deux branches de laurier.Epoque Louis XVI.",579,99.4,False,positional,,,LAMPADE,,

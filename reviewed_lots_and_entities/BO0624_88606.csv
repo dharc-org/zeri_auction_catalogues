@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_88606,709791,1,1,"Die Versteigerung wird von der Firma AIte und Neue Kunst” G.m.b.H.,",5,98.5,False,none,,,,,
 BO0624_88606,709792,2,2,Die Versteigerung erfolgt gegen sofortige Barzah lung in Reichsmark,7,98.5,False,none,,,,,
 BO0624_88606,709793,3,3,"Alle Zahlungen haben an die Firma AIte und Neue Kunst G.m.b.H., Munhen, Promenadeplatz 19 zu erfolgen.Erfullungsort und Gerichtsstand",9,99.2,False,none,,,,,
-BO0624_88606,709794,4,4,"Gesteigert wird bis zu RM.100.mit 1.-RM.,bis zu RM.1000.mit 5.RM.,",11,98.4,False,none,,,,,
+BO0624_88606,709794,4,4,"Gesteigert wird bis zu RM.100.mit 1.-RM.,bis zu RM.1000.mit 5.RM.,",11,98.4,False,none,,,,,Sec. XI
 BO0624_88606,709795,5,5,Bei Meinungsverschiedenheiten uber den Zushlag wird der Gegenstand nochmal,13,98.7,False,none,,,,,
 BO0624_88606,709796,6,6,"Von der Reihenfolge der Nummern abzuweihen, Nummern zu vereinigen oder zu trennen, Nummern wegzulassen oder hinzufugen, behalt sih der",15,99.2,False,none,,,,,
 BO0624_88606,709797,7,7,"Die Gegenstande werden in dem Zustande versteigert, in welchem sie sid beim Zuschlage befinden. Reklamationen nach dem Zushlag werden nicht be Haftung fur ubersehene Mangel und fur die Angaben im Katalog niht uber=",17,99.5,False,none,,,,,
@@ -50,7 +50,7 @@ BO0624_88606,709838,48,950,950,141,100.0,False,positional,,,Ofengerate,,
 BO0624_88606,709839,49,951,"- Pfannenbock, Kranz mit 4 Blatt.",145,100.0,False,positional,,,Ofengerate,,
 BO0624_88606,709840,50,951,"a Ofengabel mit vier Zinken, profilierter Schaft, L. 46 cm.",147,97.3,False,positional,,,Ofengerate,,
 BO0624_88606,709841,51,951,"b Ofengabel mit zwei Zinken, gedrehter Schaft, L. 46 cm.",148,96.3,False,positional,,,Ofengerate,,
-BO0624_88606,709842,52,951,"c Ofengabel mit zwei Zinken, gedrehter Schaft, L. 40 cm. d Kichenschaufel, Inschrift MS 1692, L. 55 cm.",149,69.3,False,positional,,,Ofengerate,,
+BO0624_88606,709842,52,951,"c Ofengabel mit zwei Zinken, gedrehter Schaft, L. 40 cm. d Kichenschaufel, Inschrift MS 1692, L. 55 cm.",149,69.3,False,positional,,,Ofengerate,,Sec. XVII
 BO0624_88606,709843,53,952,"Waffeleisen, Muster Kriegstrophaen und gekronter Lowe.",154,96.3,False,title_direct,,,Waffeleisen,,
 BO0624_88606,709844,54,953,"Waffeleisen,? groBes Wurfelmuster.",155,93.9,False,title_direct,,,Waffeleisen,,
 BO0624_88606,709845,55,954,"- Waffeleisen, Muster Einhorn und Fischweibchen.",157,100.0,False,title_direct,,,Waffeleisen,,
@@ -77,12 +77,12 @@ BO0624_88606,709865,75,974,"Zunftbeil, halbmondformige Klinge, herzformig durch-
 BO0624_88606,709866,76,975,"Zunftbeil, Klinge Dreipassformig durchbrochen, L. 8 cm.",190,96.2,False,positional,,,Zunftgerate,,
 BO0624_88606,709867,77,976,"Messingbeil, Klinge mit dreipassdurchbruch, L. 10 cm.",191,96.1,False,positional,,,Zunftgerate,,
 BO0624_88606,709868,78,977,"978     | Beil, Klinge nierenformig, L. 14,5 cm. 10 Beil ahnlich wie vorher, L. 11.5 cm. 10                                                                                                                 |",192,97.5,False,positional,,,Zunftgerate,,
-BO0624_88606,709869,79,983,| Goldwage der Aichmeisters J. P. Aeckersberg zu Wick- 10 linghausen in Barmen. 1789.                                                                                                               |,194,97.5,False,positional,,,Zunftgerate,,
+BO0624_88606,709869,79,983,| Goldwage der Aichmeisters J. P. Aeckersberg zu Wick- 10 linghausen in Barmen. 1789.                                                                                                               |,194,97.5,False,positional,ZICK JANUARIUS,,Zunftgerate,,Sec. XVIII
 BO0624_88606,709870,80,979,"| 10 Beil mit Messingtauschierung, L. 14 cm.                                                                                                                                                        |",195,95.1,False,positional,,,Zunftgerate,,
 BO0624_88606,709871,81,980,"| 10 Zunft-Stempel mit OZ,L.13 cm.                                                                                                                                                                  |",196,93.9,False,positional,,,Zunftgerate,,
 BO0624_88606,709872,82,981,"982     | Zollmass aus Messing zum Zusammenklappen, L. 35 cm. 10 Taschenschraubenzieher, verziert, messingtauschiert. 10                                                                                    |",197,98.2,False,title_direct,,,Taschen,,
 BO0624_88606,709873,83,984,| Goldwage des Joh. Heinr. Braun. 10 Goldwage des Joh. Pet. Poppenberg y. Blankenstein. 10                                                                                                          |,198,97.6,False,positional,,,Zunftgerate,,
-BO0624_88606,709874,84,985,"986 987 | Gewichtssatz, Topfform vom Jahre 1885. Gewichtssatz vom Jahre 1868. 10 Gewichtssatz,unvollstandig.                                                                                                |",199,98.1,False,positional,,,Zunftgerate,,
+BO0624_88606,709874,84,985,"986 987 | Gewichtssatz, Topfform vom Jahre 1885. Gewichtssatz vom Jahre 1868. 10 Gewichtssatz,unvollstandig.                                                                                                |",199,98.1,False,positional,,,Zunftgerate,,Sec. XIX
 BO0624_88606,709875,85,988,| 10                                                                                                                                                                                                |,201,50.0,False,positional,,,Zunftgerate,,
 BO0624_88606,709876,86,989,| 10                                                                                                                                                                                                |,202,50.0,False,positional,,,Zunftgerate,,
 BO0624_88606,709877,87,990,| AderlaBzeug mit 1 Messer in Etui 10                                                                                                                                                               |,203,94.6,False,positional,,,Zunftgerate,,
@@ -92,45 +92,45 @@ BO0624_88606,709880,90,995,| 10 10                                              
 BO0624_88606,709881,91,996,|                                                                                                                                                                                                   |,208,0.0,False,positional,,,Zunftgerate,,
 BO0624_88606,709882,92,997,|                                                                                                                                                                                                   |,209,0.0,False,positional,,,Zunftgerate,,
 BO0624_88606,709883,93,998,"| Leuchter, ahnlich,Fuss blattformig ausgeschnitten, H.25cm. 10 10                                                                                                                                  |",212,96.8,False,positional,,,Zunftgerate,,
-BO0624_88606,709884,94,999,1000    |                                                                                                                                                                                                   |,213,66.7,False,positional,,,Zunftgerate,,
-BO0624_88606,709885,95,1001,"1002   | Leuchter, ahnlich,Fuss rosettform.ausgeschnitten,H.26 cm. Leuchter, ahnlich, Fuss kreisformig durchbrochen H 24.                                                                                  |",215,97.8,False,positional,,,Zunftgerate,,
+BO0624_88606,709884,94,999,1000    |                                                                                                                                                                                                   |,213,66.7,False,positional,,,Zunftgerate,,Sec. XI
+BO0624_88606,709885,95,1001,"1002   | Leuchter, ahnlich,Fuss rosettform.ausgeschnitten,H.26 cm. Leuchter, ahnlich, Fuss kreisformig durchbrochen H 24.                                                                                  |",215,97.8,False,positional,,,Zunftgerate,,Sec. XI
 BO0624_88606,709886,96,1003,"| 10 Leuchter, ahnlich, Halter in Blatt endigend, H. 25 cm.                                                                                                                                         |",216,95.4,False,positional,,,Zunftgerate,,
 BO0624_88606,709887,97,1004,| 10                                                                                                                                                                                                |,217,44.4,False,positional,,,Zunftgerate,,
 BO0624_88606,709888,98,1005,| 10 H. 23 cm. 10 10                                                                                                                                                                                |,219,86.5,False,positional,,,Zunftgerate,,
 BO0624_88606,709889,99,1006,"| Leuchter mit Zylinderschaft, H. 25.                                                                                                                                                               |",220,92.8,False,positional,,,Zunftgerate,,
 BO0624_88606,709890,100,1008,"Leuchter, ahnlich,ohne Fusscheibe,H. 25 cm. Lampe,ahnlich,H.26 cm. Lampe, Kapsel mit zwei Lochern, H. 22 cm.",228,55.2,False,positional,,,Zunftgerate,,
 BO0624_88606,709891,101,1011,"Spanhalter auf vierfuissigem Gestell, H.21 cm. Laterne,Blechgehause mit Butzenscheiben,Kamin durchbrochen, H. 21 cm. Laterne,holzgeschnitten,H.33 cm,B.21 cm,T.12,5 cm.",232,58.6,False,positional,,,Zunftgerate,,
-BO0624_88606,709892,102,1014,"- 1015 Latrene,drei Butzenscheiben,Oberteil dachformig,H.35cm.",235,100.0,False,positional,,,Zunftgerate,,
+BO0624_88606,709892,102,1014,"- 1015 Latrene,drei Butzenscheiben,Oberteil dachformig,H.35cm.",235,100.0,False,positional,,,Zunftgerate,,Sec. XI
 BO0624_88606,709893,103,1017,"- Kleine Laterne, H. 15 cm.",239,100.0,False,positional,,,Zunftgerate,,
 BO0624_88606,709894,104,1018,"Laterne, Zylinderform mit Kegelaufsatz und sichelformigen",240,95.7,False,positional,,,Zunftgerate,,
-BO0624_88606,709895,105,1019,"- 1020 Laterne mit getriebener Verzierung, Messingblatt, H. 14 cm.",242,100.0,False,positional,,,Zunftgerate,,
+BO0624_88606,709895,105,1019,"- 1020 Laterne mit getriebener Verzierung, Messingblatt, H. 14 cm.",242,100.0,False,positional,,,Zunftgerate,,Sec. XI
 BO0624_88606,709896,106,1021,"Feuerzeug mit Steinschloss und Zunderkammer, L. 21 cm.",245,95.3,False,positional,,,Zunftgerate,,
 BO0624_88606,709897,107,1022,"Feuerzeug mit Steinschloss und Zunderkammer, L.18 cm.",247,95.3,False,positional,,,Zunftgerate,,
 BO0624_88606,709898,108,1023,"griff, L.23 cm.",248,83.9,False,positional,,,Zunftgerate,,
 BO0624_88606,709899,109,1025,"Feuerzeug mit SteinschloB und Zunderkammer, gravierter",249,95.5,False,positional,,,Zunftgerate,,
 BO0624_88606,709900,110,1026,"Feuerzeug mit SteinschloB und Zunderkammer, gravierter Messinggriff, L. 13 cm.",251,96.7,False,positional,,,Zunftgerate,,
-BO0624_88606,709901,111,1027,"- 1028 Feuerzeug mit SteinschloB und Zunderkammer, L. 20 cm.",253,100.0,False,positional,,,Zunftgerate,,
+BO0624_88606,709901,111,1027,"- 1028 Feuerzeug mit SteinschloB und Zunderkammer, L. 20 cm.",253,100.0,False,positional,,,Zunftgerate,,Sec. XI
 BO0624_88606,709902,112,1029,"- Feuerzeug mit SteinschloB und Zunderkammer, L.23,5 cm.",256,100.0,False,positional,,,Zunftgerate,,
 BO0624_88606,709903,113,1030,"Feuerzeug mit SteinschloB und Zunderkammer, Holzgrifff,",258,95.5,False,positional,,,Zunftgerate,,
 BO0624_88606,709904,114,1031,a,260,33.3,False,title_direct,A. Kirmaier,Italienische Schule,ARREDAMENTI,,
-BO0624_88606,709905,115,1033,"- 1034 Lichtschere, Eisen geschnitten auf drei Fuben, L.15,5 cm,",263,100.0,False,positional,EISEN CHARLES,,Zunftgerate,,
+BO0624_88606,709905,115,1033,"- 1034 Lichtschere, Eisen geschnitten auf drei Fuben, L.15,5 cm,",263,100.0,False,positional,EISEN CHARLES,,Zunftgerate,,Sec. XI
 BO0624_88606,709906,116,24,- cm.,268,100.0,False,positional,,,Zunftgerate,,
 BO0624_88606,709907,117,1035,"Lichtschere, ahnlich, L. 17 cm.",269,91.5,False,positional,,,Zunftgerate,,
 BO0624_88606,709908,118,1036,"Lichtschere, ahnlich, L. 14 cm.",271,91.5,False,positional,,,Zunftgerate,,
 BO0624_88606,709909,119,1038,"Lichtschere, Messing auf Fuben, L. 12 cm. Lichtschere, Kupfer auf drei Fuben, L. 16 cm. Lichtschere, Messing auf drei FuBen, L. 14 cm.",274,52.1,False,positional,,,Zunftgerate,,
-BO0624_88606,709910,120,1041,- 1042,276,100.0,False,positional,,,Zunftgerate,,
+BO0624_88606,709910,120,1041,- 1042,276,100.0,False,positional,,,Zunftgerate,,Sec. XI
 BO0624_88606,709911,121,1043,"Lichtschere, Eisen geschnitten, auf drei FuBen, L. 17 cm.",279,95.4,False,positional,EISEN CHARLES,,Zunftgerate,,
 BO0624_88606,709912,122,1044,"Lichtschere, Eisen geschnitten,L. 15 cm.",280,93.7,False,positional,EISEN CHARLES,,Zunftgerate,,
-BO0624_88606,709913,123,1045,"- 1046 Gabel, zweizinkig, Griff mit Perlmutter.",286,100.0,False,positional,,,Bestecke,,
+BO0624_88606,709913,123,1045,"- 1046 Gabel, zweizinkig, Griff mit Perlmutter.",286,100.0,False,positional,,,Bestecke,,Sec. XI
 BO0624_88606,709914,124,1047,"desgl., Griff mit Horn.",287,88.9,False,positional,,,Bestecke,,
 BO0624_88606,709915,125,1048,"Pfriemen (Ahle), der Griff gewunden und mit Metallen",288,95.1,False,positional,,,Bestecke,,
-BO0624_88606,709916,126,1049,- 1050,294,100.0,False,positional,,,Bestecke,,
+BO0624_88606,709916,126,1049,- 1050,294,100.0,False,positional,,,Bestecke,,Sec. XI
 BO0624_88606,709917,127,1051,"desgl., messingverzierte Angel.",295,91.8,False,positional,,,Bestecke,,
-BO0624_88606,709918,128,1052,- 1053 1797.,297,100.0,False,positional,,,Bestecke,,
-BO0624_88606,709919,129,1054,"- 1055 desgl., Holzgriff mit rautenformigen Eisennieten.",299,100.0,False,positional,,,Bestecke,,
-BO0624_88606,709920,130,1056,- 1057,301,100.0,False,positional,,,Bestecke,,
+BO0624_88606,709918,128,1052,- 1053 1797.,297,100.0,False,positional,,,Bestecke,,Sec. XI
+BO0624_88606,709919,129,1054,"- 1055 desgl., Holzgriff mit rautenformigen Eisennieten.",299,100.0,False,positional,,,Bestecke,,Sec. XI
+BO0624_88606,709920,130,1056,- 1057,301,100.0,False,positional,,,Bestecke,,Sec. XI
 BO0624_88606,709921,131,1058,"Doppelbigel mit SchieberverschluB, Eisen und Messing-",309,95.3,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
-BO0624_88606,709922,132,1059,"Tasche mit Seidenstickerei ,blaue Ente"", Eisenbugel ge- Ledertasche mit ahnlichem Bugel wie vorher, auf den Haken U.C. 1786, B 14 cm. Messingbugel, wellig ausgeschnittener Halbkreis,B.17 cm.",313,57.4,False,title_direct,,,Taschen,,
+BO0624_88606,709922,132,1059,"Tasche mit Seidenstickerei ,blaue Ente"", Eisenbugel ge- Ledertasche mit ahnlichem Bugel wie vorher, auf den Haken U.C. 1786, B 14 cm. Messingbugel, wellig ausgeschnittener Halbkreis,B.17 cm.",313,57.4,False,title_direct,,,Taschen,,Sec. XVIII
 BO0624_88606,709923,133,1062,- Ledertasche mit graviertem Messingbigel ohne Haken,316,100.0,False,positional,,,Taschen; Taschenbigel,,
 BO0624_88606,709924,134,1063,B.15cm,318,70.6,False,positional,,,Taschen; Taschenbigel,,
 BO0624_88606,709925,135,1064,B.14cm.,320,70.6,False,positional,,,Taschen; Taschenbigel,,
@@ -138,25 +138,25 @@ BO0624_88606,709926,136,1065,"- Messingbigel, graviert, auf den Haken K. W., B. 
 BO0624_88606,709927,137,1066,"Ledertasche,rot Juchten,reliefierter Messingbugel,Haken mit zwei Schildchen, B. 16 cm.",323,97.1,False,positional,,,Taschen; Taschenbigel,,
 BO0624_88606,709928,138,1067,"Ledertasche mit geripptem Messingbigel, Haken wie",325,95.0,False,positional,,,Taschen; Taschenbigel,,
 BO0624_88606,709929,139,1068,"Ledertasche, einfacher Messingbiigel mit Lederstrippen, B.16 cm.",326,96.1,False,positional,,,Taschen; Taschenbigel,,
-BO0624_88606,709930,140,1069,"Gurtelhaken, Messing, durchbrochenes Messingornament mit Braueremblemen und Jahreszahl 1817, Eisenunterlage. L.10 cm,B.6 cm.",327,97.9,False,positional,,,Taschen; Taschenbigel,,
+BO0624_88606,709930,140,1069,"Gurtelhaken, Messing, durchbrochenes Messingornament mit Braueremblemen und Jahreszahl 1817, Eisenunterlage. L.10 cm,B.6 cm.",327,97.9,False,positional,,,Taschen; Taschenbigel,,Sec. XIX
 BO0624_88606,709931,141,1070,"Gurtelhaken, Vase ausgeschnitten in Messing auf Eisen. Monogramm A.M.A. L. 8 cm, B. 6 cm. Gurtelhaken mit Punze J. H. und Kopf, L.6,5 cm, B. 2 cm. Gurtelhaken,Lyraform, Messing,L. 6,5 cm.",328,63.6,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
 BO0624_88606,709932,142,1073,"Halbe GurtelschlieBe mit Zimmermannemblemen,Messing,",331,95.3,False,positional,,,Taschen; Taschenbigel,,
 BO0624_88606,709933,143,1074,"L.der beiden Teile 13 cm,B. 6 cm.",334,92.5,False,positional,,,Taschen; Taschenbigel,,
-BO0624_88606,709934,144,1075,"GurtelschlieBe mit zwei Figuren, messingpatiniert, 14. bis 15. Jahrhundert,H. der Figuren 5 cm.",335,97.3,False,positional,,,Taschen; Taschenbigel,,
-BO0624_88606,709935,145,1076,"Buchbeschlage, laut Inschrift vom Jahre 1764,Ulmer",341,95.1,False,title_direct,,,Buchbeschlage,,
+BO0624_88606,709934,144,1075,"GurtelschlieBe mit zwei Figuren, messingpatiniert, 14. bis 15. Jahrhundert,H. der Figuren 5 cm.",335,97.3,False,positional,,,Taschen; Taschenbigel,,Sec. XV
+BO0624_88606,709935,145,1076,"Buchbeschlage, laut Inschrift vom Jahre 1764,Ulmer",341,95.1,False,title_direct,,,Buchbeschlage,,Sec. XVIII
 BO0624_88606,709936,146,1077,"Buchbeschlage auf vergoldeter Unterlage, Ulmer Beschau und Marke Tulpe.",342,96.5,False,title_direct,,,Buchbeschlage,,
 BO0624_88606,709937,147,1078,"Buchbeschlage, Bugel mit vergoldeter Unterlage, herz-",344,95.2,False,title_direct,,,Buchbeschlage,,
 BO0624_88606,709938,148,1079,"Buchbeschlage, Silber, Bugel mit vergoldeter Unterlage,",345,95.4,False,title_direct,,,Buchbeschlage,,
-BO0624_88606,709939,149,1080,"Buchbeschlage, auf der Innenseite des Bugels Inschrift: Anna Katharina Wachter etc.1832.",348,97.1,False,title_direct,,,Buchbeschlage,,
-BO0624_88606,709940,150,1081,"Buchbeschlage wie vorher, Inschrift: A. Wagner 1852.",349,95.0,False,title_direct,,,Buchbeschlage,,
-BO0624_88606,709941,151,1082,- 1083,351,100.0,False,positional,,,Buchbeschlage,,
+BO0624_88606,709939,149,1080,"Buchbeschlage, auf der Innenseite des Bugels Inschrift: Anna Katharina Wachter etc.1832.",348,97.1,False,title_direct,,,Buchbeschlage,,Sec. XIX
+BO0624_88606,709940,150,1081,"Buchbeschlage wie vorher, Inschrift: A. Wagner 1852.",349,95.0,False,title_direct,,,Buchbeschlage,,Sec. XIX
+BO0624_88606,709941,151,1082,- 1083,351,100.0,False,positional,,,Buchbeschlage,,Sec. XI
 BO0624_88606,709942,152,1084,"Buchbeschlage, abgesetztes Bandornament, im Bugel Ulmer Beschau.",353,96.1,False,title_direct,,,Buchbeschlage,,
 BO0624_88606,709943,153,1085,"Buchbeschlage,Rocaillerahmen mit BlumenstrauB.",355,94.7,False,title_direct,,,Buchbeschlage,,
 BO0624_88606,709944,154,1086,"Buchbaschlage, desgl., Marke: Tulpe und C. K.",356,94.0,False,title_direct,,,Buchbeschlage,,
 BO0624_88606,709945,155,1087,"- Buchbeschlage, desgl., Marke: Rosette u. W.",358,100.0,False,title_direct,,,Buchbeschlage,,
 BO0624_88606,709946,156,1088,"Buchbeschlage, desgl. in Messing.",359,92.3,False,title_direct,,,Buchbeschlage,,
 BO0624_88606,709947,157,1089,"Buchbeschlage, Engelskopfen und Ulmer Besc ha u und",360,95.2,False,title_direct,,,Buchbeschlage,,
-BO0624_88606,709948,158,1090,"Buchbeschlage, Blumenvase, Marken: Ulmer Beschau und C. J W., Inschrift: Anno 1795 etc. und Weidenstetten,",362,97.5,False,title_direct,,,Buchbeschlage,,
+BO0624_88606,709948,158,1090,"Buchbeschlage, Blumenvase, Marken: Ulmer Beschau und C. J W., Inschrift: Anno 1795 etc. und Weidenstetten,",362,97.5,False,title_direct,,,Buchbeschlage,,Sec. XVIII
 BO0624_88606,709949,159,1091,"Buchbeschlage, desgl., die Blumenvase vergoldet, In-",364,94.9,False,title_direct,,,Buchbeschlage,,
 BO0624_88606,709950,160,1092,"mit Fruichtekorb, Augsburger Be-",366,92.3,False,positional,,,Buchbeschlage,,
 BO0624_88606,709951,161,1093,- Buchbeschlage schau (Stadtpyr und 13).,368,100.0,False,title_direct,,,Buchbeschlage,,
@@ -176,8 +176,8 @@ BO0624_88606,709964,174,1106,"Horndose, Kapselform mit Silberrand, Durchm.8,5 cm
 BO0624_88606,709965,175,1109,"Achatdose mit vergoldeter Messingfassung, L. 9,5 cm, B.5 cm, H.3,5 cm.",393,96.3,False,positional,,,Dosen,,
 BO0624_88606,709966,176,1110,"Tabakdose mit den Emblemen der Brauer Zunft, Jahr-",395,95.0,False,positional,,,Dosen,,
 BO0624_88606,709967,177,1111,"Tabakdose,Horn,Kriegstrophaen- und Musikemblemen,",396,94.9,False,positional,,,Dosen,,
-BO0624_88606,709968,178,1112,- 1113,402,100.0,False,positional,,,Dosen,,
-BO0624_88606,709969,179,1114,- 1115,404,100.0,False,positional,,,Dosen,,
+BO0624_88606,709968,178,1112,- 1113,402,100.0,False,positional,,,Dosen,,Sec. XII
+BO0624_88606,709969,179,1114,- 1115,404,100.0,False,positional,,,Dosen,,Sec. XII
 BO0624_88606,709970,180,1116,"Kleine Kupfer-Kassette in Sarkophagform, L. 16 cm, B.10 cm,H.8cm,",406,96.1,False,positional,,,Dosen,,
 BO0624_88606,709971,181,1117,"- Lederetui mit Perlstickerei, L.14 cm,B. 7 cm.",408,100.0,False,positional,,,Dosen,,
 BO0624_88606,709972,182,1118,"Photographierahmen, graviert und in Messing geschnit-",409,95.3,False,positional,,,Dosen,,
@@ -188,7 +188,7 @@ BO0624_88606,709976,186,1122,"45 cm, B.14 cm, H. 35 cm.",420,89.4,False,position
 BO0624_88606,709977,187,1123,Gegenstick zu vorigem.,421,89.4,False,positional,,,Uhren,,
 BO0624_88606,709978,188,1124,"Louis XVI Saulen-Uhr, 7 Alabaster-Saulen und Messingbeschlag, Holzsockel und Gehause, H. 50 cm, B. 25 cm, T. 13 cm.",422,97.7,False,positional,,,ALABASTRI,,
 BO0624_88606,709979,189,1125,"Louis XVI Uhr, in dunklem Holzkasten mit Glaswanden H.37 cm,B.21 cm,T.12cm.",423,96.7,False,title_direct,,,Glas,,
-BO0624_88606,709980,190,1126,"Zifferblatt mit Volutenansatzen, Eisenblech, Umschrift: Wilhelm Barth in Cannstadt 1861. Durchmesser 34 cm.",424,97.6,False,positional,,,Uhren,,
+BO0624_88606,709980,190,1126,"Zifferblatt mit Volutenansatzen, Eisenblech, Umschrift: Wilhelm Barth in Cannstadt 1861. Durchmesser 34 cm.",424,97.6,False,positional,,,Uhren,,Sec. XIX
 BO0624_88606,709981,191,1127,"Zifferblatt, rankendurchbrochen, H. 30 cm,B. 24 cm.",425,94.8,False,positional,,,Uhren,,
 BO0624_88606,709982,192,1128,Zifferblattschablone in Messingblech H. 27X27 cm.,426,94.9,False,positional,,,Uhren,,
 BO0624_88606,709983,193,1129,"- Zifferblatt,Kupfer mit Rokokomessingauflage,Zahlenkreis in Zinn H.35 cm,B. 29 cm.",428,100.0,False,positional,,,OGGETTI IN LATTA,,
@@ -197,33 +197,33 @@ BO0624_88606,709985,195,1131,"Pendeluhr mit Messingzifferblatt mit Verzierungen 
 BO0624_88606,709986,196,1132,"Gewichtuhr, einfaches Messingblatt, H.27 cm, B. 22 cm.",431,95.1,False,positional,,,Uhren,,
 BO0624_88606,709987,197,1133,"Gewichtsuhr auf dem Zifferblatt Lowe H.31 cm, B. 23 cm.",432,95.4,False,positional,,,Uhren,,
 BO0624_88606,709988,198,1134,"- Holzkastenuhr rauf dem Zifferblatt Jagddarstellung H.27 cm,B.21 cm.",434,100.0,False,positional,,,Uhren,,
-BO0624_88606,709989,199,1135,"Altes Uhrwerk 17. Jahrhundert, H. 13 cm, B. 18 cm.",435,94.6,False,positional,,,Uhren,,
+BO0624_88606,709989,199,1135,"Altes Uhrwerk 17. Jahrhundert, H. 13 cm, B. 18 cm.",435,94.6,False,positional,,,Uhren,,Sec. XVII
 BO0624_88606,709990,200,1136,Perpendickeluhr ohne Zifferblatt mit gewundenen Eck-,436,95.3,False,positional,,,Uhren,,
 BO0624_88606,709991,201,1137,"Kassettenuhr, dreiseitig bemalt, H 30 cm, B. 11 cm, T.11cm.",438,95.5,False,positional,,,Uhren,,
 BO0624_88606,709992,202,1138,"Uhrstander in Lyraform, EisenguB, H. 24 cm.",439,94.0,False,positional,,,Uhren,,
 BO0624_88606,709993,203,1139,"Kleine Wanduhr, auf dem Zifferblatt Adlr, H. 12 cm, B. 8 cm.",441,95.6,False,positional,,,Uhren,,
 BO0624_88606,709994,204,1140,"H. 17 cm,B.16 cm.",442,85.7,False,positional,,,Uhren,,
 BO0624_88606,709995,205,1141,"- Lot von Uhrglocken, Gewicht und Perpendickeln.",444,100.0,False,positional,,,Uhren,,
-BO0624_88606,709996,206,1142,"MeBinstrument aus Messing, mit Zahlen, Kreisen und Punkten, eingeteilter Scheibe mit der Signatur: Johann Christoph Schitte fecit in Augsburg 1782. Durchm. der Scheibe 22 cm.",445,98.5,False,positional,,,Uhren,,
+BO0624_88606,709996,206,1142,"MeBinstrument aus Messing, mit Zahlen, Kreisen und Punkten, eingeteilter Scheibe mit der Signatur: Johann Christoph Schitte fecit in Augsburg 1782. Durchm. der Scheibe 22 cm.",445,98.5,False,positional,,,Uhren,,Sec. XVIII
 BO0624_88606,709997,207,1143,"Gravierte Kupferstichplatten,12 Stuick mit folgenden Darstellungen: Die Erde — Der Jungling und die Wanderer  Madonna della Sedia —Der alte Kosak — Die Begeisterung —Der Seegreis und die Fischerin —I Der fromme Sanger — Die kleinen Wilden Der Einsiedler -Der Christ und der Mohammedaner - Georg Andreas Hubmann — Excellant veritable tabac de Saint Vincent",446,99.3,False,positional,,,Uhren,,
 BO0624_88606,709998,208,1144,"Plaquette, Messing graviert, Abendmahl. H. 7,8 cm, B. 5,5 cm.",447,95.6,False,positional,,,Uhren,,
 BO0624_88606,709999,209,1145,"Kastenbeschlage, durchbrochene Bronceplaquette, Scha- 18.Jahrhundert",449,83.3,False,positional,,,Uhren,,
 BO0624_88606,710000,210,1146,"H.2,45cm.",456,76.2,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710001,211,1147,"Fullung, gotische Schnitzerei H. 73 cm, B. 35 cm.",457,94.6,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710002,212,1148,"Fullung, Barockschnitzerei mit Blumen, Raute und Bild-",458,95.3,False,positional,,,Schnitzereien in Holz,,
-BO0624_88606,710003,213,1149,"- 1150 Zwei Engelsfiguren auf Sockeln. H. 23 cm, B. 26 cm.",462,100.0,False,positional,,,Schnitzereien in Holz,,
+BO0624_88606,710003,213,1149,"- 1150 Zwei Engelsfiguren auf Sockeln. H. 23 cm, B. 26 cm.",462,100.0,False,positional,,,Schnitzereien in Holz,,Sec. XII
 BO0624_88606,710004,214,1151,"- Fullung, gotische Rankenschnitzerei. H. 50 cm, B. 32 cm.",464,100.0,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710005,215,1152,Zwei Kartuschen mit Sternrosette und Leuchterose.,465,95.0,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710006,216,1153,"Christusfigur, Barock, ungefaBt, H. 60 cm.",467,93.7,False,positional,,,Schnitzereien in Holz,,
-BO0624_88606,710007,217,1154,"Pfannengestell mit Schuppenmuster, Jahrzahl 1857 L. 48 cm.",468,95.7,False,positional,,,Schnitzereien in Holz,,
-BO0624_88606,710008,218,1155,"Schlagbrett, geschnitzt mit Spinnrad, Herzmuster und Inschrift: G.H. 1868.",469,96.5,False,positional,,,Schnitzereien in Holz,,
+BO0624_88606,710007,217,1154,"Pfannengestell mit Schuppenmuster, Jahrzahl 1857 L. 48 cm.",468,95.7,False,positional,,,Schnitzereien in Holz,,Sec. XIX
+BO0624_88606,710008,218,1155,"Schlagbrett, geschnitzt mit Spinnrad, Herzmuster und Inschrift: G.H. 1868.",469,96.5,False,positional,,,Schnitzereien in Holz,,Sec. XIX
 BO0624_88606,710009,219,1156,"- Zwei Engelkopfkartuschen H. 14 cm, B. 30 cm.",471,100.0,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710010,220,1157,"- Zwei Kapitale geschnitzt u. profiliert, geschnitzt H. 24 cm, B.23cm.",473,100.0,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710011,221,1158,"Engelskopf, Barock, alte Fassung, H. 30 cm.",474,93.8,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710012,222,1159,Engelskopf in alter Silberfassung. H. 23 cm. s.Abbildung IV.,476,95.7,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710013,223,1160,Engelskopf haibrund H. 15 cm. s. Abbildung IV.,477,94.4,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710014,224,1161,Engelskopf buchsfarben H. 15 cm,478,92.3,False,positional,,,Schnitzereien in Holz,,
-BO0624_88606,710015,225,1162,- 1163,482,100.0,False,positional,,,Schnitzereien in Holz,,
+BO0624_88606,710015,225,1162,- 1163,482,100.0,False,positional,,,Schnitzereien in Holz,,Sec. XII
 BO0624_88606,710016,226,1164,"Engelskopf mit Flugeln, bunte restaurierte Fassung,",484,95.1,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710017,227,1165,"Engelskopf mit Flugeln, Flugel ohne Fassung, H 8 cm,",487,95.1,False,positional,,,Schnitzereien in Holz,,
 BO0624_88606,710018,228,1166,"- Mannl. Fratze, Saulenapplike dunkel Eiche, H. 11 cm, B.4cm.",491,100.0,False,positional,,,Schnitzereien in Holz,,
@@ -246,15 +246,15 @@ BO0624_88606,710034,244,1184,"Wismuthkastchen, blau grundiert,mit zwei Laden und
 BO0624_88606,710035,245,1185,"Wismuthkastchen in Kofferform (Deckel neu) Malerei bunte Rosetten, Herz und verschlungene Hande. H. 20 cm,",528,97.6,False,title_direct,,,Taschen,,
 BO0624_88606,710036,246,1186,"Zunftlade, Nussbaum poliert (Fussleisten fehlen),",530,94.7,False,positional,,,Truhen; Kastchen in Holz,,
 BO0624_88606,710037,247,1187,"Cabinettschrankchen, Aufsatz m. Schublade zwei Stirnwandtuiren, dahinter zehn Schiebladen, eine Tabernakelture, Flammleisten, schwarzes Holz, H. 40 cm, B. 40 cm,",532,98.4,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88606,710038,248,1188,"- 1189 Zunftlade, drei Seiten Rusticamuster. H. 29 cm, B.48 cm, T.32cm.",536,100.0,False,positional,,,Truhen; Kastchen in Holz,,
+BO0624_88606,710038,248,1188,"- 1189 Zunftlade, drei Seiten Rusticamuster. H. 29 cm, B.48 cm, T.32cm.",536,100.0,False,positional,,,Truhen; Kastchen in Holz,,Sec. XII
 BO0624_88606,710039,249,1192,"B.53cm,T. 33cm.",542,83.9,False,positional,,,Truhen; Kastchen in Holz,,
 BO0624_88606,710040,250,1193,"laden, Mittelture (Tabernakel), H. 25,B. 35, T. 26. s.Abbildung V.",544,95.7,False,positional,,,Truhen; Kastchen in Holz,,
 BO0624_88606,710041,251,1194,"Wismuthkastchen, Deckeltire mit zwei Wappen: Wildschwein und steigende Doppelbaren in bunter Malerei,",545,97.5,False,title_direct,,,Taschen,,
-BO0624_88606,710042,252,1196,"Wismuthkasten, Delphin-Grotesken in brauner Malerei, H.19cm, B.47cm,T.30cm. s. Abbildung V. - 1191",550,94.4,False,positional,,,Truhen; Kastchen in Holz,,
+BO0624_88606,710042,252,1196,"Wismuthkasten, Delphin-Grotesken in brauner Malerei, H.19cm, B.47cm,T.30cm. s. Abbildung V. - 1191",550,94.4,False,positional,,,Truhen; Kastchen in Holz,,Sec. XII
 BO0624_88606,710043,253,1197,"Wismuthkastchen in kleiner Rankenmalerei auf den vier Seiten.H. 10 cm, B. 23,5 cm, T.16 cm. s. Abbildung V.",553,97.6,False,title_direct,,,Taschen,,
 BO0624_88606,710044,254,1198,T.26cm.,555,70.6,False,positional,,,Truhen; Kastchen in Holz,,
 BO0624_88606,710045,255,1199,"B.13cm,T.8cm.",557,82.8,False,positional,,,Truhen; Kastchen in Holz,,
-BO0624_88606,710046,256,1200,- 1201,562,100.0,False,positional,,,Truhen; Kastchen in Holz,,
+BO0624_88606,710046,256,1200,- 1201,562,100.0,False,positional,,,Truhen; Kastchen in Holz,,Sec. XIII
 BO0624_88606,710047,257,1202,"Eisenkassette, geatzt. Adler mit offenen Fluigeln, sechs-",564,95.5,False,positional,,,Truhen; Kastchen in Holz,,
 BO0624_88606,710048,258,1203,"Eisenkassette mit geschnittenem Beschlag u. 2 Griffen. H. 20cm, B. 32 cm,T. 19 cm.",566,96.8,False,positional,,,Truhen; Kastchen in Holz,,
 BO0624_88606,710049,259,1204,"Lederkassette mit Eisenbeschlagen, innen Einsatzfach",568,95.3,False,positional,,,Truhen; Kastchen in Holz,,
@@ -272,16 +272,16 @@ BO0624_88606,710060,270,1221,"desgl., Erganzungen, gruine Guirlandenmalerei Sign
 BO0624_88606,710061,271,1222,"desgl., Erganzungen, Signatur O.",597,91.8,False,positional,,,Ausgrabungen; Keramik; Glas,,
 BO0624_88606,710062,272,1223,"desgl., Erganzungen, Signatur K.",598,91.8,False,positional,,,Ausgrabungen; Keramik; Glas,,
 BO0624_88606,710063,273,1224,"- desgl., Signatur W.",600,100.0,False,positional,,,Ausgrabungen; Keramik; Glas,,
-BO0624_88606,710064,274,1225,- 1226,602,100.0,False,positional,,,Ausgrabungen; Keramik; Glas,,
+BO0624_88606,710064,274,1225,- 1226,602,100.0,False,positional,,,Ausgrabungen; Keramik; Glas,,Sec. XIII
 BO0624_88606,710065,275,1227,- Zwei Schalendeckel mit Birngriff.,604,100.0,False,positional,,,Ausgrabungen; Keramik; Glas,,
 BO0624_88606,710066,276,1228,"Weihwasserkessel mit Deckel, gedrehte Bossen,",610,94.5,False,positional,,,Kupfergeschirr,,
-BO0624_88606,710067,277,1229,"- 1230 Waschbecken in Treibarbeit,die Buchstaben A. R.",614,100.0,False,positional,,,Kupfergeschirr,,
-BO0624_88606,710068,278,1231,"- 1232 Salatseiher mit gedr. Bossen, H.18 cm, Durchm.33 cm.",618,100.0,False,positional,,,Kupfergeschirr,,
-BO0624_88606,710069,279,1233,"MaB,zylindrisch, Jahrzahl 1811,H.8 cm, Durchm.14,5 cm.",619,95.3,False,positional,,,Kupfergeschirr,,
+BO0624_88606,710067,277,1229,"- 1230 Waschbecken in Treibarbeit,die Buchstaben A. R.",614,100.0,False,positional,,,Kupfergeschirr,,Sec. XIII
+BO0624_88606,710068,278,1231,"- 1232 Salatseiher mit gedr. Bossen, H.18 cm, Durchm.33 cm.",618,100.0,False,positional,,,Kupfergeschirr,,Sec. XIII
+BO0624_88606,710069,279,1233,"MaB,zylindrisch, Jahrzahl 1811,H.8 cm, Durchm.14,5 cm.",619,95.3,False,positional,,,Kupfergeschirr,,Sec. XIX
 BO0624_88606,710070,280,1234,"Hellebarde,Dorn viermal durchbrochen, L. mit Schaft 2,25 m.",627,95.7,False,title_direct,,,Hellebarden,,
 BO0624_88606,710071,281,1235,und,630,54.5,False,title_direct,VOLTZ FRIEDRICH JOHANN,Scuola di van Dyck,ACQUEFORTI,,
 BO0624_88606,710072,282,1236,"Hellebarde, halbmondformiges Beil, Z-formig durchbroch.,",632,95.4,False,title_direct,,,Hellebarden,,
-BO0624_88606,710073,283,1237,- 1238,635,100.0,False,positional,,,Hellebarden,,
+BO0624_88606,710073,283,1237,- 1238,635,100.0,False,positional,,,Hellebarden,,Sec. XIII
 BO0624_88606,710074,284,1239,"Hellebarde, Beil kranzformig durchbrochen, L. 2,10 m.",637,95.1,False,title_direct,,,Hellebarden,,
 BO0624_88606,710075,285,1240,"Hellebarde, sternformig und rautenformig durchbrochen",639,95.4,False,title_direct,,,Hellebarden,,
 BO0624_88606,710076,286,1241,"- Hellebarde, Beil halbkreisformig durchbrochen.1 Dorn mit formigem Aufsatz. L. 2,20 m. s. Abbildung Vll.",641,100.0,False,title_direct,,,Hellebarden,,
@@ -289,7 +289,7 @@ BO0624_88606,710077,287,1242,"Hellebarde, Kleines Beil, Kleiner Dorn, lanzettfor
 BO0624_88606,710078,288,1243,"Hellebarde, Spitze gekropft. L. 2,27 m.",644,93.3,False,title_direct,,,Hellebarden,,
 BO0624_88606,710079,289,1244,"zungenformig,",645,82.8,False,positional,,,Hellebarden,,
 BO0624_88606,710080,290,1245,"Hellebarde,lanzettformige Spitze, zweimal L.1.81m.",647,95.0,False,title_direct,,,Hellebarden,,
-BO0624_88606,710081,291,1246,- 1247,650,100.0,False,positional,,,Hellebarden,,
+BO0624_88606,710081,291,1246,- 1247,650,100.0,False,positional,,,Hellebarden,,Sec. XIII
 BO0624_88606,710082,292,1248,"Hellebarde mit groBem convexen Beil und Durchlochungen am Ansatz,breite lanzettformige Spitze, L.2.45 m",652,97.6,False,title_direct,,,Hellebarden,,
 BO0624_88606,710083,293,1249,"Hellebarde (Nachtwachterspiess) convexes Beil, stark ab-",654,95.4,False,title_direct,,,Hellebarden,,
 BO0624_88606,710084,294,1250,"Hellebarde, desgl. L. 2.45 m.",655,90.9,False,title_direct,,,Hellebarden,,
@@ -299,16 +299,16 @@ BO0624_88606,710087,297,1253,"Partisane, desgl., am Hals drei Wulste, L. 2.35 m.
 BO0624_88606,710088,298,1256,"Partisane, Schaft abgeschnitten, L. 0.58 m.",664,94.0,False,positional,,,Hellebarden,,
 BO0624_88606,710089,299,1257,"- Partisane, halbkreisformig ausgeschnittenes Fluigelblatt, Flugel, geazt, L. 2.20 m. s. Abbildung Vll.",666,100.0,False,positional,,,COPPE,,
 BO0624_88606,710090,300,1258,"Partisane, Blatt geazt, L. 2 m.",667,91.5,False,positional,,,Hellebarden,,
-BO0624_88606,710091,301,1259,"- 1260 Partirane, Blatt bezeichnet J. B. 1712, Rote Quaste,",669,100.0,False,positional,,,Hellebarden,,
+BO0624_88606,710091,301,1259,"- 1260 Partirane, Blatt bezeichnet J. B. 1712, Rote Quaste,",669,100.0,False,positional,,,Hellebarden,,Sec. XIII
 BO0624_88606,710092,302,1261,SpieB (Saufeder) mit lanzettformigem Blatt und abwarts-,673,95.4,False,title_direct,SpieB,,,,
 BO0624_88606,710093,303,1262,"Saufeder mit S-formig gebogenen Ohren, L. 2.02 m.",675,94.8,False,positional,,,Hellebarden,,
 BO0624_88606,710094,304,1263,"Saufeder, L.2.02 cm.",676,87.8,False,positional,,,Hellebarden,,
 BO0624_88606,710095,305,1264,"- SpieB mit schmaler Lanzette, L. 2 m.",678,100.0,False,title_direct,SpieB,,,,
 BO0624_88606,710096,306,1265,"- SpieB,L.1.40 m.",680,100.0,False,title_direct,SpieB,,,,
 BO0624_88606,710097,307,1266,"SpieB, L. 0.85 m.",681,84.8,False,title_direct,SpieB,,,,
-BO0624_88606,710098,308,1267,- 1268,683,100.0,False,positional,,,Hellebarden,,
+BO0624_88606,710098,308,1267,- 1268,683,100.0,False,positional,,,Hellebarden,,Sec. XIII
 BO0624_88606,710099,309,1269,"SpieB als Spahn- oder Luntenhalter, Schaft schwarz-gelb",686,95.5,False,title_direct,SpieB,,,,
-BO0624_88606,710100,310,1270,"- 1271 Streithammer mit abgekanteter Spitze, gerieftem Ruckschlag,ornamentierten Federn und einfacher Gurtelfeder,",690,100.0,False,positional,,,Hellebarden,,
+BO0624_88606,710100,310,1270,"- 1271 Streithammer mit abgekanteter Spitze, gerieftem Ruckschlag,ornamentierten Federn und einfacher Gurtelfeder,",690,100.0,False,positional,,,Hellebarden,,Sec. XIII
 BO0624_88606,710101,311,1272,"- eisengeschnitten, tulpenformig durchbrochen, am Knoten Kupfereinlagen, L.25 cm.",694,100.0,False,positional,,,Hellebarden,,
 BO0624_88606,710102,312,1272,"a Streitaxt, s.Abbildung T. I. b Streitaxt, eisengeschnitten, Beil durchbrochen und mit viergeteilter Marke,L. 24.",696,83.2,False,positional,,,Hellebarden,,
 BO0624_88606,710103,313,1273,Tableau mit verschiedenen ausgegrab. Beilen u. Schwertern.,701,95.7,False,positional,,,Hieb-und Stichwaffen,,
@@ -328,7 +328,7 @@ BO0624_88606,710116,326,1286,"Schiavona, die Korbspangen gehen aus einer Seite d
 BO0624_88606,710117,327,1287,"e Parierstange,ein-",726,87.8,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710118,328,1288,"Reitersabel mit gerader Parierstange und zwei geknoteten Faustspangen, Griff mit Hornhulsen, Klinge gebogen, mit Marke, L. 93 cm.",727,98.0,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710119,329,1289,"Reitersabel mit Eselshuf, geknoteten Korbspangen und durchbrochenem Korbblatt, dachformigem Knauf, gebogene Klinge, L. 73 cm.",729,97.9,False,positional,,,Hieb-und Stichwaffen,,
-BO0624_88606,710120,330,1290,"1291. Reiterdegen mit doppeltem Stichblatt, Daumenring und",733,100.0,False,positional,,,Hieb-und Stichwaffen,,
+BO0624_88606,710120,330,1290,"1291. Reiterdegen mit doppeltem Stichblatt, Daumenring und",733,100.0,False,positional,,,Hieb-und Stichwaffen,,Sec. XIII
 BO0624_88606,710121,331,1292,"Reiterdegen, ahnlich wie vorher, Klinge geatzt: Soli Deo",735,95.5,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710122,332,1293,"Reiterschwert mit doppeltem Maskaron, verzierter Stichplatte, auf der Klinge Inschrift: SAHAGOML,L. 95 cm.",736,97.6,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710123,333,1294,"Reiterschwert, ahnlich, mit Doppelstichplatte, durchbrochen, L. 1 m. Reiterdegen, Stichblatter mit Maskaron, geknotete Korbspangen,birnformiger gerippter Knauf, auf der Klinge beiderseits Inschrift: PETER MONSIT ME FECIT, SOLINGE, ferner JOHAN WIRSBERGER,L. 1,17 m s.Abblldung Vl. Reiterschwert, ahnlich wie vorher, L. 1 m.",739,79.9,False,positional,,,Hieb-und Stichwaffen,,
@@ -339,8 +339,8 @@ BO0624_88606,710127,337,1300,"Reiterschwert,ahnlich,Daumenringabgebrochen,L.1.05
 BO0624_88606,710128,338,1301,"Reiterdegen mit doppeltem Eselshuf, auf dem Knauf",746,95.0,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710129,339,1302,"Reiterdegen mit doppeltem Eselshuf und Parierspangen,",748,95.4,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710130,340,1303,"Reiterdegen. Eselshuf, Parierstange auf- und abgebogen",750,95.3,False,positional,,,Hieb-und Stichwaffen,,
-BO0624_88606,710131,341,1304,"- 1305 Reiterdegen, Stichblatt mit Reliefkopfen und durchbro-",754,100.0,False,positional,,,Hieb-und Stichwaffen,,
-BO0624_88606,710132,342,1306,- 1307 Reiterdegen mit Daumenring und durchbrochener Stich-,758,100.0,False,positional,,,Hieb-und Stichwaffen,,
+BO0624_88606,710131,341,1304,"- 1305 Reiterdegen, Stichblatt mit Reliefkopfen und durchbro-",754,100.0,False,positional,,,Hieb-und Stichwaffen,,Sec. XIV
+BO0624_88606,710132,342,1306,- 1307 Reiterdegen mit Daumenring und durchbrochener Stich-,758,100.0,False,positional,,,Hieb-und Stichwaffen,,Sec. XIV
 BO0624_88606,710133,343,1208,"Kurzes Reiterschwert, muschelformiges Stichblatt mit",760,95.3,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710134,344,1309,"Korbdegen mit groBem sternformig durchbrochenem Doppelkorb und langer Vierkantklinge,L.1,37 m. s.Abbildung Vl.",762,97.7,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710135,345,1310,"Korbdegen, ahnlich wie vorher, L. 1,10 m.",763,93.7,False,positional,,,Hieb-und Stichwaffen,,
@@ -351,24 +351,24 @@ BO0624_88606,710139,349,1314,"Degen,ahnlich wie vorher, L. 92 cm.",770,92.8,Fals
 BO0624_88606,710140,350,1315,"Zwei Degen, Parierkorb in Rankenmuster u. durchbrochen, Parierstange abwarts spiralformig gebogen, bezw. gerade. L.1,03m.",771,97.9,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710141,351,1316,"Degen, ahnlich wie vorher,in der Blutrinne: N. TOLEDO,",773,95.2,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710142,352,1317,"Degen, Parierkorb mit aufsteigendem Rankenrelief, Blut-",776,95.4,False,positional,,,Hieb-und Stichwaffen,,
-BO0624_88606,710143,353,1318,- 1319,782,100.0,False,positional,,,Hieb-und Stichwaffen,,
+BO0624_88606,710143,353,1318,- 1319,782,100.0,False,positional,,,Hieb-und Stichwaffen,,Sec. XIV
 BO0624_88606,710144,354,1320,"Degen, Stichplatte wellenformig gekerbt mit Dreieckmuster.",783,95.7,False,positional,,,Hieb-und Stichwaffen,,
-BO0624_88606,710145,355,1321,"- 1322 Degen, Stichplatte gitterformig durchbrochen mit Festons,",791,100.0,False,positional,,,Hieb-und Stichwaffen,,
+BO0624_88606,710145,355,1321,"- 1322 Degen, Stichplatte gitterformig durchbrochen mit Festons,",791,100.0,False,positional,,,Hieb-und Stichwaffen,,Sec. XIV
 BO0624_88606,710146,356,1323,"Degen,auf der tichplatte reliefierte Reitergruppen,Ort,Pa rierstangen und Knauf ebenfalls reliefiert, L. 34. s. Abbildung VI.",792,98.0,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710147,357,1324,"Degen mit Messinggriff, L. 84 cm. Degen mit reliefiertem Messinggriff, L. 72 cm. Degen mit Messinggriff, Stichplatte mit Rocaillerand, L.88cm.",795,61.2,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710148,358,1327,"Degen mit reliefiertem Messinggriff, Muschelornamente, an Ort in Messing eingelegt ROMA, L. 85 cm. s.Abbildung VI.",796,97.7,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710149,359,1328,"Degen mit reliefiertem Messinggriff, mit figurlicher Darstellung, auf der Klinge verschlungenes Bandornament, geatzt, L 88 cm.",797,98.0,False,positional,,,Hieb-und Stichwaffen,,
-BO0624_88606,710150,360,1329,"Degen, ahnlich wie Nr. 1327, die ganze Klinge reicher StoBdegen,Stichblatt mit Knopfrand, Griff, Bugel und",801,67.9,False,positional,,,Hieb-und Stichwaffen,,
+BO0624_88606,710150,360,1329,"Degen, ahnlich wie Nr. 1327, die ganze Klinge reicher StoBdegen,Stichblatt mit Knopfrand, Griff, Bugel und",801,67.9,False,positional,,,Hieb-und Stichwaffen,,Sec. XIV
 BO0624_88606,710151,361,1330,s.Abbildung Vl.,802,84.8,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710152,362,1333,"StoBdegen, wellenformig durchbrochen, ebenso Ort und StoBdegen, Stichblatt strahlenformig gerieft, Knauf geschnitten, Dreikantklinge, L. 91 cm. s. Abbildung VI.",805,78.7,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710153,363,1334,"StoBdegen, eliptische Stichplatte mit Knopfauflage, Knauf StoBdegen, Stichblatt innen mit Knopfen besetzt, vasenformiger Knauf, Dreikantklinge, geatzt, L. 91 cm. goldung, L. 98 cm.",810,72.1,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710154,364,1337,"- StoBdegen, Stichplatte,rankenformig durchbrochen. Ort und Knauf durchbrochen, Dreikantklinge, geatzt, L. 77 cm.",813,100.0,False,positional,,,Hieb-und Stichwaffen,,
-BO0624_88606,710155,365,1338,- 1339,815,100.0,False,positional,,,Hieb-und Stichwaffen,,
+BO0624_88606,710155,365,1338,- 1339,815,100.0,False,positional,,,Hieb-und Stichwaffen,,Sec. XIV
 BO0624_88606,710156,366,1340,"Degen, das zweilappige Stichblatt mit allegorischer vergoldeter Darstellung in Relief, ebenso Ort und Knauf, Faustbugel abgebrochen, L. 1.03 m. s. Abbildung VI.",818,98.4,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710157,367,1341,"- Degen, zweilappiges Stichblatt mit erhohtem Rand, Ort, Parierstange und Knauf geschnitten, die tiefe Blutrinne mit TOLEDO,L.91 cm. s. Abbildung VI.",820,100.0,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710158,368,1342,"- Jagdschwert, gerade Parierstange mit Beingriff, L. 1 m.",822,100.0,False,positional,,,Hieb-und Stichwaffen,,
 BO0624_88606,710159,369,1343,L.97 cm.,823,73.7,False,positional,,,Hieb-und Stichwaffen,,
-BO0624_88606,710160,370,1344,"- Richtschwert, gerade Parierstange, lederbezogener Griff, messingtanschierte Klinge, Jahreszahl 1540, L. 1.09 m.",826,100.0,False,positional,,,Hieb-und Stichwaffen,,
+BO0624_88606,710160,370,1344,"- Richtschwert, gerade Parierstange, lederbezogener Griff, messingtanschierte Klinge, Jahreszahl 1540, L. 1.09 m.",826,100.0,False,positional,,,Hieb-und Stichwaffen,,Sec. XVI
 BO0624_88606,710161,371,1345,"Hirschfanger mit Scheide, Parierstange in Hundekopfe endigend, Klinge geatzt, L. 75 cm. s.Abbildung VI.",830,97.5,False,title_direct,,,Hirschfanger,,
 BO0624_88606,710162,372,1346,"Hirschfanger, an der Angel die Inschrift: DAMASCO, L. 070 m.",831,95.7,False,title_direct,,,Hirschfanger,,
 BO0624_88606,710163,373,1347,"der Klinge Figur und Name:,Pandur, L. 60 cm. s.Abbildung VI.",834,95.7,False,positional,,,Hirschfanger,,
@@ -377,9 +377,9 @@ BO0624_88606,710165,375,1349,"Hirschfanger, Ortblatt mit Artemis, Klinge geatzt,
 BO0624_88606,710166,376,1350,"Bandwerk,L.0.65 m.",842,87.2,False,positional,,,Hirschfanger,,
 BO0624_88606,710167,377,1351,"Hirschfanger, Ortblatt mit Wild, Knauf mit Lowenkopf",846,95.2,False,title_direct,,,Hirschfanger,,
 BO0624_88606,710168,378,1352,"Hirschfanger, Ortblatt Muschelform, Klinge mit Inschrift,",849,95.6,False,title_direct,,,Hirschfanger,,
-BO0624_88606,710169,379,1353,"- 1354 Drei Hirschfanger mit Horngriffen und muschelformigen Ortschildern,L.65, 72, 81 cm.",854,100.0,False,title_direct,,,Hirschfanger,,
+BO0624_88606,710169,379,1353,"- 1354 Drei Hirschfanger mit Horngriffen und muschelformigen Ortschildern,L.65, 72, 81 cm.",854,100.0,False,title_direct,,,Hirschfanger,,Sec. XIV
 BO0624_88606,710170,380,1355,"Drei Hirschfanger mit Horngriffen, die Ortschilder mit Jagddarstellung, Faustbugel mit figurlichen Reliefs, L. 77, ,74cm.",855,95.6,False,title_direct,,,Hirschfanger,,
-BO0624_88606,710171,381,1356,"- 1357 Sechs Hirschfanger mit Horngriffen, funf mit muschel-",859,100.0,False,title_direct,,,Hirschfanger,,
+BO0624_88606,710171,381,1356,"- 1357 Sechs Hirschfanger mit Horngriffen, funf mit muschel-",859,100.0,False,title_direct,,,Hirschfanger,,Sec. XIV
 BO0624_88606,710172,382,1358,"- Sechs Hirschfanger, funf mit Horngriffen, einer mit Drahtgeflecht,ohne Ortschilder,L.71,73,70,58,65,45cm.",862,100.0,False,title_direct,,,Hirschfanger,,
 BO0624_88606,710173,383,1359,"Ein Dolch mit abwartsgebogener Parierstange, Faustring,",866,95.5,False,positional,,,Dolche,,
 BO0624_88606,710174,384,1360,"Sechs Dolchmesser mit Holzgriff, L. je 32 cm.",868,94.4,False,positional,,,Dolche,,
@@ -394,8 +394,8 @@ BO0624_88606,710182,392,1368,"Feuersteingewehr, Schaft mit Schnitzereien u Messi
 BO0624_88606,710183,393,1369,Feuersteingewehr Schaft mit Messingeinlagen. Auf dem Hals Silberschildchen mit Monogramm F. R. unter Krone. Der Lauf mit Silber eingelegt und der tauschierten Inschrift : Christian Korber zu Jngelfingen.L. 1.33 m. s.Abbildung Vll.,887,98.9,False,positional,HALS DIRK,,Fernwaffen,,
 BO0624_88606,710184,394,1370,"- Feuersteingewehr, Schaft mit Silberverzierungen,Jagdmotive und Greif. Lauf ornamentiert mit Bandwerk und Maskaron.L.1.45 m. s. Abbildung VIl.",889,100.0,False,positional,,,Fernwaffen,,
 BO0624_88606,710185,395,1371,"- Feuersteinbichse, Schaft geschnitzt, Lauf mit Inschrift: Johann Christoph Waas in Bamberg. L. 1.15 m. s.Abbildung Vll.",891,100.0,False,title_direct,Ramberg,,,,
-BO0624_88606,710186,396,1372,"Feuersteinbuchse,Schaft mit Elfenbeineinlagen,Lauf mit nschrift.....Dorbirn 1814.L.1.35 m. s.Abbildung Vll.",892,67.5,False,positional,,,Fernwaffen,,
-BO0624_88606,710187,397,1373,"- 1374 teils Zundhitchen, teils Feuersteine.",896,100.0,False,positional,,,Fernwaffen,,
+BO0624_88606,710186,396,1372,"Feuersteinbuchse,Schaft mit Elfenbeineinlagen,Lauf mit nschrift.....Dorbirn 1814.L.1.35 m. s.Abbildung Vll.",892,67.5,False,positional,,,Fernwaffen,,Sec. XIX
+BO0624_88606,710187,397,1373,"- 1374 teils Zundhitchen, teils Feuersteine.",896,100.0,False,positional,,,Fernwaffen,,Sec. XIV
 BO0624_88606,710188,398,1375,"Sechs Feuersteingewehre mit teilweise verzierten Schaften. L. 1.38 m, 1.37 m, 1.40 m, 1,41 m, 1.53 m, 1.50 m.",898,97.6,False,title_direct,,,Gewehre,,
 BO0624_88606,710189,399,1376,"Zwei Zundhitchengewehre mit Messingverzierungen,",899,94.9,False,title_direct,,,Gewehre,,
 BO0624_88606,710190,400,1377,"Zindhitchengewehr,LaufausEnglischGuBstahl L.1.31m,",901,95.1,False,positional,,,Fernwaffen,,
@@ -406,22 +406,22 @@ BO0624_88606,710194,404,1381,"- Marken und Monogramme, L. 51 cm. s.Abbildung IV.
 BO0624_88606,710195,405,1382,"Drei Feuersteinpistolen ohne Verzierungen. a Feuersteinpistole Lauf .mit drei eingelegten Marken: Krone und G. R.: G. Rennais, gravierte Silberbeschlage. L.40 cm.",920,82.7,False,title_direct,,,Pistolen,,
 BO0624_88606,710196,406,1383,"Zwei Feuersteinpistolen, ohne Verzierung. L.40 und 38 cm. Zwei kleine Pistolen mit Messinglauf und der Inschrift M.B.L.M.",927,70.7,False,title_direct,,,Pistolen,,
 BO0624_88606,710197,407,1384,"Messingbeschlage. L. 37, 33, 48 cm.",928,92.3,False,positional,,,Pistolen,,
-BO0624_88606,710198,408,1387,- 1386 mehreren Marken.L. 30 cm.,931,100.0,False,positional,,,Pistolen,,
-BO0624_88606,710199,409,1387,"a Zwei Zundhitchenpistolen mit fischgratenformig ge- Revolver, Revolverkammer graviert Signatur W. W. MARSTON patented 1840. L.22 cm.",935,73.4,False,title_direct,,,Pistolen,,
+BO0624_88606,710198,408,1387,- 1386 mehreren Marken.L. 30 cm.,931,100.0,False,positional,,,Pistolen,,Sec. XIV
+BO0624_88606,710199,409,1387,"a Zwei Zundhitchenpistolen mit fischgratenformig ge- Revolver, Revolverkammer graviert Signatur W. W. MARSTON patented 1840. L.22 cm.",935,73.4,False,title_direct,,,Pistolen,,Sec. XIX
 BO0624_88606,710200,410,1388,"Pistole, gezeichnet Rue Richelieu 67. L. 17 cm.",936,94.5,False,title_direct,,,Pistolen,,
 BO0624_88606,710201,411,1389,"a Zwillingspistole, ,London"". RadschloB, L.20 cm. Zehn Feuersteinschlosser in verschiedenen Gr8Ben.",939,69.0,False,title_direct,,,Schlosser,,
-BO0624_88606,710202,412,1392,- 1393 Zwei Pulverprifpistolen.,941,100.0,False,title_direct,,,Pistolen,,
+BO0624_88606,710202,412,1392,- 1393 Zwei Pulverprifpistolen.,941,100.0,False,title_direct,,,Pistolen,,Sec. XIV
 BO0624_88606,710203,413,1395,"- Sieben SchloBteile. Zwei Pulverprifer mit Steckschlussel, L. 16 cm",944,80.4,False,title_direct,,,SchloBteile,,
 BO0624_88606,710204,414,1396,"- Pulverbehalter in Scheibenform, Messing.",946,100.0,False,positional,,,Pistolen,,
 BO0624_88606,710205,415,1497,"PulvermaB mit dreipaBformigen Griff, L. 18 cm.",947,94.5,False,positional,,,Pistolen,,
 BO0624_88606,710206,416,1398,"Zwei Steckschlussel mit Schraubenzieher, L. 14 cm, B. 16 cm. Drei Spannschrauben, L. 13 cm, 13 cm, 14 cm. Sechs KugelgieBzangen, L. 8 cm, B. 15 cm.",949,57.3,False,title_direct,,,Schlussel,,
-BO0624_88606,710207,417,1401,"- 1402 Zwei Kanonenmodelle mit Lafetten, L. 13,5 cm u. 22 cm.",953,100.0,False,positional,,,Pistolen,,
+BO0624_88606,710207,417,1401,"- 1402 Zwei Kanonenmodelle mit Lafetten, L. 13,5 cm u. 22 cm.",953,100.0,False,positional,,,Pistolen,,Sec. XV
 BO0624_88606,710208,418,1403,"Armbrust, komplett auf dem Spannhebel Marke: H. S. B.",955,95.0,False,positional,,,Pistolen,,
 BO0624_88606,710209,419,1404,"Armbrustwinde, SchloB tauschiert in Gold, Doppelhaken   | L.35 cm.                                                                                                           |",957,95.9,False,positional,,,OGGETTI IN ORO,,
 BO0624_88606,710210,420,1405,"| s.Abbildung V. Armbrustwinde, mit einfachem Hebel, L. 35 cm. s. Abbildung V.                                       |",959,96.5,False,positional,,,Pistolen,,
 BO0624_88606,710211,421,1406,"| Armbrustwinde,L.35 cm,33 cm, 35 cm, 36 cm.                                                                         |",960,94.0,False,positional,,,Pistolen,,
 BO0624_88606,710212,422,1407,"| Lot von 39 Pulverflaschen, Pulverhornern, Pulverbeuteln, aus Holz, Horn, Metall, teilweise verziert und getrieben. |",961,97.7,False,title_direct,,,OGGETTI IN LEGNO,,
-BO0624_88606,710213,423,1408,"1409                                                    | Zwei Beinschienen, eine Arm,eine Handschiene und vier Schienenringe.                                               |",964,96.6,False,positional,,,Pistolen,,
+BO0624_88606,710213,423,1408,"1409                                                    | Zwei Beinschienen, eine Arm,eine Handschiene und vier Schienenringe.                                               |",964,96.6,False,positional,,,Pistolen,,Sec. XV
 BO0624_88606,710214,424,1410,"| Drei Helme, zwei mit Stirin-, einer mit Nackenschutz (Pappenheimer).                                               |",965,96.1,False,positional,,,Pistolen,,
 BO0624_88606,710215,425,1411,"| Lot, sechs Steigbigel.                                                                                             |",967,88.9,False,positional,,,Pistolen,,
 BO0624_88606,710216,426,1412,"| Lot, 20 Sporen.                                                                                                    |",968,83.9,False,positional,,,Pistolen,,
@@ -438,8 +438,8 @@ BO0624_88606,710226,436,1958,| 1 Anatol-Jordes alt               | 95:160 ”   
 BO0624_88606,710227,437,1959,| 1 Anatol-Jordes antik             | 125:165 ”   |,995,92.1,False,positional,,,Teppiche,,
 BO0624_88606,710228,438,1960,| 1 alter Samarkand                 | 123:263 ”   |,996,90.9,False,positional,,,Teppiche,,
 BO0624_88606,710229,439,1961,| pers. Schiras alt                 | 107:185 ”   |,997,90.6,False,positional,,,Teppiche,,
-BO0624_88606,710230,440,1962,| 1 Chinese um 1750                 | 93:187 ”    |,998,90.6,False,positional,,,Teppiche,,
-BO0624_88606,710231,441,1963,| 1 Chinese um 1750                 | 217:427     |,999,90.9,False,positional,,,Teppiche,,
+BO0624_88606,710230,440,1962,| 1 Chinese um 1750                 | 93:187 ”    |,998,90.6,False,positional,,,Teppiche,,Sec. XVIII
+BO0624_88606,710231,441,1963,| 1 Chinese um 1750                 | 217:427     |,999,90.9,False,positional,,,Teppiche,,Sec. XVIII
 BO0624_88606,710232,442,1964,| 1 Kansas. Cabistan alt            | ” 111:153   |,1000,92.1,False,positional,,,Teppiche,,
 BO0624_88606,710233,443,1965,| 1 Kansas. Cabistan alt            | ” 109:146 ” |,1001,92.1,False,positional,,,Teppiche,,
 BO0624_88606,710234,444,1966,| 1 Kansas. Cabistan alt            | 109:146 9   |,1002,92.5,False,positional,,,Teppiche,,
@@ -465,8 +465,8 @@ BO0624_88606,710253,463,2018,Landschaft aus dem Taunus. Aquarell.10:18. Bez.A.Bu
 BO0624_88606,710254,464,2019,"Holl. Landschaft. Im Vordergrund Kihe auf der Weide,auf der LandstraBe Pferdefuhrwerk, im Hintergrund Ortschaft mit Windmihle. Oel",1094,98.1,False,positional,Paul Burmeister,,,,
 BO0624_88606,710255,465,2020,"Versehgang. Auf verregnetem Weg Geistlicher mit Ministrant, im",1099,96.0,False,positional,Gerolamo Cairati,,,,
 BO0624_88606,710256,466,2021,An der Muhle mit Staffage. Oel auf L. 46:31. Sign. Schw.R.,1104,95.5,False,positional,von Chidok,,,,
-BO0624_88606,710257,467,2022,"Eine Frage. Junger Bauernbursch am Tisch sitzend, dem Dirndl einen Liebesantrag machend, im gleichen Raum altes Bauernpaar und Bauernbursche, rickwarts Ausblick aus dem Fenster. Oel auf L. 48:62. Bez. J. Christian,Minchen 1923. H.R.",1108,98.9,False,positional,Justus Christian,,,,
-BO0624_88606,710258,468,2023,Mannerkopf mit Bart.Oel auf L.48:33. Bez. L. Correggio 1869. G.R.,1112,96.0,False,positional,Ludwig Correggio,,,,
+BO0624_88606,710257,467,2022,"Eine Frage. Junger Bauernbursch am Tisch sitzend, dem Dirndl einen Liebesantrag machend, im gleichen Raum altes Bauernpaar und Bauernbursche, rickwarts Ausblick aus dem Fenster. Oel auf L. 48:62. Bez. J. Christian,Minchen 1923. H.R.",1108,98.9,False,positional,Justus Christian,,,,Sec. XX
+BO0624_88606,710258,468,2023,Mannerkopf mit Bart.Oel auf L.48:33. Bez. L. Correggio 1869. G.R.,1112,96.0,False,positional,Ludwig Correggio,,,,Sec. XIX
 BO0624_88606,710259,469,2024,- 2026,1114,100.0,False,positional,Ludwig Correggio,,,,
 BO0624_88606,710260,470,2025,Hugelige Sommerlandschaft mit Eichen. Oel auf P.12:16. W. Damerius. Schw.R.,1122,96.6,False,title_direct,W. Damerius,,,,
 BO0624_88606,710261,471,2027,Reiterbild. Jockey. Oel auf P. 13:18. Schw.R.,1126,95.0,False,positional,R. Defin,,,,
@@ -513,7 +513,7 @@ BO0624_88606,710301,511,2072,Stilleben mit Blumen und Vasen. Oel auf L. 65:77. B
 BO0624_88606,710302,512,2073,Anbetung der Hirten. Oel auf L. 72:87 Unten links Monogr. Imit.,1334,95.9,False,positional,,Italienische Schule,,,
 BO0624_88606,710303,513,2074,"Hurdenreiten. Einzelne Reiter und Reiterinnen im Kostuim, die Hurde nehmend. Hugeliges Gelande. Oel auf L. 70:90. Bez.A.Jank. G.R. Abb. s. T. X.",1339,98.1,False,positional,Angelo Jank,,,,
 BO0624_88606,710304,514,2075,- 2076 Heidelberger SchloB. Uel auf L. 42:52. Sign. Schw. R.,1345,100.0,False,positional,F.W.Jankowski,,,,
-BO0624_88606,710305,515,2077,Blumenstilleben. Astern in Steinkrug. Oel auf P. 37:34. Bez. Jordan 1921. Schw.R.,1349,96.7,False,title_direct,Jordan,,OGGETTI VARI,,
+BO0624_88606,710305,515,2077,Blumenstilleben. Astern in Steinkrug. Oel auf P. 37:34. Bez. Jordan 1921. Schw.R.,1349,96.7,False,title_direct,Jordan,,OGGETTI VARI,,Sec. XX
 BO0624_88606,710306,516,2078,Marine. Seehafen mit vielen Seglern. Oel auf L. 35:45. Bez. Kaiser. G.R.,1353,96.3,False,positional,Berta Kaiser,,,,
 BO0624_88606,710307,517,8,1.,1356,100.0,False,positional,Berta Kaiser,Scuola Bolognese,,,
 BO0624_88606,710308,518,1,",",1358,0.0,False,positional,Berta Kaiser,,,,
@@ -540,7 +540,7 @@ BO0624_88606,710328,538,2101,"Chiemsee. Im Vordergrund heubeladenes Boot, im Hin
 BO0624_88606,710329,539,2202,Sommertag am Chiemsee. Oel auf P. 20:30. Bez. Ernst Lang Mchn. 24.G.R.,1472,96.2,False,title_direct,Erust Lang,,,,
 BO0624_88606,710330,540,2103,Reiter in der PuBta. Oel auf L. 21:46. Bez. H. Lang. G. R.,1476,95.2,False,positional,Heinrich Lang,,,,
 BO0624_88606,710331,541,2104,Heidelandschaft mit Staffage. Oei auf L. 15:30. Bezeichnung rick- - 2106,1483,92.4,False,positional,Dietrich Lanko,,,,
-BO0624_88606,710332,542,2105,"Schneelandschaft in Abendstimmung. DorfstraBe mit Figuren,im Vorder grund Bauernhutten, im Hintergrund Dorf, Oel auf L. 65:46 Bez. P.Lemann 1887 G.R.",1492,98.3,False,title_direct,P.Lemann,,,,
+BO0624_88606,710332,542,2105,"Schneelandschaft in Abendstimmung. DorfstraBe mit Figuren,im Vorder grund Bauernhutten, im Hintergrund Dorf, Oel auf L. 65:46 Bez. P.Lemann 1887 G.R.",1492,98.3,False,title_direct,P.Lemann,,,,Sec. XIX
 BO0624_88606,710333,543,I,talienische Landschaft bei Camogli. Oel auf P. 46:61. Schw.R.,1498,99.1,False,positional,Otto Leu,,,,
 BO0624_88606,710334,544,2107,"Waldteich. Oel auf P. 16:20. Schw.R. a Dame am Spiegel, im Hintergrund Sonnenblumen. Oel auf L. 85:60.",1503,79.2,False,positional,E.Liebermann,,SPECCHI,,
 BO0624_88606,710335,545,2108,"Weibl. Akt. Rickenbild, auf dem Boden Teppich und weiBes Tuch.",1508,95.9,False,title_direct,,,Teppiche,,
@@ -552,7 +552,7 @@ BO0624_88606,710340,550,2116,Konigssee vom Malerwinkel. Oel auf L.65:85. Bez. H.
 BO0624_88606,710341,551,2117,Kopie nach Giorgione. Oel auf L. 75:65. G. R.,1545,94.1,False,positional,Corneille Max,,,,
 BO0624_88606,710342,552,2118,8 Schlafender Affe. Oel auf H. 24:34.Sign. und auf der Ruickseite,1550,96.1,False,positional,G. von Max,,,,
 BO0624_88606,710343,553,2219,blickend. 64:85. Oel auf P.G.R.,1556,91.8,False,positional,Gabriel Max,,,,
-BO0624_88606,710344,554,2120,"Stilleben mit Wildente, Trauben, Aepfel und Melonen, rickwarts Ausblick auf Landschaft mit See und Gebirge. Oel auf L. 68: 88. Bez. A.Meixner, M.1890.G.R. Heimkehrende Fischerboote. Aquareil. 34:23. Sign. H.R.",1560,84.0,False,title_direct,A. Meixner,,,,
+BO0624_88606,710344,554,2120,"Stilleben mit Wildente, Trauben, Aepfel und Melonen, rickwarts Ausblick auf Landschaft mit See und Gebirge. Oel auf L. 68: 88. Bez. A.Meixner, M.1890.G.R. Heimkehrende Fischerboote. Aquareil. 34:23. Sign. H.R.",1560,84.0,False,title_direct,A. Meixner,,,,Sec. XIX
 BO0624_88606,710345,555,2121,a Hamburger Hafen. Oel. 65:85. Bez. E. Mercker. G.R.,1568,95.7,False,title_direct,E. Mercker,,,,
 BO0624_88606,710346,556,2122,30:24.G.R.,1573,78.3,False,positional,E.P.Mirani,,,,
 BO0624_88606,710347,557,2123,Alchimist im Laboratorium. Oel auf H. 48:41. Unsign. H. R.,1577,95.4,False,positional,J. M. Molinaer,,,,
@@ -613,7 +613,7 @@ BO0624_88606,710401,611,2192,"- Gebirgslandschaft. Oel auf P. 12:7,5. Bez. O. S.
 BO0624_88606,710402,612,2193,Schw.R.,1861,70.6,False,positional,Otto Seitz,,,,
 BO0624_88606,710403,613,2194,"- Zeichnung, Kohle. 25:18. Bez. O.S. H. R.",1863,100.0,False,positional,Otto Seitz,,,,
 BO0624_88606,710404,614,2195,Leuchtturm.,1865,80.0,False,positional,Otto Seitz,,,,
-BO0624_88606,710405,615,2196,Der Eremit. Tuschzeichnung. 16:21. Bez. Otto Seitz 1896. G.R.,1866,95.7,False,title_direct,Otto Seitz,,,,
+BO0624_88606,710405,615,2196,Der Eremit. Tuschzeichnung. 16:21. Bez. Otto Seitz 1896. G.R.,1866,95.7,False,title_direct,Otto Seitz,,,,Sec. XIX
 BO0624_88606,710406,616,2197,"Liebespaar in Mondscheinlandschaft. Zeichn. 10,5:6. Bez.O.S. G.R.",1867,96.0,False,positional,Otto Seitz,,,,
 BO0624_88606,710407,617,2198,"- Liebespaar auf der Bank. Zeichnung. 10,5:6. Bez. O. S. G. R.",1869,100.0,False,positional,Otto Seitz,,,,
 BO0624_88606,710408,618,2199,"Belauschte Nixe. Zeichnung. 10,5:6. Bez. O. S. G. R.",1870,94.6,False,positional,Otto Seitz,,,,
@@ -637,7 +637,7 @@ BO0624_88606,710425,635,2224,- 2225,1918,100.0,False,positional,A. Stademann,,,,
 BO0624_88606,710426,636,2218,Auf der Promenade. Gouache. 23:17. Bez. F. Stahl. G.R.,1922,94.9,False,positional,Friedrich Stahl,,OGGETTI IN METALLO,,
 BO0624_88606,710427,637,2219,"Landschaft. Im Vordergrund FluB mit schwimmenden Enten, am Ufer Baume und Hauser. Oel auf P. 21 :30. Bez. R. Steinbeck. Schw.R.",1926,97.9,False,title_direct,R. Steinbeck,,,,
 BO0624_88606,710428,638,2220,Damenportrat. Oel auf L. 64:52. Unsig. Mahagoniempirerahmen.,1930,95.7,False,positional,Stieler,,,,
-BO0624_88606,710429,639,2221,"Landschaft. Bauerin auf einem am Wasser sich hinziehenden Weg, Ganse vor sich hertreibend. Oel auf P. 25:30. Bez. H. Stockmann Dachau 1923.G.R.",1934,98.2,False,positional,Hermann Stockmann,,,,
+BO0624_88606,710429,639,2221,"Landschaft. Bauerin auf einem am Wasser sich hinziehenden Weg, Ganse vor sich hertreibend. Oel auf P. 25:30. Bez. H. Stockmann Dachau 1923.G.R.",1934,98.2,False,positional,Hermann Stockmann,,,,Sec. XX
 BO0624_88606,710430,640,2222,Beschaulichkeit. Alter Herr beim Frihstick Zeitung lesend vor seinem,1935,96.4,False,positional,Hermann Stockmann,,,,
 BO0624_88606,710431,641,2223,"Pferd vor der Futterkrippe, rechts Bauernhaus, links Landschaft und See im Hintergrund. Oel auf H. 27,5:24. Schw. R. Unsig.",1940,97.9,False,positional,Dirk Stopp,,,,
 BO0624_88606,710432,642,2226,Aurikeln im Korb. Oel auf P. 30:37. Sign. G.R.,1945,94.3,False,positional,Wolf Thaler,,,,
@@ -654,9 +654,9 @@ BO0624_88606,710442,652,2237,Neumihlen-Altona. Aquarell. 21:15. Sign.G.R.,2005,9
 BO0624_88606,710443,653,2238,Kihe auf der Weide. Oel auf P. 16:33. Bez.V. Weishaupt. G. R.,2011,95.6,False,positional,Viktor Weishaupt,,,,
 BO0624_88606,710444,654,2239,"- 2240 Abendstimmung. In schilfigem Moorgelande einschlagende Enten, rechts Baume unp Straucher. 2 Jager schiessen auf Enten. Oel euf L. 65:105. Bez. Josef Wenglein 85. G.R. Abb.s.T.Xill.",2018,100.0,False,title_direct,Josef Wenglein,,,,
 BO0624_88606,710445,655,2241,"Mosstudie. Ooel auf P. 20:26,5. Bez. rickw. NachlaB-Stempel. G. L.",2020,95.9,False,positional,Josef Wenglein,,STAMPE E INCISIONI,,
-BO0624_88606,710446,656,2242,An den Osterseen. Oel auf P. 19:27. Bez. Klem.Werner Mchn.1926. H.R.,2024,96.1,False,positional,Kl. Werner,,,,
+BO0624_88606,710446,656,2242,An den Osterseen. Oel auf P. 19:27. Bez. Klem.Werner Mchn.1926. H.R.,2024,96.1,False,positional,Kl. Werner,,,,Sec. XX
 BO0624_88606,710447,657,2243,Trinker. Oel auf H. 16:21. Bez.R. Wolf. Schw. R.,2027,94.3,False,positional,R.Wolf,,,,
-BO0624_88606,710448,658,2244,Abendstimmung. Leicht beschneite Landschaft mit Tannen. Oel auf P. 60:47. Bez.R. Wolf 1922. H.R.,2028,97.3,False,positional,R.Wolf,,,,
+BO0624_88606,710448,658,2244,Abendstimmung. Leicht beschneite Landschaft mit Tannen. Oel auf P. 60:47. Bez.R. Wolf 1922. H.R.,2028,97.3,False,positional,R.Wolf,,,,Sec. XX
 BO0624_88606,710449,659,2245,"Chiemseefischer beim Einziehen des Fischnetzes; rechts Fraueninsel, im Hintergrund Gebirge, bewolkter Himmel. Oel auf L. 40 :61. Bez. J.Hopfner.Schw.R.Abb.s.T.XIll.",2032,98.4,False,positional,Josef Wopfner,,,,
 BO0624_88606,710450,660,2245,a Chiemseelandschaft mit Kahn und Frau mit Kind. Oel auf L. 38:29. Bez.J. Wopfner.,2033,97.5,False,positional,Josef Wopfner,,,,
 BO0624_88606,710451,661,2248,"Im Vordergrund weibes Pferd, Fuhrer mit sitzender Frau sich unterhaltend. Hinter dem weiBen Pferd Reiter auf braunem Pferd, neben ihm ein Bettler. Rechts Haus und Wirtschaft, Knabe vor Eingang mit Hund spielend.Durch Fenster Blick in die Wirtschaft. Vor dem Haus Baume. Oel auf L.auf H.aufgezogen. 41:35. Schw.R. Abb.T.IX.",2037,99.2,False,positional,Phil. Wouwermann,,,,

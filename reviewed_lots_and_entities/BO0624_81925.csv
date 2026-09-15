@@ -15,7 +15,7 @@ BO0624_81925,704219,13,13,"SEI SEGGIOLE in noce tornito, ricoperte in cuoio. Rip
 BO0624_81925,704220,14,2,14.LA CROCIFISSIONE. Placca in maiolica. Abruzzo.Sec.XVII.,29,98.2,False,none,,,,,
 BO0624_81925,704221,15,3,15.DUE VASI in porcellana Cinese.,30,97.0,False,none,,,VASI,,
 BO0624_81925,704222,16,16,"AMORE E PSICHE: Gruppo in bisquit, base in legno nero.",31,97.1,False,none,,,,,
-BO0624_81925,704223,17,5,"Inglese.Firmato J.Gibon,1858.",32,96.6,False,none,,,,,
+BO0624_81925,704223,17,5,"Inglese.Firmato J.Gibon,1858.",32,96.6,False,none,,,,,Sec. XIX
 BO0624_81925,704224,18,6,17.SCRIVANIA da centro a ribalta in radice di noce e ulivo. Stile Luigi XIV.,33,98.7,False,none,,Periodo di Luigi XIV,,,
 BO0624_81925,704225,19,7,"18.LIBRERIA in noce a due sportelli, con grate in ferro battuto. Stile Sec.XVII.",34,98.7,False,none,,,,,
 BO0624_81925,704226,20,8,"19.TAPPETO PERSIANO Belucistan. (m.1,50×1,00).",35,97.7,False,none,,,,,
@@ -43,10 +43,10 @@ BO0624_81925,704247,41,37,DUE POLTRONE FRATINE in noce e oro. Sec.XVII.,70,96.6,
 BO0624_81925,704248,42,38,"GRANDE VASSOIO Veneziano in legno laccato, decorazione",71,97.2,False,none,,,,,
 BO0624_81925,704249,43,39,"FANALE Veneziano in rame sbalzato e cesellato, base in marmo dell'epoca.",76,84.1,False,none,,,,,
 BO0624_81925,704250,44,40,DUE ANGELI porta candele in legno scolpito dorato e policromato.,81,97.7,False,none,,,OGGETTI IN LEGNO,,
-BO0624_81925,704251,45,41,CROCE Processionale in argento del 1400. AttribuitaalGuardiagrele.,85,97.7,False,none,,,,,
-BO0624_81925,704252,46,42,QUATTRO PANNELLI in carta di riso dipinta. Cina. Sec. XVIII.,86,97.4,False,none,,,PANNELLI,,
+BO0624_81925,704251,45,41,CROCE Processionale in argento del 1400. AttribuitaalGuardiagrele.,85,97.7,False,none,,,,,Sec. XV
+BO0624_81925,704252,46,42,QUATTRO PANNELLI in carta di riso dipinta. Cina. Sec. XVIII.,86,97.4,False,none,,,PANNELLI,,Sec. XVIII
 BO0624_81925,704253,47,3,43.CALICE in bronzo con nielli. Sec.XV.,87,97.4,False,none,,,,,
-BO0624_81925,704254,48,44,SALVATOR ROSA(Napoli 1615-1673).《Battaglie 》.Due,88,96.7,False,none,ROSA SALVATOR,,,,
+BO0624_81925,704254,48,44,SALVATOR ROSA(Napoli 1615-1673).《Battaglie 》.Due,88,96.7,False,none,ROSA SALVATOR,,,,Sec. XVII
 BO0624_81925,704255,49,45,SPINELLO ARETINO.《Madonna e Bambino 》.Dipinto su,90,96.8,False,none,,,,,
 BO0624_81925,704256,50,46,SCUOLA PIEMONTESE (Sec. XVIII).《Ritratto di Re di,92,96.8,False,none,,Scuola Piemontese,,,
 BO0624_81925,704257,51,47,PETER LELY.《Ritratto di giovane Principessa 》.Dipinto su tela in cornice.,94,97.9,False,none,,,,,
@@ -93,9 +93,9 @@ BO0624_81925,704297,91,86,"STENDARDO in seta ricamato a ornati e disegni foreali
 BO0624_81925,704298,92,87,"TAPPETO CINESE Tiem-Tsin. (m. 1,85×0,90).",185,96.0,False,none,,,,,
 BO0624_81925,704299,93,88,"TAPPETO PERSIANO Scira Mecca. (m. 3,15×2,10).",186,96.4,False,none,,,,,
 BO0624_81925,704300,94,89,"TAPPETO PERSIANO Serrabend. (m. 1,76×1,10).",187,96.2,False,none,,,,,
-BO0624_81925,704301,95,90,CREDENZINA in noce a due sportelli. Sec. XVI.,188,96.6,False,none,,,,,
+BO0624_81925,704301,95,90,CREDENZINA in noce a due sportelli. Sec. XVI.,188,96.6,False,none,,,,,Sec. XVI
 BO0624_81925,704302,96,91,QUATTRO SCANNI in noce scolpito. Sec.XVI.,189,96.3,False,none,,,,,
-BO0624_81925,704303,97,92,"POLTRONA in noce, ricoperta in punto Ungaro. Sec. XVI.",190,97.1,False,none,,,POLTRONE,,
+BO0624_81925,704303,97,92,"POLTRONA in noce, ricoperta in punto Ungaro. Sec. XVI.",190,97.1,False,none,,,POLTRONE,,Sec. XVI
 BO0624_81925,704304,98,93,LAMPADA Veneziana in ottone cesellato e traforato.,191,97.0,False,none,,,LAMPADE,,
 BO0624_81925,704305,99,94,SEGGIOLA in noce con canna d'India. Luigi XVI.,192,96.7,False,none,,,,,
 BO0624_81925,704306,100,95,"DUE COLONNE in pietra, con capitelli.",193,95.9,False,none,,,,,
@@ -115,7 +115,7 @@ BO0624_81925,704319,113,108,VASETTO in maiolica decorata in bleu.,231,94.7,False
 BO0624_81925,704320,114,109,DUE SCALDINI in maiolica.,233,92.3,False,none,,,,,
 BO0624_81925,704321,115,110,DUE VASSOI in ottone.,235,90.9,False,none,,,,,
 BO0624_81925,704322,116,111,CORNICE in metallo sbalzato e argentato.,242,95.1,False,none,,,,,
-BO0624_81925,704323,117,2,Sec. XVII.,243,88.9,False,none,,,,,
+BO0624_81925,704323,117,2,Sec. XVII.,243,88.9,False,none,,,,,Sec. XVII
 BO0624_81925,704324,118,3,112.DUE SCALDINI in terraglia e due portavasi in ferro.,244,98.2,False,none,,,,,
 BO0624_81925,704325,119,113,TRE CORNICI in legno dorato.,246,93.1,False,none,,,CORNICI,,
 BO0624_81925,704326,120,114,"UCCELLO in bronzo dorato,con base. Sec.XVII.",248,95.5,False,none,,,,,
@@ -140,8 +140,8 @@ BO0624_81925,704344,138,131,STOPPINIERA in argento.Gr. 115. Stile Impero.,279,95
 BO0624_81925,704345,139,132,"DUE FANALI in legno dorato,basi in pietra. Luigi XIV.",280,96.2,False,none,,Periodo di Luigi XIV,,,
 BO0624_81925,704346,140,133,LAMPADARIO in legno policromato a sei bracci. mpero.,281,89.8,False,none,,,OGGETTI IN LEGNO,,
 BO0624_81925,704347,141,134,ALARE da Camino con putti in bronzo dorato e argentato. Francese:Luigi XVI.,283,97.3,False,none,,,,,
-BO0624_81925,704348,142,135,"RICCI SEBASTIANO.Venezia,1660-1734(attribuito a). 《Allegoria 》.Dipinto su tela,cornice dorata.",284,97.8,False,none,SEBASTIANO RICCI,,,,
-BO0624_81925,704349,143,136,"MAGGIOTTO DOMENICO.Venezia 1720-1794(attribuitoa). 《Ritratto di Donna 》.Dipinto su tela,cornice dorata.",285,98.0,False,none,,,,,
+BO0624_81925,704348,142,135,"RICCI SEBASTIANO.Venezia,1660-1734(attribuito a). 《Allegoria 》.Dipinto su tela,cornice dorata.",284,97.8,False,none,SEBASTIANO RICCI,,,,Sec. XVII
+BO0624_81925,704349,143,136,"MAGGIOTTO DOMENICO.Venezia 1720-1794(attribuitoa). 《Ritratto di Donna 》.Dipinto su tela,cornice dorata.",285,98.0,False,none,,,,,Sec. XVIII
 BO0624_81925,704350,144,137,"SCUOLA VENEZIANA (Sec. XVI).《L'Adorazione dei Re Magi 》.Dipinto su tavola, cornice dorata. (m.0,66×0,56).",286,97.9,False,none,,Scuola Veneziana,,,
 BO0624_81925,704351,145,138,LETTO in legno intagliato e dorato. Sec.XVIII.,287,95.7,False,none,,,,,
 BO0624_81925,704352,146,139,"TRUMEAU in radice di noce, con specchi.",288,94.9,False,none,,,SPECCHI,,
@@ -164,8 +164,8 @@ BO0624_81925,704368,162,154,CASSA in pastiglia dorata.,317,92.6,False,none,,,,,
 BO0624_81925,704369,163,155,"CASSETTONE Fratino in noce, con quattro cassetti e maniglie di ottone.",321,97.1,False,none,,,,,
 BO0624_81925,704370,164,156,"MORONI G.B.（attribuito a).《Ritratto di Architetto》.Di- pinto su tela, cornice nero ed oro.",325,97.6,False,none,,,,,
 BO0624_81925,704371,165,157,"CAVALLINO BERNARDO.《 Angelo con Putto 》.Dipinto su tela,cornice intagliata edorata.",331,97.5,False,none,,,,,
-BO0624_81925,704372,166,158,"LUCA GIORDANO (1632-1704).《Lotta dei Centauri 》. Dipinto su tela,in cornice. AutenticatodalProf.Suida diVienna.",333,98.1,False,none,LUCA GIORDANO,,,,
-BO0624_81925,704373,167,159,"GEROLAMO MUZIANO-Brescia 1528-1592-（Attribuitoa). 《Due Profeti 》.Dipinto su tela,cornice dorata. (m.0,62×0,48).",335,98.1,False,none,,,,,
+BO0624_81925,704372,166,158,"LUCA GIORDANO (1632-1704).《Lotta dei Centauri 》. Dipinto su tela,in cornice. AutenticatodalProf.Suida diVienna.",333,98.1,False,none,LUCA GIORDANO,,,,Sec. XVII
+BO0624_81925,704373,167,159,"GEROLAMO MUZIANO-Brescia 1528-1592-（Attribuitoa). 《Due Profeti 》.Dipinto su tela,cornice dorata. (m.0,62×0,48).",335,98.1,False,none,,,,,Sec. XVI
 BO0624_81925,704374,168,160,"TAPPETO PERSIANO Scira Mecca. (m.1,75×1,20).",337,95.2,False,none,,,,,
 BO0624_81925,704375,169,161,"TAPPETO PERSIANO Kelley Mahal. (m.3,65×1,60).",339,95.3,False,none,,,,,
 BO0624_81925,704376,170,162,BRACIERA in rame cedro a due colori. Luigi XVI.,341,95.7,False,none,,,,,
@@ -199,9 +199,9 @@ BO0624_81925,704403,197,187,"DUE POLTRONE in noce,ricoperte in punto a fiamma. U
 BO0624_81925,704404,198,188,PORTALE in legno scolpito e policromato;dorato con,394,96.2,False,none,,,OGGETTI IN LEGNO,,
 BO0624_81925,704405,199,189,TAVOLO in noce.,399,87.5,False,none,,,,,
 BO0624_81925,704406,200,190,"MOBILINO in noce a due sportelli e cassetti, piedi a zampe di leone.",401,97.1,False,none,,,,,
-BO0624_81925,704407,201,191,"BATONI POMPEO.Bologma,1708-1787.《La Sacra Fa miglia 》.Dipinto su tela,cornice dorata. (m.1,70×1,45). (Vedi Tav.XXIX).",405,98.2,False,none,,,,,
+BO0624_81925,704407,201,191,"BATONI POMPEO.Bologma,1708-1787.《La Sacra Fa miglia 》.Dipinto su tela,cornice dorata. (m.1,70×1,45). (Vedi Tav.XXIX).",405,98.2,False,none,,,,,Sec. XVIII
 BO0624_81925,704408,202,192,SCUOLA VENEZIANA (Sec.XVI).《S.Girolamo 》.Di,406,95.0,False,none,,Scuola Veneziana,,,
-BO0624_81925,704409,203,193,"SCHIAVONE ANDREA-1522-1582(attribuito a).《I1Sacrificio di Isacco 》.Dipinto su tela in cornice. (m.0,76&gt;0,65).",408,98.1,False,none,,,,,
+BO0624_81925,704409,203,193,"SCHIAVONE ANDREA-1522-1582(attribuito a).《I1Sacrificio di Isacco 》.Dipinto su tela in cornice. (m.0,76&gt;0,65).",408,98.1,False,none,,,,,Sec. XVI
 BO0624_81925,704410,204,194,BUREAU in legno intarsiato con ribalta e tre cassetti. mpero.,409,91.4,False,none,,,,,
 BO0624_81925,704411,205,195,TAVOLINETTO intarsiato.,411,91.7,False,none,,,ARREDAMENTI,,
 BO0624_81925,704412,206,196,"TAPPETO PERSIANO Sultamie. (m. 3,00×2,00).",415,94.9,False,none,,,,,
@@ -213,7 +213,7 @@ BO0624_81925,704417,211,201,CULLA in legno laccato. Venezia.Sec.XVII.,425,95.1,F
 BO0624_81925,704418,212,202,PICCOLO ARMADIO con gradino. Sec.XVII.,427,94.7,False,none,,,,,
 BO0624_81925,704419,213,203,MOBILE da muro a griglia. Alto Adige.Sec.XVI.,429,95.6,False,none,,,,,
 BO0624_81925,704420,214,204,STUCCO rotondo in cornice. Sec.XVII.,431,94.4,False,none,,,,,
-BO0624_81925,704421,215,205,SUSANNA fra i Vecchioni. Gruppo in alabastro. Sec. XVII.,433,86.9,False,none,,,,,
+BO0624_81925,704421,215,205,SUSANNA fra i Vecchioni. Gruppo in alabastro. Sec. XVII.,433,86.9,False,none,,,,,Sec. XVII
 BO0624_81925,704422,216,206,"SOGGETTO MITOLOGICO.Rilievo in terracotta,in cornice. Sec.XVII.",436,96.8,False,none,,,,,
 BO0624_81925,704423,217,207,DUE SEGGIOLE FRATINE in noce. Sec.XVII.,438,94.9,False,none,,,,,
 BO0624_81925,704424,218,208,"RITRATTI DI UOMO.Due dipinti su tela,di forma ovale, in cornici.",440,96.9,False,none,,,CORNICI,,
@@ -286,7 +286,7 @@ BO0624_81925,704490,284,269,"STIPETTO in noce con sportello a ribalta e dieci ca
 BO0624_81925,704491,285,270,ATLANTE E ERCOLE che sorreggono il mondo su sfondo,567,96.2,False,none,,,,,
 BO0624_81925,704492,286,271,FANI G.Bozzetto del quadro 《Sosta militare 》.Dipinto su tela.,574,96.6,False,none,,,,,
 BO0624_81925,704493,287,272,GIGNOUS EUGENIO.《Bassa Lombardia 》.Dipinto su tela,575,95.9,False,none,,,,,
-BO0624_81925,704494,288,273,"BRMZL CARL,1893.《Ritratto di giovine donna》.Pastello colorato,cornice nera.",576,97.3,False,none,,,,,
+BO0624_81925,704494,288,273,"BRMZL CARL,1893.《Ritratto di giovine donna》.Pastello colorato,cornice nera.",576,97.3,False,none,,,,,Sec. XIX
 BO0624_81925,704495,289,274,NOMELLINI PLINIO.《Giovinetta fra i fiori 》.Dipinto,577,95.9,False,none,,,,,
 BO0624_81925,704496,290,275,"CASSIOLI AMOS.《Battaglia di Legnano 》. Dipinto su tela, cornice nera.",579,96.9,False,none,,,,,
 BO0624_81925,704497,291,276,VAN DYCK (attribuito a).《Autoritratto 》Dipinto su tela.,583,96.2,False,none,VAN DYCK ANTON,,,,
@@ -298,7 +298,7 @@ BO0624_81925,704502,296,281,SEI PANNELLI in carta di riso. Cina.Sec.XVIII.,594,9
 BO0624_81925,704503,297,282,BRACIERA in rame sbalzato con figure ed ornati. Bellissimo esemplare di arte Veneziana del Sec.XVII.,595,98.0,False,none,,,,,
 BO0624_81925,704504,298,283,BELLISSIMO CALICE in bronzo con cuspidi. Sec.XV.,596,95.8,False,none,,,,,
 BO0624_81925,704505,299,284,"SCUOLA VENEZIANA (Sec.XVIII).《Veduta del Canal Grande con Ponte di Rialto 》.Dipinto su tela, cornice dorata.",597,98.1,False,none,CANALE ANTONIO,Scuola Veneziana,,,
-BO0624_81925,704506,300,285,"SCUOLA VENEZIANA (Sec.XVIII).《Veduta della Piazzetta S. Marco col Palazzo. Ducale 》. Dipinto su tela,",601,97.9,False,none,,Scuola Veneziana,,,
+BO0624_81925,704506,300,285,"SCUOLA VENEZIANA (Sec.XVIII).《Veduta della Piazzetta S. Marco col Palazzo. Ducale 》. Dipinto su tela,",601,97.9,False,none,PIAZZETTA JEAN-BAPTISTE,Scuola Veneziana,,,
 BO0624_81925,704507,301,286,"SPADINI.《 Fiori 》.Due dipinti su tela, cornici bianche.",603,96.1,False,none,,,CORNICI,,
 BO0624_81925,704508,302,287,"PILA ESAGONALE in marmo scolpito,in ogni esagono una figura di Santo.",604,97.1,False,none,,,,,
 BO0624_81925,704509,303,288,"DESIDERIO DA SETTIGNANO.《Madonna e Bambino》. Altorilievo in terracotta,tabernacolo in legno intagliato e dorato.",608,98.2,False,none,,,,,
@@ -318,7 +318,7 @@ BO0624_81925,704522,316,301,LIBRERIA in radice di ulivo. Stile Luigi XIV.,636,95
 BO0624_81925,704523,317,302,DIVANO a Pozzetto con due Poltrone in noce intagliato. Stile Veneziano Luigi XV.,637,97.5,False,none,,Periodo di Luigi XV,POLTRONE,,
 BO0624_81925,704524,318,303,PIATTO in maiolica policromata (leggermente restaurato).,638,96.4,False,none,,,,,
 BO0624_81925,704525,319,304,"DUE TAZZINE in porcellana bianca, decorazione in rilievo. Cina.Sec.XVIII.",640,97.2,False,none,,,,,
-BO0624_81925,704526,320,305,VASSOI0 in argento. Gr. 1185. Stite Luigi XVI.,641,95.5,False,none,,,,,
+BO0624_81925,704526,320,305,VASSOI0 in argento. Gr. 1185. Stite Luigi XVI.,641,95.5,False,none,,,,,Sec. XII
 BO0624_81925,704527,321,306,MARCONI ROCCO.《Gesu Cristo e PAdultera 》. Dipinto su tela cornice dorata.,642,97.1,False,none,,,,,
 BO0624_81925,704528,322,207,LORENZO DI BICCI.《Madonna e Bambino》.Dipinto su,650,95.7,False,none,,,,,
 BO0624_81925,704529,323,308,TAVOLO a TOILETTE in legno intarsiato allaMaggiolino.,652,96.3,False,none,,,OGGETTI VARI,,
@@ -348,7 +348,7 @@ BO0624_81925,704552,346,331,VASSOIO in metallo dipinto. Impero.,697,94.3,False,n
 BO0624_81925,704553,347,2,332.PICCOLA URNA in legno intagliato e dorato.,698,97.8,False,none,,,,,
 BO0624_81925,704554,348,3,333.CORNICETTA dorata. Sec.XV.,699,96.6,False,none,,,,,
 BO0624_81925,704555,349,4,334.DUE CANDELIERI in ottone.,700,96.6,False,none,,,,,
-BO0624_81925,704556,350,5,Venezia. Sec. XVI.,701,93.8,False,none,,,,,
+BO0624_81925,704556,350,5,Venezia. Sec. XVI.,701,93.8,False,none,,,,,Sec. XVI
 BO0624_81925,704557,351,6,335.DUE CANDELIERI in ottone.,702,96.6,False,none,,,,,
 BO0624_81925,704558,352,7,Venezia.Sec.XVI.,703,93.8,False,none,,,,,
 BO0624_81925,704559,353,336,BASE di Candeliere in bronzo.,704,93.3,False,none,,,,,
@@ -371,7 +371,7 @@ BO0624_81925,704575,369,349,MOBILINO in noce intarsiato. Sec.XVI1.,722,94.7,Fals
 BO0624_81925,704576,370,350,"TAVOLINETTO in noce,con piede centrale.",723,95.0,False,none,,,ARREDAMENTI,,
 BO0624_81925,704577,371,351,"MARZIALE MARCO (attribuito a).《Madonna e Bambino 》. Dipinto su tavola, cornice dorata.",725,97.5,False,none,,,,,
 BO0624_81925,704578,372,352,PAESAGGIO.Dipinto firmato Daubigny.,726,94.4,False,none,DAUBIGNY C. FRANCOIS,,,,
-BO0624_81925,704579,373,353,"RICCI MARCO （1676-1729).《Paesaggi 》.Quattro dipinti su tela, cornici dorate. (m.0,94×0,60).",727,97.6,False,none,SEBASTIANO RICCI,,CORNICI,,
+BO0624_81925,704579,373,353,"RICCI MARCO （1676-1729).《Paesaggi 》.Quattro dipinti su tela, cornici dorate. (m.0,94×0,60).",727,97.6,False,none,SEBASTIANO RICCI,,CORNICI,,Sec. XVIII
 BO0624_81925,704580,374,354,VAssOIO e Scatola in legno laccato fondo giallo. Venezia.Sec.XVIII.,728,97.0,False,none,,,,,
 BO0624_81925,704581,375,355,"DUE FANALI in legno dorato,basi in pietra.",729,95.3,False,none,,,,,
 BO0624_81925,704582,376,356,"POLTRONA in noce con braccioli diritti,ricoperta in vel luto celeste.",732,97.1,False,none,,,POLTRONE,,
@@ -383,16 +383,16 @@ BO0624_81925,704587,381,361,:PORTALE in pietia. Stile Rinascimento.,741,94.7,Fal
 BO0624_81925,704588,382,362,LETTO a colonne in legno dipinto e dorato.,742,95.3,False,none,,,,,
 BO0624_81925,704589,383,363,TAVOLINETTO in noce tornito. Riproduzione dall antico.,744,96.3,False,none,,,ARREDAMENTI,,
 BO0624_81925,704590,384,364,"TAPPETO PERSIANO Royal Bokara. (m.2,05×1,45).",745,95.3,False,none,,,,,
-BO0624_81925,704591,385,365,LUCERNA FIORENTINA in argento.Gr.1680. Stile Luigi XIV.,746,96.4,False,none,,Periodo di Luigi XIV,,,
+BO0624_81925,704591,385,365,LUCERNA FIORENTINA in argento.Gr.1680. Stile Luigi XIV.,746,96.4,False,none,,Periodo di Luigi XIV,,,Sec. XVII
 BO0624_81925,704592,386,366,VAsO con due manici in maiolica policromata.,747,95.6,False,none,,,VASI,,
 BO0624_81925,704593,387,367,"SCATOLA con necessaire da toilette in legno laccato fondo giallo, decorazione a chinoiserie. Venezia Luigi XIV.",749,98.2,False,none,,Periodo di Luigi XIV,OGGETTI VARI,,
 BO0624_81925,704594,388,368,MODELLO DI FONTANA in bronzo patinato e dorato.,750,95.8,False,none,,,,,
 BO0624_81925,704595,389,369,LAMPADARIO con piccoli prismi in vetro.,752,95.0,False,none,,,,,
 BO0624_81925,704596,390,370,"TIEPOLO DOMENICO.《L'Adorazione dei Magi 》.Grande dipinto su tela, cornice dorata. (Vedi Tav.XXI).",753,97.8,False,none,TIEPOLO DOMENICO,,,,
 BO0624_81925,704597,391,371,RITRATTO di DONNA.Dipinto su tela.,754,94.3,False,none,,,,,
-BO0624_81925,704598,392,372,"MAGNASCO ALESSANDRO 1681-1747.《Marine 》.Due dipinti su tela, cornici dorate.",755,97.3,False,none,,,CORNICI,,
-BO0624_81925,704599,393,373,"CLOUET.《 Ritratto di giovine Donna 》.Dipinto su tavola, -cornice nera.",763,85.5,False,none,,,,,
-BO0624_81925,704600,394,374,"STROZZI BERNARDO 1581-1644 (attribuito a). Due di pinti su tela, cornici intagliate e dorate. (m.1,22×1,06).",767,98.0,False,none,,,CORNICI,,
+BO0624_81925,704598,392,372,"MAGNASCO ALESSANDRO 1681-1747.《Marine 》.Due dipinti su tela, cornici dorate.",755,97.3,False,none,,,CORNICI,,Sec. XVIII
+BO0624_81925,704599,393,373,"CLOUET.《 Ritratto di giovine Donna 》.Dipinto su tavola, -cornice nera.",763,85.5,False,none,CLOUET FRANCOIS,,,,
+BO0624_81925,704600,394,374,"STROZZI BERNARDO 1581-1644 (attribuito a). Due di pinti su tela, cornici intagliate e dorate. (m.1,22×1,06).",767,98.0,False,none,,,CORNICI,,Sec. XVII
 BO0624_81925,704601,395,375,"MAGGIOTO DOMENICO (attribuito a).《Le due eta 》.Di pinto di forma ovale,cornice dorata. (m. 0,96×0,80).",768,97.9,False,none,,,,,
 BO0624_81925,704602,396,376,"PAESAGGI.Due dipinti,cornici dorate.",769,94.6,False,none,,,CORNICI,,
 BO0624_81925,704603,397,377,VERDURA e animali. Arazzo Aubusson.,771,94.3,False,none,,,AUBUSSONS,,
@@ -408,7 +408,7 @@ BO0624_81925,704612,406,384,"CONSOLLE e due Specchiere in legno intagliato,bianc
 BO0624_81925,704613,407,385,CAMINIERA in legno intagliato bianco e oro. Luigi XVI.,793,96.3,False,none,,,,,
 BO0624_81925,704614,408,386,"DUE DIVANI e due Poltrone in legno finemente intagliato dell'epoca a fondo giallo,decorato a chinoiserie.",794,98.1,False,none,,,POLTRONE,,
 BO0624_81925,704615,409,387,VETRINA a TAVOLO in mogano e bronzo.,796,94.6,False,none,,,,,
-BO0624_81925,704616,410,388,"CASSETTONE Veneziano in ciliegio, con quattro cassetti. Sec. XVIII.",800,96.9,False,none,,,,,
+BO0624_81925,704616,410,388,"CASSETTONE Veneziano in ciliegio, con quattro cassetti. Sec. XVIII.",800,96.9,False,none,,,,,Sec. XVIII
 BO0624_81925,704617,411,389,RIMMERSHNEIDER (Scuola Tedesca.Sec.XVI).《 Madon- na e Bambino 》. Scultura in legno.,802,97.4,False,none,,,,,
 BO0624_81925,704618,412,390,CAPITELLO ROMANICO in marmo scolpito.,806,94.7,False,none,,,,,
 BO0624_81925,704619,413,391,ERCOLE.Statua in marmo.,812,91.7,False,none,,,,,
@@ -419,7 +419,7 @@ BO0624_81925,704623,417,395,BACCO. Gruppo di porcellana policromata.,820,95.0,Fa
 BO0624_81925,704624,418,396,"DUE VASI con coperchio in porcellana bianca, decorati con fiori e foglie in oro a rilievo. Capodimonte. Periodo Carlo IHI.",822,98.3,False,none,,,VASI,,
 BO0624_81925,704625,419,397,"GRANDE POLTRONA a Pozzetto in noce,ricoperta in stoffa verde.",824,96.8,False,none,,,POLTRONE,,
 BO0624_81925,704626,420,398,"POLTRONA in noce con braccioli diritti, ricoperta in vel-",828,96.5,False,none,,,POLTRONE,,
-BO0624_81925,704627,421,399,"SCHEDONI 1562-1615(attribuito a).《S.Gerolam0》.Dipinto su tela. (m. 0,69×0,57).",834,97.2,False,none,,,,,
+BO0624_81925,704627,421,399,"SCHEDONI 1562-1615(attribuito a).《S.Gerolam0》.Dipinto su tela. (m. 0,69×0,57).",834,97.2,False,none,,,,,Sec. XVI
 BO0624_81925,704628,422,400,GRANDE CREDENZA in noce intagliato con cariatidi. Sec.XVI.,835,96.6,False,none,,,,,
 BO0624_81925,704629,423,401,MOBILINO in noce con sportello e cassetto.,836,95.3,False,none,,,,,
 BO0624_81925,704630,424,3,Sec. XVI1.,837,88.9,False,none,,,,,
@@ -434,8 +434,8 @@ BO0624_81925,704638,432,409,PORTAPANE in argento.Gr. 330. Stile Impero.,852,95.2
 BO0624_81925,704639,433,410,CREDENZA in noce. Toscana.Sec.XVII.,853,94.3,False,none,,,,,
 BO0624_81925,704640,434,411,TAVOLO noce con gambe a lira. Seo.XVI.,854,94.7,False,none,,,,,
 BO0624_81925,704641,435,412,MOBILINO in noce intarsiato con due cassetti.,855,95.7,False,none,,,,,
-BO0624_81925,704642,436,413,"DUE PIATTI in porcellana decorati a fiori e ornati policromati, su fondo giallo. Cina, Famiglia Rosa. Sec. XVIII.",857,98.2,False,none,,,PIATTI,,
-BO0624_81925,704643,437,2,414.IDOLO in porcellana. Giappone. Sec. XIX.,858,97.6,False,none,,,,,
+BO0624_81925,704642,436,413,"DUE PIATTI in porcellana decorati a fiori e ornati policromati, su fondo giallo. Cina, Famiglia Rosa. Sec. XVIII.",857,98.2,False,none,,,PIATTI,,Sec. XVIII
+BO0624_81925,704643,437,2,414.IDOLO in porcellana. Giappone. Sec. XIX.,858,97.6,False,none,,,,,Sec. XIX
 BO0624_81925,704644,438,415,TAPPETO PERSIANO Belucistan.,860,93.1,False,none,,,,,
 BO0624_81925,704645,439,416,CAFFETTIERA in metallo placcato. Inglese.Luigi Filippo.,864,96.4,False,none,,,,,
 BO0624_81925,704646,440,417,VACCA.Seultura da presepio in terracotta.,865,95.2,False,none,,,,,
@@ -499,7 +499,7 @@ BO0624_81925,704703,497,474,CANCELLO in ferro a un battente.,966,93.9,False,none
 BO0624_81925,704704,498,475,"CAMINO in pietra di Vicenza, verniciato a bardiglia. Impero.",968,96.6,False,none,,,,,
 BO0624_81925,704705,499,476,"TAVOLINA BOLOGNESE in noce, gambe tornite. Composta con materiale antico del Sec.XVI.",969,97.6,False,none,,,,,
 BO0624_81925,704706,500,477,CREDENZA in noce scolpito con due sportelli. Sec.XVI.,970,96.2,False,none,,,,,
-BO0624_81925,704707,501,478,"PIAZZETTA G.B.(1682-1754). 《S.Giuseppe con Bambino &gt;.Dipinto su tela,cornice dorata. (m. 0,81×0,60).",971,97.9,False,none,,,,,
+BO0624_81925,704707,501,478,"PIAZZETTA G.B.(1682-1754). 《S.Giuseppe con Bambino &gt;.Dipinto su tela,cornice dorata. (m. 0,81×0,60).",971,97.9,False,none,PIAZZETTA JEAN-BAPTISTE,,,,Sec. XVIII
 BO0624_81925,704708,502,479,PICCOLO STENDARDO in broccato glace oro e seta. Sec.XVII.,975,96.5,False,none,,,,,
 BO0624_81925,704709,503,480,"VAN LEY.《 Veneri e Satiri &gt;.Dipinto su tavola,cornice nera.",976,96.6,False,none,,,,,
 BO0624_81925,704710,504,481,MOBILINO in noce con due sportelli.,980,94.4,False,none,,,,,
@@ -520,12 +520,12 @@ BO0624_81925,704724,518,493,"TAPPETO PERSIANO Sparta Reale. (m. 3,60×2,65).",99
 BO0624_81925,704725,519,494,S. GIOVANNI BATTISTA. Seultura in legno. Sec.XVI.,1000,95.7,False,none,,,,,
 BO0624_81925,704726,520,495,"SCUOLA BERGAMASCA.《Ritratto di Uomo 》.Dipinto su tela,cornice intagliata e dorata. Datato1555. (m.0,72×0,62). (Vedi Tav.XxXI).",1001,98.3,False,none,,Scuola Bergamasca,,,
 BO0624_81925,704727,521,496,SCUOLA VENEZIANA (Sec. XVII).《Ritratto di Uomo e,1002,95.7,False,none,,Scuola Veneziana,,,
-BO0624_81925,704728,522,497,"SARACINO CARLO (Venezia, 1585-1625). 《 La Carita 》. Dipinto su tela, in cornice. (m.1,14×0,94).",1004,97.6,False,none,,,,,
+BO0624_81925,704728,522,497,"SARACINO CARLO (Venezia, 1585-1625). 《 La Carita 》. Dipinto su tela, in cornice. (m.1,14×0,94).",1004,97.6,False,none,,,,,Sec. XVII
 BO0624_81925,704729,523,498,INGINOCCHIATOIO in noce a colonnine. Luigi XIV.,1008,95.7,False,none,,Periodo di Luigi XIV,,,
 BO0624_81925,704730,524,499,DUE PICCOLI LEONI in pietra.,1009,93.1,False,none,,,,,
 BO0624_81925,704731,525,3,500.MADONNA e BAMBINO.Scultura in terracotta.,1010,97.8,False,none,,,,,
-BO0624_81925,704732,526,4,Arte Bolognese. Sec. XVIII.,1011,96.0,False,none,,,,,
-BO0624_81925,704733,527,5,"501.SEBASTIANO DEL PIOMBO,1485-1547(attribuito a).Ritratto di Donna &gt;.Dipinto su tela,cornice dorata. (m. 0,92×0,74).",1012,99.1,False,none,,,,,
+BO0624_81925,704732,526,4,Arte Bolognese. Sec. XVIII.,1011,96.0,False,none,,,,,Sec. XVIII
+BO0624_81925,704733,527,5,"501.SEBASTIANO DEL PIOMBO,1485-1547(attribuito a).Ritratto di Donna &gt;.Dipinto su tela,cornice dorata. (m. 0,92×0,74).",1012,99.1,False,none,,,,,Sec. XVI
 BO0624_81925,704734,528,502,CASSETTONE in radice di noce intarsiato.,1014,95.1,False,none,,,,,
 BO0624_81925,704735,529,503,"DUE CONSOLLES in legno intagliato e dorato, piani in agata orientale.",1018,97.1,False,none,,,,,
 BO0624_81925,704736,530,504,DUE SPECCHIERE in legno intagliato e dorato.,1022,95.6,False,none,,,,,
@@ -533,7 +533,7 @@ BO0624_81925,704737,531,505,TAPPETO PERSIANO Scira2 Mecca.,1024,93.5,False,none,
 BO0624_81925,704738,532,506,ZUCCHERIERA in argento. Gr. 400. Stile Impero.,1026,95.5,False,none,,,,,
 BO0624_81925,704739,533,507,DUE SPARGI ZUCCHERO in argento. Gr. 455. Stile Luigi XIV.,1027,96.4,False,none,,Periodo di Luigi XIV,,,
 BO0624_81925,704740,534,508,CREDENZINA in noce.,1028,90.0,False,none,,,,,
-BO0624_81925,704741,535,509,"CREDENZA in noce, scantonata. Sec. XVII.",1030,94.7,False,none,,,,,
+BO0624_81925,704741,535,509,"CREDENZA in noce, scantonata. Sec. XVII.",1030,94.7,False,none,,,,,Sec. XVII
 BO0624_81925,704742,536,510,"TAVOLO in noce, con gambe ad asso di coppe.",1031,95.3,False,none,,,COPPE,,
 BO0624_81925,704743,537,510,bis. TOILETTE in mogano. nglese. Luigi XVI.,1034,68.8,False,none,,,OGGETTI VARI,,
 BO0624_81925,704744,538,511,STIPO alla FRATINA in noce finemente intarsiato in osso e avorio.,1036,97.0,False,none,,,,,
@@ -549,22 +549,22 @@ BO0624_81925,704753,547,520,SCUOLA BOLOGNESE (Sec.XVI).《S.Francesco 》.Scul t
 BO0624_81925,704754,548,521,"SCUOLA ROMANA.Due dipinti su tela,cornici dorate. bis. SEI SPECCHIERINE in legno intagliato e dorato. Luigi XVI.",1057,70.2,False,none,,Scuola Romana,CORNICI,,
 BO0624_81925,704755,549,522,"POLTRONA in noce a salsiccia, ricoperta in velluto rosa Luigi XIII.",1058,97.0,False,none,,,POLTRONE,,
 BO0624_81925,704756,550,523,"POLTRONA in noce con fiamme dorate, ricoperte in vel-",1059,96.2,False,none,,,POLTRONE,,
-BO0624_81925,704757,551,2,luto rosso. Sec. XVI.,1060,94.7,False,none,,,,,
+BO0624_81925,704757,551,2,luto rosso. Sec. XVI.,1060,94.7,False,none,,,,,Sec. XVI
 BO0624_81925,704758,552,3,524.SAVONAROLA in noce. Toscana.Sec.XVI.,1061,97.4,False,none,,,,,
 BO0624_81925,704759,553,525,MOBILINO in noce con sportello e cassetto.,1062,95.3,False,none,,,,,
 BO0624_81925,704760,554,5,Sec.XVI.,1063,87.5,False,none,,,,,
 BO0624_81925,704761,555,6,526.TAVOLINO ovale con piano a ribalta e cassetto.gambe a,1064,98.3,False,none,,,ARREDAMENTI,,
-BO0624_81925,704762,556,527,TAVOLO a Madia in noce. Sec. XVI.,1069,93.8,False,none,,,,,
+BO0624_81925,704762,556,527,TAVOLO a Madia in noce. Sec. XVI.,1069,93.8,False,none,,,,,Sec. XVI
 BO0624_81925,704763,557,528,CANCELLO in ferro a due battenti.,1070,94.1,False,none,,,,,
 BO0624_81925,704764,558,529,PORTA VASO in argento.Gr.235.,1072,93.3,False,none,,,VASI,,
 BO0624_81925,704765,559,530,"AsTUCCIO in velluto verde, piedi e finali in bronzo. Sec.XVI.",1074,96.7,False,none,,,,,
 BO0624_81925,704766,560,531,ERCOLE che lotta con il LEONE.Scultura in terracotta. Riproduzione del Giambologna.,1075,97.6,False,none,,,,,
-BO0624_81925,704767,561,532,S.PIETRO.Busto in terracotta. Sec. XVI.,1076,94.7,False,none,,,,,
+BO0624_81925,704767,561,532,S.PIETRO.Busto in terracotta. Sec. XVI.,1076,94.7,False,none,,,,,Sec. XVI
 BO0624_81925,704768,562,533,SCUOLA BERGAMASCA (Sec.XVI).《L'Adorazione 》.Di-,1077,95.3,False,none,,Scuola Bergamasca,,,
-BO0624_81925,704769,563,531,"LAZZARINI GREGORIO.Venezia,1655-1740 (attribuitoa). 《Orfeo &gt;.Dipinto su tela. (m.1,20×0,90).",1079,97.7,False,none,,,,,
-BO0624_81925,704770,564,535,TAVOLO in noce con gambe a lira. Sec. XVII.,1080,95.2,False,none,,,,,
+BO0624_81925,704769,563,531,"LAZZARINI GREGORIO.Venezia,1655-1740 (attribuitoa). 《Orfeo &gt;.Dipinto su tela. (m.1,20×0,90).",1079,97.7,False,none,,,,,Sec. XVII
+BO0624_81925,704770,564,535,TAVOLO in noce con gambe a lira. Sec. XVII.,1080,95.2,False,none,,,,,Sec. XVII
 BO0624_81925,704771,565,536,TAVOLINO in noce.,1081,88.9,False,none,,,ARREDAMENTI,,
-BO0624_81925,704772,566,537,"GUID0 RENI. Bologna,1575-1642(attribuito a).《Testa di Cristo 》.Dipinto su tela.",1083,97.3,False,none,GUIDO RENI,Scuola Bolognese,,,
+BO0624_81925,704772,566,537,"GUID0 RENI. Bologna,1575-1642(attribuito a).《Testa di Cristo 》.Dipinto su tela.",1083,97.3,False,none,GUIDO RENI,Scuola Bolognese,,,Sec. XVII
 BO0624_81925,704773,567,538,"MARCOLA.Grottesco.Dipinto su tela,cornice dorata.",1084,96.0,False,none,,,,,
 BO0624_81925,704774,568,539,PLACCA in bronzo rappresentante la Maternita. Sec.XVII.,1085,96.4,False,none,,,,,
 BO0624_81925,704775,569,540,PICCOLO SECCHIETTO in rame sbalzato. Sec.XVI.,1086,95.6,False,none,,,,,
@@ -600,7 +600,7 @@ BO0624_81925,704804,598,569,VASCHETTA in argento S. Marco. Gr.205.,1133,94.6,Fal
 BO0624_81925,704805,599,570,ZUCCHERIERA in argento. Gr.330. Stile Impero.,1135,95.5,False,none,,,,,
 BO0624_81925,704806,600,571,PALIOTTO stoffa afiori.,1136,91.7,False,none,,,,,
 BO0624_81925,704807,601,572,"CREDENZINA in noce con pilastrini intagliati, sportello cassetto.",1137,96.9,False,none,,,,,
-BO0624_81925,704808,602,573,CREDENZA in noce scolpito. Sec. XVI.,1140,94.3,False,none,,,,,
+BO0624_81925,704808,602,573,CREDENZA in noce scolpito. Sec. XVI.,1140,94.3,False,none,,,,,Sec. XVI
 BO0624_81925,704809,603,2,"574.TAPPETO PERSIANO Kamadan. (m.2,00×1,28).",1141,97.6,False,none,,,,,
 BO0624_81925,704810,604,575,CREDENZA Bolognese con alzata in noce.,1142,94.9,False,none,,,,,
 BO0624_81925,704811,605,4,Sec.XVII.,1143,88.9,False,none,,,,,
@@ -609,13 +609,13 @@ BO0624_81925,704813,607,6,577.DUE ANGELI porta candele in legno finemente intagl
 BO0624_81925,704814,608,578,DUE APPLIQUES in ferro battuto e policromato.,1149,95.7,False,none,,,LAMPADE,,
 BO0624_81925,704815,609,579,"COFANETTO in legno e pastiglia, dorato e policromato, sul pannello anteriore e raffigurata 《La Deposizione》 sul coperchio due Angeli che sorreggono un calice. ArteItaliana.Sec.XV.",1151,98.9,False,none,,,OGGETTI IN LEGNO,,
 BO0624_81925,704816,610,580,MANIERA del TINTORETTO.Ritratto di Guerriero 》.,1152,95.7,False,none,TINTORETTO,,,,
-BO0624_81925,704817,611,581,LOCATELLI (Allievo di Zuccarelli).《Paesaggio 》.Dipinto,1154,96.1,False,none,,,,,
-BO0624_81925,704818,612,582,LORENZO VENEZIANO (1358).Polittico a fondo oro.,1156,95.7,False,none,,,,,
+BO0624_81925,704817,611,581,LOCATELLI (Allievo di Zuccarelli).《Paesaggio 》.Dipinto,1154,96.1,False,none,LOCATELLI ANDREA,,,,
+BO0624_81925,704818,612,582,LORENZO VENEZIANO (1358).Polittico a fondo oro.,1156,95.7,False,none,,,,,Sec. XIV
 BO0624_81925,704819,613,583,CASSONE OLANDESE in legno laccato. Luigi XIV.,1157,95.6,False,none,,Periodo di Luigi XIV,,,
 BO0624_81925,704820,614,584,"POLTRONA in noce con fiamme dorate,ricoperta in velluto rosso.",1158,96.8,False,none,,,POLTRONE,,
-BO0624_81925,704821,615,585,"MOBILINO in noce con sportello e piedi a zampe di leoni. Sec. XVI. bis. CASSETTONE sagomato in radice di noce intarsiato, con tre cassetti e due sportelli laterali. Luigi XIV.",1163,75.6,False,none,,Periodo di Luigi XIV,,,
+BO0624_81925,704821,615,585,"MOBILINO in noce con sportello e piedi a zampe di leoni. Sec. XVI. bis. CASSETTONE sagomato in radice di noce intarsiato, con tre cassetti e due sportelli laterali. Luigi XIV.",1163,75.6,False,none,,Periodo di Luigi XIV,,,Sec. XVI
 BO0624_81925,704822,616,586,MOBILE a Credenzina in noce con due sportelli e cinque cassetti.,1164,96.9,False,none,,,,,
-BO0624_81925,704823,617,587,MAGNASCO ALESSANDRO 1681-1747.《Paesaggi0》.Di-,1168,95.5,False,none,,,,,
+BO0624_81925,704823,617,587,MAGNASCO ALESSANDRO 1681-1747.《Paesaggi0》.Di-,1168,95.5,False,none,,,,,Sec. XVIII
 BO0624_81925,704824,618,588,"SCUOLA VENEZIANA (Sec. XVIII).《Paesaggi &gt;.Due dipinti su tela, cornici dorate. (Vedi Tav.XXXIX-XL).",1178,97.8,False,none,,Scuola Veneziana,CORNICI,,
 BO0624_81925,704825,619,589,LIBRERIA in mogano. nglese.Principio Sec.XIX.,1182,73.5,False,none,,,,,
 BO0624_81925,704826,620,590,FIGURA di DONNA in costume orientale. Scultura in terracotta.,1184,96.7,False,none,,,,,
@@ -628,14 +628,14 @@ BO0624_81925,704832,626,596,DUE CANDELABRI in argento. Gr.785. Stile Luigi XIV.,
 BO0624_81925,704833,627,597,"TAPPETO PERSIANO Afghan Bokara. (m.3,40×2,15). 597 bis. VERDURA con paesaggio e animali. (m.2,78×2,12).",1199,72.1,False,none,,,,,
 BO0624_81925,704834,628,598,TAPPETO PERSIANO Belucistam.,1203,93.1,False,none,,,,,
 BO0624_81925,704835,629,599,"POLTRONA a pozzetto in noce,ricoperta in damasco verde. bis.CREDENZA in noce scolpito.",1205,76.1,False,none,,,POLTRONE,,
-BO0624_81925,704836,630,600,SPECCHIERINA in legno dorato. Sec. XVIII.,1209,95.0,False,none,,,,,
+BO0624_81925,704836,630,600,SPECCHIERINA in legno dorato. Sec. XVIII.,1209,95.0,False,none,,,,,Sec. XVIII
 BO0624_81925,704837,631,601,"POLTRONA in noce,ricoperta in velluto rosso. Sec.XVI.",1210,96.2,False,none,,,POLTRONE,,
 BO0624_81925,704838,632,602,POLTRONA in noce ricoperta in cuoio. Sec.XVI.,1211,95.6,False,none,,,POLTRONE,,
 BO0624_81925,704839,633,603,"MOBILINO in noce scolpito, con sportelli e vari cassetti. Sec.XVII.",1212,97.0,False,none,,,,,
-BO0624_81925,704840,634,604,TAVOLINA in noce con gambe ad asso di coppe. Originale senza restauro. Bologna. Sec. XVI.,1213,97.7,False,none,,Scuola Bolognese,COPPE,,
+BO0624_81925,704840,634,604,TAVOLINA in noce con gambe ad asso di coppe. Originale senza restauro. Bologna. Sec. XVI.,1213,97.7,False,none,,Scuola Bolognese,COPPE,,Sec. XVI
 BO0624_81925,704841,635,605,"TAPPETO PERSIANO Kasak. (m.1,78×0,95).",1214,94.4,False,none,,,,,
 BO0624_81925,704842,636,606,MOBILINO in noce.,1215,88.9,False,none,,,,,
-BO0624_81925,704843,637,607,"DUE SGABELLI in noce tornito, ricoperti in cuoio impresso. Sec. XVII.",1219,89.6,False,none,,,,,
+BO0624_81925,704843,637,607,"DUE SGABELLI in noce tornito, ricoperti in cuoio impresso. Sec. XVII.",1219,89.6,False,none,,,,,Sec. XVII
 BO0624_81925,704844,638,608,DUE LIBRERIE in noce d'India. Sec.XVIII.,1221,95.0,False,none,,,,,
 BO0624_81925,704845,639,609,"TAVOLO in noce intagliato e intarsiato, gambe a tortiglione. Luigi XIV.",1222,97.1,False,none,,Periodo di Luigi XIV,,,
 BO0624_81925,704846,640,610,CASSETTONE grande e due piccoli in radice di noce. Stile Veneziano Luigi XIV.,1223,97.4,False,none,,Periodo di Luigi XIV,,,
@@ -655,7 +655,7 @@ BO0624_81925,704859,653,623,QUATTRO FIOCCHI e tappeto gros-point.,1246,94.7,Fals
 BO0624_81925,704860,654,2,624.STAMPA in cornice.,1247,95.5,False,none,,,,,
 BO0624_81925,704861,655,625,"ALARE in ferro,da camino. Sec.XVI.",1249,94.1,False,none,,,,,
 BO0624_81925,704862,656,626,DUE PIATTI in maiolica.,1251,91.7,False,none,,,PIATTI,,
-BO0624_81925,704863,657,627,PIATTINO in maiolica. (Restaurato). Cafaggiolo. Sec. XVI.,1255,96.2,False,none,,,,,
+BO0624_81925,704863,657,627,PIATTINO in maiolica. (Restaurato). Cafaggiolo. Sec. XVI.,1255,96.2,False,none,,,,,Sec. XVI
 BO0624_81925,704864,658,628,TRIPODE in ferro con braciere in rame.,1257,94.9,False,none,,,,,
 BO0624_81925,704865,659,629,"CANCELLATA in ferro,con cancelletto centrale. Alta m.2,05-Lunga m.5,80.",1259,97.2,False,none,,,,,
 BO0624_81925,704866,660,630,"PICCOLO CASSETTONE in legno intarsiato alla Maggiolino, piano in marmo. Luigi XVI.",1261,97.5,False,none,,,,,

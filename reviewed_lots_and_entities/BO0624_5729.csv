@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_5729,658542,1,I,"TALIAN BRONZE,TERRA-COTTA AND SCULPTURED MARBLE STATUETTES,BUSTS AND BAS-RELIEFS OF THE XIII TO XV CENTURY",11,99.5,False,title_direct,,,BAS-RELIEFS,,
+BO0624_5729,658542,1,I,"TALIAN BRONZE,TERRA-COTTA AND SCULPTURED MARBLE STATUETTES,BUSTS AND BAS-RELIEFS OF THE XIII TO XV CENTURY",11,99.5,False,title_direct,,,BAS-RELIEFS,,Sec. XV
 BO0624_5729,658543,2,1,BRONZE STATUETTE OF VENUS,17,98.0,False,title_direct,,,BRONZE STATUETTE,,
 BO0624_5729,658544,3,2,BRONZE CUP,26,90.9,False,positional,,VENETIAN SCHOOL,,,
 BO0624_5729,658545,4,3,"PERSEUS AND THE DRAGON N a loin-cloth and holding his great sword upright, its point in the dragon's body, Perseus sits on a rock resting his head on his right hand and his elbow on his knee. He looks downward at the dragon, which is coiled around the bottom of the rock. The sword is broken at the point where it touches the inside of his left leg.",43,96.4,False,positional,BARTOLOMMEO BELLANO,,,,
@@ -25,8 +25,8 @@ BO0624_5729,658564,23,20,"THE MIRACLE N an apartment of interesting architectura
 BO0624_5729,658565,24,21,MADONNA AND CHILD,310,91.9,False,positional,JACOPO BELLINI,,,,
 BO0624_5729,658566,25,22,PORTRAIT SKETCH OF,324,92.3,False,title_direct,,,PORTRAIT BUST,,
 BO0624_5729,658567,26,23,THE ANNUNCIATION,337,100.0,False,positional,JOHN HOPPNER,,,,
-BO0624_5729,658568,27,1431,1506,362,61.5,False,positional,ANDREA MANTEGNA; LUCA FANCELLI,,,,
-BO0624_5729,658569,28,1430,1495,366,61.5,False,positional,ANDREA MANTEGNA; LUCA FANCELLI,,,,
+BO0624_5729,658568,27,1431,1506,362,61.5,False,positional,ANDREA MANTEGNA; LUCA FANCELLI,,,,Sec. XVI
+BO0624_5729,658569,28,1430,1495,366,61.5,False,positional,ANDREA MANTEGNA; LUCA FANCELLI,,,,Sec. XV
 BO0624_5729,658570,29,24,SCENE FROM ANCIENT HISTORY,368,94.5,False,positional,ANDREA MANTEGNA; LUCA FANCELLI,,,,
 BO0624_5729,658571,30,25,"THE ANNUNCIATION N a typical Florentine room of the fifteenth century the Virgin in crimson and green robes kneels on a low platform, on the base of which appears the salutation, ""Ave Maria Gratia Dominus Tecum."" The Angel of the Annunciation kneels opposite her in a red and yellow costume with high-heeled black shoes and greenish wings.A reading desk with an open book is at the Virgin's right and behind her crimson curtains and a bed. In technique and color the figures strongly resemble the two angels by this master formerly in the Stroganoff Collection in Rome.",387,98.6,False,positional,FILIPPINO LIPPI,Scuola Fiorentina,,,
 BO0624_5729,658572,31,26,THE CRUCIFIXION,396,90.9,False,positional,DEI CROCIFISSI,,,,
@@ -119,7 +119,7 @@ BO0624_5729,658658,117,112,"LEDA AND THE SWAN N this rectangular canvas appears 
 BO0624_5729,658659,118,113,PORTRAIT OF A MAN,1934,89.5,False,positional,ANDREA MANTEGNA,,,,
 BO0624_5729,658660,119,114,MADONNA ENTHRONED,1952,89.5,False,positional,MELOZZO DA FORLI,,,,
 BO0624_5729,658661,120,115,MADONNAANDCHILD,1968,88.2,False,positional,GIOVANNI BELLINI,,,,
-BO0624_5729,658662,121,116,"SELF-PORTRAIT OF THE ARTIST n the Life of Titian by Crowe and Cavalcaselle (Lemmonier edition, Florence, 1877, Vol. 1, page 487) it is said of this canvas : ""In the seventeenth century this portrait was in the Renier collection and represented Titian drawing, with one hand holding a portfolio and with the other a pencil. In the backcisely with the engraving by Jacopo Bello to which Aretino wrote a sonnet."" (See: Venezia descritta by Jacopo Sansovino, page 377; Campori catalogues, pages 442-443; Letters of Pietro Aretino, Vol. V, page 288).",2004,97.3,False,positional,TITIAN,,,,
+BO0624_5729,658662,121,116,"SELF-PORTRAIT OF THE ARTIST n the Life of Titian by Crowe and Cavalcaselle (Lemmonier edition, Florence, 1877, Vol. 1, page 487) it is said of this canvas : ""In the seventeenth century this portrait was in the Renier collection and represented Titian drawing, with one hand holding a portfolio and with the other a pencil. In the backcisely with the engraving by Jacopo Bello to which Aretino wrote a sonnet."" (See: Venezia descritta by Jacopo Sansovino, page 377; Campori catalogues, pages 442-443; Letters of Pietro Aretino, Vol. V, page 288).",2004,97.3,False,positional,TITIAN,,,,Sec. XIX
 BO0624_5729,658663,122,117,PORTRAIT OF PADRE MARTINUS,2024,92.9,False,positional,VELAZQUEZ,,,,
 BO0624_5729,658664,123,118,MADONNA AND CHILD,2041,100.0,False,positional,VELAZQUEZ,,,,
 BO0624_5729,658665,124,119,MADONNAAND CHILD WITH TWO SAINTS AND ANGELS,2066,95.6,False,positional,PIETRO DEGLI INGANNATI,,,,

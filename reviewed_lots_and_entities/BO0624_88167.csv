@@ -1,28 +1,28 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88167,320570,1,18,"Jahrhundert.H.0,53 m,B.0,94 m,T.0,60 m,",11,96.2,False,positional,,,HOLZTRUHE,,
 BO0624_88167,320571,2,I,"talienisch, 16.Jahrhundert. H.31,2 cm, B.16,5 cm.",68,98.9,False,positional,,,BRONZERELIEF,,
-BO0624_88167,320572,3,I,"m unteren Teile halb sitzender Putto mit Grotesken, fischahnlichen Tieren. Dariber in hockender Stellung mannliche Karyatidenfigur mit Wams, Spitzenkragen und kurzen Beinkleidern.Oben Jahreszahl:1607.",95,99.7,False,positional,,,STUTZPFEILER,,
+BO0624_88167,320572,3,I,"m unteren Teile halb sitzender Putto mit Grotesken, fischahnlichen Tieren. Dariber in hockender Stellung mannliche Karyatidenfigur mit Wams, Spitzenkragen und kurzen Beinkleidern.Oben Jahreszahl:1607.",95,99.7,False,positional,,,STUTZPFEILER,,Sec. XVII
 BO0624_88167,320573,4,I,"talienisch.H.1,20 m, B.0,60 m.",143,98.2,False,positional,,,STUCKRELIEF,,
 BO0624_88167,320574,5,18,"Jahrhundert. H.21 cm, B. 50 cm,",148,94.7,False,positional,,,BRONZERELIEF,,
 BO0624_88167,320575,6,18,"Jahrhundert.H. 23,5 cm.",160,93.3,False,positional,,,BRONZESTATUETTE,,
-BO0624_88167,320576,7,18,Jahrhundert.H. 19 cm.,166,92.7,False,positional,,,BRONZESTATUETTE,,
+BO0624_88167,320576,7,18,Jahrhundert.H. 19 cm.,166,92.7,False,positional,,,BRONZESTATUETTE,,Sec. XIX
 BO0624_88167,320577,8,I,"talienisch.H. 52,5 cm, B.aufgeklappt 32 cm.",188,98.8,False,positional,,,HOLZALTAR,,
-BO0624_88167,320578,9,18,Jahrhundert.H. 18 cm.,194,92.7,False,positional,,,STATUETTE,,
+BO0624_88167,320578,9,18,Jahrhundert.H. 18 cm.,194,92.7,False,positional,,,STATUETTE,,Sec. XVIII
 BO0624_88167,320579,10,I,"n einer Nische kniender Amor mit Kocher, Pfeil und Bogen. Bez.:E. Renard""",211,99.3,False,positional,,,MARMORRELIEF,,
 BO0624_88167,320580,11,I,n schwarzem Holzrahmen.,213,97.8,False,positional,,,MARMORRELIEF,,
-BO0624_88167,320581,12,18,"Jahrhundert,H. 14 cm,B.9 cm,",223,94.5,False,positional,,,KUPFERDRUCKPLATTE,,
+BO0624_88167,320581,12,18,"Jahrhundert,H. 14 cm,B.9 cm,",223,94.5,False,positional,,,KUPFERDRUCKPLATTE,,Sec. XV
 BO0624_88167,320582,13,17,"Jahrhundert. Dm.6,8 cm.",249,93.3,False,positional,,,MINIATUR,,
 BO0624_88167,320583,14,18,"Jahrhundert. H.1.5 cm,B.11 cm,T.7,5 cm,",255,96.1,False,positional,,,ELFENBEINDOSE,,
 BO0624_88167,320584,15,40,HAARARBEIT AUF ELFENBEIN,258,94.1,False,positional,,,ELFENBEINDOSE,,
 BO0624_88167,320585,16,41,SILHOUETTE,262,87.0,False,positional,,,ELFENBEINDOSE,,
 BO0624_88167,320586,17,42,"RELIQUIARIENTAFEL n geschn.Holzrahmen. H. 19,5 cm,B. 16 cm.",270,81.7,False,positional,,,ELFENBEINDOSE,,
 BO0624_88167,320587,18,43,"ZWEIRELIQUIARIENTAFELN n geschn.Holzrahmen. H.52 cm, B. 43 cm,",276,76.6,False,positional,,,ELFENBEINDOSE,,
-BO0624_88167,320588,19,44,"DREI WACHSMEDAILLEN talienisch, 18. Jahrhundert. H. 5,1 cm, B.4 cm.",282,81.6,False,title_direct,,,MEDAILLE,,
+BO0624_88167,320588,19,44,"DREI WACHSMEDAILLEN talienisch, 18. Jahrhundert. H. 5,1 cm, B.4 cm.",282,81.6,False,title_direct,,,MEDAILLE,,Sec. XVIII
 BO0624_88167,320589,20,45,RUNDES WACHSRELIEF,284,92.3,False,positional,,,ELFENBEINDOSE,,
 BO0624_88167,320590,21,18,Jahrhundert. Dm.23 cm.,288,93.0,False,positional,,,ELFENBEINDOSE,,
 BO0624_88167,320591,22,45,BLEIRELIEF,290,87.0,False,positional,,,ELFENBEINDOSE,,
 BO0624_88167,320592,23,46,BLEIPLAKETTE,296,88.9,False,title_direct,,,OGGETTI IN PIOMBO,,
-BO0624_88167,320593,24,I,"nschrift:Friedr.Uhligh.1743,d,11. Juny sculp.",306,98.9,False,positional,,,BLEIPLATTE,,
+BO0624_88167,320593,24,I,"nschrift:Friedr.Uhligh.1743,d,11. Juny sculp.",306,98.9,False,positional,,,BLEIPLATTE,,Sec. XVIII
 BO0624_88167,320594,25,48,Geatzte Bleiplatte,312,92.3,False,positional,,,BLEIPLATTE,,
 BO0624_88167,320595,26,17,"Jahrhundert. H.59 cm,B. 46 cm.",318,94.7,False,positional,,,BLEIPLATTE,,
 BO0624_88167,320596,27,58,"RUNDE DOSE talienisch, 17.Jahrhundert. Dm. 6,8 cm.",374,85.4,False,positional,,,SCATOLE,,
@@ -44,9 +44,9 @@ BO0624_88167,320611,42,71,EISERNES KUNSTSCHLOSS mit Schlussel.,442,95.9,False,po
 BO0624_88167,320612,43,17,Jahrhundert.,448,88.0,False,positional,,Scuola Fiorentina,VORHANGESCHLOSS,,
 BO0624_88167,320613,44,18,Jahrhundert. Marke wie nebenstehend.,468,95.8,False,positional,,,VASEN,,
 BO0624_88167,320614,45,18,Jahrhundert. H. 43 cm.,474,92.7,False,positional,,,FLEUTE,,
-BO0624_88167,320615,46,79,"WINTERTHUR-SCHUSSEL Tondino mit breitem Rand. In der Tiefung Doppelwappen mit Krone und Helm deckel. Dariber auf blauem Bande Inschrift:W.RGUS.FGVSGGV."" Farben: Gelb, Braun, Dunkelblau und Hellblau. Weiber krakelierter Grund Abbildung Tafel 6 Winterthur, 17. Jahrhundert. Dm.39,6 cm.Ohne Marke.",485,99.5,False,title_direct,,,SCHUSSEL,,
+BO0624_88167,320615,46,79,"WINTERTHUR-SCHUSSEL Tondino mit breitem Rand. In der Tiefung Doppelwappen mit Krone und Helm deckel. Dariber auf blauem Bande Inschrift:W.RGUS.FGVSGGV."" Farben: Gelb, Braun, Dunkelblau und Hellblau. Weiber krakelierter Grund Abbildung Tafel 6 Winterthur, 17. Jahrhundert. Dm.39,6 cm.Ohne Marke.",485,99.5,False,title_direct,,,SCHUSSEL,,Sec. XVII
 BO0624_88167,320616,47,80,OFENKACHFL,486,87.0,False,positional,,,WASCHSCHUSSEL,,
-BO0624_88167,320617,48,81,"SIEBEN OFENKACHELFAGMENTE sticke mit Blaumalerei auf weibem Grund. Sachsen, 17. Jahrhundert.",496,98.3,False,positional,,,WASCHSCHUSSEL,,
+BO0624_88167,320617,48,81,"SIEBEN OFENKACHELFAGMENTE sticke mit Blaumalerei auf weibem Grund. Sachsen, 17. Jahrhundert.",496,98.3,False,positional,,,WASCHSCHUSSEL,,Sec. XVII
 BO0624_88167,320618,49,82,BIRNKRUG,498,84.2,False,positional,,,WASCHSCHUSSEL,,
 BO0624_88167,320619,50,83,83.RIESENSCHUSSEL,504,100.0,False,title_direct,,,SCHUSSEL,,
 BO0624_88167,320620,51,84,## 84.RUNDE GMUNDENER SCHUSSEL,510,100.0,False,title_direct,,,SCHUSSEL,,
@@ -73,8 +73,8 @@ BO0624_88167,320640,71,138,"RUNDE ZINNSCHUSSEL mit hochstehendem Rande und eckig
 BO0624_88167,320641,72,2,"139.KLEINE SUPPENTERRINE aus Zinn mit Deckel. H.10 cm,Dm.14 cm.",844,98.4,False,positional,,,ZINNTELLER,,
 BO0624_88167,320642,73,3,140.DREI AUFSCHNITTGABELN,845,96.2,False,positional,,,ZINNTELLER,,
 BO0624_88167,320643,74,4,"aus Silber, dreispitzig. Griff aus Elfenbein. L.21 cm.",846,98.0,False,positional,,,ZINNTELLER,,
-BO0624_88167,320644,75,5,"141.NARDENBUCHSLEIN aus Silber. Rund,mit abschraubbarem Deckel Dieser im Mittelfelde durchlocht, mit drehbarer Deckplatte.Graviertes Zickzackdekor. In Baden:I. C. Anf.d.19.Jahrhunderts.Dm.3,5 cm.",847,99.5,False,positional,,,ZINNTELLER,,
-BO0624_88167,320645,76,6,"142.ZWEIGOLDENELOFFEL Der obere Teil des Schaftes mit Masken- und Blattdekor, der untere Teil (Griff) aus Knochenschnitzerei: a) drei Putten, b) weibliche und mannliche Figur mit Sichel und Ahrengarbe. Londoner Beschaumarke. Englisch, 18. Jahrhundert,L.19 cm,",848,99.6,False,positional,,,ZINNTELLER,,
+BO0624_88167,320644,75,5,"141.NARDENBUCHSLEIN aus Silber. Rund,mit abschraubbarem Deckel Dieser im Mittelfelde durchlocht, mit drehbarer Deckplatte.Graviertes Zickzackdekor. In Baden:I. C. Anf.d.19.Jahrhunderts.Dm.3,5 cm.",847,99.5,False,positional,,,ZINNTELLER,,Sec. XIX
+BO0624_88167,320645,76,6,"142.ZWEIGOLDENELOFFEL Der obere Teil des Schaftes mit Masken- und Blattdekor, der untere Teil (Griff) aus Knochenschnitzerei: a) drei Putten, b) weibliche und mannliche Figur mit Sichel und Ahrengarbe. Londoner Beschaumarke. Englisch, 18. Jahrhundert,L.19 cm,",848,99.6,False,positional,,,ZINNTELLER,,Sec. XVIII
 BO0624_88167,320646,77,7,"143.RUNDE SILBERNE SCHUSSEL Im Mittelfelde Darstellung des gekreuzigten Christus mit Maria und Johannes zur Seite. Daruber Halbfiguren von Engeln.Langs des Kreuzes, sowie in der Umrandung des Mittelfeldes Inschrift in cyrillischen Buchstaben, Die Randkehle mit acht Bogen, In diesen, sowie auf dem Rande je acht Medaillons mit Busten von Heiligen Zwtschen den Medaillons reliefiertes Rankenornament,Getriebene Arbeit. Beschau-",849,99.8,False,title_direct,,,SCHUSSEL,,
 BO0624_88167,320647,78,144,KUPFERRECHAUD,855,86.7,False,title_direct,,,KUPFER,,
 BO0624_88167,320648,79,145,EIN SILBERNER BROTKORB 642 gr.,876,93.5,False,positional,,,ZINNTELLER,,
@@ -90,7 +90,7 @@ BO0624_88167,320657,88,154,JARDINIERE,887,83.3,False,positional,,,ZINNTELLER,,
 BO0624_88167,320658,89,155,DESGLEICHEN gr.,889,75.9,False,positional,,,ZINNTELLER,,
 BO0624_88167,320659,90,156,DOSE,891,66.7,False,title_direct,,,SCATOLE,,
 BO0624_88167,320660,91,157,"BECHER Silber, 174 gr.",893,90.9,False,positional,,,ZINNTELLER,,
-BO0624_88167,320661,92,158,"SCHMUCKKASSETE Silber,1327 gr.",894,93.5,False,positional,,,ZINNTELLER,,
+BO0624_88167,320661,92,158,"SCHMUCKKASSETE Silber,1327 gr.",894,93.5,False,positional,,,ZINNTELLER,,Sec. XIV
 BO0624_88167,320662,93,159,"BROTKORB klein, Silber, 315 gr.",895,93.3,False,positional,,,ZINNTELLER,,
 BO0624_88167,320663,94,160,"GROSSER TEEKESSEL mit Wappen, Silber matt, 2375 gr.",896,96.0,False,positional,,,ZINNTELLER,,
 BO0624_88167,320664,95,161,"BROTKORB klein, Silber, 330 gr.",897,93.3,False,positional,,,ZINNTELLER,,
@@ -99,7 +99,7 @@ BO0624_88167,320666,97,163,"TEEDOSE GroB, Silber, 480 gr.",899,92.9,False,positi
 BO0624_88167,320667,98,164,TEEDOSE,900,77.8,False,positional,,,ZINNTELLER,,
 BO0624_88167,320668,99,165,"FRUCHTPLATTE Silber, vergoldet, 360 gr.",904,94.7,False,positional,,,ZINNTELLER,,
 BO0624_88167,320669,100,166,"FRUCHTPLATTE Silber, vergoldet, 383 gr.",908,94.7,False,positional,,,ZINNTELLER,,
-BO0624_88167,320670,101,167,"JARDINIERE mit Adlerkopfen, weiBes Glas, Silber, 1036 gr.",909,96.4,False,title_direct,,,Glas,,
+BO0624_88167,320670,101,167,"JARDINIERE mit Adlerkopfen, weiBes Glas, Silber, 1036 gr.",909,96.4,False,title_direct,,,Glas,,Sec. XI
 BO0624_88167,320671,102,168,"BROTKORB Silber, 556 gr.",910,91.7,False,positional,,,ZINNTELLER,,
 BO0624_88167,320672,103,169,"TEESIEB Silber, 65 gr.",911,90.9,False,positional,,,ZINNTELLER,,
 BO0624_88167,320673,104,170,DESGLEICHEN gr.,912,75.9,False,positional,,,ZINNTELLER,,
@@ -126,7 +126,7 @@ BO0624_88167,320693,124,190,DESGLEICHEN 496 gr.,948,90.0,False,positional,,,ZINN
 BO0624_88167,320694,125,191,TEEDOSE,949,77.8,False,positional,,,ZINNTELLER,,
 BO0624_88167,320695,126,192,TEESIEB,953,77.8,False,positional,,,ZINNTELLER,,
 BO0624_88167,320696,127,193,DESGLEICHEN gr.,955,75.9,False,positional,,,ZINNTELLER,,
-BO0624_88167,320697,128,194,"HENKELKORB GroB,mit blauem Clas, Silber, 1340 gr.",957,95.8,False,positional,,,ZINNTELLER,,
+BO0624_88167,320697,128,194,"HENKELKORB GroB,mit blauem Clas, Silber, 1340 gr.",957,95.8,False,positional,,,ZINNTELLER,,Sec. XIV
 BO0624_88167,320698,129,195,BROTKORB,958,80.0,False,positional,,,ZINNTELLER,,
 BO0624_88167,320699,130,196,DESGLEICHEN 550 gr.,960,90.0,False,positional,,,ZINNTELLER,,
 BO0624_88167,320700,131,197,"DESGLEICHEN Viereckig, 305 gr.",961,93.3,False,positional,,,ZINNTELLER,,
@@ -177,7 +177,7 @@ BO0624_88167,320744,175,241,"DREI ZINNTELLER flache Form mit aulgebogenem Rand, 
 BO0624_88167,320745,176,242,ZINNKANNE H.20cm.,1073,88.9,False,title_direct,,,ZINNKANNE,,
 BO0624_88167,320746,177,2,"243.DESGLEICHEN ebenso, kleiner. H. 17 cm.",1074,97.4,False,positional,,,ZINNTELLER,,
 BO0624_88167,320747,178,245,ZINNKRUG,1080,80.0,False,positional,,,ZINNSERVICE,,
-BO0624_88167,320748,179,246,"ALTE ZINNSCHUSSEL Innungsschuissel der Fleischhauer. Der schmale Rand mit gravierter Inschrift: ""Dem Loebl. Fleischhauer. Mittel. Die Herrnn Aeltesten Johann Gottlieb Wilde. Joseph Koffert. Verehret Christian Brandt. 1802"". Im Fond zwischen Ranken und Blumen Fleischhauerembleme. Zinnmarke: Figur mit Askulapstab und drei",1083,99.4,False,title_direct,,,SCHUSSEL,,
+BO0624_88167,320748,179,246,"ALTE ZINNSCHUSSEL Innungsschuissel der Fleischhauer. Der schmale Rand mit gravierter Inschrift: ""Dem Loebl. Fleischhauer. Mittel. Die Herrnn Aeltesten Johann Gottlieb Wilde. Joseph Koffert. Verehret Christian Brandt. 1802"". Im Fond zwischen Ranken und Blumen Fleischhauerembleme. Zinnmarke: Figur mit Askulapstab und drei",1083,99.4,False,title_direct,,,SCHUSSEL,,Sec. XIX
 BO0624_88167,320749,180,247,"ZINNKANNE unten ausgeschweift mit spitzem AusguB, gebogenem Henkel und Deckel mit",1087,97.6,False,title_direct,,,ZINNKANNE,,
 BO0624_88167,320750,181,248,ZINNWALZENKRUG,1091,87.5,False,positional,,,ZINNSERVICE,,
 BO0624_88167,320751,182,249,"ZWEI ZINNLEUCHTFR einfache, schlanke Form. H. 17 cm.",1093,96.0,False,title_direct,,,LEUCHTER,,
@@ -203,17 +203,17 @@ BO0624_88167,320770,201,265,DESGLEICHEN,1134,100.0,False,positional,,,ZINNSERVIC
 BO0624_88167,320771,202,266,ZWEI ZINNLEUCHTER,1144,89.5,False,title_direct,,,LEUCHTER,,
 BO0624_88167,320772,203,267,ZWEI DREIFUSSIGE ZINNLEUCHTER H.30cm.,1146,94.7,False,title_direct,,,LEUCHTER,,
 BO0624_88167,320773,204,268,TIEFER ZINNTELLER Dm.,1147,82.9,False,title_direct,,,TELLER,,
-BO0624_88167,320774,205,269,TIEFER ZINNTELLER 1870 Dm.35cm. 278.,1149,88.2,False,title_direct,,,TELLER,,
+BO0624_88167,320774,205,269,TIEFER ZINNTELLER 1870 Dm.35cm. 278.,1149,88.2,False,title_direct,,,TELLER,,Sec. XIX
 BO0624_88167,320775,206,270,"Bildnis eines Ungarn in goldverziertem Rosse, mit Turban auf dem Kopfe. Lw.75:60 cm Goldrahmen.",1158,97.9,False,positional,,,Gemalde; Miniaturen,,
 BO0624_88167,320776,207,271,Anbetung der Madonna; deren Gewand zwei Engel iber den anbetenden Kleriker halten. Holz 75:60 cm o.R.,1162,98.0,False,positional,,SPANISCHER MEISTER,OGGETTI IN LEGNO,,
 BO0624_88167,320777,208,272,Bildnis eines alten Mannes in rotem Rocke mit Barett. Lw. 60:47 cm. Schwarzer Rahmen.,1166,97.6,False,positional,VACLAR BROZIK,,CORNICI,,
 BO0624_88167,320778,209,273,"Landschaft hinter ein Bach und Tal, rechts Berge und Baume, vorn gehende Lw.50:70cm.Goldrahmen",1170,97.9,False,positional,MEINDERT HOBBEMA,,,,
-BO0624_88167,320779,210,1658,1709 Amsterdam.,1172,84.8,False,positional,MEINDERT HOBBEMA,,,,
-BO0624_88167,320780,211,276,",Die Zecher. Bauern in einer Hutte zechend und rauchend. Sig. C. G. Narden 1669. Holz 30:26 cm. Schwarzer Rahmen. ## HANS VON BARTELS",1188,90.8,False,title_direct,HANS VON BARTELS,,CORNICI,,
+BO0624_88167,320779,210,1658,1709 Amsterdam.,1172,84.8,False,positional,MEINDERT HOBBEMA,,,,Sec. XVIII
+BO0624_88167,320780,211,276,",Die Zecher. Bauern in einer Hutte zechend und rauchend. Sig. C. G. Narden 1669. Holz 30:26 cm. Schwarzer Rahmen. ## HANS VON BARTELS",1188,90.8,False,title_direct,HANS VON BARTELS,,CORNICI,,Sec. XVII
 BO0624_88167,320781,212,277,"Kuste im Sturm. Holz 12:23 cm,",1194,93.3,False,positional,HANS VON BARTELS,,OGGETTI IN LEGNO,,
-BO0624_88167,320782,213,1856,1913.,1196,61.5,False,positional,HANS VON BARTELS,,,,
+BO0624_88167,320782,213,1856,1913.,1196,61.5,False,positional,HANS VON BARTELS,,,,Sec. XX
 BO0624_88167,320783,214,279,Bayrische Landschaft in der Ferne die Turme von Munchen. Pappe signiert. Schwarzer Rahmen. 15:22 cm. ## NIEDERLAENDER,1205,91.4,False,title_direct,,NIEDERLAENDER,CORNICI,,
-BO0624_88167,320784,215,280,"Landschaft mit Teich und fischenden Knaben, Holz. 20:27 cm, Goldrahmen, 1908",1214,93.7,False,positional,,NIEDERLAENDER,OGGETTI IN LEGNO,,
+BO0624_88167,320784,215,280,"Landschaft mit Teich und fischenden Knaben, Holz. 20:27 cm, Goldrahmen, 1908",1214,93.7,False,positional,,NIEDERLAENDER,OGGETTI IN LEGNO,,Sec. XX
 BO0624_88167,320785,216,281,Bayrische Landschaft. Holz signiert. 23:42 cm. Schwarzer Rahmen.,1220,96.8,False,positional,LUDWIG GEBHARDT,,CORNICI,,
 BO0624_88167,320786,217,282,Die Zecher. Holz. Schwarzer Rahmen. 13:10 cm.,1224,95.3,False,positional,LUDWIG GEBHARDT,,CORNICI,,
 BO0624_88167,320787,218,285,"Dreizehn Stahlstiche mit Potsdamer Ansichten von G. Hess nach F.G. Borschel in Biedermeierrahmchen,",1235,98.0,False,positional,LUDWIG GEBHARDT,,OGGETTI IN METALLO,,
@@ -226,7 +226,7 @@ BO0624_88167,320793,224,2,291.Konigin Auguste Wilhelmine Auguste von Preussen. L
 BO0624_88167,320794,225,3,50:35 cm.Schwarzer Rahmen.,1251,96.2,False,positional,,DEUTSCHE SCHULE,CORNICI,,
 BO0624_88167,320795,226,292,J. P. Simon nach Thos.Kirk. Shakespeare Measure for Measure. V Alt I Scene. Schabheimsblatt 50:60 cm. Schwarzer Rahmen.,1255,98.2,False,positional,,DEUTSCHE SCHULE,CORNICI,,
 BO0624_88167,320796,227,293,Rober Thews nach Will. Peters.S I Sam Schabheimstblatt. 50:60 cm. Schwarzer Rahmen.,1257,97.5,False,positional,,DEUTSCHE SCHULE,CORNICI,,
-BO0624_88167,320797,228,294,"Declaration of Independence. 1776. Gestochen. 90:60 cm. Goldrahmen,",1258,96.9,False,positional,,DEUTSCHE SCHULE,,,
+BO0624_88167,320797,228,294,"Declaration of Independence. 1776. Gestochen. 90:60 cm. Goldrahmen,",1258,96.9,False,positional,,DEUTSCHE SCHULE,,,Sec. XVIII
 BO0624_88167,320798,229,295,"Vier Portraitstiche unter Glas, Prinzessin Hohenzollern-Hechingen. Maria Stuart und andere. Schwarzer Rahmen.",1259,98.1,False,title_direct,,,CORNICI,,
 BO0624_88167,320799,230,296,"Zwei Stiche und Lithos in Rahmen. G.Audran,Aeneas, Der erste Kosacke Tettenhorns. Goldrahmen.",1260,97.8,False,title_direct,,,Stiche,,
 BO0624_88167,320800,231,297,Vier farbige Stiche aus der Preussischen Geschichte und Marmar-,1261,96.9,False,title_direct,,,Stiche,,
@@ -236,22 +236,22 @@ BO0624_88167,320803,234,300,J. Bonhaken nach Quinkhardt. Michael de Ruitez. Stic
 BO0624_88167,320804,235,301,Zwei farbige Lithographien. Die Geschichte der Ruth IIl. Kirschholz-,1267,97.0,False,title_direct,,,Lithographien,,
 BO0624_88167,320805,236,302,Aquarell. Maultiertr-iber auf einer Anhohe. 17:16 cm. Goldrahmen,1269,96.8,False,positional,,DEUTSCHE SCHULE,,,
 BO0624_88167,320806,237,303,Farbiger Siich. Eisenhuttenwerk Groditz. 15:21 cm.,1270,95.9,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_88167,320807,238,304,Aquarell eines kleinen Madchens in weissblauem Kleide. Um 1840. Oel. 26:20 cm.Goldrahmen,1272,97.7,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_88167,320808,239,305,Sepiazeichnung einer liegenden Frau.Um 1800. 26:35 cm. Goldrahmen.,1273,96.9,False,positional,,DEUTSCHE SCHULE,STAMPE E INCISIONI,,
+BO0624_88167,320807,238,304,Aquarell eines kleinen Madchens in weissblauem Kleide. Um 1840. Oel. 26:20 cm.Goldrahmen,1272,97.7,False,positional,,DEUTSCHE SCHULE,,,Sec. XIX
+BO0624_88167,320808,239,305,Sepiazeichnung einer liegenden Frau.Um 1800. 26:35 cm. Goldrahmen.,1273,96.9,False,positional,,DEUTSCHE SCHULE,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88167,320809,240,306,"Frauenbildnis. Die Dame mit dem schlicht gescheitelten schwarzen Haar tragt ein blaues Kleid mit weisser Spitzenkrause. Die Gestalt heht sich vou einer graugelben Wand ab. Miniatur auf Elfenbein. H. 10,5 cm; B. 8,2 cm. Bronzerahmen,",1277,99.1,False,positional,MORITZ MICHAEL DAFFIN GER,,MINIATURE,,
 BO0624_88167,320810,241,307,"Frauenbildnis. Leicht veranderte Kopie des vorigen. H.10,5 cm; B.8,5 cm,",1283,97.1,False,positional,MORITZ MICHAEL DAFFINGER,,,,
 BO0624_88167,320811,242,308,"Bildnis eines jungen Madchens. Die junge Dame in ausgeschnittenem Hintergrund.Miniatur auf Elfenbein. Dm.7,7 cm. Vergoldete Bronzefassung",1289,98.5,False,positional,,DEUTSCHER MEISTER,MINIATURE,,
 BO0624_88167,320812,243,309,Marie Antoinette. Bekronung.,1297,92.9,False,positional,,FRANZOSISCHER MEISTER,,,
 BO0624_88167,320813,244,310,Bacchantentszene. Auf einem Rasenplatz vor einer Faunsherme tanzen zwei,1301,97.2,False,positional,,FRANZOSISCHER MEISTER,,,
 BO0624_88167,320814,245,311,"Damenbildnis. Die Dame, die sich in den Polstern aufgerichtet hat, ordnet mit der rechten das Nachtgewand, das, ihre Brust entbloBend, herabgesunken ist. Das Oval des Kopfes umrahmt das Haubchen, uber das eine Nachtmitze gezogen ist. Beide umschlingen rosa Bandchen. Rechts und links fallen grune Vorhange herab. Miniatur auf Pergament. Oval. H. 8,6 cm; B. 7 cm. Elfenbeinrahmen,",1310,99.4,False,positional,BONHEUR ROSA,FRANZOSISCHER MEISTER,BIANCHERIA,,
-BO0624_88167,320815,246,312,"Bildnis eines Offiziers, Vom graugetonten Hintergrund hebt sich das Brustbild eines Offiziers mit glattrasiertem Gesicht ab, dessen roter Uniformrock mit blauen Aufschlagen und Goldlitzen das Spitzenjabot freilasst. Der Kopf ist nach rechts, der Korper ist wieder leicht nach vorn gewandt. Miniatur auf Elfenbein.Oval. H.3,5cm;B.3cm. Bez.:J.S. 1777. Goldfassung; Medallion eines Armbands. Auf der Ruickseite Monogramm W.H.",1316,99.5,False,positional,JOHN SMART DER ALTERE,,MINIATURE,,
+BO0624_88167,320815,246,312,"Bildnis eines Offiziers, Vom graugetonten Hintergrund hebt sich das Brustbild eines Offiziers mit glattrasiertem Gesicht ab, dessen roter Uniformrock mit blauen Aufschlagen und Goldlitzen das Spitzenjabot freilasst. Der Kopf ist nach rechts, der Korper ist wieder leicht nach vorn gewandt. Miniatur auf Elfenbein.Oval. H.3,5cm;B.3cm. Bez.:J.S. 1777. Goldfassung; Medallion eines Armbands. Auf der Ruickseite Monogramm W.H.",1316,99.5,False,positional,JOHN SMART DER ALTERE,,MINIATURE,,Sec. XVIII
 BO0624_88167,320816,247,313,"Engelskopfchen. Das Blondhaar ist in der Mitte gescheitelt und umrahmt mit seinen Locken das runde Kindergesicht.Vom blauen Himmel heben sich die blaulichgrunen Flugel ab. Miniatur auf Elfenbein. Dm.4,7 cm.Vergoldete",1320,99.1,False,positional,ROBERT THEER,,COPPE,,
 BO0624_88167,320817,248,314,",Bildnis einer Dame. Vom Grun des Parks. in dessen E Hintergrunde ein Rundbau sichtbar wird, hebt sich das Brustbild einer jungen Dame in tief ausgeschnittenem violettem Kleide mit weissen Spitzenrischen ab. Das volle Haar ist gepudert und von einem hellblauen Bande zusammengehalten. Ueber die Linke fallt ein weisser Pelzmantel. Miniatur auf Elfenbein. Dm. 6,5 cm.In den Deckel einer Schildplattdose montiert.",1327,99.5,False,positional,SAMPSON TOWGOOD ROCHE,,MINIATURE,,
 BO0624_88167,320818,249,315,"BILDNIS EINES VORNEMEN HERRN. Der vollwangige glattrasierte Herr tragt eine weisse Allongeperucke und einen blauen Reidenrock, der, offenstehend, das Hemd und die herabhangende Spitzenbinde sichtbar werden lasst. Emailminiatur. Oval.H.4，2cm;B.3,4 cm. Silberfassung mit StraBsteinen schleifenartige Bekronung.",1333,99.3,False,positional,SAMPSON TOWGOOD ROCHE,,,,
 BO0624_88167,320819,250,317,"BILDNIS EINES JUNGEN MADCHENS. Von dem Blaugrau des Abendhimmels hebt sich der Kopf eines jungen Madchens ab. Er ist nach links gewanet und tragt ein braunes, unter der Brust grun umschnirtes Kleid, um deren spitzen Ausschnitt ein Schleier gelegt ist. Das weisse Haubchen ist mit einem grunen Band umschlungen und lasst die schwarzen Lockchen frei, die das leicht nach B.8,5 cm.Goldrahmen. Abbildung Tafel 8",1346,99.5,False,positional,JOHN SMART DER ALTERE,,,,
-BO0624_88167,320820,251,318,MINIATUR einer Dame in duinnweissem Gewande mit Spitzenschleier iber den braunen strahnigen Haaren. Brauner Vorhang im Hintergrunde. Bg. Schrammpiux 1806. Oval. 8:65 cm. Schwarzer Rahmen. Abbildung Tafel 8,1353,99.0,False,title_direct,,,MINIATUR,,
+BO0624_88167,320820,251,318,MINIATUR einer Dame in duinnweissem Gewande mit Spitzenschleier iber den braunen strahnigen Haaren. Brauner Vorhang im Hintergrunde. Bg. Schrammpiux 1806. Oval. 8:65 cm. Schwarzer Rahmen. Abbildung Tafel 8,1353,99.0,False,title_direct,,,MINIATUR,,Sec. XIX
 BO0624_88167,320821,252,319,MINIATUR der Madame Catharina Alex. Bakussine in weissem Kleide mit blauviolettem Tuche und offenen Locken. Elfenbein in Holzrahmen mit Goldbronzefassung. Oval. 8:6 cm. Abbildung Tafel 8,1357,98.9,False,title_direct,,,MINIATUR,,
-BO0624_88167,320822,253,320,"EIN PAAR MINIATUREN auf Elfenbein. Herr im Gehrock, Dame in weissem Spitzenkleide einander zugewandt, vor drapierten Vorhang, unter dem man in die Landschaft blickt. Bez.:F. Z. 1839. Im Samtrahmen. H.6 cm;B.5,5 cm.",1358,99.0,False,title_direct,,,MINIATUR,,
+BO0624_88167,320822,253,320,"EIN PAAR MINIATUREN auf Elfenbein. Herr im Gehrock, Dame in weissem Spitzenkleide einander zugewandt, vor drapierten Vorhang, unter dem man in die Landschaft blickt. Bez.:F. Z. 1839. Im Samtrahmen. H.6 cm;B.5,5 cm.",1358,99.0,False,title_direct,,,MINIATUR,,Sec. XIX
 BO0624_88167,320823,254,321,"MINIATUR oval,in Bronzefassung. Portrat des Grafen Herzan mit gepuderter",1359,97.3,False,title_direct,,,MINIATUR,,
 BO0624_88167,320824,255,4,"Perucke in grinem Rock. Auf Kupfer. H. 6 cm; B. 5,5 cm.",1360,98.0,False,positional,JOHANN MICHAEL SCHRAMM,,OGGETTI IN RAME,,
 BO0624_88167,320825,256,5,"322.ELFENBEINMINIATUR, oval, Bronzefassung. Brustbild eines halb nach links",1361,98.6,False,title_direct,,,MINIATUR,,
@@ -265,7 +265,7 @@ BO0624_88167,320832,263,12,"327.KLEINES OLGEMALDE. Immaculata. Nach Murillo. Eis
 BO0624_88167,320833,264,328,BUCHATRAPPE mit Goldspitzen und Goldstickerei auf Samtgrund. Die geoffnete die Buchstaben S. W.in Filigranarbeit und Umrahmung.,1369,72.6,False,positional,JOHANN MICHAEL SCHRAMM,,,,
 BO0624_88167,320834,265,329,"BILDNIS EINER ALTEN DAME mit weiBem Spitzentuche,mit Spitzenhaube auf blauem Grunde.Lw.,schwarzer Rahmen,22:28,5 cm,",1371,98.3,False,positional,JOHANN MICHAEL SCHRAMM,,CORNICI,,
 BO0624_88167,320835,266,330,ZWEI BUNTE DRUCKE DER FUNZIGER JAHRE.23:16 cm.,1372,95.7,False,positional,JOHANN MICHAEL SCHRAMM,,STAMPE E INCISIONI,,
-BO0624_88167,320836,267,331,"STILLEBEN,Aquarell von 1850, Biedermeierrahmen,24:cm.",1373,96.2,False,positional,JOHANN MICHAEL SCHRAMM,,,,
+BO0624_88167,320836,267,331,"STILLEBEN,Aquarell von 1850, Biedermeierrahmen,24:cm.",1373,96.2,False,positional,JOHANN MICHAEL SCHRAMM,,,,Sec. XIX
 BO0624_88167,320837,268,332,"KOPIE EINER MADONNA, Holz.Rund-geschnitzter Rahmen, 10:11 cm.",1374,96.7,False,positional,JOHANN MICHAEL SCHRAMM,,CORNICI,,
 BO0624_88167,320838,269,333,"ZWEI MINIATURZEICHNUNGEN. Bildnis eines Herrn und Vermahlung Marias und Josefs in Rahmen,",1375,97.8,False,title_direct,,,MINIATUR,,
 BO0624_88167,320839,270,334,"BILDNIS DER KAISERIN KATHARINA II VON RUSSLAND in goldverziertem Kleide mit Hermelinmantel und blauem Ordensbande, Lw.84:74,mit Goldrahmen.",1376,98.6,False,positional,JOHANN MICHAEL SCHRAMM,,,,
@@ -277,18 +277,18 @@ BO0624_88167,320844,275,339,"MINIATUR eines Herrn mit groBer Allongeperucke. 5:4
 BO0624_88167,320845,276,340,"MINIATUR eines Herrn, in grinem Rocke mit blauem Mantel. In Messingrahmchen. 7:6cm.",1389,97.5,False,title_direct,,,MINIATUR,,
 BO0624_88167,320846,277,341,"LIEBESSZENE. In der Kammer der Geliebten, die ihn in Hemd und Nachthaubchen erwartet, steigt durchs Fenster der Liebhaber,der seine Schuhe in der rechten Hand halt. Sie mahnt ihn still zu sein. Durch die geoffnete Tur erblickt man im Nebenzimmer eine schlafende Person. Elfenbein. 9,5:7,5 cm.In gepreBtem",1393,99.3,False,positional,FRANCOIS,,,,
 BO0624_88167,320847,278,342,"GETUSCHTE BLEISTIFTZEICHNUNG VON PROF. WILBERG.Naturstudie. Felsgeroll auf Bergspitze mit Baumwuchs, dahinter Sennhitte. Papier aufgeklebt. H.201/2 cm,Br.32 cm. Signiert Wilberg 59.",1395,98.9,False,positional,FRANCOIS,,,,
-BO0624_88167,320848,279,343,"GETUSCHTE BLEISTIFTZEICHNUNG VON GELTSCHBERG. Portratkopf eines Kindes. Mit blondem Haar und blauer Jacke. Papier. H. 32 cm, Br. 231/2 cm. Signiert Geltschberg 3. August 1854.",1396,98.8,False,positional,FRANCOIS,,,,
-BO0624_88167,320849,280,344,"AQUARELL-PORTRAT VON CARL GOEBEL,geb. 1824. Mann mit dunkel gescheiteltem Haar und blondem Schnurrbart, Stehkragen und schwarzer Binde, den linken Arm gestutzt auf geschweiften Tisch, darauf schwarzer Zylinder und Buicher, Die Rechte halt Handschuhe.S Schwarzer Frack, helle Beinkleider, helle Weste. Hintergrund gelblicher Ton.",1397,99.4,False,positional,FRANCOIS,,OGGETTI VARI,,
+BO0624_88167,320848,279,343,"GETUSCHTE BLEISTIFTZEICHNUNG VON GELTSCHBERG. Portratkopf eines Kindes. Mit blondem Haar und blauer Jacke. Papier. H. 32 cm, Br. 231/2 cm. Signiert Geltschberg 3. August 1854.",1396,98.8,False,positional,FRANCOIS,,,,Sec. XIX
+BO0624_88167,320849,280,344,"AQUARELL-PORTRAT VON CARL GOEBEL,geb. 1824. Mann mit dunkel gescheiteltem Haar und blondem Schnurrbart, Stehkragen und schwarzer Binde, den linken Arm gestutzt auf geschweiften Tisch, darauf schwarzer Zylinder und Buicher, Die Rechte halt Handschuhe.S Schwarzer Frack, helle Beinkleider, helle Weste. Hintergrund gelblicher Ton.",1397,99.4,False,positional,FRANCOIS,,OGGETTI VARI,,Sec. XIX
 BO0624_88167,320850,281,345,"DESGLEICHEN. Dame mit gescheiteltem Haar mit Bandern,am berankten eisernen Gelander stehend und sich r mit dem rechten Arm darauf stuitzend. Die linke Hand halt einen Facher.  Im spitz ausgeschnittenen blauen Kleide mit SchloBtaille und Spitzenbesatz. Die Armel halblang mit spitzem Ausschnitt. Hintergrund wie vor. H. 42 cm,Br.33 cm. Signiert Goebel 4854.",1398,99.4,False,positional,FRANCOIS,,SCOMPARTI,,
-BO0624_88167,320851,282,346,"BLEISTIFTSKIZZEN VON CARL SPITZWEG,1808-1885. 10 Studien auf Papier.",1399,97.1,False,positional,FRANCOIS,,,,
+BO0624_88167,320851,282,346,"BLEISTIFTSKIZZEN VON CARL SPITZWEG,1808-1885. 10 Studien auf Papier.",1399,97.1,False,positional,FRANCOIS,,,,Sec. XIX
 BO0624_88167,320852,283,348,"BLEISTIFTZEICHNUNG VON G. SCHALKEN. Madchen ein GefaB gieBend Auf grauen Karton geklebt. H. 15 cm, Br. 14 cm. Signiert G. Schalken.",1403,98.4,False,positional,FRANCOIS,,,,
-BO0624_88167,320853,284,2,"349.BLEISTIFTZEICHNUNG VON EUG.VERBOEHOVEN, 1799-1881.Maultier. Papier. H. 14 cm, Br. 16 cm. Vigniert E. J. Verb.",1404,99.0,False,positional,FRANCOIS,,,,
+BO0624_88167,320853,284,2,"349.BLEISTIFTZEICHNUNG VON EUG.VERBOEHOVEN, 1799-1881.Maultier. Papier. H. 14 cm, Br. 16 cm. Vigniert E. J. Verb.",1404,99.0,False,positional,FRANCOIS,,,,Sec. XIX
 BO0624_88167,320854,285,3,"350.KREIDEZEICHNUNG VON STOCKVIS. Drei ruhende Schafe. Papier. H.14 cm, Br.221/2 cm, Signiert Stockvis.",1405,99.0,False,positional,FRANCOIS,,,,
 BO0624_88167,320855,286,351,"TUSCHZEICHNUNG,A. VAN BEEST zugeschrieben. Marinestudie. Segelboote und Zweimaster auf bewegter See. Aufsteigendes Wetter. Papier. H.14cm, Br. 201/2 cm. Auf der Ruickseite andere angefangene Marinestudie.",1406,99.0,False,positional,FRANCOIS,,,,
 BO0624_88167,320856,287,352,"TUSCHZEICHNUNG, CLAS PIETERZS BERCHEM zugeschrieben. Lastfuhrwerk",1407,96.9,False,positional,FRANCOIS,,,,
 BO0624_88167,320857,288,6,"mit Tonnen, von vier Kuhen gezogen. Papier. H. 10i/2 cm, Br.13 cm.",1408,98.4,False,positional,FRANCOIS,,,,
-BO0624_88167,320858,289,7,"H.16 cm, Br.16 cm.Signiert J.B.1819.",1409,97.1,False,positional,FRANCOIS,,,,
-BO0624_88167,320859,290,8,"354.TUSCHZEICHNUNG VON PETER VAN BLOEMEN,1672-1746. Liegende Kuh am Zaun. Links Graser. Papier, H. 111/2 cm, Br. 14 cm. Undeutlich signiert",1410,99.2,False,positional,FRANCOIS,,,,
+BO0624_88167,320858,289,7,"H.16 cm, Br.16 cm.Signiert J.B.1819.",1409,97.1,False,positional,FRANCOIS,,,,Sec. XIX
+BO0624_88167,320859,290,8,"354.TUSCHZEICHNUNG VON PETER VAN BLOEMEN,1672-1746. Liegende Kuh am Zaun. Links Graser. Papier, H. 111/2 cm, Br. 14 cm. Undeutlich signiert",1410,99.2,False,positional,FRANCOIS,,,,Sec. XVII
 BO0624_88167,320860,291,9,"P.von Bloemen,",1411,92.9,False,positional,FRANCOIS,,,,
 BO0624_88167,320861,292,355,KASSETTE,1414,80.0,False,title_direct,,,HOLZKASSETTE,,
 BO0624_88167,320862,293,356,DREI SPANISCHE GESCHNITZTE HORNDOSEN XIV.Jahrh.,1416,95.8,False,title_direct,,,HORNDOSE,,
@@ -298,7 +298,7 @@ BO0624_88167,320865,296,359,"KASTEN mit eingelassenen Horn und Schildpattplatte 
 BO0624_88167,320866,297,360,SPANISCHER GESCHMIEDETER UND VERGOLDETER RAHMEN,1421,95.9,False,positional,,,CORNICI,,
 BO0624_88167,320867,298,361,"HOLZSTATUE einer Heiligen mit Buch. Spuren alter Vergoldung. Spanisch. Hohe 85 cm,",1423,97.5,False,positional,,,Mobel,,
 BO0624_88167,320868,299,362,MARMORSTATUETTE der auf Putten und Walten schwebenden Madonna.S Spanisch.17. Jahrhund.,1424,97.7,False,title_direct,,,STATUETTE,,
-BO0624_88167,320869,300,363,"HOLZSTATUE der Maria mit dem bekleideten Christuskinde. Bemalt. Spanisch. 14. Jahrh. Circa 110 cm,",1428,97.9,False,positional,,,Mobel,,
+BO0624_88167,320869,300,363,"HOLZSTATUE der Maria mit dem bekleideten Christuskinde. Bemalt. Spanisch. 14. Jahrh. Circa 110 cm,",1428,97.9,False,positional,,,Mobel,,Sec. XIV
 BO0624_88167,320870,301,364,CHRISTUSSTATUETTE,1429,89.5,False,title_direct,,,STATUETTE,,
 BO0624_88167,320871,302,365,HOLZBUSTE EINES HEILIGEN,1431,92.3,False,positional,,,Mobel,,
 BO0624_88167,320872,303,366,HOLZSTATUETTE,1433,86.7,False,title_direct,,,STATUETTE,,
@@ -322,7 +322,7 @@ BO0624_88167,320889,320,383,DESGLEICHEN,1484,84.6,False,positional,,DEUTSCHER ME
 BO0624_88167,320890,321,384,DESGLEICHEN,1488,84.6,False,positional,,DEUTSCHER MEISTER,,,
 BO0624_88167,320891,322,385,HOLZFIGUR,1492,81.8,False,title_direct,,,EICHENHOLZFIGUR,,
 BO0624_88167,320892,323,386,HOLZFIGUR,1496,81.8,False,title_direct,,,EICHENHOLZFIGUR,,
-BO0624_88167,320893,324,387,HOLZBUSTE 1756,1500,66.7,False,positional,,DEUTSCHER MEISTER,,,
+BO0624_88167,320893,324,387,HOLZBUSTE 1756,1500,66.7,False,positional,,DEUTSCHER MEISTER,,,Sec. XVIII
 BO0624_88167,320894,325,388,BEMALTE HOLZSCHNITZEREI,1508,92.0,False,title_direct,,,HOLZSCHNITTE,,
 BO0624_88167,320895,326,390,KRIEGS-TAGZEITEN,1536,88.9,False,positional,FR. PACZACK,,,,
 BO0624_88167,320896,327,391,HOLZKASTEN Darstellung der,1540,92.9,False,title_direct,,,HOLZKASSETTE,,
@@ -427,7 +427,7 @@ BO0624_88167,320994,425,489,DESGLEICHEN,1735,84.6,False,positional,,,Porzellane;
 BO0624_88167,320995,426,490,DESGLEICHEN,1737,84.6,False,positional,,,Porzellane; Fayencen; Glas,,
 BO0624_88167,320996,427,491,DESGLEICHEN,1739,84.6,False,positional,,,Porzellane; Fayencen; Glas,,
 BO0624_88167,320997,428,492,DESGLEICHEN ahnlich.  An der Leibung zwischen Nelken asender Hirsch. Auf dem Deckel Bildnis Johann Hus. Zinnmarke. H. 24 cm. Abbildung Tafel 9.,1743,98.5,False,positional,,,Porzellane; Fayencen; Glas,,
-BO0624_88167,320998,429,493,"BAUERN-FAYENCE-TELLER Vertiefte Form mit schmalem Rand. Blauer Dekor. Im Grunde in sternformigrr Umrahmung C. ND. 1758. Am Rande Kreise mit gelben Punkten zwischen schraffierten Stegen.Dm.21,5 cm.",1744,99.0,False,title_direct,,,TELLER,,
+BO0624_88167,320998,429,493,"BAUERN-FAYENCE-TELLER Vertiefte Form mit schmalem Rand. Blauer Dekor. Im Grunde in sternformigrr Umrahmung C. ND. 1758. Am Rande Kreise mit gelben Punkten zwischen schraffierten Stegen.Dm.21,5 cm.",1744,99.0,False,title_direct,,,TELLER,,Sec. XVIII
 BO0624_88167,320999,430,494,"SPANISCHE MAJOLIKA-TERRINE Geschweifte ovale Form auf vier RocaillefuBen. Seitlich zwei geschwungene Henkel, Deckel mit Rocaillen und aufgelegten Zweigen, Braune Glasur. H. 24 cm, B.41cm,T.24cm.",1747,98.9,False,title_direct,,,Glas,,
 BO0624_88167,321000,431,495,"SEVILLANER HENKELKRUG Urnenform mit eingekniffenem AusguB und Henkel. Blaumalerei, Zwischen zwei Gurtbandern Blumenornamente.Am Rande oben Rautenband mit Zickzackgehange. H.23,5 cm. Abbildung Tafel 9.",1749,99.0,False,positional,,,OGGETTI VARI,,
 BO0624_88167,321001,432,496,DESGLEICHEN,1751,84.6,False,positional,,,Porzellane; Fayencen; Glas,,
@@ -440,7 +440,7 @@ BO0624_88167,321007,438,502,"GRANADA-TELLER Zwischen grunen und violetten Kreise
 BO0624_88167,321008,439,503,"SEVILLA-HIRSCHTELLER mit Blaumalerei Vier Bluten verbunden durch Zickzackflachen. In der Mitte doppelt umrandetes Feld, darin ein springender Steinbock. Dm. 30,5 cm.",1766,98.8,False,title_direct,,,TELLER,,
 BO0624_88167,321009,440,504,DESGLEICHEN,1767,84.6,False,positional,,,Porzellane; Fayencen; Glas,,
 BO0624_88167,321010,441,505,SEVILLA-TELLER mit blauen Girlanden am Rande und Blumenornament in der Mitte. Gekittet. Dm.30cm.,1771,97.9,False,title_direct,,,TELLER,,
-BO0624_88167,321011,442,506,"TALAVERA-SCHUSSEL des 16. Jahrhunderts mit umgebogenem Rand und blauem Blumenbande am Rande und im Mittelfeld des Grundes, in dem ein Vogelkopf erscheint. Beschadigt. Dm.28cm,",1772,98.8,False,title_direct,,,SCHUSSEL,,
+BO0624_88167,321011,442,506,"TALAVERA-SCHUSSEL des 16. Jahrhunderts mit umgebogenem Rand und blauem Blumenbande am Rande und im Mittelfeld des Grundes, in dem ein Vogelkopf erscheint. Beschadigt. Dm.28cm,",1772,98.8,False,title_direct,,,SCHUSSEL,,Sec. XVI
 BO0624_88167,321012,443,507,"ALKORA-TELLER mit Blaumalerei. Am Rande fuinf Felder mit Sternbluten und Punkten, durch Girlanden abgeschlossen, im Grunde Rosette. Dm. 34 cm,",1773,98.6,False,title_direct,,,TELLER,,
 BO0624_88167,321013,444,508,"ENGLISCHER FAYENCE-TELLER mit reichem blauem Dekor in chinesischem Geschmack. Im Grunde FluBlandlandschaft mit Gebauden.Dm.24,5 cm.",1774,98.5,False,title_direct,,,TELLER,,
 BO0624_88167,321014,445,509,ALKORA-TELLER mit buntem Rosenzweig in der Mitte und blau und blaugelben Blattern am Rande. Violette Marke A.C.Dm. 35 cm.,1775,98.3,False,title_direct,,,TELLER,,
@@ -450,7 +450,7 @@ BO0624_88167,321017,448,512,"EIN PAAR POMPEJANISCHER TONVASEN Liegende Eiform au
 BO0624_88167,321018,449,513,"ITALIENISCHE WEINKANNE umgekehrte Birnform mit breitem AusguB, der vorn kraftig eingedruickt ist. Bunte Blumenmalerei. An der Stirnseite Doppeladler. Marke. H. 21 cm.",1785,98.8,False,positional,,,Porzellane; Fayencen; Glas,,
 BO0624_88167,321019,450,514,DESGLEICHEN groBer. H.23 cm,1787,92.9,False,positional,,,Porzellane; Fayencen; Glas,,
 BO0624_88167,321020,451,515,FAYENCE-VASE,1788,85.7,False,title_direct,,,VASE,,
-BO0624_88167,321021,452,516,WESTERWALDER WALZENKRUG mit hochgewolbtem Zinndeckel. An der Stirnseite blau gemaltes Feld mit gekerbtem Blumenornament. Darin ein Vogel. Auf dem Deckel graviert: R. W. 1763.,1792,98.8,False,positional,,,Porzellane; Fayencen; Glas,,
+BO0624_88167,321021,452,516,WESTERWALDER WALZENKRUG mit hochgewolbtem Zinndeckel. An der Stirnseite blau gemaltes Feld mit gekerbtem Blumenornament. Darin ein Vogel. Auf dem Deckel graviert: R. W. 1763.,1792,98.8,False,positional,,,Porzellane; Fayencen; Glas,,Sec. XVIII
 BO0624_88167,321022,453,517,"ALTER SACHSISCHER STEINZEUGKRUG mit Zinndeckel. Walzenform oben und unten gekehlt, mit kaffeebrauner Glasur.",1796,98.1,False,title_direct,,,Glas,,
 BO0624_88167,321023,454,518,"BUNZLAUER KANNCHEN H.10cm,",1800,92.6,False,positional,,,Porzellane; Fayencen; Glas,,
 BO0624_88167,321024,455,2,519.TONKRUG innen vergoldet. H. 12 cm.,1801,97.2,False,positional,,,Porzellane; Fayencen; Glas,,
@@ -573,7 +573,7 @@ BO0624_88167,321140,571,632,COIFFURE DES FEMMES EN ETE 23 : 18 cm. Goldrahmen.,2
 BO0624_88167,321141,572,633,FEMME MARIEE ET SES ENFANS 23:18 cm.Goldrahmen.,2058,95.8,False,positional,,,STICKEREIBILDER,,
 BO0624_88167,321142,573,634,FEMME DU PEUPLE 23:18cm. Goldrahmen.,2059,94.4,False,positional,,,STICKEREIBILDER,,
 BO0624_88167,321143,574,635,RETOUR DE LA PROMENADE 23:18cm. Goldrahmen.,2060,95.3,False,positional,,,STICKEREIBILDER,,
-BO0624_88167,321144,575,636,"L'EDUCATION 1797 Oval. 35:26 cm.Goldrahmen,",2061,95.3,False,positional,,,STICKEREIBILDER,,
+BO0624_88167,321144,575,636,"L'EDUCATION 1797 Oval. 35:26 cm.Goldrahmen,",2061,95.3,False,positional,,,STICKEREIBILDER,,Sec. XVIII
 BO0624_88167,321145,576,637,B0GEN Adamana.,2062,86.7,False,positional,,,STICKEREIBILDER,,
 BO0624_88167,321146,577,638,"PFERDESCHMUCK Leder,",2063,90.5,False,positional,,,OGGETTI IN PELLE,,
 BO0624_88167,321147,578,639,AFRIKANISCHER SATTEL Garna.,2064,92.9,False,positional,,,STICKEREIBILDER,,
@@ -615,45 +615,45 @@ BO0624_88167,321182,613,675,BEMALTE HOLZSKULPTUR,2239,90.9,False,positional,,,OG
 BO0624_88167,321183,614,66,"KLEINE RUNDE ELFENBEINDOSE Auf den Deckel in Bronzefassung das Munzbild Napoleons I. Dm. 3,6 cm. Be-",2241,98.5,False,title_direct,,,ELFENBEINDOSE,,
 BO0624_88167,321184,615,677,"STEINNUSSDOSE in Form einer mannlichen Figur. Der den Ruicken bildende Deckel fehlt, H. 8 cm",2245,97.8,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321185,616,678,OVALERELIQUIENKAPSEL aus Holz mit facettierten Bergkristallscheiben auf beiden Seiten.,2246,97.7,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88167,321186,617,679,ELFENBEINSCHNITZEREI der Maria mit dem Kinde. Oval. 18. Jahrh.in schwarzem Rahmen.,2247,97.5,False,title_direct,,,CORNICI,,
-BO0624_88167,321187,618,680,SILHOUETTE eines jungen Madchen um 1800 auf Spiegelgrund oval.,2248,96.8,False,positional,,,SCREIBSCHRANKCHEN,,
+BO0624_88167,321186,617,679,ELFENBEINSCHNITZEREI der Maria mit dem Kinde. Oval. 18. Jahrh.in schwarzem Rahmen.,2247,97.5,False,title_direct,,,CORNICI,,Sec. XVIII
+BO0624_88167,321187,618,680,SILHOUETTE eines jungen Madchen um 1800 auf Spiegelgrund oval.,2248,96.8,False,positional,,,SCREIBSCHRANKCHEN,,Sec. XIX
 BO0624_88167,321188,619,681,DESGLEICHEN,2249,84.6,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321189,620,682,"WACHSBOSSIERUNG DES KREUZTRAGENDEN CHRISTUS in Papprahmen,",2253,96.6,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321190,621,683,HORNDOSE mit Bildnis Silhouette Franz Il. auf Goldgrund. Dm. 8 cm.,2254,96.9,False,title_direct,,,HORNDOSE,,
 BO0624_88167,321191,622,684,SCHNUPFTABACKDOSE,2255,89.5,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321192,623,685,"EIN STUCK DER ORIGINALSCHRIFT VON GOETHES GOTZ SchluB des urspruinglichen dritten und Anfang des vierten Auftritts des I. Akts,",2261,98.4,False,positional,STUCK FRANZ VON,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321193,624,686,BLATTER AUS ARNDT'S GARTEN Gepfluckt 1864. Mit Notizzettel von Dr. Robert Keil.,2262,97.4,False,positional,,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321194,625,687,"BLATTER VON ARNDT'S GRAB in Bonn, Gefluickt 1864. Mit Notizzettel von Dr. Robert Keil.",2264,97.6,False,positional,VAN ORLEY BAREND,,SCREIBSCHRANKCHEN,,
+BO0624_88167,321193,624,686,BLATTER AUS ARNDT'S GARTEN Gepfluckt 1864. Mit Notizzettel von Dr. Robert Keil.,2262,97.4,False,positional,,,SCREIBSCHRANKCHEN,,Sec. XIX
+BO0624_88167,321194,625,687,"BLATTER VON ARNDT'S GRAB in Bonn, Gefluickt 1864. Mit Notizzettel von Dr. Robert Keil.",2264,97.6,False,positional,VAN ORLEY BAREND,,SCREIBSCHRANKCHEN,,Sec. XIX
 BO0624_88167,321195,626,688,"GOETHES NAMENSZUG Initialbuchstaben, auf einem scheinbar aus einem Bibliothekszugangsinventar herausgeschnittenen Zettel.",2265,98.3,False,positional,,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321196,627,689,"UNTERSCHRIFT JOHAN BANIRS des 1595 geborenen und 1641 gestorbenen schwedischen Feldherrn des DreiBigjahrigen Krieges,Siegers bei Leipzig uber Pappenheim,bei Wittstock und Chemnitz. Mit Siegel. Aus dem Jahre 1632.",2266,99.1,False,positional,,,OGGETTI VARI,,
+BO0624_88167,321196,627,689,"UNTERSCHRIFT JOHAN BANIRS des 1595 geborenen und 1641 gestorbenen schwedischen Feldherrn des DreiBigjahrigen Krieges,Siegers bei Leipzig uber Pappenheim,bei Wittstock und Chemnitz. Mit Siegel. Aus dem Jahre 1632.",2266,99.1,False,positional,,,OGGETTI VARI,,Sec. XVI
 BO0624_88167,321197,628,690,SCHREIBFEDER VON FRIEDRICH RUCKERT,2267,94.4,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321198,629,691,GOLDENES PETSCHAFT (ANHANGER) VON OTTILIE VON GOETHE. In die,2269,96.6,False,positional,,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321199,630,692,"BRIEFUMSCHLAG MIT DER HANDSCHRIFT GOETHES ""An Herren Sekretair Krauter nach Weimar. fr."" und der Bemerkung:Geh. Rath v. Gothe"". Mit Stempel Jena 15. Jul. 1820.",2271,98.7,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88167,321199,630,692,"BRIEFUMSCHLAG MIT DER HANDSCHRIFT GOETHES ""An Herren Sekretair Krauter nach Weimar. fr."" und der Bemerkung:Geh. Rath v. Gothe"". Mit Stempel Jena 15. Jul. 1820.",2271,98.7,False,positional,,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88167,321200,631,693,BRIEF VON EMILRITTEFHAUS,2272,92.3,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321201,632,694,ELFENBEINPLATTE,2274,88.2,False,title_direct,,,BLEIPLATTE,,
 BO0624_88167,321202,633,695,STOFFSTUCK VOM ROCK DES FURSTEN LICHNOWSKY,2276,95.5,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321203,634,696,"TAROCKKARTEN unvollstandig, 36 Blatt. Angeblich aus Goethes Besitz,",2281,97.0,False,positional,,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321204,635,697,"DIE SCHONE MAILANDERIN Brustbildnis der Romischen Geliebten Goethes,nach rechts gewandt. Von Goethe bei Hackert gezeichnet und in Aquarell ausgefuhrt (?). Oval. H. 22 cm. Breite 18 cm. Goldrahmen. Auf der Ruckseite entsprechende Notiz. Das Bild befand sich in Goethes Besiiz bis zu dessen Tode und wurde spater von den Hinterbliebenen des Dichters an Theodor Krauter schenkungsweise ibergeben. Siehe Titelbild.",2282,99.5,False,positional,,,SCREIBSCHRANKCHEN,,
+BO0624_88167,321204,635,697,"DIE SCHONE MAILANDERIN Brustbildnis der Romischen Geliebten Goethes,nach rechts gewandt. Von Goethe bei Hackert gezeichnet und in Aquarell ausgefuhrt (?). Oval. H. 22 cm. Breite 18 cm. Goldrahmen. Auf der Ruckseite entsprechende Notiz. Das Bild befand sich in Goethes Besiiz bis zu dessen Tode und wurde spater von den Hinterbliebenen des Dichters an Theodor Krauter schenkungsweise ibergeben. Siehe Titelbild.",2282,99.5,False,positional,HACKERT PHILIPPE,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321205,636,698,"GOETHES FEDERMESSER Mit Perlmuttverschalung, drei Klingen und Nagelreiniger. Dem Stuicke lag bei Ubergang des Nachlasses von Theodor Krauter an Dr. Keil eine Beglaubigung Krauters bei.",2284,98.9,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321206,637,699,PALETTE AUS ELFENBEIN,2285,91.3,False,positional,,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321207,638,700,"LOCKE VON GOETHE 26. Marz 1832, wurde dieselbe als Andenken entnommen. Eine Bescheinigung dariber von Theodor Krauter wurde 1889 an R. Maltzer in Leipzig uiberlassen. Bescheinigung Dr. Keils vem 17. Juli 1889 liegt bei. Vergl. auch Keil. Das Goethe-Nationalmuseum zu Weimar, S. 18.",2289,99.3,False,positional,,,SCREIBSCHRANKCHEN,,
+BO0624_88167,321207,638,700,"LOCKE VON GOETHE 26. Marz 1832, wurde dieselbe als Andenken entnommen. Eine Bescheinigung dariber von Theodor Krauter wurde 1889 an R. Maltzer in Leipzig uiberlassen. Bescheinigung Dr. Keils vem 17. Juli 1889 liegt bei. Vergl. auch Keil. Das Goethe-Nationalmuseum zu Weimar, S. 18.",2289,99.3,False,positional,,,SCREIBSCHRANKCHEN,,Sec. XIX
 BO0624_88167,321208,639,701,"STICKRAHMEN Von Goethe Fraulein Karoline Ulrich, nachher verehelichter Riemer geschenkt.",2291,97.7,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321209,640,702,FLORTUCH Goethe hat das Tuch,2292,93.3,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321210,641,703,STROHKASTCHEN und Frau Riemer gab. Mit Notizzettel (von Frau Riemer?).,2298,97.0,False,positional,,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321211,642,704,"BRIEF VON NOTH,OBERWEIMAR Den 5ten Jan. 1810, an Dr. Riemar, Weimar, enthaltend die Bitte um Fursprache bei v. Humboldt zum Zwecke der Erlangung von Auskuinften fuir ein spanisches Worterbuch,",2299,98.9,False,positional,,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321212,643,705,CARTE TOPOGRAPHIQUE ET MILITAIRE DEL'ALLEMAGNE En 204 Feuilles publiee par 1Institut geographique a Weimar 1807-1813. In zwei Mappen. Aus Goethes Besitz (?).,2300,98.7,False,positional,,,OGGETTI VARI,,
-BO0624_88167,321213,644,706,SUPPLEMENT Oder Erweiterung nach Westen der Geographisch-militarischen Charte von Deutschland in 204 Sektionen unternommen von dem Geographischen Institute zu Weimar 1814. 44 (statt 45) Karten in Mappe. Aus Goethes Besitz (?).,2302,99.1,False,positional,,,SCREIBSCHRANKCHEN,,
+BO0624_88167,321211,642,704,"BRIEF VON NOTH,OBERWEIMAR Den 5ten Jan. 1810, an Dr. Riemar, Weimar, enthaltend die Bitte um Fursprache bei v. Humboldt zum Zwecke der Erlangung von Auskuinften fuir ein spanisches Worterbuch,",2299,98.9,False,positional,,,SCREIBSCHRANKCHEN,,Sec. XIX
+BO0624_88167,321212,643,705,CARTE TOPOGRAPHIQUE ET MILITAIRE DEL'ALLEMAGNE En 204 Feuilles publiee par 1Institut geographique a Weimar 1807-1813. In zwei Mappen. Aus Goethes Besitz (?).,2300,98.7,False,positional,,,OGGETTI VARI,,Sec. XIX
+BO0624_88167,321213,644,706,SUPPLEMENT Oder Erweiterung nach Westen der Geographisch-militarischen Charte von Deutschland in 204 Sektionen unternommen von dem Geographischen Institute zu Weimar 1814. 44 (statt 45) Karten in Mappe. Aus Goethes Besitz (?).,2302,99.1,False,positional,,,SCREIBSCHRANKCHEN,,Sec. XIX
 BO0624_88167,321214,645,707,SEIDENES RICHKISSEN mit Richkissen gefuillt; angeblich aus Goethes Besitz.,2304,97.3,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321215,646,2,708.ABDRUCK DES SIEGELS,2305,95.8,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321216,647,3,Carl Augusts von Sachsen-Weimar.,2306,96.9,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321217,648,709,"EIN PAAR PATIENCE-KARTENSPIELE unvollstandig, 80 Blatt. Angeblich aus Goethes Besitz.",2307,97.6,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321218,649,710,KARTENSPIEL,2308,84.6,False,positional,,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321219,650,711,UNTERSCHRIFT BERNHARDS DES GROSSEN Herzogs von Sachsen (1604 bis 1639) aus dem Jahre 1633.,2310,97.8,False,positional,,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321220,651,712,UNTERSGHRIFT AXEL VON OXENSTIERNAS Schweden. Mit Siegel. Aus dem Jahre 1632.,2312,97.3,False,positional,,,OGGETTI VARI,,
+BO0624_88167,321219,650,711,UNTERSCHRIFT BERNHARDS DES GROSSEN Herzogs von Sachsen (1604 bis 1639) aus dem Jahre 1633.,2310,97.8,False,positional,,,SCREIBSCHRANKCHEN,,Sec. XVII
+BO0624_88167,321220,651,712,UNTERSGHRIFT AXEL VON OXENSTIERNAS Schweden. Mit Siegel. Aus dem Jahre 1632.,2312,97.3,False,positional,,,OGGETTI VARI,,Sec. XVII
 BO0624_88167,321221,652,713,KAUF-VERTRAG,2313,85.7,False,positional,,,SCREIBSCHRANKCHEN,,
 BO0624_88167,321222,653,714,URKUNDE KARLS V. MIT UNTERSCHRIFT UND SIEGEL,2315,95.6,False,positional,,,OGGETTI VARI,,
 BO0624_88167,321223,654,715,"EFEUBLATTER vom Grab der Frau Rat Goethe,",2317,95.2,False,positional,,,SCREIBSCHRANKCHEN,,
-BO0624_88167,321224,655,716,"BLEISTIFTZEICHNUNG VON ALEXANDER CALAME 1810-1864, Genf. Waldlandschaft mit zwei groben Baumen iber niedrigem Gebuisch. In der Ferne sind Berge angedeutet. Beschnitten und auf Karton geklebt.",2320,98.9,False,positional,,,Zeichnungen; Stiche; Lithographien,,
+BO0624_88167,321224,655,716,"BLEISTIFTZEICHNUNG VON ALEXANDER CALAME 1810-1864, Genf. Waldlandschaft mit zwei groben Baumen iber niedrigem Gebuisch. In der Ferne sind Berge angedeutet. Beschnitten und auf Karton geklebt.",2320,98.9,False,positional,,,Zeichnungen; Stiche; Lithographien,,Sec. XIX
 BO0624_88167,321225,656,717,"DESGLEICHEN Mit Farbe gehoht. Waldlandschaft mit Blockhitte.  Gruppe von vier groben Ferne Berge. Auf Karton gerahmt.H.381/2 cm.Br.281/2 cm. Signiert A. Calame,",2324,98.7,False,positional,,,OGGETTI VARI,,
 BO0624_88167,321226,657,718,"AQUARELL,LEOPOLD BRUNNER",2325,92.3,False,positional,,,Zeichnungen; Stiche; Lithographien,,
 BO0624_88167,321227,658,719,"AQUARELL VON SOMMER Papagei auf einem kleinen knorrigen Ast, Papier in Passepartout, H. 32 cm Br.211/2 cm. Signiert Sommer.",2330,98.3,False,positional,,,Zeichnungen; Stiche; Lithographien,,
@@ -661,39 +661,39 @@ BO0624_88167,321228,659,720,"BLEISTIFTZEICHNUNG VON A.VOLKMER Kniebildnis einer 
 BO0624_88167,321229,660,721,AQUARELL UNBEKANNTER MEISTER,2333,93.3,False,positional,,,Zeichnungen; Stiche; Lithographien,,
 BO0624_88167,321230,661,722,AQUARELL UNBEKANNTER MEISTER Betender Christus in Gethsemane.,2335,96.8,False,positional,,,Zeichnungen; Stiche; Lithographien,,
 BO0624_88167,321231,662,723,"AQUARELL VON H.GROTHE Altes Weib mit Kopftuch, iber das Feld wandernd. Am Arme einen Korb mit blauer Tuchdecke.Papier in Passepartout gerahmt. H. 12 cm,Br.15 cm,",2339,98.7,False,positional,,,Zeichnungen; Stiche; Lithographien,,
-BO0624_88167,321232,663,724,"GETUSCHTE FEDERZEICHNUNG,WOUWERMANN zugeschrieben. 1881, zugeschrieben. Kuhe und Ochse mit Joch auf der Weide. H. 121/2 cm,",2345,72.0,False,positional,WOUWERMAN PHILIPS,,Zeichnungen; Stiche; Lithographien,,
+BO0624_88167,321232,663,724,"GETUSCHTE FEDERZEICHNUNG,WOUWERMANN zugeschrieben. 1881, zugeschrieben. Kuhe und Ochse mit Joch auf der Weide. H. 121/2 cm,",2345,72.0,False,positional,WOUWERMAN PHILIPS,,Zeichnungen; Stiche; Lithographien,,Sec. XIX
 BO0624_88167,321233,664,725,"SEPIA FEDERTUSCHZEICHNUNG,GEORG ZOBEL Br.161/2 cm.Undeutlich signiert.",2347,97.2,False,positional,,,Zeichnungen; Stiche; Lithographien,,
 BO0624_88167,321234,665,726,"ACHT KLEINE KUPFERSTICHE Engr.by T.Thomas. The SurW. Coven del. J.H.Kernot sculp.-Count Egmont's Jewels.J. Holmes, drawn S. Davenport sculp.The Manor House of the Wyndhams.Cattermole pinx. C.WWass",2348,98.9,False,title_direct,,,KUPFER,,
 BO0624_88167,321235,666,727,ATLAS,2350,71.4,False,positional,,,Zeichnungen; Stiche; Lithographien,,
-BO0624_88167,321236,667,728,"ROTELZEICHNUNG,JAN FYT, 1611—1661, zugeschrieben. Windhund,weiβ",2352,96.8,False,positional,FYT JAN,,Zeichnungen; Stiche; Lithographien,,
+BO0624_88167,321236,667,728,"ROTELZEICHNUNG,JAN FYT, 1611—1661, zugeschrieben. Windhund,weiβ",2352,96.8,False,positional,FYT JAN,,Zeichnungen; Stiche; Lithographien,,Sec. XVII
 BO0624_88167,321237,668,729,"DESGLEICHEN. Liegender Jagdhund. Papier. H.7 cm, Br.141/2 cm.",2354,96.6,False,positional,,,Zeichnungen; Stiche; Lithographien,,
-BO0624_88167,321238,669,730,"TUSCHZEICHNUNG VON DU JARDIN, Prof., 1817-1841. Neun verschiedene Schafkopfe; mit WeiB gehoht. Auf Pappe. H. 121/2 cm, Br.24 cm. Undeutlich",2355,98.5,False,positional,DU JARDIN KAREL,,Zeichnungen; Stiche; Lithographien,,
+BO0624_88167,321238,669,730,"TUSCHZEICHNUNG VON DU JARDIN, Prof., 1817-1841. Neun verschiedene Schafkopfe; mit WeiB gehoht. Auf Pappe. H. 121/2 cm, Br.24 cm. Undeutlich",2355,98.5,False,positional,DU JARDIN KAREL,,Zeichnungen; Stiche; Lithographien,,Sec. XIX
 BO0624_88167,321239,670,731,"TUSCHZEICHNUNG, ALOIS PENNING, Dusseldorf, zugeschrieben. Pferd auf",2357,96.9,False,positional,,,Zeichnungen; Stiche; Lithographien,,
 BO0624_88167,321240,671,732,"ROTELZEICHNUNG,I.POOTWYK zugeschrieben. Liegende Schweine, Papier.",2359,96.9,False,positional,,,Zeichnungen; Stiche; Lithographien,,
-BO0624_88167,321241,672,733,"ROTELZEICHNUNG, CORNELIUS SAFTLEVEN, 1606—1681, zugeschrieben, Windhunde mit WeiB gehoht. Auf braunem Papier H. 18 cm, Br. 14 cm",2361,98.4,False,positional,,,Zeichnungen; Stiche; Lithographien,,
+BO0624_88167,321241,672,733,"ROTELZEICHNUNG, CORNELIUS SAFTLEVEN, 1606—1681, zugeschrieben, Windhunde mit WeiB gehoht. Auf braunem Papier H. 18 cm, Br. 14 cm",2361,98.4,False,positional,,,Zeichnungen; Stiche; Lithographien,,Sec. XVII
 BO0624_88167,321242,673,734,"TUSCHZEICHNUNG Jan Kobell zugeschrieben.S Studie. Ziegenhirt, Ziege und liegender Hirt. Papier. H. 101/2 cm,Br.161/2 cm",2362,98.3,False,positional,,,Zeichnungen; Stiche; Lithographien,,
 BO0624_88167,321243,674,735,"ZWEI KREIDEZEICHNUNGEN,GERARD VAN HONTHORST,15901650, zUgeschrieben. Zwei liegende Schafe. Papier.Verschiedene GroBen,",2363,98.3,False,positional,HONTHORST GERARD,,Zeichnungen; Stiche; Lithographien,,
 BO0624_88167,321244,675,736,"KREIDEZEICHNUNG VON OFFERMANN. GroBe Kuh und Widder im Wasser stehend. Papier. H. 16 cm, Br.20 cm. Signiert A Offermaen,",2364,98.3,False,positional,,,Zeichnungen; Stiche; Lithographien,,
 BO0624_88167,321245,676,737,"DESGLEICHEN. Kuh auf dem Felde,an einem Sandhigel stehend. Papier, H.17 cm,Br. 23 cm. Signiert A. Offermann,",2365,98.1,False,positional,,,Zeichnungen; Stiche; Lithographien,,
 BO0624_88167,321246,677,738,"TUSCHZEICHNUNG.HOLLANDISCHER MEISTER. Lesende Kinde. Stehender Knabe und auf der Erde sitzendes Madchen. Papier. H.22 cm, Br. 161/2 cm.",2366,98.5,False,title_direct,,SPANISCHER MEISTER,,,
-BO0624_88167,321247,678,739,"BLEISTIFTZEICHNUNG VON PFOF.GABRIEL VON MAX,geb.1840.Studien aus der Spinnstube. Frau bei Spinnen eingeschlafen. Junges spinnendes Madchen und junger Mann, welcher hinter ihr steht Ein Madchen mit Katze auf dem SchoBe wird von einem andern hinter ihr geneckt. Papier. H. 231/2 cm, Br. 35 cm,Signiert G.Max Fecit.",2367,99.3,False,positional,MAX GABRIEL VON,,Zeichnungen; Stiche; Lithographien,,
+BO0624_88167,321247,678,739,"BLEISTIFTZEICHNUNG VON PFOF.GABRIEL VON MAX,geb.1840.Studien aus der Spinnstube. Frau bei Spinnen eingeschlafen. Junges spinnendes Madchen und junger Mann, welcher hinter ihr steht Ein Madchen mit Katze auf dem SchoBe wird von einem andern hinter ihr geneckt. Papier. H. 231/2 cm, Br. 35 cm,Signiert G.Max Fecit.",2367,99.3,False,positional,MAX GABRIEL VON,,Zeichnungen; Stiche; Lithographien,,Sec. XIX
 BO0624_88167,321248,679,740,"ANSICHT DES GROSSEN WASSERSPIEGELS IN VERSAILLES Anfang des 18.Jahrhunderts,Kupferstich, JMariette, ex Perelle fec.Auf drei",2368,98.4,False,positional,,,OGGETTI IN RAME,,
 BO0624_88167,321249,680,1787,sc.;breiter Rand; 32:24 cm.,2433,90.6,False,positional,,,STICHE,,
 BO0624_88167,321250,681,19,"Jahrh. Illustrationen aus einer Reisebeschreibung. Arc de l'etoile in Paris; C.Reise del.;B.Metzeroth sc.Der Eisenbahnviadukt iber die Lagunen nach Venedig; derselbe sc. Blick auf Palermo; derselbe sc.; Querformate; 15:10 cm,",2482,99.3,False,positional,,,STAHSTICHE,,
 BO0624_88167,321251,682,751,"751.SECHS BLATT KUPFERSTICHE teils Illustrationen aus der Heligengeschichte SsMaria mit Kind (a1746), schner Rand; S.Ado",2527,56.4,False,title_direct,,,KUPFER,,
 BO0624_88167,321252,683,752,## 752. SECHS BLATT KUPFERSTICHE,2537,100.0,False,title_direct,,,KUPFER,,
-BO0624_88167,321253,684,753,"VIER BLATTER IN KUPFERSTICH J.Sandrart del. G.C.Eimmart (1638-1705) sc. Busten romischer Kaisers Augustus;umgeben vonMedaillons, darunter M.Antonius,Julia,Cicero.1,5:20,5cm",2559,98.8,False,title_direct,,,KUPFER,,
-BO0624_88167,321254,685,I,"n den groben Mittelfeldern allegorische Darstellungen der Gestirne: Saturn,Jupiter, Ornamentrahmen angeordnet und verbunden. Paul Decker (1677—1733) inv. et del.,P. F.Engelbrecht, Ph. A.Kilian, Ch.F. Hormann sc. Martin Engelbrecht exc.",2578,99.8,False,positional,,,KUPFERSTICHE,,
+BO0624_88167,321253,684,753,"VIER BLATTER IN KUPFERSTICH J.Sandrart del. G.C.Eimmart (1638-1705) sc. Busten romischer Kaisers Augustus;umgeben vonMedaillons, darunter M.Antonius,Julia,Cicero.1,5:20,5cm",2559,98.8,False,title_direct,,,KUPFER,,Sec. XVII
+BO0624_88167,321254,685,I,"n den groben Mittelfeldern allegorische Darstellungen der Gestirne: Saturn,Jupiter, Ornamentrahmen angeordnet und verbunden. Paul Decker (1677—1733) inv. et del.,P. F.Engelbrecht, Ph. A.Kilian, Ch.F. Hormann sc. Martin Engelbrecht exc.",2578,99.8,False,positional,,,KUPFERSTICHE,,Sec. XVII
 BO0624_88167,321255,686,19,Jahrh.19:14 cm.,2629,90.3,False,positional,,,KUPFERSTICHE,,
 BO0624_88167,321256,687,I,"llustrationen, gut erhalten: Ankuindigung des Todes Jesu. — Christus an der",2647,99.3,False,positional,,,STICHE,,
 BO0624_88167,321257,688,I,"llustrationen: S. Donatus Martyr; Kilian sc., M. Engelbrecht exc., Augsburg; 15,5:10 cm.— Anbetung des Herzens Jesu; Engelbrecht exc., 15,5:10 cm.— Ein Schriftblatt, gestochen,mit Vignetten und gestochenen Szenen; gut erhalten； 10,5:6,5cm.",2654,99.8,False,positional,,,STICHE,,
 BO0624_88167,321258,689,48,"Heiligendarstellungen,Kleinformat, teils koloriert, Stiche und Drucke.",2678,97.8,False,title_direct,,,Stiche,,
 BO0624_88167,321259,690,759,"ACHT HEILIGENBILDER St.Procopius,-Sta.Elisabetha, auf Pappe gedruckte Tondrucke; stark dunkel; 17:15 cm.Maria am Kreuz, kolorierter Stahlstich, A.Leitner sc.;Kleinformat; Maler amabalis, Stahlstich von F. Fleischmann;Kleinformat. Maria auf Mondsichel, Axmann sc., Stahlstich;Kleinformat.Kruzifix； G. G.Endner sc. —Maria von Schwadowitz mit Kloster;A.Neklischek sc.; Kleinformat.—Kreuz und Marterwerkzeuge; Kupfer, klein.",2690,99.5,False,positional,,,STICHE,,
-BO0624_88167,321260,691,95,Kupferstiche mit breitem Rand. Hochformat; von K. L. Schuler (1784—1852).,2785,97.8,False,positional,,,KUPFERSTICHE,,
+BO0624_88167,321260,691,95,Kupferstiche mit breitem Rand. Hochformat; von K. L. Schuler (1784—1852).,2785,97.8,False,positional,,,KUPFERSTICHE,,Sec. XVIII
 BO0624_88167,321261,692,19,:13cm.,2787,72.7,False,positional,,,KUPFERSTICHE,,
-BO0624_88167,321262,693,16,"17. Jahrh. Fr. Joannes de la Cassiere Quinquages. N.Magister 1571. Muiller sc, Medaillon mit Schriftrandung.— Fr. Raymundus Perellos, Roccaful, 1697; ebenso;beschnitten und aufgeklebt. 19:14 cm.",2821,99.2,False,positional,,,KUPFER,,
+BO0624_88167,321262,693,16,"17. Jahrh. Fr. Joannes de la Cassiere Quinquages. N.Magister 1571. Muiller sc, Medaillon mit Schriftrandung.— Fr. Raymundus Perellos, Roccaful, 1697; ebenso;beschnitten und aufgeklebt. 19:14 cm.",2821,99.2,False,positional,,,KUPFER,,Sec. XVII
 BO0624_88167,321263,694,I,llustrationen: GefaBe.- Gotzen der Hinduer.—Verschiedene GroBen.,2939,99.2,False,positional,,,KUPFERSTICHE,,
-BO0624_88167,321264,695,15,"Aubust 1845. Illustrationsholzschnitt, war zweimal gefaltet, stark beschnitten",2968,98.0,False,positional,,,KUPFERSTICHE,,
+BO0624_88167,321264,695,15,"Aubust 1845. Illustrationsholzschnitt, war zweimal gefaltet, stark beschnitten",2968,98.0,False,positional,,,KUPFERSTICHE,,Sec. XIX
 BO0624_88167,321265,696,I,"llustrationen: Der Thron der Konigin Victora im Hause der Lords: V. Rothig grav. 24:19 cm.Molieres Denkmal; Kupferstich, sch; Ornamentstich. 22:13 cm.",2994,99.6,False,positional,,,LITHOGRAPHIEN,,
 BO0624_88167,321266,697,14,":8cm.— Kaiser Karl der GroBe mit Krone und Insignien, Rundportrat aus Bildnis eines Kapuziners; A.Luciani sc. 14:9 cm.",3080,98.7,False,positional,,,STICHE,,
 BO0624_88167,321267,698,33,:24cm.,3084,72.7,False,positional,,,STICHE,,

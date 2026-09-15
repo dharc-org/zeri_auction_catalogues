@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83930,31984,1,2,"## BONINGTON mportant tableau, signe et date:1827.",41,88.9,False,title_direct,BONINGTON,,,,
+BO0624_83930,31984,1,2,"## BONINGTON mportant tableau, signe et date:1827.",41,88.9,False,title_direct,BONINGTON,,,,Sec. XIX
 BO0624_83930,31985,2,3,Plage a maree basse.,49,95.0,False,positional,BONINGTON,,,,
 BO0624_83930,31986,3,8,La Ferme.,90,88.9,False,positional,LAWRENCE,,,,
 BO0624_83930,31987,4,10,## REYNOLDS,136,100.0,False,title_direct,REYNOLDS,Scuola di Joshua Reynolds,,,

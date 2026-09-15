@@ -1,29 +1,29 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88731,654278,1,1,SCRIPTORES REI RUSTICAE. 2 Bde.Leipzig 1773-74.Mit Titelkupfer von Picart. Hlbfrz.,7,98.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654279,2,2,J.CURTIUS. 1827-30.Gzl.,9,97.7,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654280,3,3,NIC. BEETS.Dichtwerken. 3 Bde. Amsterdam 1876. Hlbfrz.,10,98.0,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654281,4,4,BILDERDIJK. Dichtwerken.15 Bde. Haarlem 1856-59. Dazu 2 Biographien von,11,98.6,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654282,5,5,JAKOB CATS. Alle Werken. 2 Bde.Zwolle 1862. Gzl.,13,97.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654283,6,6,DA COSTA.Kompleete Dichtwerken.3 Bde.Haarlem 1861.Gzl.,14,99.1,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654284,7,7,HILDEBRAND. Camera obscura. Haarlem 1877. Gzl.,15,98.8,False,positional,HILDEBRANDT EDUARD,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654285,8,8,W.I. A. JONCKBLOET.Geschiedenis der Nederlandsche Letterkunde.2 Bde. Groningen 1874. Hlbfrz.,16,99.4,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654286,9,9,J.VAN LENNEP. Romantische u. poetische Werken. 36 Bde. Rotterdam 1860. Gzl.,17,98.6,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654287,10,10,J.VAN MAERLANT. Spiegel historiael. 4 Bde. Leiden 1863. Hibfrz.,18,97.5,False,positional,,,SPECCHI,,
-BO0624_88731,654288,11,11,VONDEL.Werken. 12 Bde. Amsterdam 1869. Hlbfrz.,19,96.6,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654289,12,12,DE CUSTINE. L'Espagne sous Ferdinand VIl. 4 Bde. Paris 1838. Pappbde.,20,97.7,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654290,13,13,"DICTIONNAIRE HISTORIQUE.5 Bde.（Bd.2,5,6,7u.9).CaensLyon 1789.",21,97.5,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
+BO0624_88731,654278,1,1,SCRIPTORES REI RUSTICAE. 2 Bde.Leipzig 1773-74.Mit Titelkupfer von Picart. Hlbfrz.,7,98.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XVIII
+BO0624_88731,654279,2,2,J.CURTIUS. 1827-30.Gzl.,9,97.7,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654280,3,3,NIC. BEETS.Dichtwerken. 3 Bde. Amsterdam 1876. Hlbfrz.,10,98.0,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654281,4,4,BILDERDIJK. Dichtwerken.15 Bde. Haarlem 1856-59. Dazu 2 Biographien von,11,98.6,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654282,5,5,JAKOB CATS. Alle Werken. 2 Bde.Zwolle 1862. Gzl.,13,97.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654283,6,6,DA COSTA.Kompleete Dichtwerken.3 Bde.Haarlem 1861.Gzl.,14,99.1,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654284,7,7,HILDEBRAND. Camera obscura. Haarlem 1877. Gzl.,15,98.8,False,positional,HILDEBRANDT EDUARD,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654285,8,8,W.I. A. JONCKBLOET.Geschiedenis der Nederlandsche Letterkunde.2 Bde. Groningen 1874. Hlbfrz.,16,99.4,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654286,9,9,J.VAN LENNEP. Romantische u. poetische Werken. 36 Bde. Rotterdam 1860. Gzl.,17,98.6,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654287,10,10,J.VAN MAERLANT. Spiegel historiael. 4 Bde. Leiden 1863. Hibfrz.,18,97.5,False,positional,,,SPECCHI,,Sec. XIX
+BO0624_88731,654288,11,11,VONDEL.Werken. 12 Bde. Amsterdam 1869. Hlbfrz.,19,96.6,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654289,12,12,DE CUSTINE. L'Espagne sous Ferdinand VIl. 4 Bde. Paris 1838. Pappbde.,20,97.7,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654290,13,13,"DICTIONNAIRE HISTORIQUE.5 Bde.（Bd.2,5,6,7u.9).CaensLyon 1789.",21,97.5,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88731,654291,14,14,CH. DE KOCK. Oeuvres. 16 Bde. Brissel 183033. Hlbfrz.,23,96.9,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654292,15,15,MONTAIGNE. Essais.3 Bde. Amsterdam 1781. Gzl. mit Goldpressung.,24,97.5,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654293,16,16,J. NEROULOS. Histoire moderne de la Grece. Genf 1828. Hlbl.,25,97.3,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654294,17,17,"OEUVRES DE LA LITTERATURE FRANCAISE. Stuttgart 1827-31. Bde. (Memoires de Constant,Jouy 'Hermite etc.)",26,70.2,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
+BO0624_88731,654292,15,15,MONTAIGNE. Essais.3 Bde. Amsterdam 1781. Gzl. mit Goldpressung.,24,97.5,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XVIII
+BO0624_88731,654293,16,16,J. NEROULOS. Histoire moderne de la Grece. Genf 1828. Hlbl.,25,97.3,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654294,17,17,"OEUVRES DE LA LITTERATURE FRANCAISE. Stuttgart 1827-31. Bde. (Memoires de Constant,Jouy 'Hermite etc.)",26,70.2,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88731,654295,18,18,A.M.De SAINT-EUREMOND. Oeuvres.7 Bde. Orig.Pappbde.,28,97.0,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654296,19,19,DE SEGUR. Histoire universelle. 10 Bde. Brissel 1922. Hibfrz.,29,97.4,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654297,20,20,FAMIANUS STRADA. Histoire de la guerre de Flandre.4 Bde.12°. Paris 1654.,30,97.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
+BO0624_88731,654296,19,19,DE SEGUR. Histoire universelle. 10 Bde. Brissel 1922. Hibfrz.,29,97.4,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XX
+BO0624_88731,654297,20,20,FAMIANUS STRADA. Histoire de la guerre de Flandre.4 Bde.12°. Paris 1654.,30,97.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XVII
 BO0624_88731,654298,21,21,EUG. SUE. Les mysteres de Paris. 1. Ausgabe. 3 Bde. Koln o. J. Gzl.,32,97.5,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654299,22,22,VOYAGE AUTOUR DU MONDE 1830-32. 4 Bde.Paris 1833. Pappbde.,33,97.3,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
+BO0624_88731,654299,22,22,VOYAGE AUTOUR DU MONDE 1830-32. 4 Bde.Paris 1833. Pappbde.,33,97.3,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88731,654300,23,23,"KONVOLUT. 9 Bde. Holland.Literatur: ten Kate,ter Haar,Melis Stoke.",34,97.6,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
 BO0624_88731,654301,24,24,DESGL.7 Bde. Frz.Literatur (BULWER:Les Anglais;LESSEPS:Voyage de la,35,97.7,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654302,25,25,DESGL. 6 Bde. Tirkei u. Griechenland in der ersten Halfte des 19. Jahrh.,37,97.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
+BO0624_88731,654302,25,25,DESGL. 6 Bde. Tirkei u. Griechenland in der ersten Halfte des 19. Jahrh.,37,97.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88731,654303,26,26,DESGL.11 Bde. Franzos.Klassiker in alten Ausgaben etc.,38,97.2,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
 BO0624_88731,654304,27,27,DESGL. 7 Bde. Franzos. Literatur (Histoire des sept sages; Vie de Bacon etc.).,39,97.9,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
 BO0624_88731,654305,28,28,"DESGL. 21 Bde. Franzosisch. (Alte Ausgabe von ROUSSEAUS ,Nouvelle Heloise"",Pensees de PASCAL etc.).",40,98.4,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
@@ -47,18 +47,18 @@ BO0624_88731,654322,45,48,"A.BONETTI, StraBe in Neapel.—Holz, sig. Gr.40 X 27 
 BO0624_88731,654323,46,49,"H. CORRODI, Ochsengespann u. Hirtenzelt an der Via Appia in der Campagne.— Lwd.,sign.Gr.85X 163 cm.S.-R. Abbildung Tafel 21",63,98.7,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
 BO0624_88731,654324,47,50,DESGL. Blick auf Konstantinopel von der Bricke nach Pera aus. Auf dieser leb-,64,98.0,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
 BO0624_88731,654325,48,51,"52 A. COSTA. Esel beim Futter.Kopfe zweier Esel.—Holz u.Lwd.,ein Bild sign.Gr.24X38bzw.42cm.G.-R.",66,98.4,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88731,654326,49,53,"A.EDELFELT. Bildnis der Erbprinzessin Charlotte von Meiningen.-Pastell, sign. u.dat.1903.Gr.70X110cm.G.-R.",67,98.5,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
+BO0624_88731,654326,49,53,"A.EDELFELT. Bildnis der Erbprinzessin Charlotte von Meiningen.-Pastell, sign. u.dat.1903.Gr.70X110cm.G.-R.",67,98.5,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XX
 BO0624_88731,654327,50,54,"KAISERIN FRIEDRICH. Stilleben: Glas, StrauBfederfacher, GoldgefaB u.a.-Lwd, sign.Gr.48X38cm.G.-R.",68,98.3,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
 BO0624_88731,654328,51,55,"DESGL.Bildnis der jungen Herzogin von Argyll.-Lwd.,im Oval. Gr.60 X 46 cm.",69,97.9,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654329,52,56,"ALB.HERTEL. Alpenlandschaft bei Grindelwald. Aquarell, sign. 1878. Gr.37×27cm. Gerahmt.",71,98.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
+BO0624_88731,654329,52,56,"ALB.HERTEL. Alpenlandschaft bei Grindelwald. Aquarell, sign. 1878. Gr.37×27cm. Gerahmt.",71,98.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88731,654330,53,5758,"R.MAINELLA. Zwei venezianische Ansichten.Aquarelle, sign. Gr.31 X 16 cm. Gerahmt.",72,96.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
 BO0624_88731,654331,54,59,"DESGL. Shah-sade-Platz in Konstantinopel. - Aquarell, sign. Gr. 33X 18 cm. Gerahmt.",73,98.0,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654332,55,60,63 MAINZER MALER um 1800.Vier Gouache-Darstellungen von Kampfen Kur-,74,97.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654333,56,64,"LECOMTE DU NOUY. Napoleon Bonaparte,bei Kerzenlicht in Caesars ,Bellum gallicumlesend -Lwd., sign.u. dat.1897.Gr.64X 49 cm.G.-R. Abbildung Tafel 20",76,98.9,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
+BO0624_88731,654332,55,60,63 MAINZER MALER um 1800.Vier Gouache-Darstellungen von Kampfen Kur-,74,97.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88731,654333,56,64,"LECOMTE DU NOUY. Napoleon Bonaparte,bei Kerzenlicht in Caesars ,Bellum gallicumlesend -Lwd., sign.u. dat.1897.Gr.64X 49 cm.G.-R. Abbildung Tafel 20",76,98.9,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88731,654334,57,65,"DERSELBE. Bildnis der Erbprinzessin Charlotte von Meiningen. - Pastell, sign. Gr.36X28cm G.-R.",77,98.3,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654335,58,66,"HERM.PRELL, Gesellschaft in Unterhaltung.-Aquarell, sign. Sibyllenort 16.5.1902. Gr.34X21 cm.Gerahmt.",78,98.4,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
+BO0624_88731,654335,58,66,"HERM.PRELL, Gesellschaft in Unterhaltung.-Aquarell, sign. Sibyllenort 16.5.1902. Gr.34X21 cm.Gerahmt.",78,98.4,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XX
 BO0624_88731,654336,59,67,"MAX RABES. Lachendes Beduinenmadchen. Aquarell, sign.93. Gr.14X 11 cm. Geschnitzter G.-R.",79,98.2,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
-BO0624_88731,654337,60,68,"F. RIES um 1820. Bildnis der Schwester der GroBherzogin Maria Pawlowna von Weimar, spatere Konigin von Holland.Pastell, sign. Gr. 63 X 49 cm. S.R.",80,98.9,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
+BO0624_88731,654337,60,68,"F. RIES um 1820. Bildnis der Schwester der GroBherzogin Maria Pawlowna von Weimar, spatere Konigin von Holland.Pastell, sign. Gr. 63 X 49 cm. S.R.",80,98.9,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88731,654338,61,69,"C.SALTZMANN, Allee am Seestrand.-Malpappe, sign.82. Gr.28 X 20 cm. Geschnitzter G.-R.",81,98.1,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
 BO0624_88731,654339,62,70,"A. SCHNEIDT, SchloB im deutschen Mittelgebirge.—Lwd., sign. Gr. 39 X 28 cm.",82,97.8,False,positional,,,BUCHER; GRAPHIK; GEMALDE,,
 BO0624_88731,654340,63,71,"SEIDEN-LAMBREQUIN,lachsrote Seide mit Goldstickerei-Streifen. Breite 2,30 m.",91,98.0,False,positional,,,TEXTILIEN; GOBELINS; TEPPICH,,
@@ -83,9 +83,9 @@ BO0624_88731,654358,81,84,"JAPANISCHE STICKEREIDECKE, lachsrote Seide, mit Blume
 BO0624_88731,654359,82,85,"CHINESISCHER WANDBEHANG,lachsrote Seide,mit Nadelmalerei:Bartiger Mann mit zwei Knaben in einer Parklandschaft.",120,98.7,False,positional,,,TEXTILIEN; GOBELINS; TEPPICH,,
 BO0624_88731,654360,83,86,"87ZWEI JAPANISCHE STICKEREISCHALS,schwarzerSamt mit schwererSilberstickerei und Nadelmalereien:Fasanen und fliegende Tauben zwischen bluihenden",121,99.0,False,positional,,,TEXTILIEN; GOBELINS; TEPPICH,,
 BO0624_88731,654361,84,88,"GROSSER CHINESISCHER WANDBEHANG,lachsrote Seide: Kaiser in einem",123,97.7,False,positional,,,TEXTILIEN; GOBELINS; TEPPICH,,
-BO0624_88731,654362,85,89,"DESGL.,kleiner,blaBrosa,mit groBen Drachen-Motiven. Abbildung Tafel 19 a LOUIS-XIV.BETTDECKE, Seide.Taubenblaues, rechteckiges Mittelfeld, rot abgesetzt, gelbe Borde, taubenblau abgesetzt. Auf dem Mittelfeld und der Borde chinesierende,figurliche Applikationsstickerei.Frankreich.Um 1720.",129,85.9,False,positional,,,TEXTILIEN; GOBELINS; TEPPICH,,
+BO0624_88731,654362,85,89,"DESGL.,kleiner,blaBrosa,mit groBen Drachen-Motiven. Abbildung Tafel 19 a LOUIS-XIV.BETTDECKE, Seide.Taubenblaues, rechteckiges Mittelfeld, rot abgesetzt, gelbe Borde, taubenblau abgesetzt. Auf dem Mittelfeld und der Borde chinesierende,figurliche Applikationsstickerei.Frankreich.Um 1720.",129,85.9,False,positional,,,TEXTILIEN; GOBELINS; TEPPICH,,Sec. XVIII
 BO0624_88731,654363,86,90,"FRANZOSISCHER GOBELIN,17. JAHRHUNDERT (FRAGMENT). Silvius,Zur Jagd",133,97.6,False,title_direct,,,OGGETTI VARI,,
-BO0624_88731,654364,87,90,"a FRANZ.GOBELIN ANFANG DES 18.JAHRHUNDERTS.Wolle mit Seide:Waldlandschaft mit Durchblick auf ein SchloB. Im Vordergrund ein springender Hirsch. b DESGL.,ANFANG DES 18. JAHRHUNDERTS. WOLLE MIT SEIDE:Waldlandschaft mit Durchblick auf ein SchloB. Im Vordergrund zwei sich auf. einem Weiher jagende Enten. Rankenborde auf blauem Grund. 325:160 cm. (Gegenstick zu voriger Nummer.)",137,75.3,False,title_direct,,,GOBELINS,,
+BO0624_88731,654364,87,90,"a FRANZ.GOBELIN ANFANG DES 18.JAHRHUNDERTS.Wolle mit Seide:Waldlandschaft mit Durchblick auf ein SchloB. Im Vordergrund ein springender Hirsch. b DESGL.,ANFANG DES 18. JAHRHUNDERTS. WOLLE MIT SEIDE:Waldlandschaft mit Durchblick auf ein SchloB. Im Vordergrund zwei sich auf. einem Weiher jagende Enten. Rankenborde auf blauem Grund. 325:160 cm. (Gegenstick zu voriger Nummer.)",137,75.3,False,title_direct,,,GOBELINS,,Sec. XVIII
 BO0624_88731,654365,88,91,"ALTAR-VORHANG,17. JAHRHUNDERT.Griner Samtspiegel, von Point-Blumenstickerei bekront. Point-Borde in Form von Blumen und Frichtefestons,von ovalen Medaillons in Seidenmalerei durchsetzt. 367X 290 cm. (Ein Geschenk Francois 1. an Diana von Poitiers.) Abbildung Tafel 1",138,99.4,False,positional,,,TEXTILIEN; GOBELINS; TEPPICH,,
 BO0624_88731,654366,89,92,"ALTER PERSISCHER TEPPICH (ISPAHAN). Im Mittelfeld auf dunkelrotem Grund zwischen Rankenwerk weidende Pferde,springende Leoparden und Tiger in Gelb und Blau. Breite Blumenbordire. GroBe 2,57 X 3,10 m. Abbildung Tafel 18",139,99.3,False,title_direct,,,TEPPICH,,
 BO0624_88731,654367,90,9394,ZWEI BAROCK-HOCKER auf vier BalusterfiBen mit Stegverbindung. Rotes,144,96.4,False,positional,,,MOBEL; BELEUCHTUNGEN,,
@@ -93,14 +93,14 @@ BO0624_88731,654368,91,95,"96 ZWEI DESGL.,ebenso.",146,93.0,False,positional,,,M
 BO0624_88731,654369,92,97,"SCHREIB-CHIFFONIERE im Louis-XVI.-Stil, Mahagoni mit Fadeneinlagen, vier Schubkasten; die Schreibplatte mit braunem Friesbezug.",147,98.8,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654370,93,98,"ENGLISCHES LESETISCHCHEN,Mahgoni,schmale Form.",148,96.8,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654371,94,99,"LOUIS-XVI.-SESSEL, Mahagoni, geschweifte FiBe, Zarge und Ricklehne mit geschnitzter Gemme.Grauer Seidenbezug.",149,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654372,95,100,"RENAISSANCE-AUSZIEHTISCH,Eiche.Deutsch. 17. Jahrhundert.",150,96.4,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654373,96,101,"LOUIS-XV.-FAUTEUIL, Buche mit rotem Satinbezug. Sidwestdeutsch. Um 1750. Abbildung Tafel 16",151,97.7,False,positional,,Periodo di Luigi XV,SCOMPARTI,,
+BO0624_88731,654372,95,100,"RENAISSANCE-AUSZIEHTISCH,Eiche.Deutsch. 17. Jahrhundert.",150,96.4,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVII
+BO0624_88731,654373,96,101,"LOUIS-XV.-FAUTEUIL, Buche mit rotem Satinbezug. Sidwestdeutsch. Um 1750. Abbildung Tafel 16",151,97.7,False,positional,,Periodo di Luigi XV,SCOMPARTI,,Sec. XVIII
 BO0624_88731,654374,97,102,"BAROCK-BRONZEKRONLEUCHTER, zWeietagig,12flammig,12kerzig.Holland. 18.Jahrhundert.",152,97.5,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654375,98,103,"ALTE BOULLE-KAMINUHR,als Bekronung die feuervergoldete Bronzefigur eines liegenden Madchens. Das vergoldete Zifferblatt signiert:Fr. Xaver Gegenreier-",153,98.7,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654376,99,104,"GROSSER MAHAGONI-EMPIRETISCH,rechteckig,in der Platte weiBes Marmoroval fuir Blumen.GroBe der Platte 154X96 cm.Um 1800.",155,98.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654377,100,105,"BREITE EMPIRE-POLSTERBANK ohne Rucklehne,grauer Seidenbezug. Um 1805.",156,97.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654376,99,104,"GROSSER MAHAGONI-EMPIRETISCH,rechteckig,in der Platte weiBes Marmoroval fuir Blumen.GroBe der Platte 154X96 cm.Um 1800.",155,98.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XIX
+BO0624_88731,654377,100,105,"BREITE EMPIRE-POLSTERBANK ohne Rucklehne,grauer Seidenbezug. Um 1805.",156,97.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XIX
 BO0624_88731,654378,101,106,"HALBRUNDER SCHRANK im Louis-XVI.-Stil, Mahagoni mit Rautenintarsien und Messinglinien, Unterteil konsolartig, die beiden Aufsatze sich nach oben verjungend.",157,98.7,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654379,102,107,"FRIESISCHE TRUHENBANK mit baldachinartigem Uberbau auf gedrehten Saulenfuillungen und Pilaster, sehr reich,zum Teil figural geschnitzt. Um 1780.",159,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654379,102,107,"FRIESISCHE TRUHENBANK mit baldachinartigem Uberbau auf gedrehten Saulenfuillungen und Pilaster, sehr reich,zum Teil figural geschnitzt. Um 1780.",159,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88731,654380,103,108,"DESGL.,ahnlich.",160,86.7,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654381,104,109,"GROSSE STANDUHR im Empirestil, Mahagoni mit Messingbeschlagen, Uhrwerk",161,97.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654382,105,110,"SALONTISCHCHEN im Empirestil,Mahagoni mit Messingstreifen und Goldbronze-",163,97.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,
@@ -111,16 +111,16 @@ BO0624_88731,654386,109,116,"PAGENBANK im Louis-XVI.-Stil, geschnitztes und verg
 BO0624_88731,654387,110,117,"BAROCKSPIEGEL,holzgeschnitzt und vergoldet,geschliffene Spiegelplatte,mit ge-",172,97.4,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654388,111,118,ITALIENISCHER RENAISSANCE-SCHREIBTISCH in Form einer groBen Sakristei-,174,97.2,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654389,112,119,"KLAVIER-HOCKER,gedrehte vergoldete FiBe,grauer Bezug.",176,96.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654390,113,120,"LOUIS-XVI.-KOMMODCHEN,zweischibig mit Marmorplatte. Satinholz mit Zitronenholzintarsien. Frankreich. Ende des 18. Jahrhunderts. Abbildung Tafel 13",177,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654390,113,120,"LOUIS-XVI.-KOMMODCHEN,zweischibig mit Marmorplatte. Satinholz mit Zitronenholzintarsien. Frankreich. Ende des 18. Jahrhunderts. Abbildung Tafel 13",177,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88731,654391,114,121,"RENAISSANCE-LEHNSESSEL, Buche, mit perserartigem gros-point-Bezug. Gestell und Bezug Frankreich,17.Jahrhundert. Abbildung Tafel 8",178,98.4,False,positional,,,POLTRONE,,
-BO0624_88731,654392,115,122,"LOUIS-XV.-TISCHCHEN. NuBholz, einschibig mit JalousieverschluB. Um 1760.",179,97.1,False,positional,,Periodo di Luigi XV,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654393,116,123,"RENAISSANCE-BACKENSESSEL.Buche,mit groBblumigem gros-point-Bezug. Bezug und Gestel. Frankreich. Um 1680. Abbildung Tafel 17",180,98.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654392,115,122,"LOUIS-XV.-TISCHCHEN. NuBholz, einschibig mit JalousieverschluB. Um 1760.",179,97.1,False,positional,,Periodo di Luigi XV,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
+BO0624_88731,654393,116,123,"RENAISSANCE-BACKENSESSEL.Buche,mit groBblumigem gros-point-Bezug. Bezug und Gestel. Frankreich. Um 1680. Abbildung Tafel 17",180,98.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVII
 BO0624_88731,654394,117,124,"BRONZE-KRONLEUCHTER im Stil des hollandischen Barock,zweietagig,12armig, 12kerzig.",181,97.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654395,118,125,"FRANZOSISCHE EMPIRE-STANDUHR, Mahagoni, Pendelgehause nach oben leicht verjungt,das Zifferblatt in schwerem, trommelartigem Gehause. Das Messingpendel auslaufend in ein von einem Strahlenkranze umgebenes Gorgonenhaupt.",182,99.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654396,119,126,"ROKOKO-PAGENBANK,zweisitzig,geschweifte FuBe,Zargen der Stirnseite doppelt gebogt und mit Rocaillen verziert. 18. Jahrhundert. Weinroter,in sich gemusterter",186,98.7,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654396,119,126,"ROKOKO-PAGENBANK,zweisitzig,geschweifte FuBe,Zargen der Stirnseite doppelt gebogt und mit Rocaillen verziert. 18. Jahrhundert. Weinroter,in sich gemusterter",186,98.7,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88731,654397,120,127,ROTLACK-VITRINE mit Golddekor in chinesischem Stil. Elektrische Innenbeleuch-,188,97.4,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654398,121,128,"ITALIENISCHE RENAISSANCE-TRUHE in Sarkophagform mit altem venezian. Samtbezug und vergoldeten, zum Teil figuralen Schnitzereien. Breite 1,79 m.",190,98.6,False,positional,,,BAULI,,
-BO0624_88731,654399,122,129,"30 ZWEI ITALIENISCHE BAROCKSESSEL mit hohen gepolsterten Ricklehnen, NuBholz,die FiBe in Pilasterform und durch gewellte Kreuzstege verbunden, die breiten Armlehnen laufen in Voluten aus. Rote Damastbezige. 17. Jahrhundert. Abbildung Tafel 5",194,99.2,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654399,122,129,"30 ZWEI ITALIENISCHE BAROCKSESSEL mit hohen gepolsterten Ricklehnen, NuBholz,die FiBe in Pilasterform und durch gewellte Kreuzstege verbunden, die breiten Armlehnen laufen in Voluten aus. Rote Damastbezige. 17. Jahrhundert. Abbildung Tafel 5",194,99.2,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVII
 BO0624_88731,654400,123,131,"BAROCKSCHRANK, Eiche mit NuBholzfuillungen und Intarsien. Niedriges, kom-",195,97.2,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654401,124,132,"BAROCK-KOMMODE,NuBholz mit Intarsien,drei Schubkasten.",197,96.4,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654402,125,133,"VENEZIANISCHER LOUIS-XVI.-KONSOLTISCH,rechteckig,auf vier kannelierten",198,97.2,False,positional,,,MOBEL; BELEUCHTUNGEN,,
@@ -128,39 +128,39 @@ BO0624_88731,654403,126,134,"DESGL., ebenso.",200,85.7,False,positional,,,MOBEL;
 BO0624_88731,654404,127,135,"DESGL.,kleiner. Breite 110 cm.(Erganzt.)",201,94.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654405,128,136,"DESGL., ebenso.",202,85.7,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654406,129,137,"GROSSER AUSZIEHTISCH,Eiche,mit Einlagen.",203,95.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654407,130,138,"LOUIS-XVI.-RUHESOFA,italienisches NuBholz,glatte Zarge mit Perlband, runde kannelierte FiBe,Seitenlehnen ringformig durchbrochen.Roter Bezug.Um 1780.",204,99.0,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654408,131,139,"DESGL.,resedagrin gestrichen,Schnitzereien vergoldet. In den Seitenlehnen ovale Polsterung. Roter Bezug. Um 1790.",205,98.2,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88731,654407,130,138,"LOUIS-XVI.-RUHESOFA,italienisches NuBholz,glatte Zarge mit Perlband, runde kannelierte FiBe,Seitenlehnen ringformig durchbrochen.Roter Bezug.Um 1780.",204,99.0,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
+BO0624_88731,654408,131,139,"DESGL.,resedagrin gestrichen,Schnitzereien vergoldet. In den Seitenlehnen ovale Polsterung. Roter Bezug. Um 1790.",205,98.2,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88731,654409,132,140,"KAMIN-UHR,Rokokoform,grin gestrichen, Goldbronzebeschlage. Hohe 71 cm. 18.Jahrhundert.",206,97.6,False,positional,,,CAMINI,,
-BO0624_88731,654410,133,141,"LOUIS-XIll.-FAUTEUIL,Buche, mit groBblumigem gros-point-Bezug auf cremefarbenem Fond. Gestell und Bezug Mitte des 17. Jahrhuderts.Abbildung Tafel 17",207,98.6,False,positional,,,SCOMPARTI,,
-BO0624_88731,654411,134,142,"LOUIS-XV.-BUCHERTISCHCHEN,Eiche.Um 1750. Abbildung Tafel 10",208,96.6,False,title_direct,,Periodo di Luigi XV,BUCHER,,
-BO0624_88731,654412,135,143,"RENAISSANCE-LEHNSESSEL,NuBholz,reich geschnitztes Gestell mit groBblumigem gros-point-Bezug.Um 1680. (Bezug spater.) Abbildung Tafel 8",209,98.5,False,positional,,,POLTRONE,,
-BO0624_88731,654413,136,144,"LOUIS-XIV.KOMMODE,dreischibig,NuBholz,mit Original-Bronzebeschlagen.An der rechten Schmalseite eine Lade. Siddeutsch. Um 1700. Abbildung Tafel 11",210,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654410,133,141,"LOUIS-XIll.-FAUTEUIL,Buche, mit groBblumigem gros-point-Bezug auf cremefarbenem Fond. Gestell und Bezug Mitte des 17. Jahrhuderts.Abbildung Tafel 17",207,98.6,False,positional,,,SCOMPARTI,,Sec. XVII
+BO0624_88731,654411,134,142,"LOUIS-XV.-BUCHERTISCHCHEN,Eiche.Um 1750. Abbildung Tafel 10",208,96.6,False,title_direct,,Periodo di Luigi XV,BUCHER,,Sec. XVIII
+BO0624_88731,654412,135,143,"RENAISSANCE-LEHNSESSEL,NuBholz,reich geschnitztes Gestell mit groBblumigem gros-point-Bezug.Um 1680. (Bezug spater.) Abbildung Tafel 8",209,98.5,False,positional,,,POLTRONE,,Sec. XVII
+BO0624_88731,654413,136,144,"LOUIS-XIV.KOMMODE,dreischibig,NuBholz,mit Original-Bronzebeschlagen.An der rechten Schmalseite eine Lade. Siddeutsch. Um 1700. Abbildung Tafel 11",210,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88731,654414,137,145,"RENAISSANCE-TABURETT,NuBholz,mit groBblumigem gros-point-Bezug. Um (Bezug spater.)",211,88.4,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654415,138,146,"KOMMODE im Louis-XV.Stil, zweischibig,Rosenholz,mit reichen Goldbronzebeschlagen und Marmorplatte.",213,98.5,False,positional,,Periodo di Luigi XV,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654416,139,147,LEHNSESSEL im Barockstil mit rotem Velourbezug. Reich geschnitztes Gestell,214,97.3,False,positional,,,POLTRONE,,
 BO0624_88731,654417,140,148,"KLAVIERBANK im Louis-XIV.-Stil,vergoldetes Gestell mit groBblumigem Stickereibezug auf hellem Seidengrund. a ECKKOMMODE,imLouis-XVI.-Stil,Rosenholz,marquettiert,eintirig,mit Marmorplatte.",216,71.5,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654418,141,149,"LOUIS-XIV.-FAUTEUIL,Buche,mit kleinblumigem petit-point-Bezug.Um 1700.",218,97.1,False,positional,,,SCOMPARTI,,
-BO0624_88731,654419,142,150,"HOLLANDISCHE BAROCK-STANDUHR,NuBholz,mit Goldbronzeverzierungen. Als Bekronung drei Bronzefiguren. Um 1700.",219,98.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654418,141,149,"LOUIS-XIV.-FAUTEUIL,Buche,mit kleinblumigem petit-point-Bezug.Um 1700.",218,97.1,False,positional,,,SCOMPARTI,,Sec. XVIII
+BO0624_88731,654419,142,150,"HOLLANDISCHE BAROCK-STANDUHR,NuBholz,mit Goldbronzeverzierungen. Als Bekronung drei Bronzefiguren. Um 1700.",219,98.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88731,654420,143,151,"LOUIS-XVI.-SESSEL,Mahagoni, mit schmalen Messinglinien, rechteckige Rucklehne",220,97.4,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654421,144,152,"PARAVENT, holzgeschnitztes und vergoldetes Louis-XV.-Gestell, die Bespannung Stramin- und Perlstickerei: Doppelbildnis zweier Damen in einem Blumenkranz. Abbildung Tafel 16",222,98.8,False,positional,,Periodo di Luigi XV,ARREDAMENTI,,
 BO0624_88731,654422,145,153,"PAGENBANK,im Empirestil, Mahagoni, die Stitzen der Armlehnen in Schwanen-",223,97.2,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654423,146,154,"HOLLANDISCHE BAROCK-MESSINGKRONE,je 12 Lichtarme in zwei Etagen. Schaft nach unten abgeschlossen durch eine Kugel, nach oben durch kreisformige Saulenstellung und preuBischen Konigsadler. Um 1700.",225,99.0,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654424,147,155,"ALTER SCHLESISCHER VORRATSSCHRANK, zweitirig, verschiedenfarbig gestrichen, auf den Tiren je zwei geschnitzte Fuillungen. Um 1700. (Aus dem Riesen-",226,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654423,146,154,"HOLLANDISCHE BAROCK-MESSINGKRONE,je 12 Lichtarme in zwei Etagen. Schaft nach unten abgeschlossen durch eine Kugel, nach oben durch kreisformige Saulenstellung und preuBischen Konigsadler. Um 1700.",225,99.0,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
+BO0624_88731,654424,147,155,"ALTER SCHLESISCHER VORRATSSCHRANK, zweitirig, verschiedenfarbig gestrichen, auf den Tiren je zwei geschnitzte Fuillungen. Um 1700. (Aus dem Riesen-",226,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88731,654425,148,156,"FRANZOSISCHES BUREAU-PLAT,im Louis-XV.-Stil, verschiedene Holzer,Goldbronzebeschlage. Schreibplatte mit Maroquinleder bezogen,auf ihr ein Schrankchen",228,98.6,False,positional,,Periodo di Luigi XV,PIATTI,,
 BO0624_88731,654426,149,157,"BAROCK-KINDERSESSEL,Unterteil in Form der Lutherstihle,die Bekronung der Riicklehne mit reichen Akanthusblatt-Schnitzereien. Alter Brokatbezug.17. Jahr-",233,98.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88731,654427,150,158,"ROKOKO-SESSEL,braun gestrichen, roter Atlasbezug. Abbildung Tafel 14",235,97.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654428,151,159,"HOHE KAMINUHR in schwarzem Holzgehause,altes Uhrwerk mit Doppelschlag von",236,97.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654429,152,160,"LOUIS-XVI.-ANRICHTE, Mahagoni,mit hellen Fadeneinlagen und Arabeskenbandern.",238,97.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654430,153,161,"62 ZWEI LOUIS-XVI.-SESSEL,NuBholz dunkel gebeizt,auf vier kannelierten FuBen. In der reichgeteilten Ruicklehne vier groBe Rosetten.Um 1780.Resedagriner Damastbezug. Abbildung Tafel 14",240,98.9,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654430,153,161,"62 ZWEI LOUIS-XVI.-SESSEL,NuBholz dunkel gebeizt,auf vier kannelierten FuBen. In der reichgeteilten Ruicklehne vier groBe Rosetten.Um 1780.Resedagriner Damastbezug. Abbildung Tafel 14",240,98.9,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88731,654431,154,163,"LOUIS-XVI.SCHREIBTISCH (NEUWIED), NuBholz mit Rosenholzbandern und",241,96.9,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654432,155,164,"69SECHS LOUIS-XVI.-STUHLE, Mahagoni, mit Messinglinien und BronzeFiBe kantig,ovale Riicklehne mit sockelformigem Mittelsteg, weinroter",243,98.5,False,positional,,,OGGETTI VARI,,
 BO0624_88731,654433,156,170,"RENAISSANCE-AUSZIEHTISCH,Eiche.Deutsch.17. Jahrhundert.",245,96.4,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654434,157,171,"FRUHRENAISSANCE-BUFETT, Eiche, zweitirig, vierschibig. Die Tirfillungen",246,97.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654435,158,172,"LOUIS-XV.KOMMODCHEN,zweischibig, NuBholz mit Marmorplatte. Mit OriginalBronzebeschlagen.Frankreich.18. Jahrhundert. Abbildung Tafel 6",248,98.5,False,positional,,Periodo di Luigi XV,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654436,159,173,"LOUIS-XV.-FAUTEUIL,NuBholz,mit gros- und petit-point-Bezug. Auf Sitz und Lehne Jagdszenen zeigend. Gestell und Bezug. Frankreich. Um 1750.",249,98.5,False,positional,,Periodo di Luigi XV,SCOMPARTI,,
-BO0624_88731,654437,160,174,"LOUIS-XV.FAUTEUIL,NuBholz,mit gros-und petit-point-Bezug auf Sitz und Lehne, Motive aus den Lafontaineschen Fabeln zeigend. Gestell und Bezug.Frankreich. Um 1750. Abbildung Tafel 15",253,98.9,False,positional,,Periodo di Luigi XV,SCOMPARTI,,
+BO0624_88731,654436,159,173,"LOUIS-XV.-FAUTEUIL,NuBholz,mit gros- und petit-point-Bezug. Auf Sitz und Lehne Jagdszenen zeigend. Gestell und Bezug. Frankreich. Um 1750.",249,98.5,False,positional,,Periodo di Luigi XV,SCOMPARTI,,Sec. XVIII
+BO0624_88731,654437,160,174,"LOUIS-XV.FAUTEUIL,NuBholz,mit gros-und petit-point-Bezug auf Sitz und Lehne, Motive aus den Lafontaineschen Fabeln zeigend. Gestell und Bezug.Frankreich. Um 1750. Abbildung Tafel 15",253,98.9,False,positional,,Periodo di Luigi XV,SCOMPARTI,,Sec. XVIII
 BO0624_88731,654438,161,175,"LOUIS-XV.-BUCHERTISCHCHEN,Eiche. Frankreich.18. Jahrhundert.",254,96.6,False,title_direct,,Periodo di Luigi XV,BUCHER,,
-BO0624_88731,654439,162,176,"REGENCE-KLAPPTISCH,Rosenholz satiniert. Auf der Platte mehrfigirige Einlage in Elfenbein, Silber und verschiedenfarbigen Holzern. Einschibig, mit feuervergoldeten Bronzebeschlagen und Bronzeschuhen.Paris.Um 1730. Abbildung Tafel 12",255,99.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654439,162,176,"REGENCE-KLAPPTISCH,Rosenholz satiniert. Auf der Platte mehrfigirige Einlage in Elfenbein, Silber und verschiedenfarbigen Holzern. Einschibig, mit feuervergoldeten Bronzebeschlagen und Bronzeschuhen.Paris.Um 1730. Abbildung Tafel 12",255,99.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88731,654440,163,177,"200 FUNF FRANZOSISCHE LOUIS-XV.-FAUTEUILS,Gestelle holzgeschnitzt und vergoldet mit reichen Rocaille-Schnitzereien.Rote altvenezianische Samtbezige.",256,98.6,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_88731,654441,164,202,"06FUNFDESGL.,6 ebenso.",257,90.9,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654442,165,207,"11 FUNFDESGL.,ebenso.",258,90.5,False,positional,,,MOBEL; BELEUCHTUNGEN,,
@@ -177,14 +177,14 @@ BO0624_88731,654452,175,228,"29 ZWEIMARMORBUSTEN DER KONIGIN VIKTORIA VON ENGLAN
 BO0624_88731,654453,176,230,"DAMENSCHREIBTISCH,Mahagoni,gebogte hohe FuBe,niedriger Aufsatz mit Schub-",276,97.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654454,177,231,"37 SIEBEN STUHLE im Empirestil, Mahagoni,mit Messinglinien, grine SaffianLederbezige.",278,97.6,False,positional,,,OGGETTI VARI,,
 BO0624_88731,654455,178,238,"44 SIEBEN DESGL.,ebenso.",279,91.7,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654456,179,245,"ENGLISCHE KAMINUHR,Holzgehause mit Lackmalereien, Messing-Zifferblatt, Uhrwerk von ANDR.PRIME-London mit eingebautem Barometer usw.Um 1700.Hohe 56cm. Abbildung Tafel25",280,98.8,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654457,180,246,"LOUIS-XIV.-KOMMODE,vierschibig,Polysander mit Marmorplatte und reichen feuervergoldeten Beschlagen.Frankreich.Um 1720. 130 cm br.Abbildung Tafel 2",281,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654458,181,247,"LOUIS-XVI.-CYLINDER-BUREAU, Acajou mit feuervergoldeten Bronzebeschlagen und Galerie sowie Marmorplatte. Unterteil dreischibig, rickseitig dreischibig mit je einer ausziehbaren Schreibplatte.An den Schmalseiten je eine ausziehbare Schreibplatte. Paris. Um 1760. (Wohl aus der Werkstatt des G.SCHLICHTIG,Hofebenist der Marie Antoinette).135X170 cm. Abbildung Tafel 10",282,99.4,False,positional,,,ACQUEFORTI,,
-BO0624_88731,654459,182,248,"59 ZWOLF RENAISSANCE-STUHLE,NuBbaum mit groBblumigem CordovaLederbezug. Frankreich um 1650. (Sechs Bezige erganzt.) Abbildung Tafel 17",283,98.5,False,positional,,,OGGETTI VARI,,
+BO0624_88731,654456,179,245,"ENGLISCHE KAMINUHR,Holzgehause mit Lackmalereien, Messing-Zifferblatt, Uhrwerk von ANDR.PRIME-London mit eingebautem Barometer usw.Um 1700.Hohe 56cm. Abbildung Tafel25",280,98.8,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
+BO0624_88731,654457,180,246,"LOUIS-XIV.-KOMMODE,vierschibig,Polysander mit Marmorplatte und reichen feuervergoldeten Beschlagen.Frankreich.Um 1720. 130 cm br.Abbildung Tafel 2",281,98.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
+BO0624_88731,654458,181,247,"LOUIS-XVI.-CYLINDER-BUREAU, Acajou mit feuervergoldeten Bronzebeschlagen und Galerie sowie Marmorplatte. Unterteil dreischibig, rickseitig dreischibig mit je einer ausziehbaren Schreibplatte.An den Schmalseiten je eine ausziehbare Schreibplatte. Paris. Um 1760. (Wohl aus der Werkstatt des G.SCHLICHTIG,Hofebenist der Marie Antoinette).135X170 cm. Abbildung Tafel 10",282,99.4,False,positional,,,ACQUEFORTI,,Sec. XVIII
+BO0624_88731,654459,182,248,"59 ZWOLF RENAISSANCE-STUHLE,NuBbaum mit groBblumigem CordovaLederbezug. Frankreich um 1650. (Sechs Bezige erganzt.) Abbildung Tafel 17",283,98.5,False,positional,,,OGGETTI VARI,,Sec. XVII
 BO0624_88731,654460,183,260,"RENAISSANCE-BUFETT.Achttirig, NuBbaum und Eiche.Die architektonisch ge-",284,97.2,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654461,184,261,"LOUIS-XVI.-KOMMODCHEN, dreischibig, Wurzel-NuBholz mit Bandintarsien und",286,97.2,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654462,185,262,63 EIN PAAR LOUIS-XV.-FRISIERSESSEL.Buche mit Rohrbezug. Frankreich. Mitte 18. Jahrhundert. Abbildung Tafel 6,288,98.1,False,positional,,Periodo di Luigi XV,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654463,186,264,"HOLLAND. BAROCK-STANDUHR, NuBholz, typische Form,auf KlauenfuiBen. Um 1720. Abbildung Tafel 4",289,97.8,False,positional,,,MOBEL; BELEUCHTUNGEN,,
+BO0624_88731,654462,185,262,63 EIN PAAR LOUIS-XV.-FRISIERSESSEL.Buche mit Rohrbezug. Frankreich. Mitte 18. Jahrhundert. Abbildung Tafel 6,288,98.1,False,positional,,Periodo di Luigi XV,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
+BO0624_88731,654463,186,264,"HOLLAND. BAROCK-STANDUHR, NuBholz, typische Form,auf KlauenfuiBen. Um 1720. Abbildung Tafel 4",289,97.8,False,positional,,,MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88731,654464,187,265,"67 SALONGARNITUR im Louis-XIV.-Stil, geschnitzte u. vergoldete Gestelle,graue",290,97.4,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654465,188,26869,"ZWEI FAUTEUILS im Louis-XV.-Stil, vergoldetes Gestell,hellgrauer geblimter Brokatbezug.",292,96.6,False,positional,,Periodo di Luigi XV,SCOMPARTI,,
 BO0624_88731,654466,189,270,"TISCHVITRINE,rechteckig,NuBholz u.Mahagoni,geschliffene Platte.",293,96.9,False,positional,,,MOBEL; BELEUCHTUNGEN,,
@@ -197,7 +197,7 @@ BO0624_88731,654472,195,276,"VERGOLD. TISCH im Renaissancestil,auf der Platte Da
 BO0624_88731,654473,196,277,WANDETAGERE im gleichen Stil.,305,93.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654474,197,278,279 ZWEIPOSTAMENTE im gleichen Stil.,306,94.6,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654475,198,280,"81 ZWEI LOUIS-XVI.-GOLDSESSEL, geschnitzt, Rohrsitz mit Sitzkissen (ein",307,97.1,False,positional,,,MOBEL; BELEUCHTUNGEN,,
-BO0624_88731,654476,199,282,"83 ZWEI LOUIS-XVI.-STUHLE,NuBholz,leicht geschwungene FuBe,in der Ricklehne vasenformiger geschnitzter Einsatz.Englisch.Um 1780.Abbildung Tafel7",309,98.6,False,positional,,,OGGETTI VARI,,
+BO0624_88731,654476,199,282,"83 ZWEI LOUIS-XVI.-STUHLE,NuBholz,leicht geschwungene FuBe,in der Ricklehne vasenformiger geschnitzter Einsatz.Englisch.Um 1780.Abbildung Tafel7",309,98.6,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_88731,654477,200,283,"a RENAISSANCE-MARMOR-KAMIN mit reichen Grotesken-Reliefs.Zwei iber Eck freistehende Saulen tragen die Deckplatte.Italien,17. Jahrhundert. 200:260 cm. （Befindet sich im SchloB zu Meiningen.) Abbildung Tafel 18",310,99.3,False,positional,,,CAMINI,,
 BO0624_88731,654478,201,284,MAHAGONI-BETTSTELLE mit Patent-Federboden.,311,95.3,False,positional,,,MOBEL; BELEUCHTUNGEN,,
 BO0624_88731,654479,202,285,"SCHERENSTUHL,Mahagoni, mit reichen Beineinlagen.",312,95.8,False,positional,,,MOBEL; BELEUCHTUNGEN,,
@@ -227,7 +227,7 @@ BO0624_88731,654502,225,315,"BIEDERMEIER-SCHIRMSTANDER,Mahagoni,Messing-Einsatz.
 BO0624_88731,654503,226,31617,ZWEI FRANZOs.TASSEN (Sevres-Marke). a) Kobaltblaue Medaillons mit Blumenranken u.Puttenszenen;b) Scharlachrote und Gold-Bander mit eingestreuten Blumen.,355,98.0,False,positional,,,OGGETTI IN ORO,,
 BO0624_88731,654504,227,318,"19 ZWEI BERLINER TASSEN, kobaltblau, mit Relief-Bildnissen Friedrich Wilhelms IlI. u. der Konigin Luise.",356,98.0,False,positional,,Scuola di Berlino,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654505,228,320,"21 ZWEI DESGL.:a) Feldgrau mit eisernem Kreuz; b) Deckeltasse, seladongrin,",357,97.2,False,positional,,,KUNSTGEWERBE; KERAMIK,,
-BO0624_88731,654506,229,322,23 ZWEI BERLINER BONBONNIEREN mit eiformigem Aufsatz. Zeptermarke 1913.,359,97.2,False,positional,,Scuola di Berlino,KUNSTGEWERBE; KERAMIK,,
+BO0624_88731,654506,229,322,23 ZWEI BERLINER BONBONNIEREN mit eiformigem Aufsatz. Zeptermarke 1913.,359,97.2,False,positional,,Scuola di Berlino,KUNSTGEWERBE; KERAMIK,,Sec. XX
 BO0624_88731,654507,230,324,ALTER GLAS-INNUNGSPOKAL (defekt) mit sechs antiken u. Renaissance-Minzen.,360,97.2,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88731,654508,231,325,"RUSS. TAFELGARNITUR, silbervergoldet, mit reichem GlasfluB-Belag.8 Teile:",361,97.2,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654509,232,326,"KRISTALL-ZUCKERSCHALE in Truhenform, geschliffen,in Goldbronze-Fassung.",363,97.2,False,positional,,,KUNSTGEWERBE; KERAMIK,,
@@ -243,8 +243,8 @@ BO0624_88731,654518,241,336,"37 PERLMUTT-ZIGARETTENDOSE,Biedermeier,in silb.Fass
 BO0624_88731,654519,242,338,ZWOLF KOPENHAGENER OBSTTELLER mit Blaudekor (zwei unwesentlich bestoBen).Mit Wildleder-Zwischendeckchen.,376,98.1,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654520,243,339,"40 ZWEI BISKUITFIGUREN,Putten mit Emblemen der Musik und der Erdkunde.",377,97.2,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654521,244,341,WIENER BROTKORB mit mangan-violettem Blumendekor.Blaumarke.,378,96.7,False,positional,,,KUNSTGEWERBE; KERAMIK,,
-BO0624_88731,654522,245,342,"THURINGER PORZELLAN-BLUMENVASE,zehneckig,auf KlauenfiBen,vergoldet. Auf der Wandung Typen vom Balkan.Um 1830.(Deckel gekittet.)",379,98.4,False,positional,,,KUNSTGEWERBE; KERAMIK,,
-BO0624_88731,654523,246,343,"NYMPHENBURGER DECKELTERRINE,blaugold,in ovalen Medaillons architektonische landschaftliche Ansichten.Um 1840.",380,98.2,False,positional,,,KUNSTGEWERBE; KERAMIK,,
+BO0624_88731,654522,245,342,"THURINGER PORZELLAN-BLUMENVASE,zehneckig,auf KlauenfiBen,vergoldet. Auf der Wandung Typen vom Balkan.Um 1830.(Deckel gekittet.)",379,98.4,False,positional,,,KUNSTGEWERBE; KERAMIK,,Sec. XIX
+BO0624_88731,654523,246,343,"NYMPHENBURGER DECKELTERRINE,blaugold,in ovalen Medaillons architektonische landschaftliche Ansichten.Um 1840.",380,98.2,False,positional,,,KUNSTGEWERBE; KERAMIK,,Sec. XIX
 BO0624_88731,654524,247,344,"FLACHER MESSINGWARMER, Stellplatte durchbrochen und graviert. Anfang Jahrhundert.",381,89.2,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654525,248,345,ALTE BRONZE-DECKPLATTE mit der Figur eines schlummernden Puttos.Empire.,383,97.2,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654526,249,346,HOLLAND.MESSING-KOHLENBECKEN mit VerschluB und Tragbigel. 18.Jahrh.,384,97.0,False,positional,,,CAMINI,,
@@ -257,16 +257,16 @@ BO0624_88731,654532,255,353,"SONNENSCHIRM,weiBe Seide, Stock aus geschnitzter Ko
 BO0624_88731,654533,256,354,"PORZELLAN-TAFELDEKORATION,weiB,16 Teile:a)2 Aufsatze auf hohen FuBen; b)2 Obstschalen auf DelphinfiBen; c) 2 Blumenvasen in Form einer Fuillhorngruppe; d)2 Gewirzschalen mit iberragender Blumenvase (eine bestoBen);e) 8 Blumenschalen in Muschel- und Sarkophagform.",393,99.2,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654534,257,355,"KAMINVORSETZER,Messing,9 Teile:rechteckige Platte mit Kachelauflage,Vor-",394,97.3,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654535,258,356,GROSSE ZINNKANNE mit Darstellungen der Kurfirsten.,396,96.1,False,positional,,,OGGETTI IN LATTA,,
-BO0624_88731,654536,259,357,"BAROCK-HOLZLEUCHTER,reich geschnitzt, einkerzig in alter Vergoldung. Um 1700.",397,97.4,False,positional,,,KUNSTGEWERBE; KERAMIK,,
-BO0624_88731,654537,260,358,"DESGL.,groBer. Um 1700.",398,90.9,False,positional,,,KUNSTGEWERBE; KERAMIK,,
-BO0624_88731,654538,261,359,"DESGL.,groBer. Um 1700. Zirka 150 cm hoch.",399,95.0,False,positional,,,KUNSTGEWERBE; KERAMIK,,
-BO0624_88731,654539,262,360,MESSING-TABLETT mit geschweiftem Rand. Holland. 18. Jahrhundert.,400,96.8,False,positional,,,KUNSTGEWERBE; KERAMIK,,
+BO0624_88731,654536,259,357,"BAROCK-HOLZLEUCHTER,reich geschnitzt, einkerzig in alter Vergoldung. Um 1700.",397,97.4,False,positional,,,KUNSTGEWERBE; KERAMIK,,Sec. XVIII
+BO0624_88731,654537,260,358,"DESGL.,groBer. Um 1700.",398,90.9,False,positional,,,KUNSTGEWERBE; KERAMIK,,Sec. XVIII
+BO0624_88731,654538,261,359,"DESGL.,groBer. Um 1700. Zirka 150 cm hoch.",399,95.0,False,positional,,,KUNSTGEWERBE; KERAMIK,,Sec. XVIII
+BO0624_88731,654539,262,360,MESSING-TABLETT mit geschweiftem Rand. Holland. 18. Jahrhundert.,400,96.8,False,positional,,,KUNSTGEWERBE; KERAMIK,,Sec. XVIII
 BO0624_88731,654540,263,361,"RENAISSANCE-KOHLENBECKEN, Bronze,runde Form auf drei KlauenfiBen mit zweigriffigem geschweiftem Kupfereinsatz. Abbildung Tafel 22",401,98.4,False,positional,,,CAMINI,,
 BO0624_88731,654541,264,362,FAYENCE-WANDTELLER von IGELY:Frosche bieten einem Kranich die Krone an.,402,97.9,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654542,265,363,"64 ZWEI FAYENCE-WANDTELLER von ALB. HERTEL,Geschenke Zur Silberhochzeit Kaiser Friedrichs. In Goldrahmen. Mit Signatur und Widmung.",403,98.4,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654543,266,365,"66ZWEIALT-DELFTER RWANDTELLER mit Pfauenfeder-Dekor,blauweiB. Durchm. 36 cm. Rickseitig Kinstlersignatur und Wappen der Kaiserin Viktoria.",404,98.5,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654544,267,367,"68 ZWEI DESGL.,ahnlich,dunkler,mit Signatur und gleichem Besitzerzeichen.",405,97.3,False,positional,,,KUNSTGEWERBE; KERAMIK,,
-BO0624_88731,654545,268,369,"ALT-DELFTER WANDTELLER,im Spiegel Medaillon mit preuB.Adler u.Initialen Friedrichs I.,am Rand abwechselnd mit den gleichen Initialen rote und schwarze Adler. Rickseitig Malerzeichen. (Aus dem Besitz der Kaiserin Viktoria.) Um 1710. (Sprung!)",407,99.1,False,positional,,,SPECCHI,,
+BO0624_88731,654545,268,369,"ALT-DELFTER WANDTELLER,im Spiegel Medaillon mit preuB.Adler u.Initialen Friedrichs I.,am Rand abwechselnd mit den gleichen Initialen rote und schwarze Adler. Rickseitig Malerzeichen. (Aus dem Besitz der Kaiserin Viktoria.) Um 1710. (Sprung!)",407,99.1,False,positional,,,SPECCHI,,Sec. XVIII
 BO0624_88731,654546,269,370,POMPEJANISCHE AUSGRABUNG eines Tirschlosses u. Schlissels mit Lava- und Aschenteilen.Dazu moderne verkleinerte Nachbildung des gleichen Schlosses.In,408,98.6,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654547,270,371,"VENEZIAN.GLASSERVICE mit Goldstaub-Dekor,252 Teile:9 Henkelkaraffen (eine defekt),6 bauchige Karaffen, 38 Eisschalen in 2 GroBen, 50 Likorglaser,30 Rot-, 30 WeiBwein-,26 Sidweinglaser,33 Whisky-,30 Wasserglaser.",410,99.0,False,positional,,,KUNSTGEWERBE; KERAMIK,,
 BO0624_88731,654548,271,372,"TINTENZEUG im Empirestil, Messing und Bronze,auf ovaler Platte.",411,96.8,False,positional,,,KUNSTGEWERBE; KERAMIK,,
@@ -275,7 +275,7 @@ BO0624_88731,654550,273,374,"75 ZWEI BAROCK-KIRCHENLEUCHTER,holzgeschnitzt,elekt
 BO0624_88731,654551,274,378,"GROSSER JAPANISCHER PARAVENT,vierteilig,jeder Fligel dreifach unterteilt. In den Feldern auf schwarzem Grund in verschiedenfarb. Jade,Rosenquarz und anderen Halbedelsteinen Blumenvasen auf Postamenten u. landliche Szenen mit Figuren und Tieren. Sehr gut erhalten. Abbildung Tafel21",420,99.3,False,positional,,,ARREDAMENTI,,
 BO0624_88731,654552,275,379,GR. JAPAN. BRONZE-PALMENKUBEL mit reichem plastischem Dekor.,421,96.6,False,positional,,,OSTASIATIKA,,
 BO0624_88731,654553,276,380,"HOHE TISCHLAMPE,einflammig,auf chines. Cloisonne-Vase,bemalt. Seidenschirm.",422,97.3,False,positional,,,VASI,,
-BO0624_88731,654554,277,381,"ALTE CHINES.ROTLACKVASE,Ingwertopfform,mit aufgelegtem Schwarz-GoldDekor. (Deckel repariert. Hohe 18 cm.Um 1710. Abbildung Tafel 23",423,98.4,False,positional,,,OSTASIATIKA,,
+BO0624_88731,654554,277,381,"ALTE CHINES.ROTLACKVASE,Ingwertopfform,mit aufgelegtem Schwarz-GoldDekor. (Deckel repariert. Hohe 18 cm.Um 1710. Abbildung Tafel 23",423,98.4,False,positional,,,OSTASIATIKA,,Sec. XVIII
 BO0624_88731,654555,278,382,"JAPAN.GOLDLACK-KASSETTE,Aventurinlack,mit Glyzinienzweigen.",424,96.7,False,positional,,,OSTASIATIKA,,
 BO0624_88731,654556,279,383,"84 ZWEI GROSSE CHINES. KAMIN-FEUERBOCKE,patinierte Bronze,in Form gefligelter Drachen.",425,97.7,False,positional,,,CAMINI,,
 BO0624_88731,654557,280,385,"86 ZWEI JAPAN. VASEN, blau-weiB,Kirschblitendekor, durchbrochener Holzuntersatz und -deckel.",427,97.8,False,positional,,,VASI,,
@@ -325,7 +325,7 @@ BO0624_88731,654600,323,437,"JADE-VASE in Bronzeform,zweihenklig,Warzendekor. Au
 BO0624_88731,654601,324,438,GROSSE AMETHYST-SCHNITZEREI:Wasserrosen.Auf geschnitztem Untersatz. Abbildung Tafel22,486,97.7,False,positional,,,OSTASIATIKA,,
 BO0624_88731,654602,325,439,"DESGL.,kleiner,mit zwei ausgeschnittenen Hohlungen.",487,96.1,False,positional,,,OSTASIATIKA,,
 BO0624_88731,654603,326,440,AMETHYST-ANHANGER in Form einer Frucht mit Blatt. Auf Holzuntersatz. Abbildung Tafel22,488,97.7,False,positional,,,OSTASIATIKA,,
-BO0624_88731,654604,327,441,"SILB.DOSE,achteckig,mit eingravierten Sternen. Um 1820.",496,96.4,False,positional,,,SCATOLE,,
+BO0624_88731,654604,327,441,"SILB.DOSE,achteckig,mit eingravierten Sternen. Um 1820.",496,96.4,False,positional,,,SCATOLE,,Sec. XIX
 BO0624_88731,654605,328,442,"ANHANGER aus grinem Stein mit LapislazuliKugeln und Goldfransen,",497,96.9,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
 BO0624_88731,654606,329,443,APFEL aus hellgrinem Halbedelstein.,498,94.4,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
 BO0624_88731,654607,330,444,SILBERVERGOLD.NOTIZBLOCK mitgrafl.Wappen und Monogramm.,499,97.3,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
@@ -384,7 +384,7 @@ BO0624_88731,654659,382,505,"SECHS KL.SILBERGERATE:Serviettenring,Puderbichse,De
 BO0624_88731,654660,383,506,SILB.LOUIS-XVI.-RAUCHERPFANNE auf vier KlauenfuiBen. Zwei Ebenholzgriffe.,566,97.2,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
 BO0624_88731,654661,384,507,O8 ZWEI SILB.TISCHVASCHEN auf DreifuB.,567,94.9,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
 BO0624_88731,654662,385,509,10 SILBERVERGOLD. HENKELKANNCHEN im Renaissancestil und SILBERNES BLUMENVASCHEN auf drei FiBen.,568,97.9,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
-BO0624_88731,654663,386,511,"12 ZWEI SILB. BECHER,glatt,einer innen vergoldet,einer mit Inschrift:Laurent Alexandre Sohl, letzterer um 1700.",569,98.2,False,positional,,,VASI,,
+BO0624_88731,654663,386,511,"12 ZWEI SILB. BECHER,glatt,einer innen vergoldet,einer mit Inschrift:Laurent Alexandre Sohl, letzterer um 1700.",569,98.2,False,positional,,,VASI,,Sec. XVIII
 BO0624_88731,654664,387,513,"FASAN, silbervergoldet.",570,91.3,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
 BO0624_88731,654665,388,514,"16 ZWEI SILB.DOSEN im Barockstil in Herzform bzw.Granatapfelform,dazu silb. MARKEN-ANFEUCHTER.",571,97.9,False,positional,,,SCATOLE,,
 BO0624_88731,654666,389,517,ALTE ENGL. SILBERDOSE in Muschelform. Innen vergoldet.,572,96.2,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
@@ -418,9 +418,9 @@ BO0624_88731,654693,416,557,"SILB.ENGL.BROTKORB in Herzform,Rand reich durchbroc
 BO0624_88731,654694,417,558,KL. SILB.ENGL. BLUMENKUBEL mit gewelltem Rand.,616,95.6,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
 BO0624_88731,654695,418,559,"SILB.DECKELBECHER, glatte zylindrische Form.",617,95.5,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
 BO0624_88731,654696,419,560,SILB. ZIGARETTENETUI mit fliegender Schwalbe in Bliten.,618,96.4,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
-BO0624_88731,654697,420,561,"KL. SILB.SCHALCHEN,Kummenform, innen vergoldet. 18. Jahrhundert.",619,96.7,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
+BO0624_88731,654697,420,561,"KL. SILB.SCHALCHEN,Kummenform, innen vergoldet. 18. Jahrhundert.",619,96.7,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,Sec. XVIII
 BO0624_88731,654698,421,562,"GOLD. ASCHBECHER in Blattform,eingelassen zwei Saphire,ein Brillant und ein Rubin.",620,97.6,False,positional,,,OGGETTI IN ORO,,
-BO0624_88731,654699,422,563,SILBERPLASTIK:Staatskalesche des 18. Jahrh.,621,95.3,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
+BO0624_88731,654699,422,563,SILBERPLASTIK:Staatskalesche des 18. Jahrh.,621,95.3,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,Sec. XVIII
 BO0624_88731,654700,423,564,GOLD.BROSCHE in Kreuzform mit einer Gemme und vier Perlen.,622,96.6,False,positional,,,OGGETTI IN ORO,,
 BO0624_88731,654701,424,565,SILB. KETTEN-HALSSCHMUCK mit vergold. Filigran-SchlieBe und zahlr. Rubinen.,623,97.3,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
 BO0624_88731,654702,425,566,"KL. SILB. HENKELVASCHEN auf drei KugelfiBen,mit violetten Emailfeldern.",624,97.1,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
@@ -436,12 +436,12 @@ BO0624_88731,654711,434,575,SILBERVERGOLD.DOSE mit blauer Emailauflage.,635,95.5
 BO0624_88731,654712,435,576,"GOLD.BINOCLE,graviert.",636,91.3,False,positional,,,OGGETTI IN ORO,,
 BO0624_88731,654713,436,577,SILB. RAUCHVERZEHRER.,637,90.5,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
 BO0624_88731,654714,437,578,"SILB. BROTKORB,reich durchbrochen u.getrieben,englisch.",638,96.4,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
-BO0624_88731,654715,438,579,"81 DREI KL.SILB.BECHER,glatt. Um 1840.",639,94.7,False,positional,,,VASI,,
+BO0624_88731,654715,438,579,"81 DREI KL.SILB.BECHER,glatt. Um 1840.",639,94.7,False,positional,,,VASI,,Sec. XIX
 BO0624_88731,654716,439,582,GOLD. GEMME in Elfenbeinfassung mit Standbigel. In grinem Maroquin-Lederetui.,640,97.4,False,positional,,,OGGETTI IN ORO,,
 BO0624_88731,654717,440,583,GOLD. HUTNADEL mit zahlr. Brillanten u. Saphiren. (Geschenk des russ. Zaren.) n Etui.,641,92.6,False,positional,,,OGGETTI IN ORO,,
-BO0624_88731,654718,441,584,EMPIRE-GOLDRING mit Onyx-Kamee:KOPF NAPOLEONS.Um 1804.,643,97.2,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
-BO0624_88731,654719,442,585,NAPOLEON-PLAKETTE von Andrieu. Um 1805. Auf Samtkissen. Silber.,644,96.7,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
-BO0624_88731,654720,443,586,GOLD.MEDAILLE mit BILDNIS DES KONIGS CAROL I. von Rumanien zur Einweihung der Donaubricke bei Czernawoda 1895. In Original-Dedikations-Etui mit,645,98.6,False,positional,,,OGGETTI IN ORO,,
+BO0624_88731,654718,441,584,EMPIRE-GOLDRING mit Onyx-Kamee:KOPF NAPOLEONS.Um 1804.,643,97.2,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,Sec. XIX
+BO0624_88731,654719,442,585,NAPOLEON-PLAKETTE von Andrieu. Um 1805. Auf Samtkissen. Silber.,644,96.7,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,Sec. XIX
+BO0624_88731,654720,443,586,GOLD.MEDAILLE mit BILDNIS DES KONIGS CAROL I. von Rumanien zur Einweihung der Donaubricke bei Czernawoda 1895. In Original-Dedikations-Etui mit,645,98.6,False,positional,,,OGGETTI IN ORO,,Sec. XIX
 BO0624_88731,654721,444,587,SILBERVERGOLD. CHATELAINE in Mandelform mit sehr reichen Email-Einlagen,647,97.2,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
 BO0624_88731,654722,445,588,"RAUCHERFLAKON in geschnitztem japanischen Elfenbeingehause, Gold, innen vier Brillanten. In goldgepreBtem Lederetui mit Monogramm der Herzogin Charlotte.",649,98.7,False,positional,,,OGGETTI IN ORO,,
 BO0624_88731,654723,446,589,GR. SILB. WEINKUHLER mit Lowenmasken und Girlandenhenkeln. Mit Widmung. Dazu groBes ovales silb.Tablett.,650,98.0,False,positional,,,KLEINKUNST; SILBER-ARBEITEN,,
@@ -487,7 +487,7 @@ BO0624_88731,654762,485,633,"HOLZKASSETTE, Eiche,gefertigt aus altem, bei den Au
 BO0624_88731,654763,486,634,AEROZON-RAUCHVERZEHRER.,724,93.6,False,positional,,,KUNSTGEWERBE,,
 BO0624_88731,654764,487,635,DESGLEICHEN mit plastischen Blumen.,726,94.4,False,positional,,,KUNSTGEWERBE,,
 BO0624_88731,654765,488,636,"ENGL.MOKKATASSE (Coalport),grin,reich vergoldet.",728,95.7,False,positional,,,KUNSTGEWERBE,,
-BO0624_88731,654766,489,637,RUSS. MUNZE (10 Kopeken) a.d. Jahre 1792.,730,94.7,False,positional,,,KUNSTGEWERBE,,
+BO0624_88731,654766,489,637,RUSS. MUNZE (10 Kopeken) a.d. Jahre 1792.,730,94.7,False,positional,,,KUNSTGEWERBE,,Sec. XVIII
 BO0624_88731,654767,490,638,"39 ZWEIMARMORPOSTAMENTE in Saulenform,schwarz.",732,95.7,False,positional,,,KUNSTGEWERBE,,
 BO0624_88731,654768,491,640,GLAS-BRULE-PARFUMS in Bronzefassung auf Marmorplatte.,734,96.3,False,positional,,,KUNSTGEWERBE,,
 BO0624_88731,654769,492,642,GETRIEB. MESSING-WANDTELLER mit Bildnis Franz von Sickingens.,736,96.7,False,positional,,,KUNSTGEWERBE,,

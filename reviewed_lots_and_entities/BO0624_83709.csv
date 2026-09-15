@@ -9,7 +9,7 @@ BO0624_83709,49728,7,8,Chevaux et cavaliers au repos.,99,96.7,False,positional,B
 BO0624_83709,49729,8,I0,Paysage avec figures.,119,93.0,False,positional,DATEMONT,,,,
 BO0624_83709,49730,9,13,La Charge.,151,85.7,False,positional,DETAILLE,,,,
 BO0624_83709,49731,10,15,En faction a Roquebrune1796,169,94.7,False,positional,DETAILLE,,,,
-BO0624_83709,49732,11,16,7Hussards“1820,181,90.3,False,positional,DETAILLE,,,,
+BO0624_83709,49732,11,16,7Hussards“1820,181,90.3,False,positional,DETAILLE,,,,Sec. XIX
 BO0624_83709,49733,12,19,## DETAILLE Trompette du 23 dragons ? 180 au camp de Boulogne.,203,90.6,False,title_direct,DETAILLE,,,,
 BO0624_83709,49734,13,20,Hallucination.,225,89.7,False,positional,DETAILLE,,,,
 BO0624_83709,49735,14,21,Pipper au 42Highlander’s. ## DETAILLE,232,80.0,False,title_direct,DETAILLE,,,,
@@ -34,11 +34,11 @@ BO0624_83709,49753,32,48,Les Prussiens aux Pendules.,496,94.5,False,positional,D
 BO0624_83709,49754,33,49,Le general Bonaparte a Frejus.,510,95.1,False,positional,DETAILLE,,,,
 BO0624_83709,49755,34,51,"Tambour regiment Molinari, 3r regiment (grand duc de Mecklem- du bourg-Strelitz) armee autrichienne.",534,98.4,False,positional,DETAILLE,,,,
 BO0624_83709,49756,35,52,— Grenadiers prenant la garde a SaintCloud.,544,96.4,False,positional,DETAILLE,,,,
-BO0624_83709,49757,36,53,"-Gendarmerie “1880""",556,91.4,False,positional,DETAILLE,,,,
+BO0624_83709,49757,36,53,"-Gendarmerie “1880""",556,91.4,False,positional,DETAILLE,,,,Sec. XIX
 BO0624_83709,49758,37,54,"— Offcier de dragons autrichiens. l est vu de profil, fumant un cigare, les deux mains appuyees sur son sabre.",569,83.1,False,positional,DETAILLE,,,,
 BO0624_83709,49759,38,55,- L'etendard du rer chasseurs d’ Afrique.,579,96.1,False,positional,DETAILLE,,,,
 BO0624_83709,49760,39,56,Tirailleurs algeriens. ls sont au repos; un sous-officier a le guidon du bataillon au bout de son fusil.,592,88.4,False,positional,DETAILLE,,,,
-BO0624_83709,49761,40,57,"Battene dartillerie de la garde a Rezonville ""16 aout 1870""",602,97.4,False,positional,DETAILLE,,,,
+BO0624_83709,49761,40,57,"Battene dartillerie de la garde a Rezonville ""16 aout 1870""",602,97.4,False,positional,DETAILLE,,,,Sec. XIX
 BO0624_83709,49762,41,58,Le defle du Hussards1870,612,94.1,False,positional,DETAILLE,,,,
 BO0624_83709,49763,42,60,—L'entree du quartier de cavalerie.,633,95.7,False,positional,DETAILLE,,,,
 BO0624_83709,49764,43,61,- Jeune femme sortant du bain.,645,94.7,False,positional,DETAILLE,,,,
@@ -209,7 +209,7 @@ BO0624_83709,49928,207,248,BARBE en Chantilly.,1068,90.0,False,positional,,,DENT
 BO0624_83709,49929,208,249,"- EveNTaiL Louis XVl, decore d'un groupe damours place entre descartels a vases fleuris et des trophees d'instruments de musique. Monture en ivoire sculpte.",1072,89.3,False,positional,,,VASI,,
 BO0624_83709,49930,209,250,"—Deux eventails du temps de Louis XVl,feuilles a sujets allegoriques,montures en ivoire a rehauts d'or.",1074,98.1,False,positional,,,EVENTAILS,,
 BO0624_83709,49931,210,4,"251.— EveNTaIl,monture en ivoire d'epoque ouis XV,feuille peinte par Werrey,representant le bain de Diane.",1075,99.0,False,positional,,,EVENTAILS,,
-BO0624_83709,49932,211,5,"252.-EvENTAIL, feuille peinte a jeux d’enfants signee: Carlo Balde 1756",1076,98.6,False,positional,,,EVENTAILS,,
+BO0624_83709,49932,211,5,"252.-EvENTAIL, feuille peinte a jeux d’enfants signee: Carlo Balde 1756",1076,98.6,False,positional,,,EVENTAILS,,Sec. XVIII
 BO0624_83709,49933,212,6,Monture Louis xVen nacre rehaussee d'or a decor chinois.,1077,98.2,False,positional,,,EVENTAILS,,
 BO0624_83709,49934,213,7,"253.-EveNTAIL cHINois monture en ivoire,en partie laquee et incrustee de nacre, feuille representant en grisaille une Pagode dans un",1078,99.2,False,positional,,,EVENTAILS,,
 BO0624_83709,49935,214,8,paysage.,1079,87.5,False,positional,,,EVENTAILS,,
@@ -253,7 +253,7 @@ BO0624_83709,49972,251,288,"REMARQUABLE sTATUETTE de Chinoise drapee, debout en 
 BO0624_83709,49973,252,289,"—PETIT CERF en bronze,de Mene.",1126,93.3,False,positional,,,LAQUES; EMAUX CLOISONNES,,
 BO0624_83709,49974,253,290,"-LioNNE en bronze, signe Vidal.",1127,93.3,False,positional,,,LAQUES; EMAUX CLOISONNES,,
 BO0624_83709,49975,254,291,"La Brodeuse de Dalou, statuette en bronze, socle en marbre vert de mer.",1128,97.1,False,positional,,,LAQUES; EMAUX CLOISONNES,,
-BO0624_83709,49976,255,292,"Groupe d'enlevementen bronze Centauresse et Faune deA.Courtet,signe et date 1849,monte sur socle en marbre rouge griotte.",1129,98.4,False,positional,,,LAQUES; EMAUX CLOISONNES,,
+BO0624_83709,49976,255,292,"Groupe d'enlevementen bronze Centauresse et Faune deA.Courtet,signe et date 1849,monte sur socle en marbre rouge griotte.",1129,98.4,False,positional,,,LAQUES; EMAUX CLOISONNES,,Sec. XIX
 BO0624_83709,49977,256,293,"-QuATRE PETrs bronzes, figurines et bustes de Napoleon Ier et petits Amours.",1130,97.3,False,positional,,,LAQUES; EMAUX CLOISONNES,,
 BO0624_83709,49978,257,294,Deux sTATUETTEs en bronze argente representant Diane et,1131,96.5,False,positional,,,LAQUES; EMAUX CLOISONNES,,
 BO0624_83709,49979,258,295,STATuETTE en bronze:Venus au Dauphin.,1133,94.7,False,positional,,,LAQUES; EMAUX CLOISONNES,,

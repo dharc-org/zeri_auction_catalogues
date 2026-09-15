@@ -1,45 +1,45 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_87825,581208,1,1822,"1899,Paris.",57,80.0,False,positional,Rosa BONHEUR,,,,
+BO0624_87825,581208,1,1822,"1899,Paris.",57,80.0,False,positional,Rosa BONHEUR,,,,Sec. XIX
 BO0624_87825,581209,2,1,Weidende Schafe.,59,93.8,False,positional,Rosa BONHEUR,,,,
 BO0624_87825,581210,3,I,n einer Flachlandschaft im Vordergrund an einem Zaun zwei grasende Schafe; im Hintergrund weidende Kuhe etc.,63,99.5,False,positional,Rosa BONHEUR,,,,
-BO0624_87825,581211,4,1796,"1875,Paris.",75,80.0,False,positional,Jean Bapt. Camille COROT,,,,
+BO0624_87825,581211,4,1796,"1875,Paris.",75,80.0,False,positional,Jean Bapt. Camille COROT,,,,Sec. XIX
 BO0624_87825,581212,5,2,Abendlandschaft.,77,93.8,False,positional,Jean Bapt. Camille COROT,,,,
 BO0624_87825,581213,6,I,"m Vordergrund am Wege ruht eine Dame unter Baumen;links schimmert ein Fluss in der Ferne; eine Anhohe mit Gebaulichkeiten zieht sich nach rechts hinan, vom gelblichroten Abendhimmel sich abhebend; dunkle Baumwipfel bilden nach oben den Abschluss.",81,99.8,False,positional,Jean Bapt. Camille COROT,,,,
 BO0624_87825,581214,7,4,Vorfruhling bei Fontaineblau.,100,96.6,False,positional,Jean Bapt. Camille COROT,,,,
-BO0624_87825,581215,8,1817,"1878,Paris.",114,80.0,False,positional,Charles Francois DAUBIGNY,,,,
+BO0624_87825,581215,8,1817,"1878,Paris.",114,80.0,False,positional,Charles Francois DAUBIGNY,,,,Sec. XIX
 BO0624_87825,581216,9,6,Am Meeresstrand,128,93.8,False,positional,Charles Francois DAUBIGNY,,,,
-BO0624_87825,581217,10,7,"Wiesental im Sommer. 1876,Mentone.",139,71.7,False,positional,Charles Francois DAUBIGNY,,,,
+BO0624_87825,581217,10,7,"Wiesental im Sommer. 1876,Mentone.",139,71.7,False,positional,Charles Francois DAUBIGNY,,,,Sec. XIX
 BO0624_87825,581218,11,8,Waldlichtung im Herbst.,153,95.7,False,positional,Narc. Virgilio DIAZ DE LA PENA,,,,
 BO0624_87825,581219,12,I,"m Vordergrund knorrige hohe Baume, darunter eine",157,98.9,False,positional,Narc. Virgilio DIAZ DE LA PENA,,,,
-BO0624_87825,581220,13,1812,"1889,Paris.",169,80.0,False,positional,Jules DUPRE,,,,
+BO0624_87825,581220,13,1812,"1889,Paris.",169,80.0,False,positional,Jules DUPRE,,,,Sec. XIX
 BO0624_87825,581221,14,9,Hutten im Wald.,171,93.3,False,positional,Jules DUPRE,,,,
 BO0624_87825,581222,15,I,n dichtem vollbelaubten Wald stehen rechts und links vom Wege zwei strohgedeckte Hutten; auf dem Weg eine Frau mit rotem Kopftuch.,175,99.6,False,positional,Jules DUPRE,,,,
 BO0624_87825,581223,16,I,"n schonem Ton, die Farbung des Waldes trefflich wiedergegeben.",177,99.2,False,positional,Jules DUPRE,,,,
-BO0624_87825,581224,17,1814,"1875,Barbizon.",185,83.9,False,positional,Jean Francois MILLET,,,,
+BO0624_87825,581224,17,1814,"1875,Barbizon.",185,83.9,False,positional,Jean Francois MILLET,,,,Sec. XIX
 BO0624_87825,581225,18,10,"Schafherde mit Hirtin n schlichter Auffassung, grosszugigeArbeit des Meisters.",193,84.0,False,positional,Jean Francois MILLET,,,,
 BO0624_87825,581226,19,11,Brustbild einer Frau aus dem Volke.,198,95.8,False,positional,Jean Francois MILLET,,,,
 BO0624_87825,581227,20,12,"Schafe auf der Weide. m Vordergrund grasen Schafe, vor dem Schafer und seinem Hund; in der Ferne eine Anhohe, davor ein Dorfchen zwischen Baumen und Strauchern sichtbar. Die bleiche Mondsichel steht am Himmel.",212,94.8,False,positional,Jean Francois MILLET,,,,
 BO0624_87825,581228,21,13,Auf der Schafweide. m Vordergrund sitzt die Schaferin einen Umhang strickend; hinter ihr weidende Schafe;.in der Ferne ein Geholz.,222,92.3,False,positional,Jean Francois MILLET,,,,
 BO0624_87825,581229,22,14,Auf dem Weideplatz.,230,92.3,False,positional,Jean Francois MILLET,,,,
 BO0624_87825,581230,23,15,Feldlandschaft.,242,90.3,False,positional,Jean Francois MILLET,,,,
-BO0624_87825,581231,24,16,"Waldlichtung. 1867,Barbizon.",255,63.6,False,positional,Pierre Etienne Theodore RousSEAU,,,,
+BO0624_87825,581231,24,16,"Waldlichtung. 1867,Barbizon.",255,63.6,False,positional,Pierre Etienne Theodore RousSEAU,,,,Sec. XIX
 BO0624_87825,581232,25,17,Waldlandschaft.,269,90.3,False,positional,Pierre Etienne Theodore RousSEAU,,,,
-BO0624_87825,581233,26,18,"Wald von Fontainebleau im Herbst. 1865,Paris.",283,82.1,False,positional,Pierre Etienne Theodore RousSEAU,,,,
+BO0624_87825,581233,26,18,"Wald von Fontainebleau im Herbst. 1865,Paris.",283,82.1,False,positional,Pierre Etienne Theodore RousSEAU,,,,Sec. XIX
 BO0624_87825,581234,27,19,9 Sommerlandschaft.,301,92.3,False,positional,Constantin TROYON,,,,
 BO0624_87825,581235,28,20,Auf dem Felde.,312,89.7,False,positional,Constantin TROYON,,,,
 BO0624_87825,581236,29,21,Am Weserdeich.,322,89.7,False,positional,Eugen NIETHE,,,,
 BO0624_87825,581237,30,22,"Kastell Ross, Killarney (Irland). Leinw.48/100 Rechts das Kastell, im Vordergrund ein See; ruckwarts ausfliessender Bach und Gebirge bei Mondschein. Frisch und effektvoll wirkendes Gemalde.",334,99.2,False,positional,Eugen NIETHE,,,,
 BO0624_87825,581238,31,23,Im Rosenheim.,342,88.9,False,positional,Johann SPERL,,,,
 BO0624_87825,581239,32,24,"Herbstlandschaft an der Isar. Leinw.auf Karton 38/30,5 In ausgetretenem Wasser, umsaumt von Schilf, Strauchern und Baumen, spiegelt sich der Himmel. ,Karlsruhe.",354,95.7,False,positional,Joseph WENGLEIN,,,,
-BO0624_87825,581240,33,25,"Sommerlandschaft. 1573,Amsterdam.",363,64.0,False,positional,Joseph WOPFNER,,,,
-BO0624_87825,581241,34,26,"Mann mit Birne. 1702,Amsterdam.",391,62.5,False,positional,Jan de BAAN,,,,
-BO0624_87825,581242,35,27,"Brustbild eines Geistlichen. 1748,Munchen.",393,77.1,False,positional,Jan de BAAN,,,,
-BO0624_87825,581243,36,28,"Landschaft mit Viehstaffage. 1693,Haarlem.",405,77.1,False,positional,Franz Joachim BEICH,,,,
+BO0624_87825,581240,33,25,"Sommerlandschaft. 1573,Amsterdam.",363,64.0,False,positional,Joseph WOPFNER,,,,Sec. XVI
+BO0624_87825,581241,34,26,"Mann mit Birne. 1702,Amsterdam.",391,62.5,False,positional,Jan de BAAN,,,,Sec. XVIII
+BO0624_87825,581242,35,27,"Brustbild eines Geistlichen. 1748,Munchen.",393,77.1,False,positional,Jan de BAAN,,,,Sec. XVIII
+BO0624_87825,581243,36,28,"Landschaft mit Viehstaffage. 1693,Haarlem.",405,77.1,False,positional,Franz Joachim BEICH,,,,Sec. XVII
 BO0624_87825,581244,37,29,Marktplatz in Hoorn.,416,92.7,False,positional,Job BERCKHEYDE,,,,
 BO0624_87825,581245,38,30,Kircheninneres.,428,90.3,False,positional,Job BERCKHEYDE,,,,
-BO0624_87825,581246,39,1616,"1681,Amsterdam.",440,84.8,False,positional,Ferdinand BOL,,,,
-BO0624_87825,581247,40,1650,"1700,Amsterdam.",452,84.8,False,positional,Jan VAN DE CAPELLE,,,,
-BO0624_87825,581248,41,32,"Hollandische Flusslandschaft. 1684,Antwerpen.",454,75.7,False,positional,Jan VAN DE CAPELLE,,,,
+BO0624_87825,581246,39,1616,"1681,Amsterdam.",440,84.8,False,positional,Ferdinand BOL,,,,Sec. XVII
+BO0624_87825,581247,40,1650,"1700,Amsterdam.",452,84.8,False,positional,Jan VAN DE CAPELLE,,,,Sec. XVIII
+BO0624_87825,581248,41,32,"Hollandische Flusslandschaft. 1684,Antwerpen.",454,75.7,False,positional,Jan VAN DE CAPELLE,,,,Sec. XVII
 BO0624_87825,581249,42,33,"Schmuckung zum Feste. n einem Boudoir sitzt eine Dame vor dem Spiegel, zwei Frauen legen ihr den Schmuck an und ordnen das Haar; eine Freundin mit dem Schosshund im Arm steht daneben.",473,93.5,False,positional,Gonzales CocQuEs,,SPECCHI,,
 BO0624_87825,581250,43,34,Herrnbildnis.,481,88.9,False,positional,M.L.COLERT,,,,
 BO0624_87825,581251,44,35,Frauenbildnis.,493,89.7,False,positional,M.L.COLERT,,,,
@@ -50,38 +50,38 @@ BO0624_87825,581255,48,39,Brustbild eines Fursten. Leinw.74/63 Der Furst mit mac
 BO0624_87825,581256,49,40,"Brustbild eines Herrn mit Muhlsteinkragen. Leinw.58/47,5 Herr in dunklem Wams und kleinem Schnurrbart, halb von vorne gesehen.",544,98.8,False,positional,,HAARLEMER SCHULE,,,
 BO0624_87825,581257,50,41,Lesende Alte.,552,88.9,False,positional,Dirk HALS,,,,
 BO0624_87825,581258,51,1656,Haarlem.,554,73.7,False,positional,Dirk HALS,Scuola di Haarlem,,,
-BO0624_87825,581259,52,1630,"1692,Haag.",565,78.3,False,positional,Cornelis DE HEEM,,,,
-BO0624_87825,581260,53,42,"Fruchte-Stilleben. 1684,Antwerpen.",567,65.4,False,positional,Cornelis DE HEEM,,,,
+BO0624_87825,581259,52,1630,"1692,Haag.",565,78.3,False,positional,Cornelis DE HEEM,,,,Sec. XVII
+BO0624_87825,581260,53,42,"Fruchte-Stilleben. 1684,Antwerpen.",567,65.4,False,positional,Cornelis DE HEEM,,,,Sec. XVII
 BO0624_87825,581261,54,43,Fruchtestick.,581,88.9,False,positional,Jan Davidsz DE HEEM,,COPPE,,
 BO0624_87825,581262,55,I,n feinem Naturgefuhl ausgefuhrtes und geschmackvoll angeordnetes Stilleben.,587,99.3,False,positional,Jan Davidsz DE HEEM,,,,
-BO0624_87825,581263,56,1624,"1694,Haarlem.",591,82.8,False,positional,Theodor HELMBREKER,,,,
+BO0624_87825,581263,56,1624,"1694,Haarlem.",591,82.8,False,positional,Theodor HELMBREKER,,,,Sec. XVII
 BO0624_87825,581264,57,44,Die Klostersuppe.,593,91.4,False,positional,Theodor HELMBREKER,,,,
 BO0624_87825,581265,58,I,"m Klosterhof teilt ein Monch an die Armen Suppe aus. Feingetontes, prachtiges Hauptwerk; im Seubert er- wahnt.",597,99.5,False,positional,Theodor HELMBREKER,,,,
-BO0624_87825,581266,59,1613,"1670,Amsterdam.",603,84.8,False,positional,Bartholomaus VAN DER HELST,,,,
+BO0624_87825,581266,59,1613,"1670,Amsterdam.",603,84.8,False,positional,Bartholomaus VAN DER HELST,,,,Sec. XVII
 BO0624_87825,581267,60,45,Brustbild einer Hollanderin.,605,94.7,False,positional,Bartholomaus VAN DER HELST,,,,
-BO0624_87825,581268,61,1617,"1680,London.",626,81.5,False,positional,Sir Peter LELY,,,,
-BO0624_87825,581269,62,47,"Damenbrustbild. 1765, Paris.",630,66.7,False,positional,Sir Peter LELY,,,,
+BO0624_87825,581268,61,1617,"1680,London.",626,81.5,False,positional,Sir Peter LELY,,,,Sec. XVII
+BO0624_87825,581269,62,47,"Damenbrustbild. 1765, Paris.",630,66.7,False,positional,Sir Peter LELY,,,,Sec. XVIII
 BO0624_87825,581270,63,48,"Akt eines Junglings, vor einer Mauer sitzend. Leinw. 9073 Junger Mann, auf seinem Mantel sitzend, schaut nach oben.",639,66.7,False,positional,Charles Andre VAN LOO,,,,
-BO0624_87825,581271,64,49,"Junger Mann sitzend. 1638,Utrecht.",640,70.4,False,positional,Charles Andre VAN LOO,,,,
-BO0624_87825,581272,65,50,"Kniestuck einer Dame. 1738,Amsterdam.",648,69.0,False,positional,Paulus MOREELSE,,,,
-BO0624_87825,581273,66,51,"Familienkonferenz. 1657,Haarlem.",665,68.0,False,positional,Francis VAN DER MYN,,,,
-BO0624_87825,581274,67,52,"Vor der Hausture. 1674,Delft.",679,69.6,False,positional,Isaac VAN OSTAADE,,,,
-BO0624_87825,581275,68,53,"Damenbrustbild. 1622,Paris.",689,66.7,False,positional,Anthonie PALAMEDES,,,,
-BO0624_87825,581276,69,54,"Brustbild einer Dame. 1657, Haag.",701,75.5,False,positional,Franz POURBUS,,,,
+BO0624_87825,581271,64,49,"Junger Mann sitzend. 1638,Utrecht.",640,70.4,False,positional,Charles Andre VAN LOO,,,,Sec. XVII
+BO0624_87825,581272,65,50,"Kniestuck einer Dame. 1738,Amsterdam.",648,69.0,False,positional,Paulus MOREELSE,,,,Sec. XVIII
+BO0624_87825,581273,66,51,"Familienkonferenz. 1657,Haarlem.",665,68.0,False,positional,Francis VAN DER MYN,,,,Sec. XVII
+BO0624_87825,581274,67,52,"Vor der Hausture. 1674,Delft.",679,69.6,False,positional,Isaac VAN OSTAADE,,,,Sec. XVII
+BO0624_87825,581275,68,53,"Damenbrustbild. 1622,Paris.",689,66.7,False,positional,Anthonie PALAMEDES,,,,Sec. XVII
+BO0624_87825,581276,69,54,"Brustbild einer Dame. 1657, Haag.",701,75.5,False,positional,Franz POURBUS,,,,Sec. XVII
 BO0624_87825,581277,70,55,Brustbild eines alteren Herrn.,712,95.1,False,positional,Jan VAN RAVESTEIJN,,,,
-BO0624_87825,581278,71,56,"Portrat Rembrandts. 1682,Haarlem.",722,69.2,False,positional,REMBRANDT VAN RIJN,SCHULE REMBRANDT,,,
+BO0624_87825,581278,71,56,"Portrat Rembrandts. 1682,Haarlem.",722,69.2,False,positional,REMBRANDT VAN RIJN,SCHULE REMBRANDT,,,Sec. XVII
 BO0624_87825,581279,72,57,Dunenlandschaft. m Vordergrund die mit Strauchern bewachsenen Dunen;,736,85.5,False,positional,Jacob RUISDAEL,,,,
 BO0624_87825,581280,73,58,Fruchte-Stilleben.,750,91.9,False,positional,Michiel SIMONS,,,,
-BO0624_87825,581281,74,59,"Neugierde. 1690,Antwerpen.",767,69.8,False,positional,David TENIERS,,,,
-BO0624_87825,581282,75,60,"Aepfelschalende Frau. 1685,Antwerpen.",769,69.0,False,positional,David TENIERS,,,,
+BO0624_87825,581281,74,59,"Neugierde. 1690,Antwerpen.",767,69.8,False,positional,David TENIERS,,,,Sec. XVII
+BO0624_87825,581282,75,60,"Aepfelschalende Frau. 1685,Antwerpen.",769,69.0,False,positional,David TENIERS,,,,Sec. XVII
 BO0624_87825,581283,76,61,Inneres einer Halle.,785,92.7,False,positional,David TENIERS d.J.,,,,
 BO0624_87825,581284,77,I,n einem grossen Raum sind Militar- und Zivil personen bei verschiedenen Beschaftigungen.,789,99.4,False,positional,David TENIERS d.J.,,,,
-BO0624_87825,581285,78,1608,"1681,Deventer.",795,83.9,False,positional,Gerard TERBURG,,,,
+BO0624_87825,581285,78,1608,"1681,Deventer.",795,83.9,False,positional,Gerard TERBURG,,,,Sec. XVII
 BO0624_87825,581286,79,62,Brustbild Paul Potters.,797,93.6,False,positional,Gerard TERBURG,,,,
-BO0624_87825,581287,80,1626,"1679,Leyden.",809,81.5,False,positional,Jan STEEN,,,,
-BO0624_87825,581288,81,1629,"1666,Haarlem.",832,82.8,False,positional,Jan WOUVERMAN,,,,
+BO0624_87825,581287,80,1626,"1679,Leyden.",809,81.5,False,positional,Jan STEEN,,,,Sec. XVII
+BO0624_87825,581288,81,1629,"1666,Haarlem.",832,82.8,False,positional,Jan WOUVERMAN,,,,Sec. XVII
 BO0624_87825,581289,82,I,m Mittelgrund auf einem Hugel eine Hutte; links davon ein Weg mit Reitern und viehtreibenden Personen.,840,99.5,False,positional,Jan WOUVERMAN,,,,
-BO0624_87825,581290,83,1615,"1670,Amsterdam.",848,84.8,False,positional,Jan VICTOORS,,,,
+BO0624_87825,581290,83,1615,"1670,Amsterdam.",848,84.8,False,positional,Jan VICTOORS,,,,Sec. XVII
 BO0624_87825,581291,84,66,Kannchen mit rotem Dekor.Hochst.,853,95.4,False,positional,,Manifattura di Hochst,Porzellan,,
 BO0624_87825,581292,85,67,Einsatztasse. Blau-weiss. Wien.,854,94.9,False,positional,,Scuola Viennese,Porzellan,,
 BO0624_87825,581293,86,68,Vaschen mit Deckel und Blumendekor. Porzellan.,855,96.7,False,title_direct,,,Porzellan,,

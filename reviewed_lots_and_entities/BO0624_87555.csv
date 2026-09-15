@@ -18,14 +18,14 @@ BO0624_87555,293550,16,20,20,157,100.0,False,positional,Carl Herpfer,,,,
 BO0624_87555,293551,17,21,"Gebirgswasserfall. L., G.R., h. 3I. b. 51.",166,95.7,False,positional,Carl Baum,,,,
 BO0624_87555,293552,18,23,Ansprechendes Bild.,174,92.3,False,positional,Johann Breughel,,,,
 BO0624_87555,293553,19,24,"/24a Zwei Pfanzenstudien. L., ohne R., h. 51, b 36.",179,96.6,False,positional,Leopold Zinnegger,,,,
-BO0624_87555,293554,20,26,"Pferde im Stalle. H., G.-R.,h. 14, b. 2O.Vorzugliches Bild.   | Ludwig Hartmann,1835,lebt in Munchen.   |",186,98.3,False,title_direct,Ludwig Hartmann,,,,
-BO0624_87555,293555,21,50,"| 49 Venus, aus dem Bade steigend. L., G.R., h. 11o, b. 125 Hervorragendes Bild.                                                    | Paris Bordone, 150o,  1570.                             |",199,98.4,False,positional,Ludwig Hartmann,,,,
-BO0624_87555,293556,22,4,"b0 | Johann Lingelbach,1625, 1687,monogr. Italienischer Seehafen mit reicher Staffage. L., G.R., h. 127> 50 b. 165. Vorzugliches Bild. |                                                         |",200,99.6,False,positional,Ludwig Hartmann,,,,
+BO0624_87555,293554,20,26,"Pferde im Stalle. H., G.-R.,h. 14, b. 2O.Vorzugliches Bild.   | Ludwig Hartmann,1835,lebt in Munchen.   |",186,98.3,False,title_direct,Ludwig Hartmann,,,,Sec. XIX
+BO0624_87555,293555,21,50,"| 49 Venus, aus dem Bade steigend. L., G.R., h. 11o, b. 125 Hervorragendes Bild.                                                    | Paris Bordone, 150o,  1570.                             |",199,98.4,False,positional,Ludwig Hartmann,,,,Sec. XVI
+BO0624_87555,293556,22,4,"b0 | Johann Lingelbach,1625, 1687,monogr. Italienischer Seehafen mit reicher Staffage. L., G.R., h. 127> 50 b. 165. Vorzugliches Bild. |                                                         |",200,99.6,False,positional,Ludwig Hartmann,,,,Sec. XVII
 BO0624_87555,293557,23,115,"55   |    | Kuste in der Bretagne. L., G.R., h. 109, b. 140. Decora- tives Bild.                                                                                |",207,96.8,False,positional,N. Astudin,,,,
-BO0624_87555,293558,24,50,"| 58 | 57 Die Schachparthie. C., G.R., h. 25, br. 33. Paul Rembrand van Ryn, 16o6,  1664,(Schule). Christus vor Pontius Pilatus. L., G.-R., h. 102, b. 83. |",210,98.8,False,title_direct,P.Rembrand van Ryn,,,,
-BO0624_87555,293559,25,20,"| 59 | Peter Paul Rubens, 1577, 1640,(Schule). 9Der Apostel Paulus. L., sch. R., h. 103, b. 79.                                                            |",211,98.1,False,positional,N. Astudin,Scuola di Rubens,,,
+BO0624_87555,293558,24,50,"| 58 | 57 Die Schachparthie. C., G.R., h. 25, br. 33. Paul Rembrand van Ryn, 16o6,  1664,(Schule). Christus vor Pontius Pilatus. L., G.-R., h. 102, b. 83. |",210,98.8,False,title_direct,P.Rembrand van Ryn,,,,Sec. XVII
+BO0624_87555,293559,25,20,"| 59 | Peter Paul Rubens, 1577, 1640,(Schule). 9Der Apostel Paulus. L., sch. R., h. 103, b. 79.                                                            |",211,98.1,False,positional,N. Astudin,Scuola di Rubens,,,Sec. XVI
 BO0624_87555,293560,26,23,"| 60 | Eine Ecke meines Balkon's. L., G.R.,h. 74, b. 49. Ludwig Voltz, Munchen,monogr.                                                                     |",213,98.0,False,positional,N. Astudin,,,,
-BO0624_87555,293561,27,8,"|    | 66Ansicht von Leutstetten am Starnberger See. L., G.R., h. 25, b.48. Carl Millner, 1825,  1897.                                                     |",219,98.8,False,positional,N. Astudin,,,,
+BO0624_87555,293561,27,8,"|    | 66Ansicht von Leutstetten am Starnberger See. L., G.R., h. 25, b.48. Carl Millner, 1825,  1897.                                                     |",219,98.8,False,positional,N. Astudin,,,,Sec. XIX
 BO0624_87555,293562,28,380,"| 69 | Morgenstimmung im Moose mit i Hochwild. C.,G.R.,h. 18, b.39. Vorzugliches, stimmungsvolles Bild.                                                    |",222,97.8,False,positional,N. Astudin,,,,
 BO0624_87555,293563,29,82,20,223,57.1,False,positional,N. Astudin,,,,
 BO0624_87555,293564,30,20,"70 Cardinal Mazarin. Kupfer, GR.,h. 59,b. 41. Interessantes",228,97.2,False,positional,,Franzosische Schule,OGGETTI IN RAME,,
@@ -46,9 +46,9 @@ BO0624_87555,293578,44,90,"Ein Offizier. L., G.R., h. 35, b. 26.",309,94.9,False
 BO0624_87555,293579,45,91,"Jager zu Pferde unterhalten sich mit einem Bauernmadchen. H.,sch. R.,h.23, b.18.",313,98.0,False,positional,Julius Noerr,,,,
 BO0624_87555,293580,46,94,"Ein Trinker. L., G.R., h.27, b.22.",325,94.7,False,positional,,Niederlandische Schule,,,
 BO0624_87555,293581,47,7,- 85,329,100.0,False,positional,,Niederlandische Schule,,,
-BO0624_87555,293582,48,44,"| J. Maier, monogr. 99 Strassenkampf in Goni 24. Oktober 1877. L., sch.R., h.31, b.32. August L8ffler,1845, monogr.                               |",337,98.5,False,title_direct,August Loffler,,,,
-BO0624_87555,293583,49,300,"| Adolph Stademann.1824,  1895, monogr. 105 Winterlandschaft mit Staffage. Abendstimmung. L., G. R., h.59, b. 88.Herrliches stimmungsvolles Bild. |",343,98.5,False,title_direct,Adolph Stademann,,,,
-BO0624_87555,293584,50,34,"| Peter von Bemmel, 1685, 1754. I07/1o7a Zwei italienische Landschaften mit Staffage. L., G.R., h.56,b.44. Zwei ansprechende Bilder.              |",345,98.8,False,positional,,Niederlandische Schule,FOTOGRAFIE,,
+BO0624_87555,293582,48,44,"| J. Maier, monogr. 99 Strassenkampf in Goni 24. Oktober 1877. L., sch.R., h.31, b.32. August L8ffler,1845, monogr.                               |",337,98.5,False,title_direct,August Loffler,,,,Sec. XIX
+BO0624_87555,293583,49,300,"| Adolph Stademann.1824,  1895, monogr. 105 Winterlandschaft mit Staffage. Abendstimmung. L., G. R., h.59, b. 88.Herrliches stimmungsvolles Bild. |",343,98.5,False,title_direct,Adolph Stademann,,,,Sec. XIX
+BO0624_87555,293584,50,34,"| Peter von Bemmel, 1685, 1754. I07/1o7a Zwei italienische Landschaften mit Staffage. L., G.R., h.56,b.44. Zwei ansprechende Bilder.              |",345,98.8,False,positional,,Niederlandische Schule,FOTOGRAFIE,,Sec. XVII
 BO0624_87555,293585,51,108,"Studienkopf zum Schulmeister. L., sch. R., h. 48, b. 33.",358,95.8,False,positional,W.Lindenschmit,,,,
 BO0624_87555,293586,52,109,"Winterlandschaft mit Staffage. Vorzugliches, meisterhaft ausgefuhrtes Bild. C., sch. R., h. 45, b. 54.",362,97.8,False,positional,Adolph Stademann,,,,
 BO0624_87555,293587,53,10,"/1 1oa Zwei Landschaften mit Staffage. K., G.R., h. 24, b. 34.",366,97.2,False,positional,Anton Faistenberger,,,,
@@ -133,7 +133,7 @@ BO0624_87555,293665,131,205,"Der Apostel Marcus. H., G.R., h. 33, b. 25. Sehr in
 BO0624_87555,293666,132,40,"206Idealer Madchenkopf.L.,G.R,h. 52, b. 41.",769,96.2,False,positional,Josephine Greifenberg,,,,
 BO0624_87555,293667,133,207,"Klosterhof im Mondenschein mit Schatzgrabern. L.,G.R h.92,b. 8o.Hervorragend schones Bild.",773,97.7,False,positional,Wilhelm Lichtenheld,,,,
 BO0624_87555,293668,134,420,- n7,775,100.0,False,positional,Wilhelm Lichtenheld,,,,
-BO0624_87555,293669,135,30,"## Julius Lange,1874,monogr.",778,100.0,False,title_direct,Julius Lange,,,,
+BO0624_87555,293669,135,30,"## Julius Lange,1874,monogr.",778,100.0,False,title_direct,Julius Lange,,,,Sec. XIX
 BO0624_87555,293670,136,208,"Sils bei Thusis. Kol. Bleist.Z., h. 36, b. 27.",780,95.0,False,positional,Julius Lange,,,,
 BO0624_87555,293671,137,209,"Familienkonzert. C., G.R., h. 24, b. 20.",784,93.9,False,positional,Carl Herpfer,,,,
 BO0624_87555,293672,138,210,"Das Bildniss einer jungen Patrizierin. K., G.R., h. 33, b. 25.",789,96.4,False,positional,F.J. Degle,,,,
@@ -147,10 +147,10 @@ BO0624_87555,293679,145,217,"/217a &gt;Wohlsein! u. &gt;Schnadahupfln. H., sch.R
 BO0624_87555,293680,146,218,"/218a Fischerhutte in Tirole und Parthie am wilden Kaiser. H.,G.-R.,h.23,b.32.",822,97.3,False,positional,Heinrich Fahr,,,,
 BO0624_87555,293681,147,219,"/21ga &gt;Konigssee u. &gt;Achensee, Tirol&amp;. H., sch. R., h. 23,",826,96.4,False,positional,Heinrich Fahr,Scuola Tirolese,,,
 BO0624_87555,293682,148,220,"Allegorische Darstellung des Herbstes. H., G.R.,h. 23, b. 17.",831,96.4,False,positional,Francois Boucher,,,,
-BO0624_87555,293683,149,222,"## Benedict Lutti,1666, 1724.",844,100.0,False,title_direct,Benedict Lutti,,,,
+BO0624_87555,293683,149,222,"## Benedict Lutti,1666, 1724.",844,100.0,False,title_direct,Benedict Lutti,,,,Sec. XVII
 BO0624_87555,293684,150,224,"b. 16o. Schones, dekoratives Bild.",856,93.8,False,positional,Franz Werner Tamm,,,,
 BO0624_87555,293685,151,225,"Christus am Kreuze, rechts und links ein Ordensgeistlicher, ein Dritter umfasst den Fuss des Kreuzes. L.，G.-R., h. 211, b. 147. Schones, religioses Bild.",860,98.6,False,positional,Heinrich Golzius,,,,
-BO0624_87555,293686,152,226,"Nurnberger Rathsherr 1729. H. G.R., h. 11,b. 10.",864,95.3,False,positional,Heinrich Golzius,,,,
+BO0624_87555,293686,152,226,"Nurnberger Rathsherr 1729. H. G.R., h. 11,b. 10.",864,95.3,False,positional,Heinrich Golzius,,,,Sec. XVIII
 BO0624_87555,293687,153,227,"Skizze. L. ohne R., h. 3o, b. 16.",868,92.6,False,positional,Hans Makart,,,,
 BO0624_87555,293688,154,228,Gute Verrichtung. HochstI originelle Scheibe aus der Scheiben-,872,96.8,False,positional,Friedrich Voltz,,OGGETTI VARI,,
 BO0624_87555,293689,155,229,Ein goldenes Petschaft mit Gemme. a Ein goldener Ring mit blauem Email und Perlen.,878,72.3,False,positional,,,Juwelen; Antiquitaten,,
@@ -189,7 +189,7 @@ BO0624_87555,293721,187,262,- 263,928,100.0,False,positional,,,Juwelen; Antiquit
 BO0624_87555,293722,188,264,- 265,930,100.0,False,positional,,,Juwelen; Antiquitaten,,
 BO0624_87555,293723,189,266,- Eine Sanduhr.,932,100.0,False,positional,,,Juwelen; Antiquitaten,,
 BO0624_87555,293724,190,1,Rathsherr. Gemalde auf Holz ohne R.,935,97.1,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_87555,293725,191,10,"alte Buicher, dabei alter und neuer Munzschlussel durch L. W. Hofmann frankischer Munzwardein,Nurnberg 1692.",936,98.6,False,positional,,Scuola di Norimberga,Juwelen; Antiquitaten,,
+BO0624_87555,293725,191,10,"alte Buicher, dabei alter und neuer Munzschlussel durch L. W. Hofmann frankischer Munzwardein,Nurnberg 1692.",936,98.6,False,positional,,Scuola di Norimberga,Juwelen; Antiquitaten,,Sec. XVII
 BO0624_87555,293726,192,267,Zwei alte Facher.,937,88.9,False,positional,,,SCOMPARTI,,
 BO0624_87555,293727,193,268,Eine alterthuimliche Gabel.,938,92.9,False,positional,,,Juwelen; Antiquitaten,,
 BO0624_87555,293728,194,269,- Ein Ulmer Pfeifenkopf.,940,100.0,False,positional,,,Juwelen; Antiquitaten,,
@@ -211,7 +211,7 @@ BO0624_87555,293743,209,286,"Kaiser Leopold von Osterreich. Aqu., sch. R.,h. 16,
 BO0624_87555,293744,210,287,"Hl. Ignatius. C., G.R., h. 1o,b. 7.",974,92.9,False,positional,Ch.W.E.Dietrich,,,,
 BO0624_87555,293745,211,288,Ein altes Waffeleisen.,975,91.3,False,positional,Ch.W.E.Dietrich,,,,
 BO0624_87555,293746,212,289,"Email-Dose, mit feinen Malereien a la Wateau. Im Deckel ein Damenportrait mit entblosster Brust. Cabinetstuck.",979,98.1,False,positional,WATTEAU FRANCOIS,,SCATOLE,,
-BO0624_87555,293747,213,290,Email-Dose. 1756 mit Widmung und Musikstuicken (Menuet) in Noten. Cabinetstuck.,980,97.4,False,positional,,,SCATOLE,,
+BO0624_87555,293747,213,290,Email-Dose. 1756 mit Widmung und Musikstuicken (Menuet) in Noten. Cabinetstuck.,980,97.4,False,positional,,,SCATOLE,,Sec. XVIII
 BO0624_87555,293748,214,291,"- Eine Holz-Dose, Deckel mit schoner Landschaft.",982,100.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_87555,293749,215,293,293,984,100.0,False,positional,,,Dosen; Miniaturen,,
 BO0624_87555,293750,216,294,Eine Dose. Elfenbein und Schildkrot mit dem Bildniss eines Gelehrten? Cabinetstuck.,987,97.6,False,positional,,,SCATOLE,,
@@ -240,7 +240,7 @@ BO0624_87555,293772,238,318,Eine Email-Dose mit Blumen-Boupuettes bemalt. Bescha
 BO0624_87555,293773,239,319,Eine Email Dose mit Landschaft und Blumen-Bouquettes bemalt.,1025,96.7,False,positional,,,SCATOLE,,
 BO0624_87555,293774,240,320,Eine Email Dose mit Malerei Fuchs und Hund&amp; sowie BlumenBouqettes.,1026,97.1,False,positional,,,SCATOLE,,
 BO0624_87555,293775,241,321,Eine Email-Dose mit Schaferin&amp; etc.,1027,94.9,False,positional,,,SCATOLE,,
-BO0624_87555,293776,242,322,Eine Porzellan-Dose. (Nymphenburg). Blumen. Monogr. F.ST.anno 1770.,1028,96.8,False,positional,,,SCATOLE,,
+BO0624_87555,293776,242,322,Eine Porzellan-Dose. (Nymphenburg). Blumen. Monogr. F.ST.anno 1770.,1028,96.8,False,positional,,,SCATOLE,,Sec. XVIII
 BO0624_87555,293777,243,323,Eine gemalte Email-Dose mit Frichtenverzierungen.,1029,96.0,False,positional,,,SCATOLE,,
 BO0624_87555,293778,244,324,- Eine Dose. Elfenbein und Schildkrot mit Lyra.,1031,100.0,False,positional,,,SCATOLE,,
 BO0624_87555,293779,245,325,》Amor mit Wagen《.,1033,87.5,False,positional,,,Dosen; Miniaturen,,
@@ -262,7 +262,7 @@ BO0624_87555,293794,260,341,- Eine Frau. Elfenbein-Malerei in R.,1059,100.0,Fals
 BO0624_87555,293795,261,342,Eine Dose. Monogram C. A.,1060,91.7,False,positional,,,SCATOLE,,
 BO0624_87555,293796,262,343,- Ein Miniatur auf Elfenbein. Junge Dame. In Goldfassung.,1062,100.0,False,positional,,,MINIATURE,,
 BO0624_87555,293797,263,344,Ein Miniatur auf Elfenbein. Kleines Kind als Engel. In,1063,96.3,False,positional,,,MINIATURE,,
-BO0624_87555,293798,264,345,"H.Adam, 1826.Monogr. Gebirgslandschaft mit Jager.",1067,95.8,False,positional,,,Dosen; Miniaturen,,
+BO0624_87555,293798,264,345,"H.Adam, 1826.Monogr. Gebirgslandschaft mit Jager.",1067,95.8,False,positional,,,Dosen; Miniaturen,,Sec. XIX
 BO0624_87555,293799,265,346,- Unbekannt. Bauernkirchweih.,1069,100.0,False,positional,,,Dosen; Miniaturen,,
 BO0624_87555,293800,266,347,"/348 Winck, monogr. Zwei Fruchtensticke.",1070,94.7,False,positional,,,Dosen; Miniaturen,,
 BO0624_87555,293801,267,349,Eine eiserne Klosteruhr.,1071,92.0,False,positional,,,Dosen; Miniaturen,,

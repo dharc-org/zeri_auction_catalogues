@@ -18,7 +18,7 @@ BO0624_88071,583485,16,16,| Blumenstilleben.   |,56.0,90.9,False,positional,,,OG
 BO0624_88071,583486,17,41,| 41. Zechende Landsknechte. Bezeichnet.                                                                           | Lei,62.0,90.7,False,positional,E. Birk,,,,
 BO0624_88071,583487,18,42,42. Portrait einer Dame. Aquarellierte Zeichnung 68/40                             |                |,64.0,79.4,False,title_direct,,,Aquarelle,,
 BO0624_88071,583488,19,43,| 43. Talmihle mit Staffage. Bezeichnet.                                                                           | Lei,65.0,90.7,False,positional,E. Birk,,,,
-BO0624_88071,583489,20,44,44. Auftrieb auf die Alm. Bez.:H.B.1837.                                              | Leinw.46/57    |,66.0,80.0,False,positional,E. Birk,,,,
+BO0624_88071,583489,20,44,44. Auftrieb auf die Alm. Bez.:H.B.1837.                                              | Leinw.46/57    |,66.0,80.0,False,positional,E. Birk,,,,Sec. XIX
 BO0624_88071,583490,21,45,"| 45. Landschaft mit Muhle am Abend. Leinw.a. Karton 41/58,5 Arbeit des Kinstlers von grossem Reiz und bezeichnet. |",67.0,100.0,False,positional,E. Birk,,,,
 BO0624_88071,583491,22,46,46. Bussende Magdalena.                                                                                   | Leinw. 27/39,68.0,89.2,False,positional,E. Birk,,,,
 BO0624_88071,583492,23,47,| 47. Madonna mit dem Jesuskind.                                                                                   | Hol,69.0,90.1,False,positional,E. Birk,,,,
@@ -110,7 +110,7 @@ BO0624_88071,583577,108,168,"| 168. Chrimhildis. Bezeichnet. Victor Weishaupt t,
 BO0624_88071,583578,109,169,169.Waldlandschaft mit sitzendem Kind.,,0.0,True,none,,,,,
 BO0624_88071,583579,110,168,"| 168. Chrimhildis. Bezeichnet. Victor Weishaupt t, Karlsruhe.",196.0,36.5,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583580,111,169,169.Waldlandschaft mit sitzendem Kind. | Karton 33/40   |              |,,0.0,True,none,,,,,
-BO0624_88071,583581,112,170,| Otto Cornille 1851.Taormina.                                                                        | Otto Cornille 1851.Taormina.                                                                        | Getont.                                                                                             | 28/41          |              |,197.0,97.1,False,positional,W. Schnackenberg,,,,
+BO0624_88071,583581,112,170,| Otto Cornille 1851.Taormina.                                                                        | Otto Cornille 1851.Taormina.                                                                        | Getont.                                                                                             | 28/41          |              |,197.0,97.1,False,positional,W. Schnackenberg,,,,Sec. XIX
 BO0624_88071,583582,113,171,"| Derselbe.                                                                                           | Palermo.                                                                                            | Palermo.                                                                                            | 29,5/45        |              |",198.0,94.1,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583583,114,172,| Derselbe.                                                                                           | Amalfi.                                                                                             | Amalfi.                                                                                             | 28/40          |              |,199.0,93.3,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583584,115,173,| Derselbe.                                                                                           | Noturno.                                                                                            | Noturno.                                                                                            | 30/47          |              |,200.0,93.8,False,positional,W. Schnackenberg,,,,
@@ -121,7 +121,7 @@ BO0624_88071,583588,119,177,|                                                   
 BO0624_88071,583589,120,178,"A. Kosakievicz, Munchen. Polnischer Fuhrmann. Aquarell.",205.0,96.2,False,title_direct,,,Aquarelle,,
 BO0624_88071,583590,121,179,Derselbe. Polnische Kochin. Aquarell.,206.0,94.4,False,title_direct,,,Aquarelle,,
 BO0624_88071,583591,122,180,G. J. van Os. 2 Blumensticke. Desgl.,207.0,93.9,False,positional,W. Schnackenberg,,,,
-BO0624_88071,583592,123,181,J. van Sande-Bakhuyzen. Waldlandschaft. Aquarell.,208.0,95.7,False,title_direct,,,Aquarelle,,
+BO0624_88071,583592,123,181,J. van Sande-Bakhuyzen. Waldlandschaft. Aquarell.,208.0,95.7,False,title_direct,BACKHUYSEN LUDOLF,,Aquarelle,,
 BO0624_88071,583593,124,182,W. P. Hoevenaar. Reiherbeize. Desgl.,209.0,93.9,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583594,125,6,183.,210.0,75.0,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583595,126,7,Kupferstich. Frankfurt a. M.,211.0,96.2,False,positional,W. Schnackenberg,,OGGETTI IN RAME,,
@@ -133,7 +133,7 @@ BO0624_88071,583600,131,12,187.,216.0,66.7,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583601,132,13,Desgl. Desgl.,217.0,88.0,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583602,133,188,"A. Radl t nach Fuentes. Unterirdisches Gewolbe aus der Oper ,Camilla"". Aquatinta 47/65 Dieselben. Italienisches Warenlager aus der Oper",218.0,75.7,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583603,134,189,",Der Corsar"". Pendant z. Vor.",220.0,92.3,False,positional,W. Schnackenberg,,,,
-BO0624_88071,583604,135,190,"J. G.Reinheimer nachJ. G.Prestel. Treffen der Kaiserlichen mit den Franzosen,den 22. April 1797 am",221.0,97.9,False,positional,W. Schnackenberg,,,,
+BO0624_88071,583604,135,190,"J. G.Reinheimer nachJ. G.Prestel. Treffen der Kaiserlichen mit den Franzosen,den 22. April 1797 am",221.0,97.9,False,positional,W. Schnackenberg,,,,Sec. XVIII
 BO0624_88071,583605,136,18,Bockenheimer Tor. Aquatinta 48/68.,222.0,95.5,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583606,137,19,Gebirgslandschaft mit kleinen Figuren.,223.0,96.1,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583607,138,20,191.J.G.Prestel. Aquatinta 42/28,224.0,95.4,False,positional,W. Schnackenberg,,,,
@@ -159,12 +159,12 @@ BO0624_88071,583626,157,208,Desgl. von Ruotte nach Buet fils. Le Repos apres la,
 BO0624_88071,583627,158,9,Chasse u. Le Retour de la Chasse.,246.0,96.9,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583628,159,10,Kupferdruck. Napoleon I.,247.0,93.6,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583629,160,11,209.,248.0,66.7,False,positional,W. Schnackenberg,,,,
-BO0624_88071,583630,161,210,Deutsche Schule des 18. Jahrh. Heilung des Gichtbruchigen. Tusche 24/20,249.0,97.1,False,positional,W. Schnackenberg,,,,
-BO0624_88071,583631,162,211,Bez. Fuger 1786.Abrahams Opfer.Sepia.,250.0,94.6,False,positional,W. Schnackenberg,,,,
+BO0624_88071,583630,161,210,Deutsche Schule des 18. Jahrh. Heilung des Gichtbruchigen. Tusche 24/20,249.0,97.1,False,positional,W. Schnackenberg,,,,Sec. XVIII
+BO0624_88071,583631,162,211,Bez. Fuger 1786.Abrahams Opfer.Sepia.,250.0,94.6,False,positional,W. Schnackenberg,,,,Sec. XVIII
 BO0624_88071,583632,163,14,212.,251.0,66.7,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583633,164,213,n.C. A. Richter. Schloss-Ansicht. Radierung.,253.0,95.1,False,positional,W. Schnackenberg,,ACQUEFORTI,,
 BO0624_88071,583634,165,214,Album. 100 Aquarelle auf Reispapier. Insekten.,254.0,95.6,False,title_direct,,,Aquarelle,,
-BO0624_88071,583635,166,215,Zwei Photographien 1870/71. Eintreffen der Friedensbotschaft und Kinderfest im Saalbau 27. Nov. 1870.,255.0,98.0,False,positional,W. Schnackenberg,,FOTOGRAFIE,,
+BO0624_88071,583635,166,215,Zwei Photographien 1870/71. Eintreffen der Friedensbotschaft und Kinderfest im Saalbau 27. Nov. 1870.,255.0,98.0,False,positional,W. Schnackenberg,,FOTOGRAFIE,,Sec. XIX
 BO0624_88071,583636,167,216,n.Tizian. Venus.Photo.,256.0,90.9,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583637,168,217,Convolut. 50 div. Photo v. Gemalden.,257.0,94.1,False,title_direct,,,Gemalde,,
 BO0624_88071,583638,169,21,218.,258.0,66.7,False,positional,W. Schnackenberg,,,,
@@ -180,7 +180,7 @@ BO0624_88071,583647,178,30,Desgl. Rich. Ranft.,267.0,91.4,False,positional,W. Sc
 BO0624_88071,583648,179,225,nach Kreling. Die erste Ernte nach dem 30 jahrigen Kriege. Litho.,268.0,96.9,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583649,180,32,226.,269.0,66.7,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583650,181,33,nach Wouvermann. Kupferstich.,270.0,94.7,False,positional,W. Schnackenberg,,OGGETTI IN RAME,,
-BO0624_88071,583651,182,227,Marken-Album.ca. 1700 Stick.,271.0,92.9,False,positional,W. Schnackenberg,,,,
+BO0624_88071,583651,182,227,Marken-Album.ca. 1700 Stick.,271.0,92.9,False,positional,W. Schnackenberg,,,,Sec. XVIII
 BO0624_88071,583652,183,228,Desgl. ca. 930 Stuck.,272.0,90.0,False,positional,W. Schnackenberg,,,,
 BO0624_88071,583653,184,229,Pfostenbild Koriusai. Kaiserin Tomvegoyen ein Mann besiegend.,275.0,96.7,False,positional,,,Japandrucke,,
 BO0624_88071,583654,185,2,230.,276.0,75.0,False,positional,,,Japandrucke,,
@@ -259,7 +259,7 @@ BO0624_88071,583726,257,31,Desgl. desgl. Schwarzdrucke.,348.0,94.3,False,positio
 BO0624_88071,583727,258,283,Funf Bucher Hiroshige.,349.0,91.3,False,positional,,,Japandrucke,,
 BO0624_88071,583728,259,284,Funf Bicher. Schwarzdrucke.,350.0,92.6,False,positional,,,Japandrucke,,
 BO0624_88071,583729,260,285,Kakemono.Vorbereitung zur kaiserl. Jagd. China.,351.0,95.7,False,positional,,,Japandrucke,,
-BO0624_88071,583730,261,286,Desgl. Buddha mit Goldmalerei. 15. Jahrh. China.,353.0,91.6,False,positional,,,Japandrucke,,
+BO0624_88071,583730,261,286,Desgl. Buddha mit Goldmalerei. 15. Jahrh. China.,353.0,91.6,False,positional,,,Japandrucke,,Sec. XV
 BO0624_88071,583731,262,287,Desgl. Mit seidenen Fachern. China.,354.0,94.1,False,positional,,,Japandrucke,,
 BO0624_88071,583732,263,288,Desgl. Mit Landschaft. China.,356.0,85.7,False,positional,,,Japandrucke,,
 BO0624_88071,583733,264,289,Desgl. Gespenst von Josai. Japan.,357.0,93.8,False,positional,,,Japandrucke,,
@@ -462,14 +462,14 @@ BO0624_88071,583929,460,471,"Cheminegarnitur in franz. Fayence, besteh. aus Pend
 BO0624_88071,583930,461,472,Hohe Bronzegruppe. Tscherkessischer Falkenjager. 70cm.67×27,624.0,95.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583931,462,473,"Zinnlampe. 3 flam., verstelibar.",628.0,93.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583932,463,474,Zinnschraubenkanne.,629.0,90.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88071,583933,464,475,"Zinnkrug mit Schlosseremblemen, 1789.",630.0,94.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88071,583934,465,476,Frankfurter Ratskrug. 1770. Zinn.,631.0,93.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88071,583935,466,477,- Zinnkrug der Dachdecker 1771.,633.0,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88071,583933,464,475,"Zinnkrug mit Schlosseremblemen, 1789.",630.0,94.6,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
+BO0624_88071,583934,465,476,Frankfurter Ratskrug. 1770. Zinn.,631.0,93.8,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
+BO0624_88071,583935,466,477,- Zinnkrug der Dachdecker 1771.,633.0,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88071,583936,467,478,Bauchkanne. Zinn.,634.0,88.2,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583937,468,479,"Zinnkanne, bauchig mit Wulsten.",635.0,93.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583938,469,480,Sabbathbecher. Zinn.,636.0,90.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583939,470,481,Eulenbecher mit Gravierung. Zinn.,637.0,93.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88071,583940,471,482,Zinnbecher. 1796.,638.0,88.2,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88071,583940,471,482,Zinnbecher. 1796.,638.0,88.2,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88071,583941,472,483,Relief. Wolfgang von Goethe. Kupfer getrieben.,639.0,95.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583942,473,484,Desgl. Frau Rat Goethe. Desgl.,640.0,93.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583943,474,485,Desgl. Kaspar Goethe.,641.0,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -495,7 +495,7 @@ BO0624_88071,583962,493,504,Desgl. Diam.38 cm.,671.0,88.9,False,positional,,,Ant
 BO0624_88071,583963,494,505,Desgl.mit Blumenkorb.Diam.30 cm.,672.0,93.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583964,495,506,Zwei Talavera-Kacheln.,673.0,91.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583965,496,507,"Vier Talavera-Kacheln. Siegburger Schnelle mit 3 Furstenportrats u. 3 Wappen,",675.0,82.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88071,583966,497,508,1581.,676.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88071,583966,497,508,1581.,676.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVI
 BO0624_88071,583967,498,4,509.,677.0,75.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583968,499,5,"Speiseservice. 36 Stuick, Wedgwood mit rotem Dekor.",678.0,98.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583969,500,510,Grosser Cachepot. Majolika.,679.0,92.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -516,7 +516,7 @@ BO0624_88071,583983,514,520,Zwei Porzellanfiguren. Amerika und Asien. Pendants. 
 BO0624_88071,583984,515,521,Porzellangruppe.,695.0,88.2,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583985,516,23,In der Gartenlaube. Hohe 32 cm. Marke Ludwigsburg.,696.0,96.9,False,positional,,Manifattura di Ludwigsburg,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583986,517,24,522.,697.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88071,583987,518,25,Schmuckkasten mit Beschlagen. 17. Jahrhundert.,698.0,96.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88071,583987,518,25,Schmuckkasten mit Beschlagen. 17. Jahrhundert.,698.0,96.6,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVII
 BO0624_88071,583988,519,523,"Doppelfernrohr 15 mal. Vergrosserung, Aluminium in Etui.F. Renninger, Frankfurt.",699.0,75.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583989,520,524,"Desgl. 16 mal. Vergrosserung, in Etui.",701.0,94.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,583990,521,525,"Desgl. 12 mal. Vergrosserung, in Etui.",702.0,94.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -534,7 +534,7 @@ BO0624_88071,584001,532,536,Desgl. Landschaft mit Pfau. 34/27.,717.0,93.9,False,
 BO0624_88071,584002,533,537,"Schnapsbouttel, weiss mit Buckeln.",718.0,94.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,584003,534,538,"Halskrug, bauchig, blau-weiss Fayence.",719.0,94.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,584004,535,539,Fayence-Kaffee- und Michkanne. Offenbach a. M.,720.0,95.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88071,584005,536,540,Halskrug mit Jahreszahl 1813. Irden.,721.0,94.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88071,584005,536,540,Halskrug mit Jahreszahl 1813. Irden.,721.0,94.4,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_88071,584006,537,541,"Teebuchse, blau-weiss Porzellan.",722.0,93.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,584007,538,542,"Pfefferbuchse, weiss. Zell.",723.0,92.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,584008,539,543,"Fayencetintenfass, Kommodeform.Kelsterbach.",724.0,95.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -551,8 +551,8 @@ BO0624_88071,584018,549,553,"Steingutkrug, bauchig, mit Deckel. Nassau.",738.0,9
 BO0624_88071,584019,550,554,Desgl. desgl. mit Arabesken. Desgl.,739.0,93.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,584020,551,555,- Desgl.,741.0,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,584021,552,556,Desgl.r mit Lamm-Dekor.,742.0,91.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88071,584022,553,557,"Zinnschraubenkanne, sechseckig. 1725.",743.0,94.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88071,584023,554,558,Desgl. desgl. 1758.,744.0,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88071,584022,553,557,"Zinnschraubenkanne, sechseckig. 1725.",743.0,94.4,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
+BO0624_88071,584023,554,558,Desgl. desgl. 1758.,744.0,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88071,584024,555,559,- Zinnterrine mit zwei Henkeln.,746.0,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,584025,556,560,- 561.,748.0,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88071,584026,557,562,Desgl. mit Vogel. Desgl.,751.0,91.3,False,positional,,,Antiquitaten; Kunstgegenstande,,

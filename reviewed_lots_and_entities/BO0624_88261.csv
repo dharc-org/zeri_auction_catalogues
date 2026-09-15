@@ -103,7 +103,7 @@ BO0624_88261,254283,101,140,"Gebirgssee,",285.0,83.3,False,positional,Gustav A. 
 BO0624_88261,254284,102,156,"157 158  | Albblick, O1. Nurtingen, Neckarthailfingen, ”” Fritz Eckenfelder, Minchen-Balingen.                        |",291.0,97.6,False,positional,Prof. Ludwig Dill,,,,
 BO0624_88261,254285,103,159,"160 161  | Bauernfuhrwerk, O1. Pferdebild, Schwab. Aiblandschaift mit Schimmelgespann, Ol. Prof. Otto Fedder,Minchen. |",292.0,98.1,False,positional,Prof. Ludwig Dill,,,,
 BO0624_88261,254286,104,162,"| Kartoffelernte, O1. 163 Heuernte, 164 Bittgang                                                             |",293.0,95.6,False,positional,Prof. Ludwig Dill,,,,
-BO0624_88261,254287,105,167,"168 1691 | 166 Blumenstick, Orchideen u. Narzissen, O1. Hyazinthen im Krug, Blumenstilleben, ” Bunte Blumen,          |",295.0,98.0,False,positional,Prof. Ludwig Dill,,OGGETTI VARI,,
+BO0624_88261,254287,105,167,"168 1691 | 166 Blumenstick, Orchideen u. Narzissen, O1. Hyazinthen im Krug, Blumenstilleben, ” Bunte Blumen,          |",295.0,98.0,False,positional,Prof. Ludwig Dill,,OGGETTI VARI,,Sec. XVII
 BO0624_88261,254288,106,170,"171      | Heinrich Gogarten,Minchen. O1. Wintermorgen, Winterlandschait mit Sonnenuntergang,                         |",296.0,97.6,False,positional,Prof. Ludwig Dill,,,,
 BO0624_88261,254289,107,172,"Waldlandschait mit Blick auis Gebirge, Ol. - 184",298.0,90.9,False,positional,Prof. Ludwig Dill,,,,
 BO0624_88261,254290,108,173,"Allegorische Darstellung, Zeichnung.",304.0,94.4,False,title_direct,,,Zeichnungen,,
@@ -168,21 +168,21 @@ BO0624_88261,254348,166,295,Kaiser Franz Joseph und Kaiserin Maria Theresia. Ul 
 BO0624_88261,254349,167,296,"Herzog Karl, Olgemalde in Goldrahme.",458.0,94.4,False,positional,,,Alte Bilder,,
 BO0624_88261,254350,168,297,"zu Pferd, im Hintergrund die Solitude. Auf Glas gemalt, in schwarzer Rahme.",460.0,97.3,False,title_direct,,,Glas,,
 BO0624_88261,254351,169,298,Stich.Gerahmt.,461.0,86.7,False,positional,,,Alte Bilder,,
-BO0624_88261,254352,170,299,"- Schlacht bei Abensberg, 19.Apr.1809.Farb.Stich. Gerahmt.",463.0,100.0,False,positional,,,Alte Bilder,,
-BO0624_88261,254353,171,300,"Zusammenkunit Kaiser von RuBland, Osterreich und Konig von PreuBen in Warschau 1853. Farb. Lith. Gerahmt.",464.0,98.0,False,positional,,,Alte Bilder,,
+BO0624_88261,254352,170,299,"- Schlacht bei Abensberg, 19.Apr.1809.Farb.Stich. Gerahmt.",463.0,100.0,False,positional,,,Alte Bilder,,Sec. XIX
+BO0624_88261,254353,171,300,"Zusammenkunit Kaiser von RuBland, Osterreich und Konig von PreuBen in Warschau 1853. Farb. Lith. Gerahmt.",464.0,98.0,False,positional,,,Alte Bilder,,Sec. XIX
 BO0624_88261,254354,172,301,"- Einzug Weibliches ""9 "" Gegenstuick zum vorigen.",469.0,89.2,False,positional,,,Alte Bilder,,
 BO0624_88261,254355,173,302,Mannliches Portrat aus der Empirezeit. Pastell.,470.0,95.7,False,positional,,,Alte Bilder,,
-BO0624_88261,254356,174,305,"Anna Maria Siberin, geb. Seifferheldin. 1690. Auf Kupfer",472.0,96.3,False,positional,,,Alte Bilder,,
+BO0624_88261,254356,174,305,"Anna Maria Siberin, geb. Seifferheldin. 1690. Auf Kupfer",472.0,96.3,False,positional,,,Alte Bilder,,Sec. XVII
 BO0624_88261,254357,175,304,Kupfer gemalt.,473.0,86.7,False,positional,,,Alte Bilder,,
 BO0624_88261,254358,176,307,"1 Louis XVI. Rahme, Kupfer, versilbert. Leda mit dem Schwan und ihren Gespielinnen. Relief.",476.0,72.5,False,positional,,,Alte Bilder,,
 BO0624_88261,254359,177,308,"Ludwig XVI. Kol. Stich in Louis XVI. Rahme. Siehe Abbildung. Ridinger,Pferdebild,Hollander,Ger. Stich. Marie Antoinette, kol. Stich in Louis XVI. Rahme. Siehe Abbildung.",479.0,55.9,False,positional,,,Alte Bilder,,
 BO0624_88261,254360,178,311,"Alexander I, Kaiser von RuBland, verehrt die Uberreste Friedrichs des Grofen. Stich v. Meyer. In schwarzer Rahme. 1Barockrahme, schwarz mit Gold. 1 holzgeschnitzte Barockrahme.",480.0,77.0,False,positional,,,Alte Bilder,,
-BO0624_88261,254361,179,314,"2 Portrats aus Ulm stammend, Mann und Frau, Ol, auf Originalrahmen, schwarz mit Gold,Louis XVI. 2 Heiligenbilder, Ruckseite bezeichnet Johann Grg. Wink, 2 Portrats, aus Stuttgart stammend,Mann und Frau,Ol auf Leinwand. Ruckseite bezeichnet pinxit Gottfried Christian Enslen. Stuttgart,1779.",487.0,64.6,False,positional,,,Alte Bilder,,
+BO0624_88261,254361,179,314,"2 Portrats aus Ulm stammend, Mann und Frau, Ol, auf Originalrahmen, schwarz mit Gold,Louis XVI. 2 Heiligenbilder, Ruckseite bezeichnet Johann Grg. Wink, 2 Portrats, aus Stuttgart stammend,Mann und Frau,Ol auf Leinwand. Ruckseite bezeichnet pinxit Gottfried Christian Enslen. Stuttgart,1779.",487.0,64.6,False,positional,,,Alte Bilder,,Sec. XVIII
 BO0624_88261,254362,180,317,1 Portrat eines Comthurs der Balley Altshausen Deutsch-,492.0,96.4,False,positional,,,Alte Bilder,,
 BO0624_88261,254363,181,318,- 320,494.0,100.0,False,positional,,,Alte Bilder,,
 BO0624_88261,254364,182,319,"2 Heiligenbilder auf Rolle, Ol und Tempera.",495.0,95.3,False,positional,,,Alte Bilder,,
 BO0624_88261,254365,183,2,Heiligenbilder (Stationsbilder) bez. Ga.Ep.,497.0,97.5,False,positional,,,Alte Bilder,,
-BO0624_88261,254366,184,322,"2 Blatt Napoleon und Maria Louise. Begegnung Napoleons I. mit Alexander I. u.Friedrich Wilhelm Ill. 1807. Gemalde von Schumann, Stich v. Claar.",501.0,85.8,False,positional,,,Alte Bilder,,
+BO0624_88261,254366,184,322,"2 Blatt Napoleon und Maria Louise. Begegnung Napoleons I. mit Alexander I. u.Friedrich Wilhelm Ill. 1807. Gemalde von Schumann, Stich v. Claar.",501.0,85.8,False,positional,,,Alte Bilder,,Sec. XIX
 BO0624_88261,254367,185,323,2,502.0,33.3,False,positional,,Scuola Napoletana,Alte Bilder,,
 BO0624_88261,254368,186,7,"."" """,503.0,0.0,False,positional,,,Alte Bilder,,
 BO0624_88261,254369,187,325,Ifland als Don Ranudo de Colibrados. Friedrich v. Schill.,504.0,75.3,False,positional,,,Alte Bilder,,
@@ -207,8 +207,8 @@ BO0624_88261,254387,205,343,"32 cm breit. 1 Kabinettschrank von Ebenholz,mit Elf
 BO0624_88261,254388,206,346,1,548.0,33.3,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Miniaturkastchen,,
 BO0624_88261,254389,207,347,"- 1 Rokokokommodchen,36 cm lang, 32 cm hoch,20 cm tief.",551.0,100.0,False,positional,,,Miniaturkastchen,,
 BO0624_88261,254390,208,348,"1 Reiseapotheke,innen mit Leder bezogen,mit Gold gepreB tem Deutschherrnwappen, 17 cm lang, breit und hoch.",552.0,98.1,False,positional,,,Miniaturkastchen,,
-BO0624_88261,254391,209,349,"1 Pieta,got.Figur um 1520,50 cm hoch,",556.0,94.7,False,positional,,,"Holzfiguren, Schnitzereien",,
-BO0624_88261,254392,210,350,"1 Katharina, got. Figur um 1500, die Hande auf das Schwert gestitzt mit Krone, 90 cm hoch.",557.0,97.7,False,positional,,,"Holzfiguren, Schnitzereien",,
+BO0624_88261,254391,209,349,"1 Pieta,got.Figur um 1520,50 cm hoch,",556.0,94.7,False,positional,,,"Holzfiguren, Schnitzereien",,Sec. XVI
+BO0624_88261,254392,210,350,"1 Katharina, got. Figur um 1500, die Hande auf das Schwert gestitzt mit Krone, 90 cm hoch.",557.0,97.7,False,positional,,,"Holzfiguren, Schnitzereien",,Sec. XVI
 BO0624_88261,254393,211,351,"1 heil. Bischof mit hoher Mitra, mit Buch und Stab, vollbartiges Gesicht, zu Fufen einen Ochsen, 95 cm hoch.",558.0,98.1,False,positional,,,"Holzfiguren, Schnitzereien",,
 BO0624_88261,254394,212,352,"Vergoldeter Barockhausaltar mit Madonna, selbdritt. 1 Eckkonsole,holzgeschnitzt, mit reichen Ornamenten, vergoldet, 110 cm hoch.Siehe Abbildung!",561.0,77.4,False,positional,,,"Holzfiguren, Schnitzereien",,
 BO0624_88261,254395,213,353,"- 355 2 Wandkonsolen,holzgeschnitzt mit Lowenkopfen, vergoldet, mit Marmorplatten,102 cm hoch.Siehe Abbildung！",563.0,100.0,False,positional,,,"Holzfiguren, Schnitzereien",,
@@ -239,7 +239,7 @@ BO0624_88261,254419,237,381,"1 Waffeleisen (Oblateneisen).17. Jahrh. - 383 1 Wan
 BO0624_88261,254420,238,382,- 384,613.0,100.0,False,positional,,,Verschiedene Altertimer,,
 BO0624_88261,254421,239,385,- mit Wappen. 99,615.0,100.0,False,positional,,,Verschiedene Altertimer,,
 BO0624_88261,254422,240,1,"BroncegefaB,Pelikan mit Jungen in SechspaBform.",616.0,97.9,False,positional,,,Verschiedene Altertimer,,
-BO0624_88261,254423,241,1,"Abendmahlskelch, Kupier vergoldet, 28 cm hoch, 17. Jahrh.",617.0,98.1,False,positional,,,Verschiedene Altertimer,,
+BO0624_88261,254423,241,1,"Abendmahlskelch, Kupier vergoldet, 28 cm hoch, 17. Jahrh.",617.0,98.1,False,positional,,,Verschiedene Altertimer,,Sec. XVII
 BO0624_88261,254424,242,386,"1 Stuick gelben Seiden-Damast m.Blumenmuster,2.60X2.45.",621.0,96.4,False,positional,,,Stoffe und Spitzen,,
 BO0624_88261,254425,243,387,- 388,625.0,100.0,False,positional,,,Stoffe und Spitzen,,
 BO0624_88261,254426,244,1,"kleine Decke,mit blauer Stickerei,Rosen,40X29.",627.0,97.8,False,positional,,,Stoffe und Spitzen,,
@@ -257,7 +257,7 @@ BO0624_88261,254437,255,403,"- 1 Flasche mit engem Hals, gerippt, geblasenes Gla
 BO0624_88261,254438,256,404,"1 geschliffenes Trinkglas,im Boden doppelte Wandung,",661.0,96.2,False,positional,,,Glas,,
 BO0624_88261,254439,257,405,"1 Abendmahlskelch mit Platte, 26 cm hoch, Silber vergoldet. 1 grofer Silberpokal, 54 cm hoch. 1 Silberpokal, Renaissance, 33 cm hoch.",665.0,60.5,False,title_direct,,,Silber,,
 BO0624_88261,254440,258,408,"1 silb. Trinkbecher, vergoldet, in Birnenform mit Blattorna-",668.0,96.6,False,positional,,,COPPE,,
-BO0624_88261,254441,259,409,"1 silb. Trinkbecher, vergoldet, mit Ornament graviert, 55mm hoch, Nurnberger Beschau, Nurnberger Arbeit des Wolf Loscher,Meister,1568.S Siehe Rosenberg, der Goldschmiede Merkzeichen.",670.0,98.9,False,positional,,Scuola di Norimberga,COPPE,,
+BO0624_88261,254441,259,409,"1 silb. Trinkbecher, vergoldet, mit Ornament graviert, 55mm hoch, Nurnberger Beschau, Nurnberger Arbeit des Wolf Loscher,Meister,1568.S Siehe Rosenberg, der Goldschmiede Merkzeichen.",670.0,98.9,False,positional,,Scuola di Norimberga,COPPE,,Sec. XVI
 BO0624_88261,254442,260,410,"1 Zuckerdose mit Deckel, bunt bemalt, Blumen, Ludwigs-",674.0,96.2,False,positional,,,"Fayencen, Figuren",,
 BO0624_88261,254443,261,411,"1Teller,gerippt,mit Blumen emalt,Miderviller StraBburg)",675.0,96.4,False,positional,,,"Fayencen, Figuren",,
 BO0624_88261,254444,262,412,"1Fayencekrug,Delt,mit blauer MalereiKirche mit Baumen, Zinndeckel, 25 cm hoch. Siehe Abbildung! Fayencekrug mit Zinndeckel, blauer Malerei und roter",677.0,76.5,False,title_direct,,,Zinn,,
@@ -461,7 +461,7 @@ BO0624_88261,254641,459,719,"Nurtingen, Lith. von Weeber. Peterstal, Lith. v. Ha
 BO0624_88261,254642,460,722,"Ravensburg, Stich von Merian. Plan, Stich von Bodenehr. "" Reutlingen, Stich von Poppel. 、",1246.0,50.9,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254643,461,725,"Marienkirche, Stich. ， Storchenturm und alte Stadtmauer. Zeichnung",1248.0,80.4,False,title_direct,,,Zeichnungen,,
 BO0624_88261,254644,462,726,Lith.v. Gatternicht.,1249.0,90.0,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254645,463,729,"Stich von Braun und Hogenberg. "" Reutlingen, Brand 1726. Stich v. Merian. Uberaus selten!",1252.0,76.5,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254645,463,729,"Stich von Braun und Hogenberg. "" Reutlingen, Brand 1726. Stich v. Merian. Uberaus selten!",1252.0,76.5,False,positional,,,"Stiche,Lithographien",,Sec. XVIII
 BO0624_88261,254646,464,730,mit dem Bahnhof und Albaussicht.Farbige,1253.0,95.1,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254647,465,731,"Reutlingen, Gesamtansicht mit Achalm m.12 Nebenansichten. Riepoldsau. Geatzt von Vollenweider. Riedlingen, Stich von Merian.",1254.0,62.1,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254648,466,734,"Rosenfeld, Stich von Merian.",1261.0,92.9,False,positional,,,"Stiche,Lithographien",,
@@ -472,11 +472,11 @@ BO0624_88261,254652,470,740,- 739,1269.0,100.0,False,positional,,,"Stiche,Lithog
 BO0624_88261,254653,471,742,"- 741 Schomberg, ein Stift in Schwaben.",1272.0,100.0,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254654,472,743,"Stetten, Schlof (Kocherstetten). Lith. v. Federer.",1276.0,95.6,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254655,473,744,"a GroBe Lith. v. Emminger. """" ""， Stuttgart, Gesamtansicht. Lith.",1278.0,69.0,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254656,474,745,"- Kol. Lith. Miniaturstich von Merian. Ansicht von 1841, Lith.",1281.0,60.2,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254656,474,745,"- Kol. Lith. Miniaturstich von Merian. Ansicht von 1841, Lith.",1281.0,60.2,False,positional,,,"Stiche,Lithographien",,Sec. XIX
 BO0624_88261,254657,475,748,"Gesamtansicht, Stich v.Wolffy. GroBe 110:40 cm.",1283.0,95.7,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254658,476,749,Plan von Merian.,1284.0,88.2,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254659,477,750,"|                                                       | 749a Stuttgart, von der Abendseite. Kol. Stich. Sehr schon! Miniaturplan von Merian.                                |",1285.0,97.5,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254660,478,751,"| 99                                                    | Stuttgart,Plan 1641 n. Merian. Lith.                                                                                |",1287.0,94.7,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254660,478,751,"| 99                                                    | Stuttgart,Plan 1641 n. Merian. Lith.                                                                                |",1287.0,94.7,False,positional,,,"Stiche,Lithographien",,Sec. XVII
 BO0624_88261,254661,479,752,"| 66                                                    | Lustgarten,Stich von Merian. Tadellos erhalten, mit vollem Rand. Sehr selten!                                       |",1288.0,97.4,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254662,480,753,"|                                                       | Stuttgart, Lustgarten, Stich v.Merian. Am Rande beschnitten.                                                        |",1289.0,96.6,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254663,481,754,"|                                                       | Erinnerung an Stuttgart,farb. Lith. von Emminger mit 18 schwarzen Nebenansichten.                                   |",1290.0,97.5,False,positional,,,"Stiche,Lithographien",,
@@ -498,7 +498,7 @@ BO0624_88261,254678,496,770,| CC                                                
 BO0624_88261,254679,497,771,"|                                                       | Stuttgart,neue Infanteriekaserne. Farb. Stich v. Pobuda.                                                            |",1307.0,96.3,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254680,498,772,|                                                       | kgl. offentliche Bibliothek. Farb.Stich v. Grunewald.                                                               |,1308.0,96.1,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254681,499,773,| ”，                                                    | Kunstgebaude.Farb. Stich von Pobuda.                                                                                |,1309.0,94.4,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254682,500,774,"|                                                       | Konigstrafe mit kleinem Bazar im Jahre 1811. Tuschzeichnung. Stuttgart, der See. Stich von Merian. Mit vollem Rand. |",1310.0,98.2,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254682,500,774,"|                                                       | Konigstrafe mit kleinem Bazar im Jahre 1811. Tuschzeichnung. Stuttgart, der See. Stich von Merian. Mit vollem Rand. |",1310.0,98.2,False,positional,,,"Stiche,Lithographien",,Sec. XIX
 BO0624_88261,254683,501,775,776     | SchieBrain.                                           |                                                                                                                     |,1311.0,87.5,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254684,502,777,| ”，                                                    | Sehr schon erhalten.                                                                                                |,1312.0,90.5,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254685,503,778,"| Albert Wagner. Stuttgart, dasselbe in Tuschzeichnung. | platze mit Stuttgarter Feuerwehr. Originalzeichnung von                                                             |",1314.0,98.1,False,positional,,,"Stiche,Lithographien",,
@@ -509,22 +509,22 @@ BO0624_88261,254689,507,784,|                                                   
 BO0624_88261,254690,508,785,|                                                       | von Potzenhammer.                                                                                                   |,1322.0,88.9,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254691,509,786,|                                                       |                                                                                                                     |,1323.0,0.0,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254692,510,787,"- Stuttgart, Solitude. Lith.",1326.0,100.0,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254693,511,788,"Klein-Hohenheim.Farb. Lith. Stuttgart,Ansicht der Einfahrt des ersten Getreidewagens 1817. Farb. Stich. Uberaus selten. In tadelloser Erhaltung. 1841. Lith. von Herwegen.",1329.0,81.5,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254694,512,791,"Stuttgart, Gesellenbrief. 1798.",1331.0,93.3,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254693,511,788,"Klein-Hohenheim.Farb. Lith. Stuttgart,Ansicht der Einfahrt des ersten Getreidewagens 1817. Farb. Stich. Uberaus selten. In tadelloser Erhaltung. 1841. Lith. von Herwegen.",1329.0,81.5,False,positional,,,"Stiche,Lithographien",,Sec. XIX
+BO0624_88261,254694,512,791,"Stuttgart, Gesellenbrief. 1798.",1331.0,93.3,False,positional,,,"Stiche,Lithographien",,Sec. XVIII
 BO0624_88261,254695,513,793,- 792,1333.0,100.0,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254696,514,794,Mappe mit Goldpressung. Sultzburg. Stich von Merian. Sulz am Neckar. Stich von Kilian. Selten.,1339.0,60.0,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254697,515,797,"Teinach, Lith. Tubingen, Gesamtansicht.Farb.Lith. Farb.Lith.v. Obach. In dieser Erhaltung sehr selten!",1342.0,67.6,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254698,516,800,"Miniaturstich von Merian. """,1343.0,92.3,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254699,517,801,mit Neckartal. Lith.,1345.0,90.0,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254700,518,802,mit Neckarhalde und altem Schlof. Aqu. von,1346.0,95.2,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254701,519,803,- J. Steinkopf.1816.,1348.0,100.0,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254701,519,803,- J. Steinkopf.1816.,1348.0,100.0,False,positional,,,"Stiche,Lithographien",,Sec. XIX
 BO0624_88261,254702,520,804,"Gesamtansicht,im Vordergrunde Universitat. Hervor-""， ragend schones Blatt. In dieser Erhaltung uberaus selten!",1349.0,98.1,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254703,521,805,Tubingen. Stich von Merian. 806,1351.0,93.5,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254704,522,808,""" Braun und Hogenberg. 59 """" """,1353.0,91.7,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254705,523,809,"altkoloriert. """"",1354.0,85.7,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254706,524,811,- 810 Lehrbrief aus dem Jahr 1862.,1356.0,100.0,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254706,524,811,- 810 Lehrbrief aus dem Jahr 1862.,1356.0,100.0,False,positional,,,"Stiche,Lithographien",,Sec. XIX
 BO0624_88261,254707,525,812,das Museum. Stich von Rupp.,1357.0,92.6,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254708,526,813,"Bibliotheksaal.Stich. Furst.1827. "" "" das Wilhelmsstift.Gez.v. Hahn. ""，",1361.0,65.2,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254708,526,813,"Bibliotheksaal.Stich. Furst.1827. "" "" das Wilhelmsstift.Gez.v. Hahn. ""，",1361.0,65.2,False,positional,,,"Stiche,Lithographien",,Sec. XIX
 BO0624_88261,254709,527,816,Lith.v.Emminger. Tuttlingen mit Honberg.Stich von Merian. die,1363.0,78.4,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254710,528,819,Uhlbach mit Kirche. Alte Lithogr. mit angesetztem Rand.,1367.0,96.3,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254711,529,820,"Ulm, Ansicht der Reichsfestung, im Vordergrunde 4 Soldaten. Farb. Lith.",1368.0,97.1,False,positional,,,"Stiche,Lithographien",,
@@ -542,7 +542,7 @@ BO0624_88261,254722,540,838,Villingen.Stich von Merian.,1394.0,92.9,False,positi
 BO0624_88261,254723,541,840,"- Waldenburg im Hohenlohischen, farb. Stich. Wangen, Stich von Merian. Ober-Waldsee,SchloB,Stich von Merian.",1396.0,56.1,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254724,542,843,"Warthausen,Grafl. Stadion'sches SchloB.",1399.0,94.9,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254725,543,844,"Weickersheim-Carlsberg, Stich von Merian.",1400.0,95.1,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254726,544,845,"Weinsberg mit Weibertreue,Punktierstich. WeiBenstein,Stich von Merian. die Weibertreue 1140,farb.Lith. v.Renz.Gerahmt.",1404.0,56.4,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254726,544,845,"Weinsberg mit Weibertreue,Punktierstich. WeiBenstein,Stich von Merian. die Weibertreue 1140,farb.Lith. v.Renz.Gerahmt.",1404.0,56.4,False,positional,,,"Stiche,Lithographien",,Sec. XII
 BO0624_88261,254727,545,848,"Wildbad, Kurhaus und Badgebaude. Lith. v. Obach.",1405.0,95.6,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254728,546,850,"- 849 """" Hotel Bellevue, kl. Stich von Probst. Kurgebaude, Lith. von Baumann.",1410.0,69.2,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254729,547,853,"von der Ostseite,kl. Stich von Probst. Wimpfen am Neckar. C6",1412.0,74.2,False,positional,,,"Stiche,Lithographien",,
@@ -553,15 +553,15 @@ BO0624_88261,254733,551,863,"14 Herzoge v. Wurttemberg, gerahmt. """" Eberhard I
 BO0624_88261,254734,552,866,Konig Wilhelm I. Stich von Deis.,1432.0,93.8,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254735,553,867,Konig Wilhelm I. von Wurttemberg. Stich von Cornielliet.,1436.0,96.4,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254736,554,868,Konig Wilhelm von Wurttemberg. Farbiger Miniaturstich. Aeuferst selten. Konig Wilhelm von Wurttemberg mit Gefolge zu Pierd. Konig Wilhelm von Wurttemberg. Aqu.,1437.0,60.4,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254737,555,871,"Beisetzung der Konigin Katharina 1819. Konigin Olga. Farb. Lith. Sehr schon. Wurttemberg, General in grofer Uniform,zu Pferd.Im Hintergrunde Konig Wilhelm. Stich. Aeuferst selten!",1449.0,73.5,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254737,555,871,"Beisetzung der Konigin Katharina 1819. Konigin Olga. Farb. Lith. Sehr schon. Wurttemberg, General in grofer Uniform,zu Pferd.Im Hintergrunde Konig Wilhelm. Stich. Aeuferst selten!",1449.0,73.5,False,positional,,,"Stiche,Lithographien",,Sec. XIX
 BO0624_88261,254738,556,874,Konig Wilhelm von Wurttemberg auf der Fahrt zum Rennen,1453.0,100.0,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254739,557,875,"Gotz von Berlichingen,Sepiazeichnung. a nach Weil mit Funferzug. Lith.",1457.0,67.3,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254740,558,876,"Wilhelm Hauff, Lith. von Wolffle.",1460.0,93.8,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254741,559,877,Einzug Friedrich Wilhelms in Stuttgart 1814.Brauner,1463.0,96.2,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254741,559,877,Einzug Friedrich Wilhelms in Stuttgart 1814.Brauner,1463.0,96.2,False,positional,,,"Stiche,Lithographien",,Sec. XIX
 BO0624_88261,254742,560,878,"Bebenhauser Jagd,Aquarell.",1464.0,92.6,False,title_direct,,,Aquarelle,,
 BO0624_88261,254743,561,879,"Leonberger Jagd, Stich von Wagner. Hervorragend schones,",1467.0,96.4,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254744,562,880,"Farren in Beutelspach, wahre Begebenheit. Spottblatt.",1469.0,96.2,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254745,563,881,"Wurtt. Militarblatt 1840 mit wurtt. Stadtewappen, farb. Stich.",1470.0,96.6,False,positional,,,"Stiche,Lithographien",,
+BO0624_88261,254745,563,881,"Wurtt. Militarblatt 1840 mit wurtt. Stadtewappen, farb. Stich.",1470.0,96.6,False,positional,,,"Stiche,Lithographien",,Sec. XIX
 BO0624_88261,254746,564,882,"16 Blatt Eckert und Monten,Militarbilder.Samtliche sehr",1474.0,96.5,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254747,565,883,Wurtt. Reiterei und-Schutzen. Farb. Lith. von Eckert und Monten.1 Bl.,1475.0,97.0,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254748,566,884,Trachtenbild aus dem Oberamt Tubingen.Farb. Lith. von,1477.0,96.2,False,positional,,,"Stiche,Lithographien",,
@@ -577,12 +577,12 @@ BO0624_88261,254757,575,899,Der Hammeltanz in Hornberg. Geatzt von Nilson.,1501.
 BO0624_88261,254758,576,900,- Das Holzflozen bei Wolfach.,1504.0,100.0,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254759,577,901,Der Holzapfeltanz. - Geatzt von Meichelt.,1507.0,67.9,False,positional,,,"Stiche,Lithographien",,
 BO0624_88261,254760,578,902,Brautzug im Schwarzwald. 66,1508.0,92.9,False,positional,,,"Stiche,Lithographien",,
-BO0624_88261,254761,579,903,Ausstellungsplakat 1881 von Liezenmayer.,1512.0,95.1,False,positional,,,Plakate,,
+BO0624_88261,254761,579,903,Ausstellungsplakat 1881 von Liezenmayer.,1512.0,95.1,False,positional,,,Plakate,,Sec. XIX
 BO0624_88261,254762,580,905,2Plakate von Ulm. Ansichten yon Ulm.,1514.0,67.9,False,title_direct,,,Plakate,,
-BO0624_88261,254763,581,906,"5 Ansichten von Stuttgart im Jahre 1592. Autograph. von M.Bach. - 11 Photographien von Mergentheim,Weikersheim usw. Die Originalzeichnung dazu.",1515.0,60.0,False,positional,,,Plakate,,
+BO0624_88261,254763,581,906,"5 Ansichten von Stuttgart im Jahre 1592. Autograph. von M.Bach. - 11 Photographien von Mergentheim,Weikersheim usw. Die Originalzeichnung dazu.",1515.0,60.0,False,positional,,,Plakate,,Sec. XVI
 BO0624_88261,254764,582,909,Die Fresko-Bilder im Kronungssaale zu Aachen von Alfred,1519.0,96.5,False,positional,,,Plakate,,
 BO0624_88261,254765,583,910,"- Rethel, Holzschnitt in Mappe.",1521.0,100.0,False,positional,,,Plakate,,
-BO0624_88261,254766,584,911,"Schwab.Merkur,1785,",1522.0,90.0,False,positional,,,Plakate,,
+BO0624_88261,254766,584,911,"Schwab.Merkur,1785,",1522.0,90.0,False,positional,,,Plakate,,Sec. XVIII
 BO0624_88261,254767,585,912,"5 Kostumblatter, Stiche. 6 Trachtenbilder aus Albanien und Griechenland. 12 farbige Kostumblatter.",1525.0,65.3,False,positional,,,Plakate,,
 BO0624_88261,254768,586,915,- 916,1528.0,100.0,False,positional,,,Plakate,,
 BO0624_88261,254769,587,41,Schweizer Trachten. Kol. Lith.,1529.0,94.7,False,positional,,,Plakate,,

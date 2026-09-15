@@ -7,7 +7,7 @@ BO0624_87748,474620,5,5,"5.Bei Gegenstanden,fur welche seitens der Verkaufer Min
 BO0624_87748,474621,6,6,"6.Gesteigert wird mindestens um 1 Mk.,uber 100 um 5 Mk. Von der Reihenfolge wird nur ausnahmsweise abgewichen.",8,99.1,False,none,,,,,
 BO0624_87748,474622,7,7,7.Ein Aufschlag zur Kaufsumme wird vom Kaufer mit 5% erhoben.,9,98.3,False,none,,,,,
 BO0624_87748,474623,8,8,8.Bei Streitigkeiten iber den Zuschlag wird der betreffende Gegenstand noch einmal ausgeboten.,10,98.9,False,none,,,,,
-BO0624_87748,474624,9,9,"9.Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los. (Ges. v. 10. Juli 1902.)",11,99.1,False,none,,,,,
+BO0624_87748,474624,9,9,"9.Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los. (Ges. v. 10. Juli 1902.)",11,99.1,False,none,,,,,Sec. XX
 BO0624_87748,474625,10,I,"m Allgemeinen stehen bei weitem an erster Stelle die Niederlander; die Hollander und Vlamen sind durch kostliche, iber jeden Zweifel erhabene,z. T. voll bezeichnete Werke vertreten,—altdeutsche Meister in geringerer Zahl, dagegen reichhaltiger die Italiener, und von diesen besonders die venezianische und bologneser Schule des 16.-17.Jahrh.",18,99.8,False,none,,Scuola Bolognese,,,
 BO0624_87748,474626,11,1,",2-Landschaft mit Wildbach und Mondlandschaft mit brennendem Dorf.",56,98.5,False,positional,PETER VAN BEMMEL,,,,
 BO0624_87748,474627,12,3,Madonna mit Kind. nteressantes Bildchen.,66,73.3,False,positional,,UMBRISCHE SCHULE,,,
@@ -53,7 +53,7 @@ BO0624_87748,474666,51,42,Jahrmarkt.,553,85.7,False,positional,JAN PETER VAN BRE
 BO0624_87748,474667,52,43,Flusslandschaft.,564,90.9,False,positional,ADAM PIJNACKER,,,,
 BO0624_87748,474668,53,44,Italienische Landschaft.,578,93.9,False,positional,HERMAN VAN SWANEVELT,,,,
 BO0624_87748,474669,54,45,Stillleben.,590,87.0,False,positional,RACHEL RUYSCH,,,,
-BO0624_87748,474670,55,46,"— Inneres eines Domes. m Vordergrunde,die ganze Breitseite einnehmend, ein durch eine Balustrade abgetrennter Raum,von welchem zwei Stufen zum Hauptschiff fuhren. Dieses ist der ganzen Lange nach bis zum Hochaltar sichtbar und erhalt sein Licht durch die Seitenfenster. Rechts die Orgel,weiter zurick die reich skulptierte Kanzel.Vielerlei Figuren im Kostim des 16. Jahrh.als Staffage.",605,97.4,False,positional,CHRISTIAN STOCKLIN,,,,
+BO0624_87748,474670,55,46,"— Inneres eines Domes. m Vordergrunde,die ganze Breitseite einnehmend, ein durch eine Balustrade abgetrennter Raum,von welchem zwei Stufen zum Hauptschiff fuhren. Dieses ist der ganzen Lange nach bis zum Hochaltar sichtbar und erhalt sein Licht durch die Seitenfenster. Rechts die Orgel,weiter zurick die reich skulptierte Kanzel.Vielerlei Figuren im Kostim des 16. Jahrh.als Staffage.",605,97.4,False,positional,CHRISTIAN STOCKLIN,,,,Sec. XVI
 BO0624_87748,474671,56,47,Venedig mit Canale grande.,619,94.3,False,positional,CANALETTO,,,,
 BO0624_87748,474672,57,48,a)Jahrmarkt.,630,88.0,False,positional,CLAAS MOLENAER,,,,
 BO0624_87748,474673,58,49,"Auffindung Mosis. m Mittelpunkt steht aufrecht die agyptische Konigstochter Thermutis, staunend auf das vor ihr in einem Korbe liegende Knablein blickend. Mit dem Ausdruck der Verwunderung umstehen die jungen Gefahrtinnen die Gruppe. Am Boden liegen Blumenkorbe und Musikinstrumente. Rechts hinter einer Sphinx der blaue Nil, mit einer grossen Barke. Jenseits des Flusses, im Hintergrunde, breitet sich die Stadt mit vielen Gebauden,Obelisken,Pyramiden und Palmbaumen aus, am hellen",650,98.3,False,positional,NICOLAS POUSSIN,,OGGETTI VARI,,
@@ -109,7 +109,7 @@ BO0624_87748,474722,107,92,Der Ueberfall.,1223,89.7,False,positional,JAN VERMEER
 BO0624_87748,474723,108,93,Pferdemarkt.,1235,88.0,False,positional,JAN VAN HUGHTENBURGH,,,,
 BO0624_87748,474724,109,94,Italienische Landschaft mit Ruinen u.Vieh.,1248,96.5,False,positional,JOHANN HEINRICH ROOS,,,,
 BO0624_87748,474725,110,I,"m Vordergrunde einer Ruine, deren Trimmer mit Moos und Gras bewachsen sind, lagern in verschiedenen Gruppen Rinder, Schafe und Ziegen. Im Mittelpunkt eine Hirtenfamilie, deren Kindchen sich mit dem Hunde beschaftigt. Im Hintergrunde hugelige Landschaft,am Horizont hohe blaue Berge, von goldtonigen Wolken iberragt.",1250,99.8,False,positional,JOHANN HEINRICH ROOS,,OGGETTI VARI,,
-BO0624_87748,474726,111,I,"m Vordergrunde auf einem Saulenkapital die volle Bezeichnung: ""H.Ro0s f.1668.""",1254,99.3,False,positional,JOHANN HEINRICH ROOS,,,,
+BO0624_87748,474726,111,I,"m Vordergrunde auf einem Saulenkapital die volle Bezeichnung: ""H.Ro0s f.1668.""",1254,99.3,False,positional,JOHANN HEINRICH ROOS,,,,Sec. XVII
 BO0624_87748,474727,112,95,- Inneres eines Domes.,1262,92.7,False,positional,CHRISTIAN STOCKLIN,,,,
 BO0624_87748,474728,113,96,Rastende Reiter.,1273,90.9,False,positional,PHILIPS WOUWERMAN,,,,
 BO0624_87748,474729,114,97,Unterricht im Tabakrauchen.,1287,94.5,False,positional,ADRIAEN BROUWER,,,,

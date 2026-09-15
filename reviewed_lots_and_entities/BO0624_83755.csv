@@ -66,7 +66,7 @@ BO0624_83755,87281,64,64,"Meuble a deux corps. Art francais, fin du xvi siecle."
 BO0624_83755,87282,65,65,"Petit Coffre. Art francais,Ecole de Lyon,milieu du xvi siecle.",865,97.6,False,positional,,,BAULI,,
 BO0624_83755,87283,66,66,"Coffre de mariage. Art italien,milieu du xvr siecle. l repose sur des pieds en forme de griffes de lion et les angles presentent des chimeres.",883,78.1,False,positional,,,BAULI,,
 BO0624_83755,87284,67,67,"Tabernacle. Art italien,milieu du xvi siecle.",887,96.6,False,positional,,,MEUBLES,,
-BO0624_83755,87285,68,68,"Base triangulaire. Art italien,1540.",901,95.8,False,positional,,,MEUBLES,,
+BO0624_83755,87285,68,68,"Base triangulaire. Art italien,1540.",901,95.8,False,positional,,,MEUBLES,,Sec. XVI
 BO0624_83755,87286,69,69,"De forme rectangulaire,a fond godronne,dessine suivant le profil des sarcophages,ce berceau repose sur deux patins decores de larges palmettes.",918,100.0,False,positional,,,MEUBLES,,
 BO0624_83755,87287,70,70,"-Table a rallonges. Art francais, milieu du xvi siecle.",930,97.1,False,positional,,,MEUBLES,,
 BO0624_83755,87288,71,71,"—— Table. Art francais, xvi siecle.",940,95.1,False,positional,,,MEUBLES,,
@@ -255,7 +255,7 @@ BO0624_83755,87470,253,3,"o7 — Sainte en prieres. Art francais. Champagne(?), 
 BO0624_83755,87471,254,3,"o8 Saint Georges. Art allemand, commencement du xvi siecle.",2994,99.1,False,positional,,,SCULPTURES EN BOIS,,
 BO0624_83755,87472,255,I,lestvetu d'une armure complete.,2998,98.4,False,positional,,,SCULPTURES EN BOIS,,
 BO0624_83755,87473,256,3,"og Deux Volets d’un diptyque. Art allemand. Baviere, xvr siecle.",3006,99.2,False,positional,,,SCULPTURES EN BOIS,,
-BO0624_83755,87474,257,31,"o-Bas-relief.Art allemand,1544.",3014,96.8,False,positional,,,SCULPTURES EN BOIS,,
+BO0624_83755,87474,257,31,"o-Bas-relief.Art allemand,1544.",3014,96.8,False,positional,,,SCULPTURES EN BOIS,,Sec. XVI
 BO0624_83755,87475,258,311,"-Le Christ et un Donateur. Art francais, xvi siecle.",3024,96.0,False,positional,,,SCULPTURES EN BOIS,,
 BO0624_83755,87476,259,312,"313 -Un saint Eveque et un Chevalier.Art francais, xvi siecle.",3036,96.7,False,positional,,,SCULPTURES EN BOIS,,
 BO0624_83755,87477,260,314,"- Saint Jean l'Evangeliste. Art francais, xvr siecle.",3061,96.0,False,positional,,,SCULPTURES EN BOIS,,
@@ -333,7 +333,7 @@ BO0624_83755,87548,331,374,"bis — Cul-de-lampe. Art francais, xve siecle. l es
 BO0624_83755,87549,332,375,"—La Pieta. Art francais, commencement du xvr siecle.",3899,96.0,False,positional,,,SCULPTURES EN PIERRE ET EN MARBRE,,
 BO0624_83755,87550,333,376,"— Sainte Elisabeth de Hongrie. Art francais, commencement",3913,96.4,False,positional,,,SCULPTURES EN PIERRE ET EN MARBRE,,
 BO0624_83755,87551,334,376,"bis Cul-de-lampe. Art francais, xv siecle. l est orne de feuillages crispes et de chardons. Pierre.",3924,73.8,False,positional,,,SCULPTURES EN PIERRE ET EN MARBRE,,
-BO0624_83755,87552,335,377,"—Pilastre. Art francais, vers 1530.",3926,93.9,False,positional,,,SCULPTURES EN PIERRE ET EN MARBRE,,
+BO0624_83755,87552,335,377,"—Pilastre. Art francais, vers 1530.",3926,93.9,False,positional,,,SCULPTURES EN PIERRE ET EN MARBRE,,Sec. XVI
 BO0624_83755,87553,336,378,"—Medaillon. Art francais,premiere moitie du xvi siecle.",3936,96.3,False,positional,,,SCULPTURES EN PIERRE ET EN MARBRE,,
 BO0624_83755,87554,337,379,"—Medaillon. Art francais, premiere moitie du xvi siecle.",3944,96.3,False,positional,,,SCULPTURES EN PIERRE ET EN MARBRE,,
 BO0624_83755,87555,338,38,"o - Saint Michel. Art francais,commencement du xvre siecle.",3952,98.2,False,positional,,,SCULPTURES EN PIERRE ET EN MARBRE,,
@@ -364,7 +364,7 @@ BO0624_83755,87579,362,396,"—L'Annonciation. Andrea della Robbia.Florence,xve 
 BO0624_83755,87580,363,397,"— La Vierge et I'Enfant Jesus. Andrea della Robbia. Florence,",4177,96.6,False,title_direct,Andrea della Robbia,Scuola di Giovanni Della Robbia,,,
 BO0624_83755,87581,364,3,"g8 — Medaillon circulaire.Atelier des della Robbia.Florence,xv siecle.",4189,99.3,False,title_direct,della Robbia,Scuola di Giovanni Della Robbia,,,
 BO0624_83755,87582,365,399,"— Medaillon circulaire. Atelier des della Robbia. Florence, xv siecle.",4197,97.0,False,title_direct,della Robbia,Scuola di Giovanni Della Robbia,,,
-BO0624_83755,87583,366,400,"—La Mise au tombeau. Art italien,Faenza,1487.",4205,95.5,False,positional,della Robbia,Scuola Faentina,,,
+BO0624_83755,87583,366,400,"—La Mise au tombeau. Art italien,Faenza,1487.",4205,95.5,False,positional,della Robbia,Scuola Faentina,,,Sec. XV
 BO0624_83755,87584,367,4,"o1 — Vase en forme de lampe. Valence,xv siecle.",4232,98.9,False,positional,,,VASI,,
 BO0624_83755,87585,368,402,"——Ecuelle. Valence, xve siecle.",4238,92.9,False,positional,,,FAIENCES HISPANO-MORESQUES ET ORIENTALES,,
 BO0624_83755,87586,369,403,"-Grand Plat.Valence,xve siecle.",4255,93.5,False,positional,,,PIATTI,,
@@ -392,7 +392,7 @@ BO0624_83755,87607,390,422,"—Vase de pharmacie (Albarello). Fabrique de Faenza
 BO0624_83755,87608,391,423,"—Grande Coupe. Fabrique de Faenza, fin du xve siecle.",4490,96.1,False,positional,,Scuola Faentina,FAIENCES ITALIENNES,,
 BO0624_83755,87609,392,424,"—— Vase. Faenza, commencement du xvr siecle. l est de forme spherique legerement aplatie et decore sur le pourtour d'une large frise de feuillages stylises, teintes de bleu,de violet, de jaune-clair et de jaune-fonce. Du sein de ces feuil- lages naissent des fruits ressemblant a des pommes de pin.",4504,92.9,False,positional,,Scuola Faentina,VASI,,
 BO0624_83755,87610,393,425,"—Assiette plate a larges bords. Faenza, Casa Pirota,commencement du xvr siecle.",4510,97.4,False,positional,,Scuola Faentina,FAIENCES ITALIENNES,,
-BO0624_83755,87611,394,426,"— Assiette. Faenza, Casa Pirota, vers 1525.",4520,94.9,False,positional,,Scuola Faentina,FAIENCES ITALIENNES,,
+BO0624_83755,87611,394,426,"— Assiette. Faenza, Casa Pirota, vers 1525.",4520,94.9,False,positional,,Scuola Faentina,FAIENCES ITALIENNES,,Sec. XVI
 BO0624_83755,87612,395,427,"-Vase. Faenza, xvi siecle. l est de forme spherique,a ouverture tres etroite. Sur un fond d'email blanc sont peints de grands rinceaux termines par des fruits imitant des oranges et des citrons ou par des feurs,sorte de marguerites aux petales multicolores. De menus rinceaux bleus remplissent les intervalles entre les motifs d'ornements principaux.",4532,96.7,False,positional,,Scuola Faentina,OGGETTI VARI,,
 BO0624_83755,87613,396,428,"— Grande Cruche. Fabrique de Caffaggiolo, commencement du xvr siecle.",4541,97.0,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_83755,87614,397,429,"—Plat. Fabrique de Caffaggiolo, commencement du xvre siecle.",4557,96.6,False,positional,,,PIATTI,,
@@ -417,12 +417,12 @@ BO0624_83755,87632,415,447,"—— Grand Plat. Fabrique de Deruta, xvr siecle.",
 BO0624_83755,87633,416,448,"## 8—Grand Plat. Fabrique de Deruta,xvr siecle.",4737,100.0,False,positional,,,PIATTI,,
 BO0624_83755,87634,417,449,"-Grand Plat.Fabrique de Deruta, xvi siecle.",4750,95.2,False,positional,,,PIATTI,,
 BO0624_83755,87635,418,150,"## —Grand Plat.Fabrique deDeruta,xvr siecle.",4762,100.0,False,positional,,,PIATTI,,
-BO0624_83755,87636,419,451,"——Petite Assiette (Scodella).Fabrique de Gubbio, vers 1525.",4774,96.4,False,positional,,Scuola Umbra,FAIENCES ITALIENNES,,
+BO0624_83755,87636,419,451,"——Petite Assiette (Scodella).Fabrique de Gubbio, vers 1525.",4774,96.4,False,positional,,Scuola Umbra,FAIENCES ITALIENNES,,Sec. XVI
 BO0624_83755,87637,420,52,Dessin en bleu lave de bleu. large lavage de jaune-chamois et de rouge-rubis a reflets tres intenses.,4784,100.0,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_83755,87638,421,453,"—Assiette. Fabrique de Gubbio,Maestro Giorgio Andreoli,1528.",4800,96.6,False,title_direct,Maestro Giorgio Andreoli,Scuola Umbra,,,
+BO0624_83755,87638,421,453,"—Assiette. Fabrique de Gubbio,Maestro Giorgio Andreoli,1528.",4800,96.6,False,title_direct,Maestro Giorgio Andreoli,Scuola Umbra,,,Sec. XVI
 BO0624_83755,87639,422,454,"—Coupe. Fabrique de Gubbio, commencement du xvr siecle.",4815,96.2,False,positional,Maestro Giorgio Andreoli,Scuola Umbra,,,
-BO0624_83755,87640,423,455,"—Plat. Fabrique de Gubbio, vers 1530.",4829,94.3,False,positional,Maestro Giorgio Andreoli,Scuola Umbra,PIATTI,,
-BO0624_83755,87641,424,456,"Plat. Fabrique de Gubbio,vers 1530.",4841,94.3,False,positional,Maestro Giorgio Andreoli,Scuola Umbra,PIATTI,,
+BO0624_83755,87640,423,455,"—Plat. Fabrique de Gubbio, vers 1530.",4829,94.3,False,positional,Maestro Giorgio Andreoli,Scuola Umbra,PIATTI,,Sec. XVI
+BO0624_83755,87641,424,456,"Plat. Fabrique de Gubbio,vers 1530.",4841,94.3,False,positional,Maestro Giorgio Andreoli,Scuola Umbra,PIATTI,,Sec. XVI
 BO0624_83755,87642,425,457,"- Assiette creuse a large bord (Scodella). Fabrique de Gubbio, premiere moitie du xvie siecle.",4853,97.8,False,positional,Maestro Giorgio Andreoli,Scuola Umbra,,,
 BO0624_83755,87643,426,458,"459 -Vases de pharmacie Deux). Fabrique d'Urbino, atelier d'Orazio Fontana,milieu du xvr siecle.",4865,97.8,False,title_direct,Orazio Fontana,,VASI,,
 BO0624_83755,87644,427,I,"ls sont munis dune anse courte, composee d'un serpent replie au-dessus d'un masque de satyre. Le goulot,fort court,souvre surle devant et alepaule duvase.",4869,99.7,False,positional,Orazio Fontana,,,,
@@ -434,12 +434,12 @@ BO0624_83755,87649,432,464,"Assiette creuse. Urbino. Atelier des Patanazzi, fin 
 BO0624_83755,87650,433,465,"—Grande Cuvette.Fabrique d'Urbino ou de Rome,commencement du xvil siecle.",4945,97.3,False,positional,Orazio Fontana,,,,
 BO0624_83755,87651,434,466,"-Assiette.Fabrique de Castel-Durante,vers 153o.",4957,95.7,False,positional,Orazio Fontana,,,,
 BO0624_83755,87652,435,467,"—Coupe. Fabrique de Castel-Durante. Guido Durantino, vers 155o.",4971,96.7,False,title_direct,Guido Durantino,,,,
-BO0624_83755,87653,436,468,"—Vase de pharmacie.Fabrique de Castel-Durante,vers 1550. l est de forme ovoide et divise dans la hauteur en deux registres par une moulure,le registre inferieur etant decore d'un aigle heraldique a deux tetes et d'un autre aigle heraldique a une seule tete, accompagnant des trophees d'armes, des figures d'enfants et des lions.",4990,90.9,False,positional,Guido Durantino,,VASI,,
+BO0624_83755,87653,436,468,"—Vase de pharmacie.Fabrique de Castel-Durante,vers 1550. l est de forme ovoide et divise dans la hauteur en deux registres par une moulure,le registre inferieur etant decore d'un aigle heraldique a deux tetes et d'un autre aigle heraldique a une seule tete, accompagnant des trophees d'armes, des figures d'enfants et des lions.",4990,90.9,False,positional,Guido Durantino,,VASI,,Sec. XVI
 BO0624_83755,87654,437,469,"-Vase de pharmacie. Fabrique de Castel-Durante,vers 155o. l est de meme forme et de meme decoration que le vase precedent.",5004,70.3,False,positional,Guido Durantino,,VASI,,
 BO0624_83755,87655,438,470,"— Plat ovale. Fabrique de Ferrare, fin du xvi siecle.",5014,96.0,False,positional,Guido Durantino,,PIATTI,,
 BO0624_83755,87656,439,471,"——Plat. Fabrique de Ferrare, fin du xvi siecle. l est de forme circulaire et decore en son centre d'un medaillon dans lequel on voit Hebee demi nue tenant l'aigle deJupiter.",5034,85.6,False,positional,Guido Durantino,,PIATTI,,
-BO0624_83755,87657,440,472,"— Biberon. Fabrique de Forli, vers 1540.",5039,94.6,False,positional,Guido Durantino,,,,
-BO0624_83755,87658,441,473,"—Grand Vase. Fabrique de Venise, vers 1570.",5053,95.1,False,positional,Guido Durantino,,VASI,,
+BO0624_83755,87657,440,472,"— Biberon. Fabrique de Forli, vers 1540.",5039,94.6,False,positional,Guido Durantino,,,,Sec. XVI
+BO0624_83755,87658,441,473,"—Grand Vase. Fabrique de Venise, vers 1570.",5053,95.1,False,positional,Guido Durantino,,VASI,,Sec. XVI
 BO0624_83755,87659,442,474,"—Grand Plat. Fabrique de Savone, xvull siecle.",5061,95.5,False,positional,Guido Durantino,,PIATTI,,
 BO0624_83755,87660,443,475,"Grand Plat. Fabrique de Savone,xvil siecle.",5069,95.3,False,positional,Guido Durantino,,PIATTI,,
 BO0624_83755,87661,444,476,"Gourde. Italie, xvr siecle. Terre gravee sur engobe, dite a la Castellana.",5079,97.2,False,positional,Guido Durantino,,,,
@@ -471,21 +471,21 @@ BO0624_83755,87686,469,499,"—- Grande Cruche. Fabrique de Saintes, fin du xvir
 BO0624_83755,87687,470,5,"oo —Grand Plat.Fabrique d'Avignon, xvil siecle.",5361,98.9,False,positional,Palissy,,PIATTI,,
 BO0624_83755,87688,471,5,"o1 —Biberon. Art francais. Beauvais (?),fin du xvi siecle.",5377,99.0,False,positional,,,GRES,,
 BO0624_83755,87689,472,5,"o2 —Grande Canette. Cologne,premiere moitie du xvr siecle.",5387,99.1,False,positional,,,GRES,,
-BO0624_83755,87690,473,503,"— Cruche. Cologne, monogramme I E, 1576.",5402,94.4,False,positional,,,GRES,,
+BO0624_83755,87690,473,503,"— Cruche. Cologne, monogramme I E, 1576.",5402,94.4,False,positional,,,GRES,,Sec. XVI
 BO0624_83755,87691,474,504,"——Vase. Cologne(?), fin du xvi siecle.",5414,93.8,False,positional,,,VASI,,
 BO0624_83755,87692,475,5,"o5 —Petite Cruche. Cologne (?), fin du xvr siecle.",5430,98.8,False,positional,,,GRES,,
 BO0624_83755,87693,476,5,"o6 —Petite Cruche. Cologne(?), xvr siecle.",5442,98.6,False,positional,,,GRES,,
-BO0624_83755,87694,477,507,"— Grande Cruche. Siegburg, 1584.",5459,93.1,False,positional,,,GRES,,
-BO0624_83755,87695,478,5,"o8—Canette.Raeren,1576.",5473,97.8,False,positional,,,GRES,,
-BO0624_83755,87696,479,5,"o9 -Canette.Raeren, 1583.",5483,97.8,False,positional,,,GRES,,
-BO0624_83755,87697,480,510,"Cruche.Raeren,1584.",5493,90.0,False,positional,,,GRES,,
-BO0624_83755,87698,481,511,"Cruche.Raeren,1585.",5508,90.0,False,positional,,,GRES,,
-BO0624_83755,87699,482,512,"Canette.Raeren,1586.",5520,90.5,False,positional,,,GRES,,
-BO0624_83755,87700,483,513,"Cruche.Raeren,1589.",5528,90.0,False,positional,,,GRES,,
-BO0624_83755,87701,484,514,"—Grande Canette. Raeren, 1589.",5536,92.9,False,positional,,,GRES,,
-BO0624_83755,87702,485,515,"Cruche.Raeren,1596.",5544,90.0,False,positional,,,GRES,,
-BO0624_83755,87703,486,516,"—Cruche.Raeren,1596.",5563,90.0,False,positional,,,GRES,,
-BO0624_83755,87704,487,517,"Cruche.Raeren,1596.",5575,90.0,False,positional,,,GRES,,
+BO0624_83755,87694,477,507,"— Grande Cruche. Siegburg, 1584.",5459,93.1,False,positional,,,GRES,,Sec. XVI
+BO0624_83755,87695,478,5,"o8—Canette.Raeren,1576.",5473,97.8,False,positional,,,GRES,,Sec. XVI
+BO0624_83755,87696,479,5,"o9 -Canette.Raeren, 1583.",5483,97.8,False,positional,,,GRES,,Sec. XVI
+BO0624_83755,87697,480,510,"Cruche.Raeren,1584.",5493,90.0,False,positional,,,GRES,,Sec. XVI
+BO0624_83755,87698,481,511,"Cruche.Raeren,1585.",5508,90.0,False,positional,,,GRES,,Sec. XVI
+BO0624_83755,87699,482,512,"Canette.Raeren,1586.",5520,90.5,False,positional,,,GRES,,Sec. XVI
+BO0624_83755,87700,483,513,"Cruche.Raeren,1589.",5528,90.0,False,positional,,,GRES,,Sec. XVI
+BO0624_83755,87701,484,514,"—Grande Canette. Raeren, 1589.",5536,92.9,False,positional,,,GRES,,Sec. XVI
+BO0624_83755,87702,485,515,"Cruche.Raeren,1596.",5544,90.0,False,positional,,,GRES,,Sec. XVI
+BO0624_83755,87703,486,516,"—Cruche.Raeren,1596.",5563,90.0,False,positional,,,GRES,,Sec. XVI
+BO0624_83755,87704,487,517,"Cruche.Raeren,1596.",5575,90.0,False,positional,,,GRES,,Sec. XVI
 BO0624_83755,87705,488,518,"Cruche. Raeren,fin du xvr siecle.",5589,93.9,False,positional,,,GRES,,
 BO0624_83755,87706,489,519,"—Cruche. Raeren, fin du xvr siecle.",5599,93.9,False,positional,,,GRES,,
 BO0624_83755,87707,490,520,"—Cruche. Raeren,fin du xvr siecle.",5616,93.9,False,positional,,,GRES,,
@@ -499,8 +499,8 @@ BO0624_83755,87714,497,527,"—Cruche en forme de couronne. Raeren, xvr siecle."
 BO0624_83755,87715,498,528,"Cruche.Raeren,xvr siecle.",5717,92.3,False,positional,,,GRES,,
 BO0624_83755,87716,499,529,"——Cruche.Raeren,16o4.",5734,90.0,False,positional,,,GRES,,
 BO0624_83755,87717,500,53,"o —Grande Cruche. Raeren,16o7.",5748,96.4,False,positional,,,GRES,,
-BO0624_83755,87718,501,531,"—Grande Cruche.Raeren,1607.",5762,92.6,False,positional,,,GRES,,
-BO0624_83755,87719,502,532,"Cruche.Raeren,1612.",5770,90.0,False,positional,,,GRES,,
+BO0624_83755,87718,501,531,"—Grande Cruche.Raeren,1607.",5762,92.6,False,positional,,,GRES,,Sec. XVII
+BO0624_83755,87719,502,532,"Cruche.Raeren,1612.",5770,90.0,False,positional,,,GRES,,Sec. XVII
 BO0624_83755,87720,503,533,"—— Cruche. Raeren, commencement du xvil siecle.",5783,95.3,False,positional,,,GRES,,
 BO0624_83755,87721,504,534,"—Canette. Raeren, commencement du xvir siecle.",5793,95.5,False,positional,,,GRES,,
 BO0624_83755,87722,505,535,"—Grande Cruche.Raeren,xvi1 siecle.",5805,94.1,False,positional,,,GRES,,
@@ -532,7 +532,7 @@ BO0624_83755,87747,530,56,"o — Petite Cruche. Nassau,xvir siecle.",6058,97.1,F
 BO0624_83755,87748,531,561,"—Cruche. Nassau, xvil siecle.",6064,92.6,False,positional,,,GRES,,
 BO0624_83755,87749,532,562,"— Tres petite Cruche. Nassau, xvil siecle.",6074,94.9,False,positional,,,GRES,,
 BO0624_83755,87750,533,563,"Cruche.Nassau,xvi1 siecle.",6095,92.6,False,positional,,,GRES,,
-BO0624_83755,87751,534,564,"—Vase avec couvercle. Nassau, 1676.",6103,93.9,False,positional,,,VASI,,
+BO0624_83755,87751,534,564,"—Vase avec couvercle. Nassau, 1676.",6103,93.9,False,positional,,,VASI,,Sec. XVII
 BO0624_83755,87752,535,565,Vase. Nassau (?) xvil1 siecle.,6115,92.3,False,positional,,,VASI,,
 BO0624_83755,87753,536,566,"— Grosse Cruche. Nassau, xvil1 siecle.",6123,94.3,False,positional,,,GRES,,
 BO0624_83755,87754,537,567,"— Grande Cruche. Nassau, xvil siecle.",6135,94.1,False,positional,,,GRES,,
@@ -583,7 +583,7 @@ BO0624_83755,87798,581,61,"o - Grand Lustre a vingt lumieres. Verre de Venise, x
 BO0624_83755,87799,582,611,"-Flambeau.Venise,xvil siecle. l est de verre opalin et sur la base circulaire,ornee de godrons en relief,nait une tige en forme de balustre superposee a deux moulures affectant le galbe de boules aplaties.",6493,92.8,False,positional,,,VERRERIES,,
 BO0624_83755,87800,583,612,"—Gobelet. Allemagne,16o7. l est de forme cylindrique et muni d'un couvercle bombe, surmonte d'un bouton.Il repose sur un pied en forme de tronc de cone, separe de la panse par un anneau frotte d'or.",6499,93.4,False,positional,,,VERRERIES,,
 BO0624_83755,87801,584,613,"Bocal. Allemagne,16o8.",6505,90.9,False,positional,,,VERRERIES,,
-BO0624_83755,87802,585,614,"—Bocal. Allemagne, 1646.",6520,90.9,False,positional,,,VERRERIES,,
+BO0624_83755,87802,585,614,"—Bocal. Allemagne, 1646.",6520,90.9,False,positional,,,VERRERIES,,Sec. XVII
 BO0624_83755,87803,586,615,"——Bocal. Allemagne,xvir siecle. l est de forme cylindrique et decore dun grand aigle d'Empire couronne et nimbe, orne sur sa poitrine du globe imperial surmonte d'une croix, et portant sur ses ailes les armoiries des differentes contrees de I'Empire,expliquees par une inscription emaillee en blanc a la partie posterieure du vase.",6528,95.7,False,positional,,,VASI,,
 BO0624_83755,87804,587,616,"—Bocal. Allemagne,xvi1 siecle.",6532,93.1,False,positional,,,VERRERIES,,
 BO0624_83755,87805,588,617,"Gobelet. Allemagne,xvi1 siecle.",6540,93.5,False,positional,,,VERRERIES,,
@@ -635,9 +635,9 @@ BO0624_83755,87850,633,662,"- Saint Francois recevant les stigmates. Art francai
 BO0624_83755,87851,634,663,"La Pieta. Art francais, xvr siecle.",7029,94.1,False,positional,,,VITRAUX,,
 BO0624_83755,87852,635,664,"—— La Charite. Art francais, xvie siecle.",7040,94.6,False,positional,,,VITRAUX,,
 BO0624_83755,87853,636,665,"—L'Annonciation. Art francais, fin du xve siecle.",7048,95.7,False,positional,,,VITRAUX,,
-BO0624_83755,87854,637,666,"Medaillon.Art francais,1565.",7058,93.1,False,positional,,,VITRAUX,,
+BO0624_83755,87854,637,666,"Medaillon.Art francais,1565.",7058,93.1,False,positional,,,VITRAUX,,Sec. XVI
 BO0624_83755,87855,638,667,— Medaillon.,7064,81.8,False,positional,,,VITRAUX,,
-BO0624_83755,87856,639,668,"—Armoiries.Art suisse,1575. l porte la meme date et en son centre unmonogramme compose d'un Ket d'un A. Grisaille.",7078,87.2,False,positional,,,VITRAUX,,
+BO0624_83755,87856,639,668,"—Armoiries.Art suisse,1575. l porte la meme date et en son centre unmonogramme compose d'un Ket d'un A. Grisaille.",7078,87.2,False,positional,,,VITRAUX,,Sec. XVI
 BO0624_83755,87857,640,669,"—Un Porte-drapeau. Art suisse, xvi siecle.",7081,95.0,False,positional,,,VITRAUX,,
 BO0624_83755,87858,641,670,"Armoiries. Art suisse, xvr siecle.",7093,93.9,False,positional,,,VITRAUX,,
 BO0624_83755,87859,642,671,"-Un Porte-drapeau. Art suisse, xvr siecle.",7107,95.0,False,positional,,,VITRAUX,,
@@ -652,7 +652,7 @@ BO0624_83755,87867,650,68,"o — Armoiries. Art suisse, xvile siecle.",7205,97.2
 BO0624_83755,87868,651,4,de gueules a la montagne de trois coupeaux d'argent sommee d'une couronne ouverte d'or; aux 2 et 3 de sable a la montagne de trois coupeaux d'argent surmontee d'un lion leoparde d'or.,7211,99.5,False,positional,,,VITRAUX,,
 BO0624_83755,87869,652,681,"-Un Bourgeois et sa Femme. Art suisse,xvil siecle.",7221,95.9,False,positional,,,VITRAUX,,
 BO0624_83755,87870,653,682,"—Un Arquebusier.Art suisse,166g.",7240,93.8,False,positional,,,VITRAUX,,
-BO0624_83755,87871,654,683,"— Hans Seganssler et sa femme. Art suisse, 1665.",7254,95.6,False,positional,,,VITRAUX,,
+BO0624_83755,87871,654,683,"— Hans Seganssler et sa femme. Art suisse, 1665.",7254,95.6,False,positional,,,VITRAUX,,Sec. XVII
 BO0624_83755,87872,655,684,"-— Vieillards. Art suisse, xvine siecle. ls sont representes debout, l'un accompagne d'une chambriere. Deux medaillons circulaires polychromes.",7262,85.5,False,positional,,,VITRAUX,,
 BO0624_83755,87873,656,685,"Armoiries. Art suisse,xvi1e siecle.",7264,94.3,False,positional,,,VITRAUX,,
 BO0624_83755,87874,657,686,"— Armoiries. Art suisse, xvin siecle.",7272,94.1,False,positional,,,VITRAUX,,
@@ -668,7 +668,7 @@ BO0624_83755,87883,666,695,"—Armoiries. Art suisse,xvi1 siecle.",7374,94.1,Fal
 BO0624_83755,87884,667,696,"Armoiries. Art suisse,xvi1 siecle.",7382,94.1,False,positional,,,VITRAUX,,
 BO0624_83755,87885,668,697,"— Armoiries. Art suisse, xvu1e siecle.",7389,94.3,False,positional,,,VITRAUX,,
 BO0624_83755,87886,669,6,"g8 — Armoiries. Art suisse,xvire siecle.",7397,98.6,False,positional,,,VITRAUX,,
-BO0624_83755,87887,670,699,"— Armoiries. Art allemand, 1587.",7407,93.1,False,positional,,,VITRAUX,,
+BO0624_83755,87887,670,699,"— Armoiries. Art allemand, 1587.",7407,93.1,False,positional,,,VITRAUX,,Sec. XVI
 BO0624_83755,87888,671,700,"—— Crucifixion. Art allemand, xvi siecle.",7415,94.6,False,positional,,,VITRAUX,,
 BO0624_83755,87889,672,701,"— Personnages depecant un bceuf. Art allemand, xvre siecle.",7425,96.4,False,positional,,,VITRAUX,,
 BO0624_83755,87890,673,702,"— Scene pastorale. Art allemand, xvi siecle.",7440,95.1,False,positional,,,VITRAUX,,
@@ -819,7 +819,7 @@ BO0624_83755,88034,817,86,"g-87o —Flambeaux (Deux) semblables. Art flamand, xv
 BO0624_83755,88035,818,871,"—— Gril. France, xvr siecle.",8919,91.7,False,positional,,,CUIVRES; FERS; ETAINS,,
 BO0624_83755,88036,819,872,"873 —Flambeaux (Paire de). Art espagnol, fin du xvi siecle.",8931,96.4,False,positional,,,TORCE,,
 BO0624_83755,88037,820,874,875 —Chenets (Paire de). Fin du xvr siecle.,8943,95.0,False,positional,,,CUIVRES; FERS; ETAINS,,
-BO0624_83755,88038,821,876,"-Contre-cceur. Art allemand,1567.",8956,93.8,False,positional,,,CUIVRES; FERS; ETAINS,,
+BO0624_83755,88038,821,876,"-Contre-cceur. Art allemand,1567.",8956,93.8,False,positional,,,CUIVRES; FERS; ETAINS,,Sec. XVI
 BO0624_83755,88039,822,877,"878 — Chenets (Paire de). Art francais, xvi siecle.",8964,95.7,False,positional,,,CUIVRES; FERS; ETAINS,,
 BO0624_83755,88040,823,879,— Etouffoir. xvine siecle.,8972,91.7,False,positional,,,CUIVRES; FERS; ETAINS,,
 BO0624_83755,88041,824,I,l affecte la forme d'un quart de sphere legerement aplatievers son pole.,8974,99.3,False,positional,,,CUIVRES; FERS; ETAINS,,
@@ -857,7 +857,7 @@ BO0624_83755,88072,855,914,"— Lampe. France, xvin siecle.",9297,92.3,False,pos
 BO0624_83755,88073,856,915,"— Fontaine. Allemagne, xvine siecle.",9303,93.9,False,positional,,,CUIVRES; FERS; ETAINS,,
 BO0624_83755,88074,857,916,"— Canette. Allemagne, xvill siecle.",9315,93.8,False,positional,,,CUIVRES; FERS; ETAINS,,
 BO0624_83755,88075,858,917,"Canette. Allemagne, xville siecle.",9321,93.9,False,positional,,,CUIVRES; FERS; ETAINS,,
-BO0624_83755,88076,859,918,"—Fourchette de fer. France, 1757.",9342,93.5,False,positional,,,CUIVRES; FERS; ETAINS,,
+BO0624_83755,88076,859,918,"—Fourchette de fer. France, 1757.",9342,93.5,False,positional,,,CUIVRES; FERS; ETAINS,,Sec. XVIII
 BO0624_83755,88077,860,919,"— Bassinoire. Art famand, xvure siecle.",9348,94.4,False,positional,,,CUIVRES; FERS; ETAINS,,
 BO0624_83755,88078,861,920,"-Vase. Porcelaine de Chine, xvil siecle. l est deforme cylindrique,muni d’un goulot troit a bord legerement renverse,egalement cylin- drique a sa naissance.",9362,86.4,False,positional,,,VASI,,
 BO0624_83755,88079,862,921,"- Grand Plat circulaire. Porcelaine du Japon, xviur siecle.",9370,96.4,False,positional,,,PIATTI,,
@@ -869,7 +869,7 @@ BO0624_83755,88084,867,926,"— Cornets (Paire de). Japon, xvilr siecle. ls sont
 BO0624_83755,88085,868,927,"928 —Vases (Deux). Japon, xvi11 siecle.",9419,94.3,False,positional,,,VASI,,
 BO0624_83755,88086,869,929,"——Potiche. Japon, xvill siecle.",9425,92.9,False,positional,,,PORCELAINES DE CHINE ET DU JAPON,,
 BO0624_83755,88087,870,930,"—Horloge. Art allemand, xvin siecle.",9438,94.1,False,positional,,,DIVERS,,
-BO0624_83755,88088,871,931,"-Horloge. Art italien, 1522.",9454,92.3,False,positional,,,DIVERS,,
+BO0624_83755,88088,871,931,"-Horloge. Art italien, 1522.",9454,92.3,False,positional,,,DIVERS,,Sec. XVI
 BO0624_83755,88089,872,932,g33 -Tentures de cuir de Cordoue. xvil siecle.,9468,95.6,False,positional,,,DECORAZIONI DA PARETE,,
 BO0624_83755,88090,873,934,— Portrait d’une princesse.,9479,92.3,False,positional,ALLORI,,,,
 BO0624_83755,88091,874,935,— Le roi Henri II. ## COELLO,9491,73.2,False,title_direct,COELLO,,,,

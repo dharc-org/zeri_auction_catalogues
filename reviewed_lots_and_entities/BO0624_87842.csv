@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87842,315033,1,1,"2 Autographen. Unterschrift Friedrich d. Gr.und Friedrich Wilhelm II.,",11,98.5,False,none,,,AUTOGRAFI,,
-BO0624_87842,315034,2,2,"Sechs Taler:1. Braunschweig, Joh. Fried. 1665; 2. Osterreich 1621; 3. Desgl. 1803;4. Baiern 1813;5.Sachsen,Fr.Aug.1776; 6. Sachsen",13,99.2,False,none,,,,,
+BO0624_87842,315034,2,2,"Sechs Taler:1. Braunschweig, Joh. Fried. 1665; 2. Osterreich 1621; 3. Desgl. 1803;4. Baiern 1813;5.Sachsen,Fr.Aug.1776; 6. Sachsen",13,99.2,False,none,,,,,Sec. XVII
 BO0624_87842,315035,3,1646,- 3.Hollandisehe Ollampe aus Messing mit Kupferverzierungen.,15,100.0,False,none,,,,,
 BO0624_87842,315036,4,4,Alter gerahmter Braundruek. Paysanne de Berne von Durmer nach,16,98.4,False,none,,,,,
 BO0624_87842,315037,5,5,"7. AltmeiBener Tasse mit Purpur- und Goldblumen, und Tasse mit grinen, reliefierten Hopfenranken,innen vergoldet, Sahnentopfehen mit Medaillons und Vogeln.",18,99.3,False,none,,,,,
@@ -21,7 +21,7 @@ BO0624_87842,315051,19,24,"Facher mit durchbrochenem Elfenbeingestell, teilweise
 BO0624_87842,315052,20,25,Drei persisehe Kissenbezuge und 1 indische Kappe.,35,97.0,False,none,,,,,
 BO0624_87842,315053,21,26,"Perser-Teppich, defekt.",36,93.3,False,none,,,,,
 BO0624_87842,315054,22,27,Stock mit Elfenbeingriff und der geschnitzten stehenden Figur Ale xanderv.Humboldts.,37,98.2,False,none,,,,,
-BO0624_87842,315055,23,28,"29.Desgleiehen, mit silbernem Knopf, 18. Jahrh., und ein De k o r a-",38,97.6,False,none,,,,,
+BO0624_87842,315055,23,28,"29.Desgleiehen, mit silbernem Knopf, 18. Jahrh., und ein De k o r a-",38,97.6,False,none,,,,,Sec. XVIII
 BO0624_87842,315056,24,30,"31.Zwei italienisehe Majolikateller, farbig bemalt, einer mit Portrat-",40,97.8,False,none,,,,,
 BO0624_87842,315057,25,32,"GroBe Zinnschissel mit graviertem Doppeladler und Krone, flankiert von zwei Landsknechtfiguren.Durchm.39 cm.",42,98.6,False,none,,,,,
 BO0624_87842,315058,26,33,"Desgleichen, kleiner, Wappenschild mit zwei Lowen. Durchm.33 cm.",43,97.6,False,none,,,,,
@@ -53,12 +53,12 @@ BO0624_87842,315083,51,20,"62-63. Zwei Desgleichen,ahnlich.",72,95.2,False,none,
 BO0624_87842,315084,52,64,Eichenholztisch mit zwei Platten zum Ausziehen. BalusterfuB mit Stegverbindung.,73,98.1,False,none,,,PIATTI,,
 BO0624_87842,315085,53,65,Alte friesische Eiehenholztruhe mit geschnitzter Front.,74,97.3,False,none,,,,,
 BO0624_87842,315086,54,23,"66-67. Zwei Kirchenkandelaber, versilbert, getriebene Ornamente. Drei-",75,97.7,False,none,,,,,
-BO0624_87842,315087,55,24,teiliger FuB mit profiliertem Schaft. H.86 cm. 18. Jahrh.,76,97.2,False,none,,,,,
-BO0624_87842,315088,56,25,"68-69. Zwei Wand-Appliques, Rokoko, getrieben und versilbert. 18. Jahrh.",77,97.8,False,none,,,LAMPADE,,
+BO0624_87842,315087,55,24,teiliger FuB mit profiliertem Schaft. H.86 cm. 18. Jahrh.,76,97.2,False,none,,,,,Sec. XVIII
+BO0624_87842,315088,56,25,"68-69. Zwei Wand-Appliques, Rokoko, getrieben und versilbert. 18. Jahrh.",77,97.8,False,none,,,LAMPADE,,Sec. XVIII
 BO0624_87842,315089,57,26,schnitztem Mittelstick (springendes Pferd und Vogel).,78,97.1,False,none,,,,,
-BO0624_87842,315090,58,72,Alte friesisehe Eichenholztruhe.In der Front 4 Nischenfuillungen und Flachreliefschnitzerei mit Inschrift und Jahreszahl 1754. Lg.180 cm.,79,98.9,False,none,,,,,
+BO0624_87842,315090,58,72,Alte friesisehe Eichenholztruhe.In der Front 4 Nischenfuillungen und Flachreliefschnitzerei mit Inschrift und Jahreszahl 1754. Lg.180 cm.,79,98.9,False,none,,,,,Sec. XVIII
 BO0624_87842,315091,59,73,Bergere aus Eichenholz mit geschweiften Backen und Aufsatz. FuiBe und Steg gedreht. Gepolstert und mit braunem Plisch bezogen.,80,67.4,False,none,,,,,
-BO0624_87842,315092,60,74,"Alte Elfenbein-Miniatur, Bildnis eines jungen Madchens mit Diadem im Haar, dekolletiertem weiBem Kleid und rotbraunem Uberwurf. Um 1800.Oval, Durchm.7x5,5 cm.",83,73.3,False,none,,,MINIATURE,,
+BO0624_87842,315092,60,74,"Alte Elfenbein-Miniatur, Bildnis eines jungen Madchens mit Diadem im Haar, dekolletiertem weiBem Kleid und rotbraunem Uberwurf. Um 1800.Oval, Durchm.7x5,5 cm.",83,73.3,False,none,,,MINIATURE,,Sec. XIX
 BO0624_87842,315093,61,75,Alter seidener Spitzenkragen. Feines Rankenmotiv auf Filetgrund. Lg.54cm.,84,97.9,False,none,,,,,
 BO0624_87842,315094,62,76,"GroBe Marmorbuste eines hohen Offiziers mit eisernem Kreuz, iber die Schultern ein Pelzmantel. Gelber Marmorsockel.",85,98.7,False,none,,,,,
 BO0624_87842,315095,63,7,77-78. Zwei gerahmte alte Farbendrucke von Aug. Le Grand: Le C h apeaudela Mariée;-Lajoliefamille.,86,98.9,False,none,,,STAMPE E INCISIONI,,
@@ -75,7 +75,7 @@ BO0624_87842,315105,73,87,"Alter persischer Gebetteppich.Ladik. Glattes, rotes T
 BO0624_87842,315106,74,20,"Breite,weiBgrindige Bordure mit Arabesken. Gr. 170 x125 cm.",99,97.4,False,none,,,,,
 BO0624_87842,315107,75,21,"88.Alter persischer Gebetteppich, Kula, rotes Feld. Gr.118 x113 cm.",100,97.7,False,none,,,,,
 BO0624_87842,315108,76,22,"89.Desgleichen,Kula,rotes Tempelfeld. Gr.110 x155 cm.",101,97.1,False,none,,,,,
-BO0624_87842,315109,77,90,"Stammtafel der ,Maria Antonie Freyn von der Hemm und Hemmstein aus dem Hause Hemm"". Farbig aquarelliert. 18. Jahrh. Gr. 100 x71 cm.",102,98.8,False,none,,,,,
+BO0624_87842,315109,77,90,"Stammtafel der ,Maria Antonie Freyn von der Hemm und Hemmstein aus dem Hause Hemm"". Farbig aquarelliert. 18. Jahrh. Gr. 100 x71 cm.",102,98.8,False,none,,,,,Sec. XVIII
 BO0624_87842,315110,78,91,"Bronzestatuette, St. Johannes. (Seitenfigur einer Kreuzigungsgruppe.)",103,97.7,False,none,,,,,
 BO0624_87842,315111,79,92,Altberliner Porzellantasse mit Perlborduren. Auf der Stirnseite Miniaturportrat der Furstin von Liegnitz.,105,98.6,False,none,,,,,
 BO0624_87842,315112,80,93,"Altberliner Porzellan-Osterei, blauer Fond mit Miniatur: Pa 1a is d e s Konigsin Berlin.",106,98.3,False,none,,Scuola di Berlino,MINIATURE,,
@@ -85,12 +85,12 @@ BO0624_87842,315115,83,96,"silbervergoldete Dose, flache Rechteckform,reich getr
 BO0624_87842,315116,84,97,"silberne flache Dose, innen geteilt, auf Deckel und Wandung kraftig",113,97.7,False,none,,,SCATOLE,,
 BO0624_87842,315117,85,98,"99. Zwei silberne Kerzenleuehter (altere Arbeit), reliefiert im Rokokostil (gefuillt).",115,98.1,False,none,,,,,
 BO0624_87842,315118,86,100,"Vier alte silberne Loffel, englisch, auf dem Griff ein Helm mit Wappen-",116,97.1,False,none,,,,,
-BO0624_87842,315119,87,101,"Miniatur-Bronzestatuette, betender Mann in Pelzbarett und Mantel. 17. Jahrh.H.4,3 cm.",118,97.6,False,none,,,MINIATURE,,
+BO0624_87842,315119,87,101,"Miniatur-Bronzestatuette, betender Mann in Pelzbarett und Mantel. 17. Jahrh.H.4,3 cm.",118,97.6,False,none,,,MINIATURE,,Sec. XVII
 BO0624_87842,315120,88,102,O3. Zwei franzosisehe Bronzestatuetten. Araber und Araberin.,119,96.6,False,none,,,,,
 BO0624_87842,315121,89,104,Elfenbein-Miniatur. Halbfigur einer vornehmen Dame in einem rosa Kostim und mit Federhut. 11 x9 cm. B.R.,120,98.0,False,none,BONHEUR ROSA,,MINIATURE,,
 BO0624_87842,315122,90,105,Desgleichen. Junges Madchen in blauem Kleid. 11 x 812 cm. S. R.,121,96.7,False,none,,,,,
 BO0624_87842,315123,91,106,Miniatur-Portrait Ludwigs des XIV.mit Hermelinmantel. 14x 9%2 cm.,122,96.9,False,none,,,MINIATURE,,
-BO0624_87842,315124,92,107,"Alte Elfenbein-Miniatur,Kleop a tra,in blau-grauem Gewand mit grinem Turban an einem Tisch mit gruner Decke sitzend. Bez.: Florentine Meyer 1823. Gr.10x8 cm. In breitem S.R.",124,98.8,False,none,,Scuola Fiorentina,MINIATURE,,
+BO0624_87842,315124,92,107,"Alte Elfenbein-Miniatur,Kleop a tra,in blau-grauem Gewand mit grinem Turban an einem Tisch mit gruner Decke sitzend. Bez.: Florentine Meyer 1823. Gr.10x8 cm. In breitem S.R.",124,98.8,False,none,,Scuola Fiorentina,MINIATURE,,Sec. XIX
 BO0624_87842,315125,93,108,"Alte Pergament-Miniatur, ovales Brustbild eines jungen bartlosen Mannes in gepuderter Pericke, grauem Rock mit Spitzenjabot und rotem Mantel. Angeblich SeI bs tpor trait von Tischbein.—Gute Miniatur. Als Brosche gefaBt. Durchm.3,5 x 2,8 cm.",125,99.1,False,none,,,MINIATURE,,
 BO0624_87842,315126,94,109,"Alter persiseher Teppich,Bergamon. Gr.110 x165 cm.",126,96.0,False,none,,,,,
 BO0624_87842,315127,95,110,"Alter persiseher Teppich, Daghestan, weiBer Fond. Gr.105x 215 cm.",127,96.8,False,none,,,,,
@@ -106,28 +106,28 @@ BO0624_87842,315136,104,9,"H.23,5 u.21 cm.",136,93.3,False,none,,,,,
 BO0624_87842,315137,105,10,129-32. Vier Mareolini-Porzellantassen mit farbigen Genreszenen und blauer mit Gold gehohter Bordire.,137,98.5,False,none,,,OGGETTI IN ORO,,
 BO0624_87842,315138,106,133,"Empire-Bronze-Uhr,vergoldet mit Figur eines Flotenspielers am Gehause. H.31 cm.",138,97.5,False,none,,,,,
 BO0624_87842,315139,107,12,"134-35.Zwei alte Trogerfiguren,Bettler und Bettlerin. Die Fleischteile aus Elfenbein, die Gewander aus braunem Holz. H. 23 cm.",139,98.8,False,none,,,OGGETTI IN LEGNO,,
-BO0624_87842,315140,108,136,"Elfenbein-Vase, Eiform mit engem Hals, auf FuB Seraphimkopfe als Henkel. Auf dem Korpus Gewandgehange und Blattfriese. 17. Jahrh. H.19 cm.",140,98.5,False,none,HALS DIRK,,VASI,,
+BO0624_87842,315140,108,136,"Elfenbein-Vase, Eiform mit engem Hals, auf FuB Seraphimkopfe als Henkel. Auf dem Korpus Gewandgehange und Blattfriese. 17. Jahrh. H.19 cm.",140,98.5,False,none,HALS DIRK,,VASI,,Sec. XVII
 BO0624_87842,315141,109,137,"GroBer Empire-Stellspiegel, Mahagoni, mit vergoldeter Schnitzerei und Bronzebeschlag. H. 205 cm, B. 94 cm.",141,98.0,False,none,,,,,
 BO0624_87842,315142,110,138,"offene Empire-Servante, Mahagoni mit vergoldeten Kapitalen und Saulen, unten und oben Schubkasten. H. 165 cm, B.95 cm.",142,98.2,False,none,,,,,
 BO0624_87842,315143,111,139,"Empire-Sehreibtisch, Mahagoni mit Bronzebeschlag, Messingkehlungen und Messinggallerie.Jm Aufsatz eintuiriges Mittelfach und Schubkasten.",143,98.5,False,none,,,,,
-BO0624_87842,315144,112,140,"Kommode, Rechteckform auf hohen PilasterfiBen, gelb poliert. Reich belebt mit Ranken-Intarsion auf dunklem Grunde. Zwei Schubkasten mit Bronzebeschlag. Auf der Platte Medaillon mit allegorischer Figur. Italienisch,Ende 18. Jahrh. H.98 cm, B.131 cm, T.54 cm.",144,99.2,False,none,,,,,
+BO0624_87842,315144,112,140,"Kommode, Rechteckform auf hohen PilasterfiBen, gelb poliert. Reich belebt mit Ranken-Intarsion auf dunklem Grunde. Zwei Schubkasten mit Bronzebeschlag. Auf der Platte Medaillon mit allegorischer Figur. Italienisch,Ende 18. Jahrh. H.98 cm, B.131 cm, T.54 cm.",144,99.2,False,none,,,,,Sec. XVIII
 BO0624_87842,315145,113,141,"Empireschrank. Mahagoni mit Messingkehlungen. Zwei Flugeltiren mit Glasscheiben. H.194 cm, B.138 cm, T.40 cm.",145,98.1,False,none,,,,,
 BO0624_87842,315146,114,142,"GroBer Mahagonischrank fir Garderobe und Wische, mit Bronzebeschlag, dreiteilig. Gekehltes Gesims,unten 3 Schubkasten. Biedermeier zeit.H.230 cm,B.234 cm, T.63 cm.",146,98.7,False,none,,Biedermeier,,,
-BO0624_87842,315147,115,143,"Altarbild mit Predella in holzgeschnitzter,bemalter und vergoldeter Umrahmung mit freistehenden Saulen, geschnitzten Anlaufern und reich gekropftem Gesims mit Aufsatz. 17. Jahrh. H.175 cm, B.128.cm.",147,79.4,False,none,,,,,
+BO0624_87842,315147,115,143,"Altarbild mit Predella in holzgeschnitzter,bemalter und vergoldeter Umrahmung mit freistehenden Saulen, geschnitzten Anlaufern und reich gekropftem Gesims mit Aufsatz. 17. Jahrh. H.175 cm, B.128.cm.",147,79.4,False,none,,,,,Sec. XVII
 BO0624_87842,315148,116,144,"Konsoltisch mit Spiegel, Mahagoni mit Intarsien. Biedermeierzeit.",149,96.9,False,none,,Biedermeier,SPECCHI,,
 BO0624_87842,315149,117,145,"GroBes altes Salon-Mobiliar (um 18oo), cremefarbig lackiert und teilweise vergoldet. Die Lehnen der Sitzmobel spiralformig gedreht. Bestehend aus 2 groBen Sophas, 2 Fauteuils, 6 Stuhlen, 1 runden Tisch. Grau-blauer Seidendamastbezug.",150,91.9,False,none,,,OGGETTI VARI,,
-BO0624_87842,315150,118,146,"Anrichte aus Eichenholz,in der Front zwei Turen und 3 Schubkasten mit Messingbeschlag, reich geschnitzt mit stilisiertem Blattwerk und Blumen. Apartes Mobel, nordfranzosisch. 18. Jahrh. H. 104 cm, B.144 cm, T.54 cm.",153,80.9,False,none,,,,,
+BO0624_87842,315150,118,146,"Anrichte aus Eichenholz,in der Front zwei Turen und 3 Schubkasten mit Messingbeschlag, reich geschnitzt mit stilisiertem Blattwerk und Blumen. Apartes Mobel, nordfranzosisch. 18. Jahrh. H. 104 cm, B.144 cm, T.54 cm.",153,80.9,False,none,,,,,Sec. XVIII
 BO0624_87842,315151,119,147,"Mobiliar, bestehend aus Sopha, sechs Stihlen und einem Tisch. Mahagoni mit reichen Intarsien: Ornamente mit Emblemen. Der Tisch mit reich geschnitzten FuBen, durch Steg verbunden, auf der Platte Polysanderfurnier mit groBer Landschaft und Umrahmung. Erstes Drittel 19.Jahrh.",154,99.3,False,none,,,,,
 BO0624_87842,315152,120,148,"Empirezimmereinrichtung, aus Mahagoni (furniert), mit Bronzebeschlag. Die Sitzmobel gepolstert und mit rotem, stilvoll gemustertem Gobelinstoff bezogen. Bestehend aus: Sopha,2 Sesseln, 6 stuhlen (4 mit grinem Bezug), Konsoltisch mit Spiegel, rundem Tisch mit gekehltem SaulenfuB (Durchm.112 cm), groBem Sehreibtisch mit Aufsatz,Buchersehrank mit Glastuiren und hoher Standuhr.",155,99.4,False,none,,,SPECCHI,,
 BO0624_87842,315153,121,149,"GroBe hollandisehe Standuhr, NuBholz-Maserholz mit eingelegten Linien und Bronzebeschlag, das Unterteil des Gehauses geschweift.Das Zifferblatt mit Stunden- und Tagesanzeiger, Mondphasen, durch fein gravierte allegorische Figuren dargestellt. Das Werk von Jan Henkels,Amsterdam.Das Gesims geschweift und mit vergoldeten Figuren bekront. 18.Jahrh.",156,98.1,False,none,,,,,
-BO0624_87842,315154,122,150,"Alter Sehreibschrank aus hellem NuBholz mit Maserfillungen.Das Unterteil mit vorspringenden, freistehenden, schraubenformig gedrehten Saulen.Uber der schragen Schreibplatte der Aufsatz mit Mittelfach und Schubkasten. 18. Jahrh. H.160 cm, B.107 cm, T.75 cm.",158,99.2,False,none,,,,,
+BO0624_87842,315154,122,150,"Alter Sehreibschrank aus hellem NuBholz mit Maserfillungen.Das Unterteil mit vorspringenden, freistehenden, schraubenformig gedrehten Saulen.Uber der schragen Schreibplatte der Aufsatz mit Mittelfach und Schubkasten. 18. Jahrh. H.160 cm, B.107 cm, T.75 cm.",158,99.2,False,none,,,,,Sec. XVIII
 BO0624_87842,315155,123,151,"GroBe Biseuitgruppe, z w ei Rin g er. Sehr gut modelliert. Schwarzer Holzsockel.H.35cm.",159,85.5,False,none,,,,,
 BO0624_87842,315156,124,152,"Terracottafigur, Baby auf einem Ruhebett.Signiert von V.Valmit jeune. Lg.25 cm.",161,97.4,False,none,,,,,
 BO0624_87842,315157,125,16,"153.Altberliner Porzellanservice, neuglatte Form mit Purpurblumen;bestehend aus:3 Schuisseln,3 runden Napfen,2 Saucieren, 30 flachen,",162,98.9,False,none,,,,,
 BO0624_87842,315158,126,17,"6 tiefen, 6 mittleren,6 kleinen Tellern.",163,96.2,False,none,,,,,
-BO0624_87842,315159,127,154,"Alte friesische Eichenholztruhe.Die Front mit drei Bogennischen und reicher Schnitzerei auf Grund: Doppeladler, Ranken und Blumen. Datiert 1617.Lg.133 cm.",164,90.4,False,none,,,,,
+BO0624_87842,315159,127,154,"Alte friesische Eichenholztruhe.Die Front mit drei Bogennischen und reicher Schnitzerei auf Grund: Doppeladler, Ranken und Blumen. Datiert 1617.Lg.133 cm.",164,90.4,False,none,,,,,Sec. XVII
 BO0624_87842,315160,128,155,"GroBe alte Eichenholztruhe, westfalisch. Gerade Front mit BrettfuiBen, reich mit Flachornamenten auf Grund geschnitzt: Rankenwerk mit Tieren.In der Front Inschrift. GroBes, eisernes, gotisches SchloB. H.102 cm, B.177 cm, T.67cm.",166,99.1,False,none,,Scuola di Westfalia,,,
-BO0624_87842,315161,129,156,"Holzbuste, Madchenkopf,mit alter Vergoldung und Bemalung. Italienisch 17. Jahrh.H.27 cm.",167,97.7,False,none,,,,,
+BO0624_87842,315161,129,156,"Holzbuste, Madchenkopf,mit alter Vergoldung und Bemalung. Italienisch 17. Jahrh.H.27 cm.",167,97.7,False,none,,,,,Sec. XVII
 BO0624_87842,315162,130,157,"Orientaliseher Teppich,brauner Fond mit Arabesken. Gr.275 x185 cm.",168,97.0,False,none,,,,,
 BO0624_87842,315163,131,158,"GroBe gotisehe Holzfigur mit alter Bemalung, Ap o s tel mit Buch,in langem, faltigem Gewand. Gute, ausdrucksvolle Arbeit. H. ca.150 cm.",169,66.7,False,none,,,,,
 BO0624_87842,315164,132,159,"Desgleichen,ahnlich.",171,90.5,False,none,,,,,
@@ -160,7 +160,7 @@ BO0624_87842,315190,158,16,189-94. Sechs Biedermeierstuhle mit durchbrochener Ru
 BO0624_87842,315191,159,17,bezug.,200,76.9,False,none,,,,,
 BO0624_87842,315192,160,195,"Empire-Toilette-Sehrankehen,Mahagoni mit abgeschragten Ecken. Am Schubkasten schwarze, vertiefte Fuillung mit Bronzebeschlag.",201,66.7,False,none,,,OGGETTI VARI,,
 BO0624_87842,315193,161,196,"GroBe franzosische Bronzefigur ,Le jour"", von Drouot. (Medaille aux beaux arts.) H.110 cm. Sehr gute Bronze.",203,75.2,False,none,,,,,
-BO0624_87842,315194,162,197,"GroBer Brisseler Gobelin, figurenreiche Komposition aus der romischen Geschichte.An drei Seiten reich komponierte Bordire mit Fruchtstilleben, Blumen, Tieren usw.Links unten Brisseler Marke. Feiner Faden, sehr gute Qualitat, aber schlecht erhalten. Ende XVI. Jahrh. H.338cm,B.362cm.",205,99.3,False,none,,,,,
+BO0624_87842,315194,162,197,"GroBer Brisseler Gobelin, figurenreiche Komposition aus der romischen Geschichte.An drei Seiten reich komponierte Bordire mit Fruchtstilleben, Blumen, Tieren usw.Links unten Brisseler Marke. Feiner Faden, sehr gute Qualitat, aber schlecht erhalten. Ende XVI. Jahrh. H.338cm,B.362cm.",205,99.3,False,none,,,,,Sec. XVI
 BO0624_87842,315195,163,198,"GroBe franzosische Bronzekrone im Renaissancestil,zu 42 Kerzen, reich ornamentiert.",206,97.6,False,none,,,,,
 BO0624_87842,315196,164,199,"Desgleichen, mit Gaszuglampe und 4 Gruppen Kerzenarmen am Kranz, zwei mit je 6 Kerzen und zwei mit je 3 Kerzen.",207,98.2,False,none,,,OGGETTI VARI,,
 BO0624_87842,315197,165,200,3. Dazu passend: Vier Wandappliques zu je 3 Flammen (fir Gas).,208,96.6,False,none,,,,,
@@ -174,9 +174,9 @@ BO0624_87842,315204,172,211,"Englischer, silberner Korb mit Bugelhenkel und 4 Fu
 BO0624_87842,315205,173,212,"Silberner Eiskibel mit Doppelhenkel um schragen Stabwulsten.(Howard &amp; Co.,New York.) Gew.1255g.",218,97.9,False,none,,,,,
 BO0624_87842,315206,174,213,"Silberner Nautilusbecher auf Fuβ mit Deckel. Mit Rocaillewerk, Engels-",219,97.1,False,none,,,,,
 BO0624_87842,315207,175,214,"silberner, englischer Deckelbecher,konische Form. Die ganze Leibung getrieben, Darstellungen aus der Entdeckung Amerikas. Als Deckel: bekronung ein Schiff. Englische Beschau. Gew. 365 g.",221,98.9,False,none,,,,,
-BO0624_87842,315208,176,215,"silbernes englisches Sehreibzeug mit 3 Einsatzen,reliefierter Rocaillerand. Beschaumarken. Gew. 1300 g.",222,98.0,False,none,,,,,
+BO0624_87842,315208,176,215,"silbernes englisches Sehreibzeug mit 3 Einsatzen,reliefierter Rocaillerand. Beschaumarken. Gew. 1300 g.",222,98.0,False,none,,,,,Sec. XIV
 BO0624_87842,315209,177,216,"silberne, englisehe Dose, Rechteckform, reich getrieben:Kartuschen mit Ornamenten und Amoretten. Beschaumarken. Gew. 355 g.",223,98.3,False,none,,,SCATOLE,,
-BO0624_87842,315210,178,217,"Ovales,silbernes Tablett,Rokokoform mit reich ornamentiertem Rande. Fabrikat von H o w a r d &amp; Co., New York. Gew. 1800 g.",224,98.3,False,none,,,,,
+BO0624_87842,315210,178,217,"Ovales,silbernes Tablett,Rokokoform mit reich ornamentiertem Rande. Fabrikat von H o w a r d &amp; Co., New York. Gew. 1800 g.",224,98.3,False,none,,,,,Sec. XIX
 BO0624_87842,315211,179,218,"Desgleichen, kleiner, ebendaher. Gew. 890 g.",225,95.1,False,none,,,,,
 BO0624_87842,315212,180,219,"silberne Sauciere, geschweifte Form. Howard &amp; Co., New York. Gew. 390g.",226,97.1,False,none,,,,,
 BO0624_87842,315213,181,220,"21. Zwei silberne Gemusesehisseln mit Deckel und Griffen die gleichzeitig als Schuisseln benutzt werden konnen). Ovale Form mit reliefiertem Rande. Fabrikat von Howard &amp; Co., New York. Gew.2280 g.",227,99.0,False,none,,,,,
@@ -225,7 +225,7 @@ BO0624_87842,315255,223,286,"Altes, sehmiedeeisernes Grabkreuz.",281,94.1,False,
 BO0624_87842,315256,224,287,"Engelsfigur, holzgeschnitzt und bemalt; Renaissancekostum, defekt.",282,96.9,False,none,,,,,
 BO0624_87842,315257,225,288,Terracottabiste. Junger Mann von Gomenski.,283,95.2,False,none,,,,,
 BO0624_87842,315258,226,289,"Ovaler Spiegel in weiBem, teilweise vergoldetem Rahmen.",284,96.4,False,none,,,CORNICI,,
-BO0624_87842,315259,227,290,"Messingsehussel im Nurnberger Stil des 16. Jahrh., schrage Buckel im Fond.Durchm.41 cm.",285,97.6,False,none,,,,,
+BO0624_87842,315259,227,290,"Messingsehussel im Nurnberger Stil des 16. Jahrh., schrage Buckel im Fond.Durchm.41 cm.",285,97.6,False,none,,,,,Sec. XVI
 BO0624_87842,315260,228,291,"Paravent, holzgeschnitztes, vergoldetes Gestell mit reliefierten und gemalten Blumen. Dreiteilig.",286,97.9,False,none,,,ARREDAMENTI,,
 BO0624_87842,315261,229,292,"Desgleichen, aus Leder mit gepunzter Fullung, allegorische Figur in ornamentaler Umrahmung. Postament, hohe viereckige Form mit zwei gepunzten Lederfullungen.",287,71.8,False,none,,,OGGETTI IN PELLE,,
 BO0624_87842,315262,230,293,94. Zwei japanisehe Bambusstaffeleien.,289,94.7,False,none,,,,,
@@ -297,7 +297,7 @@ BO0624_87842,315327,295,366,"Zwei Damwildkopfe in einer Landschaft. Leinwand. H.
 BO0624_87842,315328,296,367,Figurliche Darstellung.,497,91.7,False,positional,A.F.OESER,,,,
 BO0624_87842,315329,297,368,Ein Knabe wird von einem Ochsengespann uberfahren. Die Heilung,502,96.8,False,positional,A.F.OESER,,,,
 BO0624_87842,315330,298,369,"Brustbild eines Fursten mit Hermelinmantel, Rustung und Allonge- perucke. Leinwand. H. 93 cm, B. 73 cm. G. R.",507,75.2,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_87842,315331,299,370,"Der Schauspieler J. Kemble als Hamlet den Schadel Yoriks haltend. Ganze Figur. Das schone Bild stammt aus der Sammlung des Bankiers Sir Thomas Baring, welche 1848 in London versteigert wurde. Lein- wand. H. 84 cm, B. 60 cm. S. R.",512,92.9,False,positional,Sir TH.LAWRENCE,,,COLLEZIONE THOMAS BARING,
+BO0624_87842,315331,299,370,"Der Schauspieler J. Kemble als Hamlet den Schadel Yoriks haltend. Ganze Figur. Das schone Bild stammt aus der Sammlung des Bankiers Sir Thomas Baring, welche 1848 in London versteigert wurde. Lein- wand. H. 84 cm, B. 60 cm. S. R.",512,92.9,False,positional,Sir TH.LAWRENCE,,,COLLEZIONE THOMAS BARING,Sec. XIX
 BO0624_87842,315332,300,371,"Das Portrat der Schauspielerin Mrs. Siddons als tragische Muse. Sie sitzt in faltigen Gewandern auf einem Throne, zu beiden Seiten allegorische Figuren. Das Bild stammt aus der Familie des englischen Kupferstechers Haward.H.57 cm, B. 41 cm.G.R.",517,99.2,False,positional,Sir JOSHUA REYNOLDS,,,,
 BO0624_87842,315333,301,372,"Brustbild der Madonna mit gesenkten Blicken. Leinwand. H. 41 cm, B. 30 cm. G. R.",521,97.3,False,positional,,SCHULEVONPARMA,,,
 BO0624_87842,315334,302,373,"St. Hieronymus in Kardinalstracht, das Modell einer Kirche und ein geoffnetes Buch haltend. Auf Goldgrund. Oben in Halbrund schlieBend. Auf Holz.H.97 cm.B.52 cm.G.R.",525,98.8,False,positional,A.BORGOGNONE,,OGGETTI IN LEGNO,,
@@ -394,11 +394,11 @@ BO0624_87842,315424,392,13,467.Arnold Boeklin.Eine Auswahl der hervorragendsten 
 BO0624_87842,315425,393,14,Werk. (Ladenpreis 400 M.) Gr.Fol.,780,94.9,False,positional,J.ROSENBERG,,,,
 BO0624_87842,315426,394,468,Boeklin-Medaille in Silber. Modeliert von Sandreuter. In Etui.,781,96.7,False,positional,J.ROSENBERG,,,,
 BO0624_87842,315427,395,469,Desgleichen in Bronze. Modelliert von Kaufmann. In Etui.,782,96.4,False,positional,J.ROSENBERG,,,,
-BO0624_87842,315428,396,470,A.Rosenberg. Geschichte der modernen Kunst. Leipzig. W. Grunow. 1894. Drei Bande in Halbfranz.Gr.Oktav.,783,98.0,False,positional,J.ROSENBERG,,,,
-BO0624_87842,315429,397,471,A.Sehultz.Einfihrung in das Studium der neueren Kunstgeschichte. Prag—Leipzig.1887.Kalikoband.Oktav.,784,76.4,False,positional,J.ROSENBERG,,,,
-BO0624_87842,315430,398,472,A. Springer. Raffael und Michelangelo.Leipzig. 1883. In zwei Kalikobanden. Gr. Oktav.,786,97.5,False,positional,J.ROSENBERG,,,,
+BO0624_87842,315428,396,470,A.Rosenberg. Geschichte der modernen Kunst. Leipzig. W. Grunow. 1894. Drei Bande in Halbfranz.Gr.Oktav.,783,98.0,False,positional,J.ROSENBERG,,,,Sec. XIX
+BO0624_87842,315429,397,471,A.Sehultz.Einfihrung in das Studium der neueren Kunstgeschichte. Prag—Leipzig.1887.Kalikoband.Oktav.,784,76.4,False,positional,J.ROSENBERG,,,,Sec. XIX
+BO0624_87842,315430,398,472,A. Springer. Raffael und Michelangelo.Leipzig. 1883. In zwei Kalikobanden. Gr. Oktav.,786,97.5,False,positional,J.ROSENBERG,,,,Sec. XIX
 BO0624_87842,315431,399,473,Deutsehe Kunst. 20 Heliograviiren nach berihmten Werken von Wilh. Leibl. In Umschlag. Gr.Fol. (Ladenpreis 125 J.),787,73.3,False,positional,J.ROSENBERG,,,,
-BO0624_87842,315432,400,474,"V.Valentin. Uber Kunst, Kunstler und Kunstwerke. Frankfurt a.M. 1889.Kalikoband.Gr. Oktav.",789,97.7,False,positional,J.ROSENBERG,,,,
-BO0624_87842,315433,401,475,J.Israels. Spanien. Eine Reiseerzahlung. Berlin.1900. Kalikoband. Gr.Oktav.,790,97.2,False,positional,J.ROSENBERG,Scuola di Berlino,,,
+BO0624_87842,315432,400,474,"V.Valentin. Uber Kunst, Kunstler und Kunstwerke. Frankfurt a.M. 1889.Kalikoband.Gr. Oktav.",789,97.7,False,positional,J.ROSENBERG,,,,Sec. XIX
+BO0624_87842,315433,401,475,J.Israels. Spanien. Eine Reiseerzahlung. Berlin.1900. Kalikoband. Gr.Oktav.,790,97.2,False,positional,J.ROSENBERG,Scuola di Berlino,,,Sec. XX
 BO0624_87842,315434,402,25,476.F.H.MeiBner. Max Klinger.,791,94.7,False,positional,J.ROSENBERG,,,,
 BO0624_87842,315435,403,26,Das Kinstlerbuch. A.Bocklin. A.v.Menzel.3 Kalikobande.Gr.Oktav.,792,97.6,False,positional,J.ROSENBERG,,,,

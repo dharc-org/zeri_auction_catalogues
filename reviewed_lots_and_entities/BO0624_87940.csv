@@ -16,12 +16,12 @@ BO0624_87940,455618,14,19,Landschaftsstudie. Rickscite bezeichnet. Beides Bilder
 BO0624_87940,455619,15,20,"Wilh.Marc ,Munchen. Rettichschalerin. Aquarell 20,5/17                                                            |                |",37,97.1,False,title_direct,,,Aquarelle,,
 BO0624_87940,455620,16,21,Derselbe. Junges Madchen. Beide mit dem Nachlassstempel.                                                          | Aquarell 21/16 |,38,97.8,False,title_direct,,,Aquarelle,,
 BO0624_87940,455621,17,26,Mittsommertrieb.                                                                                                  | Platte 58/48   |,43,94.9,False,positional,Peter Burnitz,,,,
-BO0624_87940,455622,18,27,"Ansicht der Stadt Frankfurt a.M.um 1790. Platte 31/51,5                                                           |                |",44,97.3,False,positional,Peter Burnitz,,,,
+BO0624_87940,455622,18,27,"Ansicht der Stadt Frankfurt a.M.um 1790. Platte 31/51,5                                                           |                |",44,97.3,False,positional,Peter Burnitz,,,,Sec. XVIII
 BO0624_87940,455623,19,29,"| H. Flockenhaus, Dusseldorf. Winterabend.            | H. Flockenhaus, Dusseldorf. Winterabend.                                                                          | Holz 54/35                      |",49,98.2,False,positional,Philipp Farg,,OGGETTI IN LEGNO,,
 BO0624_87940,455624,20,30,| Herbstlandschaft. Pendant z. Vor.                   | Herbstlandschaft. Pendant z. Vor.                                                                                 |                                 |,50,97.6,False,positional,Philipp Farg,,,,
 BO0624_87940,455625,21,31,| Herbstlandschaft mit Waldbach. Samtlich bezeichnet. | Herbstlandschaft mit Waldbach. Samtlich bezeichnet.                                                               | Holz 24/14                      |,51,98.7,False,positional,Philipp Farg,,OGGETTI IN LEGNO,,
 BO0624_87940,455626,22,32,|                                                     |                                                                                                                   |                                 |,52,0.0,False,positional,Philipp Farg,,,,
-BO0624_87940,455627,23,33,| Derselbe.                                           | C.F. Mylius. Die Gerbermuihle 1850.                                                                               | Aquarell 18/24                  |,54,97.4,False,title_direct,,,Aquarelle,,
+BO0624_87940,455627,23,33,| Derselbe.                                           | C.F. Mylius. Die Gerbermuihle 1850.                                                                               | Aquarell 18/24                  |,54,97.4,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_87940,455628,24,34,"| Derselbe.                                           | Mainufer, Schneidwall.                                                                                            | Aquarell 20/27 Aquarel1 15,5/21 |",55,97.6,False,title_direct,,,Aquarelle,,
 BO0624_87940,455629,25,35,|                                                     | Galgentor. Derselbe. Eingefrorenes Schiff an der alten Mainbricke.                                                |                                 |,56,97.7,False,positional,Philipp Farg,,,,
 BO0624_87940,455630,26,36,"| Derselbe. Kuhhornshof.                              | Aquarell 21/29 Aquarel1 21,5/27                                                                                   |                                 |",57,97.2,False,title_direct,,,Aquarelle,,
@@ -31,7 +31,7 @@ BO0624_87940,455633,29,39,"|                                                    
 BO0624_87940,455634,30,41,"Halb-Akt. |                                                     |                                                                                                                   | Karton 29,5/23,5                |",63,94.3,False,positional,Philipp Farg,,,,
 BO0624_87940,455635,31,42,"| Dir. Wilhelm Frey, Mannheim.                        | Dir. Wilhelm Frey, Mannheim.                                                                                      |                                 |",64,97.1,False,positional,Philipp Farg,,,,
 BO0624_87940,455636,32,45,"| Wilhelm Haase, Karlsruhe. Winterlandschaft mit Wanderer. Bezeichnet.                                                 | Leinw.59/99            |",71,98.1,False,positional,Ed. Grutzner,,,,
-BO0624_87940,455637,33,46,"| J.G.Hamilton  1740, Wien. Pferdestudie.                                                                              | Karton a. Leinw. 39/55 |",72,97.4,False,positional,Ed. Grutzner,Scuola Viennese,,,
+BO0624_87940,455637,33,46,"| J.G.Hamilton  1740, Wien. Pferdestudie.                                                                              | Karton a. Leinw. 39/55 |",72,97.4,False,positional,Ed. Grutzner,Scuola Viennese,,,Sec. XVIII
 BO0624_87940,455638,34,47,"| Robert Henning, Frankfurt a. M. Heuernte am Chiemsee.                                                                | Leinw.15/23            |",73,97.6,False,positional,Ed. Grutzner,,,,
 BO0624_87940,455639,35,48,"| Die Hochbahn am Halleschen Tor i. Berlin. Karton 21,5/31                                                             |                        |",74,97.3,False,positional,Ed. Grutzner,Scuola di Berlino,,,
 BO0624_87940,455640,36,49,| L'Arc de Triomphe de lEtoile in Paris.                                                                               | Karton 21/30           |,75,97.1,False,positional,Ed. Grutzner,,,,
@@ -56,7 +56,7 @@ BO0624_87940,455658,54,76,"| Jos. Krieg, Karlsruhe. Charakterkopf. Bezeichnet.  
 BO0624_87940,455659,55,79,"| 9Fruhlingslandschaft. Bezeichnet.                              | Leinw.50/39,5                                        |                                                      |",113,96.8,False,positional,Ferd. Krauthauf,,,,
 BO0624_87940,455660,56,80,| Portrat des Grafen Beaufremont.                                | Oval Leinw.64/52                                     |                                                      |,115,96.9,False,positional,Ferd. Krauthauf,,,,
 BO0624_87940,455661,57,82,"| H. Lewis, Dusseldorf. Mondscheinlandschaft. Bezeichnet.        | Leinw.39/60                                          |                                                      |",116,97.6,False,positional,Ferd. Krauthauf,,,,
-BO0624_87940,455662,58,83,"| Professor A. Linnemann , Frankfurt a. M. Weihnachtsgruss 1877. | Aquarell 18/6                                        |                                                      |",117,97.9,False,title_direct,,,Aquarelle,,
+BO0624_87940,455662,58,83,"| Professor A. Linnemann , Frankfurt a. M. Weihnachtsgruss 1877. | Aquarell 18/6                                        |                                                      |",117,97.9,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_87940,455663,59,84,"Beim Schwertfeger. | Karl Josef Litschauer , Dusseldorf.                            | Leinw.48/59                                          |                                                      |",118,97.6,False,positional,Ferd. Krauthauf,,,,
 BO0624_87940,455664,60,86,"| A. Lovatti, Venedig. 5Kanal in Venedig. Bezeichnet.                     | Leinw.44,5/74,5                                                         |",123,97.6,False,positional,Henry Lott,,,,
 BO0624_87940,455665,61,88,| Maler des Xv. Jahrhunderts. Christus mit der Dornenkrone und Magdalena. | Maler des Xv. Jahrhunderts. Christus mit der Dornenkrone und Magdalena. |,125,98.9,False,positional,Henry Lott,,,,
@@ -64,7 +64,7 @@ BO0624_87940,455666,62,89,"| Meister unbekannt. 9Portrat einer Dame. (Kniestuck)
 BO0624_87940,455667,63,90,| Herrnportrat.                                                           | Karton 23/16                                                            |,127,94.3,False,positional,Henry Lott,,,,
 BO0624_87940,455668,64,91,| Heilige Familie.                                                        | Holz 60/49                                                              |,128,94.5,False,positional,Henry Lott,,OGGETTI IN LEGNO,,
 BO0624_87940,455669,65,92,| Madonna mit Kind.                                                       | Leinw.61/47                                                             |,129,94.9,False,positional,Henry Lott,,,,
-BO0624_87940,455670,66,93,"94 | Wilhelm Marc  1907, Munchen. Fuhrmannsschenke im Wald.                  | Leinw.54/76                                                             |",131,97.7,False,positional,Henry Lott,,,,
+BO0624_87940,455670,66,93,"94 | Wilhelm Marc  1907, Munchen. Fuhrmannsschenke im Wald.                  | Leinw.54/76                                                             |",131,97.7,False,positional,Henry Lott,,,,Sec. XX
 BO0624_87940,455671,67,95,| Der Sonnenstrahl.                                                       | Leinw.55/41                                                             |,132,94.9,False,positional,Henry Lott,,,,
 BO0624_87940,455672,68,96,| Kinder unter dem Apfelbaum.                                             | Holz 37/49                                                              |,133,96.1,False,positional,Henry Lott,,OGGETTI IN LEGNO,,
 BO0624_87940,455673,69,97,"| Der Holzknecht.                                                         | Karton 43,5/33,5                                                        |",134,95.4,False,positional,Henry Lott,,,,
@@ -78,10 +78,10 @@ BO0624_87940,455680,76,104,"| Partie bei Prien (Kornfeld).                      
 BO0624_87940,455681,77,105,"| Aus Capri.                                                                     | Aquarell 23,5/16,5               |",143,93.3,False,title_direct,,,Aquarelle,,
 BO0624_87940,455682,78,106,| Schlosstreppe in Reichertshausen. Simtlich bezeichnet mit dem Nachlassstempel. | Aquarell 22/27                   |,144,97.8,False,title_direct,,,Aquarelle,,
 BO0624_87940,455683,79,111,"| F. Mohlmann, Hannover. Heidelandschaft am Morgen. Bezeichnet.                  | Leinw.50/70                      |",150,97.1,False,positional,Henry Lott,,,,
-BO0624_87940,455684,80,112,"| Klaes Molenaar  1876,Haarlem. 2Winterlandschaft mit Staffage.                  | Leinw.37/46                      |",151,97.2,False,positional,Henry Lott,,,,
+BO0624_87940,455684,80,112,"| Klaes Molenaar  1876,Haarlem. 2Winterlandschaft mit Staffage.                  | Leinw.37/46                      |",151,97.2,False,positional,Henry Lott,,,,Sec. XIX
 BO0624_87940,455685,81,114,"| 4 Landschaft mit Schafen. Bezeichnet.                                          | Holz 26/34                       | ## H.Otto, Hannover.",153,82.1,False,title_direct,H.Otto,,OGGETTI IN LEGNO,,
 BO0624_87940,455686,82,115,Abend in der Heide.,158,90.0,False,positional,H.Otto,,,,
-BO0624_87940,455687,83,116,"Barbudo,E.Coleman, Gallegos,Pio Joris,G.Martini, J.Peralta, V. Valmaroli, A. Ricci, G. A. Sartorio, E. Serra, H. Siemiradski, de Tommasi, L. Valler, Villegas, S. Vannutelli.— Roma 1888. Holz 6380 Von simtlichen Kiinstlern bezeichnet.",164,99.1,False,positional,H.Otto,,OGGETTI IN LEGNO,,
+BO0624_87940,455687,83,116,"Barbudo,E.Coleman, Gallegos,Pio Joris,G.Martini, J.Peralta, V. Valmaroli, A. Ricci, G. A. Sartorio, E. Serra, H. Siemiradski, de Tommasi, L. Valler, Villegas, S. Vannutelli.— Roma 1888. Holz 6380 Von simtlichen Kiinstlern bezeichnet.",164,99.1,False,positional,H.Otto,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_87940,455688,84,117,Marine in offener See.,168,91.3,False,positional,G. Pillig,,,,
 BO0624_87940,455689,85,118,3 Desgl.,172,77.8,False,positional,G. Pillig,,,,
 BO0624_87940,455690,86,119,Rendez-vous.,180,84.6,False,positional,Franz Quaglio,,,,
@@ -93,7 +93,7 @@ BO0624_87940,455695,91,124,Joseph und das Jesuskind. Pendant z. Vor.,199,95.0,Fa
 BO0624_87940,455696,92,125,"Wilhelm Marc t,Munchen. Dame mit Muhlsteinkragen. Karton 27/19 Mit dem Nacllassstempel.",203,97.7,False,positional,Ravestejin,,,,
 BO0624_87940,455697,93,128,"| Philipp Rumpf t, Frankfurt a. M. Mutter mit Kind. Bezeichnet.             | Aquarell 33/26                        |                                       |",211,97.3,False,title_direct,,,Aquarelle,,
 BO0624_87940,455698,94,129,"| N. von Santho, Munchen. 9 Landschaft bei untergehender Sonne. Bezeichnet. | Leinw.56/69                           |                                       |",212,97.6,False,positional,Heinr. R. Reder,,,,
-BO0624_87940,455699,95,130,"| Godfried Schalcken, 1643-1706, Haag. Buissende Magdalene.                 | Kupfer 31/27                          |                                       |",213,97.1,False,positional,Heinr. R. Reder,,OGGETTI IN RAME,,
+BO0624_87940,455699,95,130,"| Godfried Schalcken, 1643-1706, Haag. Buissende Magdalene.                 | Kupfer 31/27                          |                                       |",213,97.1,False,positional,Heinr. R. Reder,,OGGETTI IN RAME,,Sec. XVII
 BO0624_87940,455700,96,131,| Der grosse Delft in Emden. Bezeichnet.                                    | Leinw.73/106                          |                                       |,214,96.1,False,positional,Heinr. R. Reder,,,,
 BO0624_87940,455701,97,132,"| Gustav Schmidt, Hannover. Partie bei Fallingbostel.                       | Leinw.65/75                           |                                       |",215,96.8,False,positional,Heinr. R. Reder,,,,
 BO0624_87940,455702,98,133,| Partie bei Gifhorn. Beide bexeichnet.                                     | Leinw.80/120                          |                                       |,216,96.0,False,positional,Heinr. R. Reder,,,,
@@ -147,7 +147,7 @@ BO0624_87940,455749,145,193,Chasse au Cerf. Kupferatzung nach Wouwermann.,318,95
 BO0624_87940,455750,146,195,195,322,100.0,False,positional,,,Kunstblatter,,
 BO0624_87940,455751,147,196,Le Cavalier. Kupferrad. nach J.Asselyn v. L.A.Claessens.,324,96.3,False,positional,,,Kunstblatter,,
 BO0624_87940,455752,148,197,zosen. Stahlstich von F.Randel.,326,93.5,False,positional,,,Kunstblatter,,
-BO0624_87940,455753,149,198,"- Schwerins Tod bei Prag,6. Mai 1757. Kupferstich nach J. C. Frisch von R. de Launay.",328,100.0,False,positional,,,Kunstblatter,,
+BO0624_87940,455753,149,198,"- Schwerins Tod bei Prag,6. Mai 1757. Kupferstich nach J. C. Frisch von R. de Launay.",328,100.0,False,positional,,,Kunstblatter,,Sec. XVIII
 BO0624_87940,455754,150,199,Der Polen Abschied v.Vaterlande. Litho. von H. Mentzler.,329,96.3,False,positional,,,Kunstblatter,,
 BO0624_87940,455755,151,200,"Friedrich der Grosse in der Schlacht bei Leuthen, umgeben von 18 weiteren Schlachtenbildern. Stahlstich nach C. Fr. Schulz von C. Deucker.",330,98.5,False,positional,,,Kunstblatter,,
 BO0624_87940,455756,152,201,"Dasselbe Blatt, jedoch beschn.",331,93.3,False,positional,,,Kunstblatter,,
@@ -159,11 +159,11 @@ BO0624_87940,455761,157,206,Napoleon le Grand mit seinen Generalen. Litho. nach 
 BO0624_87940,455762,158,207,Friedrich der Grosse umgeben von 16 Schlachten-,340,95.8,False,positional,,,Kunstblatter,,
 BO0624_87940,455763,159,208,Napoleon zu Pferd. Grosse Litho. von C. Schuler.,342,95.7,False,positional,,,Kunstblatter,,
 BO0624_87940,455764,160,209,Dasselbe Blatt.,343,87.5,False,positional,,,Kunstblatter,,
-BO0624_87940,455765,161,210,"Damenportrat v. d. Schrift.Schabkunstblatt, 18. Jahrh.",344,96.1,False,positional,,,Kunstblatter,,
+BO0624_87940,455765,161,210,"Damenportrat v. d. Schrift.Schabkunstblatt, 18. Jahrh.",344,96.1,False,positional,,,Kunstblatter,,Sec. XVIII
 BO0624_87940,455766,162,211,Sechs Blatt Bischofe. Kupferstiche von P. Soutmannus.,345,96.2,False,positional,,,Kunstblatter,,
 BO0624_87940,455767,163,212,Facher. Kupferstich. Apotheose auf Friedrich den Grossen.Original von D. Chodowiecki (selten).,346,97.8,False,positional,,,Kunstblatter,,
 BO0624_87940,455768,164,213,Katharine von Bora nach Holbein von C. Hartmann.,347,95.8,False,positional,HOLBEIN HANS IL GIOVANE,,Kunstblatter,,
-BO0624_87940,455769,165,214,Cephalus en Procris. Aquarell von H. C. Beth 1812.,348,95.8,False,title_direct,,,Aquarelle,,
+BO0624_87940,455769,165,214,Cephalus en Procris. Aquarell von H. C. Beth 1812.,348,95.8,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_87940,455770,166,215,von C. Rosenberg.,350,88.2,False,positional,,,Kunstblatter,,
 BO0624_87940,455771,167,216,"Aeneas Patrem ab incendio Trojons eripiens. C.Audran sculpsit, vorzuglicher Abdruck und Erhaltung",351,97.9,False,positional,,,Kunstblatter,,
 BO0624_87940,455772,168,217,Auferweckung. Holzschnitt.,352,92.3,False,positional,,,Kunstblatter,,
@@ -178,12 +178,12 @@ BO0624_87940,455780,176,225,"Gregorio 13. Pont. Max.,thronender Papst mit zwei a
 BO0624_87940,455781,177,226,Groupe du Laocoon. Kupferstich von Eugene Bourgeois.,365,96.2,False,positional,,,Kunstblatter,,
 BO0624_87940,455782,178,227,Die Anbetung Christi durch die Hirten. Kupferstich,366,96.1,False,positional,,,Kunstblatter,,
 BO0624_87940,455783,179,229,229,370,100.0,False,positional,,,Kunstblatter,,
-BO0624_87940,455784,180,230,Der heilige Antonius in Entzuckung. 1526-1578.,372,95.7,False,positional,,,Kunstblatter,,
+BO0624_87940,455784,180,230,Der heilige Antonius in Entzuckung. 1526-1578.,372,95.7,False,positional,,,Kunstblatter,,Sec. XVI
 BO0624_87940,455785,181,231,Die Marter des heiligen Laurentius. Kupferstich von,374,96.2,False,positional,,,Kunstblatter,,
 BO0624_87940,455786,182,232,Eheschliessung von Joseph und Maria. Kupferstich,376,95.9,False,positional,,,Kunstblatter,,
 BO0624_87940,455787,183,233,- Jacob kampft mit dem Lowen. Holzschnitt. Raphael Ur.Inv.,379,100.0,False,positional,SANZIO RAFFAELLO,,Kunstblatter,,
 BO0624_87940,455788,184,234,Die Verspottung Christi Kupferstich nach Joan Lanfranchi von Dom. Cunego.,380,97.3,False,positional,,,Kunstblatter,,
-BO0624_87940,455789,185,235,"Apotheose auf eine Furstin. Chr. Poerson,t 1667.",381,95.7,False,positional,,,Kunstblatter,,
+BO0624_87940,455789,185,235,"Apotheose auf eine Furstin. Chr. Poerson,t 1667.",381,95.7,False,positional,,,Kunstblatter,,Sec. XVII
 BO0624_87940,455790,186,236,The Family of Cornaro a Noble Venetian Tizian r. B. Baroni del et sculp.,382,97.2,False,positional,TIZIANO VECELLIO,Scuola Veneziana,Kunstblatter,,
 BO0624_87940,455791,187,237,La Bellezza che Scaccia il Tempo nach Guido Reni von P.Bonato Veneto.,383,97.1,False,positional,GUIDO RENI,,Kunstblatter,,
 BO0624_87940,455792,188,238,Moses mit der Schlange. Kupferstich nach C. le Brun von B. Audran.,384,96.9,False,positional,LE BRUN CHARLES,,Kunstblatter,,
@@ -193,7 +193,7 @@ BO0624_87940,455795,191,241,- 242 Die Marter des heil. Laurentius. Kupferstich. 
 BO0624_87940,455796,192,243,"Mithologische Darstellung. Sepia. Pity pinx., d'Argent sculpt.",391,96.6,False,positional,,,Kunstblatter,,
 BO0624_87940,455797,193,244,Noahs Dankopfer.Kupferstich nach Andrea Sacchi von Mathew Liart.,392,96.9,False,positional,,,Kunstblatter,,
 BO0624_87940,455798,194,245,Schiavonetti.,394,85.7,False,positional,,,Kunstblatter,,
-BO0624_87940,455799,195,246,1526-1578.,396,81.8,False,positional,,,Kunstblatter,,
+BO0624_87940,455799,195,246,1526-1578.,396,81.8,False,positional,,,Kunstblatter,,Sec. XVI
 BO0624_87940,455800,196,247,Kupferstich,397,84.6,False,positional,,,Kunstblatter,,
 BO0624_87940,455801,197,248,Johannes und Christus. Kupferstich beschn.,399,95.2,False,positional,,,Kunstblatter,,
 BO0624_87940,455802,198,249,Die Kreuzigung des heil. Sebastian. Dominichus pinx. Jacobus Frey.,400,96.9,False,positional,,,Kunstblatter,,
@@ -201,9 +201,9 @@ BO0624_87940,455803,199,250,Romisches Bad.Grosses buntes Aquatintablatt von,401,
 BO0624_87940,455804,200,251,- 252,406,100.0,False,positional,,,Kunstblatter,,
 BO0624_87940,455805,201,253,"- Cleopatre qui montre a Auguste le Buste de Jules Caesar. Kupferstich nach Pompeo Battoni, von Mark, Wien.",408,100.0,False,positional,,Scuola Viennese,Kunstblatter,,
 BO0624_87940,455806,202,254,The Ascension.,409,86.7,False,positional,,,Kunstblatter,,
-BO0624_87940,455807,203,255,- Federzeichnung. Plan zu einem Ruderboot. 18. Jahrh.,412,100.0,False,positional,,,Kunstblatter,,
+BO0624_87940,455807,203,255,- Federzeichnung. Plan zu einem Ruderboot. 18. Jahrh.,412,100.0,False,positional,,,Kunstblatter,,Sec. XVIII
 BO0624_87940,455808,204,256,"Le Jeune Patre offrant son Lait, La Jeune Vigneronne",413,96.2,False,positional,,,Kunstblatter,,
-BO0624_87940,455809,205,257,Kalender fur das praktische Leben auf das Jahr 1822.,415,96.2,False,positional,,,Kunstblatter,,
+BO0624_87940,455809,205,257,Kalender fur das praktische Leben auf das Jahr 1822.,415,96.2,False,positional,,,Kunstblatter,,Sec. XIX
 BO0624_87940,455810,206,258,"Le Marechal. Kupferstich nach Le Main, von Fragonnard.",416,96.2,False,positional,,,Kunstblatter,,
 BO0624_87940,455811,207,259,Darmstadt. Stahlstich von L.Rohbock.,420,94.4,False,positional,,,Stadte-Ansichten,,
 BO0624_87940,455812,208,260,Koln. Der Dom.Stahlstich von C. Mayer.,421,94.6,False,positional,,,Stadte-Ansichten,,
@@ -230,7 +230,7 @@ BO0624_87940,455832,228,282,"Aqua Cetosa, Koch fec.",451,90.9,False,positional,,
 BO0624_87940,455833,229,283,Veduta d'una parte di Roma. Antice Koch fec.,452,95.5,False,positional,,,Stadte-Ansichten,,
 BO0624_87940,455834,230,284,Allacqua di S. Giorgio in Roma. Koch fec.,453,95.0,False,positional,,,Stadte-Ansichten,,
 BO0624_87940,455835,231,285,S. Stefano Rotando in Roma. Koch fec.,454,94.4,False,positional,,,Stadte-Ansichten,,
-BO0624_87940,455836,232,286,A. Vicovaro nach Hackert von Dunker.,455,94.4,False,positional,,,Stadte-Ansichten,,
+BO0624_87940,455836,232,286,A. Vicovaro nach Hackert von Dunker.,455,94.4,False,positional,HACKERT PHILIPPE,,Stadte-Ansichten,,
 BO0624_87940,455837,233,287,"- Bourges und Lion,17. Jahrliundert.",457,100.0,False,positional,,,Stadte-Ansichten,,
 BO0624_87940,455838,234,288,- Vue de la Ville de Caire. A. Benz.,459,100.0,False,positional,,,Stadte-Ansichten,,
 BO0624_87940,455839,235,289,La Cervara. Koch fec.,460,90.5,False,positional,,,Stadte-Ansichten,,
@@ -249,7 +249,7 @@ BO0624_87940,455851,247,301,Nach Leonardo da Vinci. Das Abendmahl.Kupfer.,482,95
 BO0624_87940,455852,248,302,- 303 Nach Binder.Eine Frage. Kupfer.,492,100.0,False,positional,,,OGGETTI IN RAME,,
 BO0624_87940,455853,249,304,Prachtwerk.Jerusalem.(Geschichte der alten Konigstadt vor ihrer Zerstorung.) Von Adam Reissner.,493,97.8,False,positional,,,Stadte-Ansichten,,
 BO0624_87940,455854,250,305,Markenalbum mit ca.2600 Marken. (Schaubek-Album.),494,95.7,False,positional,,,Stadte-Ansichten,,
-BO0624_87940,455855,251,306,Sonnet auf October 1795. Francfort bei F. L. Neubauer.,495,96.2,False,positional,,,Stadte-Ansichten,,
+BO0624_87940,455855,251,306,Sonnet auf October 1795. Francfort bei F. L. Neubauer.,495,96.2,False,positional,,,Stadte-Ansichten,,Sec. XVIII
 BO0624_87940,455856,252,307,Convolut. Diverse Blatter.,496,92.3,False,positional,,,Stadte-Ansichten,,
 BO0624_87940,455857,253,308,Desgl. Desgl.,497,84.6,False,positional,,,Stadte-Ansichten,,
 BO0624_87940,455858,254,309,Convolut. Diverse Blatter.,498,92.3,False,positional,,,Stadte-Ansichten,,
@@ -280,8 +280,8 @@ BO0624_87940,455882,278,334,12 Mokkaloffel in Etui. Silber.,548,93.5,False,posit
 BO0624_87940,455883,279,335,Desgl. Desgl.,549,84.6,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455884,280,336,- Fasan als Streuer. Silber.,551,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455885,281,337,Desgl. .Desgl.,552,84.6,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87940,455886,282,338,Zinnkrug der Weissgerber. Frankfurt 1798.,554,95.1,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87940,455887,283,339,Zinnplatte der Scharfschitzen.Frankfurt a. M. 1823. Obrist Joh. G.Winter.,555,97.1,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87940,455886,282,338,Zinnkrug der Weissgerber. Frankfurt 1798.,554,95.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVIII
+BO0624_87940,455887,283,339,Zinnplatte der Scharfschitzen.Frankfurt a. M. 1823. Obrist Joh. G.Winter.,555,97.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_87940,455888,284,340,- Desgl. .Wappen.Damm.,557,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455889,285,341,Berliner Obstschale.,558,90.5,False,positional,,Scuola di Berlino,Antiquitaten; Kunstsachen,,
 BO0624_87940,455890,286,342,Spirituslampe mit Perlstickerei.,559,93.9,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -296,10 +296,10 @@ BO0624_87940,455898,294,351,Mandoline.,573,81.8,False,positional,,,Antiquitaten;
 BO0624_87940,455899,295,352,Zwei Zinnteller.,574,88.2,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455900,296,353,Zinnlicht.,575,81.8,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455901,297,354,Desgl.,576,71.4,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87940,455902,298,355,- Zinnbecher mit Deckel und Ritterfigur.F.H. 1685.,578,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87940,455902,298,355,- Zinnbecher mit Deckel und Ritterfigur.F.H. 1685.,578,100.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVII
 BO0624_87940,455903,299,357,357,580,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87940,455904,300,358,Desgl. Exekution der Plunderer.1616.,583,94.4,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87940,455905,301,359,Zinnkanne. Graf Bentheim-Steinfurth. 1696.,584,95.1,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87940,455904,300,358,Desgl. Exekution der Plunderer.1616.,583,94.4,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVII
+BO0624_87940,455905,301,359,Zinnkanne. Graf Bentheim-Steinfurth. 1696.,584,95.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVII
 BO0624_87940,455906,302,360,- 361,586,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455907,303,12,geschnittene Cames.,587,92.3,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455908,304,12,gemalte Porzellan-Miniaturen,588,94.9,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -369,8 +369,8 @@ BO0624_87940,455971,367,429,Schalchen mit Hirsch. Silbergetrieben und vergoldet.
 BO0624_87940,455972,368,430,- Grosse Jardiniere.Silber mit Glaseinsatz.,701,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455973,369,431,Paar Vasen mit reicher Malerei. Sevres.,702,94.9,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455974,370,432,Zinnplatte mit Wappen derer von Dalberg Aschaffen-,703,96.1,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87940,455975,371,433,"Desgl. mit Portrat Joh. Georg von Holzhausen, Schultheiss in Frankfurt a.M. 1717.",705,97.4,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_87940,455976,372,434,"Desgl. Gefangennahme des Frankfurter Schultheissen Winter von Wasum,in der Schlacht bei Cronberg 1389.",706,98.0,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_87940,455975,371,433,"Desgl. mit Portrat Joh. Georg von Holzhausen, Schultheiss in Frankfurt a.M. 1717.",705,97.4,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVIII
+BO0624_87940,455976,372,434,"Desgl. Gefangennahme des Frankfurter Schultheissen Winter von Wasum,in der Schlacht bei Cronberg 1389.",706,98.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIV
 BO0624_87940,455977,373,435,Papageikafig.Empire.,707,90.5,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455978,374,436,- Leuchter. Messingbronze. Altdeutsch.,709,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_87940,455979,375,437,- 438 Handleuchter. Messing.,711,100.0,False,positional,,,Antiquitaten; Kunstsachen,,

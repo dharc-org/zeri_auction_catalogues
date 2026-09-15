@@ -36,7 +36,7 @@ BO0624_87938,200569,34,64,| Schwedische Bauerin im Staat. Bezeichnet.           
 BO0624_87938,200570,35,65,| Junges Madchen.                                                                                     | Holz 43/24     |,68,94.3,False,positional,Baron von Kunsberg,,OGGETTI IN LEGNO,,
 BO0624_87938,200571,36,66,| Kinderkopf. Beide bezeichnet.                                                                       | Holz 29/27     |,69,96.2,False,positional,Baron von Kunsberg,,OGGETTI IN LEGNO,,
 BO0624_87938,200572,37,67,"| R.de Kuzman, Madrid. Spanische Schone auf der Strasse. Farbenreiches lebendiges Bild. Bezeichnet.   | Leinw.50/30    |",70,98.6,False,positional,Baron von Kunsberg,,,,
-BO0624_87938,200573,38,68,"| Pieter Pietersz Lastmann,1583-1633, Amsterdam. Gebirgslandschaft mit Schlucht. Fein wirkendes Bild. | Leinw. 69/56   |",71,98.6,False,positional,Baron von Kunsberg,,,,
+BO0624_87938,200573,38,68,"| Pieter Pietersz Lastmann,1583-1633, Amsterdam. Gebirgslandschaft mit Schlucht. Fein wirkendes Bild. | Leinw. 69/56   |",71,98.6,False,positional,Baron von Kunsberg,,,,Sec. XVII
 BO0624_87938,200574,39,70,| Landschaft bei Bergen.                                                                              | Leinw.75/125   |,73,95.8,False,positional,Baron von Kunsberg,,,,
 BO0624_87938,200575,40,71,| Landschaft bei Mondaufgang.                                                                         | Leinw.75/125   |,74,96.3,False,positional,Baron von Kunsberg,,,,
 BO0624_87938,200576,41,72,| Heidelandschaft mit Waldeingang.                                                                    | Leinw.44/55    |,75,96.6,False,positional,Baron von Kunsberg,,,,
@@ -46,7 +46,7 @@ BO0624_87938,200579,44,75,| Kampf zwischen Turken und Ritter.                   
 BO0624_87938,200580,45,76,| Reitergefecht. Pendant z. Vor.                                                                      |                |,80,94.7,False,positional,Baron von Kunsberg,,OGGETTI VARI,,
 BO0624_87938,200581,46,77,| Landschaft bei Beerfelden. Pastel1 100/66 Bezeichnet.                                                                  |,83,97.1,False,positional,Baron von Kunsberg,,,,
 BO0624_87938,200582,47,78,"| A. Meyerhof, Frankfurt a. M. Romerin. Leinw.115/61 Bezeichnet.                                                         |",84,97.4,False,positional,Baron von Kunsberg,,,,
-BO0624_87938,200583,48,83,"| Eduard Wilhelm Pose , Frankfurt a. M. Bauernhaus im Elztal. Aquarell 33/32,5 Links unten bez.: Monogr.WP. 25.Dez.1833. |",89,98.6,False,positional,Baron von Kunsberg,,,,
+BO0624_87938,200583,48,83,"| Eduard Wilhelm Pose , Frankfurt a. M. Bauernhaus im Elztal. Aquarell 33/32,5 Links unten bez.: Monogr.WP. 25.Dez.1833. |",89,98.6,False,positional,Baron von Kunsberg,,,,Sec. XIX
 BO0624_87938,200584,49,85,| Loreley am Rhein. Karton 28/37                                                                                         |,91,95.1,False,positional,Baron von Kunsberg,,,,
 BO0624_87938,200585,50,86,| Ansicht von Ridesheim mit Scholle-Turm. Karton 36/52                                                                   |,92,97.1,False,positional,Baron von Kunsberg,,,,
 BO0624_87938,200586,51,87,| Insel Mainau am Bodensee. Karton 33/44                                                                                 |,93,96.1,False,positional,Baron von Kunsberg,,,,
@@ -54,8 +54,8 @@ BO0624_87938,200587,52,88,| Landschaft aus Deutsch-Altenburg Fein wirkende Lands
 BO0624_87938,200588,53,90,"| P. Rollofs, Karlsruhe. Fischerboote. Bezeichnet.                             | Leinw.33/44    |",99,97.3,False,positional,R. Ribarz,,,,
 BO0624_87938,200589,54,92,| Partie aus Lappland.                                                         | Leinw.35/53    |,101,95.4,False,positional,R. Ribarz,,,,
 BO0624_87938,200590,55,93,| Partie aus Spitzbergen bei untergehender Sonne.                              | Leinw.39/58    |,102,97.5,False,positional,R. Ribarz,,,,
-BO0624_87938,200591,56,94,"Landschaft mit Baumen bei Abendbeleuchtung. | Franz Schutz, 1751-1781,Frankfurt a.M.                                       |                |",103,98.1,False,positional,R. Ribarz,,,,
-BO0624_87938,200592,57,95,"| Christian Georg Schutz, 1758—1823, F1orsheim. 5 Landschaft mit Felsenbricke. | Karton 10/15,5 |",104,98.3,False,positional,R. Ribarz,,,,
+BO0624_87938,200591,56,94,"Landschaft mit Baumen bei Abendbeleuchtung. | Franz Schutz, 1751-1781,Frankfurt a.M.                                       |                |",103,98.1,False,positional,R. Ribarz,,,,Sec. XVIII
+BO0624_87938,200592,57,95,"| Christian Georg Schutz, 1758—1823, F1orsheim. 5 Landschaft mit Felsenbricke. | Karton 10/15,5 |",104,98.3,False,positional,R. Ribarz,,,,Sec. XVIII
 BO0624_87938,200593,58,96,"| Stilleben.                                                                   | Leinw.54/81,5  |",106,93.9,False,positional,R. Ribarz,,,,
 BO0624_87938,200594,59,97,| Desgl. Vase mit roten Blumen.                                                | Karton 36/32   |,107,96.4,False,positional,R. Ribarz,,VASI,,
 BO0624_87938,200595,60,98,| Desgl. Glaskanne u.Schussel m.Pfirsichen. Kart.50/36                         |                |,108,97.1,False,positional,R. Ribarz,,SCATOLE,,
@@ -75,11 +75,11 @@ BO0624_87938,200608,73,112,| Ansicht von Cronberg.                              
 BO0624_87938,200609,74,115,Blumenmadchen.,129,86.7,False,positional,J. Wilson,,,,
 BO0624_87938,200610,75,116,Landschaft mit See bei Mondschein. Holz 12/19,137,95.7,False,positional,E. J. van Wisseling,,OGGETTI IN LEGNO,,
 BO0624_87938,200611,76,117,"Bachlandschaft mit Wiese, im Hintergrund eine Ortschaft.",138,96.4,False,positional,E. J. van Wisseling,,,,
-BO0624_87938,200612,77,118,Pan. llustrierte Vierteljahrschrift. Herausgegeben vom Verlag Pan. 1895/1896. I.V. gebunden.,144,97.7,False,positional,E. J. van Wisseling,,,,
-BO0624_87938,200613,78,119,一 1896.1.—IV.,145,84.6,False,positional,E. J. van Wisseling,,,,
-BO0624_87938,200614,79,120,1897.1.III.,146,83.3,False,positional,E. J. van Wisseling,,,,
+BO0624_87938,200612,77,118,Pan. llustrierte Vierteljahrschrift. Herausgegeben vom Verlag Pan. 1895/1896. I.V. gebunden.,144,97.7,False,positional,E. J. van Wisseling,,,,Sec. XIX
+BO0624_87938,200613,78,119,一 1896.1.—IV.,145,84.6,False,positional,E. J. van Wisseling,,,,Sec. XIX
+BO0624_87938,200614,79,120,1897.1.III.,146,83.3,False,positional,E. J. van Wisseling,,,,Sec. XIX
 BO0624_87938,200615,80,121,"Adam Reissner.Prachtband, Jerusalem.",148,94.4,False,positional,E. J. van Wisseling,,,,
-BO0624_87938,200616,81,122,Jost Amman. 50 Blatt aus der Portratsammlung. Genuinae icones ducum Bavariae etc. ex principe familia Bavarica oriendorum ab 463 ad 1563 caelatore Jodoco Ammano pictoro Norib. 1580. 40.,152,98.9,False,positional,,,Kupferstiche,,
+BO0624_87938,200616,81,122,Jost Amman. 50 Blatt aus der Portratsammlung. Genuinae icones ducum Bavariae etc. ex principe familia Bavarica oriendorum ab 463 ad 1563 caelatore Jodoco Ammano pictoro Norib. 1580. 40.,152,98.9,False,positional,,,Kupferstiche,,Sec. XVI
 BO0624_87938,200617,82,123,"Nach von Steinle. Wer das Gluck hat, fuhrt die Braut heim. Platte 48/32",156,97.1,False,positional,,,Kupferstiche,,
 BO0624_87938,200618,83,124,"Der Gross-Poenitenitar. Platte 45,5/30,5",157,95.1,False,positional,,,Kupferstiche,,
 BO0624_87938,200619,84,125,| Nach Raphael Sanzio. La Vierge aux Langes.   |              |,160,95.2,False,positional,SANZIO RAFFAELLO,,Kupferstiche,,
@@ -113,7 +113,7 @@ BO0624_87938,200646,111,155,"| Nach Wegener. Kaiser Wilhelm I.                  
 BO0624_87938,200647,112,156,"| Kaiser Friedrich III.                                    | Kaiser Friedrich III.                                    | Kaiser Friedrich III.                                    | Platte 36/28,5                                           | Kaiser Friedrich III.                                    | Kaiser Friedrich III.                                    |                                       |                                       |",219,98.3,False,positional,,,Radierungen,,
 BO0624_87938,200648,113,157,| Neher. Egmont.                                           | Neher. Egmont.                                           | Neher. Egmont.                                           | Platte 34/23                                             | Neher. Egmont.                                           | Neher. Egmont.                                           |                                       |                                       |,220,97.5,False,positional,,,Radierungen,,
 BO0624_87938,200649,114,158,| Nach C. Albrecht. Waldeinsamkeit.                        | Nach C. Albrecht. Waldeinsamkeit.                        | Nach C. Albrecht. Waldeinsamkeit.                        | Platte 51/59                                             | Nach C. Albrecht. Waldeinsamkeit.                        | Nach C. Albrecht. Waldeinsamkeit.                        |                                       |                                       |,222,98.8,False,positional,,,Radierungen,,
-BO0624_87938,200650,115,159,| Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     | Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     | Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     | Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     | Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     | Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     |                                       |                                       |,223,99.3,False,positional,,,Radierungen,,
+BO0624_87938,200650,115,159,| Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     | Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     | Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     | Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     | Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     | Nach Bellange. Somo-Sierra. 30.Nov.1808.Platte 62/79     |                                       |                                       |,223,99.3,False,positional,,,Radierungen,,Sec. XIX
 BO0624_87938,200651,116,160,| Arn.Boecklin. Sommertag.                                 | Arn.Boecklin. Sommertag.                                 | Arn.Boecklin. Sommertag.                                 | Platte61/48                                              | Arn.Boecklin. Sommertag.                                 | Arn.Boecklin. Sommertag.                                 |                                       |                                       |,224,98.4,False,positional,,,Radierungen,,
 BO0624_87938,200652,117,161,| Le Gout Gerardet. Schiffe am Strand. Platte 50/55        | Le Gout Gerardet. Schiffe am Strand. Platte 50/55        | Le Gout Gerardet. Schiffe am Strand. Platte 50/55        | Le Gout Gerardet. Schiffe am Strand. Platte 50/55        | Le Gout Gerardet. Schiffe am Strand. Platte 50/55        | Le Gout Gerardet. Schiffe am Strand. Platte 50/55        |                                       |                                       |,225,99.3,False,positional,,,Radierungen,,
 BO0624_87938,200653,118,162,| Nach dems. Abend am Strand. V.d. Schr. Pend. z. Vor.     | Nach dems. Abend am Strand. V.d. Schr. Pend. z. Vor.     | Nach dems. Abend am Strand. V.d. Schr. Pend. z. Vor.     | Nach dems. Abend am Strand. V.d. Schr. Pend. z. Vor.     | Nach dems. Abend am Strand. V.d. Schr. Pend. z. Vor.     | Nach dems. Abend am Strand. V.d. Schr. Pend. z. Vor.     |                                       |                                       |,227,99.3,False,positional,,,Radierungen,,
@@ -258,7 +258,7 @@ BO0624_87938,200791,256,308,Desgl. desgl.,452,84.6,False,positional,,,Glasgemald
 BO0624_87938,200792,257,309,- Ovale Platte mit Relief. Englisch.,454,100.0,False,positional,,,Glasgemalde,,
 BO0624_87938,200793,258,310,Schwarzer Humpen. Wedgwood.,455,92.6,False,positional,,,OGGETTI VARI,,
 BO0624_87938,200794,259,311,- 312 Salatschissel mit Blumen und Fruchten. Meissen.,458,100.0,False,positional,,Scuola di Meissen,Glasgemalde,,
-BO0624_87938,200795,260,314,Zinnkrug m.Deckel u. Inschrift. Adolf Ludwig Koch 1807. Gruppe. Schlafende Schaferin.1 Marke Hochst.,459,68.9,False,positional,,Manifattura di Hochst,OGGETTI VARI,,
+BO0624_87938,200795,260,314,Zinnkrug m.Deckel u. Inschrift. Adolf Ludwig Koch 1807. Gruppe. Schlafende Schaferin.1 Marke Hochst.,459,68.9,False,positional,,Manifattura di Hochst,OGGETTI VARI,,Sec. XIX
 BO0624_87938,200796,261,315,Zinnhumpen mit Deckel.,461,91.3,False,positional,,,Glasgemalde,,
 BO0624_87938,200797,262,316,Zinnterrine mit Henkeln.,462,92.0,False,positional,,,Glasgemalde,,
 BO0624_87938,200798,263,317,Hullier. Silber mit Rubinglasern.,463,93.9,False,positional,,,Glasgemalde,,
@@ -357,7 +357,7 @@ BO0624_87938,200890,355,414,Pfeifenkopf. Holz mit Silberbeschlag.,605,94.6,False
 BO0624_87938,200891,356,415,- Tasse mit Schwanen. Napoli.,607,100.0,False,positional,,,Glasgemalde,,
 BO0624_87938,200892,357,416,Zinnteller mit Portrat Gustav Adolfs.,608,94.7,False,positional,,,PIATTI,,
 BO0624_87938,200893,358,417,- Zwei Apothekerglasflaschen mit Goldrand.,610,100.0,False,positional,,,Glasgemalde,,
-BO0624_87938,200894,359,418,- Zinnteller.Belagerung Frankfurts 1552.,612,100.0,False,positional,,,PIATTI,,
+BO0624_87938,200894,359,418,- Zinnteller.Belagerung Frankfurts 1552.,612,100.0,False,positional,,,PIATTI,,Sec. XVI
 BO0624_87938,200895,360,419,Schussel. Blau-weiss. Delft.32 cm.,613,93.9,False,positional,,,SCATOLE,,
 BO0624_87938,200896,361,420,Desgl.,614,71.4,False,positional,,,Glasgemalde,,
 BO0624_87938,200897,362,421,Wandteller mit gebogtem Rand. Imari. 3l cm.,616,95.2,False,positional,,,Glasgemalde,,
@@ -376,7 +376,7 @@ BO0624_87938,200909,374,433,Desgl. Desgl.,632,84.6,False,positional,,,Glasgemald
 BO0624_87938,200910,375,434,"- Desgl. Portrat einer Dame in weissem Kleid. Directoirezeit. Diam.6,5",635,100.0,False,positional,,,Glasgemalde,,
 BO0624_87938,200911,376,435,Dose mit Eifenbeinminiatur. Damenportrat. Empire. Rund. Diam.6,636,96.7,False,positional,,,SCATOLE,,
 BO0624_87938,200912,377,436,"Elfenbeinminiatur. Portrat eines Herrn in blauem Rock und gelber Weste.Rund. Diam.5,5",637,97.6,False,positional,,,Glasgemalde,,
-BO0624_87938,200913,378,437,Elfenbeinminiatur. 1850.,638,91.7,False,positional,,,Glasgemalde,,
+BO0624_87938,200913,378,437,Elfenbeinminiatur. 1850.,638,91.7,False,positional,,,Glasgemalde,,Sec. XIX
 BO0624_87938,200914,379,438,"Desgl. Dame mit blondem Haar, braunem Schleier, gelbem Kleid und blauer Schleife. Rund. Diam. 6,5",639,97.8,False,positional,,,Glasgemalde,,
 BO0624_87938,200915,380,439,"Desgl. Portrat eines Herrn. Oval. 9,5/7,5",641,95.0,False,positional,,,Glasgemalde,,
 BO0624_87938,200916,381,440,"Desgl. Portrat einer blonden Dame in weissem Kleid mit dunklem Schal,um Kopf und Hals einen weissen Schleier geschlungen. Rund. Diam.7,5",642,98.5,False,positional,HALS DIRK,,Glasgemalde,,
@@ -385,7 +385,7 @@ BO0624_87938,200918,383,442,"- Desgi. Dame in braunem Kleid, um die Schultern ei
 BO0624_87938,200919,384,443,"Desgl. Englanderin mit blondem Haar, in weissem Kleid und Schleier, auf einem Stuhl sitzend. Oval. 6,5",646,98.0,False,positional,,,Glasgemalde,,
 BO0624_87938,200920,385,444,"Desgl. Dame in hellblauem Kleid,grossem schwarzen Hut mit rotem Band und Reiherfeder. Oval. 8/6",647,97.9,False,positional,,,Glasgemalde,,
 BO0624_87938,200921,386,445,Desgl. Herr in blauem Frack mit goldenen Knopfen.,648,95.9,False,positional,,,Glasgemalde,,
-BO0624_87938,200922,387,446,"Desgl. Dame mit gescheiteltem Haar und herabfallenden Zopfen, in schwarzem Kleid und Perlenkollier. Um 1850. 7,5/5,5",650,98.2,False,positional,,,Glasgemalde,,
+BO0624_87938,200922,387,446,"Desgl. Dame mit gescheiteltem Haar und herabfallenden Zopfen, in schwarzem Kleid und Perlenkollier. Um 1850. 7,5/5,5",650,98.2,False,positional,,,Glasgemalde,,Sec. XIX
 BO0624_87938,200923,388,447,"- Schildpattdose mit Eifenbeinminiatur. Dame in weissem Kleid und gepudertem Haar, mit Kind, im Garten sitzend.",652,100.0,False,positional,,,OGGETTI VARI,,
 BO0624_87938,200924,389,448,"- Elfenbeinminiatur. Dame mit blondem Haar in weissem Kleid. XVlll. Jahrhundert. Oval. 7,516",654,100.0,False,positional,,,Glasgemalde,,
 BO0624_87938,200925,390,449,"Desgl. Madchen in rosa Kleid, mit Schleier u.blauem",655,96.1,False,positional,,,Glasgemalde,,
@@ -407,7 +407,7 @@ BO0624_87938,200940,405,464,Salz- und Pfefferstreuer. Glas.,675,93.3,False,posit
 BO0624_87938,200941,406,465,Meerschaumspitze.,676,88.9,False,positional,,,Glasgemalde,,
 BO0624_87938,200942,407,466,Radierung. Der schiefe Turm von Saragossa.,677,95.2,False,title_direct,,,Radierungen,,
 BO0624_87938,200943,408,467,Stahlstich.,679,83.3,False,positional,,,OGGETTI IN METALLO,,
-BO0624_87938,200944,409,468,Buch 1773. Geschichte Jesu.,680,92.6,False,positional,,,Glasgemalde,,
+BO0624_87938,200944,409,468,Buch 1773. Geschichte Jesu.,680,92.6,False,positional,,,Glasgemalde,,Sec. XVIII
 BO0624_87938,200945,410,469,Zinnservice.,681,84.6,False,positional,,,OGGETTI IN LATTA,,
 BO0624_87938,200946,411,470,"Schraubenkrug. Zinn, getrieben. Sechseckig.",683,95.1,False,positional,,,OGGETTI IN LATTA,,
 BO0624_87938,200947,412,471,"- Kichenlampchen. Zinn, gewunden.",685,100.0,False,positional,,,OGGETTI IN LATTA,,

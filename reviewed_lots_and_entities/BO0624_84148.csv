@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84148,139682,1,3,4,25,100.0,False,positional,BOLDINI,,,,
-BO0624_84148,139683,2,1848,1913.,31,61.5,False,positional,DETAILLE,,,,
-BO0624_84148,139684,3,1826,1889.,66,61.5,False,positional,HEILBUTH,,,,
+BO0624_84148,139683,2,1848,1913.,31,61.5,False,positional,DETAILLE,,,,Sec. XX
+BO0624_84148,139684,3,1826,1889.,66,61.5,False,positional,HEILBUTH,,,,Sec. XIX
 BO0624_84148,139685,4,5,Le Savetier et le financier.,68,96.4,False,positional,HEILBUTH,,,,
 BO0624_84148,139686,5,1864,"Haut.,29 cent.;larg.,36 cent.1/2.",76,100.0,False,positional,HEILBUTH,,,,
 BO0624_84148,139687,6,1846,1g10.,130,66.7,False,positional,DE PENNE,,,,
@@ -9,43 +9,43 @@ BO0624_84148,139688,7,10,## DE PENNE,132,100.0,False,title_direct,DE PENNE,,,,
 BO0624_84148,139689,8,13,"Marguerite, volubilis et capucines dans un verre.",171,96.9,False,positional,RIVOIRE,,,,
 BO0624_84148,139690,9,15,"Coquelicots, azalees et aubepine en fleurs dans un vase.",195,97.3,False,positional,RIVOIRE,,VASI,,
 BO0624_84148,139691,10,91,Violettes et reseda dans un vase.,206,95.5,False,positional,RIVOIRE,,VASI,,
-BO0624_84148,139692,11,17,Le Bouquet de violettes. 1895.,218,85.2,False,positional,RIVOIRE,,,,
+BO0624_84148,139692,11,17,Le Bouquet de violettes. 1895.,218,85.2,False,positional,RIVOIRE,,,,Sec. XIX
 BO0624_84148,139693,12,18,Gambronne a la bataille de Waterloo.,239,95.9,False,positional,ARMAND-DUMARESQ,,,,
 BO0624_84148,139694,13,19,## BAIL,248,100.0,False,title_direct,BAIL,,,,
 BO0624_84148,139695,14,20,— a Barneville-sur-Mer (Manche).,265,94.7,False,positional,BARILLOT,,,,
 BO0624_84148,139696,15,1845,1g02.,277,61.5,False,positional,BENJAMIN-CONSTANT,,,,
 BO0624_84148,139697,16,22,## BERCHERE,288,100.0,False,title_direct,BERCHERE,,,,
-BO0624_84148,139698,17,181,g-1891.,292,80.0,False,positional,BERCHERE,,,,
-BO0624_84148,139699,18,1836,1910.,306,61.5,False,positional,BERNE-BELLECOUR,,,,
+BO0624_84148,139698,17,181,g-1891.,292,80.0,False,positional,BERCHERE,,,,Sec. XIX
+BO0624_84148,139699,18,1836,1910.,306,61.5,False,positional,BERNE-BELLECOUR,,,,Sec. XX
 BO0624_84148,139700,19,23,La Bonne Gamelle.,308,91.4,False,positional,BERNE-BELLECOUR,,,,
-BO0624_84148,139701,20,25,Etude d''arbres dans la foret de Fontai- 1885.,332,90.5,False,positional,BONHEUR,,,,
+BO0624_84148,139701,20,25,Etude d''arbres dans la foret de Fontai- 1885.,332,90.5,False,positional,BONHEUR,,,,Sec. XIX
 BO0624_84148,139702,21,26,Leda.,348,72.7,False,positional,BORIONE,,,,
 BO0624_84148,139703,22,1825,ig08.,361,61.5,False,positional,BOUDIN,,,,
 BO0624_84148,139704,23,28,Le Moulin.,375,85.7,False,positional,BOUDIN,,,,
-BO0624_84148,139705,24,29,## BROZIK 1891.,384,70.6,False,title_direct,BROZIK,,,,
-BO0624_84148,139706,25,30,Les Fleurs. La Peche. La Vendange. Les Colombes. 1875.,400,91.7,False,positional,CHAPLIN,,,,
+BO0624_84148,139705,24,29,## BROZIK 1891.,384,70.6,False,title_direct,BROZIK,,,,Sec. XIX
+BO0624_84148,139706,25,30,Les Fleurs. La Peche. La Vendange. Les Colombes. 1875.,400,91.7,False,positional,CHAPLIN,,,,Sec. XIX
 BO0624_84148,139707,26,31,一 Dans la clairiere. Fontainebleau.,411,95.7,False,positional,COROT,,,,
 BO0624_84148,139708,27,32,Retour du paturage.,424,92.3,False,positional,DUPRE,,,,
-BO0624_84148,139709,28,33,—La Charrette de foin. g-1864.,436,80.0,False,positional,DUPRE,,,,
+BO0624_84148,139709,28,33,—La Charrette de foin. g-1864.,436,80.0,False,positional,DUPRE,,,,Sec. XIX
 BO0624_84148,139710,29,34,—Jesus et les petits enfants.,447,94.7,False,positional,FLANDRIN,,,,
-BO0624_84148,139711,30,35,## FRANCAIS 1898.,458,76.2,False,title_direct,FRANCAIS,,,,
+BO0624_84148,139711,30,35,## FRANCAIS 1898.,458,76.2,False,title_direct,FRANCAIS,,,,Sec. XIX
 BO0624_84148,139712,31,36,一,484,40.0,False,positional,GEROME,,,,
 BO0624_84148,139713,32,38,39,487,100.0,False,positional,GEROME,,,,
 BO0624_84148,139714,33,40,— Le Sentier dans la vallee.,522,94.3,False,positional,HARPIGNIES,,,,
 BO0624_84148,139715,34,I,"l revint cependant de bonne heure a la terre de France, dont il etudia les coins boises qui plaisaient davantage a sa nature, et il se sentit tout particulierement attire vers lAuvergne, dont il a donne des vues d'une rare distinction. On ne saurait affirmer que partout il s'est tenu dans une expression absolue de verite,mais il etait entraine a parer cette verite, par son gout pour les vigueurs de coloration, par son parti pris a rapprocher les plans, dont lexageration provenait non pas d'une erreur de l'ceil,mais d'une volonte parfaitement libre.",534,99.9,False,positional,HARPIGNIES,,,,
-BO0624_84148,139716,35,1829,1905.,568,61.5,False,positional,HENNER,,,,
+BO0624_84148,139716,35,1829,1905.,568,61.5,False,positional,HENNER,,,,Sec. XX
 BO0624_84148,139717,36,43,一 Meditation.,570,88.9,False,positional,HENNER,,,,
 BO0624_84148,139718,37,45,一 Priere.,605,100.0,False,positional,HENNER,,,,
 BO0624_84148,139719,38,46,## HENNER,615,100.0,False,title_direct,HENNER,,,,
 BO0624_84148,139720,39,47,Ophelie.,631,82.4,False,positional,HENNER,,,,
 BO0624_84148,139721,40,49,## HENNER,639,100.0,False,title_direct,HENNER,,,,
 BO0624_84148,139722,41,50,Eva.,668,66.7,False,positional,HENNER,,,,
-BO0624_84148,139723,42,51,La Jeune Fille au corsage bleu. 1894.,683,88.2,False,positional,HENNER,,,,
+BO0624_84148,139723,42,51,La Jeune Fille au corsage bleu. 1894.,683,88.2,False,positional,HENNER,,,,Sec. XIX
 BO0624_84148,139724,43,52,Le Troupeau au bord du ruisseau.,697,95.4,False,positional,JACQUE,,,,
 BO0624_84148,139725,44,53,"一 Maitre Pierre, docteur et religieux, entre dans le cachot de Jeanne d'Arc avec la sentence qu'il nose lui lire.",708,98.7,False,positional,LAURENS,,,,
 BO0624_84148,139726,45,54,Chlother.,719,84.2,False,positional,LAURENS,,,,
 BO0624_84148,139727,46,I,"l est debout, en manteau blanc sur sa tunique a bordure brodee.Des bandelettes retiennent ses bas rouges. ll a des brodequins noirs aux pieds;il croise son bras droit sur son bras gauche. Un lourd bracelet de metal entoure son poignet. Une épee courte pend a sa ceinture. Il renverse la tete dans un geste a la fois inspire et suppliant.",721,99.8,False,positional,LAURENS,,OGGETTI IN METALLO,,
-BO0624_84148,139728,47,1851,1912.,731,61.5,False,positional,LE BLANT,,,,
+BO0624_84148,139728,47,1851,1912.,731,61.5,False,positional,LE BLANT,,,,Sec. XX
 BO0624_84148,139729,48,55,——La Chassea lhomme.,733,91.9,False,positional,LE BLANT,,,,
 BO0624_84148,139730,49,56,Laura.,740,76.9,False,positional,LE BLANT,,,,
 BO0624_84148,139731,50,58,uPenserosa ). 1g05.,769,71.4,False,positional,LEFEBVRE,,,,
@@ -54,11 +54,11 @@ BO0624_84148,139733,52,6,o ——Jeunesse blonde.,794,97.1,False,positional,LYNC
 BO0624_84148,139734,53,61,Jeanne d'Arc.,805,88.9,False,positional,LYNCH,,,,
 BO0624_84148,139735,54,62,La Jeune Femme aux yeux bleus. 1g08.,815,87.9,False,positional,LYNCH,,,,
 BO0624_84148,139736,55,63,Dante rencontre Matilda.,826,93.9,False,positional,MAIGNAN,,,,
-BO0624_84148,139737,56,64,Femme en priere. 1892.,846,78.9,False,positional,MORELLI,,,,
-BO0624_84148,139738,57,65,一 Vive l'Empereur!(3o mars 1814).,857,95.2,False,positional,MULLER,,,,
+BO0624_84148,139737,56,64,Femme en priere. 1892.,846,78.9,False,positional,MORELLI,,,,Sec. XIX
+BO0624_84148,139738,57,65,一 Vive l'Empereur!(3o mars 1814).,857,95.2,False,positional,MULLER,,,,Sec. XIX
 BO0624_84148,139739,58,66,Le Soldat blesse.,887,91.4,False,positional,DE NEUVILLE; DETAILLE,,,,
 BO0624_84148,139740,59,68,— La Falaise.,909,87.0,False,positional,OLIVE,,,,
-BO0624_84148,139741,60,1838,1891.,918,61.5,False,positional,PELOUSE,,,,
+BO0624_84148,139741,60,1838,1891.,918,61.5,False,positional,PELOUSE,,,,Sec. XIX
 BO0624_84148,139742,61,73,一 Pretresse de Tanit.,966,93.0,False,positional,ROCHEGROSSE,,,,
 BO0624_84148,139743,62,74,— Au temps de Bilitis.,979,92.7,False,positional,ROCHEGROSSE,,,,
 BO0624_84148,139744,63,75,——La Fille de Theodora.,990,93.0,False,positional,ROMANI,,,,
@@ -75,12 +75,12 @@ BO0624_84148,139754,73,86,— Gentilhomme Louis XIll.,1146,93.6,False,positional
 BO0624_84148,139755,74,I,"l est debout:il marche dans un interieur aux boiseries de style ogival tertiaire. Vu de trois quarts a gauche, la tete coiffee d'un chapeau noir a larges bords, tournee de face,il est vetu d'un pourpoint de velours cisele havane,ceinture de soie verdatre. Ses manches sont de peluche bleu ciel. Sa culotte est en velours raye gris bleu. Il est chausse de souliers eperonnes et de houzeaux de peau marron. Il a la main droite a la hanche et la main gauche gantee a crispin, pesant sur la poignee de son epee.",1148,99.9,False,positional,ROYBET,,ARREDAMENTI,,
 BO0624_84148,139756,75,88,—Les Pecheurs.,1168,88.9,False,positional,TATTEGRAIN,,,,
 BO0624_84148,139757,76,I,"ls sont en mer, et la vague est rude: tandis qu'ils viennent de tirer leurs filets qu'ils dechargent de leurs poissons, lun des hommes tient le gouvernail de toute la force de ses bras vaillants. Autour du bateau, il y a des vols de mouettes. A lhorizon, a gauche, on apercoit d'autres bateaux de peche.",1170,99.8,False,positional,TATTEGRAIN,,,,
-BO0624_84148,139758,77,1828,1893.,1179,61.5,False,positional,VEYRASSAT,,,,
+BO0624_84148,139758,77,1828,1893.,1179,61.5,False,positional,VEYRASSAT,,,,Sec. XIX
 BO0624_84148,139759,78,90,## VEYRASSAT,1196,100.0,False,title_direct,VEYRASSAT,,,,
 BO0624_84148,139760,79,91,Homard et citrons.,1217,91.9,False,positional,VOLLON,,,,
 BO0624_84148,139761,80,93,## VOLLON,1226,100.0,False,title_direct,VOLLON,,,,
 BO0624_84148,139762,81,94,## ZIEM,1253,100.0,False,title_direct,ZIEM,,,,
-BO0624_84148,139763,82,1822,1911.,1257,61.5,False,positional,ZIEM,,,,
+BO0624_84148,139763,82,1822,1911.,1257,61.5,False,positional,ZIEM,,,,Sec. XX
 BO0624_84148,139764,83,I,ci quatre pages qui font aimer Ziem dans son bel enthousiame romantique.,1267,99.3,False,positional,ZIEM,,,,
 BO0624_84148,139765,84,95,5—La Sortie du Bucentaure.,1275,94.3,False,positional,ZIEM,,,,
 BO0624_84148,139766,85,96,一 Soleil couchant sur le canal a Venise.,1286,96.3,False,positional,ZIEM,,,,

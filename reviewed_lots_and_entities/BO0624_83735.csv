@@ -1,50 +1,50 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83735,91381,1,1,Antonello De Messine. XV siecle.  Portrait dhomme.,98,60.6,False,positional,ANTONELLO DE MESSINE,,,,
-BO0624_83735,91382,2,2,Boucher. 1703-1770. Les Oiseaux en cage.,117,69.0,False,positional,BOUCHER (FRANCOIS),,,,
+BO0624_83735,91381,1,1,Antonello De Messine. XV siecle.  Portrait dhomme.,98,60.6,False,positional,ANTONELLO DE MESSINE,,,,Sec. XV
+BO0624_83735,91382,2,2,Boucher. 1703-1770. Les Oiseaux en cage.,117,69.0,False,positional,BOUCHER (FRANCOIS),,,,Sec. XVIII
 BO0624_83735,91383,3,3,"BOUCHER, FRANCOIS. Le Petit Denicheur.",128,69.1,False,title_direct,BOUCHER (FRANCOIS),,,,
-BO0624_83735,91384,4,4,Bourguignon. 1621-1676. Bataille.,137,52.3,False,positional,"BOURGUIGNON JAcQUEs CoURToIs, dit le",,,,
+BO0624_83735,91384,4,4,Bourguignon. 1621-1676. Bataille.,137,52.3,False,positional,"BOURGUIGNON JAcQUEs CoURToIs, dit le",,,,Sec. XVII
 BO0624_83735,91385,5,5,Bourguignon. Combat de cavalerie.,147,76.9,False,positional,"BOURGUIGNON (JAcQUEs CoURToIs,dit le)",,,,
-BO0624_83735,91386,6,6,BREUGHEL. 1568-1625. L'Entree dans larche. Bataille.,157,62.9,False,positional,"BREUGHEL (JEAN), dit de Velours",,,,
-BO0624_83735,91387,7,7,Chardin. 1699-1799. Nature morte.,170,63.6,False,positional,CHARDIN (JEAN-BAPTISTE),,,,
-BO0624_83735,91388,8,8,CLOUET FRANcois. 1510-1572. Portrait de femme..,179,58.8,False,positional,"CLOUET (FRANcois), dit Janet",,,,
-BO0624_83735,91389,9,9,"Coques. 1618-1684. Portrait d'homme. l est vu jusqu'a mi-corps, en pourpoint noir, la tete presque de face, portant sur la fraise rigide a double tuyaute. Des cheveux blonds,une moustache naissante, le menton termine par une mince barbiche.La bouche est grande, d'un beau dessin male; les yeux bleus trahissent une volonte douce et patiente.Le front est ample, solidement modele;les pommettes sont legerement emaciees; le maxillaire inferieur a de l'accent. La figure, dans une lumiere blonde, se degage d'un fond sombre.",196,96.6,False,positional,COQUES (GONZALES),,,,
-BO0624_83735,91390,10,10,Danloux. 1745-1809. Les Petits gourmands.,209,75.4,False,positional,DANLOUX (PIERRE),,,,
-BO0624_83735,91391,11,11,Demarne. 1744-1829. Le Retour du marche.,224,71.2,False,positional,DEMARNE (JEAN-LoUIS),,,,
-BO0624_83735,91392,12,12,Dietrich. 1712-1774. Le Marchand de gaufres.,235,75.8,False,positional,DIETRICH (CHRETIEN-GUILLAUME),,,,
-BO0624_83735,91393,13,13,Drouais. 1727-1775. Portrait du jeune duc de Choiseul,248,80.5,False,positional,DROUAIS (FRANCOIS-HUBERT),,,,
-BO0624_83735,91394,14,14,"Durer. 1471-1528. Portrait de Maximilien Ier (Empereur d'Alemagne, de1493a1519,grand-pere deCharles-Quint).",259,93.1,False,positional,DURER(ALBERT),,,,
-BO0624_83735,91395,15,15,Dyck. 1680-1753. La Servante amoureuse.,276,80.0,False,positional,DYCK (PHILIPPE VAN),,,,
-BO0624_83735,91396,16,16,Flinck. 1615-1660. Portrait d'un jeune homme.,291,80.0,False,positional,FLINCK (GOVAERT),,,,
-BO0624_83735,91397,17,17,Fragonard. 1732-1806. Cache-cache.,302,57.8,False,positional,FRAGONARD (JEAN-HoNORE),,,,
-BO0624_83735,91398,18,18,Franck. 1581-1642. Le Festin de Balthazar.,315,78.1,False,positional,FRANCK (FRANCOIS),,,,
-BO0624_83735,91399,19,19,"GREUZE, JEAN-BAPTISTE. 1725-1805.La Jeune fille a la rose.",328,63.4,False,title_direct,GREUZE (JEAN-BAPTISTE),,,,
+BO0624_83735,91386,6,6,BREUGHEL. 1568-1625. L'Entree dans larche. Bataille.,157,62.9,False,positional,"BREUGHEL (JEAN), dit de Velours",,,,Sec. XVI
+BO0624_83735,91387,7,7,Chardin. 1699-1799. Nature morte.,170,63.6,False,positional,CHARDIN (JEAN-BAPTISTE),,,,Sec. XVIII
+BO0624_83735,91388,8,8,CLOUET FRANcois. 1510-1572. Portrait de femme..,179,58.8,False,positional,"CLOUET (FRANcois), dit Janet",,,,Sec. XVI
+BO0624_83735,91389,9,9,"Coques. 1618-1684. Portrait d'homme. l est vu jusqu'a mi-corps, en pourpoint noir, la tete presque de face, portant sur la fraise rigide a double tuyaute. Des cheveux blonds,une moustache naissante, le menton termine par une mince barbiche.La bouche est grande, d'un beau dessin male; les yeux bleus trahissent une volonte douce et patiente.Le front est ample, solidement modele;les pommettes sont legerement emaciees; le maxillaire inferieur a de l'accent. La figure, dans une lumiere blonde, se degage d'un fond sombre.",196,96.6,False,positional,COQUES (GONZALES),,,,Sec. XVII
+BO0624_83735,91390,10,10,Danloux. 1745-1809. Les Petits gourmands.,209,75.4,False,positional,DANLOUX (PIERRE),,,,Sec. XVIII
+BO0624_83735,91391,11,11,Demarne. 1744-1829. Le Retour du marche.,224,71.2,False,positional,DEMARNE (JEAN-LoUIS),,,,Sec. XVIII
+BO0624_83735,91392,12,12,Dietrich. 1712-1774. Le Marchand de gaufres.,235,75.8,False,positional,DIETRICH (CHRETIEN-GUILLAUME),,,,Sec. XVIII
+BO0624_83735,91393,13,13,Drouais. 1727-1775. Portrait du jeune duc de Choiseul,248,80.5,False,positional,DROUAIS (FRANCOIS-HUBERT),,,,Sec. XVIII
+BO0624_83735,91394,14,14,"Durer. 1471-1528. Portrait de Maximilien Ier (Empereur d'Alemagne, de1493a1519,grand-pere deCharles-Quint).",259,93.1,False,positional,DURER(ALBERT),,,,Sec. XVI
+BO0624_83735,91395,15,15,Dyck. 1680-1753. La Servante amoureuse.,276,80.0,False,positional,DYCK (PHILIPPE VAN),,,,Sec. XVIII
+BO0624_83735,91396,16,16,Flinck. 1615-1660. Portrait d'un jeune homme.,291,80.0,False,positional,FLINCK (GOVAERT),,,,Sec. XVII
+BO0624_83735,91397,17,17,Fragonard. 1732-1806. Cache-cache.,302,57.8,False,positional,FRAGONARD (JEAN-HoNORE),,,,Sec. XVIII
+BO0624_83735,91398,18,18,Franck. 1581-1642. Le Festin de Balthazar.,315,78.1,False,positional,FRANCK (FRANCOIS),,,,Sec. XVII
+BO0624_83735,91399,19,19,"GREUZE, JEAN-BAPTISTE. 1725-1805.La Jeune fille a la rose.",328,63.4,False,title_direct,GREUZE (JEAN-BAPTISTE),,,,Sec. XVIII
 BO0624_83735,91400,20,20,"GREUZE, JEAN-BAPTISTE. La Priere.",335,80.0,False,title_direct,GREUZE (JEAN-BAPTISTE),,,,
-BO0624_83735,91401,21,21,"GRIMOUX, ALEXIS. 1680-1740. Le Joueur de clarinette.",348,67.6,False,title_direct,GRIMOUX (ALEXIS),,,,
-BO0624_83735,91402,22,22,Holbein. 1497-1543. La Mere de Calvin.,359,65.5,False,positional,HOLBEIN (JEAN),,,,
-BO0624_83735,91403,23,23,Hondekoeter. 1636-1695. La Poule blanche.,370,63.2,False,positional,HONDEKOETER (MELCHIOR),,,,
-BO0624_83735,91404,24,24,Kessel. 1684-1741. Barbiers et chirurgiens.,381,75.8,False,positional,KESSEL (NICOLAS VAN),,,,
-BO0624_83735,91405,25,25,Keyser. 1595-1669. Portrait de femme.,392,70.4,False,positional,KEYSER(TH.DE),,,,
-BO0624_83735,91406,26,26,Maes. 1632-1693. L'Enfant a la gaufre.,407,79.3,False,positional,MAES (NICOLAS),,,,
+BO0624_83735,91401,21,21,"GRIMOUX, ALEXIS. 1680-1740. Le Joueur de clarinette.",348,67.6,False,title_direct,GRIMOUX (ALEXIS),,,,Sec. XVIII
+BO0624_83735,91402,22,22,Holbein. 1497-1543. La Mere de Calvin.,359,65.5,False,positional,HOLBEIN (JEAN),,,,Sec. XVI
+BO0624_83735,91403,23,23,Hondekoeter. 1636-1695. La Poule blanche.,370,63.2,False,positional,HONDEKOETER (MELCHIOR),,,,Sec. XVII
+BO0624_83735,91404,24,24,Kessel. 1684-1741. Barbiers et chirurgiens.,381,75.8,False,positional,KESSEL (NICOLAS VAN),,,,Sec. XVIII
+BO0624_83735,91405,25,25,Keyser. 1595-1669. Portrait de femme.,392,70.4,False,positional,KEYSER(TH.DE),,,,Sec. XVII
+BO0624_83735,91406,26,26,Maes. 1632-1693. L'Enfant a la gaufre.,407,79.3,False,positional,MAES (NICOLAS),,,,Sec. XVII
 BO0624_83735,91407,27,27,Maes. M.lle de la Baume Le Blanc.,416,64.7,False,positional,MAES (NIcOLAS),,,,
-BO0624_83735,91408,28,28,"Mantegna, Andrea. 1430-1506. Portrait d'homme.",429,55.7,False,positional,MANTEGNA (ANDREA),,,,
-BO0624_83735,91409,29,29,Mignard. 1610-1695. Portrait de Marie-Victoire de la Tremoille.,446,83.8,False,positional,MIGNARD (PIERRE),,,,
-BO0624_83735,91410,30,30,Nattier. 1685-1766. La Duchesse de Chateauroux.,457,74.0,False,positional,NATTIER (JEAN-MARC),,,,
-BO0624_83735,91411,31,31,Ommegank. 1755-1826. Moutons.,466,51.4,False,positional,OMMEGANK (BALTHAZAR-PAUL),,,,
-BO0624_83735,91412,32,32,Peters. 1614-1652.  La Poupée de Nuremberg.,482,71.9,False,positional,PETERS (BONAVENTURE),,,,
-BO0624_83735,91413,33,33,Raoux. 1677-1734. Portrait d'homme.,495,70.6,False,positional,RAOUX (JEAN),,,,
-BO0624_83735,91414,34,34,Robert. 1794-1835. La Famille du brigand.,507,74.2,False,positional,ROBERT (LEOPOLD),,,,
-BO0624_83735,91415,35,35,Ruysdael. 1630-1681. Le Vieux chene.,518,64.0,False,positional,RUYSDAEL (JACQUES),,,,
-BO0624_83735,91416,36,36,"SAINT-AUBIN, GABRIEL-JAcQUEs DE. 1724-1780. Louis XVI,Marie-Antoinette et la Dauphine.",529,66.7,False,title_direct,SAINT-AUBIN (GABRIEL-JAcQUEs DE),,,,
-BO0624_83735,91417,37,37,Shut et Seghers. 1590-1661. Sainte-Famille.,539,53.6,False,positional,SCHUT ET SEGHERS,,,,
-BO0624_83735,91418,38,38,Senave. 1758-1829. Le Marche.,556,57.9,False,positional,SENAVE (JACQUES-ALBERT),,,,
-BO0624_83735,91419,39,39,"VAN SPAENDONCK, GERARD. 1746-1822. Fleurs et fruits.",564,60.9,False,title_direct,VAN SPAENDONCK (GERARD),,,,
-BO0624_83735,91420,40,40,"SWART, JEAN. 1469-1535. Le Golgotha.",584,56.5,False,positional,VAN SPAENDONCK (GERARD),,,,
-BO0624_83735,91421,41,41,"TENIERS, DAvID,le Jeune. 1610-1689.Les Joueurs de boules. ls se sont installes devant lauberge:c'est jour de liesse, si l'on en croit le cortege dansant qui s'avance au fond,a gauche,aux accents de la cornemuse,si lon en croit egalement les couples de buveurs attables a droite. Au premier plan,les joueurs sont attentifs a la partie. L'un,penche en avant,va lancer la boule. Derriere lui, un autre compagnon,vetu de gris,attend son tour,indifferent aux avis d'un conseilleur, qui se tient pres de lui. A gauche,pres du cochonnet,un bonhomme, en culotte grise et chemise blanche, est vu de dos. Pres du mur, en pleine lumiere,un malade,vu de dos,allege son estomac surcharge. Au fond, au-dessus des branches,le clocher de l'eglise dresse sa fleche vers le ciel illumine de chaudes clartes.",597,96.4,False,title_direct,"TENIERS (DAvID,le Jeune)",,,,
+BO0624_83735,91408,28,28,"Mantegna, Andrea. 1430-1506. Portrait d'homme.",429,55.7,False,positional,MANTEGNA (ANDREA),,,,Sec. XV
+BO0624_83735,91409,29,29,Mignard. 1610-1695. Portrait de Marie-Victoire de la Tremoille.,446,83.8,False,positional,MIGNARD (PIERRE),,,,Sec. XVII
+BO0624_83735,91410,30,30,Nattier. 1685-1766. La Duchesse de Chateauroux.,457,74.0,False,positional,NATTIER (JEAN-MARC),,,,Sec. XVIII
+BO0624_83735,91411,31,31,Ommegank. 1755-1826. Moutons.,466,51.4,False,positional,OMMEGANK (BALTHAZAR-PAUL),,,,Sec. XVIII
+BO0624_83735,91412,32,32,Peters. 1614-1652.  La Poupée de Nuremberg.,482,71.9,False,positional,PETERS (BONAVENTURE),,,,Sec. XVII
+BO0624_83735,91413,33,33,Raoux. 1677-1734. Portrait d'homme.,495,70.6,False,positional,RAOUX (JEAN),,,,Sec. XVIII
+BO0624_83735,91414,34,34,Robert. 1794-1835. La Famille du brigand.,507,74.2,False,positional,ROBERT (LEOPOLD),,,,Sec. XIX
+BO0624_83735,91415,35,35,Ruysdael. 1630-1681. Le Vieux chene.,518,64.0,False,positional,RUYSDAEL (JACQUES),,,,Sec. XVII
+BO0624_83735,91416,36,36,"SAINT-AUBIN, GABRIEL-JAcQUEs DE. 1724-1780. Louis XVI,Marie-Antoinette et la Dauphine.",529,66.7,False,title_direct,SAINT-AUBIN (GABRIEL-JAcQUEs DE),,,,Sec. XVIII
+BO0624_83735,91417,37,37,Shut et Seghers. 1590-1661. Sainte-Famille.,539,53.6,False,positional,SCHUT ET SEGHERS,,,,Sec. XVII
+BO0624_83735,91418,38,38,Senave. 1758-1829. Le Marche.,556,57.9,False,positional,SENAVE (JACQUES-ALBERT),,,,Sec. XVIII
+BO0624_83735,91419,39,39,"VAN SPAENDONCK, GERARD. 1746-1822. Fleurs et fruits.",564,60.9,False,title_direct,VAN SPAENDONCK (GERARD),,,,Sec. XVIII
+BO0624_83735,91420,40,40,"SWART, JEAN. 1469-1535. Le Golgotha.",584,56.5,False,positional,VAN SPAENDONCK (GERARD),,,,Sec. XV
+BO0624_83735,91421,41,41,"TENIERS, DAvID,le Jeune. 1610-1689.Les Joueurs de boules. ls se sont installes devant lauberge:c'est jour de liesse, si l'on en croit le cortege dansant qui s'avance au fond,a gauche,aux accents de la cornemuse,si lon en croit egalement les couples de buveurs attables a droite. Au premier plan,les joueurs sont attentifs a la partie. L'un,penche en avant,va lancer la boule. Derriere lui, un autre compagnon,vetu de gris,attend son tour,indifferent aux avis d'un conseilleur, qui se tient pres de lui. A gauche,pres du cochonnet,un bonhomme, en culotte grise et chemise blanche, est vu de dos. Pres du mur, en pleine lumiere,un malade,vu de dos,allege son estomac surcharge. Au fond, au-dessus des branches,le clocher de l'eglise dresse sa fleche vers le ciel illumine de chaudes clartes.",597,96.4,False,title_direct,"TENIERS (DAvID,le Jeune)",,,,Sec. XVII
 BO0624_83735,91422,42,42,Teniers. Le Festin des singes.,606,82.4,False,positional,"TENIERS (DAvID,le Jeune)",,,,
-BO0624_83735,91423,43,43,Valckenburg. 1675-1721. Coq et canards.,619,56.6,False,positional,VALCKENBURG (THIERRY VAN),,,,
-BO0624_83735,91424,44,44,"VELDE, GuILLAUME,le Jeune, VAN DE. 1633-1707. Les Pecheurs.",626,72.9,False,title_direct,"VELDE (GuILLAUME,le Jeune, VAN DE)",,,,
-BO0624_83735,91425,45,45,"WEENIX, JEAN. 1644-1719. Le Chien blanc.",641,60.4,False,title_direct,WEENIX (JEAN),,,,
-BO0624_83735,91426,46,46,"WOUWERMAN, PHILIPPE. 1620-1668.",648,78.3,False,title_direct,WOUWERMAN (PHILIPPE),,,,
+BO0624_83735,91423,43,43,Valckenburg. 1675-1721. Coq et canards.,619,56.6,False,positional,VALCKENBURG (THIERRY VAN),,,,Sec. XVII
+BO0624_83735,91424,44,44,"VELDE, GuILLAUME,le Jeune, VAN DE. 1633-1707. Les Pecheurs.",626,72.9,False,title_direct,"VELDE (GuILLAUME,le Jeune, VAN DE)",,,,Sec. XVII
+BO0624_83735,91425,45,45,"WEENIX, JEAN. 1644-1719. Le Chien blanc.",641,60.4,False,title_direct,WEENIX (JEAN),,,,Sec. XVII
+BO0624_83735,91426,46,46,"WOUWERMAN, PHILIPPE. 1620-1668.",648,78.3,False,title_direct,WOUWERMAN (PHILIPPE),,,,Sec. XVII
 BO0624_83735,91427,47,47,"WOUWERMAN, PHILIPPE. Cavaliers au bord de la mer.",663,74.0,False,title_direct,WOUWERMAN (PHILIPPE),,,,
 BO0624_83735,91428,48,48,ECOLE DE BRUGES. La Salutation angelique.,674,73.8,False,title_direct,,ECOLE DE BRUGES,,,
 BO0624_83735,91429,49,49,ECOLE FRANCAISE. Sainte Cecile.,681,68.2,False,title_direct,,ECOLE FRANCAISE,,,
@@ -65,59 +65,59 @@ BO0624_83735,91443,63,63,"Tetes d'enfants. ls sont trois:lun d'eux,deprofil a dr
 BO0624_83735,91444,64,64,Portrait de jeune femme.,840,93.9,False,positional,PERRONNEAU JEAN-BAPTISTE),,,,
 BO0624_83735,91445,65,65,Femme endormie.,851,90.3,False,positional,PERRONNEAU (JEAN-BAPTISTE),,,,
 BO0624_83735,91446,66,66,Portrait de magistrat.,862,93.3,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83735,91447,67,67,Bellangé. 1800-1866. La Retour du soldat. Le Billet de logement.,881,79.2,False,positional,BELLANGE (JoSEPH-LOUIS-HIPPOLYTE),,,,
-BO0624_83735,91448,68,68,Brascassat. 1805-1867. Vache au paturage.,891,65.5,False,positional,BRASCASSAT (JACQUES-RAYMOND),,,,
+BO0624_83735,91447,67,67,Bellangé. 1800-1866. La Retour du soldat. Le Billet de logement.,881,79.2,False,positional,BELLANGE (JoSEPH-LOUIS-HIPPOLYTE),,,,Sec. XIX
+BO0624_83735,91448,68,68,Brascassat. 1805-1867. Vache au paturage.,891,65.5,False,positional,BRASCASSAT (JACQUES-RAYMOND),,,,Sec. XIX
 BO0624_83735,91449,69,69,"BUSSON, CHARLES. Sous-bois.",902,73.7,False,title_direct,BUSSON (CHARLES),,OGGETTI IN LEGNO,,
-BO0624_83735,91450,70,70,"CHAPLINCHARLES-JOSUAH, 1825-1891. La Lecture de la Bible.",914,58.2,False,title_direct,CHAPLIN (CHARLES-JOSUAH),,,,
-BO0624_83735,91451,71,71,"CHARLET, NICOLAS-ToUSSAINT. 1792-1845. Vieux souvenirs.",924,65.8,False,title_direct,CHARLET (NICOLAS-ToUSSAINT),,,,
-BO0624_83735,91452,72,72,Corot. 1796-1875. Souvenir de Marissel.,941,74.6,False,positional,COROT (JEAN-BAPTISTE-CAMILLE),,,,
-BO0624_83735,91453,73,73,"DAUBIGNY, CHARLES-FRANCOIS. 1817-1878. Bords de lOise.",962,66.7,False,title_direct,DAUBIGNY (CHARLES-FRANCOIS),,,,
-BO0624_83735,91454,74,74,"DELACROIX, FERDINAND-VICTOR-EUGENE. 1798-1863. Chevaux sortant de leau.",975,66.0,False,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,,,
-BO0624_83735,91455,75,75,"DESGOFFE, BLAISE-ALEXANDRE. 1830-1901. Cabinet d'antiquaire.",990,61.7,False,title_direct,DESGOFFE (BLAISE-ALEXANDRE),,,,
-BO0624_83735,91456,76,76,Diaz De La Pena. 1809-1876. La Femme au chien.,1005,63.5,False,positional,DIAZ DE LA PENA (NARCISSE-VIRGILE),,,,
+BO0624_83735,91450,70,70,"CHAPLINCHARLES-JOSUAH, 1825-1891. La Lecture de la Bible.",914,58.2,False,title_direct,CHAPLIN (CHARLES-JOSUAH),,,,Sec. XIX
+BO0624_83735,91451,71,71,"CHARLET, NICOLAS-ToUSSAINT. 1792-1845. Vieux souvenirs.",924,65.8,False,title_direct,CHARLET (NICOLAS-ToUSSAINT),,,,Sec. XIX
+BO0624_83735,91452,72,72,Corot. 1796-1875. Souvenir de Marissel.,941,74.6,False,positional,COROT (JEAN-BAPTISTE-CAMILLE),,,,Sec. XIX
+BO0624_83735,91453,73,73,"DAUBIGNY, CHARLES-FRANCOIS. 1817-1878. Bords de lOise.",962,66.7,False,title_direct,DAUBIGNY (CHARLES-FRANCOIS),,,,Sec. XIX
+BO0624_83735,91454,74,74,"DELACROIX, FERDINAND-VICTOR-EUGENE. 1798-1863. Chevaux sortant de leau.",975,66.0,False,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,,,Sec. XIX
+BO0624_83735,91455,75,75,"DESGOFFE, BLAISE-ALEXANDRE. 1830-1901. Cabinet d'antiquaire.",990,61.7,False,title_direct,DESGOFFE (BLAISE-ALEXANDRE),,,,Sec. XIX
+BO0624_83735,91456,76,76,Diaz De La Pena. 1809-1876. La Femme au chien.,1005,63.5,False,positional,DIAZ DE LA PENA (NARCISSE-VIRGILE),,,,Sec. XIX
 BO0624_83735,91457,77,77,Diaz De La Pena. Fleurs.,1014,66.7,False,positional,DIAZ DE LA PENA (NARCISSE-VIRGILE),,,,
-BO0624_83735,91458,78,78,"DORE, GUSTAVE. 1832-1883. Espagnols.",1026,54.5,False,title_direct,DORE (GUSTAVE),,,,
-BO0624_83735,91459,79,79,"DUPRE, JULES. 1812-1889. La Riviere.",1041,53.3,False,title_direct,DUPRE (JULES),,,,
+BO0624_83735,91458,78,78,"DORE, GUSTAVE. 1832-1883. Espagnols.",1026,54.5,False,title_direct,DORE (GUSTAVE),,,,Sec. XIX
+BO0624_83735,91459,79,79,"DUPRE, JULES. 1812-1889. La Riviere.",1041,53.3,False,title_direct,DUPRE (JULES),,,,Sec. XIX
 BO0624_83735,91460,80,80,DUPRE (JULEs). La Cabane.,1048,68.8,False,title_direct,DUPRE (JULEs),,,,
-BO0624_83735,91461,81,81,"FRANCAIS, FRANCOIS-LOUIS. 1814-1897. Hommage a Flore.",1057,63.9,False,title_direct,FRANCAIS (FRANCOIS-LOUIS),,,,
+BO0624_83735,91461,81,81,"FRANCAIS, FRANCOIS-LOUIS. 1814-1897. Hommage a Flore.",1057,63.9,False,title_direct,FRANCAIS (FRANCOIS-LOUIS),,,,Sec. XIX
 BO0624_83735,91462,82,82,"FRANCAIS, FRANCOIS-LOUIS. Campagne romaine.",1069,73.0,False,title_direct,FRANCAIS (FRANCOIS-LOUIS),Scuola Romana,,,
-BO0624_83735,91463,83,83,"FROMENTIN, EUGENE. 1820-1876. L'Abreuvoir.",1076,59.3,False,title_direct,FROMENTIN (EUGENE),,,,
+BO0624_83735,91463,83,83,"FROMENTIN, EUGENE. 1820-1876. L'Abreuvoir.",1076,59.3,False,title_direct,FROMENTIN (EUGENE),,,,Sec. XIX
 BO0624_83735,91464,84,84,"FROMENTIN, EUGENE. Arabes en voyage.",1089,65.4,False,title_direct,FROMENTIN (EUGENE),,,,
-BO0624_83735,91465,85,85,"GIRARDET, EDOUARD-HENRI. 1819-1880. Le Depart pour la montagne.",1103,63.6,False,title_direct,GIRARDET (EDOUARD-HENRI),,,,
-BO0624_83735,91466,86,86,"ISABEY, EUGENE-LOUIS-GABRIEL. 1804-1888. Scene de cour.",1108,69.2,False,title_direct,ISABEY (EUGENE-LOUIS-GABRIEL),,,,
+BO0624_83735,91465,85,85,"GIRARDET, EDOUARD-HENRI. 1819-1880. Le Depart pour la montagne.",1103,63.6,False,title_direct,GIRARDET (EDOUARD-HENRI),,,,Sec. XIX
+BO0624_83735,91466,86,86,"ISABEY, EUGENE-LOUIS-GABRIEL. 1804-1888. Scene de cour.",1108,69.2,False,title_direct,ISABEY (EUGENE-LOUIS-GABRIEL),,,,Sec. XIX
 BO0624_83735,91467,87,87,"ISABEY, EUGENE-LOUIS-GABRIEL. Retour de la peche.",1119,74.0,False,title_direct,ISABEY (EUGENE-LOUIS-GABRIEL),,,,
-BO0624_83735,91468,88,88,PROTAIS. PAUL-ALEXANDRE. 1826-1890. Soldats au lavoir.,1130,61.1,False,title_direct,PROTAIS (PAUL-ALEXANDRE),,,,
-BO0624_83735,91469,89,89,"ROUSSEAU, THEODORE. 1812-1867. Foret de Fontainebleau.",1143,64.0,False,title_direct,ROUSSEAU (THEODORE),,,,
+BO0624_83735,91468,88,88,PROTAIS. PAUL-ALEXANDRE. 1826-1890. Soldats au lavoir.,1130,61.1,False,title_direct,PROTAIS (PAUL-ALEXANDRE),,,,Sec. XIX
+BO0624_83735,91469,89,89,"ROUSSEAU, THEODORE. 1812-1867. Foret de Fontainebleau.",1143,64.0,False,title_direct,ROUSSEAU (THEODORE),,,,Sec. XIX
 BO0624_83735,91470,90,90,Sautai. Sainte Elisabeth de Hongrie.,1156,88.5,False,positional,SAUTAI (PAUL-EMILE),,,,
-BO0624_83735,91471,91,91,"SCHEFFER, ARY. 1795-1858. La Mere de famille.",1172,67.7,False,title_direct,SCHEFFER (ARY),,,,
-BO0624_83735,91472,92,92,"TASSAERT, NICOLAS-FRANCOIS-OCTAVE. 1800-1874. Efants jouant avec des lapins.",1181,61.5,False,title_direct,TASSAERT (NICOLAS-FRANCOIS-OCTAVE),,,,
+BO0624_83735,91471,91,91,"SCHEFFER, ARY. 1795-1858. La Mere de famille.",1172,67.7,False,title_direct,SCHEFFER (ARY),,,,Sec. XIX
+BO0624_83735,91472,92,92,"TASSAERT, NICOLAS-FRANCOIS-OCTAVE. 1800-1874. Efants jouant avec des lapins.",1181,61.5,False,title_direct,TASSAERT (NICOLAS-FRANCOIS-OCTAVE),,,,Sec. XIX
 BO0624_83735,91473,93,93,Tesson. Paysage arabe.,1195,77.8,False,positional,TESSON (LoUIS),,,,
-BO0624_83735,91474,94,94,Baron. 1816-1885. L'Effroi.,1210,54.5,False,positional,BARON (HENRI-CHARLES-ANTOINE),,,,
-BO0624_83735,91475,95,95,"CHARLET, NICoLAs-ToUSSAINT. 1792-1845. Le Convoi Des blesses.",1222,61.0,False,title_direct,CHARLET (NICoLAs-ToUSSAINT),,,,
+BO0624_83735,91474,94,94,Baron. 1816-1885. L'Effroi.,1210,54.5,False,positional,BARON (HENRI-CHARLES-ANTOINE),,,,Sec. XIX
+BO0624_83735,91475,95,95,"CHARLET, NICoLAs-ToUSSAINT. 1792-1845. Le Convoi Des blesses.",1222,61.0,False,title_direct,CHARLET (NICoLAs-ToUSSAINT),,,,Sec. XIX
 BO0624_83735,91476,96,96,"CHARLET, NICoLAs-ToUSSAINT. Les Glorieux debris.",1235,71.4,False,title_direct,CHARLET (NICoLAs-ToUSSAINT),,,,
-BO0624_83735,91477,97,97,"DELACROIX, FERDINAND-VICTOR-EUGENE. 1798-1863. Lionne blessee.",1245,72.5,False,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,,,
+BO0624_83735,91477,97,97,"DELACROIX, FERDINAND-VICTOR-EUGENE. 1798-1863. Lionne blessee.",1245,72.5,False,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,,,Sec. XIX
 BO0624_83735,91478,98,98,"DELACROIX, FERDINAND-VICTOR-EUGENE.  Lion devorant un cheval.",1257,73.3,False,title_direct,DELACROIX (FERDINAND-VICTOR-EUGENE),,,,
-BO0624_83735,91479,99,99,"DUPRE, JULEs. 1812-1889. Interieur d'une ferme.",1272,62.7,False,title_direct,DUPRE (JULEs),,ARREDAMENTI,,
-BO0624_83735,91480,100,100,"FROMENTIN, EUGENE. 1820-1876. Les Courriers.",1282,57.1,False,title_direct,FROMENTIN (EUGENE),,,,
+BO0624_83735,91479,99,99,"DUPRE, JULEs. 1812-1889. Interieur d'une ferme.",1272,62.7,False,title_direct,DUPRE (JULEs),,ARREDAMENTI,,Sec. XIX
+BO0624_83735,91480,100,100,"FROMENTIN, EUGENE. 1820-1876. Les Courriers.",1282,57.1,False,title_direct,FROMENTIN (EUGENE),,,,Sec. XIX
 BO0624_83735,91481,101,101,"FROMENTIN, EUGENE. Cavaliers arabes dans la montagne.",1295,78.2,False,title_direct,FROMENTIN (EUGENE),,,,
-BO0624_83735,91482,102,102,"GAVARNI, HIPPOLYTE-GUILLAUME-SULPICE CHEVALIER. 1804-1866. Pierrot.",1301,85.7,False,title_direct,"GAVARNI (HIPPOLYTE-GUILLAUME-SULPICE CHEVALIER,dit)",,,,
-BO0624_83735,91483,103,103,"GERICAULT, JEAN-LOUIS-ANDRE-THEODORE. 1791-1824. Combat de deux guerriers.",1315,66.7,False,title_direct,GERICAULT (JEAN-LOUIS-ANDRE-THEODORE),,,,
+BO0624_83735,91482,102,102,"GAVARNI, HIPPOLYTE-GUILLAUME-SULPICE CHEVALIER. 1804-1866. Pierrot.",1301,85.7,False,title_direct,"GAVARNI (HIPPOLYTE-GUILLAUME-SULPICE CHEVALIER,dit)",,,,Sec. XIX
+BO0624_83735,91483,103,103,"GERICAULT, JEAN-LOUIS-ANDRE-THEODORE. 1791-1824. Combat de deux guerriers.",1315,66.7,False,title_direct,GERICAULT (JEAN-LOUIS-ANDRE-THEODORE),,,,Sec. XIX
 BO0624_83735,91484,104,104,"GIACOMELLI, HECTOR. Bande doiseaux. ls sont la sur un barreau de cage, entasses les uns contre les autres et melant,comme un collier de pierres precieuses,les rubis,les saphirs,les émeraudes de leurs plumages.",1334,91.5,False,title_direct,GIACOMELLI (HECTOR),,,,
-BO0624_83735,91485,105,105,"INGRES, JEAN-AUGUSTE-DOMINIQUE. 1780-1867. Portrait de Mme Borel.",1340,64.4,False,title_direct,INGRES (JEAN-AUGUSTE-DOMINIQUE),,,,
-BO0624_83735,91486,106,106,LAMI. LOUIS-EUGENE. 1800-1890. Personnages dans un parc.,1344,28.6,False,title_direct,LAMI (LOUIS-EUGENE),,,,
-BO0624_83735,91487,107,107,Millet. 1815-1875. La Fermiere.,1348,36.1,False,positional,INGRES (JEAN-AUGUSTE-DOMINIQUE),,,,
+BO0624_83735,91485,105,105,"INGRES, JEAN-AUGUSTE-DOMINIQUE. 1780-1867. Portrait de Mme Borel.",1340,64.4,False,title_direct,INGRES (JEAN-AUGUSTE-DOMINIQUE),,,,Sec. XIX
+BO0624_83735,91486,106,106,LAMI. LOUIS-EUGENE. 1800-1890. Personnages dans un parc.,1344,28.6,False,title_direct,LAMI (LOUIS-EUGENE),,,,Sec. XIX
+BO0624_83735,91487,107,107,Millet. 1815-1875. La Fermiere.,1348,36.1,False,positional,INGRES (JEAN-AUGUSTE-DOMINIQUE),,,,Sec. XIX
 BO0624_83735,91488,108,108,"MILLET, JEAN-FRANCOIS. Le Vol d'oies sauvages.",1351,40.0,False,title_direct,MILLET (JEAN-FRANCOIS),,,,
 BO0624_83735,91489,109,109,"WORMS, JULEs. Jeune Chasseur espagnol.",1355,41.3,False,title_direct,WORMS (JULEs),,,,
 BO0624_83735,91490,110,110,"ZIEM, FELIX. A l'embouchure dufleuve.",1359,37.5,False,positional,LAMI (LOUIS-EUGENE),,,,
 BO0624_83735,91491,111,111,"Deux CHopEs en ancien gres gris de Nassau a carrelages blancs et noirs pour l'une,et feuillages bleus et blancs pour l'autre.Couvercles en etain.",1372,28.6,False,positional,MILLET (JEAN-FRANCOIS),,OGGETTI IN PELTRO,,
 BO0624_83735,91492,112,112,CrucHE en ancien gres gris et blanc de Reren a decor de disques semes.,1374,40.4,False,positional,MILLET (JEAN-FRANCOIS),,,,
-BO0624_83735,91493,113,113,Por A TABAc a quatre faces en ancien gres gris et bleu de Reren.Armoiries et date.1678.,1383,33.9,False,positional,MILLET (JEAN-FRANCOIS),,,,
+BO0624_83735,91493,113,113,Por A TABAc a quatre faces en ancien gres gris et bleu de Reren.Armoiries et date.1678.,1383,33.9,False,positional,MILLET (JEAN-FRANCOIS),,,,Sec. XVII
 BO0624_83735,91494,114,114,GRANDE cRUcHE en ancien gres gris et blanc de Raren;rosace,1385,45.5,False,positional,MILLET (JEAN-FRANCOIS),,,,
 BO0624_83735,91495,115,115,CrucHE en ancien gres brun de Raren a decor d'armoiries.,1390,41.5,False,positional,WORMS (JULEs),,,,
 BO0624_83735,91496,116,116,GouRDe a panse lenticulaire en ancien gres gris et blanc de Raren; rosaces et feuillages.,1398,39.6,False,positional,ZIEM(FELIX),,,,
 BO0624_83735,91497,117,117,"CHopE en ancien gres gris et blanc de Raeren,decoree de neuf bustes.",1407,37.5,False,positional,,,OBJETS D'ART ET D'AMEUBLEMENT,,
 BO0624_83735,91498,118,118,"CrucHe a panse surbaissee en ancien gres gris et bleu de Raren, decoree d'un mascaron barbu,d'imbrications et de cannelures. Couvercle en etain.",1411,56.7,False,positional,,,OGGETTI IN PELTRO,,
-BO0624_83735,91499,119,119,"CrucHE en ancienne terre de Kreussen,ornee de deux zones de fleurs avec la date 1661.",1412,54.8,False,positional,,,Gres,,
+BO0624_83735,91499,119,119,"CrucHE en ancienne terre de Kreussen,ornee de deux zones de fleurs avec la date 1661.",1412,54.8,False,positional,,,Gres,,Sec. XVII
 BO0624_83735,91500,120,120,"CHopE en ancienne terre de Kreussen,decoree en couleurs: les dieux de l'Olympe.",1418,58.1,False,positional,,,Gres,,
 BO0624_83735,91501,121,121,AuTRE analogue.,1422,46.2,False,positional,,,Gres,,
 BO0624_83735,91502,122,122,CHopE en ancienne terre de Kreussen :le Christ et les Apotres.,1429,96.8,False,positional,,,Gres,,
@@ -197,7 +197,7 @@ BO0624_83735,91575,195,195,GRAND PLAT en ancienne faience d'Urbino; sujet tire d
 BO0624_83735,91576,196,196,Coupe decoree en plein:incendie d'une ville.Ancienne faience d'Urbino.,1696,97.2,False,title_direct,,,Faiences d'Urbino,,
 BO0624_83735,91577,197,197,PLATEAu d'aiguiere en ancienne faience d'Urbino;la Creche entouree de compartiments a personnages.,1697,98.0,False,title_direct,,,Faiences d'Urbino,,
 BO0624_83735,91578,198,198,GRAND PLAT en ancienne faience d'Urbino; sujet tire de I'histoire de Joseph.Fond de paysage.,1698,97.8,False,title_direct,,,PIATTI,,
-BO0624_83735,91579,199,199,"PLAT a cavite centrale en ancienne faience d'Urbino, decore par Xanto : sujet tire de la legende de Thesee;ecusson armorie au marli. Au revers,la date 1535,l'explication du sujet et les initiales de l'artiste.",1702,99.0,False,title_direct,,,PIATTI,,
+BO0624_83735,91579,199,199,"PLAT a cavite centrale en ancienne faience d'Urbino, decore par Xanto : sujet tire de la legende de Thesee;ecusson armorie au marli. Au revers,la date 1535,l'explication du sujet et les initiales de l'artiste.",1702,99.0,False,title_direct,,,PIATTI,,Sec. XVI
 BO0624_83735,91580,200,200,"VasE de pharmacie a deux anses,decor de feuillages. Ancienne faience italienne.",1708,84.3,False,positional,,,VASI,,
 BO0624_83735,91581,201,201,Coupe en faience italienne;armoiries et rinceaux en blanc sur fond bleu.,1710,97.3,False,positional,,,Faiences italiennes diverses,,
 BO0624_83735,91582,202,202,PLAT en ancienne faience de Caffagiolo: decor de menus rin-,1711,96.6,False,positional,,,PIATTI,,
@@ -208,7 +208,7 @@ BO0624_83735,91586,206,206,PLAT en ancienne faience de Castelli;sujet de bacchan
 BO0624_83735,91587,207,207,"PLAT a ombilic en ancienne terre vernissee de La Frata;ecusson armorie au centre;rinceaux,bustes et amours au marli.",1724,98.3,False,positional,,,PIATTI,,
 BO0624_83735,91588,208,208,LEGuMIER en forme de coq en faience.,1728,94.6,False,positional,,,Faiences variees,,
 BO0624_83735,91589,209,209,"PLAT cREux,decor bleu:la Cene.Faience allemande.",1729,95.9,False,positional,,,PIATTI,,
-BO0624_83735,91590,210,210,"PLAT en terre vernissee,decore de deux soldats,avec légende et date 1738.Allemagne.",1730,96.4,False,positional,,,PIATTI,,
+BO0624_83735,91590,210,210,"PLAT en terre vernissee,decore de deux soldats,avec légende et date 1738.Allemagne.",1730,96.4,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_83735,91591,211,211,"Por ovoide a deux deversoirs en ancienne terre de Nuremberg vernissee vert,decore delaigle d'Empire.",1731,72.8,False,positional,,,Faiences variees,,
 BO0624_83735,91592,212,212,Deux CAssoLETTEs sur trepieds a mascarons;faience blanche anglaise rehaussee de dorure;xvill siecle.,1733,71.2,False,positional,,,Faiences variees,,
 BO0624_83735,91593,213,213,Deux TABLEAux decores en camaieu bleu; festin et groupe de personnages.Faience hollandaise.,1735,97.8,False,positional,,,Faiences variees,,
@@ -275,13 +275,13 @@ BO0624_83735,91653,273,273,"VINGT-TROIs AssIETTEs variees,meme porcelaine.",1864
 BO0624_83735,91654,274,274,"DEux PETITEs PoTicHEs avec couvercles,en ancienne porcelaine du Japon,a decor bleu,rouge et or. Rochers et arbustes.",1865,98.3,False,positional,,,Porcelaines de la Chine et du Japon,,
 BO0624_83735,91655,275,275,"DEUx CANDELABREs,formes chacun d'un vase-rouleau,en ancienne porcelaine du Japon,a decor de fleurs en bleu,rouge et or;bouquets de lumieres en bronze dore.",1866,84.2,False,positional,,,CANDELABRI,,
 BO0624_83735,91656,276,276,"STATuETTE de personnage accroupi, en gres emaille vert du Japon; base en bronze.",1871,97.5,False,positional,,,Porcelaines de la Chine et du Japon,,
-BO0624_83735,91657,277,277,"SucRieR avec couvercle,en ancienne porcelaine tendre de Sevres; decor de feurs separees par des bandes bleues. Annee 1764,decor par Noel.",1874,98.5,False,positional,,,Porcelaines diverses,,
+BO0624_83735,91657,277,277,"SucRieR avec couvercle,en ancienne porcelaine tendre de Sevres; decor de feurs separees par des bandes bleues. Annee 1764,decor par Noel.",1874,98.5,False,positional,,,Porcelaines diverses,,Sec. XVIII
 BO0624_83735,91658,278,278,"PETIT PLATEAu, en ancienne porcelaine tendre de Sevres, decore de couronnesderoses.",1875,97.6,False,positional,,,Porcelaines diverses,,
 BO0624_83735,91659,279,279,Groupe en ancien biscuit de Sevres : scene familiale a cinq personnages. Marque de Brachard.,1876,97.8,False,positional,,,BISCOTTI,,
 BO0624_83735,91660,280,280,"PLATeAu a deux anses,theiere avec couvercle et pot a lait,  en ancienne porcelaine dure de Sevres :paysages animes et bandes ondulees dorees.",1881,73.1,False,positional,,,Porcelaines diverses,,
 BO0624_83735,91661,281,281,"SocLe ovale émaille bleu,en ancienne porcelaine dure de Sevres.",1882,94.0,False,positional,,,Porcelaines diverses,,
-BO0624_83735,91662,282,282,"VAse Medicis émaillé bleu,en porcelaine de Sevres,1865.",1884,96.4,False,positional,,,VASI,,
-BO0624_83735,91663,283,283,"VAsE émaille bleu marbre,en porcelaine de Sevres,1885.",1885,96.4,False,positional,,,VASI,,
+BO0624_83735,91662,282,282,"VAse Medicis émaillé bleu,en porcelaine de Sevres,1865.",1884,96.4,False,positional,,,VASI,,Sec. XIX
+BO0624_83735,91663,283,283,"VAsE émaille bleu marbre,en porcelaine de Sevres,1885.",1885,96.4,False,positional,,,VASI,,Sec. XIX
 BO0624_83735,91664,284,284,Deux vAses: medaillons contenant des oiseaux sur fond bleu. Porcelaine.,1886,97.1,False,positional,,,VASI,,
 BO0624_83735,91665,285,285,VERRiERE ornee de fleurs.Ancienne porcelaine de Locre.,1887,96.4,False,positional,,,Porcelaines diverses,,
 BO0624_83735,91666,286,286,"SrATuErTe en ancien biscuit, femme drapee a l'antique, debout,tenant une guirlande de feurs.",1888,97.8,False,positional,,,BISCOTTI,,
@@ -290,20 +290,20 @@ BO0624_83735,91668,288,288,"Coupe en ancienne porcelaine de Saxe, sujet de style
 BO0624_83735,91669,289,289,"LEGuMIER ovale avec son couvercle,en ancienne porcelaine de Saxe;animaux et fleurs. Anses-mascarons.",1897,70.9,False,positional,,,Porcelaines diverses,,
 BO0624_83735,91670,290,290,"MouTARDIER avec couvercle, en ancienne porcelaine de Saxe; fleurs et rocailles.",1899,97.4,False,positional,,,Porcelaines diverses,,
 BO0624_83735,91671,291,291,"Deux GRANDs coRNETs en ancienne porcelaine de Saxe,a decor de feurs en ronde bosse, sur fond simulant la vannerie.Bases",1900,98.3,False,positional,,,Porcelaines diverses,,
-BO0624_83735,91672,292,292,"BocAL cylindrique en verre émaille, presentant le Christ crucifie et les armes d'Empire avec legende allemande et date 1583. Travail allemand,xvi siecle.",1908,75.5,False,positional,,,Verrerie,,
-BO0624_83735,91673,293,293,"BocAL cylindrique emaille et dore,orne de deux ecussons d'armoiries.Date,1588. Allemagne,xvi siecle.",1912,70.1,False,positional,,,Verrerie,,
+BO0624_83735,91672,292,292,"BocAL cylindrique en verre émaille, presentant le Christ crucifie et les armes d'Empire avec legende allemande et date 1583. Travail allemand,xvi siecle.",1908,75.5,False,positional,,,Verrerie,,Sec. XVI
+BO0624_83735,91673,293,293,"BocAL cylindrique emaille et dore,orne de deux ecussons d'armoiries.Date,1588. Allemagne,xvi siecle.",1912,70.1,False,positional,,,Verrerie,,Sec. XVI
 BO0624_83735,91674,294,294,"BocAL cylindrique en verre emaille: I'Empereur et les electeurs, legende allemande et date,158g. Allemagne,xvi siecle.",1918,66.7,False,positional,,,Verrerie,,
 BO0624_83735,91675,295,295,"BocAL cylindrique en verre émaille,presentant un ecusson d'armoiries place entre une femme et un personnage armes, avec la date 15g6,Allemagne,xvi siecle.",1922,98.7,False,positional,,,Verrerie,,
 BO0624_83735,91676,296,296,"BocAL cylindrique en verre emaille aux armes d'Empire; legende allemande et date 16o2.Allemagne,xvil siecle.",1926,98.1,False,positional,,,Verrerie,,
-BO0624_83735,91677,297,297,"BocaL cylindrique en verre emaille.presentant l'aigle d'Empire entoure d'ecussons armories varies,avec la date 1616. Allemagne,xvir siecle.",1930,98.6,False,positional,,,Verrerie,,
-BO0624_83735,91678,298,298,"BocAL cylindrique en verre émaille:dame offrant des feurs a un cavalier. Date,1619. Allemagne, xvi1 siecle.",1933,98.1,False,positional,,,Verrerie,,
-BO0624_83735,91679,299,299,"BocAL cylindrique avec couvercle,en verre émaille, presentantun écusson placeentreune femme etun homme:legende allemande et date 1619.Allemagne,xvil siecle.",1937,98.7,False,positional,,,Verrerie,,
-BO0624_83735,91680,300,300,"BocaL cylindrique en verre émaille, presentant deux ecussons d'armoiries;date 1649.Allemagne,xvil siecle.",1941,98.1,False,positional,,,Verrerie,,
-BO0624_83735,91681,301,301,"BocaL cylindrique en verre emaille;écusson armorie soutenu par un ange; legende allemande et date 1654. Allemagne, xvl1 siecle.",1945,98.4,False,positional,,,Verrerie,,
-BO0624_83735,91682,302,302,"BocAL cylindrique en verre émaille, aux armes d'Empire; legende allemande et date 1663. Allemagne,xvii siecle.",1949,97.2,False,positional,,,Verrerie,,
-BO0624_83735,91683,303,303,"BocAL cylindrique en verre émaille, aux armes d'Empire, avec legende allemande et date 1670.Travail allemand. xvll siecle.",1955,97.5,False,positional,,,Verrerie,,
-BO0624_83735,91684,304,304,"BocAL cylindrique,en verre émaille,aux armes de Saxe: date 1693.Allemagne,xvl1 siecle.",1961,97.7,False,positional,,,Verrerie,,
-BO0624_83735,91685,305,305,PeTIT GoBELET en verre emaille blanc et bleu: cheval au galop et date 1697;xvil siecle.,1965,97.7,False,positional,,,Verrerie,,
+BO0624_83735,91677,297,297,"BocaL cylindrique en verre emaille.presentant l'aigle d'Empire entoure d'ecussons armories varies,avec la date 1616. Allemagne,xvir siecle.",1930,98.6,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91678,298,298,"BocAL cylindrique en verre émaille:dame offrant des feurs a un cavalier. Date,1619. Allemagne, xvi1 siecle.",1933,98.1,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91679,299,299,"BocAL cylindrique avec couvercle,en verre émaille, presentantun écusson placeentreune femme etun homme:legende allemande et date 1619.Allemagne,xvil siecle.",1937,98.7,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91680,300,300,"BocaL cylindrique en verre émaille, presentant deux ecussons d'armoiries;date 1649.Allemagne,xvil siecle.",1941,98.1,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91681,301,301,"BocaL cylindrique en verre emaille;écusson armorie soutenu par un ange; legende allemande et date 1654. Allemagne, xvl1 siecle.",1945,98.4,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91682,302,302,"BocAL cylindrique en verre émaille, aux armes d'Empire; legende allemande et date 1663. Allemagne,xvii siecle.",1949,97.2,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91683,303,303,"BocAL cylindrique en verre émaille, aux armes d'Empire, avec legende allemande et date 1670.Travail allemand. xvll siecle.",1955,97.5,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91684,304,304,"BocAL cylindrique,en verre émaille,aux armes de Saxe: date 1693.Allemagne,xvl1 siecle.",1961,97.7,False,positional,,,Verrerie,,Sec. XVII
+BO0624_83735,91685,305,305,PeTIT GoBELET en verre emaille blanc et bleu: cheval au galop et date 1697;xvil siecle.,1965,97.7,False,positional,,,Verrerie,,Sec. XVII
 BO0624_83735,91686,306,306,"CrucHE en verre émaille blanc et bleu; paysan labourant; legende allemande et date 169g. Allemagne,xvii siecle",1969,97.2,False,positional,,,Verrerie,,
 BO0624_83735,91687,307,307,"Bocal en verre gravé, xvii siecle.",1975,46.8,False,positional,,,Verrerie,,
 BO0624_83735,91688,308,308,"VerRE sur pied et avec couvercle, decore d'imbrications et de zones emaillees et dorees.Allemagne,xviii siecle.",1976,96.8,False,positional,,,Verrerie,,
@@ -315,11 +315,11 @@ BO0624_83735,91693,313,313,"PeTITE PIEcE de surtout a trois cavites en verre inc
 BO0624_83735,91694,314,314,BocAL cylindrique avec couvercle en verre incolore filigrane de blanc.xvii siecle.,1997,96.4,False,positional,,,Verrerie,,
 BO0624_83735,91695,315,315,BocAL cylindrique avec couvercle en verre incolore filigrané de blanc.xvii siecle.,2001,96.4,False,positional,,,Verrerie,,
 BO0624_83735,91696,316,316,GARGouLETTE en verre incolore filigrane de blanc. xvii siecle.,2005,86.1,False,positional,,,Verrerie,,
-BO0624_83735,91697,317,317,"BocAL obconique en verre émaille; ecusson presentant des ustensiles de la corporation des cuisiniers,et ainsi qu'un personnage debout. Legende allemande et date 1709. Allemagne, xviii siecle.",2006,96.8,False,positional,,,Verrerie,,
+BO0624_83735,91697,317,317,"BocAL obconique en verre émaille; ecusson presentant des ustensiles de la corporation des cuisiniers,et ainsi qu'un personnage debout. Legende allemande et date 1709. Allemagne, xviii siecle.",2006,96.8,False,positional,,,Verrerie,,Sec. XVIII
 BO0624_83735,91698,318,318,"BocaL cylindrique en verre émaille;personnage se preparant a abattre un boeuf. Legende allemande et date 17il. Allemagne,xviii siecle.",2009,97.0,False,positional,,,Verrerie,,
-BO0624_83735,91699,319,319,"BocaL cylindrique en verre émaille,presentant les outils de la corporation des charpentiers.Legende allemande et date 1733. Allemagne, xvii siecle.",2013,97.9,False,positional,,,Verrerie,,
+BO0624_83735,91699,319,319,"BocaL cylindrique en verre émaille,presentant les outils de la corporation des charpentiers.Legende allemande et date 1733. Allemagne, xvii siecle.",2013,97.9,False,positional,,,Verrerie,,Sec. XVIII
 BO0624_83735,91700,320,320,BocAL sur pied et avec couvercle en cristal grave:paysage,2017,96.6,False,positional,,,Verrerie,,
-BO0624_83735,91701,321,321,"GoBELET en verre grave; scene de chasse. Allemagne, XVIII siecle.",2022,88.1,False,positional,,,Verrerie,,
+BO0624_83735,91701,321,321,"GoBELET en verre grave; scene de chasse. Allemagne, XVIII siecle.",2022,88.1,False,positional,,,Verrerie,,Sec. XVIII
 BO0624_83735,91702,322,322,"BocAL cylindrique en verre,a surface semee de globules. Ancien travail allemand.",2026,97.5,False,positional,,,Verrerie,,
 BO0624_83735,91703,323,323,Deux vERREs avec couvercles; decor dore. xvi siecle.,2030,96.1,False,positional,,,Verrerie,,
 BO0624_83735,91704,324,324,VerRE evase avec couvercle filigrane de blanc. Ancien travail de Venise.,2031,89.6,False,positional,,,Verrerie,,
@@ -329,15 +329,15 @@ BO0624_83735,91707,327,327,VeRRE incolore sur pied a balustre et branche de feur
 BO0624_83735,91708,328,328,"VeRRE incolore sur pied a entrelacs filigranes, travailles a la pince.Venise.",2037,97.4,False,positional,,,Verrerie,,
 BO0624_83735,91709,329,329,"GRAND bocal avec couvercle en verre incolore,avec tige évidee et feurettes polychromes, travaillees a la pince.Venise.",2038,98.3,False,positional,,,Verrerie,,
 BO0624_83735,91710,330,330,Deux PETiTs vAsEs en verre incolore filigrane blanc et rose. Venise.,2039,97.1,False,positional,,,VASI,,
-BO0624_83735,91711,331,331,"ToNNELET en verre bleu avec motifs polychromes.Venise. (Vente dePourtales,1865.)",2041,97.4,False,positional,,,Verrerie,,
+BO0624_83735,91711,331,331,"ToNNELET en verre bleu avec motifs polychromes.Venise. (Vente dePourtales,1865.)",2041,97.4,False,positional,,,Verrerie,,Sec. XIX
 BO0624_83735,91712,332,332,GRAND BocAL cylindrique avec couvercle en verre; decor a froid:les électeurs.,2042,97.4,False,positional,,,Verrerie,,
 BO0624_83735,91713,333,333,"VERRE sur pied; cavalier, decor a froid.",2043,94.9,False,positional,,,Verrerie,,
 BO0624_83735,91714,334,334,"BocAL cylindrique en verre,a decor polychrome de personnages disposes sur deux rangees.",2044,97.7,False,positional,,,Verrerie,,
 BO0624_83735,91715,335,335,TRIPTYQUE en ivoire.,2048,90.5,False,positional,,,Objets divers,,
 BO0624_83735,91716,336,336,FRAGMENT en ivoire sculpte en haut relief:l'Adoration des mages. xvnle siecle.,2049,97.4,False,positional,,,Objets divers,,
 BO0624_83735,91717,337,337,"PETITE PLAQuE en émail peint,de Limoges,xvI siecle:le Christ apparaissant a Marie Madeleine.",2050,97.8,False,positional,,,Objets divers,,
-BO0624_83735,91718,338,338,"PLAQuE en email peint de Limoges, presentant en couleurs le buste du Christ,par Leonard Limosin,et signee, sur un cartouche:Leonard Limosin emalievr paintre du roys.M.F.1554. Encadree.",2051,98.9,False,positional,,,Objets divers,,
-BO0624_83735,91719,339,339,"PLaquE en émail peint de Limoges, par Leonard Limosin: buste de la Vierge. Elle est signee:Leonardvs. Lemovicvs. pintor emalieur regis anricus me fecit,1552.Encadree.",2055,98.8,False,positional,,,Objets divers,,
+BO0624_83735,91718,338,338,"PLAQuE en email peint de Limoges, presentant en couleurs le buste du Christ,par Leonard Limosin,et signee, sur un cartouche:Leonard Limosin emalievr paintre du roys.M.F.1554. Encadree.",2051,98.9,False,positional,,,Objets divers,,Sec. XVI
+BO0624_83735,91719,339,339,"PLaquE en émail peint de Limoges, par Leonard Limosin: buste de la Vierge. Elle est signee:Leonardvs. Lemovicvs. pintor emalieur regis anricus me fecit,1552.Encadree.",2055,98.8,False,positional,,,Objets divers,,Sec. XVI
 BO0624_83735,91720,340,340,"Coupe sur piedouche en émail peint de Limoges:le char de Bacchus en grisaille, par I. Laudin. Signee.",2059,98.0,False,positional,,,Objets divers,,
 BO0624_83735,91721,341,341,"PLAQuE en email peint de Limoges,atelier des Laudin:Mater Dei.Encadree.",2063,97.2,False,positional,,,Objets divers,,
 BO0624_83735,91722,342,342,AuTRE analogue: saint Dominique.,2064,93.8,False,positional,,,Objets divers,,
@@ -358,20 +358,20 @@ BO0624_83735,91736,356,356,"JArDiNieRE ronde en cuivre repousse a godrons, sur p
 BO0624_83735,91737,357,357,"Vase a deux anses en lapis.Base en argent dore. Haut.,2o cent.",2087,96.7,False,positional,,,Objets divers,,
 BO0624_83735,91738,358,358,"HanAp en cristal de roche;monture en bronze dore:decor d'entrelacs et figures. Allemagne, fin du xvr siecle.",2088,98.1,False,positional,,,Objets divers,,
 BO0624_83735,91739,359,359,VasE avec couvercle en verre bleu;monture en bronze dore a gorge ajouree; anses-serpents et piedouche cannele;base en marbre blanc. Epoque Louis XVI.,2092,98.6,False,positional,,,Objets divers,,
-BO0624_83735,91740,360,360,"PETIT TABLEAu en mosaique de Rome: basse-cour. Encadre. (Vente de Monbrun,1861.)",2096,97.4,False,positional,,,Objets divers,,
+BO0624_83735,91740,360,360,"PETIT TABLEAu en mosaique de Rome: basse-cour. Encadre. (Vente de Monbrun,1861.)",2096,97.4,False,positional,,,Objets divers,,Sec. XIX
 BO0624_83735,91741,361,361,PETITE MosAiQuE de Rome:corbeille de fleurs.,2097,95.6,False,positional,,,Objets divers,,
 BO0624_83735,91742,362,362,BoiTE ovale en filigrane d'argent.,2098,94.3,False,positional,,,Objets divers,,
 BO0624_83735,91743,363,363,"PETIT MIRoIR dans un cadre italien,en bois sculpte rehaussé  de dorure.",2099,89.4,False,positional,,,Objets divers,,
 BO0624_83735,91744,364,364,"MEDAILLoN rond en ecaille doree: buste de Henri IV.xvi siecle. Diam.,1o cent.",2101,97.3,False,positional,,,Objets divers,,
-BO0624_83735,91745,365,365,"MINIATuRE rectangulaire:portrait presume de Mll Duclos, celebre tragedienne （167o-1748). Elle est representee a mijambes, vetue de rouge, avec corsage decollete; au-dessus, un amour voltigeant et tenant un sceptre; au fond,un groupe de personnages. Fin du xvil siecle. Encadree.",2102,99.3,False,positional,,,Objets divers,,
-BO0624_83735,91746,366,366,"MINIATuRE ronde, par Mosnier, signee et datee 1777.Portrait de femme, assise aupres d' veux poudres sont retenus par un ruban. Encadree.une table et tenant un livre ouvert. Elle porte un costume bleu,avec corsage decollete,et ses che-",2106,87.3,False,positional,,,Objets divers,,
+BO0624_83735,91745,365,365,"MINIATuRE rectangulaire:portrait presume de Mll Duclos, celebre tragedienne （167o-1748). Elle est representee a mijambes, vetue de rouge, avec corsage decollete; au-dessus, un amour voltigeant et tenant un sceptre; au fond,un groupe de personnages. Fin du xvil siecle. Encadree.",2102,99.3,False,positional,,,Objets divers,,Sec. XVIII
+BO0624_83735,91746,366,366,"MINIATuRE ronde, par Mosnier, signee et datee 1777.Portrait de femme, assise aupres d' veux poudres sont retenus par un ruban. Encadree.une table et tenant un livre ouvert. Elle porte un costume bleu,avec corsage decollete,et ses che-",2106,87.3,False,positional,,,Objets divers,,Sec. XVIII
 BO0624_83735,91747,367,367,Trois sTATuETrEs de divinites bouddhiques en bronze.,2110,96.2,False,positional,,,Objets divers,,
 BO0624_83735,91748,368,368,"BruLE-PARFuM avec couvercle,en jade gris verdatre de la Chine; decor de motifs irreguliers en leger relief.",2112,98.1,False,positional,,,Objets divers,,
 BO0624_83735,91749,369,369,BRULE-PARFUM tripode en ancien email cloisonne de la Chine a lambrequins;couvercle a fond noir. Pied en bois sculpte.,2113,98.3,False,positional,,,Objets divers,,
 BO0624_83735,91750,370,370,"PETITE PAGoDE en bois laque or, contenant une statuette de divinite bouddhique en cuivre dore. Travail japonais.",2117,67.1,False,positional,,,Objets divers,,
 BO0624_83735,91751,371,371,"BusTe en terre cuite,grandeur nature:jeune femme,la tete tournee vers l'epaule droite,une feur dans les cheveux,la poitrine a demi couverte d'une chemisette. Attribue a Houdon.",2122,98.9,False,positional,,,Sculptures,,
 BO0624_83735,91752,372,372,"STATuETTE en terre cuite,par Clodion, signee:Bacchante a demi vetue d'une draperie,tenant,de la main droite, des couronnes de feurs et de feuilles,et portant, sur la tete, des grappes de raisin dans un tambourin qu'elle maintient de la",2127,99.1,False,positional,CLODION MICHEL,,Sculptures,,
-BO0624_83735,91753,373,373,"StATuETTE en terre cuite de jeune femme debout,drapee a l'antique,les bras croises sur la poitrine et tenant un coeur. Fin du xvin siecle.  par Beauvallet,signee et datee 1813.",2134,86.5,False,positional,,,Sculptures,,
+BO0624_83735,91753,373,373,"StATuETTE en terre cuite de jeune femme debout,drapee a l'antique,les bras croises sur la poitrine et tenant un coeur. Fin du xvin siecle.  par Beauvallet,signee et datee 1813.",2134,86.5,False,positional,,,Sculptures,,Sec. XIX
 BO0624_83735,91754,374,375,PETIT BusTE en marbre blanc de fillette coiffee d'un grand chapeau de paille. Signe: Cesare Scheggi.,2141,98.0,False,positional,,,Sculptures,,
 BO0624_83735,91755,375,376,"PAIRE DE FLAMBEAUx-BALUsTREs en bronze dore, decores de cannelures.",2144,97.0,False,positional,,,TORCE,,
 BO0624_83735,91756,376,377,"Deux cANDELABREs a trois lumieres, en bronze dore a figurines d'amours musiciens, portees par des cariatides.Pendeloques et pieces d'enfilage en cristal de roche. xvir siecle.",2145,98.8,False,positional,,,CANDELABRI,,
@@ -382,7 +382,7 @@ BO0624_83735,91760,380,381,"Deux sTATuETTEs en bronze a patine brune:le Genie du
 BO0624_83735,91761,381,382,"BARoMETRE monte dans un cartel du temps de Louis XVI,un bronze a tetes de boucs,mufle de lion et vase.",2167,98.1,False,positional,,,VASI,,
 BO0624_83735,91762,382,383,"STATueTTE,en bronze patine,de baigneuse nue debout, tenant une draperie. Fin du xvinl siecle.",2168,97.8,False,positional,,,Bronzes,,
 BO0624_83735,91763,383,384,FIGuRINE en bronze vert:Antinous.,2169,94.1,False,positional,,,Bronzes,,
-BO0624_83735,91764,384,385,"BrULE-PARFuM en forme de gros fruit, en bronze de la Chine. (Vente deMorny,1865.)",2174,97.4,False,positional,,,Bronzes,,
+BO0624_83735,91764,384,385,"BrULE-PARFuM en forme de gros fruit, en bronze de la Chine. (Vente deMorny,1865.)",2174,97.4,False,positional,,,Bronzes,,Sec. XIX
 BO0624_83735,91765,385,386,Deux coupes en bronze incruste d'argent a motifs irreguliers; pieds en bois.Ancien travail chinois.,2175,98.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83735,91766,386,387,PETIT LUsTRE en cuivre garni en cristaux.,2179,95.2,False,positional,,,LUSTRI,,
 BO0624_83735,91767,387,388,"HoRLoGe de table de forme ronde,avec dome reperce en cuivre dore; pourtour grave. Signee:Delagarde,a Blois. Commence-",2183,98.3,False,positional,,,Pendules,,

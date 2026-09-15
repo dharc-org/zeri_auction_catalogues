@@ -1,8 +1,8 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83657,13694,1,2,"Trois plats, decores d'un oiseau en rouge a reflets metalliques. Manisses.",18,98.6,False,positional,,,PIATTI,,
-BO0624_83657,13695,2,6,一 BAUDIN. Paysage. Signe et date 1869. Encadre.,25,97.7,False,positional,,,TABLEAUX; DESSINS,,
+BO0624_83657,13695,2,6,一 BAUDIN. Paysage. Signe et date 1869. Encadre.,25,97.7,False,positional,,,TABLEAUX; DESSINS,,Sec. XIX
 BO0624_83657,13696,3,8,- DAUMIER. Groupe de personnages assis: bourgeois et paysans. Dessin rehausse de couleurs. Encadre.,27,100.0,False,positional,DAUMIER,,TABLEAUX; DESSINS,,
-BO0624_83657,13697,4,10,"MoNNIER (Henry).Le Ministre de linterieur ne recevra pas lundi prochain, mais les lundis suivants. Dessin rehausse de couleurs. Signe et date 1873. Encadre,",30,99.0,False,positional,MONNIER HENRI,,TABLEAUX; DESSINS,,
+BO0624_83657,13697,4,10,"MoNNIER (Henry).Le Ministre de linterieur ne recevra pas lundi prochain, mais les lundis suivants. Dessin rehausse de couleurs. Signe et date 1873. Encadre,",30,99.0,False,positional,MONNIER HENRI,,TABLEAUX; DESSINS,,Sec. XIX
 BO0624_83657,13698,5,11,- PALizzi. Bestiaux au paturage. Encadre.,32,100.0,False,positional,,,TABLEAUX; DESSINS,,
 BO0624_83657,13699,6,12,- PALizzi. Brebis a l'etable. Encadre.,34,100.0,False,positional,,,TABLEAUX; DESSINS,,
 BO0624_83657,13700,7,13,-PaLizzi. Vache a l'abreuvoir. Encadré.,35,95.9,False,positional,,,TABLEAUX; DESSINS,,

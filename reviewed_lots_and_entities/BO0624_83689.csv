@@ -1,31 +1,31 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83689,69783,1,1634,1699,11,61.5,False,positional,BAPTISTE MONNOYER,,,,
+BO0624_83689,69783,1,1634,1699,11,61.5,False,positional,BAPTISTE MONNOYER,,,,Sec. XVII
 BO0624_83689,69784,2,1,— Corbeille de Fleurs.,13,95.0,False,positional,BAPTISTE MONNOYER,,,,
 BO0624_83689,69785,3,2,Fleurs dans un vase de cristal.,22,96.8,False,positional,BAPTISTE MONNOYER,,VASI,,
-BO0624_83689,69786,4,3,La Sainte Famille. 1692,34,82.9,False,positional,BAUGIN,,,,
+BO0624_83689,69786,4,3,La Sainte Famille. 1692,34,82.9,False,positional,BAUGIN,,,,Sec. XVII
 BO0624_83689,69787,5,4,"Portrait de Marie de Rabutin, plus tard Madame de",51,98.0,False,positional,BEAUBRUN,,,,
 BO0624_83689,69788,6,5,—L'Attaque des Brigands.,70,95.7,False,positional,BERTAUX,,,,
 BO0624_83689,69789,7,6,Paysage historique.,76,94.7,False,positional,BERTAUX,,,,
-BO0624_83689,69790,8,8,Vase de bronze dore et guirlande de fleurs. 1845,103,92.3,False,positional,BLAIN DE FONTENAY,,VASI,,
+BO0624_83689,69790,8,8,Vase de bronze dore et guirlande de fleurs. 1845,103,92.3,False,positional,BLAIN DE FONTENAY,,VASI,,Sec. XIX
 BO0624_83689,69791,9,9,La Fete de la Grand'Mere.,120,96.0,False,positional,BOILLY,,,,
 BO0624_83689,69792,10,10,Le Vieux jaloux.,145,90.9,False,positional,BOILLY,,,,
 BO0624_83689,69793,11,I,"mportante composition,largement peinte en camaieu bleu,sur fond gris-clair.",166,99.3,False,positional,BOILLY (LOUIS-LEOPOLD),,,,
-BO0624_83689,69794,12,1704,1770,178,61.5,False,positional,BOUCHER,,,,
-BO0624_83689,69795,13,1704,1770,183,61.5,False,positional,BOUCHER,,,,
+BO0624_83689,69794,12,1704,1770,178,61.5,False,positional,BOUCHER,,,,Sec. XVIII
+BO0624_83689,69795,13,1704,1770,183,61.5,False,positional,BOUCHER,,,,Sec. XVIII
 BO0624_83689,69796,14,12,—Les Oiseaux symboliques.,185,93.9,False,positional,BOUCHER,,,,
 BO0624_83689,69797,15,13,"Saint Jean prechant. l est assis sur un rocher,le corps incline et entoure d'une draperie jaune,les bras etendus, sa croix et un mouton pres de lui. Des femmes, l'une portant un enfant, écoutent sa parole.",199,95.0,False,positional,BOUCHER,,,,
 BO0624_83689,69798,16,14,Portrait de lArtiste.,210,93.0,False,positional,BOULIARD,,,,
 BO0624_83689,69799,17,16,La Partie champetre.,233,92.7,False,positional,CARESME,,,,
-BO0624_83689,69800,18,17,"son habit blanc, deguste un verre de vin, tandis quune jeune fille debout,vue de dos, retroussant sa robe rose, 1674",244,97.7,False,positional,CARESME,,,,
+BO0624_83689,69800,18,17,"son habit blanc, deguste un verre de vin, tandis quune jeune fille debout,vue de dos, retroussant sa robe rose, 1674",244,97.7,False,positional,CARESME,,,,Sec. XVII
 BO0624_83689,69801,19,18,Le Songe de Jacob. l est represente a et lui montre le ciel.,272,80.8,False,positional,CHAMPAIGNE,,,,
 BO0624_83689,69802,20,19,"Portrait de Pierre Dupuy,bibliothecaire royal.",285,96.8,False,positional,CHAMPAIGNE,,,,
-BO0624_83689,69803,21,20,La Vierge en buste. 1572,297,81.8,False,positional,CHAMPAIGNE,,,,
+BO0624_83689,69803,21,20,La Vierge en buste. 1572,297,81.8,False,positional,CHAMPAIGNE,,,,Sec. XVI
 BO0624_83689,69804,22,21,"Portrait presume de la reine Claude, femme de Fran-",312,98.0,False,positional,CLOUET,,,,
-BO0624_83689,69805,23,22,Portrait de la belle Laure. 1752,331,86.7,False,positional,CLOUET,,,,
+BO0624_83689,69805,23,22,Portrait de la belle Laure. 1752,331,86.7,False,positional,CLOUET,,,,Sec. XVIII
 BO0624_83689,69806,24,23,"Figure allegorique, Cariatides et Attributs divers.",345,97.0,False,positional,COYPEL,,,,
 BO0624_83689,69807,25,24,Portrait de Mme de Noziere.,354,94.5,False,positional,DANLOUX,,,,
 BO0624_83689,69808,26,25,—Portrait dun Conventionmel.,366,94.5,False,positional,DANLOUX,,,,
-BO0624_83689,69809,27,26,—Paturage. 1752,371,66.7,False,positional,DANLOUX,,,,
+BO0624_83689,69809,27,26,—Paturage. 1752,371,66.7,False,positional,DANLOUX,,,,Sec. XVIII
 BO0624_83689,69810,28,27,Portrait de Femme en Ceres.,387,94.5,False,positional,DE TROY,,,,
 BO0624_83689,69811,29,29,Le Rhin.,402,82.4,False,positional,DE ROY,,,,
 BO0624_83689,69812,30,3,o—Le Rhone.,406,95.2,False,positional,DE ROY,,,,
@@ -33,7 +33,7 @@ BO0624_83689,69813,31,28,La Mort de Semiramis.,418,93.0,False,positional,DE TROY
 BO0624_83689,69814,32,31,La Peste des Ardents.,433,93.0,False,positional,DOYEN,,,,
 BO0624_83689,69815,33,32,Bergers gardant un troupeau.,443,94.7,False,positional,DOYEN,,,,
 BO0624_83689,69816,34,33,"Un Amour. l est etendu sur une draperie rose, porte sur un nuage, la tete appuyee sur la main droite, les cheveux boucles,",458,95.6,False,positional,DOYEN,,,,
-BO0624_83689,69817,35,34,La Mere et lEnfant. 1778,468,81.8,False,positional,FRAGONARD,,,,
+BO0624_83689,69817,35,34,La Mere et lEnfant. 1778,468,81.8,False,positional,FRAGONARD,,,,Sec. XVIII
 BO0624_83689,69818,36,35,Vue prise a Naples.,485,92.3,False,positional,GIGANTE,,,,
 BO0624_83689,69819,37,36,Buste de Jeune Fille.,499,93.0,False,positional,GREUZE,,,,
 BO0624_83689,69820,38,1,'on remarque vers le fond un cours d’eau et des collines.,518,98.2,False,positional,HUET,,,,
@@ -41,12 +41,12 @@ BO0624_83689,69821,39,38,Portrait de Marie-Joseph Chenier.,528,95.5,False,positi
 BO0624_83689,69822,40,3,g—Une Table d’artiste.,543,97.7,False,positional,HUET,,,,
 BO0624_83689,69823,41,40,Portrait de Jeune Femme.,560,93.9,False,positional,LARGILLIERE,,,,
 BO0624_83689,69824,42,42,1,571,40.0,False,positional,LARGILLIERE,Scuola Bolognese,,,
-BO0624_83689,69825,43,1656,1746,577,61.5,False,positional,LARGILLIERE,,,,
+BO0624_83689,69825,43,1656,1746,577,61.5,False,positional,LARGILLIERE,,,,Sec. XVIII
 BO0624_83689,69826,44,41,Portrait d’une Dame.,579,92.7,False,positional,LARGILLIERE,,,,
 BO0624_83689,69827,45,44,— La Visitation.,604,89.7,False,positional,LARGILLIERE,,,,
 BO0624_83689,69828,46,43,Etude pour un portrait d'Homme.,620,95.2,False,positional,LARGILLIERE,,,,
-BO0624_83689,69829,47,1735,1784,634,61.5,False,positional,LEPICIE,,,,
-BO0624_83689,69830,48,46,Fruits sur une table de marbre. 1832,647,88.2,False,positional,LESOURD BEAUREGARD,,,,
+BO0624_83689,69829,47,1735,1784,634,61.5,False,positional,LEPICIE,,,,Sec. XVIII
+BO0624_83689,69830,48,46,Fruits sur une table de marbre. 1832,647,88.2,False,positional,LESOURD BEAUREGARD,,,,Sec. XIX
 BO0624_83689,69831,49,47,"Apotheose du Poussin, de Le Brun et de Le Sueur.",660,96.8,False,positional,MEYNIER,,,,
 BO0624_83689,69832,50,48,"Paysage d’une vaste etendue,",672,94.7,False,positional,MEYNIER,,,,
 BO0624_83689,69833,51,50,Le Moulin a vent.,679,91.4,False,positional,MEYNIER,,,,
@@ -54,7 +54,7 @@ BO0624_83689,69834,52,I,"l s'eleve au milieu d’une plaine, sous un vif rayon d
 BO0624_83689,69835,53,49,—Le Chemin de la Ferme.,687,93.3,False,positional,MICHEL,,,,
 BO0624_83689,69836,54,51,Portrait de Madame de Montespan.,704,95.4,False,positional,MIGNARD,,,,
 BO0624_83689,69837,55,53,Pan et Syrinx.,719,89.7,False,positional,MIGNARD,,,,
-BO0624_83689,69838,56,54,Projet d’un Monument. ?-1676？,758,83.3,False,positional,MIGNARD,,,,
+BO0624_83689,69838,56,54,Projet d’un Monument. ?-1676？,758,83.3,False,positional,MIGNARD,,,,Sec. XVII
 BO0624_83689,69839,57,55,La Fuite en Egypte.,772,92.3,False,positional,PATEL,,,,
 BO0624_83689,69840,58,56,—Le Passage du Gue.,782,91.9,False,positional,PILLEMENT,,,,
 BO0624_83689,69841,59,57,Vase de Fleurs sur une console en marbre.,791,96.4,False,positional,POL,,VASI,,
@@ -62,9 +62,9 @@ BO0624_83689,69842,60,58,Peches sur une table de marbre.,803,95.2,False,position
 BO0624_83689,69843,61,59,Portrait du comte de Sommariva.,812,95.2,False,positional,PRUD'HON,,,,
 BO0624_83689,69844,62,61,La Coquette.,831,88.0,False,positional,PRUD'HON,,,,
 BO0624_83689,69845,63,62,—Les Enfants moissonneurs.,843,94.1,False,positional,SAUVAGE,,,,
-BO0624_83689,69846,64,63,L'Amour mutin. 1754,856,76.5,False,positional,RAOUX,,,,
+BO0624_83689,69846,64,63,L'Amour mutin. 1754,856,76.5,False,positional,RAOUX,,,,Sec. XVIII
 BO0624_83689,69847,65,64,Portrait de Femme.,870,91.9,False,positional,TOURNIERES,,,,
-BO0624_83689,69848,66,1739,1780,884,61.5,False,positional,THEOLON,Scuola Fiamminga,,,
+BO0624_83689,69848,66,1739,1780,884,61.5,False,positional,THEOLON,Scuola Fiamminga,,,Sec. XVIII
 BO0624_83689,69849,67,67,## VALLAYER-COSTER,887,100.0,False,title_direct,VALLAYER-COSTER,,,,
 BO0624_83689,69850,68,65,Fleurs ct Fruits.,891,91.4,False,positional,VALLAYER-COSTER,,,,
 BO0624_83689,69851,69,66,Fruits sur une table de pierre.,903,95.2,False,positional,VALLAYER-COSTER,,,,
@@ -74,7 +74,7 @@ BO0624_83689,69854,72,9,Enfant effeuillant une rose.,938,96.4,False,positional,V
 BO0624_83689,69855,73,72,— Le Torrent.,963,87.0,False,positional,WATELET,,,,
 BO0624_83689,69856,74,I,"l coule entre des rochers dans un site montagneux. A gauche, quatre personnages arretes sur une route et plus loin un berger conduisant un troupeau de moutons. Dans le fond, un chateau construit sur une éminence.",965,99.8,False,positional,WATELET,,,,
 BO0624_83689,69857,75,I,"mportant tableau, provenant de la collection du roi Louis-Philippe.",969,99.2,False,positional,WATELET,,,COLLEZIONE DI RE LUIGI FILIPPO DI FRANCIA,
-BO0624_83689,69858,76,73,Le Char de Venus. 1683,984,80.0,False,positional,,ET HOLLANDAISE,,,
+BO0624_83689,69858,76,73,Le Char de Venus. 1683,984,80.0,False,positional,,ET HOLLANDAISE,,,Sec. XVII
 BO0624_83689,69859,77,74,La Rentree du Troupeau.,997,93.6,False,positional,BERGHEM,,,,
 BO0624_83689,69860,78,75,Le Mariage mystique de sainte Catherine.,1014,96.3,False,positional,BESCHEY,,,,
 BO0624_83689,69861,79,76,— Fleurs dans un vase de bronze.,1028,95.1,False,positional,BOSSCHAERT,,VASI,,
@@ -82,26 +82,26 @@ BO0624_83689,69862,80,77,—L'Offre galante.,1035,90.9,False,positional,BOSSCHAE
 BO0624_83689,69863,81,81,## DAEL,1049,100.0,False,title_direct,DAEL,,,,
 BO0624_83689,69864,82,79,—Vase de Fleurs et Nid d'oiseaux.,1072,95.4,False,positional,DAEL,,VASI,,
 BO0624_83689,69865,83,8,o-Fleurs dans un verre d'eau.,1088,98.2,False,positional,DAEL,,,,
-BO0624_83689,69866,84,1712,1774,1102,61.5,False,positional,DIETRICH,,,,
+BO0624_83689,69866,84,1712,1774,1102,61.5,False,positional,DIETRICH,,,,Sec. XVIII
 BO0624_83689,69867,85,83,La Ferme.,1113,84.2,False,positional,DIETRICH,,,,
 BO0624_83689,69868,86,82,Portrait d'Homme.,1133,91.4,False,positional,EECKHOUT,,,,
-BO0624_83689,69869,87,1648,1698,1145,61.5,False,positional,KESSEL,,,,
+BO0624_83689,69869,87,1648,1698,1145,61.5,False,positional,KESSEL,,,,Sec. XVII
 BO0624_83689,69870,88,85,La Collation.,1148,88.9,False,positional,KESSEL,,,,
 BO0624_83689,69871,89,84,Moise sauve des eaux.,1166,93.0,False,positional,KOENIG,,,,
 BO0624_83689,69872,90,87,## LAMBRECHTS Les Amateurs de moules.,1181,79.3,False,title_direct,LAMBRECHTS,,,,
 BO0624_83689,69873,91,88,Episode des guerres de Flandre.,1212,95.2,False,positional,MEULEN,,,,
-BO0624_83689,69874,92,1635,1681,1226,61.5,False,positional,MIERIS,,,,
+BO0624_83689,69874,92,1635,1681,1226,61.5,False,positional,MIERIS,,,,Sec. XVII
 BO0624_83689,69875,93,8,g—La Femme au perroquet.,1228,97.9,False,positional,MIERIS,,,,
-BO0624_83689,69876,94,90,——Le Buveur. 1651,1237,69.2,False,positional,MIERIS,,,,
-BO0624_83689,69877,95,91,Interieur d'Eglise. 1747,1251,81.8,False,positional,MIERIS,,ARREDAMENTI,,
+BO0624_83689,69876,94,90,——Le Buveur. 1651,1237,69.2,False,positional,MIERIS,,,,Sec. XVII
+BO0624_83689,69877,95,91,Interieur d'Eglise. 1747,1251,81.8,False,positional,MIERIS,,ARREDAMENTI,,Sec. XVIII
 BO0624_83689,69878,96,92,— Moutons au paturage.,1268,92.7,False,positional,OMMEGANCK,,,,
 BO0624_83689,69879,97,93,La Partie de Cartes. ?-168r,1280,82.6,False,positional,OSTADE,,,,
 BO0624_83689,69880,98,94,"— Le Chateau de Brederode. l s'eleve sur une colline, construit sur un rocher et flanque de tourelles massives aux toits pointus. Au-dessous, quelques chaumieres en partie cachees dans des massifs d'arbustes. Sur le devant, plusieurs sentiers sinueux traces sur des terrains verdoyants. Un voyageur se repose assis; plus loin,un homme et une femme descendent le sentier qui passe entre deux chaumieres. Ciel nuageux.",1301,96.8,False,positional,RUYSDAEL,,,,
 BO0624_83689,69881,99,95,Sainte Famille dans un paysage.,1316,95.2,False,positional,RYCKAERT,,,,
-BO0624_83689,69882,100,96,"Portrait presume de Marie Tudor, femme de Philippe II. 1660",1332,93.7,False,positional,SCHOT,,,,
+BO0624_83689,69882,100,96,"Portrait presume de Marie Tudor, femme de Philippe II. 1660",1332,93.7,False,positional,SCHOT,,,,Sec. XVII
 BO0624_83689,69883,101,97,—Guirlande de Fleurs.,1345,92.7,False,positional,SEGHERS,,,,
 BO0624_83689,69884,102,1746,1S22,1366,61.5,False,positional,SPAENDONCK,,,,
-BO0624_83689,69885,103,1756,1839,1373,61.5,False,positional,SPAENDONCK,,,,
+BO0624_83689,69885,103,1756,1839,1373,61.5,False,positional,SPAENDONCK,,,,Sec. XIX
 BO0624_83689,69886,104,I,oo —Corbeille de Fleurs sur une table de marbre.,1392,98.9,False,positional,SPAENDONCK,,,,
 BO0624_83689,69887,105,I,o1—La Passerelle.,1398,97.0,False,positional,SPAENDONCK,,,,
 BO0624_83689,69888,106,103,La Sainte Face.,1411,87.5,False,positional,SWANEVELT,,,,
@@ -110,13 +110,13 @@ BO0624_83689,69890,108,I,l est traverse par de nombreux personnages suivant une 
 BO0624_83689,69891,109,105,Le Fumeur.,1442,81.8,False,positional,TENIERS,,,,
 BO0624_83689,69892,110,104,La Vierge et l'Enfant Jesus.,1452,93.1,False,positional,TENIERS,,,,
 BO0624_83689,69893,111,I,"nteressante petite peinture, d’une grande fermete d’execution.",1456,99.2,False,positional,TENIERS,,,,
-BO0624_83689,69894,112,162,g?-1666,1471,80.0,False,positional,WOUVERMAN,,,,
+BO0624_83689,69894,112,162,g?-1666,1471,80.0,False,positional,WOUVERMAN,,,,Sec. XVII
 BO0624_83689,69895,113,I,o6 —Le Gentilhomme et le Paysan.,1473,98.4,False,positional,WOUVERMAN,,,,
-BO0624_83689,69896,114,1600,1677,1483,61.5,False,positional,WYNANTS,,,,
+BO0624_83689,69896,114,1600,1677,1483,61.5,False,positional,WYNANTS,,,,Sec. XVII
 BO0624_83689,69897,115,107,— Environs de La Haye. g-La Ferme.,1485,71.7,False,positional,WYNANTS,,,,
 BO0624_83689,69898,116,108,—Troupeau en marche.,1512,90.0,False,positional,WYNANTS,,,,
 BO0624_83689,69899,117,I,ro -Portrait presume de Cosme de Medicis.,1529,98.7,False,positional,,ECOLES ITALIENNE & ESPAGNOLE,,,
-BO0624_83689,69900,118,1481,1559,1543,61.5,False,positional,GAROFALO,,,,
+BO0624_83689,69900,118,1481,1559,1543,61.5,False,positional,GAROFALO,,,,Sec. XVI
 BO0624_83689,69901,119,I,"ll —La Vierge, lEnfant Jesus, saint Pierre et saint Jean-",1545,99.1,False,positional,GAROFALO,,,,
 BO0624_83689,69902,120,112,—La Nativite.,1559,84.6,False,positional,GAROFALO,,,,
 BO0624_83689,69903,121,113,"La Vierge,lEnfant Jesus, saint. Gerome et saint Francois d'Assise.",1582,96.9,False,positional,,ECOLE OMBRIENNE,,,
@@ -144,7 +144,7 @@ BO0624_83689,69924,142,136,La Jeune Mere.,1869,86.7,False,positional,DEJONGHE,,,
 BO0624_83689,69925,143,137,—La Sieste des deux amis.,1881,92.0,False,positional,DEJONGHE,,,,
 BO0624_83689,69926,144,139,—Objets dart.,1894,84.6,False,positional,DEJONGHE,,OGGETTI VARI,,
 BO0624_83689,69927,145,140,La Ferme. —Cheval alezan selle.,1922,78.4,False,positional,DELACROIX,,,,
-BO0624_83689,69928,146,141,"—Les Dames societaires du Theatre-Francais, en 1855.",1935,96.1,False,positional,FAUSTIN BESSON,,,,
+BO0624_83689,69928,146,141,"—Les Dames societaires du Theatre-Francais, en 1855.",1935,96.1,False,positional,FAUSTIN BESSON,,,,Sec. XIX
 BO0624_83689,69929,147,142,La Jolie Fermiere.,1957,89.5,False,positional,FAUSTIN BESSON,,,,
 BO0624_83689,69930,148,143,—Le Souvenir.,1964,84.6,False,positional,FAUSTIN BESSON,,,,
 BO0624_83689,69931,149,144,Bouderie.,1972,80.0,False,positional,FAUSTIN BESSON,,,,
@@ -198,7 +198,7 @@ BO0624_83689,69978,196,193,—Cavaliers en marche.,2622,90.5,False,positional,DE
 BO0624_83689,69979,197,194,—Animaux au paturage sous la garde d’un berger. Le Petit Tambour.,2634,81.1,False,positional,DE MARNE,,,,
 BO0624_83689,69980,198,195,Figure du premier plan de la α Reddition d'Huningue ）.,2643,100.0,False,positional,DE MARNE,,,,
 BO0624_83689,69981,199,1,g6 —Portrait d’une Dame de qualite.,2672,98.5,False,positional,DUMONSTIER,,,,
-BO0624_83689,69982,200,197,"—Frontispices pour letat, des troupes et des etats-majors des places.Annees 1761-1765-1768.",2684,97.8,False,positional,EISEN,,,,
+BO0624_83689,69982,200,197,"—Frontispices pour letat, des troupes et des etats-majors des places.Annees 1761-1765-1768.",2684,97.8,False,positional,EISEN,,,,Sec. XVIII
 BO0624_83689,69983,201,198,Au Genie de Franklin.,2693,93.0,False,positional,FRAGONARD,,,,
 BO0624_83689,69984,202,I,"l est assis sur un nuage, couvert d'un manteau largement drape. De la main droite,il detourne la foudre lui opposant un genie aile,a gracieuse figure de femme, arme d'un bouclier, tenant un caduce.",2695,99.7,False,positional,FRAGONARD,,,,
 BO0624_83689,69985,203,198,bis — Au Genie de Franklin.,2711,92.3,False,positional,FRAGONARD,,,,
@@ -206,7 +206,7 @@ BO0624_83689,69986,204,199,"Le Mendiant. l est debout, appuyé sur sa canne, tou
 BO0624_83689,69987,205,200,-La Resurrection de Lazare.,2753,92.6,False,positional,FRAGONARD,,,,
 BO0624_83689,69988,206,201,—Couple apercu a mi-corps dans un buisson.,2766,95.2,False,positional,FRAGONARD,,,,
 BO0624_83689,69989,207,202,—Parc anime de figures.,2776,91.3,False,positional,FRAGONARD,,,,
-BO0624_83689,69990,208,203,"Vue du chateau et du parc de Saint-Cloud, apres la guerre de 1870.",2784,97.0,False,positional,FRANCAIS,,,,
+BO0624_83689,69990,208,203,"Vue du chateau et du parc de Saint-Cloud, apres la guerre de 1870.",2784,97.0,False,positional,FRANCAIS,,,,Sec. XIX
 BO0624_83689,69991,209,204,—Tete de femme.,2790,86.7,False,positional,FRANCAIS,,,,
 BO0624_83689,69992,210,205,"Portrait presume d’Adrienne Lecouvreur, dans le role de",2807,96.4,False,positional,GUIARD,,,,
 BO0624_83689,69993,211,206,—Le Petit Jardinier.,2823,90.0,False,positional,HUET,,,,
@@ -233,7 +233,7 @@ BO0624_83689,70013,231,229,——Scythe.,3040,33.3,False,positional,MEISSONIER,,
 BO0624_83689,70014,232,230,Cinq compositions pour illustrer le aRoland furieux》 de l'Arioste.,3047,29.9,False,positional,MOREAU LE JEUNE,,,,
 BO0624_83689,70015,233,231,——Site italien.,3051,56.0,False,positional,MOREAU LE JEUNE,,,,
 BO0624_83689,70016,234,232,Ruines et Monuments.,3073,44.4,False,positional,MOREAU LE JEUNE,,,,
-BO0624_83689,70017,235,233,Le Christ renvoye a Pilate. mportante composition d'une des figures de la Bible. Dessin a l'encre de Chine. Signe:B.Picard F.1714. Grave par Buisen.,3104,42.9,False,positional,MOREAU LE JEUNE,,,,
+BO0624_83689,70017,235,233,Le Christ renvoye a Pilate. mportante composition d'une des figures de la Bible. Dessin a l'encre de Chine. Signe:B.Picard F.1714. Grave par Buisen.,3104,42.9,False,positional,MOREAU LE JEUNE,,,,Sec. XVIII
 BO0624_83689,70018,236,234,Portrait d’un Musicien.,3106,47.1,False,positional,MOREAU LE JEUNE,,,,
 BO0624_83689,70019,237,235,Batelier sous un pont.,3108,39.1,False,positional,MOREAU LE JEUNE,,,,
 BO0624_83689,70020,238,236,—Portrait dun Gentilhomme.,3112,41.0,False,positional,MOREAU LE JEUNE,,,,
@@ -258,7 +258,7 @@ BO0624_83689,70038,256,252,"— TRoIs PETITs coMPoTIERs, a decor de fleurs. Anci
 BO0624_83689,70039,257,253,"- TAssE oBcoNIQUE et sa soucoupe, en ancienne porcelaine tendre de Vincennes, decorees sur fond bleu, dit de Vincennes,",3334,48.3,False,positional,,,MINIATURES,,
 BO0624_83689,70040,258,254,"— PeTiTE TAssE et sa soucoupe, en ancienne porcelaine tendre de Vincennes :Reserves de fleurs sur fond bleu, dit de Vin-",3336,44.8,False,positional,,,MINIATURES,,
 BO0624_83689,70041,259,255,"-CoMroTIEr, decore de fleurs. Ancienne porcelaine tendre",3357,41.6,False,positional,,,PORCELAINES DE VINCENNES,,
-BO0624_83689,70042,260,256,"—Tasse, son couvercle et son presentoir, en ancienne porcelaine tendre de Sevres, decores, sur fond vert, de paysages avec rehauts de dorure. Annee 1757, decor par Gomery; le presentoir porte 1inscription: Peint par Gomery de 1756",3363,52.2,False,positional,,,DE SEVRES ET AUTRES,,
+BO0624_83689,70042,260,256,"—Tasse, son couvercle et son presentoir, en ancienne porcelaine tendre de Sevres, decores, sur fond vert, de paysages avec rehauts de dorure. Annee 1757, decor par Gomery; le presentoir porte 1inscription: Peint par Gomery de 1756",3363,52.2,False,positional,,,DE SEVRES ET AUTRES,,Sec. XVIII
 BO0624_83689,70043,261,257,"PeTITE TAssE droite et sa soucoupe en ancienne porcelaine tendre de Sevres, a guirlandes de fleurs en camaieu rose.",3365,73.6,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70044,262,258,"— PeTITE TAsse droite et sa soucoupe, en ancienne porcelaine tendre de Sevres:roses et couronnes de feuilles de laurier.",3373,98.3,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70045,263,259,roses sur fond bleu a ceils de perdrix.,3375,95.0,False,positional,,,DE SEVRES ET AUTRES,,
@@ -268,20 +268,20 @@ BO0624_83689,70048,266,262,"PoT A LAIT en ancienne porcelaine tendre de Sevres, 
 BO0624_83689,70049,267,263,"—Deux PoTs A cREME et leurs couvercles, en ancienne porcelaine tendre de Sevres, decores de gerbes de fleurs et de",3381,98.2,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70050,268,264,"— Deux TAssEs vARIEEs de forme et leurs soucoupes, en ancienne porcelaine tendre de Sevres, presentant le meme decor de guirlandes de fleurs, suspendues a une double baguette",3383,98.8,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70051,269,265,"—Deux TAsses et soucoupes, en ancienne porcelaine tendre",3385,96.4,False,positional,,,DE SEVRES ET AUTRES,,
-BO0624_83689,70052,270,266,"- TassE et sa soucoupe, en ancienne porcelaine tendre de Sevres, a decor de reserves contenant des couronnes de fleurs et de feuilles et se detachant sur un fond bleu, seme de pois d'or.Annee 1766,décor par Tandart.",3387,99.1,False,positional,,,DE SEVRES ET AUTRES,,
-BO0624_83689,70053,271,267,"—TAssE DroiTE cotelée et sa soucoupe,en ancienne porcelaine tendre de Sevres,a decor de pendentifs de feuilles de laurier, separes par des fuits de colonnes emailles bleu; bordures roses. Annee 1766.",3388,99.0,False,positional,,,DE SEVRES ET AUTRES,,
+BO0624_83689,70052,270,266,"- TassE et sa soucoupe, en ancienne porcelaine tendre de Sevres, a decor de reserves contenant des couronnes de fleurs et de feuilles et se detachant sur un fond bleu, seme de pois d'or.Annee 1766,décor par Tandart.",3387,99.1,False,positional,,,DE SEVRES ET AUTRES,,Sec. XVIII
+BO0624_83689,70053,271,267,"—TAssE DroiTE cotelée et sa soucoupe,en ancienne porcelaine tendre de Sevres,a decor de pendentifs de feuilles de laurier, separes par des fuits de colonnes emailles bleu; bordures roses. Annee 1766.",3388,99.0,False,positional,,,DE SEVRES ET AUTRES,,Sec. XVIII
 BO0624_83689,70054,272,268,"—PeTITE TAssE droite cotelée et sa soucoupe, en ancienne porcelaine tendre de Sevres,a decor de pendentifs de feuilles de laurier, separés par des pilastres a flets roses; bordures",3389,98.9,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70055,273,269,"—PeTIrE TAssE droite et sa soucoupe, en ancienne porcelaine tendre de Sevres, decorees d'une large bordure,a medaillons relies par des guirlandes de fleurs, sur fond pointille bleu et violet.",3391,98.9,False,positional,,,DE SEVRES ET AUTRES,,
-BO0624_83689,70056,274,270,"—PerITe Tasse droite et sa soucoupe, en ancienne porcelaine tendre de Sevres,a medaillons d'oiseaux, sur fond imbriqué bleu et or. Année 1777, decor par Noel et Chapuis aine.",3392,98.8,False,positional,,,DE SEVRES ET AUTRES,,
+BO0624_83689,70056,274,270,"—PerITe Tasse droite et sa soucoupe, en ancienne porcelaine tendre de Sevres,a medaillons d'oiseaux, sur fond imbriqué bleu et or. Année 1777, decor par Noel et Chapuis aine.",3392,98.8,False,positional,,,DE SEVRES ET AUTRES,,Sec. XVIII
 BO0624_83689,70057,275,271,cienne porcelaine tendre blanche de Sevres.,3394,95.5,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70058,276,272,"PoT A LAIT, en ancienne porcelaine tendre blanche de",3395,96.2,False,positional,,,DE SEVRES ET AUTRES,,
-BO0624_83689,70059,277,274,"TAssE DRoITE et sa soucoupe, en ancienne porcelaine tendre de Sevres,a decor de fleurs semees, avec large bordure a medaillons de roses, sur fond violet. Annee 1781, decor par Noel.",3398,98.9,False,positional,,,DE SEVRES ET AUTRES,,
+BO0624_83689,70059,277,274,"TAssE DRoITE et sa soucoupe, en ancienne porcelaine tendre de Sevres,a decor de fleurs semees, avec large bordure a medaillons de roses, sur fond violet. Annee 1781, decor par Noel.",3398,98.9,False,positional,,,DE SEVRES ET AUTRES,,Sec. XVIII
 BO0624_83689,70060,278,275,"— Tasse a deux anses et son presentoir, en ancienne porcelaine tendre de Sevres, decores de guirlandes et vases de fleurs et rinceaux; bordures de motifs dores sur fond bleu-",3399,98.8,False,positional,,,VASI,,
 BO0624_83689,70061,279,277,"— TAssE DRoITE et sa soucoupe, en ancienne porcelaine tendre de Sevres, a decor de medaillons de paysages, entourés de guirlandes de roses; bordures a fond bleu. Decor par Boulanger.",3402,98.9,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70062,280,278,"— PREsENToiR, en ancienne porcelaine tendre de Sevres, a",3403,96.3,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70063,281,279,"— SucrIER et son couvercle, en ancienne porcelaine tendre de Sevres, decorés, sur fond bleu a ceils de perdrix dores, de reserves de forme contournee contenant des guirlandes de",3405,98.8,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70064,282,28,"o — Sucrier et son couvercle, de forme obconique, en ancienne porcelaine tendre de Sevres, decores, sur fond bleu dit de Vincennes, de reserves contenant des oiseaux, pour le sucrier, et une couronne de fleurs, pour le couvercle.",3407,99.5,False,positional,,,DE SEVRES ET AUTRES,,
-BO0624_83689,70065,283,281,"- TassE DroITE et sa soucoupe, en ancienne porcelaine tendre de Sevres: paysages en camaieu violet. Annee 1788. Decor par Viellard.",3408,98.4,False,positional,,,DE SEVRES ET AUTRES,,
+BO0624_83689,70065,283,281,"- TassE DroITE et sa soucoupe, en ancienne porcelaine tendre de Sevres: paysages en camaieu violet. Annee 1788. Decor par Viellard.",3408,98.4,False,positional,,,DE SEVRES ET AUTRES,,Sec. XVIII
 BO0624_83689,70066,284,282,"— TassE DroITE et sa soucoupe,en ancienne porcelaine dure de Sevres: oiseaux; fond raye bleu et or.",3409,97.9,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70067,285,283,"—— PoT A LAIr, en ancienne porcelaine dure de Sevres, a decor de fleurs.",3410,97.1,False,positional,,,DE SEVRES ET AUTRES,,
 BO0624_83689,70068,286,284,"—AuTRE PLUs PETIT,meme porcelaine: verdure et oiseaux, EcuELLE, avec son couvercle et son plateau, en ancienne",3412,67.5,False,positional,,,DE SEVRES ET AUTRES,,
@@ -325,7 +325,7 @@ BO0624_83689,70105,323,322,"PeTIT DEssiN de forme ronde: Portrait de general, en
 BO0624_83689,70106,324,323,PETITE GoUAcHE ovale du xvir siecle: Paysage anime. Encadree.,3483,96.7,False,positional,,,ORNEES DE MINIATURES,,
 BO0624_83689,70107,325,324,"— MINIATuRE ovALE:Portrait de jeune homme,vetu de noir, les cheveux blonds boucles. Commencement du xix siecle.",3484,98.1,False,positional,,,ORNEES DE MINIATURES,,
 BO0624_83689,70108,326,325,"MINIATuRE ovALE,par Muneret, signee:Portrait dhomme, en buste, presque de face, en habit noir. Commencement du xixe siecle.",3485,98.3,False,positional,,,ORNEES DE MINIATURES,,
-BO0624_83689,70109,327,326,"MINIATuRE ovALE, par Hesse, 1816:Portrait de jeune",3486,96.0,False,positional,,,ORNEES DE MINIATURES,,
+BO0624_83689,70109,327,326,"MINIATuRE ovALE, par Hesse, 1816:Portrait de jeune",3486,96.0,False,positional,,,ORNEES DE MINIATURES,,Sec. XIX
 BO0624_83689,70110,328,327,"— FixE RoND, par Mlle Marguerite Gerard:Portrait presumé de Mme Fragonard, en buste, de face, vetue de noir. Encadre.",3488,98.2,False,positional,FRAGONARD JEAN-HONORE,,ORNEES DE MINIATURES,,
 BO0624_83689,70111,329,328,"MINIATURE RECTANGULAIRE, par Millet, 183o:Portrait de",3489,96.2,False,title_direct,MILLET JEAN FRANCOIS,,MINIATURES,,
 BO0624_83689,70112,330,329,"— PeTITE MINIATURE RONDE: Portrait de femme, vue en buste,",3491,96.4,False,title_direct,,,MINIATURES,,
@@ -335,9 +335,9 @@ BO0624_83689,70115,333,332,"PeTIT FLAcoN émaillé, forme balustre:sujet galant,
 BO0624_83689,70116,334,333,"- Erui-NEcEssAIRE Louis XV en agate onyx, monte en or a motifs rocaille.",3502,97.1,False,positional,,Periodo di Luigi XV,OBJETS DE VITRINE,,
 BO0624_83689,70117,335,334,"BoITE RoNDE en écaille blonde,incrustee de lamelles d'or et galonnee d'or egalement. Fin de lepoque Louis XV.",3503,98.2,False,positional,,Periodo di Luigi XV,SCATOLE,,
 BO0624_83689,70118,336,335,"—PETITE BoITE RONDE en écaille blonde,incrustee de lamelles d'or, avec bordure d'or ajoure sur le couvercle. Fin de 1'epoque Louis XV.",3504,98.5,False,positional,,Periodo di Luigi XV,SCATOLE,,
-BO0624_83689,70119,337,336,"- BoITE RoNDE en or guilloche et émaille bleu:bordure de cordelettes avec flets blancs. Epoque Louis XV. Poincons d'Alaterre, adjudicataire des droits de marque, annee 1773-74.",3505,98.8,False,positional,,Periodo di Luigi XV,SCATOLE,,
+BO0624_83689,70119,337,336,"- BoITE RoNDE en or guilloche et émaille bleu:bordure de cordelettes avec flets blancs. Epoque Louis XV. Poincons d'Alaterre, adjudicataire des droits de marque, annee 1773-74.",3505,98.8,False,positional,,Periodo di Luigi XV,SCATOLE,,Sec. XVIII
 BO0624_83689,70120,338,337,"BorTE RoNDE en or de couleur cisele,a decor de pois semes, rosaces et bordure de perles d'or. Epoque Louis XVI. Poincons de Clavel, annee 178o-81.",3506,98.6,False,positional,,,OBJETS DE VITRINE,,
-BO0624_83689,70121,339,338,"— BorrE ovALE en or de couleur cisele, a decor de semis de pois et bordure de cordelettes; monture a charniere. Poincons de Clavel, regisseur des droits de marque, annee 1784.",3507,98.8,False,positional,,,OBJETS DE VITRINE,,
+BO0624_83689,70121,339,338,"— BorrE ovALE en or de couleur cisele, a decor de semis de pois et bordure de cordelettes; monture a charniere. Poincons de Clavel, regisseur des droits de marque, annee 1784.",3507,98.8,False,positional,,,OBJETS DE VITRINE,,Sec. XVIII
 BO0624_83689,70122,340,339,"- BoIrE oBLoNGUE, en ecaille blonde, posee et montee or, a",3508,96.4,False,positional,,,OBJETS DE VITRINE,,
 BO0624_83689,70123,341,340,"— BoIrE RoNDE, en or émaille: Allegories de 1'amour, en grisaille, sur fond bleu-pale. Fin du xvil siecle.",3510,98.0,False,positional,,,OBJETS DE VITRINE,,
 BO0624_83689,70124,342,341,"— BoiTE ovALE, en cristal de roche, monture en or cisele, a",3511,96.4,False,positional,,,SCATOLE,,

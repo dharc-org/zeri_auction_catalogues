@@ -4,7 +4,7 @@ BO0624_88391,598204,2,3,4                            | Heiliger in blauem Rock B
 BO0624_88391,598205,3,5,| Hochgebirgslandschaft .                                         | .Kart.19/26                                                  |,18,97.0,False,none,,,,,
 BO0624_88391,598206,4,6,| Fischerboot in der Bucht                                        | Holz 21/31                                                   |,19,97.2,False,title_direct,,,Holz,,
 BO0624_88391,598207,5,8,| Rokokoszene                                                     | .Aquar.23/18                                                 |,22,95.8,False,none,,,,,
-BO0624_88391,598208,6,9,| Vesuvausbruch. Bezeichnet:Cratere 1895.                         | .. Aquar. 20/29                                              |,23,98.0,False,none,,,,,
+BO0624_88391,598208,6,9,| Vesuvausbruch. Bezeichnet:Cratere 1895.                         | .. Aquar. 20/29                                              |,23,98.0,False,none,,,,,Sec. XIX
 BO0624_88391,598209,7,18,Ganseliesel . 19 Hirt mit Schafherde.. Beide bezeichnet.        | .Leinw.55/70 Gegenst.z.Vor.   |,39,98.7,False,positional,F.Beinke,,,,
 BO0624_88391,598210,8,21,Sitzendes Madchen mit Obstkorb .                               | .Kart.46/31                   |,42,96.5,False,positional,F.Beinke,,,,
 BO0624_88391,598211,9,23,Malerei und Dichtung..                                         | .53/42cm                      |,44,94.9,False,positional,F.Beinke,,,,
@@ -14,7 +14,7 @@ BO0624_88391,598214,12,26,Rom... 27 Isola Bella im Lago Maggiore Samtlich bezeic
 BO0624_88391,598215,13,33,Gebirgslandschaft mit Dorfchen                                 | .Leinw.29/38                  |,53,96.6,False,positional,F.Beinke,,,,
 BO0624_88391,598216,14,38,"Herrenbildnis 39 Damenbildnis          | .Leinw.,0val 74/57 Gegenst. z. Vor.                                                                                                                                                      |",60,98.4,False,positional,,Deutsche Schule des 18. Jahrhunderts,,,
 BO0624_88391,598217,15,40,"| H.Dubbels, Amsterdam. Seestick.Bezeichnet.. .Holz 35/49                                                                                                                                  |",62,97.1,False,title_direct,,,Holz,,
-BO0624_88391,598218,16,41,"| Disseldorfer Schule des 19. Jahrhunderts. Dorflandschaft mit Kuhen und Staffage .. .Leinw.29,5/39 Sagemihle im Gebirgstale ..                                                            |",63,98.7,False,positional,,Deutsche Schule des 18. Jahrhunderts,,,
+BO0624_88391,598218,16,41,"| Disseldorfer Schule des 19. Jahrhunderts. Dorflandschaft mit Kuhen und Staffage .. .Leinw.29,5/39 Sagemihle im Gebirgstale ..                                                            |",63,98.7,False,positional,,Deutsche Schule des 18. Jahrhunderts,,,Sec. XIX
 BO0624_88391,598219,17,42,| ...Perg.31/41                                                                                                                                                                            |,64,87.0,False,positional,,Deutsche Schule des 18. Jahrhunderts,,,
 BO0624_88391,598220,18,43,"Nach Feierabend. Bezeichnet            | Prof. Ebner, Wien. Holz 41/32                                                                                                                                                            |",65,98.1,False,title_direct,,Scuola Viennese,Holz,,
 BO0624_88391,598221,19,44,"Die Sehnsucht                         | Angebl. A. Echtler , Munchen .Kart.a.Holz 40/35                                                                                                                                          |",66,97.4,False,title_direct,,,Holz,,
@@ -22,7 +22,7 @@ BO0624_88391,598222,20,45,46 47 48                              | Hobnelia and L
 BO0624_88391,598223,21,49,Sommertag bei Hochstadt. Bezeichnet . | .Leinw. 43/60 Farbstich. 50 Gebirgsstadt ..20/30                                                                                                                                         |,68,98.1,False,positional,,Deutsche Schule des 18. Jahrhunderts,STAMPE E INCISIONI,,
 BO0624_88391,598224,22,51,| Holz 15/20                                                                                                                                                                               |,70,87.0,False,title_direct,,,Holz,,
 BO0624_88391,598225,23,52,"| Winterlandschaft am Abend .Gegenst. z, Vor. Beide bezeichnet. Eduard Fischer.                                                                                                            |",71,97.9,False,positional,,Deutsche Schule des 18. Jahrhunderts,,,
-BO0624_88391,598226,24,55,| Tobias mit Engel in Landschaft.. .Leinw.71/87 Frankfurter Meister um 1880.                                                                                                               |,73,97.9,False,positional,,Deutsche Schule des 18. Jahrhunderts,,,
+BO0624_88391,598226,24,55,| Tobias mit Engel in Landschaft.. .Leinw.71/87 Frankfurter Meister um 1880.                                                                                                               |,73,97.9,False,positional,,Deutsche Schule des 18. Jahrhunderts,,,Sec. XIX
 BO0624_88391,598227,25,56,"57                                    | Konigstein im Taunus. Abendstimmung ..Leinw.18/27 Feldberg, von der Hauserer Chaussee aus gesehen ... Holz 11/14                                                                         |",74,98.6,False,title_direct,,,Holz,,
 BO0624_88391,598228,26,60,| An der Elbingmindung                                                                                                               |                                 |                                                                      |                      | .Kart.22/33                     |,81,95.4,False,positional,W.Gordack,,,,
 BO0624_88391,598229,27,61,62                                    | Pregelwiesen im Herbst Strandung...                                                                                                |                                 |                                                                      |                      | .Kart.22/33 Kart.22/33          |,83,97.4,False,positional,W.Gordack,,,,
@@ -59,7 +59,7 @@ BO0624_88391,598259,57,130,"Waldlandschaft. Bezeichnet.                         
 BO0624_88391,598260,58,133,Die Wurfelspieler 134 Die Melonenesser Stilleben. Frichte   | .Unger.Leinw.66/48 .Gegenst.z.Vor. M. L. Neuberg.                                                     |,160,98.0,False,positional,Lothar Meggendorfer,,,,
 BO0624_88391,598261,59,135,"136 Frichtestilleben Beide bezeichnet.                      | .Kart.55/32 Gegenst. z.Vor. L. Neupert, Dusseldorf.                                                   |",161,97.6,False,positional,Lothar Meggendorfer,,,,
 BO0624_88391,598262,60,137,Auf dem Apfelbaum 138 Auf verbotenem Wege Beide bezeichnet. | .Leinw.53/44 Gegenst. z. Vor.                                                                         |,162,97.7,False,positional,Lothar Meggendorfer,,,,
-BO0624_88391,598263,61,139,"In der Kiche                                                | F.Normann, 18. Jahrhundert. ... Leinw.33/26 G.P. Paruzzi, Venedig.                                    |",163,97.2,False,positional,Lothar Meggendorfer,,,,
+BO0624_88391,598263,61,139,"In der Kiche                                                | F.Normann, 18. Jahrhundert. ... Leinw.33/26 G.P. Paruzzi, Venedig.                                    |",163,97.2,False,positional,Lothar Meggendorfer,,,,Sec. XVIII
 BO0624_88391,598264,62,140,Canale grande. Bezeichnet..                                 | .Aquar.41/56                                                                                          |,164,94.7,False,positional,Lothar Meggendorfer,,,,
 BO0624_88391,598265,63,141,Abendstimmung. Cypressen .37/28 142 Abendstimmung. Pappeln Gegenst.z. Vor.                        |,167,97.2,False,positional,,,Pastelle,,
 BO0624_88391,598266,64,146,Madchen mit Fruchtteller . Leinw.70/50 147 Madchen mit Leier ... Gegenst.z.Vor. Beide bezeichnet. |,172,97.8,False,positional,,,Pastelle,,
@@ -108,7 +108,7 @@ BO0624_88391,598308,106,226,- Smyrna-Teppich.500/600.,275,100.0,False,positional
 BO0624_88391,598309,107,227,Seidenes Spitzendeckchen.,276,92.3,False,positional,,,Textilien,,
 BO0624_88391,598310,108,228,Indischer Shawl. 350/160.,277,92.0,False,positional,,,Textilien,,
 BO0624_88391,598311,109,229,Tirkischer Shawl. 180/160.,278,92.3,False,positional,,,Textilien,,
-BO0624_88391,598312,110,230,Gesticktes Herrenjackett. 18. Jahrhundert.,279,95.1,False,positional,,,Textilien,,
+BO0624_88391,598312,110,230,Gesticktes Herrenjackett. 18. Jahrhundert.,279,95.1,False,positional,,,Textilien,,Sec. XVIII
 BO0624_88391,598313,111,231,"Teezimmer, Dunkel-Mahagoni mit Bronzebeschlagen,bestehend aus: Sofa mit rosa Seidenbezug und Spiegelwand,Vitrine,rundem Tisch, Sessel mit rosa Seidenbezug,3 Stihlen mit gleichem Bezug, Gondel",283,98.9,False,positional,,,Mobel; Uhren; Plastik,,
 BO0624_88391,598314,112,232,"- 233 Elektrischer Lister, Bronze, mit geschliffener Glasschale.",287,100.0,False,title_direct,,,Glas,,
 BO0624_88391,598315,113,234,Standuhr. Hohe 218 cm.,288,90.9,False,positional,,,Mobel; Uhren; Plastik,,
@@ -236,7 +236,7 @@ BO0624_88391,598436,234,366,Tandelei von Schwatenberg. 29 cm.,467,93.9,False,pos
 BO0624_88391,598437,235,367,- Mann mit Sense von Schmidt. 27 cm.,469,100.0,False,positional,,,Mobel; Uhren; Plastik,,
 BO0624_88391,598438,236,368,Diana von Schwatenberg. 40 cm.,470,93.3,False,positional,,,Mobel; Uhren; Plastik,,
 BO0624_88391,598439,237,369,Bronzekopf auf Marmorsockel. 56 cm.,471,94.3,False,positional,,,Mobel; Uhren; Plastik,,
-BO0624_88391,598440,238,370,Germane. Bronzefigur von G. Schreyogg 1901. 60 cm.,472,95.8,False,positional,,,Mobel; Uhren; Plastik,,
+BO0624_88391,598440,238,370,Germane. Bronzefigur von G. Schreyogg 1901. 60 cm.,472,95.8,False,positional,,,Mobel; Uhren; Plastik,,Sec. XX
 BO0624_88391,598441,239,371,"- Gladiator, Figur von Emile Henri, auf Marmorsockel. 37 cm.",474,100.0,False,positional,,,Mobel; Uhren; Plastik,,
 BO0624_88391,598442,240,372,"Schmuckkastchen, Messing, mit Schlange. 17 cm.",475,95.5,False,positional,,,Mobel; Uhren; Plastik,,
 BO0624_88391,598443,241,373,"Paar Messingleuchter, versilbert mit gepreBten Ornamenten. 24 cm.",476,96.9,False,positional,,,Mobel; Uhren; Plastik,,
@@ -398,12 +398,12 @@ BO0624_88391,598598,396,571,Liebesabenteuer. Desgl. 8/6.,783,92.6,False,position
 BO0624_88391,598599,397,572,"Herrenportrat, rund. Sepia. Durchm.6 cm.",784,94.7,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598600,398,573,- Apostel mit Sage. Miniaturbild. Oval 7/6 cm.,786,100.0,False,positional,,,MINIATURE,,
 BO0624_88391,598601,399,574,zeit. 12 Blatt. Farbdrucke.Gr. Fol.,791,93.9,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88391,598602,400,575,- Album des Deutschen Rennsports. Jahrgang 1907 und 1908.,793,100.0,False,positional,,,Holz; Eifenbein,,
+BO0624_88391,598602,400,575,- Album des Deutschen Rennsports. Jahrgang 1907 und 1908.,793,100.0,False,positional,,,Holz; Eifenbein,,Sec. XX
 BO0624_88391,598603,401,576,"Keil und Riecke, Schulatlas.",794,92.9,False,positional,,,Holz; Eifenbein,,
-BO0624_88391,598604,402,577,Frankfurt im Jahre 1848.,795,92.0,False,positional,,,Holz; Eifenbein,,
+BO0624_88391,598604,402,577,Frankfurt im Jahre 1848.,795,92.0,False,positional,,,Holz; Eifenbein,,Sec. XIX
 BO0624_88391,598605,403,578,Bocklin-Mappe.,796,86.7,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598606,404,579,Bildermappe zum Nibelungenring.,797,93.8,False,positional,,,Holz; Eifenbein,,
-BO0624_88391,598607,405,580,Reiterfest 1899.,798,88.2,False,positional,,,Holz; Eifenbein,,
+BO0624_88391,598607,405,580,Reiterfest 1899.,798,88.2,False,positional,,,Holz; Eifenbein,,Sec. XIX
 BO0624_88391,598608,406,581,Deutsche Kunst. M. v. Schwind.,799,92.9,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598609,407,582,"Madonna, von Engeln umgeben. Farbiges Stuckrelief.",800,95.9,False,positional,,,OGGETTI IN PIETRA,,
 BO0624_88391,598610,408,583,Japanische Brieftasche. Ziseliertes und bemaltes Schweinsleder.,801,96.8,False,positional,,,Holz; Eifenbein,,
@@ -416,13 +416,13 @@ BO0624_88391,598616,414,589,"Prachtbibel, von G. Doree illustriert. Lederpressun
 BO0624_88391,598617,415,590,"Th.Klauer,Offenbach a.M.80.",811,92.9,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598618,416,592,592,813,100.0,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598619,417,593,der Sixtina.Je 14/10.,816,90.9,False,positional,,,Holz; Eifenbein,,
-BO0624_88391,598620,418,594,"Frankfurter Wappenkalender von 1836, gerahmt.",817,95.6,False,positional,,,Holz; Eifenbein,,
+BO0624_88391,598620,418,594,"Frankfurter Wappenkalender von 1836, gerahmt.",817,95.6,False,positional,,,Holz; Eifenbein,,Sec. XIX
 BO0624_88391,598621,419,595,"- 596 Lisa Risse, Schneefall am Abend. Orig.Rad.,Pi. 24/30.",819,100.0,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598622,420,597,- 598 Radierung von Rembrandt.Nachbildung. Gerahmt 24/20.,822,100.0,False,positional,REMBRANDT VAN RIJN,,ACQUEFORTI,,
-BO0624_88391,598623,421,599,Frankfurter Taler zur konstituierenden Versammlung 18. Mai 1848.,824,96.9,False,positional,,,Holz; Eifenbein,COLLEZIONE TRILHA,
+BO0624_88391,598623,421,599,Frankfurter Taler zur konstituierenden Versammlung 18. Mai 1848.,824,96.9,False,positional,,,Holz; Eifenbein,COLLEZIONE TRILHA,Sec. XIX
 BO0624_88391,598624,422,600,- 601,826,100.0,False,positional,,,Holz; Eifenbein,,
-BO0624_88391,598625,423,602,"- Gedenktaler zum Frankfurter Schitzenfest, Juli 1862.",828,100.0,False,positional,,,Holz; Eifenbein,,
-BO0624_88391,598626,424,603,"- Gedenktaler zum Furstentag zu Frankfurt, August 1863. deale Nacktheit, herausgegeb. von Karl Vanselow. I. Bd.",830,66.7,False,positional,,,Holz; Eifenbein,,
+BO0624_88391,598625,423,602,"- Gedenktaler zum Frankfurter Schitzenfest, Juli 1862.",828,100.0,False,positional,,,Holz; Eifenbein,,Sec. XIX
+BO0624_88391,598626,424,603,"- Gedenktaler zum Furstentag zu Frankfurt, August 1863. deale Nacktheit, herausgegeb. von Karl Vanselow. I. Bd.",830,66.7,False,positional,,,Holz; Eifenbein,,Sec. XIX
 BO0624_88391,598627,425,604,"Eva im Paradies.Weibl. Freilichtakte nach Aufnahmen. Lieferung 1,2 und 4.Zusammen 11 Blatt.",832,97.8,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598628,426,605,- 606 En Costume d'Eve Etudes de Nu feminin d'apres Nature.34 Blatt,834,100.0,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598629,427,607,- 608,836,100.0,False,positional,,,Holz; Eifenbein,,
@@ -443,10 +443,10 @@ BO0624_88391,598643,441,629,"- Derselbe, Ernst und Scherz. 24 Photos. Fol.",868,
 BO0624_88391,598644,442,630,"- A. Hendschel, Skizzenbuch. 43 Photos. Fol.",870,100.0,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598645,443,631,"Geschichte der vervielfaltigenden Kinste.,Die Rubens-Stecher"",",872,96.7,False,positional,RUBENS PETER PAUL,Scuola di Rubens,Holz; Eifenbein,,
 BO0624_88391,598646,444,632,"Die vervielfaltigendeKunst derGegenwart,red.v.RichardGraul,3Bande.",875,97.0,False,positional,,,Holz; Eifenbein,,
-BO0624_88391,598647,445,633,"Die graphischen Kinste.Jahrg. 1879/86, 1886/7,1887/90, 1892 und 1893.15 Bande. C.G.Pfannschmidt, Moses und die Tochter Pharaos. Steinhausen-Mappe.",877,68.2,False,positional,,,Holz; Eifenbein,,
+BO0624_88391,598647,445,633,"Die graphischen Kinste.Jahrg. 1879/86, 1886/7,1887/90, 1892 und 1893.15 Bande. C.G.Pfannschmidt, Moses und die Tochter Pharaos. Steinhausen-Mappe.",877,68.2,False,positional,,,Holz; Eifenbein,,Sec. XIX
 BO0624_88391,598648,446,636,"B.G. Niebuhr, Griechische Heroengeschichte, an seinen Sohn erzahlt.",880,96.9,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598649,447,637,"Ad. Rosenberg. Der Kupferstich in der Schule und unter dem Ein- 一 20 Blatt Aquarell-Skizzen. Versch. Gr. Konvolut. 20 Blatt Zeichnungen, 1 Litho.4.",881,59.4,False,positional,,,OGGETTI IN RAME,,
 BO0624_88391,598650,448,640,"8 Aquarell-Skizzen, 3 Olstudien. Kl. 4",886,94.6,False,positional,,,Holz; Eifenbein,,
 BO0624_88391,598651,449,641,Rheinansichten. 23 Blatt farbige Lithographien nach Pe ter Becker. Qu.Fol.,887,97.3,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88391,598652,450,642,Paar Flobert-Pistolen in Kasten.,888,93.9,False,positional,,,Holz; Eifenbein,,
-BO0624_88391,598653,451,643,- Bronze-Medaille der Wiener Weltausstellung 1873.,890,100.0,False,positional,,,Holz; Eifenbein,,
+BO0624_88391,598653,451,643,- Bronze-Medaille der Wiener Weltausstellung 1873.,890,100.0,False,positional,,,Holz; Eifenbein,,Sec. XIX

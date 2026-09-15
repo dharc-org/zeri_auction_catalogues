@@ -2,11 +2,11 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_83682,74431,1,I,"l est represente en grandeur naturelle, assis dans un fauteuil en bois dore a dossier carre;vetu d'un habit marron brode d'or, decore de l'ordre du Saint-Esprit et de la croix de saint Louis. Le bras droit accoude sur une table et tenant son epee de la main gauche. La tete nue a che- velure poudree,le visage souriant,il regarde le spectateur.",13,99.9,False,positional,VIGEE-LE BRUN,,OGGETTI IN LEGNO,,
 BO0624_83682,74432,2,2,Portrait de la Reine Marie-Antoinette.,22,97.4,False,positional,VIGEE-LE BRUN,,,,
 BO0624_83682,74433,3,3,Portrait du Roi Louis XVI.,32,96.2,False,positional,VIGEE-LE BRUN,,,,
-BO0624_83682,74434,4,4,"Portrait de Yolande Martine,Gabrielle de Polastron, Duchesse de Polignac, nee en 1749, morte a Vienne, le decembre 1793.",42,92.7,False,positional,VIGEE-LE BRUN,,,,
+BO0624_83682,74434,4,4,"Portrait de Yolande Martine,Gabrielle de Polastron, Duchesse de Polignac, nee en 1749, morte a Vienne, le decembre 1793.",42,92.7,False,positional,VIGEE-LE BRUN,,,,Sec. XVIII
 BO0624_83682,74435,5,5,Madame la Duchesse de Polignac et son enfant.,54,97.8,False,positional,VIGEE-LE BRUN,,,,
 BO0624_83682,74436,6,8,Portrait du Comte Alfred de Vaudreuil enfant.,78,97.8,False,positional,VIGEE-LE BRUN,,,,
 BO0624_83682,74437,7,9,"Portrait de la Vicomtesse de Vaudreuil, nee Riquet de",86,98.1,False,positional,VIGEE-LE BRUN,,,,
-BO0624_83682,74438,8,II,"Grammont,nee en 1768, morte en 18o3.",105,95.8,False,positional,VIGEE-LE BRUN,,,,
+BO0624_83682,74438,8,II,"Grammont,nee en 1768, morte en 18o3.",105,95.8,False,positional,VIGEE-LE BRUN,,,,Sec. XVIII
 BO0624_83682,74439,9,12,Bataille.,115,84.2,False,positional,BREYDEL,,,,
 BO0624_83682,74440,10,13,Marche d’un convoi.,117,92.3,False,positional,BREYDEL,,,,
 BO0624_83682,74441,11,14,Nature morte.,125,88.9,False,positional,CHARDIN,,,,
@@ -24,7 +24,7 @@ BO0624_83682,74452,22,27,"En buste,de face,le corsage recouvert de dentelle,avec
 BO0624_83682,74453,23,28,"Portrait de Dame,en buste.",226,94.3,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83682,74454,24,29,"Portrait de Jeune Dame, en peignoir gris, avec noud rose.",233,97.3,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83682,74455,25,30,"Portrait de Marie-Antoinette dAutriche,lorsquelle etait",238,97.3,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83682,74456,26,31,"Portrait de Marie-Therese, infante dEspagne, Reine de France, en 1660.",247,97.8,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83682,74456,26,31,"Portrait de Marie-Therese, infante dEspagne, Reine de France, en 1660.",247,97.8,False,positional,,ECOLE FRANCAISE,,,Sec. XVII
 BO0624_83682,74457,27,34,Portrait d'Homme.,259,91.4,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83682,74458,28,35,Portrait d'Enfant.,267,91.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83682,74459,29,36,Enfant endormi.,274,90.3,False,positional,BOUCHER,ECOLE FRANCAISE,,,
@@ -98,8 +98,8 @@ BO0624_83682,74526,96,108,Boite en laque rouge de Pekin.,418,93.5,False,position
 BO0624_83682,74527,97,10,"g — Boite carree, une coupe ronde, et boite a gants en laque.",419,98.2,False,positional,,,SCATOLE,,
 BO0624_83682,74528,98,110,"— Figurine d’enfant bacchant assis, en ivoire sculpté.",420,96.2,False,positional,,,BOITES; ETUIS,,
 BO0624_83682,74529,99,111,"— Papeterie en acajou, garnie de neuf medaillons en biscuit de Weedgwood, representant des figures allegoriques.",421,98.2,False,positional,,,ACQUEFORTI,,
-BO0624_83682,74530,100,112,"Miniature ronde sur ivoire,attribuee a Cosway :Portrait de Victoire Rigaud de Vaudreuil, nee en 1775. La tete de face avec chevelure bouclee, une écharpe jaune sur les",425,98.8,False,positional,RIGAUD HYACINTHE,,MINIATURES,,
-BO0624_83682,74531,101,113,"Miniature ronde sur ivoire:Portrait du comte Rigaud de Vaudreuil, Pair de France, 1740-1817. En buste,habit bleu avec chevelure poudree.",427,98.5,False,positional,RIGAUD HYACINTHE,,MINIATURES,,
+BO0624_83682,74530,100,112,"Miniature ronde sur ivoire,attribuee a Cosway :Portrait de Victoire Rigaud de Vaudreuil, nee en 1775. La tete de face avec chevelure bouclee, une écharpe jaune sur les",425,98.8,False,positional,RIGAUD HYACINTHE,,MINIATURES,,Sec. XVIII
+BO0624_83682,74531,101,113,"Miniature ronde sur ivoire:Portrait du comte Rigaud de Vaudreuil, Pair de France, 1740-1817. En buste,habit bleu avec chevelure poudree.",427,98.5,False,positional,RIGAUD HYACINTHE,,MINIATURES,,Sec. XVIII
 BO0624_83682,74532,102,114,"i26 —Cadre en bois sculpté et doré, contenant cinq miniatures du xvin siecle:Portraits de femmes, dont deux de 1Ecole anglaise, sept autres miniatures et un email : Portraits d'hommes du xvire siecle et du Premier Empire.",428,99.1,False,positional,,,MINIATURES,,
 BO0624_83682,74533,103,127,"Portrait de jeune femme de 1époque de la Regence; en buste, corsage jaune et draperie bleue; petite peinture sur bois de forme ovale, dans un cadre italien.",429,98.7,False,positional,,,MINIATURES,,
 BO0624_83682,74534,104,128,"— Trois petits portraits d’hommes, de 1époque Louis XIll,",430,96.4,False,positional,,,MINIATURES,,
@@ -189,11 +189,11 @@ BO0624_83682,74617,187,213,"—— Tasse et son présentoir en porcelaine de Fur
 BO0624_83682,74618,188,214,"—— Sept pieces : tasses, soucoupes en porcelaines diverses, de Saxe, de Naples et autres de decors varies. (Sera divisé.)",583,98.2,False,positional,,,OGGETTI VARI,,
 BO0624_83682,74619,189,215,"— Soupiere et son plat en porcelaine de Berlin, decoree de fleurs. Le bouton du couvercle forme d'une rose.",584,98.1,False,positional,,Scuola di Berlino,PIATTI,,
 BO0624_83682,74620,190,216,"— Cabaret solitaire, en ancienne porcelaine tendre de Sevres, fond gros bleu,a decor de medaillons, de fruits en couleurs et d'ornements en dorure. Il est compose d'un plateau,une theiere, une tasse avec soucoupe, un sucrier et un pot a creme.",590,99.2,False,positional,,,OGGETTI VARI,,
-BO0624_83682,74621,191,218,"- Plateau d'écuelle a deux anses ajourees, en ancienne porcelaine tendre de Sevres, a riche decor de guirlandes et de roses, entre des bandes en gros bleu et dorures. Annee 1778, decor de Niquet",597,98.9,False,positional,,,PORCELAINES,,
+BO0624_83682,74621,191,218,"- Plateau d'écuelle a deux anses ajourees, en ancienne porcelaine tendre de Sevres, a riche decor de guirlandes et de roses, entre des bandes en gros bleu et dorures. Annee 1778, decor de Niquet",597,98.9,False,positional,,,PORCELAINES,,Sec. XVIII
 BO0624_83682,74622,192,219,"— Saladier en ancienne porcelaine tendre de Sevres, fond",598,96.4,False,positional,,,PORCELAINES,,
 BO0624_83682,74623,193,220,"—Ecuelle avec couvercle et son plateau, en ancienne porcelaine tendre de Sevres, decoree de rinceaux de roses.",600,98.1,False,positional,,,PORCELAINES,,
 BO0624_83682,74624,194,221,"-Deux plateaux quadrangulaires en ancienne porcelaine de Sevres, pate tendre, decorée de bouquets de fleurs et de filets bleus.",601,98.4,False,positional,,,PORCELAINES,,
-BO0624_83682,74625,195,222,"— Tasse conique a couvercle et une anse,avec son presentoir en porcelaine tendre, fond gros bleu a reserves, offrant des sujets de ports de mer peints en couleurs dans des ornements en dorure. Lettre Z,1776,décor de Morin, dorure de Cha-",602,99.1,False,positional,,,OGGETTI VARI,,
+BO0624_83682,74625,195,222,"— Tasse conique a couvercle et une anse,avec son presentoir en porcelaine tendre, fond gros bleu a reserves, offrant des sujets de ports de mer peints en couleurs dans des ornements en dorure. Lettre Z,1776,décor de Morin, dorure de Cha-",602,99.1,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_83682,74626,196,223,"— Tasse cylindrique a une anse, avec soucoupe, fond bleu-",604,96.3,False,positional,,,PORCELAINES,,
 BO0624_83682,74627,197,224,"— Petite tasse cylindrique et sa soucoupe, en porcelaine de Sevres, pate tendre, fond mauve et decor en dorure. Année , decor de Genest.",606,91.7,False,positional,,,PORCELAINES,,
 BO0624_83682,74628,198,225,"—Tasse a piedouche en porcelaine tendre de Sevres, decoree de compartiments de fleurettes et de guirlandes de roses réservees sur fond bleu clair rehausse d'or. Annee 179o, decor de Pierre jeune.",608,99.0,False,positional,,,PORCELAINES,,

@@ -13,7 +13,7 @@ BO0624_87821,352889,11,12,Lesende alte Frau.                                    
 BO0624_87821,352890,12,13,| 13. Alter Mann. Pendant z. Vor. Beide bezeichnet.                                    |               |,59.0,100.0,False,positional,C. BIoN,,,,
 BO0624_87821,352891,13,14,14. Stilleben.                                                | Leinw.48/36   |,60.0,69.6,False,positional,C. BIoN,,,,
 BO0624_87821,352892,14,15,Tote Vogel. Pend. z. Vor.                                                        |               |,61.0,93.3,False,positional,C. BIoN,,,,
-BO0624_87821,352893,15,16,| 16. Ansicht von Ems um 1810.                                                         | Gouache 32/50 |,62.0,100.0,False,positional,C. BIoN,,,,
+BO0624_87821,352893,15,16,| 16. Ansicht von Ems um 1810.                                                         | Gouache 32/50 |,62.0,100.0,False,positional,C. BIoN,,,,Sec. XIX
 BO0624_87821,352894,16,17,17. Landschaft mit Bricke. Bezeichnet.                           | Holz 37/50    |,63.0,83.6,False,positional,C. BIoN,,OGGETTI IN LEGNO,,
 BO0624_87821,352895,17,18,18. Hirte mit seiner Herde in einer Landschaft.             | Leinw.27/36   |,64.0,82.6,False,positional,C. BIoN,,,,
 BO0624_87821,352896,18,19,19.Reitergefecht.                                               | Leinw.48/64   |,65.0,73.7,False,positional,C. BIoN,,OGGETTI VARI,,
@@ -115,7 +115,7 @@ BO0624_87821,352991,113,135,"| Adolph SCHREYER , Frankfurt a. M. Waldpartie aus 
 BO0624_87821,352992,114,136,| Baumgruppe. 32/49 ” Beide bezeichnet.                                                     |,213.0,94.3,False,positional,SCHOLZ,,,,
 BO0624_87821,352993,115,138,"| 138. Auf der Wache. Holz 31/41 Bezeichnet. C.SEPANTI,Rom.                                 |",216.0,100.0,False,positional,SCHOLZ,,OGGETTI IN LEGNO,,
 BO0624_87821,352994,116,139,140.                                                 | An der Riviera. Holz 24/35 Desgl. Pendant z.Vor. Beide bezeichnet.                        |,217.0,97.1,False,positional,SCHOLZ,,OGGETTI IN LEGNO,,
-BO0624_87821,352995,117,142,"| SPANISCHE SCHULE DES XVI. JAHRH. Portrait eines Fursten. Leinw.58/48 M. STIFTER, Munchen. |",219.0,97.6,False,positional,SCHOLZ,,,,
+BO0624_87821,352995,117,142,"| SPANISCHE SCHULE DES XVI. JAHRH. Portrait eines Fursten. Leinw.58/48 M. STIFTER, Munchen. |",219.0,97.6,False,positional,SCHOLZ,,,,Sec. XVI
 BO0624_87821,352996,118,143,| Dame mit Federhut. Leinw.27/22                                                            |,220.0,93.5,False,positional,SCHOLZ,,,,
 BO0624_87821,352997,119,144,| Dame im Sammbarett. Pendant z.Vor. Beide bezeichnet.                                      |,221.0,96.1,False,positional,SCHOLZ,,,,
 BO0624_87821,352998,120,145,Architekturlandschaft mit Ruinen.                                       | Holz 29/33        |,224.0,95.6,False,positional,ST0ECKLEI,,OGGETTI IN LEGNO,,
@@ -200,7 +200,7 @@ BO0624_87821,353076,198,225,Wedgwood Medaille.,329.0,89.5,False,positional,,,Ant
 BO0624_87821,353077,199,226,"Kreuz, Bergkristall.",330.0,90.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353078,200,227,"Kusstafel, Bronze.",331.0,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353079,201,228,Wedgwood Vaschen.,332.0,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353080,202,229,"Muskatreiber, 1731.",333.0,89.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353080,202,229,"Muskatreiber, 1731.",333.0,89.5,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87821,353081,203,230,Pulverhorn.,334.0,83.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353082,204,13,231.,335.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353083,205,14,Gurtelschnalle von einem Jagermeister,336.0,96.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -312,10 +312,10 @@ BO0624_87821,353188,310,44,Goldener Ring mit Rosetten.,443.0,94.5,False,position
 BO0624_87821,353189,311,319,Silberner Anhanger mit grunen Steinen.,444.0,94.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353190,312,2,320.,445.0,75.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353191,313,3,Desgl. mit roten Steinen.,446.0,95.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353192,314,321,"Silberne Mcdaille, 1717.",447.0,91.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353192,314,321,"Silberne Mcdaille, 1717.",447.0,91.7,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87821,353193,315,322,Vergoldeter St. Georg-Orden.,448.0,92.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353194,316,323,Silberne Mantelschliesse.,449.0,92.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353195,317,324,Zwei silberne Tabletten von 1420.,450.0,94.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353195,317,324,Zwei silberne Tabletten von 1420.,450.0,94.1,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XV
 BO0624_87821,353196,318,8,325.,451.0,75.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353197,319,9,Paar Ohrgehange mit Steinen.,452.0,96.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353198,320,10,326.,453.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -387,7 +387,7 @@ BO0624_87821,353263,385,374,Desgl. auf Kupfer.,518.0,88.9,False,positional,,,Ant
 BO0624_87821,353264,386,375,Desgl. auf Elfenbein.,519.0,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353265,387,376,Desgl. Wouvermann.,520.0,88.9,False,positional,WOUWERMAN PHILIPS,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353266,388,377,Zwei Silhouetten.,521.0,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353267,389,378,"Kopf, Kelheimer Stein 1781.",522.0,92.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353267,389,378,"Kopf, Kelheimer Stein 1781.",522.0,92.6,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87821,353268,390,379,Desgl.Desgl.Scipio.,523.0,90.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353269,391,34,380.,524.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353270,392,35,Emailbild.,525.0,85.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -482,7 +482,7 @@ BO0624_87821,353358,480,457,Aquarell von Gerard.,625.0,90.5,False,positional,,,A
 BO0624_87821,353359,481,458,"Bissende Magdalena, Capo die Monte.",626.0,94.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353360,482,459,"Herzformige Dose, Capo di Monte.",627.0,93.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353361,483,14,460.,628.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353362,484,15,"Schrauben-Medaille, Bataillen von 1813.",629.0,96.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353362,484,15,"Schrauben-Medaille, Bataillen von 1813.",629.0,96.1,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_87821,353363,485,16,461.,630.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353364,486,17,462.,631.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353365,487,18,463.,632.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -540,7 +540,7 @@ BO0624_87821,353416,538,21,Messing-Rechaud.,683.0,90.9,False,positional,,,Antiqu
 BO0624_87821,353417,539,498,Stock mit Beil.,684.0,87.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353418,540,499,Eiserner Helm.,685.0,86.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353419,541,500,Kupferne Raucherpfanne.,686.0,91.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353420,542,501,Ofenkachel von 1510.,687.0,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353420,542,501,Ofenkachel von 1510.,687.0,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVI
 BO0624_87821,353421,543,502,"Bronzetopf, romische Ausgrabung.",688.0,93.8,False,positional,,Scuola Romana,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353422,544,27,503.,689.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353423,545,28,"Zwei kleine Steinkrige, keltisch.",690.0,95.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -570,7 +570,7 @@ BO0624_87821,353446,568,7,522.,713.0,75.0,False,positional,,,Antiquitaten; Kunst
 BO0624_87821,353447,569,8,523.,714.0,75.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353448,570,9,"Sieben Schluissel, dabei drei silberne.",715.0,97.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353449,571,10,Paar Knopfe mit Jagdszenen.,716.0,94.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353450,572,11,"Zwei Ofenkacheln, 16. Jahrhundert.",717.0,95.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353450,572,11,"Zwei Ofenkacheln, 16. Jahrhundert.",717.0,95.4,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVI
 BO0624_87821,353451,573,524,Eisengeschnittener Torklopfer.,718.0,93.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353452,574,13,525.,719.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353453,575,14,"Verzierung, Bronze.",720.0,91.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -590,7 +590,7 @@ BO0624_87821,353466,588,535,Schrankschloss.,733.0,87.5,False,positional,,,Antiqu
 BO0624_87821,353467,589,536,Desgl.,734.0,71.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353468,590,537,Uhr.,735.0,60.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353469,591,538,"Vase, Bronze.",736.0,84.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353470,592,539,"Buch,1649.",737.0,81.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353470,592,539,"Buch,1649.",737.0,81.8,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVII
 BO0624_87821,353471,593,32,540.,738.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353472,594,33,HolzNetzki. Tiger und Affe. Masan ao.,739.0,95.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353473,595,34,541.,740.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -706,7 +706,7 @@ BO0624_87821,353582,704,639,Samarkandteppich. 200/105,889.0,92.3,False,positiona
 BO0624_87821,353583,705,640,Bergamavorlage. 128/88 640a. Desgl. 110/95,890.0,65.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353584,706,641,Desgl. 160/160,892.0,86.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353585,707,642,Lauferteppich. 285/90,893.0,90.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353586,708,643,"Schlafzimmer des Fursten Bismarck beim Friedensschluss 1871,aus dem Hotel ,zum Schwanen""in Frankfurt a.M. Schwarzes Holz mit Schnitzarbeit. Details umstehend:",894.0,98.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353586,708,643,"Schlafzimmer des Fursten Bismarck beim Friedensschluss 1871,aus dem Hotel ,zum Schwanen""in Frankfurt a.M. Schwarzes Holz mit Schnitzarbeit. Details umstehend:",894.0,98.7,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_87821,353587,709,2,b.Spiegelschrank.,896.0,94.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353588,710,10,Zwei Ubervorhange. k.,904.0,92.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353589,711,644,Figur. Madchen mit Hund. Fayence.,905.0,93.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -895,12 +895,12 @@ BO0624_87821,353771,893,6,799.,1134.0,75.0,False,positional,,,Antiquitaten; Kuns
 BO0624_87821,353772,894,7,Sechs Teller. Zinn. Rokoko.,1135.0,96.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353773,895,8,Glatt.,1136.0,83.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353774,896,800,Zwei Zinnplatten.,1137.0,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353775,897,801,Zinnplatte.Graviert.1772.,1138.0,92.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353775,897,801,Zinnplatte.Graviert.1772.,1138.0,92.3,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87821,353776,898,11,802.,1139.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353777,899,12,Drei Zinnplatten.,1140.0,91.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353778,900,13,803.,1141.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353779,901,14,Zinnplatte 1712.,1142.0,90.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353780,902,804,Desgl.Graviert.1699.,1143.0,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353779,901,14,Zinnplatte 1712.,1142.0,90.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
+BO0624_87821,353780,902,804,Desgl.Graviert.1699.,1143.0,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVII
 BO0624_87821,353781,903,16,805.,1144.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353782,904,806,Lampchen. Hoch auf Fuss. Messing. Lampchen. Hoch auf Fuss. Messing.,1146.0,66.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353783,905,807,Kessel. Bauchig Desgl..,1147.0,90.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -913,8 +913,8 @@ BO0624_87821,353789,911,25,Desgl. Desgl. Desgl. mit Perlenkranz.,1153.0,95.7,Fal
 BO0624_87821,353790,912,26,mit Relief.,1154.0,87.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353791,913,813,Desgl. Desgl.Desgl.,1155.0,89.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353792,914,28,814.,1156.0,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353793,915,29,Buch mit verziertem Pergamenteinband. 1569.,1157.0,96.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353794,916,815,Desgl. desgl. 1757.,1158.0,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353793,915,29,Buch mit verziertem Pergamenteinband. 1569.,1157.0,96.5,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVI
+BO0624_87821,353794,916,815,Desgl. desgl. 1757.,1158.0,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87821,353795,917,816,"Bayerische Bauernhaube, goldgestickt.",1159.0,94.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353796,918,817,"Bauernhaube, desgl.",1160.0,89.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353797,919,818,Desgl. desg1.,1161.0,84.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -1083,5 +1083,5 @@ BO0624_87821,353959,1081,939,Desgl. desgl. Desgl.,1325.0,89.5,False,positional,,
 BO0624_87821,353960,1082,940,Weinkanne. Gerade Form mit Gravierung. Desgl.,1326.0,95.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353961,1083,941,Desgl. Glatt mit Ring. Desgl.,1327.0,92.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87821,353962,1084,942,Desgl. Glatt mit Ringen. Desgl.,1328.0,93.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87821,353963,1085,943,Desgl. Desgl.u.Jahreszah1 1707.Desgl.,1329.0,94.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87821,353963,1085,943,Desgl. Desgl.u.Jahreszah1 1707.Desgl.,1329.0,94.6,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87821,353964,1086,944,Rheinische Kanne.Bauchig mit Riefen. Desgl.,1330.0,95.3,False,positional,,,Antiquitaten; Kunstgegenstande,,

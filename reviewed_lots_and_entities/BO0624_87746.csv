@@ -30,8 +30,8 @@ BO0624_87746,534786,28,29,EIN PAAR PISTOLEN mit verziertem Schloss. Lange 33 cm.
 BO0624_87746,534787,29,30,"KRUzIFIX mit der vollrunden Figur des Heilandes aus Bronze, auf schwarzem Holzkreuz. Hohe der Figur 78 cm.",39,98.6,False,positional,,,Waffen,,
 BO0624_87746,534788,30,31,BRONZEGRUPPE:Hercules mit Deijanira und Nessus. Empire. Hohe 90 cm.,40,97.7,False,positional,,,Waffen,,
 BO0624_87746,534789,31,32,"SILBERRELIEF mit zechenden Bauern in der Schenke. Bez.:A.Arens exec. In Rahmen. Hohe26,5,Breite 34cm.",41,98.5,False,positional,,,CORNICI,,
-BO0624_87746,534790,32,33,"GROSSER WASSERKESSEL aus Kupfer. Der Deckel in getriebener Arbeit mit Buchstaben und der Jahrzahl 1714 verziert.Hohe 50,Diameter 60 cm.",42,98.9,False,positional,,,OGGETTI IN RAME,,
-BO0624_87746,534791,33,34,"HENKELKANNE aus Zinn mit Blumen, den Buchstaben K M W und 1850 verziert. Hohe 22 cm.",43,98.2,False,positional,,,OGGETTI IN LATTA,,
+BO0624_87746,534790,32,33,"GROSSER WASSERKESSEL aus Kupfer. Der Deckel in getriebener Arbeit mit Buchstaben und der Jahrzahl 1714 verziert.Hohe 50,Diameter 60 cm.",42,98.9,False,positional,,,OGGETTI IN RAME,,Sec. XVIII
+BO0624_87746,534791,33,34,"HENKELKANNE aus Zinn mit Blumen, den Buchstaben K M W und 1850 verziert. Hohe 22 cm.",43,98.2,False,positional,,,OGGETTI IN LATTA,,Sec. XIX
 BO0624_87746,534792,34,35,ZWEI ZINNTELLER mit geschweiftem Rande;im Fond das Bildnis Gustav Adolfs.Diameter 23 cm.,44,98.3,False,positional,,,PIATTI,,
 BO0624_87746,534793,35,36,"BESTECK aus Messer, Gabel und Loffel bestehend, reich verziert. Auf der Ruickseite des Loffels ein Wappen.Silber.Mit Marke.Lange 14 cm.",45,98.9,False,positional,,,Waffen,,
 BO0624_87746,534794,36,37,ZWEI SILBERNE HAARPFEILE mit Filigranarbeit verziert. Lange 25 cm.,46,97.7,False,positional,,,Waffen,,
@@ -43,8 +43,8 @@ BO0624_87746,534799,41,42,"WAGEN en miniature aus Silber,mit zwei Pferden bespan
 BO0624_87746,534800,42,43,"ZWEI BUCHSCHLIESSEN, Silber,vergoldet,durchbrochen gearbeitet.",52,97.6,False,positional,,,Waffen,,
 BO0624_87746,534801,43,44,EINE PARTIE FRAGMENTE aus Eisen.,53,95.4,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
 BO0624_87746,534802,44,45,"GEBETBUCH mit ledernem Einband, der in Silber gefasst ist. Mit zwei Email-Medaillons. 8o.",59,98.3,False,positional,,,Waffen,,
-BO0624_87746,534803,45,46,DESGLEICHEN mit Sammteinband und zwei vergoldeten Schliessen mit Emailplattchen. Zurich 1740.80.,60,98.4,False,positional,,,Waffen,,
-BO0624_87746,534804,46,47,DESGLEICHEN mit schwarzem Lederband und Stahlbelag in durchbrochener Arbeit.Zurich 1738.8o.,61,98.4,False,positional,,,Waffen,,
+BO0624_87746,534803,45,46,DESGLEICHEN mit Sammteinband und zwei vergoldeten Schliessen mit Emailplattchen. Zurich 1740.80.,60,98.4,False,positional,,,Waffen,,Sec. XVIII
+BO0624_87746,534804,46,47,DESGLEICHEN mit schwarzem Lederband und Stahlbelag in durchbrochener Arbeit.Zurich 1738.8o.,61,98.4,False,positional,,,Waffen,,Sec. XVIII
 BO0624_87746,534805,47,48,ROSENKRANZ aus Rubinglasperlen und silbernen Zwischensticken. Mit Kreuz und Anhanger in Silberfiligran.,62,98.5,False,positional,,,Waffen,,
 BO0624_87746,534806,48,49,"HALSKETTE,siebenreihig, aus Rubinglasperlen, die von silbernen Perlen durchsetzt werden. Mit silberner Schliesse in Filigranarbeit.",63,98.8,False,positional,,,Waffen,,
 BO0624_87746,534807,49,50,"ETUI mit silbernem Belag, der in ippigster Weise durchbrochen ist. Hohe 14, Breite 7 cm.",64,98.2,False,positional,,,Waffen,,
@@ -88,7 +88,7 @@ BO0624_87746,534844,86,92,"GROSSE BUCHERETAGERE mit Sitztruhe, An den Seiten der
 BO0624_87746,534845,87,93,"GOTHISCHER HALBSCHRANK, schwarz, mit zwei Thuren und einer Schieblade. Erstere sowie die Seitenwandungen sind mit Spitzbogenmusterung geschnitzt. Hohe 95,Breite 93,Tiefe 55 cm.",121,99.1,False,positional,,,Mobel,,
 BO0624_87746,534846,88,94,"HALBSCHRANK,zweithurig, mit Ornamentmusterung in Boule-Arbeit aufs Reichste verziert. Mit weisser Marmorplatte.Hohe 110,Lange 130,Breite 36 cm.",122,98.9,False,positional,,,Mobel,,
 BO0624_87746,534847,89,95,"KOMMODE mit drei Schiebladen, deren Vorderseiten verziert sind.Hohe 86,Lange 122,Breite 61 cm.",123,98.4,False,positional,,,Mobel,,
-BO0624_87746,534848,90,96,"KLEINER HALBSCHRANK mit zwei Thuren und einer Schieblade im Sockel. Hinter den Thuren nischenartige Vertiefungen,um die sich Schiebladen und Verzierungen in heller Intarsia gruppieren. Mit der Jahrzahl 1611.Hohe 90,Breite 68,Tiefe 46em.",124,99.4,False,positional,,,Mobel,,
+BO0624_87746,534848,90,96,"KLEINER HALBSCHRANK mit zwei Thuren und einer Schieblade im Sockel. Hinter den Thuren nischenartige Vertiefungen,um die sich Schiebladen und Verzierungen in heller Intarsia gruppieren. Mit der Jahrzahl 1611.Hohe 90,Breite 68,Tiefe 46em.",124,99.4,False,positional,,,Mobel,,Sec. XVII
 BO0624_87746,534849,91,97,"KABINETSCHRANKCHEN mit zwolf kleinen Schiebladen und zwei Thuren; deren Vorderseiten sowie die Innenseite der verschliessbaren Platte sind mit Rankenwerk in dunkler Intarsia auf hellem Grunde reich verziert. Hohe 50, Lange 77, Breite 35 cm.",125,99.4,False,positional,,,Mobel,,
 BO0624_87746,534850,92,99,"LANGLICHER TISCH auf vier kannelierten Fussen.Die Platte, von einer Messingleiste umzogen, zeigt in bunter Intarsia Rankenwerk und Mascarons, in der Mitte eine Trophae.Hohe 77,Lange 134,Breite 77 cm.",127,99.2,False,positional,,,Mobel,,
 BO0624_87746,534851,93,100,"LEHNSTUHL mit geschweiften Armlehnen. Die Rickenlehne mit Blattwerk geschnitzt. Hohe90,Breite60cm.",128,97.9,False,positional,,,Mobel,,
@@ -96,7 +96,7 @@ BO0624_87746,534852,94,101,"FAUTEUIL mit geschnitztem Gestell und grauem Bezug. 
 BO0624_87746,534853,95,102,"FAUTEUIL mit braunem Bezug. Das Gestell mit Rocaillewerk geschnitzt. Hohe 105,Breite 60 cm.",130,97.8,False,positional,,,SCOMPARTI,,
 BO0624_87746,534854,96,103,"BAUERNSTUHL auf vier abgekanteten Fussen. Die Ricklehne mit Tierkopfen geschnitzt. Mit der Jahrzahl1686. Hohe90,Breite43,Tiefe40cm.",131,98.4,False,positional,,,Mobel,,
 BO0624_87746,534855,97,104,"BAUERNSTUHL auf vier gedrehten Fussen. Die Rickenlehne mit Mascaron zwischen Rollwerk geSchnitzt.Hohe 90,Breite 43,Tiefe 40 cm.",132,98.4,False,positional,,,Mobel,,
-BO0624_87746,534856,98,I,m Vordergrunde naht sich ein bemanntes Segelschiff durch eine starke Brandung dem Ufer. Bez.:Brand.1790.,153,99.5,False,positional,CHRISTIAN BRAND,,,,
+BO0624_87746,534856,98,I,m Vordergrunde naht sich ein bemanntes Segelschiff durch eine starke Brandung dem Ufer. Bez.:Brand.1790.,153,99.5,False,positional,CHRISTIAN BRAND,,,,Sec. XVIII
 BO0624_87746,534857,99,I,"m Vordergrunde derselben bemiht sich ein Jager,ein sich straubendes Madchen an sich zu ziehen, das sein Hund anbellt. Links Ausblick auf die Landschaft;am Boden die Jagdbeute. Auf Leinwand.In Rahmen.Hohe 45,Breite 56cm.",175,99.8,False,positional,,ALTDEUTSCHE SCHULE,CORNICI,,
 BO0624_87746,534858,100,111,",Beim Dorfbader"".",184,87.5,False,positional,JAN BELDEMAKER,,,,
 BO0624_87746,534859,101,112,Mittagsrast.,192,84.6,False,positional,ADRIAN BROUWER,,,,
@@ -105,7 +105,7 @@ BO0624_87746,534861,103,114,Partie aus Venedig.,208,90.0,False,positional,ANTONI
 BO0624_87746,534862,104,I,"n Rahmen.Hohe 263,Breite 125 cm.",228,98.4,False,positional,CORREGGIO; Antonio Allegri,,CORNICI,,
 BO0624_87746,534863,105,117,Interieur,234,81.8,False,positional,J.VAN CRAESBECK,,ARREDAMENTI,,
 BO0624_87746,534864,106,I,m Vordergrunde links vergnigen sich Bauern vor einem Wirtshause. Rechts die von Passanten belebte Dorfstrasse.Bezeichnet.,247,99.6,False,positional,AELBERT CUYP,,,,
-BO0624_87746,534865,107,1605,1691,265,61.5,False,positional,AEL. CUYP; J. VAN GOYEN,,,,
+BO0624_87746,534865,107,1605,1691,265,61.5,False,positional,AEL. CUYP; J. VAN GOYEN,,,,Sec. XVII
 BO0624_87746,534866,108,15961656,## 121 Hollandische Dorflandschaft.,269,100.0,False,positional,AEL. CUYP; J. VAN GOYEN,,,,
 BO0624_87746,534867,109,125,Herrenportrait,297,87.5,False,positional,,FRANZOSISCHE SCHULE,,,
 BO0624_87746,534868,110,126,Herrenportrait,301,87.5,False,positional,,FRANZOSISCHE SCHULE,,,
@@ -115,14 +115,14 @@ BO0624_87746,534871,113,I,"m Innern eines Zimmers sind Herren und Damen teils si
 BO0624_87746,534872,114,I,"m Vordergrunde ein leeres Boot.Bez.:Langhammer. Auf Pappe.In Goldrahmen.Hohe 27,Breite 43 cm.",389,99.4,False,positional,A.LANGHAMMER,,,,
 BO0624_87746,534873,115,I,m Innern eines Zimmers stellt eine Magd eine brennende Lampe zu einer am Tische sitzenden Dame. Bez.,397,99.5,False,positional,NICOLAAS MAES,,,,
 BO0624_87746,534874,116,I,"n der Mitte eines Zimmers sitzt ein Madchen, strickend,auf einem Stuhle.Auf dem Boden ein Hundchen. Bez.:Metsu.",407,99.5,False,positional,GABRIEL METSU,,OGGETTI VARI,,
-BO0624_87746,534875,117,I,"m Vordergrunde derselben ein von Tieren umgebenes Hirtenpaar;rechts Ausblick auf die Landschaft.Bez.:P. Molyn 1624. Auf Holz.In Rahmen. Hohe 43,Breite 73 cm.",425,99.7,False,positional,PIETER MOLYN,,CORNICI,,
+BO0624_87746,534875,117,I,"m Vordergrunde derselben ein von Tieren umgebenes Hirtenpaar;rechts Ausblick auf die Landschaft.Bez.:P. Molyn 1624. Auf Holz.In Rahmen. Hohe 43,Breite 73 cm.",425,99.7,False,positional,PIETER MOLYN,,CORNICI,,Sec. XVII
 BO0624_87746,534876,118,I,"m Vordergrunde der Landschaft sitzt die. Heilige und betrachtet den auf ihrem Schosse liegenden Totenkopf,wahrend zwei Engel zu ihr herniederschweben.",448,99.7,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_87746,534877,119,I,m Vordergrunde derselben Venus und Adonis.,454,98.8,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_87746,534878,120,I,m Vordergrunde Fischer und ein Wanderer mit Pferd.,460,99.0,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_87746,534879,121,I,"m Vordergrunde zwei Figuren an einem Ziehbrunnen; links Bauernhauser, im Hintergrunde der Kirchturm sichtbar.",482,99.5,False,positional,PIETER NOLPE,,,,
 BO0624_87746,534880,122,I,"m Innern einer Bauernstube sitzt eine strickende,alte Bauerin am Boden;rechts ein Bauer mit Krug unter der Thure, daneben eine Bauerin, die einem vor ihr liegenden Manne Lause absucht.Bez.:A.O.",499,99.7,False,positional,ADRIAAN VAN OSTADE,,,,
 BO0624_87746,534881,123,I,"m Vordergrunde einer Landschaft tummelt sich zwischen Zelten viel Bauernvolk. Darunter ein mit Personen besetzter Karren, dessen Pferd an der Krippe steht. Rechts Ausblick auf die Dorfstrasse.Bez.:Isaak van Ostade.",509,99.8,False,positional,ISAAC VAN OSTADE,,,,
-BO0624_87746,534882,124,1626,1659.,515,61.5,False,positional,PIETER DE PUTTER,,,,
+BO0624_87746,534882,124,1626,1659.,515,61.5,False,positional,PIETER DE PUTTER,,,,Sec. XVII
 BO0624_87746,534883,125,158,"Landschaft. m Vordergrunde heimkehrendes Hirtenpaar mit Herde. Auf Leinwand.In Goldrahmen.Hohe 33,Breite 53 cm.",535,94.2,False,positional,JOH.HEINR. ROOS,,,,
 BO0624_87746,534884,126,159,Tierstick.,537,81.8,False,positional,JOH.HEINR. ROOS,,OGGETTI VARI,,
 BO0624_87746,534885,127,I,"in Innern eines Zinmers sucht ein junger Cavalier eine Dame am Kleide an sich zu zichen, wahrend diese, sich straubend, ihm eine brennende Kerze entgegenhalt. Auf Holz.In Goldrahmen.Hohe 51,Breite 40 cm.",555,99.7,False,positional,GOTTFR. SCHALKEN,,OGGETTI IN LEGNO,,
@@ -154,9 +154,9 @@ BO0624_87746,534910,152,201,"BARTOLOZZI, F. 2 Bl. August und November. G.Zocchi 
 BO0624_87746,534911,153,202,"BEHAM,HANS SEB. Judith.B.10. Coloriert.Aus Sammlg.von Hefner-Alteneck.",741,97.1,False,positional,,,Kupferstiche; Holzschnitte,,
 BO0624_87746,534912,154,203,"-Judith.B.11. Schwacher Abdruck,ohne Rand,mehrfach ausgebessert. Aus Sammlung von Hefner-Alteneck.",742,97.9,False,positional,,,Kupferstiche; Holzschnitte,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
 BO0624_87746,534913,155,204,Christus und die Samariterin am Brunnen.B.24. Schwacher Abdruck chne Rand.Aus Sammlung von Hefner-Alteneck.,743,98.1,False,positional,,,Kupferstiche; Holzschnitte,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
-BO0624_87746,534914,156,205,Christus auf Wolken stehend mit der Weltkugel.B.36. 1520. Sehr schoner Abdruck. Aus Sammlung von Hefner-Alteneck.,744,98.2,False,positional,,,Kupferstiche; Holzschnitte,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
-BO0624_87746,534915,157,206,Die Junger Simon und Thaddaus.B.41.1520.,745,95.1,False,positional,,,Kupferstiche; Holzschnitte,,
-BO0624_87746,534916,158,207,Der Apostel Petrus.B.43.1545. Schoner Abdruck des driten Zustandes.Aus Sammlung von Hefner-Alteneck.,747,98.0,False,positional,,,Kupferstiche; Holzschnitte,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
+BO0624_87746,534914,156,205,Christus auf Wolken stehend mit der Weltkugel.B.36. 1520. Sehr schoner Abdruck. Aus Sammlung von Hefner-Alteneck.,744,98.2,False,positional,,,Kupferstiche; Holzschnitte,COLLEZIONE JAKOB VON HEFNER-ALTENECK,Sec. XVI
+BO0624_87746,534915,157,206,Die Junger Simon und Thaddaus.B.41.1520.,745,95.1,False,positional,,,Kupferstiche; Holzschnitte,,Sec. XVI
+BO0624_87746,534916,158,207,Der Apostel Petrus.B.43.1545. Schoner Abdruck des driten Zustandes.Aus Sammlung von Hefner-Alteneck.,747,98.0,False,positional,,,Kupferstiche; Holzschnitte,COLLEZIONE JAKOB VON HEFNER-ALTENECK,Sec. XVI
 BO0624_87746,534917,159,208,Die Planeten.4Bl.B.117-120.,748,92.9,False,positional,,,Kupferstiche; Holzschnitte,,
 BO0624_87746,534918,160,209,Arithmetik.B.124.,751,88.9,False,positional,,,Kupferstiche; Holzschnitte,,
 BO0624_87746,534919,161,210,Das Bauernfest oder die zwolf Monate.6 Bll.B.154-159. Sehr gute Abdrucke.Aus Sammlung von Hefner-Alteneck.,755,98.1,False,positional,,,Kupferstiche; Holzschnitte,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
@@ -168,8 +168,8 @@ BO0624_87746,534924,166,215,Die Auferstehung Christi.,760,92.3,False,positional,
 BO0624_87746,534925,167,216,"Christus und die Apostel.7 Bl. B.23,24,27,29,30,32,33.Holzschnitte. Sehr schone Abdrucke ohne Rand, zum Teil ausgebessert und beschadigt. Kopien. Aus Sammlung von Hefner Alteneck.",762,98.9,False,title_direct,,,Holzschnitte,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
 BO0624_87746,534926,168,217,-Die vier Evangelisten und Paulus und Petrus. 6 Bl. B.49-54. Holzschnitte. Sehr schone Abdrucke mit schmalen Randchen. Auf der Ruckseite Text. Aus Sammlung von Hefner-Alteneck.,763,98.8,False,title_direct,,,Holzschnitte,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
 BO0624_87746,534927,169,218,St.Lukas.Aus B.49-55.,764,90.9,False,positional,,,Kupferstiche; Holzschnitte,,
-BO0624_87746,534928,170,219,-Das grose Turnier. 1506.B.124. Sehr schoner Abdruck.,766,96.1,False,positional,,,Kupferstiche; Holzschnitte,,
-BO0624_87746,534929,171,221,Die Musikantenfamilie.1756.L.77. Vorzuglicher Abdruck mit schmalem Randchen. Aus Sammlung von Hefner-Alteneck.,771,98.2,False,positional,"DIETRICH, CHR. W.E.",,,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
+BO0624_87746,534928,170,219,-Das grose Turnier. 1506.B.124. Sehr schoner Abdruck.,766,96.1,False,positional,,,Kupferstiche; Holzschnitte,,Sec. XVI
+BO0624_87746,534929,171,221,Die Musikantenfamilie.1756.L.77. Vorzuglicher Abdruck mit schmalem Randchen. Aus Sammlung von Hefner-Alteneck.,771,98.2,False,positional,"DIETRICH, CHR. W.E.",,,COLLEZIONE JAKOB VON HEFNER-ALTENECK,Sec. XVIII
 BO0624_87746,534930,172,222,"DURER,ALBRECHT. Christus am Kreuz.(Aus der kl.Passion.) B.13. Schoner Abdruck.Aus Sammlung von Hefner--Alteneck.",772,98.1,False,positional,"DIETRICH, CHR. W.E.",,,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
 BO0624_87746,534931,173,223,Die Auferstehung.B.15. Holzschnitt. Trefflicher Abdruch. Nicht tadellos.,773,97.1,False,title_direct,,,Holzschnitte,,
 BO0624_87746,534932,174,224,Christus am Oelberg. Eisenradierung.B.19.,774,95.1,False,positional,"DIETRICH, CHR. W.E.",,,,
@@ -180,7 +180,7 @@ BO0624_87746,534936,178,228,Der Tod Mariae.B.93. Holzschnitt.Vortrefflicher Abdr
 BO0624_87746,534937,179,229,-Die hl. Jungfrau mit der Krone.B.app.13. Holzschnitt.Vorzuglicher Abdruck.Unbedeutend beschadigt.Aus Sammlung von Hefner-Alteneck.,780,98.4,False,title_direct,,,Holzschnitte,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
 BO0624_87746,534938,180,230,"HOLBEIN, HANS. Allegorische Darstellungen. 7 Bl. Holzschnitte.Rucks. bedruckt.",781,97.3,False,title_direct,HOLBEIN HANS IL GIOVANE,,Holzschnitte,,
 BO0624_87746,534939,181,231,—15 Bl. diverse figurliche Darstellungen. 4°. Ruckseitig bedruckt.,782,96.8,False,positional,"DIETRICH, CHR. W.E.",,,,
-BO0624_87746,534940,182,232,"KRETZSCHMAR, EDUARD. Aus Konig Friedrichs Zeit. Kriegs- und Friedenshelden gez. von Ad. Menzel.1886.12 Bl.Fol. Holzschnitte.",783,98.3,False,title_direct,MENZEL ADOLPH VON,,Holzschnitte,,
+BO0624_87746,534940,182,232,"KRETZSCHMAR, EDUARD. Aus Konig Friedrichs Zeit. Kriegs- und Friedenshelden gez. von Ad. Menzel.1886.12 Bl.Fol. Holzschnitte.",783,98.3,False,title_direct,MENZEL ADOLPH VON,,Holzschnitte,,Sec. XIX
 BO0624_87746,534941,183,233,"LEYDEN, LUKAS VAN. Die Vertreibung aus dem Paradies. B.4. Guter Abdruck ohne Rand, aufgezogen.Aus Sammlung von Hefner-Alteneck.",784,98.4,False,positional,"DIETRICH, CHR. W.E.",,,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
 BO0624_87746,534942,184,234,Die Geschichte des Joseph.5 Bl. B.19-23.Gegens.Kopien. Vorzigliche Abdrucke mit Rand.Aus Sammlung von Hefner-Alteneck.,785,98.3,False,positional,"DIETRICH, CHR. W.E.",,OGGETTI VARI,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
 BO0624_87746,534943,185,235,"REMBRANDT VAN RYN,PAUL. Selbstbildnis mit Scharpe. B.17. Brillanter Abdruck des dritten Zustandes,mit Rand.",786,98.1,False,positional,"DIETRICH, CHR. W.E.",,,,
@@ -206,12 +206,12 @@ BO0624_87746,534962,204,254,"Desgleichen.50Bl.4und 8o. Holzschnitte,zum Teil col
 BO0624_87746,534963,205,256,"—Initiale N,blau mit Bruchteil eines deutschen Gedichtes. 15.Jahrh. Pergament.",807,97.4,False,positional,"DIETRICH, CHR. W.E.",,,,
 BO0624_87746,534964,206,257,Initialen R.und P. 3 Bl.Aus einem Missale. 4.,808,95.5,False,positional,"DIETRICH, CHR. W.E.",,,,
 BO0624_87746,534965,207,258,Initialen-Sammlung A—Z.ca.2540 Bl.,809,94.3,False,positional,"DIETRICH, CHR. W.E.",,,,
-BO0624_87746,534966,208,259,Miroir des Modes.50 Bl.Kostuimbilder um 1840.4°. Farbig.,810,96.4,False,positional,"DIETRICH, CHR. W.E.",,SPECCHI,,
+BO0624_87746,534966,208,259,Miroir des Modes.50 Bl.Kostuimbilder um 1840.4°. Farbig.,810,96.4,False,positional,"DIETRICH, CHR. W.E.",,SPECCHI,,Sec. XIX
 BO0624_87746,534967,209,260,Ordenskostume. 250 Bl.4. Kupferstiche.,811,94.6,False,title_direct,,,Kupferstiche,,
-BO0624_87746,534968,210,261,"HOLTZINGER,DR.H.,Geschichte der Renaissance in Italien von Jacob Burckhardt. 1891. 4°. Geb.",816,97.7,False,positional,,,Bicher,,
+BO0624_87746,534968,210,261,"HOLTZINGER,DR.H.,Geschichte der Renaissance in Italien von Jacob Burckhardt. 1891. 4°. Geb.",816,97.7,False,positional,,,Bicher,,Sec. XIX
 BO0624_87746,534969,211,262,"HOTTENROTH, FRIEDRICH,Trachten der Volker alter und neuer Zeit. Mit 120 Taf.und zahlr. Holzschn.2 Bde.4.Geb.1SS4.",817,98.2,False,positional,,,Bicher,,
-BO0624_87746,534970,212,263,"JAENNICKE,FRIEDR.,Grundriss der Keramik.1880.4.",818,95.7,False,positional,,,Bicher,,
-BO0624_87746,534971,213,264,MISSALE Novum Romanum etc. Joh.Mayr.1734. Mit Kupferstichen. Fol. In Ldrbd.mit schonen Messingbeschlagen.,819,98.0,False,title_direct,,,Kupferstiche,,
-BO0624_87746,534972,214,265,"NEWDORFFER,ANTONIUS,Rechenmeister und Modist. Ao.1598. Schreibvorschriften mit gemaltem Titelblatt und gemalten und in Schreiberzugen ausgefuhrten Initialen. 26 Pergamentblatter in gleichzeitgem,schwarzem Lederband mit Goldpressung. Prachtige Proben alter Schreibkunst. 4. Aus Sammlung von Hefner-Alteneek.",820,99.3,False,positional,,,Bicher,COLLEZIONE JAKOB VON HEFNER-ALTENECK,
+BO0624_87746,534970,212,263,"JAENNICKE,FRIEDR.,Grundriss der Keramik.1880.4.",818,95.7,False,positional,,,Bicher,,Sec. XIX
+BO0624_87746,534971,213,264,MISSALE Novum Romanum etc. Joh.Mayr.1734. Mit Kupferstichen. Fol. In Ldrbd.mit schonen Messingbeschlagen.,819,98.0,False,title_direct,,,Kupferstiche,,Sec. XVIII
+BO0624_87746,534972,214,265,"NEWDORFFER,ANTONIUS,Rechenmeister und Modist. Ao.1598. Schreibvorschriften mit gemaltem Titelblatt und gemalten und in Schreiberzugen ausgefuhrten Initialen. 26 Pergamentblatter in gleichzeitgem,schwarzem Lederband mit Goldpressung. Prachtige Proben alter Schreibkunst. 4. Aus Sammlung von Hefner-Alteneek.",820,99.3,False,positional,,,Bicher,COLLEZIONE JAKOB VON HEFNER-ALTENECK,Sec. XVI
 BO0624_87746,534973,215,266,"RHYN, DR. OTTO HENNE, Kulturgeschichte des deutschen Volkes. 18S6. 2 Bde. Geb. 4°.",821,97.3,False,positional,,,Bicher,,
-BO0624_87746,534974,216,267,"SCHICK, RUDOLF,Tagebuch-Aufzeichnungen aus den Jahren 1S66.1868.1869.iber Arnold Bocklin.1902.Geh.80.",822,98.0,False,positional,,,Bicher,,
+BO0624_87746,534974,216,267,"SCHICK, RUDOLF,Tagebuch-Aufzeichnungen aus den Jahren 1S66.1868.1869.iber Arnold Bocklin.1902.Geh.80.",822,98.0,False,positional,,,Bicher,,Sec. XIX

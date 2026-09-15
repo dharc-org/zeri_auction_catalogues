@@ -51,11 +51,11 @@ BO0624_83764,108992,49,53,Greuze retrouvant sa Mere apres vingt ans d’ab-,496,
 BO0624_83764,108993,50,54,"Vue de Parc,avec piece d'eau,monuments antiques et colonnade.",512,97.6,False,positional,HOIN (CLAUDE),,STAMPE E INCISIONI,,
 BO0624_83764,108994,51,55,Pygmalion et Galatee.,518,93.0,False,positional,HOIN (CLAUDE),,,,
 BO0624_83764,108995,52,56,Paysage Arcadien.,526,91.4,False,positional,HOUEL (C.H.),,,,
-BO0624_83764,108996,53,57,"Troupeaux fuyant devant lorage. mportante composition, magistralement executee a la sanguine, relevee de crayon blanc, signee a droite et datee : 1770, la meil- leure epoque du maitre.",538,90.0,False,positional,HUET (J. B.),,,,
+BO0624_83764,108996,53,57,"Troupeaux fuyant devant lorage. mportante composition, magistralement executee a la sanguine, relevee de crayon blanc, signee a droite et datee : 1770, la meil- leure epoque du maitre.",538,90.0,False,positional,HUET (J. B.),,,,Sec. XVIII
 BO0624_83764,108997,54,58,Amours sur des nuages.,544,93.3,False,positional,HUET (J. B.),,,,
 BO0624_83764,108998,55,59,Combat devant une Eglise episode des guerres de la Republique en Hollande.,549,98.0,False,positional,LANGENDYK(DIRK),,,,
 BO0624_83764,108999,56,60,Etude de Femme assise.,563,93.3,False,positional,LE GUAY,,,,
-BO0624_83764,109000,57,6,l—Louis XVI prete serment a la Constitution (l4 septembre 1791).,571,99.2,False,positional,LE JEUNE,,,,
+BO0624_83764,109000,57,6,l—Louis XVI prete serment a la Constitution (l4 septembre 1791).,571,99.2,False,positional,LE JEUNE,,,,Sec. XVIII
 BO0624_83764,109001,58,62,62—Halte de Cavalerie dans un village.,585,100.0,False,positional,LE PAON (J.-B.),,,,
 BO0624_83764,109002,59,63,## 63—La Visite a la Ferme.,594,100.0,False,positional,LE PRINCE (J.-B.),,,,
 BO0624_83764,109003,60,64,Portrait de Jeune Fille en Bohemienne.,602,97.4,False,positional,LE PRINCE (J.-B.),,,,
@@ -104,7 +104,7 @@ BO0624_83764,109045,102,116,"-NyMPHE AssisE par Falconet, ayant pres d'elle les 
 BO0624_83764,109046,103,117,"- Deux AssieTTes en ancienne porcelaine de Meissen a fond brun rougeatre et ornementation d'or:une croix decoree de rinceaux avec fleur de lys au centre,et sur le marli une frise courante de rinceaux et de fleurs de lys. Pieces tres rares, datant du commencement du xrilre siecle.",1006,99.3,False,positional,LE BRUN CHARLES,Scuola di Meissen,PIATTI,,
 BO0624_83764,109047,104,118,"-Deux AssIETTEs en ancienne faience d'Aprey, a bords contournes avec rocaille rouge ; le fond est decore en polychrome d'oiseaux et d'arbustes,le marli est seme d'insectes ailés.",1007,98.9,False,positional,,,PIATTI,,
 BO0624_83764,109048,105,119,"PAiRE DE souLIERs en ancienne faience de Rouen,a decor polychrome de roses et de myosotis ; haut talon jaune avec",1008,98.2,False,positional,,,PORCELAINES ET FAIENCES,,
-BO0624_83764,109049,106,120,"TAssE A DEGUsTER, en forme de bidet, en ancienne faience de Rouen.Elle est decoree a l'exterieur d'une bordure d'ornement courant en bleu et de godrons jaunes pointilles de noir;a linterieur un vase polychrome et des fleurs detachees. Au-dessous linscription:Cuuon et la date 1750.",1010,99.3,False,positional,,,VASI,,
+BO0624_83764,109049,106,120,"TAssE A DEGUsTER, en forme de bidet, en ancienne faience de Rouen.Elle est decoree a l'exterieur d'une bordure d'ornement courant en bleu et de godrons jaunes pointilles de noir;a linterieur un vase polychrome et des fleurs detachees. Au-dessous linscription:Cuuon et la date 1750.",1010,99.3,False,positional,,,VASI,,Sec. XVIII
 BO0624_83764,109050,107,12,"l - GRAND ET BEAU PLAT RoND en ancienne faience de Rouen, orne au centre d'une large rosace rayonnante et, sur le marli,",1011,99.1,False,positional,,,PIATTI,,
 BO0624_83764,109051,108,122,—SucRiERE en ancienne faience de Rouen en forme de vase balustre a couvercle ajoure.Decor de lambrequins et rinceaux en bleu sur blanc.,1016,98.5,False,positional,,,VASI,,
 BO0624_83764,109052,109,123,"-BaNNETTE de forme contournee en ancienne faience de Rouen a decor polychrome de guirlandes de fleurs, de rinceaux et d'arabesques sur le marli; au centre, un panier",1020,98.8,False,positional,,,PORCELAINES ET FAIENCES,,
@@ -115,7 +115,7 @@ BO0624_83764,109056,113,127,"-Deux AssiETres a bord contourne en ancienne faienc
 BO0624_83764,109057,114,128,"-Deux AssIETTEs en ancienne faience de Rouen,a decor polychrome dit a la corne, avec fleurs, oiseau,papillon et semee d'insectes ailes.Ces pieces, d'une conservation par-",1027,98.8,False,positional,,,PIATTI,,
 BO0624_83764,109058,115,129,"-Deux AssIETTEs en ancienne faience de Rouen a bords contournes,a decor polychrome de feurs detachees, dit:a la tulipe.",1029,98.3,False,positional,,,PIATTI,,
 BO0624_83764,109059,116,130,"—BouquETiERE en forme de corbeille avec anses, de forme contournee, en ancienne faience de Strasbourg, portant le monogramme de J. Hannong. Elle est ornee de rocailles en carmin et decoree au centre de chacun des cotes d'un bouquet de fleurs au naturel.",1030,99.2,False,positional,,,PORCELAINES ET FAIENCES,,
-BO0624_83764,109060,117,132,"—Deux PETITs GRouPEsfaisant pendants:Garconnet recitant le benedicite, Fillette mangeant des eufs. Ces deux pieces, d'une grace exquise et d'un travail tres precieux, signees : J.B.Defernec fecit 1760,ont ete certainement executees en platre comme modeles pour etre reproduites en biscuit a",1035,99.3,False,positional,,,BISCOTTI,,
+BO0624_83764,109060,117,132,"—Deux PETITs GRouPEsfaisant pendants:Garconnet recitant le benedicite, Fillette mangeant des eufs. Ces deux pieces, d'une grace exquise et d'un travail tres precieux, signees : J.B.Defernec fecit 1760,ont ete certainement executees en platre comme modeles pour etre reproduites en biscuit a",1035,99.3,False,positional,,,BISCOTTI,,Sec. XVIII
 BO0624_83764,109061,118,133,"-Deux BAs-RELIErs de forme rectangulaire,legerement cintres et faisant pendants,en terre cuite,par MaRIn. Sur chacun d'eux,on voit une bacchante couchee, lutinee par de petits enfants bacchants.",1042,99.0,False,positional,,,PORCELAINES ET FAIENCES,,
 BO0624_83764,109062,119,134,-BoNBoNNIERE ovALE en cristal de roche avec couvercle s'ouvrant a charniere. Elle est montee en or cisele d'ornements et d'entrelacs en ors de differentes couleurs. Epoque de Louis XVI.,1046,98.9,False,positional,,,OGGETTI VARI,,
 BO0624_83764,109063,120,135,"— BoITE A MoucHEs en nacre etoilee d'or, montee sur argent.",1047,96.5,False,positional,,,SCATOLE,,
@@ -127,7 +127,7 @@ BO0624_83764,109068,125,140,-PETiT cADRE A MIRoIR en bronze ajoure representant 
 BO0624_83764,109069,126,14,l -Miroir avec entourage en os decoupe a jour.Travail du xve siecle.,1062,98.5,False,positional,,,SPECCHI,,
 BO0624_83764,109070,127,142,BoursE de quete en étoffe tissee de quatre armoiries soutenues par des levriers et surmontees de couronnes de marquis.,1063,98.3,False,positional,,,PORCELAINES ET FAIENCES,,
 BO0624_83764,109071,128,143,— AuTRE BouRsE de quete en velours vert brode d’ornements,1064,96.5,False,positional,,,OGGETTI VARI,,
-BO0624_83764,109072,129,144,"a 146 -TRoIs ALMANAcHs:Fanchon la vielleuse.Etrennes du Vaudeville 1804 a Paris chez Janet, etc.",1066,97.9,False,positional,,,PORCELAINES ET FAIENCES,,
+BO0624_83764,109072,129,144,"a 146 -TRoIs ALMANAcHs:Fanchon la vielleuse.Etrennes du Vaudeville 1804 a Paris chez Janet, etc.",1066,97.9,False,positional,,,PORCELAINES ET FAIENCES,,Sec. XIX
 BO0624_83764,109073,130,147,"-PeTIT cADRE a guirlandes en bois sculpte et dore,du temps de Louis XVI, renfermant un dessin representant des",1070,98.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83764,109074,131,148,"-JoLl cADRE du temps de Louis XVI en bois dore et finement sculpte d'oves, de perles et de rais de coeur. Il est surmonte d'un fronton en forme de cartouche avec cuirs et agremente de ruban plisse. Au bas se trouve un autre car-",1072,99.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83764,109075,132,149,"- RoBE (decousue), a corsage et doubles jupes en soie dauphine du temps de Louis XVI, a rayures roses et bleues sur tond blanc a guirlandes et bouquets de fleurs. Excellent etat de conservation et de coloris.",1077,99.0,False,positional,,,PORCELAINES ET FAIENCES,,

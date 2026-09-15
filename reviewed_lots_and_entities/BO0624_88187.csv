@@ -1,15 +1,15 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88187,475432,1,1,Blicher. Brustbild. Schabkunstblatt. X25 cm.Schwarzer Rahmen.,7,71.7,False,none,,,CORNICI,,
-BO0624_88187,475433,2,2,"Bliicher. Friedrich Wilhelm Ill. an Bluchers Krankenbett 1819. Stahlstich von Randel, Berlin. 20X28 cm.Goldrahmen.",9,99.1,False,none,,Scuola di Berlino,,,
+BO0624_88187,475433,2,2,"Bliicher. Friedrich Wilhelm Ill. an Bluchers Krankenbett 1819. Stahlstich von Randel, Berlin. 20X28 cm.Goldrahmen.",9,99.1,False,none,,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475434,3,3,Blicher. Das Grab Blichers in Kribbelwitz. Kolorierte Lithographie. X45 cm.Kirschrahmen.,10,85.3,False,none,,,STAMPE E INCISIONI,,
 BO0624_88187,475435,4,4,Blichers Ankunft im Elysium. Farbige Lithographie. Nurnberg bei Campe. X21 cm.Schwarzer Rahmen.,12,83.8,False,none,,Scuola di Norimberga,CORNICI,,
 BO0624_88187,475436,5,5,Aquarell. Die Kinastburg bei Hirschberg im Riesengebirge. X24 cm.Goldrahmen.,17,84.6,False,positional,C.A.BRANCHE,,,,
 BO0624_88187,475437,6,6,Laetitia Buonaparte.Lithographie von A. Spieb und Dupre. 13X17 cm. Kirschrahmen.,19,98.7,False,positional,C.A.BRANCHE,,STAMPE E INCISIONI,,
-BO0624_88187,475438,7,7,"Bildnis eines Arztes. Dr. Joh. August Ehrlich in blauem Rocke mit weibem Jabot, in der Hand ein Messer haltend. Pastell bez:R.A. Ehrlich, pinxit 1828. 60X40 cm.Goldrahmen. Abbildung Tafel II.",23,99.5,False,positional,R.A.EHRLICH,,,,
+BO0624_88187,475438,7,7,"Bildnis eines Arztes. Dr. Joh. August Ehrlich in blauem Rocke mit weibem Jabot, in der Hand ein Messer haltend. Pastell bez:R.A. Ehrlich, pinxit 1828. 60X40 cm.Goldrahmen. Abbildung Tafel II.",23,99.5,False,positional,R.A.EHRLICH,,,,Sec. XIX
 BO0624_88187,475439,8,8,"Friedrich August, Kurfirst von Sachsen. C. G. Rasp, nach Anton Graff.",24,98.4,False,positional,R.A.EHRLICH,,,,
 BO0624_88187,475440,9,9,Friedrich der Grosse. Kupferstich von J. F.Bause. 44X34 cm.Kirschrahmen.,26,98.6,False,positional,R.A.EHRLICH,,OGGETTI IN RAME,,
-BO0624_88187,475441,10,10,J. W.von Goethe. Kupferstich von C.A. Schwerdtgeburth.1832. X20 cm. Nubbaumrahmen.,27,82.1,False,positional,R.A.EHRLICH,,OGGETTI IN RAME,,
-BO0624_88187,475442,11,11,Goschen.1752-1828. Lithographie nach S. Graenicker. 15X13 cm.Schwarzer Rahmen.,29,98.0,False,positional,R.A.EHRLICH,,CORNICI,,
+BO0624_88187,475441,10,10,J. W.von Goethe. Kupferstich von C.A. Schwerdtgeburth.1832. X20 cm. Nubbaumrahmen.,27,82.1,False,positional,R.A.EHRLICH,,OGGETTI IN RAME,,Sec. XIX
+BO0624_88187,475442,11,11,Goschen.1752-1828. Lithographie nach S. Graenicker. 15X13 cm.Schwarzer Rahmen.,29,98.0,False,positional,R.A.EHRLICH,,CORNICI,,Sec. XVIII
 BO0624_88187,475443,12,12,"A.Graff.Selbstbildnis.Radierung. 17X12,5 cm. Kirschholzrahmen.",30,97.5,False,positional,R.A.EHRLICH,,ACQUEFORTI,,
 BO0624_88187,475444,13,13,A. Graff. Der Herr Hofmahler Graff mit seiner Familie. Schabkunstblatt.,31,97.8,False,positional,R.A.EHRLICH,,STAMPE E INCISIONI,,
 BO0624_88187,475445,14,14,Carl August von Hardenberg. Stich von C. Pfeiffer nach F. Lieder.,33,97.6,False,positional,R.A.EHRLICH,,,,
@@ -18,12 +18,12 @@ BO0624_88187,475447,16,16,Andreas Hofer. Kolorierter Stich von L. Wolf. x31 cm.S
 BO0624_88187,475448,17,17,W.v.Humboldt. Stich von J. L. Raab nach C. Kruiger. 14X12 cm. Schwarzer Rahmen.,38,98.0,False,positional,R.A.EHRLICH,,CORNICI,,
 BO0624_88187,475449,18,18,Friedrich Ludwig Jahn. Brustbild. Lithographie. 45X28 cm. Schwarzer Rahmen.,39,97.9,False,positional,R.A.EHRLICH,,CORNICI,,
 BO0624_88187,475450,19,19,Heinrich von Kleist. Lithographie. 26X20 cm.Kirschholzrahmen.,40,97.5,False,positional,R.A.EHRLICH,,STAMPE E INCISIONI,,
-BO0624_88187,475451,20,20,"Erzherzog Karl. Lithographie von F.V. Durmer, Wien 1798. 35X22 cm.Schwarzer Rahmen.",41,98.1,False,positional,R.A.EHRLICH,Scuola Viennese,CORNICI,,
+BO0624_88187,475451,20,20,"Erzherzog Karl. Lithographie von F.V. Durmer, Wien 1798. 35X22 cm.Schwarzer Rahmen.",41,98.1,False,positional,R.A.EHRLICH,Scuola Viennese,CORNICI,,Sec. XVIII
 BO0624_88187,475452,21,21,"Die Familie Theodor Korners. Emma Korner, Theodor Korner als Kind, Minna Korner, Dr. Chr. Gottfried Korner und Dora Stock.",42,98.7,False,positional,R.A.EHRLICH,,,,
 BO0624_88187,475453,22,22,"Emma Korner. Selbstbildnis,oval. Bleistift,leicht getont. 16X14 cm.NuBbaumrahmen.",44,98.1,False,positional,R.A.EHRLICH,,,,
 BO0624_88187,475454,23,23,Minna Korner geb. Stock. Photographie nach A.Graff.,45,97.0,False,positional,R.A.EHRLICH,,,,
 BO0624_88187,475455,24,24,Theodor Korner in einer Landschaft stehend. Olgemalde. Schwarzer Rahmen. Abbildung Tafel I.,47,98.3,False,positional,R.A.EHRLICH,,CORNICI,,
-BO0624_88187,475456,25,25,"Theodor Korner. Brustbild, 1813. Stich, oval. 10X8,5 cm. Mahagonirahmen.",48,97.7,False,positional,R.A.EHRLICH,,,,
+BO0624_88187,475456,25,25,"Theodor Korner. Brustbild, 1813. Stich, oval. 10X8,5 cm. Mahagonirahmen.",48,97.7,False,positional,R.A.EHRLICH,,,,Sec. XIX
 BO0624_88187,475457,26,26,"Theodor Korner. Brustbild. Kupferstich. X7,5 cm.Mahagonirahmen.",49,73.5,False,positional,R.A.EHRLICH,,OGGETTI IN RAME,,
 BO0624_88187,475458,27,27,Theodor Korner. Stich von Wegner und Sieger. X23 cm. Schwarzer Rahmen.,51,75.7,False,positional,R.A.EHRLICH,,CORNICI,,
 BO0624_88187,475459,28,28,Theodor Korner. Miniaturbildnis auf Elfenbein. Schwarzer Rahmen.,53,97.6,False,positional,R.A.EHRLICH,,CORNICI,,
@@ -33,9 +33,9 @@ BO0624_88187,475462,31,31,Theodor Korner. Photographie nach dem Bilde von C. v.K
 BO0624_88187,475463,32,32,Theodor Korner. Brustbild.Lithographie von M. Knabig nach Emma,58,97.6,False,positional,R.A.EHRLICH,,STAMPE E INCISIONI,,
 BO0624_88187,475464,33,33,Theodor Korner. Brustbild. Stahlstich von B. Dorbeck nach Emma Korner. 25X17 cm.Goldrahmen.,60,98.3,False,positional,R.A.EHRLICH,,,,
 BO0624_88187,475465,34,34,Theodor Korner. Brustbild. Lithographie. 10X8 cm.Kirschrahmen.,61,97.5,False,positional,R.A.EHRLICH,,STAMPE E INCISIONI,,
-BO0624_88187,475466,35,35,Theodor Korners Tod am 26.Aug.1813. Lithographie. 18X25 cm. Schwarzer Rahmen.,62,98.0,False,positional,R.A.EHRLICH,,CORNICI,,
-BO0624_88187,475467,36,36,Theodor Korners Tod. Steindruck von Kault und Claussen. Loos zur NationalKornerfeier.1863. Schwarzer Rahmen.,63,98.6,False,positional,R.A.EHRLICH,,CORNICI,,
-BO0624_88187,475468,37,37,Theodor Korners Tod bei Gadebusch. Stich von D. Bergen 1822 nach Carl Schultze. 34X24 cm. Schwarzer Rahmen.,64,98.6,False,positional,R.A.EHRLICH,,CORNICI,,
+BO0624_88187,475466,35,35,Theodor Korners Tod am 26.Aug.1813. Lithographie. 18X25 cm. Schwarzer Rahmen.,62,98.0,False,positional,R.A.EHRLICH,,CORNICI,,Sec. XIX
+BO0624_88187,475467,36,36,Theodor Korners Tod. Steindruck von Kault und Claussen. Loos zur NationalKornerfeier.1863. Schwarzer Rahmen.,63,98.6,False,positional,R.A.EHRLICH,,CORNICI,,Sec. XIX
+BO0624_88187,475468,37,37,Theodor Korners Tod bei Gadebusch. Stich von D. Bergen 1822 nach Carl Schultze. 34X24 cm. Schwarzer Rahmen.,64,98.6,False,positional,R.A.EHRLICH,,CORNICI,,Sec. XIX
 BO0624_88187,475469,38,38,Korners Leichenbegingnis.,65,94.1,False,positional,R.A.EHRLICH,,,,
 BO0624_88187,475470,39,39,Theodor Korner auf dem Totenbette von Olivier gezeichnet. Schwarzer Rahmen.,67,98.0,False,positional,R.A.EHRLICH,,CORNICI,,
 BO0624_88187,475471,40,40,Theodor Korners Grab in Woebbelin.Lithographie von J. A. Darnstadt. 25X20 cm.Schwarzer Rahmen.,68,98.4,False,positional,R.A.EHRLICH,,CORNICI,,
@@ -58,16 +58,16 @@ BO0624_88187,475487,56,52,Theodor Korner. Das Heldengrab.Acrostichon von F. W. L
 BO0624_88187,475488,57,53,Theodor Korners Heldentod. Originaltuschzeichnung von Loeittot.,92,97.6,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475489,58,54,Theodor Korner. Letzter Gesang im Lager. Seine Gedichte vorlesend.,94,97.7,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475490,59,55,Gerhard von Kigelgen. Stich von Gottschick. Oval. 11X10 cm.Kirschrahmen.,96,97.8,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475491,60,56,Mort du general Melissino. 1813 vor Dresden. Eau forte von Chretien Godefroy Schultze und Ephraim Gottlieb Kruiger nach Frederic Mathaei. 65X50 cm. Schwarzer Rahmen.,97,99.1,False,positional,THEODOR KORNER,,CORNICI,,
+BO0624_88187,475491,60,56,Mort du general Melissino. 1813 vor Dresden. Eau forte von Chretien Godefroy Schultze und Ephraim Gottlieb Kruiger nach Frederic Mathaei. 65X50 cm. Schwarzer Rahmen.,97,99.1,False,positional,THEODOR KORNER,,CORNICI,,Sec. XIX
 BO0624_88187,475492,61,3,57.Moream. Brustbild.Stich von F. W. Nettling nach J. Guerin. 12X15 cm.Kirschrahmen.,98,98.7,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475493,62,4,58.General Moreau auf dem Totenbette. Stich. 1813 by John Cardini.,99,98.4,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475493,62,4,58.General Moreau auf dem Totenbette. Stich. 1813 by John Cardini.,99,98.4,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475494,63,5,32X48 cm.Kirschrahmen.,100,95.5,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475495,64,59,Friedrich de la Motte -Fouque. Stich von Fr.Fleischmann nach W.Hensel 1818. 33X23 cm.Goldrahmen.,101,75.8,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475495,64,59,Friedrich de la Motte -Fouque. Stich von Fr.Fleischmann nach W.Hensel 1818. 33X23 cm.Goldrahmen.,101,75.8,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475496,65,60,"Napoleon Buomaparte. Premier Consul. Kolorierter Stich von Chataramer,",103,97.8,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475497,66,9,Paris. 36X28 cm.Schwarzer Rahmen.,104,96.9,False,positional,THEODOR KORNER,,CORNICI,,
 BO0624_88187,475498,67,10,61.Napoleon I. durch ein Fernrohr feindliche Truppen betrachtend. Farbige Lithographie. 25X19 cm.Goldrahmen.,105,98.6,False,positional,THEODOR KORNER,,STAMPE E INCISIONI,,
-BO0624_88187,475499,68,11,62.Napoleon I. Doppelbildnis. Schabkunstblatt von Meile nach Girodet Trioson 1812. 24X20 cm.Goldrahmen.,106,98.5,False,positional,THEODOR KORNER,,STAMPE E INCISIONI,,
-BO0624_88187,475500,69,12,"63.Napoleon I. Spottblatt auf .... Triumph des Jahres 1813, den Deutschen zum neuen Jahr. Kolorierter Kupferstich.",107,98.6,False,positional,THEODOR KORNER,,OGGETTI IN RAME,,
+BO0624_88187,475499,68,11,62.Napoleon I. Doppelbildnis. Schabkunstblatt von Meile nach Girodet Trioson 1812. 24X20 cm.Goldrahmen.,106,98.5,False,positional,THEODOR KORNER,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_88187,475500,69,12,"63.Napoleon I. Spottblatt auf .... Triumph des Jahres 1813, den Deutschen zum neuen Jahr. Kolorierter Kupferstich.",107,98.6,False,positional,THEODOR KORNER,,OGGETTI IN RAME,,Sec. XIX
 BO0624_88187,475501,70,13,12X8cm. Mahagonirahmen.,108,93.3,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475502,71,14,"64.Napoleons Geist und Grab. Kupferstich. 12X16,5 cm. Mahagonirahmen.",109,97.7,False,positional,THEODOR KORNER,,OGGETTI IN RAME,,
 BO0624_88187,475503,72,65,"Napoleon I. und Philipp Egalite. Vexiersilhouette. 7X6,5 cm.Kirschrahmen.",110,97.9,False,positional,THEODOR KORNER,,,,
@@ -80,18 +80,18 @@ BO0624_88187,475509,78,70,M. von Schenkendorf. Brustbild. Stahlstich. X20 cm. Sc
 BO0624_88187,475510,79,71,Major F.v. Sehill. Schabkunstblatt von Gebr. Henschel. 30X24 cm.Kirschrahmen.,125,98.0,False,positional,THEODOR KORNER,,STAMPE E INCISIONI,,
 BO0624_88187,475511,80,72,Major von Schill. Kolorierte Lithographie von Jean Haas. X22 cm. Schwarzer Rahmen.,126,80.0,False,positional,THEODOR KORNER,,CORNICI,,
 BO0624_88187,475512,81,73,"Friedrich von Schiller. Brustbild, den Kopf auf die Hand gestitzt.",128,97.7,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475513,82,74,Ludwig Tieck. Lithographie von Fr.Hanfstangl 1837 nach C. Vogel. X34 cm.Goldrahmen.,130,85.3,False,positional,THEODOR KORNER,,STAMPE E INCISIONI,,
+BO0624_88187,475513,82,74,Ludwig Tieck. Lithographie von Fr.Hanfstangl 1837 nach C. Vogel. X34 cm.Goldrahmen.,130,85.3,False,positional,THEODOR KORNER,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88187,475514,83,75,A. Thiedge.Lithographie von Mars. 24X19 cm. Schwarzer Rahmen.,132,97.4,False,positional,THEODOR KORNER,,CORNICI,,
 BO0624_88187,475515,84,76,Carl Maria v.Weber. Geburtshaus. Wohnung und Grabmal. Gestochen,133,97.6,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475516,85,77,Carl Maria von Weber in schwarzem Rock und weiber Krawatte. Olbild. Leinwand.19X16 cm.Goldrahmen.,135,98.4,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475517,86,78,Abraham Gottlob Werner. Gestochen von Fr.Fleischmann nach Demiani. Oval. 16X11 cm.Kirschrahmen.,136,98.4,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475518,87,79,"Die Schlacht bei Leipzig. Kolorierter Stich von Lorenz Rugendas, Augsburg. X60 cm.Schwarzer Rahmen.",137,84.0,False,positional,THEODOR KORNER,,CORNICI,,
 BO0624_88187,475519,88,80,Einweihung des Denkmals auf dem Schlachtfelde von Leipzig. Lithographie nach C. Bohme. 30X42 cm.Schwarzer Rahmen.,139,98.6,False,positional,THEODOR KORNER,,CORNICI,,
-BO0624_88187,475520,89,81,Einzug der alliierten Souverane in Paris 1814. Englischer Farbstich. 22X32 cm. Schwarzer Rahmen.,140,98.4,False,positional,THEODOR KORNER,,CORNICI,,
+BO0624_88187,475520,89,81,Einzug der alliierten Souverane in Paris 1814. Englischer Farbstich. 22X32 cm. Schwarzer Rahmen.,140,98.4,False,positional,THEODOR KORNER,,CORNICI,,Sec. XIX
 BO0624_88187,475521,90,82,"Die Freiheitshelden. Korner, Schiller, Andreas Hofer. Aquarell, rund. Durchmesser 8.5 cm. Kirschrahmen.",141,98.4,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475522,91,83,"Nahrstand, Wehrstand, Lehrstand. Nurnberg bei Campe.",142,97.0,False,positional,THEODOR KORNER,Scuola di Norimberga,,,
 BO0624_88187,475523,92,84,"Ansicht eines Schlosses. Farbige Lithographie von E. Hackert, Sagan. X34 cm.Brauner Rahmen.",144,83.7,False,positional,THEODOR KORNER,,CORNICI,,
-BO0624_88187,475524,93,85,Finf Aquarelle von Soldaten des Litzowschen Freikorps. 1813. Gemeinsamer schwarzer Rahmen.,146,98.3,False,positional,THEODOR KORNER,,CORNICI,,
+BO0624_88187,475524,93,85,Finf Aquarelle von Soldaten des Litzowschen Freikorps. 1813. Gemeinsamer schwarzer Rahmen.,146,98.3,False,positional,THEODOR KORNER,,CORNICI,,Sec. XIX
 BO0624_88187,475525,94,86,Farbiger Stich eines Grabdenkmals. 15X20 cm.Goldrahmen.,147,97.2,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475526,95,87,Der Erzihler. Galvanographie von Leo Schoninger nach L. Loffler. 60X65 cm.Goldrahmen.,148,98.2,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475527,96,88,"Drei kolorierte Stiche.Bliicher,Lord Wellington,Andreas Hofer. Ohne Rahmen.",149,98.0,False,positional,THEODOR KORNER,,CORNICI,,
@@ -124,7 +124,7 @@ BO0624_88187,475553,122,4,114.Lichtputzschere. Stahl.,191,96.2,False,positional,
 BO0624_88187,475554,123,115,"Zahnstocherbehalter. Leder, goldverziert.",192,95.0,False,positional,,,RAHMEN,,
 BO0624_88187,475555,124,116,Theodor Korners Roter Adlerorden in rotem Saffianfutteral.,193,96.6,False,positional,,,RAHMEN,,
 BO0624_88187,475556,125,117,Theodor Korners Stiefelanzieher.,194,93.9,False,positional,,,RAHMEN,,
-BO0624_88187,475557,126,118,Medaille fur Pflichttreue im Kriege 1815. Eisen.,195,95.8,False,positional,EISEN CHARLES,,RAHMEN,,
+BO0624_88187,475557,126,118,Medaille fur Pflichttreue im Kriege 1815. Eisen.,195,95.8,False,positional,EISEN CHARLES,,RAHMEN,,Sec. XIX
 BO0624_88187,475558,127,119,Notizblock in Futteral.,196,91.7,False,positional,,,RAHMEN,,
 BO0624_88187,475559,128,120,Siegel mit Schillers Bildnis.,197,93.3,False,positional,,,RAHMEN,,
 BO0624_88187,475560,129,121,Necessairetasche.,198,88.9,False,positional,,,RAHMEN,,
@@ -158,7 +158,7 @@ BO0624_88187,475587,156,144,Biiste Friedrich von Schillers. Gips. Hohe:55 cm.,22
 BO0624_88187,475588,157,145,Totenmaske Friedrich von Schillers. Gips.,229,95.1,False,positional,,,RAHMEN,,
 BO0624_88187,475589,158,146,Totenmaske Joh.Wolfgang von Goethes.,230,94.6,False,positional,,,RAHMEN,,
 BO0624_88187,475590,159,147,Anhinger aus Goldfiligran fur eine Locke eingerichtet. Durchmesser 4 cm.,231,83.5,False,positional,,,RAHMEN,,
-BO0624_88187,475591,160,148,"Opernglas. Bronze und Elfenbein. Pariser Arbeit um 1810, in Futteral. Abbildung Tafel V.",233,97.6,False,positional,,,RAHMEN,,
+BO0624_88187,475591,160,148,"Opernglas. Bronze und Elfenbein. Pariser Arbeit um 1810, in Futteral. Abbildung Tafel V.",233,97.6,False,positional,,,RAHMEN,,Sec. XIX
 BO0624_88187,475592,161,149,"Glaspokal mit Medaillon M. Vergoldeter Rand,mit Deckel. Hohe:20 cm",234,97.0,False,positional,,,RAHMEN,,
 BO0624_88187,475593,162,150,"Glasbecher, mehreckig. Violettes und blaues Glas, mit ausgeschliffenem Rankendekor. Hohe:14 cm.",235,83.2,False,positional,,,RAHMEN,,
 BO0624_88187,475594,163,151,Rubinglas mit Dekor eines laufendes Hirsches. Hohe:13 cm.,237,96.5,False,positional,,,RAHMEN,,
@@ -167,7 +167,7 @@ BO0624_88187,475596,165,153,"Napoleon I.als Kaiser, reitend. Biskuit, vergoldet 
 BO0624_88187,475597,166,154,Friedrich von Schiller. Portraitbuiste. Biskuit. Hohe 20 cm.,249,96.6,False,positional,,,PORZELLANE,,
 BO0624_88187,475598,167,155,Johann Wolfgang von Goethe. Portraitbuste. Biskuit.,250,96.0,False,positional,,,PORZELLANE,,
 BO0624_88187,475599,168,156,"Die Konigin Luise mit ihren beiden altesten Sohnen auf einer Bank sitzend, mit einem aufgeschlagenen Buche auf den Knien. Neben ihr die beiden Prinzen. Biskuit. Hohe 45 cm. Abbildung Tafel II.",252,98.9,False,positional,,,PORZELLANE,,
-BO0624_88187,475600,169,157,"Friedrich der Grosse in lassiger Haltung reitend. von Schubert 1779/80. Furstenberger Porzellan, weiB, ohne Marke. Hohe 35 cm. Abbildung Tafel III.",253,98.6,False,positional,,,PORZELLANE,,
+BO0624_88187,475600,169,157,"Friedrich der Grosse in lassiger Haltung reitend. von Schubert 1779/80. Furstenberger Porzellan, weiB, ohne Marke. Hohe 35 cm. Abbildung Tafel III.",253,98.6,False,positional,,,PORZELLANE,,Sec. XVIII
 BO0624_88187,475601,170,158,"Allegorische Gruppe. Pallas Athene von Amor mit einem Pfeile bedroht, neben ihr ein schlafender Krieger.Weib. Berlin. Sceptermarke. Hohe 24 cm. Abbildung Tafel III.",254,98.7,False,positional,,Scuola di Berlino,OGGETTI VARI,,
 BO0624_88187,475602,171,159,"Zwei Meissner Vasen in Urnenform mit durchbrochenem Deckel. Die Leibung gelb getont mit Streublumen und groBeren Blumensticken, sowie Silhouetten auf weibem Grunde in Blumenkranzen. Schlangenhenkel. Ver",255,99.0,False,positional,,,VASI,,
 BO0624_88187,475603,172,160,"Berliner Teeservice,bestehend aus:",257,94.3,False,positional,,Scuola di Berlino,PORZELLANE,,
@@ -193,46 +193,46 @@ BO0624_88187,475622,191,176,"Porzellanschale mit Biskuitvogeln, vergoldet. Walde
 BO0624_88187,475623,192,177,Berliner Gruppe. Die Architektur. Zwei Putten mit Kapital und Richtscheit. Hohe 15 cm.,309,97.6,False,positional,,Scuola di Berlino,OGGETTI VARI,,
 BO0624_88187,475624,193,178,Waldenburger Vase. Hohe 15 cm.,310,93.3,False,positional,,,VASI,,
 BO0624_88187,475625,194,179,"Flache Vase mit Reliefblumen, vergoldet. Hohe 10 cm.",311,96.1,False,positional,,,VASI,,
-BO0624_88187,475626,195,180,Seitengewehr der sachsischen Leibgarde. Modell 1806.,315,96.2,False,positional,,,WAFFEN,,
-BO0624_88187,475627,196,181,Seitengewehr der sachsischen Grenadiere. Modell 1810.,316,96.2,False,positional,,,WAFFEN,,
-BO0624_88187,475628,197,182,Seitengewehr des Rgt. Prinz Clemens. Modell 1810.,317,95.8,False,positional,,,WAFFEN,,
-BO0624_88187,475629,198,183,Sachsisch-Polnisches Seitengewehr. Modell 1760.,318,95.7,False,positional,,,WAFFEN,,
-BO0624_88187,475630,199,5,184.Osterreichisches Seitengewehr. Modell 1800.,319,97.8,False,positional,,,WAFFEN,,
-BO0624_88187,475631,200,6,185.Franzosisches Seitengewehr. Modell 1810. Abbildung Tafel VI.,320,98.4,False,positional,,,WAFFEN,,
-BO0624_88187,475632,201,186,Sachsischer Generalsdegen. Modell 1800.,321,94.9,False,positional,,,WAFFEN,,
-BO0624_88187,475633,202,8,187.Sachsischer Generalsdegen. Modell 1806.,322,97.6,False,positional,,,WAFFEN,,
-BO0624_88187,475634,203,188,Sachsischer Kavalleriesibel. Modell 1800. Abbildung Tafel VI.,323,96.7,False,positional,,,WAFFEN,,
-BO0624_88187,475635,204,10,189.Osterreichischer Kavalleriesabel. Modell 1804.,324,97.0,False,positional,,,WAFFEN,,
-BO0624_88187,475636,205,190,Englischer Kavalleriesabel. Modell 1810. Abbildung Tafel VI.,325,76.8,False,positional,,,WAFFEN,,
-BO0624_88187,475637,206,191,Russischer Offizierskavalleriesabel.Modell 1810.,327,95.9,False,positional,,,WAFFEN,,
-BO0624_88187,475638,207,192,Preussischer Offizierssabel. Modell 1810. Abbildung Tafel VI.,328,96.7,False,positional,,,WAFFEN,,
-BO0624_88187,475639,208,193,Sachsischer Offizierssibel. Modell 1810.,329,95.0,False,positional,,,WAFFEN,,
-BO0624_88187,475640,209,194,Sachsischer Generalsdegen. Modell 1810. Abbildung Tafel VI.,330,96.6,False,positional,,,WAFFEN,,
-BO0624_88187,475641,210,195,Hessischer Grenadier-Pallasch. Modell 1800.,331,95.3,False,positional,,,WAFFEN,,
-BO0624_88187,475642,211,196,Osterreichischer Offizierssabel. Modell 1810.,332,95.6,False,positional,,,WAFFEN,,
-BO0624_88187,475643,212,197,Sichsischer Gardereitersabel. Modell 1810. Abbildung Tafel VI.,333,96.7,False,positional,,,WAFFEN,,
-BO0624_88187,475644,213,198,Franzosischer Musikmeisterdegen. Modell 1806. Abbildung Tafel VI.,334,96.9,False,positional,,,WAFFEN,,
-BO0624_88187,475645,214,199,Franzosischer Grenadier-Pallasch. Modell 1810.,335,95.7,False,positional,,,WAFFEN,,
-BO0624_88187,475646,215,200,Franzosischer Husarensabel. Modell 1810.,336,95.0,False,positional,,,WAFFEN,,
-BO0624_88187,475647,216,201,Franzosischer Lanciersabel. Modell 1810.,337,95.0,False,positional,,,WAFFEN,,
-BO0624_88187,475648,217,202,Franzosischer Grenadier-Pallasch. Modell 1812.,338,95.7,False,positional,,,WAFFEN,,
-BO0624_88187,475649,218,203,Fransosischer Offizierssibel. Modell 1810. Abbildung Tafel VI.,339,96.7,False,positional,,,WAFFEN,,
-BO0624_88187,475650,219,204,Sachsischer Zastrow-Kiirassier-Pallasch. Modell 1810.,340,96.2,False,positional,,,WAFFEN,,
-BO0624_88187,475651,220,205,Pallasch des Offiziers von Krach vom Litzowschen Freikorps. 1813.,341,96.9,False,positional,,,WAFFEN,,
-BO0624_88187,475652,221,206,Sichsischer Husaren-Pallasch. Modell 1813.,342,95.2,False,positional,,,WAFFEN,,
-BO0624_88187,475653,222,207,Sachsische Reiterpistole.Modell 1808. Abbildung Tafel VI.,343,96.5,False,positional,,,WAFFEN,,
-BO0624_88187,475654,223,208,Russische Reiterpistole. Modell 1808.,344,94.6,False,positional,,,WAFFEN,,
-BO0624_88187,475655,224,209,Oesterreichischer Husarenkarabiner. Modell 1795.,345,95.8,False,positional,,,WAFFEN,,
-BO0624_88187,475656,225,210,Franzosisches Grenadiergewehr. Modell 1800.,347,95.3,False,positional,,,WAFFEN,,
-BO0624_88187,475657,226,211,Sichsisches Infanteriegewehr. Modell 1810.,348,95.2,False,positional,,,WAFFEN,,
-BO0624_88187,475658,227,212,Russischer langer Karabiner.Modell 1810.,349,95.1,False,positional,,,WAFFEN,,
+BO0624_88187,475626,195,180,Seitengewehr der sachsischen Leibgarde. Modell 1806.,315,96.2,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475627,196,181,Seitengewehr der sachsischen Grenadiere. Modell 1810.,316,96.2,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475628,197,182,Seitengewehr des Rgt. Prinz Clemens. Modell 1810.,317,95.8,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475629,198,183,Sachsisch-Polnisches Seitengewehr. Modell 1760.,318,95.7,False,positional,,,WAFFEN,,Sec. XVIII
+BO0624_88187,475630,199,5,184.Osterreichisches Seitengewehr. Modell 1800.,319,97.8,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475631,200,6,185.Franzosisches Seitengewehr. Modell 1810. Abbildung Tafel VI.,320,98.4,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475632,201,186,Sachsischer Generalsdegen. Modell 1800.,321,94.9,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475633,202,8,187.Sachsischer Generalsdegen. Modell 1806.,322,97.6,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475634,203,188,Sachsischer Kavalleriesibel. Modell 1800. Abbildung Tafel VI.,323,96.7,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475635,204,10,189.Osterreichischer Kavalleriesabel. Modell 1804.,324,97.0,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475636,205,190,Englischer Kavalleriesabel. Modell 1810. Abbildung Tafel VI.,325,76.8,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475637,206,191,Russischer Offizierskavalleriesabel.Modell 1810.,327,95.9,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475638,207,192,Preussischer Offizierssabel. Modell 1810. Abbildung Tafel VI.,328,96.7,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475639,208,193,Sachsischer Offizierssibel. Modell 1810.,329,95.0,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475640,209,194,Sachsischer Generalsdegen. Modell 1810. Abbildung Tafel VI.,330,96.6,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475641,210,195,Hessischer Grenadier-Pallasch. Modell 1800.,331,95.3,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475642,211,196,Osterreichischer Offizierssabel. Modell 1810.,332,95.6,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475643,212,197,Sichsischer Gardereitersabel. Modell 1810. Abbildung Tafel VI.,333,96.7,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475644,213,198,Franzosischer Musikmeisterdegen. Modell 1806. Abbildung Tafel VI.,334,96.9,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475645,214,199,Franzosischer Grenadier-Pallasch. Modell 1810.,335,95.7,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475646,215,200,Franzosischer Husarensabel. Modell 1810.,336,95.0,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475647,216,201,Franzosischer Lanciersabel. Modell 1810.,337,95.0,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475648,217,202,Franzosischer Grenadier-Pallasch. Modell 1812.,338,95.7,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475649,218,203,Fransosischer Offizierssibel. Modell 1810. Abbildung Tafel VI.,339,96.7,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475650,219,204,Sachsischer Zastrow-Kiirassier-Pallasch. Modell 1810.,340,96.2,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475651,220,205,Pallasch des Offiziers von Krach vom Litzowschen Freikorps. 1813.,341,96.9,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475652,221,206,Sichsischer Husaren-Pallasch. Modell 1813.,342,95.2,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475653,222,207,Sachsische Reiterpistole.Modell 1808. Abbildung Tafel VI.,343,96.5,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475654,223,208,Russische Reiterpistole. Modell 1808.,344,94.6,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475655,224,209,Oesterreichischer Husarenkarabiner. Modell 1795.,345,95.8,False,positional,,,WAFFEN,,Sec. XVIII
+BO0624_88187,475656,225,210,Franzosisches Grenadiergewehr. Modell 1800.,347,95.3,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475657,226,211,Sichsisches Infanteriegewehr. Modell 1810.,348,95.2,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88187,475658,227,212,Russischer langer Karabiner.Modell 1810.,349,95.1,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_88187,475659,228,213,Drei Seitengewehre.,350,90.0,False,positional,,,WAFFEN,,
 BO0624_88187,475660,229,214,Drei Gewehre.,351,85.7,False,positional,,,WAFFEN,,
 BO0624_88187,475661,230,2,215.Franzosischer Czako. Rgt.Nr. 81.,352,97.1,False,positional,,,WAFFEN,,
-BO0624_88187,475662,231,216,"Pastellbild eines Herrn in Uniform, bez.: J. G.Reichert, den 27. Febr. 1809. 37X26cm.",356,91.9,False,positional,,,STICHE UND LITHOGRAPHIEN,,
-BO0624_88187,475663,232,217,Schabkunstblatt. Bildnis von Jean Theophile Prestel. 1777. Noribugat. 27×20cm.,358,91.5,False,positional,,,STICHE UND LITHOGRAPHIEN,,
+BO0624_88187,475662,231,216,"Pastellbild eines Herrn in Uniform, bez.: J. G.Reichert, den 27. Febr. 1809. 37X26cm.",356,91.9,False,positional,,,STICHE UND LITHOGRAPHIEN,,Sec. XIX
+BO0624_88187,475663,232,217,Schabkunstblatt. Bildnis von Jean Theophile Prestel. 1777. Noribugat. 27×20cm.,358,91.5,False,positional,,,STICHE UND LITHOGRAPHIEN,,Sec. XVIII
 BO0624_88187,475664,233,218,Zwei Silhouetten.Chr. G. Korner und Huber.,360,95.1,False,positional,,,STICHE UND LITHOGRAPHIEN,,
-BO0624_88187,475665,234,219,Lithographie des Freiherrn von Zedlitz von Robert Theer. 1836. Wien. 53×44cm.,361,91.5,False,positional,,Scuola Viennese,STICHE UND LITHOGRAPHIEN,,
+BO0624_88187,475665,234,219,Lithographie des Freiherrn von Zedlitz von Robert Theer. 1836. Wien. 53×44cm.,361,91.5,False,positional,,Scuola Viennese,STICHE UND LITHOGRAPHIEN,,Sec. XIX
 BO0624_88187,475666,235,220,"Zwei Stiche Friedrich Wilhelms Ill. von Meno Haas, und Konigin Louise von Krechlow.",363,97.6,False,positional,,,STICHE UND LITHOGRAPHIEN,,
 BO0624_88187,475667,236,221,"Vier Stiche. Silvio und Melida, von Gaetano Zancon nach Emma Picardi.",364,97.1,False,positional,,,STICHE UND LITHOGRAPHIEN,,
 BO0624_88187,475668,237,222,Radierte Blatter und Handzeichnungen von Goethe. Mappe mit sechs Blattern.,368,97.3,False,positional,C.A.SCHWERDTGEBURTH,,,,
@@ -246,380 +246,380 @@ BO0624_88187,475675,244,229,Convolut von 83 Portratstichen und Lithos.,375,95.3,
 BO0624_88187,475676,245,230,Ludwig Berger. Pianist. 17771859. Dithyrambe an Th.Korner.,378,96.4,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475677,246,231,Marie Korner. Zwei Zeichnungen und Aquarelle.,379,95.6,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475678,247,232,"Convolut Theaterzettel:Goethe, Korner,Adamberger usw.",380,96.2,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475679,248,233,"J.D.Roller. 1759-1850. Mehrere Briefe des Pastor J. D.Roller an Jacobi, Burgermeister von Dresden.",381,97.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475679,248,233,"J.D.Roller. 1759-1850. Mehrere Briefe des Pastor J. D.Roller an Jacobi, Burgermeister von Dresden.",381,97.9,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVIII
 BO0624_88187,475680,249,234,"Ernst v. Wildenbruch.,Zur Einfihrung.Gedicht in 15 Strophen.",382,96.6,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475681,250,236,Convolut. Unterschriften Friedrich Wilhelms Hl. von Preuben.,385,96.6,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475682,251,237,"Cornelius Hoyer, Dan. Maler, an den Maler Graff, 1789, erwahnt die",386,96.8,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475682,251,237,"Cornelius Hoyer, Dan. Maler, an den Maler Graff, 1789, erwahnt die",386,96.8,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVIII
 BO0624_88187,475683,252,238,Der Dichter Fougue é an einen Freund iber seine dichterische Tatigkeit. Interessanter Brief.,388,97.8,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475684,253,239,Convolut. Briefe von E.A. Tiedge an die Hofratin Peters u.a.,389,96.6,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475685,254,240,Briefe und Gedichte von Joh.Friedr.Schink.Frauenlob. Geb.1755.,390,96.8,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475685,254,240,Briefe und Gedichte von Joh.Friedr.Schink.Frauenlob. Geb.1755.,390,96.8,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVIII
 BO0624_88187,475686,255,241,Wortratsel an Elisa von der Recke von J.F. Schink.,392,96.0,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475687,256,242,"Carl August Wilhelm Behrends, Geh.Medizinalrat, an Elisa von der",393,96.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475688,257,243,Elisa von der Recke. 1815. 24. November. Berlin.,395,95.6,False,positional,C.A.SCHWERDTGEBURTH,Scuola di Berlino,,,
+BO0624_88187,475688,257,243,Elisa von der Recke. 1815. 24. November. Berlin.,395,95.6,False,positional,C.A.SCHWERDTGEBURTH,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475689,258,244,Desgleichen an den Hofrat Rochlitz in Leipzig.,396,95.7,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475690,259,245,Desgleichen an den Baron von Heller in Nurrenberg.,397,96.1,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475691,260,246,"Georg Heinrich von Berenhorst, Historiker an Elisa von der Recke. Vier verschiedene Briefe.",398,97.8,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475692,261,247,E.A.Thiedge an Elisa von der Recke. 1809. 10.August. Franzensbrunn.,399,96.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475693,262,248,Edmund von Weber. Stiefbruder Carl Maria von Weber.1806. An das,400,96.8,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475694,263,249,"Caroline von Weber, Gattin Carl Maria von Webers. Schauspielerin. Marz 1838.",402,89.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475692,261,247,E.A.Thiedge an Elisa von der Recke. 1809. 10.August. Franzensbrunn.,399,96.9,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475693,262,248,Edmund von Weber. Stiefbruder Carl Maria von Weber.1806. An das,400,96.8,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475694,263,249,"Caroline von Weber, Gattin Carl Maria von Webers. Schauspielerin. Marz 1838.",402,89.9,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
 BO0624_88187,475695,264,250,Carl Gottlieb von Weber an Carl Theodor Korner in Wien. Sehr,404,96.7,False,positional,C.A.SCHWERDTGEBURTH,Scuola Viennese,,,
 BO0624_88187,475696,265,251,Mehrere Erinnerungen an Carl Maria von Weber.,406,95.7,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475697,266,252,"Brief Max Maria von Webers an den Schriftsteller Julius Gundling. , 3. November, handelnd iber die Lebensskizze seines Vaters C. M. v.Weber.",408,66.7,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475698,267,253,"Sophie Reimarus an Elise v.d.Recke.1787,15. Marz.",409,95.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475698,267,253,"Sophie Reimarus an Elise v.d.Recke.1787,15. Marz.",409,95.9,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVIII
 BO0624_88187,475699,268,254,Ch.Fiirchtegott Gellert an Mlle. Lucius.,410,95.0,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475700,269,255,"Maria Korner,geb. Stock iber die Truppen in Berlin.1813-1815. Sehr interessant!",411,97.4,False,positional,C.A.SCHWERDTGEBURTH,Scuola di Berlino,,,
+BO0624_88187,475700,269,255,"Maria Korner,geb. Stock iber die Truppen in Berlin.1813-1815. Sehr interessant!",411,97.4,False,positional,C.A.SCHWERDTGEBURTH,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475701,270,256,Charaden von Theodor Korner. Titelblatt.,412,95.0,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475702,271,257,"Quittung der Frau Gh.Ober-Regierungsratin Korner. 1841,5.April, fur ihre Pension,",413,97.5,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475703,272,258,Brief des Malers A.Graff aus Bern 26. Februar 1811.,414,96.1,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475704,273,259,Leopold Heinrich Richard Frh.von Litzow.1786-1844 an den Generalmajor von Lilienstein.20.April 1828.,415,98.0,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475705,274,260,Graf Camillo Marcolini. Dresden 17. Januar 1771.,416,95.7,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475706,275,261,Ludwig Adolf Wilhelm Frh.von Litzow. 1782-1834. Vorpostenquartier Dinaux 1815 an das Konigl. PreuB. Kriegsministerium.,417,98.3,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475702,271,257,"Quittung der Frau Gh.Ober-Regierungsratin Korner. 1841,5.April, fur ihre Pension,",413,97.5,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475703,272,258,Brief des Malers A.Graff aus Bern 26. Februar 1811.,414,96.1,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475704,273,259,Leopold Heinrich Richard Frh.von Litzow.1786-1844 an den Generalmajor von Lilienstein.20.April 1828.,415,98.0,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475705,274,260,Graf Camillo Marcolini. Dresden 17. Januar 1771.,416,95.7,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVIII
+BO0624_88187,475706,275,261,Ludwig Adolf Wilhelm Frh.von Litzow. 1782-1834. Vorpostenquartier Dinaux 1815 an das Konigl. PreuB. Kriegsministerium.,417,98.3,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
 BO0624_88187,475707,276,262,Herder und Caroline von Schiller. Stammbuchblatt.,418,95.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475708,277,263,Der Dichter Fouque iber eigene Arbeiten an einen Freund. 25. Okt. 1818.,419,97.1,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475709,278,264,"Franz von Gaudy, der Dichter. 10. August 1836.",420,95.5,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475710,279,265,Felix Fiirst Lichnowsky. 1814-1848. Bitte um Besorgung einer Theaterloge.,421,97.2,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475711,280,266,"G.Rieter, Landschaftsmaler, an den Maler A. Graff. Bern 1824. 1. Marz.",422,96.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475708,277,263,Der Dichter Fouque iber eigene Arbeiten an einen Freund. 25. Okt. 1818.,419,97.1,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475709,278,264,"Franz von Gaudy, der Dichter. 10. August 1836.",420,95.5,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475710,279,265,Felix Fiirst Lichnowsky. 1814-1848. Bitte um Besorgung einer Theaterloge.,421,97.2,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475711,280,266,"G.Rieter, Landschaftsmaler, an den Maler A. Graff. Bern 1824. 1. Marz.",422,96.9,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
 BO0624_88187,475712,281,267,Dr.Blessig iber Cagliostro.,423,92.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475713,282,268,"Carl Theodor Korner.Personenverzeichnis zu Luitgarde, ein Trauer-",424,96.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475714,283,269,Christian Gottiried Korner an den Buchhandler Kummer in Leipzig.,426,96.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475715,284,270,"H. Schuckmann,Minister des Innern. Berlin 1816. Erlab an die Direktoren",427,97.1,False,positional,C.A.SCHWERDTGEBURTH,Scuola di Berlino,,,
-BO0624_88187,475716,285,271,"Dorothea Stock. 1759-1830, Bitte um ein Spiegelglas.",429,96.1,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475715,284,270,"H. Schuckmann,Minister des Innern. Berlin 1816. Erlab an die Direktoren",427,97.1,False,positional,C.A.SCHWERDTGEBURTH,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475716,285,271,"Dorothea Stock. 1759-1830, Bitte um ein Spiegelglas.",429,96.1,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVIII
 BO0624_88187,475717,286,272,Franz Freiherr v. Gaudy. Rom. Szene aus einem Scherzspiel.,430,96.4,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475718,287,273,Friedrich Kind. Dichter des Textes zu Webers Freischutz. Zwei Briefe.,431,97.1,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475719,288,274,Chr.Fr.Aug.Hase. Verschiedene Gedichte.,432,94.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475720,289,275,Friedr.Heinrich Himmel.Wien 1812.,433,94.1,False,positional,C.A.SCHWERDTGEBURTH,Scuola Viennese,,,
-BO0624_88187,475721,290,276,Friedrich Forster (1791-1868). Festlied Weimar zu Goethes 82.Geburtstage.,434,97.2,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475722,291,277,"Friedrich Franz Grossherzog zu Mecklenburg.28.Feb.1829,Schwerin. An den Hofprediger.",435,97.6,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475723,292,278,"Friedrich August von Sachsen. 1795,1804 und 1809. Unterschrift unter Patente.",436,97.4,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475724,293,279,a) Friedrich Wilhelm v.Kleist.1725-1768.,437,95.0,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475725,294,280,Kleist von Nollendorf. 7. Januar 1822.,439,94.6,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475726,295,281,"a) v.Kleist,23. Februar 1817.",440,92.9,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475727,296,282,"Convolut mehrerer Briefe und Dokumente der Grafen v. Barby, Graf Titten pach,Wolf v. Litichau, Augustus von Sachsen 1676, Graf v. Veltheim, v.Osterhausen, Graf Ortenburg u. a.",443,98.8,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475720,289,275,Friedr.Heinrich Himmel.Wien 1812.,433,94.1,False,positional,C.A.SCHWERDTGEBURTH,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475721,290,276,Friedrich Forster (1791-1868). Festlied Weimar zu Goethes 82.Geburtstage.,434,97.2,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475722,291,277,"Friedrich Franz Grossherzog zu Mecklenburg.28.Feb.1829,Schwerin. An den Hofprediger.",435,97.6,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475723,292,278,"Friedrich August von Sachsen. 1795,1804 und 1809. Unterschrift unter Patente.",436,97.4,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVIII
+BO0624_88187,475724,293,279,a) Friedrich Wilhelm v.Kleist.1725-1768.,437,95.0,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVIII
+BO0624_88187,475725,294,280,Kleist von Nollendorf. 7. Januar 1822.,439,94.6,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475726,295,281,"a) v.Kleist,23. Februar 1817.",440,92.9,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475727,296,282,"Convolut mehrerer Briefe und Dokumente der Grafen v. Barby, Graf Titten pach,Wolf v. Litichau, Augustus von Sachsen 1676, Graf v. Veltheim, v.Osterhausen, Graf Ortenburg u. a.",443,98.8,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVII
 BO0624_88187,475728,297,283,Johann Georg Herzog zu Sachsen an den Propst des Stiftes Merseburg.,444,97.1,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475729,298,3,284.Juditha Dorffelius.Plauen 2. Januar 1690.,445,97.7,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475729,298,3,284.Juditha Dorffelius.Plauen 2. Januar 1690.,445,97.7,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVII
 BO0624_88187,475730,299,4,"285.Dorothea, Prinzessin von Kurland, mehrere Briefe.",446,98.0,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475731,300,286,"Oscar v.Redwitz, Dichter. Ein Brief vom 10. August 1871 und Gedicht.",447,97.0,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475731,300,286,"Oscar v.Redwitz, Dichter. Ein Brief vom 10. August 1871 und Gedicht.",447,97.0,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
 BO0624_88187,475732,301,6,Bei Litzows wilder Jagd.,448,95.8,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475733,302,7,287.Eduard Maria Fiirst Lichnowski.Historiker. 1789-1845.,449,98.2,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475733,302,7,287.Eduard Maria Fiirst Lichnowski.Historiker. 1789-1845.,449,98.2,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
 BO0624_88187,475734,303,288,"Convolut mehrerer Briefe u. a. von Melchior Friedrich von Schonborn,",450,97.0,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475735,304,9,Otto Furst Schonburg.,451,95.2,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475736,305,10,"289.FriedrichWilhelm Freiherr v. Einsiedel, 1750-1828 an Riedel.",452,97.6,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475737,306,11,1804.9.Januar.Weimar.,453,93.0,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475736,305,10,"289.FriedrichWilhelm Freiherr v. Einsiedel, 1750-1828 an Riedel.",452,97.6,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVIII
+BO0624_88187,475737,306,11,1804.9.Januar.Weimar.,453,93.0,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
 BO0624_88187,475738,307,290,"Convolut mehrerer Briefe darunter Marie Anthonie, Herzogin von Bayern,",454,97.1,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475739,308,13,geb.1758.Graf Carl Fugger usw.1543-1575.,455,96.3,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475740,309,14,"291.Ludwig Ferdinand Huber.1764-1804. Freund Schillers, erwahnt in",456,97.7,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475739,308,13,geb.1758.Graf Carl Fugger usw.1543-1575.,455,96.3,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVI
+BO0624_88187,475740,309,14,"291.Ludwig Ferdinand Huber.1764-1804. Freund Schillers, erwahnt in",456,97.7,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XVIII
 BO0624_88187,475741,310,15,diesem Briefe Goethe.,457,93.0,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475742,311,292,"Convolut mehrerer Briefe, darunter General Wrangel,Prinz Albrecht von Preuben u.a.",458,97.6,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475743,312,293,"Convolut mehrerer Briefe und Dokumente, darunter Freih.v.Biedermann. 1807.",459,97.3,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475743,312,293,"Convolut mehrerer Briefe und Dokumente, darunter Freih.v.Biedermann. 1807.",459,97.3,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
 BO0624_88187,475744,313,18,"294.a) Ernst Platner,Philosoph.",460,95.1,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475745,314,21,"295.Mehrere Briefe,darunter v. Baron Osten-Sacken,v. Rosen, Grafin",463,97.7,False,positional,C.A.SCHWERDTGEBURTH,,,,
 BO0624_88187,475746,315,22,"v.Reichenbach, Rochus v.Liliencron, Karl Weise.",464,96.7,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475747,316,296,Freiherr zu Racknitz. 31. May 1816.,465,94.1,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475748,317,24,297.Julius Kriiger. 1851. Uber Schillers Leichenbegangnis.,466,97.3,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475749,318,25,"298.Johann Gottiried Fluigel. 1788-1855. Uber eine Sendung der Frau Staatsrat Korner.1843,18.Dezember.",467,98.5,False,positional,C.A.SCHWERDTGEBURTH,,,,
+BO0624_88187,475747,316,296,Freiherr zu Racknitz. 31. May 1816.,465,94.1,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475748,317,24,297.Julius Kriiger. 1851. Uber Schillers Leichenbegangnis.,466,97.3,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
+BO0624_88187,475749,318,25,"298.Johann Gottiried Fluigel. 1788-1855. Uber eine Sendung der Frau Staatsrat Korner.1843,18.Dezember.",467,98.5,False,positional,C.A.SCHWERDTGEBURTH,,,,Sec. XIX
 BO0624_88187,475750,319,299,Briefe von Joseph und Alfred Arneth.,468,94.6,False,positional,C.A.SCHWERDTGEBURTH,,,,
-BO0624_88187,475751,320,300,Predigt zur Dankfeier fur die Wiederkehr Sr. Majestat des Konigs von Sachsen. Gehalten am 11. Juni 1815. Geheftet.,477,79.8,False,positional,Dr.FRIEDRICH AMMON,,,,
-BO0624_88187,475752,321,301,Erinnerungen aus dem iusseren Leben. Zweite Auflage Leipzig 1840. Pappband.,482,97.3,False,positional,ERNST MORITZ ARNDT,,,,
-BO0624_88187,475753,322,302,"Die Gefechte und Schlachten bei Leipzig, im Oktober 1813. Zweiter Teil. Dresden, 1853. Pappband.",486,97.8,False,positional,HEINRICH ASTER,,,,
-BO0624_88187,475754,323,303,"Die Gefechte und Schlachten bei Leipzig,im Oktober 1813. Dresden 1852.",487,97.1,False,positional,HEINRICH ASTER,,,,
-BO0624_88187,475755,324,304,Die Kriegsereignisse im August 1S13 und die Schlacht bei Kulm. Dresden 1845.,489,97.4,False,positional,HEINRICH ASTER,,,,
+BO0624_88187,475751,320,300,Predigt zur Dankfeier fur die Wiederkehr Sr. Majestat des Konigs von Sachsen. Gehalten am 11. Juni 1815. Geheftet.,477,79.8,False,positional,Dr.FRIEDRICH AMMON,,,,Sec. XIX
+BO0624_88187,475752,321,301,Erinnerungen aus dem iusseren Leben. Zweite Auflage Leipzig 1840. Pappband.,482,97.3,False,positional,ERNST MORITZ ARNDT,,,,Sec. XIX
+BO0624_88187,475753,322,302,"Die Gefechte und Schlachten bei Leipzig, im Oktober 1813. Zweiter Teil. Dresden, 1853. Pappband.",486,97.8,False,positional,HEINRICH ASTER,,,,Sec. XIX
+BO0624_88187,475754,323,303,"Die Gefechte und Schlachten bei Leipzig,im Oktober 1813. Dresden 1852.",487,97.1,False,positional,HEINRICH ASTER,,,,Sec. XIX
+BO0624_88187,475755,324,304,Die Kriegsereignisse im August 1S13 und die Schlacht bei Kulm. Dresden 1845.,489,97.4,False,positional,HEINRICH ASTER,,,,Sec. XIX
 BO0624_88187,475756,325,305,Geschichte und Lebensbilder. Zwei Bande. Hamburg. Pappband.,493,96.5,False,positional,WILHELM BAUER,,,,
-BO0624_88187,475757,326,306,"Zweihundert deutsche Manner. Leipzig,1854. Pappband.",497,96.1,False,positional,LUDWIG BECHSTEIN,,,,
-BO0624_88187,475758,327,307,"Taschenbuch zum geselligen Vergnigen. Leipzig,1806. Pappband.",501,96.7,False,positional,W.G.BECKER,,,,
-BO0624_88187,475759,328,308,Geschichte der Deutschen Freiheitskriege in den Jahren 1813 und,505,96.9,False,positional,Dr. HEINRICH BEITZKE,,,,
-BO0624_88187,475760,329,2,"1814.Drei Bande.Berlin, 1859. Pappband.",506,97.3,False,positional,Dr. HEINRICH BEITZKE,Scuola di Berlino,,,
+BO0624_88187,475757,326,306,"Zweihundert deutsche Manner. Leipzig,1854. Pappband.",497,96.1,False,positional,LUDWIG BECHSTEIN,,,,Sec. XIX
+BO0624_88187,475758,327,307,"Taschenbuch zum geselligen Vergnigen. Leipzig,1806. Pappband.",501,96.7,False,positional,W.G.BECKER,,,,Sec. XIX
+BO0624_88187,475759,328,308,Geschichte der Deutschen Freiheitskriege in den Jahren 1813 und,505,96.9,False,positional,Dr. HEINRICH BEITZKE,,,,Sec. XIX
+BO0624_88187,475760,329,2,"1814.Drei Bande.Berlin, 1859. Pappband.",506,97.3,False,positional,Dr. HEINRICH BEITZKE,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475761,330,3,Leinenband.,507,90.9,False,positional,Dr. HEINRICH BEITZKE,,,,
-BO0624_88187,475762,331,309,Schillers Totenfeier. 1806.,512,92.6,False,positional,BERNHARDI; PELLEGRIN,,,,
+BO0624_88187,475762,331,309,Schillers Totenfeier. 1806.,512,92.6,False,positional,BERNHARDI; PELLEGRIN,,,,Sec. XIX
 BO0624_88187,475763,332,2,Pappband.,513,88.9,False,positional,BERNHARDI; PELLEGRIN,,,,
 BO0624_88187,475764,333,3,Pappband.,514,88.9,False,positional,BERNHARDI; PELLEGRIN,,,,
 BO0624_88187,475765,334,4,Pappband.,515,88.9,False,positional,BERNHARDI; PELLEGRIN,,,,
 BO0624_88187,475766,335,5,Pappband.,516,88.9,False,positional,BERNHARDI; PELLEGRIN,,,,
-BO0624_88187,475767,336,310,Deutsche Blatter.Leipzig und Altenburg 1813.,520,95.6,False,positional,BROCKHAUS,,,,
-BO0624_88187,475768,337,311,"Der Sieg iber den Welttyrannen, erfochten von den Helden Bluicher und Wellington. Frankfurt am Main 1815. Pappband.",524,98.2,False,positional,BURI,,,,
-BO0624_88187,475769,338,312,Kriegs- und Vaterlandische Lieder. 1821.,528,94.9,False,positional,B.VON EHLINGSPERG,,,,
-BO0624_88187,475770,339,313,Briefe eines Lebenden. Berlin.1831. Zwei Bande. Papierumschlag.,532,96.7,False,positional,B.VON EHLINGSPERG,Scuola di Berlino,,,
-BO0624_88187,475771,340,314,Freye Stimmen frischer Jugend. Jena 1819.,536,95.1,False,positional,"FOLLEN,ADOLF LUDWIG",,,,
-BO0624_88187,475772,341,315,Gedichte.Berlin 1838.,540,90.9,False,positional,FRIEDRICH FORSTER,Scuola di Berlino,,,
+BO0624_88187,475767,336,310,Deutsche Blatter.Leipzig und Altenburg 1813.,520,95.6,False,positional,BROCKHAUS,,,,Sec. XIX
+BO0624_88187,475768,337,311,"Der Sieg iber den Welttyrannen, erfochten von den Helden Bluicher und Wellington. Frankfurt am Main 1815. Pappband.",524,98.2,False,positional,BURI,,,,Sec. XIX
+BO0624_88187,475769,338,312,Kriegs- und Vaterlandische Lieder. 1821.,528,94.9,False,positional,B.VON EHLINGSPERG,,,,Sec. XIX
+BO0624_88187,475770,339,313,Briefe eines Lebenden. Berlin.1831. Zwei Bande. Papierumschlag.,532,96.7,False,positional,B.VON EHLINGSPERG,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475771,340,314,Freye Stimmen frischer Jugend. Jena 1819.,536,95.1,False,positional,"FOLLEN,ADOLF LUDWIG",,,,Sec. XIX
+BO0624_88187,475772,341,315,Gedichte.Berlin 1838.,540,90.9,False,positional,FRIEDRICH FORSTER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475773,342,316,Die Sangerfahrt. Eine Neujahrsgabe. Aus der Bibliothek des Prinzen,541,97.0,False,positional,FRIEDRICH FORSTER,,,,
-BO0624_88187,475774,343,317,Die Sangerfahrt. Eine Neujahrsgabe. Berlin 1818. Pappband.,543,96.4,False,positional,FRIEDRICH FORSTER,Scuola di Berlino,,,
-BO0624_88187,475775,344,318,"Scherz, List und Rache. Erste Ausgabe. Leipzig 1790. Geheftet.",547,96.6,False,positional,GOETHE,,,,
-BO0624_88187,475776,345,319,Jery und Bately. Erste Ausgabe. Leipzig 1790. Geheftet.,548,96.2,False,positional,GOETHE,,,,
-BO0624_88187,475777,346,320,Erwin und Elmire. Erste Ausgabe. Leipzig 1788. Geheftet.,549,96.3,False,positional,GOETHE,,,,
-BO0624_88187,475778,347,321,Die Vogel. Erste Ausgabe. Leipzig 1787. Geheftet.,550,95.7,False,positional,GOETHE,,,,
-BO0624_88187,475779,348,322,Torquato Tasso. Mit Inschrift. Leipzig 1790. Brauner Ledereinband.,551,96.9,False,positional,GOETHE,,,,
-BO0624_88187,475780,349,323,Claudine von Villa Bella. Erste Ausgabe. Leipzig 1788. Geheftet.,552,96.8,False,positional,GOETHE,,,,
-BO0624_88187,475781,350,324,Die Leiden des jungen Werther. Leipzig 1834. Pappband.,553,96.2,False,positional,GOETHE,,,,
-BO0624_88187,475782,351,325,Faust. Ein Fragment. Leipzig 1787.,554,93.9,False,positional,GOETHE,,OGGETTI VARI,,
-BO0624_88187,475783,352,326,Ferdinand von Schill. Eine Lebensbeschreibung nach Original Papieren. Zwei Bande. Leipzig 1824. Pappband.,558,78.4,False,positional,J.C.L.HAKEN,,,,
-BO0624_88187,475784,353,327,"Theodor Korner.Vaterlandisches Gemalde,mit Gesang. Stuttgart 1848.",563,97.0,False,positional,JULIUS EDUARD HARTMANN,,,,
-BO0624_88187,475785,354,328,Agrionien. Ein Taschenbuch fur das gesellige Vergnigen. Fur das Jahr 1811. Leipzig.,567,97.5,False,positional,THEODOR HELL,,,,
+BO0624_88187,475774,343,317,Die Sangerfahrt. Eine Neujahrsgabe. Berlin 1818. Pappband.,543,96.4,False,positional,FRIEDRICH FORSTER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475775,344,318,"Scherz, List und Rache. Erste Ausgabe. Leipzig 1790. Geheftet.",547,96.6,False,positional,GOETHE,,,,Sec. XVIII
+BO0624_88187,475776,345,319,Jery und Bately. Erste Ausgabe. Leipzig 1790. Geheftet.,548,96.2,False,positional,GOETHE,,,,Sec. XVIII
+BO0624_88187,475777,346,320,Erwin und Elmire. Erste Ausgabe. Leipzig 1788. Geheftet.,549,96.3,False,positional,GOETHE,,,,Sec. XVIII
+BO0624_88187,475778,347,321,Die Vogel. Erste Ausgabe. Leipzig 1787. Geheftet.,550,95.7,False,positional,GOETHE,,,,Sec. XVIII
+BO0624_88187,475779,348,322,Torquato Tasso. Mit Inschrift. Leipzig 1790. Brauner Ledereinband.,551,96.9,False,positional,GOETHE,,,,Sec. XVIII
+BO0624_88187,475780,349,323,Claudine von Villa Bella. Erste Ausgabe. Leipzig 1788. Geheftet.,552,96.8,False,positional,GOETHE,,,,Sec. XVIII
+BO0624_88187,475781,350,324,Die Leiden des jungen Werther. Leipzig 1834. Pappband.,553,96.2,False,positional,GOETHE,,,,Sec. XIX
+BO0624_88187,475782,351,325,Faust. Ein Fragment. Leipzig 1787.,554,93.9,False,positional,GOETHE,,OGGETTI VARI,,Sec. XVIII
+BO0624_88187,475783,352,326,Ferdinand von Schill. Eine Lebensbeschreibung nach Original Papieren. Zwei Bande. Leipzig 1824. Pappband.,558,78.4,False,positional,J.C.L.HAKEN,,,,Sec. XIX
+BO0624_88187,475784,353,327,"Theodor Korner.Vaterlandisches Gemalde,mit Gesang. Stuttgart 1848.",563,97.0,False,positional,JULIUS EDUARD HARTMANN,,,,Sec. XIX
+BO0624_88187,475785,354,328,Agrionien. Ein Taschenbuch fur das gesellige Vergnigen. Fur das Jahr 1811. Leipzig.,567,97.5,False,positional,THEODOR HELL,,,,Sec. XIX
 BO0624_88187,475786,355,2,Pappband.,568,88.9,False,positional,THEODOR HELL,,,,
-BO0624_88187,475787,356,3,329.Penelope. Taschenbuch fir das Jahr 1815. Leipzig. Pappband.,569,98.3,False,positional,THEODOR HELL,,,,
-BO0624_88187,475788,357,330,Ideen zur Philosophie der Geschichte der Menschheit. Zwei Bande. Riga und Leipzig 1784. Pappband.,573,97.9,False,positional,JOHANN GOTTFRIED HERDER,,,,
+BO0624_88187,475787,356,3,329.Penelope. Taschenbuch fir das Jahr 1815. Leipzig. Pappband.,569,98.3,False,positional,THEODOR HELL,,,,Sec. XIX
+BO0624_88187,475788,357,330,Ideen zur Philosophie der Geschichte der Menschheit. Zwei Bande. Riga und Leipzig 1784. Pappband.,573,97.9,False,positional,JOHANN GOTTFRIED HERDER,,,,Sec. XVIII
 BO0624_88187,475789,358,331,"Kritische Wailder. Oder Betrachtungen, die Wissenschaft und Kunst des",574,97.1,False,positional,JOHANN GOTTFRIED HERDER,,,,
-BO0624_88187,475790,359,3,Schonen.1769.Pappband.,575,95.5,False,positional,JOHANN GOTTFRIED HERDER,,,,
+BO0624_88187,475790,359,3,Schonen.1769.Pappband.,575,95.5,False,positional,JOHANN GOTTFRIED HERDER,,,,Sec. XVIII
 BO0624_88187,475791,360,4,Pappband.,576,88.9,False,positional,JOHANN GOTTFRIED HERDER,,,,
-BO0624_88187,475792,361,332,"Offene Fehde, ein Lustspiel in drei Aufzuigen. Mannheim, 1788. Pappband.",580,97.1,False,positional,L.C.HUBER,,,,
-BO0624_88187,475793,362,333,Die Mundel.Berlin 1785. Pappband.,585,93.9,False,positional,VON WILHELM AUGUST IFFLAND,Scuola di Berlino,,,
-BO0624_88187,475794,363,334,"Darstellung des Feldzugs im Spatjahr 1813 in Deutschland, vom Bruch des Waffenstillstandes an bis zum Ubergange der franzosischen Armee iber den Rhein. Mit einer topographischen Charte der Gegend von Leipzig. Von einem russischen Offizier.Deutsch bearbeitet von F. von Kausler. Stuttgart 1819.",589,99.3,False,positional,"KAUSLER,F.VON",,,,
+BO0624_88187,475792,361,332,"Offene Fehde, ein Lustspiel in drei Aufzuigen. Mannheim, 1788. Pappband.",580,97.1,False,positional,L.C.HUBER,,,,Sec. XVIII
+BO0624_88187,475793,362,333,Die Mundel.Berlin 1785. Pappband.,585,93.9,False,positional,VON WILHELM AUGUST IFFLAND,Scuola di Berlino,,,Sec. XVIII
+BO0624_88187,475794,363,334,"Darstellung des Feldzugs im Spatjahr 1813 in Deutschland, vom Bruch des Waffenstillstandes an bis zum Ubergange der franzosischen Armee iber den Rhein. Mit einer topographischen Charte der Gegend von Leipzig. Von einem russischen Offizier.Deutsch bearbeitet von F. von Kausler. Stuttgart 1819.",589,99.3,False,positional,"KAUSLER,F.VON",,,,Sec. XIX
 BO0624_88187,475795,364,335,Die Korners-Eiche und die deutschen Frauen. Zwei Gedichte. Pappband.,593,97.0,False,positional,FRIEDRICH KIND,,,,
-BO0624_88187,475796,365,336,Die Korners-Eiche. Phantasie. Leipzig bei G.J. Goschen 1814. Geheftet.,594,89.6,False,positional,FRIEDRICH KIND,,,,
-BO0624_88187,475797,366,337,Gedichte mit eigenhandiger Widmung des Dichters. Leipzig 1825. Pappband.,596,97.2,False,positional,FRIEDRICH KIND,,,,
+BO0624_88187,475796,365,336,Die Korners-Eiche. Phantasie. Leipzig bei G.J. Goschen 1814. Geheftet.,594,89.6,False,positional,FRIEDRICH KIND,,,,Sec. XIX
+BO0624_88187,475797,366,337,Gedichte mit eigenhandiger Widmung des Dichters. Leipzig 1825. Pappband.,596,97.2,False,positional,FRIEDRICH KIND,,,,Sec. XIX
 BO0624_88187,475798,367,338,Der Gang um Mitternacht. Handgeschrieben. Pappband.,597,96.0,False,positional,FRIEDRICH KIND,,,,
-BO0624_88187,475799,368,339,"David. Berlin,1830. Geheftet.",601,92.9,False,positional,CHRISTIAN GOTTFRIED KORNER,Scuola di Berlino,,,
-BO0624_88187,475800,369,340,Asthetische Ansichten. Leipzig 1808.,602,94.4,False,positional,CHRISTIAN GOTTFRIED KORNER,,,,
-BO0624_88187,475801,370,341,"Gesammelte Schriften. Herausgegeben von Adolf Stern, Leipzig 1881. Pappband.",604,97.3,False,positional,CHRISTIAN GOTTFRIED KORNER,,,,
+BO0624_88187,475799,368,339,"David. Berlin,1830. Geheftet.",601,92.9,False,positional,CHRISTIAN GOTTFRIED KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475800,369,340,Asthetische Ansichten. Leipzig 1808.,602,94.4,False,positional,CHRISTIAN GOTTFRIED KORNER,,,,Sec. XIX
+BO0624_88187,475801,370,341,"Gesammelte Schriften. Herausgegeben von Adolf Stern, Leipzig 1881. Pappband.",604,97.3,False,positional,CHRISTIAN GOTTFRIED KORNER,,,,Sec. XIX
 BO0624_88187,475802,371,342,Korner's des Alteren Schriften. Herausgegeben von Dr. Carl Barth.,605,96.9,False,positional,CHRISTIAN GOTTFRIED KORNER,,,,
-BO0624_88187,475803,372,343,Stimme der Warnung. Berlin 1815.,607,93.8,False,positional,CHRISTIAN GOTTFRIED KORNER,Scuola di Berlino,,,
-BO0624_88187,475804,373,344,Fiir Deutsche Frauen. Berlin und Stettin 1824.,609,95.7,False,positional,CHRISTIAN GOTTFRIED KORNER,Scuola di Berlino,,,
-BO0624_88187,475805,374,345,Fir Deutsche Frauen. Berlin und Stettin 1824. Papierumschlag.,611,96.7,False,positional,CHRISTIAN GOTTFRIED KORNER,Scuola di Berlino,,,
-BO0624_88187,475806,375,346,Anthologie aus seinen Werken. Hildburghausen und Amsterdam 1847.,614,96.9,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475803,372,343,Stimme der Warnung. Berlin 1815.,607,93.8,False,positional,CHRISTIAN GOTTFRIED KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475804,373,344,Fiir Deutsche Frauen. Berlin und Stettin 1824.,609,95.7,False,positional,CHRISTIAN GOTTFRIED KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475805,374,345,Fir Deutsche Frauen. Berlin und Stettin 1824. Papierumschlag.,611,96.7,False,positional,CHRISTIAN GOTTFRIED KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475806,375,346,Anthologie aus seinen Werken. Hildburghausen und Amsterdam 1847.,614,96.9,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475807,376,2,Pappband.,615,88.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475808,377,3,347.Zwolf freie Deutsche Gedichte.1813. Pappband.,616,97.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475809,378,348,Leyer und Schwert. Wien 1815. Pappband.,617,94.7,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475810,379,349,Leyer und Schwert. Wien 1814. Pappband.,618,94.7,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475811,380,350,Leyer und Schwert. Berlin 1814. Leinenband.,619,95.2,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475812,381,351,Leyer und Schwert. Stuttgart 1815. Pappband.,620,95.3,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475813,382,8,352.Leyer und Schwert. Berlin 1834. Leinenband.,621,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475814,383,9,353.Leyer und Schwert. Berlin 1814. Blauer Pappband.,622,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475815,384,354,Leyer und Schwert. Berlin 1814. Pappband.,623,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475816,385,355,Knospen. Leipzig 1810. Pappband.,624,93.5,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475817,386,356,Zwolf freie Deutsche Gedichte. Nebst einem Anhang. 1813. Geheftet.,625,96.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475818,387,13,357.Dramatische Beitrage.Karlsruhe 1823. Pappband.,626,97.0,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475819,388,358,Leyer und Schwert. Berlin 1858. Leinenband.,627,95.2,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475820,389,359,Leyer und Schwert. Berlin 1867. Pappband.,628,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475821,390,360,Dramatische Beytrige. Zwei Bande. Karlsruhe 1823. Pappband.,629,96.5,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475808,377,3,347.Zwolf freie Deutsche Gedichte.1813. Pappband.,616,97.9,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475809,378,348,Leyer und Schwert. Wien 1815. Pappband.,617,94.7,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475810,379,349,Leyer und Schwert. Wien 1814. Pappband.,618,94.7,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475811,380,350,Leyer und Schwert. Berlin 1814. Leinenband.,619,95.2,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475812,381,351,Leyer und Schwert. Stuttgart 1815. Pappband.,620,95.3,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475813,382,8,352.Leyer und Schwert. Berlin 1834. Leinenband.,621,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475814,383,9,353.Leyer und Schwert. Berlin 1814. Blauer Pappband.,622,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475815,384,354,Leyer und Schwert. Berlin 1814. Pappband.,623,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475816,385,355,Knospen. Leipzig 1810. Pappband.,624,93.5,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475817,386,356,Zwolf freie Deutsche Gedichte. Nebst einem Anhang. 1813. Geheftet.,625,96.9,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475818,387,13,357.Dramatische Beitrage.Karlsruhe 1823. Pappband.,626,97.0,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475819,388,358,Leyer und Schwert. Berlin 1858. Leinenband.,627,95.2,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475820,389,359,Leyer und Schwert. Berlin 1867. Pappband.,628,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475821,390,360,Dramatische Beytrige. Zwei Bande. Karlsruhe 1823. Pappband.,629,96.5,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475822,391,361,Leyer und Schwert. Herausgegeben mit Illustrationen von K. Eichstadt Berlin. Pappband.,630,97.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475823,392,362,Dramatische Beytrage.Wien 1815. Pappband.,631,95.1,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475824,393,363,Dramatische Beytrage.Wien 1815. Pappband.,632,95.1,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475825,394,364,Dramatische Beytrage.Wien 1815.,633,93.8,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475826,395,365,Gedichte und Erzahlungen. Herausgegeben von C. A. Tiedge. Leipzig 1815.,634,97.1,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475823,392,362,Dramatische Beytrage.Wien 1815. Pappband.,631,95.1,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475824,393,363,Dramatische Beytrage.Wien 1815. Pappband.,632,95.1,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475825,394,364,Dramatische Beytrage.Wien 1815.,633,93.8,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475826,395,365,Gedichte und Erzahlungen. Herausgegeben von C. A. Tiedge. Leipzig 1815.,634,97.1,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475827,396,366,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub.,635,97.0,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475828,397,367,Theodor Korners samtliche Werke. Berlin 1872.,637,95.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475829,398,368,Theodor Korners samtliche Werke. Berlin 1892.,639,95.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475830,399,369,Theodor Korners samtliche Werke. Herausgegeben von Karl StreckfuB. Berlin 1834. Pappband.,641,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475831,400,370,Theodor Korners samtliche Werke. Herausgegeben von Dr. Adolph Markgraf.Yverdun 1834. Pappband.,642,97.8,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475828,397,367,Theodor Korners samtliche Werke. Berlin 1872.,637,95.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475829,398,368,Theodor Korners samtliche Werke. Berlin 1892.,639,95.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475830,399,369,Theodor Korners samtliche Werke. Herausgegeben von Karl StreckfuB. Berlin 1834. Pappband.,641,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475831,400,370,Theodor Korners samtliche Werke. Herausgegeben von Dr. Adolph Markgraf.Yverdun 1834. Pappband.,642,97.8,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475832,401,371,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfub. Berlin1835. Leinenband.,643,97.7,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475833,402,372,Theodor Korners samtliche Werke. Herausgegeben von Karl StreckfuB.,644,97.0,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475834,403,373,Theodor Korner's samtliche Werke. Zwei Bande.Carlsruhe 1827. Pappband.,646,97.1,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475834,403,373,Theodor Korner's samtliche Werke. Zwei Bande.Carlsruhe 1827. Pappband.,646,97.1,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475835,404,374,Theodor Korners's samtliche Werke. Herausgegeben von Karl Streck-,647,96.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475836,405,375,Theodor Korner's simtliche Werke.Zwei Bande. Berlin 1897. Pappband.,649,97.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475837,406,2,376.Theodor Korner's Gedichte. Koln 1814.,650,97.5,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475838,407,377,Theodor Korner's saimtliche Werke. Herausgegeben von Carl Streckfub. Berlin 1848. Pappband.,651,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475839,408,378,"Theodor Korner's saimtliche Werke. Herausgegeben von Heinrich Laube. llustrierte Prachtausgabe. Wien, Leipzig, Prag 1882. Leineneinband mit Goldverzierung.",652,98.7,False,positional,THEODOR KORNER,Scuola Viennese,,,
+BO0624_88187,475836,405,375,Theodor Korner's simtliche Werke.Zwei Bande. Berlin 1897. Pappband.,649,97.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475837,406,2,376.Theodor Korner's Gedichte. Koln 1814.,650,97.5,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475838,407,377,Theodor Korner's saimtliche Werke. Herausgegeben von Carl Streckfub. Berlin 1848. Pappband.,651,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475839,408,378,"Theodor Korner's saimtliche Werke. Herausgegeben von Heinrich Laube. llustrierte Prachtausgabe. Wien, Leipzig, Prag 1882. Leineneinband mit Goldverzierung.",652,98.7,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
 BO0624_88187,475840,409,379,Leyer und Schwert mit Illustrationen von Th. Eichstadt. Berlin. Leinenband.,653,97.3,False,positional,THEODOR KORNER,Scuola di Berlino,,,
 BO0624_88187,475841,410,380,Theodor Korner's simtliche Werke. Herausgegeben von Otto Franz Gensischen. Stuttgart und Leipzig. Leinenband.,654,92.6,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475842,411,381,Theodor Korner's simtliche Werke mit Illustrationen von E. Bruning. Herausgegeben von Dr. Karl Macke. Berlin. Pappband.,656,98.3,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475843,412,382,"Theodor Korner's simtliche Werke. Herausgegeben von Karl Streck fub,Berlin-Wien 1835. Pappband.",657,97.9,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475844,413,383,Theodor Korner's Werke in englischer Sprache. London 1850. Leinenband.,658,97.1,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475845,414,384,Theodor Korner's simtliche Werke.Herausgegeben von Carl Streckfub. Berlin 1858. Pappband.,659,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475843,412,382,"Theodor Korner's simtliche Werke. Herausgegeben von Karl Streck fub,Berlin-Wien 1835. Pappband.",657,97.9,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475844,413,383,Theodor Korner's Werke in englischer Sprache. London 1850. Leinenband.,658,97.1,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475845,414,384,Theodor Korner's simtliche Werke.Herausgegeben von Carl Streckfub. Berlin 1858. Pappband.,659,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475846,415,385,Theodor Korner's simtliche Werke.Berlin. Leinenband.,660,96.2,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475847,416,386,Theodor Korners's simtliche Werke. Herausgegeben von Karl Streck fuB.Berlin 1874. Leinenband.,661,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475848,417,387,Theodor Korner's simtliche Werke. Herausgegeben von Karl Streck fuB.Vier Bande.Berlin 1853. Pappband.,662,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475849,418,388,Theodor Korner's poetischer Nachlass. Zwei Bande. Leipzig 1823. Pappband.,663,97.2,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475850,419,389,Theodor Korner's simtliche Werke.Vier Bande. Stuttgart 1822. Pappband.,664,97.1,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475851,420,3,"390.Festschrift zum hundertjahrigen Geburtstage, am 23. September 1891. Von",665,98.6,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475852,421,4,Dr. Gotthold Kregenberg.Dresden 1891. Pappband.,666,97.8,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475853,422,391,Theodor Korner zum 23. September 1891. Zwei Bande. Leipzig 1891. Geheftet.,667,90.2,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475854,423,392,Theodor Korners simtliche Werke. Koln 1853. Pappband.,669,96.2,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475855,424,393,Theodor Korner und seine Beziehungen zur Musik. Von Robert Muisiol. Ratibor 1893. Pappband.,670,83.3,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475847,416,386,Theodor Korners's simtliche Werke. Herausgegeben von Karl Streck fuB.Berlin 1874. Leinenband.,661,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475848,417,387,Theodor Korner's simtliche Werke. Herausgegeben von Karl Streck fuB.Vier Bande.Berlin 1853. Pappband.,662,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475849,418,388,Theodor Korner's poetischer Nachlass. Zwei Bande. Leipzig 1823. Pappband.,663,97.2,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475850,419,389,Theodor Korner's simtliche Werke.Vier Bande. Stuttgart 1822. Pappband.,664,97.1,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475851,420,3,"390.Festschrift zum hundertjahrigen Geburtstage, am 23. September 1891. Von",665,98.6,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475852,421,4,Dr. Gotthold Kregenberg.Dresden 1891. Pappband.,666,97.8,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475853,422,391,Theodor Korner zum 23. September 1891. Zwei Bande. Leipzig 1891. Geheftet.,667,90.2,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475854,423,392,Theodor Korners simtliche Werke. Koln 1853. Pappband.,669,96.2,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475855,424,393,Theodor Korner und seine Beziehungen zur Musik. Von Robert Muisiol. Ratibor 1893. Pappband.,670,83.3,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475856,425,394,Theodor Korner. Sein Leben und seine Dichtungen. Von Dr. Adolph Kohut.Berlin. Leinenband.,672,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475857,426,395,"Theodor Korner's samtliche Werke. Zwei Bande. Philadelphia,Weick &amp; Wieck.1853. Pappband.",673,97.7,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475858,427,396,Theodor Korners samtliche Werke. In zwei Banden. Stuttgart 1830. Pappband.,674,90.4,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475859,428,397,"Theodor Korners samtliche Werke. Herausgegeben von Heinrich Laube. Prachtausgabe.Wien,Leipzig, Prag 1882.",676,98.1,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475860,429,398,Theodor Korner und die Seinen.Geschildert von Dr.W.Emil Peschel und Dr. Eugen Wildenow. Mit vielen Abbildungen und Faksimiles. Zwei Bande in prachtigem Einband. Leipzig 1898.,677,98.8,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475861,430,399,Theodor Korners samtliche Werke.Herausgegeben von Karl Streckfub. Berlin 1875. Pappband.,678,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475862,431,400,Theodor Korners saimtliche Werke. Herausgegeben von Karl StreckfuB. Berlin 1867. Zwei Bande. Pappband.,679,78.3,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475857,426,395,"Theodor Korner's samtliche Werke. Zwei Bande. Philadelphia,Weick &amp; Wieck.1853. Pappband.",673,97.7,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475858,427,396,Theodor Korners samtliche Werke. In zwei Banden. Stuttgart 1830. Pappband.,674,90.4,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475859,428,397,"Theodor Korners samtliche Werke. Herausgegeben von Heinrich Laube. Prachtausgabe.Wien,Leipzig, Prag 1882.",676,98.1,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475860,429,398,Theodor Korner und die Seinen.Geschildert von Dr.W.Emil Peschel und Dr. Eugen Wildenow. Mit vielen Abbildungen und Faksimiles. Zwei Bande in prachtigem Einband. Leipzig 1898.,677,98.8,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475861,430,399,Theodor Korners samtliche Werke.Herausgegeben von Karl Streckfub. Berlin 1875. Pappband.,678,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475862,431,400,Theodor Korners saimtliche Werke. Herausgegeben von Karl StreckfuB. Berlin 1867. Zwei Bande. Pappband.,679,78.3,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475863,432,401,Theodor Korners samtliche Werke.Berlin.,681,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475864,433,402,Theodor Korners simtliche Gedichte. Berlin 1855. Pappband.,682,96.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475864,433,402,Theodor Korners simtliche Gedichte. Berlin 1855. Pappband.,682,96.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475865,434,403,Theodor Korners erster Brief vom 26. Marz 181l an seine Eltern nach,683,97.1,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475866,435,404,Theodor Korners simtliche Werke. Herausgegeben von Karl StreckfuB.,685,97.0,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475867,436,405,"Theodor Korners samtliche Werke.Herausgegeben von Eugen Wildenow, Leipzig. Roter Leinenband.",687,97.8,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475868,437,406,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1864.,688,97.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475869,438,407,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1873. Roter Leinenband.,692,79.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475870,439,408,Theodor Korners simtliche Werke. Herausgegeben von Karl StreckfuB. Berlin 1871. Roter Leinenband.,694,97.9,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475871,440,409,Aus Theodor Korners Nachlass. Liedes und Liebesgribe an Antonie Adamberger. Herausgegeben von Friedrich Latendorf. Leipzig 1885. Pappband.,696,69.3,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475872,441,410,Theodor Korners Werke. Herausgegeben von Karl StreckfuB. Berlin 1858. Leinenband.,697,97.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475868,437,406,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1864.,688,97.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475869,438,407,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1873. Roter Leinenband.,692,79.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475870,439,408,Theodor Korners simtliche Werke. Herausgegeben von Karl StreckfuB. Berlin 1871. Roter Leinenband.,694,97.9,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475871,440,409,Aus Theodor Korners Nachlass. Liedes und Liebesgribe an Antonie Adamberger. Herausgegeben von Friedrich Latendorf. Leipzig 1885. Pappband.,696,69.3,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475872,441,410,Theodor Korners Werke. Herausgegeben von Karl StreckfuB. Berlin 1858. Leinenband.,697,97.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475873,442,411,Der deutschen Jugend erzahlt von Gustav Hocker. Roter Leinenband.,698,96.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475874,443,412,Theodor Korners Werke. Herausgegeben von Adolf Wolf. Berlin 1858. Pappband.,699,97.3,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475874,443,412,Theodor Korners Werke. Herausgegeben von Adolf Wolf. Berlin 1858. Pappband.,699,97.3,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475875,444,413,"Theodor Korners Werke. Herausgegeben von Korner, Tiedge und Mahlmann. Leinenband.",700,97.5,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475876,445,414,"Theodor Korners Werke. Berlin, Gustav Hempel. Geheftet.",701,96.2,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475877,446,415,"Theodor Korners Lyre and Sword. Edinburgh, 1841. Pappeinband.",702,84.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475878,447,416,Theodor Korners poetischer Nachlass. Leipzig 1823. Pappband.,704,88.1,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475879,448,417,Theodor Korners samtliche Werke. Reutlingen 1837. Pappband.,706,87.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475880,449,418,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1861. Leinenband.,708,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475881,450,419,Theodor Korners simtliche Werke. Berlin 1868. Leinenband.,709,96.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475882,451,420,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1838.Zwei Bande. Pappband.,710,78.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475883,452,421,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1871.Leinenband.,712,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475884,453,422,Leier und Schwert. Zriny. Rosamunde. Herausgegeben von Rudolf Gottschall. Leipzig 1868. Pappband.,713,84.1,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475885,454,423,Theodor Korners samtliche Werke. Herausgegeben von Ernst Herrmann. Berlin 1888. Leinenband.,715,82.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475877,446,415,"Theodor Korners Lyre and Sword. Edinburgh, 1841. Pappeinband.",702,84.9,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475878,447,416,Theodor Korners poetischer Nachlass. Leipzig 1823. Pappband.,704,88.1,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475879,448,417,Theodor Korners samtliche Werke. Reutlingen 1837. Pappband.,706,87.9,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475880,449,418,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1861. Leinenband.,708,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475881,450,419,Theodor Korners simtliche Werke. Berlin 1868. Leinenband.,709,96.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475882,451,420,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1838.Zwei Bande. Pappband.,710,78.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475883,452,421,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1871.Leinenband.,712,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475884,453,422,Leier und Schwert. Zriny. Rosamunde. Herausgegeben von Rudolf Gottschall. Leipzig 1868. Pappband.,713,84.1,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475885,454,423,Theodor Korners samtliche Werke. Herausgegeben von Ernst Herrmann. Berlin 1888. Leinenband.,715,82.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475886,455,424,Theodor Korners Gedichte. Nebst einem Vorwort und Nachruf von Bernhard Korner. Pappband.,717,97.7,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475887,456,425,Theodor Korner. Biographie von Dr. Albert Zizzer. Leipzig. Pappband.,718,96.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475888,457,426,Theodor Korners samtliche Werke. Herausgegeben von Karl StreckfuB. Zwei Bande.Berlin 1838. Pappband.,719,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475889,458,427,Theodor Korners simtliche Werke. Illustrierte Ausgabe. Zwei Bande. Berlin 1874. Leinenband.,720,82.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475890,459,428,"Dramatische Beytrige.. Zwei Bande. Berlin, Stettin 1821. Pappband.",722,96.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475891,460,429,Theodor Korners simtliche Werke.Vier Bande.Carlsruhe 1820. Mit Notiz. Pappband.,723,97.4,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475892,461,430,Theodor Korners siimtliche Werke.Berlin 1869. Pappband.,724,96.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475893,462,431,Theodor Korners simtliche Werke. Herausgegeben von Karl StreckfuB. Berlin 1835. Pappband.,725,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475894,463,432,Zriny. Leipzig 1814.,726,90.0,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475895,464,433,Zriny.Leipzig 1814. Geheftet.,728,93.1,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475896,465,434,Leyer und Schwert. Berlin 1815. Pappband.,729,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475897,466,435,Leyer und Schwert. Berlin 1819. Pappband.,730,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475898,467,436,Leyer und Schwert. Berlin 1819. Pappband.,731,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475899,468,437,Leyer und Schwert. Berlin 1817.,732,93.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475900,469,438,Leyer und Schwert. Berlin 1817. Papierumschlag.,734,95.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475901,470,439,Leyer und Schwert. Berlin 1814. Papierumschlag.,735,95.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475902,471,440,Leyer und Schwert.Berlin 1814. Pappband.,736,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475903,472,441,Leyer und Schwert. Berlin 1814. Pappband.,737,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475904,473,442,Leyer und Schwerdt. Berlin 1814.,738,93.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475905,474,443,Leyer und Schwerdt. Berlin 1814. Oberer Deckel fehlt.,740,96.2,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475906,475,444,Leyer und Schwerdt. Berlin 1814. Mit einem Brief und einer Notiz von Tiedge. Geheftet.,741,97.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475907,476,445,Leyer und Schwert. Berlin 1814.,742,93.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475888,457,426,Theodor Korners samtliche Werke. Herausgegeben von Karl StreckfuB. Zwei Bande.Berlin 1838. Pappband.,719,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475889,458,427,Theodor Korners simtliche Werke. Illustrierte Ausgabe. Zwei Bande. Berlin 1874. Leinenband.,720,82.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475890,459,428,"Dramatische Beytrige.. Zwei Bande. Berlin, Stettin 1821. Pappband.",722,96.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475891,460,429,Theodor Korners simtliche Werke.Vier Bande.Carlsruhe 1820. Mit Notiz. Pappband.,723,97.4,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475892,461,430,Theodor Korners siimtliche Werke.Berlin 1869. Pappband.,724,96.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475893,462,431,Theodor Korners simtliche Werke. Herausgegeben von Karl StreckfuB. Berlin 1835. Pappband.,725,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475894,463,432,Zriny. Leipzig 1814.,726,90.0,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475895,464,433,Zriny.Leipzig 1814. Geheftet.,728,93.1,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475896,465,434,Leyer und Schwert. Berlin 1815. Pappband.,729,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475897,466,435,Leyer und Schwert. Berlin 1819. Pappband.,730,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475898,467,436,Leyer und Schwert. Berlin 1819. Pappband.,731,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475899,468,437,Leyer und Schwert. Berlin 1817.,732,93.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475900,469,438,Leyer und Schwert. Berlin 1817. Papierumschlag.,734,95.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475901,470,439,Leyer und Schwert. Berlin 1814. Papierumschlag.,735,95.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475902,471,440,Leyer und Schwert.Berlin 1814. Pappband.,736,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475903,472,441,Leyer und Schwert. Berlin 1814. Pappband.,737,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475904,473,442,Leyer und Schwerdt. Berlin 1814.,738,93.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475905,474,443,Leyer und Schwerdt. Berlin 1814. Oberer Deckel fehlt.,740,96.2,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475906,475,444,Leyer und Schwerdt. Berlin 1814. Mit einem Brief und einer Notiz von Tiedge. Geheftet.,741,97.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475907,476,445,Leyer und Schwert. Berlin 1814.,742,93.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475908,477,4,Geheftet.,743,88.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475909,478,5,446.Leyer und Schwert. Berlin 1815. Geheftet.,744,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475910,479,447,Leyer und Schwert. Berlin 1815. Geheftet.,745,81.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475911,480,448,Theodor Korners vermischte Gedichte und Erzahlungen. Herausgegeben von C. A.Tiedge. Leipzig 1815. Pappband.,747,98.1,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475909,478,5,446.Leyer und Schwert. Berlin 1815. Geheftet.,744,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475910,479,447,Leyer und Schwert. Berlin 1815. Geheftet.,745,81.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475911,480,448,Theodor Korners vermischte Gedichte und Erzahlungen. Herausgegeben von C. A.Tiedge. Leipzig 1815. Pappband.,747,98.1,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475912,481,449,Theodor Korners Leben und Briefwechsel. Herausgegeben von Adolf Wolff. Berlin. Geheftet.,748,77.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475913,482,450,Theodor Korners simtliche Werke. Stuttgart 1818. Geheftet.,750,96.5,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475914,483,12,451.Zriny.Leipzig 1814. Pappband.,751,95.4,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475915,484,452,Sein Leben nebst einer ausfuhrlichen Beurteilung seiner Schriften von Heinrich August Erhard zu Erfurt.Arnstadt 1821. Pappband.,752,94.7,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475916,485,453,Leyer und Schwert. Berlin 1814. Papierumschlag.,754,95.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475917,486,16,454.Leyer und Schwerdt.Wien 1814. Pappband.,755,96.5,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475918,487,17,455.Leyer und Schwerdt. Wien 1814. Pappband.,756,96.5,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475919,488,456,Leyer und Schwert. Berlin 1814. Pappband.,757,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475913,482,450,Theodor Korners simtliche Werke. Stuttgart 1818. Geheftet.,750,96.5,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475914,483,12,451.Zriny.Leipzig 1814. Pappband.,751,95.4,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475915,484,452,Sein Leben nebst einer ausfuhrlichen Beurteilung seiner Schriften von Heinrich August Erhard zu Erfurt.Arnstadt 1821. Pappband.,752,94.7,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475916,485,453,Leyer und Schwert. Berlin 1814. Papierumschlag.,754,95.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475917,486,16,454.Leyer und Schwerdt.Wien 1814. Pappband.,755,96.5,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475918,487,17,455.Leyer und Schwerdt. Wien 1814. Pappband.,756,96.5,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475919,488,456,Leyer und Schwert. Berlin 1814. Pappband.,757,95.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475920,489,457,Dreizehn Schriften und Erinnerungen an Theodor Korner. Samtlich geheftet.,758,97.3,False,positional,THEODOR KORNER,,,,
 BO0624_88187,475921,490,458,Theodor Korners simtliche Werke. Leipzig. Leinenband.,759,96.2,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475922,491,459,"Theodor Korners samtliche Werke. Herausgegeben von Karl Streck fuB.Berlin 1863.Zwei Bande. Leinenband,rot.",760,72.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475923,492,460,Theodor Korners samtliche Werke. Herausgegeben von Karl Streck fuB. Berlin 1847. Zwei Bande. Roter Einband.,762,98.1,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475922,491,459,"Theodor Korners samtliche Werke. Herausgegeben von Karl Streck fuB.Berlin 1863.Zwei Bande. Leinenband,rot.",760,72.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475923,492,460,Theodor Korners samtliche Werke. Herausgegeben von Karl Streck fuB. Berlin 1847. Zwei Bande. Roter Einband.,762,98.1,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475924,493,6,461.Kornerssamtliche Werke. Berlin-Leipzig. Leinenband.,763,98.1,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475925,494,7,462.Knospen. Leipzig 1810. Pappband.,764,97.1,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475926,495,463,Poetischer Nachlab. Zwei Bande. 1816. Pappumschlag.,765,95.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475927,496,9,464.Dramatische Beytrage. Berlin-Stettin 1821. Pappband.,766,98.1,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475925,494,7,462.Knospen. Leipzig 1810. Pappband.,764,97.1,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475926,495,463,Poetischer Nachlab. Zwei Bande. 1816. Pappumschlag.,765,95.9,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475927,496,9,464.Dramatische Beytrage. Berlin-Stettin 1821. Pappband.,766,98.1,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475928,497,465,Theodor Korners simtliche Werke. Leipzig. Leinenband.,767,83.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475929,498,466,Theodor Korners Gedichte. Gotha und New-York 1827. Pappband.,769,96.6,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475930,499,13,467.Poetischer Nachlass. Leipzig 1823. Zwei Bande. Pappeinband.,770,97.5,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475931,500,14,468.Knospen. Leipzig 1810. Pappband.,771,95.7,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475932,501,15,469.Knospen. Leipzig 1810. Pappband.,772,95.7,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475933,502,470,Gedichte vor und im heiligen Kriege. 1814. Geheftet.,773,96.1,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475929,498,466,Theodor Korners Gedichte. Gotha und New-York 1827. Pappband.,769,96.6,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475930,499,13,467.Poetischer Nachlass. Leipzig 1823. Zwei Bande. Pappeinband.,770,97.5,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475931,500,14,468.Knospen. Leipzig 1810. Pappband.,771,95.7,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475932,501,15,469.Knospen. Leipzig 1810. Pappband.,772,95.7,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475933,502,470,Gedichte vor und im heiligen Kriege. 1814. Geheftet.,773,96.1,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475934,503,471,In franzosischer Sprache. Geheftet.,774,94.3,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475935,504,472,Poetischer Nachlab. Leipzig 1817. Papierumschlag.,777,95.8,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475935,504,472,Poetischer Nachlab. Leipzig 1817. Papierumschlag.,777,95.8,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475936,505,473,An Viktoria. Unvollstandig.,778,92.6,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475937,506,3,474.Knospen. Potsdam 1831. Papierumschlag.,779,97.5,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475938,507,475,"Leier und Schwert. Grobherzog Wilhelm Ernst Ausgabe. Insel-Verlag, Leipzig 1906. Ledereinband in Papphille.",780,74.6,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475939,508,476,Leyer und Schwert. Herausgegeben von Adolph Stahr. Berlin 1863.,782,96.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,
+BO0624_88187,475937,506,3,474.Knospen. Potsdam 1831. Papierumschlag.,779,97.5,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475938,507,475,"Leier und Schwert. Grobherzog Wilhelm Ernst Ausgabe. Insel-Verlag, Leipzig 1906. Ledereinband in Papphille.",780,74.6,False,positional,THEODOR KORNER,,,,Sec. XX
+BO0624_88187,475939,508,476,Leyer und Schwert. Herausgegeben von Adolph Stahr. Berlin 1863.,782,96.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
 BO0624_88187,475940,509,7,Leineneinband mit Goldverzierung.,783,97.0,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475941,510,8,477.Knospen.Potsdam 1831.,784,96.0,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475941,510,8,477.Knospen.Potsdam 1831.,784,96.0,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475942,511,9,Pappband.,785,88.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475943,512,478,Theodor Korners simtliche Werke. Zwei Bande. Stuttgart 1838. Pappband.,786,89.8,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475944,513,479,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfub. Vier Bande. Berlin 1842. Pappband.,788,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475945,514,480,Theodor Korners simtliche Werke. Ausgabe in einem Bande von Dr.Adolph Markgraf. Yverdun 1834. Pappband.,789,98.0,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475946,515,481,Theodor Korners simtliche Werke. Gesamt-Ausgabe in einem Bande von Karl StreckfuB. Mit einem Autogramm von Korners Mutter. Berlin Wien 1834. Pappband.,790,91.6,False,positional,THEODOR KORNER,Scuola Viennese,,,
+BO0624_88187,475943,512,478,Theodor Korners simtliche Werke. Zwei Bande. Stuttgart 1838. Pappband.,786,89.8,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475944,513,479,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfub. Vier Bande. Berlin 1842. Pappband.,788,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475945,514,480,Theodor Korners simtliche Werke. Ausgabe in einem Bande von Dr.Adolph Markgraf. Yverdun 1834. Pappband.,789,98.0,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475946,515,481,Theodor Korners simtliche Werke. Gesamt-Ausgabe in einem Bande von Karl StreckfuB. Mit einem Autogramm von Korners Mutter. Berlin Wien 1834. Pappband.,790,91.6,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
 BO0624_88187,475947,516,482,"Leyer und Schwert. Sechste rechtmaBige, vom Vater des Dichters veranstaltete",792,97.4,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475948,517,17,Ausgabe.Berlin und Stettin.1824. Pappband.,793,96.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475949,518,18,483.Leyer und Schwerdt.Berlin 1814. Blauer Papierumschlag.,794,97.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475950,519,484,Theodor Korners Werke. Vollstandig in einem Bande. Stuttgart 1839 bei Fr. Henne. Pappband.,795,82.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475951,520,485,Leyer und Schwerdt. Berlin 1814. Nicolaische Buchhandlung. Pappband.,799,97.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475952,521,486,Leyer und Schwert.1827. Pappband.,800,93.9,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475953,522,487,Theodor Korners samtliche Werke. Rechtmabige GesamtAusgabe in vier Banden. Herausgegeben von Karl Streckfub. Berlin 1838. Pappband.,801,98.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475954,523,488,Theodor Korners simtliche Werke. Zweite vollstandige Ausgabe in einem Bande.Verlag F. Hartmann jr. Rotterdam 1832. Pappband.,802,98.3,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475948,517,17,Ausgabe.Berlin und Stettin.1824. Pappband.,793,96.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475949,518,18,483.Leyer und Schwerdt.Berlin 1814. Blauer Papierumschlag.,794,97.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475950,519,484,Theodor Korners Werke. Vollstandig in einem Bande. Stuttgart 1839 bei Fr. Henne. Pappband.,795,82.9,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475951,520,485,Leyer und Schwerdt. Berlin 1814. Nicolaische Buchhandlung. Pappband.,799,97.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475952,521,486,Leyer und Schwert.1827. Pappband.,800,93.9,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475953,522,487,Theodor Korners samtliche Werke. Rechtmabige GesamtAusgabe in vier Banden. Herausgegeben von Karl Streckfub. Berlin 1838. Pappband.,801,98.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475954,523,488,Theodor Korners simtliche Werke. Zweite vollstandige Ausgabe in einem Bande.Verlag F. Hartmann jr. Rotterdam 1832. Pappband.,802,98.3,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475955,524,489,"Theodor Korners Werke. Zwei Bande. Berlin, Gustav Hempel. Leinenband.",803,97.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475956,525,490,Theodor Korners Tod. Von Adolf von Schaden. Dramatisches Gedicht. Berlin 1817. Pappband.,804,97.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475957,526,491,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfub. Zwei Bande.Berlin 1876. Leinenband.,805,92.1,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475958,527,492,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1866. Pappband.,807,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475959,528,493,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfuf. Berlin 1884. Leinenband.,808,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475960,529,494,Theodor Korners simtliche Werke. GesamtAusgabe in einem Bande von Karl StreckfuB. Berlin-Wien 1834. Pappband.,809,71.0,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475961,530,495,Theodor Korners samtliche Werke. In einem Bande von Karl Streck fub herausgegeben. Berlin-Wien 1835. Leinenband.,811,98.2,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475962,531,496,Theodor Korners simtliche Werke. Zwei Bande. Berlin 1874. Leinenband.,812,97.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475963,532,497,Theodor Korners simtliche Werke. Herausgegeben von Dr.Adolph Markgraf. Zwei Bande.Yverdun 1833. Pappband.,813,93.4,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475964,533,498,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub. Zwei Bande. Fuinfte Ausgabe. Berlin 1855. Pappband.,815,71.1,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475965,534,499,Desgleichen.Zwei Bande. Dritte Ausgabe. Berlin 1847. Pappband.,817,96.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475966,535,4,500.Desgleichen. Zwei Bande. Dritte Ausgabe. Berlin 1847. Pappband.,818,98.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475967,536,501,Theodor Korners samtliche Werke. Vollstandige Ausgabe in einem Bande.Verlag Gebr.Hartmann. Haag 1829. Pappband.,819,98.2,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475968,537,502,Theodor Korners simtliche Werke. Vollstandige Original-Ausgabe in einem Bande. Herausgegeben von Karl StreckfuB. Berlin 1874. Pappband.,820,98.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475969,538,7,503.Desgleichen.Gesamt-Ausgabe in einem Bande. Berlin 1866. Pappband.,821,98.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475970,539,504,Desgleichen. Rechtmabige GesamtAusgabe in vier Banden. Berlin 1838. Pappband.,822,97.3,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475971,540,505,Theodor Korners simtliche Werke. Herausgegeben von Karl StreckfuB. Zwei Bande.Berlin 1867. Pappband.,823,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475972,541,10,"506.Theodor Korners samtliche Werke. Vollstandig in zwei Banden. Stuttgart, J. Ullrich.1848. Pappband.",824,98.5,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475973,542,507,Theodor Korners samtliche Werke. Herausgegeben yon Karl Streckfub. Zwei Bande. Berlin 1838. Pappband.,825,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,
-BO0624_88187,475974,543,508,"Theodor Korners poetischer Nachlass. Zwei Bande, dritte Auflage. Leipzig 1816, bey Johann Friedrich Hartknoch. Pappband.",826,98.3,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475975,544,13,509.Dramatische Beytrage. Drei Bande. Zweite Auflage.Wien 1819. Im Verlage bey Johann Baptist Wallishausser. Pappband.,827,98.7,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475976,545,14,510.Theodor Korners poetischer Nachlass. Zwei Bande. Siebente Auflage. Leipzig bey Johann Friedrich Hartknoch. 1829. Pappband.,828,98.8,False,positional,THEODOR KORNER,,,,
+BO0624_88187,475956,525,490,Theodor Korners Tod. Von Adolf von Schaden. Dramatisches Gedicht. Berlin 1817. Pappband.,804,97.6,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475957,526,491,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfub. Zwei Bande.Berlin 1876. Leinenband.,805,92.1,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475958,527,492,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub. Berlin 1866. Pappband.,807,97.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475959,528,493,Theodor Korners samtliche Werke. Herausgegeben von Karl Streckfuf. Berlin 1884. Leinenband.,808,97.8,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475960,529,494,Theodor Korners simtliche Werke. GesamtAusgabe in einem Bande von Karl StreckfuB. Berlin-Wien 1834. Pappband.,809,71.0,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475961,530,495,Theodor Korners samtliche Werke. In einem Bande von Karl Streck fub herausgegeben. Berlin-Wien 1835. Leinenband.,811,98.2,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475962,531,496,Theodor Korners simtliche Werke. Zwei Bande. Berlin 1874. Leinenband.,812,97.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475963,532,497,Theodor Korners simtliche Werke. Herausgegeben von Dr.Adolph Markgraf. Zwei Bande.Yverdun 1833. Pappband.,813,93.4,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475964,533,498,Theodor Korners simtliche Werke. Herausgegeben von Karl Streckfub. Zwei Bande. Fuinfte Ausgabe. Berlin 1855. Pappband.,815,71.1,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475965,534,499,Desgleichen.Zwei Bande. Dritte Ausgabe. Berlin 1847. Pappband.,817,96.7,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475966,535,4,500.Desgleichen. Zwei Bande. Dritte Ausgabe. Berlin 1847. Pappband.,818,98.4,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475967,536,501,Theodor Korners samtliche Werke. Vollstandige Ausgabe in einem Bande.Verlag Gebr.Hartmann. Haag 1829. Pappband.,819,98.2,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475968,537,502,Theodor Korners simtliche Werke. Vollstandige Original-Ausgabe in einem Bande. Herausgegeben von Karl StreckfuB. Berlin 1874. Pappband.,820,98.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475969,538,7,503.Desgleichen.Gesamt-Ausgabe in einem Bande. Berlin 1866. Pappband.,821,98.5,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475970,539,504,Desgleichen. Rechtmabige GesamtAusgabe in vier Banden. Berlin 1838. Pappband.,822,97.3,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475971,540,505,Theodor Korners simtliche Werke. Herausgegeben von Karl StreckfuB. Zwei Bande.Berlin 1867. Pappband.,823,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475972,541,10,"506.Theodor Korners samtliche Werke. Vollstandig in zwei Banden. Stuttgart, J. Ullrich.1848. Pappband.",824,98.5,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475973,542,507,Theodor Korners samtliche Werke. Herausgegeben yon Karl Streckfub. Zwei Bande. Berlin 1838. Pappband.,825,98.0,False,positional,THEODOR KORNER,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,475974,543,508,"Theodor Korners poetischer Nachlass. Zwei Bande, dritte Auflage. Leipzig 1816, bey Johann Friedrich Hartknoch. Pappband.",826,98.3,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475975,544,13,509.Dramatische Beytrage. Drei Bande. Zweite Auflage.Wien 1819. Im Verlage bey Johann Baptist Wallishausser. Pappband.,827,98.7,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475976,545,14,510.Theodor Korners poetischer Nachlass. Zwei Bande. Siebente Auflage. Leipzig bey Johann Friedrich Hartknoch. 1829. Pappband.,828,98.8,False,positional,THEODOR KORNER,,,,Sec. XIX
 BO0624_88187,475977,546,511,Theodor Korner.Gedichte. Drei Miniaturbande. Neueste Auflage.,829,96.7,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475978,547,512,Theodor Korners Gedichte. Ein Band. Neueste Auflage. Wien 1815. Bey B.Ph. Bauer. Pappband in Papphuille.,831,98.0,False,positional,THEODOR KORNER,Scuola Viennese,,,
-BO0624_88187,475979,548,513,"Theodor Korner. Sein Leben, sein Tod im Gefechte bei Rosenberg und sein Grab bei Wobbelin in Mecklenburg-Schwerin. Dem deutschen Volke gewidmet. Schwerin 1863. Oertzen &amp; Comp.",832,98.8,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475980,549,514,Theodor Korners vermischte Gedichte und Erzahlungen (poetischer NachlaB) nebst des Dichters Charakteristik von C. A. Tiedge und biographischen Notizen von dem Vater des Verewigten.Wien 1815. In der Haasschen Buchhandlung. Pappband.,834,99.1,False,positional,THEODOR KORNER,Scuola Viennese,,,
+BO0624_88187,475978,547,512,Theodor Korners Gedichte. Ein Band. Neueste Auflage. Wien 1815. Bey B.Ph. Bauer. Pappband in Papphuille.,831,98.0,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
+BO0624_88187,475979,548,513,"Theodor Korner. Sein Leben, sein Tod im Gefechte bei Rosenberg und sein Grab bei Wobbelin in Mecklenburg-Schwerin. Dem deutschen Volke gewidmet. Schwerin 1863. Oertzen &amp; Comp.",832,98.8,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475980,549,514,Theodor Korners vermischte Gedichte und Erzahlungen (poetischer NachlaB) nebst des Dichters Charakteristik von C. A. Tiedge und biographischen Notizen von dem Vater des Verewigten.Wien 1815. In der Haasschen Buchhandlung. Pappband.,834,99.1,False,positional,THEODOR KORNER,Scuola Viennese,,,Sec. XIX
 BO0624_88187,475981,550,515,Korners simtliche Werke. Vier Bande. Stuttgart. Roter Leineneinband.,835,97.0,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475982,551,516,Theodor Korners poetischer Nachlass. Zwei Bande. Leipzig 1816. Bey Johann Friedrich Hartknoch. Roter Pappband.,836,98.1,False,positional,THEODOR KORNER,,,,
-BO0624_88187,475983,552,517,"Lebensbeschreibung und Totenfeier Carl Theodor Korners. Halle a. d. S., Leipzig 1819. Ohne Einband.",840,97.9,False,positional,FRIEDRICH WILHELM LEHMANN,,,,
-BO0624_88187,475984,553,518,Lebensbeschreibung und Totenfeier Carl Theodor Korners. Halle a.d.Saale 1819.,841,97.4,False,positional,FRIEDRICH WILHELM LEHMANN,,,,
+BO0624_88187,475982,551,516,Theodor Korners poetischer Nachlass. Zwei Bande. Leipzig 1816. Bey Johann Friedrich Hartknoch. Roter Pappband.,836,98.1,False,positional,THEODOR KORNER,,,,Sec. XIX
+BO0624_88187,475983,552,517,"Lebensbeschreibung und Totenfeier Carl Theodor Korners. Halle a. d. S., Leipzig 1819. Ohne Einband.",840,97.9,False,positional,FRIEDRICH WILHELM LEHMANN,,,,Sec. XIX
+BO0624_88187,475984,553,518,Lebensbeschreibung und Totenfeier Carl Theodor Korners. Halle a.d.Saale 1819.,841,97.4,False,positional,FRIEDRICH WILHELM LEHMANN,,,,Sec. XIX
 BO0624_88187,475985,554,519,Noch unbekannte Kriegsszenen oder Feldzug der Sachsen. Pappband.,846,96.9,False,positional,CARL MELTZER,,,,
-BO0624_88187,475986,555,520,Einige Lieder und Gedichte.1817.,850,93.9,False,positional,FRIEDRICH NAUCK,,,,
+BO0624_88187,475986,555,520,Einige Lieder und Gedichte.1817.,850,93.9,False,positional,FRIEDRICH NAUCK,,,,Sec. XIX
 BO0624_88187,475987,556,521,"Blumen, Frucht und Dornenstiicke oder Ehestand, Tod und Hochzeit.",856,96.9,False,positional,JEAN PAUL,,,,
-BO0624_88187,475988,557,522,Geschichte der Befreiungskriege. Frankfurt a. O. 1866.,860,96.2,False,positional,F.R.PAULIG,,,,
-BO0624_88187,475989,558,523,Geschichte der Befreiungskriege. Frankfurt a. O. 1866.,861,96.2,False,positional,F.R.PAULIG,,,,
+BO0624_88187,475988,557,522,Geschichte der Befreiungskriege. Frankfurt a. O. 1866.,860,96.2,False,positional,F.R.PAULIG,,,,Sec. XIX
+BO0624_88187,475989,558,523,Geschichte der Befreiungskriege. Frankfurt a. O. 1866.,861,96.2,False,positional,F.R.PAULIG,,,,Sec. XIX
 BO0624_88187,475990,559,524,Idyllen. Leipzig. Pappband.,868,92.3,False,positional,CAROLINA PICHLER,,,,
-BO0624_88187,475991,560,525,Rahel's Umgang und Briefwechsel. Leipzig 1836.,872,95.7,False,positional,K.A. WARNHAGEN VON ENSE,,,,
-BO0624_88187,475992,561,526,"Schiller und seine Zeit. Leipzig 1859. Mit vielen Stichen. Prachteinband,Leder mit Goldschnitt.",876,97.8,False,positional,J.SCHERR,,OGGETTI IN PELLE,,
-BO0624_88187,475993,562,527,Schillers Briefwechsel mit Korner. Von 1784 bis zum Tode Schillers. Vier Bande.Berlin 1847. Leinenband.,877,98.0,False,positional,J.SCHERR,Scuola di Berlino,,,
-BO0624_88187,475994,563,528,Maria Stuart. Tubingen 1801. Pappband.,881,94.6,False,positional,FRIEDRICH VON SCHILLER,,,,
-BO0624_88187,475995,564,529,Die Braut von Messina oder die feindlichen Brider. Tubingen 1803. Pappband.,882,97.3,False,positional,FRIEDRICH VON SCHILLER,,,,
-BO0624_88187,475996,565,530,Wallenstein. Mannheim 1802. Pappband.,883,94.4,False,positional,FRIEDRICH VON SCHILLER,,,,
+BO0624_88187,475991,560,525,Rahel's Umgang und Briefwechsel. Leipzig 1836.,872,95.7,False,positional,K.A. WARNHAGEN VON ENSE,,,,Sec. XIX
+BO0624_88187,475992,561,526,"Schiller und seine Zeit. Leipzig 1859. Mit vielen Stichen. Prachteinband,Leder mit Goldschnitt.",876,97.8,False,positional,J.SCHERR,,OGGETTI IN PELLE,,Sec. XIX
+BO0624_88187,475993,562,527,Schillers Briefwechsel mit Korner. Von 1784 bis zum Tode Schillers. Vier Bande.Berlin 1847. Leinenband.,877,98.0,False,positional,J.SCHERR,Scuola di Berlino,,,Sec. XVIII
+BO0624_88187,475994,563,528,Maria Stuart. Tubingen 1801. Pappband.,881,94.6,False,positional,FRIEDRICH VON SCHILLER,,,,Sec. XIX
+BO0624_88187,475995,564,529,Die Braut von Messina oder die feindlichen Brider. Tubingen 1803. Pappband.,882,97.3,False,positional,FRIEDRICH VON SCHILLER,,,,Sec. XIX
+BO0624_88187,475996,565,530,Wallenstein. Mannheim 1802. Pappband.,883,94.4,False,positional,FRIEDRICH VON SCHILLER,,,,Sec. XIX
 BO0624_88187,475997,566,531,"Ich habe mich rasieren lassen, von Friedrich von Schiller. Herausgegeben von Karl Kunzel. Leipzig. Pappband.",884,98.1,False,positional,FRIEDRICH VON SCHILLER,,,,
-BO0624_88187,475998,567,532,Humoristische Zeichnungen. Herausgegeben von Carl Kunzel. Rom 1786.,890,97.0,False,positional,FRIEDRICH VON SCHILLER,,,,
-BO0624_88187,475999,568,533,Schiller with Korner Correspondence. 3 Bande. London 1849. Leinenbande.,891,97.1,False,positional,FRIEDRICH VON SCHILLER,,,,
-BO0624_88187,476000,569,534,Schiller und Korner.Briefwechsel. Von 1784 bis zum Tode Schillers. Mit Einleitung von Ludwig Geiger. Vier Bande.Stuttgart. Blauer Leinenband.,893,69.9,False,positional,FRIEDRICH VON SCHILLER,,,,
-BO0624_88187,476001,570,535,"Satans Bastard. Eine Reihe von dramatischen Szenen aus der Zeit geschichte 1812—1814. Berlin, bei August Rucker,1816.",897,98.3,False,positional,JOHANN FRIEDRICH SCHINK,Scuola di Berlino,,,
-BO0624_88187,476002,571,536,Todesgesinge.Wien 1767. Pappband.,901,93.9,False,positional,Ch.F.D.SCHUBART,Scuola Viennese,,,
-BO0624_88187,476003,572,537,"Das Gebet des Herrn. Andenken an die Volkerschlacht bei Leipzig. Berlin,am 18.Oktober 1832. Pappband.",905,98.0,False,positional,C.W.SCHULZ,Scuola di Berlino,,,
-BO0624_88187,476004,573,538,Romantische Gemilde von Leipzig. Mit vielen Illustrationen. Leipzig 1804. Pappband.,909,97.5,False,positional,KARL BENJAMIN SCHWARZ,,,,
+BO0624_88187,475998,567,532,Humoristische Zeichnungen. Herausgegeben von Carl Kunzel. Rom 1786.,890,97.0,False,positional,FRIEDRICH VON SCHILLER,,,,Sec. XVIII
+BO0624_88187,475999,568,533,Schiller with Korner Correspondence. 3 Bande. London 1849. Leinenbande.,891,97.1,False,positional,FRIEDRICH VON SCHILLER,,,,Sec. XIX
+BO0624_88187,476000,569,534,Schiller und Korner.Briefwechsel. Von 1784 bis zum Tode Schillers. Mit Einleitung von Ludwig Geiger. Vier Bande.Stuttgart. Blauer Leinenband.,893,69.9,False,positional,FRIEDRICH VON SCHILLER,,,,Sec. XVIII
+BO0624_88187,476001,570,535,"Satans Bastard. Eine Reihe von dramatischen Szenen aus der Zeit geschichte 1812—1814. Berlin, bei August Rucker,1816.",897,98.3,False,positional,JOHANN FRIEDRICH SCHINK,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,476002,571,536,Todesgesinge.Wien 1767. Pappband.,901,93.9,False,positional,Ch.F.D.SCHUBART,Scuola Viennese,,,Sec. XVIII
+BO0624_88187,476003,572,537,"Das Gebet des Herrn. Andenken an die Volkerschlacht bei Leipzig. Berlin,am 18.Oktober 1832. Pappband.",905,98.0,False,positional,C.W.SCHULZ,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,476004,573,538,Romantische Gemilde von Leipzig. Mit vielen Illustrationen. Leipzig 1804. Pappband.,909,97.5,False,positional,KARL BENJAMIN SCHWARZ,,,,Sec. XIX
 BO0624_88187,476005,574,539,Taschenbuch fir Freunde der Declamation. Drittes Bandchen. Leipzig. Pappband.,913,97.3,False,positional,E.F.SOLBRIG,,,,
-BO0624_88187,476006,575,540,Geschichte des siebenjahrigen Krieges. Funf Bande. Berlin 1794. Mit Planen. Pappband.,917,97.6,False,positional,G.F. VON TEMPELHOFF,Scuola di Berlino,,,
-BO0624_88187,476007,576,541,Denkmale der Zeit. Leipzig 1814. Pappband.,921,95.1,False,positional,C.A.TIEDGE,,,,
-BO0624_88187,476008,577,542,Zerstreute Gedichte.Weissenburg 1802. Zwei Bande.,924,95.9,False,positional,JOHANN CHRISTOPH ZENKERS,,,,
-BO0624_88187,476009,578,543,Der preussische Patriotenspiegel. 1849. Geheftet.,928,95.8,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476010,579,2,"544.Abdalla, eine Erzahlung. Berlin-Leipzig, bey August Nicolai 1795.",929,98.5,False,positional,ZIMMERMANN,Scuola di Berlino,,,
+BO0624_88187,476006,575,540,Geschichte des siebenjahrigen Krieges. Funf Bande. Berlin 1794. Mit Planen. Pappband.,917,97.6,False,positional,G.F. VON TEMPELHOFF,Scuola di Berlino,,,Sec. XVIII
+BO0624_88187,476007,576,541,Denkmale der Zeit. Leipzig 1814. Pappband.,921,95.1,False,positional,C.A.TIEDGE,,,,Sec. XIX
+BO0624_88187,476008,577,542,Zerstreute Gedichte.Weissenburg 1802. Zwei Bande.,924,95.9,False,positional,JOHANN CHRISTOPH ZENKERS,,,,Sec. XIX
+BO0624_88187,476009,578,543,Der preussische Patriotenspiegel. 1849. Geheftet.,928,95.8,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476010,579,2,"544.Abdalla, eine Erzahlung. Berlin-Leipzig, bey August Nicolai 1795.",929,98.5,False,positional,ZIMMERMANN,Scuola di Berlino,,,Sec. XVIII
 BO0624_88187,476011,580,3,Geheftet.,930,88.9,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476012,581,4,545.An die Widersacher der Vereinigung Sachsens mit Preussen. Frankfurt und Leipzig 1815. Papierumschlag.,931,99.0,False,positional,ZIMMERMANN,,,,
+BO0624_88187,476012,581,4,545.An die Widersacher der Vereinigung Sachsens mit Preussen. Frankfurt und Leipzig 1815. Papierumschlag.,931,99.0,False,positional,ZIMMERMANN,,,,Sec. XIX
 BO0624_88187,476013,582,546,Auswahl guter Kriegslieder. Preubens Kriegern gewidmet. Im Sep-,932,96.8,False,positional,ZIMMERMANN,,,,
 BO0624_88187,476014,583,6,"Separat-Abdruck. Donnerstag, den 9. Sept.",933,97.4,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476015,584,7,"tember 1806,Halle. Geheftet.",934,96.3,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476016,585,8,547.Berlinische Nachrichten. 1813. Kleeblatt edler gefallner Sanger.,935,98.5,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476017,586,548,Berlinische Nachrichten von Staats- und gelehrten Sachen.Fur das Jahr 1814. Pappband.,936,97.6,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476018,587,549,Berlinische Nachrichten von Staats- und gelehrten Sachen. Fur das Jahr 1813. Pappband.,937,81.4,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476019,588,550,Berlinische Nachrichten von Staats- und gelehrten Sachen. Juli bis Dezember 1813. Pappband.,939,97.8,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476020,589,13,551.Berlinische Nachrichten von Staats und gelehrten Sachen. Juli bis Dezember 1810. Pappeinband.,940,98.4,False,positional,ZIMMERMANN,,,,
+BO0624_88187,476015,584,7,"tember 1806,Halle. Geheftet.",934,96.3,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476016,585,8,547.Berlinische Nachrichten. 1813. Kleeblatt edler gefallner Sanger.,935,98.5,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476017,586,548,Berlinische Nachrichten von Staats- und gelehrten Sachen.Fur das Jahr 1814. Pappband.,936,97.6,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476018,587,549,Berlinische Nachrichten von Staats- und gelehrten Sachen. Fur das Jahr 1813. Pappband.,937,81.4,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476019,588,550,Berlinische Nachrichten von Staats- und gelehrten Sachen. Juli bis Dezember 1813. Pappband.,939,97.8,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476020,589,13,551.Berlinische Nachrichten von Staats und gelehrten Sachen. Juli bis Dezember 1810. Pappeinband.,940,98.4,False,positional,ZIMMERMANN,,,,Sec. XIX
 BO0624_88187,476021,590,14,552.Berlinische Nachrichten von Staats und gelehrten Sachen. Januar bis,941,97.9,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476022,591,15,Juni 1870. Pappeinband.,942,93.3,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476023,592,553,553. Betrachtungen uiber den Frieden von 1814. Aus dem Englischen. Geheftet.,943,100.0,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476024,593,554,554. Kabinets-Bibliothek der Deutschen Klassiker. Korners Gedichte.Gotha und Newyork. 1827. Pappband.,944,91.9,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476025,594,555,Convolut von Zeitungen und Erlassen von 1792-1888.,945,96.1,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476026,595,556,Deutsche Wehrlieder.Ostern 1813. Papierumschlag.,946,95.8,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476027,596,557,"Deutschland. Blicher, Wellington. Drei Gedichte zum Besten der Ver wundeten.Berlin 1815. Geheftet.",947,97.9,False,positional,ZIMMERMANN,Scuola di Berlino,,,
-BO0624_88187,476028,597,558,Die Dichter des deutschen Volkes. Mit Illustrationen. Berlin 1846. Leinenband.,948,97.4,False,positional,ZIMMERMANN,Scuola di Berlino,,,
-BO0624_88187,476029,598,559,Dresden zur zweckmassigen Kenntnis seiner Hauser und deren Bewohner. Dresden 1797. Pappband.,949,97.8,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476030,599,560,Ergiessungen deutschen Gefihles. In Gesangen und Liedern. 1814. Geheftet.,950,97.2,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476031,600,562,Helvetischer Almanach. Fur das Jahr 1814. Zurich. Pappband.,953,96.5,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476032,601,563,Das Geschwister-Grab zu Wobbelin. Leipzig 1815. Drei Bande.,954,96.6,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476033,602,564,Das Heimelchen.Dammermarchen von Allerlei - Rauh.Mit vielen Illustrationen.Berlin 1848. Moireeband.,956,97.9,False,positional,ZIMMERMANN,Scuola di Berlino,,,
-BO0624_88187,476034,603,565,Klage an Emmas Beerdigungs-Tage den 18.Marz 1815 in bruderlicher,957,97.0,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476035,604,566,Kurze Darstellung der kirchlichen Feierlichkeiten bei der Vereidung und Einsegnung des preuBischen Freijagerkorps in der Rogauer evangelischen Kirche. Breslau 1813. Geheftet.,959,98.8,False,positional,ZIMMERMANN,,,,
+BO0624_88187,476022,591,15,Juni 1870. Pappeinband.,942,93.3,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476023,592,553,553. Betrachtungen uiber den Frieden von 1814. Aus dem Englischen. Geheftet.,943,100.0,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476024,593,554,554. Kabinets-Bibliothek der Deutschen Klassiker. Korners Gedichte.Gotha und Newyork. 1827. Pappband.,944,91.9,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476025,594,555,Convolut von Zeitungen und Erlassen von 1792-1888.,945,96.1,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476026,595,556,Deutsche Wehrlieder.Ostern 1813. Papierumschlag.,946,95.8,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476027,596,557,"Deutschland. Blicher, Wellington. Drei Gedichte zum Besten der Ver wundeten.Berlin 1815. Geheftet.",947,97.9,False,positional,ZIMMERMANN,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,476028,597,558,Die Dichter des deutschen Volkes. Mit Illustrationen. Berlin 1846. Leinenband.,948,97.4,False,positional,ZIMMERMANN,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,476029,598,559,Dresden zur zweckmassigen Kenntnis seiner Hauser und deren Bewohner. Dresden 1797. Pappband.,949,97.8,False,positional,ZIMMERMANN,,,,Sec. XVIII
+BO0624_88187,476030,599,560,Ergiessungen deutschen Gefihles. In Gesangen und Liedern. 1814. Geheftet.,950,97.2,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476031,600,562,Helvetischer Almanach. Fur das Jahr 1814. Zurich. Pappband.,953,96.5,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476032,601,563,Das Geschwister-Grab zu Wobbelin. Leipzig 1815. Drei Bande.,954,96.6,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476033,602,564,Das Heimelchen.Dammermarchen von Allerlei - Rauh.Mit vielen Illustrationen.Berlin 1848. Moireeband.,956,97.9,False,positional,ZIMMERMANN,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,476034,603,565,Klage an Emmas Beerdigungs-Tage den 18.Marz 1815 in bruderlicher,957,97.0,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476035,604,566,Kurze Darstellung der kirchlichen Feierlichkeiten bei der Vereidung und Einsegnung des preuBischen Freijagerkorps in der Rogauer evangelischen Kirche. Breslau 1813. Geheftet.,959,98.8,False,positional,ZIMMERMANN,,,,Sec. XIX
 BO0624_88187,476036,605,567,Lebensereignisse und Meinungen eines Sachsen-Jinglings.,960,96.4,False,positional,ZIMMERMANN,,,,
 BO0624_88187,476037,606,2,Ein Heft.,961,88.9,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476038,607,3,568.Liederbuch fir die Veteranen der groben Napoleonsarmee von 1803 bis 1814. Mainz 1837. Roter Einband.,962,99.0,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476039,608,569,Lobrede auf den Feldmarschall. Berlin 1819. Blauer Papierumschlag.,963,96.9,False,positional,ZIMMERMANN,Scuola di Berlino,,,
-BO0624_88187,476040,609,5,"570.Der Messias.Ein Heldengedicht mit vielen Kupfern. Halle, bey Carl Herrmann Hemmerde,1749. Pappband.",964,99.0,False,positional,ZIMMERMANN,,OGGETTI IN RAME,,
-BO0624_88187,476041,610,6,"571.Minerva fur das Jahr 1812,mit 9 Kupfern. Leipzig. Pappband.",965,98.4,False,positional,ZIMMERMANN,,OGGETTI IN RAME,,
-BO0624_88187,476042,611,572,Drei Pline zu Asters Kriegsereignissen im August 1813.,966,96.4,False,positional,ZIMMERMANN,,,,
+BO0624_88187,476038,607,3,568.Liederbuch fir die Veteranen der groben Napoleonsarmee von 1803 bis 1814. Mainz 1837. Roter Einband.,962,99.0,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476039,608,569,Lobrede auf den Feldmarschall. Berlin 1819. Blauer Papierumschlag.,963,96.9,False,positional,ZIMMERMANN,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,476040,609,5,"570.Der Messias.Ein Heldengedicht mit vielen Kupfern. Halle, bey Carl Herrmann Hemmerde,1749. Pappband.",964,99.0,False,positional,ZIMMERMANN,,OGGETTI IN RAME,,Sec. XVIII
+BO0624_88187,476041,610,6,"571.Minerva fur das Jahr 1812,mit 9 Kupfern. Leipzig. Pappband.",965,98.4,False,positional,ZIMMERMANN,,OGGETTI IN RAME,,Sec. XIX
+BO0624_88187,476042,611,572,Drei Pline zu Asters Kriegsereignissen im August 1813.,966,96.4,False,positional,ZIMMERMANN,,,,Sec. XIX
 BO0624_88187,476043,612,8,In Papphuille.,967,92.9,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476044,613,9,573.Aeht Pline vom Oktober 1813.,968,96.9,False,positional,ZIMMERMANN,,,,
+BO0624_88187,476044,613,9,573.Aeht Pline vom Oktober 1813.,968,96.9,False,positional,ZIMMERMANN,,,,Sec. XIX
 BO0624_88187,476045,614,10,In Papphuillen.,969,90.3,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476046,615,574,"Programm zur Korner-Gedenkfeier. Im Koniglichen Groben Garten am Mittwoch,den 26.August 1863. Pappband.",970,73.2,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476047,616,575,Proklamation des Generals von Blicher.Im Marz 1813. Geheftet.,972,96.7,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476048,617,14,576.Rundenlieder.Berlin 1817. Pappband.,973,96.1,False,positional,ZIMMERMANN,Scuola di Berlino,,,
-BO0624_88187,476049,618,577,Spazierginge eines Wiener Poeten. Hamburg 1831. Leinenband.,974,96.6,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476050,619,578,Taschenbuch fur das Jahr 1812. Frankfurt am Mayn bei Friedrich Wilmans. Pappband.,975,97.5,False,positional,ZIMMERMANN,,,,
+BO0624_88187,476046,615,574,"Programm zur Korner-Gedenkfeier. Im Koniglichen Groben Garten am Mittwoch,den 26.August 1863. Pappband.",970,73.2,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476047,616,575,Proklamation des Generals von Blicher.Im Marz 1813. Geheftet.,972,96.7,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476048,617,14,576.Rundenlieder.Berlin 1817. Pappband.,973,96.1,False,positional,ZIMMERMANN,Scuola di Berlino,,,Sec. XIX
+BO0624_88187,476049,618,577,Spazierginge eines Wiener Poeten. Hamburg 1831. Leinenband.,974,96.6,False,positional,ZIMMERMANN,,,,Sec. XIX
+BO0624_88187,476050,619,578,Taschenbuch fur das Jahr 1812. Frankfurt am Mayn bei Friedrich Wilmans. Pappband.,975,97.5,False,positional,ZIMMERMANN,,,,Sec. XIX
 BO0624_88187,476051,620,17,"579.Urania Taschenbuch fir das Jahr 18lo. Amsterdam,im Kunst- und Industrie-Comptoir. Pappband in Papphuille.",976,98.6,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476052,621,580,Vermischte Schriften von dem Verfasser des heimlichen Gerichts. Berlin 1793.Vossische Buchhandlung. Pappband.,977,98.1,False,positional,ZIMMERMANN,Scuola di Berlino,,,
+BO0624_88187,476052,621,580,Vermischte Schriften von dem Verfasser des heimlichen Gerichts. Berlin 1793.Vossische Buchhandlung. Pappband.,977,98.1,False,positional,ZIMMERMANN,Scuola di Berlino,,,Sec. XVIII
 BO0624_88187,476053,622,581,Ein Convolut von 670. Facsimiles.,978,93.9,False,positional,ZIMMERMANN,,,,
 BO0624_88187,476054,623,582,Ein Convolut Noten. Darunter sehr viele Lieder von Theodor Korner.,979,97.0,False,positional,ZIMMERMANN,,,,
 BO0624_88187,476055,624,583,Ein Convolut kolorierter Stahlstiche iber Napoleon.,980,96.2,False,positional,ZIMMERMANN,,OGGETTI IN METALLO,,
@@ -627,4 +627,4 @@ BO0624_88187,476056,625,584,"Album mit kolorierten Kupferstichen von Ernst Arnol
 BO0624_88187,476057,626,585,Album mit verschiedenen Stahlstichen.,982,94.7,False,positional,ZIMMERMANN,,OGGETTI IN METALLO,,
 BO0624_88187,476058,627,586,Ein Convolut von Kornerschriften. Zeitungen und Heften mit Kornernotizen.,983,97.3,False,positional,ZIMMERMANN,,,,
 BO0624_88187,476059,628,587,"Verschiedene Schriften,Programme, Theaterzettel, Huldigungen und Gedichte zur Feier des Antritts der fuinfzigjahrigen Regierung Konig Friedrich August''s von Sachsen.",984,98.8,False,positional,ZIMMERMANN,,,,
-BO0624_88187,476060,629,588,Verschiedene Zeitungen und Schriften 1730-1815.,985,95.8,False,positional,ZIMMERMANN,,,,
+BO0624_88187,476060,629,588,Verschiedene Zeitungen und Schriften 1730-1815.,985,95.8,False,positional,ZIMMERMANN,,,,Sec. XVIII

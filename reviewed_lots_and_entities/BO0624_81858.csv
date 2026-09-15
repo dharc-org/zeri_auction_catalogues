@@ -8,7 +8,7 @@ BO0624_81858,111673,6,6,La vendita procedera per ordine numerico.,10,97.6,False,
 BO0624_81858,111674,7,7,"Previa richiesta di almeno due compratori l'Impresa puo riunire,in uno solo,due o piu lotti di natura omogenea compresi nello stesso giorno di vendita.",11,99.3,False,none,,,,,
 BO0624_81858,111675,8,8,"I lotti dei quali per qualche contestazione risultasse dubbia 1'aggiudicazione, verranno indiscutibilmente rimessi all'asta.",12,99.2,False,none,,,,,
 BO0624_81858,111676,9,9,Le offerte di aumento non possono essere inferiori di:,13,98.1,False,none,,,,,
-BO0624_81858,111677,10,1,"|  25 |                   |  500 | ”         | 1000   | ·，        | DuE sEDIE bresciane,differenti.",27,86.5,False,positional,,,SEDIE,,
+BO0624_81858,111677,10,1,"|  25 |                   |  500 | ”         | 1000   | ·，        | DuE sEDIE bresciane,differenti.",27,86.5,False,positional,,,SEDIE,,Sec. XI
 BO0624_81858,111678,11,2,ORcio primitivo di terracotta.,28,96.7,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111679,12,3,"PAIo ALARI in ferro battuto del 400, con guf.",29,97.7,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111680,13,4,CorANETTo fasiato di lamicra di ferro e velluto rosso.,30,98.1,False,positional,,,Mercoledi 14 Aprile,,
@@ -27,13 +27,13 @@ BO0624_81858,111692,25,16,MATToNELLA di maiolica Abruzzo in cornice: S.Sebastian
 BO0624_81858,111693,26,17,"QUATTRO MAsCHERONI bronzo, dei quali due dorati.",43,96.8,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111694,27,18,DUE MAsCHERONI c. s. con tiranti.,44,95.2,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111695,28,19,"CINQUE sTATUETTE di bronzo, delle quali due dorate.",45,97.0,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111696,29,20,"MoRTAio in bronzo con stemma,del XV secolo.",46,96.6,False,positional,,,Mercoledi 14 Aprile,,
+BO0624_81858,111696,29,20,"MoRTAio in bronzo con stemma,del XV secolo.",46,96.6,False,positional,,,Mercoledi 14 Aprile,,Sec. XV
 BO0624_81858,111697,30,21,"MoRTA1o c. s. piu piccolo, con teste.",47,95.7,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111698,31,22,MANiGLiA di bronzo con sfingi alate.,48,95.9,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111699,32,23,BRAcIERE ovale di ottone centinato.,49,95.8,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111700,33,24,BRACIERE di rame.,50,91.4,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111701,34,25,SpEccHio in cornice di legno nero con sagome dorate.,51,97.1,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111702,35,26,"STATuETTA avorio:Madonna, XV secolo.",52,95.8,False,positional,,,Mercoledi 14 Aprile,,
+BO0624_81858,111702,35,26,"STATuETTA avorio:Madonna, XV secolo.",52,95.8,False,positional,,,Mercoledi 14 Aprile,,Sec. XV
 BO0624_81858,111703,36,27,"PoRTANTINA veneziana,dipinta,XVII secolo.",53,96.4,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111704,37,28,MoBiLino di noce con sagome lisce ad uno sportello.,54,97.1,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111705,38,29,"Sripo toscano di noce con sportello, del 500.",55,96.6,False,positional,,,Mercoledi 14 Aprile,,
@@ -44,8 +44,8 @@ BO0624_81858,111709,42,33,DipiNTo su tela: Seuola del Tintoretto. Ritratto di uo
 BO0624_81858,111710,43,34,DipiNTo su tela di scuola bolognese: La Carita.,60,96.8,False,positional,,Scuola Bolognese,Mercoledi 14 Aprile,,
 BO0624_81858,111711,44,35,"M. 9.50 di damasco rosso, in 6 teli. bis M. 59 di damasco c.s.in 15 teli,fra lunghi e corti.",62,76.9,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111712,45,36,ScALDINo di rame veneziano.,63,94.5,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111713,46,37,"LEGG1o di noce intagliato, sec. XVI.",64,95.7,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111714,47,38,"CAssAPANCA di noce intagliato, sec. XVII.",65,96.2,False,positional,,,Mercoledi 14 Aprile,,
+BO0624_81858,111713,46,37,"LEGG1o di noce intagliato, sec. XVI.",64,95.7,False,positional,,,Mercoledi 14 Aprile,,Sec. XVI
+BO0624_81858,111714,47,38,"CAssAPANCA di noce intagliato, sec. XVII.",65,96.2,False,positional,,,Mercoledi 14 Aprile,,Sec. XVII
 BO0624_81858,111715,48,39,BAssoRILIEvo di marmo:La Deposizione in cornice,66,96.9,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111716,49,40,Srucco tondo policromato e dorato: Madonna col Bam-,68,97.0,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111717,50,41,BAssoRILIEvo di pietra: Danza di Satiri e Baccanti.,70,97.0,False,positional,,,Mercoledi 14 Aprile,,
@@ -60,8 +60,8 @@ BO0624_81858,111725,58,2,49.CAvALLINo di bronzo (frammento).,85,97.0,False,posit
 BO0624_81858,111726,59,3,50.DAVANTI DI CIBoRIo in legno Scolpito e dorato con figure di Santi.,86,98.6,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111727,60,4,"51.BroNzo Padovano del 4O0 Cavallino,(con bella patina).",87,98.1,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111728,61,5,(Illustrato alla tavola n.4).,88,96.3,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111729,62,52,CrocE da processione in rame dorato del XV sec. (Illustrata alla tavola n.4).,89,98.0,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111730,63,7,53.DuE BATTENTi di ferro battuto del XV secolo.,90,97.9,False,positional,,,Mercoledi 14 Aprile,,
+BO0624_81858,111729,62,52,CrocE da processione in rame dorato del XV sec. (Illustrata alla tavola n.4).,89,98.0,False,positional,,,Mercoledi 14 Aprile,,Sec. XV
+BO0624_81858,111730,63,7,53.DuE BATTENTi di ferro battuto del XV secolo.,90,97.9,False,positional,,,Mercoledi 14 Aprile,,Sec. XV
 BO0624_81858,111731,64,8,54.BaTTENTE di ferro in forma di serpe.,91,97.4,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111732,65,9,55.BusTo di marmo:Donna.,92,95.8,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111733,66,56,GRUPPo' di stucco : La Virtu che opprime il Vizio.,93,96.8,False,positional,,,Mercoledi 14 Aprile,,
@@ -140,9 +140,9 @@ BO0624_81858,111805,138,4,"124.BAssoRILIEvo di stucco policromato: Madonna col B
 BO0624_81858,111806,139,125,"BassoRiLIEvo di stucco policromato:Madonna col Bambino, tabernacolo celeste e oro.",208,70.8,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111807,140,126,"STUcCo POLIcROMATO,da Jacopo della Quercia:《Ma- donna della Fontegaia con aureole dorate.",213,66.7,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111808,141,127,GRANDE CREDENzA di noce intagliato a patina chiara con pilastri scanalati.,219,97.3,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111809,142,128,"DipiNTo su tavola, scuola del Bronzino: Ritratto di prelato, cornice a sbalzo nera.",220,97.5,False,positional,,Scuola di Bronzino,Mercoledi 14 Aprile,,
+BO0624_81858,111809,142,128,"DipiNTo su tavola, scuola del Bronzino: Ritratto di prelato, cornice a sbalzo nera.",220,97.5,False,positional,"BRONZINO, AGNOLO DI COSIMO",Scuola di Bronzino,Mercoledi 14 Aprile,,
 BO0624_81858,111810,143,129,DipINTo su tavola: S. Sebastiano con sfondo a paesaggio e cornice celeste e oro.,221,97.5,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111811,144,4,130.DiPiNTo su tela firmato:Peter van Bredael 1718.,222,98.0,False,positional,,,Mercoledi 14 Aprile,,
+BO0624_81858,111811,144,4,130.DiPiNTo su tela firmato:Peter van Bredael 1718.,222,98.0,False,positional,,,Mercoledi 14 Aprile,,Sec. XVIII
 BO0624_81858,111812,145,5,"Combattimento,cornice dorata.",223,96.6,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111813,146,6,"131.DipiNTo su tela di scuola fiamminga:Animali,cor-",224,98.1,False,positional,,Scuola Fiamminga,Mercoledi 14 Aprile,,
 BO0624_81858,111814,147,7,nice nera e oro.,225,93.8,False,positional,,,Mercoledi 14 Aprile,,
@@ -153,9 +153,9 @@ BO0624_81858,111818,151,135,"GRANDe TavOLA di noce, gambe a vaso, piano molto ma
 BO0624_81858,111819,152,136,"DuE AxGELI in legno scolpito, dorato e policromato, sec.XVII.",238,88.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81858,111820,153,137,"STATUA in terracotta: Madonna col Bambino. Alta m. 0,85.",243,96.3,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111821,154,138,"BAssoRILIEvo di marmo, opera del Gaggini, rappresentante tabernacolo con la Madonna ed il Bambino in braccio ed Angioli.",244,98.3,False,positional,,,OGGETTI VARI,,
-BO0624_81858,111822,155,139,"GRANDE BROCCA sbaccellata di rame,senese del XV secolo.",247,96.4,False,positional,,,Mercoledi 14 Aprile,,
+BO0624_81858,111822,155,139,"GRANDE BROCCA sbaccellata di rame,senese del XV secolo.",247,96.4,False,positional,,,Mercoledi 14 Aprile,,Sec. XV
 BO0624_81858,111823,156,140,"TavoLA di noce con due gambe e traversa, del 400.",248,95.9,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111824,157,141,"STATuETTA in altorilievo di legno policromato con tracce di doratura: Madonna col Bambino,arte francese del XV secolo.",249,98.3,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_81858,111824,157,141,"STATuETTA in altorilievo di legno policromato con tracce di doratura: Madonna col Bambino,arte francese del XV secolo.",249,98.3,False,positional,,,OGGETTI IN LEGNO,,Sec. XV
 BO0624_81858,111825,158,142,"ScULTURA primitiva di marmo, ritenuta di scuola pi-",255,96.1,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111826,159,143,ScULTuRA in legno policromato e dorato:Agnus Dei. Altocm.84.,259,96.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81858,111827,160,144,DuE PoLTRoNE di noce montate in cuoio con stemmi,263,96.0,False,positional,,,POLTRONE,,
@@ -166,12 +166,12 @@ BO0624_81858,111831,164,148,STucco policromato: Madonna col Bambino.,272,95.0,Fa
 BO0624_81858,111832,165,149,"CREDENzA di noce con formelle, a due sportelli e piano da alzare.",273,96.9,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111833,166,150,CassA toscana con base e baccelliera scolpita.,274,95.7,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111834,167,151,"VAso PERSIANo,decorato con disegno simmetrico ed iscrizioni in nero, fondo turchino,XVI secolo.",275,97.9,False,positional,,,VASI,,
-BO0624_81858,111835,168,152,"ALBERELLo ispano-moresco,decorato bleu su fondo bianco. XVI secolo. Alto cm. 34.",277,97.4,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111836,169,153,"PiATTo siculo-arabo,a riflessi con decorazione bleu. XVI secolo. Diametro cm. 37.",281,97.5,False,positional,,,Mercoledi 14 Aprile,,
+BO0624_81858,111835,168,152,"ALBERELLo ispano-moresco,decorato bleu su fondo bianco. XVI secolo. Alto cm. 34.",277,97.4,False,positional,,,Mercoledi 14 Aprile,,Sec. XVI
+BO0624_81858,111836,169,153,"PiATTo siculo-arabo,a riflessi con decorazione bleu. XVI secolo. Diametro cm. 37.",281,97.5,False,positional,,,Mercoledi 14 Aprile,,Sec. XVI
 BO0624_81858,111837,170,154,"PiATTo Deruta,a riflessi, con Chimera al centro e stemma con iscrizione:Orelia.XVI secolo.Diametro cm.42. bis PiATTo Faenza (Casa Pirota) decorato ad ornati e",285,78.9,False,positional,,Scuola Faentina,Mercoledi 14 Aprile,,
 BO0624_81858,111838,171,155,PiATTo Faenza (Casa Pirota) decorato a frutta e ghir-,294,96.2,False,positional,,Scuola Faentina,Mercoledi 14 Aprile,,
-BO0624_81858,111839,172,2,lande.fondo bleu. XVI secolo.,295,96.4,False,positional,,,Mercoledi 14 Aprile,,
-BO0624_81858,111840,173,155,"a PiaTTo Cafaggiolo, con animale al centro, decorato bleu su fondo bianco. (F.to per esteso). XVI secolo.",299,98.0,False,positional,,,Mercoledi 14 Aprile,,
+BO0624_81858,111839,172,2,lande.fondo bleu. XVI secolo.,295,96.4,False,positional,,,Mercoledi 14 Aprile,,Sec. XVI
+BO0624_81858,111840,173,155,"a PiaTTo Cafaggiolo, con animale al centro, decorato bleu su fondo bianco. (F.to per esteso). XVI secolo.",299,98.0,False,positional,,,Mercoledi 14 Aprile,,Sec. XVI
 BO0624_81858,111841,174,155,"b MATToNELLA persiana, decorata a fiori e foglie,fondo c DipiNTo su tavola:Madonna col Bambino,sfondo a paesaggio entro tabernacolino dorato, da Pier Francesco Fiorentino.",306,80.4,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111842,175,156,"DipiNTo su tavola,primitivo: Madonna col Bambino. 156.bis DipINTo a tempera,XV secolo: Santa con aureoie dorate.",311,71.8,False,positional,,,Mercoledi 14 Aprile,,
 BO0624_81858,111843,176,157,CAssoNE di noce con cariatidi.,313,93.5,False,positional,,,Mercoledi 14 Aprile,,
@@ -194,7 +194,7 @@ BO0624_81858,111859,192,172,DuE sGABELLI di noce a tre gambe e spalliera tra-,33
 BO0624_81858,111860,193,173,DuE SGABELLI di noce intagliato.,337,93.9,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111861,194,174,"Se1 vAs a rocchetto, maiolica Faenza, bleu e celeste.",338,96.2,False,positional,,Scuola Faentina,Venerdi 16 Aprile,,
 BO0624_81858,111862,195,175,DuE vAsI a rocchetto c. s.e due con stemmi.,339,95.3,False,positional,,,VASI,,
-BO0624_81858,111863,196,176,"Vaso a beccuccio maiolica Faenza, con iscrizione gotica ed altro con data 1568.",340,97.5,False,positional,,Scuola Faentina,VASI,,
+BO0624_81858,111863,196,176,"Vaso a beccuccio maiolica Faenza, con iscrizione gotica ed altro con data 1568.",340,97.5,False,positional,,Scuola Faentina,VASI,,Sec. XVI
 BO0624_81858,111864,197,177,"PiATTo maiolica Urbino,soggetto storico.",341,95.1,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111865,198,178,"PIATTIno Faenza,con stemma e piattino persiano.",342,95.8,False,positional,,Scuola Faentina,Venerdi 16 Aprile,,
 BO0624_81858,111866,199,179,"VAso a rocchetto maiolica Faenza,a colori forti.",343,95.9,False,positional,,Scuola Faentina,VASI,,
@@ -205,7 +205,7 @@ BO0624_81858,111870,203,183,DuE VASI c. s. piu grandi.,348,92.0,False,positional
 BO0624_81858,111871,204,184,VAso a beccuccio maiolica Cafaggiolo.,350,94.7,False,positional,,,VASI,,
 BO0624_81858,111872,205,185,"PiATTo maiolica di Urbino,decorato a figure.",352,95.6,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111873,206,186,PIATTo maiolica di Milano.,354,92.6,False,positional,,,Venerdi 16 Aprile,,
-BO0624_81858,111874,207,187,CaLice in rame dorato del XV secolo con nielli di argento.,356,96.6,False,positional,,,Venerdi 16 Aprile,,
+BO0624_81858,111874,207,187,CaLice in rame dorato del XV secolo con nielli di argento.,356,96.6,False,positional,,,Venerdi 16 Aprile,,Sec. XV
 BO0624_81858,111875,208,188,"PAIo CANDELIERI veneziani con stemmi,XV secolo.",358,95.8,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111876,209,189,DuE SPoRTELLI.di ciborio in rame dorato.,360,95.1,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111877,210,190,DAvANTI DI CAssoNE del '400 con stemmi e tracce di doratura.,362,96.7,False,positional,,,Venerdi 16 Aprile,,
@@ -224,8 +224,8 @@ BO0624_81858,111889,222,202,TABERNAcoLo intagliato celeste e oro contenente una 
 BO0624_81858,111890,223,203,CREDENzA piccola di noce con sagome lisce a due sportelli e tre cassette.,389,76.4,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111891,224,204,PoLTRoNA di noce a braccioli dritti montata in cuoio di prima montatura.,391,97.3,False,positional,,,POLTRONE,,
 BO0624_81858,111892,225,205,"TABERNACoLo del XVl secolo,di legno intagliato e dorato.",395,89.7,False,positional,,,Venerdi 16 Aprile,,
-BO0624_81858,111893,226,206,"DipINTo su tavola, scuola del Bronzino: Donna, cornice intagliata e dorata.",397,97.3,False,positional,,Scuola di Bronzino,Venerdi 16 Aprile,,
-BO0624_81858,111894,227,207,"DipINTo su tela, scuola del Bronzino: Ritratto di uomo, cornice intagliata e dorata.",398,97.6,False,positional,,Scuola di Bronzino,Venerdi 16 Aprile,,
+BO0624_81858,111893,226,206,"DipINTo su tavola, scuola del Bronzino: Donna, cornice intagliata e dorata.",397,97.3,False,positional,"BRONZINO, AGNOLO DI COSIMO",Scuola di Bronzino,Venerdi 16 Aprile,,
+BO0624_81858,111894,227,207,"DipINTo su tela, scuola del Bronzino: Ritratto di uomo, cornice intagliata e dorata.",398,97.6,False,positional,"BRONZINO, AGNOLO DI COSIMO",Scuola di Bronzino,Venerdi 16 Aprile,,
 BO0624_81858,111895,228,208,"DipINTo: Ritratto di vecchio, in bella cornice intagliata e dorata.",399,97.0,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111896,229,209,"DipiNro su tavola: Santa Famiglia, cornice celeste e oro.",400,90.6,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111897,230,210,STATUETTA in legno dorato.,402,92.6,False,positional,,,Venerdi 16 Aprile,,
@@ -237,7 +237,7 @@ BO0624_81858,111902,235,215,"MoBILINo di noce a due sportelli, con pilastri a ca
 BO0624_81858,111903,236,216,"TavoLA di noce, gotica, con doppia traversa, smontabile.",414,96.3,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111904,237,217,"CREDENzoNE di noce a patina chiara con pilastri scanalati,a due sportelli nel sotto e due nel sopra.",415,98.0,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111905,238,218,"TavoLA quadrata, di noce a due pilastri, del 400.",416,95.8,False,positional,,,Venerdi 16 Aprile,,
-BO0624_81858,111906,239,219,"DipINTo su tavola a fondo oro, XIV secolo: Madonna col Bambino.",417,96.8,False,positional,,,Venerdi 16 Aprile,,
+BO0624_81858,111906,239,219,"DipINTo su tavola a fondo oro, XIV secolo: Madonna col Bambino.",417,96.8,False,positional,,,Venerdi 16 Aprile,,Sec. XIV
 BO0624_81858,111907,240,220,"DipiNTo su tavola,fondo oro, ritenuto della scuola di Orcagna,",421,96.8,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111908,241,221,"PiccoLo DiPINTo su fondo oro, forma di cuspide: La Madonna in trono e santi.",425,97.3,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111909,242,222,"TrITTico su fondo oro, al centro la Madonna in trono e negli sportelli i quattro Evangelisti, Cristo e le Marie.",426,98.2,False,positional,,,Venerdi 16 Aprile,,
@@ -247,8 +247,8 @@ BO0624_81858,111912,245,225,"STUcco POLICROMATo: Il Nazzareno,a mezzo busto, att
 BO0624_81858,111913,246,226,GRUPpo di terra cotta policromata: La Pieta.(Ap- partenne al defunto collezionista Cristiano Banti).,434,68.5,False,positional,,,Venerdi 16 Aprile,COLLEZIONE BANTI,
 BO0624_81858,111914,247,227,ScULTuRA in legno policromato:Madonna a grandezza naturale.,435,96.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81858,111915,248,228,GRANDE CREDENzA ricca d'intagli con bella patina originale; del xVI secolo.,441,97.3,False,positional,,,Venerdi 16 Aprile,,
-BO0624_81858,111916,249,229,CassA di noce con formelle a losanga e bordo intar- siato XV secolo.,445,83.3,False,positional,,,Venerdi 16 Aprile,,
-BO0624_81858,111917,250,230,"TAvoLINA quadrata con intarsi, del XV secolo.",447,95.6,False,positional,,,Venerdi 16 Aprile,,
+BO0624_81858,111916,249,229,CassA di noce con formelle a losanga e bordo intar- siato XV secolo.,445,83.3,False,positional,,,Venerdi 16 Aprile,,Sec. XV
+BO0624_81858,111917,250,230,"TAvoLINA quadrata con intarsi, del XV secolo.",447,95.6,False,positional,,,Venerdi 16 Aprile,,Sec. XV
 BO0624_81858,111918,251,231,"GRANDE CRIsTo, primitivo, dipinto a fondo oro, su croce di legno.",448,88.9,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111919,252,232,"ScULTURA PRIMITIVA di marmo: La Pieta, base di",453,95.7,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111920,253,233,STATUA di legno policromato e dorato: Madonna.,455,95.7,False,positional,,,OGGETTI IN LEGNO,,
@@ -256,10 +256,10 @@ BO0624_81858,111921,254,234,"DipINTo su tavola, fondo oro: Quo vadis Domine ?",4
 BO0624_81858,111922,255,235,"STATUA di legno policromato: La Madonna seduta col Bambino sulle ginocchia, grandezza naturale per processione.",458,98.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81858,111923,256,236,"ALToRILiEvo di marmo primitivo, con bella patina, Cristo che predica.",462,97.1,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111924,257,237,"DuE BAsI di pietra scolpita, con stemmi e Serafini. (Illustrate a tavola n.5).",463,97.3,False,positional,,,Venerdi 16 Aprile,,
-BO0624_81858,111925,258,238,"DipINTo su tela,di Pietro Longhi: Ritratto di una scultrice (autenticato con una lettera del professor Luigi Grassi).",464,98.3,False,positional,,,Venerdi 16 Aprile,,
+BO0624_81858,111925,258,238,"DipINTo su tela,di Pietro Longhi: Ritratto di una scultrice (autenticato con una lettera del professor Luigi Grassi).",464,98.3,False,positional,LONGHI PIETRO,,Venerdi 16 Aprile,,
 BO0624_81858,111926,259,239,ARAZZETTO FIAMMINGO del sec. XVII:Boscaglia con animali.,468,88.5,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111927,260,240,TRE PENDoNI di velluto rosso con gallone dorato.,473,95.9,False,positional,,,Venerdi 16 Aprile,,
-BO0624_81858,111928,261,241,"TAPPETINo di velluto controtagliato di Scutari, secolo XIV.",474,96.6,False,positional,,,Venerdi 16 Aprile,,
+BO0624_81858,111928,261,241,"TAPPETINo di velluto controtagliato di Scutari, secolo XIV.",474,96.6,False,positional,,,Venerdi 16 Aprile,,Sec. XIV
 BO0624_81858,111929,262,242,TAPPETINO C.S.,475,86.7,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111930,263,243,CREDENzINA di noce con mensole e dentello ad uno,476,96.0,False,positional,,,Venerdi 16 Aprile,,
 BO0624_81858,111931,264,244,DuE BAssoRILiEvI di marmo attribuiti ad Jacopo della,478,96.3,False,positional,,,BASSORILIEVI,,

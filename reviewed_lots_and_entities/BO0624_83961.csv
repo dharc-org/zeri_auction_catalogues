@@ -1,38 +1,38 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83961,716054,1,1602,1674.,9,61.5,False,positional,CHAMPAIGNE,,,,
+BO0624_83961,716054,1,1602,1674.,9,61.5,False,positional,CHAMPAIGNE,,,,Sec. XVII
 BO0624_83961,716055,2,2,## DAVID,22,100.0,False,title_direct,DAVID,Scuola di Teniers,,,
-BO0624_83961,716056,3,1748,1825.,26,61.5,False,positional,DAVID,,,,
-BO0624_83961,716057,4,1723,1807.,37,61.5,False,positional,DEMACHY,,,,
-BO0624_83961,716058,5,1732,1806.,54,61.5,False,positional,FRAGONARD,,,,
-BO0624_83961,716059,6,1791,1824.,71,61.5,False,positional,GERICAULT,,,,
-BO0624_83961,716060,7,1746,1828.,88,61.5,False,positional,GOYA Y LUCIENTES,,,,
-BO0624_83961,716061,8,1771,1835.,105,61.5,False,positional,GROS,,,,
-BO0624_83961,716062,9,1759,1810.,121,61.5,False,positional,HOPPNER,,,,
-BO0624_83961,716063,10,1656,1746.,136,61.5,False,positional,LARGILLIERRE,,,,
-BO0624_83961,716064,11,1733,1781.,163,61.5,False,positional,LEPRINCE,,,,
-BO0624_83961,716065,12,1702,1790.,178,61.5,False,positional,LIOTARD,,,,
+BO0624_83961,716056,3,1748,1825.,26,61.5,False,positional,DAVID,,,,Sec. XIX
+BO0624_83961,716057,4,1723,1807.,37,61.5,False,positional,DEMACHY,,,,Sec. XIX
+BO0624_83961,716058,5,1732,1806.,54,61.5,False,positional,FRAGONARD,,,,Sec. XIX
+BO0624_83961,716059,6,1791,1824.,71,61.5,False,positional,GERICAULT,,,,Sec. XIX
+BO0624_83961,716060,7,1746,1828.,88,61.5,False,positional,GOYA Y LUCIENTES,,,,Sec. XIX
+BO0624_83961,716061,8,1771,1835.,105,61.5,False,positional,GROS,,,,Sec. XIX
+BO0624_83961,716062,9,1759,1810.,121,61.5,False,positional,HOPPNER,,,,Sec. XIX
+BO0624_83961,716063,10,1656,1746.,136,61.5,False,positional,LARGILLIERRE,,,,Sec. XVIII
+BO0624_83961,716064,11,1733,1781.,163,61.5,False,positional,LEPRINCE,,,,Sec. XVIII
+BO0624_83961,716065,12,1702,1790.,178,61.5,False,positional,LIOTARD,,,,Sec. XVIII
 BO0624_83961,716066,13,I,"l est vetu de luniforme bleu,a col et parements rouges des dragons, dont il fut le createur. Baudrier de peau blanche, borde dor. Sur la poitrine, la plaque du Merite militaire qui correspondait,pour les protestants, a la croix de Saint-Louis.",184,99.8,False,positional,LIOTARD,,,,
-BO0624_83961,716067,14,1728,1779.,201,61.5,False,positional,MENGS,,,,
+BO0624_83961,716067,14,1728,1779.,201,61.5,False,positional,MENGS,,,,Sec. XVIII
 BO0624_83961,716068,15,13,Portrait de la Marquise de Llano.,203,95.5,False,positional,MENGS,,,,
-BO0624_83961,716069,16,1740,1806.,218,61.5,False,positional,MOREAU,,,,
+BO0624_83961,716069,16,1740,1806.,218,61.5,False,positional,MOREAU,,,,Sec. XIX
 BO0624_83961,716070,17,15,Leda.,229,72.7,False,positional,MOREAU,,,,
 BO0624_83961,716071,18,16,## Danae.,235,100.0,False,positional,MOREAU,,,,
-BO0624_83961,716072,19,1758,1823.,247,61.5,False,positional,PRUD'HON,,,,
-BO0624_83961,716073,20,1713,1789.,259,61.5,False,positional,PIERRE,,,,
+BO0624_83961,716072,19,1758,1823.,247,61.5,False,positional,PRUD'HON,,,,Sec. XIX
+BO0624_83961,716073,20,1713,1789.,259,61.5,False,positional,PIERRE,,,,Sec. XVIII
 BO0624_83961,716074,21,3,## SAUVAGE,262,100.0,False,title_direct,SAUVAGE,,,,
-BO0624_83961,716075,22,1696,1772.,282,61.5,False,positional,TOCQUE,,,,
+BO0624_83961,716075,22,1696,1772.,282,61.5,False,positional,TOCQUE,,,,Sec. XVIII
 BO0624_83961,716076,23,20,## TRINQUESSE,295,100.0,False,title_direct,TRINQUESSE,,,,
-BO0624_83961,716077,24,1707,1771.,313,61.5,False,positional,VAN LOO,,,,
+BO0624_83961,716077,24,1707,1771.,313,61.5,False,positional,VAN LOO,,,,Sec. XVIII
 BO0624_83961,716078,25,6841,11,326,44.4,False,positional,VERNET,,,,
 BO0624_83961,716079,26,22,Le Vieux moulin.,328,90.9,False,positional,VERNET,,,,
 BO0624_83961,716080,27,23,## Pastels Gouaches,345,100.0,False,title_direct,,,Pastels Gouaches,,
 BO0624_83961,716081,28,24,ecurie.,363,85.7,False,positional,GERICAULT,,,,
 BO0624_83961,716082,29,25,Cheval bai et cheval noir a lecurie.,373,95.9,False,positional,GERICAULT,,,,
 BO0624_83961,716083,30,26,## PERRONNEAU,380,100.0,False,title_direct,PERRONNEAU,,,,
-BO0624_83961,716084,31,27,## VIGEE-LEBRUN 1842.,401,82.8,False,title_direct,VIGEE-LEBRUN,,,,
+BO0624_83961,716084,31,27,## VIGEE-LEBRUN 1842.,401,82.8,False,title_direct,VIGEE-LEBRUN,,,,Sec. XIX
 BO0624_83961,716085,32,28,Le Port de Trouville.,428,93.0,False,positional,BOUDIN,,,,
 BO0624_83961,716086,33,1894,"Bois.Haut.,41 cent.;larg.,31 cent.",436,100.0,False,positional,BOUDIN,,OGGETTI IN LEGNO,,
-BO0624_83961,716087,34,1829,1890.,441,61.5,False,positional,BROWN,Scuola di Dusseldorf,,,
+BO0624_83961,716087,34,1829,1890.,441,61.5,False,positional,BROWN,Scuola di Dusseldorf,,,Sec. XIX
 BO0624_83961,716088,35,29,La Halte.,443,84.2,False,positional,BROWN,,,,
 BO0624_83961,716089,36,30,— Episode de la Guerre de Sept ans.,454,95.5,False,positional,BROWN,,,,
 BO0624_83961,716090,37,31,一 Les Bottes.,475,88.9,False,positional,BROWN,,,,
@@ -42,9 +42,9 @@ BO0624_83961,716093,40,36,—— Le Rendez-vous en foret.,538,93.9,False,positio
 BO0624_83961,716094,41,38,## 39 一,559,100.0,False,positional,BROWN,,,,
 BO0624_83961,716095,42,1874,## 40,584,100.0,False,positional,BROWN,,,,
 BO0624_83961,716096,43,5,44,623,100.0,False,positional,BROWN,,,,
-BO0624_83961,716097,44,1808,1860.,645,61.5,False,positional,DREUX,Scuola di Dusseldorf,,,
+BO0624_83961,716097,44,1808,1860.,645,61.5,False,positional,DREUX,Scuola di Dusseldorf,,,Sec. XIX
 BO0624_83961,716098,45,46,## FORAIN,652,100.0,False,title_direct,FORAIN,,,,
-BO0624_83961,716099,46,1822,1892.,670,61.5,False,positional,GALLAND,,,,
+BO0624_83961,716099,46,1822,1892.,670,61.5,False,positional,GALLAND,,,,Sec. XIX
 BO0624_83961,716100,47,48,8—LeBain.—LeLever.,687,91.4,False,positional,BAUDOUIN; REGNAULT,,,,
 BO0624_83961,716101,48,49,— St. James Beauty.—St. Gilles Beauty.,697,95.5,False,positional,BENWELL,,,,
 BO0624_83961,716102,49,50,A Good Boy.,707,87.0,False,positional,BENWELL,,,,
@@ -77,5 +77,5 @@ BO0624_83961,716128,75,79,— L Col. Tarleton.,960,90.3,False,positional,REYNOLD
 BO0624_83961,716129,76,80,Serena.,970,80.0,False,positional,ROMNEY,,,,
 BO0624_83961,716130,77,81,— Louise Emelie Baronne de...- Adreme Sophie Marquise de.... —A Love.,976,90.9,False,positional,SAINT-AUBIN,,,,
 BO0624_83961,716131,78,82,"Portrait de Mle Vanloo, enfant.",993,95.1,False,positional,VANLOO,,,,
-BO0624_83961,716132,79,1763,1810.,1010,61.5,False,positional,CHAUDET,,,,
+BO0624_83961,716132,79,1763,1810.,1010,61.5,False,positional,CHAUDET,,,,Sec. XIX
 BO0624_83961,716133,80,I,"l repose sur un socle en acajou orne d'un motif en bronze ciselé et dore,a chimeres.",1020,99.4,False,positional,CHAUDET,,ACQUEFORTI,,

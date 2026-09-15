@@ -15,7 +15,7 @@ BO0624_83946,132900,13,20,Paysage; Ciel oiageux.,183,93.0,False,positional,"DIAZ
 BO0624_83946,132901,14,23,— L'Heuze de la Tiaite.,210,93.0,False,positional,"DUPRE, JULIEN",,,,
 BO0624_83946,132902,15,24,Femme Otientale.,218,90.9,False,positional,"FABRON, L.",,,,
 BO0624_83946,132903,16,25,Jeune Mulatte.,222,89.7,False,positional,"FABRON, L.",,,,
-BO0624_83946,132904,17,27,Un Dtagon 1860.,239,90.3,False,positional,GARDANNE,,,,
+BO0624_83946,132904,17,27,Un Dtagon 1860.,239,90.3,False,positional,GARDANNE,,,,Sec. XIX
 BO0624_83946,132905,18,29,— Une zue de Paris sous la neige.,256,95.2,False,positional,"GRANDINEAU,H.",,,,
 BO0624_83946,132906,19,30,— Valet de chien conduisant un zelai dans la foret.,264,97.0,False,positional,"HAGEMANN,A.DE",,,,
 BO0624_83946,132907,20,31,Campement Aiabe.,268,90.9,False,positional,"HAGEMANN,A.DE",,,,
@@ -52,7 +52,7 @@ BO0624_83946,132937,50,64,- -Animaux a labreuvoir;esquisse.,467,100.0,False,posi
 BO0624_83946,132938,51,65,66. —— Paysage.,469,100.0,False,positional,"ZONA, A.",,,,
 BO0624_83946,132939,52,67,—,470,0.0,False,positional,"ZONA, A.",,,,
 BO0624_83946,132940,53,68,Paysage; Bords de rioiere.,472,94.1,False,positional,"ZONA, A.",,,,
-BO0624_83946,132941,54,69,— Interieur;Guerre 1870.,473,93.3,False,positional,"ZONA, A.",,ARREDAMENTI,,
+BO0624_83946,132941,54,69,— Interieur;Guerre 1870.,473,93.3,False,positional,"ZONA, A.",,ARREDAMENTI,,Sec. XIX
 BO0624_83946,132942,55,70,Marine; Soleil couchant.,474,93.6,False,positional,"ZONA, A.",,,,
 BO0624_83946,132943,56,71,Tete de Mouton; esquisse.,475,93.9,False,positional,"ZONA, A.",,,,
 BO0624_83946,132944,57,72,— Caravane.,478,84.2,False,positional,"ZONA, A.",,,,
@@ -74,7 +74,7 @@ BO0624_83946,132959,72,5,87.—— Boids de Riviete.,495,95.0,False,positional,"
 BO0624_83946,132960,73,88,— Paysage; Soleil couchant.,496,93.9,False,positional,"ZONA, A.",,,,
 BO0624_83946,132961,74,89,— -Animaux aux patuiages.,497,93.3,False,positional,"ZONA, A.",,,,
 BO0624_83946,132962,75,90,— Paysage.,498,82.4,False,positional,"ZONA, A.",,,,
-BO0624_83946,132963,76,9,91.— Portzait dhomme;ecole de 1820.,499,97.0,False,positional,"ZONA, A.",,,,
+BO0624_83946,132963,76,9,91.— Portzait dhomme;ecole de 1820.,499,97.0,False,positional,"ZONA, A.",,,,Sec. XIX
 BO0624_83946,132964,77,10,92.— Etude au Trepott.,500,92.7,False,positional,"ZONA, A.",,,,
 BO0624_83946,132965,78,11,93.— Napoleon 1er et sa Gaide Impetiale.,501,96.1,False,positional,"ZONA, A.",,,,
 BO0624_83946,132966,79,94,Peisonnages en costumes de lepoque de Louis XV.,504,96.8,False,positional,"ZONA, A.",Periodo di Luigi XV,,,
@@ -82,13 +82,13 @@ BO0624_83946,132967,80,95,— Paysan travaillant aux champs.,505,95.1,False,posi
 BO0624_83946,132968,81,96,Etude en foret.,506,90.3,False,positional,"ZONA, A.",,,,
 BO0624_83946,132969,82,97,— Tete de vieille femme.,507,93.3,False,positional,"ZONA, A.",,,,
 BO0624_83946,132970,83,98,— Tete de cheval blanc.,508,93.0,False,positional,"ZONA, A.",,,,
-BO0624_83946,132971,84,99,"- Le Conseil de Gueiie decide dabandonnet Moscou,1812.",510,100.0,False,positional,"ZONA, A.",,,,
+BO0624_83946,132971,84,99,"- Le Conseil de Gueiie decide dabandonnet Moscou,1812.",510,100.0,False,positional,"ZONA, A.",,,,Sec. XIX
 BO0624_83946,132972,85,100,Portrait d'homme.,519,88.9,False,positional,"COUTURE, T.",,,,
 BO0624_83946,132973,86,101,Un Pierrot;Etude.,525,88.9,False,positional,"COUTURE, T.",,,,
 BO0624_83946,132974,87,102,Tete d'homme;Etude.,531,90.0,False,positional,"FLANDRIN,HTE",,,,
 BO0624_83946,132975,88,103,Tete d'homme;Etude.,535,90.0,False,positional,"FLANDRIN,HTE",,,,
-BO0624_83946,132976,89,104,"Un Guide, 1860.",542,86.7,False,positional,GARDANNE,,,,
-BO0624_83946,132977,90,105,"Un Dragon, 1850.",546,87.5,False,positional,GARDANNE,,,,
+BO0624_83946,132976,89,104,"Un Guide, 1860.",542,86.7,False,positional,GARDANNE,,,,Sec. XIX
+BO0624_83946,132977,90,105,"Un Dragon, 1850.",546,87.5,False,positional,GARDANNE,,,,Sec. XIX
 BO0624_83946,132978,91,106,Patte Romain.,552,85.7,False,positional,"HEBERT, E.",,,,
 BO0624_83946,132979,92,107,Berget conduisant un troupeau de moutons.,558,95.2,False,positional,"JACQUE, CH.",,,,
 BO0624_83946,132980,93,108,— La basse-cour.,568,86.7,False,positional,"JACQUE, CH.",,,,
@@ -176,11 +176,11 @@ BO0624_83946,133061,174,191,"Trois stalles de choeur en bois sculpte, accotoirs"
 BO0624_83946,133062,175,192,"— Deux escabeaux en bois sculpte, dossier ajoure,",792,95.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83946,133063,176,193,"—Grand fauteuil et une chaise en bois sculpte, recouverts en velours.",794,97.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83946,133064,177,194,Petit tableau en ancienne tapisserie famande,800,95.7,False,positional,,,BRODERIES,,
-BO0624_83946,133065,178,195,"Petit tableau en ancienne tapisserie famande,representant Assuerus,Haman et Esther. XVI siecle.",805,97.9,False,positional,,,BRODERIES,,
+BO0624_83946,133065,178,195,"Petit tableau en ancienne tapisserie famande,representant Assuerus,Haman et Esther. XVI siecle.",805,97.9,False,positional,,,BRODERIES,,Sec. XVI
 BO0624_83946,133066,179,196,"Petit tableau en ancienne tapisserie famande, sujet tire du nouveau testament : le Christ et deux personnages, avec inscription sur une banderole. xvIe siecle.",806,98.7,False,positional,,,BRODERIES,,
 BO0624_83946,133067,180,197,"Petit tableau en ancienne tapisserie flamande,representant l'Adoration des Mages. xvIe siecle.",810,97.9,False,positional,,Scuola Fiamminga,BRODERIES,,
 BO0624_83946,133068,181,198,"— Tapisserie rectangulaire d'Aubusson, verdure paysage avec grand oiseaux et pagode chinoise dans le gout de Pillement. Encadrement de bordures a rinceaux de feuillages et fleurs. Epoque Louis xv.",814,99.0,False,positional,,Periodo di Luigi XV,AUBUSSONS,,
-BO0624_83946,133069,182,199,"Tapisserie rectangulaire famande,sujet a personnages dans un paysage. Encadrement de bordures, sur trois cotes a feurs feuillages, fruits,roseaux. Commencement du XVII siecle.",818,98.8,False,positional,,,BIANCHERIA,,
+BO0624_83946,133069,182,199,"Tapisserie rectangulaire famande,sujet a personnages dans un paysage. Encadrement de bordures, sur trois cotes a feurs feuillages, fruits,roseaux. Commencement du XVII siecle.",818,98.8,False,positional,,,BIANCHERIA,,Sec. XVII
 BO0624_83946,133070,183,200,"T Tapisserie rectangulaire de la fabrique de Bruxelles, d'apres Teniers,representant dans un paysage sur un chemin,au premier plan,paysanne et sa fille conduisant deux vaches,un paysan assis au bord de la route les interpelle. Fond de paysage montagneux, avec riviere, pont et habitations. Encadrement de bordures simulant un cadre a feuilles d'acanthe et culots. Sur le milieu des bordures,haut et bas cartouches a coquille et feuillage. Epoque Louis XIv.",822,99.6,False,positional,TENIERS DAVID IL GIOVANE,,BIANCHERIA,,
 BO0624_83946,133071,184,201,"Tapisserie rectangulaire famande, representant dans un paysage traverse par une riviere, avec pont, vue de ville et grands arbres, des groupes a petits personnages. Berger jouant de la fute et deux groupes galants. Bordures sur aeux cotes,enroulement et torsades de fruits et feurs.Epoque Regence.",825,99.3,False,positional,,,OGGETTI VARI,,
 BO0624_83946,133072,185,202,"Tapisserie rectangulaire d'Arras representant un sujet tire de l'histoire ancienne, a grands personnages. Encadrement de bordures, figures allegoriques, chutes de fruits, feuillages. Com- Bandeau fait d'un fragment en ancienne tapisserie famande a torsades de feurs, fruits et feuillages. T",829,77.4,False,positional,,,BIANCHERIA,,

@@ -247,7 +247,7 @@ BO0624_90084,509004,245,250,BRULE PARFUM:Urnenformige Deckel-Vase.,411,94.9,Fals
 BO0624_90084,509005,246,251,"RUNDE BUTTERDOSE,gedeckelt.",412,92.9,False,positional,,FRANKENTHAL,,,
 BO0624_90084,509006,247,252,Maitre bleu.,416,84.6,False,positional,,FRANKENTHAL,,,
 BO0624_90084,509007,248,253,Gegenstick dazu.,417,88.2,False,positional,,FRANKENTHAL,,,
-BO0624_90084,509008,249,254,"PORTRATBUSTE KARLS III., Konigs beider Sizilien und (seit 1759) von Spanien. Capo di Monte. Gegenstick:",418,98.0,False,positional,,FRANKENTHAL,,,
+BO0624_90084,509008,249,254,"PORTRATBUSTE KARLS III., Konigs beider Sizilien und (seit 1759) von Spanien. Capo di Monte. Gegenstick:",418,98.0,False,positional,,FRANKENTHAL,,,Sec. XVIII
 BO0624_90084,509009,250,255,"DESSEN GEMAHLIN, Maria Amalie von Sachsen.",419,95.2,False,positional,,FRANKENTHAL,,,
 BO0624_90084,509010,251,256,JUNGLINGSBUSTE. Capo di Monte.,420,93.3,False,positional,,FRANKENTHAL,,,
 BO0624_90084,509011,252,257,MADCHENBUSTE. Gegenstick zum vorigen.,421,94.6,False,positional,,FRANKENTHAL,,,
@@ -300,8 +300,8 @@ BO0624_90084,509057,298,304,"FACHER,LOUIS XVI.                                  
 BO0624_90084,509058,299,305,"FACHER, LOUIS XVI.                                                                 |          |         |",482,88.9,False,positional,,FRANKENTHAL,SCOMPARTI,,
 BO0624_90084,509059,300,306,Villa Medici.                                                                      |          |         |,484,85.7,False,positional,,FRANKENTHAL,,,
 BO0624_90084,509060,301,307,Bildnis einer alten Dame aus dem Goethekreise (Tantchen Fahlmer?) FRANCESCO GUARDI |          |         |,486,97.5,False,positional,GUARDI FRANCESCO,FRANKENTHAL,,,
-BO0624_90084,509061,302,I,TALIENISCHE SCHULE des 16. Jahrhunderts.                     | Kaufer   | Preis   |,487,99.0,False,positional,,FRANKENTHAL,,,
-BO0624_90084,509062,303,309,Madonna mit Heiligen. PIETRO LONGHI                       |          |         |,489,94.4,False,positional,,FRANKENTHAL,,,
+BO0624_90084,509061,302,I,TALIENISCHE SCHULE des 16. Jahrhunderts.                     | Kaufer   | Preis   |,487,99.0,False,positional,,FRANKENTHAL,,,Sec. XVI
+BO0624_90084,509062,303,309,Madonna mit Heiligen. PIETRO LONGHI                       |          |         |,489,94.4,False,positional,LONGHI PIETRO,FRANKENTHAL,,,
 BO0624_90084,509063,304,310,Morgentoilette.                                           |          |         |,490,87.5,False,positional,,FRANKENTHAL,,,
 BO0624_90084,509064,305,311,Liebeswerben.                                             |          |         |,491,85.7,False,positional,,FRANKENTHAL,,,
 BO0624_90084,509065,306,313,Bildnis eines jungen Madchens. DAVID TENIERS D.J.         |          |         |,493,95.9,False,positional,TENIERS DAVID IL GIOVANE,FRANKENTHAL,,,

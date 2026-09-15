@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84135,139567,1,2,Paysans et porcs. Dessin au crayon. Signe et date : 1838.,20,98.1,False,positional,BELLANGE,,,,
+BO0624_84135,139567,1,2,Paysans et porcs. Dessin au crayon. Signe et date : 1838.,20,98.1,False,positional,BELLANGE,,,,Sec. XIX
 BO0624_84135,139568,2,3,Sainte Therese visitee par un Ange. Peinture sur toile.Signee.,24,98.4,False,positional,BOILLY (JULES),,,,
 BO0624_84135,139569,3,4,"La Partie d’échecs, au couvent.",28,96.7,False,positional,BOILLY (JULES),,,,
 BO0624_84135,139570,4,5,"Portrait du baron Gros, de profil.",33,97.0,False,positional,BOILLY (JULES),,,,
@@ -27,7 +27,7 @@ BO0624_84135,139591,25,27,Interieurs de cloitres.,187,93.6,False,positional,GRAN
 BO0624_84135,139592,26,28,— Corps de garde.,193,90.3,False,positional,GRANET,,,,
 BO0624_84135,139593,27,29,—Coin de parc. Lavis rehausse de gouache.,198,96.2,False,positional,GUILLAUME(E.),,,,
 BO0624_84135,139594,28,30,"—Sujet mythologique, fond de paysage.",202,95.8,False,positional,GUILLAUME(E.),,,,
-BO0624_84135,139595,29,3,l —Le Miroir; scene familiale. Peinture sur toile. Signee et datee:1821.,206,99.3,False,positional,LESCOT-HANDEBOURT,,SPECCHI,,
+BO0624_84135,139595,29,3,l —Le Miroir; scene familiale. Peinture sur toile. Signee et datee:1821.,206,99.3,False,positional,LESCOT-HANDEBOURT,,SPECCHI,,Sec. XIX
 BO0624_84135,139596,30,32,LeParc.,210,80.0,False,positional,LESCOT-HANDEBOURT,,,,
 BO0624_84135,139597,31,34,Marine.,230,80.0,False,positional,MOZIN (C.),,,,
 BO0624_84135,139598,32,35,Cardinal auc pieds de la Vierge. Dessin a la plume et au lavis.,236,97.6,False,positional,MURILLO (E.),,,,
@@ -49,11 +49,11 @@ BO0624_84135,139613,47,51,Deux petites potiches en ancienne porcelaine,343,96.7,
 BO0624_84135,139614,48,52,"2-Flacon ovoide et petite potiche en ancienne porcelaine de Chine, de decors varies en",345,98.3,False,positional,,,PORCELAINES DE SEVRES,,
 BO0624_84135,139615,49,53,- Flacon a the en porcelaine du Japon et clochette en porcelaine de Saxe. Ensemble deux pieces.,347,98.4,False,positional,,,PORCELAINES DE SEVRES,,
 BO0624_84135,139616,50,54,"— Quatre tasses et soucoupes, dont trois en porcelaine tendre, decorees dans le gout de Sevres sur fonds gros bleu et turquoise.",348,98.8,False,positional,,,PORCELAINES DE SEVRES,,
-BO0624_84135,139617,51,55,"— Plat ovale creux, en ancienne faience, attribuee a Bernard Palissy, representant la Jardiniere. (Vente Visconti,1854.)",349,98.7,False,positional,,,PIATTI,,
-BO0624_84135,139618,52,56,"— Partie de service de tabie en porcelaine de Sevres,1836, comprenant soixante-six assiettes et huit compotiers bas, deux compotiers sur piedouche, deux saucieres et une corbeille ajouree. Ensemble soixante-dix-neuf pieces.",350,99.3,False,positional,,,OGGETTI VARI,,
+BO0624_84135,139617,51,55,"— Plat ovale creux, en ancienne faience, attribuee a Bernard Palissy, representant la Jardiniere. (Vente Visconti,1854.)",349,98.7,False,positional,,,PIATTI,,Sec. XIX
+BO0624_84135,139618,52,56,"— Partie de service de tabie en porcelaine de Sevres,1836, comprenant soixante-six assiettes et huit compotiers bas, deux compotiers sur piedouche, deux saucieres et une corbeille ajouree. Ensemble soixante-dix-neuf pieces.",350,99.3,False,positional,,,OGGETTI VARI,,Sec. XIX
 BO0624_84135,139619,53,57,"— Tete-a-tete en porcelaine de Sevres surdecoree, comprenant une chocolatiere, une theiere,un pot a lait, un sucrier, deux tasses a dejeuner, deux tasses a the et deux tasses a cafe avec soucoupes.",351,99.2,False,positional,,,PORCELAINES DE SEVRES,,
-BO0624_84135,139620,54,58,"— Sucrier couvert,a deux anses, sur piedouche, avec plateau en porcelaine de Sevres, 1837,a",352,98.3,False,positional,,,PORCELAINES DE SEVRES,,
-BO0624_84135,139621,55,59,"Quatre assiettes en porcelaine de Sevres, 1847,a decor de rosaces et fleurs sur fond vert. Deux modeles varies.",355,75.6,False,positional,,,PIATTI,,
+BO0624_84135,139620,54,58,"— Sucrier couvert,a deux anses, sur piedouche, avec plateau en porcelaine de Sevres, 1837,a",352,98.3,False,positional,,,PORCELAINES DE SEVRES,,Sec. XIX
+BO0624_84135,139621,55,59,"Quatre assiettes en porcelaine de Sevres, 1847,a decor de rosaces et fleurs sur fond vert. Deux modeles varies.",355,75.6,False,positional,,,PIATTI,,Sec. XIX
 BO0624_84135,139622,56,60,"—Plateau,forme contournee,en ancienne porcelaine de Paris. Au centre, rosace; au bord, rinceaux et perles.",356,98.5,False,positional,,,PORCELAINES DE SEVRES,,
 BO0624_84135,139623,57,6,"l - Deux tasses a dejeuner avec leurs presentoirs en porcelaine de Paris, decors en couleur et",357,99.5,False,positional,,,PORCELAINES DE SEVRES,,
 BO0624_84135,139624,58,62,"—Deux tasses cylindriques et soucoupes en porcelaine de Nast, a Paris, decor de dorure et petits medaillons.",359,98.6,False,positional,,,PORCELAINES DE SEVRES,,
@@ -82,7 +82,7 @@ BO0624_84135,139646,80,84,"Boite ovale en écaille, ornee sur le dessus d'une pe
 BO0624_84135,139647,81,85,"—Miniature ronde:Portrait presume de LouiseMarie-Therese-Bathilde d'Orleans en buste,dans",404,98.3,False,positional,,,BOITES,,
 BO0624_84135,139648,82,86,"-Miniatuie ronde:Portrait de jeune femme en buste, assise et tenant un vase de fleurs. Cadre en cuivre.",406,98.5,False,positional,,,BOITES,,
 BO0624_84135,139649,83,87,"Miniature ovale,attribuee a IsABEy:Portrait",407,97.7,False,positional,ISABEY EUGENE,,BOITES,,
-BO0624_84135,139650,84,88,"- Miniature ovale, par MouRLAN. Signee et datee: 1820: Portrait presume de Mlle Delia, actrice de l'Odeon. Cadre en bronze.",410,100.0,False,positional,,,BOITES,,
+BO0624_84135,139650,84,88,"- Miniature ovale, par MouRLAN. Signee et datee: 1820: Portrait presume de Mlle Delia, actrice de l'Odeon. Cadre en bronze.",410,100.0,False,positional,,,BOITES,,Sec. XIX
 BO0624_84135,139651,85,89,-Miniature ovale:Portrait presume de la comtesse de la Suze.,411,97.5,False,positional,,,BOITES,,
 BO0624_84135,139652,86,90,Miniature ovale:Portrait presume de Ninon de l'Enclos. Cadre en bronze cisele.,412,98.1,False,positional,,,BOITES,,
 BO0624_84135,139653,87,9,l — Miniature ovale en grisaille :Portrait de J.-B.,413,98.9,False,positional,,,BOITES,,

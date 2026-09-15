@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88258,173537,1,1,"E.Peipers . Lorsbacher Tal. 12,5/19,5 Derselbe. Eppstein. An der Bahnstation. 1879. 11,5/18,5 Derselbe. Seedurchbruch bei Eppstein. 1877. 10,5/20,5",13,55.0,False,positional,,,Aquarelle,,
-BO0624_88258,173538,2,4,Derselbe. Lorsbacher Tal. Bahnbau. 1875. 14/23 Derselbe.Idstein.1878. 12/22 Derselbe. Oberursel. 1876. 13/22,14,58.3,False,positional,,,Aquarelle,,
+BO0624_88258,173537,1,1,"E.Peipers . Lorsbacher Tal. 12,5/19,5 Derselbe. Eppstein. An der Bahnstation. 1879. 11,5/18,5 Derselbe. Seedurchbruch bei Eppstein. 1877. 10,5/20,5",13,55.0,False,positional,,,Aquarelle,,Sec. XIX
+BO0624_88258,173538,2,4,Derselbe. Lorsbacher Tal. Bahnbau. 1875. 14/23 Derselbe.Idstein.1878. 12/22 Derselbe. Oberursel. 1876. 13/22,14,58.3,False,positional,,,Aquarelle,,Sec. XIX
 BO0624_88258,173539,3,7,- 8 C.Treuner. Gegenstucke. 10/7,18,100.0,False,positional,,,Aquarelle,,
 BO0624_88258,173540,4,9,W. Forster.2 Menuikarten.,20,95.8,False,positional,,,Aquarelle,,
 BO0624_88258,173541,5,10,Derselbe. Hamburger Kellner servierend.,21,96.1,False,positional,,,Aquarelle,,
@@ -50,7 +50,7 @@ BO0624_88258,173584,48,104,Stilleben.                                           
 BO0624_88258,173585,49,105,BlumenstrauB.                                                               |                                                             |                                           |,140,85.7,False,positional,C.KAUFMANN,,,,
 BO0624_88258,173586,50,106,Hinter dem Dorf.                                                            | Leinw.37/52                                                 |                                           |,142,93.1,False,positional,C.KAUFMANN,,,,
 BO0624_88258,173587,51,107,"Moorbauer.Bezeichnet. Eugene KLINC KENBERG, Aachen-Merkstein.               | Leinw.98/82                                                 |                                           |",144,97.2,False,positional,C.KAUFMANN,,,,
-BO0624_88258,173588,52,109,Madonna mit Kind. Bez. Exvoto 1798.                                         | Leinw.31/22                                                 |                                           |,146,95.7,False,positional,C.KAUFMANN,,,,
+BO0624_88258,173588,52,109,Madonna mit Kind. Bez. Exvoto 1798.                                         | Leinw.31/22                                                 |                                           |,146,95.7,False,positional,C.KAUFMANN,,,,Sec. XVIII
 BO0624_88258,173589,53,111,"Studienkopf. G.KoLLE , Frankfurt a. M.                                      | Karton a. Leinw. 37/29                                      |                                           |",149,96.4,False,positional,C.KAUFMANN,,,,
 BO0624_88258,173590,54,113,Waldsee bei Abendbeleuchtung. Bezeichnet. Leinw.75/101                      |                                                             |                                           |,151,96.3,False,positional,C.KAUFMANN,,,,
 BO0624_88258,173591,55,114,Alte westfalische Mihle.                                                    |                                                             |                                           |,153,92.0,False,positional,C.KAUFMANN,,,,
@@ -133,7 +133,7 @@ BO0624_88258,173667,131,234,"Bronzeleuchter, kanneliert und verziert. Hohe 24 cm
 BO0624_88258,173668,132,235,"Desgl. glatt. Hohe 21,5 cm.",343,92.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173669,133,236,Wasserwage.,344,83.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173670,134,237,- Fluissigkeitsmesser.,346,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88258,173671,135,238,und 50jahr. Jubilaum 18. 0kt. 1862. Zinn.,348,94.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88258,173671,135,238,und 50jahr. Jubilaum 18. 0kt. 1862. Zinn.,348,94.7,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_88258,173672,136,239,- Bayerischer Taler und 2-Guldenstick.,350,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173673,137,240,9 diverse Scheideminzen.,351,92.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173674,138,30,diverse Briefmarken. Auslandisch.,352,95.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -148,7 +148,7 @@ BO0624_88258,173682,146,250,- SalzfaB. Silber mit Rubinschale.,367,100.0,False,p
 BO0624_88258,173683,147,251,"Haardolch. Silber, mit Koralle.",368,93.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173684,148,252,"- Zwei Schalchen.Silber, durchbrochen.",370,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173685,149,253,Bronze-Ente als Lichthalter. China.,371,94.3,False,title_direct,,,Bronze,,
-BO0624_88258,173686,150,254,Brosche vom IX. deutschen JubilaumsschieBen. Frankfurt am Main 1887. Silber.,372,97.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88258,173686,150,254,Brosche vom IX. deutschen JubilaumsschieBen. Frankfurt am Main 1887. Silber.,372,97.3,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_88258,173687,151,255,Diadem mit Similisteinen.,373,92.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173688,152,256,Aufsatzschale. KunsteisenguB.,374,93.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173689,153,257,"Pfeifenkopf, in Buchs geschnitten.",375,94.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -275,7 +275,7 @@ BO0624_88258,173809,273,397,"Desgl. Dame in schwarzem, gelocktem Haar. Ov. 6,5/5
 BO0624_88258,173810,274,398,"Elfenbein-Miniatur. Geburt der Venus. 7,5/6.",586,95.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173811,275,399,"- Desgl. Dame mit Lockenfrisur. Ov. 8,5/6,5.",588,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173812,276,400,Desgl.,589,71.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88258,173813,277,401,"Desgl. Engl. Dame des 18. Jahrh. Ov. 6,5/5.",591,94.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88258,173813,277,401,"Desgl. Engl. Dame des 18. Jahrh. Ov. 6,5/5.",591,94.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88258,173814,278,402,"Desgl. Liebespaar. 0v. 7/6,5.",592,92.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173815,279,403,"Desgl. 1.Portrat eines Polen. Ov. 6/4,5.",593,94.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88258,173816,280,4041,- Desgl. Damenbrustbild. Marie Antoniette Costum. Ov. 6/5.,595,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -464,13 +464,13 @@ BO0624_88258,173998,462,629,"- Ansicht vom Schneidwall, gest. von F. L. Neubauer
 BO0624_88258,173999,463,630,"Anton Burger , Maler-Diplom. Tuschzeichnung 21/12,5.",945,96.0,False,positional,ANTON BURGER,,Francofurtensien,,
 BO0624_88258,174000,464,631,"Panorama von Frankfurt, gest. v. Lang nach F. Bamberger. 20/58.",946,96.6,False,positional,,,Francofurtensien,,
 BO0624_88258,174001,465,632,- 633 Desgl. Schweizer Bundesvorstand. 28/16.,948,100.0,False,positional,,,Francofurtensien,,
-BO0624_88258,174002,466,634,"Desgl. Einweihung der Schitzenbundfahnen auf dem RoBmarkt. Von F. J. Schneider. Holzschnitt 18/24. 2-Guldenstick, IIl. Sakularfeier des Religionsfriedens 1855.",950,74.8,False,positional,,,Francofurtensien,,
-BO0624_88258,174003,467,635,Bronze-Medaille aus dem Dombrand 1867.,952,94.9,False,title_direct,,,Bronze,,
-BO0624_88258,174004,468,637,"- 638 Zwei 2-Guldensticke. Erzh. Johann, Reichsverweser. Konstituierende Versammlung 1848.",954,100.0,False,positional,,,Francofurtensien,COLLEZIONE THOMAS BARING,
+BO0624_88258,174002,466,634,"Desgl. Einweihung der Schitzenbundfahnen auf dem RoBmarkt. Von F. J. Schneider. Holzschnitt 18/24. 2-Guldenstick, IIl. Sakularfeier des Religionsfriedens 1855.",950,74.8,False,positional,,,Francofurtensien,,Sec. XIX
+BO0624_88258,174003,467,635,Bronze-Medaille aus dem Dombrand 1867.,952,94.9,False,title_direct,,,Bronze,,Sec. XIX
+BO0624_88258,174004,468,637,"- 638 Zwei 2-Guldensticke. Erzh. Johann, Reichsverweser. Konstituierende Versammlung 1848.",954,100.0,False,positional,,,Francofurtensien,COLLEZIONE THOMAS BARING,Sec. XIX
 BO0624_88258,174005,469,639,Ansicht der Stadt gegen Westen. Von Joh. Kasp. Zehender.,956,96.3,False,positional,,,Francofurtensien,,
-BO0624_88258,174006,470,640,Vor dem Eschenheimer Tor. Von demselben. 1775. Aq. 17/28. Aquarell. 22/36.,957,84.6,False,title_direct,,,Aquarelle,,
-BO0624_88258,174007,471,641,- 643 Frankfurt von Oberrad aus. Von dems. 1773. Aq. 21/31.,961,100.0,False,positional,,,Francofurtensien,,
-BO0624_88258,174008,472,642,"Sachsenhauser Brickenturm. Von dems. 1775. Aq.26,5/20.",962,96.2,False,positional,,,Francofurtensien,,
-BO0624_88258,174009,473,644,Am Allerheiligentor. Von dems. 1772. Aq. 19/35. 6 Partie am roten Hamm. Desgl. Kart. 23/33. Am Gutleuthof. Oelgemalde. Leinw. 30/37.,963,50.9,False,title_direct,,,Gemalde,,
+BO0624_88258,174006,470,640,Vor dem Eschenheimer Tor. Von demselben. 1775. Aq. 17/28. Aquarell. 22/36.,957,84.6,False,title_direct,,,Aquarelle,,Sec. XVIII
+BO0624_88258,174007,471,641,- 643 Frankfurt von Oberrad aus. Von dems. 1773. Aq. 21/31.,961,100.0,False,positional,,,Francofurtensien,,Sec. XVIII
+BO0624_88258,174008,472,642,"Sachsenhauser Brickenturm. Von dems. 1775. Aq.26,5/20.",962,96.2,False,positional,,,Francofurtensien,,Sec. XVIII
+BO0624_88258,174009,473,644,Am Allerheiligentor. Von dems. 1772. Aq. 19/35. 6 Partie am roten Hamm. Desgl. Kart. 23/33. Am Gutleuthof. Oelgemalde. Leinw. 30/37.,963,50.9,False,title_direct,,,Gemalde,,Sec. XVIII
 BO0624_88258,174010,474,647,Die drei Wahrzeichen von Frankfurt. Radierung von Mannfeld. 78/61. Ansicht der Rennbahn auf dem RoBmarkt.Von Merian.24/35.,966,68.1,False,positional,,,Francofurtensien,,
 BO0624_88258,174011,475,648,Panorama von Frankfurt. Litho von A. B. Sohngen. 50/190.,968,96.2,False,positional,,,Francofurtensien,,

@@ -14,7 +14,7 @@ BO0624_81763,59106,12,9,BoRsA di velluto rosso.,46,95.7,False,none,,,,,
 BO0624_81763,59107,13,10,"DuE APPLIQuEs a corona, retta da testa di leone, in bronzo dorato ed in parte patinato verde. Epoca Impero.",47,98.6,False,none,,,LAMPADE,,
 BO0624_81763,59108,14,11,LA DEPosIZIONE DALLA CROCE. Pace in bronzo dorato. SAN SERGIo. Icone d'argento dorato di lavoro russo.,48,98.5,False,none,,,,,
 BO0624_81763,59109,15,12,"TRE LAMPADE da sospendere, in metallo, di grandezza differente.",49,97.6,False,none,,,LAMPADE,,
-BO0624_81763,59110,16,5,d'oro. Secolo XVI.,50,94.1,False,none,,,,,
+BO0624_81763,59110,16,5,d'oro. Secolo XVI.,50,94.1,False,none,,,,,Sec. XVI
 BO0624_81763,59111,17,14,DuE scoDELLE con veduta di Roma e di Messina nel centro.,54,97.3,False,none,,,,,
 BO0624_81763,59112,18,2,Antica porcellana di Ginori.,55,96.4,False,none,,,,,
 BO0624_81763,59113,19,3,15.DuE BoccALI per birra. Gres tedesco.,56,97.4,False,none,,,,,
@@ -25,7 +25,7 @@ BO0624_81763,59117,23,19,QuATTRo vAsI con manico formato da testa di aquila. Ter
 BO0624_81763,59118,24,20,PoTIcHE decorata di fiori e figure bleu su fondo bianco. Porcellana di Delft.,77,98.0,False,title_direct,,,Porcellane,,
 BO0624_81763,59119,25,21,"DuE PoTIcHEs di porcellana a ricca ornamentazione di arabeschi dorati, uccelli, fiori e gruppi di figure a colori.",82,98.7,False,none,,,,,
 BO0624_81763,59120,26,22,VAso da farmacia di forma cilindrica. Decoro bleu su fondo bianco. Maiolica di Cafaggiolo.,86,83.1,False,none,,,VASI,,
-BO0624_81763,59121,27,23,"PIATTo moresco di maiolica, a rifessi metallici. Secolo XVI. Diametro M.o.24.",91,98.0,False,none,,,,,
+BO0624_81763,59121,27,23,"PIATTo moresco di maiolica, a rifessi metallici. Secolo XVI. Diametro M.o.24.",91,98.0,False,none,,,,,Sec. XVI
 BO0624_81763,59122,28,24,CATINo a foglie e figura di color turchino su fondo chiaro. Antica maiolica di Savona.,92,98.2,False,none,,,,,
 BO0624_81763,59123,29,25,"DuE PIATTI per fragole, di porcellana bianca, con fiori turchini.",98,97.6,False,none,,,PIATTI,,
 BO0624_81763,59124,30,26,SALIERA formata da tre delfini sopra conchiglie. Porcellana poli- cromata di fabbrica russa.,99,81.3,False,title_direct,,,Porcellane,,
@@ -43,14 +43,14 @@ BO0624_81763,59135,41,39,TEMPIo DI CAsTORE E PoLLUCE nel Foro Romano. Cornice do
 BO0624_81763,59136,42,40,SANTA MARIIRE. Mezza figura. Cornice dorata.,169,96.5,False,positional,,SCUOLA DI SCHEDONE,,,
 BO0624_81763,59137,43,41,FIAGELLAzIoNE DI GEsu. Pittura su tavola. Cornice con ornati dorati su fondo scuro.,175,98.2,False,positional,,SCUOLA TEDESCA,,,
 BO0624_81763,59138,44,2,Alt. M.0.25X0.17. 42. SANTA MARIA MADDALENA. Pittura su tavola. Cornica dorata.,176,98.6,False,positional,,SCUOLA TEDESCA,,,
-BO0624_81763,59139,45,43,"RITRATTo di patrizio fiorentino del secolo XVI, dipinto su tavola. Cornice dorata a foglie d'alloro.",182,98.5,False,positional,,SCUOLA TEDESCA,,,
+BO0624_81763,59139,45,43,"RITRATTo di patrizio fiorentino del secolo XVI, dipinto su tavola. Cornice dorata a foglie d'alloro.",182,98.5,False,positional,,SCUOLA TEDESCA,,,Sec. XVI
 BO0624_81763,59140,46,44,"SrAGNO NELLA FORESTA, dipinto su rovere d'Olanda. Cornice",188,97.3,False,positional,SALOMON RUYSDAEL,,,,
 BO0624_81763,59141,47,45,RITRATTO D1 PAPA GIULIo II. Cornice dorata.,193,96.5,False,positional,SALOMON RUYSDAEL,,,,
 BO0624_81763,59142,48,46,DANZA DI PUTTI. bis. LA VERGINE porge il seno al suo divin Figlio e San Giuseppe assiste con venerazione. Colorito e disegno accuratissimi. Cor-,201,94.0,False,positional,CARLO DOLCI,,,,
 BO0624_81763,59143,49,47,BATTAGLIA. Cornice dorata.,207,94.1,False,positional,CARLO DOLCI,,,,
 BO0624_81763,59144,50,48,L'ADoRAzIoNE DEI MAGI. Pittura su tavola. Cornice dorata a bis. RITRATTo di gentiluomo veneziano. Cornice dorata.,216,67.1,False,positional,CARLO DOLCI,,,,
 BO0624_81763,59145,51,49,CAccIA. Tre stampe incise da Gerolamo Cock 157o. Cornice,225,97.3,False,positional,CARLO DOLCI,,STAMPE E INCISIONI,,
-BO0624_81763,59146,52,50,MADoNNA CON BAMBINO entro tabernacolo. Stucco. Secolo XV. Alt.MI.0.44X0.30.,230,97.9,False,positional,CARLO DOLCI,,,,
+BO0624_81763,59146,52,50,MADoNNA CON BAMBINO entro tabernacolo. Stucco. Secolo XV. Alt.MI.0.44X0.30.,230,97.9,False,positional,CARLO DOLCI,,,,Sec. XV
 BO0624_81763,59147,53,51,RITRATTo DI DoNNA rappresentata a mezza figura avente un libro,236,97.6,False,positional,BERNARDO VAN ORLEY,,,,
 BO0624_81763,59148,54,52,MADoNNA assisa sopra un cuscino con il Bambino Gesu sulle ginocchia. Pittura su tavola a fondo d'oro entro tabernacolo con colonne a tortiglione ed ogiva con foglie.,246,99.1,False,positional,SANO DI PIETRO,,,,
 BO0624_81763,59149,55,53,SAN GIROLAMo in meditazione sul teschio. Cornice dorata.,256,97.3,False,positional,F. RIBERA,,,,
@@ -63,7 +63,7 @@ BO0624_81763,59155,61,59,"GUARNITURA PER CAMINo. Pendola in bronzo dorato, sormo
 BO0624_81763,59156,62,6,o. PAlo DI VAsI in porcellana bleu de roi. Montatura in bronzo.,293,99.2,False,positional,,,VASI,,
 BO0624_81763,59157,63,61,"DUE CANDELABRI a fusto di bronzo patinato verde, su base di",298,97.5,False,positional,,,CANDELABRI,,
 BO0624_81763,59158,64,62,FoDERA per cuscino. Velluto rosso con ricamo applicato. M. 0 60X0.55.,310,97.7,False,positional,,,Stoffe,,
-BO0624_81763,59159,65,63,"ARAzzo. Paesaggio boscoso con ruscello, un grande cervo ed altri animali. Fabbrica fiamminga. Secolo XVII.",315,74.7,False,positional,,,Stoffe,,
+BO0624_81763,59159,65,63,"ARAzzo. Paesaggio boscoso con ruscello, un grande cervo ed altri animali. Fabbrica fiamminga. Secolo XVII.",315,74.7,False,positional,,,Stoffe,,Sec. XVII
 BO0624_81763,59160,66,64,PIANETA con ornati colorati a rapporto su fondo di seta bianca.,322,97.6,False,positional,,,Stoffe,,
 BO0624_81763,59161,67,65,"QuATTRO PORTIERE a tre teli, due di velluto rosso ed uno, nel mezzo, di broccato, a fiori su fondo bianco, guarnite di gal- lone parimenti in velluto rosso.",323,87.0,False,positional,,,Stoffe,,
 BO0624_81763,59162,68,66,GRANDE sPEcCHIERA in legno intagliato e dorato a forma di ven-,328,97.6,False,positional,,,Mobili,,
@@ -73,19 +73,19 @@ BO0624_81763,59165,71,69,Stile Luigi XV.,337,90.3,False,positional,,Periodo di L
 BO0624_81763,59166,72,70,"DUE PICcOLE CANTONIERE ad un piede, in legno intagliato e dorato,",338,97.7,False,positional,,,Mobili,,
 BO0624_81763,59167,73,71,CuLLA di noce scolpita a ornati.,340,95.4,False,positional,,,Mobili,,
 BO0624_81763,59168,74,72,BuREAU-CYLINDRE con ricca guarnizione di bronzi dorati e cesellati. Stile Impero.,341,98.1,False,positional,,,Mobili,,
-BO0624_81763,59169,75,73,"MoBILE A DUE coRPI con riquadri, cariatidi e cornice intagliata a rilievo.Lavoro francese del secolo XVI.",347,73.8,False,positional,,,Mobili,,
+BO0624_81763,59169,75,73,"MoBILE A DUE coRPI con riquadri, cariatidi e cornice intagliata a rilievo.Lavoro francese del secolo XVI.",347,73.8,False,positional,,,Mobili,,Sec. XVI
 BO0624_81763,59170,76,74,"CAssONE NUZIALE con scompartimenti contenenti pitture a tempera di soggetto religioso, il tutto circondato da ornati a rilievo dorati.",353,98.9,False,positional,,,Mobili,,
 BO0624_81763,59171,77,75,CANDELABRo di legno con lumeggiature dorate. Stile Rinascimento.,359,97.6,False,positional,,,Mobili,,
 BO0624_81763,59172,78,76,CREDENzA in noce a due tiretti e due sportelli. Alt. M. 1.20 ——Larg. M.1.12.,363,97.9,False,positional,,,Mobili,,
 BO0624_81763,59173,79,77,PiccoLo TAvoLINo ovale a quattro piedi. Epoca Luigi XV. Alt.M.0.70.,364,97.7,False,positional,,Periodo di Luigi XV,ARREDAMENTI,,
 BO0624_81763,59174,80,78,"SEcRETAIRE-ECRITOIR di mogano a tiretti e sportello a ribalta, guarnito di bronzi dorati. Epoca Impero.",365,74.4,False,positional,,,Mobili,,
 BO0624_81763,59175,81,79,GRANDE TAvOLo di noce con colonnine a spirale formanti arcate sopra la traversa che collega i due piedi composti di un pilastro centrale decorato di ornati ad intaglio e due colonnine,370,99.2,False,positional,,,Mobili,,
-BO0624_81763,59176,82,2,a tortiglione. Lavoro francese del secolo XVI.,371,97.8,False,positional,,,Mobili,,
+BO0624_81763,59176,82,2,a tortiglione. Lavoro francese del secolo XVI.,371,97.8,False,positional,,,Mobili,,Sec. XVI
 BO0624_81763,59177,83,81,"SEI POLTRONE di noce a braccioli ripiegati a voluta, con spal- liera e sedile ricoperti di velluto controtagliato rosso.",379,66.7,False,positional,,,POLTRONE,,
 BO0624_81763,59178,84,82,ScAccHIERA formata da due libri ricoperti di cuoio.,381,97.1,False,positional,,,Mobili,,
 BO0624_81763,59179,85,83,LA VisITAzIoNE. Trasparente formato di vetri colorati riuniti con listelli di piombo. Lavoro fiorentino.,382,98.5,False,positional,,,Mobili,,
 BO0624_81763,59180,86,84,L'AssUNZIONE E S. MARTIRE. Due trasparenti a vetri colorati riuniti da listelli di piombo.,386,77.6,False,positional,,,Mobili,,
-BO0624_81763,59181,87,85,SAN GiovANN1. Trasparente di vetri colorati commessi da listelli di piombo. Lavoro tedesco del secolo XVI.,391,74.6,False,positional,,,Mobili,,
+BO0624_81763,59181,87,85,SAN GiovANN1. Trasparente di vetri colorati commessi da listelli di piombo. Lavoro tedesco del secolo XVI.,391,74.6,False,positional,,,Mobili,,Sec. XVI
 BO0624_81763,59182,88,86,MoRTA1o di marmo con quattro stemmi.,395,95.9,False,positional,,,Mobili,,
 BO0624_81763,59183,89,87,"MADoNNA cON BAMBINo. Bassorilievo in pietra bigia, della Scuola di Mino da Fiesole.",399,98.2,False,positional,,,Mobili,,
 BO0624_81763,59184,90,88,"CAPITELLo di marmo, vuotato per uso di mortaio.",403,96.8,False,title_direct,CAMPI,,,,
@@ -95,11 +95,11 @@ BO0624_81763,59187,93,91,MisURE di peso piemontese.,426,94.3,False,positional,,,
 BO0624_81763,59188,94,92,CARIATIDE con lampada.,430,93.3,False,positional,,,LAMPADE,,
 BO0624_81763,59189,95,93,DuE PIATTI di metallo con stella a rilievo nel centro. Diametro M. o.42.,431,97.9,False,positional,,,PIATTI,,
 BO0624_81763,59190,96,94,"ARcoLAlo di legno nero, con necessaire da lavoro ed organetto.",432,97.6,False,positional,,,Mobili,,
-BO0624_81763,59191,97,95,CoFANETTo con ornamentazione di pastiglia a rilievo dorata. Secolo XV.,433,89.9,False,positional,,,Mobili,,
+BO0624_81763,59191,97,95,CoFANETTo con ornamentazione di pastiglia a rilievo dorata. Secolo XV.,433,89.9,False,positional,,,Mobili,,Sec. XV
 BO0624_81763,59192,98,96,"PiccoLo scRIGNo a tre tiretti, con nécessaire per lavoro. Alt.M.0.25X0.33.",450,97.9,False,positional,,,Mobili,,
 BO0624_81763,59193,99,97,SAN FRANcEsco. Statua di bosso sopra base circolare col nome del Santo.,451,97.9,False,positional,,,Mobili,,
 BO0624_81763,59194,100,98,TRE LAVABOs di metallo.,458,93.6,False,positional,,,Mobili,,
-BO0624_81763,59195,101,99,VARIE FIGURE di gobbi di Jacopo Callot. Firenze 1625. DoDICI PICCOLI RAMI da incisione.,459,98.2,False,positional,,,Mobili,,
+BO0624_81763,59195,101,99,VARIE FIGURE di gobbi di Jacopo Callot. Firenze 1625. DoDICI PICCOLI RAMI da incisione.,459,98.2,False,positional,,,Mobili,,Sec. XVII
 BO0624_81763,59196,102,3,"I0o. PLATEAU di bronzo con decorazione dorata, in agemina d'ar-",460,98.4,False,positional,,,Mobili,,
 BO0624_81763,59197,103,4,gento ed a rilievo. Lavoro giapponese.,461,97.3,False,positional,,,Mobili,,
 BO0624_81763,59198,104,101,DuE STAMPE di ferro per cialde. UNA sEGA da chirurgo. MOLLE DA CAMINETTO.,462,97.2,False,positional,,,STAMPE E INCISIONI,,
@@ -121,7 +121,7 @@ BO0624_81763,59213,119,116,PiATTo a largo bordo decorato di foglie a vari colori
 BO0624_81763,59214,120,117,DuE VASI FORMA MEDICI ornati di soggetti mitologici e di medaglioni in colori lumeggiati in oro. Zoccolo quadrato con,524,98.3,False,positional,,,VASI,,
 BO0624_81763,59215,121,118,"DUE GRANDI VASI DI CHINA con coperchi, decorati a medaglioni con personaggi, sopra base in legno scolpito e dorato Luigi XIV.",529,98.4,False,positional,,Periodo di Luigi XIV,VASI,,
 BO0624_81763,59216,122,119,"GRuppo di due contadini ed una contadina, in mezza porcellana",535,96.8,False,positional,,,Porcellane; Maioliche,,
-BO0624_81763,59217,123,120,"CoNTE DI CAsTELVETRO, giureconsulto modenese del sec. XVI. Busto in terracotta.",540,97.4,False,positional,,,Porcellane; Maioliche,,
+BO0624_81763,59217,123,120,"CoNTE DI CAsTELVETRO, giureconsulto modenese del sec. XVI. Busto in terracotta.",540,97.4,False,positional,,,Porcellane; Maioliche,,Sec. XVI
 BO0624_81763,59218,124,121,"GESU SULLA CROCE, CON LE TRE DONNE PIETOSE. Parte centrale di trittico a fondo d'oro.",549,97.6,False,positional,,SCUOLA SENESE,,,
 BO0624_81763,59219,125,122,RITRATTO DI NIccOLO BRANDoLIN cavaliere dell'ordine di Malta. Rappresentato in piedi innanzi ad un tavolo su cui sono posate due pistole.,553,98.5,False,positional,,SCUOLA SENESE,,,
 BO0624_81763,59220,126,123,"RITRATTo di magistrato a figura intera,seduto in seggiolone, presso di un tavolo.",557,97.5,False,positional,,SCUOLA SENESE,,,
@@ -148,10 +148,10 @@ BO0624_81763,59240,146,I40,MADONNA COL BAMBINO E SAN GIOVANNI. Cornice fondo ble
 BO0624_81763,59241,147,14,"obis, RITRATTo DI PERsONAGGIO rappresentato a mezza figura, quasi",658,98.4,False,positional,FRA DIAMANTE,,,,
 BO0624_81763,59242,148,I41,"DuE DIPINTI su quercia d'Olanda, rappresentanti scene fan-",668,96.6,False,positional,BREUGHEL PIETRO,,,,
 BO0624_81763,59243,149,I42,"TRE QUADRI su tavola,rappresentanti:",677,94.6,False,positional,VITTORIO CARPACCIO,,,,
-BO0624_81763,59244,150,1,"° Molti cavalieri e dame in costume veneziano del secolo XV, si accingono a partire sopra una nave per lisola di Citera; 2°Arrivo allisola di Citera, ove i cavalieri invitano le dame ad andare a sacrificare al tempio di Venere;",678,99.5,False,positional,VITTORIO CARPACCIO,,,,
+BO0624_81763,59244,150,1,"° Molti cavalieri e dame in costume veneziano del secolo XV, si accingono a partire sopra una nave per lisola di Citera; 2°Arrivo allisola di Citera, ove i cavalieri invitano le dame ad andare a sacrificare al tempio di Venere;",678,99.5,False,positional,VITTORIO CARPACCIO,,,,Sec. XV
 BO0624_81763,59245,151,3,Ritorno dall'isola di Citera e perdono del padre di una delle dame che viene concessa in isposa al suo cavaliere.,679,99.1,False,positional,VITTORIO CARPACCIO,,,,
 BO0624_81763,59246,152,143,RITRATTo D1 ToMMAso MooRE dipinto su tavola. Cornice di pero. AIt.M.0.35X0.24.,685,97.4,False,positional,VITTORIO CARPACCIO,,,,
-BO0624_81763,59247,153,144,BATTAGLIA navale fra Cristiani e Turchi. Pittura su tela fir- mata P. C. 1659. Cornice dorata.,691,78.1,False,positional,POLI C.,,,,
+BO0624_81763,59247,153,144,BATTAGLIA navale fra Cristiani e Turchi. Pittura su tela fir- mata P. C. 1659. Cornice dorata.,691,78.1,False,positional,POLI C.,,,,Sec. XVII
 BO0624_81763,59248,154,145,"DuE vITicci (appliques) a tre porta-candele in bronzo dorato, decorati con testa di leone e superiormente da vaso. Stile Luigi XVI.",696,98.4,False,positional,,,LAMPADE,,
 BO0624_81763,59249,155,I46,"FAUNO, UNA BACCANTE, UN AMORINO ED UN PICCOLO SATIRO. Riproduzione di un gruppo in bronzo di Clodion, fatta da",702,98.1,False,positional,CLODION MICHEL,,Bronzi,,
 BO0624_81763,59250,156,147,"PA1o APPLIQUEs a due bracci, in bronzo. Stile Luigi XVI.",707,96.4,False,positional,,,LAMPADE,,
@@ -162,25 +162,25 @@ BO0624_81763,59254,160,151,"CrocE in metallo con Cristo e quattro bustini alle e
 BO0624_81763,59255,161,152,OMBRELLo di seta turchina per funzioni religiose.,733,96.0,False,positional,,,Stoffe,,
 BO0624_81763,59256,162,153,"PoRTIERA a punto d'arazzo, con fiori a colori vari, su fondo turchino scuro.Lavoro orientale.",739,97.8,False,positional,,,Stoffe,,
 BO0624_81763,59257,163,154,"DuE PORTIERE di velluto cremisi, con telo nel mezzo fregiato di ricca ornamentazione di festoni, fiori ed animali, a ricamo in seta a colori, su fondo vieil or.",743,98.7,False,positional,,,Stoffe,,
-BO0624_81763,59258,164,155,TELo di broccato a fiori ed ornati turchini su fondo giallo. Secolo XVI.,747,88.7,False,positional,,,Stoffe,,
+BO0624_81763,59258,164,155,TELo di broccato a fiori ed ornati turchini su fondo giallo. Secolo XVI.,747,88.7,False,positional,,,Stoffe,,Sec. XVI
 BO0624_81763,59259,165,156,"DuE SEGGIOLINE di legno nero ed oro, con sedile ricoperto di stoffa di seta gialla. Stile Direttorio.",754,73.3,False,positional,,,Mobili,,
 BO0624_81763,59260,166,157,ScRIGNo in lacca nera con ornamentazione di alberi e pagode. Lavoro giapponese.,756,97.5,False,positional,,,Mobili,,
 BO0624_81763,59261,167,158,GRANDE STIPO con gli specchi dei tiretti decorati d’'intarsi a madreperla.,760,89.1,False,positional,,,SPECCHI,,
 BO0624_81763,59262,168,159,CAssONE NUZIALE con rappresentanze figurate ed ornati a bas-,765,96.7,False,positional,,,Mobili,,
-BO0624_81763,59263,169,2,sorilievo. Secolo XV.,766,95.0,False,positional,,,Mobili,,
+BO0624_81763,59263,169,2,sorilievo. Secolo XV.,766,95.0,False,positional,,,Mobili,,Sec. XV
 BO0624_81763,59264,170,16,"o.PIccOLA coMMoDE a due tiretti,con intarsio a rombi in ebano rosa. Epoca Luigi XV.",770,98.8,False,positional,,Periodo di Luigi XV,Mobili,,
 BO0624_81763,59265,171,161,"CoNsOLE-ETAGERE di mogano, a due tiretti e due piani di marmo, con guarnizioni di metallo. Epoca Direttorio.",775,71.4,False,positional,,,Mobili,,
 BO0624_81763,59266,172,162,GuERIDON DI MOGANO con piano di alabastro bianco e guarnizione di metallo dorato. Epoca Impero.,780,97.9,False,positional,,,Mobili,,
-BO0624_81763,59267,173,163,"MoBILINo di noce a due corpi, con cariatidi e colonne. Secolo XVI.",784,96.9,False,positional,,,Mobili,,
+BO0624_81763,59267,173,163,"MoBILINo di noce a due corpi, con cariatidi e colonne. Secolo XVI.",784,96.9,False,positional,,,Mobili,,Sec. XVI
 BO0624_81763,59268,174,164,CINQUE STALLI GOTICI con ornati a rilievo ed intarsi di legni vari. Lo stallo di centro e sormontato da un cupolino.,788,68.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81763,59269,175,165,"SEcRETAIRE a tre tiretti e sportello, riccamente decorato di fiori ad intarsio di legni di vari colori.",793,72.0,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_81763,59270,176,166,CAssoNE NUzIALE di noce con ornati intagliati nella parte anteriore e cariatidi alle estremita. Secolo XVII.,798,98.1,False,positional,,,Mobili,,
-BO0624_81763,59271,177,167,CAssONE NUZIALE con quattro angeli dipinti. Secolo XVI. Alt. M. o.7o -Largh. 1.85.,802,80.3,False,positional,,,Mobili,,
+BO0624_81763,59270,176,166,CAssoNE NUzIALE di noce con ornati intagliati nella parte anteriore e cariatidi alle estremita. Secolo XVII.,798,98.1,False,positional,,,Mobili,,Sec. XVII
+BO0624_81763,59271,177,167,CAssONE NUZIALE con quattro angeli dipinti. Secolo XVI. Alt. M. o.7o -Largh. 1.85.,802,80.3,False,positional,,,Mobili,,Sec. XVI
 BO0624_81763,59272,178,168,"QUATTRO SGABELLI in noce, con stemma ed ornati scolpiti nella spalliera.",804,97.2,False,positional,,,Mobili,,
 BO0624_81763,59273,179,169,"CAssAPANcA in noce ad alta spalliera, con stemma intagliato. Secolo XVIl.",805,97.2,False,positional,,,Mobili,,
 BO0624_81763,59274,180,170,SEDIA di legno dorato con spalliera e sedile ricoperti di vel- luto rosso.,806,89.1,False,positional,,,Mobili,,
 BO0624_81763,59275,181,171,"ScRIvANIA con ribalta scorrevole, terrazzino con galerie e guar- nizione in bronzo dorato. Lavoro francese. Luigi XVI.",808,69.3,False,positional,,,Mobili,,
-BO0624_81763,59276,182,172,"TABERNAcOLO IN LEGNO con ornati dorati ed uno stemma nella parte inferiore. Nel centro del tabernacolo Madonna con Bambino, San Giovanni ed angeli in stucco policromato. Sec. XV.",813,98.9,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_81763,59276,182,172,"TABERNAcOLO IN LEGNO con ornati dorati ed uno stemma nella parte inferiore. Nel centro del tabernacolo Madonna con Bambino, San Giovanni ed angeli in stucco policromato. Sec. XV.",813,98.9,False,positional,,,OGGETTI IN LEGNO,,Sec. XV
 BO0624_81763,59277,183,173,"SEDIA detta alla Savonarola, a 6 stecche.",818,95.1,False,positional,,,Mobili,,
 BO0624_81763,59278,184,174,TAvoLA rettangolare in noce a quattr o piedi a forma di balaustro. Alt. M.0.82X1.60X0.93.,819,83.9,False,positional,,,Mobili,,
 BO0624_81763,59279,185,175,"SEI sEGGIOLoN1 di noce a braccioli piani, con targhe intagliate e lumeggiate d'oro nella spalliera ricoperta, come il sedile, di velluto rosso.",822,71.0,False,positional,,,Mobili,,
@@ -191,7 +191,7 @@ BO0624_81763,59283,189,179,"BusTo D'uoMo, di profilo, volto a sinistra; bassoril
 BO0624_81763,59284,190,2,"18o. SAN GIovANNINo dormente, con il capo appoggiato sopra l'a-",839,98.4,False,positional,,,Marmi,,
 BO0624_81763,59285,191,3,"gnello. Gruppo in marmo, firmato A. Galli.",840,97.4,False,positional,,,Marmi,,
 BO0624_81763,59286,192,18,"obis. FoNTANA di pietra, con vasca circolare e balaustro in pietra serena.",844,98.6,False,positional,,,Marmi,,
-BO0624_81763,59287,193,18,"oter. VAsO IN PIETRA D'IsTRIA con quattro nicchie ad ogiva, in ciascuna delle quali due animali affrontati scolpiti a bassorilievo. Secolo XIV.",848,99.3,False,positional,,,VASI,,
+BO0624_81763,59287,193,18,"oter. VAsO IN PIETRA D'IsTRIA con quattro nicchie ad ogiva, in ciascuna delle quali due animali affrontati scolpiti a bassorilievo. Secolo XIV.",848,99.3,False,positional,,,VASI,,Sec. XIV
 BO0624_81763,59288,194,181,STATUETTA in bronzo patinato verde.,857,94.4,False,positional,,,Marmi,,
 BO0624_81763,59289,195,182,"PIATTo circolare di rame, con ornati sul fondo.",873,95.7,False,positional,,,Marmi,,
 BO0624_81763,59290,196,183,"DRAGo in ferro battuto, con anello per fissarvi la bandiera. Alt.M.0.50.",877,88.5,False,positional,,,Marmi,,
@@ -207,12 +207,12 @@ BO0624_81763,59299,205,192,MoDELLO DI ARMADIO alla veneziana.,905,94.3,False,pos
 BO0624_81763,59300,206,I93,DuE BUsTI D1 SANTI scolpiti in legno per porta-reliquie. Ait.MI.o.65-Largh. M.o.45.,915,97.6,False,positional,,,Marmi,,
 BO0624_81763,59301,207,195,DuE CAcHEPoTs. Decorazione detta a 《feurs de choux &gt;. Porcellana di Sevres.,923,97.3,False,title_direct,,,Porcellane,,
 BO0624_81763,59302,208,196,"SALsIERA con coperchio, in porcellana bianca con fiori poli- cromi. Melun (Boisette).",927,82.3,False,positional,,,Porcellane; maioliche,,
-BO0624_81763,59303,209,197,PIATTINo con la dedica D. M. Marcella 1715. Maiolica di Savona.,929,90.4,False,positional,,,Porcellane; maioliche,,
+BO0624_81763,59303,209,197,PIATTINo con la dedica D. M. Marcella 1715. Maiolica di Savona.,929,90.4,False,positional,,,Porcellane; maioliche,,Sec. XVIII
 BO0624_81763,59304,210,198,UNDICI PIccoLE TAzzINE turche di porcellana bianca con do- rature.,938,91.2,False,positional,,,Porcellane; maioliche,,
 BO0624_81763,59305,211,199,PiATTo con amorino nel centro. Antica maiolica di Savona. Diametro M. o.23.,942,84.6,False,positional,,,Porcellane; maioliche,,
 BO0624_81763,59306,212,200,UNDICI PIATTI ottagoni. Porcellana giapponese.,951,95.7,False,title_direct,,,PIATTI,,
 BO0624_81763,59307,213,201,CINQUE PIATTI con paesaggio nel mezzo. Porcellana di Hocst.,955,96.6,False,title_direct,,,PIATTI,,
-BO0624_81763,59308,214,202,"MATToNELLA di forma circolare. Gruppo di pastori con capre, vacca, ecc., dipinto a colori e firmato: D. Grue 1718. Maiolica degli Abruzzi.",956,98.5,False,positional,,,Porcellane; maioliche,,
+BO0624_81763,59308,214,202,"MATToNELLA di forma circolare. Gruppo di pastori con capre, vacca, ecc., dipinto a colori e firmato: D. Grue 1718. Maiolica degli Abruzzi.",956,98.5,False,positional,,,Porcellane; maioliche,,Sec. XVIII
 BO0624_81763,59309,215,203,"TERRINA cON PIATTo. Porcellana bianca con decorazioni, fiori e foglie in bleu. Berlino.",960,80.0,False,title_direct,,,Porcellane,,
 BO0624_81763,59310,216,204,MADoNNA CON BAMBINo. Gruppo in maiolica colorata. Abruzzi. Alt. M.0.40,965,97.1,False,positional,,,Porcellane; maioliche,,
 BO0624_81763,59311,217,205,DuE vAsI con coperchio ed anse a voluta. Decorazioni di me- daglioni con soggetti storici ed ornati a rilievi dorati. Porcellana di Capodimonte.,967,74.1,False,title_direct,,,VASI,,
@@ -243,7 +243,7 @@ BO0624_81763,59335,241,229,MADONNA CON BAMBINo; fondo di paesaggio con piccole f
 BO0624_81763,59336,242,230,SANTA CATERINA. Testa di pittura su tavola. Cornice nero e oro. Alt. M. 0.38X0.27.,1082,97.4,False,positional,,SCUOLA FIORENTINA,,,
 BO0624_81763,59337,243,231,RITRATTO DI GIOVANE DoNNA in atto di cucire. Cornice dorata. Alt.M.0.95X0.75.,1088,97.4,False,positional,LUCA LONGHI,,,,
 BO0624_81763,59338,244,232,"SAN CRISOsToMo e SAN RocCo. Pitture su tavola entro cor- nice dorata, centinata nella parte superiore.",1089,69.2,False,positional,LUCA LONGHI,,,,
-BO0624_81763,59339,245,233,REsURREZIONE D1 NosTRO SIGNORE. Pittura su tavola firmata Campi 1539. Cornice a tabernacolo.,1100,97.8,False,positional,CAMPI,,,,
+BO0624_81763,59339,245,233,REsURREZIONE D1 NosTRO SIGNORE. Pittura su tavola firmata Campi 1539. Cornice a tabernacolo.,1100,97.8,False,positional,CAMPI,,,,Sec. XVI
 BO0624_81763,59340,246,234,"INTERNO DI CHIESA. Firmato a sinistra. Cornice intagliata e dorata, sormontata da corona principesca.",1110,98.0,False,positional,BISI LUIGI,,,,
 BO0624_81763,59341,247,2,235.RITRATTO DI CARDINALE.,1111,96.2,False,positional,BISI LUIGI,,,,
 BO0624_81763,59342,248,236,MADONNA CON BAMBINO Seduta Su trono. Tavola alt.M.o.55 X o.40.,1117,70.7,False,positional,BISI LUIGI,,,,
@@ -274,19 +274,19 @@ BO0624_81763,59366,272,258,"CINQUE SEGGIOLONI con spalliera centinata, ricoperta
 BO0624_81763,59367,273,259,SPEccHIERA a due colonne con base e capitelli in legno dorato. Epoca Impero.,1200,97.4,False,positional,,,Mobili,,
 BO0624_81763,59368,274,26,"o. TAvoLINo ottagono, con piano a legni intarsiati e piede dorato. Alt.M.o.7o —Diametro M.o.62.",1203,98.9,False,positional,,,ARREDAMENTI,,
 BO0624_81763,59369,275,261,CAssoNE NUZIALE con rappresentanza,1204,94.4,False,positional,,,Mobili,,
-BO0624_81763,59370,276,262,CAssoNE da matrimonio di noce: con ornati e stemma scol- piti. Secolo XVII.,1211,83.7,False,positional,,,Mobili,,
+BO0624_81763,59370,276,262,CAssoNE da matrimonio di noce: con ornati e stemma scol- piti. Secolo XVII.,1211,83.7,False,positional,,,Mobili,,Sec. XVII
 BO0624_81763,59371,277,263,"SEDIA detta alla Savonarola, a sette stecche.",1216,95.6,False,positional,,,Mobili,,
 BO0624_81763,59372,278,264,SpEccHIERA a due colonne e fregio con figure dorate. Epoca Impero.,1217,97.0,False,positional,,,Mobili,,
 BO0624_81763,59373,279,265,PIccOLA sPINETTA con tiretti e nécessaire da lavoro.,1221,96.2,False,positional,,,Mobili,,
 BO0624_81763,59374,280,2,Alt.M.2.05X1.20.,1222,93.8,False,positional,,,Mobili,,
 BO0624_81763,59375,281,267,TavoLo rettangolare di noce con fascie scolpite e piedi a colonna collegati fra di loro.,1223,97.8,False,positional,,,Mobili,,
-BO0624_81763,59376,282,268,"VAso in pietra d'Istria, con fogliami ed animali scolpiti all'in- torno. Secolo XIV.",1227,85.7,False,positional,,,VASI,,
-BO0624_81763,59377,283,269,GRANDE ALTORILIEvo rappresentante la Vergine con il Bambino Gesu che tiene in mano un cardellino. All'ingiro una gloria di serafini. Lavoro dell'arte lombarda del secolo XVII.,1232,98.9,False,positional,,,Marmi,,
+BO0624_81763,59376,282,268,"VAso in pietra d'Istria, con fogliami ed animali scolpiti all'in- torno. Secolo XIV.",1227,85.7,False,positional,,,VASI,,Sec. XIV
+BO0624_81763,59377,283,269,GRANDE ALTORILIEvo rappresentante la Vergine con il Bambino Gesu che tiene in mano un cardellino. All'ingiro una gloria di serafini. Lavoro dell'arte lombarda del secolo XVII.,1232,98.9,False,positional,,,Marmi,,Sec. XVII
 BO0624_81763,59378,284,270,SANTA MARIA MADDAIENA. Statua di marmo. Lavoro del sccolo XV.,1237,96.7,False,positional,,,Marmi,,
 BO0624_81763,59379,285,271,"GENIO FUNERARIo, bassorilievo in marmo.",1244,94.9,False,positional,,,Marmi,,
 BO0624_81763,59380,286,272,"CRISTOFORo CoLOMBo. Ritratto a mezzo busto, in marmo. SecoloXVI.",1248,96.8,False,positional,,,Marmi,,
 BO0624_81763,59381,287,273,TEsTA D'IMPERATORE con corona radiata. Bassorilievo in marmo. Alt.M.o.39 —Largh.M.o.26.,1252,97.6,False,positional,,,Marmi,,
-BO0624_81763,59382,288,274,"VAso in pietra d'Istria, con due zone di ornati e stemmi scolpiti a rilievo. Secolo XIV.",1253,97.7,False,positional,,,VASI,,
+BO0624_81763,59382,288,274,"VAso in pietra d'Istria, con due zone di ornati e stemmi scolpiti a rilievo. Secolo XIV.",1253,97.7,False,positional,,,VASI,,Sec. XIV
 BO0624_81763,59383,289,275,"QuATTRO MEDAGLIE entro astucci a libro, rappresentanti Bernini, Vitruvio, Alcemeone e Novelli Pietro.",1264,98.0,False,positional,BERNINI GIOVANNI LORENZO,,Marmi,,
 BO0624_81763,59384,290,276,"CRocE da processione, in metallo dorato. Arte tedesca. bis STRUMENTO musicale a corda usato dagl'Indiani.",1268,65.4,False,positional,,,Marmi,,
 BO0624_81763,59385,291,277,TRE PAIA DI PICCOLI CANDELLIERI.,1278,93.9,False,positional,,,Marmi,,
@@ -326,7 +326,7 @@ BO0624_81763,59418,324,310,FIGURA BACcHICA recante coppa sopra piatto. Cornice d
 BO0624_81763,59419,325,4,su rame.,1414,87.5,False,positional,ZAMPIERI DOMENICO,,,,
 BO0624_81763,59420,326,312,NAsCITA DI GEsu. Pittura su rame. Cornice intagliata e dorata. Alt. N1. 0.23 X0.18.,1420,97.5,False,positional,,SCUOLA FERRARESE,,,
 BO0624_81763,59421,327,313,FLAGELLAZIONE DI GEsU. Pittura su rame. Cornice dorata. AIt. M.0.23 X0 31.,1421,97.2,False,positional,,SCUOLA FERRARESE,,,
-BO0624_81763,59422,328,314,RITRATTo di una gentildonna a mezza figura. Secolo XVII. Cornice dorata.,1422,85.0,False,positional,,SCUOLA FERRARESE,,,
+BO0624_81763,59422,328,314,RITRATTo di una gentildonna a mezza figura. Secolo XVII. Cornice dorata.,1422,85.0,False,positional,,SCUOLA FERRARESE,,,Sec. XVII
 BO0624_81763,59423,329,315,PREsEPIo. I pastori adorano il Bambino. Cornice dorata. Alt.MI.021X025.,1427,97.1,False,positional,,SCUOLA FERRARESE,,,
 BO0624_81763,59424,330,316,MADoNNA cON BAMBINO assisa in trono e quattro santi ai lati. Tabernacolo dorato.,1433,97.5,False,positional,,SCUOLA SENESE,,,
 BO0624_81763,59425,331,317,EPISODIO TRAGICO. Cornice dorata.,1436,93.9,False,positional,,SCUOLA SENESE,,,
@@ -351,17 +351,17 @@ BO0624_81763,59443,349,5,"Lungh.M.0.48X 0.32-Ali o.14. Veli illustrazione,pag. X
 BO0624_81763,59444,350,335,PAIO CANDELABRI BRONzO formati da cariatide reggente un capitello dal quale escono 9 bracci per candele. Base in Impero.,1532,95.3,False,positional,,,CANDELABRI,,
 BO0624_81763,59445,351,336,"PuTTINo coN DELFINo. Riproduzione in bronzo dall' originale del Verrocchio esistente in Firenze, fatta dal celebre professore Pio Fedi. bis. CRocEFisso di bronzo. Cornice di legno intagliato e dorato. Luigi XIV.",1537,77.5,False,positional,,Periodo di Luigi XIV,Bronzi,,
 BO0624_81763,59446,352,337,PA1o DI VAsI di granito rosso con guarnizioni ed anse formate da teste di caprone in bronzo dorato. Epoca Luigi XVI.,1545,98.3,False,positional,,,VASI,,
-BO0624_81763,59447,353,338,PAsToRALE con riccio ad ornati dorati sopra fondo smaltato. Nella voluta del riccio vi e rappresentata L'Annunziazione. Epoca secolo XIV.,1551,72.0,False,positional,ANDREA BRIOSCO DETTO IL RICCIO,,Bronzi,,
+BO0624_81763,59447,353,338,PAsToRALE con riccio ad ornati dorati sopra fondo smaltato. Nella voluta del riccio vi e rappresentata L'Annunziazione. Epoca secolo XIV.,1551,72.0,False,positional,ANDREA BRIOSCO DETTO IL RICCIO,,Bronzi,,Sec. XIV
 BO0624_81763,59448,354,339,"PiccoLo TAPPETo di seta gialla con fiorellini ricamati, stemma nel mezzo e frangia.",1557,97.6,False,positional,,,Stoffe,,
 BO0624_81763,59449,355,340,"CoPERTA DI MOIRE giallo, bordata di gallone.",1558,95.5,False,positional,,,Stoffe,,
 BO0624_81763,59450,356,342,CoPERTA di damasco rosso a piccoli fiorelli. AIt.M.3X2.20.,1565,96.6,False,positional,,,Stoffe,,
 BO0624_81763,59451,357,343,"QuATTRO PORTIERE con lambrequin, a tre teli, dei quali i due laterali di velluto verde a fiori impressi e quello di mezzo in",1566,98.4,False,positional,,,Stoffe,,
 BO0624_81763,59452,358,344,"DuE MENsoLE a tre piani, in legno intagliato e dorato con fondo di specchio.",1575,97.4,False,positional,,,Mobili,,
 BO0624_81763,59453,359,345,TAvoLo di noce rettangolare con piedi e traversa a tortiglione. Alt M o 9o -Lungh.1.S5—Largh.o.70.,1576,97.9,False,positional,,,Mobili,,
-BO0624_81763,59454,360,346,CAssAPANCA in noce ad alta spalliera con stemma intagliato. Secolo XVII.,1577,97.2,False,positional,,,Mobili,,
+BO0624_81763,59454,360,346,CAssAPANCA in noce ad alta spalliera con stemma intagliato. Secolo XVII.,1577,97.2,False,positional,,,Mobili,,Sec. XVII
 BO0624_81763,59455,361,347,"PoLTRONA DI NOCE con bracciuoli piani, spalliera e sedile ricoperti di broccatello rosso a fiorami.",1578,98.0,False,positional,,,POLTRONE,,
 BO0624_81763,59456,362,348,"PoLTRONA DI NOcE a braccioli terminati da testa di leone ed ornati lumeggiati in oro, spalliera e sedile di velluto rosso.",1579,98.4,False,positional,,,POLTRONE,,
-BO0624_81763,59457,363,349,SEDIA CATTEDRATICA con spalliera a due riquadri decorati di intagli a rilievo. Secolo XV.,1580,97.8,False,positional,,,Mobili,,
+BO0624_81763,59457,363,349,SEDIA CATTEDRATICA con spalliera a due riquadri decorati di intagli a rilievo. Secolo XV.,1580,97.8,False,positional,,,Mobili,,Sec. XV
 BO0624_81763,59458,364,350,DoDICI SEGGIOLINE di noce con spalliera e sedile ricoperte di,1584,96.8,False,positional,,,Mobili,,
 BO0624_81763,59459,365,2,stoffa a fiori. Stile Luigi XVI.,1585,96.8,False,positional,,,Mobili,,
 BO0624_81763,59460,366,3,cole figure e ritratti dipinti a colori.,1586,97.5,False,positional,,,Mobili,,
@@ -371,7 +371,7 @@ BO0624_81763,59463,369,354,PAPETERIE in mogano con sportello a ribalta. AIt. MI.
 BO0624_81763,59464,370,355,SEcRETAIRE a due sportelli nella parte inferiore ed altro a ribalta nella parte centrale; superiormente un tiretto. Decorazione di ornati ed animali ad intarsio di legni colorati.,1594,98.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81763,59465,371,356,"PiccoLo TAvoLo da lavoro a due tiretti, con piano pieghevole",1595,96.7,False,positional,,,Mobili,,
 BO0624_81763,59466,372,357,"TAvoLINo rotondo ad un piede, con piano di marmo bianco. Epoca Impero.",1600,97.1,False,positional,,,ARREDAMENTI,,
-BO0624_81763,59467,373,359,LETro di noce a quattro colonnine a balaustro. Secolo XVII.,1605,96.6,False,positional,,,Mobili,,
+BO0624_81763,59467,373,359,LETro di noce a quattro colonnine a balaustro. Secolo XVII.,1605,96.6,False,positional,,,Mobili,,Sec. XVII
 BO0624_81763,59468,374,36,o. PoLTRoNA in mogano con guarnizione in bronzo dorato. Sedile,1606,98.4,False,positional,,,POLTRONE,,
 BO0624_81763,59469,375,361,TAvoLINo rotondo a tre piedi a colonna. Epoca Impero. Alt.MI.o.72-Diam.o.6o.,1608,97.3,False,positional,,,ARREDAMENTI,,
 BO0624_81763,59470,376,362,PICCOLO GUERIDoN. Epoca Impero. Alt.M.o.75.,1609,95.2,False,positional,,,Mobili,,
@@ -379,7 +379,7 @@ BO0624_81763,59471,377,363,"CAssoNE NUzIALE di noce, con decorazione architetton
 BO0624_81763,59472,378,364,SPEccHIo con cimasa sormontata da teste di leone. Alt.M.1.65—Largh.c.65.,1614,97.2,False,positional,,,Mobili,,
 BO0624_81763,59473,379,365,CoNsoLE di legno intagliato e dorato con piano di imarmo rosso di Francia. Epoca Luigi XV.,1615,97.8,False,positional,,Periodo di Luigi XV,Mobili,,
 BO0624_81763,59474,380,366,MoRTA1o di pietra con quattro stemmi.,1619,94.7,False,positional,,,Marmi,,
-BO0624_81763,59475,381,367,MADoNNA CON BAMBINO seduta in trono. Scultura in marmo. Lavoro del secolo XV.,1625,80.9,False,positional,,,Marmi,,
+BO0624_81763,59475,381,367,MADoNNA CON BAMBINO seduta in trono. Scultura in marmo. Lavoro del secolo XV.,1625,80.9,False,positional,,,Marmi,,Sec. XV
 BO0624_81763,59476,382,368,MADoNNA cON BAMBINO ed un devoto inginocchiato a sinistra. Bassorilievo in pietra policromata. Arte tedesca.,1632,68.7,False,positional,,,Marmi,,
 BO0624_81763,59477,383,369,AsTuccio con sei coltelli con manico in porcellana di Moustier.                                                 |,1644,96.9,False,positional,,,Marmi,,
 BO0624_81763,59478,384,37,o. VAso di stagno per birra. Alt.M.042. PIATTo CIRcOLARE di stagno con ornati e figure a rilievo. Diametro M.o.18. |,1646,99.1,False,positional,,,VASI,,
@@ -394,7 +394,7 @@ BO0624_81763,59486,392,378,LEBETE e due vasi di bronzo di scavo.                
 BO0624_81763,59487,393,379,AsTuccio da viaggio con posata d'argento.,1655,95.2,False,positional,,,Marmi,,
 BO0624_81763,59488,394,38,o. SANT'ANToNIo. Busto in legno a bassorilievo policromato e,1659,98.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81763,59489,395,381,"DAVANTI DI CAssONE con tre ordini di medaglioni, in ciascuno",1665,96.7,False,positional,,,Marmi,,
-BO0624_81763,59490,396,382,MADoNNA cON BAMBINo. Scultura in legno del Secolo XIV.,1671,96.3,False,positional,,,Marmi,,
+BO0624_81763,59490,396,382,MADoNNA cON BAMBINo. Scultura in legno del Secolo XIV.,1671,96.3,False,positional,,,Marmi,,Sec. XIV
 BO0624_81763,59491,397,383,PiATTo di porcellana bianca di Ginori.,1679,94.9,False,positional,,,Porcellane; maioliche,,
 BO0624_81763,59492,398,384,GRuppo di due figure sotto un albero. Porcellana bianca.,1685,96.4,False,title_direct,,,Porcellane,,
 BO0624_81763,59493,399,385,"VAsso1o ovale, con stemma nel centro. Terraglia inglese.",1691,96.4,False,positional,,,Porcellane; maioliche,,
@@ -418,7 +418,7 @@ BO0624_81763,59510,416,402,GiuDITTA si allontana da Betulia portante la testa d'
 BO0624_81763,59511,417,403,DUE PAESAGGI CON VILLICI. Cornice dorata. Tavola alt. M. o.48 -Largh. o.92.,1757,97.1,False,positional,,SCUOLA FRANCESE,,,
 BO0624_81763,59512,418,404,MADONNA CON BAMBINo. Pittura su tavola a fondo dorato.,1763,96.3,False,positional,,SCUOLA SENESE,,,
 BO0624_81763,59513,419,2,Alt.M.0.50X0.35,1764,93.8,False,positional,,SCUOLA SENESE,,,
-BO0624_81763,59514,420,406,"RITRATTo di patrizio fiorentino del Secolo XIII, dipinto su",1769,96.7,False,positional,,SCUOLA SENESE,,,
+BO0624_81763,59514,420,406,"RITRATTo di patrizio fiorentino del Secolo XIII, dipinto su",1769,96.7,False,positional,,SCUOLA SENESE,,,Sec. XIII
 BO0624_81763,59515,421,408,L' INCORONAZIONE DELLA MADONNA. La Vergine seduta sul trono viene incoronata dal Redentore. Ai lati due Santi e due An-,1780,98.3,False,positional,NARDINI BERNARDINO DA GUBBIO,,,,
 BO0624_81763,59516,422,409,MADONNA CON BAMBINO. Fondo dorato.,1791,94.1,False,positional,,SCUOLA SENESE,,,
 BO0624_81763,59517,423,410,"UN TRIONFATORE sopra un carro, con le spoglie dei vinti, cir- condato da prigionieri e seguito da lancie. Cornice a pastiglia dorata.",1802,70.4,False,positional,,SCUOLAFIORENTINA,,,
@@ -431,7 +431,7 @@ BO0624_81763,59523,429,416,LA NATIVITA DI NoSTRO SIGNORE. Pittura su tela. Alt. 
 BO0624_81763,59524,430,418,MARTIRIO DI SAN SEBASTIANo. Dipinto Su tavola.,1832,95.7,False,positional,,MANIERADI CARBONE,,,
 BO0624_81763,59525,431,419,GRAPPOLI D'UvA appesi. Cornice dorata.,1833,94.7,False,positional,,MANIERADI CARBONE,,,
 BO0624_81763,59526,432,422,SACRA FAMIGLIA. Cornice dorata.,1839,93.5,False,positional,,MANIERADI CARBONE,,,
-BO0624_81763,59527,433,424,"LA DISCESA DELLo SPIRITo SANTo. La Vergine genuflessa in atto di pregare in mezzo agli Apostoli. Dipinto su tavola firmato: Gerinus Pistoiensis,Fr.1510.",1851,98.7,False,positional,GERINO DA PISTOIA,,,,
+BO0624_81763,59527,433,424,"LA DISCESA DELLo SPIRITo SANTo. La Vergine genuflessa in atto di pregare in mezzo agli Apostoli. Dipinto su tavola firmato: Gerinus Pistoiensis,Fr.1510.",1851,98.7,False,positional,GERINO DA PISTOIA,,,,Sec. XVI
 BO0624_81763,59528,434,426,Re DAvID. Pittura su tavola a fondo dorato.,1863,95.3,False,positional,GERINO DA PISTOIA,,,,
 BO0624_81763,59529,435,427,RITRATTO D1 PAOLINA BoRGHESE seduta in mezzo ad un giar-,1867,96.5,False,positional,GERINO DA PISTOIA,,,,
 BO0624_81763,59530,436,428,"PAIo PICcOLI APPLIQUEs a due bracci, bronzo dorato. Stile",1877,96.5,False,positional,,,LAMPADE,,
@@ -470,17 +470,17 @@ BO0624_81763,59562,468,461,DuE BRAccI da fissare al muro per ceri. PORTAOROLOGIO
 BO0624_81763,59563,469,462,DuE PAcI in bronzo. In una v'é la Deposizione di Gesu nel sepolcro; nell'altra la Madonna in trono con Santi ed Angeli.,2006,67.8,False,positional,,,Mobili,,
 BO0624_81763,59564,470,463,DuE SANTE in bronzo dorato su base di legno nero. IMMAcOLATA CoNCEzIONE in bronzo patinato verde.,2008,65.7,False,positional,,,Mobili,,
 BO0624_81763,59565,471,464,ScAToLA per chale in lacca rossa e nera contenente altra scatola di cartone. Lavoro giapponese.,2009,97.9,False,positional,,,Mobili,,
-BO0624_81763,59566,472,465,"CoFANETTo di noce, con coperchio ornato di una fascia a punte di diamante. Secolo XVI.",2013,97.6,False,positional,,,Mobili,,
+BO0624_81763,59566,472,465,"CoFANETTo di noce, con coperchio ornato di una fascia a punte di diamante. Secolo XVI.",2013,97.6,False,positional,,,Mobili,,Sec. XVI
 BO0624_81763,59567,473,466,ENRICo CoNTE DI GuIsA e pendant. Due busti in terracotta.,2017,96.5,False,positional,,,Mobili,,
 BO0624_81763,59568,474,467,CoFANETTo di noce di forma rettangolare. CAssETTA di noce con necessaire per toilette.,2018,97.7,False,positional,,,OGGETTI VARI,,
 BO0624_81763,59569,475,468,"QuATTRO cORNICETTE con entro figurine, animali ed alberi. Lavoro d'intaglio a traforo in legno dolce.",2023,98.0,False,positional,,,Mobili,,
 BO0624_81763,59570,476,469,BRACCIO PORTALAMPADA con foglie in ferro battuto.,2024,96.0,False,positional,,,OGGETTI VARI,,
 BO0624_81763,59571,477,470,"RITRATTO DI CANOVA. Testa di profilo a bassorilievo, entro cor- nice intagliata e dorata. Epoca Impero.",2028,74.1,False,positional,,,Mobili,,
-BO0624_81763,59572,478,471,"MoRTAlo in bronzo con il nome Giov. Sebastiano Manassero, 1710.",2033,96.8,False,positional,,,Mobili,,
+BO0624_81763,59572,478,471,"MoRTAlo in bronzo con il nome Giov. Sebastiano Manassero, 1710.",2033,96.8,False,positional,,,Mobili,,Sec. XVIII
 BO0624_81763,59573,479,472,PoRTAFIOR1 di rame. Piatto ovale di rame lavorato a sbalzo.,2045,96.6,False,positional,,,Mobili,,
-BO0624_81763,59574,480,473,PA1O DI CANDELLIERI di metallo. Secolo XVI.,2046,95.3,False,positional,,,Mobili,,
-BO0624_81763,59575,481,474,TRE PORTACERI in ferro battuto. Secolo XV.,2047,95.2,False,positional,,,Mobili,,
-BO0624_81763,59576,482,475,MADONNA CON BAMBINo. Bassorilievo in stucco policromato entro cornice circolare. Secolo XV.,2051,78.9,False,positional,,,Mobili,,
+BO0624_81763,59574,480,473,PA1O DI CANDELLIERI di metallo. Secolo XVI.,2046,95.3,False,positional,,,Mobili,,Sec. XVI
+BO0624_81763,59575,481,474,TRE PORTACERI in ferro battuto. Secolo XV.,2047,95.2,False,positional,,,Mobili,,Sec. XV
+BO0624_81763,59576,482,475,MADONNA CON BAMBINo. Bassorilievo in stucco policromato entro cornice circolare. Secolo XV.,2051,78.9,False,positional,,,Mobili,,Sec. XV
 BO0624_81763,59577,483,476,PIccoLo oROLoGIo di metallo con ornati graffiti e numeri del quadrante in argento.,2058,82.8,False,positional,,,Mobili,,
 BO0624_81763,59578,484,477,GRANDE PIATTo circolare con vaso a forma di anfora ad un’ansa.,2063,96.8,False,positional,,,VASI,,
 BO0624_81763,59579,485,478,"GUANTIERA d'argento di forma ovale, con due anse, decorata di ornati nel bordo e di una scena genere Watteau nel fondo. Lavoro francese a sbalzo, firmato con lettera P e punzoni a corona e chiavi decussate.",2068,99.0,False,positional,WATTEAU FRANCOIS,,Mobili,,
@@ -510,7 +510,7 @@ BO0624_81763,59602,508,503,"RITRATTO D1 GENTILUOMO, vestito di robone con risvol
 BO0624_81763,59603,509,504,"TRE TEsTE dipinte ad olio, su carta, entro cornice dorata. AIt. M.0.15X0.11.",2182,97.3,False,positional,,SCUOLA DI SALVATOR ROSA,,,
 BO0624_81763,59604,510,505,RITRATTO DI GENTILDONNA VENEZIANA a tre quarti di figura.,2183,96.6,False,positional,,SCUOLA DI SALVATOR ROSA,,,
 BO0624_81763,59605,511,506,GIUOCATORI DI DAD1. Pittura su tela. Alt. M.1.70 X1.35.,2191,96.2,False,positional,,SCUOLA DI SALVATOR ROSA,,,
-BO0624_81763,59606,512,507,"SANTA CATERINA, SANTA CHIARA SANT'AGOSTINO E SAN FRANCEsco. Pittura su tavola. Secolo XV.",2192,97.7,False,positional,,SCUOLA DI SALVATOR ROSA,,,
+BO0624_81763,59606,512,507,"SANTA CATERINA, SANTA CHIARA SANT'AGOSTINO E SAN FRANCEsco. Pittura su tavola. Secolo XV.",2192,97.7,False,positional,,SCUOLA DI SALVATOR ROSA,,,Sec. XV
 BO0624_81763,59607,513,508,"DAMA SUONANDO LA MANDOLA E GENTILUOMO IL VIOLINO, Seduti in un giardino. Pittura su rame:",2197,97.7,False,positional,,SCUOLA DI SALVATOR ROSA,,,
 BO0624_81763,59608,514,509,"RITRATTo a mezzo busto, rappresentante un magistrato. Cor-",2201,96.5,False,positional,,SCUOLA VENEZIANA,,,
 BO0624_81763,59609,515,510,"TABERNAcOLo con pittura rappresentante la Madonna allattante il Divin Pargolo, con due angeli in adorazione ai lati. Alt. M. o.74 ——Largh. M. o.44.",2209,98.6,False,positional,,SCUOLA DI BOTTICELLI,,,
@@ -548,13 +548,13 @@ BO0624_81763,59640,546,539,MoBILETTo a due sportelli in quercia d'Olanda con orn
 BO0624_81763,59641,547,540,"VETRINA di mogano e legno nero, con due colonne ai lati. Epoca Impero.",2348,97.1,False,positional,,,Mobili,,
 BO0624_81763,59642,548,541,"TAvoLo bolognese in noce, a quattro piedi. Alt.0:SoX1.53X1.05.",2349,96.7,False,positional,,,Mobili,,
 BO0624_81763,59643,549,542,RIcco FORNIMENTo per stanza da letto in mogano con moda- nature ed ornamenti intagliati e dorati composto di:,2353,66.3,False,positional,,,Mobili,,
-BO0624_81763,59644,550,543,"FREGIO D'ALTARE di marmo ad otto scompartimenti, ornati di foglie. Nel centro un santo e due devoti, all'estremita due angeli. Secolo XIII.",2379,98.5,False,positional,,,Marmi,,
+BO0624_81763,59644,550,543,"FREGIO D'ALTARE di marmo ad otto scompartimenti, ornati di foglie. Nel centro un santo e due devoti, all'estremita due angeli. Secolo XIII.",2379,98.5,False,positional,,,Marmi,,Sec. XIII
 BO0624_81763,59645,551,544,TRASPORTO FUNEBRE. Bassorilievo in terracotta. Epoca Impero. Alt.M.0.27X0.76.,2383,97.3,False,positional,,,Marmi,,
 BO0624_81763,59646,552,545,FIGURA ALLEGORICA con leone e biscia. Bassorilievo su pietra. Arte assira.,2384,88.1,False,positional,,,Marmi,,
-BO0624_81763,59647,553,546,SAN G1usEPPE. Statua di marmo. Lavoro del secolo XV.,2389,96.1,False,positional,,,Marmi,,
+BO0624_81763,59647,553,546,SAN G1usEPPE. Statua di marmo. Lavoro del secolo XV.,2389,96.1,False,positional,,,Marmi,,Sec. XV
 BO0624_81763,59648,554,2,"Vedi illustrazione,pag.XxIX.",2390,96.4,False,positional,,,Marmi,,
 BO0624_81763,59649,555,3,Alt.M.0.90.,2391,90.9,False,positional,,,Marmi,,
 BO0624_81763,59650,556,547,BAssoRILIEvo di stucco con figura d’angelo ed un guerriero. Epoca Impero.,2392,87.2,False,positional,,,Marmi,,
 BO0624_81763,59651,557,548,"TABERNAcOLo in pietra d'Istria, con candeliere, fregio, cimasa e mensola ricche di ornati di stile grottesco, a rilievo. Se- colo XVI.",2397,94.8,False,positional,,,Marmi,,
-BO0624_81763,59652,558,549,"CAMINo in pietra serena, con fregio a festoni di fiori e tre stemmi; pilastri scannellati con capitelli e sovrapposta mensola a toglia d'acanto. Secolo XV.",2402,98.7,False,title_direct,CAMPI,,,,
-BO0624_81763,59653,559,550,"GRANDE PORTA in noce a due battenti, con porticina per i pedoni nel centro, decorata di targhe ovali con ornati a rilievo. Stipiti a foglie di alloro, fregio con festoni e stemma mediceo. Pietra serena. Secolo XV.",2406,99.0,False,positional,,,Marmi,,
+BO0624_81763,59652,558,549,"CAMINo in pietra serena, con fregio a festoni di fiori e tre stemmi; pilastri scannellati con capitelli e sovrapposta mensola a toglia d'acanto. Secolo XV.",2402,98.7,False,title_direct,CAMPI,,,,Sec. XV
+BO0624_81763,59653,559,550,"GRANDE PORTA in noce a due battenti, con porticina per i pedoni nel centro, decorata di targhe ovali con ornati a rilievo. Stipiti a foglie di alloro, fregio con festoni e stemma mediceo. Pietra serena. Secolo XV.",2406,99.0,False,positional,,,Marmi,,Sec. XV

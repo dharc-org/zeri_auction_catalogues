@@ -54,8 +54,8 @@ BO0624_88691,304543,52,52,KRONLEUCHTER MIT PRISMENBEHANG. 12flammig.,85,96.4,Fal
 BO0624_88691,304544,53,53,"LEHNSESSEL, im Renaissancestil, mit Gobelinbezug. Eiche.",86,97.2,False,title_direct,,,POLTRONE,,
 BO0624_88691,304545,54,54,"LOUIS-XV.-TABURETT,weiB gefaBt,mit lachsrotem,gestreiftem Seidenbezug. Jhdt.",87,94.4,False,positional,,Periodo di Luigi XV,Mobel; Beleuchtungen,,
 BO0624_88691,304546,55,55,"FRIESISCHES PANEELBRETT,mit Delfter Kacheleinlagen, Eiche. 17. Jhdt. cm lang.",89,92.1,False,positional,,,Mobel; Beleuchtungen,,
-BO0624_88691,304547,56,56,"LOUIS-XVI.-WANDSPIEGEL, als Bekronung eine holzgeschnitzte und vergoldete Vase. Norddeutsch, um 1780. 125 cm hoch.",91,98.6,False,positional,,,VASI,,
-BO0624_88691,304548,57,57,"BAUERNSCHRANK, eintuirig, mit Blumenmalerei und der Jahreszahl 1807. Auf KugelfuiBen.182x125 cm.",92,98.4,False,positional,,,Mobel; Beleuchtungen,,
+BO0624_88691,304547,56,56,"LOUIS-XVI.-WANDSPIEGEL, als Bekronung eine holzgeschnitzte und vergoldete Vase. Norddeutsch, um 1780. 125 cm hoch.",91,98.6,False,positional,,,VASI,,Sec. XVIII
+BO0624_88691,304548,57,57,"BAUERNSCHRANK, eintuirig, mit Blumenmalerei und der Jahreszahl 1807. Auf KugelfuiBen.182x125 cm.",92,98.4,False,positional,,,Mobel; Beleuchtungen,,Sec. XIX
 BO0624_88691,304549,58,58,"BAUERNSCHRANK, zweiturig, mit kartuschenartiger Malerei. Auf KugelfiBen. 152x118cm.",93,98.1,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304550,59,59,"DIPLOMATEN-SCHREIBTISCH,im Empirestil. Mahag.,mit reichen Goldbronzeverzierungen und -beschlagen. Mit Aufsatz. Unterteil elfschubig, Oberteil",94,98.9,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304551,60,60,"PRISMENKRONLEUCHTER,in Korbform,zweiflammig.",96,96.6,False,positional,,,Mobel; Beleuchtungen,,
@@ -81,7 +81,7 @@ BO0624_88691,304570,79,83,"BUREAU-PLAT,im Regencestil, dreischubig.Rosenholz, mi
 BO0624_88691,304571,80,84,"BAROCK-MODELLSCHRANK, Eiche,mit Ebenholzauflagen. Auf KugelfuBen.",123,97.6,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304572,81,85,"DANZIGER BAROCK-KLAPPTISCH,NuBbaum,achteckig. Auf drei gedrehten Beinen, deren eines aufklappbar. Die Zarge mit freiliegender Schnitzerei verziert.",125,99.0,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304573,82,86,"ULMER KLEIDERSCHRANK, zweiturig,ZWeischubig. Die von drei Saulen",126,97.6,False,positional,,,Mobel; Beleuchtungen,,
-BO0624_88691,304574,83,87,"LOUIS-XVI.STANDUHR, Eiche. Das Mittelteil von zwei kannelierten Halbsaulen flankiert, der Aufsatz von einer Galerie gekront. Das Werk signiert: C.Suder, Gelting. Um 1780.",128,99.1,False,positional,,,Mobel; Beleuchtungen,,
+BO0624_88691,304574,83,87,"LOUIS-XVI.STANDUHR, Eiche. Das Mittelteil von zwei kannelierten Halbsaulen flankiert, der Aufsatz von einer Galerie gekront. Das Werk signiert: C.Suder, Gelting. Um 1780.",128,99.1,False,positional,,,Mobel; Beleuchtungen,,Sec. XVIII
 BO0624_88691,304575,84,88,"BAROCKKOMMODE,NuBbaum,vierschubig. Die Vorderwand eingezogen.",129,97.5,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304576,85,89,"SATZ VON VIER CHINA-BEISATZTISCHEN, Schwarzlack mit Goldlackeinlagen.",131,97.8,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304577,86,90,"KRISTALL-KRONLEUCHTER,im Louis-XVIStil,achtarmig,32flammig.",132,97.5,False,positional,,,Mobel; Beleuchtungen,,
@@ -95,15 +95,15 @@ BO0624_88691,304584,93,101,"BUREAU-PLAT, im Regencestil, einschubig. Rosenholz,m
 BO0624_88691,304585,94,102,"FRANZ.KOMMODE,im Regencestil,sechsschibig,mit Marmorplatte.Polisander Abbildung Tafel 4",142,97.8,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304586,95,103,"BUREAU-PLAT,im Regencestil, sechsschibig. Rosenholz mit Bronzebeschlagen.",144,97.2,False,positional,,,PIATTI,,
 BO0624_88691,304587,96,104,"KRISTALL-KRONLEUCHTER,im Barockstil,20flammig,mit reichem Tranen-",146,97.0,False,positional,,,Mobel; Beleuchtungen,,
-BO0624_88691,304588,97,105,"SUDDEUTSCHER KLEIDERSCHRANK, zweiturig, Weichholz. Die beiden reichgeschnitzten Tirfuillungen werden durch drei freistehende gedrehte Saulen flankiert.Augsburg,um 1680.(Mit Erganzungen.)2 225×210cm.",148,99.0,False,positional,,,Mobel; Beleuchtungen,,
+BO0624_88691,304588,97,105,"SUDDEUTSCHER KLEIDERSCHRANK, zweiturig, Weichholz. Die beiden reichgeschnitzten Tirfuillungen werden durch drei freistehende gedrehte Saulen flankiert.Augsburg,um 1680.(Mit Erganzungen.)2 225×210cm.",148,99.0,False,positional,,,Mobel; Beleuchtungen,,Sec. XVII
 BO0624_88691,304589,98,112,"FRANZ. NAHTISCHCHEN, im Louis-XVI.-Stil, dreischubig.",150,96.0,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304590,99,113,"BRONZEKRONLEUCHTER,im Renaissancestil,zehnarmig,20flammig.",152,96.6,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304591,100,114,"BAROCK-LEHNSESSEL, Buche mit Rohrbezug.",153,94.9,False,positional,,,POLTRONE,,
 BO0624_88691,304592,101,115,"BUREAU-PLAT,im Regencestil,Rosenholz, NuBbaum und andere Edelholzer",154,97.1,False,positional,,,PIATTI,,
 BO0624_88691,304593,102,116,"ALABASTERAMPEL,funfarmig,7flammig.",156,94.3,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304594,103,117,"EMPIRE-SCHREIBSEKRETAR, Mahag, mit Rollade, Rollturen und aus-",157,96.7,False,positional,,,Mobel; Beleuchtungen,,
-BO0624_88691,304595,104,118,"LOUIS-XIV.-KOMMODE,vierschubig, mit grauer Marmorplatte. Mit Bronzebeschlagen. Nach vorne gebaucht, NuBbaum mit rechteckigen Intarsien. Franzos., um 1730.128x64cm. Abbildung Tafel 5",159,98.9,False,positional,,,Mobel; Beleuchtungen,,
-BO0624_88691,304596,105,119,"27 BAROCK-SITZGARNITUR,neunteilig,Buche mit point-Bezigen,auf rotem Grund Blumentopfe in Rankenumrahmung darstellend. Sofabank, 210 cm 1., und acht Fauteuils. Norddeutsch, um 1760. Abbildung Tafel 2",160,99.0,False,positional,,,SCOMPARTI,,
+BO0624_88691,304595,104,118,"LOUIS-XIV.-KOMMODE,vierschubig, mit grauer Marmorplatte. Mit Bronzebeschlagen. Nach vorne gebaucht, NuBbaum mit rechteckigen Intarsien. Franzos., um 1730.128x64cm. Abbildung Tafel 5",159,98.9,False,positional,,,Mobel; Beleuchtungen,,Sec. XVIII
+BO0624_88691,304596,105,119,"27 BAROCK-SITZGARNITUR,neunteilig,Buche mit point-Bezigen,auf rotem Grund Blumentopfe in Rankenumrahmung darstellend. Sofabank, 210 cm 1., und acht Fauteuils. Norddeutsch, um 1760. Abbildung Tafel 2",160,99.0,False,positional,,,SCOMPARTI,,Sec. XVIII
 BO0624_88691,304597,106,128,"a BRONZE-KRONLEUCHTER,im Louis-XVI.Stil,achtarmig,neunflammig.",163,97.6,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304598,107,128,"b VIER BAUERNSTUHLE. cd ZWEI SOFABANKE,im Chippendale-Stil,je zweisitzig, mit hellblauem, gestreiftem Seidenbezug. 120 cm br.",167,89.7,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304599,108,129,"SPANISCHE RENAISSANCETRUHE,mit gewolbtem Deckel. Reich mit Eisenbeschlagen in Kassettenmuster verziert. 17. Jhdt. 130 cm br.",168,98.3,False,positional,,,Mobel; Beleuchtungen,,
@@ -129,22 +129,22 @@ BO0624_88691,304618,127,148,"e ACHTECKIGER TISCH,im Florentiner Renaissancestil.
 BO0624_88691,304619,128,149,"HOLZKRONLEUCHTER,sechsarmig,sechsflammig.",201,95.2,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304620,129,150,"51 ZWEI HOLZWANDAPPLIKEN,je dreiflammig.",202,95.1,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304621,130,152,"BAROCK-KLEIDERSCHRANK,zweitirig,mit stark ausladendem,profiliertem Gesims. Die Tirfillungen reich verkropft. Auf KugelfiBen. Esche. Norddeutsch,",203,98.6,False,positional,,,Mobel; Beleuchtungen,,
-BO0624_88691,304622,131,153,"LOUIS-XIV.-FAUTEUIL, NuBholz mit gros point-Bezug, auf maronenfarbigem Grund persisches Blumenmuster in blauen, gelben und grinen Tonen.Rote Stickereimarke. Gestell und Bezug Paris,um 1700. Abbildung Tafel 6",205,99.0,False,positional,,,SCOMPARTI,,
+BO0624_88691,304622,131,153,"LOUIS-XIV.-FAUTEUIL, NuBholz mit gros point-Bezug, auf maronenfarbigem Grund persisches Blumenmuster in blauen, gelben und grinen Tonen.Rote Stickereimarke. Gestell und Bezug Paris,um 1700. Abbildung Tafel 6",205,99.0,False,positional,,,SCOMPARTI,,Sec. XVIII
 BO0624_88691,304623,132,154,"PRUNKSCHRANK,im Renaissancestil.",206,93.9,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304624,133,155,"BAROCK-BROTLADE,eintirig,Buche. Freistehende Barocksaulen ersetzen die",207,97.2,False,positional,,,Mobel; Beleuchtungen,,
-BO0624_88691,304625,134,156,"BAROCK-HAUSALTAR, einturig, grungold gefaBt. Wirzburg, um 1700. 80×100cm.",212,97.1,False,positional,,,Mobel; Beleuchtungen,,
+BO0624_88691,304625,134,156,"BAROCK-HAUSALTAR, einturig, grungold gefaBt. Wirzburg, um 1700. 80×100cm.",212,97.1,False,positional,,,Mobel; Beleuchtungen,,Sec. XVIII
 BO0624_88691,304626,135,157,"BAROCKTISCH,Eiche. In der Deckplatte ein eingelegter Stern. Westdeutsch,",213,97.2,False,positional,,,BASTONI,,
-BO0624_88691,304627,136,158,"BAROCK-KLEIDERSCHRANK,zweiturig, Eiche.Die Turfillungen in vier Facher geteilt. Die Kapitale im Hochrelief geschnitzt. Das zur Mitte zu erhohte Gesims reich verkropft. Auf KugelfuiBen. Norddeutsch,um 1700. 205x140 cm.",215,99.1,False,positional,,,SCOMPARTI,,
-BO0624_88691,304628,137,159,"LOUIS-XVI.-BUREAU-PLAT, einschibig. Obstholz mit Bandintarsien. Auf SpitzfuBen. Siddeutsch, um 1780. 70x170 cm. (Aus einem Tafelklavier ge-",216,98.5,False,positional,,,PIATTI,,
+BO0624_88691,304627,136,158,"BAROCK-KLEIDERSCHRANK,zweiturig, Eiche.Die Turfillungen in vier Facher geteilt. Die Kapitale im Hochrelief geschnitzt. Das zur Mitte zu erhohte Gesims reich verkropft. Auf KugelfuiBen. Norddeutsch,um 1700. 205x140 cm.",215,99.1,False,positional,,,SCOMPARTI,,Sec. XVIII
+BO0624_88691,304628,137,159,"LOUIS-XVI.-BUREAU-PLAT, einschibig. Obstholz mit Bandintarsien. Auf SpitzfuBen. Siddeutsch, um 1780. 70x170 cm. (Aus einem Tafelklavier ge-",216,98.5,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_88691,304629,138,160,"BAROCK-KOMMODE,dreischubig. Eiche mit eingelegten NuBbaumplatten. Die Vorderwand dreimal geschweift. Auf KugelfiBen. Mit zwei eisernen Trag-",218,98.5,False,positional,,,Mobel; Beleuchtungen,,
-BO0624_88691,304630,139,161,"LOUIS-XVI.-DUCHESSE,vierteilig. Eiche, weiBgefaBt, mit gelbem Seidenbezug und vier gelben Seidensitzkissen.Bestehend aus: Zwei Fauteuils und zwei Taburetts, die Umwandlung in Chaiselongue gestatten. Paris, um 1790. Abbildung Tafel 7",220,99.1,False,positional,,,SCOMPARTI,,
+BO0624_88691,304630,139,161,"LOUIS-XVI.-DUCHESSE,vierteilig. Eiche, weiBgefaBt, mit gelbem Seidenbezug und vier gelben Seidensitzkissen.Bestehend aus: Zwei Fauteuils und zwei Taburetts, die Umwandlung in Chaiselongue gestatten. Paris, um 1790. Abbildung Tafel 7",220,99.1,False,positional,,,SCOMPARTI,,Sec. XVIII
 BO0624_88691,304631,140,162,"KREDENZ IM ITAL. RENAISSANCESTIL, Unterteil zweiturig und zweischubig Aufsatz dreischibig, vieretagig. Die von Hermenfiguren eingefaBten Turfullungen aufs reichste geschnitzt, auf den abgeschragten Ecken Ritterfiguren in Hochreliefschnitzerei. Als Bekronung ein Wappenschild. Ital.NuBbaum.265x190 cm.",221,99.3,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304632,141,163,"64 ZWEI STUHLE IM HENRI-II.-STIL,mit petit und gros point-Bezigen auf Sitz und Lehne.Auf ersterem ein auf einem Zweig sitzender Vogel in Rankenumrahmung,auf letzterer eine Flotenspielerin und eine Tanzerin in Rankenumrahmung. Abbildung Tafel 4",222,99.2,False,positional,,,OGGETTI VARI,,
 BO0624_88691,304633,142,165,"LOUIS-XIV.FAUTEUIL, NuBholz,reich geschnitzt. Der Steg reich verkropft. Mit gros und petit point-Stickerei. Auf schwarzem Grund Chinesen und Fabel-",223,98.6,False,positional,,,SCOMPARTI,,
 BO0624_88691,304634,143,166,"RENAISSANCE-ANRICHTE,zweituirig, zweischibig. Front und Seiten reich geschnitzt mit Figuren, Blumen- und Fruchtgirlanden. Ital. NuBbaum. Ober-",225,98.5,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304635,144,167,"GR. BAROCK-SCHREIBTISCH, mit vier gedrehten Saulenbeinen. Auf dem Langssteg ein reich verkropftes Bein. KugelfiBe. Ital. NuBbaum. Florenz, Mitte 17.Jhdt.75×235×80cm.",227,98.7,False,positional,,,OGGETTI VARI,,
-BO0624_88691,304636,145,168,"FRUHRENAISSANCE-HALLENTISCH, auf gekreuzten Beinen. Der Langssteg in achteckiger Bearbeitung. Ital.NuBbaum. Ravenna,um 1580. ×300×80cm.",228,94.8,False,positional,,,Mobel; Beleuchtungen,,
-BO0624_88691,304637,146,169,"LoUIS-XV.-FAUTEUIL, mit gros point-Bezug, auf gelbem Grund Blumen in natirlichen Farben von einer blauen Schleife umrahmt. Buche. Frankreich,um Abbildung Tafel 6 1750.",230,98.8,False,positional,,Periodo di Luigi XV,SCOMPARTI,,
+BO0624_88691,304636,145,168,"FRUHRENAISSANCE-HALLENTISCH, auf gekreuzten Beinen. Der Langssteg in achteckiger Bearbeitung. Ital.NuBbaum. Ravenna,um 1580. ×300×80cm.",228,94.8,False,positional,,,Mobel; Beleuchtungen,,Sec. XVI
+BO0624_88691,304637,146,169,"LoUIS-XV.-FAUTEUIL, mit gros point-Bezug, auf gelbem Grund Blumen in natirlichen Farben von einer blauen Schleife umrahmt. Buche. Frankreich,um Abbildung Tafel 6 1750.",230,98.8,False,positional,,Periodo di Luigi XV,SCOMPARTI,,Sec. XVIII
 BO0624_88691,304638,147,170,"TRUHENBANK, im gotischen Stil, Eiche. Die Wangen von je einem liegenden",231,97.1,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304639,148,171,"PRUNKSCHRANK, im Stil der italienischen Hochrenaissance, dreitirig, NuBbaum. Die Pilaster wie die Turfillung aufs reichste geschnitzt. 210xl12 cm.",233,98.6,False,positional,,,Mobel; Beleuchtungen,,
 BO0624_88691,304640,149,177,"BAROCK-TABERNAKEL,holzgeschnitzt und vergoldet.",249,95.8,False,positional,,,Kunstgewerbe; Plastik,,
@@ -153,20 +153,20 @@ BO0624_88691,304642,151,179,BUCHSBAUM-WALZENKRUG. Auf drei liegenden Lowen ruht 
 BO0624_88691,304643,152,180,"DESGL., Obstholz. Der Deckel und Henkel mit Kerbschnitt verziert. 18 cm h.",254,97.2,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304644,153,181,"WALZENKRUG,Birke. Der Deckel und Henkel mit Kerbschnitt verziert. (Beschad.) 17 cm h.",255,97.5,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304645,154,182,"SUDDEUTSCHER BAUERNWALZENKRUG,Holz.Polychrom bemalt.27 cm h.",256,96.7,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88691,304646,155,182,"a BAROCK-WANDUHR,Eiche. Holland,um 1700. 140 cm h. b-c ZWEI GARDINENHALTER, im gotischen Stil. Holzgeschnitzt und vergoldet.",258,74.3,False,positional,,,Kunstgewerbe; Plastik,,
+BO0624_88691,304646,155,182,"a BAROCK-WANDUHR,Eiche. Holland,um 1700. 140 cm h. b-c ZWEI GARDINENHALTER, im gotischen Stil. Holzgeschnitzt und vergoldet.",258,74.3,False,positional,,,Kunstgewerbe; Plastik,,Sec. XVIII
 BO0624_88691,304647,156,183,"BAROCK-HOLZKIRCHENLEUCHTER,auf DreifuB mit gedrehtem Schaft.",259,96.7,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304648,157,184,"BAROCK-HOLZKOPF eines Evangelisten. In alter Fassung. Weichholz. Siddeutsch, um 1700. 14 cm h.",260,97.8,False,positional,,,Kunstgewerbe; Plastik,,
+BO0624_88691,304648,157,184,"BAROCK-HOLZKOPF eines Evangelisten. In alter Fassung. Weichholz. Siddeutsch, um 1700. 14 cm h.",260,97.8,False,positional,,,Kunstgewerbe; Plastik,,Sec. XVIII
 BO0624_88691,304649,158,185,"KRUZIFIX,Lindenholz. Siddeutsch,17. Jhdt. 45 cm h.",261,95.8,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304650,159,186,"DESGL., NuBholz. Sidwestdeutsch, um 1600. 39 cm h.",262,95.7,False,positional,,,Kunstgewerbe; Plastik,,
+BO0624_88691,304650,159,186,"DESGL., NuBholz. Sidwestdeutsch, um 1600. 39 cm h.",262,95.7,False,positional,,,Kunstgewerbe; Plastik,,Sec. XVII
 BO0624_88691,304651,160,187,HOLZFIGUR der hlg.Magdalena. Lindenholz.U UngefaBt. 28 cm h.,263,96.6,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304652,161,188,"DESGL. des hlg. Johannes. Rotgold gefaBt. Lindenholz. Siddeutsch, Ende Jhdt. 34 cm h.",264,88.3,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304653,162,189,"HOLZBUsTE der Maria mit blaugefaBtem Kopftuch. Lindenholz. Schwabisch, um 1500.52cmh.",266,97.6,False,positional,,Scuola Sveva,Kunstgewerbe; Plastik,,
-BO0624_88691,304654,163,190,"HOLZRELIEF des Gott Vater. Buche. Westdeutsch, um 1400. 46 cm h.",267,96.7,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88691,304655,164,191,"92 ZWEI BAROCK-HOLZFIGUREN, Maria und der gefesselte Christus. Siddeutsch,um 1700. 34 cm h.",268,97.8,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88691,304656,165,193,BAROCK-HOLZBUSTE eines Bischofs mit Mitra. um 1680. 34cm h.,270,96.6,False,positional,,,Kunstgewerbe; Plastik,,
+BO0624_88691,304653,162,189,"HOLZBUsTE der Maria mit blaugefaBtem Kopftuch. Lindenholz. Schwabisch, um 1500.52cmh.",266,97.6,False,positional,,Scuola Sveva,Kunstgewerbe; Plastik,,Sec. XVI
+BO0624_88691,304654,163,190,"HOLZRELIEF des Gott Vater. Buche. Westdeutsch, um 1400. 46 cm h.",267,96.7,False,positional,,,OGGETTI IN LEGNO,,Sec. XV
+BO0624_88691,304655,164,191,"92 ZWEI BAROCK-HOLZFIGUREN, Maria und der gefesselte Christus. Siddeutsch,um 1700. 34 cm h.",268,97.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88691,304656,165,193,BAROCK-HOLZBUSTE eines Bischofs mit Mitra. um 1680. 34cm h.,270,96.6,False,positional,,,Kunstgewerbe; Plastik,,Sec. XVII
 BO0624_88691,304657,166,194,"DESGL., Jesus mit langherabwallendem Haar und Vollbart. Suiddeutsch. Eiche. 21 cm h.",271,97.5,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304658,167,195,"DESGL.,Barock. Dieselbe Darstellung. Linde. 26 cm h.",272,95.9,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304659,168,196,"HOLZFIGUR eines Evangelisten, weiBgold gefaBt. Siddeutsch, um 1700. 100 cm h.",273,97.3,False,positional,,,Kunstgewerbe; Plastik,,
+BO0624_88691,304659,168,196,"HOLZFIGUR eines Evangelisten, weiBgold gefaBt. Siddeutsch, um 1700. 100 cm h.",273,97.3,False,positional,,,Kunstgewerbe; Plastik,,Sec. XVIII
 BO0624_88691,304660,169,197,"BAROCK-HOLZENGEL in anbetender Stellung. Suddeutsch, Anfang 18. Jhdt. 55cmh.",274,97.3,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304661,170,198,"99 ZWEI HOLZFIGUREN,Die heilige Ottilie und die heilige Maria Magdalena. In Nonnenkleidung. Eiche. Siddeutsch, Anfang 16. Jhdt. 54 cm h.",275,98.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88691,304662,171,200,"01 ZWEI ROKOKO-LEUCHTERENGEL,Lindenholz. Siddeutsch,18.Jhdt. (Beschad.) 36 cm h.",279,97.4,False,positional,,,LAMPADE,,
@@ -174,20 +174,20 @@ BO0624_88691,304663,172,202,"03 ZWEI DESGL., in rotgoldener Fassung. Siddeutsch,
 BO0624_88691,304664,173,204,"HOLZSKULPTUR, Pieta. Lindenholz. 52 cm h.",281,94.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88691,304665,174,205,"HOLZRELIEF, Christi Geburt. 35 cm h.",282,94.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88691,304666,175,208,"a HOLZFIGUR, Die heilige Anna selbdritt.Die sitzende Anna tragt auf den Handen den Christusknaben und die Maria als Kind. Das faltenreiche Gewand in alter Goldfassung, der Kopf mit dem schwabischen Kopftuch verhillt. Linde.",287,99.3,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304667,176,209,"HOLZBUsTE der Maria. Lindenholz. Auf Holzsockel. Suddeutsch,um 1600. 70 cm h.",289,97.3,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304668,177,210,"HOLZSKULPTUR, Maria mit der Krone. In alter goldroter Fassung. Burgund, um 1400.78 cm h.(Arme fehlen.)",290,97.9,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88691,304667,176,209,"HOLZBUsTE der Maria. Lindenholz. Auf Holzsockel. Suddeutsch,um 1600. 70 cm h.",289,97.3,False,positional,,,Kunstgewerbe; Plastik,,Sec. XVII
+BO0624_88691,304668,177,210,"HOLZSKULPTUR, Maria mit der Krone. In alter goldroter Fassung. Burgund, um 1400.78 cm h.(Arme fehlen.)",290,97.9,False,positional,,,OGGETTI IN LEGNO,,Sec. XV
 BO0624_88691,304669,178,211,"HOLZRELIEF, Bischof mit Bischofsstab und Mitra, aus der von einer Teufels-",291,97.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88691,304670,179,212,"13 ZWEI BAROCK-HOLZFIGUREN,in Form von liegenden Engeln.",293,96.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88691,304671,180,214,"EINE DESGL., Pilger. 33 cm h.",294,92.6,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304672,181,215,"EINE DESGL., Die geflugelte Viktoria. Auf Holzsockel. Etwa 8O cm h.",295,96.9,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304673,182,216,"LOUIS-XVI.-WANDBAROMETER,holzgeschnitzt und vergoldet.Ovale Form. Als Bekronung ein Adler in Blumenranken sitzend. Ital.,um 1780. 85 cm h.",296,98.5,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304674,183,216,"a-b ZWEI ROKOKO-KIRCHENLEUCHTER,versilbert. Auf dreipassigem FuB. Siddeutsch, um 1750. 28 cm h.",297,98.4,False,positional,,,Kunstgewerbe; Plastik,,
+BO0624_88691,304673,182,216,"LOUIS-XVI.-WANDBAROMETER,holzgeschnitzt und vergoldet.Ovale Form. Als Bekronung ein Adler in Blumenranken sitzend. Ital.,um 1780. 85 cm h.",296,98.5,False,positional,,,Kunstgewerbe; Plastik,,Sec. XVIII
+BO0624_88691,304674,183,216,"a-b ZWEI ROKOKO-KIRCHENLEUCHTER,versilbert. Auf dreipassigem FuB. Siddeutsch, um 1750. 28 cm h.",297,98.4,False,positional,,,Kunstgewerbe; Plastik,,Sec. XVIII
 BO0624_88691,304675,184,218,"19 ZWEI SILB. SAUCIEREN, im Louis-XVI.-Stil. Je zweigriffig, auf ovalen",298,97.1,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304676,185,220,"KLEINE RENAISSANCE-BRONZEKASSETTE,in Sarkophagform.",300,96.2,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304677,186,221,"KAMINVORSETZER, Schmiedeeisen im Rokokostil. Teilweise vergoldet.",301,96.9,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304678,187,223,"SILB. ZUCKER-DECKELDOSE,im Louis-XVI.-Stil, runde Form mit Glaseinsatz.",302,97.1,False,title_direct,,,Glas,,
 BO0624_88691,304679,188,224,"BRONZEFIGUR, Sitzende Venus. Auf rotem Marmorsockel. 17 cm h.",303,96.6,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304680,189,225,"EMPIRE-BRONZEPENDULE,mit abgerundeter Bekronung. Die Vorderwand zeigt im Flachrelief die Figur der Flora. Um 1800. 35 cm h.",304,98.3,False,positional,,,Kunstgewerbe; Plastik,,
+BO0624_88691,304680,189,225,"EMPIRE-BRONZEPENDULE,mit abgerundeter Bekronung. Die Vorderwand zeigt im Flachrelief die Figur der Flora. Um 1800. 35 cm h.",304,98.3,False,positional,,,Kunstgewerbe; Plastik,,Sec. XIX
 BO0624_88691,304681,190,226,"SILBERNE SCHNUPFTABAKSDOSE,rund.Im aufklappbaren Deckel Napoleon mit seiner Familie in Reliefdarstellung.",305,98.1,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304682,191,227,"EMPIRE-HOLZPENDULE. Rundes auf zwei LowenfuBen stehendes Gehause, a SILB. TEESERVICE, sechsteilig, im Louis-XV.-Stil. Bestehend aus: Tablett,",308,67.0,False,positional,,Periodo di Luigi XV,Kunstgewerbe; Plastik,,
 BO0624_88691,304683,192,228,"SILB.EMPIRE-MENAGE,mit ovaler FuBplatte und zwei Glaseinsatzen.(Beschad.)",310,97.2,False,title_direct,,,Glas,,
@@ -211,7 +211,7 @@ BO0624_88691,304700,209,253,"SANDSTEINFIGUR, die heilige Agnes in faltenreichen 
 BO0624_88691,304701,210,254,"BRONZEFIGUR, Schwan. Auf Marmorsockel. 18. Jhdt. 23 cm h.(Eine Arbeit",330,96.9,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304702,211,255,"56 ZWEI BRONZELEUCHTER, in Form eines die Tille tragenden,knienden, mannlichen Aktes. Je eingriffig. 18 cm h.",332,98.1,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304703,212,257,"SILB.FIGUR,Mater dolorosa. Koln. Erste Halfte 16. Jhdt. Auf grinem Sockel. cm h. Abbildung Tafel 11",333,83.1,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304704,213,258,"59 ZWEI ROKOKO-WANDSPIEGEL, holzgeschnitzt und vergoldet,als Bekronung eines jeden ein Putto mit Turban. (Aus dem SchleiBheimer SchloB.) Siddeutsch, um 1750. 65 cm h.",335,98.8,False,positional,,,Kunstgewerbe; Plastik,,
+BO0624_88691,304704,213,258,"59 ZWEI ROKOKO-WANDSPIEGEL, holzgeschnitzt und vergoldet,als Bekronung eines jeden ein Putto mit Turban. (Aus dem SchleiBheimer SchloB.) Siddeutsch, um 1750. 65 cm h.",335,98.8,False,positional,,,Kunstgewerbe; Plastik,,Sec. XVIII
 BO0624_88691,304705,214,260,"LOUIS-XVI.-WANDSPIEGEL, holzgeschnitzt und vergoldet. 60 cm h.",336,96.7,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304706,215,261,"RENAISSANCE-SCHMUCKKASTEN,mit Bismutmalerei und schmiedeeisernen",337,97.0,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304707,216,262,"DESGL., Eiche mit schmiedeeisernen Beschlagen,auf dem Deckel ein Adler und",339,97.3,False,positional,,,Kunstgewerbe; Plastik,,
@@ -222,13 +222,13 @@ BO0624_88691,304711,220,266,"BAROCK-WANDUHR, weiBblechversilbert. Im Zifferblatt
 BO0624_88691,304712,221,26768,"ZWEI GER. KUPFERBILDER, den hlg.Franziskus und den hlg.Anasthasius",347,95.5,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304713,222,269,"KOPIE EINES BISCHOFSSTABES,Masse. Auf rotem Samtsockel montiert. cmh.",349,93.9,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304714,223,270,"REITERPISTOLE,18.Jhdt.",351,91.3,False,positional,,,Kunstgewerbe; Plastik,,
-BO0624_88691,304715,224,271,"72 ZWEI BRONZEMORSER,mit senkrecht zum Korper stehenden,freiliegenden Bandern. D.M. 1212 cm und 11 cm.",352,98.0,False,positional,,,Kunstgewerbe; Plastik,,
+BO0624_88691,304715,224,271,"72 ZWEI BRONZEMORSER,mit senkrecht zum Korper stehenden,freiliegenden Bandern. D.M. 1212 cm und 11 cm.",352,98.0,False,positional,,,Kunstgewerbe; Plastik,,Sec. XIII
 BO0624_88691,304716,225,275,"76 ZWEI ZINNSCHUSSELN, mit geschweiftem Rand. (Verschieden groB.)",354,96.8,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304717,226,277,"SECHS ZINNTELLER, im Spiegel je eine biblische Szene, am Rand hebraische",355,97.2,False,positional,,,PIATTI,,
 BO0624_88691,304718,227,278,"ZWEI DESGL.,im Spiegel eine kreuzformige Blumenverzierung. Auf dem Rand das Monogramm I. P.mit Krone darstellend. D.M.2412 cm.",357,98.4,False,positional,,,SPECCHI,,
 BO0624_88691,304719,228,279,ZINNSCHUsSEL. Der Spiegel zeigt im Flachrelief die Taufe Christi. Der Rand ist mit Rosetten graviert.D.M. 33 cm.,358,98.2,False,positional,,,SPECCHI,,
 BO0624_88691,304720,229,280,ZINNWALZENKRUG. Auf der Wandung in durchbrochener mit Holz unter-,359,96.9,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88691,304721,230,281,"BRONZE-EMPIREPENDULE. Auf viereckiger matter Bronzepredella sitzt die Figur der Musik,in den Handen eine Lyra haltend, auf einem Sternenglobus, der das Werk enthalt. Um 1810. Auf grinem Marmorsockel. 50 cm h.",361,99.0,False,positional,,,Kunstgewerbe; Plastik,,
+BO0624_88691,304721,230,281,"BRONZE-EMPIREPENDULE. Auf viereckiger matter Bronzepredella sitzt die Figur der Musik,in den Handen eine Lyra haltend, auf einem Sternenglobus, der das Werk enthalt. Um 1810. Auf grinem Marmorsockel. 50 cm h.",361,99.0,False,positional,,,Kunstgewerbe; Plastik,,Sec. XIX
 BO0624_88691,304722,231,282,"GER. HOLZRELIEF, zwei Teufelsfiguren in gotischem Rankenwerk. (Art des",362,97.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88691,304723,232,283,"SILB. STATUETTE,Maria mit dem Christuskind. Der runde Sockel mit bunten StraBsteinen besetzt. 19 cm h.",364,98.0,False,positional,,,Kunstgewerbe; Plastik,,
 BO0624_88691,304724,233,285,"SILBERRELIEF,Christus am Kreuz. 9%x6 cm. a ELFENBEINFIGUR der sich entkleidenden Venus. Auf Holzsockel. 20 cm h.",366,76.4,False,positional,,,Kunstgewerbe; Plastik,,
@@ -385,7 +385,7 @@ BO0624_88691,304874,383,556,"EMPIREPOKAL,auf viereckiger Plinte mit eiformigem K
 BO0624_88691,304875,384,558,"SCHLESISCHER GLASDECKELPOKAL,mit balusterformigem Schaft. Auf",759,96.8,False,positional,,,Glas,,
 BO0624_88691,304876,385,559,POTSDAMER TRINKGLAS. Auf der Wandung die friderizianischen Initialen mit Krone.,761,97.5,False,positional,,,Glas,,
 BO0624_88691,304877,386,560,"POTSDAMER DECKELPOKAL. Auf der FuBplatte, dem Korperansatz und im",762,96.9,False,positional,,,Glas,,
-BO0624_88691,304878,387,561,"BIEDERMEIER-DECKELPOKAL,sechseckige Form.Die FuBplatte und der Deckelrand gezackt. Auf dem Korper sechs runde vertiefte Medaillons mit einem Wappen und Sprichen. Bohmen, um 1830. 39 cm h. (Deckel beschad.)",764,99.0,False,positional,,Biedermeier,Glas,,
+BO0624_88691,304878,387,561,"BIEDERMEIER-DECKELPOKAL,sechseckige Form.Die FuBplatte und der Deckelrand gezackt. Auf dem Korper sechs runde vertiefte Medaillons mit einem Wappen und Sprichen. Bohmen, um 1830. 39 cm h. (Deckel beschad.)",764,99.0,False,positional,,Biedermeier,Glas,,Sec. XIX
 BO0624_88691,304879,388,578,"APOTHEKERGEFAsS,Retortenvorlage,mit langem Hals, schnabelformig.",778,96.9,False,positional,HALS DIRK,,VASI DA FARMACIA,,
 BO0624_88691,304880,389,1850,161 cm h.,832,76.2,False,positional,,,Glas,,
 BO0624_88691,304881,390,15,"cm h. Zylinderglas mit Deckel, fein geschliffen, 18 cm h.",845,97.2,False,positional,,,Glas,,
@@ -482,7 +482,7 @@ BO0624_88691,304971,480,751,"MEISSENER PORZELLANFIGUR, Junge sitzende Frau,in de
 BO0624_88691,304972,481,752,"PORZELLANFIGUR, Junge auf Steckenpferd reitend. 17 cm h. (Beschad.)",998,96.8,False,positional,,,Porzellan,,
 BO0624_88691,304973,482,753,"MEISSENER PORZELLANGRUPPE,Liebespaar mit Trauben.Schwertermarke. a KONVOLUT:Sevres-Mokkatasse mit umlaufenden Blumendekor am Rand, der Spiegel der Untertasse holzmaserartig dekoriert und Sevres Milchkanne mit",1000,80.9,False,positional,,Scuola di Meissen,SPECCHI,,
 BO0624_88691,304974,483,754,"SEVRES-SCHOKOLADENTASSE. Auf dem vergoldeten,von weiBen Ranken durchzogenem Fond das Portratmedaillon Corneilles.Eisenrote Marke Manu-",1002,98.5,False,positional,,,Porzellan,,
-BO0624_88691,304975,484,754,"a SEVRES-PORZELLAN-DECKELNAPF, mit kreuzformigem Golddekor auf matt grunem Grund. Mit zwei Lowenkopfen als Griffansatzen. Rote Marke: M. Impl. de Sevres 1811. 15 cm h. b SEVRES-PORZELLAN-MILCHKANNE. Auf der Schulter umlaufende Blumenranke auf Goldgrund. Hellblaugrundig. Goldener Henkel und AusguB. Rote",1004,70.2,False,positional,,,Porzellan,,
+BO0624_88691,304975,484,754,"a SEVRES-PORZELLAN-DECKELNAPF, mit kreuzformigem Golddekor auf matt grunem Grund. Mit zwei Lowenkopfen als Griffansatzen. Rote Marke: M. Impl. de Sevres 1811. 15 cm h. b SEVRES-PORZELLAN-MILCHKANNE. Auf der Schulter umlaufende Blumenranke auf Goldgrund. Hellblaugrundig. Goldener Henkel und AusguB. Rote",1004,70.2,False,positional,,,Porzellan,,Sec. XIX
 BO0624_88691,304976,485,755,TASSE MIT UNTERTASSE.Blumendekor in Eisenrot und Gold. MeiBen. Schwertermarke.(Beschad.),1007,97.6,False,positional,,,OGGETTI IN ORO,,
 BO0624_88691,304977,486,756,"MEISSENER MOKKAKANNCHEN, in Kugelform,mit chinesierendem blaugoldenen Dekor. Als Tuillenansatz ein Masquaron. Schwertermarke. (AusguB",1008,98.5,False,positional,,Scuola di Meissen,Porzellan,,
 BO0624_88691,304978,487,757,"MEISSENER PORZELLANSCHUSSEL, mit Blaudekor. Schwertermarke.",1010,96.6,False,positional,,Scuola di Meissen,Porzellan,,

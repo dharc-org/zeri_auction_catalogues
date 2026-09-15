@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88148,346466,1,1,"Tag: Dienstag, den 21. Oktober 1913 GROSSE KREDENZ",1,79.0,False,none,,,,,
+BO0624_88148,346466,1,1,"Tag: Dienstag, den 21. Oktober 1913 GROSSE KREDENZ",1,79.0,False,none,,,,,Sec. XX
 BO0624_88148,346467,2,2,KLEIDERSCHRANK,15,93.3,False,positional,,,Mobel,,
 BO0624_88148,346468,3,3,KLEIDERSCHRANK,21,93.3,False,positional,,,Mobel,,
 BO0624_88148,346469,4,4,KLEIDERSCHRANK,29,93.3,False,positional,,,Mobel,,
@@ -121,31 +121,31 @@ BO0624_88148,346584,119,120,GLASVITRINE,619,84.6,False,positional,,,Mobel,,
 BO0624_88148,346585,120,121,DESGLEICHEN,625,84.6,False,positional,,,Mobel,,
 BO0624_88148,346586,121,122,ROKOKO-ALTAR,629,85.7,False,positional,,,Mobel,,
 BO0624_88148,346587,122,123,"STANDUHR Jahrhundert.H.210 cm,B.60 cm,T.42 cm.",639,88.1,False,positional,,,Mobel,,
-BO0624_88148,346588,123,124,"EIN GROSSER STANDLEUCHTER Tag: Dienstag, den 21. Oktober 1913",646,71.7,False,positional,,,LAMPADE,,
-BO0624_88148,346589,124,125,UNBEKANNTER DEUTSCHER MEISTER DES XV. JAHRHUNDERTS,652,96.1,False,positional,,,Gemalde; Stiche; Lithographien,,
-BO0624_88148,346590,125,126,"ART DES GERARD VAN HONTHORST.1590-1656. UTRECHT Gefangennahme Christi.Christi,vom Schein einer Laterne beleuchtet,wird von den Haschern ergriffen. Oel.Leinwand. Goldrahmen. H. 90 cm,B. 65 cm.",656,98.9,False,positional,HONTHORST GERARD,,Gemalde; Stiche; Lithographien,,
+BO0624_88148,346588,123,124,"EIN GROSSER STANDLEUCHTER Tag: Dienstag, den 21. Oktober 1913",646,71.7,False,positional,,,LAMPADE,,Sec. XX
+BO0624_88148,346589,124,125,UNBEKANNTER DEUTSCHER MEISTER DES XV. JAHRHUNDERTS,652,96.1,False,positional,,,Gemalde; Stiche; Lithographien,,Sec. XV
+BO0624_88148,346590,125,126,"ART DES GERARD VAN HONTHORST.1590-1656. UTRECHT Gefangennahme Christi.Christi,vom Schein einer Laterne beleuchtet,wird von den Haschern ergriffen. Oel.Leinwand. Goldrahmen. H. 90 cm,B. 65 cm.",656,98.9,False,positional,HONTHORST GERARD,,Gemalde; Stiche; Lithographien,,Sec. XVII
 BO0624_88148,346591,126,18,"Jahrhundert. Oel.Leinwand.In schwarzem Holzrahmen. H. 80 cm,B. 60 cm.",660,97.7,False,positional,,,Gemalde; Stiche; Lithographien,,
-BO0624_88148,346592,127,128,UNBEKANNTER MEISTER DES XVIII. JAHRHUNDERTS,662,95.5,False,positional,,,Gemalde; Stiche; Lithographien,,
-BO0624_88148,346593,128,131,UNBEKANNTER MEISTER UM 1600,671,93.1,False,positional,,Scuola Fiorentina,Gemalde; Stiche; Lithographien,,
-BO0624_88148,346594,129,133,UNBEKANNTER MEISTER UM 1600,677,93.1,False,positional,,Scuola Fiorentina,Gemalde; Stiche; Lithographien,,
-BO0624_88148,346595,130,134,UNBEKANNTER MEISTER UM 1600,680,93.1,False,positional,,Scuola Fiorentina,Gemalde; Stiche; Lithographien,,
-BO0624_88148,346596,131,135,"UNBEKANNTER MEISTER UM 1800 Bildnis eines Mannes in grauem Rock mit bunter Weste. Oel.Leinwand.Eichenholzrahmen.H.63 cm,B.50,5 cm.",687,98.5,False,positional,,,Gemalde; Stiche; Lithographien,,
-BO0624_88148,346597,132,138,UNBEKANNTER MEISTER DES XVIII. JAHRHUNDERTS,692,95.5,False,positional,,,Gemalde; Stiche; Lithographien,,
-BO0624_88148,346598,133,139,UNBEKANNTER MEISTER DES XVII. JAHRHUNDERTS,696,95.3,False,positional,,,Gemalde; Stiche; Lithographien,,
-BO0624_88148,346599,134,141,UNBEKANNTER MEISTER DES XVII. JAHRHUNDERTS,701,95.3,False,positional,,,Gemalde; Stiche; Lithographien,,
-BO0624_88148,346600,135,143,L.SCHNEIDER. 1754,707,88.9,False,title_direct,L.SCHNEIDER,,,,
-BO0624_88148,346601,136,146,UNBEKANNTER MEISTER DES XIX. JAHRHUNDERTS,714,95.2,False,positional,L.SCHNEIDER,,,,
-BO0624_88148,346602,137,165,"LORENZO DI CREDI,FLORENZ 1459-1537",745,94.4,False,title_direct,LORENZO DI CREDI,,,,
-BO0624_88148,346603,138,172,"GEORG KARL URLAUB,1749-1809",758,93.1,False,title_direct,GEORG KARL URLAUB,,,,
-BO0624_88148,346604,139,173,ITALIENISCHER MEISTER DES XVII. JAHRHUNDERTS,762,95.6,False,positional,GEORG KARL URLAUB,,,,
-BO0624_88148,346605,140,175,ANNIBALE CARRACCI. BOLOGNA. 1560-1609.ROM,771,95.1,False,title_direct,ANNIBALE CARRACCI,Scuola Bolognese,,,
-BO0624_88148,346606,141,176,UNBEKANNTER MEISTER UM 1740,775,93.1,False,positional,ANNIBALE CARRACCI,,,,
+BO0624_88148,346592,127,128,UNBEKANNTER MEISTER DES XVIII. JAHRHUNDERTS,662,95.5,False,positional,,,Gemalde; Stiche; Lithographien,,Sec. XVIII
+BO0624_88148,346593,128,131,UNBEKANNTER MEISTER UM 1600,671,93.1,False,positional,,Scuola Fiorentina,Gemalde; Stiche; Lithographien,,Sec. XVII
+BO0624_88148,346594,129,133,UNBEKANNTER MEISTER UM 1600,677,93.1,False,positional,,Scuola Fiorentina,Gemalde; Stiche; Lithographien,,Sec. XVII
+BO0624_88148,346595,130,134,UNBEKANNTER MEISTER UM 1600,680,93.1,False,positional,,Scuola Fiorentina,Gemalde; Stiche; Lithographien,,Sec. XVII
+BO0624_88148,346596,131,135,"UNBEKANNTER MEISTER UM 1800 Bildnis eines Mannes in grauem Rock mit bunter Weste. Oel.Leinwand.Eichenholzrahmen.H.63 cm,B.50,5 cm.",687,98.5,False,positional,,,Gemalde; Stiche; Lithographien,,Sec. XIX
+BO0624_88148,346597,132,138,UNBEKANNTER MEISTER DES XVIII. JAHRHUNDERTS,692,95.5,False,positional,,,Gemalde; Stiche; Lithographien,,Sec. XVIII
+BO0624_88148,346598,133,139,UNBEKANNTER MEISTER DES XVII. JAHRHUNDERTS,696,95.3,False,positional,,,Gemalde; Stiche; Lithographien,,Sec. XVII
+BO0624_88148,346599,134,141,UNBEKANNTER MEISTER DES XVII. JAHRHUNDERTS,701,95.3,False,positional,,,Gemalde; Stiche; Lithographien,,Sec. XVII
+BO0624_88148,346600,135,143,L.SCHNEIDER. 1754,707,88.9,False,title_direct,L.SCHNEIDER,,,,Sec. XVIII
+BO0624_88148,346601,136,146,UNBEKANNTER MEISTER DES XIX. JAHRHUNDERTS,714,95.2,False,positional,L.SCHNEIDER,,,,Sec. XIX
+BO0624_88148,346602,137,165,"LORENZO DI CREDI,FLORENZ 1459-1537",745,94.4,False,title_direct,LORENZO DI CREDI,,,,Sec. XV
+BO0624_88148,346603,138,172,"GEORG KARL URLAUB,1749-1809",758,93.1,False,title_direct,GEORG KARL URLAUB,,,,Sec. XVIII
+BO0624_88148,346604,139,173,ITALIENISCHER MEISTER DES XVII. JAHRHUNDERTS,762,95.6,False,positional,GEORG KARL URLAUB,,,,Sec. XVII
+BO0624_88148,346605,140,175,ANNIBALE CARRACCI. BOLOGNA. 1560-1609.ROM,771,95.1,False,title_direct,ANNIBALE CARRACCI,Scuola Bolognese,,,Sec. XVI
+BO0624_88148,346606,141,176,UNBEKANNTER MEISTER UM 1740,775,93.1,False,positional,ANNIBALE CARRACCI,,,,Sec. XVIII
 BO0624_88148,346607,142,1743,"Oel. Leinwand. Schwarzer Holzrahmen. H. 98 cm,B.69 cm.",779,95.1,False,positional,ANNIBALE CARRACCI,,,,
-BO0624_88148,346608,143,178,UNBEKANNTER MEISTER UM 1775,783,93.1,False,positional,ANNIBALE CARRACCI,,,,
+BO0624_88148,346608,143,178,UNBEKANNTER MEISTER UM 1775,783,93.1,False,positional,ANNIBALE CARRACCI,,,,Sec. XVIII
 BO0624_88148,346609,144,188,MARIA MIT KIND,802,87.5,False,positional,ANNIBALE CARRACCI,,,,
 BO0624_88148,346610,145,189,"DER HEILIGE FRANZISCUS Jahrhundert. Stickerei.In schwarzem Rahmen. H.37 cm,B.27,5 cm.",810,83.3,False,positional,ANNIBALE CARRACCI,,CORNICI,,
-BO0624_88148,346611,146,190,UNBEKANNTER MALER DES XVIII. JAHRHUNDERTS,812,95.2,False,positional,ANNIBALE CARRACCI,,,,
-BO0624_88148,346612,147,191,UNBEKANNTER MEISTER DES XIX. JAHRHUNDERTS,818,95.2,False,positional,ANNIBALE CARRACCI,,,,
+BO0624_88148,346611,146,190,UNBEKANNTER MALER DES XVIII. JAHRHUNDERTS,812,95.2,False,positional,ANNIBALE CARRACCI,,,,Sec. XVIII
+BO0624_88148,346612,147,191,UNBEKANNTER MEISTER DES XIX. JAHRHUNDERTS,818,95.2,False,positional,ANNIBALE CARRACCI,,,,Sec. XIX
 BO0624_88148,346613,148,192,BILDNIS,822,77.8,False,positional,ANNIBALE CARRACCI,,MINIARTURE,,
 BO0624_88148,346614,149,193,JUNGE FRAU,826,83.3,False,positional,ANNIBALE CARRACCI,,,,
 BO0624_88148,346615,150,194,"BILDNIS Jahrhundert. Oel. Holz. In Goldrahmen.H.23,7 cm, B.18,3 cm.",834,92.4,False,positional,ANNIBALE CARRACCI,,OGGETTI IN LEGNO,,
@@ -175,7 +175,7 @@ BO0624_88148,346638,173,2171,DESGLEICHEN,928,81.5,False,positional,J.PETTENEGG,,
 BO0624_88148,346639,174,218,DESGLEICHEN,930,84.6,False,positional,J.PETTENEGG,,,,
 BO0624_88148,346640,175,219,GESCHNITZTER EICHENRAHMEN,932,92.6,False,positional,J.PETTENEGG,,,,
 BO0624_88148,346641,176,221,CHRIST. WILLIBALDUS HARSDORFER,940,93.5,False,title_direct,CHRIST. WILLIBALDUS HARSDORFER,,,,
-BO0624_88148,346642,177,1674,"1758.Beschnitten.H.35 cm,B.23,5 cm.",942,93.2,False,positional,CHRIST. WILLIBALDUS HARSDORFER,,,,
+BO0624_88148,346642,177,1674,"1758.Beschnitten.H.35 cm,B.23,5 cm.",942,93.2,False,positional,CHRIST. WILLIBALDUS HARSDORFER,,,,Sec. XVIII
 BO0624_88148,346643,178,224,HENRI PHILIPPE CHAUVELIN,948,92.3,False,title_direct,HENRI PHILIPPE CHAUVELIN,,,,
 BO0624_88148,346644,179,225,KAMPFSZENE MIT BILDNIS INNOCENZ XI.,952,94.4,False,positional,HENRI PHILIPPE CHAUVELIN,,,,
 BO0624_88148,346645,180,227,JAN DE JULIENNE,958,88.2,False,title_direct,JAN DE JULIENNE,,,,
@@ -201,7 +201,7 @@ BO0624_88148,346664,199,256,DENKMAL MAXIMILIANS II.,1062,91.7,False,positional,G
 BO0624_88148,346665,200,257,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,1065,94.6,False,title_direct,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
 BO0624_88148,346666,201,258,PIUS VII. UNTER DEM BALDACHIN GETRAGEN,1069,94.9,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
 BO0624_88148,346667,202,259,CONVOLUT,1073,80.0,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
-BO0624_88148,346668,203,260,"CONVOLUT Blatt. Romisches Volk. 1613. Francesco Villeamena. H.23,5 cm,B.37 cm.Breiter Rand.",1079,94.5,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
+BO0624_88148,346668,203,260,"CONVOLUT Blatt. Romisches Volk. 1613. Francesco Villeamena. H.23,5 cm,B.37 cm.Breiter Rand.",1079,94.5,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,Sec. XVII
 BO0624_88148,346669,204,261,DER HEILIGE SEBASTIAN,1081,91.3,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
 BO0624_88148,346670,205,262,ADAM UND EVA,1085,85.7,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
 BO0624_88148,346671,206,263,DREI STICHE UND LITHOS OSTERREICHISCHER ERZHERZOGE,1089,96.2,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,STAMPE E INCISIONI,,
@@ -222,7 +222,7 @@ BO0624_88148,346685,220,279,VIERUNDZWANZIG KUPFERSTICHE,1149,93.1,False,position
 BO0624_88148,346686,221,280,ZWOLF VERSCHIEDENE VIGNETTEN,1153,93.3,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
 BO0624_88148,346687,222,281,ROMA,1157,66.7,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
 BO0624_88148,346688,223,282,DI BOLOGNA L'ARTI PERVIA D'ANNIBAL CARRACCI,1163,95.6,False,title_direct,ANNIBALE CARRACCI,Scuola Bolognese,,,
-BO0624_88148,346689,224,284,FUNFZIG KUPFERSTICHE von Heiligen und ihren Taten. Von C.P. S.C. M. 18.Jahrhundert. Auf Karton aufgezogen.10x14 cm.,1173,98.2,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,OGGETTI IN RAME,,
+BO0624_88148,346689,224,284,FUNFZIG KUPFERSTICHE von Heiligen und ihren Taten. Von C.P. S.C. M. 18.Jahrhundert. Auf Karton aufgezogen.10x14 cm.,1173,98.2,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88148,346690,225,285,ZEHN KUPFERSTICHE,1175,89.5,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,OGGETTI IN RAME,,
 BO0624_88148,346691,226,287,KUPFERSTICH,1180,84.6,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,OGGETTI IN RAME,,
 BO0624_88148,346692,227,288,KUPFERSTICH,1183,84.6,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,OGGETTI IN RAME,,
@@ -245,7 +245,7 @@ BO0624_88148,346708,243,308,ZEHN GOLDGEPRESSTE VORSATZPAPIERE,1259,94.3,False,po
 BO0624_88148,346709,244,313,ZWEI HANDZEICHNUNGEN,1268,90.9,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
 BO0624_88148,346710,245,323,ZWEI SEPIAZEICHNUNGEN,1284,91.3,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
 BO0624_88148,346711,246,334,HUNDERTZWEIUNDZWANZIG BLATT,1301,93.1,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,,,
-BO0624_88148,346712,247,346,"KUPFERSTICH Tag: Mittwoch, den 22. Oktober 1913 a)vormittags Io Uhr.",1322,89.8,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,OGGETTI IN RAME,,
+BO0624_88148,346712,247,346,"KUPFERSTICH Tag: Mittwoch, den 22. Oktober 1913 a)vormittags Io Uhr.",1322,89.8,False,positional,ANTONIO VITTORE ARCHIDUCA D'AUSTRIA,,OGGETTI IN RAME,,Sec. XX
 BO0624_88148,346713,248,347,MINIATUR,1324,88.9,False,positional,,,Miniaturen,,
 BO0624_88148,346714,249,348,MINIATUR,1326,80.0,False,positional,,,Miniaturen,,
 BO0624_88148,346715,250,349,MINIATUR Jahrhundert. Oel auf Kupfer in Kupferrahmchen.,1338,90.0,False,positional,,,Miniaturen,,
@@ -312,18 +312,18 @@ BO0624_88148,346775,310,410,MINIATUR,1584,80.0,False,positional,,,Miniaturen,,
 BO0624_88148,346776,311,411,MINIATUR,1590,80.0,False,positional,,,Miniaturen,,
 BO0624_88148,346777,312,412,MINIATUR,1594,80.0,False,positional,,,Miniaturen,,
 BO0624_88148,346778,313,413,MINIATUR,1603,80.0,False,positional,,,Miniaturen,,
-BO0624_88148,346779,314,414,"MINIATUR einer Dame in blauem Kleide. Um 1860. M. C. sign.In schwarzem Holzrahmen. 5,5 cm Dm.                                                   |                         |",1607,97.8,False,positional,,,Miniaturen,,
-BO0624_88148,346780,315,415,"MINIATUR einer Dame in schwarzem Kleide. Um 1830. In schwarzem Rahmen. 7,6×5,7 cm.                                                              |                         |",1608,97.5,False,positional,,,Miniaturen,,
+BO0624_88148,346779,314,414,"MINIATUR einer Dame in blauem Kleide. Um 1860. M. C. sign.In schwarzem Holzrahmen. 5,5 cm Dm.                                                   |                         |",1607,97.8,False,positional,,,Miniaturen,,Sec. XIX
+BO0624_88148,346780,315,415,"MINIATUR einer Dame in schwarzem Kleide. Um 1830. In schwarzem Rahmen. 7,6×5,7 cm.                                                              |                         |",1608,97.5,False,positional,,,Miniaturen,,Sec. XIX
 BO0624_88148,346781,316,416,"MINIATUR einer Dame mit lockigem Haar. 17.Jahrhundert. Bronzerandchen,4,1X3,2 cm.                                                               | Abbildung Tafel XV      |",1609,98.0,False,positional,,,Miniaturen,,
-BO0624_88148,346782,317,417,"MINIATUR einer Dame mit schwarzem Spitzenschleier und tiefdekolletiertem Kleide. 18. Jahrhundert. Zwischen Glasern und Bronzerandchen.4X3,4 cm. | Abbildung Tafel XV      |",1610,98.8,False,positional,,,Miniaturen,,
+BO0624_88148,346782,317,417,"MINIATUR einer Dame mit schwarzem Spitzenschleier und tiefdekolletiertem Kleide. 18. Jahrhundert. Zwischen Glasern und Bronzerandchen.4X3,4 cm. | Abbildung Tafel XV      |",1610,98.8,False,positional,,,Miniaturen,,Sec. XVIII
 BO0624_88148,346783,318,418,MINIATUR einer Dame mit Spitzenhaube. 17.Jahrhundert. In Goldbronze gefaBt. 8x6 cm.                                                             | Abbildung Tafel XV      |,1611,98.0,False,positional,,,Miniaturen,,
 BO0624_88148,346784,319,419,"MINIATUR einer Dame in dekolletiertem Kleide. 18.Jahrhundert. Oel auf Kupfer. ln Goldbronzefassung. 6,2X4,7 cm.                                 | Abbildung Tafel XV      |",1612,98.4,False,positional,,,Miniaturen,,
-BO0624_88148,346785,320,420,"MINIATUR eines Geistlichen. 1609. Aet.56. Oel auf Kupfer. In Goldbronzefassung. 7,8x6 cm.                                                       |                         |",1613,97.6,False,positional,,,Miniaturen,,
-BO0624_88148,346786,321,421,"MINIATUR eines Juinglings mit Allongepericke. 18. Jahrhundert.Oel auf Kupfer. Goldbronzefassung. 7,3x5,8 cm.                                    | Abbildung Tafel XIV     |",1614,98.4,False,positional,,,Miniaturen,,
-BO0624_88148,346787,322,422,"MINIATUR eines jungen Mannes in grinem Rock mit rotem Mantel. 18. Jahrhundert. Oel auf Kupfer. Goldbronzefassung. 8,5X7 cm.                     |                         |",1615,98.3,False,positional,,,Miniaturen,,
-BO0624_88148,346788,323,423,"MINIATUR eines Herrn mit groBer Pericke. 18. Jahrhundert. Oel auf Kupfer. In Bronzefassung. 4,1x3,4 cm.                                         |                         |",1616,98.0,False,positional,,,Miniaturen,,
+BO0624_88148,346785,320,420,"MINIATUR eines Geistlichen. 1609. Aet.56. Oel auf Kupfer. In Goldbronzefassung. 7,8x6 cm.                                                       |                         |",1613,97.6,False,positional,,,Miniaturen,,Sec. XVII
+BO0624_88148,346786,321,421,"MINIATUR eines Juinglings mit Allongepericke. 18. Jahrhundert.Oel auf Kupfer. Goldbronzefassung. 7,3x5,8 cm.                                    | Abbildung Tafel XIV     |",1614,98.4,False,positional,,,Miniaturen,,Sec. XVIII
+BO0624_88148,346787,322,422,"MINIATUR eines jungen Mannes in grinem Rock mit rotem Mantel. 18. Jahrhundert. Oel auf Kupfer. Goldbronzefassung. 8,5X7 cm.                     |                         |",1615,98.3,False,positional,,,Miniaturen,,Sec. XVIII
+BO0624_88148,346788,323,423,"MINIATUR eines Herrn mit groBer Pericke. 18. Jahrhundert. Oel auf Kupfer. In Bronzefassung. 4,1x3,4 cm.                                         |                         |",1616,98.0,False,positional,,,Miniaturen,,Sec. XVIII
 BO0624_88148,346789,324,424,"MINIATUR eines jungen Mannes in Allongepericke und gelbem Rock. 18.Jahrhundert. Oel auf Kupfer.Goldbronzefassung. 9X7,1 cm.                     | Abbildung Tafel XIV     |",1617,98.6,False,positional,,,Miniaturen,,
-BO0624_88148,346790,325,425,"MINIATUR eines Herrn in rotem Rock. 18. Jahrhundert. Oel auf Kupfer. Rahmen aus Goldbronze. 6,2X4,8 cm.                                         | Abbildung Tafel XIV     |",1618,98.3,False,positional,,,Miniaturen,,
+BO0624_88148,346790,325,425,"MINIATUR eines Herrn in rotem Rock. 18. Jahrhundert. Oel auf Kupfer. Rahmen aus Goldbronze. 6,2X4,8 cm.                                         | Abbildung Tafel XIV     |",1618,98.3,False,positional,,,Miniaturen,,Sec. XVIII
 BO0624_88148,346791,326,426,"MINIATUR eines Offiziers in Rustung. 17.Jahrhundert. Oel auf Kupfer. Vergoldeter Bronzerahmen. 5,9X4,8 cm.                                      | Abbildung Tafel XIV     |",1619,98.4,False,positional,,,Miniaturen,,
 BO0624_88148,346792,327,427,MINIATUR,1620,80.0,False,positional,,,Miniaturen,,
 BO0624_88148,346793,328,428,"MINIATUR Jahrhundert. Oel auf Kupfer.Bronzefassung. 4,2x3,2 cm. MINIATUR Jahrhundert.Bronzefassung. 5,2&gt;4,5 cm.",1632,63.8,False,positional,,,Miniaturen,,
@@ -531,7 +531,7 @@ BO0624_88148,346994,529,669,HOSTIENBEHALTER,2580,88.2,False,positional,,,"Arbeit
 BO0624_88148,346995,530,670,HOSTIENBEHALTER,2586,88.2,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
 BO0624_88148,346996,531,671,ZWEI WEIHWASSERKESSEL,2590,91.3,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
 BO0624_88148,346997,532,672,WEIHRAUCHKESSEL,2596,88.2,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
-BO0624_88148,346998,533,673,"WEIHWASSERKESSEL Tag: Donnerstag, den 23. Oktober 1913",2607,80.5,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
+BO0624_88148,346998,533,673,"WEIHWASSERKESSEL Tag: Donnerstag, den 23. Oktober 1913",2607,80.5,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,Sec. XX
 BO0624_88148,346999,534,674,DECKELKELCH,2611,84.6,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
 BO0624_88148,347000,535,675,KLEINERDECKELKELCH,2615,90.0,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
 BO0624_88148,347001,536,676,DECKELKELCH,2619,84.6,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
@@ -676,7 +676,7 @@ BO0624_88148,347139,674,825,EINE SILBERSCHUSSEL ×25cm.,3256,80.9,False,position
 BO0624_88148,347140,675,826,MESSKANNCHEN,3260,85.7,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
 BO0624_88148,347141,676,827,MESSTABLETT,3263,84.6,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
 BO0624_88148,347142,677,828,MESSTABLETT,3267,84.6,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
-BO0624_88148,347143,678,3,"Tag: Donnerstag, den 23.Oktober 1913",3273,97.1,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
+BO0624_88148,347143,678,3,"Tag: Donnerstag, den 23.Oktober 1913",3273,97.1,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,Sec. XX
 BO0624_88148,347144,679,839,ZWEI MESSINGTELLER,3290,90.0,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
 BO0624_88148,347145,680,840,MESSINGBUCHSE,3294,86.7,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
 BO0624_88148,347146,681,841,ZWEI VIERARMIGE MESSINGLEUCHTER,3298,93.9,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
@@ -761,7 +761,7 @@ BO0624_88148,347224,759,928,ZWEI BRONZELEUCHTER,3650,90.5,False,positional,,,"Ar
 BO0624_88148,347225,760,929,WEIHRAUCHGEFASS,3654,88.2,False,positional,,,"Arbeiten in Gold, Silber und anderen Metallen",,
 BO0624_88148,347226,761,930,SCHALE,3658,75.0,False,positional,,,OGGETTI VARI,,
 BO0624_88148,347227,762,931,KASTCHEN,3662,80.0,False,positional,,,SCATOLE,,
-BO0624_88148,347228,763,932,"ANTOINE LOUIS BARYE 1875. Paris. Gruppe eines Hundes,der einen Schwan verbellt. Eisenbronze, lackiert. H.etwa 14 cm.",3668,88.8,False,title_direct,ANTOINE LOUIS BARYE,,OGGETTI VARI,,
+BO0624_88148,347228,763,932,"ANTOINE LOUIS BARYE 1875. Paris. Gruppe eines Hundes,der einen Schwan verbellt. Eisenbronze, lackiert. H.etwa 14 cm.",3668,88.8,False,title_direct,ANTOINE LOUIS BARYE,,OGGETTI VARI,,Sec. XIX
 BO0624_88148,347229,764,933,WASSERSPEIER,3670,85.7,False,positional,ANTOINE LOUIS BARYE,,,,
 BO0624_88148,347230,765,934,KLEINER EISERNER KASTEN,3674,92.0,False,positional,ANTOINE LOUIS BARYE,,,,
 BO0624_88148,347231,766,935,BRONZEKESSEL,3678,85.7,False,positional,ANTOINE LOUIS BARYE,,,,
@@ -772,7 +772,7 @@ BO0624_88148,347235,770,939,SCHMIEDEEISERNER WANDARM,3695,92.3,False,positional,
 BO0624_88148,347236,771,940,ZWEI EISERNE LANZEN,3701,90.5,False,positional,ANTOINE LOUIS BARYE,,,,
 BO0624_88148,347237,772,941,EISENSCHLOSS,3705,85.7,False,positional,ANTOINE LOUIS BARYE,,,,
 BO0624_88148,347238,773,942,OELLAMPCHEN,3709,84.6,False,positional,ANTOINE LOUIS BARYE,,,,
-BO0624_88148,347239,774,943,"SCHLUSSEL Tag:Freitag, den 24. Oktober 1913 a) vormittags 1o Uhr.",3716,91.2,False,positional,ANTOINE LOUIS BARYE,,SCATOLE,,
+BO0624_88148,347239,774,943,"SCHLUSSEL Tag:Freitag, den 24. Oktober 1913 a) vormittags 1o Uhr.",3716,91.2,False,positional,ANTOINE LOUIS BARYE,,SCATOLE,,Sec. XX
 BO0624_88148,347240,775,944,KLEINE HOLZFIGUR,3720,88.9,False,positional,,,"Arbeiten in Stein, Holz, Wachs",,
 BO0624_88148,347241,776,945,MARIA UND KIND Jahrhundert.Auf gotisierendem Holzsockel.H. 68 cm.,3728,86.0,False,positional,,,"Arbeiten in Stein, Holz, Wachs",,
 BO0624_88148,347242,777,946,MARIA MIT DEM KINDE,3730,90.5,False,positional,,,"Arbeiten in Stein, Holz, Wachs",,
@@ -944,7 +944,7 @@ BO0624_88148,347407,942,1124,BEKRONUNG,4480,78.3,False,positional,,,"Arbeiten in
 BO0624_88148,347408,943,1125,BEKRONUNG,4484,78.3,False,positional,,,"Arbeiten in Stein, Holz, Wachs",,
 BO0624_88148,347409,944,1125,a BEKRONUNG,4488,84.6,False,positional,,,"Arbeiten in Stein, Holz, Wachs",,
 BO0624_88148,347410,945,2,Stick.,4490,83.3,False,positional,,,"Arbeiten in Stein, Holz, Wachs",,
-BO0624_88148,347411,946,4,"Tag:Freitag, den 24. Oktober 1913 b) nachmittags 4 Uhr.",4492,98.1,False,positional,,,"Arbeiten in Stein, Holz, Wachs",,
+BO0624_88148,347411,946,4,"Tag:Freitag, den 24. Oktober 1913 b) nachmittags 4 Uhr.",4492,98.1,False,positional,,,"Arbeiten in Stein, Holz, Wachs",,Sec. XX
 BO0624_88148,347412,947,1126,ZUCKERSTREUER,4496,83.9,False,positional,,,Kristall,,
 BO0624_88148,347413,948,1127,KRISTALLFLASCHE,4500,85.7,False,positional,,,Kristall,,
 BO0624_88148,347414,949,1128,KRISTALLFLASCHE,4506,85.7,False,positional,,,Kristall,,
@@ -1022,7 +1022,7 @@ BO0624_88148,347485,1020,1197,ZWEI CHINATELLER,4793,86.5,False,positional,,,Porz
 BO0624_88148,347486,1021,1198,ELF CHINESISCHE PORZELLANTELLER,4797,92.5,False,positional,,,Porzellan,,
 BO0624_88148,347487,1022,1199,DESGLEICHEN Stick.,4801,66.7,False,positional,,,Porzellan,,
 BO0624_88148,347488,1023,1200,"KLEINE PORZELLANSCHALE ,2×7cm.",4805,80.0,False,positional,,,Porzellan,,
-BO0624_88148,347489,1024,1201,"ZWEI KLEINE FLACHE JAPANISCHE TONSCHALEN Tag:Sonnabend, den 25. Oktober 1913 a) vormittags Io Uhr.",4816,72.5,False,positional,,,Porzellan,,
+BO0624_88148,347489,1024,1201,"ZWEI KLEINE FLACHE JAPANISCHE TONSCHALEN Tag:Sonnabend, den 25. Oktober 1913 a) vormittags Io Uhr.",4816,72.5,False,positional,,,Porzellan,,Sec. XX
 BO0624_88148,347490,1025,1202,VORHANGTEILE,4820,82.8,False,positional,,,Stoffe,,
 BO0624_88148,347491,1026,1203,VORHANGSTUCK,4824,82.8,False,positional,,,Stoffe,,
 BO0624_88148,347492,1027,1204,SECHS PORTIEREN,4828,85.7,False,positional,,,Stoffe,,

@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88653,732394,1,1,## A.Achenbach,3,100.0,False,title_direct,A.Achenbach,,,,
-BO0624_88653,732395,2,2,"Bohmische Musikanten.Ein humoristisches Quartett, bestehend aus Babgeige,Klari nette,Violine und Waldhorn. Aquarellierte Tuschzeichnung auf P. 25X21 cm.Bez.: Achenbach 1836 Munchen. a Sitender Mann mit Zylinderhut und langer Pfeife; offenbar Bildnis eines Kollegen",8,80.6,False,positional,A.Achenbach,,,,
+BO0624_88653,732395,2,2,"Bohmische Musikanten.Ein humoristisches Quartett, bestehend aus Babgeige,Klari nette,Violine und Waldhorn. Aquarellierte Tuschzeichnung auf P. 25X21 cm.Bez.: Achenbach 1836 Munchen. a Sitender Mann mit Zylinderhut und langer Pfeife; offenbar Bildnis eines Kollegen",8,80.6,False,positional,A.Achenbach,,,,Sec. XIX
 BO0624_88653,732396,3,3,- Trinkendes Katchen.,18,100.0,False,positional,Julius Adam,,,,
 BO0624_88653,732397,4,4,- Klarinettist und Violinspieler. 2 Bll.,24,100.0,False,positional,Julius Adam,,,,
 BO0624_88653,732398,5,5,Skizzenblatt mit funf Katchen.,28,96.7,False,positional,Julius Adam,,,,
@@ -29,22 +29,22 @@ BO0624_88653,732420,27,28,Herbstlandschaft mit Tannenwald an einem Hang; am Rand
 BO0624_88653,732421,28,31,Fischende Knaben am Ufer eines Flusses; im Hintergrunde Laubwald. Oel auf L. 76X101 cm. Bez.: G.Capone jr. G.R.,185,98.6,False,positional,G. Capone jun.,,,,
 BO0624_88653,732422,29,32,"- Spanierin mit buntem Ueberwurf, Korallenkette um den Hals, im dunklen Haar eine Rose. Oel auf L. 61X41 cm. Bez.: G. Capone. G.R.",187,100.0,False,positional,G. Capone jun.,,,,
 BO0624_88653,732423,30,33,Italienische Fischer am Strande ihre Nete flickend.,188,97.1,False,positional,G. Capone jun.,,,,
-BO0624_88653,732424,31,34,Grablegung. Die trauernden Frauen und ein Greis hullen den Leichnam Christi in Linnen. Pastell auf grauem Papier. 12oX180 cm. Bez.:Lovis Corinth 1903. H.R. Abb.Taf.17.,197,99.1,False,title_direct,Lovis Corinth,,,,
+BO0624_88653,732424,31,34,Grablegung. Die trauernden Frauen und ein Greis hullen den Leichnam Christi in Linnen. Pastell auf grauem Papier. 12oX180 cm. Bez.:Lovis Corinth 1903. H.R. Abb.Taf.17.,197,99.1,False,title_direct,Lovis Corinth,,,,Sec. XX
 BO0624_88653,732425,32,35,- Grablegung. Aehnlicher Vorwurf wie Nr.34. Die trauernden Frauen und ein Greis huillen den Leichnam Christi in Linnen. Abb.Taf.17. Oel und Tempera auf L.119X180 cm.L.R.,199,100.0,False,positional,Lovis Corinth,,,,
 BO0624_88653,732426,33,36,Der Ehrentanz. Eine Dorfhonoration mit Frau tritt zum Tanze an.,200,97.6,False,positional,Lovis Corinth,,,,
-BO0624_88653,732427,34,37,"Portratstudie eines Malers. Kohle. 49X33 cm.Bez.: L. Corinth 1911, Portratstudie fur die Kunsthalle in Hamburg.",204,98.6,False,positional,Lovis Corinth,,,,
+BO0624_88653,732427,34,37,"Portratstudie eines Malers. Kohle. 49X33 cm.Bez.: L. Corinth 1911, Portratstudie fur die Kunsthalle in Hamburg.",204,98.6,False,positional,Lovis Corinth,,,,Sec. XX
 BO0624_88653,732428,35,39,39,209,7.5,False,positional,Lovis Corinth,,,,
-BO0624_88653,732429,36,40,"Rose, von zwei Frauenhanden gehalten. Blei, grune und rote Kreide. 34X25 cm. Bez.: Lovis Corinth 27. August 1909 Doberan.",214,98.7,False,title_direct,Lovis Corinth,,OGGETTI IN PIOMBO,,
-BO0624_88653,732430,37,41,- Studienblatt mit drei Entwurfen zu einem Selbstportrat. Ruckseite:Vier ebensolche Entwurfe. Blei. 48X30 cm.Bez.:Lovis Corinth 1895.,216,100.0,False,title_direct,Lovis Corinth,,OGGETTI IN PIOMBO,,
+BO0624_88653,732429,36,40,"Rose, von zwei Frauenhanden gehalten. Blei, grune und rote Kreide. 34X25 cm. Bez.: Lovis Corinth 27. August 1909 Doberan.",214,98.7,False,title_direct,Lovis Corinth,,OGGETTI IN PIOMBO,,Sec. XX
+BO0624_88653,732430,37,41,- Studienblatt mit drei Entwurfen zu einem Selbstportrat. Ruckseite:Vier ebensolche Entwurfe. Blei. 48X30 cm.Bez.:Lovis Corinth 1895.,216,100.0,False,title_direct,Lovis Corinth,,OGGETTI IN PIOMBO,,Sec. XIX
 BO0624_88653,732431,38,42,des Hintergrundes ein Seebecken. Vorne rechts drei stehende Figuren.,222,97.8,False,positional,Jean Baptist Corot,,,,
 BO0624_88653,732432,39,43,"Landschaft am Flub,mit Laubgeholz. Auf einem kleinen Hugel rastet ein Paar,am gegenuberliegenden Ufer eine Stadt sichtbar. Mit Gutachten von Professor Meier=",227,99.0,False,positional,Jean Baptist Corot,,,,
-BO0624_88653,732433,40,44,Pinscher und Biene. Oel auf L. 55X45 cm. Bez.: Max Correggio 1906. G. L.,236,97.7,False,title_direct,Max Correggio,,,,
+BO0624_88653,732433,40,44,Pinscher und Biene. Oel auf L. 55X45 cm. Bez.: Max Correggio 1906. G. L.,236,97.7,False,title_direct,Max Correggio,,,,Sec. XX
 BO0624_88653,732434,41,45,I1 Copa Noli. Die steilabsteigenden Felsen werden von der Brandung bespilt.,242,98.0,False,positional,Giacinto Corsi,,,,
 BO0624_88653,732435,42,46,"Der Verteidiger. Links vorne sitend der Angeklagte,in der Mitte der Verteidiger in Robe,hinter dem Pult, nach vorne geneigt, auf den Angeklagten weisend. Im ## Franz von Defregger",250,93.0,False,title_direct,Franz von Defregger,,,,
 BO0624_88653,732436,43,47,"Tiroler Dorfschone mit brunettem,gescheiteltem Haar,Silberhalskette,geblumtem Vorstecktuch, rotem Kleide und dunklem Mieder, auf den Beschauer blickend. Brustbild. Oel auf L. 63X50 cm. Bez.: Defregger 07. G.R. Abb.Taf.5. Kopfchen eines brunetten, vollbackigen gesunden Bauernmadchens; im Hemdchen",260,84.4,False,positional,Franz von Defregger,,,,
 BO0624_88653,732437,44,48,und gruinem Leibchen.Brustbild.,262,95.2,False,positional,Franz von Defregger,,,,
 BO0624_88653,732438,45,50,- Kostuimstudien von Herren aus der Biedermeierzeit. Federskizzen in Tusch. 13X19 cm. Tragt den Stempel der Vente Gebauer und,273,100.0,False,positional,Eugene Delacroix,Biedermeier,STAMPE E INCISIONI,,
-BO0624_88653,732439,46,51,Gabchen in Ait=Donauworth. Oel auf P. 54X42 cm. Bez.:F.Delcroix Donauworth VIll.1902. a Partie aus Ait-Landsberg. Oel auf P. 54X42 cm. Bez.: F. Delcroix 1901 Landsberg.,280,66.9,False,title_direct,F.Delcroix,,,,
+BO0624_88653,732439,46,51,Gabchen in Ait=Donauworth. Oel auf P. 54X42 cm. Bez.:F.Delcroix Donauworth VIll.1902. a Partie aus Ait-Landsberg. Oel auf P. 54X42 cm. Bez.: F. Delcroix 1901 Landsberg.,280,66.9,False,title_direct,F.Delcroix,,,,Sec. XX
 BO0624_88653,732440,47,52,Landschaftsstudie mit Baumgruppe in der Mitte. Kohlezeichnung auf P. 18X27 cm. Bez.:N. D. Passepartout.,287,98.5,False,positional,Narcib Diaz,,,,
 BO0624_88653,732441,48,53,Inneres eines herbstlichen Buchenwaldes mit einfallendem Sonnenlicht.,288,97.8,False,positional,Narcib Diaz,,,,
 BO0624_88653,732442,49,54,"Im Hinterhalt. Am Rande eines Birkenwaldes halten drei Raubritter, ein vierter spaht von einem yorgeschobenen Posten aus auf in dammeriger Ferne sichtbare Baulichkeiten. Oel auf L. 31,5X51,5 cm. Bez.: Wilh. Diez Munchen. G. R.",295,99.3,False,positional,Wilhelm von Diez,,,,
@@ -77,7 +77,7 @@ BO0624_88653,732468,75,80,Dame auf dem Sofa sitend; fast ganze Figur.,482,96.5,F
 BO0624_88653,732469,76,81,Garten mit Haus; Skizze aus Schlob Unsleben.,486,96.6,False,positional,Hugo von Habermann,,,,
 BO0624_88653,732470,77,82,Aquarell. 39X30 cm. Bez.:Habermann.,489,100.0,False,positional,Hugo von Habermann,,,,
 BO0624_88653,732471,78,83,"Damenbildnis;Kniestuck,nach rechts.",495,95.8,False,positional,Hugo von Habermann,,,,
-BO0624_88653,732472,79,84,"Josef Bergkofler vuigo Pitner,Zugspitfuhrer.Am Fenster,den Eispickel in der Hand. Kreide. 36X31.cm.Bez.:K.Haider fec.1888.",503,99.2,False,positional,Karl Haider,,,,
+BO0624_88653,732472,79,84,"Josef Bergkofler vuigo Pitner,Zugspitfuhrer.Am Fenster,den Eispickel in der Hand. Kreide. 36X31.cm.Bez.:K.Haider fec.1888.",503,99.2,False,positional,Karl Haider,,,,Sec. XIX
 BO0624_88653,732473,80,85,"Dame in Schwarz,mit dunklem Samtkleide angetan,dunkles Haar,den Kopf dem Beschauer zugewandt, die linke Hand auf eine rote Stuhllehne gestutt,in der",507,99.0,False,positional,Karl Haider,,,,
 BO0624_88653,732474,81,86,## F.Halberg-Kraus,515,100.0,False,title_direct,F.Halberg-Kraus,,,,
 BO0624_88653,732475,82,88,88,524,100.0,False,positional,F.Halberg-Kraus,,,,
@@ -110,12 +110,12 @@ BO0624_88653,732501,108,113,"Madchenbildnis mit brunettem Haar, roter Rose in de
 BO0624_88653,732502,109,114,"Mutter und Kind in einem Kahne. Die Mutter drickt ihr Kind liebevoll an sich. Oel auf H. 20,5X22 cm. Bez.:A.Keller. G.R.",709,98.3,False,positional,Albert von Keller,,,,
 BO0624_88653,732503,110,115,Fruhlingslandschaft mit Garten und Sommerhaus.,715,95.7,False,positional,P.W.Keller-Reutlingen,,,,
 BO0624_88653,732504,111,116,Bei der Wahrsagerin. Eine alte Frau liest einem Reitersmann des Mittelalters aus,720,97.5,False,positional,Aug.Klemme,,,,
-BO0624_88653,732505,112,117,Der junge Bachus mit Trauben und dem Panther. a Gegenstuck. Amor scharft an einem Felsen seinen Pfeil. Oel auf L. Rund 31X31 cm. Bez.: A.Kloeber 1857. G.R.,736,80.8,False,positional,Aug. Karl Friedrich von Kloeber,,,,
+BO0624_88653,732505,112,117,Der junge Bachus mit Trauben und dem Panther. a Gegenstuck. Amor scharft an einem Felsen seinen Pfeil. Oel auf L. Rund 31X31 cm. Bez.: A.Kloeber 1857. G.R.,736,80.8,False,positional,Aug. Karl Friedrich von Kloeber,,,,Sec. XIX
 BO0624_88653,732506,113,118,Die Katenmutter. Ein kleines Bauernmadchen halt in ihren Armen einige sich,740,97.3,False,positional,Ludwig Knaus,,,,
 BO0624_88653,732507,114,119,"Zwei Frauenakte, einer stehend, einer in gebuickter Stellung.",753,96.7,False,positional,O.Kokoschka,,,,
 BO0624_88653,732508,115,120,"Stehendes Madchen, die Hande hinter dem Kopfe gekreuzt. Ganzakt. Bleistiftzeichnung aquarelliert. 44X31 cm. Bez.: O. K. Passepartout.",754,98.4,False,positional,O.Kokoschka,,,,
 BO0624_88653,732509,116,122,"Sitender Bettler, seine Suppe ausloffelnd. Kohle. 57X41 cm. Bez.:Kathe Kollwit.",758,97.3,False,title_direct,Kathe Kollwit,,,,
-BO0624_88653,732510,117,123,"Blumenvase mit Flieder, auf graublauem Tische Zitronen und eine Orange. Oel auf L. 85X107 cm.Bez.:X.Konnerth 1926. G.R.",766,98.3,False,title_direct,X.Konnerth,,,,
+BO0624_88653,732510,117,123,"Blumenvase mit Flieder, auf graublauem Tische Zitronen und eine Orange. Oel auf L. 85X107 cm.Bez.:X.Konnerth 1926. G.R.",766,98.3,False,title_direct,X.Konnerth,,,,Sec. XX
 BO0624_88653,732511,118,124,Sommer. In einem lauschigen Gartenwinkel ein weibgedeckter Tisch mit Rosen straub in einer Vase. Oel auf L.76X66 cm. Bez.:Emil A.Korthaus. G.R.,770,98.6,False,positional,E.A.Korthaus,,VASI,,
 BO0624_88653,732512,119,125,"Die Lautenspielerin. Eine junge Frau in rotlichem Kostum, sitt an einem Tische und spielt die Laute. Oel auf P.32X26 cm.Bez.:H. Kozel. G.R.",776,98.5,False,title_direct,H.Kozel,,,,
 BO0624_88653,732513,120,126,Zwei Damen in der Loge.,786,91.7,False,positional,Alfred Kubin,,,,
@@ -145,7 +145,7 @@ BO0624_88653,732536,143,151,"6 Zeichnungen und Aquarelle von F. Knab, A. Zwengau
 BO0624_88653,732537,144,152,Gruppe. Knieende Frau zwischen einem stehenden Mann und einer stehenden Frau. Baume und Landschaft.— Ruckseite: Skizze einer Frau und eines sitenden Kindes.,929,98.7,False,positional,Hans von Marees,,OGGETTI VARI,,
 BO0624_88653,732538,145,153,"Entwurf fur das Goldene Zeitalter. Rotel. 60X44 cm. Meier-Graefe Il, Nr.424.",931,97.3,False,positional,Hans von Marees,,,,
 BO0624_88653,732539,146,154,Entwurf fur die Amazone Volkmanns.,933,94.3,False,positional,Hans von Marees,,,,
-BO0624_88653,732540,147,155,"Bildnis des Bildhauers Gedon in juingeren Jahren oder des Dichters Scharf. Oel in Grisailleton auf L. 54X39,5 cm. Bez.:Car1 Marr 1883. H.R.",938,98.5,False,positional,Karl von Marr,,,,
+BO0624_88653,732540,147,155,"Bildnis des Bildhauers Gedon in juingeren Jahren oder des Dichters Scharf. Oel in Grisailleton auf L. 54X39,5 cm. Bez.:Car1 Marr 1883. H.R.",938,98.5,False,positional,Karl von Marr,,,,Sec. XIX
 BO0624_88653,732541,148,156,Kiefern.,948,77.8,False,positional,Anthony Mauve,,,,
 BO0624_88653,732542,149,157,Frau am Waschzuber.,950,90.0,False,positional,Anthony Mauve,,,,
 BO0624_88653,732543,150,158,"Brustbild eines dunkelhaarigen Madchens mit weibem Ueberwurf. Profil. Oel auf L. In oval 55X40 cm, in Viereck 58X43 cm. Bez.:G.Max. G.R.",958,98.5,False,positional,Gabriel von Max,,,,
@@ -167,7 +167,7 @@ BO0624_88653,732558,165,165,"Liegendes und stehendes Gnu. Bronze auf Marmorsocke
 BO0624_88653,732559,166,176,Frauen im Garten zu Mazas unter einem Baume lagernd. Kreide= und Tuschzeichnung auf P. 34X25 cm. Bez.: Mazas. Passepartout.,1065,98.3,False,positional,C.Pissaro,,,,
 BO0624_88653,732560,167,177,Selbstbildnis von der Staffelei. Oel auf H. 18X14 cm. Bez.: Fr. Pro16. G. R.,1069,97.1,False,title_direct,Fr.Pro16,,,,
 BO0624_88653,732561,168,178,Unangenehme Begegnung. Dame mit Kind wird von zwei betrunkenen franzo= sischen Arbeitern angerempelt.,1075,98.0,False,positional,Prucha,,,,
-BO0624_88653,732562,169,179,Der verliebte Sammler. Ein Mann aus der Zeit des Rokoko druckt ein Porzellan figurchen an seine Brust. Gouache auf P.70X59 cm.Bez.:Leo Put.S. L. Konigin Christine beschuldigt ihren Stallmeister des Hochverrats; der Beschuldigte ist vor der Konigin auf die Knie gesunken und beschwort die Unrichtigkeit der Anschuldigung. Gemalt um 1835. Aus dem Besite der Aebtissin Therese von,1101,76.4,False,title_direct,Leo Put,,,,
+BO0624_88653,732562,169,179,Der verliebte Sammler. Ein Mann aus der Zeit des Rokoko druckt ein Porzellan figurchen an seine Brust. Gouache auf P.70X59 cm.Bez.:Leo Put.S. L. Konigin Christine beschuldigt ihren Stallmeister des Hochverrats; der Beschuldigte ist vor der Konigin auf die Knie gesunken und beschwort die Unrichtigkeit der Anschuldigung. Gemalt um 1835. Aus dem Besite der Aebtissin Therese von,1101,76.4,False,title_direct,Leo Put,,,,Sec. XIX
 BO0624_88653,732563,170,180,Muli aufgeschirrt.,1106,89.5,False,positional,Ferdinand von Rayski,,,,
 BO0624_88653,732564,171,181,Frauenchiemsee.,1107,87.5,False,positional,Ferdinand von Rayski,,,,
 BO0624_88653,732565,172,183,"Louis Freiherr von Gablenz. Brustbild von vorne. Kohle und farbige Kreiden auf Pergament. 23X20 cm. Ruckseits bestatigt von Abb.Taf.11. Frau von Gustedt.Vgl. Grautoff, Rayski S. 93.",1110,98.9,False,positional,Ferdinand von Rayski,,,,
@@ -182,15 +182,15 @@ BO0624_88653,732573,180,191,Zufriedenheit. Auf der Terrasse eines kleinen Landha
 BO0624_88653,732574,181,192,Partie bei Moosach.,1159,90.0,False,positional,Ph.Roth,,,,
 BO0624_88653,732575,182,193,Dorfmotiv mit alter Hutte im Vordergrunde.Naturstudie.,1161,96.4,False,positional,Ph.Roth,,,,
 BO0624_88653,732576,183,194,"Grofe Landschaft mit Kirche und Windmuhlen, vorne Bauern mit Wagen.",1163,97.0,False,positional,Ph.Roth,,,,
-BO0624_88653,732577,184,195,"Die Reisigsammlerin, auf dem Rucken die schwere Last des Reisigbundels tragend, am Schurze halt sich das ermudete Enkelkind fest, strebt, gestutt auf ihren Stock, der Vorstadt zu. Oel auf L.98X80 cm. Bez.:H.Roth 1905.H.R.",1170,99.1,False,title_direct,H.Roth,,,,
+BO0624_88653,732577,184,195,"Die Reisigsammlerin, auf dem Rucken die schwere Last des Reisigbundels tragend, am Schurze halt sich das ermudete Enkelkind fest, strebt, gestutt auf ihren Stock, der Vorstadt zu. Oel auf L.98X80 cm. Bez.:H.Roth 1905.H.R.",1170,99.1,False,title_direct,H.Roth,,,,Sec. XX
 BO0624_88653,732578,185,197,Mythologische Szene. Schlafende Nymphe von einem Jager mit Hund belauscht. Aquarell auf P. 14X21 cm. Bez.: Th.Rowlandson. Passepartout.,1175,98.4,False,positional,Thomas Rowlandson,,,,
 BO0624_88653,732579,186,198,"Aitdeutsche Frau in reicher Gewandung auf dem Wege zur Kirche. Oel auf H. 23,5X14,5 cm.- Bez.: Rustige. G. R.",1181,98.0,False,positional,Heinrich Franz Gaudenz von Rustige,,,,
 BO0624_88653,732580,187,199,"Frauenbildnis mit brunettem Haar, weibem Brusttuch und blaugrauer Taille. Abb.Taf.8. Oel auf L. 51X42 cm. Bez.: Leo Samberger 87. H.R.",1187,98.4,False,title_direct,Leo Samberger,,,,
 BO0624_88653,732581,188,200,"Die Gesangstunde. Am Klavier eine Dame im Hauskleide, daneben ein singendes junges Madchen. Oel auf L. 45X39 cm. Bez.: R. Schaupp. G.R.",1193,98.4,False,title_direct,R.Schaupp,,,,
-BO0624_88653,732582,189,201,Frauenbildnis mit dunkelgrauem Hut und ebensolchem Kleide vor grauem Hinter= F.Schider 1879. Schuler von Leib1.,1199,98.2,False,positional,Frit Schider,,,,
+BO0624_88653,732582,189,201,Frauenbildnis mit dunkelgrauem Hut und ebensolchem Kleide vor grauem Hinter= F.Schider 1879. Schuler von Leib1.,1199,98.2,False,positional,Frit Schider,,,,Sec. XIX
 BO0624_88653,732583,190,202,"Reminiscenz an das Rembrandtsche Gemalde der Kasseler Galerie. Italienische Lands schaft mit Flu,Angler,egelschif und Brucke,auf demWegeinReiter,am gegn uberliegenden Ufer ein kleines Kastell, auf einem Hugel Ruinen einer Stadt.",1206,99.1,False,positional,Joh.Wilh.Schirmer,,,,
-BO0624_88653,732584,191,203,"Kinderportrat. Der Sohn und das Tochterchen des Kunstlers. Das lettere mit einer Puppe in der Hand auf einem Parkwege, links auf einem Berge eine Burg Oel auf L.114X60 cm. Bez.:J.W.Schirmer 1850. G.R. a Gebirgsmotiv mit Waldweg und Aitwasser. Oel auf L. 48X63 cm. Bez. mit dem Siegel J. W. S. Gerahmt.",1210,79.9,False,positional,Joh.Wilh.Schirmer,,OGGETTI VARI,,
-BO0624_88653,732585,192,204,"Mausoleum der Familie von der Malsburg in Kurhessen 1849. Inmitten eines Fohrenwaldes steht das umfriedete Mausoleum. a Sturmbewegte Landschaft; die Baume werden gepeitscht von dem furchtbaren Sturm. Getuschte Zeichnung weib gehoht 23,5X30 cm.Faksimile-Stempel.",1217,70.7,False,positional,Joh.Wilh.Schirmer,,STAMPE E INCISIONI,,
+BO0624_88653,732584,191,203,"Kinderportrat. Der Sohn und das Tochterchen des Kunstlers. Das lettere mit einer Puppe in der Hand auf einem Parkwege, links auf einem Berge eine Burg Oel auf L.114X60 cm. Bez.:J.W.Schirmer 1850. G.R. a Gebirgsmotiv mit Waldweg und Aitwasser. Oel auf L. 48X63 cm. Bez. mit dem Siegel J. W. S. Gerahmt.",1210,79.9,False,positional,Joh.Wilh.Schirmer,,OGGETTI VARI,,Sec. XIX
+BO0624_88653,732585,192,204,"Mausoleum der Familie von der Malsburg in Kurhessen 1849. Inmitten eines Fohrenwaldes steht das umfriedete Mausoleum. a Sturmbewegte Landschaft; die Baume werden gepeitscht von dem furchtbaren Sturm. Getuschte Zeichnung weib gehoht 23,5X30 cm.Faksimile-Stempel.",1217,70.7,False,positional,Joh.Wilh.Schirmer,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88653,732586,193,205,Civitella. Sparlicher Baum und Krummholzwuchs auf dem felsigen Plateau.,1218,97.2,False,positional,Joh.Wilh.Schirmer,,,,
 BO0624_88653,732587,194,206,"Feierabend. Das heimkehrende Vieh an einem Weiher an der Tranke,vor dem Bauernhaus ein Ziehbrunnen; den bewolkten Himmel durchbricht die untergehende Sonne. Oel auf H. 27X48 cm. Bez.:E.Schleich. G.R.",1226,99.0,False,positional,Ed.Schleich d.Ae.,,,,
 BO0624_88653,732588,195,207,"Abend. An einem Weiher einige Kuhe bei der Tranke,rechts ein Bauernhaus und",1227,97.4,False,positional,Ed.Schleich d.Ae.,,,,
@@ -206,7 +206,7 @@ BO0624_88653,732597,204,217,"Polnischer Bauernhof mit den strohgedeckten, mit bu
 BO0624_88653,732598,205,218,der Stadt; schwerer Himmel.,1273,92.6,False,positional,Gustav Schonleber,,,,
 BO0624_88653,732599,206,219,Das Schlob Lichtenstein. Blick auf Hohenzuige.,1281,95.7,False,positional,Charles Schuch,,,,
 BO0624_88653,732600,207,220,Der Graf von Habsburg und der Priester.,1289,95.0,False,positional,Morit von Schwind,,,,
-BO0624_88653,732601,208,221,"Das Hauskonzert. In einem eleganten Raume sitt eine Gesellschaft von Herren und Damen, auf den Beginn des Gesanges einer Dame wartend. a Grenadier Friedrichs des Groben. Einer der langen Kerle Friedrichs steht vor dem Oel auf H. 37X25 cm. Bez.:C. Seiler 1918. G.R.",1295,67.4,False,title_direct,C. Seiler,,,,
+BO0624_88653,732601,208,221,"Das Hauskonzert. In einem eleganten Raume sitt eine Gesellschaft von Herren und Damen, auf den Beginn des Gesanges einer Dame wartend. a Grenadier Friedrichs des Groben. Einer der langen Kerle Friedrichs steht vor dem Oel auf H. 37X25 cm. Bez.:C. Seiler 1918. G.R.",1295,67.4,False,title_direct,C. Seiler,,,,Sec. XX
 BO0624_88653,732602,209,222,"Beim Kartenspiel. An einem Tisch drei Manner und ein Madchen beim Karten= spiel, dahinter steht die Wirtin und sieht zu. Inneres einer alten Wirtsstube.",1305,98.7,False,positional,Anton Seit,,,,
 BO0624_88653,732603,210,223,"Im Atelier. Vor einem eine Landschaft darstellenden Bilde sitt ein Maler im Rokoko= kostum, die Palette liegt am Boden.",1309,98.3,False,positional,Anton Seit,,,,
 BO0624_88653,732604,211,225,Strandmotiv mit Seetang fahrenden Fuhrwerken und Leuchtturm. a Krabbenfischer mit Pferd am Strande. Oe1 auf P. 32X39 cm. Bez.: J. Seyler. H. R.,1327,69.9,False,positional,Julius Seyler,,,,
@@ -225,7 +225,7 @@ BO0624_88653,732616,223,239,"Kavalier mit Dame, die Treppe herabschreitend. — 
 BO0624_88653,732617,224,240,"Interessante Lekture. Alter Bauer mit blauem Schobrocke und Holzpantoffeln sitt auf einem Polsterstuhle, die Arme auf die Knie gestut und liest in einer Zeitung.",1396,98.8,False,positional,Alfons Spring,,,,
 BO0624_88653,732618,225,241,Waldpartie. Durch den Laubwald fuhrt ein Weg; Blick auf eine mit Baumen bes standene Wiese. Oel auf P.27X39 cm.Bez.:A.Stabli.G.R.,1403,98.4,False,positional,Adolf Stabli,,,,
 BO0624_88653,732619,226,242,Dorf im Winter. Vor den Bauernhausern auf einem gefrorenen Weiher Kinder mit Schlitten. Oel auf H.32X41 cm. Bez.:A.Stademann.H.R. a Winter im Walde. Eine Frau und einige weitere Figuren vor einer alten Hutte.,1409,75.4,False,title_direct,A.Stademann,,,,
-BO0624_88653,732620,227,243,Abtrieb der Bergschafe. Die Herde zieht hinter dem Schafer durch einen Pab dem Tale zu. Pastell. 90X110 cm. Bez.: M. M. A. Stagura 1910. H.R.,1417,98.5,False,positional,Albert Stagura,,,,
+BO0624_88653,732620,227,243,Abtrieb der Bergschafe. Die Herde zieht hinter dem Schafer durch einen Pab dem Tale zu. Pastell. 90X110 cm. Bez.: M. M. A. Stagura 1910. H.R.,1417,98.5,False,positional,Albert Stagura,,,,Sec. XX
 BO0624_88653,732621,228,244,An der Tranke. Zwei Kuhe und ein Kalb am Wasser; hugelige Landschaft. Oel auf L. 18X31 cm.Bez: J. G. Steffan px. Munchen. G.R.,1423,98.3,False,title_direct,J. G. Steffan,,,,
 BO0624_88653,732622,229,246,"Modernes Spiel (Jeux modernes). Drei Madchen, eines mit einem Reif in der Hand, blicken auf einen unsichtbaren Vorgang, im Hintergrunde Spazierganger.",1437,98.6,False,positional,Alex.Theoph. Steinlen,,,,
 BO0624_88653,732623,230,247,"Spanierin, im dunklen gescheitelten Haar eine rote Blume, grunen shalartigen Ueber wurf, entbloften Oberarm, steht in Landschaft vor einer Meeresbucht;rechts im Hintergrund ein Kastell auf einer Anhohe. Halbfigur seitlich gesehen mit Blick auf den Beschauer.",1445,99.2,False,positional,Franz von Stuck,,,,
@@ -234,9 +234,9 @@ BO0624_88653,732625,232,I,"dylle. Eine Frau auf einem Bock reitend, fuhrt einen 
 BO0624_88653,732626,233,251,"Jagdkarikatur. Der Jager zu Pferd, voraus die Meute an der Leine; auf der Ruck=",1466,97.4,False,positional,Henry Toulouse Lautrec,,,,
 BO0624_88653,732627,234,252,"Studie einer schwarz= und weibgefleckten Kuh. Kreidezeichnung, teilweise aquarelliert auf P. 29X37 cm. Bez.: C. T.und ruick= warts Etude de Constant Troyon. Passepartout.",1473,98.8,False,positional,Const. Troyon,,,,
 BO0624_88653,732628,235,253,"Die Gigantenschlacht. Zeus, der Sohn des Kronos, im Kampfe gegen die Giganto machie, schleudert seine Blite auf die auf ihn einsturmenden Giganten. Bewegte anatomische Komposition. Aehnliche Fassung wie Abb. 107 bei J. A. Beringer. Abb.Taf.6. Oel auf L. 95X78 cm. Bez.: W. Trubner. G.R.",1479,99.3,False,positional,Wilhelm Trubner,,,,
-BO0624_88653,732629,236,254,"Polin mit dunklem Haar, entbiobten Schultern, den dunklen Ueberwurf uber die Huften und Arme gelegt; Hintergrund graue Partien. Siehe J. A. Beringer Abb. 177. Abb.Taf.13. Oel auf L. 113X95 cm. Bez.: W.Trubner 1888.",1480,99.0,False,positional,Wilhelm Trubner,,,,
+BO0624_88653,732629,236,254,"Polin mit dunklem Haar, entbiobten Schultern, den dunklen Ueberwurf uber die Huften und Arme gelegt; Hintergrund graue Partien. Siehe J. A. Beringer Abb. 177. Abb.Taf.13. Oel auf L. 113X95 cm. Bez.: W.Trubner 1888.",1480,99.0,False,positional,Wilhelm Trubner,,,,Sec. XIX
 BO0624_88653,732630,237,255,"Bildnis eines dunkeibraunen Pferdes mit Kopfgestell, vor gruinem Hintergrund. Oel auf L.62X45 cm. Bez.: W. Trubner.G.R.",1481,98.2,False,positional,Wilhelm Trubner,,,,
-BO0624_88653,732631,238,256,"Apotheose auf Kaiser Withelm I. Der Kaiser auf galoppierendem Pferde, auf einem von Grazien umgebenen monumentalen Aufbau,an dessem Sockel die deutschen Fursten, sowie Bismarck und Moltke stehen. Siehe auch den Entwurf Trubner in Klassiker der Kunst XXVI. Jahrgang 1917, Seite 169 bei I. A. Beringer. (Aus den Federspielen).",1482,95.9,False,positional,Wilhelm Trubner,,,,
+BO0624_88653,732631,238,256,"Apotheose auf Kaiser Withelm I. Der Kaiser auf galoppierendem Pferde, auf einem von Grazien umgebenen monumentalen Aufbau,an dessem Sockel die deutschen Fursten, sowie Bismarck und Moltke stehen. Siehe auch den Entwurf Trubner in Klassiker der Kunst XXVI. Jahrgang 1917, Seite 169 bei I. A. Beringer. (Aus den Federspielen).",1482,95.9,False,positional,Wilhelm Trubner,,,,Sec. XVI
 BO0624_88653,732632,239,257,- Friedrich der Siegreiche.,1488,100.0,False,positional,Wilhelm Trubner,,,,
 BO0624_88653,732633,240,258,Gebirgswald.,1490,84.6,False,positional,Wilhelm Trubner,,,,
 BO0624_88653,732634,241,259,"Blei. 46X31 cm.Bez.:W.Trubner. Abgeb.Elias,Trubner-Handzeichnungen, Nr.23.",1493,100.0,False,positional,Wilhelm Trubner,,OGGETTI IN PIOMBO,,
@@ -250,7 +250,7 @@ BO0624_88653,732641,248,266,"Blumenstilleben. Auf einem mit grunem Tuche bedeckt
 BO0624_88653,732642,249,267,"Fuchsfamilie vor dem Bau. Die jungen Fuchse balgen sich untereinander, daneben die Beute ein Rebhuhn und Ueberreste eines Hasens.",1534,98.4,False,positional,Hans ulmer,,,,
 BO0624_88653,732643,250,268,Pferdemarkt. Vor einem alten Stadtchen werden die Pferde vorgefuhrt.,1540,97.1,False,positional,W.Velten,,,,
 BO0624_88653,732644,251,269,"Der Abschied. Von der Wirtin verabschiedet sich ein Paar, auf der Strabe der Postwagen. Oel auf H. 16,5X24 cm. Bez.:W.Velten. H.R.",1546,98.4,False,title_direct,W.Velten,,,,
-BO0624_88653,732645,252,270,"Zwiegesprach. Ein hollandischer Bauer auf einem Schimmel mit einer neben ihrem Esel stehenden Bauerin sprechend, daneben ein Hund und ein Ziegenbock,rechts Abb.Taf.12. Oel auf H. 73X59 cm. Bez.: Fr.Volt 1868. G.R.",1553,84.8,False,positional,Wouter Verschuur,,,,
+BO0624_88653,732645,252,270,"Zwiegesprach. Ein hollandischer Bauer auf einem Schimmel mit einer neben ihrem Esel stehenden Bauerin sprechend, daneben ein Hund und ein Ziegenbock,rechts Abb.Taf.12. Oel auf H. 73X59 cm. Bez.: Fr.Volt 1868. G.R.",1553,84.8,False,positional,Wouter Verschuur,,,,Sec. XIX
 BO0624_88653,732646,253,271,S Saida. Arabisches Madchen mit Kopftuch und Halsschmuck.,1564,97.3,False,positional,E. Villanis,,,,
 BO0624_88653,732647,254,274,274,1574,100.0,False,positional,Friedrich Volt,,,,
 BO0624_88653,732648,255,275,Herdentrieb im Gebirge. Der Hirte treibt Rinder und Ziegen in den Eingang einer,1580,97.5,False,positional,Friedrich Volt,,,,
@@ -268,13 +268,13 @@ BO0624_88653,732659,266,289,- Alter Steinbruch bei Bernried;am Rande Baumwuchs.,
 BO0624_88653,732660,267,290,"Am Dorfweiher. Hohe Baume, Bauernhaus.",1689,94.6,False,positional,Ludwig Willroider,,,,
 BO0624_88653,732661,268,291,"Mondaufgang. Ueber einem Dorfe steht die grobe Mondscheibe, eine Frau strebt dem Dorfe zu; Winter. Oel auf H. 17,5X23,5 cm. Bez.: A.Windmaier. G.R.",1697,98.6,False,positional,Anton Windmaier d. Ae.,,,,
 BO0624_88653,732662,269,292,Studienkopf einer alten lachenden Frau. a Bildnis einer dunkelhaarigen Frau mit gescheiteltem Haar; sitendes Brustbild. Oel auf L.71X58 cm.Bez.: Wischniowsky.,1706,84.3,False,title_direct,J.Wischniowsky,,,,
-BO0624_88653,732663,270,293,"Schmerzensreich mit der Hirschkuh. Der sitende Knabe von dem Tier gesaugt. Auf ovalem Sockel. Schuler von J. G. Schadow. Marmor. Hohe 73,Breite 8O cm. Einige Bruchstellen gekittet. Bez.:E.WOLFF, FCRom 1840.",1712,99.0,False,positional,Emil Wolff,,,,
+BO0624_88653,732663,270,293,"Schmerzensreich mit der Hirschkuh. Der sitende Knabe von dem Tier gesaugt. Auf ovalem Sockel. Schuler von J. G. Schadow. Marmor. Hohe 73,Breite 8O cm. Einige Bruchstellen gekittet. Bez.:E.WOLFF, FCRom 1840.",1712,99.0,False,positional,Emil Wolff,,,,Sec. XIX
 BO0624_88653,732664,271,294,"Die Musik. Junges Paar in altdeutscher Tracht,aneinandergeschmiegt,der Jungling Marmor. Hohe 80, Breite 50—30, Tiefe 20 cm.Holzsockel 117 cm.C.Wollek fec.",1718,98.7,False,title_direct,C.Wollek,,,,
 BO0624_88653,732665,272,295,"Beim Fischfang. Zwei Manner und eine Frau beim Einziehen der Nete, ein weitere",1725,97.4,False,positional,Josef Wopfner,,,,
 BO0624_88653,732666,273,296,Ansicht aus Venedig. Feder und Tusche. 21X30 cm.Bez.:Ziem.,1734,96.4,False,positional,Felix Ziem,,,,
 BO0624_88653,732667,274,297,"Der Trinker. Alter Reiter mit rotem Bart, im Vorgenuf in ein halbgefuiltes Rot",1740,97.4,False,positional,Ernst Zimmermann,,,,
 BO0624_88653,732668,275,298,"Atelierstilleben.Vor gelbgruinem Vorhang Kreusener Krug,alter Jagerhut, Meer= schaumpfeife, Zinnkrug, Kastchen,Buch und skelettierter Fuchskopf auf einem mit Oel auf L. 75X57 cm.Bez.:E.Z.G.R.",1745,98.9,False,positional,Ernst Zimmermann,,SCATOLE,,
-BO0624_88653,732669,276,299,"- Portrat des 1927 verstorbenen Kunstmalers A.Laupheimer. Oel auf L. 54X40 cm. Bez.:E. Zimmermann, tragt ruckwarts den Vermerk: A. Laupheimer, gemalt von Ernst Zimmermann 1875 oder 1878. G. R. Abb.Taf.7.",1748,100.0,False,title_direct,Ernst Zimmermann,,,,
+BO0624_88653,732669,276,299,"- Portrat des 1927 verstorbenen Kunstmalers A.Laupheimer. Oel auf L. 54X40 cm. Bez.:E. Zimmermann, tragt ruckwarts den Vermerk: A. Laupheimer, gemalt von Ernst Zimmermann 1875 oder 1878. G. R. Abb.Taf.7.",1748,100.0,False,title_direct,Ernst Zimmermann,,,,Sec. XX
 BO0624_88653,732670,277,300,"weite Landschaft,rechts alte Weide.",1755,94.4,False,positional,Heinrich von Zugel,,,,
 BO0624_88653,732671,278,301,Bauer mit zwei Ochsen auf dem Felde.,1760,94.6,False,positional,Heinrich von Zugel,,,,
 BO0624_88653,732672,279,302,Blondlockiges Kind mit rotem Mieder und gruinem Hut in Landschaft. Brustbild.,1768,97.4,False,positional,Ludwig von Zumbusch,,,,

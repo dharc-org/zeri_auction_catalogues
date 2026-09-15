@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_81745,167025,1,1460,1530.,12,61.5,False,positional,LUINI,Scuola Fiorentina,,,
+BO0624_81745,167025,1,1460,1530.,12,61.5,False,positional,LUINI,Scuola Fiorentina,,,Sec. XVI
 BO0624_81745,167026,2,2,"EPISODES DE LA VIE DES SAINTS: SESIN, MARTIN ET ALEXANDRE.",21,98.2,False,positional,LUINI,,,,
 BO0624_81745,167027,3,3,"LE DEPART DES TROIS SAINTS: SESIN, MARTIN ET ALEXANDRE.",33,98.1,False,positional,LUINI,,,,
 BO0624_81745,167028,4,4,"LE MARTYRE DES TROIS SAINTS: SESIN, MARTIN ET ALEXANDRE.",39,98.1,False,positional,LUINI,,,,
@@ -8,7 +8,7 @@ BO0624_81745,167030,6,6,UNE SAINTE.,52,90.9,False,positional,LUINI,,,,
 BO0624_81745,167031,7,7,SAINT ALEXANDRE.,62,93.8,False,positional,LUINI,,,,
 BO0624_81745,167032,8,8,SAINT ETIENNE.,70,92.9,False,positional,LUINI,,,,
 BO0624_81745,167033,9,I507,10.LE REDEMPTEUR,93,100.0,False,positional,MONTAGNA,,,,
-BO0624_81745,167034,10,11,PORTRAIT D'HOMME. 1623.,107,80.0,False,positional,MORONI,,,,
+BO0624_81745,167034,10,11,PORTRAIT D'HOMME. 1623.,107,80.0,False,positional,MORONI,,,,Sec. XVII
 BO0624_81745,167035,11,12,LE CHRIST DEPOSE AU TOMBEAU.,120,94.7,False,positional,DAPONTE,,,,
 BO0624_81745,167036,12,13,DECAPITATION DE SAINT PAUL.,132,94.5,False,positional,,Ecole Lombarde,,,
 BO0624_81745,167037,13,14,LA VIERGE ET L'ENFANT.,138,93.3,False,positional,,Ecole Lombarde,,,
@@ -27,7 +27,7 @@ BO0624_81745,167049,25,26,PoRTRAIT DE JEAN DI MASEO DoNATI.,214,95.5,False,posit
 BO0624_81745,167050,26,2,27.PROMETHEE,223,100.0,False,positional,,Ecole Italienne,,,
 BO0624_81745,167051,27,28,LA MADELEINE.,235,88.9,False,positional,,Ecole Allemande,,,
 BO0624_81745,167052,28,29,TROIS FEMMES.,237,88.9,False,positional,,Ecole Allemande,,,
-BO0624_81745,167053,29,30,PORTRAIT D'HOMME. 1641.,249,80.0,False,positional,,Ecole Allemande,,,
+BO0624_81745,167053,29,30,PORTRAIT D'HOMME. 1641.,249,80.0,False,positional,,Ecole Allemande,,,Sec. XVII
 BO0624_81745,167054,30,31,PORTRAIT.,262,84.2,False,positional,VAN-DYCK,,,,
 BO0624_81745,167055,31,32,LE PORT DE CESAREA.,274,92.3,False,positional,BREUGHEL,,,,
 BO0624_81745,167056,32,33,LE REPOS EN EGYPTE.,281,92.3,False,positional,BREUGHEL,,,,
@@ -37,9 +37,9 @@ BO0624_81745,167059,35,36,LA CHASSE A LOURS.,303,91.9,False,positional,RUTHARD,,
 BO0624_81745,167060,36,37,UNE BICHE,309,85.7,False,positional,RUTHARD,,,,
 BO0624_81745,167061,37,38,PORTRAIT D'HOMME,321,91.4,False,positional,PORBUS,,,,
 BO0624_81745,167062,38,1678,40.UNE FOIRE.,338,100.0,False,positional,KAREL,,,,
-BO0624_81745,167063,39,1593,1663.,348,61.5,False,positional,SNAYERS,,,,
-BO0624_81745,167064,40,41,UN COMBAT. 1642.,350,69.2,False,positional,SNAYERS,,,,
-BO0624_81745,167065,41,42,L'ADORATION DU VEAU D'OR. 1719.,361,85.7,False,positional,FRANCK,,,,
+BO0624_81745,167063,39,1593,1663.,348,61.5,False,positional,SNAYERS,,,,Sec. XVII
+BO0624_81745,167064,40,41,UN COMBAT. 1642.,350,69.2,False,positional,SNAYERS,,,,Sec. XVII
+BO0624_81745,167065,41,42,L'ADORATION DU VEAU D'OR. 1719.,361,85.7,False,positional,FRANCK,,,,Sec. XVIII
 BO0624_81745,167066,42,43,UNE HALTE DE CAVALIERS.,373,93.6,False,positional,BLOEMEN,,,,
 BO0624_81745,167067,43,44,SUJET CHAMPETRE.,383,90.9,False,positional,CUYP,,,,
 BO0624_81745,167068,44,47,PAYSAGE,388,82.4,False,positional,CUYP,,,,
@@ -48,14 +48,14 @@ BO0624_81745,167070,46,1619,- 46.LE REPOS EN EGYPTE.,410,100.0,False,positional,
 BO0624_81745,167071,47,48,PAYSAGE.,419,82.4,False,positional,POLENBURG,,,,
 BO0624_81745,167072,48,49,PAYSAGE,429,82.4,False,positional,BRIL,,,,
 BO0624_81745,167073,49,1687,- SO. PAYSAGE,441,100.0,False,positional,BOUT,,,,
-BO0624_81745,167074,50,1556,1626.,453,61.5,False,positional,BRIL,,,,
+BO0624_81745,167074,50,1556,1626.,453,61.5,False,positional,BRIL,,,,Sec. XVII
 BO0624_81745,167075,51,1,PAYSAGE.,454,87.5,False,positional,BRIL,,,,
-BO0624_81745,167076,52,1548,1606.,474,61.5,False,positional,MANDER,,,,
-BO0624_81745,167077,53,53,LE MASSACRE DES INNOCENTS. 1733.,476,86.2,False,positional,MANDER,,,,
+BO0624_81745,167076,52,1548,1606.,474,61.5,False,positional,MANDER,,,,Sec. XVII
+BO0624_81745,167077,53,53,LE MASSACRE DES INNOCENTS. 1733.,476,86.2,False,positional,MANDER,,,,Sec. XVIII
 BO0624_81745,167078,54,54,CHASSE AU FAUCON.,491,91.4,False,positional,QUERFURT,,,,
 BO0624_81745,167079,55,1661,- S7.INTERIEUR D'UNE CABANE.,519,100.0,False,positional,POEL,,ARREDAMENTI,,
 BO0624_81745,167080,56,60,L'AVARE ET LA MORT.,533,92.3,False,positional,POEL,,,,
-BO0624_81745,167081,57,61,"PoRTRAIT DE GASPARE MEYER, conseiller mort en lannee 1595.",541,97.4,False,positional,,Ecole Allemande,,,
+BO0624_81745,167081,57,61,"PoRTRAIT DE GASPARE MEYER, conseiller mort en lannee 1595.",541,97.4,False,positional,,Ecole Allemande,,,Sec. XVI
 BO0624_81745,167082,58,62,"PoRTRAIT DE JEAN WEGMAN,",545,93.9,False,positional,,Ecole Allemande,,,
 BO0624_81745,167083,59,63,MARINE.,555,80.0,False,positional,,Ecole Flamande,,,
 BO0624_81745,167084,60,64,UN ARRACHEUR DE DENTS.,560,93.3,False,positional,,Ecole Flamande,,,
@@ -72,7 +72,7 @@ BO0624_81745,167094,70,74,L'ANNONCIATION.,608,90.3,False,positional,,Ecole Flama
 BO0624_81745,167095,71,2,75.PORTRAIT,609,91.7,False,positional,,Ecole Flamande,,,
 BO0624_81745,167096,72,76,PORTRAIT PORTRAIT,615,64.3,False,positional,,Ecole Flamande,,,
 BO0624_81745,167097,73,77,LE MASSACRE DES INNOCENTS.,631,94.3,False,positional,,Ecole Flamande,,,
-BO0624_81745,167098,74,1580,1657.,641,61.5,False,positional,RAVENSTEIN,,,,
+BO0624_81745,167098,74,1580,1657.,641,61.5,False,positional,RAVENSTEIN,,,,Sec. XVII
 BO0624_81745,167099,75,79,SAINT JEAN BAPTISTE puisant de l'eau.,648,96.0,False,positional,,Ecole Espagnole,,,
 BO0624_81745,167100,76,80,PORTRAIT,652,84.2,False,positional,,Ecole Espagnole,,,
 BO0624_81745,167101,77,81,INITIALE avec un Saint. Miniature sur parchemin. Cadre en bois noir.,664,89.4,False,positional,,,MINIATURES,,
@@ -82,7 +82,7 @@ BO0624_81745,167104,80,84,Deux MINIATuREs sur parchemin representant deux enterr
 BO0624_81745,167105,81,7,"8.INITIALE en miniature sur parchemin, au milieu, on voit David",670,98.4,False,positional,,,MINIATURES,,
 BO0624_81745,167106,82,8,"qui joue du violon, et le Pere Eternel dans une gloire d'anges. Cadre noir.",671,98.6,False,positional,,,MINIATURES,,
 BO0624_81745,167107,83,86,INITIALE en miniature sur parchemin. Au milieu un Pape sur un trone au pied duquel sont assis cinq savants. Cadre noir.,673,66.7,False,positional,,,MINIATURES,,
-BO0624_81745,167108,84,87,"MINIATuRE sur parchemin representant la Madone avec Enfant sur ses genoux. A cote, saint Laurent et sainte Agnes. Dans le fond, paysage et architecture. Ouvrage italien tres-in du XVI siecle.",674,99.2,False,positional,,,MINIATURES,,
+BO0624_81745,167108,84,87,"MINIATuRE sur parchemin representant la Madone avec Enfant sur ses genoux. A cote, saint Laurent et sainte Agnes. Dans le fond, paysage et architecture. Ouvrage italien tres-in du XVI siecle.",674,99.2,False,positional,,,MINIATURES,,Sec. XVI
 BO0624_81745,167109,85,88,"INITIALE en miniature sur parchemin. Au milieu, lAscension. Cadre noir.",675,97.8,False,positional,,,MINIATURES,,
 BO0624_81745,167110,86,89,MInIATuRE sur parchemin representant le massacre des innocents. Cadre noir avec des ornements en bronze.,676,98.6,False,positional,,,MINIATURES,,
 BO0624_81745,167111,87,4,"90.INITIALE en miniature sur parchemin: au milieu, la demifigure",677,98.4,False,positional,,,MINIATURES,,
@@ -94,7 +94,7 @@ BO0624_81745,167116,92,94,INIrIALE en miniature sur parchemin avec le Pere Etern
 BO0624_81745,167117,93,95,GRANDE INITIALE en miniature sur parchemin. Au milieu Dieu le Pere entoure de Cherubins. Cadre noir.,686,98.5,False,positional,,,MINIATURES,,
 BO0624_81745,167118,94,96,GRANDE INITIALE en miniature sur parchemin: au milieu Saint Paul qui dicte Pepitre a un de ses disciples. Cadre noir.,687,98.7,False,positional,,,MINIATURES,,
 BO0624_81745,167119,95,97,"GRANDE INITIALE en miniature sur parchemin. Au milieu, la Madone qui adore lenfant Jesus et deux anges jouant des instruments de musique. Cadre noir, en partie dore.",688,99.1,False,positional,,,MINIATURES,,
-BO0624_81745,167120,96,98,"DEMI-FIGURE DE FEMME representant Elisabeth Bianchini Vi ziani de lannee 1s89, ainsi quon le voit ecrit au bas a gauche du marbre. Cet ouvrage, de Lazzaro Cassari, sculpteur Bolognais, porte sa signature. Il est d'une finesse et d'une verite extraordinaire et fut cite par Paul Mantz dans larticle: Exposition retrospective de Milan.Gazette des Beaux Arts annee 1872, deuxieme periode,Tom.6,pag.461.",698,99.6,False,positional,,,Sculptures en marbre,,
+BO0624_81745,167120,96,98,"DEMI-FIGURE DE FEMME representant Elisabeth Bianchini Vi ziani de lannee 1s89, ainsi quon le voit ecrit au bas a gauche du marbre. Cet ouvrage, de Lazzaro Cassari, sculpteur Bolognais, porte sa signature. Il est d'une finesse et d'une verite extraordinaire et fut cite par Paul Mantz dans larticle: Exposition retrospective de Milan.Gazette des Beaux Arts annee 1872, deuxieme periode,Tom.6,pag.461.",698,99.6,False,positional,,,Sculptures en marbre,,Sec. XIX
 BO0624_81745,167121,97,99,BusTE D'ANTINous. Belle reproduction d’un marbre romain.,704,97.3,False,positional,,,Sculptures en marbre,,
 BO0624_81745,167122,98,100,"HAuT-RELIEr,representant la Piete. Tres-bel ouvrage, pro- bablement d'Augustin Busti dit le Bambaja.",707,70.1,False,positional,,,Sculptures en marbre,,
 BO0624_81745,167123,99,101,"STATUETTE d'un guerrier. Euvre d'Augustin Busti dit le Bambaja. Fragment du fameaux monument erige a Gaston de Foa. Ouvrage d'une grande finesse. Il manque de la main gauche, et des extremites des doigts de la main droite.",714,99.1,False,positional,,,OGGETTI VARI,,
@@ -103,7 +103,7 @@ BO0624_81745,167125,101,103,STATUETTE representant Saint Jean Baptiste. Ouvrage 
 BO0624_81745,167126,102,104,"BAs-RELIEF de forme ronde, representant un sujet allegorique.",729,96.7,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167127,103,105,Bas-RELIEF de forme ronde representant un buste de femme.,735,96.6,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167128,104,106,TeTe d’un Roi; grandeur presque nature. Socle en marbre noir.,739,74.7,False,positional,,,Sculptures en marbre,,
-BO0624_81745,167129,105,107,STATUETTE representant Saint Andre. Ouvrage tres-important du commencement du XV Siecle.,744,77.6,False,positional,,,Sculptures en marbre,,
+BO0624_81745,167129,105,107,STATUETTE representant Saint Andre. Ouvrage tres-important du commencement du XV Siecle.,744,77.6,False,positional,,,Sculptures en marbre,,Sec. XV
 BO0624_81745,167130,106,108,"CyMaise en trois pieces, avec des ornements a feuillages; au milieu de chaque piece, il y'a une figure en bas relief. Dans la piece, au centre: la Piete et lateralement, un ange agenouille.",748,98.9,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167131,107,2,Tres-bel ouvrage du celebre sculpteur Antoine Amedee de Pavie.,749,98.4,False,positional,,,Sculptures en marbre,,
 BO0624_81745,167132,108,1,O9. BAs-RELIEF representant la Madone avec Enfant sur ses,753,99.1,False,positional,,,BASSORILIEVI,,
@@ -120,8 +120,8 @@ BO0624_81745,167142,118,119,"STATUETTE en albatre, sur une base en pierre, repre
 BO0624_81745,167143,119,120,STATUETTE representant la Madone et lEnfant.,800,95.6,False,positional,,,Sculptures en marbre,,
 BO0624_81745,167144,120,121,"BAs-RELIEF en albatre, representant un eveque benissant de la croix qu'il tient dans sa main gauche. Quelques parties de ses vetements sont peints et dores.",806,98.7,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167145,121,122,"PeTITE NICHE en albatre representant l'Annonciation; dans la cymaise, le Pere Eternel. Cet ouvrage est enferme dans une boite en bois.",809,98.5,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_81745,167146,122,123,"BAs-RELIEF representant Saint Martin, avec fond de paysage. XVI Siecle. Haut.18 cent., larg.12 cent.",813,73.5,False,positional,,,BASSORILIEVI,,
-BO0624_81745,167147,123,124,"HAUT-RELIEF en pierre, representant Saint Jean. XVI Siecle.Haut.23 cent., larg.13 cent.",815,68.7,False,positional,,,Sculptures en marbre,,
+BO0624_81745,167146,122,123,"BAs-RELIEF representant Saint Martin, avec fond de paysage. XVI Siecle. Haut.18 cent., larg.12 cent.",813,73.5,False,positional,,,BASSORILIEVI,,Sec. XVI
+BO0624_81745,167147,123,124,"HAUT-RELIEF en pierre, representant Saint Jean. XVI Siecle.Haut.23 cent., larg.13 cent.",815,68.7,False,positional,,,Sculptures en marbre,,Sec. XVI
 BO0624_81745,167148,124,125,TETE DE MoINE sur une base en bois noir.,817,95.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81745,167149,125,126,BAs-RELIEF representant un religieux.,821,94.7,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167150,126,127,BUSTE D'UNE JEUNE FEMME.,825,92.0,False,positional,,,Sculptures en marbre,,
@@ -131,47 +131,47 @@ BO0624_81745,167153,129,13,o. TETE DE FEMME sur une base en bois noir. Travail r
 BO0624_81745,167154,130,131,TETE D'HoMME sur une base en pierre. Travail romain.,841,96.2,False,positional,,,Sculptures en marbre,,
 BO0624_81745,167155,131,132,TETE DE FEMME sur une base en bois noir. Travail romain.,844,96.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81745,167156,132,133,"URNE CINERAIRE avec ornements sur les parties laterales et L.CONEIANIVs. JUSTUS. CONIUGI. DULCISSIME, aVec un joli encadrementen bas-relief de guirlandes de feurs, mascarons, sphinx, sur le devant linscription suivante:D. M. M. ANroNIE JULIE oiseaux, etc. Joli travail romain et de belle conservation.",845,74.9,False,positional,,,BASSORILIEVI,,
-BO0624_81745,167157,133,134,L'AMoUR assis sur le globe. Joli travail du XVII Siecle.,852,96.4,False,positional,,,Sculptures en terre cuite,,
-BO0624_81745,167158,134,135,DeUx ENFANTs qui luttent. Travail forentin du XVI Siecle. Haut.46cent.,856,97.1,False,positional,,,Sculptures en terre cuite,,
+BO0624_81745,167157,133,134,L'AMoUR assis sur le globe. Joli travail du XVII Siecle.,852,96.4,False,positional,,,Sculptures en terre cuite,,Sec. XVII
+BO0624_81745,167158,134,135,DeUx ENFANTs qui luttent. Travail forentin du XVI Siecle. Haut.46cent.,856,97.1,False,positional,,,Sculptures en terre cuite,,Sec. XVI
 BO0624_81745,167159,135,136,"GROUPE D'UN PETIT ENFANT, et d’un satyre. Travail italien",857,96.5,False,positional,,,Sculptures en terre cuite,,
 BO0624_81745,167160,136,137,Bas-RELIEF de forme ovale representant la Piete avec deux,862,96.6,False,positional,,,BASSORILIEVI,,
-BO0624_81745,167161,137,138,TETE DUNE VIEILLE FEMME. Beau travail du XVII Siecle.,867,96.2,False,positional,,,Sculptures en terre cuite,,
-BO0624_81745,167162,138,139,BAs-RELIEF representant des dames et des cavaliers. Travail du XVIII Siecle.,871,97.4,False,positional,,,BASSORILIEVI,,
-BO0624_81745,167163,139,140,"BAs-RELIEF avec trois figures. Travail du XVI Siecle. Haut. s3 cent.,larg.50cent",875,97.4,False,positional,,,BASSORILIEVI,,
+BO0624_81745,167161,137,138,TETE DUNE VIEILLE FEMME. Beau travail du XVII Siecle.,867,96.2,False,positional,,,Sculptures en terre cuite,,Sec. XVII
+BO0624_81745,167162,138,139,BAs-RELIEF representant des dames et des cavaliers. Travail du XVIII Siecle.,871,97.4,False,positional,,,BASSORILIEVI,,Sec. XVIII
+BO0624_81745,167163,139,140,"BAs-RELIEF avec trois figures. Travail du XVI Siecle. Haut. s3 cent.,larg.50cent",875,97.4,False,positional,,,BASSORILIEVI,,Sec. XVI
 BO0624_81745,167164,140,141,"Bas-RELIEF tres-fin representant Saint Antoine abbe dans un paysage, le tout dans une guirlande de feurs et de fruits. Signe: ALEXANDER. BROLVs. INV.ET.F. Ce travail est enfermé dans un cadre en bois. Ouvrage du XVIHI Siecle.",877,84.0,False,positional,,,BASSORILIEVI,,
-BO0624_81745,167165,141,142,HAUT-RELIEF de forme ovale representant Apollon nu. Tra- vail du XVIII Siecle.,881,81.2,False,positional,,,Sculptures en terre cuite,,
-BO0624_81745,167166,142,143,HaUT-RELIEF representant la Sainte Famille dans une niche. Travail du XVIII Siecle.,886,80.3,False,positional,,,Sculptures en terre cuite,,
-BO0624_81745,167167,143,144,"BAs-RELIEF en stuc, representant Saint Joseph et la Madone adorant P'enfant Jesus, entoures d'une gloire d'anges. Travail du XVI siecle.",892,72.1,False,positional,,,BASSORILIEVI,,
+BO0624_81745,167165,141,142,HAUT-RELIEF de forme ovale representant Apollon nu. Tra- vail du XVIII Siecle.,881,81.2,False,positional,,,Sculptures en terre cuite,,Sec. XVIII
+BO0624_81745,167166,142,143,HaUT-RELIEF representant la Sainte Famille dans une niche. Travail du XVIII Siecle.,886,80.3,False,positional,,,Sculptures en terre cuite,,Sec. XVIII
+BO0624_81745,167167,143,144,"BAs-RELIEF en stuc, representant Saint Joseph et la Madone adorant P'enfant Jesus, entoures d'une gloire d'anges. Travail du XVI siecle.",892,72.1,False,positional,,,BASSORILIEVI,,Sec. XVI
 BO0624_81745,167168,144,145,"GROUPE DE PLUSIEURs FIGUREs dans des attitudes differentes, autour d'une chaire, les unes debout et d'autres assises; sur le devant, un enfant s'amusant avec un petit chien.",898,98.8,False,positional,,,Sculptures en bois,,
-BO0624_81745,167169,145,146,"LA DEposITroN. Travail famand, assez rare, du XV Siecle.",906,96.3,False,positional,,,Sculptures en bois,,
-BO0624_81745,167170,146,147,"LA MADoNE sUR LE TRONE avec lEnfant sur ses genoux et au dessus, deux anges qui soutiennent une couronne. Sculpture allemande du XVI Siecle.",909,98.6,False,positional,,,Sculptures en bois,,
-BO0624_81745,167171,147,148,"BAs-RELIEF representant la Madone et l'Enfant, dans une niche de style gothique. Sculpture venitienne du XV Siecle. L'enfant manque du bras droit.",913,98.6,False,positional,,,Sculptures en bois,,
-BO0624_81745,167172,148,149,"Deux ANGEs agenouilles soutenant deux ecussons en partie peints et dores: un des anges manque des deux mains, et Pautre de la main droite. Travail italien du XV Siecle.",919,98.8,False,positional,,,Sculptures en bois,,
+BO0624_81745,167169,145,146,"LA DEposITroN. Travail famand, assez rare, du XV Siecle.",906,96.3,False,positional,,,Sculptures en bois,,Sec. XV
+BO0624_81745,167170,146,147,"LA MADoNE sUR LE TRONE avec lEnfant sur ses genoux et au dessus, deux anges qui soutiennent une couronne. Sculpture allemande du XVI Siecle.",909,98.6,False,positional,,,Sculptures en bois,,Sec. XVI
+BO0624_81745,167171,147,148,"BAs-RELIEF representant la Madone et l'Enfant, dans une niche de style gothique. Sculpture venitienne du XV Siecle. L'enfant manque du bras droit.",913,98.6,False,positional,,,Sculptures en bois,,Sec. XV
+BO0624_81745,167172,148,149,"Deux ANGEs agenouilles soutenant deux ecussons en partie peints et dores: un des anges manque des deux mains, et Pautre de la main droite. Travail italien du XV Siecle.",919,98.8,False,positional,,,Sculptures en bois,,Sec. XV
 BO0624_81745,167173,149,15,o. Deux sTATUETrEs sur piedestal noir representant la Vierge et Saint Jean. Dans la partie posterieure de la statuette representant la Vierge on voit le monogramme de Pauteur et la date: 16.D.E. 66.,923,99.5,False,positional,,,Sculptures en bois,,
-BO0624_81745,167174,150,151,"TrEs-BEAU CADRE, en bois sculpte et dore contenant un bas-relief en ivoire representant la tete de Plynius. Travail du XVIII Siecle.",927,98.5,False,positional,,,Sculptures en bois,,
+BO0624_81745,167174,150,151,"TrEs-BEAU CADRE, en bois sculpte et dore contenant un bas-relief en ivoire representant la tete de Plynius. Travail du XVIII Siecle.",927,98.5,False,positional,,,Sculptures en bois,,Sec. XVIII
 BO0624_81745,167175,151,I52,"CRossE D'uN FUsI, avec des ornements, figures de guerriers, chiens de chasse etc.",931,97.5,False,positional,,,Sculptures en bois,,
 BO0624_81745,167176,152,153,"MorTIER entoure de bas-reliefs; au milieu, une bacchanale de petits enfants, sur la partie superieure, des figures allegoriques et des petits amours; dans le bas on lit linscription sui vante: ANToNIvs. DE. ALTENIs. ME. Tres-joli modele, de travail italien.XV Siecle.",941,99.2,False,positional,,,BASSORILIEVI,,
-BO0624_81745,167177,153,154,"STATUETTe. Figure allegorique d'une femme assise tenant un agneau sur ses genoux, un vase de la main droite et des fruits et feuilles dans la main gauche. Sa tete est couronnee d'un diademe et la pupille des yeux est en argent. Travail du XVI Siecle.",947,99.2,False,positional,,,VASI,,
+BO0624_81745,167177,153,154,"STATUETTe. Figure allegorique d'une femme assise tenant un agneau sur ses genoux, un vase de la main droite et des fruits et feuilles dans la main gauche. Sa tete est couronnee d'un diademe et la pupille des yeux est en argent. Travail du XVI Siecle.",947,99.2,False,positional,,,VASI,,Sec. XVI
 BO0624_81745,167178,154,155,"ENcRIEr de forme triangulaire, soutenu par trois petits amours; aux angles, des mascarons ailes; sur le couvercle, statuette",951,98.3,False,positional,,,BRONZES,,
 BO0624_81745,167179,155,156,"MorTieR a deux anses; le bord superieur est orne d'un bas relief avec des amours et des guirlandes de feurs; au centre, quatre plaquettes rectangulaires, dont deux avec armoiries et les autres representant Diane Chasseresse et un chien avec deux cerfs.",957,99.2,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167180,156,157,"MorTIer a deux anses formees par deux dauphins; la partie exterieure est richement ornee de bas reliefs, chimeres,bucranes, crabes et ecussons armories.",963,98.7,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167181,157,158,"Vase, a amphore sur piedouche a base carree avec deux anses se terminant par des mascarons. Sur la panse deux medaillons avec bas-reliefs.",969,98.5,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167182,158,159,"STATUETTE de David debout, ayant sous ses pieds la tete de Goliath et dans la main droite une epee dont la pointe perce la tete du geant. Cette statuette est posee sur une base triangulaire a trois pieds formes par des tetes de belier.",975,84.9,False,positional,,,BRONZES,,
-BO0624_81745,167183,159,160,STATUETTE representant Saint Jean debout. Socle en bois noir XVII Siecle.,984,97.3,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_81745,167184,160,161,Groupe. Samson nu dechirant la gueule du lion. Bronze Venitien a cire perdue. XV Siecle.,988,66.7,False,positional,,,BRONZES,,
-BO0624_81745,167185,161,162,"BusTE DE FLoRA. Ce buste a la tete en bronze, le paludamentum en albatre et la base en marbre colorie. Travail italien du XVII Siecle.",992,85.0,False,positional,,,BRONZES,,
-BO0624_81745,167186,162,163,STATUETTE de Saint Jean en bronze dore. Travail italien. XVII Siecle.,997,70.4,False,positional,,,BRONZES,,
-BO0624_81745,167187,163,164,FIGURE de la Vierge et l'Enfant. Tres-beau travail italien du XVII Siecle.,1003,71.9,False,positional,,,BRONZES,,
+BO0624_81745,167183,159,160,STATUETTE representant Saint Jean debout. Socle en bois noir XVII Siecle.,984,97.3,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_81745,167184,160,161,Groupe. Samson nu dechirant la gueule du lion. Bronze Venitien a cire perdue. XV Siecle.,988,66.7,False,positional,,,BRONZES,,Sec. XV
+BO0624_81745,167185,161,162,"BusTE DE FLoRA. Ce buste a la tete en bronze, le paludamentum en albatre et la base en marbre colorie. Travail italien du XVII Siecle.",992,85.0,False,positional,,,BRONZES,,Sec. XVII
+BO0624_81745,167186,162,163,STATUETTE de Saint Jean en bronze dore. Travail italien. XVII Siecle.,997,70.4,False,positional,,,BRONZES,,Sec. XVII
+BO0624_81745,167187,163,164,FIGURE de la Vierge et l'Enfant. Tres-beau travail italien du XVII Siecle.,1003,71.9,False,positional,,,BRONZES,,Sec. XVII
 BO0624_81745,167188,164,165,PerIT-sEAU a manche mobile orne de deux animaux. La partie exterieure est enrichie d'ornements graves et de deux ecussons armories.,1007,91.0,False,positional,,,OGGETTI VARI,,
 BO0624_81745,167189,165,166,CHIEN LEvRIER assis sur ses pattes de derriere.,1014,95.8,False,positional,,,BRONZES,,
-BO0624_81745,167190,166,167,CHANDELIER de jolie forme avec ornements graves. Travail Venitien. XVI Siecle.,1018,97.4,False,positional,,,CANDELABRI,,
-BO0624_81745,167191,167,168,"CLocHETTE ornee de bas-reliefs, representant: Orphee, des tetes d'Empereurs romains, des animaux etc.: au centre, un ecusson autour duquel l'inscription suivante: opvs PETRI. (Manque le manche). Travail italien XVI Siecle.",1023,84.9,False,positional,,,BASSORILIEVI,,
+BO0624_81745,167190,166,167,CHANDELIER de jolie forme avec ornements graves. Travail Venitien. XVI Siecle.,1018,97.4,False,positional,,,CANDELABRI,,Sec. XVI
+BO0624_81745,167191,167,168,"CLocHETTE ornee de bas-reliefs, representant: Orphee, des tetes d'Empereurs romains, des animaux etc.: au centre, un ecusson autour duquel l'inscription suivante: opvs PETRI. (Manque le manche). Travail italien XVI Siecle.",1023,84.9,False,positional,,,BASSORILIEVI,,Sec. XVI
 BO0624_81745,167192,168,169,STATuETTE. Un Evangeliste assis lisant un livre qu'il tient ouvert sur ses genoux.,1027,97.6,False,positional,,,BRONZES,,
-BO0624_81745,167193,169,I,talien. XVI Siecle.,1031,97.1,False,positional,,,BRONZES,,
-BO0624_81745,167194,170,17,o. PIED D'UN FLAMBEAU richement grave. Travail Venitien. XVI Siecle.,1032,98.5,False,positional,,,BRONZES,,
+BO0624_81745,167193,169,I,talien. XVI Siecle.,1031,97.1,False,positional,,,BRONZES,,Sec. XVI
+BO0624_81745,167194,170,17,o. PIED D'UN FLAMBEAU richement grave. Travail Venitien. XVI Siecle.,1032,98.5,False,positional,,,BRONZES,,Sec. XVI
 BO0624_81745,167195,171,171,AIGLE coURONNE faisant partie d’un ecusson.,1033,95.5,False,positional,,,BRONZES,,
 BO0624_81745,167196,172,172,DEMI-FIGURE de Saint. (Manque lavant bras droit).,1037,95.7,False,positional,,,BRONZES,,
-BO0624_81745,167197,173,173,BusTE DE FEMME faisant partie d'une anse de vase. Tres-belle patine. XIII Siecle.,1041,97.5,False,positional,,,VASI,,
+BO0624_81745,167197,173,173,BusTE DE FEMME faisant partie d'une anse de vase. Tres-belle patine. XIII Siecle.,1041,97.5,False,positional,,,VASI,,Sec. XIII
 BO0624_81745,167198,174,174,Groupe forme par un crapaud mordant la queue d'un lezard place sur son dos et qui a son tour tient dans sa bouche un scarabee.,1045,94.7,False,positional,LA TOUR MAURICE-QUENTIN DE,,BRONZES,,
 BO0624_81745,167199,175,175,FIGURINE D'APPLIQUE representant un Saint tenant dans sa main droite un encensoir. Bronze dore.,1050,73.2,False,positional,,,BRONZES,,
 BO0624_81745,167200,176,176,AuTRE FIGURINE D'APPLIQUE. Dieu le Pere assis. Fragment d'une croix.,1055,97.0,False,positional,,,OGGETTI VARI,,
@@ -201,9 +201,9 @@ BO0624_81745,167223,199,199,"PLAQUETTE en bronze, rectangulaire. Un sacrifice. R
 BO0624_81745,167224,200,200,PLAQUETTE en bronze de forme ovale. La Madone assise sur des nuages tient sur ses genoux le Divin Enfant.,1190,66.7,False,positional,,,BRONZES,,
 BO0624_81745,167225,201,201,"PLAQUETTE en bronze, rectangulaire. Saint-Jerome agenouille devant une croix.",1194,97.4,False,positional,,,BRONZES,,
 BO0624_81745,167226,202,202,PLAQUETTE en bronze rectangulaire. La Circoncision.,1198,96.1,False,positional,,,BRONZES,,
-BO0624_81745,167227,203,2,Tres-jolie composition du XVI Siecle.,1199,97.3,False,positional,,,BRONZES,,
+BO0624_81745,167227,203,2,Tres-jolie composition du XVI Siecle.,1199,97.3,False,positional,,,BRONZES,,Sec. XVI
 BO0624_81745,167228,204,204,PLAQUETTE en bronze rectangulaire. Le Christ mort soutenu,1208,96.6,False,positional,,,BRONZES,,
-BO0624_81745,167229,205,205,"PLAQuETTE en bronze rectangulaire, representant deux Saints. Style Byzantin. XIII Siecle. Tres-rare.",1214,97.9,False,positional,,,BRONZES,,
+BO0624_81745,167229,205,205,"PLAQuETTE en bronze rectangulaire, representant deux Saints. Style Byzantin. XIII Siecle. Tres-rare.",1214,97.9,False,positional,,,BRONZES,,Sec. XIII
 BO0624_81745,167230,206,206,PLAQUETTE en bronze cintree. L'adoration des Mages.,1218,96.1,False,positional,,,BRONZES,,
 BO0624_81745,167231,207,207,PLAQUETTE rectangulaire en bronze.Le triomphe de la Re-,1222,96.4,False,positional,,,BRONZES,,
 BO0624_81745,167232,208,208,PLAQuETTE en bronze de forme rectangulaire. L'adoration,1230,96.4,False,positional,,,BRONZES,,
@@ -211,19 +211,19 @@ BO0624_81745,167233,209,209,PLAQUETTE ovale en bronze representant un sacrifice 
 BO0624_81745,167234,210,210,"GRANDE PLAQUE rectangulaire en bronze. La Deposition avec beaucoup de figures dont quelques-unes en tres-haut relief. Piece splendide, attribuee a Andrea Riccio de Padoue.",1244,98.8,False,positional,ANDREA BRIOSCO DETTO IL RICCIO,,BRONZES,,
 BO0624_81745,167235,211,211,"PLAQUETTE rectangulaire en bronze dore. Le Christ depose au tombeau et figures de la Vierge, la Madeleine et d'autres saints.",1248,98.4,False,positional,,,BRONZES,,
 BO0624_81745,167236,212,212,"PLAQuETTE en bronze de forme carree avec traces de dorure, representant la Vierge et l'Enfant entoures d'anges, dans un encadrement avec des ornements en relief.",1255,77.7,False,positional,,,OGGETTI VARI,,
-BO0624_81745,167237,213,213,PLAQuE en bronze rectangulaire. Le couronnement de la Vierge. Travail du XVIII Siecle.,1259,97.6,False,positional,,,LAMPADE,,
+BO0624_81745,167237,213,213,PLAQuE en bronze rectangulaire. Le couronnement de la Vierge. Travail du XVIII Siecle.,1259,97.6,False,positional,,,LAMPADE,,Sec. XVIII
 BO0624_81745,167238,214,214,"PLAQUE en bronze de forme ovale avec traces de dorure, representant une Bacchante. Reproduction ancienne d'une des figures qui ornent la fameuse patere dite: di casa Martelli di Firenze actuellement a Londres.",1263,99.0,False,positional,,,BRONZES,,
 BO0624_81745,167239,215,215,"PLAQUETTE en bronze de forme rectangulaire representant en haut-relief la Lucrece romaine se poignardant. Fond de paysage et au pied d'un tronc d'arbre, un cartel avec les lettres: A.R. Reproduction ancienne d'une gravure de Marc Antonio Raimondi.",1269,99.2,False,positional,,Scuola Romana,STAMPE E INCISIONI,,
-BO0624_81745,167240,216,216,PLAQuE carree en bronze. La Piete avec la Vierge et Saint Jean. Tres-joli travail du XV Siecle.,1272,97.9,False,positional,,,BRONZES,,
-BO0624_81745,167241,217,217,PLAQUE en bronze rectangulaire. Le Crucifiement. Travail du XVII Siecle.,1278,97.2,False,positional,,,BRONZES,,
+BO0624_81745,167240,216,216,PLAQuE carree en bronze. La Piete avec la Vierge et Saint Jean. Tres-joli travail du XV Siecle.,1272,97.9,False,positional,,,BRONZES,,Sec. XV
+BO0624_81745,167241,217,217,PLAQUE en bronze rectangulaire. Le Crucifiement. Travail du XVII Siecle.,1278,97.2,False,positional,,,BRONZES,,Sec. XVII
 BO0624_81745,167242,218,218,PLAQuE en bronze de forme ovale. Le triomphe de Venus. Travail du XVIH Siecle.,1282,97.4,False,positional,,,BRONZES,,
-BO0624_81745,167243,219,219,"PLAQUETTE en bronze rectangulaire, a double face, d'un cote, Tres-beau travail de Valerio Belli; piece de superbe con- ladoration des Mages, de lautre, la presentation au temple. servation. XVI Siecle.",1286,73.4,False,positional,,,BRONZES,,
-BO0624_81745,167244,220,220,"PLAQUETTE en bronze, rectangulaire avec traces de dorure. La Piete. Piece rare du XV Siecle.",1291,74.8,False,positional,,,BRONZES,,
+BO0624_81745,167243,219,219,"PLAQUETTE en bronze rectangulaire, a double face, d'un cote, Tres-beau travail de Valerio Belli; piece de superbe con- ladoration des Mages, de lautre, la presentation au temple. servation. XVI Siecle.",1286,73.4,False,positional,,,BRONZES,,Sec. XVI
+BO0624_81745,167244,220,220,"PLAQUETTE en bronze, rectangulaire avec traces de dorure. La Piete. Piece rare du XV Siecle.",1291,74.8,False,positional,,,BRONZES,,Sec. XV
 BO0624_81745,167245,221,221,PETITE PLAQUETTE rectangulaire en bronze. La Piete et trois figures.,1296,97.1,False,positional,,,BRONZES,,
 BO0624_81745,167246,222,222,PLAQUETTE rectangulaire en bronze. Saint Jerome debout au milieu d'anciennes ruines. Piece signee: VLocRINo.,1302,98.1,False,positional,,,BRONZES,,
 BO0624_81745,167247,223,223,"PLAQUETTE cintree, en bronze dore, representant en haut relief, la deposition de la Croix.",1306,74.1,False,positional,,,BRONZES,,
 BO0624_81745,167248,224,224,"PLAQuE en bronze de forme rectangulaire,representant le Christ mort, la Sainte Vierge et deux anges.",1310,70.1,False,positional,,,BRONZES,,
-BO0624_81745,167249,225,225,"PLAQUE rectangulaire en bronze, representant la deposition du Christ au tombeau, dans le fond, le Calvaire et sur le devant du tombeau des petites figures en bas-relief. Tres-belle composition du XVI Siecle.",1315,99.0,False,positional,,,BASSORILIEVI,,
+BO0624_81745,167249,225,225,"PLAQUE rectangulaire en bronze, representant la deposition du Christ au tombeau, dans le fond, le Calvaire et sur le devant du tombeau des petites figures en bas-relief. Tres-belle composition du XVI Siecle.",1315,99.0,False,positional,,,BASSORILIEVI,,Sec. XVI
 BO0624_81745,167250,226,226,PLAQuETTE en bronze de forme ovale. Le Jugement de Paris. Signee: VALE. vIN. F. Travail de Valerio Belli Vicentino.,1319,98.2,False,positional,,,BRONZES,,
 BO0624_81745,167251,227,227,"DEUx PLAQUETTEs en bronze de forme ovale, dont l'une represente le triomphe d'Amour, lautre, le triomphe de la Renommee.",1325,98.3,False,positional,,,BRONZES,,
 BO0624_81745,167252,228,228,"PLAQUETTE en bronze, rectangulaire. La Piete. Tres-joli travail et tres-belle conservation.",1331,97.8,False,positional,,,BRONZES,,
@@ -244,8 +244,8 @@ BO0624_81745,167266,242,242,PLAQuETTE en bronze de forme circulaire. Saint Jerom
 BO0624_81745,167267,243,243,"PLAQUETTE rectangulaire en bronze, avec Saint Jerome en haut-relief.",1402,97.1,False,positional,,,BRONZES,,
 BO0624_81745,167268,244,244,PETITE PLAQUETTE ovale en bronze. Hercule etouffant le,1406,96.4,False,positional,,,BRONZES,,
 BO0624_81745,167269,245,245,PLAQUETTE ovale en bronze. Buste de Minerve.,1414,95.5,False,positional,,,BRONZES,,
-BO0624_81745,167270,246,246,"PETITE PLAQUETTE en bronze dore, de forme cintre, avec la figure a mi-corps de Dieu le Pere. Gracieux travail du XVI Siecle.",1417,98.4,False,positional,,,BRONZES,,
-BO0624_81745,167271,247,247,PLAQUETTE ronde en bronze dore. Le triomphe de Bacchus. Tres-jolie composition. XVII Siecle.,1421,97.8,False,positional,,,BRONZES,,
+BO0624_81745,167270,246,246,"PETITE PLAQUETTE en bronze dore, de forme cintre, avec la figure a mi-corps de Dieu le Pere. Gracieux travail du XVI Siecle.",1417,98.4,False,positional,,,BRONZES,,Sec. XVI
+BO0624_81745,167271,247,247,PLAQUETTE ronde en bronze dore. Le triomphe de Bacchus. Tres-jolie composition. XVII Siecle.,1421,97.8,False,positional,,,BRONZES,,Sec. XVII
 BO0624_81745,167272,248,248,PLAQUETTE ovale en bronze. Un sacrifice. Tres-jolie composition. Probablement de Valerio Belli.,1425,97.8,False,positional,,,BRONZES,,
 BO0624_81745,167273,249,249,"PLAQuETTE en bronze a forme d’écusson, representant, Mu-",1429,96.4,False,positional,,,BRONZES,,
 BO0624_81745,167274,250,2,zius Scevola posant la main sur un braisier ardent. Dans le bas: les initiales de lauteur: 1o. F.F. (Giovanni Fiorentino detto delle corniole).,1430,99.3,False,positional,,,BRONZES,,
@@ -263,9 +263,9 @@ BO0624_81745,167285,261,26,o. PLaQuETTE ronde en bronze dore representant un por
 BO0624_81745,167286,262,261,PLAQuETTE en bronze de forme circulaire.Hercule etouffant le lion.,1498,90.5,False,positional,,,BRONZES,,
 BO0624_81745,167287,263,262,PLAQUETTE ronde en bronze. Sujet Mythologique. Signee dans le bas: Io. F. F.,1503,97.2,False,positional,,,BRONZES,,
 BO0624_81745,167288,264,263,PLAQUETTE ovale en bronze. Portrait de Virgile Napoletano.,1507,96.6,False,positional,,,BRONZES,,
-BO0624_81745,167289,265,264,"PLAQUETTE en bronze de forme ovale. La Deposition, dans un contour d'ornements graves. Signee XVI Siecle.",1511,67.1,False,positional,,,OGGETTI VARI,,
+BO0624_81745,167289,265,264,"PLAQUETTE en bronze de forme ovale. La Deposition, dans un contour d'ornements graves. Signee XVI Siecle.",1511,67.1,False,positional,,,OGGETTI VARI,,Sec. XVI
 BO0624_81745,167290,266,265,PLAQuETTE en bronze de forme circulaire. Sujet allegorique avec linscription suivante:vIRTVs. NVNQ. DEFICIT.,1516,69.1,False,positional,,,BRONZES,,
-BO0624_81745,167291,267,266,"PLAQUETTE ovale en bronze: Ganymede enleve par l'aigle. XVII Siecle.Haut.6 cent.,larg.9 cent.",1523,72.6,False,positional,,,BRONZES,,
+BO0624_81745,167291,267,266,"PLAQUETTE ovale en bronze: Ganymede enleve par l'aigle. XVII Siecle.Haut.6 cent.,larg.9 cent.",1523,72.6,False,positional,,,BRONZES,,Sec. XVII
 BO0624_81745,167292,268,267,PLAQUETTE en bronze dore de forme circulaire. Le triomphe de Silene.,1525,97.1,False,positional,,,BRONZES,,
 BO0624_81745,167293,269,268,PLAQUETTE ovale en bronze:La Piete avec ornements aux quatre angles.,1529,97.1,False,positional,,,OGGETTI VARI,,
 BO0624_81745,167294,270,269,MEDAILLE. Buste d'Isotta de Rimini. Legende: ISOTE. ARI- MINENSIS. FORMA.ET. VIRTVTE.ITALIE. DECORI.Au revers:Un elephant et la legende: M. CCCc. x.LVI.— OPvs. MATHEI. DE.PAsTIs.v.(Bronze).,1535,82.2,False,positional,,,BRONZES,,
@@ -276,7 +276,7 @@ BO0624_81745,167298,274,273,"MEDAILLE, avec le portrait d'un general commandant 
 BO0624_81745,167299,275,274,MEDaILLE avec le buste de Pietro Paolo Avita romano. D'apres la legende quon lit autour. (Bronze).,1563,97.9,False,positional,,,BRONZES,,
 BO0624_81745,167300,276,275,MeDAILLE avec le portrait de Hanne Duc de Giojosa. A la fin de la legende les initiales de lartiste: R. G. (Bronze).,1568,66.7,False,positional,,,BRONZES,,
 BO0624_81745,167301,277,276,MeDAILLE avec le portrait de Jean Sigismond Roi de Hongrie.,1572,96.7,False,positional,,,BRONZES,,
-BO0624_81745,167302,278,277,"MEDAILLE avec le portrait de Cosme II des Medicis, Duc d'Etrurie. Au dessous du bras, les initiales de l'artiste: c. D. P.1623.(Plomb).",1576,93.0,False,positional,,,BRONZES,,
+BO0624_81745,167302,278,277,"MEDAILLE avec le portrait de Cosme II des Medicis, Duc d'Etrurie. Au dessous du bras, les initiales de l'artiste: c. D. P.1623.(Plomb).",1576,93.0,False,positional,,,BRONZES,,Sec. XVII
 BO0624_81745,167303,279,278,MEDAILLE. Diane Chasseresse. (Plomb).,1581,94.1,False,positional,,,BRONZES,,
 BO0624_81745,167304,280,279,MEDAILLE avec le portrait de Speron Speroni. (Plomb).,1585,96.1,False,positional,,,BRONZES,,
 BO0624_81745,167305,281,280,MEDAILLE avec le Crucifiement. (Metal blanc).,1589,95.3,False,positional,,,OGGETTI IN METALLO,,
@@ -286,7 +286,7 @@ BO0624_81745,167308,284,283,BaisER DE PAIx en bronze de forme cintree representa
 BO0624_81745,167309,285,284,GRAND ROBINET en bronze termine par une tete de lion et la clef formee par un sphinx.,1607,97.7,False,positional,,,BRONZES,,
 BO0624_81745,167310,286,285,PLar rond decore a refets metalliques avec bord a ornements et dans le centre un bufle sur un carrelage a echiquier. Retenu pour une des premieres ceuvres de Mastro Giorgio.,1619,98.8,False,positional,,,OGGETTI VARI,,
 BO0624_81745,167311,287,286,"PLAQuE en haut-relief a refets metalliques, representant le Christ en croix entre deux saints. Euvre de Mastro Giorgio, de sa premiere epoque.",1623,98.6,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167312,288,287,"FRAGMENT d'ecuelle decoree a refets metalliques, avec bord a feuillages et fruits; dans le centre, un gracieux buste de femme en demi-relief. Au revers, la lettre A de Giorgio Andreoli, marque de ses premieres ceuvres au commencement du XVI Siecle.",1627,96.2,False,positional,,,OGGETTI VARI,,
+BO0624_81745,167312,288,287,"FRAGMENT d'ecuelle decoree a refets metalliques, avec bord a feuillages et fruits; dans le centre, un gracieux buste de femme en demi-relief. Au revers, la lettre A de Giorgio Andreoli, marque de ses premieres ceuvres au commencement du XVI Siecle.",1627,96.2,False,positional,,,OGGETTI VARI,,Sec. XVI
 BO0624_81745,167313,289,288,FRAGMENT d’un plat a refets metalliques representant Judith avec la tete d'Holopherne en relief.,1631,74.7,False,positional,,,OGGETTI VARI,,
 BO0624_81745,167314,290,289,"Vase a panse spherique sur piedouche, avec deux manches decores a refets metalliques avec simples ornements de feuilles et feurs en bleu et jaune. Voyez planche XVIII.",1636,98.8,False,positional,,,OGGETTI VARI,,
 BO0624_81745,167315,291,290,"PLAT creux, decor a reflets metalliques, avec linscription PENSA EL FINE BELLA. Au revers, la lettre B et autres Ornements a reflets metalliques.",1640,98.6,False,positional,,,OGGETTI VARI,,
@@ -295,18 +295,18 @@ BO0624_81745,167317,293,292,"Vase de forme cylindrique, sans couvercle, decore e
 BO0624_81745,167318,294,293,"GRAND vAsE de forme cylindrique, sans couvercle, decore de feuillages en couleur bleue et de trois demi-figures. Dans un cartouche:LACTVGE. DITE.",1652,98.6,False,positional,,,VASI,,
 BO0624_81745,167319,295,294,"GRAND vAsE de forme cylindrique a riche decor polychrome avec cherubins, oiseaux, trophees d'armes etc.: et circuit d'une couronne de chene; au centre, la Charite portee par deux anges. Dans un cartel, linscription: zvCAM ROsATvM.",1657,85.2,False,positional,,,VASI,,
 BO0624_81745,167320,296,295,"EcuELLE avec decor polychrome sur les deux faces. Au re vers, la marque de fabrique: M. T.",1660,75.5,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167321,297,296,"PLAT avec un petit creux, decor bleu. Au centre, dans un cartouche: DIo. LAUDATo. Au revers, la date 1539.",1665,68.4,False,positional,,,PIATTI,,
+BO0624_81745,167321,297,296,"PLAT avec un petit creux, decor bleu. Au centre, dans un cartouche: DIo. LAUDATo. Au revers, la date 1539.",1665,68.4,False,positional,,,PIATTI,,Sec. XVI
 BO0624_81745,167322,298,297,"GRAND PLAT avec le marli orne de feuillages bleus sur fond jaune. Au centre, plusieurs figures de femmes au bain.",1670,67.4,False,positional,,,PIATTI,,
 BO0624_81745,167323,299,298,"PLAT avec un petit creux, le marli est decore tres-finement de trophees d'armes en grisaille sur fond bleu. Dans le centre: Saint Francois a genoux, avec fond de paysage. Au revers, des ornements jaunes et bleus. Piece tres-rare et d'excellente conservation.",1675,99.2,False,positional,,,OGGETTI VARI,,
 BO0624_81745,167324,300,299,"PLAT avec petit creux, le marli a berettino decore de masques et au centre, ecusson armoire, le tout orne de filets blancs. Au revers, la marque de fabrique.",1679,86.9,False,positional,,,PIATTI,,
 BO0624_81745,167325,301,300,"PLAT avec petit creux a decors tres-fins bleus et blancs. Dans le fond un pigeon, un instrument de musique et la legende: ALTRO DILETTO CHE IMPARAR NO TROVO.Au revers de simples filets bleus. Piece d'excellente conservation et assez rare.",1684,99.1,False,positional,,,PIATTI,,
 BO0624_81745,167326,302,301,PLAT a decor de trophee d'armes et d'instruments de musique en grisaille sur fond bleu et un ecusson avec les ini tiales R. R. (probablement celles de lartiste). Dans le centre une fort belle tete egalement en grisaille illuminee de traits en blanc laiteux.,1688,95.7,False,positional,,,PIATTI,,
 BO0624_81745,167327,303,302,FRAGMENT d'un plat avec la figure du Christ portant la croix. Fond de paysage.,1692,97.4,False,positional,,,OGGETTI VARI,,
-BO0624_81745,167328,304,303,"PLAQuE de forme rectangulaire representant le bapteme du Christ; Dieu le Pere entoure d'anges et de cherubins, la Vierge et trois femmes dont une jouant de la mandoline, le tout, sur fond de paysage. Au pied du Christ linscription: W. DO. PA. LOM. 1545; cette date est repete dans le bas a gauche.",1698,88.6,False,positional,,,FAIENCES ITALIENNES,,
+BO0624_81745,167328,304,303,"PLAQuE de forme rectangulaire representant le bapteme du Christ; Dieu le Pere entoure d'anges et de cherubins, la Vierge et trois femmes dont une jouant de la mandoline, le tout, sur fond de paysage. Au pied du Christ linscription: W. DO. PA. LOM. 1545; cette date est repete dans le bas a gauche.",1698,88.6,False,positional,,,FAIENCES ITALIENNES,,Sec. XVI
 BO0624_81745,167329,305,304,Bas-RELIEF representant la Veirge a mi-corps avec l'enfant Jesus nu debout.,1703,97.4,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167330,306,305,"FRAGMENT d'un plat avec le lion de Saint Marc en relief, peint en bleu et jaune sur fond bleu clair. Au revers D",1707,98.2,False,positional,,,OGGETTI VARI,,
 BO0624_81745,167331,307,306,"Deux vAsEs de forme cylindrique a decor polychrome avec deux bustes de negres dans la partie inferieure et dans le haut un saint et une sainte. Sous les bustes des negres, dans un ecusson, les armoiries de la maison Albani, et au dessus des saints les initiales S.G.",1713,94.2,False,positional,,,VASI,,
-BO0624_81745,167332,308,307,"GRAND PLAT a decor polychrome renfermant une riche comRaphael, grave par Marc Antoine. Au revers. O. A. P. P. 1548. position avec nombre de figures a pied et a cheval sur fond de paysage. Sujet tire de lEneide,d'apres un dessin de Piece importante soit par Pepoque que par sa conservation.",1719,76.1,False,positional,,,PIATTI,,
+BO0624_81745,167332,308,307,"GRAND PLAT a decor polychrome renfermant une riche comRaphael, grave par Marc Antoine. Au revers. O. A. P. P. 1548. position avec nombre de figures a pied et a cheval sur fond de paysage. Sujet tire de lEneide,d'apres un dessin de Piece importante soit par Pepoque que par sa conservation.",1719,76.1,False,positional,,,PIATTI,,Sec. XVI
 BO0624_81745,167333,309,308,"PLAT evase a decor polychrome; sur le marli sont peints alternativement, avec beaucoup de delicatesse, plusieurs petits amours, des satyres, des faunes et des trophees d'armes. Au centre, Joseph vendu par ses freres. Au revers, dans une couronne de chene, la legende:Quando ioseffo veduto 15s9. Piece tres-importante et en parfait etat de conservation.",1722,99.4,False,positional,,,PIATTI,,
 BO0624_81745,167334,310,309,"FRAGMENT DE PLAT avec petit creux, a decor polychrome. Il renferme une tres-belle figure de Saint Jerome agenouille devant la croix sur fond de paysage.",1728,98.7,False,positional,,,OGGETTI VARI,,
 BO0624_81745,167335,311,310,"CouPE D'AccoucHEE de forme ronde sur pied,avec couvercle plat a decor polychrome. Dans linterieur de la coupe, une femme avec trois enfants, un desquels, tient dans ses bras le nouveau-ne: fond d'architecture. Le bord est decore de feuillages et de feurs. Au revers un petit amour qui porte le monde dans ses bras. Sur le couvercle est peinte une femme qui presente la coupe a laccouchee et on voit au pied du lit, le nouveau-ne dans un berceau et deux enfants qui l'observent.",1732,99.6,False,positional,,,PIATTI,,
@@ -316,8 +316,8 @@ BO0624_81745,167338,314,313,"PLATEAu manquant de son pied, a decor polychrome. D
 BO0624_81745,167339,315,314,"PLAT avec pied, a decor polychrome.Dans le centre, Saint Antoine qui tient dans ses mains une croix. Au revers, la",1749,98.2,False,positional,,,PIATTI,,
 BO0624_81745,167340,316,315,"SALIERE; dans le centre figure en grisaille; autour, des ara- besques.",1754,90.5,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167341,317,316,"PeTIr PLAT avec pied, a decor polychrome. Au milieu: Sainte Catherine et ornements d’arabesques.",1761,67.6,False,positional,,,OGGETTI VARI,,
-BO0624_81745,167342,318,317,"PLATEAu a decor polychrome avec rinceaux, arabesques et dans le centre, un petit amour. Entre deux cartouches, la date 1599.",1766,98.3,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167343,319,318,"PETIT MoNUMENT a quatre faces. Celle de devant avec porte ouverte; les deux laterales offrent dans un encadrement en relief les figures peintes des Evangelistes, Saint Marc et Saint Jean ecrivant sur des tablettes et se detachant sur un fond de paysage; dans la quatrieme face opposee a la porte, la figure de Saint Mathieu ecrivant dans un livre. Les angles coupes offrent chacun une niche de jolie architecture avec ornements en relief et dans le centre de chacune est peinte en grisaille une figure de femme. Dans des cartouches superposes aux niches est quatre fois repetee la date 1579.",1770,99.7,False,positional,,,OGGETTI VARI,,
+BO0624_81745,167342,318,317,"PLATEAu a decor polychrome avec rinceaux, arabesques et dans le centre, un petit amour. Entre deux cartouches, la date 1599.",1766,98.3,False,positional,,,FAIENCES ITALIENNES,,Sec. XVI
+BO0624_81745,167343,319,318,"PETIT MoNUMENT a quatre faces. Celle de devant avec porte ouverte; les deux laterales offrent dans un encadrement en relief les figures peintes des Evangelistes, Saint Marc et Saint Jean ecrivant sur des tablettes et se detachant sur un fond de paysage; dans la quatrieme face opposee a la porte, la figure de Saint Mathieu ecrivant dans un livre. Les angles coupes offrent chacun une niche de jolie architecture avec ornements en relief et dans le centre de chacune est peinte en grisaille une figure de femme. Dans des cartouches superposes aux niches est quatre fois repetee la date 1579.",1770,99.7,False,positional,,,OGGETTI VARI,,Sec. XVI
 BO0624_81745,167344,320,319,CorNET a decor polychrome avec feurs et entrelacs sur fond bleu et medaillon avec figure d'une sainte religieuse.,1779,98.2,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167345,321,320,"Deux vAses a forme de cornets a decor polychrome; feuillages et feurs sur fond bleu, deux medaillons contenants l'un Saint Sebastien et l'autre Saint Francois.",1783,98.7,False,positional,,,VASI,,
 BO0624_81745,167346,322,321,GRAND BRoc avec feurs et fruits bleus et jaunes sur fond,1787,96.6,False,positional,,,FAIENCES ITALIENNES,,
@@ -338,7 +338,7 @@ BO0624_81745,167360,336,335,"CAFETreRE avec couvercle, peinte a couleurs variees
 BO0624_81745,167361,337,336,"CaFETIeRE avec couvercle. Sur la panse, quatre petits amours et un ecusson armorie.",1876,97.6,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167362,338,337,"CareTIeRe a decor polychrome rehausse d'or; sans couvercle; avec manche en forme de sphinx. Sur la panse, sujets mythologiques avec fond de paysage. Euvre de Gentili.",1880,98.8,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167363,339,338,Broc a piedouche. Sur la pance deux anges jouant des in- struments de musique; fond de paysage. Dessous: c. F.D.,1886,66.3,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167364,340,339,"PeTIT PLAT. Au centre: une marine; sur le rivage on voit deux marins appuyes a une barrique. Dans le marli, des feuillages et des feurs et un cartel avec linscription: CAsTELLI 1716.",1891,98.9,False,positional,,,PIATTI,,
+BO0624_81745,167364,340,339,"PeTIT PLAT. Au centre: une marine; sur le rivage on voit deux marins appuyes a une barrique. Dans le marli, des feuillages et des feurs et un cartel avec linscription: CAsTELLI 1716.",1891,98.9,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_81745,167365,341,340,"GRAND PLAT avec des petits amours, animaux et feurs dans le marli; au centre, une chasse au sanglier; fond de paysage.",1896,67.4,False,positional,,,PIATTI,,
 BO0624_81745,167366,342,341,"PLAT evase; sur le marli, deux gracieux petits amours, un écusson armorie, des oiseaux, des feurs et des rinceaux. Au centre, une figure assise representant la Terre. Fond de paysage. Euvre de Liborio Grue.",1900,99.0,False,positional,,,PIATTI,,
 BO0624_81745,167367,343,342,"PLAT analoque avec les memes armoiries sur le marli; au centre, une figure allegorique representant le feu.",1907,98.1,False,positional,,,PIATTI,,
@@ -360,7 +360,7 @@ BO0624_81745,167382,358,357,"PAT ovale decoupe,avec figures de monstres,oiseaux,
 BO0624_81745,167383,359,358,EcuELLE a decor polychrome. Dessin de feurs et oiseaux,1979,96.4,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167384,360,359,"PLAT rond avec bord festonne a decor polychrome. Un chasseur, un bouc, un oiseau, des insectes et des plantes. Au revers Milano.",1983,98.4,False,positional,,,PIATTI,,
 BO0624_81745,167385,361,360,DeUx PLAQUEs carrees avec figures chinoises en couleurs variees.,1987,96.9,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167386,362,361,"PLAr avec bord festonne, a decor polychrome. Entre deux plantes on voit un homme avec un parasol; oiseau et un insecte. Au revers ou lit Milano et les initiales de Felix Clerici. XVIII Siecle.Milan.Diam.24 cent.",1991,90.6,False,positional,,,FAIENCES ITALIENNES,,
+BO0624_81745,167386,362,361,"PLAr avec bord festonne, a decor polychrome. Entre deux plantes on voit un homme avec un parasol; oiseau et un insecte. Au revers ou lit Milano et les initiales de Felix Clerici. XVIII Siecle.Milan.Diam.24 cent.",1991,90.6,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
 BO0624_81745,167387,363,362,"PLAT rond a decor polycrome rehausse d'or, style japonais. Au revers, marque de fabrique.",1993,97.7,False,positional,,,PIATTI,,
 BO0624_81745,167388,364,363,"GRAND PLAT de style japonais a decor de feurs, en couleur rouge, bleue et or. Au revers, les initiales de la fabrique de Pascal Rubatti et Mil...",1997,98.6,False,positional,,,PIATTI,,
 BO0624_81745,167389,365,364,"CAFETIERE avec couvercle, a decor polychrome. Dessin de figures, oiseaux,insectes et plantes. On lit au dessous: Milano et les initiales de Felix Clerici.",2001,98.7,False,positional,,,FAIENCES ITALIENNES,,
@@ -406,35 +406,35 @@ BO0624_81745,167428,404,403,"PLATEAu et vasque de forime élegante, decore de fe
 BO0624_81745,167429,405,404,"DeUx GRANDs VAsEs sur piedouche, de forme elegante, avec la panse a cannelures. Decor bleu. Marque de fabrique.",2177,65.9,False,positional,,,VASI,,
 BO0624_81745,167430,406,405,"SAucIERE, dessin de feurs en couleurs variées.",2182,95.7,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167431,407,406,PLAr a bord festonne decore avec des feurs de couleurs variees.,2186,96.9,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167432,408,407,PLAT a bord festonne; decor bleu. Marque de fabrique. XVIII Siecle.Lodi.Diam.42 cent.,2190,97.6,False,positional,,,PIATTI,,
+BO0624_81745,167432,408,407,PLAT a bord festonne; decor bleu. Marque de fabrique. XVIII Siecle.Lodi.Diam.42 cent.,2190,97.6,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_81745,167433,409,408,Bassin rond avec bord festonne monte sur pied. Ornemen- tation bleue. Marque de fabrique.,2191,74.6,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167434,410,409,"PLAQUE avec figures et animaux dores. Au revers, on lit: Paolo Milani fece in Lodi 1773. Piece interessante.",2196,66.2,False,positional,,,FAIENCES ITALIENNES,,
+BO0624_81745,167434,410,409,"PLAQUE avec figures et animaux dores. Au revers, on lit: Paolo Milani fece in Lodi 1773. Piece interessante.",2196,66.2,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
 BO0624_81745,167435,411,410,HuiLIERE a decor bleu. Marque de fabrique.,2201,95.2,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167436,412,411,PLAT ovale avec feurs de plusieurs couleurs. Marque de fabrique.,2205,89.1,False,positional,,,PIATTI,,
 BO0624_81745,167437,413,412,Deux PLATs ronds avec feurs de plusieurs couleurs. Marque de fabrique.,2210,97.1,False,positional,,,PIATTI,,
-BO0624_81745,167438,414,413,"PETIT PLAT ovale, a decor bleu avec armoiries. XVIII Siecle. Savone.Long.19 cent.,larg.14 cent.",2215,67.2,False,positional,,,PIATTI,,
+BO0624_81745,167438,414,413,"PETIT PLAT ovale, a decor bleu avec armoiries. XVIII Siecle. Savone.Long.19 cent.,larg.14 cent.",2215,67.2,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_81745,167439,415,414,"Deux PLATs. Sur le marli des oiseaux et des feurs. Au centre, deux moines. Le tout en couleur bleue. Au revers, les ar- moiries royales en couleurs variees.",2216,84.8,False,positional,,,PIATTI,,
-BO0624_81745,167440,416,415,TassE et soucoupe; decor de feurs en couleurs variees. XVIII Siecle.Lodi.Haut. 6 cent.,2221,75.4,False,positional,,,FAIENCES ITALIENNES,,
+BO0624_81745,167440,416,415,TassE et soucoupe; decor de feurs en couleurs variees. XVIII Siecle.Lodi.Haut. 6 cent.,2221,75.4,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
 BO0624_81745,167441,417,416,"TassE a decor polychrome avec figures, animaux et plantes. Marque:Lodi.",2223,87.5,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167442,418,417,PLATEAU avec feurs peintes en couleur et marque de fabrique.,2228,96.7,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167443,419,418,PeRRoQuET colorie. Marque de fabrique et date: 175o. XVIII Siecle.Lodi.Haut.22 cent.                                                                                            |,2231,97.6,False,positional,,,FAIENCES ITALIENNES,,
+BO0624_81745,167443,419,418,PeRRoQuET colorie. Marque de fabrique et date: 175o. XVIII Siecle.Lodi.Haut.22 cent.                                                                                            |,2231,97.6,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
 BO0624_81745,167444,420,419,CAFETrERE a dessin de feurs en couleur. Marque de fabrique. XVIII Sicle.Lodi. Haut.1s cent.                                                                                     |,2233,97.8,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167445,421,420,"Deux PLAQUEs ovales dans un cadre dore. Elles representent deux Saints peints en bleu. Marque de fabrique et date: 1766, Lodi. XVIII Siecle. Lodi. Long.22 cent., larg.16 cent. |",2234,98.8,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167446,422,421,"GRAND PLAT avec decor en relief. Au centre, des deux cotes, ecusson armorie et les initiales: A.C. XVIII Siecle.Lodi.Diam.48 cent,                                              |",2235,98.4,False,positional,,,PIATTI,,
-BO0624_81745,167447,423,422,"Bassin a decor polychrome et de forme elegante. XVIII Siecle. Lodi. Long.42 cent., larg.36 cent.                                                                                |",2236,97.8,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167448,424,423,"PLAT evase ovale a decor bleu. Au revers, on lit: Rossetti. XVIII Siecle.Lodi. Long.42 cent., larg.32 cent.                                                                     |",2237,98.0,False,positional,,,PIATTI,,
-BO0624_81745,167449,425,424,"EcuELLE avec la Vierge et lEnfant, peints en couleurs variees XVIII Siecle. Lodi.Diam.16 cent.                                                                                   |",2238,97.8,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167450,426,425,"PerrTE TAssE. avec la Vierge et lEnfant, peints en couleurs differentes. XVIII Siecle.Lodi.Diam.11 cent.                                                                        |",2239,98.0,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167451,427,426,Tasse a cafe avec manche decore en vert. Marque de fabrique. XVI Siecle. Lodi. Haut. 7 cent.                                                                                    |,2240,97.7,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167452,428,427,"CeNDRIER a decor polychrome avec figures et paysage. Au revers, marque de fabrique. XVIII Siecle.Lodi.Diam.23 cent.                                                             |",2241,98.2,False,positional,,,FAIENCES ITALIENNES,,
+BO0624_81745,167445,421,420,"Deux PLAQUEs ovales dans un cadre dore. Elles representent deux Saints peints en bleu. Marque de fabrique et date: 1766, Lodi. XVIII Siecle. Lodi. Long.22 cent., larg.16 cent. |",2234,98.8,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
+BO0624_81745,167446,422,421,"GRAND PLAT avec decor en relief. Au centre, des deux cotes, ecusson armorie et les initiales: A.C. XVIII Siecle.Lodi.Diam.48 cent,                                              |",2235,98.4,False,positional,,,PIATTI,,Sec. XVIII
+BO0624_81745,167447,423,422,"Bassin a decor polychrome et de forme elegante. XVIII Siecle. Lodi. Long.42 cent., larg.36 cent.                                                                                |",2236,97.8,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
+BO0624_81745,167448,424,423,"PLAT evase ovale a decor bleu. Au revers, on lit: Rossetti. XVIII Siecle.Lodi. Long.42 cent., larg.32 cent.                                                                     |",2237,98.0,False,positional,,,PIATTI,,Sec. XVIII
+BO0624_81745,167449,425,424,"EcuELLE avec la Vierge et lEnfant, peints en couleurs variees XVIII Siecle. Lodi.Diam.16 cent.                                                                                   |",2238,97.8,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
+BO0624_81745,167450,426,425,"PerrTE TAssE. avec la Vierge et lEnfant, peints en couleurs differentes. XVIII Siecle.Lodi.Diam.11 cent.                                                                        |",2239,98.0,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
+BO0624_81745,167451,427,426,Tasse a cafe avec manche decore en vert. Marque de fabrique. XVI Siecle. Lodi. Haut. 7 cent.                                                                                    |,2240,97.7,False,positional,,,FAIENCES ITALIENNES,,Sec. XVI
+BO0624_81745,167452,428,427,"CeNDRIER a decor polychrome avec figures et paysage. Au revers, marque de fabrique. XVIII Siecle.Lodi.Diam.23 cent.                                                             |",2241,98.2,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
 BO0624_81745,167453,429,428,FruITIERE de forme elegante avec feurs de plusieurs couleurs. Marque de fabrique.,2242,83.9,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167454,430,429,GRAND PLAT a sujet mythologique; deux feuves; des armoiries etc. XVIII Siecle.Fabrique Venitienne. Diam.42 cent.,2247,98.2,False,positional,,,PIATTI,,
+BO0624_81745,167454,430,429,GRAND PLAT a sujet mythologique; deux feuves; des armoiries etc. XVIII Siecle.Fabrique Venitienne. Diam.42 cent.,2247,98.2,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_81745,167455,431,430,Le CHRIsT EN cRoIx dans un cadre de forme elegante et orne de feurs jaune-clair.,2248,82.3,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167456,432,431,PLAT avec animaux et feurs peintes en bleu. XVIII Siecle.Lodi.Diam.4s cent.,2253,97.3,False,positional,,,PIATTI,,
+BO0624_81745,167456,432,431,PLAT avec animaux et feurs peintes en bleu. XVIII Siecle.Lodi.Diam.4s cent.,2253,97.3,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_81745,167457,433,432,"PLAT a decor polychrome. Sur le marli, des animaux et des feurs. Au centre, la Sainte Famille.",2254,70.8,False,positional,,,PIATTI,,
 BO0624_81745,167458,434,433,"PETIT coFrRET rectangulaire, pose sur quatre pattes de lion. Decor bleu et jaune.",2259,82.9,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167459,435,434,Broc avec anse et goulot; decore en bleu et jaune. XVIII Siecle.Fabrique Venitienne. Haut. 28 cent.,2264,65.8,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167460,436,435,"Broc avec anse, portant un écusson bleu et jaune. XVIII Siecle. Fabrique Venitienne. Haut. 3o cent.",2266,97.9,False,positional,,,FAIENCES ITALIENNES,,
+BO0624_81745,167459,435,434,Broc avec anse et goulot; decore en bleu et jaune. XVIII Siecle.Fabrique Venitienne. Haut. 28 cent.,2264,65.8,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
+BO0624_81745,167460,436,435,"Broc avec anse, portant un écusson bleu et jaune. XVIII Siecle. Fabrique Venitienne. Haut. 3o cent.",2266,97.9,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
 BO0624_81745,167461,437,436,"VasE en forme de poisson, sans couvercle. Au revers les lettres: C.A.",2267,97.0,False,positional,,,VASI,,
 BO0624_81745,167462,438,437,"PLATEAu a decor polychrome. Au centre, figure d'une Reine. Au revers, marque de fabrique.",2271,97.7,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167463,439,438,PLAT avec bord richement orne et sureleve. Dans le fond un paysage et des figures en couleur bleue.,2274,69.7,False,positional,,,PIATTI,,
@@ -449,10 +449,10 @@ BO0624_81745,167471,447,447,"PLAT sur pied. Dans le centre, une figure allgoriqu
 BO0624_81745,167472,448,448,"GRAN PLAT de forme octogone monte sur un pied. Decor polychrome a rinceaux et feurs. Au centre, huit coquetiers et deux salieres, plusieurs petits amours et animaux y sont peints en couleurs variees.",2315,99.0,False,positional,,,PIATTI,,
 BO0624_81745,167473,449,449,Broc forme par une figure d’homme assis.,2319,95.1,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167474,450,450,"VasE avec couvercle, forme a potiche, a decor polychrome. Marque de fabrique.",2323,97.3,False,positional,,,VASI,,
-BO0624_81745,167475,451,451,"PLAT avec paysage en bleu et blanc sur fond bleu-clair.Au revers, la marque de fabrique et la date 1634.",2327,98.1,False,positional,,,PIATTI,,
+BO0624_81745,167475,451,451,"PLAT avec paysage en bleu et blanc sur fond bleu-clair.Au revers, la marque de fabrique et la date 1634.",2327,98.1,False,positional,,,PIATTI,,Sec. XVII
 BO0624_81745,167476,452,452,"PLAT avec bord festonne. Au centre, la figure d’un Pape assis dans un fauteuil.",2331,79.7,False,positional,,,PIATTI,,
 BO0624_81745,167477,453,453,"Deux vAsEs avec anses, sur piedouche,fnement decores en couleurs variees rehaussees d'or.",2336,74.5,False,positional,,,VASI,,
-BO0624_81745,167478,454,454,"PeTITE TAssE avec manche, couvercle et soucoupes, finement decoree de feurs et rinceaux de couleurs variees rehaussees d'or. Au revers, Pesaro 1771.",2340,98.6,False,positional,,,FAIENCES ITALIENNES,,
+BO0624_81745,167478,454,454,"PeTITE TAssE avec manche, couvercle et soucoupes, finement decoree de feurs et rinceaux de couleurs variees rehaussees d'or. Au revers, Pesaro 1771.",2340,98.6,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
 BO0624_81745,167479,455,455,PLAT avec bord festonne et orne de feurs.,2344,95.2,False,positional,,,PIATTI,,
 BO0624_81745,167480,456,456,Broc forme par un enfant a cheval sur un lion.,2348,95.7,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167481,457,457,"PLAT avec decor de paysage en couleur. Au revers, signa- ture de Barthelemy Terchi de Bassano.",2352,72.1,False,positional,BASSANO GIACOMO,,PIATTI,,
@@ -469,21 +469,21 @@ BO0624_81745,167491,467,467,GrouPE de trois petits amours.,2397,93.5,False,posit
 BO0624_81745,167492,468,468,Broc decore de feuillages et de feurs. Au dessous du man-,2401,96.5,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167493,469,469,"PeTIT sEAu avec couvercle, decore en bleu. Au revers, marque de fabrique.",2406,97.2,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167494,470,470,"FrurTIERE de forme elegante, a decor de feurs et de fruits. Au revers, marque de fabrique.",2410,77.6,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167495,471,471,FRuITIeRE avec un Saint peint en bleu. XVIII Siecle. Fabrique incertaine. Diam.26 cent.,2415,97.6,False,positional,,,FAIENCES ITALIENNES,,
+BO0624_81745,167495,471,471,FRuITIeRE avec un Saint peint en bleu. XVIII Siecle. Fabrique incertaine. Diam.26 cent.,2415,97.6,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
 BO0624_81745,167496,472,472,"Deux PLATs peints en bleu, avec marque au revers.                                                                              |",2416,95.9,False,positional,,,PIATTI,,
-BO0624_81745,167497,473,473,"PLAT de forme elegante a decor vert, avec marque de fa- brique. XVIII Siecle.Lodi,Diam.24 cent.                                |",2418,97.8,False,positional,,,PIATTI,,
-BO0624_81745,167498,474,475,"PLAT avec pied. Dans le centre, un ecusson. XVIII Siecle.Fabrique Venitienne. Diam.24 cent.                                    |",2420,97.7,False,positional,,,PIATTI,,
+BO0624_81745,167497,473,473,"PLAT de forme elegante a decor vert, avec marque de fa- brique. XVIII Siecle.Lodi,Diam.24 cent.                                |",2418,97.8,False,positional,,,PIATTI,,Sec. XVIII
+BO0624_81745,167498,474,475,"PLAT avec pied. Dans le centre, un ecusson. XVIII Siecle.Fabrique Venitienne. Diam.24 cent.                                    |",2420,97.7,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_81745,167499,475,476,"SoupreRE avec couvercle, ornee de feurs sur fond jaune. Marque de fabrique.                                                    |",2421,97.3,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167500,476,477,"JARDINIERE de forme ovale a decors en reliefet en partie dores. XVII Siecle.Fabrique de Milan.Long. 45 cent., larg.33 cent.    |",2422,98.3,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167501,477,478,"PeTITE VAsQUE a six faces, avec marque de fabrique. XVIII Siecle. Fabrique incertaine. Larg.27 cent.                           |",2423,97.9,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167502,478,479,STATUETTE d'homme en costume venitien. XVIII Siecle. Fabrique de Venise. Haut. 13 cent.                                        |,2424,97.6,False,positional,,,FAIENCES ITALIENNES,,
-BO0624_81745,167503,479,48,"o. Groupe d’une femme, d’un ange et de deux petits enfants. Email blanc. Marque de fabrique. XVIII Siecle. Savone. Haut. 3s cent. |",2425,99.2,False,positional,,,FAIENCES ITALIENNES,,
+BO0624_81745,167500,476,477,"JARDINIERE de forme ovale a decors en reliefet en partie dores. XVII Siecle.Fabrique de Milan.Long. 45 cent., larg.33 cent.    |",2422,98.3,False,positional,,,FAIENCES ITALIENNES,,Sec. XVII
+BO0624_81745,167501,477,478,"PeTITE VAsQUE a six faces, avec marque de fabrique. XVIII Siecle. Fabrique incertaine. Larg.27 cent.                           |",2423,97.9,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
+BO0624_81745,167502,478,479,STATUETTE d'homme en costume venitien. XVIII Siecle. Fabrique de Venise. Haut. 13 cent.                                        |,2424,97.6,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
+BO0624_81745,167503,479,48,"o. Groupe d’une femme, d’un ange et de deux petits enfants. Email blanc. Marque de fabrique. XVIII Siecle. Savone. Haut. 3s cent. |",2425,99.2,False,positional,,,FAIENCES ITALIENNES,,Sec. XVIII
 BO0624_81745,167504,480,481,SaucieRE ovale avec bord festonne et deux anses; decor bleu. Marque de fabrique.                                               |,2426,97.5,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167505,481,482,"GRANDE FRUITIERE de forme elegante, finement decoree en bleu avec un petit amour, des trophees d'armes et un ecusson armorie. Marque de fabrique.",2429,88.0,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167506,482,483,PeTITE TAssE avec couvercle decore de feurs de plusieurs couleurs. Marque de fabrique.,2434,97.7,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167507,483,484,EcuELLE avec feurs en couleur. Marque de fabrique.,2438,96.0,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167508,484,485,"PLAT avec buste d’homme dans un cadre. Au revers, PoMPIvs. CAIMVS. VTINSIS.",2442,85.3,False,positional,,,PIATTI,,
-BO0624_81745,167509,485,486,"PLAT decore a petits feuillages bleus et jaunes. Dans le centre, ecusson armorie.Au revers. F. F. D.Fortunatus Philigellus p. Asciani 1578 Dies 30 Augusti.",2448,76.9,False,positional,,,PIATTI,,
+BO0624_81745,167509,485,486,"PLAT decore a petits feuillages bleus et jaunes. Dans le centre, ecusson armorie.Au revers. F. F. D.Fortunatus Philigellus p. Asciani 1578 Dies 30 Augusti.",2448,76.9,False,positional,,,PIATTI,,Sec. XVI
 BO0624_81745,167510,486,487,"GRouPE representant Saint Antoine dans une grotte, peint en couleurs avec l'inscription: PAVLVs. TARDINI. MUTINENSIS. KAR. LAVDE. DIE XVII APRILIS. MDCCLVII.",2452,84.8,False,positional,,,FAIENCES ITALIENNES,,
 BO0624_81745,167511,487,488,"PLAT avec un oiseau dans le fond. Au revers, les initiales: F.S.N.",2457,96.9,False,positional,,,PIATTI,,
 BO0624_81745,167512,488,489,"STATUETTE representant un marchand de ble, avec la marque V. C.",2461,96.8,False,positional,,,FAIENCES ITALIENNES,,
@@ -495,39 +495,39 @@ BO0624_81745,167517,493,494,"PLAQUE ronde en terre cuite emaillee avec graffti, 
 BO0624_81745,167518,494,495,"GRAND BRoc de forme spherique en terre cuite emaillee avec graffti, offrant un ecusson armorie.",2489,97.9,False,positional,,,Terres cuites émaillees,,
 BO0624_81745,167519,495,496,"VAse de forme spherique en terre cuite, au vernis, avec graf- fiti, offrant un buste d'homme et deux oiseaux.",2493,69.9,False,positional,,,VASI,,
 BO0624_81745,167520,496,497,"CHAUrFE-MAINs avec manche fixe, sureleve; terre cuite au",2497,96.4,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167521,497,498,"PLAT en terre cuite, au vernis, avec graffti. XVI Siecle. La Frata. Diam.37 cent.",2505,97.4,False,positional,,,PIATTI,,
+BO0624_81745,167521,497,498,"PLAT en terre cuite, au vernis, avec graffti. XVI Siecle. La Frata. Diam.37 cent.",2505,97.4,False,positional,,,PIATTI,,Sec. XVI
 BO0624_81745,167522,498,499,"PLAQUE rectangulaire en terre cuite emaille, representant la",2506,96.7,False,positional,,,Terres cuites émaillees,,
 BO0624_81745,167523,499,3,Deposition de la Croix.,2507,95.7,False,positional,,,Terres cuites émaillees,,
 BO0624_81745,167524,500,502,"Broc en terre cuite, au vernis, sur pied a jour, avec basreliefs representant des sujets religieux.",2519,97.9,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167525,501,503,"Vase en terre cuite, au vernis, de forme spherique avec long col et anse en torsade. Decor, partie en relief, et partie dore.",2523,98.3,False,positional,,,VASI,,
 BO0624_81745,167526,502,504,"Broc en terre cuite, au vernis, forme par une figure d’homme.",2527,96.7,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167527,503,5,o6. ENcRIER en terre cuite emaillee de couleur noire. XVIII Siecle.Fabrique incertaine. Haut. 20 cent.,2534,99.5,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167528,504,5,"o8. Perr vAsE a decor bleu, avec marque de fabrique. XVIII Siecle.Delft.Haut.18 cent.",2539,99.4,False,positional,,,VASI,,
-BO0624_81745,167529,505,509,"Vase, forme potiche, a desins chinois, decor bleu. Marque de fabrique. XVIII Siecle. Delft. Haut.2s cent.",2540,98.0,False,positional,,,VASI,,
+BO0624_81745,167527,503,5,o6. ENcRIER en terre cuite emaillee de couleur noire. XVIII Siecle.Fabrique incertaine. Haut. 20 cent.,2534,99.5,False,positional,,,Terres cuites émaillees,,Sec. XVIII
+BO0624_81745,167528,504,5,"o8. Perr vAsE a decor bleu, avec marque de fabrique. XVIII Siecle.Delft.Haut.18 cent.",2539,99.4,False,positional,,,VASI,,Sec. XVIII
+BO0624_81745,167529,505,509,"Vase, forme potiche, a desins chinois, decor bleu. Marque de fabrique. XVIII Siecle. Delft. Haut.2s cent.",2540,98.0,False,positional,,,VASI,,Sec. XVIII
 BO0624_81745,167530,506,511,THerERE avec couvercle. Dessins japonais de couleur bleue.,2542,96.6,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167531,507,513,"PLAT a dessins japonais. Au revers, marque de fabrique. XVIII Siecle.Delft.Diam.26 cent.",2548,97.7,False,positional,,,PIATTI,,
+BO0624_81745,167531,507,513,"PLAT a dessins japonais. Au revers, marque de fabrique. XVIII Siecle.Delft.Diam.26 cent.",2548,97.7,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_81745,167532,508,515,"SouPIERE avec couvercle, dessins sbleus. Marque de fa-",2553,96.2,False,positional,,,Terres cuites émaillees,,
 BO0624_81745,167533,509,516,Vase de forme classique avec anses formees par deux cariatides dorees. Base carree en biscuit.,2558,97.9,False,positional,,,BISCOTTI,,
 BO0624_81745,167534,510,518,Tasse et soucoupe avec feurs en relief. XVIII Sieele. Fabrique Allemande. Haut. 6 cent.,2563,97.6,False,positional,,,Terres cuites émaillees,,
 BO0624_81745,167535,511,519,PLAT avec bord decoupe a jour.,2564,93.5,False,positional,,,PIATTI,,
-BO0624_81745,167536,512,520,PeTITE TAssE avec manche .et couvercle decores de bas-reliefs dores. XVIII Siecle. Fabrique Anglaise. Haut. 13 cent.,2566,98.2,False,positional,,,BASSORILIEVI,,
-BO0624_81745,167537,513,521,"PeTIT PANIER ovale avec son plateau, decoupes a jour. XVIII Siecle.Fabrique Anglaise. Haut. 8 cent.",2567,97.9,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167538,514,522,PaNieR avec le bord decoupe a jour et riche decor en relief. XVIII Siecle. Fabrique Anglaise. Diam.3o cent.,2568,98.1,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167539,515,523,"PLAT avec bord festonne et un ecusson dans le fond, peint en bleu. XVIII Siecle. Gottingen.Diam.24 cent.",2569,98.0,False,positional,,,PIATTI,,
-BO0624_81745,167540,516,524,"Deux PETITs VAsEs avec couvercle, faits en forme d'artichauts. XVIII Siecle. Fabrique incertaine. Haut. 12 cent.",2570,98.1,False,positional,,,VASI,,
+BO0624_81745,167536,512,520,PeTITE TAssE avec manche .et couvercle decores de bas-reliefs dores. XVIII Siecle. Fabrique Anglaise. Haut. 13 cent.,2566,98.2,False,positional,,,BASSORILIEVI,,Sec. XVIII
+BO0624_81745,167537,513,521,"PeTIT PANIER ovale avec son plateau, decoupes a jour. XVIII Siecle.Fabrique Anglaise. Haut. 8 cent.",2567,97.9,False,positional,,,Terres cuites émaillees,,Sec. XVIII
+BO0624_81745,167538,514,522,PaNieR avec le bord decoupe a jour et riche decor en relief. XVIII Siecle. Fabrique Anglaise. Diam.3o cent.,2568,98.1,False,positional,,,Terres cuites émaillees,,Sec. XVIII
+BO0624_81745,167539,515,523,"PLAT avec bord festonne et un ecusson dans le fond, peint en bleu. XVIII Siecle. Gottingen.Diam.24 cent.",2569,98.0,False,positional,,,PIATTI,,Sec. XVIII
+BO0624_81745,167540,516,524,"Deux PETITs VAsEs avec couvercle, faits en forme d'artichauts. XVIII Siecle. Fabrique incertaine. Haut. 12 cent.",2570,98.1,False,positional,,,VASI,,Sec. XVIII
 BO0624_81745,167541,517,525,"VasQuE de forme ovale, a decor de feurs en plusieurs couleurs. Au revers, marque de fabrique.",2571,97.8,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167542,518,526,PeTITE sTATUE representant un musicien. Marque de fabrique. XVIII Siecle.Niederwiller.Haut.20 cent.                                                               |,2574,98.0,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167543,519,528,THEIERE sans couvercle avec figures et paysages. XVIII Siecle.Moustiers. Haut.18 cent.                                                                            |,2577,97.6,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167544,520,529,Deux vAsEs de forme cylindrique avec deux mascarons et des feurs en couleur jaune. Marque de fabrique. XVIII Siecle. Moustiers. Haut. II cent.                    |,2578,98.6,False,positional,,,VASI,,
-BO0624_81745,167545,521,530,PeTTE vAsQUE a decor polychrome. Marque de fabrique. XVIII Siecle. Moustiers.Haut.8 cent.                                                                         |,2579,97.7,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167546,522,532,"GRAND PLAT ovale avec bord festonne, a decor de feurs et figures de plusieurs couleurs. Marque de fabrique. XVII Siecle. Moustiers.Long. 40 cent., larg. 30 cent. |",2581,98.7,False,positional,,,PIATTI,,
+BO0624_81745,167542,518,526,PeTITE sTATUE representant un musicien. Marque de fabrique. XVIII Siecle.Niederwiller.Haut.20 cent.                                                               |,2574,98.0,False,positional,,,Terres cuites émaillees,,Sec. XVIII
+BO0624_81745,167543,519,528,THEIERE sans couvercle avec figures et paysages. XVIII Siecle.Moustiers. Haut.18 cent.                                                                            |,2577,97.6,False,positional,,,Terres cuites émaillees,,Sec. XVIII
+BO0624_81745,167544,520,529,Deux vAsEs de forme cylindrique avec deux mascarons et des feurs en couleur jaune. Marque de fabrique. XVIII Siecle. Moustiers. Haut. II cent.                    |,2578,98.6,False,positional,,,VASI,,Sec. XVIII
+BO0624_81745,167545,521,530,PeTTE vAsQUE a decor polychrome. Marque de fabrique. XVIII Siecle. Moustiers.Haut.8 cent.                                                                         |,2579,97.7,False,positional,,,Terres cuites émaillees,,Sec. XVIII
+BO0624_81745,167546,522,532,"GRAND PLAT ovale avec bord festonne, a decor de feurs et figures de plusieurs couleurs. Marque de fabrique. XVII Siecle. Moustiers.Long. 40 cent., larg. 30 cent. |",2581,98.7,False,positional,,,PIATTI,,Sec. XVII
 BO0624_81745,167547,523,536,"PETITE sTATUE en faience representant une femme qui lit. Au dessous de la base, marque de fabrique.",2585,98.0,False,positional,,,Terres cuites émaillees,,
 BO0624_81745,167548,524,537,"GRouPE de deux patres assis, faisant de la musique; une brebis est a leurs pieds. Marque de fabrique.",2589,98.0,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167549,525,538,JARDINIERE a decor de feurs. Marque de fabrique. XVII Siecle. Strassbourg. Haut. 11 cent.,2593,97.6,False,positional,,,Terres cuites émaillees,,
+BO0624_81745,167549,525,538,JARDINIERE a decor de feurs. Marque de fabrique. XVII Siecle. Strassbourg. Haut. 11 cent.,2593,97.6,False,positional,,,Terres cuites émaillees,,Sec. XVII
 BO0624_81745,167550,526,539,"PeTrr vAsE avec deux anses, decore de feurs de couleurs variees. Marque de fabrique.",2594,77.7,False,positional,,,VASI,,
 BO0624_81745,167551,527,540,"FrurTIERE en forme de coquille, decore de feurs de couleurs variees. Au revers, marque de fabrique.",2599,97.9,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167552,528,541,PoRTE-BUIRE avec feurs coloriees. Marque de fabrique. XVIII Siecle. Strassbourg. Haut. 10 cent.,2603,97.8,False,positional,,,Terres cuites émaillees,,
-BO0624_81745,167553,529,542,THEIERE decoree de feurs en couleur. Marque de fabrique. XVIII Siecle. Strassbourg. Haut.1s cent.,2604,97.9,False,positional,,,Terres cuites émaillees,,
+BO0624_81745,167552,528,541,PoRTE-BUIRE avec feurs coloriees. Marque de fabrique. XVIII Siecle. Strassbourg. Haut. 10 cent.,2603,97.8,False,positional,,,Terres cuites émaillees,,Sec. XVIII
+BO0624_81745,167553,529,542,THEIERE decoree de feurs en couleur. Marque de fabrique. XVIII Siecle. Strassbourg. Haut.1s cent.,2604,97.9,False,positional,,,Terres cuites émaillees,,Sec. XVIII
 BO0624_81745,167554,530,543,"PLAT avec olives, a decor de feurs coloriees. Au revers, marque de fabrique.",2605,97.3,False,positional,,,PIATTI,,
 BO0624_81745,167555,531,544,"GRAND PLAT Hispano-arabe a refets metalliques, avec feurs et feuillages en bleu. Au revers, un grand aigle pareillement a refets metalliques. Piece tres-importante pour son epoque et sa dimension.",2609,99.0,False,positional,,,PIATTI,,
 BO0624_81745,167556,532,545,"Vase de forme spherique a refets metalliques, avec feurs et oiseaux. Fabrique Hispano-arabe.Diam.23 cent.",2614,98.1,False,positional,,,VASI,,
@@ -582,7 +582,7 @@ BO0624_81745,167604,580,609,"PoRTE-BIjoux, representant une Nereide et un Triton
 BO0624_81745,167605,581,610,"GroupE, porcelaine blanche. Deux jeunes Satyres portant un tonneau. Socle en bois.",2827,97.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81745,167606,582,611,STATUETTE. La Renommee.,2831,91.3,False,positional,,,Porcelaines europeennes,,
 BO0624_81745,167607,583,612,GroupE en porcelaine blanche. Une Nereide et deux Tri tons et plusieurs coquilles.,2835,97.6,False,positional,,,Porcelaines europeennes,,
-BO0624_81745,167608,584,613,SurTE DE TREIzE TAPIssERIEs formant le complement d'un Salon de Bruxelles executees par Leynier sur dessins de Teniers. XVII Siecle.,2859,98.5,False,positional,TENIERS DAVID IL GIOVANE,,OGGETTI VARI,,
+BO0624_81745,167608,584,613,SurTE DE TREIzE TAPIssERIEs formant le complement d'un Salon de Bruxelles executees par Leynier sur dessins de Teniers. XVII Siecle.,2859,98.5,False,positional,TENIERS DAVID IL GIOVANE,,OGGETTI VARI,,Sec. XVII
 BO0624_81745,167609,585,2,"un paysage avec des collines et un chateau; a gauche, la mer avec quantite de bateaux a voile de pecheurs; sur le rivage, plusieurs pecheurs sont en train de placer les poissons dans des paniers. Au premier plan,a droite, un groupe de trois figures et un chien, et du cote oppose un homme trainant une carriole chargee de poissons et fruits de mer.",2876,99.7,False,positional,,,Tapisserie et étoffes,,
 BO0624_81745,167610,586,2,B..B. D.L.,2886,100.0,False,positional,,,Tapisserie et étoffes,,
 BO0624_81745,167611,587,1,"TaprssERIE analogue a la precedente. Un paysage parseme de quelques constructions. Sur le devant, une femme qui e     s n SIx coUssINs ET UN PETIT TAPIs de table en soie jaune brodee a dessin de fleurs.",2909,73.5,False,positional,,,BIANCHERIA,,
@@ -593,7 +593,7 @@ BO0624_81745,167615,591,618,CoupoN en brocart de soie avec broderies en argent s
 BO0624_81745,167616,592,619,"CouvRE-LIT, en toile brodee en soie.",2957,94.4,False,positional,,,Tapisserie et étoffes,,
 BO0624_81745,167617,593,620,MANTEAu DE LA VIERGE en soie avec broderies en soies de couleur sur fond blanc.,2961,97.5,False,positional,,,Tapisserie et étoffes,,
 BO0624_81745,167618,594,621,MANTEAU DE LA VIERGE analogue.,2965,93.5,False,positional,,,Tapisserie et étoffes,,
-BO0624_81745,167619,595,622,CouvRE-cALIcE en brocart de soie avec broderies en couleur. XVII Siecle.,2968,87.9,False,positional,,,Tapisserie et étoffes,,
+BO0624_81745,167619,595,622,CouvRE-cALIcE en brocart de soie avec broderies en couleur. XVII Siecle.,2968,87.9,False,positional,,,Tapisserie et étoffes,,Sec. XVII
 BO0624_81745,167620,596,623,CoussiN en damas rouge recouvert d’une guipure.,2970,95.8,False,positional,,,Tapisserie et étoffes,,
 BO0624_81745,167621,597,624,Tapis de table en velours a jardin.,2974,94.4,False,positional,DU JARDIN KAREL,,Tapisserie et étoffes,,
 BO0624_81745,167622,598,624,"A. PLuvIAL en brocart de soie, fond rouge et dessin de feurs en couleurs et ramages richement broches d'or, avec galon en argent dore.",2978,98.5,False,positional,,,Tapisserie et étoffes,,
@@ -612,7 +612,7 @@ BO0624_81745,167634,610,635,"GRAND coFFRE (cassone) monte sur quatre griffes de 
 BO0624_81745,167635,611,636,"CoFrRE en bois de noyer, avec rinceaux sculptes et graves et deux écussons armories. Couvercle mobile.",3046,70.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81745,167636,612,637,"CoFFRE en bois, avec agrafes et ornements en fer.",3051,95.9,False,positional,,,BAULI,,
 BO0624_81745,167637,613,638,"PeTIT cOFFRET a bijoux, en bois des Indes, avec incrustations d'ivoire et plaques gravees, a deux portes et tiroirs a linterieur.",3055,98.4,False,positional,,,BIGIOTTERIA,,
-BO0624_81745,167638,614,639,"CorFRET en bois de noyer sculpte, reposant sur quatre griffes. XVIII Siecle.Haut. 30 cent., long.so cent.",3058,98.0,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_81745,167638,614,639,"CorFRET en bois de noyer sculpte, reposant sur quatre griffes. XVIII Siecle.Haut. 30 cent., long.so cent.",3058,98.0,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_81745,167639,615,640,"Borre oblongue en bois avec bas-reliefs. Sur la face principale, I'Annonciation. Dans les faces laterales, des petits amours et des ornements varies.",3059,89.6,False,positional,,,BASSORILIEVI,,
 BO0624_81745,167640,616,641,"CoFFRET en bois de noyer, reposant sur quatre pieds, avec deux pilastres sculptes.",3064,97.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81745,167641,617,642,"PETIr coFFREr en fer finement grave, avec deux poignees",3070,96.4,False,positional,,,Objets divers,,
@@ -620,13 +620,13 @@ BO0624_81745,167642,618,643,"CorrRET en fer, avec incrustations d'or et d’arge
 BO0624_81745,167643,619,644,PETITE CAssETTE rectangulaire en fer grave. Clef et serrure a l'interieur.,3082,97.3,False,positional,,,Objets divers,,
 BO0624_81745,167644,620,645,CAssETTE rectangulaire en fer avec les faces ornees de figures et de feurs peintes a Phuile. Clef et serrure a l'interieure. Travail allemand.,3088,98.6,False,positional,,,Objets divers,,
 BO0624_81745,167645,621,646,"AiGLE en fer, faisant partie d’un porte drapeau.                                                                                 |",3091,95.8,False,positional,,,Objets divers,,
-BO0624_81745,167646,622,647,"CasQuE en fer, avec ornements graves. Provenance: Noble famille Lambertenghi de Come. Travail italien. XVII Siecle.Haut.26 cent. |",3093,98.4,False,positional,,,Objets divers,,
-BO0624_81745,167647,623,648,HALLEBARDE en fer. Travail italien. XVI Siecle. Long.40 cent.                                                                    |,3094,96.6,False,positional,,,Objets divers,,
-BO0624_81745,167648,624,649,"PoiGNARD, avec fourreau, poignee en boie noir et lame trian- gulaire. XVIII Siecle.Long. 42 cent.                                |",3095,97.8,False,positional,,,Objets divers,,
-BO0624_81745,167649,625,65,"o. EpEE DE PARADE, avec poignee et garde en acier et fourreau en bois recouvert en parchemin. Travail italien. XVIII Siecle.        |",3096,99.2,False,positional,,,Objets divers,,
-BO0624_81745,167650,626,651,EpEE DE PARADE avec poignee et garde en acier. Fourreau en bois recouvert en parchemin. Travail italien. XVIII Siecle.           |,3097,98.3,False,positional,,,Objets divers,,
-BO0624_81745,167651,627,652,"PisToLET A RoUET, avec garniture en acier grave, reperce a jour. Travail italien. XVII Siecle.                                   |",3098,97.8,False,positional,,,Objets divers,,
-BO0624_81745,167652,628,653,Deux BAs-RELIEFs en argent dans un cadre en bois noir. Travail du XVII Siecle.                                                   |,3099,97.4,False,positional,,,Objets divers,,
+BO0624_81745,167646,622,647,"CasQuE en fer, avec ornements graves. Provenance: Noble famille Lambertenghi de Come. Travail italien. XVII Siecle.Haut.26 cent. |",3093,98.4,False,positional,,,Objets divers,,Sec. XVII
+BO0624_81745,167647,623,648,HALLEBARDE en fer. Travail italien. XVI Siecle. Long.40 cent.                                                                    |,3094,96.6,False,positional,,,Objets divers,,Sec. XVI
+BO0624_81745,167648,624,649,"PoiGNARD, avec fourreau, poignee en boie noir et lame trian- gulaire. XVIII Siecle.Long. 42 cent.                                |",3095,97.8,False,positional,,,Objets divers,,Sec. XVIII
+BO0624_81745,167649,625,65,"o. EpEE DE PARADE, avec poignee et garde en acier et fourreau en bois recouvert en parchemin. Travail italien. XVIII Siecle.        |",3096,99.2,False,positional,,,Objets divers,,Sec. XVIII
+BO0624_81745,167650,626,651,EpEE DE PARADE avec poignee et garde en acier. Fourreau en bois recouvert en parchemin. Travail italien. XVIII Siecle.           |,3097,98.3,False,positional,,,Objets divers,,Sec. XVIII
+BO0624_81745,167651,627,652,"PisToLET A RoUET, avec garniture en acier grave, reperce a jour. Travail italien. XVII Siecle.                                   |",3098,97.8,False,positional,,,Objets divers,,Sec. XVII
+BO0624_81745,167652,628,653,Deux BAs-RELIEFs en argent dans un cadre en bois noir. Travail du XVII Siecle.                                                   |,3099,97.4,False,positional,,,Objets divers,,Sec. XVII
 BO0624_81745,167653,629,654,BassiN en cuivre jaune repousse. Dans le fond Adam et Eve. Autour une inscription. Travail venitien.                             |,3100,98.0,False,positional,,,Objets divers,,
 BO0624_81745,167654,630,65,s. GoBELET en cuivre jaune repousse. Travail venitien.,3101,98.1,False,positional,,,Objets divers,,
 BO0624_81745,167655,631,656,"PeTIT-sEAu en cuivre jaune, avec mascarons en relief et ornements graves.",3105,83.7,False,positional,,,Objets divers,,
@@ -639,13 +639,13 @@ BO0624_81745,167661,637,662,Vase en bronze emaille de forme cylindrique avec cou
 BO0624_81745,167662,638,2,conique. Rinceaux et tro's demi-figures d’anges.,3138,97.9,False,positional,,,Objets divers,,
 BO0624_81745,167663,639,665,| 665. Croix analogue.,3140,30.8,False,positional,,,Objets divers,,
 BO0624_81745,167664,640,665,| 665. Croix analogue. | 665. Croix analogue. |,3144,79.6,False,positional,,,Objets divers,,
-BO0624_81745,167665,641,666,"| 666. VrrRAIL rond, representant la Vierge portant l'enfant Jesus. XVII Siecle.Diam.26 cent.                   |",3145,100.0,False,positional,,,Objets divers,,
-BO0624_81745,167666,642,667,"| 667. VrrRA1L de forme rectangulaire, decore d’un groupe de XVII Siecle. Larg. 18 cent., haut. 14 cent.        |",3146,93.1,False,positional,,,Objets divers,,
-BO0624_81745,167667,643,668,"| 668. VrrRAIL rond, representant la Flagellation. XVII Siecle. Diam.20 cent.                                   |",3147,100.0,False,positional,,,Objets divers,,
-BO0624_81745,167668,644,669,"| 669. VirRAIL rond, representant un sujet de la Bible. XVII Siecle. Diam.20 cent.                              |",3148,100.0,False,positional,,,Objets divers,,
-BO0624_81745,167669,645,670,| 670. VITRAIL.L'enfant Jesus. | XVI Siecle. Long. 30 cent.,3149,100.0,False,positional,,,Objets divers,,
-BO0624_81745,167670,646,671,"| 671. VirRAiL de forme rectangulaire. La Vierge portant lenfant XVI Siecle.Long.25 cent., larg.20 cent.        |",3150,97.0,False,positional,,,Objets divers,,
-BO0624_81745,167671,647,672,"| 672. VrrRAiL de forme rectangulaire, decore d’un ecusson armorie. XVII Siecle. Long. 20 cent., larg. 14 cent. |",3151,100.0,False,positional,,,Objets divers,,
+BO0624_81745,167665,641,666,"| 666. VrrRAIL rond, representant la Vierge portant l'enfant Jesus. XVII Siecle.Diam.26 cent.                   |",3145,100.0,False,positional,,,Objets divers,,Sec. XVII
+BO0624_81745,167666,642,667,"| 667. VrrRA1L de forme rectangulaire, decore d’un groupe de XVII Siecle. Larg. 18 cent., haut. 14 cent.        |",3146,93.1,False,positional,,,Objets divers,,Sec. XVII
+BO0624_81745,167667,643,668,"| 668. VrrRAIL rond, representant la Flagellation. XVII Siecle. Diam.20 cent.                                   |",3147,100.0,False,positional,,,Objets divers,,Sec. XVII
+BO0624_81745,167668,644,669,"| 669. VirRAIL rond, representant un sujet de la Bible. XVII Siecle. Diam.20 cent.                              |",3148,100.0,False,positional,,,Objets divers,,Sec. XVII
+BO0624_81745,167669,645,670,| 670. VITRAIL.L'enfant Jesus. | XVI Siecle. Long. 30 cent.,3149,100.0,False,positional,,,Objets divers,,Sec. XVI
+BO0624_81745,167670,646,671,"| 671. VirRAiL de forme rectangulaire. La Vierge portant lenfant XVI Siecle.Long.25 cent., larg.20 cent.        |",3150,97.0,False,positional,,,Objets divers,,Sec. XVI
+BO0624_81745,167671,647,672,"| 672. VrrRAiL de forme rectangulaire, decore d’un ecusson armorie. XVII Siecle. Long. 20 cent., larg. 14 cent. |",3151,100.0,False,positional,,,Objets divers,,Sec. XVII
 BO0624_81745,167672,648,673,| 673. VrrRAIL de forme rectangulaire representant la Vierge qui                                                |,3152,84.1,False,positional,,,Objets divers,,
 BO0624_81745,167673,649,674,"VrrRAIL de forme rectangulaire, dans un cadre noir. La",3155,96.3,False,positional,,,Objets divers,,
 BO0624_81745,167674,650,2,Cene des Apotres.,3156,94.1,False,positional,,,Objets divers,,

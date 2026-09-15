@@ -38,7 +38,7 @@ BO0624_83971,22816,36,38,"Plat long,decore de fleurs.Ancienne faience de Marseil
 BO0624_83971,22817,37,39,"—— Deux petits plats ronds a bord festonne, decores",70,96.9,False,positional,,,PIATTI,,
 BO0624_83971,22818,38,40,"—Deux assiettes,decorees de fleurettes. Ancienne faience de Marseille.",72,97.8,False,positional,,,PIATTI,,
 BO0624_83971,22819,39,41,"Menagere ajouree, decoree de feurs.Ancienne faience du Midi.",73,97.5,False,positional,,,FAIENCES,,
-BO0624_83971,22820,40,42,"Petite coupe, decoree de fleurs et munie de deux anses a branchages. Ancienne faience de Sceaux. Avec la date : 1755.",74,98.7,False,positional,,,FAIENCES,,
+BO0624_83971,22820,40,42,"Petite coupe, decoree de fleurs et munie de deux anses a branchages. Ancienne faience de Sceaux. Avec la date : 1755.",74,98.7,False,positional,,,FAIENCES,,Sec. XVIII
 BO0624_83971,22821,41,43,"Tasse trembleuse avec couvercle, decoree d'un aigle sur un arbuste. Ancienne faience de Sceaux.",75,98.4,False,positional,,,FAIENCES,,
 BO0624_83971,22822,42,44,"— Soulier, decore de fleurs.Ancienne faience",76,96.5,False,positional,,,FAIENCES,,
 BO0624_83971,22823,43,45,"Cache-pot a anse torsade, decor en bleu et violet. Ancienne faience de Nevers.",78,98.0,False,positional,,,FAIENCES,,
@@ -318,7 +318,7 @@ BO0624_83971,23096,316,322,"Eventail du temps de Louis xVI, a monture de nacre a
 BO0624_83971,23097,317,323,"—Eventail du temps de Louis XVI,a monture d'ivoire;feuille en soie imprimee avec paillettes a trois medaillons contenant des allegories de",487,98.6,False,positional,,,EVENTAILS,,
 BO0624_83971,23098,318,324,"- Eventail du temps de Louis XVI,a monture d'ivoire; feuille en soie peinte avec paillettes, presentant un medaillon a sujet galant a trois personnages.",489,98.7,False,positional,,,EVENTAILS,,
 BO0624_83971,23099,319,325,"Eventail du xvile siecle en ivoire peint, presentant des personnages, des fleurs, des oiseaux, des crabes et des poissons.",490,98.3,False,positional,,,EVENTAILS,,
-BO0624_83971,23100,320,326,"Eventail de la fin du xvir siecle,a monture de bois; feuille imprimee relative a l'Assemblee des notables de 1787.",491,98.2,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_83971,23100,320,326,"Eventail de la fin du xvir siecle,a monture de bois; feuille imprimee relative a l'Assemblee des notables de 1787.",491,98.2,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_83971,23101,321,327,"-Eventail de la fin du xvine siecle,a monture nombreuses legendes en italien; au revers, des",492,97.8,False,positional,,,EVENTAILS,,
 BO0624_83971,23102,322,328,"Eventail de la fin du xvie siecle, a monture de nacre doree; sur la feuille, trois medaillons presentant des sujets mythologiques sur fond noir.",494,98.6,False,positional,,,EVENTAILS,,
 BO0624_83971,23103,323,329,"-Grand éventail,a monture de bois peint; feuille imprimee a sujets galants et a personnages",495,97.8,False,positional,,,OGGETTI IN LEGNO,,
@@ -445,7 +445,7 @@ BO0624_83971,23223,443,467,—Deux flacons-tabatieres chinois en verre a,669,95.
 BO0624_83971,23224,444,468,"—Figurine en bas-relief en ivoire peint, repre-",671,95.7,False,positional,,,BASSORILIEVI,,
 BO0624_83971,23225,445,469,"-Collier, compose de globules de jade,de cristal deroche,amethyste,etc.Travail chinois.",673,97.7,False,positional,,,ET DU JAPON,,
 BO0624_83971,23226,446,470,- Six epingles de coiffure et deux pendants,674,95.3,False,positional,,,OGGETTI VARI,,
-BO0624_83971,23227,447,471,"-Petit pitong en laque rouge de Pekin. Exposition de l'Union Centrale,1865.",676,97.3,False,positional,,,ET DU JAPON,,
+BO0624_83971,23227,447,471,"-Petit pitong en laque rouge de Pekin. Exposition de l'Union Centrale,1865.",676,97.3,False,positional,,,ET DU JAPON,,Sec. XIX
 BO0624_83971,23228,448,472,"Theiere en laque de la Chine,a paysages.",677,95.1,False,positional,,,ET DU JAPON,,
 BO0624_83971,23229,449,473,"—Boite rectangulaire en bois de fer,a pieds decoupes, garnie aux angles de cuivres ciseles; les faces sont ornees de fleurs et objets honorifiques en nacre sculptee, et le couvercle,d'un chien de Fo en ivoire. Cochinchine. Exposition",678,99.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83971,23230,450,474,—Coupe libatoire en bas argent grave.Travail,680,95.6,False,positional,,,ET DU JAPON,,
@@ -602,7 +602,7 @@ BO0624_83971,23380,600,637,Portrait de Madame Lesage.,1309,92.6,False,positional
 BO0624_83971,23381,601,638,Portrait deJeuneFemme.,1321,91.3,False,positional,ROMBOUTS (THEODORE),,,,
 BO0624_83971,23382,602,640,-La Jeune Fille auruban vert.,1342,93.1,False,positional,SCHALL(Attribue a FREDERIC-JEAN),,,,
 BO0624_83971,23383,603,64,l —Jeune Femme dans un parc.,1350,96.3,False,positional,SCHALL(Attribue a FREDERIC-JEAN),,,,
-BO0624_83971,23384,604,642,"L'Attente. fs,1668-1752",1367,68.6,False,positional,TOURNIERES (ROBERT),,,,
+BO0624_83971,23384,604,642,"L'Attente. fs,1668-1752",1367,68.6,False,positional,TOURNIERES (ROBERT),,,,Sec. XVII
 BO0624_83971,23385,605,643,Portrait de Jeune Femme.,1369,92.0,False,positional,TOURNIERES (ROBERT),,,,
 BO0624_83971,23386,606,644,JeuneFemme enrobe blanche.,1377,92.6,False,positional,TOURNIERES (ROBERT),,,,
 BO0624_83971,23387,607,645,-Une Comedienne.,1387,87.5,False,positional,TOURNIERES (ROBERT),,,,

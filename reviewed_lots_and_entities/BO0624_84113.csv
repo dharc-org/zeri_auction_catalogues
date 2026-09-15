@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_84113,29840,1,I,NSTALLEE DANS UNE CHAMBRE,17,98.0,False,positional,,,POUTRE SCULPTEE,,
 BO0624_84113,29841,2,493,- Deux GRANDs MoTIrs d'architecture en pierre sculpte a decor d'arcatures trilobees a fond plein. xve siecle.,21,98.1,False,positional,,,POUTRE SCULPTEE,,
 BO0624_84113,29842,3,494,- Deux GRANDEs coLoNNEs en marbre gris veine de blanc.,25,96.2,False,positional,,,POUTRE SCULPTEE,,
-BO0624_84113,29843,4,495,"— STATuE en pierre sculptee, presentant un personnage cuirasse et casque, tenant un singe. xvre siecle. et 23Mai 1912.",26,91.5,False,positional,,,POUTRE SCULPTEE,,
+BO0624_84113,29843,4,495,"— STATuE en pierre sculptee, presentant un personnage cuirasse et casque, tenant un singe. xvre siecle. et 23Mai 1912.",26,91.5,False,positional,,,POUTRE SCULPTEE,,Sec. XX
 BO0624_84113,29844,5,496,- GRossE cHAuvE-soURIs en pierre sculptee.,35,95.1,False,positional,,,POUTRE SCULPTEE,,
 BO0624_84113,29845,6,497,"- BusTE de sainte femme couronnee en pierre sculptee. xvIe siecle,",36,96.9,False,positional,,,POUTRE SCULPTEE,,
 BO0624_84113,29846,7,498,—DEux GRANDs MoNTANTs de charpente de maison en chene.,37,96.3,False,positional,,,POUTRE SCULPTEE,,
@@ -65,7 +65,7 @@ BO0624_84113,29902,63,558,"- FRAGMENT de gargouille en pierre presentant un anim
 BO0624_84113,29903,64,559,- PiLAsTRE en pierre sculptee de forme quadrangulaire. 1l est orne sur la face d'un bouquet de fruits et d'ecussons armories suspendus a des rubans. Encadrement moulure. xvie siecle.,295,98.9,False,positional,,,POUTRE SCULPTEE,,
 BO0624_84113,29904,65,560,"-VoLET de fenetre a quatre compartiments en bois;il est muni de tres nombreuses pentures, charnieres, verrous,",299,98.1,False,positional,,,POUTRE SCULPTEE,,
 BO0624_84113,29905,66,56,l - SuppoRT de poulie en fer forge en forme de coq. xvile,304,98.2,False,positional,,,POUTRE SCULPTEE,,
-BO0624_84113,29906,67,562,"- CHEMINEE en pierre. Le bandeau est moulure et decore au centre d'un écusson armorie inscrit dans une couronne de feuilles sur un ruban portant les initiales G. M. et la date : .1602. Les montants sont en forme de consoles, ornes sur la face de motifs geometriques, et sur les cotes de rinceaux",309,99.3,False,title_direct,,,CHEMINEES,,
+BO0624_84113,29906,67,562,"- CHEMINEE en pierre. Le bandeau est moulure et decore au centre d'un écusson armorie inscrit dans une couronne de feuilles sur un ruban portant les initiales G. M. et la date : .1602. Les montants sont en forme de consoles, ornes sur la face de motifs geometriques, et sur les cotes de rinceaux",309,99.3,False,title_direct,,,CHEMINEES,,Sec. XVII
 BO0624_84113,29907,68,563,"- GARGouILLE en pierre sculptee, presentant un animal fan-",314,96.4,False,positional,,,POUTRE SCULPTEE,,
 BO0624_84113,29908,69,564,-- GARGouILLE en pierre unie de forme rectangulaire a deversoir saillant.,319,97.2,False,positional,,,POUTRE SCULPTEE,,
 BO0624_84113,29909,70,565,"- GRossE BAsE de colonne en pierre, a coins coupes. xlle siecle.",320,96.7,False,positional,,,POUTRE SCULPTEE,,
@@ -171,7 +171,7 @@ BO0624_84113,30008,169,671,"- GrouPE en pierre sculptee, presentant la Vierge de
 BO0624_84113,30009,170,672,"—MoRTIER en pierre sculptee,presentant ecusson d'armoiries accoste de deux sirenes a corps de poisson.",688,98.0,False,positional,,,BOIS SCULPTES; TERRES CUITES,,
 BO0624_84113,30010,171,673,BusTE de personnage barbu en pierre tendre sculptee et,693,96.4,False,positional,,,BOIS SCULPTES; TERRES CUITES,,
 BO0624_84113,30011,172,674,"—FoRT LoT de fragments d'architecture varies: clochetons, pinacles, gables, fleurons,bases de colonnettes, arcatures,",697,98.2,False,positional,,,BOIS SCULPTES; TERRES CUITES,,
-BO0624_84113,30012,173,675,"CoLLEcTioN de claveaux, de fenetres,et de voutes a decor de rocailles variees. Quelques-uns presentent des ecussons armories et l'un d'eux porte la date de 1770. Ils proviennent du Mans.(Environ dix-huit pieces.)",700,99.0,False,positional,,,BOIS SCULPTES; TERRES CUITES,,
+BO0624_84113,30012,173,675,"CoLLEcTioN de claveaux, de fenetres,et de voutes a decor de rocailles variees. Quelques-uns presentent des ecussons armories et l'un d'eux porte la date de 1770. Ils proviennent du Mans.(Environ dix-huit pieces.)",700,99.0,False,positional,,,BOIS SCULPTES; TERRES CUITES,,Sec. XVIII
 BO0624_84113,30013,174,676,"- GRANDE cHEMINEE.Elle est composee d'un large bandeau, decore d'une frise de cavaliers et d'hommes d'armes combattant. Les montants sont ornes de trophees guerriers et de mascarons sur la face et de grosses moulures sur les cotes. (Les montants ne paraissent pas se raccorder exactement a la traverse.)xvie siecle.",701,99.4,False,positional,,,BOIS SCULPTES; TERRES CUITES,,
 BO0624_84113,30014,175,677,"-PETITE cHEMINEE en pierre. Le bandeau et les montants sont unis,ornes simplement d'une moulure. Comnencement",705,98.1,False,positional,,,BOIS SCULPTES; TERRES CUITES,,
 BO0624_84113,30015,176,678,"- CHEMINEE a peu pres semblable, provenant également du chateau de La Selle.Le bandeau est moulure et de forme",712,98.2,False,title_direct,,,CHEMINEES,,

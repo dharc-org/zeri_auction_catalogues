@@ -1,10 +1,10 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84158,728337,1,1820,1902.,7,61.5,False,none,,,,,
-BO0624_84158,728338,2,1812,1893.,16,61.5,False,none,,,,,
-BO0624_84158,728339,3,2,## Jeune Fille écrivant une lettre. 1883.,20,92.5,False,none,,,,,
+BO0624_84158,728337,1,1820,1902.,7,61.5,False,none,,,,,Sec. XX
+BO0624_84158,728338,2,1812,1893.,16,61.5,False,none,,,,,Sec. XIX
+BO0624_84158,728339,3,2,## Jeune Fille écrivant une lettre. 1883.,20,92.5,False,none,,,,,Sec. XIX
 BO0624_84158,728340,4,3,## Le Dejeuner aux huitres.,32,100.0,False,none,,,,,
-BO0624_84158,728341,5,1817,1878.,50,61.5,False,none,,,,,
-BO0624_84158,728342,6,1813,1871.,65,61.5,False,none,,,,,
+BO0624_84158,728341,5,1817,1878.,50,61.5,False,none,,,,,Sec. XIX
+BO0624_84158,728342,6,1813,1871.,65,61.5,False,none,,,,,Sec. XIX
 BO0624_84158,728343,7,6,## Les Laveuses sur le bord du lac.,69,100.0,False,none,,,,,
 BO0624_84158,728344,8,I,NCONNU,75,92.3,False,none,,,,,
 BO0624_84158,728345,9,8,Entree de maison a Venise: ## Hendrik-Willem MESDAG,85,69.4,False,none,,,,,
@@ -57,11 +57,11 @@ BO0624_84158,728391,55,58,"MonTRE en or émaille, presentant lautel de l'Amour. 
 BO0624_84158,728392,56,59,"— MonTrE a repetition et a savonnette, en or émaille; d'un cote, un sujet galant; de l'autre, un bouquet de fleurs execute en petites roses sur fond émaille rouge. Bordure de demi-perles. Mouve-",242,99.2,False,none,,,,,
 BO0624_84158,728393,57,6,"o— MonTRE en forme de corbeille, en or avec traces d'émail. Cadran signe: Robert Soret. Fin du xvn siecle.",244,99.5,False,none,,,,,
 BO0624_84158,728394,58,61,"- PeTIT PLATEAu rond en émail sur or, presentant un sujet militaire. Revers emaille bleu orne d'un monogramme timbre d'une",245,98.7,False,none,,,,,
-BO0624_84158,728395,59,62,"-- Boire rectangulaire montee a cage. Elle est ornee, sur toutes les faces et le revers du couvercle, de gouaches par Jacques-Guillaume van Blarenberghe (16g1-1742); celle du couvercle signee: Jacobvs Blarenberghe. Ces gouaches s representent toutes des sujets militaires, a l'exception de celles qui ornent la bordure du couvercle et qui offrent des s trophees d'armes et d'étendards,des tentes et",250,99.6,False,none,,,,,
+BO0624_84158,728395,59,62,"-- Boire rectangulaire montee a cage. Elle est ornee, sur toutes les faces et le revers du couvercle, de gouaches par Jacques-Guillaume van Blarenberghe (16g1-1742); celle du couvercle signee: Jacobvs Blarenberghe. Ces gouaches s representent toutes des sujets militaires, a l'exception de celles qui ornent la bordure du couvercle et qui offrent des s trophees d'armes et d'étendards,des tentes et",250,99.6,False,none,,,,,Sec. XVIII
 BO0624_84158,728396,60,63,"DRAGEoir de forme ronde, en ancienne porcelaine de Chine,",255,97.3,False,none,,,,,
 BO0624_84158,728397,61,64,"— PeTITE BoirE ronde en ancienne porcelaine de Saxe, a decor de",257,97.6,False,none,,,,,
 BO0624_84158,728398,62,65,"—— DRAGEoir en ancienne porcelaine de Saxe, simulant une grosse",259,97.5,False,none,,,,,
-BO0624_84158,728399,63,66,"DRAGEoir de forme contournee, en émail de Saxe du xvin siecle, presentant sur toutes les faces des sujets maritimes avec les initiales A.S et la date 1743 sur le pourtour. Monture en argent.",261,99.2,False,none,,,,,
+BO0624_84158,728399,63,66,"DRAGEoir de forme contournee, en émail de Saxe du xvin siecle, presentant sur toutes les faces des sujets maritimes avec les initiales A.S et la date 1743 sur le pourtour. Monture en argent.",261,99.2,False,none,,,,,Sec. XVIII
 BO0624_84158,728400,64,67,"— Boire rectangulaire en émail de Saxe du xvinl siecle, presentant en dorure sur fond blanc une vue du siege d'une ville, ainsi que des trophees d'armes. Monture en argent.",262,99.1,False,none,,,,,
 BO0624_84158,728401,65,68,"BoirE rectangulaire en email de Saxe du xvi siecle, presentant une composition de style chinois, ainsi que des feurs et des branchages. Monture en argent.",263,99.0,False,none,,,,,
 BO0624_84158,728402,66,6,"g — Boire ronde en ecaille brune galonnee de cuivre, presentant, sur le couvercle, une gouache: paysage anime au bord de la mer, du",264,99.6,False,none,,,,,
@@ -74,7 +74,7 @@ BO0624_84158,728408,72,75,"Boire ovale en or de couleur cisele et grave a dessin
 BO0624_84158,728409,73,76,"Boire ovale en or de couleur, grave et cisele a pois et étoiles semes; bordures de cordelettes. Sur la gorge, la marque du Petit Dunkerque. Epoque Louis XVI. Poincons de Clavel, regisseur des",277,99.2,False,none,,,,,
 BO0624_84158,728410,74,77,"— Boire ronde en or de couleur cisele, decoree d'une rosace, de pois et d'etoiles ainsi que de bordures a petites feuilles. Epoque LouisXVI.",279,98.9,False,none,,,,,
 BO0624_84158,728411,75,78,"— Boire ronde en or cisele, presentant sur le couvercle une rosace et sur le reste de la surface de la piece des pois reserves sur fond grave et cercle. Bordures a cordelettes. Epoque Louis XVI. Poincons de Clavel, regisseur des droits de marque.",280,99.4,False,none,,,,,
-BO0624_84158,728412,76,79,"— Boire ronde decoree de marbrures au vernis et galonnée d'or; elle presente sur le couvercle une miniature : portrait d'homme en buste,vetu d'un habit gros bleu et d'un gilet raye,par Fache. Signee et datee 1794. Fin du xvin siecle.",281,99.3,False,none,,,MINIATURE,,
+BO0624_84158,728412,76,79,"— Boire ronde decoree de marbrures au vernis et galonnée d'or; elle presente sur le couvercle une miniature : portrait d'homme en buste,vetu d'un habit gros bleu et d'un gilet raye,par Fache. Signee et datee 1794. Fin du xvin siecle.",281,99.3,False,none,,,MINIATURE,,Sec. XVIII
 BO0624_84158,728413,77,8,"o — Boire ovale en or de couleur grave et cisele, presentant sur le couvercle un medaillon peint sur émail offrant une figure allegorique a la musique. Fin du xvine siecle.",282,99.7,False,none,,,,,
 BO0624_84158,728414,78,81,"— Boire plate oblongue, en or émaille bleu, presentant sur le couvercle une composition de style antique entouree d'une bordure de demi-perles. Travail de Geneve, fin du xvin siecle.",283,99.2,False,none,,,,,
 BO0624_84158,728415,79,82,"Boire ovale en or de couleur, cisele et grave a rinceaux et petites feuilles. Fin duxvin siecle. Sur le couvercle a éte rapporte un medaillon ovale peint sur email du xvin siecle:portrait de femme en buste, vetue d'un corsage bleu decollete avec draperie rouge.",284,99.4,False,none,,,,,

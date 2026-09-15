@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_81806,93466,1,1,Elle sera faite au comptant.,40,96.4,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93467,2,2,Les acquereurs paieront dix pour cent en sus des encheres; pour,42,98.4,False,positional,M.R LINO PESARO,,,,
-BO0624_81806,93468,3,3,"En cas de contestation le lot sera remis en vente. Le Directeur de la Vente se reserve le droit de changer lordre du catalogue, de reunir et diviser les lots. Les offres ne pourront etre inferieures d'un franc jusqu'a 100 frs.; a 5 frs. jusqu'a 1000 frs. et a 50 frs. au dela de 1000 frs.",45,61.4,False,positional,M.R LINO PESARO,,,,
+BO0624_81806,93468,3,3,"En cas de contestation le lot sera remis en vente. Le Directeur de la Vente se reserve le droit de changer lordre du catalogue, de reunir et diviser les lots. Les offres ne pourront etre inferieures d'un franc jusqu'a 100 frs.; a 5 frs. jusqu'a 1000 frs. et a 50 frs. au dela de 1000 frs.",45,61.4,False,positional,M.R LINO PESARO,,,,Sec. XI
 BO0624_81806,93469,4,6,Le transport et l'imballage des objets vendus sont a charge de l'ac-,46,98.5,False,positional,M.R LINO PESARO,,OGGETTI VARI,,
 BO0624_81806,93470,5,7,"L'entreprise ne garde pas en depot les objets vendus; l' acquereur devra les ritirer dans la matinee suivante 1' adjudication, passe ce delai de temps le vendeur proprietaire se reserve le droit d'annuler ou de rendre operative l'adjudication. L'Entreprise aura aussi le droit de remettre en vente les objets non retires a tout risque de l'acquereur.",48,99.7,False,positional,M.R LINO PESARO,,OGGETTI VARI,,
 BO0624_81806,93471,6,8,L'exposition permettant au publique de se rendre compte de 1' etat,50,98.5,False,positional,M.R LINO PESARO,,,,
@@ -33,7 +33,7 @@ BO0624_81806,93496,31,22,"Anonyme, La Madone, peinture sur bois, cadre dore; m.0
 BO0624_81806,93497,32,23,"Anonyme, La Sainte Famille, peinture sur toile, cadre dore; me tres 0.23X0.18.",107,98.0,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93498,33,24,"Ecole Francaise,XVIl siecle,Mythologie,deux peintures sur bois cadres dores;m.0.30x0.20.",108,98.3,False,positional,M.R LINO PESARO,,OGGETTI IN LEGNO,,
 BO0624_81806,93499,34,25,"Bilelli, Portraits de Cicco Tono Arpaiano et de Thomas Anello d'Amalfi, peintures a la detrempe signees, cadres dores; m. 0.16x0.12. Ecole Bolonaise,xVlI siecle,Sainte Catherine,peinture sur toile, cadre dore;m.0.28x0.34. Ecole Francaise, xvll siecle, Portrait de gentilhomme, peinture sur toile, beau cadre sculpte et dore; m.0.28x0.28.",109,55.8,False,positional,M.R LINO PESARO,Scuola Bolognese,,,
-BO0624_81806,93500,35,28,"Da Ponte Jacques dit ""LE BASSANO""(1510-1592), Scene agreste, belle peinture sur toile, cadre peint; m. 1.20x0.90.",112,98.6,False,positional,M.R LINO PESARO,,,,
+BO0624_81806,93500,35,28,"Da Ponte Jacques dit ""LE BASSANO""(1510-1592), Scene agreste, belle peinture sur toile, cadre peint; m. 1.20x0.90.",112,98.6,False,positional,M.R LINO PESARO,,,,Sec. XVI
 BO0624_81806,93501,36,29,"Ecole Hollandaise, xVll siecle,Les marches hollandais,deux curieuses peintures sur toile; m.1.55X1.15.",113,98.5,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93502,37,30,"Ecole Hollandaise,XVll siecle,Les marches hollandais, deux curieuses peintures sur toile;m.1.55X1.15.",114,98.5,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93503,38,2,"31.Ecole Bolonaise,XVlI siecle, Quatre Sibylles, quatre peintures sur toile, cadres sculptes, peints et dores; m. 0.63x0.46.",115,99.2,False,positional,M.R LINO PESARO,Scuola Bolognese,,,
@@ -58,7 +58,7 @@ BO0624_81806,93521,56,42,"Valenti Durazzo Teresa, peintre genoise distinguee de 
 BO0624_81806,93522,57,43,"Valenti Durazzo Teresa, trois aquarelles semblables aux precedentes;m.0.35X0.50.",134,98.1,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93523,58,2,"44.Ecole Francaise,xVll siecle,a Maternite,tresbeau pastel,cad dore;m.0.27X0.37.",135,98.8,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93524,59,45,"Ecole Francaise, Xvlll siecle, Portraits de dame et de gentilhomme, deux peintures sur toile, beau cadre sculpte et dore; metres 0.45X0.35.",136,98.9,False,positional,M.R LINO PESARO,,,,
-BO0624_81806,93525,60,46,"La Naissance de Notre Seigneur, curieuse et interessante miniature sur parchemin du XVI siecle, cadre en bois; m.0.22X0.15.",137,98.8,False,positional,M.R LINO PESARO,,MINIATURE,,
+BO0624_81806,93525,60,46,"La Naissance de Notre Seigneur, curieuse et interessante miniature sur parchemin du XVI siecle, cadre en bois; m.0.22X0.15.",137,98.8,False,positional,M.R LINO PESARO,,MINIATURE,,Sec. XVI
 BO0624_81806,93526,61,48,"Ecole Genoise, xVll siecle, Portrait de jeune garcon, peinture sur toile, riche cadre sculpte et dore; m. 0.40x0.34. 47.Ecole Bolonaise,XVll siecle,Enfant endormi dans des guirlandes de fleurs, belle peinture ovale sur toile,riche cadre sculpte et dore.",139,71.1,False,positional,M.R LINO PESARO,Scuola Bolognese,,,
 BO0624_81806,93527,62,49,"Ecole Bolonaise,XVll siecle, Sujets religieux,deux peintures sur ardoise, beaux cadres sculptes et dores; m. 0.30x0.22.",140,98.7,False,positional,M.R LINO PESARO,Scuola Bolognese,,,
 BO0624_81806,93528,63,8,"51.Ecole Francaise,xvlll siecle,Portrait d'enfant, peint sur bois, cadre dore;m.0.40x0.30.",141,98.9,False,positional,M.R LINO PESARO,,OGGETTI IN LEGNO,,
@@ -82,7 +82,7 @@ BO0624_81806,93545,80,67,"Ripari V.,Les cousins, tres belle peinture sur toile, 
 BO0624_81806,93546,81,68,"Fanny,Fleurs, deux peintures sur toile, cadres dores; m. 0.57x0.36.",162,97.6,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93547,82,69,"Ricci S., Interieur d'une ferme, peinture sur toile, cadre dore; metres0.50X0.70.",163,98.0,False,positional,M.R LINO PESARO,,ARREDAMENTI,,
 BO0624_81806,93548,83,70,"Pesenti, Interieur d’une eglise,peinture sur toile, cadre dore; me",164,97.7,False,positional,M.R LINO PESARO,,ARREDAMENTI,,
-BO0624_81806,93549,84,71,"Gignous Eugene, Paysage, tres belle peinture sur toile, signee et portant la date 1879, cadre dore;m.0.40x0.70.",166,98.6,False,positional,M.R LINO PESARO,,,,
+BO0624_81806,93549,84,71,"Gignous Eugene, Paysage, tres belle peinture sur toile, signee et portant la date 1879, cadre dore;m.0.40x0.70.",166,98.6,False,positional,M.R LINO PESARO,,,,Sec. XIX
 BO0624_81806,93550,85,72,"Anonyme, Paysage, peinture sur toile, cadre dore; m.0.68x0.50.",167,97.4,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93551,86,73,"Rinoldi, Tete de vieux, peinture sur toile, cadre dore; m.0.45x0.35.",168,97.7,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93552,87,74,"Steffani, Marine, peinte sur toile, cadre dore; m.1.25X0.75.",169,97.3,False,positional,M.R LINO PESARO,,,,
@@ -93,7 +93,7 @@ BO0624_81806,93556,91,78,"Anonyme,Portraits de personnages illustres, deux peint
 BO0624_81806,93557,92,79,"Anonyme,Portraits de personnages illustres, deux peintures ovales sur toile, cadres.",174,98.2,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93558,93,80,"Ecole Espagnole,XVll siecle,Ritratto di Leonardo figlio di Sacramoro primo capitano di giente del Duca Filippo Maria Visconti, peinture sur toile, cadre noir; m. 2.10X1.30.",175,99.1,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93559,94,81,"Ecole Francaise,xVll siecle,Portrait de jeune garcon,peint sur toile, cadre ovale dore.",176,98.3,False,positional,M.R LINO PESARO,,,,
-BO0624_81806,93560,95,82,"Giacomelli F., Les poussins, aquarelle, cadre dore. Induno G., Une negresse, belle peinture signee; m.0.25x0.20. Sandri Joseph,L'Assomption,belle composition, peinture sur toile signee et avec la date 1859, cadre en bois; m. 1.90x1.50.",179,69.4,False,positional,M.R LINO PESARO,,OGGETTI IN LEGNO,,
+BO0624_81806,93560,95,82,"Giacomelli F., Les poussins, aquarelle, cadre dore. Induno G., Une negresse, belle peinture signee; m.0.25x0.20. Sandri Joseph,L'Assomption,belle composition, peinture sur toile signee et avec la date 1859, cadre en bois; m. 1.90x1.50.",179,69.4,False,positional,M.R LINO PESARO,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_81806,93561,96,85,"Michis, Un pecheur de Chioggia,peinture sur toile, signee, cadre dore;m.0.20X0.15.",180,98.1,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93562,97,86,"Ecole francaise, xvIll siecle,Deux portraits de jeune femme,d' une fine touche, cadres sculptes et dores; m. 0.55x0.42.",181,98.7,False,positional,M.R LINO PESARO,,,,
 BO0624_81806,93563,98,87,"Bottini, Les joueurs aux cartes, peinture sur toile, signee; metres 0.40X0.50.",182,98.0,False,positional,M.R LINO PESARO,,,,
@@ -110,7 +110,7 @@ BO0624_81806,93573,108,99,Deux fourchettes et deux couteaux avec manches en porc
 BO0624_81806,93574,109,100,"La vendeuse de fruits, groupe de deux figures en porcelaine blanche de Vienne, piece rare; marque; xVIll siecle. (Planche Viil).",197,98.4,False,positional,,,Porcelaines et Fayences,,
 BO0624_81806,93575,110,101,"Statuette ancienne en jade, art japonais.",198,95.1,False,positional,,,Porcelaines et Fayences,,
 BO0624_81806,93576,111,102,Deux huilieres en fayence blanche de Vicenza; XVIll siecle.,199,96.6,False,positional,,,Porcelaines et Fayences,,
-BO0624_81806,93577,112,103,"Pasteur, statuette en porcelaine polychrome de Louisbourg; XVII siecle (quelques reparations). (Planche Vill)",200,73.1,False,positional,,,Porcelaines et Fayences,,
+BO0624_81806,93577,112,103,"Pasteur, statuette en porcelaine polychrome de Louisbourg; XVII siecle (quelques reparations). (Planche Vill)",200,73.1,False,positional,,,Porcelaines et Fayences,,Sec. XVII
 BO0624_81806,93578,113,104,Deux vases a trombe en porcelaine du Japon; decoration bleue.,202,96.7,False,positional,,,VASI,,
 BO0624_81806,93579,114,16,"105.Idylle, groupe en porcelaine polychrome, vieux Saxe; marque.",203,97.6,False,positional,,,Porcelaines et Fayences,,
 BO0624_81806,93580,115,106,"Deux vases en porcelaine du Japon, monte a lampe avec riche decoration en bronze cisele et dore; tres belles pieces.",204,98.3,False,positional,,,VASI,,
@@ -187,7 +187,7 @@ BO0624_81806,93650,185,185,Deux salieres en porcelaine coloriee de Saxe.,297,95.
 BO0624_81806,93651,186,186,"Grand centre de table en forme de flambeau, en fayence blanche, surmonte d'une statuette, ornements de petits amours en bronze dore.",298,98.5,False,positional,,,OGGETTI VARI,,
 BO0624_81806,93652,187,187,Grand groupe en porcelaine ancienne de Ginori.,299,95.7,False,positional,,,Porcelaines et Fayences,,
 BO0624_81806,93653,188,188,Deux petits vases a trombe en fayence de Delft.,300,95.8,False,positional,,,VASI,,
-BO0624_81806,93654,189,189,"Deux barbets en porcelaine polycrome de Saxe; marques. Deux vases avec couvercle et un vase a trombe en porcelaine de Chine, belle decoration de fleurs et rabesque, pieces tres rares; XV siecle. (Planche XIl). Le gagne petit, groupe en porcelaine de Saxe; marque.",302,73.6,False,positional,,,VASI,,
+BO0624_81806,93654,189,189,"Deux barbets en porcelaine polycrome de Saxe; marques. Deux vases avec couvercle et un vase a trombe en porcelaine de Chine, belle decoration de fleurs et rabesque, pieces tres rares; XV siecle. (Planche XIl). Le gagne petit, groupe en porcelaine de Saxe; marque.",302,73.6,False,positional,,,VASI,,Sec. XV
 BO0624_81806,93655,190,192,"Vase decore de fleurs polychromes en relief, porcelaine ancienne du Japon.",304,97.3,False,positional,,,VASI,,
 BO0624_81806,93656,191,193,Deux vases a bocal en fayence de Pesaro; XVIll siecle.,305,96.3,False,positional,,,VASI,,
 BO0624_81806,93657,192,194,"Statuette representant un personnage, porcelaine blanche de Vienne; marque, restaure; xvl siecle.",306,97.9,False,positional,,,Porcelaines et Fayences,,
@@ -200,10 +200,10 @@ BO0624_81806,93663,198,6,siecle; repare.,317,100.0,False,positional,,,Porcelaine
 BO0624_81806,93664,199,200,"Beau vase en fayence de Faenza, decore de fleurs; console en bois dore.",319,89.2,False,positional,,Scuola Faentina,OGGETTI IN LEGNO,,
 BO0624_81806,93665,200,201,"La joueuse de guironde, jolie statuette en porcelaine polychrome de Saxe; marque, xvIll siecle. (Planche VIII).",321,98.1,False,positional,,,Porcelaines et Fayences,,
 BO0624_81806,93666,201,202,"Trois vases en porcelaine de Chine, famille rose, bases et couvercles en bois;XVll siecle.",322,97.8,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_81806,93667,202,203,"Vase en forme de bouteille en porcelaine de Chine, famille verte; XVII siecle.",323,88.7,False,positional,,,VASI,,
+BO0624_81806,93667,202,203,"Vase en forme de bouteille en porcelaine de Chine, famille verte; XVII siecle.",323,88.7,False,positional,,,VASI,,Sec. XVII
 BO0624_81806,93668,203,204,"Deux grands vases a couvercle en porcelaine de Chine, decora tion bleue sur fond clair, socle en bois sculpte; xvIll siecle; re- staures.",325,95.3,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_81806,93669,204,205,"Deux grands vases en fayence, decorations bleue a mascarons; Savona; XVII siecle. (Planche XIII).",327,97.8,False,positional,,,VASI,,
-BO0624_81806,93670,205,206,"Plat en fayence, Castelli; XVII siecle; restaure.",328,95.7,False,positional,,,PIATTI,,
+BO0624_81806,93669,204,205,"Deux grands vases en fayence, decorations bleue a mascarons; Savona; XVII siecle. (Planche XIII).",327,97.8,False,positional,,,VASI,,Sec. XVII
+BO0624_81806,93670,205,206,"Plat en fayence, Castelli; XVII siecle; restaure.",328,95.7,False,positional,,,PIATTI,,Sec. XVII
 BO0624_81806,93671,206,207,"Trois vases en fayence, decoration bleue et or.",329,95.7,False,positional,,,VASI,,
 BO0624_81806,93672,207,208,"Deux grands vases en fayence de Pesaro, decoration bleue; pieces rares; XVIlI siecle.",330,97.6,False,positional,,,VASI,,
 BO0624_81806,93673,208,209,"Musiciennes, deux statuettes en porcelaine de Saxe.",331,96.1,False,positional,,,Porcelaines et Fayences,,
@@ -246,9 +246,9 @@ BO0624_81806,93709,244,249,"Plat en fayence avec le fond et le bord a jour, deco
 BO0624_81806,93710,245,250,Deux plats en fayence de Vicenza; XVIll siecle; marque J. B.,378,96.6,False,positional,,,PIATTI,,
 BO0624_81806,93711,246,251,Petit sceau avec manche en porcelaine de Saxe.,379,95.7,False,positional,,,Porcelaines et Fayences,,
 BO0624_81806,93712,247,252,"Beau plat en fayence ancienne de Saint-Clement, decoration a jour avec fleurs polychromes.",380,97.8,False,positional,,,PIATTI,,
-BO0624_81806,93713,248,253,Coq et grenouille en argent finement cisele; gr. 1015.,382,96.2,False,positional,,,Argenteries,,
+BO0624_81806,93713,248,253,Coq et grenouille en argent finement cisele; gr. 1015.,382,96.2,False,positional,,,Argenteries,,Sec. XI
 BO0624_81806,93714,249,254,Grande lampe a quatre meches avec abat-jour en argent repousse et cisele; gr. 3235.,383,97.6,False,positional,,,Argenteries,,
-BO0624_81806,93715,250,255,"Deux chandelliers en argent repousse et cisele Louis XVI, mon- tes avec la lumiere electrique; gr. 1100.",384,73.6,False,positional,,,Argenteries,,
+BO0624_81806,93715,250,255,"Deux chandelliers en argent repousse et cisele Louis XVI, mon- tes avec la lumiere electrique; gr. 1100.",384,73.6,False,positional,,,Argenteries,,Sec. XII
 BO0624_81806,93716,251,256,Coffret a bijoux en argent repousse et finement cisele; gr. 440.,386,96.8,False,positional,,,BIGIOTTERIA,,
 BO0624_81806,93717,252,6,257.Porte-bijoux en argent repousse et cisele; gr. 275.,387,98.1,False,positional,,,BIGIOTTERIA,,
 BO0624_81806,93718,253,258,Deux salieres anciennes en argent repousse; gr. 160.,388,96.1,False,positional,,,Argenteries,,
@@ -271,7 +271,7 @@ BO0624_81806,93734,269,274,Petit plat avec piedouche en vieux argent repousse et
 BO0624_81806,93735,270,3,275.Petit vase en argent finement cisele; poid lourd gr. 150.,406,98.3,False,positional,,,VASI,,
 BO0624_81806,93736,271,276,Deux anciens chandelliers en argent repousse et finement cisele; gr.170.,407,97.2,False,positional,,,Argenteries,,
 BO0624_81806,93737,272,277,"Grand vase en argent repousse et cisele, belle piece en style Louis XVI; gr.4465.",408,97.5,False,positional,,,VASI,,
-BO0624_81806,93738,273,278,"Marmite en argent repousse et finement cisele, style Louis XV; gr.1635.",409,97.1,False,positional,,Periodo di Luigi XV,Argenteries,,
+BO0624_81806,93738,273,278,"Marmite en argent repousse et finement cisele, style Louis XV; gr.1635.",409,97.1,False,positional,,Periodo di Luigi XV,Argenteries,,Sec. XVII
 BO0624_81806,93739,274,279,"Huilieres en argent repousse et finement cisele, epoque Empire; gr.950.",410,97.1,False,positional,,,Argenteries,,
 BO0624_81806,93740,275,280,"Deux chandelliers en argent cisele, beau style gotique; gr. 690.",411,96.8,False,positional,,,Argenteries,,
 BO0624_81806,93741,276,281,Deux chandelliers en argent; poids lourd gr. 880.,412,95.8,False,positional,,,Argenteries,,
@@ -281,33 +281,33 @@ BO0624_81806,93744,279,284,"Sucriere en argent, style Empire; gr. 450.",415,95.0
 BO0624_81806,93745,280,285,"Service a the compose de theiere et machine a alcool en argent cisele, style Louis XV; gr. 2285.",416,97.9,False,positional,,Periodo di Luigi XV,OGGETTI VARI,,
 BO0624_81806,93746,281,286,Petite cafetiere en argent repousse et cisele; gr. 235.,417,96.3,False,positional,,,Argenteries,,
 BO0624_81806,93747,282,287,Grand bassin en argent aux armoiries Leonino; gr. 3520.,418,96.3,False,positional,,,Argenteries,,
-BO0624_81806,93748,283,288,"Bassin en argent avec monogramme, style Empire; gr. 1685.",419,96.4,False,positional,,,Argenteries,,
+BO0624_81806,93748,283,288,"Bassin en argent avec monogramme, style Empire; gr. 1685.",419,96.4,False,positional,,,Argenteries,,Sec. XVII
 BO0624_81806,93749,284,289,"Bassin en argent cisele, Louis XIV; gr. 885.",420,95.2,False,positional,,,Argenteries,,
 BO0624_81806,93750,285,290,Plat en argent repousse et cisele; gr. 600.,421,95.2,False,positional,,,PIATTI,,
-BO0624_81806,93751,286,291,"Grandes huilieres en argent cisele et cristal, epoque Empire; gr.1380.",422,97.1,False,positional,,,Argenteries,,
+BO0624_81806,93751,286,291,"Grandes huilieres en argent cisele et cristal, epoque Empire; gr.1380.",422,97.1,False,positional,,,Argenteries,,Sec. XIV
 BO0624_81806,93752,287,292,"Grande theiere et machine a alcool en argent repousse et cisele avec les armoiries Leonino, style Louis-Philippe; gr. 2840.",423,98.3,False,positional,,,Argenteries,,
 BO0624_81806,93753,288,293,Saliere en argent et flacon en cristal; gr. 360.,424,95.7,False,positional,,,Argenteries,,
 BO0624_81806,93754,289,294,Theiere en argent repousse et cisele; gr. 590.,425,95.6,False,positional,,,Argenteries,,
-BO0624_81806,93755,290,295,Six coupes en argent aux armoiries Leonino; gr.1485.,426,96.2,False,positional,,,Argenteries,,
+BO0624_81806,93755,290,295,Six coupes en argent aux armoiries Leonino; gr.1485.,426,96.2,False,positional,,,Argenteries,,Sec. XV
 BO0624_81806,93756,291,296,Theiere en argent aux armoiries du baron Leonino; gr. 780.,427,96.5,False,positional,,,Argenteries,,
 BO0624_81806,93757,292,297,"Service a the compose d'une laitiere, cafetiere, theiere et sucriere en argent, armoiries Leonino; gr. 1970.",428,98.1,False,positional,,,OGGETTI VARI,,
 BO0624_81806,93758,293,298,"Service a the compose de theiere, laitiere, cafetiere et sucriere en argent repousse et cisele, armoiries Leonino; gr. 2325.",429,68.1,False,positional,,,OGGETTI VARI,,
 BO0624_81806,93759,294,299,"Deux beaux chandelliers anciens en argent cisele, remarquables par leur forme élegante; gr. 590.",431,77.7,False,positional,,,Argenteries,,
 BO0624_81806,93760,295,300,"Belle sucriere en argent repousse et cisele, epoque Louis XIv; gr.260.",433,91.6,False,positional,,,Argenteries,,
 BO0624_81806,93761,296,301,"Remarquable service a the compose de theiere, laitiere, sucriere et pot a creme en argent cisele;les pieces portent la marque de la maison Mappin and Webb de Londres; gr. 3415.",435,98.8,False,positional,,,OGGETTI VARI,,
-BO0624_81806,93762,297,302,"Coupe en forme d'amphore et soucoupe en argent repousse et cisele, style Empire; gr. 1915.",436,97.7,False,positional,,,Argenteries,,
+BO0624_81806,93762,297,302,"Coupe en forme d'amphore et soucoupe en argent repousse et cisele, style Empire; gr. 1915.",436,97.7,False,positional,,,Argenteries,,Sec. XX
 BO0624_81806,93763,298,303,"Service a the compose de theiere, laitiere, sucriere et cafetiere en argent repousse et cisele, style Louis-Philippe; gr. 2710.",437,69.1,False,positional,,,OGGETTI VARI,,
 BO0624_81806,93764,299,304,"Service compose de cafetiere, sucriere et laitiere en argent cisele, decoration de fleurs et monogramme du baron Sab. Leonino; gr. 2585.",439,98.5,False,positional,,,OGGETTI VARI,,
-BO0624_81806,93765,300,17,"305 Deux corbeilles a bombons en argent grave et a jour, armoiries Leonino; gr.1350.",440,98.2,False,positional,,,Argenteries,,
-BO0624_81806,93766,301,306,"Beau plat ovale en argent repousse et cisele, remarquable par la belle decoration de feuillage et medaillon avec les portraits de princes allemands; au centre Salome, piece d'argenterie allemande, signee, XVII siecle. (Planche Xvill).",441,93.0,False,positional,,,PIATTI,,
+BO0624_81806,93765,300,17,"305 Deux corbeilles a bombons en argent grave et a jour, armoiries Leonino; gr.1350.",440,98.2,False,positional,,,Argenteries,,Sec. XIV
+BO0624_81806,93766,301,306,"Beau plat ovale en argent repousse et cisele, remarquable par la belle decoration de feuillage et medaillon avec les portraits de princes allemands; au centre Salome, piece d'argenterie allemande, signee, XVII siecle. (Planche Xvill).",441,93.0,False,positional,,,PIATTI,,Sec. XVII
 BO0624_81806,93767,302,307,"Superbe marmite en argent artistement cisele, sur le couvercle une ecrevisse et d'autres crostacees, pieces tres rare et de Musee; chef-d oeuvre d'orfevrerie anglaise de lepoque de Georges IIl; gr.2770. (Planche Xix).",443,99.1,False,positional,,,Argenteries,,
-BO0624_81806,93768,303,308,"Plat en argent repousse; gr. 1435. Sucriere en argent repousse et cisele avec armoiries; gr. 480. Cafetiere en argent cisele, epoque Empire; gr. 875.",445,60.4,False,positional,,,PIATTI,,
+BO0624_81806,93768,303,308,"Plat en argent repousse; gr. 1435. Sucriere en argent repousse et cisele avec armoiries; gr. 480. Cafetiere en argent cisele, epoque Empire; gr. 875.",445,60.4,False,positional,,,PIATTI,,Sec. XV
 BO0624_81806,93769,304,311,Trois plats en argent cisele avec armoiries Leonino; gr. 810. Plat en argent; gr. 325. Deux plats en argent; gr. 820.,447,68.2,False,positional,,,PIATTI,,
 BO0624_81806,93770,305,314,Petite et elegante marmite avec plateau en argent grave et dore a l'interieur; gr. 955.,450,97.7,False,positional,,,ARREDAMENTI,,
-BO0624_81806,93771,306,315,Coupe en argent dore a linterieur; gr.150. Deux coupes pour bombons en argent aux armoiries du baron Leonino; gr. 1315. Deux bougies en argent; gr. 435.,452,67.9,False,positional,,,Argenteries,,
+BO0624_81806,93771,306,315,Coupe en argent dore a linterieur; gr.150. Deux coupes pour bombons en argent aux armoiries du baron Leonino; gr. 1315. Deux bougies en argent; gr. 435.,452,67.9,False,positional,,,Argenteries,,Sec. XIV
 BO0624_81806,93772,307,318,Plat ovale repousse et cisele; tres beau travail de lepoque de Louis xIV; gr. 980.,454,97.5,False,positional,,,PIATTI,,
 BO0624_81806,93773,308,319,"Plat ovale en argent, style Empire; gr. 830.",455,95.2,False,positional,,,PIATTI,,
-BO0624_81806,93774,309,320,Bassin en argent au bord a jour et armoiries du baron Leonino; gr.1060.,456,97.2,False,positional,,,Argenteries,,
+BO0624_81806,93774,309,320,Bassin en argent au bord a jour et armoiries du baron Leonino; gr.1060.,456,97.2,False,positional,,,Argenteries,,Sec. XI
 BO0624_81806,93775,310,321,"Plat ovale ancien en argent；; gr. 980. Deux cendriers anciens en argent avec armoiries Leonino; gr. 210. Deux flambeaux en argent repousse et cisele, epoque Louis Phi lippe; poid lourd gr. 3355.",459,64.0,False,positional,,,PIATTI,,
 BO0624_81806,93776,311,324,"Coupe et soucoupe en argent, armoiries Leonino; gr. 310.",460,96.3,False,positional,,,Argenteries,,
 BO0624_81806,93777,312,325,"Deux petites salieres en argent repousse et cisele, tres beau ouvrage oriental; gr.150.",461,97.7,False,positional,,,Argenteries,,
@@ -333,12 +333,12 @@ BO0624_81806,93796,331,346,Boite avec cuilliere et fourchette en argent dore ave
 BO0624_81806,93797,332,347,"Douze cuillieres, douze couteaux, douze fourchettes a des- sert et trente-cinq fourchettes grandes en argent; gr. 3970.",489,67.1,False,positional,,,Argenteries,,
 BO0624_81806,93798,333,348,"Lot de 41 pieces variees pour table, en argent； gr. 2580.",490,96.4,False,positional,,,Argenteries,,
 BO0624_81806,93799,334,349,Deux grands couteaux en argent avec le monogramme couronne du baron Sab.Leonino; gr. 120.,491,97.7,False,positional,,,Argenteries,,
-BO0624_81806,93800,335,350,Bassin d’argent; gr. 1230.,492,92.0,False,positional,,,Argenteries,,
+BO0624_81806,93800,335,350,Bassin d’argent; gr. 1230.,492,92.0,False,positional,,,Argenteries,,Sec. XIII
 BO0624_81806,93801,336,351,Deux bougies avec mouchettes au monogramme du baron Sab. Leonino; gr.460.,493,97.2,False,positional,,,Argenteries,,
 BO0624_81806,93802,337,352,Deux bougies avec mouchettes en argent au monogramme du baron Sab.Leonino; gr. 518.,494,97.6,False,positional,,,Argenteries,,
 BO0624_81806,93803,338,353,Service complet pour table en argent cisele compose de:,495,96.4,False,positional,,,OGGETTI VARI,,
-BO0624_81806,93804,339,354,"Une bougie avec mouchettes en argent；; gr. 190. de table (en trois pieces), gr. 8450;c) Coupe a cristaux ovales, gr. 1670; d) Six coupes a bombons avec cristaux, gr.6660; e) Quatre coupes plus grandes, gr. 6550: total gr. 35430. Interessant et remarquable travail francais en style Louis XVI du au ciseleur A.Angog; armoiries Leonino. (Planche XX).",498,92.7,False,positional,,,Argenteries,,
-BO0624_81806,93805,340,355,"Service de table compose de 53 fourchettes, 18 fourchettes a dessert, 26 cuillieres a dessert, 44 cuillieres,20 cuillieres a cafe, 12 couteaux a dessert, avec les armoiries Leonino; gr. 15570. gr.1855.",499,96.8,False,positional,,,OGGETTI VARI,,
+BO0624_81806,93804,339,354,"Une bougie avec mouchettes en argent；; gr. 190. de table (en trois pieces), gr. 8450;c) Coupe a cristaux ovales, gr. 1670; d) Six coupes a bombons avec cristaux, gr.6660; e) Quatre coupes plus grandes, gr. 6550: total gr. 35430. Interessant et remarquable travail francais en style Louis XVI du au ciseleur A.Angog; armoiries Leonino. (Planche XX).",498,92.7,False,positional,,,Argenteries,,Sec. XVII
+BO0624_81806,93805,340,355,"Service de table compose de 53 fourchettes, 18 fourchettes a dessert, 26 cuillieres a dessert, 44 cuillieres,20 cuillieres a cafe, 12 couteaux a dessert, avec les armoiries Leonino; gr. 15570. gr.1855.",499,96.8,False,positional,,,OGGETTI VARI,,Sec. XIX
 BO0624_81806,93806,341,356,"Douze fourchettes et cuillieres en argent, armoiries Leonino;",501,96.7,False,positional,,,Argenteries,,
 BO0624_81806,93807,342,357,"Douze cuillieres, douze fourchettes et douze fourchettes a",502,96.6,False,positional,,,Argenteries,,
 BO0624_81806,93808,343,358,Douze fourchettes et douze couteaux a dessert avec manches,503,96.7,False,positional,,,Argenteries,,
@@ -349,7 +349,7 @@ BO0624_81806,93812,347,360,"Petits cuillieres pour glace et palette, en argent,a
 BO0624_81806,93813,348,361,"Douze fourchettes pour le poisson, avec les armoiries Leonino; gr.940.",510,91.6,False,positional,,,Argenteries,,
 BO0624_81806,93814,349,362,"Quatre porte-oeufs en argent; gr. 240. Porte-saliere en argent; gr. 85. Quatre salieres en argent avec cristal, époque Empire; gr. 245.",514,63.8,False,positional,,,Argenteries,,
 BO0624_81806,93815,350,365,"Vintg-deux pieces variees pour table, en argent; gr. 2140.",515,96.4,False,positional,,,Argenteries,,
-BO0624_81806,93816,351,366,"Cafetiere, theiere et sucriere en argent d'une forme tres elegante, marque anglaise; gr. 1180.",516,97.8,False,positional,,,Argenteries,,
+BO0624_81806,93816,351,366,"Cafetiere, theiere et sucriere en argent d'une forme tres elegante, marque anglaise; gr. 1180.",516,97.8,False,positional,,,Argenteries,,Sec. XII
 BO0624_81806,93817,352,367,"Huilieres en argent cisele, style baroque; gr. 360.",517,95.9,False,positional,,,Argenteries,,
 BO0624_81806,93818,353,368,Tres beau service complet pour dessert de la fabrique Royale,518,96.8,False,positional,,,OGGETTI VARI,,
 BO0624_81806,93819,354,369,"Deux cuillieres pour punch, en argent, armoiries Leonino; gr.403.",520,96.8,False,positional,,,Argenteries,,
@@ -358,7 +358,7 @@ BO0624_81806,93821,356,371,Coupe en argent finement cisele avec les armoiries de
 BO0624_81806,93822,357,372,Sucriere en forme de vase en argent repousse et cisele avec armoiries; gr. 560.,525,97.4,False,positional,,,VASI,,
 BO0624_81806,93823,358,373,Sucriere en forme de vase en argent repousse et cisele; gr. 270.,526,96.8,False,positional,,,VASI,,
 BO0624_81806,93824,359,374,Petit panier porte-fleur a manche d'argent cisele; gr. 255.,527,96.6,False,positional,,,Argenteries,,
-BO0624_81806,93825,360,375,"Grand armoire en noyer sculpte,decore de festons et cariatides; XVII siecle.",529,88.6,False,positional,,,Argenteries,,
+BO0624_81806,93825,360,375,"Grand armoire en noyer sculpte,decore de festons et cariatides; XVII siecle.",529,88.6,False,positional,,,Argenteries,,Sec. XVII
 BO0624_81806,93826,361,376,"Petite table en noyer et marqueterie, travail de Sorrento.",531,96.6,False,positional,,,Argenteries,,
 BO0624_81806,93827,362,377,Caisse en noyer sculpte; XVIll siecle.,532,94.7,False,positional,,,Argenteries,,
 BO0624_81806,93828,363,378,"Tres beau bureau avec petite armoire superpose peint a la laque, decoration a la chinoise de personnages,paysages,flurs et oiseaux; art venitien du XVIlI siecle. (Planche Xxl).",533,98.8,False,positional,,,Argenteries,,
@@ -375,14 +375,14 @@ BO0624_81806,93838,373,388,"Table a coulisse pour salle a manger, noyer sculpte 
 BO0624_81806,93839,374,389,Douze chaises en bois dore; style Louis XVI.,546,95.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81806,93840,375,390,Grand ecrin en ebene et tortue avec petits ornements en bronze cisele et dore.,547,97.5,False,positional,,,OGGETTI VARI,,
 BO0624_81806,93841,376,391,Petit ecrin avec table en ebene avec decorations en bronze ci sele et dore et pierres dures; XVll siecle.,548,98.1,False,positional,,,Argenteries,,
-BO0624_81806,93842,377,392,Petit coffre en noyer sculte; style du XVI siecle.,549,96.0,False,positional,,,BAULI,,
+BO0624_81806,93842,377,392,Petit coffre en noyer sculte; style du XVI siecle.,549,96.0,False,positional,,,BAULI,,Sec. XVI
 BO0624_81806,93843,378,393,Six appliques en bois sculpte avec glace; style Louis XV.,550,96.5,False,positional,,Periodo di Luigi XV,LAMPADE,,
 BO0624_81806,93844,379,394,"Grande table a deux tiroirs et secretaire, decoration a boule et ornements en bronze finement cisele et dore.",551,98.2,False,positional,,,OGGETTI VARI,,
 BO0624_81806,93845,380,395,Grande vitrine en bois sculpte et dore; style Louis XV.,552,96.4,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
-BO0624_81806,93846,381,396,"Grande table a trois tiroirs en noyer; XVI siecle. Grand coffre avec trois cotes a boule et le quatrieme a vernismartin, decoration a rabesques et ornements a mascarons et rocaille en bronze finement cisele et dore; epoque Louis XIv.(Planche xxv). Ecritoire en ebene et tortue avec ornement en argent repousse et cisele et pierres dures; xVI siecle. (Planche XxxI).",554,70.1,False,positional,,,BAULI,,
+BO0624_81806,93846,381,396,"Grande table a trois tiroirs en noyer; XVI siecle. Grand coffre avec trois cotes a boule et le quatrieme a vernismartin, decoration a rabesques et ornements a mascarons et rocaille en bronze finement cisele et dore; epoque Louis XIv.(Planche xxv). Ecritoire en ebene et tortue avec ornement en argent repousse et cisele et pierres dures; xVI siecle. (Planche XxxI).",554,70.1,False,positional,,,BAULI,,Sec. XVI
 BO0624_81806,93847,382,399,"Table pour centre en bois sculpte, peint et dore; style baroque.",556,96.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81806,93848,383,400,Deux etageres a boule avec ornements en bronze finement cisele et dore.,557,97.2,False,positional,,,ARREDAMENTI,,
-BO0624_81806,93849,384,401,Glace avec beau cadre en bois finement sculpte et dore et decore de glaces graves. Au centre armoiries des Parravicini. Art francais; XVIII siecle. (Planche XxVI). Petite etagere en bois sculpte et dore et plans en marbres; style Louis XVI.,558,79.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_81806,93849,384,401,Glace avec beau cadre en bois finement sculpte et dore et decore de glaces graves. Au centre armoiries des Parravicini. Art francais; XVIII siecle. (Planche XxVI). Petite etagere en bois sculpte et dore et plans en marbres; style Louis XVI.,558,79.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_81806,93850,385,402,Petite table en bois rose avec les quatres pieds en bronze finement cisele; art francais; epoque Louis XVI.,560,98.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81806,93851,386,405,"Table a the en noyer avec plan de cristal en forme de coeur. Deux coffres en laque decores de fleurs et bossettes en bronze dore, riches bases. Importantes pieces d'art francais du XVll siecle.",563,80.7,False,positional,,,BAULI,,
 BO0624_81806,93852,387,406,Table a cabaret en acajou avec ornements en bronze dore.,564,96.5,False,positional,,,ACQUEFORTI,,
@@ -400,7 +400,7 @@ BO0624_81806,93863,398,419,Deux appliques en bois sculpte et dore avec lustres e
 BO0624_81806,93864,399,420,"Mobilier pour salon compose d’un canape, deux fauteuils, six chaises et deux escabeaux en bois sculpte et dore, tapiserie au petitpoint a ramages et medaillons avec figures; epoque Louis xv.",599,80.9,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_81806,93865,400,421,"Grande table carree a deux tiroirs et secretaire, decoration a boule et ornements en bronze finement cisele et dore.",603,98.3,False,positional,,,OGGETTI VARI,,
 BO0624_81806,93866,401,422,Petite table decoree a boule avec ornements en bronze finement cisele et dore.,604,97.5,False,positional,,,OGGETTI VARI,,
-BO0624_81806,93867,402,423,"Deux appliques avec lustres en bois sculpte et dore, glaces graves avec les figures d' Hercule et d'un dieu. Tres belle decoration de rocaille,Louis XV. Pieces remarquables qui en 1881 ont remporte un prix a lExposition d'art ancien a Milan. (Planche XxIX).",605,99.2,False,positional,,Periodo di Luigi XV,LUSTRI,,
+BO0624_81806,93867,402,423,"Deux appliques avec lustres en bois sculpte et dore, glaces graves avec les figures d' Hercule et d'un dieu. Tres belle decoration de rocaille,Louis XV. Pieces remarquables qui en 1881 ont remporte un prix a lExposition d'art ancien a Milan. (Planche XxIX).",605,99.2,False,positional,,Periodo di Luigi XV,LUSTRI,,Sec. XIX
 BO0624_81806,93868,403,424,"Glace avec cadre en bois sculpte et dore, art francais; epoque Louis XV.",606,97.2,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_81806,93869,404,425,"Deux chiffonieres a boule avec plans en marbre, ornements en bronze finement cisele et sculpte.",607,97.9,False,positional,,,OGGETTI VARI,,
 BO0624_81806,93870,405,426,Deux etageres a boule avec ornement en bronze finement cisele et dore.,608,97.2,False,positional,,,ARREDAMENTI,,
@@ -415,7 +415,7 @@ BO0624_81806,93878,413,434,Grande glace avec cadre richement sculpte et dore; ep
 BO0624_81806,93879,414,435,Grand coffre carre avec incrustation en nacre de perle et ornements en bronze cisele et dore. Piece rare; XVll siecle. Table a the a deux plans en acajou et ornements en bronze. Table a the a deux plans en ebene avec ornements en bronze.,620,65.5,False,positional,,,BAULI,,
 BO0624_81806,93880,415,438,Bureau en noyer d’ Inde marquete.,638,93.9,False,positional,,,Argenteries,,
 BO0624_81806,93881,416,439,Quatre appliques en bois sculpte et dore avec lustres et glaces gravees. Epoque Louis Xiv. Pieces qui ont ramporte un prix a 1 Exposition d'art ancien de Milan.,639,98.7,False,positional,,,LUSTRI,,
-BO0624_81806,93882,417,440,"Quatre appliques en bois sculpte et dore avec lustres et glaces gravees, epoque Louis XIv. Ces pieces aussi ont remporte le prix a lExposition d'art ancien de Milan 1881.",640,98.8,False,positional,,,LUSTRI,,
+BO0624_81806,93882,417,440,"Quatre appliques en bois sculpte et dore avec lustres et glaces gravees, epoque Louis XIv. Ces pieces aussi ont remporte le prix a lExposition d'art ancien de Milan 1881.",640,98.8,False,positional,,,LUSTRI,,Sec. XIX
 BO0624_81806,93883,418,441,Grand armoire en noyer avec renfort en fer pour coffre-fort.,641,96.7,False,positional,,,BAULI,,
 BO0624_81806,93884,419,442,"Deux consoles avec colonnes, bronzes et plans en marbre; époque Empire.",642,97.1,False,positional,,,Argenteries,,
 BO0624_81806,93885,420,443,Grande et belle glace avec cadre richement sculpte et dore; style baroque.,643,86.6,False,positional,,,Argenteries,,
@@ -477,7 +477,7 @@ BO0624_81806,93940,475,494,Grand candelabre a huit chandelles en verre colorie d
 BO0624_81806,93941,476,495,"Chasuble et deux etoles en brocart de Genes, fleurs a couleurs sur fond d'argent.",720,84.7,False,positional,,,Argenteries,,
 BO0624_81806,93942,477,496,Pendule en vernis-martin avec ornements en bronze finement cisele et dore; epoque Louis XV.,722,97.8,False,positional,,Periodo di Luigi XV,OGGETTI VARI,,
 BO0624_81806,93943,478,497,"Petit tableau russe representant Saint-Georges, avec beaux or- nements en argent cisele.",723,80.5,False,positional,,,Argenteries,,
-BO0624_81806,93944,479,498,"Mercure, tres belle statuette en bronze cisele; signee Montagne Marins,1867.",725,88.4,False,positional,,,Argenteries,,
+BO0624_81806,93944,479,498,"Mercure, tres belle statuette en bronze cisele; signee Montagne Marins,1867.",725,88.4,False,positional,,,Argenteries,,Sec. XIX
 BO0624_81806,93945,480,499,Deux lampes en metal argente.,727,93.3,False,positional,,,LAMPADE,,
 BO0624_81806,93946,481,500,"Pendule en bronze decoree d’une statuette representant Pythagore, base en marbre noir; epoque Empire.",728,77.1,False,positional,,,Argenteries,,
 BO0624_81806,93947,482,501,Belle pendule en bronze dore avec base en marbre blanc; style Louis XVI.,730,89.6,False,positional,,,Argenteries,,
@@ -509,7 +509,7 @@ BO0624_81806,93972,507,526,Quatre vases en cristal montes en bronze dore.,757,95
 BO0624_81806,93973,508,527,"Grande et belle pendule avec deux flambeaux en bronze cisele et dore, decoration de figures; epoque Empire.",758,98.1,False,positional,,,TORCE,,
 BO0624_81806,93974,509,1,"528. Vingt-sept panneaux en cuir grave de Cordoue, belle decoration polychrome de fleurs. Des ces panneaux seize mesurent me-",765,100.0,False,positional,,,PANNELLI,,
 BO0624_81806,93975,510,2,"tres 1.80x0.70, le rest m.1.20x0.50, total m.42 environ; xVI siecle.",766,98.5,False,positional,,,Argenteries,,
-BO0624_81806,93976,511,529,Grand candelabre a quarante-deux chandelles en cristal de Bohe- me; XVII siecle.,767,86.7,False,positional,,,Argenteries,,
+BO0624_81806,93976,511,529,Grand candelabre a quarante-deux chandelles en cristal de Bohe- me; XVII siecle.,767,86.7,False,positional,,,Argenteries,,Sec. XVII
 BO0624_81806,93977,512,530,Coupe a imitation de Pancien en verre bleu de Murano.,769,96.3,False,positional,,Scuola di Murano,Argenteries,,
 BO0624_81806,93978,513,531,Grand et riche candelabre en cristal de Boheme a soixantequatre candelles; XVIll siecle.,770,97.7,False,positional,,,Argenteries,,
 BO0624_81806,93979,514,532,"Coupe en verre couleur de ciel, de Murano, decoration en relief de dauphins et mascarons.",771,80.8,False,positional,,Scuola di Murano,Argenteries,,

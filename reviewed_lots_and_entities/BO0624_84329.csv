@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_84329,316368,1,2,## combattant.,23,100.0,False,positional,BARYE,,,,
 BO0624_84329,316369,2,3,## Femme rousse.,44,100.0,False,positional,BESNARD,,,,
 BO0624_84329,316370,3,6,Flirt.,86,100.0,False,positional,FORAIN,,,,
-BO0624_84329,316371,4,7,## Madagascar en 1896. ## La Danse.,100,80.0,False,positional,FORAIN,,,,
+BO0624_84329,316371,4,7,## Madagascar en 1896. ## La Danse.,100,80.0,False,positional,FORAIN,,,,Sec. XIX
 BO0624_84329,316372,5,8,## Jeune Italienne au puits.,124,100.0,False,positional,FORTUNY,,,,
 BO0624_84329,316373,6,9,## Portrait d'un homme age,138,100.0,False,positional,GAVARNI,,,,
 BO0624_84329,316374,7,10,## Ville fortifiee.,156,100.0,False,positional,HUGO,,,,
@@ -15,7 +15,7 @@ BO0624_84329,316380,13,16,## Othello et lago.,251,100.0,False,positional,LAMI,,,
 BO0624_84329,316381,14,17,## Jeune Paysanne,264,100.0,False,positional,MILLET,,,,
 BO0624_84329,316382,15,18,Venus et l'Amour.,282,100.0,False,positional,MILLET,,,,
 BO0624_84329,316383,16,19,## Le Soir et la Douleur.,295,100.0,False,positional,MOREAU,,,,
-BO0624_84329,316384,17,20,"## Un Chanteur indien. le Saint-Thomas (Antilles Danoises),183o  Paris, 1903.",351,84.7,False,positional,PISSARRO,,,,
+BO0624_84329,316384,17,20,"## Un Chanteur indien. le Saint-Thomas (Antilles Danoises),183o  Paris, 1903.",351,84.7,False,positional,PISSARRO,,,,Sec. XX
 BO0624_84329,316385,18,21,## Les Travailleurs aux champs.,355,100.0,False,positional,PISSARRO,,,,
 BO0624_84329,316386,19,22,## Le Retour de la foire.,371,100.0,False,positional,PISSARRO,,,,
 BO0624_84329,316387,20,23,## La Seine a Billancourt en temps de crue.,386,100.0,False,positional,RAFFAELLI,,,,
@@ -85,8 +85,8 @@ BO0624_84329,316450,83,1,"PETIT GRouPE en terre cuite, par Dardel. Signe et date
 BO0624_84329,316451,84,92,"PETIT GRouPE en terre cuite, par Dardel. Non signe. Virginius poignardant sa fille Virginia pour la sauver du deshonneur. Le centurion Virginius debout, brandit de la main droite, le couteau dont il vient de frapper sa fille Virginia, etendue morte a ses pieds. Commencement du",1308,99.4,False,positional,VERNET,,,,
 BO0624_84329,316452,85,94,"SrATuETTE en terre cuite, par Marin. Non signee. Elle represente une jeune femme debout,vetue a l'antique de draperies, laissant a nu un sein, les bras et les jambes; ses cheveux sont retenus par des bandelettes, et elle tient de chaque main une colombe. Socle en marbre bleu-turquin.",1321,99.5,False,positional,VERNET,,,,
 BO0624_84329,316453,86,95,"— Bas-RELIEF en terre cuite par Michel (Pierre). Signe Pierre Michel. Un satyre, agenouille, porte sur les epaules une nymphe nue, tenant un thyrse dans la main droite; du bras gauche, elle se retient a un enfant debout derriere elle. Encadre. Haut.,28 cent,; larg, 1g cent.",1329,99.4,False,positional,VERNET,,BASSORILIEVI,,
-BO0624_84329,316454,87,93,"- 96 — MeDaILLoN rond en terre cuite, par Nini. Signe et date: 1775.Portrait de P. Berthevin, de profl a droite, portant la perruque a marteau et vetu d'un habit quadrille. Legende: P.Berthevin.Chi.Art.En.Por.De Roy.De Sue.Dan. Etcc.1775.",1336,100.0,False,positional,VERNET,,,,
-BO0624_84329,316455,88,97,"— MeDaILLon en terre cuite, par Nini. Signe et date : 1777.",1342,97.2,False,positional,VERNET,,,,
+BO0624_84329,316454,87,93,"- 96 — MeDaILLoN rond en terre cuite, par Nini. Signe et date: 1775.Portrait de P. Berthevin, de profl a droite, portant la perruque a marteau et vetu d'un habit quadrille. Legende: P.Berthevin.Chi.Art.En.Por.De Roy.De Sue.Dan. Etcc.1775.",1336,100.0,False,positional,VERNET,,,,Sec. XVIII
+BO0624_84329,316455,88,97,"— MeDaILLon en terre cuite, par Nini. Signe et date : 1777.",1342,97.2,False,positional,VERNET,,,,Sec. XVIII
 BO0624_84329,316456,89,98,"Grand diam.,18 cent.; petit diam.,15 cent.",1353,100.0,False,positional,VERNET,,,,
 BO0624_84329,316457,90,99,"- STATuETTE en cire du milieu du xvie siecle. Elle represente une jeune baigneuse completement nue, deux roses dans les cheveux, assise sur un tertre, les jambes croisees, et tenant, de la main droite,un linge. Cire jaune clair, avec chevelure decoree au naturel.",1359,99.4,False,positional,VERNET,,,,
 BO0624_84329,316458,91,1,"oo — Groupe allegorique en marbre blanc du xvine siecle. ll se compose d'un ange aile, partiellement drape et tirant a lui",1363,99.6,False,positional,VERNET,,,,

@@ -285,7 +285,7 @@ BO0624_88226,604879,283,358,Desgl. Dame in Empiretracht. Oval 5/4 cm.,780,95.0,F
 BO0624_88226,604880,284,359,Desgl.,781,71.4,False,positional,,,Munzen; Medaillen,,
 BO0624_88226,604881,285,360,- Desgl. Dame in Renaissancetracht. Oval 5/4 cm.,784,100.0,False,positional,,,Munzen; Medaillen,,
 BO0624_88226,604882,286,361,Louis XVI. et ses,786,88.9,False,positional,,,Munzen; Medaillen,,
-BO0624_88226,604883,287,362,Historischer Tabaksbeutel in Perlen gestickt. Geschenk der Prinzessin Ratibor an ihren Brautigam Furst Carl Egon von Furstenberg im Lager von Dingsheim 1815.,787,98.7,False,positional,,,Munzen; Medaillen,,
+BO0624_88226,604883,287,362,Historischer Tabaksbeutel in Perlen gestickt. Geschenk der Prinzessin Ratibor an ihren Brautigam Furst Carl Egon von Furstenberg im Lager von Dingsheim 1815.,787,98.7,False,positional,,,Munzen; Medaillen,,Sec. XIX
 BO0624_88226,604884,288,363,- Bismarckbrief.Facsimile.,789,100.0,False,positional,,,Munzen; Medaillen,,
 BO0624_88226,604885,289,364,SenfgefaB. felchen.Biedermeier.,791,93.5,False,positional,,Biedermeier,Munzen; Medaillen,,
 BO0624_88226,604886,290,365,- Schlisselhaken. Silber.Empire.,793,100.0,False,positional,,,Munzen; Medaillen,,
@@ -318,77 +318,77 @@ BO0624_88226,604912,316,404,Wanduhr.,847,77.8,False,positional,,,Munzen; Medaill
 BO0624_88226,604913,317,405,Zinnleuchter. Desgl. Desgl.,848,60.0,False,positional,,,Munzen; Medaillen,,
 BO0624_88226,604914,318,408,Messingleuchter.,851,88.2,False,positional,,,LAMPADE,,
 BO0624_88226,604915,319,410,Zinnplatte.Barok.,852,88.9,False,positional,,,OGGETTI IN LATTA,,
-BO0624_88226,604916,320,411,- 412 Desgl. Taler 1647.,857,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604917,321,413,Badische Jubilaumsminze 1902.,859,93.3,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604918,322,414,Amberger Conventtaler 1768.,860,92.9,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604919,323,415,Bayrischer Marientaler 1772.,861,93.1,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604920,324,416,- Bayrischer Kronentaler 1816.,863,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604921,325,417,Bayrischer Kronentaler 1816.,864,93.1,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604922,326,418,- 419 Bayern.Doppeltaler mit Reitersaule Max 1. 1839.,866,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604923,327,420,- Taler Bayerns Treue 1830.,868,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604924,328,421,"Desgl. 312 Gulden, Vermahlung Ludwig 1. 1842.",870,95.3,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604925,329,423,- 422 Desgl. Doppelgulden 1845.,872,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604926,330,424,Desgl. Desgl. 1855.,873,88.9,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604927,331,425,Desgl. Desgl. 1855.,874,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604928,332,426,Desgl. Zwei Vereinstaler 1860. Desgl.,876,84.8,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604929,333,427,Bayern. Taler 1868.,878,89.5,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604930,334,428,Desgl. Friedenstaler 1871.,879,92.3,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604931,335,429,Desgl. Desgl. 1871.,880,88.9,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604932,336,430,Desgl. Luitpoldmedaille mit Armeedenkmal 1892.,881,95.7,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604933,337,431,"Desgl. Prinz Ludwig, silberne Hochzeit 1893.",882,95.3,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604934,338,432,Desgl. Prinzregent. Jubilaumsmunzen. 3 und 2 Mark 1911.,883,96.2,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604935,339,433,- Desgl. Prinzregent. Jubilaumsmunzen. 3 und 2 Mark 1911.,885,100.0,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604916,320,411,- 412 Desgl. Taler 1647.,857,100.0,False,positional,,,Minzen; Medaillen,,Sec. XVII
+BO0624_88226,604917,321,413,Badische Jubilaumsminze 1902.,859,93.3,False,positional,,,Minzen; Medaillen,,Sec. XX
+BO0624_88226,604918,322,414,Amberger Conventtaler 1768.,860,92.9,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604919,323,415,Bayrischer Marientaler 1772.,861,93.1,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604920,324,416,- Bayrischer Kronentaler 1816.,863,100.0,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604921,325,417,Bayrischer Kronentaler 1816.,864,93.1,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604922,326,418,- 419 Bayern.Doppeltaler mit Reitersaule Max 1. 1839.,866,100.0,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604923,327,420,- Taler Bayerns Treue 1830.,868,100.0,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604924,328,421,"Desgl. 312 Gulden, Vermahlung Ludwig 1. 1842.",870,95.3,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604925,329,423,- 422 Desgl. Doppelgulden 1845.,872,100.0,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604926,330,424,Desgl. Desgl. 1855.,873,88.9,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604927,331,425,Desgl. Desgl. 1855.,874,100.0,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604928,332,426,Desgl. Zwei Vereinstaler 1860. Desgl.,876,84.8,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604929,333,427,Bayern. Taler 1868.,878,89.5,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604930,334,428,Desgl. Friedenstaler 1871.,879,92.3,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604931,335,429,Desgl. Desgl. 1871.,880,88.9,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604932,336,430,Desgl. Luitpoldmedaille mit Armeedenkmal 1892.,881,95.7,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604933,337,431,"Desgl. Prinz Ludwig, silberne Hochzeit 1893.",882,95.3,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604934,338,432,Desgl. Prinzregent. Jubilaumsmunzen. 3 und 2 Mark 1911.,883,96.2,False,positional,,,Minzen; Medaillen,,Sec. XX
+BO0624_88226,604935,339,433,- Desgl. Prinzregent. Jubilaumsmunzen. 3 und 2 Mark 1911.,885,100.0,False,positional,,,Minzen; Medaillen,,Sec. XX
 BO0624_88226,604936,340,434,Desgl. Prinzregent. Jubilaumsminzen. 3 und 2 Mark,886,95.8,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604937,341,1911,- 435 Deutsches Reich. Jubilaumsminze.2 Mark 1701-1901.,888,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604938,342,436,Desgl. Ost-Afrika. 2 Mark 1890.,889,93.3,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604939,343,437,Frankfurt a.M.Vereinstaler 1859.,890,93.9,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604940,344,438,Mansfelder. St. Georgstaler 1577.,891,93.8,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604941,345,439,Desgl. Desgl. 1675.,892,88.9,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604937,341,1911,- 435 Deutsches Reich. Jubilaumsminze.2 Mark 1701-1901.,888,100.0,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604938,342,436,Desgl. Ost-Afrika. 2 Mark 1890.,889,93.3,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604939,343,437,Frankfurt a.M.Vereinstaler 1859.,890,93.9,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604940,344,438,Mansfelder. St. Georgstaler 1577.,891,93.8,False,positional,,,Minzen; Medaillen,,Sec. XVI
+BO0624_88226,604941,345,439,Desgl. Desgl. 1675.,892,88.9,False,positional,,,Minzen; Medaillen,,Sec. XVII
 BO0624_88226,604942,346,440,Munzen. 8 diverse.,893,88.9,False,title_direct,,,Munzen,,
 BO0624_88226,604943,347,441,- Desgl. 8 diverse.,895,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604944,348,442,Medaille. Hungersnot 1816/17.,896,93.1,False,title_direct,,,Medaillen,,
-BO0624_88226,604945,349,443,1730.,898,66.7,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604946,350,444,Desgl. Silberdukat mit Stadtansicht und Genius 1730.,899,96.2,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604947,351,445,- Silberminze mit Stadtwappen 1730.,901,100.0,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604944,348,442,Medaille. Hungersnot 1816/17.,896,93.1,False,title_direct,,,Medaillen,,Sec. XIX
+BO0624_88226,604945,349,443,1730.,898,66.7,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604946,350,444,Desgl. Silberdukat mit Stadtansicht und Genius 1730.,899,96.2,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604947,351,445,- Silberminze mit Stadtwappen 1730.,901,100.0,False,positional,,,Minzen; Medaillen,,Sec. XVIII
 BO0624_88226,604948,352,446,- Desgl.,903,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604949,353,447,Desgl. Silbermedaille mit Kopf 1824.,906,94.4,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604949,353,447,Desgl. Silbermedaille mit Kopf 1824.,906,94.4,False,positional,,,Minzen; Medaillen,,Sec. XIX
 BO0624_88226,604950,354,448,Desgl. Silberkreuzer mit Doppelkreuz.,907,94.6,False,positional,,,Minzen; Medaillen,,
 BO0624_88226,604951,355,449,Desgl. Gedenkminze. Silber.,908,92.3,False,positional,,,Minzen; Medaillen,,
 BO0624_88226,604952,356,450,Desgl.E Bleiabschlag der Birgermeister-Medaille.,909,95.9,False,title_direct,,,Medaillen,,
-BO0624_88226,604953,357,451,- 452 Desgl. Desgl. 1765.,911,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604954,358,453,Desgl. Desgl. 1765. Oesterreich. Taler. Rudolf 1l. 1612. Desgl. Desgl. 1768.,914,66.7,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604955,359,456,- Desgl. Taler. Maria Theresia 1780.,917,100.0,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604953,357,451,- 452 Desgl. Desgl. 1765.,911,100.0,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604954,358,453,Desgl. Desgl. 1765. Oesterreich. Taler. Rudolf 1l. 1612. Desgl. Desgl. 1768.,914,66.7,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604955,359,456,- Desgl. Taler. Maria Theresia 1780.,917,100.0,False,positional,,,Minzen; Medaillen,,Sec. XVIII
 BO0624_88226,604956,360,457,- 458,919,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604957,361,459,- PreuBen. 31 Gulden. Friedr. Wilh.Ill. 1839.,921,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604958,362,460,Desgl. Kronungstaler 1861.,922,92.3,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604959,363,461,PreuBen. Kronungstaler 1861.,925,92.9,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604960,364,462,2Regensburg. Taler mit Stadtansicht 1756. Desgl. Desgl. 1762. Desgl. Desgl. 1756.,926,67.2,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604961,365,465,Salzburg. Rudbertustaler 1504.,931,93.3,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604957,361,459,- PreuBen. 31 Gulden. Friedr. Wilh.Ill. 1839.,921,100.0,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604958,362,460,Desgl. Kronungstaler 1861.,922,92.3,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604959,363,461,PreuBen. Kronungstaler 1861.,925,92.9,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604960,364,462,2Regensburg. Taler mit Stadtansicht 1756. Desgl. Desgl. 1762. Desgl. Desgl. 1756.,926,67.2,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604961,365,465,Salzburg. Rudbertustaler 1504.,931,93.3,False,positional,,,Minzen; Medaillen,,Sec. XVI
 BO0624_88226,604962,366,466,Desgl. Turmklippe.,932,88.9,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604963,367,467,Desgl. Taler 1627.,933,88.9,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604964,368,468,Desgl. 2/s Taler 1695.,934,90.9,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604965,369,469,Ulm. Gulden 1704.,935,88.2,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604966,370,470,Desgl. Gulden 1704.,936,89.5,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604967,371,471,- Desgl. 4 Kreuzerstuick 1703 und 31 Kreuzerstuick 1758.,938,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604968,372,472,- Desgl. Erinnerungsminze 1702-1704.,940,100.0,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604963,367,467,Desgl. Taler 1627.,933,88.9,False,positional,,,Minzen; Medaillen,,Sec. XVII
+BO0624_88226,604964,368,468,Desgl. 2/s Taler 1695.,934,90.9,False,positional,,,Minzen; Medaillen,,Sec. XVII
+BO0624_88226,604965,369,469,Ulm. Gulden 1704.,935,88.2,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604966,370,470,Desgl. Gulden 1704.,936,89.5,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604967,371,471,- Desgl. 4 Kreuzerstuick 1703 und 31 Kreuzerstuick 1758.,938,100.0,False,positional,,,Minzen; Medaillen,,Sec. XVIII
+BO0624_88226,604968,372,472,- Desgl. Erinnerungsminze 1702-1704.,940,100.0,False,positional,,,Minzen; Medaillen,,Sec. XVIII
 BO0624_88226,604969,373,473,Desgl.,942,71.4,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604970,374,474,- Desgl. Erinnerungs-Medaille 1890.,944,100.0,False,title_direct,,,Medaillen,,
+BO0624_88226,604970,374,474,- Desgl. Erinnerungs-Medaille 1890.,944,100.0,False,title_direct,,,Medaillen,,Sec. XIX
 BO0624_88226,604971,375,475,Wirttemberg.,945,84.6,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604972,376,476,Desgl. Zwei Kronentaler auf die Handelsfreiheit 1833.,947,96.2,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604972,376,476,Desgl. Zwei Kronentaler auf die Handelsfreiheit 1833.,947,96.2,False,positional,,,Minzen; Medaillen,,Sec. XIX
 BO0624_88226,604973,377,477,"China. Silbermunze, Fung-Tien.",948,93.1,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604974,378,478,England. Konigin Victoria 1887.,949,93.5,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604975,379,479,Spanien. Carolus 11. 1676.,950,92.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604976,380,480,Desgl. Carolus IV. 1794.,951,91.3,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604974,378,478,England. Konigin Victoria 1887.,949,93.5,False,positional,,,Minzen; Medaillen,,Sec. XIX
+BO0624_88226,604975,379,479,Spanien. Carolus 11. 1676.,950,92.0,False,positional,,,Minzen; Medaillen,,Sec. XVII
+BO0624_88226,604976,380,480,Desgl. Carolus IV. 1794.,951,91.3,False,positional,,,Minzen; Medaillen,,Sec. XVIII
 BO0624_88226,604977,381,481,- Augsburger St. Ulrich-Kreuz.,953,100.0,False,positional,,,Minzen; Medaillen,,
 BO0624_88226,604978,382,482,Desgl. kleiner.,954,86.7,False,positional,,,Minzen; Medaillen,,
 BO0624_88226,604979,383,483,Desgl.,955,71.4,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604980,384,484,Augsburger Erinnerungskreuz St.Ulrich 993-1893.,956,95.8,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604980,384,484,Augsburger Erinnerungskreuz St.Ulrich 993-1893.,956,95.8,False,positional,,,Minzen; Medaillen,,Sec. XIX
 BO0624_88226,604981,385,485,- Bayrisches Veteranenkreuz. Max II. Bronze.,958,100.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604982,386,486,Desgl.1813/14.,959,86.7,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604982,386,486,Desgl.1813/14.,959,86.7,False,positional,,,Minzen; Medaillen,,Sec. XIX
 BO0624_88226,604983,387,487,Eisernes Kreuz. Griechenland.,960,93.1,False,positional,,,Minzen; Medaillen,,
 BO0624_88226,604984,388,488,Bayern.,962,75.0,False,positional,,,Minzen; Medaillen,,
-BO0624_88226,604985,389,489,Baden. Feldzugs-Medaille 1849.,963,93.3,False,title_direct,,,Medaillen,,
-BO0624_88226,604986,390,490,Deutschland. Veteranen-Medaille 1870/71.,964,95.0,False,title_direct,,,Medaillen,,
+BO0624_88226,604985,389,489,Baden. Feldzugs-Medaille 1849.,963,93.3,False,title_direct,,,Medaillen,,Sec. XIX
+BO0624_88226,604986,390,490,Deutschland. Veteranen-Medaille 1870/71.,964,95.0,False,title_direct,,,Medaillen,,Sec. XIX
 BO0624_88226,604987,391,491,- Desgl. Zwei Anhange-Muinzen.,966,100.0,False,positional,,,Minzen; Medaillen,,
 BO0624_88226,604988,392,492,- Brakteat und eine Medaille.,968,100.0,False,title_direct,,,Medaillen,,
 BO0624_88226,604989,393,493,Zwolf auslandische Minzen.,969,92.6,False,title_direct,,,Minzen,,
@@ -396,7 +396,7 @@ BO0624_88226,604990,394,494,Drei romische Silberminzen. Ausgrabung.,970,94.9,Fal
 BO0624_88226,604991,395,495,Zwei Bronzeminzen. Ausgrabung.,971,93.3,False,positional,,,Minzen; Medaillen,,
 BO0624_88226,604992,396,496,Funfundsiebzig antike Minzen.,972,93.3,False,title_direct,,,Minzen,,
 BO0624_88226,604993,397,497,Siebenzehn romische Minzen.,973,92.9,False,title_direct,,Scuola Romana,Minzen,,
-BO0624_88226,604994,398,498,St. Georgsminze. Bei Gott ist Rat und Tat‘ 1609. Imit.,975,96.1,False,positional,,,Minzen; Medaillen,,
+BO0624_88226,604994,398,498,St. Georgsminze. Bei Gott ist Rat und Tat‘ 1609. Imit.,975,96.1,False,positional,,,Minzen; Medaillen,,Sec. XVII
 BO0624_88226,604995,399,499,- Drei diverse Medaillen. Zinn und Bronze.,979,100.0,False,title_direct,,,OGGETTI IN LATTA,,
 BO0624_88226,604996,400,500,Wachssiegel und Kapsel mit Wappensiegel.,981,95.1,False,positional,,,Minzen; Medaillen,,
 BO0624_88226,604997,401,501,Partie Minzen.,983,86.7,False,title_direct,,,Minzen,,
@@ -452,7 +452,7 @@ BO0624_88226,605046,450,560,560,1121,100.0,False,positional,Karl Herwig,,,,
 BO0624_88226,605047,451,561,Derselbe. Mannl. Akt. Zeichnung 29/19,1127,94.4,False,positional,Karl Herwig,,,,
 BO0624_88226,605048,452,562,"Derseibe. Mannl.Akt. Zeichnung 30/19,5",1128,94.7,False,positional,Karl Herwig,,,,
 BO0624_88226,605049,453,563,Derselbe.,1129,80.0,False,positional,Karl Herwig,,,,
-BO0624_88226,605050,454,564,Derselbe. Aktstudie bez.:B. Neher 1709.,1131,94.6,False,positional,Karl Herwig,,,,
+BO0624_88226,605050,454,564,Derselbe. Aktstudie bez.:B. Neher 1709.,1131,94.6,False,positional,Karl Herwig,,,,Sec. XVIII
 BO0624_88226,605051,455,565,"C.Herwig. Madonnenkopf. 01 a. Karton 18/14,5",1135,95.3,False,positional,Karl Herwig,,,,
 BO0624_88226,605052,456,567,"Derselbe. Schreitender Mann. 01 a.Karton 46/30,5 Derselbe. Derselbe. Sitzender Mann. 01 a.Karton 45/30,5",1140,61.7,False,positional,Karl Herwig,,,,
 BO0624_88226,605053,457,570,Derselbe. Christus. 01 a.Karton 38/31,1143,94.6,False,positional,Karl Herwig,,,,
@@ -495,21 +495,21 @@ BO0624_88226,605089,493,612,- Sauhatz.Kupferstich. Q. Fol.,1219,100.0,False,titl
 BO0624_88226,605090,494,613,"Rundpanorama aus der Vogelperspektive, von der",1223,95.7,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605091,495,614,Wenzel Hollar. Braunfels zu Franckfort am Mayn. Kupferstich.Q.120.,1225,96.9,False,title_direct,,,Kupferstiche,,
 BO0624_88226,605092,496,615,stich.Q.Fol.,1227,84.6,False,positional,,,Kupferstiche; Lithographien,,
-BO0624_88226,605093,497,616,Accurate Ris der zu Franckfurt am Mayn entstantenen groBen Feuersbrunst.A:1719.26.27. Juni. Kupferstich.Fol.,1228,98.1,False,title_direct,,,Kupferstiche,,
-BO0624_88226,605094,498,617,Ag 1631. Kupferstich. Fol.,1230,92.0,False,title_direct,,,Kupferstiche,,
+BO0624_88226,605093,497,616,Accurate Ris der zu Franckfurt am Mayn entstantenen groBen Feuersbrunst.A:1719.26.27. Juni. Kupferstich.Fol.,1228,98.1,False,title_direct,,,Kupferstiche,,Sec. XVIII
+BO0624_88226,605094,498,617,Ag 1631. Kupferstich. Fol.,1230,92.0,False,title_direct,,,Kupferstiche,,Sec. XVII
 BO0624_88226,605095,499,618,Plan von Franckfurt. Kupferstich. Fol.,1231,94.6,False,title_direct,,,Kupferstiche,,
 BO0624_88226,605096,500,619,Dasselbe Blatt.,1232,87.5,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605097,501,620,"Die steinerne Bricke zu Franckfurt, wie selbige gegen Auffgang gesehen wird. Kupferstich. Q.Fol.",1233,97.9,False,title_direct,,,Kupferstiche,,
-BO0624_88226,605098,502,621,Math.Merian 1646. Kupferstich. Fol.,1234,94.1,False,title_direct,,,Kupferstiche,,
+BO0624_88226,605098,502,621,Math.Merian 1646. Kupferstich. Fol.,1234,94.1,False,title_direct,,,Kupferstiche,,Sec. XVII
 BO0624_88226,605099,503,622,- Belagerung von Franckfurt.,1236,100.0,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605100,504,623,- Belagerung von Franckfurt. Kupferstich. Fol.,1239,100.0,False,title_direct,,,Kupferstiche,,
 BO0624_88226,605101,505,624,J. W. Stor fecit. Die steinerne Bricke zu Franckfurth.,1240,96.2,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605102,506,625,"Seb. Minster,Aus. Franckfurt am Mayn. Holzschnitt.",1242,95.8,False,positional,,,Kupferstiche; Lithographien,,
-BO0624_88226,605103,507,626,Kronung Kaiser Leopold Il. in Frankfurt 1790. Lerch,1244,96.1,False,positional,,,Kupferstiche; Lithographien,,
+BO0624_88226,605103,507,626,Kronung Kaiser Leopold Il. in Frankfurt 1790. Lerch,1244,96.1,False,positional,,,Kupferstiche; Lithographien,,Sec. XVIII
 BO0624_88226,605104,508,627,Kupferstich.Fol.,1245,88.2,False,title_direct,,,Kupferstiche,,
 BO0624_88226,605105,509,628,- Franckfuhrt am Mayn. Ansicht mit Legende. Kupferstich. Q.80.,1249,100.0,False,title_direct,,,Kupferstiche,,
 BO0624_88226,605106,510,629,Die stat Frackfurt aus Seb.Minster Chronik. Holz-,1250,95.9,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88226,605107,511,630,"Kronung Kaiser Leopold Il. in der St.Bartholomai Stifftskirche zu Frankfurt, am 9.October 1790. Kupferstich. Fol.",1252,98.2,False,title_direct,,,Kupferstiche,,
+BO0624_88226,605107,511,630,"Kronung Kaiser Leopold Il. in der St.Bartholomai Stifftskirche zu Frankfurt, am 9.October 1790. Kupferstich. Fol.",1252,98.2,False,title_direct,,,Kupferstiche,,Sec. XVIII
 BO0624_88226,605108,512,631,M.E.Ridinger. 7 Blatt Pferde nach J. El. Ridinger.,1253,95.8,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605109,513,632,Rehbock in den Grafl. Westheimischen Jagden,1254,95.5,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605110,514,633,"- 634 Zwei verkampfte Hirsche, an der BergstraBe gefunden. Kupferstich.Fol.",1256,100.0,False,title_direct,,,Kupferstiche,,
@@ -581,7 +581,7 @@ BO0624_88226,605175,579,721,"- Desgl. Pferde, gest. von C. GeBner. Je 15/18,5",1
 BO0624_88226,605176,580,722,Vier diverse Stiche. Verschiedene GroBen.,1424,95.1,False,positional,,,OGGETTI VARI,,
 BO0624_88226,605177,581,723,"Romischer Kriegszug, eine Folge von 75 Blatt.",1425,95.6,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605178,582,724,- 24/34,1427,100.0,False,positional,,,Kupferstiche; Lithographien,,
-BO0624_88226,605179,583,725,Schweinslederband. Monarchia occidentalis 1671.,1431,95.7,False,positional,,,Kupferstiche; Lithographien,,
+BO0624_88226,605179,583,725,Schweinslederband. Monarchia occidentalis 1671.,1431,95.7,False,positional,,,Kupferstiche; Lithographien,,Sec. XVII
 BO0624_88226,605180,584,726,"Konvolut. 54 Blatt. Stiche aus der Bibl. Geschichte gest.v. Bodenehr,Herken,Renner u.And. Je 7/12 Desgl. 24 Blatt. Ansichten etc., gest. von Wiederhold und And. Je 10/15,5 Desgl. 14 Blatt. Landschaften etc., gest. von Haldenwang und And. Je 9/12",1437,56.8,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88226,605181,585,729,Drei Blatt Schabkunst von L. Ebner und J. J. Haid.,1440,95.8,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605182,586,730,Konvolut. 10 Blatt.,1441,89.5,False,positional,,,Kupferstiche; Lithographien,,
@@ -596,7 +596,7 @@ BO0624_88226,605190,594,740,"Desgl.12 Blatt. Stadte- und Festungsansichten,",146
 BO0624_88226,605191,595,741,Desgl.10 Blatt. van Somer und And. Verschiedene GroBen.,1465,96.3,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605192,596,742,Desgl. 1l Blatt. Stiche aus der Hl. Schrift.,1467,95.2,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88226,605193,597,743,"Desgl.8 Blatt. Stiche, Landschaften und Tiere.",1469,95.6,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88226,605194,598,744,"Drei farb. Kupferstiche von L. T. Hauer. ,Brand von Regensburg, 23.April 1800""und ，,Feuersbrunst in Eger, Juni 1800"". Je 23/27",1471,98.3,False,title_direct,,,Kupferstiche,,
+BO0624_88226,605194,598,744,"Drei farb. Kupferstiche von L. T. Hauer. ,Brand von Regensburg, 23.April 1800""und ，,Feuersbrunst in Eger, Juni 1800"". Je 23/27",1471,98.3,False,title_direct,,,Kupferstiche,,Sec. XIX
 BO0624_88226,605195,599,745,Neun Blatt Stiche. Indische Zauberer etc. Je 17/20,1472,96.0,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88226,605196,600,746,"Drei Blatt Ansichten von Anspach, HerBbrugg und Kempten (Allgau). Stiche. Verschiedene GroBen.",1473,97.8,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88226,605197,601,747,Funf Guckkastenbilder aus Mailand. 31/41,1474,95.1,False,positional,,,Kupferstiche; Lithographien,,
@@ -641,7 +641,7 @@ BO0624_88226,605235,639,789,Vier Blatt Desgl. nach Zuccarelli u. Rizzi. Landscha
 BO0624_88226,605236,640,790,Verschiedene GroBen.,1570,90.5,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605237,641,791,"Desgl. nach Crizonti, Drentwet und And. Verschiedene GroBen.",1574,100.0,False,positional,,,Kupferstiche; Lithographien,,
 BO0624_88226,605238,642,792,"Desgl. nach Mirri, Boullongue, Teniers und And. Verschiedene GroBen.",1578,100.0,False,positional,TENIERS DAVID IL GIOVANE,,Kupferstiche; Lithographien,,
-BO0624_88226,605239,643,793,"Desgl. nach Brakenburg, Giani, Lecomte und Londonio. Verschiedene GroBen.",1580,97.1,False,positional,,,Kupferstiche; Lithographien,,
+BO0624_88226,605239,643,793,"Desgl. nach Brakenburg, Giani, Lecomte und Londonio. Verschiedene GroBen.",1580,97.1,False,positional,BRAKENBURGH RICHARD,,Kupferstiche; Lithographien,,
 BO0624_88226,605240,644,794,"Zwei Blatt Kupferstiche von Schatzi. ,Weiber im Streit und ,Manner im Streit"" 31/40",1581,97.5,False,title_direct,,,Kupferstiche,,
 BO0624_88226,605241,645,795,"Vier Blatt Kupferstiche und Lithogr. nach Rothbart,",1583,96.1,False,title_direct,,,Kupferstiche,,
 BO0624_88226,605242,646,796,"Farbiger Stich nach Le Brun von Bartolozzi. "",Die Unschuld fluichtet in die Arme der Gerechtigkeit"". 40/46",1587,98.1,False,positional,LE BRUN CHARLES,,Kupferstiche; Lithographien,,
@@ -662,29 +662,29 @@ BO0624_88226,605256,660,816,"Holzschnitt. ,Rinaldo Rinaldininebst Text. Moritat.
 BO0624_88226,605257,661,817,Konvolut. 8 Blatt verschiedene Drucke.,1646,94.7,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88226,605258,662,818,"Zwei Kupferstiche nach D. Teniers von Le Bas. ,Fetes Flamandes"". Je 50/69",1647,97.1,False,title_direct,TENIERS DAVID IL GIOVANE,Scuola Fiamminga,Kupferstiche,,
 BO0624_88226,605259,663,819,"Vier Kupferstiche nach Greuze, Trumbell und And. Verschiedene GroBen.",1648,97.1,False,title_direct,GREUZE J. B.,,Kupferstiche,,
-BO0624_88226,605260,664,820,- Aquarell von Caroline ClauB 1827. Gebirgslandschaft. 30/20,1650,100.0,False,positional,,,Kupferstiche; Lithographien,,
+BO0624_88226,605260,664,820,- Aquarell von Caroline ClauB 1827. Gebirgslandschaft. 30/20,1650,100.0,False,positional,,,Kupferstiche; Lithographien,,Sec. XIX
 BO0624_88226,605261,665,821,- 822 Postmarken-Album.Ca.3900 Stuck.,1652,100.0,False,positional,STUCK FRANZ VON,,Kupferstiche; Lithographien,,
-BO0624_88226,605262,666,824,| Derselbe.     | St. Georg. Bez.1908.                                     | 35/61 58/85 |,1659,95.0,False,positional,,,Original-Lithographien,,
-BO0624_88226,605263,667,825,| Derselbe.     | Pferdeschwemme. Bez.1908.                                | 55/85       |,1660,95.0,False,positional,,,Original-Lithographien,,
-BO0624_88226,605264,668,826,| Derselbe.     | Pflugen. Bez.1908.                                       | 38/63       |,1661,93.9,False,positional,,,Original-Lithographien,,
-BO0624_88226,605265,669,827,| Derselbe.     | Am Brunnen.Bez.1908.                                     | 39/64       |,1662,94.4,False,positional,,,Original-Lithographien,,
-BO0624_88226,605266,670,828,| Derselbe.     | Mittag. Bez.1908.                                        | 44/62       |,1663,93.8,False,positional,,,Original-Lithographien,,
-BO0624_88226,605267,671,829,| Derselbe.     | Pflugen. Bez.1908.                                       | 29/63       |,1664,93.9,False,positional,,,Original-Lithographien,,
-BO0624_88226,605268,672,830,| Derselbe.     | St.Martin.Bez.1908.                                      | 62/73       |,1665,94.3,False,positional,,,Original-Lithographien,,
-BO0624_88226,605269,673,831,| Derselbe.     | Bierbrauer. Bez.1908.                                    | 45/63       |,1666,94.4,False,positional,,,Original-Lithographien,,
-BO0624_88226,605270,674,832,| Derselbe.     | Kalender Klimsch's Druckerei 1909.                       | 72/106      |,1667,96.1,False,positional,,,Original-Lithographien,,
-BO0624_88226,605271,675,833,| Derselbe.     | Stall mit Sensendangler. Bez.1909.                       | 46/79       |,1668,95.9,False,positional,,,Original-Lithographien,,
-BO0624_88226,605272,676,834,| Derselbe.     | Leinreiter. Bez.1909.                                    | 41/88       |,1669,94.4,False,positional,,,Original-Lithographien,,
-BO0624_88226,605273,677,835,| Derselbe.     | Retter.Bez.1910.                                         | 62/65       |,1670,93.8,False,positional,,,Original-Lithographien,,
-BO0624_88226,605274,678,836,| Derselbe.     | Tranke.Bez.1910.                                         | 59/85       |,1671,93.8,False,positional,,,Original-Lithographien,,
-BO0624_88226,605275,679,837,| Derselbe.     | Fuhrmann. Bez.1910.                                      | 28/45       |,1672,94.1,False,positional,,,Original-Lithographien,,
-BO0624_88226,605276,680,838,| Derselbe.     | Kalender Klimsch's Druckerei 1910.                       | 80/90       |,1673,96.0,False,positional,,,Original-Lithographien,,
-BO0624_88226,605277,681,839,| Derselbe.     | Stall Nr.2. Bez.1911.                                    | 58/90       |,1674,94.4,False,positional,,,Original-Lithographien,,
-BO0624_88226,605278,682,841,"Fritz Boehle, Frankfurt a. M.Kalender Klimsch's Druckerei 1911. 93/98",1676,97.1,False,positional,BOEHLE FRITZ,,Original-Lithographien,,
+BO0624_88226,605262,666,824,| Derselbe.     | St. Georg. Bez.1908.                                     | 35/61 58/85 |,1659,95.0,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605263,667,825,| Derselbe.     | Pferdeschwemme. Bez.1908.                                | 55/85       |,1660,95.0,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605264,668,826,| Derselbe.     | Pflugen. Bez.1908.                                       | 38/63       |,1661,93.9,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605265,669,827,| Derselbe.     | Am Brunnen.Bez.1908.                                     | 39/64       |,1662,94.4,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605266,670,828,| Derselbe.     | Mittag. Bez.1908.                                        | 44/62       |,1663,93.8,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605267,671,829,| Derselbe.     | Pflugen. Bez.1908.                                       | 29/63       |,1664,93.9,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605268,672,830,| Derselbe.     | St.Martin.Bez.1908.                                      | 62/73       |,1665,94.3,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605269,673,831,| Derselbe.     | Bierbrauer. Bez.1908.                                    | 45/63       |,1666,94.4,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605270,674,832,| Derselbe.     | Kalender Klimsch's Druckerei 1909.                       | 72/106      |,1667,96.1,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605271,675,833,| Derselbe.     | Stall mit Sensendangler. Bez.1909.                       | 46/79       |,1668,95.9,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605272,676,834,| Derselbe.     | Leinreiter. Bez.1909.                                    | 41/88       |,1669,94.4,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605273,677,835,| Derselbe.     | Retter.Bez.1910.                                         | 62/65       |,1670,93.8,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605274,678,836,| Derselbe.     | Tranke.Bez.1910.                                         | 59/85       |,1671,93.8,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605275,679,837,| Derselbe.     | Fuhrmann. Bez.1910.                                      | 28/45       |,1672,94.1,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605276,680,838,| Derselbe.     | Kalender Klimsch's Druckerei 1910.                       | 80/90       |,1673,96.0,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605277,681,839,| Derselbe.     | Stall Nr.2. Bez.1911.                                    | 58/90       |,1674,94.4,False,positional,,,Original-Lithographien,,Sec. XX
+BO0624_88226,605278,682,841,"Fritz Boehle, Frankfurt a. M.Kalender Klimsch's Druckerei 1911. 93/98",1676,97.1,False,positional,BOEHLE FRITZ,,Original-Lithographien,,Sec. XX
 BO0624_88226,605279,683,843,843,1678,100.0,False,positional,,,Original-Lithographien,,
 BO0624_88226,605280,684,844,ment.,1682,66.7,False,positional,,,Original-Lithographien,,
 BO0624_88226,605281,685,845,Desgl. 153 Blatt. Abbildungen aus dem alten und,1684,95.7,False,positional,,,Original-Lithographien,,
-BO0624_88226,605282,686,846,"Anhalt-Kothen, Bernburg, Dessau. 3 Blatt.",1689,94.9,False,positional,,,Original-Lithographien,,
+BO0624_88226,605282,686,846,"Anhalt-Kothen, Bernburg, Dessau. 3 Blatt.",1689,94.9,False,positional,BRAKENBURGH RICHARD,,Original-Lithographien,,
 BO0624_88226,605283,687,847,Baden. 3 Blatt.,1690,86.7,False,positional,,,Original-Lithographien,,
 BO0624_88226,605284,688,848,- 849 Braunschweig.,1692,100.0,False,positional,,,Original-Lithographien,,
 BO0624_88226,605285,689,7,Blatt.,1694,83.3,False,positional,,,Original-Lithographien,,
@@ -705,23 +705,23 @@ BO0624_88226,605299,703,26,Blatt.,1716,76.9,False,positional,,,Original-Lithogra
 BO0624_88226,605300,704,869,Schweden. 13 Blatt.,1718,89.5,False,positional,,,Original-Lithographien,,
 BO0624_88226,605301,705,870,Schweiz. 4 Blatt.,1719,88.2,False,positional,,,Original-Lithographien,,
 BO0624_88226,605302,706,871,- Wurttemberg. 4 Blatt. ## C.Bicher.,1721,80.9,False,positional,,,Original-Lithographien,,
-BO0624_88226,605303,707,872,"Europa's Lander und Volker von Dr.Felix Selchow. Beitrage zur Volker- und Landerkunde von M. C. Sprengel. Leipzig 1786. Band 5-10, in 3 Bande",1728,77.8,False,positional,,,Original-Lithographien,,
+BO0624_88226,605303,707,872,"Europa's Lander und Volker von Dr.Felix Selchow. Beitrage zur Volker- und Landerkunde von M. C. Sprengel. Leipzig 1786. Band 5-10, in 3 Bande",1728,77.8,False,positional,,,Original-Lithographien,,Sec. XVIII
 BO0624_88226,605304,708,873,gebunden.,1729,80.0,False,positional,,,Original-Lithographien,,
-BO0624_88226,605305,709,874,1 Geschichtliche Denkwirdigkeiten und Seltenheiten der Natur. Nurnberg 1814. 2.Band mit 23 Kupfer-,1730,97.9,False,positional,,Scuola di Norimberga,Original-Lithographien,,
+BO0624_88226,605305,709,874,1 Geschichtliche Denkwirdigkeiten und Seltenheiten der Natur. Nurnberg 1814. 2.Band mit 23 Kupfer-,1730,97.9,False,positional,,Scuola di Norimberga,Original-Lithographien,,Sec. XIX
 BO0624_88226,605306,710,876,leisten und Schweinsleder-Einband.,1734,94.3,False,positional,,,Original-Lithographien,,
-BO0624_88226,605307,711,877,burg 1715.,1736,81.8,False,positional,,,Original-Lithographien,,
+BO0624_88226,605307,711,877,burg 1715.,1736,81.8,False,positional,,,Original-Lithographien,,Sec. XVIII
 BO0624_88226,605308,712,878,Cours d'Architecture de Vignole mit vielen Abbildungen.,1737,96.4,False,positional,,,Original-Lithographien,,
-BO0624_88226,605309,713,879,Churfursten-Bibel 1562.,1739,91.7,False,positional,,,Original-Lithographien,,
-BO0624_88226,605310,714,880,Bibel. Ulm 1688.,1740,87.5,False,positional,,,Original-Lithographien,,
-BO0624_88226,605311,715,881,Desgl. Nurnberg 1716.,1741,90.5,False,positional,,Scuola di Norimberga,Original-Lithographien,,
-BO0624_88226,605312,716,882,- Das neue Testament. Zurich 1711.,1743,100.0,False,positional,,,Original-Lithographien,,
-BO0624_88226,605313,717,883,Das Christliche Jahr. Prag 1733.,1744,93.8,False,positional,,,Original-Lithographien,,
-BO0624_88226,605314,718,884,M. Christian Scrivers Seelen-Schatz. Leipzig 1708.,1745,95.9,False,positional,,,Original-Lithographien,,
+BO0624_88226,605309,713,879,Churfursten-Bibel 1562.,1739,91.7,False,positional,,,Original-Lithographien,,Sec. XVI
+BO0624_88226,605310,714,880,Bibel. Ulm 1688.,1740,87.5,False,positional,,,Original-Lithographien,,Sec. XVII
+BO0624_88226,605311,715,881,Desgl. Nurnberg 1716.,1741,90.5,False,positional,,Scuola di Norimberga,Original-Lithographien,,Sec. XVIII
+BO0624_88226,605312,716,882,- Das neue Testament. Zurich 1711.,1743,100.0,False,positional,,,Original-Lithographien,,Sec. XVIII
+BO0624_88226,605313,717,883,Das Christliche Jahr. Prag 1733.,1744,93.8,False,positional,,,Original-Lithographien,,Sec. XVIII
+BO0624_88226,605314,718,884,M. Christian Scrivers Seelen-Schatz. Leipzig 1708.,1745,95.9,False,positional,,,Original-Lithographien,,Sec. XVIII
 BO0624_88226,605315,719,885,"Acht geistl. Bicher, dabei ein handschriftliches.",1746,95.8,False,positional,,,Original-Lithographien,,
-BO0624_88226,605316,720,886,"Henry Monnier. Meisterwerke der erotischen Kunst Frankreichs von Georg Grappe, mit 40 Bildern. Leipzig 1909.",1747,98.1,False,positional,MONNIER HENRI,,Original-Lithographien,,
-BO0624_88226,605317,721,887,Ranglisten der kgl.sachs.Armee 1884-1898. Fehlt,1748,95.8,False,positional,,,Original-Lithographien,,
+BO0624_88226,605316,720,886,"Henry Monnier. Meisterwerke der erotischen Kunst Frankreichs von Georg Grappe, mit 40 Bildern. Leipzig 1909.",1747,98.1,False,positional,MONNIER HENRI,,Original-Lithographien,,Sec. XX
+BO0624_88226,605317,721,887,Ranglisten der kgl.sachs.Armee 1884-1898. Fehlt,1748,95.8,False,positional,,,Original-Lithographien,,Sec. XIX
 BO0624_88226,605318,722,888,Pack Noten.Ca.55 Hefte.,1750,91.7,False,positional,,,Original-Lithographien,,
-BO0624_88226,605319,723,889,"Partie Zeitschriften.,Die Jugend. Ca.495 Nummern. Jahrgange - Desgl. ,Rheinlande"". Ca.96 Hefte. 1907-1914.",1751,63.4,False,positional,,,Original-Lithographien,,
+BO0624_88226,605319,723,889,"Partie Zeitschriften.,Die Jugend. Ca.495 Nummern. Jahrgange - Desgl. ,Rheinlande"". Ca.96 Hefte. 1907-1914.",1751,63.4,False,positional,,,Original-Lithographien,,Sec. XX
 BO0624_88226,605320,724,892,"Desgl. 1.,Die Kunst"".Ca.45 Hefte.",1757,93.5,False,positional,,,Original-Lithographien,,
 BO0624_88226,605321,725,893,"Desgl. ,Die Werkstatt der Kunst"". Ca. 47 Hefte.",1758,95.3,False,positional,,,Original-Lithographien,,
 BO0624_88226,605322,726,894,"Partie Zeitschriften.,Monatliche Mitteilungen des Verbandes der Kunstfreunde in den Landern am Rhein.Ca.24 Hefte.",1759,98.2,False,positional,,,Original-Lithographien,,
@@ -731,5 +731,5 @@ BO0624_88226,605325,729,897,- Partie Ausstellungskataloge.,1764,100.0,False,posi
 BO0624_88226,605326,730,898,Partie Auktionskataloge.,1765,92.0,False,positional,,,Original-Lithographien,,
 BO0624_88226,605327,731,899,"Zwolf Bicher. Gedichte,Romane etc.",1766,94.1,False,positional,,,Original-Lithographien,,
 BO0624_88226,605328,732,900,Partie Schulbicher.,1767,90.0,False,positional,,,Original-Lithographien,,
-BO0624_88226,605329,733,901,"Zwei Frankfurter AdreBbicher, 1913 und 14 und",1768,95.7,False,positional,,,Original-Lithographien,,
+BO0624_88226,605329,733,901,"Zwei Frankfurter AdreBbicher, 1913 und 14 und",1768,95.7,False,positional,,,Original-Lithographien,,Sec. XX
 BO0624_88226,605330,734,2,Telephonbuicher.,1769,93.8,False,positional,,,Original-Lithographien,,

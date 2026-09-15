@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_81864,119715,1,2,"SCATOLA in pietra dura di Villa Adriana, montata in bronzo, epoca Impero.",7,98.6,False,none,,,,,
-BO0624_81864,119716,2,4,1 SCATOLA cinese in rame smaltato e decorato. Secolo XVII.,9,98.2,False,none,,,,,
+BO0624_81864,119716,2,4,1 SCATOLA cinese in rame smaltato e decorato. Secolo XVII.,9,98.2,False,none,,,,,Sec. XVII
 BO0624_81864,119717,3,5,DUE VASETTI cloisonnes cinesi antichi.,10,97.4,False,none,,,,,
 BO0624_81864,119718,4,6,-SERVIZIO POSATE per 6 in argento. Luigi XVI.,11,97.7,False,none,,,,,
 BO0624_81864,119719,5,8,SCATOLA in malachite montata in bronzo dorato con amuleto orientale.,13,98.5,False,none,,,,,
@@ -62,7 +62,7 @@ BO0624_81864,119774,60,63,"— TAZZA e PIATTO in porcellana francese, fondo verd
 BO0624_81864,119775,61,64,"- 4-TAZZA e PIATTINO in porcellana di Sassonia, decorata a scene pastorali.",87,100.0,False,none,,,,,
 BO0624_81864,119776,62,65,TAZZA e PIATTINO in porcellana di Popoff decorata a fiori.,88,97.4,False,none,,,,,
 BO0624_81864,119777,63,66,"SANTA CATERINA su tavola, scuola Lombarda del 500, 80×41.",89,98.2,False,none,,Scuola Lombarda,,,
-BO0624_81864,119778,64,67,"GOLFINO (detto Nicola Veronese), Sec. XVI. Madonna e Bambino, dipinto su tela, 65x47,cornice dorata.",90,98.4,False,none,PAOLO VERONESE,,,,
+BO0624_81864,119778,64,67,"GOLFINO (detto Nicola Veronese), Sec. XVI. Madonna e Bambino, dipinto su tela, 65x47,cornice dorata.",90,98.4,False,none,PAOLO VERONESE,,,,Sec. XVI
 BO0624_81864,119779,65,68,"S SOLIMENA. S. Tommaso circondato da angeli inginocchiato davanti a un crocefisso, 52x40, cornice scolpita e dorata.",91,98.7,False,none,,,,,
 BO0624_81864,119780,66,69,"LUCA GIORDANO (attribuito). San Pietro, 98×78,",92,97.6,False,none,LUCA GIORDANO,,,,
 BO0624_81864,119781,67,70,"—— MOMPER, paesaggio su tavola, 71x50, cornice scolpita e dorata.",94,97.5,False,none,DE MOMPER JODOCUS,,,,
@@ -70,15 +70,15 @@ BO0624_81864,119782,68,71,"PAULO DE MATTEIS, due quadri pendants.La",95,97.5,Fal
 BO0624_81864,119783,69,72,"— TINELLI, attribuito. Ritratto giovanetto su tela, 73 x 60",97,97.3,False,none,,,,,
 BO0624_81864,119784,70,73,"RIZZONI, cardinale su tela, 39x31, cornice dorata.",99,96.8,False,none,,,,,
 BO0624_81864,119785,71,74,"PANINl,(acquarello) interno di chiesa,51 x33, cornice nera.",100,98.2,False,none,,,,,
-BO0624_81864,119786,72,75,"—ROSALBA CARRIERA,autoritratto 47*37,cornice dorata. Tavola VI-bis.",101,97.7,False,none,ROSALBA CARRIERA,,,,
+BO0624_81864,119786,72,75,"—ROSALBA CARRIERA,autoritratto 47*37,cornice dorata. Tavola VI-bis.",101,97.7,False,none,CARRIERA ROSALBA,,,,
 BO0624_81864,119787,73,76,"MINIATURA, silhouette donna. Impero su fondo azzurro cornice nera.",105,97.7,False,none,,,MINIATURE,,
 BO0624_81864,119788,74,77,"— MINIATURA, Principessa Orsini, cornice nera.",106,96.5,False,none,,,MINIATURE,,
 BO0624_81864,119789,75,78,"— MINIATURA, La Cena, firmato Albani, cornice nera.",107,96.8,False,none,,,MINIATURE,,
 BO0624_81864,119790,76,79,"MINIATURA, Giovinetta capelli sciolti, forse di casa Gonzaga, cornice nera.",108,97.9,False,none,,,MINIATURE,,
 BO0624_81864,119791,77,80,"MINIATURA, Donna abito bianco, collo aperto, epoca Impero, cornice cerchietto in bronzo.",109,98.2,False,none,,,MINIATURE,,
 BO0624_81864,119792,78,81,"1 MINIATURA, Donna giovane, abito rosa nastri celesti in testa. Epoca 700, cornice cerchietto bronzo.",110,98.5,False,none,,,MINIATURE,,
-BO0624_81864,119793,79,82,"MINIATURA, Giovinetto biondo abito bleu, epoca 1830, cornicetta cerchietto in bronzo.",111,98.2,False,none,,,MINIATURE,,
-BO0624_81864,119794,80,83,"1 MINIATURA, Gentiluomo con decorazione all'occhiello. Epoca 1830, cornicetta cerchio bronzo.",112,98.3,False,none,,,MINIATURE,,
+BO0624_81864,119793,79,82,"MINIATURA, Giovinetto biondo abito bleu, epoca 1830, cornicetta cerchietto in bronzo.",111,98.2,False,none,,,MINIATURE,,Sec. XIX
+BO0624_81864,119794,80,83,"1 MINIATURA, Gentiluomo con decorazione all'occhiello. Epoca 1830, cornicetta cerchio bronzo.",112,98.3,False,none,,,MINIATURE,,Sec. XIX
 BO0624_81864,119795,81,84,"— MINIATURA, Soggetto mitologico Pomona con amore, epoca 700, cornice nera.",113,97.9,False,none,,,MINIATURE,,
 BO0624_81864,119796,82,85,"— MINIATURA, Magistrato russo, (senza cornice).",114,96.4,False,none,,,MINIATURE,,
 BO0624_81864,119797,83,86,"1 MINiATURA, Gentildonna vestito rosa, epoca Luigi XVI,cornicetta dorata.",115,97.9,False,none,,,MINIATURE,,

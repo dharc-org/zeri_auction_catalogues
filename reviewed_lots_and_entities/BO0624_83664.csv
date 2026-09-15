@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83664,156016,1,I,"l etait ne en 1824, a Marseille, et, selon la volonte de son pere, qui professait les idees de Jean-Jacques, il fut eleve dans les Basses-Alpes, pres du village de Lurs, au plateau de Ganagobi. α On ne lui apprit rien, écrit un de ses biographes, M. Louis Guinand, on ne lui enseigna rien que quelques notions religieuses. Il grandit solitaire et sauvage, en pleine nature, courant tete nue au soleil l'ete;dans la neige, en sabots, l'hiver. Il y gagna un developpement physique superbe et une sante robuste dont il eut besoin plus tard. C'est la, sans doute, qu'il contracta cet amour profond, cette passion de la nature qu'il a gardee jusqu'a la mort et qui en a fait un grand paysagiste.)",37,99.9,False,positional,A.MONTICELLI,,,,
+BO0624_83664,156016,1,I,"l etait ne en 1824, a Marseille, et, selon la volonte de son pere, qui professait les idees de Jean-Jacques, il fut eleve dans les Basses-Alpes, pres du village de Lurs, au plateau de Ganagobi. α On ne lui apprit rien, écrit un de ses biographes, M. Louis Guinand, on ne lui enseigna rien que quelques notions religieuses. Il grandit solitaire et sauvage, en pleine nature, courant tete nue au soleil l'ete;dans la neige, en sabots, l'hiver. Il y gagna un developpement physique superbe et une sante robuste dont il eut besoin plus tard. C'est la, sans doute, qu'il contracta cet amour profond, cette passion de la nature qu'il a gardee jusqu'a la mort et qui en a fait un grand paysagiste.)",37,99.9,False,positional,A.MONTICELLI,,,,Sec. XIX
 BO0624_83664,156017,2,I,"l y resta jusqu'a lage de seize ans ; puis, plus assidu a crayonner qu'a apprendre la grammaire, il obtint a grand'-",39,99.5,False,positional,A.MONTICELLI,,,,
-BO0624_83664,156018,3,I,"l ne quitta plus Marseille. En 1883, la mort de sa mere lui fut un coup tres rude; sa gaite s'en etait alteree; la maladie surprit meme un jour sa constitution robuste;la paralysie gagna lentement le bras gauche d'abord, puis la jambe, et on le vit pendant quelques mois travailler a son chevalet, n'etant repose, dans le cimetiere de Saint-Pierre, au milieu d'une",51,99.9,False,positional,A.MONTICELLI,,,,
+BO0624_83664,156018,3,I,"l ne quitta plus Marseille. En 1883, la mort de sa mere lui fut un coup tres rude; sa gaite s'en etait alteree; la maladie surprit meme un jour sa constitution robuste;la paralysie gagna lentement le bras gauche d'abord, puis la jambe, et on le vit pendant quelques mois travailler a son chevalet, n'etant repose, dans le cimetiere de Saint-Pierre, au milieu d'une",51,99.9,False,positional,A.MONTICELLI,,,,Sec. XIX
 BO0624_83664,156019,4,I,"l y a dans l'oeuvre de Monticelli plusieurs manieres assez caracterisees. S'il avait commence dans la calme sagesse des conventions classiques, il n'y demeura que peu de temps, entraine qu'il etait par un extraordinaire temperament de coloriste. Mais il lui faudra longtemps avant d'atteindre a son expression definitive, a sa facture toute speciale qui, par- fois, a donne a rire a ceux qui ne comprennent pas qu'une",55,99.9,False,positional,A.MONTICELLI,,,,
 BO0624_83664,156020,5,I,"l est vu jusqu'a mi-corps, la tete presque de face, en pourpoint de velours violet a creves noirs. Une fraise de dentelle autour du col. Un collier d'or sur la poitrine.La barbe est blonde, la moustache fine laissant apparaitre le carmin de la levre.",286,99.8,False,positional,MONTICELLI,,,,
 BO0624_83664,156021,6,I,"ls sont venus a cheval ;la princesse attendait au fond du parc;le galant s'incline a son cote. La suivante est demeurée a droite, pres du balcon de pierre, tandis que le confident est demeure a gauche et a cheval.",453,99.8,False,positional,MONTICELLI,,,,
@@ -57,7 +57,7 @@ BO0624_83664,156070,55,131,一 Sainte Madeleine.,1048,90.0,False,positional,,ECO
 BO0624_83664,156071,56,132,—La Flagellation.,1058,88.2,False,positional,,ECOLE ITALIENNE,,,
 BO0624_83664,156072,57,133,—CAMUCCINI (Vincenzo). L'Offrande aux dieux.,1067,95.1,False,positional,,,Dessins; Pastels; Gouaches,,
 BO0624_83664,156073,58,134,"—— CyBA. La Chaumiere. Signe a gauche, en bas.",1073,95.1,False,positional,,,Dessins; Pastels; Gouaches,,
-BO0624_83664,156074,59,135,"-OzANNE aine. La Chasse aux becassines. Au milieu, en bas, on lit : Ozanne ainé, 1764.",1077,97.5,False,positional,,,Dessins; Pastels; Gouaches,,
+BO0624_83664,156074,59,135,"-OzANNE aine. La Chasse aux becassines. Au milieu, en bas, on lit : Ozanne ainé, 1764.",1077,97.5,False,positional,,,Dessins; Pastels; Gouaches,,Sec. XVIII
 BO0624_83664,156075,60,136,"VINcENzo (Angelo). L'Assomption. Dessin de forme cintrée a la plume, rehausse de blanc.",1087,78.2,False,title_direct,,,Dessins,,
 BO0624_83664,156076,61,137,ANNIBAL CARRACHE (Attribué a). Mater dolorosa.,1091,95.5,False,positional,CARRACCI ANNIBALE,,Dessins; Pastels; Gouaches,,
 BO0624_83664,156077,62,138,WATTEAu (Antoine). Le Joueur de flute. Dessin a la sanguine.,1096,96.5,False,title_direct,WATTEAU FRANCOIS,,Dessins,,
@@ -67,10 +67,10 @@ BO0624_83664,156080,65,144,—— Le Cellier.,1117,83.3,False,positional,,,Dessi
 BO0624_83664,156081,66,145,## Tableaux modernes,1128,100.0,False,title_direct,,,Tableaux modernes,,
 BO0624_83664,156082,67,146,"—— ApPIAN. Le Quai. Signe a droite, en bas.",1135,94.7,False,positional,,,Tableaux modernes,,
 BO0624_83664,156083,68,147,"--- AppIAN. La Berge deserte. Signe a droite, en bas. Panneau.Haut.,32 cent.;larg.,5o cent.",1139,97.5,False,positional,,,PANNELLI,,
-BO0624_83664,156084,69,148,"- APPIAN. Au large. Signe a gauche, en bas : 1877. Toile. Haut., 31 cent., laig, 62 cent.",1141,100.0,False,positional,,,Tableaux modernes,,
+BO0624_83664,156084,69,148,"- APPIAN. Au large. Signe a gauche, en bas : 1877. Toile. Haut., 31 cent., laig, 62 cent.",1141,100.0,False,positional,,,Tableaux modernes,,Sec. XIX
 BO0624_83664,156085,70,149,BAKALovIcz.La Jeune femme a la toque de velours.,1143,95.9,False,positional,,,Tableaux modernes,,
 BO0624_83664,156086,71,150,"— BEAUJEAN.La Benediction. Signe a droite, vers le bas : A. B. 183g. Toile. Haut., 1 m.15; larg., 89 cent.",1149,97.8,False,positional,,,Tableaux modernes,,
-BO0624_83664,156087,72,151,"— BeAUQUEsNE. Le Prisonnier (Episode de la guerre de 1870). Signe a droite, en bas : 1897.",1150,97.6,False,positional,,,Tableaux modernes,,
+BO0624_83664,156087,72,151,"— BeAUQUEsNE. Le Prisonnier (Episode de la guerre de 1870). Signe a droite, en bas : 1897.",1150,97.6,False,positional,,,Tableaux modernes,,Sec. XIX
 BO0624_83664,156088,73,152,"— BeAuvERIE.Les Bles a la fin de mai. Signe a gauche, en bas.",1154,96.6,False,positional,,,Tableaux modernes,,
 BO0624_83664,156089,74,153,"BEMINDT (E.).Le Serment. Signe a droite, en bas.",1158,95.5,False,positional,,,Tableaux modernes,,
 BO0624_83664,156090,75,154,"—BERNARD (Valere). Les Voix du lac. Signe a droite, en bas.",1162,96.3,False,positional,,,Tableaux modernes,,
@@ -78,7 +78,7 @@ BO0624_83664,156091,76,155,"1 Signe a droite, en bas.",1167,92.0,False,positiona
 BO0624_83664,156092,77,156,"BiLDEcoMBE. Le Coq et la poule. Signe a droite, en bas.",1171,96.2,False,positional,,,Tableaux modernes,,
 BO0624_83664,156093,78,157,— BouRRELy. Le Moulin sur la colline.,1175,94.3,False,positional,,,Tableaux modernes,,
 BO0624_83664,156094,79,158,"—BRAQuEvALLE. Le Marche aux fleurs,a",1180,94.4,False,positional,,,Tableaux modernes,,
-BO0624_83664,156095,80,159,BuJon (Emile). Charge de (Episode de la guerre de 1870).,1187,96.2,False,positional,,,Tableaux modernes,,
+BO0624_83664,156095,80,159,BuJon (Emile). Charge de (Episode de la guerre de 1870).,1187,96.2,False,positional,,,Tableaux modernes,,Sec. XIX
 BO0624_83664,156096,81,16,o —— J. B. Tete de jeune fille.,1193,96.2,False,positional,,,Tableaux modernes,,
 BO0624_83664,156097,82,161,BoMPARD (Maurice). Tete de mendiant italien.,1199,95.2,False,positional,,,Tableaux modernes,,
 BO0624_83664,156098,83,162,"CABAT. Soleil couchant en foret, au-dessus de la mare.",1205,96.2,False,positional,,,Tableaux modernes,,
@@ -97,7 +97,7 @@ BO0624_83664,156110,95,175,"— DELARocHE (G.) La Lecture. Signe a droite, en ba
 BO0624_83664,156111,96,176,"——DELARoCHE (B.). L'Eventcil. Signe a droite, en bas.",1274,95.7,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156112,97,178,mare.,1283,66.7,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156113,98,180,"DROLLING. La Vieille fileuse. Signe a droite, en bas, du monogramme.",1293,96.9,False,positional,CHOCARNE-MOREAU,,,,
-BO0624_83664,156114,99,181,"DuPoNNAIs (G.). Nature morte. Signé a gauche, en bas : 1882.",1297,96.2,False,positional,CHOCARNE-MOREAU,,,,
+BO0624_83664,156114,99,181,"DuPoNNAIs (G.). Nature morte. Signé a gauche, en bas : 1882.",1297,96.2,False,positional,CHOCARNE-MOREAU,,,,Sec. XIX
 BO0624_83664,156115,100,182,DURAND-BRAGER (H.). La Plage.,1301,92.3,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156116,101,177,- 183 —Duvieux. Ville ancienne sur la Mediter-,1308,100.0,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156117,102,184,—— EcoLE FRANCAIsE. Hercule luttant contre le,1315,95.3,False,positional,CHOCARNE-MOREAU,,,,
@@ -114,24 +114,24 @@ BO0624_83664,156127,112,195,GouTHIER (L.). La Mort du zouave.,1382,93.3,False,po
 BO0624_83664,156128,113,196,GoUTHIER (L.). La Chiffonniere.,1388,92.9,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156129,114,197,— GoUTHIER (L.). Nymphe au bain.,1394,92.6,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156130,115,193,"- 198 . GuILLEMET (A.) Village au bord de l'etang. Signe a droite, en bas.",1401,100.0,False,positional,CHOCARNE-MOREAU,,,,
-BO0624_83664,156131,116,199,"Guy (Louis). Campement arabe. Signe a droite, en bas : 1881. Panneau.Haut.,23 cent. 1/2;larg., 35 cent. 1/2.",1405,97.9,False,positional,CHOCARNE-MOREAU,,PANNELLI,,
+BO0624_83664,156131,116,199,"Guy (Louis). Campement arabe. Signe a droite, en bas : 1881. Panneau.Haut.,23 cent. 1/2;larg., 35 cent. 1/2.",1405,97.9,False,positional,CHOCARNE-MOREAU,,PANNELLI,,Sec. XIX
 BO0624_83664,156132,117,200,"HAy (Michel DE L). Les Dunes. Signe a droite, en bas.",1406,95.9,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156133,118,201,"HyoN (G.).Le Champ de bataille de Reichshoffen, la nuit. Signe a droite, en bas.",1410,97.3,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156134,119,202,IsABEy (Attribue a). La Jetee a maree basse; effet de soir.,1414,96.4,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156135,120,203,"—— JEANNIN (G.). Un Coin de table. Signe a droite, en bas.",1420,96.0,False,positional,CHOCARNE-MOREAU,,,,
-BO0624_83664,156136,121,204,"— LA Croix. Pecheurs au bord de l Adriatique. Signe a droite, vers le bas : 1776.",1424,97.3,False,positional,CHOCARNE-MOREAU,,,,
+BO0624_83664,156136,121,204,"— LA Croix. Pecheurs au bord de l Adriatique. Signe a droite, vers le bas : 1776.",1424,97.3,False,positional,CHOCARNE-MOREAU,,,,Sec. XVIII
 BO0624_83664,156137,122,205,"— LAM1 (Joseph). L'Apres-midi dans le parc. Signe a droite, en bas.",1428,96.7,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156138,123,206,— LAUNAy (J. DE). Le Trompette d'artillerie.,1431,94.9,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156139,124,207,LAUNAy (J. DE). Batterie d'artillerie chargeant.,1436,95.6,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156140,125,208,LEvIGNE (Theodore). Pierretle.,1442,92.9,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156141,126,209,MAGY (G.). Caravane arretee dans les,1448,94.1,False,positional,CHOCARNE-MOREAU,,,,
-BO0624_83664,156142,127,211,MoNTPEZAT (M. DE). 1839. Ie Rendez-vous de chiasse.,1459,95.7,False,positional,CHOCARNE-MOREAU,,,,
-BO0624_83664,156143,128,213,"1 NAvELET (J.). L'Enlevement des Sabines. Signe a droite, en bas : 1872.",1471,96.9,False,positional,CHOCARNE-MOREAU,,,,
+BO0624_83664,156142,127,211,MoNTPEZAT (M. DE). 1839. Ie Rendez-vous de chiasse.,1459,95.7,False,positional,CHOCARNE-MOREAU,,,,Sec. XIX
+BO0624_83664,156143,128,213,"1 NAvELET (J.). L'Enlevement des Sabines. Signe a droite, en bas : 1872.",1471,96.9,False,positional,CHOCARNE-MOREAU,,,,Sec. XIX
 BO0624_83664,156144,129,210,- 212,1476,100.0,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156145,130,215,Pecrus (C.). Les Laveuses au bord de la riviere.,1481,95.6,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156146,131,216,PILLEGRU. Le Sonneur de trompe.,1487,93.5,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156147,132,217,H. R. La Charrette de ble.,1493,92.0,False,positional,CHOCARNE-MOREAU,,,,
-BO0624_83664,156148,133,218,"— RicARD (Gustave). L'Adoration des bergers. Collection Emile Lombard,1863.",1499,97.1,False,positional,CHOCARNE-MOREAU,,,,
+BO0624_83664,156148,133,218,"— RicARD (Gustave). L'Adoration des bergers. Collection Emile Lombard,1863.",1499,97.1,False,positional,CHOCARNE-MOREAU,,,,Sec. XIX
 BO0624_83664,156149,134,219,"RivIERE (Charles). La Mare sous bois. Signe en bas, au milieu. Peinture sur cuivre. Haut., 15 cent. 1/2; larg., 12 cent.",1503,98.1,False,positional,CHOCARNE-MOREAU,,OGGETTI IN LEGNO,,
 BO0624_83664,156150,135,220,"de soleil dans la foret. Signe a gauche, en bas.",1505,95.7,False,positional,CHOCARNE-MOREAU,,,,
 BO0624_83664,156151,136,221,"—RoussEAu (Attribue a Th.). Le Moulin. Signé a gauche, en bas.",1509,96.4,False,positional,CHOCARNE-MOREAU,,,,

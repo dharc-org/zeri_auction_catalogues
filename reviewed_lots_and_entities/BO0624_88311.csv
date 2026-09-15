@@ -27,8 +27,8 @@ BO0624_88311,712333,25,29,- 30 Vor der Bockenheimer Warte mit Blick auf die Stad
 BO0624_88311,712334,26,31,"Das Aschaffenburger Tor. Aquarell 12,5/7,5",219,96.5,False,positional,Anton RADL,,,,
 BO0624_88311,712335,27,32,"Partie am Sandhof mit Blick auf Frankfurt a. M. Aquarell 7,5/12,5",224,97.7,False,positional,L.RAMADIER,,,,
 BO0624_88311,712336,28,34,Waldpartie bei Falkenstein im Taunus.,238,96.0,False,positional,Carl Theodor REIFFENSTEIN,,,,
-BO0624_88311,712337,29,35,Kirche mit beleuchtetem Marienfenster. Bezeichnet:Reiffenstein 1873.,240,97.8,False,positional,Carl Theodor REIFFENSTEIN,,,,
-BO0624_88311,712338,30,36,"Ansicht von Frankfurt a. M. und Sachsenhausen mit der alten Bricke. Bezeichnet: G.Sch.1740. Aquarell 9/17,5",246,98.6,False,positional,Christian Georg SCHUTZ d. AItere,,,,
+BO0624_88311,712337,29,35,Kirche mit beleuchtetem Marienfenster. Bezeichnet:Reiffenstein 1873.,240,97.8,False,positional,Carl Theodor REIFFENSTEIN,,,,Sec. XIX
+BO0624_88311,712338,30,36,"Ansicht von Frankfurt a. M. und Sachsenhausen mit der alten Bricke. Bezeichnet: G.Sch.1740. Aquarell 9/17,5",246,98.6,False,positional,Christian Georg SCHUTZ d. AItere,,,,Sec. XVIII
 BO0624_88311,712339,31,37,"Der Brickenturm von Frankfurt a. M. Aquarell 15/10,5",248,97.1,False,positional,Christian Georg SCHUTZ d. AItere,,,,
 BO0624_88311,712340,32,38,"Der Brickenturm von Sachsenhausen. Aquarell 20/13,5",254,97.1,False,positional,Christian Georg SCHUTZ d. AItere,,,,
 BO0624_88311,712341,33,39,Selbstportrat des Meisters.,262,94.5,False,positional,Eduard STEINLE,,,,
@@ -96,7 +96,7 @@ BO0624_88311,712402,94,205,Fischerbarken an der Adria.                          
 BO0624_88311,712403,95,206,Waldlandschaft mit Burg. Bezeichnet.                                                                      | Leinw.27/46           |,554,95.8,False,positional,Hermann RUDISUHLI,,,,
 BO0624_88311,712404,96,217,Winterlandschaft. Monogrammiert.                                                                          | Holz 14/31            |,565,95.3,False,positional,Hermann RUDISUHLI,,OGGETTI IN LEGNO,,
 BO0624_88311,712405,97,222,"| J.THOMA, Wien. 2Mihle in Schwaz in Tirol.                                                                       | Leinw.125/90   |",573,96.2,False,positional,Jan STEEN,Scuola Viennese,,,
-BO0624_88311,712406,98,223,"| David TENIERs,1610-1690,Antwerpen (Art). Junger Mann mit roter Mitze, die rauchende Pfeife in der Hand haltend. | Holz 42,5/35   |",574,98.3,False,positional,Jan STEEN,,OGGETTI IN LEGNO,,
+BO0624_88311,712406,98,223,"| David TENIERs,1610-1690,Antwerpen (Art). Junger Mann mit roter Mitze, die rauchende Pfeife in der Hand haltend. | Holz 42,5/35   |",574,98.3,False,positional,Jan STEEN,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88311,712407,99,225,| Art des TIEPOLO. Mannerportrat.                                                                                 | Leinw.66/52    |,576,95.3,False,positional,Jan STEEN,,,,
 BO0624_88311,712408,100,226,227 | Waldfest. Vorfruhling.                                                                                          | Aquarell 24/28 |,578,95.1,False,positional,Jan STEEN,,,,
 BO0624_88311,712409,101,228,| DorfstraBe. Samtlich bezeichnet.                                                                                | Leinw.26/32    |,579,95.5,False,positional,Jan STEEN,,,,
@@ -372,17 +372,17 @@ BO0624_88311,712678,370,570,Desgl. Grafin Petrowna Czernichew.Ov. 6/5. Kette.. S
 BO0624_88311,712679,371,573,Fischbesteck.Desgl.,1072,90.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712680,372,574,- 575 Etui mit 2 Serviettenringen.S,1074,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712681,373,576,- 577 Zigarrenkasten.,1077,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88311,712682,374,578,Silberbecher mit Deckel des XIV. Deutschen BundesschieBens in Hannover 1903.Hohe 38 cm.,1080,97.7,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88311,712682,374,578,Silberbecher mit Deckel des XIV. Deutschen BundesschieBens in Hannover 1903.Hohe 38 cm.,1080,97.7,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XX
 BO0624_88311,712683,375,579,Silberbecher des XVIl. Deutschen Bundes- und Goldenen Jubilaums-,1081,96.8,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712684,376,580,Desgl. Desgl. Ebenso.,1083,90.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712685,377,581,Silberpokal mit Deckel. Ehrenpreis des XX. VerbandsschieBens in,1085,96.8,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712686,378,582,- 583,1087,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88311,712687,379,584,- Silberbecher des XVIll. VerbandsschieBens des badischen Landesschitzen-Vereins Heidelberg 1901. Hohe 22 cm.,1089,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88311,712688,380,585,"Silberbecher. XV. VerbandsschieBen in Mannheim 1896. Hohe 17,5 cm.",1092,96.9,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88311,712689,381,586,"- Desgl. XIl. VerbandsschieBen in Karlsruhe 1891.Hohe 23,5 cm.",1094,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88311,712690,382,587,"Desgl. X. VerbandsschieBen in Ludwigshafen 1888. Hohe 21,5 cm. Silberbecher. XVI. Verbands- und 25jahr. JubilaumsschieBen in Silberpokal. X.Deutsches BundesschieBen Berlin 1890. Hohe 22,5 cm.",1097,53.4,False,positional,,Scuola di Berlino,Antiquitaten; Kunstsachen,,
-BO0624_88311,712691,383,590,furter Schitzen-Vereins 1900. Hohe 27 cm.,1099,95.1,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88311,712692,384,591,"Silberromer mit Deckel. Apfelform.XV.Deutsches BundesschieBen Minchen 1906. Hohe 23,5 cm.",1101,97.7,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88311,712687,379,584,- Silberbecher des XVIll. VerbandsschieBens des badischen Landesschitzen-Vereins Heidelberg 1901. Hohe 22 cm.,1089,100.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XX
+BO0624_88311,712688,380,585,"Silberbecher. XV. VerbandsschieBen in Mannheim 1896. Hohe 17,5 cm.",1092,96.9,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88311,712689,381,586,"- Desgl. XIl. VerbandsschieBen in Karlsruhe 1891.Hohe 23,5 cm.",1094,100.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88311,712690,382,587,"Desgl. X. VerbandsschieBen in Ludwigshafen 1888. Hohe 21,5 cm. Silberbecher. XVI. Verbands- und 25jahr. JubilaumsschieBen in Silberpokal. X.Deutsches BundesschieBen Berlin 1890. Hohe 22,5 cm.",1097,53.4,False,positional,,Scuola di Berlino,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88311,712691,383,590,furter Schitzen-Vereins 1900. Hohe 27 cm.,1099,95.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XX
+BO0624_88311,712692,384,591,"Silberromer mit Deckel. Apfelform.XV.Deutsches BundesschieBen Minchen 1906. Hohe 23,5 cm.",1101,97.7,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XX
 BO0624_88311,712693,385,592,.je7cm.,1103,71.4,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712694,386,593,- Sechs Silberbecher mit Frankfurter Adler. Ehrenpreise. Verschiedene GroBen.,1105,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712695,387,594,- Sechs Likorbecher auf Untersatz. Silber.,1107,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -423,7 +423,7 @@ BO0624_88311,712729,421,637,Desgi. Grin.,1163,83.3,False,positional,,,Antiquitat
 BO0624_88311,712730,422,638,Konvolut. Diverse Lithographien etc.,1164,94.4,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712731,423,639,Desgi. Desgl.,1165,84.6,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712732,424,641,641,1167,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88311,712733,425,642,Gebetbuch. Koln 1813.,1170,90.5,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88311,712733,425,642,Gebetbuch. Koln 1813.,1170,90.5,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_88311,712734,426,643,- Konvolut Blatter. Architektur etc.,1172,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712735,427,644,Desgl. Desgl.,1173,84.6,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712736,428,645,Desgl.,1174,71.4,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -442,8 +442,8 @@ BO0624_88311,712748,440,657,Desgl. Rohrbach: RuBland.,1189,91.7,False,positional
 BO0624_88311,712749,441,658,- Desgl. Die Gesellschaft. Erotik.,1191,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712750,442,659,Historisches Werk. Deutschland und der Weltkrieg.,1192,95.9,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712751,443,660,Werk. The Coming Struggle in Eastern Asia by B. L. Putmann Weale.,1193,96.8,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88311,712752,444,661,"Desgl. A.String of Chinese Teachstones by W.Arthur Curnaby. Charles H.Kelly, London 1895.",1195,97.7,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88311,712753,445,662,"Desgl. American Diplomacie in the Orient by John W. Forster. Houghton Miffni u. Co.,Boston und New York 1903.",1196,98.1,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88311,712752,444,661,"Desgl. A.String of Chinese Teachstones by W.Arthur Curnaby. Charles H.Kelly, London 1895.",1195,97.7,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88311,712753,445,662,"Desgl. American Diplomacie in the Orient by John W. Forster. Houghton Miffni u. Co.,Boston und New York 1903.",1196,98.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XX
 BO0624_88311,712754,446,663,Desgl. Chinese Art by S.W. Busheli. C.M. G. B. Sc. M.D.Volume II.,1197,96.6,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712755,447,664,Desgl. The Passing of the Manchus by Percy Horace Kent M.A. (Oxon).,1199,96.9,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88311,712756,448,665,Desgl. The Englishman in China during the Victorian Era by Alexander,1201,97.1,False,positional,,,Antiquitaten; Kunstsachen,,

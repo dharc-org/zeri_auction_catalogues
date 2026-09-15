@@ -12,8 +12,8 @@ BO0624_87953,174950,10,11,| Kind auf Stuhl. Farbige Stiftzeichnung 33/26        
 BO0624_87953,174951,11,12,"| Louise Bonfils, Kopenhagen. Waldteich. Bezeichnet.                                                                       | Holz 22/25,5  |",31,97.5,False,positional,Eugene Bellange,,OGGETTI IN LEGNO,,
 BO0624_87953,174952,12,13,"| Rosa Bonheur , Bie bei Fontainebleau. Landschaft mit Hutten. Bezeichnet.                                                 | Leinw.32/33   |",32,98.1,False,positional,Eugene Bellange,,,,
 BO0624_87953,174953,13,14,"| Francois Boucher , Paris. Schaferin.                                                                                     | Karton 15/20  |",33,96.8,False,positional,Eugene Bellange,,,,
-BO0624_87953,174954,14,15,| Art des Breughel. Waldlandschaft mit Staffage. Bezeichnet P.B.1559.                                                      | Holz 47/92    |,34,98.0,False,positional,Eugene Bellange,,OGGETTI IN LEGNO,,
-BO0624_87953,174955,15,17,"| Francesco Casanova, 1727-1805,Bruh1 bei Wien. Reitergefecht.                                                             | Holz 41/71    |",36,97.8,False,positional,Eugene Bellange,Scuola Viennese,OGGETTI IN LEGNO,,
+BO0624_87953,174954,14,15,| Art des Breughel. Waldlandschaft mit Staffage. Bezeichnet P.B.1559.                                                      | Holz 47/92    |,34,98.0,False,positional,Eugene Bellange,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_87953,174955,15,17,"| Francesco Casanova, 1727-1805,Bruh1 bei Wien. Reitergefecht.                                                             | Holz 41/71    |",36,97.8,False,positional,Eugene Bellange,Scuola Viennese,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_87953,174956,16,19,"| J.B.C. Corot , Paris. Landschaft. Schwarzweissstudie. Bezeichnet.    | Tusche 16/21                                              |                                                           |",41,97.9,False,positional,Antoine Chintreuil,,,,
 BO0624_87953,174957,17,20,| Kistenlandschaft. Gewitterstimmung. Leinw. a. Kart. 23/33            | Kistenlandschaft. Gewitterstimmung. Leinw. a. Kart. 23/33 | Kistenlandschaft. Gewitterstimmung. Leinw. a. Kart. 23/33 |,42,99.1,False,positional,Antoine Chintreuil,,,,
 BO0624_87953,174958,18,21,"| Leon Cuny, Paris. Waldweg. Bezeiehnet.                               | Holz 27/20,5                                              |                                                           |",43,96.9,False,positional,Antoine Chintreuil,,OGGETTI IN LEGNO,,
@@ -40,15 +40,15 @@ BO0624_87953,174978,38,45,Vor dem Spiegel. Bezeichnet.                          
 BO0624_87953,174979,39,50,"Landschaftsstudie.                                                                                                            | Karton 13,5/20 |",77,95.5,False,positional,Karl Geist,,,,
 BO0624_87953,174980,40,55,"| Oberbayerisches Madl. Holz 16,5/12 Bezeichnet.                                                                           |",84,96.7,False,positional,H. Hirt,,OGGETTI IN LEGNO,,
 BO0624_87953,174981,41,56,| Jugend und Alter. Memento mori.                                                                                          |,86,95.1,False,positional,H. Hirt,,,,
-BO0624_87953,174982,42,58,"| 8 Portrait des Kardinal v. Sinzendorf, Bischof zu Breslau etc. Leinw.61/47 Riickseite bezeichnet:C.Hollmann 1792,Berlin. |",88,98.7,False,positional,H. Hirt,Scuola di Berlino,,,
+BO0624_87953,174982,42,58,"| 8 Portrait des Kardinal v. Sinzendorf, Bischof zu Breslau etc. Leinw.61/47 Riickseite bezeichnet:C.Hollmann 1792,Berlin. |",88,98.7,False,positional,H. Hirt,Scuola di Berlino,,,Sec. XVIII
 BO0624_87953,174983,43,59,| Mondschein am Wasser. Leinw.34/45                                                                                        |,89,95.5,False,positional,H. Hirt,,,,
 BO0624_87953,174984,44,61,| Waldinneres bei Fontainebleau. Leinw.37/58                                                                               |,91,96.5,False,positional,H. Hirt,,,,
 BO0624_87953,174985,45,62,| Studie zur goldenen Hochzeit. Leinw.a.Holz 44/54 Bezeichnet.                                                             |,92,97.5,False,positional,H. Hirt,,OGGETTI IN LEGNO,,
 BO0624_87953,174986,46,63,| Ansicht des Doms zu Frankfurt a.M. Kol. Druck 86/61                                                                      |,93,97.0,False,positional,H. Hirt,,,,
 BO0624_87953,174987,47,64,| Zwei engl. Farbstiche. Louisa und Pendant. Je 35/26 Kunstdrucke.                                                         |,94,97.6,False,positional,H. Hirt,,STAMPE E INCISIONI,,
-BO0624_87953,174988,48,65,| nach Bodenehr. Ansicht der Hauptwache mit Umgebung in Frankfurt a. M.1740. Kupferstich                                   |,95,98.2,False,positional,H. Hirt,,OGGETTI IN RAME,,
+BO0624_87953,174988,48,65,| nach Bodenehr. Ansicht der Hauptwache mit Umgebung in Frankfurt a. M.1740. Kupferstich                                   |,95,98.2,False,positional,H. Hirt,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_87953,174989,49,68,"| Louis Eugene Lambert , Paris. Katzen und Schmetterlinge. Bezeichnet..                                          | Holz 9/12,5   |",99,98.0,False,positional,H. Hirt,,OGGETTI IN LEGNO,,
-BO0624_87953,174990,50,69,"| Nic.Lancret,1690-1743,Paris. Liebespaare im Freien.                                                            | Leinw.22/31   |",100,97.6,False,positional,H. Hirt,,,,
+BO0624_87953,174990,50,69,"| Nic.Lancret,1690-1743,Paris. Liebespaare im Freien.                                                            | Leinw.22/31   |",100,97.6,False,positional,H. Hirt,,,,Sec. XVIII
 BO0624_87953,174991,51,70,"| Felix Hypolyte Lanoue , Jvry. Die Gard-Bricke. Bezeichnet.                                                     | Leinw.29/40   |",101,97.7,False,positional,H. Hirt,,,,
 BO0624_87953,174992,52,71,"| Fischer nach dem Regen. Leinw., oben rund, 3321                                                                |               |",102,96.6,False,positional,H. Hirt,,,,
 BO0624_87953,174993,53,72,| Flusslandschaft mit Baumen.                                                                                    | Leinw.40/65   |,103,96.2,False,positional,H. Hirt,,,,
@@ -56,7 +56,7 @@ BO0624_87953,174994,54,75,| Bezeichnet F. L. Lenbach. Portrat Bismarcks. Bezeich
 BO0624_87953,174995,55,76,"| Marine an der Kuste.                                                                                           | Leinw.20,5/28 |",107,95.7,False,positional,H. Hirt,,,,
 BO0624_87953,174996,56,77,| Desgl. mit Fischerboten. Beide bezeichnet.                                                                     | Leinw.24/19   |,108,97.1,False,positional,H. Hirt,,,,
 BO0624_87953,174997,57,78,| Das Dorf. Leinw. 39/58 Bezeichnet.                                                                                     |,111,95.4,False,positional,H. Hirt,,,,
-BO0624_87953,174998,58,79,| Normannische Kuche. Meisterhafte Kopie nach dem beruhmten Gemalde von Jules Dupré (Salon 1833) Bezeichnet. Leinw.47/63 |,113,98.7,False,title_direct,,,OGGETTI VARI,,
+BO0624_87953,174998,58,79,| Normannische Kuche. Meisterhafte Kopie nach dem beruhmten Gemalde von Jules Dupré (Salon 1833) Bezeichnet. Leinw.47/63 |,113,98.7,False,title_direct,,,OGGETTI VARI,,Sec. XIX
 BO0624_87953,174999,59,80,| Fruhlingslandschaft. Leinw.40/25                                                                                       |,115,95.4,False,positional,H. Hirt,,,,
 BO0624_87953,175000,60,81,| Landschaft. Pend. z. Vor. Bezeichnet.                                                                                  |,116,95.5,False,positional,H. Hirt,,,,
 BO0624_87953,175001,61,82,"| M. Loose, Berlin. Partie bei Florenz. Aquarell 55/35 Bezeichnet.                                                       |",117,97.5,False,positional,H. Hirt,Scuola di Berlino,,,
@@ -64,33 +64,33 @@ BO0624_87953,175002,62,83,"| E.H. Lorenz-Murowana, Berlin. Landschaft bei Mondsc
 BO0624_87953,175003,63,86,| Hirte auf einem Bergvorsprung. Leinw.95/78                                                                             |,122,96.5,False,positional,H. Hirt,,,,
 BO0624_87953,175004,64,89,"| Professor Adolf Menzel , Berlin. Konzert-Probe. Oelstudie. Leinw. a. Karton 20,5/28,5 Bezeichnet und auf der Rickseite die Angabe:,Geschenk an Major von Chelius"" |",127,99.0,False,positional,P. Menestrier,Scuola di Berlino,,,
 BO0624_87953,175005,65,90,"| Dame. Kreide 28/18,5 Bezeichnet.                                                                                                                                  |",128,95.2,False,positional,P. Menestrier,,,,
-BO0624_87953,175006,66,91,"| Bezeichnet: Adolph v. Menzel, 1903. Alter Fritz zu Pferd. Kohle 40/50                                                                                             |",129,97.7,False,positional,P. Menestrier,,,,
+BO0624_87953,175006,66,91,"| Bezeichnet: Adolph v. Menzel, 1903. Alter Fritz zu Pferd. Kohle 40/50                                                                                             |",129,97.7,False,positional,P. Menestrier,,,,Sec. XX
 BO0624_87953,175007,67,93,| Nach Jean Bapt. Monnoyer. Blumenstuck (alten Pinakothek). Leinw.85/60                                                                                             |,131,97.7,False,positional,P. Menestrier,,OGGETTI VARI,,
 BO0624_87953,175008,68,95,"| Professor Carl Ernst Morgenstern, Breslau. Flusslandschaft. Leinw.65/127 Bezeichnet.                                                                              |",133,98.2,False,positional,P. Menestrier,,,,
 BO0624_87953,175009,69,96,"| Mich. Munkacsy , Budapest. Dalmatinerin. Tusche 29/20                                                                                                             |",134,97.0,False,positional,P. Menestrier,,,,
 BO0624_87953,175010,70,97,"| Professor Moritz Oppenheim , Frankfurt a. M. Mannliches Bildnis. Leinw.49/37 Monogrammiert.                                                                       |",135,98.3,False,positional,P. Menestrier,,,,
-BO0624_87953,175011,71,99,Bildnis eines Kinstlers. Bezeichnet:F.Paulsen 1871.                                              | Leinw.60/84    |,139,97.6,False,positional,Fritz Paulsen,,,,
+BO0624_87953,175011,71,99,Bildnis eines Kinstlers. Bezeichnet:F.Paulsen 1871.                                              | Leinw.60/84    |,139,97.6,False,positional,Fritz Paulsen,,,,Sec. XIX
 BO0624_87953,175012,72,101,102 Kopfchen. Beide bezeichnet.                                                                 | Pastell 38/32  |,143,95.6,False,positional,Fritz Paulsen,,,,
 BO0624_87953,175013,73,110,"Ansicht von Alt-Frankfurt vom Wendelsweg gesehen, nach d. Natur v. A.Eymer gezeichnet. Photogr. |                |",151,97.8,False,positional,Fritz Paulsen,,,,
 BO0624_87953,175014,74,111,Desgl. vom Muhlberg aus.                                                                        | Photogr.       |,152,93.8,False,positional,Fritz Paulsen,,,,
 BO0624_87953,175015,75,113,"| L. Robert, Paris. Arabische Reiter im Gebirge. Bezeichnet.                                         | Holz 21/41                                            |",157,97.0,False,positional,Eugene Rivaud,,OGGETTI IN LEGNO,,
 BO0624_87953,175016,76,114,"| Professor Max Roman, Karlsruhe. 4 Italienische Landschaft. Bezeichnet.                             | Karton 26/39                                          |",158,97.5,False,positional,Eugene Rivaud,,,,
 BO0624_87953,175017,77,115,"| Gustav Romin, Berlin. Marine mit Leuchtturm.. Bezeichnet.                                          | Gouache 40/25                                         |",159,97.1,False,positional,Eugene Rivaud,Scuola di Berlino,,,
-BO0624_87953,175018,78,116,"| Camille Joseph Etienne Roqueplan , Paris. Italienerinnen mit Hund. Bezeichnet mit Jahreszahl 1840. | Leinw.46/37                                           |",160,98.1,False,positional,Eugene Rivaud,,,,
+BO0624_87953,175018,78,116,"| Camille Joseph Etienne Roqueplan , Paris. Italienerinnen mit Hund. Bezeichnet mit Jahreszahl 1840. | Leinw.46/37                                           |",160,98.1,False,positional,Eugene Rivaud,,,,Sec. XIX
 BO0624_87953,175019,79,117,"| Louis Henri Saintin , Paris. Flusslandschaft im Herbst. Bezeichnet.                                | Leinw.74/41                                           |",161,97.4,False,positional,Eugene Rivaud,,,,
 BO0624_87953,175020,80,118,"| Wilh. Schreuer, Dusseldorf. Hollandischer Kavalier. Bezeichnet.                                    | Karton a.Leinw.44/27                                  |",162,97.5,False,positional,Eugene Rivaud,,,,
 BO0624_87953,175021,81,119,"| C. Schmidt, Danzig. Marine. Bezeichnet.                                                            | Leinw.31/46                                           |",163,95.8,False,positional,Eugene Rivaud,,,,
 BO0624_87953,175022,82,120,"| Georg Schmitgen , Potsdam. See bei Abendbeleuchtung.                                               | Leinw.a.Kart.26,5/41                                  |",164,97.2,False,positional,Eugene Rivaud,,,,
 BO0624_87953,175023,83,121,| Auf dem Parksee.                                                                                   | Leinw.27/40                                           |,165,93.1,False,positional,Eugene Rivaud,,,,
-BO0624_87953,175024,84,122,"| C.G. Schuz, 1718-1791,Frankfurt a.M.                                                               | Partie bei Biskirchen a. d. Lahn. Leinw.a.Kart. 22/26 |",166,97.6,False,positional,Eugene Rivaud,,,,
+BO0624_87953,175024,84,122,"| C.G. Schuz, 1718-1791,Frankfurt a.M.                                                               | Partie bei Biskirchen a. d. Lahn. Leinw.a.Kart. 22/26 |",166,97.6,False,positional,Eugene Rivaud,,,,Sec. XVIII
 BO0624_87953,175025,85,124,"| C. Spitzweg , Munchen. Waldinneres. Bereichnet.                                                                               | Leinw.32/26      |",171,96.4,False,positional,SPITZWEG CARL,Spanische Schule,,,
 BO0624_87953,175026,86,125,"| Adolf Stademann , Munchen. Winterlandschaft. Bezeichnet.                                                                      | Holz 21/32       |",172,96.9,False,positional,STADEMANN ADOLF,Spanische Schule,OGGETTI IN LEGNO,,
 BO0624_87953,175027,87,127,"| Joachim Sunyer, Paris. La place Pigalle.                                                                                      | Karton 35/47     |",174,96.2,False,positional,,Spanische Schule,,,
 BO0624_87953,175028,88,128,| Das Bassin des Luxembourg.                                                                                                    | Holz 23/33       |,175,94.7,False,positional,,Spanische Schule,OGGETTI IN LEGNO,,
 BO0624_87953,175029,89,129,"| Markt im Freien.                                                                                                              | Holz 30,5/41     |",176,93.3,False,positional,,Spanische Schule,OGGETTI IN LEGNO,,
 BO0624_87953,175030,90,130,| Im Variete. Samtlich bezeichnet.                                                                                              | Pastell 32/41    |,177,95.7,False,positional,,Spanische Schule,,,
-BO0624_87953,175031,91,131,"| David Teniers, d. J. 1610-1690, Perck b. Brussel. Kicheninneres. Holz 26/33                                                   |                  |",178,97.1,False,positional,TENIERS DAVID IL GIOVANE,Spanische Schule,OGGETTI IN LEGNO,,
-BO0624_87953,175032,92,133,"| 132 Savoyarden-Knabe (Studie). Unbekannte Meister.                                                                            | Holz 22,5/25,5   |",180,96.8,False,positional,,Spanische Schule,OGGETTI IN LEGNO,,
+BO0624_87953,175031,91,131,"| David Teniers, d. J. 1610-1690, Perck b. Brussel. Kicheninneres. Holz 26/33                                                   |                  |",178,97.1,False,positional,TENIERS DAVID IL GIOVANE,Spanische Schule,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_87953,175032,92,133,"| 132 Savoyarden-Knabe (Studie). Unbekannte Meister.                                                                            | Holz 22,5/25,5   |",180,96.8,False,positional,ANONIMO,Spanische Schule,OGGETTI IN LEGNO,,
 BO0624_87953,175033,93,134,135 | Desgl. Pendant z.Vor. Desgl.                                                                                                  | Holz 37/56       |,182,95.2,False,positional,,Spanische Schule,OGGETTI IN LEGNO,,
 BO0624_87953,175034,94,137,"| Louise Vanderhercken. Fluss im Herbst. Bezeichnet.                                                                                                   | Holz 11/18,5                                                                                                                                         |",187,96.8,False,positional,Antonie Vollon,,OGGETTI IN LEGNO,,
 BO0624_87953,175035,95,139,"Englische Landschaft. | L.A. Whistler, London.                                                                                                                               | Aquarell 21,5/29,5                                                                                                                                   |",189,96.7,False,positional,Antonie Vollon,,,,
@@ -103,9 +103,9 @@ BO0624_87953,175041,101,145,| nach E. Czech. Gourmandise.                       
 BO0624_87953,175042,102,146,| nach A. van Riesen. Des Lebens Mai.                                                                                                                  | Platte 51/37                                                                                                                                         |,196,95.7,False,positional,Antonie Vollon,,,,
 BO0624_87953,175043,103,147,| nach Franz von Lenbach. Saharet.                                                                                                                     | Platte 69/34                                                                                                                                         |,197,95.6,False,positional,Antonie Vollon,,,,
 BO0624_87953,175044,104,148,| nach A. H. Schram. Die Parzen.                                                                                                                       | Platte 78/52                                                                                                                                         |,198,95.1,False,positional,Antonie Vollon,,,,
-BO0624_87953,175045,105,149,| Festzug bei der Frankfurter Schiller-Sacularfeier 1859 von F. C. Klimsch. 16 Kunstblatter nebst Beschreibung.                                        | Festzug bei der Frankfurter Schiller-Sacularfeier 1859 von F. C. Klimsch. 16 Kunstblatter nebst Beschreibung.                                        |,199,99.1,False,title_direct,,,Kunstblatter,,
-BO0624_87953,175046,106,150,| Album de la vie de Cesar. Henry de Nontaut. Paris 1865                                                                                               | Album de la vie de Cesar. Henry de Nontaut. Paris 1865                                                                                               |,200,98.1,False,positional,Antonie Vollon,,,,
-BO0624_87953,175047,107,151,| Prachtalbum der Weltausstellung Paris 1889. Herausgabe von E. Hubert mit deutschem Text.                                                             | Prachtalbum der Weltausstellung Paris 1889. Herausgabe von E. Hubert mit deutschem Text.                                                             |,201,98.8,False,positional,Antonie Vollon,,,,
+BO0624_87953,175045,105,149,| Festzug bei der Frankfurter Schiller-Sacularfeier 1859 von F. C. Klimsch. 16 Kunstblatter nebst Beschreibung.                                        | Festzug bei der Frankfurter Schiller-Sacularfeier 1859 von F. C. Klimsch. 16 Kunstblatter nebst Beschreibung.                                        |,199,99.1,False,title_direct,,,Kunstblatter,,Sec. XIX
+BO0624_87953,175046,106,150,| Album de la vie de Cesar. Henry de Nontaut. Paris 1865                                                                                               | Album de la vie de Cesar. Henry de Nontaut. Paris 1865                                                                                               |,200,98.1,False,positional,Antonie Vollon,,,,Sec. XIX
+BO0624_87953,175047,107,151,| Prachtalbum der Weltausstellung Paris 1889. Herausgabe von E. Hubert mit deutschem Text.                                                             | Prachtalbum der Weltausstellung Paris 1889. Herausgabe von E. Hubert mit deutschem Text.                                                             |,201,98.8,False,positional,Antonie Vollon,,,,Sec. XIX
 BO0624_87953,175048,108,152,"| Mappe mit ca.85 Photographien.20/28 von bedeutenden Bauten, Baudenkmalern,Platzen und Inneneinrich- tungen im In- und Ausland. (Architektensammlung) | Mappe mit ca.85 Photographien.20/28 von bedeutenden Bauten, Baudenkmalern,Platzen und Inneneinrich- tungen im In- und Ausland. (Architektensammlung) |",202,99.3,False,positional,Antonie Vollon,,FOTOGRAFIE,,
 BO0624_87953,175049,109,153,"Album mit ca. 138 Photographien berihmter Bauten Monumente,Platze etc.in Deutschland, Italien,Ungarn, Schweiz mit Verzeichnis und Angabe der Erbauer, Kunstler, Lander und Jahreszahl der Entstehung. (Architektensammlung).",203,99.1,False,positional,Antonie Vollon,,FOTOGRAFIE,,
 BO0624_87953,175050,110,154,Album mit 39 Photogr. beruhmter Bauten etc.H Kabinet.,204,96.2,False,positional,Antonie Vollon,,,,
@@ -132,24 +132,24 @@ BO0624_87953,175070,130,177,Zwei Ridinger-Vorlagen.,245,91.7,False,positional,An
 BO0624_87953,175071,131,178,- Stich nach Raphael. Heilige Katharina.,247,100.0,False,positional,Antonie Vollon,,,,
 BO0624_87953,175072,132,179,"Stich.Pfarrer Decken, Frankfurt.",248,93.8,False,positional,Antonie Vollon,,BIANCHERIA,,
 BO0624_87953,175073,133,180,16 Stiche. Orient.,250,88.9,False,positional,Antonie Vollon,,STAMPE E INCISIONI,,
-BO0624_87953,175074,134,181,Stich. Otto Wittelsbach 1697.,252,93.1,False,positional,Antonie Vollon,,,,
-BO0624_87953,175075,135,182,Dokument. Landgraf Ludwig 1793.,254,93.5,False,positional,Antonie Vollon,,,,
-BO0624_87953,175076,136,183,Erlass des Kurfuirst zu Trier 1768.,258,100.0,False,positional,Antonie Vollon,,,,
-BO0624_87953,175077,137,184,Friedensbeschluss Luineville 1801. Nassau.,260,95.2,False,positional,Antonie Vollon,,,,
-BO0624_87953,175078,138,185,Desgl. Nassau und Frankreich 1806.,262,94.1,False,positional,Antonie Vollon,,,,
+BO0624_87953,175074,134,181,Stich. Otto Wittelsbach 1697.,252,93.1,False,positional,Antonie Vollon,,,,Sec. XVII
+BO0624_87953,175075,135,182,Dokument. Landgraf Ludwig 1793.,254,93.5,False,positional,Antonie Vollon,,,,Sec. XVIII
+BO0624_87953,175076,136,183,Erlass des Kurfuirst zu Trier 1768.,258,100.0,False,positional,Antonie Vollon,,,,Sec. XVIII
+BO0624_87953,175077,137,184,Friedensbeschluss Luineville 1801. Nassau.,260,95.2,False,positional,Antonie Vollon,,,,Sec. XIX
+BO0624_87953,175078,138,185,Desgl. Nassau und Frankreich 1806.,262,94.1,False,positional,Antonie Vollon,,,,Sec. XIX
 BO0624_87953,175079,139,186,Manuskript. Derer von Stromberg m. Wappen.,264,95.1,False,positional,Antonie Vollon,,,,
-BO0624_87953,175080,140,187,54 Initialen auf drei Tafeln. 1475.,266,94.3,False,positional,Antonie Vollon,,,,
-BO0624_87953,175081,141,188,20 Exlibris. 1560.,268,88.9,False,positional,Antonie Vollon,,,,
-BO0624_87953,175082,142,189,13 desgl. Frankfurt a. M. 1593.,270,93.1,False,positional,Antonie Vollon,,,,
-BO0624_87953,175083,143,190,17 desgl. von 1544.,274,100.0,False,positional,Antonie Vollon,,,,
-BO0624_87953,175084,144,191,15 desgl. von 1560.,276,89.5,False,positional,Antonie Vollon,,,,
-BO0624_87953,175085,145,192,16 desgl. von 1520.,278,89.5,False,positional,Antonie Vollon,,,,
+BO0624_87953,175080,140,187,54 Initialen auf drei Tafeln. 1475.,266,94.3,False,positional,Antonie Vollon,,,,Sec. XV
+BO0624_87953,175081,141,188,20 Exlibris. 1560.,268,88.9,False,positional,Antonie Vollon,,,,Sec. XVI
+BO0624_87953,175082,142,189,13 desgl. Frankfurt a. M. 1593.,270,93.1,False,positional,Antonie Vollon,,,,Sec. XVI
+BO0624_87953,175083,143,190,17 desgl. von 1544.,274,100.0,False,positional,Antonie Vollon,,,,Sec. XVI
+BO0624_87953,175084,144,191,15 desgl. von 1560.,276,89.5,False,positional,Antonie Vollon,,,,Sec. XVI
+BO0624_87953,175085,145,192,16 desgl. von 1520.,278,89.5,False,positional,Antonie Vollon,,,,Sec. XVI
 BO0624_87953,175086,146,193,Vier Initialen.,282,100.0,False,positional,Antonie Vollon,,,,
 BO0624_87953,175087,147,194,Neun desgl. und Miniaturen.,284,92.6,False,positional,Antonie Vollon,,MINIATURE,,
 BO0624_87953,175088,148,195,Stich. von Bose.,286,87.5,False,positional,Antonie Vollon,,,,
 BO0624_87953,175089,149,196,Franz. Stich.P. de Cotta.,288,91.7,False,positional,Antonie Vollon,,,,
 BO0624_87953,175090,150,197,Stich. Lowe von Ridinger.,290,92.0,False,positional,Antonie Vollon,,,,
-BO0624_87953,175091,151,198,Zwolf ital. Kupferstiche. 1809.,292,93.3,False,positional,Antonie Vollon,,OGGETTI IN RAME,,
+BO0624_87953,175091,151,198,Zwolf ital. Kupferstiche. 1809.,292,93.3,False,positional,Antonie Vollon,,OGGETTI IN RAME,,Sec. XIX
 BO0624_87953,175092,152,199,Zwolf kolor. Bilder.,294,90.0,False,positional,Antonie Vollon,,FOTOGRAFIE,,
 BO0624_87953,175093,153,200,Silhouette.,296,83.3,False,positional,Antonie Vollon,,,,
 BO0624_87953,175094,154,201,"Zehn diverse Ansichten, einige koloriert.",298,95.1,False,positional,Antonie Vollon,,,,
@@ -166,10 +166,10 @@ BO0624_87953,175104,164,212,Desgl. von Holzhausen.,330,90.9,False,positional,Ant
 BO0624_87953,175105,165,213,"- Zinnkanne mit Hirsch, von Holzhausen.",332,100.0,False,positional,Antonie Vollon,,OGGETTI IN LATTA,,
 BO0624_87953,175106,166,214,Silberner Becher von Holzhausen.,333,93.9,False,positional,Antonie Vollon,,VASI,,
 BO0624_87953,175107,167,215,Desgl. desgl.,336,100.0,False,positional,Antonie Vollon,,,,
-BO0624_87953,175108,168,216,Zinnteller. Wappen. Baden 1765.,338,93.3,False,positional,Antonie Vollon,,PIATTI,,
+BO0624_87953,175108,168,216,Zinnteller. Wappen. Baden 1765.,338,93.3,False,positional,Antonie Vollon,,PIATTI,,Sec. XVIII
 BO0624_87953,175109,169,217,Desgl.,339,71.4,False,positional,Antonie Vollon,,,,
-BO0624_87953,175110,170,218,Desgl. Landgrafschaft Sausenberg 1753.,341,94.7,False,positional,Antonie Vollon,,,,
-BO0624_87953,175111,171,219,- Desgl. Herrschaft Badenweiler 1759.,343,100.0,False,positional,Antonie Vollon,,,,
+BO0624_87953,175110,170,218,Desgl. Landgrafschaft Sausenberg 1753.,341,94.7,False,positional,Antonie Vollon,,,,Sec. XVIII
+BO0624_87953,175111,171,219,- Desgl. Herrschaft Badenweiler 1759.,343,100.0,False,positional,Antonie Vollon,,,,Sec. XVIII
 BO0624_87953,175112,172,220,- Zunftkanne. Freiburg.,345,100.0,False,positional,Antonie Vollon,,,,
 BO0624_87953,175113,173,221,Desgl. Heidelberg.,346,88.9,False,positional,Antonie Vollon,,,,
 BO0624_87953,175114,174,222,Desgl.,347,71.4,False,positional,Antonie Vollon,,,,
@@ -190,7 +190,7 @@ BO0624_87953,175128,188,236,Venet.Flakon.,371,85.7,False,positional,Antonie Voll
 BO0624_87953,175129,189,237,Meissner Pfeifenkopf.,373,90.9,False,positional,Antonie Vollon,,,,
 BO0624_87953,175130,190,238,Franzosischer Goblin.,374,90.9,False,positional,Antonie Vollon,,,,
 BO0624_87953,175131,191,239,Porzellanfigur. Lesende Frau.,375,93.1,False,positional,Antonie Vollon,,,,
-BO0624_87953,175132,192,240,- Zinnkanne mit gerader Schnauze. H.v.B. 1736.,377,100.0,False,positional,Antonie Vollon,,OGGETTI IN LATTA,,
+BO0624_87953,175132,192,240,- Zinnkanne mit gerader Schnauze. H.v.B. 1736.,377,100.0,False,positional,Antonie Vollon,,OGGETTI IN LATTA,,Sec. XVIII
 BO0624_87953,175133,193,241,Visitkartenschale mit Minerva. Fein ziseliert.,378,95.7,False,positional,Antonie Vollon,,,,
 BO0624_87953,175134,194,242,Apostelmesser.,379,86.7,False,positional,Antonie Vollon,,,,
 BO0624_87953,175135,195,243,Sechs Knopfe mit Steinen.,380,92.3,False,positional,Antonie Vollon,,OGGETTI VARI,,
@@ -296,8 +296,8 @@ BO0624_87953,175234,294,344,Grosse Schuissel. Zinn.,504,91.3,False,positional,An
 BO0624_87953,175235,295,345,Kaffeekanne. Steingut.,505,90.9,False,positional,Antonie Vollon,,OGGETTI VARI,,
 BO0624_87953,175236,296,346,Milchkanne. Desgl.,506,88.9,False,positional,Antonie Vollon,,,,
 BO0624_87953,175237,297,347,Bauchiger Krug. Steingut.,507,92.0,False,positional,Antonie Vollon,,,,
-BO0624_87953,175238,298,348,"- Zunfthumpen der Metzger 1645. Zylindrisch, reich graviert, figurlich und ornamental. Am MessingKranen Meerweibchen und Delphinkopf, auf dem Deckel Delphin mit Schild. Bandhenkel, ornamentiert und drei Klauenfusse auf Kugeln. Zinn. Hohe 60, Diam.22 cm.",509,100.0,False,positional,Antonie Vollon,,OGGETTI IN LATTA,,
-BO0624_87953,175239,299,349,"Deckelhumpen, zylindrisch nach oben verjungt. Zinn, graviert mit Jahreszahl 1715. Hohe 40 cm.",510,97.8,False,positional,Antonie Vollon,,OGGETTI IN LATTA,,
+BO0624_87953,175238,298,348,"- Zunfthumpen der Metzger 1645. Zylindrisch, reich graviert, figurlich und ornamental. Am MessingKranen Meerweibchen und Delphinkopf, auf dem Deckel Delphin mit Schild. Bandhenkel, ornamentiert und drei Klauenfusse auf Kugeln. Zinn. Hohe 60, Diam.22 cm.",509,100.0,False,positional,Antonie Vollon,,OGGETTI IN LATTA,,Sec. XVII
+BO0624_87953,175239,299,349,"Deckelhumpen, zylindrisch nach oben verjungt. Zinn, graviert mit Jahreszahl 1715. Hohe 40 cm.",510,97.8,False,positional,Antonie Vollon,,OGGETTI IN LATTA,,Sec. XVIII
 BO0624_87953,175240,300,350,- Seiden-Shawl mit Franzen. 170/170. Gold.,512,92.8,False,positional,Antonie Vollon,,OGGETTI IN ORO,,
 BO0624_87953,175241,301,351,HerrenUhrkette.5,514,88.9,False,positional,Antonie Vollon,,,,
 BO0624_87953,175242,302,352,Kavalier-Kette. Desgl. Brillantring. Desgl. Desgl.,515,58.0,False,positional,Antonie Vollon,,,,
@@ -402,9 +402,9 @@ BO0624_87953,175340,400,458,- Medaille.Aus Liebe fur Liebe.,647,100.0,False,posi
 BO0624_87953,175341,401,459,Bayrisches Postsiegel.,648,91.3,False,positional,Antonie Vollon,,,,
 BO0624_87953,175342,402,460,Schlachtmarke der freien Stadt Frankfurt a. M.,649,95.7,False,positional,Antonie Vollon,,,,
 BO0624_87953,175343,403,461,- Dambrettstein.,651,100.0,False,positional,Antonie Vollon,,,,
-BO0624_87953,175344,404,462,Medaille. Wellington 1812.,652,92.3,False,positional,Antonie Vollon,,,,
-BO0624_87953,175345,405,463,- Bronzewappen. Anno Domini 1620.,654,100.0,False,positional,Antonie Vollon,,,,
-BO0624_87953,175346,406,464,Metallrelief. XVI. Jahrhundert.,655,93.3,False,positional,Antonie Vollon,,,,
+BO0624_87953,175344,404,462,Medaille. Wellington 1812.,652,92.3,False,positional,Antonie Vollon,,,,Sec. XIX
+BO0624_87953,175345,405,463,- Bronzewappen. Anno Domini 1620.,654,100.0,False,positional,Antonie Vollon,,,,Sec. XVII
+BO0624_87953,175346,406,464,Metallrelief. XVI. Jahrhundert.,655,93.3,False,positional,Antonie Vollon,,,,Sec. XVI
 BO0624_87953,175347,407,465,Messing-Stofchen.,656,88.9,False,positional,Antonie Vollon,,,,
 BO0624_87953,175348,408,466,Kupfer-Stofchen.,657,88.2,False,positional,Antonie Vollon,,OGGETTI IN RAME,,
 BO0624_87953,175349,409,467,Schillerbrief in Glas und gerahmt.,658,94.3,False,positional,Antonie Vollon,,,,
@@ -479,7 +479,7 @@ BO0624_87953,175417,477,539,Desgl. mit zwei Camee und Koralle.,764,94.1,False,po
 BO0624_87953,175418,478,540,- Onyxpetschaft mit Wappen. Goldfassung.,766,100.0,False,positional,Antonie Vollon,,,,
 BO0624_87953,175419,479,542,542,768,100.0,False,positional,Antonie Vollon,,,,
 BO0624_87953,175420,480,543,Zwei byzantinische Schmuckstuicke mit Email.,771,95.6,False,positional,Antonie Vollon,,,,
-BO0624_87953,175421,481,544,- Silb. Fingerhut von 1717.,773,100.0,False,positional,Antonie Vollon,,,,
+BO0624_87953,175421,481,544,- Silb. Fingerhut von 1717.,773,100.0,False,positional,Antonie Vollon,,,,Sec. XVIII
 BO0624_87953,175422,482,545,Desgl. Cruzifix mit Rosetten.,774,93.1,False,positional,Antonie Vollon,,,,
 BO0624_87953,175423,483,546,Desgl. desgl. mit Bergkristall.,775,93.3,False,positional,Antonie Vollon,,,,
 BO0624_87953,175424,484,547,- Jagdbild. Perlmutter auf Carneol.,777,100.0,False,positional,Antonie Vollon,,,,
@@ -497,7 +497,7 @@ BO0624_87953,175435,495,560,- Desgl. desgl.,795,100.0,False,positional,Antonie V
 BO0624_87953,175436,496,561,Miniaturbronze.,796,87.5,False,positional,Antonie Vollon,,,,
 BO0624_87953,175437,497,562,Silbernes Uhrgehause.,797,90.9,False,positional,Antonie Vollon,,,,
 BO0624_87953,175438,498,563,- Silb. Taschenbigel.,799,100.0,False,positional,Antonie Vollon,,,,
-BO0624_87953,175439,499,564,Luther-Medaille.1817.,800,90.9,False,positional,Antonie Vollon,,,,
+BO0624_87953,175439,499,564,Luther-Medaille.1817.,800,90.9,False,positional,Antonie Vollon,,,,Sec. XIX
 BO0624_87953,175440,500,565,- 12 silb. kl. Apostelloffel.,802,100.0,False,positional,Antonie Vollon,,,,
 BO0624_87953,175441,501,566,Buketthalter.,803,85.7,False,positional,Antonie Vollon,,,,
 BO0624_87953,175442,502,567,Buchdecke.,804,81.8,False,positional,Antonie Vollon,,,,
@@ -558,7 +558,7 @@ BO0624_87953,175496,556,623,"Bronzelister, 20 lichtig, mit Kristallbehang. Rokok
 BO0624_87953,175497,557,624,"Desgl, 6 lichtig, desgl. Empire.",884,93.3,False,positional,Antonie Vollon,,,,
 BO0624_87953,175498,558,625,Harfe.,885,71.4,False,positional,Antonie Vollon,,,,
 BO0624_87953,175499,559,626,"- Korbdegen. Eisen, geschnitten. 16.Jahrh. Spanisch.",887,100.0,False,positional,Antonie Vollon,,OGGETTI IN FERRO,,
-BO0624_87953,175500,560,627,Bunte Glasscheibe. Ritterwappen 1520.,888,94.6,False,positional,Antonie Vollon,,,,
+BO0624_87953,175500,560,627,Bunte Glasscheibe. Ritterwappen 1520.,888,94.6,False,positional,Antonie Vollon,,,,Sec. XVI
 BO0624_87953,175501,561,629,629,890,100.0,False,positional,Antonie Vollon,,,,
 BO0624_87953,175502,562,630,Desgl. Wappen.,893,85.7,False,positional,Antonie Vollon,,,,
 BO0624_87953,175503,563,631,Fahne. Seide gestickt. Gesangverein Pfungstadt. Hessen.,894,96.2,False,positional,Antonie Vollon,,,,
@@ -582,8 +582,8 @@ BO0624_87953,175520,580,651,Silb. Chatelaine. Althollandisch.,922,93.8,False,pos
 BO0624_87953,175521,581,652,Sechs silb. Loffel mit Hundestiel.,923,94.1,False,positional,Antonie Vollon,,,,
 BO0624_87953,175522,582,653,Zehn desgl. Messer dsgl.,924,91.7,False,positional,Antonie Vollon,,,,
 BO0624_87953,175523,583,654,Kanne. Alt Meissen.,925,89.5,False,positional,Antonie Vollon,Scuola di Meissen,,,
-BO0624_87953,175524,584,655,Spindler's Taschenbuch 1838. und vielen andern Stichen.,926,96.4,False,positional,Antonie Vollon,,STAMPE E INCISIONI,,
-BO0624_87953,175525,585,656,Ebenso 1839.,927,84.6,False,positional,Antonie Vollon,,,,
+BO0624_87953,175524,584,655,Spindler's Taschenbuch 1838. und vielen andern Stichen.,926,96.4,False,positional,Antonie Vollon,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_87953,175525,585,656,Ebenso 1839.,927,84.6,False,positional,Antonie Vollon,,,,Sec. XIX
 BO0624_87953,175526,586,657,Kanne. Strassburg mit Blumen.,928,93.1,False,positional,Antonie Vollon,,,,
 BO0624_87953,175527,587,658,Teekanne. Blau gerieft. Kopenhagen.,929,94.1,False,positional,Antonie Vollon,,,,
 BO0624_87953,175528,588,659,- Desgl.,931,100.0,False,positional,Antonie Vollon,,,,

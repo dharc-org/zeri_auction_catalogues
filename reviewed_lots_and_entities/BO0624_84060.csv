@@ -54,7 +54,7 @@ BO0624_84060,693893,52,59,"— Interieur en Campine, a Genck.",485,94.9,False,po
 BO0624_84060,693894,53,6,o -- Femme a Douarnenez.Marguerite Moreau.,491,98.7,False,positional,MOREAU ADRIAN,,TABLEAUX,,
 BO0624_84060,693895,54,61,"-Dans les rochers, a Douarnenez.",497,95.1,False,positional,,,TABLEAUX,,
 BO0624_84060,693896,55,208,00,505,100.0,False,positional,,,TABLEAUX,,
-BO0624_84060,693897,56,520,1250,509,100.0,False,positional,,,TABLEAUX,,
+BO0624_84060,693897,56,520,1250,509,100.0,False,positional,,,TABLEAUX,,Sec. XIII
 BO0624_84060,693898,57,13600,## 62— Bretonne au cierge.,514,100.0,False,positional,,,TABLEAUX,,
 BO0624_84060,693899,58,63,Breton au cierge.,524,91.4,False,positional,,,TABLEAUX,,
 BO0624_84060,693900,59,I,"l est vu jusqu'a mi-corps, de trois quarts a gauche, en costume bleu, tenant un cierge de la main droite et laissant tomber son bras gauche naturellement.Il a de longs cheveux qui descendent devant ses épaules. Sa figure se detache sur un fond neutre.",528,99.8,False,positional,,,TABLEAUX,,
@@ -81,7 +81,7 @@ BO0624_84060,693920,79,85,-- En priere.,668,85.7,False,positional,,,TABLEAUX,,
 BO0624_84060,693921,80,86,—La Ferme. Courrieres.,676,92.7,False,positional,,,TABLEAUX,,
 BO0624_84060,693922,81,87,Fillette tirant un chariot.,682,94.5,False,positional,,,TABLEAUX,,
 BO0624_84060,693923,82,88,—Paysanne.,688,84.2,False,positional,,,TABLEAUX,,
-BO0624_84060,693924,83,600,"| 90 —- Le Chemin allant a Courrieres. Signe a gauche, en bas, et date : 1854. Carton.Haut.,24 cent.;larg.,33 cent.   |",706,98.0,False,positional,,,TABLEAUX,,
+BO0624_84060,693924,83,600,"| 90 —- Le Chemin allant a Courrieres. Signe a gauche, en bas, et date : 1854. Carton.Haut.,24 cent.;larg.,33 cent.   |",706,98.0,False,positional,,,TABLEAUX,,Sec. XIX
 BO0624_84060,693925,84,260,"| 91 ——Landes bretonnes. Signe a droite, en bas. Toile.Haut.,3o cent.;larg.,38 cent.                                  |",708,97.3,False,positional,,,TABLEAUX,,
 BO0624_84060,693926,85,230,"| 92 —- Soir de printemps sur le village. Cour- rieres. Signe a gauche, en bas.                                       |",709,97.2,False,positional,,,TABLEAUX,,
 BO0624_84060,693927,86,250,"| 93—La Lecture de la Bible. Signe a droite, en bas. Toile.Haut.,34 cent.;larg.,26 cent                               |",710,97.5,False,positional,,,TABLEAUX,,
@@ -113,7 +113,7 @@ BO0624_84060,693952,111,120,—Les Petits paysans.,899,90.0,False,positional,,,T
 BO0624_84060,693953,112,121,- Paysan du Pas-de-Calais.,905,92.0,False,positional,,,TABLEAUX,,
 BO0624_84060,693954,113,122,—Le Garde champetre pendant la moisson.,911,94.9,False,positional,,,TABLEAUX,,
 BO0624_84060,693955,114,260,00,935,100.0,False,positional,,,TABLEAUX,,
-BO0624_84060,693956,115,127,"—Le Bouquet d'arbres. 20 Signe a droite, en bas : Courrieres, 1859.",957,96.8,False,positional,,,TABLEAUX,,
+BO0624_84060,693956,115,127,"—Le Bouquet d'arbres. 20 Signe a droite, en bas : Courrieres, 1859.",957,96.8,False,positional,,,TABLEAUX,,Sec. XIX
 BO0624_84060,693957,116,128,—Les Coteaux. 08,963,87.5,False,positional,,,TABLEAUX,,
 BO0624_84060,693958,117,330,"129 — La Procession, a la Bourboule.",964,94.1,False,positional,,,TABLEAUX,,
 BO0624_84060,693959,118,360,265,982,100.0,False,positional,,,TABLEAUX,,
@@ -131,7 +131,7 @@ BO0624_84060,693970,129,141,"— Marine, a Douarnenez.",1052,90.5,False,position
 BO0624_84060,693971,130,142,"-Une Plage, a Douarnenez.",1058,91.7,False,positional,,,TABLEAUX,,
 BO0624_84060,693972,131,143,"-Le Jardin de Jules Breton en ete, a Courrieres.",1064,95.7,False,positional,DU JARDIN KAREL,,TABLEAUX,,
 BO0624_84060,693973,132,144,"-La Souchez, avant d'etre le canal de",1071,94.6,False,positional,CANALE ANTONIO,,TABLEAUX,,
-BO0624_84060,693974,133,220,1100,1084,100.0,False,positional,,,TABLEAUX,,
+BO0624_84060,693974,133,220,1100,1084,100.0,False,positional,,,TABLEAUX,,Sec. XII
 BO0624_84060,693975,134,300,<!-- image -->,1088,100.0,False,positional,,,TABLEAUX,,
 BO0624_84060,693976,135,146,"— Coisic Jouinou, sur la plage du Riz.",1098,94.4,False,positional,Jules Hereau,,,,
 BO0624_84060,693977,136,147,La Ravaudeuse.,1104,86.7,False,positional,Jules Hereau,,,,
@@ -179,7 +179,7 @@ BO0624_84060,694018,177,195,- Le Chemin en hiver. Courrieres.,1524,93.5,False,po
 BO0624_84060,694019,178,197,"— Sous les pins, en Bretagne.",1536,92.6,False,positional,Jeanne Calvet,,,,
 BO0624_84060,694020,179,198,"- Le Meunier, son fils et lane.",1542,93.1,False,positional,Jeanne Calvet,,,,
 BO0624_84060,694021,180,199,"Le Garde champetre. k30 Recherche pour la Benediction des bles, du Musee du Luxembourg. Signe a gauche, en bas.",1548,98.1,False,positional,Jeanne Calvet,,,,
-BO0624_84060,694022,181,206,- Les Amies. 1060,1578,87.5,False,positional,J. Breton,,,,
+BO0624_84060,694022,181,206,- Les Amies. 1060,1578,87.5,False,positional,J. Breton,,,,Sec. XI
 BO0624_84060,694023,182,203,-Theodore de Banville dans la foret de Fontainebleau.,1588,96.2,False,positional,J. Breton,,,,
 BO0624_84060,694024,183,204,— La Plaine de Courrieres.,1594,92.0,False,positional,J. Breton,,,,
 BO0624_84060,694025,184,205,"Bretonne, a Douarnenez.",1600,91.3,False,positional,J. Breton,,,,
@@ -189,7 +189,7 @@ BO0624_84060,694028,187,211,-La Bineuse. 320,1640,87.5,False,positional,J. Breto
 BO0624_84060,694029,188,212,-Le Gouter.,1641,81.8,False,positional,J. Breton,,,,
 BO0624_84060,694030,189,213,"Etude pour 《le Cri d'alarme 》 Signe a gauche, en bas, et date : 2. 7. 98. Panneau.Haut.,35 cent.; larg, 27 cent.",1642,98.0,False,positional,J. Breton,,PANNELLI,,
 BO0624_84060,694031,190,214,"— Bretonnes sur la plage de Trezmalouen. Signe a gauche, en bas.",1643,96.7,False,positional,J. Breton,,,,
-BO0624_84060,694032,191,215,"—Les Foins. Signe a droite, en bas : Courrieres, 1859.",1651,95.9,False,positional,J. Breton,,,,
+BO0624_84060,694032,191,215,"—Les Foins. Signe a droite, en bas : Courrieres, 1859.",1651,95.9,False,positional,J. Breton,,,,Sec. XIX
 BO0624_84060,694033,192,2200,<!-- image -->,1657,100.0,False,positional,J. Breton,,,,
 BO0624_84060,694034,193,1350,## 216-,1674,100.0,False,positional,J. Breton,,,,
 BO0624_84060,694035,194,2350,## 218-Quai d'Antibes.,1693,100.0,False,positional,J. Breton,,,,

@@ -1,53 +1,53 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88377,167790,1,17,Jahrhundert.,17,88.0,False,positional,J. BASSELIERS,Scuola Fiorentina,,,
-BO0624_88377,167791,2,1601,1675.,23,61.5,False,positional,JAN BRUEGHEL d. J.,,,,
-BO0624_88377,167792,3,1606,1681.,29,61.5,False,positional,CORNELIS SAFTLEVEN,,,,
-BO0624_88377,167793,4,1629,1699.,39,61.5,False,positional,JAN HACKAERT,,,,
+BO0624_88377,167791,2,1601,1675.,23,61.5,False,positional,JAN BRUEGHEL d. J.,,,,Sec. XVII
+BO0624_88377,167792,3,1606,1681.,29,61.5,False,positional,CORNELIS SAFTLEVEN,,,,Sec. XVII
+BO0624_88377,167793,4,1629,1699.,39,61.5,False,positional,JAN HACKAERT,,,,Sec. XVII
 BO0624_88377,167794,5,8,"Maler vor der Staffelei, nach einem weiblichen Modell malend. Leinwand. H.35 cm,Br.27 cm.G.-R.",52,78.7,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_88377,167795,6,9,"GroBe Landschaft mit Blick auf eine niederlandische Stadt. Im Vordergrunde Baumweg. Leinwand. H.103 cm, B.140 cm.Br.R.",57,99.1,False,positional,M. HOBBEMA,,,,
 BO0624_88377,167796,7,10,"Zyklus von elf Kopfen. Bartige Greise. Holz. GroBe jedes Bildes: H. 25 cm, Br. 18 cm. G.-L.",61,98.2,False,positional,C.W.E.DIETRICH,,OGGETTI IN LEGNO,,
-BO0624_88377,167797,8,1621,1649.,65,61.5,False,positional,JZAAK VAN OSTADE,,,,
-BO0624_88377,167798,9,1750,1825.,71,61.5,False,positional,J. METTENLEITER,,,,
+BO0624_88377,167797,8,1621,1649.,65,61.5,False,positional,JZAAK VAN OSTADE,,,,Sec. XVII
+BO0624_88377,167798,9,1750,1825.,71,61.5,False,positional,J. METTENLEITER,,,,Sec. XIX
 BO0624_88377,167799,10,16,Jahrhundert.,78,88.0,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_88377,167800,11,1631,1685.,84,61.5,False,positional,JOH.HEINRICH ROOS,,,,
-BO0624_88377,167801,12,1639,1684.,92,61.5,False,positional,CASP.NETSCHER,,,,
+BO0624_88377,167800,11,1631,1685.,84,61.5,False,positional,JOH.HEINRICH ROOS,,,,Sec. XVII
+BO0624_88377,167801,12,1639,1684.,92,61.5,False,positional,CASP.NETSCHER,,,,Sec. XVII
 BO0624_88377,167802,13,15,"Junge Dame, im Vordergrund einer Parklandschaft sitzend und einen Blumenkranz haltend. Holz, auf dem Postament einer Statue monogrammiert. H. 34 cm, Br. 27 cm. G.R.",94,99.0,False,positional,CASP.NETSCHER,,OGGETTI IN LEGNO,,
 BO0624_88377,167803,14,16,"FluBlandschaft. Am bewaldeten Ufer rechts Bauernhof, von einer Mauer umgeben. Links vorn Fischer auf Kahnen.",98,98.6,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_88377,167804,15,17,"Jahrhundert. Kopf eines jungen Madchens mit Band und Kamm im braunen Haar. Oval. Leinwand.H.43 cm,Br.33 cm.G.-R.",105,93.7,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_88377,167805,16,18,"Christus, von Engeln umgeben, erscheint einer Nonne. Leinwand.H.52 cm,Br.41 cm.S.R.",111,98.1,False,positional,,DEUTSCHER MEISTER,,,
 BO0624_88377,167806,17,19,"Das heilige Paar mit dem neugeborenen Kind im Stalle. Links die anbetenden Hirten. Leinwand.H.55cm,Br.44 cm.G.-R.",112,98.6,False,positional,,DEUTSCHER MEISTER,,,
 BO0624_88377,167807,18,20,"u.20a. Zwei Schlachtenszenen. Gegenstuicke. Leinwand.H.34 cm,Br.50 cm.G.-R. Jahrhundert.",116,90.3,False,positional,J.COURTOIS,,,,
-BO0624_88377,167808,19,21,"Huftbild einer jungen Schaferin mit Hirtenstab, Blumen und Fruchten. 1652.",122,94.3,False,positional,J.COURTOIS,,,,
+BO0624_88377,167808,19,21,"Huftbild einer jungen Schaferin mit Hirtenstab, Blumen und Fruchten. 1652.",122,94.3,False,positional,J.COURTOIS,,,,Sec. XVII
 BO0624_88377,167809,20,22,Landschaft mit altem SchloBgebaude. Bauernwagen als Staffage.,129,97.5,False,positional,A.J.BOTH,,,,
 BO0624_88377,167810,21,2,"Holz.H. 41 cm, Br. 70 cm. S.R.",130,96.2,False,positional,A.J.BOTH,,OGGETTI IN LEGNO,,
-BO0624_88377,167811,22,1620,"1674,",134,61.5,False,positional,A.VAN BEYEREN,,,,
+BO0624_88377,167811,22,1620,"1674,",134,61.5,False,positional,A.VAN BEYEREN,,,,Sec. XVII
 BO0624_88377,167812,23,23,"Stilleben. Eine Schissel mit Austern, Hummer, Krabben, verschiedenen Fischen usw.",136,98.1,False,positional,A.VAN BEYEREN,,,,
 BO0624_88377,167813,24,2,Reich komponiertes Stick.,137,96.0,False,positional,A.VAN BEYEREN,,,,
-BO0624_88377,167814,25,1781,1858.,143,61.5,False,positional,K.J.STIELER,,,,
+BO0624_88377,167814,25,1781,1858.,143,61.5,False,positional,K.J.STIELER,,,,Sec. XIX
 BO0624_88377,167815,26,24,Halbfigur einer jungen Frau in ausgeschnittener blauer Taille und rotem Uberwurf.,145,98.2,False,positional,K.J.STIELER,,,,
 BO0624_88377,167816,27,2,"Leinwand. H.69 cm, Br.51 cm. G.-L.",146,96.7,False,positional,K.J.STIELER,,,,
 BO0624_88377,167817,28,17,Jahrhundert.,150,88.0,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_88377,167818,29,25,Landschaft mit felsigem Abhang. Im Vordergrunde Hirten mit ihrem Vieh.,152,97.8,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_88377,167819,30,2,"Holz,bezeichnet: C.L.u. B.P.H.39 cm, Br.53 cm.G.R.",153,97.9,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88377,167820,31,1640,1681.,157,61.5,False,positional,JACOB SALOMONZ VAN RUISDAEL,,,,
+BO0624_88377,167820,31,1640,1681.,157,61.5,False,positional,JACOB SALOMONZ VAN RUISDAEL,,,,Sec. XVII
 BO0624_88377,167821,32,26,"Waldlandschaft mit Lichtung. Hirt und Herde als Staffage. Holz.H.32 cm, Br.43 cm.S R",159,79.1,False,positional,JACOB SALOMONZ VAN RUISDAEL,,OGGETTI IN LEGNO,,
 BO0624_88377,167822,33,27,"Die Anbetung der Hirten im Stalle. Gruppe von sechs Personen. Holz.H.79 cm,Br.65 cm.G.-R.",163,98.3,False,positional,MAERTEN DE VOS d. AIt.,,OGGETTI IN LEGNO,,
 BO0624_88377,167823,34,28,"Blick auf die Elbe, Konigstein und Lilienstein. Gouache, signiert.H.60 cm, Br.82 cm.Gerahmt.",169,66.7,False,positional,C.G.HAMMER,,,,
 BO0624_88377,167824,35,29,Blick auf den Lilienstein mit der Elbe im Vordergrunde. Ebenso. Gegenstick zu vorhergehendem Bilde.,171,70.6,False,positional,C.G.HAMMER,,,,
 BO0624_88377,167825,36,30,"Das Martyrium der heil. Appolonia. Leinwand.H.147cm,Br.102 cm.G.-R.",176,97.7,False,positional,P.P.RUBENS,,,,
-BO0624_88377,167826,37,31,"Christus, bei den Jungern von Emmaus, bricht das Brot. Leinwand. H.90 cm, Br.117 cm.S.R. 1642.",180,95.3,False,positional,G.V.HONTHORST,,,,
+BO0624_88377,167826,37,31,"Christus, bei den Jungern von Emmaus, bricht das Brot. Leinwand. H.90 cm, Br.117 cm.S.R. 1642.",180,95.3,False,positional,G.V.HONTHORST,,,,Sec. XVII
 BO0624_88377,167827,38,32,"Christus am Kreuz zwischen den beiden Schachern. Am Kreuzesstamm Maria, Magdalena und St. Johannes.",186,89.3,False,positional,FRANS FRANCKEN,,,,
 BO0624_88377,167828,39,33,"Der barmherzige Samariter, welcher den Verwundeten auf sein Pferd genommen hat, zahlt dem Wirt die Zeche.",193,98.6,False,positional,JAN VICTORS,,,,
 BO0624_88377,167829,40,34,"Kopf cines Orientalen,halb vom Rucken gesehen. Leinwand.H.41 cm,Br.33 cm.S.R.",199,98.0,False,positional,CARLO MARATTI,,,,
-BO0624_88377,167830,41,1685,1749.,203,61.5,False,positional,BALTHASAR DENNER,,,,
-BO0624_88377,167831,42,1601,1675.,211,61.5,False,positional,JAN BRUEGHEL d.J.,,,,
-BO0624_88377,167832,43,1638,1698.,220,61.5,False,positional,GERRIT A.BERCKHEYDE,,,,
-BO0624_88377,167833,44,1609,1685.,228,61.5,False,positional,HERMAN SAFTLEVEN,,,,
-BO0624_88377,167834,45,1586,1667.,237,61.5,False,positional,CORNELIS VAN POELENBURGH,,,,
+BO0624_88377,167830,41,1685,1749.,203,61.5,False,positional,BALTHASAR DENNER,,,,Sec. XVIII
+BO0624_88377,167831,42,1601,1675.,211,61.5,False,positional,JAN BRUEGHEL d.J.,,,,Sec. XVII
+BO0624_88377,167832,43,1638,1698.,220,61.5,False,positional,GERRIT A.BERCKHEYDE,,,,Sec. XVII
+BO0624_88377,167833,44,1609,1685.,228,61.5,False,positional,HERMAN SAFTLEVEN,,,,Sec. XVII
+BO0624_88377,167834,45,1586,1667.,237,61.5,False,positional,CORNELIS VAN POELENBURGH,,,,Sec. XVII
 BO0624_88377,167835,46,40,"Ceres, Bacchus und Venus, mit Amoretten in einer Felsenlandschaft.",240,97.7,False,positional,CORNELIS VAN POELENBURGH,,,,
-BO0624_88377,167836,47,1622,"1700,",246,61.5,False,positional,EMANUEL MURANT,Scuola Veneziana,,,
+BO0624_88377,167836,47,1622,"1700,",246,61.5,False,positional,EMANUEL MURANT,Scuola Veneziana,,,Sec. XVIII
 BO0624_88377,167837,48,I,m Vordergrunde zerfallene Backsteinmauer mit Bogentir.,248,99.1,False,positional,EMANUEL MURANT,,,,
-BO0624_88377,167838,49,1611,1661.,259,61.5,False,positional,JAN FYT,,,,
+BO0624_88377,167838,49,1611,1661.,259,61.5,False,positional,JAN FYT,,,,Sec. XVII
 BO0624_88377,167839,50,42,"Jagdstilleben mit totem Hasen und Gefligel der verschiedensten Art. Leinwand. H.70 cm, Br.95 cm.G.-R.",261,80.0,False,positional,JAN FYT,,,,
 BO0624_88377,167840,51,43,"Desgleichen mit Eberkopf, toten Schnepfen, Krammetsvogeln usw. Gegenstick zu vorher- gehendem Bilde.",263,89.9,False,positional,JAN FYT,,,,
 BO0624_88377,167841,52,44,"Christus an eine Saule gefesselt, von Henkern gegeibelt. Links Pilatus auf einem Throne. Abb.Taf.8",272,98.4,False,positional,,DEUTSCHER MEISTER,,,
@@ -55,14 +55,14 @@ BO0624_88377,167842,53,45,"Das Schicksal. Gefluigelter Genius auf einem Rad, Gli
 BO0624_88377,167843,54,46,"St. Johannes der Taufer, dem versammelten Volke predigend.",284,97.3,False,positional,,NIEDERLANDISCHER MEISTER,,,
 BO0624_88377,167844,55,47,"Blick auf eine Wassermihle. Kuhherde als Staffage. Sepia.H.28cm,Br.34 cm.Gerahmt.",293,98.1,False,positional,A.DE VISJER,,,,
 BO0624_88377,167845,56,48,"Kopf einer jungen Frau mit gesenkten Blicken. Leinwand.H.32 cm,Br.25 cm.G.-R.",297,98.0,False,positional,R.MENGS,,,,
-BO0624_88377,167846,57,49,GroBe FluBlandschaft mit Hafenbollwerk im linken Vordergrunde. Rechts mehrere Boote 1752.,301,95.3,False,positional,J.VAN GOIJEN,,,,
+BO0624_88377,167846,57,49,GroBe FluBlandschaft mit Hafenbollwerk im linken Vordergrunde. Rechts mehrere Boote 1752.,301,95.3,False,positional,J.VAN GOIJEN,,,,Sec. XVIII
 BO0624_88377,167847,58,50,Schlacht vor den Wallen einer hochliegenden befestigten Stadt. Im Vordergrunde Reiterscharmitzel. Figurenreiche Darstellung. Jahrhundert.,309,94.2,False,positional,CHARLES PARROCEL,,,,
 BO0624_88377,167848,59,51,"Judith mit dem Haupte des Holofernes, aus einem Zelte tretend. Links die Dienerin der Judith, mit einem Lichte die Szene beleuchtend.",319,98.9,False,positional,,SPANISCHE SCHULE,,,
-BO0624_88377,167849,60,52,Felsige und bewaldete Landschaft. Im Vordergrunde Hirten bei ihrem Vieh. Rechts ein Schimmel. 1723.,323,95.7,False,positional,NICOLAAS BERCHEM,,,,
+BO0624_88377,167849,60,52,Felsige und bewaldete Landschaft. Im Vordergrunde Hirten bei ihrem Vieh. Rechts ein Schimmel. 1723.,323,95.7,False,positional,NICOLAAS BERCHEM,,,,Sec. XVIII
 BO0624_88377,167850,61,53,"Eine junge Frau in rosafarbener, gestreifter Taille halt ihr ganz unbekleidetes Kind im Arm. In der Art der Madonnen-Darstellungen.",331,98.8,False,positional,SIR GOD.KNELLER,,,,
-BO0624_88377,167851,62,54,"Griechische Landschaft mit Stadt und Tempeln. Im Vordergrund, von groBen Baumen beschattet, eine Fontane. Mehrere Personen als Staffage. Leinwand.H.97 cm,Br.137 cm.G.-R. 1839.",337,97.6,False,positional,J.A.KOCH,,,,
-BO0624_88377,167852,63,55,Das Martyrium des St. Markus. Figurenreiche Komposition mit architektonischem Hintergrund. Original in Venedig. 1652.,345,96.4,False,positional,PAOLO VERONESE,,,,
-BO0624_88377,167853,64,56,"Wachtstube. Kartenspieler an einem Tische. Links vorn liegt ein Mann schlafend auf einer Bank. Holz.H.40 cm,Br.59 cm.G.R. 1635.",352,96.7,False,positional,SYMON KICK,,OGGETTI IN LEGNO,,
+BO0624_88377,167851,62,54,"Griechische Landschaft mit Stadt und Tempeln. Im Vordergrund, von groBen Baumen beschattet, eine Fontane. Mehrere Personen als Staffage. Leinwand.H.97 cm,Br.137 cm.G.-R. 1839.",337,97.6,False,positional,J.A.KOCH,,,,Sec. XIX
+BO0624_88377,167852,63,55,Das Martyrium des St. Markus. Figurenreiche Komposition mit architektonischem Hintergrund. Original in Venedig. 1652.,345,96.4,False,positional,PAOLO VERONESE,,,,Sec. XVII
+BO0624_88377,167853,64,56,"Wachtstube. Kartenspieler an einem Tische. Links vorn liegt ein Mann schlafend auf einer Bank. Holz.H.40 cm,Br.59 cm.G.R. 1635.",352,96.7,False,positional,SYMON KICK,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88377,167854,65,57,Allegorie auf die Liebe. Gotterpaare auf einem Wagen mit der Figur des Amor. Zahlreiche,358,98.3,False,positional,WILLEM NIEUWELANDT,,,,
 BO0624_88377,167855,66,58,Weiblicher Kopf mit geoffnetem Mund.,364,95.9,False,positional,JACOB JORDAENS,,,,
 BO0624_88377,167856,67,59,"Friedrich Wilhelm Ill. Konigin Luise von PreuBen. Brustbilder, halb en face. H.48 cm, Br.35 cm.G.-R.",370,85.7,False,positional,WILHELM BOTTNER,,,,
@@ -70,21 +70,21 @@ BO0624_88377,167857,68,60,Bildnis des GroBen Kurfirsten.,375,95.1,False,position
 BO0624_88377,167858,69,61,"Bildnis der Prinzessin Luise von Oranien, Kurfirstin von Brandenburg.",379,97.8,False,positional,J.SCHMIDT; PETER NASON,,,,
 BO0624_88377,167859,70,2,"H.148 cm,Br.116 cm.Geschnitzter Rokoko-G.R.",380,97.7,False,positional,J.SCHMIDT; PETER NASON,,,,
 BO0624_88377,167860,71,17,Jahrhundert.,384,88.0,False,positional,JACOBUS STORK,Scuola Fiorentina,,,
-BO0624_88377,167861,72,1633,1686.,399,61.5,False,positional,FREDERIK VAN MOUCHERON,,,,
-BO0624_88377,167862,73,1603,1677.,405,61.5,False,positional,AART VAN DER NEER,,,,
-BO0624_88377,167863,74,1645,1726.,409,61.5,False,positional,AART VAN DER NEER,,,,
-BO0624_88377,167864,75,1752,1805. Schule von I.H.Tischbein.,411,92.1,False,positional,AART VAN DER NEER,,,,
-BO0624_88377,167865,76,1650,1702.,414,61.5,False,positional,RICHARD BRAKENBURGH,,,,
-BO0624_88377,167866,77,1610,1685.,422,61.5,False,positional,ADRIAEN VAN OSTADE,,,,
-BO0624_88377,167867,78,1712,1774.,430,61.5,False,positional,CHR. WILH.ERNST DIETRICH,,,,
-BO0624_88377,167868,79,1630,1710. 1682.,446,66.7,False,positional,JACOB VAN RUISDAEL,,,,
-BO0624_88377,167869,80,1631,1668.,454,61.5,False,positional,ROELOF VAN VRIES,,,,
-BO0624_88377,167870,81,1472,1553.,460,61.5,False,positional,LUCAS CRANACH,,,,
-BO0624_88377,167871,82,1607,1692.,474,61.5,False,positional,EMANUELDE WITTE,,,,
-BO0624_88377,167872,83,1625,1654.,489,61.5,False,positional,PAULUS POTTER,,,,
-BO0624_88377,167873,84,1595,1674.,498,61.5,False,positional,LEONHARD BRAMER,,,,
-BO0624_88377,167874,85,1624,1693.,516,61.5,False,positional,WILLEM ROMEYN,,,,
-BO0624_88377,167875,86,1675,1757.,522,61.5,False,positional,ROSALBA CARRIERA,,,,
+BO0624_88377,167861,72,1633,1686.,399,61.5,False,positional,FREDERIK VAN MOUCHERON,,,,Sec. XVII
+BO0624_88377,167862,73,1603,1677.,405,61.5,False,positional,AART VAN DER NEER,,,,Sec. XVII
+BO0624_88377,167863,74,1645,1726.,409,61.5,False,positional,AART VAN DER NEER,,,,Sec. XVIII
+BO0624_88377,167864,75,1752,1805. Schule von I.H.Tischbein.,411,92.1,False,positional,AART VAN DER NEER,,,,Sec. XIX
+BO0624_88377,167865,76,1650,1702.,414,61.5,False,positional,RICHARD BRAKENBURGH,,,,Sec. XVIII
+BO0624_88377,167866,77,1610,1685.,422,61.5,False,positional,ADRIAEN VAN OSTADE,,,,Sec. XVII
+BO0624_88377,167867,78,1712,1774.,430,61.5,False,positional,CHR. WILH.ERNST DIETRICH,,,,Sec. XVIII
+BO0624_88377,167868,79,1630,1710. 1682.,446,66.7,False,positional,JACOB VAN RUISDAEL,,,,Sec. XVIII
+BO0624_88377,167869,80,1631,1668.,454,61.5,False,positional,ROELOF VAN VRIES,,,,Sec. XVII
+BO0624_88377,167870,81,1472,1553.,460,61.5,False,positional,LUCAS CRANACH,,,,Sec. XVI
+BO0624_88377,167871,82,1607,1692.,474,61.5,False,positional,EMANUELDE WITTE,,,,Sec. XVII
+BO0624_88377,167872,83,1625,1654.,489,61.5,False,positional,PAULUS POTTER,,,,Sec. XVII
+BO0624_88377,167873,84,1595,1674.,498,61.5,False,positional,LEONHARD BRAMER,,,,Sec. XVII
+BO0624_88377,167874,85,1624,1693.,516,61.5,False,positional,WILLEM ROMEYN,,,,Sec. XVII
+BO0624_88377,167875,86,1675,1757.,522,61.5,False,positional,ROSALBA CARRIERA,,,,Sec. XVIII
 BO0624_88377,167876,87,79,u.79a. Die Portraits von Tiziano Vecellio und Paolo Veronese. Brustbilder.,524,97.9,False,positional,ROSALBA CARRIERA,,,,
 BO0624_88377,167877,88,80,u.80a. Zwei Winterlandschaften mit Gebauden und reicher Figurenstaffage.Gegensticke.,532,98.2,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_88377,167878,89,81,"Rindvieh, Schafe und Ziegen im Vordergrunde einer Landschaft. Leinwand.H.66 cm,Br.50 cm.G.-R.",537,78.1,False,positional,ROSA DI TIVOLI,,,,
@@ -95,7 +95,7 @@ BO0624_88377,167882,93,85,"Silhouette von Alt-Berlin, vom Kreuzberg aus gesehen.
 BO0624_88377,167883,94,86,"Darstellung zu den Werken der Barmherzigkeit. Ein Kranker,von seinen Freunden besucht. Mit der Inschrift: ,Ihr habt mich besucht."" Leinwand.H.70cm,Br.84 cm.S.R.",562,99.0,False,positional,,DEUTSCHE SCHULE,,,
 BO0624_88377,167884,95,87,Felsige Landschaft mit Stadtchen an einem Flub.,566,96.8,False,positional,HERRI DE BLES,,,,
 BO0624_88377,167885,96,2,"Holz.H.28 cm,Br.41 cm.G.-R.",567,96.2,False,positional,HERRI DE BLES,,OGGETTI IN LEGNO,,
-BO0624_88377,167886,97,1610,1668.,571,61.5,False,positional,JAN MIENSE MOLENAER,,,,
+BO0624_88377,167886,97,1610,1668.,571,61.5,False,positional,JAN MIENSE MOLENAER,,,,Sec. XVII
 BO0624_88377,167887,98,88,"Sitzender junger Mann mit Hut,ein Saiteninstrument spielend. Kniestick. Holz.H.35 cm,Br.28cm.S.R.",573,83.1,False,positional,JAN MIENSE MOLENAER,,OGGETTI IN LEGNO,,
 BO0624_88377,167888,99,89,"Halbfigur eines Mannes mit Hut, eine Pfeife haltend. Leinwand auf Holz.H.10 cm,Br.7 cm.G.R.",578,70.9,False,positional,FRANS HALS,,OGGETTI IN LEGNO,,
 BO0624_88377,167889,100,90,Brustbild eines Mannes mit Henri quatre und Mihlsteinkragen.,583,97.5,False,positional,A.VAN DYCK,,,,
@@ -113,7 +113,7 @@ BO0624_88377,167900,111,97,"Die drei heiligen Frauen am Grabe Christi. Leinwand.
 BO0624_88377,167901,112,2,"98.Die Himmelfahrt Christi. Leinwand.H.100 cm, Br.83 cm.G.-R.",617,98.3,False,positional,,ITALIENISCHE SCHULE,,,
 BO0624_88377,167902,113,3,den Hinterbeinen sitzend.,618,96.0,False,positional,,ITALIENISCHE SCHULE,,,
 BO0624_88377,167903,114,100,"Landschaft mit Gebauden. Im Vordergrunde geleiten Engel die heil. Familie auf der Flucht. Holz. H.46 cm, Br. 56 cm.S.R.",624,98.2,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88377,167904,115,101,"Der heil. Hieronymus, in der Einode sich vor dem Kruzifix kasteiend. Kupfer. H.20 cm, Br.16 cm. G.-R. 1759.",628,95.4,False,positional,JANUARIUS ZICK,,OGGETTI IN RAME,,
+BO0624_88377,167904,115,101,"Der heil. Hieronymus, in der Einode sich vor dem Kruzifix kasteiend. Kupfer. H.20 cm, Br.16 cm. G.-R. 1759.",628,95.4,False,positional,JANUARIUS ZICK,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88377,167905,116,102,"Ein Bauer laBt sich beim Bader am FuBe operieren. Im Hintergrunde mehrere Personen. Leinwand. H.56 cm,Br.47 cm. S.R.",634,82.7,False,positional,J.J.HOREMANS,,,,
 BO0624_88377,167906,117,103,Pygmalion umarmt die von ihm selbst geschaffene Statue. Rechts eine Alte mit Licht.,640,97.6,False,positional,G.SCHLACKEN,,,,
 BO0624_88377,167907,118,104,"Blick auf einen Palast mit Saulen-Architektur.Reich staffiert. Kupfer. H. 12 cm,Br. 17 cm. G-R.",646,79.2,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN RAME,,
@@ -156,16 +156,16 @@ BO0624_88377,167943,154,I,"m Deckel Elfenbeinminiatur, Halbfigur einer jungen Fr
 BO0624_88377,167944,155,150,"WEINKARAFFE.Diskusform,mit engem Hals,Zinndeckel und FuB; sternformiger Schliff.",726,97.5,False,positional,HALS DIRK,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167945,156,151,"ALTER GLASPOKAL mit Deckel, facettierter BalusterfuB mit konischer Kuppa und ge-",728,97.5,False,positional,,,OGGETTI VARI,,
 BO0624_88377,167946,157,152,"DESGLEICHEN.ohne Deckel, facettierter GlockenfuB mit doppeltem Nodus. Auf der Kuppa geschliffen: St. Petrus iber dem Mainzer Wappen u. Inschrift: Das hochwirdige Domkapitel. Lippenrand vergoldet. 18.Jahrh.H.22 cm.",730,99.0,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,167947,158,153,"GROSSER DECKELPOKAL, facettiertes Kristallglas. Breite FuBplatte, kurzer Stander mit Nodus, gefacherte Kuppa mit geschliffenem Wappen. Hoher, gewolbter Deckel mit Knopf. Um 1700.H.31cm.",731,98.9,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,167948,159,154,GROSSES TRINKGLAS von konischer Form mit Mattschliffranken und drei Medaillons mit Amorszenen. Um 1700.H.15cm.,732,98.2,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
+BO0624_88377,167947,158,153,"GROSSER DECKELPOKAL, facettiertes Kristallglas. Breite FuBplatte, kurzer Stander mit Nodus, gefacherte Kuppa mit geschliffenem Wappen. Hoher, gewolbter Deckel mit Knopf. Um 1700.H.31cm.",731,98.9,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVIII
+BO0624_88377,167948,159,154,GROSSES TRINKGLAS von konischer Form mit Mattschliffranken und drei Medaillons mit Amorszenen. Um 1700.H.15cm.,732,98.2,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVIII
 BO0624_88377,167949,160,155,"HENKELGLAS MIT DECKEL. Am FuB Quaderverzierungen, auf der Kuppa drei Medaillons",733,97.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167950,161,156,"TRINKGLAS,zylindrisch, mit Mattschliff: in ovalen Medaillons die zwolf Apostel. 18.Jahrh.11,5 cm.",735,97.9,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167951,162,157,"DESGLEICHEN,konisch,Mattschliff.In drei Kartuschen die Brustbilder des Kaisers Leopold I., der Kaiserin und dem Doppeladler. Dazwischen in Kreisflachen verschlungene Monogramme.",736,98.9,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167952,163,158,HOHES BECHERGLAS auf FuB (durch Holzplatte erganzt). Auf der Kuppa ein Fries von,738,97.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,167953,164,159,"GROSSE HOLZFIGUR DES HEILIGEN SEBASTIAN am Marterpfahle, bekleidet mit einem Tuch um die Lenden. Die im Korper steckenden Pfeile aus Bronze.Alte Bemalung. Oberbayern, Ende 16. Jahrh. H. 155 cm.",740,98.9,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
+BO0624_88377,167953,164,159,"GROSSE HOLZFIGUR DES HEILIGEN SEBASTIAN am Marterpfahle, bekleidet mit einem Tuch um die Lenden. Die im Korper steckenden Pfeile aus Bronze.Alte Bemalung. Oberbayern, Ende 16. Jahrh. H. 155 cm.",740,98.9,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVI
 BO0624_88377,167954,165,160,"KLEINE HOLZFIGUR, Christus, stehend,Fragment.AIte Bemalung. Ende 16.Jahrh.Gr.51 cm.",741,97.5,False,positional,,,OGGETTI VARI,,
 BO0624_88377,167955,166,161,"FRAGMENT EINER ALTEN SCHWEIZER GLASSCHEIBE,Familienwappen mit Spangenhelm und reicher Helmdecke. Mit neuen Teilen erganzt und beschadigt. Gr.49×78cm.",742,98.6,False,positional,,,OGGETTI VARI,,
-BO0624_88377,167956,167,162,"BECHERGLAS, mit Emailfarben im Stil des 17. Jahrhunderts bemalt. Weberwappen mit",743,97.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
+BO0624_88377,167956,167,162,"BECHERGLAS, mit Emailfarben im Stil des 17. Jahrhunderts bemalt. Weberwappen mit",743,97.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVII
 BO0624_88377,167957,168,163,"65. DREI DESGLEICHEN, mit Wappen der Familien von Thamm, v. Baudissin und ein kleines (Potocki).",745,97.8,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167958,169,166,"BIEDERMEIER-ECKSCHRANK aus gelbpoliertem Obstholz. Unterteil gebogt, zweitirig,",746,97.4,False,positional,,Biedermeier,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167959,170,167,HOHE BIEDERMEIERSTANDUHR aus geflammtem Birkenholz.,748,96.2,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
@@ -188,8 +188,8 @@ BO0624_88377,167975,186,180,"ALTE,HOHE NUSSHOLZKOMMODE,geschweifte Front mit vie
 BO0624_88377,167976,187,181,"BAROCKSCHRANKCHEN auf gedrehten Stollenfuiben. Aufsatz dreiteilig, NuBholz poliert, mit Bandintarsien eingelegt. Jahrh.H.175cm,Br.110 cm,T.48cm.Unterteil erganzt.",773,80.3,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167977,188,182,"NUSSHOLZBANK mit durchbrochener, geschnitzter Ricklehne. Sitz gepolstert und mit ge- mustertem Velours bezogen. Englisch. Ende 18.Jahrh.Lg.175 cm.",777,72.0,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167978,189,183,"GROSSER DANZIGER EICHENHOLZSCHRANK,zweiturig,mit gebuckelten, reich verkropften Fuillungen. Unten zwei Schubkasten,im Gesims groBe, geschnitzte Kartusche. (Nach-",779,98.7,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,167979,190,184,"GROSSER ALTER MAHAGONISCHRANK, zweitirig, unten Zwei Schubkasten. An den Seiten und auf der Schlagleiste Pilaster mit geschnitzten Kapitalen. Zierlich profiliertes Ge- sims mit durchbrochenem Gitteraufsatz, Um 1800.H.245cm,Br.195cm,T.75 cm.",784,81.2,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,167980,191,185,"SATZ VON DREI POTSDAMER FAYENCE-VASEN,zwei flaschenformige u. eine bauchige, mit Deckel. Gerippt, farbig bemalt mit dem charakteristischen Dekor von Piauen und Blumenstauden in japanischer Art. Potsdam, um 1700. H.33 cm bzw.44 cm. (Eine mit Marken, am FuB fehlt ein Stick, die Deckelvase gekittet)",786,99.3,False,positional,,,VASI,,
+BO0624_88377,167979,190,184,"GROSSER ALTER MAHAGONISCHRANK, zweitirig, unten Zwei Schubkasten. An den Seiten und auf der Schlagleiste Pilaster mit geschnitzten Kapitalen. Zierlich profiliertes Ge- sims mit durchbrochenem Gitteraufsatz, Um 1800.H.245cm,Br.195cm,T.75 cm.",784,81.2,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XIX
+BO0624_88377,167980,191,185,"SATZ VON DREI POTSDAMER FAYENCE-VASEN,zwei flaschenformige u. eine bauchige, mit Deckel. Gerippt, farbig bemalt mit dem charakteristischen Dekor von Piauen und Blumenstauden in japanischer Art. Potsdam, um 1700. H.33 cm bzw.44 cm. (Eine mit Marken, am FuB fehlt ein Stick, die Deckelvase gekittet)",786,99.3,False,positional,,,VASI,,Sec. XVIII
 BO0624_88377,167981,192,4,"186.ALTER KULA-GEBETTEPPICH,blaues Tempelfeld mit gelbgrundiger Umrahmung und",787,98.7,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167982,193,5,"charakteristischem Blattmuster mit zierlichen, weiBen Lisenen. Gr.145X190cm.",788,98.6,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167983,194,6,"187.EIN STUCK LOUISXVISEIDENDAMAST,hellblau,mit silberfarbigen, sich iberschneidenden Bandern und Ranken und groBen, farbigen BlumenstrauBen und Blumenkorben. Gr.62×158cm.",789,99.4,False,positional,STUCK FRANZ VON,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
@@ -209,7 +209,7 @@ BO0624_88377,167996,207,19,197.DESGL. in rechteckiger Form.,802,95.2,False,posit
 BO0624_88377,167997,208,198,"DESGL., kleiner, mit iber die Flache verstreuten Vogeln und Blumen. DESGL. mit altem Bezug, in der Mitte Strahlenglorie von Bluitenkranz umrahmt. DESGL. mit kleingemustertem, gruinen Velours de Gene und Silberborte.",804,53.0,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167998,209,201,"DESGL., rund, mit alter, durchbrochener Spitze auf lachsfarbener Seide.",806,97.1,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,167999,210,24,"202.DESGL. mit alter Seidenstickerei und Borten, balkenformig.",807,97.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168000,211,203,"EIN PAAR SALZGEFAsSE AUS BATTERSEA-EMAIL auf drei FuBchen; blau, mit aus- gesparten Landschaftskartuschen und Goldrocaillen. 18. Jahrh.",808,69.0,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
+BO0624_88377,168000,211,203,"EIN PAAR SALZGEFAsSE AUS BATTERSEA-EMAIL auf drei FuBchen; blau, mit aus- gesparten Landschaftskartuschen und Goldrocaillen. 18. Jahrh.",808,69.0,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVIII
 BO0624_88377,168001,212,204,EIN PAAR BRONZEKERZENLEUCHTER in Form eines auf einem Taburett sitzenden Puttos mit Hifthorn.Franzosisch.Dazugehorig zwei echte Spitzenschirmchen. H.33 cm.,810,98.7,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168002,213,205,"EMPIRE-KAMINUHR,rechteckiges Postament mit feinziseliertem Relief. An das Gehause gelehnt ein mit einem Buch eingeschlafenes, sitzendes Madchen. H.36cm.",811,98.7,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168003,214,206,"EIN PAAR EMPIRE-KANDELABER. WeiBe, kurze Marmorsaule auf viereckigem Marmor-",812,97.3,False,positional,,,CANDELABRI,,
@@ -221,13 +221,13 @@ BO0624_88377,168008,219,10,"Ricklehne. Gepolstert und mit grinem, gemustertem bz
 BO0624_88377,168009,220,211,"EMPIRE-BRONZEKRONE mit reichem Kristallbehang,zu acht Kerzen. Zwei durch Prismenbehange verbundene Reifen, deren oberer mit aufrechtstehendem Palmettenkranz besetzt ist, der groBere untere mit nebeneinanderstehenden Relieigruppen. Fontane mit Tritonen und Nymphen.—— Im Stil Schinkels.",818,99.3,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168010,221,12,"212.DESGL.,ebenso.",819,91.4,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168011,222,213,"TEIL EINES GOTISCHEN ALTARS, anbetende Kleriker, hoher und niederer Klerus (Pabst,",820,97.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168012,223,14,"Kardinal, Bischof, Domherr,Monche,Klosterfrauen,Heilige). Schone Gewander und Trachten, Hande und Kopfe individuell verschieden. FuBleiste und Baldachin mit durchbrochenem MaBwerk.Goldener Hintergrund. Lindenholz, Thuringen? Um 1510. H.90 cm,Br.75 cm,T.12 cm. Abb.Taf.17.",821,99.4,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168013,224,15,"214.HOLZFIGUR, SITZENDE MAGDALENA； in den zierlichen, gut durchgebildeten Handen tragt sie die Salbdose. Auf dem Haupt eine Krone. Das weiche Haar flieBt in zwei Strahnen auf den weitgeoffneten Mantel in Gold und Blau. Die Farben im 19. Jahrh. ibergearbeitet. Pappel.Oberbayrisch,um 1620.H.70 cm. Abb.Taf.20.",822,99.5,False,title_direct,,,OGGETTI IN ORO,,
-BO0624_88377,168014,225,215,"DESGL, SEGNENDER GOTTVATER,auf Wolken schwebend, in der Linken die Weltkugel mit dem Kreuz. Pappel. Oberbayrisch, um 1620. H.56 cm. Abb.Taf.19.",823,69.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
+BO0624_88377,168012,223,14,"Kardinal, Bischof, Domherr,Monche,Klosterfrauen,Heilige). Schone Gewander und Trachten, Hande und Kopfe individuell verschieden. FuBleiste und Baldachin mit durchbrochenem MaBwerk.Goldener Hintergrund. Lindenholz, Thuringen? Um 1510. H.90 cm,Br.75 cm,T.12 cm. Abb.Taf.17.",821,99.4,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVI
+BO0624_88377,168013,224,15,"214.HOLZFIGUR, SITZENDE MAGDALENA； in den zierlichen, gut durchgebildeten Handen tragt sie die Salbdose. Auf dem Haupt eine Krone. Das weiche Haar flieBt in zwei Strahnen auf den weitgeoffneten Mantel in Gold und Blau. Die Farben im 19. Jahrh. ibergearbeitet. Pappel.Oberbayrisch,um 1620.H.70 cm. Abb.Taf.20.",822,99.5,False,title_direct,,,OGGETTI IN ORO,,Sec. XIX
+BO0624_88377,168014,225,215,"DESGL, SEGNENDER GOTTVATER,auf Wolken schwebend, in der Linken die Weltkugel mit dem Kreuz. Pappel. Oberbayrisch, um 1620. H.56 cm. Abb.Taf.19.",823,69.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVII
 BO0624_88377,168015,226,216,"HOLZFIGUR DES HEILIGEN MICHAEL. Der schlanke Korper leicht nach links gebogen, Abb.Taf.17.",825,97.8,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168016,227,19,"in den Handen Schwert und Wage haltend, mit den FiBen auf dem Teufel stehend. Wirzburg? Um 1500.H.82cm.",826,98.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
+BO0624_88377,168016,227,19,"in den Handen Schwert und Wage haltend, mit den FiBen auf dem Teufel stehend. Wirzburg? Um 1500.H.82cm.",826,98.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVI
 BO0624_88377,168017,228,20,"217.DESGL,HEILIGER BISCHOF,stehend. Rote Schuhe, weiBes Untergewand mit grinem MeBgewand,goldener,rotgefitterter Mantel,goldene Mitra,in der linken Hand die Bibel,n Abb.Taf.20.",827,99.1,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168018,229,21,"der rechten den Bischofsstab. Eiche.Frankisch, um 1550. H.93 cim.",828,97.6,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
+BO0624_88377,168018,229,21,"der rechten den Bischofsstab. Eiche.Frankisch, um 1550. H.93 cim.",828,97.6,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVI
 BO0624_88377,168019,230,218,"GROSSER FLANDRISCHER WANDTEPPICH. Darstellung: SUSANNA IM BADE, von den drei Alten iberrascht. Parkhintergrund mit SchloB und Gartenbeeten. Blumenbordire. Abb.Taf.10",829,98.8,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168020,231,23,Mitte 17.Jahrh.Gr.315X378cm.,830,94.7,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168021,232,220,"BAROCK-SCHREIBSCHRANK,bestehend aus geschweifter Kommode mit zwei Schubkasten, Oberteil. Die Flachen mit Holz- und Beinintarsien verziert, Rankenwerk und Figuren. Reicher Bronzebeschlag. Aus dem ehem. Besitz des schlesischen Ministers von Hoym.",836,99.2,False,positional,,,OGGETTI IN LEGNO,,
@@ -238,9 +238,9 @@ BO0624_88377,168025,236,225,"BRONZESTATUETTE eines auf einem roten Marmorpostame
 BO0624_88377,168026,237,226,"WASCHESCHRANK aus poliertem, dunklem und hellem NuBholz mit Maserholz und Poly-",844,97.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168027,238,227,"KOMMODE, Eichenholz. Tief ausgebauchte Front mit drei Schubkasten und verziertem Bronzebeschlag.",846,97.9,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168028,239,288,"GROSSE FRANZOSISCHE BRONZE-KAMIN-UHR, feuervergoldet. Reich gegliederter Ro-",848,97.3,False,positional,,,CAMINI,,
-BO0624_88377,168029,240,229,"EICHENHOLZ-GARDEROBENSCHRANK,zweiturig, unten Zwei Schubkasten. Die Pilaster und die reich verkropften Fuillungen aus hellem Ahorn mit eingelegten Sternen. Um 1700. ae. LEHNSESSEL und 2 STUHLE Louis XVL.; Eichenholz geschnitzt, braun. Sitz und",850,80.4,False,positional,,,OGGETTI VARI,,
+BO0624_88377,168029,240,229,"EICHENHOLZ-GARDEROBENSCHRANK,zweiturig, unten Zwei Schubkasten. Die Pilaster und die reich verkropften Fuillungen aus hellem Ahorn mit eingelegten Sternen. Um 1700. ae. LEHNSESSEL und 2 STUHLE Louis XVL.; Eichenholz geschnitzt, braun. Sitz und",850,80.4,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_88377,168030,241,230,"ALTER PERSISCHER GEBETTEPPICH, weiBes Feld mit symmetrisch die Flache bedeckenden stilisierten Blumen.Rotgrundige Bordire.18.Jahrh.",853,98.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168031,242,231,"MITTELDEUTSCHER BAROCKSCHRANK,zweiturig,NuBholzmaser,mit geflammten hellen Intarsien:Rankenwerk und Linien. Reich verkropftes Gesims.Datiert 1710. H.225cm,Br.240 cm,T.90 cm,",854,98.8,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
+BO0624_88377,168031,242,231,"MITTELDEUTSCHER BAROCKSCHRANK,zweiturig,NuBholzmaser,mit geflammten hellen Intarsien:Rankenwerk und Linien. Reich verkropftes Gesims.Datiert 1710. H.225cm,Br.240 cm,T.90 cm,",854,98.8,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVIII
 BO0624_88377,168032,243,232,"GROSSER DANZIGER SCHRANK,zweitirig,NuBholz furniert, auf geschnitztem Unter-",855,97.4,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168033,244,2,"satz. Die Fillungen tief gekehlt und hoch gebuckelt und reich verkropft. Im vielfach profiliertem Gesims eine Kartusche mit allegorischen Figuren. 17.Jahrh.H.230 cm,Br.285 cm,T.(am Gesims) 95cm.",856,99.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168034,245,3,"233.EMPIRE-SALON, Mahagoni mit Bronzebeschlag, bestehend aus: Sofa, ovalem Tisch, sechs Stihlen, Spiegel mit Konsole, kleinem,rundem Tisch,Ofenschirm, hollandischem Windschiitzer.",857,99.4,False,positional,,,OGGETTI VARI,,
@@ -261,13 +261,13 @@ BO0624_88377,168048,259,243,"KLEINER LOUIS-XVI-WANDTISCH. (Konsole) mit Marmorpl
 BO0624_88377,168049,260,244,"GROSSER ALTER FERRACHAN-TEPPICH,dunkelblauer Fond mit symmetrisch die Flache bedeckendem Muster und olivgriner Bordure. Gr.400×515cm.",873,98.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168050,261,245,"SALONGARNITUR LOUIS XVI. Vergoldetes, holzgeschnitztes Gestell. Ricken und Sitz gepolstert und mit ALTEM FRANZOSISCHEN AUBUSSON-SEIDEN-GOBELIN bezogen: BlumenstrauBe mit blauen Schleifen und Girlanden.",874,99.0,False,positional,,,AUBUSSONS,,
 BO0624_88377,168051,262,246,"KLEINE HOLZFIGUR DES SEGNENDEN CHRISTUS, sehr gut durchgearbeiteter Korper mit den alten Stuck- und Farbspuren. Das Lendentuch rot und Gold, der weitgeoffnete Mantel Altgold und rot.",876,73.5,False,positional,STUCK FRANZ VON,,OGGETTI IN ORO,,
-BO0624_88377,168052,263,247,"HOLZFIGUR EINER ANBETENDEN MADONNA (aus einer Kreuzigungsgruppe), die Hande zum Gebet erhoben, das leicht seitwarts geneigte Haupt ist vom goldenen Manteltuch bedeckt. Mantelfutter blau, Gewand rot. Farbe und Mantelschrift im 19. Jahrh.renoviert. Lindenholz.Frankisch,um 1500.H.115 cm. Abb.Taf.17",879,99.3,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168053,264,248,"HOLZFIGUR,DER HEILIGE SEBASTIAN. An einen Baum geschnirt, der Mantel durch eine SchlieBe iber den Schultern gehalten, ein Zipfel uber den rechten Arm geschlagen, Oberkorper,Arme und Unterschenkel entbloBt. Die Farben groBtenteils alt. Edle, schone Figur der Saalfelder Schule. Um 1480. H.105 cm. Abb.Taf.18",880,99.3,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168054,265,249,"DESGL., MADONNA MIT KIND, welches nach einem Apfel in der rechten Hand der Mutter greift. Maria mit rotem Untergewand und goldenem Oberkleid,auf dem Haupte die Krone iber einem um die Schulter gelegten Schleier. Alte Fassung. Sehr schone Drapierung und edle Haltung. Lindenholz.Sid-Thuringen,um 1450. H.48 cm. Abb.Taf.20",882,99.4,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168055,266,250,"HOLZGRUPPE,HLG.ANNA SELBDRITT. Vortrefliche Gruppe, aus einem Block ge schnitzt. Alte Originalfassung, an einigen Stellen abgelaugt. Linde oder Pappel. Sud-Thuringen oder frankisch,um 1510. H.54 cm. Abb.Taf.19",884,99.0,False,positional,,,OGGETTI VARI,,
-BO0624_88377,168056,267,2,"251.HOLZFIGUR eines HEILIGEN BISCHOFS,bekleidet mit Bischofs-MeBgewand (rotes Untergewand, geblumte Alba mit Goldborte,goldener Mantel mit grunem Futter). Auf der linken Hand das Modell einer zweitirmigen Kirche,in der rechten den Bischofsstab. Pappel oder Linde. Saalfelder Schule,um 1500.H.110 cm. Abb.Taf.18",885,99.7,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168057,268,3,"252-53.ZWEI HOLZRELIEFFIGUREN,ST. JACOBUS und St. ANDREAS. Andreas mit dem Kreuz in der Linken, in der rechten Hand ein Evangeliar. Langer Mantel. Unterund Muschel, Mantel und Gewand, sonst ahnlich. Die Fassung alt und gut. Fohrenholz.Bayrisch, um 1350. Hohe 65 cm, Abb.Taf.19",886,99.6,False,positional,,Scuola Bavarese,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168058,269,254,"STATUETTE der MADONNA ALS HIMMELSKONIGIN, das Jesuskind haltend. Charakteristisches Werk der mitteldeutschen Gothik. Alte Fassung an den wichtigsten Teilen, einiges renoviert. Linde oder Pappel. Sid-Thiringen, um 1500. H.70 cm. Abb.Taf.18",887,99.1,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
+BO0624_88377,168052,263,247,"HOLZFIGUR EINER ANBETENDEN MADONNA (aus einer Kreuzigungsgruppe), die Hande zum Gebet erhoben, das leicht seitwarts geneigte Haupt ist vom goldenen Manteltuch bedeckt. Mantelfutter blau, Gewand rot. Farbe und Mantelschrift im 19. Jahrh.renoviert. Lindenholz.Frankisch,um 1500.H.115 cm. Abb.Taf.17",879,99.3,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XIX
+BO0624_88377,168053,264,248,"HOLZFIGUR,DER HEILIGE SEBASTIAN. An einen Baum geschnirt, der Mantel durch eine SchlieBe iber den Schultern gehalten, ein Zipfel uber den rechten Arm geschlagen, Oberkorper,Arme und Unterschenkel entbloBt. Die Farben groBtenteils alt. Edle, schone Figur der Saalfelder Schule. Um 1480. H.105 cm. Abb.Taf.18",880,99.3,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XV
+BO0624_88377,168054,265,249,"DESGL., MADONNA MIT KIND, welches nach einem Apfel in der rechten Hand der Mutter greift. Maria mit rotem Untergewand und goldenem Oberkleid,auf dem Haupte die Krone iber einem um die Schulter gelegten Schleier. Alte Fassung. Sehr schone Drapierung und edle Haltung. Lindenholz.Sid-Thuringen,um 1450. H.48 cm. Abb.Taf.20",882,99.4,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XV
+BO0624_88377,168055,266,250,"HOLZGRUPPE,HLG.ANNA SELBDRITT. Vortrefliche Gruppe, aus einem Block ge schnitzt. Alte Originalfassung, an einigen Stellen abgelaugt. Linde oder Pappel. Sud-Thuringen oder frankisch,um 1510. H.54 cm. Abb.Taf.19",884,99.0,False,positional,,,OGGETTI VARI,,Sec. XVI
+BO0624_88377,168056,267,2,"251.HOLZFIGUR eines HEILIGEN BISCHOFS,bekleidet mit Bischofs-MeBgewand (rotes Untergewand, geblumte Alba mit Goldborte,goldener Mantel mit grunem Futter). Auf der linken Hand das Modell einer zweitirmigen Kirche,in der rechten den Bischofsstab. Pappel oder Linde. Saalfelder Schule,um 1500.H.110 cm. Abb.Taf.18",885,99.7,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVI
+BO0624_88377,168057,268,3,"252-53.ZWEI HOLZRELIEFFIGUREN,ST. JACOBUS und St. ANDREAS. Andreas mit dem Kreuz in der Linken, in der rechten Hand ein Evangeliar. Langer Mantel. Unterund Muschel, Mantel und Gewand, sonst ahnlich. Die Fassung alt und gut. Fohrenholz.Bayrisch, um 1350. Hohe 65 cm, Abb.Taf.19",886,99.6,False,positional,,Scuola Bavarese,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XIV
+BO0624_88377,168058,269,254,"STATUETTE der MADONNA ALS HIMMELSKONIGIN, das Jesuskind haltend. Charakteristisches Werk der mitteldeutschen Gothik. Alte Fassung an den wichtigsten Teilen, einiges renoviert. Linde oder Pappel. Sid-Thiringen, um 1500. H.70 cm. Abb.Taf.18",887,99.1,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,Sec. XVI
 BO0624_88377,168059,270,255,"EMPIRE-SALON aus massivem Mahagoniholz mit reichem Bronzebeschlag, bestehend aus SOFA, ZWEI ARMSESSELN und ZWEI STUHLEN mit gebogter Lehne. Die Polsterung mit grunem, gemustertem Seidendamast bezogen.",888,99.0,False,positional,,,OGGETTI VARI,,
 BO0624_88377,168060,271,6,"256.EICHENHOLZSCHRANK,braun,mit geschweiftem Kommoden-Unterteil und Schubkasten",889,98.8,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168061,272,7,"mit Bronzebeschlag. Aufsatz zweitirig mit Glasscheiben, gegittert. 18.Jahrh.",890,98.6,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
@@ -285,7 +285,7 @@ BO0624_88377,168072,283,265,"DECKE AUS LOUIS-XV-SEIDENDAMAST, goldgelber Grund m
 BO0624_88377,168073,284,266,DECKE aus vier Teilen Louis-XV-Seidendamast mit Silberbandmotiven und BlumenstrauBen.,905,97.7,False,positional,,Periodo di Luigi XV,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168074,285,19,Jahrh. H.77 cm. Plattengr.40X55 cm.,922,95.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168075,286,I,talienisch.17.Jahrh.H.24 cm.,956,98.2,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
-BO0624_88377,168076,287,314,"FACHER auf Elfenbeingestell mit Papierfahne, auf beiden Seiten bemalt mit romantischen und zeitgenossischen Genreszenen, getrennt durch gotisierende Ornamente. Um 1830-40.Gr.28cm.",988,98.9,False,positional,,,SCOMPARTI,,
+BO0624_88377,168076,287,314,"FACHER auf Elfenbeingestell mit Papierfahne, auf beiden Seiten bemalt mit romantischen und zeitgenossischen Genreszenen, getrennt durch gotisierende Ornamente. Um 1830-40.Gr.28cm.",988,98.9,False,positional,,,SCOMPARTI,,Sec. XIX
 BO0624_88377,168077,288,315,"DESGL., reich geschnitztes Perlmuttergestell mit Figuren und Ornamenten. Seidenfahne mit Aquarell-Genreszene, Blumen und Ranken. Louis XVI",989,98.5,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168078,289,316,"ZWEI REBHUHNER; japanisches Cloisonne, farbig. (RauchergefaB mit abnehmbaren",990,97.3,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168079,290,317,"ALTE EMAILDOSE in Kupferfassung; weiB, mit goldener Blumenmalerei.",992,96.9,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
@@ -295,7 +295,7 @@ BO0624_88377,168082,293,320,"BIEDERMEIERKOMMODE, Mahagoni, mit drei Schubkasten 
 BO0624_88377,168083,294,321,MAHAGONI-CHIFFONIERE mit sechs Schubkasten und Bronzehandgriffen.,999,97.0,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168084,295,322,"KLEINER SMYRNATEPPICH, rosa und grun. Gr.119X211 cm.",1001,96.1,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168085,296,323,"PERSISCHER TEPPICH,Kasak,mit aneinandergereihten Achtecken. WeiBgrundige Bordire.",1002,97.5,False,title_direct,,,PERSISCHE TEPPICHE,,
-BO0624_88377,168086,297,324,"FACHER, Elfenbeingestell, mit Aquarell und Lackmalerei im Stil Louis XV. 18.Jahrh.",1004,97.5,False,positional,,Periodo di Luigi XV,OGGETTI LACCATI,,
+BO0624_88377,168086,297,324,"FACHER, Elfenbeingestell, mit Aquarell und Lackmalerei im Stil Louis XV. 18.Jahrh.",1004,97.5,False,positional,,Periodo di Luigi XV,OGGETTI LACCATI,,Sec. XV
 BO0624_88377,168087,298,325,"DESGL., Fahne aus Tull mit aufgenahten Flitterverzierungen.",1005,96.6,False,positional,,,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168088,299,326,"27. ZWEI ALT-BERLINER ALLEGORISCHE FIGUREN, weiB,Feuerund Wasser""",1006,96.9,False,positional,,Scuola di Berlino,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
 BO0624_88377,168089,300,328,"ALT-BERLINER FLAKON, weiB, in Form eines Monches mit einem Madchen in einer",1007,97.3,False,positional,,Scuola di Berlino,HOLZSKULPTUREN; PERSISCHE TEPPICHE,,
@@ -340,11 +340,11 @@ BO0624_88377,168127,338,414,ALTE SILBERNE TORTENSCHAUFEL mit Holzgriff.,1081,95.
 BO0624_88377,168128,339,415,"SECHS PAAR ALTE BESTECKE, Messer und Gabeln, silberne Griffe",1082,96.7,False,positional,,,OGGETTI VARI,,
 BO0624_88377,168129,340,416,"SECHS ALTE SCHABKUNSTBLATTER, Bildnisse romischer Kaiser nach Rubens,Morelse,",1083,97.4,False,positional,RUBENS PETER PAUL,Scuola di Rubens,STAMPE E INCISIONI,,
 BO0624_88377,168130,341,2,Jansen usw. Gest. von J. F.Leonart.,1084,96.9,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168131,342,3,417.FLUGBLATT: Einzug der hohen Leiche Ihrer Majestat der hochseligen Konigin Louise von PreuBen in Berlin am 27.Julius 1810. Koloriert.Gerahmt.,1085,99.3,False,positional,,Scuola di Berlino,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168131,342,3,417.FLUGBLATT: Einzug der hohen Leiche Ihrer Majestat der hochseligen Konigin Louise von PreuBen in Berlin am 27.Julius 1810. Koloriert.Gerahmt.,1085,99.3,False,positional,,Scuola di Berlino,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XIX
 BO0624_88377,168132,343,4,"417a.KONVOLUT moderner Radierungen,rendel,Liebermann,A.Kriger,Frenz,Dambergr,",1086,98.7,False,positional,LIEBERMANN MAX,,ACQUEFORTI,,
 BO0624_88377,168133,344,5,Unger usw. und zwei Faksimiledrucke nach Radierungen von Gothe.,1087,98.4,False,positional,,,ACQUEFORTI,,
 BO0624_88377,168134,345,6,"418.ZWEI ALTE,KLEINE FACHER,einer aus hellem Horn, der andere aus Spitzen.Empirezeit.",1088,98.8,False,positional,,,SCOMPARTI,,
-BO0624_88377,168135,346,419,"ALTER FACHER, bemaltes Seidenblatt mit kleinen, farbigen Schabkunstblattern. 18. Jahrh.",1089,97.6,False,positional,,,SCOMPARTI,,
+BO0624_88377,168135,346,419,"ALTER FACHER, bemaltes Seidenblatt mit kleinen, farbigen Schabkunstblattern. 18. Jahrh.",1089,97.6,False,positional,,,SCOMPARTI,,Sec. XVIII
 BO0624_88377,168136,347,420,"ALTE ELFENBEINMINIATUR, rund: drei Kinder an einem Tisch,auf dem Spielzeug und Karten liegen.",1090,89.4,False,title_direct,,,ELFENBEINMINIATUREN,,
 BO0624_88377,168137,348,421,"DESGL.,viereckig: Dame als Venus mit zwei Amoretten, die sie mit Blumen bekranzen. Ende 18.Jahrh.Gr.5X6,5 cm.",1095,83.9,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168138,349,422,GRISAILLE-MINIATUR rund: Amor in einem von einem Schwan gezogenen Wagen. Durchm.5cm.,1097,97.6,False,positional,,,MINIATURE,,
@@ -370,7 +370,7 @@ BO0624_88377,168157,368,442,"PETSCHAFT aus Goldtopas, geschliffen.",1121,94.6,Fa
 BO0624_88377,168158,369,443,ONYXDOSE mit Lapislazuli-Streifen in silberner Montierung.,1122,96.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168159,370,5,"444.DESGL.,ahnlich.",1123,94.4,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168160,371,445,"SILBERVERGOLDETER LOFFEL mit farbigen Schmelzornamenten. Lg.17,5 cm.",1124,97.1,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168161,372,446,GLASSCHALE auf FuB aus rotgefarbtem Glas. Um 1830.,1125,87.0,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168161,372,446,GLASSCHALE auf FuB aus rotgefarbtem Glas. Um 1830.,1125,87.0,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XIX
 BO0624_88377,168162,373,447,ZWOLF ALTE KNOPFE; grine Bluite auf vergoldetem Netzwerk.,1127,96.5,False,positional,,,OGGETTI VARI,,
 BO0624_88377,168163,374,448,EIN PAAR LEUCHTER aus alten chinesischen Porzellantassen in Silber montiert. Lichtschirmchen mit alten Spitzen verziert. H.18 cm.,1128,98.4,False,positional,,,LAMPADE,,
 BO0624_88377,168164,375,449,"PORZELLANDOSE; geschweifte, viereckige Form mit Blumen. Kinderkopf auf dem Deckel.Berlin.",1129,88.8,False,positional,,Scuola di Berlino,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
@@ -384,16 +384,16 @@ BO0624_88377,168171,382,456,"SILBERNES EMAILFLAKON, blau, mit weiBen Schmelzperl
 BO0624_88377,168172,383,457,GERAHMTER FARBDRUCK nach Debucomt: La noce au Chateau.,1140,96.3,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168173,384,458,GRISAILLE-MINIATUR: Madchen mit Amor vor einem Altar. Oval.Br.-R.,1141,96.8,False,positional,,,MINIATURE,,
 BO0624_88377,168174,385,24,"459.AQUARELLMINIATUR: Ansicht eines Flusses mit Segelschiffen, im Vordergrund Manner und Frauen ruhend und sich unterhaltend; im Hintergrund eine Festung mit Ortschaft.",1142,99.1,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168175,386,25,"Zweite Halfte 18. Jahrh. Oval. Durchm.7X8,2 cm.",1143,96.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168175,386,25,"Zweite Halfte 18. Jahrh. Oval. Durchm.7X8,2 cm.",1143,96.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XVIII
 BO0624_88377,168176,387,460,"STOBWASSER-MINIATUR: Winterlandschaft mit FluB, Bruicke und Ruine. Br.-R.",1144,97.1,False,positional,,,MINIATURE,,
 BO0624_88377,168177,388,461,"MINIATUR auf Kupfer (Oel): Hafen mit Segelschiffen, Ruinen, Palusten; im Vordergrund",1145,97.5,False,positional,,,MINIATURE,,
 BO0624_88377,168178,389,2,"kleine Figuren. In der Art des Panini. 18.Jahrh.Br.11 cm,T.8 cm.",1146,98.4,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168179,390,3,Vogel trauernd.,1147,93.3,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168180,391,463,"ZWEI DESGL.: Kinder, mit weiBen Tauben spielend. Ende 18. Jahrh.Hochoval. Durchm.5,7X3,7 cm.",1151,66.2,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168180,391,463,"ZWEI DESGL.: Kinder, mit weiBen Tauben spielend. Ende 18. Jahrh.Hochoval. Durchm.5,7X3,7 cm.",1151,66.2,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XVIII
 BO0624_88377,168181,392,464,"LACKMINIATUR in der Art des Blarenberghe: Jagdszene. Rund.Durchm.5,5 cm.",1153,97.2,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168182,393,4,465.ELFENBEINMINIATUR: galante Darstellung. Rund.Durchm.7cm.,1154,98.3,False,title_direct,,,ELFENBEINMINIATUREN,,
 BO0624_88377,168183,394,5,"466-67. ZWEI SEVRESTASSEN; blau, mit Golddekor und weiBen Reserven, mit dem in Gold",1155,98.8,False,positional,,,OGGETTI IN ORO,,
-BO0624_88377,168184,395,6,"gemalten Monogramm L. P,von Amoretten flankiert. Sevres, 1844. Chateau des Tuileries.",1156,98.8,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168184,395,6,"gemalten Monogramm L. P,von Amoretten flankiert. Sevres, 1844. Chateau des Tuileries.",1156,98.8,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XIX
 BO0624_88377,168185,396,468,"KASTCHEN; rechteckig, mit durchbrochener Bronzewandung; als Bekronung schreitendes Pferd.",1157,97.7,False,positional,,,SCATOLE,,
 BO0624_88377,168186,397,469,VIERZEHN SILBERNE KAUKASISCHE KNOPFE.,1161,94.7,False,positional,,,OGGETTI VARI,,
 BO0624_88377,168187,398,470,VIERZEHN SILBERNE KNOPFE aus alten Munzen.,1162,95.3,False,positional,,,OGGETTI VARI,,
@@ -411,7 +411,7 @@ BO0624_88377,168198,409,480,"ZWOLF WACHSRELIEFS VON POSCH.Familienbildnisse. In 
 BO0624_88377,168199,410,481,"GROSSES TABLETT,von geschweifter Form,plated;reich graviert.",1183,96.7,False,positional,,,PIATTI,,
 BO0624_88377,168200,411,482,"SILBERNER BECHER von konischer Form, reich getrieben, Rankenwerk mit Vogeln. Marke G.T.B.Anfg.18.Jahrh.H.8,5 cm.",1184,98.2,False,positional,,,VASI,,
 BO0624_88377,168201,412,5,"483.DESGL., ahnlich, kleiner. H.8cm.",1185,96.9,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168202,413,484,"STATUETTE AUS HOLZ UND ELFENBEIN im Stil Trogers,,Komodienfigur"". 18. Jahrh.",1186,97.3,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88377,168202,413,484,"STATUETTE AUS HOLZ UND ELFENBEIN im Stil Trogers,,Komodienfigur"". 18. Jahrh.",1186,97.3,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88377,168203,414,7,"485.DESGL., Bettlertypus.18.Jahrh.",1187,96.9,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168204,415,8,"486.DESGL.,Madchen,Tauben fuitternd. Modern.",1188,97.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168205,416,9,"487.KLEINE HOLZFIGUR EINES PUTTOS, Modellfigur einer Porzellan-Manufaktur.",1189,98.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
@@ -428,7 +428,7 @@ BO0624_88377,168215,426,496,"DOLCH,,Spanische Linkehand"".",1200,92.6,False,posi
 BO0624_88377,168216,427,21,Gr.54cm.,1201,82.4,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168217,428,22,"496a.GROSSE, PROSKAUER FAYENCEFIGUR DER HERBST"".Auf rechteckigem,marmoriertem Block ein nur mit Lendentuch bekleideter, bartiger Mann mit einer Traube in den Handen.Am Boden ein Bottich mit Weintrauben.",1202,99.2,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168218,429,23,18.Jahrh.Marke P.H.30 cm.,1203,94.1,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168219,430,497,DIE TRACHTEN DER VOLKER vom Beginn der Geschichte bis zum 19. Jahrh. von Albert Kreitschmer und Dr. Carl Rohrbach in Gotha. Zweite Auflage. Leipzig 1882. Orig.-Prachtband.,1204,98.8,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168219,430,497,DIE TRACHTEN DER VOLKER vom Beginn der Geschichte bis zum 19. Jahrh. von Albert Kreitschmer und Dr. Carl Rohrbach in Gotha. Zweite Auflage. Leipzig 1882. Orig.-Prachtband.,1204,98.8,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XIX
 BO0624_88377,168220,431,25,"498.GROSSER,AUF EINEM LOTOSTHRON SITZENDER BUDDHA,Bronze,feuervergoldet. Das reich ziselierte Gewand mit Turkisen besetzt. H.44cm.",1205,98.8,False,title_direct,,,SPITZEN,,
 BO0624_88377,168221,432,499,"GROSSER,SEIDENER,TURKISCHER VORHANG.weiBer Grund mit prachtiger Relief stickerei in Gold und Silber. Gebetteppichartige Anordnung mit hangender Ampel, vier Saulen und aufsteigenden, die ganze Flache bedeckenden Ranken und Blumen. Gr.183×280cm.",1206,99.2,False,positional,,,OGGETTI IN ORO,,
 BO0624_88377,168222,433,2,"500.ACHATKASTCHEN von rechteckiger Form,dieKanten in goldener,getriebener,iseliertr",1207,98.8,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
@@ -441,32 +441,32 @@ BO0624_88377,168228,439,10,"503a. ALTMEISSENER TELLER, konigsblauer Rand mit vie
 BO0624_88377,168229,440,504,"GROSSES SILBERNES TABLETT, geschweifte Form mit Henkeln und graviertem Wappen. Beschaumarke Posen? Durchm. 54X80 cm. Gew. 4530 g.",1219,75.2,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168230,441,505,"DESGL., ovale Form. Im Fond graviertes Wappen und Maanderbordure. Durchm. 59X89 cm. Gew.5720 g. Beschaumarke Berlin und Humbert und Sohn.",1221,98.5,False,positional,,Scuola di Berlino,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168231,442,506,"GROSSES JAGDBESTECK, bestehend aus je zwolf Messern,wolf Gabeln,zwolf silbernen Loffeln, zwolf groBen silbernen Vorlegeloffeln, einem Tranchiermesser und Gabel, zwei SalzgefaBe. Die Griffe aus Rehgehornen, an den Enden mit vorziglich geschnitzten Kopfen",1222,99.2,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168232,443,5,"(Karikaturen). Die Salzgefabe aus Silber auf reich skulptierter Rose. Berlin, zweite Halfte 18. Jahrh. Beschaumarke Berlin,u. J.F.P. Ir Etui mit grinem Sammet.",1223,99.3,False,positional,,Scuola di Berlino,OGGETTI VARI,,
-BO0624_88377,168233,444,6,"507-08. SILBERNE KANNE von geschweifter Form mit Henkel und Becken, langlich achteckig, glatter Becher. Mit eingraviertem Wappen. Gew.1780 g.",1224,99.3,False,positional,,,VASI,,
+BO0624_88377,168232,443,5,"(Karikaturen). Die Salzgefabe aus Silber auf reich skulptierter Rose. Berlin, zweite Halfte 18. Jahrh. Beschaumarke Berlin,u. J.F.P. Ir Etui mit grinem Sammet.",1223,99.3,False,positional,,Scuola di Berlino,OGGETTI VARI,,Sec. XVIII
+BO0624_88377,168233,444,6,"507-08. SILBERNE KANNE von geschweifter Form mit Henkel und Becken, langlich achteckig, glatter Becher. Mit eingraviertem Wappen. Gew.1780 g.",1224,99.3,False,positional,,,VASI,,Sec. XVIII
 BO0624_88377,168234,445,7,"509-10.ZWEI ALTE SILBERNE SCHUSSELN, rund, glatter Rand. Monogr. W.B. mit Krone.",1225,98.7,False,positional,,,SCATOLE,,
 BO0624_88377,168235,446,8,Beschaumarke: zwei gekr. Schluissel mit Krone und Fiedler. (Posen?) Durchm. 32 cm. Gew.1950 g.,1226,98.8,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168236,447,9,"511-12. ZWEI DESGL., geschweifter Rand mit graviertem Wappen. Marke wie vorher. Durchm.32 cm.Gew.1630 g.",1227,99.0,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168237,448,10,"513-14. ZWEI DESGL., kleiner, sonst wie vorher. Durchm.29,5 cm.Gew.1100 g.",1228,97.8,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168236,447,9,"511-12. ZWEI DESGL., geschweifter Rand mit graviertem Wappen. Marke wie vorher. Durchm.32 cm.Gew.1630 g.",1227,99.0,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XVII
+BO0624_88377,168237,448,10,"513-14. ZWEI DESGL., kleiner, sonst wie vorher. Durchm.29,5 cm.Gew.1100 g.",1228,97.8,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XII
 BO0624_88377,168238,449,11,"515-16. EIN PAAR SILBERNE EMPIRE-KANDELABER, SaulenfuB mit vier Kerzenarmen in",1229,98.1,False,positional,,,CANDELABRI,,
 BO0624_88377,168239,450,12,Form von Schwanenhalsen. Beschaumarke: Berlin und G.H.St.H.67 cm.Gew.3590 g.,1230,98.0,False,positional,,Scuola di Berlino,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168240,451,517,"GROSSE SILBERNE TERRINE MIT UNTERSATZ: Ovale Form. Der Untersatz mit erhohtem Sockel fuir die Terrine. Geperlte Rander, schlanker Henkel. Deckel hochgewolbt, als Bekronung Vase. Beschaumarke undeutlich. Stempel:Graf Um 1800. H.42 cm. Gew.4930 g. Eingraviertes Wappen.",1231,99.2,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88377,168240,451,517,"GROSSE SILBERNE TERRINE MIT UNTERSATZ: Ovale Form. Der Untersatz mit erhohtem Sockel fuir die Terrine. Geperlte Rander, schlanker Henkel. Deckel hochgewolbt, als Bekronung Vase. Beschaumarke undeutlich. Stempel:Graf Um 1800. H.42 cm. Gew.4930 g. Eingraviertes Wappen.",1231,99.2,False,positional,,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88377,168241,452,518,"DESGL., rund, sonst ahnlich. Henkel eckig. Beschaumarke Posen? H.43 cm.Gew.3960 g.",1233,66.7,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168242,453,519,"SILBERVERGOLDETES KASTCHEN mit vier Flakons,zwei silbervergoldet,zwei aus Glas. Aus einem Reise-Service. 18. Jahrh.",1234,98.2,False,positional,,,BOTTIGLIE,,
-BO0624_88377,168243,454,4,"520-21. ZWEI ALTE SILBERNE VIERECKIGE GEMUSESCHUS SELN, geschweifte Kontur. Beschaumarke: Berlin mit D.und Stoltz. (Rosenberg 689.) Durchm.25 cm. Gew. 1060 g.",1235,99.3,False,positional,,Scuola di Berlino,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168242,453,519,"SILBERVERGOLDETES KASTCHEN mit vier Flakons,zwei silbervergoldet,zwei aus Glas. Aus einem Reise-Service. 18. Jahrh.",1234,98.2,False,positional,,,BOTTIGLIE,,Sec. XVIII
+BO0624_88377,168243,454,4,"520-21. ZWEI ALTE SILBERNE VIERECKIGE GEMUSESCHUS SELN, geschweifte Kontur. Beschaumarke: Berlin mit D.und Stoltz. (Rosenberg 689.) Durchm.25 cm. Gew. 1060 g.",1235,99.3,False,positional,,Scuola di Berlino,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XI
 BO0624_88377,168244,455,5,"522-23.ZWEI DESGL, rund, geschweifte Kontur.",1236,97.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168245,456,524,"ZWEI OVALE DESGL, ebenso Gew. 2410 g Durchm.31,5X47cm.",1240,76.4,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168246,457,525,"GROSSE ALTE BRUSSELER SPITZENDECKE mit stilisiertem, gleichmaBig die Flache bedeckendem Blumen- und Rankenmotiv. Gr.240×250cm.",1242,98.4,False,title_direct,,,SPITZEN,,
 BO0624_88377,168247,458,4,"525 a. KLEINASIATISCHER GEBETTEPPICH, roter Fond mit reicher Bordire. 17.Jahrh.Gr.ca.100X200 cm.",1243,98.9,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168248,459,5,"*526. KLEINE TANZMEISTERGEIGE, 18. Jahrh. Gr.31 cm. Dazugehorig ein Bogen.",1244,98.5,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168248,459,5,"*526. KLEINE TANZMEISTERGEIGE, 18. Jahrh. Gr.31 cm. Dazugehorig ein Bogen.",1244,98.5,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XVIII
 BO0624_88377,168249,460,6,"*527.ELFENBEIN-MINIATUR; Brustbild der Generalin Juliette von Roeder, Staatsdame der Konigin von Wirttemberg. En face, in weiBem, dekolletiertem Kleid mit violettem Schal. Abb.Taf.15.",1245,99.4,False,title_direct,,,MINIATURE,,
 BO0624_88377,168250,461,7,"Oval. Gr. 5X6 cm. Viereckiger,vergoldeter Holzrahmen.",1246,98.0,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168251,462,8,"*528. SILBERVERGOLDETES HIFTHORN, reich getrieben, mit groBen Akanthusranken und Szenen dargestellt sind,reich besetzt mit farbigen Edelsteinen. Bernsteinmundstuick. Polnisch oder russisch.Lg.26 cm. Gew. 275 g.",1247,99.5,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168252,463,9,"*529. PULVERFLASCHE, zum vorigen passend, in ganz gleicher Arbeit； ebenfalls mit zwei mythologischen Szenen, deren eine das eine des vorigen Stickes wiederholt； im Deckel eingraviert Jagdbildchen. Lg.22 cm.Gew.165g.",1248,99.5,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168253,464,10,"*530.SILBERVERGOLDETER DECKELPOKAL;runde, profilierte FuBplatte, zylindrisch aufgetrieben, in den Schaft ubergehend, der eine mit drei Widderkopfen und Fruchtbischeln besetzte Vase bildet. Drei kleine Rankenvoluten bilden den Ubergang zur groBen, am Ablauf und oben stark gebauchten Kuppa. In allen Teilen mit flachgetriebenen Reliefs bedeckt: Beschlagwerkornamente, die mit Blumenvasen, Cherubim, Ranken usw. durchsetzt sind und Kartuschen mit allegorischen Gestalten bzw. Tieren bilden. Als Deckelkronung Gestalt eines Kriegers in antiker Tracht mit Schild und Lanze. Am Lippenrand eingraviert:Hans Dambecken Gedechtnis Anno 1657 wiget 36 Lodt"". Abb.Taf.16. Suddeutschland, Mitte 17.Jahrh.Unieserliche Beschau. H. 36 cm.Gew.525 g.",1249,99.8,False,positional,,,VASI,,
-BO0624_88377,168254,465,11,"der Leibung in flachem Relief vier in einem Park Blindekuh spielende Kinder. Auf dem Deckel Fruchtbischel,am Lippenrand eingraviert:Auf dem Dargartjetzo Friderichswalde,ist in beisein der Frau Obersten von Kleist,ihrer juingsten Freulein Tochter Carolina, und des 5 ten Sohnes Friedrich-Conrad,auch des Verwalters Ehrhardt den 5ten April 1753 das allererste Bauern-",1250,99.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168253,464,10,"*530.SILBERVERGOLDETER DECKELPOKAL;runde, profilierte FuBplatte, zylindrisch aufgetrieben, in den Schaft ubergehend, der eine mit drei Widderkopfen und Fruchtbischeln besetzte Vase bildet. Drei kleine Rankenvoluten bilden den Ubergang zur groBen, am Ablauf und oben stark gebauchten Kuppa. In allen Teilen mit flachgetriebenen Reliefs bedeckt: Beschlagwerkornamente, die mit Blumenvasen, Cherubim, Ranken usw. durchsetzt sind und Kartuschen mit allegorischen Gestalten bzw. Tieren bilden. Als Deckelkronung Gestalt eines Kriegers in antiker Tracht mit Schild und Lanze. Am Lippenrand eingraviert:Hans Dambecken Gedechtnis Anno 1657 wiget 36 Lodt"". Abb.Taf.16. Suddeutschland, Mitte 17.Jahrh.Unieserliche Beschau. H. 36 cm.Gew.525 g.",1249,99.8,False,positional,,,VASI,,Sec. XVII
+BO0624_88377,168254,465,11,"der Leibung in flachem Relief vier in einem Park Blindekuh spielende Kinder. Auf dem Deckel Fruchtbischel,am Lippenrand eingraviert:Auf dem Dargartjetzo Friderichswalde,ist in beisein der Frau Obersten von Kleist,ihrer juingsten Freulein Tochter Carolina, und des 5 ten Sohnes Friedrich-Conrad,auch des Verwalters Ehrhardt den 5ten April 1753 das allererste Bauern-",1250,99.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XVIII
 BO0624_88377,168255,466,540,"KAFFEEKANNE von bauchiger Form mit groBen, bunten deutschen Blumen-Stilleben.",1266,97.4,False,positional,,,OGGETTI VARI,,
-BO0624_88377,168256,467,541,"TASSE mit ,indianischen"" Purpurblumen bemalt. MeiBen,um 1760.",1268,96.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168257,468,542,"TAssE mit Untertasse, mit goldenen Horold-Chinesen bemalt. Spitzenbordure am Rand. MeiBen,um 1720.",1269,97.9,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168256,467,541,"TASSE mit ,indianischen"" Purpurblumen bemalt. MeiBen,um 1760.",1268,96.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XVIII
+BO0624_88377,168257,468,542,"TAssE mit Untertasse, mit goldenen Horold-Chinesen bemalt. Spitzenbordure am Rand. MeiBen,um 1720.",1269,97.9,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XVIII
 BO0624_88377,168258,469,543,BRONZEKORO mit Drachendeckeln und Drachen an dem durchbrochenen Deckel. Jahrh.H.26 cm.,1270,88.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168259,470,544,GROSSER ROSENKRANZ mit holzgeschnitzten Perlen und angehangtem Bronzekruzifix.,1272,97.5,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168260,471,545,"WALZENKRUG, weiBbunt. Einzelbluten in violetten Vierpassen. Erfurt,18.Jahrh.Zinnmont.",1273,97.6,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
@@ -494,7 +494,7 @@ BO0624_88377,168281,492,567,"DESGL.,helles Schildpattgestell, reich verziert, im
 BO0624_88377,168282,493,568,"DESGL., schwarzes Perlmuttgestell, mit Quatre-couleurs-Rokokoverzierungen. Schwarze",1302,97.5,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168283,494,569,"FACHER,Elfenbeingestell, mit einer Auflage: silberner Blumenzweig,mit Emailplattchen und Turkisen besetzt.",1304,98.1,False,positional,,,SCOMPARTI,,
 BO0624_88377,168284,495,570,"DESGL., Perlmuttgestell, mit blauseidener Fahne, mit Grisaille-Malerei:Damen und Pagen im Kostim des 17.Jahrh.",1305,85.9,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168285,496,571,"DESGL., helles Schildpatt, mit goldenen Rokokoverzierungen. Die Fahne von beiden Seiten bemalt mit Genreszenen im Stil des 18. Jahrh. von Douzet fils.",1307,72.2,False,positional,,,OGGETTI VARI,,
+BO0624_88377,168285,496,571,"DESGL., helles Schildpatt, mit goldenen Rokokoverzierungen. Die Fahne von beiden Seiten bemalt mit Genreszenen im Stil des 18. Jahrh. von Douzet fils.",1307,72.2,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_88377,168286,497,572,"DESGL., dunkles Schildpattgestell, mit Goldverzierungen. Seidene Fahne mit Genreszenen und Miniaturen im Directoirestil. Aufgenahte Flitter-Umrahmungen.",1309,98.6,False,positional,,,MINIATURE,,
 BO0624_88377,168287,498,6,"573.HOLZRELIEF, Staupung Christi; farbig bemalt,halbkreisformige,bemalte Bekronung. Deutsch,17.Jahrh.H.66 cm, Br.75 cm.",1310,99.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88377,168288,499,7,"574.HOLZGESCHNITZTE VOLUTE,bemalt.",1311,97.1,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
@@ -506,10 +506,10 @@ BO0624_88377,168293,504,578,BRAUNGLASIERTE OFENKACHEL mit reliefiertem Monogramm
 BO0624_88377,168294,505,2,"578a. RUNDE STOBWASSERDOSE auf dem Deckel ,Die Schnupigesellschaft nach Hogarth.",1320,98.7,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168295,506,3,"Durchm.9,5cm.",1321,92.3,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168296,507,4,"578b. ZWEI TASSEN,eine Thuringer, mit roten Blumen, eine Furstenberger mit Spruch und Blumenkranz.",1322,98.9,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168297,508,5,"578c. ZWEI TEILE EINES MESSGEWANDES aus rotem Sammet mit Goldreliefstickerei und Blumen. Italien, 18. Jahrh.",1323,99.0,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168297,508,5,"578c. ZWEI TEILE EINES MESSGEWANDES aus rotem Sammet mit Goldreliefstickerei und Blumen. Italien, 18. Jahrh.",1323,99.0,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XVIII
 BO0624_88377,168298,509,6,"578 d. 2 ALTBERLINER KORBE, weiB durchbrochen gegittert und alte Porzellan-Teebichse, mit Blumen bemalt.",1324,99.0,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
-BO0624_88377,168299,510,7,"*579-80. GERAHMTER STICH,MEDAILLONBILD: Friedrich Wilhelm,Kronprinz von PreuBen Von Tangermann,1820.-GERAHMTES FAMILIENWAPPEN,schwarz,in vergoldetem Rahmen.",1325,99.3,False,positional,,,CORNICI,,
-BO0624_88377,168300,511,8,"aus Perlmutter und graviertem Silber. Auf dem Deckel Ansicht von Amsterdam,auf dem Boden Fama neben einer Kartusche. Silberbeschlag. Hollandisch, um 1750. H.4 cm,Br.6,5 cm,Lg.16,5 cm.",1326,99.4,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
+BO0624_88377,168299,510,7,"*579-80. GERAHMTER STICH,MEDAILLONBILD: Friedrich Wilhelm,Kronprinz von PreuBen Von Tangermann,1820.-GERAHMTES FAMILIENWAPPEN,schwarz,in vergoldetem Rahmen.",1325,99.3,False,positional,,,CORNICI,,Sec. XIX
+BO0624_88377,168300,511,8,"aus Perlmutter und graviertem Silber. Auf dem Deckel Ansicht von Amsterdam,auf dem Boden Fama neben einer Kartusche. Silberbeschlag. Hollandisch, um 1750. H.4 cm,Br.6,5 cm,Lg.16,5 cm.",1326,99.4,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,Sec. XVIII
 BO0624_88377,168301,512,9,"*582-83.PORZELLANTASSE, bezeichnet: M. Imp le de Sevres.Olivgriner Fond mit Golddekor,",1327,98.8,False,positional,,,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168302,513,10,"Adler und N.und DOPPELHENKLIGE BECHERTASSE (ohne Untertasse). Vergoldet,mit passigen Medaillons: FluBlandschaft mit Figuren, Berlin.",1328,98.8,False,positional,,Scuola di Berlino,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,
 BO0624_88377,168303,514,11,"*584-85.MEISSENER MINIATURVASCHEN,konigsblauer Fond mit VierpaBreserven. H.7 cm und STOcKKNOPF mit Soldaten und Reiterkampf bemalt. Gr. 4 cm.",1329,98.9,False,positional,,Scuola di Meissen,SILBERNE GERATE; CHINESISCHES PORZELLAN; ELFENBEINMINIATUREN; SPITZEN; FACHERSAMMLUNG,,

@@ -8,7 +8,7 @@ BO0624_84045,35856,6,7,"Le Philosophe marie. Gravure ancienne, par Dupuis. Epreu
 BO0624_84045,35857,7,8,"Le Glorieue. Gravure ancienne, par Dupuis. Epreuve avec marge. Encadree.",79,98.5,False,positional,LANCRET,,STAMPE E INCISIONI,,
 BO0624_84045,35858,8,9,Batailles d'Alecandre. Suite de quatre gravures anciennes avec marge. Encadrees.,83,98.7,False,positional,LE BRUN,,STAMPE E INCISIONI,,
 BO0624_84045,35859,9,10,Ecemple dhumanite donne par Mme la Dauphine.,86,96.6,False,positional,MOREAU LE JEUNE,,,,
-BO0624_84045,35860,10,11,"Portrait d'Anne, Infante d'Espagne, Reine de France et mere du Roi, 1666.",94,97.9,False,positional,NANTEUIL,,,,
+BO0624_84045,35860,10,11,"Portrait d'Anne, Infante d'Espagne, Reine de France et mere du Roi, 1666.",94,97.9,False,positional,NANTEUIL,,,,Sec. XVII
 BO0624_84045,35861,11,12,Portrait de Louis XIV.,100,93.3,False,positional,NANTEUIL,,,,
 BO0624_84045,35862,12,13,Portrait de Colbert.,106,92.7,False,positional,NANTEUIL,,,,
 BO0624_84045,35863,13,14,"Le Glouton,par FILLEUL.",112,93.6,False,positional,PATER,,,,
@@ -194,7 +194,7 @@ BO0624_84045,36042,192,201,-Glace-trumeau en bois sculpte peint; mou-,915,95.1,F
 BO0624_84045,36043,193,202,"—Miroir de forme contournee,la partie superieure cintree,dans un cadre en bois sculpté",920,97.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_84045,36044,194,203,-Glace biseautee dans un cadre en baguettes dorees avec coins faits de rosaces.,925,97.5,False,positional,,,FRONTONS; ORNEMENTS,,
 BO0624_84045,36045,195,204,"-Buste en terre cuite: Portrait presume de Malesherbes, attribue a Pajou.ll est vetu d'un habit, les épaules recouvertes d'un manteau drape.La poitrine barree d'un ruban d'ordre. Il porte une perruque. Piedouche moulure. xvie",932,99.1,False,positional,,,TERRES CUITES; MARBRE,,
-BO0624_84045,36046,196,205,"—Medaillon en terre cuite,par J-B. Nini:portrait de Charles Juste,prince de Beautau,1770. Profl a gauche.(Storelli, XxxVII.)",937,98.3,False,positional,,,TERRES CUITES; MARBRE,,
+BO0624_84045,36046,196,205,"—Medaillon en terre cuite,par J-B. Nini:portrait de Charles Juste,prince de Beautau,1770. Profl a gauche.(Storelli, XxxVII.)",937,98.3,False,positional,,,TERRES CUITES; MARBRE,,Sec. XVIII
 BO0624_84045,36047,197,206,"—Buste de Bonaparte,Premier Consul,en marbre blanc, sur piedouche.",941,96.9,False,positional,,,TERRES CUITES; MARBRE,,
 BO0624_84045,36048,198,207,"— Statuette en terre cuite,par Boisseau:lAmour enchaine. ## MEUBLES ANCIENS ET DE STYLE",945,76.8,False,title_direct,,,MEUBLES ANCIENS ET DE STYLE,,
 BO0624_84045,36049,199,208,"—Table rectangulaire en bois sculpte,a quatre pieds tournes relies par une entrejambe. Epoque",952,97.8,False,positional,,,OGGETTI IN LEGNO,,
@@ -312,13 +312,13 @@ BO0624_84045,36160,310,319,- Objets non catalogues.,1430,91.3,False,positional,,
 BO0624_84045,36161,311,320,- Mobilier courant.,1432,88.9,False,positional,,,TAPIS,,
 BO0624_84045,36162,312,32,l —Deux collets et une etole en zibeline.,1436,97.5,False,positional,,,FOURRURES ET DENTELLES,,
 BO0624_84045,36163,313,322,2Dentelles de Milan et Venise.,1438,93.5,False,positional,,,FOURRURES ET DENTELLES,,
-BO0624_84045,36164,314,323,"—Almanach Royal, annee 1769. Paris, Le Bre-",1441,95.0,False,positional,,,LIVRES,,
-BO0624_84045,36165,315,324,"Balzac (H. de). Euvres completes. Paris, Houssiaux,1855-1865,20vol. in-8°, fig., demirel. dos et coins de mar. rouge, tetes dorees, nonrogn.",1443,98.4,False,positional,,,LIVRES,,
-BO0624_84045,36166,316,325,"—Gazette des Beaux-Arts. Courrier europeen de r Serie:1859 a 1868,20 vol.-Table de 1859 a 1868, 2vol.-2serie:1869 a 1877,16vol.",1445,77.4,False,positional,,,LIVRES,,
-BO0624_84045,36167,317,326,"Imbert.Le Jugement de Paris. Poeme en IV chants.Amsterdam,1772, in-8°, titre gr.,4 fig. par Moreau et 4 vign.par Choffard, demi-rel. chag.bleu.",1447,98.5,False,positional,MOREAU GUSTAVE,,LIVRES,,
-BO0624_84045,36168,318,327,"-Moliere. Theatre de J.-B.P. de Moliere, Lyon, Scheuring,1864, 8 vol. in-8,figures de F.Hillemacher,maroquin rouge,filets,dos ornes, dent.",1448,98.5,False,positional,,,LIVRES,,
-BO0624_84045,36169,319,328,"Musset (A.de). Euvres. Paris, Lemerre, 1876,10 vol. in-18, papier verge,maroquin brun,filets,dos, dent.inter.,tr. dorees.(David.)",1450,98.3,False,positional,,,LIVRES,,
-BO0624_84045,36170,320,329,"—0ffice de la Semaine Sainte.Paris,1752,in-8. maroquin rouge, filets, dos orne, tr. dorees. (Rel.anc.)",1451,97.9,False,positional,,,LIVRES,,
-BO0624_84045,36171,321,330,"—Reiset (Cte de). Modes et usages au temps de Marie-Antoinette. Paris,Didot,1885,2 vol. in-4°, 200 gravures, 68 en couleurs, demi-rel. dos et coins de mar. vert, tetes dorees, non rogn.(Rousselle.)",1455,98.9,False,positional,,,STAMPE E INCISIONI,,
-BO0624_84045,36172,322,33,"l →Saint-Simon.Memoires complets et authentiques sur le siecle de Louis XIv et la Regence, publies par Cheruel. Paris,Hachette,1856,20 vol. in-8, port., demi-rel. dos et coins de mar. rouge, tetes dorees, non rogn.(Gruel.)",1456,99.5,False,positional,,,LIVRES,,
+BO0624_84045,36164,314,323,"—Almanach Royal, annee 1769. Paris, Le Bre-",1441,95.0,False,positional,,,LIVRES,,Sec. XVIII
+BO0624_84045,36165,315,324,"Balzac (H. de). Euvres completes. Paris, Houssiaux,1855-1865,20vol. in-8°, fig., demirel. dos et coins de mar. rouge, tetes dorees, nonrogn.",1443,98.4,False,positional,,,LIVRES,,Sec. XIX
+BO0624_84045,36166,316,325,"—Gazette des Beaux-Arts. Courrier europeen de r Serie:1859 a 1868,20 vol.-Table de 1859 a 1868, 2vol.-2serie:1869 a 1877,16vol.",1445,77.4,False,positional,,,LIVRES,,Sec. XIX
+BO0624_84045,36167,317,326,"Imbert.Le Jugement de Paris. Poeme en IV chants.Amsterdam,1772, in-8°, titre gr.,4 fig. par Moreau et 4 vign.par Choffard, demi-rel. chag.bleu.",1447,98.5,False,positional,MOREAU GUSTAVE,,LIVRES,,Sec. XVIII
+BO0624_84045,36168,318,327,"-Moliere. Theatre de J.-B.P. de Moliere, Lyon, Scheuring,1864, 8 vol. in-8,figures de F.Hillemacher,maroquin rouge,filets,dos ornes, dent.",1448,98.5,False,positional,,,LIVRES,,Sec. XIX
+BO0624_84045,36169,319,328,"Musset (A.de). Euvres. Paris, Lemerre, 1876,10 vol. in-18, papier verge,maroquin brun,filets,dos, dent.inter.,tr. dorees.(David.)",1450,98.3,False,positional,,,LIVRES,,Sec. XIX
+BO0624_84045,36170,320,329,"—0ffice de la Semaine Sainte.Paris,1752,in-8. maroquin rouge, filets, dos orne, tr. dorees. (Rel.anc.)",1451,97.9,False,positional,,,LIVRES,,Sec. XVIII
+BO0624_84045,36171,321,330,"—Reiset (Cte de). Modes et usages au temps de Marie-Antoinette. Paris,Didot,1885,2 vol. in-4°, 200 gravures, 68 en couleurs, demi-rel. dos et coins de mar. vert, tetes dorees, non rogn.(Rousselle.)",1455,98.9,False,positional,,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_84045,36172,322,33,"l →Saint-Simon.Memoires complets et authentiques sur le siecle de Louis XIv et la Regence, publies par Cheruel. Paris,Hachette,1856,20 vol. in-8, port., demi-rel. dos et coins de mar. rouge, tetes dorees, non rogn.(Gruel.)",1456,99.5,False,positional,,,LIVRES,,Sec. XIX
 BO0624_84045,36173,323,332,"— 1l sera vendu par lots environ 300 bons volumes. Sainte-Beuve:Causeries du lundi.— Classiques Francais, collection du prince imperial, 36 vol.—Lettres de Mme de Sevigne— Dante—Demoustier—Gcethe—LamartineMerimee ——Tallemant des Reaux ——Thiers, etc.",1460,99.2,False,positional,,,LIVRES,,

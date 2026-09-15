@@ -355,11 +355,11 @@ BO0624_66050,403218,353,405,"A painted sideboard, with shelf over, and 2 cupboar
 BO0624_66050,403219,354,406,Eight stags'heads and antlers,749,93.5,False,none,,,,,
 BO0624_66050,403220,355,407,"- Two ditto, a rabbit in glazed case, a swan in glazed case, and 2 fox heads",751,100.0,False,none,,,,,
 BO0624_66050,403221,356,408,officers' swords,753,88.2,False,none,,,,,
-BO0624_66050,403222,357,409,"An old sword, in leather sheath (date on blade 1799),and",754,96.4,False,none,,,,,
+BO0624_66050,403222,357,409,"An old sword, in leather sheath (date on blade 1799),and",754,96.4,False,none,,,,,Sec. XVIII
 BO0624_66050,403223,358,410,"- Five XVIlI Century dress swords, and 5 Indian daggers",759,100.0,False,none,,,,,
 BO0624_66050,403224,359,411,pattern fancy dress sword,761,92.6,False,none,,,,,
 BO0624_66050,403225,360,412,"Two Remington rifes, 2 sword bayonets, 2 Indian spears,",762,96.3,False,none,,,,,
-BO0624_66050,403226,361,413,"XVI Century plate armour, damascened with gold, comprising a helmet, 2 leg pieces, 2 shoulder pieces, a cuirass,",764,98.1,False,none,,,OGGETTI IN ORO,,
+BO0624_66050,403226,361,413,"XVI Century plate armour, damascened with gold, comprising a helmet, 2 leg pieces, 2 shoulder pieces, a cuirass,",764,98.1,False,none,,,OGGETTI IN ORO,,Sec. XVI
 BO0624_66050,403227,362,414,"Plate armour, comprising a helmet,3 cuirasses,4 shoulder",766,96.5,False,none,,,,,
 BO0624_66050,403228,363,415,"- 416 Two pairs of foral pattern cretonne curtains, and a set of",773,100.0,False,none,,,,,
 BO0624_66050,403229,364,417,"A chased ormolu kerb fender,of Louis XV design,5 ft.wide",775,96.6,False,none,,Periodo di Luigi XV,,,
@@ -643,7 +643,7 @@ BO0624_66050,403506,641,708,"A tinted etching, after W. Dendy Sadler""Darby and"
 BO0624_66050,403507,642,4,"prints,etc.,framed",1344,97.1,False,none,,,,,
 BO0624_66050,403508,643,710,"- 711 Two engravings, after Sir Edwin Landseer, framed"" The a pair of coloured prints, and 2 engravings, framed",1347,100.0,False,none,,,STAMPE E INCISIONI,,
 BO0624_66050,403509,644,713,H. HENDRIcHA water-colour drawing: Landscape 23 in. by 36 in.,1348,96.6,False,none,,,,,
-BO0624_66050,403510,645,712,"LEIGH SAMPsON, 1893—A drawing: A Mill Stream with cottages, in gilt frame, glazed 19 in. by 30 in.",1349,97.9,False,none,,,,,
+BO0624_66050,403510,645,712,"LEIGH SAMPsON, 1893—A drawing: A Mill Stream with cottages, in gilt frame, glazed 19 in. by 30 in.",1349,97.9,False,none,,,,,Sec. XIX
 BO0624_66050,403511,646,715,715,1351,100.0,False,none,,,,,
 BO0624_66050,403512,647,716,"- LUNy, 1828A painting: Coast Scene with shipping, in gilt frame 23 in.by 33 in.",1354,100.0,False,none,,,,,
 BO0624_66050,403513,648,33,"in.by 50 in. 717 An engraving-"" Death of Chatham,"" and an engraving, after Landseer"" In Suspense""",1355,98.3,False,none,,,,,
@@ -654,9 +654,9 @@ BO0624_66050,403517,652,721,"| Five phototypes, framed, and a photogravure "" Wh
 BO0624_66050,403518,653,722,"| An Arundel print"" The Adoration of the Lamb,""by Van Eyck, framed, and another                                   |",1364,97.3,False,title_direct,VAN EYCK JAN,Arundel,,,
 BO0624_66050,403519,654,723,"| “The Adoration of the Magi,"" by Luini, framed; “The Presentation in the Temple,""and 2 others                    |",1365,97.7,False,none,BERNARDINO LUINI,,,,
 BO0624_66050,403520,655,724,"| An engraving, after LawrenceGeorge III; and another— Queen Charlotte, after Sir W. Beechey                      |",1366,97.7,False,none,,,,,
-BO0624_66050,403521,656,728,"| A painting—Portrait of Henry Brydges, second Duke of Chandos, d. 1771, in carved gilt frame 49 in.by 39 in.     |",1367,98.1,False,none,,,,,
+BO0624_66050,403521,656,728,"| A painting—Portrait of Henry Brydges, second Duke of Chandos, d. 1771, in carved gilt frame 49 in.by 39 in.     |",1367,98.1,False,none,,,,,Sec. XVIII
 BO0624_66050,403522,657,729,"| QUEEN ELIZABETH in State Robes, holding a fan, in carved gilt frame on panel 36 in.by 27 in.                    |",1368,97.8,False,none,,,,,
-BO0624_66050,403523,658,730,"| A PoRTRAIT OF PRINcEss MARy,1558,in black and grey dress with ruff, in carved gilt frame                        |",1370,97.8,False,none,,,,,
+BO0624_66050,403523,658,730,"| A PoRTRAIT OF PRINcEss MARy,1558,in black and grey dress with ruff, in carved gilt frame                        |",1370,97.8,False,none,,,,,Sec. XVI
 BO0624_66050,403524,659,733,"| A pair of paintings-Woody Landscapes, with men-at-arms, peasants, etc., in black and gilt frames 53 in.by 37in. |",1371,98.1,False,none,,,,,
 BO0624_66050,403525,660,734,"| A painting-A Mountainous Landscape, with river a nd bridge, in black and gilt frame 53 in. by 37 in.            |",1372,98.0,False,none,,,,,
 BO0624_66050,403526,661,735,"| A Landscape, with peasant woman, shepherd, goat, cattle, etc., in gilt frame 34 in.by 48 in.                    |",1373,97.7,False,none,,,,,
@@ -675,37 +675,37 @@ BO0624_66050,403538,673,748,"| SALVAToR RosA—A Landscape, with figures, cattle
 BO0624_66050,403539,674,753,"| A Portrait of a Gentleman in armour with white ruff,in gilt frame 27 in.by 22in.                                                | in. ges    |",1387,97.7,False,none,,,,,
 BO0624_66050,403540,675,754,"| A Portrait of a Gentleman,temp. Queen Anne,in oval carved and gilt frame 29 in.by 24 in.                                        | ime n.     |",1388,97.9,False,none,,,,,
 BO0624_66050,403541,676,755,"| The companion Portrait of a Lady,in oval carved gilt frame 29 in. by 24 in.                                                     | ry, n. of  |",1389,97.6,False,none,,,,,
-BO0624_66050,403542,677,756,"| A Portrait of Sir John Scudamore,d.1684,in gilt frame 27in.by 24 in.                                                            | led        |",1390,97.3,False,none,,,,,
-BO0624_66050,403543,678,757,"| A Portrait of Rowland Scudamore,d.1660,in gilt frame 27 in. by 24in.                                                            | 以. 71,     |",1391,97.3,False,none,,,,,
+BO0624_66050,403542,677,756,"| A Portrait of Sir John Scudamore,d.1684,in gilt frame 27in.by 24 in.                                                            | led        |",1390,97.3,False,none,,,,,Sec. XVII
+BO0624_66050,403543,678,757,"| A Portrait of Rowland Scudamore,d.1660,in gilt frame 27 in. by 24in.                                                            | 以. 71,     |",1391,97.3,False,none,,,,,Sec. XVII
 BO0624_66050,403544,679,758,"| WILLIAM HoARE—A Portrait of Philip,fourth Earl of Chesterfield, in carved gilt frame 34 in.by 27in.                             | gilt       |",1392,98.1,False,none,,,,,
 BO0624_66050,403545,680,759,"| A portrait of Sir John Brydges of Cobberley as a youth, on panel,in gilt frame 35 in.by 27 in.                                  | #. sh, ilt |",1393,98.0,False,none,,,,,
 BO0624_66050,403546,681,760,"| KNELLERA PORTRAIT OF MARY,DUCHESS OF CHANDOS, with her son the Marquis of Carnarvon,in gilt frame 52 in.by 52 in.               | of         |",1394,98.3,False,none,,,,,
 BO0624_66050,403547,682,761,"| BowARA portrait of John, first Viscount Scudamore, oval,in a square carved gilt frame 29 in. by 24 in.                          | 'sC        |",1395,98.1,False,none,,,,,
-BO0624_66050,403548,683,762,"| SIR PETER LELY-A THREE-QUARTER LENGTH PORTRAIT OF FRANCES, VISCOUNTESS SCUDAMORE,d. 1694, in carved gilt frame 49 in. by 39 in. |            |",1396,98.4,False,none,,,,,
-BO0624_66050,403549,684,763,"SIR PETER LELY-A THREE-QUARTER LENGTH PORTRAIT OF JoHN,VISCOUNT SCUDAMORE,d.1697,Ambassador to",1397,97.9,False,none,,,,,
+BO0624_66050,403548,683,762,"| SIR PETER LELY-A THREE-QUARTER LENGTH PORTRAIT OF FRANCES, VISCOUNTESS SCUDAMORE,d. 1694, in carved gilt frame 49 in. by 39 in. |            |",1396,98.4,False,none,,,,,Sec. XVII
+BO0624_66050,403549,684,763,"SIR PETER LELY-A THREE-QUARTER LENGTH PORTRAIT OF JoHN,VISCOUNT SCUDAMORE,d.1697,Ambassador to",1397,97.9,False,none,,,,,Sec. XVII
 BO0624_66050,403550,685,764,"Portrait of a Gentleman,in armour, with crimson scarf and white ruff, oval, in square gilt frame 29 in.by 24 in.",1400,98.2,False,none,,,,,
-BO0624_66050,403551,686,765,"LIFE-SIZE PORTRAIT OF FEDERIGO UBALDO,Of UrbinO,d. 1621,in crimson costume,holding a sword,in Florentine",1401,98.1,False,none,,Scuola Fiorentina,,,
+BO0624_66050,403551,686,765,"LIFE-SIZE PORTRAIT OF FEDERIGO UBALDO,Of UrbinO,d. 1621,in crimson costume,holding a sword,in Florentine",1401,98.1,False,none,,Scuola Fiorentina,,,Sec. XVII
 BO0624_66050,403552,687,766,"THE cOMPANION PICTUREClaudia de′ Medici, wife of the",1403,96.2,False,none,,,,,
 BO0624_66050,403553,688,767,- above 76 in.by 50 in.,1405,100.0,False,none,,,,,
 BO0624_66050,403554,689,768,"A full-length portrait of Sir John Packington, in doublet, trunk and hose,holding sword and cap,in gilt frame ft.6by4ft.1",1407,93.0,False,none,,,,,
 BO0624_66050,403555,690,769,"The companion pictureDorothy, wife of the above 6ft.6by3ft.9",1411,96.7,False,none,,,,,
-BO0624_66050,403556,691,770,"- VAN DYCK-A FULL-LENGTH PORTRAIT OF SIR JAMES ScUDAMORE,d.1619,in armour,holding a lance,with plumed helmet,charger,etc.in landscape,gilt frame in. by 60 in.",1413,95.9,False,none,VAN DYCK ANTON,,,,
-BO0624_66050,403557,692,771,"A three-quarter length portrait of John Scudamore, d.1713,",1418,96.6,False,none,,,,,
-BO0624_66050,403558,693,772,"A three-quarter length portrait of James Scudamore, d.1668, in landscape, in carved gilt frame 49 in.by 39 in.",1420,98.1,False,none,,,,,
-BO0624_66050,403559,694,773,"Portrait of Dorothy, Lady Chandos,1572, in jewelled dress and ruff, with dog, in gilt frame 35 in.by 27 in.",1421,98.1,False,none,,,,,
+BO0624_66050,403556,691,770,"- VAN DYCK-A FULL-LENGTH PORTRAIT OF SIR JAMES ScUDAMORE,d.1619,in armour,holding a lance,with plumed helmet,charger,etc.in landscape,gilt frame in. by 60 in.",1413,95.9,False,none,VAN DYCK ANTON,,,,Sec. XVII
+BO0624_66050,403557,692,771,"A three-quarter length portrait of John Scudamore, d.1713,",1418,96.6,False,none,,,,,Sec. XVIII
+BO0624_66050,403558,693,772,"A three-quarter length portrait of James Scudamore, d.1668, in landscape, in carved gilt frame 49 in.by 39 in.",1420,98.1,False,none,,,,,Sec. XVII
+BO0624_66050,403559,694,773,"Portrait of Dorothy, Lady Chandos,1572, in jewelled dress and ruff, with dog, in gilt frame 35 in.by 27 in.",1421,98.1,False,none,,,,,Sec. XVI
 BO0624_66050,403560,695,774,"A portrait of a Gentleman, in crimson coat and cloak, in gilt frame 50 in.by 39 in.",1422,97.6,False,none,,,,,
 BO0624_66050,403561,696,775,"VAN LINT-ST.ANNE TEACHING THE VIRGIN TO READ,an important work, in gilt frame 92 in.by 78 in.",1423,97.8,False,none,,,,,
 BO0624_66050,403562,697,776,"DuTcH ScHooL—Joseph selling corn in Egypt, in gilt frame 33 in.by 48 in.",1426,97.2,False,none,,,,,
 BO0624_66050,403563,698,778,"VAN DYCK—LIFE-SIZE PoRTRAIT GROUP of John Cecil, Earl of Exeter, and his two brothers. TheEarl to theright in red costume,centrefigure seatedplayinga lute,thirdfgure on left leaning over a brace of greyhounds,in gilt frame 84 in. by 80 in.",1427,99.2,False,none,VAN DYCK ANTON,,,,
 BO0624_66050,403564,699,779,"ABRAHAM BLOEMAERT-St.John preaching in the Wilderness, in gilt frame 34 in. by 43 in.",1428,97.6,False,none,,,,,
 BO0624_66050,403565,700,780,"A portrait of Sir Arthur Porter, holding a book, in",1429,96.1,False,none,,,,,
-BO0624_66050,403566,701,781,"SIR GoDFREY KNELLER-Half-length portrait of James, Duke of Chandos, d.1744, in state robes, in gilt frame 42 in.by 40 in.",1431,98.3,False,none,,,,,
-BO0624_66050,403567,702,782,"- VAN Dyck (after)-Full-length portrait of Sir John Brydges of Wilton Castle,d.1651,in armour, in carved gilt frame 92 in. by 56 in.",1433,100.0,False,none,VAN DYCK ANTON,,,,
+BO0624_66050,403566,701,781,"SIR GoDFREY KNELLER-Half-length portrait of James, Duke of Chandos, d.1744, in state robes, in gilt frame 42 in.by 40 in.",1431,98.3,False,none,,,,,Sec. XVIII
+BO0624_66050,403567,702,782,"- VAN Dyck (after)-Full-length portrait of Sir John Brydges of Wilton Castle,d.1651,in armour, in carved gilt frame 92 in. by 56 in.",1433,100.0,False,none,VAN DYCK ANTON,,,,Sec. XVII
 BO0624_66050,403568,703,783,"SIR PETER LELY (after)The companion picture—Mary, wife of the above,in carved gilt frame 92 in.by 56 in.",1434,98.1,False,none,,,,,
-BO0624_66050,403569,704,784,"A three-quarter length portrait on panel of Sibill, wife of Sir John Scudamore, d.1590, in black gown with jewelled collar,and necklace of pearls,in carved gilt frame in. by 31 in.",1435,95.3,False,none,,,,,
-BO0624_66050,403570,705,785,"The companion portrait of Sir John Scudamore, d.1571,",1439,96.2,False,none,,,,,
-BO0624_66050,403571,706,786,"Full-length portrait of Sir John Scudamore, d.1623, in gilt",1441,96.6,False,none,,,,,
-BO0624_66050,403572,707,787,"wife of Sir Robert Cotton of Combermere, in carved gilt frame 49 in. by 39 in. A THoMAs HuDsoN-A portrait of James Brydges, Duke of Chandos, d.1789,in gilt frame 49 in. by 40 in.",1444,70.6,False,none,SIR THOMAS LAWRENCE,,,,
+BO0624_66050,403569,704,784,"A three-quarter length portrait on panel of Sibill, wife of Sir John Scudamore, d.1590, in black gown with jewelled collar,and necklace of pearls,in carved gilt frame in. by 31 in.",1435,95.3,False,none,,,,,Sec. XVI
+BO0624_66050,403570,705,785,"The companion portrait of Sir John Scudamore, d.1571,",1439,96.2,False,none,,,,,Sec. XVI
+BO0624_66050,403571,706,786,"Full-length portrait of Sir John Scudamore, d.1623, in gilt",1441,96.6,False,none,,,,,Sec. XVII
+BO0624_66050,403572,707,787,"wife of Sir Robert Cotton of Combermere, in carved gilt frame 49 in. by 39 in. A THoMAs HuDsoN-A portrait of James Brydges, Duke of Chandos, d.1789,in gilt frame 49 in. by 40 in.",1444,70.6,False,none,SIR THOMAS LAWRENCE,,,,Sec. XVIII
 BO0624_66050,403573,708,788,- 789,1446,100.0,False,none,,,,,
 BO0624_66050,403574,709,792,"Portraits of Philip Stanhope, second Earl of Chesterfield, in. by 43 in.",1450,87.5,False,none,,,,,
 BO0624_66050,403575,710,793,"PORTRAITOF JANE,WIFEOF JAMES BRYDGES, of Pinner, daughter and co-heiress of the Marquis of seated in a garden and holding a lap dog, in carved gilt",1453,98.6,False,none,,,,,
@@ -713,26 +713,26 @@ BO0624_66050,403576,711,794,"FRANCIS HAYMANA PORTRAIT OF CATHERINE STANHOPE, sis
 BO0624_66050,403577,712,795,"A portrait of a Lady,in black dress with lace collar, in carved gilt frame 29 in. by 24 in.",1456,97.8,False,none,,,,,
 BO0624_66050,403578,713,796,"A portrait group of Philip Stanhope, third Earl of Chesterfeld, and his wife Lady Elizabeth Saville,with their three in. by 90 in.",1457,93.4,False,none,,,,,
 BO0624_66050,403579,714,797,"Portrait of a Stanhope, in carved gilt frame 29in. by 24in.",1462,96.6,False,none,,,,,
-BO0624_66050,403580,715,798,"Portrait of John Brydges, Marquis of Carnarvon, d. 1727, in a square carved gilt frame oval,29 in.by 22 in.",1463,98.1,False,none,,,,,
-BO0624_66050,403581,716,799,"JoHN VANLooFrances, wife of Henry Somerset, Duke of Beaufort, d. 1749, in low crimson bodice, in carved gilt frame 35 in.by 27 in.",1464,98.4,False,none,,,,,
-BO0624_66050,403582,717,800,"A portrait of Catherine, wife of Edwyn Francis Stanhope, d.1810, in blue dress with pearl necklace, holding a basket of fowers, in gilt frame 49 in. by 39 in.",1465,98.7,False,none,,,,,
-BO0624_66050,403583,718,801,"SIR ANToNIo MoREPortrait of the Hon.Charles Brydges of Wilton Castle, d. 1619, in cuirass with ruff, in carved gilt frame 35 in.by 27 in.",1466,98.5,False,none,,,,,
+BO0624_66050,403580,715,798,"Portrait of John Brydges, Marquis of Carnarvon, d. 1727, in a square carved gilt frame oval,29 in.by 22 in.",1463,98.1,False,none,,,,,Sec. XVIII
+BO0624_66050,403581,716,799,"JoHN VANLooFrances, wife of Henry Somerset, Duke of Beaufort, d. 1749, in low crimson bodice, in carved gilt frame 35 in.by 27 in.",1464,98.4,False,none,,,,,Sec. XVIII
+BO0624_66050,403582,717,800,"A portrait of Catherine, wife of Edwyn Francis Stanhope, d.1810, in blue dress with pearl necklace, holding a basket of fowers, in gilt frame 49 in. by 39 in.",1465,98.7,False,none,,,,,Sec. XIX
+BO0624_66050,403583,718,801,"SIR ANToNIo MoREPortrait of the Hon.Charles Brydges of Wilton Castle, d. 1619, in cuirass with ruff, in carved gilt frame 35 in.by 27 in.",1466,98.5,False,none,,,,,Sec. XVII
 BO0624_66050,403584,719,802,"SIR GoDFREY KNELLER-A half-length portrait of Elizabeth, wife of Henry Mackworth, in crimson robe, in a square gilt frame 29 in. by 24 in.",1467,98.5,False,none,,,,,
-BO0624_66050,403585,720,803,"SIR GoDFREY KNELLERA half-length portrait of Juliana, wife of Sir John Dolben, Bart., d. 1730, with a blue robe, oval,in a square gilt frame 29 in. by 24 in.",1468,98.7,False,none,,,,,
+BO0624_66050,403585,720,803,"SIR GoDFREY KNELLERA half-length portrait of Juliana, wife of Sir John Dolben, Bart., d. 1730, with a blue robe, oval,in a square gilt frame 29 in. by 24 in.",1468,98.7,False,none,,,,,Sec. XVIII
 BO0624_66050,403586,721,804,in gilt frame,1469,86.7,False,none,,,,,
-BO0624_66050,403587,722,805,"RICHARD HEwETsoN (after)A portrait of Admiral Sir Henry Edwyn Stanhope, Bart., d.1814,in carved gilt frame 48 in. by 40 in.",1473,98.3,False,none,,,,,
-BO0624_66050,403588,723,806,"A portrait of Chas. Howard, eleventh Duke of Norfolk, d. 1815,in gilt frame 34 in.by 27in.",1475,97.7,False,none,,,,,
-BO0624_66050,403589,724,807,"A portrait in armour of George Brydges, sixth Lord Chandos of Sudeley, d.1654, in gilt frame 36 in.by 28 in.",1479,100.0,False,none,,,,,
+BO0624_66050,403587,722,805,"RICHARD HEwETsoN (after)A portrait of Admiral Sir Henry Edwyn Stanhope, Bart., d.1814,in carved gilt frame 48 in. by 40 in.",1473,98.3,False,none,,,,,Sec. XIX
+BO0624_66050,403588,723,806,"A portrait of Chas. Howard, eleventh Duke of Norfolk, d. 1815,in gilt frame 34 in.by 27in.",1475,97.7,False,none,,,,,Sec. XIX
+BO0624_66050,403589,724,807,"A portrait in armour of George Brydges, sixth Lord Chandos of Sudeley, d.1654, in gilt frame 36 in.by 28 in.",1479,100.0,False,none,,,,,Sec. XVII
 BO0624_66050,403590,725,808,"A half-length portrait of a Lady in early Jacobean costume, in gilt frame 21 in.by 19 in.",1481,97.8,False,none,,,,,
-BO0624_66050,403591,726,809,"A portrait of Elizabeth, wife of Richard Gamon of Datchworthbury,d.1786,in carved gilt frame 35 in.by 28 in.",1483,98.1,False,none,,,,,
+BO0624_66050,403591,726,809,"A portrait of Elizabeth, wife of Richard Gamon of Datchworthbury,d.1786,in carved gilt frame 35 in.by 28 in.",1483,98.1,False,none,,,,,Sec. XVIII
 BO0624_66050,403592,727,810,"A portrait of a Divine with wig (temp. Queen Anne),in gilt frame 28 in. by 24 in.",1485,97.4,False,none,,,,,
 BO0624_66050,403593,728,811,"RAPHAEL (after)—A half-length portrait of the artist,on panel, in ebonized frame 16 in. by 12 in.",1487,97.9,False,none,SANZIO RAFFAELLO,,,,
-BO0624_66050,403594,729,812,"CoRNELIUs JANssEN (after)-Athree-quarter-length portrait of Katherine Brages Countess of Bedford, d. 1654,in gilt frame 29 in. by 27 in.",1489,98.5,False,none,,,,,
+BO0624_66050,403594,729,812,"CoRNELIUs JANssEN (after)-Athree-quarter-length portrait of Katherine Brages Countess of Bedford, d. 1654,in gilt frame 29 in. by 27 in.",1489,98.5,False,none,,,,,Sec. XVII
 BO0624_66050,403595,730,813,"RICHARD HEWETsoN (after)—A half-length portrait of Sheffield Grace, Esq., in gilt frame 35in.by 28 in.",1491,98.0,False,none,,,,,
 BO0624_66050,403596,731,814,"A half-length portrait of Frederick V, Elector Palatine, King of Bohemia, in armour, with lace collar and crimson sash,on panel,in gilt frame 24 in.by 17 in.",1493,98.7,False,none,,,,,
-BO0624_66050,403597,732,815,"A half-length portrait of the Hon. Henry Brydges, Arch- deacon of Rochester, d.1728,in carved gilt frame 36 in.by 27in.",1495,98.3,False,none,,,,,
+BO0624_66050,403597,732,815,"A half-length portrait of the Hon. Henry Brydges, Arch- deacon of Rochester, d.1728,in carved gilt frame 36 in.by 27in.",1495,98.3,False,none,,,,,Sec. XVIII
 BO0624_66050,403598,733,816,"A portrait of Charles Lewis, Duke of Bohemia, in armour, in.by 17 in.",1497,86.9,False,none,,,,,
-BO0624_66050,403599,734,817,"A portrait of Frances Clinton, wife of Giles Brydges, d. 1589, in a ruff with pearl necklace, on panel, in gilt frame 35 in.by 27 in.",1503,98.4,False,none,,,,,
+BO0624_66050,403599,734,817,"A portrait of Frances Clinton, wife of Giles Brydges, d. 1589, in a ruff with pearl necklace, on panel, in gilt frame 35 in.by 27 in.",1503,98.4,False,none,,,,,Sec. XVI
 BO0624_66050,403600,735,818,in carved gilt frame,1505,90.9,False,none,,,,,
 BO0624_66050,403601,736,819,"A paintingThe Park, Holme Lacy,with the mansion in background,in carved gilt frame 20 in. by 26 in.",1506,98.0,False,none,,,,,
 BO0624_66050,403602,737,820,"A view of the mansion, Holme Lacy, in gilt frame in. by 27 in.",1507,85.2,False,none,,,,,
@@ -740,7 +740,7 @@ BO0624_66050,403603,738,821,- 822,1513,100.0,False,none,,,,,
 BO0624_66050,403604,739,823,- in gilt frame 60 in. by 32 in.,1515,100.0,False,none,,,,,
 BO0624_66050,403605,740,824,"DANIEL MyTENs (after)—A portrait of Elizabeth, wife of",1516,96.2,False,none,,,,,
 BO0624_66050,403606,741,825,"CoRNELIUs KEvIL—A portrait of Giles Brydges, third in.by 27 in.",1518,86.0,False,none,,,,,
-BO0624_66050,403607,742,826,"VAN DyckA portrait of Frances Brydges, wife of first Earl of Exeter, d.1662,ingilt frame 34 in.by 26in. n Dining Room.",1523,91.7,False,none,,,,,
+BO0624_66050,403607,742,826,"VAN DyckA portrait of Frances Brydges, wife of first Earl of Exeter, d.1662,ingilt frame 34 in.by 26in. n Dining Room.",1523,91.7,False,none,,,,,Sec. XVII
 BO0624_66050,403608,743,827,"The carved decoration to overmantel, with lobsters, dead game, shells, wheat-ears, etc., in bold relief about 9 ft.high,8f.wide,the top 2ft.deep and the sides 1ft.8wide",1529,98.8,False,positional,Grimling Gibbons,,,,
 BO0624_66050,403609,744,828,827),1530,60.0,False,positional,Grimling Gibbons,,,,
 BO0624_66050,403610,745,829,"The carved decoration to overmantel, of fowers, fruit,",1535,96.2,False,positional,Grimling Gibbons,,,,
@@ -904,7 +904,7 @@ BO0624_66050,403767,902,992,"993 Sundry glass, pieces",1857,100.0,False,position
 BO0624_66050,403768,903,994,"A similar lot A similar lot China, pieces",1861,49.1,False,positional,,Arundel,,,
 BO0624_66050,403769,904,997,"A 5 ft. brass mounted wire fender,brass mounted coal purdonium, set of steel implements, and a bordered hearth rug",1868,98.2,False,positional,,Arundel,,,
 BO0624_66050,403770,905,998,"A green ground Woodstock carpet, 17 ft. by 14 ft. 6, and a",1869,96.4,False,positional,,Arundel,,,
-BO0624_66050,403771,906,999,"1000 Eight carved rose-wood frame dining-room chairs, seats covered in cretonne",1874,100.0,False,positional,,Arundel,POLTRONE,,
+BO0624_66050,403771,906,999,"1000 Eight carved rose-wood frame dining-room chairs, seats covered in cretonne",1874,100.0,False,positional,,Arundel,POLTRONE,,Sec. XI
 BO0624_66050,403772,907,1002,"A mahogany frame settee, with loose squab and 2 bolsters, upholstered in canvas,with loose cretonne cover,6ft.wide ebonized stool, on cabriole supports",1877,84.5,False,positional,,Arundel,BIANCHERIA,,
 BO0624_66050,403773,908,1003,"A square back easy chair, in tapestry, and a rose-wood stool, top in needlework",1881,96.8,False,positional,,Arundel,,,
 BO0624_66050,403774,909,1004,"with 8 drawers under,4ft.9 wide",1883,92.5,False,positional,,Arundel,,,
@@ -918,12 +918,12 @@ BO0624_66050,403781,916,1012,"A bordered green chenille table cover, a bordered 
 BO0624_66050,403782,917,1013,"A clock in inlaid case, 7 in.high, a pair of 8 in. bras",1895,95.4,False,positional,,Arundel,,,
 BO0624_66050,403783,918,1014,table,1900,66.7,False,positional,CONSTABLE J. R. A.,Arundel,,,
 BO0624_66050,403784,919,1015,Four 11 ft. forms,1901,86.5,False,positional,,Arundel,,,
-BO0624_66050,403785,920,1016,"- 1017 A mahogany frame scroll-end couch, an oak stool, a set of 3-tread steps, and 2 mahogany hanging bookcases",1903,100.0,False,positional,,Arundel,,,
+BO0624_66050,403785,920,1016,"- 1017 A mahogany frame scroll-end couch, an oak stool, a set of 3-tread steps, and 2 mahogany hanging bookcases",1903,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403786,921,1018,"Tile pattern linoleum, about 37 square yds.",1905,94.3,False,positional,,Arundel,,,
 BO0624_66050,403787,922,1019,"A painted frame deal top table, with drawers in frieze and platform under, 10 ft. 6 long A painted tin-lined roasting screen, 6 ft. wide A 4 ft. 6 deal top table, and a 3 ft.3 painted table",1909,62.5,False,positional,,Arundel,,,
-BO0624_66050,403788,923,1022,"- 1023 A Windsor arm chair, 3 chairs, and a cane seat chair",1913,100.0,False,positional,,Arundel,,,
+BO0624_66050,403788,923,1022,"- 1023 A Windsor arm chair, 3 chairs, and a cane seat chair",1913,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403789,924,1024,"A deal 2-tier table, 8 ft. 10 long",1915,92.8,False,positional,,Arundel,,,
-BO0624_66050,403790,925,1025,"- 1026 A 4 ft. 6 painted four bin, and a quantity of kitchen utensils",1917,100.0,False,positional,,Arundel,,,
+BO0624_66050,403790,925,1025,"- 1026 A 4 ft. 6 painted four bin, and a quantity of kitchen utensils",1917,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403791,926,1027,"An oak chest of 5 drawers, 3 ft. 6 wide",1922,93.7,False,positional,,Arundel,,,
 BO0624_66050,403792,927,1028,"A mahogany kneehole writing table, fitted 9 drawers, 4 ft. wide",1923,96.0,False,positional,,Arundel,,,
 BO0624_66050,403793,928,1029,"A 2 ft. 6 mahogany Pembroke table, fitted drawer",1924,94.8,False,positional,,Arundel,,,
@@ -940,12 +940,12 @@ BO0624_66050,403803,938,1042,"A brass Corinthian column adjustable standard lamp
 BO0624_66050,403804,939,1043,"A brass column adjustable standard lamp, 4 ft. 6 high, and a wrought iron and copper adjustable ditto, 4 ft.high",1947,97.7,False,positional,,Arundel,,,
 BO0624_66050,403805,940,1044,"An ormolu adjustable standard lamp, with Algerian onyx",1949,95.5,False,positional,,Arundel,,,
 BO0624_66050,403806,941,1045,"Two brass table duplex lamps, on square bases, 20 in. high",1950,95.7,False,positional,,Arundel,,,
-BO0624_66050,403807,942,1046,"1047 Two copper table lamps, 18 in. high",1954,100.0,False,positional,,Arundel,,,
+BO0624_66050,403807,942,1046,"1047 Two copper table lamps, 18 in. high",1954,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403808,943,1048,"Five brass Corinthian column lamps, with glass receivers, 14in.high Six ditto Six metal table lamps, 10 in. high",1960,73.0,False,positional,,Arundel,OGGETTI IN METALLO,,
 BO0624_66050,403809,944,1051,"Four Hinks' patent hanging lamps, with tin refectors",1966,95.2,False,positional,,Arundel,,,
-BO0624_66050,403810,945,1052,1053 Nine ditto,1970,100.0,False,positional,,Arundel,,,
+BO0624_66050,403810,945,1052,1053 Nine ditto,1970,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403811,946,1054,"A hanging billiard light, and 7 cut glass receivers",1974,95.2,False,positional,,Arundel,,,
-BO0624_66050,403812,947,1056,"- 1055 Three brass duplex lamps, 10 in. high, and 6 lamps (various)",1977,100.0,False,positional,,Arundel,,,
+BO0624_66050,403812,947,1056,"- 1055 Three brass duplex lamps, 10 in. high, and 6 lamps (various)",1977,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403813,948,1057,A brass heating stove with ruby glass chimneys,1978,94.8,False,positional,,Arundel,,,
 BO0624_66050,403814,949,1059,"Two Italian majolica cockerels as jardinieres, 21 in. high Three quaint old painted tile plaques, 2 ft. 9 by 1ff. 10 Two majolica cockerels, 23 in.high",1986,54.9,False,positional,,Arundel,,,
 BO0624_66050,403815,950,1062,"A Speedwell patent crystal churn, with glass receivers",1989,95.5,False,positional,,Arundel,,,
@@ -962,20 +962,20 @@ BO0624_66050,403825,960,1074,"A pair of 11-tread steps, and a pair of 12-tread s
 BO0624_66050,403826,961,1075,"A piece of oak panelling,6ft.by 6ft.3",2025,93.7,False,positional,,Arundel,,,
 BO0624_66050,403827,962,1076,"Two painted iron frame garden seats, 6ft.6 long, and another,6 ft.long",2029,100.0,False,positional,,Arundel,,,
 BO0624_66050,403828,963,1077,"Two painted iron frame garden seats,5ft. long,and another, 6ft.long",2031,96.3,False,positional,,Arundel,,,
-BO0624_66050,403829,964,1079,"1078 A painted wood garden seat, 10 ft. 8 long brass-bound octagon jardiniere, 24 in. wide",2035,100.0,False,positional,,Arundel,,,
+BO0624_66050,403829,964,1079,"1078 A painted wood garden seat, 10 ft. 8 long brass-bound octagon jardiniere, 24 in. wide",2035,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403830,965,1080,"Two painted wood garden seats, 4 ft. 6 wide",2039,94.3,False,positional,,Arundel,,,
-BO0624_66050,403831,966,1081,1082,2043,100.0,False,positional,,Arundel,,,
+BO0624_66050,403831,966,1081,1082,2043,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403832,967,1083,"A painted high-back garden chair, and a 4 ft. painted table",2047,95.8,False,positional,,Arundel,,,
-BO0624_66050,403833,968,1084,"1085 Three painted water carts, by S. OwENs &amp; Co., London",2051,100.0,False,positional,,Arundel,,,
+BO0624_66050,403833,968,1084,"1085 Three painted water carts, by S. OwENs &amp; Co., London",2051,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403834,969,1086,"Six coal hods, 6 cocoa fibre mats, and 2 bamboo tables",2057,95.4,False,positional,,Arundel,,,
 BO0624_66050,403835,970,1087,A 32-rung ladder,2058,86.5,False,positional,,Arundel,,,
 BO0624_66050,403836,971,1088,A 29 ditto,2059,80.0,False,positional,,Arundel,,,
 BO0624_66050,403837,972,1089,"A 2-wheel hose reel, lengths of leather hose, 2 lengths of canvas hose, 2 copper nozzles, and 2 copper stand pipes",2060,97.8,False,positional,,Arundel,,,
-BO0624_66050,403838,973,1090,"- 1091 A 4ft. wood tub on 4 supports, and an 18in. wringing",2065,100.0,False,positional,,Arundel,,,
+BO0624_66050,403838,973,1090,"- 1091 A 4ft. wood tub on 4 supports, and an 18in. wringing",2065,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403839,974,1092,"Two large wood tubs, 4 standing boards, and a set of 4-tread steps",2068,96.2,False,positional,,Arundel,,,
 BO0624_66050,403840,975,1093,"A 5ft. deal table,a deal tub stand, and a deal clothes carrier",2069,96.0,False,positional,,Arundel,,,
 BO0624_66050,403841,976,1094,"An antique oak cupboard, enclosed by panelled doors, 4ft.6wide",2070,96.0,False,positional,,Arundel,,,
-BO0624_66050,403842,977,1095,- 1096,2074,100.0,False,positional,,Arundel,,,
+BO0624_66050,403842,977,1095,- 1096,2074,100.0,False,positional,,Arundel,,,Sec. XI
 BO0624_66050,403843,978,1097,"A box mangle,9 ft.wide",2076,89.8,False,positional,,Arundel,,,
 BO0624_66050,403844,979,1098,- A5ft.6deal table,2078,100.0,False,positional,,Arundel,,,
 BO0624_66050,403845,980,1099,"Two clothes horses,1 sleeve board,2 shirt boards, 1 skirt",2079,95.7,False,positional,,Arundel,,,

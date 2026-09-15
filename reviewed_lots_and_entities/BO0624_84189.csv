@@ -2,8 +2,8 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_84189,34456,1,2,## ECOLE ALLEMANDE ## KAUFFMANN (Maria-Angelica),36,75.0,False,title_direct,KAUFFMANN (Maria-Angelica),ECOLE ALLEMANDE,,,
 BO0624_84189,34457,2,3,Jeune femme au regard douloureux,40,97.0,False,positional,KAUFFMANN (Maria-Angelica),,,,
 BO0624_84189,34458,3,4,Patre faisant paitre ses boeufs sur la falaise,50,97.9,False,positional,KLENGEL (Johann-Christian),,,,
-BO0624_84189,34459,4,1758,1820,68,61.5,False,positional,WOCHER(Marquart),,,,
-BO0624_84189,34460,5,6,"Signe a droite,en bas, sur une epave: M.W., 1782.",74,100.0,False,positional,WOCHER(Marquart),,,,
+BO0624_84189,34459,4,1758,1820,68,61.5,False,positional,WOCHER(Marquart),,,,Sec. XIX
+BO0624_84189,34460,5,6,"Signe a droite,en bas, sur une epave: M.W., 1782.",74,100.0,False,positional,WOCHER(Marquart),,,,Sec. XVIII
 BO0624_84189,34461,6,10,11,79,100.0,False,positional,WOCHER(Marquart),,,,
 BO0624_84189,34462,7,12,"| Dandy a cheval, épisode de chasse Pendant du suivant. Toile,H.:35;L.:50. |",126,97.8,False,positional,,ECOLE ANGLAISE,,,
 BO0624_84189,34463,8,15,| La chasse : cavaliers en habit rouge                                     |,128,95.8,False,positional,,ECOLE ANGLAISE,,,
@@ -61,7 +61,7 @@ BO0624_84189,34514,59,77,"## TENIERS Ie Jeune (David) l est assis de trois quart
 BO0624_84189,34515,60,78,"Une vieille paysanne, un verre a la main",794,96.3,False,positional,TENIERS le Jeune (David),,,,
 BO0624_84189,34516,61,79,80,804,100.0,False,positional,TENIERS le Jeune (David) (Ecole de),Scuola di Monaco,,,
 BO0624_84189,34517,62,81,## TYSSENS (August),817,100.0,False,title_direct,TYSSENS (August),,,,
-BO0624_84189,34518,63,1662,1722.,819,61.5,False,positional,TYSSENS (August),,,,
+BO0624_84189,34518,63,1662,1722.,819,61.5,False,positional,TYSSENS (August),,,,Sec. XVIII
 BO0624_84189,34519,64,83,Les vendeurs de poissons au bord de l'eau,839,96.5,False,positional,VERDUSSEN (Jan-Pieter),,,,
 BO0624_84189,34520,65,84,87 ## VRANCX ou FRANCKEN (Sebastiaen),843,95.1,False,title_direct,VRANCX ou FRANCKEN (Sebastiaen),Famiglia Francken,,,
 BO0624_84189,34521,66,85,La passerelle au-dessus du vallon,860,95.7,False,positional,VRANCX ou FRANCKEN (Sebastiaen),,,,
@@ -74,20 +74,20 @@ BO0624_84189,34527,72,94,## ECOLE FRANCAISE,919,100.0,False,title_direct,,ECOLE 
 BO0624_84189,34528,73,I,"l est represente jusqu'a la poitrine de trois quarts a droite,en habit bleu fonce ouvert sur un gilet blanc. ll a la figure rasee et les cheveux gris.",927,99.7,False,positional,BOILLY(Louis-LeopoId),,,,
 BO0624_84189,34529,74,96,66 ## CHERON (Elisabeth-Sophie) (Attribue a),948,95.8,False,title_direct,CHERON (Elisabeth-Sophie) (Attribue a),,,,
 BO0624_84189,34530,75,97,"La Comedie lyrique, composition decorative",952,96.5,False,positional,CHERON (Elisabeth-Sophie) (Attribue a),,,,
-BO0624_84189,34531,76,98,"Ne a Saint-Hippolyte en 1621,mort en 1676.-Eleve de son pere.",960,100.0,False,positional,"COURTOIS (Jacques, dit le Bourguignon)",,,,
+BO0624_84189,34531,76,98,"Ne a Saint-Hippolyte en 1621,mort en 1676.-Eleve de son pere.",960,100.0,False,positional,"COURTOIS (Jacques, dit le Bourguignon)",,,,Sec. XVII
 BO0624_84189,34532,77,102,## DELERIVE(Albert),985,100.0,False,title_direct,DELERIVE(Albert),,,,
 BO0624_84189,34533,78,101,Portrait equestre d'un chef d'armee,989,94.6,False,positional,DELERIVE(Albert),,,,
 BO0624_84189,34534,79,104,L'Amour,1023,100.0,False,positional,GERARD (Baron Francois),,,,
 BO0624_84189,34535,80,105,105 ## LEPICIE (Nicolas-Bernard),1030,92.0,False,title_direct,LEPICIE (Nicolas-Bernard),,,,
 BO0624_84189,34536,81,106,Esquisse.,1042,100.0,False,positional,LoO (Jean-Baptiste van-)(Attribue a),,,,
 BO0624_84189,34537,82,107,"De trois quarts a gauche, le masque aux tons vifs dans l'encadre-",1046,100.0,False,positional,LoO (Jean-Baptiste van-)(Attribue a),,,,
-BO0624_84189,34538,83,1684,1745.,1048,61.5,False,positional,LoO (Jean-Baptiste van-)(Attribue a),,,,
+BO0624_84189,34538,83,1684,1745.,1048,61.5,False,positional,LoO (Jean-Baptiste van-)(Attribue a),,,,Sec. XVIII
 BO0624_84189,34539,84,111,112,1073,100.0,False,positional,NATOIRE (Attribue a),,,,
 BO0624_84189,34540,85,115,## OUDRY (J.-B.) (Ecole d'),1077,100.0,False,title_direct,OUDRY (J.-B.),,,,
 BO0624_84189,34541,86,109,Poules effrayees par un chien et un aigle,1079,95.3,False,positional,OUDRY (J.-B.) (Ecole d'),,,,
 BO0624_84189,34542,87,I,(Ecole d'),1085,87.5,False,title_direct,OUDRY (J.-B.) (Ecole d'),Scuola di Teniers,,,
 BO0624_84189,34543,88,410,Chien venant de capturer un canard sauvage,1087,95.5,False,positional,OUDRY (J.-B.),,,,
-BO0624_84189,34544,89,114,## SWEBACH le fils (Edouard) 1870.,1122,90.2,False,title_direct,SWEBACH le fils (Edouard),,,,
+BO0624_84189,34544,89,114,## SWEBACH le fils (Edouard) 1870.,1122,90.2,False,title_direct,SWEBACH le fils (Edouard),,,,Sec. XIX
 BO0624_84189,34545,90,115,La reparation de la Galere,1138,100.0,False,positional,VERNET (Claude-Joseph),,,,
 BO0624_84189,34546,91,116,Paysage de mer aux temps antiques,1144,94.3,False,positional,VERNET (Joseph),,STAMPE E INCISIONI,,
 BO0624_84189,34547,92,117,118,1166,100.0,False,positional,,ECOLE FRANCAISE,,,
@@ -146,7 +146,7 @@ BO0624_84189,34599,144,176,sirtoutla maniere dePhilipsWouwerman.,1809,100.0,Fals
 BO0624_84189,34600,145,177,dePalamedes et deBylert.,1821,100.0,False,positional,JONGH (Ludolf de) dit Lieve de Longh,,,,
 BO0624_84189,34601,146,178,## Chasse au Sanglier,1835,100.0,False,positional,JONGH (Ludolf de) dit Lieve de Longh,,,,
 BO0624_84189,34602,147,179,Devant une chaumiere un boeuf debout et deux brebis couchees,1848,96.8,False,positional,KLOMP (Aelbert-Jansen),,,,
-BO0624_84189,34603,148,180,"La Halte des chasseurs a la fontaine nscrit en 1636 comme membre de la Gilde de St-Luc,a La Haye,ou il travailla jusqu'en 1656. 1l vivait encore en 1672.",1870,86.5,False,positional,LELIENBERGH (Cornelis),,,,
+BO0624_84189,34603,148,180,"La Halte des chasseurs a la fontaine nscrit en 1636 comme membre de la Gilde de St-Luc,a La Haye,ou il travailla jusqu'en 1656. 1l vivait encore en 1672.",1870,86.5,False,positional,LELIENBERGH (Cornelis),,,,Sec. XVII
 BO0624_84189,34604,149,181,## Gibier mort,1874,100.0,False,positional,LELIENBERGH (Cornelis),,,,
 BO0624_84189,34605,150,182,Cavaliers dans une cour d'auberge,1885,94.3,False,positional,LIN (Hermann van),,,,
 BO0624_84189,34606,151,184,"Le chargement des bateaux sur un quai par des bagnards l fit partie de la confrerie de St-Luc. On trouve des tableaux de lui,a Dresde, Carlsruhe,Munich,Schewerin et Vienne.",1899,81.0,False,positional,LINGELBACH,,,,
@@ -154,8 +154,8 @@ BO0624_84189,34607,152,185,Cavaliers a la fontaine ## LUNDENS (Gerrit),1905,70.8
 BO0624_84189,34608,153,186,| Lavandiere dans une etable   |,1916,92.9,False,positional,LUNDENS (Gerrit),,,,
 BO0624_84189,34609,154,187,| Fermiere et sa vache         |,1918,90.9,False,positional,LUNDENS (Gerrit),,,,
 BO0624_84189,34610,155,185,"Chemin dans la montagne, paysage boise et figures",1934,96.0,False,positional,LOOTEN (Jan),,,,
-BO0624_84189,34611,156,189,## MAES (Nicolas) 1678.,1939,82.8,False,title_direct,MAES (Nicolas),,,,
-BO0624_84189,34612,157,190,192 1714.,1965,62.5,False,positional,MEYERINGH ou MEYIERING (Aelbert),,,,
+BO0624_84189,34611,156,189,## MAES (Nicolas) 1678.,1939,82.8,False,title_direct,MAES (Nicolas),,,,Sec. XVII
+BO0624_84189,34612,157,190,192 1714.,1965,62.5,False,positional,MEYERINGH ou MEYIERING (Aelbert),,,,Sec. XVIII
 BO0624_84189,34613,158,191,Bergers antiques conduisant leur troupeau,1967,95.3,False,positional,MEYERINGH ou MEYIERING (Aelbert),,STAMPE E INCISIONI,,
 BO0624_84189,34614,159,193,194,1980,100.0,False,positional,MEYERINGH (A.),,,,
 BO0624_84189,34615,160,I,"l est represente a mi-corps, de trois quarts a gauche, en pourpoint noir a creve blanc. Sa barbe en pointe se dessine sur une fraise a tuyautes souples. Il a les cheveux chatain clair coupes court.",1994,99.7,False,positional,MIEREVELT(Ecole de),,,,
@@ -177,13 +177,13 @@ BO0624_84189,34630,175,212,"C'est une nef laterale qui recoit un vif rayon de lu
 BO0624_84189,34631,176,213,"Sur une table recouverte d'une draperie grise, on a depose six petits oiseaux morts et trois peches dont une ouverte.",2183,100.0,False,positional,OVERF (Pieter van),,,,
 BO0624_84189,34632,177,214,"Autour d’une table,des gentilshommes sont assis en compagnie de dames aimables. Au premier plan il en est un qui caresse le menton",2199,100.0,False,positional,PALAMEDES (Antoine),,,,
 BO0624_84189,34633,178,215,216,2204,100.0,False,positional,PALAMEDES (Antoine),,,,
-BO0624_84189,34634,179,1586,1667.,2230,61.5,False,positional,POELENBURGH (Cornelis van),,,,
+BO0624_84189,34634,179,1586,1667.,2230,61.5,False,positional,POELENBURGH (Cornelis van),,,,Sec. XVII
 BO0624_84189,34635,180,217,220,2235,100.0,False,positional,POELENBURGH (Cornelis van),,,,
 BO0624_84189,34636,181,218,Figures antiques dans un paysage arcadien,2239,95.3,False,positional,POELENBURGH (Cornelis van),,STAMPE E INCISIONI,,
 BO0624_84189,34637,182,219,"Barques de peche au large, par une mer agitee",2247,95.7,False,positional,PORCELLIS (Jan),,,,
 BO0624_84189,34638,183,221,"ll est represente jusqu'a la poitrine, presque de face en habit marron ouvert sur un plastron rouge. ll a sur le crane un bonnet de fourrure profondement enfonce et serre par une serviette tordue. Son visage au teint accentue est marque, par la vie difficile, de rides et de bosses; une moustache grisonnante abrite sa bouche lippue. La figure se detache sur un fond neutre.",2267,100.0,False,positional,REMBRANDT,,,,
 BO0624_84189,34639,184,222,## ROMEYN (Willem van),2270,100.0,False,title_direct,ROMEYN (Willem van),,,,
-BO0624_84189,34640,185,224,"Toile,H.:401/2;L.:471/2. 1721?",2282,89.4,False,positional,ROMEYN (Willem van),,,,
+BO0624_84189,34640,185,224,"Toile,H.:401/2;L.:471/2. 1721?",2282,89.4,False,positional,ROMEYN (Willem van),,,,Sec. XVIII
 BO0624_84189,34641,186,225,d'une chandelle,2308,88.2,False,positional,SCHOTANUS (Petrus ou Pouwels),,,,
 BO0624_84189,34642,187,225,## SCHOTANUS nterieur d’'une grange,2325,79.2,False,title_direct,SCHOTANUS,,,,
 BO0624_84189,34643,188,226,Des legumes et des instruments de cuisine groupes au milieu de la grange et formant pyramide. Une vieille femme en caraco rouge apparait a droite dans le chassis ouvert d'une porte.,2329,100.0,False,positional,SNELLINX (Jan),,OGGETTI VARI,,
@@ -198,7 +198,7 @@ BO0624_84189,34651,196,256,Cavalier cheminant le long de la foret,2436,95.0,Fals
 BO0624_84189,34652,197,I,"l est suivi de son chien et, plus loin, on apercoit dans la plaine un autre cavalier accompagne d'un page tenant un faucon.",2438,99.6,False,positional,"SWANEVELD (Herman,dit Herman d'Italie)",,,,
 BO0624_84189,34653,198,237,Circe change les Compagnons d'Ulysse en pourceaux,2446,96.1,False,positional,TEGNAGEL(Jan),,,,
 BO0624_84189,34654,199,I,"l existe encore deux tableaux de Tegnagel,lun dans la galerie du comte de Moltke a Copenhague, l'autre au Rijksmuseum d'Amsterdam (Banquet de la compagnie du",2454,99.7,False,positional,TEGNAGEL(Jan),,,,
-BO0624_84189,34655,200,258,Portrait d'un vieillard ## TORENVLIET (JaCques) ## Vieillard tenant un livre dont il montre le premier feuillet ou on lit cette date : 1679,2475,80.0,False,title_direct,TORENVLIET (JaCques),,,,
+BO0624_84189,34655,200,258,Portrait d'un vieillard ## TORENVLIET (JaCques) ## Vieillard tenant un livre dont il montre le premier feuillet ou on lit cette date : 1679,2475,80.0,False,title_direct,TORENVLIET (JaCques),,,,Sec. XVII
 BO0624_84189,34656,201,241,"Pres d'une cascade une bergere couronne un berger, tandis qu’a gauche on apercoit les troupeaux au paturage.",2499,100.0,False,positional,UIJTENBROECK (Mozes Van),,,,
 BO0624_84189,34657,202,242,Les fous pour une figure des danses de la mort ## VEEN (Dirck de) Les mendiants. Peinture pour une danse de la·mort,2516,60.9,False,title_direct,VEEN (Dirck de),,,,
 BO0624_84189,34658,203,245,Peinture au camaieu.,2542,100.0,False,positional,VEEN (Dirck de),,,,
@@ -223,7 +223,7 @@ BO0624_84189,34676,221,270,| La Flotte par une mer calme                        
 BO0624_84189,34677,222,272,"| WOUWERMANN (d'apres Philips) La Halte au Camp Toile,H.:48;L.:57.1/2. Pendant du suivant.                                                             |",2808,97.6,False,positional,WILLAERTS(Adam),,,,
 BO0624_84189,34678,223,273,"| Le convoi Toile,H.:48; L.: 57 1/2. Pendant du precedent.                                                                                             | ## 276",2809,92.6,False,positional,WILLAERTS(Adam),,,,
 BO0624_84189,34679,224,274,Le Chemineau dans la montagne,2820,93.5,False,positional,WOUWERMANN Jan),,,,
-BO0624_84189,34680,225,1641,1726.,2826,61.5,False,positional,ZORG (Jan-Pietersz),,,,
+BO0624_84189,34680,225,1641,1726.,2826,61.5,False,positional,ZORG (Jan-Pietersz),,,,Sec. XVIII
 BO0624_84189,34681,226,I,nterieur de Cuisine,2828,97.4,False,positional,ZORG (Jan-Pietersz),,,,
 BO0624_84189,34682,227,I,"l est represente de trois quarts a droite,jusqu'aux epaules, ses longs cheveux boucles encadrant son visage vivement éclaire, vetu d'un costume noir sur lequel estrabattu un col de batiste blanche empese,garni depoint coupe et noue par un cordonnetblanc que terminent deux glands de meme couleur.",2838,99.8,False,positional,ZWART(Albert-Gerrits),,,,
 BO0624_84189,34683,228,277,"Toile,H.:43;L.:31. ## ECOLE HOLLANDAISE",2842,68.0,False,title_direct,,ECOLE HOLLANDAISE,,,
@@ -275,24 +275,24 @@ BO0624_84189,34728,273,526,Sainte Elisabeth de Hongrie,3326,93.1,False,positiona
 BO0624_84189,34729,274,327,Pallas Athene couronnant un poete,3336,94.3,False,positional,AMICoNI (Jacques),,,,
 BO0624_84189,34730,275,328,529,3341,100.0,False,positional,AMICoNI (Jacques),,,,
 BO0624_84189,34731,276,550,## BELLUCCI (Antoine),3345,100.0,False,title_direct,BELLUCCI (Antoine),,,,
-BO0624_84189,34732,277,331,Palais et edifices fantastiques 1641.,3373,87.3,False,positional,DESIDERIO,,,,
+BO0624_84189,34732,277,331,Palais et edifices fantastiques 1641.,3373,87.3,False,positional,DESIDERIO,,,,Sec. XVII
 BO0624_84189,34733,278,332,Le Dieu Pan poursuivant la nymphe Syrinx et embrassant une touffe de roseaux au lieu de la belle,3384,98.0,False,positional,"DOMENICHINO (Domenico Zampieri,dit il)",,,,
 BO0624_84189,34734,279,555,"Il est debout, de trois quarts a gauche. ll s'appuie sur sa lourde",3396,100.0,False,positional,FETI (Domenico),,,,
-BO0624_84189,34735,280,535,"Toile,H.:1131/2;L.:781/2.",3404,100.0,False,positional,FETI (Domenico),,,,
+BO0624_84189,34735,280,535,"Toile,H.:1131/2;L.:781/2.",3404,100.0,False,positional,FETI (Domenico),,,,Sec. XII
 BO0624_84189,34736,281,536,## GUARDI (Francesco) 33961s,3412,82.1,False,title_direct,GUARDI (Francesco),,,,
 BO0624_84189,34737,282,537,358,3455,100.0,False,positional,MAGNASCO (Alexandre;dit Lissandrino),,,,
 BO0624_84189,34738,283,540,"a Sir Henry Layard,a Venise.",3460,100.0,False,positional,MAGNASCO (Alexandre;dit Lissandrino),,,,
 BO0624_84189,34739,284,341,"Date et signe a gauche, en bas : Gregorio Pagani.",3470,100.0,False,positional,PAGANI (Gregorio),,,,
 BO0624_84189,34740,285,545,"Toile,H.: 111; L.:91.",3482,100.0,False,positional,"MORETTO da BRESCIA (Alessandro Bonvicino,dit)",,,,
 BO0624_84189,34741,286,542,Le Vase et la Pyramide,3490,100.0,False,positional,PANNINI(Giovanni-Paolo),,VASI,,
-BO0624_84189,34742,287,1671,1751.,3498,61.5,False,positional,PANNINI(Giovanni-Paolo),,,,
+BO0624_84189,34742,287,1671,1751.,3498,61.5,False,positional,PANNINI(Giovanni-Paolo),,,,Sec. XVIII
 BO0624_84189,34743,288,544,## PIOMBO (Sebastiano del) (Ecole de),3505,100.0,False,title_direct,PIOMBO (Sebastiano del) (Ecole de),,,,
 BO0624_84189,34744,289,545,Madeleine en contemplation devant le Crucifie,3517,95.7,False,positional,PROCCACINI (Julio Cesarae),,,,
-BO0624_84189,34745,290,547,Portrait de Luigi Cornaro (1462-1566),3533,94.6,False,positional,"TINTORETTO (Jacopo Robusti, dit il)",,,,
+BO0624_84189,34745,290,547,Portrait de Luigi Cornaro (1462-1566),3533,94.6,False,positional,"TINTORETTO (Jacopo Robusti, dit il)",,,,Sec. XVI
 BO0624_84189,34746,291,I,"l est assis de trois quarts dans un fauteuil,ayant devant lui une table couverte d'un tapis d'Orient. Sur cette table,un collier d'or sur lequel pose la main gauche. Le personnage est vetu d'un costume noir a col blanc rabattu: son visage d'homme age, barbe blanche et front denude, se detache sur un fond sombre.A droite, une draperie marron",3535,99.9,False,positional,"TINTORETTO (Jacopo Robusti, dit il)",,SCOMPARTI,,
 BO0624_84189,34747,292,546,## ECOLE ITALIENNE,3544,100.0,False,title_direct,,ECOLE ITALIENNE,ITALIENS,,
 BO0624_84189,34748,293,348,| La Circoncision                                                                                                        |,3546,88.2,False,positional,,ECOLE ITALIENNE,,,
-BO0624_84189,34749,294,549,"| ECOLE ITALIENNE Seizieme siecle. La Crucifixion Toile,H.:1041/2;L.:1041/2.                                             |",3548,97.2,False,title_direct,,ECOLE ITALIENNE,ITALIENS,,
+BO0624_84189,34749,294,549,"| ECOLE ITALIENNE Seizieme siecle. La Crucifixion Toile,H.:1041/2;L.:1041/2.                                             |",3548,97.2,False,title_direct,,ECOLE ITALIENNE,ITALIENS,,Sec. XI
 BO0624_84189,34750,295,550,| ECOLE ITALIENNE Seizieme siecle. Ecce Homo                                                                             |,3549,95.3,False,title_direct,,ECOLE ITALIENNE,ITALIENS,,
 BO0624_84189,34751,296,351,"| La Vierge, l'Enfant Jesus et trois tetes de Seraphins Panneau,H.:69 1/2;L.:56. ECOLE ITALIENNE Fin du seizieme siecle. |",3551,98.3,False,title_direct,,ECOLE ITALIENNE,PANNELLI,,
 BO0624_84189,34752,297,555,"Toile,H.:103;L.:40. 555",3559,88.9,False,positional,,ECOLE ITALIENNE,,,
@@ -305,7 +305,7 @@ BO0624_84189,34758,303,558,Interieur d'eglise d'architecture ogivale,3647,95.3,F
 BO0624_84189,34759,304,565,564,3662,100.0,False,positional,,ECOLE ITALIENNE,,,
 BO0624_84189,34760,305,I,"l est en robe d'interieur noire garnie de vison. ll tient de sa main droite, le bras pose a laccoudoir du siege,un manuscrit plie,et de la main gauche,qui s'appuie au bord dune table, l'index allonge,il semble indiquer une pendule sur laquelle, sous un cylindre de verre, on apercoit un petit squelette debout.",3678,99.8,False,positional,,ECOLE VENITIENNE,ARREDAMENTI,,
 BO0624_84189,34761,306,565,"Toile,H.:74:L.:99",3692,100.0,False,positional,,ECOLE VENITIENNE,,,
-BO0624_84189,34762,307,366,"Paysage mouvemente anime de personnages et d'animaux, sous d'epais ombrages, pres d'un cours d'eau. mportante gouache signee en bas et datee 1796.",3699,79.3,False,positional,BACLER d'ALBE,,,,
+BO0624_84189,34762,307,366,"Paysage mouvemente anime de personnages et d'animaux, sous d'epais ombrages, pres d'un cours d'eau. mportante gouache signee en bas et datee 1796.",3699,79.3,False,positional,BACLER d'ALBE,,,,Sec. XVIII
 BO0624_84189,34763,308,367,"Paysage presentant une vallee encaissee dans laquelle des bacchantes se livrent a des danses et a des libations, au pied d'une cascade.",3705,95.4,False,positional,BACLER d'ALBE,,,,
 BO0624_84189,34764,309,368,Jeune femme vetue de blanc dans un paysage.,3710,95.5,False,positional,BARBIER,,,,
 BO0624_84189,34765,310,369,Un salon sous le second Empire. mportante gouache.,3716,73.2,False,positional,BAUMONT(Ch.-E.),,OGGETTI VARI,,
@@ -330,7 +330,7 @@ BO0624_84189,34783,328,388,388. Combat des Centaures et des Lapithes.,3833,100.0
 BO0624_84189,34784,329,389,389.Un coin de ferme.,3839,100.0,False,positional,CAZIN (Ch.),,,,
 BO0624_84189,34785,330,390,"390. Jeune femme symbolisant la Musique, endormie sur un nuage.",3845,100.0,False,positional,CHAPLIN (Ch.) d'apres,,,,
 BO0624_84189,34786,331,391,391.Etude de types orientaux.,3851,100.0,False,positional,CHASSERIAU (Th.),,,,
-BO0624_84189,34787,332,392,Medaillon dessine a la mine de plomb avec figure de femme en remarque.- Signe ct date 1792.,3861,100.0,False,positional,CHODOWIECKI (D.),,,,
+BO0624_84189,34787,332,392,Medaillon dessine a la mine de plomb avec figure de femme en remarque.- Signe ct date 1792.,3861,100.0,False,positional,CHODOWIECKI (D.),,,,Sec. XVIII
 BO0624_84189,34788,333,393,Vue d’une ruelle bordee de hautes maisons.,3865,95.3,False,positional,CICERI(Eug.),,,,
 BO0624_84189,34789,334,395,Etude.,3868,71.4,False,positional,CICERI(Eug.),,,,
 BO0624_84189,34790,335,397,## DALENS,3872,100.0,False,title_direct,DALENS,,,,
@@ -403,14 +403,14 @@ BO0624_84189,34856,401,462,Paysage : vue de ville en Hollande.,4265,94.1,False,p
 BO0624_84189,34857,402,463,L'assaut de la tour de Malakoff,4271,93.9,False,positional,YVON (A.),,,,
 BO0624_84189,34858,403,464,Le grand canal et leglise Santa-Maria della Salute.,4279,96.2,False,positional,ZIEM (F.),,,,
 BO0624_84189,34859,404,466,## ZIEM(F.) nterieur d'une eglise,4292,88.0,False,title_direct,ZIEM(F.),,,,
-BO0624_84189,34860,405,467,"Portrait de jeune femme vetue d'une robe noire decolletee,une écharpe rouge sur les épaules. Elle est vue de dos, assise a son chevalet et peignant des fleurs. Miniature sur ivoire. Signee sur la boite de couleurs et datee 1829.",4304,83.9,False,positional,AUBRY,,MINIATURE,,
+BO0624_84189,34860,405,467,"Portrait de jeune femme vetue d'une robe noire decolletee,une écharpe rouge sur les épaules. Elle est vue de dos, assise a son chevalet et peignant des fleurs. Miniature sur ivoire. Signee sur la boite de couleurs et datee 1829.",4304,83.9,False,positional,AUBRY,,MINIATURE,,Sec. XIX
 BO0624_84189,34861,406,468,Venus entouree d'Amours apparaissant a Adonis: fond de paysage.,4310,96.8,False,positional,CHARLIER,,,,
 BO0624_84189,34862,407,469,"Portrait de femme representee a mi-corps, assise,vetue d'un corsage de linon largement échancre avec nceuds violets et d'une robe jaune a basques;elle est accoudee a un coussin bleu et donne a manger a un oiseau favori pose sur son bras;fond de draperie bleue",4316,99.2,False,positional,CHARLIER (genre de),,,,
 BO0624_84189,34863,408,470,"Portrait de jeune femme, vue de face, en buste,robe bleue, collerette de linon plissee, cheveux chatains retenus par un peigne mportante miniature.-Signee L.Dupre et datee de Paris 183o.",4325,79.7,False,positional,DUPRE (L.),,MINIATURE,,
 BO0624_84189,34864,409,471,"Portrait de jeune femme representee en buste, vetue d'un cor-",4333,96.7,False,positional,,ECOLE ALLEMANDE,,,
 BO0624_84189,34865,410,2,sage blanc largement échancre et drapee dans un manteau bleu.,4334,98.4,False,positional,,ECOLE ALLEMANDE,,,
 BO0624_84189,34866,411,473,"Portrait d'homme vu en buste,vetu d'un pourpoint en velours noir a haut collet, un collier d'or autour du cou,coiffe d'une barrette plate.",4351,96.3,False,positional,,ECOLE ESPAGNOLE,,,
-BO0624_84189,34867,412,474,"Portrait de Simon Bennik par lui-meme. Il est represente dans son atelier, en bu ste,assis a son pupitre d'enlumineur.Par la fenetre on apercoit des arbres et la silhouette d'une maison. Date de 1558.",4360,99.0,False,positional,,ECOLE FLAMANDE,OGGETTI VARI,,
+BO0624_84189,34867,412,474,"Portrait de Simon Bennik par lui-meme. Il est represente dans son atelier, en bu ste,assis a son pupitre d'enlumineur.Par la fenetre on apercoit des arbres et la silhouette d'une maison. Date de 1558.",4360,99.0,False,positional,,ECOLE FLAMANDE,OGGETTI VARI,,Sec. XVI
 BO0624_84189,34868,413,475,"Galerie de lArchiduc Leopold. Une grande salle ou les murs sont en partie caches par des tableaux. On y voit d'autres tableaux deposes contre les meubles,ainsi que des moulages, des poteries, un album de dessins.Des amateurs se promenent au milieu de ces belles choses. On remarque que les personnages sont en costume Louis XIll, alors que, contre le mur du fond, on apercoit un personnage de profil portant la perruque a cadenettes.",4367,99.5,False,positional,,ECOLE FLAMANDE,,,
 BO0624_84189,34869,414,476,"Portrait d'homme,vu en buste,la tete de face, vetu d'un habit violet, les cheveux poudres.",4375,97.8,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84189,34870,415,477,"Une jeune femme nue,coiffee d'un turban a aigrette,allongee sur un lit de repos, se souleve, tandis qu'un negre lui presente une echarpe.",4384,71.4,False,positional,,ECOLE FRANCAISE,,,
@@ -437,7 +437,7 @@ BO0624_84189,34890,435,497,497.Au bord du lac.,4522,100.0,False,positional,ROBER
 BO0624_84189,34891,436,498,"Portrait d'homme, vu en buste,vetu d'un habit vert a collet bleu, cheveux poudres.",4528,97.5,False,positional,VERNET,,,,
 BO0624_84189,34892,437,499,"Buste en terre cuite:homme barbu, la tete et les epaules dra- pees, xVIl siecle.",4535,84.9,False,positional,,,"TERRES CUITES,MARBRES",,
 BO0624_84189,34893,438,500,"Groupe en terre cuite : homme barbu figurant un feuve, etendu et s'appuyant du bras droit sur un vase symbolisant une source; il tient de la main gauche un gouvernail.",4540,98.8,False,positional,,,VASI,,
-BO0624_84189,34894,439,501,"Groupe en terre cuite,projet demonument par DARDEL,signe et date 1790. mportant groupe en terre cuite :",4544,79.8,False,positional,,,"TERRES CUITES,MARBRES",,
+BO0624_84189,34894,439,501,"Groupe en terre cuite,projet demonument par DARDEL,signe et date 1790. mportant groupe en terre cuite :",4544,79.8,False,positional,,,"TERRES CUITES,MARBRES",,Sec. XVIII
 BO0624_84189,34895,440,502,"Le jeune dieu,couronne de pampres, est couche,etendu sur une peau de lion, appuye du bras droit qui retient des grappes de raisins, sur un vase a socle cannele, et elevant du bras gauche une coupe.",4556,99.0,False,positional,,,VASI,,
 BO0624_84189,34896,441,503,L'Innocence sacrifiant a l'Amour.                                                         |,4565,94.1,False,positional,CLODION,,,,
 BO0624_84189,34897,442,504,“Jeunes filles donnant la liberte a des Amours. Ils portent en bas la signature :CLODION. |,4567,97.7,False,title_direct,CLODION,,,,
@@ -477,7 +477,7 @@ BO0624_84189,34930,475,537,Ours debout. Bronze d'apres Barye.,4647,94.1,False,po
 BO0624_84189,34931,476,538,"Groupe bronze:α Cheval , d’apres P.I. Mene.",4648,95.1,False,positional,,,BRONZES MODERNES - OBJETS DIVERS,,
 BO0624_84189,34932,477,3,539.Bronze moderne: Taureau .,4649,96.3,False,positional,,,BRONZES MODERNES - OBJETS DIVERS,,
 BO0624_84189,34933,478,540,Petit medaillon offrant un groupe d'Amours dans des nuages portant une guirlande de feurs.,4653,97.8,False,positional,,,BRONZES MODERNES - OBJETS DIVERS,,
-BO0624_84189,34934,479,541,Groupe en bois sculpte:&amp; Hommc scalpant un faune cloue a un arbre. Allemagne XVII siecle.,4657,97.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_84189,34934,479,541,Groupe en bois sculpte:&amp; Hommc scalpant un faune cloue a un arbre. Allemagne XVII siecle.,4657,97.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_84189,34935,480,542,"Petit plat creux en email offrant au centre, en camaieu, Hercule terrassant un lion. Marli a guirlande de fruits et mascarons.",4658,98.4,False,positional,,,PIATTI,,
 BO0624_84189,34936,481,543,"Petite plaque ovale en email, offrant une jeune femme vue en buste,portant un enfant.",4659,97.6,False,positional,,,BRONZES MODERNES - OBJETS DIVERS,,
 BO0624_84189,34937,482,I,"MPRIMERIE GENERALE LAHURE 9,RUE DE FLEURUS,PARIS",4664,99.0,False,positional,,,BRONZES MODERNES - OBJETS DIVERS,,

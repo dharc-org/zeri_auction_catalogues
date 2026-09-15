@@ -1,8 +1,8 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84234,398462,1,1825,1898.,9,61.5,False,positional,BOUDIN,,,,
-BO0624_84234,398463,2,1829,1890.,24,61.5,False,positional,BROWN,Scuola di Dusseldorf,,,
+BO0624_84234,398462,1,1825,1898.,9,61.5,False,positional,BOUDIN,,,,Sec. XIX
+BO0624_84234,398463,2,1829,1890.,24,61.5,False,positional,BROWN,Scuola di Dusseldorf,,,Sec. XIX
 BO0624_84234,398464,3,2,## Arret au carrefour.,28,100.0,False,positional,BROWN,,,,
-BO0624_84234,398465,4,4,## Bords de riviere. 1860.,57,86.5,False,positional,DAUBIGNY,,,,
+BO0624_84234,398465,4,4,## Bords de riviere. 1860.,57,86.5,False,positional,DAUBIGNY,,,,Sec. XIX
 BO0624_84234,398466,5,5,## La Romance.,76,100.0,False,positional,DECAMPS,,,,
 BO0624_84234,398467,6,6,## L'Aieule et les enfants.,92,100.0,False,positional,DECAMPS,,,,
 BO0624_84234,398468,7,7,"## Le Singe bureaucrate. l est assis devant son bureau;il a pose ses lunettes sur son buvard, et, l'air satisfait et matois,il s'apprete a deguster une ecuelle pleine jusquau bord.",109,93.9,False,positional,DECAMPS,,,,
@@ -13,28 +13,28 @@ BO0624_84234,398472,11,I,"ls sont quatre, couches ou accroupis sur des nattes. L
 BO0624_84234,398473,12,2,"e vente Cheramy (mai 1go8),n° 294.",187,98.4,False,positional,DELACROIX,,,,
 BO0624_84234,398474,13,12,## Fragment des ( Noces de. Cana 》 Copie d'apres Vezonese.,195,100.0,False,positional,DELACROIX,,OGGETTI VARI,,
 BO0624_84234,398475,14,13,## Recherche pour une des coupoles,208,100.0,False,positional,DELACROIX,,,,
-BO0624_84234,398476,15,14,## Arabe debout. 1876.,224,82.8,False,positional,DELACROIX,,,,
+BO0624_84234,398476,15,14,## Arabe debout. 1876.,224,82.8,False,positional,DELACROIX,,,,Sec. XIX
 BO0624_84234,398477,16,15,## Les Chenes foret de Fontainebleau).,241,100.0,False,positional,DIAZ DE LA PENA,,,,
 BO0624_84234,398478,17,16,## En bordure de la foret.,255,100.0,False,positional,DIAZ DE LA PENA,,,,
 BO0624_84234,398479,18,18,## Les Arbres depouilles et les roches.,280,100.0,False,positional,DIAZ DE LA PENA,,,,
 BO0624_84234,398480,19,19,## La Ferme.,295,100.0,False,positional,DUPRE,,,,
-BO0624_84234,398481,20,20,## Le Petit Mendiant. 1891.,311,87.2,False,positional,GRANDVILLE,,,,
+BO0624_84234,398481,20,20,## Le Petit Mendiant. 1891.,311,87.2,False,positional,GRANDVILLE,,,,Sec. XIX
 BO0624_84234,398482,21,21,"## L'Hiver autour du Moulin, en Hollande.",326,100.0,False,positional,JONGKIND,,,,
-BO0624_84234,398483,22,22,## La Voile blanche. 1862.,342,86.5,False,positional,JONGKIND,,,,
+BO0624_84234,398483,22,22,## La Voile blanche. 1862.,342,86.5,False,positional,JONGKIND,,,,Sec. XIX
 BO0624_84234,398484,23,23,## Fete populaire.,359,100.0,False,positional,KOEKKOEK,,,,
 BO0624_84234,398485,24,24,## Le Lever.,371,100.0,False,positional,LA TOUCHE,,,,
-BO0624_84234,398486,25,25,"## Gentilhomme Louis Xlll. l est debout, marchant, de trois quarts a gauche. Lavis de sepia et gouache. Signe a gauche, en bas:E. Meissonier, 1880.",388,91.1,False,positional,MEISSONIER,,,,
+BO0624_84234,398486,25,25,"## Gentilhomme Louis Xlll. l est debout, marchant, de trois quarts a gauche. Lavis de sepia et gouache. Signe a gauche, en bas:E. Meissonier, 1880.",388,91.1,False,positional,MEISSONIER,,,,Sec. XIX
 BO0624_84234,398487,26,26,## Le Valet recevant les ordres.,398,100.0,False,positional,MEISSONIER,,,,
 BO0624_84234,398488,27,27,## Gentilhomme Louis Xlll.,417,100.0,False,positional,MEISSONIER,,,,
 BO0624_84234,398489,28,28,Le Gentilhomme gai.,433,100.0,False,positional,MEISSONIER,,,,
 BO0624_84234,398490,29,29,## Personnage du temps de Charles-Quint.,440,100.0,False,positional,MEISSONIER,,,,
 BO0624_84234,398491,30,30,## Polichinelle.,452,100.0,False,positional,MEISSONIER,,,,
-BO0624_84234,398492,31,31,## Officier et Incroyable. 1898.,466,89.8,False,positional,MEISSONIER,,,,
+BO0624_84234,398492,31,31,## Officier et Incroyable. 1898.,466,89.8,False,positional,MEISSONIER,,,,Sec. XIX
 BO0624_84234,398493,32,32,## Orphee.,481,100.0,False,positional,MOREAU,,,,
 BO0624_84234,398494,33,33,## Le Cavalier.,499,100.0,False,positional,MOREAU,,,,
 BO0624_84234,398495,34,35,Le Prisonnier.,518,100.0,False,positional,RAFFET,,,,
-BO0624_84234,398496,35,1804,1860.,528,61.5,False,positional,RAFFET,Scuola di Dusseldorf,,,
-BO0624_84234,398497,36,1812,1867.,535,61.5,False,positional,ROUSSEAU,,,,
+BO0624_84234,398496,35,1804,1860.,528,61.5,False,positional,RAFFET,Scuola di Dusseldorf,,,Sec. XIX
+BO0624_84234,398497,36,1812,1867.,535,61.5,False,positional,ROUSSEAU,,,,Sec. XIX
 BO0624_84234,398498,37,36,## Les Hetres; foret de Fontainebleau.,539,100.0,False,positional,ROUSSEAU,,,,
 BO0624_84234,398499,38,38,## Promeneur,566,100.0,False,positional,ROUSSEAU (PIERRE-ETIENNE-THEODORE),,,,
 BO0624_84234,398500,39,39,## Boqueteaux dans la plaine.,582,100.0,False,positional,ROUSSEAU,,,,
@@ -43,23 +43,23 @@ BO0624_84234,398502,41,42,## Roches au Bas-Breau (foret de Fontainebleau).,620,1
 BO0624_84234,398503,42,46,## Les Fermes au tournant de la route.,674,100.0,False,positional,ROUSSEAU,,,,
 BO0624_84234,398504,43,47,## Les Chaumieres parmi les arbres.,690,100.0,False,positional,ROUSSEAU,,,,
 BO0624_84234,398505,44,48,"## Bouquets d'arbres sur le plateau, au bord d'un sentier.",709,100.0,False,positional,ROUSSEAU,,,,
-BO0624_84234,398506,45,49,Lion couche. 1911.,723,81.5,False,positional,SAINT-MARCEL,,,,
+BO0624_84234,398506,45,49,Lion couche. 1911.,723,81.5,False,positional,SAINT-MARCEL,,,,Sec. XX
 BO0624_84234,398507,46,50,## Bateaux de peche au large.,732,100.0,False,positional,ZIEM,,,,
 BO0624_84234,398508,47,51,## La Femme a leventail.,755,100.0,False,positional,BESNARD,,,,
-BO0624_84234,398509,48,52,## Fleurs dans un vase de metal. 1898.,768,91.8,False,positional,BLANCHE,,OGGETTI IN METALLO,,
+BO0624_84234,398509,48,52,## Fleurs dans un vase de metal. 1898.,768,91.8,False,positional,BLANCHE,,OGGETTI IN METALLO,,Sec. XIX
 BO0624_84234,398510,49,53,## Anvers;,781,100.0,False,positional,BOUDIN,Scuola d'Anversa,,,
 BO0624_84234,398511,50,55,## La Plage.,807,100.0,False,positional,BOUDIN,,,,
 BO0624_84234,398512,51,56,"## Vue du port de Trouoille, pendant la construction du guai.",821,100.0,False,positional,BOUDIN,,,,
-BO0624_84234,398513,52,1818,1892.,830,61.5,False,positional,BRISSOT DE WARVILLE,,,,
+BO0624_84234,398513,52,1818,1892.,830,61.5,False,positional,BRISSOT DE WARVILLE,,,,Sec. XIX
 BO0624_84234,398514,53,I,"l s'est arrete dans la plaine, pres d'un bouquet d'arbres, dresse au bord d'une mare. Au fond, a droite, des meules. Ciel ensoleille,avec de grandes nuees dorees.",834,99.7,False,positional,BRISSOT DE WARVILLE,,,,
-BO0624_84234,398515,54,1810,1880.,846,61.5,False,positional,CALS,Scuola di Monaco,,,
+BO0624_84234,398515,54,1810,1880.,846,61.5,False,positional,CALS,Scuola di Monaco,,,Sec. XIX
 BO0624_84234,398516,55,58,"## Le Bon Pere. l est assis de trois quarts a gauche et tient serre contre lui un blondin qui le regarde avec une infinie tendresse. Lui,le pere, se penche vers le front de lenfant et le contemple en un silence ému. Pres de lui, sur une table,il y a une pipe, un panier a poisson et une cruche.",852,97.7,False,positional,CALS,,,,
 BO0624_84234,398517,56,59,## Le Vieux Paysan endormi,867,100.0,False,positional,CALS (ADOLPHE-FELIX),,,,
 BO0624_84234,398518,57,I,"l est assis sur sa chaise, et il somnole avec placidite, dans le decor des objets qui lui sont familiers.",869,99.5,False,positional,CALS (ADOLPHE-FELIX),,OGGETTI VARI,,
-BO0624_84234,398519,58,1841,1901.,879,61.5,False,positional,CAZIN,,,,
+BO0624_84234,398519,58,1841,1901.,879,61.5,False,positional,CAZIN,,,,Sec. XX
 BO0624_84234,398520,59,60,## Chaumieres parmi les vignes.,883,100.0,False,positional,CAZIN,,,,
 BO0624_84234,398521,60,61,## La Bouillie.,894,100.0,False,positional,CHARLET (FRANTZ),,,,
-BO0624_84234,398522,61,62,## Autour du berceau. 1875.,904,87.2,False,positional,CHARLET (FRANTZ),,,,
+BO0624_84234,398522,61,62,## Autour du berceau. 1875.,904,87.2,False,positional,CHARLET (FRANTZ),,,,Sec. XIX
 BO0624_84234,398523,62,63,## L'Etang de Ville-d'Aoray; soleil couchant.,917,100.0,False,positional,COROT,,,,
 BO0624_84234,398524,63,65,"## Ville-d' Aoray, entree du bois.",947,100.0,False,positional,COROT,,OGGETTI IN LEGNO,,
 BO0624_84234,398525,64,66,## Roches au bord de l'eau.,963,100.0,False,positional,COROT,,,,
@@ -67,7 +67,7 @@ BO0624_84234,398526,65,67,## Bords de riviere.,978,100.0,False,positional,DAUCHE
 BO0624_84234,398527,66,68,La Fete foraine.,990,100.0,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84234,398528,67,69,## Gelee blanche.,999,100.0,False,positional,GUILLAUMIN,,,,
 BO0624_84234,398529,68,70,## Paysage d'hiver.,1012,100.0,False,positional,GUILLAUMIN,,,,
-BO0624_84234,398530,69,1819,1891.,1037,61.5,False,positional,JONGKIND,,,,
+BO0624_84234,398530,69,1819,1891.,1037,61.5,False,positional,JONGKIND,,,,Sec. XIX
 BO0624_84234,398531,70,72,"## La Boozem avec ses moulins,",1041,100.0,False,positional,JONGKIND,,,,
 BO0624_84234,398532,71,73,"## Village d'Overschies, pres d'Amsterdam.",1057,100.0,False,positional,JONGKIND,,,,
 BO0624_84234,398533,72,74,"## Le Fort Rabot,et la porte de France,",1070,100.0,False,positional,JONGKIND,,,,
@@ -90,17 +90,17 @@ BO0624_84234,398549,88,92,## Les Bords de la Seine pendant l'Exposition de 188g.
 BO0624_84234,398550,89,93,"## Bords de la Seine,pres d'Argenteuil.",1334,100.0,False,positional,LEPINE,,,,
 BO0624_84234,398551,90,94,"## Bords de la Seine, pres Paris.",1347,100.0,False,positional,LEPINE,,,,
 BO0624_84234,398552,91,95,## Vieilles Maisons.,1360,100.0,False,positional,LE SIDANER,,,,
-BO0624_84234,398553,92,96,## Gisors. 1891.,1373,70.6,False,positional,LE SIDANER,,,,
+BO0624_84234,398553,92,96,## Gisors. 1891.,1373,70.6,False,positional,LE SIDANER,,,,Sec. XIX
 BO0624_84234,398554,93,97,## Soldat du Premier Empire,1389,100.0,False,positional,MEISSONIER,,,,
 BO0624_84234,398555,94,98,## Le Coup de l'etrier.,1403,100.0,False,positional,MEISSONIER,,,,
 BO0624_84234,398556,95,99,## Baigneuses.,1414,100.0,False,positional,MENARD,,,,
-BO0624_84234,398557,96,1831,1903.,1438,61.5,False,positional,PISSARRO,,,,
+BO0624_84234,398557,96,1831,1903.,1438,61.5,False,positional,PISSARRO,,,,Sec. XX
 BO0624_84234,398558,97,101,## La Causette.,1442,100.0,False,positional,PISSARRO,,,,
 BO0624_84234,398559,98,102,## La Neige sur la route.,1457,100.0,False,positional,PISSARRO,,,,
 BO0624_84234,398560,99,10,3,1469,40.0,False,positional,PISSARRO,,,,
 BO0624_84234,398561,100,104,## Chasseur au marais.,1482,100.0,False,positional,POKITONOW,,,,
-BO0624_84234,398562,101,105,## La Jetee a Menton. 1887.,1494,87.2,False,positional,RAFFAELLI,,,,
-BO0624_84234,398563,102,106,## Collation. g-1899.,1509,72.0,False,positional,ROUSSEAU,,,,
+BO0624_84234,398562,101,105,## La Jetee a Menton. 1887.,1494,87.2,False,positional,RAFFAELLI,,,,Sec. XIX
+BO0624_84234,398563,102,106,## Collation. g-1899.,1509,72.0,False,positional,ROUSSEAU,,,,Sec. XIX
 BO0624_84234,398564,103,107,## Le Pont de Moret.,1524,100.0,False,positional,SISLEY,,,,
 BO0624_84234,398565,104,108,## Sur le chemin de Saint-Mammes; effet du matin.,1537,100.0,False,positional,SISLEY,,,,
 BO0624_84234,398566,105,109,## Le Pommier en fleurs.,1552,100.0,False,positional,SISLEY,,,,
@@ -115,7 +115,7 @@ BO0624_84234,398574,113,117,## Jeune Femme assise.,1669,100.0,False,positional,S
 BO0624_84234,398575,114,118,## Le Pardon.,1684,100.0,False,positional,TASSAERT,,,,
 BO0624_84234,398576,115,119,## L'Enfant aux cerises.,1704,100.0,False,positional,TASSAERT,,,,
 BO0624_84234,398577,116,120,## Retour du bal. 1g06.,1719,83.9,False,positional,TASSAERT,,,,
-BO0624_84234,398578,117,121,## Soleil d'hiver en Norvege. 1911.,1740,90.9,False,positional,THAULOW,,,,
+BO0624_84234,398578,117,121,## Soleil d'hiver en Norvege. 1911.,1740,90.9,False,positional,THAULOW,,,,Sec. XX
 BO0624_84234,398579,118,122,## Le Vieux Pont.,1756,100.0,False,positional,ZIEM,,,,
 BO0624_84234,398580,119,123,## Aigle tenant un heron.,1775,100.0,False,positional,BARYE,,,,
 BO0624_84234,398581,120,124,Lionne passant.,1785,100.0,False,positional,BARYE,,,,

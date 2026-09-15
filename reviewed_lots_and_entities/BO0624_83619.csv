@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83619,626831,1,1,"PUSTERLA in noce massiccio, intagliato nei due lati,e con frontone a sagome scolpite.Epoca sec.XVII.altezza al centro m.3,20,larghezza m.2,20.",3,99.3,False,none,,,,,
 BO0624_83619,626832,2,2,GONG CINESE in bronzo argentino.,4,96.9,False,none,,,,,
-BO0624_83619,626833,3,3,"VENTI INCISIONI di Domenico Montagu (nato in Francia, morto a Roma nel 1750) αVedute di Roma ,cornici noce.",5,99.0,False,none,,,CORNICI,,
+BO0624_83619,626833,3,3,"VENTI INCISIONI di Domenico Montagu (nato in Francia, morto a Roma nel 1750) αVedute di Roma ,cornici noce.",5,99.0,False,none,,,CORNICI,,Sec. XVIII
 BO0624_83619,626834,4,4,"PIATTo in ceramica decorata,ispano-arabo.",6,97.6,False,none,,,,,
 BO0624_83619,626835,5,5,"DUE MINIATURE antiche firmate Caruson,cornicetta nera eoro.",7,98.3,False,none,,,MINIATURE,,
 BO0624_83619,626836,6,6,ARTE CINESE Elefante con pagoda  in bronzo.,8,97.6,False,none,,,,,
@@ -12,74 +12,74 @@ BO0624_83619,626840,10,10,"TARGA d'armi : Cinque spade goldoniane e Louis XVI, u
 BO0624_83619,626841,11,11,"MoBILE con ribalta e cassetti ed alzata a sportello con specchio decorato ad intarsio,sec.XVII.",13,98.4,False,none,,,,,
 BO0624_83619,626842,12,12,GRUPPo in porcellana colorata:αGli amori di Giove .,14,97.0,False,none,,,,,
 BO0624_83619,626843,13,13,STIPo a sportelli e cassetti in ebano con finissimi intarsi in argento dorato e madreperla.,15,98.4,False,none,,,,,
-BO0624_83619,626844,14,14,"ELIAERTS JEAN FRANCOIS (Deurne 176l-Anvers 1848) Fiori ,due dipinti su tela,cm.54x72.",16,98.2,False,none,,,,,
+BO0624_83619,626844,14,14,"ELIAERTS JEAN FRANCOIS (Deurne 176l-Anvers 1848) Fiori ,due dipinti su tela,cm.54x72.",16,98.2,False,none,,,,,Sec. XIX
 BO0624_83619,626845,15,15,"GRANDE cOPPA con coperchio decorata di scene a color rosso con fregi verdi,in porcellana bianca inglese (Bristol).",17,98.7,False,none,,,,,
-BO0624_83619,626846,16,16,"VAN BL0EMEN JAN (Anversa 1662.Roma 1740) cScena campestre,dipinto su tela,cm.44x 32.",18,98.2,False,none,,,,,
+BO0624_83619,626846,16,16,"VAN BL0EMEN JAN (Anversa 1662.Roma 1740) cScena campestre,dipinto su tela,cm.44x 32.",18,98.2,False,none,,,,,Sec. XVII
 BO0624_83619,626847,17,17,"ARTE ITALIANA Faumo danzantc,statuetta in brenzo, altezza cm.34.",19,97.6,False,none,,,,,
 BO0624_83619,626848,18,18,"TAPPETO PERSIANO Kechan , dimensioni centimetri 129×207.",20,97.2,False,none,,,,,
 BO0624_83619,626849,19,19,"CAsSA DA coRREDO con frcntene deccrato di formellee cariatidi,sec.XVII.",21,97.9,False,none,,,,,
-BO0624_83619,626850,20,20,"SCUoLA VENETA del sec. XVI cIl giudizio di Salomone, dipinto su tela, cm.70x98 (vedi Illustrazione).",22,98.4,False,none,,Scuola Veneta,,,
-BO0624_83619,626851,21,21,"GRASSI GIUSEPPE (Udine 1757.Dresda 1838)&amp;Ritratto di Wolfango Mozart ,dipinto ad olio su tela,cm.75x60 (vedi Illustrazione).",23,98.8,False,none,,,,,
-BO0624_83619,626852,22,22,"GUARDI FRANCESCO (Venezia 1712.1793) αAlle porte del Dolo）（esiste disegno pubblicato tav.43 sulla monografia di Gino Damerini).Dipinto ad clio su tavcla 20x30,cornice scolpita e dorata.",24,99.2,False,none,GUARDI FRANCESCO,,,,
+BO0624_83619,626850,20,20,"SCUoLA VENETA del sec. XVI cIl giudizio di Salomone, dipinto su tela, cm.70x98 (vedi Illustrazione).",22,98.4,False,none,,Scuola Veneta,,,Sec. XVI
+BO0624_83619,626851,21,21,"GRASSI GIUSEPPE (Udine 1757.Dresda 1838)&amp;Ritratto di Wolfango Mozart ,dipinto ad olio su tela,cm.75x60 (vedi Illustrazione).",23,98.8,False,none,,,,,Sec. XVIII
+BO0624_83619,626852,22,22,"GUARDI FRANCESCO (Venezia 1712.1793) αAlle porte del Dolo）（esiste disegno pubblicato tav.43 sulla monografia di Gino Damerini).Dipinto ad clio su tavcla 20x30,cornice scolpita e dorata.",24,99.2,False,none,GUARDI FRANCESCO,,,,Sec. XVIII
 BO0624_83619,626853,23,23,"BISSOLO PIER FRANCESCO (Scuola veneta,Treviso 14701554) aMadonna col Bambino,dipinto su tavola,cm.60x45 (vedi Illustrazione).",25,98.8,False,none,,Scuola Veneta,,,
-BO0624_83619,626854,24,24,"SOGLIANI GI0VANNI ANTONI0 (Firenze 1492.1544)La Vergine, dipinto ad olio su tavola, cm.46x58.",26,98.3,False,none,,,,,
-BO0624_83619,626855,25,25,"JACOPO DEL CASENTINO (Scuola fiorentina,nato circa il 1270) S.Cecilia,dipinto su tavola a fondo oro,cm.30x58 (vedi Illustrazione).",27,98.8,False,none,,Scuola Fiorentina,,,
-BO0624_83619,626856,26,26,"RIGAUD GIACINTO Perpignano 1659 -Parig: 1743αRi tratto di Maresciallo di Francia a cavallo,dipinto su tela, cm.75x58(vedi Illustrazione).",28,98.9,False,none,RIGAUD HYACINTHE,,,,
-BO0624_83619,626857,27,27,"VAN WITTEL GASPARE detto Vanvitelli (Utrecht 1674Roma 1736) αPiazza San Pietro,dipinto su tela,ceniimetri 165x115 (vedi Illustrazione).",29,98.9,False,none,,,,,
+BO0624_83619,626854,24,24,"SOGLIANI GI0VANNI ANTONI0 (Firenze 1492.1544)La Vergine, dipinto ad olio su tavola, cm.46x58.",26,98.3,False,none,,,,,Sec. XV
+BO0624_83619,626855,25,25,"JACOPO DEL CASENTINO (Scuola fiorentina,nato circa il 1270) S.Cecilia,dipinto su tavola a fondo oro,cm.30x58 (vedi Illustrazione).",27,98.8,False,none,,Scuola Fiorentina,,,Sec. XIII
+BO0624_83619,626856,26,26,"RIGAUD GIACINTO Perpignano 1659 -Parig: 1743αRi tratto di Maresciallo di Francia a cavallo,dipinto su tela, cm.75x58(vedi Illustrazione).",28,98.9,False,none,RIGAUD HYACINTHE,,,,Sec. XVII
+BO0624_83619,626857,27,27,"VAN WITTEL GASPARE detto Vanvitelli (Utrecht 1674Roma 1736) αPiazza San Pietro,dipinto su tela,ceniimetri 165x115 (vedi Illustrazione).",29,98.9,False,none,,,,,Sec. XVIII
 BO0624_83619,626858,28,28,MADIA DA PANE.La parte anteriore scolpita a rosoni gotici.,30,97.4,False,none,,,,,
-BO0624_83619,626859,29,29,"BOUL0GNE B0N (Parigi 1649-1717) aScena pastorale, dipinto su tela,cm. 174x99 (vedi Illustrazione).",31,98.4,False,none,,,,,
-BO0624_83619,626860,30,30,"VENUSTI MARCELL0 (Como 1515-Roma 1579) (Ia Vergine col Bambino dormiente, S. Giuseppe ed un angelo ,dipinto su tavola,cm. 58x73 (vedi Illustrazione).",32,98.9,False,none,,,,,
-BO0624_83619,626861,31,31,"ZANIN FRANCESCO, 1815 (Scuola Veneziana) αIl ponte di S.Giovanni e Paolo）,dipinto su tela,cm. 42x63 (vedi Illustrazione).",33,98.7,False,none,,Scuola Veneziana,,,
-BO0624_83619,626862,32,32,"P0USSIN NIc0LA (Andelys 1594-Roma 1665) aCristo tentato dal demonio,dipinto su tavola,rotondo,cm.2l （vedi Illustrazione).",34,98.7,False,none,,,,,
-BO0624_83619,626863,33,33,"POUSSIN NICOLA (Andelys 1594-Roma 1665) αCristo e la Samaritana,dipinto su tavola,rotondo,cm.2l (vedi Illustrazione).",35,98.7,False,none,POUSSIN NICOLAS,,,,
-BO0624_83619,626864,34,34,"VAN HUYSUM JAN (Amsterdam 1682-1749)αCacciagione）,dipinto a tempera,cm. 58x79 (vedi Illustrazione).",36,98.4,False,none,VAN HUYSUM JAN,,,,
-BO0624_83619,626865,35,35,"VAN HUYSUM JAN (Amsterdam 1682-1749) αCacciagione,dipinto a tempera,cm.58x79 (vedi Ilustrazione).",37,98.4,False,none,VAN HUYSUM JAN,,,,
-BO0624_83619,626866,36,36,ROSA SALVATORE (Arenella 1615-Roma 1673) aBatta-,38,96.8,False,none,ROSA SALVATOR,,,,
-BO0624_83619,626867,37,37,"ROSA SALVAT0RE （Arenella 1615-1673) αAutoritratto）, dipinto su tela,cm.40x50 (vedi Illustrazione).",42,98.4,False,none,,,,,
-BO0624_83619,626868,38,38,"AARTSEN PIETER (Amsterdam 1507-1575 αAlmercato della cacciagione,dipinto su tela,cm.158x134 （vedi Illustrazione). bis.TIEP0LO GIAN D0MENIC0 (Venezia 1727-1804)αCo-",43,81.0,False,none,,,,,
-BO0624_83619,626869,39,39,"CASTIGLIONE GIOV. BENEDETTO detto il Grechetto (Genova 1616-Mantova 1670) αOrfeo,dipinto su tela,centimetri 125x135(vedi Illustrazione).",46,98.9,False,none,,,,,
+BO0624_83619,626859,29,29,"BOUL0GNE B0N (Parigi 1649-1717) aScena pastorale, dipinto su tela,cm. 174x99 (vedi Illustrazione).",31,98.4,False,none,,,,,Sec. XVII
+BO0624_83619,626860,30,30,"VENUSTI MARCELL0 (Como 1515-Roma 1579) (Ia Vergine col Bambino dormiente, S. Giuseppe ed un angelo ,dipinto su tavola,cm. 58x73 (vedi Illustrazione).",32,98.9,False,none,,,,,Sec. XVI
+BO0624_83619,626861,31,31,"ZANIN FRANCESCO, 1815 (Scuola Veneziana) αIl ponte di S.Giovanni e Paolo）,dipinto su tela,cm. 42x63 (vedi Illustrazione).",33,98.7,False,none,,Scuola Veneziana,,,Sec. XIX
+BO0624_83619,626862,32,32,"P0USSIN NIc0LA (Andelys 1594-Roma 1665) aCristo tentato dal demonio,dipinto su tavola,rotondo,cm.2l （vedi Illustrazione).",34,98.7,False,none,,,,,Sec. XVI
+BO0624_83619,626863,33,33,"POUSSIN NICOLA (Andelys 1594-Roma 1665) αCristo e la Samaritana,dipinto su tavola,rotondo,cm.2l (vedi Illustrazione).",35,98.7,False,none,POUSSIN NICOLAS,,,,Sec. XVI
+BO0624_83619,626864,34,34,"VAN HUYSUM JAN (Amsterdam 1682-1749)αCacciagione）,dipinto a tempera,cm. 58x79 (vedi Illustrazione).",36,98.4,False,none,VAN HUYSUM JAN,,,,Sec. XVIII
+BO0624_83619,626865,35,35,"VAN HUYSUM JAN (Amsterdam 1682-1749) αCacciagione,dipinto a tempera,cm.58x79 (vedi Ilustrazione).",37,98.4,False,none,VAN HUYSUM JAN,,,,Sec. XVIII
+BO0624_83619,626866,36,36,ROSA SALVATORE (Arenella 1615-Roma 1673) aBatta-,38,96.8,False,none,ROSA SALVATOR,,,,Sec. XVII
+BO0624_83619,626867,37,37,"ROSA SALVAT0RE （Arenella 1615-1673) αAutoritratto）, dipinto su tela,cm.40x50 (vedi Illustrazione).",42,98.4,False,none,,,,,Sec. XVII
+BO0624_83619,626868,38,38,"AARTSEN PIETER (Amsterdam 1507-1575 αAlmercato della cacciagione,dipinto su tela,cm.158x134 （vedi Illustrazione). bis.TIEP0LO GIAN D0MENIC0 (Venezia 1727-1804)αCo-",43,81.0,False,none,,,,,Sec. XVI
+BO0624_83619,626869,39,39,"CASTIGLIONE GIOV. BENEDETTO detto il Grechetto (Genova 1616-Mantova 1670) αOrfeo,dipinto su tela,centimetri 125x135(vedi Illustrazione).",46,98.9,False,none,,,,,Sec. XVII
 BO0624_83619,626870,40,40,"MAZZOLA GIROLAMO detto il Parmigianino (Parma 15041540)aLaMadonna col BambinoedueSante,dipinto sutela,",47,98.5,False,none,,,,,
 BO0624_83619,626871,41,41,"TODESCHINI GIAC. FRANCESCO CIPPER (Italia settentrionale,principio del sec.XVIII) αVecchio contadino ,dipinto su tela,cm.59x73.",49,98.8,False,none,,,,,
-BO0624_83619,626872,42,42,"SCUOLA PADOVANA del sec. XV a Santo vescovo e santa martire ai lati di Cristo,dipinto su tavcla a lunetta,centimetri 150x60 (vedi Illustrazione).",50,98.9,False,none,,Scuola Padovana,,,
-BO0624_83619,626873,43,43,SCHED0NEBART0L0ME0(Modena1580-1615)cLa Ma-,51,96.5,False,none,,,,,
-BO0624_83619,626874,44,44,"CARBONE GIOVANNI BERNARDO (Albaro 1614-Genova ) Ritratto di Giureconsulto genovese,dipinto ad olio, cm.108×88.",54,74.1,False,none,,,,,
-BO0624_83619,626875,45,45,"SCUOLA NAPOLETANA del sec. XVIII cVedute di Napoli ,ventidue acquerelli riuniti in album.",55,98.3,False,none,,Scuola Napoletana,ACQUEFORTI,,
+BO0624_83619,626872,42,42,"SCUOLA PADOVANA del sec. XV a Santo vescovo e santa martire ai lati di Cristo,dipinto su tavcla a lunetta,centimetri 150x60 (vedi Illustrazione).",50,98.9,False,none,,Scuola Padovana,,,Sec. XV
+BO0624_83619,626873,43,43,SCHED0NEBART0L0ME0(Modena1580-1615)cLa Ma-,51,96.5,False,none,,,,,Sec. XVII
+BO0624_83619,626874,44,44,"CARBONE GIOVANNI BERNARDO (Albaro 1614-Genova ) Ritratto di Giureconsulto genovese,dipinto ad olio, cm.108×88.",54,74.1,False,none,,,,,Sec. XVII
+BO0624_83619,626875,45,45,"SCUOLA NAPOLETANA del sec. XVIII cVedute di Napoli ,ventidue acquerelli riuniti in album.",55,98.3,False,none,,Scuola Napoletana,ACQUEFORTI,,Sec. XVIII
 BO0624_83619,626876,46,46,"Rovine fantastiche,dipinto ad olio,cm.100x75.",56,96.7,False,none,,,,,
-BO0624_83619,626877,47,47,"VAN HUYSUM JAN (Amsterdam 1682-1749) αFrutti e farfalle》,dipinto a tempera,cm.42x58(vedi Ilustrazione).",57,98.5,False,none,VAN HUYSUM JAN,,,,
-BO0624_83619,626878,48,48,"VAN HUYSUM JAN (Amsterdam 1682-1749) αUecelli,piante,farfalle》,dipinto a tempera,cm.42x58(vedi Illustrazione).",58,98.6,False,none,VAN HUYSUM JAN,,,,
-BO0624_83619,626879,49,49,"BAT0NI POMPE0 (Lucca 1708-Roma 1787) cNativita,dipinto ad olio su tela,cm.31x41.",59,98.1,False,none,,,,,
+BO0624_83619,626877,47,47,"VAN HUYSUM JAN (Amsterdam 1682-1749) αFrutti e farfalle》,dipinto a tempera,cm.42x58(vedi Ilustrazione).",57,98.5,False,none,VAN HUYSUM JAN,,,,Sec. XVIII
+BO0624_83619,626878,48,48,"VAN HUYSUM JAN (Amsterdam 1682-1749) αUecelli,piante,farfalle》,dipinto a tempera,cm.42x58(vedi Illustrazione).",58,98.6,False,none,VAN HUYSUM JAN,,,,Sec. XVIII
+BO0624_83619,626879,49,49,"BAT0NI POMPE0 (Lucca 1708-Roma 1787) cNativita,dipinto ad olio su tela,cm.31x41.",59,98.1,False,none,,,,,Sec. XVIII
 BO0624_83619,626880,50,50,PARAVENTO in legno intagliato e dorato con partite in stoffa e piccolo punto.Stile Louis XV.Dimensioni cm.160x156.,60,98.7,False,none,,Periodo di Luigi XV,,,
-BO0624_83619,626881,51,51,"DE ROsA PACECCO (Scuola napoletana,morto nel 1654) αAgar al pozzo , dipinto ad olio su tela, cm.127x182 (vedi llustrazione).",61,98.7,False,none,,Scuola Napoletana,,,
+BO0624_83619,626881,51,51,"DE ROsA PACECCO (Scuola napoletana,morto nel 1654) αAgar al pozzo , dipinto ad olio su tela, cm.127x182 (vedi llustrazione).",61,98.7,False,none,,Scuola Napoletana,,,Sec. XVII
 BO0624_83619,626882,52,52,"SCUOLA FRANCESE del sec. XVIHI  Suonatrice di liuto 》， dipinto ad olio,cm.39x31.",62,98.0,False,none,,,,,
-BO0624_83619,626883,53,53,"BRUEGHEL JEAN (Bruxelles 1568-Anvers 1625) cLa salita al Calvario ）, dipinto ad olio, cm.50x35 (vedi Illustrazione).",63,98.6,False,none,BRUEGEL JAN IL GIOVANE,,,,
-BO0624_83619,626884,54,54,"PREVITALI MARC0 ANDREA (Bergamo 1480-1528)cAdorazione dei pastori,dipinto su tavola,cm. 76x40 (vedi Illustrazione).",64,98.7,False,none,,,,,
+BO0624_83619,626883,53,53,"BRUEGHEL JEAN (Bruxelles 1568-Anvers 1625) cLa salita al Calvario ）, dipinto ad olio, cm.50x35 (vedi Illustrazione).",63,98.6,False,none,BRUEGEL JAN IL GIOVANE,,,,Sec. XVI
+BO0624_83619,626884,54,54,"PREVITALI MARC0 ANDREA (Bergamo 1480-1528)cAdorazione dei pastori,dipinto su tavola,cm. 76x40 (vedi Illustrazione).",64,98.7,False,none,LOCATELLI ANDREA,,,,Sec. XVI
 BO0624_83619,626885,55,55,"MoBILE con cassetto e sportello,con decorazione di scultura d'intarsio in osso. Sec.XVII.",65,98.3,False,none,,,,,
-BO0624_83619,626886,56,56,"SCUOLA FRANCESE del sec. XVII &amp;Ritratto di gentildonna,dipinto ad olio,cm.120x103 （vedi llustrazione).",66,98.5,False,none,,,,,
+BO0624_83619,626886,56,56,"SCUOLA FRANCESE del sec. XVII &amp;Ritratto di gentildonna,dipinto ad olio,cm.120x103 （vedi llustrazione).",66,98.5,False,none,,,,,Sec. XVII
 BO0624_83619,626887,57,57,"MOMBELLO LUCA (Brescia,sec. XVI) Nativita ,dipinto ad olio su tela, cm.96x85, cornice dorata e policromata.",67,98.5,False,none,,,,,
-BO0624_83619,626888,58,58,"RIcCI MARCO (Belluno 1673-1729) αAgar nel deserto,dipinto ad olio su tela,cm. 88x120, cornice scolpita e dorata.",68,98.6,False,none,SEBASTIANO RICCI,,,,
-BO0624_83619,626889,59,59,"GUARANA JAC0P0 (Verona 1720-1808) 《LAssunzione）,dipinto su tela,cm.33x27,ovale.",69,98.0,False,none,,,,,
+BO0624_83619,626888,58,58,"RIcCI MARCO (Belluno 1673-1729) αAgar nel deserto,dipinto ad olio su tela,cm. 88x120, cornice scolpita e dorata.",68,98.6,False,none,SEBASTIANO RICCI,,,,Sec. XVII
+BO0624_83619,626889,59,59,"GUARANA JAC0P0 (Verona 1720-1808) 《LAssunzione）,dipinto su tela,cm.33x27,ovale.",69,98.0,False,none,,,,,Sec. XVIII
 BO0624_83619,626890,60,60,"TAPPETO PERSIANO Sineh ,dimensioni cm.197×140.",70,96.7,False,none,,,,,
-BO0624_83619,626891,61,61,"SCUOLA ROMANA del sec. XVIII Paesaggi "", quattro di pinti,cm.28×49.",71,97.6,False,none,,Scuola Romana,,,
+BO0624_83619,626891,61,61,"SCUOLA ROMANA del sec. XVIII Paesaggi "", quattro di pinti,cm.28×49.",71,97.6,False,none,,Scuola Romana,,,Sec. XVIII
 BO0624_83619,626892,62,62,STATUETTA in bronzo dorato αVenere uscente da una conchiglia di madreperla.,72,98.0,False,none,,,,,
 BO0624_83619,626893,63,63,"SCUOLA NAPOLETANA &amp; Scena campestre ,dipinto ad olio. bis. STIPO a ribalta e a cassetti decorato di incisioni in metallo. Arte olandese.",74,74.4,False,none,,Scuola Napoletana,STAMPE E INCISIONI,,
-BO0624_83619,626894,64,64,MOBILINO a cinque cassetti. Sec. XVII. Decorazione ad intarsio.,75,97.5,False,none,,,,,
-BO0624_83619,626895,65,65,"H0GART WILLIAM? (Londra 1697-Chisivick 1764) cDal dentista ,dipinto a olio su tela,segnato con moncgramma e datato,cm.40x55,cornice dorata.",76,98.9,False,none,,,,,
+BO0624_83619,626894,64,64,MOBILINO a cinque cassetti. Sec. XVII. Decorazione ad intarsio.,75,97.5,False,none,,,,,Sec. XVII
+BO0624_83619,626895,65,65,"H0GART WILLIAM? (Londra 1697-Chisivick 1764) cDal dentista ,dipinto a olio su tela,segnato con moncgramma e datato,cm.40x55,cornice dorata.",76,98.9,False,none,,,,,Sec. XVII
 BO0624_83619,626896,66,66,CoMo' bombe in radica con intarsi secenteschi.,77,96.7,False,none,,,,,
-BO0624_83619,626897,67,67,"FERRARI GAUDENZI0 (Scuola lombarda 14S4-1549)αLangelo e Tobiolo,dipinto su tela, cm.225x124.",78,98.3,False,none,,Scuola Lombarda,,,
+BO0624_83619,626897,67,67,"FERRARI GAUDENZI0 (Scuola lombarda 14S4-1549)αLangelo e Tobiolo,dipinto su tela, cm.225x124.",78,98.3,False,none,,Scuola Lombarda,,,Sec. XVI
 BO0624_83619,626898,68,68,TAVOLO scolpito con gambe a lira. Stile sec.XVII.,79,96.9,False,none,,,,,
-BO0624_83619,626899,69,69,"SCUOLA NAPOLETANA del sec. XVII &amp;La scimmia tra i fiori e le frutta , dipinto ad olio su tela,cm.125x98.",80,98.6,False,none,,Scuola Napoletana,,,
-BO0624_83619,626900,70,70,"SCUOLA NAPOLETANA del sec. XVII αIl gatto ladro ,dipinto ad olio su tela,cm.135x98.",81,98.2,False,none,,Scuola Napoletana,,,
+BO0624_83619,626899,69,69,"SCUOLA NAPOLETANA del sec. XVII &amp;La scimmia tra i fiori e le frutta , dipinto ad olio su tela,cm.125x98.",80,98.6,False,none,,Scuola Napoletana,,,Sec. XVII
+BO0624_83619,626900,70,70,"SCUOLA NAPOLETANA del sec. XVII αIl gatto ladro ,dipinto ad olio su tela,cm.135x98.",81,98.2,False,none,,Scuola Napoletana,,,Sec. XVII
 BO0624_83619,626901,71,71,STATUETTA in avorio  Dea della pesca . Arte giapponese.,82,97.1,False,none,,,,,
 BO0624_83619,626902,72,72,TAVOLINO esagonale.,83,92.3,False,none,,,ARREDAMENTI,,
 BO0624_83619,626903,73,73,"ORCIO TOsCANO in terracotta dipinta, con base in ferro battuto.",84,97.6,False,none,,,,,
 BO0624_83619,626904,74,74,"ARTE TOsCANA del sec. XVIlI Rovine della villa Adriana 》, dipinto a tempera,cm.42x35.",85,98.2,False,none,,,,,
 BO0624_83619,626905,75,75,SGABELLO a tre gambe in noce.Arte rustica.,86,96.5,False,none,,,,,
-BO0624_83619,626906,76,76,ARTE NAPOLETANA del sec. XVIII: Due figure da presepio.,87,97.2,False,none,,,,,
+BO0624_83619,626906,76,76,ARTE NAPOLETANA del sec. XVIII: Due figure da presepio.,87,97.2,False,none,,,,,Sec. XVIII
 BO0624_83619,626907,77,77,"MINIATURA su avorio αPescatore , siglato e datato.",88,96.9,False,none,,,MINIATURE,,
 BO0624_83619,626908,78,78,ASTUcCIO PORTA GIoIE in mosaico romano e bronzo.,91,96.9,False,none,,,,,
-BO0624_83619,626909,79,79,ARTE NAPOLETANA del sec. XVIII: Due figure da presepio.,92,97.2,False,none,,,,,
+BO0624_83619,626909,79,79,ARTE NAPOLETANA del sec. XVIII: Due figure da presepio.,92,97.2,False,none,,,,,Sec. XVIII
 BO0624_83619,626910,80,80,"PIATTO a riflessi,ispano-arabo.",93,95.2,False,none,,,,,
-BO0624_83619,626911,81,81,"DIECI INCISI0NI di Luca Carlevaris (Udine 1665-Venezia 1715) 《Vedute di Venezia ,cornici noce.",94,98.3,False,none,,,CORNICI,,
+BO0624_83619,626911,81,81,"DIECI INCISI0NI di Luca Carlevaris (Udine 1665-Venezia 1715) 《Vedute di Venezia ,cornici noce.",94,98.3,False,none,,,CORNICI,,Sec. XVII
 BO0624_83619,626912,82,82,SGABELLO a tre gambe. Arte rustica.,95,95.7,False,none,,,,,
 BO0624_83619,626913,83,83,PIATTo in maiolica decorata a colori (Pesaro).,96,96.6,False,none,,,,,
 BO0624_83619,626914,84,84,STATUA in bronzo α Cavallo ）.Epoca Impero.,97,96.3,False,none,,,,,
@@ -88,149 +88,149 @@ BO0624_83619,626916,86,86,"CREDENZA a ribalta e sportelli laterali, decorata di 
 BO0624_83619,626917,87,87,"IGNOTO Giovine donna ,dipinto ad affresco,cm.45x27.",100,97.0,False,none,,,,,
 BO0624_83619,626918,88,88,DUE STATUE in bronzo. Epoca Impero.,101,95.7,False,none,,,,,
 BO0624_83619,626919,89,89,BACINELLA azzurra decorata a fiori e medaglione figurato,102,97.4,False,none,,,,,
-BO0624_83619,626920,90,90,"RICCI SEBASTIANO (Belluno 1660-Venezia 1734)cMartirio di S. Andrea ,dipinto ad olio su tela, cm.47x32,cornice scolpita e dorata.",103,98.8,False,none,SEBASTIANO RICCI,,,,
+BO0624_83619,626920,90,90,"RICCI SEBASTIANO (Belluno 1660-Venezia 1734)cMartirio di S. Andrea ,dipinto ad olio su tela, cm.47x32,cornice scolpita e dorata.",103,98.8,False,none,SEBASTIANO RICCI,,,,Sec. XVII
 BO0624_83619,626921,91,91,"EDIcoLA a colonne in legno. Nella nicchia statuetta di S.Paolo, in marmo. Arte toscana.",104,98.2,False,none,,,,,
 BO0624_83619,626922,92,92,GRUPPo in porcellana bianca marcata Capodimonte α Il battitore coi cani.,105,97.9,False,none,,,,,
 BO0624_83619,626923,93,93,"SCUOLA SPAGNOLA del sec.XVII αIl bevitore,dipinto su tela,cm.41x54. 93bis. ARTE CINESE Il viaggiatore  statua in bronzo.",106,71.4,False,none,,,,,
 BO0624_83619,626924,94,94,CASSA DA CORREDO decorata sul frontone di formelle e cariatidi scolpite. See.XVII.,108,98.2,False,none,,,,,
 BO0624_83619,626925,95,95,"PIATTo in porcellana di Sevres,fondo azzurro e medaglione a figure di putti.Montatura in bronzo.",109,98.4,False,none,,,,,
-BO0624_83619,626926,96,96,"CASTIGLIONE GIOV.BENEDETTO detto il Grechetto (Genova 1616-Mantova 1670) αIl mercante orientale,dipinto su tela,cm.100x120 (vedi Illustrazione).",110,98.9,False,none,,,,,
-BO0624_83619,626927,97,97,"SOLIMENA FRANCESCO (Nocera 1657-Napoli 1743) aAllegoria della Geografia , dipinto ad olio,cm.58x43.",111,98.4,False,none,,,,,
-BO0624_83619,626928,98,98,MADIA scolpita in stile bolognese del sec. XVII.,112,96.8,False,none,,,,,
+BO0624_83619,626926,96,96,"CASTIGLIONE GIOV.BENEDETTO detto il Grechetto (Genova 1616-Mantova 1670) αIl mercante orientale,dipinto su tela,cm.100x120 (vedi Illustrazione).",110,98.9,False,none,,,,,Sec. XVII
+BO0624_83619,626927,97,97,"SOLIMENA FRANCESCO (Nocera 1657-Napoli 1743) aAllegoria della Geografia , dipinto ad olio,cm.58x43.",111,98.4,False,none,,,,,Sec. XVII
+BO0624_83619,626928,98,98,MADIA scolpita in stile bolognese del sec. XVII.,112,96.8,False,none,,,,,Sec. XVII
 BO0624_83619,626929,99,23,"99.GRUPPO in porcellana colorata di Saxe αLa visita ,altezza cm.25.",113,97.7,False,none,,,,,
-BO0624_83619,626930,100,24,"100.FALC0NE ANIELL0 (Napoli 1600-1665) αBattaglie),due dipinti su tela,cm.100x75.",114,98.1,False,none,,,,,
-BO0624_83619,626931,101,25,"101.LOND0NI0 FRANCESCO (Milano 1723-1783) cArmento in riposo,dipinto su tela,firmato,cm. 60x75 （vedi Illustrazione).",115,98.7,False,none,,,,,
+BO0624_83619,626930,100,24,"100.FALC0NE ANIELL0 (Napoli 1600-1665) αBattaglie),due dipinti su tela,cm.100x75.",114,98.1,False,none,,,,,Sec. XVII
+BO0624_83619,626931,101,25,"101.LOND0NI0 FRANCESCO (Milano 1723-1783) cArmento in riposo,dipinto su tela,firmato,cm. 60x75 （vedi Illustrazione).",115,98.7,False,none,,,,,Sec. XVIII
 BO0624_83619,626932,102,26,102.COFANETTO porta te finemente intarsiato alla maniera di André Charles Boulle.,116,98.2,False,none,,,,,
-BO0624_83619,626933,103,27,"103.AMIG0NI GIAC0M0 (Venezia 1675-Madrid 1752) αRitratto di gentildonna ,dipinto ad olio,cm.77x59 (vedi Illustrazione).",117,98.7,False,none,,,,,
+BO0624_83619,626933,103,27,"103.AMIG0NI GIAC0M0 (Venezia 1675-Madrid 1752) αRitratto di gentildonna ,dipinto ad olio,cm.77x59 (vedi Illustrazione).",117,98.7,False,none,,,,,Sec. XVII
 BO0624_83619,626934,104,28,"104.BAToNI POMPEO Il Divin Figlio lattante ,dipinto ad olio, cm.31x41.",118,97.8,False,none,,,,,
 BO0624_83619,626935,105,29,105.CREDENZA a cassetti e sportelli in noce scolpito. Arte toscana.,119,97.7,False,none,,,,,
-BO0624_83619,626936,106,106,J0RDAENS JAC0B (Anvers 1598-1678) αVecchio bevitore 》， bis.DUE CANDELABRI in porcellana colorata di Furstenberg aPappagalli e fiori .,122,76.7,False,none,,,CANDELABRI,,
+BO0624_83619,626936,106,106,J0RDAENS JAC0B (Anvers 1598-1678) αVecchio bevitore 》， bis.DUE CANDELABRI in porcellana colorata di Furstenberg aPappagalli e fiori .,122,76.7,False,none,,,CANDELABRI,,Sec. XVII
 BO0624_83619,626937,107,107,"DUE PARAVENTI a tre partite,con decorazioni a ricamo.",123,96.3,False,none,,,,,
-BO0624_83619,626938,108,108,"RIGAUD GIACINT0 (Perpignano 1659-Parigi1743)αRitratto del reLuigi XIV,dipintoad olio,cm. 173x96 (vedi Illu-",125,98.1,False,none,RIGAUD HYACINTHE,,,,
+BO0624_83619,626938,108,108,"RIGAUD GIACINT0 (Perpignano 1659-Parigi1743)αRitratto del reLuigi XIV,dipintoad olio,cm. 173x96 (vedi Illu-",125,98.1,False,none,RIGAUD HYACINTHE,,,,Sec. XVII
 BO0624_83619,626939,109,109,"SCUOLA DI GENTILE BELLINI (Venezia,sec. XV) La Passione di Cristo),dipinto su tavola,cm.125x99 （vedi 1llustrazione).",127,98.2,False,none,,,,,
-BO0624_83619,626940,110,110,"LARGILLIERE NICOLA (Parigi 1656-1746) cRitratto di donna , dipinto su tela, cm.64x78,ovale (vedi Illustrazione).",128,98.1,False,none,LARGILLIERE NICOLAS,,,,
+BO0624_83619,626940,110,110,"LARGILLIERE NICOLA (Parigi 1656-1746) cRitratto di donna , dipinto su tela, cm.64x78,ovale (vedi Illustrazione).",128,98.1,False,none,LARGILLIERE NICOLAS,,,,Sec. XVII
 BO0624_83619,626941,111,111,"ARTE TOSCANA del sec.XVI  Cristo,bsto in terracotta, con tracce di policromia,altezza cm.57.",129,97.8,False,none,,,,,
 BO0624_83619,626942,112,112,"ARMATURA veneziana in acciaio,con spadone.",130,95.3,False,none,,,,,
-BO0624_83619,626943,113,113,ZAIS GIUSEPPE (Venezia 1750-Treviso 1784) α Scena campe-,131,96.4,False,none,ZAIS GIUSEPPE,,,,
+BO0624_83619,626943,113,113,ZAIS GIUSEPPE (Venezia 1750-Treviso 1784) α Scena campe-,131,96.4,False,none,ZAIS GIUSEPPE,,,,Sec. XVIII
 BO0624_83619,626944,114,114,"TAPPETO PERSIANO Kechan,dimensioni cm.209x136.",133,95.7,False,none,,,,,
 BO0624_83619,626945,115,115,"SCUOLA BOLOGNESE del sec.XVIL Autunno）,centi metri 230x177 (vedi Illustrazione).",134,97.4,False,none,,Scuola Bolognese,,,
-BO0624_83619,626946,116,116,"MARC0 D'0GGI0N0 (Scuola lombarda,1470-1530) αLascensione al cielo di S.Maria Maddalena ,dipinto su tavola,centimetri 151x (vedi Illustrazione).",135,98.6,False,none,,Scuola Lombarda,,,
+BO0624_83619,626946,116,116,"MARC0 D'0GGI0N0 (Scuola lombarda,1470-1530) αLascensione al cielo di S.Maria Maddalena ,dipinto su tavola,centimetri 151x (vedi Illustrazione).",135,98.6,False,none,,Scuola Lombarda,,,Sec. XV
 BO0624_83619,626947,117,117,MADIA da pane a riquadri scolpiti. Arte paesana.,136,95.8,False,none,,,,,
-BO0624_83619,626948,118,118,"VAN DYCK ANTONIO (Anversa 1599-Londra 1641),Bottega",137,96.1,False,none,VAN DYCK ANTON,,,,
+BO0624_83619,626948,118,118,"VAN DYCK ANTONIO (Anversa 1599-Londra 1641),Bottega",137,96.1,False,none,VAN DYCK ANTON,,,,Sec. XVI
 BO0624_83619,626949,119,119,CASSA DA CoRREDO ccn decorazione di riquadri scolpiti Epcca sec.XVII.,143,97.1,False,none,,,,,
 BO0624_83619,626950,120,120,"SCUOLA DI RUBENS PIER PAOLO (see. XVII) &amp;Ladorazione dei Re magi ,dipinto su tela,em. 204x130 (vedi Illustrazione).",144,98.2,False,none,RUBENS PETER PAUL,Scuola di Rubens,,,
-BO0624_83619,626951,121,3,121.VAN HUYSUM JAN (Amsterdam 1682-1749) cVaso di fiori，,145,98.1,False,none,VAN HUYSUM JAN,,,,
+BO0624_83619,626951,121,3,121.VAN HUYSUM JAN (Amsterdam 1682-1749) cVaso di fiori，,145,98.1,False,none,VAN HUYSUM JAN,,,,Sec. XVIII
 BO0624_83619,626952,122,4,"dipinto a tempera,cm.54x77 (vedi Illustrazione).",146,97.8,False,none,,,,,
-BO0624_83619,626953,123,5,"122.VAN HUYSUM JAN (Amsterdam 16S2-1749) αVaso di fiori,",147,98.1,False,none,VAN HUYSUM JAN,,,,
+BO0624_83619,626953,123,5,"122.VAN HUYSUM JAN (Amsterdam 16S2-1749) αVaso di fiori,",147,98.1,False,none,VAN HUYSUM JAN,,,,Sec. XVIII
 BO0624_83619,626954,124,6,"dipinto a tempera,cm.54x77 (vedi Illustrazione).",148,97.8,False,none,,,,,
 BO0624_83619,626955,125,7,"123.ARAZZO FIAMMINGO del sec.XVII αIa Vergine,cen-",149,98.0,False,none,,,,,
 BO0624_83619,626956,126,8,timetri 45x35.,150,92.9,False,none,,,,,
-BO0624_83619,626957,127,9,"124.VAN0STADEADRIAN0 （Haarlem 1610-1685)αLa Scuola, dipinto su tavola, cm.24x32,ovale (vedi Illustrazione).",151,99.0,False,none,,,,,
-BO0624_83619,626958,128,10,"125.RICCI SEBASTIANO (Belluno 1660-Venezia 1734)cEster ed Assuero,dipinto ad olio,cm.50x68.",152,98.3,False,none,SEBASTIANO RICCI,,,,
+BO0624_83619,626957,127,9,"124.VAN0STADEADRIAN0 （Haarlem 1610-1685)αLa Scuola, dipinto su tavola, cm.24x32,ovale (vedi Illustrazione).",151,99.0,False,none,,,,,Sec. XVII
+BO0624_83619,626958,128,10,"125.RICCI SEBASTIANO (Belluno 1660-Venezia 1734)cEster ed Assuero,dipinto ad olio,cm.50x68.",152,98.3,False,none,SEBASTIANO RICCI,,,,Sec. XVII
 BO0624_83619,626959,129,11,"126.TAPPETO PERSIANO Turbaff ,dimensioni mi.3,S8×2,66.",153,97.2,False,none,,,,,
-BO0624_83619,626960,130,12,"127.DE V0S PAUL (Hulst 1590-Anversa 1678) cLa caccia al cervo,dipinto adolio su tela,cm.160x242 （vedi 1llustra-",154,98.6,False,none,,,,,
+BO0624_83619,626960,130,12,"127.DE V0S PAUL (Hulst 1590-Anversa 1678) cLa caccia al cervo,dipinto adolio su tela,cm.160x242 （vedi 1llustra-",154,98.6,False,none,,,,,Sec. XVI
 BO0624_83619,626961,131,13,zione).,155,76.9,False,none,,,,,
 BO0624_83619,626962,132,14,"128.SUARDI BARTOLOMEO detto il Bramantino (Milano 14551536) αLucrezia）,dipinto su tela,cm.86x130 （vedi Illustrazione).",156,98.7,False,none,,,,,
-BO0624_83619,626963,133,129,"SCUOLA FIAMMINGA del sec. XVII &amp;Pesci ,dipinto ad olio,cm.42×32.",157,97.0,False,none,,Scuola Fiamminga,,,
-BO0624_83619,626964,134,130,"SCUOLA SPAGNOLA del sec. XVI cRitratto di Giovanni II d'Aragona,dipinto su tavola,cm.42x48. bis.M00R CAREL DE (Leyda 1656-Yarmoud 1738) cVecchio orientale,dipinto su tela,cm. 40x48.",158,66.4,False,none,,,,,
+BO0624_83619,626963,133,129,"SCUOLA FIAMMINGA del sec. XVII &amp;Pesci ,dipinto ad olio,cm.42×32.",157,97.0,False,none,,Scuola Fiamminga,,,Sec. XVII
+BO0624_83619,626964,134,130,"SCUOLA SPAGNOLA del sec. XVI cRitratto di Giovanni II d'Aragona,dipinto su tavola,cm.42x48. bis.M00R CAREL DE (Leyda 1656-Yarmoud 1738) cVecchio orientale,dipinto su tela,cm. 40x48.",158,66.4,False,none,,,,,Sec. XVI
 BO0624_83619,626965,135,131,"SPECCHI0 SANSOVINEScO,lumeggiato in oro,cm.56x46",160,96.0,False,none,,,,,
 BO0624_83619,626966,136,132,"SCUOLA TOSCANA (fine del sec. XVI) aAdorazione del Bambino,dipinto ad olio,cm.57×38.",161,97.6,False,none,,Scuola Toscana,,,
-BO0624_83619,626967,137,133,"TAvoLO con gambe a lira, decorazione scolpita.Secolo XVII.",162,96.6,False,none,,,,,
-BO0624_83619,626968,138,134,"RU0PP0L0 GI0VAN BATTISTA (Napoli 1620-1683)cFiori e frutta,due dipinti ad olio,cm.75x103.",163,97.8,False,none,,,,,
-BO0624_83619,626969,139,135,"STANZI0NI MASSIM0 (Fratta 1585-Napoli 1656) e C0DAGORA VIVIANO αPaesaggio con piccola scena sacra ,dipinto ad olio,cm.54x142.",164,98.4,False,none,,,,,
-BO0624_83619,626970,140,136,"SCUOLA FIAMMINGA del sec. XVII aScene di caccia , dipinto ad olio su tavola, cm. 69x197.",165,97.6,False,none,,Scuola Fiamminga,,,
-BO0624_83619,626971,141,137,"SCUOLA BOLOGNESE del sec. XVIII cLe storie di Bertoldo,Bertoldino e Cacasenno ，ispirati dai dipinti di Giuseppe Maria Crespi,riprodotti in incisione nell'edizione dellopera fatta nel 1736,in Bologna, dal Dalla Volpe.Dimensioni di ciascuno, cm.17x25;ogni quadretto e accompagnato dalla targhetta esplicativa dell'episodio.",166,99.4,False,none,CRESPI DANIELE,Scuola Bolognese,,,
+BO0624_83619,626967,137,133,"TAvoLO con gambe a lira, decorazione scolpita.Secolo XVII.",162,96.6,False,none,,,,,Sec. XVII
+BO0624_83619,626968,138,134,"RU0PP0L0 GI0VAN BATTISTA (Napoli 1620-1683)cFiori e frutta,due dipinti ad olio,cm.75x103.",163,97.8,False,none,,,,,Sec. XVII
+BO0624_83619,626969,139,135,"STANZI0NI MASSIM0 (Fratta 1585-Napoli 1656) e C0DAGORA VIVIANO αPaesaggio con piccola scena sacra ,dipinto ad olio,cm.54x142.",164,98.4,False,none,,,,,Sec. XVI
+BO0624_83619,626970,140,136,"SCUOLA FIAMMINGA del sec. XVII aScene di caccia , dipinto ad olio su tavola, cm. 69x197.",165,97.6,False,none,,Scuola Fiamminga,,,Sec. XVII
+BO0624_83619,626971,141,137,"SCUOLA BOLOGNESE del sec. XVIII cLe storie di Bertoldo,Bertoldino e Cacasenno ，ispirati dai dipinti di Giuseppe Maria Crespi,riprodotti in incisione nell'edizione dellopera fatta nel 1736,in Bologna, dal Dalla Volpe.Dimensioni di ciascuno, cm.17x25;ogni quadretto e accompagnato dalla targhetta esplicativa dell'episodio.",166,99.4,False,none,CRESPI DANIELE,Scuola Bolognese,,,Sec. XVIII
 BO0624_83619,626972,142,138,"SCUOLA ROMANA del sec. XVIlI αRovine,due acquerelli,centimetri 79x50.",167,97.1,False,none,,Scuola Romana,ACQUEFORTI,,
-BO0624_83619,626973,143,139,"ZAIS GIUSEPPE (Venezia 1750-Treviso 1784) αPaesaggi ， due dipinti ad olio su tela,cm.45x59.",168,97.7,False,none,ZAIS GIUSEPPE,,,,
+BO0624_83619,626973,143,139,"ZAIS GIUSEPPE (Venezia 1750-Treviso 1784) αPaesaggi ， due dipinti ad olio su tela,cm.45x59.",168,97.7,False,none,ZAIS GIUSEPPE,,,,Sec. XVIII
 BO0624_83619,626974,144,140,DUE POLTRONE coperte in damasco giallo a grandi rami verdi; fiamme scolpite e dorate. Stile del sec.XVI.,169,98.1,False,none,,,POLTRONE,,
 BO0624_83619,626975,145,141,"coPPA in bronzo,con decorazioni a rilievo. Arte francese.",170,96.5,False,none,,,,,
-BO0624_83619,626976,146,142,"SCHED0NE BART0L0ME0 (Medena,1580-1615),Scuola di—aLa Carita ,dipinto ad olio,cm.130x98.",171,97.6,False,none,,,,,
-BO0624_83619,626977,147,143,"SCUOLA BERGAMASCA del sec. XVII αInterno di cucina , dipinto ad olio su tela, cm.76x67.",172,97.6,False,none,,Scuola Bergamasca,,,
-BO0624_83619,626978,148,144,"SCUOLA BERGAMASCA del sec. XVII aLa colazione al1aperto ,dipinto ad olio su tela, cm.76x67.",173,97.8,False,none,,Scuola Bergamasca,,,
+BO0624_83619,626976,146,142,"SCHED0NE BART0L0ME0 (Medena,1580-1615),Scuola di—aLa Carita ,dipinto ad olio,cm.130x98.",171,97.6,False,none,,,,,Sec. XVI
+BO0624_83619,626977,147,143,"SCUOLA BERGAMASCA del sec. XVII αInterno di cucina , dipinto ad olio su tela, cm.76x67.",172,97.6,False,none,,Scuola Bergamasca,,,Sec. XVII
+BO0624_83619,626978,148,144,"SCUOLA BERGAMASCA del sec. XVII aLa colazione al1aperto ,dipinto ad olio su tela, cm.76x67.",173,97.8,False,none,,Scuola Bergamasca,,,Sec. XVII
 BO0624_83619,626979,149,145,VAso in porcellana con decorazione policroma vecchio Rodi.,174,96.6,False,none,,,VASI,,
 BO0624_83619,626980,150,146,STATUETTA in avorio αIl pescatore . Arte giapponese.,175,96.1,False,none,,,,,
 BO0624_83619,626981,151,147,"SALOTTO scolpito e dorato con stile Louis XV,composto di 1 vetrina,1 consolle con specchiera,1 tavolo coperto in velluto, 3poltrone,1 cornicione per tende,1 paravento.",176,98.8,False,none,,Periodo di Luigi XV,,,
 BO0624_83619,626982,152,148,"TARGA D'ARMI: Tre spade goldoniane,due Louis XVI,un pugnale genovese, un pugnale sardo,una daghetta da caccia.",177,98.2,False,none,,,,,
 BO0624_83619,626983,153,149,TRIPODE in ferro battuto a fiorami. Cachepot in rame sbalzato. Stile sec.XVII.,178,97.4,False,none,,,,,
 BO0624_83619,626984,154,150,VETRINA a colonne con decorazioni dorate.Epoca Impero.,179,96.4,False,none,,,,,
-BO0624_83619,626985,155,151,TAvOLINO esagonale con piede a tortiglione. Sec. XVII.,180,96.2,False,none,,,ARREDAMENTI,,
+BO0624_83619,626985,155,151,TAvOLINO esagonale con piede a tortiglione. Sec. XVII.,180,96.2,False,none,,,ARREDAMENTI,,Sec. XVII
 BO0624_83619,626986,156,152,"SCUOLA NAPOLETANA del sec.XVII &amp;Martirio di Santa Caterina , dipinto su tela,bozzetto per una pala d'altare, centimetri 52×34.",181,98.4,False,none,,Scuola Napoletana,,,
 BO0624_83619,626987,157,153,"DAL SOLE GIOV. GIUSEPPE (seguace del Tiepolo) αIl ratto di Ganimede,acquerello,bozzetto per un affresco da soffitto,cm.27,rotondo.",182,98.4,False,none,TIEPOLO DOMENICO,,,,
-BO0624_83619,626988,158,154,STIPETTO a tre cassetti con intarsi a scacchiera. Sec. XVII.,183,96.6,False,none,,,,,
-BO0624_83619,626989,159,155,TAvOLINO da te in stile bolognese del sec. XVII.,186,95.8,False,none,,,ARREDAMENTI,,
+BO0624_83619,626988,158,154,STIPETTO a tre cassetti con intarsi a scacchiera. Sec. XVII.,183,96.6,False,none,,,,,Sec. XVII
+BO0624_83619,626989,159,155,TAvOLINO da te in stile bolognese del sec. XVII.,186,95.8,False,none,,,ARREDAMENTI,,Sec. XVII
 BO0624_83619,626990,160,2,"156.OROLOGIO in oro,con decorazioni in smalto,marcato αPierre Rey, Geneve .",187,98.6,False,none,,,,,
 BO0624_83619,626991,161,157,"SCUOLA VENEZIANA del sec.XVI αLa Madonna col Bambino,dipinto su tela,cm.57x73.",188,97.5,False,none,,Scuola Veneziana,,,
 BO0624_83619,626992,162,4,158.DUE VASETTI da Farmacia in ceramica.,189,97.5,False,none,,,,,
-BO0624_83619,626993,163,5,"159.SCUOLA EMILIANA del sec. XVII cVeduta d'architetture》,dipinto su tela,cm.58x51.",190,98.8,False,none,,Scuola Emiliana,,,
+BO0624_83619,626993,163,5,"159.SCUOLA EMILIANA del sec. XVII cVeduta d'architetture》,dipinto su tela,cm.58x51.",190,98.8,False,none,,Scuola Emiliana,,,Sec. XVII
 BO0624_83619,626994,164,6,160.CETRA angelica.,191,94.7,False,none,,,,,
 BO0624_83619,626995,165,161,"SCUOLA FIAMMINGA aI monaci,dipinto ad olio,centimetri 29x38.",192,96.7,False,none,,Scuola Fiamminga,,,
-BO0624_83619,626996,166,8,"162.PANNINI GI0VAN BATTISTA (Piacenza 1691-Roma 1764) Scuola di —，αRovine 》, dipinto ad olio,cm.76x49.",193,98.9,False,none,,,,,
-BO0624_83619,626997,167,9,"163.SCUOLA FERRARESE del sec. XVI Santo vescovo ,dipinto su tela,cm.28x46.",194,98.6,False,none,,Scuola Ferrarese,,,
-BO0624_83619,626998,168,10,164.TARGA D'ARMI: Quattro spade del sec. XVIII e due coltelli,195,97.5,False,none,,,,,
+BO0624_83619,626996,166,8,"162.PANNINI GI0VAN BATTISTA (Piacenza 1691-Roma 1764) Scuola di —，αRovine 》, dipinto ad olio,cm.76x49.",193,98.9,False,none,,,,,Sec. XVII
+BO0624_83619,626997,167,9,"163.SCUOLA FERRARESE del sec. XVI Santo vescovo ,dipinto su tela,cm.28x46.",194,98.6,False,none,,Scuola Ferrarese,,,Sec. XVI
+BO0624_83619,626998,168,10,164.TARGA D'ARMI: Quattro spade del sec. XVIII e due coltelli,195,97.5,False,none,,,,,Sec. XVIII
 BO0624_83619,626999,169,11,da caccia.,196,85.7,False,none,,,,,
-BO0624_83619,627000,170,165,"SALVI GIOV.BATTISTA detto il Sassoferrato (scuola emiliana 1605-1685) La Madonna col Bambino dipinto ad olio，, cm.32×40.",197,98.3,False,none,,Scuola Emiliana,,,
+BO0624_83619,627000,170,165,"SALVI GIOV.BATTISTA detto il Sassoferrato (scuola emiliana 1605-1685) La Madonna col Bambino dipinto ad olio，, cm.32×40.",197,98.3,False,none,"SASSOFERRATO, GIOV. BATTISTA SALVI",Scuola Emiliana,,,Sec. XVII
 BO0624_83619,627001,171,13,166.PIATTO in maiolica decorata a colori （Italia centrale).,198,97.4,False,none,,,,,
 BO0624_83619,627002,172,14,"167.TAPPETO CINESE Tien-Tsin),dimensioni cm.182×94.",199,97.0,False,none,,,,,
-BO0624_83619,627003,173,168,"SCUoLA FRANCESE del sec. XVIII cAnimali,due dipinti ad olio, cm.44x 36.",200,97.1,False,none,,,,,
+BO0624_83619,627003,173,168,"SCUoLA FRANCESE del sec. XVIII cAnimali,due dipinti ad olio, cm.44x 36.",200,97.1,False,none,,,,,Sec. XVIII
 BO0624_83619,627004,174,169,MoBILINO con cassetto e sportello con decorazioni scolpite. Sec.XVII.,201,97.1,False,none,,,,,
-BO0624_83619,627005,175,17,"169 bis. SCUOLA BOLOGNESE del sec. XVII Ritratto d'uomon, dipinto su tela,cm.52x72.",202,98.1,False,none,,Scuola Bolognese,,,
-BO0624_83619,627006,176,18,170.CARRIERA R0SALBA (Venezia 1675-1757) aRitratto di,203,97.1,False,none,,,,,
+BO0624_83619,627005,175,17,"169 bis. SCUOLA BOLOGNESE del sec. XVII Ritratto d'uomon, dipinto su tela,cm.52x72.",202,98.1,False,none,,Scuola Bolognese,,,Sec. XVII
+BO0624_83619,627006,176,18,170.CARRIERA R0SALBA (Venezia 1675-1757) aRitratto di,203,97.1,False,none,,,,,Sec. XVIII
 BO0624_83619,627007,177,19,"donna ，pastello,cm.45x35.",204,93.9,False,none,,,,,
 BO0624_83619,627008,178,171,"STIPO a doppio sportello e cassetto nella base,laccato e intar-",205,96.9,False,none,,,,,
-BO0624_83619,627009,179,21,siato in madreperla. Arte veneziana del sec. XVIII.,206,97.0,False,none,,,,,
+BO0624_83619,627009,179,21,siato in madreperla. Arte veneziana del sec. XVIII.,206,97.0,False,none,,,,,Sec. XVIII
 BO0624_83619,627010,180,22,172.TAVOLINO persiano con piatto inciso.,207,96.3,False,none,,,ARREDAMENTI,,
-BO0624_83619,627011,181,173,"SCUoLA VENETA del sec. XVII &amp; La Vergine col Bambino e santi,dipinto su tela,bozzetto per una pala d'altare, centimetri 21x39.",208,98.4,False,none,,Scuola Veneta,,,
-BO0624_83619,627012,182,24,"174.SCUOLA FIAMMINGA del sec. XVII Paesaggio,dipinto ad olio,cm.43x74.",209,97.8,False,none,,Scuola Fiamminga,,,
+BO0624_83619,627011,181,173,"SCUoLA VENETA del sec. XVII &amp; La Vergine col Bambino e santi,dipinto su tela,bozzetto per una pala d'altare, centimetri 21x39.",208,98.4,False,none,,Scuola Veneta,,,Sec. XVII
+BO0624_83619,627012,182,24,"174.SCUOLA FIAMMINGA del sec. XVII Paesaggio,dipinto ad olio,cm.43x74.",209,97.8,False,none,,Scuola Fiamminga,,,Sec. XVII
 BO0624_83619,627013,183,25,175.MINIATURA su avorio Ufficiale.Epoca Impero.,210,96.8,False,none,,,MINIATURE,,
-BO0624_83619,627014,184,26,176.ARTE DEL SEC. XVII: Stipo a sportello in legno scolpito e dorato.,211,97.8,False,none,,,,,
+BO0624_83619,627014,184,26,176.ARTE DEL SEC. XVII: Stipo a sportello in legno scolpito e dorato.,211,97.8,False,none,,,,,Sec. XVII
 BO0624_83619,627015,185,27,"177.FERRARI GAUDENZIO, scuola di -(sec.XVI) cL'An-",212,96.8,False,none,,,,,
 BO0624_83619,627016,186,28,"nunciazione,due dipinti a tempera,cm.156x125.",213,96.7,False,none,,,,,
 BO0624_83619,627017,187,178,SEDIA in noce scolpito. Arte toscana.,214,94.6,False,none,,,,,
-BO0624_83619,627018,188,30,"179.CIGNAROLI GI0V.BETTINO (Verona 1706-1770) aLa morte del patriarca,dipinto su tela,cm.122x77.",215,98.4,False,none,,,,,
+BO0624_83619,627018,188,30,"179.CIGNAROLI GI0V.BETTINO (Verona 1706-1770) aLa morte del patriarca,dipinto su tela,cm.122x77.",215,98.4,False,none,,,,,Sec. XVIII
 BO0624_83619,627019,189,180,SCUOLA ROMANA del sec.XVII cLa pastora e Iarmento ，,216,96.1,False,none,,Scuola Romana,,,
 BO0624_83619,627020,190,32,"dipinto ad olio,cm.84x72.",217,94.1,False,none,,,,,
-BO0624_83619,627021,191,33,"181.SAV0LD0 GER0LAM0 (Brescia 1480-1548) αLa deposizione dalla Croce,dipinto su tela, cm.72x 60.",218,98.4,False,none,,,,,
+BO0624_83619,627021,191,33,"181.SAV0LD0 GER0LAM0 (Brescia 1480-1548) αLa deposizione dalla Croce,dipinto su tela, cm.72x 60.",218,98.4,False,none,,,,,Sec. XVI
 BO0624_83619,627022,192,34,182.CASSA DA CORREDO con cariatidi e decorazioni scolpite. Sec.XVII.,219,97.8,False,none,,,,,
-BO0624_83619,627023,193,183,SCUOLA FRANCESE del sec. XVIII &amp;Ritratto di gentildon-,220,96.5,False,none,,,,,
+BO0624_83619,627023,193,183,SCUOLA FRANCESE del sec. XVIII &amp;Ritratto di gentildon-,220,96.5,False,none,,,,,Sec. XVIII
 BO0624_83619,627024,194,36,"na ）,dipinto ad olio, cm.103x76 (vedi Ilustrazione),",221,96.8,False,none,,,,,
 BO0624_83619,627025,195,37,183bis. TAPPETO PERSIANO αSumak.Dimensioni centimetri 250×300.,222,97.6,False,none,,,,,
-BO0624_83619,627026,196,184,"ARTE ABRUZZESE del sec. XIV αLa Crocifissione ,bassorilievo in legno,cm.49x35.",223,97.4,False,none,,,,,
-BO0624_83619,627027,197,185,"SCUoLA TOSCANA del sec. XVI &amp;La Circoncisione,dipinto su tela, cm.150x104.",224,97.4,False,none,,Scuola Toscana,,,
-BO0624_83619,627028,198,186,"SCUOLA UMBRO-MARCHIGIANA del sec. XV aIncoronazione della Vergine）,dipinto su tavola,cm.52x92.",225,97.8,False,none,,Scuola Marchigiana,,,
-BO0624_83619,627029,199,187,MAGGI0TT0 D0MENIC0 (Venezia 1713-1794) αBambino，,226,95.7,False,none,,,,,
-BO0624_83619,627030,200,188,ZAMPIERI DoMENIcO detto il Domenichino Bologna 1581-,228,96.2,False,none,,Scuola Bolognese,,,
-BO0624_83619,627031,201,189,PIAZZETTA GI0V.BATTISTA (Venezia 1682-1754) αLa,230,95.7,False,none,,,,,
-BO0624_83619,627032,202,190,"AMIG0NI GIAc0MO (Venezia 1675-Madrid 1752) cScene mitologiche,due dipinti ad olio,cm. 115x 63.",232,97.8,False,none,,,,,
+BO0624_83619,627026,196,184,"ARTE ABRUZZESE del sec. XIV αLa Crocifissione ,bassorilievo in legno,cm.49x35.",223,97.4,False,none,,,,,Sec. XIV
+BO0624_83619,627027,197,185,"SCUoLA TOSCANA del sec. XVI &amp;La Circoncisione,dipinto su tela, cm.150x104.",224,97.4,False,none,,Scuola Toscana,,,Sec. XVI
+BO0624_83619,627028,198,186,"SCUOLA UMBRO-MARCHIGIANA del sec. XV aIncoronazione della Vergine）,dipinto su tavola,cm.52x92.",225,97.8,False,none,,Scuola Marchigiana,,,Sec. XV
+BO0624_83619,627029,199,187,MAGGI0TT0 D0MENIC0 (Venezia 1713-1794) αBambino，,226,95.7,False,none,,,,,Sec. XVIII
+BO0624_83619,627030,200,188,ZAMPIERI DoMENIcO detto il Domenichino Bologna 1581-,228,96.2,False,none,,Scuola Bolognese,,,Sec. XVI
+BO0624_83619,627031,201,189,PIAZZETTA GI0V.BATTISTA (Venezia 1682-1754) αLa,230,95.7,False,none,PIAZZETTA JEAN-BAPTISTE,,,,Sec. XVIII
+BO0624_83619,627032,202,190,"AMIG0NI GIAc0MO (Venezia 1675-Madrid 1752) cScene mitologiche,due dipinti ad olio,cm. 115x 63.",232,97.8,False,none,,,,,Sec. XVII
 BO0624_83619,627033,203,191,coMo'a tre cassetti con intarsio alla maniera del Maggiolini. Sec.XVIII.,233,97.2,False,none,,,,,
-BO0624_83619,627034,204,192,"RICCI MARC0 （Belluno 1673-1729) αArchitetture）,due dipinti su tela,cm.58x72.",234,97.3,False,none,SEBASTIANO RICCI,,,,
+BO0624_83619,627034,204,192,"RICCI MARC0 （Belluno 1673-1729) αArchitetture）,due dipinti su tela,cm.58x72.",234,97.3,False,none,SEBASTIANO RICCI,,,,Sec. XVII
 BO0624_83619,627035,205,193,"MIcHAULD TH.(ScuolaFrancese del sec.XIX):αPaesaggi con macchiette .Due dipinti ad olio su tavolette,centi-",235,98.1,False,none,,,,,
 BO0624_83619,627036,206,194,"SCUOLA INGLESE epoca Impero αCavallino,dipinto ad olio su tavola,cm.32x27,cornice scolpita e dorata e custodia.",237,98.2,False,none,,,,,
 BO0624_83619,627037,207,195,"STR0ZZI BERNARDO (Genova 158l-Venezia1641) αIl filosofo,dipinto su tela,cm.60x50.",238,97.5,False,none,,,,,
 BO0624_83619,627038,208,196,"STIPO a sportelli e cassetti a due corpi,in noce scolpito in stile del sec.XVI.",239,97.5,False,none,,,,,
-BO0624_83619,627039,209,197,"ASCHENBACH ANDREA (Cassel 1815-1910) αPaesaggio), dipinto ad olio su tela,cm.25x32,cornice pastiglia dorata. bis.CARPI0NI GIULI0 (Venezia 1611-Verona 1674) aDepo-",240,78.9,False,none,,,,,
+BO0624_83619,627039,209,197,"ASCHENBACH ANDREA (Cassel 1815-1910) αPaesaggio), dipinto ad olio su tela,cm.25x32,cornice pastiglia dorata. bis.CARPI0NI GIULI0 (Venezia 1611-Verona 1674) aDepo-",240,78.9,False,none,,,,,Sec. XIX
 BO0624_83619,627040,210,198,"DAL PO GIAcOMO (Scuola Napoletana,sec.XVII) Scena",243,95.9,False,none,,Scuola Napoletana,,,
-BO0624_83619,627041,211,199,"PITT0NI GI0V.BATTISTA (Venezia 1687-1767) αMartirio di S.Paolo,dipinto su tela,cm.62x88 （vedi Illustrazione).",245,98.1,False,none,,,,,
+BO0624_83619,627041,211,199,"PITT0NI GI0V.BATTISTA (Venezia 1687-1767) αMartirio di S.Paolo,dipinto su tela,cm.62x88 （vedi Illustrazione).",245,98.1,False,none,,,,,Sec. XVIII
 BO0624_83619,627042,212,200,GRANDE COPERTA in seta.Epoca Impero.,246,94.6,False,none,,,,,
 BO0624_83619,627043,213,201,"SCUOLA VENEZIANA del sec.XVI Cristo deriso,dipinto su tela,cm.120x60.",247,97.1,False,none,,Scuola Veneziana,,,
 BO0624_83619,627044,214,202,"SCUOLA VENEZIANA del sec.XVI La Madonna  dipinto su tela,cm.120x60.",248,97.0,False,none,,Scuola Veneziana,,,
-BO0624_83619,627045,215,203,"SCUOLA VENETA del XVIII sec. cLa piazzetta di S. Marco, dipinto su tela, cm.50x60.",249,97.5,False,none,,Scuola Veneta,,,
+BO0624_83619,627045,215,203,"SCUOLA VENETA del XVIII sec. cLa piazzetta di S. Marco, dipinto su tela, cm.50x60.",249,97.5,False,none,PIAZZETTA JEAN-BAPTISTE,Scuola Veneta,,,Sec. XVIII
 BO0624_83619,627046,216,204,"ARTE ROMANA αTesta di donna ,scultura in marmo,frainmento di statua.",250,97.1,False,none,,,,,
 BO0624_83619,627047,217,205,SCUOLA ROMANA del sec.XVI a Cristo morto sorretto dagli,251,96.5,False,none,,Scuola Romana,,,
 BO0624_83619,627048,218,206,"TAPPET0 PERSIANO Galleria,dimensioni cm.420x106",253,95.9,False,none,,,,,
 BO0624_83619,627049,219,207,TABERNACoLO quattrocentesco in legno scolpito e dorato.,254,96.4,False,title_direct,,,TABERNACOLI,,
 BO0624_83619,627050,220,208,"GHISLANDI VITTORI0 detto Fra Galgario (Bergamo 16511743),copia antica da,《Giovine uomo,dipinto su tela, cm.33×39.",255,98.2,False,none,,,,,
-BO0624_83619,627051,221,209,"GI0RDANO LUCA (Napoli 1632-1705)aMartirio di un santo,dipinto su tela,cm.35x30.",256,97.5,False,none,,,,,
+BO0624_83619,627051,221,209,"GI0RDANO LUCA (Napoli 1632-1705)aMartirio di un santo,dipinto su tela,cm.35x30.",256,97.5,False,none,,,,,Sec. XVII
 BO0624_83619,627052,222,210,DUE ALABARDE traforate.,257,91.7,False,none,,,,,
 BO0624_83619,627053,223,211,"PIATTO in ceramica decorata a colori,con figura d’uomo (Pe-",258,96.6,False,none,,,,,
 BO0624_83619,627054,224,212,"TARGA D'ARMI:Tre pistole sec.XVII,una pistola pugnale,",260,96.4,False,none,,,,,
-BO0624_83619,627055,225,213,"SCHED0NE BART0LOME0 (Modena 1580-1615) cSacra Famiglia）,dipinto su tela,cm.28x36.",262,97.5,False,none,,,,,
+BO0624_83619,627055,225,213,"SCHED0NE BART0LOME0 (Modena 1580-1615) cSacra Famiglia）,dipinto su tela,cm.28x36.",262,97.5,False,none,,,,,Sec. XVI
 BO0624_83619,627056,226,214,"TAVOLO in noce,ovale.",263,90.9,False,none,,,,,
 BO0624_83619,627057,227,215,"coNsOLLE con specchiera ip stile Louis XV,accompagnata da una fioriera, da una poltrona,e da un cornicione per tende.",264,98.3,False,none,,Periodo di Luigi XV,POLTRONE,,
 BO0624_83619,627058,228,216,"GUARDI ANTONIO (scuola veneziana del sec. XVIII) aLa Regina Saba  ed αAlessardro Magno , due dipinti ad olio su tela,cm.148x115.",265,98.4,False,none,GUARDI FRANCESCO,Scuola Veneziana,,,
-BO0624_83619,627059,229,217,"SCUOLA ROMANA del sec. XVII aAngelo musicante e putti cantori，dipinto su tela,cm.128x140.",266,97.8,False,none,,Scuola Romana,,,
+BO0624_83619,627059,229,217,"SCUOLA ROMANA del sec. XVII aAngelo musicante e putti cantori，dipinto su tela,cm.128x140.",266,97.8,False,none,,Scuola Romana,,,Sec. XVII
 BO0624_83619,627060,230,218,POLTRONA in noce scolpito. Arte toscana.,267,95.0,False,none,,,POLTRONE,,
-BO0624_83619,627061,231,219,"SCUOLA VENEZIANA del sec. XVI αS. Agostino,dipint su tavola,cm.41x56.",268,97.1,False,none,,Scuola Veneziana,,,
-BO0624_83619,627062,232,220,"ANGUISS0LA S0FONISBA (Cremona 1530--Genova 1620) αRitratto di donna,dipinto su tela,cm.40x45.",269,97.8,False,none,,,,,
+BO0624_83619,627061,231,219,"SCUOLA VENEZIANA del sec. XVI αS. Agostino,dipint su tavola,cm.41x56.",268,97.1,False,none,,Scuola Veneziana,,,Sec. XVI
+BO0624_83619,627062,232,220,"ANGUISS0LA S0FONISBA (Cremona 1530--Genova 1620) αRitratto di donna,dipinto su tela,cm.40x45.",269,97.8,False,none,,,,,Sec. XVI
 BO0624_83619,627063,233,221,DUE SEDIE in legno scolpito. Arte toscana.,270,95.2,False,none,,,SEDIE,,
 BO0624_83619,627064,234,222,MINIATURA su avorio Ritratto di dama.Epora Inpero.,271,96.1,False,none,,,MINIATURE,,
 BO0624_83619,627065,235,223,PIATTO in ceramica decorata a colori aLa nascita di Venere.,272,96.7,False,none,,,,,
@@ -239,7 +239,7 @@ BO0624_83619,627067,237,225,STATUA in bronzo αLa lotta col centauro .Epoca Impe
 BO0624_83619,627068,238,226,SGABELLO a tre gambe. Arte rustica.,275,94.3,False,none,,,,,
 BO0624_83619,627069,239,227,ARTE NAPOLETANA del sec. XVIII:Due figure da presepio (La Madonna e S. Giuseppe 》.,276,97.4,False,none,,,,,
 BO0624_83619,627070,240,228,PIATTO in ceramica decorata a colori (Italia centrale).,277,96.3,False,none,,,,,
-BO0624_83619,627071,241,229,"SCUOLA VENEZIANA del sec. XVIII αRitratto di dama ， pastello,cm.33x42.",278,97.1,False,none,,Scuola Veneziana,,,
+BO0624_83619,627071,241,229,"SCUOLA VENEZIANA del sec. XVIII αRitratto di dama ， pastello,cm.33x42.",278,97.1,False,none,,Scuola Veneziana,,,Sec. XVIII
 BO0624_83619,627072,242,230,PAIo STAFFE marocchine ageminate e guernite di piccole turchesi.,279,96.9,False,none,,,,,
 BO0624_83619,627073,243,231,STAMPA antica αNapoleone da Angelica Kaufmann.,280,95.7,False,none,KAUFFMANN ANGELICA,,,,
 BO0624_83619,627074,244,232,"OROLOGIO in metallo dorato,marcato cF.res Esquivillon e De Choudens. bis.STATUETTA in maiolica di Vicenza α Cane .",281,73.6,False,none,,,,,
@@ -249,62 +249,62 @@ BO0624_83619,627077,247,235,ARTE NAPOLETANA del sec. XVIII:Due figure da presepi
 BO0624_83619,627078,248,236,"IGNOTO del sec.XVII Notturno,dipinto su tavola,centimetri 20×23.",288,96.9,False,none,,,,,
 BO0624_83619,627079,249,237,cORNIcE antica in rame argentato.,289,94.1,False,none,,,,,
 BO0624_83619,627080,250,238,TAVOLINO DA TE' coperto in damasco verde. Stile secoloXVIII.,290,96.6,False,none,,,ARREDAMENTI,,
-BO0624_83619,627081,251,239,"SCUoLA GENOvESE del sec. XII αCristo e la Veronica》, dipinto su tela,cm.105x145.",291,97.4,False,none,,Scuola Genovese,,,
+BO0624_83619,627081,251,239,"SCUoLA GENOvESE del sec. XII αCristo e la Veronica》, dipinto su tela,cm.105x145.",291,97.4,False,none,,Scuola Genovese,,,Sec. XII
 BO0624_83619,627082,252,240,"IGN0T0 αRitratto di donna,dipinto su tela,cm.54x46.",292,96.2,False,none,,,,,
 BO0624_83619,627083,253,241,DUE VASETTI in vetro di forme diverse.,293,94.9,False,none,,,,,
 BO0624_83619,627084,254,242,VAs0 in ceramica colorata e grafita.,294,94.6,False,none,,,,,
 BO0624_83619,627085,255,243,PIATT0 in rame sbalzato.,295,92.0,False,none,,,,,
 BO0624_83619,627086,256,244,"TAVOLINO DA TE'con vassoio laccato,in stile veneziano del sec.XVIII.",296,97.1,False,none,,,ARREDAMENTI,,
 BO0624_83619,627087,257,245,ASTUccIO da toilette in palissandro.,297,94.6,False,none,,,OGGETTI VARI,,
-BO0624_83619,627088,258,246,FIASCA da polvere in cuoio sbalzato e bronzo. Sec. XVI.,298,96.3,False,none,,,,,
+BO0624_83619,627088,258,246,FIASCA da polvere in cuoio sbalzato e bronzo. Sec. XVI.,298,96.3,False,none,,,,,Sec. XVI
 BO0624_83619,627089,259,247,"DUE FIASCHE da polvere,una in cuoio,l'altra caucasica in legno.",299,96.9,False,none,,,,,
-BO0624_83619,627090,260,248,FUcILETTO da caccia a pietra focaia. Sec. XVIIL.,300,95.7,False,none,,,,,
-BO0624_83619,627091,261,249,"SCUOLA UMBRA del sec. XV La morte della Vergine , di pinto su tavola,cm.65x35.",301,97.4,False,none,,Scuola Umbra,,,
+BO0624_83619,627090,260,248,FUcILETTO da caccia a pietra focaia. Sec. XVIIL.,300,95.7,False,none,,,,,Sec. XVII
+BO0624_83619,627091,261,249,"SCUOLA UMBRA del sec. XV La morte della Vergine , di pinto su tavola,cm.65x35.",301,97.4,False,none,,Scuola Umbra,,,Sec. XV
 BO0624_83619,627092,262,250,SPADA spagnola con lama a striscia. Sec.XVII.,302,95.6,False,none,,,,,
 BO0624_83619,627093,263,251,"SCUOLA BOLOGNESE del sec.XVII aLa Madonna col Bambino e Santo Vescovo ,dipinto su tela,cm.118x100.",303,98.0,False,none,,Scuola Bolognese,,,
-BO0624_83619,627094,264,252,SCUOLA NAPOLETANA del sec. XVII αFigura d’uomo ，,304,95.7,False,none,,Scuola Napoletana,,,
+BO0624_83619,627094,264,252,SCUOLA NAPOLETANA del sec. XVII αFigura d’uomo ，,304,95.7,False,none,,Scuola Napoletana,,,Sec. XVII
 BO0624_83619,627095,265,253,"ScUDo veneto da marina in bronzo cesellato,al centro la scritta Marco Barbarigoe lo stemma di S.Marco.",306,98.1,False,none,,,,,
 BO0624_83619,627096,266,254,"PANCHETTA dorata in stile Impero,con cuscino ricamato.",307,96.4,False,none,,,,,
-BO0624_83619,627097,267,255,"SCUOLA FRANCESE del sec. XVIII cMarina ,dipinto su tela,cm.72×54.",308,96.9,False,none,,,,,
-BO0624_83619,627098,268,256,"SALVI GIOVANNI BATTISTA,detto il Sassoferrato  Sassoferrato 1605-Roma 1685) aLa Madonna,dipinto su tela, cm.25x37.",309,98.2,False,none,,,,,
+BO0624_83619,627097,267,255,"SCUOLA FRANCESE del sec. XVIII cMarina ,dipinto su tela,cm.72×54.",308,96.9,False,none,,,,,Sec. XVIII
+BO0624_83619,627098,268,256,"SALVI GIOVANNI BATTISTA,detto il Sassoferrato  Sassoferrato 1605-Roma 1685) aLa Madonna,dipinto su tela, cm.25x37.",309,98.2,False,none,"SASSOFERRATO, GIOV. BATTISTA SALVI",,,,Sec. XVII
 BO0624_83619,627099,269,257,POLTRONA a braccioli con schienale e sedile coperti in cuoio. Epoca sec.XVII.,310,97.4,False,none,,,POLTRONE,,
 BO0624_83619,627100,270,258,TRE STAFFE medioevali e un morso da cavallo.,311,95.6,False,none,,,,,
-BO0624_83619,627101,271,259,"SALVI GIOV.BATTISTA detto il Sassoferrato (Sassoferrato 1605-Roma 1685) αMadonna col Bambino,dipinto ad olio, cm.26×32.",312,98.3,False,none,,,,,
-BO0624_83619,627102,272,260,"IGNOTO del sec. XVII Battaglia,dipinto su tela,centimetri 55x95.",313,96.9,False,none,,,,,
+BO0624_83619,627101,271,259,"SALVI GIOV.BATTISTA detto il Sassoferrato (Sassoferrato 1605-Roma 1685) αMadonna col Bambino,dipinto ad olio, cm.26×32.",312,98.3,False,none,"SASSOFERRATO, GIOV. BATTISTA SALVI",,,,Sec. XVII
+BO0624_83619,627102,272,260,"IGNOTO del sec. XVII Battaglia,dipinto su tela,centimetri 55x95.",313,96.9,False,none,,,,,Sec. XVII
 BO0624_83619,627103,273,261,"SERVIZIO DA CAFFE' in porcellana, con vassoio.",314,95.6,False,none,,,,,
 BO0624_83619,627104,274,262,"GUARDI FRANCESCO (maniera) αLa Salute,dipinto ad olio su tela (vecchia imitazione gia foderata),cm. 54x 49, cornice scolpita e dorata.",315,98.4,False,none,GUARDI FRANCESCO,,,,
-BO0624_83619,627105,275,263,"SCUOLA VENEZIANA del sec. XVIII Mussulmani ,due",316,95.7,False,none,,Scuola Veneziana,,,
+BO0624_83619,627105,275,263,"SCUOLA VENEZIANA del sec. XVIII Mussulmani ,due",316,95.7,False,none,,Scuola Veneziana,,,Sec. XVIII
 BO0624_83619,627106,276,264,TAvoLO in noce. Epoca sec.XVII.,318,93.5,False,none,,,,,
-BO0624_83619,627107,277,265,"SCUOLA VENEZIANA del sec. XVII aRitratto di gentiluomo,dipinto ad olio su tela,cm.100x77,ovale，",319,97.9,False,none,,Scuola Veneziana,,,
-BO0624_83619,627108,278,2,"266.CRESPI GIUSEPPE MARIA （Bologna 1664-1747)aCirce， dipinto ad olio su tela,cm.46x36,cornice dorata.",320,99.0,False,none,CRESPI DANIELE,Scuola Bolognese,,,
+BO0624_83619,627107,277,265,"SCUOLA VENEZIANA del sec. XVII aRitratto di gentiluomo,dipinto ad olio su tela,cm.100x77,ovale，",319,97.9,False,none,,Scuola Veneziana,,,Sec. XVII
+BO0624_83619,627108,278,2,"266.CRESPI GIUSEPPE MARIA （Bologna 1664-1747)aCirce， dipinto ad olio su tela,cm.46x36,cornice dorata.",320,99.0,False,none,CRESPI DANIELE,Scuola Bolognese,,,Sec. XVII
 BO0624_83619,627109,279,3,"267.ScUOLA ROMANA del sec.XVI aIl casto Giuseppee la moglie di Putifarre，dipinto su tela,cm.115x75.",321,99.0,False,none,,Scuola Romana,,,
 BO0624_83619,627110,280,4,"268.IGNOTO del sec.XVI αAllegoria simbolica della Santa Croce ， dipinto su tavola, cm.85x70.",322,98.9,False,none,,,,,
 BO0624_83619,627111,281,269,TARGA D'ARMI: Quattro spade e una daga del sec.XVIII.,323,96.2,False,none,,,,,
 BO0624_83619,627112,282,6,"270.SCUOLA DEL MORETTO DA BRESCIA (sec. XVI) San Gerolamo,dipinto su tela,cm.48x60.",324,98.8,False,none,,,,,
-BO0624_83619,627113,283,7,"271.SCUOLA BASSANESE DED sec. XVI &amp;Seppellimento di Cristo,dipinto su teia,cm.50x43.",325,98.8,False,none,,,,,
-BO0624_83619,627114,284,8,"272.R0SA SALVATORE,Scuola di.-(Arenella 1615-Roma 1673) Due paesaggi pendants dipinti a olio su tela, cm.40x 50, cornice nera-oro.",326,99.2,False,none,ROSA SALVATOR,,,,
+BO0624_83619,627113,283,7,"271.SCUOLA BASSANESE DED sec. XVI &amp;Seppellimento di Cristo,dipinto su teia,cm.50x43.",325,98.8,False,none,,,,,Sec. XVI
+BO0624_83619,627114,284,8,"272.R0SA SALVATORE,Scuola di.-(Arenella 1615-Roma 1673) Due paesaggi pendants dipinti a olio su tela, cm.40x 50, cornice nera-oro.",326,99.2,False,none,ROSA SALVATOR,,,,Sec. XVII
 BO0624_83619,627115,285,9,"273.SCUOLA FRANCESE del sec. XVIlI Ritratto di dama , dipinto ad olio su tela,cm.60x82.",327,98.8,False,none,,,,,
 BO0624_83619,627116,286,10,"274.FUcILE della Georgia (Caucaso),cassa incrostata di metall) e madreperla (parti mancanti).",328,98.3,False,none,,,OGGETTI IN METALLO,,
 BO0624_83619,627117,287,11,"275.TAPPETO PERSIANO Sumak,dimensioni cm.230×175.",329,97.0,False,none,,,,,
-BO0624_83619,627118,288,276,"SCUOLA PADoVANA del sec. XVI aCristo e due angeli, dipinto su tavola,cm.55x58.",330,97.4,False,none,,Scuola Padovana,,,
+BO0624_83619,627118,288,276,"SCUOLA PADoVANA del sec. XVI aCristo e due angeli, dipinto su tavola,cm.55x58.",330,97.4,False,none,,Scuola Padovana,,,Sec. XVI
 BO0624_83619,627119,289,13,"277.SCUOLA SPAGNOLA del sec.XVII Ritratto di gentiluomo della famiglia Gonzaga , dipinto su tela, cm.40x67.",331,98.6,False,none,,,,,
-BO0624_83619,627120,290,14,"278.SCUOLA FIAMMINGA del sec. XVI &amp;Adorazione dei Re Magi,dipinto ad olio, cm.35x45.",332,98.2,False,none,,Scuola Fiamminga,,,
+BO0624_83619,627120,290,14,"278.SCUOLA FIAMMINGA del sec. XVI &amp;Adorazione dei Re Magi,dipinto ad olio, cm.35x45.",332,98.2,False,none,,Scuola Fiamminga,,,Sec. XVI
 BO0624_83619,627121,291,15,"279.SCUOLA FIAMMINGA del sec.XVII Vascelli in mare dipinto ad olio,cm.49x75.",333,98.0,False,none,,Scuola Fiamminga,,,
-BO0624_83619,627122,292,16,"280.BASSAN0 JAc0P0 (1510-1592) αL'ultima cena,dipinto ad olio,cm.36x46.",334,97.8,False,none,,,,,
+BO0624_83619,627122,292,16,"280.BASSAN0 JAc0P0 (1510-1592) αL'ultima cena,dipinto ad olio,cm.36x46.",334,97.8,False,none,,,,,Sec. XVI
 BO0624_83619,627123,293,281,"SCUOLA VENEZIANA del sec. XVIHI Ritratto di donna 》， dipinto ad olio,cm.90x66.",335,97.3,False,none,,Scuola Veneziana,,,
 BO0624_83619,627124,294,18,"282.TAPPETO PERSIANO Galleria,dimensioni cm.488x108.",336,97.1,False,none,,,,,
 BO0624_83619,627125,295,19,"283.SCUOLA VENEZIANA del sec.XIX Il Bacino di S.Marco dai Giardini,dipinto ad olio,cm. 23x28.",337,98.4,False,none,,Scuola Veneziana,,,
-BO0624_83619,627126,296,20,"284.GI0RDANO LUCA (Napoli 1632-1705) αEpisodio di Battaglia,dipinto su tela,cm.35x53.",338,98.2,False,none,,,,,
-BO0624_83619,627127,297,21,"285.IGNOTO seguace di Michelangelo, sec. XVI aLa Deposizione dalla Croce,dipinto su tavola,cm.25x30.",339,98.5,False,none,CARAVAGGIO,,,,
+BO0624_83619,627126,296,20,"284.GI0RDANO LUCA (Napoli 1632-1705) αEpisodio di Battaglia,dipinto su tela,cm.35x53.",338,98.2,False,none,,,,,Sec. XVII
+BO0624_83619,627127,297,21,"285.IGNOTO seguace di Michelangelo, sec. XVI aLa Deposizione dalla Croce,dipinto su tavola,cm.25x30.",339,98.5,False,none,CARAVAGGIO,,,,Sec. XVI
 BO0624_83619,627128,298,22,"286.MANELLI P. (Scuola bolognese del sec. XVII) α Cristo adorato dagli angeli,in basso a destra l'autoritratto del pittore, dipinto su tela, cm. 115x 92.",340,99.0,False,none,,Scuola Bolognese,,,
-BO0624_83619,627129,299,287,"SCUOIA TOsCANA del sec. XVII αRitratto di bambina , dipinto su tela,cm.90x65.",341,97.3,False,none,,,,,
-BO0624_83619,627130,300,24,"288.SCUOLA LOMBARDA del sec. XVI αEpisodio miracoloso ， dipinto su tavola,parte di una predella,da altare,centimetri 36x36.",342,98.8,False,none,,Scuola Lombarda,,,
-BO0624_83619,627131,301,25,"289.IGNOTO del sec. XVI  Cristo e gli apostoli ,dipinto su tavola,cm.70x20.",343,97.9,False,none,,,,,
-BO0624_83619,627132,302,26,"290.GIANETTI FILIPPO (n. a Messina,m. a Napoli 1702) Paesaggio napoletano , dipinto ad olio su tela, firmato, centimetri 62x75,cornice nera e oro.",344,98.9,False,none,,,,,
-BO0624_83619,627133,303,27,"291.CONCA SEBASTIANO (Gaeta 1679-Napoli 1776)aFurio e la Voragine，dipinto ad olio,cm.62x49.",345,98.3,False,none,,,,,
-BO0624_83619,627134,304,28,"292.CAVALLINO BERNARDO (Napoli 1622-1656) aGesu nel1'Orto,dipinto ad olio su tela,cm.93x133.",346,98.3,False,none,,,,,
+BO0624_83619,627129,299,287,"SCUOIA TOsCANA del sec. XVII αRitratto di bambina , dipinto su tela,cm.90x65.",341,97.3,False,none,,,,,Sec. XVII
+BO0624_83619,627130,300,24,"288.SCUOLA LOMBARDA del sec. XVI αEpisodio miracoloso ， dipinto su tavola,parte di una predella,da altare,centimetri 36x36.",342,98.8,False,none,,Scuola Lombarda,,,Sec. XVI
+BO0624_83619,627131,301,25,"289.IGNOTO del sec. XVI  Cristo e gli apostoli ,dipinto su tavola,cm.70x20.",343,97.9,False,none,,,,,Sec. XVI
+BO0624_83619,627132,302,26,"290.GIANETTI FILIPPO (n. a Messina,m. a Napoli 1702) Paesaggio napoletano , dipinto ad olio su tela, firmato, centimetri 62x75,cornice nera e oro.",344,98.9,False,none,,,,,Sec. XVIII
+BO0624_83619,627133,303,27,"291.CONCA SEBASTIANO (Gaeta 1679-Napoli 1776)aFurio e la Voragine，dipinto ad olio,cm.62x49.",345,98.3,False,none,,,,,Sec. XVII
+BO0624_83619,627134,304,28,"292.CAVALLINO BERNARDO (Napoli 1622-1656) aGesu nel1'Orto,dipinto ad olio su tela,cm.93x133.",346,98.3,False,none,,,,,Sec. XVII
 BO0624_83619,627135,305,29,"293.PARAVENTO in stile Louis XVI,decorato di stampe francesi.",347,97.6,False,none,,,STAMPE E INCISIONI,,
-BO0624_83619,627136,306,294,MoBILETTO scolpito a un cassetto e sportello. Epoca secolo XVIII.,348,96.9,False,none,,,,,
+BO0624_83619,627136,306,294,MoBILETTO scolpito a un cassetto e sportello. Epoca secolo XVIII.,348,96.9,False,none,,,,,Sec. XVIII
 BO0624_83619,627137,307,295,DIVANO coperto in damasco rosso.,349,93.9,False,none,,,,,
 BO0624_83619,627138,308,296,TAVOLINO DA TE'in stile bolognese del sec.XVII.,350,95.8,False,none,,,ARREDAMENTI,,
 BO0624_83619,627139,309,297,SGABELLO a tre gambe. Arte rustica.,351,94.3,False,none,,,,,
@@ -317,11 +317,11 @@ BO0624_83619,627145,315,303,"MINIATURA su avorio αNapoleone ,montatura in tarta
 BO0624_83619,627146,316,304,GRUPPO in ceramica colorata αLe nutrici.,358,95.1,False,none,,,,,
 BO0624_83619,627147,317,305,"DUE PIATTI decorati,uno in ceramica giapponese,l'altro di imitazione raffaellesca.",359,97.6,False,none,,,PIATTI,,
 BO0624_83619,627148,318,306,ALABARDA corSesca.,360,89.5,False,none,,,,,
-BO0624_83619,627149,319,307,SCUOLA EMILIANA del sec. XVI &amp;La Madonna col Bam-,361,96.2,False,none,,Scuola Emiliana,,,
-BO0624_83619,627150,320,308,"DUE FIASCHE DA POLVERE in rame, una del sec. XIX,",363,95.8,False,none,,,,,
+BO0624_83619,627149,319,307,SCUOLA EMILIANA del sec. XVI &amp;La Madonna col Bam-,361,96.2,False,none,,Scuola Emiliana,,,Sec. XVI
+BO0624_83619,627150,320,308,"DUE FIASCHE DA POLVERE in rame, una del sec. XIX,",363,95.8,False,none,,,,,Sec. XIX
 BO0624_83619,627151,321,309,RONCONE a tridente.,367,90.0,False,none,,,,,
 BO0624_83619,627152,322,310,DUE VASI da farmacia in ceramica.,368,94.1,False,none,,,VASI DA FARMACIA,,
-BO0624_83619,627153,323,311,"SCUOLA VENETA del sec. XVII L'ultima cena , dipinto su tela,cm.85x110.",369,97.1,False,none,,Scuola Veneta,,,
+BO0624_83619,627153,323,311,"SCUOLA VENETA del sec. XVII L'ultima cena , dipinto su tela,cm.85x110.",369,97.1,False,none,,Scuola Veneta,,,Sec. XVII
 BO0624_83619,627154,324,312,"MoNETA in argento, commemorativa d'Innocenzo XII;e SECCHIELLO in rame sbalzato.",370,97.5,False,none,,,,,
 BO0624_83619,627155,325,313,"COFANETTO in legno scolpito,e in parte dorato. Sec.XVII.",371,96.4,False,none,,,,,
 BO0624_83619,627156,326,314,CoLONNA in marmo con decorazioni in metallo dorato.,372,96.2,False,none,,,,,
@@ -331,7 +331,7 @@ BO0624_83619,627159,329,317,DUE FIASCHE DA POLVERE del sec.XVII.,375,94.6,False,
 BO0624_83619,627160,330,318,"SCUOLA VENEZIANA aScena galante) dipinto su vetro, cm.26×34.",376,96.6,False,none,,Scuola Veneziana,,,
 BO0624_83619,627161,331,319,"FUcILE inglese Stevens in acciaio,a due canne, con calcio scolpito.",377,97.0,False,none,STEVENS (PALAMEDES PALAMEDESZ),,,,
 BO0624_83619,627162,332,320,"VENTAGLIO in seta bianca dipinta αMatrimonio medioevale,firmato A.Laurence,montatura in madreperla a decorazioni in argento dorato.",378,98.5,False,none,,,,,
-BO0624_83619,627163,333,321,"SCUOLA VENETA del sec. XVI Ritratti di dogi,tre dipinti su tela,cm.115x105 ciascuno.",379,97.6,False,none,,Scuola Veneta,,,
+BO0624_83619,627163,333,321,"SCUOLA VENETA del sec. XVI Ritratti di dogi,tre dipinti su tela,cm.115x105 ciascuno.",379,97.6,False,none,,Scuola Veneta,,,Sec. XVI
 BO0624_83619,627164,334,322,DUE VASETTI di forme diverse in vetro di Murano.,380,95.9,False,none,,Scuola di Murano,,,
 BO0624_83619,627165,335,323,"SCUOLA DI GIULIO CARPIONI a Mose salvato dalle acque）,dipinto su tela,cm.95x120.",381,97.5,False,none,,,,,
 BO0624_83619,627166,336,324,MORIONE in acciacio cesellato.,382,93.5,False,none,,,,,
@@ -342,30 +342,30 @@ BO0624_83619,627170,340,328,"INCIsIONE colorata da Joseph Vernet (Scuola Frances
 BO0624_83619,627171,341,329,"INcIsIoNE colorata l Berghem (Scuola fiamminga del secolo XVII）aAncienp de Genes,cm.76x56.",387,97.8,False,none,BERCHEM NICOLAAS,Scuola Fiamminga,,,
 BO0624_83619,627172,342,330,"IGNOTO del sec.YVI a Episodi della Passione di Cristo,dipinto su tavola,cm.80x28.",388,97.6,False,none,,,,,
 BO0624_83619,627173,343,331,"IGNOTO de! sec.X aLa Madonna col Bambino,dipinto su tela,cm.75x100.",389,97.0,False,none,,,,,
-BO0624_83619,627174,344,332,"IGNOTO del sec. XVII L'adorazione dei Magi ,dipinto su vetro,cm.29x31.",390,97.1,False,none,,,,,
+BO0624_83619,627174,344,332,"IGNOTO del sec. XVII L'adorazione dei Magi ,dipinto su vetro,cm.29x31.",390,97.1,False,none,,,,,Sec. XVII
 BO0624_83619,627175,345,333,"IGNOTO del sec.XVI αLa preghiera di Cristo nell'Orto》， dipinto su tavola,cm.34x52.",391,97.5,False,none,,,,,
 BO0624_83619,627176,346,334,"IGNOTO del see. XVII αPaesaggio , dipinto ad olio, centimetri 46x59.",392,96.9,False,none,,,,,
-BO0624_83619,627177,347,335,"BAR0cCI FEDERIC0 (Urbino 1526-1612) αIa Flagellazione,dipinto adolio,cm.48x37.",393,97.4,False,none,,,,,
-BO0624_83619,627178,348,336,"SCUOLA FIAMMINGA del sec. XVII Farfalle e fiori,dipinto su tela,cm. 37x48.",394,97.3,False,none,,Scuola Fiamminga,,,
-BO0624_83619,627179,349,337,"MAZZUCCHELLI PIER FRANCESCO,detto il Morazzone (Morazzone 1571-Piacenza 1626) αL'arcangelo Gabriele,dipinto su tela,cm.40x60.",395,98.4,False,none,,,,,
+BO0624_83619,627177,347,335,"BAR0cCI FEDERIC0 (Urbino 1526-1612) αIa Flagellazione,dipinto adolio,cm.48x37.",393,97.4,False,none,,,,,Sec. XVI
+BO0624_83619,627178,348,336,"SCUOLA FIAMMINGA del sec. XVII Farfalle e fiori,dipinto su tela,cm. 37x48.",394,97.3,False,none,,Scuola Fiamminga,,,Sec. XVII
+BO0624_83619,627179,349,337,"MAZZUCCHELLI PIER FRANCESCO,detto il Morazzone (Morazzone 1571-Piacenza 1626) αL'arcangelo Gabriele,dipinto su tela,cm.40x60.",395,98.4,False,none,,,,,Sec. XVI
 BO0624_83619,627180,350,338,TAPPET0 PERSIANO Melahir.Dimensioni cm.155x100.,396,95.8,False,none,,,,,
 BO0624_83619,627181,351,339,"GUARDI FRANCESCO (maniera) S. Giorgio,dipinto ad olio su tela (vecchia imitazione gia foderata),cm.54x 66,cornice scolpita e dorata.",397,98.4,False,none,GUARDI FRANCESCO,,,,
-BO0624_83619,627182,352,340,"SCUOLA VENEZIANA del sec. XVII Scene Sacre, due dipinti su tavola,cm.17x32.",398,97.3,False,none,,Scuola Veneziana,,,
-BO0624_83619,627183,353,341,"SCUoLA TOsCANA del sec. XVI aLa Vergine col Bambino eSanta Elisabett:,dipintosutela,cm.90x100.",399,97.8,False,none,,Scuola Toscana,,,
+BO0624_83619,627182,352,340,"SCUOLA VENEZIANA del sec. XVII Scene Sacre, due dipinti su tavola,cm.17x32.",398,97.3,False,none,,Scuola Veneziana,,,Sec. XVII
+BO0624_83619,627183,353,341,"SCUoLA TOsCANA del sec. XVI aLa Vergine col Bambino eSanta Elisabett:,dipintosutela,cm.90x100.",399,97.8,False,none,,Scuola Toscana,,,Sec. XVI
 BO0624_83619,627184,354,342,"MANIERA DI HANS HOLBEIN Ritratto d'uomo,dipinto su tavola.",400,96.6,False,none,HOLBEIN HANS IL GIOVANE,,,,
 BO0624_83619,627185,355,343,TAVoLO intarsiato a scacchiera.Sec.XVII.,401,95.1,False,none,,,,,
 BO0624_83619,627186,356,344,"SALOTTO in stile Louis XV,coperto in Lampasso,composto di 1 canape,2poltrone,4 sedie,2posapiedi.",402,97.9,False,none,,Periodo di Luigi XV,SEDIE,,
-BO0624_83619,627187,357,345,"SCUOLA VENETA del sec. XVI aCristo, dipinto su tela, cm.53×40.",403,96.7,False,none,,Scuola Veneta,,,
+BO0624_83619,627187,357,345,"SCUOLA VENETA del sec. XVI aCristo, dipinto su tela, cm.53×40.",403,96.7,False,none,,Scuola Veneta,,,Sec. XVI
 BO0624_83619,627188,358,346,TARGA D'ARMI:Quattro pistole Louis XVI.,404,95.0,False,none,,,,,
 BO0624_83619,627189,359,347,"SCUOLA DEL MORETTO DA BRESCIA (Sec. XVI) &amp;San Gerolamo,dipinto su tela,cm.57x73.",405,97.5,False,none,,,,,
 BO0624_83619,627190,360,348,"SCUOLA BERGAMASCA del sec.XVII aRitratto d'uomo, dipinto su tela,cm.88x65.",406,97.3,False,none,,Scuola Bergamasca,,,
-BO0624_83619,627191,361,349,"BASCHENIS EVARISTO (Bergamo 1617-1677) aStrumenti musicali,dipinto su tela,cm.135x105.",407,97.6,False,none,,,,,
-BO0624_83619,627192,362,350,"SCUOLA BOLOGNESE del sec. XVII Ritratto d'uomo, dipinto su tela，cm.59x74.",408,97.2,False,none,,Scuola Bolognese,,,
+BO0624_83619,627191,361,349,"BASCHENIS EVARISTO (Bergamo 1617-1677) aStrumenti musicali,dipinto su tela,cm.135x105.",407,97.6,False,none,,,,,Sec. XVII
+BO0624_83619,627192,362,350,"SCUOLA BOLOGNESE del sec. XVII Ritratto d'uomo, dipinto su tela，cm.59x74.",408,97.2,False,none,,Scuola Bolognese,,,Sec. XVII
 BO0624_83619,627193,363,351,DUE PIATTI in maiolica decorata (Napoli).,409,95.0,False,none,,,PIATTI,,
 BO0624_83619,627194,364,352,"SGABELLO a tre gambe,in noce. Arte rustica.",410,95.3,False,none,,,,,
 BO0624_83619,627195,365,353,"SCUOLA VENETA del sec.XVII Ritratto di dama ,dipinto su tela,cm.642",411,97.1,False,none,,Scuola Veneta,,,
 BO0624_83619,627196,366,354,"VAso di ceramica siciliana,fondo azzurro,a fogliami verdi e bruni.",412,97.0,False,none,,,VASI,,
-BO0624_83619,627197,367,355,"IGNOTO del sec. XVII αNotturno, dipinto ad olio su tavola, cm.20×23.",413,97.0,False,none,,,,,
+BO0624_83619,627197,367,355,"IGNOTO del sec. XVII αNotturno, dipinto ad olio su tavola, cm.20×23.",413,97.0,False,none,,,,,Sec. XVII
 BO0624_83619,627198,368,356,STocCO cesellato.Sec.XVII.,414,92.6,False,none,,,,,
 BO0624_83619,627199,369,357,DUE POLTRONE in noce in stile fiorentino del Quattrccento.,415,96.6,False,none,,,POLTRONE,,
 BO0624_83619,627200,370,358,ARTE NAPOLETANA del sec. XVIII:Due figure da Presepio.,416,96.3,False,none,,,,,

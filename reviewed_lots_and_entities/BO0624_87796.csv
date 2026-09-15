@@ -1,36 +1,36 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_87796,260943,1,1,Stilleben. 1660.,26,72.0,False,title_direct,,,Stilleben,,
+BO0624_87796,260943,1,1,Stilleben. 1660.,26,72.0,False,title_direct,,,Stilleben,,Sec. XVII
 BO0624_87796,260944,2,2,Rebecca.,36,87.5,False,positional,FRANCESCO ALBANI,,,,
-BO0624_87796,260945,3,1587,1661.,44,61.5,False,positional,ALEXANDER ADRIAENSSEN,,,,
-BO0624_87796,260946,4,1620,1664.,47,61.5,False,positional,CORNELIS BEGA,,,,
+BO0624_87796,260945,3,1587,1661.,44,61.5,False,positional,ALEXANDER ADRIAENSSEN,,,,Sec. XVII
+BO0624_87796,260946,4,1620,1664.,47,61.5,False,positional,CORNELIS BEGA,,,,Sec. XVII
 BO0624_87796,260947,5,3,"Wirtshausszene. m Innern der Schenke,in welche durch ein hoch oben angebrachtes Fenster Licht fallt, sitzen die Bauern mit ihren Frauen in groBer Anzahl beim Schmause und bei frohlicher Unterhaltung zusammen. Rechts stehen und liegen mehrere groBe Fasser, im Vordergrunde steht, an eines derselben gelehnt, in der Linken einen Becher haltend, eine Frau, anscheinend die Wirtin.",51,98.1,False,positional,CORNELIS BEGA,,VASI,,
 BO0624_87796,260948,6,4,Marine.,53,85.7,False,positional,CORNELIS BEGA,,,,
 BO0624_87796,260949,7,1667,## 5.Die Kartenspieler.,63,100.0,False,positional,PIETER DE BLOOT,,,,
-BO0624_87796,260950,8,1628,1670.,76,75.0,False,positional,PIETER DE BLOOT,,,,
+BO0624_87796,260950,8,1628,1670.,76,75.0,False,positional,PIETER DE BLOOT,,,,Sec. XVII
 BO0624_87796,260951,9,1667,## 6.Der Guckkastenmann.,78,100.0,False,positional,PIETER DE BLOOT,,,,
 BO0624_87796,260952,10,I,"n der Mitte eines Zimmers steht der Guckkastenmann mit seinem Diener und fuihrt seinen Apparat drei ihn neugierig mit ihren Kindern umstehenden Frauen vor. Links von dieser Gruppe steht eine hohe Kiste, auf und neben welcher in groBer Unordnung die verschiedensten GefaBe liegen und stehen.",80,99.8,False,positional,PIETER DE BLOOT,,OGGETTI VARI,,
 BO0624_87796,260953,11,17,Jahrhundert.,86,88.0,False,positional,BOECKELAAR,Scuola Fiorentina,,,
-BO0624_87796,260954,12,7,Die Fischhandler. 1676.,88,82.1,False,positional,BOECKELAAR,,,,
+BO0624_87796,260954,12,7,Die Fischhandler. 1676.,88,82.1,False,positional,BOECKELAAR,,,,Sec. XVII
 BO0624_87796,260955,13,8,Schlachtenszene.,98,93.8,False,positional,JACQUES BOURGUIGNON; J.COURTOIS,,,,
 BO0624_87796,260956,14,I,"m Vordergrunde tobt wilder Kampf zwischen Reitern, von denen bereits mehrere verwundet am Boden liegen. Links im Mittelgrunde,am FuBe hoher Gebirgszige, liegt eine befestigte Burg, gegen welche mehrere Reiter- scharen lossprengen. Das Ganze ist von Pulverdampf erfillt.",100,99.8,False,positional,JACQUES BOURGUIGNON; J.COURTOIS,,,,
-BO0624_87796,260957,15,1569,1625.,105,61.5,False,positional,JAN BREUGHEL,,,,
-BO0624_87796,260958,16,9,Blumenstilleben. 1674.,107,81.1,False,title_direct,,,Blumenstilleben,,
+BO0624_87796,260957,15,1569,1625.,105,61.5,False,positional,JAN BREUGHEL,,,,Sec. XVII
+BO0624_87796,260958,16,9,Blumenstilleben. 1674.,107,81.1,False,title_direct,,,Blumenstilleben,,Sec. XVII
 BO0624_87796,260959,17,10,Landschaft mit Herde.,119,93.0,False,positional,GERRITSZ CAMPHUYSEN,,,,
 BO0624_87796,260960,18,I,"m Vordergrunde liegende und stehende Rinder, von einer Hirtin und einem kleinen Madchen gehitet. Im Hintergrunde zwischen Baumgruppen das Dorf mit der Kirche.",121,99.7,False,positional,GERRITSZ CAMPHUYSEN,,,,
-BO0624_87796,260961,19,1595,1622.,127,61.5,False,positional,FRANCESCO CARRACCI,,,,
-BO0624_87796,260962,20,11,Der hl.Johannes der Taufer. 1674.,129,86.7,False,positional,FRANCESCO CARRACCI,,,,
+BO0624_87796,260961,19,1595,1622.,127,61.5,False,positional,FRANCESCO CARRACCI,,,,Sec. XVII
+BO0624_87796,260962,20,11,Der hl.Johannes der Taufer. 1674.,129,86.7,False,positional,FRANCESCO CARRACCI,,,,Sec. XVII
 BO0624_87796,260963,21,12,Portrat eines Geistlichen.,140,94.3,False,positional,PHILIPP DE CHAMPAGNE,,,,
 BO0624_87796,260964,22,13,Landschaft.,150,87.0,False,positional,PIETER CROOS,,,,
 BO0624_87796,260965,23,I,"m Vordergrunde, am Rande eines Gewassers, an dessen Ufer sich links eine Gruppe von drei Baumen erhebt, sitzen drei Bauern im Gesprache, wahrend rechts vorne hinter einem Erdhigel zwei Bauern liegen. Im Hintergrunde ein schloBahnliches Gebaude,in weitester Entfernung ein Kirchturm sichtbar.",152,99.8,False,positional,PIETER CROOS,,OGGETTI VARI,,
-BO0624_87796,260966,24,1605,1691.,160,61.5,False,positional,AELBERT CUYP,,,,
+BO0624_87796,260966,24,1605,1691.,160,61.5,False,positional,AELBERT CUYP,,,,Sec. XVII
 BO0624_87796,260967,25,14,Auf der Weide.,162,89.7,False,positional,AELBERT CUYP,,,,
 BO0624_87796,260968,26,I,"m Vordergrunde einer FluBlandschaft ruhende Herde, bestehend aus Kuhen, Schafen und Ziege. Jenseits des breiten Flusses ist in weiter Ent- fernung ein Dorf sichtbar.",164,99.7,False,positional,AELBERT CUYP,,,,
-BO0624_87796,260969,27,1575,1647.,169,61.5,False,positional,JACOB GERRITSZ CUYP,,,,
-BO0624_87796,260970,28,15,Der Winzer. 1673.,171,71.4,False,positional,JACOB GERRITSZ CUYP,,,,
+BO0624_87796,260969,27,1575,1647.,169,61.5,False,positional,JACOB GERRITSZ CUYP,,,,Sec. XVII
+BO0624_87796,260970,28,15,Der Winzer. 1673.,171,71.4,False,positional,JACOB GERRITSZ CUYP,,,,Sec. XVII
 BO0624_87796,260971,29,16,Landschaft mit Herde.,183,93.0,False,positional,JACOB VAN DER DOES,,,,
 BO0624_87796,260972,30,I,"m Vordergrunde Schafe, Ziegen und ein Rind vor einem niederen Gebische. Aus dem Hintergrunde naht der Hirte, eine kleine Schaf- und",185,99.6,False,positional,JACOB VAN DER DOES,,,,
-BO0624_87796,260973,31,1621,1674.,193,61.5,False,positional,GERBRAND VAN DEN EECKHOUT,,,,
-BO0624_87796,260974,32,17,Die Grablegung Christi. 1669.,195,84.6,False,positional,GERBRAND VAN DEN EECKHOUT,,,,
+BO0624_87796,260973,31,1621,1674.,193,61.5,False,positional,GERBRAND VAN DEN EECKHOUT,,,,Sec. XVII
+BO0624_87796,260974,32,17,Die Grablegung Christi. 1669.,195,84.6,False,positional,GERBRAND VAN DEN EECKHOUT,,,,Sec. XVII
 BO0624_87796,260975,33,18,Mannliches Portrat.,204,92.3,False,positional,BERNHART FABRITIUS,,,,
 BO0624_87796,260976,34,1733,## 19. Vor dem Schlosse.,214,100.0,False,positional,CARL VAN FALENS,,,,
 BO0624_87796,260977,35,16,Jahrhundert.,222,88.0,False,positional,,FLANDRISCHER MEISTER,,,
@@ -38,66 +38,66 @@ BO0624_87796,260978,36,20,Der hl.Hieronymus in Buβe Jahrhundert.,224,76.9,False
 BO0624_87796,260979,37,21,Landschaft mit Soldaten.,233,93.9,False,positional,,FRANZOSISCHE SCHULE,,,
 BO0624_87796,260980,38,I,"m Vordergrunde einer baumreichen Felsenlandschaft sitzt auf einem mit Moos bewachsenen Felsblock ein Mann, der einem mit Sturmhaube dieser Gruppe ein alterer und ein jingerer Mann im Gesprach. Rechts im und Harnisch bekleideten Soldaten anscheinend eine Weisung erteilt. Hinter Mittelgrunde ein Wasserfall, der von einem steilen Felsen herabstirzt. Im Hintergrunde links Ausblick auf weite Gebirgszige.",235,99.9,False,positional,,FRANZOSISCHE SCHULE,OGGETTI VARI,,
 BO0624_87796,260981,39,18,Jahrhundert.,241,88.0,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_87796,260982,40,22,Madchenportrat. 1661.,243,77.8,False,positional,,FRANZOSISCHE SCHULE,,,
+BO0624_87796,260982,40,22,Madchenportrat. 1661.,243,77.8,False,positional,,FRANZOSISCHE SCHULE,,,Sec. XVII
 BO0624_87796,260983,41,23,Totes Gefligel.,253,90.3,False,positional,JAN FYT,,,,
 BO0624_87796,260984,42,24,Fischstilleben.,260,90.3,False,title_direct,,,Fischstilleben,,
 BO0624_87796,260985,43,25,Landschaft mit Kloster. Jahrhundert.,270,74.6,False,positional,ABEL GRIMMER,,,,
 BO0624_87796,260986,44,26,Jagdstilleben.,280,89.7,False,title_direct,,,Jagdstilleben,,
 BO0624_87796,260987,45,I,"m Vordergrunde einer Felsenlandschaft liegen in malerischer Anordnung ein toter Hase, tote Vogel, ein Korb mit einer Falkenkappe, ein",282,99.6,False,positional,,,Jagdstilleben,,
-BO0624_87796,260988,46,1653,1719.,295,61.5,False,positional,MATTEUS VAN HELMONT,,,,
-BO0624_87796,260989,47,27,Das Tischgebet. 1680.,297,77.8,False,positional,MATTEUS VAN HELMONT,,,,
-BO0624_87796,260990,48,28,Der Schafer. 1678.,307,73.3,False,positional,GERARD VAN HERP,,,,
+BO0624_87796,260988,46,1653,1719.,295,61.5,False,positional,MATTEUS VAN HELMONT,,,,Sec. XVIII
+BO0624_87796,260989,47,27,Das Tischgebet. 1680.,297,77.8,False,positional,MATTEUS VAN HELMONT,,,,Sec. XVII
+BO0624_87796,260990,48,28,Der Schafer. 1678.,307,73.3,False,positional,GERARD VAN HERP,,,,Sec. XVII
 BO0624_87796,260991,49,29,"Allegorische Darstellung. n der Mitte des Bildes sitzt ein weiBgekleidetes Madchen, den linken FuB auf eine Glaskugel aufgestitzt, zwei Amoretten iberreichen ihm Blumen. Rechts von ihm eine Nymphe mit Wasserurne in liegender Stellung, iber seinem Haupte ein Engel mit Stern. Im Hintergrunde links die Gottin Aurora. Links unten bez.:K.Du Jardin F.",319,96.3,False,positional,KAREL DU JARDIN,,,,
-BO0624_87796,260992,50,30,Strandszene. 1620.,322,73.3,False,positional,KAREL DU JARDIN,,,,
+BO0624_87796,260992,50,30,Strandszene. 1620.,322,73.3,False,positional,KAREL DU JARDIN,,,,Sec. XVII
 BO0624_87796,260993,51,31,Weibliches Bildnis.,334,92.3,False,positional,PETER ISACS,,,,
 BO0624_87796,260994,52,17,Jahrhundert.,342,88.0,False,positional,J. P. JONCKHEER,Scuola Fiorentina,,,
-BO0624_87796,260995,53,1648,1710.,345,61.5,False,positional,FERDINAND VAN KESSEL,,,,
-BO0624_87796,260996,54,32,Das Paradies. 1740.,347,75.0,False,positional,FERDINAND VAN KESSEL,,,,
-BO0624_87796,260997,55,33,Mannliches Portrat. 1704.,357,81.8,False,positional,JOHANN KUPECZKY,,,,
-BO0624_87796,260998,56,34,Landschaft mit Hirtenstick. 1687.,367,86.7,False,positional,PIETER VAN DER LEEUW,,,,
-BO0624_87796,260999,57,35,Die Kuchenbaickerin. 1687.,376,82.6,False,positional,JOHANN LINGELBACH,,,,
+BO0624_87796,260995,53,1648,1710.,345,61.5,False,positional,FERDINAND VAN KESSEL,,,,Sec. XVIII
+BO0624_87796,260996,54,32,Das Paradies. 1740.,347,75.0,False,positional,FERDINAND VAN KESSEL,,,,Sec. XVIII
+BO0624_87796,260997,55,33,Mannliches Portrat. 1704.,357,81.8,False,positional,JOHANN KUPECZKY,,,,Sec. XVIII
+BO0624_87796,260998,56,34,Landschaft mit Hirtenstick. 1687.,367,86.7,False,positional,PIETER VAN DER LEEUW,,,,Sec. XVII
+BO0624_87796,260999,57,35,Die Kuchenbaickerin. 1687.,376,82.6,False,positional,JOHANN LINGELBACH,,,,Sec. XVII
 BO0624_87796,261000,58,36,Vor der Stadtmauer.,386,92.3,False,positional,JOHANN LINGELBACH,,,,
 BO0624_87796,261001,59,I,"m Vordergrunde links die hohe Stadtmauer, vor dieser ein Brunnen, um welchen sich zahlreiche Personen, darunter auch ein Kaufherr mit seinen Waren, gruppieren.·Rechts im Vordergrunde eine schlafende Frau. Im Hintergrunde rechts Blick auf das Meer und auf die am Meeresufer liegende Stadt.",388,99.8,False,positional,JOHANN LINGELBACH,,,,
-BO0624_87796,261002,60,1676,1755.,394,61.5,False,positional,THEOBALD MICHAU,,,,
+BO0624_87796,261002,60,1676,1755.,394,61.5,False,positional,THEOBALD MICHAU,,,,Sec. XVIII
 BO0624_87796,261003,61,37,Landschaft mit tanzenden Bauern.,396,95.4,False,positional,THEOBALD MICHAU,,,,
 BO0624_87796,261004,62,39,Stilleben.,403,85.7,False,title_direct,,,Stilleben,,
 BO0624_87796,261005,63,40,Die Kochin.,415,87.0,False,positional,MONOGRAMMIST F.V.F.,,,,
 BO0624_87796,261006,64,1668,## 38. Wirtshausszene.,429,100.0,False,positional,JAN MIENZE MOLENAER,,,,
 BO0624_87796,261007,65,I,"m Innern einer Bauernschenke zechende und tanzende Paare, denen ein links auf einem Podium stehender Musikant auf seinem Dudelsacke zum Tanze aufspielt.",431,99.7,False,positional,JAN MIENZE MOLENAER,,,,
-BO0624_87796,261008,66,1570,1651.,440,61.5,False,positional,PIETER NEEFFS,,,,
-BO0624_87796,261009,67,41,Architekturstiick. 1683.,442,81.0,False,positional,PIETER NEEFFS,,,,
+BO0624_87796,261008,66,1570,1651.,440,61.5,False,positional,PIETER NEEFFS,,,,Sec. XVII
+BO0624_87796,261009,67,41,Architekturstiick. 1683.,442,81.0,False,positional,PIETER NEEFFS,,,,Sec. XVII
 BO0624_87796,261010,68,42,Die Schlittschuhlaufer. Jahrhundert.,452,74.6,False,positional,AART NEER,,,,
 BO0624_87796,261011,69,43,Martyrium des hl. Laurentius. Jahrhundert.,464,78.3,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_87796,261012,70,44,Mannliches Portrat. Jahrhundert.,471,70.6,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_87796,261013,71,45,Halt vor der Ruine. 1807.,481,81.8,False,positional,JAN OLYS,,,,
-BO0624_87796,261014,72,46,Die Uberraschung. 1671.,493,80.0,False,positional,JOHN OPIE,,,,
+BO0624_87796,261013,71,45,Halt vor der Ruine. 1807.,481,81.8,False,positional,JAN OLYS,,,,Sec. XIX
+BO0624_87796,261014,72,46,Die Uberraschung. 1671.,493,80.0,False,positional,JOHN OPIE,,,,Sec. XVII
 BO0624_87796,261015,73,47,Marine mit Fischen im Vordergrunde.,504,95.8,False,positional,WILLEM ORMEA; ABRAHAM WILLAERTS,,,,
 BO0624_87796,261016,74,I,"m Vordergrunde auf dem Strande liegen tote Fische. Im Hintergrunde mehrere Personen am Strande, auf der leichtbewegten See ein Kriegsschiff und einige Segelbote. Auf der felsigen Kuiste links erhebt",506,99.7,False,positional,WILLEM ORMEA; ABRAHAM WILLAERTS,,,,
-BO0624_87796,261017,75,1610,1685.,516,61.5,False,positional,ADRIAN VAN OSTADE,,,,
+BO0624_87796,261017,75,1610,1685.,516,61.5,False,positional,ADRIAN VAN OSTADE,,,,Sec. XVII
 BO0624_87796,261018,76,48,Der Schullehrer.,518,90.9,False,positional,ADRIAN VAN OSTADE,,,,
 BO0624_87796,261019,77,I,"n der dirftigen Stube einer Bauernschule sitzt auf einem Holzlehnstuhle vor einem einfachen Pult der Lehrer, zwei Schiler im Schreiben unterweisend. Ihn umgeben, meist auf dem Boden sitzend, zahlreiche Knaben und Madchen, welche mit Lesen beschaftigt sind.",520,99.8,False,positional,ADRIAN VAN OSTADE,,,,
-BO0624_87796,261020,78,1607,1638.,526,61.5,False,positional,PALMADES PALAMEDES,,,,
+BO0624_87796,261020,78,1607,1638.,526,61.5,False,positional,PALMADES PALAMEDES,,,,Sec. XVII
 BO0624_87796,261021,79,49,Reiterkampf.,528,88.0,False,positional,PALMADES PALAMEDES,,,,
 BO0624_87796,261022,80,50,"Marine. m Vordergrunde das Meer, rechts steile, hohe Felsen, die aus dem Der herrschende Sturm hat ein Schiff gegen dieMeere emporsteigen. selben geworfen, das dem Untergange geweiht ist. Vier Leute der unglicklichen Besatzung haben sich auf die Spitze des vordersten Riffes gerettet, andere kampfen in den Wellen um ihr Leben. Im Hintergrunde links das Wrack eines zweiten Schiffes.",537,99.2,False,positional,PALMADES PALAMEDES,,,,
 BO0624_87796,261023,81,51,Kicheninterieur.,545,90.9,False,positional,EGBERT VAN DER POEL,,OGGETTI VARI,,
 BO0624_87796,261024,82,I,"n der Mitte, unterhalb einer Treppe, die eine alte Frau hinaufsteigt, liegen und stehen um eine Bank Krige, Topfe, Gemise, Holzbindel u.a. Im Hintergrunde zwei Bauern in Unterhaltung.",547,99.7,False,positional,EGBERT VAN DER POEL,,,,
-BO0624_87796,261025,83,1586,1667.,553,61.5,False,positional,CORNELIS POELENBURG,,,,
+BO0624_87796,261025,83,1586,1667.,553,61.5,False,positional,CORNELIS POELENBURG,,,,Sec. XVII
 BO0624_87796,261026,84,52,Landschaft mit Badenden.,555,93.9,False,positional,CORNELIS POELENBURG,,,,
-BO0624_87796,261027,85,1614,1652.,563,61.5,False,positional,BONAVENTURA PEETERS,,,,
-BO0624_87796,261028,86,1510,1592.,566,61.5,False,positional,JACOPO DA PONTE; BASSANO,,,,
+BO0624_87796,261027,85,1614,1652.,563,61.5,False,positional,BONAVENTURA PEETERS,,,,Sec. XVII
+BO0624_87796,261028,86,1510,1592.,566,61.5,False,positional,JACOPO DA PONTE; BASSANO,,,,Sec. XVI
 BO0624_87796,261029,87,53,Die Geburt Christi. Jahrhundert.,568,70.6,False,positional,JACOPO DA PONTE; BASSANO,,,,
-BO0624_87796,261030,88,54,Die hl. Maria Magdalena. 1781.,578,84.6,False,positional,HENDRIK G.POT,,,,
+BO0624_87796,261030,88,54,Die hl. Maria Magdalena. 1781.,578,84.6,False,positional,HENDRIK G.POT,,,,Sec. XVIII
 BO0624_87796,261031,89,55,"Die Schnitterin. n der Rechten die Sichel, scheint sie eben im Begriffe, von der Arbeit etwas auszurasten. Hinter ihr kniet der Bauer, das hohe Getreide schneidend. Rechts hinter dem Getreidefeld ist ein Haus sichtbar.",590,96.3,False,positional,JEAN BAPTISTE LE PRINCE,,,,
 BO0624_87796,261032,90,56,Waldlandschaft.,593,90.3,False,positional,JEAN BAPTISTE LE PRINCE,,,,
 BO0624_87796,261033,91,I,"m Vordergrunde ein machtiger Baumstamm, links von demselben ein Hirt mit Herde,rechts davon dichter Wald, an dessen Rand mehrere ruhende Wanderer in Unterhaltung.",595,99.7,False,positional,JEAN BAPTISTE LE PRINCE,,,,
 BO0624_87796,261034,92,17,Jahrhundert.,601,88.0,False,positional,JEAN VAN RAVENSTEYN,Scuola Fiorentina,,,
-BO0624_87796,261035,93,1621,1673.,605,61.5,False,positional,PYNACKER,,,,
-BO0624_87796,261036,94,57,Mannliches Portrat. 1706.,607,81.8,False,positional,PYNACKER,,,,
-BO0624_87796,261037,95,58,Madchen mit Licht. 1673.,617,81.0,False,positional,GODFRIED SCHALCKEN,,,,
+BO0624_87796,261035,93,1621,1673.,605,61.5,False,positional,PYNACKER,,,,Sec. XVII
+BO0624_87796,261036,94,57,Mannliches Portrat. 1706.,607,81.8,False,positional,PYNACKER,,,,Sec. XVIII
+BO0624_87796,261037,95,58,Madchen mit Licht. 1673.,617,81.0,False,positional,GODFRIED SCHALCKEN,,,,Sec. XVII
 BO0624_87796,261038,96,59,Pflanzen und Insekten.,626,93.3,False,positional,OTTO MARCELLIS VAN SCHRIECK,,,,
 BO0624_87796,261039,97,I,"m Vordergrunde einer Felsenlandschaft bluihende Disteln, Pflanzen und Pilze, belebt durch eine Schlange und verschiedene Insekten. Auf einem Baumaste dariber ein Vogel.",628,99.7,False,positional,OTTO MARCELLIS VAN SCHRIECK,,,,
-BO0624_87796,261040,98,1579,1657.,634,61.5,False,positional,FRANZ SNYDERS,,,,
-BO0624_87796,261041,99,60,Der Gefliigelhaindler. 1657.,636,84.0,False,positional,FRANZ SNYDERS,,,,
+BO0624_87796,261040,98,1579,1657.,634,61.5,False,positional,FRANZ SNYDERS,,,,Sec. XVII
+BO0624_87796,261041,99,60,Der Gefliigelhaindler. 1657.,636,84.0,False,positional,FRANZ SNYDERS,,,,Sec. XVII
 BO0624_87796,261042,100,61,Stilleben.,646,85.7,False,title_direct,,,Stilleben,,
 BO0624_87796,261043,101,63,Meereskiste. Jahrhundert.,661,64.9,False,positional,,SPANISCHE SCHULE,,,
 BO0624_87796,261044,102,64,Die Erdkunde.,663,88.9,False,positional,,SPANISCHE SCHULE,,,
@@ -105,20 +105,20 @@ BO0624_87796,261045,103,17,Jahrhundert.,671,88.0,False,positional,,SPANISCHE SCH
 BO0624_87796,261046,104,62,Der hl.Sebastian.,673,91.4,False,positional,,SPANISCHE SCHULE,,,
 BO0624_87796,261047,105,I,"n fast ganzer Figur, nur mit einem Lendentuch bekleidet, die Hande uiber dem Haupte an einen Baumast festgebunden, die Brust von einem Pfeile durchbohrt. Hinter ihm steht ein orientalischer Krieger.",675,99.7,False,positional,,SPANISCHE SCHULE,,,
 BO0624_87796,261048,106,17,Jahrhundert.,681,88.0,False,positional,,SPANISCHE SCHULE,,,
-BO0624_87796,261049,107,1546,1625.,684,61.5,False,positional,BARTHOLOMAEUS SPRANGER,,,,
-BO0624_87796,261050,108,65,Die Sindflut. 1640.,686,75.0,False,positional,BARTHOLOMAEUS SPRANGER,,,,
+BO0624_87796,261049,107,1546,1625.,684,61.5,False,positional,BARTHOLOMAEUS SPRANGER,,,,Sec. XVII
+BO0624_87796,261050,108,65,Die Sindflut. 1640.,686,75.0,False,positional,BARTHOLOMAEUS SPRANGER,,,,Sec. XVII
 BO0624_87796,261051,109,66,"Kircheninterieur. m Vordergrunde des Mittelganges das Taufbecken, links von letzterem zwei Manner im Gesprach und eine Frau mit Kind. Im Hintergrunde der Hochaltar, zu welchem eine Freitreppe emporfihrt, im linken Seitengang ein zweiter Altar, rechts die Kanzel. Der FuBboden mit farbigen, quadrati- schen Platten belegt.",698,97.4,False,positional,HENDRIK VAN STEENWYCK,,OGGETTI IN PELLE,,
 BO0624_87796,261052,110,67,Familienszene.,706,89.7,False,positional,GILLES VAN TILBORGH,,,,
 BO0624_87796,261053,111,I,"n einem zweifenstrigen Gemache sitzt auf einem Lederstuhle eine Frau in grauem Gewande mit rotem Rocke, weiber Haube und weibem Kragen, mit beiden Handen ein kleines Kind auf ihrem SchoBe haltend. An ihr rechtes Knie sich leicht anlehnend, steht ihre altere Tochter, wahrend die Dienerin, im braunen Kostim mit weiBer Haube und Schirze, links neben dieser Gruppe stehend, ihrer Herrin eben eine Spitze iberreicht.",708,99.9,False,positional,GILLES VAN TILBORGH,,OGGETTI VARI,,
 BO0624_87796,261054,112,70,Stilleben.,711,85.7,False,title_direct,,,Stilleben,,
-BO0624_87796,261055,113,1639,1672.,719,61.5,False,positional,ADRIAN VAN DE VELDE,,,,
+BO0624_87796,261055,113,1639,1672.,719,61.5,False,positional,ADRIAN VAN DE VELDE,,,,Sec. XVII
 BO0624_87796,261056,114,68,Landschaft mit Herde.,721,93.0,False,positional,ADRIAN VAN DE VELDE,,,,
 BO0624_87796,261057,115,I,"m Vordergrunde einer baumreichen Landschaft weidet eine groBere ein FluB,an dessen Ufer zwei Manner stehen, von welchen der eine der",723,99.6,False,positional,ADRIAN VAN DE VELDE,,,,
-BO0624_87796,261058,116,1590,1652.,731,61.5,False,positional,ESAIAS VAN DE VELDE,,,,
+BO0624_87796,261058,116,1590,1652.,731,61.5,False,positional,ESAIAS VAN DE VELDE,,,,Sec. XVII
 BO0624_87796,261059,117,69,Auf Vorposten.,733,89.7,False,positional,ESAIAS VAN DE VELDE,,,,
-BO0624_87796,261060,118,1598,1665.,743,61.5,False,positional,JAN VAN DE VELDE,,,,
+BO0624_87796,261060,118,1598,1665.,743,61.5,False,positional,JAN VAN DE VELDE,,,,Sec. XVII
 BO0624_87796,261061,119,71,Landschaft mit Bauernwagen.,748,94.5,False,positional,ABRAHAM H.VERBOOM,,,,
 BO0624_87796,261062,120,I,"m Vordergrunde des Waldes, welcher die rechte Halfte und die Mitte des Bildes einnimmt, erblickt man einen einspannigen Bauernwagen, auf welchem eine Frau sitzt, welche sich mit einem neben dem Wagen zu FuBe gehenden Wanderer unterhalt. Ein Knabe mit Hund geht auf diese Gruppe zu. Links im Vordergrunde in einer Mulde ein Wassertimpel. Im Hinter- grunde links Ausblick auf flache Landschaft.",750,99.9,False,positional,ABRAHAM H.VERBOOM,,OGGETTI VARI,,
-BO0624_87796,261063,121,1578,1629.,756,61.5,False,positional,DAVID VINCKEBOOMS,,,,
+BO0624_87796,261063,121,1578,1629.,756,61.5,False,positional,DAVID VINCKEBOOMS,,,,Sec. XVII
 BO0624_87796,261064,122,72,"Schloβpark mit badenden Frauen. m Vordergrunde rechts das Bad, links eine Terrasse, auf der sich verschiedene Frauen entkleiden, wahrend sich andere schon im Bade beanlage und ein LustschloB, wahrend links zwischen prachtigen Baumgruppen finden. Ein machtiges Felsentor gewahrt rechts Ausblick auf eine Gartenein schloBahnliches Gebaude sichtbar ist.",760,95.4,False,positional,DAVID VINCKEBOOMS,,,,
 BO0624_87796,261065,123,73,Weibliches Bildnis.,768,92.3,False,positional,JACQUES WABBE,,,,

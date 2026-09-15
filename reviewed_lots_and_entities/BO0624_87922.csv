@@ -12,7 +12,7 @@ BO0624_87922,541070,10,10,Landschaft mit tanzenden Bauern. Bezeichnet.          
 BO0624_87922,541071,11,11,"| 11. Winterlandschaft. Prachtige, fein gestimmte Arbeit des Kunstlers. Bezeichnet.",51.0,92.1,False,positional,A. BINDER,,,,
 BO0624_87922,541072,12,12,"12. Kanallandschaft mit Schleuse. Leinw.51/76,5                                                                    |",52.0,62.5,False,positional,A. BINDER,,,,
 BO0624_87922,541073,13,13,13. Schloss auf dem Berge. Landschaft.,53.0,80.5,False,positional,A. BINDER,,,,
-BO0624_87922,541074,14,14,"Lukas CRANACH, 1472-1553, Kronach.                                                                                                                                        | Leinw.26/31 Karton 20/16 |",54.0,97.4,False,positional,A. BINDER,,,,
+BO0624_87922,541074,14,14,"Lukas CRANACH, 1472-1553, Kronach.                                                                                                                                        | Leinw.26/31 Karton 20/16 |",54.0,97.4,False,positional,A. BINDER,,,,Sec. XVI
 BO0624_87922,541075,15,15,Junges Madchen und alter Mann. Bild von guter Durchfuihrung.                                                                                                              | Holz 49/35               |,55.0,97.9,False,positional,A. BINDER,,OGGETTI IN LEGNO,,
 BO0624_87922,541076,16,16,| 16.Entenjagd. Begeichnet.                                                                  | Leinw.50/61    |,58.0,100.0,False,positional,R. DANZER,,,,
 BO0624_87922,541077,17,17,17.Landschait. Monogrammiert.                          | Leinw.37/52    |,60.0,70.3,False,positional,R. DANZER,,,,
@@ -150,7 +150,7 @@ BO0624_87922,541208,148,6,Desgl. mit Stichbajonett vom Frankfurter Linienbataill
 BO0624_87922,541209,149,156,"Desgl. mit Stichbajonett vom Frankfurter Linienbataillon. im Kolben Behalter fur Werkzeug etc., bez. Weber E. 32.",310.0,66.7,False,positional,WEBER PAUL,,WAFFEN,,
 BO0624_87922,541210,150,157,"Steinschlossbuchse, achtkantiger Lauf mit sieben Zugen,",312.0,96.4,False,positional,,,WAFFEN,,
 BO0624_87922,541211,151,158,Desgl. Lauf achtkantig mit acht Zugen; Kolben und Lauf schwarz.,313.0,84.7,False,positional,,,WAFFEN,,
-BO0624_87922,541212,152,159,"Steinschlossgewehr. Lauf achtkantig, braune Schaftung bis zur Mundung reichend, Kolben und Hals in fischhautartiger Schnitzung. Lauf.mit Inschrift: Johann Limmeis in Cronach 1674.",315.0,89.0,False,positional,HALS DIRK,,WAFFEN,,
+BO0624_87922,541212,152,159,"Steinschlossgewehr. Lauf achtkantig, braune Schaftung bis zur Mundung reichend, Kolben und Hals in fischhautartiger Schnitzung. Lauf.mit Inschrift: Johann Limmeis in Cronach 1674.",315.0,89.0,False,positional,HALS DIRK,,WAFFEN,,Sec. XVII
 BO0624_87922,541213,153,160,Osterreichisches Militargewehr mit Zunderschloss und einem zuruickklappbaren Pfannendeckel. Am Schloss rechts ein Doppeladler.,317.0,98.4,False,positional,,,WAFFEN,,
 BO0624_87922,541214,154,161,Kurhessisches Militargewehr mit Perkussionsschloss und,318.0,96.4,False,positional,,,WAFFEN,,
 BO0624_87922,541215,155,3,Stempel: Pistor in Schmalkalden 127.,319.0,97.1,False,positional,,,STAMPE E INCISIONI,,
@@ -158,17 +158,17 @@ BO0624_87922,541216,156,4,162.,320.0,75.0,False,positional,,,WAFFEN,,
 BO0624_87922,541217,157,5,163.,321.0,75.0,False,positional,,,WAFFEN,,
 BO0624_87922,541218,158,6,"Wurttembergisches Militargewehr mit Perkussionsschloss und Inschrift: Gewehrfabrik Oberndorf, Wurttemberg.",322.0,99.0,False,positional,,,WAFFEN,,
 BO0624_87922,541219,159,7,Karabinerartiges Perkussionsgewehr mit Gurttrageriemen; an der rechten Seite des Kolbens auf einem Piattchen die Buchstaben E. F.,323.0,99.2,False,positional,,,WAFFEN,,
-BO0624_87922,541220,160,8,"Amerikanischer Joslyn-Hinterladekarabiner mit drei Zugen Tabatieren-Verschluss. Auf dem Schloss eingestempelt: Joslyn Fire Arms Co., Stounington,Conn. 1864. Wurde 1870/71 bei der franzosischen Nordarmee unter",324.0,99.5,False,positional,,,WAFFEN,,
+BO0624_87922,541220,160,8,"Amerikanischer Joslyn-Hinterladekarabiner mit drei Zugen Tabatieren-Verschluss. Auf dem Schloss eingestempelt: Joslyn Fire Arms Co., Stounington,Conn. 1864. Wurde 1870/71 bei der franzosischen Nordarmee unter",324.0,99.5,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541221,161,164,General Faideherbe gebraucht.,325.0,93.3,False,positional,,,WAFFEN,,
-BO0624_87922,541222,162,165,Franzosisches Chassepotgewehr 1870/71.,326.0,94.9,False,positional,,,WAFFEN,,
-BO0624_87922,541223,163,166,Franzosischer Chassepotkarabiner 1870/71.,327.0,95.2,False,positional,,,WAFFEN,,
-BO0624_87922,541224,164,167,Desgl. 1870/71.Kleiner.,328.0,91.3,False,positional,,,WAFFEN,,
+BO0624_87922,541222,162,165,Franzosisches Chassepotgewehr 1870/71.,326.0,94.9,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541223,163,166,Franzosischer Chassepotkarabiner 1870/71.,327.0,95.2,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541224,164,167,Desgl. 1870/71.Kleiner.,328.0,91.3,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541225,165,168,Flobertgewehr mit achtkantigem Lauf. 6 mm.,329.0,95.2,False,positional,,,WAFFEN,,
 BO0624_87922,541226,166,169,desgl. Verschluss- Desgl. sicherung und Patronenhulsen-Auswerfer.,331.0,83.3,False,positional,,,WAFFEN,,
 BO0624_87922,541227,167,170,"Kronberger Wallbuchse mit aptiertem Perkussionsschloss. Abzug mit Stecher, Lauf 106,5 cm, achtkantig mit acht Zugen, 19 mm Kaliber. Inschrift H. C. Zubrod in Kronberg.",332.0,98.8,False,positional,,,WAFFEN,,
 BO0624_87922,541228,168,17,171.,333.0,66.7,False,positional,,,WAFFEN,,
 BO0624_87922,541229,169,18,"Desgl. mit aptiertem Perkussionsschloss, Abzug mit Stecher. Lauf 140 cm lang, achtkantig, mit zwolf Zugen, 14 mm Kaliber. Inschrift: Joh.Ph. Kirchner in Kronberg und Gebr. Lindenschmit, Mainz.",334.0,99.2,False,positional,,,WAFFEN,,
-BO0624_87922,541230,170,19,"Die beiden Wallbuchsen stammen aus der Cronberger Schutzengesellschaft, gegrindet 1398.",335.0,98.3,False,positional,,,WAFFEN,,
+BO0624_87922,541230,170,19,"Die beiden Wallbuchsen stammen aus der Cronberger Schutzengesellschaft, gegrindet 1398.",335.0,98.3,False,positional,,,WAFFEN,,Sec. XIV
 BO0624_87922,541231,171,172,"Steinschlosspistole mit Stahlbeschlagen, verziertem Hahn.",336.0,96.5,False,positional,,,WAFFEN,,
 BO0624_87922,541232,172,21,173.,337.0,66.7,False,positional,,,WAFFEN,,
 BO0624_87922,541233,173,22,Desgl. m. Messingbeschl. verziert. Hahn u. Schlossblech.,338.0,97.1,False,positional,,,WAFFEN,,
@@ -185,7 +185,7 @@ BO0624_87922,541243,183,181,"Zwei Perkussionspistolen, Gegenstucke; die Laufe ac
 BO0624_87922,541244,184,182,"Perkussionspistole m besonderer Sicherung; achtkantigem Lauf mit acht Zugen, Abzugbugel, Schloss, Hahn und Kolbenbeschlag mit Verzierungen; auf dem Schloss graviert: ,G. A. Stormer Herzberg"". Desgl., Schloss und Kolbenbeschlag in Messing mit",351.0,87.4,False,positional,,,WAFFEN,,
 BO0624_87922,541245,185,183,"Desgl., Abzugbugel und Kolbenbeschlag in Messing.",353.0,95.8,False,positional,,,WAFFEN,,
 BO0624_87922,541246,186,16,Verzierungen.,354.0,88.9,False,positional,,,WAFFEN,,
-BO0624_87922,541247,187,185,Franzosische Kavalleriepistole. Perkussionsschloss aus dem Jahr 1813.,356.0,69.8,False,positional,,,WAFFEN,,
+BO0624_87922,541247,187,185,Franzosische Kavalleriepistole. Perkussionsschloss aus dem Jahr 1813.,356.0,69.8,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541248,188,186,"Desgl., ahnliche Pistole wie die vorige mit Manuf. Im- periale de Chatell etc. eingraviert.",357.0,71.9,False,positional,,,WAFFEN,,
 BO0624_87922,541249,189,187,Preussische Kavalleriepistole. Perkussionsschloss mit besonderer Sicherung. Beschlage in Messing; auf dem Schloss eine Konigskrone u. Suhl-G. H. eingraviert.,359.0,77.8,False,positional,,,WAFFEN,,
 BO0624_87922,541250,190,188,"Preussische Kavalleriepistole, wie die vorige.",361.0,95.7,False,positional,,,WAFFEN,,
@@ -207,26 +207,26 @@ BO0624_87922,541265,205,17,"Kaliber, brauner Holzgriff.",377.0,94.3,False,positi
 BO0624_87922,541266,206,18,"Zentralfeuerrevolver, sechsschussig, Ruckspringer, gezog. Lauf, 7 mm Kaliber, vernickelt. Nussholzgriff mit",378.0,98.5,False,positional,,,WAFFEN,,
 BO0624_87922,541267,207,200,"Fischhautschnitzung. Bulldogg-Zentralfeuerrevolver, sechsschussig. Lauf gezog., 9 mm Kaliber, Drehsicherung, Ruckspringer, vernickelt",380.0,91.0,False,positional,,,WAFFEN,,
 BO0624_87922,541268,208,201,und verzierter schwarzer Holzgriff.,381.0,94.4,False,positional,,,WAFFEN,,
-BO0624_87922,541269,209,202,"Franzosischer Kurassierdegen, 1870/71.",382.0,94.7,False,positional,,,WAFFEN,,
-BO0624_87922,541270,210,203,"Desgl. Dragonersabel, 1870/71.",383.0,93.1,False,positional,,,WAFFEN,,
-BO0624_87922,541271,211,204,"Desgl. Artilleriesabel, 1870/71.",384.0,93.5,False,positional,,,WAFFEN,,
+BO0624_87922,541269,209,202,"Franzosischer Kurassierdegen, 1870/71.",382.0,94.7,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541270,210,203,"Desgl. Dragonersabel, 1870/71.",383.0,93.1,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541271,211,204,"Desgl. Artilleriesabel, 1870/71.",384.0,93.5,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541272,212,205,Desgl. Artillerieoffiziersabel mit Korb. Klinge blaudamasziert mit Emblemen in Gold tauschiert.,385.0,97.9,False,positional,,,OGGETTI IN ORO,,
-BO0624_87922,541273,213,206,Russischer Marineoffiziersabel in Lederscheide mit Beschlagen und Korb in Goldbronze; auf der Klinge russische Inschrift mit Jahreszahl 1858.,386.0,81.8,False,positional,,,WAFFEN,,
-BO0624_87922,541274,214,207,"Franzosischer Degen der Gardeinfanterie, 1870/71. Sergeant- Major. Modell 1857.",388.0,83.6,False,positional,,,WAFFEN,,
+BO0624_87922,541273,213,206,Russischer Marineoffiziersabel in Lederscheide mit Beschlagen und Korb in Goldbronze; auf der Klinge russische Inschrift mit Jahreszahl 1858.,386.0,81.8,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541274,214,207,"Franzosischer Degen der Gardeinfanterie, 1870/71. Sergeant- Major. Modell 1857.",388.0,83.6,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541275,215,208,Preussischer Feldartilleriesabel in Stahlscheide.,390.0,96.0,False,positional,,,WAFFEN,,
 BO0624_87922,541276,216,209,"Offiziersabel des Frankfurter Linienbataillons in Lederscheide mit verzierten Messingbeschlagen; Klinge blaudamasziert mit tauschierten Verzierungen von Sonne, Mond, Sternen und Turkenkopf.",391.0,92.3,False,positional,,,WAFFEN,,
 BO0624_87922,541277,217,210,Preussischer Fusilier-Offiziersabel in Lederscheide.,393.0,96.2,False,positional,,,WAFFEN,,
 BO0624_87922,541278,218,211,Frankfurter Offizierdegen in Lederscheide. Klinge blaudamasziert mit tauschierten Blatterverzierungen und Inschrift: J. Glan Schwertfeger in Frankfurt a. M.,394.0,80.3,False,positional,,,WAFFEN,,
 BO0624_87922,541279,219,212,Offizierdegen ohne Scheide. Oben blaudamasziert und mit tauschierten Verzierungen.,396.0,74.6,False,positional,,,WAFFEN,,
 BO0624_87922,541280,220,213,"Degen, dreikantig, ohne Scheide, mit Inschrift: P. Knecht in Solingen.",398.0,86.7,False,positional,,,WAFFEN,,
-BO0624_87922,541281,221,214,Franzosisches Feldartillerieseitengewehr in Lederscheide. Breite kurzeKlinge m.Messinggr. Inschr.: Thiebaut 1832.,400.0,66.7,False,positional,,,WAFFEN,,
-BO0624_87922,541282,222,215,Franzosisches Chassepothaubajonett in Stahlscheide. In- schrift der Klinge: Mre Imple de St. Etienne 1867.,402.0,67.1,False,positional,,,WAFFEN,,
-BO0624_87922,541283,223,216,"Preussisches Stichbajonett in Lederscheide der preussischen Landwehr, 1870/71.",404.0,97.4,False,positional,,,WAFFEN,,
+BO0624_87922,541281,221,214,Franzosisches Feldartillerieseitengewehr in Lederscheide. Breite kurzeKlinge m.Messinggr. Inschr.: Thiebaut 1832.,400.0,66.7,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541282,222,215,Franzosisches Chassepothaubajonett in Stahlscheide. In- schrift der Klinge: Mre Imple de St. Etienne 1867.,402.0,67.1,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541283,223,216,"Preussisches Stichbajonett in Lederscheide der preussischen Landwehr, 1870/71.",404.0,97.4,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541284,224,18,217.,405.0,66.7,False,positional,,,WAFFEN,,
 BO0624_87922,541285,225,19,Franzosische Lanze mit Flagge. 285 cm lang.,406.0,96.5,False,positional,,,WAFFEN,,
 BO0624_87922,541286,226,218,Desgl. desgl. 278 cm lang.,407.0,92.0,False,positional,,,WAFFEN,,
 BO0624_87922,541287,227,21,219.,408.0,66.7,False,positional,,,WAFFEN,,
-BO0624_87922,541288,228,22,Franzosischer Kurass von 1870/71.Mit Konsol.,409.0,96.6,False,positional,,,WAFFEN,,
+BO0624_87922,541288,228,22,Franzosischer Kurass von 1870/71.Mit Konsol.,409.0,96.6,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541289,229,220,Helm der Frankfurter Freiwilligen Kavallerie mit Silber-,410.0,96.5,False,positional,,,WAFFEN,,
 BO0624_87922,541290,230,24,"beschlag, schwarzer Haarraupe und Nationalbusch.",411.0,96.8,False,positional,,,WAFFEN,,
 BO0624_87922,541291,231,25,221.,412.0,66.7,False,positional,,,WAFFEN,,
@@ -235,11 +235,11 @@ BO0624_87922,541293,233,222,Sabel mit Bandelier der Frankfurter Weissbische (aus
 BO0624_87922,541294,234,223,Patrontasche mit Bandelier der Frankfurter Weissbusche (aus gleichem Besitz).,415.0,97.4,False,positional,,,WAFFEN,,
 BO0624_87922,541295,235,224,Tschako der Frankfurter Freiwilligen Jager mit schwarzgrin-rotem Haarbusch.,416.0,97.4,False,positional,,,WAFFEN,,
 BO0624_87922,541296,236,225,Patrontasche mit Bandelier der Frankfurter Freiwill. Jager.,417.0,96.6,False,positional,,,WAFFEN,,
-BO0624_87922,541297,237,226,"Kandare mit Kinnkette vom 8. franzosischen Lancier- Regiment, 1870/71.",418.0,82.4,False,positional,,,WAFFEN,,
-BO0624_87922,541298,238,227,"Franzosische Feldflasche, 1870 71.",420.0,94.1,False,positional,,,WAFFEN,,
-BO0624_87922,541299,239,228,"Franzosisches kleines Kochgeschirr, 1870/71.",421.0,95.5,False,positional,,,WAFFEN,,
-BO0624_87922,541300,240,229,"Franzosisches Geschutzprotzenschloss, 1870/71.",422.0,95.7,False,positional,,,WAFFEN,,
-BO0624_87922,541301,241,230,"Artilleriepulverflasche aus schwarzem Leder zum Auf- pudern von Pulver, 1813.",423.0,79.1,False,positional,,,OGGETTI IN PELLE,,
+BO0624_87922,541297,237,226,"Kandare mit Kinnkette vom 8. franzosischen Lancier- Regiment, 1870/71.",418.0,82.4,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541298,238,227,"Franzosische Feldflasche, 1870 71.",420.0,94.1,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541299,239,228,"Franzosisches kleines Kochgeschirr, 1870/71.",421.0,95.5,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541300,240,229,"Franzosisches Geschutzprotzenschloss, 1870/71.",422.0,95.7,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541301,241,230,"Artilleriepulverflasche aus schwarzem Leder zum Auf- pudern von Pulver, 1813.",423.0,79.1,False,positional,,,OGGETTI IN PELLE,,Sec. XIX
 BO0624_87922,541302,242,231,"Messingadler, preussischer Infanterie-Trommelhalter.",425.0,96.2,False,positional,,,WAFFEN,,
 BO0624_87922,541303,243,232,Braunlederne Pulverflasche mit silbernem Lademass.,426.0,96.1,False,positional,,,WAFFEN,,
 BO0624_87922,541304,244,233,Polizeisignalpfeife von Messing.,427.0,93.9,False,positional,,,WAFFEN,,
@@ -249,14 +249,14 @@ BO0624_87922,541307,247,15,"Polizeihelm aus schwarzem Filz mit vergoldetem Hutba
 BO0624_87922,541308,248,235,aus Philadelphia.,431.0,88.9,False,positional,,,WAFFEN,,
 BO0624_87922,541309,249,236,Grossherzogl. hessischer Offizierhelm.,432.0,94.7,False,positional,,,WAFFEN,,
 BO0624_87922,541310,250,237,Oesterreichischer Tschako.,433.0,92.6,False,positional,,,WAFFEN,,
-BO0624_87922,541311,251,238,Franzosische Ledertasche mit Bandelier eines Militarkapellmeisters von 1870/71.,434.0,97.5,False,positional,,,WAFFEN,,
+BO0624_87922,541311,251,238,Franzosische Ledertasche mit Bandelier eines Militarkapellmeisters von 1870/71.,434.0,97.5,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541312,252,20,239.,435.0,66.7,False,positional,,,WAFFEN,,
-BO0624_87922,541313,253,21,"Franzosische Patrontasche vom 25. Linien-Infanterieregiment, mit Inhalt, dabei acht Chassepotpatronen, 1870/71.",436.0,98.6,False,positional,,,WAFFEN,,
-BO0624_87922,541314,254,240,"Munitionstasche der preussischen Feldartillerie, mit Inhalt, dabei funf Platz- und eine scharfe Patrone, 1870/71.",437.0,98.2,False,positional,,,WAFFEN,,
+BO0624_87922,541313,253,21,"Franzosische Patrontasche vom 25. Linien-Infanterieregiment, mit Inhalt, dabei acht Chassepotpatronen, 1870/71.",436.0,98.6,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_87922,541314,254,240,"Munitionstasche der preussischen Feldartillerie, mit Inhalt, dabei funf Platz- und eine scharfe Patrone, 1870/71.",437.0,98.2,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541315,255,241,Franzosischer Feldartillerie-Mitrailleusenkasten Zur Auf-,438.0,96.6,False,positional,,,WAFFEN,,
-BO0624_87922,541316,256,24,"nahme von 25 Mitrailleusenpatronen,1870/71.",439.0,96.6,False,positional,,,WAFFEN,,
+BO0624_87922,541316,256,24,"nahme von 25 Mitrailleusenpatronen,1870/71.",439.0,96.6,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541317,257,25,242.,440.0,66.7,False,positional,,,WAFFEN,,
-BO0624_87922,541318,258,26,"Abzugschnur von einem franzos. Feldartillerie-Geschutz, 1870/71.",441.0,97.6,False,positional,,,WAFFEN,,
+BO0624_87922,541318,258,26,"Abzugschnur von einem franzos. Feldartillerie-Geschutz, 1870/71.",441.0,97.6,False,positional,,,WAFFEN,,Sec. XIX
 BO0624_87922,541319,259,243,Frankfurter Offizierringkragen.,442.0,93.8,False,positional,,,WAFFEN,,
 BO0624_87922,541320,260,245,"245. Zwei Figuren.,Mars und Minerva"" auf Konsolen.",445.0,100.0,False,positional,,,WAFFEN,,
 BO0624_87922,541321,261,246,Zwei Rapiere.,446.0,85.7,False,positional,,,WAFFEN,,
@@ -573,7 +573,7 @@ BO0624_87922,541631,571,501,Zwei Menuhalter. Silber.,799.0,91.7,False,positional
 BO0624_87922,541632,572,502,Zinnteller mit Wappen derer von Erthal.,800.0,95.0,False,positional,,,PIATTI,,
 BO0624_87922,541633,573,503,Figur. Elfenbein.,801.0,88.2,False,positional,,,Kunstgegenstande,,
 BO0624_87922,541634,574,504,- Ovale Schussel. Pallissy.,803.0,100.0,False,positional,,,SCATOLE,,
-BO0624_87922,541635,575,505,Zwei Taschenbucher aus den Jahren 1837 und 1838.,804.0,95.9,False,positional,,,Kunstgegenstande,,
+BO0624_87922,541635,575,505,Zwei Taschenbucher aus den Jahren 1837 und 1838.,804.0,95.9,False,positional,,,Kunstgegenstande,,Sec. XIX
 BO0624_87922,541636,576,506,- 507.,806.0,100.0,False,positional,,,Kunstgegenstande,,
 BO0624_87922,541637,577,508,Messingpostament.,809.0,88.9,False,positional,,,Kunstgegenstande,,
 BO0624_87922,541638,578,509,Fragment. Gotze in Bronze. Japan.,810.0,93.8,False,positional,,,OGGETTI VARI,,
@@ -620,7 +620,7 @@ BO0624_87922,541678,618,543,"Desgl. Fruhling und Sommer, je 14 cm.  Meissen. Des
 BO0624_87922,541679,619,546,"Grosse Vase mit Blumen und Fruchten belegt, auf Sockel und mit Bouquetdeckel. Hohe 75 cm. Meissen.",859.0,97.9,False,positional,,Scuola di Meissen,VASI,,
 BO0624_87922,541680,620,547,Pendule mit Amoretten und Blumenbelag. Hohe 63 cm. Meissen.,860.0,96.6,False,positional,,Scuola di Meissen,Kunstgegenstande,,
 BO0624_87922,541681,621,548,"Boule-uhrchen mit Bronzebeschlag. 33 cm hoch. Konfektkorb. Plattiert. Rokoko. Silberfiligranschale. Hohe 13,5, Diam. 21 cm.",861.0,53.4,False,positional,,,Kunstgegenstande,,
-BO0624_87922,541682,622,551,Zinnkanne. Graviert. 1813.,864.0,92.0,False,positional,,,OGGETTI IN LATTA,,
+BO0624_87922,541682,622,551,Zinnkanne. Graviert. 1813.,864.0,92.0,False,positional,,,OGGETTI IN LATTA,,Sec. XIX
 BO0624_87922,541683,623,552,Delftschussel. Achteckig. Diam. 34 cm.,865.0,94.4,False,positional,,,Kunstgegenstande,,
 BO0624_87922,541684,624,553,"Imerischussel. Diam. 26,5 cm.",866.0,92.9,False,positional,,,Kunstgegenstande,,
 BO0624_87922,541685,625,554,Zinnhumpen. Zylindrisch.,867.0,91.7,False,positional,,,Kunstgegenstande,,
@@ -667,7 +667,7 @@ BO0624_87922,541725,665,581,Vase. Milchglas mit Email.,908.0,92.3,False,position
 BO0624_87922,541726,666,582,Schale. Schwarz. Wedgwood.,909.0,92.0,False,positional,,,OGGETTI VARI,,
 BO0624_87922,541727,667,583,Sechs Champagnerglaser.,910.0,91.7,False,positional,,,Kunstgegenstande,,
 BO0624_87922,541728,668,584,Zinnterrine mit Wappen derer von Losberg.,911.0,95.2,False,positional,,,Kunstgegenstande,,
-BO0624_87922,541729,669,585,Zinnteller 1616.,912.0,88.2,False,positional,,,PIATTI,,
+BO0624_87922,541729,669,585,Zinnteller 1616.,912.0,88.2,False,positional,,,PIATTI,,Sec. XVII
 BO0624_87922,541730,670,586,"Zwei Papageien. Marke Hochst. Silber, getrieben.",913.0,72.0,False,positional,,Manifattura di Hochst,Kunstgegenstande,,
 BO0624_87922,541731,671,587,Gruppe. Knabe mit Ziege. Marke Hochst.,915.0,94.6,False,positional,,Manifattura di Hochst,OGGETTI VARI,,
 BO0624_87922,541732,672,588,Tasche mit Bugel. Silber.,916.0,92.0,False,positional,,,Kunstgegenstande,,
@@ -783,5 +783,5 @@ BO0624_87922,541841,781,682,Doschen. Herzformig mit Amorette.,1042.0,93.9,False,
 BO0624_87922,541842,782,683,Riechdoschen. Silber.,1043.0,90.5,False,positional,,,Kunstgegenstande,,
 BO0624_87922,541843,783,684,Doschen mit Mosaik.,1044.0,90.0,False,positional,,,Kunstgegenstande,,
 BO0624_87922,541844,784,685,Zwei Figuren. Amoretten als Masken. Meissen.,1045.0,95.3,False,positional,,Scuola di Meissen,Kunstgegenstande,,
-BO0624_87922,541845,785,686,Zwei Pastelle auf Pergament von J. A. Axmann 1757. Karl Theodor und Elisabeth Auguste. Pergament 45/34.,1046.0,98.0,False,positional,,,Kunstgegenstande,,
+BO0624_87922,541845,785,686,Zwei Pastelle auf Pergament von J. A. Axmann 1757. Karl Theodor und Elisabeth Auguste. Pergament 45/34.,1046.0,98.0,False,positional,,,Kunstgegenstande,,Sec. XVIII
 BO0624_87922,541846,786,687,Zwei Gemalde. Luther und Melanchthon. Leinw.36/28,1047.0,95.9,False,positional,,,Kunstgegenstande,,

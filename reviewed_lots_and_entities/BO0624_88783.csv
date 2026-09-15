@@ -1,15 +1,15 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88783,546358,1,1,Sieben seitiger Krug. Mit Ausguf und seitlichen Henkeln. Reliefiert: Gerate. Sachsen.18. Jahrh. H.29 cm. Beschadigt. Dabei marmoriertes Tintenzeug in Herzform. Ebenso. L. 18 cm.,5,99.4,False,positional,,,OGGETTI VARI,,
-BO0624_88783,546359,2,3,"Se c h s Ge f a Be. a) Bemalter Birnkrug, gekittet; H. 25 cm. b) Walzenkrug, braun glasiert und bemalt, von 1815;H. 23 cm. c) Drei Kriglein und eine Dose,",7,99.3,False,positional,,,SCATOLE,,
-BO0624_88783,546360,3,4,"Drei GefaRe. Irdengut. Grin glasiert. a) Waschbecken mit reliefiertem Engelskopf und HF R 1678. Aus Benediktbeuren. H. 28, B. 32 cm. b) Model. Jahrh. L.41 cm. c) Grofer beschadigter Krug. Ebenso. H. 30 cm.",9,81.8,False,title_direct,,,Irdengut,,
-BO0624_88783,546361,4,5,Zwei Walzen kr i ge. Hellbraun. Der eine mit blauweifem Emaildekor: Ranken. Sachsen-Altenburg. Um 1800.-Der andere mit aufgelegter Kartusche und Lowenkopfen. Ebenso. Zinndeckel graviert 1806. H. 26 und 22 cm.,11,99.5,False,positional,,,Irdengut,,
-BO0624_88783,546362,5,6,Wa l ze n k r u g. Hellbraun. Mit sachsischem Wappen und Blumen mit blauem und weifem Email. Sachsen-Altenburg. 18. Jahrh. H. 22 cm. Zinnmontierung.,13,99.3,False,positional,,,Irdengut,,
+BO0624_88783,546359,2,3,"Se c h s Ge f a Be. a) Bemalter Birnkrug, gekittet; H. 25 cm. b) Walzenkrug, braun glasiert und bemalt, von 1815;H. 23 cm. c) Drei Kriglein und eine Dose,",7,99.3,False,positional,,,SCATOLE,,Sec. XIX
+BO0624_88783,546360,3,4,"Drei GefaRe. Irdengut. Grin glasiert. a) Waschbecken mit reliefiertem Engelskopf und HF R 1678. Aus Benediktbeuren. H. 28, B. 32 cm. b) Model. Jahrh. L.41 cm. c) Grofer beschadigter Krug. Ebenso. H. 30 cm.",9,81.8,False,title_direct,,,Irdengut,,Sec. XVII
+BO0624_88783,546361,4,5,Zwei Walzen kr i ge. Hellbraun. Der eine mit blauweifem Emaildekor: Ranken. Sachsen-Altenburg. Um 1800.-Der andere mit aufgelegter Kartusche und Lowenkopfen. Ebenso. Zinndeckel graviert 1806. H. 26 und 22 cm.,11,99.5,False,positional,,,Irdengut,,Sec. XIX
+BO0624_88783,546362,5,6,Wa l ze n k r u g. Hellbraun. Mit sachsischem Wappen und Blumen mit blauem und weifem Email. Sachsen-Altenburg. 18. Jahrh. H. 22 cm. Zinnmontierung.,13,99.3,False,positional,,,Irdengut,,Sec. XVIII
 BO0624_88783,546363,6,7,- Gekittet.,15,100.0,False,positional,,,Irdengut,,
 BO0624_88783,546364,7,8,"- Vier Gefafe. Grau und blau. a) und b) zwei Walzenkrige mit Zinndeckel,einer mit Marienmedaille;H.20 u. 17 cm. c) Enghalsflasche,Westerwald, defekt; H. 21 cm.d) Butterdose, gekittet;Dm. 11 cm.",18,100.0,False,positional,,,Irdengut,,
-BO0624_88783,546365,8,9,Westerwald. 17. Jahrh. H.19 cm. Zinndeckel.,20,97.4,False,positional,,,Irdengut,,
+BO0624_88783,546365,8,9,Westerwald. 17. Jahrh. H.19 cm. Zinndeckel.,20,97.4,False,positional,,,Irdengut,,Sec. XVII
 BO0624_88783,546366,9,10,Krug. Grau und blau. Mit Ritzornament: Blumen und Ranken. Wester-,21,97.6,False,positional,,,Irdengut,,
-BO0624_88783,546367,10,11,Zwei Birn kri ge. Grau und blau. Ritzdekor: Blumenzweig bzw. Sternrosette. Westerwald. Um 1800. H. 36 und 25.5 cm.-Dabei grauer reliefierter Trinkkrug. Mit Bildnis Konig Max I.von Bayern und Wappen. 19. Jahrh.,23,99.2,False,positional,,,Irdengut,,
-BO0624_88783,546368,11,12,"Finf Walzen k rige. Grau und blau. Ritzdekor: Blumen, Tiere und Ornamente. Westerwald. 18. und Anfang 19. Jahrh. H.24 bis 21 cm. Zinn-",25,98.8,False,positional,,,OGGETTI IN LATTA,,
+BO0624_88783,546367,10,11,Zwei Birn kri ge. Grau und blau. Ritzdekor: Blumenzweig bzw. Sternrosette. Westerwald. Um 1800. H. 36 und 25.5 cm.-Dabei grauer reliefierter Trinkkrug. Mit Bildnis Konig Max I.von Bayern und Wappen. 19. Jahrh.,23,99.2,False,positional,,,Irdengut,,Sec. XIX
+BO0624_88783,546368,11,12,"Finf Walzen k rige. Grau und blau. Ritzdekor: Blumen, Tiere und Ornamente. Westerwald. 18. und Anfang 19. Jahrh. H.24 bis 21 cm. Zinn-",25,98.8,False,positional,,,OGGETTI IN LATTA,,Sec. XIX
 BO0624_88783,546369,12,13,Vier desgleichen. Wie Nr. 12.,27,94.5,False,positional,,,Irdengut,,
 BO0624_88783,546370,13,2,20,28,66.7,False,positional,,,Irdengut,,
 BO0624_88783,546371,14,30,26,33,100.0,False,positional,,,Irdengut,,
@@ -17,117 +17,117 @@ BO0624_88783,546372,15,32,42,37,100.0,False,positional,,,Irdengut,,
 BO0624_88783,546373,16,26,3y,41,100.0,False,positional,,,Irdengut,,
 BO0624_88783,546374,17,30,45,45,100.0,False,positional,,,Irdengut,,
 BO0624_88783,546375,18,64,- 14 Drei des g leichen. Ritzdekor: Blumen und Rosetten. Ohne Zinndeckel.,49,100.0,False,positional,,,Irdengut,,
-BO0624_88783,546376,19,15,"Vier Walzenkrige. Grau, blau und violett. Ritz- und Reliefdekor: Ornamente. Westerwald. 18. und 1.Halfte 19. Jahrh. H.25 bis 18 cm. Zwei mit Zinndeckeln.",51,98.9,False,positional,,,Irdengut,,
-BO0624_88783,546377,20,16,- Vier Kr i ge. Drei davon grau und blau. Mit gestempelten Rosetten oder geritzten Sternmotiven; der vierte grau gefurcht. Zinndeckel. Westerwald. 18.und frihes 19. Jahrh. H.27 bis 20 cm.,53,100.0,False,positional,,,Irdengut,,
+BO0624_88783,546376,19,15,"Vier Walzenkrige. Grau, blau und violett. Ritz- und Reliefdekor: Ornamente. Westerwald. 18. und 1.Halfte 19. Jahrh. H.25 bis 18 cm. Zwei mit Zinndeckeln.",51,98.9,False,positional,,,Irdengut,,Sec. XIX
+BO0624_88783,546377,20,16,- Vier Kr i ge. Drei davon grau und blau. Mit gestempelten Rosetten oder geritzten Sternmotiven; der vierte grau gefurcht. Zinndeckel. Westerwald. 18.und frihes 19. Jahrh. H.27 bis 20 cm.,53,100.0,False,positional,,,Irdengut,,Sec. XIX
 BO0624_88783,546378,21,17,Drei kleine Krige. Grau und blau. Ritzdekor. Ebenso. H. 105 und cm.,54,95.1,False,positional,,,Irdengut,,
-BO0624_88783,546379,22,18,- Drei Salz gefa fe. Ein Paar grau: stehender Affe bzw. Lowe mit runder Schale; das dritte grau und blau: Vogel und Ranken. Westerwald. 18. Jahrh. H.14bzw.8cm.,57,100.0,False,positional,,,OGGETTI VARI,,
-BO0624_88783,546380,23,22,"19 En g ha ls k r ug. Grau und blau. Leibung mit geschwungenen Ranken, Hals mit Borte aus Engelskopfen und Blumen. Westerwald. Um 1700. H. 21,5 cm. Zinndeckel. Fuf bestofen.",58,99.1,False,positional,HALS DIRK,,Irdengut,,
+BO0624_88783,546379,22,18,- Drei Salz gefa fe. Ein Paar grau: stehender Affe bzw. Lowe mit runder Schale; das dritte grau und blau: Vogel und Ranken. Westerwald. 18. Jahrh. H.14bzw.8cm.,57,100.0,False,positional,,,OGGETTI VARI,,Sec. XVIII
+BO0624_88783,546380,23,22,"19 En g ha ls k r ug. Grau und blau. Leibung mit geschwungenen Ranken, Hals mit Borte aus Engelskopfen und Blumen. Westerwald. Um 1700. H. 21,5 cm. Zinndeckel. Fuf bestofen.",58,99.1,False,positional,HALS DIRK,,Irdengut,,Sec. XVIII
 BO0624_88783,546381,24,1700,"H.15,5 cm.Zinndeckel.",60,88.9,False,positional,,,Irdengut,,
-BO0624_88783,546382,25,21,"Vierseitige Flasche. Mit Zinnschraubverschluf. Grau und blau. Auf 160 jeder Seite gekrontes Wappen mit der Jahrzahl 1677, umgeben von gestempelten Rosetten. Raeren oder Westerwald. Nach 1677.Verschluf mit zwei Marken: Muinchener Kindl (?);G. L. und 1698. H. 33 cm. TafelIII",61,99.4,False,positional,,,Irdengut,,
-BO0624_88783,546383,26,22,"2Ba ue r n t a n z k r u g. Braun. Hauptfries mit tanzenden Paaren unter Bogen, Hals mit Ornamenten und Maskarons. Raeren. 1. Halfte 17. Jahrh. H.24 cm.",62,99.0,False,positional,HALS DIRK,,Irdengut,,
-BO0624_88783,546384,27,23,"Kurfurstenkrug. Braun. Hauptfries mit den Kurfuirsten, datiert 1607; 146 oben und unten gekerbte Felder und Rosetten; am Hals Fries mit Maskaron.",64,98.9,False,positional,HALS DIRK,,Irdengut,,
+BO0624_88783,546382,25,21,"Vierseitige Flasche. Mit Zinnschraubverschluf. Grau und blau. Auf 160 jeder Seite gekrontes Wappen mit der Jahrzahl 1677, umgeben von gestempelten Rosetten. Raeren oder Westerwald. Nach 1677.Verschluf mit zwei Marken: Muinchener Kindl (?);G. L. und 1698. H. 33 cm. TafelIII",61,99.4,False,positional,,,Irdengut,,Sec. XVII
+BO0624_88783,546383,26,22,"2Ba ue r n t a n z k r u g. Braun. Hauptfries mit tanzenden Paaren unter Bogen, Hals mit Ornamenten und Maskarons. Raeren. 1. Halfte 17. Jahrh. H.24 cm.",62,99.0,False,positional,HALS DIRK,,Irdengut,,Sec. XVII
+BO0624_88783,546384,27,23,"Kurfurstenkrug. Braun. Hauptfries mit den Kurfuirsten, datiert 1607; 146 oben und unten gekerbte Felder und Rosetten; am Hals Fries mit Maskaron.",64,98.9,False,positional,HALS DIRK,,Irdengut,,Sec. XVII
 BO0624_88783,546385,28,24,"Bauchiger Trinkkrug. Mit Enghals. Grau, teilweise ins Braunliche 40 spielend. Auf der Leibung dreimal das gleiche Wappen: dreituirmiges Kastell; auf dem Hals die Jahrzahl 1597und Spruch:DEN/ROOMER /EN/DE/ CAN /IS/ GEMAECKT/OM/DATTER WVN/ENBIER WEL/VWT.SMAECKT.",66,99.4,False,positional,HALS DIRK,,Irdengut,,
-BO0624_88783,546386,29,25,"Bar tma n n krug. Bauchig, braun. Am Hals bartige Maske, auf der Leibung zweimal Spruch: DREIMCK : VND EST :: GODES . NIT . VERGEST. Medaillons mit Frauenkopfen und Akanthusblatter. Raeren.Um 1550. H. 21 cm. Zinnmontierung.",68,99.3,False,positional,HALS DIRK,,Irdengut,,
+BO0624_88783,546386,29,25,"Bar tma n n krug. Bauchig, braun. Am Hals bartige Maske, auf der Leibung zweimal Spruch: DREIMCK : VND EST :: GODES . NIT . VERGEST. Medaillons mit Frauenkopfen und Akanthusblatter. Raeren.Um 1550. H. 21 cm. Zinnmontierung.",68,99.3,False,positional,HALS DIRK,,Irdengut,,Sec. XVI
 BO0624_88783,546387,30,5,- 26,72,100.0,False,positional,,,Irdengut,,
-BO0624_88783,546388,31,27,"Apostelkrug. Fries mit 12 Aposteln,mit Emailfarben bunt bemalt;Fuf mit Blumenranken. Kreussen. 17. Jahrh. H. 15 cm. Zinndeckel.",74,98.8,False,positional,,,Irdengut,,
+BO0624_88783,546388,31,27,"Apostelkrug. Fries mit 12 Aposteln,mit Emailfarben bunt bemalt;Fuf mit Blumenranken. Kreussen. 17. Jahrh. H. 15 cm. Zinndeckel.",74,98.8,False,positional,,,Irdengut,,Sec. XVII
 BO0624_88783,546389,32,98,86,77,100.0,False,positional,,,Irdengut,,
 BO0624_88783,546390,33,140,57,81,100.0,False,positional,,,Irdengut,,
 BO0624_88783,546391,34,33,- 34,84,100.0,False,positional,,,Irdengut,,
 BO0624_88783,546392,35,150,- 35,88,100.0,False,positional,,,Irdengut,,
 BO0624_88783,546393,36,29,"- 28 Kleiner Apostelkrug. Fries mit sechs Aposteln,mit Emailfarben be-",90,100.0,False,positional,,,Irdengut,,
-BO0624_88783,546394,37,30,"S c h ra u b f la s c he. Braun, teilweise gekerbt. Mit reliefierten, bunt emaillierten Brustbildern eines Paares,Palmetten und barocken Blumen. Sachsen. Um 1700. H.21,5 cm. Zinnschraubverschluf. Anf.19. Jahrh. Bunt oder farbig bedeutet Itets Bemalung in den vier Sharffeuerfarben (Blau, Manganviolet, Gelb und Grun). Wenn nidt anders angegeben, find die Krige mit Zinnmontierung (Dedkel und Fuk bzw.Fubreif) verlehen.",99,66.4,False,positional,,,Fayencen,,
+BO0624_88783,546394,37,30,"S c h ra u b f la s c he. Braun, teilweise gekerbt. Mit reliefierten, bunt emaillierten Brustbildern eines Paares,Palmetten und barocken Blumen. Sachsen. Um 1700. H.21,5 cm. Zinnschraubverschluf. Anf.19. Jahrh. Bunt oder farbig bedeutet Itets Bemalung in den vier Sharffeuerfarben (Blau, Manganviolet, Gelb und Grun). Wenn nidt anders angegeben, find die Krige mit Zinnmontierung (Dedkel und Fuk bzw.Fubreif) verlehen.",99,66.4,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88783,546395,38,31,"tragend,auf Schimmel. Alt-Persisch.27X20 cm. Holzrahmen.",102,97.2,False,positional,,,Fayencen,,
-BO0624_88783,546396,39,32,"Ma joli ka g ru ppe. Der hl. Georg zu Pferd totet den Drachen. Italien. 17. Jahrh. H. 33, B. 20,5 cm. Kopf des Georg angekittet. Ein Fluigel des Dra-",103,98.9,False,positional,,,Fayencen,,
-BO0624_88783,546397,40,36,"Ma jolik a s ch i s sel. Tief. Bemalt mit zwei Bauern in Landschaft, von denen einer einen Gemisekorb und Gefligel auf einer Stange tragt. Castelli. 18. Jahrh. Dm.31 cm. Verglaster Kasten.",108,99.2,False,positional,,,Fayencen,,
+BO0624_88783,546396,39,32,"Ma joli ka g ru ppe. Der hl. Georg zu Pferd totet den Drachen. Italien. 17. Jahrh. H. 33, B. 20,5 cm. Kopf des Georg angekittet. Ein Fluigel des Dra-",103,98.9,False,positional,,,Fayencen,,Sec. XVII
+BO0624_88783,546397,40,36,"Ma jolik a s ch i s sel. Tief. Bemalt mit zwei Bauern in Landschaft, von denen einer einen Gemisekorb und Gefligel auf einer Stange tragt. Castelli. 18. Jahrh. Dm.31 cm. Verglaster Kasten.",108,99.2,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88783,546398,41,37,Teller.,116,80.0,False,positional,,,PIATTI,,
-BO0624_88783,546399,42,38,"- tusche, flankiert von zwei auf Giebeln sitzenden Juinglingen. Deutsch (?). Anfang 18. Jahrh. H.27 cm.",119,100.0,False,positional,,,Fayencen,,
+BO0624_88783,546399,42,38,"- tusche, flankiert von zwei auf Giebeln sitzenden Juinglingen. Deutsch (?). Anfang 18. Jahrh. H.27 cm.",119,100.0,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88783,546400,43,39,"- 40 Platte. Bunt. Im Fond pfluigender Bauer,am Rand Blumenranken. Man-",122,100.0,False,positional,,,Fayencen,,
 BO0624_88783,546401,44,260,130,126,100.0,False,positional,,,Fayencen,,
 BO0624_88783,546402,45,60,52,130,100.0,False,positional,,,Fayencen,,
-BO0624_88783,546403,46,41,"Konis cher Trin kkrug. Henkel mit gewundenen Enden. Bunt. In drei Zonen die Leidensgeschichte Christi, von unten beginnend: Gebet am Olberg. Gefangennahme, Geifelung,Dornenkronung, Christus begegnet Veronika, Golgatha. Salzburg. Werkstatte Obermillner. 2. Halfte 17. Jahrh.H. 21 cm. Zinndeckel graviert: Lorbeerstab. Tafel II",132,99.5,False,positional,,,Fayencen,,
-BO0624_88783,546404,47,42,"schrift. Wohl Salzburg. 2.Halfte 18. Jahrh. H.20,5 cm. (Einer defekt.)",134,97.6,False,positional,,,Fayencen,,
+BO0624_88783,546403,46,41,"Konis cher Trin kkrug. Henkel mit gewundenen Enden. Bunt. In drei Zonen die Leidensgeschichte Christi, von unten beginnend: Gebet am Olberg. Gefangennahme, Geifelung,Dornenkronung, Christus begegnet Veronika, Golgatha. Salzburg. Werkstatte Obermillner. 2. Halfte 17. Jahrh.H. 21 cm. Zinndeckel graviert: Lorbeerstab. Tafel II",132,99.5,False,positional,,,Fayencen,,Sec. XVII
+BO0624_88783,546404,47,42,"schrift. Wohl Salzburg. 2.Halfte 18. Jahrh. H.20,5 cm. (Einer defekt.)",134,97.6,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88783,546405,48,43,men und Vogel. Delft.18.Jahrh. H.40 cm.Defekt. 一 Deckelvase. Ahnlich bemalt. H.28 cm. Knauf angekittet.,136,98.5,False,positional,,,Fayencen,,
-BO0624_88783,546406,49,44,"dern. Nach ostasiatischem Vorbild.Delft.Um 1700.Dm.34,5 cm.",138,97.4,False,positional,,,Fayencen,,
-BO0624_88783,546407,50,60,"- 45 Ru n de Platte. Bunt, Verwendung von Ocker und Rot. Bemalt nach ostasiatischem Vorbild mit Vogel auf Blumenvase und Pflanzen. Delft. 18. Jahrh. Dm.30.5cm.",142,100.0,False,positional,,,Fayencen,,
+BO0624_88783,546406,49,44,"dern. Nach ostasiatischem Vorbild.Delft.Um 1700.Dm.34,5 cm.",138,97.4,False,positional,,,Fayencen,,Sec. XVIII
+BO0624_88783,546407,50,60,"- 45 Ru n de Platte. Bunt, Verwendung von Ocker und Rot. Bemalt nach ostasiatischem Vorbild mit Vogel auf Blumenvase und Pflanzen. Delft. 18. Jahrh. Dm.30.5cm.",142,100.0,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88783,546408,51,8,h,144,66.7,False,title_direct,DELACROIX VICTOR EUGENE,Scuola di H. Makart,Bucher,,
 BO0624_88783,546409,52,46,"- Runde Platte. Bunt, nach ostasiatischem Vorbild. Zwei Kakadus auf Baumstamm,Balustrade mit bluhenden Strauchern.Delft.18. Jahrh.Dm.29 cm.",147,100.0,False,positional,,,Fayencen,,
-BO0624_88783,546410,53,47,"Run de Platte. Bunt. Spiegel: blaue Ornamente, Rand: gelbe Zwickel zwischen Reserven mit Bluiten in Grin, Rot und Blau. Delft. 18. Jahrh. Dm.",148,98.9,False,positional,,,SPECCHI,,
+BO0624_88783,546410,53,47,"Run de Platte. Bunt. Spiegel: blaue Ornamente, Rand: gelbe Zwickel zwischen Reserven mit Bluiten in Grin, Rot und Blau. Delft. 18. Jahrh. Dm.",148,98.9,False,positional,,,SPECCHI,,Sec. XVIII
 BO0624_88783,546411,54,34,cm.,149,66.7,False,positional,,,Fayencen,,
 BO0624_88783,546412,55,60,"48 Ein Paar runde Platten. Blaumalerei. Im Spiegel: Blumenvase und Pfauenrad,am Rand: stilisierte Tulpen. Blaumarken. Delft.De porceleyne Klaeuw"".18.Jahrh.Dm.33 cm.",150,99.0,False,positional,,,PIATTI,,
-BO0624_88783,546413,56,49,"Zwei Paar Vasen. Bunt. a) Flotenform. Bauer und Haus in Kartuschen185 umrahmung. Marken CP Kam. Wohl Gerrit Pietersz Kam 16741700. Delft. De 3 vergulde Astonne"".H. 22 cm. b) Bauchig. Ruhende Kuh in Blumenkartusche. Marke Beil. Delft. Het Bijltje"". 2. Halfte 18. Jahrh. H. 19 cm.",151,99.4,False,positional,,,VASI,,
+BO0624_88783,546413,56,49,"Zwei Paar Vasen. Bunt. a) Flotenform. Bauer und Haus in Kartuschen185 umrahmung. Marken CP Kam. Wohl Gerrit Pietersz Kam 16741700. Delft. De 3 vergulde Astonne"".H. 22 cm. b) Bauchig. Ruhende Kuh in Blumenkartusche. Marke Beil. Delft. Het Bijltje"". 2. Halfte 18. Jahrh. H. 19 cm.",151,99.4,False,positional,,,VASI,,Sec. XVIII
 BO0624_88783,546414,57,50,"- Zwei A pothekergefaRe. Blaumalerei,Kartusche.18. Jahrh. H.26 cm. —Dazu Delfter Platte mit blauer Landschaft. Dm. 34,5 cm.Repariert. 23",153,98.8,False,positional,,,Fayencen,,
 BO0624_88783,546415,58,51,"- En g hals krug. Blaue Blumenbuketts und Insekten. Hanau. 1. Halfte 18.Jahrh.H.30,5 cm.Henkel erganzt.",160,100.0,False,positional,HALS DIRK,,Fayencen,,
 BO0624_88783,546416,59,52,"Zwei Birnkru ge. Der eine blau und Mangan, Chinesenszene; der andere violett und gelb,ostasiatische Blumen. In Hanauer Art. H. 25 u.19 cm.",161,98.9,False,positional,,,Fayencen,,
-BO0624_88783,546417,60,590,- 53 Ho her Trinkkru g. Blaumalerei mit Mangankonturierung auf hellblauer Glasur. Breite Mittelzone: Jesus und die Samariterin am Brunnen. Landschaft mit Baumen und Architektur. Fuf und Rand gewellt mit je zwei Streifen mit Blumenranken. Nurnberg.Um 1725.H.30 cm.Zinndeckel mit eingraviertem Wappen. Tafel III,165,100.0,False,title_direct,,Scuola di Norimberga,Glas,,
+BO0624_88783,546417,60,590,- 53 Ho her Trinkkru g. Blaumalerei mit Mangankonturierung auf hellblauer Glasur. Breite Mittelzone: Jesus und die Samariterin am Brunnen. Landschaft mit Baumen und Architektur. Fuf und Rand gewellt mit je zwei Streifen mit Blumenranken. Nurnberg.Um 1725.H.30 cm.Zinndeckel mit eingraviertem Wappen. Tafel III,165,100.0,False,title_direct,,Scuola di Norimberga,Glas,,Sec. XVIII
 BO0624_88783,546418,61,54,"Zwei Eng halskrige. Blaumalerei auf lichtblauer Glasur. Der eine mit Vogelesdekor, der andere mit Blumen und Fruchtbiischeln. Suddeutsch (Nirnberg oder Ansbach). 1.Halfte 18.Jahrh. H.32 u.26.5 cm.",166,99.2,False,title_direct,,,Glas,,
 BO0624_88783,546419,62,55,"Walzen krug. Bunt. In Blumenumrahmung: Rebekka und Elieser am Brunnen, in Mangan. Nuirnberg oder Schwabisch nach Nurnberger Vorbild.",169,98.8,False,positional,,Scuola Sveva,Fayencen,,
 BO0624_88783,546420,63,56,En g hal s kru g. Blau. In Rundfeldern: Fruchtkorb und Blumen. In Nurnberger Art. H. 34 cm.,171,98.2,False,positional,,,Fayencen,,
-BO0624_88783,546421,64,57,Walzen k rug. Turkisblau. Ansbach (?). 18. Jahrh. H. 29.5 cm.,172,97.1,False,positional,,,Fayencen,,
+BO0624_88783,546421,64,57,Walzen k rug. Turkisblau. Ansbach (?). 18. Jahrh. H. 29.5 cm.,172,97.1,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88783,546422,65,38597,"Zw ei K r i ge. Der eine birnformig, blaue Architekturlandschaft (Schnauze in Zinn erganzt); der andere Enghalsform, kalte Bemalung Rot und Gold:",174,97.9,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88783,546423,66,39,了,179,100.0,False,positional,,,Fayencen,,
 BO0624_88783,546424,67,60,marke BK. Bayreuth. Knoller. H. 25 cm.,181,95.7,False,positional,,,Fayencen,,
 BO0624_88783,546425,68,61,"Walzenkrug. Blau. Pfau auf Blumenstaude, zwischen geschwammten Baumen. Marke B F S. Bayreuth. Frankel und Schreck.H. 24 cm. Beschadigt.",183,98.8,False,positional,,,Fayencen,,
 BO0624_88783,546426,69,63,"Z wei W al ze n k r i ge. Ahnlicher Dekor. Ebenso. Defekt. H. 27,5 cm. - Wal ze n k ru g. Bunt. Schafer zwischen Blumenstauden und Baumen. BayTafel II",189,69.5,False,positional,,,Fayencen,,
-BO0624_88783,546427,70,64,reuth.2.Halfte 18. Jahrh.H.28 cm.,190,95.4,False,positional,,,Fayencen,,
-BO0624_88783,546428,71,65,"Zw ei W alzen kri ge. Der eine blaue ostasiatische Blumen, der andere 30 Blumenstauden zwischen Baumen. Marke BFS. Beide Bayreuth. Um 1750. H.24,5u.26 cm.Gesprungen.",191,99.1,False,positional,,,Fayencen,,
-BO0624_88783,546429,72,2966,18. Jahrh.H. 26 cm.,193,86.5,False,positional,,,Fayencen,,
+BO0624_88783,546427,70,64,reuth.2.Halfte 18. Jahrh.H.28 cm.,190,95.4,False,positional,,,Fayencen,,Sec. XVIII
+BO0624_88783,546428,71,65,"Zw ei W alzen kri ge. Der eine blaue ostasiatische Blumen, der andere 30 Blumenstauden zwischen Baumen. Marke BFS. Beide Bayreuth. Um 1750. H.24,5u.26 cm.Gesprungen.",191,99.1,False,positional,,,Fayencen,,Sec. XVIII
+BO0624_88783,546429,72,2966,18. Jahrh.H. 26 cm.,193,86.5,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88783,546430,73,6667,"7W a l ze n k r u g. Bunt. Ulan auf Pferd,zwischen Tannen. Bayreuth. 2. Halfte 18.Jahrh.H.24 cm.",194,97.3,False,positional,,,Fayencen,,
-BO0624_88783,546431,74,2868,W a l ze n k r u g. Bunt. Schaferin zwischen Baumchen. Gelbe Familie. Crailsheim.Um 1800. H.25 cm.,195,97.4,False,positional,,,Fayencen,,
-BO0624_88783,546432,75,4472,"- Walzenkru g. Bunt mit Verwendung von Rot. Stehende Chinesin mit Schirm zwischen Palmbaumen und Blumenstauden. Dorotheenthal. Um 1750. H.28,5cm. Tafel II",202,100.0,False,positional,,,Fayencen,,
-BO0624_88783,546433,76,80,"- 73 Z wei Walzen k r i ge. Bunt, Verwendung von Rot. Zwischen Palmbaumen und blihenden Stauden in Mangan: Chinesisches Paar neben Tisch hockend, Zwei Chinesen, davon einer stehend im Gesprach. Blaumarke MB. Dorotheenthal. Maler Meiselbach. 2.Halfte 18. Jahrh. H. 24 bzw. 27 cm. Zinndeckel, graviert 1816.",205,100.0,False,positional,,,Fayencen,,
-BO0624_88783,546434,77,74,"Zwei Walzen kr i ge. Bunt mit Rot. Chinese mit Schirm zwischen Palmbaumen und Blitenstauden; Chinese mit Blumenstock zwischen Pflanzen und Architektur. Thuiringen. Wohl Dorotheenthal. 2. Halfte 18. Jahrh.H. 24,5 cm.",206,99.3,False,positional,,,Fayencen,,
-BO0624_88783,546435,78,36,"75 Walzenkrug. Bunt mit Rot. Fond manganviolett, ausgespart Kartusche mit Vogel auf ostasiatischer Blumenstaude. Thuringen.(Erfurt?) 2. Halfte 18. Jahrh. H. 26 cm.",207,99.0,False,positional,,,Fayencen,,
+BO0624_88783,546431,74,2868,W a l ze n k r u g. Bunt. Schaferin zwischen Baumchen. Gelbe Familie. Crailsheim.Um 1800. H.25 cm.,195,97.4,False,positional,,,Fayencen,,Sec. XIX
+BO0624_88783,546432,75,4472,"- Walzenkru g. Bunt mit Verwendung von Rot. Stehende Chinesin mit Schirm zwischen Palmbaumen und Blumenstauden. Dorotheenthal. Um 1750. H.28,5cm. Tafel II",202,100.0,False,positional,,,Fayencen,,Sec. XVIII
+BO0624_88783,546433,76,80,"- 73 Z wei Walzen k r i ge. Bunt, Verwendung von Rot. Zwischen Palmbaumen und blihenden Stauden in Mangan: Chinesisches Paar neben Tisch hockend, Zwei Chinesen, davon einer stehend im Gesprach. Blaumarke MB. Dorotheenthal. Maler Meiselbach. 2.Halfte 18. Jahrh. H. 24 bzw. 27 cm. Zinndeckel, graviert 1816.",205,100.0,False,positional,,,Fayencen,,Sec. XVIII
+BO0624_88783,546434,77,74,"Zwei Walzen kr i ge. Bunt mit Rot. Chinese mit Schirm zwischen Palmbaumen und Blitenstauden; Chinese mit Blumenstock zwischen Pflanzen und Architektur. Thuiringen. Wohl Dorotheenthal. 2. Halfte 18. Jahrh.H. 24,5 cm.",206,99.3,False,positional,,,Fayencen,,Sec. XVIII
+BO0624_88783,546435,78,36,"75 Walzenkrug. Bunt mit Rot. Fond manganviolett, ausgespart Kartusche mit Vogel auf ostasiatischer Blumenstaude. Thuringen.(Erfurt?) 2. Halfte 18. Jahrh. H. 26 cm.",207,99.0,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88783,546436,79,34,- 35,209,100.0,False,positional,,,Fayencen,,
 BO0624_88783,546437,80,76,"W a l ze n k r u g. Gleicher Dekor. Ebenso. H. 27,5 cm.",210,97.1,False,positional,,,Fayencen,,
 BO0624_88783,546438,81,77,"Wal ze n k r u g. Ahnlicher Dekor, weifer Fond. Ebenso. H. 27,5 cm. Sprung.",211,97.8,False,positional,,,Fayencen,,
-BO0624_88783,546439,82,40,"78 Wal ze n krug. (Pilasterkrug.) Bunt mit Rot. Drei Felder mit Blumen, getrennt durch Blumenranken. Thuringen. (Erfurt?) Um 1750. H.28 cm. - Des gleichen. Felder mit Palmbaumen, Pilaster mit stilisierten Blumen. Thiringen. Um 1750. H. 26,5 cm.",212,71.8,False,positional,,,Fayencen,,
+BO0624_88783,546439,82,40,"78 Wal ze n krug. (Pilasterkrug.) Bunt mit Rot. Drei Felder mit Blumen, getrennt durch Blumenranken. Thuringen. (Erfurt?) Um 1750. H.28 cm. - Des gleichen. Felder mit Palmbaumen, Pilaster mit stilisierten Blumen. Thiringen. Um 1750. H. 26,5 cm.",212,71.8,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88783,546440,83,41,54,220,100.0,False,positional,,,Fayencen,,
 BO0624_88783,546441,84,33,- 79,224,100.0,False,positional,,,Fayencen,,
 BO0624_88783,546442,85,80,"Des gleichen. Bunt. Felder mit Baumen, Pilaster mit Gitterwerk und Bluiten. Gleiche Fabrik wie Nr. 79. H. 27 cm.",225,98.6,False,positional,,,Fayencen,,
-BO0624_88783,546443,86,81,- Zwei Walzen kri ge. Bunt mit Rot. Architektur zwischen Palmbaumen; schiefender Pandur zwischen Fruchtbischeln.Henkel mit Zinn befestigt. Thii ringen. 2.Halfte 18. Jahrh. H. 24 cm.,227,100.0,False,positional,,,OGGETTI IN LATTA,,
-BO0624_88783,546444,87,82,Zwei Walzenkrige. Bunt mit Rot. Kakadu zwischen Bluitenstauden; Kirchenarchitektur zwischen Palmbuscheln. Thuringen. 2. Halfte 18. Jahrh.,228,98.9,False,positional,,,Fayencen,,
-BO0624_88783,546445,88,46,"83 W al zen k r u g. Bunt mit Rot. Chinesischer Kaiser in von Fabeltier gezogenem Wagen, Palmbaume. Thuringen. 2. Halfte 18. Jahrh. H. 25 cm. Tafel II",230,98.9,False,positional,,,Fayencen,,
+BO0624_88783,546443,86,81,- Zwei Walzen kri ge. Bunt mit Rot. Architektur zwischen Palmbaumen; schiefender Pandur zwischen Fruchtbischeln.Henkel mit Zinn befestigt. Thii ringen. 2.Halfte 18. Jahrh. H. 24 cm.,227,100.0,False,positional,,,OGGETTI IN LATTA,,Sec. XVIII
+BO0624_88783,546444,87,82,Zwei Walzenkrige. Bunt mit Rot. Kakadu zwischen Bluitenstauden; Kirchenarchitektur zwischen Palmbuscheln. Thuringen. 2. Halfte 18. Jahrh.,228,98.9,False,positional,,,Fayencen,,Sec. XVIII
+BO0624_88783,546445,88,46,"83 W al zen k r u g. Bunt mit Rot. Chinesischer Kaiser in von Fabeltier gezogenem Wagen, Palmbaume. Thuringen. 2. Halfte 18. Jahrh. H. 25 cm. Tafel II",230,98.9,False,positional,,,Fayencen,,Sec. XVIII
 BO0624_88783,546446,89,31,"Walzen krug. Bunt. Manganvioletter Fond, Kartusche mit Vogel auf Blu-",231,97.7,False,positional,,,Fayencen,,
-BO0624_88783,546447,90,84,"menzweig, Rander Behangmuster. Thuringen. Um 1750. H. 25 cm.",232,97.3,False,positional,,,Fayencen,,
-BO0624_88783,546448,91,48,- 85 Walzenkrug. Bunt. Architektur auf Hugelgelande mit Baumen. Blaumarke B. Braunschweig. Um 1760. Nach Berliner Vorbild.Deckel mit Luthermedaille.H. 26 cm.Henkel mit Zinnband.,234,100.0,False,positional,,Scuola di Berlino,Fayencen,,
-BO0624_88783,546449,92,13,"- Zwei W alzenkri ge. Bunt. Der eine mit Fahnentrager, der andere mit Unbekannte Fabriken.",242,100.0,False,positional,,,Fayencen,,
+BO0624_88783,546447,90,84,"menzweig, Rander Behangmuster. Thuringen. Um 1750. H. 25 cm.",232,97.3,False,positional,,,Fayencen,,Sec. XVIII
+BO0624_88783,546448,91,48,- 85 Walzenkrug. Bunt. Architektur auf Hugelgelande mit Baumen. Blaumarke B. Braunschweig. Um 1760. Nach Berliner Vorbild.Deckel mit Luthermedaille.H. 26 cm.Henkel mit Zinnband.,234,100.0,False,positional,,Scuola di Berlino,Fayencen,,Sec. XVIII
+BO0624_88783,546449,92,13,"- Zwei W alzenkri ge. Bunt. Der eine mit Fahnentrager, der andere mit Unbekannte Fabriken.",242,100.0,False,positional,ANONIMO,,Fayencen,,
 BO0624_88783,546450,93,86,Schneider auf Ziegenbock zwischen Palmbaumen. H.27u.24cm.,243,97.3,False,positional,,,Fayencen,,
-BO0624_88783,546451,94,87,"Drei Platten,zwei Kruge,Teekanne. a) Platte,blau. Architektur. Norddeutsch. Dm. 30 cm.b) do.,bunt. Wappen. Ebenso. Dm. 29 cm. c) Hirsch. Spanisch? Dm.32 cm. d) Walzenkrug. Suddeutsch. 18. Jahrh. H.13 cm. e) Birnkrug, bunt. Blumen. H. 16 cm. f) Teekanne, blau (Reste von Kaltmalerei). Ansbach.18. Jahrh.H.14 cm.Die meisten Sticke defekt.",244,99.5,False,positional,,,OGGETTI VARI,,
+BO0624_88783,546451,94,87,"Drei Platten,zwei Kruge,Teekanne. a) Platte,blau. Architektur. Norddeutsch. Dm. 30 cm.b) do.,bunt. Wappen. Ebenso. Dm. 29 cm. c) Hirsch. Spanisch? Dm.32 cm. d) Walzenkrug. Suddeutsch. 18. Jahrh. H.13 cm. e) Birnkrug, bunt. Blumen. H. 16 cm. f) Teekanne, blau (Reste von Kaltmalerei). Ansbach.18. Jahrh.H.14 cm.Die meisten Sticke defekt.",244,99.5,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_88783,546452,95,45,74,247,100.0,False,positional,,,Fayencen,,
 BO0624_88783,546453,96,50,30,251,100.0,False,positional,,,Fayencen,,
 BO0624_88783,546454,97,23,165,255,100.0,False,positional,,,Fayencen,,
 BO0624_88783,546455,98,88,W al ze n k ru g. Farbige Hausmalerei auf MeiBener Porzellan. Schiffsleute H.23 cm.Henkel gekittet. Tafel II,259,98.6,False,title_direct,,,Porzellan,,
 BO0624_88783,546456,99,89,Ein Paar Kin der figuren. Bunt.Winzer und Winzerin. Marke Schwer-,260,97.6,False,positional,,,Porzellan; Steingut,,
-BO0624_88783,546457,100,90,"Ta blett. Mit bunten Blumen und Vergoldung. Marke. Meifen. Um 1850. 38X39 cm.-Dabei bemalte Reiterstatuette, ebenso, H. 8,5 cm; Tintenzeug, blau mit Gold, Empire;und bemaltes Fayencetintenzeug, Rokokostil.",262,99.2,False,title_direct,,,OGGETTI IN ORO,,
-BO0624_88783,546458,101,16,"Biskuitfig ur. Goethe (nach Rauch), dat. 1828. Auf reliefiertem Sockel. Marke. Meifen. H.41 cm.-Dabei Kannchen und Cremeschalchen. Blaues Zwiebelmuster.H.8,5u.3,5 cm.",263,99.0,False,positional,,,Porzellan; Steingut,,
-BO0624_88783,546459,102,92,"Schafergruppe.S Sitzende Dame,neben ihr stehende Flotenblaser. Farbige Gewander mit Streifenmuster. Blaumarke.Wien.Ende 18. Jahrh. H.17 cm. Fufspitze,Hut defekt.",264,99.0,False,positional,,Scuola Viennese,Porzellan; Steingut,,
+BO0624_88783,546457,100,90,"Ta blett. Mit bunten Blumen und Vergoldung. Marke. Meifen. Um 1850. 38X39 cm.-Dabei bemalte Reiterstatuette, ebenso, H. 8,5 cm; Tintenzeug, blau mit Gold, Empire;und bemaltes Fayencetintenzeug, Rokokostil.",262,99.2,False,title_direct,,,OGGETTI IN ORO,,Sec. XIX
+BO0624_88783,546458,101,16,"Biskuitfig ur. Goethe (nach Rauch), dat. 1828. Auf reliefiertem Sockel. Marke. Meifen. H.41 cm.-Dabei Kannchen und Cremeschalchen. Blaues Zwiebelmuster.H.8,5u.3,5 cm.",263,99.0,False,positional,,,Porzellan; Steingut,,Sec. XIX
+BO0624_88783,546459,102,92,"Schafergruppe.S Sitzende Dame,neben ihr stehende Flotenblaser. Farbige Gewander mit Streifenmuster. Blaumarke.Wien.Ende 18. Jahrh. H.17 cm. Fufspitze,Hut defekt.",264,99.0,False,positional,,Scuola Viennese,Porzellan; Steingut,,Sec. XVIII
 BO0624_88783,546460,103,93,Neun Ge schirrteile. Blaumalerei:europaische oder ostasiatische Blu-,265,97.8,False,positional,,,Porzellan; Steingut,,
-BO0624_88783,546461,104,94,"Ende 18. Jahrh. L. (2 Stck.) 38,5 und die anderen 28 cm.",268,97.0,False,positional,,,Porzellan; Steingut,,
+BO0624_88783,546461,104,94,"Ende 18. Jahrh. L. (2 Stck.) 38,5 und die anderen 28 cm.",268,97.0,False,positional,,,Porzellan; Steingut,,Sec. XVIII
 BO0624_88783,546462,105,96,96,270,100.0,False,positional,,,Porzellan; Steingut,,
-BO0624_88783,546463,106,97,"Ga r t ne r. Stehend. Orangefarbener Rock, gelbe Kniehose, schwarzer Hut. Thiringen. Ende 18. Jahrh. H.12,5 cm. Sichel abgebrochen.-Dabei Nymphenburger Biskuitbiiste: P.v. Cornelius. 19. Jahrh. H.10,5 cm.",273,99.2,False,positional,,,Porzellan; Steingut,,
+BO0624_88783,546463,106,97,"Ga r t ne r. Stehend. Orangefarbener Rock, gelbe Kniehose, schwarzer Hut. Thiringen. Ende 18. Jahrh. H.12,5 cm. Sichel abgebrochen.-Dabei Nymphenburger Biskuitbiiste: P.v. Cornelius. 19. Jahrh. H.10,5 cm.",273,99.2,False,positional,,,Porzellan; Steingut,,Sec. XVIII
 BO0624_88783,546464,107,98,"Birnformige Kanne. Frauenkopf am Ausguf, bunte Blumenmalerei.",274,97.5,False,positional,,,Porzellan; Steingut,,
-BO0624_88783,546465,108,99,- Marke A. Ansbach. 2.Halfte 18. Jahrh. H.23 cm.,276,100.0,False,positional,,,Porzellan; Steingut,,
+BO0624_88783,546465,108,99,- Marke A. Ansbach. 2.Halfte 18. Jahrh. H.23 cm.,276,100.0,False,positional,,,Porzellan; Steingut,,Sec. XVIII
 BO0624_88783,546466,109,100,"Zw olf de s g leic he n. Neun davon wie Nr. 99, die uibrigen Holz geschnitzt",278,97.3,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88783,546467,110,101,"- Ein Paar Kinderfiguren. Steingut. Knabe, Madchen mit Huhn, in heller geblumter Kleidung. Blaumarke Rad mit D. Modellnr. Damm. Nach Hochster Melchior Modellen.Um 1840. H.15 cm.",281,100.0,False,title_direct,,,Steingut,,
+BO0624_88783,546467,110,101,"- Ein Paar Kinderfiguren. Steingut. Knabe, Madchen mit Huhn, in heller geblumter Kleidung. Blaumarke Rad mit D. Modellnr. Damm. Nach Hochster Melchior Modellen.Um 1840. H.15 cm.",281,100.0,False,title_direct,,,Steingut,,Sec. XIX
 BO0624_88783,546468,111,140,60,285,100.0,False,positional,,Scuola di Monaco,Porzellan; Steingut,,
 BO0624_88783,546469,112,95,<!-- image -->,290,100.0,False,positional,,,Porzellan; Steingut,,
 BO0624_88783,546470,113,160,350,294,100.0,False,positional,,,Porzellan; Steingut,,
 BO0624_88783,546471,114,28,23,298,100.0,False,positional,,,Porzellan; Steingut,,
 BO0624_88783,546472,115,135,64,302,100.0,False,positional,,,Porzellan; Steingut,,
-BO0624_88783,546473,116,104,"Fla s che u n d Glas. Mit gekniffenen Faden. Venedig. 16. Jahrh. H. 17 u. 16,5cm.",306,97.3,False,title_direct,,,Glas,,
+BO0624_88783,546473,116,104,"Fla s che u n d Glas. Mit gekniffenen Faden. Venedig. 16. Jahrh. H. 17 u. 16,5cm.",306,97.3,False,title_direct,,,Glas,,Sec. XVI
 BO0624_88783,546474,117,105,Run de Schale auf FuR. Farblos mit Emailmalerei. Am Rand bunte Punktborte auf etwas abgeriebenem Goldgrund. Venedig. Um 150o. Dm. 22 cm. Am Rand ein kleines Stickchen schartig. Ru n de S c h a le. Mit gegossenen Rippen. Am Rand bunte Punktborte (Email-,307,81.6,False,positional,,,OGGETTI VARI,,
-BO0624_88783,546475,118,106,farben) auf abgeriebenem Goldgrund. Venedig.Um 1500. Dm.14 cm.,309,96.7,False,positional,,,Glas,,
-BO0624_88783,546476,119,107,- Des sert pla tte. Rund. Mit weifem Muster. Venedig. 18. Jahrh. Dm. 21 cm.,311,100.0,False,positional,,,Glas,,
+BO0624_88783,546475,118,106,farben) auf abgeriebenem Goldgrund. Venedig.Um 1500. Dm.14 cm.,309,96.7,False,positional,,,Glas,,Sec. XVI
+BO0624_88783,546476,119,107,- Des sert pla tte. Rund. Mit weifem Muster. Venedig. 18. Jahrh. Dm. 21 cm.,311,100.0,False,positional,,,Glas,,Sec. XVIII
 BO0624_88783,546477,120,108,"Drei Vasen, zwei Schalchen. Glas. Mit farbiger Fadeneinlage. Venedig. 18.Jahrh. H. 16, 8 u.5 cm. Eine Vase defekt.",312,98.1,False,title_direct,,,VASI,,
 BO0624_88783,546478,121,109,"Siebzehn grine Romer. Mit Fuf aus Spiralfaden, Knauf mit Glasnuppen. Deutsch. 17.18. Jahrh. H. 12,5 bis 13,5 cm.",313,98.1,False,title_direct,,,Glas,,
 BO0624_88783,546479,122,110,Pa f g las. Farblos. Mit teilweise gekerbten Glasreifen umwickelt. Deutsch.,314,97.3,False,title_direct,,,Glas,,
 BO0624_88783,546480,123,17,Jahrh. H.24 cm.,315,89.7,False,positional,,,Glas,,
 BO0624_88783,546481,124,54,"111 Pokal, Schalchen, Vexierglas. Mit gegossenen und gekniffenen Verzierungen. Bohmen. 17.18.Jahrh. H. 24 cm,Dm.12 cm,H. 18 cm.",316,98.7,False,positional,,,Glas,,
-BO0624_88783,546482,125,I,"nstrument, daneben seine Frau, Blumen und Maiglockchenstauden. Spruch: Vivat Musik du edle Kunst usw. 1698. Rand und profilierter Deckel mit",317,99.6,False,positional,,,Glas,,
-BO0624_88783,546483,126,113,"Fichtelberg-Humpen von 1724. Bunte Emailmalerei: Bewaldeter Bergkegel der Ochsenkopf mit Tierkopfen und den vier Fluissen. Ruckwarts Blumenstaude. Langer Spruch:Der Fichtelberg die Edle Ert ... Anno 1724. Fichtelgebirge (Bischofsgruin). 1724. H.20,5 cm. Tafel II",319,99.2,False,positional,,,Glas,,
-BO0624_88783,546484,127,114,"Stan genglas von 1750. Bunte Emailmalerei: Aufrecht marschierender Ziegenbock,im Ruickenkorb ein Schneiderlein tragend; Gegenseite Blumenstaude. Ich will zu marckte Lauffen, will meinen Schneider verkauffen und will das Geld versauffen.1750. Frankisch. H. 16,5 cm.",320,99.2,False,positional,,,Glas,,
-BO0624_88783,546485,128,115,"Jag dbecher von 1776. Bunte Emailmalerei: Jager einen Bar erlegend, Hunde Wild hetzend.Vivaritt allen Jegern, trinckt mit Freuden, Halt euch bescheiden, frisch wieder frisch daR ist gut jegerisch. 1776. M. B. Bohmen H.13,5cm. Tafel II",321,99.1,False,positional,,,Glas,,
-BO0624_88783,546486,129,116,"Zwei Becher. Bunte Emailmalerei: Der eine mit Gotteslamm von 1714, der andere mit Paar und Zimmermannsemblemen. H. 11,5 u.9 cm.",322,98.4,False,positional,,,VASI,,
+BO0624_88783,546482,125,I,"nstrument, daneben seine Frau, Blumen und Maiglockchenstauden. Spruch: Vivat Musik du edle Kunst usw. 1698. Rand und profilierter Deckel mit",317,99.6,False,positional,,,Glas,,Sec. XVII
+BO0624_88783,546483,126,113,"Fichtelberg-Humpen von 1724. Bunte Emailmalerei: Bewaldeter Bergkegel der Ochsenkopf mit Tierkopfen und den vier Fluissen. Ruckwarts Blumenstaude. Langer Spruch:Der Fichtelberg die Edle Ert ... Anno 1724. Fichtelgebirge (Bischofsgruin). 1724. H.20,5 cm. Tafel II",319,99.2,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546484,127,114,"Stan genglas von 1750. Bunte Emailmalerei: Aufrecht marschierender Ziegenbock,im Ruickenkorb ein Schneiderlein tragend; Gegenseite Blumenstaude. Ich will zu marckte Lauffen, will meinen Schneider verkauffen und will das Geld versauffen.1750. Frankisch. H. 16,5 cm.",320,99.2,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546485,128,115,"Jag dbecher von 1776. Bunte Emailmalerei: Jager einen Bar erlegend, Hunde Wild hetzend.Vivaritt allen Jegern, trinckt mit Freuden, Halt euch bescheiden, frisch wieder frisch daR ist gut jegerisch. 1776. M. B. Bohmen H.13,5cm. Tafel II",321,99.1,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546486,129,116,"Zwei Becher. Bunte Emailmalerei: Der eine mit Gotteslamm von 1714, der andere mit Paar und Zimmermannsemblemen. H. 11,5 u.9 cm.",322,98.4,False,positional,,,VASI,,Sec. XVIII
 BO0624_88783,546487,130,102,"Ein Paar desgleichen. Turke und Turkin. Wie Nr. 101. H.13,5 cm.",323,96.7,False,positional,,,Glas,,
 BO0624_88783,546488,131,103,"Vier Ta s s e n, K a n ne. Weifer Reliefdekor auf Blau. Stempel Wedgwood.",324,97.2,False,positional,,,OGGETTI VARI,,
 BO0624_88783,546489,132,19,Jahrh.H.6u.12cm.,325,90.9,False,positional,,,Glas,,
@@ -136,40 +136,40 @@ BO0624_88783,546491,134,126,56,332,100.0,False,positional,,,Glas,,
 BO0624_88783,546492,135,4050,10/11,336,100.0,False,positional,,,Glas,,
 BO0624_88783,546493,136,5,501,342,100.0,False,positional,,,Glas,,
 BO0624_88783,546494,137,3,%40,346,66.7,False,positional,,,Glas,,
-BO0624_88783,546495,138,1519,"- 117 Bauchiges GefaR. Farbige Emailmalerei: Pflugender Bauer mit zwei Ochsen, gereimter Spruch und Joh. Nicol. Blechschmidt 1781. Deutsch. Um 1781.H.21cm.",350,100.0,False,positional,,,Glas,,
-BO0624_88783,546496,139,118,hornchen auf Baum. Goldrand. Bohmen.Um 1750. H.6.5 cm.,352,96.2,False,positional,,,Glas,,
-BO0624_88783,546497,140,119,"Zwei Mil chg laskri ge. Walzenform. Bunte Emailmalerei: Brautpaar; Fabel von Hahn und Fuchs (Sprung). Bohmen. Anfang 19. Jahrh. H. 25 u. 24,5 cm. Zinnmontierung. Tafel II",353,98.7,False,positional,,,Glas,,
+BO0624_88783,546495,138,1519,"- 117 Bauchiges GefaR. Farbige Emailmalerei: Pflugender Bauer mit zwei Ochsen, gereimter Spruch und Joh. Nicol. Blechschmidt 1781. Deutsch. Um 1781.H.21cm.",350,100.0,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546496,139,118,hornchen auf Baum. Goldrand. Bohmen.Um 1750. H.6.5 cm.,352,96.2,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546497,140,119,"Zwei Mil chg laskri ge. Walzenform. Bunte Emailmalerei: Brautpaar; Fabel von Hahn und Fuchs (Sprung). Bohmen. Anfang 19. Jahrh. H. 25 u. 24,5 cm. Zinnmontierung. Tafel II",353,98.7,False,positional,,,Glas,,Sec. XIX
 BO0624_88783,546498,141,120,"Zwei des gleichen. Brautpaar, Bilderratsel. Sonst wie Nr. 119. H. 25.5 u.23cm.",354,97.3,False,positional,,,Glas,,
-BO0624_88783,546499,142,121,"Z Zwei Walzenkrige. Farbige Emailmalerei. Der eine mit zwei Bottchern bei der Arbeit und Widmung von 1836, der andere mit schnabelnden Tauben. Deutsch.Um 1836 u.1827. H.22,5 u.21,5 cm. Zinndeckel.",355,99.2,False,positional,,,Glas,,
+BO0624_88783,546499,142,121,"Z Zwei Walzenkrige. Farbige Emailmalerei. Der eine mit zwei Bottchern bei der Arbeit und Widmung von 1836, der andere mit schnabelnden Tauben. Deutsch.Um 1836 u.1827. H.22,5 u.21,5 cm. Zinndeckel.",355,99.2,False,positional,,,Glas,,Sec. XIX
 BO0624_88783,546500,143,122,"Sieben kleine Schnapsflaschen.. Bunte Emailmalerei:Herzen,",356,96.5,False,positional,,,Glas,,
-BO0624_88783,546501,144,123,"Sieben Gla se r. Mit farbiger Emailmalerei. a) Walzenkrug, Hirschhatz; H. 22,5 cm; Zinnmontierung. b) Stangenglas, Tauben und Blumen; H. 19 cm. c) Apothekerglas;H. 14 cm.d) Drei Schnapsflaschen,Tiere und Blumen; H.15 cm. Alle um 1800. e) Schnapsglas, mit Armbrust und Jahrzahl 1776;",358,99.2,False,positional,,,Glas,,
-BO0624_88783,546502,145,124,"- Kelchglas. Tellerfuf mit Ranke, Balusterschaft mit Ringscheiben, trichterformige Kuppa: Jager mit Hund zwischen Baumen; Ruckseite in Zweigumrahmung Fidelis et secretus"". Nirnberg. Um 1700. H. (mit wohl nicht zugehorigem Deckel) 23 cm.",361,100.0,False,positional,,,Glas,,
+BO0624_88783,546501,144,123,"Sieben Gla se r. Mit farbiger Emailmalerei. a) Walzenkrug, Hirschhatz; H. 22,5 cm; Zinnmontierung. b) Stangenglas, Tauben und Blumen; H. 19 cm. c) Apothekerglas;H. 14 cm.d) Drei Schnapsflaschen,Tiere und Blumen; H.15 cm. Alle um 1800. e) Schnapsglas, mit Armbrust und Jahrzahl 1776;",358,99.2,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546502,145,124,"- Kelchglas. Tellerfuf mit Ranke, Balusterschaft mit Ringscheiben, trichterformige Kuppa: Jager mit Hund zwischen Baumen; Ruckseite in Zweigumrahmung Fidelis et secretus"". Nirnberg. Um 1700. H. (mit wohl nicht zugehorigem Deckel) 23 cm.",361,100.0,False,positional,,,Glas,,Sec. XVIII
 BO0624_88783,546503,146,125,"- Kel ch gla s. Mit gegossenem Schaft, geschnittener Trichterkuppa: Wappen (drei Blumenstengel), Spiegelmonogramm,Laub und Bandwerkborte.Deutsch. Um1725/30.",363,100.0,False,positional,,,Glas,,
-BO0624_88783,546504,147,126,"Drei geschnittene Becher. Backerwappen 1704; gekrontes Monogramm J F W.; springendes Pferd. Deutsch. 18. Jahrh. H. 8.5,14,5 u.10 cm.",364,98.4,False,positional,,,VASI,,
-BO0624_88783,546505,148,127,- Geschnittene Flasche. In Form eines Pulverhorns. Jager mit Hund und laufender Hase. Deutsch.2. Halfte 18. Jahrh. H. 16 cm.,366,100.0,False,positional,,,Glas,,
-BO0624_88783,546506,149,128,"Drei Gla se r. a) Kelchglas, geschliffen mit pseudofacettiertem Schaft. Mitteldeutsch. Um 1720/30. H. 20.5 cm.b) do., geschnitten mit Wappen eines Mainzer Bischofs. Bohmen. 18. Jahrh. H. 17 cm. c) Becher mit gegossenem Fadenmuster.17.Jahrh.H.12,5 cm.",367,99.1,False,positional,,,VASI,,
-BO0624_88783,546507,150,129,"Ne u n Gl a s e r. Zwei Schnapsflaschen, grin, mit Zinnverschluf. 18. Jahrh. H.17,5 em.b) Finf Trinkglaser, griin.H. 15 cm. c)Kelchglas,weif.17.18. Jahrh. H.12 cm. d) Vexierglas, weif. 18. Jahrh. H. 17 cm. Knauf abgeschliffen.",368,99.0,False,positional,,,Glas,,
-BO0624_88783,546508,151,130,"- Drei geschnittene Weinglaser. Blumen und Architektur, Teilvergoldung. Mitteldeutsch. 2. Halfte 18. Jahrh. H. 16 bis 15,5 cm.",370,100.0,False,positional,,,Glas,,
+BO0624_88783,546504,147,126,"Drei geschnittene Becher. Backerwappen 1704; gekrontes Monogramm J F W.; springendes Pferd. Deutsch. 18. Jahrh. H. 8.5,14,5 u.10 cm.",364,98.4,False,positional,,,VASI,,Sec. XVIII
+BO0624_88783,546505,148,127,- Geschnittene Flasche. In Form eines Pulverhorns. Jager mit Hund und laufender Hase. Deutsch.2. Halfte 18. Jahrh. H. 16 cm.,366,100.0,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546506,149,128,"Drei Gla se r. a) Kelchglas, geschliffen mit pseudofacettiertem Schaft. Mitteldeutsch. Um 1720/30. H. 20.5 cm.b) do., geschnitten mit Wappen eines Mainzer Bischofs. Bohmen. 18. Jahrh. H. 17 cm. c) Becher mit gegossenem Fadenmuster.17.Jahrh.H.12,5 cm.",367,99.1,False,positional,,,VASI,,Sec. XVIII
+BO0624_88783,546507,150,129,"Ne u n Gl a s e r. Zwei Schnapsflaschen, grin, mit Zinnverschluf. 18. Jahrh. H.17,5 em.b) Finf Trinkglaser, griin.H. 15 cm. c)Kelchglas,weif.17.18. Jahrh. H.12 cm. d) Vexierglas, weif. 18. Jahrh. H. 17 cm. Knauf abgeschliffen.",368,99.0,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546508,151,130,"- Drei geschnittene Weinglaser. Blumen und Architektur, Teilvergoldung. Mitteldeutsch. 2. Halfte 18. Jahrh. H. 16 bis 15,5 cm.",370,100.0,False,positional,,,Glas,,Sec. XVIII
 BO0624_88783,546509,152,21,38,375,100.0,False,positional,,,Glas,,
 BO0624_88783,546510,153,10,件,377,50.0,False,positional,,,Glas,,
 BO0624_88783,546511,154,10715,048,381,100.0,False,positional,,,Glas,,
 BO0624_88783,546512,155,180,196,385,100.0,False,positional,,,Glas,,
 BO0624_88783,546513,156,2529,8/个2,389,100.0,False,positional,,,Glas,,
-BO0624_88783,546514,157,36,1219,393,100.0,False,positional,,,Glas,,
-BO0624_88783,546515,158,16,"- 131 Zwei Po ka le. Mit pseudofacettiertem Balusterschaft. Geschnitten: der eine reich mit Vogeln,Fruchtbischeln und Bandwerk, der andere mit Fruchtsticken an Bandern. Mitteldeutsch. 18. Jahrh. H.19 u. 18 cm.",397,100.0,False,positional,,,Glas,,
-BO0624_88783,546516,159,132,"2Zwei Deckelpokale. Geschnitten: der eine mit Palmetten vergoldet, Potsdam (?), 18. Jahrh.; der andere mit Symbolen und Spruch (gesprungen). Bohmen. 18. Jahrh. H.30 u. 31 cm. Beide Deckel nicht zugehorig, dabei vier",398,99.0,False,positional,,,Glas,,
-BO0624_88783,546517,160,133,"Geschnittenes S Spitzglas. Gegossener Balusterschaft, Kuppa mit Fruchtbischeln und Lambrequins. Sachsen. Um 1725. H.25 cm.",400,98.3,False,positional,,,Glas,,
+BO0624_88783,546514,157,36,1219,393,100.0,False,positional,,,Glas,,Sec. XIII
+BO0624_88783,546515,158,16,"- 131 Zwei Po ka le. Mit pseudofacettiertem Balusterschaft. Geschnitten: der eine reich mit Vogeln,Fruchtbischeln und Bandwerk, der andere mit Fruchtsticken an Bandern. Mitteldeutsch. 18. Jahrh. H.19 u. 18 cm.",397,100.0,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546516,159,132,"2Zwei Deckelpokale. Geschnitten: der eine mit Palmetten vergoldet, Potsdam (?), 18. Jahrh.; der andere mit Symbolen und Spruch (gesprungen). Bohmen. 18. Jahrh. H.30 u. 31 cm. Beide Deckel nicht zugehorig, dabei vier",398,99.0,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546517,160,133,"Geschnittenes S Spitzglas. Gegossener Balusterschaft, Kuppa mit Fruchtbischeln und Lambrequins. Sachsen. Um 1725. H.25 cm.",400,98.3,False,positional,,,Glas,,Sec. XVIII
 BO0624_88783,546518,161,134,"Hoher Deckelpokal. Gewolbter Fuf, geschliffener Schaft, Kuppa geschnitten:Landschaftsausschnitt mit den Buchstaben N.R. in Kartusche,Trinkspruch und vier Namen unter Krone. Geschliffener Deckel mit profiliertem",401,99.0,False,positional,,,Glas,,
-BO0624_88783,546519,162,135,"5Pok al. Tellerfuf, Balusterschaft, geschnittene Kuppa: in drei von Laub- und Bandwerk gebildeten breitovalen Feldern Angler, Vogelsteller und Jagd mit Inschriften. In den Zwickeln oben Miniaturlandschaften,unten Fruchtbischel. Schlesien. Um 1730. H. (mit nicht zugehorigem Deckel) 26.5 cm. TafelII",403,99.3,False,positional,,,Glas,,
-BO0624_88783,546520,163,136,"6Pokal. Tellerfuf mit Bandwerk,geschliffenerS Schaft,reich geschnittene Kuppa: Laub- und Bandwerk,Fruchtkorbe und Gehange, Muscheln, unter Lambrequin Orpheus den wilden Tieren vorspielend. Schlesien. Um 1730/40. H. (mit wohl nicht zugehorigem Deckel mit Spitzknauf) 27 cm. TafelIl",404,99.3,False,positional,,,Glas,,
+BO0624_88783,546519,162,135,"5Pok al. Tellerfuf, Balusterschaft, geschnittene Kuppa: in drei von Laub- und Bandwerk gebildeten breitovalen Feldern Angler, Vogelsteller und Jagd mit Inschriften. In den Zwickeln oben Miniaturlandschaften,unten Fruchtbischel. Schlesien. Um 1730. H. (mit nicht zugehorigem Deckel) 26.5 cm. TafelII",403,99.3,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546520,163,136,"6Pokal. Tellerfuf mit Bandwerk,geschliffenerS Schaft,reich geschnittene Kuppa: Laub- und Bandwerk,Fruchtkorbe und Gehange, Muscheln, unter Lambrequin Orpheus den wilden Tieren vorspielend. Schlesien. Um 1730/40. H. (mit wohl nicht zugehorigem Deckel mit Spitzknauf) 27 cm. TafelIl",404,99.3,False,positional,,,Glas,,Sec. XVIII
 BO0624_88783,546521,164,137,"Drei Weinglaser,Konfektschalchen. Geschliffen. Riesengebirge. Jahrh. H.17 bis 13 cm.",405,82.3,False,positional,,,Glas,,
 BO0624_88783,546522,165,138,"Zwei Pokale,Weinglas. Geschnitten: der eine mit Figuren in Kartusche, der andere mit Laub- und Bandwerkfries; das Glas mit Landschaftsausschnitt mit Tieren. Bohmen. 1.Halfte 18.Jahrh.H.19,21,15 cm.",407,99.0,False,title_direct,,,Glas,,
-BO0624_88783,546523,166,139,"- Drei geschnittene Weinglaser.Pseudofacettierter Schaft, Tuncherwappen, H. 17 cm； Vogel und Blume, gegossener Schaft, H. 15 cm； kantige Kuppa und Wappen,H. 18 cm.Mitteldeutsch und Bohmen. 18. Jahrh.",409,100.0,False,positional,,,Glas,,
+BO0624_88783,546523,166,139,"- Drei geschnittene Weinglaser.Pseudofacettierter Schaft, Tuncherwappen, H. 17 cm； Vogel und Blume, gegossener Schaft, H. 15 cm； kantige Kuppa und Wappen,H. 18 cm.Mitteldeutsch und Bohmen. 18. Jahrh.",409,100.0,False,positional,,,Glas,,Sec. XVIII
 BO0624_88783,546524,167,140,Zwei Enghalskrige. H.35u.33 cm.-Dabei gruine Glasflasche.H.28 cm.,411,96.9,False,title_direct,,,Glas,,
-BO0624_88783,546525,168,141,"- Zwei geschnittene Deckelpokale. Balusterschaft mit roter Fadeneinlage,Der eine mit Blumenranken, der andere mit schreitendem Mann und Herzen. Bohmen. Um 1750. H. 25 u.27 cm. (Ein Deckel nicht zugehorig.)",413,100.0,False,positional,,,Glas,,
-BO0624_88783,546526,169,142,"- Zwei Enghals krige. Geschnittene Blumen. Deutsch. Ende 18. Jahrh. H.28 u. 23 cm.-Dabei Flasche. Olivenschliff. Mit aufgeklebtem (beschadigtem) mit Rot und Gold hintermaltem Plattchen.Bohmen. 18. Jahrh.H.31,5 cm.",415,100.0,False,positional,,,OGGETTI IN ORO,,
-BO0624_88783,546527,170,143,"Bauchiger Krug. Violett getont. Zinndeckel graviert 1817. H. 28,5 cm.",416,97.0,False,positional,,,Glas,,
-BO0624_88783,546528,171,144,Siebe n Spitzg Iase r. Schaft mit weiBer Fadeneinlage. Um 1800.H. 20 cm. -Dabei ahnliches Glas.19. Jahrh.,418,98.0,False,title_direct,,,Glas,,
+BO0624_88783,546525,168,141,"- Zwei geschnittene Deckelpokale. Balusterschaft mit roter Fadeneinlage,Der eine mit Blumenranken, der andere mit schreitendem Mann und Herzen. Bohmen. Um 1750. H. 25 u.27 cm. (Ein Deckel nicht zugehorig.)",413,100.0,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546526,169,142,"- Zwei Enghals krige. Geschnittene Blumen. Deutsch. Ende 18. Jahrh. H.28 u. 23 cm.-Dabei Flasche. Olivenschliff. Mit aufgeklebtem (beschadigtem) mit Rot und Gold hintermaltem Plattchen.Bohmen. 18. Jahrh.H.31,5 cm.",415,100.0,False,positional,,,OGGETTI IN ORO,,Sec. XVIII
+BO0624_88783,546527,170,143,"Bauchiger Krug. Violett getont. Zinndeckel graviert 1817. H. 28,5 cm.",416,97.0,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546528,171,144,Siebe n Spitzg Iase r. Schaft mit weiBer Fadeneinlage. Um 1800.H. 20 cm. -Dabei ahnliches Glas.19. Jahrh.,418,98.0,False,title_direct,,,Glas,,Sec. XIX
 BO0624_88783,546529,172,2,几心,424,100.0,False,positional,,,Glas,,
 BO0624_88783,546530,173,15,12,427,100.0,False,positional,,,Glas,,
 BO0624_88783,546531,174,30,30,429,100.0,False,positional,,,Glas,,
@@ -180,93 +180,93 @@ BO0624_88783,546535,178,24,200,449,100.0,False,positional,,,Glas,,
 BO0624_88783,546536,179,201606,28,453,100.0,False,positional,,,Glas,,
 BO0624_88783,546537,180,20,24,457,100.0,False,positional,,,Glas,,
 BO0624_88783,546538,181,25,战,461,100.0,False,positional,,,Glas,,
-BO0624_88783,546539,182,145,Sechs Weinglaser. Schaft wie bei Nr. 144. Geschnittene Kuppa mit Weinlaub und Ahren.1. Halfte 19. Jahrh. H.18 cm.,463,98.1,False,positional,,,Glas,,
+BO0624_88783,546539,182,145,Sechs Weinglaser. Schaft wie bei Nr. 144. Geschnittene Kuppa mit Weinlaub und Ahren.1. Halfte 19. Jahrh. H.18 cm.,463,98.1,False,positional,,,Glas,,Sec. XIX
 BO0624_88783,546540,183,146,A c ht SiBwein g laser. Schaft wie Nr. 144. Kuppa geschnitten: Blumen,464,97.0,False,positional,,,Glas,,
-BO0624_88783,546541,184,147,"Zwei Walzen krige. Geschnitten: a) mit Hirschjagd,Gebaude und Rocailleornament;b) mit zwei Vogeln auf Herz, zwischen Ranken. Deutsch. Ende 18. Jahrh.H.17u.135 cm. Zinndeckel und Zinnmontierung.",466,98.9,False,positional,,,Glas,,
-BO0624_88783,546542,185,148,"Zwei Walzen kr ii ge. Geschnitten:a) mit Vogel auf einer Kugel sitzend, Palmetten und Inschrift ,Traue nicht der Welt"";b) mit bekrontem Monogramm MR,zwei Tauben auf brennendem Herz und 1804.Deutsch.Anfang 19.Jahrh. H.17,5 cm. Zinndeckel und Zinnmontierung.",467,99.2,False,positional,,,Glas,,
-BO0624_88783,546543,186,149,"Zwei Wal zen kr ige. Geschliffen und geschnitten: a) mit Jager und Madchen,Vers und 1804;b) mit bekrontem Monogramm J A. Deutsch. Anfang 19.Jahrh.H.je 14,5 cm.Zinnmontierung.",468,98.8,False,positional,,,Glas,,
-BO0624_88783,546544,187,150,"Walzenkrug. Geschnitten: mit vierspannigem Wagen, J S und Girlanden.Deutsch.Um 1800. H.18,5 cm.Zinnmontierung.",469,98.1,False,positional,,,Glas,,
-BO0624_88783,546545,188,151,"- Drei Walzenkr i ge. Geschnitten mit kurfuirstlich bayrischem Wappen: a) zwischen Ranken. Deutsch. Ende 18. Jahrh.H. 14 cm.Zinndeckel mit Minzbild der Maria Theresia;b) und c) ebenso, zwischen Blumen. Deutsch Anfang 19.Jahrh. H.14,5 u.15.5 cm.Zinnmontierung.",471,100.0,False,positional,,,Glas,,
+BO0624_88783,546541,184,147,"Zwei Walzen krige. Geschnitten: a) mit Hirschjagd,Gebaude und Rocailleornament;b) mit zwei Vogeln auf Herz, zwischen Ranken. Deutsch. Ende 18. Jahrh.H.17u.135 cm. Zinndeckel und Zinnmontierung.",466,98.9,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546542,185,148,"Zwei Walzen kr ii ge. Geschnitten:a) mit Vogel auf einer Kugel sitzend, Palmetten und Inschrift ,Traue nicht der Welt"";b) mit bekrontem Monogramm MR,zwei Tauben auf brennendem Herz und 1804.Deutsch.Anfang 19.Jahrh. H.17,5 cm. Zinndeckel und Zinnmontierung.",467,99.2,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546543,186,149,"Zwei Wal zen kr ige. Geschliffen und geschnitten: a) mit Jager und Madchen,Vers und 1804;b) mit bekrontem Monogramm J A. Deutsch. Anfang 19.Jahrh.H.je 14,5 cm.Zinnmontierung.",468,98.8,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546544,187,150,"Walzenkrug. Geschnitten: mit vierspannigem Wagen, J S und Girlanden.Deutsch.Um 1800. H.18,5 cm.Zinnmontierung.",469,98.1,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546545,188,151,"- Drei Walzenkr i ge. Geschnitten mit kurfuirstlich bayrischem Wappen: a) zwischen Ranken. Deutsch. Ende 18. Jahrh.H. 14 cm.Zinndeckel mit Minzbild der Maria Theresia;b) und c) ebenso, zwischen Blumen. Deutsch Anfang 19.Jahrh. H.14,5 u.15.5 cm.Zinnmontierung.",471,100.0,False,positional,,,Glas,,Sec. XVIII
 BO0624_88783,546546,189,153,153,473,100.0,False,positional,,,Glas,,
-BO0624_88783,546547,190,154,"Zwei desg leichen. Monogramm unter Krone 1777, sachsisches Wappen, vergoldet. Deutsch.2.Halfte 18.Jahrh. H.22 u.23 cm.",476,98.2,False,positional,,,Glas,,
-BO0624_88783,546548,191,155,"- Zw ei de s g leic he n. Wappen; Taube und Herz,1789. 2. Halfte 18. Jahrh. H.24 cm. Zinnmontierung.",478,100.0,False,positional,,,Glas,,
-BO0624_88783,546549,192,156,"- Zwei de sg leichen. Pfligender Bauer,1837; springender Hund. 1. Halfte 19.Jahrh.H.24 u.22 cm.Zinndeckel.",480,100.0,False,positional,,,Glas,,
-BO0624_88783,546550,193,157,"Drei ge s c h nitte ne Bec he r. Gehenkelt, Monogramm, H. 11,5 cm;Frei maurerembleme (Seharte),H. 11 cm;kniendes Madchen (schartig),H. 9 cm. Deutsch.Um 1800.",481,98.6,False,positional,,,Glas,,
-BO0624_88783,546551,194,158,- 8A cht Glaser.a) Sechs Sibweinglaser. Geschnitten:Rautenmuster.Um 1810. H.10.5 cm. b) Kantiger Becher. Geschnitten: Schauspieler und Spruch. Biedermeier.H. 9.5 cm. c) Weinflasche. Mit Spiegelmonogramm und Krone. H.22cm.,483,100.0,False,title_direct,,Biedermeier,VASI,,
-BO0624_88783,546552,195,159,- Gesc hliffene r Po kal. Kuppa mit rosa Goldrubin iberfangen. Geschnitten:Die drei Parzen. Bohmen. Um 18i0/20. H. (mit nicht zugehorigem Deckel) 24 cm. Scharte am Rand.-Dabei geschliffener Becher.Teilweise rosa lasiert. Geschnitten. Ebenso. Um 1830. H.95 cm.,485,100.0,False,positional,,,VASI,,
+BO0624_88783,546547,190,154,"Zwei desg leichen. Monogramm unter Krone 1777, sachsisches Wappen, vergoldet. Deutsch.2.Halfte 18.Jahrh. H.22 u.23 cm.",476,98.2,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546548,191,155,"- Zw ei de s g leic he n. Wappen; Taube und Herz,1789. 2. Halfte 18. Jahrh. H.24 cm. Zinnmontierung.",478,100.0,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546549,192,156,"- Zwei de sg leichen. Pfligender Bauer,1837; springender Hund. 1. Halfte 19.Jahrh.H.24 u.22 cm.Zinndeckel.",480,100.0,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546550,193,157,"Drei ge s c h nitte ne Bec he r. Gehenkelt, Monogramm, H. 11,5 cm;Frei maurerembleme (Seharte),H. 11 cm;kniendes Madchen (schartig),H. 9 cm. Deutsch.Um 1800.",481,98.6,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546551,194,158,- 8A cht Glaser.a) Sechs Sibweinglaser. Geschnitten:Rautenmuster.Um 1810. H.10.5 cm. b) Kantiger Becher. Geschnitten: Schauspieler und Spruch. Biedermeier.H. 9.5 cm. c) Weinflasche. Mit Spiegelmonogramm und Krone. H.22cm.,483,100.0,False,title_direct,,Biedermeier,VASI,,Sec. XIX
+BO0624_88783,546552,195,159,- Gesc hliffene r Po kal. Kuppa mit rosa Goldrubin iberfangen. Geschnitten:Die drei Parzen. Bohmen. Um 18i0/20. H. (mit nicht zugehorigem Deckel) 24 cm. Scharte am Rand.-Dabei geschliffener Becher.Teilweise rosa lasiert. Geschnitten. Ebenso. Um 1830. H.95 cm.,485,100.0,False,positional,,,VASI,,Sec. XIX
 BO0624_88783,546553,196,207,/21,488,66.7,False,positional,,,Glas,,
 BO0624_88783,546554,197,2061,48,490,100.0,False,positional,,,Glas,,
 BO0624_88783,546555,198,235,25,496,100.0,False,positional,,,Glas,,
-BO0624_88783,546556,199,160,"Becher und grofes Fla kon. Zinnemailiberfang auf rosa Goldrubin, geschliffen; der Becher auberdem mit kleinen bunten Blimchen bemalt. Bohmen.Um 1840.H.15u.L.19cm.",500,98.7,False,positional,,,VASI,,
-BO0624_88783,546557,200,161,"- Ein Paar rubinierte Becher. Bemalt mit Emblemen von Gesundheit, Gluck und Freude in Gold und Silber. Bohmen. Um 1840/50. H. 11 cm. Schartiger Rand.-Dabei rubinierter Becher mit den gleichen, eingeschnittenen Emblemen.H.11,5 cm.",502,100.0,False,positional,,,OGGETTI IN ORO,,
-BO0624_88783,546558,201,162,"Ges chnittener Deckelpokal.Achtpassiger Fuf, Kuppa grin iberfangen mit Hirschen im Walde. Bohmen. Um 1850/60. H.34 cm.",503,98.3,False,positional,,,Glas,,
-BO0624_88783,546559,202,163,"- 3Hoher Deckelpokal. Zehnseitiger Fuf und Korper. Dekor: Rocaillen und Weinlaubranken in rosa und hellblauem Eisglas mit Trauben aus Glasperlen. Bohmen. Um 1840/50. H. 44 cm.Deckel urspringlich nicht zugehorig. Zwei Beche r. Mit Zinnemailiberfang. Der eine geschliffen: grobe Akanthusblatter mit Goldmalerei, Bohmen,um 1830; der andere auferdem bemalt:",505,74.7,False,title_direct,,,Glas,,
+BO0624_88783,546556,199,160,"Becher und grofes Fla kon. Zinnemailiberfang auf rosa Goldrubin, geschliffen; der Becher auberdem mit kleinen bunten Blimchen bemalt. Bohmen.Um 1840.H.15u.L.19cm.",500,98.7,False,positional,,,VASI,,Sec. XIX
+BO0624_88783,546557,200,161,"- Ein Paar rubinierte Becher. Bemalt mit Emblemen von Gesundheit, Gluck und Freude in Gold und Silber. Bohmen. Um 1840/50. H. 11 cm. Schartiger Rand.-Dabei rubinierter Becher mit den gleichen, eingeschnittenen Emblemen.H.11,5 cm.",502,100.0,False,positional,,,OGGETTI IN ORO,,Sec. XIX
+BO0624_88783,546558,201,162,"Ges chnittener Deckelpokal.Achtpassiger Fuf, Kuppa grin iberfangen mit Hirschen im Walde. Bohmen. Um 1850/60. H.34 cm.",503,98.3,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546559,202,163,"- 3Hoher Deckelpokal. Zehnseitiger Fuf und Korper. Dekor: Rocaillen und Weinlaubranken in rosa und hellblauem Eisglas mit Trauben aus Glasperlen. Bohmen. Um 1840/50. H. 44 cm.Deckel urspringlich nicht zugehorig. Zwei Beche r. Mit Zinnemailiberfang. Der eine geschliffen: grobe Akanthusblatter mit Goldmalerei, Bohmen,um 1830; der andere auferdem bemalt:",505,74.7,False,title_direct,,,Glas,,Sec. XIX
 BO0624_88783,546560,203,164,"Paar und Blumen,19.Jahrh.,H.15 cm.",507,94.1,False,positional,,,Glas,,
 BO0624_88783,546561,204,165,"- Rubinierter Becherund Pokal. a) Graf von Habsburg von der Jagd heimkehrend;b) der Graf dem Priester sein Pferd iberlassend. Bohmen. 19.Jahrh.H.18,5u.21 cm.",509,100.0,False,positional,,,Glas,,
-BO0624_88783,546562,205,166,"der Reiter,dat.1757.In gemeinsamer Fassung,69X21 cm.",511,96.2,False,positional,,,Glas,,
-BO0624_88783,546563,206,167,"Vier Glasscheiben. Bunt. a) und b) hochrechteckig, Wappenhalter, Jahrzahl 1569 u.1576,H.22,B.17 cm. c) und d) rund, Stern bzw. Wappen, Jahrzahl 1631,Dm.15 cm.-Dabei zwei bunt bemalte Schnapsflaschen,H.17 u.14 cm;und zwei Schnapsglaser,H. 12 cm.",512,99.1,False,title_direct,,,Glas,,
+BO0624_88783,546562,205,166,"der Reiter,dat.1757.In gemeinsamer Fassung,69X21 cm.",511,96.2,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546563,206,167,"Vier Glasscheiben. Bunt. a) und b) hochrechteckig, Wappenhalter, Jahrzahl 1569 u.1576,H.22,B.17 cm. c) und d) rund, Stern bzw. Wappen, Jahrzahl 1631,Dm.15 cm.-Dabei zwei bunt bemalte Schnapsflaschen,H.17 u.14 cm;und zwei Schnapsglaser,H. 12 cm.",512,99.1,False,title_direct,,,Glas,,Sec. XVI
 BO0624_88783,546564,207,168,"Run de Goldsc ha le (Feingold). Getrieben. Aufenboden mit Ornament, Wandung mit neun Feldern mit Christus und je zwei Heiligen. Bei den Ornamenten Reste von farbiger Emaillierung. Griechische Inschriften.Aus dem Bereich der Griechisch-orthodoxen Kirchenkunst.17.18. Jahrh. Gew.52 g. Stanzlocher.H.5,Dm.9cm.",513,99.3,False,positional,,,Glas,,
-BO0624_88783,546565,208,169,"Fingerring.Gold, gelblicher Diamant, von kleinen Rosen umrahmt. Halfte 18. Jahrh.-Dazu altes groBes Etui.",514,73.6,False,positional,,,OGGETTI IN ORO,,
+BO0624_88783,546565,208,169,"Fingerring.Gold, gelblicher Diamant, von kleinen Rosen umrahmt. Halfte 18. Jahrh.-Dazu altes groBes Etui.",514,73.6,False,positional,,,OGGETTI IN ORO,,Sec. XVIII
 BO0624_88783,546566,209,170,"Kameenbro sche. Violett. Frauenkopf mit Kranz. Silberfassung. Um 5,5X4.5cm.",516,89.6,False,positional,,,Glas,,
-BO0624_88783,546567,210,171,"Um 1800.3,5X4,8cm.",519,89.5,False,positional,,,Glas,,
+BO0624_88783,546567,210,171,"Um 1800.3,5X4,8cm.",519,89.5,False,positional,,,Glas,,Sec. XIX
 BO0624_88783,546568,211,172,"Marien ze pter. Teilvergoldet, mit Akanthusblattern belegt. Suiddeutsch. 1.Halfte 18.Jahrh.L.52 cm.",520,97.9,False,positional,,,Glas,,
-BO0624_88783,546569,212,173,"- Ovale getriebene Platte.Im Spiegel zwei spielende Putten,Rand mit Ranken mit grofen Bluiten. Deutsch. Ende 17. Jahrh. 23X18 cm.",522,100.0,False,positional,,,SPECCHI,,
+BO0624_88783,546569,212,173,"- Ovale getriebene Platte.Im Spiegel zwei spielende Putten,Rand mit Ranken mit grofen Bluiten. Deutsch. Ende 17. Jahrh. 23X18 cm.",522,100.0,False,positional,,,SPECCHI,,Sec. XVII
 BO0624_88783,546570,213,12,5U0,525,100.0,False,positional,,,Glas,,
 BO0624_88783,546571,214,653,25,529,100.0,False,positional,,,Glas,,
 BO0624_88783,546572,215,174,"Getriebene runde Platte. Im Spiegel Vogel,am Rand Ranken mit groben Bliten. Deutsch. Ende 17.Jahrh. Dm.26 cm. 57",531,96.7,False,positional,,,SPECCHI,,
 BO0624_88783,546573,216,175,"Zwei vergoldete SalzgefaRe. Das eine mit rundem Fuf, Delphinschaft und Muschelschale,bekront von Figirchen;das andere Muschelschale mit Figur auf drei niederen FuiBchen. Mit Marken. Nirnberg. Um1700. H.13.5u.8cm.",535,99.0,False,positional,,,Glas,,
-BO0624_88783,546574,217,176,"Becher, zwei Salzfasser. Becher mit getriebenen Barockblumen. Marke. Nirnberg.Um 1700. H. 7 cm.Das eine Salzfaf geriefelt,oval. Marke. Nurnberg. 18.Jahrh. H. 4,5 cm.Das andere rund mit Marke. 18. Jahrh. H.6 cm.",536,99.0,False,positional,,Scuola di Norimberga,VASI,,
-BO0624_88783,546575,218,177,"- Be s te ck (Messer, Gabel,Loffel). Loffel Marke.Augsburg. Um 1700. Messer nicht zugehorig.",538,100.0,False,positional,,,Glas,,
-BO0624_88783,546576,219,178,Sechs Dessert bes tecke. Mit Muschelornament. 18. Jahrh.,539,96.3,False,positional,,,Glas,,
+BO0624_88783,546574,217,176,"Becher, zwei Salzfasser. Becher mit getriebenen Barockblumen. Marke. Nirnberg.Um 1700. H. 7 cm.Das eine Salzfaf geriefelt,oval. Marke. Nurnberg. 18.Jahrh. H. 4,5 cm.Das andere rund mit Marke. 18. Jahrh. H.6 cm.",536,99.0,False,positional,,Scuola di Norimberga,VASI,,Sec. XVIII
+BO0624_88783,546575,218,177,"- Be s te ck (Messer, Gabel,Loffel). Loffel Marke.Augsburg. Um 1700. Messer nicht zugehorig.",538,100.0,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546576,219,178,Sechs Dessert bes tecke. Mit Muschelornament. 18. Jahrh.,539,96.3,False,positional,,,Glas,,Sec. XVIII
 BO0624_88783,546577,220,179,Tafelau fs a t z. Mit Kristallschale (Steinelschliff). Marken. Augsburg. Um Dazu geschliffene Saftflasche in silbernem Gestell.,540,98.4,False,positional,,,Glas,,
-BO0624_88783,546578,221,1820,/30.H.20.5cm.Marken.Um 1830.H.30cm.,541,93.0,False,positional,,,Glas,,
-BO0624_88783,546579,222,179,"a Se rvice. Bestehend aus Kaffee-,Milchkanne und Zuckerdose. Marke Augsburg mit K, Meistermarke CF C. Augsburg. Anfang 19. Jahrh. H. 31,25 u cm.",542,97.8,False,positional,,,Glas,,
-BO0624_88783,546580,223,180,"- Schiffchenformige Schale. Mit durchbrochenem Rand, Blattfries. Augsburger Marke mit N.1. Drittel 19. Jahrh.165X10 cm.",545,100.0,False,positional,,,OGGETTI VARI,,
+BO0624_88783,546578,221,1820,/30.H.20.5cm.Marken.Um 1830.H.30cm.,541,93.0,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546579,222,179,"a Se rvice. Bestehend aus Kaffee-,Milchkanne und Zuckerdose. Marke Augsburg mit K, Meistermarke CF C. Augsburg. Anfang 19. Jahrh. H. 31,25 u cm.",542,97.8,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546580,223,180,"- Schiffchenformige Schale. Mit durchbrochenem Rand, Blattfries. Augsburger Marke mit N.1. Drittel 19. Jahrh.165X10 cm.",545,100.0,False,positional,,,OGGETTI VARI,,Sec. XIX
 BO0624_88783,546581,224,181,"Giran dole.Empireform,fuinfarmig.H. 48,5 cm.Dabei zwei Marien-",546,96.8,False,positional,,,Glas,,
-BO0624_88783,546582,225,182,"Noahteller des Paulus Oham d. A. Abguf von Hans Spatz II Nuirnberg. Um 1635. Reliefguf. Mitte:Dankopfer Noahs mit Unterschrift 1619. Rand: Zwischen Vasen mit Ranken vier Darstellungen aus der Genesis. Aus der Form geschnittene Meistermarke des Paulus Oham d. A.,iberstempelt durch",551,99.3,False,positional,,,VASI,,
-BO0624_88783,546583,226,183,"- Auferstehung steller des PaulusOhamd. J.(Nurnberg 1634-1671.) Reliefguf. Mitte: Auferstehung Christi, Stechermonogramm M. S.,Meistermarke mit B.O. Rand: Zwolf Apostel. Dm. 19.8 cm. Hintze a.a. O. Abb. Nr.108.",554,100.0,False,positional,,Scuola di Norimberga,Glas,,
-BO0624_88783,546584,227,184,- Kaiserteller des Georg Schmauf Nirnberg. Modell von 1630. Reliefguf.Mitte: Reiterbildnis Kaiser Ferdinand Il.und Signatur C 1630. Auf dem Rand: die elf Vorfahren des Kaisers und Marke.Nirnberg.Dm.19.8 cm. Beschadigt. Hintze a.a.O.Abb.96.,556,100.0,False,positional,,,Glas,,
-BO0624_88783,546585,228,185,"- Kronungsteller von Michel Hemer sam d. J. (Nurnberg 1637.) Readler und der Meistermarke des Michel Hemersam d. J. Rand: Sechs Kurfirsten.Dm.19,9 cm.Hintze a.a.O.Abb.113. 4046",558,98.5,False,positional,,Scuola di Norimberga,Glas,,
-BO0624_88783,546586,229,186,"Gravierte Platte. Das Kruzifix, umgeben von den Leidenswerkzeugen, am Fuf des Kreuzes Jahrzahl 1745.Deutsch. Um 1745.29,5X27,5 cm.",563,98.4,False,positional,,,Glas,,
-BO0624_88783,546587,230,187,- Gravierte Tortenplatte. Gezackt mit Kranzen. Anfang 19. Jahrh. Dm.30 cm.-Dabei zwei runde Platten. Rokoko und Empire. Dm. 30 u. 24cm.,565,100.0,False,positional,,,PIATTI,,
-BO0624_88783,546588,231,188,- R u n de S ch i s s e l. Mit vier plastischen Engelskopfen. Deutsch. 17. Jahrh. Dm.38cm.,567,100.0,False,positional,,,Glas,,
+BO0624_88783,546582,225,182,"Noahteller des Paulus Oham d. A. Abguf von Hans Spatz II Nuirnberg. Um 1635. Reliefguf. Mitte:Dankopfer Noahs mit Unterschrift 1619. Rand: Zwischen Vasen mit Ranken vier Darstellungen aus der Genesis. Aus der Form geschnittene Meistermarke des Paulus Oham d. A.,iberstempelt durch",551,99.3,False,positional,,,VASI,,Sec. XVII
+BO0624_88783,546583,226,183,"- Auferstehung steller des PaulusOhamd. J.(Nurnberg 1634-1671.) Reliefguf. Mitte: Auferstehung Christi, Stechermonogramm M. S.,Meistermarke mit B.O. Rand: Zwolf Apostel. Dm. 19.8 cm. Hintze a.a. O. Abb. Nr.108.",554,100.0,False,positional,,Scuola di Norimberga,Glas,,Sec. XVII
+BO0624_88783,546584,227,184,- Kaiserteller des Georg Schmauf Nirnberg. Modell von 1630. Reliefguf.Mitte: Reiterbildnis Kaiser Ferdinand Il.und Signatur C 1630. Auf dem Rand: die elf Vorfahren des Kaisers und Marke.Nirnberg.Dm.19.8 cm. Beschadigt. Hintze a.a.O.Abb.96.,556,100.0,False,positional,,,Glas,,Sec. XVII
+BO0624_88783,546585,228,185,"- Kronungsteller von Michel Hemer sam d. J. (Nurnberg 1637.) Readler und der Meistermarke des Michel Hemersam d. J. Rand: Sechs Kurfirsten.Dm.19,9 cm.Hintze a.a.O.Abb.113. 4046",558,98.5,False,positional,,Scuola di Norimberga,Glas,,Sec. XVII
+BO0624_88783,546586,229,186,"Gravierte Platte. Das Kruzifix, umgeben von den Leidenswerkzeugen, am Fuf des Kreuzes Jahrzahl 1745.Deutsch. Um 1745.29,5X27,5 cm.",563,98.4,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546587,230,187,- Gravierte Tortenplatte. Gezackt mit Kranzen. Anfang 19. Jahrh. Dm.30 cm.-Dabei zwei runde Platten. Rokoko und Empire. Dm. 30 u. 24cm.,565,100.0,False,positional,,,PIATTI,,Sec. XIX
+BO0624_88783,546588,231,188,- R u n de S ch i s s e l. Mit vier plastischen Engelskopfen. Deutsch. 17. Jahrh. Dm.38cm.,567,100.0,False,positional,,,Glas,,Sec. XVII
 BO0624_88783,546589,232,190,190,569,100.0,False,positional,,,Glas,,
-BO0624_88783,546590,233,191,"Sch i s sel. Drei Kugelgefafe, figiirliche Henkel. Deutsch. 18. Jahrh. Dm. 25.5 cm.-Dabei glatte Schraubflasche mit Gravierung J MK 1763. H. 175 cm.",572,98.6,False,positional,,,Glas,,
-BO0624_88783,546591,234,192,"Sechs Teller. Mit Minchner Kindlmarke von 1755 und Meistermarke des Maximilian Wielenbacher ( 1780). Siehe Hintze II 555.Muinchen. Um 1755.Dm. 24,5 cm.-Dabei ein groBerer Teller. Engelmarke 1774.Dm.34,5 cm.",573,99.0,False,positional,,,PIATTI,,
-BO0624_88783,546592,235,193,"Drei Sch isseln. Rund. Mit profiliertem Rand. Zwei davon mit Lindauer Stadtmarke.Anfang 19. Jahrh.Dm.40u.44 cm.--Dabei drei Suppentassen. Zweihenkelig.18.Jahrh.H.10.2u. 8,8 cm.",574,98.8,False,positional,,,Glas,,
-BO0624_88783,546593,236,194,"Drei Gefa Be. Gedeckelte Suppenterrine. 17. Jahrh. H.18 cm.-Henkelschuissel.18.Jahrh.Dm.15 cm.-Loffelstander,Oberteil fehlt.Um 1750.Dm. 12,5cm.",575,98.5,False,positional,,,Glas,,
-BO0624_88783,546594,237,195,"Tau f k a n ne und Sch us sel. Reliefierte Ornamente. Deutsch. Um 1810/20. H.18,Dm.31 cm.-Dabei ein Paar reliefierte Leuchter. Um 1830. H. 19 cm; und ein Fidibusstander.",576,98.8,False,positional,,,LAMPADE,,
-BO0624_88783,546595,238,197,Cha n u k k ah la m pe. Um 1800. B. 19 cm.-Dabei zwei Ollampen. Ebenso.,578,97.0,False,positional,,,Glas,,
+BO0624_88783,546590,233,191,"Sch i s sel. Drei Kugelgefafe, figiirliche Henkel. Deutsch. 18. Jahrh. Dm. 25.5 cm.-Dabei glatte Schraubflasche mit Gravierung J MK 1763. H. 175 cm.",572,98.6,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546591,234,192,"Sechs Teller. Mit Minchner Kindlmarke von 1755 und Meistermarke des Maximilian Wielenbacher ( 1780). Siehe Hintze II 555.Muinchen. Um 1755.Dm. 24,5 cm.-Dabei ein groBerer Teller. Engelmarke 1774.Dm.34,5 cm.",573,99.0,False,positional,,,PIATTI,,Sec. XVIII
+BO0624_88783,546592,235,193,"Drei Sch isseln. Rund. Mit profiliertem Rand. Zwei davon mit Lindauer Stadtmarke.Anfang 19. Jahrh.Dm.40u.44 cm.--Dabei drei Suppentassen. Zweihenkelig.18.Jahrh.H.10.2u. 8,8 cm.",574,98.8,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546593,236,194,"Drei Gefa Be. Gedeckelte Suppenterrine. 17. Jahrh. H.18 cm.-Henkelschuissel.18.Jahrh.Dm.15 cm.-Loffelstander,Oberteil fehlt.Um 1750.Dm. 12,5cm.",575,98.5,False,positional,,,Glas,,Sec. XVII
+BO0624_88783,546594,237,195,"Tau f k a n ne und Sch us sel. Reliefierte Ornamente. Deutsch. Um 1810/20. H.18,Dm.31 cm.-Dabei ein Paar reliefierte Leuchter. Um 1830. H. 19 cm; und ein Fidibusstander.",576,98.8,False,positional,,,LAMPADE,,Sec. XIX
+BO0624_88783,546595,238,197,Cha n u k k ah la m pe. Um 1800. B. 19 cm.-Dabei zwei Ollampen. Ebenso.,578,97.0,False,positional,,,Glas,,Sec. XIX
 BO0624_88783,546596,239,198,"Gestell zum Ziehen von Kerzen. Acht Hulsen. Bez.: G M Heyde in Kulmbach.Um1800.H.33,5,B.37cm.",580,97.8,False,positional,,,Glas,,
-BO0624_88783,546597,240,199,"Deckelterrine,Wochenbettschussel. Mit reliefierten Ornamenten. Um 1810/20. Dm.mit Henkeln 26 u.20 cm.-Dabei Bettflasche.",581,98.3,False,positional,,,Glas,,
-BO0624_88783,546598,241,200,"Gro Be Zu n f t - S chleif k a n ne. Konisch auf Klauenfuben,oben und unten Akanthusfries. Heber mit reliefierter Maske,im Boden zwei Marken. 17. Jahrh. Spater mit Doppelwappen einer Zunft und der Jahrzahl 1681 graviert. H.56 cm.",582,99.1,False,positional,,,Glas,,
-BO0624_88783,546599,242,201,"Holz krug mit Zinn montierun g. (Sog. Lichtenhainer Krug.) Konisch, mit ausgeschnittenen, gravierten Blumenranken iber dem Holzkern. Deckel mit Medaille: Ruickkehr aus Agypten. Sachsen. Um 1700. H.15 cm.",583,99.0,False,positional,,,OGGETTI IN LATTA,,
-BO0624_88783,546600,243,3040,- 202 Zwei Wein ka n nen. Die eine mit herzformigem Deckel und Eichelheber. Schweiz. 17.Jahrh. H. 17 cm.Die andere konisch.Deutsch.Um 1800. H.26 cm.,592,100.0,False,positional,,,Glas,,
+BO0624_88783,546597,240,199,"Deckelterrine,Wochenbettschussel. Mit reliefierten Ornamenten. Um 1810/20. Dm.mit Henkeln 26 u.20 cm.-Dabei Bettflasche.",581,98.3,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546598,241,200,"Gro Be Zu n f t - S chleif k a n ne. Konisch auf Klauenfuben,oben und unten Akanthusfries. Heber mit reliefierter Maske,im Boden zwei Marken. 17. Jahrh. Spater mit Doppelwappen einer Zunft und der Jahrzahl 1681 graviert. H.56 cm.",582,99.1,False,positional,,,Glas,,Sec. XVII
+BO0624_88783,546599,242,201,"Holz krug mit Zinn montierun g. (Sog. Lichtenhainer Krug.) Konisch, mit ausgeschnittenen, gravierten Blumenranken iber dem Holzkern. Deckel mit Medaille: Ruickkehr aus Agypten. Sachsen. Um 1700. H.15 cm.",583,99.0,False,positional,,,OGGETTI IN LATTA,,Sec. XVIII
+BO0624_88783,546600,243,3040,- 202 Zwei Wein ka n nen. Die eine mit herzformigem Deckel und Eichelheber. Schweiz. 17.Jahrh. H. 17 cm.Die andere konisch.Deutsch.Um 1800. H.26 cm.,592,100.0,False,positional,,,Glas,,Sec. XIX
 BO0624_88783,546601,244,203,"Zwei Poka le. Mit Balusterschaften. 17.u.18.Jahrh. H.28,5u.22 cm.",593,96.8,False,positional,,,Glas,,
-BO0624_88783,546602,245,204,"K on i s cher K ru g. Mit Diagonalrillen, Palmettenfries, im Deckel Medaille Karl XII. von Schweden. Marke. Nirnberg. Ende 17. Jahrh. H. 27 cm.",594,98.5,False,positional,,,Glas,,
-BO0624_88783,546603,246,205,"Zwei sech sseitige Schraubka nnen. Deckel mit feststehendem Ring. geschweifter gedeckelter Ausguf, graviert J. W. 1782 bzw.A K R H J. 1797 in",595,98.5,False,positional,,,Glas,,
-BO0624_88783,546604,247,206,"Drei desgleichen. Form wie Nr.205. Graviert, die eine mit Putto und Blumen J Mv.B 1805,H.31 cm.Die andere mit Blumen und Vase J N R 1821, H.32 cm.Die dritte mit Blumen,um 1810/20.Deutsch,wohl Thuiringen.Anfang 19.Jahrh.",597,99.1,False,positional,,,VASI,,
-BO0624_88783,546605,248,207,"Zwei sechsseitige Schraubflaschen. Die eine graviert mit Achtspeichenrad und H W 1700,H. 24 cm.Die andere mit barocken Blumen und der",598,98.5,False,positional,,,OGGETTI VARI,,
-BO0624_88783,546606,249,208,"Drei de s g leichen. Graviert. Die eine mit Blumen, Tieren und Kavalier. 1.Halfte 18. Jahrh. H. 28 cm. Die andere mit Blumen und Jahrzahl 1798. H.24 cm. Die dritte mit Blumen und der Jahrzahl 1817. H.26 cm.",600,99.0,False,positional,,,Glas,,
-BO0624_88783,546607,250,209,- Kaf fee- u n d Milehka nne. Mit gedrehten Riefelungen. Suddeutsch. Um 1750.H.23 u.15 cm.,602,100.0,False,positional,,,Glas,,
+BO0624_88783,546602,245,204,"K on i s cher K ru g. Mit Diagonalrillen, Palmettenfries, im Deckel Medaille Karl XII. von Schweden. Marke. Nirnberg. Ende 17. Jahrh. H. 27 cm.",594,98.5,False,positional,,,Glas,,Sec. XVII
+BO0624_88783,546603,246,205,"Zwei sech sseitige Schraubka nnen. Deckel mit feststehendem Ring. geschweifter gedeckelter Ausguf, graviert J. W. 1782 bzw.A K R H J. 1797 in",595,98.5,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546604,247,206,"Drei desgleichen. Form wie Nr.205. Graviert, die eine mit Putto und Blumen J Mv.B 1805,H.31 cm.Die andere mit Blumen und Vase J N R 1821, H.32 cm.Die dritte mit Blumen,um 1810/20.Deutsch,wohl Thuiringen.Anfang 19.Jahrh.",597,99.1,False,positional,,,VASI,,Sec. XIX
+BO0624_88783,546605,248,207,"Zwei sechsseitige Schraubflaschen. Die eine graviert mit Achtspeichenrad und H W 1700,H. 24 cm.Die andere mit barocken Blumen und der",598,98.5,False,positional,,,OGGETTI VARI,,Sec. XVIII
+BO0624_88783,546606,249,208,"Drei de s g leichen. Graviert. Die eine mit Blumen, Tieren und Kavalier. 1.Halfte 18. Jahrh. H. 28 cm. Die andere mit Blumen und Jahrzahl 1798. H.24 cm. Die dritte mit Blumen und der Jahrzahl 1817. H.26 cm.",600,99.0,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546607,250,209,- Kaf fee- u n d Milehka nne. Mit gedrehten Riefelungen. Suddeutsch. Um 1750.H.23 u.15 cm.,602,100.0,False,positional,,,Glas,,Sec. XVIII
 BO0624_88783,546608,251,210,De s g leichen. Mit Pfeifenmuster und hangenden Girlanden. Deutsch. Um /90.H.32u.22cm.,603,88.2,False,positional,,,Glas,,
 BO0624_88783,546609,252,211,Des gleichen. Reliefierte Friese: Eisenbahn Nuirnberg-Furth. Deutsch. Drittel 19.Jahrh.H.25u.21 cm.,605,79.8,False,positional,,,Glas,,
-BO0624_88783,546610,253,212,"Des g leichen. Gerade Form, Tierkopfausguf,reliefierte Friese. Um 1800.",607,97.1,False,positional,,,Glas,,
+BO0624_88783,546610,253,212,"Des g leichen. Gerade Form, Tierkopfausguf,reliefierte Friese. Um 1800.",607,97.1,False,positional,,,Glas,,Sec. XIX
 BO0624_88783,546611,254,213,"Kaffee-,Milchkanne,Zuckerdose. Reliefierter Akanthusstab. Anf.",609,96.7,False,positional,,,Glas,,
 BO0624_88783,546612,255,19,"Jahrh.H.28,5bis 15cm.",610,93.0,False,positional,,,Glas,,
 BO0624_88783,546613,256,2,"i4 Kaffee-und Milchkanne,zweiKaffeekannen. Mit gravierten Blumen bzw.reliefierten Friesen.Erstes Drittel 19.Jahrh.H.25,18,26 u.22 cm.",611,99.6,False,positional,,,Glas,,
-BO0624_88783,546614,257,215,"Zwei Walzen k rige. (Sog. Brautkrige.) Mit Glockenfuf. Graviert: Paar, sich die Hand reichend u. JMF 1793 bzw.Paar in Biedermeiertracht.Um 1820. H.23.5u.24,5cm.",612,98.7,False,positional,,,Glas,,
-BO0624_88783,546615,258,216,"Zwei Birn k ri ge. Deckel reliefiert: Jager bzw. Gambrinus. Um 1820/30. H.24,5cm.",613,97.4,False,positional,,,Glas,,
-BO0624_88783,546616,259,217,"Drei Weinkannen. Zwei konisch, graviert mit Blumen und JF B 1835 bzw.J L S 1840 in Kranz. H.39 u.30 cm.Die dritte reich graviert mit Blumen ## Wandteppiche.",614,94.1,False,title_direct,,,Wandteppiche,,
-BO0624_88783,546617,260,218,"Wan dteppich mit Wappen. Wolle und Seide gewirkt. Hauptfarben: 12000 Blau, Grun, Gelb und Rot in verschiedenen Tonen. In der Mitte hangt an (nackter Bandern in einem aus Fillhornern gebildeten Kranz ein Wappen Knabe mit Schwert auf gelbem und rotem horizontal geteilten Feld), seitlich zwei Figuren: Gambenspieler in Ristung, Frau mit Vase. Der Boden mit 8200 blihenden Pflanzenstauden, dazwischen Tiere,Landschaftshintergrund mit Bergen und Kastellen. Borte, gebildet aus Wein- und Blumenranken mit Schleifen verbunden. Tournai. 2.Viertel 16. Jahrh.195X330 cm.Die gleiche Bordire auf einem Stuick (Episode aus einem Ritterroman) im Germanischen Nationalmuseum. Abb. siehe Goebel Wandteppiche Teil I, Die Niederlande Tafel IV Bd.II Abb.249.",626,99.7,False,title_direct,,,VASI,,
+BO0624_88783,546614,257,215,"Zwei Walzen k rige. (Sog. Brautkrige.) Mit Glockenfuf. Graviert: Paar, sich die Hand reichend u. JMF 1793 bzw.Paar in Biedermeiertracht.Um 1820. H.23.5u.24,5cm.",612,98.7,False,positional,,,Glas,,Sec. XVIII
+BO0624_88783,546615,258,216,"Zwei Birn k ri ge. Deckel reliefiert: Jager bzw. Gambrinus. Um 1820/30. H.24,5cm.",613,97.4,False,positional,,,Glas,,Sec. XIX
+BO0624_88783,546616,259,217,"Drei Weinkannen. Zwei konisch, graviert mit Blumen und JF B 1835 bzw.J L S 1840 in Kranz. H.39 u.30 cm.Die dritte reich graviert mit Blumen ## Wandteppiche.",614,94.1,False,title_direct,,,Wandteppiche,,Sec. XIX
+BO0624_88783,546617,260,218,"Wan dteppich mit Wappen. Wolle und Seide gewirkt. Hauptfarben: 12000 Blau, Grun, Gelb und Rot in verschiedenen Tonen. In der Mitte hangt an (nackter Bandern in einem aus Fillhornern gebildeten Kranz ein Wappen Knabe mit Schwert auf gelbem und rotem horizontal geteilten Feld), seitlich zwei Figuren: Gambenspieler in Ristung, Frau mit Vase. Der Boden mit 8200 blihenden Pflanzenstauden, dazwischen Tiere,Landschaftshintergrund mit Bergen und Kastellen. Borte, gebildet aus Wein- und Blumenranken mit Schleifen verbunden. Tournai. 2.Viertel 16. Jahrh.195X330 cm.Die gleiche Bordire auf einem Stuick (Episode aus einem Ritterroman) im Germanischen Nationalmuseum. Abb. siehe Goebel Wandteppiche Teil I, Die Niederlande Tafel IV Bd.II Abb.249.",626,99.7,False,title_direct,,,VASI,,Sec. XVI
 BO0624_88783,546618,261,219,"Wandteppich: Diana mit ihren Gespielinnen. Wolle und Seide gewirkt. Unter einer Baumgruppe sitzt Diana, neben ihr steht eine Frau in blauem Gewand,eine Gefahrtin in rotem Gewand bindet der Gottin die Sandale, daneben steht eine Frau mit der Jagdbeute. Die Borte zeigt oben Pilaster durch Blumengirlanden verbunden,an den Seiten bekranzte Hermen,an denen antike Kopfe in Lorbeerumrahmung hangen. Brissel.Mitte 17.Jahrh. 325X435 cm. Einige Erganzungen, unten keine Borte. Vielleicht aus der Manufaktur des Andreas van den Driesche. Die gleiche Mitteldarstellung siehe TafelV Goebel a.a.O.Abb.325. 50450",627,99.1,False,title_direct,,,Wandteppiche,,
 BO0624_88783,546619,262,220,"Wandteppich:Waldlandschaft mit Figuren. Wolle und etwas Seide,gewirkt. Hauptfarben: Blau, Grin,Gelb und Braun. Unter Baumen schreitender Mann mit Hund und ein zweiter Mann;im Hintergrund sitzende Frau mit Fullhorn mit Dienerin,vor ihr ein Juingling. Blumenborte mit etwas Tafel VI Rot. Brissel.17.Jahrh.240X173 cm.Ausgebessert.",639,99.4,False,title_direct,,,Wandteppiche,,
-BO0624_88783,546620,263,221,"Ses selbezug. Gewirkt, zweiteilig. Heller Grund. In Umrahmung aus blauen, gewundenen Bandern Korb bzw. Vase mit Blumen gefillt. Beauvais. Um 1780.Lehneoval58X45 cm,Sitz 72X73 cm.",640,98.8,False,positional,,,VASI,,
+BO0624_88783,546620,263,221,"Ses selbezug. Gewirkt, zweiteilig. Heller Grund. In Umrahmung aus blauen, gewundenen Bandern Korb bzw. Vase mit Blumen gefillt. Beauvais. Um 1780.Lehneoval58X45 cm,Sitz 72X73 cm.",640,98.8,False,positional,,,VASI,,Sec. XVIII
 BO0624_88783,546621,264,222,"Seidener Teppich. Feinste Knupfung.Z Zeichnung in Art eines Gebetteppiches. Tiefrote Nische mit herabhangender Ampel und aus Vase aufwachsendem Lebensbaum, der sich iber die ganze Flache verzweigt. Die lichten Farben (helles Griin und Turkisblau) bilden den Fond des aus mehreren Borten mit Blumenranken gefigten Randes. Persien (Tabris). 270X220 cm.",644,99.4,False,positional,,,VASI,,
 BO0624_88783,546622,265,223,"Seidener Teppich. Feinste Knupfung. Zeichnung ahnlich wie Nr.2 222. Turkisblaue Nische mit roten Zwickeln. Zeichnung der Vase, der Ampel und der Blumenranken in Beige und Tiefrot. Die Randborten in hellen Tonen. Persien (wohl Tabris). 270X200 cm. Gegenstuick zu Nr. 222.",645,99.2,False,positional,,,VASI,,
 BO0624_88783,546623,266,224,"Seiden-Gebetteppich. Feinste Knuipfung.I Dunkelrote Nische spitzgiebelig,mit herabhangender Blumenampel und Doppelsaulen mit Leuchtern. Rand hellbeige, je vier schmale Streifen begleiten die breite Mittelborte mit Blumenranken. Persien (wohl Tabris). 162X120 cm.",646,99.2,False,positional,,,Orientteppihe; Textilen,,
 BO0624_88783,546624,267,450,- 225 Rot. Persien (wohl Tabris). 162X120 cm. Gegenstuick zu Nr.224.,649,100.0,False,positional,,,Orientteppihe; Textilen,,
-BO0624_88783,546625,268,226,1300 202X135cm.,651,87.5,False,positional,,,Orientteppihe; Textilen,,
+BO0624_88783,546625,268,226,1300 202X135cm.,651,87.5,False,positional,,,Orientteppihe; Textilen,,Sec. XIV
 BO0624_88783,546626,269,227,Sa tteldecke. Geknipft. Auf rotem bzw.blauem Grund: gelbliche Haken- 6010,653,93.4,False,positional,,,Orientteppihe; Textilen,,
 BO0624_88783,546627,270,228,"- Kn i pfteppich. Hauptfarben: Schwarz, Braun, Creme, Weif. Mittelfeld mit drei hakenbesetzten Rhomben, gefillt mit stilisierten Nelken. Schmale Randborten mit geometrischer Musterung. Turkisch-Anatolisch. 18./19. Jahrh.",663,100.0,False,positional,,,Orientteppihe; Textilen,,
 BO0624_88783,546628,271,90155,- 229 rung. Aus zwei Teilen zusammengesetzt. Kleinasien. 365X160 cm.,667,100.0,False,positional,,,Orientteppihe; Textilen,,
@@ -286,12 +286,12 @@ BO0624_88783,546641,284,88108,250/590,724,100.0,False,positional,,,Orientteppihe
 BO0624_88783,546642,285,80,/88,726,57.1,False,positional,,,Orientteppihe; Textilen,,
 BO0624_88783,546643,286,350,#,728,0.0,False,positional,,,Orientteppihe; Textilen,,
 BO0624_88783,546644,287,530,500,732,100.0,False,positional,,,Orientteppihe; Textilen,,
-BO0624_88783,546645,288,240,"Klo sterarbeit. Hl. Dreifaltigkeit mit Madonna. Litzen- und PerlenZwei Kelchdecken, ein stickerei auf Samt.18.Jahrh.Oval. 20,5X18 cm.— Christkindlkleid,eine Goldlitzenarbeit.18.Jahrh.Dabei Konvolut Stoffreste: Samt, Brokat usw. 18. Jahrh.",734,99.1,False,positional,,,Orientteppihe; Textilen,,
-BO0624_88783,546646,289,241,"Go ti s c he Tr u he. Eichenholz. Beschlagen mit Eisenbandern. Altes eisernes Schlof.Deutsch.Um 1500.29X53,5X33cm.",738,98.2,False,positional,,,Mobel,,
+BO0624_88783,546645,288,240,"Klo sterarbeit. Hl. Dreifaltigkeit mit Madonna. Litzen- und PerlenZwei Kelchdecken, ein stickerei auf Samt.18.Jahrh.Oval. 20,5X18 cm.— Christkindlkleid,eine Goldlitzenarbeit.18.Jahrh.Dabei Konvolut Stoffreste: Samt, Brokat usw. 18. Jahrh.",734,99.1,False,positional,,,Orientteppihe; Textilen,,Sec. XVIII
+BO0624_88783,546646,289,241,"Go ti s c he Tr u he. Eichenholz. Beschlagen mit Eisenbandern. Altes eisernes Schlof.Deutsch.Um 1500.29X53,5X33cm.",738,98.2,False,positional,,,Mobel,,Sec. XVI
 BO0624_88783,546647,290,242,"Zwei ges cho figer Schrank. Weichholz. Aus zwei ibereinandergestellten Truhen.Flachschnitzerei,teilweise durchbrochen,Blumen,Tiere,Rosetten. Oberer Abschluf Zinnenkranz. Kopie eines Tiroler Schrankes vom Ende des Jahrh. aus dem Bayr. Nat.-Museum Minchen. H.233,B.186,T.52 cm.",739,87.0,False,positional,,,BAULI,,
 BO0624_88783,546648,291,243,"A uf sa t z k as tc he n. Weichholz, braun gebeizt. Einturiger Unterbau, offener Mittelbau, Oberteil dem Unterbau entsprechend.Mit reicher ornamentaler Schnitzerei.Gotischer Stil. H.155,B.53,T.30 cm.",741,99.0,False,positional,,,Mobel,,
 BO0624_88783,546649,292,244,"Zweige schofi ger Schran k. Nufholz. Mit je zwei Turlugeln mit Riegelverschluf und erhohten Feldern, seitlich davon Fuillungen mit den gleichen erhohten Feldern. Gesims mit Zahnschnitt. Toskana.16. Jahrh. H.212,B.175, T.63cm. Tafel VII",742,99.1,False,positional,,,Mobel,,
-BO0624_88783,546650,293,550,"- 245 Zweigeschofiger Schrank. Nufholz. Mit je zwei Turfligeln mit erhohten Feldern mit Holzknopfen, seitlich davon schmalere erhohte Felder. Toskana. 16. Jahrh.H.228,B.180,T.60 cm. Tafel VII",746,100.0,False,positional,,,Mobel,,
+BO0624_88783,546650,293,550,"- 245 Zweigeschofiger Schrank. Nufholz. Mit je zwei Turfligeln mit erhohten Feldern mit Holzknopfen, seitlich davon schmalere erhohte Felder. Toskana. 16. Jahrh.H.228,B.180,T.60 cm. Tafel VII",746,100.0,False,positional,,,Mobel,,Sec. XVI
 BO0624_88783,546651,294,150,230,750,100.0,False,positional,,,Mobel,,
 BO0624_88783,546652,295,280220,"- 246 Kleine K redenz. Nuf. Auf Klauenfuifen,zweitirig. Die Fluigel mit profilierten Feldern und runden Metallknopfen, dariber Schublade. Seitlich Halbsaulen mit Gebalk,Deckplatte mit Zahnfries und Eierstab. Toskana.2. Halfte 16.Jahrh.H.86,B.90,T.29cm. Tafel VIII",754,100.0,False,positional,,,Mobel,,
 BO0624_88783,546653,296,247,"Kleine K redenz. Nuf. Auf Klauenfiben, zweiturig. Die Fluigel mit profilierter Hohlkehle und runden Metallknopfen als Griffe. In der Zarge zwei Schubladen. Seitlich kannelierte Pilaster. Toskana. 2.Halfte 16.Jahrh. H. 84, B.88,T.45cm. Tafel VIII /2",755,98.7,False,positional,,,Mobel,,
@@ -299,27 +299,27 @@ BO0624_88783,546654,297,248,"- K lei ne K re den z. Nuf. Einturig mit Schublade.
 BO0624_88783,546655,298,249,"Achteckiger Tisch. NuBbaum. Untergestell, bestehend aus drei geschnitzten Standbrettern mit Klauenfuifen,Hermen und Rankenwerk. Italien.",761,98.5,False,positional,,,Mobel,,
 BO0624_88783,546656,299,300,/440,763,60.0,False,positional,,,Mobel,,
 BO0624_88783,546657,300,16,"Jahrh.H.78,B.103,T.103 cm.",765,94.3,False,positional,,,Mobel,,
-BO0624_88783,546658,301,600,- 250 enden in Voluten. Italien. 1. Halfte 17. Jahrh. Sitz-und Ruicklehne gepolstert.,768,100.0,False,positional,,,Mobel,,
+BO0624_88783,546658,301,600,- 250 enden in Voluten. Italien. 1. Halfte 17. Jahrh. Sitz-und Ruicklehne gepolstert.,768,100.0,False,positional,,,Mobel,,Sec. XVII
 BO0624_88783,546659,302,400,"- schweift, der Sitz und die gepunzte Ricklehne mit Nagelbeschlag. Toskana. 16.Jahrh. H.107,B.58,T.55cm. Tafel VIII",773,100.0,False,positional,,,Mobel,,
 BO0624_88783,546660,303,25,r Armlehnstuhl mit Lederbes pannung. Die Armstitzen leicht ge-,774,98.4,False,positional,,,Mobel,,
 BO0624_88783,546661,304,480,- 252,778,100.0,False,positional,,,Mobel,,
 BO0624_88783,546662,305,253,"Niederer Stuhl. Bezug alter roter Sammet. Sonst wie Nr. 252. H. 84, B.45,T.45cm. TafelVIll",780,97.6,False,positional,,,Mobel,,
-BO0624_88783,546663,306,254,"Tisch mit Stuckmarmoreinlage. Platte mit farbigem Vogel, Palmetten und Friichten. Italien. 17. Jahrh. 71X54 cm.-Dazu erganzter Tisch im Barockstil. Mit Schutzplatte.H. 78, B.101,T. 84 cm.",781,98.9,False,positional,,,Mobel,,
+BO0624_88783,546663,306,254,"Tisch mit Stuckmarmoreinlage. Platte mit farbigem Vogel, Palmetten und Friichten. Italien. 17. Jahrh. 71X54 cm.-Dazu erganzter Tisch im Barockstil. Mit Schutzplatte.H. 78, B.101,T. 84 cm.",781,98.9,False,positional,,,Mobel,,Sec. XVII
 BO0624_88783,546664,307,255,"Ein Paar hohe Point-Armsessel. Gros-u schnitzten Stuhlgestelle im Barockstil. H.115,B.21,T.57 cm.",783,98.4,False,positional,,,Mobel,,
 BO0624_88783,546665,308,256,"- Eintiriger Intarsienschrank. Eiche, mit verschiedenen farbigen Holzern. Auf der Tur eine und an den Schmalseiten je zwei Fuillungen mit Kriegerfigur, sonst Rankenwerk. Renaissancestil. H.150, B. 100, T. 62 cm.",785,100.0,False,positional,,,Mobel,,
-BO0624_88783,546666,309,257,"- Eingelegter Tisch. Gedrehte Fufe, abhebbare Platte mit Lowen und Ornament und rechteckiger Schiefereinlage; darunter eingelegtes Spielbrett. Deutsch. 2. Halfte 16. Jahrh. H. 78,B. 100, T. 65 cm. Zarge erganzt.",787,100.0,False,positional,,,Mobel,,
-BO0624_88783,546667,310,258,"Eingelegtes Kabinettschrankchen. In verschiedenen, teils gefarbten Holzern eingelegt. Zweitirig. Die Fluigel mit Ornamenten,im Innern Tir und sieben Schubladen mit Schreinerarchitektur und Laubsageornament. Auf der Tir eingelegt:Frau. Suddeutsch (Nuirnberg). Ende 16. Jahrh. H.mit erganztem Sockel 73,B.49, T. 34 cm.",788,99.3,False,positional,,,Mobel,,
+BO0624_88783,546666,309,257,"- Eingelegter Tisch. Gedrehte Fufe, abhebbare Platte mit Lowen und Ornament und rechteckiger Schiefereinlage; darunter eingelegtes Spielbrett. Deutsch. 2. Halfte 16. Jahrh. H. 78,B. 100, T. 65 cm. Zarge erganzt.",787,100.0,False,positional,,,Mobel,,Sec. XVI
+BO0624_88783,546667,310,258,"Eingelegtes Kabinettschrankchen. In verschiedenen, teils gefarbten Holzern eingelegt. Zweitirig. Die Fluigel mit Ornamenten,im Innern Tir und sieben Schubladen mit Schreinerarchitektur und Laubsageornament. Auf der Tir eingelegt:Frau. Suddeutsch (Nuirnberg). Ende 16. Jahrh. H.mit erganztem Sockel 73,B.49, T. 34 cm.",788,99.3,False,positional,,,Mobel,,Sec. XVI
 BO0624_88783,546668,311,258,a Zweigeschofiger Schrank. Jedes Geschof eintirig und mit Schub-,789,97.6,False,positional,,,Mobel,,
 BO0624_88783,546669,312,250,500,793,100.0,False,positional,,,Mobel,,
 BO0624_88783,546670,313,1850,10,797,100.0,False,positional,,,Mobel,,
 BO0624_88783,546671,314,290,24F,801,100.0,False,positional,,,Mobel,,
-BO0624_88783,546672,315,120,"- lade. Holz eingelegt,mit Laubsagearbeit. Suddeutsch. 16. Jahrh. Sockel und Gesims erganzt.H.125,B.112,T.62cm.",805,100.0,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88783,546673,316,259,"Zweitiriger Kabinettschrank. Ebenholz, mit Flammleisten.Im Innern Tur und zehn Schubladen,zum Teil mit braunem Schildpatt verkleidet. Die von Flammleisten eingefaRten Fillungen der Tir und der Schubladen bunt bemalt: Szenen aus dem Alten Testament. Hinter der Tir:die Madonna und vier Kirchenvater. Deutsch (Augsburg). 2. Halfte 17. Jahrh. H. 78, B. 82, T.40cm.",806,99.4,False,positional,,,OGGETTI VARI,,
-BO0624_88783,546674,317,260,"Eingeleg terKredenzsch ra nk. Eiche, mit verschiedenen, teils ge中里90 farbten Holzern. Unterbau zweitirig mit Schubladen, Oberbau zurickspringend mit zwei Tiren. Einlagen: Hochfillungen mit Architekturlandschaften, Blumenvasen,Rahmen,Maureskenornament. Rheinisch.Um 1600. H.160,",807,99.3,False,positional,,,CORNICI,,
+BO0624_88783,546672,315,120,"- lade. Holz eingelegt,mit Laubsagearbeit. Suddeutsch. 16. Jahrh. Sockel und Gesims erganzt.H.125,B.112,T.62cm.",805,100.0,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_88783,546673,316,259,"Zweitiriger Kabinettschrank. Ebenholz, mit Flammleisten.Im Innern Tur und zehn Schubladen,zum Teil mit braunem Schildpatt verkleidet. Die von Flammleisten eingefaRten Fillungen der Tir und der Schubladen bunt bemalt: Szenen aus dem Alten Testament. Hinter der Tir:die Madonna und vier Kirchenvater. Deutsch (Augsburg). 2. Halfte 17. Jahrh. H. 78, B. 82, T.40cm.",806,99.4,False,positional,,,OGGETTI VARI,,Sec. XVII
+BO0624_88783,546674,317,260,"Eingeleg terKredenzsch ra nk. Eiche, mit verschiedenen, teils ge中里90 farbten Holzern. Unterbau zweitirig mit Schubladen, Oberbau zurickspringend mit zwei Tiren. Einlagen: Hochfillungen mit Architekturlandschaften, Blumenvasen,Rahmen,Maureskenornament. Rheinisch.Um 1600. H.160,",807,99.3,False,positional,,,CORNICI,,Sec. XVII
 BO0624_88783,546675,318,100,12S,811,100.0,False,positional,,,Mobel,,
 BO0624_88783,546676,319,60,90.,815,100.0,False,positional,,,Mobel,,
 BO0624_88783,546677,320,170,- 261 Truhe. In verschiedenen farbigen Holzern cingelegt. Stirnseite: gefuilte,819,100.0,False,positional,,,BAULI,,
-BO0624_88783,546678,321,262,"Hal b s c h ra n k. Eiche, eingelegt mit Wurzelholz und anderen Holzern. Vorderseite mit finf Pilastern und zwei von Giebeln bekronten Bogenstellungen; darin eingelegtes Rankenwerk. Ulm. 17. Jahrh. Mit Erganzungen. Neue Eichenholzplatte.126X165X54cm.",821,99.2,False,positional,,,Mobel,,
+BO0624_88783,546678,321,262,"Hal b s c h ra n k. Eiche, eingelegt mit Wurzelholz und anderen Holzern. Vorderseite mit finf Pilastern und zwei von Giebeln bekronten Bogenstellungen; darin eingelegtes Rankenwerk. Ulm. 17. Jahrh. Mit Erganzungen. Neue Eichenholzplatte.126X165X54cm.",821,99.2,False,positional,,,Mobel,,Sec. XVII
 BO0624_88783,546679,322,263,"- Ha l b s c h ra n k. Gebeiztes Holz.Vorderseite mit Schreinerarchitektur. Innen als Waschtisch eingerichtet. Deutsch. 17./18. Jahrh. Mit Erganzungen. H. 95, B.108,T.57cm.",823,100.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88783,546680,323,264,"Gro Res Buffet. Unterbau zweitirig mit Pilastergliederung: eingelegt in hellem und dunklem Holz, mit Rankenwerk und Greifen. Oberbau auf drei freistehenden Pfeilern, dem Unterbau entsprechend. Zusammengesetzt aus alten Teilen （17. Jahrh.) mit Erganzungen. H.196. B. 273,T.70 cm.",824,99.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88783,546681,324,265,"5Ec k s ch r a n k che n. Geschnitzt: Balustersaulen, Ture mit Fratzenkopf. Stil der deutschen Spatrenaissance. Verwendung von alten Teilen. H.100,B.57, T.57cm.",825,98.7,False,positional,,,Mobel,,
@@ -331,21 +331,21 @@ BO0624_88783,546686,329,270,"- Altes Biffet. Gebeiztes Weichholz. Unterteil mit 
 BO0624_88783,546687,330,271,Zargen mit leerem Plattenrahmen und Platten zum Ausziehen.,843,96.6,False,positional,,,PIATTI,,
 BO0624_88783,546688,331,272,"Ko m m o de. Poliertes NuBbaum- und Wurzelmaserholz. Mit drei Schubladen,",844,97.2,False,positional,,,Mobel,,
 BO0624_88783,546689,332,273,"Sech s St i h le. Nuf. Geschweifte FuBe, Lehne mit durchbrochenem Mittelbrett und geschnitzter Rosette. Gepolsterter Sitz mit gestreiftem Bezug. Italien. 18.Jahrh. H.99 cm.",846,98.8,False,positional,,,Mobel,,
-BO0624_88783,546690,333,274,"Buiffet. NuBbaum. Unterteil doppeltirig mit Schublade,offener Oberbau mit Tellerbrettern. 18. Jahrh. Mit spater zugefigten geschnitzten Engelskopfen und Flammleisten. H.215,B.114,T.50 cm.",847,98.9,False,positional,,,Mobel,,
+BO0624_88783,546690,333,274,"Buiffet. NuBbaum. Unterteil doppeltirig mit Schublade,offener Oberbau mit Tellerbrettern. 18. Jahrh. Mit spater zugefigten geschnitzten Engelskopfen und Flammleisten. H.215,B.114,T.50 cm.",847,98.9,False,positional,,,Mobel,,Sec. XVIII
 BO0624_88783,546691,334,275,"Engelskopfen. H. 170, B. 106, T. 48 cm.",849,94.1,False,positional,,,Mobel,,
-BO0624_88783,546692,335,276,"A r m s t u h l. Nufbaum. Gedrehte Stitzen. Schnitzerei: Akanthuslaub, Ornamente. Anfang 18. Jahrh. Mit Erganzungen. Sitz und Lehne Strohgeflecht. H.125cm.",850,98.6,False,positional,,,Mobel,,
-BO0624_88783,546693,336,277,"Drei Stihle. Gestelle geschnitzt: Voluten, Baluster. Aus Teilen des . 18. Jahrh. zusammengestellt. Sitz und Lehne mit Strohgeflecht. H. 117, 127 u. 130cm.",851,98.6,False,positional,,,OGGETTI VARI,,
+BO0624_88783,546692,335,276,"A r m s t u h l. Nufbaum. Gedrehte Stitzen. Schnitzerei: Akanthuslaub, Ornamente. Anfang 18. Jahrh. Mit Erganzungen. Sitz und Lehne Strohgeflecht. H.125cm.",850,98.6,False,positional,,,Mobel,,Sec. XVIII
+BO0624_88783,546693,336,277,"Drei Stihle. Gestelle geschnitzt: Voluten, Baluster. Aus Teilen des . 18. Jahrh. zusammengestellt. Sitz und Lehne mit Strohgeflecht. H. 117, 127 u. 130cm.",851,98.6,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_88783,546694,337,278,"Ba n k. Mit hoher Ruicklehne. NuBbaum. Reich geschnitzt: Lambrequins und Gehange. Verwendung von alten Teilen. Sitz und Ricklehne mit Strohgeflecht. Frihrokokostil.H.140,B.145 cm.",852,98.8,False,positional,,,Mobel,,
 BO0624_88783,546695,338,279,"Tis c h c hen. Mit Schublade. NuBbaum mit Bandeinlage, kannelierte FuBe.",853,97.1,False,positional,,,Mobel,,
-BO0624_88783,546696,339,280,"GroBer doppelturiger Kleiderschrank.Nubaum, poliert. Turen mit profilierten Feldern,Bandwerkeinlagen.Deutsch. 2. Halfte 18. Jahrh. H.208,B.185,T.65cm.",855,98.6,False,positional,,,Mobel,,
-BO0624_88783,546697,340,281,"Kleine K o mm o de. Mit zwei Schubladen. Nufbaumfurnier. Eingelegt: Rocaillen und Ranken. Deutsch.2. Halfte 18. Jahrh. H.34, B.50, T.36 cm.",856,98.5,False,positional,,,Mobel,,
+BO0624_88783,546696,339,280,"GroBer doppelturiger Kleiderschrank.Nubaum, poliert. Turen mit profilierten Feldern,Bandwerkeinlagen.Deutsch. 2. Halfte 18. Jahrh. H.208,B.185,T.65cm.",855,98.6,False,positional,,,Mobel,,Sec. XVIII
+BO0624_88783,546697,340,281,"Kleine K o mm o de. Mit zwei Schubladen. Nufbaumfurnier. Eingelegt: Rocaillen und Ranken. Deutsch.2. Halfte 18. Jahrh. H.34, B.50, T.36 cm.",856,98.5,False,positional,,,Mobel,,Sec. XVIII
 BO0624_88783,546698,341,282,"H. 80,B. 92,T.54 cm.Aus Schlof Haimhausen an der Amper.",858,96.3,False,positional,,,Mobel,,
 BO0624_88783,546699,342,283,"- 3Nahtis ch chen. Nierenformig mit Schublade. Furniert: Palisander und Mahagoni; eingelegt mit Ahorn: Kleine Blumchen in Rautenfeldern. Goldbronzebeschlage.Louis XV.Stil. H. 74,B.83, T.43 cm.",860,100.0,False,positional,,Periodo di Luigi XV,Mobel,,
 BO0624_88783,546700,343,284,"Kleine K o m m o de. Auf hohen geschweiften Fufen, mit zwei Schubladen und rosa Marmorplatte. Palisander und Rosenholz eingelegt: Blumenranken.",861,98.6,False,positional,,,Mobel,,
 BO0624_88783,546701,344,285,"Zweitiriger Halbschrank. Schublade, leicht geschweifte Fufe. Rosenholzfurnier. Reich eingelegt: Stern- und perspektivische Wurfelmuster. Goldbronzebeschlage. Rosa gesprenkelte Marmorplatte (Eck angekittet). Louis XVI.Um1780.H.118,B.132,T.49cm. Tafel VI",863,99.2,False,positional,BONHEUR ROSA,,Mobel,,
-BO0624_88783,546702,345,286,"Konsoltisch mit rosa Marmorplatte. Gestell geschnitzt,kannelierte Saulenfife, Zarge mit Volutenranken und Rosetten, grau gestrichen. Deutsch. Um 1780.H.78,Platte119X61 cm.",864,98.8,False,positional,,,Mobel,,
-BO0624_88783,546703,346,287,"Ein Paar Point-Armsessel. Gestelle weif und Gold. Geschnitzte kannelierte Fufe,Volutenlehnen,Perlstab.Bezug: Gros-Point. Mittelstuck der Sitze, Ruck- und Armlehnen graugrundige Kartusche mit gefillter Blumenvase, Umrahmung hellgriin. Gestelle:Deutsch. Um 1780/90. Bezige: Biedermeier.H.103,B.69,T.53cm.",865,99.3,False,positional,,Biedermeier,OGGETTI IN ORO,,
-BO0624_88783,546704,347,288,"Se s sel mit r u n der Le h ne. Gestell Buche, geschnitzt. Kannelierte Fufe, Zarge mit Flechtband. Deutsch. Um 1780. Bezug: griner, gestreifter alter Samt mit Sitzkissen. H. S4 cm.",866,98.8,False,positional,,,Mobel,,
+BO0624_88783,546702,345,286,"Konsoltisch mit rosa Marmorplatte. Gestell geschnitzt,kannelierte Saulenfife, Zarge mit Volutenranken und Rosetten, grau gestrichen. Deutsch. Um 1780.H.78,Platte119X61 cm.",864,98.8,False,positional,,,Mobel,,Sec. XVIII
+BO0624_88783,546703,346,287,"Ein Paar Point-Armsessel. Gestelle weif und Gold. Geschnitzte kannelierte Fufe,Volutenlehnen,Perlstab.Bezug: Gros-Point. Mittelstuck der Sitze, Ruck- und Armlehnen graugrundige Kartusche mit gefillter Blumenvase, Umrahmung hellgriin. Gestelle:Deutsch. Um 1780/90. Bezige: Biedermeier.H.103,B.69,T.53cm.",865,99.3,False,positional,,Biedermeier,OGGETTI IN ORO,,Sec. XVIII
+BO0624_88783,546704,347,288,"Se s sel mit r u n der Le h ne. Gestell Buche, geschnitzt. Kannelierte Fufe, Zarge mit Flechtband. Deutsch. Um 1780. Bezug: griner, gestreifter alter Samt mit Sitzkissen. H. S4 cm.",866,98.8,False,positional,,,Mobel,,Sec. XVIII
 BO0624_88783,546705,348,289,"Sof a. Hell Kirschbaum. Bezug: gemusterter Stoff. Biedermeierstil. H. 80, B.138,T.54cm.",867,97.5,False,positional,,,Mobel,,
 BO0624_88783,546706,349,1001,530,870,100.0,False,positional,,,Mobel,,
 BO0624_88783,546707,350,50,/115,872,66.7,False,positional,,,Mobel,,
@@ -355,56 +355,56 @@ BO0624_88783,546710,353,40,/410,880,66.7,False,positional,,,Mobel,,
 BO0624_88783,546711,354,107530,50/60,884,100.0,False,positional,,,Mobel,,
 BO0624_88783,546712,355,10240,30/400,888,100.0,False,positional,,,Mobel,,
 BO0624_88783,546713,356,10160,"- 290 Ein Paar Pfeilertische. Nufbaum. Mit Schublade, gedrehte Fife mit",892,100.0,False,positional,,,Mobel,,
-BO0624_88783,546714,357,291,"Em pirefl ui gel. Mahagoni. Beine saulenformig. Uber der Klaviatur Goldbronzebeschlage und Bezeichnung Ferdinand Sailer in Muinchen"". Um 1800. 87X218X117cm.",894,98.7,False,positional,,,Mobel,,
+BO0624_88783,546714,357,291,"Em pirefl ui gel. Mahagoni. Beine saulenformig. Uber der Klaviatur Goldbronzebeschlage und Bezeichnung Ferdinand Sailer in Muinchen"". Um 1800. 87X218X117cm.",894,98.7,False,positional,,,Mobel,,Sec. XIX
 BO0624_88783,546715,358,292,"Zwei Wand s piegel mit Leuchtern. Die Rahmen geschnitzt und vergoldet,mit Bandwerk und Akanthus. Ovale Spiegel mit Venezianer Glas. Halfte 18.Jahrh. H.72 cm.",895,90.1,False,title_direct,,,CORNICI,,
-BO0624_88783,546716,359,293,"3Aeh teckiger Spie gel. Rahmen:Holz geschnitzt,vergoldet. Lorbeerstah und groBe Akanthusblatter. Deutsch. Anfang 18. Jahrh. H.70,B.55 cm. Tafel IX",897,98.6,False,positional,,,CORNICI,,
-BO0624_88783,546717,360,294,"Ge s ch weifter Spie gel. Rahmen: Holz geschnitzt, vergoldet. Rocaillen, Gitterwerk und Puttenkopfe.Suiddeutsch.Um 1740/50. H.65,B.50 cm. Tafel IX",898,98.6,False,positional,,,CORNICI,,
+BO0624_88783,546716,359,293,"3Aeh teckiger Spie gel. Rahmen:Holz geschnitzt,vergoldet. Lorbeerstah und groBe Akanthusblatter. Deutsch. Anfang 18. Jahrh. H.70,B.55 cm. Tafel IX",897,98.6,False,positional,,,CORNICI,,Sec. XVIII
+BO0624_88783,546717,360,294,"Ge s ch weifter Spie gel. Rahmen: Holz geschnitzt, vergoldet. Rocaillen, Gitterwerk und Puttenkopfe.Suiddeutsch.Um 1740/50. H.65,B.50 cm. Tafel IX",898,98.6,False,positional,,,CORNICI,,Sec. XVIII
 BO0624_88783,546718,361,295,Rechteckiger Spiegel. Geschnitzter vergoldeter Rahmen. Weinlaub,899,96.8,False,positional,,,CORNICI,,
-BO0624_88783,546719,362,296,"- 297 Goldbron ze-Wanduhr. (Cartell-Uhr.) Kartuschenform von Urne be905 kront,mit seitlichen Pilastern und Lorbeergehangen. Rundes Emailzifferblatt. Tafel IX bez.:Amant a Paris. Franzosisch. Um 1780. H. 71 cm.",903,100.0,False,positional,,,Mobel,,
-BO0624_88783,546720,363,298,"Ein Paar Wan dleuchter. Goldbronze. In Form eines kannelierten Ko chers,bekront von Vase mit Flamme; drei Leuchterarme. Um 1780. H. 55 cm. TafelIX",904,98.6,False,positional,,,VASI,,
-BO0624_88783,546721,364,299,Ein Paar Wandleuchter. Goldbronze. In Form eines an einer Bandschleife aufgehangten Akanthusblattes; zwei Leuchterarme.Um 1780.H.41 cm. Tafel IX,905,98.6,False,positional,,,Mobel,,
+BO0624_88783,546719,362,296,"- 297 Goldbron ze-Wanduhr. (Cartell-Uhr.) Kartuschenform von Urne be905 kront,mit seitlichen Pilastern und Lorbeergehangen. Rundes Emailzifferblatt. Tafel IX bez.:Amant a Paris. Franzosisch. Um 1780. H. 71 cm.",903,100.0,False,positional,,,Mobel,,Sec. XVIII
+BO0624_88783,546720,363,298,"Ein Paar Wan dleuchter. Goldbronze. In Form eines kannelierten Ko chers,bekront von Vase mit Flamme; drei Leuchterarme. Um 1780. H. 55 cm. TafelIX",904,98.6,False,positional,,,VASI,,Sec. XVIII
+BO0624_88783,546721,364,299,Ein Paar Wandleuchter. Goldbronze. In Form eines an einer Bandschleife aufgehangten Akanthusblattes; zwei Leuchterarme.Um 1780.H.41 cm. Tafel IX,905,98.6,False,positional,,,Mobel,,Sec. XVIII
 BO0624_88783,546722,365,300,Gesamth.104cm.,907,86.7,False,positional,,,Mobel,,
-BO0624_88783,546723,366,301,Rander mit Perlstab. Deutsch. Ende 18. Jahrh. H. 64 cm.,909,96.1,False,positional,,,Mobel,,
-BO0624_88783,546724,367,302,"2Kaminuhr. Apoll mit Leier. Franzosisch. Anfang 19. Jahrh. H. 54, B.34 cm.",911,97.1,False,positional,,,Mobel,,
-BO0624_88783,546725,368,303,"K a m i n u h r. Helle und dunkle Bronze. Kannelierte Saule mit rundem Emailzifferblatt,bez.: Frederic Duval Paris. Bekronung schnabelnde Tauben. Um 1800.H.34cm.",912,98.7,False,title_direct,,,Bronzen,,
+BO0624_88783,546723,366,301,Rander mit Perlstab. Deutsch. Ende 18. Jahrh. H. 64 cm.,909,96.1,False,positional,,,Mobel,,Sec. XVIII
+BO0624_88783,546724,367,302,"2Kaminuhr. Apoll mit Leier. Franzosisch. Anfang 19. Jahrh. H. 54, B.34 cm.",911,97.1,False,positional,,,Mobel,,Sec. XIX
+BO0624_88783,546725,368,303,"K a m i n u h r. Helle und dunkle Bronze. Kannelierte Saule mit rundem Emailzifferblatt,bez.: Frederic Duval Paris. Bekronung schnabelnde Tauben. Um 1800.H.34cm.",912,98.7,False,title_direct,,,Bronzen,,Sec. XIX
 BO0624_88783,546726,369,304,"- Gro fer Lu s ter. Holz geschnitzt. Rocaillen weif gefaRt mit bunter Blumenmalerei. Zwanzig Kerzenarme, davon 12 elektrisch montiert. Rokokostil. H.90,Dm.78cm.",914,100.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88783,546727,370,50,/60,917,57.1,False,positional,,Scuola di Monaco,Mobel,,
 BO0624_88783,546728,371,40,## Waffen.,923,100.0,False,title_direct,,,OGGETTI IN METALLO,,
 BO0624_88783,546729,372,305,Zwei Beile. Ca.800 n. Chr. Mit neuen Holzgriffen.,925,95.7,False,positional,,,OGGETTI VARI,,
-BO0624_88783,546730,373,306,"Ja g ds pie R. Gekerbter Schaft, Quaste. 18. Jahrh.",926,95.8,False,positional,,,Waffen,,
-BO0624_88783,546731,374,307,"Acht Flinten,zwei Pistolen,Armbrustflinte.Feuersteinschlof, teilweise geschnitzt oder mit graviertem Beschlag. 18. u. 1. Halfte 19. Jahrh.",927,98.5,False,positional,,,Waffen,,
+BO0624_88783,546730,373,306,"Ja g ds pie R. Gekerbter Schaft, Quaste. 18. Jahrh.",926,95.8,False,positional,,,Waffen,,Sec. XVIII
+BO0624_88783,546731,374,307,"Acht Flinten,zwei Pistolen,Armbrustflinte.Feuersteinschlof, teilweise geschnitzt oder mit graviertem Beschlag. 18. u. 1. Halfte 19. Jahrh.",927,98.5,False,positional,,,Waffen,,Sec. XIX
 BO0624_88783,546732,375,308,Ein Paar kleine SteinschloBpistolen. Gravierte Messingmontie-,928,96.7,False,positional,,,Waffen,,
 BO0624_88783,546733,376,309,"tierung,runder Lauf. 18.Jahrh.L.52 cm.",931,94.7,False,positional,,,Waffen,,
 BO0624_88783,546734,377,310,"- S tei n s ch lo B-Pis tole. Geschnitzt. Eisenmontierung, getrieben.18. Jahrh. L.54cm.",933,100.0,False,positional,,,Waffen,,
-BO0624_88783,546735,378,311,1 Steinschlofpistole. Doppellaufig. Mit Marken. 18. Jahrh. L. 37 cm.,934,96.8,False,positional,,,Waffen,,
-BO0624_88783,546736,379,312,"- Stein s ch loBpistole. Gravierte,ehemals versilberte Kupfermontierung. Schaftung reich mit Silber eingelegt: Blumenranken. Lauf mit Marke. 18. Jahrh. L.40cm.",936,100.0,False,positional,,,Waffen,,
-BO0624_88783,546737,380,313,"Stei n s chlo Bpi s to le. Wurzelmaser geschnitzt. Einlagen: Bronze in hohem Relief, Knauf mit Maskaron und Kriegern mit Trophaen,auf dem runden Lauf Engel und Krieger. Um 1700.L.53 cm.",937,98.9,False,title_direct,,,Bronzen,,
-BO0624_88783,546738,381,314,- Radschlo fbic hse. Schaft mit geschnitztem Rankenwerk und Beineinlage. Achteckiger Lauf mit Marke. Deutsch. 17. Jahrh. L.103 cm.Dabei ein Radschlof.,939,100.0,False,positional,,,Waffen,,
-BO0624_88783,546739,382,315,"- Ein Paar Stein schloBpistolen. Geschnitzt. Messingmontierung, teilweise graviert;runder Lauf. 18. Jahrh. L.44 cm.",941,100.0,False,positional,,,Waffen,,
-BO0624_88783,546740,383,316,"Ein Paar Flin ten. Feuersteinschlof. Reich geschnitzt: Rocaillen, Beschlag Eisen graviert: das kurbayerische Wappen von zwei Lowen gehalten, Jagdszenen. Schlofblech bez.:Joseph Nies in Mindelheim. 2. Halfte 18. Jahrh.",942,99.0,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
-BO0624_88783,546741,384,317,"Ein Paar Flin ten. Feuersteinschlof. Wurzelmaser,Messingeinlagen.Lauf bez.: Christian Korber zu Ingerlingen. 18. Jahrh. Schildchen mit Wappen.",943,98.5,False,positional,,,Waffen,,
-BO0624_88783,546742,385,318,"- Ein Paar Steinschlofpistolen. Geschnitzt. Messingmontierung getrieben (Fratzenkopfe) oder graviert;achteckiger,dann runder Lauf. Schlofblech bez.: Paulus Seirer Kemnat. Ende 18. Jahrh. L. 53 cm.",945,100.0,False,positional,,,Waffen,,
+BO0624_88783,546735,378,311,1 Steinschlofpistole. Doppellaufig. Mit Marken. 18. Jahrh. L. 37 cm.,934,96.8,False,positional,,,Waffen,,Sec. XVIII
+BO0624_88783,546736,379,312,"- Stein s ch loBpistole. Gravierte,ehemals versilberte Kupfermontierung. Schaftung reich mit Silber eingelegt: Blumenranken. Lauf mit Marke. 18. Jahrh. L.40cm.",936,100.0,False,positional,,,Waffen,,Sec. XVIII
+BO0624_88783,546737,380,313,"Stei n s chlo Bpi s to le. Wurzelmaser geschnitzt. Einlagen: Bronze in hohem Relief, Knauf mit Maskaron und Kriegern mit Trophaen,auf dem runden Lauf Engel und Krieger. Um 1700.L.53 cm.",937,98.9,False,title_direct,,,Bronzen,,Sec. XVIII
+BO0624_88783,546738,381,314,- Radschlo fbic hse. Schaft mit geschnitztem Rankenwerk und Beineinlage. Achteckiger Lauf mit Marke. Deutsch. 17. Jahrh. L.103 cm.Dabei ein Radschlof.,939,100.0,False,positional,,,Waffen,,Sec. XVII
+BO0624_88783,546739,382,315,"- Ein Paar Stein schloBpistolen. Geschnitzt. Messingmontierung, teilweise graviert;runder Lauf. 18. Jahrh. L.44 cm.",941,100.0,False,positional,,,Waffen,,Sec. XVIII
+BO0624_88783,546740,383,316,"Ein Paar Flin ten. Feuersteinschlof. Reich geschnitzt: Rocaillen, Beschlag Eisen graviert: das kurbayerische Wappen von zwei Lowen gehalten, Jagdszenen. Schlofblech bez.:Joseph Nies in Mindelheim. 2. Halfte 18. Jahrh.",942,99.0,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,Sec. XVIII
+BO0624_88783,546741,384,317,"Ein Paar Flin ten. Feuersteinschlof. Wurzelmaser,Messingeinlagen.Lauf bez.: Christian Korber zu Ingerlingen. 18. Jahrh. Schildchen mit Wappen.",943,98.5,False,positional,,,Waffen,,Sec. XVIII
+BO0624_88783,546742,385,318,"- Ein Paar Steinschlofpistolen. Geschnitzt. Messingmontierung getrieben (Fratzenkopfe) oder graviert;achteckiger,dann runder Lauf. Schlofblech bez.: Paulus Seirer Kemnat. Ende 18. Jahrh. L. 53 cm.",945,100.0,False,positional,,,Waffen,,Sec. XVIII
 BO0624_88783,546743,386,319,"Zwei SteinschloBpistolen. Eisenmontierung. Die eine mit Fratze am Knauf,am SchloRblech bez.:Mastreck.L.45 cm.",946,98.1,False,positional,,,Waffen,,
 BO0624_88783,546744,387,321,Steinsc hlo fpistole. Gravierte Silbermontierung: Trophaen und Orna-,948,97.0,False,positional,,,Waffen,,
 BO0624_88783,546745,388,33,80130,952,100.0,False,positional,,,Waffen,,
 BO0624_88783,546746,389,38,30,956,100.0,False,positional,,,Waffen,,
 BO0624_88783,546747,390,200,80,960,100.0,False,positional,,Scuola di Monaco,Waffen,,
 BO0624_88783,546748,391,115,"- 322 2Stei n s chlo  pis tole. Maserholz. Beschlag Messing, reich graviert:Figuren,Kriegstrophaen, Ornamente. Bez. auf dem gravierten und vergoideten Lauf: Adam Grael A Wienn,auf dem Schlof bez.: Johan Adam Grael. L.47cm.",964,100.0,False,positional,,,Waffen,,
-BO0624_88783,546749,392,323,T.W. Pistor in der Muhl beim H. Grab. 18. Jahrh.,966,95.6,False,positional,,,Waffen,,
+BO0624_88783,546749,392,323,T.W. Pistor in der Muhl beim H. Grab. 18. Jahrh.,966,95.6,False,positional,,,Waffen,,Sec. XVIII
 BO0624_88783,546750,393,324,"Ein Paar Steinschlofpistolen. Achtkantige geblaute Laufe. Bez.: mit Marke, Reiter und Jakob Kuchenreuter. Holzschaft, Stahlmontierung. L.42,5cm.",967,98.5,False,positional,,,Waffen,,
 BO0624_88783,546751,394,325,"Stein s chlofpistole. Geschnitzter Holzschaft, Stahlmontierung, runder geblauter Lauf. Bez.: Joh. Jac. Kuchenreuter; zwei Marken: Reiter und K unter Krone.L.43 cm.",968,98.7,False,positional,,,Waffen,,
-BO0624_88783,546752,395,326,"6Drei Doppelflinten.a) reich geatzter Lauf, reliefiertes Messingbeschlag, bez.: Kuchenreuter.b) geschnitzt,bez.:C A Voges Braunschweig. c) geschnitzt, gravierter Lauf, bez.: Welgandt in Leipzig. 18. Jahrh.",969,99.0,False,positional,,,Waffen,,
+BO0624_88783,546752,395,326,"6Drei Doppelflinten.a) reich geatzter Lauf, reliefiertes Messingbeschlag, bez.: Kuchenreuter.b) geschnitzt,bez.:C A Voges Braunschweig. c) geschnitzt, gravierter Lauf, bez.: Welgandt in Leipzig. 18. Jahrh.",969,99.0,False,positional,,,Waffen,,Sec. XVIII
 BO0624_88783,546753,396,327,Pulverhorn fur Bichsenschitzen. bandiert.,970,95.1,False,positional,,,Waffen,,
 BO0624_88783,546754,397,328,"- Kleine Zun d pul verflasche. Rund. Holz, eingelegt mit Bein und Metallfaden.Deutsch.16.Jahrh. Dm.7 cm.",973,100.0,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88783,546755,398,329,mit Beineinlagen.Um 1600.Dm.12.5bzw.10 cm.,975,95.3,False,positional,,,Waffen,,
-BO0624_88783,546756,399,3,"30 Zund pulverflas che. Rund. Holz, eingelegt mit Bein und Kupferstiften (Mauresken),auf der Vorderseite in Kupfer getriebene Halbfigur eines Juinglings in Hochrelief. Italienisch. 16. Jahrh. Dm.15 cm. Tafel III",976,99.5,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88783,546755,398,329,mit Beineinlagen.Um 1600.Dm.12.5bzw.10 cm.,975,95.3,False,positional,,,Waffen,,Sec. XVII
+BO0624_88783,546756,399,3,"30 Zund pulverflas che. Rund. Holz, eingelegt mit Bein und Kupferstiften (Mauresken),auf der Vorderseite in Kupfer getriebene Halbfigur eines Juinglings in Hochrelief. Italienisch. 16. Jahrh. Dm.15 cm. Tafel III",976,99.5,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88783,546757,400,331,flammenformiger Klinge. L. 43 bzw.68 cm.,978,94.9,False,positional,,,Waffen,,
-BO0624_88783,546758,401,332,Bein graviert:Fratzenkopfe. Unvollstandig. 17. Jahrh. L. 63 cm. Lan ger Dolch. Griff Elfenbein und Horn. Griff ornamental graviert und,981,70.8,False,positional,,,OGGETTI VARI,,
+BO0624_88783,546758,401,332,Bein graviert:Fratzenkopfe. Unvollstandig. 17. Jahrh. L. 63 cm. Lan ger Dolch. Griff Elfenbein und Horn. Griff ornamental graviert und,981,70.8,False,positional,,,OGGETTI VARI,,Sec. XVII
 BO0624_88783,546759,402,333,vergoldet. Lederscheide. Kaukasus. L. 63 cm.,982,95.1,False,positional,,,Waffen,,
 BO0624_88783,546760,403,334,"valleriesabel,japanisches Schwert.18.19.Jahrh.",984,95.7,False,positional,,,Waffen,,
-BO0624_88783,546761,404,335,"- Drei Hir schf an ger. a) Hirschhorngriff. Geschlossener Griffbigel und Parierring. 17. Jahrh. b) Horngriff. Messingbeschlag, Scheide mit gravierter Klinge: Vivat Pandurund Besteck. 18. Jahrh. c) Horngriff. Geblaute Klinge, Scheide. Ende 18. Jahrh.",986,100.0,False,positional,,,Waffen,,
+BO0624_88783,546761,404,335,"- Drei Hir schf an ger. a) Hirschhorngriff. Geschlossener Griffbigel und Parierring. 17. Jahrh. b) Horngriff. Messingbeschlag, Scheide mit gravierter Klinge: Vivat Pandurund Besteck. 18. Jahrh. c) Horngriff. Geblaute Klinge, Scheide. Ende 18. Jahrh.",986,100.0,False,positional,,,Waffen,,Sec. XVII
 BO0624_88783,546762,405,336,"Funf Hirschfanger,zwei Degen. Graviert.(Einer mit Wappen und",987,96.7,False,positional,,,Waffen,,
-BO0624_88783,546763,406,337,"- silberbeschlagener Scheide,ein anderer von 1777.) 18.u. frihes 19. Jahrh.",989,100.0,False,positional,,,Waffen,,
+BO0624_88783,546763,406,337,"- silberbeschlagener Scheide,ein anderer von 1777.) 18.u. frihes 19. Jahrh.",989,100.0,False,positional,,,Waffen,,Sec. XIX
 BO0624_88783,546764,407,100,100,991,100.0,False,positional,,,Waffen,,
 BO0624_88783,546765,408,120,16,997,100.0,False,positional,,Scuola di Antwerp,Waffen,,
 BO0624_88783,546766,409,108,180,1001,100.0,False,positional,,,Waffen,,
@@ -412,35 +412,35 @@ BO0624_88783,546767,410,200,20/35,1005,100.0,False,positional,,,Waffen,,
 BO0624_88783,546768,411,10150,0S1,1009,100.0,False,positional,,,Waffen,,
 BO0624_88783,546769,412,300,300,1011,100.0,False,positional,,,Waffen,,
 BO0624_88783,546770,413,400,30,1017,100.0,False,positional,,,Waffen,,
-BO0624_88783,546771,414,338,"Drei Dolche. Eiserne Knaufe (einer geschnitten), drahtumwickelte Hulsen, nach abwarts gebogene Stangen, breite Klingen. Ende 16. Jahrh. Tafel X",1019,98.5,False,positional,,,Waffen,,
+BO0624_88783,546771,414,338,"Drei Dolche. Eiserne Knaufe (einer geschnitten), drahtumwickelte Hulsen, nach abwarts gebogene Stangen, breite Klingen. Ende 16. Jahrh. Tafel X",1019,98.5,False,positional,,,Waffen,,Sec. XVI
 BO0624_88783,546772,415,339,"- Drei Dolche. Verzierte Griffe, kurze Parierstangen mit Kugelenden, schmale Klingen. Tafel X",1021,100.0,False,positional,,,Waffen,,
-BO0624_88783,546773,416,340,"- Zwei Dolche. a) Kantiger Knauf, Huilse umwickelt, gravierte Klinge; b)profilierter Griff,geschnitten, dreiseitige Klinge. 17. Jahrh.L.45 u.35 cm.",1023,100.0,False,positional,,,Waffen,,
+BO0624_88783,546773,416,340,"- Zwei Dolche. a) Kantiger Knauf, Huilse umwickelt, gravierte Klinge; b)profilierter Griff,geschnitten, dreiseitige Klinge. 17. Jahrh.L.45 u.35 cm.",1023,100.0,False,positional,,,Waffen,,Sec. XVII
 BO0624_88783,546774,417,341,Zwei Dolche. Der eine mit silbernem Griff und gleicher Scheide mit Blumenmuster; der andere mit eingelegtem Beingriff und Messingscheide. Orient.L.30u.29 cm.,1024,98.7,False,positional,,,Waffen,,
 BO0624_88783,546775,418,342,Klinge mit Initialen.18. Jahrh.,1026,93.5,False,positional,,,Waffen,,
 BO0624_88783,546776,419,343,- Acht Galanteriedegen. Knauf und Stichblatt meist mit Eisenschnitt verziert.18. Jahrh.,1028,100.0,False,positional,,,Waffen,,
 BO0624_88783,546777,420,344,Zehn des gleichen. Die Stichblatter meist durchbrochen oder reliefiert.,1029,97.2,False,positional,,,Waffen,,
 BO0624_88783,546778,421,345,"Po ln i s c her Sabe l. Knauf fehlt, Holzhilse gerillt, gebogene Klinge,Leder-",1030,97.4,False,positional,,,OGGETTI IN PELLE,,
-BO0624_88783,546779,422,346,- durchlochertes Stichblatt;e) und f) mit gebogenen Abwehrstangen und Spangenkorb bzw.Handschutz.Ende 17. Jahrh.,1032,100.0,False,positional,,,Waffen,,
+BO0624_88783,546779,422,346,- durchlochertes Stichblatt;e) und f) mit gebogenen Abwehrstangen und Spangenkorb bzw.Handschutz.Ende 17. Jahrh.,1032,100.0,False,positional,,,Waffen,,Sec. XVII
 BO0624_88783,546780,423,347,"Bund Schlissel,zwei eiserne Kugelketten, einige Fragmente.",1034,96.6,False,positional,,,Waffen,,
 BO0624_88783,546781,424,348,"Vier S ch we rter. Eiserne Griffe,Parierstangen, Spangenkorbe.17. Jahrh.",1035,97.1,False,positional,,,Waffen,,
 BO0624_88783,546782,425,349,16./17.Jahrh.,1037,84.6,False,positional,,,Waffen,,
 BO0624_88783,546783,426,350,"Sch we r t. Gedrehter Eisenknauf,Lederhulse, gerade gedrehte Parierstangen",1038,97.3,False,positional,,,Waffen,,
-BO0624_88783,546784,427,351,"Span gen kor b sch wer t. Fruchtformiger Knauf, drahtumwickelte Huilse, gebogene Parierstange und Handschutz. Klinge mit Inschrift. Mitte 16. Jahrh.",1040,98.6,False,positional,,,Waffen,,
-BO0624_88783,546785,428,352,"Deu t sches Landsknec htsch wert. Gerippter Knauf in Rosettenform, Lederhilse,Hinterabwehrstange, doppeltes Stichblatt. Klinge mit Blutrinne. Marke: drei gekronte Kopfe.Lateinische Inschrift.Von Johannes Wundes, Solingen.Um 1600.L.92 cm. Tafel X",1042,99.2,False,positional,,,Waffen,,
+BO0624_88783,546784,427,351,"Span gen kor b sch wer t. Fruchtformiger Knauf, drahtumwickelte Huilse, gebogene Parierstange und Handschutz. Klinge mit Inschrift. Mitte 16. Jahrh.",1040,98.6,False,positional,,,Waffen,,Sec. XVI
+BO0624_88783,546785,428,352,"Deu t sches Landsknec htsch wert. Gerippter Knauf in Rosettenform, Lederhilse,Hinterabwehrstange, doppeltes Stichblatt. Klinge mit Blutrinne. Marke: drei gekronte Kopfe.Lateinische Inschrift.Von Johannes Wundes, Solingen.Um 1600.L.92 cm. Tafel X",1042,99.2,False,positional,,,Waffen,,Sec. XVII
 BO0624_88783,546786,429,353,"- Kurz s c h w ert. Kantiger Knauf, gerillte Huilse, gerade Abwehrstange. Spitz zulaufende Klinge, beidseitig geatzt: Justitia bzw.Fahnenschwinger und Ornament. 16.Jahrh. Tafel X",1044,100.0,False,positional,,,Waffen,,
-BO0624_88783,546787,430,354,"Sch w er t.(Hauswehr.) Beingriff mit schwarzen Arabesken eingelegt,gebogene Abwehrstangen. Klinge mit gebogener Spitze, Blumengravierung und altfranzosischer Inschrift. Um 1600. L.74,5 cm.",1045,98.9,False,positional,,,Waffen,,
+BO0624_88783,546787,430,354,"Sch w er t.(Hauswehr.) Beingriff mit schwarzen Arabesken eingelegt,gebogene Abwehrstangen. Klinge mit gebogener Spitze, Blumengravierung und altfranzosischer Inschrift. Um 1600. L.74,5 cm.",1045,98.9,False,positional,,,Waffen,,Sec. XVII
 BO0624_88783,546788,431,80100,90,1051,100.0,False,positional,,,Waffen,,
 BO0624_88783,546789,432,306,130,1055,100.0,False,positional,,,Waffen,,
 BO0624_88783,546790,433,150,150,1057,100.0,False,positional,,,Waffen,,
 BO0624_88783,546791,434,150,150,1059,100.0,False,positional,,,Waffen,,
-BO0624_88783,546792,435,80,"- 355 Zwei Schia vona-Schwerter. Kantiger Eisenknauf, gerippte Huilse, durchbrochener Korb. Klinge mit Kreuzmarke. Italien. Um 1600. L. 105 cm. Tafel X",1067,100.0,False,positional,,,Waffen,,
+BO0624_88783,546792,435,80,"- 355 Zwei Schia vona-Schwerter. Kantiger Eisenknauf, gerippte Huilse, durchbrochener Korb. Klinge mit Kreuzmarke. Italien. Um 1600. L. 105 cm. Tafel X",1067,100.0,False,positional,,,Waffen,,Sec. XVII
 BO0624_88783,546793,436,356,"Zwei des g leichen. Geschweifter Knauf mit Tierkopfrosette, gerippte",1068,97.1,False,positional,,,Waffen,,
 BO0624_88783,546794,437,357,Zwei des gleiche n. Kantiger Knauf mit Knopfen. Sonst wie Nr. 355.,1070,96.9,False,positional,,,Waffen,,
 BO0624_88783,546795,438,358,"- s Zwei des g leic hen. Knauf als Tierkopf gebildet bzw. kantig mit Rosette. Sonst wie Nr.355. Korb s c h we r t. Kantiger Knauf, drahtumwickelte Huilse, gegitterter durch-",1072,70.6,False,positional,,,Waffen,,
-BO0624_88783,546796,439,359,brochener Korb. Klinge mit drei Marken und Inschrift. 17. Jahrh.,1074,96.8,False,positional,,,Waffen,,
+BO0624_88783,546796,439,359,brochener Korb. Klinge mit drei Marken und Inschrift. 17. Jahrh.,1074,96.8,False,positional,,,Waffen,,Sec. XVII
 BO0624_88783,546797,440,360,rinne. 17.Jahrh.,1076,87.5,False,positional,,,Waffen,,
 BO0624_88783,546798,441,361,"- Korbs ch wert. Griff ahnlich wie bei Nr. 360. Holzhilse, beschadigte Klinge. Ebenso.",1078,100.0,False,positional,,,Waffen,,
-BO0624_88783,546799,442,362,"Zwei K o rb de ge n. Flacher bzw. kugeliger Knauf, S-formig gebogene Parierstangen, Parierring mit Rankenwerk graviert; gravierte Klingen. 17. Jahrh. Tafel X",1079,98.7,False,positional,,,Waffen,,
+BO0624_88783,546799,442,362,"Zwei K o rb de ge n. Flacher bzw. kugeliger Knauf, S-formig gebogene Parierstangen, Parierring mit Rankenwerk graviert; gravierte Klingen. 17. Jahrh. Tafel X",1079,98.7,False,positional,,,Waffen,,Sec. XVII
 BO0624_88783,546800,443,363,"Drei Spangenkorbrapiere. Kantige Eisenknaufe, drahtumwickelte Hulsen, aus gebogenen Stangen gebildete Korbe mit geraden Abwehrstangen. 17.Jahrh.",1080,98.6,False,positional,,,Waffen,,
 BO0624_88783,546801,444,364,Zwei desgleichen. Mit gebogenen Abwehrstangen. Sonst ahnlich wie Tafel X Nr.363.,1081,97.5,False,positional,,,Waffen,,
 BO0624_88783,546802,445,365,"Zwei desgleichen. Kantige Eisenknaufe. Das eine mit Holzhilse, gebogenen Stangen und Stichblatt in Muschelform; das andere mit geraden Stangen, Eselshuf und doppelter,durchbrochener Glocke. Tafel X",1082,99.0,False,positional,,,Waffen,,
@@ -448,59 +448,59 @@ BO0624_88783,546803,446,366,"Korb de gen. Birnformiger eiserner Knauf, Lederhils
 BO0624_88783,546804,447,367,"Korb de gen. Eisenknauf, Lederhuilse, grofer Korb mit gebogener Parier-",1085,97.1,False,positional,,,Waffen,,
 BO0624_88783,546805,448,368,"Sieben Valonen: (sog. Schweden-Degen). Vorwiegend eiserne Knaufe,drahtumwickelte Huilsen,alle mit Hinterabwehrstangen und reliefier-",1087,98.4,False,positional,,,Waffen,,
 BO0624_88783,546806,449,369,"- Vier des g leichen. Stichblatter durchlochert, Holz oder Lederhilsen. Sonst ahnlich wie Nr. 368.",1090,100.0,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88783,546807,450,370,"verschiedene Huilsen,meist eiserne Knaufe. 17. Jahrh.",1092,96.2,False,positional,,,Waffen,,
-BO0624_88783,546808,451,371,"Pappenheimer Kappe. Mit Kamm, geschwarzt mit blanken Streifen. Deutsch. Ende 16. Jahrh. Tafel III",1093,97.8,False,positional,,,Waffen,,
+BO0624_88783,546807,450,370,"verschiedene Huilsen,meist eiserne Knaufe. 17. Jahrh.",1092,96.2,False,positional,,,Waffen,,Sec. XVII
+BO0624_88783,546808,451,371,"Pappenheimer Kappe. Mit Kamm, geschwarzt mit blanken Streifen. Deutsch. Ende 16. Jahrh. Tafel III",1093,97.8,False,positional,,,Waffen,,Sec. XVI
 BO0624_88783,546809,452,372,Desgleichen. Tafel III,1094,91.3,False,positional,,,Waffen,,
 BO0624_88783,546810,453,160,50,1097,100.0,False,positional,,Scuola di Dusseldorf,Waffen,,
 BO0624_88783,546811,454,150,20,1103,100.0,False,positional,,,Waffen,,
-BO0624_88783,546812,455,374,- 4Morion. Mit blankem Kamm und Streifen. Ende 16. Jahrh. Tafel III,1107,100.0,False,positional,,,Waffen,,
+BO0624_88783,546812,455,374,- 4Morion. Mit blankem Kamm und Streifen. Ende 16. Jahrh. Tafel III,1107,100.0,False,positional,,,Waffen,,Sec. XVI
 BO0624_88783,546813,456,375,getragen.),1109,80.0,False,positional,,,Waffen,,
-BO0624_88783,546814,457,377,"Halskragens, zwei Achselstucke. Ende 18. Jahrh.",1111,95.6,False,positional,,,Waffen,,
+BO0624_88783,546814,457,377,"Halskragens, zwei Achselstucke. Ende 18. Jahrh.",1111,95.6,False,positional,,,Waffen,,Sec. XVIII
 BO0624_88783,546815,458,378,Eisernes Bigeleisen. Geatzt: Tierhatzen. 17.18. Jahrh. H. 20 cm. Dabei alte Kuhglocke aus Bronze. H. 19 cm.,1115,98.0,False,title_direct,,,Bronzen,,
 BO0624_88783,546816,459,379,Gotische Hangeuhr. Eisen. Das Gehause rechteckig; bemalt mit Ma- /32,1119,94.5,False,positional,EISEN CHARLES,,Metallarbeiten,,
 BO0624_88783,546817,460,380,H a n geu hr. Kupfer versilbert. Umrahmung mit getriebenem Rankenwerk.,1124,97.1,False,positional,,,Metallarbeiten,,
-BO0624_88783,546818,461,381,"- Deutsch.Anfang 18. Jahrh.H.34,B.28 cm.",1126,100.0,False,positional,,,Metallarbeiten,,
-BO0624_88783,546819,462,125,"- 382 Ein Paar Salz gefafe. Kupferemail. Roter Fond, goldgeranderte Reserven mit bunten landlichen Szenen. England. 18. Jahrh. H. 3 cm.",1129,100.0,False,positional,,,Metallarbeiten,,
-BO0624_88783,546820,463,383,- Kupferemailmalerei: Ecce homo. In der Art von Limoges. 17. Jahrh. (?). 26X19 cm.-Dabei zwei Medaillons. Kupferemail: antike Kopfe. 19. Jahrh. Schildpattrahmung.,1131,100.0,False,positional,,,Metallarbeiten,,
-BO0624_88783,546821,464,384,"- Deckelk ru g. Kupfer getrieben, gedrehte Bossen. Deutsch. 17. Jahrh. H. 26 cm.",1133,100.0,False,positional,,,Metallarbeiten,,
+BO0624_88783,546818,461,381,"- Deutsch.Anfang 18. Jahrh.H.34,B.28 cm.",1126,100.0,False,positional,,,Metallarbeiten,,Sec. XVIII
+BO0624_88783,546819,462,125,"- 382 Ein Paar Salz gefafe. Kupferemail. Roter Fond, goldgeranderte Reserven mit bunten landlichen Szenen. England. 18. Jahrh. H. 3 cm.",1129,100.0,False,positional,,,Metallarbeiten,,Sec. XVIII
+BO0624_88783,546820,463,383,- Kupferemailmalerei: Ecce homo. In der Art von Limoges. 17. Jahrh. (?). 26X19 cm.-Dabei zwei Medaillons. Kupferemail: antike Kopfe. 19. Jahrh. Schildpattrahmung.,1131,100.0,False,positional,,,Metallarbeiten,,Sec. XVII
+BO0624_88783,546821,464,384,"- Deckelk ru g. Kupfer getrieben, gedrehte Bossen. Deutsch. 17. Jahrh. H. 26 cm.",1133,100.0,False,positional,,,Metallarbeiten,,Sec. XVII
 BO0624_88783,546822,465,385,Dec kelk a n ne. Kupfer. Rand mit Ritzornament. Deutsch. 16.17. Jahrh. H.26cm.,1134,97.3,False,positional,,,Metallarbeiten,,
-BO0624_88783,546823,466,1403861,"Kohlenbecken. (Bettwarmer.) Kupfer. Der Deckel reliefiert mit Vogel und Frichten. Holzgriff mit Beineinlagen. 18. Jahrh. Dm.27,5 cm.",1135,96.8,False,positional,,,Metallarbeiten,,
-BO0624_88783,546824,467,40,"- 387 Gro fes kupfer nes Deckelgefaf. Getrieben: Grofe barocke Blumenranken; zwei Wappen, eines davon Nirnberger und der hl. Hubertus. 17. Jahrh. H.67cm.",1139,100.0,False,positional,,,Metallarbeiten,,
-BO0624_88783,546825,468,388,"Zwei Dosen. Kupfer versilbert. Getrieben. 18. Jahrh. Rund Dm.7 cm bzw.oval L.11,5 cm.",1140,97.5,False,positional,,,Metallarbeiten,,
-BO0624_88783,546826,469,389,Se ch s Kup fer ge f a fe. a) Schraubflasche. 18. Jahrh. H. 26 cm.b) Deckelkanne. Ebenso. H. 24 cm.c) Kannchen. Ebenso. H.12 cm.d) Teekessel. Um 1800. H.25 cm.e) Teekessel mit Untersatz.Friesisch.1845.H.26 cm.f) Runde Dose. Graviert:Hirsch und Jahrzahl 1716. Dm.10 cm.,1141,99.2,False,positional,,,Metallarbeiten,,
+BO0624_88783,546823,466,1403861,"Kohlenbecken. (Bettwarmer.) Kupfer. Der Deckel reliefiert mit Vogel und Frichten. Holzgriff mit Beineinlagen. 18. Jahrh. Dm.27,5 cm.",1135,96.8,False,positional,,,Metallarbeiten,,Sec. XVIII
+BO0624_88783,546824,467,40,"- 387 Gro fes kupfer nes Deckelgefaf. Getrieben: Grofe barocke Blumenranken; zwei Wappen, eines davon Nirnberger und der hl. Hubertus. 17. Jahrh. H.67cm.",1139,100.0,False,positional,,,Metallarbeiten,,Sec. XVII
+BO0624_88783,546825,468,388,"Zwei Dosen. Kupfer versilbert. Getrieben. 18. Jahrh. Rund Dm.7 cm bzw.oval L.11,5 cm.",1140,97.5,False,positional,,,Metallarbeiten,,Sec. XVIII
+BO0624_88783,546826,469,389,Se ch s Kup fer ge f a fe. a) Schraubflasche. 18. Jahrh. H. 26 cm.b) Deckelkanne. Ebenso. H. 24 cm.c) Kannchen. Ebenso. H.12 cm.d) Teekessel. Um 1800. H.25 cm.e) Teekessel mit Untersatz.Friesisch.1845.H.26 cm.f) Runde Dose. Graviert:Hirsch und Jahrzahl 1716. Dm.10 cm.,1141,99.2,False,positional,,,Metallarbeiten,,Sec. XVIII
 BO0624_88783,546827,470,30,90,1146,100.0,False,positional,,,Metallarbeiten,,
 BO0624_88783,546828,471,126,30,1150,100.0,False,positional,,,Metallarbeiten,,
 BO0624_88783,546829,472,40,<!-- image -->,1154,100.0,False,positional,,,Metallarbeiten,,
-BO0624_88783,546830,473,390,Ein Paar Tra g butten. Kupfer. 18. oder 1. Halfte 19. Jahrh. H. 85 cm.,1156,96.9,False,positional,,,Metallarbeiten,,
-BO0624_88783,546831,474,391,"- Ein Paar Stan dleuchter. Kupfer vergoldet, gerillt und ornamentiert. Anfang 19. Jahrh. H. 32 cm.",1159,100.0,False,positional,,,Metallarbeiten,,
-BO0624_88783,546832,475,392,"Ge schla ge ne s Me s sing becken. Fond: Adam und Eva, Rand: gepunztes Ornament. Nirnberg. 16. Jahrh. H.8,Dm.25 cm. Tafel III",1160,98.3,False,positional,,,Metallarbeiten,,
+BO0624_88783,546830,473,390,Ein Paar Tra g butten. Kupfer. 18. oder 1. Halfte 19. Jahrh. H. 85 cm.,1156,96.9,False,positional,,,Metallarbeiten,,Sec. XIX
+BO0624_88783,546831,474,391,"- Ein Paar Stan dleuchter. Kupfer vergoldet, gerillt und ornamentiert. Anfang 19. Jahrh. H. 32 cm.",1159,100.0,False,positional,,,Metallarbeiten,,Sec. XIX
+BO0624_88783,546832,475,392,"Ge schla ge ne s Me s sing becken. Fond: Adam und Eva, Rand: gepunztes Ornament. Nirnberg. 16. Jahrh. H.8,Dm.25 cm. Tafel III",1160,98.3,False,positional,,,Metallarbeiten,,Sec. XVI
 BO0624_88783,546833,476,393,"16.Jahrh.Dm.31,H.5cm.",1162,90.9,False,positional,,,Metallarbeiten,,
-BO0624_88783,546834,477,394,Geschlagenes Messingbecken. Im Spiegel: das Gotteslamm mit Kreuzesfahne; Rand: mit gepunzten Rosetten. Nurnberg. Anfang 16. Jahrh. Tafel III,1163,98.5,False,positional,,Scuola di Norimberga,Metallarbeiten,,
-BO0624_88783,546835,478,395,"- Kleine Sch i ssel, Backform. Messing. Die eine geschlagen: Kind mit Blumenzweigen. Nuirnberg. 16.Jahrh. Die Gugelhupfform:mit Bossen und Jahrzahl 1680.Dm.12u.12,5cm.",1166,100.0,False,positional,,,Metallarbeiten,,
-BO0624_88783,546836,479,396,"Z w ei Ta ba k s d o s e n. Messing bzw. Messing und Kupfer, graviert. Hollandisch. 18. Jahrh.",1167,97.8,False,positional,,,Metallarbeiten,,
+BO0624_88783,546834,477,394,Geschlagenes Messingbecken. Im Spiegel: das Gotteslamm mit Kreuzesfahne; Rand: mit gepunzten Rosetten. Nurnberg. Anfang 16. Jahrh. Tafel III,1163,98.5,False,positional,,Scuola di Norimberga,Metallarbeiten,,Sec. XVI
+BO0624_88783,546835,478,395,"- Kleine Sch i ssel, Backform. Messing. Die eine geschlagen: Kind mit Blumenzweigen. Nuirnberg. 16.Jahrh. Die Gugelhupfform:mit Bossen und Jahrzahl 1680.Dm.12u.12,5cm.",1166,100.0,False,positional,,,Metallarbeiten,,Sec. XVII
+BO0624_88783,546836,479,396,"Z w ei Ta ba k s d o s e n. Messing bzw. Messing und Kupfer, graviert. Hollandisch. 18. Jahrh.",1167,97.8,False,positional,,,Metallarbeiten,,Sec. XVIII
 BO0624_88783,546837,480,397,"Funf Mes sing leuchter. Balusterschaft auf hohem Glockenfuf. Deutsch. Jahrh. H. 19 (3 Stick) u.9,5 cm.",1168,80.5,False,positional,,,Metallarbeiten,,
-BO0624_88783,546838,481,398,"Teekessel und zwei Leuchter. Messing. 19. Jahrh. Holland. 18.19. Jahrh. H. 28, 14 u. 7 cm.-Dazu eine bronzene und zwei eiserne Ollampen. 18. Jahrh.",1170,98.5,False,title_direct,,,LAMPADE,,
+BO0624_88783,546838,481,398,"Teekessel und zwei Leuchter. Messing. 19. Jahrh. Holland. 18.19. Jahrh. H. 28, 14 u. 7 cm.-Dazu eine bronzene und zwei eiserne Ollampen. 18. Jahrh.",1170,98.5,False,title_direct,,,LAMPADE,,Sec. XIX
 BO0624_88783,546839,482,399,"F unf kleine Mes sin g gerate: Sanduhrgestell, Dose, zwei Puppenkan-",1171,97.0,False,positional,,,Metallarbeiten,,
 BO0624_88783,546840,483,400,Huilier.,1173,77.8,False,positional,,,Metallarbeiten,,
-BO0624_88783,546841,484,401,"- Zwei Bro n ze m or ser. Mit Horizontalrippen. Einer mit Stossel. 17. Jahrh. H.12,5u.13cm.",1176,100.0,False,positional,,,Metallarbeiten,,
-BO0624_88783,546842,485,402,Sonnenuhr von Nicolaus Rugendas Augsburg. Achteckig. Vergoldete Bronze. Rickwarts bez. 18. Jahrh. Dm. 6.5 cm.-Dabei Munzwage in Kastchen. 18. Jahrh. Unvollstandig.,1177,98.7,False,title_direct,RUGENDAS GEORG PHILIPP,,SCATOLE,,
+BO0624_88783,546841,484,401,"- Zwei Bro n ze m or ser. Mit Horizontalrippen. Einer mit Stossel. 17. Jahrh. H.12,5u.13cm.",1176,100.0,False,positional,,,Metallarbeiten,,Sec. XVII
+BO0624_88783,546842,485,402,Sonnenuhr von Nicolaus Rugendas Augsburg. Achteckig. Vergoldete Bronze. Rickwarts bez. 18. Jahrh. Dm. 6.5 cm.-Dabei Munzwage in Kastchen. 18. Jahrh. Unvollstandig.,1177,98.7,False,title_direct,RUGENDAS GEORG PHILIPP,,SCATOLE,,Sec. XVIII
 BO0624_88783,546843,486,403,"Drei Bron zearbeiten:Kleiderhaken,Fabeltier als Leuchter, kniender Engel. 18.u.19.Jahrh. H.5, 8u.9 cm.",1178,98.0,False,title_direct,,,LAMPADE,,
-BO0624_88783,546844,487,404,"Kon volut. Metallarbeiten: Filigrankreuz,Anhanger,Pelikan mit Kruzifix, Rosenkranzkugeln usw. Meist 18. Jahrh.",1179,98.1,False,title_direct,,,Metallarbeiten,,
-BO0624_88783,546845,488,405,"Seladon v a se. Bauchig, blafgruin. Dekor in versenktem Relief: Maanderund andere Ornamente. China. 18. Jahrh. Goldbronzemontierung des Spatempire. H.23 cm.",1183,98.6,False,positional,,,Porzellan; Bronzen,,
+BO0624_88783,546844,487,404,"Kon volut. Metallarbeiten: Filigrankreuz,Anhanger,Pelikan mit Kruzifix, Rosenkranzkugeln usw. Meist 18. Jahrh.",1179,98.1,False,title_direct,,,Metallarbeiten,,Sec. XVIII
+BO0624_88783,546845,488,405,"Seladon v a se. Bauchig, blafgruin. Dekor in versenktem Relief: Maanderund andere Ornamente. China. 18. Jahrh. Goldbronzemontierung des Spatempire. H.23 cm.",1183,98.6,False,positional,,,Porzellan; Bronzen,,Sec. XVIII
 BO0624_88783,546846,489,50,##,1188,100.0,False,positional,,,Porzellan; Bronzen,,
 BO0624_88783,546847,490,130,lao,1192,100.0,False,positional,,,Porzellan; Bronzen,,
 BO0624_88783,546848,491,201,200,1196,100.0,False,positional,,,Porzellan; Bronzen,,
 BO0624_88783,546849,492,406,"Eng hal s krug. Blaumalerei: Drei Felder mit Blumenstauden, getrennt durch Bander mit Spiralornament, Hals mit Bluitenstaude. China. Ende 17.Jahrh. Europaischer Silberdeckel. Anf.18. Jahrh. H.25 cm.",1198,98.9,False,positional,HALS DIRK,,Porzellan; Bronzen,,
-BO0624_88783,546850,493,407,"Teller. Blaumalerei: Spiegel mit 13 radial angeordneten Feldern mit Bluten, entsprechende Einteilung des Randes.Blaumarke:Gluckssymbol.China. 1.Halfte 18. Jahrh. Stick am Rand repariert. Europaischer silberner Traghenkel. Rokoko.Dm.27.5 cm.",1199,99.1,False,positional,,,PIATTI,,
+BO0624_88783,546850,493,407,"Teller. Blaumalerei: Spiegel mit 13 radial angeordneten Feldern mit Bluten, entsprechende Einteilung des Randes.Blaumarke:Gluckssymbol.China. 1.Halfte 18. Jahrh. Stick am Rand repariert. Europaischer silberner Traghenkel. Rokoko.Dm.27.5 cm.",1199,99.1,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_88783,546851,494,408,"- Platte,finf Teller.Blaumalerei:Blumenstauden,Ornamente. China. Dm.31 u.23cm.Plattedefekt.",1201,100.0,False,positional,,,PIATTI,,
 BO0624_88783,546852,495,409,stauden.China.Dm.34 cm.,1203,91.7,False,positional,,,Porzellan; Bronzen,,
-BO0624_88783,546853,496,410,Vier Teller. Bemalt in Unterglasurblau und den Emailfarben der griinen Familiemit Phonix und Drachen in Landschaft. China. 18. Jahrh. Dm.23 cm. Dabei eine Vase mit Blaumalerei und zwei kleinen Vasen mit Buntmalerei. Beschadigt.,1204,99.1,False,positional,,,PIATTI,,
-BO0624_88783,546854,497,411,"Ein Paar Deckelvasen. Bauchig. Bemalt in den Emailfarben der ,famille vertemit dichten Ranken mit grofen runden Bliten. China. 18. Jahrh.",1205,98.5,False,positional,,,Porzellan; Bronzen,,
+BO0624_88783,546853,496,410,Vier Teller. Bemalt in Unterglasurblau und den Emailfarben der griinen Familiemit Phonix und Drachen in Landschaft. China. 18. Jahrh. Dm.23 cm. Dabei eine Vase mit Blaumalerei und zwei kleinen Vasen mit Buntmalerei. Beschadigt.,1204,99.1,False,positional,,,PIATTI,,Sec. XVIII
+BO0624_88783,546854,497,411,"Ein Paar Deckelvasen. Bauchig. Bemalt in den Emailfarben der ,famille vertemit dichten Ranken mit grofen runden Bliten. China. 18. Jahrh.",1205,98.5,False,positional,,,Porzellan; Bronzen,,Sec. XVIII
 BO0624_88783,546855,498,50,60,1210,100.0,False,positional,,Scuola di Monaco,Porzellan; Bronzen,,
 BO0624_88783,546856,499,100,"- 412 Ein Paar Deckeltopfe. Schokoladenbrauner Fond, vielpassige Reserven mit Blumenzweigen in Farben der .famille rose. China. 18.Jahrh. H.18cm.",1214,100.0,False,positional,,,Porzellan; Bronzen,,
-BO0624_88783,546857,500,413,1125,1217,100.0,False,positional,,,Porzellan; Bronzen,,
+BO0624_88783,546857,500,413,1125,1217,100.0,False,positional,,,Porzellan; Bronzen,,Sec. XII
 BO0624_88783,546858,501,30,141/105,1221,100.0,False,positional,,,Porzellan; Bronzen,,
-BO0624_88783,546859,502,23,"- Fi nfteiliger Va sen satz. Bauchig. Drei mit Deckel, zwei Flotenform. Schokoladebrauner Fond, Reserven mit Blumenstauden in den Emailfarben der famille rose. China. 18. Jahrh. H. 28 u.24 cm. Zwei Deckel gekittet.",1225,100.0,False,positional,,,Porzellan; Bronzen,,
+BO0624_88783,546859,502,23,"- Fi nfteiliger Va sen satz. Bauchig. Drei mit Deckel, zwei Flotenform. Schokoladebrauner Fond, Reserven mit Blumenstauden in den Emailfarben der famille rose. China. 18. Jahrh. H. 28 u.24 cm. Zwei Deckel gekittet.",1225,100.0,False,positional,,,Porzellan; Bronzen,,Sec. XVIII
 BO0624_88783,546860,503,414,- Wan dblumenhalter. Bemalt nach europaischer Art mit Wappen und Blumenstraufen in bunten Emailfarben. China. Compagnie des Indes.2. Halfte 18.Jahrh.H.16 cm.,1227,100.0,False,positional,,,Porzellan; Bronzen,,
 BO0624_88783,546861,504,415,Sec h s Teller. Mit buntem europaischem Blumenmuster bemalt. Compagnie des Indes.Ende 18.Jahrh. Dm.22.5 cm.,1228,98.1,False,positional,,,PIATTI,,
 BO0624_88783,546862,505,416,"Drei In g wer topfe. Weife gespringelte Glasur mit blauen Flecken. H.12 u.16 cm. Zwei ohne Deckel, einer nicht zugehorig.",1229,98.3,False,title_direct,,,Glas,,
@@ -527,11 +527,11 @@ BO0624_88783,546882,525,426,"- Be te n der Prie s ter. Eisen. Sitzend, mit Zepte
 BO0624_88783,546883,526,427,Reich ornamentierte Ristung. China. H. 26 cm.,1288,95.3,False,positional,,,Porzellan; Bronzen,,
 BO0624_88783,546884,527,4282,Japan.H.12 cm.,1290,83.9,False,positional,,,Porzellan; Bronzen,,
 BO0624_88783,546885,528,429,"b) Drei kleine Vasen mit Reliefdekor. Japan. H.13,11,10 cm. ## Leder- und Holzarbeiten.",1291,80.3,False,title_direct,,,Leder- und Holzarbeiten,,
-BO0624_88783,546886,529,430,"Gotisches Lederkastchen. Geschnitten und gepunzt: Weinlaubranken, Blattwerk. Altes eisernes Schlof und Beschlag. Deutsch. Um 1500. Tafel III 6,5X16X8cm.",1299,98.6,False,positional,,,Leder- und Holzarbeiten,,
+BO0624_88783,546886,529,430,"Gotisches Lederkastchen. Geschnitten und gepunzt: Weinlaubranken, Blattwerk. Altes eisernes Schlof und Beschlag. Deutsch. Um 1500. Tafel III 6,5X16X8cm.",1299,98.6,False,positional,,,Leder- und Holzarbeiten,,Sec. XVI
 BO0624_88783,546887,530,431,"VerschlieBbar.16.17.Jahrh.25X34,5X34,5cm.",1301,95.2,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546888,531,432,runde Lederschachtel. Ebenso. Dm.9 cm.,1303,94.6,False,positional,,,Leder- und Holzarbeiten,,
-BO0624_88783,546889,532,433,"3Le de rne Ta ba k s do se. Achteckig. GepreBtes Rankenornament mit Gold, Grin und Rot. Inschrift: ,Vivat Canaster""usw. Deutsch. Anfang 18. Jahrh. 13,5X7 cm.-Dabei zwei Lederschachteln.a) mit Goldpressung;b) mit rotem Deckel; L. 14 u. 9 cm;ein Elfenbeinblock in Lederetui und drei Etuis,18. Jahrh.",1304,99.3,False,positional,,,Leder- und Holzarbeiten,,
-BO0624_88783,546890,533,434,"Mangelbrett von 1685. In Reliefschnitzerei: die Jahrzahl, Engelskopf, Kruzifix mit Assistenzfiguren, Akanthuslaub. Wohl Rheinisch. L. 63 cm.",1305,98.5,False,positional,,,Leder- und Holzarbeiten,,
+BO0624_88783,546889,532,433,"3Le de rne Ta ba k s do se. Achteckig. GepreBtes Rankenornament mit Gold, Grin und Rot. Inschrift: ,Vivat Canaster""usw. Deutsch. Anfang 18. Jahrh. 13,5X7 cm.-Dabei zwei Lederschachteln.a) mit Goldpressung;b) mit rotem Deckel; L. 14 u. 9 cm;ein Elfenbeinblock in Lederetui und drei Etuis,18. Jahrh.",1304,99.3,False,positional,,,Leder- und Holzarbeiten,,Sec. XVIII
+BO0624_88783,546890,533,434,"Mangelbrett von 1685. In Reliefschnitzerei: die Jahrzahl, Engelskopf, Kruzifix mit Assistenzfiguren, Akanthuslaub. Wohl Rheinisch. L. 63 cm.",1305,98.5,False,positional,,,Leder- und Holzarbeiten,,Sec. XVII
 BO0624_88783,546891,534,435,nisch.18.Jahrh.L.55cm.,1307,91.3,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546892,535,30,20,1310,100.0,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546893,536,34,2548,1314,100.0,False,positional,,,Leder- und Holzarbeiten,,
@@ -541,19 +541,19 @@ BO0624_88783,546896,539,20,／,1322,0.0,False,positional,,,Leder- und Holzarbeit
 BO0624_88783,546897,540,1544,105,1326,100.0,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546898,541,60,/105,1328,66.7,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546899,542,30,/50,1332,57.1,False,positional,,Scuola di Dusseldorf,Leder- und Holzarbeiten,,
-BO0624_88783,546900,543,436,"- Nahkis sen. Aufklappbar. Im Innern zwei Facher mit Wismuthmalerei: bunte Blumen auf gelbem und schwarzem Grund, Monogramm Jesu u. Mariae und 1685.Deutsch. 1685. 32X18,5cm.",1337,100.0,False,positional,,,Leder- und Holzarbeiten,,
+BO0624_88783,546900,543,436,"- Nahkis sen. Aufklappbar. Im Innern zwei Facher mit Wismuthmalerei: bunte Blumen auf gelbem und schwarzem Grund, Monogramm Jesu u. Mariae und 1685.Deutsch. 1685. 32X18,5cm.",1337,100.0,False,positional,,,Leder- und Holzarbeiten,,Sec. XVII
 BO0624_88783,546901,544,437,"Drei Schachteln. Bemalt in Gold und Rot, zwei sternformig. a) mit stillender Madonna und Blumen,Dm. 12,5 cm;b) mit Rankenornament,Dm. 17,5 cm; c) achteckig,mit Blumenkorb,5X12,5X8 cm.Deutsch. 18.Jahrh.",1338,99.0,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546902,545,438,"Vier Schachteln. a) und b) oval, bunt bemalt; die grofere bemalt, die andere mit Blumen, L.49 bzw.31 cm. c) und d) geschnitzt; L. 13,5 bzw.7 cm. Dabei bemalter Holzleuchter.H. 23 cm.",1339,98.8,False,positional,,,Leder- und Holzarbeiten,,
-BO0624_88783,546903,546,439,"Kleine Vitrine. (Reliquienbehalter.) Geschweift. Holz, geschnitzt und vergoldet. Suiddeutsch.Um 1750.H.95,B.49 cm.",1340,98.1,False,positional,,,Leder- und Holzarbeiten,,
+BO0624_88783,546903,546,439,"Kleine Vitrine. (Reliquienbehalter.) Geschweift. Holz, geschnitzt und vergoldet. Suiddeutsch.Um 1750.H.95,B.49 cm.",1340,98.1,False,positional,,,Leder- und Holzarbeiten,,Sec. XVIII
 BO0624_88783,546904,547,440,"Kabinettka s tchen. Maserholz. Zweiturig, schwarz mit Flammleisten. Fullungen der inneren Schubladen. 17.18. Jahrh. H. 35,5, B.22.5, T. 14 cm.— Dabei Rahmen fur ein Heiligenbild. In gleicher Art. Lichtmaf. 18,5X12,5 cm.",1341,99.0,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546905,548,441,"Min zschran kchen. Schwarz mit Flammleisten. Barockstil. (35 Schubladen mit festgemachten Gipsabgissen nach Muinzen.) H. 67, B. 49, T. 33 cm. ——",1342,98.5,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546906,549,442,Schreibkasten. tTraghenkel. Schwarz mit Perlmuttereinlagen.,1344,96.6,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546907,550,443,stickerei. Suddeutsch.18.Jahrh.H.25 u.24 cm.,1347,95.5,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546908,551,444,"- Modell eines zweit irigen Schran kes. Mit Schubladen und Schreinerarchitektur. Barockstil. H. 52, B.32, T. 15 cm.",1349,100.0,False,positional,,,Leder- und Holzarbeiten,,
-BO0624_88783,546909,552,445,"- Drei Wa n d k o n s ole n. a) Mit sieben Etageren,reiche Rocaillenschnitzerei und Kopf. Fassung Weif mit Gold （ibergangen). Suiddeutsch. Um 1750. H. 55 cm. b) Ein Paar kleine geschnitzte Konsolen. Goldfassung spater. 2.Halfte 18. Jahrh.H.12 cm.",1351,100.0,False,positional,,,Leder- und Holzarbeiten,,
-BO0624_88783,546910,553,446,"- Spiegelra hme n von 1614. Architektonischer Aufbau: Sockel mit Schublade (erganzte) Saulen, Architrav mit Jahrzahl, gebrochener Giebel. Verschiedene Holzer, eingelegt. Suddeutsche Spatrenaissance. H.51,B.41 cm. Flache des (neuen) Spiegels 20,5X15 cm.",1353,100.0,False,positional,,,Leder- und Holzarbeiten,,
-BO0624_88783,546911,554,447,"Drei Ra h m e n. Rechteckig. Holz geschnitzt, vergoldet. a) Rocaillen und Blumen. Siddeutsch. Um 1750. Lichtmaf 28X22 cm. b) ein Paar mit Perlstab und Girlanden.Um 1780. Lichtmaf 18X12 cm.",1354,98.9,False,positional,,,Leder- und Holzarbeiten,,
-BO0624_88783,546912,555,448,- Ein Paa r o va le Ra h m e n. Holz geschnitzt und vergoldet. Reiches Akanthuslaub in symmetrischer Anordnung. Suiddeutsch Oberpfalz?).Um 1700. Lichtmaf 27X20.5cm.,1356,100.0,False,positional,,,Leder- und Holzarbeiten,,
+BO0624_88783,546909,552,445,"- Drei Wa n d k o n s ole n. a) Mit sieben Etageren,reiche Rocaillenschnitzerei und Kopf. Fassung Weif mit Gold （ibergangen). Suiddeutsch. Um 1750. H. 55 cm. b) Ein Paar kleine geschnitzte Konsolen. Goldfassung spater. 2.Halfte 18. Jahrh.H.12 cm.",1351,100.0,False,positional,,,Leder- und Holzarbeiten,,Sec. XVIII
+BO0624_88783,546910,553,446,"- Spiegelra hme n von 1614. Architektonischer Aufbau: Sockel mit Schublade (erganzte) Saulen, Architrav mit Jahrzahl, gebrochener Giebel. Verschiedene Holzer, eingelegt. Suddeutsche Spatrenaissance. H.51,B.41 cm. Flache des (neuen) Spiegels 20,5X15 cm.",1353,100.0,False,positional,,,Leder- und Holzarbeiten,,Sec. XVII
+BO0624_88783,546911,554,447,"Drei Ra h m e n. Rechteckig. Holz geschnitzt, vergoldet. a) Rocaillen und Blumen. Siddeutsch. Um 1750. Lichtmaf 28X22 cm. b) ein Paar mit Perlstab und Girlanden.Um 1780. Lichtmaf 18X12 cm.",1354,98.9,False,positional,,,Leder- und Holzarbeiten,,Sec. XVIII
+BO0624_88783,546912,555,448,- Ein Paa r o va le Ra h m e n. Holz geschnitzt und vergoldet. Reiches Akanthuslaub in symmetrischer Anordnung. Suiddeutsch Oberpfalz?).Um 1700. Lichtmaf 27X20.5cm.,1356,100.0,False,positional,,,Leder- und Holzarbeiten,,Sec. XVIII
 BO0624_88783,546913,556,449,Rechteckiger Rahmen. Schwarz. Mit Flammleisten.17. Jahrh. 41X36 cm.—Darin Totenkopf-Stilleben.,1357,97.8,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546914,557,1,/20,1361,66.7,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546915,558,4042,G0180,1365,100.0,False,positional,,,Leder- und Holzarbeiten,,
@@ -562,27 +562,27 @@ BO0624_88783,546917,560,205,30/32,1373,100.0,False,positional,,,Leder- und Holza
 BO0624_88783,546918,561,30,"- 451 Drei Ra h m en. Holz geschnitzt,vergoldet. Akanthuslaub. Ein Paar in der",1377,100.0,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546919,562,452,Drei ovale Rahmen. Ebenso. Lichtmaf 24.5X19 cm.,1379,95.7,False,positional,,,Leder- und Holzarbeiten,,
 BO0624_88783,546920,563,453,"Sieben Bilderrahme n. Holz, vergoldet oder braun. Einer rundbogig. X33 cm;die anderen rechteckig 47X38 cm bis 23X20 cm.",1380,68.9,False,positional,,,Leder- und Holzarbeiten,,
-BO0624_88783,546921,564,454,Empirekonsole. NuRholz mit schwarzem Holz. Anfang 19. Jahrh. 32×53×21cm.,1382,97.1,False,positional,,,Leder- und Holzarbeiten,,
-BO0624_88783,546922,565,455,Z w ei S pa zie r s t oc ke. Elfenbein. Mit Krucke bzw.Knopf. Ende 18. Jahrh.,1386,97.3,False,positional,,,Spazierltodke,,
+BO0624_88783,546921,564,454,Empirekonsole. NuRholz mit schwarzem Holz. Anfang 19. Jahrh. 32×53×21cm.,1382,97.1,False,positional,,,Leder- und Holzarbeiten,,Sec. XIX
+BO0624_88783,546922,565,455,Z w ei S pa zie r s t oc ke. Elfenbein. Mit Krucke bzw.Knopf. Ende 18. Jahrh.,1386,97.3,False,positional,,,Spazierltodke,,Sec. XVIII
 BO0624_88783,546923,566,456,Zwei des gleichen. Kirschbaum. Mit geschnitzten Elfenbeinknopfen: Weinlaub bzw. Halbfiguren und Akanthus. Biedermeier. Ein Stock abgebrochen.,1387,98.5,False,positional,,Biedermeier,Spazierltodke,,
 BO0624_88783,546924,567,457,"Zwei de s gleichen. Kirschbaum. Silberne, reliefierte Kricke. Mit Porzellanbildchen. Biedermeier.-Dunkles Holz. Knopf Eisen mit Silbertau- Zwei de s g leichen. Kirschbaum. Gemalter Porzellanknopf. Biedermeier.",1388,78.5,False,title_direct,EISEN CHARLES,Biedermeier,OGGETTI IN FERRO,,
-BO0624_88783,546925,568,458,—Bronze.Schwarz. Bartiger Mannerkopf. Um 1800.,1391,95.5,False,title_direct,,,Bronzen,,
+BO0624_88783,546925,568,458,—Bronze.Schwarz. Bartiger Mannerkopf. Um 1800.,1391,95.5,False,title_direct,,,Bronzen,,Sec. XIX
 BO0624_88783,546926,569,459,"- Spazierstock. Holz. Bis zur Spitze eingelegt mit Zinn und gefarbtem Bein,orientalische Ornamentik.1.Halfte 19.Jahrh.",1393,100.0,False,positional,,,Spazierltodke,,
 BO0624_88783,546927,570,460,"Vier Spazierstocke. Holz mit Elfenbein. Drei davon mit geschnitzten Kricken:Fabeltier,Hundekopf, Traube; der vierte mit rundem Knopf, graviert:Krone und Monogramm. Biedermeier.",1394,98.8,False,positional,,Biedermeier,Spazierltodke,,
-BO0624_88783,546928,571,461,"Drei des gleichen. Zwei mit silbernen Mannerkopfen, der dritte mit bemalter gekitteter Porzellankricke.1. Halfte 19. Jahrh.",1395,98.3,False,title_direct,,,Porzellan,,
+BO0624_88783,546928,571,461,"Drei des gleichen. Zwei mit silbernen Mannerkopfen, der dritte mit bemalter gekitteter Porzellankricke.1. Halfte 19. Jahrh.",1395,98.3,False,title_direct,,,Porzellan,,Sec. XIX
 BO0624_88783,546929,572,462,"- Vier des gleichen. Zwei mit kupfervergoldeter Kricke: Narr, Jonas mit dem Walfisch; zwei durchaus Holz mit Mafeinteilung. Biedermeier.",1397,100.0,False,positional,,Biedermeier,Spazierltodke,,
 BO0624_88783,546930,573,463,"Drei geschnitzte K noten s tocke. Walfisch, Turkenkopf, Hundekopf.",1401,96.9,False,positional,,,Spazierltodke,,
-BO0624_88783,546931,574,464,Gro Be Laute. Sechssaitig. Am Rand eingelegter Elfenbeinstreifen.Griff - geschnitzt mit Blattwerk.Wohl Italien. 18. Jahrh. L. 107 cm. Mit Futteral.,1407,66.3,False,positional,,,Spazierltodke,,
-BO0624_88783,546932,575,465,"5Hi m m el s g lo b u s. Mit Sternbildern. Von Joh. Helvelius und Doppelmaier, - gedruckt von Joh. Georg Puschner. Nurnberg. 1730. Bemalt. In Holzgestell. H.46cm.",1412,66.4,False,positional,,Scuola di Norimberga,Spazierltodke,,
+BO0624_88783,546931,574,464,Gro Be Laute. Sechssaitig. Am Rand eingelegter Elfenbeinstreifen.Griff - geschnitzt mit Blattwerk.Wohl Italien. 18. Jahrh. L. 107 cm. Mit Futteral.,1407,66.3,False,positional,,,Spazierltodke,,Sec. XVIII
+BO0624_88783,546932,575,465,"5Hi m m el s g lo b u s. Mit Sternbildern. Von Joh. Helvelius und Doppelmaier, - gedruckt von Joh. Georg Puschner. Nurnberg. 1730. Bemalt. In Holzgestell. H.46cm.",1412,66.4,False,positional,,Scuola di Norimberga,Spazierltodke,,Sec. XVIII
 BO0624_88783,546933,576,466,"Lich t s chirm. Kirschbaum. Bespannung Seide mit Pointstickerei. Biedermeier.H.53,B.33cm.Dabei beinener Schirmgriff: Bar und Schlange. Ebenso. H. 10 cm.",1413,98.6,False,positional,,Biedermeier,Spazierltodke,,
-BO0624_88783,546934,577,300,1800,1418,100.0,False,positional,,,Spazierltodke,,
+BO0624_88783,546934,577,300,1800,1418,100.0,False,positional,,,Spazierltodke,,Sec. XIX
 BO0624_88783,546935,578,250565,- 468,1422,100.0,False,positional,,,Spazierltodke,,
 BO0624_88783,546936,579,2000,2400,1426,100.0,False,positional,,,Spazierltodke,,
 BO0624_88783,546937,580,470,H.176X77cm.G.R.,1444,87.5,False,positional,,,Gemalde,,
 BO0624_88783,546938,581,471,- 472,1447,100.0,False,positional,,,Gemalde,,
 BO0624_88783,546939,582,473,- 474,1449,100.0,False,positional,,,Gemalde,,
-BO0624_88783,546940,583,1950,1500,1453,100.0,False,positional,,Scuola Ferrarese,Gemalde,,
-BO0624_88783,546941,584,500,"BRUEGHEL,PIETER I. Dessen Art.2. Halfte 16. Jahrh.",1457,100.0,False,positional,BRUEGEL PIETER IL VECCHIO,,Gemalde,,
+BO0624_88783,546940,583,1950,1500,1453,100.0,False,positional,,Scuola Ferrarese,Gemalde,,Sec. XVI
+BO0624_88783,546941,584,500,"BRUEGHEL,PIETER I. Dessen Art.2. Halfte 16. Jahrh.",1457,100.0,False,positional,BRUEGEL PIETER IL VECCHIO,,Gemalde,,Sec. XVI
 BO0624_88783,546942,585,475,"Zwei Bauern beim Holzsammeln. Im Wald ein Bursche mit roter Hose und ein zweiter in Lumpen mit Zahnbund, zusammen ein Reisigbindel bindend. Rundbild.Holz.Dm.18,3 cm.",1474,98.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88783,546943,586,476,- 477 Weibliche Heili ge. Huftbild. In gelblichem Seidenkleid mit Blumen im Haar. Links auf einem Postament Rosen und ein Apfel. Lwd. 92X75 cm. G. R. Tafel XI,1483,100.0,False,positional,,,Gemalde,,
 BO0624_88783,546944,587,801,/640,1486,60.0,False,positional,,,Gemalde,,
@@ -594,11 +594,11 @@ BO0624_88783,546949,592,482,Lwd. 70X58cm. Schw.R.,1507,90.0,False,positional,,,G
 BO0624_88783,546950,593,483,Hirtenszene. Im Vordergrunde Flotenspieler bei der Herde.Lwd. 40X33 cm. G.R.,1509,97.3,False,positional,,,Gemalde,,
 BO0624_88783,546951,594,484,"Zec he n de Ba ue rn. In der Art des Jan Steen. Tusche mit Aquarellfarben. 39,5X43,7 cm. Alter geschnitzter R.",1510,98.1,False,positional,STEEN JAN,Scuola di Jan Steen,Gemalde,,
 BO0624_88783,546952,595,485,X a n tip pe. Brustbild nach links. Mit Haube. H. Dm. 32 cm. Alter G.R.,1512,97.0,False,positional,,,Gemalde,,
-BO0624_88783,546953,596,486,- Lwd.46X70 cm. Schw.R. ENGLISCHE SCHULE.Ende 18. Jahrh.,1516,100.0,False,positional,,,Gemalde,,
+BO0624_88783,546953,596,486,- Lwd.46X70 cm. Schw.R. ENGLISCHE SCHULE.Ende 18. Jahrh.,1516,100.0,False,positional,,,Gemalde,,Sec. XVIII
 BO0624_88783,546954,597,487,"blauem,pelzverbramtem Kleid. Lwd. 21X16 cm.G.R.",1518,95.7,False,positional,,,Gemalde,,
 BO0624_88783,546955,598,489,Bildnis einer jungen Dame. Halbfigur nach links. WeiRes Kleid mit,1520,96.9,False,positional,,,Gemalde,,
 BO0624_88783,546956,599,490,"Salomo und die Konigin von Saba. In einer Saulenhalle mit Ausblick auf den Garten, der Konig mit seinem Hofstaat; vor ihm kniet die Konigin,begleitet von ihrem Gefolge. H. 54X72 cm.Schw.R.",1524,98.9,False,positional,,,Gemalde,,
-BO0624_88783,546957,600,491,"Predigt Christi am See Genezareth.Am Bug eines Schiffes, dessen Segel gerefft ist, steht Christus und predigt dem am Ufer versammelten Volk. Bez.:D.F.Franck in.Ao.1630. H. 75X120 cm.Schw.R. Tafel XIII",1528,99.0,False,positional,,,Gemalde,,
+BO0624_88783,546957,600,491,"Predigt Christi am See Genezareth.Am Bug eines Schiffes, dessen Segel gerefft ist, steht Christus und predigt dem am Ufer versammelten Volk. Bez.:D.F.Franck in.Ao.1630. H. 75X120 cm.Schw.R. Tafel XIII",1528,99.0,False,positional,,,Gemalde,,Sec. XVII
 BO0624_88783,546958,601,492,"Hl. Moran dus? Brustbild in grauem Monchshabit mit Pilgerstab. Holz. 41,5X30cm.G.R.",1532,97.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88783,546959,602,493,"Hirte n s ze ne. Zwei Frauen unter Baumen, links Kuh. H. Dm. 20 cm. G.R.",1536,97.0,False,positional,,,Gemalde,,
 BO0624_88783,546960,603,494,"Kreuzigung Petri. Kriegsknechte richten das Kreuz auf, an das der Apostel nach abwarts hangend gebunden ist. Im Vordergrund eine Frau mit Kindern. Rechts unten undeutl. bez. Lwd. 53X36 cm.H. R.",1538,98.9,False,positional,,,Gemalde,,
@@ -606,19 +606,19 @@ BO0624_88783,546961,604,495,- Kucheninterieur mit Katze. Am Boden und auf einem 
 BO0624_88783,546962,605,496,G.R. TALIENISCH.15.Jahrh.,1550,88.4,False,positional,,,Gemalde,,
 BO0624_88783,546963,606,497,H.27X29cm.G.R.,1553,86.7,False,positional,,,Gemalde,,
 BO0624_88783,546964,607,I,TALIENISCH.17.Jahrh.,1555,97.4,False,positional,,,Gemalde,,
-BO0624_88783,546965,608,I,TALIENISCH. 17. Jahrh.(Art des Lanfranco.),1559,98.7,False,positional,,,Gemalde,,
+BO0624_88783,546965,608,I,TALIENISCH. 17. Jahrh.(Art des Lanfranco.),1559,98.7,False,positional,,,Gemalde,,Sec. XVII
 BO0624_88783,546966,609,9,"Er z v a ter Ja k ob. Brustbild. Mit grauem Haar und Bart,aufwarts blickend. Lwd.72X60 cm.Alter G.R.",1561,99.5,False,positional,,,Gemalde,,
-BO0624_88783,546967,610,I,TALIENISCH.Um 1700.,1563,97.3,False,positional,,,Gemalde,,
+BO0624_88783,546967,610,I,TALIENISCH.Um 1700.,1563,97.3,False,positional,,,Gemalde,,Sec. XVIII
 BO0624_88783,546968,611,498,- 499,1567,100.0,False,positional,,,Gemalde,,
 BO0624_88783,546969,612,500,"Hl. K a t h a ri n a. Halbfigur. In blauem Kleid, die Hande iber der Brust ge-",1568,97.3,False,positional,,,Gemalde,,
-BO0624_88783,546970,613,501,"Faun un d Nym phe. Ein Faun betrachtet die schlafende Frau. Ruckwarts in alter Schrift: Jaques Jordaans p. 1667. Lwd. 35X30 cm. G.R. LA HIRE,LAURENT DE (1606-1656 Paris).",1572,86.4,False,positional,JORDAENS JACQUES,,Gemalde,,
+BO0624_88783,546970,613,501,"Faun un d Nym phe. Ein Faun betrachtet die schlafende Frau. Ruckwarts in alter Schrift: Jaques Jordaans p. 1667. Lwd. 35X30 cm. G.R. LA HIRE,LAURENT DE (1606-1656 Paris).",1572,86.4,False,positional,JORDAENS JACQUES,,Gemalde,,Sec. XVII
 BO0624_88783,546971,614,502,"Opfer an Pan. Rechts die Panherme, vor der Frichte und Gefligel aufgebahrt sind. Von links kommen Landleute mit Tieren und Opfergaben heran. Lwd. 75X93 cm. Schw.R.",1577,98.7,False,positional,,,Gemalde,,
 BO0624_88783,546972,615,503,"Der Trin ker. Halbfigur. Ein schwarzgelockter,lachender Mann, mit der Linken seinen Pokal hebend. In der Rechten die Tonpfeife. Lwd. 36X31,5 cm. Schw.R.",1581,98.6,False,positional,,,Gemalde,,
-BO0624_88783,546973,616,504,"4 Achill unter den Tochtern des Lykomedes. Inmitten einer Pfeilerhalle steht Achill in Frauenkleidern, aber mit Helm und Schwert. Hinter ihm Odysseus und Diomedes als Kramer verkleidet. Zu beiden Seiten die Tochter des Lykomedes, mit Musikinstrumenten und Schmucksachen beschaftigt.Bez.:Peeter van Lint F.Ao.1645. Lwd. 129X204 cm.G.R. Tafel XIII",1585,99.4,False,positional,,,Gemalde,,
+BO0624_88783,546973,616,504,"4 Achill unter den Tochtern des Lykomedes. Inmitten einer Pfeilerhalle steht Achill in Frauenkleidern, aber mit Helm und Schwert. Hinter ihm Odysseus und Diomedes als Kramer verkleidet. Zu beiden Seiten die Tochter des Lykomedes, mit Musikinstrumenten und Schmucksachen beschaftigt.Bez.:Peeter van Lint F.Ao.1645. Lwd. 129X204 cm.G.R. Tafel XIII",1585,99.4,False,positional,,,Gemalde,,Sec. XVII
 BO0624_88783,546974,617,505,Kupfer.15X25.7cm.G.R.,1590,90.9,False,positional,,,OGGETTI IN RAME,,
 BO0624_88783,546975,618,507,Lukretia. Halbfigur von vorn. Der Kopf im Profil nach links Sie sticht sich den Dolch in die Brust. Replik des Bildes im Nat.-Museum zu Neapel. H.67X55cm.Alter G.R.,1598,98.8,False,positional,,,Gemalde,,
 BO0624_88783,546976,619,508,halt. Lwd. 69X57 cm. H.R.,1602,91.3,False,positional,,,Gemalde,,
-BO0624_88783,546977,620,509,"P r o me t he u s. Mit Eisenketten an den Felsen geschmiedet, mit schmerzverzerrtem Gesicht. Der Adler nach seiner Leber hackend. Signiert:C S 1677.",1608,98.6,False,positional,,,Gemalde,,
+BO0624_88783,546977,620,509,"P r o me t he u s. Mit Eisenketten an den Felsen geschmiedet, mit schmerzverzerrtem Gesicht. Der Adler nach seiner Leber hackend. Signiert:C S 1677.",1608,98.6,False,positional,,,Gemalde,,Sec. XVII
 BO0624_88783,546978,621,510,Ber gla n dsc haft. Mit Wassertuimpel. Rechts vorne Staffage mit schlafendem Wanderer.Lwd.25X31 cm.G.R.,1612,98.0,False,positional,,,Gemalde,,
 BO0624_88783,546979,622,5112,Schw.R.,1617,70.6,False,positional,,,Gemalde,,
 BO0624_88783,546980,623,512,Auferstehung Christi. Christus in rotem Mantel mit der Fahne auf dem Grabdeckel stehend. Um das Grab die Kriegsknechte. H. 63X59 cm. G. R. Tafel xV,1622,98.6,False,positional,,,Gemalde,,
@@ -630,33 +630,33 @@ BO0624_88783,546985,628,517,"Herrenbildnis. Brustbild. Mit Allongeperiicke,in 44
 BO0624_88783,546986,629,518,"Das Tis ch gebet. Betendes altes Paar, rickwarts ein junger Mann. Lwd. 39,5X34 cm. G.R.",1643,97.6,False,positional,,,Gemalde,,
 BO0624_88783,546987,630,519,"- 520 Teil einer Heili gen darstellung. Auf einem Ruhebett liegend ein toter Knabe, iber den sich ein alter Mann beugt. Lwd. 50X39 cm. G.R.",1651,100.0,False,positional,,,Gemalde,,
 BO0624_88783,546988,631,521,- POUSSIN-SCHULE.17.Jahrh.,1653,100.0,False,positional,"DUGHET GASPARD, POUSSIN",,Gemalde,,
-BO0624_88783,546989,632,522,"2Zwei Schlacht s zenen. a) Gefecht zwischen Reitern und Fufsoldaten. Vorne zu Boden gestirzter Reiter. b) Nach der Schlacht. Ein Offizier auf einem Schimmel reitend, Gruppen von Verwundeten und Gefallenen. Beide bez.u.dat.1757.Lwd.Je 62.5X101 cm.G.R.",1658,99.2,False,positional,,,OGGETTI VARI,,
-BO0624_88783,546990,633,523,"Pfe r d un d Zie g en. In einer Felshohle. Im Hintergrund Hirte und Hund. ROTTENHAMMER,JOHANN (Minchen 1564-1623 Augsburg).",1663,73.3,False,positional,ROTTENHAMMER JOHANN,,Gemalde,,
+BO0624_88783,546989,632,522,"2Zwei Schlacht s zenen. a) Gefecht zwischen Reitern und Fufsoldaten. Vorne zu Boden gestirzter Reiter. b) Nach der Schlacht. Ein Offizier auf einem Schimmel reitend, Gruppen von Verwundeten und Gefallenen. Beide bez.u.dat.1757.Lwd.Je 62.5X101 cm.G.R.",1658,99.2,False,positional,,,OGGETTI VARI,,Sec. XVIII
+BO0624_88783,546990,633,523,"Pfe r d un d Zie g en. In einer Felshohle. Im Hintergrund Hirte und Hund. ROTTENHAMMER,JOHANN (Minchen 1564-1623 Augsburg).",1663,73.3,False,positional,ROTTENHAMMER JOHANN,,Gemalde,,Sec. XVI
 BO0624_88783,546991,634,524,"Ausblick ins Freie.Kupfer. 35X26,5 cm. Schw.R. An bet u ng der Hirten. Maria im dunklen Stallgebaude sitzend, halt das Jesuskind auf den Knien; rechts Joseph, Ochs und Esel und drei Engelputten. Von links kommen Hirten, unter ihnen eine Frau mit Krug. Die Komposition im Gegensinn ibereinstimmend mit dem Gemalde des Rubens in Marseille.)",1673,92.9,False,title_direct,RUBENS PETER PAUL,Scuola di Rubens,OGGETTI IN RAME,,
 BO0624_88783,546992,635,525,Lwd.125X198 cm.Schw.R.,1674,91.3,False,positional,,,Gemalde,,
 BO0624_88783,546993,636,526,"Z w ei F ra ue n. Brustbilder, in kostbaren Gewandern. Lwd.54X44 cm. G. R.",1678,97.1,False,positional,,,Gemalde,,
-BO0624_88783,546994,637,527,"G PHR. H.18X26 cm. Schw.R. RYCKAERT,DAVID (1612-1661).Dessen Art.",1683,96.7,False,positional,RYCKAERT DAVID,,Gemalde,,
+BO0624_88783,546994,637,527,"G PHR. H.18X26 cm. Schw.R. RYCKAERT,DAVID (1612-1661).Dessen Art.",1683,96.7,False,positional,RYCKAERT DAVID,,Gemalde,,Sec. XVII
 BO0624_88783,546995,638,528,"Papier in der Linken. H. 35X23,5 cm. Schw.R. Venedig).",1685,87.0,False,positional,,,Gemalde,,
 BO0624_88783,546996,639,529,"Maria mit dem Kinde. Die Madonna in Halbfigur mit weifem Kopfschleier halt das nackte Kind. Lwd. 58X46 cm. G. R. (Ruckwarts Bestatigung von Prof. Voll, daf auf der alten Leinwand Savoldo Bresciano als Maler angegeben war.)",1690,99.1,False,positional,,,Gemalde,,
 BO0624_88783,546997,640,530,Bayern.),1695,75.0,False,positional,,,Gemalde,,
-BO0624_88783,546998,641,533,- Mann lic hes Bildnis. Brustbild von vorne. In bunter Weste und dunklem Rock.Lwd.48X37 cm.H.R. SUDDEUTSCH.Um 1585.,1708,90.5,False,positional,,,Gemalde,,
-BO0624_88783,546999,642,534,"Philipp von Be s s e rer (?). Brustbild. Mit Hut, Halskrause, Pelzschaube; oben Aetatis suae 61 Ao 1585. Ruickwarts alte Inschrift.H.19.5X13,5 cm.Ger. SUDDEUTSCH.18.Jahrh.",1718,98.8,False,positional,,,Gemalde,,
+BO0624_88783,546998,641,533,- Mann lic hes Bildnis. Brustbild von vorne. In bunter Weste und dunklem Rock.Lwd.48X37 cm.H.R. SUDDEUTSCH.Um 1585.,1708,90.5,False,positional,,,Gemalde,,Sec. XVI
+BO0624_88783,546999,642,534,"Philipp von Be s s e rer (?). Brustbild. Mit Hut, Halskrause, Pelzschaube; oben Aetatis suae 61 Ao 1585. Ruickwarts alte Inschrift.H.19.5X13,5 cm.Ger. SUDDEUTSCH.18.Jahrh.",1718,98.8,False,positional,,,Gemalde,,Sec. XVI
 BO0624_88783,547000,643,535,45X30cm.,1719,77.8,False,positional,,,Gemalde,,
 BO0624_88783,547001,644,536,"Ent wurf zu einem Deckengemalde. Von rechts kommt iber Wolken ein von Pferden gezogener Wagen mit einer Gottheit (Helios?) nach vorn. Seitlich Gruppen von allegorischen Figuren mit Fahnen, Siegestrophaen usw. Queroval.Lwd.69X119 cm.G.R. Tafel xIII",1723,99.2,False,title_direct,,,BANDIERE,,
 BO0624_88783,547002,645,537,UNBEKANNT. 1.Halfte 19.Jahrh.,1726,100.0,False,positional,,,Gemalde,,
-BO0624_88783,547003,646,3505538,Ein Paar Por tr a t s. Junger Mann in gruinem pelzverbramten Rock. Brustbild nach links. Ruckwarts Inschrift: Georg Ant.Urlaub pinxit 1781.-Junge 4005 Frau in grauem ausgeschnittenem Kleid und hoher Frisur. Brustbild von vorne. Ruickwarts Inschrift: Marianna Endres nee Hirlinger Ats suae 23 A. Georg Anton Urlaub pinxit 1781. Lwd. Je 52X43 cm. H.R.,1732,98.8,False,positional,,,Gemalde,,
+BO0624_88783,547003,646,3505538,Ein Paar Por tr a t s. Junger Mann in gruinem pelzverbramten Rock. Brustbild nach links. Ruckwarts Inschrift: Georg Ant.Urlaub pinxit 1781.-Junge 4005 Frau in grauem ausgeschnittenem Kleid und hoher Frisur. Brustbild von vorne. Ruickwarts Inschrift: Marianna Endres nee Hirlinger Ats suae 23 A. Georg Anton Urlaub pinxit 1781. Lwd. Je 52X43 cm. H.R.,1732,98.8,False,positional,,,Gemalde,,Sec. XVIII
 BO0624_88783,547004,647,1500,30/115,1736,100.0,False,positional,,,Gemalde,,
-BO0624_88783,547005,648,3000,"VELDE,WILLEM VAN DE (Amsterdam 1633-1707 Greenwich).",1740,100.0,False,positional,VAN DE VELDE WILLEM IL VECCHIO,,Gemalde,,
+BO0624_88783,547005,648,3000,"VELDE,WILLEM VAN DE (Amsterdam 1633-1707 Greenwich).",1740,100.0,False,positional,VAN DE VELDE WILLEM IL VECCHIO,,Gemalde,,Sec. XVII
 BO0624_88783,547006,649,539,- 540,1748,100.0,False,positional,,,Gemalde,,
 BO0624_88783,547007,650,541,"- St. Hie r o n y m u s. Kniestick. In Gebirgslandschaft. Im Arm das Kruzifix, mit der Linken auf den Totenkopf zeigend; rechts der Lowe. H. 81X60 cm. G.R. Tafel xV <!-- image -->",1753,98.1,False,positional,,,Gemalde,,
 BO0624_88783,547008,651,542,"- Kirc hen i n te rie ur. Blick durch ein Seitenschiff, Figurenstaffage. Eiche. 42X30 cm. Schw.R.",1762,100.0,False,positional,,,Gemalde,,
-BO0624_88783,547009,652,543,"Ge b u r t Ch ri s ti. (Tympanonfuillung.) Vor einer Berglandschaft mit Kastell kniet Maria mit ausgebreitetem Mantel und betet das in der Krippe liegende Kind an;links von Maria kniet Joseph. Auf dem Berge rechts die Verkuindigung an die Hirten. Hochrelief, oben halbrund. Erlenholz. Farbige alte Fassung im Barock ibergangen. H.120, B. 130 cm. (Aus einer Mainzer Kirche [Liebfrauenkirche?| stammend. Ausstellung alter Kunst im kurfuirstlichen Schlof,Mainz 1925,Nr. 62,Abb.Taf.7,Vorwort S.18.) Tafel I",1768,99.6,False,positional,,,Skulpturen,,
-BO0624_88783,547010,653,1200,1350,1771,100.0,False,positional,,,Skulpturen,,
+BO0624_88783,547009,652,543,"Ge b u r t Ch ri s ti. (Tympanonfuillung.) Vor einer Berglandschaft mit Kastell kniet Maria mit ausgebreitetem Mantel und betet das in der Krippe liegende Kind an;links von Maria kniet Joseph. Auf dem Berge rechts die Verkuindigung an die Hirten. Hochrelief, oben halbrund. Erlenholz. Farbige alte Fassung im Barock ibergangen. H.120, B. 130 cm. (Aus einer Mainzer Kirche [Liebfrauenkirche?| stammend. Ausstellung alter Kunst im kurfuirstlichen Schlof,Mainz 1925,Nr. 62,Abb.Taf.7,Vorwort S.18.) Tafel I",1768,99.6,False,positional,,,Skulpturen,,Sec. XX
+BO0624_88783,547010,653,1200,1350,1771,100.0,False,positional,,,Skulpturen,,Sec. XIV
 BO0624_88783,547011,654,30,300,1775,100.0,False,positional,,,Skulpturen,,
 BO0624_88783,547012,655,400,/510,1779,60.0,False,positional,,,Skulpturen,,
 BO0624_88783,547013,656,4655,300/305,1783,100.0,False,positional,,,Skulpturen,,
 BO0624_88783,547014,657,150165,100,1787,100.0,False,positional,,,Skulpturen,,
-BO0624_88783,547015,658,544,"Maria mit dem Kinde. Stehend. Mit Kopfschleier und Krone iber dem offenen Haar, das nackte Kind haltend. Holz vollrund, farbige Fassung. H. 77 cm. Auf Sockel im gotischen Stil. H. 13 cm. TafelXVI SUDDEUTSCH.Um 1500.",1791,99.0,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88783,547015,658,544,"Maria mit dem Kinde. Stehend. Mit Kopfschleier und Krone iber dem offenen Haar, das nackte Kind haltend. Holz vollrund, farbige Fassung. H. 77 cm. Auf Sockel im gotischen Stil. H. 13 cm. TafelXVI SUDDEUTSCH.Um 1500.",1791,99.0,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88783,547016,659,545,"- 5Christus als Schmerzensmann. Stehend. Fast vollrund, gefaft. H.58,5 cm. Unter gotischem,gefaftem Baldachin.",1793,100.0,False,positional,,,Skulpturen,,
 BO0624_88783,547017,660,546,- 547,1795,100.0,False,positional,,,Skulpturen,,
 BO0624_88783,547018,661,6,L u s ter weib c hen. Oberkorper einer spatgotischen Heiligenfigur mit er-,1796,98.6,False,positional,,,Skulpturen,,
@@ -668,34 +668,34 @@ BO0624_88783,547023,666,552,"ZweiHeiligenbusten. Hl. Dominikus, mit dem Stern au
 BO0624_88783,547024,667,553,"Hl. Bis cho f. Stehend. Vollrund,gefaRt.H.77 cm.",1818,95.7,False,positional,,,Skulpturen,,
 BO0624_88783,547025,668,554,"Hl. Ja k o b us d.A. Holz vollrund, braun. H. 47 cm.",1819,95.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88783,547026,669,555,Luisterweibchen. Frau in Renaissancetracht. Bunt. Echtes Geweih.,1821,96.8,False,positional,,,Skulpturen,,
-BO0624_88783,547027,670,556,"Hl. Stephanus. Bronzestatuette, reich ornamentiertes Gewand.Venezianisch. 2.Halfte 16. Jahrh. H. 15 cm. Tafel III",1825,98.1,False,title_direct,,Scuola Veneziana,Bronzen,,
-BO0624_88783,547028,671,557,"Bu ste eines Kriege rs. Bartiger Kopf mit Helm, Panzer mit Kette. Holz, vollrund. Suddeutsch.2.Halfte 16. Jahrh.H.24 cm. Tafel III",1826,98.4,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88783,547027,670,556,"Hl. Stephanus. Bronzestatuette, reich ornamentiertes Gewand.Venezianisch. 2.Halfte 16. Jahrh. H. 15 cm. Tafel III",1825,98.1,False,title_direct,,Scuola Veneziana,Bronzen,,Sec. XVI
+BO0624_88783,547028,671,557,"Bu ste eines Kriege rs. Bartiger Kopf mit Helm, Panzer mit Kette. Holz, vollrund. Suddeutsch.2.Halfte 16. Jahrh.H.24 cm. Tafel III",1826,98.4,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88783,547029,672,150,380,1829,100.0,False,positional,,,Kleinplaltik,,
 BO0624_88783,547030,673,20,120,1833,100.0,False,positional,,,Kleinplaltik,,
 BO0624_88783,547031,674,250,"- 558 Pu t t e n s ze ne. Drei Putten spielen mit einem Ziegenbock, ein vierter bricht einen Zweig vom Baum. Terrakottarelief. Franzosisch.18. Jahrh. 19X34 cm.",1841,100.0,False,positional,,,OGGETTI VARI,,
 BO0624_88783,547032,675,559,Schutze ngel mit Kind. Fast vollrund. Alte Goldfassung. Suddeutsch. Um1750/60.H.26cm. Tafel III,1843,97.8,False,positional,,,Kleinplaltik,,
 BO0624_88783,547033,676,560,vorigen.,1845,77.8,False,positional,,,Kleinplaltik,,
 BO0624_88783,547034,677,561,Bro n ze fi gur. Stehender Turke mit Vase (als Glashalter). Reste von rotem,1846,97.3,False,title_direct,,,VASI,,
-BO0624_88783,547035,678,562,"Wallf a h rt s kruzifixus. Mit trauernder Maria, Gottvater und zwei Engelputten. Weichholz. Siddeutsch (Oberammergau). 18. Jahrh. H. 26,5 cm.",1848,98.5,False,positional,,,Kleinplaltik,,
+BO0624_88783,547035,678,562,"Wallf a h rt s kruzifixus. Mit trauernder Maria, Gottvater und zwei Engelputten. Weichholz. Siddeutsch (Oberammergau). 18. Jahrh. H. 26,5 cm.",1848,98.5,False,positional,,,Kleinplaltik,,Sec. XVIII
 BO0624_88783,547036,679,563,"Anbetung der Dreifaltigkeit. Gruppe mit Wandkonsole. Holz ver5o goldet,geschnitzt,mit Lambrequin und Samtrickwand.-Die Gruppe besteht aus 9 braunen Figuren in Art der Krippenfiguren;an der Wand angeschraubt die Taube,Gottvater und Sohn,2 Engel;auf dem Boden 5 Hirten. Ende Jahrh. Die Konsole Rokokostil. H.165,B.185 cm.",1852,91.8,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88783,547037,680,564,"Kruzifix. Holz,mit gravierter Perlmutterauflage. 18. Jahrh. Defekt. H.41.5 cm.Dabei Madonna von Altotting. Holz.H.15 cm.Bronzedoppelkreuz mit Heiligem, die vier Bronzebuchstaben JN R I. 18. Jahrh.",1854,99.2,False,title_direct,,,OGGETTI IN LEGNO,,
-BO0624_88783,547038,681,565,"EIfenbeinrelief. Maria,das Kind anbetend. Spanisch. 17.18. Jahrh.In geschweiftem Goldbronzerahmchen,mit Engelskopfen und Putten. 18. Jahrh.",1855,98.5,False,positional,,,Kleinplaltik,,
-BO0624_88783,547039,682,566,- 6 EIfe n bei n fi g u r. Hl. Clara in Nonnenhabit. Spanisch. 17. Jahrh. H. 24 cm.,1857,100.0,False,positional,,,Kleinplaltik,,
-BO0624_88783,547040,683,567,Goldbro n zebis te. Max Joseph I. von Bayern (1799-1825). Auf Sockel.,1858,96.9,False,positional,,,Kleinplaltik,,
+BO0624_88783,547037,680,564,"Kruzifix. Holz,mit gravierter Perlmutterauflage. 18. Jahrh. Defekt. H.41.5 cm.Dabei Madonna von Altotting. Holz.H.15 cm.Bronzedoppelkreuz mit Heiligem, die vier Bronzebuchstaben JN R I. 18. Jahrh.",1854,99.2,False,title_direct,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88783,547038,681,565,"EIfenbeinrelief. Maria,das Kind anbetend. Spanisch. 17.18. Jahrh.In geschweiftem Goldbronzerahmchen,mit Engelskopfen und Putten. 18. Jahrh.",1855,98.5,False,positional,,,Kleinplaltik,,Sec. XVIII
+BO0624_88783,547039,682,566,- 6 EIfe n bei n fi g u r. Hl. Clara in Nonnenhabit. Spanisch. 17. Jahrh. H. 24 cm.,1857,100.0,False,positional,,,Kleinplaltik,,Sec. XVII
+BO0624_88783,547040,683,567,Goldbro n zebis te. Max Joseph I. von Bayern (1799-1825). Auf Sockel.,1858,96.9,False,positional,,,Kleinplaltik,,Sec. XIX
 BO0624_88783,547041,684,568,A po s telkopf. Mit weifem Vollbart. Italienisch. 16.17. Jahrh. Holz. 10X6.7 cm.In altem Rokokorahmchen.,1865,98.0,False,positional,,,Miniaturen,,
-BO0624_88783,547042,685,569,"Vier Por tr a ts. Weibliche und mannliche Brustbilder. Gegensticke.Ol auf Kupfer. 17. Jahrh. Oval. 7X5,5 bzw.SX6,2 cm. Je 2 Stuick in den gleichen",1866,98.6,False,positional,,,Miniaturen,,
-BO0624_88783,547043,686,570,"Zwei Portrats. Brustbilder im Oval: Herr und Dame. Ol auf Kupfer. 17. Jahrh. 5,5X4.5 cm. In Goldbronzerahmchen. Um 1700. H.10.5.B.6.5 cm.",1868,98.4,False,positional,,,Miniaturen,,
-BO0624_88783,547044,687,571,"- Zw ei Por tr at s. Brustbild des Eugen Beauharnais, Herzog von Leuchtenberg. Lackmalerei (Dosendeckel). Um 1810/20. Rund. Dm.9 cm.-Damenbildnis. Gepudertes Haar,rosa Kleid. Elfenbein. 2. Halfte 18. Jahrh. Rund. Dm.6.5cm.",1870,100.0,False,positional,ROSA SALVATOR,,Miniaturen,,
-BO0624_88783,547045,688,572,"Zw ei Po r t r a t s. Junger Mann. Brustbild. Um 1800.Papier oval. 75X5,5 cm.",1871,97.3,False,positional,,,Miniaturen,,
+BO0624_88783,547042,685,569,"Vier Por tr a ts. Weibliche und mannliche Brustbilder. Gegensticke.Ol auf Kupfer. 17. Jahrh. Oval. 7X5,5 bzw.SX6,2 cm. Je 2 Stuick in den gleichen",1866,98.6,False,positional,,,Miniaturen,,Sec. XVII
+BO0624_88783,547043,686,570,"Zwei Portrats. Brustbilder im Oval: Herr und Dame. Ol auf Kupfer. 17. Jahrh. 5,5X4.5 cm. In Goldbronzerahmchen. Um 1700. H.10.5.B.6.5 cm.",1868,98.4,False,positional,,,Miniaturen,,Sec. XVII
+BO0624_88783,547044,687,571,"- Zw ei Por tr at s. Brustbild des Eugen Beauharnais, Herzog von Leuchtenberg. Lackmalerei (Dosendeckel). Um 1810/20. Rund. Dm.9 cm.-Damenbildnis. Gepudertes Haar,rosa Kleid. Elfenbein. 2. Halfte 18. Jahrh. Rund. Dm.6.5cm.",1870,100.0,False,positional,ROSA SALVATOR,,Miniaturen,,Sec. XVIII
+BO0624_88783,547045,688,572,"Zw ei Po r t r a t s. Junger Mann. Brustbild. Um 1800.Papier oval. 75X5,5 cm.",1871,97.3,False,positional,,,Miniaturen,,Sec. XIX
 BO0624_88783,547046,689,573,Brus tbild einer Da me. Mit Spitzenkopftuch. Bez.: Konig fec. Anfang,1875,96.9,False,positional,,,Miniaturen,,
 BO0624_88783,547047,690,574,Zwei Stiche nach Drouais le fils:Knaben mit Hund und Guitarre.,1877,96.8,False,positional,DROUAIS FRANCOIS-HUBERT,,Miniaturen,,
-BO0624_88783,547048,691,575,Funf Aquatintablatter in Farben:La vie dun Gentilhomme en toutes Saisons. Montpezat px. Jazet sc. London 1846. 4 Bl. Roy.Qu.-Fol.Les courses de Bade. Heyrault px. Harris sc. Imp.-Qu.-Fol. Spatere Drucke,1879,99.0,False,positional,,,Miniaturen,,
+BO0624_88783,547048,691,575,Funf Aquatintablatter in Farben:La vie dun Gentilhomme en toutes Saisons. Montpezat px. Jazet sc. London 1846. 4 Bl. Roy.Qu.-Fol.Les courses de Bade. Heyrault px. Harris sc. Imp.-Qu.-Fol. Spatere Drucke,1879,99.0,False,positional,,,Miniaturen,,Sec. XIX
 BO0624_88783,547049,692,576,"Acht gera h m te Stiche. 7 zu Lafontaines Fabeln. Oudry inv. Baquoy, Cars, Cochin u. and. sc.Kl.-Fol.-Schabkunstblatt. Die hl. 3 Konige. Alter R. -Dabei Konvolut:Heiligenbilder,Ansichten usw.4°.",1881,98.9,False,positional,OUDRY JEAN BAPTISTE,,Miniaturen,,
 BO0624_88783,547050,693,577,"A ur. A u g us tini Opera (Sermones, Homilies, Tractatus usw.). Hagenau bei",1882,97.1,False,positional,,,Miniaturen,,
-BO0624_88783,547051,694,578,"F re u n d s be r g, Ge o r g v o n. Causae Haereditatis Defensio. Augsburg 1602.",1884,97.5,False,positional,,,Miniaturen,,
-BO0624_88783,547052,695,579,"Inkunabeln:Macinelli. Latein. Grammatik. 1493. 4°. Unvollstandig. -Rha ba n us Ma u rus, De Laudibus s. Crucis opus. Venedig 1500. Mit roten Titeln und Initialen. Fol.-Dabei:Gebetbuch. Deutsche Handschrift des 16. Jahrh. 8. Pergt.",1886,99.1,False,positional,,,Miniaturen,,
-BO0624_88783,547053,696,580,"Jo ha n nes vo m C reutz in Wessobrunn. Buicher und Schriften. Prag 1697. Dabei: °.—— Carol. Vierholz. Kinderlehr. 17.Jahrh. 4.Schwld. 一 2 Buicher,unvollstandig.und Einbanddeckel. Schwld.",1888,71.2,False,positional,,,Miniaturen,,
-BO0624_88783,547054,697,581,"- M unz-Paten t fir Franken, Bayern und Schwaben. Augsburg 1761. Fol. Mit gestochenen Miuinztafeln.-Dabei:Mo rley,Chemisches Lehrbuch.Leiden.18.Jahrh.8°.Schwld.-Handgeschriebenes Zunftbuch.Mitte 18. Jahrh.4°.",1890,100.0,False,positional,,Famiglia Francken,Miniaturen,,
-BO0624_88783,547055,698,582,"- 2Pandectarum juris civilis. 1.und 2.Bd. Paris 1559. Fol. Schwld. Dabei:Commentarius""Johan. Goeddaei Schuertensis.1591.8°. Gepr. Schwld.",1892,100.0,False,positional,,,Miniaturen,,
-BO0624_88783,547056,699,583,"Hie r. O sori u s. De Rebus Emanuelis, regis Lusitaniae 1576. 8. Schwld.",1893,97.1,False,positional,,,Miniaturen,,
-BO0624_88783,547057,700,584,Theologie.Gregorio de Valentia. Analysis Fidei.Ingolstadt 1585.,1895,96.8,False,positional,,,Miniaturen,,
+BO0624_88783,547051,694,578,"F re u n d s be r g, Ge o r g v o n. Causae Haereditatis Defensio. Augsburg 1602.",1884,97.5,False,positional,,,Miniaturen,,Sec. XVII
+BO0624_88783,547052,695,579,"Inkunabeln:Macinelli. Latein. Grammatik. 1493. 4°. Unvollstandig. -Rha ba n us Ma u rus, De Laudibus s. Crucis opus. Venedig 1500. Mit roten Titeln und Initialen. Fol.-Dabei:Gebetbuch. Deutsche Handschrift des 16. Jahrh. 8. Pergt.",1886,99.1,False,positional,,,Miniaturen,,Sec. XVI
+BO0624_88783,547053,696,580,"Jo ha n nes vo m C reutz in Wessobrunn. Buicher und Schriften. Prag 1697. Dabei: °.—— Carol. Vierholz. Kinderlehr. 17.Jahrh. 4.Schwld. 一 2 Buicher,unvollstandig.und Einbanddeckel. Schwld.",1888,71.2,False,positional,,,Miniaturen,,Sec. XVII
+BO0624_88783,547054,697,581,"- M unz-Paten t fir Franken, Bayern und Schwaben. Augsburg 1761. Fol. Mit gestochenen Miuinztafeln.-Dabei:Mo rley,Chemisches Lehrbuch.Leiden.18.Jahrh.8°.Schwld.-Handgeschriebenes Zunftbuch.Mitte 18. Jahrh.4°.",1890,100.0,False,positional,,Famiglia Francken,Miniaturen,,Sec. XVIII
+BO0624_88783,547055,698,582,"- 2Pandectarum juris civilis. 1.und 2.Bd. Paris 1559. Fol. Schwld. Dabei:Commentarius""Johan. Goeddaei Schuertensis.1591.8°. Gepr. Schwld.",1892,100.0,False,positional,,,Miniaturen,,Sec. XVI
+BO0624_88783,547056,699,583,"Hie r. O sori u s. De Rebus Emanuelis, regis Lusitaniae 1576. 8. Schwld.",1893,97.1,False,positional,,,Miniaturen,,Sec. XVI
+BO0624_88783,547057,700,584,Theologie.Gregorio de Valentia. Analysis Fidei.Ingolstadt 1585.,1895,96.8,False,positional,,,Miniaturen,,Sec. XVI

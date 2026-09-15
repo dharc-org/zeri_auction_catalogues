@@ -15,13 +15,13 @@ BO0624_87950,186253,13,14,Sheffieldleuchter.,24,91.9,False,positional,,,Antiquit
 BO0624_87950,186254,14,15,- Figur.Fulda.,26,100.0,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186255,15,16,Sechs Figuren. Defekt.,27,93.0,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186256,16,17,Versilberte Muschelschale.,28,94.3,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
-BO0624_87950,186257,17,18,Eiserne Kassette. 16. Jahrhundert.,29,95.4,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
+BO0624_87950,186257,17,18,Eiserne Kassette. 16. Jahrhundert.,29,95.4,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,Sec. XVI
 BO0624_87950,186258,18,19,- Japanischer Gotze.,31,100.0,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186259,19,20,Amor mit Harfe. Biskuit.,32,93.6,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186260,20,21,Empirespiegel.,33,89.7,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186261,21,22,Miniatur.Eremit.,34,90.9,False,title_direct,,,Miniaturen,,
 BO0624_87950,186262,22,23,Pompeijanische Vase.,35,92.7,False,positional,,,VASI,,
-BO0624_87950,186263,23,24,- Frankfurter Taschenbuch 1819 mit zwolf Kupfern.,37,100.0,False,positional,,,OGGETTI IN RAME,,
+BO0624_87950,186263,23,24,- Frankfurter Taschenbuch 1819 mit zwolf Kupfern.,37,100.0,False,positional,,,OGGETTI IN RAME,,Sec. XIX
 BO0624_87950,186264,24,25,Spinnrad.,38,84.2,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186265,25,26,Sessel. Biedermeier.,39,92.3,False,positional,,Biedermeier,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186266,26,27,"Sechs Rokokoloffel. Silber, feuervergoldet.",40,96.4,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
@@ -36,7 +36,7 @@ BO0624_87950,186274,34,35,Schafergruppe. Damm.,50,92.3,False,positional,,,Antiqu
 BO0624_87950,186275,35,36,- Hahn. Buntes Porzellan.,52,100.0,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186276,36,37,Desgl. Desgl.,53,88.0,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186277,37,38,Schale mit Glaseinsatz. Silber.,54,95.1,False,positional,,,OGGETTI VARI,,
-BO0624_87950,186278,38,39,Meissener Bottcherkanne von 1704. Rot.,55,96.0,False,positional,,Scuola di Meissen,Antiquitaten; Kunstgegenstande; Miniaturen,,
+BO0624_87950,186278,38,39,Meissener Bottcherkanne von 1704. Rot.,55,96.0,False,positional,,Scuola di Meissen,Antiquitaten; Kunstgegenstande; Miniaturen,,Sec. XVIII
 BO0624_87950,186279,39,40,Zunftkanne. Zinn. Kufer. Homburg.,56,95.1,False,positional,,,OGGETTI IN LATTA,,
 BO0624_87950,186280,40,41,Teller mit Wappen. Zinn. Furst von Braunfels.,57,96.6,False,positional,,,OGGETTI IN LATTA,,
 BO0624_87950,186281,41,42,Desgl. desgl. Desgl. Mehrenberg.,58,94.9,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
@@ -45,7 +45,7 @@ BO0624_87950,186283,43,44,"- Desgl. desgl. Desgl. Friedr. II, Furst v. Waldeck."
 BO0624_87950,186284,44,45,Desgl. desgl. Desgl. Carl Chr.v. Nassau-Weilburg.,62,96.7,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186285,45,46,"Desgl.. desgl. Desgl. Th.Reinhard, Grafv.Hanau.",63,96.5,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186286,46,47,"Desgl. desgl. Desgl. Wallrad, Furst v. Nassau-",64,96.4,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
-BO0624_87950,186287,47,48,Desgl. mit Wappen. Desgl. Cazenelnbogen 1723.,66,96.5,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
+BO0624_87950,186287,47,48,Desgl. mit Wappen. Desgl. Cazenelnbogen 1723.,66,96.5,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,Sec. XVIII
 BO0624_87950,186288,48,49,"Desgl. desgl. Desgl. Carl, Furst v. Usingen und",67,96.6,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186289,49,50,Platte. Zinn. Portrat v.Bienenthal. Frankfurt a. M.,69,96.8,False,positional,,,OGGETTI IN LATTA,,
 BO0624_87950,186290,50,51,- 52 Desgl. Desgl. v. Cronstetten. Desgl.,71,100.0,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
@@ -227,9 +227,9 @@ BO0624_87950,186465,225,238,- Vier Stiche. Agypten.,333,100.0,False,positional,,
 BO0624_87950,186466,226,239,Zwolf kleine Stiche.,334,90.5,False,positional,,,STAMPE E INCISIONI,,
 BO0624_87950,186467,227,240,Franzosischer Stich von Cavallie.,335,94.1,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186468,228,241,"Zwei Stiche, Schmidt.",336,90.5,False,positional,,,STAMPE E INCISIONI,,
-BO0624_87950,186469,229,242,"Manuskript, Wurzburg 1749.",337,92.3,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
+BO0624_87950,186469,229,242,"Manuskript, Wurzburg 1749.",337,92.3,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,Sec. XVIII
 BO0624_87950,186470,230,243,"Album, Leichenzug Napoleon I.",338,93.1,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
-BO0624_87950,186471,231,244,"- Wappen-Chronik, Bamberg 1717.",340,100.0,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
+BO0624_87950,186471,231,244,"- Wappen-Chronik, Bamberg 1717.",340,100.0,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,Sec. XVIII
 BO0624_87950,186472,232,245,Funf bunte Delfter Vasen.,341,92.3,False,positional,,,VASI,,
 BO0624_87950,186473,233,246,Teedose.Wien. Feine Malerei.,344,92.9,False,positional,,Scuola Viennese,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186474,234,247,Kleines Dejeuner. Silber.,345,92.0,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
@@ -250,7 +250,7 @@ BO0624_87950,186488,248,261,"Desgl. In der Schenke beim Essen. 5,5/5 cm.",363,95
 BO0624_87950,186489,249,262,"Desgl. Dame im Park, aus der Zeit Maria Antoinette. Elfenbein.Diam. 5 cm.",364,97.1,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186490,250,263,"Desgl. Dame in weissem Kleid, im Walde sitzend, ein Heft in der Hand haltend und zeichnend. Oval, Elfenbein. 8,5/6,5 cm.",365,98.3,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186491,251,264,"bein. Diam. 4,5 cm.",367,88.9,False,positional,,,OGGETTI VARI,,
-BO0624_87950,186492,252,265,"- Miniatur. Portrat eines Offiziers. Empire. Elfenbein oval 5,5/4,5 cm.Ruckseite bez.:Volmar pinx 1801",369,100.0,False,positional,,,MINIATURE,,
+BO0624_87950,186492,252,265,"- Miniatur. Portrat eines Offiziers. Empire. Elfenbein oval 5,5/4,5 cm.Ruckseite bez.:Volmar pinx 1801",369,100.0,False,positional,,,MINIATURE,,Sec. XIX
 BO0624_87950,186493,253,266,"Elfenbein,",370,81.8,False,positional,,,MINIATURE,,
 BO0624_87950,186494,254,267,"- Desgl. Englische Dame in Reitkostum. oval 5,5/7cm.",372,100.0,False,positional,,,Antiquitaten; Kunstgegenstande; Miniaturen,,
 BO0624_87950,186495,255,268,Dose.Elfenbein mit ovaler Miniatur:Dame in blaulich-,374,96.2,False,positional,,,MINIATURE,,
@@ -276,7 +276,7 @@ BO0624_87950,186514,274,288,Kupferstich. Rural Employment. Platte 35/40,438,95.3
 BO0624_87950,186515,275,289,Kupferdruck nach Reynolds. Miss Siddons. Platte 24/16,440,96.2,False,positional,REYNOLDS JOSHUA,,Gemalde; Kunstblatter,,
 BO0624_87950,186516,276,290,"Desgl. Die Dame von Shaloth. Platte 24,5/14",442,95.3,False,positional,,,Gemalde; Kunstblatter,,
 BO0624_87950,186517,277,291,"Nach Jan Steen. Platte 96,5/132",444,93.8,False,positional,STEEN JAN,,Gemalde; Kunstblatter,,
-BO0624_87950,186518,278,292,Farbdruck N. Geier 1831. Hitz hot se segt se hett se.,446,96.2,False,positional,,,Gemalde; Kunstblatter,,
+BO0624_87950,186518,278,292,Farbdruck N. Geier 1831. Hitz hot se segt se hett se.,446,96.2,False,positional,,,Gemalde; Kunstblatter,,Sec. XIX
 BO0624_87950,186519,279,293,Laokongruppe. Platte 145/98,450,92.9,False,positional,,,Gemalde; Kunstblatter,,
 BO0624_87950,186520,280,294,Leda mit dem Schwan.,452,90.5,False,positional,,,Gemalde; Kunstblatter,,
 BO0624_87950,186521,281,295,Platte 60/70,456,100.0,False,positional,,,Gemalde; Kunstblatter,,

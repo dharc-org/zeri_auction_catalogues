@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88328,470706,1,1,"An der Riviera. Blick auf eine Stadt und Meer. Im Vordergrund Weg mit Staffage Italienerin a Brauner Hengst von der Seite gesehen, von einem Reiter aus Kgl. Marstall an der Trense gehalten. Bezeichnet: Albrecht Adam. Ol auf Leinwand. 48X 61 cm. Goldrahmen.",17,78.2,False,title_direct,Albrecht Adam,,,,
 BO0624_88328,470707,2,2,a) Am Boden liegende Dogge. Bezeichnet:Benno Adam. O1 auf Holz. 15X19 cm. Unter Glas. Schwarzer Rahmen.,23,99.0,False,title_direct,Benno Adam,,CORNICI,,
-BO0624_88328,470708,3,4,- Fuchs schleppt ein erbeutetes Rebhuhn in seinen Bau. Zwei junge Fuchse am Eingang. Bezeichnet:B.Adam 1883. O1 auf Leinwand.115X82cm.Goldrahmen.,33,100.0,False,positional,Benno Adam,,,,
+BO0624_88328,470708,3,4,- Fuchs schleppt ein erbeutetes Rebhuhn in seinen Bau. Zwei junge Fuchse am Eingang. Bezeichnet:B.Adam 1883. O1 auf Leinwand.115X82cm.Goldrahmen.,33,100.0,False,positional,Benno Adam,,,,Sec. XIX
 BO0624_88328,470709,4,5,Balgende Katzchen. Bezeichnet:Jul.Adam. O1 auf Holz. 15 X 20 cm. Unter Glas. Dunkler Rahmen.,37,98.9,False,positional,Julius Adam,,CORNICI,,
 BO0624_88328,470710,5,6,Ein warmes Platzchen. Junge Katzchen mit der Alten am glihenden Kohlenofchen.,42,98.7,False,positional,Julius Adam,,,,
 BO0624_88328,470711,6,7,Junge Ziege und Stallhasen. Bezeichnet:J.Adam. Ol auf Leinwand. 27 X 47 cm. Unter Glas. Schwarzer Rahmen.,47,99.0,False,positional,Julius Adam,,CORNICI,,
@@ -26,7 +26,7 @@ BO0624_88328,470729,24,30,- 31,149,100.0,False,positional,Anton Braith,,,,
 BO0624_88328,470730,25,28,"a) Pferdestudie. Braune Stute von der Seite gesehen an der Krippe. Bezeichnet: L.Braun. O1 auf Leinwand u. auf Pappe aufgezogen. 17,5 X 23.5 cm.",155,99.3,False,positional,Louis Braun,,,,
 BO0624_88328,470731,26,29,Brustbild eines alten Mannes in schwarzem Habit und schwarzem Kappchen. Bezeichnet:S.B. Ol auf Pappe. 9 X 7 cm. Goldrahmen.,165,98.7,False,positional,Simon Buchbinder,,,,
 BO0624_88328,470732,27,32,Schusterwerkstatt. Der Meister mit Lehrlingen bei der Arbeit. Bezeichnet: W.Busch. Ol auf Holz. 24 X 2g cm. Unter Glas. Dunkler Rahmen.,183,98.8,False,positional,Wilhelm Busch,,CORNICI,,
-BO0624_88328,470733,28,33,Bezeichnet:Wilh.Busch 1876. Ol auf Holz. 31 X 25 cm. Unter Glas. Dunkler Rahmen.,185,98.0,False,positional,Wilhelm Busch,,CORNICI,,
+BO0624_88328,470733,28,33,Bezeichnet:Wilh.Busch 1876. Ol auf Holz. 31 X 25 cm. Unter Glas. Dunkler Rahmen.,185,98.0,False,positional,Wilhelm Busch,,CORNICI,,Sec. XIX
 BO0624_88328,470734,29,34,"Niederlandisches Seestick. Rechts altes Mauertor und Baume, links Hafen gegen die offene See, im Vordergrund Segelboot.Bewolkter Himmel. O1 auf Holz. 44 X66 cm. Goldrahmen.",191,99.1,False,positional,1.Ch.Cogels,,OGGETTI IN LEGNO,,
 BO0624_88328,470735,30,35,"Sonnige StraBe mit herbstlich gefarbten Baumen. Bezeichnet:Exaninaro Casciaro. Pastell auf Pappe. 56 X 77 cm. Unter Glas. Goldrahmen. a Castro. Felsiges Ufr, das sich terrassenartig iber dem Meer aufbaut,mit Staffage belebt.Auf dem Meer einige Fischerboote.",205,67.2,False,title_direct,Exaninaro Casciaro,,,,
 BO0624_88328,470736,31,36,"Pastell. 25 X 34,5 cm. Unter Glas. Gerahmt.",215,96.3,False,positional,Giuseppe Casciaro,,,,
@@ -37,29 +37,29 @@ BO0624_88328,470740,35,40,Mondaufgang iber dem Meer. Ein Boot mit leuchtenden Se
 BO0624_88328,470741,36,41,"- Bezeichnet:G,Casciaro. Pastell. 41,5 X 27,5 cm. Unter Glas, Gerahmt.",222,100.0,False,positional,Giuseppe Casciaro,,,,
 BO0624_88328,470742,37,42,Funf Minuten Aufenthalt. Italienische Soldaten nehmen am Zug eine Erfrischung ein. Regenwetterstimmung.,229,98.5,False,positional,Giulio Cervi,,,,
 BO0624_88328,470743,38,43,a) Fruhling im Hyde Park: Auf griner Wiese grasende Schafe im Vordergrund.,235,97.9,False,positional,Clarendon Common,,,,
-BO0624_88328,470744,39,44,a Vereinsalpe bei Mittenwald. Im Vordergrund Jager mit Hund. Le puits noir. Waldinneres mit Felsen und Wasser.Im Wasser steht ein Hirsch. Bezeichnet:G.Courbet. Ol auf Leinwand. 48X 65 cm. Goldrahmen. Auf der Rickseite Bemerkung:Courbet. Le puits noir.Peint vers.1852—1853 gez.Th.Duret. Ein ausfihrlicheres briefl. Gutachten von Th. Duret steht zur Verfigung. Abbildung Tafel VII. bauschigen Armeln.,265,88.7,False,positional,Gustave Courbet,,,,
+BO0624_88328,470744,39,44,a Vereinsalpe bei Mittenwald. Im Vordergrund Jager mit Hund. Le puits noir. Waldinneres mit Felsen und Wasser.Im Wasser steht ein Hirsch. Bezeichnet:G.Courbet. Ol auf Leinwand. 48X 65 cm. Goldrahmen. Auf der Rickseite Bemerkung:Courbet. Le puits noir.Peint vers.1852—1853 gez.Th.Duret. Ein ausfihrlicheres briefl. Gutachten von Th. Duret steht zur Verfigung. Abbildung Tafel VII. bauschigen Armeln.,265,88.7,False,positional,Gustave Courbet,,,,Sec. XIX
 BO0624_88328,470745,40,47,"Plakette von Richard Wagner in einer Kartusche,von einem Blumenkranz umwunden. Bezeichnet:Anne Costenoble.",272,98.6,False,title_direct,Anne Costenoble,,,,
 BO0624_88328,470746,41,48,Landschaft. Birkenwaldchen am Wasser in der Sonne Bezeichnet rechts unten: R.F. Curry. O1 auf Leinwand. 7o X 95 cm. Goldrahmen.,280,98.8,False,title_direct,R.F.Curry,,,,
 BO0624_88328,470747,42,49,Blumenstilleben. Mohn in einem irdenen Krug und Wiesenblumen in einem Korbe. Bezeichnet:F.van der Daele. O1 auf Leinwand. 56 X 70 cm. Unter Glas. Goldrahmen.,286,99.0,False,title_direct,F.van der Daele,,OGGETTI VARI,,
 BO0624_88328,470748,43,50,"Tirolerin. Dunkelaugig und dunkles Haar,mit rotem Brusttuch und geschnurtem Mieder mit iber den SchoB gelegten Handen.",290,98.7,False,positional,Franz v. Defregger,,,,
 BO0624_88328,470749,44,51,"Tirolerin mit iber der Stirn gescheiteltem Haar, buntes Brusttuch und violettes Mieder. Bezeichnet:Defregger. O1 auf Holz. 10,5 X 8,5 cm.Unter Glas.",300,99.0,False,positional,Franz v. Defregger,,OGGETTI IN LEGNO,,
 BO0624_88328,470750,45,52,Schwarzwalderin. Kopf en face eines jungen Madchens in Schwarzwalder Tracht. Bezeichnet:Defregger. Bleistiftzeichnung mit Passepartout.25.5X 2I cm.,301,99.0,False,positional,Franz v. Defregger,,,,
-BO0624_88328,470751,46,53,"- Kirchgang in Dolsach. Kirchganger, alt und jung, verlassen die Kirche. Studie. Bezeichnet:Defregger 1890. 61",308,98.5,False,positional,Franz v. Defregger,,,,
+BO0624_88328,470751,46,53,"- Kirchgang in Dolsach. Kirchganger, alt und jung, verlassen die Kirche. Studie. Bezeichnet:Defregger 1890. 61",308,98.5,False,positional,Franz v. Defregger,,,,Sec. XIX
 BO0624_88328,470752,47,54,"Entwurf fuir ein Historienbild. Ein Bischof predigt vor Rittern in gotischer Hallenkirche. Bezeichnet:Dettmann 12. Kohlezeichnung auf Papier. 32 X 5o,5 cm. Passepartout. Goldrahmen",327,99.1,False,positional,Ludwig Dettmann,,,,
 BO0624_88328,470753,48,56,"Das Marchen. Baum in Mondnacht mit einem seltsamen Vogel, der einem goldhaarigen Madchen eine Schmuckkette in den SchoB wirft.",339,98.8,False,positional,Julius Diez,,,,
-BO0624_88328,470754,49,59,"In der Reitschule. Adelige Reiter und Hofleute im Kostum des 18. Jahrhunderts in der Reitschule. O1 auf Leinwand. 50,5X 91,5 cm. Goldrahmen.",367,98.9,False,positional,L. Ebner (Deak-Ebner),,,,
+BO0624_88328,470754,49,59,"In der Reitschule. Adelige Reiter und Hofleute im Kostum des 18. Jahrhunderts in der Reitschule. O1 auf Leinwand. 50,5X 91,5 cm. Goldrahmen.",367,98.9,False,positional,L. Ebner (Deak-Ebner),,,,Sec. XVIII
 BO0624_88328,470755,50,6,o Abendlandschaft. Waldwiese mit heimwartsziehender Schafherde. Bezeichnet: Joh.Engelhardt. 01 auf Leinwand. 49 X 75 cm. Goldrahmen.,373,99.6,False,title_direct,Joh. Engelhardt,,,,
 BO0624_88328,470756,51,62,Mont Orgueil auf Insel Jersey. Meeresbrandung bei stirmischem Wetter auf See. Rechts Kuiste mit hochaufragenden Felsen und Moven.,385,98.8,False,positional,J.Eschke,,,,
-BO0624_88328,470757,52,63,"Kopf eines Italieners in Schnurr- und Knebelbart. Dreiviertelprofil. Bezeichnet:Th.Ethofer,Roma 1878. Ol auf Holz. 35X 2g cm. Goldrahmen.",393,98.9,False,title_direct,Th. Ethofer,,OGGETTI IN LEGNO,,
+BO0624_88328,470757,52,63,"Kopf eines Italieners in Schnurr- und Knebelbart. Dreiviertelprofil. Bezeichnet:Th.Ethofer,Roma 1878. Ol auf Holz. 35X 2g cm. Goldrahmen.",393,98.9,False,title_direct,Th. Ethofer,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88328,470758,53,64,Pompejanerin Tauben fuitternd. Bezeichnet:Th.Ethofer.Aquareli auf Papier in Passepartout.96 X 52 cm. Unter Glas. Gerahmt.,394,98.7,False,title_direct,Th. Ethofer,,,,
 BO0624_88328,470759,54,65,Schafe und Ziegenbock im Stall.,405,95.2,False,positional,G.B.Ferrari,,,,
 BO0624_88328,470760,55,66,"Aus einer Schale trinkender Hirt. a Genrebild. Brustbild eines jungen Madchens mit dunklen Augen und Haaren in rotem Kopftuch, den Arm auf einen Felsen gestitzt, vor ihr liegend ein schlafender, dunkelhaariger Knabe. Im Hintergrund gebirgige Landschaft mit gewitteriger Luft. Ol auf Leinwand. 37 X 34 cm. Goldrahmen.",411,94.0,False,positional,A.Feuerbach,,OGGETTI VARI,,
 BO0624_88328,470761,56,67,Ol auf Leinwand. 68X 88 cm.Unter Glas.Goldrahmen.,417,96.9,False,positional,August Fink,,,,
 BO0624_88328,470762,57,68,Moorlandschaft. Im Vordergrund Bach und Bauernhauser unter Baumen. Am Bach entlang heimkehrende Feldarbeiter. Im Hintergrund die Alpen. Fohnstimmung. Stark bewolkte Luft. Bezeichnet rechts unten: Aug. Fink. Ol auf Leinwand. 8o X 13o cm. Goldrahmen.,419,99.4,False,positional,August Fink,,,,
-BO0624_88328,470763,58,69,"Alte Frau in schwarzem Kleid, in der Bibel lesend. Ol auf Holz. 46 X 37 cm. Goldrahmen. Bezeichnet:L.Frenzel 1880.",425,98.6,False,title_direct,L.Frenzel,,OGGETTI IN LEGNO,,
-BO0624_88328,470764,59,70,Hohlweg im Walde in Sommerstimmung. Ol auf Pappe. 46 X 61 cm. Dunkler Rahmen. Bezeichnet rechts unten:18. Sept.1881.,431,98.7,False,positional,Wilhelm Frey,,CORNICI,,
+BO0624_88328,470763,58,69,"Alte Frau in schwarzem Kleid, in der Bibel lesend. Ol auf Holz. 46 X 37 cm. Goldrahmen. Bezeichnet:L.Frenzel 1880.",425,98.6,False,title_direct,L.Frenzel,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88328,470764,59,70,Hohlweg im Walde in Sommerstimmung. Ol auf Pappe. 46 X 61 cm. Dunkler Rahmen. Bezeichnet rechts unten:18. Sept.1881.,431,98.7,False,positional,Wilhelm Frey,,CORNICI,,Sec. XIX
 BO0624_88328,470765,60,7,I Viehweide. Kihe auf der Weide in hollandischer Landschaft. Im Hintergrund Windmihlen.,432,99.4,False,positional,Wilhelm Frey,,,,
-BO0624_88328,470766,61,72,"Ins Vaterhaus zurick. Die verarmte Tochter mit dem Kinde auf dem Arm kehrt ins Vaterhaus zurick. Der Vater, ein Kupferschmiedmeister, sitzt zurnend an seiner Werkbank, wahrend die Mutter begu tigend ihm die Hand auf die Schulter legt. Der Haushund erkennt die Heimkehrende. Bezeichnet:Friedrich Friedlander 1855. 01 auf Leinwand. 79 X 95 cm. Goldrahmen.",439,99.6,False,title_direct,Friedrich Friedlander,,,,
+BO0624_88328,470766,61,72,"Ins Vaterhaus zurick. Die verarmte Tochter mit dem Kinde auf dem Arm kehrt ins Vaterhaus zurick. Der Vater, ein Kupferschmiedmeister, sitzt zurnend an seiner Werkbank, wahrend die Mutter begu tigend ihm die Hand auf die Schulter legt. Der Haushund erkennt die Heimkehrende. Bezeichnet:Friedrich Friedlander 1855. 01 auf Leinwand. 79 X 95 cm. Goldrahmen.",439,99.6,False,title_direct,Friedrich Friedlander,,,,Sec. XIX
 BO0624_88328,470767,62,73,Auf hoher Warte. Auf der Terrasse eines Klostergartens wird ein Mittagsmahl fir Ordensbruider auf getragen. Blick ins Tal. O1 auf Holz. 28X1g cm.Goldrahmen.,445,99.0,False,title_direct,Martens,,OGGETTI IN LEGNO,,
 BO0624_88328,470768,63,74,Fruchtstuck. Umgesturzter Kirschenkorb und grune Zweige.,451,97.3,False,positional,E.Fuchs-Northoff,,,,
 BO0624_88328,470769,64,75,Klosterhof mit Blick in den Kreuzgang. Im Vordergrund ein Pilger.,458,97.7,False,positional,Wilhelm Gail,,,,
@@ -70,16 +70,16 @@ BO0624_88328,470773,68,79,b Hof eines Palazzo in Girgenti.,476,96.9,False,positi
 BO0624_88328,470774,69,79,a Landschaft bei Salerno. Im Vordergrund Weg mit Wanderern.,490,98.3,False,positional,E.von Gebhardt,,,,
 BO0624_88328,470775,70,8,"o Landschaft. Weg in einem Taleinschnitt in den Vorbergen mit Haus auf der Hohe. Bezeichnet:Liesbeth Goldbaum. Ol auf Pappe. 47,5 X 70 cm. Schwarzer Rahmen.",500,99.7,False,title_direct,Liesbeth Goldbaum,,CORNICI,,
 BO0624_88328,470776,71,81,"Der Huhnerdieb. BraunweiB gefleckter Huhnerhund wirgt einen Fuchs ab. Zur Seite ein totes Huhn. Im Hintergrund ein Dachshund. Bezeichnet:W. Grabhein. Ol auf Holz. 28,5 X 45 cm. Goldrahmen.",506,99.2,False,title_direct,W.Grabhein,,OGGETTI IN LEGNO,,
-BO0624_88328,470777,72,82,"Atelierszene. Bildhauer arbeitet an einem Marmorrelief nach lebendem Modell. Bezeichnet:M.de. Gregorio Neapel 1866 O1auf Leinwand.67X 44,5 cm,Goldrahmen.",512,99.0,False,title_direct,M. de Gregorio,,,,
+BO0624_88328,470777,72,82,"Atelierszene. Bildhauer arbeitet an einem Marmorrelief nach lebendem Modell. Bezeichnet:M.de. Gregorio Neapel 1866 O1auf Leinwand.67X 44,5 cm,Goldrahmen.",512,99.0,False,title_direct,M. de Gregorio,,,,Sec. XIX
 BO0624_88328,470778,73,83,Am Sonntag. Brustbild eines jovial aussehenden alten Herrn im Zylinder.,518,97.9,False,positional,Ed.Gritzner,,,,
-BO0624_88328,470779,74,84,"Bezeichnet:C. Gussow, Neujahr 1889. Ol auf Holz. 18 X 15 cm. Schwarzer Rahmen.",526,98.0,False,title_direct,C.Gussow,,CORNICI,,
-BO0624_88328,470780,75,85,"Im Atelier. Dame in Hut, Pelz,roter Bluse und braunem Kostum im Atelier. Bezeichnet:Habermann 1907. Ol auf Leinwand. 62 X 75 cm. Dunkler Rahmen. Abbildung Tafel VI.",532,99.0,False,positional,H. Freiherr v.Habermann,,CORNICI,,
+BO0624_88328,470779,74,84,"Bezeichnet:C. Gussow, Neujahr 1889. Ol auf Holz. 18 X 15 cm. Schwarzer Rahmen.",526,98.0,False,title_direct,C.Gussow,,CORNICI,,Sec. XIX
+BO0624_88328,470780,75,85,"Im Atelier. Dame in Hut, Pelz,roter Bluse und braunem Kostum im Atelier. Bezeichnet:Habermann 1907. Ol auf Leinwand. 62 X 75 cm. Dunkler Rahmen. Abbildung Tafel VI.",532,99.0,False,positional,H. Freiherr v.Habermann,,CORNICI,,Sec. XX
 BO0624_88328,470781,76,86,Meeresbrandung. GroBe heranrollende Wogen in der Nordsee.,538,97.3,False,positional,Karl Hagemeister,,,,
-BO0624_88328,470782,77,87,- Bezeichnet:K. Hagemeister 1912. O1 auf Leinwand. 76X 118cm. Goldrahmen.,540,100.0,False,positional,Karl Hagemeister,,,,
+BO0624_88328,470782,77,87,- Bezeichnet:K. Hagemeister 1912. O1 auf Leinwand. 76X 118cm. Goldrahmen.,540,100.0,False,positional,Karl Hagemeister,,,,Sec. XX
 BO0624_88328,470783,78,88,"Ernte bei herannahendem Gewitter. Ol auf Holz. 16 X 24,5 cm. Unter Glas. Dunkler Rahmen. Bezeichnet: Hartmann.",547,98.6,False,positional,Ludwig Hartmann,,CORNICI,,
 BO0624_88328,470784,79,89,"An der Amper. AmperfluB und Landschaft mit Dorf im Hintergrund im Schnee. Bezeichnet: M.Hartwig. O1 auf Pape. 40 X 52 cm. Dunkler Rahmen,",553,98.9,False,title_direct,M.Hartwig,,CORNICI,,
 BO0624_88328,470785,80,92,- 98,555,100.0,False,positional,M.Hartwig,,,,
-BO0624_88328,470786,81,99,"- IOO Romische Landschaft. In der Campagna. Ruinen, Herden und Hirten. Bezeichnet:K.Heilmayer 1872.",557,100.0,False,positional,M.Hartwig,Scuola Romana,,,
+BO0624_88328,470786,81,99,"- IOO Romische Landschaft. In der Campagna. Ruinen, Herden und Hirten. Bezeichnet:K.Heilmayer 1872.",557,100.0,False,positional,M.Hartwig,Scuola Romana,,,Sec. XIX
 BO0624_88328,470787,82,91,"Schwarzwalderin mit Haube und Schleier und buntgeblimtem Halstuch. Bezeichnet:W.Hasemann. Oi auf Leinwand. 50,5X 37.5 cm. Goldrahmen.",570,98.8,False,positional,Wilhelm Hasemann,,,,
 BO0624_88328,470788,83,93,mit einem Mann und einem Kinde.,584,95.2,False,positional,Karl Heffner,,,,
 BO0624_88328,470789,84,94,Dryade in einem bluhenden Baum. Bezeichnet:F.Hegenbarth.,585,97.3,False,positional,Karl Heffner,,,,
@@ -91,7 +91,7 @@ BO0624_88328,470794,89,103,Eine Predigt. Prediger auf der Kanzel. Unten die Hore
 BO0624_88328,470795,90,104,Pieta. Wiederholung des Gemaldes in der Neuen Pinakothek in Muinchen.,666,97.1,False,positional,Eduard von Heub,,,,
 BO0624_88328,470796,91,105,"Savoyardenknabe. Auf dem Kopfe dunklen Hut, beschattete Augen,blauer Mantel und rote Weste. Brustbild. Leiblzeit.",676,98.2,False,positional,Rud. Hirth du Frenes,,,,
 BO0624_88328,470797,92,106,Alter Turm in Schrobenhausen mit daran angebauten Stallen. Bauer und Bauerin als Staffage und Huhner.,684,98.0,False,positional,J.B.Hofner,,,,
-BO0624_88328,470798,93,107,"Stilleben. Seidenstoff, Kupferkessel, Weintrauben und Melonen. Bezeichnet:Erna Horecki 1897. Ol auf Leinwand. 51,5 X 102 cm. Goldrahmen.",690,98.5,False,positional,E.Horecki,,,,
+BO0624_88328,470798,93,107,"Stilleben. Seidenstoff, Kupferkessel, Weintrauben und Melonen. Bezeichnet:Erna Horecki 1897. Ol auf Leinwand. 51,5 X 102 cm. Goldrahmen.",690,98.5,False,positional,E.Horecki,,,,Sec. XIX
 BO0624_88328,470799,94,108,8#Gut Morgen. Gahnender Dachauer.,696,93.9,False,positional,August Hudler,,,,
 BO0624_88328,470800,95,10,g Hollandisches Segelschiff vom Ufer abstoBend.,706,97.9,False,positional,F.Hunten,,,,
 BO0624_88328,470801,96,10,ga Schiffbrichige an einen Mast geklammert in den Wogen. Im Hintergrund brennendes Schiff.,716,98.9,False,positional,R.Jordan,,,,
@@ -128,7 +128,7 @@ BO0624_88328,470831,126,144,Ruhende Odaliske. Auf rosa Seide und zwischen gruine
 BO0624_88328,470832,127,151,## Maler aus der Pilotyschule,969,100.0,False,title_direct,,Pilotyschule,,,
 BO0624_88328,470833,128,146,"Historienbild. Die Kreuzfahrer am Ziel im Angesicht der Stadt Jerusalem. O1 auf Leinwand. 48,5 X 65 cm.Goldrahmen.",971,98.2,False,positional,,Pilotyschule,,,
 BO0624_88328,470834,129,I47,Viehtrieb iber gefrorenen Bach und im Schnee. Im Vordergrund drei Kuhe und eine Hirtin. Abendstimmung in der Landschaft.,975,98.3,False,positional,Christian Mali,,,,
-BO0624_88328,470835,130,148,"Stallinneres mit Huhnern. Bezeichnet: Chr.Mali 1894. O1 auf Pappe. 30,5 X 43 cm. Dunkler Rahmen.",985,97.8,False,positional,Christian Mali,,CORNICI,,
+BO0624_88328,470835,130,148,"Stallinneres mit Huhnern. Bezeichnet: Chr.Mali 1894. O1 auf Pappe. 30,5 X 43 cm. Dunkler Rahmen.",985,97.8,False,positional,Christian Mali,,CORNICI,,Sec. XIX
 BO0624_88328,470836,131,149,Heimkehrende Herde bei heraufziehendem Gewitter. Bezeichnet:Christian Mali.,987,97.3,False,title_direct,Christian Mali,,,,
 BO0624_88328,470837,132,150,"Almhitte in Sidtirol mit Staffage. Den Berg herauf zieht auf Maultieren und Eseln eine vornehme Reisegesellschaft. Im Hintergrund die Alpen. Bezeichnet:H. Marr. 01 auf Leinwand. 51 X 68,5 cm. Goldrahmen.",996,99.0,False,positional,Heinrich Marr,,,,
 BO0624_88328,470838,133,132,#Vorstehhunde. Brauner und getigerter Vorstehhund am Wasser; dariber eine auffliegende Wildente. Bezeichnet:F.E. Martinez. 01 auf Leinwand. 54 X 65 cm. Dunkler Rahmen.,1004,98.8,False,title_direct,F.E.Martinez,,CORNICI,,
@@ -161,7 +161,7 @@ BO0624_88328,470864,159,18,"o Der Johannesknabe ein Lamm tragend, am Boden eine 
 BO0624_88328,470865,160,182,"Bauerin mit einem Kalb, Korb mit gruinen Krautern auf dem Kopf tragend. Bezeichnet: N.P. O1 auf Leinwand. 35X25 cm. Goldrahmen.",1186,98.4,False,positional,N. Palizzi,,,,
 BO0624_88328,470866,161,181,- 183,1195,100.0,False,positional,Charles Palmie,,,,
 BO0624_88328,470867,162,188,Schusterbuben im Gesprach.,1198,92.6,False,positional,Charles Palmie,,,,
-BO0624_88328,470868,163,184,Moschee. Inneres einer Moschee. In einer Fensterecke ein alter Muselmann. Bezeichnet:L.Passini 1875. Ol auf Leinwand. 33 X 24 cm. Goldrahmen.,1204,98.5,False,title_direct,L.Passini,,,,
+BO0624_88328,470868,163,184,Moschee. Inneres einer Moschee. In einer Fensterecke ein alter Muselmann. Bezeichnet:L.Passini 1875. Ol auf Leinwand. 33 X 24 cm. Goldrahmen.,1204,98.5,False,title_direct,L.Passini,,,,Sec. XIX
 BO0624_88328,470869,164,185,Heuernte. Vesperzeit. Im Vordergrund Bauerin mit EBkorb und Bauer aus einem Krug trinkend. Im Hintergrund Wagen und Arbeiter.,1210,98.4,False,positional,Fr.W.Pfeiffer,,,,
 BO0624_88328,470870,165,186,Auf dem Johannisfriedhof in Nurnberg an Allerseelen. Die steinerne Kreuzigungsgruppe. Im Vordergrund zwei Frauengestalten in Trauer an Grabern. Bezeichnet:Perlberg. Aquarell in weiBem Passepartout. 83X63 cm. Unter Glas. Goldrahmen.,1218,99.1,False,positional,R.Perlberg,Scuola di Norimberga,,,
 BO0624_88328,470871,166,187,"Interieur aus einem Schlosse der Renaissance mit einem Erker mit Marmorgruppe und Pflanzen. Links ein Kamin,rechts ein machtiges Himmelbett, davor ein umgestirzter Tisch mit Pokalen,einem am Boden liegenden Degen.Im Hintergrund im Dunkel die Leiche eines Edelmanns.Vielleicht Studie zur Ermordung Wallensteins? Ol auf Leinwand. 5I Xgo cm.Unter Glas.Goldrahmen.",1224,99.4,False,positional,Carl von Piloty,,ARREDAMENTI,,
@@ -170,8 +170,8 @@ BO0624_88328,470873,168,I9,"o In Gedanken. Junge Dame auf einer Bank im fruhling
 BO0624_88328,470874,169,19,"oa Ideallandschaft. Im Vordergrund Baume,im Mittelgrund stark beleuchteter Berg, im Hintergrund Meer. O1 auf Leinwand. 24,5X 23,5 cm. Goldrahmen.",1246,99.3,False,positional,,Preller-Schule,,,
 BO0624_88328,470875,170,193,Baumen ein Haus mit erhelltem Fenster. Am Ufer Kahn und etliche Leute.,1276,97.1,False,positional,1.R.Rapp,,,,
 BO0624_88328,470876,171,191,- und allerhand Reisende.,1278,100.0,False,positional,1.R.Rapp,,,,
-BO0624_88328,470877,172,195,"Fischerboote am Strand. Bezeichnet: Fr. Raupp, Hela 1909. Ol auf Leinwand. 45 X 53 cm. Unter Glas. Schwarzer Rahmen.",1291,98.2,False,positional,Friedrich Raupp,,CORNICI,,
-BO0624_88328,470878,173,196,"Amalfi am Golf von Salerno. Felsige Kuiste. In der Brandung Schiffbrichige.Am Ufer eine Gruppe a Frauenbildnis. Blonde Frau en face mit schwarzem Kleid. Bezeichnet;G.Reichmann 1836. 01 auf Leinwand. 41 X 34,5 cm.Goldrahmen.",1304,71.9,False,positional,G.F.Reichmann,,OGGETTI VARI,,
+BO0624_88328,470877,172,195,"Fischerboote am Strand. Bezeichnet: Fr. Raupp, Hela 1909. Ol auf Leinwand. 45 X 53 cm. Unter Glas. Schwarzer Rahmen.",1291,98.2,False,positional,Friedrich Raupp,,CORNICI,,Sec. XX
+BO0624_88328,470878,173,196,"Amalfi am Golf von Salerno. Felsige Kuiste. In der Brandung Schiffbrichige.Am Ufer eine Gruppe a Frauenbildnis. Blonde Frau en face mit schwarzem Kleid. Bezeichnet;G.Reichmann 1836. 01 auf Leinwand. 41 X 34,5 cm.Goldrahmen.",1304,71.9,False,positional,G.F.Reichmann,,OGGETTI VARI,,Sec. XIX
 BO0624_88328,470879,174,197,"Das Kapitol in Rom. Bezeichnet:Riccardi.                       | Ol auf Holz. 20 X 1I cm. Goldrahmchen.   | ) Felsen bei Capri. Bezeichnet:Riccardi.                          | Ol auf Holz. 19 X31 cm. Goldrahmen,      |",1308,66.7,False,positional,Pepino Riccardi,,OGGETTI IN LEGNO,,
 BO0624_88328,470880,175,198,"8 Italienerin mit ihrem Jungsten auf dem Schob. Ein Madchen zur Seite liegend. Ausblick aufs Meer. Bezeichnet auf der Ruckseite: Aug. Riedel, Rom. Oi auf Leinwand. 7o X 87 cm. Unter Glas. Goldrahmen,",1329,98.9,False,positional,August Riedel,,,,
 BO0624_88328,470881,176,199,neben ihm am Boden kauernd. - 2I2 statte sitzend.,1331,69.3,False,positional,August Riedel,,,,
@@ -181,7 +181,7 @@ BO0624_88328,470884,179,203,Bildnis einer Englanderin. Blondine in weiBem Kleid.
 BO0624_88328,470885,180,204,Damenbildnis (Frl. W.Rom).,1358,91.7,False,positional,M.Rob,,,,
 BO0624_88328,470886,181,205,5Kaukasischer Reiter auf falbem Pferd galoppierend. Im Hintergrund eine Stadt. Bezeichnet:Fr.Roubaud.,1367,98.0,False,title_direct,F.Roubaud,,,,
 BO0624_88328,470887,182,206,"Tscherkessischer Reiter im roten Rock mit einer Trompete. Auf einem Schimmel sitzend. In sonniger Landschaft. Ol auf Holz. 42,5 X 51 cm. Unter Glas. Schwarzer Rahmen. Bezeichnet:Roubaud.",1368,98.9,False,positional,F.Roubaud,,CORNICI,,
-BO0624_88328,470888,183,208,"8Edelmann in der Tracht des 17. Jahrhunderts, auf dem Cello spielend. Bezeichnet:F.Roybet.",1383,97.7,False,title_direct,F.Roybet,,,,
+BO0624_88328,470888,183,208,"8Edelmann in der Tracht des 17. Jahrhunderts, auf dem Cello spielend. Bezeichnet:F.Roybet.",1383,97.7,False,title_direct,F.Roybet,,,,Sec. XVII
 BO0624_88328,470889,184,210,"Studie. Bauerin sitzend, vor ihr ein Korb. Bezeichnet:H. S.",1399,96.4,False,positional,H. Salatin,,,,
 BO0624_88328,470890,185,2,"II Stilleben. Champagnerglas,Erdbeeren, Orangen und Zitronen.",1404,99.1,False,positional,H. Searle,,,,
 BO0624_88328,470891,186,2,I7,1416,80.0,False,positional,Anton Seitz,,,,
@@ -228,7 +228,7 @@ BO0624_88328,470931,226,257,Pferde auf der Weide. Im Vordergrund brauner Wallach
 BO0624_88328,470932,227,258,Gebirgstal. Im Hintergrund die Schneeberge. Im Tal Heuernte. Im Vordergrund ein beladener Heuwagen.,1712,97.9,False,positional,C.Toecke,,,,
 BO0624_88328,470933,228,259,"Partie aus Villa d'Este. O1 auf Leinwand. 30,5 X 40 cm. Dunkler Rahmen. Bezeichnet:E. Troni.",1720,97.7,False,title_direct,F.Troni,,CORNICI,,
 BO0624_88328,470934,229,260,"Hundebild. Rehfarbener Foxterrier, sitzend,in Dreiviertelansicht des Korpers,den rechten Vorder-",1728,97.9,False,positional,C.Troyon,,,,
-BO0624_88328,470935,230,26,"oa Rote gefleckte Kuh und weiBes Kalb im Grinen. Bezeichnet:C. Troyon 1854. Oval.Ol auf Pappe. 1oX 12,5 cm. Goldrahmen.",1735,99.1,False,title_direct,C.Troyon,,,,
+BO0624_88328,470935,230,26,"oa Rote gefleckte Kuh und weiBes Kalb im Grinen. Bezeichnet:C. Troyon 1854. Oval.Ol auf Pappe. 1oX 12,5 cm. Goldrahmen.",1735,99.1,False,title_direct,C.Troyon,,,,Sec. XIX
 BO0624_88328,470936,231,260,b Waldinneres.,1737,86.7,False,positional,C.Troyon,,,,
 BO0624_88328,470937,232,255,Abbildung Tafel XVII.,1741,90.9,False,positional,C.Troyon,,,,
 BO0624_88328,470938,233,267,"## P.G.Vertin, Kopie",1744,100.0,False,title_direct,P.G.Vertin,,,,
@@ -242,7 +242,7 @@ BO0624_88328,470945,240,268,leuchtung.,1783,81.8,False,positional,T.Weller,,,,
 BO0624_88328,470946,241,269,Motiy bei Tolz. Waldpartie mit einem alten Stauwehr im Vordergrund. Sommerstimmung mit prachtig durchgebildetem Baumschlag.,1795,98.4,False,positional,Jos. Wenglein,,,,
 BO0624_88328,470947,242,270,"Waldschneise, zu beiden Seiten eingezaunt. Ein Hirtenbub vom Rucken her sichtbar,sitzt auf der Umzaunung.",1797,98.1,False,positional,Jos. Wenglein,,,,
 BO0624_88328,470948,243,271,Bezeichnet rechts unten: Josef Wenglein.,1803,100.0,False,positional,Jos. Wenglein,,,,
-BO0624_88328,470949,244,272,"Theaterprinzessinnen, die mit ein paar Alten Schabernack treiben. Bezeichnet: Josef Weiser 1910. O1 auf Leinwand. 66 X 52 cm. Goldrahmen.",1815,98.5,False,positional,J.Weiser,,,,
+BO0624_88328,470949,244,272,"Theaterprinzessinnen, die mit ein paar Alten Schabernack treiben. Bezeichnet: Josef Weiser 1910. O1 auf Leinwand. 66 X 52 cm. Goldrahmen.",1815,98.5,False,positional,J.Weiser,,,,Sec. XX
 BO0624_88328,470950,245,273,Bezeichnet:J. Weiser.,1816,90.5,False,title_direct,J.Weiser,,,,
 BO0624_88328,470951,246,274,"Das verwunschene SchloB.k Zwischen Waldbergen (Ardennen) und Baumen ein altersgraues ein. sames SchloB. Landschaft in gewitteriger Stimmung und Beleuchtung. Ol auf Leinwand. 11o,5 X 130 cm. Goldrahmen.",1823,99.0,False,positional,Fritz von Wille,,,,
 BO0624_88328,470952,247,275,Fruchtestilleben.,1826,88.9,False,positional,Fritz von Wille,,,,
@@ -253,4 +253,4 @@ BO0624_88328,470956,251,280,"Landschaft mit Baumgruppen und Hutten am Wasser, in
 BO0624_88328,470957,252,281,"Starnberger See bei Sonnenschein nach dem Regen. Am Ufer Fischer, Netze aus dem Kahn nehmend. Bezeichnet links unten:J. Wopfner. Ol auf Leinwand. 42 X 62 cm. Dunkler Rahmen. Abbildung Tafel IV.",1853,98.9,False,title_direct,1.Wopfner,,CORNICI,,
 BO0624_88328,470958,253,282,lebt in Munchen. za Angeblich Geburtshaus der Konigin Luise unter Baumen uber einem Hugel an einem See. Abendstimmung. Bezeichnet:W. M. O.44. Ol auf Leinwand. 36 X 45 cm. Goldrahmen.,1865,94.6,False,positional,1.Wopfner,,,,
 BO0624_88328,470959,254,283,Kihe. Schwarze und gefleckte Kuh im Halbschatten auf einem Waldweg.,1869,97.0,False,positional,H.von Zugel,,,,
-BO0624_88328,470960,255,285,Abendstimmung im Moor. FluBufer mit Auenwald bei Abendbeleuchtung. Bezeichnet links unten:Zwengauer 1892.,1887,98.1,False,positional,A. Zwengauer,,,,
+BO0624_88328,470960,255,285,Abendstimmung im Moor. FluBufer mit Auenwald bei Abendbeleuchtung. Bezeichnet links unten:Zwengauer 1892.,1887,98.1,False,positional,A. Zwengauer,,,,Sec. XIX

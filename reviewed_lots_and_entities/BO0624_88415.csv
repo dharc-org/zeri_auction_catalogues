@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88415,205394,1,2,3. Zwei Darstellungen von chirurgischen Operationen. Kopien eines deutschen Kunstlers,17,98.8,False,positional,D. TENIERS,,OGGETTI VARI,,
 BO0624_88415,205395,2,4,"Der Tabulettkramer,anscheinend nach einer Komposition des A.van Ostade. Leinwand.",18,98.8,False,positional,D. TENIERS,,,,
-BO0624_88415,205396,3,5,"Die Bauerin bei dem Urindoktor. Auf Holz,mit dem Namen des Kopisten Debie. Hohe 23cm,Br.31 cm.Brauner Rahmen. 1811.",20,96.8,False,positional,D. TENIERS,,CORNICI,,
+BO0624_88415,205396,3,5,"Die Bauerin bei dem Urindoktor. Auf Holz,mit dem Namen des Kopisten Debie. Hohe 23cm,Br.31 cm.Brauner Rahmen. 1811.",20,96.8,False,positional,D. TENIERS,,CORNICI,,Sec. XIX
 BO0624_88415,205397,4,6,"Stilleben mit Frichten und Hering. Leinwd.,monogramm. H. 27 cm,Br. 40 cm. G.-R.",26,98.6,False,positional,KATH.TREU,,,,
 BO0624_88415,205398,5,7,8. Zwei innere Ansichten mit Bauernszenen.Gegensticke. Holz.Kopien aus dem,30,98.6,False,positional,ISACK VAN OSTADE,,OGGETTI IN LEGNO,,
 BO0624_88415,205399,6,18,"Jahrh.H.23 cm,Br.35cm.G.-R.",31,94.3,False,positional,ISACK VAN OSTADE,,,,
@@ -9,7 +9,7 @@ BO0624_88415,205400,7,9,"Lavinia,die Tochter des Meisters.Leinwand. H.104 cm,Br.
 BO0624_88415,205401,8,10,"Die Venetianerin.Leinwand,beschadigt. H.104 cm,Br.83 cm.G.R. geboren.",39,91.3,False,positional,G.G.SAVOLDO,,,,
 BO0624_88415,205402,9,11,1ia. Zwei kleine Felsenlandschaften mit Wasser und Staffage. Gegensticke. Holz. Jahrhundert.,45,90.9,False,positional,N.PERELLE,,OGGETTI IN LEGNO,,
 BO0624_88415,205403,10,12,"Lesender Philosoph bei Kerzenbeleuchtung. Holz. H. 22 cm, Br. 12 cm. S. R.",52,97.8,False,positional,L.SOMAKER,,OGGETTI IN LEGNO,,
-BO0624_88415,205404,11,13,"Brustbild eines bartlosen Mannes in Leibrock und Vatermordern. Leinwand. H.36 cm, Br.27cm.G.-R. 1774",58,95.7,False,positional,,DEUTSCHE SCHULE,,,
+BO0624_88415,205404,11,13,"Brustbild eines bartlosen Mannes in Leibrock und Vatermordern. Leinwand. H.36 cm, Br.27cm.G.-R. 1774",58,95.7,False,positional,,DEUTSCHE SCHULE,,,Sec. XVIII
 BO0624_88415,205405,12,14,"Brustbild eines Orientalen mit Pelzmitze.Proflansicht.Holz.H. 29 cm,Br.21 cm. S.R.",64,98.1,False,positional,C.W.E.DIETRICH,,OGGETTI IN LEGNO,,
 BO0624_88415,205406,13,15,"Helene Fourment im Pelz. Leinwand. H. 93 cm, Br.75 cm. G.-R.",68,97.2,False,positional,P.P.RUBENS,,,,
 BO0624_88415,205407,14,2,"16.Weibliche Halbfgur mit entbloBtem Oberkorper.Leinwand. H. 93 cm, Br.75 cm.G.R.",69,98.7,False,positional,P.P.RUBENS,,,,
@@ -21,7 +21,7 @@ BO0624_88415,205412,19,22,"Huftbild einer jungen Dame in blauer, ausgeschnittene
 BO0624_88415,205413,20,23,- 24.Weibliches Brustbild mit schwarzer Krause um den Hals. Pastellgemalde. Rokoko-G.-R.,95,100.0,False,positional,HALS DIRK,FRANZOSISCHE SCHULE,,,
 BO0624_88415,205414,21,17,18.Jahrhundert.,97,90.3,False,positional,,FRANZOSISCHE SCHULE,,,
 BO0624_88415,205415,22,25,"Aquarellierte Federzeichnung: Furst mit Gefolge auf der Jagd.Vielfiguriges Bild in Landschaft.H. 43 cm,Br. 53 cm.S.R.",101,98.7,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_88415,205416,23,26,"Landliches Interieur mit Familienszene. Lichteffekt. Holz.Bez.:J. G.Leitner.Wien 1830.H. 32 cm,Br.25 cm.G.-R.",105,98.6,False,positional,GEORG LEITNER,Scuola Viennese,ARREDAMENTI,,
+BO0624_88415,205416,23,26,"Landliches Interieur mit Familienszene. Lichteffekt. Holz.Bez.:J. G.Leitner.Wien 1830.H. 32 cm,Br.25 cm.G.-R.",105,98.6,False,positional,GEORG LEITNER,Scuola Viennese,ARREDAMENTI,,Sec. XIX
 BO0624_88415,205417,24,27,"Inneres einer Weberei mit Familienszene. Auf Holz mit dem Naimen des Kopisten Debie.H.43cm,Br.53cm.G.-R.",111,98.5,False,positional,CORNELIS DECKER; A.VON OSTADE,,OGGETTI IN LEGNO,,
 BO0624_88415,205418,25,28,"Hollandische FluBlandschaft mit groBen Baumen im rechten Vordergrund. Fahre als Staffage.Leinwand. Mit dem Namen des Kopisten Debie. H. 84 cm,Br.125 cm.G.-R.",117,99.0,False,positional,FRANZ HALS,,,,
 BO0624_88415,205419,26,29,"Brustbild eines Mannes mit schwarzem Schlapphut. Kopie von W. Nirnberg. Leinwd.,",118,98.0,False,positional,FRANZ HALS,,,,
@@ -29,7 +29,7 @@ BO0624_88415,205420,27,30,"Loth mit seinen beiden Tochtern. Im Hintergrunde bren
 BO0624_88415,205421,28,31,"Diana und Endymion.Leinwand. H.76 cm,Br.92 cm.G.R.",131,97.0,False,positional,J. B. DES HAYES,,,,
 BO0624_88415,205422,29,32,"Hirten, ihr Vieh zur Tranke treibend. Kupfer, signiert.H.40 cm, Br. 30 cm. G.R.",132,98.0,False,positional,J. B. DES HAYES,,OGGETTI IN RAME,,
 BO0624_88415,205423,30,33,"Madonna mit Kind. Halbfg. Auf ovale Kupferplatte gemalt. H. 19 cin, Br. 21 cm. G.R.",133,98.0,False,positional,J. B. DES HAYES,,,,
-BO0624_88415,205424,31,34,"Dame mit Facher, in ganzer Figur, stehend. Kreidezeichnung. H. 34 cm, Br. 21 cm. 1677",141,94.7,False,positional,A.V.D.NEER,,SCOMPARTI,,
+BO0624_88415,205424,31,34,"Dame mit Facher, in ganzer Figur, stehend. Kreidezeichnung. H. 34 cm, Br. 21 cm. 1677",141,94.7,False,positional,A.V.D.NEER,,SCOMPARTI,,Sec. XVII
 BO0624_88415,205425,32,35,"Niederlandisches Dorf an einem Gewasser bei Mondbeleuchtung. Leinwand, signiert. H.38cm,Br.57cm.G.-R.",145,98.5,False,positional,A.V.D.NEER,,,,
 BO0624_88415,205426,33,6,- Br. 62cm.G.-R.,148,100.0,False,positional,A.V.D.NEER,,,,
 BO0624_88415,205427,34,50,"Bacchus bei dem trunkenen Silen. Daneben ein Konig mit Begleitung. Leinwand. H.38 cm,Br.46cm.G.-R.",150,98.4,False,positional,A.V.D.NEER,,,,
@@ -41,8 +41,8 @@ BO0624_88415,205432,39,38,"Anbetung. O1 auf Kupferplatte. H.29,5 cm,Br.24 cm.S.R
 BO0624_88415,205433,40,39,"Mann in roter Jacke, mit Trinkpokal in der Hand. Ol auf Pappe. H. 34 cm, Br. 26 cm. G.-R. Abb.Tafel4",180,98.4,False,positional,,NIEDERLANDER SCHULE,,,
 BO0624_88415,205434,41,40,"Landschaft mit liegender und stehender Kuh. Holz. H. 24 cm,Br. 30 cm. G.-R.",184,97.8,False,positional,A.V.D.VELDE,,OGGETTI IN LEGNO,,
 BO0624_88415,205435,42,41,"Thomas Morus. Brustbild,in schwarzem pelzverbramten Mantel und Kappchen.",189,97.9,False,positional,PH. DE KONING,,,,
-BO0624_88415,205436,43,1615,1673.,193,61.5,False,positional,SALV. ROSA,,,,
-BO0624_88415,205437,44,1605,1654.,197,61.5,False,positional,LUCA FERRARI,,,,
+BO0624_88415,205436,43,1615,1673.,193,61.5,False,positional,SALV. ROSA,,,,Sec. XVII
+BO0624_88415,205437,44,1605,1654.,197,61.5,False,positional,LUCA FERRARI,,,,Sec. XVII
 BO0624_88415,205438,45,43,Christus als Knabe im Tempel lehrend. Komposition von funf Halbfiguren. Leinwand. Jahrhundert.,200,91.2,False,positional,LUCA FERRARI,,,,
 BO0624_88415,205439,46,44,"Eule zwischen toten Vogeln und Frichten. Holz. H. 35 cm,Br.53 cm. S. R.",206,97.7,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88415,205440,47,45,"Entwurf zu einem Tabernakelrahmen mit Engelskopfen.Sepiazeichnung,bez.Palma.V",210,98.1,False,positional,PALMA VECCHIO,,STAMPE E INCISIONI,,
@@ -52,33 +52,33 @@ BO0624_88415,205443,50,48,"Innere Ansicht mit rauchendem Bauern, der mit einer j
 BO0624_88415,205444,51,17,Jahrhundert.,230,88.0,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_88415,205445,52,53,"Venus,im Vordergrunde eine Landschaft, auf einem Ruhebette liegend und schlafend. Ein Vorhang schlieBt den linken Hintergrund. Rechts Blick auf das Meer. Leinwand.",233,99.1,False,positional,GIORGIO BARBARELLI,,,,
 BO0624_88415,205446,53,53,"a. Hirtenstuck. In einer Landschaft, dessen Mittelgrund von einem Bauernhof einponiertes Bild. Leinwand. Auf dem Durchschnitt eines Baumstammes mit dem Namen Jahrhundert.",238,95.6,False,positional,A. CUIJP,,,,
-BO0624_88415,205447,54,54,a-b. Portrat eines Fursten in Rustung und Hermelinmantel.Die Gemahlin des vorher 1600.,245,95.8,False,positional,,DEUTSCHE SCHULE,,,
+BO0624_88415,205447,54,54,a-b. Portrat eines Fursten in Rustung und Hermelinmantel.Die Gemahlin des vorher 1600.,245,95.8,False,positional,,DEUTSCHE SCHULE,,,Sec. XVII
 BO0624_88415,205448,55,55,"Ein Mann umarmt eine sitzende,mit Naharbeit beschaftigte Frau. Auf eine runde Holz",252,98.2,False,positional,LUCAS V.VALCKENBORCH,,OGGETTI IN LEGNO,,
 BO0624_88415,205449,56,2,platte gemalt. Durchm.17 cm.G.R.,253,96.8,False,positional,LUCAS V.VALCKENBORCH,,,,
 BO0624_88415,205450,57,17,"Jahrhundert. Halbfguren zweier trinkender Manner, einer mit Federhut und Pfeife in halbgeoffnetem Oberkleid.Holz.H.78 cm,Br. 48 cm.Brauner R. Jahrhundert.",259,91.0,False,positional,,HOLLANDISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88415,205451,58,57,"Kaiserin Maria Theresia in Witwentracht. Brustbild. Leinwand. H. 45 cm, Br. 35 cm. G.-R. 1679.",267,95.2,False,positional,THOMAS DE KEIJSER,,,,
-BO0624_88415,205452,59,58,"Wilhelm von Oranien, Brustbild,mit kurz gehaltenem Bart, in halber Wendung nach rechts. Uber dem schwarzen,mit Gold gestickten Wams gefaltelte weiBe Halskrause Holz.H.44 cm,Br.32 cm.S.R. 1678",271,97.8,False,positional,THOMAS DE KEIJSER,,OGGETTI IN LEGNO,,
+BO0624_88415,205451,58,57,"Kaiserin Maria Theresia in Witwentracht. Brustbild. Leinwand. H. 45 cm, Br. 35 cm. G.-R. 1679.",267,95.2,False,positional,THOMAS DE KEIJSER,,,,Sec. XVII
+BO0624_88415,205452,59,58,"Wilhelm von Oranien, Brustbild,mit kurz gehaltenem Bart, in halber Wendung nach rechts. Uber dem schwarzen,mit Gold gestickten Wams gefaltelte weiBe Halskrause Holz.H.44 cm,Br.32 cm.S.R. 1678",271,97.8,False,positional,THOMAS DE KEIJSER,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88415,205453,60,59,"Das Urteil des Midas. Der Satyr Marsyas blast die Panfote. Midas, rechts stehend, stitzt sich auf seine Schulter. Links Apollo, die Leyer im Arm. En grisaille auf Leinwand gemalt.H.28 cm,Br.38 cm.S.R.",277,99.2,False,positional,JACOB JORDAENS,,,,
 BO0624_88415,205454,61,60,"Im Vordergrunde einer Landschaft von vielem Volk umgeben St. Johannes, Christus taufend. Links ein Engel, das Gewand Christi haltend. Lwd.H. 81 cm, Br. 76 cm. G-R. Abb.Tafel6",281,99.1,False,positional,CASP. DE CRAYER,,,,
 BO0624_88415,205455,62,17,Jahrhundert.,289,88.0,False,positional,,DEUTSCHE SCHULE,,,
 BO0624_88415,205456,63,62,Das Martyrium einer Heiligen. Figurenreiche Komposition mit Engeln in den Luften.,292,98.1,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_88415,205457,64,63,"Religiose Allegorie. Ein Engel zeigt dem schlafenden heiligen Joseph die zukiunftige Gattin Maria.In den Luften Cherubim.Leinwand,mit einer anscheinend spater hinzugefugten Signatur.H.130 cm,Br.180 cm.G.-R. 1647",296,98.1,False,positional,GIOVANNI LANFRANCO,,,,
+BO0624_88415,205457,64,63,"Religiose Allegorie. Ein Engel zeigt dem schlafenden heiligen Joseph die zukiunftige Gattin Maria.In den Luften Cherubim.Leinwand,mit einer anscheinend spater hinzugefugten Signatur.H.130 cm,Br.180 cm.G.-R. 1647",296,98.1,False,positional,GIOVANNI LANFRANCO,,,,Sec. XVII
 BO0624_88415,205458,65,64,Brustbild der Francoise d Aubigne Marquise de Maintenon. Huftbild in roter Taille ## MONOGRAMM H.C.INV.,306,88.4,False,positional,PIERRE MIGNARD,,,,
 BO0624_88415,205459,66,65,"Innere Ansicht. Mann in Frauenkleidern auf einem Steckenpferd reitend, Trommler Jahrhundert.",311,91.1,False,positional,PIERRE MIGNARD,,,,
 BO0624_88415,205460,67,66,"Viglius van Zuichem,Prasident des Geh.Rates, Brussel Brustbild in schwarzem Wams. Holz.H.55cm,Br.45cm.S.R. Jahrhundert.",319,93.2,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88415,205461,68,67,Toter Hase von der Wand herabhangend. Dunkler Grund. Leinwand. H. 88 cm.,328,97.8,False,positional,J.B.WEENIX,,,,
-BO0624_88415,205462,69,67,a. Schlachtenszene. Im Vordergrunde ein Fuhrer mit seinen Offizieren. Leinwand 1516.,332,95.5,False,positional,J.COURTOIS.BOURGNIGNON,,,,
+BO0624_88415,205462,69,67,a. Schlachtenszene. Im Vordergrunde ein Fuhrer mit seinen Offizieren. Leinwand 1516.,332,95.5,False,positional,J.COURTOIS.BOURGNIGNON,,,,Sec. XVI
 BO0624_88415,205463,70,68,"St. Johannes auf Pathmos. Holz. H. 26 cm,Br. 28 cm. G.R.",339,97.0,False,positional,HIERONYMUS BOSCH,,OGGETTI IN LEGNO,,
 BO0624_88415,205464,71,69,"Der blinde Geiger. Pastellgemalde. H. 65 cm, Br. 47 cm S. R. Jahrhundert,",343,87.6,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_88415,205465,72,70,"Gerichtsszene. Ein Konig mit Zepter und Krone falt ein Urteil iber eine Familie, dessen eines Kind auf dem Gerichtstische liegt. Im Hintergrunde eine Stadt mit reicher Architektur und vielen Figuren. Evang. Matth. Kap. 18 Vers 23 f. Holz, signiert. H. 120 cm,Br.150 cm.S.R. Abb.Tafel 1",349,99.5,False,positional,AEGIDIUS NOVIS,,OGGETTI IN LEGNO,,
 BO0624_88415,205466,73,71,"Inneres mit zechenden und kartenspielenden Bauern. Leinwand, mit Spuren einer",358,98.0,False,positional,J.M.MOLENAER,,,,
-BO0624_88415,205467,74,72,"Reiterscharmitzel. Im Hintergrunde eine befestigte Stadt. Holz, rechts unten signiert. 1638.",362,95.3,False,positional,PALAMEDESZ.STEVAERTS,,OGGETTI IN LEGNO,,
-BO0624_88415,205468,75,73,"Blick auf ein militarisches Lager. Im Vordergrunde links drei Offiziere zu Pferde iin Gesprach.Holz.H.40 cm,Br.70 cm.S.R. 1704",370,96.7,False,positional,JAN MARSEN,,OGGETTI IN LEGNO,,
+BO0624_88415,205467,74,72,"Reiterscharmitzel. Im Hintergrunde eine befestigte Stadt. Holz, rechts unten signiert. 1638.",362,95.3,False,positional,PALAMEDESZ.STEVAERTS,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88415,205468,75,73,"Blick auf ein militarisches Lager. Im Vordergrunde links drei Offiziere zu Pferde iin Gesprach.Holz.H.40 cm,Br.70 cm.S.R. 1704",370,96.7,False,positional,JAN MARSEN,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88415,205469,76,74,"Reiterscharmutzel im Vordergrunde einer Gebirgslandschaft. Im Vordergrunde ein Kavalier vom Pferde gestochen. Leinwand. H.53 cm,Br. 72 cm.G.R.",376,71.0,False,positional,JOS. PARROCEL,,,,
-BO0624_88415,205470,77,75,"Diana mit ihren Nymphen nach der Jagd bei der gemachten Beute. Holz. H. 44 cu, Br.40cm.S.R. 1813.",381,95.6,False,positional,,P.P. RUBENS.SCHULE,OGGETTI IN LEGNO,,
+BO0624_88415,205470,77,75,"Diana mit ihren Nymphen nach der Jagd bei der gemachten Beute. Holz. H. 44 cu, Br.40cm.S.R. 1813.",381,95.6,False,positional,,P.P. RUBENS.SCHULE,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88415,205471,78,76,"Harzlandschaft. Durch ein Felsentor blickt man auf die von der Morgensonne beleuchteten felsigen Abhange des Bodetals. Wild und Jager als Staffage. Leinwand, signiert.H.95cm, Br.116cm.",387,99.2,False,positional,JANUS GENELLI,,,,
 BO0624_88415,205472,79,2,"H.66cm,Br.95 cm.G.-R.",388,95.0,False,positional,JANUS GENELLI,,,,
-BO0624_88415,205473,80,1621,1676.,390,61.5,False,positional,JANUS GENELLI,,,,
+BO0624_88415,205473,80,1621,1676.,390,61.5,False,positional,JANUS GENELLI,,,,Sec. XVII
 BO0624_88415,205474,81,80,"Der Kirchenvater St.Augustin,vor einem Pult sitzend und schreibend.Leinwand. H.55cm,Br.42cm.G.-R.",394,98.4,False,positional,JANUS GENELLI,,,,
 BO0624_88415,205475,82,77,"Ein Heiliger im blauen Gewand und roten Mantel halt das auf einem Kissen ruhende Christuskind. Rechts ein Engel, die Rechte zum Himmel erhoben. Leinwand, H. 81 cm, Br.68cm.G.-R. Jahrhundert.",400,95.8,False,positional,,DEUTSCHE SCHULE,BIANCHERIA,,
 BO0624_88415,205476,83,78,Geibelung Christi. EinfuB von M. Schongauer. Gruppe von finf Personen in einer,406,98.0,False,positional,,DEUTSCHE SCHULE,OGGETTI VARI,,
@@ -90,43 +90,43 @@ BO0624_88415,205481,88,19,Jahrhundert.,420,88.0,False,positional,T.PASQUOTTI,Scu
 BO0624_88415,205482,89,82,"Die heilige Therese feht bei Christus fir die im Fegefeuer Leidenden. Leinwand, sign. H.180 cm,Br.104 cm.G.-R. a. Maria Guise, Mutter der Maria Stuart,in reich mit Spitzen besetztem Sterbeheimd",422,71.4,False,positional,T.PASQUOTTI,,,,
 BO0624_88415,205483,90,83,"St. Petrus,auf Wolken sitzend, halt das Christuskind auf dem SchoB.Unten St.Antonius und Ignatius von Loyola.Leinwand, oben abgerundet, signiert.H. 238 cm. Br.110cm.",433,96.1,False,positional,MENEGAZZI,,,,
 BO0624_88415,205484,91,84,Im Vordergrunde einer Barockkirche reicht cin Engel einer heiligen Nonne die KomBr.110cm.,440,98.3,False,positional,SCAGGIARI,,,,
-BO0624_88415,205485,92,85,"Heiliger auf einem Postament,von vier Bischofen umgeben. Leinwand, signiert.Hohe 160cm,Br.90 cm.G.-R. 1842.",448,96.0,False,positional,E.VIGEE-LEBRUN,,,,
+BO0624_88415,205485,92,85,"Heiliger auf einem Postament,von vier Bischofen umgeben. Leinwand, signiert.Hohe 160cm,Br.90 cm.G.-R. 1842.",448,96.0,False,positional,E.VIGEE-LEBRUN,,,,Sec. XIX
 BO0624_88415,205486,93,86,"Familiengruppe. Eine junge Frau im weiben Gewand, im Vordergrunde einer Landschaft sitzend, ihr Kind saugend. Ihr Gatte, die Tonpfeife in der Hand,daneben. Leinwand.H.130 cm,Br.110 cm.G.-R.",452,99.2,False,positional,E.VIGEE-LEBRUN,,,,
 BO0624_88415,205487,94,87,":Der Leichnam Christi von zwei Engeln gehalten. Lebensgrobe Figuren. Leinwand. H.132cm,Br. 164 cm.G.-R. Abb.Tafel6",458,98.6,False,positional,E.VIGEE-LEBRUN,,,,
-BO0624_88415,205488,95,1596,1666.,460,61.5,False,positional,E.VIGEE-LEBRUN,,,,
-BO0624_88415,205489,96,87,"a. Rosen und Tulpen in einem dunkelgrinen Glaspokal. Holz. Rechts unten signiert. H.51 cm,Br.36cm.G.-R. 1776.",464,96.5,False,positional,JACOB VAN ES,,OGGETTI IN LEGNO,,
+BO0624_88415,205488,95,1596,1666.,460,61.5,False,positional,E.VIGEE-LEBRUN,,,,Sec. XVII
+BO0624_88415,205489,96,87,"a. Rosen und Tulpen in einem dunkelgrinen Glaspokal. Holz. Rechts unten signiert. H.51 cm,Br.36cm.G.-R. 1776.",464,96.5,False,positional,JACOB VAN ES,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88415,205490,97,88,"Die Opferung der Polyxena. Figurenreiche Komposition. Kupfer.H.39 cm, Br. 53 cm.",470,98.0,False,positional,BALTHASAR BESCHEY,,OGGETTI IN RAME,,
 BO0624_88415,205491,98,89,Kustenlandschaft bei Mondbeleuchtung. Im Vordergrunde Manner bei einem Feuer.,477,98.0,False,positional,GROOTVELD,,,,
-BO0624_88415,205492,99,90,"GroBe Marktszene mit Zelten und Buden im Mittelgrunde. Vorn Schlachter, sein Ge- 1592.",481,95.1,False,positional,JACOPO DA PONTE.BASSANO,,BASTONI,,
+BO0624_88415,205492,99,90,"GroBe Marktszene mit Zelten und Buden im Mittelgrunde. Vorn Schlachter, sein Ge- 1592.",481,95.1,False,positional,JACOPO DA PONTE.BASSANO,,BASTONI,,Sec. XVI
 BO0624_88415,205493,100,91,"Die Wunder des heiligen Franziskus von Paula, Sehr reich komponiertes Bild. Eine",486,98.1,False,positional,JACOPO DA PONTE.BASSANO,,,,
 BO0624_88415,205494,101,92,"a-b. Zwei Stilleben:Blumen und Frichte, durch Insekten belebt. Gegensticke. Leinwd.. Jahrhundert",496,91.8,False,positional,GEORG KNEIP,,,,
 BO0624_88415,205495,102,93,"a-b. Ein Bildhauer in seiner Werkstatt, vor einer Biste sitzend. Links ein Famulus.Ein Maler, an einem Landschaftsbilde malend. Zu beiden Seiten Schiler. Gegensticke",505,99.4,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_88415,205496,103,94,"Halbfigur eines Geistlichen, daneben ein Knabe in reicher Gewandung, Geld in ein Beutel werfend,den der Dargestellte in der Rechten halt. Rechts oben ein Wappe und Aet. suae 60 mit Jahreszahl·1690. Leinwand. H. 80 cm,Br.64 cm. S. R. a Die heilige Jungfrau, das Christuskind auf dem Schobe haltend. Rechts der kleine",511,84.1,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_88415,205497,104,95,"Felsige Landschaft mit stark bewegtem Wasser im Vordergrunde.Als Staffage Perseus und Andromeda.Auf Kupfer.H.28 cm,Br.40 cm.S.R. 1674.",522,96.9,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN RAME,,
+BO0624_88415,205496,103,94,"Halbfigur eines Geistlichen, daneben ein Knabe in reicher Gewandung, Geld in ein Beutel werfend,den der Dargestellte in der Rechten halt. Rechts oben ein Wappe und Aet. suae 60 mit Jahreszahl·1690. Leinwand. H. 80 cm,Br.64 cm. S. R. a Die heilige Jungfrau, das Christuskind auf dem Schobe haltend. Rechts der kleine",511,84.1,False,positional,,DEUTSCHE SCHULE,,,Sec. XVII
+BO0624_88415,205497,104,95,"Felsige Landschaft mit stark bewegtem Wasser im Vordergrunde.Als Staffage Perseus und Andromeda.Auf Kupfer.H.28 cm,Br.40 cm.S.R. 1674.",522,96.9,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN RAME,,Sec. XVII
 BO0624_88415,205498,105,96,"Die Konigin von Saba,vor dem Throne des Konigs Salomo kniend, bringt Schatze dar. Das Gefolge der beiden Hauptpersonen zu beiden Seiten gruppiert. Leinwand,mit dem Kinstlernamen Eeckhout bezeichnet. H. 58 cm,Br.103 cm. G.R. Abb.Tafel2",530,99.3,False,positional,GERBRAND V.D.EECKHOUT,,,,
-BO0624_88415,205499,106,97,"Kopf eines Satyrs. Leinwand.H.36 cm, Br. 30 cm. G.-R. 1842",534,92.2,False,positional,P.P.RUBENS,,,,
+BO0624_88415,205499,106,97,"Kopf eines Satyrs. Leinwand.H.36 cm, Br. 30 cm. G.-R. 1842",534,92.2,False,positional,P.P.RUBENS,,,,Sec. XIX
 BO0624_88415,205500,107,98,"Miss Lundens.Brustbild. Nach P. P. Rubens. Farbendruck mit Rand.Roy.-Fol: Alter, holzgeschnitzter Rahmen.",540,98.5,False,positional,G.MAILE,Scuola di Rubens,CORNICI,,
 BO0624_88415,205501,108,16971750,"- 99-100. Das Konzert. Eine Gesellschaft von acht Personen um einen Tisch sitzend,verschiedene Instrumente spielend. Im Hintergrunde drei Zuhorer.Die Szene spielt auf einer SchloBterrasse.—In einer Halle Familienszene von neun Figuren. Rechts nimmt ein junger Mann eine Flasche aus einem Eiskihler. Leinwand, Gegensticke. Ersteres Bild ist falschlich mit dem Monogramm P. H. bezeichnet.AuBerdem findet sich auf einem Buche der Name Sandraert.H.41 cm,Br.55 cm.G.-R. Abb.Tafel4u.",546,100.0,False,positional,CORNELIS TROOST,,,,
-BO0624_88415,205502,109,1625,1713.,551,61.5,False,positional,CARLO MARATTI,,,,
-BO0624_88415,205503,110,101,"Adam und Eva im Paradies, von Tieren verschiedener Art umgeben. In den Luften Engelsglorie. Sehr reiche Komposition.Leinwand.H.127 cm,Br. 100 cm.G.R. ca.1515.",553,96.0,False,positional,CARLO MARATTI,,,,
-BO0624_88415,205504,111,102,"Alter Mann,ein Madchen liebkosend. Halbfiguren.Kupfer.Mit dem Namen des Kinstlers, der Jahreszahl 1503 und dem Merkurstab bezeichnet. Wahrscheinlich Wiederholung des in der Galerie Weber sub No.26 verkauften Bildes.H. 45 cm,Br.36 cm. G,R.",559,99.1,False,positional,JACOPO DA BARBARI,,OGGETTI IN RAME,,
+BO0624_88415,205502,109,1625,1713.,551,61.5,False,positional,CARLO MARATTI,,,,Sec. XVIII
+BO0624_88415,205503,110,101,"Adam und Eva im Paradies, von Tieren verschiedener Art umgeben. In den Luften Engelsglorie. Sehr reiche Komposition.Leinwand.H.127 cm,Br. 100 cm.G.R. ca.1515.",553,96.0,False,positional,CARLO MARATTI,,,,Sec. XVI
+BO0624_88415,205504,111,102,"Alter Mann,ein Madchen liebkosend. Halbfiguren.Kupfer.Mit dem Namen des Kinstlers, der Jahreszahl 1503 und dem Merkurstab bezeichnet. Wahrscheinlich Wiederholung des in der Galerie Weber sub No.26 verkauften Bildes.H. 45 cm,Br.36 cm. G,R.",559,99.1,False,positional,JACOPO DA BARBARI,,OGGETTI IN RAME,,Sec. XVI
 BO0624_88415,205505,112,103,"Brustbild eines bartigen Mannes in breitrandigem hohen Hut. Leinwand. H. 46 cm,",565,97.4,False,positional,,DEUTSCHE SCHULE,,,
 BO0624_88415,205506,113,2,103a. Brustbild einer alteren Frau mit rotem Kopftuch und goldenen Ohrringen. Leinwand.,566,98.8,False,positional,,DEUTSCHE SCHULE,,,
 BO0624_88415,205507,114,3,"H.46 cm,Br.36cm.Gerahmt.",567,95.8,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_88415,205508,115,104,"Die Verkundigung der Hirten auf dem Felde. Holz. H. 21 cm,Br.33 cm. S. R. 1623.",571,93.7,False,positional,L.BASSANO,,OGGETTI IN LEGNO,,
+BO0624_88415,205508,115,104,"Die Verkundigung der Hirten auf dem Felde. Holz. H. 21 cm,Br.33 cm. S. R. 1623.",571,93.7,False,positional,L.BASSANO,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88415,205509,116,105,"Brustbild der Madonna, vom Christuskind umarmt.Oval.Leinwand. H. 40 cm,",577,97.1,False,positional,,ITALIENISCHE SCHULE,,,
 BO0624_88415,205510,117,17,Jahrhundert.,579,88.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88415,205511,118,1625,1713.,583,61.5,False,positional,CARLO MARATTI,,,,
+BO0624_88415,205511,118,1625,1713.,583,61.5,False,positional,CARLO MARATTI,,,,Sec. XVIII
 BO0624_88415,205512,119,106,"Die heilige Jungfrau in faltigen Gewandern und Kopftuch, die Hande iber der Brust",586,97.6,False,positional,CARLO MARATTI,,,,
 BO0624_88415,205513,120,16,Jahrhundert.,590,88.0,False,positional,CARLO MARATTI,Scuola Fiorentina,,,
 BO0624_88415,205514,121,109,"Brustbild eines lachenden Mannes mit Hut. Holz. H. 44 cm, Br. 33 cm. G.-R.",597,97.1,False,positional,A.V.OSTADE,,OGGETTI IN LEGNO,,
 BO0624_88415,205515,122,110,Landschaft mit dichtem Wald im rechten Vordergrunde. Ganz vorn an einem Gewasser,601,97.5,False,positional,JACOB VAN RUISDAEL,,,,
 BO0624_88415,205516,123,2,"Hirt mit Schafen. Holz. H.44 cm, Br.60 cm.G.-R. Abb. Tafel 3",602,98.2,False,positional,JACOB VAN RUISDAEL,,OGGETTI IN LEGNO,,
-BO0624_88415,205517,124,1656,1746.,606,61.5,False,positional,NICOLAS DE LARGILLIERE,,,,
+BO0624_88415,205517,124,1656,1746.,606,61.5,False,positional,NICOLAS DE LARGILLIERE,,,,Sec. XVIII
 BO0624_88415,205518,125,111,"Damenbildnis. Brustbild, von vorne gesehen, mit entbloBtem Hals. Die Linke hat den roten Uberwurf gefaBt. Dunkler Grund. Leinwand.H.68 cm,Br.50 cm.G.-R.",608,98.6,False,positional,NICOLAS DE LARGILLIERE,,,,
-BO0624_88415,205519,126,112,"a-b.Christus mit der Weltkugel.Betende Madonna.Halbfiguren. Oval.Kupfer. H.16 cm,Br.13 cm.G.-R. 1724.",612,95.8,False,positional,BERNARDO LUTI,,OGGETTI IN RAME,,
+BO0624_88415,205519,126,112,"a-b.Christus mit der Weltkugel.Betende Madonna.Halbfiguren. Oval.Kupfer. H.16 cm,Br.13 cm.G.-R. 1724.",612,95.8,False,positional,BERNARDO LUTI,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88415,205520,127,113,"Huftbild einer alteren Dame mit weiBer Haube. Ein roter Vorhang schlieBt den Hintergrund.Leinwand. H.76 cm,Br. 61 cm.S.R.",618,98.3,False,positional,JOHN OPIE,,,,
-BO0624_88415,205521,128,114,"Die buBende Magdalena in Halbfigur. Vor ihr das Kruzifx. Leinwand. H. 112 cm, Br.188cm.G.-R. 1613.",622,95.0,False,positional,L.CARDI DA CIGOLI,,,,
+BO0624_88415,205521,128,114,"Die buBende Magdalena in Halbfigur. Vor ihr das Kruzifx. Leinwand. H. 112 cm, Br.188cm.G.-R. 1613.",622,95.0,False,positional,L.CARDI DA CIGOLI,,,,Sec. XVII
 BO0624_88415,205522,129,115,"Die Madonna mit dem schlafenden Kinde und St. Johannes. Leinwand.H. 42 cm, Br.33cm.G.R. Jahrhundert.",633,91.1,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_88415,205523,130,116,"Landleute mit Karren in einem Hohlweg. Im Hintergrunde Kirchturm. Holz. H.18 cm, Br.15 cm.S.R.",637,97.8,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88415,205524,131,117,"- Jagdstilleben. Sitzender Jagdhund mit erlegtem Wild (Hase, Fasan, Rebhihner usw.). An einem Baum lehnt eine Jagdfinte. Leinwand. H. 80 cm,Br.132 cm. G.-R. Jahrhundert.",639,95.9,False,positional,,NIEDERLANDISCHE SCHULE,,,
@@ -170,107 +170,107 @@ BO0624_88415,205561,168,17,145-46. Zwei gerahmte Farbendrucke von A. Le G ra n d
 BO0624_88415,205562,169,18,147-48. Zwei desgleichen von A. Le Gra n d nach W. Peters und Vieira Portnensis. Zwei,710,98.2,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205563,170,19,Engelsdarstellungen. Gegensticke.Fol.,711,95.9,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205564,171,149,Vier gerahmte Farbendrucke von Mariage nach Garnier.Vier Darstellungen aus der romischen Geschichte. Mit Rand um die Darstellungen. Gr-Qu.-Fol.,712,98.6,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,
-BO0624_88415,205565,172,150,"Kleine viereckige Dose. Vergoldetes Kupfer. Auf dem Deckel Relief:Schaukelnde Madchen,Kavalier und Musikanten.Rocailleornamente. 18. Jahrh. Lg.6 cm. und Also Lieb von Liebe stammt."" Durchm.5,5 cm.Um 1800.",718,83.3,False,positional,K.SEEKATZ,,OGGETTI IN RAME,,
+BO0624_88415,205565,172,150,"Kleine viereckige Dose. Vergoldetes Kupfer. Auf dem Deckel Relief:Schaukelnde Madchen,Kavalier und Musikanten.Rocailleornamente. 18. Jahrh. Lg.6 cm. und Also Lieb von Liebe stammt."" Durchm.5,5 cm.Um 1800.",718,83.3,False,positional,K.SEEKATZ,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88415,205566,173,151,Kleine ovale Silberdose mit Teilvergoldung.Im Deckel Medaille:Puttenpaar Spruch:Wie das Licht vom Feuer entflammt,720,98.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205567,174,152,"Flache silberne Dose. Eingraviert: Neurokoko-Ornamente und C. v. P.Anfang 19. Jahrh. Lg.7,5cm.",721,97.8,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205568,175,153,"Langlich-viereckige Silberdose mit Flechtornament und C. K.Anfang 19. Jahrh. Lg.9,8cm.",722,97.6,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205567,174,152,"Flache silberne Dose. Eingraviert: Neurokoko-Ornamente und C. v. P.Anfang 19. Jahrh. Lg.7,5cm.",721,97.8,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XIX
+BO0624_88415,205568,175,153,"Langlich-viereckige Silberdose mit Flechtornament und C. K.Anfang 19. Jahrh. Lg.9,8cm.",722,97.6,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205569,176,6,154.,723,75.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205570,177,7,"Kupfervergoldete Dose in Form einer Koffertruhe.Graviert mit Blumen. 18. Jahrh. Lg. 8,5 cm.",724,98.9,False,positional,K.SEEKATZ,,SCATOLE,,
+BO0624_88415,205570,177,7,"Kupfervergoldete Dose in Form einer Koffertruhe.Graviert mit Blumen. 18. Jahrh. Lg. 8,5 cm.",724,98.9,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
 BO0624_88415,205571,178,8,155.,725,75.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205572,179,9,"Ovale Dose aus exotischer Nub, ganz bedeckt mit Schnitzerei in fachem Relief: Passionswerkzeuge,Bischofsabzeichen usw. Goldene Montierung. 18. Jahrh.Lg.10 cm.",726,99.3,False,positional,K.SEEKATZ,,SCATOLE,,
+BO0624_88415,205572,179,9,"Ovale Dose aus exotischer Nub, ganz bedeckt mit Schnitzerei in fachem Relief: Passionswerkzeuge,Bischofsabzeichen usw. Goldene Montierung. 18. Jahrh.Lg.10 cm.",726,99.3,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
 BO0624_88415,205573,180,10,156.,727,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205574,181,11,"Ovale,kupfervergoldete Dose mit Lorbeerkranz-Bordiren.Um 1790. Lg. 8,5 cm.",728,97.9,False,positional,K.SEEKATZ,,SCATOLE,,
+BO0624_88415,205574,181,11,"Ovale,kupfervergoldete Dose mit Lorbeerkranz-Bordiren.Um 1790. Lg. 8,5 cm.",728,97.9,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
 BO0624_88415,205575,182,12,157.,729,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205576,183,13,"Runde Schildpattdose mit Reliefportrait: Martin Luther. Anfang 19. Jahrh. Durchmesser 7,5 cm.",730,98.3,False,positional,K.SEEKATZ,,OGGETTI VARI,,
-BO0624_88415,205577,184,158,Runde Maserholzdose. Im Deckel vergoldetes Portratrelief:Feldmarschall v. Blucher. Bez.:Heuberger.Um 1820.Durchm. 9 cm.,731,80.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205578,185,159,"Kupfervergoldete Doppeldose mit Rocailleornamenten in fachem Relief. 18. Jahrh. Lg.8,5cm.",733,92.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205579,186,160,Viereckige Bronzedose. Ganz bedeckt mit Reliefs: Jagdszenen. Auf dem Boden eingraviert: Raucher am Tisch usw. 18. Jahrh. Lg. 7 cm.,735,98.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205580,187,161,"- Kupfervergoldete,ovale Dosemit guillochiertem Streifenmuster. Im Deckel kleine, ovale Miniatur eines Fursten mit Haarbeutel und blauem Uniformrock mit roten Auf schlagen.Um 1780. Lg.8 cm, H. 3,7 cm.",737,100.0,False,positional,K.SEEKATZ,,MINIATURE,,
+BO0624_88415,205576,183,13,"Runde Schildpattdose mit Reliefportrait: Martin Luther. Anfang 19. Jahrh. Durchmesser 7,5 cm.",730,98.3,False,positional,K.SEEKATZ,,OGGETTI VARI,,Sec. XIX
+BO0624_88415,205577,184,158,Runde Maserholzdose. Im Deckel vergoldetes Portratrelief:Feldmarschall v. Blucher. Bez.:Heuberger.Um 1820.Durchm. 9 cm.,731,80.6,False,positional,K.SEEKATZ,,,,Sec. XIX
+BO0624_88415,205578,185,159,"Kupfervergoldete Doppeldose mit Rocailleornamenten in fachem Relief. 18. Jahrh. Lg.8,5cm.",733,92.1,False,positional,K.SEEKATZ,,,,Sec. XVIII
+BO0624_88415,205579,186,160,Viereckige Bronzedose. Ganz bedeckt mit Reliefs: Jagdszenen. Auf dem Boden eingraviert: Raucher am Tisch usw. 18. Jahrh. Lg. 7 cm.,735,98.8,False,positional,K.SEEKATZ,,,,Sec. XVIII
+BO0624_88415,205580,187,161,"- Kupfervergoldete,ovale Dosemit guillochiertem Streifenmuster. Im Deckel kleine, ovale Miniatur eines Fursten mit Haarbeutel und blauem Uniformrock mit roten Auf schlagen.Um 1780. Lg.8 cm, H. 3,7 cm.",737,100.0,False,positional,K.SEEKATZ,,MINIATURE,,Sec. XVIII
 BO0624_88415,205581,188,162,"- Runde Dose aus dunkelgrinem Poudre d'ecail mit Bodenguillochierung. Iim Deckel Relief in Rot:,J. J. Rousseau et la vue du pavillon qu'il habitoit a Ermenonville."" Ende 18.Jahrh.Durchm.7,5 cm.",739,100.0,False,positional,K.SEEKATZ,,SCATOLE,,
 BO0624_88415,205582,189,163,"Runde Schildpattdose. Im Deckel Miniatur:Halbfigur eines Bauern in Zipfelmutze und messer 8,5cm.",740,97.9,False,positional,K.SEEKATZ,,MINIATURE,,
-BO0624_88415,205583,190,164,1810.Lg.11cm.,742,85.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205584,191,165,unter Glas groBes Monogramm. Ende 18. Jahrh. Lg. 17 cm.,743,96.2,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205585,192,166,"Runde Dose aus braunem, gefecktem Stein. Vergoldete Montierung. 18. Jahrh. Durch-",744,97.4,False,positional,K.SEEKATZ,,SCATOLE,,
+BO0624_88415,205583,190,164,1810.Lg.11cm.,742,85.7,False,positional,K.SEEKATZ,,,,Sec. XIX
+BO0624_88415,205584,191,165,unter Glas groBes Monogramm. Ende 18. Jahrh. Lg. 17 cm.,743,96.2,False,positional,K.SEEKATZ,,,,Sec. XVIII
+BO0624_88415,205585,192,166,"Runde Dose aus braunem, gefecktem Stein. Vergoldete Montierung. 18. Jahrh. Durch-",744,97.4,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
 BO0624_88415,205586,193,167,Runde schwarze Dose mit Schildpattfutter. Im Deckel Reliefportrat:Louis XVIlI. de,746,97.5,False,positional,K.SEEKATZ,,SCATOLE,,
 BO0624_88415,205587,194,168,"Japanische Bronzedose. Innen versilbert, auBen dunkelgrun patiniert,mit teilvergold",748,97.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205588,195,169,"- Bergkristalldose. Geschweifte hohe Form,silbervergoldete Montierung. Eingeschliffen: Gartner-Embleme und Ranken.Mitte 18. Jahrh. Lg. 6,5 cm, H. 3,5 cm.",751,100.0,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205588,195,169,"- Bergkristalldose. Geschweifte hohe Form,silbervergoldete Montierung. Eingeschliffen: Gartner-Embleme und Ranken.Mitte 18. Jahrh. Lg. 6,5 cm, H. 3,5 cm.",751,100.0,False,positional,K.SEEKATZ,,,,Sec. XVIII
 BO0624_88415,205589,196,170,"Silberne Dose, geschweift; im Doppeldeckel U h r, deren rankenumgebenes Zifferblatt bezeichnet:London.18. Jahrh.Lg.7 cm.",752,98.3,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205590,197,171,Rocailleeinrahmung. Mitte 18. Jahrh. Lg.8 cm.,754,95.3,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205590,197,171,Rocailleeinrahmung. Mitte 18. Jahrh. Lg.8 cm.,754,95.3,False,positional,K.SEEKATZ,,,,Sec. XVIII
 BO0624_88415,205591,198,172,"Silberne Dose. Geschweift; innen vergoldet, auBen graviert:Neurokoko-Ornamente.",755,97.4,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205592,199,173,"- Runde Schildpattdose mit Silbereinlage im Deckel:Von Trophaen und Ranken un gebene Adler, mit Schriftband ,vive la reine de Prusse"". (Sophie Charlotte.) 18. Jahrh. Durchm.7,4cm.",758,100.0,False,positional,K.SEEKATZ,,OGGETTI VARI,,
-BO0624_88415,205593,200,174,"Ovale, silbervergoldete Dose mit reliefierten und gravierten Rosenranken. Im Deckel: groBes Miniatur-Brustbild der Konigin Victoria von England. Ende 19. Jahrhundert.",759,98.8,False,positional,K.SEEKATZ,,MINIATURE,,
+BO0624_88415,205592,199,173,"- Runde Schildpattdose mit Silbereinlage im Deckel:Von Trophaen und Ranken un gebene Adler, mit Schriftband ,vive la reine de Prusse"". (Sophie Charlotte.) 18. Jahrh. Durchm.7,4cm.",758,100.0,False,positional,K.SEEKATZ,,OGGETTI VARI,,Sec. XVIII
+BO0624_88415,205593,200,174,"Ovale, silbervergoldete Dose mit reliefierten und gravierten Rosenranken. Im Deckel: groBes Miniatur-Brustbild der Konigin Victoria von England. Ende 19. Jahrhundert.",759,98.8,False,positional,K.SEEKATZ,,MINIATURE,,Sec. XIX
 BO0624_88415,205594,201,175,Runde schwarze Dose mit Schildpattfutter. Im Deckel vertieftes Oval:vier Kriegs-,761,97.5,False,positional,K.SEEKATZ,,SCATOLE,,
 BO0624_88415,205595,202,176,"Runde braune Dose mit Schildpattfutter, Goldbordiren und ovaler Miniatur im Deckel:",763,97.6,False,positional,K.SEEKATZ,,MINIATURE,,
 BO0624_88415,205596,203,177,"Runde Elfenbeindose. Im Deckel Hiftbild einer Dame mit grober Puderfrisur,in hellem",765,97.6,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205597,204,178,"Runde Elfenbeindose. Im Deckel Miniatur:Liebespaar, sich kissend,unter einem Bauu. Schildpattfutter.Ende 18.Jahrh.Durchm.8,5 cm.",767,98.4,False,positional,K.SEEKATZ,,MINIATURE,,
-BO0624_88415,205598,205,179,"Schildpattfutter.Um 1810.Durchm.7,8 cm.",769,95.0,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205598,205,179,"Schildpattfutter.Um 1810.Durchm.7,8 cm.",769,95.0,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205599,206,180,"Muschelformige Dose aus dunkelbraunem Berustein, mit vergoldeter Montierung 18.Jahrh.Lg.7,2 cm.",770,97.9,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205600,207,181,"GroBe schatullenformige Dose aus Milchglas mit farbiger Emailmalerei:auBen Jagd szenen, im Innendeckel vornehme Tafelrunde. Mitte 18. Jahrh.Vergoldete Montierung. Lg. 10,8 cm,Br.7,8 cm, H. 6,6 cm.",771,98.9,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205601,208,182,"Ovale Emaildose, weif,mit Schwarzmalerei:Ansicht eines Klosters, Szenen aus dem geistlichen Leben usw. Im Innendeckel Bildnis :,P. Constantinus"". 18. Jahrh. Lg. 8,4 cn.",772,98.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205602,209,183,"Viereckige Emaildose, turkisblau,mit silbernem Reliefdekor:Chinesenszenen auf den Effendi Bassa,Botschafter der ottomanischen Pforte an dem Konigl. PreuBischen Hoff. 1763"".Lg.8cm.",774,69.9,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205600,207,181,"GroBe schatullenformige Dose aus Milchglas mit farbiger Emailmalerei:auBen Jagd szenen, im Innendeckel vornehme Tafelrunde. Mitte 18. Jahrh.Vergoldete Montierung. Lg. 10,8 cm,Br.7,8 cm, H. 6,6 cm.",771,98.9,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
+BO0624_88415,205601,208,182,"Ovale Emaildose, weif,mit Schwarzmalerei:Ansicht eines Klosters, Szenen aus dem geistlichen Leben usw. Im Innendeckel Bildnis :,P. Constantinus"". 18. Jahrh. Lg. 8,4 cn.",772,98.7,False,positional,K.SEEKATZ,,,,Sec. XVIII
+BO0624_88415,205602,209,183,"Viereckige Emaildose, turkisblau,mit silbernem Reliefdekor:Chinesenszenen auf den Effendi Bassa,Botschafter der ottomanischen Pforte an dem Konigl. PreuBischen Hoff. 1763"".Lg.8cm.",774,69.9,False,positional,K.SEEKATZ,,,,Sec. XVIII
 BO0624_88415,205603,210,184,"Desgleichen, turkisblau, mit Silberdekor:PreuBische Embleme,Trophaen,Friedrichs-",775,97.5,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205604,211,185,"Ovale Emaildose mit Grisaillemalerei ganz bedeckt: Staffierte FluBlandschaften.Im Innendeckel buntes Bild: Zwei Amoretten.Vergoldete Montierung. Dresden.18. Jahrh. Lg.8,5cm.",776,98.8,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205605,212,186,"Viereckige Emaildose. Bunt bemalt. Im Innendeckel Portrat Friedrich des GroBen; auBen friedericianische Embleme, Trophaen usw. Auf dem Boden:,concerto per il fauto"".18. Jahrh.Lg. 7,8 cm.",777,98.9,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205606,213,187,"Hohe runde Emaildose, tirkisfarbig,mit Camaieu-Bildchen:Liebespaare und Einzelfiguren. Im weiben Innendeckel sitzende Pierette in Zartblau. Vergoldete Montierung. 18.Jahrh.Durchm.5,5 cm.",778,92.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205607,214,188,"Viereckige Emaildose mit farbiger Malerei auf pastos gekorntem Grund:Spielkarten, Kupferstiche und Zeitungsblatter nachahmende Quodlibets. Vergoldete Montierung. Berlin,zweite Halfte 18. Jahrh. Lg. 7,8 cm.",780,99.0,False,positional,K.SEEKATZ,Scuola di Berlino,OGGETTI IN RAME,,
+BO0624_88415,205607,214,188,"Viereckige Emaildose mit farbiger Malerei auf pastos gekorntem Grund:Spielkarten, Kupferstiche und Zeitungsblatter nachahmende Quodlibets. Vergoldete Montierung. Berlin,zweite Halfte 18. Jahrh. Lg. 7,8 cm.",780,99.0,False,positional,K.SEEKATZ,Scuola di Berlino,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88415,205608,215,189,"Desgleichen, weiB, mit goldenem Stern- und Rocailledekor, mit wenig Blau und Grin. Silberne Montierung. Battersee, 18.Jahrh.Lg.8 cm.",781,98.4,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205609,216,10,190.,782,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205610,217,11,"Desgleichen,bunt bemalt, mit Quodlibets aus Noten- und Spruchblattern. Im Deckel Karte des Konigreichs Neapel. Bronzemontierung. 18. Jahrh. Lg. 7,8 cm.",783,99.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205611,218,191,"Ovale Thiringer Porzellandose. AuBen blaue Blumen in rot und golden gehohten Rocaillekartuschen;innen drei Personen bei Gesang und Flotenspiel,in einfarbig Purpur. (Deckel gesprungen.)Vergoldete Montierung. Um 1775. Lg. 8 cm.",784,99.1,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205610,217,11,"Desgleichen,bunt bemalt, mit Quodlibets aus Noten- und Spruchblattern. Im Deckel Karte des Konigreichs Neapel. Bronzemontierung. 18. Jahrh. Lg. 7,8 cm.",783,99.0,False,positional,K.SEEKATZ,,,,Sec. XVIII
+BO0624_88415,205611,218,191,"Ovale Thiringer Porzellandose. AuBen blaue Blumen in rot und golden gehohten Rocaillekartuschen;innen drei Personen bei Gesang und Flotenspiel,in einfarbig Purpur. (Deckel gesprungen.)Vergoldete Montierung. Um 1775. Lg. 8 cm.",784,99.1,False,positional,K.SEEKATZ,,,,Sec. XVIII
 BO0624_88415,205612,219,13,"18.Jahrh.Vergoldete Montierung.Lg.8,5 cm.",785,96.4,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205613,220,194,"Breite, herzformige Dose aus hellem, rot geadertem Achat. Vergoldete Montierung. 18.Jahrh. Lg.9 cm. Langlich-ovale Dose aus hellem Horn mit goldenen Einlagen: Blumen, Ranken usw. 18.Jahrh.Lg.10 cm.",787,67.6,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205614,221,195,"Runde Elfenbeindose. Im Deckel vergoldetes Reliefbrustbild:,Luise, Konigin von l'reuBen"".Bez.:Detler.Schildpattfutter. Anfang 19. Jahrh. Durchm.7 cm. Stern und blauem Ordensband.Um 1800. Durchm.7cm.",788,84.6,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205614,221,195,"Runde Elfenbeindose. Im Deckel vergoldetes Reliefbrustbild:,Luise, Konigin von l'reuBen"".Bez.:Detler.Schildpattfutter. Anfang 19. Jahrh. Durchm.7 cm. Stern und blauem Ordensband.Um 1800. Durchm.7cm.",788,84.6,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205615,222,196,"Runde Lackdose. Auf dem Deckel farbiges Brustbild eines Fursten mit Haarbeutel,",790,97.5,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205616,223,197,"GroBe runde Lackdose,schwarz,mit buntem Schlachtenbild. Innen in roter Schrift: ,Ruckzug der Kosaken,Baskieren, Kalmucken,Tartaren usw. Eroberung zweier",791,98.7,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205617,224,198,Runde Lackdose. Schwarz. Im Deckel Brustbild eines alteren Herrn mit Vatermordern,792,97.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205618,225,21,"Kanonen und Fahnen.""Wahl Stobwasser. Um 1825. Durchm. 11,5 cm.",793,97.4,False,positional,K.SEEKATZ,,BANDIERE,,
-BO0624_88415,205619,226,22,"und Halsorden. Wahl Stobwasser. Datiert 1831.Durchm. 9,4 cm.",794,97.4,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205618,225,21,"Kanonen und Fahnen.""Wahl Stobwasser. Um 1825. Durchm. 11,5 cm.",793,97.4,False,positional,K.SEEKATZ,,BANDIERE,,Sec. XIX
+BO0624_88415,205619,226,22,"und Halsorden. Wahl Stobwasser. Datiert 1831.Durchm. 9,4 cm.",794,97.4,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205620,227,23,"Im Deckel von 32 halben Perlen umrahmte Miniatur:Brustbild einer Dame. Ende 18.Jahrh.Lg.8,5 cm,H.3,6 cm.",795,98.6,False,positional,K.SEEKATZ,,MINIATURE,,
 BO0624_88415,205621,228,199,"Ovale Lackdose,rot-weib-golden gestreift, mit Silbermontierung und Schildpattfutter.",796,97.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205622,229,200,"Ovale Dose von hoher Form aus verschiedenfarbigen Marmorstuicken, mit vergoldeter Montierung. Im Innendeckel Schriftplattchen:,Sou venir des Marbres de Bayreuth de Mr. 1e H. C. R. Richter. An spach le 9me Juin 1792. Lange 9,8cm. Paare. Rocaille-Umrahmung. Mitte 18.Jahrh.Lg.8 cm.",797,89.3,False,positional,K.SEEKATZ,,SCATOLE,,
+BO0624_88415,205622,229,200,"Ovale Dose von hoher Form aus verschiedenfarbigen Marmorstuicken, mit vergoldeter Montierung. Im Innendeckel Schriftplattchen:,Sou venir des Marbres de Bayreuth de Mr. 1e H. C. R. Richter. An spach le 9me Juin 1792. Lange 9,8cm. Paare. Rocaille-Umrahmung. Mitte 18.Jahrh.Lg.8 cm.",797,89.3,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
 BO0624_88415,205623,230,201,Geschweifte Schildpattdose. Im Deckel Silbereinlagen:Schaukelnde und tanzende,799,97.4,False,positional,K.SEEKATZ,,OGGETTI VARI,,
 BO0624_88415,205624,231,202,"Kleine Emaildose. Schwarzer Grund. Auf dem Deckel Chinesenszene, auf den Seiten",800,97.4,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205625,232,203,"GroBe runde Dose aus rotem poudre d'ecail mit Sternen und Streifen in Goldpiquet. Im Boden Blumenkorb auf Schildpattplatte. Schildpattfutter. Im Deckel farbiges Porzellanbild:Vornehme Dame als Madonna,mit dornenkranzhaltendem Kindchen. Ende 18.Jahrh.Durchm.9 cm. einzelne Bauernfiguren, im Innendeckel Halbfigur eines Chinesenknaben. 18. Jahrh. Lg.5cm.",801,85.2,False,positional,K.SEEKATZ,,SCATOLE,,
+BO0624_88415,205625,232,203,"GroBe runde Dose aus rotem poudre d'ecail mit Sternen und Streifen in Goldpiquet. Im Boden Blumenkorb auf Schildpattplatte. Schildpattfutter. Im Deckel farbiges Porzellanbild:Vornehme Dame als Madonna,mit dornenkranzhaltendem Kindchen. Ende 18.Jahrh.Durchm.9 cm. einzelne Bauernfiguren, im Innendeckel Halbfigur eines Chinesenknaben. 18. Jahrh. Lg.5cm.",801,85.2,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
 BO0624_88415,205626,233,204,Ovale Berliner Porzellantasse mit silbervergoldeter Montierung. Bunt bemalt mit Rosen,803,97.7,False,positional,K.SEEKATZ,Scuola di Berlino,,,
 BO0624_88415,205627,234,2,"205.Viereckige Emaildose, farbig bemalt. Auf dem Deckel:Raucher, am Tisch sitzend. Auf Montierung.18. Jahrh.Lg.8,6 cm.",804,99.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205628,235,3,"und VergiBmeinnicht. Auf dem Deckel: Silhouetteeiner Da me,auf Eichenlaub umkranztem rosa Grund. Im Innendeckel Monogr.: v. L. Ende 18. Jahrh. Lg. 7,7 cm.",805,99.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205629,236,206,"Desgleichen, farbig bemalt. Auf den Seiten kleine Landschaften in Gringrau; auf dem Deckel: Husar, in einer Versammlung von Monchen ein Vivat ausbringend. ,Es lebe der Conig von Preiben.) Nach einem Stich von Chodowiecki. Im Innendeckel: Halbfigur Friedrich des Gro Ben.Bronzemontierung. 18. Jahrh. Lg. 8 cm. 18.Jahrh. Lg.9,4 cm.",806,96.2,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205628,235,3,"und VergiBmeinnicht. Auf dem Deckel: Silhouetteeiner Da me,auf Eichenlaub umkranztem rosa Grund. Im Innendeckel Monogr.: v. L. Ende 18. Jahrh. Lg. 7,7 cm.",805,99.3,False,positional,K.SEEKATZ,,,,Sec. XVIII
+BO0624_88415,205629,236,206,"Desgleichen, farbig bemalt. Auf den Seiten kleine Landschaften in Gringrau; auf dem Deckel: Husar, in einer Versammlung von Monchen ein Vivat ausbringend. ,Es lebe der Conig von Preiben.) Nach einem Stich von Chodowiecki. Im Innendeckel: Halbfigur Friedrich des Gro Ben.Bronzemontierung. 18. Jahrh. Lg. 8 cm. 18.Jahrh. Lg.9,4 cm.",806,96.2,False,positional,K.SEEKATZ,,,,Sec. XVIII
 BO0624_88415,205630,237,207,"Desgleichen, farbig bemalt mit Puttenszenen.Vergoldete Montierung.Dresder.",808,97.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205631,238,208,"Desgleichen, farbig bemalt und mit goldenen Reliefauflagen:Landschaften,kriegerische Szenen, Liebespaare usw. Vergoldete Montierung. 18. Jahrh. Lg. 8,6 cm. (Deckel aus- gebessert.)",809,95.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205632,239,209,"Desgleichen.Rosa Grund,mit pastosem,weibem Gittermuster und Grisaillelandschaften in ausgesparten Reserven. Im Innendeckel farbiges Brustbild einer Dame als Schaferin. Vergoldete Bronzemontierung. 18. Jahrh. Lg. 7,8 cm. Viereckige fridericianische Emaildose. Farbig bemalt mit Kurierbildern und Inschriften:,cito! cito nach Magdeburg""und ,Abrisse des Konigl. PreuB. Couriers Herrn Lieutnant Barcn von Puttlitz etc.. Bezuiglich auf den Sieg Friedrichs des GroBen bei Borna. 1757. Berlin. 18. Jahrh. Vergoldete Montierung.Lg.8,6 cm. Viereckige Fayencedose mit leicht geschweifter Vorderseite. Farbig bemalt mit groben BlumenstrauBen. Im Innendeckel Schaferpaar.Auf dem Boden rote Marke:W. 18. Jahrh. Lg. 8 cm.",812,60.9,False,positional,K.SEEKATZ,Scuola di Berlino,,,
+BO0624_88415,205631,238,208,"Desgleichen, farbig bemalt und mit goldenen Reliefauflagen:Landschaften,kriegerische Szenen, Liebespaare usw. Vergoldete Montierung. 18. Jahrh. Lg. 8,6 cm. (Deckel aus- gebessert.)",809,95.8,False,positional,K.SEEKATZ,,,,Sec. XVIII
+BO0624_88415,205632,239,209,"Desgleichen.Rosa Grund,mit pastosem,weibem Gittermuster und Grisaillelandschaften in ausgesparten Reserven. Im Innendeckel farbiges Brustbild einer Dame als Schaferin. Vergoldete Bronzemontierung. 18. Jahrh. Lg. 7,8 cm. Viereckige fridericianische Emaildose. Farbig bemalt mit Kurierbildern und Inschriften:,cito! cito nach Magdeburg""und ,Abrisse des Konigl. PreuB. Couriers Herrn Lieutnant Barcn von Puttlitz etc.. Bezuiglich auf den Sieg Friedrichs des GroBen bei Borna. 1757. Berlin. 18. Jahrh. Vergoldete Montierung.Lg.8,6 cm. Viereckige Fayencedose mit leicht geschweifter Vorderseite. Farbig bemalt mit groben BlumenstrauBen. Im Innendeckel Schaferpaar.Auf dem Boden rote Marke:W. 18. Jahrh. Lg. 8 cm.",812,60.9,False,positional,K.SEEKATZ,Scuola di Berlino,,,Sec. XVIII
 BO0624_88415,205633,240,212,Kleine ovale Schildpattdose mit farbigen Gold- und Silbereinlagen:Stilleben in Rocaille,814,97.7,False,positional,K.SEEKATZ,,OGGETTI IN ORO,,
 BO0624_88415,205634,241,213,Runde flache Schildpattdose. Im Deckel Eglomiseminiatur:Landschaft mit Staffage-,815,97.5,False,positional,K.SEEKATZ,,OGGETTI VARI,,
 BO0624_88415,205635,242,14,"umrahmung. Mitte 18.Jahrh.Lg.5,3 cm.",816,95.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205636,243,15,"figuren in der Art des Blarenberghe. (Blasig.) Ende 18. Jahrh. Durchm. 6,5 cm.",817,97.9,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205636,243,15,"figuren in der Art des Blarenberghe. (Blasig.) Ende 18. Jahrh. Durchm. 6,5 cm.",817,97.9,False,positional,K.SEEKATZ,,,,Sec. XVIII
 BO0624_88415,205637,244,214,"Runde Porzellandose. AuBen ganz vergoldet, mit bunten deutschen BlumenstrauBen Im Innendeckel ovales, medaillonartiges Portrat einer jungen Dame, vor ihrem Schmuckkastchen sitzend. Durchm. 7 cm.",818,98.9,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205638,245,215,Viereckige Stobwasserdose mit Halbfigur eines jungen Madchens in altdeutschem,819,97.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205639,246,216,Holzgeschnitzte Dose in Gestalt eines hockenden Affen mit roten Glasaugen. 18. Jahrh.,820,97.6,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205640,247,19,"Kostim, im Hintergrund Kirchenruine. Bez.: St. 402. Anfang 19. Jahrh. Lg. 8,8 cm.",821,97.9,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205639,246,216,Holzgeschnitzte Dose in Gestalt eines hockenden Affen mit roten Glasaugen. 18. Jahrh.,820,97.6,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
+BO0624_88415,205640,247,19,"Kostim, im Hintergrund Kirchenruine. Bez.: St. 402. Anfang 19. Jahrh. Lg. 8,8 cm.",821,97.9,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205641,248,20,H.10cm,822,80.0,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205642,249,217,"Viereckige Emaildose. Turkisblau mit weiBen Bliten,Notenblattern usw. in Pastoreur-",823,97.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205643,250,22,"malerei. 18. Jahrh. Lg.6,8 cm.",824,94.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205644,251,23,"218.Viereckige Emaildose. WeiB mit grin-blau-goldenem Reliefdekor: Gartnerembleme, Vogel, Rocaillen usw.Silbervergoldete Montierung. Erste Halfte 18. Jahrh. Lg.6,7 cm.",825,99.1,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205643,250,22,"malerei. 18. Jahrh. Lg.6,8 cm.",824,94.5,False,positional,K.SEEKATZ,,,,Sec. XVIII
+BO0624_88415,205644,251,23,"218.Viereckige Emaildose. WeiB mit grin-blau-goldenem Reliefdekor: Gartnerembleme, Vogel, Rocaillen usw.Silbervergoldete Montierung. Erste Halfte 18. Jahrh. Lg.6,7 cm.",825,99.1,False,positional,K.SEEKATZ,,,,Sec. XVIII
 BO0624_88415,205645,252,219,MeiBener Dose. AuBen blaue Bandornamente mit Rosen;im Innendeckel:Landschaft mit Kostimfiguren. Silbervergoldete Montierung. Im Boden  Schwertermarke. Lg. 7 cm. in Bunt. Vergoldete Montierung. Lg. 8 cm.,826,87.9,False,positional,K.SEEKATZ,,SCATOLE,,
 BO0624_88415,205646,253,220,Viereckige Porzellandose. AuBen Watteauszenen in Grun und Rot; innen Schaferszene,828,97.5,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205647,254,221,"Trapezformige Emaildose mit farbigen Quodlibets aus Noten, Instrumenten, Masken usw.;innen Streublumen. 18.Jahrh. Gr.8X6 cm.",829,98.3,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205648,255,222,Runde Porzellandose. Flechtgrund mit bunter Blumenmalerei Bronzemontierung. Durchm.9cm.,830,90.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205649,256,223,"Viereckige Lackdose, flach, mit buntem Deckelbild: Junge Dame bei der Toilette, auf einem Sofa sitzend. Anfang 19. Jahrh.Lg.9,2 cm.",832,98.4,False,positional,K.SEEKATZ,,OGGETTI VARI,,
-BO0624_88415,205650,257,224,"Langlich-ovale Lackdose, schwarz-rot mit vergoldeter Montierung und Silberpiquet: Wappen (von Stammer), Ranken, Spruch und Datum 1794. Lg. 10 cm.",833,98.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205651,258,225,Runde Lackdose.Rotlich-braun mit sternformigem Ornament.Um 1800.Durchm.,834,97.2,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205649,256,223,"Viereckige Lackdose, flach, mit buntem Deckelbild: Junge Dame bei der Toilette, auf einem Sofa sitzend. Anfang 19. Jahrh.Lg.9,2 cm.",832,98.4,False,positional,K.SEEKATZ,,OGGETTI VARI,,Sec. XIX
+BO0624_88415,205650,257,224,"Langlich-ovale Lackdose, schwarz-rot mit vergoldeter Montierung und Silberpiquet: Wappen (von Stammer), Ranken, Spruch und Datum 1794. Lg. 10 cm.",833,98.6,False,positional,K.SEEKATZ,,,,Sec. XVIII
+BO0624_88415,205651,258,225,Runde Lackdose.Rotlich-braun mit sternformigem Ornament.Um 1800.Durchm.,834,97.2,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205652,259,2,"7,8cm.",835,83.3,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205653,260,3,Runde Lackdose mit farbigem Bild:Portrat (Kniebild) eines sitzenden jungen Mad-,836,98.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205654,261,226,chens mit Buch.Anfang 19. Jahrh. Durchm.9 cm.,837,95.5,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205654,261,226,chens mit Buch.Anfang 19. Jahrh. Durchm.9 cm.,837,95.5,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205655,262,5,227.,838,75.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205656,263,6,"Runde Lackdose. Schwarz,auf dem Deckel auf Goldgrund:Ehestandsthermometer. Um 1825.Durchm.9cm.",839,98.9,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205656,263,6,"Runde Lackdose. Schwarz,auf dem Deckel auf Goldgrund:Ehestandsthermometer. Um 1825.Durchm.9cm.",839,98.9,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205657,264,7,Viereckige Berliner Porzellandose. Mit bunten Blumen und Frichten.Vergoldete,840,98.7,False,positional,K.SEEKATZ,Scuola di Berlino,,,
 BO0624_88415,205658,265,229,"Montierung. Zeptermarke.19. Jahrh.Lg. 6,5 cm.",841,95.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205659,266,230,"Runde Lackdose. Dunkelschildpattfarbig;im Deckel Schrift in Silberpiquet:Ach Stolberg unser Paulus ist nicht mehr hienieden.""(Chronogramm, dessen Auflosung 1821 ergibt.Durchm.9 cm.",842,91.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205660,267,231,"Kleine Dose aus einer Tigermuschel mit silberner Montierung. 18. Jahrh. Lg. 4,9 cm.",844,97.5,False,positional,K.SEEKATZ,,SCATOLE,,
+BO0624_88415,205659,266,230,"Runde Lackdose. Dunkelschildpattfarbig;im Deckel Schrift in Silberpiquet:Ach Stolberg unser Paulus ist nicht mehr hienieden.""(Chronogramm, dessen Auflosung 1821 ergibt.Durchm.9 cm.",842,91.5,False,positional,K.SEEKATZ,,,,Sec. XIX
+BO0624_88415,205660,267,231,"Kleine Dose aus einer Tigermuschel mit silberner Montierung. 18. Jahrh. Lg. 4,9 cm.",844,97.5,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
 BO0624_88415,205661,268,232,"Kofferformige Dose,Holz mit Lackmalerei,bunte Blumen und Rocaillen.18. Jahrh. H.5,2 cm, Lg. 8,8 cm.",845,97.9,False,positional,K.SEEKATZ,,OGGETTI IN LEGNO,,
 BO0624_88415,205662,269,233,Viereckige Porzellandose. Schaferszene in Grau-Grin-Rosa.Vergoldete Montierung. Lg. 8 cm.,846,97.7,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205663,270,14,Bemalt in Gold-Grin-Purpur mit Watteaufiguren;innen,847,97.1,False,positional,K.SEEKATZ,,OGGETTI IN ORO,,
 BO0624_88415,205664,271,15,"Silbergetriebene Dose. Passige,hohe Form mit Fruchtbischel auf dem Deckel und",848,98.1,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205665,272,235,"GuBeiserne Dose. Truhenform,im Deckel Relief mit figirlicher Szene. Anfang 19. Jahr. Lg.10 cm.",849,97.8,False,positional,K.SEEKATZ,,SCATOLE,,
+BO0624_88415,205665,272,235,"GuBeiserne Dose. Truhenform,im Deckel Relief mit figirlicher Szene. Anfang 19. Jahr. Lg.10 cm.",849,97.8,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XIX
 BO0624_88415,205666,273,234,"teilweise vergoldeten Ranken. Ornamente ringsum. Durchm.6,5 cm.",850,96.8,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205667,274,18,"Viereckige Porzellandose mit Portrat Friedrichs des GroBen, Soldatenszenen und Streu-",851,98.2,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205668,275,236,"blumen.Lange 8,5 cm.",852,90.5,False,positional,K.SEEKATZ,,,,
@@ -278,29 +278,29 @@ BO0624_88415,205669,276,237,"Kleine Dose aus Wurzelholz,halbrund gebogen, mit Kl
 BO0624_88415,205670,277,21,238.,854,66.7,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205671,278,22,"Viereckige flache Blechdose mit Lackbild: Jager mit Vorstehhund.Biedermeierzeit. Lg.11,7cm.",855,98.3,False,positional,K.SEEKATZ,Biedermeier,,,
 BO0624_88415,205672,279,239,"Porzellandose.Hohe,korbahnliche Form mit Stilpdeckel. Mit rotgrinen Streublumen. Sevresmarke mit C.T.H. 5,5 cm.",856,98.2,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205673,280,240,"Porzellandeckeldose fir Zundholzer. Truhenform.WeiB-blau-golden.Blaue Marke S.P.M.Um 1850.Lg.9,5 cm.",857,98.0,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205673,280,240,"Porzellandeckeldose fir Zundholzer. Truhenform.WeiB-blau-golden.Blaue Marke S.P.M.Um 1850.Lg.9,5 cm.",857,98.0,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205674,281,241,Alte viereckige Schildpattdose mit Silber-und Perlmuttereinlagen. Lg.7cm.,858,97.3,False,positional,K.SEEKATZ,,OGGETTI VARI,,
 BO0624_88415,205675,282,242,Goldene Taschenuhr mit getriebener Kapsel.Figirliche Szene. London. 18.Jahrh.,859,97.4,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205676,283,27,243.,860,66.7,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205677,284,28,"Bez.:Charleson,",861,89.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205678,285,29,Muschelformige Emaildose. Bunt. Mit antiken Szenen.Anfang 18. Jahrh.Lg. 9 cm.,862,98.0,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,
+BO0624_88415,205678,285,29,Muschelformige Emaildose. Bunt. Mit antiken Szenen.Anfang 18. Jahrh.Lg. 9 cm.,862,98.0,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_88415,205679,286,244,"Viereckige Emaildose. Bunt.Galante Szenen und Blumenbordiiren. Bronzemontierung.18.Jahrh.Lg.8,5cm.",863,97.9,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205680,287,31,245.,864,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205681,288,32,"Goldener Halsschmuck und zwei Knopfe. Mit drei ovalen Emailminiaturen (Amoretten), Weinlaub und Perlbordire.Um 1800.Im alten Etui.",865,98.8,False,positional,K.SEEKATZ,,OGGETTI VARI,,
+BO0624_88415,205681,288,32,"Goldener Halsschmuck und zwei Knopfe. Mit drei ovalen Emailminiaturen (Amoretten), Weinlaub und Perlbordire.Um 1800.Im alten Etui.",865,98.8,False,positional,K.SEEKATZ,,OGGETTI VARI,,Sec. XIX
 BO0624_88415,205682,289,246,Halskette aus vier Reihen Granaten mit finf silbervergoldeten Zwischenstucken in Filigran.,866,97.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205683,290,247,"Ovales Schalchen aus braunlichem Onyx; silberner Boden, Rand mit groBen StraB- steinen besetzt. 18. Jahrh.",867,83.8,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205683,290,247,"Ovales Schalchen aus braunlichem Onyx; silberner Boden, Rand mit groBen StraB- steinen besetzt. 18. Jahrh.",867,83.8,False,positional,K.SEEKATZ,,,,Sec. XVIII
 BO0624_88415,205684,291,248,Ovale Dose aus grau-rosa Ba n dac hat.Silberne Montierung und durchbrochener Seitenbelag.18.Jahrh.Lg.7 cm.,869,98.1,False,positional,K.SEEKATZ,,SCATOLE,,
 BO0624_88415,205685,292,37,249.Gotischer Maserholzloffel mit silbernem Heiligenfigirchen am Stielende. 15.16. Jahrh.,870,98.3,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205686,293,38,250.,871,66.7,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205687,294,39,"Kleiner holzgeschnitzter Rahmen mit reich durchbrochenem Laub- und Rocaille werk.18.Jahrh.Lichte Weite 7,5X9 cm.",872,98.7,False,positional,K.SEEKATZ,,CORNICI,,
 BO0624_88415,205688,295,40,Standuhr. Gehause zwischen Alabastersaulen;im Giebel Schwan und Blumen aus Stoff.,873,98.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205689,296,251,Bez.:Joh.Simeon Lux in Ebersdorf.Um 1800.H.50 cm.,874,95.9,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205690,297,252,Kleiner Altar mit Saulen und Giebel. Schwarz mit Schildpattauflagen.Dazu Elfenbeinstatuette der Madonna. 18. Jahrh.H.35 cm. 252a. Niederlandischer Meister. Anfang 17. Jahrh. Saloime mit dem Haupt des Johannes. Holz. H. 69 cm.Br. 53 cm. S.R.,875,68.2,False,positional,K.SEEKATZ,,OGGETTI IN LEGNO,,
+BO0624_88415,205689,296,251,Bez.:Joh.Simeon Lux in Ebersdorf.Um 1800.H.50 cm.,874,95.9,False,positional,K.SEEKATZ,,,,Sec. XIX
+BO0624_88415,205690,297,252,Kleiner Altar mit Saulen und Giebel. Schwarz mit Schildpattauflagen.Dazu Elfenbeinstatuette der Madonna. 18. Jahrh.H.35 cm. 252a. Niederlandischer Meister. Anfang 17. Jahrh. Saloime mit dem Haupt des Johannes. Holz. H. 69 cm.Br. 53 cm. S.R.,875,68.2,False,positional,K.SEEKATZ,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88415,205691,298,253,"Uhr mit bronzevergoldeter Lowenfigur, deren Augen und Zunge beweglich sind. GroBer",877,97.6,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205692,299,254,"Sechseckige Tischuhr. Silbernes Ziffernblatt.Bez.:Gabriel, London",878,96.9,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205693,300,3,Bronze. Um1700.,879,92.9,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205694,301,4,Schaustick aus vergoldeter Filigranarbeit und Korallen. Von drei Figurchen ge,880,98.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205695,302,256,"Kleine sechseckige Tischuhr.Versilbert. Bez.:,Marcus Maijo Lublin fecet.Um 1700. tragene Hutte mit Gotzenbild. Lg. 18 cm.",881,78.4,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205695,302,256,"Kleine sechseckige Tischuhr.Versilbert. Bez.:,Marcus Maijo Lublin fecet.Um 1700. tragene Hutte mit Gotzenbild. Lg. 18 cm.",881,78.4,False,positional,K.SEEKATZ,,,,Sec. XVIII
 BO0624_88415,205696,303,257,"Konvolut:Hellenistischer Portratkopf aus gebranntem Ton, Glasflu Bkette mit Tonskarabaus,Holzpuppe( (Spielzeug) undMiniaturTem p el sau le aus Ton. Von agyptischer Ausgrabung stammend. zwei Bronzefragmente,eines mit Froschkopf. Gleicher Herkunft.",883,84.8,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205697,304,258,Desgleichen:Bron zes ta tuette einer agyptischen Gottheit (hellpatiniert) und,885,97.4,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205698,305,259,"Desgleichen: Funf kleine Tonbilder von Mumiensargen,z.T. blauglasiert und eines groBer,buntbemalt. Ebendaher.",886,98.1,False,positional,K.SEEKATZ,,,,
@@ -310,26 +310,26 @@ BO0624_88415,205701,308,13,261.,889,66.7,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205702,309,14,Altagyptische Holzstatuette einer Toten mit Bemalungsspuren.H. 23 cm. Ebendaher.,890,98.1,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205703,310,15,262.,891,66.7,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205704,311,16,"Alter Haarschmuck (Einstecknadel).Mit zahlreichen Diamanten, zwei Rubinen und Perlen besetzt.18. Jahrh.",892,98.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205705,312,263,Lange goldene Kette mit Lorgnonfassung. Bunt emalliert.Um 1850.,893,96.8,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205705,312,263,Lange goldene Kette mit Lorgnonfassung. Bunt emalliert.Um 1850.,893,96.8,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205706,313,18,264.Viereckige Emaildose. Sprunge.,894,95.5,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205707,314,19,"Bunt. Schlacht-und Lagerszenen. 18.Jahrh. Lg.8,5 cm.",895,97.0,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205708,315,20,265.,896,66.7,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205709,316,21,"Langliche Emaildose mit geschweiften Ecken. Bunt. Galante Paare in Landschaften. 18.Jahrh.Lg.14,5cm.",897,98.5,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205710,317,266,"Emailanhanger. Flakon, mit bunten Schaferszenen. An Kettchen.",898,96.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205711,318,23,"267-69. Drei alte silberne Ringe mit Namen, Steinen usw. 18. Jahrh.",899,97.6,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205711,318,23,"267-69. Drei alte silberne Ringe mit Namen, Steinen usw. 18. Jahrh.",899,97.6,False,positional,K.SEEKATZ,,,,Sec. XVIII
 BO0624_88415,205712,319,270,"Alter goldener Ring, gebuckelt, mit grunem Stein.",900,95.8,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205713,320,25,271-72. Goldener Doppelring mit Bliten und silbervergoldeter Ring mit St. Georg.,901,98.1,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205714,321,26,"273.Gabel und Loffel, silbervergoldet. Ziseliert mit Fullhornern,Merkurstab usw. Fran-",902,98.2,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205715,322,27,"zosisch, um 1800. Gew. 90 g.",903,94.1,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205715,322,27,"zosisch, um 1800. Gew. 90 g.",903,94.1,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205716,323,28,275.,904,66.7,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205717,324,29,"Konvolut: Silberner Zuckerloffel mit Frauenbiste,Munzloffel,zwei kleine Loffel mit Figuren (Gesamtgew. 90 g) und alter kupfervergoldeter Loffel.",905,98.9,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205718,325,30,276.,906,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205719,326,31,"Durchbrochene Eisenschale,rund. Aus Eichenlaubgewinde. Um 1830. Durchm. 24 cin.",907,98.0,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205719,326,31,"Durchbrochene Eisenschale,rund. Aus Eichenlaubgewinde. Um 1830. Durchm. 24 cin.",907,98.0,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205720,327,277,"Chinesische glasierte Steinzeuggruppe: Zwei Knaben, ein Gerat tragend. H. 13 cm.",908,97.4,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205721,328,278,Korbchen aus alten Silber- und versilberten Kupferminzen. Durchm.10 cm.,909,97.1,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205722,329,279,Kupferversilbertes Necessaire. Getrieben mit Rocaillen und Bluten. Ohne Inhalt. 18.Jahrh.,910,97.7,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205723,330,280,Langlich ovale Tabaksdose. Kupfer und Messing. Mit Relief: Bataille bey Zorndorf usw.18.Jahrh.,911,97.8,False,positional,K.SEEKATZ,,OGGETTI IN RAME,,
-BO0624_88415,205724,331,281,"Drei alte Tanzfiguren, geschnitzt aus Holz und Bein. Mit Bleigewichten. 18. Jahrh.",912,97.5,False,positional,K.SEEKATZ,,OGGETTI IN LEGNO,,
+BO0624_88415,205724,331,281,"Drei alte Tanzfiguren, geschnitzt aus Holz und Bein. Mit Bleigewichten. 18. Jahrh.",912,97.5,False,positional,K.SEEKATZ,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88415,205725,332,282,"Chinesisches Perlmutterdoschen,rechteckig,mit abgeschragten Kanten. Eingraviert: Gartenszenen,mit Blitenbordure.",913,98.2,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205726,333,283,"Konvolut sechs verschiedener silberner Medaillen:Zwei a lte Pate nm uinzen, eine in Filigranfassung, zwei Friedensmedaillen,Auferstehungsmedaille (vergoldet) und ovale Plakette mit Muttergottes.Messing-",914,99.0,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205727,334,39,plakette mit Anbetung der Weisen.,915,95.5,False,positional,K.SEEKATZ,,,,
@@ -342,7 +342,7 @@ BO0624_88415,205733,340,288,Armband aus zehn vergoldeten Spindelkloben.,921,95.5
 BO0624_88415,205734,341,289,"Desgleichen,ebenso,aus 16 Spindelkloben.",922,95.1,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205735,342,290,Halsband aus 15 Spindelkloben.,923,93.5,False,positional,K.SEEKATZ,,,,
 BO0624_88415,205736,343,291,"Riechdoschen als Anhanger, in Birnenform ; gerautet. Lg. 9 cm.",924,96.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205737,344,7,292.1 Konvolut: Drei kleine silberne Kellen mit vergoldeten Laffen. 18. bis Anfang 19. Jahrh.,925,98.9,False,positional,K.SEEKATZ,,,,
+BO0624_88415,205737,344,7,292.1 Konvolut: Drei kleine silberne Kellen mit vergoldeten Laffen. 18. bis Anfang 19. Jahrh.,925,98.9,False,positional,K.SEEKATZ,,,,Sec. XIX
 BO0624_88415,205738,345,293,"Kleiner chinesischer Bronzebuddha,vergoldet. In Glaskasten,auf geschnitztem Posta-",939,97.6,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205739,346,2,ment.,940,80.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205740,347,3,"294-95. Ein Paar chinesische Tabaksdosen aus Elfenbein,vierkantig,mit achteckigem Deckel",941,98.9,False,positional,,,OSTASIATISCHE KUNST,,
@@ -359,8 +359,8 @@ BO0624_88415,205750,357,304,"Japanisches Inro, Schwarzlack,mit pastosen Goldlack
 BO0624_88415,205751,358,305,"Alte kupfergetriebene Spritzflasche mit Vergoldungsresten, graviert mit Blattmotiven. H.17cm.",952,97.8,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205752,359,15,306.,953,66.7,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205753,360,16,"Kleine groteske Bronzestatuette:Der Dieb (Mann, aus dessen Taschen allerlei Gefligel usw.hervorsehen).H.14 cm.",954,98.6,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205754,361,307,"Holzstatuette: Mann in Schultermantel, eine Kugel im Arm haltend. 18. Jahrh. H.25cm.",955,92.8,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205755,362,308,Ovaler alter Rokokorahmen mit farbigem Mosaik aus Steinen: Alpendorf. 18. Jahrh. Durchm.12 cm.,957,97.8,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205754,361,307,"Holzstatuette: Mann in Schultermantel, eine Kugel im Arm haltend. 18. Jahrh. H.25cm.",955,92.8,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205755,362,308,Ovaler alter Rokokorahmen mit farbigem Mosaik aus Steinen: Alpendorf. 18. Jahrh. Durchm.12 cm.,957,97.8,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,205756,363,309,Alte birnformige Chinavase aus rotgeflecktem Masern in flachem Relief geschnitten: Blumen und Tiere.Vergoldungsreste. Springe.H. 25 cm.,958,98.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205757,364,310,"GroBe Chinavase, vierkantig, schrage Schulter, breit ausladender Hals. Mit bunten groBen Stauden und Geraten. Sprunge. H. 60 cm. Gesamtgew. 110 g.",959,92.3,False,positional,HALS DIRK,,OSTASIATISCHE KUNST,,
 BO0624_88415,205758,365,311,"Chinesischer Bronzekoro. Zwei hohe Henkel. Drachenhund auf dem Deckel, vorn groBe Paonie. H. 20 cm.",961,97.9,False,positional,,,OSTASIATISCHE KUNST,,
@@ -396,7 +396,7 @@ BO0624_88415,205787,394,332,Dasselbe Blatt in Nachdruck.,992,93.1,False,position
 BO0624_88415,205788,395,333,Kunisada. Triptychon: FluBubergang. (In drei Einzelblattern.),993,96.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205789,396,334,Utamaro:Frauenpaare. Halbfiguren. Neudrucke.,994,95.3,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205790,397,335,Lange Kette aus iber hundert hellgrinen Nephritperlen.,995,96.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205791,398,336,"Runde chinesische Kumme auf RingfuB. AuBen einfarbig dunkelblau-grin, innen dunkelblauweib mit dichtem Blutenmuster. (Glasurspringe.) Mingmarke. 16. Jahrh. Durchmesser 18 cm,H.10 cm. 336a. Runde persische Kumme auf RingfuB. Krakelierte Uberlaufglasur, schwarzblaue Malerei, innen:Wellenrankenbordure; auBen: fuchtig gemalte Landschaft mit Staffage, Schlange usw. 16. Jahrh. Alte Goldausbesserung. Durchm. 20 cm, H. 10 cm.",997,72.0,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205791,398,336,"Runde chinesische Kumme auf RingfuB. AuBen einfarbig dunkelblau-grin, innen dunkelblauweib mit dichtem Blutenmuster. (Glasurspringe.) Mingmarke. 16. Jahrh. Durchmesser 18 cm,H.10 cm. 336a. Runde persische Kumme auf RingfuB. Krakelierte Uberlaufglasur, schwarzblaue Malerei, innen:Wellenrankenbordure; auBen: fuchtig gemalte Landschaft mit Staffage, Schlange usw. 16. Jahrh. Alte Goldausbesserung. Durchm. 20 cm, H. 10 cm.",997,72.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVI
 BO0624_88415,205792,399,337,Runde chinesiche Schale. Ochsenblutfarbig. Blaue Marke. Durchm. 18 cm.,998,97.0,False,positional,,,OGGETTI VARI,,
 BO0624_88415,205793,400,338,"Altes japanisches GefaB aus einfarbigem, hellbraunem Steinzeug; krakeliert. H. 9 cm, Durchm.10 cm.",999,97.9,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205794,401,339,"39a. Antikes Tonlampchen mit Kinderfigur. Lg. 8 cm, und Lekythos, schwarz mit gelber Schulter.",1001,97.8,False,positional,,,OSTASIATISCHE KUNST,,
@@ -409,13 +409,13 @@ BO0624_88415,205800,407,345,"Bronzekoro, rund, auf drei FuBen, zwei Elefantenkop
 BO0624_88415,205801,408,346,Chinesische Bronzevase. Walzenform mit Halsring und zwei kleinen Lowenmasken.,1009,97.4,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205802,409,347,Runder chinesischer Bronzeteller mit Drachen in Silbertausia:Durchm. 28 cm.,1011,97.3,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205803,410,348,"Ein Paar groBe China-Porzellanvasen, kugelig, mit schlankem Hals. Pulverblau mit Eine Mindung gekittet.H. 40 cm. a.",1012,97.3,False,positional,HALS DIRK,,OSTASIATISCHE KUNST,,
-BO0624_88415,205804,411,349,"Alte chinesische Elfenbeinschnitzerei:Liegende nackte Frau,linker Arm und linkes Bein emporgezogen. 17. Jahrh. Lg. 10 cm. a. Bauchiger Krug aus braunglasiertem Steinzeug;vorn Relief: angeschirrtes Pferd. 18.Jahrh.",1016,71.6,False,positional,,,OGGETTI VARI,,
+BO0624_88415,205804,411,349,"Alte chinesische Elfenbeinschnitzerei:Liegende nackte Frau,linker Arm und linkes Bein emporgezogen. 17. Jahrh. Lg. 10 cm. a. Bauchiger Krug aus braunglasiertem Steinzeug;vorn Relief: angeschirrtes Pferd. 18.Jahrh.",1016,71.6,False,positional,,,OGGETTI VARI,,Sec. XVII
 BO0624_88415,205805,412,350,"Italienische Majolikaschussel,gebuckelt,auf Standring geben von Trophaen.Durchm.26 cm.",1019,97.7,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205806,413,351,"Italienische Majolikaschussel, gebuckelt, gelb,braun, grau:Amor, umgeben von Blattmotiven.Durchm.27 cm.",1020,98.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205807,414,352,"Runder Bronzetiegel auf drei strickartigen Fiben,mit Deckel; auf der Leibung sechs Paare aus dem Behaimschen Bauerntanz.16. Jahrh.H. 22 cm.",1021,98.5,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205808,415,353,"Runde Messingschissel, St. Georg, im Spiegel; zweizeiliges Schriftband. 16. Jahrh.",1022,97.4,False,positional,,,SPECCHI,,
+BO0624_88415,205807,414,352,"Runder Bronzetiegel auf drei strickartigen Fiben,mit Deckel; auf der Leibung sechs Paare aus dem Behaimschen Bauerntanz.16. Jahrh.H. 22 cm.",1021,98.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVI
+BO0624_88415,205808,415,353,"Runde Messingschissel, St. Georg, im Spiegel; zweizeiliges Schriftband. 16. Jahrh.",1022,97.4,False,positional,,,SPECCHI,,Sec. XVI
 BO0624_88415,205809,416,354,Runde Messingschussel mit Wirbelrosette.16. Jahrh. Durchm. 42 cm.,1024,96.8,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205810,417,355,"Spatgotischer Altaraufsatz. Schreinformig,mit dito Arkaden,in denen Halbfiguren mannlicher Heiliger stehen. Mit reichem,durchbrochenem Laub- und Astwerk in den Bogen, am Sockel und am Gesims. Bemalungsreste.Ende 15. Jahrh.H.55 cm,",1025,99.1,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205810,417,355,"Spatgotischer Altaraufsatz. Schreinformig,mit dito Arkaden,in denen Halbfiguren mannlicher Heiliger stehen. Mit reichem,durchbrochenem Laub- und Astwerk in den Bogen, am Sockel und am Gesims. Bemalungsreste.Ende 15. Jahrh.H.55 cm,",1025,99.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XV
 BO0624_88415,205811,418,356,"Marmorbiiste:Casarenkopf (Nero?).Gewandteile farbiger,Kopf und Sockel weiber",1027,97.3,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205812,419,357,"LebensgroBe Biste einer vornehmen jungen Frau. Kopf dunkelpatinierte Bronze, Ge-",1029,97.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205813,420,358,"Bronzebuste:Dionysoskopf.(Sogenannte Ariadne des Kapitols"") Kopie nach dem antiken Marmororiginal in Rom.Patiniert mit Teilvergoldung.H. 55 cm.",1031,98.6,False,positional,,,STAMPE E INCISIONI,,
@@ -432,21 +432,21 @@ BO0624_88415,205823,430,369,Rokokospiegel in Form einer Rocaille-Kartusche.18.Ja
 BO0624_88415,205824,431,370,"Hoher Bustenstander im italienischen Renaissancestil, geschnitzt mit Ranken und",1046,97.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205825,432,6,Gehangen.NuBholz.H.140 cm.,1047,96.2,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205826,433,7,371.1 Runder Empire-Nahtisch. Mahagoni mit Bronzebeschlagen. Auf DreifuB mit verschieb,1048,98.8,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205827,434,8,barer Platte.Innen roter Stoffbeutel.Um 1800.H. 73 cm.,1049,98.1,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205828,435,372,"Bustenstander, im italienischen Stil des XV. Jahrh. Konische Form. Holz. Blau und gold bemalt mit heraldischen Hunden,Drachen und Sternen in Relief.Aufgemalt: Wappen der Mecdici.H.150 cm.",1050,98.9,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88415,205829,436,10,"373-374. Ein Paar Bustenstander in Saulenform,Holz,reich geschnitzt und vergoldet. Basis mit Engelskopf und Akanthus, Schaft kanneliert und gewunden, Kompositkapitell. Italienisch 16. Jahrh.H.125 cm.",1051,99.2,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88415,205827,434,8,barer Platte.Innen roter Stoffbeutel.Um 1800.H. 73 cm.,1049,98.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
+BO0624_88415,205828,435,372,"Bustenstander, im italienischen Stil des XV. Jahrh. Konische Form. Holz. Blau und gold bemalt mit heraldischen Hunden,Drachen und Sternen in Relief.Aufgemalt: Wappen der Mecdici.H.150 cm.",1050,98.9,False,positional,,,OGGETTI IN LEGNO,,Sec. XV
+BO0624_88415,205829,436,10,"373-374. Ein Paar Bustenstander in Saulenform,Holz,reich geschnitzt und vergoldet. Basis mit Engelskopf und Akanthus, Schaft kanneliert und gewunden, Kompositkapitell. Italienisch 16. Jahrh.H.125 cm.",1051,99.2,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88415,205830,437,11,375.,1052,66.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205831,438,12,"Louis XVI-Eckschrank,eiche und nubbaum,profiliertes Gesims,Pilaster mit Rosetten, Turen mit zwei intarsierten Fullungen und geschnitztem Gehange. 18. Jahrh.H. 144 cm.",1053,99.1,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205832,439,376,"Mahagoni-Lehnsessel, geschweifte Fife und Lehne. 18. Jahrh.",1054,96.5,False,positional,,,POLTRONE,,
-BO0624_88415,205833,440,377,"Alter italienischer Tisch,nuBbaum,achteckige Platte,dreifubartiges Untergestell mit Lowenfiben,reich geschnitzt: Sphinxe,Delphinen und Akanthus. Um 1700. Alter Schemel, eiche, gedrehte, verstrebte Fibe, Riicklehne ausgesagt in Form einer",1055,78.1,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205831,438,12,"Louis XVI-Eckschrank,eiche und nubbaum,profiliertes Gesims,Pilaster mit Rosetten, Turen mit zwei intarsierten Fullungen und geschnitztem Gehange. 18. Jahrh.H. 144 cm.",1053,99.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205832,439,376,"Mahagoni-Lehnsessel, geschweifte Fife und Lehne. 18. Jahrh.",1054,96.5,False,positional,,,POLTRONE,,Sec. XVIII
+BO0624_88415,205833,440,377,"Alter italienischer Tisch,nuBbaum,achteckige Platte,dreifubartiges Untergestell mit Lowenfiben,reich geschnitzt: Sphinxe,Delphinen und Akanthus. Um 1700. Alter Schemel, eiche, gedrehte, verstrebte Fibe, Riicklehne ausgesagt in Form einer",1055,78.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,205834,441,378,"Blumenvase. Renaissancestuhl, dunkeleichen, steile Form, Lehne und Vordersteg geschnitzt mit",1058,92.9,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205835,442,379,Rollwerkkartuschen.,1059,90.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205836,443,380,"Tischchen mit dinnen, geschweiften Beinen, gebogte Platte in Form eines Tabletts mit Lackbild:Friichtestilleben.18. Jahrh.",1060,98.3,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205837,444,20,381-382. Ein Paar Renaissancestihle mit flachgeschnitzten Rollwerkkartuschen.Italienisch 17.Jahrh.,1061,98.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205838,445,383,Halbrundes Louis XVI-Schrankchen mit RollverschluB und Schubkasten; auf vier,1062,97.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205839,446,22,"hohen Fiben. WeiBe Marmorplatte,Bronzebeschlage. Franzosich.Ende 18. Jahrh.",1063,97.9,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205839,446,22,"hohen Fiben. WeiBe Marmorplatte,Bronzebeschlage. Franzosich.Ende 18. Jahrh.",1063,97.9,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,205840,447,23,"GroBer Kirchenleuchter aus Holz, sehr reich geschnitzt,mit alter Bemalung. Ober-",1064,98.1,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88415,205841,448,384,italienisch 16. Jahrh. Hohe 167 cm.,1065,94.1,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205841,448,384,italienisch 16. Jahrh. Hohe 167 cm.,1065,94.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVI
 BO0624_88415,205842,449,385,"Empirespiegel, holzgeschnitzt u.vergoldet,mit Festons. Anf.19. Jahrh. Gr.52X67 cm.",1066,97.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205843,450,26,"386.Desgleichen,ahnlich.GroBe 50X67 cm.",1067,96.2,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205844,451,27,"387.Desgleichen,mahagoni mit Saulen und Bronzebeschlagen.Anf.19. Jahrh. Gr.50X60 cm.",1068,98.2,False,positional,,,OSTASIATISCHE KUNST,,
@@ -454,19 +454,19 @@ BO0624_88415,205845,452,388,19.Jahrh.Gr.46X110 cm.,1069,91.3,False,positional,,,
 BO0624_88415,205846,453,29,"Kleiner alter Wandspiegel, nuBbaum (beschadigt).Gr. 21X66 cm.",1070,97.4,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205847,454,30,389.,1071,66.7,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205848,455,31,390.,1072,66.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205849,456,32,Runde Messingschissel. Aufgetriebene Mitte in Form einer Wirbelrosette. 16. Jahrh. Durchm.47cm.,1073,98.4,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205849,456,32,Runde Messingschissel. Aufgetriebene Mitte in Form einer Wirbelrosette. 16. Jahrh. Durchm.47cm.,1073,98.4,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVI
 BO0624_88415,205850,457,391,"Desgleichen,ebenso. 16.Jahrh.Durchm.44 cm.",1074,95.2,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205851,458,392,Ein Paar Bronzekandelaber yon Puttenpaaren gehaltene Blumenstraube mit sieben Kerzen auf Marmorplatte.-Fir elektrisches Licht.H. 85 cm.,1075,98.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205852,459,35,393.,1076,66.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205853,460,36,"Kleiner Rokokotisch, vierseitig geschweifte Platte. Rocailleschnitzerei. 18. Jahrh. Vergoldet. PlattengroBe 45X70 cm.",1077,98.7,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205853,460,36,"Kleiner Rokokotisch, vierseitig geschweifte Platte. Rocailleschnitzerei. 18. Jahrh. Vergoldet. PlattengroBe 45X70 cm.",1077,98.7,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,205854,461,394,"Louis-XVI-Garnitur: Sofa und vier Armsessel. Geschnitzte, vergoldete Gestelle mit Aubussonbezigen. Kinderszene und Gefigelbilder auf zartrosa Grund. Abb.Tafel9",1078,98.7,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205855,462,395,"Desgleichen, ebenso, mit etwas anderen Gestellen. Abb.Tafel9 Kleine Louis-XVI-Salongarnitur:Halbrundes Sofa,kleine Bergere und Stuhl. Ge-",1080,72.7,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205856,463,396,"schnitzte und vergoldete Gestelle mit geblimten Goldbrokatbezugen. 396a. Ein Paar fache FuBkissen, mit altem Silberbrokat bezogen und Goldspitzeneinfassung.",1082,72.2,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205857,464,397,Venezianischer Schreibtisch im Regence-Stil. Reich mit Perlmutter und Elfenbein ein- gelegt. Schwarzes Holz mit Aufsatz.(Aus dem NachlaB der Kaiserin Friedrich.),1083,68.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88415,205858,465,398,Kleiner Tisch mit Eichenholzuntergestell und Eichenholzplatte; darin eingelassener Bronzeteller. PlattengroBe 58X80 cm.,1085,80.6,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205859,466,399,"Kleiner ovaler Louis-XVI-Tisch, geschnitzt u.vergoldet, mit weiBgriner Marmorplatte.",1087,97.6,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205860,467,400,"Ein Paar Bustenstander. Runde Platte, drei um einen Schlangenstab aufsteigende Streben. Weib-golden, mit reicher Schnitzerei. Ende 18. Jahrh. H. 130 cm. 400a-b. Ein Paar kleine runde Hocker,Louis-XVI-Stil. Mit alten Goldbrokaten bezogen.",1088,76.9,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205861,468,401,"Ein Paar groBe Spiegel. Vergoldete Barockrahmen,halbrund gebogen, mit quadratisch geteilten Scheiben. 18. Jahrh. H.140 cm,Br. 95 cm.",1090,98.4,False,positional,,,OGGETTI VARI,,
+BO0624_88415,205860,467,400,"Ein Paar Bustenstander. Runde Platte, drei um einen Schlangenstab aufsteigende Streben. Weib-golden, mit reicher Schnitzerei. Ende 18. Jahrh. H. 130 cm. 400a-b. Ein Paar kleine runde Hocker,Louis-XVI-Stil. Mit alten Goldbrokaten bezogen.",1088,76.9,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205861,468,401,"Ein Paar groBe Spiegel. Vergoldete Barockrahmen,halbrund gebogen, mit quadratisch geteilten Scheiben. 18. Jahrh. H.140 cm,Br. 95 cm.",1090,98.4,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_88415,205862,469,7,"401a. Ein Paar Wandarmleuchter,holzgeschnitzt und vergoldet. Dreiarmig. Barockstil.",1091,98.8,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205863,470,8,"401b.Vierteiliger Paravent im Louis-XVI-Stil,mit altem,buntgeblimtem Silberbrokat und",1092,98.8,False,positional,,,ARREDAMENTI,,
 BO0624_88415,205864,471,9,Glasscheiben.H.125 cm.,1093,95.5,False,positional,,,OSTASIATISCHE KUNST,,
@@ -501,68 +501,68 @@ BO0624_88415,205892,499,3,"418b. GroBe, alte orientalische Seidendecke mit bunte
 BO0624_88415,205893,500,4,418c. Chinesische Decke aus graublaugrundigem Brokatstoff mit Drachen und Wolken.,1126,98.8,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205894,501,5,"418d. Desgleichen aus schwarzer Seide,mit groBem Goldstickereiornament.",1127,98.6,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205895,502,6,"418e-f. Zwei alte bunte Tucher, eines aus blauer Wolle, das andere aus schwarz-roter Seide.",1128,98.9,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205896,503,7,"418g. Altes Leinendeckchen mit Durchbruch und bunter Wollstickerei. Italienisch, 17. Jahrh.",1129,98.9,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205897,504,419,"Silbergetriebener Kelch mit Teilvergoldung. Runder FuB, kantiger Ablauf, konischer Kelch.Reich graviert in Tula-Art: Gebaude,Ranken usw. Wohl Moskau.Ende 18. Jahrh. Russische Inschrift von 1851. H. 22 cm. Gew. 200 g. Abh.Tael 11",1131,77.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205898,505,420,"Desgleichen,innen vergoldet. Runder, ornamentierter FuB; aufgelegte Reliefs:Tan zende Madchen in Arkaden;oben viermal wiederholtes Medaillon mit Diana. Russische Inschrift.Um 1800. H. 20 cm.Gew.185 g. Ahb.Tatel 11",1132,99.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205899,506,421,"Silbervergoldeter Kelch. VierpaBfuB, gedrehter Kelch, am Ablauf mit Blattern belegt. Russisch, Ende 18. Jahrh. H. 17 cm. Gew.165 g. Abh.Taiel 11",1133,98.5,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205900,507,422,"Silbervergoldeter Akeleypokal ohne Deckel. Siebenfach gebuckelte FuBplatte. Rohrenschaft mit Ansatzen. 17. Jahrh.Nurnberger Beschau.Markenzeichen RR.H.20,5 cm. Gew.125g. Abh.Tafel 11 BlumenstrauB. Augsburger Beschau. 17.Jahrh. H.34,5 cm.Gew.490 g. Abb. Tatel 11",1134,81.9,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205896,503,7,"418g. Altes Leinendeckchen mit Durchbruch und bunter Wollstickerei. Italienisch, 17. Jahrh.",1129,98.9,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
+BO0624_88415,205897,504,419,"Silbergetriebener Kelch mit Teilvergoldung. Runder FuB, kantiger Ablauf, konischer Kelch.Reich graviert in Tula-Art: Gebaude,Ranken usw. Wohl Moskau.Ende 18. Jahrh. Russische Inschrift von 1851. H. 22 cm. Gew. 200 g. Abh.Tael 11",1131,77.4,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205898,505,420,"Desgleichen,innen vergoldet. Runder, ornamentierter FuB; aufgelegte Reliefs:Tan zende Madchen in Arkaden;oben viermal wiederholtes Medaillon mit Diana. Russische Inschrift.Um 1800. H. 20 cm.Gew.185 g. Ahb.Tatel 11",1132,99.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
+BO0624_88415,205899,506,421,"Silbervergoldeter Kelch. VierpaBfuB, gedrehter Kelch, am Ablauf mit Blattern belegt. Russisch, Ende 18. Jahrh. H. 17 cm. Gew.165 g. Abh.Taiel 11",1133,98.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205900,507,422,"Silbervergoldeter Akeleypokal ohne Deckel. Siebenfach gebuckelte FuBplatte. Rohrenschaft mit Ansatzen. 17. Jahrh.Nurnberger Beschau.Markenzeichen RR.H.20,5 cm. Gew.125g. Abh.Tafel 11 BlumenstrauB. Augsburger Beschau. 17.Jahrh. H.34,5 cm.Gew.490 g. Abb. Tatel 11",1134,81.9,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
 BO0624_88415,205901,508,423,"Desgleichen. Sechsfach gebuckelte FuBplatte,Vasenschaft. Als Deckelbekronung",1136,97.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205902,509,424,"Reich geschnitzter KokosnuBpokal in silbervergoldeter Montierung,mit groben Glassteinen dicht besetzt,vor allem auf dem Deckel. In der Fubplatte drei ovale Emailplattchen mit bacchischen Szenen. Die NuB fach geschnitten mit Vergoldungsresten: Vornehme Paare in Landschaften. Deckel traubenartig,mit Weinblattknauf. Zweite Halfte 17. Jahrh.H.31 cm. Abb Tafel 11",1137,99.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205903,510,425,"Silbergetriebener Deckelhumpen. FuB und Deckelwulst mit Lorbeerbordure. Umlaufender Fries: Antonius und Paulus, von Raben gespeist. Im Deckel eingraviert: Schild und zwei Hausmarken und Monogramme. Ende 17. Jahrh. Danziger Beschau. Meisterzeichen N. P. (Nathaniel Pressding, vgl.Rosenberg 984). H. 17,5 cm. Gew.930 g. Abb Titel10",1138,99.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205904,511,426,"Desgleichen mit Teilvergoldung: Drei Casarenkopfe in von Fruchtfestons umzogenen Medaillons. Am Standwulst und Deckel gleichfalls je drei antike Kopfe. Fragezeichenformiger,kantiger Henkel.Hamburger Beschau. Meisterzeichen:A.R. Beimarke E. B. 17. Jahrh. H. 17,5 cm.Gew. 625 g Alb.Tafel 10 Silbergetriebener Becher,zylindrisch,mit groBen Bliten.Am wenig umgebogenen Rand eingraviert: Sophia Gertrut Funcken W. Bauers. Ao.1700. Unkenntliche Beschau.",1139,77.8,False,positional,,,VASI,,
-BO0624_88415,205905,512,427,Silbergetriebener Ananaspokal. Gebuckelte FuBplatte. Schaft mit vier Kugeln;auf dem Deckel kleiner Vogel als Knauf. Unkenntliche Beschau. (Vielleicht Littich.) Um 1600. H.28cm.Gew.270 g Abb.Tatel11,1141,99.0,False,positional,,,COPPE,,
+BO0624_88415,205902,509,424,"Reich geschnitzter KokosnuBpokal in silbervergoldeter Montierung,mit groben Glassteinen dicht besetzt,vor allem auf dem Deckel. In der Fubplatte drei ovale Emailplattchen mit bacchischen Szenen. Die NuB fach geschnitten mit Vergoldungsresten: Vornehme Paare in Landschaften. Deckel traubenartig,mit Weinblattknauf. Zweite Halfte 17. Jahrh.H.31 cm. Abb Tafel 11",1137,99.4,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
+BO0624_88415,205903,510,425,"Silbergetriebener Deckelhumpen. FuB und Deckelwulst mit Lorbeerbordure. Umlaufender Fries: Antonius und Paulus, von Raben gespeist. Im Deckel eingraviert: Schild und zwei Hausmarken und Monogramme. Ende 17. Jahrh. Danziger Beschau. Meisterzeichen N. P. (Nathaniel Pressding, vgl.Rosenberg 984). H. 17,5 cm. Gew.930 g. Abb Titel10",1138,99.4,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
+BO0624_88415,205904,511,426,"Desgleichen mit Teilvergoldung: Drei Casarenkopfe in von Fruchtfestons umzogenen Medaillons. Am Standwulst und Deckel gleichfalls je drei antike Kopfe. Fragezeichenformiger,kantiger Henkel.Hamburger Beschau. Meisterzeichen:A.R. Beimarke E. B. 17. Jahrh. H. 17,5 cm.Gew. 625 g Alb.Tafel 10 Silbergetriebener Becher,zylindrisch,mit groBen Bliten.Am wenig umgebogenen Rand eingraviert: Sophia Gertrut Funcken W. Bauers. Ao.1700. Unkenntliche Beschau.",1139,77.8,False,positional,,,VASI,,Sec. XVII
+BO0624_88415,205905,512,427,Silbergetriebener Ananaspokal. Gebuckelte FuBplatte. Schaft mit vier Kugeln;auf dem Deckel kleiner Vogel als Knauf. Unkenntliche Beschau. (Vielleicht Littich.) Um 1600. H.28cm.Gew.270 g Abb.Tatel11,1141,99.0,False,positional,,,COPPE,,Sec. XVII
 BO0624_88415,205906,513,20,(Vielleicht der Berliner Bar?) H. 7cm. Gew. 85 g.,1142,96.6,False,positional,,Scuola di Berlino,OSTASIATISCHE KUNST,,
-BO0624_88415,205907,514,429,"Kleiner runder Silberbecher mit Teilvergoldung. Graviert mit drei Medaillons:Land liche Szenen. 18. Jahrh. Wahrscheinlich Naunburger Beschau.(Schlussel u.Schwert.) Meisterzeichen H. H.I.Durchm. 7,4 cm. Gew. 60 g",1143,86.7,False,positional,,,SCATOLE,,
-BO0624_88415,205908,515,430,"Silberner Becher. Konisch. Reich graviert mit hangenden Fruchtfestons. Hamburger Beschau.Meisterzeichen:L.R.und Lilie. (Leonhard Rothaar. 1698. Vgl. Rosenberg. Nr.1626.) Um 1700.H.7,9 cm.Gew.110g.",1145,88.8,False,positional,,,VASI,,
+BO0624_88415,205907,514,429,"Kleiner runder Silberbecher mit Teilvergoldung. Graviert mit drei Medaillons:Land liche Szenen. 18. Jahrh. Wahrscheinlich Naunburger Beschau.(Schlussel u.Schwert.) Meisterzeichen H. H.I.Durchm. 7,4 cm. Gew. 60 g",1143,86.7,False,positional,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205908,515,430,"Silberner Becher. Konisch. Reich graviert mit hangenden Fruchtfestons. Hamburger Beschau.Meisterzeichen:L.R.und Lilie. (Leonhard Rothaar. 1698. Vgl. Rosenberg. Nr.1626.) Um 1700.H.7,9 cm.Gew.110g.",1145,88.8,False,positional,,,VASI,,Sec. XVII
 BO0624_88415,205909,516,431,"Silberner Becher mit Teilvergoldung. Zylindrisch. Gekornte Oberfache. Im Boden eingelassen groBe Danziger Schauminze,in der Wandung 14 kleinere Minzen. Ende Jahrh. H. 9,9 cm. Gew. 165 g.",1147,91.3,False,positional,,,VASI,,
-BO0624_88415,205910,517,432,"Silbergetriebene AchtpaBschale auf FuB. Als Schaft Figur eines nackten,kranzhaltenden Junglings. Sechsfach gebuckelter FuB. Augsburger Beschau. 17. Jahrh. H. 13,5 cin. Gew.200 g. AbbTatel 11",1149,98.9,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205910,517,432,"Silbergetriebene AchtpaBschale auf FuB. Als Schaft Figur eines nackten,kranzhaltenden Junglings. Sechsfach gebuckelter FuB. Augsburger Beschau. 17. Jahrh. H. 13,5 cin. Gew.200 g. AbbTatel 11",1149,98.9,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
 BO0624_88415,205911,518,433,"Silbergetriebener Pokal. Gewolbter FuB, kurzer Sehaft. Kuppa mit Pfeifenornament am Ablauf. Ganz bedeckt mit Renaissance-Ornamenten: Rollwerk, Fruchtbuschel usw. H.19 cm.Gew. 175 g. Ahb.Tutel11",1150,98.9,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205912,519,434,Silbergetriebene ovale Schale. Im Spiegel: Gruppe von sechs trinkenden Soldaten Barocksilbers. Durchm.20X23 cm.Gew.220g. Abb.Tafel 10,1151,98.5,False,positional,,,OGGETTI VARI,,
 BO0624_88415,205913,520,2,435.,1152,75.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205914,521,436,Desgleichen. Im Spiegel vielfigurige Szene: Antike Krieger um eine am Boden liegende,1153,97.6,False,positional,,,SPECCHI,,
 BO0624_88415,205915,522,4,Gr.20X23 cm.Gew.230 g. Abb.Tafel 10,1154,97.1,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205916,523,5,Rustung streitend. Breiter Rand mit Masken und Ranken. Im Stil des 16.—17. Jahrh. Gr.22×27 cm.Gew.205 g Abb.Tael10,1155,99.1,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205917,524,437,"GroBe ovale Silberschale. Im Spiegel Landschaft mit Schaferpaar. Auf dem breiten Rand Laub-und Bandelwerk-Ranken mit Puttenfiguren. Breslauer Beschau. Meisterzeichen: G.K.(Gottfried Korner,  1722.Vgl. Rosenberg, Nr. 794.) Gr. 31X38 cm. Gew.395 g. Abb.Tafel10",1156,99.2,False,positional,,,SPECCHI,,
+BO0624_88415,205917,524,437,"GroBe ovale Silberschale. Im Spiegel Landschaft mit Schaferpaar. Auf dem breiten Rand Laub-und Bandelwerk-Ranken mit Puttenfiguren. Breslauer Beschau. Meisterzeichen: G.K.(Gottfried Korner,  1722.Vgl. Rosenberg, Nr. 794.) Gr. 31X38 cm. Gew.395 g. Abb.Tafel10",1156,99.2,False,positional,,,SPECCHI,,Sec. XVIII
 BO0624_88415,205918,525,438,"BergkristallAnhanger, oval,mit buntemaillierten Goldornamenten u.zwei Miniaturen: Salvator bzw.Madonna.17.Jahrh.Lg.5 cm.",1157,79.0,False,positional,,,MINIATURE,,
-BO0624_88415,205919,526,439,"Louis XVI. Carnet de bal. Schwarzer Lack mit goldenen Auflagen u.zwei Miniaturen: eine mit staffierter Landschaft in der Art des Blarenberghe, die andere Brustbild einer jungen Dame mit blauem Band in den gepuderten Haaren. Ende 18. Jahrh.",1159,99.1,False,positional,,,MINIATURE,,
+BO0624_88415,205919,526,439,"Louis XVI. Carnet de bal. Schwarzer Lack mit goldenen Auflagen u.zwei Miniaturen: eine mit staffierter Landschaft in der Art des Blarenberghe, die andere Brustbild einer jungen Dame mit blauem Band in den gepuderten Haaren. Ende 18. Jahrh.",1159,99.1,False,positional,,,MINIATURE,,Sec. XVIII
 BO0624_88415,205920,527,440,"Viereckiges Kastchen, Holz,mit Schildpattfurnier und Bronzebeschlagen:Tierreliefs.",1160,97.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88415,205921,528,11,17.—18. Jahrh.Lg.8 cm.,1161,92.7,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205922,529,12,441.Schildpattkastchen.Viereckige Truhenform mit silbernen Beschlagen: ausgesagte Charitasmedaille usw.18.Jahrh.Lg.9 cm.,1162,98.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205923,530,13,"bildchen:Kreuzeslamm.Um 1825.Gr.4,2X5 cm.",1163,96.4,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205923,530,13,"bildchen:Kreuzeslamm.Um 1825.Gr.4,2X5 cm.",1163,96.4,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
 BO0624_88415,205924,531,14,443.,1164,66.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205925,532,15,"Silbernes Flakon in Herzform, graviert, mit Wildemanns-Wappen als Kronung. Schleswig. Um 1800. H. 10 cm.",1165,98.5,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205926,533,444,Runde Maserholzdose mit vergoldeter Montierung. Iim Deckel Miniatur auf Elfenbein: Brustbild eines Offiziersmit griner Uniform und Ordenskreuz. Signiert:Triguart 1786.,1166,98.8,False,positional,,,MINIATURE,,
+BO0624_88415,205925,532,15,"Silbernes Flakon in Herzform, graviert, mit Wildemanns-Wappen als Kronung. Schleswig. Um 1800. H. 10 cm.",1165,98.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
+BO0624_88415,205926,533,444,Runde Maserholzdose mit vergoldeter Montierung. Iim Deckel Miniatur auf Elfenbein: Brustbild eines Offiziersmit griner Uniform und Ordenskreuz. Signiert:Triguart 1786.,1166,98.8,False,positional,,,MINIATURE,,Sec. XVIII
 BO0624_88415,205927,534,17,"Durchm.8,3 cm.Prov.Smlg.Emden.",1167,95.1,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205928,535,18,"445.Ovale Olminiatur:Lady Chesterfield,von John Dixon ( 1715).Huftbild,in blauem",1168,98.1,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205928,535,18,"445.Ovale Olminiatur:Lady Chesterfield,von John Dixon ( 1715).Huftbild,in blauem",1168,98.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,205929,536,19,"Gewand. Auf Samtplatte.Provenienz:Smlg. Emden.Gr.5,5X6,6 cm.",1169,97.4,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205930,537,446,"GroBe Hochster Biskuitgruppe: Der Ka lvarienberg: Christus am Kreuz,die",1170,97.2,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205931,538,21,"drei Frauen und Johannes zu Fuben klagend, dicht am Kreuz zwei weinende Putten. Von Jo hann Peter Me1c hior (17421822).Um 1775. Gleiches Exemplar im",1171,99.0,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205931,538,21,"drei Frauen und Johannes zu Fuben klagend, dicht am Kreuz zwei weinende Putten. Von Jo hann Peter Me1c hior (17421822).Um 1775. Gleiches Exemplar im",1171,99.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,205932,539,22,Kupfervergoldetes Rokokociborium. Reich getrieben mit Rocaillen. Als Deckel-,1172,98.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205933,540,447,kronung: Gotteslamm. 18. Jahrh. H. 40 cm.,1173,94.6,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205934,541,448,"Ein Paar silbergetriebene, ovale Schalen mit Puttenfiguren und fruchtbesetzten Ranken auf dem breiten Rand. Augsburg. 18. Jahrh.Gr.27X30 cm.Gew. 660 g. Abb.Tafel 12",1174,98.8,False,positional,,,OGGETTI VARI,,
-BO0624_88415,205935,542,449,"Ein Paar silberne Leuchterengel, kniend, Fullhorner in den Handen haltend. Auf Sockeln mit Blitenornament. 18. Jahrh. H.26 cm. Gew.6450 g. Abb.Tafel 13 Geschweifte, ovale Silberschussel. Getrieben mit groBen Rocaillekartuschen.P Breslauer Beschau. Meisterzeichen: G.F.T. Mitte 18. Jahrh.Gr.27X35 cm. Gew. 500 g. Abb.Tafel12 Silberner indischer Blumenkubel. Reich getrieben mit zahlr. Figuren, Ranken usw. Durchm.18 cm.H.15 cm.Gew.880 g. Abb.Tafel 13",1176,56.0,False,positional,,,LAMPADE,,
+BO0624_88415,205933,540,447,kronung: Gotteslamm. 18. Jahrh. H. 40 cm.,1173,94.6,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205934,541,448,"Ein Paar silbergetriebene, ovale Schalen mit Puttenfiguren und fruchtbesetzten Ranken auf dem breiten Rand. Augsburg. 18. Jahrh.Gr.27X30 cm.Gew. 660 g. Abb.Tafel 12",1174,98.8,False,positional,,,OGGETTI VARI,,Sec. XVIII
+BO0624_88415,205935,542,449,"Ein Paar silberne Leuchterengel, kniend, Fullhorner in den Handen haltend. Auf Sockeln mit Blitenornament. 18. Jahrh. H.26 cm. Gew.6450 g. Abb.Tafel 13 Geschweifte, ovale Silberschussel. Getrieben mit groBen Rocaillekartuschen.P Breslauer Beschau. Meisterzeichen: G.F.T. Mitte 18. Jahrh.Gr.27X35 cm. Gew. 500 g. Abb.Tafel12 Silberner indischer Blumenkubel. Reich getrieben mit zahlr. Figuren, Ranken usw. Durchm.18 cm.H.15 cm.Gew.880 g. Abb.Tafel 13",1176,56.0,False,positional,,,LAMPADE,,Sec. XVIII
 BO0624_88415,205936,543,452,Runde Silberschale auf drei MaskenfiBen. Getrieben mit drei Bliten und muschel-,1178,97.5,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205937,544,453,"Silbergetriebenes Schreibzeug. Ovale Doppelschale, darauf Leuchter und zwei halb mondformig aufsteigende GefaBe. Sehr reich getrieben mit Figuren,Blattern,Bluten und Muschelmotiven. H.18 cm. Gew.630 g. Abb.Tafel 13 formigen Vertiefungen. 17. Jahrh. Durchm. 16 cm. Gew. 120 g.",1179,87.8,False,positional,,,LAMPADE,,
+BO0624_88415,205937,544,453,"Silbergetriebenes Schreibzeug. Ovale Doppelschale, darauf Leuchter und zwei halb mondformig aufsteigende GefaBe. Sehr reich getrieben mit Figuren,Blattern,Bluten und Muschelmotiven. H.18 cm. Gew.630 g. Abb.Tafel 13 formigen Vertiefungen. 17. Jahrh. Durchm. 16 cm. Gew. 120 g.",1179,87.8,False,positional,,,LAMPADE,,Sec. XVII
 BO0624_88415,205938,545,454,"Alte orientalische Silbervase mit Teilvergoldung. Ovale FuBplatte, scheibenformige Leibung. Hoher Hals mit zahlreichen Anhangseln in Fischform. H. 33 cm. Gew. 450 g. Abb.Tafel 12",1181,98.8,False,positional,HALS DIRK,,OSTASIATISCHE KUNST,,
 BO0624_88415,205939,546,455,"- Silberne Statuette: Sitzender Krieger in antiker Rustung mit vergoldetem,diamantbesetztem Helm und Diamantaugen.H. 17 cm.Holzsockel. Abb.Tafel13",1183,100.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205940,547,456,"- Ovale, silbergetriebene Platte mit Doppeladlerwappen und reichem Laub-und Bandelwerk. 18. Jahrh. Gr.24X29cm. Gew.240 g.",1185,100.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205941,548,457,"- Ovale Silberschale, glatt, mit schmaler Blattbordire. Um 1800. Lg. 33 cm. Gew. 820 g.",1187,100.0,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205940,547,456,"- Ovale, silbergetriebene Platte mit Doppeladlerwappen und reichem Laub-und Bandelwerk. 18. Jahrh. Gr.24X29cm. Gew.240 g.",1185,100.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205941,548,457,"- Ovale Silberschale, glatt, mit schmaler Blattbordire. Um 1800. Lg. 33 cm. Gew. 820 g.",1187,100.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
 BO0624_88415,205942,549,458,Silbergetriebener Bucheinband mit wappen usw.(Inhalt:leere Seiten.) Mitte 18.Jahrh.Gr.12X18 cm.,1188,97.8,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205943,550,459,"- groben Rocailleornamenten, gekrontem Adler-",1190,100.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205944,551,460,"Missale Romanum usw. Koln. Balthasar ab Egmondt. 1691. Zweifarbiger Druck. Fol. In sehr reichem Silberdeckel der Zeit mit groben, durchbrochenen Ranken und Jesusmonogramm.",1192,98.8,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205944,551,460,"Missale Romanum usw. Koln. Balthasar ab Egmondt. 1691. Zweifarbiger Druck. Fol. In sehr reichem Silberdeckel der Zeit mit groben, durchbrochenen Ranken und Jesusmonogramm.",1192,98.8,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
 BO0624_88415,205945,552,461,"Reliefertes silbernes SalzfaB, dreieckig, mit runder Vertiefung und drei halbmond-",1193,97.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205946,553,462,"Bergkristallreliquiar in silbervergoldeter Montierung mit Deckelchen. Deutsch,16. Jahrhundert.H.11 cm.",1195,98.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205947,554,463,"- Silbergetriebene Vogelfigur mit abnehmbarem Kopf. 18. Jahrh.Lowenmarke. Hohe 9,5 cm.Gew. 145 g. Abb.Tafel 12",1197,100.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205948,555,464,65. Ein Paar Kristallfaschen in silberner Montierung. Weinlaub am Deckel. Um 1840.,1199,97.5,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205947,554,463,"- Silbergetriebene Vogelfigur mit abnehmbarem Kopf. 18. Jahrh.Lowenmarke. Hohe 9,5 cm.Gew. 145 g. Abb.Tafel 12",1197,100.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205948,555,464,65. Ein Paar Kristallfaschen in silberner Montierung. Weinlaub am Deckel. Um 1840.,1199,97.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
 BO0624_88415,205949,556,466,"Porzellandose in Form eines Hundekopfes, braun-weiB bemalt. Vergoldete Montierung. Lg.9,5cm.",1201,97.8,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205950,557,467,Kleine runde Emaildose mit bunten Chinesen; innen einfarbig grau. 18. Jahrh. Durch- messer 4 cm.,1202,90.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205951,558,468,"Emailanhanger in Birnform,bemalt mit Blumen. 17. Jahrh. Lg. 4,5 cm. Viereckige Emaildose. Bunt. Auben Schaferszenen,innen Halbfigur einer Dame mit",1205,71.9,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205950,557,467,Kleine runde Emaildose mit bunten Chinesen; innen einfarbig grau. 18. Jahrh. Durch- messer 4 cm.,1202,90.7,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205951,558,468,"Emailanhanger in Birnform,bemalt mit Blumen. 17. Jahrh. Lg. 4,5 cm. Viereckige Emaildose. Bunt. Auben Schaferszenen,innen Halbfigur einer Dame mit",1205,71.9,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
 BO0624_88415,205952,559,469,Hundchen.18. Jahrh.Lg.8 cm.,1206,92.6,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205953,560,470,"Kleine,viereckige Emaildose, schwarz-weiB,mit landlich. Szenen.18.Jahrh.Lg.6,5 cm.",1207,97.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205954,561,8,471.,1208,75.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205955,562,9,"Ovale Emaildose. Eigelber Fond, verstreute Blimchen und Landschaft.18. Jahrh. Lg.8,5cm.",1209,98.8,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205956,563,10,472.,1210,66.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205957,564,11,Kupfervergoldetes Tempelchen.China. 18. Jahrh. H. 18 cm.,1211,97.1,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205957,564,11,Kupfervergoldetes Tempelchen.China. 18. Jahrh. H. 18 cm.,1211,97.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,205958,565,473,"BlauweiBes Chinavaschen mit Blumen. Silberner Schraubverschluf. H.12,5 cm.",1212,97.3,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205959,566,13,474.,1213,66.7,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205960,567,14,Chinesisches PorzellangefaB in Form einer Ente. BlauweiB. 17.18. Jahrh. H.18 cm. (Beschadigt.),1214,98.3,False,positional,,,OSTASIATISCHE KUNST,,
@@ -571,19 +571,19 @@ BO0624_88415,205962,569,16,476.,1216,66.7,False,positional,,,OSTASIATISCHE KUNST
 BO0624_88415,205963,570,17,18.Jahrh.H.14 cm.,1217,91.4,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205964,571,18,"Chinesische Steinzeugfgur: Groteskes Tier, auf dem Rucken eine Schale tragend. H.14cm.",1218,98.2,False,positional,,,OGGETTI VARI,,
 BO0624_88415,205965,572,19,Dose aus einer weiB-braun gefeckten Muschel. Silberner Deckel mit bunten Glas-,1219,98.1,False,positional,,,SCATOLE,,
-BO0624_88415,205966,573,20,477 steinen.Im silbernen Boden:J.L.Cv.R.Um 1800.,1220,96.9,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205966,573,20,477 steinen.Im silbernen Boden:J.L.Cv.R.Um 1800.,1220,96.9,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
 BO0624_88415,205967,574,21,478.,1221,66.7,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205968,575,22,"Geschweift-ovale Dose,kupfervergoldet,mit Rocaillen.Im Deckel perlmutterunterlegtes Relief:Liebespaar.18. Jahrh.",1222,98.7,False,positional,,,SCATOLE,,
 BO0624_88415,205969,576,479,"Doppelfakon in Form zweier Fische. Bunte Steinchen im VerschluB. H. 6,5 cm. 480-84. Konvolut:Lange, silberne Strickscheide, Zuckernehmer mit Holzstil, Loffel mit",1230,98.7,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205970,577,2,"Blattlaffe,Petschaft, Gurtelkette mit Geraten.",1231,97.8,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205971,578,485,"86. Zwei kleine,runde Silberdoschen mit Achat- bzw. Chrysopasdeckel. 18. Jahrh.",1232,97.3,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205972,579,487,"Silbervergoldete Dose, oval, mit groBen Bliten. 18. Jahrh. Lg. 7,5 cm.",1234,96.9,False,positional,,,SCATOLE,,
-BO0624_88415,205973,580,488,"91. Vier kleine Silberdosen, verschiedene Formen. 18. Jahrh. Gesamtgew. 85 g.",1235,97.2,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205974,581,492,Kupfervergoldetes Necessaire mit reichen Rocailleornamenten. 18. Jahrh. Mit Inhalt.,1236,97.5,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205971,578,485,"86. Zwei kleine,runde Silberdoschen mit Achat- bzw. Chrysopasdeckel. 18. Jahrh.",1232,97.3,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205972,579,487,"Silbervergoldete Dose, oval, mit groBen Bliten. 18. Jahrh. Lg. 7,5 cm.",1234,96.9,False,positional,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205973,580,488,"91. Vier kleine Silberdosen, verschiedene Formen. 18. Jahrh. Gesamtgew. 85 g.",1235,97.2,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205974,581,492,Kupfervergoldetes Necessaire mit reichen Rocailleornamenten. 18. Jahrh. Mit Inhalt.,1236,97.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,205975,582,493,"Russisches Klappaltarchen. Silber graviert, im Innern Athoschnitzerei: Marienkronung",1237,97.6,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205976,583,494,"Silberner Barockanhanger, ganz bedeckt mit farbig unterlegtem StraB. 18. Jahrh.",1239,97.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205977,584,495,"- Kupfervergoldetes Doschen mit Rocaillen und Blumenkorb, auf Lapisplatte. 18. Jahrh. Lg.5,5cm.",1241,100.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205978,585,496,"Silbervergoldete Nadelbichse,vierkantig,mit Laub- und Bandelwerk;im FuB Petschaft. 18. Jahrh. Lg.8,2 cm.",1242,98.0,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205976,583,494,"Silberner Barockanhanger, ganz bedeckt mit farbig unterlegtem StraB. 18. Jahrh.",1239,97.4,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205977,584,495,"- Kupfervergoldetes Doschen mit Rocaillen und Blumenkorb, auf Lapisplatte. 18. Jahrh. Lg.5,5cm.",1241,100.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205978,585,496,"Silbervergoldete Nadelbichse,vierkantig,mit Laub- und Bandelwerk;im FuB Petschaft. 18. Jahrh. Lg.8,2 cm.",1242,98.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,205979,586,497,"Bronzedose mit zwei Schiebedeckeln, die schachbrettartig marquettiert sind. Im Innern",1243,97.6,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205980,587,498,"Silberfligran-Anhanger mit zwei Miniaturen:Furstenpaar. Lg. 4,5 cm.",1245,97.0,False,positional,,,MINIATURE,,
 BO0624_88415,205981,588,499,"Silbergetriebene Marienkrone, teilvergoldet. 17.18. Jahrh. Gew. 130 g.",1246,97.0,False,positional,,,OSTASIATISCHE KUNST,,
@@ -595,34 +595,34 @@ BO0624_88415,205986,593,504,"Kleine orientalische Silbervase. Birnform, mit zwei
 BO0624_88415,205987,594,505,1,1253,33.3,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,OSTASIATISCHE KUNST,,
 BO0624_88415,205988,595,506,Orientalisches silbernes Kannchen mit langem Stielgriff. Reich getrieben. H. 10 cm. Gew. 150 g.,1255,97.8,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205989,596,507,"Desgleichen, ahnlich. H. 12 cm. Gew. 190 g.",1256,94.9,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205990,597,508,"Kleine viereckige Tischuhr,Bronze. Bezeichnet: Conrad Schaffer.Lederetui. Um 1700.",1257,97.5,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205991,598,509,mit Halbedelsteinen.Um 1830.,1259,93.1,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205990,597,508,"Kleine viereckige Tischuhr,Bronze. Bezeichnet: Conrad Schaffer.Lederetui. Um 1700.",1257,97.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,205991,598,509,mit Halbedelsteinen.Um 1830.,1259,93.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
 BO0624_88415,205992,599,510,"Petschaft in Form einer Biste. Silbervergoldet,mit farbigen Steinen besetzt.18.—19. Jahrh. H. 7 cm.",1260,97.9,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205993,600,511,Kleine orientalische Silbervase. Reich graviert.H. 8 cm. Gew.120 g.,1261,96.9,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205994,601,512,"Silbergetriebener Becher mit drei Blumenmedaillons und hebraischen Inschriften. 18. Jahrh.H.9,5 cm.Gew.130 g",1262,98.1,False,positional,,,VASI,,
-BO0624_88415,205995,602,513,Kleiner Silberbecher. Am Ablauf Pfeifenornament.Breslauer Beschau.Um 1800. H.7 cm. Gew. 50 g.,1263,97.8,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205994,601,512,"Silbergetriebener Becher mit drei Blumenmedaillons und hebraischen Inschriften. 18. Jahrh.H.9,5 cm.Gew.130 g",1262,98.1,False,positional,,,VASI,,Sec. XVIII
+BO0624_88415,205995,602,513,Kleiner Silberbecher. Am Ablauf Pfeifenornament.Breslauer Beschau.Um 1800. H.7 cm. Gew. 50 g.,1263,97.8,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
 BO0624_88415,205996,603,514,"Flache Silberdose, viereckig. Eingraviert: Liebespaar. Wiener Beschau. Lg. 8,5 cm. Gew.80 g.",1264,97.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,205997,604,515,"Silberner,teilvergoldeter Vexierpokal.Gebuckelt, am Schaft Bretzel. Inschrift und Jahreszahl 1768. Beschau: MeiBner Kurschwerter. H. 17 cm. Gew.200 g. Abb Tafel 12",1265,98.7,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205997,604,515,"Silberner,teilvergoldeter Vexierpokal.Gebuckelt, am Schaft Bretzel. Inschrift und Jahreszahl 1768. Beschau: MeiBner Kurschwerter. H. 17 cm. Gew.200 g. Abb Tafel 12",1265,98.7,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,205998,605,516,"Ovale silberne Schale. Durchbrochen, in Korbgeflechtnachahmung. 18.Jahrh. Augsburger Beschau., Gr. 20X24 cm. Gew. 180 g. Abh.Tafel 13",1266,98.4,False,positional,,,OGGETTI VARI,,
-BO0624_88415,205999,606,517,Runde silberne Medaille. Avers:Reiter einen Lowen bekampfend. Revers: graviert: zehn Arkaden in drei Reihen mit Passionsszenen. Datiert 1581. Durchm. 7 cm.,1267,98.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206000,607,518,"19. Ein Paar silberne Loffel mit Teilvergoldung, breite Laffen, am Stilansatz Figurchen in Arkade. Rickseite graviert. 16. Jahrh.Gew.210 g.",1268,98.5,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,205999,606,517,Runde silberne Medaille. Avers:Reiter einen Lowen bekampfend. Revers: graviert: zehn Arkaden in drei Reihen mit Passionsszenen. Datiert 1581. Durchm. 7 cm.,1267,98.7,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVI
+BO0624_88415,206000,607,518,"19. Ein Paar silberne Loffel mit Teilvergoldung, breite Laffen, am Stilansatz Figurchen in Arkade. Rickseite graviert. 16. Jahrh.Gew.210 g.",1268,98.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVI
 BO0624_88415,206001,608,520,21. Ein Paar Menagen mit je zwei Kristallfaschen in durchbrochenen Silbergestellen. Um1800.H.26cm.,1269,97.9,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206002,609,522,"GroBe silberne Menage. Vierseitiges Gestell mit Korb oben.Darin zwei Flaschen, SenfgefaB, Salzstreuer, Zuckerschale aus rotem Glas. Anfang 19. Jahrh.",1270,68.5,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206002,609,522,"GroBe silberne Menage. Vierseitiges Gestell mit Korb oben.Darin zwei Flaschen, SenfgefaB, Salzstreuer, Zuckerschale aus rotem Glas. Anfang 19. Jahrh.",1270,68.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
 BO0624_88415,206003,610,523,"Silberner Spritzfakon, mit Eichenlaub belegt. 18.—19. Jahrh. H. 18 cm. Gew. 210 g.",1272,97.3,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206004,611,524,"Desgleichen, mit Bluitenzweigen belegt. H.17 cm. Gew. 200 g.",1273,96.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206005,612,525,Silberne Dose mit Uhr und Teilvergoldung. Rokoko.,1274,95.9,False,positional,,,SCATOLE,,
 BO0624_88415,206006,613,526,"Grunes Schlangenhaut-Necessaire mit silberner Montierung und Inhalt. Franzosisch, Ende 18.Jahrh.",1275,89.8,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206007,614,527,"Goldene Taschenuhr mit Schlagwerk. Blaues Emailzifferblatt mit Glocken anschlagenden Relieffiguren,in vierfarbigem Gold. Um 1800.",1277,98.4,False,positional,,,OGGETTI IN ORO,,
-BO0624_88415,206008,615,9,"528-29. Ein Paar silberne Leuchter. Achteckige FuBplatte, schlanker Schaft. Um 1800. Berliner Beschau.H.22 cm. Gew.425 g. Abb Tafel 13",1278,99.2,False,positional,,Scuola di Berlino,LAMPADE,,
-BO0624_88415,206009,616,530,"Alte Silberstatuette: Dr.Martin Luther. Auf altem Barocksockel eines Kelches;neben AbbTatel13 ihm Schwan, Wappen, Inschrifttafel. H. 29 cm. Gew. 1140 g.",1279,76.5,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206007,614,527,"Goldene Taschenuhr mit Schlagwerk. Blaues Emailzifferblatt mit Glocken anschlagenden Relieffiguren,in vierfarbigem Gold. Um 1800.",1277,98.4,False,positional,,,OGGETTI IN ORO,,Sec. XIX
+BO0624_88415,206008,615,9,"528-29. Ein Paar silberne Leuchter. Achteckige FuBplatte, schlanker Schaft. Um 1800. Berliner Beschau.H.22 cm. Gew.425 g. Abb Tafel 13",1278,99.2,False,positional,,Scuola di Berlino,LAMPADE,,Sec. XIX
+BO0624_88415,206009,616,530,"Alte Silberstatuette: Dr.Martin Luther. Auf altem Barocksockel eines Kelches;neben AbbTatel13 ihm Schwan, Wappen, Inschrifttafel. H. 29 cm. Gew. 1140 g.",1279,76.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XII
 BO0624_88415,206010,617,531,"Kleines silbernes Reiseschreibzeug in grinem Schlangenhautetui. Franzosich, Ende 18.Jahrh.",1281,97.8,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206011,618,13,532.,1282,66.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206012,619,14,"Flache runde Silberdose mit immerwahrendem Kalender. Ende 17. Jahrh. Durchm. 7,4cm.",1283,98.1,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206012,619,14,"Flache runde Silberdose mit immerwahrendem Kalender. Ende 17. Jahrh. Durchm. 7,4cm.",1283,98.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
 BO0624_88415,206013,620,15,"Silbervergoldetes Necessaire. Getrieben, mit Rocaillen und Figuren. Mit Inhalt.",1284,98.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206014,621,533,"18.Jahrh. Silbervergoldeter Anhanger. In Form eines Saulentempelchens. Mit Halbedelsteinen,",1286,95.2,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206015,622,534,Perlen usw. besetzt. 18. Jahrh.,1287,93.1,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206016,623,535,"Necessaire mit gruner Fischhaut, silberner Montierung und Inhalt. Ende 18. Jahrh.",1289,97.5,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206017,624,536,"Silberne Dose mit Uhr im vergoldeten Innern. Eingraviert: R. S. V. E.1748. Werk bezeichnet Holner.Lg.8,5 cm.",1291,98.1,False,positional,,,SCATOLE,,
+BO0624_88415,206015,622,534,Perlen usw. besetzt. 18. Jahrh.,1287,93.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206016,623,535,"Necessaire mit gruner Fischhaut, silberner Montierung und Inhalt. Ende 18. Jahrh.",1289,97.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206017,624,536,"Silberne Dose mit Uhr im vergoldeten Innern. Eingraviert: R. S. V. E.1748. Werk bezeichnet Holner.Lg.8,5 cm.",1291,98.1,False,positional,,,SCATOLE,,Sec. XVIII
 BO0624_88415,206018,625,2,537.,1292,75.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206019,626,3,Silberner Becher in Form einer Windmiihle.Graviert mit Ranke.Flugel fehlen. H.22 cm.Gew.180 g.,1293,98.9,False,positional,,,COPPE,,
 BO0624_88415,206020,627,538,"Indisches SilbergefaB. Zwiebelform, auf RingfuB.Reich graviert.Durchm.12 cm. Gew. 200 g.",1294,91.2,False,positional,,,OSTASIATISCHE KUNST,,
@@ -632,10 +632,10 @@ BO0624_88415,206023,630,541,"Runde indische Silberschale,kugelig. Getrieben mit 
 BO0624_88415,206024,631,9,542.,1299,75.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206025,632,10,"Silberner orientalischer Spritzfakon. Reich ornamentiert, mit Ranken. H. 25 cm. Gew.190 g.",1300,98.2,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206026,633,543,Kleine silberne Bowlenkelle mit Holzstil. In Form eines Schneckengehauses;vorn Figur,1301,97.6,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206027,634,12,eines trinkenden Herrn. 18. Jahrh.,1302,95.4,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206027,634,12,eines trinkenden Herrn. 18. Jahrh.,1302,95.4,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206028,635,13,544.,1303,66.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206029,636,545,"GroBe silberne Kette, Muschelform, mit Rocaillegriff. 18. Jahrh. Gew. 280 g. Silbergetriebene Reisefasche mit groBen BlumenstrauBen. 18. Jahrh. H. 15 cm. Gew.180 g.",1305,70.6,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206030,637,546,"Desgleichen, ahnlich, Weinreben am Griff. 18. Jahrh. Gew. 260 g.",1306,96.6,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206029,636,545,"GroBe silberne Kette, Muschelform, mit Rocaillegriff. 18. Jahrh. Gew. 280 g. Silbergetriebene Reisefasche mit groBen BlumenstrauBen. 18. Jahrh. H. 15 cm. Gew.180 g.",1305,70.6,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206030,637,546,"Desgleichen, ahnlich, Weinreben am Griff. 18. Jahrh. Gew. 260 g.",1306,96.6,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206031,638,547,"Silbergetriebenes DeckelgefaB. Gebuckelt, mit einem Henkel und erhohtem Boden.",1307,97.4,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206032,639,18,Jahrh. Gew.330 g. H.10 cm.,1308,93.9,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206033,640,19,"Runder orientalischer Spiegel. Ruckseite mit groben, silbergetriebenen Kiefernzweigen.",1309,98.2,False,positional,,,SPECCHI,,
@@ -646,11 +646,11 @@ BO0624_88415,206037,644,23,550.,1313,66.7,False,positional,,,OSTASIATISCHE KUNST
 BO0624_88415,206038,645,24,"Orientalisches silbernes RauchergefaB. Runde Platte, auf drei Zweigbigeln ruhendes Gefaf. Reich ornamentiert.H. 24 cm.Gew. 370 g.",1314,98.8,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206039,646,551,"Turkisches silbernes RauchergefaB. Runde Platte, zwiebelformige Leibung, durch brochener Deckel. H. 22 cm. Gew. 250 g.",1315,98.2,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206040,647,552,"Briefbeschwerer:silberner Lowe,ein Wappenschild haltend.Auf roter Marmorpiatte Lg.17,5 cm.",1316,97.8,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206041,648,553,"Ovale persische Silberdose mit Deckel. Reich graviert mit Figuren,Spriichen usw. Lg.19cm.Gew.1000 g.",1317,98.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206042,649,554,56. Drei silberne Renaissanceloffel mit Figirchen am Stilende. 17. Jahrh. Gew. 120 g.,1318,97.5,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206041,648,553,"Ovale persische Silberdose mit Deckel. Reich graviert mit Figuren,Spriichen usw. Lg.19cm.Gew.1000 g.",1317,98.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XI
+BO0624_88415,206042,649,554,56. Drei silberne Renaissanceloffel mit Figirchen am Stilende. 17. Jahrh. Gew. 120 g.,1318,97.5,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
 BO0624_88415,206043,650,557,"59. Drei silberne Renaissanceloffel:a) mit Wappen, b) mit Heiligenfigurchen, c) mit Cherubkopfchen.16.—17.Jahrh. Gesamtgew.140 g.",1319,98.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206044,651,560,"Runde Silberdose, fach, mit Planen von Moskau,vergoldeter Bordiire und Innenflache. 18. Jahrh.Durchm. 8,5 cm.Gew. 140 g.",1320,98.3,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206045,652,561,"- Ovale russische Silberdose mit Teilvergoldung. Im Deckel und auf dem Boden Schaferpaar. 18. Jahrh. Lg. 8,5 cm. Gew. 120 g.",1322,100.0,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206044,651,560,"Runde Silberdose, fach, mit Planen von Moskau,vergoldeter Bordiire und Innenflache. 18. Jahrh.Durchm. 8,5 cm.Gew. 140 g.",1320,98.3,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206045,652,561,"- Ovale russische Silberdose mit Teilvergoldung. Im Deckel und auf dem Boden Schaferpaar. 18. Jahrh. Lg. 8,5 cm. Gew. 120 g.",1322,100.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206046,653,562,Silberne geschweifte Dose mit figirlichem Relief;auf dem Boden St. Georg.18. Jahrh. Lg. 7 cm. Gew. 70 g.,1323,98.0,False,positional,,,SCATOLE,,
 BO0624_88415,206047,654,563,"- Silberne Chateleine mit Teilvergoldung,reich ziseliert mit Putten,Bacchanten usw.in Rocaillekartuschen.Im alten,roten Lederetui mit Furstenkrone.",1325,100.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206048,655,564,- Kleines silbernes Modell eines Dreimasters. Auf den Flaggen Danziger und Ad1er wa ppen.17.—18.Jahrh.H.20 cm.,1327,100.0,False,positional,,,OSTASIATISCHE KUNST,,
@@ -659,136 +659,136 @@ BO0624_88415,206050,657,566,67. Ein Paar kleine silberne Vogelfguren auf moderne
 BO0624_88415,206051,658,18,Jahrh.H.8 cm.Gew.270 g.,1330,93.6,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206052,659,568,Stoff unterlegt.H.10 cm.,1332,92.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206053,660,569,"Alte silberne Vogelfigur mit Teilvergoldung, Emaille und Tirkisenbesatz. Auf einem Ast sitzend. H. 10 cm. Gew. 150 g.",1333,98.2,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206054,661,570,"- Silbergetriebene Reliquienkapsel als Anhanger. Reliefs: Christus vor Pilatus und in Gethsemane;innen zwei Olminiaturen von Heiligen und Reliquien. Um 1700. GroBe 5.5X7,5cm.",1335,100.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206055,662,571,74. Vier kleine Silberdoschen verschiedener Form. 18. Jahrh.Gesamtgew.100 g.,1336,97.3,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206056,663,575,Silberner Schraubtaler mit allegorischer Darstellung. Inhalt:bunte Miniaturdrucke mit verschiedenen Szenen. 18. Jahrh.,1337,98.3,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206054,661,570,"- Silbergetriebene Reliquienkapsel als Anhanger. Reliefs: Christus vor Pilatus und in Gethsemane;innen zwei Olminiaturen von Heiligen und Reliquien. Um 1700. GroBe 5.5X7,5cm.",1335,100.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206055,662,571,74. Vier kleine Silberdoschen verschiedener Form. 18. Jahrh.Gesamtgew.100 g.,1336,97.3,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206056,663,575,Silberner Schraubtaler mit allegorischer Darstellung. Inhalt:bunte Miniaturdrucke mit verschiedenen Szenen. 18. Jahrh.,1337,98.3,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206057,664,576,"- Buddhistische Gebetsmihle, silbergetrieben,mit Tirkisen besetzt.Im Innern lange Papierrolle mit Inschriften.",1339,100.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206058,665,577,"- Silbervergoldeter Becher mit graviertem Puttenfries. Um 1800. H. 7,5 cm. Gew. 140 g.",1341,100.0,False,positional,,,VASI,,
+BO0624_88415,206058,665,577,"- Silbervergoldeter Becher mit graviertem Puttenfries. Um 1800. H. 7,5 cm. Gew. 140 g.",1341,100.0,False,positional,,,VASI,,Sec. XIX
 BO0624_88415,206059,666,578,"- Kleiner Silberbecher mit breiter Mundung. Getrieben,mit Ritterkopfen und Ranken. H.8,5 cm.Gew.80 g.",1343,100.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206060,667,579,"- Kleiner silberner Becher,Trichterform,mit gravierten Ranken.17.—18. Jahrh.H. 9 cm. Gew.60 g.",1345,100.0,False,positional,,,VASI,,
 BO0624_88415,206061,668,581,"581. Silbernes Schalchen, kahnformig, glatt. Lg.14,5 cm. Gew.105 g.",1347,100.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206062,669,582,"- 583-84. Zwei ovale, silbergetriebene Schalchen mit Rankenmotiven. 18. Jahrh. Gew. 130 g.",1350,100.0,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206063,670,585,"86. Zwei desgleichen, ahnlich. 18. Jahrh. Gew. 160 g.",1352,95.8,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206062,669,582,"- 583-84. Zwei ovale, silbergetriebene Schalchen mit Rankenmotiven. 18. Jahrh. Gew. 130 g.",1350,100.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206063,670,585,"86. Zwei desgleichen, ahnlich. 18. Jahrh. Gew. 160 g.",1352,95.8,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206064,671,587,"88. Zwei ovale, silbergetriebene Schalchen mit Rankenmotiven. Breslauer Beschau.",1353,97.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206065,672,589,"91. Drei desgleichen, ahnlich. 18. Jahrh. Gew. 210 g",1354,95.8,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206065,672,589,"91. Drei desgleichen, ahnlich. 18. Jahrh. Gew. 210 g",1354,95.8,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206066,673,18,Jahrh. Gew. 180 g.,1355,90.9,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206067,674,592,Silberne Zuckerdose. Gebuckelte Form. Erste Halfte 19. Jahrh. Gew. 370 g.,1356,97.1,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206067,674,592,Silberne Zuckerdose. Gebuckelte Form. Erste Halfte 19. Jahrh. Gew. 370 g.,1356,97.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
 BO0624_88415,206068,675,593,Silberner Wachsstockhalter. Runde Platte mit Bugelhenkel.,1357,96.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206069,676,594,"Runde silbervergoldete Plakette. Konigin Elisabeth. (?) Holzrahmen. Durchm. 9,5 cm.",1358,97.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206070,677,4,597-98.Desgleichen. Rickseitiggraviert Schitzenfestembleme. 1757. Oberglogau. Gew.130 g.,1359,98.8,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206071,678,5,595-96. Ein Paar silberne Loffel mit Rocaillekartuschen am Stil. 18. Jahrh. Gew. 80 g.,1360,98.8,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206072,679,599,Silbervergoldeter Renaissanceloffel mit Markenknauf und eingraviertem Wappen. 17. Jahrh. Gew. 40 g.,1361,97.9,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206073,680,7,"600-02. Drei verschiedene Silberloffel mit Heiligenfigur,Frauenherme bzw. Munze. 17. Jahr-",1362,98.8,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206074,681,603,"Kleines silbernes Besteck: Messer, Gabel, Loffel, mit Ranken. 18. Jahrh. Gew. 130 g. hundert. Gew. 150 g.",1363,87.2,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206075,682,604,Silberne Dose mit den drei Kaisern der heiligen Allianz. Um 1815. Lg. 9 cm. Gew. 120 g. Gew.100 g.,1365,92.0,False,positional,,,SCATOLE,,
-BO0624_88415,206076,683,605,"Silberne Dose in Form eines Koffers. Eingraviert N. A. Holland. Um 1800. Lg. 7,5 cm.",1367,97.5,False,positional,,,SCATOLE,,
-BO0624_88415,206077,684,606,"Desgleichen, oval, gepunzt. Eingraviert S. Ende 18. Jahrh. Lg. 6,5 cm. Gew. 70 g.",1368,97.3,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206070,677,4,597-98.Desgleichen. Rickseitiggraviert Schitzenfestembleme. 1757. Oberglogau. Gew.130 g.,1359,98.8,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206071,678,5,595-96. Ein Paar silberne Loffel mit Rocaillekartuschen am Stil. 18. Jahrh. Gew. 80 g.,1360,98.8,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206072,679,599,Silbervergoldeter Renaissanceloffel mit Markenknauf und eingraviertem Wappen. 17. Jahrh. Gew. 40 g.,1361,97.9,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
+BO0624_88415,206073,680,7,"600-02. Drei verschiedene Silberloffel mit Heiligenfigur,Frauenherme bzw. Munze. 17. Jahr-",1362,98.8,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVII
+BO0624_88415,206074,681,603,"Kleines silbernes Besteck: Messer, Gabel, Loffel, mit Ranken. 18. Jahrh. Gew. 130 g. hundert. Gew. 150 g.",1363,87.2,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206075,682,604,Silberne Dose mit den drei Kaisern der heiligen Allianz. Um 1815. Lg. 9 cm. Gew. 120 g. Gew.100 g.,1365,92.0,False,positional,,,SCATOLE,,Sec. XIX
+BO0624_88415,206076,683,605,"Silberne Dose in Form eines Koffers. Eingraviert N. A. Holland. Um 1800. Lg. 7,5 cm.",1367,97.5,False,positional,,,SCATOLE,,Sec. XIX
+BO0624_88415,206077,684,606,"Desgleichen, oval, gepunzt. Eingraviert S. Ende 18. Jahrh. Lg. 6,5 cm. Gew. 70 g.",1368,97.3,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206078,685,607,"8,5 cm. Gew. 110 g.",1369,88.9,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206079,686,15,Russische Silberdose mit Teilvergoldung. Ansichten von Schlossern. Um 1800. Lange,1370,98.1,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206080,687,16,608.Ovale Silberdose. Getriebener Deckel:Zeus und Juno. Augsburger Beschau.Um 1800.,1371,98.2,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206079,686,15,Russische Silberdose mit Teilvergoldung. Ansichten von Schlossern. Um 1800. Lange,1370,98.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
+BO0624_88415,206080,687,16,608.Ovale Silberdose. Getriebener Deckel:Zeus und Juno. Augsburger Beschau.Um 1800.,1371,98.2,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
 BO0624_88415,206081,688,17,Lg. 8 cm. Gew. 70 g.,1372,91.4,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206082,689,18,609.,1373,66.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206083,690,610,"Silbervergoldete Dose, quergerieft, mit Blattbordiren. Um 1800. Lg. 7 cm. Gew. 70 g. Silberne Dose, fach gebogen,mit Laubborduren und Querrillen.Um 1800. Lg. 8 cm. Gew.90 g.",1375,69.1,False,positional,,,SCATOLE,,
-BO0624_88415,206084,691,611,"Flache, silberne Dose, teilvergoldet. Reich ziseliert. Anfang 19. Jahrh. Lg. 8 cm. Gew.65g.",1376,97.6,False,positional,,,SCATOLE,,
+BO0624_88415,206083,690,610,"Silbervergoldete Dose, quergerieft, mit Blattbordiren. Um 1800. Lg. 7 cm. Gew. 70 g. Silberne Dose, fach gebogen,mit Laubborduren und Querrillen.Um 1800. Lg. 8 cm. Gew.90 g.",1375,69.1,False,positional,,,SCATOLE,,Sec. XIX
+BO0624_88415,206084,691,611,"Flache, silberne Dose, teilvergoldet. Reich ziseliert. Anfang 19. Jahrh. Lg. 8 cm. Gew.65g.",1376,97.6,False,positional,,,SCATOLE,,Sec. XIX
 BO0624_88415,206085,692,612,"Silberne Dose, Muschelform, mit figurlichen und Blutenreliefs. 18.Jahrh. Lg. 8,5 cm,",1377,97.5,False,positional,,,SCATOLE,,
 BO0624_88415,206086,693,614,"Silbernes Amulett, fach,viereckig. Eingraviert: Jesusmonogramm. Gr.5,5X8 cm.",1378,97.3,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206087,694,615,"Silbernes Riechdoschen,Urnenform, teilvergoldet. Schleswig.Um 1800. H.8,2 cm.",1379,97.3,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206088,695,616,Silbernes Flakon als Anhanger.Mit dichtem Rankenwerk. H.6 cm. Ovale silberne Dose.Gravierte Rocaillenborte.Teilweise vergoldet. 18. Jahrh. Marke:,1381,73.3,False,positional,,,SCATOLE,,
+BO0624_88415,206087,694,615,"Silbernes Riechdoschen,Urnenform, teilvergoldet. Schleswig.Um 1800. H.8,2 cm.",1379,97.3,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
+BO0624_88415,206088,695,616,Silbernes Flakon als Anhanger.Mit dichtem Rankenwerk. H.6 cm. Ovale silberne Dose.Gravierte Rocaillenborte.Teilweise vergoldet. 18. Jahrh. Marke:,1381,73.3,False,positional,,,SCATOLE,,Sec. XVIII
 BO0624_88415,206089,696,617,"Kurschwerter.Lg.5,4 cm.",1382,91.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206090,697,618,"Kleines rundes SilbergefaB mit einem Henkel, innen vergoldet. 18. Jahrh. Durchm. 6 cm.",1383,97.6,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206090,697,618,"Kleines rundes SilbergefaB mit einem Henkel, innen vergoldet. 18. Jahrh. Durchm. 6 cm.",1383,97.6,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206091,698,29,619-22. Vier silberne Turkenkoppchen-Halter mit Ranken. Gew.110 g.,1384,97.7,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206092,699,30,"623-24. Zwei desgleichen,ahnlich.Gew.50 g.",1385,96.4,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206093,700,625,"DoppelsalzgefaB mit zwei Kristallschalen in silbernen Standern, mit durchbrochenen Palmetten. Empirezeit. Hl. 23 cm. Silbergew.180 g.",1386,98.4,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206094,701,32,"626-27. Ein Paar Empire-SalzfaBchen aus Kristall, in silbernen Dreifufen; dazu zwei Loffelchen.Um 1800.Silbergew.90 g",1387,98.7,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206095,702,33,"628-29.Getriebener silberner Schild:Muschel- und Rocaillemotive.Inschrift:Portat in Fridland si dextrem iaculatur usw.(Chronogramm 1724.) Lg.21,und kleines Schild mit Gildezeichen der Handschuhmacher. Um 1783. Gesamtgew.180 g.",1388,99.3,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206094,701,32,"626-27. Ein Paar Empire-SalzfaBchen aus Kristall, in silbernen Dreifufen; dazu zwei Loffelchen.Um 1800.Silbergew.90 g",1387,98.7,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
+BO0624_88415,206095,702,33,"628-29.Getriebener silberner Schild:Muschel- und Rocaillemotive.Inschrift:Portat in Fridland si dextrem iaculatur usw.(Chronogramm 1724.) Lg.21,und kleines Schild mit Gildezeichen der Handschuhmacher. Um 1783. Gesamtgew.180 g.",1388,99.3,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206096,703,630,"Silberne Kuchenschaufel, reich durchbrochen,mit Bauernfigur in Rocailleranken. Jahrh.Gew.70 g.",1389,88.9,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206097,704,631,"Silberne Nadelbiichse in Form eines Fisches, mit roten Augen. Norddeutsch,18. Jahrh.",1391,97.6,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206098,705,632,"Sammlung von finf silbernen Anhangeschilden, darunter zwei in Form von Doppeladlern.18. Jahrh.Gesamtgew.195g.",1392,98.1,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206099,706,633,"Kleine silberne Vogelfigur mit langem Schwanz. Lg. 8,6 cm.",1393,96.5,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206100,707,39,"634-35. Ein Paar silberne SalzfaBchen, rund, auf drei Fifchen: graviert. Innen vergoldet. Durchm.6 cm.Gew.80 g.",1394,98.6,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206101,708,636,GroBer silberner Haarkamm mit reich durchbrochenen Rosenranken. Empirezeit.,1395,97.3,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206102,709,2,637.Goldenes Berloque mit Spielwerk. Anfang 19. Jahrh.,1396,98.1,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206103,710,638,"Silberne Dose, ZweipaBform,graviert. 18. Jahrh.Lg.7 cm.",1397,96.2,False,positional,,,SCATOLE,,
+BO0624_88415,206102,709,2,637.Goldenes Berloque mit Spielwerk. Anfang 19. Jahrh.,1396,98.1,False,positional,,,OSTASIATISCHE KUNST,,Sec. XIX
+BO0624_88415,206103,710,638,"Silberne Dose, ZweipaBform,graviert. 18. Jahrh.Lg.7 cm.",1397,96.2,False,positional,,,SCATOLE,,Sec. XVIII
 BO0624_88415,206104,711,639,"Sammlung von neun kleinen Silbergegenstanden:Ohrringe,Fingerhut, Miniatur-",1398,97.3,False,positional,,,MINIATURE,,
-BO0624_88415,206105,712,5,doschen usw.Meist 18. Jahrh.,1399,96.3,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206106,713,6,"640-41. Ein Paar kleine Silbervaschen. Turkisch, 18. Jahrh. H. 7,5 cm. Gew. 60 g.",1400,98.6,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206105,712,5,doschen usw.Meist 18. Jahrh.,1399,96.3,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
+BO0624_88415,206106,713,6,"640-41. Ein Paar kleine Silbervaschen. Turkisch, 18. Jahrh. H. 7,5 cm. Gew. 60 g.",1400,98.6,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206107,714,642,"Konvolut: Silberne kleine Vase, silberne Dose, innen vergoldeter Becher und herz-",1401,97.5,False,positional,,,SCATOLE,,
-BO0624_88415,206108,715,8,formiges Flakon. 18. Jahrh. Gesamtgew.150 g.,1402,97.6,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206108,715,8,formiges Flakon. 18. Jahrh. Gesamtgew.150 g.,1402,97.6,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206109,716,9,643-44. Zwei kleine Dosen:a) grin Email mit Blumen;b) Silber mit Emailminiatur:Amor,1403,98.8,False,positional,,,SCATOLE,,
-BO0624_88415,206110,717,10,mit Delphin. 18. Jahrh.,1404,93.0,False,positional,,,OSTASIATISCHE KUNST,,
+BO0624_88415,206110,717,10,mit Delphin. 18. Jahrh.,1404,93.0,False,positional,,,OSTASIATISCHE KUNST,,Sec. XVIII
 BO0624_88415,206111,718,645,"Alter versilberter orientalischer Spritzfakon, netzartig gebuckelt.H. 26 cm.",1405,97.3,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,206112,719,12,646-47. Ein Paar versilberte Heiligenfgurchen auf kannelierten Saulentrommeln. Ende,1406,98.2,False,positional,,,OSTASIATISCHE KUNST,,
-BO0624_88415,206113,720,648,"Reisegeschirr aus vergoldetem Silber, bestehend aus Suppenschussel mit Deckel und gefaB mit Deckel, Loffel, Tischmesser (Klinge fehlt), Gabel und Eierloffel. Samtliche Gegenstande mit zierlichem Laub-und Bandelwerk graviert.Originallederkasten. Bez.:E.A. =Elias Adam (Vgl. Rosenberg 491). Augsburger Beschau. Anfg.18. Jahrh. Gew.1050 g. Ahb.Tafel14",1420,99.4,False,positional,,,OGGETTI VARI,,
+BO0624_88415,206113,720,648,"Reisegeschirr aus vergoldetem Silber, bestehend aus Suppenschussel mit Deckel und gefaB mit Deckel, Loffel, Tischmesser (Klinge fehlt), Gabel und Eierloffel. Samtliche Gegenstande mit zierlichem Laub-und Bandelwerk graviert.Originallederkasten. Bez.:E.A. =Elias Adam (Vgl. Rosenberg 491). Augsburger Beschau. Anfg.18. Jahrh. Gew.1050 g. Ahb.Tafel14",1420,99.4,False,positional,,,OGGETTI VARI,,Sec. XI
 BO0624_88415,206114,721,2,"mit reichgegliedertem Henkel in Form einer Maske. Zwischen den Minzen ziehen sich naturalistische getriebene Blumenranken vom FuB nach dem Lippenrand. Deckel und triebenes, weiBsilbernes Allianzwappen. Im Boden Siegesmedaille des Herzogs Bernhard von Sachsen-Weimar. H. 28 cm.Durchm. am Boden 20 cm.Gew. 2840 g.",1421,99.7,False,positional,,,Dritter Tag,,
 BO0624_88415,206115,722,650,"GroBer silberner Prunkhumpen mit Teilvergoldung; reich profilierter Barockhenkel. Auf dem Deckel kauernder Lowe mit Kugel, die Wulst analog der am FuB mit naturalistischen und stilisierten Blumen und Ranken getrieben. Auf dem Korpus bildmaBige Reliefszenen:Urteil Salomos.Ligiertes Monogramm L. M.H.Vielleicht Frank-",1425,99.4,False,positional,,,Dritter Tag,,
 BO0624_88415,206116,723,651,Desgleichen von demselben Meister wie der vorige. Als Deckelbekronung Seepferd-,1430,97.5,False,positional,,,Dritter Tag,,
 BO0624_88415,206117,724,18,Jahrh.H.15cm.,1432,88.9,False,positional,,,Dritter Tag,,
 BO0624_88415,206118,725,653,"SilbergefaBter KokosnuBbecher. Tiefeingeschnurter FuB mit reichgetriebenen Rankenwulsten. Als Trager ein Neger mit Pfeil und Bogen (aus Bronze erganzt), der Korpus mit Flachreliefschnitzerei. Drei Medaillons mit Wilden. Leibung mit zierlich getrieH.37cm. Abb.Tafel14",1434,99.2,False,positional,,,Dritter Tag,,
-BO0624_88415,206119,726,654,"Sieben silberne Leuchter, zierlicher facettierter Schaft mit breiter FuBplatte und stilisierter Blumenrosette, die Tulle in Form eines Blumenkelches.Londoner Beschau. Ende 18. Jahrh. H. 32 cm. Gesamt-Silbergew. ca. 3920 g. Abb.Tafel 14",1435,99.1,False,positional,,,LAMPADE,,
+BO0624_88415,206119,726,654,"Sieben silberne Leuchter, zierlicher facettierter Schaft mit breiter FuBplatte und stilisierter Blumenrosette, die Tulle in Form eines Blumenkelches.Londoner Beschau. Ende 18. Jahrh. H. 32 cm. Gesamt-Silbergew. ca. 3920 g. Abb.Tafel 14",1435,99.1,False,positional,,,LAMPADE,,Sec. XVIII
 BO0624_88415,206120,727,655,"Vier silberne Kandelaber mit je zwei verschlungenen Kerzenarmen, dreiflammig,von gleicher Form wie die vorigen. Gleiche Beschau. Ges.-Silbergew. ca. 5780 g.",1436,98.7,False,positional,,,CANDELABRI,,
 BO0624_88415,206121,728,656,"Goldene Tabaksdose, langlich-viereckige Form mit geraden Wanden, die Flachen moireeartig gemustert. Beschaumarken",1437,98.2,False,positional,,,Dritter Tag,,
-BO0624_88415,206122,729,657,"Desgleichen von ovaler Muschelform, Korpus aus Perlmutter mit nach dem Boden zu sich verjungenden,fachgeschnittenen Pfeifen, abwechselnd mit aufgelegten, durchbrochenen Goldornamenten. Am Rand in Gold geschnittener schmaler Fries aus Laubund Bandelwerk mit staffierten Landschaften.Auf dem goldenen Deckel Medaillon: Tritonen mit Hirsch und Hunden, umrahmt von reichgegliederter Rankenkartusche. Erstes Drittel 18. Jahrh.,Durchm.4,7 cm. Abb Tafel16",1439,99.5,False,positional,,,OGGETTI IN ORO,,
+BO0624_88415,206122,729,657,"Desgleichen von ovaler Muschelform, Korpus aus Perlmutter mit nach dem Boden zu sich verjungenden,fachgeschnittenen Pfeifen, abwechselnd mit aufgelegten, durchbrochenen Goldornamenten. Am Rand in Gold geschnittener schmaler Fries aus Laubund Bandelwerk mit staffierten Landschaften.Auf dem goldenen Deckel Medaillon: Tritonen mit Hirsch und Hunden, umrahmt von reichgegliederter Rankenkartusche. Erstes Drittel 18. Jahrh.,Durchm.4,7 cm. Abb Tafel16",1439,99.5,False,positional,,,OGGETTI IN ORO,,Sec. XVIII
 BO0624_88415,206123,730,659,"Desgleichen,gerade,hohe Wandung,gleichmabig mit einem Muster aus verschlungenen Bandern und Blattrosetten gitterartig uberzogen. Beschaumarke I.D.L. und Pariser Jahreszeichen von 176566. Gr. 4,2X8,5 cm. Gew. 115 g.Abb.Tafel 16",1442,99.1,False,positional,,,Dritter Tag,,
 BO0624_88415,206124,731,660,"Agraffe von ovaler Form, silbervergoldete Fassung mit 24 Brillanten besetzt und einer Miniatur: Brustbild eines bartlosen Kavaliers in Allongeperucke und Rustung. Mitte 18.Jahrh. Abb Iafel 16",1443,98.9,False,positional,,,MINIATURE,,
-BO0624_88415,206125,732,661,"1 Desgleichen,kleiner, 12 Tafelbrillanten, ebenfalls mit Miniatur:Rundes Bildnis eines jugendlichen Kavaliers in Pericke und Rustung. 18. Jahrh. Abb.Tafel 16",1444,98.7,False,positional,,,MINIATURE,,
-BO0624_88415,206126,733,662,"Goldene Uhr, mit Steinen besetzt. Rickseite mit Emailleminiatur: Liebespaar in Landschaft mit Blumenvase. Englisch, zweite Halfte 18. Jahrh. Abb.Tafel 16",1445,98.6,False,positional,,,Dritter Tag,,
-BO0624_88415,206127,734,663,"Desgleichen, mit zahlreichen Steinen besetzt, Schutzhille mit erhabener Arbeit: Landschaft mit Architektur, staffiert von Jager und Auerhahnen. Die Uhr selbst auf der Rickseite mit reichem, durchbrochenem Dekor. Bez.: Stuarts. London 18. Jahrh. Abb.Tafel 16",1446,99.2,False,positional,,,Dritter Tag,,
-BO0624_88415,206128,735,664,"Leroy,Paris.Um 1820.",1448,90.5,False,positional,,,Dritter Tag,,
+BO0624_88415,206125,732,661,"1 Desgleichen,kleiner, 12 Tafelbrillanten, ebenfalls mit Miniatur:Rundes Bildnis eines jugendlichen Kavaliers in Pericke und Rustung. 18. Jahrh. Abb.Tafel 16",1444,98.7,False,positional,,,MINIATURE,,Sec. XVIII
+BO0624_88415,206126,733,662,"Goldene Uhr, mit Steinen besetzt. Rickseite mit Emailleminiatur: Liebespaar in Landschaft mit Blumenvase. Englisch, zweite Halfte 18. Jahrh. Abb.Tafel 16",1445,98.6,False,positional,,,Dritter Tag,,Sec. XVIII
+BO0624_88415,206127,734,663,"Desgleichen, mit zahlreichen Steinen besetzt, Schutzhille mit erhabener Arbeit: Landschaft mit Architektur, staffiert von Jager und Auerhahnen. Die Uhr selbst auf der Rickseite mit reichem, durchbrochenem Dekor. Bez.: Stuarts. London 18. Jahrh. Abb.Tafel 16",1446,99.2,False,positional,,,Dritter Tag,,Sec. XVIII
+BO0624_88415,206128,735,664,"Leroy,Paris.Um 1820.",1448,90.5,False,positional,,,Dritter Tag,,Sec. XIX
 BO0624_88415,206129,736,665,"Silberne Taufkanne, Helmform,GlockenfuB, mit profilierten Streifen. 18.Jahrh. H. 24 cm. Gew.420 g. Abb.Tafel 16",1449,98.1,False,positional,,,Dritter Tag,,
 BO0624_88415,206130,737,667,Gew.420 g.,1452,81.8,False,positional,,,Dritter Tag,,
 BO0624_88415,206131,738,668,"1 Ein Paar Ohrringe, helle Perlen in goldener Fassung.",1453,96.3,False,positional,,,Dritter Tag,,
 BO0624_88415,206132,739,669,Abb.Tafel 16,1456,100.0,False,positional,,,Dritter Tag,,
-BO0624_88415,206133,740,670,Goldener Fingerring mit Brillantenrosette. 18. Jahrh.,1459,96.2,False,positional,,,Dritter Tag,,
-BO0624_88415,206134,741,671,Desgleichen mit ovaler Rosette und hochgefaBtem Mittelstein. 18. Jahrh.,1460,97.1,False,positional,,,Dritter Tag,,
-BO0624_88415,206135,742,672,Ein gelblicher ovaler Brillant in alter Fassung. 18. Jahrh.,1461,96.6,False,positional,,,Dritter Tag,,
+BO0624_88415,206133,740,670,Goldener Fingerring mit Brillantenrosette. 18. Jahrh.,1459,96.2,False,positional,,,Dritter Tag,,Sec. XVIII
+BO0624_88415,206134,741,671,Desgleichen mit ovaler Rosette und hochgefaBtem Mittelstein. 18. Jahrh.,1460,97.1,False,positional,,,Dritter Tag,,Sec. XVIII
+BO0624_88415,206135,742,672,Ein gelblicher ovaler Brillant in alter Fassung. 18. Jahrh.,1461,96.6,False,positional,,,Dritter Tag,,Sec. XVIII
 BO0624_88415,206136,743,673,"Fingerring mit zierlichem goldenen Reif und ovaler Kamee aus karneolartigem Glas: Mannlicher Proflkopf nach rechts,umrahmt von in Silber gefaBten Rosen. Ende 18.Jahrh.Originalbehalter. Abb.Tafel 16",1462,99.0,False,positional,,,Dritter Tag,,
-BO0624_88415,206137,744,674,"Goldener Fingerring mit ovaler Miniatur:Brustbild eines Herrn in rotem Rock, umrahmt von einem Brillantkranz. Zweite Halfte 18. Jahrh. Abb.Tafel16",1463,98.6,False,positional,,,MINIATURE,,
+BO0624_88415,206137,744,674,"Goldener Fingerring mit ovaler Miniatur:Brustbild eines Herrn in rotem Rock, umrahmt von einem Brillantkranz. Zweite Halfte 18. Jahrh. Abb.Tafel16",1463,98.6,False,positional,,,MINIATURE,,Sec. XVIII
 BO0624_88415,206138,745,675,"Desgleichen mit achteckiger Platte, Haarmosaik und Initialen C. L.F.",1464,97.0,False,positional,,,Dritter Tag,,
 BO0624_88415,206139,746,5,"676.Desgleichen mit Siegelwappen,eingeschnitten in gelbgrauem Stein und Initialen.",1465,98.8,False,positional,,,Dritter Tag,,
 BO0624_88415,206140,747,677,Goldener Fingerring mit skulpierter Gemme:Casarenkopf. 18.Jahrh. Abb.Tafel16,1466,97.4,False,positional,,,Dritter Tag,,
 BO0624_88415,206141,748,7,"Zwei groBe Ohrringe in Form v. Rosetten, aus groben u.kleinen Brillanten.18. Jahrh.",1467,98.8,False,positional,,,Dritter Tag,,
 BO0624_88415,206142,749,8,678.,1468,75.0,False,positional,,,Dritter Tag,,
-BO0624_88415,206143,750,9,"Zwei desgleichen,kleiner,in Form von sternformigen Rosetten. 18. Jahrh.",1469,98.6,False,positional,,,Dritter Tag,,
+BO0624_88415,206143,750,9,"Zwei desgleichen,kleiner,in Form von sternformigen Rosetten. 18. Jahrh.",1469,98.6,False,positional,,,Dritter Tag,,Sec. XVIII
 BO0624_88415,206144,751,10,679.,1470,66.7,False,positional,,,Dritter Tag,,
-BO0624_88415,206145,752,680,"Goldener Fingerring mit ovaler Glaskamee, weiB auf dunkelbraunem Grunde:Antiker Kopf.Um 1800. In Originallederkastchen. Abb.Tafel16",1471,98.5,False,positional,,,Dritter Tag,,
+BO0624_88415,206145,752,680,"Goldener Fingerring mit ovaler Glaskamee, weiB auf dunkelbraunem Grunde:Antiker Kopf.Um 1800. In Originallederkastchen. Abb.Tafel16",1471,98.5,False,positional,,,Dritter Tag,,Sec. XIX
 BO0624_88415,206146,753,681,"Desgleichen, zierlicher Reif mit breiter, ovaler mit Brillanten besetzter Rosette.",1472,97.5,False,positional,,,Dritter Tag,,
 BO0624_88415,206147,754,682,10 glatte goldene Ringe. Gesamtgewicht 45 g.,1473,95.5,False,positional,,,Dritter Tag,,
-BO0624_88415,206148,755,683,"Drei goldene Freundschaftsringe,zierliche Reifen mit Haareinlagen, Buchstaben und Emailverzierung, 18. Jahrh., und einfache goldene Vorstecknadel.",1474,71.4,False,positional,,,Dritter Tag,,
+BO0624_88415,206148,755,683,"Drei goldene Freundschaftsringe,zierliche Reifen mit Haareinlagen, Buchstaben und Emailverzierung, 18. Jahrh., und einfache goldene Vorstecknadel.",1474,71.4,False,positional,,,Dritter Tag,,Sec. XVIII
 BO0624_88415,206149,756,684,"Zwei goldene Ringe, dinnere Reifen mit ovaler Mosaikplatte.",1476,96.6,False,positional,,,Dritter Tag,,
 BO0624_88415,206150,757,685,Perlschnur mit 60 Perlen.,1477,92.3,False,positional,,,Dritter Tag,,
 BO0624_88415,206151,758,686,Desgleichen mit 140 Perlen.,1478,92.9,False,positional,,,Dritter Tag,,
 BO0624_88415,206152,759,19,687.Desgleichen mit 140 Perlen.,1479,95.2,False,positional,,,Dritter Tag,,
 BO0624_88415,206153,760,688,Desgleichen mit 187 Perlen.,1480,92.9,False,positional,,,Dritter Tag,,
-BO0624_88415,206154,761,689,"Fingerring mit duinnem, goldenem Reif und Sternrosette aus Brillanten und Rosen. Original goldgepreBtes Lederfutteral. 18. Jahrh.",1481,98.4,False,positional,,,Dritter Tag,,
-BO0624_88415,206155,762,690,"Gebetbuch, Leipzig 1722, in altem purpurfarbigem Samteinband mit graviertem Silberbeschlag.",1482,97.8,False,positional,,,Dritter Tag,,
-BO0624_88415,206156,763,691,Berlok aus Gold mit ovalem Karneol und eingeschnittenem Siegelwappen. Erste Halfte 19. Jahrh.,1483,97.8,False,positional,,,OGGETTI IN ORO,,
+BO0624_88415,206154,761,689,"Fingerring mit duinnem, goldenem Reif und Sternrosette aus Brillanten und Rosen. Original goldgepreBtes Lederfutteral. 18. Jahrh.",1481,98.4,False,positional,,,Dritter Tag,,Sec. XVIII
+BO0624_88415,206155,762,690,"Gebetbuch, Leipzig 1722, in altem purpurfarbigem Samteinband mit graviertem Silberbeschlag.",1482,97.8,False,positional,,,Dritter Tag,,Sec. XVIII
+BO0624_88415,206156,763,691,Berlok aus Gold mit ovalem Karneol und eingeschnittenem Siegelwappen. Erste Halfte 19. Jahrh.,1483,97.8,False,positional,,,OGGETTI IN ORO,,Sec. XIX
 BO0624_88415,206157,764,692,"Desgleichen, kleiner, Petschaftform, mit Allianzwappen,in Karneol eingeschnitten.",1484,97.5,False,positional,,,Dritter Tag,,
 BO0624_88415,206158,765,693,Kleines Necessaire in geschnitztem Elfenbeinkastchen.,1485,96.3,False,positional,,,Dritter Tag,,
-BO0624_88415,206159,766,694,"Silberne Teekanne, zylindrisch, mit Holzgriff und Deckelring. Rokailleverzierung. Mitte 18. Jahrh. Gew. 645 g.",1486,98.1,False,positional,,,Dritter Tag,,
+BO0624_88415,206159,766,694,"Silberne Teekanne, zylindrisch, mit Holzgriff und Deckelring. Rokailleverzierung. Mitte 18. Jahrh. Gew. 645 g.",1486,98.1,False,positional,,,Dritter Tag,,Sec. XVIII
 BO0624_88415,206160,767,695,"Desgleichen, kleiner, ahnlich. Gew. 240 g.",1487,94.9,False,positional,,,Dritter Tag,,
 BO0624_88415,206161,768,28,696.,1488,66.7,False,positional,,,Dritter Tag,,
-BO0624_88415,206162,769,29,Vier Empireflakons aus blauem Glas in silberner Montierung. Um 1800. Dazu tiefe Kuchenschale' in gleicher Montierung. (Glaseinsatz schadhaft.),1489,98.9,False,positional,,,Dritter Tag,,
-BO0624_88415,206163,770,697,"Silbernes Becken, ovale Form, passig konturiert und gebuckelt. 18. Jahrh. GroBe 29X41 cm. Gew. 640 g.",1490,86.5,False,positional,,,Dritter Tag,,
+BO0624_88415,206162,769,29,Vier Empireflakons aus blauem Glas in silberner Montierung. Um 1800. Dazu tiefe Kuchenschale' in gleicher Montierung. (Glaseinsatz schadhaft.),1489,98.9,False,positional,,,Dritter Tag,,Sec. XIX
+BO0624_88415,206163,770,697,"Silbernes Becken, ovale Form, passig konturiert und gebuckelt. 18. Jahrh. GroBe 29X41 cm. Gew. 640 g.",1490,86.5,False,positional,,,Dritter Tag,,Sec. XVIII
 BO0624_88415,206164,771,698,"Desgleichen mit hochstehendem,leicht iberfallendem Rande und geperlter Bordire.",1492,97.5,False,positional,,,Dritter Tag,,
-BO0624_88415,206165,772,699,"Konvolut verschiedener kleiner Silbergegenstande, darunter getriebenes Salznapfchen und Trichter aus dem Anf. des 18. Jahrh. Gew.225 g. Jahrh. Gr. 26,5X39-cm. Gew. 660 g.",1493,88.4,False,positional,,,Dritter Tag,,
-BO0624_88415,206166,773,700,"Ein Dutzend silberne Loffel, bezeichnet C.F. 1810. Gew. ca.770 g.",1495,96.8,False,positional,,,Dritter Tag,,
+BO0624_88415,206165,772,699,"Konvolut verschiedener kleiner Silbergegenstande, darunter getriebenes Salznapfchen und Trichter aus dem Anf. des 18. Jahrh. Gew.225 g. Jahrh. Gr. 26,5X39-cm. Gew. 660 g.",1493,88.4,False,positional,,,Dritter Tag,,Sec. XVIII
+BO0624_88415,206166,773,700,"Ein Dutzend silberne Loffel, bezeichnet C.F. 1810. Gew. ca.770 g.",1495,96.8,False,positional,,,Dritter Tag,,Sec. XIX
 BO0624_88415,206167,774,36,701.Desgleichen ebenso.,1496,93.6,False,positional,,,Dritter Tag,,
 BO0624_88415,206168,775,37,702.,1497,66.7,False,positional,,,Dritter Tag,,
 BO0624_88415,206169,776,703,"Silberne Bowlenkelle, vergoldet, mit Holzgrif. Gew. mit Griff 120 g. Silberner Spargelheber, teilvergoldet, mit geriffelter, gebogener Schneide. Gew. 105 g.",1499,71.6,False,positional,,,Dritter Tag,,
 BO0624_88415,206170,777,704,"Zwolf Messer und zwolf Gabeln mit silbernen Griffen, getriebenes Streifen- u. Rocaille- ornament. Englisch,18. Jahrh.(Stahlschneiden und Zinken angerostet.)",1500,70.9,False,positional,,,Dritter Tag,,
 BO0624_88415,206171,778,705,Goldene Uhr mit Schlagwerk.,1502,92.9,False,positional,,,Dritter Tag,,
-BO0624_88415,206172,779,706,"Alte silberne Uhr, schones Werk um 1800, bez. Christoff Lehmann, Kopenhagen.",1503,97.3,False,positional,,,Dritter Tag,,
+BO0624_88415,206172,779,706,"Alte silberne Uhr, schones Werk um 1800, bez. Christoff Lehmann, Kopenhagen.",1503,97.3,False,positional,,,Dritter Tag,,Sec. XIX
 BO0624_88415,206173,780,707,"Desgleichen mit reichgetriebenem Schutzdeckel:Blumen und Muscheln. Bez.: Tobias, London.",1504,97.6,False,positional,,,Dritter Tag,,
-BO0624_88415,206174,781,708,"Altes Nadelkissen aus dunkelviolettem Samt, mit Silbermontierung. 18. Jahrh. Silberner Trinkbecher auf RingfuB, konisch, mit Deckel, innen vergoldet. Gew. 245 g. Desgleichen aus buntem Goldbrokat, mit getriebener Silbermontierung. 18. Jahrh.",1506,51.8,False,positional,,,COPPE,,
-BO0624_88415,206175,782,711,"Silberner Spirituskocher mit Loffel, innen vergoldet.Auf DreifuB, GefaB mit Henkel, Deckel mit plastischer Blume. 19. Jahrh. Gew. 685 g. Glauben. Mit gereimter Umschrift. Um 1700. Gew. 45 g.",1508,82.8,False,positional,,,Dritter Tag,,
+BO0624_88415,206174,781,708,"Altes Nadelkissen aus dunkelviolettem Samt, mit Silbermontierung. 18. Jahrh. Silberner Trinkbecher auf RingfuB, konisch, mit Deckel, innen vergoldet. Gew. 245 g. Desgleichen aus buntem Goldbrokat, mit getriebener Silbermontierung. 18. Jahrh.",1506,51.8,False,positional,,,COPPE,,Sec. XVIII
+BO0624_88415,206175,782,711,"Silberner Spirituskocher mit Loffel, innen vergoldet.Auf DreifuB, GefaB mit Henkel, Deckel mit plastischer Blume. 19. Jahrh. Gew. 685 g. Glauben. Mit gereimter Umschrift. Um 1700. Gew. 45 g.",1508,82.8,False,positional,,,Dritter Tag,,Sec. XIX
 BO0624_88415,206176,783,712,Goldene Schauminze: Allegorische religiose Darstellung auf die Bestandigkeit im,1510,97.5,False,positional,,,Dritter Tag,,
-BO0624_88415,206177,784,713,Goldene Medaille mit den Bildnissen Michaels von Polen u. seiner Gemahlin. 17. Jahrh.,1511,97.6,False,positional,,,Dritter Tag,,
-BO0624_88415,206178,785,714,"Dukaten mit Bildnis Augusts des Starken, 1727, und sachsischer Sophiendukaten von 1616.Gew.32g. Gew.37g.",1512,93.9,False,positional,,,Dritter Tag,,
-BO0624_88415,206179,786,715,Funfrubelstick und drei kleinere Goldminzen mit Bildnis der Zarin Elisabeth. 1755-56. Gew.28g.,1514,93.3,False,positional,,,OGGETTI IN ORO,,
-BO0624_88415,206180,787,716,"Sechs Silbermedaillen:Friedrich Wilhelm III.,Konigin Luise, Marcus Herz, Friedensmedaille von 1802,Allegorie auf die Verganglichkeit, FleiBpramienmedaille.Meist von Loos-Berlin, Anfang 19. Jahrh. (Teilweise mit Stempelglanz.) Gew. 125 g. Konvolut:Franzosischer Taler und finf kleinere Silberminzen (Frankreich, Holland, Alter doppelter Georgstaler. Gew. 65 g.",1516,78.9,False,positional,,Scuola di Berlino,Dritter Tag,,
+BO0624_88415,206177,784,713,Goldene Medaille mit den Bildnissen Michaels von Polen u. seiner Gemahlin. 17. Jahrh.,1511,97.6,False,positional,,,Dritter Tag,,Sec. XVII
+BO0624_88415,206178,785,714,"Dukaten mit Bildnis Augusts des Starken, 1727, und sachsischer Sophiendukaten von 1616.Gew.32g. Gew.37g.",1512,93.9,False,positional,,,Dritter Tag,,Sec. XVIII
+BO0624_88415,206179,786,715,Funfrubelstick und drei kleinere Goldminzen mit Bildnis der Zarin Elisabeth. 1755-56. Gew.28g.,1514,93.3,False,positional,,,OGGETTI IN ORO,,Sec. XVIII
+BO0624_88415,206180,787,716,"Sechs Silbermedaillen:Friedrich Wilhelm III.,Konigin Luise, Marcus Herz, Friedensmedaille von 1802,Allegorie auf die Verganglichkeit, FleiBpramienmedaille.Meist von Loos-Berlin, Anfang 19. Jahrh. (Teilweise mit Stempelglanz.) Gew. 125 g. Konvolut:Franzosischer Taler und finf kleinere Silberminzen (Frankreich, Holland, Alter doppelter Georgstaler. Gew. 65 g.",1516,78.9,False,positional,,Scuola di Berlino,Dritter Tag,,Sec. XIX
 BO0624_88415,206181,788,719,"Konvolut von 54 russischen, sachsischen und preuBischen Kleinminzen. Gew. 125 g.",1519,97.4,False,positional,,,Dritter Tag,,
 BO0624_88415,206182,789,18,720.,1520,66.7,False,positional,,,Dritter Tag,,
-BO0624_88415,206183,790,721,"Funf alte Zinnmedaillen mit verschiedenen Darstellungen, und zwei kleine Kupferminzen. Konvolut:Schwedischer Taler,1776, Halbtaler, Basel 1741, und drei kleine Kupferminzen (Holland, Polen, Schweden).Gew. 70 gr.",1522,73.0,False,positional,,,PIATTI,,
+BO0624_88415,206183,790,721,"Funf alte Zinnmedaillen mit verschiedenen Darstellungen, und zwei kleine Kupferminzen. Konvolut:Schwedischer Taler,1776, Halbtaler, Basel 1741, und drei kleine Kupferminzen (Holland, Polen, Schweden).Gew. 70 gr.",1522,73.0,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_88415,206184,791,722,"Konvolut alter Silbermiinzen verschiedener Herkunft und GroBe, zumeist aus dem",1523,97.5,False,positional,,,Dritter Tag,,
 BO0624_88415,206185,792,22,17.Jahrh. Gew.455 g.(Einige gehenkelt oder gelocht.),1524,97.0,False,positional,,,Dritter Tag,,
 BO0624_88415,206186,793,23,"Desgleichen, ebenso, darunter eine antike mit dem Bildnis Alexanders des Groben, eine",1525,98.2,False,positional,,,Dritter Tag,,

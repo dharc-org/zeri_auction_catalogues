@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84214,133079,1,61,",ns205,206;page402,nos1516,1517,1518)",24,95.9,False,positional,BONINGTON,,,,
+BO0624_84214,133079,1,61,",ns205,206;page402,nos1516,1517,1518)",24,95.9,False,positional,BONINGTON,,,,Sec. XVI
 BO0624_84214,133080,2,I,"l apparait, derriere un rideau de verdure, sous un grand ciel nuageux. Au premier plan, un cours d'eau au bord d'une prairie.",32,99.6,False,positional,BONINGTON,,,,
 BO0624_84214,133081,3,5,Le Moulin.,39,90.0,False,positional,BOUCHER,,,,
 BO0624_84214,133082,4,6,Le Buveur.,56,100.0,False,positional,BRAUWER,,,,

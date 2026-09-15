@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88620,633391,1,1,ANBETUNG DER HEILIGEN DREI KONIGE.,5,97.1,False,none,,,,,
-BO0624_88620,633392,2,2,MARIA MIT DEM KINDE. n einem architektonischen Rahmen des 16. Jahrhunderts.,15,84.8,False,none,,,CORNICI,,
+BO0624_88620,633392,2,2,MARIA MIT DEM KINDE. n einem architektonischen Rahmen des 16. Jahrhunderts.,15,84.8,False,none,,,CORNICI,,Sec. XVI
 BO0624_88620,633393,3,3,"MARIA MIT DEM KINDE. n Halbfigur,mit Krone, von musizierenden Engeln umgeben.",21,85.3,False,none,,,,,
 BO0624_88620,633394,4,4,BILDNIS EINES ALTEREN MANNES.,27,96.6,False,none,,,,,
 BO0624_88620,633395,5,5,STILLEBEN.,37,94.7,False,none,,,,,
@@ -81,7 +81,7 @@ BO0624_88620,633469,79,78,DIE GEISSELUNG CHRISTI.,743,93.6,False,positional,HANS
 BO0624_88620,633470,80,79,DIE ZERSTORUNG JERUSALEMS.,751,94.3,False,positional,HANS WAGNER; MARGARETHA,,,,
 BO0624_88620,633471,81,80,ANBETUNG DER HEILIGEN DREI KONIGE.,761,95.7,False,positional,HANS WAGNER; MARGARETHA,,,,
 BO0624_88620,633472,82,I,"m Grunde links die heilige Familie, Helligkeit ausstrahlend.Von rechts nahen die Konige, deren mittleren, alten, das Licht voll trifft. Links vorn die Hirten mit einem Hunde.",763,99.7,False,positional,HANS WAGNER; MARGARETHA,,,,
-BO0624_88620,633473,83,I,"TALIENISCH,UM 1700.",765,97.3,False,positional,HANS WAGNER; MARGARETHA,,,,
+BO0624_88620,633473,83,I,"TALIENISCH,UM 1700.",765,97.3,False,positional,HANS WAGNER; MARGARETHA,,,,Sec. XVIII
 BO0624_88620,633474,84,81,PORTRATMINIATUR EINES JUNGEN MANNES.,769,95.9,False,positional,HANS WAGNER; MARGARETHA,,,,
 BO0624_88620,633475,85,83,INITIALE U.,784,90.9,False,positional,HANS WAGNER; MARGARETHA,,,,
 BO0624_88620,633476,86,84,"ZWEI BLATTER MIT NOTEN UND DEN INITIALEN O UND D. n der Initiale O ein greiser Heiliger, ein Spruchband haltend,zwischen zwei Zypressen; in der Initiale D zwei heilige Manner bei einem Altar, der eine",796,86.0,False,positional,HANS WAGNER; MARGARETHA,,,,

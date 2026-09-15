@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88714,670795,1,I,HOCKER,1,85.7,False,none,,,,,
-BO0624_88714,670796,2,6,HOCKER,25,85.7,False,none,,,,,
+BO0624_88714,670795,1,I,HOCKER,1,85.7,False,none,HACKER HORST,,,,
+BO0624_88714,670796,2,6,HOCKER,25,85.7,False,none,HACKER HORST,,,,
 BO0624_88714,670797,3,8,## I.MOBEL,49,100.0,False,title_direct,,,MOBEL,,
 BO0624_88714,670798,4,18,NACHTTISCH,115,87.0,False,positional,,,MOBEL,,
 BO0624_88714,670799,5,23,ZWEI KLEINE TISCHE,157,92.3,False,positional,,,MOBEL,,
@@ -10,7 +10,7 @@ BO0624_88714,670802,8,22,## 19,179,100.0,False,positional,,Scuola di Dusseldorf,
 BO0624_88714,670803,9,18,JAHRHUNDERT.,206,88.0,False,positional,,Scuola Fiorentina,MOBEL,,
 BO0624_88714,670804,10,33,- 35,238,100.0,False,positional,,,MOBEL,,
 BO0624_88714,670805,11,39,- WASCHEKASTEN,240,100.0,False,title_direct,,,STEIN,,
-BO0624_88714,670806,12,I,"TALIEN, um 1800.",244,96.6,False,positional,,,MOBEL,,
+BO0624_88714,670806,12,I,"TALIEN, um 1800.",244,96.6,False,positional,,,MOBEL,,Sec. XIX
 BO0624_88714,670807,13,34,KLEINER WANDSPIEGEL,248,92.7,False,positional,,,MOBEL,,
 BO0624_88714,670808,14,36,DESGLEICHEN,262,88.0,False,positional,,,MOBEL,,
 BO0624_88714,670809,15,371,"DEUTSCHLAND,18.Jahrhundert.",276,100.0,False,positional,,,MOBEL,,
@@ -23,19 +23,19 @@ BO0624_88714,670815,21,51,SCHREIBTISCHSESSEL,400,92.3,False,positional,,,MOBEL,,
 BO0624_88714,670816,22,53,AUFSATZ-SCHRANK,420,90.9,False,positional,,,MOBEL,,
 BO0624_88714,670817,23,54,CASSAPANCA,426,87.0,False,positional,,,MOBEL,,
 BO0624_88714,670818,24,49,- 55 SESSEL,433,100.0,False,positional,,,MOBEL,,
-BO0624_88714,670819,25,I,"TALIEN, 16. Jahrhundert.",487,97.7,False,positional,,,MOBEL,,
+BO0624_88714,670819,25,I,"TALIEN, 16. Jahrhundert.",487,97.7,False,positional,,,MOBEL,,Sec. XVI
 BO0624_88714,670820,26,62,BAROCK-STUHL,494,88.9,False,positional,,,MOBEL,,
 BO0624_88714,670821,27,I,TALIEN.16.Jahrhundert.,508,97.7,False,positional,,,MOBEL,,
-BO0624_88714,670822,28,66,"5KOMMODE TALIEN,Ende 18. Jahrhundert.",538,83.9,False,positional,,,MOBEL,,
+BO0624_88714,670822,28,66,"5KOMMODE TALIEN,Ende 18. Jahrhundert.",538,83.9,False,positional,,,MOBEL,,Sec. XVIII
 BO0624_88714,670823,29,67,ARMLEHN-SESSEL,544,90.3,False,positional,,,MOBEL,,
 BO0624_88714,670824,30,68,ZWEI SESSEL,550,88.0,False,positional,,,MOBEL,,
 BO0624_88714,670825,31,63,- 64,559,100.0,False,positional,,,MOBEL,,
 BO0624_88714,670826,32,65,## 69 RENAISSANCE-KREDENZ,561,100.0,False,positional,,,MOBEL,,
-BO0624_88714,670827,33,I,"TALIEN, 17. Jahrhundert.",565,97.7,False,positional,,,MOBEL,,
-BO0624_88714,670828,34,76,"dunkelgruner Lak, teilweise vergoldet. Geshnitzt mit Barockornamenten. Die Ruckseite der Lehne bunt bemalt mit Landshaft und Figuren. Grauer Seidenbezug. ITALIEN, zweite Halfte 18. Jahrhundert. In Verni Martin-Tehnik. Hohe 0,93m.",625,100.0,False,positional,,,MOBEL,,
+BO0624_88714,670827,33,I,"TALIEN, 17. Jahrhundert.",565,97.7,False,positional,,,MOBEL,,Sec. XVII
+BO0624_88714,670828,34,76,"dunkelgruner Lak, teilweise vergoldet. Geshnitzt mit Barockornamenten. Die Ruckseite der Lehne bunt bemalt mit Landshaft und Figuren. Grauer Seidenbezug. ITALIEN, zweite Halfte 18. Jahrhundert. In Verni Martin-Tehnik. Hohe 0,93m.",625,100.0,False,positional,,,MOBEL,,Sec. XVIII
 BO0624_88714,670829,35,77,KLEINER TISCH,627,89.7,False,positional,,,MOBEL,,
 BO0624_88714,670830,36,78,- 79,634,100.0,False,positional,,,MOBEL,,
-BO0624_88714,670831,37,79,"a RUNDER EMPIRE-TISCH TALIEN,um 1800.",653,71.2,False,positional,,,MOBEL,,
+BO0624_88714,670831,37,79,"a RUNDER EMPIRE-TISCH TALIEN,um 1800.",653,71.2,False,positional,,,MOBEL,,Sec. XIX
 BO0624_88714,670832,38,80,SPEISEZIMMER-EINRICHTUNG,661,94.1,False,positional,,,ARREDAMENTI,,
 BO0624_88714,670833,39,36,"Teile,roter Lack mit vergoldeten Chinoiserien.",662,96.8,False,positional,,,OGGETTI LACCATI,,
 BO0624_88714,670834,40,18,Jahrhundert.,669,88.0,False,positional,,Scuola Fiorentina,MOBEL,,
@@ -64,7 +64,7 @@ BO0624_88714,670856,62,110,a TELLER,939,84.2,False,positional,,,PIATTI,,
 BO0624_88714,670857,63,III,DOSE,947,66.7,False,positional,,,SCATOLE,,
 BO0624_88714,670858,64,II2,SPULSCHALE,957,83.3,False,positional,,,PORZELLAN,,
 BO0624_88714,670859,65,II3,ZWEI TOPFE,965,83.3,False,positional,,,PORZELLAN,,
-BO0624_88714,670860,66,I,"MARI, um 1700. Hohe 27 cm.",1010,97.9,False,positional,,,PORZELLAN,,
+BO0624_88714,670860,66,I,"MARI, um 1700. Hohe 27 cm.",1010,97.9,False,positional,,,PORZELLAN,,Sec. XVIII
 BO0624_88714,670861,67,I22,GROSSE DECKELVASE,1037,89.5,False,positional,,,PORZELLAN,,
 BO0624_88714,670862,68,I23,ZWEI GROSSE VASEN,1049,89.5,False,positional,,,VASI,,
 BO0624_88714,670863,69,124,DECKELSCHALE,1055,85.7,False,positional,,,PORZELLAN,,
@@ -74,13 +74,13 @@ BO0624_88714,670866,72,128,SCHALE,1087,75.0,False,positional,,,OGGETTI VARI,,
 BO0624_88714,670867,73,129,"ZWEI HOHE VASEN vieredig, mit runden, stark eingezogenen Halsen. Bemalt in Eisenrot, Grun und Grau mit Drachen und Blumendekor auf gelbem Fond. CHINA, 19.Jahrhundert. Hohe 40 cm.",1094,98.8,False,positional,,,VASI,,
 BO0624_88714,670868,74,130,"HOHE VASE balusterformig,mit stark eingezogenem Hals und dunkelblauem Fond mit Golddekor. CHINA, 19.Jahrhundert. Hohe 0,40 m.",1095,98.4,False,positional,HALS DIRK,,VASI,,
 BO0624_88714,670869,75,I31,"ZWEI GROSSE DECKELVASEN balusterformig, mit gewolbten Dedkeln. Bemalt mit blauem Fond mit weib aus= gesparten, blau gezeidneten bluhenden Kirschzweigen. CHINA,19.Jahrhundert. Hohe 46 cm.",1096,98.9,False,positional,,,PORZELLAN,,
-BO0624_88714,670870,76,132,"ZWEI GROSSE BLUMENKUBEL Gewolbte, unten etwas verjungte Form. Blau bemalt. Zwishen dichtem Ranken= werk vier Felder mit Chrysanthemen. Breite, blau grundierte Randborduren. NANKING,um 1700. Hohe 42 cm, Durchmesser 46 cm.",1097,99.1,False,positional,,,PORZELLAN,,
+BO0624_88714,670870,76,132,"ZWEI GROSSE BLUMENKUBEL Gewolbte, unten etwas verjungte Form. Blau bemalt. Zwishen dichtem Ranken= werk vier Felder mit Chrysanthemen. Breite, blau grundierte Randborduren. NANKING,um 1700. Hohe 42 cm, Durchmesser 46 cm.",1097,99.1,False,positional,,,PORZELLAN,,Sec. XVIII
 BO0624_88714,670871,77,133,"SCHALE auf Holzsockel, turkisfarbener Grund mit rosa Ornamenten. CHINA, Anfang 19.Jahrhunderts. Durchmesser 17,5 cm.",1098,98.2,False,positional,,,OGGETTI VARI,,
 BO0624_88714,670872,78,I34,- 135 STEHENDE HEILIGEN-FIGUR,1104,100.0,False,positional,,,PORZELLAN,,
-BO0624_88714,670873,79,I36,"- SITZENDE HEILIGEN-FIGUR Blanc de Chine. UM 1700. Hohe 19 cm,",1107,100.0,False,positional,,,PORZELLAN,,
+BO0624_88714,670873,79,I36,"- SITZENDE HEILIGEN-FIGUR Blanc de Chine. UM 1700. Hohe 19 cm,",1107,100.0,False,positional,,,PORZELLAN,,Sec. XVIII
 BO0624_88714,670874,80,I37,"GROSSER FAYENCE-FROSCH Offnung, auf Holzsodkel. CHINA,19. Jahrhundert. Hohe 22 cm.",1108,97.5,False,positional,,,PORZELLAN,,
 BO0624_88714,670875,81,138,"TONSCHALCHEN Glasiert, Durchmesser 7 cm.",1109,95.0,False,positional,,,PORZELLAN,,
-BO0624_88714,670876,82,139,"ZWEI FO-HUNDE aus blau glasiertem Ton, auf vieredkigem, stark profiliertem Sockel sitzend. CHINA, 18. Jahrhundert. Hohe 22 cm.",1112,100.0,False,positional,,,PORZELLAN,,
+BO0624_88714,670876,82,139,"ZWEI FO-HUNDE aus blau glasiertem Ton, auf vieredkigem, stark profiliertem Sockel sitzend. CHINA, 18. Jahrhundert. Hohe 22 cm.",1112,100.0,False,positional,,,PORZELLAN,,Sec. XVIII
 BO0624_88714,670877,83,I40,KLEINE FAYENCE-SCHALE CHINA,1115,93.1,False,positional,,,OGGETTI VARI,,
 BO0624_88714,670878,84,I4,I,1119,50.0,False,title_direct,"DIAZ,NARCISSE VIRGILIO DE LA PENA",Scuola d'Anversa,ARBEITEN IN METALL,,
 BO0624_88714,670879,85,I42,- I43,1121,100.0,False,positional,,,PORZELLAN,,
@@ -88,15 +88,15 @@ BO0624_88714,670880,86,1442,Hohe 8 cm Breite 12 cm.,1139,100.0,False,positional,
 BO0624_88714,670881,87,146,SILBERSCHALE,1151,85.7,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670882,88,I47,"- 148 DOSE Fayence, redtedkig, mit Reiterszenen in grun und shwarz bemalt. Bronzefassung.",1160,100.0,False,positional,,,SCATOLE,,
 BO0624_88714,670883,89,149,ACHT DOSEN aus verschiedenem Material. JAHRHUNDERT.,1164,82.2,False,positional,,,SCATOLE,,
-BO0624_88714,670884,90,150,EMAILDOSE mit blauen Landsdhaften. Bronzefassung. 18. JAHRHUNDERT. Breite 7 cm Tiefe 55 cm.,1166,97.7,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
+BO0624_88714,670884,90,150,EMAILDOSE mit blauen Landsdhaften. Bronzefassung. 18. JAHRHUNDERT. Breite 7 cm Tiefe 55 cm.,1166,97.7,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,Sec. XVIII
 BO0624_88714,670885,91,145,- 151 DOSEN,1168,100.0,False,positional,,,SCATOLE,,
 BO0624_88714,670886,92,152,- RIECHFLASCHE Hohe 7 cm.,1175,100.0,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
-BO0624_88714,670887,93,153,"SILBERNES FLAKON in Form eines Fisches, mit roten Glasaugen. HOLLAND, 18. Jahrhundert. Lange 7 cm.",1177,97.9,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
+BO0624_88714,670887,93,153,"SILBERNES FLAKON in Form eines Fisches, mit roten Glasaugen. HOLLAND, 18. Jahrhundert. Lange 7 cm.",1177,97.9,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,Sec. XVIII
 BO0624_88714,670888,94,154,"KRISTALLFLAKON bauhig, mit Silberdedel mit getriebenen Rokokoornamenten. ZWEI LEUCHTER",1178,88.6,False,positional,,,LAMPADE,,
 BO0624_88714,670889,95,155,"Bronze. Mit zwei Armen, behangt mit weiben und violetten Glasprismen. Elektrish montiert. Hohe 32 cm.",1183,98.0,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670890,96,156,"MESSINGLEUCHTER auf sechsedkigem,gewolbtem FuB mit aufgelegten,reliefierten Engelskopfen, stark gegliederter Scaft. FLAMISCH, 17.Jahrhundert. Hohe 25 cm.",1184,98.7,False,positional,,Scuola Fiamminga,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670891,97,157,"- ZWEI WANDLEUCHTER Goldbronze. Zwei gebogene Arme an Wandleiste in Form von zwei herab= hangenden Bandern. Elektrisch montiert. FRANKREICH,im Louis=XVI-Stil. Hohe 48 cm.",1186,100.0,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
-BO0624_88714,670892,98,158,"SILBERLEUCHTER auf einem konischen Shaft ein sitzender Triton, von dem zwei gescwungene Arme ausgehen und der auf seinem Kopf einen driten, kurzen Arm mit Rankenwerk tragt. Flacher, viereckiger Sodkel. UM 1800,",1189,100.0,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
+BO0624_88714,670892,98,158,"SILBERLEUCHTER auf einem konischen Shaft ein sitzender Triton, von dem zwei gescwungene Arme ausgehen und der auf seinem Kopf einen driten, kurzen Arm mit Rankenwerk tragt. Flacher, viereckiger Sodkel. UM 1800,",1189,100.0,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,Sec. XIX
 BO0624_88714,670893,99,159,SILBERLEUCHTER,1192,87.5,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670894,100,160,ZWEI GLASLEUCHTER,1198,89.5,False,title_direct,,,GLAS,,
 BO0624_88714,670895,101,161,ZWEI LEUCHTER,1202,86.7,False,positional,,,LAMPADE,,
@@ -107,7 +107,7 @@ BO0624_88714,670899,105,165,ZWEI SILBERLEUCHTER,1224,90.5,False,positional,,,ARB
 BO0624_88714,670900,106,166,ZWEIWANDLEUCHTER,1228,88.9,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670901,107,167,ZWEI MESSINGLEUCHTER,1236,90.9,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670902,108,168,ZWEI KUPFERVASEN,1239,88.9,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
-BO0624_88714,670903,109,169,- GROSSER BRONZEMORSER TALIEN. Jahreszahl 1614. Hohe 31 cm Durchmesser 27 cm.,1249,82.3,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
+BO0624_88714,670903,109,169,- GROSSER BRONZEMORSER TALIEN. Jahreszahl 1614. Hohe 31 cm Durchmesser 27 cm.,1249,82.3,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,Sec. XVII
 BO0624_88714,670904,110,170,BRONZEMORSER,1251,85.7,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670905,111,I,"TALIEN,17.Jahrhundert.",1265,97.7,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670906,112,173,TAFELAUFSATZ,1269,85.7,False,positional,,,PIATTI,,
@@ -116,7 +116,7 @@ BO0624_88714,670908,114,I74,- 175 HOLZBEHALTER,1288,100.0,False,title_direct,,,H
 BO0624_88714,670909,115,176,ZWEI KAMINBOCKE,1296,88.2,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670910,116,178,"ZWEI KAMINBOCKE,FEUERZANGE UND ZWEI SCHURHAKEN Eisen und Messing. Die Bodke mit hohen Messing-Obelisken,",1310,98.1,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
 BO0624_88714,670911,117,179,BOULLE=KASSETTE,1312,88.2,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
-BO0624_88714,670912,118,180,"GROSSE EMPIRE-UHR Goldbronze. Neben dem rundbogigen Uhrgehause Flote spielender Hirt mit Lyra,Tiere und Eihenstumpf. Auf dem rehteckigen Sockel antikisierendes Relief. FRANKREICH,um 1820. Hohe 6o cm Breite 50 cm. Tafel 21.",1320,99.1,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
+BO0624_88714,670912,118,180,"GROSSE EMPIRE-UHR Goldbronze. Neben dem rundbogigen Uhrgehause Flote spielender Hirt mit Lyra,Tiere und Eihenstumpf. Auf dem rehteckigen Sockel antikisierendes Relief. FRANKREICH,um 1820. Hohe 6o cm Breite 50 cm. Tafel 21.",1320,99.1,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,Sec. XIX
 BO0624_88714,670913,119,181,DESGLEICHEN,1322,84.6,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670914,120,I77,- 182 STANDUHR,1331,100.0,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670915,121,183,DESGLEICHEN,1341,84.6,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
@@ -125,9 +125,9 @@ BO0624_88714,670917,123,185,KLEINE WANDUHR UND ZWEI WANDLEUCHTER,1353,94.7,False
 BO0624_88714,670918,124,186,BRONZEFIGUR,1361,84.6,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670919,125,187,- KOPF DES VITELLIUS,1368,100.0,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670920,126,188,BRONZEPUTTO,1374,84.6,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
-BO0624_88714,670921,127,189,"BRONZEFIGUR TALIEN,Anfang 18. Jahrhundert.",1382,84.1,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
+BO0624_88714,670921,127,189,"BRONZEFIGUR TALIEN,Anfang 18. Jahrhundert.",1382,84.1,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,Sec. XVIII
 BO0624_88714,670922,128,190,"BRONZEFIGUR TALIEN,17.Jahrhundert.",1393,80.0,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
-BO0624_88714,670923,129,191,"BUCHSFIGUR Trauernde Heilige. SuDDEUTSCHLAND, 18. Jahrhundert. Eine Hand fehlt. Hohe231/2 cm,",1399,97.8,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
+BO0624_88714,670923,129,191,"BUCHSFIGUR Trauernde Heilige. SuDDEUTSCHLAND, 18. Jahrhundert. Eine Hand fehlt. Hohe231/2 cm,",1399,97.8,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,Sec. XVIII
 BO0624_88714,670924,130,192,ZWEI KLEINE HOLZFIGUREN,1400,92.0,False,title_direct,,,HOLZ,,
 BO0624_88714,670925,131,193,"B KLEINE BRONZEFIGUR Nakte Frau mit Tuh in der linken Hand. Auf viereckigem Sokel. ITALIEN, 16.Jahrhundert. Hohe 22 cm.",1402,98.3,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670926,132,194,"Stehender bartiger Mann mit rechter entbloBter Shulter. Linker Arm auf die Hufte ROMISCH, 3. Jahrhundert n. Chr. Hohe 0,57 m.",1405,100.0,False,positional,,Scuola Romana,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
@@ -179,7 +179,7 @@ BO0624_88714,670971,177,240,"auf sechseckigem Fub, graviert. ORIENTALISCH. Hohe 
 BO0624_88714,670972,178,24,"I MESSINGNAPF geshweifte Form, glatte Wandung. PERSIEN. Hohe 8 cm Durchmesser 10 cm.",1610,98.8,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670973,179,242,PERSIEN. Hohe 18 cm. FuB beshadigt.,1613,94.1,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
 BO0624_88714,670974,180,243,- KLEINES ORIENTALISCHES GEFASS,1615,100.0,False,positional,,,ARBEITEN IN METALL; HOLZ; STEIN; GLAS,,
-BO0624_88714,670975,181,244,"PARAVENT helles Pergament, bunt bemalt mit Figuren, CHINA, 18. Jahrhundert. Hohe 163 cm Breite 185 cm.",1617,98.5,False,positional,,,ARREDAMENTI,,
+BO0624_88714,670975,181,244,"PARAVENT helles Pergament, bunt bemalt mit Figuren, CHINA, 18. Jahrhundert. Hohe 163 cm Breite 185 cm.",1617,98.5,False,positional,,,ARREDAMENTI,,Sec. XVIII
 BO0624_88714,670976,182,245,"DESGLEICHEN achtteilig, shwarzes, geschnitztes Holz mit hinesiscen, bunt bemalten Porzellan= einsatzen, CHINA. Lange 130 cm Breite go cm.",1618,98.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88714,670977,183,246,KLEINER HOLZSTANDER JAPAN.,1619,92.6,False,title_direct,,,HOLZ,,
 BO0624_88714,670978,184,247,"MINIATUR-OFENSCHIRM holzgeschnitzt, durchbrochen. In der Mitte geshnittene Specksteinplatte. CHINA. Hohe 19 cm.",1621,98.1,False,positional,,,MINIATURE,,
@@ -193,7 +193,7 @@ BO0624_88714,670985,191,254,"BROKATSTREIFEN TALIEN,18. Jahrhundert. Lange 8o cm 
 BO0624_88714,670986,192,255,"mit barodkem Blutenmuster und Silberspitze, TALIEN, 17.Jahrhundert.",1645,79.2,False,positional,,,TEXTILIEN,,
 BO0624_88714,670987,193,256,MOIREEDECKE,1655,84.6,False,positional,,,TEXTILIEN,,
 BO0624_88714,670988,194,257,- 258,1678,100.0,False,positional,,,TEXTILIEN,,
-BO0624_88714,670989,195,259,"AUBUSSON-TEPPICH dunkelroter Fond mit gelber Bordure und blauen Blumen. FRANKREICH, Anfang 19. Jahrhundert. Lange 220 cm Breite 250 cm.",1679,98.5,False,positional,,,AUBUSSONS,,
+BO0624_88714,670989,195,259,"AUBUSSON-TEPPICH dunkelroter Fond mit gelber Bordure und blauen Blumen. FRANKREICH, Anfang 19. Jahrhundert. Lange 220 cm Breite 250 cm.",1679,98.5,False,positional,,,AUBUSSONS,,Sec. XIX
 BO0624_88714,670990,196,260,"DESGLEICHEN weinroter Fond mit gelben Rocaillen. In der Mitte Blumenbukett. FRANKREICH,1.Halfte I9.Jahrhundert. Lange 195 cm Breite 268cm.",1680,98.5,False,positional,,,TEXTILIEN,,
 BO0624_88714,670991,197,261,KNUPFTEPPICH,1685,85.7,False,positional,,,ORIENTALISCHE TEPPICHE,,
 BO0624_88714,670992,198,262,DESGLEICHEN,1693,84.6,False,positional,,,ORIENTALISCHE TEPPICHE,,
@@ -206,31 +206,31 @@ BO0624_88714,670998,204,270,DESGLEICHEN,1741,84.6,False,positional,,,ORIENTALISC
 BO0624_88714,670999,205,271,DESGLEIGHEN,1757,84.6,False,positional,,,ORIENTALISCHE TEPPICHE,,
 BO0624_88714,671000,206,272,DESGLEICHEN,1763,84.6,False,positional,,,ORIENTALISCHE TEPPICHE,,
 BO0624_88714,671001,207,273,## VI.GEMALDE,1770,100.0,False,title_direct,,,GEMALDE,,
-BO0624_88714,671002,208,274,"CASSATT,MARy, 1845-—1926. In der Loge. m Hintergrund die Brustungen von zwei Theaterrangen, Bezeicnet rechts unten: Mary Cassatt. O1 auf Leinwand. 78:64 cm. Tafel29.",1780,87.7,False,positional,,,GEMALDE,,
-BO0624_88714,671003,209,275,"COURBET, GUSTAVE, 1819-1877.",1782,92.6,False,positional,COURBET GUSTAVE,,GEMALDE,,
+BO0624_88714,671002,208,274,"CASSATT,MARy, 1845-—1926. In der Loge. m Hintergrund die Brustungen von zwei Theaterrangen, Bezeicnet rechts unten: Mary Cassatt. O1 auf Leinwand. 78:64 cm. Tafel29.",1780,87.7,False,positional,,,GEMALDE,,Sec. XIX
+BO0624_88714,671003,209,275,"COURBET, GUSTAVE, 1819-1877.",1782,92.6,False,positional,COURBET GUSTAVE,,GEMALDE,,Sec. XIX
 BO0624_88714,671004,210,277,"COROT, CAMILLE,17961875. Gebirgslandschaft.",1801,95.2,False,positional,"COUTURE,THOMAS",,,,
-BO0624_88714,671005,211,279,"9EICHHORST,FRANZ,geb.1885.",1821,92.6,False,positional,"DIAZ,NARCISSE VIRGILIO DE LA PENA",,,,
+BO0624_88714,671005,211,279,"9EICHHORST,FRANZ,geb.1885.",1821,92.6,False,positional,"DIAZ,NARCISSE VIRGILIO DE LA PENA",,,,Sec. XIX
 BO0624_88714,671006,212,I,n der Spinnstube.,1823,97.0,False,positional,"DIAZ,NARCISSE VIRGILIO DE LA PENA",,,,
-BO0624_88714,671007,213,I,n grunen Seidenkissen und Tuichern liegend mit zur Seite geneigtem Kopf und ausgebreiteten Armen. In der Rechten einen Rosenzweig. Bezeichnet links oben in schwarzer Farbe: Habermann 1907.,1853,99.7,False,positional,"HABERMANN,HUGO",,,,
-BO0624_88714,671008,214,283,"HENNER,JEAN JACQUES,1829-1905. m Profil nach links. Auf dem Haar eine grobe rote Shleife.",1862,78.3,False,positional,"HABERMANN,HUGO",,,,
-BO0624_88714,671009,215,284,"ISENBRANT,ADRIAEN,gest.1551.",1870,93.1,False,positional,"HABERMANN,HUGO",,,,
+BO0624_88714,671007,213,I,n grunen Seidenkissen und Tuichern liegend mit zur Seite geneigtem Kopf und ausgebreiteten Armen. In der Rechten einen Rosenzweig. Bezeichnet links oben in schwarzer Farbe: Habermann 1907.,1853,99.7,False,positional,"HABERMANN,HUGO",,,,Sec. XX
+BO0624_88714,671008,214,283,"HENNER,JEAN JACQUES,1829-1905. m Profil nach links. Auf dem Haar eine grobe rote Shleife.",1862,78.3,False,positional,"HABERMANN,HUGO",,,,Sec. XIX
+BO0624_88714,671009,215,284,"ISENBRANT,ADRIAEN,gest.1551.",1870,93.1,False,positional,"HABERMANN,HUGO",,,,Sec. XVI
 BO0624_88714,671010,216,285,"KOBELL,WILHELM VON,17661853.",1878,93.1,False,positional,"HABERMANN,HUGO",,,,
-BO0624_88714,671011,217,286,"LAMPI,JOHANN BAPTIST,175I-1830.",1886,93.8,False,positional,"HABERMANN,HUGO",,,,
-BO0624_88714,671012,218,287,"MENZEL,ADOLF,1815—1905.",1892,91.7,False,positional,"HABERMANN,HUGO",,,,
-BO0624_88714,671013,219,288,"NATTIER,JEAN MARC,1685—1766.",1896,93.1,False,positional,"HABERMANN,HUGO",,,,
-BO0624_88714,671014,220,294,"ROOS, JOHANN HEINRICH, 1631—1685. Ruinenlandschaft. In einem flahen FluBbett steht eine Viehherde, deren Hirtin rehts an Land steigt. Am jenseitigen Ufer steile Felsen, bekront von Ruinen. Ol auf Holz. 33:49 cm.",1942,99.0,False,positional,"ROBERT,HUBERT",,OGGETTI IN LEGNO,,
-BO0624_88714,671015,221,296,"WOENSAM, GEN.ANTON VON WORMS, gest.1542. Brustbild eines bartigen Mannes. Nadh halbrehts gewendet. Mit shwarzer Kappe und dunklem, Pelz verbramtem Rock. Im Hintergrund grune Hugellandschaft mit FluBlauf. Ol auf Eichenholz. 14:12,5 cm.",1947,99.1,False,positional,"ROBERT,HUBERT",,,,
+BO0624_88714,671011,217,286,"LAMPI,JOHANN BAPTIST,175I-1830.",1886,93.8,False,positional,"HABERMANN,HUGO",,,,Sec. XIX
+BO0624_88714,671012,218,287,"MENZEL,ADOLF,1815—1905.",1892,91.7,False,positional,"HABERMANN,HUGO",,,,Sec. XIX
+BO0624_88714,671013,219,288,"NATTIER,JEAN MARC,1685—1766.",1896,93.1,False,positional,"HABERMANN,HUGO",,,,Sec. XVII
+BO0624_88714,671014,220,294,"ROOS, JOHANN HEINRICH, 1631—1685. Ruinenlandschaft. In einem flahen FluBbett steht eine Viehherde, deren Hirtin rehts an Land steigt. Am jenseitigen Ufer steile Felsen, bekront von Ruinen. Ol auf Holz. 33:49 cm.",1942,99.0,False,positional,"ROBERT,HUBERT",,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88714,671015,221,296,"WOENSAM, GEN.ANTON VON WORMS, gest.1542. Brustbild eines bartigen Mannes. Nadh halbrehts gewendet. Mit shwarzer Kappe und dunklem, Pelz verbramtem Rock. Im Hintergrund grune Hugellandschaft mit FluBlauf. Ol auf Eichenholz. 14:12,5 cm.",1947,99.1,False,positional,"ROBERT,HUBERT",,,,Sec. XVI
 BO0624_88714,671016,222,297,UNBEKANNTER DEUTSCHER MEISTER DES 18.JAHRHUNDERTS. Kniebildnis einer Dame mit Ordensband.,1951,97.8,False,positional,"ROBERT,HUBERT",,,,
 BO0624_88714,671017,223,298,DESGLEICHEN.,1953,84.6,False,positional,"ROBERT,HUBERT",,,,
 BO0624_88714,671018,224,299,DESGLEICHEN. Madchenkopf. Pastell. 46:43 cm.,1959,95.2,False,positional,"ROBERT,HUBERT",,,,
 BO0624_88714,671019,225,300,DESGLEICHEN.,1960,84.6,False,positional,"ROBERT,HUBERT",,,,
 BO0624_88714,671020,226,301,DESGLEICHEN Blumenstilleben,1965,93.1,False,positional,"ROBERT,HUBERT",,OGGETTI VARI,,
-BO0624_88714,671021,227,303,"DESGLEICHEN Mit Blumen gefullte Vase auf Tishplatte. Gouahe auf Holz. 26,5:21 cm. TALIEN, 18. Jahrhundert. Kopie eines antiken Mosaikbildes.",1970,72.6,False,positional,"ROBERT,HUBERT",,OGGETTI IN LEGNO,,
+BO0624_88714,671021,227,303,"DESGLEICHEN Mit Blumen gefullte Vase auf Tishplatte. Gouahe auf Holz. 26,5:21 cm. TALIEN, 18. Jahrhundert. Kopie eines antiken Mosaikbildes.",1970,72.6,False,positional,"ROBERT,HUBERT",,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88714,671022,228,304,STEINMOSAIKBILD Zwei Masken: 15:19cm.,1976,94.6,False,title_direct,,,STEIN,,
-BO0624_88714,671023,229,305,"′DAWE,GEORGE, 17811829. GroB-Quer-Folio. An zwei Randern Brudfalten.Gerahmt, DELAUNy,NICOLAUS,1739-1792.",1982,82.1,False,positional,,,GRAPHIK,,
+BO0624_88714,671023,229,305,"′DAWE,GEORGE, 17811829. GroB-Quer-Folio. An zwei Randern Brudfalten.Gerahmt, DELAUNy,NICOLAUS,1739-1792.",1982,82.1,False,positional,,,GRAPHIK,,Sec. XVIII
 BO0624_88714,671024,230,306,"La bonne mere. Muter mit ihren Kindern im Grunen. Kupferstid, peint par Fragonard. Grob-Folio. Gerahmt,",1984,98.0,False,positional,FRAGONARD JEAN-HONORE,,GRAPHIK,,
-BO0624_88714,671025,231,307,Vier Blatter. I. J. Herring's Senr. Fox Hunting. Folge mit Szenen einer Fuhsjagd. Altkolorierte Lithographien. Publ.1856. Imp.-Quer-Folio.Gerahmt.,1986,98.6,False,positional,,,GRAPHIK,,
-BO0624_88714,671026,232,308,"MATTHIEU, JEAN 1749-1815. Grob-Folio.Um den Bildrand beschnitten. Gerahmt.",1988,97.2,False,positional,,,GRAPHIK,,
-BO0624_88714,671027,233,309,"MURPHy,JOHN 1748-1820. The Tiger.Farbige Aquatinta. Painted by Vortheote. Publ. 1790. Grof-Quer-Folio. Gerahmt.",1989,98.1,False,positional,,,GRAPHIK,,
+BO0624_88714,671025,231,307,Vier Blatter. I. J. Herring's Senr. Fox Hunting. Folge mit Szenen einer Fuhsjagd. Altkolorierte Lithographien. Publ.1856. Imp.-Quer-Folio.Gerahmt.,1986,98.6,False,positional,,,GRAPHIK,,Sec. XIX
+BO0624_88714,671026,232,308,"MATTHIEU, JEAN 1749-1815. Grob-Folio.Um den Bildrand beschnitten. Gerahmt.",1988,97.2,False,positional,,,GRAPHIK,,Sec. XVIII
+BO0624_88714,671027,233,309,"MURPHy,JOHN 1748-1820. The Tiger.Farbige Aquatinta. Painted by Vortheote. Publ. 1790. Grof-Quer-Folio. Gerahmt.",1989,98.1,False,positional,,,GRAPHIK,,Sec. XVIII
 BO0624_88714,671028,234,311,Imp.-Quer-Folio.Gerahmt.,1992,91.7,False,positional,,,GRAPHIK,,
 BO0624_88714,671029,235,312,"ALT-BERLINER ANSICHTEN. I1 Stuk. Stahlstihe von Rehbock, Ridter, Poppel, Koib u.a. mit An= sidhten vom Sdlob, dem Zeughaus, den Linden, der Marienkirde u.a. Klein-Quer-Oktav. Gerahmt.",1993,98.8,False,positional,,Scuola di Berlino,GRAPHIK,,

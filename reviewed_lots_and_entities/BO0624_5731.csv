@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_5731,633748,1,I,l est sans barbe et porte un costume ecclesiastique. La facture vigoureuse de ce tableau produit un effet saisissant. C'est evidemment l'ceuvre d’un grand artiste.,14,99.7,False,positional,VELASQUEZ,,,,
-BO0624_5731,633749,2,2,MARTYRE CHRETIENNE. 1656.,23,83.7,False,positional,ZURBARAN,,,,
+BO0624_5731,633749,2,2,MARTYRE CHRETIENNE. 1656.,23,83.7,False,positional,ZURBARAN,,,,Sec. XVII
 BO0624_5731,633750,3,3,PAN POURSUIVANT SIRINX.,35,95.7,False,positional,RIBERA,,,,
 BO0624_5731,633751,4,4,JoB.,40,75.0,False,positional,RIBERA,,,,
 BO0624_5731,633752,5,5,5.PORTRAIT D'UN MAGISTRAT.,50,100.0,False,positional,RIBERA,,,,
@@ -27,7 +27,7 @@ BO0624_5731,633772,25,26,ALLEGORIE.,248,85.7,False,positional,TIEPOLO,,,,
 BO0624_5731,633773,26,27,SUJET ALLEGORIQUE.,259,91.9,False,positional,TIEPOLO,,,,
 BO0624_5731,633774,27,28,SUJET ALLEGORIQUE.,269,91.9,False,positional,TIEPOLO,,,,
 BO0624_5731,633775,28,29,UN SAINT ANACHORETE.,277,92.7,False,positional,TIEPOLO,,,,
-BO0624_5731,633776,29,1501,?-1572.,306,61.5,False,positional,ALLORI,,,,
+BO0624_5731,633776,29,1501,?-1572.,306,61.5,False,positional,ALLORI,,,,Sec. XVI
 BO0624_5731,633777,30,32,PORTRAIT D'ELEONORE DE ToLEDE,308,95.1,False,positional,ALLORI,,,,
 BO0624_5731,633778,31,33,PORTRAIT DE L'AUTEUR.,319,93.0,False,positional,CIFRONDI oU ZIFRONDI,,,,
 BO0624_5731,633779,32,34,LA MADONE.,329,85.7,False,positional,BISSOLO,,,,
@@ -49,22 +49,22 @@ BO0624_5731,633794,47,49,"SAINT JEROME. l est a genoux priant dans une grotte; f
 BO0624_5731,633795,48,50,SAINTE CECILE.,501,89.7,False,positional,SOLIMENA,,,,
 BO0624_5731,633796,49,51,LA MADONE.,512,85.7,False,positional,BICCI,,,,
 BO0624_5731,633797,50,52,SAINT JEAN.,524,87.0,False,positional,LANINO,,,,
-BO0624_5731,633798,51,1569,1609.,535,61.5,False,positional,AMERIGHI,,,,
-BO0624_5731,633799,52,54,SAINTE VERONIQUE. 1644.,551,80.0,False,positional,PEDRINI,,,,
+BO0624_5731,633798,51,1569,1609.,535,61.5,False,positional,AMERIGHI,,,,Sec. XVII
+BO0624_5731,633799,52,54,SAINTE VERONIQUE. 1644.,551,80.0,False,positional,PEDRINI,,,,Sec. XVII
 BO0624_5731,633800,53,55,"SAINT JoSEPH. l tient a la main le baton fleuri; demi-figure. Toile, haut. 86 cent., larg.70 cent.",566,92.9,False,positional,STROZZI,,,,
 BO0624_5731,633801,54,56,DEVANT DE COFFRE.,574,91.4,False,positional,PINTURICCHIO,,BAULI,,
 BO0624_5731,633802,55,57,LA MADONE ET L'ENFANT.,591,93.3,False,positional,BELLINI,,,,
-BO0624_5731,633803,56,I,OANNESBELLINVS F. 1480,597,97.7,False,title_direct,BELLINI,,,,
+BO0624_5731,633803,56,I,OANNESBELLINVS F. 1480,597,97.7,False,title_direct,BELLINI,,,,Sec. XV
 BO0624_5731,633804,57,59,MADONE.,602,80.0,False,positional,,Ecole Lombarde,,,
 BO0624_5731,633805,58,60,SAINT SEBASTIEN.,612,90.9,False,title_direct,AST,,,,
 BO0624_5731,633806,59,61,DEVANT DE COFFRE.,624,91.4,False,positional,SIGNORELLI,,BAULI,,
 BO0624_5731,633807,60,62,MADONE.,641,80.0,False,positional,MORANDO,,,,
 BO0624_5731,633808,61,63,PORTRAIT DE FEMME.,652,91.9,False,positional,LEONARDO,,,,
 BO0624_5731,633809,62,I,"l represente une jeune dame vetue de noir; sa robe decolletee a la Raphael porte des manches avec creves a l'espagnole; on voit les deux mains;la gauche tient une pomme; un riche collier en or emaille orne son cou; elle a une torsade et des bijoux dans les cheveux. Ce tableau d'un modele admirable et d'une grande puissance de clair-obscur, denote la main d'un grand maitre. M. le Marquis Ludovic Trotti possede le meme portrait signe Paul Morando.",654,99.9,False,positional,LEONARDO,,BIGIOTTERIA,,
-BO0624_5731,633810,63,1460,1535.,662,61.5,False,positional,LUINI,,,,
+BO0624_5731,633810,63,1460,1535.,662,61.5,False,positional,LUINI,,,,Sec. XVI
 BO0624_5731,633811,64,64,LA NATIVITE.,666,88.0,False,positional,LUINI,,,,
 BO0624_5731,633812,65,I,l porte la date et l'inscription suivante:,671,98.8,False,positional,LUINI,,,,
-BO0624_5731,633813,66,66,UNE TETE DE SAINTE. 1638.,688,81.8,False,positional,,Ecole Milanaise,,,
+BO0624_5731,633813,66,66,UNE TETE DE SAINTE. 1638.,688,81.8,False,positional,,Ecole Milanaise,,,Sec. XVII
 BO0624_5731,633814,67,67,"LA RECOLTE DES FRUITS, ALLEGORIE.",700,95.4,False,positional,HAARLEM,,,,
 BO0624_5731,633815,68,1639,68. VENUS ENDORMIE.,712,100.0,False,positional,KUILEMBERG,,,,
 BO0624_5731,633816,69,69,DIANE.,717,76.9,False,positional,KUILEMBERG,,,,
@@ -76,15 +76,15 @@ BO0624_5731,633821,74,75,HALTE DE CAVALIERS.,785,92.3,False,title_direct,HALS,,,
 BO0624_5731,633822,75,1658,76.INTERIEUR.,797,100.0,False,positional,HOOGE,,ARREDAMENTI,,
 BO0624_5731,633823,76,1675,77. LE MARCHAND DE POISSONS.,810,100.0,False,positional,UCHTERVELT,,,,
 BO0624_5731,633824,77,I,"l vient offrir sa peche a une noble dame, accompagnee d'une petite fille qui joue avec un chat. Ta- bleau plein de charme.",812,99.6,False,positional,UCHTERVELT,,,,
-BO0624_5731,633825,78,78,PAYSAGE ET FIGURES. 1672.,820,81.8,False,positional,HEUSCH,,,,
+BO0624_5731,633825,78,78,PAYSAGE ET FIGURES. 1672.,820,81.8,False,positional,HEUSCH,,,,Sec. XVII
 BO0624_5731,633826,79,79,L'ABREUVOIR.,831,88.0,False,positional,VELDE,,,,
 BO0624_5731,633827,80,8,O.LES DUNES DE SCHEVENINGEN.,841,98.2,False,positional,CUYP,,,,
 BO0624_5731,633828,81,82,:INTERIEUR D'UN CABARET.,856,93.6,False,positional,CUYP,,ARREDAMENTI,,
-BO0624_5731,633829,82,83,MARINE. 1678,866,60.0,False,positional,BACKHUYSEN,,,,
+BO0624_5731,633829,82,83,MARINE. 1678,866,60.0,False,positional,BACKHUYSEN,,,,Sec. XVII
 BO0624_5731,633830,83,84,LE PATURAGE.,877,88.0,False,positional,JARDIN,,,,
-BO0624_5731,633831,84,85,INTERIEUR D'UN CABARET. 1685.,887,84.6,False,positional,OSTADE,,ARREDAMENTI,,
+BO0624_5731,633831,84,85,INTERIEUR D'UN CABARET. 1685.,887,84.6,False,positional,OSTADE,,ARREDAMENTI,,Sec. XVII
 BO0624_5731,633832,85,86,UNE SERENADE.,897,88.9,False,positional,OSTADE,,,,
-BO0624_5731,633833,86,87,UNE ECHOPPE. 1615.,902,73.3,False,positional,OSTADE,,,,
+BO0624_5731,633833,86,87,UNE ECHOPPE. 1615.,902,73.3,False,positional,OSTADE,,,,Sec. XVII
 BO0624_5731,633834,87,88,88.LA VIE JOYEUSE.ALLEGORIE.,914,100.0,False,positional,VENNE,,,,
 BO0624_5731,633835,88,89,## 89.LA ToILETTE DU CHEVALIER.,925,100.0,False,positional,VENNE,,OGGETTI VARI,,
 BO0624_5731,633836,89,90,MUSICIENS AMBULANTS.,933,92.7,False,positional,VENNE,,,,
@@ -110,18 +110,18 @@ BO0624_5731,633855,108,108,UN CONCERT.,1103,83.3,False,positional,SCHALKEN,,,,
 BO0624_5731,633856,109,109,MARINE.,1113,75.0,False,positional,PARCELLES,,,,
 BO0624_5731,633857,110,110,MARINE.,1118,75.0,False,positional,PARCELLES,,,,
 BO0624_5731,633858,111,III,PORTRAIT.,1128,80.0,False,positional,NETSCHER,,,,
-BO0624_5731,633859,112,1577,1640.,1163,61.5,False,positional,RUBENS,,,,
+BO0624_5731,633859,112,1577,1640.,1163,61.5,False,positional,RUBENS,,,,Sec. XVII
 BO0624_5731,633860,113,1,I4. CHIENS LEVRIERS.,1165,97.3,False,positional,RUBENS,,,,
 BO0624_5731,633861,114,116,FLEURS.,1172,75.0,False,positional,RUBENS,,,,
 BO0624_5731,633862,115,115,MARINE.,1184,75.0,False,positional,BACKHUYSEN,,,,
 BO0624_5731,633863,116,119,PAYSAGE.,1195,77.8,False,positional,MONNOYER,,,,
-BO0624_5731,633864,117,1647,1721.,1207,61.5,False,positional,NEVEU,,,,
+BO0624_5731,633864,117,1647,1721.,1207,61.5,False,positional,NEVEU,,,,Sec. XVIII
 BO0624_5731,633865,118,117,LA DANSE.,1209,80.0,False,positional,NEVEU,,,,
 BO0624_5731,633866,119,118,LE COUCHER DU SOLEIL.,1219,90.9,False,title_direct,BOUCHER,,,,
 BO0624_5731,633867,120,5,## WYCK,1228,100.0,False,title_direct,WYCK,,,,
 BO0624_5731,633868,121,120,LE PERRUQUIER.,1232,86.7,False,positional,WYCK,,,,
 BO0624_5731,633869,122,121,"LES ANIMAUX A L'ABREUVOIR. ls sont accompagnes et guides par une femme montee sur un mulet. D'un autre cote on voit un ane qui excite par un petit chien qui aboie,lui lance une ruade.",1246,92.5,False,title_direct,BLES,,,,
-BO0624_5731,633870,123,122,PAYSAGE. 1733.,1254,60.9,False,positional,WYNANTZ,,,,
+BO0624_5731,633870,123,122,PAYSAGE. 1733.,1254,60.9,False,positional,WYNANTZ,,,,Sec. XVIII
 BO0624_5731,633871,124,123,LE RETOUR DE LA CHASSE.,1267,91.7,False,positional,FALENS,,,,
 BO0624_5731,633872,125,124,INTERIEUR D'UNE TABAGIE.,1279,92.0,False,positional,STEEN,,ARREDAMENTI,,
 BO0624_5731,633873,126,125,CHEVAUX AU REPOS,1287,88.9,False,positional,WOUWERMANS,,,,
@@ -136,11 +136,11 @@ BO0624_5731,633881,134,132,UNE ETABLE (esquisse),1356,90.5,False,positional,LAER
 BO0624_5731,633882,135,133,PAYSAGE.,1370,77.8,False,positional,HUYSMANS,,,,
 BO0624_5731,633883,136,134,FRUITS ES FLEURs.,1378,88.9,False,positional,,Ecole Hollandaise,,,
 BO0624_5731,633884,137,135,FRUITS.,1383,75.0,False,positional,,Ecole Hollandaise,,,
-BO0624_5731,633885,138,136,NATUREMORTE. 1673.,1393,71.0,False,positional,SOHN,,,,
+BO0624_5731,633885,138,136,NATUREMORTE. 1673.,1393,71.0,False,positional,SOHN,,,,Sec. XVII
 BO0624_5731,633886,139,137,FLEURS ET INSECTES.,1405,90.0,False,positional,SCHRIECK,,,,
-BO0624_5731,633887,140,138,INSECTES ET CHAMPIGNONS. 1619 ou 1640.,1414,73.0,False,positional,HEEM,,,,
-BO0624_5731,633888,141,139,FRUITS. 1655.,1424,57.1,False,positional,AST,,,,
-BO0624_5731,633889,142,140,FLEURS. 1655.,1438,57.1,False,positional,SEGHERS,,,,
+BO0624_5731,633887,140,138,INSECTES ET CHAMPIGNONS. 1619 ou 1640.,1414,73.0,False,positional,HEEM,,,,Sec. XVII
+BO0624_5731,633888,141,139,FRUITS. 1655.,1424,57.1,False,positional,AST,,,,Sec. XVII
+BO0624_5731,633889,142,140,FLEURS. 1655.,1438,57.1,False,positional,SEGHERS,,,,Sec. XVII
 BO0624_5731,633890,143,141,VANITAS VANITATUM.,1448,89.5,False,positional,ANDRIESSEN,,,,
 BO0624_5731,633891,144,142,INTERIEUR D'UNE CUISINE RUSTIQUE. Monogramme.,1457,95.6,False,positional,OSTADE,,ARREDAMENTI,,
 BO0624_5731,633892,145,143,INTERIEUR D'UNE CUISINE,1461,92.0,False,positional,OSTADE,,ARREDAMENTI,,
@@ -162,7 +162,7 @@ BO0624_5731,633907,160,158,INTERIEUR D'UNE CATHEDRALE a trois nefs. Signe.,1618,
 BO0624_5731,633908,161,159,PORTRAIT D'HOMME.,1626,88.9,False,positional,HALS,,,,
 BO0624_5731,633909,162,160,PAYSAGE. ## Ecole Francaise,1632,78.9,False,title_direct,,Ecole Francaise,,,
 BO0624_5731,633910,163,161,UNE KERMESSE.,1657,85.7,False,positional,DUGHET,,,,
-BO0624_5731,633911,164,162,FLEURS ET INSECTES. 1751.,1666,80.0,False,positional,MARCELLIS,,,,
+BO0624_5731,633911,164,162,FLEURS ET INSECTES. 1751.,1666,80.0,False,positional,MARCELLIS,,,,Sec. XVIII
 BO0624_5731,633912,165,163,PORTRAITS DE FAMILLE.,1680,90.9,False,positional,SCHUPPEN,Ecole Francaise,,,
 BO0624_5731,633913,166,165,PORTRAIT 164.PORTRAIT,1703,72.7,False,positional,RAGUENEAU,,,,
 BO0624_5731,633914,167,166,PORTRAIT,1716,80.0,False,positional,SUSTERMAN,,,,
@@ -175,7 +175,7 @@ BO0624_5731,633920,173,1469,172.LES PATINEURS.,1789,100.0,False,positional,MOLEN
 BO0624_5731,633921,174,173,LES PATINEURS.,1799,86.7,False,title_direct,BLES,,,,
 BO0624_5731,633922,175,174,CHEVAUX RENTRANT A L'ECURIE.,1809,93.1,False,positional,LAAR,,,,
 BO0624_5731,633923,176,175,INTERIEUR D'AUBERGE.,1816,90.5,False,positional,MOLENAAR,,ARREDAMENTI,,
-BO0624_5731,633924,177,176,PAYSAGE. 1670.,1826,60.9,False,positional,GOYEN,,,,
+BO0624_5731,633924,177,176,PAYSAGE. 1670.,1826,60.9,False,positional,GOYEN,,,,Sec. XVII
 BO0624_5731,633925,178,177,PAYSAGE.,1838,77.8,False,positional,RUYSDAEL,,,,
 BO0624_5731,633926,179,178,PAYSAGE.,1845,77.8,False,positional,COLOMBIER,,,,
 BO0624_5731,633927,180,179,MARINE.,1857,75.0,False,positional,GOYEN,,,,
@@ -185,18 +185,18 @@ BO0624_5731,633930,183,182,PAYSAGE.,1876,36.4,False,positional,DIRCH,,,,
 BO0624_5731,633931,184,183,"LA PLUIE. 子8. Bois, haut. 15 cent., larg.20 cent.",1882,75.0,False,positional,DIRCH,,OGGETTI IN LEGNO,,
 BO0624_5731,633932,185,184,LE CHEMIN DE LA VILLE.,1888,35.8,False,positional,RUYSDAEL,,,,
 BO0624_5731,633933,186,185,PAYSAGE.,1890,77.8,False,positional,RUYSDAEL,,,,
-BO0624_5731,633934,187,1596,1666.,1897,12.5,False,positional,RUYSDAEL,,,,
+BO0624_5731,633934,187,1596,1666.,1897,12.5,False,positional,RUYSDAEL,,,,Sec. XVII
 BO0624_5731,633935,188,187,EsQUISSE. UNE VUE D'AMSTERDAM.,1899,26.7,False,positional,RUYSDAEL,,,,
 BO0624_5731,633936,189,188,UNE INCENDIE PENDANT LA NUIT. MARINE.,1901,37.1,False,positional,RUYSDAEL,,,,
 BO0624_5731,633937,190,189,LE COUCHER DE SOLEIL.,1903,57.8,False,title_direct,BOUCHER,,,,
-BO0624_5731,633938,191,1485,1541.,1925,46.2,False,positional,GOYEN,,,,
+BO0624_5731,633938,191,1485,1541.,1925,46.2,False,positional,GOYEN,,,,Sec. XVI
 BO0624_5731,633939,192,193,PORTRAIT,1928,24.0,False,positional,,Ecole Hollandaise,,,
-BO0624_5731,633940,193,194,JoSEPH ET SES FRERES. 1679.,1932,37.7,False,positional,HEYDEN,,,,
+BO0624_5731,633940,193,194,JoSEPH ET SES FRERES. 1679.,1932,37.7,False,positional,HEYDEN,,,,Sec. XVII
 BO0624_5731,633941,194,195,LA JOYEUSE COMPAGNIE.,1934,32.6,False,positional,HEYDEN,,,,
 BO0624_5731,633942,195,196,196.MADELEINE.,1948,27.9,False,positional,POTTER,,,,
 BO0624_5731,633943,196,197,## 197.MADELEINE,1952,32.0,False,positional,POEL,,,,
 BO0624_5731,633944,197,198,SAINTE VERONIQUE.,1962,30.4,False,positional,POEL,,,,
-BO0624_5731,633945,198,1444,1530.,1963,28.6,False,positional,POEL,Scuola Fiorentina,,,
+BO0624_5731,633945,198,1444,1530.,1963,28.6,False,positional,POEL,Scuola Fiorentina,,,Sec. XVI
 BO0624_5731,633946,199,200,LE SONGE PROPHETIQUE DE JACOB.,1969,41.5,False,positional,VYNANTS,,,,
 BO0624_5731,633947,200,201,DIANE CHASSERESSE A LA FONTAINE.,1973,38.7,False,positional,VYNANTS,,,,
 BO0624_5731,633948,201,202,LA MADONE AU RAISIN.,1975,38.7,False,positional,VYNANTS,,,,
@@ -207,7 +207,7 @@ BO0624_5731,633952,205,206,LE CALVAIRE.,2004,53.8,False,positional,,Ecole Franca
 BO0624_5731,633953,206,207,LA TETE DU SAUVEUR NIMBEE.,2008,34.7,False,positional,CLOUET,,,,
 BO0624_5731,633954,207,208,ECCE HOMO.,2017,46.2,False,positional,,Ecole Hollandaise,,,
 BO0624_5731,633955,208,209,TETE DE VIEILLARD.,2019,29.6,False,positional,BREENBERGH,,,,
-BO0624_5731,633956,209,210,PORTRAIT DE LUTHER. 1562.,2021,41.9,False,positional,BREENBERGH,,,,
+BO0624_5731,633956,209,210,PORTRAIT DE LUTHER. 1562.,2021,41.9,False,positional,BREENBERGH,,,,Sec. XVI
 BO0624_5731,633957,210,211,HERCULE. l abat de sa massue les tetes de Ihydre de Lerne; fond de paysage a gauche.,2025,35.2,False,positional,BREENBERGH,,,,
 BO0624_5731,633958,211,212,SAINT JEROME,2029,47.1,False,positional,STEEN,,,,
 BO0624_5731,633959,212,213,LE JOYEUX FESTIN.,2031,30.0,False,positional,STEEN,,,,
@@ -225,7 +225,7 @@ BO0624_5731,633970,223,225,LA CENE.,2069,37.0,False,positional,DURER,,,,
 BO0624_5731,633971,224,226,LE GUE.,2073,22.2,False,positional,DURER,,,,
 BO0624_5731,633972,225,227,LE FUMEUR. PAYSAGE.,2080,45.2,False,positional,,Ecole Flamande,,,
 BO0624_5731,633973,226,228,PAYSAGE.,2082,30.8,False,positional,METSYS,,,,
-BO0624_5731,633974,227,1593,1647.,2086,30.8,False,positional,METSYS,,,,
+BO0624_5731,633974,227,1593,1647.,2086,30.8,False,positional,METSYS,,,,Sec. XVII
 BO0624_5731,633975,228,230,SCENE DE BRIGANDAGE.,2095,47.1,False,positional,,Ecole Allemande,,,
 BO0624_5731,633976,229,231,"UN JARDIN, GENRE LE NOTRE. FAUST.",2101,43.1,False,title_direct,JARDIN,,,,
 BO0624_5731,633977,230,232,BREBIS AU REPOS.,2105,36.7,False,positional,CRANACH,,,,
@@ -235,7 +235,7 @@ BO0624_5731,633980,233,237,PAYSAGE.,2122,28.6,False,positional,,Ecole Flamande,,
 BO0624_5731,633981,234,238,PAYSAGE.,2126,28.6,False,positional,MEMLINC,,,,
 BO0624_5731,633982,235,239,PAYSAGE.,2133,25.0,False,positional,,Ecole Hollandaise,,,
 BO0624_5731,633983,236,240,PAYSAGE D'HIVER.,2135,29.6,False,positional,ENGHELBRECHT,,,,
-BO0624_5731,633984,237,1576,1639.,2139,31.6,False,positional,ENGHELBRECHT,,,,
+BO0624_5731,633984,237,1576,1639.,2139,31.6,False,positional,ENGHELBRECHT,,,,Sec. XVII
 BO0624_5731,633985,238,24,I. TENTATIONS DE SAINT ANTOINE.,2145,40.7,False,positional,ENGHELBRECHT,,,,
 BO0624_5731,633986,239,242,LE REPOS EN EGYPTE.,2147,36.4,False,positional,,Ecole Allemande,,,
 BO0624_5731,633987,240,243,L'ADORATION DES MAGES.,2153,75.0,False,positional,WAGNER,,,,
@@ -243,9 +243,9 @@ BO0624_5731,633988,241,244,LE MARCHE.,2162,50.0,False,positional,,Ancienne Ecole
 BO0624_5731,633989,242,245,PAYSAGE.,2193,28.6,False,positional,CRANACH,,,,
 BO0624_5731,633990,243,1650,246.LE FESTIN DE BALTHAZAR.,2197,50.0,False,positional,CRANACH,,,,
 BO0624_5731,633991,244,248,PAYSAGE.,2205,35.3,False,positional,ALDEGREVER,,,,
-BO0624_5731,633992,245,1564,1638.,2209,30.8,False,positional,ALDEGREVER,,,,
+BO0624_5731,633992,245,1564,1638.,2209,30.8,False,positional,ALDEGREVER,,,,Sec. XVII
 BO0624_5731,633993,246,247,SAINTE MADELEINE AU DESERT.,2215,39.3,False,positional,ALDEGREVER,,,,
-BO0624_5731,633994,247,1600,1660.,2228,22.2,False,positional,ROTHENHAMER,,,,
+BO0624_5731,633994,247,1600,1660.,2228,22.2,False,positional,ROTHENHAMER,,,,Sec. XVII
 BO0624_5731,633995,248,249,PAYSAGE.,2240,48.3,False,positional,RUTHARD,,,,
 BO0624_5731,633996,249,25,O.LE CARNAVAL D'ANVERS.,2253,43.5,False,positional,ROTHENHAMER ET PAUL BRILL,,,,
 BO0624_5731,633997,250,251,LE PECHE ORIGINEL.,2259,38.7,False,positional,,Ecole Flamande,,,
@@ -255,7 +255,7 @@ BO0624_5731,634000,253,254,"LE MARCHAND D'HUiTRES. l est en train d'ouvrir des m
 BO0624_5731,634001,254,255,UNE FETE VILLAGEOISE.,2303,40.0,False,positional,QUERFURT,,,,
 BO0624_5731,634002,255,256,PAYSAGE ET FIGURES.,2310,90.0,False,positional,SAVERY,,,,
 BO0624_5731,634003,256,I,"l rappelle la maniere de Rubens par ses tons verts; on distingue a droite un clocher de village; a gauche, une colline; le fond se perd dans la brume, les figures sont peintes par Teniers.",2312,47.7,False,positional,SAVERY,Scuola di Rubens,,,
-BO0624_5731,634004,257,1550,1604.,2314,5.9,False,positional,SAVERY,,,,
+BO0624_5731,634004,257,1550,1604.,2314,5.9,False,positional,SAVERY,,,,Sec. XVII
 BO0624_5731,634005,258,257,MOTIF D'ARCHITECTURE.,2316,30.8,False,positional,MANDER,,,,
 BO0624_5731,634006,259,258,UNE ORGIE.,2318,13.8,False,positional,MANDER,,,,
 BO0624_5731,634007,260,259,UNE RIXE.,2320,50.0,False,positional,MANDER,,,,
@@ -546,7 +546,7 @@ BO0624_5731,634291,544,491,"QuATRE BOUTEILLEs avec belle Opalisation, de formes 
 BO0624_5731,634292,545,492,QuATRE BOUTEILLEs de formes variees avec long col. Verres romains.,3707,97.0,False,positional,,,VERRES GRECS ET ROMAINS,,
 BO0624_5731,634293,546,493,SEPT PETITS LACRYMATOIREs avec jolie Opalisation.,3708,96.0,False,positional,,,VERRES GRECS ET ROMAINS,,
 BO0624_5731,634294,547,494,LAcRYMAToIRE en verre grec de couleur opaque.,3709,95.7,False,positional,,,VERRES GRECS ET ROMAINS,,
-BO0624_5731,634295,548,495,"VERREs ET cRIsTAUx des XVme, XVIme et XVIIme siecles.",3710,96.2,False,positional,,,VERRES GRECS ET ROMAINS,,
+BO0624_5731,634295,548,495,"VERREs ET cRIsTAUx des XVme, XVIme et XVIIme siecles.",3710,96.2,False,positional,,,VERRES GRECS ET ROMAINS,,Sec. XVII
 BO0624_5731,634296,549,496,"GRAND PLATEAU de forme ovale, orne de filets bleu.",3711,96.0,False,positional,,,VERRES GRECS ET ROMAINS,,
 BO0624_5731,634297,550,497,"PLATEau en verre bossele, avec pied. VENISE.",3715,86.1,False,positional,,,VERRES GRECS ET ROMAINS,,
 BO0624_5731,634298,551,498,PLaTEAu en couleur verte avec son pied.,3717,95.0,False,positional,,,VERRES GRECS ET ROMAINS,,
@@ -580,10 +580,10 @@ BO0624_5731,634325,578,524,"BouTEILLE, cassee, en verre craquelé.",3784,94.4,Fa
 BO0624_5731,634326,579,525,Lor de sept pieces variees en verre de Venise.,3785,95.7,False,positional,,,VERRES GRECS ET ROMAINS,,
 BO0624_5731,634327,580,526,HuILIER et petit panier en verre espagnol.,3786,95.3,False,positional,,,VERRES GRECS ET ROMAINS,,
 BO0624_5731,634328,581,527,GoBELET avec deux anges debout soutenant une armoirie en email de couleur sur verre blanc et inscription allemande avec la date 16g5. Verre allemand.,3788,81.7,False,positional,,,VERRES GRECS ET ROMAINS,,
-BO0624_5731,634329,582,528,"GoBELET avec armoiries soutenues par deux lions, bouquet de feurs et inscription: Anno Domini 1641.Verre allemand.",3789,98.2,False,positional,,,VERRES GRECS ET ROMAINS,,
+BO0624_5731,634329,582,528,"GoBELET avec armoiries soutenues par deux lions, bouquet de feurs et inscription: Anno Domini 1641.Verre allemand.",3789,98.2,False,positional,,,VERRES GRECS ET ROMAINS,,Sec. XVII
 BO0624_5731,634330,583,529,GoBELET monte sur trois pieds avec medaillon en émail orne de figures symboliques et inscriptions.,3790,98.0,False,positional,,,VERRES GRECS ET ROMAINS,,
 BO0624_5731,634331,584,2,53o. BouTEILLE en verre bleu avec lion heraldique et feurs emaillees en couleur avec inscription,3791,99.0,False,positional,,,VERRES GRECS ET ROMAINS,,
-BO0624_5731,634332,585,3,"allemande, et la date 1741.",3792,96.2,False,positional,,,VERRES GRECS ET ROMAINS,,
+BO0624_5731,634332,585,3,"allemande, et la date 1741.",3792,96.2,False,positional,,,VERRES GRECS ET ROMAINS,,Sec. XVIII
 BO0624_5731,634333,586,531,VERRE A cALIcE avec armoiries emaillees.,3793,95.1,False,positional,,,VERRES GRECS ET ROMAINS,,
 BO0624_5731,634334,587,532,"TREs-JoLI VAsE en cristal de Boheme finement grave. Sur le devant Venus debout sur un globe et entouree de quatre petits amours. Encadrement dans le style Louis XV, orne de feuilles et fruits. Derriere, inscription allemande. Sur le pied armoiries et monogramme couronnes.",3794,99.3,False,positional,,Periodo di Luigi XV,VASI,,
 BO0624_5731,634335,588,533,TREs-BEAU GOBELET sur piedouche en cristal finement grave avec figures representant des sujets mythologiques. Inscription allemande et ornements varies.,3795,98.7,False,positional,,,OGGETTI VARI,,
@@ -600,7 +600,7 @@ BO0624_5731,634345,598,2,et se terminant par des tetes de serpents.,3815,97.6,Fa
 BO0624_5731,634346,599,3,"Bronze Romain, tres belle patine verte.",3816,97.4,False,positional,,,BRONZES,,
 BO0624_5731,634347,600,543,"PeTIT vAsE en forme de gourde, avec couvercle et deux petites anses. Il est finement grave et represente d'un cote, Minerve debout et Mersur son baton; derriere lui, un taureau courant cure assis; et de lautre, un patre debout appuye a gauche.",3819,85.6,False,positional,,,VASI,,
 BO0624_5731,634348,601,544,CHENET en bronze representant un faune assis. Tres-beau travail Francais. Epoque Louis XV.,3824,97.8,False,positional,,Periodo di Luigi XV,BRONZES,,
-BO0624_5731,634349,602,545,ENcRIEr pose sur trois pieds en forme de sphinx et couvercle surmonte d'un aigle. XVIme siecle.,3826,72.1,False,positional,,,BRONZES,,
+BO0624_5731,634349,602,545,ENcRIEr pose sur trois pieds en forme de sphinx et couvercle surmonte d'un aigle. XVIme siecle.,3826,72.1,False,positional,,,BRONZES,,Sec. XVI
 BO0624_5731,634350,603,546,UN NID d'amours. Tres-jolie composition. Bronze moderne.,3827,96.4,False,positional,,,BRONZES,,
 BO0624_5731,634351,604,547,"DeUx GRANDs ET BEAUx VAsEs a panse spherique. Large col et embouchure tres évasee, ornes de deux anses formees par deux dragons ailes.",3829,79.5,False,positional,,,VASI,,
 BO0624_5731,634352,605,548,GRoupE representant une figure japonaise a longue barbe assise sur un buffle.,3835,68.9,False,positional,,,BRONZES,,
@@ -610,11 +610,11 @@ BO0624_5731,634355,608,551,"MorTIEr a deux anses formees par deux dau- phins et 
 BO0624_5731,634356,609,552,"GRANDE ET BELLE FIGURE de Dame JapOnaise, assise sur un monstre fantastique. Superbe travail Japonais.",3851,83.6,False,positional,,,BRONZES,,
 BO0624_5731,634357,610,553,BRULE-PARFuMs forme par un elephant portant une tour.,3856,86.9,False,positional,,,BRONZES,,
 BO0624_5731,634358,611,554,"TREs-JOLI BUsTE de jeune homme, grandeur naturelle, la tete penchee et souriante.",3864,66.1,False,positional,,,BRONZES,,
-BO0624_5731,634359,612,555,CLocHETTE ornee de bas-reliefs. Tres-joli travail Italien. XVIme siecle.,3869,71.6,False,positional,,,BASSORILIEVI,,
-BO0624_5731,634360,613,556,CLocHETrE ornee de tres-jolis bas-reliefs et surmontee d'une statuette de Mercure. Tres-joli travail Italien. XVIme siecle.,3870,98.4,False,positional,,,BASSORILIEVI,,
-BO0624_5731,634361,614,557,"PARTIE D'UNE LAMPE, bas-relief ajouré. Figures et ornements varies. XVIme siecle.",3871,70.4,False,positional,,,BASSORILIEVI,,
+BO0624_5731,634359,612,555,CLocHETTE ornee de bas-reliefs. Tres-joli travail Italien. XVIme siecle.,3869,71.6,False,positional,,,BASSORILIEVI,,Sec. XVI
+BO0624_5731,634360,613,556,CLocHETrE ornee de tres-jolis bas-reliefs et surmontee d'une statuette de Mercure. Tres-joli travail Italien. XVIme siecle.,3870,98.4,False,positional,,,BASSORILIEVI,,Sec. XVI
+BO0624_5731,634361,614,557,"PARTIE D'UNE LAMPE, bas-relief ajouré. Figures et ornements varies. XVIme siecle.",3871,70.4,False,positional,,,BASSORILIEVI,,Sec. XVI
 BO0624_5731,634362,615,558,"PLAQuE avec bas-relief, representant la flagellation.",3873,96.2,False,positional,,,BASSORILIEVI,,
-BO0624_5731,634363,616,4,"55g. BAisER DE PAIx en forme de petit temple, et au centre, la descente au tombeau. Tres-joli bas-relief du XVIme siecle.",3874,99.1,False,positional,,,BASSORILIEVI,,
+BO0624_5731,634363,616,4,"55g. BAisER DE PAIx en forme de petit temple, et au centre, la descente au tombeau. Tres-joli bas-relief du XVIme siecle.",3874,99.1,False,positional,,,BASSORILIEVI,,Sec. XVI
 BO0624_5731,634364,617,5,56o. PETITE PLAQUETTE de forme ovale representant un buste de femme.,3875,98.5,False,positional,,,BRONZES,,
 BO0624_5731,634365,618,561,"GRANDE ET BELLE PLAQUE en bronze, avec figu- res en haut relief, representant Silene en état d'ivresse soutenu par deux Satyres sous un arc forme par des vignes chargees de raisin.",3880,86.2,False,positional,,,BRONZES,,
 BO0624_5731,634366,619,562,PLAQUE en metal repousse. Le sacrifice de Abraham.,3884,87.0,False,positional,,,OGGETTI IN METALLO,,

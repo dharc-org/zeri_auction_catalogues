@@ -1,38 +1,38 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87847,400690,1,1,Inneres einer Schenke.,5,95.5,False,positional,CORNELIUS BEGA,,,,
 BO0624_87847,400691,2,2,"Portratgruppe von sieben Heiligen in ganzer Figur mit ihren Attributen und Inschriften: S. Mechtildis, S. Hildegardis, S. Walburga, S. Gertrudis, S. Elisabeth,",13,99.3,False,positional,JEAN BELLEGAMBE,,,,
-BO0624_87847,400692,3,3,Aehnliche Darstellung. Sechs Heilige. 1770,19,90.9,False,positional,JEAN BELLEGAMBE,,,,
+BO0624_87847,400692,3,3,Aehnliche Darstellung. Sechs Heilige. 1770,19,90.9,False,positional,JEAN BELLEGAMBE,,,,Sec. XVIII
 BO0624_87847,400693,4,4,Portrat einer jungen Dame. Studie.,27,97.0,False,positional,FRANCOIS BOUCHER,,,,
-BO0624_87847,400694,5,5,Portrat der Anna von Cleve. 1702.,33,88.1,False,positional,FRANCOIS BOUCHER,,,,
-BO0624_87847,400695,6,6,Inneres einer Kuiche. 1570,41,85.1,False,positional,RICHARD BRAKENBURGH,,,,
+BO0624_87847,400694,5,5,Portrat der Anna von Cleve. 1702.,33,88.1,False,positional,FRANCOIS BOUCHER,,,,Sec. XVIII
+BO0624_87847,400695,6,6,Inneres einer Kuiche. 1570,41,85.1,False,positional,RICHARD BRAKENBURGH,,,,Sec. XVI
 BO0624_87847,400696,7,7,Der Entscheidungstag.,49,95.2,False,positional,RICHARD BRAKENBURGH,,,,
-BO0624_87847,400697,8,8,Landschaft mit lebhafter Figurenstaffage. 1685,55,92.0,False,positional,RICHARD BRAKENBURGH,,,,
-BO0624_87847,400698,9,9,Kuhe in Landschaft. 1665,63,83.7,False,positional,RICHARD BRAKENBURGH,,,,
+BO0624_87847,400697,8,8,Landschaft mit lebhafter Figurenstaffage. 1685,55,92.0,False,positional,RICHARD BRAKENBURGH,,,,Sec. XVII
+BO0624_87847,400698,9,9,Kuhe in Landschaft. 1665,63,83.7,False,positional,RICHARD BRAKENBURGH,,,,Sec. XVII
 BO0624_87847,400699,10,10,Landschaft.,71,87.0,False,positional,RICHARD BRAKENBURGH,,,,
 BO0624_87847,400700,11,11,"Stillleben.Fruichte,Blumen,Insekten.",76,95.9,False,positional,J.D.DE HEEM,,,,
-BO0624_87847,400701,12,12,Landschaft mit Gutshof und Figurenstaffage. 1678,82,91.3,False,positional,J.D.DE HEEM,,,,
+BO0624_87847,400701,12,12,Landschaft mit Gutshof und Figurenstaffage. 1678,82,91.3,False,positional,J.D.DE HEEM,,,,Sec. XVII
 BO0624_87847,400702,13,13,Mannl. Portrat mit Halskrause.,90,94.9,False,positional,J.D.DE HEEM,,,,
 BO0624_87847,400703,14,14,Hirt in Landschaft.,96,92.3,False,positional,J.D.DE HEEM,,,,
 BO0624_87847,400704,15,15,Madchen mit Reisigbindel.,104,94.1,False,positional,J.D.DE HEEM,,,,
 BO0624_87847,400705,16,16,Mannl. Bildniss mit Halskrause,110,95.1,False,positional,J.D.DE HEEM,,,,
 BO0624_87847,400706,17,17,Der h. Vincenz von Paul das Volk zur Gottesverehrung ermunternd (Allegorie).,118,98.0,False,positional,J.D.DE HEEM,,,,
-BO0624_87847,400707,18,18,Im Garten. Vergnigungspark. 1687,124,86.2,False,positional,J.D.DE HEEM,,,,
+BO0624_87847,400707,18,18,Im Garten. Vergnigungspark. 1687,124,86.2,False,positional,J.D.DE HEEM,,,,Sec. XVII
 BO0624_87847,400708,19,19,Betsabe und Uria.,132,91.4,False,positional,FR.FRANK DER AELTERE,,,,
 BO0624_87847,400709,20,20,Brustbild einer jungen Dame.,138,94.7,False,positional,FR.FRANK DER AELTERE,,,,
 BO0624_87847,400710,21,21,Der Chorist.,144,88.0,False,positional,FR.FRANK DER AELTERE,,,,
 BO0624_87847,400711,22,22,Interieur.,150,85.7,False,positional,FR.FRANK DER AELTERE,,ARREDAMENTI,,
-BO0624_87847,400712,23,23,Mannliches Bildniss mit Wappen. 1815,155,88.2,False,positional,,HOLBEIN,,,
+BO0624_87847,400712,23,23,Mannliches Bildniss mit Wappen. 1815,155,88.2,False,positional,,HOLBEIN,,,Sec. XIX
 BO0624_87847,400713,24,24,Damenportrat.,163,88.9,False,positional,JOHN HOPPNER,,,,
 BO0624_87847,400714,25,25,Die Dorfkirmes.,169,90.3,False,positional,JOHN HOPPNER,,,,
 BO0624_87847,400715,26,26,Selbstbildniss.,177,90.3,False,positional,JOHN HOPPNER,,,,
 BO0624_87847,400716,27,27,Das heilige Schweisstuch.,185,94.1,False,positional,JOHN HOPPNER,,,,
 BO0624_87847,400717,28,28,Fruchtstick.,191,88.0,False,positional,JOHN HOPPNER,,COPPE,,
 BO0624_87847,400718,29,29,Kopf eines Apostels.,195,92.7,False,positional,JOHN HOPPNER,,,,
-BO0624_87847,400719,30,30,Landschaft mit Wasserfall. 1746,201,86.2,False,positional,JOHN HOPPNER,,,,
+BO0624_87847,400719,30,30,Landschaft mit Wasserfall. 1746,201,86.2,False,positional,JOHN HOPPNER,,,,Sec. XVIII
 BO0624_87847,400720,31,31,Damenbildniss.,209,89.7,False,positional,JOHN HOPPNER,,,,
 BO0624_87847,400721,32,32,Bildniss eines Dogen von Venedig.,215,95.5,False,positional,JOHN HOPPNER,,,,
 BO0624_87847,400722,33,33,Die heilige Familie in Landschaft.,221,95.7,False,positional,JOHN HOPPNER,,,,
-BO0624_87847,400723,34,34,Schlange ins Geholz kriechend. 1641,227,87.9,False,positional,OTHO MARSEUSVANSCHRIECK,,,,
+BO0624_87847,400723,34,34,Schlange ins Geholz kriechend. 1641,227,87.9,False,positional,OTHO MARSEUSVANSCHRIECK,,,,Sec. XVII
 BO0624_87847,400724,35,35,"Bildniss einer jungen Edeldame, in reicher Toilette, Bluse und Aermel mit feinen Spitzen, besetzt. Ganze Figur, seitwarts ein Tisch, auf dem eine Vase mit Blumen. Prachtbild in bester Erhaltung.",233,99.2,False,positional,MICHEL MIEREVELDT,,OGGETTI VARI,,
 BO0624_87847,400725,36,36,Damenbildniss.,240,89.7,False,positional,P.MIGNARD,,,,
 BO0624_87847,400726,37,37,Wirtshaus mit Schild: In de 3 ullen.  (Zu den 3 Eulen.),246,97.0,False,positional,P.MIGNARD,,,,
@@ -49,13 +49,13 @@ BO0624_87847,400736,47,47,Mannerbildniss.,304,90.3,False,positional,P.MIGNARD,,,
 BO0624_87847,400737,48,48,"Schafbock, Ziege und Hammel.",310,94.5,False,positional,P.MIGNARD,,,,
 BO0624_87847,400738,49,49,Der h. Sebastian,313,90.9,False,positional,P.MIGNARD,,,,
 BO0624_87847,400739,50,6,o Die Fischbeute.,314,97.0,False,positional,P.MIGNARD,,,,
-BO0624_87847,400740,51,1577,1640,320,61.5,False,positional,P.P.RUBENS,,,,
-BO0624_87847,400741,52,50,"Odysseus entdeckt Achilles inmitten der Tochter des Konigs Lykomedes. Originalskizze des von Rubens fur ein Madrider Kloster gemalten Bildes. (Dieses wurde von Nikolaus Ryckenhaus in Kupfer gestochen und ist seit 1888 in amerikanischem Besitz. Auch ist das Bild reproduzirt in: Klassiker der Malerei, Band V, Rubens.",322,99.5,False,positional,P.P.RUBENS,Scuola di Rubens,OGGETTI IN RAME,,
-BO0624_87847,400742,53,1613,1676,328,61.5,False,positional,SALOMON RUYSDAEL,,,,
+BO0624_87847,400740,51,1577,1640,320,61.5,False,positional,P.P.RUBENS,,,,Sec. XVII
+BO0624_87847,400741,52,50,"Odysseus entdeckt Achilles inmitten der Tochter des Konigs Lykomedes. Originalskizze des von Rubens fur ein Madrider Kloster gemalten Bildes. (Dieses wurde von Nikolaus Ryckenhaus in Kupfer gestochen und ist seit 1888 in amerikanischem Besitz. Auch ist das Bild reproduzirt in: Klassiker der Malerei, Band V, Rubens.",322,99.5,False,positional,P.P.RUBENS,Scuola di Rubens,OGGETTI IN RAME,,Sec. XIX
+BO0624_87847,400742,53,1613,1676,328,61.5,False,positional,SALOMON RUYSDAEL,,,,Sec. XVII
 BO0624_87847,400743,54,5,1 Landschaft.,330,92.3,False,positional,SALOMON RUYSDAEL,,,,
-BO0624_87847,400744,55,1750,1805,336,61.5,False,positional,JEAN SANDERS,,,,
+BO0624_87847,400744,55,1750,1805,336,61.5,False,positional,JEAN SANDERS,,,,Sec. XIX
 BO0624_87847,400745,56,52,Der Rauber.,338,87.0,False,positional,JEAN SANDERS,,,,
-BO0624_87847,400746,57,1582,1649,346,61.5,False,positional,DAVID TENIERS,,,,
+BO0624_87847,400746,57,1582,1649,346,61.5,False,positional,DAVID TENIERS,,,,Sec. XVII
 BO0624_87847,400747,58,54,Der Flotenspieler.,348,91.9,False,positional,DAVID TENIERS,,,,
 BO0624_87847,400748,59,55,Das Tierconzert.,352,90.9,False,positional,DAVID TENIERS,,,,
 BO0624_87847,400749,60,56,Die Rauchergesellschat.,356,93.6,False,positional,DAVID TENIERS,,,,
@@ -63,21 +63,21 @@ BO0624_87847,400750,61,57,Der Schulmeister.,360,91.4,False,positional,DAVID TENI
 BO0624_87847,400751,62,58,Der Affe als Arzt.,364,91.9,False,positional,DAVID TENIERS,,,,
 BO0624_87847,400752,63,59,Die drollige Cavalcade.,368,93.6,False,positional,DAVID TENIERS,,,,
 BO0624_87847,400753,64,61,"Bildniss einer Nonne.                                          | Holz,Hohe 32,Breite 28 cm.                  |",379,96.8,False,positional,JOSSE VAN CLEVE,,OGGETTI IN LEGNO,,
-BO0624_87847,400754,65,1599,"1641. 62 Christus am Kreuze. Skizze.                         | Holz,Hohe 33,Breite 28 cm.                  |",381,95.9,False,positional,JOSSE VAN CLEVE,,OGGETTI IN LEGNO,,
+BO0624_87847,400754,65,1599,"1641. 62 Christus am Kreuze. Skizze.                         | Holz,Hohe 33,Breite 28 cm.                  |",381,95.9,False,positional,JOSSE VAN CLEVE,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87847,400755,66,64,"Damenbildniss.                                                 | Kupfer,Hohe 18,Breite 15 cm.                |",383,96.5,False,positional,JOSSE VAN CLEVE,,OGGETTI IN RAME,,
 BO0624_87847,400756,67,65,"Portrat eines franzosischen Reitergenerals aus der Kaiserzeit. | Leinwand, Hohe 92, Breite 80 cm.            |",384,98.4,False,positional,JOSSE VAN CLEVE,,,,
-BO0624_87847,400757,68,1684,"1721. 67 Schaferin und Hirt. PETER YKENS                     | Holz,breitoval, Hohe 9, Breite 11 cm        |",386,96.7,False,positional,JOSSE VAN CLEVE,,OGGETTI IN LEGNO,,
+BO0624_87847,400757,68,1684,"1721. 67 Schaferin und Hirt. PETER YKENS                     | Holz,breitoval, Hohe 9, Breite 11 cm        |",386,96.7,False,positional,JOSSE VAN CLEVE,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_87847,400758,69,68,"Die h. Begga, Grunderin des Beghinenordens.                    | Leinwand, Hohe 17, Breite 15 cm.            |",387,97.9,False,positional,JOSSE VAN CLEVE,,,,
 BO0624_87847,400759,70,69,"Schlafender Engel. Kinderbildniss.                             | Miniatur auf Elfenbein,Hohe 8,Breite 8 cm.  |",388,98.0,False,positional,JOSSE VAN CLEVE,,MINIATURE,,
-BO0624_87847,400760,71,16,"Jahrh. 70 Damenbildniss.                                      | Dreifarbige Zeichnung,Hohe 50,Breite 30 cm. |",389,97.7,False,positional,JOSSE VAN CLEVE,,,,
+BO0624_87847,400760,71,16,"Jahrh. 70 Damenbildniss.                                      | Dreifarbige Zeichnung,Hohe 50,Breite 30 cm. |",389,97.7,False,positional,JOSSE VAN CLEVE,,,,Sec. XVII
 BO0624_87847,400761,72,72,"Junges Madchen, eine Urne haltend.                             | Pastell, Hohe 42, Breite 35 cm.             |",391,97.6,False,title_direct,,,Pastelle,,
-BO0624_87847,400762,73,73,"Landschaft. 74 Auf See. 76 Blumen und Frichte. 77 Winterlandschaft. 78 Der Schnitter. 79 Madchentraume. 8o Teich im Geholz. 81 Der Heuschober. 82 Untergehende Sonne.   | HENRY ARDEN T.ARTAN J. BAERTSOEN H. BELLIS E. BOULANGER EMIL CLAUS JOSEPH COOMANS 1873. P.COROT H. COURTENS C.F.DAUBIGNY PH.L.DEBUCOURT   | Leinwand, Hohe 64,Breite 48 cm.   |",396,99.5,False,positional,COROT JEAN-BAPTISTE-CAMILLE,,Gemalde neuzeitiger Meister,,
+BO0624_87847,400762,73,73,"Landschaft. 74 Auf See. 76 Blumen und Frichte. 77 Winterlandschaft. 78 Der Schnitter. 79 Madchentraume. 8o Teich im Geholz. 81 Der Heuschober. 82 Untergehende Sonne.   | HENRY ARDEN T.ARTAN J. BAERTSOEN H. BELLIS E. BOULANGER EMIL CLAUS JOSEPH COOMANS 1873. P.COROT H. COURTENS C.F.DAUBIGNY PH.L.DEBUCOURT   | Leinwand, Hohe 64,Breite 48 cm.   |",396,99.5,False,positional,COROT JEAN-BAPTISTE-CAMILLE,,Gemalde neuzeitiger Meister,,Sec. XIX
 BO0624_87847,400763,74,75,"Umgebung von Vlissingen.                                                                                                                                                |                                                                                                                                           | Leinwand.Hohe 32, Breite 55 cm,   |",399,97.2,False,positional,,,Gemalde neuzeitiger Meister,,
 BO0624_87847,400764,75,83,"Pferd an der Tranke.                                                                                                                                                    |                                                                                                                                           | Holz, Hohe 30,Breite 46 cm.       |",407,96.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_87847,400765,76,84,"Waldlandschaft.                                                                                                                                                         | J. DE GREEF                                                                                                                               | Leinwand, Hohe 46, Breite 60 cm.  |",408,97.3,False,positional,,,Gemalde neuzeitiger Meister,,
 BO0624_87847,400766,77,85,"Gutshof.                                                                                                                                                                | A.DILLENS                                                                                                                                 | Holz,Hohe 20, Breite 28 cm.       |",409,96.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_87847,400767,78,86,"Die Dorfstrasse.       | P. JOURMOIS      | Holz,Hohe 28,Breite 46 cm.       |",410,97.2,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_87847,400768,79,87,"Die Badenden.          | M. KOEKOEK 1847. | Leinwand,Hohe 94,Breite 72 cm.   |",412,97.4,False,positional,,,Gemalde neuzeitiger Meister,,
+BO0624_87847,400768,79,87,"Die Badenden.          | M. KOEKOEK 1847. | Leinwand,Hohe 94,Breite 72 cm.   |",412,97.4,False,positional,,,Gemalde neuzeitiger Meister,,Sec. XIX
 BO0624_87847,400769,80,88,"Burgeingang.           | H. LEYS          | Holz,Hohe 33,Breite 26 cm.       |",413,96.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_87847,400770,81,89,"Parkallee.             | J. MADIOL        | Leinwand,Hohe 45,Breite 35 cm.   |",414,97.0,False,positional,,,Gemalde neuzeitiger Meister,,
 BO0624_87847,400771,82,90,"Der Bergmann. Studie.  |                  | Karton,Hohe 36, Breite 44 cm.    |",415,96.9,False,positional,,,Gemalde neuzeitiger Meister,,

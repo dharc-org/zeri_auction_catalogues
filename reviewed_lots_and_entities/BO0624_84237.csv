@@ -10,15 +10,15 @@ BO0624_84237,187302,8,I,"mportant et interessant dessin a la plume lave d'aquare
 BO0624_84237,187303,9,I,"l est vu de face, en buste, aupres d’une étagere chargee de livres.",166,99.2,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84237,187304,10,1520,33rle gilet.,172,100.0,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84237,187305,11,I,"l est vu presque de face, a mi-corps, vetu d'un habit et gilet a broderies d'or avec jabot de dentelle. La main droite est appuyée sur la hanche, tandis que la gauche est passee sous",184,99.7,False,positional,FENOUIL,,,,
-BO0624_84237,187306,12,7500,1720-0,193,100.0,False,positional,FENOUIL,,,,
+BO0624_84237,187306,12,7500,1720-0,193,100.0,False,positional,FENOUIL,,,,Sec. XVIII
 BO0624_84237,187307,13,20500,## 14——,197,100.0,False,positional,FENOUIL,Scuola Senese,,,
 BO0624_84237,187308,14,4070,<!-- image -->,240,100.0,False,positional,GUARDI,,,,
 BO0624_84237,187309,15,18,## HUET (JEAN-BAPTISTE),244,100.0,False,title_direct,HUET,,,,
 BO0624_84237,187310,16,I,"l est pose sur un socle devant une niche. Signe en bas, a gauche.",284,99.2,False,positional,HUYSUM,,,,
-BO0624_84237,187311,17,10500,1370,329,100.0,False,positional,ROBERT,,,,
+BO0624_84237,187311,17,10500,1370,329,100.0,False,positional,ROBERT,,,,Sec. XIV
 BO0624_84237,187312,18,9100,"Toile. Haut., 1 metre; larg., 85 cent.",333,100.0,False,positional,ROBERT,,,,
 BO0624_84237,187313,19,13060,## VALLAYER,336,100.0,False,title_direct,VALLAYER,,,,
-BO0624_84237,187314,20,15770,"Dans le catalogue du Salon de 1779,on lit, sous le n° 1o2,la designation relevee ci-dessus, avec lindication : Ce petit tableau, de forme ovale, appartient a la Reine.",348,100.0,False,positional,VALLAYER,,OGGETTI VARI,,
+BO0624_84237,187314,20,15770,"Dans le catalogue du Salon de 1779,on lit, sous le n° 1o2,la designation relevee ci-dessus, avec lindication : Ce petit tableau, de forme ovale, appartient a la Reine.",348,100.0,False,positional,VALLAYER,,OGGETTI VARI,,Sec. XVIII
 BO0624_84237,187315,21,10050,3000,371,100.0,False,positional,VAXCILLERE,,,,
 BO0624_84237,187316,22,33000,## VESTIER,375,100.0,False,title_direct,VESTIER,,,,
 BO0624_84237,187317,23,26,"BusTE en terre cuite, grandeur nature, de bacchante souriant,la tete tournee entierement vers l'epaule droite et couronnee de pampres. xvine siecle. Piedouche en bois.",406,99.1,False,positional,WATTEAU,,OGGETTI IN LEGNO,,
@@ -45,7 +45,7 @@ BO0624_84237,187337,43,42,"PeNDuLE en marbre blanc sculpte, formee d'un rocher s
 BO0624_84237,187338,44,43,"一 PeNDuLE en marbre blanc et bronze cisele et dore. Le mouvement, dont le cadran est place au centre d'une corniche que portent deux pilastres, couronnement compose d'un aigle et de deux sphinx (ceux-ci en bronze patine). Marque de Chopin, a Paris. Fin de l'epoque Louis XVI.",517,99.4,False,positional,WATTEAU,,LAMPADE,,
 BO0624_84237,187339,45,44,"— PeNDuLE de voyage a sonnerie et reveil, en bronze cisele et dore; decor d'attributs sur les cotes. Cadran marqué Courvoisier, a Paris. Elle est renfermee dans un coffret en bois de rose muni d'une poignee en cuivre. Fin de l'époque Louis XVI.",520,99.4,False,positional,WATTEAU,,OGGETTI IN LEGNO,,
 BO0624_84237,187340,46,45,"Six GRANDEs cHAIsEs en bois moulure et cire, a pieds cambres. Elles sont montees a chassis et garnies de damas rouge. - Epoque Regence.",524,92.7,False,positional,WATTEAU,,OGGETTI IN LEGNO,,
-BO0624_84237,187341,47,46,"- CANAPe d'encoignure, formant chaise-longue, en bois moulure, sculpte et cire; decor de feuillage, rocailles, coquille et palmettes. Garniture d'ancienne brocatelle jaune. Epoque Louis XV. 1050",532,97.8,False,positional,WATTEAU,Periodo di Luigi XV,OGGETTI IN LEGNO,,
+BO0624_84237,187341,47,46,"- CANAPe d'encoignure, formant chaise-longue, en bois moulure, sculpte et cire; decor de feuillage, rocailles, coquille et palmettes. Garniture d'ancienne brocatelle jaune. Epoque Louis XV. 1050",532,97.8,False,positional,WATTEAU,Periodo di Luigi XV,OGGETTI IN LEGNO,,Sec. XI
 BO0624_84237,187342,48,47,"— GRAND FAuTEuIL a siege et dossier contournes, en bois moulure, sculpte et cire; decor de feuillage, rocailles, fruits, palmettes, etc. Garniture d'ancien velours uni. Epoque Louis XV.",540,99.1,False,positional,WATTEAU,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_84237,187343,49,48,"- GRANDE cHAise en bois sculpte, de forme et decor analogues",544,97.4,False,positional,WATTEAU,,OGGETTI IN LEGNO,,
 BO0624_84237,187344,50,49,partie de l'époque Louis XV.,546,94.7,False,positional,WATTEAU,Periodo di Luigi XV,,,
@@ -94,7 +94,7 @@ BO0624_84237,187386,92,80,a rayures blanches. Epoque Louis XVI.,737,95.9,False,p
 BO0624_84237,187387,93,81,"PETIT MEUBLE-cHIFFoNNIER, a hauteur d'appui, ouvrant a six tiroirs, en acajou. Fin de l'époque Louis XVI. Dessus de",738,98.7,False,positional,WATTEAU,,ACQUEFORTI,,
 BO0624_84237,187388,94,82,"一 PETITE′TABLE-GUERIDoN de forme ronde,a pieds gaines reunis par une tablette, en marqueterie de bois de placage. Elle est munie d'un tiroir et d'une tirette. Dessus de marbre blanc avec galerie ajouree en cuivre.",743,99.3,False,positional,WATTEAU,,OGGETTI IN LEGNO,,
 BO0624_84237,187389,95,83,"一 MeuBLE d'entre-deux, forme demi-lune, a tiroir, et deux portes laterales, decore sur sa face et sur le dessus de quatre gravures anglaises d'apres Angelica Kauffmann, sur fond laque au vernis et orne de guirlandes, chutes de feurs et ruban. Fin du xville siecle ou debut du xixe siecle.",747,99.5,False,positional,WATTEAU,,OGGETTI VARI,,
-BO0624_84237,187390,96,3000,1180,751,100.0,False,positional,WATTEAU,,,,
+BO0624_84237,187390,96,3000,1180,751,100.0,False,positional,WATTEAU,,,,Sec. XII
 BO0624_84237,187391,97,3620,<!-- image -->,754,100.0,False,positional,WATTEAU,,,,
 BO0624_84237,187392,98,600,## SIEGES ET PARAVENTS,758,100.0,False,positional,WATTEAU,,ARREDAMENTI,,
 BO0624_84237,187393,99,84,"— Trois PARAvENTs a deux feuilles faites chacune de tapisserie au point sur fond de broderie du xvie siecle, presentant des guirlandes de feurs et des rubans. Revers en ancien damas",762,99.2,False,positional,WATTEAU,,ARREDAMENTI,,

@@ -1,28 +1,28 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83820,657888,1,2,"se trouve guere enrichi, ont le merite de nous faire toucher du doigt la psychologie simpliste de Chardin. Chez lui,point d'effort d'imagination pour trouver l'idee qui lui permettra d'exprimer en peintre une pensee de peintre. Le tiers etat, avec ses bourgeoises et ses menageres, et sa vie familiale ou tous les actes ne s'accomplissent pas en decor, sont pour son inspiration une source inepuisable: l'euvre du maitre dont il s'agit ici, ainsi que la suivante, appartiennent bien a cet ordre de chefs-dceuvre apaises et tranquilles, qui nous éloignent et nous reposent du reve et nous font gouiter a cette autre forme de reve, ce reve refechi qui s'appelle le recueillement. Avec Chardin, qui, sans le moindre morceau de couleur,apparait magnifiquement peintre, on vit dans une ambiance saine, d'appetits calmes et de tendresse robuste:il dit tout ce qu'il veut dire, comme il le veut dire, sans rien qui prete au sous-entendu,ce qui est rare, en une epoque ou les arriere-pensees sont de regle. C'est que, par la seule force de sa sincerite qui s'exalte, Chardin,en nous montrant l'interieur de ses bourgeoises,nous indique egalement leur ame: il nous les fait connaitre, selon le mot d'un de ses contemporains, α depuis le tablier jusqu'au coeur ）. Et c'est par la que ce maitre, qui fut tenu longtemps pour un petit maitre sans grande envergure, nous apparait aujourd'hui si beau et occupant une place speciale,au premier rang des intimistes de toutes les écoles.",34,100.0,False,positional,CHARDIN,,ARREDAMENTI,,
 BO0624_83820,657889,2,I,"l est vu jusqu'a mi-corps, en habit bleu et gilet a jabot de dentelle, la tete tournee presque de face; sous ses cheveux poudres, coiffes a marteaux et releves sur le front, le visage apparait avec beaucoup de caractere: les yeux tres noirs, les levres unies mais ironiques, le nez busque trahissant la volonte. La tete se detache en lumiere sur un fond sombre.",144,99.9,False,positional,GAINSBOROUGH,,,,
-BO0624_83820,657890,3,1687,1741,164,61.5,False,positional,LAJOUE,,,,
-BO0624_83820,657891,4,1740,1813,186,61.5,False,positional,LOUTHERBOURG,,,,
-BO0624_83820,657892,5,176,g-1830,199,80.0,False,positional,LAWRENCE,,,,
-BO0624_83820,657893,6,1715,1783,264,61.5,False,positional,PERRONNEAU,,,,
+BO0624_83820,657890,3,1687,1741,164,61.5,False,positional,LAJOUE,,,,Sec. XVIII
+BO0624_83820,657891,4,1740,1813,186,61.5,False,positional,LOUTHERBOURG,,,,Sec. XIX
+BO0624_83820,657892,5,176,g-1830,199,80.0,False,positional,LAWRENCE,,,,Sec. XIX
+BO0624_83820,657893,6,1715,1783,264,61.5,False,positional,PERRONNEAU,,,,Sec. XVIII
 BO0624_83820,657894,7,I,"l est vu jusqu'a mi-corps, debout, la tete tournee de face et legerement inclinee vers lépaule droite,la bouche fine,le nez volontaire,les yeux d'une expression insolente et spirituelle; les cheveux poudres, legerement brosses en arriere, sont releves au petit fer de chaque cote du visage au-dessus des oreilles ; le personnage est vetu d'un habit de drap vert a galons d'or, qui laisse apparaitre un gilet de soie brochee blanche, gilet dans lequel sont retenues les barbes de dentelle de la cravate. Sur l'habit, un ordre est brode. Le torse est marque par un large ruban vert en sautoir.",283,99.9,False,positional,REYNOLDS,,,,
-BO0624_83820,657895,8,1734,1802,307,61.5,False,positional,ROMNEY,,,,
+BO0624_83820,657895,8,1734,1802,307,61.5,False,positional,ROMNEY,,,,Sec. XIX
 BO0624_83820,657896,9,I,"l est vu jusqu'a la poitrine, la tete tournee de face, les joues rondes, les yeux bleus, ses cheveux frises tendant au chatain clair.",449,99.6,False,positional,FRAGONARD,,,,
 BO0624_83820,657897,10,I,"l est vetu d'un habit brode de fleurs:une collerette de batiste, relevee derriere la tete, s'attache sur le devant de la poitrine par un noeud de ruban bleu. ll semble tenir sous son bras, qu'on ne voit pas, un chapeau en feutre borde de ruban bleu.",451,99.8,False,positional,FRAGONARD,,,,
 BO0624_83820,657898,11,I,"l est vu presque de face, vetu dun habit grenat passe: la main droite est engagee dans le gilet a jabot. L'avant-bras gauche retient le tricorne noir a passementerie d'or. Le visage aux traits porte un ruban noir autour du col.",568,99.8,False,positional,LA TOUR,,,,
 BO0624_83820,657899,12,I,"l est vu jusqu'a mi-corps, de profil a gauche,la tete tournee de trois quarts. Il est vetu d'un habit gris ouvert sur un gilet de soie rose a jabot de dentelle. Il tient sous son bras gauche son tricorne noir. La tete, coiffee de la perruque poudree a marteaux, a du caractere:la bouche est fine, le menton puissant, les yeux",598,99.8,False,positional,PERRONNEAU,,,,
-BO0624_83820,657900,13,1758,1823,641,61.5,False,positional,PRUD'HON,,,,
-BO0624_83820,657901,14,1724,"1780,",657,75.0,False,positional,PUJOS,Scuola Fiamminga,,,
-BO0624_83820,657902,15,1684,1721,672,61.5,False,positional,SAINT-AUBIN,,,,
-BO0624_83820,657903,16,1755,1832,730,61.5,False,positional,DEBUCOURT,,,,
-BO0624_83820,657904,17,1817,1887,782,61.5,False,positional,BONVIN,,,,
-BO0624_83820,657905,18,1796,1875,797,61.5,False,positional,COROT,,,,
-BO0624_83820,657906,19,1798,1863,850,61.5,False,positional,DELACROIX,,,,
-BO0624_83820,657907,20,1808,1876,875,61.5,False,positional,DIAZ DE LA PENA,,,,
-BO0624_83820,657908,21,1812,1889,981,61.5,False,positional,DUPRE,,,,
-BO0624_83820,657909,22,1812,1867,1026,61.5,False,positional,ROUSSEAU,,,,
-BO0624_83820,657910,23,1810,1865,1043,61.5,False,positional,TROYON,,,,
-BO0624_83820,657911,24,1803,1860,1062,61.5,False,positional,DECAMPS,Scuola di Dusseldorf,,,
+BO0624_83820,657900,13,1758,1823,641,61.5,False,positional,PRUD'HON,,,,Sec. XIX
+BO0624_83820,657901,14,1724,"1780,",657,75.0,False,positional,PUJOS,Scuola Fiamminga,,,Sec. XVIII
+BO0624_83820,657902,15,1684,1721,672,61.5,False,positional,SAINT-AUBIN,,,,Sec. XVIII
+BO0624_83820,657903,16,1755,1832,730,61.5,False,positional,DEBUCOURT,,,,Sec. XIX
+BO0624_83820,657904,17,1817,1887,782,61.5,False,positional,BONVIN,,,,Sec. XIX
+BO0624_83820,657905,18,1796,1875,797,61.5,False,positional,COROT,,,,Sec. XIX
+BO0624_83820,657906,19,1798,1863,850,61.5,False,positional,DELACROIX,,,,Sec. XIX
+BO0624_83820,657907,20,1808,1876,875,61.5,False,positional,DIAZ DE LA PENA,,,,Sec. XIX
+BO0624_83820,657908,21,1812,1889,981,61.5,False,positional,DUPRE,,,,Sec. XIX
+BO0624_83820,657909,22,1812,1867,1026,61.5,False,positional,ROUSSEAU,,,,Sec. XIX
+BO0624_83820,657910,23,1810,1865,1043,61.5,False,positional,TROYON,,,,Sec. XIX
+BO0624_83820,657911,24,1803,1860,1062,61.5,False,positional,DECAMPS,Scuola di Dusseldorf,,,Sec. XIX
 BO0624_83820,657912,25,I,"l est en selle sur un cheval blanc, vu de face; il porte, fottant a l'extremite de sa masse d'armes, appuyee sur sa cuisse droite,l'etendard bleu armorie derouge.Il est vetu d'un costume de gonfalonier venitien; derriere lui, au-dessus d'un mur a revetements ceramiques, on apercoit un ciel bleu ennuage de blanc.",1068,45.5,False,positional,DECAMPS,,,,
 BO0624_83820,657913,26,75,"TrEIzE AssIETTEs en ancienne porcelaine de Paris, dite a la Reine. Decor a bouquets de feurs en couleur; bord",1083,41.4,False,positional,HARPIGNIES,,PIATTI,,
 BO0624_83820,657914,27,76,"— QuATRE AssIETTEs A DEssERT, avec marli ajoure imitant la vannerie, en ancienne porcelaine de La Haye, pate tendre ;",1085,44.4,False,positional,HARPIGNIES,,PIATTI,,

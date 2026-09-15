@@ -1,19 +1,19 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88646,217829,1,1,2. ZWEI VASCHEN mit Drachen in Relief und Blumendekor. 18. Jahrh.,14,98.4,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
+BO0624_88646,217829,1,1,2. ZWEI VASCHEN mit Drachen in Relief und Blumendekor. 18. Jahrh.,14,98.4,False,positional,,,PORZELLAN; BRONZEN; GLAS,,Sec. XVIII
 BO0624_88646,217830,2,3,4 EIN PAAR BALUSTER-VASCHEN mit Blumenranken.,15,97.8,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
 BO0624_88646,217831,3,5,6.,16,50.0,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
 BO0624_88646,217832,4,7,9.,19,50.0,False,positional,DE MOMPER JODOCUS,,PORZELLAN; BRONZEN; GLAS,,
-BO0624_88646,217833,5,I0,"I2. DREI BALUSTERVASCHEN, eines 18. Jahrh. (beschadigt),ein Paar modern.",21,97.7,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
+BO0624_88646,217833,5,I0,"I2. DREI BALUSTERVASCHEN, eines 18. Jahrh. (beschadigt),ein Paar modern.",21,97.7,False,positional,,,PORZELLAN; BRONZEN; GLAS,,Sec. XVIII
 BO0624_88646,217834,6,13,"FAMILLE-VERTE-TELLER. Im Spiegel Wasserpfanzen, auf dem Rand blihende Zweige auf punktiertem Grund und in vier Reserven. Symbolmarke in Doppelkreis. Durchm.12 cm.",22,99.1,False,positional,,,PIATTI,,
 BO0624_88646,217835,7,I4,"DESGLEICHEN. Im Spiegel durchlocherter Felsen mit bluhenden Pfanzen,auf dem Rand schmale Gitterborte und Symbole in vier Reserven. Symbolmarke in Doppelkreis. Durchm.11,5 cm.",23,99.1,False,positional,,,SPECCHI,,
 BO0624_88646,217836,8,15,"16. EIN PAAR FAMILLE-ROSE-TELLER.Tiefe,sechseckige Form,mit figurlichen Darstellungen,auf dem Rand verblaBter Goldrankengrund und schwarz-rote Blutenzweige in Reserven. Durchm. 25 cm.",24,99.2,False,positional,,,PIATTI,,
 BO0624_88646,217837,9,17,"18. ZWEI ALT-CHINA-SCHUSSELN mit Blaumalerei:a) Landschaft mit Tieren in Gitterrahmung und Randblumen, b) Paonie, Kirschbaum und Vogel (gesprungen).",25,98.9,False,positional,,,SCATOLE,,
-BO0624_88646,217838,10,19,"- PORZELLAN-DECKELBUCHSE in Form einer Ente, auf durchbrochenem Sockel. Bemalung in Unterglasurblau. C h i na, 18. Jahrh. H. 17 cm.",27,100.0,False,title_direct,,,PORZELLAN,,
+BO0624_88646,217838,10,19,"- PORZELLAN-DECKELBUCHSE in Form einer Ente, auf durchbrochenem Sockel. Bemalung in Unterglasurblau. C h i na, 18. Jahrh. H. 17 cm.",27,100.0,False,title_direct,,,PORZELLAN,,Sec. XVIII
 BO0624_88646,217839,11,20,messer 28 cm.(Leichte Randreparatur.),29,95.8,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
 BO0624_88646,217840,12,21,"KLEINE CHINA-SCHUSSEL. Der gebogte Rand in acht Felder geteilt,vier puderblau mit Blumen in verblaBtem Gold, in den ibrigen Feldern Vasen, im Spiegel Sternornament in Schmelzfarben und Gold. Symbolmarke Yu n g-T s cheng. Durchmesser 27 cm.(Gekittet.)",30,99.4,False,positional,,,OGGETTI IN ORO,,
 BO0624_88646,217841,13,22,"SELADON-SCHUSSEL, fach. Rand leicht gerieft. Im Spiegel PHanzenornament. 18.Jahrh.Durchm.29 cm.",31,98.4,False,positional,,,SCATOLE,,
-BO0624_88646,217842,14,23,"IMARI-DECKELVASE, Balusterform,mit durchbrochener Aubenwandung. Der Dekor (Landschaften und Blumen) in den typischen Farben. 18. Jahrh. Hohe 48 cm. (Beschadigt.)",32,95.2,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
-BO0624_88646,217843,15,24,"EIN PAAR IMARI-DECKELVASEN. Reserven mit Kranichen unter Baumen in bunt, die ibrige Flache mit groBem Rankenmuster in blau. Hals und Deckelrand rot. Figirliche Knaufe (gekittet). 18. Jahrh.H. 52 cm.",34,86.0,False,positional,HALS DIRK,,PORZELLAN; BRONZEN; GLAS,,
+BO0624_88646,217842,14,23,"IMARI-DECKELVASE, Balusterform,mit durchbrochener Aubenwandung. Der Dekor (Landschaften und Blumen) in den typischen Farben. 18. Jahrh. Hohe 48 cm. (Beschadigt.)",32,95.2,False,positional,,,PORZELLAN; BRONZEN; GLAS,,Sec. XVIII
+BO0624_88646,217843,15,24,"EIN PAAR IMARI-DECKELVASEN. Reserven mit Kranichen unter Baumen in bunt, die ibrige Flache mit groBem Rankenmuster in blau. Hals und Deckelrand rot. Figirliche Knaufe (gekittet). 18. Jahrh.H. 52 cm.",34,86.0,False,positional,HALS DIRK,,PORZELLAN; BRONZEN; GLAS,,Sec. XVIII
 BO0624_88646,217844,16,25,FAMILLE-VERTE-SCHUSSEL. Funf groBe Fabeltiere in Schmelzfarben. Wolken-,36,97.8,False,positional,,,SCATOLE,,
 BO0624_88646,217845,17,8,bander in Rot. Als Marke Blattbischel in Doppelkreis. Durchm. 34 cm.(Gekittet.),37,98.6,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
 BO0624_88646,217846,18,9,26.FAMILLE-ROSE-SCHUSSEL. GroBe Paonienzweige in durchlochertem Felsen. Durchm.32 cm.(BestoBen.),38,98.9,False,positional,,,SCATOLE,,
@@ -29,7 +29,7 @@ BO0624_88646,217855,27,34,"CHINA-SCHUSSEL,fache Form, Schmelzfarbendekor: figirl
 BO0624_88646,217856,28,35,"DESGLEICHEN, mit gewolbtem Rand, im Spiegel mannliche Figur auf einem Fisch stehend iber Wellen, auf dem Rand Schriftzeichen. China, K a ng-Hi, mit Marke.",48,99.0,False,positional,,,SPECCHI,,
 BO0624_88646,217857,29,20,Durchm.3512 cm.(Sprung.),49,93.3,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
 BO0624_88646,217858,30,21,36.,50,57.1,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
-BO0624_88646,217859,31,22,"CHINA-SCHUSSEL, fache Form,mit dichtem Paonienmuster groBen MaBstabs in Blau. 18. Jahrh. Durchm.3512 cm.(Gekittet.)",51,98.6,False,positional,,,SCATOLE,,
+BO0624_88646,217859,31,22,"CHINA-SCHUSSEL, fache Form,mit dichtem Paonienmuster groBen MaBstabs in Blau. 18. Jahrh. Durchm.3512 cm.(Gekittet.)",51,98.6,False,positional,,,SCATOLE,,Sec. XVIII
 BO0624_88646,217860,32,38,- 39.,54,100.0,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
 BO0624_88646,217861,33,40,"Gold dekoriert,im Spiegel Ho-Vogel. Auf dem Rand ornamentale Muster und Blumenranken. Tscheng-Hua-Mar ke. Durchm, 47 cm.",58,98.7,False,positional,,,OGGETTI IN ORO,,
 BO0624_88646,217862,34,41,ALT-CHINA-TELLER. Der Dekor im Schwarzlot und Gold: Im Spiegel AusgieBung,59,97.9,False,positional,,,OGGETTI IN ORO,,
@@ -40,7 +40,7 @@ BO0624_88646,217866,38,47,"DESGLEICHEN, dem vorhergehenden Stuick ahnlich, umlau
 BO0624_88646,217867,39,48,"- GROSSE ALTCHINA-BRONZE, bauchige Vierka n t va se mit Ringen an Lowenmasken. Ornamentaler Reliefdekor: Fries und Blattkranz. Hohe 41,5 cm.",72,100.0,False,title_direct,,,BRONZEN,,
 BO0624_88646,217868,40,49,"- DESGLEICHEN, Flotenva se von breiter Form, der Mittelwulst mit Rippen. Ornamentaler Dekor in fachem Relief. Hohe 37,5 cm.",74,100.0,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
 BO0624_88646,217869,41,50,"DESGLEICHEN, birnformige Va se mit weitem,hohem Hals. Ornamentaler Reliefdekor: Fries und Blattkranz. Hohe 37 cm.",75,98.6,False,positional,HALS DIRK,,PORZELLAN; BRONZEN; GLAS,,
-BO0624_88646,217870,42,51,"TIBETANISCHES SAKRALGEFASS. Schale aus einem menschlichen Schadel, Randbeschlag,Deckel und dreieckiger Untersatz aus Bronze,reich reliefert mit Gotterfiguren und Ornamenten, Tirkiseinlagen (einzelne fehlen). 18. Jahrh. H.27 cm. Abb.Tafel5 Ia.ALTCHINA-BRONZE, eiformige Va se mit zwei kleinen Ringgriffen; in der Leibungsmitte drei schmale Borten in fachem Relief. Han-Zeit. H. 33 cm.",76,76.3,False,title_direct,,,OGGETTI VARI,,
+BO0624_88646,217870,42,51,"TIBETANISCHES SAKRALGEFASS. Schale aus einem menschlichen Schadel, Randbeschlag,Deckel und dreieckiger Untersatz aus Bronze,reich reliefert mit Gotterfiguren und Ornamenten, Tirkiseinlagen (einzelne fehlen). 18. Jahrh. H.27 cm. Abb.Tafel5 Ia.ALTCHINA-BRONZE, eiformige Va se mit zwei kleinen Ringgriffen; in der Leibungsmitte drei schmale Borten in fachem Relief. Han-Zeit. H. 33 cm.",76,76.3,False,title_direct,,,OGGETTI VARI,,Sec. XVIII
 BO0624_88646,217871,43,52,"DESGLEICHEN, balusterformige Va se mit vier gezahnten Rippen, auf der Schulter drei Stierkopfe; Borten auf Schulter und Fub, groBe Blatter zwischen den Rippen in",78,99.1,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
 BO0624_88646,217872,44,53,"54.EIN PAAR ALTCHINA-BRONZEN, vierkantige F 1o te n va s e n; an den Kanten Rippen, in der Leibungsmitte wurfelformige Verdickung. Reicher ornamentaler Reliefdekor.H.37 cm.",80,99.1,False,title_direct,,,BRONZEN,,
 BO0624_88646,217873,45,55,"EINE DESGLEICHEN, dem vorhergehenden Paar ahnlich. H. 28 cm.",81,97.4,False,positional,,,PORZELLAN; BRONZEN; GLAS,,
@@ -67,11 +67,11 @@ BO0624_88646,217893,65,79,"GLASSCHUSSEL mit gebogtem Rand, Kehlung gerieft, dunk
 BO0624_88646,217894,66,6,80.,115,66.7,False,positional,,Scuola di Monaco,PORZELLAN; BRONZEN; GLAS,,
 BO0624_88646,217895,67,7,"GLASVASE, blau, mit geatztem Dekor: groBer Bluitenzweig. China. Ki e n-Lu ng. H.17 cm. Abb.Tafel6",116,98.9,False,title_direct,,,GLAS,,
 BO0624_88646,217896,68,81,"GLASSCHALE,kummenformig, bernsteinfarbig. China.Durchm.19 cm.(Sprung.)",117,97.7,False,title_direct,,,GLAS,,
-BO0624_88646,217897,69,82,"TURKISCHE DECKELKANNE, vergoldet,von der typischen Form. Gebuckelt, mit getriebenen Blumen. 18. Jahrh. H. 18,5 cm.",123,76.8,False,positional,,,GOLDSCHMIEDEARBEITEN,,
+BO0624_88646,217897,69,82,"TURKISCHE DECKELKANNE, vergoldet,von der typischen Form. Gebuckelt, mit getriebenen Blumen. 18. Jahrh. H. 18,5 cm.",123,76.8,False,positional,,,GOLDSCHMIEDEARBEITEN,,Sec. XVIII
 BO0624_88646,217898,70,83,"SILBERVERGOLDETER AKLEI-BECHER,hohe, schlanke Form,als Knauf drei- henklige Vase, weibsilberner Blattwerkbelag. Stempel N i r n b er g. Anfang 17. Jh. H.19cm.145g",126,73.7,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88646,217899,71,84,"SILBERVERGOLDETER BUCKELPOKAL,als Schaft dreihenklige Vase, sechseckige Kuppa, leicht graviert (ungarisch?). Um 16oo. H.155 cm. 105 g.",127,98.8,False,positional,,,VASI,,
 BO0624_88646,217900,72,85,"KLEINER SILBERVERGOLDETER POKAL von achteckiger Form,mit Birnknauf,auf den Seiten der Kuppa je ein Bandornament und he br ais che In s c hrift. Um 17oo. H. 13 cm. (FuB beschadigt.) 115 g.",128,99.2,False,positional,,,GOLDSCHMIEDEARBEITEN,,
-BO0624_88646,217901,73,86,"HOHER, SILBERNER BECHER, von leicht konischer Form, im Stil des ausgehenden 15. Jahrh.; Teilvergoldung. FuBe mit Lowenfigirchen,am FuB Blumen und Adler, in der Mitte der Leibung durchbrochener Rankenwulst. H. 24 cm. 68o g.",129,99.3,False,positional,,,VASI,,
+BO0624_88646,217901,73,86,"HOHER, SILBERNER BECHER, von leicht konischer Form, im Stil des ausgehenden 15. Jahrh.; Teilvergoldung. FuBe mit Lowenfigirchen,am FuB Blumen und Adler, in der Mitte der Leibung durchbrochener Rankenwulst. H. 24 cm. 68o g.",129,99.3,False,positional,,,VASI,,Sec. XV
 BO0624_88646,217902,74,8,87.,130,66.7,False,positional,,,GOLDSCHMIEDEARBEITEN,,
 BO0624_88646,217903,75,9,"SILBERNE ROSENWASSERFLASCHE,niedrige Leibung, mit hohem dunnem beit. H.27cm.205g.",131,98.7,False,positional,,,GOLDSCHMIEDEARBEITEN,,
 BO0624_88646,217904,76,88,"SILBERNER DECKELHUMPEN im Barockstil;Teilvergoldung, der Henkel mit Frauenherme; eingelassen verschiedene alte Minzen in Bandwerkumrahmung. Hohe 14cm.555g.",132,99.0,False,positional,,,GOLDSCHMIEDEARBEITEN,,
@@ -79,50 +79,50 @@ BO0624_88646,217905,77,89,SILBERNE PSOMBUCHSE in Form eines Stengels mit Fruchtb
 BO0624_88646,217906,78,12,18.Jahrh.H.181/2 cm.105 g.,134,94.3,False,positional,,,GOLDSCHMIEDEARBEITEN,,
 BO0624_88646,217907,79,13,90.,135,57.1,False,positional,,,GOLDSCHMIEDEARBEITEN,,
 BO0624_88646,217908,80,14,"SILBERNER DECKELHUMPEN. Der Henkel in Form von zwei Schlangen, als Knauf Figiirchen eines Kriegers. Getrieben und graviert, breites Blattwerk und Ranken. H. 2512 cm.795 g.",136,99.1,False,positional,,,GOLDSCHMIEDEARBEITEN,,
-BO0624_88646,217909,81,91,"SILBERNER MINIATUR-BUCKELPOKAL mit Teilvergoldung, als Schaft weibliche Figur, als Deckelknauf Blumenkranz; im Stil des 17. Jahrh. H. 16 cm. 1oo g.",137,98.9,False,positional,,,MINIATURE,,
-BO0624_88646,217910,82,2,"92-93. ZWEI SILBERNE BECHER, a) Pokalform mit getriebenem Wellenband und Girlande, datiert 1823. 6o g,b) glockenformig, mit Deckel, unten gerieft. Ende 18. Jahrh.85 g.",138,99.4,False,positional,,,VASI,,
+BO0624_88646,217909,81,91,"SILBERNER MINIATUR-BUCKELPOKAL mit Teilvergoldung, als Schaft weibliche Figur, als Deckelknauf Blumenkranz; im Stil des 17. Jahrh. H. 16 cm. 1oo g.",137,98.9,False,positional,,,MINIATURE,,Sec. XVII
+BO0624_88646,217910,82,2,"92-93. ZWEI SILBERNE BECHER, a) Pokalform mit getriebenem Wellenband und Girlande, datiert 1823. 6o g,b) glockenformig, mit Deckel, unten gerieft. Ende 18. Jahrh.85 g.",138,99.4,False,positional,,,VASI,,Sec. XVIII
 BO0624_88646,217911,83,94,SILBERVERGOLDETER KUGELBECHER mit hochgetriebenen Blattranken und,139,97.7,False,positional,,,GOLDSCHMIEDEARBEITEN,,
 BO0624_88646,217912,84,4,Blumen. Stempel N ir n ber g. Meistermarke undeutlich. Um 17oo. H. 9 cm. 105 g.,140,98.6,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88646,217913,85,5,95.,141,66.7,False,positional,,,GOLDSCHMIEDEARBEITEN,,
-BO0624_88646,217914,86,6,"SILBERNER BECHER,reich getrieben:Rocaillen, Blumen und Vogel. Stempel Mo s ka u 1778. H.712 cm.75g.",142,99.0,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88646,217914,86,6,"SILBERNER BECHER,reich getrieben:Rocaillen, Blumen und Vogel. Stempel Mo s ka u 1778. H.712 cm.75g.",142,99.0,False,positional,,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_88646,217915,87,96,"SILBERNER JUNGFRAU-BECHER. Die Frauenfgur in reicher Kleidung, der Schalchen.H.19 cm.195 g.",143,82.6,False,positional,,,VASI,,
-BO0624_88646,217916,88,97,"SILBERNER TRAUBENPOKAL mit Teilvergoldung, als Schaft Baumstamm mit Holzhacker, als Knauf Vase mit BlumenstrauB. Im Stil des 17. Jahrh. H. 33,5 cm. 410g.",145,99.0,False,positional,,,VASI,,
+BO0624_88646,217916,88,97,"SILBERNER TRAUBENPOKAL mit Teilvergoldung, als Schaft Baumstamm mit Holzhacker, als Knauf Vase mit BlumenstrauB. Im Stil des 17. Jahrh. H. 33,5 cm. 410g.",145,99.0,False,positional,,,VASI,,Sec. XVII
 BO0624_88646,217917,89,98,"ELFENBEINHUMPEN in reliefierter,vergoldeter Fassung. Der Henkel reich geschnitzt;vielfigurliche Kriegsszene,antike Trachten; Elfenbeinhenkel. Im Barockstil. H. 19,5 cm.",146,99.1,False,positional,,,GOLDSCHMIEDEARBEITEN,,
 BO0624_88646,217918,90,11,"98a. GROSSER SILBERNER TAFELAUFSATZ,runder Sockel mit drei allegorischen",147,97.9,False,positional,,,PIATTI,,
 BO0624_88646,217919,91,12,"Frauenfiguren,darauf ovale Jardiniere auf hohem FuB,Henkel und Rand mit Rebenranken. H.52 cm. Gew. ca.5700 g.",148,98.6,False,positional,,,GOLDSCHMIEDEARBEITEN,,
 BO0624_88646,217920,92,13,99.,149,57.1,False,positional,,,GOLDSCHMIEDEARBEITEN,,
-BO0624_88646,217921,93,14,"SILBERVERGOLDETER KELCH,achtpassiger FuB, fachkugeliger Nodus,glatte Kuppa. Stifterinschrift von Balthasar Suderwaldt und Catharina Koenigma n von 1666 fur die St. Egidien-Kirche zu Sohlen. Beschauzeichen Ma g de b ur g. Meistermarke aus den Buchstaben A. M. und P. Hohe 19 cm. 24o g.",150,99.5,False,positional,,,GOLDSCHMIEDEARBEITEN,,
+BO0624_88646,217921,93,14,"SILBERVERGOLDETER KELCH,achtpassiger FuB, fachkugeliger Nodus,glatte Kuppa. Stifterinschrift von Balthasar Suderwaldt und Catharina Koenigma n von 1666 fur die St. Egidien-Kirche zu Sohlen. Beschauzeichen Ma g de b ur g. Meistermarke aus den Buchstaben A. M. und P. Hohe 19 cm. 24o g.",150,99.5,False,positional,,,GOLDSCHMIEDEARBEITEN,,Sec. XVII
 BO0624_88646,217922,94,15,uber den FuBen und auf dem Deckel je eine Borte von Schragpfeifen mit Blattwerk.,151,98.1,False,positional,,,GOLDSCHMIEDEARBEITEN,,
 BO0624_88646,217923,95,100,Stempel Stutt gart und C. T. Um 170o. H. 14 cm. 140 g.,152,96.0,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88646,217924,96,17,"Io1. SILBERVERGOLDETER KELCH auf FuB und Korb, Bandwerk auf gekorntem Grund, abwechselnd Paare von Engelskopfen und Blumen einrahmend, dreiseitiger birnformiger Knauf. Stempel Ba m berg und J. E. B. (Rosenberg 226). Anfang 18.Jahrh.H.2612 cm.615 g. Abb.Tafel8",153,99.4,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88646,217925,97,102,"SILBERVERGOLDETER POKAL,mit Deckel versehen, der eine kleine Ofnung (zum Durchziehen eines Drahtes?) hat. Hoher, gebuckelter FuB, als Schaft Putto. Die niedrige Kuppa in Form eines breiten Blumenkelches, getrieben und graviert, undeutliches Beschauzeichen und Meistermarke L. B. 17. Jahrh.H. 22 cm. 26o g.",154,99.3,False,positional,,,GOLDSCHMIEDEARBEITEN,,
+BO0624_88646,217925,97,102,"SILBERVERGOLDETER POKAL,mit Deckel versehen, der eine kleine Ofnung (zum Durchziehen eines Drahtes?) hat. Hoher, gebuckelter FuB, als Schaft Putto. Die niedrige Kuppa in Form eines breiten Blumenkelches, getrieben und graviert, undeutliches Beschauzeichen und Meistermarke L. B. 17. Jahrh.H. 22 cm. 26o g.",154,99.3,False,positional,,,GOLDSCHMIEDEARBEITEN,,Sec. XVII
 BO0624_88646,217926,98,103,"SILBERVERGOLDETER DECKELHUMPEN.Der einfache Henkel mit zwei seitiger Daumenruhe,iber dem FuB scharfer Ring,auf der Leibung Band-und Blattwerk auf Fischhautgrund. Stempel Aug sburg Hans Kolb (164o, Rosenberg²",158,99.0,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88646,217927,99,2,318).Hohe 14 cm.410 g.,159,95.2,False,positional,,,GOLDSCHMIEDEARBEITEN,,
-BO0624_88646,217928,100,3,"Deckel und Boden eingelassene Taler und Kleinmunzen,PreuBen, Brandenburg, Henneberg u.a.,im Deckel braunschweigischer anderthalbfacher Taler von 1688. Stempel: Frankfurt/Main und Meistermarke G. R.J (?). 2. Halfte 18. Jahrh. Hohe 221/2.cm.970 g. Abb.Tafel8",160,99.6,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88646,217928,100,3,"Deckel und Boden eingelassene Taler und Kleinmunzen,PreuBen, Brandenburg, Henneberg u.a.,im Deckel braunschweigischer anderthalbfacher Taler von 1688. Stempel: Frankfurt/Main und Meistermarke G. R.J (?). 2. Halfte 18. Jahrh. Hohe 221/2.cm.970 g. Abb.Tafel8",160,99.6,False,positional,,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_88646,217929,101,105,"SILBERNER DECKELHUMPEN. Schwedische Form mit breitem Henkel, drei",161,96.9,False,positional,,,GOLDSCHMIEDEARBEITEN,,
 BO0624_88646,217930,102,106,"GROSSER SILBERNER KUGELBECHER MIT DECKEL, teilvergoldet, der Deckel ganz vergoldet,umlaufende Jagdszene in hohem Relief. Auf dem Deckel groBe",166,98.6,False,positional,,,GOLDSCHMIEDEARBEITEN,,
 BO0624_88646,217931,103,I,o8. IDYLL. In einem Waldwinkel lagern und spielen fuinf nackte Kinder. Der Himmel Gold. GroBe dekorative Arbeit des Meisters. Lwd. Gr.263X235 cm. Br.R. Sign. u.dat.:Paris 75.Max L. Abb.Tafel 13,180,99.7,False,positional,MAX LIEBERMANN,,OGGETTI IN ORO,,
 BO0624_88646,217932,104,109,"GROSSES STILLEBEN mit Melone und Trauben, rechts bringt cine junge Dame in",181,97.3,False,positional,MAX LIEBERMANN,,,,
-BO0624_88646,217933,105,1,"Io. AM SCHWIELOWSEE. Kahne am Ufer mit Wiese und Wald,grauer Abendhimmel. Lwd. Gr. 68X93 cm. G.R. Rickseitig bestatigt von Karl Hagemeister als ,Ferch 1881""und mit dem NachlaBstempel. Abb.Tafel14",186,99.7,False,positional,CHARLES SCHUCH,,,,
-BO0624_88646,217934,106,1846,1903,188,61.5,False,positional,CHARLES SCHUCH,,,,
+BO0624_88646,217933,105,1,"Io. AM SCHWIELOWSEE. Kahne am Ufer mit Wiese und Wald,grauer Abendhimmel. Lwd. Gr. 68X93 cm. G.R. Rickseitig bestatigt von Karl Hagemeister als ,Ferch 1881""und mit dem NachlaBstempel. Abb.Tafel14",186,99.7,False,positional,CHARLES SCHUCH,,,,Sec. XIX
+BO0624_88646,217934,106,1846,1903,188,61.5,False,positional,CHARLES SCHUCH,,,,Sec. XX
 BO0624_88646,217935,107,1804,86,192,44.4,False,positional,LOUIS G.EUG.ISABEY,,,,
 BO0624_88646,217936,108,1,II.DAMENGESELLSCHAFT BEI STURMISCHEM WETTER AUF DEN DUNEN VON SCHEVENINGEN. Lwd. Gr.54X82 cm. G.R. Mit dem Stempel der Vente Isabey. Abb.Tafel 15,194,99.6,False,positional,LOUIS G.EUG.ISABEY,,STAMPE E INCISIONI,,
 BO0624_88646,217937,109,1841,96,198,44.4,False,positional,LUDWIG MUNTHE,,,,
-BO0624_88646,217938,110,112,HERBSTLICHE ABENDLANDSCHAFT am Niederrhein mit Kartoffelsammlern. Lwd.Gr.7oX125 cm.G.R. Sign.:L.Munthe 1871. Abb.Tafel15,200,98.3,False,positional,LUDWIG MUNTHE,,,,
+BO0624_88646,217938,110,112,HERBSTLICHE ABENDLANDSCHAFT am Niederrhein mit Kartoffelsammlern. Lwd.Gr.7oX125 cm.G.R. Sign.:L.Munthe 1871. Abb.Tafel15,200,98.3,False,positional,LUDWIG MUNTHE,,,,Sec. XIX
 BO0624_88646,217939,111,113,DIE STRAFPREDIGT DES JESAIAS. Sepia. Gr. 8oX6o cm. G.-R. Sign. 74,205,94.0,False,positional,ARTHUR KAMPF,,,,
-BO0624_88646,217940,112,114,MOSCHEE UND MINARETT: im Vordergrund Kamele und andere Staffage; Abend. Holz. Gr.31X21 cm. G-R. Sign.u. dat.: 1869.Aus Sammlung Grimaldi. 83,211,97.3,False,positional,M.FORTUNY Y CARBO,,OGGETTI IN LEGNO,COLLEZIONE GRIMALDI,
+BO0624_88646,217940,112,114,MOSCHEE UND MINARETT: im Vordergrund Kamele und andere Staffage; Abend. Holz. Gr.31X21 cm. G-R. Sign.u. dat.: 1869.Aus Sammlung Grimaldi. 83,211,97.3,False,positional,M.FORTUNY Y CARBO,,OGGETTI IN LEGNO,COLLEZIONE GRIMALDI,Sec. XIX
 BO0624_88646,217941,113,115,STILLEBEN mit Pokal und zwei Zitronen. Holz. Gr. 44X55 cm. G.-R. Oberflache leicht blasenkrank. Sign.,217,97.9,False,positional,JAN DE HEEM,,OGGETTI IN LEGNO,,
 BO0624_88646,217942,114,116,"DER HEILIGE ANTONIUS, von zwei Engeln gestutzt, erblickt Christus und Maria in der Glorie; links der Heilige vor dem Papst. Lwd. Gr. 55X86 cm. G.-R.",221,67.6,False,positional,JACOPO TINTORETTO,,,,
-BO0624_88646,217943,115,117,"MARIA MIT DEM KINDE ERSCHEINT DEN HEILIGEN ROCHUS, BENEDICT, GEORG,AUGUSTINUS UND ANDEREN. Holz. Gr.43X33 cm. G.R. 1913",228,96.0,False,positional,,VENEZIANISCHER MEISTER,OGGETTI IN LEGNO,,
+BO0624_88646,217943,115,117,"MARIA MIT DEM KINDE ERSCHEINT DEN HEILIGEN ROCHUS, BENEDICT, GEORG,AUGUSTINUS UND ANDEREN. Holz. Gr.43X33 cm. G.R. 1913",228,96.0,False,positional,,VENEZIANISCHER MEISTER,OGGETTI IN LEGNO,,Sec. XX
 BO0624_88646,217944,116,118,HOLZSUCHERINNEN IM WALDE. Lwd. Gr. 111X83 cm. G.R. Sign. 81,234,93.5,False,positional,EDUARD WEICHBERGER,,,,
 BO0624_88646,217945,117,119,KAVALIER UND DAME.Bleistift. Gr.17X13 cm. Gerahmt.,240,95.9,False,positional,GERARD TERBORGH,,,,
 BO0624_88646,217946,118,120,KUHE AUF DER WEIDE. Lwd. Gr. 55X75 cm.G.-R. Sign.,244,95.6,False,positional,H.DE PRATERE,,,,
-BO0624_88646,217947,119,121,Zweyte Ansicht des Schlosses ...von Heidelberg. Folio. S. R. 1915,248,92.2,False,positional,HALDENWANG; K. V.GRAIMBERG,,,,
-BO0624_88646,217948,120,122,HUGEL MIT BAUMEN. Blei und DeckweiB. Gr.21X29 cm. Sign.u. dat.: Tarasp 1877.,254,97.2,False,positional,PAUL MEYERHEIM,,OGGETTI IN PIOMBO,,
-BO0624_88646,217949,121,123,"FLAMISCHER GOBELIN, Verdure, Wolle und Seide, Baumlandschaft mit Durchblick, im Vordergrund ruhende Gesellschaft in der Art von Teniers, Blumenborte. Erste Halfte 18. Jahrh. Gr.298X215 cm. (Reparaturen.)",260,84.6,False,title_direct,TENIERS DAVID IL GIOVANE,,GOBELINS,,
-BO0624_88646,217950,122,124,"DESGLEICHEN. Ahnliche Darstellung, das Laub reich abschattiert,im Hintergrund eine Kirche, yorn grobe Blattpfanzen und drei rauchende Bauern. Anfang 18. Jahrh. Borte neu.Gr.296X218 cm.",262,98.9,False,positional,,,GOBELINS,,
+BO0624_88646,217947,119,121,Zweyte Ansicht des Schlosses ...von Heidelberg. Folio. S. R. 1915,248,92.2,False,positional,HALDENWANG; K. V.GRAIMBERG,,,,Sec. XX
+BO0624_88646,217948,120,122,HUGEL MIT BAUMEN. Blei und DeckweiB. Gr.21X29 cm. Sign.u. dat.: Tarasp 1877.,254,97.2,False,positional,PAUL MEYERHEIM,,OGGETTI IN PIOMBO,,Sec. XIX
+BO0624_88646,217949,121,123,"FLAMISCHER GOBELIN, Verdure, Wolle und Seide, Baumlandschaft mit Durchblick, im Vordergrund ruhende Gesellschaft in der Art von Teniers, Blumenborte. Erste Halfte 18. Jahrh. Gr.298X215 cm. (Reparaturen.)",260,84.6,False,title_direct,TENIERS DAVID IL GIOVANE,,GOBELINS,,Sec. XVIII
+BO0624_88646,217950,122,124,"DESGLEICHEN. Ahnliche Darstellung, das Laub reich abschattiert,im Hintergrund eine Kirche, yorn grobe Blattpfanzen und drei rauchende Bauern. Anfang 18. Jahrh. Borte neu.Gr.296X218 cm.",262,98.9,False,positional,,,GOBELINS,,Sec. XVIII
 BO0624_88646,217951,123,125,"DESGLEICHEN. Blumenlandschaft mit Durchblick, der auf ein SchloB fuhrt,im Mittelgrund drei Knaben und ein kleines Madchen auf der Wippe. Blumenborte. Zweite Ha1fte 17.Jahrh.Gr.308X288 cm. Abb.Tafel 11",263,99.0,False,positional,,,GOBELINS,,
-BO0624_88646,217952,124,126,"BRUSSELER GOBELIN, Wolle und Seide. Der Triumphzug Caesars. Die (gestuckelte) Borte aus Blumen und Waffen, mit Rest einer Wirkersignatur. Farbenreiche Ausfihrung. Erste Halfte 17. Jahrh. Gr.29oX34o cm. Abb.Tafel10",264,99.0,False,title_direct,,,GOBELINS,,
+BO0624_88646,217952,124,126,"BRUSSELER GOBELIN, Wolle und Seide. Der Triumphzug Caesars. Die (gestuckelte) Borte aus Blumen und Waffen, mit Rest einer Wirkersignatur. Farbenreiche Ausfihrung. Erste Halfte 17. Jahrh. Gr.29oX34o cm. Abb.Tafel10",264,99.0,False,title_direct,,,GOBELINS,,Sec. XVII
 BO0624_88646,217953,125,3,127.,265,75.0,False,positional,,,GOBELINS,,
 BO0624_88646,217954,126,4,DESGLEICHEN. Fragment aus derselben Folge wie Nummer 126. Gruppe von Musikanten und Zuschauern vor der Statue einer Gottin. Gr. 195X12o cm.,266,99.3,False,positional,,,OGGETTI VARI,,
 BO0624_88646,217955,127,128,"FRANZOSISCHER GOBELIN,zwei Frauenfiguren in antiker Gewandung stehen vor einer Baumgruppe. Im Hintergrund links Baume, rechts weite Hugellandschaft. Ende 18.Jahrh.Gr.233X163 cm. Abb.Tafel 12",267,98.9,False,title_direct,,,GOBELINS,,
@@ -130,13 +130,13 @@ BO0624_88646,217956,128,6,"129.1 FLAMISCHER GOBELIN,Verdure, Wolle und Seide. Du
 BO0624_88646,217957,129,7,"auf ein Schlob. Im Vordergrund bluhende Blattpfanze. Borte aus Blumen, Vasen und Bandschleifen. 18.Jahrh. Gr.265X140 cm.",269,99.1,False,positional,,,VASI,,
 BO0624_88646,217958,130,130,"DESGLEICHEN, Verdure, Wolle und Seide:Baumgruppe in Landschaft,im Hintergrund ein SchloB. An den Schmalseiten Borte aus Blumen und Bandschleifen. Ende 17.Jahrh. Gr.240X8o cm.",270,98.8,False,positional,,,GOBELINS,,
 BO0624_88646,217959,131,131,"HOLZRELIEF, Eiche: Drei musizierende Frauen in Landschaft,rechts im Wasser Triton und Nereide, dariber auf Wolken im Sonnenwagen Helios mit einer Nymphe. F1amisch,um 16oo. Gr.33X47 cm.",278,90.0,False,positional,,,BILDWERKE,,
-BO0624_88646,217960,132,132,"ITALIENISCHE BRONZEBUSTE, vergoldet. Junge Frau in fein gefaltetem Gewand, mit Kopftuch, nach links blickend, runder Sockel auf Plinthe. 16. Jahrh. H.26 cm. Abb.Tafel7",280,98.8,False,title_direct,,,BRONZEN,,
+BO0624_88646,217960,132,132,"ITALIENISCHE BRONZEBUSTE, vergoldet. Junge Frau in fein gefaltetem Gewand, mit Kopftuch, nach links blickend, runder Sockel auf Plinthe. 16. Jahrh. H.26 cm. Abb.Tafel7",280,98.8,False,title_direct,,,BRONZEN,,Sec. XVI
 BO0624_88646,217961,133,4,133.,281,75.0,False,positional,,,BILDWERKE,,
-BO0624_88646,217962,134,5,"STEINSKULPTUR, Schlu B s tein; rund, Rand profiliert. Allegorische Frauenfigur (Brustbild) in weitarmeligem Gewand, die Haare auf die Schultern herabfallend. Deutsch, erste Halfte 16. Jahrh. Durchm. 23 cm.",282,99.5,False,positional,,,BILDWERKE,,
+BO0624_88646,217962,134,5,"STEINSKULPTUR, Schlu B s tein; rund, Rand profiliert. Allegorische Frauenfigur (Brustbild) in weitarmeligem Gewand, die Haare auf die Schultern herabfallend. Deutsch, erste Halfte 16. Jahrh. Durchm. 23 cm.",282,99.5,False,positional,,,BILDWERKE,,Sec. XVI
 BO0624_88646,217963,135,134,MARMORBUSTE auf rechteckigem Sockel. Junge Frau mit Diadem. Bez.: Gno Rossi. H.32 cm.,283,97.5,False,positional,,,BILDWERKE,,
 BO0624_88646,217964,136,135,"FLORENTINER STUCKBUSTE,bemalt: Giovannino,in harenem Hemd und rotem Mantel,profilierter Sockel. H. 39 cm. Abb.Tafel7",284,98.2,False,positional,,,BILDWERKE,,
 BO0624_88646,217965,137,136,"MARMORBUSTE, jugendlicher Bacch u s, mit Bocksfell, im Haar einen Rebenkranz. Ita1ienis ch,16. Jahrh. H. 23 cm. Abb.Tafel7",285,98.3,False,positional,,,BILDWERKE,,
-BO0624_88646,217966,138,137,"VENEZIANISCH6 BRONZEBUSTE,Bacchantin, verzuckt nach oben blickend,um Schulter und Brust Rebenranken. Zweite Halfte 16. Jahrh. H. 13,5 cm. Auf hohem Marmorsockel. Abb.Tafel7",286,98.8,False,title_direct,,,BRONZEN,,
+BO0624_88646,217966,138,137,"VENEZIANISCH6 BRONZEBUSTE,Bacchantin, verzuckt nach oben blickend,um Schulter und Brust Rebenranken. Zweite Halfte 16. Jahrh. H. 13,5 cm. Auf hohem Marmorsockel. Abb.Tafel7",286,98.8,False,title_direct,,,BRONZEN,,Sec. XVI
 BO0624_88646,217967,139,139,"MARMORSKULPTUR,Fragment,Jing lin g skopf,Kopie der romischen Kaiserzeit nach einem griechischen Original des 4. Jahrh. v. Chr. H. 16 cm.Marmorsockel.(Reparaturen.) Abb.Tafel7",289,98.8,False,positional,,,BILDWERKE,,
 BO0624_88646,217968,140,140,"EMPIREBRONZE: Kronos, gefugelt, in der Rechten eine Schlange,nach links laufend;als Standflache Wolken. Oben Standring fur ein Gerat. H.2o cm. Gelber",290,98.6,False,title_direct,,,BRONZEN,,
 BO0624_88646,217969,141,141,"GROSSE BRONZE, Aktfgur, junges Madchen als Schlangenbandigerin, in den drei",292,97.3,False,title_direct,,,BRONZEN,,
@@ -146,7 +146,7 @@ BO0624_88646,217972,144,144,"FAMILLE-ROSE-GRUPPE, zwei spielende Knaben, auf Fel
 BO0624_88646,217973,145,145,"DESGLEICHEN, ebenso, die Bemalung abweichend.",303,95.5,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217974,146,146,"TAOISTISCHE GOTTHEIT,sitzend. Blanc de Chine. H. 22 cm.",304,96.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217975,147,5,"I47. BLANC-DE-CHINE-FIGUR mit grinlicher Glasur, stehende mannliche Gottheit auf",305,98.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,217976,148,6,"Wellensockel. 18. Jahrh. H. 19,5 cm.(Geringfugige Reparatur.)",306,98.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
+BO0624_88646,217976,148,6,"Wellensockel. 18. Jahrh. H. 19,5 cm.(Geringfugige Reparatur.)",306,98.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,Sec. XVIII
 BO0624_88646,217977,149,148,KUAN-YIN mit ihrem.Begleiter Shan Tsai. Blanc de Chine. H. 25 cm.,307,96.8,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217978,150,149,"JAPANBRONZE. GroBer Zweig mit Blattern und Finffingerfrichten, oben sitzt ein Goldfasan. Sockel auf vier Beinen. H. 37 cm.",308,98.3,False,title_direct,,,BRONZEN,,
 BO0624_88646,217979,151,150,"DESGLEICHEN, ahnlich. Zweig mit Aubergine-Frucht. H. 37 cm.",309,96.4,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
@@ -154,39 +154,39 @@ BO0624_88646,217980,152,151,"CLOISONNEVASE,vierkantig,reiche landschaftliche Dar
 BO0624_88646,217981,153,11,152.,311,66.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217982,154,12,"SILBER-CLOISONNEVASCHEN,z.T. durchbrochen, der reiche Emaildekor fach und in Relief.",312,98.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217983,155,153,"FLORENTINER RENAISSANCEKABINETT, NuBbaum, Unterteil einturig, dar- uber Schubkasten, Oberteil mit Klapplatte, die mit Eisenbeschlag und einem Wappen versehen ist. Im Gesims Schubkasten; das Innere mit Turchen und Schubkasten, sehr reich geschnitzt, mit z. T. ibereinandergestellten vollrunden Figuren.. H. 156 cm, Br.75cm,T.37 cm.",314,88.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,217984,156,154,"NORDDEUTSCHER WANDSCHRANK, Eiche,aus alten und neuen Teilen, drei turig. Der Schrankkorper wie das konsolartige Unterteil durch vier Hermen bzw. Szenen. Hermen und Figuren vollrund. 16. bis 17. Jahrh. H. 116 cm.",315,99.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
+BO0624_88646,217984,156,154,"NORDDEUTSCHER WANDSCHRANK, Eiche,aus alten und neuen Teilen, drei turig. Der Schrankkorper wie das konsolartige Unterteil durch vier Hermen bzw. Szenen. Hermen und Figuren vollrund. 16. bis 17. Jahrh. H. 116 cm.",315,99.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,Sec. XVII
 BO0624_88646,217985,157,2,155.,316,75.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,217986,158,3,"EIN PAAR BLANC-DE-CHINE-FIGUREN. Sitzende Fo-Hunde auf durchbrochenen, sechseckigen Sockeln. 18. Jahrh. H. 2o cm. (Ein Schwanz gekittet.)",317,99.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
+BO0624_88646,217986,158,3,"EIN PAAR BLANC-DE-CHINE-FIGUREN. Sitzende Fo-Hunde auf durchbrochenen, sechseckigen Sockeln. 18. Jahrh. H. 2o cm. (Ein Schwanz gekittet.)",317,99.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,Sec. XVIII
 BO0624_88646,217987,159,4,"GROSSE WANDVITRINE, Mahagoni, mit Schiebetiren, dreiseitig verglast, mit 156. Spiegelrickwand und acht Glasstandplatten. Sockel mit zwei Schubkasten. H. 18o cm,",318,99.3,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217988,160,5,"Br.192cm,T.50cm.",319,93.8,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217989,161,157,"DESGLEICHEN,ahnlich. H. 200 cm, Br.162 cm, T. 50 cm. MAHAGONIVITRINE,Tischgestell mit Zwischenboden,vierseitig verglast,mit zwei",321,76.4,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217990,162,158,"Glasstandplatten. H.16o cm,Lg.95 cm, Br.48 cm.",322,95.6,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,217991,163,159,"KAMINUHR, weiber Marmor mit Bronze,groBtenteils vergoldet. Zwei Pfeiler mit Frauenhermen auf Sockel tragen das Gehause. Als Bekronung Sphinxpaar und Adler. Reicher Beschlag.Im Sockel Puttenplakette. Franzosisch, Anfang 19. Jahrh. H.63 cm. Abb.Tafel9",323,99.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,217992,164,10,"16o-61. EIN PAAR BRONZEKANDELABER, fuinfkerzig. mitgebogenen Armen. Viktorien auf Saulensockeln tragen die Leuchterarme. Figuren braun patiniert, sonst vergoldet. Franzosisch,Anfang 19. Jahrh. Abb.Tafelg",324,99.2,False,title_direct,,,BRONZEN,,
+BO0624_88646,217991,163,159,"KAMINUHR, weiber Marmor mit Bronze,groBtenteils vergoldet. Zwei Pfeiler mit Frauenhermen auf Sockel tragen das Gehause. Als Bekronung Sphinxpaar und Adler. Reicher Beschlag.Im Sockel Puttenplakette. Franzosisch, Anfang 19. Jahrh. H.63 cm. Abb.Tafel9",323,99.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,Sec. XIX
+BO0624_88646,217992,164,10,"16o-61. EIN PAAR BRONZEKANDELABER, fuinfkerzig. mitgebogenen Armen. Viktorien auf Saulensockeln tragen die Leuchterarme. Figuren braun patiniert, sonst vergoldet. Franzosisch,Anfang 19. Jahrh. Abb.Tafelg",324,99.2,False,title_direct,,,BRONZEN,,Sec. XIX
 BO0624_88646,217993,165,162,"GROSSE KAMINUHR, das hohe,rechteckige Gehause mit Ma1achitbelag. Der Sockel auf MaskenfiBen, das Zifferblatt und die Bekronungsfigur (trauernde Nymphe) Bronze, vergoldet. Bez.: Gau dron a Paris. H. 84 cm. Abb.Tafel9",325,99.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217994,166,163,"ITALIENISCHES RENAISSANCEBUFETT,halbhoch,zweitirig,mit fachen Eck- pilastern und Schlagleiste,im Gesims drei groBe und zwei kleine Schubkasten, KlauenfuBe. Lg.175 cm, H.120 cm,T.56 cm.",327,77.3,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217995,167,164,"BOULLE-UHR auf Wandsockel, geschweifte Rokokoform, sehr reicher Bronzebeschlag: Jager und Jagdtiere,als Bekronungsfigur ein Jagdhornblaser. Auf hohem Pfeilerpostament.Gesamth.226 cm.",328,98.9,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217996,168,15,165.,329,66.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,217997,169,16,"WANDFRIES, durchbrochene Holzschnitzerei. Sieben Heilige in Landschaft. Helles Holz.China.135X45 cm.Gerahmt.",330,98.6,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88646,217998,170,166,"GROSSE HOLZSCHNITZEREI,Bekronungsstick:Mythologische Darstellung:vier Gotterfiguren und zwei Adoranten in reichem Band- und Laubwerk,als Mittelstick groBe Blumenvase. Vergoldet, z. T. mit Spiegelbelag. B ir m a, 18. Jahrh. 1ooX19o cm.",331,99.1,False,title_direct,,,HOLZSCHNITZEREIEN,,
+BO0624_88646,217998,170,166,"GROSSE HOLZSCHNITZEREI,Bekronungsstick:Mythologische Darstellung:vier Gotterfiguren und zwei Adoranten in reichem Band- und Laubwerk,als Mittelstick groBe Blumenvase. Vergoldet, z. T. mit Spiegelbelag. B ir m a, 18. Jahrh. 1ooX19o cm.",331,99.1,False,title_direct,,,HOLZSCHNITZEREIEN,,Sec. XVIII
 BO0624_88646,217999,171,167,"WANDFRIES, durchbrochene Holzschnitzerei; braun gestrichen, groBe blihende Pfanzen und zwei Fo-Hunde. Japan. 5oX153 cm. (Beschadigt.)",332,98.4,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218000,172,168,"DESGLEICHEN,ahnlich.Vergoldet. 4oX102 cm.",333,95.1,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,218001,173,169,"FAYENCESCHUSSEL, tiefe Form, Dekor in Blau, Grun und Gelb, in vier Zonen Wellenranken mit Granatapfeln und biblische Inschrift mit dem Namen Bar bara Sos sen geb. v. Luck, und der Jahreszahl 1658. Auf dem Umbo gefligelter Engelskopf in Relief. Sch le si s che Arbeit. Durchm. 41 cm. (Gekittet.)",334,85.9,False,title_direct,,,FAYENCEN,,
-BO0624_88646,218002,174,170,"BUNTGLASIERTE SCHUSSEL, Haf nerar beit. Facherformig mit nach unten gebogenem Rand, in der Mitte Fruchte, auf den einzelnen Randfeldern groBe Blumen in Relief; Glasurfarben: Grun, Blau, Mangan und Gelb, Grund weib. Su d d e u t s c h, erste Halfte 17. Jahrh. Durchm. 31 cm.",336,92.0,False,title_direct,,,SCATOLE,,
-BO0624_88646,218003,175,171,"FAYENCE-FACHERSCHUSSEL,Rand achtteilig. Dekor in blassem Blau: Chinesen in Landschaft und Blutenranken. Fra n kfurt oder Ha nau, Anfang 18. Jahrh. Durchm.35 cm.(Gesprungen.)",338,98.8,False,title_direct,,,FAYENCEN,,
+BO0624_88646,218001,173,169,"FAYENCESCHUSSEL, tiefe Form, Dekor in Blau, Grun und Gelb, in vier Zonen Wellenranken mit Granatapfeln und biblische Inschrift mit dem Namen Bar bara Sos sen geb. v. Luck, und der Jahreszahl 1658. Auf dem Umbo gefligelter Engelskopf in Relief. Sch le si s che Arbeit. Durchm. 41 cm. (Gekittet.)",334,85.9,False,title_direct,,,FAYENCEN,,Sec. XVII
+BO0624_88646,218002,174,170,"BUNTGLASIERTE SCHUSSEL, Haf nerar beit. Facherformig mit nach unten gebogenem Rand, in der Mitte Fruchte, auf den einzelnen Randfeldern groBe Blumen in Relief; Glasurfarben: Grun, Blau, Mangan und Gelb, Grund weib. Su d d e u t s c h, erste Halfte 17. Jahrh. Durchm. 31 cm.",336,92.0,False,title_direct,,,SCATOLE,,Sec. XVII
+BO0624_88646,218003,175,171,"FAYENCE-FACHERSCHUSSEL,Rand achtteilig. Dekor in blassem Blau: Chinesen in Landschaft und Blutenranken. Fra n kfurt oder Ha nau, Anfang 18. Jahrh. Durchm.35 cm.(Gesprungen.)",338,98.8,False,title_direct,,,FAYENCEN,,Sec. XVIII
 BO0624_88646,218004,176,172,"WANDFRIES, durchbrochene Holzschnitzerei in hohem Relief, bunt bemalt und vergoldet. China. 25X185 cm.",339,98.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218005,177,173,"DESGLEICHEN, Holzschnitzerei,z. T. durchbrochen, mehrfarbig vergoldet, ein grobes und zwei kleinere Rechteckfelder mit Wolken, Laubwerk, Blumen und Vogeln,",340,98.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218006,178,6,unten mit geschnitzter Leiste abgeschlossen. Japan. 4ooX7o cm.,341,98.3,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218007,179,7,174.,342,75.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218008,180,8,"DREITEILIGER PARAVENT,als Bespannung orientalische Stickereien in Gold und Silber auf Samt.",343,98.9,False,positional,,,ARREDAMENTI,,
 BO0624_88646,218009,181,9,175.,344,75.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,218010,182,10,"FAYENCESCHUSSEL,kleistergraue Glasur, Blaudekor. Dichtes Muster aus Blumen, Vogeln und Punktgruppen. Sid deuts ch, Anfang 18. Jahrh. Durchm. 32 cm. (Gesprungen.)",345,99.0,False,title_direct,,,FAYENCEN,,
+BO0624_88646,218010,182,10,"FAYENCESCHUSSEL,kleistergraue Glasur, Blaudekor. Dichtes Muster aus Blumen, Vogeln und Punktgruppen. Sid deuts ch, Anfang 18. Jahrh. Durchm. 32 cm. (Gesprungen.)",345,99.0,False,title_direct,,,FAYENCEN,,Sec. XVIII
 BO0624_88646,218011,183,176,"SIEGBURGER SCHNELLE,weiB,mit drei Reliefbelagen,Manner,in ganzer Figur in reicher Zeittracht. (Justitia,Pax,Veritas);reiche Umrahmungen. Zweite Haifte",346,98.6,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218012,184,12,16.Jahrh.Zinndeckel.H.26 cm.(Sprung.),347,95.8,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218013,185,13,"FAYENCE-DECKELTERRINE.Kleistergraue Glasur,mit groBen deutschen Blumen in Mangan. Als Deckelknauf Quittenzweig. Marke: Vogelklaue, darunter die Zahl 29.",348,99.0,False,title_direct,,,FAYENCEN,,
 BO0624_88646,218014,186,14,"177.1 Deuts ch,18. Jahrh. H. 26 cm. (Gekittet und beschadigt.)",349,97.3,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218015,187,15,178.,350,66.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,218016,188,16,"GROSSE VENEZIANISCHE MAJOLIKASCHUSSEL,Trophaen und alla porcellana-Ranken in Blau und ein Putto in Gelb und Grin. 16. Jahrh. Durchm. 49 cm. (Gekittet.)",351,99.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
+BO0624_88646,218016,188,16,"GROSSE VENEZIANISCHE MAJOLIKASCHUSSEL,Trophaen und alla porcellana-Ranken in Blau und ein Putto in Gelb und Grin. 16. Jahrh. Durchm. 49 cm. (Gekittet.)",351,99.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,Sec. XVI
 BO0624_88646,218017,189,17,179.,352,66.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218018,190,18,"GROSSES BRONZERELIEF,bez.:A1bert Hinrich Hu s smann,zwei nackte Reiter im Galopp naeh rechts. 75X1o5 cm.",353,98.5,False,title_direct,,,BRONZEN,,
 BO0624_88646,218019,191,19,"18o. GROSSER EMPIRETISCH,holzgeschnitzt und vergoldet, vier schwere Pfeilerbeine, Zarge mit vertieften Feldern und Rosetten, weiBe, grau geaderte Marmorplatte. PlattengroBe 8oX16o cm.",354,99.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
@@ -196,13 +196,13 @@ BO0624_88646,218022,194,22,mit weiB geaderter roter Marmorplatte. H. 7o cm.,357,
 BO0624_88646,218023,195,23,"183-84. EIN PAAR POLSTERSESSEL,als Bezug orientalische Stickerei, mit groBem Blumenmuster in bunter Seide bzw. fir den Korper der Sessel brauner Samt.",358,99.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218024,196,24,185.,359,66.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218025,197,25,"OVALER LOUIS XVI-TISCH,Mahagoni,auf vier Pfeilerbeinen, mit Messinglinien und Beschlag. Ein Schubkasten.",360,98.5,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,218026,198,186,"MEZZAMAJOLIKASCHUSSEL,mit einem kleinen Napf in der Mitte. Hellbraune Glasur, Dekor in Grin und dunklerem Braun, geritzt: grobe Blattrosette. Italien, 18. Jahrh. Durchm.29 cm.(Springe.)",362,75.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,218027,199,187,"MAJOLIKA SALZFASS, bemalt in den typischen Scharfeuerfarben. Hoher Sockel, drei hockende Satyrn stutzen den Behalter. Oberita1ien, 17. Jahrh. H. 18 cm.",364,66.4,False,positional,,,OGGETTI VARI,,
-BO0624_88646,218028,200,188,"MAJOLIKAVASE, bauchige Balusterform. GroBes Blattwerk mit Blumen in Grun, Gelb und Ocker auf Blau,aus dem Spiralranken ausgehoben sind; vorn Rundfeld mit einem hl. Monch in ganzer Figur. Vene di g, 16. Jahrh. H. 28 cm. (Hals repariert.)",365,99.1,False,positional,HALS DIRK,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
+BO0624_88646,218026,198,186,"MEZZAMAJOLIKASCHUSSEL,mit einem kleinen Napf in der Mitte. Hellbraune Glasur, Dekor in Grin und dunklerem Braun, geritzt: grobe Blattrosette. Italien, 18. Jahrh. Durchm.29 cm.(Springe.)",362,75.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,Sec. XVIII
+BO0624_88646,218027,199,187,"MAJOLIKA SALZFASS, bemalt in den typischen Scharfeuerfarben. Hoher Sockel, drei hockende Satyrn stutzen den Behalter. Oberita1ien, 17. Jahrh. H. 18 cm.",364,66.4,False,positional,,,OGGETTI VARI,,Sec. XVII
+BO0624_88646,218028,200,188,"MAJOLIKAVASE, bauchige Balusterform. GroBes Blattwerk mit Blumen in Grun, Gelb und Ocker auf Blau,aus dem Spiralranken ausgehoben sind; vorn Rundfeld mit einem hl. Monch in ganzer Figur. Vene di g, 16. Jahrh. H. 28 cm. (Hals repariert.)",365,99.1,False,positional,HALS DIRK,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,Sec. XVI
 BO0624_88646,218029,201,189,"ALABASTERSCHALE, fach gewolbte Form. Von gelblicher Farbe mit hellerem,",366,97.1,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218030,202,5,wolkigem Streifen.,367,94.4,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218031,203,6,19o. RHODOSFLIESE. Teil eines groBen Musters aus Palmettenzweigen in bandumrahm-,368,98.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,218032,204,7,"ten Feldern; typische Farben, mit Rot. Kleinasien. Erste Halfte 17. Jahrh. 21X26 cm. (Gekittet.)",369,98.9,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
+BO0624_88646,218032,204,7,"ten Feldern; typische Farben, mit Rot. Kleinasien. Erste Halfte 17. Jahrh. 21X26 cm. (Gekittet.)",369,98.9,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,Sec. XVII
 BO0624_88646,218033,205,8,"191-92. ZWEI AGYPTISCHE FRAGMENTE, Kopfe. a) Basalt, b) Maske aus Ton.",370,98.4,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218034,206,193,H.11 cm.(Gekittet.) Holzsockel.,381,93.1,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218035,207,194,"AMETHYST-VASCHEN, kugelige Form, auf durchbrochen geschnittenem Frucht-",382,97.1,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
@@ -212,7 +212,7 @@ BO0624_88646,218038,210,197,"- CORNALINVASCHEN, grau-weiB, teilweise hellbraun m
 BO0624_88646,218039,211,198,"KARPFEN, aus Bergkristall geschnitten. China. Lg. 8 cm.",390,96.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218040,212,199,"- OKIMONO aus zwei Lapislazulisticken, einen vielfach durchlocherten Felsen darstellend.H.29 cm.Holzsockel.",392,100.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218041,213,200,"- VOGEL AUF ZWEIG, aus Amethyst geschnitten. China. H. 75 cm.",394,100.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,218042,214,201,"- VASE aus rotem Marmor, Reliefdekor aus blihenden Zweigen und Vogeln mit Resten von Vergoldung. Japan. H. 25 cm.(Gekittet.) a.FOHUND AUS JADE, liegend, mit einem Zweig im Maul, seifenfarbig. China, 18. Jahrh. Lg.8 cm. Holzsockel.",396,70.3,False,positional,,,VASI,,
+BO0624_88646,218042,214,201,"- VASE aus rotem Marmor, Reliefdekor aus blihenden Zweigen und Vogeln mit Resten von Vergoldung. Japan. H. 25 cm.(Gekittet.) a.FOHUND AUS JADE, liegend, mit einem Zweig im Maul, seifenfarbig. China, 18. Jahrh. Lg.8 cm. Holzsockel.",396,70.3,False,positional,,,VASI,,Sec. XVIII
 BO0624_88646,218043,215,202,"VOGEL AUF FELSEN. Chalcedon, graublau. H. 16 cm. Abb.Tafel5",398,96.4,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218044,216,203,"VOGEL, stehend, mit angezogenem Bein (Kranich?). Chalcedon. H. 14 cm.",399,96.8,False,positional,,,OGGETTI VARI,,
 BO0624_88646,218045,217,2,Abb.Tafel 5,400,91.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
@@ -225,9 +225,9 @@ BO0624_88646,218051,223,207,"JADESCHNALLE,weiB, vierpassig;mit Schildkrote und S
 BO0624_88646,218052,224,208,"JADEPLATTE, oval, seifenfarbig. Geschnitten: Heilige in Landschaft. China. Durchm.12 cm. Abb.Tafel5",408,97.9,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218053,225,11,209.,409,66.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218054,226,12,"JADESCHNITZEREI von grau-violetter Farbe: Funffingerfrucht, der Stengel mit Blattern und Bliten.China,18. Jahrh.Lg. 1o cm. Abb.Tafel5",410,98.8,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,218055,227,210,"JADESCHEIBE. Dekor aus Ranken und Ornamenten. Hellgriner Stein mit braunen und schwarzen Flecken, versintert. China.Durchm. 1512 cm. Holzgestell.",411,98.6,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
+BO0624_88646,218055,227,210,"JADESCHEIBE. Dekor aus Ranken und Ornamenten. Hellgriner Stein mit braunen und schwarzen Flecken, versintert. China.Durchm. 1512 cm. Holzgestell.",411,98.6,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,Sec. XVI
 BO0624_88646,218056,228,14,211.,412,66.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,218057,229,15,"TAOISTISCHE FIGUR,Chalcedon, graublau. H.1912 cm. Abb.Tafel5",413,97.4,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
+BO0624_88646,218057,229,15,"TAOISTISCHE FIGUR,Chalcedon, graublau. H.1912 cm. Abb.Tafel5",413,97.4,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,Sec. XX
 BO0624_88646,218058,230,212,KLEINE AMETHYSTVASE mit Deckel. Vorn tiefgeschnittener Fruchtzweig. China. H.712 cm. Abb.Tafel5,414,97.8,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218059,231,213,LIEGENDER STIER. Aus mehrfarbig geadertem Achat. China. Lg. 14 cm. Holz- sockel. Abb.Tafel 5,415,85.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88646,218060,232,214,"BERGKRISTALLVASE mit Deckel. Abgefachte Form, geschnittener Dekor: stilisierte Drachen in Rundfeldern,Blattkranz, Meanderborten;Griffe in Drachenform. China,18. Jahrh. H.22 cm. Abb.Tafel5",417,98.9,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
@@ -281,7 +281,7 @@ BO0624_88646,218107,279,254,fassung. H. 7 cm. Abb.Tafel1,477,92.6,False,position
 BO0624_88646,218108,280,255,"PORZELLAN, gelb, craquele. Gruner Jadestopsel. H. 7 cm.",478,96.1,False,title_direct,,,PORZELLAN,,
 BO0624_88646,218109,281,256,"JADE, hellgrau, mit Landschaft. H. 612 cm.",479,94.9,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218110,282,257,"LAPISLAZULI, dunkel Blauviolett. Ringhenkel. H.512 cm.",480,96.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
-BO0624_88646,218111,283,258,"GLAS,rubinrot. Tierkopfhenkel. H.1112 cm.",481,95.0,False,title_direct,,,GLAS,,
+BO0624_88646,218111,283,258,"GLAS,rubinrot. Tierkopfhenkel. H.1112 cm.",481,95.0,False,title_direct,,,GLAS,,Sec. XII
 BO0624_88646,218112,284,259,"LAPISLAZULI, blau-braun. In Form einer Fingerfrucht mit Blattern. H. 5 cm.",482,97.2,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218113,285,21,260.,483,66.7,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218114,286,22,BERGKRISTALL. Form eines Flaschenkirbis mit Blatterranken. Korallenstopsel. H.7 cm.,484,98.1,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
@@ -321,7 +321,7 @@ BO0624_88646,218147,319,292,"GLAS, weiB, roter Uberfang. Fledermause. H.6 cm.",5
 BO0624_88646,218148,320,293,"PORZELLAN, preuBischblau. Drache und Phonix in Wolken in starkem Relief. H.8,5cm. Abb.Tafela",520,97.8,False,title_direct,,,PORZELLAN,,
 BO0624_88646,218149,321,294,"GLAS, von innen gemalt. Europaisches Stadtebild. Modern. Bez.: T'ang Tzu-ch'uan. H.7,5 cm.",521,91.8,False,title_direct,,,GLAS,,
 BO0624_88646,218150,322,295,"PORZELLAN, spielende Kinder in mehreren Farben, an den Schmalseiten Ornament in Unterglasurblau und Gold. Griner Jadestopsel. Flache Form. Marke Ch'ien Lung. H.6,5cm.",523,96.2,False,title_direct,,,OGGETTI IN ORO,,
-BO0624_88646,218151,323,296,"BERGKRISTAL,geschnitten. Casarenkopf nach europaischer Minze von 1785. Chinesische Schriftzeichen. H. 6 cm. PORZELLAN, gelber Grund. Pfaumenbaum in Relief in Griin und blassem Aubergine. Abb.Tafel2",525,69.2,False,title_direct,,,PORZELLAN,,
+BO0624_88646,218151,323,296,"BERGKRISTAL,geschnitten. Casarenkopf nach europaischer Minze von 1785. Chinesische Schriftzeichen. H. 6 cm. PORZELLAN, gelber Grund. Pfaumenbaum in Relief in Griin und blassem Aubergine. Abb.Tafel2",525,69.2,False,title_direct,,,PORZELLAN,,Sec. XVIII
 BO0624_88646,218152,324,297,"Zylindrische Form.H.8,5 cm. METALL, bemalt, schwarzes Ornament. Reserven mit je zwei Halbfiguren, farbig.",528,83.9,False,positional,,,OGGETTI IN METALLO,,
 BO0624_88646,218153,325,298,"H.6,5 cm.",529,80.0,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
 BO0624_88646,218154,326,299,"JADE, graugelb mit braunen Flocken, geschnitten. Vogel unter Kiefer. Rosa Beinstopsel.H.7,5 cm. Abb.TafelI",530,98.1,False,positional,,,MOBEL; HOLZSCHNITZEREIEN; PORZELLAN; FAYENCEN,,
@@ -403,34 +403,34 @@ BO0624_88646,218229,401,399,PERSISCHE FAYENCE-FLIESE. Darstellung eines Hoffeste
 BO0624_88646,218230,402,40,"o-o2.DREI AGYPTISCHE BRONZEN, Gotter- und Portratstatuetten.",626,98.3,False,title_direct,,,BRONZEN,,
 BO0624_88646,218231,403,403,"04. ZWEI MAJOLIKA-FLIESEN:a) persisch, Bandwerk mit Blumen (gekittet); b)Kachel, spanisch,mehrfarbiger Reliefdekor.",627,98.2,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218232,404,405,o7. KONVOLUT: Bronze-Tischlampe und zwei Petroleumlampen ohne FuB.,628,96.9,False,positional,,,PERSERTEPPICHE; KELIMS,,
-BO0624_88646,218233,405,408,"og. ZWEI ALTE ZINNSCHUSSELN: a) mit Bergimannswappen in Relief und der Jahreszahl 1765,b) mit groBer Wirbelrosette.",629,98.2,False,positional,,,PERSERTEPPICHE; KELIMS,,
+BO0624_88646,218233,405,408,"og. ZWEI ALTE ZINNSCHUSSELN: a) mit Bergimannswappen in Relief und der Jahreszahl 1765,b) mit groBer Wirbelrosette.",629,98.2,False,positional,,,PERSERTEPPICHE; KELIMS,,Sec. XVIII
 BO0624_88646,218234,406,410,"11. ZWEI KLEINE VASCHEN: a) graue gekrackte Glasur, ostasiatisch; b) braune Glasur mit Uberlauf, franzosisch (Delaherche).",630,98.2,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218235,407,412,"13. KORO, Steinzeug,mit bunten Glasuren, sechseckige Form,auf dem Deckel Fabeltier.-Hierzu Chinav aschen mit grunlicher Glasur.",631,98.4,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218236,408,415,"16. ZWEI KLEINE VASCHEN: a) persisch, mit blauen Arabeskenblattern, Henke! fehit; b) japanisch, reliefiert und grun glasiert.",632,98.3,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218237,409,417,"SILBERNES OPIUMDOSCHEN, reliefiert, als Deckelknauf Fohund. Japan.",633,96.9,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218238,410,418,"ANTIKE VASE, Krugform, schwarz gefirnibt, Schulter rot belassen. H. 16 cm. (Sprung.)",634,97.4,False,positional,,,VASI,,
 BO0624_88646,218239,411,419,ALT-BERLINER PORZELLANTELLER mit Blumenmalerei und purpurgehohtem Reliefrand. Szeptermarke.,635,97.8,False,title_direct,,Scuola di Berlino,PORZELLAN,,
-BO0624_88646,218240,412,420,"21. ZWEI PERSISCHE MAJOLIKASCHALEN mit Lusterdekor: a) braun, b) rot, auf rahmfarbiger Glasur. 17.bis 18. Jahrh. (Eine gekittet.)",636,98.3,False,positional,,,PERSERTEPPICHE; KELIMS,,
+BO0624_88646,218240,412,420,"21. ZWEI PERSISCHE MAJOLIKASCHALEN mit Lusterdekor: a) braun, b) rot, auf rahmfarbiger Glasur. 17.bis 18. Jahrh. (Eine gekittet.)",636,98.3,False,positional,,,PERSERTEPPICHE; KELIMS,,Sec. XVIII
 BO0624_88646,218241,413,422,"ALTER PERSISCHER LACKSCHILD,rund. Tierkampfszenen in buntem Relief",637,97.0,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218242,414,423,"27. KONVOLUT: Kleine a gy ptis che Bro nzen, dabei zwei Gotterfigurchen und zwei Tiere.",639,97.6,False,positional,,,PERSERTEPPICHE; KELIMS,,
-BO0624_88646,218243,415,428,"3o. DREI PORZELLANSCHUSSELN:a) MeiBen um 1740,indianische Blutenzweige und Schmetterlinge (stark repariert);b) Furstenberg um 176o,reliefierter Rand,bunter Blumendekor (stark repariert);c) MeiBen, reliefert, im Spiegel Heckenrose.",640,99.1,False,title_direct,,,SPECCHI,,
+BO0624_88646,218243,415,428,"3o. DREI PORZELLANSCHUSSELN:a) MeiBen um 1740,indianische Blutenzweige und Schmetterlinge (stark repariert);b) Furstenberg um 176o,reliefierter Rand,bunter Blumendekor (stark repariert);c) MeiBen, reliefert, im Spiegel Heckenrose.",640,99.1,False,title_direct,,,SPECCHI,,Sec. XVIII
 BO0624_88646,218244,416,431,"32. ZWEI TELLER: a) Steingut,hollandisch, mit Schiff und Namensinschrift; b) Moustiers, Olery,bunter Dekor: Allegorie des Sommers in Rundfeld und Girlanden (gekittet).18.Jahrh.",641,98.8,False,positional,,,PIATTI,,
 BO0624_88646,218245,417,433,"33a. ZWEI FAYENCEKRUGE,birnformig mit Zinndeckel. Blaudekor:a) Blumen und",642,97.2,False,title_direct,,,FAYENCEN,,
-BO0624_88646,218246,418,434,"34a. ZWEI KRUGE mit Zinndeckel:a) weibes Steinzeug mit antikisierendem Relieffries, Ende 18. Jahrh.,b) Steinzeug,braun glasiert. 18. Jahrh.",644,98.5,False,positional,,,OGGETTI VARI,,
+BO0624_88646,218246,418,434,"34a. ZWEI KRUGE mit Zinndeckel:a) weibes Steinzeug mit antikisierendem Relieffries, Ende 18. Jahrh.,b) Steinzeug,braun glasiert. 18. Jahrh.",644,98.5,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_88646,218247,419,435,"36. ZWEI STEINZEUGKRUGE mit rotbrauner Glasur, bauchige Form,glatt. Zinn-",645,97.2,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88646,218248,420,437,"37a. ZWEI ALT-BERLINER PORZELLANBUSTEN,unbemalt,auf hohem Sockel: Apollo und Diana. Zeptermarke. H.1I cm.",647,98.0,False,title_direct,,Scuola di Berlino,PORZELLAN,,
 BO0624_88646,218249,421,438,"LACKSTANDER in Tischform auf vier geschweiften FuBen, braun mit Reliefdekor,",648,97.4,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218250,422,2,japanisch.(Beschadigt.),649,95.2,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218251,423,3,"439-40. ZWEI FRANZOSISCHE PORZELLANTELLER: a) Sevres,reich dekoriert in Gold auf Turkisblau, Spiegel weiB mit Putto und Girlande;b) ohne Marke, Vogel und Girlande in Bunt.",650,99.4,False,title_direct,,,OGGETTI IN ORO,,
-BO0624_88646,218252,424,441,"PERSISCHE FAYENCEVASE. Breite Form mit kurzem Hals, zweihenklig. Turkis. blaue, irisierende Glasur. 18. Jahrh. H. 27,5 cm.(BestoBen.)",651,98.4,False,title_direct,HALS DIRK,,FAYENCEN,,
+BO0624_88646,218252,424,441,"PERSISCHE FAYENCEVASE. Breite Form mit kurzem Hals, zweihenklig. Turkis. blaue, irisierende Glasur. 18. Jahrh. H. 27,5 cm.(BestoBen.)",651,98.4,False,title_direct,HALS DIRK,,FAYENCEN,,Sec. XVIII
 BO0624_88646,218253,425,5,"DAGHESTAN VASE. Blaudekor: Pfauenfedern und ahnliche Motive, auf der Leibung 442.",652,98.7,False,positional,,,VASI,,
-BO0624_88646,218254,426,6,in Schragfeldern. 18. Jahrh. H.27 cm.,653,97.1,False,positional,,,PERSERTEPPICHE; KELIMS,,
+BO0624_88646,218254,426,6,in Schragfeldern. 18. Jahrh. H.27 cm.,653,97.1,False,positional,,,PERSERTEPPICHE; KELIMS,,Sec. XVIII
 BO0624_88646,218255,427,7,grobe Schriftzeichen mit Bemalung in Schwarz und Violett. 17.18. Jahrh. GroBe,654,98.7,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218256,428,8,24X35cm.,655,87.5,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218257,429,444,"PERSISCHES SCHALCHEN auf FuB, turkisblau glasiert (irisierend). Dekor in",656,97.1,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218258,430,10,Schwarz.(Gekittet.),657,91.4,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218259,431,11,PERSISCHE MAJOLIKA-SCHUSSEL mit Blutenranken und anderen Ornamenten in,658,97.9,False,positional,,,SCATOLE,,
-BO0624_88646,218260,432,445,Blau und schwarzlichem Grin. 18. Jahrh. Durchm.29 cm. (Gekittet.),659,96.7,False,positional,,,PERSERTEPPICHE; KELIMS,,
+BO0624_88646,218260,432,445,Blau und schwarzlichem Grin. 18. Jahrh. Durchm.29 cm. (Gekittet.),659,96.7,False,positional,,,PERSERTEPPICHE; KELIMS,,Sec. XVIII
 BO0624_88646,218261,433,13,"446-47. ZWEI GROSSE FAYENCESCHUSSELN, langlich-ovale Form: a) Stra B-",660,97.7,False,title_direct,,,FAYENCEN,,
 BO0624_88646,218262,434,14,"burg,Rosen und andere Blumen in Bunt; b) Zerbst ?, Bluitenranken in Bunt (Springe).18, Jahrh. Durchm. ca.45 cm.",661,98.5,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218263,435,448,"DECKELDOSE von Hermann Kahler-Nestved, in Form eines Taschenkrebses,rote, dunkelgefleckte Glasur. Mit Marke.",662,98.1,False,positional,,,PERSERTEPPICHE; KELIMS,,
@@ -492,13 +492,13 @@ BO0624_88646,218318,490,14,"signiert,b) Schwarzlack mit Perlmutter (beide bescha
 BO0624_88646,218319,491,15,"512-14. Dre i S t i c k,klein, a) Schwarz- und Goldlack, b) Aventurinlack, c) Goldlack in Form einer Frucht.",728,98.5,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218320,492,515,"TUSCHKASTEN, Suzuribako, Lack. Farnkrauter und Schmetterlinge in Goldlack und Perlmutter. Japan. Lange 21 cm,Breite 18 cm.",729,98.3,False,positional,,,OGGETTI LACCATI,,
 BO0624_88646,218321,493,516,HOLZKASTEN (Sammlungskasten) mit sechs durchgehenden Schubkasten. Dekor H.29 cim. (Unwesentliche Beschadigungen.),730,76.4,False,positional,,,PERSERTEPPICHE; KELIMS,,
-BO0624_88646,218322,494,517,"GURI-LACKSCHALE, geschweifte Kummenform; rotbraun mit reichem, geschnit- tenem Muster. Japan, 18. Jahrh. H.9 cm.",732,77.7,False,positional,,,PERSERTEPPICHE; KELIMS,,
+BO0624_88646,218322,494,517,"GURI-LACKSCHALE, geschweifte Kummenform; rotbraun mit reichem, geschnit- tenem Muster. Japan, 18. Jahrh. H.9 cm.",732,77.7,False,positional,,,PERSERTEPPICHE; KELIMS,,Sec. XVIII
 BO0624_88646,218323,495,518,"LACKDECKELKASTEN fir das Muschelspiel, vierbeinig, quergerippt; bluhende",734,97.2,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218324,496,4,vergoldete Bronzebeschlage. Japan. H. 37 cm.(Leicht beschadigt.),735,98.3,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218325,497,5,"Einlagen in mehrfarbigem Perlmutter und Streulack: Landschaft mit figurlicher Staffage. Japan.Lange 16,5 cm. Abb.Tafel4",736,99.1,False,positional,,,PERSERTEPPICHE; KELIMS,,
-BO0624_88646,218326,498,6,"GROSSE RUNDE LACKTAFEL,geschnittener Rotlack auf schwarzem Grund. 520. Vielfigurige Darstellung (Opferszene) in weiter Landschaft. Der Rand mit farbigen Jade-und Specksteineinlagen. Goldbronzebigel aus Wolkenbandern. China, 18. Jahrh.",737,99.6,False,positional,,,PERSERTEPPICHE; KELIMS,,
+BO0624_88646,218326,498,6,"GROSSE RUNDE LACKTAFEL,geschnittener Rotlack auf schwarzem Grund. 520. Vielfigurige Darstellung (Opferszene) in weiter Landschaft. Der Rand mit farbigen Jade-und Specksteineinlagen. Goldbronzebigel aus Wolkenbandern. China, 18. Jahrh.",737,99.6,False,positional,,,PERSERTEPPICHE; KELIMS,,Sec. XVIII
 BO0624_88646,218327,499,7,Durchm.79 cm. (Leichte Beschadigungen.),738,97.2,False,positional,,,PERSERTEPPICHE; KELIMS,,
-BO0624_88646,218328,500,8,"grun, gelb und violett gefeckt. China, 18. Jahrh. H. 18 cm.",739,98.1,False,positional,,,PERSERTEPPICHE; KELIMS,,
+BO0624_88646,218328,500,8,"grun, gelb und violett gefeckt. China, 18. Jahrh. H. 18 cm.",739,98.1,False,positional,,,PERSERTEPPICHE; KELIMS,,Sec. XVIII
 BO0624_88646,218329,501,523,"PORZELLANGEFASS in Form eines Lowen, der auf seinem Ricken die tillenformige Mundung tragt.Gelbliche Glasur. Bemalung in Schwarz und Hellbraun. China. H.14 cm.",740,98.7,False,title_direct,,,PORZELLAN,,
 BO0624_88646,218330,502,10,523a.ALTAGYPTISCHE MARMORVASE von gelblicher Farbe. Der Deckel als K o pf,741,98.0,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218331,503,11,"einer Gottheit gestaltet. H.31,5 cm.",742,95.8,False,positional,,,PERSERTEPPICHE; KELIMS,,
@@ -510,7 +510,7 @@ BO0624_88646,218336,508,537,"PORZELLANDECKELDOSCHEN, kugelige Form. Bemalung in 
 BO0624_88646,218337,509,18,"538-4o. DREI JAPANISCHE TEEBUCHSEN (Chaire) von verschiedener Forim, Glasur: a) braun mit dunklem Uberlauf, b) grun, gefeckt, c) mattbraun; zwei mit Elfenbeindeckeln.",749,99.0,False,positional,,,POLTRONE,,
 BO0624_88646,218338,510,19,"541-42. ZWEI JAPANSCHUSSELN, a) grau glasiert, mit Paonienzweigen in Schmelzfarben, b) Imari, mit Gartenmotiv und Blumenranken.",750,98.8,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218339,511,20,"543-45. DREI IMARITELLER,verschieden dekoriert: bluhende Zweige,Paonien,Bambus-",751,98.1,False,positional,,,PERSERTEPPICHE; KELIMS,,
-BO0624_88646,218340,512,21,strauch mit Vogeln. 18. Jahrh. (Einer gesprungen.),752,96.7,False,positional,,,PERSERTEPPICHE; KELIMS,,
+BO0624_88646,218340,512,21,strauch mit Vogeln. 18. Jahrh. (Einer gesprungen.),752,96.7,False,positional,,,PERSERTEPPICHE; KELIMS,,Sec. XVIII
 BO0624_88646,218341,513,22,"546-47. ZWEI ALTE CHINATELLER,a) bluhende Zweige und Vogel in Schmelzfarben,",753,98.0,False,positional,,,PERSERTEPPICHE; KELIMS,,
 BO0624_88646,218342,514,23,"Schwarzlot,Eisenrot und Gold,b) im Spiegel Landschaft, auf dem Rand Blutenzweige in Schwarzlot und Gold (z. T.verblaBt), Ornamente mit Rot.",754,98.9,False,positional,,,OGGETTI IN ORO,,
 BO0624_88646,218343,515,24,"548-49. EIN PAAR FAMILLE-ROSE-TELLER.Vase mit Paonien,auf dem Rand Bambuszweige in Schmelzblau und -weiB. (Gesprungen bzw. gekittet.)",755,98.8,False,positional,,,PIATTI,,

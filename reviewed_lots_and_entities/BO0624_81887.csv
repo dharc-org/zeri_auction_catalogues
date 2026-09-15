@@ -14,7 +14,7 @@ BO0624_81887,161748,12,61,"一 VENERE,statuetta bisquit Capodimonte.",39,96.2,Fa
 BO0624_81887,161749,13,20,- — NETTUNO bisquit Capodimonte con base marmo.,41,100.0,False,none,,,,,
 BO0624_81887,161750,14,21,DUE POLTRONCINE in radica di noce intarsiate,42,96.7,False,none,,,,,
 BO0624_81887,161751,15,22,- 23,45,100.0,False,none,,,,,
-BO0624_81887,161752,16,24,- TAVOLO rotondo in radica di noce con marmo ver. de secolo XVIII.,47,100.0,False,none,,,,,
+BO0624_81887,161752,16,24,- TAVOLO rotondo in radica di noce con marmo ver. de secolo XVIII.,47,100.0,False,none,,,,,Sec. XVIII
 BO0624_81887,161753,17,5,SCIARPA Bruxelles.,50,94.4,False,none,,,,,
 BO0624_81887,161754,18,26,"26—DOSSIER per divano filet 1,35 xo,38 raffigurante",52,100.0,False,none,,,,,
 BO0624_81887,161755,19,27,一,55,40.0,False,none,,,,,
@@ -41,7 +41,7 @@ BO0624_81887,161775,39,53,——DUE ANGIOLETTI in legno scolpito e dipinto.,99,9
 BO0624_81887,161776,40,54,— DUE VASI in maiolica Ispano arabo.,100,95.7,False,none,,,VASI,,
 BO0624_81887,161777,41,55,"— STATUETTA in porcellana di Capodimonte, bambina con bambola.",101,97.5,False,none,,,,,
 BO0624_81887,161778,42,56,"- -OROLOGIO ORO marcato Romilly e Comp., riproduzione dell'orologio di S. Marco di Venezia.",103,100.0,False,none,,,,,
-BO0624_81887,161779,43,57,DUE APPLIQUES in ferro battuto secolo XVII.,104,96.6,False,none,,,LAMPADE,,
+BO0624_81887,161779,43,57,DUE APPLIQUES in ferro battuto secolo XVII.,104,96.6,False,none,,,LAMPADE,,Sec. XVII
 BO0624_81887,161780,44,58,58,105,100.0,False,none,,,,,
 BO0624_81887,161781,45,59,"59— Sirena, cornice dorata.",107,53.3,False,none,,,,,
 BO0624_81887,161782,46,60,"- F. P. MICHETTI, disegno di donna in cornice.",109,100.0,False,none,,,,,
@@ -54,8 +54,8 @@ BO0624_81887,161788,52,68,"68- PALIZZI GIUSEPPE, quadro su tela paesaggio",122,1
 BO0624_81887,161789,53,70,"70 — STATUE TTA da Presepio, Pastore.",126,100.0,False,none,,,,,
 BO0624_81887,161790,54,71,"STATUETTA da Presepio, Vecchio.",127,95.1,False,none,,,,,
 BO0624_81887,161791,55,72,"STATUETTA da Presepio, Ragazzo.",128,95.1,False,none,,,,,
-BO0624_81887,161792,56,74,"— MORTAIO in bronzo, secolo XVII.",129,95.1,False,none,,,,,
-BO0624_81887,161793,57,75,"—MORTAIO in bronzo, secolo XVII.",130,95.1,False,none,,,,,
+BO0624_81887,161792,56,74,"— MORTAIO in bronzo, secolo XVII.",129,95.1,False,none,,,,,Sec. XVII
+BO0624_81887,161793,57,75,"—MORTAIO in bronzo, secolo XVII.",130,95.1,False,none,,,,,Sec. XVII
 BO0624_81887,161794,58,76,FAZZOLETTO ricamato.,131,92.7,False,none,,,,,
 BO0624_81887,161795,59,77,— GRANDE PIATTO in porcellana di Capodimonte.,132,96.6,False,none,,,,,
 BO0624_81887,161796,60,78,— DUE CANDELIERI in vetro veneziani.,133,95.7,False,none,,,,,
@@ -129,8 +129,8 @@ BO0624_81887,161863,127,155,"——F. P. MICHETTI, disegno, in cornice.",264,93.
 BO0624_81887,161864,128,156,— DUE PORTIERE in damasco rosso.,265,93.5,False,none,,,,,
 BO0624_81887,161865,129,158,DUE PORTIERE in damasco rosso.,267,93.5,False,none,,,,,
 BO0624_81887,161866,130,159,一,268,33.3,False,none,,,,,
-BO0624_81887,161867,131,160,"MORTAIO in bronzo, secolo XVII.",270,93.5,False,none,,,,,
-BO0624_81887,161868,132,161,"—MORTAIO in bronzo, secolo XVII.",271,93.5,False,none,,,,,
+BO0624_81887,161867,131,160,"MORTAIO in bronzo, secolo XVII.",270,93.5,False,none,,,,,Sec. XVII
+BO0624_81887,161868,132,161,"—MORTAIO in bronzo, secolo XVII.",271,93.5,False,none,,,,,Sec. XVII
 BO0624_81887,161869,133,162,"一 DIEFFENBACH, quadro su tela, scoglio.",273,94.7,False,none,,,,,
 BO0624_81887,161870,134,163,"DIEFFENBACH,quadro su tela,Grotta azzurra.",275,95.3,False,none,,,,,
 BO0624_81887,161871,135,164,— TOVAGLIA sardegnola.,277,90.5,False,none,,,,,
@@ -160,7 +160,7 @@ BO0624_81887,161894,158,189,— - CENERIERA in argento gr. 400.,311,93.1,False,n
 BO0624_81887,161895,159,190,"stallo, gr. 58o.",313,86.7,False,none,,,,,
 BO0624_81887,161896,160,191,- TAPPETO Schiraz mt. 2.65 x 1.35.,315,100.0,False,none,,,,,
 BO0624_81887,161897,161,192,- — TAPPE TO Schirvan mt. 2.9o x 1.70.,317,100.0,False,none,,,,,
-BO0624_81887,161898,162,193,"- TAVOLO rotondo in noce, secolo XVII.",319,100.0,False,none,,,,,
+BO0624_81887,161898,162,193,"- TAVOLO rotondo in noce, secolo XVII.",319,100.0,False,none,,,,,Sec. XVII
 BO0624_81887,161899,163,194,colo XVII.,321,81.8,False,none,,,,,
 BO0624_81887,161900,164,195,"MOBILE vetrina in ciliegio, epoca Luigi XVI (vedi",322,95.9,False,none,,,,,
 BO0624_81887,161901,165,196,"tartaruga e bronzi, epoca Luigi XIV.",325,94.4,False,none,,Periodo di Luigi XIV,,,
@@ -186,7 +186,7 @@ BO0624_81887,161920,184,217,"— PALMA IL VECCHIO, quadro su tavola, Ecce Homo, 
 BO0624_81887,161921,185,218,"CAVALLINI BERNARDO, quadro su tela, La l quadro e inventariato.",354,72.0,False,none,,,,,
 BO0624_81887,161922,186,219,"vanni che prega nel deserto, in cornice dorata.",360,95.7,False,none,,,,,
 BO0624_81887,161923,187,220,"GRANDE LAMPADA in argento a nove fiamme,",361,95.1,False,none,,,LAMPADE,,
-BO0624_81887,161924,188,221,"- GRANDE MINIATURA gentildonna secolo XIX,",365,100.0,False,none,,,MINIATURE,,
+BO0624_81887,161924,188,221,"- GRANDE MINIATURA gentildonna secolo XIX,",365,100.0,False,none,,,MINIATURE,,Sec. XIX
 BO0624_81887,161925,189,222,— cornice nera (vedi tavola XIx).,366,93.3,False,none,,,,,
 BO0624_81887,161926,190,223,"GRANDE MINIATURA gentiluomo, firmata Paul Fischer, cornice intagliata dorata (vedi tavola XIX).",367,97.8,False,none,,,MINIATURE,,
 BO0624_81887,161927,191,224,"- MANCINI FRANCESCO (Lord Mancini), acquerello, carozze e cavalli, cornice dorata.",369,100.0,False,none,,,,,
@@ -202,8 +202,8 @@ BO0624_81887,161936,200,235,"TOVAGLIA sfilata a piccolo punto, mt. 1.3oxo.90.",3
 BO0624_81887,161937,201,236,"TULLO ricamato punto rammendo, mt. 3 × 1.50.",386,95.1,False,none,,,,,
 BO0624_81887,161938,202,237,GRANDE PORTIERA in stoffa celeste.,387,94.3,False,none,,,,,
 BO0624_81887,161939,203,239,"FILET figurato,mt.2.15x0.25.",390,93.1,False,none,,,,,
-BO0624_81887,161940,204,240,"MORTAIO in bronzo, secolo XVII.",392,93.5,False,none,,,,,
-BO0624_81887,161941,205,241,"PICCOLO MORTAIO in bronzo, secolo XVII.",394,94.9,False,none,,,,,
+BO0624_81887,161940,204,240,"MORTAIO in bronzo, secolo XVII.",392,93.5,False,none,,,,,Sec. XVII
+BO0624_81887,161941,205,241,"PICCOLO MORTAIO in bronzo, secolo XVII.",394,94.9,False,none,,,,,Sec. XVII
 BO0624_81887,161942,206,242,DUE CAPITELLI in noce intagliati.,396,94.1,False,none,,,,,
 BO0624_81887,161943,207,243,DUE COMPOSTIERE Giustiniani.,398,93.1,False,none,,,,,
 BO0624_81887,161944,208,244,COPPA in porcellana inglese.,400,93.1,False,none,,,,,
@@ -300,9 +300,9 @@ BO0624_81887,162034,298,360,- — DUE VASETTI in argento.,579,100.0,False,none,,
 BO0624_81887,162035,299,361,"-VASSOIO con sei bicchierini in argento, gr. 415.",580,95.7,False,none,,,,,
 BO0624_81887,162036,300,362,- 2—DUE CANDELIERI in argento.,582,100.0,False,none,,,,,
 BO0624_81887,162037,301,363,- INGINOCCHIATOIO in noce intarsiato con bronzi Luigi XIV (vedi tavola XXIII).,584,100.0,False,none,,Periodo di Luigi XIV,,,
-BO0624_81887,162038,302,364,"— CASSONE in noce intagliato, secolo XV.",585,94.7,False,none,,,,,
-BO0624_81887,162039,303,365,— SCRIGNO in noce scolpito XVI secolo (vedi tavola XXII).,586,96.3,False,none,,,,,
-BO0624_81887,162040,304,366,- DUE TORCIERE in ferro battuto XVI secolo (vedi tavola XXIII).,588,100.0,False,none,,,,,
+BO0624_81887,162038,302,364,"— CASSONE in noce intagliato, secolo XV.",585,94.7,False,none,,,,,Sec. XV
+BO0624_81887,162039,303,365,— SCRIGNO in noce scolpito XVI secolo (vedi tavola XXII).,586,96.3,False,none,,,,,Sec. XVI
+BO0624_81887,162040,304,366,- DUE TORCIERE in ferro battuto XVI secolo (vedi tavola XXIII).,588,100.0,False,none,,,,,Sec. XVI
 BO0624_81887,162041,305,367,VAsO a forma sferica in maiolica di Caltagirone (ve. di tavola XX).,589,96.9,False,none,,,VASI,,
 BO0624_81887,162042,306,368,"- SCAVO, affresco Pompeiano (restaurato), (vedi tavola XVIII).",591,100.0,False,none,,,,,
 BO0624_81887,162043,307,369,"SCAVO, vaso tripode in bronzo, portabraciere (vedi",592,95.9,False,none,,,VASI,,
@@ -340,8 +340,8 @@ BO0624_81887,162074,338,410,"SCAvO, due tegole con figure pompeiane (vedi tavola
 BO0624_81887,162075,339,411,"SCAVO, lucerna con fusto in bronzo (vedi tavola XVII).",660,96.2,False,none,,,,,
 BO0624_81887,162076,340,412,"— SCAVO, manico in bronzo.",662,91.7,False,none,,,,,
 BO0624_81887,162077,341,413,"SCAVO, bicchiere in vetro.",664,92.3,False,none,,,,,
-BO0624_81887,162078,342,414,"STATUETTA in bronzo,secolo XVII.",666,93.9,False,none,,,,,
-BO0624_81887,162079,343,415,"APPLIQUE con lampada in ferro, secolo XVII.",668,95.3,False,none,,,LAMPADE,,
+BO0624_81887,162078,342,414,"STATUETTA in bronzo,secolo XVII.",666,93.9,False,none,,,,,Sec. XVII
+BO0624_81887,162079,343,415,"APPLIQUE con lampada in ferro, secolo XVII.",668,95.3,False,none,,,LAMPADE,,Sec. XVII
 BO0624_81887,162080,344,416,一 ANFORA in maiolica Abruzzo.,670,93.3,False,none,,,,,
 BO0624_81887,162081,345,418,COPPA in maiolica persiana.,674,92.9,False,none,,,,,
 BO0624_81887,162082,346,419,"一 MINIATURA,ufficiale di cavalleria,in cornice oro.",676,96.2,False,none,,,MINIATURE,,

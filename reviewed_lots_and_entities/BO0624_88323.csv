@@ -6,8 +6,8 @@ BO0624_88323,643187,4,4,"|                                          | Holz 17,5/
 BO0624_88323,643188,5,5,"| Der Walchensee. Herbstlandschaft.        | Karton 37/22,5        |",18,97.9,False,none,,,,,
 BO0624_88323,643189,6,6,"| Nymphe in der Grotte.                    | Leinw.17,5/10         |",19,97.1,False,none,,,,,
 BO0624_88323,643190,7,7,"| Christus als Konig der Juden.            | Holz 15,5/11,5        |",20,97.7,False,none,,,OGGETTI IN LEGNO,,
-BO0624_88323,643191,8,9,"| J.Hamel 1818. Blankenberghe.             | 17/11,5               |",23,97.1,False,none,,,,,
-BO0624_88323,643192,9,10,| Monogramm CH 1897.Thuner See.            | 35/17                 |,24,95.8,False,none,,,,,
+BO0624_88323,643191,8,9,"| J.Hamel 1818. Blankenberghe.             | 17/11,5               |",23,97.1,False,none,,,,,Sec. XIX
+BO0624_88323,643192,9,10,| Monogramm CH 1897.Thuner See.            | 35/17                 |,24,95.8,False,none,,,,,Sec. XIX
 BO0624_88323,643193,10,11,| Tylla Struth-Pfersdorff. Blumen in Vase. | 72/48                 |,25,96.7,False,none,,,VASI,,
 BO0624_88323,643194,11,12,| Montagrats.Parkmauer an der Kiste.       | 32/15                 |,26,96.3,False,none,,,,,
 BO0624_88323,643195,12,13,| Unbekannt. Landschaft mit Kapelle.       | 17/24                 |,27,96.2,False,none,,,,,
@@ -25,7 +25,7 @@ BO0624_88323,643206,23,43,| General der Infanterie von Emmich. Beide bezeichnet.
 BO0624_88323,643207,24,45,46                     | Triomphe de Galatee n. Raphael v. Richomme.                                                       | P1.61/47                       |,63,97.2,False,none,SANZIO RAFFAELLO,,,,
 BO0624_88323,643208,25,47,| Nach der Trauung n. Kindler v. Oldermann.                                                         | P1.62/85                       |,65,96.9,False,none,,,,,
 BO0624_88323,643209,26,48,| Duchess of Devonshire n. Gainsborough v. Appleton.                                                | P1.80/64                       |,66,97.4,False,none,,,,,
-BO0624_88323,643210,27,49,| Das Gastmahl n. van der Helst v. Kaiser.                                                          | P1.53/87                       |,67,96.8,False,none,,,,,
+BO0624_88323,643210,27,49,| Das Gastmahl n. van der Helst v. Kaiser.                                                          | P1.53/87                       |,67,96.8,False,none,VAN DER HELST BARTHOLOMAEUS,,,,
 BO0624_88323,643211,28,50,| Die Feuersbrunst n. Hubner v. Witthoft.                                                           | P1.64/84                       |,68,96.8,False,none,,,,,
 BO0624_88323,643212,29,51,52                     | Die Verspottung Christi n. van Dyck v. van den Emden. La vierge de Seville n. Murillo v. Eichens. | Stich 59/42 P1.65/47           |,69,98.7,False,none,VAN DYCK ANTON,,,,
 BO0624_88323,643213,30,53,| Kampf um die Burg nach Lessing.                                                                   | Stich 40/63                    |,70,96.6,False,none,LESSING CARL F.,,,,
@@ -34,7 +34,7 @@ BO0624_88323,643215,32,55,"| 5Gefangene Franzosen bei der Feldarbeit in Meschede
 BO0624_88323,643216,33,60,| Stilleben.Rosen.                                                                                           | Kart.ov.29/34                                |,81,95.1,False,positional,W.LEFEBRE,,,,
 BO0624_88323,643217,34,62,"| Agnes MEYERHOF, Frankfurt a. M. Klein-Else.                                                                | Karton 32/34                                 |",83,97.2,False,positional,W.LEFEBRE,,,,
 BO0624_88323,643218,35,63,"64 | Monogrammiert. Die ibergossene Alm bei Berchtesgaden. Die Watzfrau im Abendlicht vom Watzmann aus gesehen. | Leinw.110/75 Leinw.110/76 Aq.24/12u.11,5/7,5 |",84,99.0,False,positional,W.LEFEBRE,,,,
-BO0624_88323,643219,36,65,"66 | Drei Aquarelle aus Venedig und dem Gebirge. Am Strand in Holland. Bezeichnet:A. N.1845.                    | Karton 18,5/24 Leinw.24/37                   |",85,98.7,False,positional,W.LEFEBRE,,,,
+BO0624_88323,643219,36,65,"66 | Drei Aquarelle aus Venedig und dem Gebirge. Am Strand in Holland. Bezeichnet:A. N.1845.                    | Karton 18,5/24 Leinw.24/37                   |",85,98.7,False,positional,W.LEFEBRE,,,,Sec. XIX
 BO0624_88323,643220,37,75,76 77                                                | Nach Boecklin.Toteninsel. Desg1.67/35 Nach Schreyer.Courrier Imperial. Photogr.64/96                            | Nach Boecklin.Toteninsel. Desg1.67/35 Nach Schreyer.Courrier Imperial. Photogr.64/96                            | Nach Boecklin.Toteninsel. Desg1.67/35 Nach Schreyer.Courrier Imperial. Photogr.64/96                            | Nach Boecklin.Toteninsel. Desg1.67/35 Nach Schreyer.Courrier Imperial. Photogr.64/96                            |,96,99.6,False,positional,W.LEFEBRE,,,,
 BO0624_88323,643221,38,78,79                                                   | BuBende Magdalena. Photo 52/40                                                                                  | BuBende Magdalena. Photo 52/40                                                                                  | BuBende Magdalena. Photo 52/40                                                                                  | BuBende Magdalena. Photo 52/40                                                                                  |,97,98.8,False,positional,W.LEFEBRE,,,,
 BO0624_88323,643222,39,80,|                                                                                                                 |                                                                                                                 |                                                                                                                 |                                                                                                                 |,98,0.0,False,positional,W.LEFEBRE,,,,
@@ -153,25 +153,25 @@ BO0624_88323,643334,151,265,Desgl. Wilh. Bode. Die Sammlung Osc. Huldschinsky.,4
 BO0624_88323,643335,152,266,- Atlas Anatomicus.Rob. Froriepi.,457,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643336,153,267,Funfzig Blatt Kupferstiche.Die Leidensgeschichte und die Wieder-,458,96.9,False,title_direct,,,Kupferstiche,,
 BO0624_88323,643337,154,268,Die hl. Schrift. Wittenberg 171l.Druck und Verlag Frankfurt a. M. Wustens.,460,97.2,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643338,155,269,- Reformations-Lehre der Stadt Frankfurt a. M. 1611.,464,100.0,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643339,156,270,Frankfurter Religions-Handlungen 1735.,465,94.9,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643340,157,271,1734.,466,66.7,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643341,158,272,- Chronica Frankfurt a. M.von Aug. v. LerBner. I. u. Il. Teil. 1706 u.,468,100.0,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643342,159,273,Biblisches Engel und Kunst-Werk von Joh. Ulr. Krause. Augsburg 1715.,470,97.0,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643343,160,274,Wahl- und Kronungs-Diarium Caroli VI. Frankfurt a. M. 1712 und,471,96.7,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643338,155,269,- Reformations-Lehre der Stadt Frankfurt a. M. 1611.,464,100.0,False,positional,,,Bucher; Stiche,,Sec. XVII
+BO0624_88323,643339,156,270,Frankfurter Religions-Handlungen 1735.,465,94.9,False,positional,,,Bucher; Stiche,,Sec. XVIII
+BO0624_88323,643340,157,271,1734.,466,66.7,False,positional,,,Bucher; Stiche,,Sec. XVIII
+BO0624_88323,643341,158,272,- Chronica Frankfurt a. M.von Aug. v. LerBner. I. u. Il. Teil. 1706 u.,468,100.0,False,positional,,,Bucher; Stiche,,Sec. XVIII
+BO0624_88323,643342,159,273,Biblisches Engel und Kunst-Werk von Joh. Ulr. Krause. Augsburg 1715.,470,97.0,False,positional,,,Bucher; Stiche,,Sec. XVIII
+BO0624_88323,643343,160,274,Wahl- und Kronungs-Diarium Caroli VI. Frankfurt a. M. 1712 und,471,96.7,False,positional,,,Bucher; Stiche,,Sec. XVIII
 BO0624_88323,643344,161,275,- 276,474,100.0,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643345,162,277,"- Historisches Diarium Frankfurt a. M., gefahrl. Aufstand 1615.",478,100.0,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643346,163,278,Das Zeitalter der Revolution von Dr. Wilh.Wachsmuth 1846. 4 Bande.,482,96.9,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643347,164,279,"Das 19. Jahrhundert des Tierreichs von G. Butziger, Leipzig.",483,96.6,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643345,162,277,"- Historisches Diarium Frankfurt a. M., gefahrl. Aufstand 1615.",478,100.0,False,positional,,,Bucher; Stiche,,Sec. XVII
+BO0624_88323,643346,163,278,Das Zeitalter der Revolution von Dr. Wilh.Wachsmuth 1846. 4 Bande.,482,96.9,False,positional,,,Bucher; Stiche,,Sec. XIX
+BO0624_88323,643347,164,279,"Das 19. Jahrhundert des Tierreichs von G. Butziger, Leipzig.",483,96.6,False,positional,,,Bucher; Stiche,,Sec. XIX
 BO0624_88323,643348,165,280,"Palmblatter von Karl Gerok, illustr. von Thumann u. and.",484,96.3,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643349,166,282,282,486,100.0,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643350,167,283,Patent des Oberst-Lieutenant von dem Rade.1815.,489,95.8,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643350,167,283,Patent des Oberst-Lieutenant von dem Rade.1815.,489,95.8,False,positional,,,Bucher; Stiche,,Sec. XIX
 BO0624_88323,643351,168,284,"Die Werke Wiliam von Hogarth nach den Originalplatten photolithographiert von Carl Haack, Wien. Album Goethes Faust, illustr. v. Liezen-Mayer. Bildwerke aus dem Frankfurter Goethe-Museum, in Mappe.",490,65.0,False,positional,,Scuola Viennese,FOTOGRAFIE,,
 BO0624_88323,643352,169,287,Konvolut. 8 Blatt Aquarelle etc. Verschiedene GroBen.,493,96.2,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643353,170,288,"Desgl. 8 Blatt Zeichnungen von Altheim, Schreyer, Schleich u. And.",494,96.8,False,title_direct,SCHREYER ADOLF,,Zeichnungen,,
 BO0624_88323,643354,171,289,"- Desgl. 8 Blatt Radierungen,Holzschnitte etc.",496,100.0,False,positional,,,ACQUEFORTI,,
 BO0624_88323,643355,172,290,Aus Konig Friedrichs Zeit. Holzschnitte von Kretzschmar u. Menzel.,497,96.9,False,positional,MENZEL ADOLPH VON,,OGGETTI IN LEGNO,,
-BO0624_88323,643356,173,12,Blatt erste Abdricke 1886.,498,94.3,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643356,173,12,Blatt erste Abdricke 1886.,498,94.3,False,positional,,,Bucher; Stiche,,Sec. XIX
 BO0624_88323,643357,174,292,292,501,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643358,175,293,Konvolut. 4 Blatt Kupferstiche nach ersten Meistern.,503,96.2,False,title_direct,,,Kupferstiche,,
 BO0624_88323,643359,176,294,Desgl. 16 Blatt Kupferstiche u. And. nach ersten Meistern.,504,96.4,False,title_direct,,,Kupferstiche,,
@@ -186,7 +186,7 @@ BO0624_88323,643367,184,302,Desgl. 9 Blatt Originalradierungen u.And.,513,95.1,F
 BO0624_88323,643368,185,303,Desgl. 5 Blatt Kupferstiche etc.,514,93.8,False,title_direct,,,Kupferstiche,,
 BO0624_88323,643369,186,304,"Desgl. 11 Blatt Originallitho,Kupferstiche u.And.",515,95.9,False,title_direct,,,Kupferstiche,,
 BO0624_88323,643370,187,305,Desgl. 8 Blatt Photographien etc.,516,93.9,False,positional,,,FOTOGRAFIE,,
-BO0624_88323,643371,188,306,Mode Mai 1917.,517,86.7,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643371,188,306,Mode Mai 1917.,517,86.7,False,positional,,,Bucher; Stiche,,Sec. XX
 BO0624_88323,643372,189,307,TintenfaB.Urnenform mit aufgelegten Blumen. MeiBen.,519,96.1,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643373,190,308,franzosisch. Jean Petit.,521,91.7,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643374,191,309,Kleiner Tafelaufsatz mit zwei Figuren und aufgelegten Blumen. MeiBen.,522,97.1,False,positional,,,PIATTI,,
@@ -268,7 +268,7 @@ BO0624_88323,643449,266,405,- 406,656,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643450,267,407,"- Urne mit Faunkopfen auf WidderfiBen. Porzellan, Bronze und Marmor. Hohe 34.",658,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643451,268,408,Stutzihrchen mit Marmor und Bronze. Rokokoform. Hohe 22.,661,96.4,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643452,269,409,"Schale auf FuB mit Relief.Versilbert. Hohe 14,Durchm.19.",662,96.4,False,positional,,,OGGETTI VARI,,
-BO0624_88323,643453,270,410,"- Zinnkanne, graviert 1836.Hohe 30.",664,100.0,False,positional,,,OGGETTI IN LATTA,,
+BO0624_88323,643453,270,410,"- Zinnkanne, graviert 1836.Hohe 30.",664,100.0,False,positional,,,OGGETTI IN LATTA,,Sec. XIX
 BO0624_88323,643454,271,411,Zinnteller mit Turnier. Durchmesser 30.,665,94.9,False,positional,,,PIATTI,,
 BO0624_88323,643455,272,412,Zinnschale mit Relief.Durchm.26.,666,93.9,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643456,273,413,Vaschen. Cloisonne. Schwarzer Untergrund mit Blumendekor. Hohe 18.Japan.,667,97.1,False,positional,,,Bucher; Stiche,,
@@ -315,7 +315,7 @@ BO0624_88323,643496,313,458,"- Fayenceteller, blau-weiB. Delft.",731,100.0,False
 BO0624_88323,643497,314,459,Kamingarnitur. Stutzuhr auf.Postament und zwei Girandoles. MeiBen.,732,96.9,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643498,315,460,"- Glasvase mit stilisiertem Disteldekor,vierkantig. Art Galle.",734,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643499,316,461,- Desgl. bauchig mit langem Hals und Drachendekor.,736,100.0,False,positional,HALS DIRK,,Bucher; Stiche,,
-BO0624_88323,643500,317,462,Glashumpen mit Emailmalerei Reichsadler. Deutsche Arbeit um 1600.,737,96.9,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643500,317,462,Glashumpen mit Emailmalerei Reichsadler. Deutsche Arbeit um 1600.,737,96.9,False,positional,,,Bucher; Stiche,,Sec. XVII
 BO0624_88323,643501,318,463,Briefbeschwerer. Amorette auf Schildkrote.,738,95.2,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643502,319,464,Zwei Leuchter mit Relief. Messingbronze.,740,95.0,False,positional,,,LAMPADE,,
 BO0624_88323,643503,320,465,Zwei Vasen mit Opalglasleibung in Messingbronze montiert.,741,96.6,False,positional,,,VASI,,
@@ -337,7 +337,7 @@ BO0624_88323,643518,335,483,Bronzefigur. Romischer Krieger sitzend. Hohe 21.,766
 BO0624_88323,643519,336,484,- Bronzefigur. Apollo.Hohe 19.,768,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643520,337,485,Zwei kleine Bronzefiguren. Knaben auf Marmorsockel. Je 121 hoch.,771,96.8,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643521,338,486,Zwei Bronzebiisten. Mozart und Wagner. Hohe je 21.,772,95.9,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643522,339,487,Bronzestatuette. Venus von Barbedienne. Hohe 1612,773,95.9,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643522,339,487,Bronzestatuette. Venus von Barbedienne. Hohe 1612,773,95.9,False,positional,,,Bucher; Stiche,,Sec. XVII
 BO0624_88323,643523,340,488,Hohe ca.23.,775,83.3,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643524,341,489,- Bronzefigur. Badende Venus. Hohe 16.,777,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643525,342,490,Bronzefigur von Monmany. Le Gui. Hohe 27.,778,95.0,False,positional,,,Bucher; Stiche,,
@@ -359,7 +359,7 @@ BO0624_88323,643540,357,505,Zwei Dosen mit Bronzebeschlag und Porzellanminiature
 BO0624_88323,643541,358,506,- Glashumpen mit Emailmalerei und Deckel. Hohe 38.,801,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643542,359,507,- Zwei Kannen. Ton. Blaugrin bemalt. Persisches Muster.,803,100.0,False,positional,,,OGGETTI VARI,,
 BO0624_88323,643543,360,508,Fayenceteller mit Girlanden. Durchm. 22.,804,94.9,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643544,361,509,Kleiner Krug mit Medaillon. Raeren.16. Jahrhundert.Hohe 12.,805,96.6,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643544,361,509,Kleiner Krug mit Medaillon. Raeren.16. Jahrhundert.Hohe 12.,805,96.6,False,positional,,,Bucher; Stiche,,Sec. XII
 BO0624_88323,643545,362,510,Spitzenumhang.,806,86.7,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643546,363,511,- Schwarzer Spitzenschirm mit Achatknopf.,808,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643547,364,512,Facher mit durchbrochenem Elfenbeingestell.,809,95.5,False,positional,,,SCOMPARTI,,
@@ -377,7 +377,7 @@ BO0624_88323,643558,375,523,- Teller mit reichem Ornamenten- und Figurendekor. M
 BO0624_88323,643559,376,524,Zinnkrug. Hufschmiede. Reich gearbeitet. Hohe 28.,827,95.7,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643560,377,525,Zwei Leuchter. Kupfer versilbert.,828,93.9,False,positional,,,LAMPADE,,
 BO0624_88323,643561,378,526,Fruchtschale.Porzellan auf ErdbeerfuBen. Durchm. 22.,829,96.1,False,positional,,,COPPE,,
-BO0624_88323,643562,379,527,Porzellanflaschenvase. Sevres 1900. Blau mit goldenen Streublattern. Hohe 34.,830,97.3,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643562,379,527,Porzellanflaschenvase. Sevres 1900. Blau mit goldenen Streublattern. Hohe 34.,830,97.3,False,positional,,,Bucher; Stiche,,Sec. XX
 BO0624_88323,643563,380,528,- 529 StrauBenfederfacher mit Schildpattgestell.,832,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643564,381,530,Facher mit Spitzen und Seidenmalerei. Holzgestell.,834,96.0,False,positional,,,SCOMPARTI,,
 BO0624_88323,643565,382,531,Desgl. mit Seide und Metallblattchen belegt. Schildpatt graviert und vergoldet.,835,97.4,False,positional,,,OGGETTI VARI,,
@@ -406,19 +406,19 @@ BO0624_88323,643587,404,558,Desgl. Amorette.Enleve-toi. Hohe 55.,875,94.3,False,
 BO0624_88323,643588,405,559,Desgl.Pierette von C. Herold. Hohe 54.,876,94.6,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643589,406,560,"- Bronzegruppe. Mutter und Sohn, Holz tragend. Hohe 48.",878,100.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88323,643590,407,562,562,880,100.0,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643591,408,563,"Bronze-Madchenbiste von E.Kinsburger,auf Marmorsockel.Hohe 1612",883,96.9,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643591,408,563,"Bronze-Madchenbiste von E.Kinsburger,auf Marmorsockel.Hohe 1612",883,96.9,False,positional,,,Bucher; Stiche,,Sec. XVII
 BO0624_88323,643592,409,564,"Apollo und Diana.Zwei Bronzebisten auf Marmorsockel,Gladen-",884,96.7,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643593,410,565,Amor mit Storch auf Marmorsockel und zwei Kinderkopfchen. Bronze.,886,96.9,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643594,411,567,567,890,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643595,412,568,Bronzegruppe. Ruhender Hermes auf Marmorsockel. Hohe 15. Bronzebiste.Venus.Hohe 23. Bronzeamorette auf Postament. Hohe 17%,892,61.3,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643596,413,571,"Bronzegruppe. Rautendelein und Froschkonig von P. Koralczewski,",895,96.8,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643597,414,572,- auf Marmorsockel. Hohe 1912,897,100.0,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643597,414,572,- auf Marmorsockel. Hohe 1912,897,100.0,False,positional,,,Bucher; Stiche,,Sec. XX
 BO0624_88323,643598,415,573,Bronzerelief.Arbeiter von C. Meunier. 16/22.,899,95.3,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643599,416,574,- Desgl. Mutter und Kind auf Marmorplatte von Oberammerge. 20/18.,901,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643600,417,576,576,903,100.0,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643601,418,577,Zwei Bronzevasen mit Figurenrelief. Hohe je 1512,906,95.9,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643601,418,577,Zwei Bronzevasen mit Figurenrelief. Hohe je 1512,906,95.9,False,positional,,,Bucher; Stiche,,Sec. XVI
 BO0624_88323,643602,419,578,Zigarrenanzinder. Messingbronze. Stilis. Lowe und Aschenbecher.,907,96.7,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643603,420,579,"Schreibpultchen. Ebenholz mit Elfenbeineinlagen, reiche RenaissanceArbeit um 1600.",908,97.5,False,positional,,,Bucher; Stiche,,
+BO0624_88323,643603,420,579,"Schreibpultchen. Ebenholz mit Elfenbeineinlagen, reiche RenaissanceArbeit um 1600.",908,97.5,False,positional,,,Bucher; Stiche,,Sec. XVII
 BO0624_88323,643604,421,580,Zwei Urnen auf Onixstander. Bronze montiert mit Amorette.,909,96.5,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643605,422,581,Marmorschale auf Holzsockel.,910,93.1,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643606,423,582,- Uhr mit Marmor und Bronzerelief.,912,100.0,False,positional,,,Bucher; Stiche,,
@@ -462,7 +462,7 @@ BO0624_88323,643643,460,626,Brosche. Gold mit Perle und Miperlen. GurtelschlieBe
 BO0624_88323,643644,461,627,Petschaft. Silber und Bronze mit Achat und Emaille.,978,96.1,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643645,462,630,- 629 Rahmen.103/59.,981,100.0,False,positional,,,CORNICI,,
 BO0624_88323,643646,463,632,- 633,984,100.0,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643647,464,634,Portrat des Herrn HannB Steininger 1567 nebst Beschreibung. Porzellanmalerei nach Greuze. Der zerbrochene Krug. 26/21.,985,65.9,False,positional,GREUZE J. B.,,Bucher; Stiche,,
+BO0624_88323,643647,464,634,Portrat des Herrn HannB Steininger 1567 nebst Beschreibung. Porzellanmalerei nach Greuze. Der zerbrochene Krug. 26/21.,985,65.9,False,positional,GREUZE J. B.,,Bucher; Stiche,,Sec. XVI
 BO0624_88323,643648,465,635,"Abbildung eines Junglings, in Druck- und Seidenstoff gearbeitet. 28/18",990,97.1,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643649,466,636,"Spiegelrahmen.Holz geschnitzt. Louis XV. Hohe 185,Breite 85.",991,96.6,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_88323,643650,467,637,"Facher, Schildpatt,mit Adlerfedern.",992,94.3,False,positional,,,OGGETTI VARI,,
@@ -601,26 +601,26 @@ BO0624_88323,643782,599,793,- Desgl. mit geradem AusguB und Bemalung. Hohe 32.,1
 BO0624_88323,643783,600,794,"Desgl. mit Kopf und AusguB auf Henkel. Hohe 16,5.",1207,95.8,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643784,601,795,"- Desgl. mit spitzem Bauch und 2 Henkeln. Bemalt. Hohe 17,5.",1209,100.0,False,positional,,,Bucher; Stiche,,
 BO0624_88323,643785,602,796,"- Desgl. mit AusguB auf Henkel und GefaB, geperlt und gezahnt mit",1211,100.0,False,positional,,,Bucher; Stiche,,
-BO0624_88323,643786,603,797,Holzskulptur. Madonna und Kind. Mit Resten alter Bemalung. Hohe 78 cm.Nurnberg um 1510. Desgi. Stehender Christus als Schmerzensmann. Alte Bemalung. Nurnberger Gegend um 1500. seegebiet um 1520.,1224,62.5,False,title_direct,,Scuola di Norimberga,Holzskulpturen,,
+BO0624_88323,643786,603,797,Holzskulptur. Madonna und Kind. Mit Resten alter Bemalung. Hohe 78 cm.Nurnberg um 1510. Desgi. Stehender Christus als Schmerzensmann. Alte Bemalung. Nurnberger Gegend um 1500. seegebiet um 1520.,1224,62.5,False,title_direct,,Scuola di Norimberga,Holzskulpturen,,Sec. XVI
 BO0624_88323,643787,604,800,Desgl. Biste einer weibl. Heiligen. Alte Bemalung. Siddeutsch. Jahrh.,1226,91.9,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643788,605,801,des 16. Jahrh.,1228,85.7,False,positional,,Scuola Veneziana,Orientalische Waffen,,
-BO0624_88323,643789,606,802,Desgl. GroBe Kronungsgruppe in alten Farben. Schwabisch um 1490 (Siehe Abbildung.),1230,97.5,False,positional,,Scuola Sveva,Orientalische Waffen,,
+BO0624_88323,643788,605,801,des 16. Jahrh.,1228,85.7,False,positional,,Scuola Veneziana,Orientalische Waffen,,Sec. XVI
+BO0624_88323,643789,606,802,Desgl. GroBe Kronungsgruppe in alten Farben. Schwabisch um 1490 (Siehe Abbildung.),1230,97.5,False,positional,,Scuola Sveva,Orientalische Waffen,,Sec. XV
 BO0624_88323,643790,607,803,Holzskulptur. Johannes der Taufer. Unbemalt.Aus der Gegend von Wurzburg. Art Riemenschneiders.,1231,97.8,False,title_direct,,,Holzskulpturen,,
 BO0624_88323,643791,608,804,"- Desgl. Madonna mit Kind, sitzend. Alte Bemalung. Anfang des 15.Jahrh. Schwabisch.",1233,100.0,False,positional,,Scuola Sveva,Orientalische Waffen,,
 BO0624_88323,643792,609,805,Desgl.,1234,71.4,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643793,610,806,Desgl. Madonna mit Kind. Maria mit stark zurickgebogenem Oberkorper halt das Kind auf dem linken Arm. Reiche Faltendraperie in Lindenholz mit alter Bemalung. Frankisch um 1510.,1236,98.8,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643794,611,807,"Desgl. Christus als Schmerzensmann, sitzend, in alter Bemalung. Suddeutsch um 1520.",1240,97.5,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643795,612,808,"Desgl. GroBe Madonna mit Kind in alter Gold- und Silberfassung, mit stark bewegtem Faltenwurf. 2. Halfte des 16. Jahrh:Sud-",1241,98.3,False,positional,,,OGGETTI IN ORO,,
+BO0624_88323,643793,610,806,Desgl. Madonna mit Kind. Maria mit stark zurickgebogenem Oberkorper halt das Kind auf dem linken Arm. Reiche Faltendraperie in Lindenholz mit alter Bemalung. Frankisch um 1510.,1236,98.8,False,positional,,,Orientalische Waffen,,Sec. XVI
+BO0624_88323,643794,611,807,"Desgl. Christus als Schmerzensmann, sitzend, in alter Bemalung. Suddeutsch um 1520.",1240,97.5,False,positional,,,Orientalische Waffen,,Sec. XVI
+BO0624_88323,643795,612,808,"Desgl. GroBe Madonna mit Kind in alter Gold- und Silberfassung, mit stark bewegtem Faltenwurf. 2. Halfte des 16. Jahrh:Sud-",1241,98.3,False,positional,,,OGGETTI IN ORO,,Sec. XVI
 BO0624_88323,643796,613,809,Desgl. Auferstandener Christus. Alte Bemalung und Vergoldung. Vermutlich Original-Arbeit des Meisters der Altottinger Tiren.,1243,98.4,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643797,614,810,Desgl. Biste einer Maria mit Kind.Alte Bemalung. Siddeutsch.,1247,96.6,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643798,615,811,"Desgl. Weibliche Heilige mit Schlange, zum Teil noch alte Bemalung mit stark bewegtem Faltenwurf. Gute Arbeit der Mainzer Frihrenaissance.",1249,98.5,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643799,616,812,Desgl. Gott Vater auf Wolken.,1250,93.1,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643800,617,813,Desgl. Halbfigur einer weibl. Heiligen. Franzosisch um 1600.,1252,96.6,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643800,617,813,Desgl. Halbfigur einer weibl. Heiligen. Franzosisch um 1600.,1252,96.6,False,positional,,,Orientalische Waffen,,Sec. XVII
 BO0624_88323,643801,618,814,Desgl. Madonna mit Jesuskind.Alte Bemalung. Siddeutsch. 15.Jahrh.,1253,96.8,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643802,619,815,Desgl.,1255,71.4,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643803,620,816,Desgl. Heiliger Joseph. Desgl. Hl. Sebastian. Sandstein. Franzosisch. 16. Jahrh. Skulptur. Kopf einer Heiligen. Sandstein. Romanisch. 12-13. Jahrh. Rheinland.,1258,66.7,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643804,621,819,Ton-Modell zu einer Kronungsgruppe. Tirol. Anfang 16. Jahrh.,1259,96.6,False,positional,,Scuola Tirolese,Orientalische Waffen,,
-BO0624_88323,643805,622,820,Alabaster-Relief. St. Georg mit Drachen. Rheinland. 16. Jahrh.,1260,96.6,False,positional,,,ALABASTRI,,
+BO0624_88323,643803,620,816,Desgl. Heiliger Joseph. Desgl. Hl. Sebastian. Sandstein. Franzosisch. 16. Jahrh. Skulptur. Kopf einer Heiligen. Sandstein. Romanisch. 12-13. Jahrh. Rheinland.,1258,66.7,False,positional,,,Orientalische Waffen,,Sec. XVI
+BO0624_88323,643804,621,819,Ton-Modell zu einer Kronungsgruppe. Tirol. Anfang 16. Jahrh.,1259,96.6,False,positional,,Scuola Tirolese,Orientalische Waffen,,Sec. XVI
+BO0624_88323,643805,622,820,Alabaster-Relief. St. Georg mit Drachen. Rheinland. 16. Jahrh.,1260,96.6,False,positional,,,ALABASTRI,,Sec. XVI
 BO0624_88323,643806,623,821,"Elfenbeinschnitzerei. Vorderseite St.Georg mit dem Drachen, Ruick-",1261,96.9,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643807,624,822,"- 823 Fusnetschrank,2tuir. Renaissance.Hohe 118, 155/48.",1265,100.0,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643808,625,824,"Zweitur. Schrank. Eichen mit glatten Fullungen. Hohe 215, 195/70.",1266,96.8,False,positional,,,Orientalische Waffen,,
@@ -712,7 +712,7 @@ BO0624_88323,643893,710,918,- 919 Elfenbeinsteckkanne.,1395,100.0,False,position
 BO0624_88323,643894,711,921,- Elfenbeinbrosche. Porzellangruppe. 5 Teile.Figuren etc.,1398,79.1,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643895,712,922,Zinnlampe.,1399,81.8,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643896,713,923,Zwei Zinnleuchter mit Horn.,1401,92.9,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643897,714,924,Zinnkanne 1798.,1402,87.5,False,positional,,,OGGETTI IN LATTA,,
+BO0624_88323,643897,714,924,Zinnkanne 1798.,1402,87.5,False,positional,,,OGGETTI IN LATTA,,Sec. XVIII
 BO0624_88323,643898,715,926,926,1404,100.0,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643899,716,928,928,1407,100.0,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643900,717,929,Hohe Vase. Kioto Satsuma.,1409,92.0,False,positional,,,VASI,,
@@ -733,9 +733,9 @@ BO0624_88323,643914,731,951,- Zwei Blumenhalter.Silber.,1444,100.0,False,positio
 BO0624_88323,643915,732,952,Tasse. Silber.,1445,85.7,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643916,733,953,Becher.Desgl.,1446,85.7,False,positional,,,VASI,,
 BO0624_88323,643917,734,954,- 955 Bonbonschisselchen. Desgl.,1448,100.0,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643918,735,956,"Zwei Goldwagen mit Gewichten. 18. Jahrh,",1450,94.9,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643918,735,956,"Zwei Goldwagen mit Gewichten. 18. Jahrh,",1450,94.9,False,positional,,,Orientalische Waffen,,Sec. XVIII
 BO0624_88323,643919,736,958,- 957 Desgl. Desgl.,1452,100.0,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643920,737,959,Diamantenwage. 18. Jahrh.,1453,91.7,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643920,737,959,Diamantenwage. 18. Jahrh.,1453,91.7,False,positional,,,Orientalische Waffen,,Sec. XVIII
 BO0624_88323,643921,738,960,Kielfeder aus dem Besitz Goethes.,1455,94.1,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643922,739,961,Zwei Porzellankannen. Alt-Wien.,1456,93.5,False,positional,,Scuola Viennese,Orientalische Waffen,,
 BO0624_88323,643923,740,962,- Toilettengarnitur. Silber.22 Teile.In Kasten.,1458,100.0,False,positional,,,OGGETTI VARI,,
@@ -779,31 +779,31 @@ BO0624_88323,643960,777,1002,- GroBer Majolikatopf.,1518,100.0,False,positional,
 BO0624_88323,643961,778,1003,"Elefant, Holz geschnitzt,mit Uhr.",1519,92.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88323,643962,779,1004,Drei Schalen. Metall. Nachbildungen.,1520,93.0,False,positional,,,OGGETTI IN METALLO,,
 BO0624_88323,643963,780,1005,GroBe Porzellanvase. Kanghi.,1521,91.2,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643964,781,1006,1007 Vaschen und 2 Figirchen. Porzellan.,1525,100.0,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643964,781,1006,1007 Vaschen und 2 Figirchen. Porzellan.,1525,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
 BO0624_88323,643965,782,1008,Totenkopf. Elfenbein.,1529,88.4,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643966,783,1009,1010 Glaspokal mit Deckel. Reich geschliffen.,1533,100.0,False,positional,,,OGGETTI VARI,,
-BO0624_88323,643967,784,1011,1012,1537,100.0,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643968,785,1013,1014,1545,100.0,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643966,783,1009,1010 Glaspokal mit Deckel. Reich geschliffen.,1533,100.0,False,positional,,,OGGETTI VARI,,Sec. XI
+BO0624_88323,643967,784,1011,1012,1537,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
+BO0624_88323,643968,785,1013,1014,1545,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
 BO0624_88323,643969,786,1015,Desgl. mit roten Streifen.,1549,90.6,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643970,787,1016,Glaspokal mit Inschrift. Bronzestander mit 2 Lampen. Griechische Form. Weinglas mit Wappen.,1557,65.2,False,positional,,,LAMPADE,,
-BO0624_88323,643971,788,1019,1020 Griechisches Lampchen. Bronze.,1563,100.0,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643972,789,1021,1022,1569,100.0,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643971,788,1019,1020 Griechisches Lampchen. Bronze.,1563,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
+BO0624_88323,643972,789,1021,1022,1569,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
 BO0624_88323,643973,790,1023,Desgl.,1573,66.7,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643974,791,1024,"1025 Drei Figirchen. Elfenbein, Porzellan und Speckstein.",1579,100.0,False,positional,,,OGGETTI IN PIETRA,,
-BO0624_88323,643975,792,1026,1027 TaBchen und Schalchen. Porzellan.,1583,100.0,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643976,793,1028,1029 Porzellanfigirchen. Ganymed  auf Sockel und,1593,100.0,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643974,791,1024,"1025 Drei Figirchen. Elfenbein, Porzellan und Speckstein.",1579,100.0,False,positional,,,OGGETTI IN PIETRA,,Sec. XI
+BO0624_88323,643975,792,1026,1027 TaBchen und Schalchen. Porzellan.,1583,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
+BO0624_88323,643976,793,1028,1029 Porzellanfigirchen. Ganymed  auf Sockel und,1593,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
 BO0624_88323,643977,794,1030,Griechisches Vaschen.,1599,100.0,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643978,795,1031,Benaresteller.,1601,83.9,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643979,796,1032,Bronzerelief. Pferdekopf.,1605,90.2,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643980,797,1034,"1033 Zwei Prachtbande. Agypten in Bild und Wort von Georg Ebers, illustriert von ersten Kunstlern. 1879.",1609,100.0,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643980,797,1034,"1033 Zwei Prachtbande. Agypten in Bild und Wort von Georg Ebers, illustriert von ersten Kunstlern. 1879.",1609,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
 BO0624_88323,643981,798,1035,Rosenkranz von Meernissen aus Capri.,1611,93.3,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643982,799,1036,1037,1617,100.0,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643982,799,1036,1037,1617,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
 BO0624_88323,643983,800,1038,Porzellan-Dose.Rouen.,1621,88.9,False,positional,,,SCATOLE,,
 BO0624_88323,643984,801,1039,"Gruppe. Amor mit Bogen, sitzend auf Holzsockel.",1625,94.6,False,positional,,,OGGETTI VARI,,
-BO0624_88323,643985,802,1040,1041,1629,100.0,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643985,802,1040,1041,1629,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
 BO0624_88323,643986,803,1042,"Zwei PorzellantaBchen. China. Desgl. Rauenstein. Porzellanfigirchen, weiB. Tanzender Junge.",1639,62.5,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643987,804,1045,"Zwei Porzellanfigirchen, liegend.",1641,92.5,False,positional,,,Orientalische Waffen,,
-BO0624_88323,643988,805,1046,1047 Biskuitfigur. Merkur. Kopenhagen.,1645,100.0,False,positional,,,Orientalische Waffen,,
+BO0624_88323,643988,805,1046,1047 Biskuitfigur. Merkur. Kopenhagen.,1645,100.0,False,positional,,,Orientalische Waffen,,Sec. XI
 BO0624_88323,643989,806,1048,Porzellangrippchen.,1653,100.0,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643990,807,1049,"Dores Prachtbibel. Das alte und neue Testament mit 230 Abbildungen. Verlag Ed. Hallberger, Stuttgart.",1654,97.5,False,positional,,,Orientalische Waffen,,
 BO0624_88323,643991,808,1050,"Acht Blatt Illustrationen, gestochen von Pinkas, Poll, Mansfeld u. And.",1655,96.4,False,positional,,,Orientalische Waffen,,
@@ -820,5 +820,5 @@ BO0624_88323,644001,818,1064,"Wuerst. Bonn und seine Umgebung. Scott. Ivanhoe mi
 BO0624_88323,644002,819,1067,Sacher-Masoch.Die Damen im Pelz.,1672,92.5,False,positional,,,Orientalische Waffen,,
 BO0624_88323,644003,820,1068,Dr. Gatt. Allgemeiner Briefsteller.,1673,92.8,False,positional,,,Orientalische Waffen,,
 BO0624_88323,644004,821,1069,von Hellwald. Die Erde und ihre Volker. 2 Bande. : A.Hagen.Kunstlergeschichten.4 Bande. Champollion. Beschreibung von Agypten mit 92 Kupfertafeln.,1676,57.3,False,positional,,,Orientalische Waffen,,
-BO0624_88323,644005,822,1072,O.v.Leixner.Unser Jahrhundert.2 Bande. Tausend und eine Nacht mit versch.hundert Holzschnitten. 2 Bande. Volney. Voyage en Syrie et en Agyptie 1787. 2 Bande.,1678,58.4,False,positional,,,Orientalische Waffen,,
-BO0624_88323,644006,823,1075,Gervinus. Handbuch der Geschichte der poetischen Nationalliteratur der Deutschen 1842.,1680,97.1,False,positional,,,Orientalische Waffen,,
+BO0624_88323,644005,822,1072,O.v.Leixner.Unser Jahrhundert.2 Bande. Tausend und eine Nacht mit versch.hundert Holzschnitten. 2 Bande. Volney. Voyage en Syrie et en Agyptie 1787. 2 Bande.,1678,58.4,False,positional,,,Orientalische Waffen,,Sec. XVIII
+BO0624_88323,644006,823,1075,Gervinus. Handbuch der Geschichte der poetischen Nationalliteratur der Deutschen 1842.,1680,97.1,False,positional,,,Orientalische Waffen,,Sec. XIX

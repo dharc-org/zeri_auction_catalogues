@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87801,436742,1,1,Fischerdorf.,42,91.7,False,positional,Professor Andreas ACHENBACH,,,,
 BO0624_87801,436743,2,2,Einlaufende Fischerboote.,52,96.0,False,positional,Professor Andreas ACHENBACH,,,,
-BO0624_87801,436744,3,3,Waldpartie mit Burg. 1905 Dusseldorf.,60,67.9,False,positional,Professor Andreas ACHENBACH,,,,
+BO0624_87801,436744,3,3,Waldpartie mit Burg. 1905 Dusseldorf.,60,67.9,False,positional,Professor Andreas ACHENBACH,,,,Sec. XX
 BO0624_87801,436745,4,4,"Italienische Landschaft. Trachten, zu Fuss und zu Esel belebt. Zur Rechten beschattet eine Gruppe grosser Baume den Weg. Italienisches Landhaus.",81,79.7,False,positional,Oswald ACHENBACH,,OGGETTI VARI,,
 BO0624_87801,436746,5,7,Im Garten des Malkasten.,97,95.8,False,positional,Oswald ACHENBACH,,,,
 BO0624_87801,436747,6,8,Junger Mann mit Katze und Hund.,113,96.8,False,positional,Franz ADAM,,,,
@@ -37,7 +37,7 @@ BO0624_87801,436776,35,38,Winter. m verschneiten Wald geht eine Frau mit Knaben.
 BO0624_87801,436777,36,39,Herbstlandschaft.,418,91.4,False,positional,Richard FEHDMER,,,,
 BO0624_87801,436778,37,40,"- Muhlbach im Buchenwald. m Bilde links steht eine kleine Muhle, aus der Mitte",431,82.5,False,positional,Heinrich FLOCKENHAUS,,,,
 BO0624_87801,436779,38,41,Winterabend.,441,88.0,False,positional,Heinrich FLOCKENHAUS,,,,
-BO0624_87801,436780,39,42,"Im Winter. 1865, Paris.",457,62.9,False,positional,Charles FORTIN,,,,
+BO0624_87801,436780,39,42,"Im Winter. 1865, Paris.",457,62.9,False,positional,Charles FORTIN,,,,Sec. XIX
 BO0624_87801,436781,40,43,43. Fischerfamilie.,465,100.0,False,positional,Charles FORTIN,,,,
 BO0624_87801,436782,41,44,44.Die Waldmihle. Von der Sonne hell beschienen liegt die kleine Muhle inmitten des Waldes an einem Abhang. Schwarzer Ra,472,93.7,False,positional,Hermann Julius Richard FRESENIUs,,,,
 BO0624_87801,436783,42,45,45. Szene aus der Zerstorung Troja's. Auf dem Dach eines Palastes ist ein Grieche im Begriff Hektor's Sohn herabzuschleu,480,73.3,False,positional,Enrico GAMBA,,,,
@@ -64,15 +64,15 @@ BO0624_87801,436803,62,65,Im Wirtshause.,657,89.7,False,positional,H.KAUFFMANN,,
 BO0624_87801,436804,63,66,Aus der Bretagne.,667,91.4,False,positional,Adolf KAUFMAN,,,,
 BO0624_87801,436805,64,67,Adam und Eva.,678,88.9,False,positional,Wilhelm von KAULBACH,,,,
 BO0624_87801,436806,65,68,Hugelige Landschaft.,694,92.7,False,positional,Barend Cornelis KOEKKOEK,,,,
-BO0624_87801,436807,66,69,"Landschaftsstudie. 1899, Dresden.",708,68.0,False,positional,Jan Hermann KOEKKOEK,,,,
+BO0624_87801,436807,66,69,"Landschaftsstudie. 1899, Dresden.",708,68.0,False,positional,Jan Hermann KOEKKOEK,,,,Sec. XIX
 BO0624_87801,436808,67,70,Spannende Lekture.,716,91.9,False,positional,Hugo KONIG,,,,
 BO0624_87801,436809,68,71,"Rohrender Vierzehnender. m herbstlich gefarbten Wald steht auf einer Lichtung, inmitten seiner Tiere der machtige Hirsch. Im Hintergrund ein zweites Rudel.Goldrahmen.",731,92.4,False,positional,Hugo KONIG,,,,
 BO0624_87801,436810,69,72,Der neue Hut.,739,88.9,False,positional,Karl KRONBERGER,,,,
-BO0624_87801,436811,70,73,"Landschaft mit Wasser. 1871,Antwerpen.",749,70.0,False,positional,F.KRUGER,,,,
-BO0624_87801,436812,71,74,"Inneres eines Pferdestalles. 1873,St.Johns Wood.",759,71.1,False,positional,Jan Lodevijk von KUYK,,,,
+BO0624_87801,436811,70,73,"Landschaft mit Wasser. 1871,Antwerpen.",749,70.0,False,positional,F.KRUGER,,,,Sec. XIX
+BO0624_87801,436812,71,74,"Inneres eines Pferdestalles. 1873,St.Johns Wood.",759,71.1,False,positional,Jan Lodevijk von KUYK,,,,Sec. XIX
 BO0624_87801,436813,72,75,Die Hirtenfamilie.,773,91.9,False,positional,Sir Edwin Henry LANDSEER,,,,
 BO0624_87801,436814,73,76,Winterlandschaft.,784,91.4,False,positional,Charles LEICKERT,,,,
-BO0624_87801,436815,74,77,"Burgruine am Rhein. 1869, Antwerpen.",794,66.7,False,positional,Charles LEICKERT,,,,
+BO0624_87801,436815,74,77,"Burgruine am Rhein. 1869, Antwerpen.",794,66.7,False,positional,Charles LEICKERT,,,,Sec. XIX
 BO0624_87801,436816,75,78,"Die Uberraschung. n einem elegant moblierten Salon steht die Dienstmagd zur Rechten, mit einem Papagei beschaftigt, ein junger Mann reicht zum geoffneten Fenster einen Huhner- korb mit Geflugel herein. Holzrahmen.",806,96.0,False,positional,Henri Jean Augustin LEYS,,OGGETTI VARI,,
 BO0624_87801,436817,76,79,Isarlandschaft. Familienszene.,823,63.6,False,positional,Adolf LIER,,,,
 BO0624_87801,436818,77,80,Thuringer Wald.,829,90.3,False,positional,Theodor MARTENS,,,,
@@ -95,7 +95,7 @@ BO0624_87801,436834,93,100,Zwei Freundinnen.,995,88.9,False,positional,Edward PO
 BO0624_87801,436835,94,96,Madchen aus Mariopiano.,1011,93.6,False,positional,M. Hermann PHILIPS,,,,
 BO0624_87801,436836,95,97,In Andacht.,1021,87.0,False,positional,Marie PHILIPS-WEBER,,,,
 BO0624_87801,436837,96,98,Andacht im Freien.,1029,91.9,False,positional,Marie PHILIPS-WEBER,,,,
-BO0624_87801,436838,97,1828,"1895,Munchen.",1043,82.8,False,positional,Ferdinand von PILOTY,,,,
+BO0624_87801,436838,97,1828,"1895,Munchen.",1043,82.8,False,positional,Ferdinand von PILOTY,,,,Sec. XIX
 BO0624_87801,436839,98,101,Marine.,1048,75.0,False,positional,Anton RASMUSSEN,,,,
 BO0624_87801,436840,99,102,Abendlandschaft.,1060,88.2,False,positional,Franz REDER-BROILI,,,,
 BO0624_87801,436841,100,103,Holz 24/33,1075,100.0,False,positional,Professor Ludwig von ROESSLER,,OGGETTI IN LEGNO,,
@@ -118,9 +118,9 @@ BO0624_87801,436857,116,123,Hochgebirgssee.,1275,87.5,False,positional,H.STEINIK
 BO0624_87801,436858,117,124,Mondscheinlandschaft.,1283,90.9,False,positional,H.STEINIKE,,,,
 BO0624_87801,436859,118,125,- Abendlandschaft. Pendant z. Vor.,1293,100.0,False,positional,H.STEINIKE,,,,
 BO0624_87801,436860,119,126,Flachlandschaft bei Katwyk.,1299,92.9,False,positional,L. Storm van's GRAVESANDE,,,,
-BO0624_87801,436861,120,1834,1901 Munchen.,1309,82.8,False,positional,Ludwig SELLMAYR,,,,
+BO0624_87801,436861,120,1834,1901 Munchen.,1309,82.8,False,positional,Ludwig SELLMAYR,,,,Sec. XX
 BO0624_87801,436862,121,121,Kuhherde an der Tranke.,1311,91.7,False,positional,Ludwig SELLMAYR,,,,
-BO0624_87801,436863,122,1824,1895 Munchen.,1319,82.8,False,positional,Adolf STADEMANN,,,,
+BO0624_87801,436863,122,1824,1895 Munchen.,1319,82.8,False,positional,Adolf STADEMANN,,,,Sec. XIX
 BO0624_87801,436864,123,127,Im Gebet.,1320,80.0,False,positional,Adolf STADEMANN,,,,
 BO0624_87801,436865,124,128,- 130.,1333,100.0,False,positional,Desire THOMASSIM,,,,
 BO0624_87801,436866,125,129,Desgl. Pendant z. Vor.,1342,90.5,False,positional,Desire THOMASSIM,,,,
@@ -135,7 +135,7 @@ BO0624_87801,436874,133,138,"Hochsommerlandschaft. m Vordergrund reifes,zum Teil
 BO0624_87801,436875,134,139,Huhnerhof.,1448,81.8,False,positional,Ludwig VOLTZ,,,,
 BO0624_87801,436876,135,140,Schafherde.,1454,83.3,False,positional,Ludwig VOLTZ,,,,
 BO0624_87801,436877,136,141,Auf der Alm.,1468,84.6,False,positional,Max WACHSMUTH,,,,
-BO0624_87801,436878,137,142,Felsschlucht mit Bar. 1879 Munchen.,1479,70.2,False,positional,Karl WAGNER,,,,
+BO0624_87801,436878,137,142,Felsschlucht mit Bar. 1879 Munchen.,1479,70.2,False,positional,Karl WAGNER,,,,Sec. XIX
 BO0624_87801,436879,138,143,Ruhige See an der Kuiste.,1491,92.3,False,positional,Johann Baptist WEISs,,,,
 BO0624_87801,436880,139,144,Madchenbildnis.,1501,87.5,False,positional,Fritz WICHGRAF,,,,
 BO0624_87801,436881,140,145,Die Neugierigen.,1511,88.2,False,positional,Paul WICHMANN,,,,

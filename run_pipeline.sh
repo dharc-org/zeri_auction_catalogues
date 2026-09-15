@@ -71,7 +71,7 @@ python3 "${PROJECT_ROOT}/assign_entities_via_title_match.py"
 
 # ---- 3. enrich_artist_school.py (nessun argomento CLI) --------------------
 log "STEP 3/4: enrich_artist_school.py"
-python3 "${PROJECT_ROOT}/enrich_artist_school.py"
+python3 "${PROJECT_ROOT}/enrich_artist_school_type.py"
 
 # ---- 4. app/generate_rdf.py ------------------------------------------------
 log "STEP 4/4: app/generate_rdf.py"

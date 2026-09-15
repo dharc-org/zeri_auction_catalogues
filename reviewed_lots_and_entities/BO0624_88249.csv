@@ -76,7 +76,7 @@ BO0624_88249,410922,74,100,"Landlchaft mit Ruinen.                              
 BO0624_88249,410923,75,101,Madonna mit Kind.                                                                | Holz 80/60                 |,230,93.1,False,positional,E.Herff,,OGGETTI IN LEGNO,,
 BO0624_88249,410924,76,102,Stilleben.Blumen.                                                                |                            |,232,88.9,False,positional,E.Herff,,OGGETTI VARI,,
 BO0624_88249,410925,77,103,Desgl. Obst.                                                                     | Gegenftick z. Uor.         |,233,93.1,False,positional,E.Herff,,,,
-BO0624_88249,410926,78,106,"Huftbild einer alten Frau. Bezeichnet.                               | D.Kindt,1580—1652,Hamburg. Leinw.63/43                                                            |",237,97.4,False,positional,E.Herff,,,,
+BO0624_88249,410926,78,106,"Huftbild einer alten Frau. Bezeichnet.                               | D.Kindt,1580—1652,Hamburg. Leinw.63/43                                                            |",237,97.4,False,positional,E.Herff,,,,Sec. XVI
 BO0624_88249,410927,79,108,"Heide bei Munchen. Bezeichnet.                                       | M.Kreitmayr, Munchen. Karton 20,5/26                                                              |",239,96.9,False,positional,E.Herff,,,,
 BO0624_88249,410928,80,112,Kratke nach Rouffeau. Le Mare.                                       | Platte 50/70 Platte 40/50                                                                         |,243,96.4,False,positional,E.Herff,,,,
 BO0624_88249,410929,81,113,Raab nach Tizian. Madonna. 114 Witthoft nach Meyerheim.Die Taubchen. | Platte 46/51                                                                                      |,244,97.5,False,positional,E.Herff,,,,
@@ -120,8 +120,8 @@ BO0624_88249,410966,118,162,"Abendbeleuchtung bei Regenwetter. Leinw.a.Karton 35
 BO0624_88249,410967,119,165,Schloh Twickenham on Tyne. Bezeichnet.                                                                                        |,369,94.7,False,positional,Peter Wurth,,,,
 BO0624_88249,410968,120,169,Uerlpottung Chrifti.                                                                                                          |,373,90.5,False,positional,Peter Wurth,,,,
 BO0624_88249,410969,121,177,Hermann und Dorothea nach Kaulbach.                                                                   | 65/50          |,382,95.2,False,positional,Peter Wurth,,,,
-BO0624_88249,410970,122,182,"Partie aus dem Taunus. Olftudie. Bez.:1839.                                                           | Karton 14/19,5 |",388,96.4,False,positional,Peter Wurth,,,,
-BO0624_88249,410971,123,183,Frankfurter Stadtwald. Forfterwiele. Bez.:1843.                                                       | Karton 14/19   |,389,96.6,False,positional,Peter Wurth,,,,
+BO0624_88249,410970,122,182,"Partie aus dem Taunus. Olftudie. Bez.:1839.                                                           | Karton 14/19,5 |",388,96.4,False,positional,Peter Wurth,,,,Sec. XIX
+BO0624_88249,410971,123,183,Frankfurter Stadtwald. Forfterwiele. Bez.:1843.                                                       | Karton 14/19   |,389,96.6,False,positional,Peter Wurth,,,,Sec. XIX
 BO0624_88249,410972,124,188,"Landichaft mit Burg. Sepia 14,5/19 Bezeichnet.",396,95.7,False,positional,Ph.Rumpf,,,,
 BO0624_88249,410973,125,189,"Bettler in einer Landlchaft ftehend. Holz 34,5/24,5",400,96.2,False,positional,Dauid Ryckaert,,OGGETTI IN LEGNO,,
 BO0624_88249,410974,126,190,"Abfchied des Calas. Gouache 49,5/60 Bezeichnet.",404,95.7,False,positional,A. M. Schonhand,,,,
@@ -159,7 +159,7 @@ BO0624_88249,411005,157,236,Hexen-Ausfahrt. Karton 45/36,516,93.1,False,position
 BO0624_88249,411006,158,237,Uerluchung des heiligen Antonius.,518,94.1,False,positional,Peter Wurth,,,,
 BO0624_88249,411007,159,238,8 Stilleben. Bucher und Flafchen. Leinw.39/47,522,95.6,False,positional,Peter Wurth,,,,
 BO0624_88249,411008,160,239,"Maria mit Jelus und Johannes. Farbftift 23,5/18,5",530,96.0,False,positional,Domenicho Zampieri,,,,
-BO0624_88249,411009,161,240,Alt-Offenbach a.M.1773. Lithographie 26/36 ## Il. Abteilung.,534,82.8,False,positional,Kaspar Zehender,,STAMPE E INCISIONI,,
+BO0624_88249,411009,161,240,Alt-Offenbach a.M.1773. Lithographie 26/36 ## Il. Abteilung.,534,82.8,False,positional,Kaspar Zehender,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_88249,411010,162,241,Zwei Halbedelfteine. Aguamarin und Topas.,541,95.1,False,positional,,,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411011,163,242,Uier desgl.Amethyften.,542,91.3,False,positional,,,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411012,164,243,"Gurtelfchnalle, ruflifch Silber und Portemonnaie. Elektr.Klingel. Silber. Gurtel.Japan.",543,70.7,False,positional,,,Hntiquitaten; Kunitgegenitande,,
@@ -172,7 +172,7 @@ BO0624_88249,411018,170,251,Salzfah.Silber.,553,87.5,False,positional,,,Hntiquit
 BO0624_88249,411019,171,252,Porzellanuale. Hohe 17 cm.,554,92.3,False,positional,,,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411020,172,253,"Seidenftickerei. 23,5/23,5 cm.",555,93.3,False,positional,,,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411021,173,254,- Spiten.5 Meter.,557,100.0,False,positional,,,Hntiquitaten; Kunitgegenitande,,
-BO0624_88249,411022,174,255,Uenetianilche Relieflpite aus den Jahren um 1600.,558,96.0,False,positional,,,Hntiquitaten; Kunitgegenitande,,
+BO0624_88249,411022,174,255,Uenetianilche Relieflpite aus den Jahren um 1600.,558,96.0,False,positional,,,Hntiquitaten; Kunitgegenitande,,Sec. XVII
 BO0624_88249,411023,175,256,Batilttuch mit farb. Seidenltickerei.,559,94.6,False,positional,,,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411024,176,257,Filet-Kirchenlpite.,560,90.0,False,positional,,,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411025,177,258,Spitenlchleier.,561,87.5,False,positional,,,Hntiquitaten; Kunitgegenitande,,
@@ -314,7 +314,7 @@ BO0624_88249,411160,312,416,Zwei Zinnteller mit Wappen getrieben und Laubrand.,7
 BO0624_88249,411161,313,417,Zinnplatte mit Bergknappenwappen. Durchmefler 31 cm.,782,96.2,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88249,411162,314,418,Zwei Zinnteller mit Wappen grauiert und Buckeln getrieben.,783,96.6,False,positional,,,PIATTI,,
 BO0624_88249,411163,315,419,- Durchmeller 23 cm.,785,100.0,False,positional,,,Hntiquitaten; Kunitgegenitande,,
-BO0624_88249,411164,316,420,Desgl. mit Portrat. Ferdinand 111. 1637. Durchmefler 23 cm.,786,96.4,False,positional,,,Hntiquitaten; Kunitgegenitande,,
+BO0624_88249,411164,316,420,Desgl. mit Portrat. Ferdinand 111. 1637. Durchmefler 23 cm.,786,96.4,False,positional,,,Hntiquitaten; Kunitgegenitande,,Sec. XVII
 BO0624_88249,411165,317,421,"Weinkuhler. Zinn getrieben. Hohe 26, Durchmeller 28 cm. Steingutkrug, blau-grau mit Ornamenten, lcharf gelchnitten. nafflau. Hohe 20 cm. Schrauben-Zinnkanne mit Figuren. Hohe 50 cm.",789,61.8,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88249,411166,318,424,- 425 Porzellanteller. Konigl. Porz.-Manufaktur. Berlin.,792,100.0,False,positional,,Scuola di Berlino,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411167,319,426,- Taffe und Untertalle. Porzellan. Bez.: F.,794,100.0,False,positional,,,Hntiquitaten; Kunitgegenitande,,
@@ -366,7 +366,7 @@ BO0624_88249,411212,364,4791,- 480,876,100.0,False,positional,,,Hntiquitaten; Ku
 BO0624_88249,411213,365,481,- 482,880,100.0,False,positional,,,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411214,366,483,Desgl. Amor und Pryche. Weib.Frankenthal. Bez.: 87. Hohe 23 cm.,881,96.6,False,positional,,,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411215,367,484,- 485,883,100.0,False,positional,,,Hntiquitaten; Kunitgegenitande,,
-BO0624_88249,411216,368,486,"Autograph. Originalbrief des General-Feldmarlchalls n. uon Gneifenau an Pralat uon Stechow vom 18.Marz 1813. 1 Seite 4°,eigenhandig gelchrieben mit Adrefle. - Weckeruhr. Biskuitgehaule. Kleine Porzellanuale, fchwarze Emailfarbe mit Frichtedekor, auf Holzftand. Art Kanghi. Hohe 28 cm.",887,71.1,False,positional,,,Hntiquitaten; Kunitgegenitande,,
+BO0624_88249,411216,368,486,"Autograph. Originalbrief des General-Feldmarlchalls n. uon Gneifenau an Pralat uon Stechow vom 18.Marz 1813. 1 Seite 4°,eigenhandig gelchrieben mit Adrefle. - Weckeruhr. Biskuitgehaule. Kleine Porzellanuale, fchwarze Emailfarbe mit Frichtedekor, auf Holzftand. Art Kanghi. Hohe 28 cm.",887,71.1,False,positional,,,Hntiquitaten; Kunitgegenitande,,Sec. XIX
 BO0624_88249,411217,369,489,"Porzellan-Flalchenuale mit 5 Ausgukoffnungen. Funffarbendekor, auf Holzftand. Periode Kienlung mit Marke. Hohe 28 cm. Ingwertopf mit Deckel und blau-weihem Figurendekor. Hohe 25cm.",891,77.5,False,positional,,,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411218,370,490,"Kleiner gedeckelter Koro.Satfuma. Hohe 10,5, Durchmeffer 13 cm.",893,96.8,False,positional,,,Hntiquitaten; Kunitgegenitande,,
 BO0624_88249,411219,371,491,"- 492 Porzellan-Koro auf 3 Beinen, mit Schmelzemailfarben. Kien-",895,100.0,False,positional,,,Hntiquitaten; Kunitgegenitande,,
@@ -493,7 +493,7 @@ BO0624_88249,411339,491,651,"- 652 Album mit 42 Tafeln. Anlichten von Uenedig,ge
 BO0624_88249,411340,492,653,- 654,1136,100.0,False,positional,,,Japaniiche Farbenholzichniffe,,
 BO0624_88249,411341,493,655,- 656 Kupferftich. St. Johannes.,1138,100.0,False,positional,,,Japaniiche Farbenholzichniffe,,
 BO0624_88249,411342,494,657,Zwei Photographieftander und Photographie-Album.,1141,95.9,False,positional,,,Japaniiche Farbenholzichniffe,,
-BO0624_88249,411343,495,658,Album. Koln 1906. Ausftellung des Uerbands der Kunft-,1142,96.2,False,positional,,,Japaniiche Farbenholzichniffe,,
+BO0624_88249,411343,495,658,Album. Koln 1906. Ausftellung des Uerbands der Kunft-,1142,96.2,False,positional,,,Japaniiche Farbenholzichniffe,,Sec. XX
 BO0624_88249,411344,496,659,- freunde in den Landern am Rhein.,1144,100.0,False,positional,,,Japaniiche Farbenholzichniffe,,
 BO0624_88249,411345,497,660,Teller mit Japandekor.,1145,91.3,False,positional,,,PIATTI,,
 BO0624_88249,411346,498,661,Mokkatabchen. Dresden.,1147,90.9,False,positional,,,Japaniiche Farbenholzichniffe,,

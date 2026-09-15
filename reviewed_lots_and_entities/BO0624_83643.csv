@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83643,725316,1,I2,## FRANCOIS POURBUS (DIT LE JEUNE).,98,100.0,False,title_direct,FRANCOIS POURBUS (DIT LE JEUNE),,,,
-BO0624_83643,725317,2,I,nscription:ETATIS SUE:..6.(26) 1594,108,98.4,False,positional,,Ecolefamande,,,
+BO0624_83643,725317,2,I,nscription:ETATIS SUE:..6.(26) 1594,108,98.4,False,positional,,Ecolefamande,,,Sec. XVI
 BO0624_83643,725318,3,I3,## INCONNU. MoNOGRAMME H.A.D.fec.,129,100.0,False,positional,ADRIEN KEY,,,,
 BO0624_83643,725319,4,16,## PIERRE-ALEXANDRE WILLE,152,100.0,False,title_direct,PIERRE-ALEXANDRE WILLE,,,,
 BO0624_83643,725320,5,18,19,183,100.0,False,positional,P.-P.RUBENS,Scuola di Dusseldorf,,,
@@ -50,18 +50,18 @@ BO0624_83643,725363,48,104,| LEMEME Prairies de Tronchiennes. Toile.Haut.o34;Lar
 BO0624_83643,725364,49,105,"| LEMEME SousBois,foret de Fontainebleau.                                                            |",1004,95.0,False,positional,J DE MAERTELAERE,,,,
 BO0624_83643,725365,50,106,| PAUL VERONESE (D'apres). Les Noces de Cana (fragment).                                             |,1005,96.0,False,positional,J DE MAERTELAERE,,OGGETTI VARI,,
 BO0624_83643,725366,51,107,"| P.-P.RUBENS(D'apres.) Copie de l'Adoration des Mages. (Musee d'Anvers.) Toile, Haut.o 75;Larg.0 55 |",1006,97.8,False,title_direct,P.-P.RUBENS,Scuola di Rubens,,,
-BO0624_83643,725367,52,108,"| ALBERT TOEFAERT Bull-Terrier. Signe:A. ToEFAERT,1885 Haut.o.15; Larg.0.20.                                                   |",1010,97.2,False,title_direct,ALBERT TOEFFAERT,,,,
+BO0624_83643,725367,52,108,"| ALBERT TOEFAERT Bull-Terrier. Signe:A. ToEFAERT,1885 Haut.o.15; Larg.0.20.                                                   |",1010,97.2,False,title_direct,ALBERT TOEFFAERT,,,,Sec. XIX
 BO0624_83643,725368,53,109,| J.DELVIN La Promenade. Une jeune fille a cheval attend au bas d’un perron de chateau. Haut.o.28;Larg.0.36.                   |,1012,98.1,False,positional,,,AQUARELLES,,
-BO0624_83643,725369,54,110,"| R.WYTSMAN Souvenir de Capri. Falaises et constructions etagees de la cote. Signe:R.WyTSMAN, Capri,1883. Haut,o.36;Larg.o.25. |",1013,98.3,False,title_direct,R.WYTSMAN,,,,
+BO0624_83643,725369,54,110,"| R.WYTSMAN Souvenir de Capri. Falaises et constructions etagees de la cote. Signe:R.WyTSMAN, Capri,1883. Haut,o.36;Larg.o.25. |",1013,98.3,False,title_direct,R.WYTSMAN,,,,Sec. XIX
 BO0624_83643,725370,55,III,| AUG.DAEL Paysage. Deux figures pres d'un ruisseau Haut.o.32;Larg.0.44.                                                       |,1014,97.1,False,title_direct,AUG.DAEL,,,,
 BO0624_83643,725371,56,1,I2   | ARMAND HEINS Paysage en Zelande. Haut.o 27; Larg.o.32.                                                                       |,1015,99.1,False,positional,,,AQUARELLES,,
-BO0624_83643,725372,57,113,## G.VAN AISE(1885),1018,100.0,False,title_direct,G.VAN AISE,,,,
-BO0624_83643,725373,58,II4,| LE MEME(Rome 1883) Etude de dame romaine. Haut.o.5o; Larg.o.34.                     |,1022,96.7,False,positional,G.VAN AISE,Scuola Romana,,,
-BO0624_83643,725374,59,115,| LE MEME (Rome 1882) Etude de fille de Trastevere. Haut.o.5o;Larg.0.34               |,1023,97.1,False,positional,G.VAN AISE,,,,
+BO0624_83643,725372,57,113,## G.VAN AISE(1885),1018,100.0,False,title_direct,G.VAN AISE,,,,Sec. XIX
+BO0624_83643,725373,58,II4,| LE MEME(Rome 1883) Etude de dame romaine. Haut.o.5o; Larg.o.34.                     |,1022,96.7,False,positional,G.VAN AISE,Scuola Romana,,,Sec. XIX
+BO0624_83643,725374,59,115,| LE MEME (Rome 1882) Etude de fille de Trastevere. Haut.o.5o;Larg.0.34               |,1023,97.1,False,positional,G.VAN AISE,,,,Sec. XIX
 BO0624_83643,725375,60,116,"| TH.LYBAERT Moine meditant. Terre noire, portrait de l'artiste. Haut.0 40;Larg.0.20. |",1024,97.5,False,title_direct,TH.LYBAERT,,,,
 BO0624_83643,725376,61,II7,"| LE MEME Etude de marchand arabe. Haut.o.18; Larg. 0,12.                             |",1025,96.2,False,positional,G.VAN AISE,,,,
 BO0624_83643,725377,62,118,| J.DELVIN Chevaux entrant a lecurie. Haut.o.12;Larg.o.24                             |,1026,96.4,False,positional,G.VAN AISE,,,,
-BO0624_83643,725378,63,119,"| CESAR DE COCK Verger normand. Signe: CEsAR DE Cock, 1881.                           | gbis ANT. VAN DYCK. Dessin au lavis, bistre et encre de Chine. Sujet mythologique; nombreuses figures. Au revers, signature. Haut.o.3o;Larg.o.6o.",1032,84.1,False,title_direct,CESAR DE COCK,,,,
+BO0624_83643,725378,63,119,"| CESAR DE COCK Verger normand. Signe: CEsAR DE Cock, 1881.                           | gbis ANT. VAN DYCK. Dessin au lavis, bistre et encre de Chine. Sujet mythologique; nombreuses figures. Au revers, signature. Haut.o.3o;Larg.o.6o.",1032,84.1,False,title_direct,CESAR DE COCK,,,,Sec. XIX
 BO0624_83643,725379,64,120,"Lot de dessins anciens d'Ecoles flamande,francaise et italienne du xvie au xville siecle.",1033,97.8,False,positional,,Scuola Fiamminga,DESSINS ANCIENS,,
 BO0624_83643,725380,65,I2,I OMMEGANCK. Paysage avec animaux. Dessin a la plume releve d'encre de Chine.,1034,98.7,False,positional,,,DESSINS ANCIENS,,
 BO0624_83643,725381,66,I22,J.VAN HUGTENBURG. Bataille de cavalerie. Meme genre.,1035,96.1,False,positional,VAN HUCHTENBURG JAN,,DESSINS ANCIENS,,
@@ -82,7 +82,7 @@ BO0624_83643,725395,80,136,ABR.VAN DIEPENBEEK. Sainte Agathe. Crayon.Dessin de J
 BO0624_83643,725396,81,137,Trois dessins anciens.,1059,91.3,False,positional,,,DESSINS ANCIENS,,
 BO0624_83643,725397,82,138,"- Lots de dessins d'artistes modernes. Van Aise, De Cock, Denduyts,etc.",1061,100.0,False,positional,,,OGGETTI VARI,,
 BO0624_83643,725398,83,139,- Lot de dessins anciens.,1063,100.0,False,positional,,,DESSINS ANCIENS,,
-BO0624_83643,725399,84,140,"GOLTZIUS, H.Les Douze Apotres.",1067,93.3,False,positional,,,GRAVURES,,
+BO0624_83643,725399,84,140,"GOLTZIUS, H.Les Douze Apotres.",1067,93.3,False,positional,GOLTZIUS HENDRIK,,GRAVURES,,
 BO0624_83643,725400,85,141,"- WILLE, J.G.Les Soins maternels.PORPORATI, d'apres GREUZE. Enfant au chien et une aut. feuille. Ens. trois feuilles au burin.",1069,100.0,False,positional,GREUZE J. B.,,GRAVURES,,
 BO0624_83643,725401,86,I42,REUR. Le Conseil maternel. Deux feuilles au burin.,1071,95.9,False,positional,,,GRAVURES,,
 BO0624_83643,725402,87,143,- LOT VARIA.Onze differ. feuilles au burin.,1073,100.0,False,positional,,,GRAVURES,,
@@ -127,7 +127,7 @@ BO0624_83643,725440,125,183,"CALLOT, J. Huit sujets de la suite des α Miseres d
 BO0624_83643,725441,126,184,"LOT de dix diff. gravures par Wille, d'apres Schalken, etc.",1145,96.5,False,positional,SCHALCKEN GODFRIED,,GRAVURES,,
 BO0624_83643,725442,127,185,LOT VARIA de diverses gravures anciennes.,1146,95.2,False,positional,,,GRAVURES,,
 BO0624_83643,725443,128,186,Idem de diverses gravures et eaux-fortes modernes.,1147,96.1,False,positional,,,GRAVURES,,
-BO0624_83643,725444,129,187,ONGHENA. Plan panoramique de Gand en 1534 et deux autres,1148,96.5,False,positional,,,GRAVURES,,
+BO0624_83643,725444,129,187,ONGHENA. Plan panoramique de Gand en 1534 et deux autres,1148,96.5,False,positional,,,GRAVURES,,Sec. XVI
 BO0624_83643,725445,130,188,- 189 LOT VARIA de douze differ. gravures au burin.,1152,100.0,False,positional,,,GRAVURES,,
 BO0624_83643,725446,131,I,go Idem de diverses gravures au burin.,1153,98.7,False,positional,,,GRAVURES,,
 BO0624_83643,725447,132,I91,"LOT de divers sujets d'apres Boucher, Huet, etc. et un dessin",1154,96.7,False,positional,BOUCHER FRANCOIS,,GRAVURES,,
@@ -135,7 +135,7 @@ BO0624_83643,725448,133,192,"MOLTKE, d’apres RUBENS. Suite de trente-trois feu
 BO0624_83643,725449,134,193,- 194 DEMARTEAU d'apres HUET.Emblemes et trophees a la,1160,100.0,False,positional,HUET J.B.,,GRAVURES,,
 BO0624_83643,725450,135,195,"WOLF.Recueil de dessins pour meubles, fauteuils, etc. Trenteneuf feuilles.",1162,97.2,False,positional,,,GRAVURES,,
 BO0624_83643,725451,136,196,- LOT VARIA de photographies diverses.,1164,100.0,False,positional,,,GRAVURES,,
-BO0624_83643,725452,137,197,"- J.CALLOT.Fantaisies.Recueil 1635.S.1.Eaux-fortes. dem. Série de gueux, 24 sujets. —Les Bohemiens en voyage,",1167,68.8,False,positional,,,GRAVURES,,
+BO0624_83643,725452,137,197,"- J.CALLOT.Fantaisies.Recueil 1635.S.1.Eaux-fortes. dem. Série de gueux, 24 sujets. —Les Bohemiens en voyage,",1167,68.8,False,positional,,,GRAVURES,,Sec. XVII
 BO0624_83643,725453,138,198,4 sujets.,1168,80.0,False,positional,,,GRAVURES,,
 BO0624_83643,725454,139,199,"HOUBRAKEN,A.Treize sujets bibliques.",1169,94.6,False,positional,,,GRAVURES,,
 BO0624_83643,725455,140,200,LOT VARIA de gravures anciennes.,1170,93.9,False,positional,,,GRAVURES,,
@@ -166,7 +166,7 @@ BO0624_83643,725479,164,224,"- LOT de quatres gravures modernes d'apres Hamon, M
 BO0624_83643,725480,165,225,Idem de treize feuilles en couleur. Musee populaire de Belgique.,1206,96.9,False,positional,,,GRAVURES,,
 BO0624_83643,725481,166,226,LOTVARIA.,1208,80.0,False,positional,,,GRAVURES,,
 BO0624_83643,725482,167,227,LOT de portraits d'hommes illustres de tous les pays.,1209,96.3,False,positional,,,GRAVURES,,
-BO0624_83643,725483,168,228,- Almanach d'Amsterdam 1762.(Fatigue.),1211,100.0,False,positional,,,GRAVURES,,
+BO0624_83643,725483,168,228,- Almanach d'Amsterdam 1762.(Fatigue.),1211,100.0,False,positional,,,GRAVURES,,Sec. XVIII
 BO0624_83643,725484,169,229,- DAVID(D'apres). Portrait de l'imperatrice Marie-Louise. Maniere noire av.l. 1.,1213,100.0,False,positional,,,GRAVURES,,
 BO0624_83643,725485,170,230,"CHAPONNIER, d'apres FOURNIER. Le Retour de la promenade.—HENRI GERARD,d'apres MARGUER. GERARD.",1214,97.8,False,positional,,,GRAVURES,,
 BO0624_83643,725486,171,231,"- Le Bouquet. Deux feuilles av. l. l., maniere noire.",1216,100.0,False,positional,,,GRAVURES,,

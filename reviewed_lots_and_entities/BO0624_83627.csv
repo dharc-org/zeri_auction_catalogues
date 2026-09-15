@@ -1,33 +1,33 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83627,160474,1,8,## GUARDI,89,100.0,False,title_direct,GUARDI,Scuola di Francesco Guardi,,,
-BO0624_83627,160475,2,1712,1793.——Venise.,93,81.5,False,positional,GUARDI,,,,
-BO0624_83627,160476,3,1636,1695.-Utrecht.,107,82.8,False,positional,HONDEKOETER,,,,
-BO0624_83627,160477,4,1682,1749.—Amsterdam.,118,84.8,False,positional,HUYSUM,,,,
+BO0624_83627,160475,2,1712,1793.——Venise.,93,81.5,False,positional,GUARDI,,,,Sec. XVIII
+BO0624_83627,160476,3,1636,1695.-Utrecht.,107,82.8,False,positional,HONDEKOETER,,,,Sec. XVII
+BO0624_83627,160477,4,1682,1749.—Amsterdam.,118,84.8,False,positional,HUYSUM,,,,Sec. XVIII
 BO0624_83627,160478,5,10,## HUYSUM,133,100.0,False,title_direct,HUYSUM,,,,
 BO0624_83627,160479,6,12,## MYTENS,158,100.0,False,title_direct,MYTENS,,,,
-BO0624_83627,160480,7,1612,1671.-La Haye.,162,82.8,False,positional,MYTENS,,,,
+BO0624_83627,160480,7,1612,1671.-La Haye.,162,82.8,False,positional,MYTENS,,,,Sec. XVII
 BO0624_83627,160481,8,I3,## 3Paysage au soleil couchant.,177,100.0,False,positional,NEER,,,,
 BO0624_83627,160482,9,1540,"?-Forli,",188,66.7,False,positional,PALMEGIANO,,,,
 BO0624_83627,160483,10,14,La Vierge et l'Enfant.,190,93.3,False,positional,PALMEGIANO,,,,
-BO0624_83627,160484,11,1446,1524.-Citta della Pieve.,201,89.8,False,positional,OPERUGIN-S,,,,
+BO0624_83627,160484,11,1446,1524.-Citta della Pieve.,201,89.8,False,positional,OPERUGIN-S,,,,Sec. XVI
 BO0624_83627,160485,12,91,## POURBUS,212,100.0,False,title_direct,POURBUS,Scuola d'Anversa,,,
-BO0624_83627,160486,13,1621,1673.-Delft.,232,80.0,False,positional,PYNACKER,,,,
+BO0624_83627,160486,13,1621,1673.-Delft.,232,80.0,False,positional,PYNACKER,,,,Sec. XVII
 BO0624_83627,160487,14,18,Portrait de jeune homme.,249,93.9,False,positional,RUBENS,,,,
 BO0624_83627,160488,15,1625,168a?.-Harlem.,268,81.5,False,positional,RUYSDAEL,,,,
 BO0624_83627,160489,16,20,Paysage.,270,82.4,False,positional,RUYSDAEL,,,,
 BO0624_83627,160490,17,22,## SASSO-FERRATO,283,100.0,False,title_direct,SASSO-FERRATO,,,,
-BO0624_83627,160491,18,1579,1657.-Anvers.,299,81.5,False,positional,SNYDERS,,,,
+BO0624_83627,160491,18,1579,1657.-Anvers.,299,81.5,False,positional,SNYDERS,,,,Sec. XVII
 BO0624_83627,160492,19,24,La Sortie du cabaret.,333,93.0,False,positional,STEEN,,,,
 BO0624_83627,160493,20,25,Les Danseurs.,344,88.9,False,positional,TENIERS,,,,
 BO0624_83627,160494,21,I,"l est cite dans le catalogue raisonne de Smith, vol. III, p. 403, n° 536, et dans lou- vrage du Dr Waagen.",352,99.5,False,positional,TENIERS,,,,
-BO0624_83627,160495,22,I,"l a éte expose a l'Institution britannique, en 1829.",354,99.0,False,positional,TENIERS,,,,
+BO0624_83627,160495,22,I,"l a éte expose a l'Institution britannique, en 1829.",354,99.0,False,positional,TENIERS,,,,Sec. XIX
 BO0624_83627,160496,23,26,Combat naval.,363,88.9,False,positional,VELDE,,,,
-BO0624_83627,160497,24,1586,1644.-Delft.,376,80.0,False,positional,VLIET,,,,
+BO0624_83627,160497,24,1586,1644.-Delft.,376,80.0,False,positional,VLIET,,,,Sec. XVII
 BO0624_83627,160498,25,I,"l est de grandeur naturelle, assis dans un fauteuil,vu jusquaux genoux,les mains posees sur les bras du fauteuil; coiffe d'un bonnet noir, moustaches, barbe blanche taillee en pointe, ve- tement noir double de fourrures.",380,99.8,False,positional,VLIET,,SCOMPARTI,,
-BO0624_83627,160499,26,1620,1668.-Harlem.,391,81.5,False,positional,WOUWERMAN,,,,
+BO0624_83627,160499,26,1620,1668.-Harlem.,391,81.5,False,positional,WOUWERMAN,,,,Sec. XVII
 BO0624_83627,160500,27,28,Chevaux a l'abreuvoir.,393,93.3,False,positional,WOUWERMAN,,,,
 BO0624_83627,160501,28,I,l est decrit dans l'ouvrage du docteur Waagen.,407,98.9,False,positional,WOUWERMAN,,,,
-BO0624_83627,160502,29,I,"la ete expose a l'Institution britannique, en 1853.",409,99.0,False,positional,WOUWERMAN,,,,
+BO0624_83627,160502,29,I,"la ete expose a l'Institution britannique, en 1853.",409,99.0,False,positional,WOUWERMAN,,,,Sec. XIX
 BO0624_83627,160503,30,30,La Vierge et l'Enfant Jesus.,428,100.0,False,positional,CONSTANTIN,,,,
 BO0624_83627,160504,31,1862,1,448,28.6,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,TABLEAUX MODERNES,,
 BO0624_83627,160505,32,33,Le Retour du marche.,455,92.7,False,positional,BRIAS,,,,

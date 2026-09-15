@@ -2,12 +2,12 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_88369,327482,1,3,4                                 | Jagdreiten Desgl.                                                                                                                       | ...12/30 Gegenst. z. Vor.                                            |            |,13,97.4,False,positional,,,Gemalde,,
 BO0624_88369,327483,2,5,"6                                 | Hermann Bahner, Muinchen. Die Mihle am Bach. Bezeichnet .. Im Mai. Bezeichnet ...                                                       | .Leinw.36/27 Leinw.32/41                                             |            |",14,99.0,False,positional,,,Gemalde,,
 BO0624_88369,327484,3,7,"Barmherzige Schwester. Bezeichnet | Erich Bamler, Muinchen.                                                                                                                 | Leinw.a.Karton 55/40,5                                               |            |",15,98.7,False,positional,,,Gemalde,,
-BO0624_88369,327485,4,8,9                                 | Bauern-Interieur .... Bauerntanz                                                                                                        | Belgische Schule des 18. Jahrhunderts. .Leinw.37/32 Gegenst. z. Vor. |            |,16,98.9,False,positional,,,ARREDAMENTI,,
+BO0624_88369,327485,4,8,9                                 | Bauern-Interieur .... Bauerntanz                                                                                                        | Belgische Schule des 18. Jahrhunderts. .Leinw.37/32 Gegenst. z. Vor. |            |,16,98.9,False,positional,,,ARREDAMENTI,,Sec. XVIII
 BO0624_88369,327486,5,12,"| Max Bumiller, Muinchen. Partie am Freiberger See und Madelesgabel (Allgau). Bez. 13 Partie am Einodsbach bei Hindelang. Bezeichnet .... | Kart.18/14 .Kart.18/12                                               |            |",19,99.0,False,positional,,,Gemalde,,
-BO0624_88369,327487,6,15,"| Deutscher Meister des 18. Jahrhunderts. Landschaft mit Madchen, Knabe und Hund .... | ...Leinw.49/58                 |",24,98.3,False,positional,Ludwig Correggio,,,,
+BO0624_88369,327487,6,15,"| Deutscher Meister des 18. Jahrhunderts. Landschaft mit Madchen, Knabe und Hund .... | ...Leinw.49/58                 |",24,98.3,False,positional,Ludwig Correggio,,,,Sec. XVIII
 BO0624_88369,327488,7,16,| Landschaft mit Ruine und Schafen In der Art des J.M.Roos.                           | Gegenst.z.Vor.                 |,25,97.9,False,positional,Ludwig Correggio,,,,
 BO0624_88369,327489,8,17,| Brustbild eines Pralaten Leinw. a. Karton 45/35                                     |                                |,26,96.8,False,positional,Ludwig Correggio,,,,
-BO0624_88369,327490,9,18,| Deutscher Bildnismaler um 1800. Bildnis der Grafin Amalie von Baden                 | Kart.38/31                     |,27,98.1,False,positional,Ludwig Correggio,,,,
+BO0624_88369,327490,9,18,| Deutscher Bildnismaler um 1800. Bildnis der Grafin Amalie von Baden                 | Kart.38/31                     |,27,98.1,False,positional,Ludwig Correggio,,,,Sec. XIX
 BO0624_88369,327491,10,19,| Damenbildnis. Ganze Figur ... Leinw.200/100                                         |                                |,28,96.2,False,positional,Ludwig Correggio,,,,
 BO0624_88369,327492,11,21,22                 | Fischerdorf. Mit NachlaBstempel Wogendes Ahrenfeld. Desgl.                          | Kart.22/33                     |,31,97.9,False,positional,Ludwig Correggio,,,,
 BO0624_88369,327493,12,23,| Grines Kornfeld. Desgl. Desgl.                                                      | Kart.30/44                     |,32,96.2,False,positional,Ludwig Correggio,,,,
@@ -25,7 +25,7 @@ BO0624_88369,327504,23,49,Desgl.mit Bricke. Bezeichnet                          
 BO0624_88369,327505,24,51,Andernach mit reicher Staffage                                                                           | ..Holz 25/32                    |,61,96.5,False,positional,Monogrammist S. F.,,OGGETTI IN LEGNO,,
 BO0624_88369,327506,25,53,Alter Jager. Brustbild. Bezeichnet .                                                                     | Holz 18/14                      |,63,96.6,False,positional,Monogrammist S. F.,,OGGETTI IN LEGNO,,
 BO0624_88369,327507,26,I,talienische Schule. 54 Schlafende Venus mit Amor.                                                          | Leinw.75/102                    |,64,99.2,False,positional,Monogrammist S. F.,,,,
-BO0624_88369,327508,27,I,talienischer Meister um 1715. 55 Der Leichnam Christi                                                      | Leinw.30/50                     |,65,99.2,False,positional,Monogrammist S. F.,,,,
+BO0624_88369,327508,27,I,talienischer Meister um 1715. 55 Der Leichnam Christi                                                      | Leinw.30/50                     |,65,99.2,False,positional,Monogrammist S. F.,,,,Sec. XVIII
 BO0624_88369,327509,28,56,| Gefligel auf der Wiese ...                                                              | Blei 16/27                                    |                                               |,68,95.7,False,positional,Monogrammist S. F.,,OGGETTI IN PIOMBO,,
 BO0624_88369,327510,29,57,| Gefligelhof ..                                                                          | Blei 20/27                                    |                                               |,70,93.6,False,positional,Monogrammist S. F.,,OGGETTI IN PIOMBO,,
 BO0624_88369,327511,30,58,| 8Desgl.                                                                                 | Blei 20/26                                    |                                               |,71,91.9,False,positional,Monogrammist S. F.,,OGGETTI IN PIOMBO,,
@@ -36,13 +36,13 @@ BO0624_88369,327515,34,68,"| A.Lehmann,Frankfurt a.M.                           
 BO0624_88369,327516,35,69,| Durchblick durch Baume.Bezeichnet Kaiserplatz in Frankfurt. Bezeichnet                  | Kart.30/43                                    |                                               |,89,98.2,False,positional,Monogrammist S. F.,,,,
 BO0624_88369,327517,36,70,| Tauwetter im Odenwala.Bezeichnet                                                        | Kart.36/45                                    |                                               |,90,96.6,False,positional,Monogrammist S. F.,,,,
 BO0624_88369,327518,37,71,| Bildnis einer Frau in Aiblinger Tracht Leinw.a.Kart.33/28                               |                                               |                                               |,92,97.4,False,positional,Monogrammist S. F.,,,,
-BO0624_88369,327519,38,75,"Monch mit Buch ..             | Meister des 18. Jahrhunderts.                                                                            | .Leinw.32,5/25   |",98,97.4,False,positional,Monogrammist S. F.,,,,
+BO0624_88369,327519,38,75,"Monch mit Buch ..             | Meister des 18. Jahrhunderts.                                                                            | .Leinw.32,5/25   |",98,97.4,False,positional,Monogrammist S. F.,,,,Sec. XVIII
 BO0624_88369,327520,39,76,"| Anton Mohlen, Duisseldorf. Sognefjord ....                                                               | Leinw.60/80      |",100,96.9,False,positional,Monogrammist S. F.,,,,
 BO0624_88369,327521,40,77,| Norwegischer Fjord                                                                                       | Gegenst. z. Vor. |,101,95.5,False,positional,Monogrammist S. F.,,,,
 BO0624_88369,327522,41,78,"Italienische Kistenlandschaft | J.G.Mohr, Frankfurt a. M. 79Landschaft.                                                                  | Leinw.60/100     |",103,98.1,False,positional,Monogrammist S. F.,,,,
 BO0624_88369,327523,42,80,81                            | Herbstlandschaft Partie mit Baum am Bach                                                                 | Leinw.70/32      |,105,97.3,False,positional,Monogrammist S. F.,,,,
 BO0624_88369,327524,43,82,| Landschaft ..                                                                                            | Leinw.45/55      |,106,93.6,False,positional,Monogrammist S. F.,,,,
-BO0624_88369,327525,44,83,"| Kirche St.Veith bei Graz. Bezeichnet Adolf Miller, 1873.                                                 | ...Kart.44/30    |",108,97.7,False,positional,Monogrammist S. F.,,,,
+BO0624_88369,327525,44,83,"| Kirche St.Veith bei Graz. Bezeichnet Adolf Miller, 1873.                                                 | ...Kart.44/30    |",108,97.7,False,positional,Monogrammist S. F.,,,,Sec. XIX
 BO0624_88369,327526,45,88,| Nazarenerschule. 8 Das Urteil Salomonis                                                                  | Leinw.174/220    |,112,97.2,False,positional,Monogrammist S. F.,Scuola dei Nazareni,,,
 BO0624_88369,327527,46,911,| Landschaft mit Figuren. Bezeichnet                                                                       | Holz 24/30       |,115,95.7,False,positional,Monogrammist S. F.,,OGGETTI IN LEGNO,,
 BO0624_88369,327528,47,94,Portrat eines Kiinstlers ... ....Leinw.a.Kart.35/28 Auf Rickseite Expertise vom Kgl. Oberinspektor Franz Bieber. Aus NachlaB Prof. Ludwig Thiersch.,121,98.9,False,positional,Karl Theodor von Piloty,,,,
@@ -57,15 +57,15 @@ BO0624_88369,327536,55,110,"Campagna""..                    | Reproduktion des v
 BO0624_88369,327537,56,111,"Tischgesellschaft,mit Selbstportrat des Kinstlers. Bezeichnet. Blei 28/46,5                                                                                                                                                                        |",141,97.3,False,positional,Karl Theodor von Piloty,,OGGETTI IN PIOMBO,,
 BO0624_88369,327538,57,113,Faunfamilie.... .Pastell 32/32                                                                                                                                                                                                                     |,143,92.6,False,positional,Karl Theodor von Piloty,,,,
 BO0624_88369,327539,58,115,"Landschaft mit See ..... ......Kart.38,5/49,5                                                                                                                                                                                                      |",145,94.3,False,positional,Karl Theodor von Piloty,,,,
-BO0624_88369,327540,59,116,"Abendlandschaft. Monogrammiert und 1890 .....Leinw.a.Kart.34/42,5                                                                                                                                                                                  |",146,96.7,False,positional,Karl Theodor von Piloty,,,,
+BO0624_88369,327540,59,116,"Abendlandschaft. Monogrammiert und 1890 .....Leinw.a.Kart.34/42,5                                                                                                                                                                                  |",146,96.7,False,positional,Karl Theodor von Piloty,,,,Sec. XIX
 BO0624_88369,327541,60,117,"Brustbild Friedrich Wilhelm Benjamin von Giesebrechts, Kunsthistorikers und Universitatsprofessors... ....Leinw.34,5/27 Samtlich mit NachlaBstempel bezeichnet.                                                                                    |",147,98.7,False,positional,Karl Theodor von Piloty,,,,
 BO0624_88369,327542,61,120,An der Elbmindung. Mit Kinstlersignatur ..... Orig.Farben-Lith.32/43                                                                                                                                                                               |,150,96.8,False,positional,Karl Theodor von Piloty,,,,
 BO0624_88369,327543,62,122,"123 Damenportrat Gegenst. z. Vor. Holz 16/13,5                                                                                                                                                                                                     |",153,95.6,False,positional,Karl Theodor von Piloty,,OGGETTI IN LEGNO,,
-BO0624_88369,327544,63,125,Auf dem Heimweg nach F.v.Uhde Vlamischer Meister um 1700.                                                                                                                                                                                          |,155,96.6,False,positional,Karl Theodor von Piloty,Scuola Fiamminga,,,
+BO0624_88369,327544,63,125,Auf dem Heimweg nach F.v.Uhde Vlamischer Meister um 1700.                                                                                                                                                                                          |,155,96.6,False,positional,Karl Theodor von Piloty,Scuola Fiamminga,,,Sec. XVIII
 BO0624_88369,327545,64,126,"Christus als Schmerzensmann Leinw.36/36 Friedrich Voltz , Munchen.                                                                                                                                                                                 |",156,96.9,False,positional,Karl Theodor von Piloty,,,,
 BO0624_88369,327546,65,127,Stierkopf.Monogrammiert. Kart.17/13                                                                                                                                                                                                                |,157,94.4,False,positional,Karl Theodor von Piloty,,,,
-BO0624_88369,327547,66,128,| FluBlandschaft. Bezeichnet und 1846 .                                     | ...Holz 60/72                              |,161,95.7,False,positional,J.de Vriendt,,OGGETTI IN LEGNO,,
-BO0624_88369,327548,67,129,| Gebirgslandschaft. Bezeichnet und 1844                                    | Gegenst.z.Vor.                             |,163,96.2,False,positional,J.de Vriendt,,,,
+BO0624_88369,327547,66,128,| FluBlandschaft. Bezeichnet und 1846 .                                     | ...Holz 60/72                              |,161,95.7,False,positional,J.de Vriendt,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88369,327548,67,129,| Gebirgslandschaft. Bezeichnet und 1844                                    | Gegenst.z.Vor.                             |,163,96.2,False,positional,J.de Vriendt,,,,Sec. XIX
 BO0624_88369,327549,68,130,"| Baumwurzeln.Monogrammiert.                                                | Kart.29,5/35                               |",165,95.0,False,positional,J.de Vriendt,,,,
 BO0624_88369,327550,69,131,| Hochgebirgslandschaft                                                     | ...Kart.27/39                              |,166,94.1,False,positional,J.de Vriendt,,,,
 BO0624_88369,327551,70,132,"| Waldinneres. Monogrammiert                                                | Kart. 26,5/36,5                            |",167,95.2,False,positional,J.de Vriendt,,,,
@@ -193,7 +193,7 @@ BO0624_88369,327672,191,258,- Fayencekrug mit Zinndeckel und Blumendekor. Birnfo
 BO0624_88369,327673,192,259,Zwei Fayenceplatten.,368,90.5,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327674,193,260,- Delfter Henkelkrug mit Schiffen und Windmihlen. 22 cm.,370,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327675,194,262,262,372,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327676,195,263,"Tintenzeug. Graublau-violett. Hohr 1700. Hohe 6, 17/12.",375,96.2,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327676,195,263,"Tintenzeug. Graublau-violett. Hohr 1700. Hohe 6, 17/12.",375,96.2,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVIII
 BO0624_88369,327677,196,264,"Desgl. Herzformig. Fayence. Hohe 4,11/12.",376,94.9,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327678,197,265,"Suppenkumpen.Oval.Fayence.S StraBburg. Hohe 20, 28/18.",377,96.2,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327679,198,266,Desgl.rund. Fayence. StraBburg.17/17.,378,94.4,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -223,7 +223,7 @@ BO0624_88369,327702,221,290,Empirestanduhr.Marmorsaulen mit Bronze.Franzosisch.4
 BO0624_88369,327703,222,291,- Dreiarmiger Stehleuchter. Bronze. Louis XV.,412,100.0,False,positional,,Periodo di Luigi XV,Antiquitaten; Kunstsachen,,
 BO0624_88369,327704,223,292,Japanische Bronzevase mit Eidechse. 37 cm.,413,95.2,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327705,224,293,Japanisches Bronzerelief mit Vogeln. 36/58.,414,95.3,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327706,225,294,Kruzifixus. Messing. Vlamisch. 18. Jahrhundert.,415,95.5,False,positional,,Scuola Fiamminga,Antiquitaten; Kunstsachen,,
+BO0624_88369,327706,225,294,Kruzifixus. Messing. Vlamisch. 18. Jahrhundert.,415,95.5,False,positional,,Scuola Fiamminga,Antiquitaten; Kunstsachen,,Sec. XVIII
 BO0624_88369,327707,226,295,"Screenplatte.Jade. 21, 5/25. Chinesisch. Die Inschrift lautet in Ubersetzung:",419,97.3,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327708,227,296,Schon hort er in den Zweigen den lust'gen Kuckuck schrei'n.,422,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327709,228,297,Hirschfanger mit Messer. Empire. 70 cm.,424,94.7,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -281,15 +281,15 @@ BO0624_88369,327760,279,355,Desgl.,500,71.4,False,positional,,,Antiquitaten; Kun
 BO0624_88369,327761,280,356,Kleine silberne Schmuckschale mit Perlmutter. 9 cm.,502,96.1,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327762,281,357,- Paar goldene Ohrringe mit blauen Emailsteinen.,504,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327763,282,358,Silbernes Gehause einer Renaissance-Taschenuhr.,505,95.8,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327764,283,359,"makers,London Batsford, 1911).",507,93.1,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327764,283,359,"makers,London Batsford, 1911).",507,93.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XX
 BO0624_88369,327765,284,360,Goldene Damenuhr mit Brillanten und Email.,508,95.3,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327766,285,361,"1732.Gulden: Braunschweig, Georg I1. 1739.",510,95.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327767,286,362,"- PreuBen. Kronungstaler 1861, 2 Siegestaler 1871, 2 Jubilaum 1901. 5 Stick.",512,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327768,287,363,Bayern. Siegestaler 1871.,513,92.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327769,288,364,"Frankfurt a.M. Schillertaler 1859, Taler 1860. 2 Stick.",514,96.2,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327766,285,361,"1732.Gulden: Braunschweig, Georg I1. 1739.",510,95.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVIII
+BO0624_88369,327767,286,362,"- PreuBen. Kronungstaler 1861, 2 Siegestaler 1871, 2 Jubilaum 1901. 5 Stick.",512,100.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88369,327768,287,363,Bayern. Siegestaler 1871.,513,92.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88369,327769,288,364,"Frankfurt a.M. Schillertaler 1859, Taler 1860. 2 Stick.",514,96.2,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_88369,327770,289,365,Desgl. 2 Stick.,516,86.7,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327771,290,366,"Hessen-Darmstadt. 2 Albus,1694.",517,93.5,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327772,291,367,"- Schweiz. Finf Batzen, 1799.",519,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327771,290,366,"Hessen-Darmstadt. 2 Albus,1694.",517,93.5,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVII
+BO0624_88369,327772,291,367,"- Schweiz. Finf Batzen, 1799.",519,100.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XVIII
 BO0624_88369,327773,292,368,- Johann Friedrich von Sachsen. Gubmedaille o. J.,521,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327774,293,369,"Uhrwerk mit buntem Zifferblatt. Gez. Brequet, Paris.",522,96.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327775,294,370,- Silberne Tasse mit Untertasse. Reich graviert.,524,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -363,10 +363,10 @@ BO0624_88369,327842,361,438,Wedgewood-Dose.,609,87.5,False,positional,,,Antiquit
 BO0624_88369,327843,362,439,- Zigarettenetui und Pfeifendeckel. Silber.,611,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327844,363,440,Messing-Wandteller und 5 Petschafte.,612,94.6,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327845,364,441,Messingleuchter und Eisenleuchter.,613,94.3,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327846,365,442,Schraubtaler. Hungersnot 1816/17 mit Einlagen.,614,95.7,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327847,366,443,Desgl. Ill. Jubelfeier der Reformation 1817 mit Einlagen.,615,96.4,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327846,365,442,Schraubtaler. Hungersnot 1816/17 mit Einlagen.,614,95.7,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88369,327847,366,443,Desgl. Ill. Jubelfeier der Reformation 1817 mit Einlagen.,615,96.4,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_88369,327848,367,443,"a Elfenbeinschnitzerei. Madonna mit Kind, in ovalem Rahmen. b Zwei Kopfe, auf Holz gemalt.",616,77.8,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327849,368,444,Hessischer Hofkalender 1820. Mit Stichen.,618,95.1,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327849,368,444,Hessischer Hofkalender 1820. Mit Stichen.,618,95.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_88369,327850,369,445,Album mit Bodenseeansichten. Farbige Stiche.,619,95.5,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327851,370,446,TintenfaB. Zinn.,620,87.5,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327852,371,447,- Lanzenspitze. Orientalisch.,622,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -426,22 +426,22 @@ BO0624_88369,327905,424,507,- Miniaturfacher. Gemalt.,703,100.0,False,positional
 BO0624_88369,327906,425,508,"Terrakottagruppe. ,Valse bleu.Hohe 26, 17/13.",704,95.3,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327907,426,509,"Terrakottafigur.Lesender alter Nigger.13,5 cm.",705,95.7,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327908,427,510,Desgl.,706,71.4,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327909,428,511,"Henri Resal, 1830. Arabischer Reiter. Aquarell 44/30.",708,96.1,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327909,428,511,"Henri Resal, 1830. Arabischer Reiter. Aquarell 44/30.",708,96.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_88369,327910,429,512,"Schillers Werke. Horenausgabe. 15 Bande. Leinen. Georg Miller, Minchen-Leipzig.",709,97.3,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327911,430,513,- Photographie. Friedensverhandlungen 1871 im Hotel Schwan.,711,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327911,430,513,- Photographie. Friedensverhandlungen 1871 im Hotel Schwan.,711,100.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_88369,327912,431,514,"Die Nacht. Camillo Butin, Roma. Aquarell 26/37.",712,95.6,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327913,432,515,"Keller, Landschaft. Aquarell 10/15.",713,94.1,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327914,433,516,- Hans Thoma bezeichnet. SchloBansicht. Tusche 10/20.,715,100.0,False,positional,THOMA HANS,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327915,434,517,"- Brief Emil Claars, ein zweiter von Claar-Delia, seiner Frau.",717,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327916,435,518,Briefsammlung. Friedrich Overbeck(1789-1869) an Rat und Ratin Schlosser,718,97.2,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327917,436,519,"- 520 Deutsche Bauzeitung. 1890-97, 8 Halbfrzbde., ferner 1898-1902 in einzelnen Nummern.",722,100.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327918,437,521,"- 522 Plafond-und Wanddekorationen des 16.-19. Jahrhunderts. 6 Lieferungen. Wien,E.Holzel, 1883.",725,100.0,False,positional,,Scuola Viennese,Antiquitaten; Kunstsachen,,
-BO0624_88369,327919,438,523,"Mylius, Treppen-, Vestibil- und Hofanlagen in Italien. Leipzig 1867.",726,96.9,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327920,439,524,"Boetticher,45 Tafeln zur Tektonik der Hellenen. Berlin 1873.",727,96.7,False,positional,,Scuola di Berlino,Antiquitaten; Kunstsachen,,
+BO0624_88369,327916,435,518,Briefsammlung. Friedrich Overbeck(1789-1869) an Rat und Ratin Schlosser,718,97.2,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88369,327917,436,519,"- 520 Deutsche Bauzeitung. 1890-97, 8 Halbfrzbde., ferner 1898-1902 in einzelnen Nummern.",722,100.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88369,327918,437,521,"- 522 Plafond-und Wanddekorationen des 16.-19. Jahrhunderts. 6 Lieferungen. Wien,E.Holzel, 1883.",725,100.0,False,positional,,Scuola Viennese,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88369,327919,438,523,"Mylius, Treppen-, Vestibil- und Hofanlagen in Italien. Leipzig 1867.",726,96.9,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88369,327920,439,524,"Boetticher,45 Tafeln zur Tektonik der Hellenen. Berlin 1873.",727,96.7,False,positional,,Scuola di Berlino,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_88369,327921,440,525,Jubilaumsfestzug der Universitat Heidelberg.,728,95.6,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327922,441,526,Minchener Festzug. Koloriert.,729,93.1,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327923,442,527,"Technische Hochschule Karlsruhe, Festschrift 1899.",730,96.0,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327924,443,528,"Zeitschrift fir bildende Kunst. Jahrgang X, XVII, XXII.",731,96.2,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327923,442,527,"Technische Hochschule Karlsruhe, Festschrift 1899.",730,96.0,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88369,327924,443,528,"Zeitschrift fir bildende Kunst. Jahrgang X, XVII, XXII.",731,96.2,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XI
 BO0624_88369,327925,444,529,"33 groBe Photos nach Richter, Kraus, Karger u. s. f. Rheinlandschaften.",732,97.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327926,445,530,"E.Hildebranat, St.Franzisko. Aquarell 27/38.",733,95.3,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327927,446,531,"20 Photos nach Defregger, Schwind u. s. w.",734,95.0,False,positional,,,Antiquitaten; Kunstsachen,,
@@ -454,14 +454,14 @@ BO0624_88369,327933,452,537,"Giovagnoli, Spartaco. Bacc-storico.2 Bande.",740,95
 BO0624_88369,327934,453,538,Palastina in Wort und Bild. 2 Bande.,741,94.4,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327935,454,539,Pilgerritt. Bilder von Palastina und Syrien von C.v. Gonzenbacher.,742,96.9,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327936,455,540,"Nilfahrt, von demselben.",743,91.7,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327937,456,541,"Italia, von C. Stieler, E.Paulus,W. Kaden.Milano 1876.",744,96.1,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327938,457,542,"La Sicilia, von Gastone Vuillier. Milano 1897.",745,95.6,False,positional,,Scuola Siciliana,Antiquitaten; Kunstsachen,,
+BO0624_88369,327937,456,541,"Italia, von C. Stieler, E.Paulus,W. Kaden.Milano 1876.",744,96.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
+BO0624_88369,327938,457,542,"La Sicilia, von Gastone Vuillier. Milano 1897.",745,95.6,False,positional,,Scuola Siciliana,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_88369,327939,458,543,"Algier, Tunis, Sizilien.Gr. Mappe mit phot. Ansichten.",746,96.1,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327940,459,544,Norwegen und Schweden. Desgl. Desgl. Les Lianes. Album-Mosaique von E. de Limagne. Wien. Desgl. Desgl.,748,61.9,False,positional,,Scuola Viennese,Antiquitaten; Kunstsachen,,
-BO0624_88369,327941,460,547,L'Univers. Illustriert von Alfred des Essarts. Souvenir vom Hotel Firstenhof in Eisenach. Internationale Kunstausstellung Munchen 1883. Mappe mit 5 phot. Repr.,752,60.1,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327941,460,547,L'Univers. Illustriert von Alfred des Essarts. Souvenir vom Hotel Firstenhof in Eisenach. Internationale Kunstausstellung Munchen 1883. Mappe mit 5 phot. Repr.,752,60.1,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_88369,327942,461,550,"E. Schalk, Naturgeschichte des Menschen. Frankfurt a. M. J. C. Berke.",753,96.8,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327943,462,551,"A.Hendschels Skizzenbuch, Blatter aus Frankfurt a. M.F. B. C. Prestel.",754,97.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327944,463,552,"A.Heith Johnston, The Handy Royal Atlas.William Blackwood and Sons, Edinburgh and London.",755,97.7,False,positional,,,Antiquitaten; Kunstsachen,,
-BO0624_88369,327945,464,553,"Alwine Schroedter.,Um Lieb und Kunst.""Frankfurt a. M. 1867.",756,96.4,False,positional,,,Antiquitaten; Kunstsachen,,
+BO0624_88369,327945,464,553,"Alwine Schroedter.,Um Lieb und Kunst.""Frankfurt a. M. 1867.",756,96.4,False,positional,,,Antiquitaten; Kunstsachen,,Sec. XIX
 BO0624_88369,327946,465,554,"Schillers Lied von der Glocke,nach Originalzeichnungen von Leopold Bode. Frankfurt a. M.,Heinr. Keller.",757,98.0,False,positional,,,Antiquitaten; Kunstsachen,,
 BO0624_88369,327947,466,555,W.v.Kaulbach.Goethes Frauengestalten.,758,94.7,False,positional,KAULBACH HERMANN,,Antiquitaten; Kunstsachen,,

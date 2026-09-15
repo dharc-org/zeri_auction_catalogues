@@ -12,9 +12,9 @@ BO0624_88235,473922,10,10,Afrikanischer Krieger.,104,93.3,False,positional,Wilhe
 BO0624_88235,473923,11,11,Der Falkenjager.,108,90.9,False,positional,Wilhelm ALTHEIM,,,,
 BO0624_88235,473924,12,12,"FluBlandschaft mit Hausern und Bricke. Aquarell 16,5/22",112,97.3,False,positional,Wilhelm ALTHEIM,,,,
 BO0624_88235,473925,13,13,3 FluBlandschaft mit Fahrhaus und Booten.,114,96.4,False,positional,Wilhelm ALTHEIM,,,,
-BO0624_88235,473926,14,14,Peter Burnitz . Zwei Mainlandschaften. Bez.:Steinheim 1864.,120,97.3,False,positional,Wilhelm ALTHEIM,,,,
-BO0624_88235,473927,15,15,"Derselbe. Weidenbaum am See. Kreide 22,5/22 Bez.: Nauheim 1871.",124,97.5,False,positional,Wilhelm ALTHEIM,,,,
-BO0624_88235,473928,16,16,Peter Burnitz  Waldinneres. Bez.:1869.                                                                     | Kreide 36/28                                        |,125,96.9,False,positional,Wilhelm ALTHEIM,,,,
+BO0624_88235,473926,14,14,Peter Burnitz . Zwei Mainlandschaften. Bez.:Steinheim 1864.,120,97.3,False,positional,Wilhelm ALTHEIM,,,,Sec. XIX
+BO0624_88235,473927,15,15,"Derselbe. Weidenbaum am See. Kreide 22,5/22 Bez.: Nauheim 1871.",124,97.5,False,positional,Wilhelm ALTHEIM,,,,Sec. XIX
+BO0624_88235,473928,16,16,Peter Burnitz  Waldinneres. Bez.:1869.                                                                     | Kreide 36/28                                        |,125,96.9,False,positional,Wilhelm ALTHEIM,,,,Sec. XIX
 BO0624_88235,473929,17,17,"Derselbe. Zwei Landschaften. 18 Derselbe. Bauernhaus und Seepartie. 19 Derselbe. Birkenbaum in Landschaft. | Aquarelle 13/23 u.13,5/20 Aquarelle20,5/14,5u.16/16 |",127,99.0,False,positional,Wilhelm ALTHEIM,,,,
 BO0624_88235,473930,18,21,"Die Heilige Familie, umgeben von Engeln.                                                                   | Leinw.34/45                                         |",130,97.1,False,positional,Wilhelm ALTHEIM,,,,
 BO0624_88235,473931,19,22,Kartenspielende Landsknechte. Bezeichnet.                                                                  | Leinw.58/37                                         |,131,97.1,False,positional,Wilhelm ALTHEIM,,,,
@@ -31,9 +31,9 @@ BO0624_88235,473941,29,43,Die Gratulantin. Bezeichnet.                          
 BO0624_88235,473942,30,51,"Schafe, Huihner und Kicken im Stall. Vorzuglich ausgefuhrtes Werk des Kunstlers und bezeichnet.        | Holz 24/29                                                                        |",162,98.6,False,positional,J.F. ENGEL,,OGGETTI IN LEGNO,,
 BO0624_88235,473943,31,52,"Kartenspieler.                                                                                         | Leinw.31,5/40                                                                     |",163,94.7,False,positional,J.F. ENGEL,,,,
 BO0624_88235,473944,32,53,Eingang zur Burg Eppstein. Bezeichnet.                                                                 | Aquarell 55/40                                                                    |,164,97.1,False,positional,J.F. ENGEL,,,,
-BO0624_88235,473945,33,54,"Stadtchen in Mittelfranken. Bezeichnet mit Jahreszahl 1894.                                            | Leinw. 60/76,5                                                                    |",165,97.9,False,positional,J.F. ENGEL,,,,
+BO0624_88235,473945,33,54,"Stadtchen in Mittelfranken. Bezeichnet mit Jahreszahl 1894.                                            | Leinw. 60/76,5                                                                    |",165,97.9,False,positional,J.F. ENGEL,,,,Sec. XIX
 BO0624_88235,473946,34,55,"Das iberraschte Liebespaar.                                                                            | Leinw. 83,5/94                                                                    |",167,96.4,False,positional,J.F. ENGEL,,,,
-BO0624_88235,473947,35,57,Kleopatra. Palette. Bezeichnet mit Jahreszahl 1884.                   | Leinw. a. Holz 36/25                |,170,97.8,False,positional,Hermann KAULBACH,,OGGETTI IN LEGNO,,
+BO0624_88235,473947,35,57,Kleopatra. Palette. Bezeichnet mit Jahreszahl 1884.                   | Leinw. a. Holz 36/25                |,170,97.8,False,positional,Hermann KAULBACH,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88235,473948,36,58,Dem Glicklichen schlagt keine Stunde. Monogrammiert.                  | Federz.18/13                        |,172,97.7,False,positional,Hermann KAULBACH,,,,
 BO0624_88235,473949,37,61,Alte Weidenbaume. Bez.: Delaspe.                                      | Bleistift 30/25                     |,175,96.7,False,positional,Hermann KAULBACH,,,,
 BO0624_88235,473950,38,62,Napoleon bei Waterloo. 63 Am Geburtstagmorgen.                        | Steinzeichnung 23/30 Aquarell 36/50 |,176,98.2,False,positional,Hermann KAULBACH,,,,
@@ -56,7 +56,7 @@ BO0624_88235,473966,54,83,"Landschaft in der Bretagne.                          
 BO0624_88235,473967,55,84,"Weiblicher Kopf.                                                           | Holz 26/19,5                                                          |",201,94.9,False,positional,Prof. Bernh. MANNFELD,,OGGETTI IN LEGNO,,
 BO0624_88235,473968,56,85,Dame. Bezeichnet. Minchner Schule.                                         |                                                                       |,203,95.4,False,positional,Prof. Bernh. MANNFELD,Scuola di Monaco,,,
 BO0624_88235,473969,57,86,"Das Bildstockl am Konigsee. 87 Muihle bei Andlau. Leinw. a. Karton 35/48,5 | Holz 26/30,5                                                          |",204,98.2,False,positional,Prof. Bernh. MANNFELD,,OGGETTI IN LEGNO,,
-BO0624_88235,473970,58,88,"Partie am Main. 89 Desgl.                                                  | Hermann MEVIUs,1820-1864,Frankfurt a.M. Holz 13/17 Gegenstuck z. Vor. |",205,98.4,False,positional,Prof. Bernh. MANNFELD,,OGGETTI IN LEGNO,,
+BO0624_88235,473970,58,88,"Partie am Main. 89 Desgl.                                                  | Hermann MEVIUs,1820-1864,Frankfurt a.M. Holz 13/17 Gegenstuck z. Vor. |",205,98.4,False,positional,Prof. Bernh. MANNFELD,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88235,473971,59,91,Hirtenfamilie. 92 Desgl.                                                   | Gegenstuick z. Vor.                                                   |,209,96.4,False,positional,Prof. Bernh. MANNFELD,,,,
 BO0624_88235,473972,60,94,Schafstall.,212,87.0,False,positional,Prof. Bernh. MANNFELD,,,,
 BO0624_88235,473973,61,95,Amor zerbricht den Bogen. Bezeichnet.,220,95.9,False,positional,S. PERCY,,,,
@@ -78,7 +78,7 @@ BO0624_88235,473988,76,110,"J.Ehrentraut.Landsknechte.                 | 20,5/15
 BO0624_88235,473989,77,111,L.Spangenberg. Waldlandschaft mit Huitte.  | 34/27   |,279,95.7,False,positional,,,Radierungen,,
 BO0624_88235,473990,78,112,"Unbekannt (vor aller Schrift). Landschaft. | 4,5/13  |",280,95.7,False,positional,,,Radierungen,,
 BO0624_88235,473991,79,113,Schule Mannfeld. Kirchplatz in GieBen. Platte 30/24                                                                                                                            |,285,96.1,False,positional,,,Radierungen,,
-BO0624_88235,473992,80,117,"WeiBe Rosen. Leinw. 20,5/29 Bezeichnet mit Jahreszahl 1793.                                                                                                                    |",289,96.6,False,positional,,,Radierungen,,
+BO0624_88235,473992,80,117,"WeiBe Rosen. Leinw. 20,5/29 Bezeichnet mit Jahreszahl 1793.                                                                                                                    |",289,96.6,False,positional,,,Radierungen,,Sec. XVIII
 BO0624_88235,473993,81,118,"8Blick in's Maintal. Aquarell 19/26,5 119 Aus der Altstadt am Main. Aquarell 13,5/17 120 Am Buchrainweiher. Aquarell 13/18,5 121 Kapellenfenster in der Rhon. Aquarell 19,5/15 |",291,98.8,False,positional,,,Radierungen,,
 BO0624_88235,473994,82,128,Maria als Himmelskonigin unter einem Tronhimmel.                                                                                                                               |,297,95.9,False,positional,,,Radierungen,,
 BO0624_88235,473995,83,140,| Hauser am Kanal mit zwei Bricken.                                                      |                                  |,317,94.1,False,positional,M. SCHWAB,,OGGETTI VARI,,
@@ -102,7 +102,7 @@ BO0624_88235,474012,100,163,"- Kupferkessel, getrieben mit Henkel. Hohe 23, Durc
 BO0624_88235,474013,101,164,"Zwei Kirchenleuchter. Messing, getrieben und versilbert. Hohe",354,96.7,False,positional,M. SCHWAB,,,,
 BO0624_88235,474014,102,167,"Hohe 22,5 19/6cm.",359,88.9,False,positional,M. SCHWAB,,,,
 BO0624_88235,474015,103,168,"- Schmuckkassette mit Glasmalerei. Hohe 16,20/18 cm.",361,100.0,False,title_direct,,,Glas,,
-BO0624_88235,474016,104,169,Bronzerelief. Schiller.1915,362,92.9,False,title_direct,,,Bronze,,
+BO0624_88235,474016,104,169,Bronzerelief. Schiller.1915,362,92.9,False,title_direct,,,Bronze,,Sec. XX
 BO0624_88235,474017,105,170,"- Kupferkanne, gewunden mit AusguB. Hohe 31 cm.",364,100.0,False,positional,M. SCHWAB,,,,
 BO0624_88235,474018,106,171,Desgl. Bauchig. Hohe 21 cm.,365,92.3,False,positional,M. SCHWAB,,,,
 BO0624_88235,474019,107,172,Tonteller mit Kriegerrelief. Schwarz mit Gold. Japan. Durchmesser 28 cm.,366,97.1,False,positional,M. SCHWAB,,OGGETTI IN ORO,,
@@ -143,10 +143,10 @@ BO0624_88235,474053,141,210,"Konsol.Holz geschnitzt,weiB gestr.Hohe 85,Breite 10
 BO0624_88235,474054,142,211,"Backen-Sessel. Holz geschnitzt mit Gobelinbezug. Hohe 118,",425,96.5,False,positional,M. SCHWAB,,OGGETTI IN LEGNO,,
 BO0624_88235,474055,143,212,Modell eines hollandischen Segelschiffes.,427,95.2,False,positional,M. SCHWAB,,,,
 BO0624_88235,474056,144,213,- Zwei Engelskopfe. Holz geschnitzt.,430,100.0,False,positional,M. SCHWAB,,OGGETTI IN LEGNO,,
-BO0624_88235,474057,145,214,Reitsattel. 17. Jahrhundert.,431,92.6,False,positional,M. SCHWAB,,,,
+BO0624_88235,474057,145,214,Reitsattel. 17. Jahrhundert.,431,92.6,False,positional,M. SCHWAB,,,,Sec. XVII
 BO0624_88235,474058,146,215,Glasvitrine.,432,84.6,False,title_direct,,,Glas,,
 BO0624_88235,474059,147,216,Sieben div.ant. Rahmen.,433,91.3,False,positional,M. SCHWAB,,CORNICI,,
-BO0624_88235,474060,148,217,Eichen geschnitzt. 18. Jahrhundert.,434,94.1,False,positional,M. SCHWAB,,,,
+BO0624_88235,474060,148,217,Eichen geschnitzt. 18. Jahrhundert.,434,94.1,False,positional,M. SCHWAB,,,,Sec. XVIII
 BO0624_88235,474061,149,218,"Kommode mit drei Schubladen. Eichen geschnitzt.R Rokoko. Hohe 80,Breite 112, Tiefe 60 cm.",436,97.7,False,positional,M. SCHWAB,,,,
 BO0624_88235,474062,150,219,"Frankfurter Schrank.Z Zweitur.,nuBb. Hohe 200, Breite 188, Tiefe 66 cm.",437,97.1,False,positional,M. SCHWAB,,,,
 BO0624_88235,474063,151,220,"- Stollenschrank.Zweitir. Hohe 170, Breite 108, Tiefe 47 cm.",439,100.0,False,positional,M. SCHWAB,,,,
@@ -216,7 +216,7 @@ BO0624_88235,474126,214,285,Briefbeschwerer mit Blumen und Schmetterling. Bronze
 BO0624_88235,474127,215,286,"- Engel, eine Fackel haltend. Vollrund, Holz geschnitzt. Hohe 38 cm.",539,100.0,False,positional,M. SCHWAB,,OGGETTI IN LEGNO,,
 BO0624_88235,474128,216,287,- Taschenuhrstander. Holz geschnitzt. Louis XVI.Hohe 31 cm.,541,100.0,False,positional,M. SCHWAB,,OGGETTI IN LEGNO,,
 BO0624_88235,474129,217,288,"Kleiner dreiteil.Paravent mit Brokatstoff. Hohe 35, Breite 69 cm.",542,96.9,False,positional,M. SCHWAB,,ARREDAMENTI,,
-BO0624_88235,474130,218,289,"- Bauchiger Steingutkrug.Nassau 1698. Langgestreckt. Hohe 28,5 cm.",544,100.0,False,positional,M. SCHWAB,,,,
+BO0624_88235,474130,218,289,"- Bauchiger Steingutkrug.Nassau 1698. Langgestreckt. Hohe 28,5 cm.",544,100.0,False,positional,M. SCHWAB,,,,Sec. XVII
 BO0624_88235,474131,219,290,- 291 Desgl. Ebenso mit G. H. und Vogel. Hohe 28 cm. Nassau.,546,100.0,False,positional,M. SCHWAB,,,,
 BO0624_88235,474132,220,292,Bauchiger Steingutkrug mit Blumen. Hohe 25 cm. Nassau.,548,96.2,False,positional,M. SCHWAB,,,,
 BO0624_88235,474133,221,293,"Desgl. mit Ornamenten. Hohe 24,5 cm. Nassau. Desgl. desgl. Hohe 25 cm. Desgl. Desgl. desgl. Hohe 28 cm. Desgl.",549,56.3,False,positional,M. SCHWAB,,,,
@@ -355,9 +355,9 @@ BO0624_88235,474265,353,441,Zwei Rahmen. Louis XVI. Vergoldet. 60/50,749,94.9,Fa
 BO0624_88235,474266,354,442,Barock-Engel.,750,85.7,False,positional,M. SCHWAB,,,,
 BO0624_88235,474267,355,443,- Bronzefigur von Gardienne. Kugelspielerin. Hohe 30 cm.,752,100.0,False,title_direct,,,Bronze,,
 BO0624_88235,474268,356,444,Desgl. Kugelspieler. Hohe 23 cm.,753,93.5,False,positional,M. SCHWAB,,,,
-BO0624_88235,474269,357,445,"Bild, gestickt. Biedermeier 1846.",754,93.8,False,positional,M. SCHWAB,Biedermeier,,,
-BO0624_88235,474270,358,446,Perlbeutel mit Inschrift und Jahreszahl 1813.,755,95.7,False,positional,M. SCHWAB,,,,
-BO0624_88235,474271,359,447,"- 448 Kindertasche und zwei Musterticher, gestickt. 1825 und 1867.",758,100.0,False,positional,M. SCHWAB,,,,
+BO0624_88235,474269,357,445,"Bild, gestickt. Biedermeier 1846.",754,93.8,False,positional,M. SCHWAB,Biedermeier,,,Sec. XIX
+BO0624_88235,474270,358,446,Perlbeutel mit Inschrift und Jahreszahl 1813.,755,95.7,False,positional,M. SCHWAB,,,,Sec. XIX
+BO0624_88235,474271,359,447,"- 448 Kindertasche und zwei Musterticher, gestickt. 1825 und 1867.",758,100.0,False,positional,M. SCHWAB,,,,Sec. XIX
 BO0624_88235,474272,360,449,Brieftasche und Uhrentaschchen. Perlen gestickt.,759,95.8,False,positional,M. SCHWAB,,,,
 BO0624_88235,474273,361,450,- Notizbuch und Handborse. Perlen gearbeitet. Biedermeier.,761,100.0,False,positional,M. SCHWAB,Biedermeier,,,
 BO0624_88235,474274,362,451,- Kinderhaubchen und Kissen. Perlen gearbeitet.,763,100.0,False,positional,M. SCHWAB,,BIANCHERIA,,
@@ -604,34 +604,34 @@ BO0624_88235,474514,602,738,Desgl.,1290,71.4,False,positional,,,Bronze; Glas; Te
 BO0624_88235,474515,603,739,Desgl. Ebenso. Hohe 43 cm.,1292,92.0,False,positional,,,Bronze; Glas; Terrakotten,,
 BO0624_88235,474516,604,740,"Desgl. langgestreckt,konisch mit 2 Henkeln. Hohe 62 cm.",1293,96.3,False,positional,,,Bronze; Glas; Terrakotten,,
 BO0624_88235,474517,605,741,Griechische Urne mit 2 Henkeln. Terrakotta mit figirl. Darstellung. Hohe 27 cm.,1294,97.4,False,positional,,,Bronze; Glas; Terrakotten,,
-BO0624_88235,474518,606,742,"Passion Christi.Huftbild des Heilands v. vorn,in erhabener Darstellung.Italienische Arbeit, anfangs des 16. Jahrh. Altvergoldete Bronze, rechteckig.",1302,98.6,False,title_direct,,,Bronze,,
+BO0624_88235,474518,606,742,"Passion Christi.Huftbild des Heilands v. vorn,in erhabener Darstellung.Italienische Arbeit, anfangs des 16. Jahrh. Altvergoldete Bronze, rechteckig.",1302,98.6,False,title_direct,,,Bronze,,Sec. XVI
 BO0624_88235,474519,607,743,"Der hl. Franziskus an einem Kruzifix stehend; zur Seite kranzhaltender Knabe. Sehr alte,vielleicht spanische Arbeit. Stark-",1303,98.3,False,positional,,,Plaketten; Medaillen; Munzen,,
 BO0624_88235,474520,608,744,Jagdszene. Arbeit aus der Zeit des 30 jahrigen Krieges. Figurenreiche Darstellung. Rechteckig. Bronze.,1305,98.0,False,title_direct,,,Bronze,,
-BO0624_88235,474521,609,745,"Allegorie des Friedens. Die Figuren der Minerva, der Pax und der Abundantia,stehend. Oberitalienische Arbeit des 16. Jahrh.",1306,98.3,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474522,610,746,Ruhe auf der Flucht nach Aegypten. Flamische Arbeit des 17. Jahrh.,1308,96.9,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474523,611,747,Johannes a Lasko. Reformator (wirkte in Frankfurt 1555-56). Bartiges Brustbild in Talar.AET.56; 1557. Blei.,1312,98.0,False,positional,,,OGGETTI IN PIOMBO,,
-BO0624_88235,474524,612,748,"Cornelio Bentivoglio,1557. Geharnischtes Brustbild rechthin. Arbeit des Pastorino. Blei.",1313,97.7,False,positional,,,OGGETTI IN PIOMBO,,
+BO0624_88235,474521,609,745,"Allegorie des Friedens. Die Figuren der Minerva, der Pax und der Abundantia,stehend. Oberitalienische Arbeit des 16. Jahrh.",1306,98.3,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVI
+BO0624_88235,474522,610,746,Ruhe auf der Flucht nach Aegypten. Flamische Arbeit des 17. Jahrh.,1308,96.9,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVII
+BO0624_88235,474523,611,747,Johannes a Lasko. Reformator (wirkte in Frankfurt 1555-56). Bartiges Brustbild in Talar.AET.56; 1557. Blei.,1312,98.0,False,positional,,,OGGETTI IN PIOMBO,,Sec. XVI
+BO0624_88235,474524,612,748,"Cornelio Bentivoglio,1557. Geharnischtes Brustbild rechthin. Arbeit des Pastorino. Blei.",1313,97.7,False,positional,,,OGGETTI IN PIOMBO,,Sec. XVI
 BO0624_88235,474525,613,749,- S. Johannes Apostolus. Brustbild linkshin. Rev. Schrift. Bronze.,1315,100.0,False,title_direct,,,Bronze,,
-BO0624_88235,474526,614,750,Italienische Arbeit. 16. Jahrh.,1317,93.3,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474527,615,751,"Die hh. Prosdocimus und Justina von Padua, 1515. Die Busten der Rv. Schrift auf die Erbauung der Kirche",1319,98.0,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474528,616,752,Giovanni Battista Marini.Italienischer Dichter. Geharnischte Buste linkshin. Rv. Schrift. Bronze. 16. Jahrh.,1320,98.1,False,title_direct,,,Bronze,,
-BO0624_88235,474529,617,753,"Kardinal Vincenzo Maria Orsini, Erzbischof v. Benevent. 5. Sacularfeier des Dominikanerordens. Brustbild in Kardinalstracht rechtshin. Rv. Der Erzbischof vor der Kirche knieend. Bronze. Sigismondo Malatesta. Kopf links mit langen Haaren. Rv.Arm mit Palmzweig, v. Matteo de Pastis, 1447. Bronze. 3112 mm. Karl der Kihne, Herzog v. Burgund. Vermahlung mit Margarete, Prinzessin von England. Belorbeerter Kopf rechts. Rv. Das goldene Vlies. (1468.) Silber.",1321,58.3,False,title_direct,,,Bronze,,
+BO0624_88235,474526,614,750,Italienische Arbeit. 16. Jahrh.,1317,93.3,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVI
+BO0624_88235,474527,615,751,"Die hh. Prosdocimus und Justina von Padua, 1515. Die Busten der Rv. Schrift auf die Erbauung der Kirche",1319,98.0,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVI
+BO0624_88235,474528,616,752,Giovanni Battista Marini.Italienischer Dichter. Geharnischte Buste linkshin. Rv. Schrift. Bronze. 16. Jahrh.,1320,98.1,False,title_direct,,,Bronze,,Sec. XVI
+BO0624_88235,474529,617,753,"Kardinal Vincenzo Maria Orsini, Erzbischof v. Benevent. 5. Sacularfeier des Dominikanerordens. Brustbild in Kardinalstracht rechtshin. Rv. Der Erzbischof vor der Kirche knieend. Bronze. Sigismondo Malatesta. Kopf links mit langen Haaren. Rv.Arm mit Palmzweig, v. Matteo de Pastis, 1447. Bronze. 3112 mm. Karl der Kihne, Herzog v. Burgund. Vermahlung mit Margarete, Prinzessin von England. Belorbeerter Kopf rechts. Rv. Das goldene Vlies. (1468.) Silber.",1321,58.3,False,title_direct,,,Bronze,,Sec. XV
 BO0624_88235,474530,618,756,- 757,1325,100.0,False,positional,,,Plaketten; Medaillen; Munzen,,
 BO0624_88235,474531,619,6,"Antinous. Buste rechts. Rv. Merkur und Pegasus, v. Cavino. Bronze.",1326,98.3,False,title_direct,,,Bronze,,
 BO0624_88235,474532,620,758,"- 759 Don Juan d'Austria, Sohn Karls V. linkshin.",1329,100.0,False,positional,,,Plaketten; Medaillen; Munzen,,
 BO0624_88235,474533,621,760,"Papst Pius Il. Piccolomini.E Rv. Pelikan,",1333,95.0,False,positional,,,Plaketten; Medaillen; Munzen,,
 BO0624_88235,474534,622,761,"Girolamo Andreasi, neapolitanischer Graf von Ripalta. Brustbild",1334,96.8,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474535,623,762,"Kaiser Karl V. Brustbild in reichverziertem Gewande. Rv. Gekrontes Wappen mit dem Doppeladler, 1541. Silber vergoldet.",1336,98.2,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474536,624,763,"- 764 Sogenannter ,Geusenpfennig,Erkennungszeichen der niederlandischen Rebellen, gegen Konig Philipp II., 1567. Silber.",1338,100.0,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474537,625,765,"Melchior von Ossed, kurfirstlich-sachsischer Kanzler AET.37, (1543.) Erhabenes Brustbild in Pelzmantel und Schaube. Rv. Behelmtes Wappen. Nurnberger Arbeit. Silber.",1340,98.7,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474538,626,766,"Michel de l'Hospital, franzos. Kanzler 1573. Brustbild links. Rv.",1341,96.8,False,positional,,,Plaketten; Medaillen; Munzen,,
+BO0624_88235,474535,623,762,"Kaiser Karl V. Brustbild in reichverziertem Gewande. Rv. Gekrontes Wappen mit dem Doppeladler, 1541. Silber vergoldet.",1336,98.2,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVI
+BO0624_88235,474536,624,763,"- 764 Sogenannter ,Geusenpfennig,Erkennungszeichen der niederlandischen Rebellen, gegen Konig Philipp II., 1567. Silber.",1338,100.0,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVI
+BO0624_88235,474537,625,765,"Melchior von Ossed, kurfirstlich-sachsischer Kanzler AET.37, (1543.) Erhabenes Brustbild in Pelzmantel und Schaube. Rv. Behelmtes Wappen. Nurnberger Arbeit. Silber.",1340,98.7,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVI
+BO0624_88235,474538,626,766,"Michel de l'Hospital, franzos. Kanzler 1573. Brustbild links. Rv.",1341,96.8,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVI
 BO0624_88235,474539,627,767,Christus. Des Heilands Brustbild linkshin. Rv. Lamm Gottes.,1343,96.5,False,positional,,,Plaketten; Medaillen; Munzen,,
 BO0624_88235,474540,628,768,"Christus. Brustbild rechtshin. Thimoteus, v. Maler. Silber.",1345,96.4,False,positional,,,Plaketten; Medaillen; Munzen,,
 BO0624_88235,474541,629,769,"Religiose Medaille. Suindenfall und Kreuzigung. Treffliche Arbeit des Medailleurs Hans Rietz, mit den zwei sachsischen Wappen.",1347,98.4,False,title_direct,,,Medaillen,,
-BO0624_88235,474542,630,770,Weihnachtsmedaille 1549. Anbetung der Hirten und der 3 Konige. Schone architektonische Ausfuhrung. Silber vergoldet.,1349,98.2,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474543,631,771,"Weihnachtsmedaille mit ahnlichen Szenen. Niederrheinische Arbeit aus der 2. Halfte des 16. Jahrh., vielleicht eines Kolner Meisters.",1350,98.4,False,positional,,,Plaketten; Medaillen; Munzen,,
+BO0624_88235,474542,630,770,Weihnachtsmedaille 1549. Anbetung der Hirten und der 3 Konige. Schone architektonische Ausfuhrung. Silber vergoldet.,1349,98.2,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVI
+BO0624_88235,474543,631,771,"Weihnachtsmedaille mit ahnlichen Szenen. Niederrheinische Arbeit aus der 2. Halfte des 16. Jahrh., vielleicht eines Kolner Meisters.",1350,98.4,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVI
 BO0624_88235,474544,632,772,"Anhangemedaille mit Darstellung des hl. Leopold und der hl. Agnes,",1352,96.9,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474545,633,773,Weltausstellung 1878 (v. J. C. Chaplain.) Bronze. 68 mm.,1357,96.0,False,title_direct,,,Bronze,,
+BO0624_88235,474545,633,773,Weltausstellung 1878 (v. J. C. Chaplain.) Bronze. 68 mm.,1357,96.0,False,title_direct,,,Bronze,,Sec. XIX
 BO0624_88235,474546,634,774,Fechtkunst (v. L. Coudray). Bronze. 66/44 mm.,1358,95.0,False,title_direct,,,Bronze,,
 BO0624_88235,474547,635,775,- 776 Weinbau (v. L. Coudray). Bronze versilbert. 63/38 mm.,1363,100.0,False,title_direct,,,Bronze,,
 BO0624_88235,474548,636,777,- Wettlauf (v. Rivet). Bronze versilbert. 50 mm.,1365,100.0,False,title_direct,,,Bronze,,
@@ -662,43 +662,43 @@ BO0624_88235,474572,660,802,"Der Tanz (v.Wysocki, Berlin). BronzeguB. 170/84 mm.
 BO0624_88235,474573,661,803,- Richard Wagner (v. F. Pawlik). BronzeguB. 124/89 mm.,1405,100.0,False,title_direct,,,Bronze,,
 BO0624_88235,474574,662,804,Wiener Camera-Club (v.F.X.Pawlik). Silber. 81/65 mm.,1406,95.9,False,positional,,,Plaketten; Medaillen; Munzen,,
 BO0624_88235,474575,663,805,Sankt Hubertus (v.Weinberger). Silber. 35 mm.,1407,95.2,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474576,664,806,40 jahriges Regierungsjubilaum des Kaisers Franz Josef 1888 (v.A.Scharff). Bronze. 62 mm.,1408,97.7,False,title_direct,,,Bronze,,
-BO0624_88235,474577,665,807,200 jahrige Feier auf die abgeschlagene Belagerung Wiens 1883 (v.Tautenhayn).72 mm.,1409,97.6,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474578,666,808,Flamische Kunst-Ausstellung 1902 (v. Dryepondt). Die Kopfe,1411,96.4,False,positional,,,Plaketten; Medaillen; Munzen,,
+BO0624_88235,474576,664,806,40 jahriges Regierungsjubilaum des Kaisers Franz Josef 1888 (v.A.Scharff). Bronze. 62 mm.,1408,97.7,False,title_direct,,,Bronze,,Sec. XIX
+BO0624_88235,474577,665,807,200 jahrige Feier auf die abgeschlagene Belagerung Wiens 1883 (v.Tautenhayn).72 mm.,1409,97.6,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XIX
+BO0624_88235,474578,666,808,Flamische Kunst-Ausstellung 1902 (v. Dryepondt). Die Kopfe,1411,96.4,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XX
 BO0624_88235,474579,667,809,"Pro Pace (v. Leroy, Bruissel). Bronze. 65 mm.",1412,95.0,False,title_direct,,,Bronze,,
-BO0624_88235,474580,668,810,"Tod des GroBen Kurfirsten Friedrich Wilhelm 1688, FLOREBIT. PERENNABIT. Silber. 54 mm. Sehr selten.",1416,97.9,False,positional,,,Plaketten; Medaillen; Munzen,,
+BO0624_88235,474580,668,810,"Tod des GroBen Kurfirsten Friedrich Wilhelm 1688, FLOREBIT. PERENNABIT. Silber. 54 mm. Sehr selten.",1416,97.9,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVII
 BO0624_88235,474581,669,811,Friedrich Wilhelm I. Eroberung v. Stralsund 17i5. Silber.,1417,96.4,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474582,670,812,"Friedrich d. GroBe. Spottmedaille auf Frankfurt, Nurnberg etc., 1759. Bronze. VERITATIS PARADoXA auf die Siege 1759. Bronze. Medaille auf die Seidenspinnerei 1783. Silber. Selten.",1418,58.1,False,title_direct,,Scuola di Norimberga,Bronze,,
-BO0624_88235,474583,671,815,Vermahlung der Prinzessin Sophie Wilhelmine 1767 mit dem,1421,96.6,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474584,672,816,Friedrich Wilhelm Il. Huldigung in Breslau 1786.,1423,95.8,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474585,673,817,Friedrich Wilhelm Ill.Antritt der Regierung 1797. Silber.,1425,96.5,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474586,674,818,Huldigung von Berlin 1798. Silber.,1426,94.1,False,positional,,Scuola di Berlino,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474587,675,819,Tod des Prinzen August Wilhelm von PreuBen 1843. Bronze.,1427,96.4,False,title_direct,,,Bronze,,
+BO0624_88235,474582,670,812,"Friedrich d. GroBe. Spottmedaille auf Frankfurt, Nurnberg etc., 1759. Bronze. VERITATIS PARADoXA auf die Siege 1759. Bronze. Medaille auf die Seidenspinnerei 1783. Silber. Selten.",1418,58.1,False,title_direct,,Scuola di Norimberga,Bronze,,Sec. XVIII
+BO0624_88235,474583,671,815,Vermahlung der Prinzessin Sophie Wilhelmine 1767 mit dem,1421,96.6,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVIII
+BO0624_88235,474584,672,816,Friedrich Wilhelm Il. Huldigung in Breslau 1786.,1423,95.8,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVIII
+BO0624_88235,474585,673,817,Friedrich Wilhelm Ill.Antritt der Regierung 1797. Silber.,1425,96.5,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVIII
+BO0624_88235,474586,674,818,Huldigung von Berlin 1798. Silber.,1426,94.1,False,positional,,Scuola di Berlino,Plaketten; Medaillen; Munzen,,Sec. XVIII
+BO0624_88235,474587,675,819,Tod des Prinzen August Wilhelm von PreuBen 1843. Bronze.,1427,96.4,False,title_direct,,,Bronze,,Sec. XIX
 BO0624_88235,474588,676,820,Friedrich Wilhelm IV. Adlermedaille. Silber.,1428,95.3,False,positional,,,Plaketten; Medaillen; Munzen,,
 BO0624_88235,474589,677,821,Einweihung des Kriegdenkmals auf dem Kreuzberg bei Berlin,1429,96.6,False,positional,,Scuola di Berlino,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474590,678,822,Wilhelm I. Kolner Dombau 1867. Silber. 70 mm. GroBe Eisenmedaille aus der Konigl. GieBerei.,1431,69.2,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474591,679,823,Einweihung der Siegessaule 1873. Silber. 61 mm.,1432,95.7,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474592,680,824,GroBe Medaille auf die Siege im Feldzug 1870/71 mit den Namen,1434,96.8,False,title_direct,,,Medaillen,,
-BO0624_88235,474593,681,825,1885. 200 jahrige Feier der Aufnahme franzosischen Vertriebenen Refugies in PreuBen. Bronze. 6l mm. Selten. Friedrich Ill. Regierungsantritt 1888. Silber. 61886. 100 jahrige Gedenkfeier des Todes Friedrichs d. GroBen. Silber.,1435,63.9,False,title_direct,,,Bronze,,
-BO0624_88235,474594,682,828,1888. Tod des Kaisers. Bronze. 70 mm. 100 jahrige Feier der Geburt Wilhelm d. GroBen 1897. 75 mm. Wilhelm Il. Seine Geburt 1859. Bronze. 53 mm. Selten.,1439,59.3,False,title_direct,,,Bronze,,
-BO0624_88235,474595,683,831,Thronbesteigung 1888 mit den Brustbildern des Kaiserpaares. Silber. 60 mm. Selten.,1441,97.5,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474596,684,832,"1895. 25 jahrige Feier der Grindung des deutschen Reiches, mit den Brustbildern der drei Kaiser,Bismarcks und Moltkes. Pracht-",1443,98.4,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474597,685,833,Plakette auf Bismarck (v. Kowarzik) 1915. Bronze. 75/55 mm. GroBherzog Friedrich v. Baden und Luise 1883. Ansicht von Baden-,1446,70.0,False,title_direct,,,Bronze,,
-BO0624_88235,474598,686,834,GroBes Medaillon 1864. Wurttemberg. Bronze. 89 mm.,1447,95.8,False,title_direct,,,Bronze,,
-BO0624_88235,474599,687,837,"Plakette 1903. Sakularfeier der Vereinigung des Kantons Aargau mit dem Bunde (v.Burger-Hartmann). Bronze. 80/60 mm. Michel de Ruyter, niederlandischer Admiral. 3. Sakularfeier (1907), seiner Geburt. Bronze. 66 mm. (v. Jakob v. Goor.)",1449,66.9,False,title_direct,,,Bronze,,
+BO0624_88235,474590,678,822,Wilhelm I. Kolner Dombau 1867. Silber. 70 mm. GroBe Eisenmedaille aus der Konigl. GieBerei.,1431,69.2,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XIX
+BO0624_88235,474591,679,823,Einweihung der Siegessaule 1873. Silber. 61 mm.,1432,95.7,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XIX
+BO0624_88235,474592,680,824,GroBe Medaille auf die Siege im Feldzug 1870/71 mit den Namen,1434,96.8,False,title_direct,,,Medaillen,,Sec. XIX
+BO0624_88235,474593,681,825,1885. 200 jahrige Feier der Aufnahme franzosischen Vertriebenen Refugies in PreuBen. Bronze. 6l mm. Selten. Friedrich Ill. Regierungsantritt 1888. Silber. 61886. 100 jahrige Gedenkfeier des Todes Friedrichs d. GroBen. Silber.,1435,63.9,False,title_direct,,,Bronze,,Sec. XIX
+BO0624_88235,474594,682,828,1888. Tod des Kaisers. Bronze. 70 mm. 100 jahrige Feier der Geburt Wilhelm d. GroBen 1897. 75 mm. Wilhelm Il. Seine Geburt 1859. Bronze. 53 mm. Selten.,1439,59.3,False,title_direct,,,Bronze,,Sec. XIX
+BO0624_88235,474595,683,831,Thronbesteigung 1888 mit den Brustbildern des Kaiserpaares. Silber. 60 mm. Selten.,1441,97.5,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XIX
+BO0624_88235,474596,684,832,"1895. 25 jahrige Feier der Grindung des deutschen Reiches, mit den Brustbildern der drei Kaiser,Bismarcks und Moltkes. Pracht-",1443,98.4,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XIX
+BO0624_88235,474597,685,833,Plakette auf Bismarck (v. Kowarzik) 1915. Bronze. 75/55 mm. GroBherzog Friedrich v. Baden und Luise 1883. Ansicht von Baden-,1446,70.0,False,title_direct,,,Bronze,,Sec. XX
+BO0624_88235,474598,686,834,GroBes Medaillon 1864. Wurttemberg. Bronze. 89 mm.,1447,95.8,False,title_direct,,,Bronze,,Sec. XIX
+BO0624_88235,474599,687,837,"Plakette 1903. Sakularfeier der Vereinigung des Kantons Aargau mit dem Bunde (v.Burger-Hartmann). Bronze. 80/60 mm. Michel de Ruyter, niederlandischer Admiral. 3. Sakularfeier (1907), seiner Geburt. Bronze. 66 mm. (v. Jakob v. Goor.)",1449,66.9,False,title_direct,,,Bronze,,Sec. XX
 BO0624_88235,474600,688,838,(v.A.Vogel). Bronze. 198/165 mm. Sehr selten.,1452,95.1,False,title_direct,,,Bronze,,
 BO0624_88235,474601,689,839,"Vier Taler der Kaiser Maximilian Il., Rudolf II., Matthias und Ferdinand II.",1456,97.3,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474602,690,840,Doppeltaler Ferdinands I1. 1632.,1457,93.8,False,positional,,,Plaketten; Medaillen; Munzen,,
+BO0624_88235,474602,690,840,Doppeltaler Ferdinands I1. 1632.,1457,93.8,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVII
 BO0624_88235,474603,691,841,- 842 Doppeltaler und Taler des Kaisers Leopold.,1459,100.0,False,positional,,,Plaketten; Medaillen; Munzen,,
 BO0624_88235,474604,692,843,Zwei Taler des Kaisers Karl VI. und Taler Franz I. Drei Taler mit dem wilden Mann der Herzoge Heinrich Julius und August Wilhelm von Braunschweig. Doppeltaler Kaiser Karls VI. und Taler Josefs I.,1462,66.0,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474605,693,846,"Braunschweigischer Zweibridertaler 1691. Wildemannstaler des Herzogs Johann Friedrich und Taler mit dem hl.Andreas, des Herzogs Georg Ludwig v. Braunschweig. Braunschweigischer Glockentaler 1643.",1465,74.3,False,positional,,,Plaketten; Medaillen; Munzen,,
+BO0624_88235,474605,693,846,"Braunschweigischer Zweibridertaler 1691. Wildemannstaler des Herzogs Johann Friedrich und Taler mit dem hl.Andreas, des Herzogs Georg Ludwig v. Braunschweig. Braunschweigischer Glockentaler 1643.",1465,74.3,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVII
 BO0624_88235,474606,694,849,"Vier Taler von Bayern, Sachsen und Tirol.",1467,95.1,False,positional,,Scuola Tirolese,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474607,695,850,"- 851 Taler der Stadte Deventer, Kampen und Zwolle 1555.",1469,100.0,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474608,696,852,Taler von Schaffhausen 1621.,1471,93.1,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474609,697,853,- 854 Frankfurt. Schillertaler 1859.,1473,100.0,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474610,698,3,Doppeltaler Frankfurt 1866.,1474,96.3,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474611,699,855,Desgl. Schutzenfesttaler 1862. - 857 Wien. Taler des deutschen BundesschieBens 1868.,1477,77.2,False,positional,,Scuola Viennese,Plaketten; Medaillen; Munzen,,
+BO0624_88235,474607,695,850,"- 851 Taler der Stadte Deventer, Kampen und Zwolle 1555.",1469,100.0,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVI
+BO0624_88235,474608,696,852,Taler von Schaffhausen 1621.,1471,93.1,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XVII
+BO0624_88235,474609,697,853,- 854 Frankfurt. Schillertaler 1859.,1473,100.0,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XIX
+BO0624_88235,474610,698,3,Doppeltaler Frankfurt 1866.,1474,96.3,False,positional,,,Plaketten; Medaillen; Munzen,,Sec. XIX
+BO0624_88235,474611,699,855,Desgl. Schutzenfesttaler 1862. - 857 Wien. Taler des deutschen BundesschieBens 1868.,1477,77.2,False,positional,,Scuola Viennese,Plaketten; Medaillen; Munzen,,Sec. XIX
 BO0624_88235,474612,700,856,Desgl. Romertaler.,1478,88.9,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474613,701,858,"Wien. Schitzenfest-Doppelgulden 1880. Desgl. 15 Stuick, samtlich deutscher Pragung. Sammlung von Halbtalern und Gulden, meistens aus dem 17.und 18.Jahrhundert. 16 Stick.",1481,68.8,False,positional,,Scuola Viennese,Plaketten; Medaillen; Munzen,,
+BO0624_88235,474613,701,858,"Wien. Schitzenfest-Doppelgulden 1880. Desgl. 15 Stuick, samtlich deutscher Pragung. Sammlung von Halbtalern und Gulden, meistens aus dem 17.und 18.Jahrhundert. 16 Stick.",1481,68.8,False,positional,,Scuola Viennese,Plaketten; Medaillen; Munzen,,Sec. XVIII
 BO0624_88235,474614,702,861,Desgl. von 14 Talern und 12 Gulden aus der gleichen Zeit.30 Stuick. Stuick.,1482,92.2,False,positional,,,Plaketten; Medaillen; Munzen,,
-BO0624_88235,474615,703,862,Desgl. von 34 kleineren Munzen des 16. bis 18. Jahrhunderts.,1484,96.6,False,title_direct,,,Munzen,,
+BO0624_88235,474615,703,862,Desgl. von 34 kleineren Munzen des 16. bis 18. Jahrhunderts.,1484,96.6,False,title_direct,,,Munzen,,Sec. XVIII

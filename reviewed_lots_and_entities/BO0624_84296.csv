@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84296,516410,1,3,—Etude d'homme portant des armes.,46,96.9,False,positional,BOUCHER (Francois),,,,
-BO0624_84296,516411,2,I,mportant dessin au lavis de sepia. Signe et date : 1745.,99,99.0,False,positional,CHALLES (Charles-Michel-Ange),,,,
+BO0624_84296,516411,2,I,mportant dessin au lavis de sepia. Signe et date : 1745.,99,99.0,False,positional,CHALLES (Charles-Michel-Ange),,,,Sec. XVIII
 BO0624_84296,516412,3,18,Reunion de dix-huit petits dessins montes sur t une meme feuille.,223,97.7,False,positional,COYPEL (Charles),,,,
 BO0624_84296,516413,4,20,"Le Dessinateur. Dessin a la plume et frottis de sanguine. Haut.,18 cent.;larg, 1g cent 1/2. Cadre Louis XVI en bois dore.",246,98.7,False,positional,,ECOLE FRANCAISE,OGGETTI IN LEGNO,,
 BO0624_84296,516414,5,21,Portrait de D'Alembert.,247,93.6,False,positional,,ECOLE FRANCAISE,,,
@@ -24,12 +24,12 @@ BO0624_84296,516431,22,59,60,641,57.1,False,positional,POUSSIN (Nicolas),Scuola 
 BO0624_84296,516432,23,2,avec groupes de personnages.,648,96.4,False,positional,ROBERT (Hubert),,OGGETTI VARI,,
 BO0624_84296,516433,24,I,"l git a terre,brise,au premier plan.Plus loin,sur une terrasse, s'eleve majestueux, un edifice que surmonte une coupole.",673,99.6,False,positional,ROBERT (Hubert),,,,
 BO0624_84296,516434,25,9,N,755,66.7,False,title_direct,BERGHEM (Nicolas),ECOLE FRANCAISE,ANCIENNES PORCELAINES,,
-BO0624_84296,516435,26,70,"## Vue du Dome de l'Abbaye de Panthemont, batie sur les desseins de M. Coutant,1779.",762,100.0,False,positional,SAINT-AUBIN (Gabriel de),,,,
+BO0624_84296,516435,26,70,"## Vue du Dome de l'Abbaye de Panthemont, batie sur les desseins de M. Coutant,1779.",762,100.0,False,positional,SAINT-AUBIN (Gabriel de),,,,Sec. XVIII
 BO0624_84296,516436,27,71,- 73,805,100.0,False,positional,SAINT-AUBIN (Gabriel de),,,,
 BO0624_84296,516437,28,74,- Jeune femme debout.,845,92.3,False,positional,TRINQUESSE (Louis),,,,
 BO0624_84296,516438,29,75,"Portrait de L. Paisiello, Compositeur de musique.",856,96.8,False,positional,VIGEE-LEBRUN (D'apres Madame L.-E.),,,,
 BO0624_84296,516439,30,79,"—CaDRE rectangulaire en bois moulure, sculpte et dore,orne en ses milieux et coins, de motifs a agrafes feuillagees, fleurons ou rosaces. Epoque Regence. l encadre une gravure moderne d'apres A.WATTeAu : Enseigne de Gersaint.",913,80.3,False,positional,WILLE le Fils,,OGGETTI IN LEGNO,,
-BO0624_84296,516440,31,80,"— CaDre rectangulaire en bois moulure, plaque d'ecaille et de petites frises d'os grave. xvin siecle. l encadre un dessin au crayon par BenouviLLe,signe et date: Rome,1845,presentant un moine lisant.",923,66.7,False,positional,WILLE le Fils,,OGGETTI IN LEGNO,,
+BO0624_84296,516440,31,80,"— CaDre rectangulaire en bois moulure, plaque d'ecaille et de petites frises d'os grave. xvin siecle. l encadre un dessin au crayon par BenouviLLe,signe et date: Rome,1845,presentant un moine lisant.",923,66.7,False,positional,WILLE le Fils,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_84296,516441,32,81,"— PAIRE DE FLAMBEAUx, en argent,a tige triangulaire et base contournee;decor de baguette enrubannee,petits cartels,et armoiries gravees. Poincons de Paris. xvinr siecle.",954,99.1,False,positional,,,OGGETTI VARI,,
 BO0624_84296,516442,33,82,Louis xVI.,962,85.7,False,positional,,,ORFEVRERIE ANCIENNE,,
 BO0624_84296,516443,34,83,de Paris. Epoque Louis XV.,967,94.1,False,positional,,Periodo di Luigi XV,ORFEVRERIE ANCIENNE,,

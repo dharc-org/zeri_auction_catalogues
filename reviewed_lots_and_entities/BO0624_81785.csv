@@ -49,8 +49,8 @@ BO0624_81785,102253,47,44,Grande caffettiera argento Impero a tre piedi. diamant
 BO0624_81785,102254,48,45,"Due anelli; uno a cuore con rubino Siam e rose, e l'altro con",207,97.5,False,positional,FIASELLA DOMENICO,,,,
 BO0624_81785,102255,49,2,46.Medaglione d’ argento con diamanti.,208,97.3,False,positional,FIASELLA DOMENICO,,,,
 BO0624_81785,102256,50,47,Broche a 5 rubini orientali con rose.,209,96.0,False,positional,FIASELLA DOMENICO,,,,
-BO0624_81785,102257,51,48,Risurrezione di G. C.; frammento in forma di aguglia;pittura ad olio su tavola. XIV Sec.,213,98.2,False,positional,,SCUOLA BOLOGNESE,,,
-BO0624_81785,102258,52,49,"Redentore in trono;pittura ad olio su tavola a fondo d’ oro, XIV Sec., assai interessante.",217,82.7,False,positional,,SCUOLA BOLOGNESE,,,
+BO0624_81785,102257,51,48,Risurrezione di G. C.; frammento in forma di aguglia;pittura ad olio su tavola. XIV Sec.,213,98.2,False,positional,,SCUOLA BOLOGNESE,,,Sec. XIV
+BO0624_81785,102258,52,49,"Redentore in trono;pittura ad olio su tavola a fondo d’ oro, XIV Sec., assai interessante.",217,82.7,False,positional,,SCUOLA BOLOGNESE,,,Sec. XIV
 BO0624_81785,102259,53,50,XCadonna in trono con Santi; pittura ad olio su tavola con cornice gotica.,222,98.0,False,positional,,SCUOLA VENEZIANA,,,
 BO0624_81785,102260,54,51,"Grande stipo incrostato d' avorio con graffti a figure, maniglie di bronzo.",230,98.0,False,positional,,SCUOLA VENEZIANA,,,
 BO0624_81785,102261,55,52,Reliquiario in forma di tempietto con ornati repusse argento e pietre dure.,234,80.6,False,positional,,SCUOLA VENEZIANA,,,
@@ -70,8 +70,8 @@ BO0624_81785,102274,68,65,Chatelain rubini orientali e orologio.,298,96.1,False,
 BO0624_81785,102275,69,66,"Paio buccole a pendenti, perle finissime.",299,96.3,False,positional,,SCUOLA FIORENTINA,,,
 BO0624_81785,102276,70,67,Xadonna bizantina fondo oro; pittura ad olio su tavola.,300,97.2,False,positional,,SCUOLA FIORENTINA,,,
 BO0624_81785,102277,71,68,La Deposizione; pittura ad olio su tavola.,308,96.4,False,positional,,SCUOLA FIORENTINA,,,
-BO0624_81785,102278,72,69,S. Anna e S. Elisabetta; pittura ad olio su tavola; XIV Sec.,312,97.3,False,positional,,SCUOLA TOSCANA,,,
-BO0624_81785,102279,73,70,Quattro panneaux rappresentanti S. Giacomo e S. Domenico; S. Giacomo e S. Agostino; pitture ad olio su tavola del XIV Sec.,318,98.7,False,positional,,SCUOLA UMBRA,PANNELLI,,
+BO0624_81785,102278,72,69,S. Anna e S. Elisabetta; pittura ad olio su tavola; XIV Sec.,312,97.3,False,positional,,SCUOLA TOSCANA,,,Sec. XIV
+BO0624_81785,102279,73,70,Quattro panneaux rappresentanti S. Giacomo e S. Domenico; S. Giacomo e S. Agostino; pitture ad olio su tavola del XIV Sec.,318,98.7,False,positional,,SCUOLA UMBRA,PANNELLI,,Sec. XIV
 BO0624_81785,102280,74,71,La crocifissione; pittura ad olio su tavola.,325,96.6,False,positional,,SCUOLA TEDESCA,,,
 BO0624_81785,102281,75,72,Sacra famiglia; pittura ad olio su tela in cornice.,331,97.0,False,positional,PARMIGIANINO,,,,
 BO0624_81785,102282,76,73,Ecce Homo; pittura ad olio su tela in cornice.,343,96.7,False,positional,,SCUOLAVENEZIANA,,,
@@ -211,7 +211,7 @@ BO0624_81785,102415,209,205,Salotto Impero in mogano composto di:,712,94.7,False
 BO0624_81785,102416,210,206,"Lotto di due sofa e sei poltroncine scolpite di mogano, coperti di seta celeste che completano il salotto di cui al precedente numero.",716,98.5,False,positional,,,Oggetti Etruschi,,
 BO0624_81785,102417,211,207,Grande lampadario Luigi XVI; a dodici bracci in bronzo e prismi di cristallo di Boemia.,717,97.7,False,positional,,,Oggetti Etruschi,,
 BO0624_81785,102418,212,208,Statua di marmo rappresentante la Venere di Canova con colonetta di marmo.,718,97.3,False,positional,,,Oggetti Etruschi,,
-BO0624_81785,102419,213,209,Panello in legno di finissimo intaglio d'ornato con medaglione nel centro rappresentante Napoleone I;opera firmata da Vittorio Giusto 1800.,719,98.6,False,positional,,,Oggetti Etruschi,,
+BO0624_81785,102419,213,209,Panello in legno di finissimo intaglio d'ornato con medaglione nel centro rappresentante Napoleone I;opera firmata da Vittorio Giusto 1800.,719,98.6,False,positional,,,Oggetti Etruschi,,Sec. XIX
 BO0624_81785,102420,214,210,Console scolpita e dorata Luigi XV con piano di marmo.,720,96.4,False,positional,,Periodo di Luigi XV,Oggetti Etruschi,,
 BO0624_81785,102421,215,6,"21l. Caminiera in legno scolpito e dorato, stile barocco.",721,98.2,False,positional,,,Oggetti Etruschi,,
 BO0624_81785,102422,216,212,Piccola console scolpita e dorata Luigi XV con piano di marmo.,722,96.8,False,positional,,Periodo di Luigi XV,Oggetti Etruschi,,
@@ -222,11 +222,11 @@ BO0624_81785,102426,220,216,Gruppo di due Putti di marmo di Carrara con sottopos
 BO0624_81785,102427,221,317,Piccolo armonium a forma di chitarra.,727,94.7,False,positional,,,Oggetti Etruschi,,
 BO0624_81785,102428,222,218,Una cetra con tastiera.,728,91.7,False,positional,,,Oggetti Etruschi,,
 BO0624_81785,102429,223,219,"Un’ arpa con ornati d’ oro a grafito su fondo nero, marca Jhon Egan 40 Dowson St.Dublin Secolo XVIll",729,73.8,False,positional,,,Oggetti Etruschi,,
-BO0624_81785,102430,224,220,Violino d autore Joannes Varotti fecit Bononiae anno 1791.,731,96.6,False,positional,,,Oggetti Etruschi,,
+BO0624_81785,102430,224,220,Violino d autore Joannes Varotti fecit Bononiae anno 1791.,731,96.6,False,positional,,,Oggetti Etruschi,,Sec. XVIII
 BO0624_81785,102431,225,221,"Piatino di maiolica antico; Ispano-arabo,con lustri; bleu nel",738,96.7,False,positional,,,LUSTRI,,
 BO0624_81785,102432,226,2,centro.,739,85.7,False,positional,,,Oggetti Etruschi,,
 BO0624_81785,102433,227,3,222.Altro piatto Ispano-arabo figurato.,740,97.4,False,positional,,,Oggetti Etruschi,,
-BO0624_81785,102434,228,223,"Piatto di maiolica italiana XVI Secolo;rappresentante la Creazione del Mondo,con bellssima cornice dellepoca,n legno scolpito ed in parte dorato.",741,91.6,False,positional,,,Oggetti Etruschi,,
+BO0624_81785,102434,228,223,"Piatto di maiolica italiana XVI Secolo;rappresentante la Creazione del Mondo,con bellssima cornice dellepoca,n legno scolpito ed in parte dorato.",741,91.6,False,positional,,,Oggetti Etruschi,,Sec. XVI
 BO0624_81785,102435,229,224,Piccola Cadonna con bambino in cornice dorata.,748,95.7,False,positional,GUIDO RENI,,,,
 BO0624_81785,102436,230,225,L'astronomo ed il beuitore; due quadretti dipinti ad olio su tela in cornice.,752,97.4,False,positional,,SCUOLA FIAMMINGA,,,
 BO0624_81785,102437,231,226,Astuccio contenente servizio vieux saxe ed argento cesellato.,753,96.8,False,positional,,SCUOLA FIAMMINGA,,,
@@ -253,7 +253,7 @@ BO0624_81785,102457,251,250,Grande stipo incrostato di tartaruga con tarsie di m
 BO0624_81785,102458,252,5,tavolo con 6 colonne a spirale e finissimo traforo di tartaruga.,857,98.4,False,positional,BONACCORSI PIETRO,,,,
 BO0624_81785,102459,253,242,Quattro quadri sappresentanti Putti con fiori; dipinti ad olio su tela in cornice dorata.,865,97.8,False,positional,JOURDANS GIOV.,,,,
 BO0624_81785,102460,254,243,Piccola cornice Sansovinesca in legno scolpito e dorato.,869,96.5,False,positional,JOURDANS GIOV.,,,,
-BO0624_81785,102461,255,244,Croce stazionale in bronzo con repusse XIV Sec.,873,95.8,False,positional,JOURDANS GIOV.,,,,
+BO0624_81785,102461,255,244,Croce stazionale in bronzo con repusse XIV Sec.,873,95.8,False,positional,JOURDANS GIOV.,,,,Sec. XIV
 BO0624_81785,102462,256,245,Cedaglione in alto rilievo di terracotta raffigurante Gesu col Cen-,877,97.1,False,positional,JOURDANS GIOV.,,,,
 BO0624_81785,102463,257,2,turione; in cornice di legno scolpito e dorato dell' epoca - Maniera del Bernini.,878,98.7,False,positional,JOURDANS GIOV.,,,,
 BO0624_81785,102464,258,251,Piatto grande d argento.,883,92.0,False,positional,JOURDANS GIOV.,,,,
@@ -264,7 +264,7 @@ BO0624_81785,102468,262,255,Personaggio cavalcante un caprone - caricatura - gra
 BO0624_81785,102469,263,256,Due figurine di Donna di porcellana colorata - Marca Sassonia.,892,96.7,False,positional,JOURDANS GIOV.,,,,
 BO0624_81785,102470,264,257,Frustino argento.,893,88.9,False,positional,JOURDANS GIOV.,,,,
 BO0624_81785,102471,265,258,Cadonna; placca argento con cimasa.,894,94.3,False,positional,JOURDANS GIOV.,,,,
-BO0624_81785,102472,266,259,Orologio argento del XVI Secolo.,895,93.9,False,positional,JOURDANS GIOV.,,,,
+BO0624_81785,102472,266,259,Orologio argento del XVI Secolo.,895,93.9,False,positional,JOURDANS GIOV.,,,,Sec. XVI
 BO0624_81785,102473,267,260,Ritratto di Signora; pittura ad olio su tela con cornice. (V.Illustrazione Tav. VI),899,80.3,False,positional,,SCUOLA GENOVESE,,,
 BO0624_81785,102474,268,261,Cose; pittura ad olio su tavola in cornice dorata.,904,96.0,False,positional,MENGS RAFFAELLO,,,,
 BO0624_81785,102475,269,262,S. Pietro; pittura ad olio su tavola.,916,94.4,False,positional,MENGS RAFFAELLO,,,,
@@ -274,7 +274,7 @@ BO0624_81785,102478,272,265,Madonna con bambino;bellissima pittura ad olio su ta
 BO0624_81785,102479,273,266,Soggetto incerto; pittura ad olio su rame in cornice.,944,96.2,False,positional,BAROCCI FEDERIGO,,,,
 BO0624_81785,102480,274,267,Decapitazione di Luigi XVl; pittura ad olio su tela in cornice dorata.,952,97.1,False,positional,BAROCCI FEDERIGO,,,,
 BO0624_81785,102481,275,268,La Resurrezione di Lazzaro; pittura ad olio su marmo in cornice.,956,96.9,False,positional,,SCUOLA ROMANA,,,
-BO0624_81785,102482,276,269,Dittico in cornice gotica; pittura su tavola del XIV Sec.,962,96.5,False,positional,,SCUOLA VENEZIANA,,,
+BO0624_81785,102482,276,269,Dittico in cornice gotica; pittura su tavola del XIV Sec.,962,96.5,False,positional,,SCUOLA VENEZIANA,,,Sec. XIV
 BO0624_81785,102483,277,270,"L' Incoronazione della Vergine; Gesu Cristo pone una corona sul capo della Vergine; due figure un terzo del naturale sedute sopra un trono formano un maestoso e grazioso gruppo ornato da una moltitudine di piccoli angeli, due dei quali sostengono un palio di porpora e oro; alla base del quadro si legge: Symon pinxit hoc opus.",967,99.4,False,positional,SIMONE DEI CROCIFISSI,,,,
 BO0624_81785,102484,278,271,Pittura ad olio su tavola del Xlll Secolo rappresentante la figura di una Santa ed in alto Gesu in Croce e le Maddalene; in cornice gotica.,974,67.9,False,positional,,SCUOLA SPAGNOLA,,,
 BO0624_81785,102485,279,272,Lotto di 4 panelli rettangolari rappresentanti : La sacra famiglia; I infanzia di G. C.; le nozze di Canaan; I' adorazione dei Magi.,982,98.4,False,positional,,SCUOLA FERRARESE,,,
@@ -284,14 +284,14 @@ BO0624_81785,102488,282,275,Soggetto biblico;bella composizione d dipinta ad oli
 BO0624_81785,102489,283,276,Piccolo modello di nave con base.,997,94.1,False,positional,CARLONE GIOVANNI,,,,
 BO0624_81785,102490,284,277,Lotto di m. 50 brocatello rosso con disegni di animali e grappoli d'uva.,998,97.2,False,positional,CARLONE GIOVANNI,,,,
 BO0624_81785,102491,285,278,Quadretto rappresentante Monumenti romani in mosaico in cornice,999,96.9,False,positional,CARLONE GIOVANNI,,,,
-BO0624_81785,102492,286,280,"Gesu Cristo crocifsso; in alto su le nubi due piccoli angeli oranti, ed ai suoi piedi inginocchiato S. Domenico a destra ed un giovinetto a sinistra in ricco abito del XIV Sec.-Per la sua grande espressione, per la perfezione del lavoro e per l iscrizione  Oratio Jacobi pinxit 1442 e una tavola rimarchevole ed e solo il secondo quadro di questo pittore che si conosca.",1009,99.5,False,positional,ORATIO JACOBI,,,,
+BO0624_81785,102492,286,280,"Gesu Cristo crocifsso; in alto su le nubi due piccoli angeli oranti, ed ai suoi piedi inginocchiato S. Domenico a destra ed un giovinetto a sinistra in ricco abito del XIV Sec.-Per la sua grande espressione, per la perfezione del lavoro e per l iscrizione  Oratio Jacobi pinxit 1442 e una tavola rimarchevole ed e solo il secondo quadro di questo pittore che si conosca.",1009,99.5,False,positional,ORATIO JACOBI,,,,Sec. XV
 BO0624_81785,102493,287,281,"Lotto di tre alabarde, un fucile a miccia ed un frammento di corazza.",1013,97.1,False,positional,ORATIO JACOBI,,,,
 BO0624_81785,102494,288,282,"Due Quadri rappresentanti uno, Una mandra, I’ altro, Una caro- uana; pitture ad olio su tela in cornice.",1019,72.2,False,positional,CASTIGLIONE GIOVANNI,,,,
 BO0624_81785,102495,289,283,Gruppo di due figure di terracotta assai bene modellate attribuite al Lombardi. Idem,1024,94.5,False,positional,CASTIGLIONE GIOVANNI,,,,
 BO0624_81785,102496,290,284,"Soggetto storico sacro; molte figure, ben disegnato; pittura ad olio su tela con cornice.",1035,97.7,False,positional,CASTIGLIONE GIOVANNI,,,,
-BO0624_81785,102497,291,285,"Pittura ad olio su tavola rappresentante la Vergine col Bambino. Alla sua destra sono S. Nicola e S. Lucia, alla sinistra S. Basilio e S. Antonio di Padova, ed a' suoi piedi genufessi Filippo ed Agostino Griff,che il quadro avevano commesso nel 154l per porlo ad ornamento della Cappella dedicata a S. Nicola e S. Lucia nella Cattedrale di Sarzana, sicome risulta dagli atti di Francesco Montano conservati nell Archivio di Sarzana sotto la data stico, anno 1890, pag. 49 e seguenti, e di Ubaldo Mazzini i""Il Carpenino e le sue opere enella Rassegna Bibliografica dell' Arte Italiana, Anno X, N. 13.— Quest opera pregevolissima aein perfetto stato di conservazione.",1038,99.7,False,positional,ANTONIO DA CARPENA,,,,
+BO0624_81785,102497,291,285,"Pittura ad olio su tavola rappresentante la Vergine col Bambino. Alla sua destra sono S. Nicola e S. Lucia, alla sinistra S. Basilio e S. Antonio di Padova, ed a' suoi piedi genufessi Filippo ed Agostino Griff,che il quadro avevano commesso nel 154l per porlo ad ornamento della Cappella dedicata a S. Nicola e S. Lucia nella Cattedrale di Sarzana, sicome risulta dagli atti di Francesco Montano conservati nell Archivio di Sarzana sotto la data stico, anno 1890, pag. 49 e seguenti, e di Ubaldo Mazzini i""Il Carpenino e le sue opere enella Rassegna Bibliografica dell' Arte Italiana, Anno X, N. 13.— Quest opera pregevolissima aein perfetto stato di conservazione.",1038,99.7,False,positional,ANTONIO DA CARPENA,,,,Sec. XIX
 BO0624_81785,102498,292,286,La Mictitura; gruppo di Putti piura ad olio in cornice,1046,96.4,False,positional,ANTONIO DA CARPENA,,,,
-BO0624_81785,102499,293,287,"Piccolo trittico pieghevole a libretto, assai interessante del XIV Secolo con policromie.",1054,97.8,False,positional,,SCUOLA VENEZIANA,,,
+BO0624_81785,102499,293,287,"Piccolo trittico pieghevole a libretto, assai interessante del XIV Secolo con policromie.",1054,97.8,False,positional,,SCUOLA VENEZIANA,,,Sec. XIV
 BO0624_81785,102500,294,288,"Soggetto allegorico, pittura ad olio su tela in cornice",1055,96.4,False,positional,,SCUOLA VENEZIANA,,,
 BO0624_81785,102501,295,289,La SS. Trinita; pittura ad olio su tavola in cornice.,1063,96.2,False,positional,RUBENS PIETRO PAOLO,,,,
 BO0624_81785,102502,296,290,"Ritratto di Andrea Doria; pittura ad olio su lavagna, assai",1068,96.6,False,positional,SEBASTIANO DEL PIOMBO,,,,
@@ -301,7 +301,7 @@ BO0624_81785,102505,299,291,Il presepio;pittura ad olio su rame.,1071,94.6,False
 BO0624_81785,102506,300,292,La presentazione; bozzetto dipinto ad olio su tavola,1075,96.2,False,positional,,SCUOLA VENEZIANA,,,
 BO0624_81785,102507,301,293,La vergine col bambino; pittura ad olio su tavola in cornice.,1081,96.7,False,positional,,SCUOLA FIORENTINA,,,
 BO0624_81785,102508,302,294,La Morte della Madonna cogli apostoli; pittura ad olio su tela.,1089,96.8,False,positional,JACOPO FORTI,,,,
-BO0624_81785,102509,303,295,Pala da altare a forma di trittico. La Madonna seduta col centro e Santi ai lati; segnata ai piedi la data 1421.,1095,98.2,False,positional,,SCUOLA VENETA,,,
+BO0624_81785,102509,303,295,Pala da altare a forma di trittico. La Madonna seduta col centro e Santi ai lati; segnata ai piedi la data 1421.,1095,98.2,False,positional,,SCUOLA VENETA,,,Sec. XV
 BO0624_81785,102510,304,296,S. Girolamo;pittura ad olio su tavola,1101,94.7,False,positional,,SCUOLA OLANDESE,,,
 BO0624_81785,102511,305,297,S. Tommaso; pittura ad olio su tela in cornice,1114,95.7,False,positional,CASTELLO BERNARDO,,,,
 BO0624_81785,102512,306,298,L' Adorazione; bozzetto dipinto ad olio su tavola im cornice.,1120,96.7,False,positional,,SCUOLA VENEZIANA,,,
@@ -310,9 +310,9 @@ BO0624_81785,102514,308,300,Amore; grazioso Putto dipinto ad olio su tela in cor
 BO0624_81785,102515,309,301,"Graziosa figura di Donna con fanciullo; pittura ad olio su tela in cornice. Alt.,m.0,98&gt;0.69.",1143,78.5,False,positional,MURILLO BARTOLOMEO,,,,
 BO0624_81785,102516,310,302,Paesaggio; pittura ad olio su tela in cornice.,1148,95.7,False,positional,,SCUOLA NAPOLETANA,,,
 BO0624_81785,102517,311,303,La Nativita; pittura ad olio su tavola in cornice.,1152,96.0,False,positional,,SCUOLA FIORENTINA,,,
-BO0624_81785,102518,312,304,Madonna con Santi; pittura ad olio su tavola del XIV Sec.,1159,96.5,False,positional,,SCUOLA FIORENTINA,,,
+BO0624_81785,102518,312,304,Madonna con Santi; pittura ad olio su tavola del XIV Sec.,1159,96.5,False,positional,,SCUOLA FIORENTINA,,,Sec. XIV
 BO0624_81785,102519,313,305,Crocifsso bellissimo d’ avorio in astuccio.,1167,95.3,False,positional,ALGARDIALESSANDRO,,,,
-BO0624_81785,102520,314,306,"La Crocifissione; pittura ad olio su tavola con fregio dorato del XIV Secolo, in cattivo stato.",1168,97.9,False,positional,ALGARDIALESSANDRO,,,,
+BO0624_81785,102520,314,306,"La Crocifissione; pittura ad olio su tavola con fregio dorato del XIV Secolo, in cattivo stato.",1168,97.9,False,positional,ALGARDIALESSANDRO,,,,Sec. XIV
 BO0624_81785,102521,315,307,"Contadini con cavalli; due quadretti dipinti ad olio su lavagna Alt, m.0,16&gt;0,22.",1172,84.4,False,positional,WOUWERMANS FILIPPO,,,,
 BO0624_81785,102522,316,308,L' Adorazione; pittura ad olio su tela in cornice.,1181,95.9,False,positional,BASSANO,,,,
 BO0624_81785,102523,317,309,S. Sebastiano; pittura ad olio su tavola in cornice.,1189,96.1,False,positional,VANNUCCHI ANDREA,,,,
@@ -325,6 +325,6 @@ BO0624_81785,102529,323,115,Bronzo Fiorentino del rinascimento finamente cesella
 BO0624_81785,102530,324,2,con splendida patina. Oggetto da collezione.,1213,97.7,False,positional,ERCOLE FARNESE,,,,
 BO0624_81785,102531,325,316,Pettine in rose e diamanti,1217,92.9,False,positional,ERCOLE FARNESE,,,,
 BO0624_81785,102532,326,317,Madonna e Putto con Santi; pittura ad olio su tavola in cornice,1221,96.9,False,positional,,SCUOLA VENEZIANA,,,
-BO0624_81785,102533,327,318,"Grande basso rilieuo in pietra arenaria con innumerevoli figure, del XV secolo.",1226,97.5,False,positional,,SCUOLA VENEZIANA,,,
+BO0624_81785,102533,327,318,"Grande basso rilieuo in pietra arenaria con innumerevoli figure, del XV secolo.",1226,97.5,False,positional,,SCUOLA VENEZIANA,,,Sec. XV
 BO0624_81785,102534,328,319,"Sacra famiglia; bella pittura ad olio su tavola in cornice dorata Alt,m.0,840,70.",1232,87.1,False,positional,GIULIO ROMANO,,,,
 BO0624_81785,102535,329,320,Giuditta e Oloferne; pittura ad olio su tela con ricca cornice,1241,96.8,False,positional,RUBENS PIETRO PAOLO,,,,

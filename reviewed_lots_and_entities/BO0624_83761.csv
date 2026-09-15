@@ -1,21 +1,21 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83761,107933,1,1,Bega. 1620-1664. La Jeune musicienne.,22,71.7,False,positional,BEGA,,,,
-BO0624_83761,107934,2,2,Berghem. 1670-1699. Les Moissonneurs.,41,65.4,False,positional,BERGHEM,,,,
-BO0624_83761,107935,3,3,Brekelenkamp. 1620-1668. Portrait d'un artiste.,55,65.7,False,positional,BREKELENKAMP,,,,
-BO0624_83761,107936,4,4,Grimoux. 1680-1740. Portrait d'un artiste.,67,74.2,False,positional,GRIMOUX,,,,
-BO0624_83761,107937,5,5,Heem. 1600-1674. Fruitset et Objets inanimes.,78,73.5,False,positional,HEEM,,OGGETTI VARI,,
-BO0624_83761,107938,6,6,Hooch. 1630-1681. La Jeune Mere.,90,68.2,False,positional,HEEM,,,,
-BO0624_83761,107939,7,7,Janssens. XVII siecle. Interieur hollandais.,103,65.6,False,positional,JANSSENS,,ARREDAMENTI,,
-BO0624_83761,107940,8,8,"LAGRENEE. 1740-1821. Jeunes Femmes representees a mi-corps. Cuivre.Haut.,20 cent.;larg,15 cent,",119,89.4,False,title_direct,LAGRENEE,,,,
-BO0624_83761,107941,9,9,METZU. 1630-1667. Jeune Femme tenant unepomme.,126,77.8,False,title_direct,METZU,,,,
-BO0624_83761,107942,10,10,MIGNON. 1639-1679. Fleurs et Fruits. La Halte.,148,59.0,False,title_direct,MIGNON,,,,
-BO0624_83761,107943,11,11,NEER. 1643-1703. Vue de Hollande;effet de clair de lune.,163,87.2,False,title_direct,NEER,,,,
-BO0624_83761,107944,12,12,Ruys. 1664-1750. Fleurs et Fruits sur une table de marbre.,175,85.7,False,positional,NEER,,,,
-BO0624_83761,107945,13,13,STOOP. 1610-1686. La Halte.,185,51.2,False,positional,NEER,,,,
-BO0624_83761,107946,14,14,Steen. 1626-1679. Reunion dans un Interieur.,196,75.8,False,positional,STEEN,,ARREDAMENTI,,
-BO0624_83761,107947,15,15,Tournieres. 1668-1752. Portrait d'un Gentilhomme.,214,75.7,False,positional,TOURNIERES,,,,
-BO0624_83761,107948,16,16,Velde. 1639-1672. Paturage hollandais.,227,77.2,False,positional,VELDE,,,,
-BO0624_83761,107949,17,17,WOUWERMAN. 1619-1668. Le Retour du Marche.,241,68.9,False,title_direct,WOUWERMAN,,,,
+BO0624_83761,107933,1,1,Bega. 1620-1664. La Jeune musicienne.,22,71.7,False,positional,BEGA,,,,Sec. XVII
+BO0624_83761,107934,2,2,Berghem. 1670-1699. Les Moissonneurs.,41,65.4,False,positional,BERGHEM,,,,Sec. XVII
+BO0624_83761,107935,3,3,Brekelenkamp. 1620-1668. Portrait d'un artiste.,55,65.7,False,positional,BREKELENKAMP,,,,Sec. XVII
+BO0624_83761,107936,4,4,Grimoux. 1680-1740. Portrait d'un artiste.,67,74.2,False,positional,GRIMOUX,,,,Sec. XVIII
+BO0624_83761,107937,5,5,Heem. 1600-1674. Fruitset et Objets inanimes.,78,73.5,False,positional,HEEM,,OGGETTI VARI,,Sec. XVII
+BO0624_83761,107938,6,6,Hooch. 1630-1681. La Jeune Mere.,90,68.2,False,positional,HEEM,,,,Sec. XVII
+BO0624_83761,107939,7,7,Janssens. XVII siecle. Interieur hollandais.,103,65.6,False,positional,JANSSENS,,ARREDAMENTI,,Sec. XVII
+BO0624_83761,107940,8,8,"LAGRENEE. 1740-1821. Jeunes Femmes representees a mi-corps. Cuivre.Haut.,20 cent.;larg,15 cent,",119,89.4,False,title_direct,LAGRENEE,,,,Sec. XVIII
+BO0624_83761,107941,9,9,METZU. 1630-1667. Jeune Femme tenant unepomme.,126,77.8,False,title_direct,METZU,,,,Sec. XVII
+BO0624_83761,107942,10,10,MIGNON. 1639-1679. Fleurs et Fruits. La Halte.,148,59.0,False,title_direct,MIGNON,,,,Sec. XVII
+BO0624_83761,107943,11,11,NEER. 1643-1703. Vue de Hollande;effet de clair de lune.,163,87.2,False,title_direct,NEER,,,,Sec. XVII
+BO0624_83761,107944,12,12,Ruys. 1664-1750. Fleurs et Fruits sur une table de marbre.,175,85.7,False,positional,NEER,,,,Sec. XVII
+BO0624_83761,107945,13,13,STOOP. 1610-1686. La Halte.,185,51.2,False,positional,NEER,,,,Sec. XVII
+BO0624_83761,107946,14,14,Steen. 1626-1679. Reunion dans un Interieur.,196,75.8,False,positional,STEEN,,ARREDAMENTI,,Sec. XVII
+BO0624_83761,107947,15,15,Tournieres. 1668-1752. Portrait d'un Gentilhomme.,214,75.7,False,positional,TOURNIERES,,,,Sec. XVII
+BO0624_83761,107948,16,16,Velde. 1639-1672. Paturage hollandais.,227,77.2,False,positional,VELDE,,,,Sec. XVII
+BO0624_83761,107949,17,17,WOUWERMAN. 1619-1668. Le Retour du Marche.,241,68.9,False,title_direct,WOUWERMAN,,,,Sec. XVII
 BO0624_83761,107950,18,18,## 18—Le Debarquement.,254,100.0,False,positional,WOUWERMAN,,,,
 BO0624_83761,107951,19,19,Brascassat. Gibier et Carnassiere.,271,78.6,False,positional,BRASCASSAT,,,,
 BO0624_83761,107952,20,20,DESGOFFE. Fruits et verre de vin sur une table.,281,88.1,False,title_direct,DESGOFFE,,,,
@@ -24,7 +24,7 @@ BO0624_83761,107954,22,22,Bol en ancienne porcelaine de Chine emaillee bleu.,300
 BO0624_83761,107955,23,23,"Cafetiere en ancienne porcelaine de la Compagnie des Indes,a decor de feurs.",301,98.0,False,positional,,,PORCELAINES; FAIENCES,,
 BO0624_83761,107956,24,24,"Ecuelle, avec couvercleet plateau,en ancienne porcelaine de Bordeaux, a decor de guirlandes.",302,98.3,False,positional,,,PORCELAINES; FAIENCES,,
 BO0624_83761,107957,25,25,"Ecuelle, avec couvercle, decor de feurs. Ancienne porcelaine de Paris.",303,97.8,False,positional,,,PORCELAINES; FAIENCES,,
-BO0624_83761,107958,26,26,"Tasse droite et sa soucoupe, en ancienne porcelaine tendre de Sevres,a decor de medaillons, contenant des pensees, se detachant surun fond violet. Decor par Noel.Annee 1783.",304,99.1,False,positional,,,PORCELAINES; FAIENCES,,
+BO0624_83761,107958,26,26,"Tasse droite et sa soucoupe, en ancienne porcelaine tendre de Sevres,a decor de medaillons, contenant des pensees, se detachant surun fond violet. Decor par Noel.Annee 1783.",304,99.1,False,positional,,,PORCELAINES; FAIENCES,,Sec. XVIII
 BO0624_83761,107959,27,27,Statuette en ancien biscuit de Sevres:Jeune Femme tenant des fleurs dans son tablier.,305,66.2,False,positional,,,BISCOTTI,,
 BO0624_83761,107960,28,28,Petit groupe en ancienne porcelaine de Saxe: Jeune Femme allaitant son enfant et assiseaupres d'un joueur de flute.,307,98.7,False,positional,,,PORCELAINES; FAIENCES,,
 BO0624_83761,107961,29,29,"Deux jardinieres carrees,decorees d'oiseaux sur des branches,en ancienne faience de Lorraine.",308,95.6,False,positional,,,PORCELAINES; FAIENCES,,

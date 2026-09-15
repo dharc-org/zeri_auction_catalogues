@@ -8,22 +8,22 @@ BO0624_84315,209289,6,11,"-Tete de Femme, d’apres J. B. HuET, No 374.",98,96.1
 BO0624_84315,209290,7,12,"-L'Eventail casse, d’apres F. ScHALL, No 835.",110,96.4,False,positional,BONNET (L. M.),,,,
 BO0624_84315,209291,8,13,"-L'Amant ecoute, d’apres ScHALL, No 836.",118,96.0,False,positional,BONNET (L. M.),,,,
 BO0624_84315,209292,9,14,"-Le Dejeuner, d’apres J. B. HuET, No 1o25.",129,96.0,False,title_direct,J.-B. HuET,,,,
-BO0624_84315,209293,10,15,"—Le Gouter, d'apres P.A. BAUDoIN, No 1026.",137,96.1,False,positional,BONNET (L. M.),,,,
-BO0624_84315,209294,11,16,"—Le Souper, d’apres J. B. HuET, No 1036.",145,95.8,False,title_direct,J.-B. HuET,,,,
-BO0624_84315,209295,12,17,"Le Diner, d’apres J. B.HuET, No 1037.",153,95.7,False,title_direct,J.B.HuET,,,,
+BO0624_84315,209293,10,15,"—Le Gouter, d'apres P.A. BAUDoIN, No 1026.",137,96.1,False,positional,BONNET (L. M.),,,,Sec. XI
+BO0624_84315,209294,11,16,"—Le Souper, d’apres J. B. HuET, No 1036.",145,95.8,False,title_direct,J.-B. HuET,,,,Sec. XI
+BO0624_84315,209295,12,17,"Le Diner, d’apres J. B.HuET, No 1037.",153,95.7,False,title_direct,J.B.HuET,,,,Sec. XI
 BO0624_84315,209296,13,19,"## 19 —Tete de Flore, d'apres F. BoucHER.",168,100.0,False,title_direct,F. BoucHER,,,,
 BO0624_84315,209297,14,20,Love.,188,72.7,False,positional,CIPRIANI (G. B.),,,,
 BO0624_84315,209298,15,21,Harmony.,194,82.4,False,positional,CIPRIANI (G. B.),,,,
 BO0624_84315,209299,16,23,"——Les Prunes, grave par VIDAL.",213,94.5,False,positional,DAVESNE (d'apres),,,,
 BO0624_84315,209300,17,24,"—Les Cerises, grave par VIDAL.",221,94.7,False,positional,DAVESNE (d'apres),,,,
-BO0624_84315,209301,18,25,"—Les Deux Baisers, peint et grave par De BucouRT, peintre du Roi,1786.",230,97.8,False,positional,DEBUCOURT (P.L.),,,,
-BO0624_84315,209302,19,26,"--Le Menuet de la Mariee, peint et grave par De BucouRT, peintre du Roi, 1786.",244,98.0,False,positional,DEBUCOURT(P.L.),,,,
-BO0624_84315,209303,20,27,"-La Noce au Chateau, peint et grave par De BucouRT, peintre du Roi, 1789.",254,97.8,False,positional,DEBUCOURT(P.L.),,,,
+BO0624_84315,209301,18,25,"—Les Deux Baisers, peint et grave par De BucouRT, peintre du Roi,1786.",230,97.8,False,positional,DEBUCOURT (P.L.),,,,Sec. XVIII
+BO0624_84315,209302,19,26,"--Le Menuet de la Mariee, peint et grave par De BucouRT, peintre du Roi, 1786.",244,98.0,False,positional,DEBUCOURT(P.L.),,,,Sec. XVIII
+BO0624_84315,209303,20,27,"-La Noce au Chateau, peint et grave par De BucouRT, peintre du Roi, 1789.",254,97.8,False,positional,DEBUCOURT(P.L.),,,,Sec. XVIII
 BO0624_84315,209304,21,29,## 29 -Promenade de la Gallerie du Palais Royal.,279,100.0,False,positional,DEBUCOURT (P.L.),,,,
-BO0624_84315,209305,22,30,"-Le Compliment ou la Matinee du Jour de l'An. Dedie aux peres de famille.I Peint et grave par De BucouRT, peintre du Roi, 1787.",296,98.8,False,positional,DEBUCOURT(P.L.),,,,
-BO0624_84315,209306,23,31,"Les Bouquets ou La Fete de la Grand'Maman. Dedie aux meres de famille. Peint et grave par De BucouRT, peintre du Roi, 1788.",304,98.7,False,positional,DEBUCOURT(P.L.),,,,
-BO0624_84315,209307,24,32,"La Rose, P.L. De BucouRT, peintre du Roi, pinx.et sculp.,1788.",315,97.4,False,positional,DEBUCOURT (P.L.),,,,
-BO0624_84315,209308,25,33,"—La Main,P.L.DE BucouRT, peintre du Roi, pinx.et sculp., 1788.",325,97.4,False,positional,DEBUCOURT (P.L.),,,,
+BO0624_84315,209305,22,30,"-Le Compliment ou la Matinee du Jour de l'An. Dedie aux peres de famille.I Peint et grave par De BucouRT, peintre du Roi, 1787.",296,98.8,False,positional,DEBUCOURT(P.L.),,,,Sec. XVIII
+BO0624_84315,209306,23,31,"Les Bouquets ou La Fete de la Grand'Maman. Dedie aux meres de famille. Peint et grave par De BucouRT, peintre du Roi, 1788.",304,98.7,False,positional,DEBUCOURT(P.L.),,,,Sec. XVIII
+BO0624_84315,209307,24,32,"La Rose, P.L. De BucouRT, peintre du Roi, pinx.et sculp.,1788.",315,97.4,False,positional,DEBUCOURT (P.L.),,,,Sec. XVIII
+BO0624_84315,209308,25,33,"—La Main,P.L.DE BucouRT, peintre du Roi, pinx.et sculp., 1788.",325,97.4,False,positional,DEBUCOURT (P.L.),,,,Sec. XVIII
 BO0624_84315,209309,26,34,"—Le Prelude de Nina, d'apres L. BoILLY.",337,95.9,False,positional,DE GOUY,,,,
 BO0624_84315,209310,27,35,"Le Modele dispose, d’apres F. ScHALL.",346,95.8,False,positional,DE GOUY,,,,
 BO0624_84315,209311,28,36,"L'Amant favorise, d’apres L. BoILLY.",356,95.7,False,positional,DE GOUY,,,,
@@ -90,7 +90,7 @@ BO0624_84315,209371,88,102,"—L'Aimable Paysanne, d'apres ST. QuENTIN.",940,94.
 BO0624_84315,209372,89,103,"—La Compagne de Pomone, d’apres LE CLERc.",947,95.0,False,positional,JANINET (F.),,,,
 BO0624_84315,209373,90,104,"—La Reunion des Plaisirs, d'apres LE CLERc.",957,95.2,False,positional,JANINET (F.),,,,
 BO0624_84315,209374,91,105,"--Le Rende-vous, d’apres BENAzECH.",967,93.8,False,positional,JANINET (F.),,,,
-BO0624_84315,209375,92,106,"—L'Amour,d'apres H.FRAGONARD. Grave en 1777.",978,95.3,False,positional,JANINET (F.),,,,
+BO0624_84315,209375,92,106,"—L'Amour,d'apres H.FRAGONARD. Grave en 1777.",978,95.3,False,positional,JANINET (F.),,,,Sec. XVIII
 BO0624_84315,209376,93,107,"-La Folie,d'apres H. FRAGONARD.",988,93.3,False,positional,JANINET (F.),,,,
 BO0624_84315,209377,94,108,"L'Amour rendant hommage a sa mere,d'apres F. BOUCHER.",1001,96.2,False,positional,JANINET (F),,,,
 BO0624_84315,209378,95,109,"—Venus desarmant l'Amour,d'apres J. CHARLIER.",1011,95.5,False,positional,JANINET (F),,,,
@@ -102,13 +102,13 @@ BO0624_84315,209383,100,114,"—Le Reueil de Venus, d'apres J. CHARLIER.",1067,9
 BO0624_84315,209384,101,115,"Venus sur les Eaux, d’apres J. CHARLIER.",1077,94.9,False,positional,JANINET (F.),,,,
 BO0624_84315,209385,102,116,—Lady Rushout and Daughter.Grave par I. BuRKE.,1084,95.6,False,positional,KAUFFMAN (d'apres Angelica),,,,
 BO0624_84315,209386,103,117,-Ah! laisse moi donc voir. Grave par F. JANINET.,1096,95.6,False,positional,LAVREINCE (d'apres Nicolas),,,,
-BO0624_84315,209387,104,118,"L'Aveu difficile.Grave par F. JANINET, en 1787.",1108,95.7,False,positional,LAVREINCE (d'apres Nicolas),,,,
-BO0624_84315,209388,105,119,"—L'Indiscretion. Grave par F. JANINET, en 1788.",1119,95.5,False,positional,LAVREINCE (d'apres Nicolas),,,,
+BO0624_84315,209387,104,118,"L'Aveu difficile.Grave par F. JANINET, en 1787.",1108,95.7,False,positional,LAVREINCE (d'apres Nicolas),,,,Sec. XVIII
+BO0624_84315,209388,105,119,"—L'Indiscretion. Grave par F. JANINET, en 1788.",1119,95.5,False,positional,LAVREINCE (d'apres Nicolas),,,,Sec. XVIII
 BO0624_84315,209389,106,120,Ah! le joli petit chien. Grave par F. JANINET.,1135,100.0,False,positional,LAVREINCE (d'apres Nicolas),,,,
 BO0624_84315,209390,107,121,Le Petit Conseil.,1147,91.4,False,positional,LAVREINCE (d'apres Nicolas),,,,
 BO0624_84315,209391,108,122,—Les Sabots. Grave par J. CoucHE.,1160,93.5,False,positional,LAVREINCE (d'apres Nicolas),,,,
 BO0624_84315,209392,109,123,Children playing at Soldiers. Grave par J. KEATING.,1168,97.0,False,positional,MORLAND (G.),,,,
-BO0624_84315,209393,110,124,"La Visite a la Nourrice. Grave par G. BELJAMBE, 1788.",1180,96.1,False,positional,MORLAND (d'apres G.),,,,
+BO0624_84315,209393,110,124,"La Visite a la Nourrice. Grave par G. BELJAMBE, 1788.",1180,96.1,False,positional,MORLAND (d'apres G.),,,,Sec. XVIII
 BO0624_84315,209394,111,125,"—La Petite Fruitiere anglaise. Grave par T. GAUGAIN,",1189,96.0,False,positional,NORTHCOTE (d'apres J.),,,,
 BO0624_84315,209395,112,126,Country Girl of Tuscany. Grave par T.GAuGAIN.,1199,95.6,False,positional,NORTHCOTE (d'apres J.),,,,
 BO0624_84315,209396,113,127,Blind Girl of the Enuirons of Rome. Grave par T. GAUGAIN.,1209,96.4,False,positional,NORTHCOTE (d'apres J.),,,,
@@ -125,10 +125,10 @@ BO0624_84315,209406,123,137,Noce de Village. Grave par DescouRTIs.,1319,94.7,Fal
 BO0624_84315,209407,124,138,8—Foire de Village. Grave par DEscouRTIs.,1327,95.1,False,title_direct,DEscouRTIs,,,,
 BO0624_84315,209408,125,139,139 —La Rixe. Grave par DescouRTIs.,1333,100.0,False,title_direct,DEscouRTIs,,,,
 BO0624_84315,209409,126,140,## 140 -Le Tambourin. Grave par DEscouRTIs.,1339,100.0,False,title_direct,DEscouRTIs,,,,
-BO0624_84315,209410,127,141,"—Morning of Life, d'apres S.MEDLEy. aCoURBoIN : L'Estampe Francaise. Paris, Van Oest, 1914: in-8 broche.",1356,78.5,False,positional,,,STAMPE E INCISIONI,,
+BO0624_84315,209410,127,141,"—Morning of Life, d'apres S.MEDLEy. aCoURBoIN : L'Estampe Francaise. Paris, Van Oest, 1914: in-8 broche.",1356,78.5,False,positional,,,STAMPE E INCISIONI,,Sec. XX
 BO0624_84315,209411,128,142,"b—DELTEIL (Loys):Manuel de lAmateur dEstampes du XVIlle Siecle. Paris, Dorbon laine: in-8o cartonne.",1357,97.9,False,positional,,,ESTAMPES DU XVIII SIECLE,,
-BO0624_84315,209412,129,I42,"c—DE LEYMARIE:Gilles Demarteau lAine :Catalogue descriptif de son ceuvre. Paris,Rapilly,1896: in8o broche.",1358,98.1,False,positional,,,ESTAMPES DU XVIII SIECLE,,
-BO0624_84315,209413,130,142,"d —FENAILLE (MAURICE): P. L. Debucourt : Son ceuvre grave. Paris, Morgan, 1899: in-4 broche. e—PoRTALIs （R.) et BERALDI (H.):Les Graveurs du dix-",1359,76.0,False,positional,DEBUCOURT P.L.,,ESTAMPES DU XVIII SIECLE,,
+BO0624_84315,209412,129,I42,"c—DE LEYMARIE:Gilles Demarteau lAine :Catalogue descriptif de son ceuvre. Paris,Rapilly,1896: in8o broche.",1358,98.1,False,positional,,,ESTAMPES DU XVIII SIECLE,,Sec. XIX
+BO0624_84315,209413,130,142,"d —FENAILLE (MAURICE): P. L. Debucourt : Son ceuvre grave. Paris, Morgan, 1899: in-4 broche. e—PoRTALIs （R.) et BERALDI (H.):Les Graveurs du dix-",1359,76.0,False,positional,DEBUCOURT P.L.,,ESTAMPES DU XVIII SIECLE,,Sec. XIX
 BO0624_84315,209414,131,143,"- PAIRE DE CADREs, baguette bois sculpte et dore a perles. Epoque Louis XVI. Ayant encadre les nos I et 2 du catalogue. 0,22X0,24.",1370,98.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_84315,209415,132,144,"ornements : perles et ruban. Epoque Louis XVI. Ayant encadre les nos 3 et 4 du catalogue. 0,375X0,295.",1372,98.0,False,positional,,,OGGETTI VARI,,
 BO0624_84315,209416,133,145,"—PAIRE DE CADREs, baguette bois sculpte et dore a deux ornements :raies de coeur et perles. Epoque Louis XVI. Ayant encadre les nos 5 et 6 du catalogue. 0,70X0,56.",1373,98.7,False,positional,,,OGGETTI IN LEGNO,,
@@ -226,9 +226,9 @@ BO0624_84315,209507,224,239,"- Deux cHENETs en bronze dore,modele a galerie surm
 BO0624_84315,209508,225,240,"Deux cHENETs en bronze dore, modele a vase enguirlande de",1852,96.6,False,positional,,,VASI,,
 BO0624_84315,209509,226,238,"- 241 —Deux cHENETs en bronze dore, ornes chacun d'un bruleparfums,auquel se chauffe un amour a corps termine par des feuillages et des rinceaux. Bases elevees et ajourees. Epoque Louis XVI.",1860,100.0,False,positional,,,PENDULES; BRONZES,,
 BO0624_84315,209510,227,242,"PENDuLE de voyage en bronze dore, a decor d'attributs. Sonnerie a repetition et reveil. Cadran signe :Robert. Fin du XVIle siecle.",1866,98.4,False,positional,,,PENDULES; BRONZES,,
-BO0624_84315,209511,228,243,"PINcETTes a branches mobiles, en fer et cuivre, de la fin du XVIIIe siecle.",1870,97.3,False,positional,,,PENDULES; BRONZES,,
-BO0624_84315,209512,229,244,"—FLAMBEAu de bouillotte a deux lumieres, en bronze, a decor de cannelures, rangs de perles et petites feuilles. Commencement du XIXe siecle.",1874,98.5,False,positional,,,PENDULES; BRONZES,,
-BO0624_84315,209513,230,246,"- FLaMBEAu bas en bronze dore et nacre gravee, a tige formee d'un faisceau de feches. Commencement du XIXe siecle.",1882,98.2,False,positional,,,PENDULES; BRONZES,,
+BO0624_84315,209511,228,243,"PINcETTes a branches mobiles, en fer et cuivre, de la fin du XVIIIe siecle.",1870,97.3,False,positional,,,PENDULES; BRONZES,,Sec. XVIII
+BO0624_84315,209512,229,244,"—FLAMBEAu de bouillotte a deux lumieres, en bronze, a decor de cannelures, rangs de perles et petites feuilles. Commencement du XIXe siecle.",1874,98.5,False,positional,,,PENDULES; BRONZES,,Sec. XIX
+BO0624_84315,209513,230,246,"- FLaMBEAu bas en bronze dore et nacre gravee, a tige formee d'un faisceau de feches. Commencement du XIXe siecle.",1882,98.2,False,positional,,,PENDULES; BRONZES,,Sec. XIX
 BO0624_84315,209514,231,8,PeTIr CANAPe en bois sculpte a decor de moulures. Epoque 248 Louis XVI. ll est couvert de tapisserie au point a panier feuri et bouquet de feurs.,1893,99.3,False,positional,,,SIEGES,,
 BO0624_84315,209515,232,249,- 250 recouverts de tapisserie au point a feurs.,1895,100.0,False,positional,,,SIEGES,,
 BO0624_84315,209516,233,251,"Larg.,I m.o5.",1898,100.0,False,positional,,,SIEGES,,

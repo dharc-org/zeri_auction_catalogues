@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88551,233290,1,I,"n den Marschen. Hohe Windmihle mit Haus am Ufer, das Wasser belebt von einem Segel=",6,99.4,False,positional,A.Achenbach,,,,
 BO0624_88551,233291,2,3,Verbellt. Ein stattlicher Zehnender Hirsch ist mit einem Blattschuf vor einer Felswand zu= sammengebrochen; ein Schweishund hat ihn gestelt und meldet seinen Fund dem zwischen,11,99.4,False,positional,Benno Adam,,,,
-BO0624_88551,233292,3,4,An der Fuhrt. Kosaken in voller Ausrustung durchqueren auf ihren Pferden einen Fluf. Oel auf L. 20X31 cm. Bez.:Eugen Adam 1878. G.R.,19,99.2,False,title_direct,Eugen Adam,,,,
+BO0624_88551,233292,3,4,An der Fuhrt. Kosaken in voller Ausrustung durchqueren auf ihren Pferden einen Fluf. Oel auf L. 20X31 cm. Bez.:Eugen Adam 1878. G.R.,19,99.2,False,title_direct,Eugen Adam,,,,Sec. XIX
 BO0624_88551,233293,4,5,"Schlachtenbild. Bei Sedan 187o. Links eine Pappelallee, Artillerie, Kavallerie und Infanterie,",23,98.9,False,positional,Eugen Adam,,,,
 BO0624_88551,233294,5,6,Morgensuppe. Ein gelbes Katchen sauft die Milch aus einer Schussel; im Hintergrund eine Ture und ein Tisch. Oel auf L.und P. aufgezogen. 14X26 cm. Faksimilestempel. G.R.,31,99.4,False,positional,Julius Adam,,SCATOLE,,
 BO0624_88551,233295,6,7,Landschaftsstudie. Wiese von Wald begrenzt unter schwerem Wolkenhimmel. Oel auf L. aufgez. 16X24 cm. Bez.: Nachlabstempel. D.R.,35,99.2,False,positional,Julius Adam,,,,
@@ -17,7 +17,7 @@ BO0624_88551,233304,15,15,Strabe von Marlotte im Winter. Hauptstrabe eines belgi
 BO0624_88551,233305,16,16,"Bootswerft mit aufgezogenem Boote. Blick auf ein See=Stadtchen. Oel auf L.und P. aufgezogen. 33X37 cm. Tragt ruckwarts eine Bestatigung von A. Alt, dab es sich wahrscheinlich um eine Arbeit von Baisch handelt. H.R.",90,99.3,False,positional,Hermann Baisch,,,,
 BO0624_88551,233306,17,17,Studienkopf eines jungen Mannes. Oel auf L.37X29 cm. Bez.:L. Bang. H.R. Max Barascudts,96,98.2,False,positional,Ludwig Bang,,,,
 BO0624_88551,233307,18,18,"Vor dem Stadtchen. Landhaus, von einer Mauer umgeben, auf einer Wiese zwei Magde, auf der Landstrabe ein Wanderer.Oel auf H. 23X31 cm. Bez.:M. Barascudts Munchen.G.R.",102,99.1,False,positional,Ludwig Bang,,,,
-BO0624_88551,233308,19,19,Kinder beim Holzsammeln. Oel auf P.46X37 cm. Bez.:J. Bauck 1880. G.R.,108,97.7,False,positional,Jeanna Bauck,,,,
+BO0624_88551,233308,19,19,Kinder beim Holzsammeln. Oel auf P.46X37 cm. Bez.:J. Bauck 1880. G.R.,108,97.7,False,positional,Jeanna Bauck,,,,Sec. XIX
 BO0624_88551,233309,20,I,talienisches Fischerboot die Segel aufziehend. Oel auf P.28X35 cm.Bez.:E.Bauer=Bredt.G.R.,112,99.4,False,title_direct,E.Bauer-Bredt,,,,
 BO0624_88551,233310,21,21,Ausfahrt der Fischerboote; eine kleine Fischerflotille ausfahrend. Oel auf P.28X35 cm.Bez.:E.Bauer=Bredt.G.R.,113,98.6,False,title_direct,E.Bauer-Bredt,,,,
 BO0624_88551,233311,22,22,Schafe mit Hirte auf der Weide. Naturstudie. Oel auf P. 22X33 cm. Bez.:Bechtolsheim. Geschnitter R.,119,98.4,False,positional,Gustav von Bechtolsheim,,,,
@@ -32,7 +32,7 @@ BO0624_88551,233319,30,30,"Der Grobbauer. Ein reicher niederbayerischer Bauer mi
 BO0624_88551,233320,31,31,Mutter und Kind. Junge stehende Frau ihr Kleines liebkosend.,167,97.5,False,positional,Jul.Rob.Beyschlag,,,,
 BO0624_88551,233321,32,33,Romerin. Stehendes Madchen in weibem Gewand. In der erhobenen Rechten ein Glocken#,180,98.1,False,positional,F.Boskowit,,,,
 BO0624_88551,233322,33,34,Kuhe auf der Weide. a Zwei Esel an der Krippe.,192,70.4,False,positional,A.Braith,,,,
-BO0624_88551,233323,34,35,"Auf Vorposten. In einer Sandgrube ein sitender und ein schlafender Insurgent, am Rande der Grube ein weiterer liegender Insurgent unter einer Kiefer mit dem Gewehr in Anschlag, dahinter ein Posten zu Pferd. Rechts drei gesattelte Pferde, ein Brauner, ein Schimmel und ein Rappe. Abbildung Tafel IV.Oel auf H. 5042cm. Jozef Brandt,Warzawy.Monachium 1882. G.R.",198,99.6,False,positional,Josef von Brandt,,,,
+BO0624_88551,233323,34,35,"Auf Vorposten. In einer Sandgrube ein sitender und ein schlafender Insurgent, am Rande der Grube ein weiterer liegender Insurgent unter einer Kiefer mit dem Gewehr in Anschlag, dahinter ein Posten zu Pferd. Rechts drei gesattelte Pferde, ein Brauner, ein Schimmel und ein Rappe. Abbildung Tafel IV.Oel auf H. 5042cm. Jozef Brandt,Warzawy.Monachium 1882. G.R.",198,99.6,False,positional,Josef von Brandt,,,,Sec. XIX
 BO0624_88551,233324,35,36,Zwei Pferdestudien:a) Gesattelter Schimmel. b) Brauner vor dem Stall.,202,97.7,False,positional,Josef von Brandt,,,,
 BO0624_88551,233325,36,37,## L. Burger,215,100.0,False,title_direct,L. Burger,,,,
 BO0624_88551,233326,37,38,Dorflandschaft im Winter bei Sonnenuntergang. Staffagefiguren. a Oberbayerisches Hochmoor. Im Vordergrund Tumpel und einige Dorfhuitten. Im Hintergrund,227,73.2,False,positional,Felix Burgers,,,,
@@ -63,7 +63,7 @@ BO0624_88551,233350,61,54,Herbstwald mit Bach; das Laubholz in den verschiedenst
 BO0624_88551,233351,62,55,"Bei Capri. Am Ufer Fischerhitte und netflickende Fischer, auf einem Felsvorsprung Ruine, das blaue Meer von Segelschiffen belebt. Oel auf L. 5oX90 cm. Bez.: G. Capone jun. G.R.",310,99.1,False,title_direct,G.Capone jun.,,,,
 BO0624_88551,233352,63,56,Dame in lila Bluse und blondem Haar. Brustbild im Profil. Oel auf L.51X35 cm.Bez.:G. Capone jun. G.R.,311,98.4,False,title_direct,G.Capone jun.,,,,
 BO0624_88551,233353,64,57,"- Herbstwald,im Vordergrunde kleiner Tumpel. Oel auf L. 64X76 cm. Bez.: G. Capone jun. Ohne R.",313,100.0,False,title_direct,G.Capone jun.,,,,
-BO0624_88551,233354,65,58,"Madchen mit entbloftem Oberkorper, ein Feldbouquett an die Brust druckend, Oel auf L. 76X62 cm. Bez.: G. Capone jun. 1911. Ohne R.",314,98.8,False,title_direct,G.Capone jun.,,,,
+BO0624_88551,233354,65,58,"Madchen mit entbloftem Oberkorper, ein Feldbouquett an die Brust druckend, Oel auf L. 76X62 cm. Bez.: G. Capone jun. 1911. Ohne R.",314,98.8,False,title_direct,G.Capone jun.,,,,Sec. XX
 BO0624_88551,233355,66,59,Italienische Kuste mit einigen Fischerbooten und am Felsrande eine Ruine. Oel auf L. 51X76 cm. Bez.: G. Capone jun.,316,98.6,False,title_direct,G.Capone jun.,,,,
 BO0624_88551,233356,67,60,"Sehnsucht. Hubsche junge Dame mit dunklem Haar, Perlenohrringe und ausgeschnittener gelber Bluse, aufwarts blicken. Profi.Oel auf L. 56X41 cm. Bez.: G. Capone jun. Ohne R.",317,99.1,False,title_direct,G.Capone jun.,,,,
 BO0624_88551,233357,68,61,"Dame mit rotem Ueberwurf, rotem Bande im schwarzen Haar, vor rotem Hintergrunde. Oel auf L. 61X40 cm. Bez.: G. Capone jun. Ohne R.",318,98.8,False,title_direct,G.Capone jun.,,,,
@@ -73,7 +73,7 @@ BO0624_88551,233360,71,64,"Alter Mann mit Vollbart, Brille und Hauskappchen auf 
 BO0624_88551,233361,72,65,Italiener mit dunklem Schnurrbart und Mute.,328,96.6,False,positional,G.Capone jun.,,,,
 BO0624_88551,233362,73,66,Der Geruch.Junge bruinette Dame in weiber Bluse an einer Blume riechend. Brustbild.,329,98.2,False,positional,G.Capone jun.,,,,
 BO0624_88551,233363,74,67,Kleines Madchen in bluhendem Blumengarten.Oel auf P. 38X5O cm. Bez.: Mini Cause. G. R. nnsbruck.,339,92.9,False,title_direct,Mini Cause,,,,
-BO0624_88551,233364,75,68,Am Dorfbach. Oel auf L.40X48 cm:Bez.: Chabert 1873.G.R. 68a Seefeld in Tirol im Winter. Aquarell.19X32 cm.Passepartout.,345,98.7,False,title_direct,Chabert,Scuola Tirolese,,,
+BO0624_88551,233364,75,68,Am Dorfbach. Oel auf L.40X48 cm:Bez.: Chabert 1873.G.R. 68a Seefeld in Tirol im Winter. Aquarell.19X32 cm.Passepartout.,345,98.7,False,title_direct,Chabert,Scuola Tirolese,,,Sec. XIX
 BO0624_88551,233365,76,70,Bauernhaus zwischen Baumen in Cromberg im Taunus.,355,97.0,False,positional,Chabert,,,,
 BO0624_88551,233366,77,72,Bauersleute auf dem Felde. Im Vordergrunde weidende Kuhe.,361,97.3,False,positional,Chabert,,,,
 BO0624_88551,233367,78,73,Dorflandschaft. Von einer Wiese Blick aufs Dorf unter Baumen. Staffagefiguren.,362,98.0,False,positional,Chabert,,,,
@@ -92,10 +92,10 @@ BO0624_88551,233379,90,86,Aite Eichen. Zeichnung. 21X29 cm. Bez.: Im Weitforst z
 BO0624_88551,233380,91,87,Wintervergnuigen.Links ein Bauernhaus; auf dem gefrornen See vergnugen sich Erwachsene und Kinder. Schneehimmel. Oel auf L.40X65 cm.Bez.:A.Doll Munchen.H.R.,436,99.0,False,positional,Anton Doll,,,,
 BO0624_88551,233381,92,88,Im Winter. Verschiedene Passanten auf dem verschneiten Weg zum Dorfe. Schneehimmel. Oel auf L.20X16 cm.G.R.,437,98.6,False,positional,Anton Doll,,,,
 BO0624_88551,233382,93,89,"Blick auf die Ueberfalle bei Munchen. Oel auf H.24X30,5 cm.G.R.",441,97.6,False,positional,Dorner,,,,
-BO0624_88551,233383,94,89,"a Egern am Tegernsee in Mondbeleuchtung. Oel auf L. 23X30,5 cm. Ruckwarts Inschrift: Tegernsee, den 7. Septbr.1835.—Zur freundlichen Erinnerung den 24.Dezbr.von F.Durck.G.R.",449,99.4,False,positional,Friedrich Durck,,,,
+BO0624_88551,233383,94,89,"a Egern am Tegernsee in Mondbeleuchtung. Oel auf L. 23X30,5 cm. Ruckwarts Inschrift: Tegernsee, den 7. Septbr.1835.—Zur freundlichen Erinnerung den 24.Dezbr.von F.Durck.G.R.",449,99.4,False,positional,Friedrich Durck,,,,Sec. XIX
 BO0624_88551,233384,95,91,"Am Strand. Fischer und Fischerinnen bemuihen sich, das Boot flott zu machen; auf der See Oelauf P.37,5X51cm.G.R.",457,98.6,False,positional,,Düsseldorfer Schule,,,
 BO0624_88551,233385,96,92,"Marine. Segelboote auf bewegter See, am felsigen Ufer Fischerhauser.",459,97.7,False,positional,,Düsseldorfer Schule,,,
-BO0624_88551,233386,97,93,"Blumenstuick. In einer Empirevase vollerblihte Rosen in wei,rosa,gelb und rot. Gestreifte Tischdecke. Oel auf L.81X100 cm. Bez.:Durand 1872.G.R.",465,98.9,False,positional,Gabriel Durand,,OGGETTI VARI,,
+BO0624_88551,233386,97,93,"Blumenstuick. In einer Empirevase vollerblihte Rosen in wei,rosa,gelb und rot. Gestreifte Tischdecke. Oel auf L.81X100 cm. Bez.:Durand 1872.G.R.",465,98.9,False,positional,Gabriel Durand,,OGGETTI VARI,,Sec. XIX
 BO0624_88551,233387,98,94,Der Alchimist in seinem mittelalterlichen Laboratorium.,471,97.3,False,positional,C.Duxa,,,,
 BO0624_88551,233388,99,95,"Wirtshausszene. In der Art des A.Brouwer. Oel auf H. 21,5X23cm. Bez.:C.Duxa. Schw.R. a Waldpartie mit einer Quelle und zwischen Felsen. Oel auf P. 48X40 cm. H.R.",475,67.2,False,title_direct,C.Duxa,,,,
 BO0624_88551,233389,100,96,Der einsame Ritt. Auf einer Bergstrabe ein Ritter. Im Hintergrund auf einer Anhohe eine,486,98.3,False,positional,Josef Eglseder,,,,
@@ -121,7 +121,7 @@ BO0624_88551,233408,119,118,Lagerleben aus dem Schwedenkrieg. Reiter und Fubvolk
 BO0624_88551,233409,120,119,"Lagerszene mit Zelten; aus Algerien. Oel auf H. 16,5X13 cm. Bez.:E.Fromentin G.R.",616,97.4,False,positional,Eugene Fromentin,,,,
 BO0624_88551,233410,121,120,"Stillvergnugt. Bauer mit Pfeife im Mund, den Mabkrug vor sich, lacht auf dem Beschauer. Oel auf P. 43X35 cm. Bez.:J.Futterer. G.R.",622,98.4,False,title_direct,J.Futterer,,,,
 BO0624_88551,233411,122,121,"Oberbayerische Landschaft. Kirche und verstreut liegende Bauernhauser, Gebirgskette. Oel auf L. 24X29 cm. G.R.",629,98.1,False,positional,J.Futterer,,,,
-BO0624_88551,233412,123,122,Schmiede in Poking bei Starnberg. a Partie bei Aubing. Oel auf L. 39X48 cm. Bez.:J.F. 1870. G.R.,635,75.3,False,positional,J.Futterer,,,,
+BO0624_88551,233412,123,122,Schmiede in Poking bei Starnberg. a Partie bei Aubing. Oel auf L. 39X48 cm. Bez.:J.F. 1870. G.R.,635,75.3,False,positional,J.Futterer,,,,Sec. XIX
 BO0624_88551,233413,124,123,"Hollandisches Stadtchen an einem Kanal gelegen, im Vordergrunde Bruicke.",643,97.2,False,positional,Max Gaiber,,,,
 BO0624_88551,233414,125,124,Nahende Frau in einem hollandischen Interieur. Im Kaminspiegel das Bild einer sich anklei=,645,97.8,False,positional,Max Gaiber,,ARREDAMENTI,,
 BO0624_88551,233415,126,125,Waldweg. Durch einen entlaubten Laubwald fuhrend. Vorfrihling.,651,96.7,False,positional,O.Gampert,,,,
@@ -140,11 +140,11 @@ BO0624_88551,233427,138,137,"Bildnis eines Mineralogen. Halbfigur en face. Blaue
 BO0624_88551,233428,139,138,a Verhoffender Sechserbock vor Gebusch. Oel auf P. 32X25 cm.Bez.: Otto Grashey. G.R,759,98.1,False,title_direct,Otto Grashey,,,,
 BO0624_88551,233429,140,139,Holzschuppen in Sommersonne. a) Gebirgstal mit Tannenwald. b) Sonniges Gebirgstal mit Kornfeld und Laubbaumen. c) Fruhlingslandschaft mit kleinem Dorfchen.,765,98.7,False,positional,F.Gruber,,,,
 BO0624_88551,233430,141,140,"Die Weinprobe. Um ein mit Schinken und Brot gedecktes Weinfab vier hohere Ordensmanner der Cysterienser sitend und stehend, einer derselben halt ein gefillfes Weinglas gegen ein Kerzenlicht. Reiches Kellerinterieur mit groBem geschnitten Fab. Das ganze von dem Kerzena licht beleuchtet. Oel auf L.41X51 cm.Bez.:Ed.Grutner.G.R.",773,99.4,False,positional,Eduard von Grützner,,,,
-BO0624_88551,233431,142,141,"Norwegische Ansiedlung, bestehend aus einigen Holzhausern und einer kleinen Kapelle, an einem zwischen Felsen liegenden Wildbach liegend, der teilweise bewolkte Himmel vom Sonnen= untergang beleuchtet. Oel auf L.68X61 cm.Bez.:H.F. Gude 1865.G.R.",781,99.2,False,positional,Hans Friedrich Gude,,,,
+BO0624_88551,233431,142,141,"Norwegische Ansiedlung, bestehend aus einigen Holzhausern und einer kleinen Kapelle, an einem zwischen Felsen liegenden Wildbach liegend, der teilweise bewolkte Himmel vom Sonnen= untergang beleuchtet. Oel auf L.68X61 cm.Bez.:H.F. Gude 1865.G.R.",781,99.2,False,positional,Hans Friedrich Gude,,,,Sec. XIX
 BO0624_88551,233432,143,142,Madchenkopfchen mit bruinettem Haar und blauem Kleid.,788,96.3,False,positional,G.von Hackl,,,,
 BO0624_88551,233433,144,144,"Der Ciro Cotochachi von Ematad gesehen.ImVordergrund Dorfhuitte, im Hintergrunde schnees Oel auf P.31X53 cm. G.R.",796,98.2,False,positional,L.v.Hagn,,,,
 BO0624_88551,233434,145,145,"Atelierszene. Eine junge weibgekleidete Dame als Modell sitend, der Maler ergreift ihre Hand. Oel auf H.24X18,5 cm.G.R.",800,98.3,False,positional,L.v.Hagn,,,,
-BO0624_88551,233435,146,146,"Bruiderchen und Schwesterchen begegnen einem unheimlichen Waldmenschen. Oel auf H. 25X12,5 cm. Bez.:Hahn, Hellquist, Munchen 1881. G.R.",808,98.4,False,positional,C.G.Hellquist,,,,
+BO0624_88551,233435,146,146,"Bruiderchen und Schwesterchen begegnen einem unheimlichen Waldmenschen. Oel auf H. 25X12,5 cm. Bez.:Hahn, Hellquist, Munchen 1881. G.R.",808,98.4,False,positional,C.G.Hellquist,,,,Sec. XIX
 BO0624_88551,233436,147,147,"Waldpartie mit See, am Ufer des Sees Laubwald; aus einer Bucht steigt eine Wildente auf, im Hintergrunde Blick auf ein Dorf.Oel auf L 7oX100 cm.Bez.:F.Halberg=Kraus Muinchen.",814,98.8,False,positional,Fritz Halberg-Krauss,,,,
 BO0624_88551,233437,148,148,Getreidegarben auf dem Felde vor einem Dorfe. Oel auf P. 29X40 cm. Bez.:F.Halberg=Kraus. G.R.,815,97.8,False,positional,Fritz Halberg-Krauss,,,,
 BO0624_88551,233438,149,149,"Weiher im Herbst. Machtige Eichen, darunter zwei Kuhe. Links Blick in die Ebene. G.R. Oel auf P.7oX100 cm.Bez.:F.Halberg=Kraus Muinchen.",816,98.5,False,positional,Fritz Halberg-Krauss,,,,
@@ -168,7 +168,7 @@ BO0624_88551,233455,166,163,"Auslug. Ein Paar auf einer Anhohe sitend, neben sic
 BO0624_88551,233456,167,164,"Starker Tabak. Der Herr des Hauses liest seiner Frau eine Neuigkeit aus der Zeitung vor, dabei starke Rauchwolken ausstofend, die Frau hat sich abseits gewandt.",933,98.7,False,positional,Adolf Hengeler,,,,
 BO0624_88551,233457,168,165,Herbstlicher Park. Wiesen und grobe Baumgruppen.,939,95.8,False,positional,Joh.Friedr.Hennings,,,,
 BO0624_88551,233458,169,166,"Alter Fischer neben seinem Kahn sitend mit dem Ausbessern seiner Fischreuse beschaftigt. Oel auf L.39X49 cm.Bez.:C.Herrmann,Muinchen.G.R.",949,98.5,False,title_direct,C.Herrmann,,,,
-BO0624_88551,233459,170,167,"Fischerkahn am schilfigem Seeufer. Abendstimmung. OelaufL.33X45,5cm. Bez.:C.Herrmann,Muinchen 1889.H.R.",951,98.0,False,title_direct,C.Herrmann,,,,
+BO0624_88551,233459,170,167,"Fischerkahn am schilfigem Seeufer. Abendstimmung. OelaufL.33X45,5cm. Bez.:C.Herrmann,Muinchen 1889.H.R.",951,98.0,False,title_direct,C.Herrmann,,,,Sec. XIX
 BO0624_88551,233460,171,168,Fischer im Kahn. Am Ufer der Fischer in seinem Boot. Blick auf den See.,953,97.1,False,positional,C.Herrmann,,,,
 BO0624_88551,233461,172,169,Der Lichthof des Muinchener Justizpalastes.,961,95.5,False,positional,Paul Hey,,,,
 BO0624_88551,233462,173,171,Strabenpartie aus AitMailand mit Figurenstaffage. Aquarell. 28X19 cm.Bez.:P.H. Ger.,967,97.5,False,positional,Paul Hey,,,,
@@ -185,7 +185,7 @@ BO0624_88551,233472,183,183,"Kirchlein zwischen Feldern und Wiesen,im Hintergrun
 BO0624_88551,233473,184,183,"a Einquartierung. Franzosische Kurassiere in einem Cafe. b Partie vom Chiemsee. Am Ufer zwei Kahne, einer davon mit Fischer. Abendstimmung.",1068,72.9,False,positional,Ernst Kaiser,,,,
 BO0624_88551,233474,185,184,"Parklandschaft. Auf blumiger Wiese Baumgruppen,im Hintergrunde Laubwald; teilweise bewolkter Himmel. Oel auf L.74X99 cm.Bez.:Richard Kaiser,Munchen.H.R.",1074,98.7,False,title_direct,Richard Kaiser,,,,
 BO0624_88551,233475,186,185,Stehende Dame in rotem tiefausgeschnittenem Gewand mit weibem abstehendem Kragen.Lands schaftlicher Hintergrund. Oel auf H.40X19 cm.G.R.,1081,98.5,False,positional,M.v.Kalkreuth,,,,
-BO0624_88551,233476,187,186,"Blumenbukett aus Heckenrosen und Nachtschatten. Oel auf H. 5OX30 cm. Bez.:M.Kallmorgen. H. R. a Antikes Paar unter Baumen in romantischer Landschaft. Oel auf L.74X18,5 cm. Bez.:E.K.Roma IV.1887. G.R.",1091,69.0,False,title_direct,M.Kallmorgen,,,,
+BO0624_88551,233476,187,186,"Blumenbukett aus Heckenrosen und Nachtschatten. Oel auf H. 5OX30 cm. Bez.:M.Kallmorgen. H. R. a Antikes Paar unter Baumen in romantischer Landschaft. Oel auf L.74X18,5 cm. Bez.:E.K.Roma IV.1887. G.R.",1091,69.0,False,title_direct,M.Kallmorgen,,,,Sec. XIX
 BO0624_88551,233477,188,187,"Madchenkopfchen mit bruinettem Haar, in demselben ein gelbes Band. Profil. Oel auf L. 21X18 cm. Bez.: Fr.Aug. Kaulbach. G.R.",1097,98.3,False,positional,F.A.v.Kaulbach,,,,
 BO0624_88551,233478,189,187,"a Brustbild eines Mannes, offenbar Konig Ludwig I. von Bayern in der Tracht der Georgiritter. Oel auf L. auf P. aufgezogen. 35X26 cm. Bez. 29. 1.63. H.R.",1103,99.0,False,positional,Wm. von Kaulbach,,,,
 BO0624_88551,233479,190,189,"Baumgruppe am Flubufer. Wasserspiegelung. Oel auf P.39X26,5 cm. D.R.",1115,97.0,False,positional,P.W.Keller,,,,
@@ -245,7 +245,7 @@ BO0624_88551,233532,243,245,Am Kaffeetisch.Parchen in Biedermeiertracht beim Fru
 BO0624_88551,233533,244,246,Liebesszene. Amore streuen Rosen auf ein sich umarmendes Liebespaar. Aquarell auf P. 34X24 cm. Bez.:Heinr.Lossow 27.Okt. 91.G.R.,1453,98.4,False,positional,Heinrich Lossow,,,,
 BO0624_88551,233534,245,247,"Fijord. Steil abfallende Felsen, auf dem schmalen Uferrand zwei kleine Fischerhauser. Oel auf L.69X106 cm.Bez.:W.Lundsten. G.R.",1457,98.4,False,title_direct,W.Lundsten,,,,
 BO0624_88551,233535,246,248,Alte Eiche. Unter einem machtigen Baum ruhender Hirte mit seiner Herde. Oel auf L. aufgez. 55X42 cm. G.R.,1463,98.0,False,positional,Christian Mali,,,,
-BO0624_88551,233536,247,249,"Kinderbildnis. Kleines Madchen mit blondem Pagenkopf in weibem Kleid und rosa Tuch,mit Glasketten spielend. Huftbild. Oel auf H.55X45 cm.Bez.:C. Max 1923.G.R.",1469,98.7,False,positional,Corneille Max,,,,
+BO0624_88551,233536,247,249,"Kinderbildnis. Kleines Madchen mit blondem Pagenkopf in weibem Kleid und rosa Tuch,mit Glasketten spielend. Huftbild. Oel auf H.55X45 cm.Bez.:C. Max 1923.G.R.",1469,98.7,False,positional,Corneille Max,,,,Sec. XX
 BO0624_88551,233537,248,250,"Funf Zeichnungen. Bilder vom Rennen: a) Jokeyrennen, b) Zuschauer, c) Jokey bei der Arbeit, d)Jokeirennen,e) Zuschauer. Bleistift. Je 14X24 cm.Bez. Mayershofer.Schw.L.",1475,98.7,False,positional,A.Mayershöfer,,FOTOGRAFIE,,
 BO0624_88551,233538,249,251,Weiblicher Halbakt mit rotlichem Haar. Aquarell in Passepartout. 40X29 cm. Bez.: Mayershofer. W.R.,1477,97.8,False,positional,A.Mayershöfer,,,,
 BO0624_88551,233539,250,252,Liegender weiblicher Akt mit blauen Struimpfen. Aquarell in Passepartout. 37X27 cm. Bez.:Mayershofer. W.R.,1479,98.0,False,positional,A.Mayershöfer,,,,
@@ -254,20 +254,20 @@ BO0624_88551,233541,252,254,Beethoven im Brustbild. Oel auf H. 25X21 cm. Bez.:K.
 BO0624_88551,233542,253,255,"Bauernmusikant, den Bombardon blasend. Oel auf H.26X20 cm. Bez.:K.V.Mayr. H.R.",1489,97.3,False,title_direct,K.V.Mayr,,,,
 BO0624_88551,233543,254,256,"Interieur. Rotgedeckter Tisch mit Uhr, Glaser und Tassen. Oel auf L.41X34 cm.Bez.:K.V. Mayr.Schw.R.",1491,97.9,False,title_direct,K.V.Mayr,,ARREDAMENTI,,
 BO0624_88551,233544,255,257,"Gemusehandlerin bei ihren ausgelegten Waren, ihr Kind kniet auf einer Bank und int einen Apfel. Naturstudie. Oel auf H. 63X50 cm. Bez.: C. Mayr-Graz. G.R.",1497,98.6,False,title_direct,C.Mayr-Graz,,,,
-BO0624_88551,233545,256,258,"Halbfigur eines Monches. Zeichnung. 33X21 cm. Bez:C. Mayr, Graz 1875.",1499,96.9,False,positional,C.Mayr-Graz,,,,
-BO0624_88551,233546,257,258,"a Weibliche Figurenstudie und Handstudie. Zeichnung.36X26 cm.Bez.: C.Mayr,Graz 1879. b Dacherstudie,ruckseitig Figurenstudie.",1501,78.8,False,title_direct,C.Mayr-Graz,,,,
-BO0624_88551,233547,258,259,"Vier Zeichnungen: a) Gelehrter. Bez.: C. Mayr. 29X20 cm.Zwei lesende Monche. Bez.: Mayr,Graz1885.22,5X26 cm.——c)Madchen am Waschtrog.Bez.:Mayr,Graz,1882.25X18 cm.",1507,98.7,False,positional,C.Mayr-Graz,,,,
+BO0624_88551,233545,256,258,"Halbfigur eines Monches. Zeichnung. 33X21 cm. Bez:C. Mayr, Graz 1875.",1499,96.9,False,positional,C.Mayr-Graz,,,,Sec. XIX
+BO0624_88551,233546,257,258,"a Weibliche Figurenstudie und Handstudie. Zeichnung.36X26 cm.Bez.: C.Mayr,Graz 1879. b Dacherstudie,ruckseitig Figurenstudie.",1501,78.8,False,title_direct,C.Mayr-Graz,,,,Sec. XIX
+BO0624_88551,233547,258,259,"Vier Zeichnungen: a) Gelehrter. Bez.: C. Mayr. 29X20 cm.Zwei lesende Monche. Bez.: Mayr,Graz1885.22,5X26 cm.——c)Madchen am Waschtrog.Bez.:Mayr,Graz,1882.25X18 cm.",1507,98.7,False,positional,C.Mayr-Graz,,,,Sec. XIX
 BO0624_88551,233548,259,260,Fischer des Bahira. Sechs stammige Araber ziehen die vollen Nete ans Ufer. Oel auf L.130X200 cm. Bez.:A. Meckel. G.R.,1514,98.2,False,positional,A.v.Meckel,,,,
 BO0624_88551,233549,260,261,"Bethlehemitin in ihrer Landestracht,mit mtinzenverziertem,von einem Schleier bedeckten Kopf put,reiches Silbergehange mit Munzen, gestickter Jacke, tragt einen kleinen Korb mit Flasche in der Hand. Oel auf L.69X52 cm.Bez.:A.Meckel.H.R.",1515,99.1,False,positional,A.v.Meckel,,,,
 BO0624_88551,233550,261,262,Die Graber der Richter.Vor dem Mauerwerk auf einer Anhohe ein arabisches Paar.,1519,97.5,False,positional,A.v.Meckel,,,,
-BO0624_88551,233551,262,263,Ein Held seines Stammes. Junger Sinaibeduine mit grauem Turban auf den Beschauer trotig blickend.Brustbild. Oel auf P.36X27 cm.Bez.:A.Meckel 1891.G.R.,1520,98.6,False,positional,A.v.Meckel,,,,
+BO0624_88551,233551,262,263,Ein Held seines Stammes. Junger Sinaibeduine mit grauem Turban auf den Beschauer trotig blickend.Brustbild. Oel auf P.36X27 cm.Bez.:A.Meckel 1891.G.R.,1520,98.6,False,positional,A.v.Meckel,,,,Sec. XIX
 BO0624_88551,233552,263,264,Die Barenhohle in Oberammergau mit dem auferstehenden Christus.,1524,96.9,False,positional,E.Mehrle,,,,
-BO0624_88551,233553,264,265,"Walfahrt am Kochelsee. Im Vordergrund die Prozession zum See hinuntergehend, rechts Bauernhauser.Bewolkter Himmel.Oel auf L.48x70 cm. Bez.:E. Meibner 1858. G.R. Ermahnt Muiller-Singer,ehemals im Besite S. M. des Konigs pon Sachsen.",1534,99.1,False,positional,Ernst Meißner,,,,
+BO0624_88551,233553,264,265,"Walfahrt am Kochelsee. Im Vordergrund die Prozession zum See hinuntergehend, rechts Bauernhauser.Bewolkter Himmel.Oel auf L.48x70 cm. Bez.:E. Meibner 1858. G.R. Ermahnt Muiller-Singer,ehemals im Besite S. M. des Konigs pon Sachsen.",1534,99.1,False,positional,Ernst Meißner,,,,Sec. XIX
 BO0624_88551,233554,265,266,Schafherde auf sommerlicher Weide. Oel auf L.24X38 cm. Bez.:E.M.G.R.,1538,97.0,False,positional,Ernst Meißner,,,,
 BO0624_88551,233555,266,268,Stieglitpaar im Nest. Oel auf H.20X16 cm.Bez.:M. Mencci.G.R.,1548,96.6,False,positional,Joh.Melter-Karlsfeld,,,,
 BO0624_88551,233556,267,269,Im Glonntal. Bach zwischen Wiesen. Baumgruppen.,1556,95.7,False,positional,C.Th.Meyer-Basel,,,,
 BO0624_88551,233557,268,270,Aite Buche.Verzweigter knorriger Stamm.Herbststimmung.,1562,96.4,False,positional,Casar Met,,,,
-BO0624_88551,233558,269,271,"Rehe im Walde an der Tranke. Oel auf H.17,5X22 cm.Ruckwarts Inschrift Car1 Millner 1856. G.R. a Pferdestudie.Brauner auf der Weide. Oel auf L.38X47 cm.Schw.R.",1568,72.9,False,title_direct,Carl Millner,,,,
+BO0624_88551,233558,269,271,"Rehe im Walde an der Tranke. Oel auf H.17,5X22 cm.Ruckwarts Inschrift Car1 Millner 1856. G.R. a Pferdestudie.Brauner auf der Weide. Oel auf L.38X47 cm.Schw.R.",1568,72.9,False,title_direct,Carl Millner,,,,Sec. XIX
 BO0624_88551,233559,270,272,Landschaft. Zwischen mit Weiden bestandenem Wiesengelande ein Bach mit Enten. Im Hinter= grund ein Krautacker mit Staffagefiguren und ein Gehoft.,1580,98.6,False,positional,Willy Moralt,,,,
 BO0624_88551,233560,271,273,"Bergsee. An drei Seiten von Bergen eingeschlossen. Dustere Stimmung bei bewolktem Himmel. Oel auf H.15X25cm.G.R. a Bergsee. Gruine Matten mit einigen Felsb1ocken, am jenseitigen Ufer schlieben Berge den Blick ab. Heraufziehende Wolken. Abendstimmung. Oel auf L.33X43 cm.G.R.",1591,73.9,False,positional,Christ.Morgenstern,,,,
 BO0624_88551,233561,272,274,"Stilleben. Flasche, Salatstauden und Spargel. Oel auf P. 44X61 cm. Bez.: Muhlbeck. G. R.",1597,97.5,False,positional,Joseph Mühlbeck,,,,
@@ -317,13 +317,13 @@ BO0624_88551,233604,315,321,Ruhender Dammhirsch auf einer Wiese. Oel auf P.18X23
 BO0624_88551,233605,316,322,"Der alte Uhrmacher. Italienischer Uhrmacher mit rotem Kappchen,brauner Bluse und blauer Hose angetan, sitt auf seiner Werkbank und repariert eine Uhr, an der Wand ein roter Schirm und einige Taschenuhren. Oel auf L.45X34 cm. Bez.:F. Olivo.G.R.",1866,99.2,False,title_direct,F. Oliva,,,,
 BO0624_88551,233606,317,323,Bittere Arznei. Ein Bauer mit dem Arzneiflaschchen in der Hand verzieht das Gesicht zu furchtbarer Grimmasse. Naturwahre Copie nach A. Brouwer.,1872,98.6,False,positional,Salome Panthel,,,,
 BO0624_88551,233607,318,324,Kunstkennerin. Dame in gelbem Kimono betrachtet prufend ein chinesisches Figurchen. Oel auf H.24X15 cm.Bez.:G. P.H.R.,1880,98.2,False,positional,Gg.Papperit,,,,
-BO0624_88551,233608,319,325,"The Kite. Rothaariger Knabe labt auf einer Wiese seinen Drachen steigen; im Hintergrunde ein Dorf. Oel auf L. 52X66 cm.Bez.:James Paterson, Moniaive 1895. G.R.",1886,98.7,False,title_direct,James Paterson,,,,
+BO0624_88551,233608,319,325,"The Kite. Rothaariger Knabe labt auf einer Wiese seinen Drachen steigen; im Hintergrunde ein Dorf. Oel auf L. 52X66 cm.Bez.:James Paterson, Moniaive 1895. G.R.",1886,98.7,False,title_direct,James Paterson,,,,Sec. XIX
 BO0624_88551,233609,320,326,"Gemalter Wandschirm. Zweiteilig. Blumenstuick bezw. Blumen und Laubwerk.Oel auf L. 129X75 cm. Bez.:Fanny von Pausinger. Weiches Bambusgestell. H.195 cm,B.188 cm,",1892,98.7,False,title_direct,Fanny von Pausinger,,OGGETTI VARI,,
 BO0624_88551,233610,321,327,Italienische Landschaft.Wild zerkluftetes Flubtal im Gebirge mit Bruicke.Am Ufer sitt eine Hirtin mit ihren Ziegen. Oval. 100X82 cm. Bez.:A.Pelegcy. G. R.,1896,98.7,False,title_direct,A.Pelegcy,,,,
 BO0624_88551,233611,322,328,"Besonnter Laubwald, am Weg sitt eine Mutter mit ihrem Kind vor einem Steinkreuz. Oel auf L.122X93 cm.H.R.",1898,98.1,False,positional,A.Pelegcy,,,,
-BO0624_88551,233612,323,329,"Wilde Felsschlucht mit Wasserfall. Am Ufer Weg mit Hirten auf Eseln,im Vordergrund Kuhe an der Tranke. Oel auf L.98X122 cm.Bez.:A.Pelegcy 1874.G.R.",1900,98.6,False,title_direct,A.Pelegcy,,,,
+BO0624_88551,233612,323,329,"Wilde Felsschlucht mit Wasserfall. Am Ufer Weg mit Hirten auf Eseln,im Vordergrund Kuhe an der Tranke. Oel auf L.98X122 cm.Bez.:A.Pelegcy 1874.G.R.",1900,98.6,False,title_direct,A.Pelegcy,,,,Sec. XIX
 BO0624_88551,233613,324,331,"Herrenreiten. Drei Reiter, von denen einer gesturzt ist,veranstalten ein Wettreiten.",1908,97.6,False,positional,Beres Perez,,,,
-BO0624_88551,233614,325,332,"Josephstal bei Schliersee. An einem Bach zwei Bauerinnen mit Korben. Aquarell. 28X41 cm.Bez.:Josephstal,den 5.6.1897.Passepartout.",1912,98.4,False,positional,Beres Perez,,,,
+BO0624_88551,233614,325,332,"Josephstal bei Schliersee. An einem Bach zwei Bauerinnen mit Korben. Aquarell. 28X41 cm.Bez.:Josephstal,den 5.6.1897.Passepartout.",1912,98.4,False,positional,Beres Perez,,,,Sec. XIX
 BO0624_88551,233615,326,333,Birken im Herbst. Oel auf L. 33X26 cm. Bez.:Perkuhn. Geschn.R,1918,96.6,False,positional,Erwin Perkuhn,,,,
 BO0624_88551,233616,327,334,Der treue Wachter. Huhnerhund mit der Jagdbeute. Seelandschaft. Italienischer Netflicker.,1924,80.5,False,positional,J.Perlberg,,,,
 BO0624_88551,233617,328,335,Blumenstilleben.Voll aufgebluhte Rosen und Feldblumen. Oel auf L. 42X61 cm. Bez.: Anna Peters. G.R.,1933,97.9,False,positional,A.Peters,,OGGETTI VARI,,
@@ -366,7 +366,7 @@ BO0624_88551,233653,364,371,"Wogendes Kornfeld. Hintergrund Blick auf Gern,links
 BO0624_88551,233654,365,372,"Landschaft mit hohen Baumen, auf dem Weg ein Reiter.",2110,96.2,False,positional,Ph.Roth,,,,
 BO0624_88551,233655,366,372,"a Achilles schleift Hector um die Mauern Trojas. b Waldpartie, rechts Strabe mit Figuren, Blick auf ein Tal und dahinter liegenden Hohen.",2120,76.9,False,positional,,Münchener Romantiker,,,
 BO0624_88551,233656,367,373,"Griechische Landschaft. Felsige Kuste. Blick auf das Meer, auf dem Weg eine Bauerin. Sonniger Himmel. Oel aufL.29X41 cm.G.R.",2124,98.3,False,positional,Rottmann,,,,
-BO0624_88551,233657,368,374,Kartenschlagerin in Schweizer Kostum. Oel auf L.65X54cm.Bez.:M.R.1847.G.R.,2128,97.3,False,positional,Rottmann,,,,
+BO0624_88551,233657,368,374,Kartenschlagerin in Schweizer Kostum. Oel auf L.65X54cm.Bez.:M.R.1847.G.R.,2128,97.3,False,positional,Rottmann,,,,Sec. XIX
 BO0624_88551,233658,369,375,"Friesische Bauerin sitend in ihrer Landestracht, halt in der rechten Hand ein Huhn bei den",2134,97.8,False,positional,Hermann Sagstätter,,,,
 BO0624_88551,233659,370,376,"Malender Monch. In hohem Steingemach, ein Franziskaner vor der Staffelei",2136,97.2,False,positional,Hermann Sagstätter,,,,
 BO0624_88551,233660,371,377,Kirchfahrt. Ein fescher Bursche Steiermarks rudert zwei hubsche Madchen in einem Kahne zum Kirchgang auf ein Inseldorfchen. Gebirgsszenerie.,2144,98.6,False,positional,Hubert Salentin,,,,
@@ -379,7 +379,7 @@ BO0624_88551,233666,377,382,Auerhahnbalz. Auf einem bemoosten Felsblock balzt de
 BO0624_88551,233667,378,383,"Spielhahnbalz im Moor vor einer Dorfhutte, drei Hahne in balzender Stellung. Oel auf P.35X50 cm.Bez.:Otto Scheuerer Mchn.G.R.",2194,98.4,False,title_direct,Otto Scheuerer,,,,
 BO0624_88551,233668,379,384,"Kuhe im Wasser, auf einer Brucke eine Frau mit Kind. Oel auf L. 68X47 cm. Bez.: Scheyrer. G. R.",2198,97.7,False,title_direct,Scheyrer,,,,
 BO0624_88551,233669,380,385,"Fischerhaus am See, dabei Fischers Frau, im Hintergrunde die Berge. Oel auf L. 37X54 cm. G.R.",2204,97.8,False,positional,R.Schietold,,,,
-BO0624_88551,233670,381,386,"Waldpartie mit See, im Hintergrunde Berge. Oel auf L. 35X54 cm. Ruckwarts die Bezeich= nung:Aus dem Nachlabe J. Schiffmann, geb.30. Il. 1822,Luzern. G. R.",2210,98.6,False,positional,Josef Schiffmann,,,,
+BO0624_88551,233670,381,386,"Waldpartie mit See, im Hintergrunde Berge. Oel auf L. 35X54 cm. Ruckwarts die Bezeich= nung:Aus dem Nachlabe J. Schiffmann, geb.30. Il. 1822,Luzern. G. R.",2210,98.6,False,positional,Josef Schiffmann,,,,Sec. XIX
 BO0624_88551,233671,382,387,"Ideallandschaft,im Vordergrunde Baume, Blick auf hugeliges Gelande. Aquarell.7X10 cm.Faksimile-Stempel. H. R. a Gegenstick. Blick auf ein Schlob zwischen Baumen.",2216,79.4,False,positional,J.W.Schirmer,,STAMPE E INCISIONI,,
 BO0624_88551,233672,383,388,Machtiger Baumstamm. Ruckwarts Blick auf einen besonnten Weg und einen Zaun.,2219,97.4,False,positional,J.W.Schirmer,,,,
 BO0624_88551,233673,384,389,Bei Fiesole. Italienerin im Parke.Vor einer Terrasse Baumen. Im Hintergrunde ein Schlof.,2225,97.7,False,positional,Schirmer,,,,
@@ -396,7 +396,7 @@ BO0624_88551,233683,394,40,"Oa Der Liebesbrief. Sennerin einen Brief lesend, neb
 BO0624_88551,233684,395,401,Im Park. Breiter besonnter Weg mit Blick auf ein Haus. Auf einer Bank eine sitende Frau.,2301,97.7,False,positional,Leop. Schönchen,,,,
 BO0624_88551,233685,396,402,"Aus dem Leben der hl. Genoveva.Der Graf von der Jagd zurickkehrend findet seine Frau, die hl. Genoveva, mit dem Sohnchen Schmerzensreich betraut von dem alten Diener.",2307,98.8,False,positional,Claudius Schraudolph,,,,
 BO0624_88551,233686,397,402,"a Allegorie. Drei schwebende Gestalten mit Kranzen im Haar, eine die Harfe spielend, eine einen Stab schwingend. Oel auf L.30X24 cm.G.R.",2311,98.9,False,positional,Schraudolph,,,,
-BO0624_88551,233687,398,402,"b Bei Neapel. Im Vordergrund mit Baumen durchwachsene Felsen, im Tale ein See, uber das steil ansteigende gegenuiberliegende Ufer Blick auf den Vesuv. c Wasserfall, uber den Flub fuhrt eine Bruicke zu einem auf einem Felsen liegenden Schlos. Im Hintergrunde das Hochgebirg. Gouache auf P. 58X47 cm.Bez.:C. Schreiber 1875.G.R.",2321,69.0,False,positional,Peter Conrad Schreiber,,,,
+BO0624_88551,233687,398,402,"b Bei Neapel. Im Vordergrund mit Baumen durchwachsene Felsen, im Tale ein See, uber das steil ansteigende gegenuiberliegende Ufer Blick auf den Vesuv. c Wasserfall, uber den Flub fuhrt eine Bruicke zu einem auf einem Felsen liegenden Schlos. Im Hintergrunde das Hochgebirg. Gouache auf P. 58X47 cm.Bez.:C. Schreiber 1875.G.R.",2321,69.0,False,positional,Peter Conrad Schreiber,,,,Sec. XIX
 BO0624_88551,233688,399,403,"Ungar auf galoppierendem Pferd, die Peitsche schwingend,in Landschaft.",2329,97.1,False,positional,Ad. Schreyer,,,,
 BO0624_88551,233689,400,404,An der Furt.Bauernfuhrwerk mit drei Pferden und dem Fuhrer. Leicht bewolkter Himmel.,2333,97.6,False,positional,Ad. Schreyer,,,,
 BO0624_88551,233690,401,405,Zwei liegende junge Dackelhunde. Oel auf H. 46X60 cm. Bez.: Adolph Schreyer 53. G. R.,2337,97.5,False,title_direct,Scheyrer,,,,
@@ -413,7 +413,7 @@ BO0624_88551,233700,411,413,Buchenwald mit spazierengehenden Damen. Oel auf L. 8
 BO0624_88551,233701,412,414,Krabbenfischer. Zwei Manner mit ihren Pferden im seichten Meer. In der Ferne die Kuiste. Abbildung Tafel Ill. Oel auf P. 60X90 cm.Bez.:J. Seyler.G.R.,2402,98.6,False,positional,Julius Seyler,,,,
 BO0624_88551,233702,413,415,Krevettenfischer. Zwei Reiter im Wattenmeer. In der Ferne die Kuste.,2406,97.0,False,positional,Julius Seyler,,,,
 BO0624_88551,233703,414,416,Krabbenfischer mit Pferd im seichten Strandwasser;links Leuchtturm. Oel auf P. 32X43 cm. Bez.:J. Seyler. G.R.,2408,98.1,False,positional,Julius Seyler,,,,
-BO0624_88551,233704,415,417,Vergebliches Standchen. Sanger vor einem alten Palast. Sternenhimmel. Oel auf L.53X37 cm.Bez.:Ant. Sieger 1874. H.R.,2412,98.2,False,positional,Anton Sieger,,,,
+BO0624_88551,233704,415,417,Vergebliches Standchen. Sanger vor einem alten Palast. Sternenhimmel. Oel auf L.53X37 cm.Bez.:Ant. Sieger 1874. H.R.,2412,98.2,False,positional,Anton Sieger,,,,Sec. XIX
 BO0624_88551,233705,416,418,"Venus in einem von Schmetterlingen gezogenen Wagen, von Amoretten umschwebt. Oel auf H. 27X18,5 cm. Bez.: Odo Sinnhuber Munch.93. G.R.",2418,98.4,False,title_direct,Odo Sinnhuber,,,,
 BO0624_88551,233706,417,419,"Bauernhaus von Baumen umgeben. Sonniger Herbsttag. Oel auf P.31X34 cm,G.R.",2422,97.3,False,positional,Sperl,,,,
 BO0624_88551,233707,418,420,"Aus Nymphenburg. Die nordliche Seite des Parkes mit Blick auf Blutenburg und Obermenzing, auf der Strabe ein Reisewagen und Fubganger. Sommerlicher blauer Himmel,leicht bewolkt. Abbildung Tafel Il.Oel auf H. 22X39 cm. Bez.: Mit dem Monogramm des Kunstlers. G. R.",2428,99.2,False,positional,C.Spitzweg,,,,
@@ -430,11 +430,11 @@ BO0624_88551,233717,428,430,Im Winter. Zwei Reisende zu Pferd von Bewaffneten be
 BO0624_88551,233718,429,431,"Im Winter. Dorf in der untergehenden Sonne, auf dem Weg FuBganger, links Baumgruppe.",2475,97.6,False,positional,Adolf Stademann,,,,
 BO0624_88551,233719,430,432,"Hugelland. Im Vordergrund blumige Wiese, von Landleuten belebt und von Gebuischen durch= sett, rechts zwischen Hugeln ein Haus. Hinter Laubwald ein kleiner Hohenzug. Leichtbewolkter Himmel. Oel auf H.88X128 cm.Bez.:T.Stadler 94.H.R.",2483,99.1,False,positional,Toni von Stadler,,,,
 BO0624_88551,233720,431,433,"Gewitterstimmung. An einem See swischen Baumen eine Schiffhuitte; am Ufer Geroll, dazwischen Gestrauch. Bewolkter Himmel, die Luft belebt von Moven. a Landschaft. Strabe mit herbstlichen Baumen. Im Hintergrunde das Dorf; auf dem Weg Kuh und Bauern. Oel auf L.36X52 cm.G.R.",2487,69.8,False,positional,Toni von Stadler,,,,
-BO0624_88551,233721,432,434,"Abtrieb der Bergschafe. Zwischen hohen Bergen der Hirte mit seiner Herde zu Tal ziehend, die Berge teilweise von Wolken bedeckt. Oel auf L. 88X110 cm.Bez.:A.Stagura M.1920.H. R.",2499,98.8,False,positional,Albert Stagura,,,,
+BO0624_88551,233721,432,434,"Abtrieb der Bergschafe. Zwischen hohen Bergen der Hirte mit seiner Herde zu Tal ziehend, die Berge teilweise von Wolken bedeckt. Oel auf L. 88X110 cm.Bez.:A.Stagura M.1920.H. R.",2499,98.8,False,positional,Albert Stagura,,,,Sec. XX
 BO0624_88551,233722,433,435,"Bei Neapel. Fischerboote mit Mannschaft, am Ufer romantische Burg. Hinter der Wolkenwand aufgehender Mond. Oel auf L.32X46cm.G.R.",2503,98.4,False,positional,Stange,,,,
 BO0624_88551,233723,434,436,"Lustiger Weltburger; kleiner Junge in der Wiege lacht und strampelt mit den Fuben, sein Wachter, ein Dackel, sitt auf einem Schemel und sieht dem Gebahren des Kindes zu. Bauernstube.",2508,98.9,False,positional,Fritz Steinmetz-Noris,,,,
-BO0624_88551,233724,435,437,"Portrat der Prinzessin Elisabeth von Sachsen Altenburg (spatere Grobherzogin von Oldenburg, gemalt 1847 in Aitenburg) mit schwarzem gescheitelten Haar und Blumen in demselben,Perlen=",2516,98.9,False,positional,Josef Karl Stieler,,,,
-BO0624_88551,233725,436,438,"Bildnis einer Dame in reicher Renaissancetracht. Brustbild, von der Seite gesehen. Oel auf H. 27X21 cm.Bez.:M.Stifter 1889. G.R.",2525,98.4,False,title_direct,C.Stifter,,,,
+BO0624_88551,233724,435,437,"Portrat der Prinzessin Elisabeth von Sachsen Altenburg (spatere Grobherzogin von Oldenburg, gemalt 1847 in Aitenburg) mit schwarzem gescheitelten Haar und Blumen in demselben,Perlen=",2516,98.9,False,positional,Josef Karl Stieler,,,,Sec. XIX
+BO0624_88551,233725,436,438,"Bildnis einer Dame in reicher Renaissancetracht. Brustbild, von der Seite gesehen. Oel auf H. 27X21 cm.Bez.:M.Stifter 1889. G.R.",2525,98.4,False,title_direct,C.Stifter,,,,Sec. XIX
 BO0624_88551,233726,437,439,Grobe hellbraune Bulldogge neben inr liegt eine Peitsche. Oel auf L.80X96 cm.Richard Strebel 86. H. R.,2531,98.0,False,title_direct,Richard Strebel,,,,
 BO0624_88551,233727,438,440,"Am Kaffeetisch. Burgersfrau sich Kaffee einschankend. Im nachsten Zimmer ein Dienstmadchen. Oel auf L.59X44,5 cm.Bez.:F.Strobent 94.G.R.",2537,98.5,False,title_direct,L. Burger,,,,
 BO0624_88551,233728,439,441,Bauer mit Schimmel auf einer Wiese. Naturstudie. Oel auf L. 31X40 cm. Bez.: Otto Strutel. H. R.,2543,97.7,False,positional,Otto Strützel,,,,
@@ -503,7 +503,7 @@ BO0624_88551,233790,501,504,Stehende Bauerin im Kahn. Oel auf P. 50X29 cm. G.R.,
 BO0624_88551,233791,502,497,Blumenmarkt in Hall. Oel auf P. 48X66 cm. Bez.: Hall. H. Wilt. Schw.R.,2889,96.8,False,positional,J.Wopfner,,,,
 BO0624_88551,233792,503,498,Brandung bei Korfu.,2891,90.0,False,positional,J.Wopfner,,,,
 BO0624_88551,233793,504,505,Kloster bei Moskau. Altes Gebaude. Turme am Fluf. Oel auf H.14X20 cm.Bez.:C.Wuttke.H.R.,2898,97.6,False,positional,Carlo Wuttke,,,,
-BO0624_88551,233794,505,1832,"506 Juinglingsbildnis. Brustbild in dunklem Rock, weibem Hemd und roter Kravatte. OelaufL.27X24cm.Bez.:F.W.1832.G.R",2904,100.0,False,positional,Winterhalter,,,,
+BO0624_88551,233794,505,1832,"506 Juinglingsbildnis. Brustbild in dunklem Rock, weibem Hemd und roter Kravatte. OelaufL.27X24cm.Bez.:F.W.1832.G.R",2904,100.0,False,positional,Winterhalter,,,,Sec. XIX
 BO0624_88551,233795,506,507,Weiher von Baumen umgeben. Herbststimmung.,2908,95.2,False,positional,Winterhalter,,,,
 BO0624_88551,233796,507,508,Grobe Baumgruppe im Spatsommer. Oel auf P.19X33 cm.Bez.:M.Zettler.G.R.,2914,97.1,False,positional,Max Zettler,,,,
 BO0624_88551,233797,508,509,"Die Gefangenen.In einem reich bewaldetem Hochgebirgstale werden italienische Briganten durch Carabinieri transportiert,auf einem Felsen eine Burg; Blick auf ferner liegende Hohenzige, blauer leicht bewolkter Himmel.",2920,99.1,False,positional,August Albert Zimmermann,,,,

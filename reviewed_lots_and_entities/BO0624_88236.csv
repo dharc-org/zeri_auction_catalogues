@@ -1,44 +1,44 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88236,330249,1,18151905,", Duisseldorf.",42,71.0,False,positional,"ACHENBACH, Andreas",,,,
 BO0624_88236,330250,2,1,Fischerkahn. Studie.,44,94.7,False,positional,"ACHENBACH, Andreas",,,,
-BO0624_88236,330251,3,2,"Boote am Strand. Studie. 1683, Amsterdam.",50,72.1,False,positional,"ACHENBACH, Andreas",,,,
-BO0624_88236,330252,4,3,"Italienische Landschaft. Rechts und links hohe Baume,im Mittelgrund FluB mit felsigen Ufern, iber dem sich an einem Berg eine Stadt aufbaut. Auf dem Weg langs des Flusses reiche Staffage von Hirten, Herden, 1899, By bei Fontainebleau.",60,93.5,False,positional,"BERCHEM, Claas Pietersz",,,,
+BO0624_88236,330251,3,2,"Boote am Strand. Studie. 1683, Amsterdam.",50,72.1,False,positional,"ACHENBACH, Andreas",,,,Sec. XVII
+BO0624_88236,330252,4,3,"Italienische Landschaft. Rechts und links hohe Baume,im Mittelgrund FluB mit felsigen Ufern, iber dem sich an einem Berg eine Stadt aufbaut. Auf dem Weg langs des Flusses reiche Staffage von Hirten, Herden, 1899, By bei Fontainebleau.",60,93.5,False,positional,"BERCHEM, Claas Pietersz",,,,Sec. XIX
 BO0624_88236,330253,5,4,Tierstudie. Zwei Kihe in Landschaft mit Wasser.,69,97.8,False,positional,"BONHEUR, Rosa",,,,
-BO0624_88236,330254,6,1658,"1702, Bruissel.",77,83.9,False,positional,"BOUT,Peeter",,,,
-BO0624_88236,330255,7,1644,"1711, Bruissel.",81,83.9,False,positional,"BoUDEWYNS, Adriaen Frans",,,,
+BO0624_88236,330254,6,1658,"1702, Bruissel.",77,83.9,False,positional,"BOUT,Peeter",,,,Sec. XVIII
+BO0624_88236,330255,7,1644,"1711, Bruissel.",81,83.9,False,positional,"BoUDEWYNS, Adriaen Frans",,,,Sec. XVIII
 BO0624_88236,330256,8,5,Volksfest. DorfstraBe am Wasser mit tanzenden Bauern und zahlreicher Staffage. Holz 29/41,83,98.9,False,positional,"BoUDEWYNS, Adriaen Frans",,OGGETTI IN LEGNO,,
-BO0624_88236,330257,9,8,"Hiftbild einer Dame. 1880, Venedig.",86,71.7,False,positional,"BoUDEWYNS, Adriaen Frans",,,,
+BO0624_88236,330257,9,8,"Hiftbild einer Dame. 1880, Venedig.",86,71.7,False,positional,"BoUDEWYNS, Adriaen Frans",,,,Sec. XIX
 BO0624_88236,330258,10,9,Romerin.Brustbild.,94,94.4,False,positional,"FEUERBACH,Anselm Friedrich",,,,
 BO0624_88236,330259,11,1,l Chrisanthemen in einer Vase.,104,98.3,False,positional,,Franzosische Schule,VASI,,
 BO0624_88236,330260,12,12,"Hiftbild. Alterer Mann mit schwarzem Baret und Gewand woruber weiBer Kragen. In der Rechten einen Brief mit der Aufschrift: Frau Mazzani, haltend. Leinw.107/78",112,99.0,False,positional,,Franzosische Schule,,,
 BO0624_88236,330261,13,10,Befestigter Seehafen.,116,93.0,False,positional,,Franzosische Schule,,,
-BO0624_88236,330262,14,1819,"1877,La Tour de Peilz.",120,89.4,False,positional,"COURBET,Gustave",,,,
-BO0624_88236,330263,15,6,"Landschaft. Zwischen hohen Baumen Durchblick auf ein Gewasser und 1876,Mentone.",122,89.5,False,positional,"COURBET,Gustave",,,,
+BO0624_88236,330262,14,1819,"1877,La Tour de Peilz.",120,89.4,False,positional,"COURBET,Gustave",,,,Sec. XIX
+BO0624_88236,330263,15,6,"Landschaft. Zwischen hohen Baumen Durchblick auf ein Gewasser und 1876,Mentone.",122,89.5,False,positional,"COURBET,Gustave",,,,Sec. XIX
 BO0624_88236,330264,16,7,"Im Walde. An einem Wasser, im herbstlich gefarbten Waldinneren sitzt ein junges Madchen mit unbekleidetem Oberkorper. Holz 36/27 Links unten bez.: N. V. Diaz. Siehe Abbildung Tafel III. 乙",133,98.9,False,positional,"DIAZ, Narcisso Virgilio de la Pena",,OGGETTI IN LEGNO,,
 BO0624_88236,330265,17,8,1.,152,100.0,False,positional,"DIAZ, Narcisso Virgilio de la Pena",Scuola Bolognese,,,
 BO0624_88236,330266,18,13,Landschaft mit Staffage.In der Art des Salvator Rosa. Leinw. 41/53,158,97.7,False,positional,"DIAZ, Narcisso Virgilio de la Pena",,,,
 BO0624_88236,330267,19,14,"Verlobung der Heil. Katharina. , Berlin.",162,84.8,False,positional,"DIAZ, Narcisso Virgilio de la Pena",Scuola di Berlino,,,
-BO0624_88236,330268,20,15,"Portratstudie.Junges Madchen. 1723,Twickenham bei London.",170,65.1,False,positional,"KNAUs, Ludwig",,,,
+BO0624_88236,330268,20,15,"Portratstudie.Junges Madchen. 1723,Twickenham bei London.",170,65.1,False,positional,"KNAUs, Ludwig",,,,Sec. XVIII
 BO0624_88236,330269,21,16,"Begegnung Josefs mit seinem Bruder Benjamin. In einer sudlichen Landschaft, links im Vordergrund,eine machtige Baumgruppe,unter deren Dach die Brider sich begriBen. Reich gekleidete Dienerschaft und ein Kamel bilden die Staffage, zur Rechten schlieBt den Horizont eine Bergkette ab. Leinw.92/122",178,99.5,False,positional,"KNELLER, Sir Godfrey",,,,
-BO0624_88236,330270,22,17,"Die Kreuztragung. Beim Ausgang aus der Stadt bricht Christus unter der Last in die Knie. Holz 61/85 1886, Marseille.",184,91.5,False,positional,"KNELLER, Sir Godfrey",,OGGETTI IN LEGNO,,
+BO0624_88236,330270,22,17,"Die Kreuztragung. Beim Ausgang aus der Stadt bricht Christus unter der Last in die Knie. Holz 61/85 1886, Marseille.",184,91.5,False,positional,"KNELLER, Sir Godfrey",,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88236,330271,23,18,"Das Stelldichein. Ritter und Dame im Garten, von einem Pagen belauscht. Links unten bez.: Monticelli. Leinw.40,5/32",190,98.6,False,positional,"MONTICELLI, Adolphe",,,,
-BO0624_88236,330272,24,19,"Der Fischmarkt. Im Vordergrund eines Seehafens,in dem Kriegsschiffe 1685,Haarlem.",198,89.2,False,positional,"NADELWATTS,D.",,,,
+BO0624_88236,330272,24,19,"Der Fischmarkt. Im Vordergrund eines Seehafens,in dem Kriegsschiffe 1685,Haarlem.",198,89.2,False,positional,"NADELWATTS,D.",,,,Sec. XVII
 BO0624_88236,330273,25,20,"Singende Bauern. Zwei Manner und eine Frau mit Notenblattern, singen unter Begleitung eines hinter ihnen stehenden Dudelsackblasers. Im Hintergrund des kahlen Raumes, kauern zwei weitere Personen mit einem Hund. Holz 24/34",208,99.3,False,positional,"OSTADE, Adriaen Jansz van",,OGGETTI IN LEGNO,,
-BO0624_88236,330274,26,21,"In der Schenke. Frau und zwei Manner sitzen an einem Tisch, hinter 1665, Rom.",212,91.4,False,positional,"OSTADE, Adriaen Jansz van",,,,
+BO0624_88236,330274,26,21,"In der Schenke. Frau und zwei Manner sitzen an einem Tisch, hinter 1665, Rom.",212,91.4,False,positional,"OSTADE, Adriaen Jansz van",,,,Sec. XVII
 BO0624_88236,330275,27,22,"Nymphe am Waldwasser. Im Vordergrund eine Nymphe aus dem Gefolge der Diana mit zwei Hunden am Wasser stehend, links im Walde drei Gefahrtinnen gelagert, rechts Ausblick in eine Gebirgslandschaft.",221,99.2,False,positional,"POUsSIN, Nicolas",,,,
 BO0624_88236,330276,28,23,"Jupiter und Kallisto. Im Waldesschatten, an einem mit reicher Bildhauerei versehenen Brunnen, hat sich die Nymphe gelagert, ihr naht der Gott in Diana's Gestalt, sie liebkosend. Rechts zwei Hunde, links Jupiters Adler. Leinw.94/127 , Wien.",227,98.2,False,positional,"POUsSIN, Nicolas",Scuola Viennese,,,
-BO0624_88236,330277,29,24,"Reitergefecht. Zwei Gruppen von Reitern, durch die Farben der Hutfedern und Scharpen unterschieden, sind im Feld aufeinandergestoBen, die eine Gruppe ist noch geschlossen, wahrend die andere zum Teil schon auf der Flucht sich befindet. Holz 54/72 1685,Frankfurt a.M.",235,95.6,False,positional,"QUERFURT,August",,OGGETTI IN LEGNO,,
-BO0624_88236,330278,30,25,"Ruhende Ziegen. Im Vordergrund einer italienischen Landschaft eine Ziegenfamilie, dahinter der Hirte auf der Suche nach verlaufenen Tieren. 1673, Rom.",241,95.8,False,positional,"Roos, Johann Heinrich",,,,
-BO0624_88236,330279,31,26,"Felsenlandschaft. Brucke von Tivoli. Weites Tal, von einem FluB durch- 1640, Antwerpen.",250,88.0,False,positional,"RosA, Salvatore",,,,
-BO0624_88236,330280,32,27,"Das juingste Gericht. Kleinere Wiederholung des Bildes in der Pinakothek, 1742, Augsburg.",259,89.3,False,positional,"RUBENS, Peter Paul",,,,
-BO0624_88236,330281,33,28,"Die BeschieBung von Augsburg. Links unter hohen Baumen ein prachtiges Zelt, vor dem eine Gruppe von Kavalieren, rechts eine ArtillerieStellung, welche auf die in der Ferne liegende Stadt feuert. Davor marschierendes FuBvolk. Leinw. 67/86 1670, Haarlem. (Kopie.)",266,95.4,False,positional,"RUGENDAS, Georg Philipp",,OGGETTI VARI,,
+BO0624_88236,330277,29,24,"Reitergefecht. Zwei Gruppen von Reitern, durch die Farben der Hutfedern und Scharpen unterschieden, sind im Feld aufeinandergestoBen, die eine Gruppe ist noch geschlossen, wahrend die andere zum Teil schon auf der Flucht sich befindet. Holz 54/72 1685,Frankfurt a.M.",235,95.6,False,positional,"QUERFURT,August",,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88236,330278,30,25,"Ruhende Ziegen. Im Vordergrund einer italienischen Landschaft eine Ziegenfamilie, dahinter der Hirte auf der Suche nach verlaufenen Tieren. 1673, Rom.",241,95.8,False,positional,"Roos, Johann Heinrich",,,,Sec. XVII
+BO0624_88236,330279,31,26,"Felsenlandschaft. Brucke von Tivoli. Weites Tal, von einem FluB durch- 1640, Antwerpen.",250,88.0,False,positional,"RosA, Salvatore",,,,Sec. XVII
+BO0624_88236,330280,32,27,"Das juingste Gericht. Kleinere Wiederholung des Bildes in der Pinakothek, 1742, Augsburg.",259,89.3,False,positional,"RUBENS, Peter Paul",,,,Sec. XVIII
+BO0624_88236,330281,33,28,"Die BeschieBung von Augsburg. Links unter hohen Baumen ein prachtiges Zelt, vor dem eine Gruppe von Kavalieren, rechts eine ArtillerieStellung, welche auf die in der Ferne liegende Stadt feuert. Davor marschierendes FuBvolk. Leinw. 67/86 1670, Haarlem. (Kopie.)",266,95.4,False,positional,"RUGENDAS, Georg Philipp",,OGGETTI VARI,,Sec. XVII
 BO0624_88236,330282,34,29,Landschaft mit Wasser.,276,93.3,False,positional,"RUISDAEL,Salomon",,,,
-BO0624_88236,330283,35,30,"Kihe in einer Landschaft. 1768,Darmstadt.",280,72.7,False,positional,"SCHUTZ, Heinrich",,,,
-BO0624_88236,330284,36,31,"Junger Mann in Schaferkostim. In rotem Rock mit Dreispitz und Schaferstab, in einer Landschaft. Leinw.35/29 1679,Leiden.",288,93.3,False,positional,"SEEKATZ, Joh.Konr.",,,,
-BO0624_88236,330285,37,32,"Das galante Anerbieten. Mann und Frau sitzen am Tisch vor einer Schuissel mit Kartoffeln, der Hausfreund bringt einen Hering und Zwiebeln zur Wirze des Mahles. Hinter dem Tisch steht die Magd mit einem Krug, der ein Mann die Nase dreht,im Hintergrund verschwindet ein Gast Holz 45/36 durch die Ture. Replik des Gemaldes in Bruissel. Links unten bez.: J. Steen. Siehe Abbildung Tafel X. 1638, Delft.",299,98.2,False,positional,"STEEN, Jan Havicksz",,OGGETTI IN LEGNO,,
-BO0624_88236,330286,38,33,"Der Kampf auf der Bricke. Kampf zwischen Kaiserlichen und Schweden. Holz 47/64 1690,Antwerpen.",305,89.4,False,positional,"STEVAERTs,Palamedes Palamedesz",,OGGETTI IN LEGNO,,
+BO0624_88236,330283,35,30,"Kihe in einer Landschaft. 1768,Darmstadt.",280,72.7,False,positional,"SCHUTZ, Heinrich",,,,Sec. XVIII
+BO0624_88236,330284,36,31,"Junger Mann in Schaferkostim. In rotem Rock mit Dreispitz und Schaferstab, in einer Landschaft. Leinw.35/29 1679,Leiden.",288,93.3,False,positional,"SEEKATZ, Joh.Konr.",,,,Sec. XVII
+BO0624_88236,330285,37,32,"Das galante Anerbieten. Mann und Frau sitzen am Tisch vor einer Schuissel mit Kartoffeln, der Hausfreund bringt einen Hering und Zwiebeln zur Wirze des Mahles. Hinter dem Tisch steht die Magd mit einem Krug, der ein Mann die Nase dreht,im Hintergrund verschwindet ein Gast Holz 45/36 durch die Ture. Replik des Gemaldes in Bruissel. Links unten bez.: J. Steen. Siehe Abbildung Tafel X. 1638, Delft.",299,98.2,False,positional,"STEEN, Jan Havicksz",,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88236,330286,38,33,"Der Kampf auf der Bricke. Kampf zwischen Kaiserlichen und Schweden. Holz 47/64 1690,Antwerpen.",305,89.4,False,positional,"STEVAERTs,Palamedes Palamedesz",,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88236,330287,39,34,"Aufbruch zum Hexensabbat. (Vergl.nachste Nummer, Kupferstich nach vorliegendem Original.)",313,98.2,False,positional,"TENIERS d.J., David",,OGGETTI IN RAME,,
 BO0624_88236,330288,40,35,"Kupferstich nach einem Gemalde von Teniers, gestochen von J. Aliamet. In OriginalgroBe. (Vergl.vorige Nummer.) Berlin.",315,95.4,False,positional,"TENIERS d.J., David",Scuola di Berlino,OGGETTI IN RAME,,
-BO0624_88236,330289,41,36,"Mandolinespielerin. 1629, Brussel.",321,69.2,False,positional,"THUMANN, Paul",,,,
+BO0624_88236,330289,41,36,"Mandolinespielerin. 1629, Brussel.",321,69.2,False,positional,"THUMANN, Paul",,,,Sec. XVII
 BO0624_88236,330290,42,37,"Venus Anadyomene.Die Gottin, von einem Tritonen getragen, zieht ,Friesland.",329,90.4,False,positional,"VEEN, Otho van",,,,
 BO0624_88236,330291,43,38,"Satyr und Nymphe. In Gestalt eines Satyrs naht sich Jupiter der schlafenden Antigone. Holz 24/18,5",336,98.5,False,positional,"VERBIUS, Aernout",,OGGETTI IN LEGNO,,

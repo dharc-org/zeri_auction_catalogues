@@ -1,8 +1,8 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_87426,622638,1,2,"2.Felsenlandschaft mit Staffage. Berghem, Claas Pietersz, 162o-1683. | Leinw.37/48                       |",9.0,85.4,False,positional,BERCHEM NICOLAAS,,Gemalde,,
+BO0624_87426,622638,1,2,"2.Felsenlandschaft mit Staffage. Berghem, Claas Pietersz, 162o-1683. | Leinw.37/48                       |",9.0,85.4,False,positional,BERCHEM NICOLAAS,,Gemalde,,Sec. XVII
 BO0624_87426,622639,2,3,4. | Ruhende Hirtenfamilie: Landschaft.                                                                | Holz 40/55 Leinw.35/48            |,10.0,98.3,False,title_direct,,,Holz,,
-BO0624_87426,622640,3,5,"| Bol, Ferdinand, 1616—1681. Portrait des Dichters Rukraten. Boucher,Francois,1703-177o.(Manier.)   | Holz111/84                        |",11.0,99.0,False,title_direct,BOUCHER FRANCOIS,,Holz,,
-BO0624_87426,622641,4,6,"7. | Schaferscene. Desgl. Pendant z. Vor. Brakenburg, Richard, 1650-1703.                              | Carton 31/42                      |",12.0,98.7,False,positional,,,Gemalde,,
+BO0624_87426,622640,3,5,"| Bol, Ferdinand, 1616—1681. Portrait des Dichters Rukraten. Boucher,Francois,1703-177o.(Manier.)   | Holz111/84                        |",11.0,99.0,False,title_direct,BOUCHER FRANCOIS,,Holz,,Sec. XVII
+BO0624_87426,622641,4,6,"7. | Schaferscene. Desgl. Pendant z. Vor. Brakenburg, Richard, 1650-1703.                              | Carton 31/42                      |",12.0,98.7,False,positional,BRAKENBURGH RICHARD,,Gemalde,,Sec. XVII
 BO0624_87426,622642,5,10,| 10.Jager im Walde.                                                                                | Aquarell 14/8,15.0,100.0,False,positional,,,Gemalde,,
 BO0624_87426,622643,6,12,| 12.Madonna mit dem Jesuskind.                                                                     | Tempera auf Goldgr,17.0,87.0,False,positional,,,Gemalde,,
 BO0624_87426,622644,7,13,13.Landschaft.                                                                           | Leinw.61/82,18.0,86.2,False,positional,,,Gemalde,,
@@ -13,10 +13,10 @@ BO0624_87426,622648,11,21,"| Dressel, C., in Hannover. Frichte.                 
 BO0624_87426,622649,12,22,23.             | Marienrosen. Mohn.                                                                                                                                                            | Leinw.30/42 Leinw.36/23     |,29.0,96.6,False,positional,"Costa, A.",,,,
 BO0624_87426,622650,13,24,| van Dyck (Copie). Christus am Kreuz.                                                                                                                                          | Leinw.66/48                 |,30.0,96.7,False,positional,"Costa, A.",,,,
 BO0624_87426,622651,14,25,| Fassauer. Taubenpaar.                                                                                                                                                         | Holz 39/37                  |,31.0,95.2,False,title_direct,,,Holz,,
-BO0624_87426,622652,15,26,"| Gentileschi, Oratio, 1563-1647. Huldigung vor dem Christkinde und der Jungfrau Maria. Gruppe von 7lebensgrossen Figuren.I                                                     |                             |",32.0,98.7,False,positional,"Costa, A.",,OGGETTI VARI,,
-BO0624_87426,622653,16,27,"| 27.Die Pest in Rom. | Giordano,Luca, 1632-1705.",33.0,75.0,False,positional,"Costa, A.",,,,
+BO0624_87426,622652,15,26,"| Gentileschi, Oratio, 1563-1647. Huldigung vor dem Christkinde und der Jungfrau Maria. Gruppe von 7lebensgrossen Figuren.I                                                     |                             |",32.0,98.7,False,positional,"Costa, A.",,OGGETTI VARI,,Sec. XVI
+BO0624_87426,622653,16,27,"| 27.Die Pest in Rom. | Giordano,Luca, 1632-1705.",33.0,75.0,False,positional,"Costa, A.",,,,Sec. XVII
 BO0624_87426,622654,17,28,| 28.Ansichten aus dem Schwetzinger Garten: Gouache je 41/58 Ruine des Merkurtempels. b) Wasserleitung. Apollotempel. d),34.0,81.5,False,positional,"Costa, A.",,,,
-BO0624_87426,622655,18,29,"| 29.Madchen mit Katze. Heem, Jan Davidsz de, 16oo-1684.",36.0,100.0,False,positional,"Costa, A.",,,,
+BO0624_87426,622655,18,29,"| 29.Madchen mit Katze. Heem, Jan Davidsz de, 16oo-1684.",36.0,100.0,False,positional,"Costa, A.",,,,Sec. XVII
 BO0624_87426,622656,19,30,| 30. Stillleben.,37.0,65.0,False,positional,"Costa, A.",,,,
 BO0624_87426,622657,20,31,Hafenparthie bei Haarlem. 32. Desgl. bei Dortrecht. Pendant z. Vor.   | Holz 26/47    |,40.0,98.0,False,title_direct,,,Holz,,
 BO0624_87426,622658,21,I,talienische Schule. 34. Landschaft. 35. Desgl. Pendant z. Vor.           | Leinw.97/128  |,43.0,99.3,False,positional,"Costa, A.",,,,
@@ -54,12 +54,12 @@ BO0624_87426,622689,52,68,| 68. Wohlthuende Warme.,73.0,26.3,False,positional,"C
 BO0624_87426,622690,53,69,69. Wasserschopfende Frauen.                                                    | Leinw.57/43 Leinw.64/44 |,74.0,82.6,False,positional,"Costa, A.",,,,
 BO0624_87426,622691,54,70,70.Cymon und Pera im Kerker.                                                                 | Leinw.51/67             |,75.0,90.7,False,positional,"Costa, A.",,,,
 BO0624_87426,622692,55,71,Stimmungslandschaft nach Schleich.                                                                 |                         |,77.0,95.7,False,positional,"Costa, A.",,,,
-BO0624_87426,622693,56,73,"| Rembrandt, Harmensz van Rijn, 16o7- 1669. 72.Der Landpfeger Pilatus. Holz 49/64 Wirfelnde Landskncchte. Pendant z. Vor.                   |",78.0,98.7,False,title_direct,REMBRANDT VAN RIJN,,Holz,,
+BO0624_87426,622693,56,73,"| Rembrandt, Harmensz van Rijn, 16o7- 1669. 72.Der Landpfeger Pilatus. Holz 49/64 Wirfelnde Landskncchte. Pendant z. Vor.                   |",78.0,98.7,False,title_direct,REMBRANDT VAN RIJN,,Holz,,Sec. XVII
 BO0624_87426,622694,57,75,76.                                                | Leinw.78/64 Leinw. 8o/65 Desgl.eines. Fursten. Leinw. 8o/64                                                                               |,81.0,97.5,False,positional,"Costa, A.",,,,
 BO0624_87426,622695,58,79,79. Landschaft imit Wasser.                                                                                     |,84.0,69.4,False,positional,"Costa, A.",,,,
 BO0624_87426,622696,59,80,| 80. Gebirgslandschaft mit Staffage.                    | Holz 45/62,85.0,100.0,False,title_direct,,,Holz,,
 BO0624_87426,622697,60,81,81. Alte Frau mit Licht. Leinw.67/53                                                                    |,86.0,70.1,False,positional,"Costa, A.",,,,
-BO0624_87426,622698,61,82,"82. Am Untersberg. Holz 22/28 Schutz, Christian Georg, 1718-1791!                                                |",87.0,85.1,False,title_direct,SCHUTZ CHRISTIAN GEORG,,Holz,,
+BO0624_87426,622698,61,82,"82. Am Untersberg. Holz 22/28 Schutz, Christian Georg, 1718-1791!                                                |",87.0,85.1,False,title_direct,SCHUTZ CHRISTIAN GEORG,,Holz,,Sec. XVIII
 BO0624_87426,622699,62,84,"84. Felsenlandschaft mit Wasserfall. Pendant z. Vor. Schwab, M., in Munchen.                            |",88.0,79.1,False,positional,"Costa, A.",,,,
 BO0624_87426,622700,63,85,| 85.Am Hallstidter See.,,0.0,True,none,,,,,
 BO0624_87426,622701,64,86,86.Am Gosausee. Pendant z. Vor. | Holz 21/27,89.0,78.0,False,title_direct,,,Holz,,
@@ -67,10 +67,10 @@ BO0624_87426,622702,65,87,| 87.Bei Berchtesgaden. Leinw.85/110 Motiv bei Tolz. L
 BO0624_87426,622703,66,89,| 89. Kuhe an der Tranke.,92.0,100.0,False,positional,"Costa, A.",,,,
 BO0624_87426,622704,67,90,| 90.Winterlandschaft.                                                           | Holz 19/32              |,95.0,100.0,False,title_direct,,,Holz,,
 BO0624_87426,622705,68,91,91.Der Alchymist.                                          | Holz31/25               |,97.0,72.2,False,title_direct,,,Holz,,
-BO0624_87426,622706,69,92,"92.Abschiedsscene. Tamm,Franz Werner, 1658—1724.              | Leinw.64/76             |",98.0,88.4,False,positional,"Stademann, Adolf",,,,
+BO0624_87426,622706,69,92,"92.Abschiedsscene. Tamm,Franz Werner, 1658—1724.              | Leinw.64/76             |",98.0,88.4,False,positional,"Stademann, Adolf",,,,Sec. XVII
 BO0624_87426,622707,70,93,"| 93.Fruchtstick. Ten Kate, Herm. Frederik Carel, im Haag.                       | Leinw.100/75            |",99.0,100.0,False,positional,"Stademann, Adolf",,COPPE,,
 BO0624_87426,622708,71,94,| 94.Tizian in seinem Atelier.                                                   | Holz 17/14              |,100.0,100.0,False,title_direct,TIZIANO VECELLIO,,Holz,,
-BO0624_87426,622709,72,95,"Kind an einem Kreuz stehend. | Tizian, 1477-—1546. Unbekannte altere Meister.                                 | Leinw. 61/85            |",101.0,98.2,False,positional,"Stademann, Adolf",,,,
+BO0624_87426,622709,72,95,"Kind an einem Kreuz stehend. | Tizian, 1477-—1546. Unbekannte altere Meister.                                 | Leinw. 61/85            |",101.0,98.2,False,positional,"Stademann, Adolf",,,,Sec. XV
 BO0624_87426,622710,73,96,97. 98. 99.                  | Badende Frau. Weibliche Halbfigur. Desgl. Pendant z. Vor. Heiliger.            | Leinw.90/70 Leinw.83/66 |,102.0,98.4,False,positional,"Stademann, Adolf",,,,
 BO0624_87426,622711,74,100,| Portrait eines Mannes. Cimon und Pera.                                         | Leinw.83/64 Leinw.43/36 |,103.0,96.8,False,positional,"Stademann, Adolf",,,,
 BO0624_87426,622712,75,101,102.                        | Christus mit der Dornenkrone.                                                  | Leinw.110/87            |,104.0,95.7,False,positional,"Stademann, Adolf",,,,
@@ -276,11 +276,11 @@ BO0624_87426,622911,274,36,"mit modellirter Silberarbeit, radirt auf Untergrund.
 BO0624_87426,622912,275,310,Schale.  Gepresstes Leder.,460.0,92.0,False,positional,,,OGGETTI IN PELLE,,
 BO0624_87426,622913,276,2,312.,461.0,75.0,False,positional,,,Uhren; Mobel,,
 BO0624_87426,622914,277,3,Indische Decke.,462.0,93.3,False,positional,,,Uhren; Mobel,,
-BO0624_87426,622915,278,4,Wahl und Kronungs-Diarium Karl VI. Frankfurt a.M. 1712,463.0,98.1,False,positional,,,Uhren; Mobel,,
-BO0624_87426,622916,279,313,Desgl. Franz I. do. 1746.,464.0,91.3,False,positional,,,Uhren; Mobel,,
-BO0624_87426,622917,280,6,314.Lersner's Chronik yon Frankfurt a. M.1706.,465.0,97.8,False,positional,,,Uhren; Mobel,,
+BO0624_87426,622915,278,4,Wahl und Kronungs-Diarium Karl VI. Frankfurt a.M. 1712,463.0,98.1,False,positional,,,Uhren; Mobel,,Sec. XVIII
+BO0624_87426,622916,279,313,Desgl. Franz I. do. 1746.,464.0,91.3,False,positional,,,Uhren; Mobel,,Sec. XVIII
+BO0624_87426,622917,280,6,314.Lersner's Chronik yon Frankfurt a. M.1706.,465.0,97.8,False,positional,,,Uhren; Mobel,,Sec. XVIII
 BO0624_87426,622918,281,7,desgl.,466.0,83.3,False,positional,,,Uhren; Mobel,,
-BO0624_87426,622919,282,316,315. burg 1538.,469.0,100.0,False,positional,,,Uhren; Mobel,,
+BO0624_87426,622919,282,316,315. burg 1538.,469.0,100.0,False,positional,,,Uhren; Mobel,,Sec. XVI
 BO0624_87426,622920,283,317,- Alte Decke mit Stickerei (Papst).,472.0,100.0,False,positional,,,Uhren; Mobel,,
 BO0624_87426,622921,284,318,- Zwei Sticke alter Seidendamast.,474.0,100.0,False,positional,,,Uhren; Mobel,,
 BO0624_87426,622922,285,319,Brocatmiitze.,475.0,85.7,False,positional,,,Uhren; Mobel,,
@@ -291,124 +291,124 @@ BO0624_87426,622926,289,323,Ovale Haube.,479.0,84.6,False,positional,,,Uhren; Mo
 BO0624_87426,622927,290,325,325. Diverse Decorationsstoffe.,481.0,100.0,False,positional,,,Uhren; Mobel,,
 BO0624_87426,622928,291,326,## G. Muinzen und Medaillen.,486.0,100.0,False,title_direct,,,Medaillen,,
 BO0624_87426,622929,292,327,"Anhangemunzen.4 Stick, dabei St. Georg, Anhalt und",488.0,95.9,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622930,293,328,Anhalt.Vereinigungsthaler 1863.,489.0,93.8,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622931,294,329,"Baden. Ducat Amalie Friederike, Erbprinzessin.Carlsruhe 1776 mit Brustbild.",491.0,97.3,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622932,295,331,330. Desgl. Zweiguldenstick 1846.,493.0,100.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622933,296,332,Desgl. Schuitzengulden 1863.,494.0,92.9,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622930,293,328,Anhalt.Vereinigungsthaler 1863.,489.0,93.8,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,622931,294,329,"Baden. Ducat Amalie Friederike, Erbprinzessin.Carlsruhe 1776 mit Brustbild.",491.0,97.3,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,622932,295,331,330. Desgl. Zweiguldenstick 1846.,493.0,100.0,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,622933,296,332,Desgl. Schuitzengulden 1863.,494.0,92.9,False,positional,,,Muinzen; Medaillen,,Sec. XIX
 BO0624_87426,622934,297,333,Desgl.,496.0,71.4,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,622935,298,334,- 335.,498.0,100.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622936,299,336,Desgl. Marienthaler 1771,500.0,92.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622937,300,337,Desgl. Marienthaler 1778.,504.0,92.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622938,301,338,Desgl. Marienthaler 1786.,505.0,92.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622939,302,339,Desgl. Kronthaler 1837.,506.0,91.3,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622940,303,340,Desgl.Doppelthaler 1842 Vermahlung des Erbprinzen. Brabant.Goldner Real. Berg. Reichsthaler 1803.,507.0,67.1,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622941,304,343,Brandenburg. Reichsthaler 1742. 2,510.0,90.6,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622936,299,336,Desgl. Marienthaler 1771,500.0,92.0,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,622937,300,337,Desgl. Marienthaler 1778.,504.0,92.0,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,622938,301,338,Desgl. Marienthaler 1786.,505.0,92.0,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,622939,302,339,Desgl. Kronthaler 1837.,506.0,91.3,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,622940,303,340,Desgl.Doppelthaler 1842 Vermahlung des Erbprinzen. Brabant.Goldner Real. Berg. Reichsthaler 1803.,507.0,67.1,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,622941,304,343,Brandenburg. Reichsthaler 1742. 2,510.0,90.6,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
 BO0624_87426,622942,305,344,Brandenburg. Gulden1753.,515.0,91.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622943,306,345,Brasilien. Thaler 1851 zu 200o Reis.,516.0,94.4,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622944,307,346,Braunschweig. Thaler 1611.Heinrich Julius.,517.0,95.2,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622945,308,347,Desgl. Thaler 1619.Friedrich Ulrich.,518.0,94.4,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622946,309,349,348. Desgl. Thaler 1701.,520.0,100.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622947,310,350,Desgl. Gulden 1797.,521.0,89.5,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622943,306,345,Brasilien. Thaler 1851 zu 200o Reis.,516.0,94.4,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,622944,307,346,Braunschweig. Thaler 1611.Heinrich Julius.,517.0,95.2,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,622945,308,347,Desgl. Thaler 1619.Friedrich Ulrich.,518.0,94.4,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,622946,309,349,348. Desgl. Thaler 1701.,520.0,100.0,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,622947,310,350,Desgl. Gulden 1797.,521.0,89.5,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
 BO0624_87426,622948,311,351,Desgl. Zweithalerstuck 185625jahr.Regierunga.,523.0,95.6,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,622949,312,352,Bremen.,524.0,75.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622950,313,353,Chile.Thaler 1868.,525.0,89.5,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622950,313,353,Chile.Thaler 1868.,525.0,89.5,False,positional,,,Muinzen; Medaillen,,Sec. XIX
 BO0624_87426,622951,314,354,Coln. Goldgulden von circa 15o0.,527.0,93.8,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622952,315,355,- Danemark.Viermarkstick 1690.,529.0,100.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622953,316,356,Deutsche Kaiser.Chaise d'or von Ludwig IV. Schraubthaler Carl VIl. 1744 mit inte- Desgl. Medaille mit Brustbild Kaiser Sigismunds.,532.0,54.9,False,title_direct,,,Medaillen,,
-BO0624_87426,622954,317,359,Desgl. - Goldminze Carls V. Desgl. Thaler Ferdinand II.1621.,537.0,70.5,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622955,318,362,Desgl. Thaler Leopold 1695. Eggenberg. Thaler 1658. Desgl. Thaler Maria Theresias 1766.,542.0,59.3,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622956,319,365,England. Groat von Heinrich V. Desgl. Medaille1706.Anna. Desgl. Thaler 1677. Carl I1.,543.0,50.9,False,title_direct,,,Medaillen,,
-BO0624_87426,622957,320,368,Desgl. Georg 1Il. 1/2 Thaler 1818.,546.0,93.9,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622958,321,369,- Florenz. Thaler 1677.,548.0,100.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622959,322,370,- Desgl. 1/2 Thaler 1829.,550.0,100.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622960,323,371,Frankreich.Z Zwei alte Tournosen. Desgl. Thaler Ludwig XIV.1693. Desgl. Ducat Ludwig XIll. 1643.,551.0,50.8,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622961,324,374,Desgl. Thaler. Ludwig XVI. 1789.,554.0,93.3,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622952,315,355,- Danemark.Viermarkstick 1690.,529.0,100.0,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,622953,316,356,Deutsche Kaiser.Chaise d'or von Ludwig IV. Schraubthaler Carl VIl. 1744 mit inte- Desgl. Medaille mit Brustbild Kaiser Sigismunds.,532.0,54.9,False,title_direct,,,Medaillen,,Sec. XVIII
+BO0624_87426,622954,317,359,Desgl. - Goldminze Carls V. Desgl. Thaler Ferdinand II.1621.,537.0,70.5,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,622955,318,362,Desgl. Thaler Leopold 1695. Eggenberg. Thaler 1658. Desgl. Thaler Maria Theresias 1766.,542.0,59.3,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,622956,319,365,England. Groat von Heinrich V. Desgl. Medaille1706.Anna. Desgl. Thaler 1677. Carl I1.,543.0,50.9,False,title_direct,,,Medaillen,,Sec. XVII
+BO0624_87426,622957,320,368,Desgl. Georg 1Il. 1/2 Thaler 1818.,546.0,93.9,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,622958,321,369,- Florenz. Thaler 1677.,548.0,100.0,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,622959,322,370,- Desgl. 1/2 Thaler 1829.,550.0,100.0,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,622960,323,371,Frankreich.Z Zwei alte Tournosen. Desgl. Thaler Ludwig XIV.1693. Desgl. Ducat Ludwig XIll. 1643.,551.0,50.8,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,622961,324,374,Desgl. Thaler. Ludwig XVI. 1789.,554.0,93.3,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
 BO0624_87426,622962,325,375,Friedberg.,555.0,81.8,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622963,326,377,377. Geldern. Thaler 1792.,559.0,100.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622964,327,378,Groningen.Klippe 1672.,560.0,91.3,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622965,328,380,Hannover.2 2/3 Thaler 1826.,561.0,92.9,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622963,326,377,377. Geldern. Thaler 1792.,559.0,100.0,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,622964,327,378,Groningen.Klippe 1672.,560.0,91.3,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,622965,328,380,Hannover.2 2/3 Thaler 1826.,561.0,92.9,False,positional,,,Muinzen; Medaillen,,Sec. XIX
 BO0624_87426,622966,329,381,Desgl. Thaler 1865Waterlo0.,562.0,92.6,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622967,330,382,Hohenzollern.1/2 Gulden 1852.,563.0,93.3,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622967,330,382,Hohenzollern.1/2 Gulden 1852.,563.0,93.3,False,positional,,,Muinzen; Medaillen,,Sec. XIX
 BO0624_87426,622968,331,383,Holland.Thaler 18o8.Ludwig Napoleon.,564.0,94.6,False,title_direct,,,Holz,,
 BO0624_87426,622969,332,384,Japan. Lippe.,566.0,60.0,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,622970,333,385,Desgl. 1/2Thaler.,567.0,88.2,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,622971,334,8,Thaler.,568.0,85.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622972,335,9,Thaler 1860.,569.0,91.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622973,336,388,'Lucca.Thaler 1756.,570.0,89.5,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622974,337,387,Lothringen. Goldminze (circa 1400.),571.0,93.9,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622972,335,9,Thaler 1860.,569.0,91.7,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,622973,336,388,'Lucca.Thaler 1756.,570.0,89.5,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,622974,337,387,Lothringen. Goldminze (circa 1400.),571.0,93.9,False,positional,,,Muinzen; Medaillen,,Sec. XV
 BO0624_87426,622975,338,12,389.,572.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622976,339,13,Luttich.Thaler 1570.,573.0,92.7,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622976,339,13,Luttich.Thaler 1570.,573.0,92.7,False,positional,,,Muinzen; Medaillen,,Sec. XVI
 BO0624_87426,622977,340,391,Mailand.1/4 Thaler.,574.0,90.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622978,341,390,Mansfeld. 1/s Thaler 1671 mit St. Georg. Gehenkelt.,575.0,95.9,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622978,341,390,Mansfeld. 1/s Thaler 1671 mit St. Georg. Gehenkelt.,575.0,95.9,False,positional,,,Muinzen; Medaillen,,Sec. XVII
 BO0624_87426,622979,342,16,392.,576.0,66.7,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,622980,343,393,Modena. Goldminze.,577.0,88.9,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,622981,344,18,394.,578.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622982,345,19,Mecklenburg. Vereinsthaler 1870.,579.0,95.2,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622983,346,20,Munster. Friedens-Schaustick 1648.,580.0,95.5,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622982,345,19,Mecklenburg. Vereinsthaler 1870.,579.0,95.2,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,622983,346,20,Munster. Friedens-Schaustick 1648.,580.0,95.5,False,positional,,,Muinzen; Medaillen,,Sec. XVII
 BO0624_87426,622984,347,21,395.,581.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622985,348,22,Ducat der Reformationsfeier 1617.,582.0,95.5,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622986,349,23,Nordlingen. Goldgulden aus dem 15. Jahrhundert.,583.0,96.7,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622985,348,22,Ducat der Reformationsfeier 1617.,582.0,95.5,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,622986,349,23,Nordlingen. Goldgulden aus dem 15. Jahrhundert.,583.0,96.7,False,positional,,,Muinzen; Medaillen,,Sec. XV
 BO0624_87426,622987,350,396,Nurnberg.,584.0,80.0,False,positional,,Scuola di Norimberga,Muinzen; Medaillen,,
-BO0624_87426,622988,351,397,Desgl. 1/2 viereckiger Ducat 1700.,585.0,94.1,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622988,351,397,Desgl. 1/2 viereckiger Ducat 1700.,585.0,94.1,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
 BO0624_87426,622989,352,26,398.,586.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622990,353,27,Ostfriesland. Goldgulden 1582.,587.0,94.9,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622990,353,27,Ostfriesland. Goldgulden 1582.,587.0,94.9,False,positional,,,Muinzen; Medaillen,,Sec. XVI
 BO0624_87426,622991,354,399,Overyssel.Ducat.,588.0,88.2,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622992,355,400,Passau. 1/2Ducat 1716. Pfalz. Goldgulden (in Heidelberg geprigt). Peru. 1/2 Thaler 1844.,590.0,65.6,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622993,356,403,Preussen. Medaille 1768.,592.0,91.7,False,title_direct,,,Medaillen,,
+BO0624_87426,622992,355,400,Passau. 1/2Ducat 1716. Pfalz. Goldgulden (in Heidelberg geprigt). Peru. 1/2 Thaler 1844.,590.0,65.6,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,622993,356,403,Preussen. Medaille 1768.,592.0,91.7,False,title_direct,,,Medaillen,,Sec. XVIII
 BO0624_87426,622994,357,33,404.,593.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622995,358,34,Desgl. Sterbethaler 1786.,594.0,93.9,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,622995,358,34,Desgl. Sterbethaler 1786.,594.0,93.9,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
 BO0624_87426,622996,359,35,406.,595.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,622997,360,405,Desgl. Medaille 1787.,596.0,90.5,False,title_direct,,,Medaillen,,
+BO0624_87426,622997,360,405,Desgl. Medaille 1787.,596.0,90.5,False,title_direct,,,Medaillen,,Sec. XVIII
 BO0624_87426,622998,361,407,Desgl.,597.0,71.4,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,622999,362,38,409.,598.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623000,363,39,Reuss. Thaler 1858.,599.0,91.9,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623001,364,40,408 Sachsen. Galvanische Copie einer Medaille 1594.,600.0,97.0,False,title_direct,,,Medaillen,,
+BO0624_87426,623000,363,39,Reuss. Thaler 1858.,599.0,91.9,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,623001,364,40,408 Sachsen. Galvanische Copie einer Medaille 1594.,600.0,97.0,False,title_direct,,,Medaillen,,Sec. XVI
 BO0624_87426,623002,365,410,Bronce-Medaille.Bernhard Erich Freund zum,601.0,95.3,False,title_direct,,,Medaillen,,
 BO0624_87426,623003,366,42,411.,602.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623004,367,43,Thaler 1868.,603.0,88.0,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623004,367,43,Thaler 1868.,603.0,88.0,False,positional,,,Muinzen; Medaillen,,Sec. XIX
 BO0624_87426,623005,368,44,Desgl. Kleine Medaille von Johann Georg IIl.,604.0,96.6,False,title_direct,,,Medaillen,,
-BO0624_87426,623006,369,45,Desgl. 25 jahrigen Reg.-Jub.1846.,605.0,95.2,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623007,370,46,Sachsen. Vereinsthaler 1854.Tod Friedrich Augusts II.,606.0,97.1,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623008,371,413,Desgl. Thaler 1623. Salzburg. Thaler 1620.,608.0,74.2,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623006,369,45,Desgl. 25 jahrigen Reg.-Jub.1846.,605.0,95.2,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,623007,370,46,Sachsen. Vereinsthaler 1854.Tod Friedrich Augusts II.,606.0,97.1,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,623008,371,413,Desgl. Thaler 1623. Salzburg. Thaler 1620.,608.0,74.2,False,positional,,,Muinzen; Medaillen,,Sec. XVII
 BO0624_87426,623009,372,414,"Desgl. Medaille auf die Erbauung der Kirche 24,",609.0,95.7,False,title_direct,,,Medaillen,,
 BO0624_87426,623010,373,50,415.,610.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623011,374,25,Sept. 1628.,611.0,85.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623012,375,52,Desgl. Gulden 1682.,612.0,91.9,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623013,376,416,Salzburg. Anhangemedaille 1689.,613.0,93.5,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623014,377,2,Thaler 1696.,614.0,91.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623015,378,418,Schlesien. Klippe 1621. Desgl.,615.0,80.8,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623011,374,25,Sept. 1628.,611.0,85.7,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,623012,375,52,Desgl. Gulden 1682.,612.0,91.9,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,623013,376,416,Salzburg. Anhangemedaille 1689.,613.0,93.5,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,623014,377,2,Thaler 1696.,614.0,91.7,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,623015,378,418,Schlesien. Klippe 1621. Desgl.,615.0,80.8,False,positional,,,Muinzen; Medaillen,,Sec. XVII
 BO0624_87426,623016,379,419,Spanien. Sevillaner Real.,617.0,92.0,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,623017,380,6,Goldscudo.,618.0,90.0,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,623018,381,421,Stuttgart. Schiitzenmedaille.,619.0,93.1,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,623019,382,420,Desgl.,620.0,71.4,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,623020,383,9,Selten.,621.0,85.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623021,384,422,Ulm.Klippe 1704.,622.0,88.2,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623022,385,423,Ungarn. Gulden 1705. Waldeck.Vereinsthaler 1839. Desgl. Marienthaler 1769.,624.0,56.6,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623023,386,426,Weimar.Gulden 1613. Wurttemberg.J Jubilaumsgulden 1841.,627.0,76.9,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623024,387,427,Wien.Schutzenthaler 1868.Selten.,628.0,93.9,False,positional,,Scuola Viennese,Muinzen; Medaillen,,
+BO0624_87426,623021,384,422,Ulm.Klippe 1704.,622.0,88.2,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,623022,385,423,Ungarn. Gulden 1705. Waldeck.Vereinsthaler 1839. Desgl. Marienthaler 1769.,624.0,56.6,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,623023,386,426,Weimar.Gulden 1613. Wurttemberg.J Jubilaumsgulden 1841.,627.0,76.9,False,positional,,,Muinzen; Medaillen,,Sec. XVII
+BO0624_87426,623024,387,427,Wien.Schutzenthaler 1868.Selten.,628.0,93.9,False,positional,,Scuola Viennese,Muinzen; Medaillen,,Sec. XIX
 BO0624_87426,623025,388,17,Demlandwirthschaft-,629.0,92.3,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,623026,389,429,"Desgl. Broncemedaille lichen Verdienst, o. J.",630.0,95.3,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,623027,390,430,Zeeland.Gulden1683.,631.0,90.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623028,391,431,Karnthen.I Ducat 1565.,632.0,91.3,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623028,391,431,Karnthen.I Ducat 1565.,632.0,91.3,False,positional,,,Muinzen; Medaillen,,Sec. XVI
 BO0624_87426,623029,392,432,Maestricht.,633.0,83.3,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623030,393,433,Strassburg. Gulden 1685.,635.0,66.7,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623030,393,433,Strassburg. Gulden 1685.,635.0,66.7,False,positional,,,Muinzen; Medaillen,,Sec. XVII
 BO0624_87426,623031,394,434,Zwei Zwanzigkreuzersticke.,636.0,92.6,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,623032,395,435,27 Scheideminzen.,637.0,88.9,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623033,396,436,Gulden 1672.,641.0,84.6,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623033,396,436,Gulden 1672.,641.0,84.6,False,positional,,,Muinzen; Medaillen,,Sec. XVII
 BO0624_87426,623034,397,2,437.,642.0,75.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623035,398,3,Contributionsthaler 1796.,643.0,96.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623036,399,438,Zweiguldenstick 1848. Desgl. Goethefeier 1849. Desgl. Erzherzog Johann.,646.0,54.3,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623035,398,3,Contributionsthaler 1796.,643.0,96.0,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
+BO0624_87426,623036,399,438,Zweiguldenstick 1848. Desgl. Goethefeier 1849. Desgl. Erzherzog Johann.,646.0,54.3,False,positional,,,Muinzen; Medaillen,,Sec. XIX
 BO0624_87426,623037,400,441,Thaler 18s8.Mit den Thurmen.,647.0,93.1,False,positional,,,Muinzen; Medaillen,,
 BO0624_87426,623038,401,8,442.,648.0,75.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623039,402,9,Schillerthaler 1859.,649.0,95.0,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623040,403,443,Furstentagthaler 1863.,650.0,91.3,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623039,402,9,Schillerthaler 1859.,649.0,95.0,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,623040,403,443,Furstentagthaler 1863.,650.0,91.3,False,positional,,,Muinzen; Medaillen,,Sec. XIX
 BO0624_87426,623041,404,11,444.,651.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623042,405,12,Schitzenmedaille (offiziell) 1887.,652.0,95.4,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623043,406,445,Kaiser Carl Vl. Kronungsmedaille 1711.,653.0,94.7,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623042,405,12,Schitzenmedaille (offiziell) 1887.,652.0,95.4,False,positional,,,Muinzen; Medaillen,,Sec. XIX
+BO0624_87426,623043,406,445,Kaiser Carl Vl. Kronungsmedaille 1711.,653.0,94.7,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
 BO0624_87426,623044,407,446,Desgl.,654.0,71.4,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623045,408,15,1711.,655.0,72.7,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623045,408,15,1711.,655.0,72.7,False,positional,,,Muinzen; Medaillen,,Sec. XVIII
 BO0624_87426,623046,409,16,447.,656.0,66.7,False,positional,,,Muinzen; Medaillen,,
-BO0624_87426,623047,410,17,Medaille 1887.Reformirte Gemeinde.,657.0,95.7,False,title_direct,,,Medaillen,,
-BO0624_87426,623048,411,448,Schutzenmedaille 1862.,658.0,91.3,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623047,410,17,Medaille 1887.Reformirte Gemeinde.,657.0,95.7,False,title_direct,,,Medaillen,,Sec. XIX
+BO0624_87426,623048,411,448,Schutzenmedaille 1862.,658.0,91.3,False,positional,,,Muinzen; Medaillen,,Sec. XIX
 BO0624_87426,623049,412,449,Medaille 184o.IV. Sacular-Feier der Buchdruckerkunst.,659.0,96.2,False,title_direct,,,Medaillen,,
-BO0624_87426,623050,413,20,Belagerungsthaler 1794.,660.0,93.6,False,positional,,,Muinzen; Medaillen,,
+BO0624_87426,623050,413,20,Belagerungsthaler 1794.,660.0,93.6,False,positional,,,Muinzen; Medaillen,,Sec. XVIII

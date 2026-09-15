@@ -50,11 +50,11 @@ BO0624_87891,394308,48,59,"Herr in Rustung. Kostuimbild. L.,h. 66, b. 54. a Land
 BO0624_87891,394309,49,60,"Das Wetterhorn.H.,G.R.,h. 31,b. 44. a Landschaft mit Viehherde. C.,h. 24,b. 35. Meisterhaft. Siehe Abbildung.",281,80.0,False,positional,Adolph Lier,,,,
 BO0624_87891,394310,50,61,"Moorlandschaft mit Rehen. L., G.R., h. 36, b. 77.                      |                                                                                                                                                       |         |",288,96.4,False,positional,Willibald Wex,,,,
 BO0624_87891,394311,51,62,"| Madchenkopf. Bleistift-Zchg., R.,h. 21, b. 19.                                                                                                        |         |",290,96.2,False,positional,Willibald Wex,,,,
-BO0624_87891,394312,52,63,"| Mater dolorosa. K., sch. R., h. 18, b. 15. Friedrich Voltz,1817, 1886, monogr.                                                                        |         |",291,97.7,False,title_direct,Friedrich Voltz,,,,
+BO0624_87891,394312,52,63,"| Mater dolorosa. K., sch. R., h. 18, b. 15. Friedrich Voltz,1817, 1886, monogr.                                                                        |         |",291,97.7,False,title_direct,Friedrich Voltz,,,,Sec. XIX
 BO0624_87891,394313,53,64,"| Buchenwald mit Staffage. L., G.R., h. 32, b. 45. Von bekannter Meisterschaft.                                                                         |         |",292,97.8,False,positional,Willibald Wex,,,,
 BO0624_87891,394314,54,65,"| Der verschlafene Stallknecht. L., G.R., h. 22, b. 29.                                                                                                 |         |",293,96.7,False,positional,Willibald Wex,,,,
-BO0624_87891,394315,55,66,"| Carl Roux,1826, 1894,monogr. Viehherde wird aus einem Bauernhofe getrieben. h.39,b.72. Gutes Bild. Siehe Abbildung. Wilhelm von Kaulbach, 18o5, 1874. | L.,G.R. |",294,99.0,False,title_direct,Wilhelm von Kaulbach,,,,
-BO0624_87891,394316,56,67,"| Apotheose des Konigs Ludwig I. von Bayern. Kreide-Zchg., sch. R.,h.87,b. 99. Friedrich Voltz,1817, 1886,monogr.                                       |         |",295,98.5,False,title_direct,Friedrich Voltz,,,,
+BO0624_87891,394315,55,66,"| Carl Roux,1826, 1894,monogr. Viehherde wird aus einem Bauernhofe getrieben. h.39,b.72. Gutes Bild. Siehe Abbildung. Wilhelm von Kaulbach, 18o5, 1874. | L.,G.R. |",294,99.0,False,title_direct,Wilhelm von Kaulbach,,,,Sec. XIX
+BO0624_87891,394316,56,67,"| Apotheose des Konigs Ludwig I. von Bayern. Kreide-Zchg., sch. R.,h.87,b. 99. Friedrich Voltz,1817, 1886,monogr.                                       |         |",295,98.5,False,title_direct,Friedrich Voltz,,,,Sec. XIX
 BO0624_87891,394317,57,68,"/68a Ein Stier und eine Kuh. (Hollander Schlag.) Aqu., G.R., h.11,b.18. | 68/68a Ein Stier und eine Kuh. (Hollander Schlag.) Aqu., G.R., h.11,b.18.                                                                             |         |",296,98.8,False,positional,Willibald Wex,,,,
 BO0624_87891,394318,58,69,"| Partie bei Kochel mit dem Herzogstand. H., G.R,h. 2o, b. 26.                                                                                          |         |",297,97.2,False,positional,Willibald Wex,,,,
 BO0624_87891,394319,59,7,"oa Hamburger Fleet mit der Michaelerkirche. C.ohne R. h.36,b.23.",305,99.2,False,positional,Gustav Schonleber,,,,
@@ -78,7 +78,7 @@ BO0624_87891,394336,76,90,"a Landschaft mit Hirte und Schafen. C., G.R., h. 14, 
 BO0624_87891,394337,77,91,"a b Der Herbst, Kupferstich, sch. R.,h. 53, b. 40.",416,96.5,False,title_direct,,,Kupferstiche,,
 BO0624_87891,394338,78,92,No 80a.,419,100.0,False,positional,Joh.Elias Ridinger,,,,
 BO0624_87891,394339,79,93,"/93a Hirtenleben. Aqu., sch. R., h. 32, b. 48.",427,95.9,False,positional,Joh.Elias Ridinger,,,,
-BO0624_87891,394340,80,95,"/95a Joan Eucharius und Maria Franzisca Brimsy, Herblingen, Ao.1649.L.,R.,h.74,b.40. Costimbilder.",435,98.4,False,positional,Joh.Elias Ridinger,,,,
+BO0624_87891,394340,80,95,"/95a Joan Eucharius und Maria Franzisca Brimsy, Herblingen, Ao.1649.L.,R.,h.74,b.40. Costimbilder.",435,98.4,False,positional,Joh.Elias Ridinger,,,,Sec. XVII
 BO0624_87891,394341,81,6,"Forsthaus im Nymphenburger Hirschgarten.L., R., h. 33, b.42. 96",439,99.1,False,positional,Fritz van der Venne,,,,
 BO0624_87891,394342,82,98,"Kuhe auf der Weide. C., G.R.,h. 33, b. 46.",447,95.8,False,positional,Ludwig Voltz,,,,
 BO0624_87891,394343,83,6001001,"Exotische Vogel. C., R., h. 29, b. 21.",455,87.9,False,positional,Louis Reinhardt,,,,
@@ -126,7 +126,7 @@ BO0624_87891,394384,124,150,/i5oa Chateau Ruine de Vorbourg et la Gorge de Maiti
 BO0624_87891,394385,125,143,- 151,701,100.0,False,positional,J.B.Stuntz,,,,
 BO0624_87891,394386,126,153,"No.159. Stilleben. C.,G.R., h.22, b.29.",714,91.8,False,positional,Louis Reinhardt,,,,
 BO0624_87891,394387,127,154,"Stilleben.I L.,R.,h.74, b.86.",722,92.6,False,positional,Christian Jank,,,,
-BO0624_87891,394388,128,155,"Jacobus Philippus Ao. 1538. L.,G.R.,h. 16, b. 12.",726,95.3,False,positional,,Altdeutsche Schule,,,
+BO0624_87891,394388,128,155,"Jacobus Philippus Ao. 1538. L.,G.R.,h. 16, b. 12.",726,95.3,False,positional,,Altdeutsche Schule,,,Sec. XVI
 BO0624_87891,394389,129,156,"Buchenwald.L.,R.,h. 4o,b.36.",730,92.3,False,title_direct,,,Bucher,,
 BO0624_87891,394390,130,157,"Ruhende Schafe. L., sch. R.,h. 22,b. 31.",734,94.1,False,positional,Louis Reinhardt,,,,
 BO0624_87891,394391,131,158,"Christus vor Pilatus. K., sch. R.,h. 16, b. 22.",738,95.0,False,positional,Franz Franck,,,,
@@ -295,9 +295,9 @@ BO0624_87891,394553,293,366,"- Joseph Heilmair . Landschaft mit Eichen. C., h. 4
 BO0624_87891,394554,294,367,"- 368 Unbekannt.Alte Frau. C.,h. 41, b. 30.",1348,100.0,False,positional,Joseph Heilmair,,,,
 BO0624_87891,394555,295,369,"- Unbekannt. Felsenstudie. C.,h. 15, b. 27.",1350,100.0,False,positional,Joseph Heilmair,,,,
 BO0624_87891,394556,296,370,"C.,h.31, b.34.",1352,84.6,False,positional,Joseph Heilmair,,,,
-BO0624_87891,394557,297,371,"- Chr. Morgenstern, 18o5, 1867,monogr. 1839. Lindau.",1354,100.0,False,positional,Joseph Heilmair,,,,
+BO0624_87891,394557,297,371,"- Chr. Morgenstern, 18o5, 1867,monogr. 1839. Lindau.",1354,100.0,False,positional,Joseph Heilmair,,,,Sec. XIX
 BO0624_87891,394558,298,372,"Unbekannt. Gebirgssee. C.,h. 23, b.48.",1356,94.1,False,positional,Joseph Heilmair,,,,
-BO0624_87891,394559,299,373,"Joseph Heilmair, 1843, 19o8. Bei Herrsching. L.,h.30, b.39. Im Obstgarten. L.,h. 31, b. 48. 一 Gebirgsbach. C., h. 37, b. 51.",1357,65.0,False,title_direct,Joseph Heilmair,,,,
+BO0624_87891,394559,299,373,"Joseph Heilmair, 1843, 19o8. Bei Herrsching. L.,h.30, b.39. Im Obstgarten. L.,h. 31, b. 48. 一 Gebirgsbach. C., h. 37, b. 51.",1357,65.0,False,title_direct,Joseph Heilmair,,,,Sec. XIX
 BO0624_87891,394560,300,376,"Ein Rehbock. C., h. 41, b. 30.",1360,92.0,False,positional,Joseph Heilmair,,,,
 BO0624_87891,394561,301,378,"- 377 Felsenstudie. C., h. 3I, b.47.",1364,100.0,False,positional,Joseph Heilmair,,,,
 BO0624_87891,394562,302,379,"一 Bauernhaus. C.,h.33,b.42.",1366,92.3,False,positional,Joseph Heilmair,,,,
@@ -478,23 +478,23 @@ BO0624_87891,394736,476,707,"708 Wald-Interieur. C., h. 15,b. 12.",2125,100.0,Fa
 BO0624_87891,394737,477,709,"Waldlandschaft. L.,h. 16, b. 21.",2129,92.9,False,positional,Joseph Heilmair,,,,
 BO0624_87891,394738,478,711,"Waldpartie.C.,h. 25, b.20. Gebirgs-See. C., h. 17, b. 24. Landschaft. C., h. 16, b. 25.",2131,54.9,False,positional,Joseph Heilmair,,,,
 BO0624_87891,394739,479,714,"Unbekannt. Hirtenfamilie. L., h. 29,b. 23.",2141,94.6,False,positional,Joseph Heilmair,,,,
-BO0624_87891,394740,480,715,"719 Joseph Heilmair,1843, 1908.",2145,93.5,False,title_direct,Joseph Heilmair,,,,
+BO0624_87891,394740,480,715,"719 Joseph Heilmair,1843, 1908.",2145,93.5,False,title_direct,Joseph Heilmair,,,,Sec. XIX
 BO0624_87891,394741,481,12,Blatt Aqu.,2147,85.7,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394742,482,720,/721 J.Heilmair etc. 4 Blatt Aqu.,2148,93.8,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394743,483,724,/725 8Blatt Aqu.,2150,87.5,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394744,484,722,/723 5Blatt Aqu.,2152,87.5,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394745,485,726,/727 — 8Blatt Aqu.,2154,87.5,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394746,486,728,731-7 7Blatt Aqu.,2156,88.9,False,positional,,,Aquarelle; Zeichnungen,,
-BO0624_87891,394747,487,732,"734 Christian Morgenstern, 18o5, 1847,monogr.",2158,95.5,False,positional,MORGENSTERN JOHAN FRIEDRICH,,Aquarelle; Zeichnungen,,
+BO0624_87891,394747,487,732,"734 Christian Morgenstern, 18o5, 1847,monogr.",2158,95.5,False,positional,MORGENSTERN JOHAN FRIEDRICH,,Aquarelle; Zeichnungen,,Sec. XIX
 BO0624_87891,394748,488,735,"/736 ——2 Blatt, get. Bl.Zchg.",2160,92.0,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394749,489,3,"Blatt, Bl.-Zchg.",2162,96.3,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394750,490,737,"A.Vollmer. Segelschiff. 1 Blatt, Fed.Zchg.",2164,95.0,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394751,491,738,"/739 Unbekannt. 2 Blatt, col. Bl.Zchg., Bauer und Bauerin.",2166,96.2,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394752,492,740,741,2172,100.0,False,positional,,,Aquarelle; Zeichnungen,,
-BO0624_87891,394753,493,743,"Karl Rottmann,1798, 185o,monogr. Schertel, monogr. 2 Blatt, Bl.-Zchg.",2180,68.0,False,title_direct,Schertl,,,,
-BO0624_87891,394754,494,744,"Christian Morgenstern,18o5, 1847,monogr.",2186,95.0,False,positional,MORGENSTERN JOHAN FRIEDRICH,,Aquarelle; Zeichnungen,,
+BO0624_87891,394753,493,743,"Karl Rottmann,1798, 185o,monogr. Schertel, monogr. 2 Blatt, Bl.-Zchg.",2180,68.0,False,title_direct,Schertl,,,,Sec. XVIII
+BO0624_87891,394754,494,744,"Christian Morgenstern,18o5, 1847,monogr.",2186,95.0,False,positional,MORGENSTERN JOHAN FRIEDRICH,,Aquarelle; Zeichnungen,,Sec. XIX
 BO0624_87891,394755,495,745,"747 Unbekannt. 8 Blatt, Bi.- und Fed.Zchg.",2188,94.9,False,positional,,,Aquarelle; Zeichnungen,,
-BO0624_87891,394756,496,748,"752 Joseph Heilmair,1843, 1908.",2190,93.5,False,title_direct,Joseph Heilmair,,,,
+BO0624_87891,394756,496,748,"752 Joseph Heilmair,1843, 1908.",2190,93.5,False,title_direct,Joseph Heilmair,,,,Sec. XIX
 BO0624_87891,394757,497,5,"Blatt, Aqu. und col. Bl.Zchg.",2194,96.2,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394758,498,756,763,2196,60.0,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394759,499,12,Blatt. Bl.-Zchg.,2198,89.7,False,positional,,,Aquarelle; Zeichnungen,,
@@ -523,7 +523,7 @@ BO0624_87891,394781,521,855,859 6 Blatt. Tusch Bl. u. Fed.Zchg.,2249,93.9,False,
 BO0624_87891,394782,522,847,854 8Blatt. Fed.Zchg.,2251,90.5,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394783,523,860,864 5Blatt. Aqu. u. Fed.-Zchg.,2253,92.6,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394784,524,865,868 一 5Blatt. Bl.- u. Fed.-Zchg.,2255,92.9,False,positional,,,Aquarelle; Zeichnungen,,
-BO0624_87891,394785,525,869,"/87o Chr.Morgenstern, 18o5, 1867,monogr.1823. Hafen und Wartturm von Lindau. Bl.Zchg.",2257,97.5,False,positional,MORGENSTERN CHRISTIAN ERNST BERNHARD,,Aquarelle; Zeichnungen,,
+BO0624_87891,394785,525,869,"/87o Chr.Morgenstern, 18o5, 1867,monogr.1823. Hafen und Wartturm von Lindau. Bl.Zchg.",2257,97.5,False,positional,MORGENSTERN CHRISTIAN ERNST BERNHARD,,Aquarelle; Zeichnungen,,Sec. XIX
 BO0624_87891,394786,526,872,"— Die Amper bei Polling. Col. Bl.-Zchg., h. 31, b. 47. 一 Altwasser an der Isar.A",2259,74.1,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394787,527,873,875 —Moos bei Dachau. Gebirgslandschaft und Hofgarten,2265,96.2,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394788,528,876,"—An der Wurm. Aqu.,h. 32, b. 44.",2267,92.6,False,positional,,,Aquarelle; Zeichnungen,,
@@ -548,8 +548,8 @@ BO0624_87891,394806,546,902,903 一 30 Blatt. Aqu. u. Bl.-Zchg.,2324,100.0,False
 BO0624_87891,394807,547,904,"- 905 Joseph Heilmair  u.andere. 1o Blatt.Aqu.,Fed. u.Bl.Zchg.",2327,100.0,False,title_direct,Joseph Heilmair,,,,
 BO0624_87891,394808,548,20,"Blatt. Aqu., Kreide- u. Fed.-Zchg.",2330,94.7,False,positional,,,Aquarelle; Zeichnungen,,
 BO0624_87891,394809,549,906,Joseph Heilmair. 2 Blatt. Zchg. Am Eingang von Bazeilles.,2333,96.4,False,title_direct,Joseph Heilmair,,,,
-BO0624_87891,394810,550,406,"- 908 Joseph Heilmair,1843,↑ 19o8. 26 Blatt. Ansichten von Frankreich. Aqu.",2335,100.0,False,title_direct,Joseph Heilmair,,,,
-BO0624_87891,394811,551,909,"Joseph Heilmair,1843,  19o8. 16 Skizzenbucher und 2Paletten.",2339,96.6,False,title_direct,Joseph Heilmair,,Skizzenbucher,,
+BO0624_87891,394810,550,406,"- 908 Joseph Heilmair,1843,↑ 19o8. 26 Blatt. Ansichten von Frankreich. Aqu.",2335,100.0,False,title_direct,Joseph Heilmair,,,,Sec. XIX
+BO0624_87891,394811,551,909,"Joseph Heilmair,1843,  19o8. 16 Skizzenbucher und 2Paletten.",2339,96.6,False,title_direct,Joseph Heilmair,,Skizzenbucher,,Sec. XIX
 BO0624_87891,394812,552,910,- Dantes Gottliche Komodie. Uebersetzt von Krigar. Illustr. von Gustav Dore.,2344,100.0,False,positional,,,Kupferstiche; Lithographien; Bucher,,
 BO0624_87891,394813,553,911,- 912,2346,100.0,False,positional,,,Kupferstiche; Lithographien; Bucher,,
 BO0624_87891,394814,554,19,"Blatt.Kupferstichev.Kobell, Ender,Reinhardt,Swanevelt etc.",2347,97.4,False,title_direct,Louis Reinhardt,,Kupferstiche,,
@@ -589,7 +589,7 @@ BO0624_87891,394847,587,948,"- Christian Jank t, Nachlasstempel. Partie von Vene
 BO0624_87891,394848,588,949,"Fritz Erhardt, Hofmaler , Stuttgart. Selbstportrait.Kreide-",2400,96.4,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394849,589,950,"951 Bernhard Grueber t. Schwanenbach und Ruine. Aqu., h.15,b.20.",2401,96.7,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394850,590,952,/953 一,2403,71.4,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394851,591,955,"958 Car1 Herpfer, 1836, 1897. 4 Blatt.Figuren.Bl.Zchg.",2405,96.2,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394851,591,955,"958 Car1 Herpfer, 1836, 1897. 4 Blatt.Figuren.Bl.Zchg.",2405,96.2,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XIX
 BO0624_87891,394852,592,959,一,2407,33.3,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394853,593,196,"- 960 G.Sipman.Evangelium Matthaus. Col. Bl.-Zchg., h. 8, b. 7.",2409,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394854,594,962,一 9Blatt. Aqu. Landschaften u. Tiersticke. Blatt. Fig.-Stud. Bl.Zchg.,2410,73.8,False,positional,,,Handzeichnungen; Aquarelle,,
@@ -600,10 +600,10 @@ BO0624_87891,394858,598,968,"Felsenlandschaft. Weiss geh. Zchg., h. 46, b. 61.",
 BO0624_87891,394859,599,969,Edelfraulein und Edelknabe. 2 Bl. Bl.Zchg.,2421,95.1,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394860,600,146,"- 970 Iphigenie. Kohl.Zchg.h.41, b. 35.",2423,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394861,601,972,一 Madchen mit Katze und schlafendes Madchen.,2424,95.6,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394862,602,973,"Joh.Mich.Voltz, 1784,1858,monogr.4 Blatt.Illustrationen",2426,96.4,False,positional,VOLTZ FRIEDRICH JOHANN,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394862,602,973,"Joh.Mich.Voltz, 1784,1858,monogr.4 Blatt.Illustrationen",2426,96.4,False,positional,VOLTZ FRIEDRICH JOHANN,,Handzeichnungen; Aquarelle,,Sec. XVIII
 BO0624_87891,394863,603,974,- 975 monogr. 4 Entwirfe zu Buchillustrationen. Aqu.,2430,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394864,604,946,"一 Pferdeschwemme. Fed.-Zchg.,h.19, b.22.",2432,94.6,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394865,605,978,"- Julius Lange, 1862, monogr. Riva und der Gardasee. 2 Bl. Bl.-Zchg.",2434,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394865,605,978,"- Julius Lange, 1862, monogr. Riva und der Gardasee. 2 Bl. Bl.-Zchg.",2434,100.0,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XIX
 BO0624_87891,394866,606,979,/980,2437,66.7,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394867,607,981,- monogr. 2 Blatt. Landschaften. Bl.Zchg.,2438,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394868,608,982,monogr. Die Fraueninsel. 1 Blatt.Bl.Zchg.,2439,95.0,False,positional,,,Handzeichnungen; Aquarelle,,
@@ -615,9 +615,9 @@ BO0624_87891,394873,613,990,"Zwei Pferde. Bl.Zchg.,h.30,b.43.",2453,93.5,False,p
 BO0624_87891,394874,614,992,"Barin mit Junge zerreisst eine Gemse. Kohl Zchg., h.47,b. 59. 一 Pferdekopf. Kohl.Zchg.,h. 31,b. 23.",2454,75.2,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394875,615,993,"Ludwig Voltz, monogr. Das Mittagsmahl auf dem Felde. get.Bl.Zchg.,h. 35, b.55.",2456,97.3,False,title_direct,Ludwig Voltz,,,,
 BO0624_87891,394876,616,2,Blatt. Col. Bl.Zchg. 995,2457,95.5,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394877,617,466,"- Eduard Neureuther, 18o6, 1882.Entwurf zum Titel eines Andachtsbuches ,Geistliche Rose. Aqu., h. 18, b. 10.",2461,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394877,617,466,"- Eduard Neureuther, 18o6, 1882.Entwurf zum Titel eines Andachtsbuches ,Geistliche Rose. Aqu., h. 18, b. 10.",2461,100.0,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XIX
 BO0624_87891,394878,618,998,"一 Die Luitpoldshohle Fed.Zchg.,h.13, b. 19.",2462,95.1,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394879,619,999,"Entwurf zum Titel eines Andachtsbuches. Aqu.,h. 19, b. 12. Eugen Neureuther, monogr., 1869. Die beiden Ruden. Fed.Zchg.,h. 22,b. 17. Wappen der Familie von Schad. Aqu.,h. 26, b. 21.",2464,58.5,False,title_direct,Eugen Neureuther,,,,
+BO0624_87891,394879,619,999,"Entwurf zum Titel eines Andachtsbuches. Aqu.,h. 19, b. 12. Eugen Neureuther, monogr., 1869. Die beiden Ruden. Fed.Zchg.,h. 22,b. 17. Wappen der Familie von Schad. Aqu.,h. 26, b. 21.",2464,58.5,False,title_direct,Eugen Neureuther,,,,Sec. XIX
 BO0624_87891,394880,620,1002,"Eugen Neureuther, monogr. Die Luitpoldshohle. Fed.Zchg., h. 28, b.15.",2466,96.1,False,title_direct,Eugen Neureuther,,,,
 BO0624_87891,394881,621,1003,"/1oo4 E.Neureuther, monogr. Nixen und Rubezahl. 2 Blatt. Fed.Zchg.",2467,96.0,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394882,622,1005,E.Neureuther. meister Lachner.,2468,91.8,False,positional,,,Handzeichnungen; Aquarelle,,
@@ -625,55 +625,55 @@ BO0624_87891,394883,623,1006,"一 Liebespaar. Fed.Zchg.,h.17,b.13.",2470,92.5,Fa
 BO0624_87891,394884,624,1007,"Friedrich von Schiller, angeblich. Cicero's Grabmal. Fed.-Zchg., h. 7,b. 14.",2471,96.4,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394885,625,1008,"Unbekannt. Besuch der hl. Elisabeth und Ecce homo. Pergam. Baumstudie. Col. Bl.Zchg., h. 44, b. 36. 一 Der Winter. Get.Bl.Zchg., h. II,b.17.",2472,59.7,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394886,626,1011,"Eine Schifferin. Bl.Zchg., h. 17,b. 13.",2475,93.0,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394887,627,1012,"- 1013 Herrnportrait. Bl.Zchg., h. 8, b. 7.",2477,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394887,627,1012,"- 1013 Herrnportrait. Bl.Zchg., h. 8, b. 7.",2477,100.0,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XI
 BO0624_87891,394888,628,1014,Stilleben. Tote Vogel. Guache.,2479,91.5,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394889,629,1015,"- Albert Zimmermann? Buchenstudie. Bl.Zchg, h.38, b.49.",2481,100.0,False,positional,ZIMMERMANN ALBERT,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394890,630,1016,Unbekannt. Gebirgslandschaft m Staffage. Get. Bl.-Zchg.,2483,95.2,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394891,631,4101,—Der hl. Franziskus. Oelskizze.,2484,91.5,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394892,632,1019,"Friedrich Voltz, Nachlassstempel. Pferde auf der Weide. Get.Bl.Zchg., h.42,b. 52. Friedrich Voltz, 1817, 1886, Nachlassstempel. Bauerin im Stalle bei der Kuh. Bl Zchg.,h 34, b. 47.",2486,69.8,False,title_direct,Friedrich Voltz,,,,
-BO0624_87891,394893,633,1020,- 1021,2488,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394894,634,1022,- 1023,2491,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394892,632,1019,"Friedrich Voltz, Nachlassstempel. Pferde auf der Weide. Get.Bl.Zchg., h.42,b. 52. Friedrich Voltz, 1817, 1886, Nachlassstempel. Bauerin im Stalle bei der Kuh. Bl Zchg.,h 34, b. 47.",2486,69.8,False,title_direct,Friedrich Voltz,,,,Sec. XIX
+BO0624_87891,394893,633,1020,- 1021,2488,100.0,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XI
+BO0624_87891,394894,634,1022,- 1023,2491,100.0,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XI
 BO0624_87891,394895,635,1024,"一 Tiroler Hirte.Aqu., h. 28, b. 38.",2493,92.1,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394896,636,1026,"- 1027 一 Eichenstudie. Bl.Zchg.,h. 48, b. 37.",2498,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394897,637,1029,"Schultze, monogr. Partie b. Tegernsee. Bl.-Z.,h. 18,b. 24. h.37,b.22.",2501,86.7,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394898,638,1030,"Friedrich von Hetsch,1758, 1838,monogr. Geschichtl. Darstellung. Bl.Zchg.,h. 22,b. 17. Biblische Darstellung. 一 Christus verteilt die Brode. Bl.Zchg., h. 22, b. 17.",2503,67.5,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394896,636,1026,"- 1027 一 Eichenstudie. Bl.Zchg.,h. 48, b. 37.",2498,100.0,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XI
+BO0624_87891,394897,637,1029,"Schultze, monogr. Partie b. Tegernsee. Bl.-Z.,h. 18,b. 24. h.37,b.22.",2501,86.7,False,positional,SCHULTZE CARL,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394898,638,1030,"Friedrich von Hetsch,1758, 1838,monogr. Geschichtl. Darstellung. Bl.Zchg.,h. 22,b. 17. Biblische Darstellung. 一 Christus verteilt die Brode. Bl.Zchg., h. 22, b. 17.",2503,67.5,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XVIII
 BO0624_87891,394899,639,1033,"Biblische Darstellung. Bl.-Zchg., h.1o, b. 16.",2506,94.0,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394900,640,1034,Louis Reinhardt t. 5 Bl. Landschaft u. Stilleben. Aqu. 5 Blatt. 3 Blatt.Aqu. Landschaften und Tierstick.,2508,65.3,False,title_direct,Louis Reinhardt,,,,
 BO0624_87891,394901,641,1037,3 Blatt. Aqu. Tiersticke.,2514,89.8,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394902,642,1038,61 Blatt. Aqu. Tierstuicke. 4 Blatt. Landschaften und Tiersticke. Aqu. Blatt. Aqu. Landschaften und Tiersticke.,2517,56.2,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394903,643,1041,4 Bl.Aqu. Stilleben und Tiersticke. 5 Blatt. Aqu.Landschaften und Tiersticke. 6 Blatt. Aqu. Tierstuicke und Gefuigel.,2520,53.2,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394904,644,1044,"Wilhelm Scheuchzer,18o3, 1866 (nach). Sennerhitte. Aqu.,h.19,b.24.",2522,95.9,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394905,645,1046,"- 1045 Eugen Neureuther, 18o6, 1882, monogr. Der Mull. konig und der Eine war ein dicker grosser Mann etc. Zwei Fed.-Zchg.",2526,100.0,False,title_direct,Eugen Neureuther,,,,
-BO0624_87891,394906,646,1047,/1048,2528,61.5,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394904,644,1044,"Wilhelm Scheuchzer,18o3, 1866 (nach). Sennerhitte. Aqu.,h.19,b.24.",2522,95.9,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XIX
+BO0624_87891,394905,645,1046,"- 1045 Eugen Neureuther, 18o6, 1882, monogr. Der Mull. konig und der Eine war ein dicker grosser Mann etc. Zwei Fed.-Zchg.",2526,100.0,False,title_direct,Eugen Neureuther,,,,Sec. XI
+BO0624_87891,394906,646,1047,/1048,2528,61.5,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XI
 BO0624_87891,394907,647,1049,"Der junge Naturforscher. Fed.Zchg., h. 17, b. 12.",2532,94.4,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394908,648,1050,"一 Drei Kinder. Fed.Zchg., h. 10,b. 28.",2536,92.8,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394909,649,1051,1052,2540,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394909,649,1051,1052,2540,100.0,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XI
 BO0624_87891,394910,650,1053,Nixen.,2544,66.7,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394911,651,1054,"一 Spielende Kinder. Fed.Zchg., h. 17, b. 11.",2548,93.7,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394912,652,1055,"Carl Ebert,1831, 1885,monogr. Ein Einbaum. Bl.-Z.",2552,94.6,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394913,653,1056,"Wilhelm von Kaulbach, 18o5, 1874. Skizze zur Sund-",2554,94.8,False,title_direct,Wilhelm von Kaulbach,,,,
-BO0624_87891,394914,654,1057,"- 1058 Wilh. v.Kaulbach. Figurenskizze. Bl.Zchg.,h.41, b 34.",2556,100.0,False,positional,KAULBACH HERMANN,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394915,655,1059,1060,2561,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394912,652,1055,"Carl Ebert,1831, 1885,monogr. Ein Einbaum. Bl.-Z.",2552,94.6,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XIX
+BO0624_87891,394913,653,1056,"Wilhelm von Kaulbach, 18o5, 1874. Skizze zur Sund-",2554,94.8,False,title_direct,Wilhelm von Kaulbach,,,,Sec. XIX
+BO0624_87891,394914,654,1057,"- 1058 Wilh. v.Kaulbach. Figurenskizze. Bl.Zchg.,h.41, b 34.",2556,100.0,False,positional,KAULBACH HERMANN,,Handzeichnungen; Aquarelle,,Sec. XI
+BO0624_87891,394915,655,1059,1060,2561,100.0,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XI
 BO0624_87891,394916,656,1061,"Louis Reinhardt +. Spielende Kinder. C., h. 19, b. 26.",2565,94.6,False,title_direct,Louis Reinhardt,,,,
 BO0624_87891,394917,657,1062,一 5Blatt. Aqu. Landschaften und Tierstucke.,2569,94.1,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394918,658,1063,一 4Blatt.Aqu. Landschaften u. Tiersticke.,2571,93.8,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394919,659,1064,"E.Neureuther, 18o6,  1882. Der Morgen. Fed.Zchg, h.25,b.18.",2575,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394919,659,1064,"E.Neureuther, 18o6,  1882. Der Morgen. Fed.Zchg, h.25,b.18.",2575,100.0,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XIX
 BO0624_87891,394920,660,1065,"一 4 Blatt.Der gefallte Baum. Fed.-Zchg. Die beiden Ruden. Fed.Zchg., h. 23,b. 17. Liebfrauenmilch. Fed.Zchg.,h. 23, b. 17.",2581,49.3,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394921,661,1068,"一 Siebenschon und Kyffhauser, Fed-Zchg. Maria Elend und List uber List. 2 Fed.Zchg. Amoretten und Rattenfanger von Hammeln. 2 Bl.Fed.-Zchg.",2587,56.1,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394922,662,1071,"monogr. List uber List. Fed.Zchg., h. 22, b.18. — Der eiserne Mann und der muntere Fiedler.2 2Fed.-Z. Vom kleinen Mummelsee. Fed.Zch.,h. 24, b. 20.",2591,55.4,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394923,663,1074,"Robert Assmus, monogr.",2595,88.9,False,title_direct,Robert Assmus,,,,
-BO0624_87891,394924,664,1075,"Joh.Hch.Schonfeld, 16o9, 1675. 3 Blatt. Mythologische Darstellungen und Venus und Amor. Kr.Zchg., h. 30, br.25.",2597,97.6,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394925,665,1076,Joh. Bapt. Miller 1863. Die Kronung Mariens. Bl.Zchg. rund Durchm.56.,2598,96.2,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394926,666,10781,"Bruno Piglhein,1848, 1894.Traum der Witwe des Bergmanns. Bl.Zchg.,h. 32,b. 42.",2600,96.0,False,title_direct,Bruno Piglhein,,,,
+BO0624_87891,394924,664,1075,"Joh.Hch.Schonfeld, 16o9, 1675. 3 Blatt. Mythologische Darstellungen und Venus und Amor. Kr.Zchg., h. 30, br.25.",2597,97.6,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XVII
+BO0624_87891,394925,665,1076,Joh. Bapt. Miller 1863. Die Kronung Mariens. Bl.Zchg. rund Durchm.56.,2598,96.2,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XIX
+BO0624_87891,394926,666,10781,"Bruno Piglhein,1848, 1894.Traum der Witwe des Bergmanns. Bl.Zchg.,h. 32,b. 42.",2600,96.0,False,title_direct,Bruno Piglhein,,,,Sec. XIX
 BO0624_87891,394927,667,6401,"Bruno Piglhein. Im Bade. Kohl.-Zchg., h. 14,b. 12.",2601,94.4,False,title_direct,Bruno Piglhein,,,,
-BO0624_87891,394928,668,1080,"Friedrich Voltz,1817, 1886,Nachlassstempel. Kuhe auf der Alm. Bl.-Zchg., h. 4o, b. 50. Nachlassstempel. Ackernder Bauer. Bl.Zchg.,h.34, b. 5 1. 一 Heimkehrende Viehherde vor dem Gewitter. Nachlassstempel. Bl.Zchg., h. 32, b. 56.",2604,55.8,False,title_direct,Friedrich Voltz,,,,
+BO0624_87891,394928,668,1080,"Friedrich Voltz,1817, 1886,Nachlassstempel. Kuhe auf der Alm. Bl.-Zchg., h. 4o, b. 50. Nachlassstempel. Ackernder Bauer. Bl.Zchg.,h.34, b. 5 1. 一 Heimkehrende Viehherde vor dem Gewitter. Nachlassstempel. Bl.Zchg., h. 32, b. 56.",2604,55.8,False,title_direct,Friedrich Voltz,,,,Sec. XIX
 BO0624_87891,394929,669,1083,"monogr. Wettertanne. Bl.-Zchg.,h.4o, b.27.",2605,93.5,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394930,670,1084,"- Robert Assmus t.4 Blatt Landschaften, Zch. u. Aqu.",2607,100.0,False,title_direct,Robert Assmus,,,,
-BO0624_87891,394931,671,1085,"- 1086 Robert Assmus t, monogr. Schlosshof in Allenstein. Bl.Zchg., h. 29,b. 22.",2609,100.0,False,title_direct,Robert Assmus,,,,
+BO0624_87891,394931,671,1085,"- 1086 Robert Assmus t, monogr. Schlosshof in Allenstein. Bl.Zchg., h. 29,b. 22.",2609,100.0,False,title_direct,Robert Assmus,,,,Sec. XI
 BO0624_87891,394932,672,1088,"Jac. Ludw. Roth, monogr. Kreuzabnahme Christi. Aqu., h.32,b.36.",2612,95.7,False,positional,ROTH PHILIPP,,Handzeichnungen; Aquarelle,,
-BO0624_87891,394933,673,1089,"E.Neureuther,18o6, 1882,monogr. Dem lieben Gotte weiche nicht aus etc. Feder-Zchg., h. 35, b. 22.",2614,97.2,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394933,673,1089,"E.Neureuther,18o6, 1882,monogr. Dem lieben Gotte weiche nicht aus etc. Feder-Zchg., h. 35, b. 22.",2614,97.2,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XIX
 BO0624_87891,394934,674,1090,"Eugen Neureuther.2 Blatt Maschinen Werkstatte. Col. Fed.Zchg., h.15, b.40.",2615,96.5,False,title_direct,Eugen Neureuther,,,,
-BO0624_87891,394935,675,1091,"- 1092 一 Entwurf zum Jagdofen. Col. Fed.Zchg., h. 5o,b.30.",2617,100.0,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87891,394935,675,1091,"- 1092 一 Entwurf zum Jagdofen. Col. Fed.Zchg., h. 5o,b.30.",2617,100.0,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XI
 BO0624_87891,394936,676,1094,"Unbekannt. Ansicht einer Villa. Aqu. Darmstadt. Aqu., h. 33,b. 41.",2620,69.5,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87891,394937,677,1095,"- Ludwig Voltz. Jager auf der Gamsbirsch.Bl.-Zchg.,h. 14, b. 12. —Verendete Gemse. Bl.-Zchg.,h. 28, b. 32. Ludwig Voltz, monogr. Der Wilderer. Bl.Zch.,h.3o,b.27.",2623,56.7,False,title_direct,Ludwig Voltz,,,,
 BO0624_87891,394938,678,1098,"Ludwig Voltz. Buchenlandsch. Bl.-Zchg, h. 2o,b. 27.",2626,94.6,False,title_direct,Ludwig Voltz,,,,

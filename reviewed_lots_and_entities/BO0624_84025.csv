@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84025,120787,1,1,"Portrait de Frederique-Louise-Wilhelmine,",18,97.6,False,none,,,,,
 BO0624_84025,120788,2,3,## 3—Paysage accidente anime de figures.,40,100.0,False,positional,HUET (JEAN-BAPTISTE),,,,
-BO0624_84025,120789,3,4,"Vue des Trauauc du pont de Neuilly;barrage du bras de la Seine, du cote de Neuilly. 1774.",53,98.9,False,positional,SAINT-FAR(EUSTACHE DE),,,,
+BO0624_84025,120789,3,4,"Vue des Trauauc du pont de Neuilly;barrage du bras de la Seine, du cote de Neuilly. 1774.",53,98.9,False,positional,SAINT-FAR(EUSTACHE DE),,,,Sec. XVIII
 BO0624_84025,120790,4,5,Les Quatre Saisons.,64,94.7,False,positional,,BOUCHER (Ecole de),,,
 BO0624_84025,120791,5,6,"Vue de lEglise S. Simone Piccolo,sur le Grand Canal,a Venise.",74,98.3,False,positional,CANALETTO (Attribue a),,,,
 BO0624_84025,120792,6,7,"Vue de la Douane de mer et de l'Eglise de la Salute, a Venise.",80,98.4,False,positional,CANALETTO (Attribue a),,,,
@@ -11,7 +11,7 @@ BO0624_84025,120795,9,10,——Dessus de porte.,101,90.9,False,positional,,ECOLE
 BO0624_84025,120796,10,11,"- —Femme assise dans un parc, et sujet allegorique.",112,100.0,False,positional,,ECOLE FRANCAISE (EPOQUE REGENCE),,,
 BO0624_84025,120797,11,12,"Jeune Femme nue,assise aupres d'un chien dans un paysage.",117,97.4,False,positional,,ECOLE FRANCAISE (xvIn siecle),,,
 BO0624_84025,120798,12,13,Le Genie du Sommeil.,127,92.7,False,positional,FRAGONARD (Attribue a H.),,,,
-BO0624_84025,120799,13,14,"Vue du Pont Notre-Dame,a Paris,en 1786, pendant la demolition des maisons baties sur ce pont. mportant tableau du maitre, tres interessant pour l'histoire du vieux-Paris.",135,70.0,False,positional,HUBERT-ROBERT,,,,
+BO0624_84025,120799,13,14,"Vue du Pont Notre-Dame,a Paris,en 1786, pendant la demolition des maisons baties sur ce pont. mportant tableau du maitre, tres interessant pour l'histoire du vieux-Paris.",135,70.0,False,positional,HUBERT-ROBERT,,,,Sec. XVIII
 BO0624_84025,120800,14,15,La Sortie de leglise.,144,93.0,False,positional,JEAURAT(EDME),,,,
 BO0624_84025,120801,15,16,Amours musiciens.,158,91.4,False,positional,LAGRENEE (LOUIS-JEAN-FRANCOIS),,,,
 BO0624_84025,120802,16,17,Fleurs et Instruments de musique.,168,95.5,False,positional,LERICHE,,,,
@@ -48,7 +48,7 @@ BO0624_84025,120832,46,47,"PaIRE DE vAsEs de forme analogue et de meme porcelain
 BO0624_84025,120833,47,48,"DEux GRouPEs, figurant le Printemps et l'Automne,en ancienne porcelaine tendre emaillee en blanc de Tournay. Ils se composent chacun de deux enfants,les uns tenant des festons de feurs, les autres jouant avec un bouc enguirlande de pampres de vigne. Terrasses rocailleuses ornees de fleurs et feuillages,",330,99.5,False,positional,,,OGGETTI VARI,,
 BO0624_84025,120834,48,49,"— PAIRE DE coRBEILLEs a anses sur leur plateau, a bordures ajourees a vannerie,en ancienne faience de Strasbourg,decorees en couleurs de branchages a petites fleurettes. Sur le fond des plateaux, branches de tulipes et autres fleurs.",334,99.3,False,positional,,,PORCELAINES; FAIENCES,,
 BO0624_84025,120835,49,50,— DEUx GRANDEs STATUETTEs en ancienne faience de Lorraine emaillee en blanc : le Berger Paris.,339,98.3,False,positional,,,PORCELAINES; FAIENCES,,
-BO0624_84025,120836,50,51,"— CacHE-PoT de forme cylindrique godronnee, a deux anses mufles de lion et bord festonne a renflement,en ancienne faience de Delft. Il est richement decore en rouge, bleu et vert, d'un ample lambrequin et de fleurs d'un coloris tres vif. Marque de Pynacker.",344,99.4,False,positional,,,PORCELAINES; FAIENCES,,
+BO0624_84025,120836,50,51,"— CacHE-PoT de forme cylindrique godronnee, a deux anses mufles de lion et bord festonne a renflement,en ancienne faience de Delft. Il est richement decore en rouge, bleu et vert, d'un ample lambrequin et de fleurs d'un coloris tres vif. Marque de Pynacker.",344,99.4,False,positional,PYNACKER ADAM,,PORCELAINES; FAIENCES,,
 BO0624_84025,120837,51,52,"PAIRE DE CONSOLES-SUPPORTS d'appliques, forme cul-de-lampe, en ancienne faience de Rouen. Elles sont ornees en relief de feuillages decores en bleu et blanc se detachant sur un fond jaune ocre a carrelages avec monogramme en noir;bordure superieure en couleurs. Epoque Louis XIV.",348,99.5,False,positional,,,LAMPADE,,
 BO0624_84025,120838,52,53,"MINIATURE RECTANGULAIRE,attribuee aJ.CHAR-",353,96.5,False,title_direct,,,MINIATURES,,
 BO0624_84025,120839,53,54,MINIATURE RoNDE de l'Ecole francaise du xvII1e,358,96.8,False,title_direct,,,MINIATURES,,
@@ -61,10 +61,10 @@ BO0624_84025,120845,59,60,"MINIATURE RECTANGULAIRE, d'apreS M.Q. DE LaTouR:Portr
 BO0624_84025,120846,60,6,"l—MiNIATURE ovALE, peinte a laquarelle,de l'Ecole francaise du commencement du xixe siecle:Portrait de Bernardin de Saint-Pierre. Cadre en bronze dore.",400,99.7,False,positional,,,MINIATURES,,
 BO0624_84025,120847,61,62,"MINIATURE RoNDE, de lEcole francaise xvine siecle :L'Amour conduit par la Folie.",404,98.1,False,title_direct,,,MINIATURES,,
 BO0624_84025,120848,62,63,"PETITE MINIATURE oVALE, par P.A.HALL: Portrait de la Comtesse de R...Buste;corsage et voile de gaze; coiffure haute.",412,98.7,False,title_direct,,,MINIATURES,,
-BO0624_84025,120849,63,64,"MINIATURE OvALE, par P.-A. HALL, signee a gauche: Portrait du Baron de Bernicourt (1791). En buste. Habit bleu clair a grand revers et cravate de mousseline.",422,99.0,False,title_direct,,,MINIATURES,,
+BO0624_84025,120849,63,64,"MINIATURE OvALE, par P.-A. HALL, signee a gauche: Portrait du Baron de Bernicourt (1791). En buste. Habit bleu clair a grand revers et cravate de mousseline.",422,99.0,False,title_direct,,,MINIATURES,,Sec. XVIII
 BO0624_84025,120850,64,65,"PETITE MINIATURE de forme ovale,par P.A.HALL, signee: Portrait d'Homme. En buste,coife",428,98.8,False,title_direct,,,MINIATURES,,
 BO0624_84025,120851,65,66,"MiNIATURE de forme ovale, par MosNIER,",430,96.0,False,positional,,,MINIATURES,,
-BO0624_84025,120852,66,67,"MINIATURE de forme ronde, par AuBRy, signee et datee 1803:Portrait de Femme.Vue en buste, corsage blanc decollete, une écharpe rouge sur les épaules. Epoque Empire.",435,99.1,False,title_direct,,,MINIATURES,,
+BO0624_84025,120852,66,67,"MINIATURE de forme ronde, par AuBRy, signee et datee 1803:Portrait de Femme.Vue en buste, corsage blanc decollete, une écharpe rouge sur les épaules. Epoque Empire.",435,99.1,False,title_direct,,,MINIATURES,,Sec. XIX
 BO0624_84025,120853,67,68,"MINIATuRE sur velin de forme ovale,attribuee a J.-B.IsABEx:Portrait de lImperatrice Marie-",443,98.3,False,positional,,,MINIATURES,,
 BO0624_84025,120854,68,69,"Erui a aiguilles cylindrique, en ecaille brune, posee argent: attributs divers dans des encadrements a rocailles, feuillages, etc. Epoque",449,98.9,False,positional,,,MINIATURES,,
 BO0624_84025,120855,69,70,"— Eru1 a aiguilles plat, en ecaille brune, garni",453,96.7,False,positional,,,MINIATURES,,

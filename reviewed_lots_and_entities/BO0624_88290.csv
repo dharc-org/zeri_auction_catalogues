@@ -1,9 +1,9 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88290,301379,1,2,Pariser StraBenbild mit dem Pantheon im Hintergrund. Bez.:Richard Bloos 1912. O1 auf Leinwand. 134 X 114 cm. Versilberter Rahmen.,6,99.2,False,title_direct,Richard Bloos,,CORNICI,,
+BO0624_88290,301379,1,2,Pariser StraBenbild mit dem Pantheon im Hintergrund. Bez.:Richard Bloos 1912. O1 auf Leinwand. 134 X 114 cm. Versilberter Rahmen.,6,99.2,False,title_direct,Richard Bloos,,CORNICI,,Sec. XX
 BO0624_88290,301380,2,3,Konzert in einem Pariser Cafe.,7,96.7,False,positional,Richard Bloos,,,,
-BO0624_88290,301381,3,4,"Pariser Variete.Casino de Montparnasse. Bez.: Richard Bloos, Paris 1911. 01 auf Leinwand.115 X80 cm.Goldrahmen.",11,99.1,False,title_direct,Richard Bloos,,,,
+BO0624_88290,301381,3,4,"Pariser Variete.Casino de Montparnasse. Bez.: Richard Bloos, Paris 1911. 01 auf Leinwand.115 X80 cm.Goldrahmen.",11,99.1,False,title_direct,Richard Bloos,,,,Sec. XX
 BO0624_88290,301382,4,5,Auf dem Bahnhof. Ankunft eines Zuges am Abend. Figurenreiches stimmungsvolles Bild.,17,98.8,False,positional,Hans Borchardt,,,,
-BO0624_88290,301383,5,6,"Haspinger, der bekannte Kapuzinerpater aus dem Tiroler Befreiungskampfe 1809. Brustbild, Kopf en face, im langen grauen Bart und brauner Kutte.",24,99.3,False,positional,Franz von Defregger,,,,
+BO0624_88290,301383,5,6,"Haspinger, der bekannte Kapuzinerpater aus dem Tiroler Befreiungskampfe 1809. Brustbild, Kopf en face, im langen grauen Bart und brauner Kutte.",24,99.3,False,positional,Franz von Defregger,,,,Sec. XIX
 BO0624_88290,301384,6,7,"Kopf eines alten Mannes. Dreiviertelprofil nach rechts auf den Beschauer sehend. Bez.:Defregger. O1 auf Leinwand. 33 X29,5 cm.Schwarzer Rahmen. Abbildung Tafel IIl.",25,99.4,False,positional,Franz von Defregger,,CORNICI,,
 BO0624_88290,301385,7,8,StraBe in Venedig mit charakteristischer figurlicher Staffage.,37,98.4,False,positional,Ludwig Dill,,,,
 BO0624_88290,301386,8,7070707070707070707070707070707070707070707070707070707070707070707070707070707,## Wilhelm von Diez,46,100.0,False,title_direct,Wilhelm von Diez,Scuola di Wilhelm von Diez,,,
@@ -23,7 +23,7 @@ BO0624_88290,301399,21,22,Landschaft. Eingang ins Dorf. 0l auf Pappe. 31 x 19 cm
 BO0624_88290,301400,22,23,Hamburger Hafen bei Sonnenuntergang. Bez.:Th.Hummel.,138,97.0,False,positional,Theodor Hummel,,,,
 BO0624_88290,301401,23,24,"Segelboote in einem italienischen Hafen. Bez.:Th.Hummel.O1 auf Leinwand. 51,5 X 63 cm. Schwarz gebeizter Eichenholzrahmen.",139,98.7,False,positional,Theodor Hummel,,,,
 BO0624_88290,301402,24,25,"Motiv aus Venedig. Maria della Salute vom Schif aus gesehen. Pastell auf Pappe. 32 X 49,5 cm.WeiBer Rahmen.",140,98.6,False,positional,Theodor Hummel,,CORNICI,,
-BO0624_88290,301403,25,26,"Am Rialto.Venetianisches StraBenleben. Pastell auf Pappe. 34,5 X 40 cm.WeiBer Rahmen. Bez.:Th.Hummel 1914. 01 auf Holz. 60,5 X 55 cm.Goldrahmen.",142,83.8,False,positional,Theodor Hummel,,CORNICI,,
+BO0624_88290,301403,25,26,"Am Rialto.Venetianisches StraBenleben. Pastell auf Pappe. 34,5 X 40 cm.WeiBer Rahmen. Bez.:Th.Hummel 1914. 01 auf Holz. 60,5 X 55 cm.Goldrahmen.",142,83.8,False,positional,Theodor Hummel,,CORNICI,,Sec. XX
 BO0624_88290,301404,26,27,"Bildnis einer Dame von suidlandischem Typus; Gesicht en face, Blick nach links auf den Beschauer gerichtet.",160,98.6,False,positional,Josef Israels,,,,
 BO0624_88290,301405,27,28,Auktion auf dem Lande. Figurenreiches Bild mit einer Fulle charakteristischer Gestalten und,172,98.4,False,positional,Hugo Kauffmann,,,,
 BO0624_88290,301406,28,29,"9 Hundedressur. Bauernstube; Jager und junger Huhnerhund, der einen Hasen apportieren soll, Kinder und gemitlicher Zuschauer dabei.",174,98.8,False,positional,Hugo Kauffmann,,,,
@@ -31,12 +31,12 @@ BO0624_88290,301407,29,31,Liegender weiblicher Akt mit roten Haaren. Draufsicht 
 BO0624_88290,301408,30,32,Bildnis der Eusepia Paladino.,200,94.9,False,positional,Albert von Keller,,,,
 BO0624_88290,301409,31,34,Blumenstilleben. WeiBe und rote Rosen in blauer Vase auf gelbem Tisch.,216,97.8,False,positional,C.A.Korthaus,,OGGETTI VARI,,
 BO0624_88290,301410,32,35,"Watzmann in der Wintersonne, im Vordergrund Almhitte und Schneefeld. ## M.Kuschel Das Urteil des Paris. Die drei olympischen Gottinnen mit Hermes und Paris in suidlicher Landschaft.",234,71.5,False,title_direct,M.Kuschel,,,,
-BO0624_88290,301411,33,38,"Vornehme Reisegesellschaft mit Reitern als Begleiter, im Kostum des 17. Jahrh. Studie. Bez.:P.F.M. Ol auf Pappe. 22 X 33,5 cm. Unter Glas.Dunkler Rahmen.",248,99.0,False,positional,Pius Messerschmidt,,CORNICI,,
+BO0624_88290,301411,33,38,"Vornehme Reisegesellschaft mit Reitern als Begleiter, im Kostum des 17. Jahrh. Studie. Bez.:P.F.M. Ol auf Pappe. 22 X 33,5 cm. Unter Glas.Dunkler Rahmen.",248,99.0,False,positional,Pius Messerschmidt,,CORNICI,,Sec. XVII
 BO0624_88290,301412,34,39,Orientale. Profilkopf mit Turban; Studie aus dem Christusbilde. Bez.:Munkacsy. 01auf Leinwand.78x57cm. Goldrahmen. Abbildung Tafel X.,254,98.8,False,positional,Michael Munkacsy,,,,
 BO0624_88290,301413,35,40,"Im Bade. Frauenakt,Blondine, sich des gelbseidenen Bademantels entledigend. Bez.:R. NiBl. 01 auf Leinwand.71x56 cm. Goldrahmen. Abbildung Tafel XI.",260,98.9,False,positional,Rudolf NiBl,,,,
 BO0624_88290,301414,36,41,BlumenstrauB in der Gartenlaube.,261,95.4,False,positional,Rudolf NiBl,,,,
-BO0624_88290,301415,37,42,An der Stadtmauer.Partie aus Dinkelsbihl. Bez.:R.NiB1 1916.,263,97.4,False,positional,Rudolf NiBl,,,,
-BO0624_88290,301416,38,43,"Dinkelsbihi. Blick auf alte Dacher, Giebel, Hauser und die Kirche. Bez.:R. NiBl,Dinkelsbuhl 1916. Bleistiftzeichnung auf Papier. 31 X 48 cm. Passepartout. Naturholzrahmen.",265,99.1,False,positional,Rudolf NiBl,,,,
+BO0624_88290,301415,37,42,An der Stadtmauer.Partie aus Dinkelsbihl. Bez.:R.NiB1 1916.,263,97.4,False,positional,Rudolf NiBl,,,,Sec. XX
+BO0624_88290,301416,38,43,"Dinkelsbihi. Blick auf alte Dacher, Giebel, Hauser und die Kirche. Bez.:R. NiBl,Dinkelsbuhl 1916. Bleistiftzeichnung auf Papier. 31 X 48 cm. Passepartout. Naturholzrahmen.",265,99.1,False,positional,Rudolf NiBl,,,,Sec. XX
 BO0624_88290,301417,39,44,Malerisches Interieur mit einer Frau im grinen Kleide unter der Ture. Bez.:W. Puttner. O1 auf Leinwand. 53 X 68 cm.Versilberter Rahmen.,271,98.9,False,positional,Walter Puttner,,ARREDAMENTI,,
 BO0624_88290,301418,40,707070707070707070707070707070707070707070707070747070707070770707070707070770,- 47,274,100.0,False,positional,Walter Puttner,,,,
 BO0624_88290,301419,41,48,"- Aquarellierte Bleistiftzeichnung. 78 X57,5 cm. Passepartout. Schwarzer Rahmen.",277,100.0,False,positional,Walter Puttner,,CORNICI,,
@@ -55,8 +55,8 @@ BO0624_88290,301431,53,57,"GroBe goldene Vase, auf einer Granitplatte stehend, g
 BO0624_88290,301432,54,58,"Schmetterlingsblumen in grober, in gold-, schwarz- und blauemaillierter Vase auf mosaikartigem",349,98.4,False,positional,C.Strathmann,,OGGETTI IN ORO,,
 BO0624_88290,301433,55,59,Dekoratives Stilleben. GroBe graue Vase mit rotem Mohn und anderen Blumen auf mosaikartigem Grund.,352,98.5,False,positional,C.Strathmann,,VASI,,
 BO0624_88290,301434,56,60,Blumenstilleben.  Schwarze Vase mit Wiesenblumen. Bez.:C.Strathmann. 01 auf Pappe. 49 x34 cm. Unter Glas. Goldrahmen.,354,98.6,False,title_direct,C.Strathmann,,OGGETTI VARI,,
-BO0624_88290,301435,57,61,"Schneckenpost. Amor,ins Horn blasend, als Postillon auf einer Schnecke. O1 auf Pappe. 49 X 49 cm. Unter Glas. Goldrahmen. Bez.:C.Strathmann 1914.",355,98.9,False,title_direct,C.Strathmann,,,,
-BO0624_88290,301436,58,62,"Lustige Musikanten in winterlicher Landschaft im Schneetreiben. 01 auf Pappe. 70,5 X 98,5 cm. Versilberter Rahmen. Bez.:C.Strathmann 1916. Abbildung Tafel IX.",356,99.0,False,title_direct,C.Strathmann,,CORNICI,,
+BO0624_88290,301435,57,61,"Schneckenpost. Amor,ins Horn blasend, als Postillon auf einer Schnecke. O1 auf Pappe. 49 X 49 cm. Unter Glas. Goldrahmen. Bez.:C.Strathmann 1914.",355,98.9,False,title_direct,C.Strathmann,,,,Sec. XX
+BO0624_88290,301436,58,62,"Lustige Musikanten in winterlicher Landschaft im Schneetreiben. 01 auf Pappe. 70,5 X 98,5 cm. Versilberter Rahmen. Bez.:C.Strathmann 1916. Abbildung Tafel IX.",356,99.0,False,title_direct,C.Strathmann,,CORNICI,,Sec. XX
 BO0624_88290,301437,59,63,Idyl. Faun unter einem exotischen Baume blast die Flote; befligelte Amoretten tanzen nach seiner Weise auf blumiger Wiese. Ruine in der Campagna.,357,90.5,False,positional,C.Strathmann,,,,
 BO0624_88290,301438,60,64,Heidelberg. Blick von bewaldeten Hohen aufs SchloB und Neckartal.,376,97.7,False,positional,Wilhelm Trubner,,,,
 BO0624_88290,301439,61,65,"Romische Landschaft. Tempelruinen, im Hintergrunde das Meer. Bez.:P. 01 auf Leinwand. 64 X82 cm. Goldrahmen.",386,98.5,False,positional,Wilhelm Trubner,Scuola Romana,,,

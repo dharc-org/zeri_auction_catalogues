@@ -1,59 +1,59 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88128,529572,1,1,"(Augsburg). Beschreibung einer Furstl. Hochzeit mit Turnier aus dem 17. Jahrh. Bruchsticke des Textes. Halbpergt. Fol. Banier, A. Erlauterung der Gotterlehre und Fabeln aus der Geschichte. Aus dem Franzos.ibersetzt. MitAnmerkungen von J. Adolf u. J. August Schlegel u. J. M. Schroeckh. 5Bde.mit 5Titelkpfrn. 8. Leipzig 1754/66. Sehr schones Exemplar, einzeln in Leder geb. Augsb. 1682.Lederbd.",77,78.7,False,positional,,,OGGETTI IN PELLE,,
-BO0624_88128,529573,2,4,"Bibel, altes und neues Testament. Mit vielen Holzschnitten und Initialen.Fol.1556.Gepresster Lederbd. mit Beschlagen. Erster Titel und mehrere Blatter fehlen, einige Blatter defekt.",79,99.4,False,positional,,,Bicher,,
-BO0624_88128,529574,3,5,"Bibel, verteutscht durch D. Martin Luther; altes und neues Testament. Herausgeg. v.J. M.Dillherr. Mit Holzschnitten. Fol. Nurnbg. 1656. Lederbd. Haupttitel und andere",81,99.4,False,positional,,,Bicher,,
-BO0624_88128,529575,4,6,"Biblia, D. i. die gantze Schrifft, altes u. neues Test; teutsch; Luthers.Mit den Summarien J. Sauberti. Samt Vorrede J.M.Dillherrns. Fol.Nurnbg.1693. Lederbd.mit Beschlagen.Mit 2 Titelkupf. und vielen Holzschnitten.",82,99.5,False,positional,,,Bicher,,
-BO0624_88128,529576,5,8,8.Nurnbg. 1771.Leder.,87,34.0,False,positional,,,OGGETTI IN PELLE,,
-BO0624_88128,529577,6,9,"Crusius, M. Schwabische Chronik von Erschaffung der Welt bis auf 1596. Aus dem Latein. erstmals ibers. mit Contin v. Jahre 1596 bis 1733 von J. J. Moser. 2 Bde. Fol.",88,99.4,False,positional,,Scuola Sveva,Bicher,,
+BO0624_88128,529572,1,1,"(Augsburg). Beschreibung einer Furstl. Hochzeit mit Turnier aus dem 17. Jahrh. Bruchsticke des Textes. Halbpergt. Fol. Banier, A. Erlauterung der Gotterlehre und Fabeln aus der Geschichte. Aus dem Franzos.ibersetzt. MitAnmerkungen von J. Adolf u. J. August Schlegel u. J. M. Schroeckh. 5Bde.mit 5Titelkpfrn. 8. Leipzig 1754/66. Sehr schones Exemplar, einzeln in Leder geb. Augsb. 1682.Lederbd.",77,78.7,False,positional,,,OGGETTI IN PELLE,,Sec. XVII
+BO0624_88128,529573,2,4,"Bibel, altes und neues Testament. Mit vielen Holzschnitten und Initialen.Fol.1556.Gepresster Lederbd. mit Beschlagen. Erster Titel und mehrere Blatter fehlen, einige Blatter defekt.",79,99.4,False,positional,,,Bicher,,Sec. XVI
+BO0624_88128,529574,3,5,"Bibel, verteutscht durch D. Martin Luther; altes und neues Testament. Herausgeg. v.J. M.Dillherr. Mit Holzschnitten. Fol. Nurnbg. 1656. Lederbd. Haupttitel und andere",81,99.4,False,positional,,,Bicher,,Sec. XVII
+BO0624_88128,529575,4,6,"Biblia, D. i. die gantze Schrifft, altes u. neues Test; teutsch; Luthers.Mit den Summarien J. Sauberti. Samt Vorrede J.M.Dillherrns. Fol.Nurnbg.1693. Lederbd.mit Beschlagen.Mit 2 Titelkupf. und vielen Holzschnitten.",82,99.5,False,positional,,,Bicher,,Sec. XVII
+BO0624_88128,529576,5,8,8.Nurnbg. 1771.Leder.,87,34.0,False,positional,,,OGGETTI IN PELLE,,Sec. XVIII
+BO0624_88128,529577,6,9,"Crusius, M. Schwabische Chronik von Erschaffung der Welt bis auf 1596. Aus dem Latein. erstmals ibers. mit Contin v. Jahre 1596 bis 1733 von J. J. Moser. 2 Bde. Fol.",88,99.4,False,positional,,Scuola Sveva,Bicher,,Sec. XVI
 BO0624_88128,529578,7,10,"Dieterich, M.Beschreibung der Stadt Ulm.Mit 1 (statt 8) Kupfer, Grundriss der Stadt und Karte der Umgegend. Ulm1825.Ppb.",89,98.7,False,positional,,,OGGETTI IN RAME,,
-BO0624_88128,529579,8,11,"Dominikus, J..Heinrich, der Vierte, Konig von Navarra und Frankreich; eine Biographie aus Geschichtsquellen bearb. 2 Tle. in 1 Bde.mit Portr. 8.Zurch 1797 Halbleder. Engelhardt, C. M.Hercad v. Landsperg, Aebtissin zu Hohenburg oder St. Odilien i. Elsass i. 12. Jahrh.; nach ihr Duller,E.Erzherzog Carl von Oesterreich. Mit schonen Holzschnitten von M. v. Schwind, J. N. P. Geiger u.a. Lex. 8.Wien 1847.Halbfrz.",90,57.8,False,positional,,Scuola Viennese,Bicher,,
+BO0624_88128,529579,8,11,"Dominikus, J..Heinrich, der Vierte, Konig von Navarra und Frankreich; eine Biographie aus Geschichtsquellen bearb. 2 Tle. in 1 Bde.mit Portr. 8.Zurch 1797 Halbleder. Engelhardt, C. M.Hercad v. Landsperg, Aebtissin zu Hohenburg oder St. Odilien i. Elsass i. 12. Jahrh.; nach ihr Duller,E.Erzherzog Carl von Oesterreich. Mit schonen Holzschnitten von M. v. Schwind, J. N. P. Geiger u.a. Lex. 8.Wien 1847.Halbfrz.",90,57.8,False,positional,,Scuola Viennese,Bicher,,Sec. XII
 BO0624_88128,529580,9,14,"- Eugenii, Hertzogs von Savoyen Helden-Thaten.Teil Il. Mit 1. Karte. 8°. O. O. u. J. Pergt. Seite 601 bis Schluss fehlt.",95,100.0,False,positional,,,Bicher,,
 BO0624_88128,529581,10,15,"Fieffe, E. Geschichte der Fremdtruppen im Dienste Frankreichs. Mit",96,97.7,False,positional,,,Bicher,,
-BO0624_88128,529582,11,16,"Florinus, J. P. Grosser Herren Stands und Adelicher HausVatter. Teil Il. Mit einigen Kupf. Fol. Nurnbg. 1719.",98,98.5,False,positional,,,Bicher,,
-BO0624_88128,529583,12,18,"Gottfried, J. L.Historische Chronik. Bd.2 und 3 (von 1618 bis 1750). Mit zahlreichen Kupfern und Karten von Merian.Fol. Frankf. 1745/59.Ldr.u. Pergt. mit Beschlagen.",102,99.0,False,positional,,,OGGETTI IN RAME,,
-BO0624_88128,529584,13,19,"- Haberlin, F. D. Die allgem. Welthistorie durch eine Gesellschaft von Gelehrten in Teutschland u. Engelland ausgefertigt. In vollstand. u. pragmat.Auszuge mit Allegationen. Neue Historie. 8°.Halle 1767/73. Bd. 1/12. (482/1546.)",104,100.0,False,positional,,,Bicher,,
-BO0624_88128,529585,14,20,Lande.3 in 2 Bde.Frankenthal 1784.Leder.,106,96.3,False,positional,,,OGGETTI IN PELLE,,
+BO0624_88128,529582,11,16,"Florinus, J. P. Grosser Herren Stands und Adelicher HausVatter. Teil Il. Mit einigen Kupf. Fol. Nurnbg. 1719.",98,98.5,False,positional,,,Bicher,,Sec. XVIII
+BO0624_88128,529583,12,18,"Gottfried, J. L.Historische Chronik. Bd.2 und 3 (von 1618 bis 1750). Mit zahlreichen Kupfern und Karten von Merian.Fol. Frankf. 1745/59.Ldr.u. Pergt. mit Beschlagen.",102,99.0,False,positional,,,OGGETTI IN RAME,,Sec. XVII
+BO0624_88128,529584,13,19,"- Haberlin, F. D. Die allgem. Welthistorie durch eine Gesellschaft von Gelehrten in Teutschland u. Engelland ausgefertigt. In vollstand. u. pragmat.Auszuge mit Allegationen. Neue Historie. 8°.Halle 1767/73. Bd. 1/12. (482/1546.)",104,100.0,False,positional,,,Bicher,,Sec. XVIII
+BO0624_88128,529585,14,20,Lande.3 in 2 Bde.Frankenthal 1784.Leder.,106,96.3,False,positional,,,OGGETTI IN PELLE,,Sec. XVIII
 BO0624_88128,529586,15,21,"Heydelberg. Histor. Schau-Platz der alten berihmten Stadt,",107,97.3,False,positional,,,Bicher,,
-BO0624_88128,529587,16,22,"Hogarth, W. Zeichnungen, nach d. Originalen in Stahl gestochen.Mit Erklarung v.G.E.Lichtenberg. Hersg. v. F. Kottenkamp. Mit allen Bildern. 4°. Stg. 1840. Hfz.",109,99.0,False,title_direct,,,OGGETTI IN METALLO,,
-BO0624_88128,529588,17,23,"Hottenroth, F.Trachten, Haus, Feld-und Kriegsgeratschaften der Volker alter und neuer Zeit.2. A.2 Bde. mit 120 kol. Tafeln u.zahlr.Holzschnitten. 4°. Stg.1884/91.",110,99.0,False,positional,,,Bicher,,
+BO0624_88128,529587,16,22,"Hogarth, W. Zeichnungen, nach d. Originalen in Stahl gestochen.Mit Erklarung v.G.E.Lichtenberg. Hersg. v. F. Kottenkamp. Mit allen Bildern. 4°. Stg. 1840. Hfz.",109,99.0,False,title_direct,,,OGGETTI IN METALLO,,Sec. XIX
+BO0624_88128,529588,17,23,"Hottenroth, F.Trachten, Haus, Feld-und Kriegsgeratschaften der Volker alter und neuer Zeit.2. A.2 Bde. mit 120 kol. Tafeln u.zahlr.Holzschnitten. 4°. Stg.1884/91.",110,99.0,False,positional,,,Bicher,,Sec. XIX
 BO0624_88128,529589,18,24,Josephus. F: Historien und Bucher: Von alten juidischen Ge-,111,97.3,False,positional,BOUCHER FRANCOIS,,Bicher,,
-BO0624_88128,529590,19,25,"Kilian,W.Seren. Saxoniae elector. etquorund.ducum 28 Bl. in Kupf. gest.von V. S.Mangin. agnator.effigies. Mit Text.Fol. Augsburg 1621. In gepresst. am Rucken beschadigten Ledereinband.",113,99.1,False,positional,,,Bicher,,
-BO0624_88128,529591,20,26,"Klopstock, G.F. Poetische Werke. 5. Bde. Messias vollstand. Mit Kupf.16°.Wien,bey F. A. Schraembl, 1794/95. Einzelne zierliche Lederbde. Goedeke,unbekannter Nachdruck.",114,99.0,False,positional,,Scuola Viennese,Bicher,,
-BO0624_88128,529592,21,27,La Perousen’s Entdeckungsreise i. d.J. 1785/88. A. d.Franzos.m.,115,97.5,False,positional,,,Bicher,,
-BO0624_88128,529593,22,17,"- 28 Le Comte, L. Das heutige Sina a. d. Franzos. ibers. Mit schonen Kupfern.8. Frankf. 1699. Pergt. Einige",118,100.0,False,positional,,,OGGETTI IN RAME,,
-BO0624_88128,529594,23,29,"Lehmann,C. Chronica der Freyen Reichs Stadt Speier. 4.Edition, vermehrt durch J. M. Fuchs. Frankf. 1711. Pergt. Selten, besonders in so vorziglichem Zustande.",119,99.0,False,positional,,,Bicher,,
-BO0624_88128,529595,24,30,"Le Vaillant. Reise in das Innere von Afrika, vom Vorgebirge der guten Hoffnung aus.1780/85.A. d. Franz.5 Teile in 2 Bde.Frankf. 1790/97.Mit vielen Kupfn. Hfz. Einige Textblatter ausgeschnitten.",121,99.2,False,positional,,,Bicher,,
+BO0624_88128,529590,19,25,"Kilian,W.Seren. Saxoniae elector. etquorund.ducum 28 Bl. in Kupf. gest.von V. S.Mangin. agnator.effigies. Mit Text.Fol. Augsburg 1621. In gepresst. am Rucken beschadigten Ledereinband.",113,99.1,False,positional,,,Bicher,,Sec. XVII
+BO0624_88128,529591,20,26,"Klopstock, G.F. Poetische Werke. 5. Bde. Messias vollstand. Mit Kupf.16°.Wien,bey F. A. Schraembl, 1794/95. Einzelne zierliche Lederbde. Goedeke,unbekannter Nachdruck.",114,99.0,False,positional,,Scuola Viennese,Bicher,,Sec. XVIII
+BO0624_88128,529592,21,27,La Perousen’s Entdeckungsreise i. d.J. 1785/88. A. d.Franzos.m.,115,97.5,False,positional,,,Bicher,,Sec. XVIII
+BO0624_88128,529593,22,17,"- 28 Le Comte, L. Das heutige Sina a. d. Franzos. ibers. Mit schonen Kupfern.8. Frankf. 1699. Pergt. Einige",118,100.0,False,positional,,,OGGETTI IN RAME,,Sec. XVII
+BO0624_88128,529594,23,29,"Lehmann,C. Chronica der Freyen Reichs Stadt Speier. 4.Edition, vermehrt durch J. M. Fuchs. Frankf. 1711. Pergt. Selten, besonders in so vorziglichem Zustande.",119,99.0,False,positional,,,Bicher,,Sec. XVIII
+BO0624_88128,529595,24,30,"Le Vaillant. Reise in das Innere von Afrika, vom Vorgebirge der guten Hoffnung aus.1780/85.A. d. Franz.5 Teile in 2 Bde.Frankf. 1790/97.Mit vielen Kupfn. Hfz. Einige Textblatter ausgeschnitten.",121,99.2,False,positional,,,Bicher,,Sec. XVIII
 BO0624_88128,529596,25,31,"Luther, Kirchen Postilla d. i.: Auslegung der Episteln u. Evang. an Sonntagen und Festen,samt jren Registern.Mit vielen schonen Holzschnitten u. Initialen. Fol. Wittemb.",123,99.1,False,positional,,,Bicher,,
-BO0624_88128,529597,26,32,"Meissner, A., G., Skizzen. Teil Ill u. IV. 8. Carlsr. 1791/92.",124,97.1,False,positional,,,Bicher,,
+BO0624_88128,529597,26,32,"Meissner, A., G., Skizzen. Teil Ill u. IV. 8. Carlsr. 1791/92.",124,97.1,False,positional,,,Bicher,,Sec. XVIII
 BO0624_88128,529598,27,33,"Merian, Topographia Heluetiae Rhaetiae et Valesiae mit allen n 1 Halblederband.",125,84.9,False,positional,,,Bicher,,
-BO0624_88128,529599,28,34,"Metteren,E.,v.,Wahrhafftige Beschreibung aller denkwirdigsten Geschichten, so sonderlich in den Niederlanden auch sonsten in andern Reichen von anfang der Regierung Philippi Audacis, Hertzogen zu Burgund bis 1633 zugetragen. Geschr. in 52 Buchern,2 in 1 Bde. Fol. Amsterdam 1633/52.Schwldr.",128,99.5,False,positional,,,Bicher,,
-BO0624_88128,529600,29,35,"Petrarch, F., Trostspiegel in Glick und Unglick. Mit vielen Holzschnitten. Fol. Frankf., bey Christian Egenolffs Erben, 1572. Gepresster Pergamentband.",129,98.9,False,positional,,,Bicher,,
-BO0624_88128,529601,30,36,"Posselt, Geschichte Gustaf's ll, Konigs der Schweden und Gothen m. Bildn.8 80.Karlsr. 1792.Halbleder.",130,98.5,False,positional,,,Bicher,,
-BO0624_88128,529602,31,37,"Rabener, G. W., Satiren, Briefe u. dessen Leben u. Schriften. 5Bde. 80.Carlsr. 1775.Einz.Halbleder.",131,98.3,False,positional,,,Bicher,,
-BO0624_88128,529603,32,38,"Raderus, M., Bavaria sancta. Mit zahlr. schonen Kupfern. (Bd. I).Fol. Mon.1615.Gepresst. Lederbd. de Roo, G., Geschichte der Herzoge von Oesterreich, ibers. v.C. Dietz von Weidenberg.Mit 172 Portrats u. iber 300 Wappen. Fol. Augsb. 1621. Leder. Titelblatt fehlt. Teutscher Reichs-Staat oder ausfuihrl. u. umstandl. Beschreibung des heil. Rom. Reichs teutscher Nation nach dessen Ursprung alter und ietziger natirlicher Beschaffenheit und Eintheilung; praemitiret Bibliotheca juris publici. 2 in 1 Bd.4°.Leipz. 1706/07.Perg.",134,68.0,False,positional,,,OGGETTI IN PELLE,,
-BO0624_88128,529604,33,41,"Saar, J. J.,Ost-Indianische finzehnjahrige Kriegsdienste und Wahrhaftige Beschreib. was sich i644 59 zur See u. zu Land begeben, am allermeinsten auf der Insul Ceilon, zum and. herausg. Mit Portrats u. vielen Textbildern. Fol.Nirnb. 1672.Pappb.Deckel lose.",135,99.4,False,positional,,,Bicher,,
+BO0624_88128,529599,28,34,"Metteren,E.,v.,Wahrhafftige Beschreibung aller denkwirdigsten Geschichten, so sonderlich in den Niederlanden auch sonsten in andern Reichen von anfang der Regierung Philippi Audacis, Hertzogen zu Burgund bis 1633 zugetragen. Geschr. in 52 Buchern,2 in 1 Bde. Fol. Amsterdam 1633/52.Schwldr.",128,99.5,False,positional,,,Bicher,,Sec. XVII
+BO0624_88128,529600,29,35,"Petrarch, F., Trostspiegel in Glick und Unglick. Mit vielen Holzschnitten. Fol. Frankf., bey Christian Egenolffs Erben, 1572. Gepresster Pergamentband.",129,98.9,False,positional,,,Bicher,,Sec. XVI
+BO0624_88128,529601,30,36,"Posselt, Geschichte Gustaf's ll, Konigs der Schweden und Gothen m. Bildn.8 80.Karlsr. 1792.Halbleder.",130,98.5,False,positional,,,Bicher,,Sec. XVIII
+BO0624_88128,529602,31,37,"Rabener, G. W., Satiren, Briefe u. dessen Leben u. Schriften. 5Bde. 80.Carlsr. 1775.Einz.Halbleder.",131,98.3,False,positional,,,Bicher,,Sec. XVIII
+BO0624_88128,529603,32,38,"Raderus, M., Bavaria sancta. Mit zahlr. schonen Kupfern. (Bd. I).Fol. Mon.1615.Gepresst. Lederbd. de Roo, G., Geschichte der Herzoge von Oesterreich, ibers. v.C. Dietz von Weidenberg.Mit 172 Portrats u. iber 300 Wappen. Fol. Augsb. 1621. Leder. Titelblatt fehlt. Teutscher Reichs-Staat oder ausfuihrl. u. umstandl. Beschreibung des heil. Rom. Reichs teutscher Nation nach dessen Ursprung alter und ietziger natirlicher Beschaffenheit und Eintheilung; praemitiret Bibliotheca juris publici. 2 in 1 Bd.4°.Leipz. 1706/07.Perg.",134,68.0,False,positional,,,OGGETTI IN PELLE,,Sec. XVII
+BO0624_88128,529604,33,41,"Saar, J. J.,Ost-Indianische finzehnjahrige Kriegsdienste und Wahrhaftige Beschreib. was sich i644 59 zur See u. zu Land begeben, am allermeinsten auf der Insul Ceilon, zum and. herausg. Mit Portrats u. vielen Textbildern. Fol.Nirnb. 1672.Pappb.Deckel lose.",135,99.4,False,positional,,,Bicher,,Sec. XVII
 BO0624_88128,529605,34,42,"Sandrart, Teutsche Akademie der Edlen Bau- Bild- u. Mahlerey-",136,97.4,False,positional,,,Bicher,,
-BO0624_88128,529606,35,43,"Schmid, C., H, Nekrolog oder Nachrichten v. d. Leben und Schriften d. vornehmsten verstorb. teutschen Dichter. 2 in 1 Bd.8°.Berl. 1785.Halbleder.",141,98.9,False,positional,,,Bicher,,
+BO0624_88128,529606,35,43,"Schmid, C., H, Nekrolog oder Nachrichten v. d. Leben und Schriften d. vornehmsten verstorb. teutschen Dichter. 2 in 1 Bd.8°.Berl. 1785.Halbleder.",141,98.9,False,positional,,,Bicher,,Sec. XVIII
 BO0624_88128,529607,36,44,"Seutter, M., Atlas von Europa; mehrere kol. Karten mit StadteBeiprospekten aus demselben. Fol. Augsb. 17.. geb. viele schone Architekturen aus Rom, in Kupfer. Tafeln und Einband beschadigt.",142,99.2,False,positional,,,OGGETTI IN RAME,,
 BO0624_88128,529608,37,45,"Sined's, des Barden Lieder. Mit Vorbericht u. Anmerkungen",143,97.3,False,positional,,,Bicher,,
-BO0624_88128,529609,38,46,"Sleidanus, J., Beschreibunge allerley Handel in Glaubens und anderen Weltlichen Sachen, bey Regierung Kaiser Carl deB Funften. Beigeb. M. Beuther von Carlstatt, Verzeichnisse allerley Sachen und Handel vom 1550 Jahre bis Frankf., Johann Feyerabendt, 1583. Gepresst. Pergam.Bd.Haupttitel und einige Blatter",145,99.5,False,positional,,,Bicher,,
-BO0624_88128,529610,39,49,"Stumpff, J.,Kayser Heinrychs des vierdten Hertzogen zu Franken und am Rhin Funfftzigjahrige Historia. Aus den alt. latin. Geschichtsschreibern in Teutsche spraach gezogen. Mit vielen schonen Holzschnitten. Dasselbe,deB groBen gemeinen Conciliums zu Constantz beschreybung. Fol. Zurych, Christoffel Froschouer 1566. In 1 Perg.Bd.",149,99.5,False,positional,,Famiglia Francken,Bicher,,
-BO0624_88128,529611,40,51,"- Tasso, Versuch einer poet. Ubersetz. des Heldengedichts gen.: Gottfried, od. d. befreyte Jerusalem. Von V. J. F. Koppen. Mit Titelkupf. 8.Leipz. 1744.Halbleder.",153,100.0,False,positional,,,Bicher,,
-BO0624_88128,529612,41,52,"Tentzel,W. E., Saxonia numismatica oder Medaillen-Kabinet von Gedachtnis-Minzen und Schau-Pfennigen Ernestinischer Haupt-Linie, Text mit gegenuberst. lat.Ubersetz. Mit 57 Tafeln Munzabbildg. 4°.Dresden 1705. Pergt.",154,99.3,False,title_direct,,,Minzen,,
-BO0624_88128,529613,42,53,"(Bibel). Das New Testament. Teutsch mit schonen Figuren. (200 Bl.) Fol. (Wittemb.Melch.Lother.) 1524 Leder. Die Holzschnitte teilweise bemalt,mehrere Blatter fehlend.",155,99.0,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88128,529614,43,54,"Das neue Testament, nach Luthers Uebersetz. 16 mo Leip., K. Tauchnitz 1818. Mit Titelstich in feinem Seidenband.",156,98.6,False,positional,,,Bicher,,
+BO0624_88128,529609,38,46,"Sleidanus, J., Beschreibunge allerley Handel in Glaubens und anderen Weltlichen Sachen, bey Regierung Kaiser Carl deB Funften. Beigeb. M. Beuther von Carlstatt, Verzeichnisse allerley Sachen und Handel vom 1550 Jahre bis Frankf., Johann Feyerabendt, 1583. Gepresst. Pergam.Bd.Haupttitel und einige Blatter",145,99.5,False,positional,,,Bicher,,Sec. XVI
+BO0624_88128,529610,39,49,"Stumpff, J.,Kayser Heinrychs des vierdten Hertzogen zu Franken und am Rhin Funfftzigjahrige Historia. Aus den alt. latin. Geschichtsschreibern in Teutsche spraach gezogen. Mit vielen schonen Holzschnitten. Dasselbe,deB groBen gemeinen Conciliums zu Constantz beschreybung. Fol. Zurych, Christoffel Froschouer 1566. In 1 Perg.Bd.",149,99.5,False,positional,,Famiglia Francken,Bicher,,Sec. XVI
+BO0624_88128,529611,40,51,"- Tasso, Versuch einer poet. Ubersetz. des Heldengedichts gen.: Gottfried, od. d. befreyte Jerusalem. Von V. J. F. Koppen. Mit Titelkupf. 8.Leipz. 1744.Halbleder.",153,100.0,False,positional,,,Bicher,,Sec. XVIII
+BO0624_88128,529612,41,52,"Tentzel,W. E., Saxonia numismatica oder Medaillen-Kabinet von Gedachtnis-Minzen und Schau-Pfennigen Ernestinischer Haupt-Linie, Text mit gegenuberst. lat.Ubersetz. Mit 57 Tafeln Munzabbildg. 4°.Dresden 1705. Pergt.",154,99.3,False,title_direct,,,Minzen,,Sec. XVIII
+BO0624_88128,529613,42,53,"(Bibel). Das New Testament. Teutsch mit schonen Figuren. (200 Bl.) Fol. (Wittemb.Melch.Lother.) 1524 Leder. Die Holzschnitte teilweise bemalt,mehrere Blatter fehlend.",155,99.0,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_88128,529614,43,54,"Das neue Testament, nach Luthers Uebersetz. 16 mo Leip., K. Tauchnitz 1818. Mit Titelstich in feinem Seidenband.",156,98.6,False,positional,,,Bicher,,Sec. XIX
 BO0624_88128,529615,44,55,Theatrum Europaeum oder auBfuhrl. u. wahrhafftige Beschrei-,157,97.4,False,positional,,,Bicher,,
-BO0624_88128,529616,45,56,"Valckenier,P.Das verrwirrte Europa oder polit. u.histor. Weisser, L. Bilderatlas zur Weltgeschichte. 2in 1 Bde.mit 146 Tafeln Fol.Stg. 1860/68. Orig. Hfrz. Textbde. in 8 fehlen. A.Kriegel.8o.Leipzig 1731.Perg.",162,72.0,False,positional,,,Bicher,,
+BO0624_88128,529616,45,56,"Valckenier,P.Das verrwirrte Europa oder polit. u.histor. Weisser, L. Bilderatlas zur Weltgeschichte. 2in 1 Bde.mit 146 Tafeln Fol.Stg. 1860/68. Orig. Hfrz. Textbde. in 8 fehlen. A.Kriegel.8o.Leipzig 1731.Perg.",162,72.0,False,positional,,,Bicher,,Sec. XIX
 BO0624_88128,529617,46,59,"Wilhelm Ludwig, Hertzog zu Wirtemberg u. Teck und Magdalene Sibylla geb Landgrafin zu Hessen. Vorstellung Stuttgartischer Jungstgehaltener Heimfuihrungsbegangnis. Mit 7 groBen Kupfern. Fol. Stg., durch Johann Weyrich",164,99.3,False,positional,,,OGGETTI IN RAME,,
 BO0624_88128,529618,47,60,Zur Geschichte der Kostime. 87 Minchner Bilderbogen. (Braun &amp; Schneider.) Fol. Schwarze Ausgabe. Halbleinw.,165,98.5,False,title_direct,,,Kostiime,,
 BO0624_88128,529619,48,62,62,168,100.0,False,positional,,,Bicher,,
 BO0624_88128,529620,49,63,Orientalische Buchmappe von gepreBtem Leder mit Geflecht.,170,97.4,False,positional,,,OGGETTI IN PELLE,,
-BO0624_88128,529621,50,64,"Aus dem Schwabenland. Malerische Ansichten i. Landschaft u. Architektur.Orig.-Zeichnungen v.Robert Stieler, Sonette v. Ed. Paulus. M.31 Bildern in feinstem Tondruck. Gr.Fol. Stg.1878. Hlblwd.(M.50.—). Ganz sauberes Ex.",173,99.3,False,title_direct,,,Zeichnungen,,
+BO0624_88128,529621,50,64,"Aus dem Schwabenland. Malerische Ansichten i. Landschaft u. Architektur.Orig.-Zeichnungen v.Robert Stieler, Sonette v. Ed. Paulus. M.31 Bildern in feinstem Tondruck. Gr.Fol. Stg.1878. Hlblwd.(M.50.—). Ganz sauberes Ex.",173,99.3,False,title_direct,,,Zeichnungen,,Sec. XIX
 BO0624_88128,529622,51,65,"Bode, H. Meisterwerke d.Malerei; Alte Meister. 2. Sammlung. Mit 72 Blatt i. Photogravure. 53X39,5 cm. (Berl. ).Orig.-Prachtband (100.—). Ganz wie neu.",174,84.3,False,positional,,,Bicher,,
 BO0624_88128,529623,52,66,115.—). Ganz wie neues Eyempl.,177,94.3,False,positional,,,Bicher,,
-BO0624_88128,529624,53,67,Hogarth's Werke. Nach d. Original-Platten photolitogr.v. C.Haack nebst biograph. Essay u. Erklarungen von J. Nichols. Bearb.v.E.C. Barschall. 118 Blatt Fol. Brinn 1878. In Lwdmappe. (140.—),178,99.1,False,positional,,,PIATTI,,
+BO0624_88128,529624,53,67,Hogarth's Werke. Nach d. Original-Platten photolitogr.v. C.Haack nebst biograph. Essay u. Erklarungen von J. Nichols. Bearb.v.E.C. Barschall. 118 Blatt Fol. Brinn 1878. In Lwdmappe. (140.—),178,99.1,False,positional,,,PIATTI,,Sec. XIX
 BO0624_88128,529625,54,68,"Mayer, Carl Ritter von, Heraldisches A.-B.-C.-Buch; das ist:",179,97.2,False,positional,,,Bicher,,
-BO0624_88128,529626,55,69,"Sattler,C. F. Topographische Geschichte d. Herzogth. Wirtemberg u. aller einverleibten Herrschaften.M. Kpfn. 4°.Stg. 1874. Hpgt.—Histor.Beschr.des Herzogth. Wurt.M. Kpfrn.Ebd.1757 Ppl.Geschichte d.Herzogth. Wurt. n. angranz. Gebiethe v. d. altest. Zeiten bis 1260.M.Kpfrn.Tub.1757 Ldr.—Gesch.d.Herzogth. Wirt.unt.d. Regier.d. Graven.5 Bde. M.Kpfrn. Ulm 1767/68 Pbl.Gesch. d. Herzogth.Wurt. unt. d. Reg. d. Herzogen.13 Bde.M.Kpfrn.Tub.1769/83 Ppl.— Alle erschien.Bde. des gesuchten Werkes textl. vollstandig, i.d. letzten 18 Bdn. ein groBerer Teil der Kpfr.fehlend. a Schott, Joh. Gottlieb (Professor a. d. Hohen Karlsschule).",181,94.8,False,positional,,,Bicher,,
+BO0624_88128,529626,55,69,"Sattler,C. F. Topographische Geschichte d. Herzogth. Wirtemberg u. aller einverleibten Herrschaften.M. Kpfn. 4°.Stg. 1874. Hpgt.—Histor.Beschr.des Herzogth. Wurt.M. Kpfrn.Ebd.1757 Ppl.Geschichte d.Herzogth. Wurt. n. angranz. Gebiethe v. d. altest. Zeiten bis 1260.M.Kpfrn.Tub.1757 Ldr.—Gesch.d.Herzogth. Wirt.unt.d. Regier.d. Graven.5 Bde. M.Kpfrn. Ulm 1767/68 Pbl.Gesch. d. Herzogth.Wurt. unt. d. Reg. d. Herzogen.13 Bde.M.Kpfrn.Tub.1769/83 Ppl.— Alle erschien.Bde. des gesuchten Werkes textl. vollstandig, i.d. letzten 18 Bdn. ein groBerer Teil der Kpfr.fehlend. a Schott, Joh. Gottlieb (Professor a. d. Hohen Karlsschule).",181,94.8,False,positional,,,Bicher,,Sec. XIX
 BO0624_88128,529627,56,70,Ferienreisende.,187,90.3,False,positional,,,Zeichnungen,,
 BO0624_88128,529628,57,71,In der Kirche.,188,89.7,False,positional,,,Zeichnungen,,
 BO0624_88128,529629,58,73,"- 72 4 Blatt ,Rotkappchen"".",190,100.0,False,positional,,,Zeichnungen,,
@@ -190,7 +190,7 @@ BO0624_88128,529759,188,326,"- Ragusa,",617,100.0,False,positional,,,Zeichnungen
 BO0624_88128,529760,189,329,"""",618,0.0,False,positional,,,Zeichnungen,,
 BO0624_88128,529761,190,2,"farbige Trachten, Solothurn.",619,96.3,False,positional,,,Zeichnungen,,
 BO0624_88128,529762,191,327,Farbige Costuime aus Castel nuovo. 328,620,94.9,False,positional,,,Zeichnungen,,
-BO0624_88128,529763,192,330,"Familie Mais, Zurich, Besitzer von Schloss Wuilflingen. Ca. 1680.",621,96.8,False,positional,,,Zeichnungen,,
+BO0624_88128,529763,192,330,"Familie Mais, Zurich, Besitzer von Schloss Wuilflingen. Ca. 1680.",621,96.8,False,positional,,,Zeichnungen,,Sec. XVII
 BO0624_88128,529764,193,331,"Reizendes Kostimbild, farbig.",624,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,529765,194,332,"- Frau aus Sebenico ragazza, farbig.",627,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,529766,195,333,"Mann und Frau aus Solothurn, farbig.",628,94.4,False,positional,,,Zeichnungen,,
@@ -208,13 +208,13 @@ BO0624_88128,529777,206,348,"Zara. "" "" "" Castel nuovo. ""9 """,652,81.1,False
 BO0624_88128,529778,207,349,"Farbige Tracht aus Zara. Darstellungen nach Aschenurnen in Volterra. 99 "" """,654,74.8,False,positional,,,Zeichnungen,,
 BO0624_88128,529779,208,352,- Grabmaler aus der Domkirche in Verona.,657,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,529780,209,353,- Schweizer Trachten.,659,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,529781,210,354,""" "" 355 Trachten von 1809.",660,91.3,False,positional,,,Zeichnungen,,
+BO0624_88128,529781,210,354,""" "" 355 Trachten von 1809.",660,91.3,False,positional,,,Zeichnungen,,Sec. XIX
 BO0624_88128,529782,211,356,- Hollander Trachten.,662,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,529783,212,357,- Franzosische Trachten.,664,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,529784,213,358,"- Englander. "" "" 360 Trachten von 1802/09. 99",668,82.4,False,positional,,,Zeichnungen,,
-BO0624_88128,529785,214,362,1808/09.,669,77.8,False,positional,,,Zeichnungen,,
-BO0624_88128,529786,215,363,- 1809.,671,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,529787,216,364,Oesterreicher 1710-30. Sitzender Mann. Konstanzer 1738.,673,54.5,False,positional,,,Zeichnungen,,
+BO0624_88128,529784,213,358,"- Englander. "" "" 360 Trachten von 1802/09. 99",668,82.4,False,positional,,,Zeichnungen,,Sec. XIX
+BO0624_88128,529785,214,362,1808/09.,669,77.8,False,positional,,,Zeichnungen,,Sec. XIX
+BO0624_88128,529786,215,363,- 1809.,671,100.0,False,positional,,,Zeichnungen,,Sec. XIX
+BO0624_88128,529787,216,364,Oesterreicher 1710-30. Sitzender Mann. Konstanzer 1738.,673,54.5,False,positional,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,529788,217,367,"Entwurf zu einer Menukarte. 2 2Kostumblatter. 3 Studienblatter, darunter Sebastian Schmid, Kgl. Kutscher.",678,70.9,False,positional,,,Zeichnungen,,
 BO0624_88128,529789,218,370,2 Studienblatter.,679,88.9,False,positional,,,Zeichnungen,,
 BO0624_88128,529790,219,371,3 3,681,75.0,False,positional,CHARDIN J.B.S.,,Zeichnungen,,
@@ -248,7 +248,7 @@ BO0624_88128,529817,246,429,Fischverkauferin.,756,88.9,False,positional,,,Zeichn
 BO0624_88128,529818,247,430,Seideweberei in Buochs.,758,91.7,False,positional,,,Zeichnungen,,
 BO0624_88128,529819,248,432,- 431 Schweizer Senner.,760,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,529820,249,433,- Alpenfihrer.,762,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,529821,250,434,Kostuime von 1700 u. 1707.,763,92.3,False,title_direct,,,Kostiime,,
+BO0624_88128,529821,250,434,Kostuime von 1700 u. 1707.,763,92.3,False,title_direct,,,Kostiime,,Sec. XVIII
 BO0624_88128,529822,251,435,Studienblatt. 66 Kostimblatt.,767,61.9,False,positional,,,Zeichnungen,,
 BO0624_88128,529823,252,438,3 Blatter Bauernstudien. 3 - Studienblatter.,768,68.7,False,positional,,,Zeichnungen,,
 BO0624_88128,529824,253,441,"2 Sitzender Geistlicher. 3 """,775,88.0,False,positional,,,Zeichnungen,,
@@ -322,7 +322,7 @@ BO0624_88128,529891,320,563,Turkin. Sitzendes Madchen mit Mandoline. Kosake.,943
 BO0624_88128,529892,321,566,Turkin.,945,75.0,False,positional,,,Zeichnungen,,
 BO0624_88128,529893,322,567,Kostimbild.,946,83.3,False,title_direct,,,Kostiime,,
 BO0624_88128,529894,323,568,- 569 Zwei Turken.,948,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,529895,324,570,571 Schlachtenbilder von 1709 und 1718.,950,95.0,False,positional,,,Zeichnungen,,
+BO0624_88128,529895,324,570,571 Schlachtenbilder von 1709 und 1718.,950,95.0,False,positional,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,529896,325,573,- 572,956,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,529897,326,574,Schildwache. 2 Kostimbilder. Soldatenbild.,960,52.6,False,positional,,,Zeichnungen,,
 BO0624_88128,529898,327,577,"3 Studienblatter. 580 Soldatenbild, (XVIll. Jahrh.).",966,75.3,False,positional,,,Zeichnungen,,
@@ -454,15 +454,15 @@ BO0624_88128,530023,452,831,"3 Entwirfe zu Programmen u. Titelblattern. Entwurf 
 BO0624_88128,530024,453,834,"Entwurf zu einem Werk ,Natur u. Kunst"" Titelblatt.",1434,95.8,False,positional,,,Zeichnungen,,
 BO0624_88128,530025,454,836,"- 835 Entwurf zu einem Titelblatt ,Homer's Odyssee"".",1436,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530026,455,837,"Entwurf zu einem Titelblatt ,Casar de bello Gallico.",1437,96.2,False,positional,,,Zeichnungen,,
-BO0624_88128,530027,456,838,"2 Studien zu Titelblattern. Titelblatt zu einem Kriegswerk ,1870/71"" Studie zu einem Bilderbuch. Sehr schon!",1441,54.2,False,positional,,,Zeichnungen,,
+BO0624_88128,530027,456,838,"2 Studien zu Titelblattern. Titelblatt zu einem Kriegswerk ,1870/71"" Studie zu einem Bilderbuch. Sehr schon!",1441,54.2,False,positional,,,Zeichnungen,,Sec. XIX
 BO0624_88128,530028,457,841,Kriegsbeute.,1442,84.6,False,positional,,,Zeichnungen,,
 BO0624_88128,530029,458,842,Titelblatt zur Geschichte der Commune Paris.,1443,95.6,False,positional,,,Zeichnungen,,
-BO0624_88128,530030,459,843,Ilustrierte Geschichte des Krieges 1870/71. Titelblatt vom Kriegsschauplatz.,1444,70.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530030,459,843,Ilustrierte Geschichte des Krieges 1870/71. Titelblatt vom Kriegsschauplatz.,1444,70.0,False,positional,,,Zeichnungen,,Sec. XIX
 BO0624_88128,530031,460,844,846 847 Geschichte des Deutsch-Franzosischen Krieges. 66,1452,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530032,461,848,"Titelblatt ,Die Wacht am Rhein"".",1456,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530033,462,849,"Vom Kriegsschauplatz"" Titelblatt.",1460,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530034,463,850,Titelblatt zu einem osterr. Werke.,1464,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530035,464,851,zu einem Werke 1870/71.,1466,91.7,False,positional,,,Zeichnungen,,
+BO0624_88128,530035,464,851,zu einem Werke 1870/71.,1466,91.7,False,positional,,,Zeichnungen,,Sec. XIX
 BO0624_88128,530036,465,853,852 Allegorische Darstellung.,1470,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530037,466,854,3 Blatt Rotkappchen u. Wolf.,1472,92.9,False,positional,,,Zeichnungen,,
 BO0624_88128,530038,467,855,6 Kinderbilder 5 Blatt Kinderbilderbogen 9,1478,73.2,False,positional,,,Zeichnungen,,
@@ -549,11 +549,11 @@ BO0624_88128,530118,547,1034,"11 "" 9 """,1842,60.0,False,positional,,,Zeichnung
 BO0624_88128,530119,548,1035,8,1844,28.6,False,positional,D'HONDECOETER MELCHIOR,,Zeichnungen,,
 BO0624_88128,530120,549,1037,- 11 Gewandstudien.,1848,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530121,550,1038,12,1850,44.4,False,positional,,,Zeichnungen,,
-BO0624_88128,530122,551,1040,Wurtt. Jager im Strassenkampf (1870/71). Studienblatt.,1851,80.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530123,552,1041,- 1043 1044 14 Studien.,1855,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530124,553,1046,"- 1045 12 """,1859,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530125,554,10,1047,1863,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530126,555,10,|   1049 | ””   | ”   |   52 | ”   |,1867,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530122,551,1040,Wurtt. Jager im Strassenkampf (1870/71). Studienblatt.,1851,80.0,False,positional,,,Zeichnungen,,Sec. XIX
+BO0624_88128,530123,552,1041,- 1043 1044 14 Studien.,1855,100.0,False,positional,,,Zeichnungen,,Sec. XI
+BO0624_88128,530124,553,1046,"- 1045 12 """,1859,100.0,False,positional,,,Zeichnungen,,Sec. XI
+BO0624_88128,530125,554,10,1047,1863,100.0,False,positional,,,Zeichnungen,,Sec. XI
+BO0624_88128,530126,555,10,|   1049 | ””   | ”   |   52 | ”   |,1867,100.0,False,positional,,,Zeichnungen,,Sec. XI
 BO0624_88128,530127,556,1050,| ”    |     |   36 | 99  |,1869,66.7,False,positional,,,Zeichnungen,,
 BO0624_88128,530128,557,1051,|      | ”   |   50 | ”   |,1870,44.4,False,positional,,Scuola di Dusseldorf,Zeichnungen,,
 BO0624_88128,530129,558,1052,| ”    |     |   61 | ”   |,1871,44.4,False,positional,,,Zeichnungen,,
@@ -589,19 +589,19 @@ BO0624_88128,530158,587,1081,Aquarell von demselben. Hervorragend schon ausgefuh
 BO0624_88128,530159,588,1082,Allegorische Darstellung vom Hohenhafen. Aquarell. Gesamtbild vom Hause Hohenhafen.Aquarell. Richendahl. Aquarell.,1918,59.3,False,title_direct,,,Aquarelle,,
 BO0624_88128,530160,589,1085,Weibl. Figur mit Wappen von Constanz. Aquarell. Skizze 66 Zeichnung zum Hause Hohenhafen.,1924,65.7,False,title_direct,,,Aquarelle,,
 BO0624_88128,530161,590,1088,Bleistiftzeichnung zum Hause Hohenhafen.,1934,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530162,591,1089,1090,1938,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530162,591,1089,1090,1938,100.0,False,positional,,,Zeichnungen,,Sec. XI
 BO0624_88128,530163,592,1091,3,1942,28.6,False,positional,CHARDIN J.B.S.,,Zeichnungen,,
 BO0624_88128,530164,593,3,Pausen zum Hause Hohenhafen.,1944,96.4,False,positional,,,Zeichnungen,,
-BO0624_88128,530165,594,1093,"1092 4 Inselhotel. "" """,1950,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530165,594,1093,"1092 4 Inselhotel. "" """,1950,100.0,False,positional,,,Zeichnungen,,Sec. XI
 BO0624_88128,530166,595,1094,"und Hohenhafen. "" "" """,1954,84.8,False,positional,,,Zeichnungen,,
-BO0624_88128,530167,596,1096,1095 Aquarelle zum Inselhotel.,1962,90.6,False,title_direct,,,Aquarelle,,
+BO0624_88128,530167,596,1096,1095 Aquarelle zum Inselhotel.,1962,90.6,False,title_direct,,,Aquarelle,,Sec. XI
 BO0624_88128,530168,597,1097,"Skizze """,1964,70.6,False,positional,,,Zeichnungen,,
 BO0624_88128,530169,598,1098,Fries aus dem Rathaus. Fries vom Rathaus. Empfang Kaiser Wilhelms Il. durch den Oberbirgermeister.,1972,71.9,False,positional,,,Zeichnungen,,
 BO0624_88128,530170,599,1101,mit Wessenberg. 2 Blatt Konziliumsaal etc. Huss auf dem Scheiterhaufen.,1976,58.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530171,600,1104,Das Minster.,1977,81.5,False,positional,,,Zeichnungen,,
 BO0624_88128,530172,601,1105,Strasse in Konstanz.,1979,88.4,False,positional,,,Zeichnungen,,
 BO0624_88128,530173,602,1106,2 Blatter von Stein a. Rh.,1983,90.6,False,positional,,,Zeichnungen,,
-BO0624_88128,530174,603,1107,1108,1987,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530174,603,1107,1108,1987,100.0,False,positional,,,Zeichnungen,,Sec. XII
 BO0624_88128,530175,604,2,"Blatter,Stein a. Rh.und Stihlingen.",1989,97.1,False,positional,,,Zeichnungen,,
 BO0624_88128,530176,605,1110,Bricke in Stein a. Rh. 2,1993,95.2,False,positional,,,Zeichnungen,,
 BO0624_88128,530177,606,1111,Franziskanertor in Ueberlingen.,1999,92.3,False,positional,,,Zeichnungen,,
@@ -609,53 +609,53 @@ BO0624_88128,530178,607,1112,"Mumelsee. Aquarell. "" Schloss Baden. ,",2003,64.2
 BO0624_88128,530179,608,1115,Herrenchiemsee. Kahn a. Chiemsee. Fraueninsel a. Chiemsee.,2015,57.5,False,positional,,,Zeichnungen,,
 BO0624_88128,530180,609,1118,Haiserbach. Bornholm. Koln.-,2017,51.3,False,positional,,,Zeichnungen,,
 BO0624_88128,530181,610,1121,"Am Hammersee (Bornholm). "" Hammerhus (Bornholm).",2023,63.6,False,positional,,,Zeichnungen,,
-BO0624_88128,530182,611,1124,"1125 Amsterdam, die Waag.",2031,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530182,611,1124,"1125 Amsterdam, die Waag.",2031,100.0,False,positional,,,Zeichnungen,,Sec. XII
 BO0624_88128,530183,612,1126,Hafen von Amsterdam. Promenade in Interlaken. Staubbach.,2034,59.3,False,positional,,,Zeichnungen,,
-BO0624_88128,530184,613,1129,1131 7 Blatt von Buochs.,2042,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530184,613,1129,1131 7 Blatt von Buochs.,2042,100.0,False,positional,,,Zeichnungen,,Sec. XII
 BO0624_88128,530185,614,1130,Schaffhausen.,2044,82.8,False,positional,,,Zeichnungen,,
 BO0624_88128,530186,615,1132,"Guin, Bauernhauser. 2 Studienblatter, Bern und Zurich. Halteplatz der Post in Andermatt.",2048,55.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530187,616,1135,Promenade in Bern. Bei Katzis. Architekturbild von Bern. Reizend.,2056,67.3,False,positional,,,Zeichnungen,,
 BO0624_88128,530188,617,1138,Magedino Lago maggiore. Aquarell.,2058,92.5,False,title_direct,,,Aquarelle,,
-BO0624_88128,530189,618,1140,1139 Bauernhauser im Gebirge.,2062,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530189,618,1140,1139 Bauernhauser im Gebirge.,2062,100.0,False,positional,,,Zeichnungen,,Sec. XII
 BO0624_88128,530190,619,1141,Einfahrt i. d. Bardo.,2064,87.8,False,positional,,,Zeichnungen,,
 BO0624_88128,530191,620,1142,Goletta. Arabische Wohnung bei Goletta am See von Tunis. Tunis.,2072,84.7,False,positional,,,Zeichnungen,,
 BO0624_88128,530192,621,1145,Beduinenzelt bei Goletta. 66 Strasse in Tunis.,2076,65.8,False,positional,,,Zeichnungen,,
 BO0624_88128,530193,622,1148,Am See von Tunis. Hafen von Goletta. Am Hafen von Goletta.,2086,52.5,False,positional,,,Zeichnungen,,
 BO0624_88128,530194,623,1151,Windmihle bei Goletta. Rasierbude in Tunis. und Araber (auf 1 Blatt).,2094,50.5,False,positional,,,Zeichnungen,,
-BO0624_88128,530195,624,1154,1155,2098,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530195,624,1154,1155,2098,100.0,False,positional,,,Zeichnungen,,Sec. XII
 BO0624_88128,530196,625,1156,"Ruine v. Karthago,Neger in Vermummung, Eingang zum",2104,95.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530197,626,1157,"Markt in Tara, kath. Gottesdienst in Grudda, Einfahrt in",2106,95.5,False,positional,,,Zeichnungen,,
 BO0624_88128,530198,627,1158,Drei Volksszenen aus Montenegro u. Bucht v. Cattaro,2114,95.1,False,positional,,,Zeichnungen,,
 BO0624_88128,530199,628,1159,"Szenen aus Tunis, Cafe in Sidi Said u. Bucht v. Carthago",2116,95.5,False,positional,,,Zeichnungen,,
 BO0624_88128,530200,629,1160,Ragusa. Aquarell.,2118,85.7,False,title_direct,,,Aquarelle,,
 BO0624_88128,530201,630,1161,"Kaiserpalaste in Rom. Rom, Tiberinsel. Rom von den Kaiserpalasten.",2126,58.1,False,positional,,,Zeichnungen,,
-BO0624_88128,530202,631,1164,1166 Neapel.,2130,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530202,631,1164,1166 Neapel.,2130,100.0,False,positional,,,Zeichnungen,,Sec. XII
 BO0624_88128,530203,632,1165,"Tempel des Augustus. """,2132,88.4,False,positional,,,Zeichnungen,,
 BO0624_88128,530204,633,1167,”,2136,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530205,634,1168,"- Venedig. Venedig, Giardini publici. Sehr interessante Zeichnung. 2 Blatt Venedig.",2139,79.7,False,positional,,,Zeichnungen,,
-BO0624_88128,530206,635,1171,1172 2,2143,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530206,635,1171,1172 2,2143,100.0,False,positional,,,Zeichnungen,,Sec. XII
 BO0624_88128,530207,636,2,Studienblatter v. Venedig.,2145,96.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530208,637,1173,"Pompeji Casa di Rufus. "" """,2147,89.4,False,positional,,,Zeichnungen,,
-BO0624_88128,530209,638,1174,1176,2153,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530209,638,1174,1176,2153,100.0,False,positional,,,Zeichnungen,,Sec. XII
 BO0624_88128,530210,639,1175,"Tempel der Fortuna. """,2155,87.8,False,positional,,,Zeichnungen,,
 BO0624_88128,530211,640,1178,"Palazzo di Podesta, Florenz. Florenz. Aquarell.",2161,70.3,False,title_direct,,,Aquarelle,,
 BO0624_88128,530212,641,1179,- Markt in Florenz. Aquarell.,2164,100.0,False,title_direct,,,Aquarelle,,
-BO0624_88128,530213,642,1180,- 1182,2166,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530214,643,1181,"Florenz, Piazza delle Signorin. Aquarell.",2168,93.8,False,title_direct,,,Aquarelle,,
+BO0624_88128,530213,642,1180,- 1182,2166,100.0,False,positional,,,Zeichnungen,,Sec. XII
+BO0624_88128,530214,643,1181,"Florenz, Piazza delle Signorin. Aquarell.",2168,93.8,False,title_direct,PIAZZETTA JEAN-BAPTISTE,,Aquarelle,,
 BO0624_88128,530215,644,1183,Florenz.,2169,73.7,False,positional,,,Zeichnungen,,
 BO0624_88128,530216,645,1184,Strasse in Florenz. Aquarell.,2171,91.5,False,title_direct,,,Aquarelle,,
-BO0624_88128,530217,646,1186,"- 1185 S. Domenico Zara. Aquarell. """,2179,96.6,False,title_direct,,,Aquarelle,,
-BO0624_88128,530218,647,1189,- 1191,2185,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530217,646,1186,"- 1185 S. Domenico Zara. Aquarell. """,2179,96.6,False,title_direct,,,Aquarelle,,Sec. XII
+BO0624_88128,530218,647,1189,- 1191,2185,100.0,False,positional,,,Zeichnungen,,Sec. XII
 BO0624_88128,530219,648,1190,Pola.,2186,61.5,False,positional,,,Zeichnungen,,
 BO0624_88128,530220,649,1193,"Haus in Capri. """,2189,83.9,False,positional,,,Zeichnungen,,
 BO0624_88128,530221,650,1194,4 Historische Darstellung.,2193,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530222,651,1195,Architekturstudie. Kahn. Klostermauern.,2197,64.2,False,positional,,,Zeichnungen,,
-BO0624_88128,530223,652,1198,1199 Bauernhaus.,2205,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530223,652,1198,1199 Bauernhaus.,2205,100.0,False,positional,,,Zeichnungen,,Sec. XII
 BO0624_88128,530224,653,1200,Levanto. Levanto. Le Rici.,2211,46.7,False,positional,,,Zeichnungen,,
 BO0624_88128,530225,654,1203,"- Noli, Brunnen. Vorzuglich.",2219,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530226,655,1205,1204,2223,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530226,655,1205,1204,2223,100.0,False,positional,,,Zeichnungen,,Sec. XIII
 BO0624_88128,530227,656,1206,"Noli. "" Sehr schon.",2227,85.7,False,positional,,,Zeichnungen,,
-BO0624_88128,530228,657,1208,1207,2231,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530228,657,1208,1207,2231,100.0,False,positional,,,Zeichnungen,,Sec. XIII
 BO0624_88128,530229,658,1209,Uferlandschaft.,2235,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530230,659,1210,”,2241,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530231,660,I,"nterieur. ""9",2245,95.2,False,positional,,,Zeichnungen,,
@@ -666,23 +666,23 @@ BO0624_88128,530235,664,1216,Strand in Noli.,2260,100.0,False,positional,,,Aquar
 BO0624_88128,530236,665,1217,Sestri Levante. Baumstudie. Savona.,2262,54.9,False,positional,,,Aquarelle,,
 BO0624_88128,530237,666,1220,Steg in Savona. Hohle in Savona. Fischerboote in Savona.,2274,57.5,False,positional,,,Aquarelle,,
 BO0624_88128,530238,667,1223,Fischerboote in Savona.,2276,89.8,False,positional,,,Aquarelle,,
-BO0624_88128,530239,668,1225,"1224 Werrenwag, Ruine.",2280,100.0,False,positional,,,Aquarelle,,
+BO0624_88128,530239,668,1225,"1224 Werrenwag, Ruine.",2280,100.0,False,positional,,,Aquarelle,,Sec. XIII
 BO0624_88128,530240,669,1226,Boote in Savona.,2284,85.7,False,positional,,,Aquarelle,,
 BO0624_88128,530241,670,1227,Wascherinnen in Savona.,2288,100.0,False,positional,,,Aquarelle,,
 BO0624_88128,530242,671,1228,Abend in Noli.,2290,83.9,False,positional,,,Aquarelle,,
 BO0624_88128,530243,672,1229,Schenke in Noli.,2294,100.0,False,positional,,,Aquarelle,,
 BO0624_88128,530244,673,1230,Palast in Noli.,2296,84.8,False,positional,,,Aquarelle,,
-BO0624_88128,530245,674,1231,1232,2300,100.0,False,positional,,,Aquarelle,,
+BO0624_88128,530245,674,1231,1232,2300,100.0,False,positional,,,Aquarelle,,Sec. XIII
 BO0624_88128,530246,675,1233,Madchen mit Schmetterling.,2308,90.9,False,positional,,,Oelstudien,,
-BO0624_88128,530247,676,1235,1234,2314,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530247,676,1235,1234,2314,100.0,False,positional,,,Oelstudien,,Sec. XIII
 BO0624_88128,530248,677,1236,Negerkopf Zeno Oreno aus Guadeloupe.Vorzuiglich. Brandung. Studienblatt.,2318,77.7,False,positional,,,Oelstudien,,
 BO0624_88128,530249,678,1239,Altes Tor.,2326,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530250,679,1240,Fries vom Rathaus in Stein a. Rh.,2330,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530251,680,1241,Kircheninterieur. Copie nach Tiepolo. Steinbruch bei der Geroksruhe.,2336,60.6,False,positional,TIEPOLO DOMENICO,,Oelstudien,,
 BO0624_88128,530252,681,1244,"Wandgemalde in Konstanz. Stein a. Rh., Rathaus. Interieur.",2338,57.5,False,positional,,,ARREDAMENTI,,
 BO0624_88128,530253,682,1247,Studienblatt.,2344,82.8,False,positional,,,Oelstudien,,
-BO0624_88128,530254,683,1249,1248 Verfallene Mauer.,2348,100.0,False,positional,,,Oelstudien,,
-BO0624_88128,530255,684,1250,- 1251 Kuhbild.,2354,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530254,683,1249,1248 Verfallene Mauer.,2348,100.0,False,positional,,,Oelstudien,,Sec. XIII
+BO0624_88128,530255,684,1250,- 1251 Kuhbild.,2354,100.0,False,positional,,,Oelstudien,,Sec. XIII
 BO0624_88128,530256,685,1252,Waldenser. Fries im Inselhotel zu Constanz. Studienblatt.,2360,71.1,False,positional,,,Oelstudien,,
 BO0624_88128,530257,686,1255,""" 99 "" ""9 Baumstudie. Skizze zu einem Bauernhaus.",2368,74.0,False,positional,,,Oelstudien,,
 BO0624_88128,530258,687,1258,Hl. Nepomuk aus Rankweil bei Feldkirch.,2370,93.7,False,positional,,,Oelstudien,,
@@ -691,26 +691,26 @@ BO0624_88128,530260,689,1260,Hl. Martinus aus Rankweil bei Feldkirch. Hl. Elisab
 BO0624_88128,530261,690,1763,Kircheninterieur. Gewandstudie.,2379,64.0,False,positional,,,Oelstudien,,
 BO0624_88128,530262,691,1764,Chorgestihl.,2383,81.5,False,positional,,,Oelstudien,,
 BO0624_88128,530263,692,1266,Baumstudie.,2387,100.0,False,positional,,,Oelstudien,,
-BO0624_88128,530264,693,1268,1267 Venedig.,2391,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530264,693,1268,1267 Venedig.,2391,100.0,False,positional,,,Oelstudien,,Sec. XIII
 BO0624_88128,530265,694,1269,Mannl. Halbakt.,2395,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530266,695,1270,Erbgrossherzogin von Baden.,2397,91.2,False,positional,,,Oelstudien,,
 BO0624_88128,530267,696,1271,Felsstudie.,2401,80.0,False,positional,,,Oelstudien,,
 BO0624_88128,530268,697,1272,Barmherzige Schwester.,2407,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530269,698,1274,Zeichnung davon.(Gerahmt). Kopf eines Romers. Uferstudie mit Kahn.,2409,51.7,False,title_direct,,,Zeichnungen,,
-BO0624_88128,530270,699,1277,1279,2417,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530270,699,1277,1279,2417,100.0,False,positional,,,Oelstudien,,Sec. XIII
 BO0624_88128,530271,700,1278,Hoteleingang.,2421,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530272,701,1280,Kahn.,2427,61.5,False,positional,,,Oelstudien,,
-BO0624_88128,530273,702,1281,1282 Hollanderin.,2431,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530273,702,1281,1282 Hollanderin.,2431,100.0,False,positional,,,Oelstudien,,Sec. XIII
 BO0624_88128,530274,703,1283,Studienkopf. Interieur a. d. Rathaus in Esslingen. Steintreppe.,2437,72.2,False,positional,,,ARREDAMENTI,,
-BO0624_88128,530275,704,1286,1288 Bauernhaus.,2443,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530275,704,1286,1288 Bauernhaus.,2443,100.0,False,positional,,,Oelstudien,,Sec. XIII
 BO0624_88128,530276,705,1287,"Mannl. Ruckenakt. """" """,2445,85.7,False,positional,,,Oelstudien,,
-BO0624_88128,530277,706,1289,1290,2449,100.0,False,positional,,,Oelstudien,,
-BO0624_88128,530278,707,1291,- 1292,2457,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530277,706,1289,1290,2449,100.0,False,positional,,,Oelstudien,,Sec. XIII
+BO0624_88128,530278,707,1291,- 1292,2457,100.0,False,positional,,,Oelstudien,,Sec. XIII
 BO0624_88128,530279,708,1293,Studienblatt.,2458,82.8,False,positional,,,Oelstudien,,
 BO0624_88128,530280,709,1294,Kostimblatt. Kopf eines Romers. Kircheninterieur.,2462,52.9,False,title_direct,,,Kostiime,,
 BO0624_88128,530281,710,1297,"Tirolers. "" 99 Mannl. Rickenakt. alten Mannes.",2468,60.0,False,positional,,,Oelstudien,,
 BO0624_88128,530282,711,1300,Kopie nach einem Wandbild in Stein a. Rh. Erwartung. Junges Madchen.Vorziglich.,2470,65.5,False,positional,,,Oelstudien,,
-BO0624_88128,530283,712,1303,- 1304 Madchenkopf.,2474,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530283,712,1303,- 1304 Madchenkopf.,2474,100.0,False,positional,,,Oelstudien,,Sec. XIV
 BO0624_88128,530284,713,1305,Vom Feuer beleuchteter Knabe. Konzert. - Kahn am Bodensee.,2476,65.1,False,positional,,,Oelstudien,,
 BO0624_88128,530285,714,1308,Negerstudie.,2480,81.5,False,positional,,,Oelstudien,,
 BO0624_88128,530286,715,1309,”,2484,100.0,False,positional,,,Oelstudien,,
@@ -720,14 +720,14 @@ BO0624_88128,530289,718,1312,- Pflanzenstudie.,2489,100.0,False,positional,,,Oel
 BO0624_88128,530290,719,1313,Kloster-Interieur.,2490,87.2,False,positional,,,ARREDAMENTI,,
 BO0624_88128,530291,720,1314,Am Starnberger See.,2491,87.8,False,positional,,,Oelstudien,,
 BO0624_88128,530292,721,1315,Gewitterstudie.,2492,84.8,False,positional,,,Oelstudien,,
-BO0624_88128,530293,722,1317,"- 1316 Graf Ferdinand Zeppelin, Neffe des Erfinders.",2494,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530293,722,1317,"- 1316 Graf Ferdinand Zeppelin, Neffe des Erfinders.",2494,100.0,False,positional,,,Oelstudien,,Sec. XIV
 BO0624_88128,530294,723,1318,Mannl. Kopf.,2495,80.0,False,positional,,,Oelstudien,,
 BO0624_88128,530295,724,1319,Pflanzenstudie. Studienblatt (zwei Frauenkopfe). Landschaftsstudie.,2498,62.5,False,positional,,,Oelstudien,,
 BO0624_88128,530296,725,1322,Kinderstudie.,2500,82.8,False,positional,,,Oelstudien,,
-BO0624_88128,530297,726,1323,""" 1324 Ossingen (Ktn. Zurich.)",2501,90.6,False,positional,,,Oelstudien,,
+BO0624_88128,530297,726,1323,""" 1324 Ossingen (Ktn. Zurich.)",2501,90.6,False,positional,,,Oelstudien,,Sec. XIV
 BO0624_88128,530298,727,1326,Kronprinz von Baden. Grossherzog von Baden.,2505,65.7,False,positional,,,Oelstudien,,
 BO0624_88128,530299,728,1327,Kopf einer alten Frau.,2506,89.4,False,positional,,,Oelstudien,,
-BO0624_88128,530300,729,1329,1328 Gewandstudie.,2509,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530300,729,1329,1328 Gewandstudie.,2509,100.0,False,positional,,,Oelstudien,,Sec. XIV
 BO0624_88128,530301,730,1330,Pflanzenstudie. Pferdestudie. Mannl. Akt.,2512,50.0,False,positional,,,Oelstudien,,
 BO0624_88128,530302,731,1333,Sennhitte. Blatt aus d. Inselhotel in Konstanz. Studienblatt.,2516,72.9,False,positional,,,Oelstudien,,
 BO0624_88128,530303,732,1336,"- Ornamente. "" Wolkenstudie.",2521,66.7,False,positional,,,Oelstudien,,
@@ -738,11 +738,11 @@ BO0624_88128,530307,736,1348,"- v.Rom, Maler.",2537,100.0,False,positional,,,Oel
 BO0624_88128,530308,737,1349,Mannl. Portrat. Handestudie. Gewandstudie.,2540,47.3,False,positional,,,Oelstudien,,
 BO0624_88128,530309,738,1352,Gewandstudie. Seestudie. Turken.,2541,52.2,False,positional,,,Oelstudien,,
 BO0624_88128,530310,739,1355,Handstudie.,2544,80.0,False,positional,,,Oelstudien,,
-BO0624_88128,530311,740,1357,- 1356 Kopfstudie.,2546,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530311,740,1357,- 1356 Kopfstudie.,2546,100.0,False,positional,,,Oelstudien,,Sec. XIV
 BO0624_88128,530312,741,1358,Grafin Zeppelin.,2550,85.7,False,positional,,,Oelstudien,,
 BO0624_88128,530313,742,1359,Kopf eines alten Mannes.,2552,90.2,False,positional,,,Oelstudien,,
 BO0624_88128,530314,743,13602,Studienblatter.,2553,82.4,False,positional,,,Oelstudien,,
-BO0624_88128,530315,744,1362,"1361 2 Studienblatter, Fensterstudie, sowie Quellenstudie v. Berg.",2557,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530315,744,1362,"1361 2 Studienblatter, Fensterstudie, sowie Quellenstudie v. Berg.",2557,100.0,False,positional,,,Oelstudien,,Sec. XIV
 BO0624_88128,530316,745,1363,Hauser am See.,2561,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530317,746,1364,Kopf eines Arabers.,2563,87.8,False,positional,,,Oelstudien,,
 BO0624_88128,530318,747,1365,Altes Gemauer. Studienblatt. Landschaftsstudie.,2571,54.5,False,positional,,,Oelstudien,,
@@ -750,8 +750,8 @@ BO0624_88128,530319,748,1368,Gewandstudie. Geistl.Rat Brougier in Konstanz. Trep
 BO0624_88128,530320,749,1371,Landschaftsstudie. Pferdekopf. Waldstudie.,2583,60.7,False,positional,,,Oelstudien,,
 BO0624_88128,530321,750,1374,"Venedig. "" Landschaftsstudie.",2595,76.6,False,positional,,,Oelstudien,,
 BO0624_88128,530322,751,1377,” Dorfstudie.,2601,80.0,False,positional,,,Oelstudien,,
-BO0624_88128,530323,752,1378,1380 Seestudie.,2605,100.0,False,positional,,,Oelstudien,,
-BO0624_88128,530324,753,1382,1381,2609,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530323,752,1378,1380 Seestudie.,2605,100.0,False,positional,,,Oelstudien,,Sec. XIV
+BO0624_88128,530324,753,1382,1381,2609,100.0,False,positional,,,Oelstudien,,Sec. XIV
 BO0624_88128,530325,754,1383,Handestudie.,2611,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530326,755,1384,Schwabische Alb. Landschaftsstudie. Wolkenstudie in Venedig.,2623,57.5,False,positional,,Scuola Sveva,Oelstudien,,
 BO0624_88128,530327,756,1387,Am Starnberger See. Gewandstudie. Teppichstudie.,2625,52.9,False,positional,,,Oelstudien,,
@@ -764,54 +764,54 @@ BO0624_88128,530333,762,1405,Reisestilleben. Monchskopf. Kopf einer Frau.,2671,5
 BO0624_88128,530334,763,1408,8Am Lago maggiore.,2673,87.2,False,positional,,,Oelstudien,,
 BO0624_88128,530335,764,1409,Fries vom Rathaus in Konstanz (Empfang des Kaisers.),2675,95.1,False,positional,,,Oelstudien,,
 BO0624_88128,530336,765,1410,- Schitze.,2677,100.0,False,positional,,,Oelstudien,,
-BO0624_88128,530337,766,1412,- 1411 Monchskopf.,2679,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530337,766,1412,- 1411 Monchskopf.,2679,100.0,False,positional,,,Oelstudien,,Sec. XV
 BO0624_88128,530338,767,1413,- Kopf eines Monches.,2682,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530339,768,1414,"""",2683,0.0,False,positional,,,Oelstudien,,
-BO0624_88128,530340,769,1416,- 1415 Mannl. Kopf.,2685,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530340,769,1416,- 1415 Mannl. Kopf.,2685,100.0,False,positional,,,Oelstudien,,Sec. XV
 BO0624_88128,530341,770,1417,Kopfstudie. Architekturstudie. Kopf eines Kriegers.,2689,55.6,False,positional,,,Oelstudien,,
 BO0624_88128,530342,771,1420,HeiBer Tag.,2690,80.0,False,positional,,,Oelstudien,,
-BO0624_88128,530343,772,1422,- 1421,2693,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530343,772,1422,- 1421,2693,100.0,False,positional,,,Oelstudien,,Sec. XV
 BO0624_88128,530344,773,1423,""" Studienkopf. Bauernmadchen.",2697,65.1,False,positional,,,Oelstudien,,
 BO0624_88128,530345,774,1426,Landsknechte aus der Schlacht v. Merignano. Hauseingang. Studienkopfe.,2698,73.2,False,positional,,,Oelstudien,,
 BO0624_88128,530346,775,1429,2 Studienkopfe. Mannl. Kopf. - Studienkopf.,2700,51.9,False,positional,,,Oelstudien,,
 BO0624_88128,530347,776,1432,- Kopf eines Geistlichen.,2706,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530348,777,1433,Bucherstudie. 2 Studienkopfe. Studienkopf einer Frau.,2709,59.7,False,positional,,,Oelstudien,,
 BO0624_88128,530349,778,1436,Pflanzenstudie.,2710,84.8,False,positional,,,Oelstudien,,
-BO0624_88128,530350,779,1438,- 1437 Kopf eines Monches.,2712,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530350,779,1438,- 1437 Kopf eines Monches.,2712,100.0,False,positional,,,Oelstudien,,Sec. XV
 BO0624_88128,530351,780,1439,Studienkopf einer Frau mit Haube. Landschaftsstudie. Schmiede.,2714,66.7,False,positional,,,Oelstudien,,
 BO0624_88128,530352,781,1442,Studienblatt.,2717,82.8,False,positional,,,Oelstudien,,
 BO0624_88128,530353,782,1443,Gewitterstudie.,2718,84.8,False,positional,,,Oelstudien,,
 BO0624_88128,530354,783,1444,Hauserstudie.,2719,82.8,False,positional,,,Oelstudien,,
-BO0624_88128,530355,784,1445,- 1447 Strandbild.,2724,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530355,784,1445,- 1447 Strandbild.,2724,100.0,False,positional,,,Oelstudien,,Sec. XV
 BO0624_88128,530356,785,1446,"""",2725,0.0,False,positional,,,Oelstudien,,
 BO0624_88128,530357,786,1448,Handestudie. Sonnenuntergang. Landschaftsstudie.,2730,53.7,False,positional,,,Oelstudien,,
-BO0624_88128,530358,787,1451,- 1452,2732,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530358,787,1451,- 1452,2732,100.0,False,positional,,,Oelstudien,,Sec. XV
 BO0624_88128,530359,788,1453,Krieger. Studienkopf. Studienblatt.,2736,53.1,False,positional,,,Oelstudien,,
 BO0624_88128,530360,789,1456,Handstudien. Gewandstudie.,2738,63.4,False,positional,,,Oelstudien,,
-BO0624_88128,530361,790,1457,1459 Goldgestickte Haube.,2741,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530361,790,1457,1459 Goldgestickte Haube.,2741,100.0,False,positional,,,Oelstudien,,Sec. XV
 BO0624_88128,530362,791,1460,Interieur. Kopf eines Monches. Gewandstudie.,2748,59.4,False,positional,,,ARREDAMENTI,,
 BO0624_88128,530363,792,1463,Studienkopf. Handestudien. Gewandstudien.,2756,50.0,False,positional,,,Oelstudien,,
 BO0624_88128,530364,793,1466,Studienblatt. Kopf eines alten Mannes. Korbstudie.,2760,64.0,False,positional,,,Oelstudien,,
 BO0624_88128,530365,794,1469,"Handestudien. """" """" Mannl. Halbakt.",2770,63.6,False,positional,,,Oelstudien,,
 BO0624_88128,530366,795,1472,Armstudie.,2772,78.3,False,positional,,,Oelstudien,,
-BO0624_88128,530367,796,1474,1473 Verfallenes Gemalde.,2776,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530367,796,1474,1473 Verfallenes Gemalde.,2776,100.0,False,positional,,,Oelstudien,,Sec. XV
 BO0624_88128,530368,797,1475,Kopf eines Monches.,2778,87.8,False,positional,,,Oelstudien,,
 BO0624_88128,530369,798,1476,Rustungsstudie. Studienkopf. Drei Kinder.,2784,53.8,False,positional,,,Oelstudien,,
 BO0624_88128,530370,799,1479,Fahnenstudie. Kopf eines Madchens. Studienblatt.,2792,58.0,False,positional,,,Oelstudien,,
 BO0624_88128,530371,800,1482,Hundestudie.,2796,81.5,False,positional,,,Oelstudien,,
-BO0624_88128,530372,801,1484,1483 Bauernmadchen.,2800,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530372,801,1484,1483 Bauernmadchen.,2800,100.0,False,positional,,,Oelstudien,,Sec. XV
 BO0624_88128,530373,802,1485,Flotenblaser.,2802,82.8,False,positional,,,Oelstudien,,
 BO0624_88128,530374,803,1486,Krieger im Harnisch. Kanonenstudie. Harnischstudie.,2806,52.8,False,positional,,,Oelstudien,,
 BO0624_88128,530375,804,1489,Stilleben. Studienblatt. Studienblatt.,2814,50.0,False,positional,,,Oelstudien,,
 BO0624_88128,530376,805,1492,Landschaftsstudie. Landschaft. Studienkopf.,2818,54.8,False,positional,,,Oelstudien,,
 BO0624_88128,530377,806,1495,Trinkkur in Berg. Fries im Inselhotel in Constanz. Studienkopf.,2828,66.7,False,positional,,,Oelstudien,,
 BO0624_88128,530378,807,1498,Dto. Nachtstudie. Refektorium im Inselhotel zu Constanz.,2838,82.2,False,positional,,,Oelstudien,,
-BO0624_88128,530379,808,1501,1502,2842,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530379,808,1501,1502,2842,100.0,False,positional,,,Oelstudien,,Sec. XVI
 BO0624_88128,530380,809,1503,Orientalische Studie.,2846,88.9,False,positional,,,Oelstudien,,
 BO0624_88128,530381,810,1504,"Studie zum ,Bosen Gewissen"". alten Mannes. C6 Kopf eines Madchens.",2850,54.9,False,positional,,,Oelstudien,,
 BO0624_88128,530382,811,1507,Portratstudie. Helmstudie.,2856,61.9,False,positional,,,Oelstudien,,
 BO0624_88128,530383,812,1508,Meeresstudie.,2860,82.8,False,positional,,,Oelstudien,,
-BO0624_88128,530384,813,1511,- 1510,2863,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530384,813,1511,- 1510,2863,100.0,False,positional,,,Oelstudien,,Sec. XVI
 BO0624_88128,530385,814,1512,Dto.,2869,54.5,False,positional,,,Oelstudien,,
 BO0624_88128,530386,815,1513,Landschaftsstudie.,2872,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530387,816,1514,- Haustor. Treppenhaus. Interieur.,2876,53.3,False,positional,,,ARREDAMENTI,,
@@ -821,53 +821,53 @@ BO0624_88128,530390,819,1519,""" "" Kopf eines Monches. Interieur.",2887,70.6,Fa
 BO0624_88128,530391,820,1522,"Handestudie. "" ""9 "" Kopf eines Mannes.",2895,67.9,False,positional,,,Oelstudien,,
 BO0624_88128,530392,821,1525,"Kriegers. "" "" """" "" """,2899,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530393,822,1528,Direktor Funk in Mannheim.,2907,90.9,False,positional,,,Oelstudien,,
-BO0624_88128,530394,823,1529,1530,2911,100.0,False,positional,,Scuola Fiorentina,Oelstudien,,
+BO0624_88128,530394,823,1529,1530,2911,100.0,False,positional,,Scuola Fiorentina,Oelstudien,,Sec. XVI
 BO0624_88128,530395,824,1531,"""""",2913,0.0,False,positional,,,Oelstudien,,
 BO0624_88128,530396,825,1532,Mannlicher Kopf.,2919,85.7,False,positional,,,Oelstudien,,
 BO0624_88128,530397,826,1533,- Zwei Studienkopfe.,2921,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530398,827,1534,- Kopf eines Kriegers.,2925,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530399,828,1535,Zwei Studienkopfe. Kapelle mit Friedhof.,2930,66.7,False,positional,,,Oelstudien,,
-BO0624_88128,530400,829,1536,1538 In der Hammerschmiede. Sehr schon!,2933,100.0,False,positional,,,Oelstudien,,
-BO0624_88128,530401,830,1540,1539 Baumstumpf.,2937,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530400,829,1536,1538 In der Hammerschmiede. Sehr schon!,2933,100.0,False,positional,,,Oelstudien,,Sec. XVI
+BO0624_88128,530401,830,1540,1539 Baumstumpf.,2937,100.0,False,positional,,,Oelstudien,,Sec. XVI
 BO0624_88128,530402,831,1541,Araber.,2939,70.6,False,positional,,,Oelstudien,,
 BO0624_88128,530403,832,1542,Gewandstudie. Waldenser. Lagerleben.,2943,48.0,False,positional,,,Oelstudien,,
 BO0624_88128,530404,833,1545,Tunis.,2948,66.7,False,positional,,,Oelstudien,,
 BO0624_88128,530405,834,1546,Architekturstudie.,2950,87.2,False,positional,,,Oelstudien,,
 BO0624_88128,530406,835,1547,Friedensengel.,2952,83.9,False,positional,,,Oelstudien,,
 BO0624_88128,530407,836,1548,Abschied.,2954,76.2,False,positional,,,Oelstudien,,
-BO0624_88128,530408,837,1550,- 1549 Kopf eines Madchens.,2957,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530408,837,1550,- 1549 Kopf eines Madchens.,2957,100.0,False,positional,,,Oelstudien,,Sec. XVI
 BO0624_88128,530409,838,1551,Gewitterstimmung am Bodensee.,2958,91.8,False,positional,,,Oelstudien,,
 BO0624_88128,530410,839,1552,"Landschaftsstudie. Coln, Crypta der romanischen Kirche. Abendlandschaft.",2962,65.4,False,positional,,,Oelstudien,,
 BO0624_88128,530411,840,1555,Kriegsszene. Felsstudie.,2967,59.5,False,positional,,,Oelstudien,,
-BO0624_88128,530412,841,1556,- 1558,2971,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530412,841,1556,- 1558,2971,100.0,False,positional,,,Oelstudien,,Sec. XVI
 BO0624_88128,530413,842,1559,Gewandstudie.,2975,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530414,843,1560,"Interieur. "" Kopf eines Mannes.",2984,77.3,False,positional,,,ARREDAMENTI,,
 BO0624_88128,530415,844,1563,Hollander mit Gewehr.,2986,88.9,False,positional,,,Oelstudien,,
-BO0624_88128,530416,845,1565,1564 Kircheninneres.,2990,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530416,845,1565,1564 Kircheninneres.,2990,100.0,False,positional,,,Oelstudien,,Sec. XVI
 BO0624_88128,530417,846,1566,Kopf eines Mannes.,2992,87.2,False,positional,,,Oelstudien,,
 BO0624_88128,530418,847,1567,"Studienblatt, Frauenkopfe.",2998,100.0,False,positional,,,Oelstudien,,
-BO0624_88128,530419,848,1569,1568,3002,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530419,848,1569,1568,3002,100.0,False,positional,,,Oelstudien,,Sec. XVI
 BO0624_88128,530420,849,1570,Monches. Landschaftsstudie. 99,3012,72.0,False,positional,,,Oelstudien,,
 BO0624_88128,530421,850,1573,Stuhl mit Korb. Kopf eines Mannes. Landschaftsstudie.,3022,50.7,False,positional,,,Oelstudien,,
 BO0624_88128,530422,851,1576,"Monches. Sehr schon! "" """" Franziskaner. Mannl. Kopf.",3024,55.4,False,positional,,,Oelstudien,,
 BO0624_88128,530423,852,1579,Mannl. Kopf. Kopf eines Mannes mit Hut. Kopf eines lachenden Mannes.,3034,58.3,False,positional,,,Oelstudien,,
 BO0624_88128,530424,853,1582,Studienblatt. Kopf eines Mannes mit Hut und Halskrause. - Sitzender Knabe.,3038,71.9,False,positional,,,Oelstudien,,
 BO0624_88128,530425,854,1585,Madchenkopf. Felsstudie.,3045,66.7,False,positional,,,Oelstudien,,
-BO0624_88128,530426,855,1586,1588 Landschaftsstudie.,3051,100.0,False,positional,,,Oelstudien,,
-BO0624_88128,530427,856,1589,1590 Welschkornstudie.,3055,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530426,855,1586,1588 Landschaftsstudie.,3051,100.0,False,positional,,,Oelstudien,,Sec. XVI
+BO0624_88128,530427,856,1589,1590 Welschkornstudie.,3055,100.0,False,positional,,,Oelstudien,,Sec. XVI
 BO0624_88128,530428,857,1591,Landschaftsstudie.,3059,87.2,False,positional,,,Oelstudien,,
-BO0624_88128,530429,858,1593,1592,3063,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530429,858,1593,1592,3063,100.0,False,positional,,,Oelstudien,,Sec. XVI
 BO0624_88128,530430,859,1594,"Segelschiff. "" Studienblatt. Schraubstock.",3073,49.0,False,positional,,,Oelstudien,,
 BO0624_88128,530431,860,1597,Kopf eines Mannes. Stilleben. Zwei Studienkopfe.,3079,53.7,False,positional,,,Oelstudien,,
 BO0624_88128,530432,861,1600,Landschaftsstudie.,3081,87.2,False,positional,,,Oelstudien,,
-BO0624_88128,530433,862,1601,1602,3085,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530433,862,1601,1602,3085,100.0,False,positional,,,Oelstudien,,Sec. XVII
 BO0624_88128,530434,863,1603,Studien von Kirchenfiguren.,3089,91.2,False,positional,,,Oelstudien,,
 BO0624_88128,530435,864,1604,"Convolute von 6 Blatt, historische Darstellungen, Zeichnungen.(Gerollt).",3093,96.4,False,title_direct,,,Zeichnungen,,
 BO0624_88128,530436,865,1605,Studienblatt. (In Passepartout).,3098,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530437,866,1606,Goletta. (In Passepartout). Strasse in Tunis. (In Passepartout). Kaffeehaus in Sedibu Said. (In Passepartout.),3104,58.3,False,positional,,,Oelstudien,,
 BO0624_88128,530438,867,1609,Zwischen Bardo und Tunis. (Unter Glas).,3108,100.0,False,positional,,,Oelstudien,,
 BO0624_88128,530439,868,1610,Am Strand von Goletta.(Unter Glas).,3110,92.8,False,positional,,,Oelstudien,,
-BO0624_88128,530440,869,1612,1611 Segelschiffe. (Unter Glas).,3114,100.0,False,positional,,,Oelstudien,,
+BO0624_88128,530440,869,1612,1611 Segelschiffe. (Unter Glas).,3114,100.0,False,positional,,,Oelstudien,,Sec. XVII
 BO0624_88128,530441,870,1613,Studie in Rahmen. Golf von Puzzuoli. Am Comersee.,3124,52.9,False,positional,,,CORNICI,,
 BO0624_88128,530442,871,1616,Hafen von Goletta. Abendstimmung. Bei Neckarelz.,3130,50.7,False,positional,,,Oelgemalde,,
 BO0624_88128,530443,872,1619,Copie nach Tizian in Venedig.,3136,91.8,False,positional,TIZIANO VECELLIO,,Oelgemalde,,
@@ -880,51 +880,51 @@ BO0624_88128,530449,878,1627,Schildwache.,3158,81.5,False,positional,,,Oelgemald
 BO0624_88128,530450,879,1628,Abendlandschaft. Gebirgslandschaft. Verteidigung.,3166,52.9,False,positional,,,Oelgemalde,,
 BO0624_88128,530451,880,1631,Am Bache. Interessante Mitteilung. Interieur.,3172,68.6,False,positional,,,ARREDAMENTI,,
 BO0624_88128,530452,881,1634,Feldpredigt.,3176,81.5,False,positional,,,Oelgemalde,,
-BO0624_88128,530453,882,1636,1635 Beim Antiquar.,3180,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530453,882,1636,1635 Beim Antiquar.,3180,100.0,False,positional,,,Oelgemalde,,Sec. XVII
 BO0624_88128,530454,883,1637,Wirtshausszene. nterieur.,3182,66.7,False,positional,,,Oelgemalde,,
 BO0624_88128,530455,884,1638,Interieur. Arretierung. Bartholomausnacht.,3190,59.0,False,positional,,,ARREDAMENTI,,
 BO0624_88128,530456,885,1641,Testament.,3192,78.3,False,positional,,,Oelgemalde,,
-BO0624_88128,530457,886,1642,1643,3196,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530457,886,1642,1643,3196,100.0,False,positional,,,Oelgemalde,,Sec. XVII
 BO0624_88128,530458,887,1644,Winterlandschaft. Ueberschwemmung.,3203,61.5,False,positional,,,Oelgemalde,,
 BO0624_88128,530459,888,1645,Abendstimmung.,3205,83.9,False,positional,,,Oelgemalde,,
 BO0624_88128,530460,889,1648,Fries aus Konstanz. Zeichnung.,3209,70.6,False,title_direct,,,Zeichnungen,,
 BO0624_88128,530461,890,1649,Bauernstuben-Interieur. Vorzuglich. Freitreppe in einem Schlosse. Pferdebild.,3213,59.5,False,positional,,,ARREDAMENTI,,
 BO0624_88128,530462,891,1652,Bauernstube in Deisslingen. Huldigung. Klosterkeller.,3221,64.2,False,positional,,,Oelgemalde,,
 BO0624_88128,530463,892,1655,Waldlandschaft.,3227,84.8,False,positional,,,Oelgemalde,,
-BO0624_88128,530464,893,1657,Kopf einer Italienerin. 1658,3229,91.5,False,positional,,,Oelgemalde,,
-BO0624_88128,530465,894,1660,1656 Alter Soldat. Madchenbildnis.,3239,70.6,False,positional,,,Oelgemalde,,
+BO0624_88128,530464,893,1657,Kopf einer Italienerin. 1658,3229,91.5,False,positional,,,Oelgemalde,,Sec. XVII
+BO0624_88128,530465,894,1660,1656 Alter Soldat. Madchenbildnis.,3239,70.6,False,positional,,,Oelgemalde,,Sec. XVII
 BO0624_88128,530466,895,1661,In Freundeskreis.,3241,86.5,False,positional,,,Oelgemalde,,
-BO0624_88128,530467,896,1663,1662 Bei Mondenschein.,3245,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530467,896,1663,1662 Bei Mondenschein.,3245,100.0,False,positional,,,Oelgemalde,,Sec. XVII
 BO0624_88128,530468,897,1664,Unterredung.,3247,81.5,False,positional,,,Oelgemalde,,
 BO0624_88128,530469,898,1665,Felspartie. Marchen. Historische Darstellung.,3255,68.6,False,positional,,,Oelgemalde,,
 BO0624_88128,530470,899,1668,Fries aus Konstanz. Seestudie. Dampferhaltestelle am Untersee.,3261,66.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530471,900,1671,Brennendes Schloss am Meere. Auf der schwab. Alb. Neckarlandschaft.,3263,56.8,False,positional,,,Oelgemalde,,
 BO0624_88128,530472,901,1674,Ernste Zeiten im Kloster. Sennhitte. Bauernjunge.,3269,64.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530473,902,1677,Treppenhaus.,3275,81.5,False,positional,,,Oelgemalde,,
-BO0624_88128,530474,903,1679,1678,3279,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530474,903,1679,1678,3279,100.0,False,positional,,,Oelgemalde,,Sec. XVII
 BO0624_88128,530475,904,1680,Horn a. Bodensee. Ossingen bei Zurich. Am Vierwaldstattersee.,3287,53.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530476,905,1683,Schlosspark.,3289,81.5,False,positional,,,Oelgemalde,,
-BO0624_88128,530477,906,1685,1684 Segelschiffe in Venedig.,3293,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530477,906,1685,1684 Segelschiffe in Venedig.,3293,100.0,False,positional,,,Oelgemalde,,Sec. XVII
 BO0624_88128,530478,907,1686,Landschaft.,3295,80.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530479,908,1687,Liebespaar. Hohe See.,3301,69.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530480,909,1688,1690 Treppenaufgang.,3309,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530480,909,1688,1690 Treppenaufgang.,3309,100.0,False,positional,,,Oelgemalde,,Sec. XVII
 BO0624_88128,530481,910,1692,Alter Mann am Ofen. Stehendes Pferd.,3311,63.2,False,positional,,,Oelgemalde,,
 BO0624_88128,530482,911,1693,Im Atelier bei Rustige.,3316,100.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530483,912,1694,Ludwig Xl. v. Frankreich. Kopf eines Mannes. Pferdekopf.,3318,56.4,False,positional,,,Oelgemalde,,
 BO0624_88128,530484,913,1697,Kanal in Venedig. Landschaft bei Gewitter.,3328,70.6,False,positional,,,Oelgemalde,,
-BO0624_88128,530485,914,1698,1700 Gebirgssee.,3332,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530485,914,1698,1700 Gebirgssee.,3332,100.0,False,positional,,,Oelgemalde,,Sec. XVIII
 BO0624_88128,530486,915,1702,Interieur. Ausbruch des Vesuvs.,3336,75.5,False,positional,,,ARREDAMENTI,,
 BO0624_88128,530487,916,1703,Landschaft in Tirol.,3338,88.4,False,positional,,Scuola Tirolese,Oelgemalde,,
-BO0624_88128,530488,917,1705,1704 Herbstlandschaft.,3342,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530488,917,1705,1704 Herbstlandschaft.,3342,100.0,False,positional,,,Oelgemalde,,Sec. XVIII
 BO0624_88128,530489,918,1706,Abendlandschaft. Hohlenbewohner. Capri.,3348,54.5,False,positional,,,Oelgemalde,,
-BO0624_88128,530490,919,1709,Gerichtssitzung. 1713 Romerkopf.,3354,66.7,False,positional,,,Oelgemalde,,
+BO0624_88128,530490,919,1709,Gerichtssitzung. 1713 Romerkopf.,3354,66.7,False,positional,,,Oelgemalde,,Sec. XVIII
 BO0624_88128,530491,920,1712,Bauernstube.,3364,100.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530492,921,I,nterieur aus dem Ludwigsburger Schloss.,3366,98.7,False,positional,,Manifattura di Ludwigsburg,Oelgemalde,,
 BO0624_88128,530493,922,1714,""" "" "" """" "" Bauernbursche.",3374,83.9,False,positional,,,Oelgemalde,,
-BO0624_88128,530494,923,1715,1718,3378,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530494,923,1715,1718,3378,100.0,False,positional,,,Oelgemalde,,Sec. XVIII
 BO0624_88128,530495,924,1719,a Madchenkopf. Pastell.,3382,91.3,False,positional,,,Oelgemalde,,
 BO0624_88128,530496,925,1719,Interieur aus dem Kloster Stein a. Rhein. b Lerici. Pastell.,3384,78.0,False,positional,,,ARREDAMENTI,,
-BO0624_88128,530497,926,1720,"1722 Piccolomini,V. Akt.Zeichnung.",3394,100.0,False,title_direct,,,Zeichnungen,,
+BO0624_88128,530497,926,1720,"1722 Piccolomini,V. Akt.Zeichnung.",3394,100.0,False,title_direct,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,530498,927,1721,Kostimfigur.,3396,81.5,False,title_direct,,,Kostiime,,
 BO0624_88128,530499,928,1723,Aufhebung des Klosters Alpirsbach (Stuttgarter Galerie). a Das bose Gewissen. Hervorragend schon!,3398,70.7,False,positional,,,Oelgemalde,,
 BO0624_88128,530500,929,1724,"4Skizzenbichervon Maulbronn,Froschweiler, Rothenburg o. T., Stein a. Rh. etc. 4 von der Schweiz, Italien, Wurzburg, Rothenburg o. T.,Kopenhagen,Schweiz, Elberfeld,",3408,68.1,False,positional,,,Oelgemalde,,
@@ -933,36 +933,36 @@ BO0624_88128,530502,931,4,"Skizzenbicher mit orientalischen Trachten, vom Kochel
 BO0624_88128,530503,932,1727,"4 Skizzenbiicher mit wirt. Ansichten, Florenz, Schweiz und Tirol, Italien. 3 Skizzenbiicher v. Goletta, Schaffhausen, Engen, Florenz etc. und Walchensee, Karlsbad,Dalmatien.",3416,58.7,False,positional,,Scuola Tirolese,Oelgemalde,,
 BO0624_88128,530504,933,1730,"2 Skizzenbicher, mit Diversem, v. Tunis etc.",3421,94.1,False,positional,,,Oelgemalde,,
 BO0624_88128,530505,934,1731,"Kostimwerk von 70 Doppel-Blattern mit Tausenden von Figuren,Feder- und Bleistiftzeichnungen. Hervorragend schon.",3422,97.8,False,title_direct,,,OGGETTI IN PIOMBO,,
-BO0624_88128,530506,935,1733,"- 1732 H. Berker, Landschaft mit Segelschiff, Sepiazeichnung.",3429,100.0,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88128,530506,935,1733,"- 1732 H. Berker, Landschaft mit Segelschiff, Sepiazeichnung.",3429,100.0,False,positional,,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_88128,530507,936,1734,"- Monogramm C. B.,Genrebild. Kihe. Leicht aquarellierte Skizze. """,3434,71.0,False,title_direct,,,Aquarelle,,
-BO0624_88128,530508,937,1735,- 1737 Drei Kihe.,3436,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530508,937,1735,- 1737 Drei Kihe.,3436,100.0,False,positional,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,530509,938,1739,"Kuhherde. "" - Kuhherde an der Tranke. """,3439,83.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530510,939,1740,"Kopf einer Kuh. Vorzuglich. Hirten. "" Schafe. """,3440,72.5,False,positional,,,Zeichnungen,,
 BO0624_88128,530511,940,1743,"- Braith zugeschrieben, Bauer mit Kuh. Leo Bruen, Studienblatt. Reinhold Braun, Zum Pferdemarkt.",3444,55.7,False,positional,BRAITH ANTON,,Zeichnungen,,
 BO0624_88128,530512,941,1746,"- Collmann, Landschaft, Aquarell. G.Conz, Gartenhaus. Mittagspause, Aquarell.",3448,58.3,False,title_direct,,,Aquarelle,,
 BO0624_88128,530513,942,1749,"Hans Dahl, Pierette. Hundestudie. "" Eberle, Liegender Hund.",3453,56.4,False,positional,,,Zeichnungen,,
 BO0624_88128,530514,943,1752,"- Emminger, Bauernkinder.",3455,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530515,944,1754,"- 1753 Faber du Faur, 20 Zeichnungen.",3457,100.0,False,title_direct,,,Zeichnungen,,
+BO0624_88128,530515,944,1754,"- 1753 Faber du Faur, 20 Zeichnungen.",3457,100.0,False,title_direct,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,530516,945,1755,"- Fikentscher, Pferdebild.",3459,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530517,946,1756,"Gribhofer,Landschaft. Sepia. a",3460,88.1,False,positional,,,Zeichnungen,,
 BO0624_88128,530518,947,1757,"Hofner, Schafherde. Vorziglich.",3462,91.8,False,positional,,,Zeichnungen,,
 BO0624_88128,530519,948,1758,"Jakobsen,Landschaft. Aquarell. Kerschensteiner, Zirkuspferd.",3466,63.6,False,title_direct,,,Aquarelle,,
 BO0624_88128,530520,949,1759,"W. Keller, Bei der Hexe.",3467,89.4,False,positional,,,Zeichnungen,,
 BO0624_88128,530521,950,1760,a,3468,33.3,False,title_direct,Felix Fleischhauer,Scuola di A. Coypel,ARREDAMENTI,,
-BO0624_88128,530522,951,1762,"- 1761 Ley, Landschaft mit SchloB. Sepia.",3470,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530522,951,1762,"- 1761 Ley, Landschaft mit SchloB. Sepia.",3470,100.0,False,positional,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,530523,952,1763,"- Pferdekopf, gerahmt.",3472,100.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530524,953,1764,""" "" """,3473,0.0,False,positional,,,Zeichnungen,,
 BO0624_88128,530525,954,1765,""" Hus' Verbrennung. "" Makart, Studie einer sitzenden Frau. Ludwig,",3477,72.9,False,positional,,,Zeichnungen,,
-BO0624_88128,530526,955,1768,- 1770,3480,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530526,955,1768,- 1770,3480,100.0,False,positional,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,530527,956,1769,"Gabriel Max, Orientalin.",3483,89.8,False,positional,MAX GABRIEL VON,,Zeichnungen,,
 BO0624_88128,530528,957,1771,"Rodd,Landschaft.Aquarell. Viehherde. Sell, Einzug d. General Goeben und Manteuffel in Rouen. """,3488,81.8,False,title_direct,,,Aquarelle,,
-BO0624_88128,530529,958,1772,1774,3492,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530529,958,1772,1774,3492,100.0,False,positional,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,530530,959,1776,""" Splitgerber, Kapelle im Gebirge.",3496,92.3,False,positional,,,Zeichnungen,,
-BO0624_88128,530531,960,1777,Sternhelle Nacht. Fruihlingslandschaft 1782,3498,88.1,False,positional,,,Zeichnungen,,
-BO0624_88128,530532,961,1778,"1779 "" Untergehende Scnne im Winter. """"",3506,93.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530531,960,1777,Sternhelle Nacht. Fruihlingslandschaft 1782,3498,88.1,False,positional,,,Zeichnungen,,Sec. XVIII
+BO0624_88128,530532,961,1778,"1779 "" Untergehende Scnne im Winter. """"",3506,93.0,False,positional,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,530533,962,1783,Sternhelle Nacht.,3512,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530534,963,1784,1786,3521,100.0,False,positional,,,Zeichnungen,,
-BO0624_88128,530535,964,1785,1787,3528,100.0,False,positional,,,Zeichnungen,,
+BO0624_88128,530534,963,1784,1786,3521,100.0,False,positional,,,Zeichnungen,,Sec. XVIII
+BO0624_88128,530535,964,1785,1787,3528,100.0,False,positional,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,530536,965,1788,"Striovsky, Studienkopfe.",3534,89.8,False,positional,,,Zeichnungen,,
 BO0624_88128,530537,966,1789,"Teschendorff,Landsknechtleben mit Feldschlange. Volz, Friedr., Frau mit Kind, Hund und Kuh. Schloss Wyden.Aquarell.",3538,57.9,False,title_direct,,,Aquarelle,,
 BO0624_88128,530538,967,1792,"Unbekannt, Rebhihner. Heuernte Landschaft mit Ziegenherde und Hirten. """,3548,70.4,False,positional,,,Zeichnungen,,
@@ -981,7 +981,7 @@ BO0624_88128,530550,979,1802,Studienkopf. ”,3584,81.5,False,positional,,,Olgem
 BO0624_88128,530551,980,1803,Monchskopf.,3588,100.0,False,positional,,,Olgemalde,,
 BO0624_88128,530552,981,1804,"Vogel, Madchenkopf.",3590,87.2,False,positional,,,Olgemalde,,
 BO0624_88128,530553,982,1805,"Alex. v. Wagner, Abendstimmung.",3592,91.5,False,positional,,,Olgemalde,,
-BO0624_88128,530554,983,1807,- 1806 Portrat Kaiser Joseph II.,3596,100.0,False,positional,,,Olgemalde,,
+BO0624_88128,530554,983,1807,- 1806 Portrat Kaiser Joseph II.,3596,100.0,False,positional,,,Olgemalde,,Sec. XIX
 BO0624_88128,530555,984,1808,- Kaiserin Maria Theresia.,3598,100.0,False,positional,,,Olgemalde,,
 BO0624_88128,530556,985,1809,"Unbekannt (Hollander),Reiterbild.",3599,92.3,False,positional,,,Olgemalde,,
 BO0624_88128,530557,986,1810,"Pendant zum vorigen. "" Textor, Seesturm. - Portrat einer Generals.",3604,55.0,False,positional,,,Olgemalde,,
@@ -990,12 +990,12 @@ BO0624_88128,530559,988,1814,"Unbekannt, Die Weisen aus dem Morgenlande.",3607,9
 BO0624_88128,530560,989,1815,"Art Bergkem,Landschaft mit Viehherde. Vorziglich. Arpino, Jos., Grablegung Christi. Vorzigliches Bild.",3609,65.3,False,positional,,,Olgemalde,,
 BO0624_88128,530561,990,1816,"- Unbekannt, Carl Alexander.",3611,100.0,False,positional,,,Olgemalde,,
 BO0624_88128,530562,991,1819,"Vromans,Blumenstilleben. Vorziglich. Art Teniers, Der Alchinist.",3613,68.7,False,positional,TENIERS DAVID IL GIOVANE,,OGGETTI VARI,,
-BO0624_88128,530563,992,1820,- 1822,3616,100.0,False,positional,,,Olgemalde,,
+BO0624_88128,530563,992,1820,- 1822,3616,100.0,False,positional,,,Olgemalde,,Sec. XIX
 BO0624_88128,530564,993,1821,"- Jakobs Traum. """,3618,100.0,False,positional,,,Olgemalde,,
-BO0624_88128,530565,994,1823,- 1825,3620,100.0,False,positional,,,Olgemalde,,
+BO0624_88128,530565,994,1823,- 1825,3620,100.0,False,positional,,,Olgemalde,,Sec. XIX
 BO0624_88128,530566,995,1824,"Flusslandschaft mit Weiden. """,3623,91.2,False,positional,,,Olgemalde,,
 BO0624_88128,530567,996,1826,"- Gelehrter. Sehr interessantes Bild. "" Pieter Verdussen, Landschaft mit Herde.",3629,67.3,False,positional,,,Olgemalde,,
-BO0624_88128,530568,997,1827,"- 1829 Copie nach Cuyp, Landschaft mit Schafherde und Reiter. Sehr schon.",3631,100.0,False,positional,CUIJP ALBERT,,Olgemalde,,
+BO0624_88128,530568,997,1827,"- 1829 Copie nach Cuyp, Landschaft mit Schafherde und Reiter. Sehr schon.",3631,100.0,False,positional,CUIJP ALBERT,,Olgemalde,,Sec. XIX
 BO0624_88128,530569,998,1830,"Askevold,Landschaft. Tirolerin. Pendant zum vorigen. ""2 Binder, Tiroler.",3636,62.7,False,positional,,,Oelgemalde,,
 BO0624_88128,530570,999,1833,"Bruien, Landschaft. Dilly, Fusswaschung. Cauer, Rob., Alte Frau mit Kind.",3640,59.2,False,positional,,,Oelgemalde,,
 BO0624_88128,530571,1000,1836,"Boden-Heim,Pferdehandel.",3641,90.2,False,positional,,,Oelgemalde,,
@@ -1003,78 +1003,78 @@ BO0624_88128,530572,1001,1836,"b a H. Drick, Kuchalb.",3643,85.0,False,positiona
 BO0624_88128,530573,1002,1837,"Eckenfelder, Heimkehr von der Kirchweihe. Hervorragend Fedder, Bayerische Post im Gebirge. Faber du Faur, Soldatenbild.",3644,61.2,False,positional,,,Oelgemalde,,
 BO0624_88128,530574,1003,1840,"Fierz, Insel Reichenau. Wintermorgen. """,3649,70.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530575,1004,1841,"Gogarten, Winterabend.",3651,88.9,False,positional,,,Oelgemalde,,
-BO0624_88128,530576,1005,2,"1844 See mit Segelschiff. """"",3653,96.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530577,1006,3,1843,3654,80.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530578,1007,4,"1845 Herzel, Alte Frau.",3655,95.5,False,positional,,,Oelgemalde,,
-BO0624_88128,530579,1008,5,1847,3656,80.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530580,1009,6,"1846 Herzog, Winterlandschaft. Aquarell.",3657,97.4,False,title_direct,,,Aquarelle,,
+BO0624_88128,530576,1005,2,"1844 See mit Segelschiff. """"",3653,96.0,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530577,1006,3,1843,3654,80.0,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530578,1007,4,"1845 Herzel, Alte Frau.",3655,95.5,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530579,1008,5,1847,3656,80.0,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530580,1009,6,"1846 Herzog, Winterlandschaft. Aquarell.",3657,97.4,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_88128,530581,1010,7,Landschaftsskizze.,3658,94.4,False,positional,,,Oelgemalde,,
-BO0624_88128,530582,1011,8,"1848 Kappis, Nachtliche Kelterszene.",3659,97.1,False,positional,,,Oelgemalde,,
-BO0624_88128,530583,1012,9,"1850 Keller, Feuerkopf.",3660,95.5,False,positional,,,Oelgemalde,,
-BO0624_88128,530584,1013,10,"1849 Kehrmann,Bei Dortrecht.",3661,94.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530585,1014,11,"1851 Koch, Stilleben.",3662,92.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530586,1015,12,1852,3663,72.7,False,positional,,,Oelgemalde,,
+BO0624_88128,530582,1011,8,"1848 Kappis, Nachtliche Kelterszene.",3659,97.1,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530583,1012,9,"1850 Keller, Feuerkopf.",3660,95.5,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530584,1013,10,"1849 Kehrmann,Bei Dortrecht.",3661,94.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530585,1014,11,"1851 Koch, Stilleben.",3662,92.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530586,1015,12,1852,3663,72.7,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530587,1016,13,"Konarski, Lustige Fahrt.",3664,93.6,False,positional,,,Oelgemalde,,
-BO0624_88128,530588,1017,14,1853 Schlittenfahrt.,3665,92.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530589,1018,15,1855,3666,72.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530590,1019,16,1854 Viererzug.,3667,90.3,False,positional,,,Oelgemalde,,
+BO0624_88128,530588,1017,14,1853 Schlittenfahrt.,3665,92.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530589,1018,15,1855,3666,72.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530590,1019,16,1854 Viererzug.,3667,90.3,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530591,1020,17,"Kotzebue, Kosaken.",3668,91.4,False,positional,,,Oelgemalde,,
-BO0624_88128,530592,1021,18,1856,3669,72.7,False,positional,,,Oelgemalde,,
+BO0624_88128,530592,1021,18,1856,3669,72.7,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530593,1022,19,"Krauss, Strassenbild in Tunis.",3670,94.9,False,positional,,,Oelgemalde,,
-BO0624_88128,530594,1023,20,1857,3671,72.7,False,positional,,,Oelgemalde,,
+BO0624_88128,530594,1023,20,1857,3671,72.7,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530595,1024,21,Markt in Tunis.,3672,90.3,False,positional,,,Oelgemalde,,
-BO0624_88128,530596,1025,22,"1858 Ley, Blumenstilleben, Mohn.",3673,95.1,False,positional,,,OGGETTI VARI,,
-BO0624_88128,530597,1026,23,"1860 Makart, Skizze.",3674,92.3,False,positional,,,Oelgemalde,,
-BO0624_88128,530598,1027,24,1862,3675,72.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530599,1028,25,"1859 Lytras, Priesterin.",3676,93.6,False,positional,,,Oelgemalde,,
-BO0624_88128,530600,1029,26,1861,3677,72.7,False,positional,,,Oelgemalde,,
+BO0624_88128,530596,1025,22,"1858 Ley, Blumenstilleben, Mohn.",3673,95.1,False,positional,,,OGGETTI VARI,,Sec. XIX
+BO0624_88128,530597,1026,23,"1860 Makart, Skizze.",3674,92.3,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530598,1027,24,1862,3675,72.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530599,1028,25,"1859 Lytras, Priesterin.",3676,93.6,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530600,1029,26,1861,3677,72.7,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530601,1030,27,Studie zu Pappenheim.,3678,93.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530602,1031,28,"Max Gabriel, Frauenschonheit. Hervorragend schones Bild.",3679,97.2,False,positional,MAX GABRIEL VON,,Oelgemalde,,
 BO0624_88128,530603,1032,29,"Miller-Cornelius, Landschaft mit Bauer, Bauerin u. Kihen.",3680,97.2,False,positional,,,Oelgemalde,,
-BO0624_88128,530604,1033,30,1863 Reizende Miniaturmalerei.,3681,95.1,False,positional,,,Oelgemalde,,
-BO0624_88128,530605,1034,31,"1864 """,3682,72.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530606,1035,32,1866,3683,72.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530607,1036,33,1865,3684,72.7,False,positional,,,Oelgemalde,,
+BO0624_88128,530604,1033,30,1863 Reizende Miniaturmalerei.,3681,95.1,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530605,1034,31,"1864 """,3682,72.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530606,1035,32,1866,3683,72.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530607,1036,33,1865,3684,72.7,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530608,1037,34,Heuernte.,3685,84.2,False,positional,,,Oelgemalde,,
-BO0624_88128,530609,1038,35,"1867 "" Trompeter von Sackingen.",3686,94.9,False,positional,,,Oelgemalde,,
+BO0624_88128,530609,1038,35,"1867 "" Trompeter von Sackingen.",3686,94.9,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530610,1039,36,Vorpsoten.,3687,85.7,False,positional,,,Oelgemalde,,
 BO0624_88128,530611,1040,37,""" Heuwagen mit Pferden bespannt.",3688,95.1,False,positional,,,Oelgemalde,,
-BO0624_88128,530612,1041,38,""" 1868 Neumann, Landschaft mit Muhle.",3689,95.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530613,1042,39,"1869 Orlow, Fischerdorf mit Staffage.",3690,95.9,False,positional,,,Oelgemalde,,
-BO0624_88128,530614,1043,40,1871,3691,72.7,False,positional,,,Oelgemalde,,
+BO0624_88128,530612,1041,38,""" 1868 Neumann, Landschaft mit Muhle.",3689,95.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530613,1042,39,"1869 Orlow, Fischerdorf mit Staffage.",3690,95.9,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530614,1043,40,1871,3691,72.7,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530615,1044,41,"1868a Neher, Amorette.",3692,93.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530616,1045,42,1870,3693,72.7,False,positional,,Scuola di Dusseldorf,Oelgemalde,,
-BO0624_88128,530617,1046,43,1872,3694,72.7,False,positional,,,Oelgemalde,,
+BO0624_88128,530616,1045,42,1870,3693,72.7,False,positional,,Scuola di Dusseldorf,Oelgemalde,,Sec. XIX
+BO0624_88128,530617,1046,43,1872,3694,72.7,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530618,1047,44,"Rau, Tirolerin.",3695,89.7,False,positional,,,Oelgemalde,,
 BO0624_88128,530619,1048,45,""" Raupp, Prof., Alter Mann auf dem Friedhof.",3696,96.2,False,positional,RAUPP KARL,,Oelgemalde,,
 BO0624_88128,530620,1049,46,Tiroler.,3697,82.4,False,positional,,Scuola Tirolese,Oelgemalde,,
 BO0624_88128,530621,1050,47,"1872a Senta (Fliegender Hollander). """"",3698,95.5,False,positional,,,Oelgemalde,,
-BO0624_88128,530622,1051,48,"1873 Rossler, Kartoffelernte.",3699,94.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530623,1052,49,1874,3700,72.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530624,1053,50,1876,3701,72.7,False,positional,,,Oelgemalde,,
+BO0624_88128,530622,1051,48,"1873 Rossler, Kartoffelernte.",3699,94.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530623,1052,49,1874,3700,72.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530624,1053,50,1876,3701,72.7,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530625,1054,51,Beladener Heuwagen.,3702,92.3,False,positional,,,Oelgemalde,,
-BO0624_88128,530626,1055,52,1875 Heuwagen mit Kuh und Pferd.,3703,95.4,False,positional,,,Oelgemalde,,
+BO0624_88128,530626,1055,52,1875 Heuwagen mit Kuh und Pferd.,3703,95.4,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530627,1056,53,”,3704,0.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530628,1057,54,9 Heuernte bei Minchen.,3705,93.6,False,positional,,,Oelgemalde,,
-BO0624_88128,530629,1058,55,"1877 Recknagel, Madchen mit Kirschen.",3706,95.9,False,positional,,,Oelgemalde,,
+BO0624_88128,530629,1058,55,"1877 Recknagel, Madchen mit Kirschen.",3706,95.9,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530630,1059,56,”,3707,0.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530631,1060,57,"1878 Rethel, Kopf eines Negers.",3708,95.1,False,positional,,,Oelgemalde,,
-BO0624_88128,530632,1061,58,"1880 Senglaub, Landschaft.",3709,94.1,False,positional,,,Oelgemalde,,
-BO0624_88128,530633,1062,59,"1879 Prof. Schickhardt,Abendwolken.",3710,95.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530634,1063,60,"1881 1882 "" Blumenstilleben. Vorzuglich.",3711,96.0,False,positional,,,OGGETTI VARI,,
-BO0624_88128,530635,1064,61,1884 Jagdstilleben.,3712,92.3,False,positional,,,Oelgemalde,,
-BO0624_88128,530636,1065,62,1886,3713,72.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530637,1066,63,"1883 Specht,Aug.,Seestick.",3714,94.1,False,positional,,,Oelgemalde,,
+BO0624_88128,530631,1060,57,"1878 Rethel, Kopf eines Negers.",3708,95.1,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530632,1061,58,"1880 Senglaub, Landschaft.",3709,94.1,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530633,1062,59,"1879 Prof. Schickhardt,Abendwolken.",3710,95.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530634,1063,60,"1881 1882 "" Blumenstilleben. Vorzuglich.",3711,96.0,False,positional,,,OGGETTI VARI,,Sec. XIX
+BO0624_88128,530635,1064,61,1884 Jagdstilleben.,3712,92.3,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530636,1065,62,1886,3713,72.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530637,1066,63,"1883 Specht,Aug.,Seestick.",3714,94.1,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530638,1067,64,”,3715,0.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530639,1068,65,"1885 Pfingstrosen. """,3716,91.9,False,positional,,,Oelgemalde,,
-BO0624_88128,530640,1069,66,"1887 Stademann, Adolf,Winterlandschaft mit Schlittschuhlaufern. """,3717,97.6,False,positional,STADEMANN ADOLF,,Oelgemalde,,
+BO0624_88128,530639,1068,65,"1885 Pfingstrosen. """,3716,91.9,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530640,1069,66,"1887 Stademann, Adolf,Winterlandschaft mit Schlittschuhlaufern. """,3717,97.6,False,positional,STADEMANN ADOLF,,Oelgemalde,,Sec. XIX
 BO0624_88128,530641,1070,67,3 Blumenteller.,3718,90.3,False,positional,,,Oelgemalde,,
-BO0624_88128,530642,1071,68,"1888 Starker, Seestick.",3719,93.3,False,positional,,,Oelgemalde,,
-BO0624_88128,530643,1072,69,"1889 Unbekannt, Kuh im Stalle.",3720,94.9,False,positional,,,Oelgemalde,,
-BO0624_88128,530644,1073,1890,"Unbekannt, Gesatteltes Reitpferd mit Diener. 1891",3721,94.9,False,positional,,,Oelgemalde,,
-BO0624_88128,530645,1074,1893,1892 Madchenkopf.  Pastell.,3725,100.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530646,1075,1894,"Van der Venne, Beladener Heuwagen. 1895",3733,93.7,False,positional,,,Oelgemalde,,
-BO0624_88128,530647,1076,1898,"- 1896 Wex, Adalbert, Herbstabend in den Isarauen bei Freising. 1897 Willroider, Kornernte.",3735,100.0,False,positional,WILLROIDER JOSEPH,,Oelgemalde,,
+BO0624_88128,530642,1071,68,"1888 Starker, Seestick.",3719,93.3,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530643,1072,69,"1889 Unbekannt, Kuh im Stalle.",3720,94.9,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530644,1073,1890,"Unbekannt, Gesatteltes Reitpferd mit Diener. 1891",3721,94.9,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530645,1074,1893,1892 Madchenkopf.  Pastell.,3725,100.0,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530646,1075,1894,"Van der Venne, Beladener Heuwagen. 1895",3733,93.7,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530647,1076,1898,"- 1896 Wex, Adalbert, Herbstabend in den Isarauen bei Freising. 1897 Willroider, Kornernte.",3735,100.0,False,positional,WILLROIDER JOSEPH,,Oelgemalde,,Sec. XIX
 BO0624_88128,530648,1077,1899,Landschaft mit Dorfkirche.,3736,90.9,False,positional,,,Oelgemalde,,
 BO0624_88128,530649,1078,1900,"Ziebland, Prof., Der frohliche Zecher.",3738,93.2,False,positional,,,Oelgemalde,,
 BO0624_88128,530650,1079,1901,"Zofi, An der Riviera.",3739,88.4,False,positional,,,Oelgemalde,,
@@ -1090,26 +1090,26 @@ BO0624_88128,530659,1088,1909,"Karl Eugen, Herzog von Wurttemberg zu Pferd. Port
 BO0624_88128,530660,1089,1912,"Wilhelm I., Konig von Wurttemberg, von Schreiner.",3779,100.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530661,1090,1913,"Karl, Konig von Wuirttemberg, als Kronprinz.",3781,94.3,False,positional,,,Oelgemalde,,
 BO0624_88128,530662,1091,1914,Prinz Weimar.,3785,82.8,False,positional,,,Oelgemalde,,
-BO0624_88128,530663,1092,1916,1915 Furst Hohenlohe-Schillingsfurst.,3789,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530663,1092,1916,1915 Furst Hohenlohe-Schillingsfurst.,3789,100.0,False,positional,,,Oelgemalde,,Sec. XX
 BO0624_88128,530664,1093,1917,"3 Studienblatter aus Brahms Requiem, darunter 2 Portrats von Frau Arnold. Zeichnungen v.Haberlin.",3791,97.4,False,title_direct,,,Zeichnungen,,
 BO0624_88128,530665,1094,1918,"L.Blind, Zeichnung von Haberlin. Karikatur von Haberlin.# Zeichnung.",3799,67.4,False,title_direct,,,Zeichnungen,,
-BO0624_88128,530666,1095,1919,"1921 Keppler, Christoph, Friedr.,Gastgeber zum Wuirttemberger",3805,100.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530666,1095,1919,"1921 Keppler, Christoph, Friedr.,Gastgeber zum Wuirttemberger",3805,100.0,False,positional,,,Oelgemalde,,Sec. XX
 BO0624_88128,530667,1096,1922,Leibmedicus Klein. ## c.Begebenheiten.,3812,62.5,False,positional,,,Oelgemalde,,
-BO0624_88128,530668,1097,1923,"3Napoleon und Schiller im Elysium. Plakat zur Schillerfeier 1859. 2 Bilder des Chors ,Suevia"" in Tubingen.",3818,55.9,False,positional,,,FOTOGRAFIE,,
+BO0624_88128,530668,1097,1923,"3Napoleon und Schiller im Elysium. Plakat zur Schillerfeier 1859. 2 Bilder des Chors ,Suevia"" in Tubingen.",3818,55.9,False,positional,,,FOTOGRAFIE,,Sec. XIX
 BO0624_88128,530669,1098,1926,Karikaturbild von Haberlin. Zeichnung.,3820,93.5,False,title_direct,,,Zeichnungen,,
 BO0624_88128,530670,1099,25,Blatt vom Cannstatter Volksfest. Zeichn. v. Haberlin.,3822,97.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530671,1100,1928,Einzug von Konig Karl und Konigin Olga in Esslingen. Zeichnung von Haberlin.,3824,96.7,False,positional,,,Oelgemalde,,
 BO0624_88128,530672,1101,1930,Einzug Herzog Ulrich's im Lager der Landsknechte.,3828,95.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530673,1102,1931,1927 Hochzeit Herzog Ludwig's,3834,96.6,False,positional,,,Oelgemalde,,
+BO0624_88128,530673,1102,1931,1927 Hochzeit Herzog Ludwig's,3834,96.6,False,positional,,,Oelgemalde,,Sec. XX
 BO0624_88128,530674,1103,1932,Jubilaum Konig Wilhelm's I. Zeichnung v. Haberlin.,3842,100.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530675,1104,1933,Verkindigung der Konigswirde 1. Jan. 1806. Zeichn. v. Haberlin.,3844,95.8,False,positional,,,Oelgemalde,,
+BO0624_88128,530675,1104,1933,Verkindigung der Konigswirde 1. Jan. 1806. Zeichn. v. Haberlin.,3844,95.8,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530676,1105,1934,Die Englander u. das Tischtuch. Zeichn. v. Haberlin.,3848,100.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530677,1106,1935,Herzog Ulrich u. Barbele. Zeichn. v.Haberlin. Durchgehende Pferde an einem Leichenwagen.,3854,65.1,False,positional,,,Oelgemalde,,
 BO0624_88128,530678,1107,1936,1938 Feuerspringen im Schwarzwald.,3858,100.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530679,1108,1939,Hanfschleissen im Schwarzwald. Fischerstechen in Ulm. Erntefest in Ulm. 1817.,3862,54.2,False,positional,,,Oelgemalde,,
+BO0624_88128,530679,1108,1939,Hanfschleissen im Schwarzwald. Fischerstechen in Ulm. Erntefest in Ulm. 1817.,3862,54.2,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530680,1109,1942,"Ausbruch der Blau. Bebenhauser Jagd,Gerahmt.Sehr selten! Wasserjagd bei Glemseck. Sepiazeichnung.",3872,57.4,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88128,530681,1110,1945,Hinrichtung des Vatermorders Hahn in Boblingen. Einfuhr des ersten Erntewagens in Esslingen 1817. Blutsritt in Weingarten.,3876,57.0,False,positional,,,Oelgemalde,,
-BO0624_88128,530682,1111,1948,2 Blatt Gefangennahme des Juden Siss. Zeichn. v. Haberlin. Kampf an der Kongener Bricke.  Zeichnung von Haberlin. Einzug der Truppen in Stuttgart 1871.Zeichn.v.Haberlin.,3884,50.0,False,positional,,,Oelgemalde,,
+BO0624_88128,530681,1110,1945,Hinrichtung des Vatermorders Hahn in Boblingen. Einfuhr des ersten Erntewagens in Esslingen 1817. Blutsritt in Weingarten.,3876,57.0,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88128,530682,1111,1948,2 Blatt Gefangennahme des Juden Siss. Zeichn. v. Haberlin. Kampf an der Kongener Bricke.  Zeichnung von Haberlin. Einzug der Truppen in Stuttgart 1871.Zeichn.v.Haberlin.,3884,50.0,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88128,530683,1112,1951,Herzog Ulrichs Sprung iber die Kongener Briicke.,3886,94.9,False,positional,,,Oelgemalde,,
 BO0624_88128,530684,1113,1952,Friedensfeier in Stuttgart. Zeichnung von Haberlin.,3888,95.1,False,positional,,,Oelgemalde,,
 BO0624_88128,530685,1114,1953,Schiller erhalt den ersten Preis in der Karlsschule.,3892,95.3,False,positional,,,Oelgemalde,,
@@ -1119,7 +1119,7 @@ BO0624_88128,530688,1117,1957,Militar. 36 Blatt von Stadlinger. Szene aus dem Fe
 BO0624_88128,530689,1118,1958,31Blatt Wurtt. Uniformen.,3910,100.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530690,1119,1961,"4 Blatt wirtt. Militar. Zeichnung von Haberlin. 99 """,3912,94.9,False,positional,,,Oelgemalde,,
 BO0624_88128,530691,1120,1962,5 Blatt wirtt. Militarstudien von Haberlin.,3915,94.3,False,positional,,,Oelgemalde,,
-BO0624_88128,530692,1121,1963,2 Blatt wirtt. Soldatenbilder a. d. J. 1724-34 u. 1724-26. Zeichnungen von Haberlin. Blatt Ulmer Trachten. Sehr selten.,3917,80.2,False,title_direct,,,Zeichnungen,,
+BO0624_88128,530692,1121,1963,2 Blatt wirtt. Soldatenbilder a. d. J. 1724-34 u. 1724-26. Zeichnungen von Haberlin. Blatt Ulmer Trachten. Sehr selten.,3917,80.2,False,title_direct,,,Zeichnungen,,Sec. XVIII
 BO0624_88128,530693,1122,1964,7 Trachtenbilder aus Wurttemberg. Zeichnung von Haberlin. 1965,3923,96.0,False,positional,,,Oelgemalde,,
 BO0624_88128,530694,1123,1967,Reutlinger Trachten. 24,3925,82.6,False,positional,,,Oelgemalde,,
 BO0624_88128,530695,1124,1968,5 Blatt wirtt. Trachtenbilder.Gerahmt.,3931,93.5,False,positional,,,Oelgemalde,,
@@ -1323,12 +1323,12 @@ BO0624_88128,530892,1321,2358,Diverse alte Facher. Kammerherrnschlissel. Messers
 BO0624_88128,530893,1322,2361,Goldgestickte Haube mit Perlen.,4798,92.3,False,positional,,,Schatullen,,
 BO0624_88128,530894,1323,2361,a Verschiedene Uhrschluissel. Wurtt. Ausstellungsmedaille mit Konig Karl.,4806,72.4,False,positional,,,Minzen,,
 BO0624_88128,530895,1324,2362,2364,4810,100.0,False,positional,,,Minzen,,
-BO0624_88128,530896,1325,2365,"Ziurich, halber Taler 1761.",4812,90.9,False,positional,,,Minzen,,
+BO0624_88128,530896,1325,2365,"Ziurich, halber Taler 1761.",4812,90.9,False,positional,,,Minzen,,Sec. XVIII
 BO0624_88128,530897,1326,2366,"Zehn Batzen, Schweiz, Uri. 9 Silberminzen",4816,69.7,False,title_direct,,,Minzen,,
 BO0624_88128,530898,1327,2367,"6 div, Silber- und Kupferminzen etc.",4820,93.0,False,positional,,,Minzen,,
 BO0624_88128,530899,1328,2368,a 34 Kupferminzen.,4821,89.5,False,positional,,,Minzen,,
 BO0624_88128,530900,1329,2368,"c Romische Minzen. b 37 Silberminzen, darunter viele Wirttemberger.",4825,80.7,False,title_direct,,Scuola Romana,Minzen,,
-BO0624_88128,530901,1330,2369,"24 Kupferminzen. a Ca. 1000 Marken, darunter sehr seltene Sticke.",4831,83.6,False,positional,,,Minzen,,
+BO0624_88128,530901,1330,2369,"24 Kupferminzen. a Ca. 1000 Marken, darunter sehr seltene Sticke.",4831,83.6,False,positional,,,Minzen,,Sec. XI
 BO0624_88128,530902,1331,2370,4 Glasgemalde.,4835,83.9,False,title_direct,,,Glasgemalde,,
 BO0624_88128,530903,1332,2371,"2372 Silhouette, Jagd darstellend.",4839,100.0,False,positional,,,Glasgemalde; Miniaturen,,
 BO0624_88128,530904,1333,1,"Bild auf Glas gemalt, Abrahams Opfer. In altem Barockrahmen.",4841,98.3,False,positional,,,Glasgemalde; Miniaturen,,
@@ -1437,7 +1437,7 @@ BO0624_88128,531006,1435,2561,2563,5217,100.0,False,positional,,,Waffen,,
 BO0624_88128,531007,1436,2564,8 Kanonenkugeln aus dem Schwedenkrieg ausgegraben bei Konstanz im Garten von Dr. Seitz.,5223,100.0,False,positional,,,Waffen,,
 BO0624_88128,531008,1437,2564,"a 2 Waffentrophaen mit Kirass, Gewehr und Sabel. Bauerntisch mit 4 gedrehten Fuissen und Schublade.",5231,68.0,False,title_direct,,,Waffen,,
 BO0624_88128,531009,1438,2565,2567 Grosse Truhe mit geschnitzten Figuren und Fuillungen.,5235,100.0,False,positional,,,BAULI,,
-BO0624_88128,531010,1439,2569,Geschnitztes Brett. Truhenwand mit aufgelegten Ornamenten. 1619.,5239,79.6,False,positional,,,Mobel,,
+BO0624_88128,531010,1439,2569,Geschnitztes Brett. Truhenwand mit aufgelegten Ornamenten. 1619.,5239,79.6,False,positional,,,Mobel,,Sec. XVII
 BO0624_88128,531011,1440,2570,"Grosser Kleiderkasten mit Saulen und eingelegten Turen,",5241,95.6,False,positional,,,Mobel,,
 BO0624_88128,531012,1441,2571,Himmelbettstelle mit gewundenen Saulen und Ornament.,5243,95.3,False,positional,,,Mobel,,
 BO0624_88128,531013,1442,2572,Fussschrank mit gewundenen Saulen und Aufsatz.,5247,94.7,False,positional,,,Mobel,,
@@ -1447,7 +1447,7 @@ BO0624_88128,531016,1445,2575,Runder Klostertisch mit 4 in eine Kugel gefigten F
 BO0624_88128,531017,1446,2578,"Altaraufbau aus der Kirche in Kongen, mit Saulen u. Consolen",5267,95.9,False,positional,,,Mobel,,
 BO0624_88128,531018,1447,2579,Altaraufbau mit schwarzen Saulen und Consolen. Etagere mit gewundenen Saulen. Kleine Truhe.,5269,65.2,False,positional,,,BAULI,,
 BO0624_88128,531019,1448,2582,Alter schwarzer Hollander-Rahmen mit gerippten Staben. Alte spanische Wand mit gemalten und aufgeklebten Tieren und Blumen. 3teilig. Barockspiegel.,5277,68.2,False,positional,,,CORNICI,,
-BO0624_88128,531020,1449,2585,2 Glasfenster mit runden u. eckigen Glasern u. Verbleiungen. Stuhllehne. 1621. Altvatersessel mit Backen.,5283,73.1,False,positional,,,Mobel,,
+BO0624_88128,531020,1449,2585,2 Glasfenster mit runden u. eckigen Glasern u. Verbleiungen. Stuhllehne. 1621. Altvatersessel mit Backen.,5283,73.1,False,positional,,,Mobel,,Sec. XVII
 BO0624_88128,531021,1450,2588,Adlerstuhl.,5289,80.0,False,positional,,,Mobel,,
 BO0624_88128,531022,1451,2589,Holzgeschnitzter Bauernstuhl.,5290,91.8,False,positional,,,Mobel,,
 BO0624_88128,531023,1452,2591,2590 Stuhi mit hoher Lehne und grinem Pluschuberzug.,5294,100.0,False,positional,,,Mobel,,
@@ -1456,8 +1456,8 @@ BO0624_88128,531025,1454,2593,Geschnitzter Lehnsessel mit Fratzen. Hocker mit ge
 BO0624_88128,531026,1455,2596,"- Lehnstuhl mit gewundenen Fuissen (Renaissance). Grosse Kunstlerstehstaffelei mit Flaschenzug, Schraubengewinde und Mallatte. - Lehnstuhl (Renaissance).",5310,68.2,False,positional,,,Mobel,,
 BO0624_88128,531027,1456,2599,Gliederpuppe.,5316,82.8,False,positional,,,Mobel,,
 BO0624_88128,531028,1457,2600,"Malschirm mit Stock, Feldstaffelei, Klappbrett, Feldstuhl, Hocker.",5318,96.1,False,positional,,,Mobel,,
-BO0624_88128,531029,1458,2601,"Amphitheatrum, neu eroffnet, worinnen nach dem uns bekannten ganzen Weltkreis alle Nationen nach ihrem Habit in sauberen Figuren prasentiert. 4 Tle. in 1 Bd. Fol. Erffurth 1723/24. Europa, Afrika,Amerika, Turcicum — mit zahlreichen sehr interessanten Holzschnitten —a am Anfang und Ende je mehrere Blatter fehlend.",5323,99.2,False,positional,,,Mobel,,
-BO0624_88128,531030,1459,2602,"Merian, M., Topographia Sueviae, d.i. Beschreib.u.Aigentliche Abcontrafeitung der firnembsten Statt u. Platz i. Ober-u.Nieder-Schwaben,Hertzogth.Wurtenberg,Marggraffschaft Baden etc. Fol. Franckf. 1643. Originalausgabe m. allen Kupfrn i. schonen Abdricken. Solider",5324,99.0,False,positional,,,Mobel,,
-BO0624_88128,531031,1460,2603,"Paulus, E., Kunst- und Altertumsdenkmale i. Kgr. Wurttemberg. Inventar: Neckar-, Schwarzwald, Jagst- u. Donaukreis. 2 Bde.Lex. 8°. Orig. Lwd. u. Lief. 21.—26. Atlas. Dieselben fur Kreise, 2 Bde. Orig. Lwd.u. Lief. 35.—36 qu.Fol.Stg.1889/00.",5325,98.8,False,positional,,,Mobel,,
+BO0624_88128,531029,1458,2601,"Amphitheatrum, neu eroffnet, worinnen nach dem uns bekannten ganzen Weltkreis alle Nationen nach ihrem Habit in sauberen Figuren prasentiert. 4 Tle. in 1 Bd. Fol. Erffurth 1723/24. Europa, Afrika,Amerika, Turcicum — mit zahlreichen sehr interessanten Holzschnitten —a am Anfang und Ende je mehrere Blatter fehlend.",5323,99.2,False,positional,,,Mobel,,Sec. XVIII
+BO0624_88128,531030,1459,2602,"Merian, M., Topographia Sueviae, d.i. Beschreib.u.Aigentliche Abcontrafeitung der firnembsten Statt u. Platz i. Ober-u.Nieder-Schwaben,Hertzogth.Wurtenberg,Marggraffschaft Baden etc. Fol. Franckf. 1643. Originalausgabe m. allen Kupfrn i. schonen Abdricken. Solider",5324,99.0,False,positional,,,Mobel,,Sec. XVII
+BO0624_88128,531031,1460,2603,"Paulus, E., Kunst- und Altertumsdenkmale i. Kgr. Wurttemberg. Inventar: Neckar-, Schwarzwald, Jagst- u. Donaukreis. 2 Bde.Lex. 8°. Orig. Lwd. u. Lief. 21.—26. Atlas. Dieselben fur Kreise, 2 Bde. Orig. Lwd.u. Lief. 35.—36 qu.Fol.Stg.1889/00.",5325,98.8,False,positional,,,Mobel,,Sec. XIX
 BO0624_88128,531032,1461,2604,"Erbe, Huhnerhof.Aquarell, gerahmt;vorziglich.",5327,94.4,False,title_direct,,,Aquarelle,,
 BO0624_88128,531033,1462,2605,"C. Haberlin,ital. Architekturbild.",5328,92.5,False,positional,,,Mobel,,

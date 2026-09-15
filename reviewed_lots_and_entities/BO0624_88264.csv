@@ -3,14 +3,14 @@ BO0624_88264,443919,1,1,Hahnenmarkt,5,95.7,False,positional,ANGLADA CAMARASA,,,,
 BO0624_88264,443920,2,4,Bildnis derFrau Dr.Halbe,26,98.0,False,positional,LOVIS CORINTH,,,,
 BO0624_88264,443921,3,5,"Totenklage m Vordergrund der nackte Leichnam eines Junglings. Neben ihm auf einem Stein sitzt ein nackter Mann, den Arm des Toten fassend. Links in das Bild schreitet klagend ein nur mit Schurz bekleideter lungling. lm Hintergrund links die Kopfe zweier klagender Frauen, rechts die Figur einer Alten, die sich die grauen Haare rauft. GroBe Komposition in matten graublauen und graubraunen Tonen.",36,98.4,False,positional,LOVIS CORINTH,,,,
 BO0624_88264,443922,4,6,"Die Malerfamilie (Titelbild) n einem Lehnstuhl eine Dame （die Gattin des Kunstlers),in lichtem Kleid und Hut, in den Armen ein Kind im Steckkissen. Rechts in ganzer Figur der Kunstler, mit Palette und Pinsel in der Hand. Links der Knabe.",46,94.0,False,positional,LOVIS CORINTH,,,,
-BO0624_88264,443923,5,7,Weinendes Madchen (1890),56,97.8,False,positional,LOVIS CORINTH,,,,
+BO0624_88264,443923,5,7,Weinendes Madchen (1890),56,97.8,False,positional,LOVIS CORINTH,,,,Sec. XIX
 BO0624_88264,443924,6,8,Nacktheit <!-- image -->,64,72.0,False,positional,LOVIS CORINTH,,,,
 BO0624_88264,443925,7,9,Bubende Magdalena ## LOVIS CORINTH,78,68.0,False,title_direct,LOVIS CORINTH,,,,
 BO0624_88264,443926,8,10,Ruhe,91,72.7,False,positional,LOVIS CORINTH,,BAULI,,
 BO0624_88264,443927,9,11,Fleischerladen,99,90.3,False,positional,LOVIS CORINTH,,,,
 BO0624_88264,443928,10,12,Stilleben,106,90.0,False,positional,LOVIS CORINTH,,,,
-BO0624_88264,443929,11,13,Erwachendes Madchen (1895),114,94.1,False,positional,LOVIS CORINTH,,,,
-BO0624_88264,443930,12,14,"Marine,Nordsee （1900)",122,92.7,False,positional,LOVIS CORINTH,,,,
+BO0624_88264,443929,11,13,Erwachendes Madchen (1895),114,94.1,False,positional,LOVIS CORINTH,,,,Sec. XIX
+BO0624_88264,443930,12,14,"Marine,Nordsee （1900)",122,92.7,False,positional,LOVIS CORINTH,,,,Sec. XX
 BO0624_88264,443931,13,15,Dame im Gruinen,130,90.9,False,positional,LOVIS CORINTH,,,,
 BO0624_88264,443932,14,16,Maienbluite,144,88.0,False,positional,LOVIS CORINTH,,,,
 BO0624_88264,443933,15,I,n seinem Schlafgemach auf dem Boden liegt Simson. Uber ihn sich hersturzend die Schergen der Philister. lm Hintergrund erhebt sich vom Ruhebett mit aufgelostem Haar Dalila.Rechts in der Tur die Kopfe zweier Schergen leicht angedeutet. Komposition in lebensgroBen Figuren.,157,99.8,False,positional,LOVIS CORINTH,,,,
@@ -52,7 +52,7 @@ BO0624_88264,443968,50,52,Waldlandschaft m Vordergrundmachtiger Baumstamm.,533,8
 BO0624_88264,443969,51,53,Bildnis des Generals von Schleinitz ## LUDWIG WILLROIDER,542,76.9,False,title_direct,LUDWIG WILLROIDER,,,,
 BO0624_88264,443970,52,54,Bei Fritzlar,557,88.9,False,positional,LUDWIG WILLROIDER,,,,
 BO0624_88264,443971,53,55,Rinder auf der Weide,569,93.0,False,positional,HEINRICH VON ZUGEL,,,,
-BO0624_88264,443972,54,56,## HEINRICH VON ZUGEL Scheckvieh in den Auen (1910),582,73.7,False,title_direct,HEINRICH VON ZUGEL,,,,
+BO0624_88264,443972,54,56,## HEINRICH VON ZUGEL Scheckvieh in den Auen (1910),582,73.7,False,title_direct,HEINRICH VON ZUGEL,,,,Sec. XX
 BO0624_88264,443973,55,57,Sauhatz,586,82.4,False,positional,HEINRICH VON ZUGEL,,,,
 BO0624_88264,443974,56,58,In den Rheingauen GNAZIO ZULOAGA,592,65.4,False,title_direct,IGNAZIO ZULOAGA,,,,
 BO0624_88264,443975,57,59,Weinernte,604,85.7,False,positional,IGNAZIO ZULOAGA,,,,
@@ -97,7 +97,7 @@ BO0624_88264,444013,95,115,"Weiblicher Akt, sitzend,mit erhobenen Handen n der M
 BO0624_88264,444014,96,116,Beaulieu,959,80.0,False,positional,LOVIS CORINTH,,,,
 BO0624_88264,444015,97,117,Simsons Gefangennahme ## LOVIS CORINTH,967,70.0,False,title_direct,LOVIS CORINTH,,,,
 BO0624_88264,444016,98,118,Beweinung Christi,982,89.5,False,positional,LOVIS CORINTH,,,,
-BO0624_88264,444017,99,119,"Dame, sitzend (1879)",986,89.5,False,positional,LOVIS CORINTH,,,,
+BO0624_88264,444017,99,119,"Dame, sitzend (1879)",986,89.5,False,positional,LOVIS CORINTH,,,,Sec. XIX
 BO0624_88264,444018,100,120,Selbstbildnis,990,86.7,False,positional,LOVIS CORINTH,,,,
 BO0624_88264,444019,101,121,"Weibliches Bildnis, Frau des Kunstlers",994,94.9,False,positional,LOVIS CORINTH,,,,
 BO0624_88264,444020,102,122,Tiroler Madchen (Brustbild nach links),998,94.7,False,positional,LOVIS CORINTH,,,,
@@ -109,7 +109,7 @@ BO0624_88264,444025,107,127,"Mann mit Muite (Studie zur ,frohen Botschaft)",1046
 BO0624_88264,444026,108,128,Feldblumen,1053,83.3,False,positional,LUDWIG DETTMANN,,,,
 BO0624_88264,444027,109,129,"Holsteinische Landschaft m Vordergrund Stoppelfelder,der Horizont abgeschlossen durch Waldungen. Grau- blau bewolkter Himmel.",1061,89.1,False,positional,LUDWIG DETTMANN,,,,
 BO0624_88264,444028,110,130,Waldfrau,1067,80.0,False,positional,LUDWIG DETTMANN,,,,
-BO0624_88264,444029,111,131,Alter Mann nach rechts (1900),1071,93.1,False,positional,LUDWIG DETTMANN,,,,
+BO0624_88264,444029,111,131,Alter Mann nach rechts (1900),1071,93.1,False,positional,LUDWIG DETTMANN,,,,Sec. XX
 BO0624_88264,444030,112,132,Alter Mann nach links,1079,91.3,False,positional,LUDWIG DETTMANN,,,,
 BO0624_88264,444031,113,133,Manner am Gangspill auf der Schiffswerft. GroBe Studie zum Danziger Aulabild,1088,97.4,False,positional,LUDWIG DETTMANN,,,,
 BO0624_88264,444032,114,6,Manner mit entbloBtem Oberkorper an der Arbeit.,1090,97.9,False,positional,LUDWIG DETTMANN,,,,
@@ -185,7 +185,7 @@ BO0624_88264,444101,183,205,Frau im Mieder,1634,87.5,False,positional,ADOLPH VON
 BO0624_88264,444102,184,206,5Wascherin im Regen,1643,90.5,False,positional,ADOLPH VON MENZEL,,,,
 BO0624_88264,444103,185,207,Zwei Frauenkopfe,1652,88.9,False,positional,ADOLPH VON MENZEL,,,,
 BO0624_88264,444104,186,208,"8Alte Frau, Magdeburgerin Bezeichnet links unten. Zeichnung. Hohe 21 cm, Breite 13 cm. <!-- image -->",1665,94.2,False,positional,ADOLPH VON MENZEL,,,,
-BO0624_88264,444105,187,209,"Freienwalde, Landschaft (1867)",1672,93.1,False,positional,ADOLPH VON MENZEL,,,,
+BO0624_88264,444105,187,209,"Freienwalde, Landschaft (1867)",1672,93.1,False,positional,ADOLPH VON MENZEL,,,,Sec. XIX
 BO0624_88264,444106,188,210,Gewandstudie zur Piazza,1678,92.0,False,positional,ADOLPH VON MENZEL,,,,
 BO0624_88264,444107,189,211,Mann mit Stock,1687,87.5,False,positional,ADOLPH VON MENZEL,,,,
 BO0624_88264,444108,190,212,"Essende Manner, Studie zum , Walzwerk""",1696,94.4,False,positional,ADOLPH VON MENZEL,,,,
@@ -223,7 +223,7 @@ BO0624_88264,444139,221,254,Weiblicher Akt,1964,87.5,False,positional,LOVIS CORI
 BO0624_88264,444140,222,259,"Eva, Teufel und Sunde",1976,90.9,False,positional,OTTO GREINER,,,,
 BO0624_88264,444141,223,260,Bildnis Max Klingers,1982,90.9,False,positional,OTTO GREINER,,,,
 BO0624_88264,444142,224,261,Menzel-Adresse,1992,87.5,False,positional,MAX KLINGER,,,,
-BO0624_88264,444143,225,262,Festblatt zu einer internationalen Zusammenkunft in Dresden 1895,1998,97.0,False,positional,MAX KLINGER,,,,
+BO0624_88264,444143,225,262,Festblatt zu einer internationalen Zusammenkunft in Dresden 1895,1998,97.0,False,positional,MAX KLINGER,,,,Sec. XIX
 BO0624_88264,444144,226,263,Herrscher (Vom Tode Ill),2004,91.7,False,positional,MAX KLINGER,,,,
 BO0624_88264,444145,227,264,lnteger vitae (Vom Tode Il),2010,92.6,False,positional,MAX KLINGER,,,,
 BO0624_88264,444146,228,265,Ex libris:Max Klinger,2017,91.3,False,positional,MAX KLINGER,,,,
@@ -232,8 +232,8 @@ BO0624_88264,444148,230,267,Ex libris,2031,81.8,False,positional,MAX KLINGER,,,,
 BO0624_88264,444149,231,268,Ex libris,2037,85.7,False,positional,MAX KLINGER,,,,
 BO0624_88264,444150,232,269,Drei Damen oder stille Teilnahme,2049,94.1,False,positional,ADOLPH VON MENZEL,,,,
 BO0624_88264,444151,233,270,Das Letzte,2052,83.3,False,positional,ADOLPH VON MENZEL,,,,
-BO0624_88264,444152,234,271,Meister Albrecht (1858),2056,91.3,False,positional,ADOLPH VON MENZEL,,,,
-BO0624_88264,444153,235,272,Don luan und Elvira (1859),2060,92.3,False,positional,ADOLPH VON MENZEL,,,,
+BO0624_88264,444152,234,271,Meister Albrecht (1858),2056,91.3,False,positional,ADOLPH VON MENZEL,,,,Sec. XIX
+BO0624_88264,444153,235,272,Don luan und Elvira (1859),2060,92.3,False,positional,ADOLPH VON MENZEL,,,,Sec. XIX
 BO0624_88264,444154,236,273,Sechs Neujahrswiinsche,2064,91.7,False,positional,ADOLPH VON MENZEL,,,,
 BO0624_88264,444155,237,274,Sechs Neujahrswinsche,2070,91.3,False,positional,ADOLPH VON MENZEL,,,,
 BO0624_88264,444156,238,275,Guttenberg,2076,83.3,False,positional,ADOLPH VON MENZEL,,,,

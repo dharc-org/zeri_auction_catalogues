@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83902,45308,1,12,13 —Vases de fleurs,176,92.3,False,positional,MONNOYER,,VASI,,
-BO0624_83902,45309,2,I,"fs,1668-1752.",370,96.0,False,positional,TOURNIERES,,,,
+BO0624_83902,45309,2,I,"fs,1668-1752.",370,96.0,False,positional,TOURNIERES,,,,Sec. XVII
 BO0624_83902,45310,3,I,'un sonne du cor.,412,93.8,False,positional,WYNANTS,,,,
 BO0624_83902,45311,4,30,Une Route a travers bois.,454,94.1,False,positional,,ECOLE FRANCAISE,OGGETTI IN LEGNO,,
 BO0624_83902,45312,5,31,31 — Portrait de jeune femme.,464,100.0,False,positional,,ECOLE FRANCAISE,,,

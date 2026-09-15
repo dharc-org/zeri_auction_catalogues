@@ -10,13 +10,13 @@ BO0624_81775,55038,8,8,"Lotto di tre quadri:Due di soggetto sacro, ed un ritratt
 BO0624_81775,55039,9,9,Tintoretto Sec.XVI. Cristo morto. Schizzo su tela a chiaro scuro.Al,14,98.5,False,positional,TINTORETTO,,Quadri,,
 BO0624_81775,55040,10,10,"Correggio (Scuola del). Sec.XVI. La Vergine col Bambino ed Angeli. Bellissimo dipinto su tela, di soavita indicibile, di colorito delieato e piacevole. Cornice legno policroma. Alt. cm.92, larg. cm.70.",16,99.2,False,title_direct,CORREGGIO,Scuola del Correggio,Cornici,,
 BO0624_81775,55041,11,1,"l. Scuola Toscana. Sec.XV.La Vergine col Bambino, bel dipinto a fondo oro,forma gotica. Alt. cm.74, larg. cm.40.",17,99.5,False,positional,,Scuola Toscana,Quadri,,
-BO0624_81775,55042,12,12,Scuola Veneziana. Sec. XVI. La Vergine col Bambino. Bel dipinto,18,97.5,False,positional,,Scuola Veneziana,Quadri,,
+BO0624_81775,55042,12,12,Scuola Veneziana. Sec. XVI. La Vergine col Bambino. Bel dipinto,18,97.5,False,positional,,Scuola Veneziana,Quadri,,Sec. XVI
 BO0624_81775,55043,13,13,Scuola Tedesca. Sec.XV. Sportello avente sui due piani dipinti,19,97.6,False,positional,,,Quadri,,
 BO0624_81775,55044,14,14,"Alberto Durer (?). Sec.XV.La Vergine del. Pero (?).Interessante dipinto su tavola, forse lavoro giovanile dell'insigne maestro,il quale ha dipinto un quadro di questo soggetto che si ritenne perduto.Alt. em.56,",22,99.2,False,positional,DURER ALBRECHT,,Quadri,,
 BO0624_81775,55045,15,15,"Scuola Veneziana. Sec.XV.La Vergine con Santi, dipinto su tavola di grande bellezza. Cornice legno dorata. Alt. cm. 52, larg. cm. 35.",27,98.8,False,title_direct,,Scuola Veneziana,Cornici,,
 BO0624_81775,55046,16,16,Seuola Veneziana. Sec.XV. La Vergine col Bambino. Bel dipinto su,28,97.6,False,positional,,,Quadri,,
 BO0624_81775,55047,17,3,"tavola,fondo oro.Alt.cm.90,larg.cm,58.",29,97.4,False,positional,,,Quadri,,
-BO0624_81775,55048,18,4,17.Innocenzo da Imola Sec. XVI. La Vergine col Bambino. Superbo di-,30,98.4,False,positional,,,Quadri,,
+BO0624_81775,55048,18,4,17.Innocenzo da Imola Sec. XVI. La Vergine col Bambino. Superbo di-,30,98.4,False,positional,,,Quadri,,Sec. XVI
 BO0624_81775,55049,19,5,"pinto su tavola, in rieca cornice di legno scolpitoe dorato. Alt.cm. 79, larg. cm.61.",31,98.8,False,positional,,,Quadri,,
 BO0624_81775,55050,20,6,"colorito bello,disegno eorretto.Corn. policroma.Alt.cm.94,larg.cm.69.",32,98.5,False,positional,,,Quadri,,
 BO0624_81775,55051,21,7,"di carattere Leonardesco, di finezza meravigliosa, di corretto disegno, morbido,vivace di colorito:Un vero capolavoro! Cornice legno seolpito",33,99.3,False,title_direct,,,Cornici,,
@@ -25,36 +25,36 @@ BO0624_81775,55053,23,290,36,39,100.0,False,positional,,,Quadri,,
 BO0624_81775,55054,24,1,#06,41,66.7,False,positional,,,Quadri,,
 BO0624_81775,55055,25,31,354,45,100.0,False,positional,,,Quadri,,
 BO0624_81775,55056,26,257,126,49,100.0,False,positional,,,Quadri,,
-BO0624_81775,55057,27,20,"Giovanni da Milano detto il Pavese. Sec. XV. La Vergine col Bambino. Bellissimo dipinto su tavola. Cornice legno scolpito, dipinto e dorato.Alt.cm.33,larg.cm.25. 22.Raffaello (Scuola di). Sec.XVI. La Sacra Famiglia. Bellissimo didezza e correttezza del disegno,la vivacita del colorito fa credere che",53,69.2,False,title_direct,Scuola di Raffaello,,Cornici,,
-BO0624_81775,55058,28,21,"Scuola Toscana. Sec. XVI. La Sacra Famiglia. Finissima miniatura su pergamena. Cornice legno. Alt.em. 25, larg. cm.32.",55,98.6,False,title_direct,,Scuola Toscana,Cornici,,
-BO0624_81775,55059,29,4,"pinto su tavola nel quale la soave espressione della Vergine,la morbiil pennello del massimo fra i nostri artisti, non vi sia estraneo. La tavola reca la data 1517.Corn.in legno dorato.Alt.em.120,larg.cm.100.",56,99.5,False,positional,,,Quadri,,
+BO0624_81775,55057,27,20,"Giovanni da Milano detto il Pavese. Sec. XV. La Vergine col Bambino. Bellissimo dipinto su tavola. Cornice legno scolpito, dipinto e dorato.Alt.cm.33,larg.cm.25. 22.Raffaello (Scuola di). Sec.XVI. La Sacra Famiglia. Bellissimo didezza e correttezza del disegno,la vivacita del colorito fa credere che",53,69.2,False,title_direct,Scuola di Raffaello,,Cornici,,Sec. XV
+BO0624_81775,55058,28,21,"Scuola Toscana. Sec. XVI. La Sacra Famiglia. Finissima miniatura su pergamena. Cornice legno. Alt.em. 25, larg. cm.32.",55,98.6,False,title_direct,,Scuola Toscana,Cornici,,Sec. XVI
+BO0624_81775,55059,29,4,"pinto su tavola nel quale la soave espressione della Vergine,la morbiil pennello del massimo fra i nostri artisti, non vi sia estraneo. La tavola reca la data 1517.Corn.in legno dorato.Alt.em.120,larg.cm.100.",56,99.5,False,positional,,,Quadri,,Sec. XVI
 BO0624_81775,55060,30,24,"Metsys Quintino. Sec.XVI. Ritratto di giovane uomo. Bel dipinto su tavola. Cornice legno dorato.Alt.cm. 26,larg. cm.21.",57,98.7,False,title_direct,,,Cornici,,
-BO0624_81775,55061,31,23,"Memling. 1440-1494. Ritratto di giovane con beretto rosso. Bellissimo dipinto su tavola. Cornice legno nero e oro.Alt.cm.25,larg. cm.20. Vedi riproduzione sulla copertina.",58,99.1,False,title_direct,,,Cornici,,
+BO0624_81775,55061,31,23,"Memling. 1440-1494. Ritratto di giovane con beretto rosso. Bellissimo dipinto su tavola. Cornice legno nero e oro.Alt.cm.25,larg. cm.20. Vedi riproduzione sulla copertina.",58,99.1,False,title_direct,,,Cornici,,Sec. XV
 BO0624_81775,55062,32,7,"25.Seuola Fiamminga. Sec.XV. La Vergine col Bambino e due Angeli. Bel dipinto circolare su tavola, toecato con grazia,colorito morbido e delicato. La cornice, scolpita e dorata, forma un solo panneau col di",59,99.5,False,positional,,,PANNELLI,,
 BO0624_81775,55063,33,8,pinto.Diametro cm.24.,60,95.2,False,positional,,,Quadri,,
-BO0624_81775,55064,34,26,"Hals Francesco.1584-1656.Ritratto d'uomo. Dipinto su tavola,toccato con vigore,di bel colorito,di espressione efficace. Cornice in legno intagtiato e dorato.Alt.cm.66,larg.cm.47. Vedi riproduzione tav.1. larg.cm.76.",61,96.6,False,title_direct,HALS DIRK,,Cornici,,
+BO0624_81775,55064,34,26,"Hals Francesco.1584-1656.Ritratto d'uomo. Dipinto su tavola,toccato con vigore,di bel colorito,di espressione efficace. Cornice in legno intagtiato e dorato.Alt.cm.66,larg.cm.47. Vedi riproduzione tav.1. larg.cm.76.",61,96.6,False,title_direct,HALS DIRK,,Cornici,,Sec. XVII
 BO0624_81775,55065,35,27,"Morone (Seuola del). Sec.XVI. Ritratto di uno scienziato che tiene una clessidra. Sopra un sacchetto,e la lettera V, forse la firma del pittore. Dipinto su tela. Cornice legno seolpito e dorato.Alt. cm.89,",63,99.2,False,title_direct,,,Cornici,,
 BO0624_81775,55066,36,12,"28.Scuola Veneziana.Sec.XVI. La circoncisione, dipinto su tavola, guasto.",64,97.9,False,positional,,Scuola Veneziana,Quadri,,
-BO0624_81775,55067,37,30,Magnasco Alessandro detto il Lisandrino.1681-1747.Digiuno di,65,97.6,False,positional,,,Quadri,,
-BO0624_81775,55068,38,14,"29.Tiarini Alessandro.1577-1668. Ritratto di donna che tiene t una aragosta.Dipinto su tela. Cornice grafita e dorata.Alt.cm.57,larg.cm.44.",66,98.9,False,title_direct,,,Cornici,,
+BO0624_81775,55067,37,30,Magnasco Alessandro detto il Lisandrino.1681-1747.Digiuno di,65,97.6,False,positional,,,Quadri,,Sec. XVIII
+BO0624_81775,55068,38,14,"29.Tiarini Alessandro.1577-1668. Ritratto di donna che tiene t una aragosta.Dipinto su tela. Cornice grafita e dorata.Alt.cm.57,larg.cm.44.",66,98.9,False,title_direct,,,Cornici,,Sec. XVII
 BO0624_81775,55069,39,15,"Frati, dipinto su tela. Cornice legno dorato. Alt. cm.25, larg. cm.40.",67,97.7,False,title_direct,,,Cornici,,
-BO0624_81775,55070,40,32,"Dolci Carlo. 1616-1686. Gesu porta la Croce. Bellissimo dipinto su rame.Cornice in legno scolpito e dorato. Alt.cm.17,larg. cm.14. 3l.Guido Reni. Sec. XvII. Gesu Crocifisso; una Pia Donna piange ai piedi della croce. Forte dipinto su tela,a bei colori. Cornice legno scolpito e dorato.Alt.cm.45,larg.cm.27.",69,73.7,False,title_direct,GUIDO RENI,,Cornici,,
-BO0624_81775,55071,41,33,"Dolci Carlo.1616-1686. La Vergine col Bambino. Bello e delicato dipinto su tela.Cornice legno verniciato e dorato.Alt.cm.60, larg.cm.50.",70,98.9,False,title_direct,DOLCI CARLO,,Cornici,,
+BO0624_81775,55070,40,32,"Dolci Carlo. 1616-1686. Gesu porta la Croce. Bellissimo dipinto su rame.Cornice in legno scolpito e dorato. Alt.cm.17,larg. cm.14. 3l.Guido Reni. Sec. XvII. Gesu Crocifisso; una Pia Donna piange ai piedi della croce. Forte dipinto su tela,a bei colori. Cornice legno scolpito e dorato.Alt.cm.45,larg.cm.27.",69,73.7,False,title_direct,GUIDO RENI,,Cornici,,Sec. XVII
+BO0624_81775,55071,41,33,"Dolci Carlo.1616-1686. La Vergine col Bambino. Bello e delicato dipinto su tela.Cornice legno verniciato e dorato.Alt.cm.60, larg.cm.50.",70,98.9,False,title_direct,DOLCI CARLO,,Cornici,,Sec. XVII
 BO0624_81775,55072,42,19,"dorato.Alt.cm.40,larg.cm.56.",71,94.7,False,positional,,,Quadri,,
-BO0624_81775,55073,43,20,"34.Dolci Carlo. 1616-1686. Un angelo. Bel dipinto su tela,cornice legno",72,97.8,False,positional,DOLCI CARLO,,Quadri,,
-BO0624_81775,55074,44,35,"Marazzone (Pietro Mazzuchelli da). 1571-1626.Una Santa. Piccolo dipinto su tavoletta.Cornice legno scolpito. 37.Leonardi Pietro detto il Pesarese. Sec.XVII. 2 Paesaggi, dipinti a tempera.Corniei legno dipinto:",73,67.3,False,title_direct,,,Cornici,,
+BO0624_81775,55073,43,20,"34.Dolci Carlo. 1616-1686. Un angelo. Bel dipinto su tela,cornice legno",72,97.8,False,positional,DOLCI CARLO,,Quadri,,Sec. XVII
+BO0624_81775,55074,44,35,"Marazzone (Pietro Mazzuchelli da). 1571-1626.Una Santa. Piccolo dipinto su tavoletta.Cornice legno scolpito. 37.Leonardi Pietro detto il Pesarese. Sec.XVII. 2 Paesaggi, dipinti a tempera.Corniei legno dipinto:",73,67.3,False,title_direct,,,Cornici,,Sec. XVI
 BO0624_81775,55075,45,36,"Albani Fr.(Scuola). Sec.XVII. Un putto. Grazioso dipinto su tavola. Cornice legno scolpito e dorato. Alt.em. 14,larg. cm.21.",75,98.7,False,title_direct,,,Cornici,,
-BO0624_81775,55076,46,24,38.Caracci Annibale. 1560-1609. Sulla riva di un fiume. Gruppo di persone che guardano nell'acqua.Interessante e bel dipinto su tela,76,98.9,False,positional,CARRACCI ANNIBALE,,Quadri,,
+BO0624_81775,55076,46,24,38.Caracci Annibale. 1560-1609. Sulla riva di un fiume. Gruppo di persone che guardano nell'acqua.Interessante e bel dipinto su tela,76,98.9,False,positional,CARRACCI ANNIBALE,,Quadri,,Sec. XVI
 BO0624_81775,55077,47,25,"cornice legno dorato.Alt.cm,97,larg.cm.140.",77,96.6,False,positional,,,Quadri,,
 BO0624_81775,55078,48,39,"Caracci Annibale. Sec.XVII. Il ratto d'Europa.Bel dipinto su tela, a vivaci colori. Alt.cm.155,larg.cm.200.",80,98.6,False,positional,CARRACCI ANNIBALE,,Quadri,,
 BO0624_81775,55079,49,40,"Crespi Daniele. Sec.XVII. La Flagellazione di Cristo. Bel dipinto su tela; cornice legno dorato. Alt. cm.93, larg. cm.71.",81,98.7,False,positional,CRESPI DANIELE,,Quadri,,
-BO0624_81775,55080,50,41,Scuola Bolognese. Sec. XVII. La Vergine e apparsa ad una giovane,82,97.6,False,positional,,Scuola Bolognese,Quadri,,
+BO0624_81775,55080,50,41,Scuola Bolognese. Sec. XVII. La Vergine e apparsa ad una giovane,82,97.6,False,positional,,Scuola Bolognese,Quadri,,Sec. XVII
 BO0624_81775,55081,51,4,"donna che,inginocchiata, prega. Nello sfondo un tempio. Dipinto votivo su tavola,interessante.Alt.cm.29,larg.cm.24.",83,99.1,False,positional,,,Quadri,,
 BO0624_81775,55082,52,5,"42.Bossi Carlo (?). San Giovanni. Bel dipinto su tela, firmato: Carolus",84,98.4,False,positional,,,Quadri,,
 BO0624_81775,55083,53,6,"Bucius.Cornice legno dcrato.Alt. 1l8,larg. cm.92.",85,97.9,False,title_direct,,,Cornici,,
-BO0624_81775,55084,54,7,43.Appiani Andrea.Sec.XVIII.Ritratto di Elisa Bonaparte.Bel dipinto,86,98.5,False,positional,,,Quadri,,
+BO0624_81775,55084,54,7,43.Appiani Andrea.Sec.XVIII.Ritratto di Elisa Bonaparte.Bel dipinto,86,98.5,False,positional,APPIANI ANDREA,,Quadri,,
 BO0624_81775,55085,55,8,"su tela. Cornice legno dorato. Alt.cm.20,larg. cm.15.",87,98.0,False,title_direct,,,Cornici,,
-BO0624_81775,55086,56,44,"Zuccarelli Francesco. Sec. XVIII. Paesaggio con figure. Bellissimo dipinto su tela.Cornice legno dorato. Alt. cm. 50, larg.em.82.",88,98.8,False,title_direct,,,Cornici,,
+BO0624_81775,55086,56,44,"Zuccarelli Francesco. Sec. XVIII. Paesaggio con figure. Bellissimo dipinto su tela.Cornice legno dorato. Alt. cm. 50, larg.em.82.",88,98.8,False,title_direct,,,Cornici,,Sec. XVIII
 BO0624_81775,55087,57,45,"Zuccarelli Francesco.Sec. XVII. Paesaggio. Bel dipinto -su tela. Cornice legno dorato.Alt.cm.100, larg.cm.72.",92,72.0,False,title_direct,,,Cornici,,
 BO0624_81775,55088,58,46,Guardi Francesco. See. XVIII.Marina. Nello sfondo una torre antice.,94,97.7,False,positional,GUARDI FRANCESCO,,Quadri,,
 BO0624_81775,55089,59,4,"Grazioso dipinto su tela. Cornice nera. Alt. cm.16, larg. em. 22.",95,98.3,False,title_direct,,,Cornici,,
@@ -63,9 +63,9 @@ BO0624_81775,55091,61,6,"Alt.cm.128,larg.cm.75.",97,95.5,False,positional,,,Quad
 BO0624_81775,55092,62,48,"Scuola di Tiepolo.Sec. XVIII. La Vergine. Un angelo. Due sportelli da tabernacolo. Nel rovescio sono dipinti due Ostensori. Ait.cm.6l, 2pezzi larg.cm.23.",98,99.0,False,positional,TIEPOLO DOMENICO,Scuola di Tiepolo,Quadri,,
 BO0624_81775,55093,63,8,"49.Longhi Alessandro. Sec. XVIII.Ritratto di gentiluomo in parrueca. Ritratto di gentildonna, pendant. Dipinti ovali su tela, cornici legno",99,99.3,False,title_direct,,,Cornici,,
 BO0624_81775,55094,64,9,"seolpito e dorato. Alt. cm. 1l2, larg. cm.84.",100,97.5,False,positional,,,Quadri,,
-BO0624_81775,55095,65,10,"50.Piazzetta. Testa di giovane. Piccolo e bel dipinto su tela, cornice legno",101,98.0,False,positional,,,Quadri,,
+BO0624_81775,55095,65,10,"50.Piazzetta. Testa di giovane. Piccolo e bel dipinto su tela, cornice legno",101,98.0,False,positional,PIAZZETTA JEAN-BAPTISTE,,Quadri,,
 BO0624_81775,55096,66,11,dorato.,102,80.0,False,positional,,,Quadri,,
-BO0624_81775,55097,67,51,"Piazzetta. Il s suonatore di Flauto. Bel dipinto su tela. Alt. cm.67, larg.cm.58.",103,98.0,False,positional,,,Quadri,,
+BO0624_81775,55097,67,51,"Piazzetta. Il s suonatore di Flauto. Bel dipinto su tela. Alt. cm.67, larg.cm.58.",103,98.0,False,positional,PIAZZETTA JEAN-BAPTISTE,,Quadri,,
 BO0624_81775,55098,68,52,"Ricci Sebastiano. Sec.XVIIl. Soggetti biblici. 2 dipinti su tela,di carattere tiepolesco, molto belli. Cornici legno dorato. Alt. cm.75, larg.cm.36.",104,98.9,False,title_direct,SEBASTIANO RICCI,,Cornici,,
 BO0624_81775,55099,69,53,"Ricci Sebastiano. Sec.XVIHl. Flora. Bel dipinto ovale su tela.Alt. cm.96,larg. cm.80.",105,86.1,False,positional,SEBASTIANO RICCI,,Quadri,,
 BO0624_81775,55100,70,54,"Seuola Veneziana. Sec. XVIll. Ritratto di un giovinetto in ricco costume.Dipinto su tela.Cornice legno scolpito e dorato. Alt. cm. 85,",110,98.8,False,title_direct,,,Cornici,,
@@ -75,7 +75,7 @@ BO0624_81775,55103,73,4,"molte figure. Cornice legno dorato.Alt.cm. 126,larg. cm
 BO0624_81775,55104,74,56,"Scuola Veneziana. Sec. XVIII.Ritratto di Elisabetta regina d'Inghilterra. Dipinto su tela,cornice legno scolpito, dipinto e dorato. Alt. cm.112,larg.cm.100.",114,92.2,False,positional,,Scuola Veneziana,Quadri,,
 BO0624_81775,55105,75,57,"Scuola Veneziana. Sec.XVIIl. Ritratto di Maria Teresa. Bellissimo dipinto su tela. Cornice in legno scolpito e dorato. Alt. cm. 90, alt.em.73.",116,98.9,False,title_direct,,Scuola Veneziana,Cornici,,
 BO0624_81775,55106,76,58,"Scuola Veneziana. See.XVIll.Ritratto di giovanetto in riceo costume in atto di accarezzare un cane. Bel dipinto su tela: Nell'angolo e uno stemma con la lettera P. La tela e firmata: G.C. M.P.Cornice legno nero.Alt.cm.98, larg.cm.84.",119,99.3,False,title_direct,,Scuola Veneziana,Cornici,,
-BO0624_81775,55107,77,60,"Seuola Veneziana. Sec. XVII. Ritratto di donna, interessante costume, dipinto su tela. Cornice legno dorato. Alt. cm.90, larg. cm. 65. 59.Scuola Veneziana. Sec.XVIHI. Ritratto di donna, dipinto su tela. Alt. cm.68, larg. cm.58.",120,73.5,False,title_direct,,Scuola Veneziana,Cornici,,
+BO0624_81775,55107,77,60,"Seuola Veneziana. Sec. XVII. Ritratto di donna, interessante costume, dipinto su tela. Cornice legno dorato. Alt. cm.90, larg. cm. 65. 59.Scuola Veneziana. Sec.XVIHI. Ritratto di donna, dipinto su tela. Alt. cm.68, larg. cm.58.",120,73.5,False,title_direct,,Scuola Veneziana,Cornici,,Sec. XVII
 BO0624_81775,55108,78,61,"Scuola Veneziana.Sec.XVIII. Ritratti di donna. Due bei dipint ovali su tela. Cornici legno dorato. Pendant. Alt. cm.87, larg. cm. 70.",121,72.7,False,title_direct,,Scuola Veneziana,Cornici,,
 BO0624_81775,55109,79,62,Fra Galgaro (Scuola di). Sec.XVIII. Ritratto di un barbiere. Dipinto,124,97.7,False,positional,,,Quadri,,
 BO0624_81775,55110,80,7,"su tela. Cornice legno dorato.Alt.cm.84, larg. em.65.",125,98.0,False,title_direct,,,Cornici,,
@@ -94,24 +94,24 @@ BO0624_81775,55122,92,9,"70.Van Dyck (attribuito a). Ritratto di giovane gentilu
 BO0624_81775,55123,93,71,"Van Dyck (Seuola di). Sec. XVIl. Ritratto di una prineipessina di Casa Savoia, bel dipinto su tela in ricca cornice di legno i",145,98.8,False,positional,VAN DYCK ANTON,,Quadri,,
 BO0624_81775,55124,94,72,"Van Dyck (Seuola di). Sec.XVII. Ritratto di gentiluomo con alto colletto. Bel dipinto su tela. Cornice legno nero.Alt.cm.66,larg.cm.50.",150,98.8,False,title_direct,VAN DYCK ANTON,,Cornici,,
 BO0624_81775,55125,95,2,"73.Van Dyck (Maniera di). Ritratto d'uomo. Dipinto su tavola.Cornice legno dorato.Alt.cm.43,larg.cm.35.",151,99.0,False,title_direct,VAN DYCK ANTON,,Cornici,,
-BO0624_81775,55126,96,3,"74.Molin Pietro detto il Tempesta.1643-1701.Burrasehe.Due superbi dipinti su tela,toecati con vigore,di verita sorprendente.Cornici in",152,99.3,False,title_direct,,,Cornici,,
+BO0624_81775,55126,96,3,"74.Molin Pietro detto il Tempesta.1643-1701.Burrasehe.Due superbi dipinti su tela,toecati con vigore,di verita sorprendente.Cornici in",152,99.3,False,title_direct,,,Cornici,,Sec. XVII
 BO0624_81775,55127,97,4,"legno scolpito e dorato.Alt.cm.75,larg.cm 57.",153,97.8,False,positional,,,Quadri,,
 BO0624_81775,55128,98,75,"Courbes G.Soc.XVI. All'osteria. Bei dipinto su tela, schizzato con efficacia.Cornice legno dorato.Alt.cm.63,larg.cm.77.",154,69.6,False,title_direct,,,Cornici,,
-BO0624_81775,55129,99,76,"Van Ostade (Adriano). Sec. XVI. Gruppo di contadini che bevono, fumano, snonano e cantano. Bel dipinto su tavola. Cornice legno dipinto e dorato.Alt.cm.34,larg.cm.37.",158,88.4,False,title_direct,ADRIAEN VAN OSTADE,,Cornici,,
+BO0624_81775,55129,99,76,"Van Ostade (Adriano). Sec. XVI. Gruppo di contadini che bevono, fumano, snonano e cantano. Bel dipinto su tavola. Cornice legno dipinto e dorato.Alt.cm.34,larg.cm.37.",158,88.4,False,title_direct,ADRIAEN VAN OSTADE,,Cornici,,Sec. XVI
 BO0624_81775,55130,100,77,"Breughel Abramo.Sec. XVII. Scena campestre. Molte figure di contadini danzanti, carovane, ecc. Sfondo di paesaggio. Bel dipinto su tela. Cornice legno dorato. Alt.cm.50,larg.cm.56.",163,99.1,False,title_direct,BRUEGEL,,Cornici,,
-BO0624_81775,55131,101,78,"Breughel Giovanni. Sec. XVII. Paesaggio con figure. Bel dipinto su tavola. Cornice legno dorato. Alt.cm.22,larg. cm.26.",167,68.2,False,title_direct,BRUEGEL,,Cornici,,
+BO0624_81775,55131,101,78,"Breughel Giovanni. Sec. XVII. Paesaggio con figure. Bel dipinto su tavola. Cornice legno dorato. Alt.cm.22,larg. cm.26.",167,68.2,False,title_direct,BRUEGEL,,Cornici,,Sec. XVII
 BO0624_81775,55132,102,79,"Breughel Giovanni. Sec.XVII. Paesaggio con figure. Pendant al dorato. Alt.cm.22,",169,98.0,False,positional,BRUEGEL,,Quadri,,
 BO0624_81775,55133,103,4,"precedente. Bel dipinto su tavola,cornice legno larg.cm.26.",170,98.3,False,positional,,,Quadri,,
-BO0624_81775,55134,104,5,"80.Brower Adriano.1608-1640. Scena d'osteria. Bel dipinto su tavola. Cornice nera guillochee. Alt. cm. 27, larg. cm.22.",171,99.1,False,title_direct,,,Cornici,,
-BO0624_81775,55135,105,6,"81.Brower Adriano.1608-1640. Scena dosteria.Bellissimo dipinto su tavola,pendant al precedente.Ccrnice nera guillochee, Alt. cm.27,lar-",172,99.2,False,positional,,,Quadri,,
+BO0624_81775,55134,104,5,"80.Brower Adriano.1608-1640. Scena d'osteria. Bel dipinto su tavola. Cornice nera guillochee. Alt. cm. 27, larg. cm.22.",171,99.1,False,title_direct,,,Cornici,,Sec. XVII
+BO0624_81775,55135,105,6,"81.Brower Adriano.1608-1640. Scena dosteria.Bellissimo dipinto su tavola,pendant al precedente.Ccrnice nera guillochee, Alt. cm.27,lar-",172,99.2,False,positional,,,Quadri,,Sec. XVII
 BO0624_81775,55136,106,7,ghezza cm.22.,173,92.3,False,positional,,,Quadri,,
-BO0624_81775,55137,107,82,"Tenier Davide detto il Vecchio.1582-1649. Soggetto di genere.Bel dipinto su tavola. Ricea cornice dorata.Alt. cm.20, larg. em. 26.",174,66.7,False,positional,,,Quadri,,
+BO0624_81775,55137,107,82,"Tenier Davide detto il Vecchio.1582-1649. Soggetto di genere.Bel dipinto su tavola. Ricea cornice dorata.Alt. cm.20, larg. em. 26.",174,66.7,False,positional,,,Quadri,,Sec. XVII
 BO0624_81775,55138,108,83,"Tenier Abramo. Sec.XVII. Gruppo di due uomini a cavallo ed uno a piedi,in marcia. Grazioso dipinto su tavola toccato da maestro. Cornice legno scolpito e dorato.Alt.cm.9,larg. cm.12.",176,99.2,False,title_direct,,,Cornici,,
-BO0624_81775,55139,109,84,"Tenier Davide detto il Giovane.1610-1690.Aleuui contadini olandesi seduti intorno ad un tavolo d'osteria,bevono e fumano.Grazioso dipinto su tavola. Cornice legno dorato. Alt. cm.3l, larg. cm.38.",177,99.2,False,title_direct,,,Cornici,,
-BO0624_81775,55140,110,88,"Both Giovanni ed Andrea. Sec. XVII. Passaggio di una carovana, molte figure di spettatori e contadini che ballano, sfondo di paesaggio. Bellissimo dipinto su tela. A Giovanni é dovuto il paesaggio, ad Andrea",188,99.3,False,positional,BOTH JAN,,Quadri,,
+BO0624_81775,55139,109,84,"Tenier Davide detto il Giovane.1610-1690.Aleuui contadini olandesi seduti intorno ad un tavolo d'osteria,bevono e fumano.Grazioso dipinto su tavola. Cornice legno dorato. Alt. cm.3l, larg. cm.38.",177,99.2,False,title_direct,,,Cornici,,Sec. XVII
+BO0624_81775,55140,110,88,"Both Giovanni ed Andrea. Sec. XVII. Passaggio di una carovana, molte figure di spettatori e contadini che ballano, sfondo di paesaggio. Bellissimo dipinto su tela. A Giovanni é dovuto il paesaggio, ad Andrea",188,99.3,False,positional,BOTH JAN,,Quadri,,Sec. XVII
 BO0624_81775,55141,111,89,"Sustermans e sua scuola. See. XVII. Sei ritratti di principi e prin- cipesse di Casa Savoia, eseguiti da Sustermans e da un suo scolaro. Bellissimi dipinti su tela, cornici moderne. Alt. cm.70, larg. cm.55.",194,80.0,False,title_direct,,Scuola di Sustermans,Cornici,,
-BO0624_81775,55142,112,90,"Sustermans Giusto.1597-1681. Ritratti di gentiluomini in parrucca e armatura; due bei dipinti ovali su tela, cornici legno dorato. Altezza cm.70, larg. cm.88.",195,99.0,False,title_direct,,,Cornici,,
-BO0624_81775,55143,113,91,Scuola Fiamminga. Sec. XVII. La Cena. Bellissimo dipinto su ta-,196,97.5,False,positional,,Scuola Fiamminga,Quadri,,
+BO0624_81775,55142,112,90,"Sustermans Giusto.1597-1681. Ritratti di gentiluomini in parrucca e armatura; due bei dipinti ovali su tela, cornici legno dorato. Altezza cm.70, larg. cm.88.",195,99.0,False,title_direct,,,Cornici,,Sec. XVII
+BO0624_81775,55143,113,91,Scuola Fiamminga. Sec. XVII. La Cena. Bellissimo dipinto su ta-,196,97.5,False,positional,,Scuola Fiamminga,Quadri,,Sec. XVII
 BO0624_81775,55144,114,5,"vola. Cornice legno dorato.Alt.cm.24, larg. cm.35.",197,97.9,False,title_direct,,,Cornici,,
 BO0624_81775,55145,115,95,"Seuola Fiamminga. Sec.XVII. Mare in burrasca, bel dipinto su tela.",207,97.6,False,positional,,,Quadri,,
 BO0624_81775,55146,116,96,Seuola Fiamminga. Sec. XVIlI. Paesaggio e una chiesa. Cornice,208,97.4,False,title_direct,,,Cornici,,
@@ -126,31 +126,31 @@ BO0624_81775,55154,124,104,"Nattier (Seuola del).Sec.XVIII.Ritratto della Marehe
 BO0624_81775,55155,125,105,"Scuola Francese. Sec.XVIIl. Arehittettura, sfondo di marina e macchiette.Dipinto su tela.Cornice dorata.Alt.cm.32, larg. cm.49. Scuola Francese. Sec.XVIII. Ritratto d'uno seultore. Bellissimo dipinto su tela, toccato con vigore. Cornice legno scolpito e dorato. Altezza em.72,larg.cm,60. Seuola Francese. Sec.XVIII. Gentiluomo in parrueca. Bel dipinto su tela.Cornice legno seolpito,dipinto e dor. Alt.em.95,larg.em.77.",229,54.9,False,title_direct,,,Cornici,,
 BO0624_81775,55156,126,108,"Scuola Francese.Sec. XVIII. Ritratto di donna. Bel dipinto su tela a colori delicati. Cornice legno scolpito e dor. Alt. cm.70, larg.cm.57. mato A.M.Alt.em.70,larg.cm.57.",231,88.5,False,title_direct,,,Cornici,,
 BO0624_81775,55157,127,109,"Scuola Francese. See.XVIII. Le tre grazie. Bel dipinto su tela,fir-",233,96.9,False,positional,,,Quadri,,
-BO0624_81775,55158,128,110,Scuola Francese. Sec. XVIII. Testa di giovane donna; finissimo pa-,234,96.8,False,positional,,,Quadri,,
+BO0624_81775,55158,128,110,Scuola Francese. Sec. XVIII. Testa di giovane donna; finissimo pa-,234,96.8,False,positional,,,Quadri,,Sec. XVIII
 BO0624_81775,55159,129,11,stello. Cornice legno dorato.,235,94.7,False,title_direct,,,Cornici,,
 BO0624_81775,55160,130,1,"ll1. Scuola Francese. Sec. XVIII.Ritratto di Gentiluomo; Ritratto di Gentildonna.Duo pastelli ovali, in cornice.",238,99.5,False,positional,,,Quadri,,
-BO0624_81775,55161,131,113,"Rigaud (Scuola di). Sec. XVII. Ritratto d'uomo in parrucca, dipinto su tela.Cornice legno dorato.Alt.cm.52,larg. cm.38. Rigaud. Sec. XVIHI. Ritratto d'uomo in parrucca ed armatura. Superbo dipinto su tela.Cornice legno dipinto e dorato. Alt. cm.84,larghezza cm.6l.",240,71.3,False,title_direct,RIGAUD HYACINTHE,Scuola di Rigaud,Cornici,,
-BO0624_81775,55162,132,114,"Vatteau Antonio.1684-1721. Una rappresentazione teatrale,con le maschere italiane.Quadro di grande interesse. Dipinto su tela. Cornice legno dorato.Alt.cm.46, larg. cm.55.",241,98.8,False,title_direct,,,Cornici,,
-BO0624_81775,55163,133,115,Clouet Pietro. 1606-1677. Ritratto di Enrico III re di Francia. Bel-,245,97.0,False,positional,,,Quadri,,
-BO0624_81775,55164,134,116,Clouet Pietro.1606-1677. Ritratto di Enrico I1. Bel dipinto circo-,246,96.9,False,positional,,,Quadri,,
+BO0624_81775,55161,131,113,"Rigaud (Scuola di). Sec. XVII. Ritratto d'uomo in parrucca, dipinto su tela.Cornice legno dorato.Alt.cm.52,larg. cm.38. Rigaud. Sec. XVIHI. Ritratto d'uomo in parrucca ed armatura. Superbo dipinto su tela.Cornice legno dipinto e dorato. Alt. cm.84,larghezza cm.6l.",240,71.3,False,title_direct,RIGAUD HYACINTHE,Scuola di Rigaud,Cornici,,Sec. XVII
+BO0624_81775,55162,132,114,"Vatteau Antonio.1684-1721. Una rappresentazione teatrale,con le maschere italiane.Quadro di grande interesse. Dipinto su tela. Cornice legno dorato.Alt.cm.46, larg. cm.55.",241,98.8,False,title_direct,,,Cornici,,Sec. XVIII
+BO0624_81775,55163,133,115,Clouet Pietro. 1606-1677. Ritratto di Enrico III re di Francia. Bel-,245,97.0,False,positional,CLOUET FRANCOIS,,Quadri,,Sec. XVII
+BO0624_81775,55164,134,116,Clouet Pietro.1606-1677. Ritratto di Enrico I1. Bel dipinto circo-,246,96.9,False,positional,CLOUET FRANCOIS,,Quadri,,Sec. XVII
 BO0624_81775,55165,135,3,"lissimo dipinto su tavola. Cornice. legno nero. Alt. cm.41, larg. cm.32",247,98.5,False,title_direct,,,Cornici,,
 BO0624_81775,55166,136,4,"lare,su tavola. Cornice nera.Diametro cm.10.",248,97.7,False,title_direct,,,Cornici,,
 BO0624_81775,55167,137,117,"Largilliere. Sec.XVIIl. Autoritratto, schizzo interessante. Dipinto su tela.Alt.cm.22,larg.cm.18. Auch M. A.Il piccolo Re di Roma, Grazioso dipinto circolare su tela, firmato.Cornice legno dorato.Diametro cm.13. Vollon A.Sec.XVIII. Mazzo di fiori. Piccolo dipinto su teia, assai bello.",250,57.7,False,title_direct,LARGILLIERE NICOLAS,,Cornici,,
 BO0624_81775,55168,138,120,"Van Loo Michele. Sec.XVII. Ritratto d'uomo in parrucca che tiene un libro: Ecole de Cavalerie. Bel dipinto su tela. Alt. cm. 76, larghezza cm.65.",252,98.6,False,positional,VAN LOO MICHEL,,Quadri,,
 BO0624_81775,55169,139,121,"Fragonard (Seuola di). Sec. XVIlI. Sull'altalena. Bel dipinto su tela, cornice legno dorato. Alt. cm. 94,larg. cm. 76.",256,98.1,False,positional,FRAGONARD JEAN-HONORE,,Quadri,,
-BO0624_81775,55170,140,122,"Scuola Francese. Sec. XVIII. Ritratto di gentiluomo in parrucca e ricca armatura. Bel dipinto su tela. Cornice legno dorato. Alt. cm. 1l8,",257,98.5,False,title_direct,,,Cornici,,
+BO0624_81775,55170,140,122,"Scuola Francese. Sec. XVIII. Ritratto di gentiluomo in parrucca e ricca armatura. Bel dipinto su tela. Cornice legno dorato. Alt. cm. 1l8,",257,98.5,False,title_direct,,,Cornici,,Sec. XVIII
 BO0624_81775,55171,141,123,Seuola Spagnuola. Sec.XVI. La decollazione di S. Giovanni. Inte-,259,96.7,False,positional,,,Quadri,,
-BO0624_81775,55172,142,124,Velasques Giacomo Rodrigo. 1599-1660.(Maniera). Ritratto di,261,96.5,False,positional,,,Quadri,,
-BO0624_81775,55173,143,125,Scuola Spagnuola. Sec. XVII. La Vergine col Bambino. Bel dipinto,266,96.8,False,positional,,,Quadri,,
+BO0624_81775,55172,142,124,Velasques Giacomo Rodrigo. 1599-1660.(Maniera). Ritratto di,261,96.5,False,positional,,,Quadri,,Sec. XVII
+BO0624_81775,55173,143,125,Scuola Spagnuola. Sec. XVII. La Vergine col Bambino. Bel dipinto,266,96.8,False,positional,,,Quadri,,Sec. XVII
 BO0624_81775,55174,144,126,Seuola Spagnuola. Sec.XVII. Ritratto di Filppo IV di Spagna. Di-,267,96.8,False,positional,,,Quadri,,
 BO0624_81775,55175,145,127,"Knill A.L. Folkestone Harbor. Bella marina. Graziosissimo dipinto su tela,firmato.Cornice legno dorato. Alt.cm.16,larg. cm.20.",269,98.4,False,title_direct,,,Cornici,,
 BO0624_81775,55176,146,128,Frederick S. Challener. La casa di Dickens a East Barnet. Altezza,271,96.9,False,positional,,,Quadri,,
 BO0624_81775,55177,147,129,Scuola Inglese. Sec. XVIII.Ritratto di giovane donna.Pastello ovale; ricca cornice.,276,83.1,False,positional,,,Quadri,,
 BO0624_81775,55178,148,130,"Seuola Inglese. Sec.XVII. Paesaggio, con figurine, polli,ecc. Di-",280,96.7,False,positional,,,Quadri,,
 BO0624_81775,55179,149,2,"pinto di grande finezza, firmato IVB.F. Cornice legno dorato.",281,98.3,False,title_direct,,,Cornici,,
-BO0624_81775,55180,150,13,l. Wheatley Fr. Sec. XVIII. The Riot in Broad Street on the seventh of June 1780. Disegno.-Si vende anehe la ineisione che lo ripro-,285,99.2,False,positional,,,Quadri,,
-BO0624_81775,55181,151,132,"Cosway Riccardo: Sec. XVIII. Ritratto di Maria Cosway, moglie del pittore ed artista insigne.Bellissimo dipinto su tela, delicato e fine.",286,98.5,False,positional,,,Quadri,,
-BO0624_81775,55182,152,133,"David J.Louis.1748-1825. Sehizzo napoleonico.Dipinto su tela.Cor- nice legno dorato. Alt.cm 23,larg.cm.3l.",292,74.6,False,positional,,,Quadri,,
+BO0624_81775,55180,150,13,l. Wheatley Fr. Sec. XVIII. The Riot in Broad Street on the seventh of June 1780. Disegno.-Si vende anehe la ineisione che lo ripro-,285,99.2,False,positional,,,Quadri,,Sec. XVIII
+BO0624_81775,55181,151,132,"Cosway Riccardo: Sec. XVIII. Ritratto di Maria Cosway, moglie del pittore ed artista insigne.Bellissimo dipinto su tela, delicato e fine.",286,98.5,False,positional,,,Quadri,,Sec. XVIII
+BO0624_81775,55182,152,133,"David J.Louis.1748-1825. Sehizzo napoleonico.Dipinto su tela.Cor- nice legno dorato. Alt.cm 23,larg.cm.3l.",292,74.6,False,positional,,,Quadri,,Sec. XVIII
 BO0624_81775,55183,153,134,Caironi Agostino.Vedute di Roma. Due bei dipinti su tela. Cornici,299,96.9,False,title_direct,,,Cornici,,
 BO0624_81775,55184,154,2,"legno nero.Alt.cm.23,larg.cm.4l.",300,96.9,False,positional,,,Quadri Moderni,,
 BO0624_81775,55185,155,3,"133.Rosselli. Marina Bel dipinto su tela, firmato. Cornice legno dorato.",301,98.6,False,title_direct,,,Cornici,,
@@ -159,7 +159,7 @@ BO0624_81775,55187,157,5,136.Naillod P.Una ballerina. Bellissimo dipinto su tela
 BO0624_81775,55188,158,6,"dorato.Alt.cm.53,larg.cm.41.",304,96.4,False,positional,,,Quadri Moderni,,
 BO0624_81775,55189,159,137,"Meneghelli.Marine. Due graziosi dipinti su tavola, firmati; pendant.",305,97.0,False,positional,,,Quadri Moderni,,
 BO0624_81775,55190,160,8,Corniei legno dorato.,306,95.2,False,title_direct,,,Cornici,,
-BO0624_81775,55191,161,9,"138.Dupre Jules.1811-1889.Paesaggio.Bel dipinto su tela,firmato. Cor-",307,98.5,False,positional,DUPRE JULES,,Quadri Moderni,,
+BO0624_81775,55191,161,9,"138.Dupre Jules.1811-1889.Paesaggio.Bel dipinto su tela,firmato. Cor-",307,98.5,False,positional,DUPRE JULES,,Quadri Moderni,,Sec. XIX
 BO0624_81775,55192,162,10,"nice legno dorato.Alt.cm.32,larg.em.4l.",308,96.2,False,positional,,,Quadri Moderni,,
 BO0624_81775,55193,163,139,"Scuola Francese (moderna). L'interno d’un giardino.Dipinto su tavola. Cornice legno dorato. Alt.em.27, larg.cm.34.",309,68.6,False,title_direct,,,Cornici,,
 BO0624_81775,55194,164,140,Seuola Francese (moderna). Sirena. Dipinto su tela. Cornice legno,311,96.8,False,title_direct,,,Cornici,,
@@ -180,12 +180,12 @@ BO0624_81775,55208,178,27,.148. Gainsborough (Copia da). L'amor materno; piccolo
 BO0624_81775,55209,179,28,149.Scuola Francese Sec.XIX. Soggetto.campestre.Sehizzo. Piccolo. dipinto su tavola. In cornice.,326,98.4,False,positional,,,Quadri Moderni,,
 BO0624_81775,55210,180,150,"Allofon C.Autunno avanzato. Alberi privi di foglie, paesaggio e macchiette. Bel dipinto, firmato. Cornice. legno nero. Alt. em.22,larg. cm.27.",329,98.5,False,title_direct,,,Cornici,,
 BO0624_81775,55211,181,2,larg. cm.48.,330,90.9,False,positional,,,Quadri Moderni,,
-BO0624_81775,55212,182,3,"13l.Corot J.B.Paesaggio, dipinto su tela nella prima maniera dell'insigne artista.Firmato: 1833.J.B.Corot. Cornice legno dorato.Alt.cm.34,",331,99.3,False,title_direct,COROT JEAN-BAPTISTE-CAMILLE,,Cornici,,
+BO0624_81775,55212,182,3,"13l.Corot J.B.Paesaggio, dipinto su tela nella prima maniera dell'insigne artista.Firmato: 1833.J.B.Corot. Cornice legno dorato.Alt.cm.34,",331,99.3,False,title_direct,COROT JEAN-BAPTISTE-CAMILLE,,Cornici,,Sec. XIX
 BO0624_81775,55213,183,152,"Dekkep P. Sec. XIx. Scena domestica. Bellacquerello a colori. Cornice legno bianco e oro. Alt.cm. 26,larg.cm.36.",335,98.1,False,title_direct,,,Cornici,,
 BO0624_81775,55214,184,153,"Scuola Francese. Sec. Xlx. Figura di donna seminuda che si nasconde dietro una cortina. Cornice legno dor. Alt. cm.34,larg. cm.28.",336,98.4,False,title_direct,,,Cornici,,
 BO0624_81775,55215,185,3,154.Piccio (G.Carnevali detto il). La Vergine col. Bambino..Bellissimo sehizzo su tela. Cornice legno dorato.,337,99.0,False,title_direct,,,Cornici,,
-BO0624_81775,55216,186,155,"Il Naviglio, dalla Piazza S. Marco in Milano. Interessante acquerello in cornice legno dorato.",338,84.7,False,positional,,,Quadri Moderni,,
-BO0624_81775,55217,187,156,"Bosa E. La zucca. Un vecchio,in mantello, pone, scherzosamente sul capo di un bimbo una grossa zucca. Una giovane donna assiste, sorridendo alla scena.Nello sfondo un lembo del panorama di Venezia.Firmato: E.Bosa, Venezia, 1847.Cornice legno scolpito e dorato.",341,85.6,False,title_direct,,,Cornici,,
+BO0624_81775,55216,186,155,"Il Naviglio, dalla Piazza S. Marco in Milano. Interessante acquerello in cornice legno dorato.",338,84.7,False,positional,PIAZZETTA JEAN-BAPTISTE,,Quadri Moderni,,
+BO0624_81775,55217,187,156,"Bosa E. La zucca. Un vecchio,in mantello, pone, scherzosamente sul capo di un bimbo una grossa zucca. Una giovane donna assiste, sorridendo alla scena.Nello sfondo un lembo del panorama di Venezia.Firmato: E.Bosa, Venezia, 1847.Cornice legno scolpito e dorato.",341,85.6,False,title_direct,,,Cornici,,Sec. XIX
 BO0624_81775,55218,188,157,Pizzigalli E. Una monaca. Bel dipinto su tavola. Cornice legno.,342,96.7,False,title_direct,,,Cornici,,
 BO0624_81775,55219,189,9,158.Formis.In Brianza. Una casa. Interessante schizzo su legno.Firmato.,343,98.6,False,positional,,,Quadri Moderni,,
 BO0624_81775,55220,190,10,"Cornice bianco e oro. Alt.cm.69, larg. cm.22.",344,96.5,False,title_direct,,,Cornici,,
@@ -209,9 +209,9 @@ BO0624_81775,55237,207,176,"Bersabea,incisione di B. Soster dall'Hayez. Amore e 
 BO0624_81775,55238,208,I,n cornice dorata.,381,97.0,False,positional,,,Incisioni,,
 BO0624_81775,55239,209,178,"Lotto di 13 ine. in cornice, di soggetti mitologici e diversi. See. XVII1.",383,97.2,False,positional,,,Incisioni,,
 BO0624_81775,55240,210,179,Giovane donna seduta che incide sopra uno scudo le parole 《AllAmi-,387,97.0,False,positional,,,Miniature,,
-BO0624_81775,55241,211,180,"Ritratto di giovane donna, miniatura rettangolare su avorio. Epoca circa 1820,firmata P.Emanuele.",389,97.9,False,positional,,,Miniature,,
+BO0624_81775,55241,211,180,"Ritratto di giovane donna, miniatura rettangolare su avorio. Epoca circa 1820,firmata P.Emanuele.",389,97.9,False,positional,,,Miniature,,Sec. XIX
 BO0624_81775,55242,212,18,"l. Ritratto d’uomo;miniatura su avorio, epoca impero.",393,98.0,False,positional,,,Miniature,,
-BO0624_81775,55243,213,183,"Ritratto del Cavalliere Francesco Monari, primo tenore. Miniatura circolare su avorio, bene eseguita da Romanini,miniaturista torinese,nel 1832. Cornice legno nera, cerchio bronzo dorato. Ritratto d'uomo. Miniatura ovale su avorio.Impero.",395,87.2,False,title_direct,,,Miniature,,
+BO0624_81775,55243,213,183,"Ritratto del Cavalliere Francesco Monari, primo tenore. Miniatura circolare su avorio, bene eseguita da Romanini,miniaturista torinese,nel 1832. Cornice legno nera, cerchio bronzo dorato. Ritratto d'uomo. Miniatura ovale su avorio.Impero.",395,87.2,False,title_direct,,,Miniature,,Sec. XIX
 BO0624_81775,55244,214,184,"Lotto di 5 piccole miniature delle quali due montate su anelli,e una con cerehio d'argento. Ritratto di gentiluomo, costume del Sec.XVIll. Miniatura rettangolare su avorio,cornice legno nero. Ritratto di donna;ritratto di bambino: Due piccole e belle miniature circolari su avorio.",401,51.7,False,title_direct,,,Miniature,,
 BO0624_81775,55245,215,187,"Il Re di Roma; Napoleone I,due belle miniature moderne su avorio, in graziose cornici. Ritratti di donna. Due belle miniature su avorio, montate su scatole. Ritratto di donna, miniatura ovale su avorio, frmata Dorin.",405,56.5,False,title_direct,,,Miniature,,
 BO0624_81775,55246,216,190,"Ritratto di donna; bella miniatura circolare su avorio, firmata Guerin.",411,97.1,False,positional,,,Miniature,,
@@ -226,32 +226,32 @@ BO0624_81775,55254,224,197,Ritratto di donna:Miniatura ovale firmata Caterina Sa
 BO0624_81775,55255,225,198,"Ritratto d'uomo, miniatura circolare su avorio, cornice nera, cerchio bronzo dorato.Impero.",430,97.8,False,positional,,,Miniature,,
 BO0624_81775,55256,226,199,"Ritratto d’uomo, bella miniatura rettangolare su avorio. Impero.",432,96.8,False,positional,,,Miniature,,
 BO0624_81775,55257,227,4,"201.Ritratto d'uomo,miniatura circolare su avorio.Impero.",433,98.2,False,positional,,,Miniature,,
-BO0624_81775,55258,228,203,"Ritratto di un pittore; grazioso acquarello, cornice legno nero. See. XVIII. Santa Teresa, miniatura ovale su avorio. Sec. XVIII.",434,72.8,False,positional,,,Miniature,,
+BO0624_81775,55258,228,203,"Ritratto di un pittore; grazioso acquarello, cornice legno nero. See. XVIII. Santa Teresa, miniatura ovale su avorio. Sec. XVIII.",434,72.8,False,positional,,,Miniature,,Sec. XVIII
 BO0624_81775,55259,229,204,"Ritratto di giovane donna; miniatura ovale su avorio, cornice legno nero. Ritratto di giovane e bella dama, miniatura ovale su avorio, montata",436,66.4,False,positional,,,Miniature,,
 BO0624_81775,55260,230,205,"Ritratti di donna, due belle miniature su avorio.",438,95.9,False,title_direct,,,Miniature,,
-BO0624_81775,55261,231,10,in argento: finissima l'esecuzione delle trine. Sec. XVIII.,439,97.3,False,positional,,,Miniature,,
-BO0624_81775,55262,232,208,"Ritratto di giovane donna,bella miniatura circolare su avorio. Ritratto di giovane e bella donna, miniatura ovale su avorio. Sec. XVIII.",441,68.6,False,positional,,,Miniature,,
+BO0624_81775,55261,231,10,in argento: finissima l'esecuzione delle trine. Sec. XVIII.,439,97.3,False,positional,,,Miniature,,Sec. XVIII
+BO0624_81775,55262,232,208,"Ritratto di giovane donna,bella miniatura circolare su avorio. Ritratto di giovane e bella donna, miniatura ovale su avorio. Sec. XVIII.",441,68.6,False,positional,,,Miniature,,Sec. XVIII
 BO0624_81775,55263,233,209,Ritratti di giovani doane. Tre belle miniature su avorio. Epoche Luigi XVIe Impero. Ritratto di un prelato; finissima miniatura cireolare su avorio. Sec. XVIHI,442,67.5,False,title_direct,,,Miniature,,
 BO0624_81775,55264,234,210,"Ritratto d’uomo, miniatura ovale su avorio. Epoca Impero.",444,96.4,False,positional,,,Miniature,,
 BO0624_81775,55265,235,16,"212.Ritratto d’uomo. Miniatura in avorio,rettangolare,cornice legno dorata,",445,98.0,False,title_direct,,,Miniature,,
 BO0624_81775,55266,236,17,epoca Impero.,446,88.9,False,positional,,,Miniature,,
-BO0624_81775,55267,237,213,"Ritratto di donna, bella miniatura ovale su avorio, epoca circa 1830. Seatola in Vernis-Martin fondo oro,soggetto di caricatura. Lavoro fran-",448,67.9,False,positional,,,Miniature,,
+BO0624_81775,55267,237,213,"Ritratto di donna, bella miniatura ovale su avorio, epoca circa 1830. Seatola in Vernis-Martin fondo oro,soggetto di caricatura. Lavoro fran-",448,67.9,False,positional,,,Miniature,,Sec. XIX
 BO0624_81775,55268,238,214,"Ritratto di bambino,miniatura circolare su avorio. Cornice legno dorato.",449,97.2,False,title_direct,,,Cornici,,
-BO0624_81775,55269,239,21,cese del XVIII secolo.,450,93.3,False,positional,,,Miniature,,
+BO0624_81775,55269,239,21,cese del XVIII secolo.,450,93.3,False,positional,,,Miniature,,Sec. XVIII
 BO0624_81775,55270,240,22,daglione di bronzo dorato. Sec.XVIlI.,451,95.9,False,positional,,,Miniature,,
 BO0624_81775,55271,241,216,"Ritratto di donna, che tiene un uccellino. Miniatura su avorio, in me-",452,97.1,False,title_direct,,,Miniature,,
-BO0624_81775,55272,242,217,"Ritratti di due gentiluomini, dipinti su due piani di un rame circolare. Secolo XVIII.",453,89.2,False,positional,,,Miniature,,
-BO0624_81775,55273,243,218,"Pergamena del XV secolo con miniatura. Ritratto di donna, miniatura cireolare su avorio, montata su scatola.",456,77.0,False,positional,,,Miniature,,
+BO0624_81775,55272,242,217,"Ritratti di due gentiluomini, dipinti su due piani di un rame circolare. Secolo XVIII.",453,89.2,False,positional,,,Miniature,,Sec. XVIII
+BO0624_81775,55273,243,218,"Pergamena del XV secolo con miniatura. Ritratto di donna, miniatura cireolare su avorio, montata su scatola.",456,77.0,False,positional,,,Miniature,,Sec. XV
 BO0624_81775,55274,244,219,"Una fontana,a soggetto di putti; graziosa e finissima miniatura circolare francese su avorio, in astuccio di pelle. XVIlI Secolo.",457,98.4,False,positional,,,Miniature,,
 BO0624_81775,55275,245,29,Costume Luigi XV.,458,91.4,False,positional,,Periodo di Luigi XV,Miniature,,
 BO0624_81775,55276,246,30,22l.Ritratto di una bambina che tiene una colomba; finissima miniatura,459,97.9,False,positional,,,Miniature,,
 BO0624_81775,55277,247,31,"francese, circolare su avorio firmata Baval. In astuccio di cuoio: Epoca Direttorio.",460,98.2,False,positional,,,Miniature,,
 BO0624_81775,55278,248,222,"Ritratto di donna, costume del XVIll secolo. Bella miniatura, montata su scatola.",464,97.5,False,positional,,,Miniature,,
 BO0624_81775,55279,249,223,"Ritratto di donna in abito da pastorella che tiene una cornamusa. Bellissima miniatura su avorio, montata su scatola Vernis-Martin, cerehio oro. Vedi riproduzione,tav.22.",465,98.8,False,positional,,,Miniature,,
-BO0624_81775,55280,250,224,"Ritratto di giovinetta, finissima miniatura circolare francese,su avorio. Sec. XVII. Cornice nera.",466,97.9,False,title_direct,,,Cornici,,
+BO0624_81775,55280,250,224,"Ritratto di giovinetta, finissima miniatura circolare francese,su avorio. Sec. XVII. Cornice nera.",466,97.9,False,title_direct,,,Cornici,,Sec. XVII
 BO0624_81775,55281,251,225,"Ritratto di una pittrice, miniatura inglese ovale su avorio del XVIII",471,97.1,False,positional,,,Miniature,,
 BO0624_81775,55282,252,226,"Ritratto di dama,in costume del XVIlI secolo. Bellissima miniatura montata su scatola.",476,97.7,False,positional,,,Miniature,,
-BO0624_81775,55283,253,2,"227.Ritratto di donna, miniatura francese,ovale, su avorio, frmata Le Roy 1775,molto fine.Cornice in argento.",477,99.1,False,title_direct,,,Cornici,,
+BO0624_81775,55283,253,2,"227.Ritratto di donna, miniatura francese,ovale, su avorio, frmata Le Roy 1775,molto fine.Cornice in argento.",477,99.1,False,title_direct,,,Cornici,,Sec. XVIII
 BO0624_81775,55284,254,228,"Soggetti pastorali. Due pieeoli dipinti su rame, di seuola francese. Secolo.XVII.",481,97.5,False,positional,,,Miniature,,
 BO0624_81775,55285,255,229,"Madonna col bambino. Piecolo dipinto rettangolare su rame, di corretto disegno e bei colori. See. XVII.",482,80.0,False,positional,,,Miniature,,
 BO0624_81775,55286,256,230,"Arehitettura.Piecolo dipinto su metalle, di seuola del Pannini. See.XVII.",484,97.2,False,positional,,,Miniature,,
@@ -265,7 +265,7 @@ BO0624_81775,55293,263,12,bronzo dorato.See.XVIlI.,492,93.9,False,positional,,,M
 BO0624_81775,55294,264,236,Ritratto di giovane donna che legge.Finissima miniatura circolare in-,493,97.1,False,positional,,,Miniature,,
 BO0624_81775,55295,265,14,"glese; cornice in legno nero,cerchio bronzo dorato.Sec.XVIII.",494,97.5,False,positional,,,Miniature,,
 BO0624_81775,55296,266,15,"237.Ritratto di giovane donna,in parrucca bionda, con abito ornato d'un ricco collare. Finissima miniatura su avorio, montata su seatola di bosso e tartaruga. See. XVIII.",495,99.1,False,positional,,,Miniature,,
-BO0624_81775,55297,267,238,"Ritratto di donna, miniatura su avorio, montata su scatola di legno e tartaruga.Epoea circa 1815.",496,81.2,False,positional,,,Miniature,,
+BO0624_81775,55297,267,238,"Ritratto di donna, miniatura su avorio, montata su scatola di legno e tartaruga.Epoea circa 1815.",496,81.2,False,positional,,,Miniature,,Sec. XIX
 BO0624_81775,55298,268,239,"Ritratto di gentildonna, in ricco costume Luigi XV. Bella miniatura su avorio, cornice in legno,cerchio bronzo dorato. See. XVIIl",498,69.4,False,positional,,Periodo di Luigi XV,Miniature,,
 BO0624_81775,55299,269,240,Migliara G. Paesaggio con figure. Bella miniatura circolare in ricca,500,97.1,False,positional,,,Miniature,,
 BO0624_81775,55300,270,21,cornice di legno dorato.,501,93.9,False,positional,,,Miniature,,
@@ -279,43 +279,43 @@ BO0624_81775,55307,277,245,San Gaetano tiene fra le braccia un bambino. Miniatur
 BO0624_81775,55308,278,246,"Ritratto di giovane donna,firmato Albanesi al Corso 57.Bella miniatura ovale su avorio.",510,97.7,False,positional,,,Miniature,,
 BO0624_81775,55309,279,247,"Bellissima scatola circolare in Vernis-martin, con miniatura su avorio rappresentante l'interno di una taverna con diverseP persone,seuola di diVan Ostade,",511,94.3,False,positional,ADRIAEN VAN OSTADE,,Miniature,,
 BO0624_81775,55310,280,248,Ritratto di giovane dama col suo bambino. Miniatura inglese di mera-,513,97.1,False,title_direct,,,Miniature,,
-BO0624_81775,55311,281,34,yigliosa finezza montata su scatola in avorio. Sec. XVIII.,514,97.3,False,positional,,,Miniature,,
+BO0624_81775,55311,281,34,yigliosa finezza montata su scatola in avorio. Sec. XVIII.,514,97.3,False,positional,,,Miniature,,Sec. XVIII
 BO0624_81775,55312,282,35,circolare su avorio.,515,92.7,False,positional,,,Miniature,,
 BO0624_81775,55313,283,250,"Ritratto della principessa Elda Gonzaga. Graziosa miniatura su avorio, epoca. Impero.",518,97.6,False,positional,,,Miniature,,
 BO0624_81775,55314,284,251,"Un pascia: Bella miniatura cireolare, su avorio. See. XVIII.",519,96.5,False,positional,,,Miniature,,
 BO0624_81775,55315,285,252,Statuetta in avorio rappresentante un chinese che tione un serpente.,525,97.1,False,positional,,,Medaglie; Placchette,,
 BO0624_81775,55316,286,2,"252 bis. La Mestizia. Busto di donna in marmo, di bella esecuzione.",526,98.4,False,positional,,,Medaglie; Placchette,,
 BO0624_81775,55317,287,3,"ornamenti per mobili,di bell'intaglio",527,97.4,False,positional,,,Medaglie; Placchette,,
-BO0624_81775,55318,288,4,"253.Due busti di donne con cimiero, in legno. Sec. XVII.",528,98.1,False,positional,,,Medaglie; Placchette,,
+BO0624_81775,55318,288,4,"253.Due busti di donne con cimiero, in legno. Sec. XVII.",528,98.1,False,positional,,,Medaglie; Placchette,,Sec. XVII
 BO0624_81775,55319,289,254,"Ritratto di donna, in costume del XVIHI secolo. Superba miniatura francese,montata su scatola.",529,97.8,False,positional,,,MINIATURE,,
-BO0624_81775,55320,290,255,Amore e fedelta. Gruppo in terracotta di corretta modellazione. Sec. XVII.,530,97.2,False,positional,,,Medaglie; Placchette,,
+BO0624_81775,55320,290,255,Amore e fedelta. Gruppo in terracotta di corretta modellazione. Sec. XVII.,530,97.2,False,positional,,,Medaglie; Placchette,,Sec. XVII
 BO0624_81775,55321,291,256,Cavallo in bronzo. See. XVI.,531,92.6,False,positional,,,Medaglie; Placchette,,
-BO0624_81775,55322,292,257,"Figura di donna nuda con un delfino. Bronzo francese, cesellato e dorato del XVIII secolo.",532,87.0,False,positional,,,Medaglie; Placchette,,
+BO0624_81775,55322,292,257,"Figura di donna nuda con un delfino. Bronzo francese, cesellato e dorato del XVIII secolo.",532,87.0,False,positional,,,Medaglie; Placchette,,Sec. XVIII
 BO0624_81775,55323,293,258,Mortaio in forma di vaso in marmo rosso di Verona. Sec. XVlI.,534,96.7,False,positional,,,VASI,,
-BO0624_81775,55324,294,259,"Croce processionale, in bronzo cesellato e dorato. Sec. XV.",535,96.5,False,positional,,,Medaglie; Placchette,,
+BO0624_81775,55324,294,259,"Croce processionale, in bronzo cesellato e dorato. Sec. XV.",535,96.5,False,positional,,,Medaglie; Placchette,,Sec. XV
 BO0624_81775,55325,295,260,Cavallo in bronzo dorato con base in marmo. Sec. XVIl.,536,96.2,False,positional,,,Medaglie; Placchette,,
 BO0624_81775,55326,296,261,Piccolo mortaio in bronzo.See. XV.,537,94.1,False,positional,,,Medaglie; Placchette,,
 BO0624_81775,55327,297,262,"Piccolo busto di donna, in bronzo su piedestalio e due frammenti in 3pezzi avorio scolpito.",538,97.8,False,positional,,,Medaglie; Placchette,,
 BO0624_81775,55328,298,15,"262 bis. Due grandi mensole in marmo di Carrara; finamente scolpito, del",539,97.9,False,positional,,,Medaglie; Placchette,,
-BO0624_81775,55329,299,16,puro rinascimento italiano. Sec. XVI.,540,95.8,False,positional,,,Medaglie; Placchette,,
+BO0624_81775,55329,299,16,puro rinascimento italiano. Sec. XVI.,540,95.8,False,positional,,,Medaglie; Placchette,,Sec. XVI
 BO0624_81775,55330,300,263,"Busto di donna sorridente,bellissima seultura in marmo, di J. B. Carpeaux.",541,97.2,False,positional,,,Medaglie; Placchette,,
 BO0624_81775,55331,301,264,Calamaio in bronzo. Epoca Luigi XV.,542,94.3,False,positional,,Periodo di Luigi XV,Medaglie; Placchette,,
-BO0624_81775,55332,302,265,Grazioso gruppo in terra cotta policroma. Modello di fontana. Sec. XVI.,543,97.1,False,positional,,,Medaglie; Placchette,,
+BO0624_81775,55332,302,265,Grazioso gruppo in terra cotta policroma. Modello di fontana. Sec. XVI.,543,97.1,False,positional,,,Medaglie; Placchette,,Sec. XVI
 BO0624_81775,55333,303,20,"266.San Gerolamo. Bassorilievo in marmo con tracce di doratura. Cornice e cuoio dorato,See.XV.",544,98.4,False,title_direct,,,Cornici,,
 BO0624_81775,55334,304,267,Cavallo in bronzo chinese.,545,92.6,False,positional,,,Medaglie; Placchette,,
-BO0624_81775,55335,305,268,"Due bei piccoli battenti in bronzo cesellato, formati da delfini e ma- scheroni. Sec. XVI.",546,86.6,False,positional,,,Medaglie; Placchette,,
+BO0624_81775,55335,305,268,"Due bei piccoli battenti in bronzo cesellato, formati da delfini e ma- scheroni. Sec. XVI.",546,86.6,False,positional,,,Medaglie; Placchette,,Sec. XVI
 BO0624_81775,55336,306,269,"Adamo ed Eva. Grande placchetta in bronzo,rettangolare. See. XVI.",548,96.8,False,positional,,,Medaglie; Placchette,,
 BO0624_81775,55337,307,270,"Loonardo Spinola, e altro personaggio. Due grandi medaglie in bronzo.",549,97.1,False,title_direct,,,Medaglie,,
-BO0624_81775,55338,308,26,"271.Grande medaglia in piombo, rappresentante un personaggio del XV secolo.",550,98.0,False,positional,,,Medaglie; Placchette,,
+BO0624_81775,55338,308,26,"271.Grande medaglia in piombo, rappresentante un personaggio del XV secolo.",550,98.0,False,positional,,,Medaglie; Placchette,,Sec. XV
 BO0624_81775,55339,309,272,Bella placchetta ovale in bronzo rappresentante Gesu ineoronato di spine. Sec.XVI.,551,97.6,False,positional,,,Medaglie; Placchette,,
-BO0624_81775,55340,310,273,S. Rocco. Bella plaechetta a jour in bronzo argentato. Sec. XVI.,552,96.7,False,positional,,,Medaglie; Placchette,,
+BO0624_81775,55340,310,273,S. Rocco. Bella plaechetta a jour in bronzo argentato. Sec. XVI.,552,96.7,False,positional,,,Medaglie; Placchette,,Sec. XVI
 BO0624_81775,55341,311,274,Mortaio in bronzo. See. XV.,553,92.3,False,positional,,,Medaglie; Placchette,,
 BO0624_81775,55342,312,275,Mortaio in bronzo. See. XV.,554,92.3,False,positional,,,Medaglie; Placchette,,
-BO0624_81775,55343,313,276,Stemma in marmo con un leone rampante. Intercssantissimo lavoro. del XV secolo.Alt. cm.68.,557,84.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55344,314,277,Stemma in marmo. del XVI secolo eon stemma dei Malaguzzi. Molto interessantc.Alt.em.58.,559,81.9,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55345,315,278,La Vergine con un libro. Interessante scoltura in avorio del XV secolo. Alt.mill.300.,561,97.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55343,313,276,Stemma in marmo con un leone rampante. Intercssantissimo lavoro. del XV secolo.Alt. cm.68.,557,84.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XV
+BO0624_81775,55344,314,277,Stemma in marmo. del XVI secolo eon stemma dei Malaguzzi. Molto interessantc.Alt.em.58.,559,81.9,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
+BO0624_81775,55345,315,278,La Vergine con un libro. Interessante scoltura in avorio del XV secolo. Alt.mill.300.,561,97.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XV
 BO0624_81775,55346,316,279,Mortaio in marmo rosso di Verona con interessante stemma. Bellissimo,562,97.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55347,317,280,Due candelabri in bronzo. Sec. XVI.,563,94.1,False,positional,,,CANDELABRI,,
+BO0624_81775,55347,317,280,Due candelabri in bronzo. Sec. XVI.,563,94.1,False,positional,,,CANDELABRI,,Sec. XVI
 BO0624_81775,55348,318,8,chaehe-pot. See. XVII.,564,95.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55349,319,9,"28l.Lotto di 4 diverse bocchette da serratura e altri 9 ornamenti per mobili, in bronzo cesellato. See. XVIl,e XVIII. 13pezzi",565,99.2,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55350,320,282,Tre assicelle in noce seolpito con trofei. See. XVI.,566,96.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
@@ -325,88 +325,88 @@ BO0624_81775,55353,323,13,"284.Il Ratto delle Sabine. Bronzo.Vecchia riproduzion
 BO0624_81775,55354,324,285,"Due bellissimi pannelli, rieeamente intagliati a fogliami e uccelli. SecoloXVII.",570,97.5,False,positional,,,PANNELLI,,
 BO0624_81775,55355,325,286,"Cavallino in bronzo cosellato, base di marmo. See.XVI.",571,96.2,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55356,326,16,287.Bassorilievo in legno dorato rappresentante la Vergine col Bambino:,572,97.9,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55357,327,17,interessante e bella scultura del XV secolo.,573,96.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55358,328,288,Mortaio in bronzo con stemma e nastro girante. Sec. XVI.,574,96.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55359,329,289,Piccolo busto d'uomo in bronzo a bassorilievo. Sec. XVI.,575,96.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55357,327,17,interessante e bella scultura del XV secolo.,573,96.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XV
+BO0624_81775,55358,328,288,Mortaio in bronzo con stemma e nastro girante. Sec. XVI.,574,96.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
+BO0624_81775,55359,329,289,Piccolo busto d'uomo in bronzo a bassorilievo. Sec. XVI.,575,96.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
 BO0624_81775,55360,330,290,"Dodici medaglie d'uomini illustri in rame e ottone sbalzato e cesellato, aleune dorate. Sec.XvIII. 12 pezzi",576,98.1,False,title_direct,,,Medaglie,,
 BO0624_81775,55361,331,291,Le sante Donne ai piedi della croce. Placchetta gotica.,577,96.4,False,title_direct,,,Placchette,,
 BO0624_81775,55362,332,22,292.Cristo fra i Giudei.Plaechetta in bronzo cesellato.,578,97.3,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55363,333,23,"293.La deposizione, placchetta in bronzo cesellato. Sec.XVI.",579,97.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55364,334,24,"294.La Vergine col Bambino,placchetta in bronzo cesellato e dorato. Se-",580,97.9,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55365,335,25,colo XVI.,581,84.2,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55366,336,295,Mortaio in bronzo a mascheroni. Sec. XVI.,582,95.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55367,337,296,"Mortaio in bronzo con teste di lupi ed iserizione gotica. See. XV. sellato,con tracce di gemiatura in argento. .Lavoro del XVI secolo; oggetto raro.",584,70.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55366,336,295,Mortaio in bronzo a mascheroni. Sec. XVI.,582,95.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
+BO0624_81775,55367,337,296,"Mortaio in bronzo con teste di lupi ed iserizione gotica. See. XV. sellato,con tracce di gemiatura in argento. .Lavoro del XVI secolo; oggetto raro.",584,70.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
 BO0624_81775,55368,338,297,"Secchiello in bronzo veneziano imitazione del persiano, riccamente ce-",585,97.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55369,339,298,"Secchio in bronzo persiano con geminature, con la firma dellautore",586,97.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55370,340,299,"Secchiello in bronzo,gotico. geminata in argento. Bello e raro oggetto da museo; lavoro del XV sec.",588,82.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55371,341,300,"Bellissimo campanello in bronzo cesellato,ornato di frutti,ecc.Lavoro italiano del XVI secolo.",589,83.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55370,340,299,"Secchiello in bronzo,gotico. geminata in argento. Bello e raro oggetto da museo; lavoro del XV sec.",588,82.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XV
+BO0624_81775,55371,341,300,"Bellissimo campanello in bronzo cesellato,ornato di frutti,ecc.Lavoro italiano del XVI secolo.",589,83.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
 BO0624_81775,55372,342,301,Campanello in bronzo cesellato ad ornati e mascheroni. Sec.XVI.,591,96.8,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55373,343,302,Portagioie in bronzo cesellato formato da 3 putti che sorreggono il portacoppa.Lavoro del XVI secolo.,592,98.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55374,344,303,Puttino che regge una conchiglia. Bellissimo bronzo del XVI secolo.,593,97.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55373,343,302,Portagioie in bronzo cesellato formato da 3 putti che sorreggono il portacoppa.Lavoro del XVI secolo.,592,98.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
+BO0624_81775,55374,344,303,Puttino che regge una conchiglia. Bellissimo bronzo del XVI secolo.,593,97.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
 BO0624_81775,55375,345,304,"Bella testa d’uomo in bronzo, grandezza naturale. See. XVI.",594,96.5,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55376,346,305,"Invocazione! Statuetta rappresentante un giovane nudo, di bella esecuzione. Sec. XVIII.",595,97.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55377,347,306,"Un guerriero del XV secolo, con scudo. Bellissima statuetta in bronzo.",598,97.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55376,346,305,"Invocazione! Statuetta rappresentante un giovane nudo, di bella esecuzione. Sec. XVIII.",595,97.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVIII
+BO0624_81775,55377,347,306,"Un guerriero del XV secolo, con scudo. Bellissima statuetta in bronzo.",598,97.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XV
 BO0624_81775,55378,348,2,"307.La Vergine col Bambino e S. Giovanni, bassorilievo in terracotta. Molto bello.",599,98.7,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55379,349,3,Impero.,600,85.7,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55380,350,308,La Risurrezione. Bassorilievo in terracotta del XV secolo. Interessanti i dettagli dei guerrieri armati che dormono. Cornice legno seolpito. Secole XV.,601,98.6,False,title_direct,,,Cornici,,
+BO0624_81775,55380,350,308,La Risurrezione. Bassorilievo in terracotta del XV secolo. Interessanti i dettagli dei guerrieri armati che dormono. Cornice legno seolpito. Secole XV.,601,98.6,False,title_direct,,,Cornici,,Sec. XV
 BO0624_81775,55381,351,309,Bella statua in bronzo rappresentante Marte su piedestallo in marmo.,602,97.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55382,352,310,Statuetta in bronzo rappresentante Venere. See. XVII. Sec. XVI.,603,89.3,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55382,352,310,Statuetta in bronzo rappresentante Venere. See. XVII. Sec. XVI.,603,89.3,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVII
 BO0624_81775,55383,353,311,Statuetta in bronzo rappresentante una sacerdotessa romana. See. XVil. ordine.,605,92.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55384,354,312,"Bellano, l'insigne allievo del Donatello. Sec. XV. Statuetta rappresentante un santo. Superbo lavoro; oggetto degno di un museo di primo",607,98.5,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55385,355,313,"Placchetta in bronzo cesellato, di scuola Padovana del XV secolo, rappresentante la Deposizione.",611,97.9,False,title_direct,,Scuola Padovana,Placchette,,
-BO0624_81775,55386,356,314,Sei placchette in bronzo rappresentanti la Via Crucis. Lavoro di buon cesello del XVI secolo.,612,97.8,False,title_direct,,,Placchette,,
-BO0624_81775,55387,357,315,Due busti di donna in marmo. Sec. XVI.,613,94.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55384,354,312,"Bellano, l'insigne allievo del Donatello. Sec. XV. Statuetta rappresentante un santo. Superbo lavoro; oggetto degno di un museo di primo",607,98.5,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XV
+BO0624_81775,55385,355,313,"Placchetta in bronzo cesellato, di scuola Padovana del XV secolo, rappresentante la Deposizione.",611,97.9,False,title_direct,,Scuola Padovana,Placchette,,Sec. XV
+BO0624_81775,55386,356,314,Sei placchette in bronzo rappresentanti la Via Crucis. Lavoro di buon cesello del XVI secolo.,612,97.8,False,title_direct,,,Placchette,,Sec. XVI
+BO0624_81775,55387,357,315,Due busti di donna in marmo. Sec. XVI.,613,94.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
 BO0624_81775,55388,358,316,Andrea del Verrocchio. Sec.XV.San Gerolamo. Statua in terra- cotta di superba bellezza.,614,79.2,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55389,359,317,Calamaio in bronzo cesellato ornato di vasi e fogliami. Fine lavcro del bel rinascimento italiano.,616,82.4,False,positional,,,VASI,,
-BO0624_81775,55390,360,318,Spolverino di bronzo con ornati a rilievo. Sec. XVI.,618,96.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55391,361,319,Calamaio in bronzo rappresentante un leone. Sec. XVI.,619,96.2,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55390,360,318,Spolverino di bronzo con ornati a rilievo. Sec. XVI.,618,96.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
+BO0624_81775,55391,361,319,Calamaio in bronzo rappresentante un leone. Sec. XVI.,619,96.2,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
 BO0624_81775,55392,362,10,"320.Bel calamaio con coperchio in bronzo, finamente e riccamente cesellato;",620,98.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55393,363,11,32l. Battente in bronzo rappresentante due delfini ed una testa di leone. Se-,621,98.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55394,364,12,i piedi sono formati da tre sirene. Sec. XVI.,622,96.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55394,364,12,i piedi sono formati da tre sirene. Sec. XVI.,622,96.6,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVI
 BO0624_81775,55395,365,13,coloXVI.,623,82.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55396,366,322,"Due placchette in avorio, ognuna delle quali rappresentanti 2 santi. Belle e interessanti.XV secolo.",624,98.0,False,title_direct,,,Placchette,,
-BO0624_81775,55397,367,323,Un santo; piccolo bassorilievo in avorio del XV secolo. Statuetta d'avorio rappresentante San Girolamo. Sec. XV. Statuetta d’avorio rappresentante un santo. See. XVI.,626,50.2,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55397,367,323,Un santo; piccolo bassorilievo in avorio del XV secolo. Statuetta d'avorio rappresentante San Girolamo. Sec. XV. Statuetta d’avorio rappresentante un santo. See. XVI.,626,50.2,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XV
 BO0624_81775,55398,368,326,"Bella pace in bronzo dorato con l'iscrizione in argento; rappresenta la Deposizione, ed e lavoro pregevolissimo del xV secolo, una delle piu belle e rare placchette del rinascimento italiano.",628,98.9,False,title_direct,,,Placchette,,
 BO0624_81775,55399,369,327,"Piatto in bronzo cesellato, molto ricco, a soggetti mitologici.",629,96.8,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55400,370,328,"Calamaio in bronzo cesellato, in forma di un piede. Sec. XVIlI.",630,96.7,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55401,371,21,"329.Nordinskiold. Busto,firmato L.Mayer.",631,96.2,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55402,372,22,"dedica: Bicio, souscription de ses amis.",632,96.1,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55403,373,330,"Bixio.Bel busto in bronzo,firmato 《 Adam Salomon 1867.》 Con la",633,96.7,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55403,373,330,"Bixio.Bel busto in bronzo,firmato 《 Adam Salomon 1867.》 Con la",633,96.7,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XIX
 BO0624_81775,55404,374,24,"331.Idoletto orientale, e altra piccola statuetta in bronzo antica.",634,97.7,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55405,375,333,Vaso in bronzo cesellato. Pastore che tiene una pecorella. Terracotta del XVI secolo.,636,81.1,False,positional,,,VASI,,
-BO0624_81775,55406,376,334,"Scena mitologica,bassorilievo in terracotta di buona esecuzione. Secolo XVII.",639,97.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
+BO0624_81775,55405,375,333,Vaso in bronzo cesellato. Pastore che tiene una pecorella. Terracotta del XVI secolo.,636,81.1,False,positional,,,VASI,,Sec. XVI
+BO0624_81775,55406,376,334,"Scena mitologica,bassorilievo in terracotta di buona esecuzione. Secolo XVII.",639,97.4,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,Sec. XVII
 BO0624_81775,55407,377,2,"335.La nascita di Gesu Cristo. Grazioso.bassorilievo in terraeotta,lavoro del Fantoni.Secolo XVIl.",640,99.0,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
-BO0624_81775,55408,378,336,"Un leone, Un cavallo.Due bei bassorilievi in marmo. Sec. XVI.",642,96.6,False,positional,,,BASSORILIEVI,,
+BO0624_81775,55408,378,336,"Un leone, Un cavallo.Due bei bassorilievi in marmo. Sec. XVI.",642,96.6,False,positional,,,BASSORILIEVI,,Sec. XVI
 BO0624_81775,55409,379,337,Candeliere in bronzo cesellato. Un gufo regge il portacandele.,644,96.8,False,positional,,,Bronzi; Marmi; Terrecotte; Avorii; Legni,,
 BO0624_81775,55410,380,338,Cipriani's.Rudiments of drawing engraved by Bartolozzi. Raccolta di,648,97.1,False,positional,,,Libri; Legature; Autograf,,
-BO0624_81775,55411,381,2,10 tavole incise da Bartolozzi su disegni di Cipriani. London 1796.,649,98.5,False,positional,,,Libri; Legature; Autograf,,
+BO0624_81775,55411,381,2,10 tavole incise da Bartolozzi su disegni di Cipriani. London 1796.,649,98.5,False,positional,,,Libri; Legature; Autograf,,Sec. XVIII
 BO0624_81775,55412,382,3,339.Lettera aut. firm.di G.Garibaldi.,650,97.2,False,positional,,,Libri; Legature; Autograf,,
 BO0624_81775,55413,383,4,"340.Lotto di quattro doeumenti manoseritti su pergamena,miniati, due con stemmi. See.XVI.",651,98.9,False,positional,,,Libri; Legature; Autograf,,
 BO0624_81775,55414,384,5,"34l. Commentaria in Aristotelis.Manoserito della fine del XVI seeolo,crnato",652,98.7,False,positional,,,Libri; Legature; Autograf,,
 BO0624_81775,55415,385,342,"Tre belle legature antiche in marocchino, ornate in oro a piccoli ferri,",653,97.2,False,title_direct,,,Legature,,
 BO0624_81775,55416,386,7,di bellissimi disegni a penna. Legat. pelle. In 4.,654,97.9,False,positional,,,Libri; Legature; Autograf,,
 BO0624_81775,55417,387,8,una con stemma.,655,93.3,False,positional,,,Libri; Legature; Autograf,,
-BO0624_81775,55418,388,9,"343.Officium Beate Marie Virginis.Venetiis Pasquali,1740.Belle vignette. Legatura in maroc.rosso ornato a piccoli ferri, contornata d'argento.",656,99.3,False,title_direct,,,Legature,,
-BO0624_81775,55419,389,10,344.Due volumi con legature in pelle del XVI secolo.,657,97.1,False,title_direct,,,Legature,,
+BO0624_81775,55418,388,9,"343.Officium Beate Marie Virginis.Venetiis Pasquali,1740.Belle vignette. Legatura in maroc.rosso ornato a piccoli ferri, contornata d'argento.",656,99.3,False,title_direct,,,Legature,,Sec. XVIII
+BO0624_81775,55419,389,10,344.Due volumi con legature in pelle del XVI secolo.,657,97.1,False,title_direct,,,Legature,,Sec. XVI
 BO0624_81775,55420,390,345,"Heures a lusage de Rome. In fine: Ces presentes heures a Pusage de Roine au long sans requerir ont este imprimees a Paris par Maturin le Mere imprimeur pour Nicolas Vivian Libraire demorant a Paris, ete. Et furent achevees le XV jour defevrier l'an de grace 15l3. In 8.Con molte silografie a piena pagina, contorni incisi ad ogni pagina,e letterine miniate. Stampaty su pergamena.Leg. vitellino.",658,99.5,False,positional,,,OGGETTI VARI,,
-BO0624_81775,55421,391,346,"Doeumenti storici spagnuoli, con firme autografo,manoscr. su pergamena verso il 1600, ornato da 2 belle miniature a piena pagina. Ricca legatura in maroechino bruno con stemmi sui piani e ornati in oro a piccoli ferri. In folio.",659,99.1,False,title_direct,,,Miniature,,
-BO0624_81775,55422,392,347,"Libro d'ore,manoseritto su pergamena del XV secolo, lavoro fiammingo. Con 5 miniature a piena pagina e molte lettere e contorni miniati in colori e oro. Legatura originale in vitellino con ornati a freddo. In 8.",660,99.0,False,title_direct,,,MINIATURE,,
-BO0624_81775,55423,393,14,"348.Cataneo Gir. Opera nova del fortificare.In 4.Con tavole. Brescia, 1564. Bella legatura riccamente dorata a piccoli ferri, con stemma sui piani.",661,98.9,False,positional,,,Libri; Legature; Autograf,,
-BO0624_81775,55424,394,15,"349.Ufficio della settimana santa.In 8.Roma,1744.Con tavole. Bella legatura in vitellino con dorature a piccoli ferri.",662,98.7,False,positional,,,Libri; Legature; Autograf,,
-BO0624_81775,55425,395,350,"Uffcio della Vergine Maria. Roma, 1742. In 8. Con tavole. Bella legatura in marocch.,con dorature a pieeoli ferri,",663,98.2,False,positional,,,Libri; Legature; Autograf,,
-BO0624_81775,55426,396,17,"35l.Beate Mariae Virginis Officium.In 8 picc.Venetiis 1750. Grazioso volume interamente inciso,con figure del Piazzetta.Legatura marocehino",664,98.9,False,title_direct,,,Legature,,
+BO0624_81775,55421,391,346,"Doeumenti storici spagnuoli, con firme autografo,manoscr. su pergamena verso il 1600, ornato da 2 belle miniature a piena pagina. Ricca legatura in maroechino bruno con stemmi sui piani e ornati in oro a piccoli ferri. In folio.",659,99.1,False,title_direct,,,Miniature,,Sec. XVII
+BO0624_81775,55422,392,347,"Libro d'ore,manoseritto su pergamena del XV secolo, lavoro fiammingo. Con 5 miniature a piena pagina e molte lettere e contorni miniati in colori e oro. Legatura originale in vitellino con ornati a freddo. In 8.",660,99.0,False,title_direct,,,MINIATURE,,Sec. XV
+BO0624_81775,55423,393,14,"348.Cataneo Gir. Opera nova del fortificare.In 4.Con tavole. Brescia, 1564. Bella legatura riccamente dorata a piccoli ferri, con stemma sui piani.",661,98.9,False,positional,,,Libri; Legature; Autograf,,Sec. XVI
+BO0624_81775,55424,394,15,"349.Ufficio della settimana santa.In 8.Roma,1744.Con tavole. Bella legatura in vitellino con dorature a piccoli ferri.",662,98.7,False,positional,,,Libri; Legature; Autograf,,Sec. XVIII
+BO0624_81775,55425,395,350,"Uffcio della Vergine Maria. Roma, 1742. In 8. Con tavole. Bella legatura in marocch.,con dorature a pieeoli ferri,",663,98.2,False,positional,,,Libri; Legature; Autograf,,Sec. XVIII
+BO0624_81775,55426,396,17,"35l.Beate Mariae Virginis Officium.In 8 picc.Venetiis 1750. Grazioso volume interamente inciso,con figure del Piazzetta.Legatura marocehino",664,98.9,False,title_direct,PIAZZETTA JEAN-BAPTISTE,,Legature,,Sec. XVIII
 BO0624_81775,55427,397,18,rosso con dorature.,665,92.3,False,positional,,,Libri; Legature; Autograf,,
-BO0624_81775,55428,398,352,Flavius Josephus.De antiqnitatibus Judaorum.In 8. Lyone 1528. Bella legatura del tempo in marocchino con ornati.,666,98.2,False,positional,,,Libri; Legature; Autograf,,
+BO0624_81775,55428,398,352,Flavius Josephus.De antiqnitatibus Judaorum.In 8. Lyone 1528. Bella legatura del tempo in marocchino con ornati.,666,98.2,False,positional,,,Libri; Legature; Autograf,,Sec. XVI
 BO0624_81775,55429,399,8,"ti in escia,",693,100.0,False,positional,,,Libri; Legature; Autograf,,
 BO0624_81775,55430,400,528,"## Libri,Legature,Autografi,ecc.",703,100.0,False,title_direct,,,Autograf,,
 BO0624_81775,55431,401,352,"bis. Poliphilo.Hypnerotomachia ubi humana omnia non nisi somnium esse docet atque obiter plurima scitu sane quam digna commemorat Prima edizione,rarissima di quest'opera molto curiosa,scritta in italiano maccheronico misto a greco ed ebraico, ornata di superbe silografie dovute, pare, a Giovanni Bellini Manca l'ultima carta con la sottoscrizione tipografica.",705,99.4,False,positional,,,Libri; Legature; Autografi,,
-BO0624_81775,55432,402,353,Anello in oro e pietre. Sec. XVII.,709,93.9,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
-BO0624_81775,55433,403,354,Ciondolo in argento con rubini e rosette. Grazioso lavoro del XVII sec.,710,97.2,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
+BO0624_81775,55432,402,353,Anello in oro e pietre. Sec. XVII.,709,93.9,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,Sec. XVII
+BO0624_81775,55433,403,354,Ciondolo in argento con rubini e rosette. Grazioso lavoro del XVII sec.,710,97.2,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,Sec. XVII
 BO0624_81775,55434,404,355,Cestello in filigrana d'argento.Sec.XVII.,712,95.2,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55435,405,356,Orologio d'oro cesellato. Sec.XVIII.,714,94.4,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55436,406,357,"Orologio d'oro cesellato,ornato da un'ara,ecc.Sec. XVIII.",716,96.5,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55437,407,358,"Orologio d'oro cesellato,ornato da un canestro, ecc. Sec.XVII.",718,96.7,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
-BO0624_81775,55438,408,359,Crocetta in oro e argento con rosette. Sec. XVII.,720,95.8,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
+BO0624_81775,55438,408,359,Crocetta in oro e argento con rosette. Sec. XVII.,720,95.8,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,Sec. XVII
 BO0624_81775,55439,409,360,Cogoma d'argento. Epoca Luigi XV.,722,93.9,False,positional,,Periodo di Luigi XV,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55440,410,361,Zuccheriera d'argento a barehetta con quattro piedi.Sec.XVIHl.,724,96.8,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55441,411,362,"Piccola zuccheriera d'argento,a festoni.Sec.XVIII",725,96.1,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
@@ -414,36 +414,36 @@ BO0624_81775,55442,412,363,Bugia in argento. Sec. XVIIl.,726,92.9,False,position
 BO0624_81775,55443,413,364,Porta lucignolo in argento. See. XVIII.,727,94.7,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55444,414,365,"Alzata in argento, graziosa forma.Luigi XV. Gr. 680.",728,96.0,False,positional,,Periodo di Luigi XV,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55445,415,366,"Lotto di 1l pietre dure, comprese 7 malachite,1 opale,ecc.",729,96.6,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
-BO0624_81775,55446,416,367,"Antica croce in smalto e bronzo, e una decorazione in oro e smalto. 2pezzi Anello in oro con piccoli diamanti, See. XvI. Anello in oro con piccoli diamanti Sec. XVI.",730,61.5,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
+BO0624_81775,55446,416,367,"Antica croce in smalto e bronzo, e una decorazione in oro e smalto. 2pezzi Anello in oro con piccoli diamanti, See. XvI. Anello in oro con piccoli diamanti Sec. XVI.",730,61.5,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,Sec. XVI
 BO0624_81775,55447,417,370,Anello in oro con pietra. Anello in oro con miniatura: anello in oro con strazza. 2pezzi Anello in oro con diamanti.,734,69.3,False,positional,,,MINIATURE,,
 BO0624_81775,55448,418,373,"Lotto di 25 cammei e pietre ineise. Bella spilla in argento dorato con perle, zaffiri e rubini, in forma di stella. 7 cammei in madreperla e due in conehiglia, antichi.",737,64.5,False,positional,,,CAMEI,,
-BO0624_81775,55449,419,376,"Bella spilla in argento dorato, con una perla, rubini e smeraldi. Cammeo in agata rappresentante un imperatore romano. Se. XVIII. Cammeo in agata rappresentante Cerere. Sec. XVIII.",739,52.3,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
+BO0624_81775,55449,419,376,"Bella spilla in argento dorato, con una perla, rubini e smeraldi. Cammeo in agata rappresentante un imperatore romano. Se. XVIII. Cammeo in agata rappresentante Cerere. Sec. XVIII.",739,52.3,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,Sec. XVIII
 BO0624_81775,55450,420,379,"Lotto di 2 cammei e una pietra ineisa, in agata. Sec. XVIll. 3 pezzi",742,97.0,False,positional,,,CAMEI,,
-BO0624_81775,55451,421,380,Lotto di 4 graziosi cammei. Sec. XVIII.,743,94.7,False,positional,,,CAMEI,,
-BO0624_81775,55452,422,381,Lotto di 4 cammei in agata. Sec. XVIII.,744,94.7,False,positional,,,CAMEI,,
+BO0624_81775,55451,421,380,Lotto di 4 graziosi cammei. Sec. XVIII.,743,94.7,False,positional,,,CAMEI,,Sec. XVIII
+BO0624_81775,55452,422,381,Lotto di 4 cammei in agata. Sec. XVIII.,744,94.7,False,positional,,,CAMEI,,Sec. XVIII
 BO0624_81775,55453,423,382,Lotto di 3 cammei in agata. Sec.XVIII.,745,94.7,False,positional,,,CAMEI,,
-BO0624_81775,55454,424,383,Anello in oro con pietra dura incisa rappresentante una testa di donna in costume greco. Sec. XVIII.,746,98.0,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
-BO0624_81775,55455,425,384,"La Sacra Famiglia. Bella placca in argento sbalzato e cesellato. Lavoro del XVII secolo,",747,97.7,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
+BO0624_81775,55454,424,383,Anello in oro con pietra dura incisa rappresentante una testa di donna in costume greco. Sec. XVIII.,746,98.0,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,Sec. XVIII
+BO0624_81775,55455,425,384,"La Sacra Famiglia. Bella placca in argento sbalzato e cesellato. Lavoro del XVII secolo,",747,97.7,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,Sec. XVII
 BO0624_81775,55456,426,385,5 cucchiaini in argento. See. XVII.,750,94.1,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55457,427,386,"Necessaire in argento, con sugello e porta profumi. Epoca Luigi XVI.",752,97.0,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55458,428,387,"Cane, in argento sbalzato,gr. 75.",754,93.8,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55459,429,388,Anello in oro con finissimo bassorilievo in avorio rappresentante una scena pastorale.Sec. XVIII.,756,97.9,False,positional,,,Oggetti d'oro; Oggetti d'argento; Cammei,,
 BO0624_81775,55460,430,390,Alzata in cristallo di Boemia. Sec. XVIlI.,760,95.1,False,positional,,,Cristallerie antiche,,
-BO0624_81775,55461,431,391,Coppa in vetro di Murano a colori. Sec. XVI.,762,95.3,False,positional,,Scuola di Murano,Cristallerie antiche,,
+BO0624_81775,55461,431,391,Coppa in vetro di Murano a colori. Sec. XVI.,762,95.3,False,positional,,Scuola di Murano,Cristallerie antiche,,Sec. XVI
 BO0624_81775,55462,432,392,"Bottiglia in cristallo di Venezia,lavorata,Sec. XVII.",764,96.2,False,positional,,,Cristallerie antiche,,
 BO0624_81775,55463,433,393,"Bella e grande compostiera con coperchio e piatto in cristallo di Venezia,decorato in oro.See. XVI.",765,98.0,False,positional,,,Cristallerie antiche,,
-BO0624_81775,55464,434,394,"Vaso in cristallo di Venezia, decorato in oro. Sec. XVII.",767,96.4,False,positional,,,VASI,,
-BO0624_81775,55465,435,395,"Grande piatto in cristallo di Venezia, decorato in oro. Sec. XVII.",769,96.9,False,positional,,,Cristallerie antiche,,
+BO0624_81775,55464,434,394,"Vaso in cristallo di Venezia, decorato in oro. Sec. XVII.",767,96.4,False,positional,,,VASI,,Sec. XVII
+BO0624_81775,55465,435,395,"Grande piatto in cristallo di Venezia, decorato in oro. Sec. XVII.",769,96.9,False,positional,,,Cristallerie antiche,,Sec. XVII
 BO0624_81775,55466,436,396,"Anfora con piatto in cristallo di Venezia,lavorato. Bellissima e raris-",770,97.2,False,positional,,,Cristallerie antiche,,
-BO0624_81775,55467,437,397,"Bel vaso con coperchio, in cristallo di Venezia, decorato in oro. Sec. XVII.",772,97.3,False,positional,,,VASI,,
+BO0624_81775,55467,437,397,"Bel vaso con coperchio, in cristallo di Venezia, decorato in oro. Sec. XVII.",772,97.3,False,positional,,,VASI,,Sec. XVII
 BO0624_81775,55468,438,398,"Bella anfora con piatto in cristallo di Venezia, decorato in oro. Sec. XVIl.",773,97.3,False,positional,,,Cristallerie antiche,,
 BO0624_81775,55469,439,399,"Bottiglia in eristallo di Venezia,decorato in oro. Forma interessante e e rara. Sec.XVIII.",774,97.8,False,positional,,,Cristallerie antiche,,
-BO0624_81775,55470,440,400,"Bel vaso con coperchio in cristallo di Venezia, decor. in oro. Sec. XVII.",775,97.1,False,positional,,,VASI,,
+BO0624_81775,55470,440,400,"Bel vaso con coperchio in cristallo di Venezia, decor. in oro. Sec. XVII.",775,97.1,False,positional,,,VASI,,Sec. XVII
 BO0624_81775,55471,441,401,"Compostiera con coperchio e piatto in cristallo di Venezia,riccamente decorata in oro. See. XVI.",776,97.9,False,positional,,,Cristallerie antiche,,
-BO0624_81775,55472,442,402,"Bottiglia in cristallo di Venezia, decorato in oro.Bella forma. Sec. XVI",777,97.2,False,positional,,,Cristallerie antiche,,
-BO0624_81775,55473,443,403,"Anfora in cristallo di Venezia, ricca decorazione in oro. Sec. XVI. Bottiglia in vetro di Ungheria, decorazione policroma di fiori e figura Presepio,vetro di Murano.",779,60.9,False,positional,,Scuola di Murano,Cristallerie antiche,,
+BO0624_81775,55472,442,402,"Bottiglia in cristallo di Venezia, decorato in oro.Bella forma. Sec. XVI",777,97.2,False,positional,,,Cristallerie antiche,,Sec. XVI
+BO0624_81775,55473,443,403,"Anfora in cristallo di Venezia, ricca decorazione in oro. Sec. XVI. Bottiglia in vetro di Ungheria, decorazione policroma di fiori e figura Presepio,vetro di Murano.",779,60.9,False,positional,,Scuola di Murano,Cristallerie antiche,,Sec. XVI
 BO0624_81775,55474,444,406,"Bottiglia in vetro d'Ungheria, decorazione policroma di fiori e uccelli Sec.XVII.",782,97.5,False,positional,,,Cristallerie antiche,,
-BO0624_81775,55475,445,407,"Bottiglia in vetro d'Ungheria, decorazione polieroma di ornati e figura d'uomo.See.XVII. Vasetto per fiori di vetro di Murano,moderno Graziosa alzata in vetro di Murano, leggerissima. Sec. XVI.",783,62.1,False,positional,,Scuola di Murano,Cristallerie antiche,,
+BO0624_81775,55475,445,407,"Bottiglia in vetro d'Ungheria, decorazione polieroma di ornati e figura d'uomo.See.XVII. Vasetto per fiori di vetro di Murano,moderno Graziosa alzata in vetro di Murano, leggerissima. Sec. XVI.",783,62.1,False,positional,,Scuola di Murano,Cristallerie antiche,,Sec. XVI
 BO0624_81775,55476,446,411,"2 bicchieri con manico, in vetro rosso di Venezia.",786,96.0,False,positional,,,Cristallerie antiche,,
 BO0624_81775,55477,447,412,"Lotto di una bella tazza in porcellana della China, antica; una tazza con coperchio in maiolica di Lodi,antica;un putto in maiolica,moderno 3pezzi",790,98.6,False,title_direct,,,porcellane,,
 BO0624_81775,55478,448,2,nera;vaso di farmacia in maiolica di Faenza. 3pezzi,791,98.0,False,positional,,Scuola Faentina,VASI,,
@@ -454,7 +454,7 @@ BO0624_81775,55482,452,414,Lotto di sei statuette in maiolica bianca rappresenta
 BO0624_81775,55483,453,2,cigni in maiolica bianca. 9pezzi,825,96.9,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55484,454,3,"415.2 boccali in maiolica di Savona,decorazione bleue.Moderni.",826,98.4,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55485,455,416,"Alzata in porcellana francese a jour, decorata a fiori e oro. Epoca Luigi Filippo.",827,87.8,False,title_direct,,,porcellane,,
-BO0624_81775,55486,456,417,"Statuetta in maiolica di Nove, rappresentante un uomo in costume greco. Sec. XVIII.",829,86.3,False,positional,,,Maioliche; porcellane,,
+BO0624_81775,55486,456,417,"Statuetta in maiolica di Nove, rappresentante un uomo in costume greco. Sec. XVIII.",829,86.3,False,positional,,,Maioliche; porcellane,,Sec. XVIII
 BO0624_81775,55487,457,418,"Un piattino in maiolica di Lodi,altri oggetti in maioliea, una salsiera in cristallo,e una mensoletta in terracotta,moderna.",831,98.4,False,positional,,,OGGETTI VARI,,
 BO0624_81775,55488,458,419,"Zuppiera in antica maiolica di Lodi o Milano,imitazione Sassonia, de- corazione policroma. Sec. XVIIl.",832,79.8,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55489,459,420,"Cafettiera, zuccheriera e due tazze in maiolica di Greil. Impero.",834,96.9,False,positional,,,Maioliche; porcellane,,
@@ -471,24 +471,24 @@ BO0624_81775,55499,469,427,"Piatto grande rotondo in maiolica di Milano, decoraz
 BO0624_81775,55500,470,23,peonie policromia e oro. Firmato F. P. P. Mil. Sec.XvIlf.,846,97.1,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55501,471,24,"428.Piatto grande rotondo in maiolica di Milano, decorazione stile. chinese",847,98.0,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55502,472,25,con pagode e persone. Sec.Xvill.,848,95.2,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55503,473,429,"Piatto grande rotondo in maiolica di Milano, firmato con due chiodi, decorazione imitazione giapponese, nel color rosa. Sec. XVIlI. Sec. XVIII.",849,94.7,False,positional,,,Maioliche; porcellane,,
+BO0624_81775,55503,473,429,"Piatto grande rotondo in maiolica di Milano, firmato con due chiodi, decorazione imitazione giapponese, nel color rosa. Sec. XVIlI. Sec. XVIII.",849,94.7,False,positional,,,Maioliche; porcellane,,Sec. XVIII
 BO0624_81775,55504,474,430,"Quattro tazze con piattini, in maiolica di Milano, decorazione alla rosa.",851,97.2,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55505,475,29,"43l. Tre piatti concavi in maiolica di Milano, decorazione alla rosa. Se-",852,97.9,False,positional,,,PIATTI,,
 BO0624_81775,55506,476,30,colo XVIII.,853,87.0,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55507,477,432,"Piatto rotondo in maiolica di Milano, decorazione a festoni rosa e ghirlande di rose nel contorno e bouquet nel centro. See. XVIlI.",854,98.4,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55508,478,433,"Piatto rotondo in maiolica di Milano della fabbrica F. Clerici, decorazione a paesaggio verde e rosa con la fig. d'una donna ecc. See. XVIlI.",855,98.5,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55509,479,33,"434.Piatto rotondo in maiolica di Milano,decorazione imitazione chinese co-",856,98.0,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55510,480,34,lori e oro. Sec. XVIII.,857,93.0,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55511,481,435,"Lampada a sospensione in maiolica di Milano, decorazione alla rosa. Secolo XVIII.",858,97.5,False,positional,,,LAMPADE,,
-BO0624_81775,55512,482,436,"Vaso con coperchio, maiolica di Milano, decorazione a fiamme e oro. Sec. XVIII.",859,90.1,False,positional,,,VASI,,
-BO0624_81775,55513,483,437,"Due vasi in forma di bottiglia in maiolica di Milano, decorazione a alla rosa. Sec. XVII.",861,88.8,False,positional,,,VASI,,
+BO0624_81775,55510,480,34,lori e oro. Sec. XVIII.,857,93.0,False,positional,,,Maioliche; porcellane,,Sec. XVIII
+BO0624_81775,55511,481,435,"Lampada a sospensione in maiolica di Milano, decorazione alla rosa. Secolo XVIII.",858,97.5,False,positional,,,LAMPADE,,Sec. XVIII
+BO0624_81775,55512,482,436,"Vaso con coperchio, maiolica di Milano, decorazione a fiamme e oro. Sec. XVIII.",859,90.1,False,positional,,,VASI,,Sec. XVIII
+BO0624_81775,55513,483,437,"Due vasi in forma di bottiglia in maiolica di Milano, decorazione a alla rosa. Sec. XVII.",861,88.8,False,positional,,,VASI,,Sec. XVII
 BO0624_81775,55514,484,438,"Vaso con anse in maiolica di Sardegna, decorazione policroma primitiva.Sec.XV.",863,97.4,False,positional,,,VASI,,
 BO0624_81775,55515,485,41,439.Vaso simile al precedente.,864,95.1,False,positional,,,VASI,,
 BO0624_81775,55516,486,440,"Grande piatto in maiolica di Savona, decorazione bleue. See. XVIl.",865,96.9,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55517,487,44,"l. Piatto con alzata,in maiolica di Deruta, decorazione bleue di uccelli e quadrupedi. See.XVII.",870,98.9,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55518,488,442,"Vaso a tromba in maiolica di Pesaro, decorazione bleue a festoni. Se-",871,97.1,False,positional,,,VASI,,
 BO0624_81775,55519,489,443,"Bel piatto a jour in maiolica delle Marche, di forma ottagonale, con",873,97.1,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55520,490,444,"Due bottiglie in maiolica di Deruta, decorazione bleu di uecelli o quadrupedi. Sec. XVII.",875,97.7,False,positional,,,BOTTIGLIE,,
+BO0624_81775,55520,490,444,"Due bottiglie in maiolica di Deruta, decorazione bleu di uecelli o quadrupedi. Sec. XVII.",875,97.7,False,positional,,,BOTTIGLIE,,Sec. XVII
 BO0624_81775,55521,491,445,"Bella fruttiera con coperchio in maiolica di Faenza, decorazione poli- bis.Altra simile alla precedente.",876,78.6,False,positional,,Scuola Faentina,Maioliche; porcellane,,
 BO0624_81775,55522,492,446,"Bella fruttiera di forma ottagonale, con coperchio in maiolica di Faenza, decorazione polieroma di fiori. See. XVIII. bis.Altra simile alla precedente.",879,85.8,False,positional,,Scuola Faentina,Maioliche; porcellane,,
 BO0624_81775,55523,493,447,"Due vasi a tromba in maiolica di Savona, decorazione di paesaggio. Con bis. Altri due simili ai precedenti.",881,77.7,False,positional,,,VASI,,
@@ -499,21 +499,21 @@ BO0624_81775,55527,497,45,"l.Vaso con anse in maiolica di Sardegna, decorazione 
 BO0624_81775,55528,498,452,"Grande scodella in maiolica di Pavia,interessante decorazione imitante le pietre dure. Sec.XVI.",890,97.9,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55529,499,453,"Due grandi e bellissimi vasi in maiolica di Faenza, decorati in bleu con stemmi. Sec.XVII.",891,97.8,False,positional,,Scuola Faentina,VASI,,
 BO0624_81775,55530,500,454,"Vaso a tromba in maiolica di Faenza, decorato con un'impresa:La fenice che rinasce dalle ceneri. Sec.XVI.",892,98.1,False,positional,,Scuola Faentina,VASI,,
-BO0624_81775,55531,501,455,"Grande vaso a tromba in maiolica degli Abruzzi,decorazione bleue.Secolo XVII.",893,97.4,False,positional,,,VASI,,
-BO0624_81775,55532,502,456,Vaso a tromba in maiolica di Siena. Decorazione bleue. Sec. XVI.,894,96.8,False,positional,,Scuola Senese,VASI,,
+BO0624_81775,55531,501,455,"Grande vaso a tromba in maiolica degli Abruzzi,decorazione bleue.Secolo XVII.",893,97.4,False,positional,,,VASI,,Sec. XVII
+BO0624_81775,55532,502,456,Vaso a tromba in maiolica di Siena. Decorazione bleue. Sec. XVI.,894,96.8,False,positional,,Scuola Senese,VASI,,Sec. XVI
 BO0624_81775,55533,503,457,"Grazioso vaso con coperchio in maiolica di Genova, decorato a foglie di",896,97.2,False,positional,,,VASI,,
 BO0624_81775,55534,504,458,Boccale in maioliea di Faenza decorato a fiorami e uecelli. Sec.XVII.,897,97.1,False,positional,,Scuola Faentina,Maioliche; porcellane,,
 BO0624_81775,55535,505,459,"Anfora in maiolica di Urbino, con stemma. See.XVII.",898,96.0,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55536,506,460,"Fruttiera in maiolica di Milano, con una figurina nel centro, e ornati",900,97.1,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55537,507,46,"l. Grande piatto in maiolica di Faenza, avente nel centro uno stemma. Sec. XVII.",901,98.7,False,positional,,Scuola Faentina,Maioliche; porcellane,,
-BO0624_81775,55538,508,462,"Grande piatto in maiolica di Milano (?), decoraz. policroma. Sec. XVIII.",903,96.9,False,positional,,,Maioliche; porcellane,,
+BO0624_81775,55537,507,46,"l. Grande piatto in maiolica di Faenza, avente nel centro uno stemma. Sec. XVII.",901,98.7,False,positional,,Scuola Faentina,Maioliche; porcellane,,Sec. XVII
+BO0624_81775,55538,508,462,"Grande piatto in maiolica di Milano (?), decoraz. policroma. Sec. XVIII.",903,96.9,False,positional,,,Maioliche; porcellane,,Sec. XVIII
 BO0624_81775,55539,509,463,"Quattro piatti in maiolica degli Abruzzi, decorazione a paesaggio e fi-",906,97.2,False,positional,,,PIATTI,,
 BO0624_81775,55540,510,464,"Fruttiera in maiolica di Lodi, decoraz. policroma di fiori. See. XVII.",907,97.0,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55541,511,465,"Paio di vasi a tromba in maioliea di Cafaggiolo, a fiori azzurri e gialli. Sec.XVI.",908,97.6,False,positional,,,VASI,,
 BO0624_81775,55542,512,466,"Piccola bomboniera in porcellana di Sassonia, decorazione di paesaggio con figure a chiaroseuro. Marcata. Sec. XVIlI.",911,98.2,False,title_direct,,,porcellane,,
 BO0624_81775,55543,513,2,See. XVII.,912,88.9,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55544,514,3,"467.Piatto in porcellana della China, forma oblunga, decorazione policroma.",913,98.6,False,title_direct,,,porcellane,,
-BO0624_81775,55545,515,468,"Zuppiera con coperchio in maiolica di Pesaro, decorazione policroma Sec.XVIII. rosa. Sec. XVIII.",914,88.9,False,positional,,,Maioliche; porcellane,,
+BO0624_81775,55545,515,468,"Zuppiera con coperchio in maiolica di Pesaro, decorazione policroma Sec.XVIII. rosa. Sec. XVIII.",914,88.9,False,positional,,,Maioliche; porcellane,,Sec. XVIII
 BO0624_81775,55546,516,469,"Teiera in maiolica di Milano, decorazione imitazione giapponese verde e",916,97.2,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55547,517,470,Due zuccheriere in porcellana bianca francese. Epoca Luigi XVI.,917,96.8,False,title_direct,,,porcellane,,
 BO0624_81775,55548,518,471,"Statuetta,rappresentante figura di donna, in porcellana tenera di Celsea, decorazione polieroma. See.XVIlI.",918,98.1,False,title_direct,,,porcellane,,
@@ -521,26 +521,26 @@ BO0624_81775,55549,519,472,"Quattro coppe con sottocoppe in porcellana tenera di
 BO0624_81775,55550,520,10,"473.Grande vaso in maiolica persiana,con anse； interessante decorazione",920,97.9,False,positional,,,VASI,,
 BO0624_81775,55551,521,11,zione bleue e oro. Marcate. Sec.XVIlI.,921,95.9,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55552,522,12,polieroma.See.XVI.,922,91.9,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55553,523,13,"474.Piatto in maiolica di Urbino. Decorazione policroma,rappresentante soggetto mitologico, del quale nel rovescio e la spiegazione in questi termini: 《 Uleano bate la rite.Ovidio 》. 1557. Pezzo raro.",923,99.2,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55554,524,476,"Tazza da brodo in maiolica di Lodi, decorazione policroma. See. XVIII. Fiasca in maiolica di Pavia. Bella e interessante. Sec. XV.",924,68.8,False,positional,,,Maioliche; porcellane,,
+BO0624_81775,55553,523,13,"474.Piatto in maiolica di Urbino. Decorazione policroma,rappresentante soggetto mitologico, del quale nel rovescio e la spiegazione in questi termini: 《 Uleano bate la rite.Ovidio 》. 1557. Pezzo raro.",923,99.2,False,positional,,,Maioliche; porcellane,,Sec. XVI
+BO0624_81775,55554,524,476,"Tazza da brodo in maiolica di Lodi, decorazione policroma. See. XVIII. Fiasca in maiolica di Pavia. Bella e interessante. Sec. XV.",924,68.8,False,positional,,,Maioliche; porcellane,,Sec. XV
 BO0624_81775,55555,525,477,"Due vasi a tromba in maiolica di Savona, decorazione di paesaggio. Con",926,97.1,False,positional,,,VASI,,
 BO0624_81775,55556,526,17,data1784.,927,84.2,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55557,527,18,477 bis. Altri due simili ai precedenti.,928,96.2,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55558,528,478,"Due bei vasi in maiolica di Faenza, decorazione bleue di paesaggio. Sec. XVII.",929,97.4,False,positional,,Scuola Faentina,VASI,,
-BO0624_81775,55559,529,479,"Due vasi con ansa e becco, in maiolica di Savona, decorazione bleue. Sec. XVIII.",930,97.4,False,positional,,,VASI,,
+BO0624_81775,55558,528,478,"Due bei vasi in maiolica di Faenza, decorazione bleue di paesaggio. Sec. XVII.",929,97.4,False,positional,,Scuola Faentina,VASI,,Sec. XVII
+BO0624_81775,55559,529,479,"Due vasi con ansa e becco, in maiolica di Savona, decorazione bleue. Sec. XVIII.",930,97.4,False,positional,,,VASI,,Sec. XVIII
 BO0624_81775,55560,530,480,"Due vasi in maiolica di Savona, in forma di bottiglia, decorazione bleue. Sec.XVIII.",931,97.6,False,positional,,,VASI,,
 BO0624_81775,55561,531,22,"48l. Due piatti ovali,centinati in maiolica di Faenza. Decorazione policroma",932,98.0,False,positional,,Scuola Faentina,PIATTI,,
 BO0624_81775,55562,532,23,di fiori. See.XVIII.,933,92.3,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55563,533,482,"Seodella lavorata a stecco, in maiolica della Fratta. Sec. XVII.",934,96.8,False,positional,,,Maioliche; porcellane,,
+BO0624_81775,55563,533,482,"Seodella lavorata a stecco, in maiolica della Fratta. Sec. XVII.",934,96.8,False,positional,,,Maioliche; porcellane,,Sec. XVII
 BO0624_81775,55564,534,483,"Due grandi vasi di bella forma, in maiolica di Pavia, decorazione mar- morizzata colore caffe, con anse a becco. Sec.XVII.",935,71.7,False,positional,,,VASI,,
 BO0624_81775,55565,535,484,"Due piatti 《a jour 》 in maiolica delle marche,con stemma nel centro. Sec.XVII.",937,90.8,False,positional,,,PIATTI,,
-BO0624_81775,55566,536,485,"Bel piatto in maiolica delle Marche 《 a jour 》, decorazione policroma; nel centro un impresa con la leggenda 《Amor omnia vinc...》 Sec. XVII.",939,65.6,False,positional,,,Maioliche; porcellane,,
+BO0624_81775,55566,536,485,"Bel piatto in maiolica delle Marche 《 a jour 》, decorazione policroma; nel centro un impresa con la leggenda 《Amor omnia vinc...》 Sec. XVII.",939,65.6,False,positional,,,Maioliche; porcellane,,Sec. XVII
 BO0624_81775,55567,537,486,"Grande piatto circolare,centinato in maiolica di Faenza. Decorazione policroma,nel centro figura d’uomo. Sec.XvIl.",941,73.6,False,positional,,Scuola Faentina,Maioliche; porcellane,,
 BO0624_81775,55568,538,487,"Grande piatto circolare centinato in maiolica di Lodi. Decorazione bleu, nel centro uno stemma. See.XVII.",943,80.0,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55569,539,488,"Brocca in maiolica di Rouen, decorazione di fiori. Graziosa forma. Secolo XVII.",945,97.4,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55570,540,489,Bel piatto in maiolica di Savona.Nel centro Venere che pettina Amore. Secolo XVII.,946,97.6,False,positional,,,Maioliche; porcellane,,
+BO0624_81775,55569,539,488,"Brocca in maiolica di Rouen, decorazione di fiori. Graziosa forma. Secolo XVII.",945,97.4,False,positional,,,Maioliche; porcellane,,Sec. XVII
+BO0624_81775,55570,540,489,Bel piatto in maiolica di Savona.Nel centro Venere che pettina Amore. Secolo XVII.,946,97.6,False,positional,,,Maioliche; porcellane,,Sec. XVII
 BO0624_81775,55571,541,490,Due piatti ottagonali in maiolica 《a jour 》 delle Marche. Decorazione policroma.Sec.XVII.,947,85.0,False,positional,,,PIATTI,,
-BO0624_81775,55572,542,491,Piatto circolare in antica maiolica di Pavia; nel centro uno stemma. Interessantelavoro del XVI secolo.,953,77.6,False,positional,,,Maioliche; porcellane,,
+BO0624_81775,55572,542,491,Piatto circolare in antica maiolica di Pavia; nel centro uno stemma. Interessantelavoro del XVI secolo.,953,77.6,False,positional,,,Maioliche; porcellane,,Sec. XVI
 BO0624_81775,55573,543,492,Due mensole formate da grandi teste di fauni in maiolica d'Abruzzo; decorazione policroma.,955,83.5,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55574,544,493,"Due vasi in maiolica di Savona, decorazione bleu. Sec.XVII.",957,96.6,False,positional,,,VASI,,
 BO0624_81775,55575,545,6,"494.Mattonella in maiolica persiana rappresentante un faleoniere;e altre 2 mattonelle in maiolica persiana, con ornati. Stile del see. XVI. 3 pezzi.",958,99.3,False,positional,,,Maioliche; porcellane,,
@@ -554,52 +554,52 @@ BO0624_81775,55582,552,500,Piattino in maiolica di Milano con fiori a rilievo. S
 BO0624_81775,55583,553,501,"Due grandi e bei vasi a tromba con coperchio, in maiolica di Savona. Decorazione bleue e fogliami e paesaggi. Sec.XVII.",967,98.3,False,positional,,,VASI,,
 BO0624_81775,55584,554,502,"Dodiei piatti in porcellana della China, famiglia rosa. See.XVIl. 12 pezzi.",968,97.3,False,title_direct,,,PIATTI,,
 BO0624_81775,55585,555,503,"Piatto primitivo in maiolica di Deruta, decorazione a colori. Sec.XV.",969,97.1,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55586,556,504,"Vaso con coperchio, in porcellana della China. Sec. XVIII.",970,96.4,False,title_direct,,,VASI,,
+BO0624_81775,55586,556,504,"Vaso con coperchio, in porcellana della China. Sec. XVIII.",970,96.4,False,title_direct,,,VASI,,Sec. XVIII
 BO0624_81775,55587,557,503,"Vaso in porcellana della China, decorazione bleue. See.XVIII.",971,96.7,False,title_direct,,,VASI,,
 BO0624_81775,55588,558,506,"Due vasi in porcellana giapponese, decorazione policroma. Sec.XVIII.",972,97.0,False,title_direct,,,VASI,,
-BO0624_81775,55589,559,21,"507.Due potiches in porcellana chinese,decorazioni fiori e oro. Sec. XVIII.",973,98.0,False,title_direct,,,porcellane,,
+BO0624_81775,55589,559,21,"507.Due potiches in porcellana chinese,decorazioni fiori e oro. Sec. XVIII.",973,98.0,False,title_direct,,,porcellane,,Sec. XVIII
 BO0624_81775,55590,560,22,"508.Una partita. Due gentiluomini e due dame in ricchi costumi Luigi XV seduti ad un tavolino, giuoeano. Grazioso gruppo in biseuit a colori, formante un calamaio.Lavoro francese. Sec.XVIII.",974,99.2,False,positional,,Periodo di Luigi XV,ARREDAMENTI,,
 BO0624_81775,55591,561,509,Amorini. Due graziosi gruppi in porcellana bianca di Venezia. in camicia ed un ragazzo che la guarda con curiosita. Sec.XvIll.,976,67.4,False,title_direct,,,porcellane,,
 BO0624_81775,55592,562,510,Gruppo in porcellana bianea di Sassonia rappresentante una giovinetta,977,97.2,False,title_direct,,,porcellane,,
 BO0624_81775,55593,563,26,"51l. Vaso porcellana persiana, decorato a uccelli, figure e fogliami See. XVIII.",978,98.0,False,title_direct,,,VASI,,
 BO0624_81775,55594,564,512,"Magot cinese,in porcellana, decorazione polieroma.Molto bello.Sec. XVII.",979,97.2,False,title_direct,,,porcellane,,
-BO0624_81775,55595,565,513,"Sei piccoli piatti in porcellana della China, decorazione e figure. Secolo XVII.",980,97.5,False,title_direct,,,PIATTI,,
+BO0624_81775,55595,565,513,"Sei piccoli piatti in porcellana della China, decorazione e figure. Secolo XVII.",980,97.5,False,title_direct,,,PIATTI,,Sec. XVII
 BO0624_81775,55596,566,29,"514.Servizio di the composto di 6 tazze,6 piattini,zuccheriera, theiera,",981,97.9,False,positional,,,Maioliche; porcellane,,
-BO0624_81775,55597,567,515,"Vaso persiano in maiolica, con anse,interessante decorazione policroma. Sec. XVI. in porcellana di Sassonia decor.a fiori. Marcata. Sec. XVIH.14 pezzi",982,68.8,False,title_direct,,,VASI,,
-BO0624_81775,55598,568,516,"Vaso persiano in maiolica, con anse, decorazione policroma. Sec. XVI.",984,97.0,False,positional,,,VASI,,
+BO0624_81775,55597,567,515,"Vaso persiano in maiolica, con anse,interessante decorazione policroma. Sec. XVI. in porcellana di Sassonia decor.a fiori. Marcata. Sec. XVIH.14 pezzi",982,68.8,False,title_direct,,,VASI,,Sec. XVI
+BO0624_81775,55598,568,516,"Vaso persiano in maiolica, con anse, decorazione policroma. Sec. XVI.",984,97.0,False,positional,,,VASI,,Sec. XVI
 BO0624_81775,55599,569,33,porcellana.,985,87.0,False,title_direct,,,porcellane,,
 BO0624_81775,55600,570,34,"517,Una statuetta porta stuzzicadenti, e un piccolo vasetto per profumi, in",986,98.0,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55601,571,518,"Due vasi in maiolica imitazione Urbino,montati in bronzo dorato.",987,96.9,False,positional,,,VASI,,
 BO0624_81775,55602,572,519,"Due vasi in maiolica di Milano, decorati a fiori. Epoca Luigi XVI. Guasti.",988,97.2,False,positional,,,VASI,,
-BO0624_81775,55603,573,520,Insalatiera in maiolica di Savona. Decorazione bleue. Sec. XVII.,989,96.8,False,positional,,,Maioliche; porcellane,,
+BO0624_81775,55603,573,520,Insalatiera in maiolica di Savona. Decorazione bleue. Sec. XVII.,989,96.8,False,positional,,,Maioliche; porcellane,,Sec. XVII
 BO0624_81775,55604,574,521,Una tazza in maiolica di Lodi; un bel cestino in maiolica; un porta,992,97.0,False,positional,,,Maioliche; porcellane,,
 BO0624_81775,55605,575,522,"Due bei vasi in maiolica con anse, decorazione bleu.",994,96.2,False,positional,,,VASI,,
-BO0624_81775,55606,576,523,"Lotto di 4 cornici con filetto ottone, e 2 cornici in bronzo cesellate. Cornicetta ovale in rame sbalzato e dorato. Sec. XVIII. Cornicetta ovale in legno scolpito e dorato. Sec. XVIlI.",1000,55.4,False,title_direct,,,Cornici,,
+BO0624_81775,55606,576,523,"Lotto di 4 cornici con filetto ottone, e 2 cornici in bronzo cesellate. Cornicetta ovale in rame sbalzato e dorato. Sec. XVIII. Cornicetta ovale in legno scolpito e dorato. Sec. XVIlI.",1000,55.4,False,title_direct,,,Cornici,,Sec. XVIII
 BO0624_81775,55607,577,526,"Cornice in legno scolpito e dorato. Sec. XV11. Alt. cm.50, larg, cm.42 Cornice in noce, impero. Con 4 rosette agli angoli. Alt. cm. 70, larg. cm. 52 Cornice in legno intagliato e dorato. Sec. XVI1. Alt. cm. 46, larg. cm. 25.",1006,52.6,False,title_direct,,,Cornici,,
 BO0624_81775,55608,578,529,"Cornice in legno intagliato e dorato. See. XVIl.Alt. cm.50, larg.cm.81",1008,97.1,False,title_direct,,,Cornici,,
-BO0624_81775,55609,579,531,Due cornicette in legno dorato. Sec. XVII. 530.Cornice in ebano.,1009,75.7,False,title_direct,,,Cornici,,
+BO0624_81775,55609,579,531,Due cornicette in legno dorato. Sec. XVII. 530.Cornice in ebano.,1009,75.7,False,title_direct,,,Cornici,,Sec. XVII
 BO0624_81775,55610,580,532,Tre piccole cornici in legno o metallo. Due cornici di forma gotica in legno dorato. Cornice in legno grafito e dorato. See. XVll. Alt. cm.30. larg. cm.22.,1013,60.1,False,title_direct,,,Cornici,,
 BO0624_81775,55611,581,535,Cassettone in noce intarsiato. Sec.XVIII.,1017,95.1,False,positional,,,Mobili,,
 BO0624_81775,55612,582,536,Colonna in legno e bronzo dorato. Stile Luigi XVI. rara forma.Luigi XV.,1019,80.0,False,positional,,Periodo di Luigi XV,Mobili,,
 BO0624_81775,55613,583,537,"Due tavolini da giuoco in noce d’India, intarsiati, pregievoli. Bella e",1022,97.1,False,positional,,,Mobili,,
-BO0624_81775,55614,584,538,"Due tavolini in noce a gambe tornite, del Sec. XVI. Tavola da giuoco pieghevole in noce d'India, intarsiata. Maggiolini.",1026,72.1,False,positional,,,Mobili,,
+BO0624_81775,55614,584,538,"Due tavolini in noce a gambe tornite, del Sec. XVI. Tavola da giuoco pieghevole in noce d'India, intarsiata. Maggiolini.",1026,72.1,False,positional,,,Mobili,,Sec. XVI
 BO0624_81775,55615,585,539,2 tavolini da notte in noce intarsiata uso Maggiolini.,1028,96.4,False,positional,,,Mobili,,
 BO0624_81775,55616,586,2,"54l. Toilette in noce d'India, intarsiata,in bois-rose, ecc. Graziosa forma Luigi XV.",1029,98.8,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_81775,55617,587,542,"Cassettone in noce d'India, riccamente intarsiato,in bois-rose, cedro",1030,97.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81775,55618,588,543,"Chifonniere a due tiretti e 3 portine, in noce intarsiata: Maggiolini. ecc.Luigi XVI.",1031,88.2,False,positional,,,Mobili,,
 BO0624_81775,55619,589,544,"Poltrona in noce con doratura. Luigi XVI. Bella chifonniere in noce intarsiata di bois-rose, ece. a 4 tiretti. Maggiolini Tavolino quadrato in noce intarsiato.",1034,66.1,False,positional,,,ARREDAMENTI,,
-BO0624_81775,55620,590,547,Seggiola in noce intarsiata. Bella forma del XVI secolo. Grande seggioione in noce scolpito. Sec.XVI.,1036,69.7,False,positional,,,Mobili,,
+BO0624_81775,55620,590,547,Seggiola in noce intarsiata. Bella forma del XVI secolo. Grande seggioione in noce scolpito. Sec.XVI.,1036,69.7,False,positional,,,Mobili,,Sec. XVI
 BO0624_81775,55621,591,548,Tavolino a consolle in noce. Luigi XVi.,1040,94.9,False,positional,,,ARREDAMENTI,,
 BO0624_81775,55622,592,2,549 bis. Cassettone in noce intarsiato. Bella forma Luigi XV.,1041,98.3,False,positional,,Periodo di Luigi XV,Mobili,,
 BO0624_81775,55623,593,3,550.Cassettone simile al precedente.,1042,97.2,False,positional,,,Mobili,,
 BO0624_81775,55624,594,4,"550 bis. Armadio in noce intarsiato in avorio, metalli e madreperla: Certosino.",1043,98.7,False,positional,,,OGGETTI IN METALLO,,
-BO0624_81775,55625,595,551,Tavolo con cassetta per elemosina. Sec. XVI.,1044,95.3,False,positional,,,Mobili,,
+BO0624_81775,55625,595,551,Tavolo con cassetta per elemosina. Sec. XVI.,1044,95.3,False,positional,,,Mobili,,Sec. XVI
 BO0624_81775,55626,596,552,Grande armadiq di noce con cariatidi. See. XVII.,1047,95.7,False,positional,,,Mobili,,
-BO0624_81775,55627,597,553,"Armadietto di forma archittetonica, con gli sportelli dipinti e molti tiretti. Nella decorazione sono ripetuti stemmi della famiglia Boncompagni E'ornato d'una statuetta di bronzo dorato rappresentante la fama. Secolo XVI.",1049,99.1,False,positional,,,Mobili,,
+BO0624_81775,55627,597,553,"Armadietto di forma archittetonica, con gli sportelli dipinti e molti tiretti. Nella decorazione sono ripetuti stemmi della famiglia Boncompagni E'ornato d'una statuetta di bronzo dorato rappresentante la fama. Secolo XVI.",1049,99.1,False,positional,,,Mobili,,Sec. XVI
 BO0624_81775,55628,598,554,Seggiola in legno intagliato. See. XVII.,1051,94.9,False,positional,,,Mobili,,
 BO0624_81775,55629,599,555,"Seeretaire in noce d'India riccamente intarsiato, stile Maggiolini.",1053,97.0,False,positional,,,Mobili,,
 BO0624_81775,55630,600,556,"Due cassetton: in noce d'India, riccamente intarsiati. Lavoro finissimo dei Maggiolini. Con marmi.",1055,97.9,False,positional,,,Mobili,,
-BO0624_81775,55631,601,557,Serivania in noce intarsiata. Sec. XVII.,1057,94.9,False,positional,,,Mobili,,
+BO0624_81775,55631,601,557,Serivania in noce intarsiata. Sec. XVII.,1057,94.9,False,positional,,,Mobili,,Sec. XVII
 BO0624_81775,55632,602,558,"Tavolino da giuoco, con la dama, in noce. Luigi XV.",1059,95.9,False,positional,,Periodo di Luigi XV,ARREDAMENTI,,
 BO0624_81775,55633,603,559,Tavolino da giuoeo in noce. Impero.,1061,94.3,False,positional,,,ARREDAMENTI,,
 BO0624_81775,55634,604,560,"Quattro incisioni inglesi moderne, ben montate in cornici.",1065,96.6,False,title_direct,,,Incisioni,,
@@ -610,31 +610,31 @@ BO0624_81775,55638,608,564,"Pendolino con giro di strasse. Portafiori in bronzo 
 BO0624_81775,55639,609,567,"Vassoio in plaque, avente nel centro un dipinto fiammingo,firmato Rustler.Sec.XVIlI.",1079,97.6,False,positional,,,Mobili,,
 BO0624_81775,55640,610,568,Cucchiaio e forchetta in legno intagliato.,1081,95.3,False,positional,,,Mobili,,
 BO0624_81775,55641,611,569,"Alabarda in ferro cesellato, bella forma. Sec.XVI.",1083,95.9,False,positional,,,Mobili,,
-BO0624_81775,55642,612,570,"Pistola a pietra focaia con intarsio d’argento. Sec. XVII. 572.Lotto di un pugnale del XV secolo, unelsa, un impugnatura di spada",1086,71.1,False,positional,,,Mobili,,
-BO0624_81775,55643,613,571,"Pistola a pietra focaia, in bronzo cesellato. Sec. XVII.",1087,96.3,False,positional,,,Mobili,,
+BO0624_81775,55642,612,570,"Pistola a pietra focaia con intarsio d’argento. Sec. XVII. 572.Lotto di un pugnale del XV secolo, unelsa, un impugnatura di spada",1086,71.1,False,positional,,,Mobili,,Sec. XVII
+BO0624_81775,55643,613,571,"Pistola a pietra focaia, in bronzo cesellato. Sec. XVII.",1087,96.3,False,positional,,,Mobili,,Sec. XVII
 BO0624_81775,55644,614,4,"ornata in bronzo dorato e cesellato,uno sperone del XVlI secolo. 4 pezzi.",1088,98.6,False,positional,,,Mobili,,
 BO0624_81775,55645,615,573,"Spada con lama, firmata M. A. Pichinio e bella impugnatura in bronzo",1089,97.0,False,positional,,,Mobili,,
-BO0624_81775,55646,616,6,cesellato. Sec. XVII.,1090,94.7,False,positional,,,Mobili,,
+BO0624_81775,55646,616,6,cesellato. Sec. XVII.,1090,94.7,False,positional,,,Mobili,,Sec. XVII
 BO0624_81775,55647,617,674,Lotto di 4 staffe. Sec.XVI.,1092,92.6,False,positional,,,Mobili,,
 BO0624_81775,55648,618,576,Bella lampada a tre becchi in bronzo cesellato. Pugnale a sega con impugnatura in bronzo cesellato. See. XVII.,1096,71.0,False,positional,,,LAMPADE,,
-BO0624_81775,55649,619,577,La Vergine col Cristo morto. Stucco del XV secolo.,1098,96.0,False,positional,,,Mobili,,
-BO0624_81775,55650,620,578,Due cornicette in bronzo cesellato. Sec. XVI.,1100,95.5,False,positional,,,Mobili,,
+BO0624_81775,55649,619,577,La Vergine col Cristo morto. Stucco del XV secolo.,1098,96.0,False,positional,,,Mobili,,Sec. XV
+BO0624_81775,55650,620,578,Due cornicette in bronzo cesellato. Sec. XVI.,1100,95.5,False,positional,,,Mobili,,Sec. XVI
 BO0624_81775,55651,621,579,"Testa di donna in bronzo di seavo, e altri 6 ornamenti per mobili in bronzo cesellato.",1102,97.7,False,positional,,,Mobili,,
-BO0624_81775,55652,622,580,"Calamaio in bronzo, composto di 5 pezzi. See. XVII. Ciottola persiana in bronzo cesellato, ornata a lepri rincorrentisi e stemmi. InteressantelavorodelXVsecolo. Due maniglie di bronzo, rappresentanti due teste di leoni. Sec. XVII.",1105,65.2,False,positional,,,Mobili,,
+BO0624_81775,55652,622,580,"Calamaio in bronzo, composto di 5 pezzi. See. XVII. Ciottola persiana in bronzo cesellato, ornata a lepri rincorrentisi e stemmi. InteressantelavorodelXVsecolo. Due maniglie di bronzo, rappresentanti due teste di leoni. Sec. XVII.",1105,65.2,False,positional,,,Mobili,,Sec. XVII
 BO0624_81775,55653,623,583,4 Candelieri in bronzo. Sec.XVI.,1109,93.8,False,positional,,,Mobili,,
 BO0624_81775,55654,624,584,Pisside gotica in bronzo dorato.,1111,93.9,False,positional,,,Mobili,,
 BO0624_81775,55655,625,585,"Necessaire per serivania, in ebano.",1114,94.3,False,positional,,,Mobili,,
 BO0624_81775,55656,626,586,"Cassetta uso scrivania in noce, intarsiata. Lavoro fine di disegno",1118,97.0,False,positional,,,Mobili,,
 BO0624_81775,55657,627,587,"Coppa in smalto di Venezia, decorazione a figure, imitazione ehinese",1120,97.1,False,positional,,,Mobili,,
-BO0624_81775,55658,628,588,Due apliques in ferro battuto. See. XVII. Vaso portafiori in lacca Vernis-Martin. Impero. Vassoio in lacca veneziana. Sec. XVIII.,1126,54.1,False,positional,,,VASI,,
-BO0624_81775,55659,629,591,"Bellissimo tornio in noce, scolpito finamente, del XVII secolo. Necessaire da signora, con molti pezzi, in scatola di radica. Impero.",1132,67.7,False,positional,,,Mobili,,
+BO0624_81775,55658,628,588,Due apliques in ferro battuto. See. XVII. Vaso portafiori in lacca Vernis-Martin. Impero. Vassoio in lacca veneziana. Sec. XVIII.,1126,54.1,False,positional,,,VASI,,Sec. XVIII
+BO0624_81775,55659,629,591,"Bellissimo tornio in noce, scolpito finamente, del XVII secolo. Necessaire da signora, con molti pezzi, in scatola di radica. Impero.",1132,67.7,False,positional,,,Mobili,,Sec. XVII
 BO0624_81775,55660,630,592,Battente in ferro in forma di delfino. Sec.XVI.,1134,95.7,False,positional,,,Mobili,,
 BO0624_81775,55661,631,595,"Piatto ebraico in ottone sbalzato, avente nel centro due uomini che",1138,97.1,False,positional,,,Mobili,,
-BO0624_81775,55662,632,594,Piatto ebraico in ottone sbalzato avente nel centro un vaso. Sec. XV.,1140,97.1,False,positional,,,VASI,,
+BO0624_81775,55662,632,594,Piatto ebraico in ottone sbalzato avente nel centro un vaso. Sec. XV.,1140,97.1,False,positional,,,VASI,,Sec. XV
 BO0624_81775,55663,633,597,Giuoco in legno traforato. Arnese in ferro da tortura; tanaglia in ferro. 2pezzi,1146,78.8,False,positional,,,Mobili,,
-BO0624_81775,55664,634,598,Cassettina in legno intagliato. Sec. XVI. Leggio in legno intagliato e dorato. Sec. XVII. Bella cassetta con intarsi'in avorio alla certosina. Sec. xvI.,1152,58.3,False,positional,,,Mobili,,
+BO0624_81775,55664,634,598,Cassettina in legno intagliato. Sec. XVI. Leggio in legno intagliato e dorato. Sec. XVII. Bella cassetta con intarsi'in avorio alla certosina. Sec. xvI.,1152,58.3,False,positional,,,Mobili,,Sec. XVI
 BO0624_81775,55665,635,601,"Ventisei assicelle da soffitto, dipinte ad ornati e con due stemmi. Suf- ficienti pel sotfitto d’un piccolo salotto.Sec. XVI.",1154,98.4,False,positional,,,Mobili,,
-BO0624_81775,55666,636,602,"Due cuscini in cuoio. Sec. XVI. Lampadario in bronzo con cristalli di Boemia. Sec. XVIII. Pallio di cuoio a fondo azzurro a fiori in oro, in rilievo. Sec. XVI.",1160,60.6,False,positional,,,Mobili,,
+BO0624_81775,55666,636,602,"Due cuscini in cuoio. Sec. XVI. Lampadario in bronzo con cristalli di Boemia. Sec. XVIII. Pallio di cuoio a fondo azzurro a fiori in oro, in rilievo. Sec. XVI.",1160,60.6,False,positional,,,Mobili,,Sec. XVI
 BO0624_81775,55667,637,605,Paio candellieri in bronzo cesellato e argentato. Epoca Luigi XVI. Grazioso sgabello in noce intagliato. Epoca Luigi XVI. Serignetto di noce in forma di secretaire. Epoca Impero.,1162,53.3,False,positional,,,Mobili,,
 BO0624_81775,55668,638,608,"Piatto in ottone sbalzato e cesellato, avente nel centro Adamo ed Eva Stile gotico.",1168,97.6,False,positional,,,Mobili,,
 BO0624_81775,55669,639,609,Due grandi piatti in ottone cesellato e sbalzato. Stile gotico.,1170,96.8,False,positional,,,PIATTI,,
@@ -646,7 +646,7 @@ BO0624_81775,55674,644,613,Due candelieri in rame sbalzato. Sec.XVII.,1176,95.2,
 BO0624_81775,55675,645,614,"Grazioso centro di tavola formato da un putto che regge una conchiglia. Argento e metallo bianco,finamente cesellati.",1177,98.3,False,positional,,,Mobili,,
 BO0624_81775,55676,646,7,pner. Cornice bianco e oro.,1178,96.2,False,title_direct,,,Cornici,,
 BO0624_81775,55677,647,616,"Piecolo necessaire in madreperla,comprendente 7 pezzi con astuccio in legno di cedro. Impero.",1179,97.8,False,positional,,,Mobili,,
-BO0624_81775,55678,648,617,"Ritratto di gentildonna, stucco racchiuso in un medaglione di legno, epoca Luigi XVI; santa in avorio, bassorilievo del sec. XV; e altri ornamenti in avorio antichi. 5pezzi",1180,98.8,False,positional,,Periodo di Luigi XV,Mobili,,
+BO0624_81775,55678,648,617,"Ritratto di gentildonna, stucco racchiuso in un medaglione di legno, epoca Luigi XVI; santa in avorio, bassorilievo del sec. XV; e altri ornamenti in avorio antichi. 5pezzi",1180,98.8,False,positional,,Periodo di Luigi XV,Mobili,,Sec. XV
 BO0624_81775,55679,649,618,"Due graziosi bassorilievi in pergamena impressa (9), un fermacarte in marmo con acquerello,un portacenere in agata, un reliquiario in argento,due suggelli g giapponesi in legno. 7pezzi",1183,98.9,False,positional,,,BASSORILIEVI,,
 BO0624_81775,55680,650,619,"Piccolo bassorilievo in avorio scolpito,finissimo,rappresentante un amo-",1184,97.3,False,positional,,,Mobili,,
 BO0624_81775,55681,651,620,Bicchiere in avorio e portaspilli in avorio.,1188,95.6,False,positional,,,Mobili,,
@@ -658,21 +658,21 @@ BO0624_81775,55686,656,625,"Astuecio per sigari in tartaruga, intarsiata in arge
 BO0624_81775,55687,657,626,"Due bei candelabri in bronzo cesellato, molto ricchi. Sec.XVI.",1195,96.7,False,positional,,,CANDELABRI,,
 BO0624_81775,55688,658,627,"Napoleone I,miniatura su seta. Cornice bronzo dorato.",1196,96.2,False,title_direct,,,Cornici,,
 BO0624_81775,55689,659,628,"Ritratto di gentildonna inglese in costume del XVIlI secolo. Smalto, cornice in velluto.",1197,97.7,False,positional,,,Mobili,,
-BO0624_81775,55690,660,629,Lampada da apprendere in bronzo lavorato u a jour 》. Sec. XVII.,1198,96.7,False,positional,,,LAMPADE,,
+BO0624_81775,55690,660,629,Lampada da apprendere in bronzo lavorato u a jour 》. Sec. XVII.,1198,96.7,False,positional,,,LAMPADE,,Sec. XVII
 BO0624_81775,55691,661,12,630.Agoraio in madreperla geminiata d'argento.Impero.,1199,97.2,False,positional,,,Mobili,,
 BO0624_81775,55692,662,631,"Cassetta in legno, intarsiata in avorio. Interessante lavoro del xV sec.",1200,97.2,False,positional,,,Mobili,,
 BO0624_81775,55693,663,632,Catinella in ottone cesellato.Sec.XVII.,1201,95.0,False,positional,,,Mobili,,
-BO0624_81775,55694,664,15,633.Mandola a doppio giuoco di chiavi. Interessante istrumento del XVII secolo.Forma rara.,1202,98.3,False,positional,,,Mobili,,
-BO0624_81775,55695,665,634,Due conchiglie ineise. Lavoro del XVIII secolo.,1203,95.7,False,positional,,,Mobili,,
+BO0624_81775,55694,664,15,633.Mandola a doppio giuoco di chiavi. Interessante istrumento del XVII secolo.Forma rara.,1202,98.3,False,positional,,,Mobili,,Sec. XVII
+BO0624_81775,55695,665,634,Due conchiglie ineise. Lavoro del XVIII secolo.,1203,95.7,False,positional,,,Mobili,,Sec. XVIII
 BO0624_81775,55696,666,17,635.Pallio d'altare in cuoio dipinto argentato e dorato.Nel centro un an-,1204,98.0,False,positional,,,Mobili,,
 BO0624_81775,55697,667,18,gelo che appare a S. Antonio. Cornice legno nera.,1205,96.8,False,title_direct,,,Cornici,,
 BO0624_81775,55698,668,636,Grande orologio circolare in bronzo.Impero.,1206,95.5,False,positional,,,Mobili,,
-BO0624_81775,55699,669,637,Testa di vecchio. Bassorilievo in avorio in cornice di legno nero ornata da due cariatidi in argento. Sec. XVI.,1207,98.2,False,positional,,,Mobili,,
+BO0624_81775,55699,669,637,Testa di vecchio. Bassorilievo in avorio in cornice di legno nero ornata da due cariatidi in argento. Sec. XVI.,1207,98.2,False,positional,,,Mobili,,Sec. XVI
 BO0624_81775,55700,670,638,Due modelli di cannoni in bronzo.,1208,94.1,False,positional,,,MODELLI,,
 BO0624_81775,55701,671,639,Due modelli di cannoni in bronzo.,1209,94.1,False,positional,,,MODELLI,,
 BO0624_81775,55702,672,640,"Seatola in bronzo, con pesi antichi, in forma di tronco di cono.",1210,96.8,False,positional,,,Mobili,,
 BO0624_81775,55703,673,24,"641.Vaso in ottone sbalzato, nel centro uno stemma.Lavoro veneziano del",1211,97.9,False,positional,,,VASI,,
-BO0624_81775,55704,674,25,XVI secolo.,1212,87.0,False,positional,,Scuola Padovana,Mobili,,
+BO0624_81775,55704,674,25,XVI secolo.,1212,87.0,False,positional,,Scuola Padovana,Mobili,,Sec. XVI
 BO0624_81775,55705,675,642,Due candelieri in bronzo di bella forma. Epoca Luigi XV.,1213,96.4,False,positional,,Periodo di Luigi XV,Mobili,,
 BO0624_81775,55706,676,643,"Piccola cornice in argento sbalzato, e 2 piccole cornice in bronzo do-",1214,97.1,False,positional,,,Mobili,,
 BO0624_81775,55707,677,28,rato per miniature. Sec.XVII.,1215,94.7,False,title_direct,,,Miniature,,
@@ -683,34 +683,34 @@ BO0624_81775,55711,681,647,"Coperchio di tazza, in bronzo finamente cesellato e 
 BO0624_81775,55712,682,33,648.24 Bottoni in bronzo dorato.,1220,95.4,False,positional,,,Mobili,,
 BO0624_81775,55713,683,34,"649.Il bacio di Giuda. Bassorilievo in bronzo moderno, di fine esecuzione. Cornice legno.",1221,98.3,False,title_direct,,,Cornici,,
 BO0624_81775,55714,684,650,Grazioso gruppo di due cervi in bronzo argentato.,1222,96.0,False,positional,,,Mobili,,
-BO0624_81775,55715,685,651,"Lotto di otto suggelli d'epoche diverse e quattro santi in rame sbalzato del XVI secolo. 12pezzi 653.Ritratto di Giov. Rodolfi maestro di Capella, bassorilievo in cera. Cornice legno dipinto e dorato.",1226,68.2,False,title_direct,,,Cornici,,
-BO0624_81775,55716,686,652,Due piccoli monocoli in madreperla e bronzo dorato. Sec. XVIII.,1227,96.8,False,positional,,,Mobili,,
-BO0624_81775,55717,687,654,"La Vergine col Bambino. Bassorilievo in.cera di buona eseeuzione. Cornice in legno nero, cerchio bronzo dorato. Sec. XVII. Ritratto di gentildonna. Bellissimo bassorilievo circolare in cera policroma del XVI secolo. Cornice legno nero, cerchio in bronzo dorato.",1229,69.4,False,title_direct,,,Cornici,,
-BO0624_81775,55718,688,655,"Ritrat'o di gentildonna. Bellissimo bassorilievo circolare in cera policroma del XVI secolo. Cornice legno nero, cerehio in bronzo dorato.",1230,98.5,False,title_direct,,,Cornici,,
+BO0624_81775,55715,685,651,"Lotto di otto suggelli d'epoche diverse e quattro santi in rame sbalzato del XVI secolo. 12pezzi 653.Ritratto di Giov. Rodolfi maestro di Capella, bassorilievo in cera. Cornice legno dipinto e dorato.",1226,68.2,False,title_direct,,,Cornici,,Sec. XVI
+BO0624_81775,55716,686,652,Due piccoli monocoli in madreperla e bronzo dorato. Sec. XVIII.,1227,96.8,False,positional,,,Mobili,,Sec. XVIII
+BO0624_81775,55717,687,654,"La Vergine col Bambino. Bassorilievo in.cera di buona eseeuzione. Cornice in legno nero, cerchio bronzo dorato. Sec. XVII. Ritratto di gentildonna. Bellissimo bassorilievo circolare in cera policroma del XVI secolo. Cornice legno nero, cerchio in bronzo dorato.",1229,69.4,False,title_direct,,,Cornici,,Sec. XVII
+BO0624_81775,55718,688,655,"Ritrat'o di gentildonna. Bellissimo bassorilievo circolare in cera policroma del XVI secolo. Cornice legno nero, cerehio in bronzo dorato.",1230,98.5,False,title_direct,,,Cornici,,Sec. XVI
 BO0624_81775,55719,689,7,657.Ventaglio in avorio.,1231,95.8,False,positional,,,Mobili,,
 BO0624_81775,55720,690,659,"Due candelieri veneziani in bronzo, del XVl secolo, curiosa forma, piede",1232,97.2,False,positional,,,Mobili,,
 BO0624_81775,55721,691,9,"658.Il bevitore. Busto d’uomo, scoltura in legno, policroma. See. XVIl.",1233,98.5,False,positional,,,Mobili,,
 BO0624_81775,55722,692,10,quadrato.,1234,84.2,False,positional,,,Mobili,,
-BO0624_81775,55723,693,660,Due cornicette in noce e vetro di Venezia policromo e oro. Sec. XVIII. colo XVII.,1235,90.5,False,positional,,,Mobili,,
+BO0624_81775,55723,693,660,Due cornicette in noce e vetro di Venezia policromo e oro. Sec. XVIII. colo XVII.,1235,90.5,False,positional,,,Mobili,,Sec. XVIII
 BO0624_81775,55724,694,661,Graziosa bomboniera in poreellana di Venezia in forma di pera. Se-,1237,97.0,False,positional,,,Mobili,,
-BO0624_81775,55725,695,662,Ventagiio in avorio con pergamena dipinta. Impero. Grazioso ricamo per cuscino. Sec. XVIII. Croce in legno intarsiata di madreperla. Sec. XVI.,1240,51.9,False,positional,,,Mobili,,
+BO0624_81775,55725,695,662,Ventagiio in avorio con pergamena dipinta. Impero. Grazioso ricamo per cuscino. Sec. XVIII. Croce in legno intarsiata di madreperla. Sec. XVI.,1240,51.9,False,positional,,,Mobili,,Sec. XVIII
 BO0624_81775,55726,696,665,"Gesu porge a S. Pietro le chiavi. Ricamo in seta a punto arazzo, in cornice. Sec.XVII.",1241,97.6,False,positional,,,Mobili,,
 BO0624_81775,55727,697,18,666.Lotto di 4 chiavi antiche.,1242,95.1,False,positional,,,Mobili,,
 BO0624_81775,55728,698,668,"Grande piatto decorato a figure con bel sostegno in bronzo dorato. Bel centro da tavola in cristallo, montatura in bronzo.",1243,69.1,False,positional,,,Mobili,,
-BO0624_81775,55729,699,669,"Piatto in ottone sbalzato e inciso. Interessante lavoro del XVI secolo. 67l.Quattro volumi manoseritti diversi, di varia epoca.",1245,70.4,False,positional,,,OGGETTI VARI,,
+BO0624_81775,55729,699,669,"Piatto in ottone sbalzato e inciso. Interessante lavoro del XVI secolo. 67l.Quattro volumi manoseritti diversi, di varia epoca.",1245,70.4,False,positional,,,OGGETTI VARI,,Sec. XVI
 BO0624_81775,55730,700,670,Bassorilievo in piombo dorato rappresentante una scena pastorale.,1247,97.0,False,positional,,,Mobili,,
 BO0624_81775,55731,701,672,"Due bauletti, uno antico con acquarello, laltro moderno coperto in velluto, un porta orologio in legno scolpito e altri oggetti. Astuccio in avorio scolpito, cassettina in avorio grafito. Lavori chinesi. Due vasetti in marmo, e tre vasetti in metallo smaltato. 5pezzi",1248,64.2,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_81775,55732,702,675,"Due candelieri in rame argentato, bella forma del XV secolo.",1251,96.7,False,positional,,,Mobili,,
+BO0624_81775,55732,702,675,"Due candelieri in rame argentato, bella forma del XV secolo.",1251,96.7,False,positional,,,Mobili,,Sec. XV
 BO0624_81775,55733,703,28,2pezzi,1252,80.0,False,positional,,,Mobili,,
-BO0624_81775,55734,704,677,Bella cassetta uso serivania in ebano intarsiato d'avorio. Sec. XVII. 676.Porta fusi (?) in noce del XVI secolo.,1253,75.9,False,positional,,,Mobili,,
+BO0624_81775,55734,704,677,Bella cassetta uso serivania in ebano intarsiato d'avorio. Sec. XVII. 676.Porta fusi (?) in noce del XVI secolo.,1253,75.9,False,positional,,,Mobili,,Sec. XVII
 BO0624_81775,55735,705,678,"Schienale di seggiolino in noce seolpito e dorato, ai lati due sirene. Sec.XVI.",1255,97.4,False,positional,,,Mobili,,
-BO0624_81775,55736,706,679,"Giogo in noce, in due parti, scolpito, con stemma rappresentante un castello. Sec. XVI.",1256,97.6,False,positional,,,Mobili,,
-BO0624_81775,55737,707,680,"Madonna col Bambino. Piccolo bassorilievo circolare, in avorio. Sec. X Vll",1257,97.2,False,positional,,,Mobili,,
+BO0624_81775,55736,706,679,"Giogo in noce, in due parti, scolpito, con stemma rappresentante un castello. Sec. XVI.",1256,97.6,False,positional,,,Mobili,,Sec. XVI
+BO0624_81775,55737,707,680,"Madonna col Bambino. Piccolo bassorilievo circolare, in avorio. Sec. X Vll",1257,97.2,False,positional,,,Mobili,,Sec. X
 BO0624_81775,55738,708,682,"Ferro per ostie, con stemma inciso. See. XV.",1258,95.2,False,positional,,,Mobili,,
 BO0624_81775,55739,709,35,"68l. Antica bussola in bronzo dorato, con astuecio.",1259,97.0,False,positional,,,Mobili,,
 BO0624_81775,55740,710,36,"683.Piatto in bronzo sbalzato e cesellato, lavorato a jour.",1260,97.4,False,positional,,,Mobili,,
 BO0624_81775,55741,711,37,684.5 cornici per miniature.,1261,94.7,False,title_direct,,,Miniature,,
-BO0624_81775,55742,712,685,"Due cigni e tre teste di leoni in legno, scolpito e dorato. Sec. XVII.",1264,97.1,False,positional,,,Mobili,,
+BO0624_81775,55742,712,685,"Due cigni e tre teste di leoni in legno, scolpito e dorato. Sec. XVII.",1264,97.1,False,positional,,,Mobili,,Sec. XVII
 BO0624_81775,55743,713,686,Fioriera in legnoi intarsiato di metallo （Boule) ornata agli angoli da bronzi dorati.,1266,97.6,False,positional,,,Mobili,,
 BO0624_81775,55744,714,687,"Seatola in smalto,e scatola in bronzo ornato da pietre.",1268,96.4,False,positional,,,Mobili,,
 BO0624_81775,55745,715,688,Tre piatti in metallo sbalzato.,1270,93.8,False,positional,,,PIATTI,,
@@ -724,31 +724,31 @@ BO0624_81775,55752,722,6,"695.Armilla in bronzo,romana di scavo.",1281,97.4,Fals
 BO0624_81775,55753,723,696,"Ciottola in bronzo, romana di seavo.",1282,94.4,False,positional,,,Mobili,,
 BO0624_81775,55754,724,697,"Due teste di donna in bassorilievo, in marmo greco di scavo.",1283,96.7,False,positional,,,Mobili,,
 BO0624_81775,55755,725,698,Coltello? in ferro con impugnatura in bronzo. Curioso oggetto di scavo.,1284,97.1,False,positional,,,Mobili,,
-BO0624_81775,55756,726,699,Profumiera in bronzo traforato; interessante lavoro del X secolo.,1285,96.9,False,positional,,,Mobili,,
+BO0624_81775,55756,726,699,Profumiera in bronzo traforato; interessante lavoro del X secolo.,1285,96.9,False,positional,,,Mobili,,Sec. X
 BO0624_81775,55757,727,700,"Grande tappeto seta rossa, ricamata antico.",1289,95.3,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55758,728,701,"Damasco giallo a fiorami, del Sec. XVIII. 30 metri.",1291,95.9,False,positional,,,Merletti; Stoffe,,
+BO0624_81775,55758,728,701,"Damasco giallo a fiorami, del Sec. XVIII. 30 metri.",1291,95.9,False,positional,,,Merletti; Stoffe,,Sec. XVIII
 BO0624_81775,55759,729,702,Quattro grandi portiere in damaseo rosso. Sec. XVI1.,1293,96.1,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55760,730,703,Coperta in broccatello rosso. See. XVIl.,1295,94.9,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55761,731,704,Grande coperta in broccatello rosso e giallo. Sec. XVII.,1297,96.4,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55762,732,705,Coperta da letto in damasco rosso. Sec. XVIII.,1299,95.6,False,positional,,,Merletti; Stoffe,,
+BO0624_81775,55761,731,704,Grande coperta in broccatello rosso e giallo. Sec. XVII.,1297,96.4,False,positional,,,Merletti; Stoffe,,Sec. XVII
+BO0624_81775,55762,732,705,Coperta da letto in damasco rosso. Sec. XVIII.,1299,95.6,False,positional,,,Merletti; Stoffe,,Sec. XVIII
 BO0624_81775,55763,733,706,"Grande e bella coperta in velluto a rilievo, rosso e oro.",1301,96.5,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55764,734,707,"Pianeta in seta, fondo rosso ricamata in oro, argento e seta. See. XVI,",1303,97.1,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55765,735,708,"Pallio in seta fondo crema, ricamato a fiori. Sec. XVIlI.",1305,96.4,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55766,736,709,"Pallio in seta fondo rosso, riccamente ricamato. Sec.XVII.",1307,96.5,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55767,737,710,"Due bellissime coperte in broccato a fondo rosso e fiorami,oro e ar-",1309,97.1,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55768,738,71,"l. Grande coperta in tela persiana stampata. Raro oggetto, lavoro del XV secolo.",1311,98.7,False,positional,,,Merletti; Stoffe,,
+BO0624_81775,55768,738,71,"l. Grande coperta in tela persiana stampata. Raro oggetto, lavoro del XV secolo.",1311,98.7,False,positional,,,Merletti; Stoffe,,Sec. XV
 BO0624_81775,55769,739,712,"Coperta in seta, conf figure di animali ricamate. Disegno primissivo",1312,97.1,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55770,740,713,"Abito da Signora, in raso rosso. Sec. XVIII.",1314,95.2,False,positional,,,Merletti; Stoffe,,
+BO0624_81775,55770,740,713,"Abito da Signora, in raso rosso. Sec. XVIII.",1314,95.2,False,positional,,,Merletti; Stoffe,,Sec. XVIII
 BO0624_81775,55771,741,714,"Veste in seta ricamata a fiori, con bordo in oro. Sic. XVII. pezzi",1315,91.8,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55772,742,715,"Bordura di velluto rosso, metri 3.75;e 20 fiocchi antichi. Tappeto di seta rossa, ricamato a fiori di vari colori, con contorno in",1321,71.4,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55773,743,716,Damasco rosso a forami. Sec. XVIll. Metri 16.,1322,95.3,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55774,744,4,oro.Bellissimo lavoro del XVI secolo.,1323,97.3,False,positional,,,Merletti; Stoffe,,
+BO0624_81775,55774,744,4,oro.Bellissimo lavoro del XVI secolo.,1323,97.3,False,positional,,,Merletti; Stoffe,,Sec. XVI
 BO0624_81775,55775,745,719,Merletto punto rococo.alto mill. 75. Sec. XVIll. Metri 3.58.,1324,96.5,False,title_direct,,,Merletti,,
 BO0624_81775,55776,746,718,Bellissima coperta in lampazzo a fondo verde e fiori. See. XVlll.,1325,96.9,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55777,747,7,"720.Merletto punto Milano, alt. mill. 190. Sec.XVIll. Metri 3.45.",1326,98.3,False,title_direct,,,Merletti,,
 BO0624_81775,55778,748,722,"Merletto punto Spagna. Alt. mill. 120. Sec. XVI11. Metri 2.80. Merletto in punto Spagna a rilievo, alt. mill. 65. Sec. XVI1. m. 2.60.",1328,70.7,False,title_direct,,,Merletti,,
-BO0624_81775,55779,749,723,"Merletto punto Spagna, alto mill. 80. Sec. XVIII. Metri 3.55. Grande tovaglia a punto macrame, con frangia. Sec. XVII. Bel merletto in punto Spagna, alto 115 mill. See. XVI1. Metri 3.60.",1331,53.2,False,title_direct,,,Merletti,,
-BO0624_81775,55780,750,726,"Bella tovaglia e retino, contornata da punto a fusello. Sec. XVII. rosso. Sec.XVII.",1332,86.7,False,positional,,,Merletti; Stoffe,,
+BO0624_81775,55779,749,723,"Merletto punto Spagna, alto mill. 80. Sec. XVIII. Metri 3.55. Grande tovaglia a punto macrame, con frangia. Sec. XVII. Bel merletto in punto Spagna, alto 115 mill. See. XVI1. Metri 3.60.",1331,53.2,False,title_direct,,,Merletti,,Sec. XVIII
+BO0624_81775,55780,750,726,"Bella tovaglia e retino, contornata da punto a fusello. Sec. XVII. rosso. Sec.XVII.",1332,86.7,False,positional,,,Merletti; Stoffe,,Sec. XVII
 BO0624_81775,55781,751,727,"Lotto di tre belle tovaglie, due con punto Spagna, e una ricamata in",1334,97.1,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55782,752,16,"728.Abito di velluto rosso a rilievo comprendente giacca e calzoni, con stemmi papali.",1335,98.2,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55783,753,730,"Merletto punto francese, m.1.70 e merletto Fiandra,m.1.20. 2 pezzi",1336,97.0,False,title_direct,,,Merletti,,
@@ -757,15 +757,15 @@ BO0624_81775,55785,755,19,73l.Due bei fazzoletti ricamati.,1338,95.4,False,posit
 BO0624_81775,55786,756,732,Bellissimo merletto punto Milano. Sec. XVIl. Disegno di ramages.Altezza mill.200.Metri 3.25.,1339,97.8,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55787,757,733,"Merletto punto Milano, a ramages,molto bello. Sec.XVIl. Alt. mill. 150. Metri 4.35.",1340,97.4,False,title_direct,,,Merletti,,
 BO0624_81775,55788,758,734,Bel merletto punto rococo. Alt. mill. 150. Metri 3.25.,1341,96.1,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55789,759,735,"Piccola tovaglia in lino, ricamata. Sec. XVII.",1342,95.5,False,positional,,,Merletti; Stoffe,,
+BO0624_81775,55789,759,735,"Piccola tovaglia in lino, ricamata. Sec. XVII.",1342,95.5,False,positional,,,Merletti; Stoffe,,Sec. XVII
 BO0624_81775,55790,760,736,Tappeto in seta fragola a righe con bordo argento. Sec. XVIl.,1343,96.7,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55791,761,737,Grande portiera in seta a fiori e uccelli. Sec. XVIl.,1344,96.2,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55792,762,738,"Tappeto in damasco rosso, ricamato in oro. Sec. XVII.",1345,96.1,False,positional,,,Merletti; Stoffe,,
+BO0624_81775,55792,762,738,"Tappeto in damasco rosso, ricamato in oro. Sec. XVII.",1345,96.1,False,positional,,,Merletti; Stoffe,,Sec. XVII
 BO0624_81775,55793,763,739,Damasco rosso a fiorami del XVIHl secolo. Metri 4.25.,1346,96.2,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55794,764,740,"Due pianete in seta, luna verde,e l'altra fragola. Sec. XVll.",1347,96.6,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55795,765,741,"Bordo a retino del sec. XVII, con frangia, ricamato in giallo. Metri 2.40.",1348,97.2,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55796,766,742,Tappeto in seta creme a fiori. Sec. XVII.,1349,95.0,False,positional,,,Merletti; Stoffe,,
-BO0624_81775,55797,767,743,Tovaglia con merletto in punto Spagna. Sec. XVII.,1350,95.8,False,positional,,,Merletti; Stoffe,,
+BO0624_81775,55795,765,741,"Bordo a retino del sec. XVII, con frangia, ricamato in giallo. Metri 2.40.",1348,97.2,False,positional,,,Merletti; Stoffe,,Sec. XVII
+BO0624_81775,55796,766,742,Tappeto in seta creme a fiori. Sec. XVII.,1349,95.0,False,positional,,,Merletti; Stoffe,,Sec. XVII
+BO0624_81775,55797,767,743,Tovaglia con merletto in punto Spagna. Sec. XVII.,1350,95.8,False,positional,,,Merletti; Stoffe,,Sec. XVII
 BO0624_81775,55798,768,32,744.Grande portiera in stoffa ornata da stemma sormontato da un elmo e da gigli agli angoli.,1351,98.4,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55799,769,745,Tappeto in velluto rosso a rilievo.,1352,94.4,False,positional,,,Merletti; Stoffe,,
 BO0624_81775,55800,770,746,"Vaso da the in porcellana di Sassonia, decorato a fiori. Sec. XVIll.",1356,97.0,False,title_direct,,,VASI,,

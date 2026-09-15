@@ -4,7 +4,7 @@ BO0624_87419,343068,2,2,Landschaft. Marine.,15,69.0,False,positional,,,Aquarelle
 BO0624_87419,343069,3,3,Winterlandschaft.,24,94.1,False,positional,Jean Artois,,,,
 BO0624_87419,343070,4,4,Die heilige Familie.,36,95.0,False,positional,H.van Balen,,,,
 BO0624_87419,343071,5,I,"m Vordergrunde sieht man eine Anzahl geschmickte und stark bemannte Schiffe und Boote, die auf eine im Hintergrunde sichtbare,vom Sonnenscheine beleuchtete Stadt lossegeln.",48,99.7,False,positional,J.Bellevois,,,,
-BO0624_87419,343072,6,6,Italienische Landschaft mit Vieh- und Figurenstaffage. 1583.,57,93.7,False,positional,Nicolaus Berghem,,,,
+BO0624_87419,343072,6,6,Italienische Landschaft mit Vieh- und Figurenstaffage. 1583.,57,93.7,False,positional,Nicolaus Berghem,,,,Sec. XVI
 BO0624_87419,343073,7,7,Landschaft.,67,90.9,False,positional,Nieol.Berghem,,,,
 BO0624_87419,343074,8,8,Rothstiftzeichnung.,73,94.7,False,positional,Franc. Boucher,,,,
 BO0624_87419,343075,9,9,"Landschaft. m Vordergrunde befindet sicheineam Flusse gelegenes kastellartiges Gebaude, bei dem eineAnzahl Reiter halten, die auf die Fahre warten.",85,95.7,False,positional,von Bout; Budewyns,,,,
@@ -15,7 +15,7 @@ BO0624_87419,343079,13,13,Christus vor Pilatus. Pendant zum vorigen.,114,65.6,Fa
 BO0624_87419,343080,14,14,Kreuzschleppung Christi.,117,93.9,False,positional,C.van Crayer,,,,
 BO0624_87419,343081,15,15,Exterieur.,125,85.7,False,positional,Alb. Cuyp,,,,
 BO0624_87419,343082,16,16,Huhnerhof.,131,85.7,False,positional,Eug. Delaeroix,,,,
-BO0624_87419,343083,17,1616,1670.,147,61.5,False,positional,J. C. Drooch-Sloot,,,,
+BO0624_87419,343083,17,1616,1670.,147,61.5,False,positional,J. C. Drooch-Sloot,,,,Sec. XVII
 BO0624_87419,343084,18,19,Geisslung Christi.,163,91.9,False,positional,Albrecht Durer,,,,
 BO0624_87419,343085,19,20,Bussende Magdalena.,171,92.3,False,positional,A.van Dyck,,,,
 BO0624_87419,343086,20,21,Christus am Kreuz umgeben von Johannes und den Frauen.,180,90.2,False,positional,A. van Dyck,,,,
@@ -32,7 +32,7 @@ BO0624_87419,343096,30,31,Landschaft.,254,87.0,False,positional,Hobbema,,,,
 BO0624_87419,343097,31,32,Zwei Bilder Altarfugel mit Darstellungen aus der hl. Geschichte.,258,97.6,False,positional,,Hollandischer Meister,PALE D'ALTARE,,
 BO0624_87419,343098,32,33,Eisbelustigung.,266,90.3,False,positional,,Hollandischer Meister,,,
 BO0624_87419,343099,33,I,"m Hintergrunde Stadtansicht. Interessantes Costimbild, gemalt in der Manier des H. van Cleef.",270,99.4,False,positional,,Hollandischer Meister,,,
-BO0624_87419,343100,34,35,Landschaft mit Figuren und Staffage. 1727.,282,89.7,False,positional,Corneel Huysmanns de Mulines,,,,
+BO0624_87419,343100,34,35,Landschaft mit Figuren und Staffage. 1727.,282,89.7,False,positional,Corneel Huysmanns de Mulines,,,,Sec. XVIII
 BO0624_87419,343101,35,36,Landschaft mit Staffage.,292,93.9,False,positional,Corneel Huysmanns de Mulines,,,,
 BO0624_87419,343102,36,37,Stillleben.,298,87.0,False,positional,Corneel Huysmanns de Mulines,,,,
 BO0624_87419,343103,37,38,Brustbild eines lesenden alten Mannes.,307,96.1,False,positional,Jordaens,,,,
@@ -74,7 +74,7 @@ BO0624_87419,343138,72,75,Die Jagdbeute. Portrat.,555,70.3,False,positional,,Rub
 BO0624_87419,343139,73,76,Heilige Familie.,574,90.9,False,positional,del Sarto,,,,
 BO0624_87419,343140,74,77,Interieur.,588,85.7,False,positional,Teniers,,ARREDAMENTI,,
 BO0624_87419,343141,75,78,Kniestuck eines alten greisbartigen Mannes in grauer Klei dung.,596,97.6,False,positional,D Teniers,,,,
-BO0624_87419,343142,76,1608,1681.,604,61.5,False,positional,Gerard Terburg,,,,
+BO0624_87419,343142,76,1608,1681.,604,61.5,False,positional,Gerard Terburg,,,,Sec. XVII
 BO0624_87419,343143,77,80,80. Interieur.,608,100.0,False,positional,Gerard Terburg,,ARREDAMENTI,,
 BO0624_87419,343144,78,81,Flucht nach Egypten.,619,92.7,False,positional,,Unbekannter Meister,,,
 BO0624_87419,343145,79,82,Anbetung der hl. 3 Konige.,623,94.1,False,positional,,Unbekannter Meister,,,
@@ -131,13 +131,13 @@ BO0624_87419,343195,129,129,Madonna mit dem Jesuskind.,720,92.6,False,positional
 BO0624_87419,343196,130,130,Zwei Engel.,721,83.3,False,positional,,Unbekannter Meister,,,
 BO0624_87419,343197,131,131,Rettung aus dem Gefangniss.,722,92.9,False,positional,,Unbekannter Meister,,,
 BO0624_87419,343198,132,132,"Prachtvoller Blumenstrauss in goldbrauner Agatvase, an",729,96.4,False,positional,H.Uppink,,,,
-BO0624_87419,343199,133,133,"David, das Haupt des Goliat tragend, wird von musizirenden nterressantes Bild nach Dr. Scheibler, guter Italiener um 1520 wobl ein Venetianer unter Michelangelo's Einfluss.",741,79.9,False,positional,CARAVAGGIO,Venezianischer Meister,,,
+BO0624_87419,343199,133,133,"David, das Haupt des Goliat tragend, wird von musizirenden nterressantes Bild nach Dr. Scheibler, guter Italiener um 1520 wobl ein Venetianer unter Michelangelo's Einfluss.",741,79.9,False,positional,CARAVAGGIO,Venezianischer Meister,,,Sec. XVI
 BO0624_87419,343200,134,134,Die Apothenose der heiligen Familie.,749,94.6,False,positional,,Vlamischer Meister um 1600,,,
 BO0624_87419,343201,135,I,m Hintergrunde ein Gefligelkorb vor dem ein Hahn hockt.,767,99.1,False,positional,,Vlamischer Meister a.d. 17. Jahrh,,,
 BO0624_87419,343202,136,138,"Landschaft. n der Thire einer elenden mit Stroh gedeckten Bauernhitte, eine Frau auf dem kleinen sich vor der Thire befindenden Rasen- die rings von hohen Baumen umgeben ist, steht ein Mann, wahrend platze sitzt.",780,97.0,False,positional,R. de Vries,,,,
 BO0624_87419,343203,137,139,Belustigung im Freien.,788,91.3,False,positional,A.Watteau,,,,
 BO0624_87419,343204,138,I,"n einer duftenden Parklandschaft befinden sich eine Anzahl von Herren und Damen, die sich beim Spiel belustigen und einem von Amoretten gezogenen Muschelwagen entgegen sehen.",790,99.7,False,positional,A.Watteau,,,,
-BO0624_87419,343205,139,1627,1703.,796,61.5,False,positional,Mathyas Withoos,,,,
+BO0624_87419,343205,139,1627,1703.,796,61.5,False,positional,Mathyas Withoos,,,,Sec. XVIII
 BO0624_87419,343206,140,140,Hugelige Landschaft bei Abendbeleuchtung.,798,95.2,False,positional,Mathyas Withoos,,,,
 BO0624_87419,343207,141,I,"n der Mitte des Bildes schlangelt sich ein Fluss,der im",800,99.1,False,positional,Mathyas Withoos,,,,
 BO0624_87419,343208,142,1739,Wien.,810,61.5,False,positional,Michael Woutky,Scuola Viennese,,,
@@ -169,22 +169,22 @@ BO0624_87419,343233,167,3,"168.Ovales Emaillebildchen, einen Bischof darstellend
 BO0624_87419,343234,168,169,Ovales zweiseitiges Emailleplattchen mit Filigraneinfassung.,1029,96.7,False,positional,,,Kunstgegenstande,,
 BO0624_87419,343235,169,170,Zwei grosse emaillirte Kurfursten-Humpen.,1030,95.2,False,positional,,,Kunstgegenstande,,
 BO0624_87419,343236,170,171,"Grosses Glasfenster, enthalt. grosse Darstellung der Mavon zehn kleineren Bildchen meist religioser Darstellung. donna mit dem Jesuskinde auf der Mantula thronend umgeben Mehrere Scheiben sind defect.",1031,70.6,False,positional,,,OGGETTI VARI,,
-BO0624_87419,343237,171,172,"Grosses Glasfenster, enth. 1) das Wappen des Ittel Friedrich Deutz Gewaltrichter 1709. 2) Das Wappen des Arnold Heinrich Toller Gewaltrichter 1709, nebst schoner Renaissance-Einfassung.",1036,98.9,False,positional,,,Kunstgegenstande,,
+BO0624_87419,343237,171,172,"Grosses Glasfenster, enth. 1) das Wappen des Ittel Friedrich Deutz Gewaltrichter 1709. 2) Das Wappen des Arnold Heinrich Toller Gewaltrichter 1709, nebst schoner Renaissance-Einfassung.",1036,98.9,False,positional,,,Kunstgegenstande,,Sec. XVIII
 BO0624_87419,343238,172,173,Grosses Glasfenster mit dem Wappen von Kur-Koln. a.Fragment eines gemalten Fensters mit Lowendarstellung.,1044,68.3,False,positional,,,OGGETTI VARI,,
 BO0624_87419,343239,173,174,Renaissance-Glasfenster (2 Fligel) enthaltend OrnamentVerzierung schwarz in grau.,1045,97.5,False,positional,,,Kunstgegenstande,,
 BO0624_87419,343240,174,175,"Zwei Glasfenster als Oberlichter dienend. Kreisrund mit Ornament-Verzierung, schwarz in grau.",1050,97.8,False,positional,,,Kunstgegenstande,,
 BO0624_87419,343241,175,176,"Glasfenster mit 3 Darstellungen,1) Kreisrunde Ornamentverzierung, schwarz in grau. 2) S. Be rnardus abbas. 3) S. Ietrus.",1051,98.2,False,positional,,,Kunstgegenstande,,
-BO0624_87419,343242,176,3,2.u.3. Arbeit des 18. Jahrhunderts. In Rahmen.,1052,97.7,False,positional,,,CORNICI,,
-BO0624_87419,343243,177,178,"Glasfenster mit 3 Darstellungen.1) Renaissance-Wappen mit Umschrift ,Anton Konigs, Vogt zu Rheinbrohl, und Maria Margaretha Widtmans Eheleute 1652.""2) Hl. Petrus mit Umschrift, Anton Veincentig u. Elssgen Catermahns Eheleut 1652.""",1058,99.1,False,positional,,,Kunstgegenstande,,
-BO0624_87419,343244,178,3,") Wappen mit Umschrift tHenricusWilhelmi,Burger und Apotheker in Linz und Irmgardis Mandts Eheleut 1692"" In Rahmen. Pendant zum vorigen.",1059,99.2,False,positional,,,CORNICI,,
-BO0624_87419,343245,179,3,"179.Buntes Glasfenster enthaltend 3 Darstellungen.1) Re naissance-Wappen mit Umschrift Diedrich Konigs, Vogt zu Breisig 1652.""2) Hi.Thomas mit Umschrift ,Joh.Peiller und Engen Heilssem Eheleute 1652und Emblemen.3) Wappenmit Umschrift Christian Weller,Rathsverwandter und Stadtschreiber zu Linz und Sophia MandtsEheleute 1693.""In Rahmen.",1060,99.7,False,positional,,,CORNICI,,
+BO0624_87419,343242,176,3,2.u.3. Arbeit des 18. Jahrhunderts. In Rahmen.,1052,97.7,False,positional,,,CORNICI,,Sec. XVIII
+BO0624_87419,343243,177,178,"Glasfenster mit 3 Darstellungen.1) Renaissance-Wappen mit Umschrift ,Anton Konigs, Vogt zu Rheinbrohl, und Maria Margaretha Widtmans Eheleute 1652.""2) Hl. Petrus mit Umschrift, Anton Veincentig u. Elssgen Catermahns Eheleut 1652.""",1058,99.1,False,positional,,,Kunstgegenstande,,Sec. XVII
+BO0624_87419,343244,178,3,") Wappen mit Umschrift tHenricusWilhelmi,Burger und Apotheker in Linz und Irmgardis Mandts Eheleut 1692"" In Rahmen. Pendant zum vorigen.",1059,99.2,False,positional,,,CORNICI,,Sec. XVII
+BO0624_87419,343245,179,3,"179.Buntes Glasfenster enthaltend 3 Darstellungen.1) Re naissance-Wappen mit Umschrift Diedrich Konigs, Vogt zu Breisig 1652.""2) Hi.Thomas mit Umschrift ,Joh.Peiller und Engen Heilssem Eheleute 1652und Emblemen.3) Wappenmit Umschrift Christian Weller,Rathsverwandter und Stadtschreiber zu Linz und Sophia MandtsEheleute 1693.""In Rahmen.",1060,99.7,False,positional,,,CORNICI,,Sec. XVII
 BO0624_87419,343246,180,180,"Vier Glasfenster,wovon jedes enthalt:5 Darstellungen aus dem Leben Jesus Christus und seiner Mutter in Grisaille ausgefuhrtmit rother Glaseinfassung.Die Darstellung in der Art der Goltziusschen Bilder.Schone und werthvolle Arbeit.",1066,99.1,False,positional,,,FOTOGRAFIE,,
-BO0624_87419,343247,181,177,"Glasfenster mit 3 Darstellungen.1) Kreisrunde Ornament verzierung, schwarz in grau.2) Christus am Kreuz mit Maria und Johannes,altgothisches Glasfenster,ausserst interessant, die Konturen in schwarz, der Fond der Figuren in grau, sonst blau und gelb.3) 1il. Andreas,Arbeit des 18. Jahrhunderts.",1072,99.3,False,title_direct,,Meister des 17. Jahrhunderts,,,
+BO0624_87419,343247,181,177,"Glasfenster mit 3 Darstellungen.1) Kreisrunde Ornament verzierung, schwarz in grau.2) Christus am Kreuz mit Maria und Johannes,altgothisches Glasfenster,ausserst interessant, die Konturen in schwarz, der Fond der Figuren in grau, sonst blau und gelb.3) 1il. Andreas,Arbeit des 18. Jahrhunderts.",1072,99.3,False,title_direct,,Meister des 17. Jahrhunderts,,,Sec. XVIII
 BO0624_87419,343248,182,2,In Rahmen.,1073,90.0,False,positional,,,CORNICI,,
 BO0624_87419,343249,183,181,"Zwei Glasfenster,Oberlichter, enthaltend eine Anzahl Fi guren und Ornament-Darstellungen in grau, blau, roth und",1074,98.2,False,positional,ROTH PHILIPP,,Kunstgegenstande,,
 BO0624_87419,343250,184,183,"Gravirte und geatzte Glasplatte mit dem Portrat eines Domherrn, links bezeichnet grave par C. A. F. Werther chanoine",1079,98.2,False,positional,,,Kunstgegenstande,,
-BO0624_87419,343251,185,184,"Scheibe mit 2 Figuren und Schrift. Jost. Bernd Tenge, hochfurstl. Osnab. Ambts Vogt zu Melle. Sabina yon Grothaus. Ver Ehe 1616. Geschliffene Scheibe mit St. Martin. Sechs kleinere gemalte Scheiben aus dem 18. Jahrhundert.",1084,71.9,False,positional,,,OGGETTI VARI,,
-BO0624_87419,343252,186,187,"Gemalte Scheibe. Betende Monche.16. Jahrh. Gr. 22, Br. 16cm. Wappenscheibe mit Emblemen und Umschrift:Der Edeler Caspar Ruff genant Tausent 1614. Zwei runde Scheiben mit der Darstellung des hl. Martin.",1088,61.2,False,title_direct,,,OGGETTI VARI,,
+BO0624_87419,343251,185,184,"Scheibe mit 2 Figuren und Schrift. Jost. Bernd Tenge, hochfurstl. Osnab. Ambts Vogt zu Melle. Sabina yon Grothaus. Ver Ehe 1616. Geschliffene Scheibe mit St. Martin. Sechs kleinere gemalte Scheiben aus dem 18. Jahrhundert.",1084,71.9,False,positional,,,OGGETTI VARI,,Sec. XVIII
+BO0624_87419,343252,186,187,"Gemalte Scheibe. Betende Monche.16. Jahrh. Gr. 22, Br. 16cm. Wappenscheibe mit Emblemen und Umschrift:Der Edeler Caspar Ruff genant Tausent 1614. Zwei runde Scheiben mit der Darstellung des hl. Martin.",1088,61.2,False,title_direct,,,OGGETTI VARI,,Sec. XVII
 BO0624_87419,343253,187,190,Scheibe mit dem Portrat Kaiser Maximilians.,1090,95.5,False,positional,,,Kunstgegenstande,,
 BO0624_87419,343254,188,191,"Funf Stengelglaser, theilweise geschliffen,theilweise mit",1092,96.6,False,positional,,,Kunstgegenstande,,
 BO0624_87419,343255,189,192,Zwei kleine Vaschen aus Milchglas. Venezianisches Glas-Flacon mit feinen Filigran-Arabesken umsponnen und mit grinen und blauen Emailblumen umrankt. Eine geschliffene Glasfasche mit Stopfen und Henkel.,1094,72.0,False,positional,,,Kunstgegenstande,,
@@ -211,7 +211,7 @@ BO0624_87419,343275,209,212,"Funfeckiges Stollenschrankchen, reich  geschnitzt m
 BO0624_87419,343276,210,213,Renaissance Stollenschrankchen.,1126,93.8,False,positional,,,Kunstgegenstande,,
 BO0624_87419,343277,211,10,214.Eingelegter Ueberbauschrank.,1127,95.4,False,positional,,,Kunstgegenstande,,
 BO0624_87419,343278,212,215,Geschnitzte Renaissance-Bank.,1128,93.3,False,positional,,,Kunstgegenstande,,
-BO0624_87419,343279,213,216,"Ueberaus reich geschnitzte Scheide aus Buchsbaumholz, tragt in vier Langreihen getheilt 14 Darstellungen aus der heiligen Schrift,mit vielen Figuren,und die 12 Apostel, d. Jahreszahl 1600 und das Monogramm W.G. W.",1129,91.6,False,positional,,,Kunstgegenstande,,
+BO0624_87419,343279,213,216,"Ueberaus reich geschnitzte Scheide aus Buchsbaumholz, tragt in vier Langreihen getheilt 14 Darstellungen aus der heiligen Schrift,mit vielen Figuren,und die 12 Apostel, d. Jahreszahl 1600 und das Monogramm W.G. W.",1129,91.6,False,positional,,,Kunstgegenstande,,Sec. XVII
 BO0624_87419,343280,214,217,Schnupftabakdose aus Holz und Schildpatt. Auf dem Deckel eine Miniatur.,1134,97.2,False,positional,,,MINIATURE,,
 BO0624_87419,343281,215,218,"Zwei Grisaille-Gemalde, mythologische Figuren darstellend.",1135,96.6,False,title_direct,,,Gemalde,,
 BO0624_87419,343282,216,219,"Lithographie, zwei sich schmuickende Madchen, die Kleider",1139,96.5,False,positional,,,STAMPE E INCISIONI,,

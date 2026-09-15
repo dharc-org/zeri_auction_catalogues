@@ -23,7 +23,7 @@ BO0624_81837,62583,21,24,COLONNA scannelata in marmo verde di Prato.,35,96.6,Fal
 BO0624_81837,62584,22,25,DUE PIATTI antichi fabbrica lombarda.,36,96.0,False,positional,,,PIATTI,,
 BO0624_81837,62585,23,26,PIATTO in vecchia porcellana di Sassonia deco- razioni di fiori.,37,81.8,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62586,24,27,PIATTO maiolica cinese decorazione fiori e pesci.,39,97.0,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62587,25,28,"LOTTO di: N. 3 Medaglie #Sigismondo Pandolfo Malatesta una grande e due piu piccole con nel rovescio differente simbolo (in una il Tempio Malatestiano) tutte datate 1446 ed altra Medaglia (Papa Paolo HI commemorativa della fondazione del Palazzo Venezia, piu Piatto antico in bronzo figurato. 30.VAsETTO porcellana cinese forma cilindrica.",40,92.1,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62587,25,28,"LOTTO di: N. 3 Medaglie #Sigismondo Pandolfo Malatesta una grande e due piu piccole con nel rovescio differente simbolo (in una il Tempio Malatestiano) tutte datate 1446 ed altra Medaglia (Papa Paolo HI commemorativa della fondazione del Palazzo Venezia, piu Piatto antico in bronzo figurato. 30.VAsETTO porcellana cinese forma cilindrica.",40,92.1,False,positional,,,OGGETTI D'ARTE,,Sec. XV
 BO0624_81837,62588,26,29,PIATTO vecchia porcellana cinese.,42,95.5,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62589,27,31,"STAMPA colorata inglese,vecchia, Scena di caccia in cornice.",43,97.5,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62590,28,32,"STAMPA colorata inglese,vecchia, Scena di caccia",44,96.9,False,positional,,,OGGETTI D'ARTE,,
@@ -34,31 +34,31 @@ BO0624_81837,62594,32,22,35.CACHE-POT parcellana bianca e bleu.,48,96.1,False,po
 BO0624_81837,62595,33,36,"SERVIZIO in terraglia inglese celeste con filettature nere composto di 7 Tazze con Piattini, Caf-",49,98.4,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62596,34,24,"fettiera e Zuccheriera, Sec. XvIII.",50,95.5,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62597,35,25,"37.VAsO a bombola con due manichi, figure di gallo",51,97.0,False,positional,,,VASI,,
-BO0624_81837,62598,36,26,"ed anitra,maiolica di Faenza del Sec. XV.",52,96.3,False,positional,,Scuola Faentina,OGGETTI D'ARTE,,
-BO0624_81837,62599,37,27,"38.CORNICE ovale scolpita a foglie e frutta, Secolo XVII.",53,97.3,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62600,38,39,"CORNICE ovale scolpita a foglie e frutta, Secolo XVII.",54,97.2,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62601,39,40,"ANONIMO DEL SEC. XIX Marina,dipinto su tela in cornice scura 70x 94.",57,97.8,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62602,40,41,"ANONIMO DEL SEC. XIX Paesaggio con mac- chiette, dipinto su tela in cornice scura 80 x 64.",59,72.1,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62603,41,42,"SCUOLA DEL MAGNASCO SEC. XVIII Paesaggio con animali e macchiette, dipinto su tela in cornice dorata 54x35.",60,98.6,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62598,36,26,"ed anitra,maiolica di Faenza del Sec. XV.",52,96.3,False,positional,,Scuola Faentina,OGGETTI D'ARTE,,Sec. XV
+BO0624_81837,62599,37,27,"38.CORNICE ovale scolpita a foglie e frutta, Secolo XVII.",53,97.3,False,positional,,,OGGETTI D'ARTE,,Sec. XVII
+BO0624_81837,62600,38,39,"CORNICE ovale scolpita a foglie e frutta, Secolo XVII.",54,97.2,False,positional,,,OGGETTI D'ARTE,,Sec. XVII
+BO0624_81837,62601,39,40,"ANONIMO DEL SEC. XIX Marina,dipinto su tela in cornice scura 70x 94.",57,97.8,False,positional,ANONIMO,,QUADRI ANTICHI,,Sec. XIX
+BO0624_81837,62602,40,41,"ANONIMO DEL SEC. XIX Paesaggio con mac- chiette, dipinto su tela in cornice scura 80 x 64.",59,72.1,False,positional,ANONIMO,,QUADRI ANTICHI,,Sec. XIX
+BO0624_81837,62603,41,42,"SCUOLA DEL MAGNASCO SEC. XVIII Paesaggio con animali e macchiette, dipinto su tela in cornice dorata 54x35.",60,98.6,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,62604,42,43,"MANIERA DEL SEC.XVII Battaglia e Paesaggio lunare, due dipinti in cornici nere 28x41.",61,98.2,False,positional,,,CORNICI,,
 BO0624_81837,62605,43,44,SCUOLA FRANCESE DEL SEC.XVIII Madon- na col Bambino fine dipinto su tavola in cornice nera 23x32.,63,76.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62606,44,45,SCUOLA VENEZIANA DEL SEC.XVII. Sposalizio di S. Caterina dipinto su tela in cornice dorata 80x76.,64,98.4,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,
 BO0624_81837,62607,45,I,"L. 46.SCUOLA D'JACOPO ROBUSTI DETTO TINTORETTO SEC.XVI Gesu nellorto,dipinto su tela in cornice dorata 45 x 1.00.",65,99.6,False,positional,TINTORETTO,,QUADRI ANTICHI,,
-BO0624_81837,62608,46,47,SCUOLA DI G.GIOVENONE SEC. XVI La Pentecoste buon dipinto su tela in cornice dorata 42×59.,66,98.3,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62608,46,47,SCUOLA DI G.GIOVENONE SEC. XVI La Pentecoste buon dipinto su tela in cornice dorata 42×59.,66,98.3,False,positional,,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81837,62609,47,48,SCUOLA DEL MORETTO DA BRESCIA SECOLO xVI Sacra Famiglia ottimo dipinto di viintagliata e dorata vace colorito tela in cornice 37×32.,67,98.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62610,48,49,LOIR NICCOLA SEC.XVHI Interno con soldati grazioso dipinto di buon colorito tela cornice nera,68,98.4,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62611,49,13,a sbalzo 39 x 31.,69,91.4,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62612,50,14,50.LOIR NICCOLA SEC. XVHI Mercanti dipinto,70,96.5,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62613,51,15,pendente del precedente.,71,93.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62614,52,16,51.COURTOIS IACOPO DETTO IL BORGOGNONE SEC. XVIl Battaglia dipinto su tela in cornice nera e oro 55x82.,72,98.5,False,positional,COURTOIS BOURGUIGNON JACQUES,,QUADRI ANTICHI,,
-BO0624_81837,62615,53,52,"RESANI ARCANGELO SEC.XVIlI Piccioni vi- vi e morti due buoni dipinti su tela firmati e datati 1734,in cornicedorata 35x45.",74,80.4,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62616,54,53,GOYA FRANCESCO 1766-1828. Le tentazioni di,75,96.5,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62615,53,52,"RESANI ARCANGELO SEC.XVIlI Piccioni vi- vi e morti due buoni dipinti su tela firmati e datati 1734,in cornicedorata 35x45.",74,80.4,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
+BO0624_81837,62616,54,53,GOYA FRANCESCO 1766-1828. Le tentazioni di,75,96.5,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,62617,55,54,IGNOTO DEL SEC.XIX Ritratto di dania dipin,77,96.6,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62618,56,55,IGNOTO VENEZIANO DEL SEC. XVII Gcn-,79,95.7,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62618,56,55,IGNOTO VENEZIANO DEL SEC. XVII Gcn-,79,95.7,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,62619,57,56,"IGNOTO VENEZIANO DEL SEC.XVIII Ma- VAROTARI ALESSANDRO DETTO IL PADOVANINO SEC.XVII La Maddalena con due Angeli bellissimo dipinto, tela in cornice antica dorata 88x71. MERISI MICHELANGIOLO DETTO IL CARAVAGGIO SEC.XVI Salome con la testa del Battista,vigoroso dipinto su tela in cornice nera eoro75x65.",84,61.9,False,positional,CARAVAGGIO,,QUADRI ANTICHI,,
 BO0624_81837,62620,58,59,SCUOLA DI ANNIBALE CARACCI SEC.XVI,85,95.8,False,positional,CARRACCI ANNIBALE,,QUADRI ANTICHI,,
 BO0624_81837,62621,59,60,CASSA DA CORREDO forma di cofano decorazione 'raffaellesca.,90,97.4,False,positional,,,MOBILI; TAPPETI,,
-BO0624_81837,62622,60,61,"MOBILINO toscano in noce ccn sportello e cassetta in parte scolpito, colonne a tortiglione Sec. XVI.",91,98.5,False,title_direct,,,MOBILI,,
+BO0624_81837,62622,60,61,"MOBILINO toscano in noce ccn sportello e cassetta in parte scolpito, colonne a tortiglione Sec. XVI.",91,98.5,False,title_direct,,,MOBILI,,Sec. XVI
 BO0624_81837,62623,61,62,TAVOLINO con piede centrale a quattro Sec.XVII POLTRONA a bracciuoli ricoperta in stoffa.,92,67.2,False,positional,,,ARREDAMENTI,,
 BO0624_81837,62624,62,63,TAVOLO ottagono in legno intarsiato.,94,95.9,False,positional,,,MOBILI; TAPPETI,,
 BO0624_81837,62625,63,6,"65.TAPPETO Karabaz 1,30 ×0,90.",95,96.6,False,title_direct,,,TAPPETI,,
@@ -71,18 +71,18 @@ BO0624_81837,62631,69,6,75.BRONZO antico Kimera con base simboli dei,113,97.8,Fa
 BO0624_81837,62632,70,7,templi.,114,85.7,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62633,71,76,BRONZO templi. antico Kimera con base simboli dei,119,83.3,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62634,72,77,SERVIZIO da caffe per 6 persone marcata Capodimonte. porcellana,123,87.9,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62635,73,78,QUATTRO ALTORILIEVI in stucco di finissi- ma esecuzione con tracce di doratura Sec. XVI.,126,68.7,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62635,73,78,QUATTRO ALTORILIEVI in stucco di finissi- ma esecuzione con tracce di doratura Sec. XVI.,126,68.7,False,positional,,,OGGETTI D'ARTE,,Sec. XVI
 BO0624_81837,62636,74,79,ORCINO fondo bianco con iscrizioni e stemma.,127,96.6,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62637,75,80,LOTTO di m. 65 Broccatello fondo giallo a rama- ges granato.,128,85.7,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62638,76,81,"DUE DIPINTI giapponesi su seta antichi, in cornice.",130,97.0,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62639,77,82,DUE VASI di maiolica di Lodi decorazioni di fiori.,131,97.0,False,positional,,,VASI,,
-BO0624_81837,62640,78,10,"83.PIATTO in bronzo sbalzato con iscrizione, bella patina Sec. XVI.",132,97.7,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62640,78,10,"83.PIATTO in bronzo sbalzato con iscrizione, bella patina Sec. XVI.",132,97.7,False,positional,,,OGGETTI D'ARTE,,Sec. XVI
 BO0624_81837,62641,79,84,"KOROS in bronzo Cloisonne, antico. BROCCATELLO rosso veneziano, bellissimo,",134,69.6,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62642,80,85,"BRONZO Cervo con divinita, giapponese.",135,96.0,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62643,81,4,"Sec. XV1l, alto 0.90 due tele di m. 3.50 piu 3.40, M.6.90.",136,98.1,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62644,82,87,KOROS in bronzo del Sec. XVIl. Vedi Illustrazione N.64.,137,97.2,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62645,83,89,"DUE VASI in bronzo finissimo, antico,geminato",138,96.7,False,positional,,,VASI,,
-BO0624_81837,62646,84,7,"88.BROCCATELLO rosso veneziano,bellissimo,Secolo XVII, alto 0.90 due tele di m. 2 piu 6, M. 8.",139,98.9,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62646,84,7,"88.BROCCATELLO rosso veneziano,bellissimo,Secolo XVII, alto 0.90 due tele di m. 2 piu 6, M. 8.",139,98.9,False,positional,,,OGGETTI D'ARTE,,Sec. XVII
 BO0624_81837,62647,85,8,"in oro,bella patina. Vedi illustrazione N. 65.",140,97.7,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62648,86,90,"BRONZO antico cinese, laccato Divinita che presiede l'allevamento e coltura dei bachi da seta. Vedi lllustrazione N. 66.",141,98.7,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62649,87,91,"DRAGO in porcellana antica Cina, interessantissimo pezzo.",142,97.3,False,positional,,,OGGETTI D'ARTE,,
@@ -92,20 +92,20 @@ BO0624_81837,62652,90,94,SCUOLA FIAMMINGA DEL SEC.XVII Cri-,150,95.7,False,posit
 BO0624_81837,62653,91,95,"MAGNASCO ALESSANDRO DETTO IL LISSANDRINO SEC.XVIII. Paesaggio alpestre con eremiti, buonissimo dipinto su tela in cornice do-",151,98.8,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62654,92,96,"CAROTO GIOVFRANCESCO SEC.XV e XVI Adorazione del Bambino,fondo di paese,bel dipinto su tela applicata alla tavola in cornice veneziana 59x47.",153,98.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62655,93,97,"COURTOIS JACOPO DETTO IL BORGOGNONE SEC. XVHl, Episodi di battaglia due graziosi spigliati dipinti di ottimo colorito,tavoletta in cornice dorata 18x22.",154,99.0,False,positional,COURTOIS BOURGUIGNON JACQUES,,QUADRI ANTICHI,,
-BO0624_81837,62656,94,98,"GRUBAS IL VECCHIO SEC. XIX Effett notturno di Piazza S. Marco delizioso dipinto, indovinatissimo come macchia di colore e di luci, tela in cornice dorata 15x10.",155,99.0,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62656,94,98,"GRUBAS IL VECCHIO SEC. XIX Effett notturno di Piazza S. Marco delizioso dipinto, indovinatissimo come macchia di colore e di luci, tela in cornice dorata 15x10.",155,99.0,False,positional,PIAZZETTA JEAN-BAPTISTE,,QUADRI ANTICHI,,Sec. XIX
 BO0624_81837,62657,95,99,BOL FERDINANDO SEC.XVII Ritratto di Ma-,156,96.2,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62658,96,100,CARACCI ANNIBALI SEC. XVI Sacra Famiglia notevclissimo dipinto su tavola in cornice dcrata 84×70.,158,97.9,False,positional,CARRACCI,,QUADRI ANTICHI,,
+BO0624_81837,62658,96,100,CARACCI ANNIBALI SEC. XVI Sacra Famiglia notevclissimo dipinto su tavola in cornice dcrata 84×70.,158,97.9,False,positional,CARRACCI,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81837,62659,97,102,AMBERGER DELLA SCUOLA DI NORIM-,160,93.8,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62660,98,103,CANELLA GIUSEPPE Riva degli Schiavi di-,162,95.0,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62661,99,104,PIAZZETTA GIOV.BATTISTA SEC.XVIII Cristo tra i dottori pregevole dipinto su tela di vi-,164,97.7,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62661,99,104,PIAZZETTA GIOV.BATTISTA SEC.XVIII Cristo tra i dottori pregevole dipinto su tela di vi-,164,97.7,False,positional,PIAZZETTA JEAN-BAPTISTE,,QUADRI ANTICHI,,
 BO0624_81837,62662,100,105,"DELARGILLIERE NICOLA SEC.XVII e XVIHI Ritratto di gentiluomo bellissimo dipinto su tela in cornice dorata 90 x 1,22.",166,98.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62663,101,106,"PREVITALI ANDREA SEC.XVI Madonna e4 Santi caratteristica opera sull'autenticita della qua le non puo un conoscitore nutrire dubbio alcuno, in cornice dorata 90x70.",167,98.8,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62663,101,106,"PREVITALI ANDREA SEC.XVI Madonna e4 Santi caratteristica opera sull'autenticita della qua le non puo un conoscitore nutrire dubbio alcuno, in cornice dorata 90x70.",167,98.8,False,positional,LOCATELLI ANDREA,,QUADRI ANTICHI,,
 BO0624_81837,62664,102,107,CHIODAROLO,168,83.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62665,103,108,DOSSI DOSSO SEC. XVI Ritratto di Alfonso d'Este splendido dipinto di correttissimo disegio tela in cornice dorata 1.08x63.,170,98.4,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62666,104,109,REMBRANDT VAN RYN SEC. XVII. Ritr o di vecchio bellissimo dipinto di forte disegno e colorito tela in cornice dorata 78 x 66. Vedi illustrazione N.2.,172,86.8,False,positional,REMBRANDT VAN RIJN,,QUADRI ANTICHI,,
-BO0624_81837,62667,105,110,CARRIERA ROSALBA SEC.XVIlI Mezza figu-,173,94.9,False,positional,ROSALBA CARRIERA,,QUADRI ANTICHI,,
+BO0624_81837,62665,103,108,DOSSI DOSSO SEC. XVI Ritratto di Alfonso d'Este splendido dipinto di correttissimo disegio tela in cornice dorata 1.08x63.,170,98.4,False,positional,,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81837,62666,104,109,REMBRANDT VAN RYN SEC. XVII. Ritr o di vecchio bellissimo dipinto di forte disegno e colorito tela in cornice dorata 78 x 66. Vedi illustrazione N.2.,172,86.8,False,positional,REMBRANDT VAN RIJN,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81837,62667,105,110,CARRIERA ROSALBA SEC.XVIlI Mezza figu-,173,94.9,False,positional,CARRIERA ROSALBA,,QUADRI ANTICHI,,
 BO0624_81837,62668,106,5,"ra di donna,simpatico dipinto su tela in cornice 65×50.",174,98.2,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62669,107,6,"111.CARRIERA ROSALBA SEC. XVIlI Mezza figu ra di donna,dipinto pendent del precedente. Vedi illustrazione N.3.",175,99.1,False,positional,ROSALBA CARRIERA,,QUADRI ANTICHI,,
+BO0624_81837,62669,107,6,"111.CARRIERA ROSALBA SEC. XVIlI Mezza figu ra di donna,dipinto pendent del precedente. Vedi illustrazione N.3.",175,99.1,False,positional,CARRIERA ROSALBA,,QUADRI ANTICHI,,
 BO0624_81837,62670,108,7,112 ALLEGRI ANTONIO DETTO IL CORREGGIO SEC. xVI Sacra famiglia buon dipinto su tavola in cornice dorata 70 x 60.,176,99.1,False,positional,CORREGGIO,,QUADRI ANTICHI,,
 BO0624_81837,62671,109,8,"113.VANLOO GIOV. BATTISTA SEC.XVII Ritratto di scultore espressivo e vigoroso disegno,tela in cornice dorata 72x 96.",177,99.1,False,positional,VAN LOO MICHEL,,QUADRI ANTICHI,,
 BO0624_81837,62672,110,114,"ROBUSTI JACOPO DETTO IL TINTORET- TO SEC. xVI La cacciata d'Adamo ed Eva, bel dipinto su tela, cornice veneziana 94 x 1.20.",179,83.5,False,positional,TINTORETTO,,QUADRI ANTICHI,,
@@ -113,7 +113,7 @@ BO0624_81837,62673,111,115,"COsTA E. Vecchio pescatore ottimo dipinto firmato, i
 BO0624_81837,62674,112,116,"MUZZIOLI GIOVANNI (attribuito) La morte di Giulio Cesare chiara e mossa compassione, bozzetto su tela in cornice nera 29x39.",184,98.4,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,62675,113,117,"RICCIARDI Marina con barche pescherecce,al tramonto,finissimo dipinto,firmato,in cornice nera 22x35.",185,98.0,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,62676,114,118,"BRUZZI STEFANO Bosco magnifico dipinto su tela,firmato,in cornice nera 40 x 70.",186,66.7,False,positional,,,QUADRI MODERNI,,
-BO0624_81837,62677,115,119,"CASSIOLI ANIOS Nello studio, costumi del Sec. XVI, dipinto mirabile per accordo di toni,una tra le belle cose dell'insigne artista,tela firmata in cornice dorata 30x50.",188,98.8,False,positional,,,QUADRI MODERNI,,
+BO0624_81837,62677,115,119,"CASSIOLI ANIOS Nello studio, costumi del Sec. XVI, dipinto mirabile per accordo di toni,una tra le belle cose dell'insigne artista,tela firmata in cornice dorata 30x50.",188,98.8,False,positional,,,QUADRI MODERNI,,Sec. XVI
 BO0624_81837,62678,116,2,120.FERRARIO E.Paesaggio bel dipinto firmato in cornice dorata 47×36.,189,98.6,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,62679,117,3,"121 FEDERICO MICHELE Marina a vespero, dipin-",190,97.7,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,62680,118,4,"to su tela,firmato in cornice nera 24x 40.",191,97.6,False,positional,,,QUADRI MODERNI,,
@@ -172,7 +172,7 @@ BO0624_81837,62732,170,166,DUE TAVOLETTE giapponesi con ornati in lacca.,255,95.
 BO0624_81837,62733,171,167,"LAMPADARIO in bronzo con prismi in cristallo, a luce elettrica.",256,96.8,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62734,172,168,LAMPADARIO come il precedente.,257,93.5,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62735,173,169,VASO bianco e bleu a caratteri cinesi.,258,94.9,False,positional,,,VASI,,
-BO0624_81837,62736,174,22,"170.VAsO grande con manichi,simpatica forma maiolica Abruzzo, decorazione di leoni e animali Secolo XVII.",259,98.6,False,positional,,,VASI,,
+BO0624_81837,62736,174,22,"170.VAsO grande con manichi,simpatica forma maiolica Abruzzo, decorazione di leoni e animali Secolo XVII.",259,98.6,False,positional,,,VASI,,Sec. XVII
 BO0624_81837,62737,175,171,DUE OBELISCHI orientali intarsio di madreper- la e metallo.,260,83.8,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62738,176,172,"IGNOTO DEL SEC.XVII Ritratto d'uomo,dipinto su tavola in cornlice dorata 34x 26.",264,97.5,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62739,177,173,"IGNOTO DEL SEC.XVII S. Gerolamo nutrito,",265,95.0,False,positional,,,QUADRI ANTICHI,,
@@ -184,20 +184,20 @@ BO0624_81837,62744,182,178,IGNOTO DEL SEC.XVII. Scalinata con macchiette buon di
 BO0624_81837,62745,183,179,IGNOTO DEL SEC.XVII Matrimonio di S.Ca-,275,95.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62746,184,180,IGNOTO FIAMMINGO DEL SEC.XVII.Baruf-,277,94.6,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62747,185,181,IGNOTO VENEZIANO DEL SEC.XVIII Dan-,279,94.4,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62748,186,182,"RESANI ARCANGELO SEC.XIIV,Polli due buoni dipinti su tela,firmati e datati 1734,in",281,97.6,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62748,186,182,"RESANI ARCANGELO SEC.XIIV,Polli due buoni dipinti su tela,firmati e datati 1734,in",281,97.6,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,62749,187,183,SCUOLA DI ANDREA DEL SARTO SEC.XVI Il sacrificio d'Isacco dipinto su tela in cornice dorata 97x73.,283,98.0,False,positional,DEL SARTO ANDREA,Scuola di Andrea del Sarto,QUADRI ANTICHI,,
-BO0624_81837,62750,188,184,IGNOTO INGLESE DEL SEC. XVIII Ritratto,284,94.9,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62751,189,185,IGNOTO DEL SEC. XIX Ritratto della Malibram,286,95.5,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62752,190,186,MARIESCHI MICHELE SEC. XVIII Vedute di Venezia due ottimi dipinti su tela in cornice intagliata e dorata 56 x 62.,288,98.2,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62750,188,184,IGNOTO INGLESE DEL SEC. XVIII Ritratto,284,94.9,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
+BO0624_81837,62751,189,185,IGNOTO DEL SEC. XIX Ritratto della Malibram,286,95.5,False,positional,,,QUADRI ANTICHI,,Sec. XIX
+BO0624_81837,62752,190,186,MARIESCHI MICHELE SEC. XVIII Vedute di Venezia due ottimi dipinti su tela in cornice intagliata e dorata 56 x 62.,288,98.2,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,62753,191,2,187.COURTOIS JACOPO DETTO IL BORGOGNONE SEC.XVlI Battaglia dipinto su tela in cornice nera e oro 55x82.,289,99.0,False,positional,COURTOIS BOURGUIGNON JACQUES,,QUADRI ANTICHI,,
 BO0624_81837,62754,192,3,188.COURTOIS JACOPO DETTO IL BORGOGNONE SEC.xVll Battaglia dipinto su tela in cornice,290,98.8,False,positional,COURTOIS BOURGUIGNON JACQUES,,QUADRI ANTICHI,,
 BO0624_81837,62755,193,4,nera e oro 55x82.,291,94.1,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62756,194,189,TAVOLINO in stile bolognese del Sec. XVII.,295,95.2,False,positional,,,ARREDAMENTI,,
+BO0624_81837,62756,194,189,TAVOLINO in stile bolognese del Sec. XVII.,295,95.2,False,positional,,,ARREDAMENTI,,Sec. XVII
 BO0624_81837,62757,195,190,CASSA DA CORREDO in noce sagomato Seco-,296,95.0,False,positional,,,MOBILI; TAPPETI,,
 BO0624_81837,62758,196,3,lo XVII.,297,87.5,False,positional,,,MOBILI; TAPPETI,,
-BO0624_81837,62759,197,4,"191.VETRINA finissimamente scolpita, Sec. XVI.",298,97.7,False,positional,,,MOBILI; TAPPETI,,
+BO0624_81837,62759,197,4,"191.VETRINA finissimamente scolpita, Sec. XVI.",298,97.7,False,positional,,,MOBILI; TAPPETI,,Sec. XVI
 BO0624_81837,62760,198,192,"SEI SEDIE E DUE POLTRONE in ciliegio ri- coperte in stoffa bianca a righe verdi,Impero.",300,69.7,False,positional,,,POLTRONE,,
-BO0624_81837,62761,199,193,TAvOLINO con piede centrale a quattro Secolo XVII.,301,96.1,False,positional,,,ARREDAMENTI,,
+BO0624_81837,62761,199,193,TAvOLINO con piede centrale a quattro Secolo XVII.,301,96.1,False,positional,,,ARREDAMENTI,,Sec. XVII
 BO0624_81837,62762,200,194,POLTRONA in noce Louis XVI ricoperta in stoffa veneziana.,302,96.6,False,positional,,,POLTRONE,,
 BO0624_81837,62763,201,9,"195.TAPPETO di lana Argos 3,30×2,70.",303,97.2,False,title_direct,,,TAPPETI,,
 BO0624_81837,62764,202,196,"TAPPETO Kelim 2,55x 1.60.",304,92.3,False,title_direct,,,TAPPETI,,
@@ -227,7 +227,7 @@ BO0624_81837,62787,225,216,CICOGNA in bronzo giapponese. Vedi illustrazione N. 6
 BO0624_81837,62788,226,217,"CENTRO da tavola porcellana Canton antica, scatola lacca.",342,96.5,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62789,227,218,COFANETTO con pannelli dipinti Soggetti sacri Secolo XVll.,343,96.6,False,positional,,,PANNELLI,,
 BO0624_81837,62790,228,219,"OROLOGIO in bronzo, Impero, con statuetta.",344,95.1,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62791,229,220,"MORTAIO in bronzo, manichi e testina, datato 1717.",345,95.9,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62791,229,220,"MORTAIO in bronzo, manichi e testina, datato 1717.",345,95.9,False,positional,,,OGGETTI D'ARTE,,Sec. XVIII
 BO0624_81837,62792,230,221,DUE VASI grandi Satzuma.,346,92.0,False,positional,,,VASI,,
 BO0624_81837,62793,231,222,SCUOLA VENETA DEL SEC.XVI Samaritana,350,94.7,False,positional,,Scuola Veneta,QUADRI ANTICHI,,
 BO0624_81837,62794,232,2,buon dipinto su tela in cornice dorata 60x 65.,351,97.8,False,positional,,,QUADRI ANTICHI,,
@@ -246,12 +246,12 @@ BO0624_81837,62806,244,234,"CASTELLO VALERIO SEC.XVII. Soggetto Mi tologico bell
 BO0624_81837,62807,245,7,assai 1.55×1.12.,367,93.8,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62808,246,8,"235.BREUGHEL PIETRO DETTO IL VECCHIO SEC. xVI Paesaggio con macchiette, due finissimi dipinti dove le macchiette sono disegnate e colorite con molto spirito,tela ain cornice dorata 64×80.",368,99.5,False,positional,BRUEGEL PIETER IL VECCHIO,,QUADRI ANTICHI,,
 BO0624_81837,62809,247,236,"VAN HUYSUM GIOVANNI SEC.XVIII Fiori dipinto di finissima esecuzione e di vivace colorito, tela in cornice dorata 121x80. Vedi lllustrazione N. 6.",369,98.6,False,positional,VAN HUYSUM JAN,,QUADRI ANTICHI,,
-BO0624_81837,62810,248,10,237.VAN HUYSUM GIOVANNI SEC. XVIII Fiori maraviglioso dipinto pendent del precedenie. Vedi Illustrazione N. 7.,370,98.6,False,positional,VAN HUYSUM JAN,,QUADRI ANTICHI,,
-BO0624_81837,62811,249,238,"LONGHI PIETRO SEC.XVIHI Ritratto di dama in decollete mirabile dipinto su tela di bel colorito,",371,97.9,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62810,248,10,237.VAN HUYSUM GIOVANNI SEC. XVIII Fiori maraviglioso dipinto pendent del precedenie. Vedi Illustrazione N. 7.,370,98.6,False,positional,VAN HUYSUM JAN,,QUADRI ANTICHI,,Sec. XVIII
+BO0624_81837,62811,249,238,"LONGHI PIETRO SEC.XVIHI Ritratto di dama in decollete mirabile dipinto su tela di bel colorito,",371,97.9,False,positional,LONGHI PIETRO,,QUADRI ANTICHI,,
 BO0624_81837,62812,250,239,"GARGIUOLI DOMENICO detto MICCO SPADARO SEC.XVII Martirio di S. Gennaro e dei suoi compagni e Incontro di S. Pietro e S. Paolo due splendidi dipinti di bella composizione di inci sivo disegno,e di magnifici rapporti di colore, tela in cornice dorata 50x75. Vedi 1llustrazione N. 9 e 10.",374,99.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62813,251,240,"LONGHI PIETRO SEC. XVIII Scena veneziana bel dipinto particolarmente interessante perche esiste la stampa incisa dall'artista stesso, (vedi opere di Pietro Longhi Edizione Arti Grafiche di Ber-",375,99.0,False,positional,,,ARTI GRAFICHE,,
+BO0624_81837,62813,251,240,"LONGHI PIETRO SEC. XVIII Scena veneziana bel dipinto particolarmente interessante perche esiste la stampa incisa dall'artista stesso, (vedi opere di Pietro Longhi Edizione Arti Grafiche di Ber-",375,99.0,False,positional,LONGHI PIETRO,,ARTI GRAFICHE,,Sec. XVIII
 BO0624_81837,62814,252,241,COELLO SANCEZ SEC.XVI Ritratto di gentil-,377,95.2,False,positional,SANCHEZ-COELLO ALONZO,,QUADRI ANTICHI,,
-BO0624_81837,62815,253,242,"BETSI DEL SEC. XVII Al balcone, grazioso accurato dipinto su tavola, firmato in cornice dorata ×24. Vedi lllustrazione N. 12.",379,85.4,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62815,253,242,"BETSI DEL SEC. XVII Al balcone, grazioso accurato dipinto su tavola, firmato in cornice dorata ×24. Vedi lllustrazione N. 12.",379,85.4,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,62816,254,243,TENIERS DAVID SEC.XVII Paesaggio con macchiette delizioso dipinto su tavola in cornice nera 22×17.,381,98.0,False,positional,TENIERS DAVID IL GIOVANE,,QUADRI ANTICHI,,
 BO0624_81837,62817,255,244,ABATE CICCIO DETTO IL SOLIMENE SECOLO xVlI e XVIlI Salome ottimo dipinto su tela in cornice dorata 65x75.,382,98.1,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62818,256,245,SCUOLA FRANCESE DEL SEC.XVIII Allegoria mitologica bellissimo dipinto su tela in cornice,383,97.8,False,positional,,,QUADRI ANTICHI,,
@@ -290,7 +290,7 @@ BO0624_81837,62850,288,275,"BORDURA di Broccatello veneziano rosso del Secolo xv
 BO0624_81837,62851,289,276,PORTAFIORI in vetro verde decorato oro. 278.QUATTRO TAZZE con piattino in porcellana,438,69.2,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62852,290,277,DUE PIATTI in maiolica decorazione raffaellesca.,439,95.9,False,positional,,,PIATTI,,
 BO0624_81837,62853,291,14,francese.,440,84.2,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62854,292,280,PUGNALETTO detto  Misericordia  Sec. XVI. GRUPPO Passo di danza in Biscouit francese.,442,68.3,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62854,292,280,PUGNALETTO detto  Misericordia  Sec. XVI. GRUPPO Passo di danza in Biscouit francese.,442,68.3,False,positional,,,OGGETTI D'ARTE,,Sec. XVI
 BO0624_81837,62855,293,281,DUE PIATTI antichi fabbrica lombarda.,443,94.7,False,positional,,,PIATTI,,
 BO0624_81837,62856,294,282,STAMPA dal teniers Il bevitore amoroso cornice. in,444,92.9,False,positional,TENIERS DAVID IL GIOVANE,,OGGETTI D'ARTE,,
 BO0624_81837,62857,295,283,PIATTO antica Cina del Nord decorazione di fi- gure.,446,90.9,False,positional,,,OGGETTI D'ARTE,,
@@ -307,21 +307,21 @@ BO0624_81837,62867,305,292,BRACCIERE in rame con supporto di ferro bat- tuto.,45
 BO0624_81837,62868,306,293,"SEI PIATTI antichi in maiolica Venezia e Nove,",460,95.7,False,positional,,,PIATTI,,
 BO0624_81837,62869,307,18,uno Savona (lotto da dividersi).,461,95.1,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62870,308,19,294.DUE CESTINE con piatto a traforo antica porcellana bianca Ginori.,462,97.8,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62871,309,295,"LOTTO di: 4 Pesi e Tirante in bronzo, Sec. XVI.",463,95.6,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62871,309,295,"LOTTO di: 4 Pesi e Tirante in bronzo, Sec. XVI.",463,95.6,False,positional,,,OGGETTI D'ARTE,,Sec. XVI
 BO0624_81837,62872,310,296,VASO in terracotta bronzata altorilievo di putti.,464,96.0,False,positional,,,VASI,,
 BO0624_81837,62873,311,297,ORCIO decorazioni fiori e stemma.,465,94.1,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62874,312,298,CACHE-POT in terracotta bronzata decorazione Celliniana.,466,85.4,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62875,313,299,CROCE a stile in ottone dorato Sec. XVII.,468,95.1,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62875,313,299,CROCE a stile in ottone dorato Sec. XVII.,468,95.1,False,positional,,,OGGETTI D'ARTE,,Sec. XVII
 BO0624_81837,62876,314,26,300.LAMPADA a luce elettrica in metallo.,469,96.3,False,positional,,,LAMPADE,,
 BO0624_81837,62877,315,27,"301.LAMPADARIO in bronzo con prismi in cristallo,",470,97.0,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62878,316,28,a luce elettrica.,471,91.4,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62879,317,302,LAMPADARIO come il precedente.,472,93.5,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62880,318,303,"TABERNACOLO in noce finemente scolpito, stile del Sec. XV.",473,96.5,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62880,318,303,"TABERNACOLO in noce finemente scolpito, stile del Sec. XV.",473,96.5,False,positional,,,OGGETTI D'ARTE,,Sec. XV
 BO0624_81837,62881,319,304,"DUE VASI per fiori o piante,in legno.",474,94.7,False,positional,,,VASI,,
 BO0624_81837,62882,320,305,"IGNOTO DEL SEC.XVII Testa di vecchio e Amore e Bacco,due dipinti su tavoletta senza cornice20× 25e35×25.",478,76.6,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62883,321,306,"SCUOLA BOLOGNESE SEC.XVII S. Seba- stiano,dipinto su tela in cornice nera 66 x 44.",480,74.0,False,positional,,Scuola Bolognese,QUADRI ANTICHI,,
 BO0624_81837,62884,322,307,"IGNOTO DEL SEC.XVII Madonna col Bambino, dipinto su rame in cornice neraas sbalzo 23×18.",481,97.7,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62885,323,308,SCUOLA DELLO ZUCCARELLI SEC. XVII Vita campestre dipinto in cornice dorata 76 x 78.,482,97.6,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62885,323,308,SCUOLA DELLO ZUCCARELLI SEC. XVII Vita campestre dipinto in cornice dorata 76 x 78.,482,97.6,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,62886,324,309,SCUOLA DEL PADOVANINO SEC.XVII Cristo buon dipinto su tela in cornice dorata 43×53.,483,93.8,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62887,325,310,IGNOTO FRANCESE DEL SEC.XVIII Ritratto d'ufficiale dipintos su tela in cornice dorata 54×75.,485,97.8,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62888,326,311,"SCUOLA DEL TINTORETTO DOMENICO SEC.xVll Ritratto virile,dipinto su tela in cornice dorata 51 x42.",486,98.0,False,positional,TINTORETTO,Scuola di Tintoretto,QUADRI ANTICHI,,
@@ -329,18 +329,18 @@ BO0624_81837,62889,327,312,"SCUOLA TOSCANA DEL SEC.XVII Padre Eterno tra gli ang
 BO0624_81837,62890,328,313,"LOTTO LORENZO SEC.XVI Sacra Famiglia ed Angeli,vivace dipinto su tavola in cornice dorata 45×34.",489,97.9,False,positional,LORENZO LOTTO,,QUADRI ANTICHI,,
 BO0624_81837,62891,329,14,"314.CORTOIS JACOPO DETTO IL BORGOGNONE SEC.XVll Battaglia,buon dipinto su tela in cornice dorata 86 x 57.",490,98.6,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62892,330,15,"315.CARPIONI GIULIO SEC.XVII Amore disarmato,dipinto su rame in cornice dorata 24 x 18.",491,98.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62893,331,316,BONVICINO ALESSANDRO DETTO IL MORETTO DI BRESCIA SEC. XVI Santa martire. dipinto su tavola in cornice dorata 44 x 55.,492,98.3,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62893,331,316,BONVICINO ALESSANDRO DETTO IL MORETTO DI BRESCIA SEC. XVI Santa martire. dipinto su tavola in cornice dorata 44 x 55.,492,98.3,False,positional,,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81837,62894,332,17,"317.TEMPESTI ANTONIO DETTO IL TEMPESTA SEC.XVII Naufragio, ottimo dipinto su tela in cornice dcrata 95 x 1,25.",493,98.6,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62895,333,318,"SCUOLA DEL TORI DETTO IL BRONZINO SEC.xVI Ritratto di giovane guerriero,buon di-",494,97.5,False,positional,,Scuola di Bronzino,QUADRI ANTICHI,,
+BO0624_81837,62895,333,318,"SCUOLA DEL TORI DETTO IL BRONZINO SEC.xVI Ritratto di giovane guerriero,buon di-",494,97.5,False,positional,"BRONZINO, AGNOLO DI COSIMO",Scuola di Bronzino,QUADRI ANTICHI,,
 BO0624_81837,62896,334,319,SCUOLA DEL VELASQUEZ SEC.XVII Ritrat-,496,94.7,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62897,335,320,"SCUOLA VENEZIANA DEL SEC.XVIII Ritratto di dama,buon dipinto ovale su tela in cor-",498,97.6,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,
 BO0624_81837,62898,336,321,SCUOLA DI GIACINTO RIGAUD SEC.XVIIe,500,94.6,False,positional,RIGAUD HYACINTHE,Scuola di Rigaud,QUADRI ANTICHI,,
 BO0624_81837,62899,337,322,"TAVOLINO da lavoro in ciliegio, Impero.",505,94.9,False,positional,,,ARREDAMENTI,,
 BO0624_81837,62900,338,323,"TAVOLA rotonda da ingrandirsi a quattro gam-- be,scolpita.",506,84.3,False,positional,,,MOBILI; TAPPETI,,
-BO0624_81837,62901,339,324,"TAVOLONE rettangolare riccamente intagliato, stile del Sec. XVI.",508,79.6,False,positional,,,MOBILI; TAPPETI,,
+BO0624_81837,62901,339,324,"TAVOLONE rettangolare riccamente intagliato, stile del Sec. XVI.",508,79.6,False,positional,,,MOBILI; TAPPETI,,Sec. XVI
 BO0624_81837,62902,340,325,LIBRERIA in legno intarsiato.,510,93.3,False,positional,,,MOBILI; TAPPETI,,
 BO0624_81837,62903,341,326,TAVOLINO con gambe a lira e traversa Seco- lo XVII.,511,87.2,False,positional,,,ARREDAMENTI,,
-BO0624_81837,62904,342,327,INGINOCCHIATOIO in noce con cassetto e sportello Sec. XVII.,513,74.2,False,positional,,,MOBILI; TAPPETI,,
+BO0624_81837,62904,342,327,INGINOCCHIATOIO in noce con cassetto e sportello Sec. XVII.,513,74.2,False,positional,,,MOBILI; TAPPETI,,Sec. XVII
 BO0624_81837,62905,343,328,"TAPPETO Jordes 2,00 x 1,02.",515,92.9,False,title_direct,,,TAPPETI,,
 BO0624_81837,62906,344,329,") Kazak 1,48 x0,90.",516,88.9,False,positional,,,MOBILI; TAPPETI,,
 BO0624_81837,62907,345,330,"Karabaz 3,35 × 1,10. )",517,89.5,False,positional,,,MOBILI; TAPPETI,,
@@ -350,7 +350,7 @@ BO0624_81837,62910,348,333,") )) di lana Argos 3,50 x 2,70.",521,94.3,False,posi
 BO0624_81837,62911,349,334,"Pergame 1,03 x 0,70. )) ))",522,90.5,False,positional,,,MOBILI; TAPPETI,,
 BO0624_81837,62912,350,335,"MINIATURA su avorio Dama qon mazzolino, in bella cornicetta tartaruga.",529,97.1,False,positional,,,MINIATURE,,
 BO0624_81837,62913,351,336,PIATTO moderno in bronzo.,530,92.3,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62914,352,337,BASE in bronzo importantissima Sec. XVI artisticamente cesellato bella patina.,531,97.4,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62914,352,337,BASE in bronzo importantissima Sec. XVI artisticamente cesellato bella patina.,531,97.4,False,positional,,,OGGETTI D'ARTE,,Sec. XVI
 BO0624_81837,62915,353,338,"MINIATURA su avorio finissima Dopo il bagno, in astuccio cuoio bulinato.",532,97.2,False,positional,,,MINIATURE,,
 BO0624_81837,62916,354,339,COPPA in porcellana Imary.,533,92.6,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62917,355,6,"fine acquerello,firmato,",534,95.8,False,positional,,,OGGETTI D'ARTE,,
@@ -361,45 +361,45 @@ BO0624_81837,62921,359,10,"343.STATUETTA raffigurante Immortale oGenio tavista, 
 BO0624_81837,62922,360,11,"bellissimo, Sec. XV11, alto 0,90 due teli di m.3,40 piu 3.30",539,97.4,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62923,361,12,"344.BROCCATELLO rosso veneziano M.6,70.",540,96.2,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62924,362,345,"DUE VASI portafiori porcellana Canton, antichi.",541,95.7,False,positional,,,VASI,,
-BO0624_81837,62925,363,346,VAsO in maiolica di Cafaggiolo graziosa decora- zione Sec. XVI.,542,83.6,False,positional,,,VASI,,
+BO0624_81837,62925,363,346,VAsO in maiolica di Cafaggiolo graziosa decora- zione Sec. XVI.,542,83.6,False,positional,,,VASI,,Sec. XVI
 BO0624_81837,62926,364,347,DUE STATUETTE in bronzo Baccante e Venere ottimamente modellate Sec.XVll.,544,70.1,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62927,365,348,"BRONZO cinese antichissimo Tsai-shin Dio o Genio della ricchezza, ha servito per il culto. Vedi Illustrazione N. 66.",546,98.2,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62928,366,2,349.DUE VASI forma di orcino decorazioni stile Urbino.,547,98.1,False,positional,,,VASI,,
 BO0624_81837,62929,367,350,MoRTAIO in bronzo con manichi e targa con iscri-,548,95.9,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,62930,368,4,zione datato 1825.,549,94.4,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,62930,368,4,zione datato 1825.,549,94.4,False,positional,,,OGGETTI D'ARTE,,Sec. XIX
 BO0624_81837,62931,369,5,"351.CALAMAIOi in.argento Impero,grammi 2200 circa.",550,98.0,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62932,370,6,352.CONSOLLE con SPECCHIO con ricco lavoro d'intaglio a foglie e frutti gia della Galleria Gug-,551,98.9,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62933,371,7,gnheim.,552,85.7,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,62934,372,353,"TAPPETO Aubisson a punto arazzo epoca Luigi xV 6,50 x 5,70,conservatissimo.",553,97.4,False,title_direct,,Periodo di Luigi XV,TAPPETI,,
-BO0624_81837,62935,373,354,"SCUOLA VENETA DEL SEC. XVII Ritratto di prelato,buon dipinto su tela in cornice intagliata e dorata 51 x 66.",558,77.7,False,positional,,Scuola Veneta,QUADRI ANTICHI,,
-BO0624_81837,62936,374,355,"LIBERALE DA VERONA SEC. XV e XVI Madonna col Bambino,dipinto su tavola di simpatico insieme in cornice noce antica finemente scolpita 67×46.",559,98.6,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62937,375,356,"SOUSTERMANS GIUSTO SEC. XVII Ritratto d'uomo,ben disegnato,buonissimo dipinto su te- la in cornice dorata 40 x 31.",560,83.2,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62938,376,357,"ROSA SALVATORE SEC. XVII Battaglie,due movimentatie vigorosi",562,96.7,False,positional,ROSA SALVATOR,,QUADRI ANTICHI,,
+BO0624_81837,62935,373,354,"SCUOLA VENETA DEL SEC. XVII Ritratto di prelato,buon dipinto su tela in cornice intagliata e dorata 51 x 66.",558,77.7,False,positional,,Scuola Veneta,QUADRI ANTICHI,,Sec. XVII
+BO0624_81837,62936,374,355,"LIBERALE DA VERONA SEC. XV e XVI Madonna col Bambino,dipinto su tavola di simpatico insieme in cornice noce antica finemente scolpita 67×46.",559,98.6,False,positional,,,QUADRI ANTICHI,,Sec. XV
+BO0624_81837,62937,375,356,"SOUSTERMANS GIUSTO SEC. XVII Ritratto d'uomo,ben disegnato,buonissimo dipinto su te- la in cornice dorata 40 x 31.",560,83.2,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81837,62938,376,357,"ROSA SALVATORE SEC. XVII Battaglie,due movimentatie vigorosi",562,96.7,False,positional,ROSA SALVATOR,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,62939,377,7,dipinti su tela in cornice dorata 30 x 45.,563,97.6,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62940,378,8,"358.MAZZUOLI DOMENICO DETTO IL PARMIGIANINO SEC.XVI Ritratto di gentiluomo,dipinto di ottima fattura tela in finissima cornice scolpita dell'epoca 55 x 75.",564,99.4,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62941,379,359,BARBIERI GIOVANNI SEC. XIX Paesaggio con,565,95.1,False,positional,BARBIERI GIANFRANCESCO,,QUADRI ANTICHI,,
-BO0624_81837,62942,380,360,TODESCHINI SEC. XVII Venditore di selvag-,566,95.1,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62941,379,359,BARBIERI GIOVANNI SEC. XIX Paesaggio con,565,95.1,False,positional,BARBIERI GIANFRANCESCO,,QUADRI ANTICHI,,Sec. XIX
+BO0624_81837,62942,380,360,TODESCHINI SEC. XVII Venditore di selvag-,566,95.1,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,62943,381,3,"macchiette, tavola di finissima esecuzione in cor nice dorata 41 x 55. Vedi Illustrazione N. 13.",567,98.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62944,382,4,"gina,caratteristico, vigoroso dipinto, tela in cornice dorata 74x58.",568,98.5,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62945,383,362,"RICCI SEBASTIANO SEC. XVIlI La resurrezione di Lazzaro,stupendo dipinto di fattura agile e franca e di brioso colorito, tela in cornice dorata 98×49. TODESCHINI SEC. XVII Pifferaio caratteristico vigoroso dipinto pendent dal precedente.",569,76.6,False,positional,SEBASTIANO RICCI,,QUADRI ANTICHI,,
-BO0624_81837,62946,384,363,"SEMITECOLO NICOLO' SEC. XIV Gesu appare a S. Giuliana, tavola a fondo oro di gran pregio in cornice dorata 31 x 29.",571,98.2,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62945,383,362,"RICCI SEBASTIANO SEC. XVIlI La resurrezione di Lazzaro,stupendo dipinto di fattura agile e franca e di brioso colorito, tela in cornice dorata 98×49. TODESCHINI SEC. XVII Pifferaio caratteristico vigoroso dipinto pendent dal precedente.",569,76.6,False,positional,SEBASTIANO RICCI,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81837,62946,384,363,"SEMITECOLO NICOLO' SEC. XIV Gesu appare a S. Giuliana, tavola a fondo oro di gran pregio in cornice dorata 31 x 29.",571,98.2,False,positional,,,QUADRI ANTICHI,,Sec. XIV
 BO0624_81837,62947,385,8,"SEC.XVI Testa di vecchio,in questo dipinto per la maestria del modellato,per la profondita psicologica nell'interpretazione del personaggio,Tintoretto si rivela un emulo di Tiziano, siamo di fronte",572,99.5,False,positional,TIZIANO VECELLIO,,QUADRI ANTICHI,,
 BO0624_81837,62948,386,365,"ZUCCARELLI FRANCESCO SEC.XVIII Paesaggio con cascatella e macchiette, due fini, ma-",573,97.6,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62949,387,10,"ad un vero capolavoro,tela in cornice 38 x 51.",574,96.8,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62950,388,11,"gnifici dipinti, tela in cornice dorata 61 x 48. Vedi llustrazioni N. 14 e 15.",575,98.0,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62951,389,367,"TISCHBEIN SEC.XVIHI Soggetto allegorico straordinario dipinto di finissimo disegno e di brillante colorito tavola firmata e datata 1798 cornice nera55x77. PIAZZETTA GIOV.BATTISTA SEC.XVIII La caffettiera,splendido dipinto vigorosamente trattato, tela in cornice dorata 58 x 54. Vedi Illustrazione N. 16.",576,67.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62952,390,368,"DE ROY L.I. SEC.XVIlI Vacche, finissimo dipinto su tavola firmato e datato 1790 in cornice dorata 35x 26.",583,98.1,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62951,389,367,"TISCHBEIN SEC.XVIHI Soggetto allegorico straordinario dipinto di finissimo disegno e di brillante colorito tavola firmata e datata 1798 cornice nera55x77. PIAZZETTA GIOV.BATTISTA SEC.XVIII La caffettiera,splendido dipinto vigorosamente trattato, tela in cornice dorata 58 x 54. Vedi Illustrazione N. 16.",576,67.3,False,positional,PIAZZETTA JEAN-BAPTISTE,,QUADRI ANTICHI,,Sec. XVIII
+BO0624_81837,62952,390,368,"DE ROY L.I. SEC.XVIlI Vacche, finissimo dipinto su tavola firmato e datato 1790 in cornice dorata 35x 26.",583,98.1,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,62953,391,369,"DE ROY L.J. SEC. XVIlI Vacche, finissimo di- pinto pendent dal precedente. Vedi illustrazione N. 19.",585,72.1,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62954,392,370,"COYP S. G. Sec. XVII Frutta ed uva con starna e tartaruga,due meravigliosi dipinti di grande naturalezza;si osserva che i segni sul dorso della tartaruga raffigurano la firma dell'autore,tela in cornice scolpita e dorata 62 x 77. Vedi Illustrazione N. 20.",586,99.2,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62954,392,370,"COYP S. G. Sec. XVII Frutta ed uva con starna e tartaruga,due meravigliosi dipinti di grande naturalezza;si osserva che i segni sul dorso della tartaruga raffigurano la firma dell'autore,tela in cornice scolpita e dorata 62 x 77. Vedi Illustrazione N. 20.",586,99.2,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,62955,393,371,"TIEPOLO GIOV. BATTA SEC.XVIlI Le storie di Ester,vero piccolo gioiello,studio finito del grande affresco di Palazzo Dugnani a Milano,ammirevole per la maestria del tocco,la bellezza del delicatezza disegno,e sopratutto per la squisita delle tinte, cartone in cornice dorata 44 x 35. Vedi lllustrazione N. 21.",587,77.9,False,positional,TIEPOLO DOMENICO,,QUADRI ANTICHI,,
-BO0624_81837,62956,394,372,"ZIESEL G. F. SEC. XVII Rose e questo dipinto di tale finissima esecuzione da sembrare una miniatura,tavola firmata in cornice dorata 26x20. Vedi llustrazione N. 22.",589,90.9,False,positional,,,MINIATURE,,
+BO0624_81837,62956,394,372,"ZIESEL G. F. SEC. XVII Rose e questo dipinto di tale finissima esecuzione da sembrare una miniatura,tavola firmata in cornice dorata 26x20. Vedi llustrazione N. 22.",589,90.9,False,positional,,,MINIATURE,,Sec. XVII
 BO0624_81837,62957,395,373,"ZIESEL G. F. Uva, accurato dipinto pendent del precedente. Vedi Illustrazione N. 23.",591,68.8,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62958,396,374,SCUOLA VERONESE DEL SEC.XIV Madon- na col Bambino e Angioli interessantissima tavola fondo oro con tabernacolo intagliato nella tavola stessa entro cornice dorata 35 x 28.,594,88.6,False,positional,PAOLO VERONESE,Scuola Veronese,QUADRI ANTICHI,,
-BO0624_81837,62959,397,375,DEBRUN JEAN SEC. XVII Ecce Homo impor-,595,94.7,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62959,397,375,DEBRUN JEAN SEC. XVII Ecce Homo impor-,595,94.7,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,62960,398,13,tantissimo dipinto su tavola con tabernacolo dorato65x75.,596,97.4,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62961,399,14,376.LORENZO LOTTO SEC.XVI. La fuga in Egitto,597,96.6,False,positional,LORENZO LOTTO,,QUADRI ANTICHI,,
 BO0624_81837,62962,400,15,"bel dipinto su tela di vivace colorito, in cornice dorata 80 x 58.",598,97.7,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,62963,401,16,377.PIAZZETTA GIO. BATTISTA SEC.XVIII Ecce Homo buonissimo dipinto su tavola in cornice do-,599,98.3,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,62963,401,16,377.PIAZZETTA GIO. BATTISTA SEC.XVIII Ecce Homo buonissimo dipinto su tavola in cornice do-,599,98.3,False,positional,PIAZZETTA JEAN-BAPTISTE,,QUADRI ANTICHI,,
 BO0624_81837,62964,402,17,rata 51 x60.,600,88.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62965,403,378,"GAVARNY SEC.XIX Vernissage caratteristico di- pinto,tela in cornice dorata 79x63. Vedi Illustrazione N. 24.",602,72.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,62966,404,379,"MAZZOLA FRANCESCO DETTO IL PARMIGIANINO SEC.XVI Madonna col Bambino,accuratissimo dipinto su t tela in cornice dorata 1,20×93.",603,98.4,False,positional,,,QUADRI ANTICHI,,
@@ -477,14 +477,14 @@ BO0624_81837,63037,475,443,"SCUOLA DI STROZZI BERNARDO DETTO IL CAPPUCCINO SEC.X
 BO0624_81837,63038,476,444,SCUOLA DI BERGHEM NICOLA SEC.XVHI Adoraz one dei Pastori dipinto su tavola in cornice dorata 22x17.,706,78.8,False,positional,BERCHEM NICOLAAS,,QUADRI ANTICHI,,
 BO0624_81837,63039,477,445,IGNOTO INGLESE DEL SEC.XIX Ritratto di dama dipinto su tela in cornice dorata 61 x 76.,707,97.7,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63040,478,446,"SCUOLA DI ALESSANDRO LONGHI SEC. XVIll Ritratto di musicista, ottimo dipinto su tela,in cornice dcrata 90 x 60.",709,82.4,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63041,479,447,SCUOLA FERRARESE DEL SEC. XVI Soggetto sacro dipinto su tavola in cornice dorata 48×64.,710,94.0,False,positional,,Scuola Ferrarese,QUADRI ANTICHI,,
+BO0624_81837,63041,479,447,SCUOLA FERRARESE DEL SEC. XVI Soggetto sacro dipinto su tavola in cornice dorata 48×64.,710,94.0,False,positional,,Scuola Ferrarese,QUADRI ANTICHI,,Sec. XVI
 BO0624_81837,63042,480,448,SCUOLA FIAMMINGA DEL SEC.XVII Ritratto di baccelliere vigoroso dipinto su tela in cornice dorata 78x62.,712,98.1,False,positional,,Scuola Fiamminga,QUADRI ANTICHI,,
 BO0624_81837,63043,481,4,"449.WANDER HORST NICCOLA SEC.XVII Ritratto di Bambino,ottimo dipinto su tela in cornice dorata 31 x 39.",713,99.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63044,482,450,SCUOLA FRANCESE DEL SEC.XVII Soggetti mitologici due buoni dipinti su tela in cornice do- rata 1.10x 1.30.,714,89.8,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63045,483,451,"SCUOLA VENEZIANA DEL SEC. XVI Ritrat to di gentiluomo,ottimo dipinto su tela in cornice dorata 1.12 x 90.",716,89.1,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,
-BO0624_81837,63046,484,452,"CASSA DA CORREDO in noce a formelle, bac- celliera scolpita e zampe di leone Sec. XVI.",722,68.3,False,positional,,,MOBILI; TAPPETI,,
-BO0624_81837,63047,485,453,PANCHETTA da sagrestia in noce Sec. XVII.,723,95.1,False,positional,,,MOBILI; TAPPETI,,
-BO0624_81837,63048,486,454,MOBILINO toscano a due corpi finissima sagoma genuino del Sec. XVI.,724,97.0,False,title_direct,,,MOBILI,,
+BO0624_81837,63045,483,451,"SCUOLA VENEZIANA DEL SEC. XVI Ritrat to di gentiluomo,ottimo dipinto su tela in cornice dorata 1.12 x 90.",716,89.1,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,Sec. XVI
+BO0624_81837,63046,484,452,"CASSA DA CORREDO in noce a formelle, bac- celliera scolpita e zampe di leone Sec. XVI.",722,68.3,False,positional,,,MOBILI; TAPPETI,,Sec. XVI
+BO0624_81837,63047,485,453,PANCHETTA da sagrestia in noce Sec. XVII.,723,95.1,False,positional,,,MOBILI; TAPPETI,,Sec. XVII
+BO0624_81837,63048,486,454,MOBILINO toscano a due corpi finissima sagoma genuino del Sec. XVI.,724,97.0,False,title_direct,,,MOBILI,,Sec. XVI
 BO0624_81837,63049,487,455,CREDENZA a nastro avvolto ottimamente scolpita.,725,95.8,False,positional,,,MOBILI; TAPPETI,,
 BO0624_81837,63050,488,456,POLTRONA a braccioli ricoperta in stoffa.,726,95.2,False,positional,,,POLTRONE,,
 BO0624_81837,63051,489,7,"457.TAPPETO Junday 1.10x0,75.",727,96.6,False,title_direct,,,TAPPETI,,
@@ -519,7 +519,7 @@ BO0624_81837,63079,517,482,SALOTTO in legno dorato ricoperto in stoffa il tutto 
 BO0624_81837,63080,518,483,"TAPPETO Aubisson a punto arazzo epoca Luigi XV m.7 x 2,70 circa,conservatissimo.",773,68.3,False,title_direct,,Periodo di Luigi XV,TAPPETI,,
 BO0624_81837,63081,519,484,BARBIERI FRANCESCO DETTO IL GUERINO Sec. XVll. Testa di donna ottimo dipinto su,778,97.5,False,positional,BARBIERI GIANFRANCESCO,,QUADRI ANTICHI,,
 BO0624_81837,63082,520,485,"DEL PIOMBO SEBASTIANO SEC.XVI Autoritratto, bucnissimo dipinto su tela in cornice dorata 43x34.",780,97.9,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63083,521,486,"IGNOTO FRANCESE DEL SEC. XVIII Paese con macchiette, fine dipinto su tavola in cornice nera 32x42.",781,97.9,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,63083,521,486,"IGNOTO FRANCESE DEL SEC. XVIII Paese con macchiette, fine dipinto su tavola in cornice nera 32x42.",781,97.9,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,63084,522,487,"THEOTOCOPULI DOMENICO DETTO IL GRECO SEC.XVI e XVII Sposalizio della Madonna ed altro Soggetto sacro, due ottime predelle eseguite con grande spigliatezza, tavola in cornice dorata 31x70.",782,98.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63085,523,488,CALIARI CARLETTO SEC.XVI Santa buon di-,783,95.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63086,524,4,pinto su tela in cornice dorata 86x73.,784,97.4,False,positional,,,QUADRI ANTICHI,,
@@ -532,22 +532,22 @@ BO0624_81837,63092,530,10,Estate due dipinti pendent dei precedentei,790,96.6,Fa
 BO0624_81837,63093,531,11,493.LORENZETTI AMBRAGIO SEC.XIV Gesu ap-,791,96.3,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63094,532,12,"parisce a S. Teresa, tavola fondo oro di somma importanza,in cornice dorata 72x50.",792,98.1,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63095,533,13,494.BONVICINO ALESSANDRO DETTO IL MORETTO DI BRESCIA SEC.XVI Ritratto di gen tiluomo mirabile dipinto su tela in cornice dorata 1.x73.,793,98.9,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63096,534,495,"FOLICHON F. SEC.XVIII Episodio dell'insurrezione napoletana splendido quadro originale,firmato;proviene dalla raccolta del celebrecardinale Flech donde passo fin dal 1889,nella Galleria dello scultore Gioacchino Ferroni. E'un dodocumnto d'arte e di storia nel tempo stesso. L'azione vibratissima e di impressionante drammaticita si svolge nella Piazza Dante a Napoli, dove il popolo,consenziente 1'esercito, da 1'assalto ad un",794,99.5,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63097,535,496,"LONGHI ALESSANDRO SEC. XVIII Ritratto dell'architetto Fevacina autore della Torre dell'Oorologio a Venezia,e del Ponte di Bassano, dipinto del quale ese ne garantisce l'autenticita, firmato #Alexander Longhi, Accademicus Venetus : pel fatto che il pittore si da la qualifica di accademico e lecito presumere che questo quadro sia una delle sue opere piu importanti eseguite",797,99.5,False,positional,BASSANO GIACOMO,,QUADRI ANTICHI,,
+BO0624_81837,63096,534,495,"FOLICHON F. SEC.XVIII Episodio dell'insurrezione napoletana splendido quadro originale,firmato;proviene dalla raccolta del celebrecardinale Flech donde passo fin dal 1889,nella Galleria dello scultore Gioacchino Ferroni. E'un dodocumnto d'arte e di storia nel tempo stesso. L'azione vibratissima e di impressionante drammaticita si svolge nella Piazza Dante a Napoli, dove il popolo,consenziente 1'esercito, da 1'assalto ad un",794,99.5,False,positional,PIAZZETTA JEAN-BAPTISTE,,QUADRI ANTICHI,,Sec. XIX
+BO0624_81837,63097,535,496,"LONGHI ALESSANDRO SEC. XVIII Ritratto dell'architetto Fevacina autore della Torre dell'Oorologio a Venezia,e del Ponte di Bassano, dipinto del quale ese ne garantisce l'autenticita, firmato #Alexander Longhi, Accademicus Venetus : pel fatto che il pittore si da la qualifica di accademico e lecito presumere che questo quadro sia una delle sue opere piu importanti eseguite",797,99.5,False,positional,BASSANO GIACOMO,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,63098,536,497,LONGHI ALESSANDRO SEC.XVIII Dama con rosa in marmo superbo dipinto di robusta fattura tela in cornice dorata 70x54. Vedi llustrazione N. 25.,798,98.6,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63099,537,498,"LELY PIETRO SEC.XVII Ritratto di Lady Peteuwell, dipinto di elegante disegno ed esecuzione, da molti ritenuto un vero Van-Dik essendo bello come un Van-Dyk di maniera inglese dei piu felici, tela in cornice dorata 65x77.",800,99.1,False,positional,VAN DYCK ANTON,,QUADRI ANTICHI,,
-BO0624_81837,63100,538,499,"BASTIANI LAZZARO SEC.XV Ritratto di senatore,questo dipinto sarebbe degro del Carpaccio;inutile rilevare l'estrema importanza del quadro che la profondita d'espression,il vigore, lo caratterizzano per una vera gemma dellarte veneta del secolo d'oro.tavola in cornice 44x 56. Vedi llustrazione N.27. FYT GIOVANNI SEC. XVII Natura morta super- FYT GIOVANNI SEC.XVII Natura morta superbo dipinto di perfetto disegno, finissimo di esecuzione,e dalle maravigliose,sentite,tonalita di colore,quadro degno di Gallena, tela in cornlic dorata 88x107. Vedi Illustrazione N.28.",801,68.9,False,positional,FYT JAN,,QUADRI ANTICHI,,
+BO0624_81837,63100,538,499,"BASTIANI LAZZARO SEC.XV Ritratto di senatore,questo dipinto sarebbe degro del Carpaccio;inutile rilevare l'estrema importanza del quadro che la profondita d'espression,il vigore, lo caratterizzano per una vera gemma dellarte veneta del secolo d'oro.tavola in cornice 44x 56. Vedi llustrazione N.27. FYT GIOVANNI SEC. XVII Natura morta super- FYT GIOVANNI SEC.XVII Natura morta superbo dipinto di perfetto disegno, finissimo di esecuzione,e dalle maravigliose,sentite,tonalita di colore,quadro degno di Gallena, tela in cornlic dorata 88x107. Vedi Illustrazione N.28.",801,68.9,False,positional,FYT JAN,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,63101,539,502,"PENZ GIORGIO SEC. xVI L'adorazione dei Magi trittico su tavola a fondo paese, magistralmente disegnato e finemente eseguito,dai ricchi colori sapientemente armonizzati,vero e grande capolavoro; opera affascinante degna di Galleria di questo raro artista reputato il primo allievo di Alberto Dureri 1.70xi.18. Vedi Illustrazione N.29.",805,99.4,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63102,540,2,"503.TIEPOLO GIOV.BATTISTA SEC.XVIII.Toi lette di Venere,la spigliatezza del disegno,la grazia del tocco e la squisitezza del colorito, fanno di questo dipinto un vero gioiello;e indiscutibilmente opera del grande veneziano,tela in cornice nera a sbalzo 25x35.",806,99.6,False,positional,TIEPOLO DOMENICO,,QUADRI ANTICHI,,
 BO0624_81837,63103,541,504,"BOUCHEUR FRANCESCO SEC. XVIHI Putti con animali e fiori tre chiari e freschi dipinti, deliziosissimi, tele di grande importanza, ovali in",810,98.5,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63104,542,2,cornice bianca filettata oro 80x57. Vedi Illustrazione N. 31.,811,98.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63105,543,504,"bis ROBUSTI JACOPO DETTOilTINTORETTO Sec. XVI. S. Girolamo e S. Pietro, interessante dipinto su tela in tabernacolo in stile,dorato 57×77.",812,98.5,False,positional,TINTORETTO,,QUADRI ANTICHI,,
-BO0624_81837,63106,544,505,BRANDI MICCO SEC. XVII Soggetti campestri nove interessantissimi pannelli decorativi senza cornice 54x84.,814,75.4,False,positional,,,PANNELLI,,
+BO0624_81837,63105,543,504,"bis ROBUSTI JACOPO DETTOilTINTORETTO Sec. XVI. S. Girolamo e S. Pietro, interessante dipinto su tela in tabernacolo in stile,dorato 57×77.",812,98.5,False,positional,TINTORETTO,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81837,63106,544,505,BRANDI MICCO SEC. XVII Soggetti campestri nove interessantissimi pannelli decorativi senza cornice 54x84.,814,75.4,False,positional,,,PANNELLI,,Sec. XVII
 BO0624_81837,63107,545,506,SCUOLA VENEZIANA DEL SEC.XVIHI Ritratto di gentiluomo dipinto su tela di ottima fattura in cornice dorata 96x73.,815,98.2,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,
 BO0624_81837,63108,546,507,"SCUOLA VENEZIANA DEL SEC.XVIII Ritratto di dama,simpaticissimo dipinto,tela in cornice veneziana 74x94.",816,98.1,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,
 BO0624_81837,63109,547,508,"GALLEGOS JOsE'Chiesa del Carmine a Venezia con macchiette,brioso bozzetto, tavoletta in cornice dorata 15x24.",820,98.2,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,63110,548,509,"TOMMASI ADOLFO Crepuscolo della sera,bel pastello, firmato, in cornice dorata 58x40.",821,97.6,False,positional,,,QUADRI MODERNI,,
-BO0624_81837,63111,549,2,"510.GORDIGIANI MICHELE Idillio, costumi del Secolo XVI morbido e delicato bozzetto su tavoletta in cornice dorata 36×28.",822,99.2,False,positional,,,QUADRI MODERNI,,
+BO0624_81837,63111,549,2,"510.GORDIGIANI MICHELE Idillio, costumi del Secolo XVI morbido e delicato bozzetto su tavoletta in cornice dorata 36×28.",822,99.2,False,positional,,,QUADRI MODERNI,,Sec. XVI
 BO0624_81837,63112,550,511,"ZATTERIN IDO Nel parco squisito, suggestivo di- pinto,firmato,in cornice dorata 45x36.",823,68.2,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,63113,551,512,"DALL'OCA BIANCA ANGELO Primo cappello espressivo dipinto dalla pennellata calda e disinvolta,tela,firmata,in cornice dorata 33x48. Vedi lllustrazione N. 31 bis.",825,98.7,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,63114,552,513,"CABIANCA VINCENZO. Goldoni edi suoi comici,splendido dipinto la cui straordinaria potenza di colorito, che fa di questo quadro un vero capolavoro, rivela essere stato esso eseguito quando la geniale arte di questo insigne pittore era nel suo massimo splendore, gia appartenuto,alla Collezione Sambalino, tela,firmata e dedicata ad A Provenzal in cornice dorata. Vedi Illustrazione N. 32.",826,99.5,False,positional,,,QUADRI MODERNI,COLLEZIONE SAMBALINO,
@@ -575,7 +575,7 @@ BO0624_81837,63135,573,8,chi.,860,75.0,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63136,574,532,DUE PIATTI porcellana fondo verde a fiori bian-,861,95.8,False,positional,,,PIATTI,,
 BO0624_81837,63137,575,533,CACHE-POT in bronzo finissimo. Secolo xv.,862,80.6,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63138,576,534,FANALE medio da ingresso in ferro battuto stile,864,95.9,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,63139,577,13,"535.FANALE grande da ingresso in ferro battuto, stile del Sec. XV.",865,97.7,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,63139,577,13,"535.FANALE grande da ingresso in ferro battuto, stile del Sec. XV.",865,97.7,False,positional,,,OGGETTI D'ARTE,,Sec. XV
 BO0624_81837,63140,578,537,"DUE VASI giapponesi fondo verde. 536.ALZATA per frutta, piede in argento, piatto in cri stallo filettato oro.",867,81.8,False,positional,,,VASI,,
 BO0624_81837,63141,579,538,"BRONZO antico cinese, laccato Kuan-ti, Dio del- la guerra in costume militare. E' una delle divirita piu popolari della Cina ed ha templi in ogni citta.E' anche considerato come il Dio del commercio e la sua immagine si trova spesso nal'e",869,89.1,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63142,580,539,"BROCCATELLO rosso, veneziano, bellissimo, Sec. xV1l, alto 0.90, due teli di m. 2.20 piu 3.60 M.5.80.",872,97.9,False,positional,,,OGGETTI D'ARTE,,
@@ -584,20 +584,20 @@ BO0624_81837,63144,582,541,MAGLIARA GIOVANNI Paesaggio con macchiette ver-fixe d
 BO0624_81837,63145,583,542,STATUETTA Dio della longevita porcellana Flambe antica.,875,96.4,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63146,584,543,"BROCCATELLO rosso veneziano, bellissimo, Secolo xV1l, alto 0.90 due teli di m. 5.50 piu 3.30,",876,97.8,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63147,585,544,"SCATOLA in smalto veneziano del Sec. XVIlI, a",878,95.6,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,63148,586,545,"VAsO in smalto azzurro, antico, pezzo di somma importanza. Fu acquistato nel 1882 nella bottega di un villaggio presso le porte Nan-King. Si trogia in una delle Cappelle della famosa pavava goda, conosciuta col nome di (Torre di porcellana la quale venne abbatuta durante la rivolta e le guerre dei Tai-ping nell'anno 1862.1l pregio del vaso consiste oltre che dalla sua provenienza,nella sua aforma rituale,nella vernice a smalto raro pel colore e per la sua unita ed antichita; infine nei simboli che in rilievo si",880,99.6,False,positional,,,ANTICHITA',,
+BO0624_81837,63148,586,545,"VAsO in smalto azzurro, antico, pezzo di somma importanza. Fu acquistato nel 1882 nella bottega di un villaggio presso le porte Nan-King. Si trogia in una delle Cappelle della famosa pavava goda, conosciuta col nome di (Torre di porcellana la quale venne abbatuta durante la rivolta e le guerre dei Tai-ping nell'anno 1862.1l pregio del vaso consiste oltre che dalla sua provenienza,nella sua aforma rituale,nella vernice a smalto raro pel colore e per la sua unita ed antichita; infine nei simboli che in rilievo si",880,99.6,False,positional,,,ANTICHITA',,Sec. XIX
 BO0624_81837,63149,587,546,"DUE VASI e GIARDINIERA splendido servizio in porcellana marcata di Sevres con finissima decorazione e medaglioni, rappresentanti Episodi di Napoleone I.",882,98.7,False,positional,,,VASI,,
 BO0624_81837,63150,588,547,"BOUREAU con alzata e vetri, veneziano, laccato, finissimo, epoca Louix XIv, assai importante.",883,97.8,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63151,589,548,SCUOLA VENETA DEL SEC.XVIII.La strage,887,94.9,False,positional,,Scuola Veneta,QUADRI ANTICHI,,
 BO0624_81837,63152,590,2,549.BASSANO LEANDRO SEC.XVI Ritratto d'uo-,888,97.6,False,positional,BASSANO GIACOMO,,QUADRI ANTICHI,,
 BO0624_81837,63153,591,3,"degl'Innocenti, buon dipinto su tavola in cornice dorata 35x40.",889,98.4,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63154,592,4,mo ottimo dipinto su tela in cornice dorata 58x46.,890,98.0,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63155,593,551,"SCUOLA DI TIZIANO VECELLIO SEC. XV e XVI Giuditta bel dipinto di robusto disegno e colorito,tela in cornice dorata 1,12 x 92. ROMANINO GEROLAMO SEC. XVI Paggio e Guerriero, splendido dipinto vigoroso di disegno e colorito,tavola in cornice scolpita e dorata 48×39.",892,68.3,False,positional,TIZIANO VECELLIO,Scuola di Tiziano,QUADRI ANTICHI,,
+BO0624_81837,63155,593,551,"SCUOLA DI TIZIANO VECELLIO SEC. XV e XVI Giuditta bel dipinto di robusto disegno e colorito,tela in cornice dorata 1,12 x 92. ROMANINO GEROLAMO SEC. XVI Paggio e Guerriero, splendido dipinto vigoroso di disegno e colorito,tavola in cornice scolpita e dorata 48×39.",892,68.3,False,positional,TIZIANO VECELLIO,Scuola di Tiziano,QUADRI ANTICHI,,Sec. XV
 BO0624_81837,63156,594,552,"MORALES L. Sec.XVII Cristo deriso, le influenze del Velasquez sono evidenti in questo dipinto ed anche quelle del Grego, e interessantissimo per chi si occupa di pittura spagnuola, tela in cornice1.14x84.",893,99.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63157,595,553,"PITTONI GIOV.BATTA SEC.XVIlI Guardircaccia,bel dipinto su tela in cornice nera a sbalzo88x1,10.",894,97.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63158,596,555,"VACCA ANGIOLO SEC XVIlI Ciarlatani alla fiera,caratteristico dipinto,tela frmato,in cornice dorata 1,88 x 1,37. 554.CALIARI PAOLO DETTO IL VERONESE SEC. xVI Adorazione dei Magi dipinto di vigoroso disegno e colorito su tela in cornice dorata 1,05x1,15.",896,71.8,False,positional,PAOLO VERONESE,,QUADRI ANTICHI,,
-BO0624_81837,63159,597,556,"SALIMBENI ARCANGELO SEC. XVI Madonna col Bambino e Santi, buon dipinto su tela in cornice dorata 1,15x 89.",897,98.1,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63160,598,557,"GOBBO DEI CARACCI SEC. XVII Fiori e Frutta, due splendidi dipinti su tela in cornice salvadora 81 x 40.",899,79.0,False,positional,CARRACCI,,QUADRI ANTICHI,,
-BO0624_81837,63161,599,558,"PIAZZETTA GIOV. BATTA SEC.XVIII Venditrice di frutta,morbido,simpatico dipinto,tela in cornice dorata 72 x 53.",900,98.2,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,63159,597,556,"SALIMBENI ARCANGELO SEC. XVI Madonna col Bambino e Santi, buon dipinto su tela in cornice dorata 1,15x 89.",897,98.1,False,positional,,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81837,63160,598,557,"GOBBO DEI CARACCI SEC. XVII Fiori e Frutta, due splendidi dipinti su tela in cornice salvadora 81 x 40.",899,79.0,False,positional,CARRACCI,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81837,63161,599,558,"PIAZZETTA GIOV. BATTA SEC.XVIII Venditrice di frutta,morbido,simpatico dipinto,tela in cornice dorata 72 x 53.",900,98.2,False,positional,PIAZZETTA JEAN-BAPTISTE,,QUADRI ANTICHI,,
 BO0624_81837,63162,600,559,SCUOLA DEL REMBRANDT SEC.XVII Ritrat-,901,94.7,False,positional,REMBRANDT VAN RIJN,,QUADRI ANTICHI,,
 BO0624_81837,63163,601,6,"to di vecchio,magnifico dipinto di una straordinaria forza di disno e colorito, tela in cornice",902,98.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63164,602,7,nera a sbalzo.69 x 75. Vedi Illustrazione N. 35.,903,97.8,False,positional,,,QUADRI ANTICHI,,
@@ -607,16 +607,16 @@ BO0624_81837,63167,605,10,"561.GALLI FERDINANDO DETTO IL BIBBIENA SEC.XVll E XVI
 BO0624_81837,63168,606,11,"562.GALLI FERDINANDO DETTO IL BIBBIENA SEC. xVll E XVIll Navata di chiesa con scena religiosa, magnifico dipinto pendent dal precedente.",907,98.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63169,607,563,"PERUGINO PIETRO SEC.XV Madonna in trono e S. Giovannino, fondo paese, pregevolissima tavola di somma grazia di espressione e di colorito, in cornice antica 87 x 63. Vedi Illustrazione N.39.",911,98.9,False,positional,"VANUCCI PIETRO, PERUGINO",,QUADRI ANTICHI,,
 BO0624_81837,63170,608,564,"LONGHI ALESSANDRO SEC.XVIII Ritratto della Marchesa Zondada,superbo dipinto d'incomparabile finezza di esecuzione, tela in cornice dorata 70x 85.",912,98.6,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63171,609,565,"LONGHI ALESSANDRO SEC. XVIII Ritratto del Marchese Franco Zondada, superbo dipinto pendent del precedente 70 x 85. Vedi Illustrazione N. 41. VAN DER NEER ARNALDO SEC.XVII. Paesaggio lunare, non esitiamo a considerare questo quadro come uno dei piu forti e piu riusciti dell'insigne Maestro olandese, pochi possono stargli al pari per la grande trasparenza delle tinte,per la vaghezza delle luci;ha poi il pregio di non essere troppo scuro come le altre opere di Lui;non solo e di un'autenticita indiscutibile ma lo riteniamo uno dei suoi capolavori, tavola in cornice nera 65×50.",916,86.5,False,positional,VAN DER NEER A.,,QUADRI ANTICHI,,
-BO0624_81837,63172,610,566,"CALIARI PAOLO DETTO IL VERONESE SECOLO XVI Ritratto di nobildonna veneziana superbo dipinto su tela,opera magistrale degna di Galleria,cornice dorata 1.00x75. Vedi Illustrazione N. 42.",917,98.9,False,positional,PAOLO VERONESE,,QUADRI ANTICHI,,
-BO0624_81837,63173,611,569,STROZZI BERNARDO SEC. XVII Il figliuol prodigo bellissimo dipinto per colore e per forza,921,97.8,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63174,612,568,"GOBBO DEI CARACCI SEC. XVII Frutta e fiori due dipinti di splendida fattura e colorito tela in cornice nera e oro 1,30 x 1,00.",922,98.4,False,positional,CARRACCI,,QUADRI ANTICHI,,
+BO0624_81837,63171,609,565,"LONGHI ALESSANDRO SEC. XVIII Ritratto del Marchese Franco Zondada, superbo dipinto pendent del precedente 70 x 85. Vedi Illustrazione N. 41. VAN DER NEER ARNALDO SEC.XVII. Paesaggio lunare, non esitiamo a considerare questo quadro come uno dei piu forti e piu riusciti dell'insigne Maestro olandese, pochi possono stargli al pari per la grande trasparenza delle tinte,per la vaghezza delle luci;ha poi il pregio di non essere troppo scuro come le altre opere di Lui;non solo e di un'autenticita indiscutibile ma lo riteniamo uno dei suoi capolavori, tavola in cornice nera 65×50.",916,86.5,False,positional,VAN DER NEER A.,,QUADRI ANTICHI,,Sec. XVIII
+BO0624_81837,63172,610,566,"CALIARI PAOLO DETTO IL VERONESE SECOLO XVI Ritratto di nobildonna veneziana superbo dipinto su tela,opera magistrale degna di Galleria,cornice dorata 1.00x75. Vedi Illustrazione N. 42.",917,98.9,False,positional,PAOLO VERONESE,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81837,63173,611,569,STROZZI BERNARDO SEC. XVII Il figliuol prodigo bellissimo dipinto per colore e per forza,921,97.8,False,positional,,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81837,63174,612,568,"GOBBO DEI CARACCI SEC. XVII Frutta e fiori due dipinti di splendida fattura e colorito tela in cornice nera e oro 1,30 x 1,00.",922,98.4,False,positional,CARRACCI,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,63175,613,3,"pittorica,tela in cornice dorata 98x1.35.",923,97.6,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63176,614,570,"STRUTTZ W SEC.XVII Ritratto di Lord Chesterlfield,ottimo dipinto su tela in cornice dorata 80x65.",924,98.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63177,615,571,"MUZZIOLI GIOVANNI Scena romana, calda e",928,95.0,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,63178,616,2,"572.ZATTERN IDO Vita veneziana del 7O0, grazioso dipinto firmato,in cornice dorata 13 x 17.",929,98.9,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,63179,617,3,"vivace impressione,tavoletta garantita del grande artista in cornice nera 20x 10.",930,98.8,False,positional,,,QUADRI MODERNI,,
-BO0624_81837,63180,618,573,ZATTERN IDO In Piazzetta S. Marco gra- zioso dipinto pendent del precedente.,932,66.7,False,positional,,,QUADRI MODERNI,,
+BO0624_81837,63180,618,573,ZATTERN IDO In Piazzetta S. Marco gra- zioso dipinto pendent del precedente.,932,66.7,False,positional,PIAZZETTA JEAN-BAPTISTE,,QUADRI MODERNI,,
 BO0624_81837,63181,619,574,"FEDERICO MICHELE Marina con barche da pesca,effetto di luce,dipinto su tela, firmato.in cornice dorata 38x25.",933,98.2,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,63182,620,2,"575.PELLEGRINI RICCARDO I Serpari,finissimo acquerello,firmato,montato all'inglese 22 x 32.",934,98.9,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,63183,621,576,"ROTTA ANTONIO Vizio precoce accurato, caratteristico dipinto di questo illustre artista,assai raro e ricercato,tavoletta firmata in cornice dorata 26x33.",935,98.7,False,positional,,,QUADRI MODERNI,,
@@ -642,9 +642,9 @@ BO0624_81837,63202,640,594,"VASETTO Cloisonne fondo bianco, graziosa decorazione
 BO0624_81837,63203,641,5,595.GIARDINIERA,969,93.8,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63204,642,6,"in maiolica di Lodi,",970,95.0,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63205,643,7,epoca Louix XIV.,971,93.8,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,63206,644,596,URNA in bronzo del Sec. XVI. oggetto di scavo con internamente scritto (offerte》. Vedi Illustrazione N. 54.,972,98.0,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,63206,644,596,URNA in bronzo del Sec. XVI. oggetto di scavo con internamente scritto (offerte》. Vedi Illustrazione N. 54.,972,98.0,False,positional,,,OGGETTI D'ARTE,,Sec. XVI
 BO0624_81837,63207,645,597,"STATUETTA Dio della lunga vita, scolpito in un tronco di bambou. 597 bis. BARTOLOZZI FRANCESCO Maria Madda",973,73.4,False,positional,,,OGGETTI D'ARTE,,
-BO0624_81837,63208,646,598,"PIATTO in bronzo sbalzato Sec. XVI. lena,bella stampa colorata in cornice.",976,68.5,False,positional,,,OGGETTI D'ARTE,,
+BO0624_81837,63208,646,598,"PIATTO in bronzo sbalzato Sec. XVI. lena,bella stampa colorata in cornice.",976,68.5,False,positional,,,OGGETTI D'ARTE,,Sec. XVI
 BO0624_81837,63209,647,599,"MIGLIARA G.Dal parroco finissima, splendida",977,95.5,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63210,648,14,miniatura in cornice metallo.,978,94.9,False,positional,,,MINIATURE,,
 BO0624_81837,63211,649,15,"600.BROCCATELLO rosso veneziano,belissimo,Secolo XV1l, alto 0.90, due teli di m.3 piu 3.30 M.6.30.",979,98.4,False,positional,,,OGGETTI D'ARTE,,
@@ -661,31 +661,31 @@ BO0624_81837,63221,659,607,"VAsO Coreano in terraglia antica,pezzo interessantis
 BO0624_81837,63222,660,608,"PIATTO maiolica Ispano-Araba,Sec.XVI",995,94.7,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63223,661,609,PIATTO uguale al precedente.,996,93.1,False,positional,,,OGGETTI D'ARTE,,
 BO0624_81837,63224,662,610,DUE CANDELABRI in argento a tre candele,997,95.1,False,positional,,,CANDELABRI,,
-BO0624_81837,63225,663,611,GOYA FRANCESCO 1766-1828 Ritratto di dama buon dipinto firmato in cornice dorata 81x 69.,1001,97.8,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,63225,663,611,GOYA FRANCESCO 1766-1828 Ritratto di dama buon dipinto firmato in cornice dorata 81x 69.,1001,97.8,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,63226,664,2,612.METZU GABRIELE SEC. XVIl Interni con fi-,1002,97.7,False,positional,METSU GABRIEL,,QUADRI ANTICHI,,
 BO0624_81837,63227,665,3,gure due buoni dipinti su tavola in cornice veneziana 56x45.,1003,98.3,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63228,666,613,"WOUWERMANS FILIPPO SEC. XVII. Episo- dio di caccia, finissimo dipinto, di squisito colori to,tavola in cornice dorata 37 x 43.",1005,83.7,False,positional,WOUWERMAN PHILIPS,,QUADRI ANTICHI,,
-BO0624_81837,63229,667,614,"SALVI GIOV.BATTISTA DETTO IL SASSOspressione, corretto il disegno,tela in cornice FERRATO SEC.XVII. Madonna stupendo dipinto nel suo contrasto di luce e d'ombra, soave l'edorata 51x67.",1007,71.2,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63230,668,615,"SCUOLA FRANCESE SEC. XVIII. Ritratto d'uo- mo,simpatico dipinto su tela in cornice dorata 42×57.",1009,72.6,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,63228,666,613,"WOUWERMANS FILIPPO SEC. XVII. Episo- dio di caccia, finissimo dipinto, di squisito colori to,tavola in cornice dorata 37 x 43.",1005,83.7,False,positional,WOUWERMAN PHILIPS,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81837,63229,667,614,"SALVI GIOV.BATTISTA DETTO IL SASSOspressione, corretto il disegno,tela in cornice FERRATO SEC.XVII. Madonna stupendo dipinto nel suo contrasto di luce e d'ombra, soave l'edorata 51x67.",1007,71.2,False,positional,"SASSOFERRATO, GIOV. BATTISTA SALVI",,QUADRI ANTICHI,,
+BO0624_81837,63230,668,615,"SCUOLA FRANCESE SEC. XVIII. Ritratto d'uo- mo,simpatico dipinto su tela in cornice dorata 42×57.",1009,72.6,False,positional,,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,63231,669,616,VERNET ORACE SEC.XVIlI e XIX Calesse con,1010,95.2,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63232,670,11,sotdato napoleonico finissimo e interessante dipinto tela firmata in cornice nera 34x50. Vedi Illustrazione N. 44.,1011,98.7,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63233,671,12,"617.LEMS EDUARDS SEC. XIx Paesaggio presso Nency, bel dipinto su tela datato 1897 in cornice 70x58.",1012,98.5,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63234,672,618,SCUOLA DI GIOTTO SEC. XIV Gli emblemi della Passione importantissimo dipinto su tavola in cornice 78x52.,1013,89.0,False,positional,,Scuola di Giotto,QUADRI ANTICHI,,
-BO0624_81837,63235,673,619,"RUBENS PIETRO PAOLO SEC. XVI e XVII simo insieme e forte di colore, tela in cornice ne- Il convito di Erodiade spigliato dipinto di gustosisra a sbalzo 47x36.",1015,69.4,False,positional,RUBENS PETER PAUL,Scuola di Rubens,QUADRI ANTICHI,,
-BO0624_81837,63236,674,620,LONGHI PIETRO SEC. XVIII Dopo il pranzo graziosissimo dipinto su tela in cornice dorata 49×60.,1020,97.9,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63237,675,621,"GUARDI FRANCESCO SEC.XVIII Veduta della Piazzetta di S. Marco,impressione,vero piccolo gioiello,proviene dalla Galleria Colbacchini di Bassano veneto, in cornice dorata 35 x 25. DERK HALS SEC. XVII Bevitore, magistrale dipinto di questo artista figlio del grande Franz, tela in cornice dorata 73x 56. GUARDI FRANCESCO SEC.XVIII.Veduta della Piazzetta di S. Marco, impressione, pendent della precedente.",1021,61.2,False,positional,BASSANO GIACOMO,,QUADRI ANTICHI,,
+BO0624_81837,63233,671,12,"617.LEMS EDUARDS SEC. XIx Paesaggio presso Nency, bel dipinto su tela datato 1897 in cornice 70x58.",1012,98.5,False,positional,,,QUADRI ANTICHI,,Sec. XIX
+BO0624_81837,63234,672,618,SCUOLA DI GIOTTO SEC. XIV Gli emblemi della Passione importantissimo dipinto su tavola in cornice 78x52.,1013,89.0,False,positional,,Scuola di Giotto,QUADRI ANTICHI,,Sec. XIV
+BO0624_81837,63235,673,619,"RUBENS PIETRO PAOLO SEC. XVI e XVII simo insieme e forte di colore, tela in cornice ne- Il convito di Erodiade spigliato dipinto di gustosisra a sbalzo 47x36.",1015,69.4,False,positional,RUBENS PETER PAUL,Scuola di Rubens,QUADRI ANTICHI,,Sec. XVI
+BO0624_81837,63236,674,620,LONGHI PIETRO SEC. XVIII Dopo il pranzo graziosissimo dipinto su tela in cornice dorata 49×60.,1020,97.9,False,positional,LONGHI PIETRO,,QUADRI ANTICHI,,Sec. XVIII
+BO0624_81837,63237,675,621,"GUARDI FRANCESCO SEC.XVIII Veduta della Piazzetta di S. Marco,impressione,vero piccolo gioiello,proviene dalla Galleria Colbacchini di Bassano veneto, in cornice dorata 35 x 25. DERK HALS SEC. XVII Bevitore, magistrale dipinto di questo artista figlio del grande Franz, tela in cornice dorata 73x 56. GUARDI FRANCESCO SEC.XVIII.Veduta della Piazzetta di S. Marco, impressione, pendent della precedente.",1021,61.2,False,positional,BASSANO GIACOMO,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,63238,676,624,PITTONI GIOV.BATTISTA Nascita della Madonna delicato dipinto di bella composizione cormenti cornice dorata 1.30 x 88.,1024,98.3,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63239,677,5,dipinto di finissima esecuzione e di vivace coloriVedi 1llustrazione N. 46.,1025,98.6,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63240,678,6,"625.VAN HUYSUM GIOVANNI SEC. XVIII Fiori to, tela in cornice dorata 1.21 x 80.",1026,98.7,False,positional,VAN HUYSUM JAN,,QUADRI ANTICHI,,
-BO0624_81837,63241,679,626,VAN HUYSUM GIOVANNI SEC. XVIII Fiori dipinto pendent del precedente. Vedi Illustrazione N. 47.,1027,97.8,False,positional,VAN HUYSUM JAN,,QUADRI ANTICHI,,
+BO0624_81837,63240,678,6,"625.VAN HUYSUM GIOVANNI SEC. XVIII Fiori to, tela in cornice dorata 1.21 x 80.",1026,98.7,False,positional,VAN HUYSUM JAN,,QUADRI ANTICHI,,Sec. XVIII
+BO0624_81837,63241,679,626,VAN HUYSUM GIOVANNI SEC. XVIII Fiori dipinto pendent del precedente. Vedi Illustrazione N. 47.,1027,97.8,False,positional,VAN HUYSUM JAN,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,63242,680,627,"MENGS RAFFAELLO SEC.XVIHI Ritratto di Maria Luisa Granduchessa di Toscana,splendido dipinto di elegante fattura,delicato di colorito e fine nel disegno,tela firmata in cornice dorat 95x 79.",1031,98.9,False,positional,MENGS RAPHAEL,,QUADRI ANTICHI,,
 BO0624_81837,63243,681,628,"PALMA JACOPO DETTO IL VECCHIO.SEC. XVI Ritratto di giovane donna,uno dei piu belli, piu suggestivi, piu ideali ritratti del grande Maestro,tavola in cornice 70x54. Vedi Illustrazione N. 49.",1032,98.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63244,682,3,rata 1.10 x75.,1033,92.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63245,683,4,"629.ROUGE'JAQUES SEC.XVIII Ritratto della Duchessa di Parma,chiaro finissimo dipinto di maraviglioso disegno;il Rouge fu allievo del Dupre,e fuggi di Francia all'epoca della rivoluzione stabilendosi alla Corte di Parma,tela in cornice do",1034,99.6,False,positional,DUPRE JULES,,QUADRI ANTICHI,,
-BO0624_81837,63246,684,630,"BEALE MARY SEC. XVII Ritratto di dama. vaporoso dipinto di suggestiva eleganza di disegno e di tocco, tela in cornice dorata 59 x 75. Vedi llustrazione N. 51.",1037,98.7,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,63246,684,630,"BEALE MARY SEC. XVII Ritratto di dama. vaporoso dipinto di suggestiva eleganza di disegno e di tocco, tela in cornice dorata 59 x 75. Vedi llustrazione N. 51.",1037,98.7,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,63247,685,631,"TIEPOLO DOMENICO SEC. XVIHI S. Caterina splendido dipinto che i piu hanno assegnato per la perfezione del disegno e la delicatezza delle tinte al primo periodo del grande Giov. Battista, tela in cornice dorata 96 x 74.",1038,99.1,False,positional,TIEPOLO DOMENICO,,QUADRI ANTICHI,,
-BO0624_81837,63248,686,632,"RENI GUIDO SEC. XVI e XVII Evangelista, stupendo dipinto vigorosamente disegnato e colorito, tela in cornice dorata 72x60. Vedi Illustrazione N. 53.",1042,98.6,False,positional,GUIDO RENI,,QUADRI ANTICHI,,
-BO0624_81837,63249,687,633,DE MURA FRANCESCO DETTO FRANCESCHIELLO SEC. XVII S. Francesco magnifico dipinto su tela in cornice dorata 1.02 x 1.25.,1043,98.3,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,63248,686,632,"RENI GUIDO SEC. XVI e XVII Evangelista, stupendo dipinto vigorosamente disegnato e colorito, tela in cornice dorata 72x60. Vedi Illustrazione N. 53.",1042,98.6,False,positional,GUIDO RENI,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81837,63249,687,633,DE MURA FRANCESCO DETTO FRANCESCHIELLO SEC. XVII S. Francesco magnifico dipinto su tela in cornice dorata 1.02 x 1.25.,1043,98.3,False,positional,,,QUADRI ANTICHI,,Sec. XVII
 BO0624_81837,63250,688,634,"LOTTO LORENZO SEC.XVI Ritratto di monaco dipinto su tela di bella fattura,in cornice dorata 1.28×96.",1044,98.0,False,positional,LORENZO LOTTO,,QUADRI ANTICHI,,
 BO0624_81837,63251,689,635,"BENVENUTI GIOV.BATTA DETTOL'ORTOLANO SEC. xVI La deposizione della Croce, fondo paese, splendida composizione di ricco e bene armonizzato colorito,tela in cornice antica edorata 1.50×1.00",1045,98.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63252,690,636,"LANZA LUIGI Cigno nell'acqua delizioso dipinto,firmato,in cornice dorata 31x 23.",1049,97.5,False,positional,,,QUADRI MODERNI,,
@@ -711,7 +711,7 @@ BO0624_81837,63271,709,654,"GALLI ALFREDO Bivigliano,ottimo pastello firmato in 
 BO0624_81837,63272,710,655,"COLIO MICHELE Marina al tramonto con pescu tori, buon acquerello,firmato,in cornice 40x55.",1078,97.8,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,63273,711,656,COLONNA a serpente in marmo verde di Prato.,1085,95.5,False,positional,,,OGGETTID'ARTE,,
 BO0624_81837,63274,712,657,"MINIATURA su avorio Dama in costume del Secolo XVill finissima, eseguita dalla Zini, in cor- nicetta legno dorato.",1086,87.7,False,positional,,,MINIATURE,,
-BO0624_81837,63275,713,658,"STATUETTA in bronzo David dal Donatello,bella patina. PIATTO piccolo maiolica Ispano-Araba, Sec.XVI. TAPPETO di Damasco ricamato in oro Sec. XVII.",1088,52.8,False,title_direct,,,TAPPETI,,
+BO0624_81837,63275,713,658,"STATUETTA in bronzo David dal Donatello,bella patina. PIATTO piccolo maiolica Ispano-Araba, Sec.XVI. TAPPETO di Damasco ricamato in oro Sec. XVII.",1088,52.8,False,title_direct,,,TAPPETI,,Sec. XVII
 BO0624_81837,63276,714,661,ORCIO fondo bianco decorazioni di pampani e stemirna.,1091,86.9,False,positional,,,OGGETTID'ARTE,,
 BO0624_81837,63277,715,662,"LOTTO di m. 41 broccatello fondo oro vecchio,a ramages verde.",1093,83.3,False,positional,,,OGGETTID'ARTE,,
 BO0624_81837,63278,716,663,PORTAUOVA con cucchiaini in argento gm. 190.,1095,95.5,False,positional,,,OGGETTID'ARTE,,
@@ -728,17 +728,17 @@ BO0624_81837,63288,726,672,"sTATUFTTA in antico hronzo cinese laccato, raffigura
 BO0624_81837,63289,727,673,"BRONZO Cloisonne Animale con idolo,bellissimo pezzo. Vedi Illustrazione N. 65.",1107,78.5,False,positional,,,OGGETTID'ARTE,,
 BO0624_81837,63290,728,674,"PIATTO Cloisonne, splendido,fine del Sec.XV. Vedi Illustrazione N. 64.",1109,75.0,False,positional,,,OGGETTID'ARTE,,
 BO0624_81837,63291,729,675,SERVIZIO da toilette porcellana di Canton.,1111,95.3,False,positional,,,OGGETTI VARI,,
-BO0624_81837,63292,730,13,"677.PARAVENTO laccato,Arte Veneziana del Secolo XVIII.",1112,97.2,False,positional,,,OGGETTID'ARTE,,
+BO0624_81837,63292,730,13,"677.PARAVENTO laccato,Arte Veneziana del Secolo XVIII.",1112,97.2,False,positional,,,OGGETTID'ARTE,,Sec. XVIII
 BO0624_81837,63293,731,14,676.JATTE Louis XVI in argento gm.2275.,1113,96.2,False,positional,,,OGGETTID'ARTE,,
-BO0624_81837,63294,732,678,"CALIARI PAOLO DETTO IL VERONSE,SECOLO XVI Diana mirabile dipinto di ottimo disegno e di simpatico colorito,tela,firmata in cor-",1117,98.4,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63295,733,679,"SCUOLA DI PIETRO LONGHI SEC.XVIII II giuoco delle carte,magnifico dipinto su tela in",1119,97.7,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63296,734,680,"SCUOLA DI PIETRO LONGHI SEC.XVIII. Prima della mascherata,pendent del precedente.",1121,97.5,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,63294,732,678,"CALIARI PAOLO DETTO IL VERONSE,SECOLO XVI Diana mirabile dipinto di ottimo disegno e di simpatico colorito,tela,firmata in cor-",1117,98.4,False,positional,,,QUADRI ANTICHI,,Sec. XVI
+BO0624_81837,63295,733,679,"SCUOLA DI PIETRO LONGHI SEC.XVIII II giuoco delle carte,magnifico dipinto su tela in",1119,97.7,False,positional,LONGHI PIETRO,,QUADRI ANTICHI,,
+BO0624_81837,63296,734,680,"SCUOLA DI PIETRO LONGHI SEC.XVIII. Prima della mascherata,pendent del precedente.",1121,97.5,False,positional,LONGHI PIETRO,,QUADRI ANTICHI,,
 BO0624_81837,63297,735,681,"SCUOLA TOSCANA DEL SEC.XV S.Antonio, interessante dipinto a tempera in cornice dorata 73×49.",1122,97.8,False,positional,,Scuola Toscana,QUADRI ANTICHI,,
-BO0624_81837,63298,736,682,SCUOLA VENEZIANA DEL SEC. XVIII Ri- tratto di dama ottimo dipinto su tela in cornice dorata 96x73.,1124,78.5,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,
+BO0624_81837,63298,736,682,SCUOLA VENEZIANA DEL SEC. XVIII Ri- tratto di dama ottimo dipinto su tela in cornice dorata 96x73.,1124,78.5,False,positional,,Scuola Veneziana,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,63299,737,683,"SCUOLA TOSCANA DEL SEC.XIV Madonna col Bambino,notevole dipinto fondo oro in cor- nice 63 × 83.",1125,91.4,False,positional,,Scuola Toscana,QUADRI ANTICHI,,
 BO0624_81837,63300,738,684,"BORDONE PARIDE SEC.XVI Ritratto di archeologo bel dipinto ottimamente disegnato, tela in cornice scolpita e dorata 1.o0x75.",1127,98.4,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63301,739,685,"FRANCUCCI INNOCENZO DETTO INNOCENZO DA IMOLA SEC.XVI.Sposalizio di S. Caterina,magnifico dipinto su tavola,di corretto disegno e d'armonioso,vivace colorito,fondo di paese,cornice dorata 37 x 45.",1128,99.0,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63302,740,686,"BASSANO LEANDRO SEC. XVI. Uno sposalizio soggetto eminentemente giorgionesco del migliore periodo dell'artista,in cornice dorata",1129,98.4,False,positional,BASSANO GIACOMO,,QUADRI ANTICHI,,
+BO0624_81837,63302,740,686,"BASSANO LEANDRO SEC. XVI. Uno sposalizio soggetto eminentemente giorgionesco del migliore periodo dell'artista,in cornice dorata",1129,98.4,False,positional,BASSANO GIACOMO,,QUADRI ANTICHI,,Sec. XVI
 BO0624_81837,63303,741,8,"87×1,12.",1130,87.5,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63304,742,9,"687.BONVICINO ALESSANDRO DETTO IL MORETTO DI BRESCIA SEC.XVI Rtratto di gentiluomo,splendido dipinto magnificamente disegnato e di robusta fattura,tela in cornice do-",1131,99.4,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63305,743,10,rata 106 x 80.,1132,89.7,False,positional,,,QUADRI ANTICHI,,
@@ -746,10 +746,10 @@ BO0624_81837,63306,744,688,"ROOS FILIPPO DETTO ROSA DA TIVOLI SEC. XVll Armeni,d
 BO0624_81837,63307,745,689,MICHELE DA VERONA SEC.XVI La crocefis-,1138,94.9,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63308,746,690,"LOTTO LORENZO SEC.XVI Ritratto di Jacop Zabarella,meraviglioso dipinto di corretto disegno, tela in cornice antica veneziana 1.85x85.",1140,98.5,False,positional,LORENZO LOTTO,,QUADRI ANTICHI,,
 BO0624_81837,63309,747,691,"BOUCHER FRANCESCO SEC. XVIHI Il trionfo di Galatea,quadro di composizione ed esecuzione bellissima probabilmente eseguito a Roma durante la dimora dell'artista nella Citta eterna, esiste il disegno del Maestro nel Gabinetto delle stampe al Louvre di Parigi,proviene dalla Galleria del Principe Gabrielli di Roma, tela in cornice 50x68. Vedi Illustrazione N.57.",1141,99.4,False,positional,BOUCHER FRANCOIS,,STAMPE E INCISIONI,,
-BO0624_81837,63310,748,692,"MIREVELT MICHELE SEC. XVII Ritratto di dama,e ammirevole questo dipinto per l'eleganza del disegno e la finitezza dell'esecuzione, tela in cornice nera a sbalzo e oro 94x68. Vedi Illustrazione N. 58.",1142,99.0,False,positional,MIEREVELT MICHEL JANSON,,QUADRI ANTICHI,,
-BO0624_81837,63311,749,693,"UGOLINI AUGUSTO 1815 Madonna col Bambino, Santo e Angeli pala d'altare,splendida composizione dai ricchi e vivaci colori magnificamente disegnata in ogni particolare, tela firmata e datata, in cornice dorata 2,06x 135. Vedi Illustrazione N. 59.",1143,99.2,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63312,750,694,"LONGHI PIETRO SEC. XVIII. La portatrice di pane,grazioso, simpaticissimo dipinto, tela in cor- nice scolpita e dorata 95x62. Vedi Illustrazione N, 60.",1144,75.7,False,positional,,,QUADRI ANTICHI,,
-BO0624_81837,63313,751,695,"TORI ANGIOLO DETTO IL BRONZINO SECOLO XVI. Ritratto di Vittoria Colonna, notevole dipinto su tavola di finissima esecuzione,in cornice dorata 62×48. Vedi Illustrazione N. 61.",1146,98.8,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,63310,748,692,"MIREVELT MICHELE SEC. XVII Ritratto di dama,e ammirevole questo dipinto per l'eleganza del disegno e la finitezza dell'esecuzione, tela in cornice nera a sbalzo e oro 94x68. Vedi Illustrazione N. 58.",1142,99.0,False,positional,MIEREVELT MICHEL JANSON,,QUADRI ANTICHI,,Sec. XVII
+BO0624_81837,63311,749,693,"UGOLINI AUGUSTO 1815 Madonna col Bambino, Santo e Angeli pala d'altare,splendida composizione dai ricchi e vivaci colori magnificamente disegnata in ogni particolare, tela firmata e datata, in cornice dorata 2,06x 135. Vedi Illustrazione N. 59.",1143,99.2,False,positional,,,QUADRI ANTICHI,,Sec. XIX
+BO0624_81837,63312,750,694,"LONGHI PIETRO SEC. XVIII. La portatrice di pane,grazioso, simpaticissimo dipinto, tela in cor- nice scolpita e dorata 95x62. Vedi Illustrazione N, 60.",1144,75.7,False,positional,LONGHI PIETRO,,QUADRI ANTICHI,,Sec. XVIII
+BO0624_81837,63313,751,695,"TORI ANGIOLO DETTO IL BRONZINO SECOLO XVI. Ritratto di Vittoria Colonna, notevole dipinto su tavola di finissima esecuzione,in cornice dorata 62×48. Vedi Illustrazione N. 61.",1146,98.8,False,positional,"BRONZINO, AGNOLO DI COSIMO",,QUADRI ANTICHI,,Sec. XVI
 BO0624_81837,63314,752,696,"RICCI SEBASTIANO SEC.XVIII La nascita del corallo,bellissimo dipinto di fresco colorito, tavola in cornice dorata 53x71.",1148,78.6,False,positional,SEBASTIANO RICCI,,QUADRI ANTICHI,,
 BO0624_81837,63315,753,697,"MAZZUOLA FRANCESCO DETTO IL PARMIGIANINO SEC. xVI Sacra Famiglia squisito dipinto di bella composizione,ammirevole per disegno, finezza di tocco e grazia di colorito,tela in cornice veneziana 47×36. Vedi Illustrazione N. 62.",1149,99.1,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63316,754,698,"MIGNARD PIETRO IL ROMANO SEC.VII Ri- tratto di giovanetta,stupendo dipinto su tela in cornice dell'epoca 83x62.",1151,80.4,False,positional,MIGNARD PIERRE,,QUADRI ANTICHI,,
@@ -757,7 +757,7 @@ BO0624_81837,63317,755,699,"SCUOLA FRANCESE DEL SEC.XVIII. Ritratto di dama fine
 BO0624_81837,63318,756,4,700.ROBUSTI JACOPO DETTO IL TINTORETTO,1153,97.4,False,positional,TINTORETTO,,QUADRI ANTICHI,,
 BO0624_81837,63319,757,5,"SEC. xVI. Il sacrificio d'Isacco, fondo paese, vigoroso dipinto,tela in cornice scolpita e dorata 59×51.",1154,99.0,False,positional,,,QUADRI ANTICHI,,
 BO0624_81837,63320,758,6,701.DA PONTE JACOPO DETTO IL BASSANO SEC.XVI Ritratto virile eccellente dipinto su tela in cornice antica scolpita e dorata 1x72.,1155,99.2,False,positional,BASSANO GIACOMO,,QUADRI ANTICHI,,
-BO0624_81837,63321,759,702,"SCUOLA DI PIETRO LONGHI SEC. XVIII Arlecchino e dama,magnifico dipinto su tela in cornice dorata 69x85.",1156,98.1,False,positional,,,QUADRI ANTICHI,,
+BO0624_81837,63321,759,702,"SCUOLA DI PIETRO LONGHI SEC. XVIII Arlecchino e dama,magnifico dipinto su tela in cornice dorata 69x85.",1156,98.1,False,positional,LONGHI PIETRO,,QUADRI ANTICHI,,Sec. XVIII
 BO0624_81837,63322,760,703,"PRATELLA ATTILIO Pescatori,delizioso boz- zetto, firmato,in cornice nera 14x19.",1160,66.7,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,63323,761,704,"ZOPPI ANTONIO Lavandaie al torrente,buon dipinto,firmato,tavoletta in cornice nera 21x32.",1162,97.8,False,positional,,,QUADRI MODERNI,,
 BO0624_81837,63324,762,705,"PELLICCIOTTI T.I Nornadi finissimo dipinto su tavoleta,firmato,in cornice dorata 22x32.",1163,97.7,False,positional,,,QUADRI MODERNI,,

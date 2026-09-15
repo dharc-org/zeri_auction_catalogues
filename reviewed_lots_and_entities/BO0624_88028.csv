@@ -1,8 +1,8 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88028,268260,1,3,Der Holzfaller. Bekannte Komposition des Meisters. Leinw. 131/101 Bezeichnet rechts unten: 1910 F. Hodler. Siehe Abbildung Tafel l.,23,99.2,False,none,,,,,
-BO0624_88028,268261,2,4,"Der Herbstbaum. Im Gebirge steht ein einsamer, herbstlich gefarbter Kastanienbaum.Leinw.6248 Bezeichnet rechts unten:1905 F. Hodler. Siehe AbbildungTafel Ill.",24,99.4,False,none,,,,,
-BO0624_88028,268262,3,5,"Eurythmie. Schreitender Mann in langem weissem Gewand. Leinw. 33,5/25 Rechts bezeichnet: F. Hodler 1895. Siehe Abbildung Tafel IV.",25,99.2,False,none,,,,,
-BO0624_88028,268263,4,6,Frauenkopf. Rothaariges Madchen im Profil Rechts bezeichnet: 1909 F. Hodler. Siehe Abbildung Tafel IV.,26,99.0,False,none,,,,,
+BO0624_88028,268260,1,3,Der Holzfaller. Bekannte Komposition des Meisters. Leinw. 131/101 Bezeichnet rechts unten: 1910 F. Hodler. Siehe Abbildung Tafel l.,23,99.2,False,none,,,,,Sec. XX
+BO0624_88028,268261,2,4,"Der Herbstbaum. Im Gebirge steht ein einsamer, herbstlich gefarbter Kastanienbaum.Leinw.6248 Bezeichnet rechts unten:1905 F. Hodler. Siehe AbbildungTafel Ill.",24,99.4,False,none,,,,,Sec. XX
+BO0624_88028,268262,3,5,"Eurythmie. Schreitender Mann in langem weissem Gewand. Leinw. 33,5/25 Rechts bezeichnet: F. Hodler 1895. Siehe Abbildung Tafel IV.",25,99.2,False,none,,,,,Sec. XIX
+BO0624_88028,268263,4,6,Frauenkopf. Rothaariges Madchen im Profil Rechts bezeichnet: 1909 F. Hodler. Siehe Abbildung Tafel IV.,26,99.0,False,none,,,,,Sec. XX
 BO0624_88028,268264,5,7,Genfer Strasse.Landstrasse in hellem Sonnenschein.Leinw. 35/28 Prachtige Lichtwirkung Rechts unten bezeichnet: F. Hodler.,27,99.2,False,none,,,,,
 BO0624_88028,268265,6,8,"Genfer Landschaft. Strasse, links von einer Mauer, rechts von Niederwald begrenzt. Leinw. 42/33",28,98.9,False,none,,,,,
 BO0624_88028,268266,7,9,Berner Landschaft.Leinw. 35/26 Rechts unten bezeichnet: F. H.,34,98.3,False,none,,,,,

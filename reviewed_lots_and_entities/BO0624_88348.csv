@@ -1,19 +1,19 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88348,377423,1,2,"Pferde in einer Landschaft.                  | Anonymer Meister.                                                                                                    | ......Holz 14,5/19                                                                                                   |",60,98.2,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88348,377424,2,3,Hausliche Szene. Impressionistische Malerei. | Bezeichnet: A.B.(Meister des 19. Jahrhunderts.)                                                                      | Leinw.22/30                                                                                                          |,61,99.0,False,positional,,,Gemalde; Kunstblatter,,
+BO0624_88348,377424,2,3,Hausliche Szene. Impressionistische Malerei. | Bezeichnet: A.B.(Meister des 19. Jahrhunderts.)                                                                      | Leinw.22/30                                                                                                          |,61,99.0,False,positional,,,Gemalde; Kunstblatter,,Sec. XIX
 BO0624_88348,377425,3,4,"Barmherzige Schwester.                       | Erich Bamler, Munchen.                                                                                               | Leinw.a.Kart.55/40,5                                                                                                 |",62,98.4,False,positional,,,Gemalde; Kunstblatter,,
 BO0624_88348,377426,4,8,"Madchen auf Felsen, sitzend.                 | Jean Benner t,Paris.                                                                                                 | Leinw.75/55                                                                                                          |",65,98.3,False,positional,,,Gemalde; Kunstblatter,,
-BO0624_88348,377427,5,9,"Landschaft mit Ziegen.Bezeichnet:J. J. B.     | Joh.Jakob Biedermann,1763-1830, Konstanz. Schiler von A. Graff in Dresden.                                           | Leinw.21/28                                                                                                          |",66,99.6,False,positional,,,Gemalde; Kunstblatter,,
-BO0624_88348,377428,6,12,Gebirgslandschaft mit Burg. Bezeichnet.     | F.Burgstaller 1869.                                                                                                  | Leinw.69/57                                                                                                          |,69,97.8,False,positional,,,Gemalde; Kunstblatter,,
+BO0624_88348,377427,5,9,"Landschaft mit Ziegen.Bezeichnet:J. J. B.     | Joh.Jakob Biedermann,1763-1830, Konstanz. Schiler von A. Graff in Dresden.                                           | Leinw.21/28                                                                                                          |",66,99.6,False,positional,,,Gemalde; Kunstblatter,,Sec. XVIII
+BO0624_88348,377428,6,12,Gebirgslandschaft mit Burg. Bezeichnet.     | F.Burgstaller 1869.                                                                                                  | Leinw.69/57                                                                                                          |,69,97.8,False,positional,,,Gemalde; Kunstblatter,,Sec. XIX
 BO0624_88348,377429,7,20,GroBvater und Enkel. A. Della Corte.                                                                                                                  | Holz25/20                                                        |,77,96.6,False,positional,,,Gemalde; Kunstblatter,,
 BO0624_88348,377430,8,21,Frauenbrustbild. Bezeichnet....                                                                                                                       | Aquarell 47/35                                                   |,78,96.5,False,positional,,,Gemalde; Kunstblatter,,
 BO0624_88348,377431,9,22,"Brustbild eines Pralaten. Louis Douzette, Barth a. d. Ostsee.                                                                                         | .Leinw.a.Kart.45/35                                              |",79,98.0,False,positional,BRAITH ANTON,,Gemalde; Kunstblatter,,
-BO0624_88348,377432,10,23,Abendliche Winterlandschaft. Bezeichnet:L. Douzette 1874.                                                                                             | ...Leinw.66/115                                                  |,80,97.8,False,positional,,,Gemalde; Kunstblatter,,
+BO0624_88348,377432,10,23,Abendliche Winterlandschaft. Bezeichnet:L. Douzette 1874.                                                                                             | ...Leinw.66/115                                                  |,80,97.8,False,positional,,,Gemalde; Kunstblatter,,Sec. XIX
 BO0624_88348,377433,11,24,Seehafen. Einfahrt in den Hafen von Dover. Bez.:P.C.Dumont. 25 Desgl. Bez.P.C. Dumont.....                                                            | Leinw.51/82 Gegenstick z. Vor.                                   |,81,98.6,False,positional,,,Gemalde; Kunstblatter,,
 BO0624_88348,377434,12,28,Kaiser Wilhelm-Gedachtniskirche. .....                                                                                                                | 58/42                                                            |,84,96.1,False,positional,,,Gemalde; Kunstblatter,,
 BO0624_88348,377435,13,29,"Madchenbildnis. Franzosische Schule.                                                                                                                  | Leinw.52,5/42                                                    |",85,97.0,False,title_direct,,Franzosisch,,,
 BO0624_88348,377436,14,30,Madchen am Bach mit Tauben.                                                                                                                            | Karton 41/32                                                     |,86,97.5,False,positional,,,Gemalde; Kunstblatter,,
-BO0624_88348,377437,15,33,s. S. Giovanni e Paolo. Rucks. bez.: J. J. Frey 1837.                                                                                                 | Gegenstick z. Vor.                                               |,89,97.6,False,positional,,,Gemalde; Kunstblatter,,
+BO0624_88348,377437,15,33,s. S. Giovanni e Paolo. Rucks. bez.: J. J. Frey 1837.                                                                                                 | Gegenstick z. Vor.                                               |,89,97.6,False,positional,,,Gemalde; Kunstblatter,,Sec. XIX
 BO0624_88348,377438,16,34,Hollandischer Strand. Bez.:Albert Halle. .Leinw.34/49                                                                                                                                |                               |,92,97.0,False,title_direct,Albert Halle,,,,
 BO0624_88348,377439,17,I,"ntarsienbild. 40 Mexikanerin.                                                                                                                                                          | .....Holz 128,5               |",99,98.7,False,positional,Albert Halle,,OGGETTI IN LEGNO,,
 BO0624_88348,377440,18,I,"talienischer Meister.(Tiepolo nahestehend.) 41 Madonna und Engelskopfe.... Die Jungfrau, mit Blumen und Perlen im Haar, von seltener Schonheit. Italienischer Meister,17. Jahrhundert. | Leinw.a.Kart.75/59            |",100,99.7,False,positional,Albert Halle,,,,
@@ -72,21 +72,21 @@ BO0624_88348,377492,70,157,"| Desgl. La bella Simonetta. Desgl.                 
 BO0624_88348,377493,71,158,| Desgl. Frauenbildnis. Rotstift. .....                                                                                       |                                     |                                     |,215,93.3,False,positional,Albert Halle,,,,
 BO0624_88348,377494,72,159,| Michelangelo. Die Zeit. Nach Handzeichnung.                                                                                 | ...36/23                            |                                     |,216,95.8,False,title_direct,CARAVAGGIO,,Handzeichnungen,,
 BO0624_88348,377495,73,160,Dirk van der Bergen. Zwei Zeichnungen. Kihe auf der Weide.,220,96.5,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377496,74,161,"Cavaliere Francesko Trevisani, 1656-1746. Hagar und Ismael.",221,96.6,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
+BO0624_88348,377496,74,161,"Cavaliere Francesko Trevisani, 1656-1746. Hagar und Ismael.",221,96.6,False,positional,,,Handzeichnungen; Olstudien; Drucke,,Sec. XVII
 BO0624_88348,377497,75,162,Lucca Signorelli. Apostelkopfe.,222,93.5,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
 BO0624_88348,377498,76,163,Tiepolo.Plafond-Entwurf.,223,92.0,False,positional,TIEPOLO DOMENICO,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377499,77,164,"Ph.Wouwerman,1619-1668. Reiterszene,Federzeichnung. Bezeichnet.",224,96.8,False,positional,WOUWERMAN PHILIPS,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377500,78,165,"Feodor Dietz,1813-1870. Gefechtsszene aus dem Krieg 1870. Flotte Zeichnung.",225,97.3,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377501,79,166,"- J.K.D.Friedrich, 1774-1840. Landschaft. Feder und Sepia.",227,100.0,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377502,80,167,"Henry Reynault, 1813-1871. Taufe Christi.",228,95.0,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377503,81,168,Unbekannter Meister 16. Jahrhundert. Eva mit herabwallendem Lockenhaar.,229,97.1,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377504,82,169,"Ant.Raph.Mengs, 1728-1779. Selbstportrat.",230,95.0,False,positional,MENGS RAPHAEL,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377505,83,170,"Antonio Corregio,1494-1534. Aktaon, die Artenis iberraschend.",231,96.7,False,positional,CORREGGIO,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377506,84,171,"Carl Ant. Graff,1774-1832. Landliche Idylle. Bez. Carl Graff.",232,96.6,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377507,85,172,"2Joh.Rottenhamer,1564-1604. Weibl.Akt.",233,94.7,False,positional,ROTTENHAMMER JOHANN,,Handzeichnungen; Olstudien; Drucke,,
+BO0624_88348,377499,77,164,"Ph.Wouwerman,1619-1668. Reiterszene,Federzeichnung. Bezeichnet.",224,96.8,False,positional,WOUWERMAN PHILIPS,,Handzeichnungen; Olstudien; Drucke,,Sec. XVII
+BO0624_88348,377500,78,165,"Feodor Dietz,1813-1870. Gefechtsszene aus dem Krieg 1870. Flotte Zeichnung.",225,97.3,False,positional,,,Handzeichnungen; Olstudien; Drucke,,Sec. XIX
+BO0624_88348,377501,79,166,"- J.K.D.Friedrich, 1774-1840. Landschaft. Feder und Sepia.",227,100.0,False,positional,,,Handzeichnungen; Olstudien; Drucke,,Sec. XIX
+BO0624_88348,377502,80,167,"Henry Reynault, 1813-1871. Taufe Christi.",228,95.0,False,positional,,,Handzeichnungen; Olstudien; Drucke,,Sec. XIX
+BO0624_88348,377503,81,168,Unbekannter Meister 16. Jahrhundert. Eva mit herabwallendem Lockenhaar.,229,97.1,False,positional,,,Handzeichnungen; Olstudien; Drucke,,Sec. XVI
+BO0624_88348,377504,82,169,"Ant.Raph.Mengs, 1728-1779. Selbstportrat.",230,95.0,False,positional,MENGS RAPHAEL,,Handzeichnungen; Olstudien; Drucke,,Sec. XVIII
+BO0624_88348,377505,83,170,"Antonio Corregio,1494-1534. Aktaon, die Artenis iberraschend.",231,96.7,False,positional,CORREGGIO,,Handzeichnungen; Olstudien; Drucke,,Sec. XVI
+BO0624_88348,377506,84,171,"Carl Ant. Graff,1774-1832. Landliche Idylle. Bez. Carl Graff.",232,96.6,False,positional,,,Handzeichnungen; Olstudien; Drucke,,Sec. XVIII
+BO0624_88348,377507,85,172,"2Joh.Rottenhamer,1564-1604. Weibl.Akt.",233,94.7,False,positional,ROTTENHAMMER JOHANN,,Handzeichnungen; Olstudien; Drucke,,Sec. XVI
 BO0624_88348,377508,86,173,Konvolut. Zwei Zeichnungen.,234,92.6,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377509,87,174,"Franz. Meister,unbekannt. (Impressionist.) Chopin am Klavier. Salvator Rosa,1615-1673. Fischerszene. Rotelzeichnung.",235,66.3,False,positional,ROSA SALVATOR,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377510,88,175,"Franzesco Primaticcio,1504-1570. Madonna mit Kind.",237,96.0,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
+BO0624_88348,377509,87,174,"Franz. Meister,unbekannt. (Impressionist.) Chopin am Klavier. Salvator Rosa,1615-1673. Fischerszene. Rotelzeichnung.",235,66.3,False,positional,ROSA SALVATOR,,Handzeichnungen; Olstudien; Drucke,,Sec. XVII
+BO0624_88348,377510,88,175,"Franzesco Primaticcio,1504-1570. Madonna mit Kind.",237,96.0,False,positional,,,Handzeichnungen; Olstudien; Drucke,,Sec. XVI
 BO0624_88348,377511,89,178,178,239,100.0,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
 BO0624_88348,377512,90,179,Miniatur. Klosterarbeit.,241,91.7,False,positional,,,MINIATURE,,
 BO0624_88348,377513,91,180,"Hch. Hoffmann , Frankfurt a.M. Zwei Aquarelle. Landschaft und Marine.",243,96.9,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
@@ -114,8 +114,8 @@ BO0624_88348,377534,112,210,- 212 Lessing.,289,100.0,False,positional,LESSING CA
 BO0624_88348,377535,113,214,Der Dogenpalast zu Venedig. 0.Poppel. Weinheim.,290,70.3,False,positional,,,Handzeichnungen; Olstudien; Drucke,,
 BO0624_88348,377536,114,215,SchloB Heidelberg. Handzeichn ung.,292,94.1,False,title_direct,,,Handzeichnungen,,
 BO0624_88348,377537,115,216,- 217 Portrat nach Rembrandt. Photo.,294,100.0,False,positional,REMBRANDT VAN RIJN,,Handzeichnungen; Olstudien; Drucke,,
-BO0624_88348,377538,116,218,- 220 Glasgemalde. Ritter mit Jungfrau auf Pferd. Deutsch. 16. Jahrhundert.,298,100.0,False,title_direct,,Deutsch,Gemalde,,
-BO0624_88348,377539,117,219,Denkbuch der franzosischen Revolution 1817 mit 41 Kupferstichen.,299,96.9,False,title_direct,,Franzosisch,OGGETTI IN RAME,,
+BO0624_88348,377538,116,218,- 220 Glasgemalde. Ritter mit Jungfrau auf Pferd. Deutsch. 16. Jahrhundert.,298,100.0,False,title_direct,,Deutsch,Gemalde,,Sec. XVI
+BO0624_88348,377539,117,219,Denkbuch der franzosischen Revolution 1817 mit 41 Kupferstichen.,299,96.9,False,title_direct,,Franzosisch,OGGETTI IN RAME,,Sec. XIX
 BO0624_88348,377540,118,221,Madonna mit Kind. Die streng frontal sitzende Madonna halt das Kind auf ihrem linken,314,97.6,False,positional,,,Skulpturen,,
 BO0624_88348,377541,119,222,Apostel Petrus. Der stehende Apostel halt in der linken Hand Buch und Himmelsschlissel. Er ist in ein faltenreiches Gewand gehillt.,325,98.5,False,positional,,Sidfrankreich,,,
 BO0624_88348,377542,120,1,Meter.,329,90.9,False,positional,,Sidfrankreich,,,
@@ -164,7 +164,7 @@ BO0624_88348,377584,162,264,"Heiliger. Der in weite weiche Falten gehilte Heilig
 BO0624_88348,377585,163,265,"Madonna mit Kind. Die mit lieblichem, echt schwabischem Gesichtsausdruck gebildete Heilige halt in der rechten Hand das Jesuskind. Die Gewandung lauft in einer Sichel aus.",657,98.8,False,title_direct,,schwabisch,,,
 BO0624_88348,377586,164,266,"Maria mit Kind. Die in selten gut erhaltener Gold- und Silberbemalung gefaBte Madonna halt in der linken Hand das Jesuskind. Mutter und Kind mit visionarem Ausdruck. Schwere,reiche Faltendraperie.",663,99.0,False,positional,,Westfalisch,OGGETTI IN ORO,,
 BO0624_88348,377587,165,267,Cruzifixus. Der in feinstem Buchsholz geschnitzte Christus Korfus ist in tiefem Schwarz darOriginal-Bemalung auf Originalkreuz. Buchsholz. Hohe des Korpus 26 cm.,671,98.7,False,positional,,Schwabisch,,,
-BO0624_88348,377588,166,268,"Kreuzigungsgruppe. Ein Werk deutscher Bauernkunst des 16. Jahrhunderts voll Natirlichkeit, trotz einer gewissen Primitivitat auBerordentlich rassig und lebensvoll geschnitzt. Der Reiz der Gruppe wird durch die guterhaltene alte Originalbemalung wesen tlich erhoht. Originalbemalung. Holz. Hohe 47 cm.",675,99.3,False,title_direct,,Deutsch,OGGETTI IN LEGNO,,
+BO0624_88348,377588,166,268,"Kreuzigungsgruppe. Ein Werk deutscher Bauernkunst des 16. Jahrhunderts voll Natirlichkeit, trotz einer gewissen Primitivitat auBerordentlich rassig und lebensvoll geschnitzt. Der Reiz der Gruppe wird durch die guterhaltene alte Originalbemalung wesen tlich erhoht. Originalbemalung. Holz. Hohe 47 cm.",675,99.3,False,title_direct,,Deutsch,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88348,377589,167,269,"Strahlenmadonna. Die in einen weiten Mantel gehilte Madonna ist stehend dargestellt, unter sich den Wolkenkranz auf Original-Sockel. Holz. Hohe 40 cm.",676,98.6,False,positional,,Schwabisch,OGGETTI IN LEGNO,,
 BO0624_88348,377590,168,270,"Apostelrelief. Der Heilige in Wolken ist in knieender Haltung dargestellt, die Hande betend zum Himmel erhoben.",680,98.2,False,positional,,Deutsch,,,
 BO0624_88348,377591,169,271,"Johannes und Maria unter dem Kreuz. In schmerzlicher Gebarde und grob angelegtem Faltenwurf stehen die beiden, 38 cm hohen altbemalten Figuren.",688,98.6,False,positional,,Deutsch,,,
@@ -198,11 +198,11 @@ BO0624_88348,377618,196,58,cm hoch. Alte Bemalung.,859,93.3,False,positional,,Ba
 BO0624_88348,377619,197,298,Heiliger mit Kind. Alte Bemalung. Hohe 28 cm. Holz.,861,95.9,False,positional,,Bayrisch,OGGETTI IN LEGNO,,
 BO0624_88348,377620,198,299,Hund. Hohe 14 cm. Holz. Alt bemalt.,865,93.9,False,positional,,Bayrisch,OGGETTI IN LEGNO,,
 BO0624_88348,377621,199,300,Kruzifix. Originalkreuz. Alte Bemalung. Ganze Hohe 58 cm. Holz.,871,96.7,False,positional,,Siddeutsch,OGGETTI IN LEGNO,,
-BO0624_88348,377622,200,301,Die Benediktinerapostel: St. Sulpice und St. Maure. Franzosisch. Erste Halfte des 16. Jahrhundert. Eichenholz. Hohe 87 cm. Urspringliche Bemalung.,875,98.6,False,title_direct,,Franzosisch,,,
+BO0624_88348,377622,200,301,Die Benediktinerapostel: St. Sulpice und St. Maure. Franzosisch. Erste Halfte des 16. Jahrhundert. Eichenholz. Hohe 87 cm. Urspringliche Bemalung.,875,98.6,False,title_direct,,Franzosisch,,,Sec. XVI
 BO0624_88348,377623,201,302,"Maria mit Kind, stehend. Schon patinierte Naturfarbe. Anscheinend Wallfahrtsfigur. Italien.16. Jahrhundert. Lindenholz. Hohe 94 cm.",876,98.4,False,positional,,Siddeutsch,,,
-BO0624_88348,377624,202,303,"Maria mit Kind, sitzend,in urspringlicher Bemalung und Vergoldung. 17. Jahrhundert. Sidfrankreich oder Spanien. Holzschnitzerei. Hohe 40 cm.",877,98.5,False,title_direct,,Sidfrankreich,,,
+BO0624_88348,377624,202,303,"Maria mit Kind, sitzend,in urspringlicher Bemalung und Vergoldung. 17. Jahrhundert. Sidfrankreich oder Spanien. Holzschnitzerei. Hohe 40 cm.",877,98.5,False,title_direct,,Sidfrankreich,,,Sec. XVII
 BO0624_88348,377625,203,304,Weibliche Heilige. Eichenholz. Hohe 84 cm.,878,95.1,False,positional,,Siddeutsch,,,
-BO0624_88348,377626,204,305,"Madonna mit Kind. Alte Holzschnitzerei aus dem 16. Jahrhundert. Modern vergoldet. Hohe 94 cm. Vorzigliche, reizvolle Figur.",882,84.6,False,positional,,Rheinisch,,,
+BO0624_88348,377626,204,305,"Madonna mit Kind. Alte Holzschnitzerei aus dem 16. Jahrhundert. Modern vergoldet. Hohe 94 cm. Vorzigliche, reizvolle Figur.",882,84.6,False,positional,,Rheinisch,,,Sec. XVI
 BO0624_88348,377627,205,306,Heilige Anna. Holzfigur. Polichrom. Gotisch. Hohe 74 cm.,889,96.2,False,positional,,Rheinisch,,,
 BO0624_88348,377628,206,307,"Maria als Himmelskonigin auf der Mondsichel stehend. Holz, volrund geschnitzt.",893,97.4,False,positional,,Rheinisch,OGGETTI IN LEGNO,,
 BO0624_88348,377629,207,308,"- 309 Nonne,Kniestick. Spatgotisch mit Spuren von Bemalung.",897,100.0,False,positional,,Rheinisch,,,
@@ -216,9 +216,9 @@ BO0624_88348,377636,214,316,"Kassette. Querrechteckige Form, durchaus mit verzie
 BO0624_88348,377637,215,317,"Truhe. Norddeutsche Haustruhe. Stirnwand mit Flachschnitt-Dekoration,Renaissance-Spiralen.",914,97.8,False,title_direct,,Deutsch,BAULI,,
 BO0624_88348,377638,216,318,Eiserne Geldkiste auf Sockel aus dem ehemaligen Bundestags-Palais in Frankfurt a. M.,920,97.6,False,positional,,Rheinisch,,,
 BO0624_88348,377639,217,319,Kapital. Engelskopf. Holzgeschnitzt.,934,94.3,False,positional,,,Antiquitaten,,
-BO0624_88348,377640,218,320,Ovaler Tisch mit figurl. Einlagen in farb. Holzern. 18. Jahrhundert.9ru,935,97.1,False,positional,,,Antiquitaten,,
-BO0624_88348,377641,219,321,Eichenholz-Truhe mit reicher Verzierung und OriginalschloB. Gotisch um 1500.,936,97.4,False,positional,,,Antiquitaten,,
-BO0624_88348,377642,220,322,Kasten. Holz mit Eisenbeschlagen. Gotisch. Rheinisch um 1480.,937,96.6,False,title_direct,,Rheinisch,OGGETTI IN LEGNO,,
+BO0624_88348,377640,218,320,Ovaler Tisch mit figurl. Einlagen in farb. Holzern. 18. Jahrhundert.9ru,935,97.1,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88348,377641,219,321,Eichenholz-Truhe mit reicher Verzierung und OriginalschloB. Gotisch um 1500.,936,97.4,False,positional,,,Antiquitaten,,Sec. XVI
+BO0624_88348,377642,220,322,Kasten. Holz mit Eisenbeschlagen. Gotisch. Rheinisch um 1480.,937,96.6,False,title_direct,,Rheinisch,OGGETTI IN LEGNO,,Sec. XV
 BO0624_88348,377643,221,323,Kastchen. Bibelform. Hohe 11. 22/16.,938,94.1,False,positional,,,Antiquitaten,,
 BO0624_88348,377644,222,324,Alter Teppich.Handgestickt. 260/260.,939,94.4,False,title_direct,,,Teppiche,,
 BO0624_88348,377645,223,325,"- Leinendecke. Handgestickt,mit Blumen. 170/158.",941,100.0,False,positional,,,Antiquitaten,,
@@ -271,8 +271,8 @@ BO0624_88348,377691,269,901087,- 382 Desgl.115/100.,1020,100.0,False,positional,
 BO0624_88348,377692,270,383,"Smyrnateppich,rot. 490/470.",1021,92.6,False,positional,,,Antiquitaten,,
 BO0624_88348,377693,271,384,Desgl.400/295.,1022,86.7,False,positional,,,Antiquitaten,,
 BO0624_88348,377694,272,385,Klappschreibtisch mit Geheimfachern. Hohe 108. 85/51.,1023,96.2,False,positional,,,Antiquitaten,,
-BO0624_88348,377695,273,386,Vlamischer Gobelin mit Wappen und Bordire mit Kriegsemblemen.Anfang des 17. Jahrhunderts. ms 350/280.#l nsbns18n9,1024,98.2,False,title_direct,,Vlamisch,,,
-BO0624_88348,377696,274,387,Gestickte Altardecke. Sizilianische Arbeit. 16. Jahrhundert.,1025,96.6,False,positional,,,Antiquitaten,,
+BO0624_88348,377695,273,386,Vlamischer Gobelin mit Wappen und Bordire mit Kriegsemblemen.Anfang des 17. Jahrhunderts. ms 350/280.#l nsbns18n9,1024,98.2,False,title_direct,,Vlamisch,,,Sec. XVII
+BO0624_88348,377696,274,387,Gestickte Altardecke. Sizilianische Arbeit. 16. Jahrhundert.,1025,96.6,False,positional,,,Antiquitaten,,Sec. XVI
 BO0624_88348,377697,275,388,"Spitzen,3 Meter.Duchesse aiguille.Breite 15.",1026,95.6,False,title_direct,,,Spitzen,,
 BO0624_88348,377698,276,389,Desgl.185 cm. Desgl. Breite 20 cm.,1027,93.9,False,positional,,,Antiquitaten,,
 BO0624_88348,377699,277,390,Desgl.200 cm.Desgl. Breite 13 cm.,1028,93.9,False,positional,,,Antiquitaten,,
@@ -378,25 +378,25 @@ BO0624_88348,377798,376,505,Desgl. in Perlmutter geschnitten. Hl. Abendmahl auf 
 BO0624_88348,377799,377,506,Satz:Lackdosen und Briefbeschwerer. Eidechse.,1178,95.6,False,positional,,,Antiquitaten,,
 BO0624_88348,377800,378,507,Kleine Bronzebiste. Sokrates. Hohe 6 cm.,1179,94.9,False,positional,,,Antiquitaten,,
 BO0624_88348,377801,379,508,Puderdoschen und Menistander. Emaille.,1180,94.7,False,positional,,,Antiquitaten,,
-BO0624_88348,377802,380,509,"Erinnerungsmedaille an das alte Schauspielhaus in Frankfurt a.M. 1782-1902. Perlmutterfacher, reich durchbrochen und vergoldet mit Rokokomalerei, auf Pfauenhaut.",1181,98.7,False,positional,,,Antiquitaten,,
+BO0624_88348,377802,380,509,"Erinnerungsmedaille an das alte Schauspielhaus in Frankfurt a.M. 1782-1902. Perlmutterfacher, reich durchbrochen und vergoldet mit Rokokomalerei, auf Pfauenhaut.",1181,98.7,False,positional,,,Antiquitaten,,Sec. XIX
 BO0624_88348,377803,381,511,- 510 Bronzefigur auf Marmorsockel. Erwachen. Hohe 40 cm.,1183,100.0,False,positional,,,Antiquitaten,,
 BO0624_88348,377804,382,512,Bronzestatuette. Napoleon auf Sockel. Hohe 13 cm.,1184,95.8,False,positional,,,Antiquitaten,,
 BO0624_88348,377805,383,513,- 514,1186,100.0,False,positional,,,Antiquitaten,,
 BO0624_88348,377806,384,515,- 516,1188,100.0,False,positional,,,Antiquitaten,,
-BO0624_88348,377807,385,517,- Tirklopfer. Bronzemaske. 17. Jahrhundert.,1190,100.0,False,positional,,,Antiquitaten,,
-BO0624_88348,377808,386,518,WeingefaB. Kupfer mit getriebenen figirlichen Darstellungen. Rheinland 1650.,1195,97.3,False,positional,,,Antiquitaten,,
-BO0624_88348,377809,387,519,"Degenknauf. Eisen geschnitten,um 1500.",1196,94.7,False,positional,EISEN CHARLES,,Antiquitaten,,
+BO0624_88348,377807,385,517,- Tirklopfer. Bronzemaske. 17. Jahrhundert.,1190,100.0,False,positional,,,Antiquitaten,,Sec. XVII
+BO0624_88348,377808,386,518,WeingefaB. Kupfer mit getriebenen figirlichen Darstellungen. Rheinland 1650.,1195,97.3,False,positional,,,Antiquitaten,,Sec. XVII
+BO0624_88348,377809,387,519,"Degenknauf. Eisen geschnitten,um 1500.",1196,94.7,False,positional,EISEN CHARLES,,Antiquitaten,,Sec. XVI
 BO0624_88348,377810,388,520,- Pferdesporn. Handgeschmiedet. Frihmittelalterlich.,1198,100.0,False,positional,,,Antiquitaten,,
-BO0624_88348,377811,389,521,Dachreiter. Bronze um 1780.,1199,92.6,False,positional,,,Antiquitaten,,
+BO0624_88348,377811,389,521,Dachreiter. Bronze um 1780.,1199,92.6,False,positional,,,Antiquitaten,,Sec. XVIII
 BO0624_88348,377812,390,522,- 523 AnhangeschloB. Eisen.16. Jahrhundert.,1201,100.0,False,positional,EISEN CHARLES,,Antiquitaten,,
-BO0624_88348,377813,391,524,"Gurtelschnalle. Silber. 18. Jahrhundert. Ausgrabung. Agyptische Mumie. Ton,bemalt. Buchzeiger. Messing mit figirlicher Verzierung und Edelsteinschmuck. 18. Jahrhundert.",1205,67.8,False,positional,,,Antiquitaten,,
-BO0624_88348,377814,392,527,- TintenfaB. Nassau. 18. Jahrhundert.,1207,100.0,False,positional,,,Antiquitaten,,
-BO0624_88348,377815,393,528,- 529 Bartkrug.Rheinland. 17. Jahrhundert.,1209,100.0,False,positional,,,Antiquitaten,,
+BO0624_88348,377813,391,524,"Gurtelschnalle. Silber. 18. Jahrhundert. Ausgrabung. Agyptische Mumie. Ton,bemalt. Buchzeiger. Messing mit figirlicher Verzierung und Edelsteinschmuck. 18. Jahrhundert.",1205,67.8,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88348,377814,392,527,- TintenfaB. Nassau. 18. Jahrhundert.,1207,100.0,False,positional,,,Antiquitaten,,Sec. XVIII
+BO0624_88348,377815,393,528,- 529 Bartkrug.Rheinland. 17. Jahrhundert.,1209,100.0,False,positional,,,Antiquitaten,,Sec. XVII
 BO0624_88348,377816,394,530,Teekanne. Alt-Marburg.,1211,90.9,False,positional,,,Antiquitaten,,
 BO0624_88348,377817,395,531,- 532 Email-Dose. Silbervergoldet. Louis XV. Franzosisch.,1213,100.0,False,title_direct,,Franzosisch,SCATOLE,,
 BO0624_88348,377818,396,533,Blumeneinsatz.,1215,86.7,False,positional,,,Antiquitaten,,
 BO0624_88348,377819,397,535,"- 534 Fayenceteller mit Marke. Korbchen. Wedgewood. Sechs Delfter Kacheln, zum Teil mit interessan tem Dekor.",1220,72.0,False,positional,,,Antiquitaten,,
-BO0624_88348,377820,398,538,Trinkglas mit Ansicht der Stadt Koln. Anfang 18. Jahrhundert.,1221,96.7,False,positional,,,Antiquitaten,,
+BO0624_88348,377820,398,538,Trinkglas mit Ansicht der Stadt Koln. Anfang 18. Jahrhundert.,1221,96.7,False,positional,,,Antiquitaten,,Sec. XVIII
 BO0624_88348,377821,399,540,540,1223,100.0,False,positional,,,Antiquitaten,,
 BO0624_88348,377822,400,541,Bronzefigur. Frihling. Hohe 80 cm.,1225,93.9,False,positional,,,Antiquitaten,,
 BO0624_88348,377823,401,542,- 543 Visitenkartenschale. Berliner Porzellan mit Bronzemon tierung. Durchm.31,1227,100.0,False,positional,,Scuola di Berlino,Antiquitaten,,

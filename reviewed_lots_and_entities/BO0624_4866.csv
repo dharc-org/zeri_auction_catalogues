@@ -7,7 +7,7 @@ BO0624_4866,145711,5,2,colo XVII.,23.0,90.0,False,none,,,,,
 BO0624_4866,145712,6,3,2.VAssolo in bronzo sbalzato e argentato.,24.0,97.5,False,none,,,,,
 BO0624_4866,145713,7,3,"PoRTA-OROLoGIo in legno scolpito, dorato e argentato, con figu- rine e placchetta smaltata al centro. Epoca Luigi XV.",30.0,69.0,False,none,,Periodo di Luigi XV,,,
 BO0624_4866,145714,8,4,"RITRATTo D'uoMo su rame, in cornice di legno dorato.",35.0,98.0,False,none,,,,,
-BO0624_4866,145715,9,5,"DuE INcis1oN1 di Francesco Landonio (Napoli 1763) rappresentanti scene campestri,in cornici nere e oro.",39.0,69.2,False,none,,,CORNICI,,
+BO0624_4866,145715,9,5,"DuE INcis1oN1 di Francesco Landonio (Napoli 1763) rappresentanti scene campestri,in cornici nere e oro.",39.0,69.2,False,none,,,CORNICI,,Sec. XVIII
 BO0624_4866,145716,10,6,"PIccoLA AcQUAsANTIERA da muro, in metallo patinato nero e decorata nel fondo dello Spirito Santo con aureola in metallo dorato; racchiusa in cornice scolpita e dorata. Epoca Luigi XVI. M.0.35X0.18.",46.0,99.0,False,none,,,,,
 BO0624_4866,145717,11,7,"DuE PORTAFIORI da altare, in legno scolpito e argentato. Se-",47.0,91.2,False,none,,,,,
 BO0624_4866,145718,12,8,"DuE DIPINTI su pergamena rappresentanti vasi con fiori, in cor-",51.0,98.4,False,none,,,VASI,,
@@ -40,7 +40,7 @@ BO0624_4866,145744,38,34,"PIATTo sCODELLATo, dipinto a vari colori dal Grue e lu
 BO0624_4866,145745,39,35,"PIATTo concavo policromo, ornato nel mezzo da un paesaggio e nell'orlo da putti e volute, in alto dallo stemma cardinalizio",155.0,98.0,False,positional,,,Maioliche,,
 BO0624_4866,145746,40,36,"PiATTo concavo, ornato nel mezzo da un contadino che sta a guardia di due capre, nel bordo da putti e volute, in alto da",161.0,98.7,False,positional,,,Maioliche,,
 BO0624_4866,145747,41,37,PIATTO coN PIEDUccIo a forma di coppa baccellata; ornato nel mezzo da una palmetta ed all'ingiro da ornati a rifessi metal-,166.0,98.4,False,positional,,,OGGETTI IN METALLO,,
-BO0624_4866,145748,42,38,"PIATTo cON PIEDUcCIO policromo, decorato con composizione rappresentante Apollo e Marzia. Nella parte posteriore vi e la seritta:Fu il ranciar sempre mai laudabil cosa 1545.Ma- nifattura urbinate.",173.0,81.1,False,positional,,,Maioliche,,
+BO0624_4866,145748,42,38,"PIATTo cON PIEDUcCIO policromo, decorato con composizione rappresentante Apollo e Marzia. Nella parte posteriore vi e la seritta:Fu il ranciar sempre mai laudabil cosa 1545.Ma- nifattura urbinate.",173.0,81.1,False,positional,,,Maioliche,,Sec. XVI
 BO0624_4866,145749,43,39,PiATTo concavo a largo bordo. Nel centro un Amorino e nel bordo dei magnifici ornamenti a vivi riflessi di rubino e madre- perla su fondo bleu scuro. L'ornato di questo piatto e iden-,180.0,80.1,False,positional,,,Maioliche,,
 BO0624_4866,145750,44,40,"ALBERELLo cilindrico dipinto a vari colori, ornato con un ritratto di giovane portante il nome: FILON-ROMANO e da un alto fregio quattrocentesco. Manifattura di Cafaggiolo.",185.0,99.1,False,positional,,,Maioliche,,
 BO0624_4866,145751,45,41,"PIATTINo concavo con pieduccio, dipinto a vari colori, decorato con ritratto d'uomo, e con targa portante la scritta: BATISTA. Manifattura urbinate.",191.0,91.0,False,positional,,,Maioliche,,
@@ -87,11 +87,11 @@ BO0624_4866,145791,85,2,e da greche.,354.0,91.7,False,positional,,,Maioliche,,
 BO0624_4866,145792,86,8,"o. PALIoTro ricamato in lana a punto ungaro, decorato di figure",358.0,95.9,False,positional,,,Maioliche,,
 BO0624_4866,145793,87,81,DuE CUsCINI BoUKARA a piccolo disegno.,366.0,96.1,False,positional,,,Maioliche,,
 BO0624_4866,145794,88,82,"TavoLo di noce a massello. Le gambe a forma di lira sono pieghevoli, sorrette da ferro forgiato e incrociato. Due tiratori con placche di metallo dorato. Epoca 16oo.",370.0,97.8,False,positional,,,Maioliche,,
-BO0624_4866,145795,89,83,"CAssONE NUzIALE in noce, sorretto su zampe di leone. La parte davanti e intieramente ricoperta di fine intaglio a scomparti. Nel centro e nei due angoli mascheroni. Le scorniciature ad ovoli ed intagli. Epoca 1500.",374.0,91.6,False,positional,,,SCOMPARTI,,
+BO0624_4866,145795,89,83,"CAssONE NUzIALE in noce, sorretto su zampe di leone. La parte davanti e intieramente ricoperta di fine intaglio a scomparti. Nel centro e nei due angoli mascheroni. Le scorniciature ad ovoli ed intagli. Epoca 1500.",374.0,91.6,False,positional,,,SCOMPARTI,,Sec. XVI
 BO0624_4866,145796,90,84,"PoLTRoNA in legno riccamente scolpito e dorato, ricoperta con broccato a rami e fiori d'oro su fondo rasato rosso. Se- colo XVIII.",381.0,98.4,False,positional,,,POLTRONE,,
-BO0624_4866,145797,91,85,"CoFANETTo in legno verniciato a ebano, intarsiato d'avorio e con scorniciature alla veneziana. Secolo XVII.",385.0,74.1,False,positional,,,Maioliche,,
+BO0624_4866,145797,91,85,"CoFANETTo in legno verniciato a ebano, intarsiato d'avorio e con scorniciature alla veneziana. Secolo XVII.",385.0,74.1,False,positional,,,Maioliche,,Sec. XVII
 BO0624_4866,145798,92,86,"DuE TABERNAcoLI in noce scolpito e lumeggiato d'oro, di forma rettangolare e con nicchia al centro racchiusa da un motivo architettonico. Stile del 5oo.",390.0,97.7,False,positional,,,Maioliche,,
-BO0624_4866,145799,93,87,CoMMoDINo (Prie Dieu) in noce. Agli angoli cariatidi scolpite e due colonnine a tortiglione. Quattro tiratoi con placche di metallo. Epoca 1600.,394.0,98.9,False,positional,,,Maioliche,,
+BO0624_4866,145799,93,87,CoMMoDINo (Prie Dieu) in noce. Agli angoli cariatidi scolpite e due colonnine a tortiglione. Quattro tiratoi con placche di metallo. Epoca 1600.,394.0,98.9,False,positional,,,Maioliche,,Sec. XVII
 BO0624_4866,145800,94,88,"FREGIo dipinto a sugo d'erba, presentante una scena di putti baccanti.",397.0,97.8,False,positional,,,Maioliche,,
 BO0624_4866,145801,95,89,"QUATTRO SGA BELLONI in noce, sagomati, a dossello alto. Ep. 160o. AltiM.I.",401.0,93.5,False,positional,,,Maioliche,,
 BO0624_4866,145802,96,90,"GRANDE SCRITTOIO in noce, a coperchio calatore. Nell'interno dodici tiretti. Al disotto due tiratoi grandi con placche in metallo. Zampe scorniciate, forma a lira con ferro forgiato. Epoca16o0.",403.0,80.4,False,positional,,,Maioliche,,
@@ -102,14 +102,14 @@ BO0624_4866,145806,100,94,"CoLoNNINA con base, di rosso antico, decorata di graf
 BO0624_4866,145807,101,95,"DipiNTo su tela, rappresentante un paesaggio animato da figure. Cornice dorata.",418.0,87.1,False,positional,,,Maioliche,,
 BO0624_4866,145808,102,96,ARAzzETTo dipinto da Barbieri. Lungh.M.1.65XAlt.1.50.,423.0,95.3,False,positional,BARBIERI GIANFRANCESCO,,Maioliche,,
 BO0624_4866,145809,103,97,"VAso coN PIEDuccIo, di porcellana bianca. Stile Luigi XVI. Ait.M.0.35.",424.0,96.3,False,positional,,,VASI,,
-BO0624_4866,145810,104,98,"RELIQuIARIo in rame inciso e dorato, di forma ottagonale, presentante un tondo al centro e piccoli ovali all'intorno, dove son racchiuse le reliquie, sito su base di lamina di metallo sbalzato a volute, traforato e dorato, e sormontato dalla croce; ornamenti d'argento. Secolo XVII.",425.0,99.5,False,positional,,,Maioliche,,
+BO0624_4866,145810,104,98,"RELIQuIARIo in rame inciso e dorato, di forma ottagonale, presentante un tondo al centro e piccoli ovali all'intorno, dove son racchiuse le reliquie, sito su base di lamina di metallo sbalzato a volute, traforato e dorato, e sormontato dalla croce; ornamenti d'argento. Secolo XVII.",425.0,99.5,False,positional,,,Maioliche,,Sec. XVII
 BO0624_4866,145811,105,I0,o. PA1o DI CANDELIERI di bronzo inciso ad arabeschi. Epoca Luigi XIV.,432.0,91.9,False,positional,,Periodo di Luigi XIV,Maioliche,,
 BO0624_4866,145812,106,I01,"MiNIATURA su avorio, rappresentante il ritratto del Re Carlo Alberto di Piemonte,in cornice d'ebano, decorata di finis-",436.0,87.2,False,positional,,,MINIATURE,,
 BO0624_4866,145813,107,I02,"PIccoLA scULTURA in marmo, rappresentante un putto che, prono sulle acque e protendendo un braccino, invoca aiuto. Base di marmo bianco e nero.",440.0,98.6,False,positional,,,Maioliche,,
 BO0624_4866,145814,108,103,"QUATTRo PAESAGGI, in cornice scolpita e dorata.",444.0,95.7,False,positional,,,Maioliche,,
 BO0624_4866,145815,109,104,"LucERNA a olio in rame graffito e placcato d'argento, costituita da un candeliere sul quale s'imperna una sferoide con due becchi. Epoca Impero.",446.0,98.6,False,positional,,,Maioliche,,
 BO0624_4866,145816,110,105,"LAvAMANI di rame sbalzato, con sostegno di ferro battuto.",450.0,96.5,False,positional,,,Maioliche,,
-BO0624_4866,145817,111,106,"MINIATURA su avorio, rappresentante Santa Maria Maddalena; fondo di paesaggio. Cornice in legno scolpito e dorato. Secolo XVIII.",454.0,98.4,False,positional,,,MINIATURE,,
+BO0624_4866,145817,111,106,"MINIATURA su avorio, rappresentante Santa Maria Maddalena; fondo di paesaggio. Cornice in legno scolpito e dorato. Secolo XVIII.",454.0,98.4,False,positional,,,MINIATURE,,Sec. XVIII
 BO0624_4866,145818,112,108,SEI TELI DI DAMAscO azzurro a rigoni e fiorellini broccati in argento.,461.0,97.2,False,positional,,,Maioliche,,
 BO0624_4866,145819,113,I09,"DuE MENsoLE da muro, di legno scolpito e dorato, costituite da una chimera alata che tiene fra le due zampe anteriori",465.0,72.8,False,positional,,,Maioliche,,
 BO0624_4866,145820,114,110,"STATUETTA di bronzo, rappresentante un signifero romano che, il braccio proteso, si tiene appoggiato all'asta dell'insegna. Base rettangolare in bronzo, decorata sul bordo di foglie di",466.0,93.7,False,positional,,,OGGETTI VARI,,
@@ -148,7 +148,7 @@ BO0624_4866,145852,146,142,"ALBERELLo strozzato in mezzo, dipinto in azzurro, de
 BO0624_4866,145853,147,143,"BoccALE a beccuccio, dipinto a vari colori, ornato da un cigno che tiene in una zampa un sasso e da scritta farmaceutica. Manifattura faentina.",604.0,98.6,False,positional,,,Maioliche,,
 BO0624_4866,145854,148,144,"PIccoLo PIATTo policromo, ornato in mezzo da un paesaggio, nel bordo da putti e mascheroni. Manifattura abruzzese.",608.0,98.2,False,positional,,,Maioliche,,
 BO0624_4866,145855,149,146,"ALBERELLo cilindrico, dipinto a tre colori, ornato da due medaglioni, con dentro dei monogrammi gotici. Manifattura di",613.0,93.8,False,positional,,,Maioliche,,
-BO0624_4866,145856,150,147,"PIATTo concavo policromo, ornato colleffigie della Madonna che sorregge il Bambino. Nella parte posteriore e scritto: Sora Gostanza 1543.Manifattura urbinate.",618.0,84.9,False,positional,,,Maioliche,,
+BO0624_4866,145856,150,147,"PIATTo concavo policromo, ornato colleffigie della Madonna che sorregge il Bambino. Nella parte posteriore e scritto: Sora Gostanza 1543.Manifattura urbinate.",618.0,84.9,False,positional,,,Maioliche,,Sec. XVI
 BO0624_4866,145857,151,148,"VAso di forma sferoidale, lipinto a vari colori, ornato con",622.0,53.3,False,positional,,,VASI,,
 BO0624_4866,145858,152,2,"fogliami, frutti e targa accartocciata con scritta farmaceutica. Manifattura di Casteldurante.",627.0,50.9,False,positional,,,Maioliche,,
 BO0624_4866,145859,153,150,"ALBERELLo cilindrico dipinto in azzurro e lumeggiato in giallo ornato con medaglione portante ritratto d'uomo, dal quale si dipartono delle volute quattrocentesche. Nella parte superiore del vaso e la scritta:Vo—R—ROSINO—.Manifattura faentina.",633.0,98.3,False,positional,,,VASI,,
@@ -177,25 +177,25 @@ BO0624_4866,145881,175,172,"ScRIvANIA di legno scolpito, con bocchette di bronzo
 BO0624_4866,145882,176,173,TAvoLo di ebano intarsiato con avorio graffto.,759.0,92.8,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145883,177,3,Lungo M.o.82 -Alto M.o.82 -—Largo M.o.61.,760.0,86.8,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145884,178,4,"vanti e decorato di ricci a fogliame,da uno stemma al centro",761.0,65.2,False,positional,LUCA GIORDANO,,,,
-BO0624_4866,145885,179,5,e da foglie di acanto agli angoli. Secolo XVI.,762.0,97.8,False,positional,LUCA GIORDANO,,,,
+BO0624_4866,145885,179,5,e da foglie di acanto agli angoli. Secolo XVI.,762.0,97.8,False,positional,LUCA GIORDANO,,,,Sec. XVI
 BO0624_4866,145886,180,174,"bis. ORoLoG1o a pendolo, impellicciato con radice di rosa e ornato con bronzi. Stile Luigi XV.",767.0,96.7,False,positional,LUCA GIORDANO,Periodo di Luigi XV,,,
 BO0624_4866,145887,181,175,F1oRIERA scolpita in legno. Lunga M.o.92-Alta M.o.4o -Larga M.o.55.,771.0,89.4,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145888,182,176,SPEccHIERA con larga cornice in legno centinato a sbalzo e,772.0,83.5,False,positional,LUCA GIORDANO,,CORNICI,,
 BO0624_4866,145889,183,178,CANTERANo di noce a massello. Gli angoli sono ornati con cariatidi scolpite. Quattro tiratori scorniciati. Maniglie e borchie,777.0,98.4,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145890,184,179,"SEDioNE in noce a braccioli spianati, con l'alto dossiere scol-",782.0,74.4,False,positional,LUCA GIORDANO,,,,
-BO0624_4866,145891,185,2,pito. Cuscino in broccatello. Epoca 1500.,784.0,28.6,False,positional,LUCA GIORDANO,,,,
+BO0624_4866,145891,185,2,pito. Cuscino in broccatello. Epoca 1500.,784.0,28.6,False,positional,LUCA GIORDANO,,,,Sec. XVI
 BO0624_4866,145892,186,18,o. QuATTRO SGABELLoNI in noce a dossello alto sagomato. Ep. 16oo. Alti M.1.,786.0,91.5,False,positional,LUCA GIORDANO,,,,
-BO0624_4866,145893,187,181,SERBAToio per acqua in rame sbalzato di forma conica. Secolo XVII.,793.0,96.2,False,positional,LUCA GIORDANO,,,,
+BO0624_4866,145893,187,181,SERBAToio per acqua in rame sbalzato di forma conica. Secolo XVII.,793.0,96.2,False,positional,LUCA GIORDANO,,,,Sec. XVII
 BO0624_4866,145894,188,182,DuE RITRATTI su rame in cornice scolpita e dorata.,797.0,96.1,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145895,189,183,RITRATTo D'uoMo dipinto su carta in cornice di legno scolpito e dorato.,801.0,97.2,False,positional,LUCA GIORDANO,,,,
-BO0624_4866,145896,190,184,PIATTo di rame sbalzato con rosone al centro. XVI secolo. Diametro M.o.41.,805.0,84.6,False,positional,LUCA GIORDANO,,,,
+BO0624_4866,145896,190,184,PIATTo di rame sbalzato con rosone al centro. XVI secolo. Diametro M.o.41.,805.0,84.6,False,positional,LUCA GIORDANO,,,,Sec. XVI
 BO0624_4866,145897,191,185,MeNsoLA da muro in noce scolpita a volute. Epoca Luigi XV.,809.0,96.6,False,positional,LUCA GIORDANO,Periodo di Luigi XV,,,
 BO0624_4866,145898,192,186,"CALAMAlo di bronzo cesellato e dorato, formato da due libri sovrapposti. Epoca Impero.",813.0,96.5,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145899,193,187,MeNsoLA da muro in noce scolpita a foglie. Epoca Luigi XVI.,817.0,80.3,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145900,194,188,"STATuETTA di bronzo, rappresentante un guerriero cinese antico. Alt.M.0.27.",819.0,97.3,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145901,195,189,"TRE DIPINTI foreali, in cornice di legno dorato.",820.0,84.4,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145902,196,2,M.0.16X0.13.,,0.0,True,none,,,,,
-BO0624_4866,145903,197,3,"19o. DuE BOTTIGLIE di vetro di Boemia, con ornati d'oro. Secolo XVIII.",821.0,98.5,False,positional,LUCA GIORDANO,,BOTTIGLIE,,
+BO0624_4866,145903,197,3,"19o. DuE BOTTIGLIE di vetro di Boemia, con ornati d'oro. Secolo XVIII.",821.0,98.5,False,positional,LUCA GIORDANO,,BOTTIGLIE,,Sec. XVIII
 BO0624_4866,145904,198,I91,"DuE BUsTINI D'IMPERAToRI in marmo di Carrara, su basi di",825.0,88.0,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145905,199,192,"DuE BUSTINI D'IMPERATORI, simili ai precedenti. Alti M. 0.25.",829.0,84.9,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145906,200,193,"QuINDICI RITRATTINI antichi, dipinti su rame, rinchiusi in cornice ovale dorata.",831.0,97.5,False,positional,LUCA GIORDANO,,,,
@@ -236,7 +236,7 @@ BO0624_4866,145940,234,227,"PiATTo concavo con pieduccio, policromato, decorato 
 BO0624_4866,145941,235,228,"MATToNELLA a forma di croce romana, dipinta a due colori, ornata daleggieri motivi del Rinascimento.Manifattura faentina. Cm.18X18.",982.0,71.9,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145942,236,229,"ALBERELLO strozzato in mezzo, dipinto a vari colori, decorato con stemma rappresentante un leone rampante che sorregge",983.0,98.3,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145943,237,230,"ALBERELLo strozzato in mezzo, eguale al precedente.",988.0,96.1,False,positional,LUCA GIORDANO,,,,
-BO0624_4866,145944,238,231,"VAso DA FARMACIA policromo, rappresentante Giobbe nel letamaio. In una targa nella parte superiore e scritto: D.r F. A ·X· CRUVE· P· A·5·1735*; in un'altra nella parte inferiore: IOB SEDENS IN STRQUILINIO. Manifattura degli Abruzzi.",990.0,84.6,False,positional,LUCA GIORDANO,,VASI,,
+BO0624_4866,145944,238,231,"VAso DA FARMACIA policromo, rappresentante Giobbe nel letamaio. In una targa nella parte superiore e scritto: D.r F. A ·X· CRUVE· P· A·5·1735*; in un'altra nella parte inferiore: IOB SEDENS IN STRQUILINIO. Manifattura degli Abruzzi.",990.0,84.6,False,positional,LUCA GIORDANO,,VASI,,Sec. XVIII
 BO0624_4866,145945,239,232,"ALBERELLo strozzato in mezzo, alquanto allungato, dipinto a vari colori, ornato da fogliami gotici a volute e da arabesche. Manifattura faentina.Assai raro.",994.0,98.4,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145946,240,233,"ALBERELLo strozzato in mezzo, simile al precedente. Vedi illustrazione,pag.Ill.",1000.0,96.2,False,positional,LUCA GIORDANO,,,,
 BO0624_4866,145947,241,234,"PiATTo concavo policromato, decorato da Luigi Fontana con una composizione rappresentante la morte di Leandro.Manifattura urbinate.",1001.0,98.5,False,positional,LUCA GIORDANO,,,,
@@ -285,19 +285,19 @@ BO0624_4866,145989,283,274,"DtE sALIERE d'argento cesellato, a forma di treppied
 BO0624_4866,145990,284,275,"MiNIATuRA su avorio, rappresentante il ritratto della Marchesa Carolina vedova Zambeccari. Cornice in legno scolpito e",1188.0,95.5,False,positional,BUONARROTI MICHELANGELO,,MINIATURE,,
 BO0624_4866,145991,285,2,dorato.,1190.0,16.7,False,positional,BUONARROTI MICHELANGELO,,,,
 BO0624_4866,145992,286,3,nifattura di Abruzzi.,,0.0,True,none,,,,,
-BO0624_4866,145993,287,276,"DuE vAsI di maiolica, di forma cilindrica, strozzati alla parte centrale e decorati di uno stemma. Manifattura di Faenza. XVII secolo.",1192.0,98.5,False,positional,BUONARROTI MICHELANGELO,Scuola Faentina,VASI,,
-BO0624_4866,145994,288,277,"INcisioNE, presentante il ritratto del Cardinale Guglielmo Dubois. Firmata P.Drevet 1724. Cornice liscia di noce.",1196.0,98.2,False,positional,BUONARROTI MICHELANGELO,,,,
-BO0624_4866,145995,289,278,"QUATTRO ToRCIERE in ferro battuto, con fusto a tortiglione. Epoca secolo XV.",1199.0,97.3,False,positional,BUONARROTI MICHELANGELO,,,,
+BO0624_4866,145993,287,276,"DuE vAsI di maiolica, di forma cilindrica, strozzati alla parte centrale e decorati di uno stemma. Manifattura di Faenza. XVII secolo.",1192.0,98.5,False,positional,BUONARROTI MICHELANGELO,Scuola Faentina,VASI,,Sec. XVII
+BO0624_4866,145994,288,277,"INcisioNE, presentante il ritratto del Cardinale Guglielmo Dubois. Firmata P.Drevet 1724. Cornice liscia di noce.",1196.0,98.2,False,positional,BUONARROTI MICHELANGELO,,,,Sec. XVIII
+BO0624_4866,145995,289,278,"QUATTRO ToRCIERE in ferro battuto, con fusto a tortiglione. Epoca secolo XV.",1199.0,97.3,False,positional,BUONARROTI MICHELANGELO,,,,Sec. XV
 BO0624_4866,145996,290,279,"DuE vas1 da farmacia, di forma cilindrica, strozzati alla parte centrale e decorati di arabeschi turchini su fondo bianco.",1203.0,97.5,False,positional,BUONARROTI MICHELANGELO,,,,
 BO0624_4866,145997,291,2,"28o. PosA-GIoIE d'argento, a forma di piattino, con lorlo di filigrana, sostenuto da tre piedi.",1204.0,98.3,False,positional,BUONARROTI MICHELANGELO,,,,
-BO0624_4866,145998,292,281,ANITRA di maiolica policroma.Manifattura di Faenza. Secolo XVIII.,1208.0,96.9,False,positional,BUONARROTI MICHELANGELO,Scuola Faentina,,,
+BO0624_4866,145998,292,281,ANITRA di maiolica policroma.Manifattura di Faenza. Secolo XVIII.,1208.0,96.9,False,positional,BUONARROTI MICHELANGELO,Scuola Faentina,,,Sec. XVIII
 BO0624_4866,145999,293,282,"BAcILE di maiolica, decorato al centro di unangelo,e tutt'intorno di fogliami e fiori policromi. Manifattura di Faenza. Diametro M.o3.",1212.0,97.0,False,positional,BUONARROTI MICHELANGELO,Scuola Faentina,,,
 BO0624_4866,146000,294,2,283.BusTo DI CARACALLA. Petto di marmo africano con panneggio,1213.0,100.0,False,positional,BUONARROTI MICHELANGELO,,,,
 BO0624_4866,146001,295,284,"STAMPA a fumo, rappresentante il quadro 《Apollo e le ninfe 》, di R. Wilson,firmata R. Earlom. Cornice tinta a noce e dorata.",1218.0,95.2,False,positional,BUONARROTI MICHELANGELO,,,,
-BO0624_4866,146002,296,285,"GRANDE POLTRONA di noce a braccioli, terminanti a voluta ornata di foglia intagliata. Sedile e spalliera ricoperta di vel, luto rosso.Secolo XVII.",1223.0,98.3,False,positional,BUONARROTI MICHELANGELO,,POLTRONE,,
+BO0624_4866,146002,296,285,"GRANDE POLTRONA di noce a braccioli, terminanti a voluta ornata di foglia intagliata. Sedile e spalliera ricoperta di vel, luto rosso.Secolo XVII.",1223.0,98.3,False,positional,BUONARROTI MICHELANGELO,,POLTRONE,,Sec. XVII
 BO0624_4866,146003,297,286,"DuE CANAPE a braccioli, senza spalliera, ricoperta di stoffa",1224.0,95.0,False,positional,BUONARROTI MICHELANGELO,,,,
 BO0624_4866,146004,298,3,chiara (moderna). Epoca Luigi XVI.,1225.0,96.8,False,positional,BUONARROTI MICHELANGELO,,,,
-BO0624_4866,146005,299,288,"CAssETTA con scacchiera, ad intarsio da una parte e figura di di donna a cavallo intagliata rilievo dallaltra. Trenta pezzi da giuoco con paesaggi e ritratti a rilievo. Datata anno 1631. Appartenuta alla Regina di Svezia.",1233.0,97.9,False,positional,BUONARROTI MICHELANGELO,,,,
+BO0624_4866,146005,299,288,"CAssETTA con scacchiera, ad intarsio da una parte e figura di di donna a cavallo intagliata rilievo dallaltra. Trenta pezzi da giuoco con paesaggi e ritratti a rilievo. Datata anno 1631. Appartenuta alla Regina di Svezia.",1233.0,97.9,False,positional,BUONARROTI MICHELANGELO,,,,Sec. XVII
 BO0624_4866,146006,300,289,"CoMoDE impiallacciato di noce a disegno, di forma centinata, con guarnizioni di bronzo dorato e piano di marmo bigio. Epoca Luigi XIV.",1235.0,70.9,False,positional,BUONARROTI MICHELANGELO,Periodo di Luigi XIV,,,
 BO0624_4866,146007,301,290,"DuE coNsoLLEs in legno intagliato e dorato, con fregio a fe- stoni. Piani di cottanello. Epoca Luigi XIV.",1239.0,97.5,False,positional,BUONARROTI MICHELANGELO,Periodo di Luigi XIV,,,
 BO0624_4866,146008,302,291,LuCREzIA RoMANA nell'atto d'immergersi il pugnale nel seno. Mezza figura. Cornice intagliata e dorata.,1245.0,72.0,False,positional,BUONARROTI MICHELANGELO,,,,

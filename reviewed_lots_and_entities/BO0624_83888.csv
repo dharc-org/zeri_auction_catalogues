@@ -1,12 +1,12 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83888,106421,1,1838,1883,244,61.5,False,positional,BUTIN,,,,
-BO0624_83888,106422,2,1812,1889,259,61.5,False,positional,DUPRE,,,,
-BO0624_83888,106423,3,1813,1894,280,61.5,False,positional,JACQUE,,,,
+BO0624_83888,106421,1,1838,1883,244,61.5,False,positional,BUTIN,,,,Sec. XIX
+BO0624_83888,106422,2,1812,1889,259,61.5,False,positional,DUPRE,,,,Sec. XIX
+BO0624_83888,106423,3,1813,1894,280,61.5,False,positional,JACQUE,,,,Sec. XIX
 BO0624_83888,106424,4,I,"nstallee dans un fauteuil, la mere de famille fait a ses enfants, reunis autour d'elle, la lecture de la Bible.",301,99.5,False,positional,TASSAERT,,SCOMPARTI,,
 BO0624_83888,106425,5,18,"PLAT en ancienne faience de Rhodes, decor de fleurs.",320,97.1,False,positional,TASSAERT,,PIATTI,,
 BO0624_83888,106426,6,19,AuTRE analogue. Meme faience.,326,94.7,False,positional,TASSAERT,,,,
 BO0624_83888,106427,7,20,"DEux FLAMBEAux en porcelaine de Saxe, a compartiments de feurs et paysages.",327,98.0,False,positional,TASSAERT,,TORCE,,
-BO0624_83888,106428,8,21,"Deux vAses a pans, avec couvercles en ancienne porcelaine de Chine, époque Kang-hi (1662-1723),a decor d'animaux chimeriques, rochers et feurs.",331,98.9,False,positional,TASSAERT,,VASI,,
+BO0624_83888,106428,8,21,"Deux vAses a pans, avec couvercles en ancienne porcelaine de Chine, époque Kang-hi (1662-1723),a decor d'animaux chimeriques, rochers et feurs.",331,98.9,False,positional,TASSAERT,,VASI,,Sec. XVII
 BO0624_83888,106429,9,22,"—Deux vAsQuEs rondes, legerement évasees, en ancienne porcelaine de Chine, decorees chacune d'arbustes, de branchages, de fruits, de fleurs et d'oiseaux avec feuillages sur la bordure. Nien-hao de Kang-hi.",335,99.2,False,positional,TASSAERT,,,,
 BO0624_83888,106430,10,23,"VAsQuE ronde, en ancienne porcelaine de Chine, decorée de poissons et de feuillages, avec bordure a petits lambrequins.",339,98.7,False,positional,TASSAERT,,,,
 BO0624_83888,106431,11,24,"—— GRAND vAsE balustre, en ancienne porcelaine de Chine, presentant, sur la panse, des guerriers combattant,et sur le col, la trinite Taoique.",343,98.9,False,positional,TASSAERT,,VASI,,
@@ -17,7 +17,7 @@ BO0624_83888,106435,15,28,"VAsE-RouLEAu en ancienne porcelaine de Chine, decoré
 BO0624_83888,106436,16,29,"— CoRNeT en ancienne porcelaine de Chine, decore de scenes familiales sur la panse et sur le col.",365,98.4,False,positional,TASSAERT,,,,
 BO0624_83888,106437,17,3,"o — QuATRE PLATs creux, en ancienne porcelaine de Chine, ornes chacun, dans un paysage, d''un kilin et d'un fong-hoang.",369,99.6,False,positional,TASSAERT,,PIATTI,,
 BO0624_83888,106438,18,31,"CoRNET en ancien celadon gris verdatre de la Chine, gaufre sous couverte, a decor de feuillages.",373,98.4,False,positional,TASSAERT,,,,
-BO0624_83888,106439,19,32,"—GarnITuRE composee de deux potiches avec couvercles et de deux cornets en ancienne porcelaine de Chine, epoque Kien-lung (1736-1796), decores, sur fond cotele, de reserves a paysages, de fleurs et de lambrequins.",377,99.3,False,positional,TASSAERT,,,,
+BO0624_83888,106439,19,32,"—GarnITuRE composee de deux potiches avec couvercles et de deux cornets en ancienne porcelaine de Chine, epoque Kien-lung (1736-1796), decores, sur fond cotele, de reserves a paysages, de fleurs et de lambrequins.",377,99.3,False,positional,TASSAERT,,,,Sec. XVIII
 BO0624_83888,106440,20,33,"—Deux corNETs en ancienne porcelaine de Chine, epoque Kien-lung, decores de feurs, oiseaux et lambrequins. Montes",381,98.6,False,positional,TASSAERT,,,,
 BO0624_83888,106441,21,34,"CoRNET en ancienne porcelaine de Chine, époque Kienlung, decore de scenes familiales sur la panse et le col.",385,98.6,False,positional,TASSAERT,,,,
 BO0624_83888,106442,22,35,"— Vase en ancienne porcelaine de Chine, époque Kien-lung, decore d'un grand paysage et d'une reserve contenant deux",389,98.7,False,positional,TASSAERT,,VASI,,
@@ -40,7 +40,7 @@ BO0624_83888,106458,38,52,"BusTe en marbre blanc, grandeur nature:jeune fille, l
 BO0624_83888,106459,39,53,"GroupE en terre cuite: jeune fille et amour. Signe: Mathon,",478,97.3,False,positional,TASSAERT,,,,
 BO0624_83888,106460,40,54,Groupe en terre cuite: jeune femme et enfant. Signe:,482,97.0,False,positional,TASSAERT,,,,
 BO0624_83888,106461,41,55,PeNDuLE sur socle applique en marqueterie de cuivre et,486,97.3,False,positional,TASSAERT,,,,
-BO0624_83888,106462,42,56,"— PeNDuLE en marbre blanc et bronze dore a mouvement, porte par une statuette de l'Amour ayant son arc et son carquois a ses pieds. Cadran signe : Hubschmann. Commen- - Mathon, 1880.",491,95.5,False,positional,TASSAERT,,,,
+BO0624_83888,106462,42,56,"— PeNDuLE en marbre blanc et bronze dore a mouvement, porte par une statuette de l'Amour ayant son arc et son carquois a ses pieds. Cadran signe : Hubschmann. Commen- - Mathon, 1880.",491,95.5,False,positional,TASSAERT,,,,Sec. XIX
 BO0624_83888,106463,43,57,"PeNDuLE en bronze dore et marbre vert de mer, presentant",499,97.3,False,positional,TASSAERT,,,,
 BO0624_83888,106464,44,58,"- DEUx CANDELABREs a trois lumieres, en bronze patine et dore et marbre vert de mer, formes chacun d'un vase de fammes, porte par un groupe de trois femmes adossees. Commencement du xix siecle.",504,99.2,False,positional,TASSAERT,,CANDELABRI,,
 BO0624_83888,106465,45,59,"PENDULE,DEUX CANDELABREs ET DEUX COUPEs en bronZe et marbre bleu turquin; amours et colonnettes. Maison Raingo.",507,98.6,False,positional,TASSAERT,,CANDELABRI,,

@@ -84,7 +84,7 @@ BO0624_87508,444830,82,94,"1 Zinnkanne, reich gewunden. Zunftschild. Dreifammige
 BO0624_87508,444831,83,93,"1 Zinnkanne, gewunden, Zunftschild. Drei Drachenbusten als Fisse.",331,97.6,False,title_direct,,,Zinn,,
 BO0624_87508,444832,84,96,"1 Zinnkanne,",332,88.0,False,title_direct,,,Zinn,,
 BO0624_87508,444833,85,97,"1 Zinnkanne, in der Mitte der Leibung eine Nische, in welcher die volle Figur eines Ritters mit Lanze und Schild steht. Gekront mit gequaderten Fahnen. Der Deckel mit Schild geziert. 3 Kugelfuisse.",336,99.2,False,title_direct,,,Zinn,,
-BO0624_87508,444834,86,98,"1 Zinnkanne, gewunden, Schild mit Inschrift Karl Moler, Backermeister, Aalen 1703.",337,98.1,False,title_direct,,,Zinn,,
+BO0624_87508,444834,86,98,"1 Zinnkanne, gewunden, Schild mit Inschrift Karl Moler, Backermeister, Aalen 1703.",337,98.1,False,title_direct,,,Zinn,,Sec. XVIII
 BO0624_87508,444835,87,99,"1 Zinnkanne, in der Mitte der Leibung volle Figur eines Ritters mit Armbrust und Schild in Nische. Deckelverzierung Wappenschild mit Hellebarde.",338,98.9,False,title_direct,,,Zinn,,
 BO0624_87508,444836,88,100,"1 Zinnkanne,",339,84.6,False,title_direct,,,Zinn,,
 BO0624_87508,444837,89,101,"1 gewundene Zinnkanne, auf 3 Drachenfuissen. Schild mit Inschrift Altmeister Heinrich",343,97.6,False,title_direct,,,Zinn,,
@@ -120,7 +120,7 @@ BO0624_87508,444866,118,130,"1 Milchkanne,",400,85.7,False,positional,,,Eisen; Z
 BO0624_87508,444867,119,131,"1 Empireuntersatz, reich getriebene Arbeit.",401,95.3,False,positional,,,Eisen; Zinn; Kupfer; Bronce,,
 BO0624_87508,444868,120,132,"1 Messinglichtputzscheere,",402,92.6,False,positional,,,Eisen; Zinn; Kupfer; Bronce,,
 BO0624_87508,444869,121,133,"2 Bronce-Engel, musicirend in reizender Stellung, wunderbare Modellirung.",404,97.2,False,title_direct,,,Bronce,,
-BO0624_87508,444870,122,134,"1 Messing Stov (Warmehalter), reich durchbrochene Arbeit. Inschrift E. M. 1786.",408,97.3,False,positional,,,Eisen; Zinn; Kupfer; Bronce,,
+BO0624_87508,444870,122,134,"1 Messing Stov (Warmehalter), reich durchbrochene Arbeit. Inschrift E. M. 1786.",408,97.3,False,positional,,,Eisen; Zinn; Kupfer; Bronce,,Sec. XVIII
 BO0624_87508,444871,123,135,"1 Kelch,",409,77.8,False,positional,,,Eisen; Zinn; Kupfer; Bronce,,
 BO0624_87508,444872,124,136,"2 Bronceleuchter, frihe Gothik, iberaus reiche Proflirung. Vorzigliche Sticke.",410,97.4,False,title_direct,,,Bronce,,
 BO0624_87508,444873,125,137,"2 Bronceleuchter,",414,88.9,False,title_direct,,,Bronce,,
@@ -347,13 +347,13 @@ BO0624_87508,445093,345,399,Landschaft.,1603,83.3,False,positional,Dortschy,,,,
 BO0624_87508,445094,346,400,Mondscheinlandschaft.,1611,90.9,False,positional,Wiribice,,,,
 BO0624_87508,445095,347,401,Winterlandshaft.,1615,88.2,False,positional,Wiribice,,,,
 BO0624_87508,445096,348,I,"m Vordergrunde iberbrickter Fluss und Wasserfall,auf der Bricke Schafherde mit Hirt. Am Ufer bepackter Esel und 3 Personen. Hintergrund Waldlandschaft in schoner Perpective.",1642,99.7,False,positional,Isaac de Moucheron,,,,
-BO0624_87508,445097,349,1640,1711.,1674,61.5,False,positional,Gerard de Lairesse,,,,
+BO0624_87508,445097,349,1640,1711.,1674,61.5,False,positional,Gerard de Lairesse,,,,Sec. XVIII
 BO0624_87508,445098,350,I,"m Walde auf Moosbank schlafend Mars, ihm zur Seite Venus von Amoretten umgeben,in Luft schwebender Amor einen Pfeil abschiessend. Prachtige Farbenwirkung.",1676,99.7,False,positional,Gerard de Lairesse,,,,
 BO0624_87508,445099,351,I,"m Vordergrund Hirte, Kihe und Schafe zur Tranke fuihrend, dabei zu Pferde eine Frau mit Kind auf dem Arme. Im Hintergrunde Berglandschaft.",1705,99.6,False,positional,H. Schuchmann,,,,
 BO0624_87508,445100,352,I,m Tempel die Schriftgelehrten voll Staunen und BewunderJesuskindes horchend.  Im der Thire des Tempels die Mutter Maria und der heilige Joseph rung der Rede des 12jahrigen Hintergrunde an Wundervolle Charakteristik und schone Farbenharmonie.,1727,99.8,False,positional,Peter Paul Rubens,,,,
 BO0624_87508,445101,353,415,Christus und die Ehebrecherin.,1740,93.5,False,positional,Gerard von Honthorst,,,,
 BO0624_87508,445102,354,I,"nmitten einer aufgeregten Gruppe Hohepriester und Schriftgelehrter steht Christus, neben sich die Ehebrecherin in demithiger Haltung. Alle Figuren in Kniestick mit meister-",1744,99.7,False,positional,Gerard von Honthorst,,OGGETTI VARI,,
-BO0624_87508,445103,355,1638,1709.,1750,61.5,False,positional,M. Hobbema,,,,
+BO0624_87508,445103,355,1638,1709.,1750,61.5,False,positional,M. Hobbema,,,,Sec. XVIII
 BO0624_87508,445104,356,417,Die Ehebrecherin.,1756,88.9,False,positional,Lucas Cranach,,,,
 BO0624_87508,445105,357,416,Landschaft.,1757,83.3,False,positional,Lucas Cranach,,,,
 BO0624_87508,445106,358,I,"nmittena aufgeregter Menge vor Christus in demithiger Haltung die Ehebrecherin, von Bewaffneten gefihrt. Kniefiguren mit charakteristischen Gesichtszuigen:Sehr warmes Colorit von hochst plastischer Wirkung. Sehr bedeutendes",1761,99.8,False,positional,Lucas Cranach,Manifattura di Hochst,,,
@@ -364,9 +364,9 @@ BO0624_87508,445110,362,I,m Vordergrund auf norddeutscher Tiefebene cin Bauernha
 BO0624_87508,445111,363,I,"n einem mit Blumen nmgebcnen Kafig ein Sperling, daneben auf der Erde ein leeres Nest.- Anmuthig gruppirtes Bild.",1873,99.5,False,positional,Georg Todd,,,,
 BO0624_87508,445112,364,1800,- 429 Erntefest.,1883,100.0,False,positional,R. Bernarding,,,,
 BO0624_87508,445113,365,430,Portrait eines Lords.,1889,90.9,False,positional,Joshua Reynolds,,,,
-BO0624_87508,445114,366,431,Stillleben. 1673.,1897,69.0,False,positional,Otto Marrellis,,,,
+BO0624_87508,445114,366,431,Stillleben. 1673.,1897,69.0,False,positional,Otto Marrellis,,,,Sec. XVII
 BO0624_87508,445115,367,432,Landschaft a.d. Isar.,1905,90.5,False,positional,Carl Rottmann,,,,
-BO0624_87508,445116,368,434,"Flusslandschaft, 1691.",1914,76.9,False,positional,Anton van Dyk,,,,
+BO0624_87508,445116,368,434,"Flusslandschaft, 1691.",1914,76.9,False,positional,Anton van Dyk,,,,Sec. XVII
 BO0624_87508,445117,369,435,"Portrait der Henriette von Frankreich,",1928,94.9,False,positional,Willem Honthorst,,,,
 BO0624_87508,445118,370,436,"Todter Hase an einem Baumast hangend, am Stamm angelehnt eine Flinte, auf dem Boden todte Vogel. Leinwand. Hohe 78 cm, Breite 61 cm.",1932,98.4,False,positional,Jan Weenix,,,,
 BO0624_87508,445119,371,437,"Marktscene. Holz. Breite 37 cm, Hohe 30 cm.",1936,95.1,False,positional,Samjahr,,OGGETTI IN LEGNO,,
@@ -411,7 +411,7 @@ BO0624_87508,445157,409,480,1 Kupferstich in schwarzem Rahmen v. J. Wille.,2131,
 BO0624_87508,445158,410,481,"1 Kupferstich in schwarzem Rahmen v. Avril. Hohe 60 cm, Breite 44 cm.",2133,97.0,False,title_direct,,,Kupfer,,
 BO0624_87508,445159,411,482,"1 Kupferstich in schwarzem Rahmen v. Robert de Launy. Hohe 48 cm, Breite 50 cm.",2134,97.4,False,title_direct,,,Kupfer,,
 BO0624_87508,445160,412,483,1 Kupferstich in braunem Rahmen v. David.,2135,95.1,False,title_direct,,,Kupfer,,
-BO0624_87508,445161,413,484,1 Kupferstich in schwarzem Rahmen v. Croutelle. 1665.,2137,90.9,False,title_direct,,,Kupfer,,
+BO0624_87508,445161,413,484,1 Kupferstich in schwarzem Rahmen v. Croutelle. 1665.,2137,90.9,False,title_direct,,,Kupfer,,Sec. XVII
 BO0624_87508,445162,414,485,"1 Kupferstich in schwarzem Rahmen v. Boulfwert. Hohe 54 cm, Breite 42 cm.",2147,97.2,False,title_direct,,,Kupfer,,
 BO0624_87508,445163,415,486,"1 Kupferstich in braunem Rahmen v. Paulus' Pontius. Hohe 45 cm, Breite 34 cm.",2148,97.3,False,title_direct,,,Kupfer,,
 BO0624_87508,445164,416,487,"1 Kupferstich, colorirt in schwarzem Rahmen v. Canu.",2149,96.1,False,title_direct,,,Kupfer,,
@@ -542,7 +542,7 @@ BO0624_87508,445288,540,637,"1 Platte,",2770,80.0,False,positional,,,Romische Al
 BO0624_87508,445289,541,638,"1 Platte,",2776,80.0,False,positional,,,Romische Alterthumer,,
 BO0624_87508,445290,542,639,"1 Cartell-Uhr,",2782,86.7,False,positional,,,Romische Alterthumer,,
 BO0624_87508,445291,543,640,"1 Ampel, in Silber getriebene Leibung mit Engel-Ornamenten.",2786,96.6,False,title_direct,,,Silber,,
-BO0624_87508,445292,544,641,1 reich geschnitzte Flurbank. 17. Jahrhundert.,2790,95.6,False,positional,,,Romische Alterthumer,,
+BO0624_87508,445292,544,641,1 reich geschnitzte Flurbank. 17. Jahrhundert.,2790,95.6,False,positional,,,Romische Alterthumer,,Sec. XVII
 BO0624_87508,445293,545,642,2 China-Vasen. Prachtsticke.,2791,92.9,False,positional,,,Romische Alterthumer,,
 BO0624_87508,445294,546,643,"1 Kuh,",2792,71.4,False,positional,,,Romische Alterthumer,,
 BO0624_87508,445295,547,645,"1 Toilettenecessaire,",2804,90.9,False,positional,,,Romische Alterthumer,,

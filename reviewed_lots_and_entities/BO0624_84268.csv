@@ -1,9 +1,9 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84268,316344,1,1800,1866.,11,61.5,False,positional,BELLANGE,,,,
+BO0624_84268,316344,1,1800,1866.,11,61.5,False,positional,BELLANGE,,,,Sec. XIX
 BO0624_84268,316345,2,2,Baigneuses. ## FEL Les Courses a Brucelles.,58,76.2,False,title_direct,FEL,,,,
 BO0624_84268,316346,3,6,Le Val-de-Grace sous la neige; la cour d'entree devant la chapelle.,71,98.5,False,positional,JAURE,,,,
 BO0624_84268,316347,4,8,Fete au palais de Buckingham.,94,96.6,False,positional,LAMI,,,,
-BO0624_84268,316348,5,9,## LA TOUCHE 1913.,107,78.3,False,title_direct,LA TOUCHE,,,,
+BO0624_84268,316348,5,9,## LA TOUCHE 1913.,107,78.3,False,title_direct,LA TOUCHE,,,,Sec. XX
 BO0624_84268,316349,6,10,L'Actrice (etude).,125,90.9,False,positional,LA TOUCHE,,,,
 BO0624_84268,316350,7,12,Apres le bain.,144,89.7,False,positional,LHERMITTE,,,,
 BO0624_84268,316351,8,13,Le Retour du troupeau.,157,93.3,False,positional,LUIGINI,,,,

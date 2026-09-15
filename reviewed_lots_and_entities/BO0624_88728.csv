@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88728,656617,1,5,"RM.,uber 1000 RM.um mindestens 10 RM.",9,97.2,False,none,,,,,
+BO0624_88728,656617,1,5,"RM.,uber 1000 RM.um mindestens 10 RM.",9,97.2,False,none,,,,,Sec. XI
 BO0624_88728,656618,2,1,"SEIDENDECKE,quadratish,mit perserartigem Muster.",50,97.9,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
 BO0624_88728,656619,3,2,BIEDERMEIER-STICKEREIDECKCHEN.,51,98.3,False,positional,,Biedermeier,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
 BO0624_88728,656620,4,3,"TISCHDECKE,gelbe jap.Seide, mit figurlicher Stiderei",52,98.1,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
@@ -77,22 +77,22 @@ BO0624_88728,656691,75,86,"CHINATEPPICH, einfarbig blaues Mittelfeld, lahsrosa,b
 BO0624_88728,656692,76,87,"AUBUSSONTAPISSERIE,18.JHDT.Landiche Szene. Ein Knabe und ein Madhen tragen einen gefulten Blumenkorb. Rankenbordure. Wolle. 255x135 cm. Abbildung Tafel 6",141,99.0,False,title_direct,,,AUBUSSONS,,
 BO0624_88728,656693,77,88,"DESGL., 18. JHDT. Shaferszene. Unter einer Palme sitzt ein Liebespaar, die",142,97.8,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
 BO0624_88728,656694,78,89,"VLAMISCHER GOBELIN,17. JHDT. Opferung Isaaks, Rankenbordure. Wolle mit Seide. 295x360cm. Abbildung Tafel 4",144,98.5,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
-BO0624_88728,656695,79,90,AUBUSSONTAPISSERIE UM 1700:Mythologishe Frauenfigur in Landshaft.,145,97.7,False,title_direct,,,AUBUSSONS,,
+BO0624_88728,656695,79,90,AUBUSSONTAPISSERIE UM 1700:Mythologishe Frauenfigur in Landshaft.,145,97.7,False,title_direct,,,AUBUSSONS,,Sec. XVIII
 BO0624_88728,656696,80,91,"VLAMISCHER GOBELIN,ENDE 17. JHDT. Furstlicher Empfang. Unter einem Zelt empfangt der Feldherr den geshlagenen Gegner. Festungs-Hintergrund.Wolle mit Seide. Erganzte Akanthus=Rankenborde. 255x272 cm,",147,99.2,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
 BO0624_88728,656697,81,92,KONIGSTIGERFELL.,148,93.8,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
 BO0624_88728,656698,82,93,EISBARFELL mit hohem Kopf.,149,94.3,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
 BO0624_88728,656699,83,94,"DESGL.,ungefuittert,",150,92.3,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
 BO0624_88728,656700,84,95,"BARENFELL,braun.",151,90.9,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
-BO0624_88728,656701,85,96,"BRUISSELER GOBELIN UM 1670, WOLLE:Der siegreiche Masinissa zieht in die Hauptstadt der Nubier ein. Der Zug zieht von rehts quer uber das Bildfeld durch ein in der Ferne sichtbares Tor in die Stadt ein. In der von Papageien und anderen Vogeln belebten Fruhte= und Blumenbordure ein Landsdaftsmedaillon,zwei Barodkkartushen auf den senkrechten Borden,in der oberen Borde eine Kartusde mit der auf blauem Grund befindlichen Inschrift: Masinissa Numidiae triumphans increditur. An der rechten AbscluBbordure die eingewirkte Marke der Manufaktur des Heinrich van Assche(1635-1680). 390x415 cm.Vgl.Goebel, Bildteppice, 1. Bd., S.378: Heinrich van Assche, Folge der Geschidte Roms. Abbildung Tafel 3",152,99.8,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
-BO0624_88728,656702,86,97,"BRUSSELER GOBELIN UM 1670, WOLLE:Die romischen Senatoren bieten Masinissa die Krone an. Masinissa, von seinem Gefolge begleitet, kniet vor den auf einem Saulenpodest stehenden Senatoren.Landschaftsdurchblidk.In der von Papageien und anderen Vogeln belebten Blumen= und Fruhtebordure ein Landshafts= medaillon, zwei Barodkkartuschen auf den senkrehten Borden;in der oberen Borde eine Kartusche mit der auf blauem Grund befindlichen Inschrift: Senatores Masinissae Coronam Oferunt. Aus der Manufaktur des Heinricd van Assche (1635-1680). 400x590 cm.Vgl.Goebel, Bildteppihe, I. Bd, S. 378: Heinrich van Asshe, Folge der Geschichte Roms.) Abbildung Tafel 1 u.2",153,99.8,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,
+BO0624_88728,656701,85,96,"BRUISSELER GOBELIN UM 1670, WOLLE:Der siegreiche Masinissa zieht in die Hauptstadt der Nubier ein. Der Zug zieht von rehts quer uber das Bildfeld durch ein in der Ferne sichtbares Tor in die Stadt ein. In der von Papageien und anderen Vogeln belebten Fruhte= und Blumenbordure ein Landsdaftsmedaillon,zwei Barodkkartushen auf den senkrechten Borden,in der oberen Borde eine Kartusde mit der auf blauem Grund befindlichen Inschrift: Masinissa Numidiae triumphans increditur. An der rechten AbscluBbordure die eingewirkte Marke der Manufaktur des Heinrich van Assche(1635-1680). 390x415 cm.Vgl.Goebel, Bildteppice, 1. Bd., S.378: Heinrich van Assche, Folge der Geschidte Roms. Abbildung Tafel 3",152,99.8,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,Sec. XVII
+BO0624_88728,656702,86,97,"BRUSSELER GOBELIN UM 1670, WOLLE:Die romischen Senatoren bieten Masinissa die Krone an. Masinissa, von seinem Gefolge begleitet, kniet vor den auf einem Saulenpodest stehenden Senatoren.Landschaftsdurchblidk.In der von Papageien und anderen Vogeln belebten Blumen= und Fruhtebordure ein Landshafts= medaillon, zwei Barodkkartuschen auf den senkrehten Borden;in der oberen Borde eine Kartusche mit der auf blauem Grund befindlichen Inschrift: Senatores Masinissae Coronam Oferunt. Aus der Manufaktur des Heinricd van Assche (1635-1680). 400x590 cm.Vgl.Goebel, Bildteppihe, I. Bd, S. 378: Heinrich van Asshe, Folge der Geschichte Roms.) Abbildung Tafel 1 u.2",153,99.8,False,positional,,,TEXTILIEN; AUBUSSONS; PERSER TEPPICHE; TAPISSERIEN,,Sec. XVII
 BO0624_88728,656703,87,98,"BLUMENTISCH im Stil des Dresdner Barodk, NuBbaum, ovale Form. Mit Zink= einsatz.",163,98.0,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656704,88,99,"ZWOLF SPEISEZIMMERSTuHLE im Renaissancestil,Eide, mit ledernen Sitz=",164,97.8,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656705,89,100,"ZWEI DESGL., groBer, Eice, mit freiliegenden Sitzkissen mit Lederbezug.",166,97.1,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656706,90,101,"BuFETT im Stil des suddeutschen Barod. Zirbelholz. Unterteil einturig, zwei= turiges auf zwei gedrehten Holzsaulen stehendes Oberteil. Einturige schrankformige Bekronung. 240x122 cm.",167,98.9,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
-BO0624_88728,656707,91,102,"LOUIS=XVI.KLAPPTISCH, Rosenholz und WurzelnuB mit reicen Intarsien, auf der aufklappbaren Platte Medaillon mit der Darstellung eines romischen Gast= mahls. Die Innenseiten fur Spielgerat eingerichtet. Norditalien um 1780.",168,99.1,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
+BO0624_88728,656707,91,102,"LOUIS=XVI.KLAPPTISCH, Rosenholz und WurzelnuB mit reicen Intarsien, auf der aufklappbaren Platte Medaillon mit der Darstellung eines romischen Gast= mahls. Die Innenseiten fur Spielgerat eingerichtet. Norditalien um 1780.",168,99.1,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,Sec. XVIII
 BO0624_88728,656708,92,103,"BAROCKZIERSCHRANK,funfshubig,NuBholz mit Elfenbein und Bandintarsien,",169,97.1,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656709,93,104,"HOLL. VITRINENSCHRANK LOUIS XVI., NuBholz mit Blumenintarsien. Unterteil zweiturig, Oberteil zweiturig verglast. 238x148 cm. Abbildung Tafel 8",171,98.5,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
-BO0624_88728,656710,94,105,"SHERATON-KLAPPTISCH, Mahag. Die Langsseiten aufklappbar.Um 1790.",172,96.8,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
+BO0624_88728,656710,94,105,"SHERATON-KLAPPTISCH, Mahag. Die Langsseiten aufklappbar.Um 1790.",172,96.8,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,Sec. XVIII
 BO0624_88728,656711,95,106,"SHERATON-STANDUHR, Mahag, mit uber Edk stehenden Saulen= und spar=",173,96.9,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656712,96,107,"EMPIRE TRICOTEUSE,Mahag., mit ornamentalen Intarsien. Wannenformiges",175,97.0,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656713,97,108,"BIEDERMEIER-TOILETTENTISCH,Birke, Unterteil funfshubig,Oberteil elf=",177,97.1,False,positional,,Biedermeier,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
@@ -137,10 +137,10 @@ BO0624_88728,656751,135,158,MARMORGRUPPE:Pan mit Flote vor einer sphinxahnlichen
 BO0624_88728,656752,136,159,"STOLLENSCHRANK im rheinischen Renaissancestil, Eice, Oberteil zweiturig,",229,97.2,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656753,137,160,"LOUIS=XV.=BUREAU-PLAT, Rosenholz, mit Marquetterie und original feuer= vergoldeten Bronzebeshlagen. Funfshubig, mit ausziehbarer Screibplatte. Auf der",231,98.6,False,positional,,Periodo di Luigi XV,PIATTI,,
 BO0624_88728,656754,138,161,"LOUIS-XV.DAMEN-BUREAU=PLAT,NuBholz,rechteckige Form. An den Shmalseiten je eine Shublade.Die Platte mit Lederbezug.Franz. 18.Jhdt. 117cm 1. Abbildung Tafel7",233,98.7,False,positional,,Periodo di Luigi XV,PIATTI,,
-BO0624_88728,656755,139,162,"LOUISXIV.FAUTEUIL,Buhe,reih geshnitztes Gestell,mit groBblumigemWoll bezug.Frankreich um 1725. Abbildung Tafel 10",234,98.7,False,positional,,Periodo di Luigi XV,SCOMPARTI,,
-BO0624_88728,656756,140,163,"BAROCK=AUSZIEHTISCH,Eihe,mit NuBholzplatte,einschubig,auf gedrehten Fuben, mit umlaufender Stegverbindung. In der Platte ein sternartiges Feld. Holland um 1700.125x98 cm,",235,98.8,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
+BO0624_88728,656755,139,162,"LOUISXIV.FAUTEUIL,Buhe,reih geshnitztes Gestell,mit groBblumigemWoll bezug.Frankreich um 1725. Abbildung Tafel 10",234,98.7,False,positional,,Periodo di Luigi XV,SCOMPARTI,,Sec. XVIII
+BO0624_88728,656756,140,163,"BAROCK=AUSZIEHTISCH,Eihe,mit NuBholzplatte,einschubig,auf gedrehten Fuben, mit umlaufender Stegverbindung. In der Platte ein sternartiges Feld. Holland um 1700.125x98 cm,",235,98.8,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,Sec. XVIII
 BO0624_88728,656757,141,164,"DIPLOMATENSCHREIBTISCH im Barodkstil, zweiturig, dreishubig, Eice. Beiderseitig reich geschnitzt. 195x80 cm,",236,98.1,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
-BO0624_88728,656758,142,165,"QUEEN-ANNE-SIDEBOARD,Eihe, dreizugig,mit vieretagigem Aufsatz.Die Fullungen der Laden sternartig verkropft. England um 1680. 200x169x51 cm. Die Rudkwand erganzt. Mit dazugehorigem Davenport-Steingutservice mit blauem Landshaftsdekor, bestehend aus: neun groBen und seds kleinen Tellern, einer Shuissel und zwei Deckelnapfen. (Teilweise beshad.&gt; Abbildung Tafel 8",237,99.4,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
+BO0624_88728,656758,142,165,"QUEEN-ANNE-SIDEBOARD,Eihe, dreizugig,mit vieretagigem Aufsatz.Die Fullungen der Laden sternartig verkropft. England um 1680. 200x169x51 cm. Die Rudkwand erganzt. Mit dazugehorigem Davenport-Steingutservice mit blauem Landshaftsdekor, bestehend aus: neun groBen und seds kleinen Tellern, einer Shuissel und zwei Deckelnapfen. (Teilweise beshad.&gt; Abbildung Tafel 8",237,99.4,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,Sec. XVII
 BO0624_88728,656759,143,166,"KRISTALLKRONLEUCHTER im Empirestil,achtarmig,neunflammig.",238,96.6,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656760,144,167,"MESSINGKRONLEUCHTER,Barod,30armig,30flammig",239,95.6,False,positional,,,LAMPADE,,
 BO0624_88728,656761,145,168,"FRANZ.KOMMODE im Louis=XV.Stil, zweishubig, Rosenholz, mit reichen",240,96.9,False,positional,,Periodo di Luigi XV,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
@@ -163,7 +163,7 @@ BO0624_88728,656777,161,188,"189 EIN PAAR KOMMODEN im Barodkstil, Eice, je dreis
 BO0624_88728,656778,162,190,"191 EIN PAAR EMPIRE-PFEILERSPIEGEL,Mahag,im Gesims holz= geschnitzte, vergoldete Verzierungen. 133 cm h.",266,98.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88728,656779,163,192,"BAROCK-GESCHIRRSCHRANK, Eice,vierturig, mit polsterformigen Tur= fullungen.Auf Kugelfuiben.175x155 cm.",267,98.0,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656780,164,193,"RHONTISCH,Eiche.",268,88.2,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
-BO0624_88728,656781,165,194,"BAROCK-DAMENSCHREIBTISCH,Nubbaum,mit Marquetterie, zweiteilig Unterteil funfscubig,Oberteil mit shrager, aufklappbarer Schreibplatte, einschubig. Um 1700.130x100cm.",269,98.8,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
+BO0624_88728,656781,165,194,"BAROCK-DAMENSCHREIBTISCH,Nubbaum,mit Marquetterie, zweiteilig Unterteil funfscubig,Oberteil mit shrager, aufklappbarer Schreibplatte, einschubig. Um 1700.130x100cm.",269,98.8,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,Sec. XVIII
 BO0624_88728,656782,166,195,"RHONTISCH,Eiche.",270,88.2,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656783,167,196,"BIEDERMEIER-SCHREIBTISCHSESSEL,Mahag,mit groBblumigem Cretonne= bezug.",271,97.1,False,positional,,Biedermeier,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656784,168,197,"SOFABANK im Louis=XVI.-Stil, holzgeschnitzt und vergoldet, mit geblumtem",272,97.2,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
@@ -172,24 +172,24 @@ BO0624_88728,656786,170,199,"200 EIN PAAR LOUISXVIECKSCHRANKE,NuBbaum,verglast,e
 BO0624_88728,656787,171,132,"cmh,",276,66.7,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656788,172,201,"EMPIRE-PFEILERSPIEGEL, Mahag., mit Bandintarsien. 120 cm h.",277,96.4,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656789,173,202,"EIN DESGL., durchbrocen, im Gesims figurlihe Hinterglasmalerei. 108 cm h",278,97.1,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
-BO0624_88728,656790,174,203,"BAROCK-ECKKOMMODE,NuBbaum,dreishubig,mit Original-Bronzebeshlagen. n der Dedkplatte das Monogramm: B.v. G.mit Krone. Norddeutsch um 1700.",280,67.3,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
+BO0624_88728,656790,174,203,"BAROCK-ECKKOMMODE,NuBbaum,dreishubig,mit Original-Bronzebeshlagen. n der Dedkplatte das Monogramm: B.v. G.mit Krone. Norddeutsch um 1700.",280,67.3,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,Sec. XVIII
 BO0624_88728,656791,175,204,"EMPIRETISCHCHEN,oval, Mahag,einshubig, mit Marmorplatte.",281,96.4,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656792,176,205,"ETAGERENTISCH,Mahag.,dreietagig,zusammenklappbar,",282,95.9,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656793,177,206,"BIEDERMEIERNACHTTISCH,Mahag.,einturig,einshubig,mit aufklappbarer Deckplatte.",283,97.4,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656794,178,207,208 EIN PAAR FAUTEUILS im Stil des Potsdamer Rokoko mit gros= und petit=,284,97.2,False,positional,,,SCOMPARTI,,
 BO0624_88728,656795,179,209,Z10 EIN PAAR BLACKWOOD=PALMSTANDER in Form von Elefanten=,286,96.6,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656796,180,211,"STEHSPIEGEL im Louis=XVI.=Stil, weiBgold.200 cm h.",288,95.9,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
-BO0624_88728,656797,181,213,"SHERATON-SOFABANK,Mahag.,mit moosgrunem Samtbezug. Um 1780.",290,96.6,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
+BO0624_88728,656797,181,213,"SHERATON-SOFABANK,Mahag.,mit moosgrunem Samtbezug. Um 1780.",290,96.6,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,Sec. XVIII
 BO0624_88728,656798,182,214,"NAHTISCH im LouisXVI.Stil, WurzelnuB, einshubig, mit aufklappbarer Platte und ausziehbarem Scub.",291,97.9,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656799,183,215,"VITRINENSCHRANK, Barod, Eihe, Unterteil zweiturig, Oberteil verglast，",292,97.0,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656800,184,216,"SHERATONTISCH,oval auf DreifuB,Mahag,mit Bandintarsien.",294,96.4,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656801,185,217,"LOUIS-XIV.FAUTEUIL,Buhe,mit gros= und petit=point-Bezug der Zeit:Blumen= a BAROCK-SCHREIBTISCH,Eihe,zweishubig.PlattengroBe 180x70 cm.",295,68.3,False,positional,,,SCOMPARTI,,
-BO0624_88728,656802,186,218,"REGENCEFAUTEUIL, holzgeschnitztes und vergoldetes Gestell, mit gros= und petit=point-Bezug der Zeit: Palmen in Rankenumrahmung zeigend. Frankreid um 1740.",298,98.7,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
-BO0624_88728,656803,187,219,"LOUIS-XIV.-FAUTEUIL, Buhe, mit gros= und petit=point=Bezug der Zeit. Re= pariert). Auf der Lehne ein Chinesenpaar, auf dem Sitz zwei Singvogel an einer Blutenstaude zeigend. Frankreich um 1700.",299,98.9,False,positional,,,SCOMPARTI,,
+BO0624_88728,656802,186,218,"REGENCEFAUTEUIL, holzgeschnitztes und vergoldetes Gestell, mit gros= und petit=point-Bezug der Zeit: Palmen in Rankenumrahmung zeigend. Frankreid um 1740.",298,98.7,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,Sec. XVIII
+BO0624_88728,656803,187,219,"LOUIS-XIV.-FAUTEUIL, Buhe, mit gros= und petit=point=Bezug der Zeit. Re= pariert). Auf der Lehne ein Chinesenpaar, auf dem Sitz zwei Singvogel an einer Blutenstaude zeigend. Frankreich um 1700.",299,98.9,False,positional,,,SCOMPARTI,,Sec. XVIII
 BO0624_88728,656804,188,220,"LOUIS-XV.BUREAU-PLAT, zweishubig, NuBbaum und Buhe. Auf der Plate Abbildung Tafel 10",300,97.6,False,positional,,Periodo di Luigi XV,PIATTI,,
-BO0624_88728,656805,189,221,"LOUISXV.FAUTEUIL,Buhe,weit ausladendes Gestell, mit groBblumigem gros= point=Bezug. Frankreich um 1750. Der Bezug um 1830.&gt; AbbildungTafel 10",302,98.6,False,positional,,Periodo di Luigi XV,SCOMPARTI,,
+BO0624_88728,656805,189,221,"LOUISXV.FAUTEUIL,Buhe,weit ausladendes Gestell, mit groBblumigem gros= point=Bezug. Frankreich um 1750. Der Bezug um 1830.&gt; AbbildungTafel 10",302,98.6,False,positional,,Periodo di Luigi XV,SCOMPARTI,,Sec. XVIII
 BO0624_88728,656806,190,222,"GR. BAROCKSCHREIBTISCH mit vier gedrehten Saulenbeinen. Auf dem Langs= steg ein reich verkropftes Bein. KugelfuBe. Ital. NuBbaum. Florenz, Mite 17.Jhdt. 75×235×80cm，",303,98.7,False,positional,,,OGGETTI VARI,,
-BO0624_88728,656807,191,223,"LOUISXV.FAUTEUIL, Buhe, mit fraisefarbenem geblumten Seidenbezug. a LOUIS-XV.FAUTEUIL mit Verdurenbezug, Buhe. Franz. um 1750.",304,67.0,False,positional,,Periodo di Luigi XV,SCOMPARTI,,
+BO0624_88728,656807,191,223,"LOUISXV.FAUTEUIL, Buhe, mit fraisefarbenem geblumten Seidenbezug. a LOUIS-XV.FAUTEUIL mit Verdurenbezug, Buhe. Franz. um 1750.",304,67.0,False,positional,,Periodo di Luigi XV,SCOMPARTI,,Sec. XVIII
 BO0624_88728,656808,192,224,CASABANCA im Stil der italienischen Hohrenaissance. Mit Sitzkissen. 194 cm.br.,307,97.4,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656809,193,225,"KABINETTSCHRANK im Stil der italienischen Renaissance, Ebenholz,mit ver=",308,97.2,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656810,194,226,"LOUISXVFAUTEUIL,weiB gefabt,mit zershlissenem Cretonnebezug.Franzsis",310,97.1,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
@@ -200,7 +200,7 @@ BO0624_88728,656814,198,230,"KRISTALLKRONLEUCHTER im Louis-XV.Stil, versilbertes
 BO0624_88728,656815,199,231,"236 SECHS STuHLE im Louis=XV.Stil, grun gefabt. Polster fehlt.&gt;",318,96.9,False,positional,,Periodo di Luigi XV,OGGETTI VARI,,
 BO0624_88728,656816,200,237,"SOFABANK im Louis=XVI.-Stil mit Rohrbezug und einem freiliegenden, ladsrot gestreiften Seidenkissen.",319,98.0,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656817,201,238,BAROCK-TABURETT mit moosgruinem gestreiften Samtbezug.,320,96.4,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
-BO0624_88728,656818,202,239,"BAROCK-VITRINENAUFSATZ,einturig, grun gefabt, mit Blumenmalerei Um 1700.",321,97.2,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
+BO0624_88728,656818,202,239,"BAROCK-VITRINENAUFSATZ,einturig, grun gefabt, mit Blumenmalerei Um 1700.",321,97.2,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,Sec. XVIII
 BO0624_88728,656819,203,240,"SCHREIBTISCH im Renaissancestil, Eihe, zweishubig. In der Platte Sterneinlage. 200×112cm.",322,97.7,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656820,204,241,"BRONZEKRONLEUCHTER mit Glasbehang,zehnarmig,zwanzigflammig.",323,96.7,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
 BO0624_88728,656821,205,242,"BUCHERSCHRANK, Eice, zweiturig. Vorderwand verglast, Rudkwand mit Spiegelglaseinlage.",324,97.6,False,positional,,,BECHSTEIN-FLUGEL; GARTENFIGUREN,,
@@ -244,14 +244,14 @@ BO0624_88728,656858,242,300,301 ZWEI BRONZELEUCHTER in Form eines die Tulle trag
 BO0624_88728,656859,243,302,303 ZWEI CHINESISCHE BRONZEVASEN mit reichem figurlicen Relief dekor.Je zweihenklig. 62 cm h.,385,97.8,False,positional,,,KUNSTGEWERBE,,
 BO0624_88728,656860,244,304,GOLDBRONZEKARTELLUHR im Rokokostil. Das Werk signiert:Fromont aParis.120 cm h.,386,97.4,False,positional,,,KUNSTGEWERBE,,
 BO0624_88728,656861,245,305,TONFIGUR: Madonna mit Kind. In blaugoldener Fassung. 30 cm h.,387,96.6,False,positional,,,KUNSTGEWERBE,,
-BO0624_88728,656862,246,306,"FRANZ.LEDERKASSETTE in Sarkophagform,Mit schmiedeeisernen Besclagen. Um 1600.",388,97.4,False,positional,,,KUNSTGEWERBE,,
+BO0624_88728,656862,246,306,"FRANZ.LEDERKASSETTE in Sarkophagform,Mit schmiedeeisernen Besclagen. Um 1600.",388,97.4,False,positional,,,KUNSTGEWERBE,,Sec. XVII
 BO0624_88728,656863,247,307,"SEIDENFACHER,weiB,EIfenbeingestell.",394,94.4,False,title_direct,,,FACHER,,
 BO0624_88728,656864,248,308,"309 ZWEI FACHER,EIfenbein bzw.schwarze Spitzenfahne.",395,96.2,False,title_direct,,,FACHER,,
 BO0624_88728,656865,249,310,"FACHER, mit Chinoiserien bemaltes EIfenbeingestell und mit chinesierenden Blumen bemalter Pergamentbezug.",396,98.1,False,title_direct,,,FACHER,,
 BO0624_88728,656866,250,311,"EIN DESGL., geschnitztes und bemaltes Horngestell und bemalter Pergamentbezug, Scaferszenen zeigend.",397,98.0,False,positional,,,FACHER,,
 BO0624_88728,656867,251,312,"LOUIS-XV.-FACHER,reihgeschnitztes EIfenbeingestell mit Perlmuttereinlagen und Goldauflagen und bemaltem Pergamentschirm, eine Shaferszene zeigend, 18. Jhdt, In Rahmen,",398,98.8,False,title_direct,,Periodo di Luigi XV,FACHER,,
 BO0624_88728,656868,252,313,"LOUIS-XV.FACHER, geschnitztes, mit Goldauflage versehenes EIfenbeingestell, Pergamentbezug, spielende Putten, von Goldrokaillen eingefabt, zeigend.",399,98.6,False,title_direct,,Periodo di Luigi XV,FACHER,,
-BO0624_88728,656869,253,314,"LOUIS-XVI.-FACHER, geshnitztes reicbemaltes Elfenbeingestell, mit bemaltem Seidenbezug, einen Tamburinspieler und ein Blumen anbietendes Madden zeigend Gestell um 1780.",400,98.8,False,title_direct,,,FACHER,,
+BO0624_88728,656869,253,314,"LOUIS-XVI.-FACHER, geshnitztes reicbemaltes Elfenbeingestell, mit bemaltem Seidenbezug, einen Tamburinspieler und ein Blumen anbietendes Madden zeigend Gestell um 1780.",400,98.8,False,title_direct,,,FACHER,,Sec. XVIII
 BO0624_88728,656870,254,315,"LOUIS-XV.-FACHER,reicgeschnitztes und bemaltes EIfenbeingestell und bemalter",401,97.4,False,title_direct,,Periodo di Luigi XV,FACHER,,
 BO0624_88728,656871,255,316,"LOUIS-XV.FACHER, geschnitztes,mit Goldeinlage versehenes Shildpattgestell,",403,97.3,False,title_direct,,Periodo di Luigi XV,FACHER,,
 BO0624_88728,656872,256,317,"EIN DESGL., Shildpatt, mit Pergamentgestell und bemaltem Pergamentbezug, eine Shaferszene zeigend. 18. Jhdt.",405,98.1,False,positional,,,FACHER,,
@@ -262,22 +262,22 @@ BO0624_88728,656876,260,321,"LOUIS-XVI.FACHER, EIfenbeingestell mit Pergamentbez
 BO0624_88728,656877,261,322,"EIN DESGL., Elfenbeingestell mit Goldauflagen. Der erganzte Seidenbezug zeigt eine landliche Szene, einen mit Madhen bemannten Kahn.",412,98.4,False,positional,,,FACHER,,
 BO0624_88728,656878,262,323,"324 ZWEI STRAUSSFEDERFACHER,weib,in Shildpattgestellen.",413,96.4,False,title_direct,,,FACHER,,
 BO0624_88728,656879,263,325,"FACHERIMLOUISXVISTIL,Shildpat,mit Gold eingelegtem Gestell,seidener",414,97.8,False,title_direct,,,FACHER,,
-BO0624_88728,656880,264,326,"EMPIRE-SCHILDPATTFACHER, reiddurdhbrodhen, in Dreieden auslaufend Die Spitzen mit Goldornamenten gehoht. Um 1800.",416,98.2,False,title_direct,,,FACHER,,
+BO0624_88728,656880,264,326,"EMPIRE-SCHILDPATTFACHER, reiddurdhbrodhen, in Dreieden auslaufend Die Spitzen mit Goldornamenten gehoht. Um 1800.",416,98.2,False,title_direct,,,FACHER,,Sec. XIX
 BO0624_88728,656881,265,327,JAP. ELFENBEINFACHER mit reicem figurlichen Reliefdekor auf netzformigem Grund.,417,97.5,False,title_direct,,,FACHER,,
 BO0624_88728,656882,266,328,"LOUIS-XV.-ELFENBEINFACHER, auf dem Gestell hinesierende polyhrome Darstellung am Griff, dann reicdurchbrohen und teilweise vergoldet mit dem",418,98.6,False,title_direct,,Periodo di Luigi XV,FACHER,,
 BO0624_88728,656883,267,329,"PERLMUTTFACHER IM LOUIS-XVI-STIL mit Pergamentbezug, auf diesem eine in Landschaft sitzende Dame mit Blumenkorb.",420,98.2,False,title_direct,,,FACHER,,
-BO0624_88728,656884,268,330,"LOUIS-XV.-ELFENBEINFACHER,reihbemalt mit Shaferszenen. Gestell teil weise durchbrochen.Frankreich um 1750.",421,98.1,False,title_direct,,Periodo di Luigi XV,FACHER,,
-BO0624_88728,656885,269,331,"LOUIS-XV.PERLMUTTFACHER,reih mit Gold-Shaferszenen besetzt. Der Pergamentbezug zeigt Loth und seine Tohter. Das Gestell um 1750.",422,98.4,False,title_direct,,Periodo di Luigi XV,FACHER,,
+BO0624_88728,656884,268,330,"LOUIS-XV.-ELFENBEINFACHER,reihbemalt mit Shaferszenen. Gestell teil weise durchbrochen.Frankreich um 1750.",421,98.1,False,title_direct,,Periodo di Luigi XV,FACHER,,Sec. XVIII
+BO0624_88728,656885,269,331,"LOUIS-XV.PERLMUTTFACHER,reih mit Gold-Shaferszenen besetzt. Der Pergamentbezug zeigt Loth und seine Tohter. Das Gestell um 1750.",422,98.4,False,title_direct,,Periodo di Luigi XV,FACHER,,Sec. XVIII
 BO0624_88728,656886,270,332,"ELFENBEINFACHER IM LOUIS-XV.-STIL,reicdurchbrohenes Gestell, auf",423,96.9,False,title_direct,,Periodo di Luigi XV,FACHER,,
 BO0624_88728,656887,271,333,"FACHER IM LOUIS-XV.-STIL, Perlmutgestell mit Goldeinlagen und Blumen= malerei in Medaillons.Auf dem Pergamentbezug:Brautwerbung eines Konigs.",425,98.6,False,title_direct,,Periodo di Luigi XV,FACHER,,
 BO0624_88728,656888,272,334,"LOUIS-XV.FACHER, Perlmutt und Elfenbeingestell mit Flahreliefdekor und",426,97.2,False,title_direct,,Periodo di Luigi XV,FACHER,,
 BO0624_88728,656889,273,335,"LOUIS-XV.FACHER, durhbrocenes, mit Goldeinlagen verziertes Elfenbeingestell.",428,97.3,False,title_direct,,Periodo di Luigi XV,FACHER,,
 BO0624_88728,656890,274,336,"LOUIS=XVI.FACHER,durhbrohenes, mit sparlichen Goldeinlagen versehenes Elfenbeingestell. Der Pergamentbezug zeigt auf der einen Seite vier Landschafts= medaillons und drei landlide Szenen.  Rudkseitig eine Louis=XVI.Blumenranke.",430,99.1,False,title_direct,,,FACHER,,
-BO0624_88728,656891,275,337,"LOUISXV.FACHER,netzartiges Elfenbeingestell, mit Shaferszenen in Flacrelief geschmuidkt. Der Pergamentbezug zeigt auf der Vorderseite eine Shaferszene,rud= seitig eine Landscaftsansicht. Frankreich um 1750.",432,99.0,False,title_direct,,Periodo di Luigi XV,FACHER,,
+BO0624_88728,656891,275,337,"LOUISXV.FACHER,netzartiges Elfenbeingestell, mit Shaferszenen in Flacrelief geschmuidkt. Der Pergamentbezug zeigt auf der Vorderseite eine Shaferszene,rud= seitig eine Landscaftsansicht. Frankreich um 1750.",432,99.0,False,title_direct,,Periodo di Luigi XV,FACHER,,Sec. XVIII
 BO0624_88728,656892,276,338,"LOUISXVIFACHER,Perlmuttgestell mit Goldrokailleeinlagen,Der gelbe Seiden bezug mit Spitzen. Gold= und Silberapplikation zeigt das Brustbild eines Ehe=",433,98.7,False,title_direct,,,FACHER,,
 BO0624_88728,656893,277,339,"LOUIS=XVFACHER, reihdurchbrohenes, mit Goldeinlagen geshmudktes Elfen= beingestell. Der weibe Seidenbezug zeigt eine Shaferszene, von zwei gestidkten Palmwedeln fankiert.(Beshad.&gt;",435,98.9,False,title_direct,,,FACHER,,
 BO0624_88728,656894,278,340,"ELFENBEINFACHER mit Schwarzlotmalerei im Louis-XV.-Stil,",436,96.4,False,title_direct,,Periodo di Luigi XV,FACHER,,
-BO0624_88728,656895,279,341,"LOUIS-XVI.-FACHER, Shildpat, bemalt. In Goldranken auf blauem Grund be findliches Medaillon mit der schaumgeborenen Venus. Auf den Spitzen abwechselnd auf rotem und blauem Fond mythologische Figuren. Um 1790.",437,99.0,False,title_direct,,,FACHER,,
+BO0624_88728,656895,279,341,"LOUIS-XVI.-FACHER, Shildpat, bemalt. In Goldranken auf blauem Grund be findliches Medaillon mit der schaumgeborenen Venus. Auf den Spitzen abwechselnd auf rotem und blauem Fond mythologische Figuren. Um 1790.",437,99.0,False,title_direct,,,FACHER,,Sec. XVIII
 BO0624_88728,656896,280,342,"FACHER IM LOUIS=XVISTIL, EIfenbeingestell mit Seidenbezug, auf diesem Medaillon einer Dame in Rankenumrahmung.",438,98.2,False,title_direct,,,FACHER,,
 BO0624_88728,656897,281,343,"LOUIS=XV.FACHER, reicbemaltes Perlmuttgestell mit Shaferszenen in durh=",439,97.2,False,title_direct,,Periodo di Luigi XV,FACHER,,
 BO0624_88728,656898,282,344,"LOuIS-XV.FACHER, durdhbrohenes, mit Gold und Silber verziertes EIfenbein= gestell. Der Seidenbezug zeigt unter einem Baldahin ein Kartenspielerpaar. Das Gestell 18.Jhdt.(Beschad.&gt;",441,98.9,False,title_direct,,Periodo di Luigi XV,FACHER,,
@@ -299,7 +299,7 @@ BO0624_88728,656913,297,359,"EINE DESGL.,kleiner.",473,90.0,False,positional,,,K
 BO0624_88728,656914,298,360,JAP.ELFENBEINSPIEL.,474,92.3,False,positional,,,KLEINKUNST,,
 BO0624_88728,656915,299,361,"NAHGARNITUR, Perlmut,siebenteilig.In Holzetui.",475,95.7,False,positional,,,KLEINKUNST,,
 BO0624_88728,656916,300,362,GOLDBRONZEFIGUR:Napoleon.Anfang 19.Jhdt.12 cm h.,476,95.9,False,positional,,,KLEINKUNST,,
-BO0624_88728,656917,301,363,366 VIER SIEGELABDRUCKE in Goldbronzeetuis. Um 1800. Ein Siegel fehlt.&gt;,477,97.2,False,positional,,,OGGETTI VARI,,
+BO0624_88728,656917,301,363,366 VIER SIEGELABDRUCKE in Goldbronzeetuis. Um 1800. Ein Siegel fehlt.&gt;,477,97.2,False,positional,,,OGGETTI VARI,,Sec. XIX
 BO0624_88728,656918,302,367,"KONVOLUT:Kupferdose,oval, reid graviert. Auf dem Deckel ein Musikstilleben,",478,97.3,False,positional,,,KLEINKUNST,,
 BO0624_88728,656919,303,368,"369 SONDERSHAUSENER MESSINGDOSE,langlideForm,auf demDedkel Brustbild Friedrihs d. Groben in Rokailleornamenten,und KUPFERDECKELDOSE,auf dem Dedkel in Graviertehnik Tanze zeigend",480,98.9,False,positional,,,KLEINKUNST,,
 BO0624_88728,656920,304,370,"NUSSBAUM-SCHNUPFTABAKSDOSE,rund. Auf dem Dekel Portratrelief",481,96.7,False,positional,,,KLEINKUNST,,
@@ -341,17 +341,17 @@ BO0624_88728,656955,339,410,"DESGL.:Liegender Mann, einen Affen auf den Shultern
 BO0624_88728,656956,340,411,DESGL.:Zwei Rebhuhner. Signiert.,527,93.5,False,positional,,,KLEINKUNST,,
 BO0624_88728,656957,341,412,DESGL.:Hund.,528,87.0,False,positional,,,KLEINKUNST,,
 BO0624_88728,656958,342,413,DESGL.: Mann mit Frosch.,529,91.3,False,positional,,,KLEINKUNST,,
-BO0624_88728,656959,343,414,"DESGL.: Sitzende Frau, vor sich einen gefuillten Sadk haltend. a EMPIRE-KRISTALL-HENKELBECHER mit Relief-Fullhornern und den Initialen MK. Um 1800.",535,72.6,False,positional,,,OGGETTI VARI,,
+BO0624_88728,656959,343,414,"DESGL.: Sitzende Frau, vor sich einen gefuillten Sadk haltend. a EMPIRE-KRISTALL-HENKELBECHER mit Relief-Fullhornern und den Initialen MK. Um 1800.",535,72.6,False,positional,,,OGGETTI VARI,,Sec. XIX
 BO0624_88728,656960,344,415,EIN DESGL. mit Dedkel und palmettenformigem Sdlif sowie den Inschriften: Souvenir -Wilhelmine.,536,97.8,False,positional,,,GLAS,,
 BO0624_88728,656961,345,416,KRISTALLBECHER mit facherformigem Ananasschliff. Mit rotfarbigen Nuten am Rand und Boden abgesetzt.(BestoBen.&gt;,537,98.2,False,positional,,,GLAS,,
 BO0624_88728,656962,346,417,EMPIRE-STANGENGLAS mit schraglaufenden blauen Streifen.,538,96.4,False,title_direct,,,GLAS,,
 BO0624_88728,656963,347,418,"419 ZWEI GLASFLASCHEN,senffarben, eine maiskolbenformig, die andere orangenformig. Mit Zinnstopseln,",539,98.0,False,title_direct,,,GLAS,,
 BO0624_88728,656964,348,420,"421 ZWEI GLASBECHER,je vierzehnedkig; mit Emailmalerei, Shaferszenen darstellend. Mit Goldrandern.",540,97.9,False,title_direct,,,GLAS,,
 BO0624_88728,656965,349,422,"KRISTALLBECHER,faherfrmig eingeteilt,in der Mitte nutenformigeVertiefungen, mit gelben spindelformigen Mustern,",541,98.2,False,positional,,,GLAS,,
-BO0624_88728,656966,350,423,"BOHMISCHER GLASBECHER mit Tiefshnit,in drei Feldern ein shnabelndes Taubenpaar, einen Kavalier mit Pfeife und ein entflammtes Herz zeigend. Mit Um= schriften.Um 1700.",542,98.8,False,title_direct,,,GLAS,,
-BO0624_88728,656967,351,424,BOHMISCHER GLASBECHER mit den zwolf Aposteln.Um 1700.,543,96.3,False,title_direct,,,GLAS,,
+BO0624_88728,656966,350,423,"BOHMISCHER GLASBECHER mit Tiefshnit,in drei Feldern ein shnabelndes Taubenpaar, einen Kavalier mit Pfeife und ein entflammtes Herz zeigend. Mit Um= schriften.Um 1700.",542,98.8,False,title_direct,,,GLAS,,Sec. XVIII
+BO0624_88728,656967,351,424,BOHMISCHER GLASBECHER mit den zwolf Aposteln.Um 1700.,543,96.3,False,title_direct,,,GLAS,,Sec. XVIII
 BO0624_88728,656968,352,425,EMPIRE-GLASBECHER mit umlaufendem Groteskenrand.,544,95.9,False,title_direct,,,GLAS,,
-BO0624_88728,656969,353,426,KRISTALL-BOWLENGLAS auf FuB. Auf der Wandung ein Sensentrager und ein Spruch. Um 1830.,545,97.6,False,title_direct,,,GLAS,,
+BO0624_88728,656969,353,426,KRISTALL-BOWLENGLAS auf FuB. Auf der Wandung ein Sensentrager und ein Spruch. Um 1830.,545,97.6,False,title_direct,,,GLAS,,Sec. XIX
 BO0624_88728,656970,354,427,"EMPIRE-DECKELGLAS auf FuB, eingriffg. Am Rand eine umlaufende Ranke. Auf der Wandung die InitialeJ.",546,97.9,False,title_direct,,,GLAS,,
 BO0624_88728,656971,355,428,"KONVOLUT:Bohmisches Badeglas,rot,mit Ansichten von Badehausern,Beher mit Chinesen auf dem Korper; Biedermeierglas, blau abgesetzt, mit Goldranken; desgl. meergrin mit Goldranken; Kristallbecer auf sehs nutenformigen Fuben.",547,99.1,False,positional,,,GLAS,,
 BO0624_88728,656972,356,429,"GLASSEIDEL, in Flachschnitt umlaufend einen Hoczeitszug zeigend.",548,96.9,False,title_direct,,,GLAS,,
@@ -361,7 +361,7 @@ BO0624_88728,656975,359,432,"EINE DESGL., mit gezadktem Rand und siegelformigen 
 BO0624_88728,656976,360,433,"434 EIN PAAR KRISTALLSCHUSSELN auf Untersatzen, ovale Form, mit",555,96.8,False,positional,,,GLAS,,
 BO0624_88728,656977,361,435,436 ZWEI GLASKARAFFEN im Chippendalestil.Mit Stopseln.Verschieden.&gt;,557,97.1,False,title_direct,,,GLAS,,
 BO0624_88728,656978,362,437,"BOHMISCHES KRISTALL=ABENDMAHLGERAT,dreiteilig, teilweise rot",558,96.7,False,positional,,,GLAS,,
-BO0624_88728,656979,363,438,KRISTALLAUFSATZ in Shifform auf FuB. Um 1800. Sprung.&gt;,560,96.4,False,positional,,,GLAS,,
+BO0624_88728,656979,363,438,KRISTALLAUFSATZ in Shifform auf FuB. Um 1800. Sprung.&gt;,560,96.4,False,positional,,,GLAS,,Sec. XIX
 BO0624_88728,656980,364,439,KRISTALL-KONFEKTDOSE auf Untersatz mit schrifformigem umlaufenden Shliff.Anfang 19.Jhdt.,561,97.8,False,positional,,,GLAS,,
 BO0624_88728,656981,365,440,"KONVOLUT:Kristallseidel, Oberteil in Streifen braun, blau und rot iberfangen, Glasvase in Kelhform, wulstformig abgesetzt und teilweise rot uberfangen， Dedeldose mit schildformigen Vertiefungen, Glasflashe mit Stopsel mit teilweisem",562,99.1,False,positional,,,GLAS,,
 BO0624_88728,656982,366,441,GLASFRUCHTSCHALE auf hohem FuB mit Wurfelmuster.,564,95.9,False,title_direct,,,GLAS,,
@@ -372,17 +372,17 @@ BO0624_88728,656986,370,446,GLASKASEGLOCKE mit Untersatz und Wurfelmuster.,569,9
 BO0624_88728,656987,371,447,GLASFLAKON mit blauem Shuppenmuster und zugehorigem Zinnstopsel.,570,96.9,False,title_direct,,,GLAS,,
 BO0624_88728,656988,372,448,"ZuRICHER EMPIRETASSE mit himbeerfarbenem von goldenen Glodkenblumen# ranken abgesetztem Fond. Auf diesem die Silhouetten eines Offiziers mit Dreispitz, einer Dame und zwei Kindern. Signiert: Nider. Eingedrudkte Marke Z.",575,99.1,False,positional,,,KERAMIK,,
 BO0624_88728,656989,373,449,"BERLINER PORZELLANPOTPOURRI, Empire. Auf dem Korper das auf gehammertem Goldgrund befindlide Biskuitrelief Konig Friedrid Wilhelms Ill.Zepter= marke.26 cm h. Abbildung Tafel 21",576,98.9,False,positional,,Scuola di Berlino,KERAMIK,,
-BO0624_88728,656990,374,450,"BERLINER EMPIRETASSE,kampanishe Form,mit mattblauem von Goldranken durhzogenen Fond und kurzem vergoldeten Sclangenhenkel. Auf der Obertasse quadratisdhes Medaillon mit zwei an einem Altar knienden Kindern und der Uber# schrift: Wir Kinder beten zu Dir, o Gott, fur die Erhaltung unserer geliebten guten Mutter. Im Spiegel der Untertasse: Moge der heutige Tag noc oft und stets glucklicher wiederkehren Deinem Did liebenden Vater. Colbatz, d.25.Juny 1820. Zeptermarke und Malerzeichen. Abbildung Tafel 21",577,99.6,False,positional,,Scuola di Berlino,SPECCHI,,
+BO0624_88728,656990,374,450,"BERLINER EMPIRETASSE,kampanishe Form,mit mattblauem von Goldranken durhzogenen Fond und kurzem vergoldeten Sclangenhenkel. Auf der Obertasse quadratisdhes Medaillon mit zwei an einem Altar knienden Kindern und der Uber# schrift: Wir Kinder beten zu Dir, o Gott, fur die Erhaltung unserer geliebten guten Mutter. Im Spiegel der Untertasse: Moge der heutige Tag noc oft und stets glucklicher wiederkehren Deinem Did liebenden Vater. Colbatz, d.25.Juny 1820. Zeptermarke und Malerzeichen. Abbildung Tafel 21",577,99.6,False,positional,,Scuola di Berlino,SPECCHI,,Sec. XIX
 BO0624_88728,656991,375,451,"KONIGIN-LUISETASSE, shlanke, sich zum FuB stark verjungende Form mit",578,97.1,False,positional,,,KERAMIK,,
 BO0624_88728,656992,376,453,"DESGL.mit turkisfarbenem Fond, innen vergoldet und Eichenlaubrand. Auf der Obertasse ein ovales Medaillon mit dem Eisernen Kreuz, auf dem ein Adler mit ausgebreiteten Flugeln sitzt. Im Spiegel der Untertasse die Quadriga. Zeptermarke",581,99.1,False,positional,,,SPECCHI,,
 BO0624_88728,656993,377,454,DESGL.mit von Eierstabmuster a abgesetztem Feldblumenrankenrand.Auf der Obertasse Berliner Strabenansicht mit der Unterschrift: Durhfahrt nad der Louisen str.No.8u.25.Zeptermarke. Abbildung Tafel 21,583,99.0,False,positional,,Scuola di Berlino,KERAMIK,,
-BO0624_88728,656994,378,455,KONIGINLUISE-TASSE mit goldenem Kleeblatrankenrand und perlgrauem Fond. Auf diesem das auf gehammertem Goldgrund befindlice Biskuitrelief der Konigin mit der Umschrift: Sie lebt auf immer in den Herzen aller Menschen! Im Spiegel der Untertasse die goldene Inschrif: 10.Maerz 177619. Julu 1810. Zeptermarke und Malerzeichen. Abbildung Tafel 21,584,99.4,False,positional,,,SPECCHI,,
-BO0624_88728,656995,379,456,"GR.BERLINER EMPIRETASSE,innen vergoldet,mitmattblauem Fond. Goldene Empireranke am Rand. Auf der einen Seite der Obertasse das auf gehammertem Goldgrund befindlice Biskuitrelief einer Prinzessin in der Traht der Zeit, auf der anderen Seite das aus dem Goldrankengrund ausgesparte Monogramm: WL. Im Spiegel der Untertasse die aus dem Goldrankengrund ausgesparte Inschrift: Den 11ten July 1819. Zeptermarke und Malerzeichen. Abbildung Tafel 21",585,99.5,False,positional,,Scuola di Berlino,SPECCHI,,
+BO0624_88728,656994,378,455,KONIGINLUISE-TASSE mit goldenem Kleeblatrankenrand und perlgrauem Fond. Auf diesem das auf gehammertem Goldgrund befindlice Biskuitrelief der Konigin mit der Umschrift: Sie lebt auf immer in den Herzen aller Menschen! Im Spiegel der Untertasse die goldene Inschrif: 10.Maerz 177619. Julu 1810. Zeptermarke und Malerzeichen. Abbildung Tafel 21,584,99.4,False,positional,,,SPECCHI,,Sec. XIX
+BO0624_88728,656995,379,456,"GR.BERLINER EMPIRETASSE,innen vergoldet,mitmattblauem Fond. Goldene Empireranke am Rand. Auf der einen Seite der Obertasse das auf gehammertem Goldgrund befindlice Biskuitrelief einer Prinzessin in der Traht der Zeit, auf der anderen Seite das aus dem Goldrankengrund ausgesparte Monogramm: WL. Im Spiegel der Untertasse die aus dem Goldrankengrund ausgesparte Inschrift: Den 11ten July 1819. Zeptermarke und Malerzeichen. Abbildung Tafel 21",585,99.5,False,positional,,Scuola di Berlino,SPECCHI,,Sec. XIX
 BO0624_88728,656996,380,457,BERLINER SCHOKOLADENTASSE mit von Eierstabmuster abgesetztem Gold= rand. Auf der Obertasse die von Goldranken eingefabte Ansicht des Shauspiel hauses zu Berlin. Zeptermarke.,586,98.8,False,positional,,Scuola di Berlino,OGGETTI IN ORO,,
 BO0624_88728,656997,381,458,"MEISSENER SCHOKOLADENTASSE mit vergoldetem Sclangenhenkel. Auf der Obertasse die auf gehammertem Goldgrund befindlichen Biskuitreliefs eines Ehe= paares, der Mann in Uniform, die Frau in Biedermeiertradt. Auf Lowenfuben. Shwertermarke. Abbildung Tafel 21 BERLINER SCHOKOLADENTASSE, innen und Rand vergoldet, mit Eier= stabmuster,von Goldranken durchsetzt.Auf der Obertasse Ansicht der Bauschule zu Berlin.Zeptermarke und Stempel. Abbildung Tafel 21 BERLINER EMPIRETASSE,sclanke,zum FuB verjungte Form. Auf der Ober= tasse Ansidt des Berliner Sdlosses mit Unterschrift. Zeptermarke und Stempel. Abbildung Tafel 21",587,58.3,False,positional,,Scuola di Berlino,STAMPE E INCISIONI,,
 BO0624_88728,656998,382,461,"DESGL., innen vergoldet.Auf der Obertasse das auf Goldgrund befindlide Biskuit= relief Bluhers. Auf der Untertasse die goldene Inschrift:Bluher. Zeptermarke und Malerzeichen. Abbildung Tafel 21",590,98.9,False,positional,,,KERAMIK,,
 BO0624_88728,656999,383,462,"DESGL., innen und auben vergoldet, mit aufgelegtem Eierstabmuster. Auf der",591,97.2,False,positional,,,KERAMIK,,
-BO0624_88728,657000,384,463,"BERLINER EMPIRETASSE. Auf der Obertasse die Ansicht des Shauspielhauses zu Berlin mit der Untersdhrift:Den 29sten Julu 1817. Zeptermarke und Maler= zeihen,",596,98.7,False,positional,,Scuola di Berlino,KERAMIK,,
+BO0624_88728,657000,384,463,"BERLINER EMPIRETASSE. Auf der Obertasse die Ansicht des Shauspielhauses zu Berlin mit der Untersdhrift:Den 29sten Julu 1817. Zeptermarke und Maler= zeihen,",596,98.7,False,positional,,Scuola di Berlino,KERAMIK,,Sec. XIX
 BO0624_88728,657001,385,464,"BERLINER SCHOKOLADENTASSE, innen vergoldet, auf dem Henkel Eier=",597,96.8,False,positional,,Scuola di Berlino,KERAMIK,,
 BO0624_88728,657002,386,465,"MEISSENER PORZELLAN-SPEISESERVICE Teller,23Mittelteller, 35flahe Teller,24 tiefe Teller.",600,97.7,False,positional,,Scuola di Meissen,PIATTI,,
 BO0624_88728,657003,387,466,"467 EIN PAAR SEVRES-PORZELLANVASEN aufFuB,taubenblauer Fonds,",601,96.8,False,positional,,,KERAMIK,,
@@ -536,27 +536,27 @@ BO0624_88728,657150,534,638,GER.KUPFERSTICH: Der Gendarmenmarkt.Nah Shinkel. Bir
 BO0624_88728,657151,535,639,DESGL.:,813,76.9,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657152,536,640,DESGL.:,817,71.4,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657153,537,641,642 ZWEIGER.LITHOGRAPHIEN:,821,92.6,False,title_direct,,,GRAPHIK,,
-BO0624_88728,657154,538,643,SUDDEUTSCHUM 1700: 140x110cm.,826,93.1,False,positional,,,GRAPHIK; GEMALDE,,
+BO0624_88728,657154,538,643,SUDDEUTSCHUM 1700: 140x110cm.,826,93.1,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88728,657155,539,644,DESGL.:,827,71.4,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657156,540,645,DESGL.:,829,71.4,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657157,541,646,"SUDDEUTSCH,ENDE 17.JHDT.: Huftbild eines Propheten. In der Rechten eine Blumenstaude haltend, Holz. GR. ×13cm.",833,96.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88728,657158,542,647,OBERITALIENISCH: grund. Ungerahmt. 19x11 cm.,838,95.2,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657159,543,648,SCHULE DESSAMTBREUGHEL:,841,93.6,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657160,544,649,OBERITALIENISCH UM 1600: Maria selbdritt. Holz. Alter G.R. 54x40 cm.,843,96.9,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88728,657160,544,649,OBERITALIENISCH UM 1600: Maria selbdritt. Holz. Alter G.R. 54x40 cm.,843,96.9,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88728,657161,545,650,"UNBEKANNT: Winterlandshaft, im Vordergrund zwei Bauern beim Holzsagen.Lwd.S.R. 33×40cm.",844,97.6,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657162,546,651,"DEUTSCH,18.JHDT.:",845,88.2,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657163,547,652,"TH.SCHMIDT: Damen=Portrat —Herren=Portrat,vor shwarzem Hintergrund. Rudkseitig sign. und dat.1848.Lwd.S.=R.53x47cm.",848,98.2,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657164,548,653,SUDDEUTSCH UM 1700: Christus und die Junger. Lwd. G.R. 30x36 cm.,849,97.5,False,positional,,,GRAPHIK; GEMALDE,,
+BO0624_88728,657163,547,652,"TH.SCHMIDT: Damen=Portrat —Herren=Portrat,vor shwarzem Hintergrund. Rudkseitig sign. und dat.1848.Lwd.S.=R.53x47cm.",848,98.2,False,positional,,,GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88728,657164,548,653,SUDDEUTSCH UM 1700: Christus und die Junger. Lwd. G.R. 30x36 cm.,849,97.5,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88728,657165,549,654,"DEUTSCHER SITTENMALER,18.JHDT.:",850,95.1,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657166,550,655,"DEUTSCH,18.JHDT.: Huftbild einer Prinzessin in rotem Gewand und blauem Uuberwurf. Lwd. S.R. 50×40cm,",851,98.4,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657167,551,656,"SUDDEUTSCHER MEISTER,17.JHDT.:",852,93.3,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657168,552,657,658 HOLLANDISCHER MEISTER UM 1700:,854,94.3,False,positional,,,GRAPHIK; GEMALDE,,
+BO0624_88728,657168,552,657,658 HOLLANDISCHER MEISTER UM 1700:,854,94.3,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88728,657169,553,659,"DEUTSCH,18.JHDT.: Frauenportrat. Links unten der Name der Dargestellten, Im Oval.Lwd. S.=R. ×58cm，",859,94.9,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657170,554,660,DESGL.:,863,71.4,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657171,555,661,"662 SUDDEUTSCHER MEISTER,18.JHDT.: Huftbild eines Ritters mit Allongeperudke und Marschallstab.- Huftbild einer",865,98.2,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657172,556,663,NACH A.CUyPEL:,869,89.7,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657173,557,664,665NACH CANALETTO: Der Markusplatz in Venedig.Die Seufzerbrucke in Venedig. Gegenstudke.,871,97.7,False,positional,CANALE ANTONIO,,GRAPHIK; GEMALDE,,
-BO0624_88728,657174,558,666,L.BACKHUYSEN:,873,88.9,False,positional,,,GRAPHIK; GEMALDE,,
+BO0624_88728,657174,558,666,L.BACKHUYSEN:,873,88.9,False,positional,BACKHUYSEN LUDOLF,,GRAPHIK; GEMALDE,,
 BO0624_88728,657175,559,667,"SEB.BOURDONZUGESCHR.: Greisenportrat.Lwd.G,-R.78x61 cm.",875,96.2,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657176,560,668,"A.VACCARO (KREIS): Die heilige Anna selbdritt. Im Hintergrund Saulenpodest. Holz. G.-R. 88x68 cm,",876,98.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88728,657177,561,669,"EDUARD GARTNER: Der Neue Markt in Dresden, im Vordergrund links sieht ein Wahtposten dem Beschauer entgegen. Lwd. G,R. 48x55 cm.",877,98.4,False,positional,,,GRAPHIK; GEMALDE,,
@@ -564,54 +564,54 @@ BO0624_88728,657178,562,670,JULES RAYMOND:,878,86.7,False,positional,,,GRAPHIK; 
 BO0624_88728,657179,563,671,KREIS DES SYLVESTRE:,880,90.5,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657180,564,672,FRANCOIS MILLET D.ALT.:,882,91.3,False,positional,MILLET JEAN FRANCOIS,,GRAPHIK; GEMALDE,,
 BO0624_88728,657181,565,673,C. MOLENAER: Landshaft mit figurlicher Staffage. Von links fuhrt eine Landstrabe uber eine Steine bruke zu einem Gehoft. Im Vordergrund links drei sich unterhaltende Bauern. Sign. Holz. G.=R.32x45 cm.,884,99.0,False,positional,MOLENAER CLAAS,,OGGETTI IN LEGNO,,
-BO0624_88728,657182,566,674,"675 NIEDERLANDISCHER MEISTER UM 1700: Stilleben von Pflaumen, Pfirsichen, Nussen und einer Melone, einem Zinnteller und halb gefulltem Romer. Gegenstidke. Lwd.Alter G.R. 35x47 cm.",885,98.8,False,positional,,,PIATTI,,
+BO0624_88728,657182,566,674,"675 NIEDERLANDISCHER MEISTER UM 1700: Stilleben von Pflaumen, Pfirsichen, Nussen und einer Melone, einem Zinnteller und halb gefulltem Romer. Gegenstidke. Lwd.Alter G.R. 35x47 cm.",885,98.8,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_88728,657183,567,676,"C.NETSCHER: Portrat eines in einem Garten sitzenden Edelmanns, die Rehte auf einen Steintish stuitzend, braunes Gewand, blauer Samtuberwurf. Sign. Lwd. S.R. 50x43 cm.",886,98.7,False,positional,NETSCHER CONSTANTIN,,GRAPHIK; GEMALDE,,
-BO0624_88728,657184,568,677,"680 NIEDERLANDISCH UM 1700: Vier Supraporten, Blumenstilleben. Lwd. Alter G,R. 75x107 cm. (Beshad.)",887,97.8,False,positional,,,OGGETTI VARI,,
+BO0624_88728,657184,568,677,"680 NIEDERLANDISCH UM 1700: Vier Supraporten, Blumenstilleben. Lwd. Alter G,R. 75x107 cm. (Beshad.)",887,97.8,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_88728,657185,569,681,SCHULE DES A. WATTEAU: G.=R.100x80cm.,889,94.3,False,positional,WATTEAU FRANCOIS,Scuola Di J. A. Watteau,GRAPHIK; GEMALDE,,
-BO0624_88728,657186,570,682,ITALIENISCHER MEISTER UM 1700: Stilleben von Nelken und Rosen unter blauem Himmel. Lwd. G.R. 99x72 cm.,890,98.5,False,positional,,,GRAPHIK; GEMALDE,,
+BO0624_88728,657186,570,682,ITALIENISCHER MEISTER UM 1700: Stilleben von Nelken und Rosen unter blauem Himmel. Lwd. G.R. 99x72 cm.,890,98.5,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88728,657187,571,683,"KREISDES D.RYCKAERDT: Wirtshausszene.Im Vordergrund rechts eine Gruppe von vier Kartenspielern,im Hintergrund links eine Gruppe von drei rauhenden Bauern. Lwd. G,R. 48x60 cm.",891,99.1,False,positional,,,OGGETTI VARI,,
 BO0624_88728,657188,572,684,KREIS DES CLAUDE LORRAIN:,892,94.1,False,positional,"GELEE CLAUDE, LORRAIN",,GRAPHIK; GEMALDE,,
 BO0624_88728,657189,573,685,F.C.JANNECK:,894,88.0,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657190,574,686,"KREIS DES BREKELENKAM: Die Hausfrau bei der Zubereitung von Gemuise. An einem Kuchentish, auf dem ein Krug und Fleish steht, sitzt die Wirtin, mit der Linken Obst, das ihr von einem Knaben angeboten wird, prufend, in der Rechten einen Marktkorb haltend. Im Vordergrund ein Kohlkopf usw.Holz. G.R. 35x30 cm.",896,99.3,False,positional,BREKELENKAM QUIRIN,,OGGETTI IN LEGNO,,
 BO0624_88728,657191,575,687,NACH OUDRY:,897,83.3,False,positional,OUDRY JEAN BAPTISTE,,GRAPHIK; GEMALDE,,
-BO0624_88728,657192,576,688,HOLLANDISCHER MEISTER G.S.UM 1700:,899,95.7,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657193,577,689,PAOLOMORELLI(1695-1780&gt;:,901,94.3,False,positional,,,GRAPHIK; GEMALDE,,
+BO0624_88728,657192,576,688,HOLLANDISCHER MEISTER G.S.UM 1700:,899,95.7,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
+BO0624_88728,657193,577,689,PAOLOMORELLI(1695-1780&gt;:,901,94.3,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88728,657194,578,690,ROL.SAVERYZUGESCHR.):,905,90.0,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657195,579,691,G.OPITZ:,907,82.4,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657196,580,692,"693SCHULEDESSEEKATZGEGENSTUCKE&gt;: Kinderszenen. Kinder, Eier stehlend. Kinder an einer Ziehpumpe. Malp. G.R, 44×32cm.",909,98.2,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657197,581,694,"ANDRIESBOTH(1612-1650&gt;: Der Brief. Um ein umgesturztes FaB sitzen vier Bauern beim Trunk, der zur Rehten sitzende liest einen Brief vor. Rechts hinter diesem ein stehender Bauer, dem Be=",910,99.2,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657198,582,695,"PIETRO ROTARI(1707-1762&gt;: Brustbild eines aus einem blauen Vorhang herausschauenden Madchens. Pastell. G.R.47×35cm, Abbildung Tafel 16",914,98.5,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657199,583,696,"J.WITHOOS(1648-1685): ein Fishstilleben. Zur Rechten ein bluhender Holunderbaum. Holz. Sign, S.R.",915,98.4,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88728,657197,581,694,"ANDRIESBOTH(1612-1650&gt;: Der Brief. Um ein umgesturztes FaB sitzen vier Bauern beim Trunk, der zur Rehten sitzende liest einen Brief vor. Rechts hinter diesem ein stehender Bauer, dem Be=",910,99.2,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVII
+BO0624_88728,657198,582,695,"PIETRO ROTARI(1707-1762&gt;: Brustbild eines aus einem blauen Vorhang herausschauenden Madchens. Pastell. G.R.47×35cm, Abbildung Tafel 16",914,98.5,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
+BO0624_88728,657199,583,696,"J.WITHOOS(1648-1685): ein Fishstilleben. Zur Rechten ein bluhender Holunderbaum. Holz. Sign, S.R.",915,98.4,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88728,657200,584,697,DEUTSCHER MEISTER 18.JHDT: Brustbild Friedrihs des GroBen in Uniform. Im Oval. Lwd. G.R. 57x47 cm.,918,97.9,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657201,585,698699,J.J.HOREMANSI.(1740—1790): Interieurs. Gegenstudke. In einem mit Gemalden geschmudkten Zimmer eine musi= zierende Familie.— In einem mit Gemalden geschmudkten Zimmer eine Zehgesellshaft.Lwd.G.R.46×58 cm. Abbildung Tafel 14,919,98.6,False,positional,,,GRAPHIK; GEMALDE,,
+BO0624_88728,657201,585,698699,J.J.HOREMANSI.(1740—1790): Interieurs. Gegenstudke. In einem mit Gemalden geschmudkten Zimmer eine musi= zierende Familie.— In einem mit Gemalden geschmudkten Zimmer eine Zehgesellshaft.Lwd.G.R.46×58 cm. Abbildung Tafel 14,919,98.6,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88728,657202,586,700,C.J.VERNET ZUGESCHR.): Klassishe Landshaft.  In einer Ruinenlandshaft im Vordergrund figurlice Staffage. Lwd.G.R.63x47cm.,920,98.3,False,positional,VERNET CLAUDE JOSE,,GRAPHIK; GEMALDE,,
 BO0624_88728,657203,587,701,"DANIEL GRANE 18.JHDT.&gt;: Mythologishe Darstellung. Im Himmelsgewolbe thronen die Gotinnen der Kunste und Wissenshaften, von Putten umgeben. Lwd. G.R. 56x83 cm.",921,98.7,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657204,588,702,"J.MARIESCHI(1711-1794&gt;: Wasserlandshaft mit figurlicer Staffage. Im Vordergrund links eine Kapelle, zu der eine Freitreppe herauffuhrt. Zur Rehten eine uber einen Gebirgsbah fuhrende Steinbrucke. Durhblick auf ein am FuB eines Berges liegendes Dorf. Lwd. G.R. 47x64cm. Abbildung Tafel 15",922,99.5,False,positional,,,GRAPHIK; GEMALDE,,
+BO0624_88728,657204,588,702,"J.MARIESCHI(1711-1794&gt;: Wasserlandshaft mit figurlicer Staffage. Im Vordergrund links eine Kapelle, zu der eine Freitreppe herauffuhrt. Zur Rehten eine uber einen Gebirgsbah fuhrende Steinbrucke. Durhblick auf ein am FuB eines Berges liegendes Dorf. Lwd. G.R. 47x64cm. Abbildung Tafel 15",922,99.5,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88728,657205,589,703,SCHULE DES GERARD DOU:,923,91.3,False,positional,DOU GERARD,,GRAPHIK; GEMALDE,,
-BO0624_88728,657206,590,704,"J.VOORHOUT(1647-1723&gt;: Musizierendes Liebespaar. In einem durh einen grunen Samtvorhang geteilten Zimmer zur Rehten, dem Beshauer zugewandt, ein die Laute spielendes Madden. Links vor dem Vorhang ein Kavalier, in der erhobenen Linken ein Glas haltend, sih mit der Rehten auf einen mit einem Longschal bededkten Tish stutzend. Sign. Lwd.AIter G.=R.31x37 cm. Abbildung Tafel 17",925,99.6,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657207,591,705,"JACOB PH.HACKERT (1737-1807): Norddeutsche Landschaft mit figurlicher Staffage. Zur Linken ein Wasserfall, zur Rechten im Vordergrund ein Shaferpaar in klassizistischer Kleidung, die Herde hutend. Fernsicht auf eine Stadt (Kassel). Sign.und dat. 1806. Lwd. Alter G.-R.65x95cm. Abbildung Tafel 16",926,99.3,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657208,592,706,A.VAN CUYLENBERG(1620-1658): Hohlenlandschaft.Im Vordergrund rechts Diana mit Nymphen. Holz.G.=R. 51×70cm. Abbildung Tafel 18,927,98.8,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88728,657209,593,707,C.G.DECKER(1643-1678): Wasserlandshaft bei Gewitterstimmung. An einem trage dahinfliebenden Strom ein Dorf mit in der Ferne sichtbarem Kirhturm. Im Vordergrund rechts zwei unter einei Holzbrudke sitzende Angler. Sign. Holz. G.=R. 46x6Z cm.,928,99.3,False,positional,DEIKER CARL FRIEDRICH,,OGGETTI IN LEGNO,,
+BO0624_88728,657206,590,704,"J.VOORHOUT(1647-1723&gt;: Musizierendes Liebespaar. In einem durh einen grunen Samtvorhang geteilten Zimmer zur Rehten, dem Beshauer zugewandt, ein die Laute spielendes Madden. Links vor dem Vorhang ein Kavalier, in der erhobenen Linken ein Glas haltend, sih mit der Rehten auf einen mit einem Longschal bededkten Tish stutzend. Sign. Lwd.AIter G.=R.31x37 cm. Abbildung Tafel 17",925,99.6,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVII
+BO0624_88728,657207,591,705,"JACOB PH.HACKERT (1737-1807): Norddeutsche Landschaft mit figurlicher Staffage. Zur Linken ein Wasserfall, zur Rechten im Vordergrund ein Shaferpaar in klassizistischer Kleidung, die Herde hutend. Fernsicht auf eine Stadt (Kassel). Sign.und dat. 1806. Lwd. Alter G.-R.65x95cm. Abbildung Tafel 16",926,99.3,False,positional,HACKERT PHILIPPE,,GRAPHIK; GEMALDE,,Sec. XVIII
+BO0624_88728,657208,592,706,A.VAN CUYLENBERG(1620-1658): Hohlenlandschaft.Im Vordergrund rechts Diana mit Nymphen. Holz.G.=R. 51×70cm. Abbildung Tafel 18,927,98.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88728,657209,593,707,C.G.DECKER(1643-1678): Wasserlandshaft bei Gewitterstimmung. An einem trage dahinfliebenden Strom ein Dorf mit in der Ferne sichtbarem Kirhturm. Im Vordergrund rechts zwei unter einei Holzbrudke sitzende Angler. Sign. Holz. G.=R. 46x6Z cm.,928,99.3,False,positional,DEIKER CARL FRIEDRICH,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88728,657210,594,708,"G. VAN DER ECKHOUT KREIS): Mythologishe Darstellung. An einem mit rechtem Bildfeld abshneidenden Brunnen Apoll als Edelmann, der Diana eine Mushel darbietet. Im Hintergrund eine Shaferin, die der Darstellung interessiert zusieht. Holz.GR. 64x48 cm. Abbildung Tafel 17",929,99.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88728,657211,595,709,KREIS DES GUARDI:,932,88.9,False,positional,GUARDI FRANCESCO,,GRAPHIK; GEMALDE,,
-BO0624_88728,657212,596,710,J.H.F.TISCHBEIN (1722-1789): Winterlandshaft bei Abendbeleuhtung.Im Vordergrund ein Reiter und ein heim= kehrender Holzfaller. Sign. und dat.1781. Holz. G.R. 21x16 cm.,934,98.7,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88728,657212,596,710,J.H.F.TISCHBEIN (1722-1789): Winterlandshaft bei Abendbeleuhtung.Im Vordergrund ein Reiter und ein heim= kehrender Holzfaller. Sign. und dat.1781. Holz. G.R. 21x16 cm.,934,98.7,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88728,657213,597,711,"J.VAN CROOS,17.JHDT.: eine Stadt. Sign.Holz.G.=R.47x63 cm.",935,96.4,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88728,657214,598,712,A.PYNACKER(1622-1673): Wasserlandshaft. Im Vordergrund ein am Ufer sitzendes Shaferpaar mit Herde. Zur Linken Durchblidk auf einen kegelformigen Berg.Holz. Alter G.R. 48x56 cm.,937,99.1,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88728,657214,598,712,A.PYNACKER(1622-1673): Wasserlandshaft. Im Vordergrund ein am Ufer sitzendes Shaferpaar mit Herde. Zur Linken Durchblidk auf einen kegelformigen Berg.Holz. Alter G.R. 48x56 cm.,937,99.1,False,positional,PYNACKER ADAM,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88728,657215,599,713,"714DEUTSCH,18.JHDT.: Amoretten mit Lowe  Amoretten mit Hirsh. Supraporten. Lwd. Louis XVI. Holz=R.65x175cm.",938,98.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88728,657216,600,715,"NORDDEUTSCHER MEISTER,18.JHDT.: Huftbild einer Konigin. Die Mutter Friedrichs des Groben?&gt; Lwd. S.=R. 78x 58 cm.",939,98.1,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657217,601,716,UNBEKANNT: Brustbild eines Geistlichen.Lwd.S.-R.72x55 cm.,940,96.4,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657218,602,717,"DEUTSCH,18.JHDT.: Huftbild der Frau von Romberg in blauem Kleid und rotem Uberwurf, einen Orden",941,98.4,False,positional,,,DECORAZIONI DA PARETE,,
-BO0624_88728,657219,603,718,UNBEKANNT:,943,85.7,False,positional,,,GRAPHIK; GEMALDE,,
+BO0624_88728,657219,603,718,UNBEKANNT:,943,85.7,False,positional,ANONIMO,,GRAPHIK; GEMALDE,,
 BO0624_88728,657220,604,719,KREIS DES C.W.SCHUTZ:,945,90.9,False,positional,SCHUTZ CHRISTIAN GEORG,,GRAPHIK; GEMALDE,,
-BO0624_88728,657221,605,720,UNBEKANNT:,947,81.8,False,positional,,,GRAPHIK; GEMALDE,,
-BO0624_88728,657222,606,721,NORDDEUTSCHER MEISTER UM 1700:,949,93.5,False,positional,,,GRAPHIK; GEMALDE,,
+BO0624_88728,657221,605,720,UNBEKANNT:,947,81.8,False,positional,ANONIMO,,GRAPHIK; GEMALDE,,
+BO0624_88728,657222,606,721,NORDDEUTSCHER MEISTER UM 1700:,949,93.5,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88728,657223,607,722,"NORDDEUTSCHER MEISTER,18.JHDT.: Huftbild des Prinzen Ludwig von Medklenburg in UIniform. Lwd. G,R. 75x6Z cm.",951,98.1,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657224,608,723,"UNBEKANNT: Allegorie auf die Shifahrt,Lwd. S.R.73x56 cm.",952,96.4,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657225,609,724,"DEUTSCH,18.JHDT.: Brustbild einer Dame mit herabwallendem Haar und blauem Gewand. Im Oval. Lwd.G,=R.74x62cm.",953,98.1,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88728,657226,610,725,"ED.HILDEBRANDT: Sommernachmittag am See. Aquarell mit Monogramm und Nadlabstempel. ×13cm,",958,94.6,False,positional,HILDEBRANDT EDUARD,,GEMALDE,,
 BO0624_88728,657227,611,726,CHR.WILLBERG:,960,85.7,False,positional,,,GEMALDE,,
 BO0624_88728,657228,612,727,R.GRONLAND: Sign.Lwd.G.=R.42×54 cm.,963,95.5,False,positional,,,GEMALDE,,
-BO0624_88728,657229,613,728,EUGEN BRACHT: Baumstamm im Badbett.Nahlabstempel. Malp.S.-R. 43x79 cm.,964,97.0,False,positional,,,GEMALDE,,
+BO0624_88728,657229,613,728,EUGEN BRACHT: Baumstamm im Badbett.Nahlabstempel. Malp.S.-R. 43x79 cm.,964,97.0,False,positional,BRACHT EUGEN,,GEMALDE,,
 BO0624_88728,657230,614,729,"A.ACHENBACH: Hollandische Fisherhauser,von der Brandung umspult. Sign. Malp. G.R.22x30 cm.",965,97.7,False,positional,OSWALD ACHENBACH,,GEMALDE,,
 BO0624_88728,657231,615,730,LEIBL SCHULE&gt;: Huftbild einer Witwe vor dunklem Hintergrund. Lwd. G.R. 98x77 cm.,966,97.5,False,positional,,Cerchio di Leibl,GEMALDE,,
 BO0624_88728,657232,616,731,"G.CAIRATI,MUNCHEN: Abend im Pinienwald bei Ravenna. Sign.Lwd. G.R. 143x87 cm,",967,98.0,False,positional,,,GEMALDE,,
@@ -638,98 +638,98 @@ BO0624_88728,657252,636,751,DESGL.:Biographien und Briefe.3 Bde.,1007,94.4,False
 BO0624_88728,657253,637,752,"DESGL.:Legenden, Gedihte usw. 7 Bde.",1009,94.1,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657254,638,753,KONVOLUT:Romane. 3Bde.,1010,93.0,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657255,639,754,"D'ANNUNZIO, G.:La Gloria: La Gioconda. I Fucco. II Piacere. 2 Gzldrbde. und Z Hbidrbde.",1011,97.5,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657256,640,755,DERSELBE:LeVergini delle Rocce.LInnocente. Trionfo della Morte.Mailand 1899. Hbldrbde.,1012,91.9,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657256,640,755,DERSELBE:LeVergini delle Rocce.LInnocente. Trionfo della Morte.Mailand 1899. Hbldrbde.,1012,91.9,False,positional,,,BIBLIOTHEK,,Sec. XIX
 BO0624_88728,657257,641,756,"ARIOSTO,LODOVICO:Orlando Furioso.4 Bde.Venezia, Ant. Zatta\_1772. Mit zahlreichen Kupferstichen,Vignetten und Kupfersticheinrahmung des Textes. Gzmaroquinbde. mit reicer Verg. Uberaus shones Expl. von bester Erhaltung.",1014,99.1,False,positional,,,OGGETTI IN RAME,,
 BO0624_88728,657258,642,757,D'AuMALE: Souvenirs sur Madame de Maintenon. Paris o. J. 2 Hbldrbde.,1015,96.9,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657259,643,758,"AUSTEN, JANE: Novels. London, Imden  Co. 10 Hbmaroquinbde. Numer. Auff. mit reizenden Illustrationen. Sehr schones Expl.",1016,98.2,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657260,644,759,Klassiker der Kunst. 6 Bde.,1017,92.6,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657261,645,760,"BALZAC, H. DE: Oeuvres. Paris 1900. 17 grune Gzldrbde.",1018,96.0,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657262,646,761,"BISMARCK, OTTO FURST VON: Gedanken u. Erinnerungen. Stutgart 1898. Hbidrbde.",1019,90.4,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657263,647,762,DERSELBE:Briefe an seine Braut und Gattin. Stutgart 1900. Hbldrbd.,1021,96.9,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657261,645,760,"BALZAC, H. DE: Oeuvres. Paris 1900. 17 grune Gzldrbde.",1018,96.0,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657262,646,761,"BISMARCK, OTTO FURST VON: Gedanken u. Erinnerungen. Stutgart 1898. Hbidrbde.",1019,90.4,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657263,647,762,DERSELBE:Briefe an seine Braut und Gattin. Stutgart 1900. Hbldrbd.,1021,96.9,False,positional,,,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657264,648,763,"BOLSCHE,W.:Das Liebesleben in der Natur.3 Folgen.Leipzig 19021903. schone Gzldrbde.",1022,86.5,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657265,649,764,BRET HARTE'S WRITINGS:19.HbIdrbd.,1024,94.1,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657266,650,765,"BROWNING,R.: The Poetical Works. London 1902. 4 b1.Hbldrbde.",1025,96.5,False,positional,BROWNING R.B.,,BIBLIOTHEK,,
+BO0624_88728,657266,650,765,"BROWNING,R.: The Poetical Works. London 1902. 4 b1.Hbldrbde.",1025,96.5,False,positional,BROWNING R.B.,,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657267,651,766,BUL WER: Novels. Boston o. J. 15 Hbldrbde.,1026,94.9,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657268,652,767,"CARLyLE,TH.:The Frenh Revolution. Sartor Resartus. Heroes Past and Present.London 1904.2 Gzldrbde.",1027,97.9,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657269,653,768,DERSELBE:Frederick the Great. London 1903.5 Gzldrbde.,1028,96.2,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657270,654,769,"CHAMBERLAIN,H. S.:Immanuel Kant. Muncen 1905. Gzldrbd. Shones sauberes Expl.",1029,97.2,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657271,655,770,DERSELBE:Richard Wagner. Mit zahlr. Iustr. Munchen 1896. Gzldrbd,1030,96.8,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657272,656,771,"CHAUCER, G.:The Poetical Works. London 1893. 5 rote Hblwdbde.",1031,96.6,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657273,657,772,"CHESTERFIELD,EARL OF.: Leters to his Son.London 1827.3 Hbmaroquinbde.",1032,97.1,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657274,658,773,"CORNEILLE, P.:Oeuvres. Nouv. éd. Paris 1862. 12 Bde.u.AIbum. Sehr schone Hbmaroquinbde.",1033,97.5,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657268,652,767,"CARLyLE,TH.:The Frenh Revolution. Sartor Resartus. Heroes Past and Present.London 1904.2 Gzldrbde.",1027,97.9,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657269,653,768,DERSELBE:Frederick the Great. London 1903.5 Gzldrbde.,1028,96.2,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657270,654,769,"CHAMBERLAIN,H. S.:Immanuel Kant. Muncen 1905. Gzldrbd. Shones sauberes Expl.",1029,97.2,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657271,655,770,DERSELBE:Richard Wagner. Mit zahlr. Iustr. Munchen 1896. Gzldrbd,1030,96.8,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657272,656,771,"CHAUCER, G.:The Poetical Works. London 1893. 5 rote Hblwdbde.",1031,96.6,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657273,657,772,"CHESTERFIELD,EARL OF.: Leters to his Son.London 1827.3 Hbmaroquinbde.",1032,97.1,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657274,658,773,"CORNEILLE, P.:Oeuvres. Nouv. éd. Paris 1862. 12 Bde.u.AIbum. Sehr schone Hbmaroquinbde.",1033,97.5,False,positional,,,BIBLIOTHEK,,Sec. XIX
 BO0624_88728,657275,659,774,"DANTE:La Divina Commedia. Inferno,Purgatorio,Paradiso.Firenze 19021903. 3Gzldrbde.mit Blindpragung.Mit Bildbeigaben.",1034,98.3,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657276,660,775,DERSELBE:La Divina Commedia. Torino 1888. 4 Gzlwdbde. mit zahlr. Abb.,1035,97.0,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657277,661,776,DERSELBE: The Vision. London 1901. Gzldrbd.mit Shlieben.,1036,96.3,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657276,660,775,DERSELBE:La Divina Commedia. Torino 1888. 4 Gzlwdbde. mit zahlr. Abb.,1035,97.0,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657277,661,776,DERSELBE: The Vision. London 1901. Gzldrbd.mit Shlieben.,1036,96.3,False,positional,,,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657278,662,777,DEUTSCHE HANDSCHRIFT. 15. Jhdt. Inhalt: Glossa ordinaria in epistolas,1037,97.0,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657279,663,778,DEUTSCHLAND unter Kaiser Wilhelm II. 3 Hbidrbde. Berlin 1914.,1039,96.7,False,positional,,Scuola di Berlino,BIBLIOTHEK,,
+BO0624_88728,657279,663,778,DEUTSCHLAND unter Kaiser Wilhelm II. 3 Hbidrbde. Berlin 1914.,1039,96.7,False,positional,,Scuola di Berlino,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657280,664,779,"DICKENS, CH.: The Works. New york o. J. 30 Hbldrbde. mit Ruckenverg.",1040,96.8,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657281,665,780,"DIX-NEUVIEME SIECLE,LE.:Aus dem 19. Jahrhundert.",1041,95.7,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657282,666,781,"DREWS, DR. A.:Nietzsches Philosophie. Heidelberg 1904. Hbldrbd.",1042,96.6,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657281,665,780,"DIX-NEUVIEME SIECLE,LE.:Aus dem 19. Jahrhundert.",1041,95.7,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657282,666,781,"DREWS, DR. A.:Nietzsches Philosophie. Heidelberg 1904. Hbldrbd.",1042,96.6,False,positional,,,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657283,667,782,"DuMAS,A. FILS.: Theatre. Paris o. J. 8 grune Gzldrbde. mit Rudkenverg.",1043,96.9,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657284,668,784,"ELLIOT, G.: Works. New york o. J. 8 Hbldrbde.",1045,95.0,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657285,669,785,"ENCyCLOPAEDIA BRITANNICA:Dictionary of Arts, Sciences,and General Literature Ninth Ed. Edinburgh 18751889. Gzldrbd.mit Verg. Shones Expl.",1046,98.5,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657286,670,786,ERCKMANN-CHATRIAN:L'ami Fritz. Histoire d'un Conscrit de 1813. Paris o.J.Z gruine Gzldrbde.,1047,97.8,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657287,671,787,FENELON: Oeuvres Choisies. Paris 1900. 4 rote Gzldrbde.,1048,96.2,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657288,672,788,"FISKE,J:The Writings. Cambridge 1902. Z4 Hbmaroquinbde. Numer.Aufl.",1049,97.7,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657286,670,786,ERCKMANN-CHATRIAN:L'ami Fritz. Histoire d'un Conscrit de 1813. Paris o.J.Z gruine Gzldrbde.,1047,97.8,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657287,671,787,FENELON: Oeuvres Choisies. Paris 1900. 4 rote Gzldrbde.,1048,96.2,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657288,672,788,"FISKE,J:The Writings. Cambridge 1902. Z4 Hbmaroquinbde. Numer.Aufl.",1049,97.7,False,positional,,,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657289,673,789,"FONTANE,TH.:Meine Kinderjahre,Frau Jenny Treibel, Eff Briest, Graf",1051,96.9,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657290,674,790,FRANZOSISCHE MEISTER:Der Tanz als Kunstwerk. Von Bayros Ex=,1053,96.6,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657291,675,791,"FREyTAG, G.:Gesammelte Werke.Leipzig 1887. 22 Gzlwdbde. a FRIEDRICHDER GROSSE:Werke u.Briefe. Berlin 1913-1914. 12 Hbldrbde.",1056,71.4,False,positional,,Scuola di Berlino,BIBLIOTHEK,,
-BO0624_88728,657292,676,792,"FUCHS, ED.:Die Karikatur der europaischen Volker. Mit uber 1000 Illustrationen",1057,97.4,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657293,677,793,GOETHES WERKE.Berlin 1874-1875.15 Bde.,1059,94.9,False,positional,,Scuola di Berlino,BIBLIOTHEK,,
-BO0624_88728,657294,678,794,"HAuPTMANN,G:Der arme Heinrih,Der Apostel, Bahnwarter Thiel.Berlin 1897 und 1902.2Gzldrbde.",1060,97.8,False,positional,,Scuola di Berlino,BIBLIOTHEK,,
-BO0624_88728,657295,679,795,"HAWTHORNE,NATH.: Works. Boston und New york 1900. 2Z rote Hbmaroquinbde. mit reicher Ruckenverg. Num.und sign.Auflage von seltener",1061,98.4,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657296,680,796,"FERDINAND HODLER,hergb.von C.A.Loosli. 3 Bde. Zurid 1919. Folio.",1063,96.8,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657291,675,791,"FREyTAG, G.:Gesammelte Werke.Leipzig 1887. 22 Gzlwdbde. a FRIEDRICHDER GROSSE:Werke u.Briefe. Berlin 1913-1914. 12 Hbldrbde.",1056,71.4,False,positional,,Scuola di Berlino,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657292,676,792,"FUCHS, ED.:Die Karikatur der europaischen Volker. Mit uber 1000 Illustrationen",1057,97.4,False,positional,,,BIBLIOTHEK,,Sec. XI
+BO0624_88728,657293,677,793,GOETHES WERKE.Berlin 1874-1875.15 Bde.,1059,94.9,False,positional,,Scuola di Berlino,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657294,678,794,"HAuPTMANN,G:Der arme Heinrih,Der Apostel, Bahnwarter Thiel.Berlin 1897 und 1902.2Gzldrbde.",1060,97.8,False,positional,,Scuola di Berlino,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657295,679,795,"HAWTHORNE,NATH.: Works. Boston und New york 1900. 2Z rote Hbmaroquinbde. mit reicher Ruckenverg. Num.und sign.Auflage von seltener",1061,98.4,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657296,680,796,"FERDINAND HODLER,hergb.von C.A.Loosli. 3 Bde. Zurid 1919. Folio.",1063,96.8,False,positional,,,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657297,681,797,"HuGO, V.: Oeuvres. Paris o. J. 16 grune Saffianbde. mit Rudkenverg.",1065,96.7,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657298,682,798,"IBSEN, HENRIK: Samtlihe Werke.Berlin,Fisher. 9 rote Gzldrbde.",1066,96.6,False,positional,,Scuola di Berlino,BIBLIOTHEK,,
-BO0624_88728,657299,683,799,"IRVING,W:The SkethBook.New york und London 1895. 2 bl.Hbmaroquinbde,",1067,97.1,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657300,684,800,"IRVING,W.:Chronicle of the Conquest of Granada. New york u.London 1893. 2Hbldrbde. Mit zahlr. Abbild. Shones Expl.",1069,98.2,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657301,685,801,DERSELBE: Bracebridge Hall. Newyork u.London 1896. 2 rote Hbmaroquinbde.,1070,97.1,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657302,686,802,DERSELBE: Tales of a Traveller. New york u.London 1895. 2 Hbmaroquinbde.,1072,97.1,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657303,687,803,DERSELBE:TheAlhambra.New york u.London 1894. 2 Hbmaroquinbde. Reid illustr. Sehr shones Expl.,1074,97.8,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657304,688,804,"DERSELBE: Knickerbocker's History of New York.2 Hbmaroquinbde. London u, New york 1894. Mit vielen Abbild. Sehr shones Expl.",1075,98.3,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657299,683,799,"IRVING,W:The SkethBook.New york und London 1895. 2 bl.Hbmaroquinbde,",1067,97.1,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657300,684,800,"IRVING,W.:Chronicle of the Conquest of Granada. New york u.London 1893. 2Hbldrbde. Mit zahlr. Abbild. Shones Expl.",1069,98.2,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657301,685,801,DERSELBE: Bracebridge Hall. Newyork u.London 1896. 2 rote Hbmaroquinbde.,1070,97.1,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657302,686,802,DERSELBE: Tales of a Traveller. New york u.London 1895. 2 Hbmaroquinbde.,1072,97.1,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657303,687,803,DERSELBE:TheAlhambra.New york u.London 1894. 2 Hbmaroquinbde. Reid illustr. Sehr shones Expl.,1074,97.8,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657304,688,804,"DERSELBE: Knickerbocker's History of New York.2 Hbmaroquinbde. London u, New york 1894. Mit vielen Abbild. Sehr shones Expl.",1075,98.3,False,positional,,,BIBLIOTHEK,,Sec. XIX
 BO0624_88728,657305,689,805,"KINGSLEy, CH.:Hypatia.Two years Ago. Westward Ho.Letters and",1076,96.6,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657306,690,806,"KLEIST, HEINR. VON.: Mihael Kohlhaas. Berlin 1912. Numer. Auf. v. 300 Expl. m. Original-Radierungen von Prof. Kolb, vom Kunstler sign. Prachtiges Expl.",1078,98.6,False,positional,,Scuola di Berlino,ACQUEFORTI,,
+BO0624_88728,657306,690,806,"KLEIST, HEINR. VON.: Mihael Kohlhaas. Berlin 1912. Numer. Auf. v. 300 Expl. m. Original-Radierungen von Prof. Kolb, vom Kunstler sign. Prachtiges Expl.",1078,98.6,False,positional,,Scuola di Berlino,ACQUEFORTI,,Sec. XX
 BO0624_88728,657307,691,807,"KUNSTLER-MONOGRAPHIEN:Tintoretto, Leibl, Herkomer, Worpswede, Hokusai.5 Gzlwd.=u.Hbldrbde.",1079,97.7,False,title_direct,TINTORETTO,,GRAPHIK,,
-BO0624_88728,657308,692,809,"LOGA,V.v.: Franc. Goya. Berlin 1903. Ppbd. Mit Abbild.",1081,95.9,False,positional,,Scuola di Berlino,BIBLIOTHEK,,
+BO0624_88728,657308,692,809,"LOGA,V.v.: Franc. Goya. Berlin 1903. Ppbd. Mit Abbild.",1081,95.9,False,positional,,Scuola di Berlino,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657309,693,810,"LONGFELLOW, H. W.:The Poetical Works. Boston o.J. 2 Gzldrbde.",1082,96.5,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657310,694,811,"LOSSIuS,K. F.: Moralishe Bilderbibel mit Kupfern. 5 Bde. Gotha 1809. Orig.-Hbfrzbde.",1083,97.4,False,positional,,,OGGETTI IN RAME,,
+BO0624_88728,657310,694,811,"LOSSIuS,K. F.: Moralishe Bilderbibel mit Kupfern. 5 Bde. Gotha 1809. Orig.-Hbfrzbde.",1083,97.4,False,positional,,,OGGETTI IN RAME,,Sec. XIX
 BO0624_88728,657311,695,812,"LOTI, P.:Peheur D'Islande, Madame Chrysantheme.",1085,95.6,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657312,696,813,"MAETERLINCK, M.: Theatre. Monna Vanna. La Sagesse et la Destinée. Paris 1902.4 rote Saffianbde.",1086,97.8,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657312,696,813,"MAETERLINCK, M.: Theatre. Monna Vanna. La Sagesse et la Destinée. Paris 1902.4 rote Saffianbde.",1086,97.8,False,positional,,,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657313,697,814,DERSELBE:La Vie des Abeilles. Le Temple Enseveli. Le Tresor des Humbles.,1087,97.2,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657314,698,1903,Hbldrbd.,1089,73.7,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657315,699,816,"MEyER,C.F.:Novellen u.Gedichte.Jurg Jenatsh,Angela Borgia, Engelberg Versuhung des Pescara, usw.Leipzig 1894-1898.9 Hbidrbde.",1090,98.4,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657316,700,817,"MOLIERE: Oeuvres. Deuxieme éd. Paris 1885. 12 rote Hlbmaroquinbde,mit Ruckenverg. Shones Expl.",1091,97.8,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657315,699,816,"MEyER,C.F.:Novellen u.Gedichte.Jurg Jenatsh,Angela Borgia, Engelberg Versuhung des Pescara, usw.Leipzig 1894-1898.9 Hbidrbde.",1090,98.4,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657316,700,817,"MOLIERE: Oeuvres. Deuxieme éd. Paris 1885. 12 rote Hlbmaroquinbde,mit Ruckenverg. Shones Expl.",1091,97.8,False,positional,,,BIBLIOTHEK,,Sec. XIX
 BO0624_88728,657317,701,818,"MOORE, TH.: The Poetical Works. London o. J. Marm. Gzldrbd.",1092,96.2,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657318,702,819,"MUHLBRECHT,O.: Buderliebhaberei in ihrer Entwidklung bis zu Ende des",1093,97.1,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657319,703,820,NAGLER: Kunstler-Lexikon. 25 Leinenbde.,1095,94.7,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657320,704,821,"NIETZSCHE,F:Also sprah Zarathustra.Die Geburt der Tragodie.Jenseits von Gut und Bose.Menschlices Allumenschliches.Leipzig 1899-1904.5Hbldrbde.",1096,98.6,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657321,705,822,"P.PAPINIUS-STATIUS:Thebais, Ahilleis usw. Lowen 1671.Orig.Shweins= drbd. Dazu:Briefe zur Ausbildung des Gemiths. Leipzig 1774.",1097,67.4,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657322,706,823,PERGAMENTDIPLOM der Universitat Padua vom Jahre 1625 mit Miniatur,1099,97.0,False,positional,,,MINIATURE,,
+BO0624_88728,657320,704,821,"NIETZSCHE,F:Also sprah Zarathustra.Die Geburt der Tragodie.Jenseits von Gut und Bose.Menschlices Allumenschliches.Leipzig 1899-1904.5Hbldrbde.",1096,98.6,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657321,705,822,"P.PAPINIUS-STATIUS:Thebais, Ahilleis usw. Lowen 1671.Orig.Shweins= drbd. Dazu:Briefe zur Ausbildung des Gemiths. Leipzig 1774.",1097,67.4,False,positional,,,BIBLIOTHEK,,Sec. XVII
+BO0624_88728,657322,706,823,PERGAMENTDIPLOM der Universitat Padua vom Jahre 1625 mit Miniatur,1099,97.0,False,positional,,,MINIATURE,,Sec. XVII
 BO0624_88728,657323,707,824,"PIFTEAU,B.:L'Heptameron.Paris o.J.Gzldrbd.",1101,95.2,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657324,708,825,"RACINE,J.:",1102,84.2,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657325,709,826,"RANKE,L.VON: Die romischen Papste. Leipzig 1900. 3 Hbldrbde.",1104,96.6,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657326,710,827,DERSELBE:Weltgeschihte.Leipzig 1896.4 Hbldrbde.,1105,95.8,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657327,711,828,"RICHARDSON, CH.: The new book of the horse. Reich illustr. London 1911. Gzldrbd.",1106,97.3,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657328,712,829,"SAVOyEN,LUDW.A.VON:Die Stella Polare im Eismeer. Nordpolexpedition 1899-1900.Leipzig 1903.B1.Gzldrbd.",1107,98.0,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657329,713,830,"SCHOPENHAuER, A.: Die Welt als Wille und Vorstellung. Leipzig 1891. 2Gzldrbde.",1108,97.3,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657330,714,831,"SCOTT,W.:TheNovels Tales andRomances.Boston 1822-1834.27 Hbldrbde. d.Zt.",1109,97.2,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657331,715,832,"SIENKIEWICZ,H.:Quo Vadis. Neapel 1899. Hbidrbd.",1110,95.6,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657332,716,833,DERSELBE:Sturmflut.Leipzig 1900. 2 rote Saffianbde,1111,96.1,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657333,717,834,"DERSELBE:Hania,En Vain, Sans Dogme. Paris 1901. 1 Gzldrbd.u.2 Hbldrbde.",1112,97.1,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657325,709,826,"RANKE,L.VON: Die romischen Papste. Leipzig 1900. 3 Hbldrbde.",1104,96.6,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657326,710,827,DERSELBE:Weltgeschihte.Leipzig 1896.4 Hbldrbde.,1105,95.8,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657327,711,828,"RICHARDSON, CH.: The new book of the horse. Reich illustr. London 1911. Gzldrbd.",1106,97.3,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657328,712,829,"SAVOyEN,LUDW.A.VON:Die Stella Polare im Eismeer. Nordpolexpedition 1899-1900.Leipzig 1903.B1.Gzldrbd.",1107,98.0,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657329,713,830,"SCHOPENHAuER, A.: Die Welt als Wille und Vorstellung. Leipzig 1891. 2Gzldrbde.",1108,97.3,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657330,714,831,"SCOTT,W.:TheNovels Tales andRomances.Boston 1822-1834.27 Hbldrbde. d.Zt.",1109,97.2,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657331,715,832,"SIENKIEWICZ,H.:Quo Vadis. Neapel 1899. Hbidrbd.",1110,95.6,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657332,716,833,DERSELBE:Sturmflut.Leipzig 1900. 2 rote Saffianbde,1111,96.1,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657333,717,834,"DERSELBE:Hania,En Vain, Sans Dogme. Paris 1901. 1 Gzldrbd.u.2 Hbldrbde.",1112,97.1,False,positional,,,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657334,718,835,"SPENSER,EDM.: The Poetical Works.London o.J.5 Gzmaroquinbde. Shones Expl.",1113,97.2,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657335,719,836,"STEGEMANN, HERM.: Geschidte des Krieges. 4 Bde.",1114,95.5,False,positional,STADEMANN ADOLF,,BIBLIOTHEK,,
 BO0624_88728,657336,720,837,"STIFTER, A: Studien. Leipzig o.J. 2 Gzldrbde.",1115,95.2,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657337,721,838,"TASSO, TORQUATO:La Gerusaleme Liberata. Mailand 1898. Gzldrbd.",1116,96.7,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657338,722,839,"TENNySON,A.LORD:Works.Philadephia 1901.13 br.Gzldrbde. Sdones Expl.",1117,97.0,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657339,723,840,"THACKERAy, W.M.: The Works.London 1903. 14 Gzldrbde.mit Ruckenverg. Shones Expl.",1118,97.4,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657340,724,841,"THODE, H.:Mihelangelo. Berlin 1902. Gzlwdbd.",1119,95.1,False,positional,,Scuola di Berlino,BIBLIOTHEK,,
-BO0624_88728,657341,725,842,"TOLSTOJ, L.: Ou est 1Issue. Reherhe du Bonheur. Paris 1899,1901. 2 Gzldrbde.",1120,97.2,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657337,721,838,"TASSO, TORQUATO:La Gerusaleme Liberata. Mailand 1898. Gzldrbd.",1116,96.7,False,positional,,,BIBLIOTHEK,,Sec. XIX
+BO0624_88728,657338,722,839,"TENNySON,A.LORD:Works.Philadephia 1901.13 br.Gzldrbde. Sdones Expl.",1117,97.0,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657339,723,840,"THACKERAy, W.M.: The Works.London 1903. 14 Gzldrbde.mit Ruckenverg. Shones Expl.",1118,97.4,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657340,724,841,"THODE, H.:Mihelangelo. Berlin 1902. Gzlwdbd.",1119,95.1,False,positional,,Scuola di Berlino,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657341,725,842,"TOLSTOJ, L.: Ou est 1Issue. Reherhe du Bonheur. Paris 1899,1901. 2 Gzldrbde.",1120,97.2,False,positional,,,BIBLIOTHEK,,Sec. XIX
 BO0624_88728,657342,726,843,"DERSELBE:Auferstehung,Mein Glaube,Roman einerFrau.Berlin1900.2Gzldrbde und 1 Hbldrbd.",1121,97.7,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657343,727,844,"ULLSTEIN, WELTGESCHICHTE. 6 Gzlwdbde. Mit einer Fulle von Abbild.",1122,96.8,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657344,728,845,"VEHSE,ED.:PreuBishe Hofgeschidten. Munhen 1913. 3Hbldrbde. Mit vielen Bildbeigaben.",1123,97.5,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657345,729,846,"VOLTAIRE:Oeuvres Completes.Nouv.éd.Paris,Garnier1883-1885.52Hbldrbde. mit bl.Rudkenshild.",1124,97.8,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657344,728,845,"VEHSE,ED.:PreuBishe Hofgeschidten. Munhen 1913. 3Hbldrbde. Mit vielen Bildbeigaben.",1123,97.5,False,positional,,,BIBLIOTHEK,,Sec. XX
+BO0624_88728,657345,729,846,"VOLTAIRE:Oeuvres Completes.Nouv.éd.Paris,Garnier1883-1885.52Hbldrbde. mit bl.Rudkenshild.",1124,97.8,False,positional,,,BIBLIOTHEK,,Sec. XIX
 BO0624_88728,657346,730,847,XENOPHON: Oeuvres Completes. Paris o. J. 2 rote Gzldrbde.,1125,96.3,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657347,731,848,"ZOLA, E.:Le Reve. Une Page D'Amour. Paris 1901. 2 Gzldrbde.",1126,96.4,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657347,731,848,"ZOLA, E.:Le Reve. Une Page D'Amour. Paris 1901. 2 Gzldrbde.",1126,96.4,False,positional,,,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657348,732,850,KONVOLUT: Amerika in Wort und Bild. 2 Bde.,1128,95.1,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657349,733,852,KONVOLUT:Englishe Literatur. Romane usw. 6 Bde.,1130,95.7,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657350,734,853,DESGL.:Englisde Literatur. Versch.Werke. 8Bde.,1131,95.5,False,positional,,,BIBLIOTHEK,,
@@ -743,7 +743,7 @@ BO0624_88728,657357,741,860,DESGL.:Englische Literatur. Reisewerke usw.4Bde.,113
 BO0624_88728,657358,742,861,DESGL.:Englische Literatur. Versh.Werke. 5 Bde.,1140,95.6,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657359,743,862,DESGL.:Englische Literatur. Versh.Werke. 6Bde.,1141,95.5,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657360,744,863,"ENGLISCHE LITERATUR:Burns, The Poetical Works. Hood, The Poetical Works. Tennyson, The Prinzess. Keats. 3 Gzldrbde., 1 Prgmtbd.",1142,98.3,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657361,745,864,"DESGL.: Browning, Byron, Shelley, Tennyson. London 1904. 5 farb. Gzldrbde.",1143,97.0,False,positional,BROWNING R.B.,,BIBLIOTHEK,,
+BO0624_88728,657361,745,864,"DESGL.: Browning, Byron, Shelley, Tennyson. London 1904. 5 farb. Gzldrbde.",1143,97.0,False,positional,BROWNING R.B.,,BIBLIOTHEK,,Sec. XX
 BO0624_88728,657362,746,865,KONVOLUT: Engl. Literatur Tauchnitz). 8 Bde.,1144,95.1,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657363,747,866,"ENGL.UND FRANZ.LITERATUR: Macaulay,History of England.H.Caine, The Manxman, Story of Wagners Lohengrin.Lesueur, Levres closes. 4 Gzldrbd. und 3 Hbidrbde.",1145,99.0,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657364,748,867,"KONVOLUT: Queen Victoria, Charles I. 2 Bde., broshiert. Mit vielen Abbild.",1146,97.1,False,positional,,,BIBLIOTHEK,,
@@ -752,7 +752,7 @@ BO0624_88728,657366,750,869,DESGL.:Franz.Literatur.5 Bde.,1148,93.1,False,positi
 BO0624_88728,657367,751,870,DESGL.:Franz.Literatur.4 Bde.,1149,93.1,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657368,752,871,"ITALIENISCHE LITERATuR:D'Azeglio,I Miei Ricordi. Mezzabotta, Nel Mondo dei Misteri. 3 Hbldrbde.,1 Gzldrbd.",1150,98.1,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657369,753,872,"KONVOLUT:Vershied. Werke: Fallstaff und seine Gesellen, Paul und Virginie usw.3Bde.",1151,97.5,False,positional,,,BIBLIOTHEK,,
-BO0624_88728,657370,754,873,"DESGL.:Arnold, Heilkrafte des Hypnotismus. Dr.Dippel, Neuer Spiritismus. Ed.von Hartmann,Der Spiritismus, Die Geisterhypnose.Leipzig 1897 und 1898. Gzldrbde.",1152,95.6,False,positional,,,BIBLIOTHEK,,
+BO0624_88728,657370,754,873,"DESGL.:Arnold, Heilkrafte des Hypnotismus. Dr.Dippel, Neuer Spiritismus. Ed.von Hartmann,Der Spiritismus, Die Geisterhypnose.Leipzig 1897 und 1898. Gzldrbde.",1152,95.6,False,positional,,,BIBLIOTHEK,,Sec. XIX
 BO0624_88728,657371,755,874,"DESGL.:Al.Aksakow,Animismus und Spiritismus. Dor. Goebler, Was mub man vom Spiritismus wissen. Berlin o. J. Gzldrbd.",1154,98.2,False,positional,,Scuola di Berlino,BIBLIOTHEK,,
 BO0624_88728,657372,756,875,"DESGL.:Romane, Marchen usw. 5 Bde.",1155,93.8,False,positional,,,BIBLIOTHEK,,
 BO0624_88728,657373,757,876,DESGL.:9 Bde.,1156,88.0,False,positional,,,BIBLIOTHEK,,

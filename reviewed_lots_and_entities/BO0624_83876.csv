@@ -2,9 +2,9 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_83876,91797,1,1,Le Quai de Caudebec;effet du matin.,14,97.1,False,positional,BOUDIN,,,,
 BO0624_83876,91798,2,2,Le Port de Bordeaux.,35,95.0,False,positional,BOUDIN,,,,
 BO0624_83876,91799,3,4,Tete de Femme.,50,92.9,False,positional,BOUDIN,,,,
-BO0624_83876,91800,4,1810,1880,64,61.5,False,positional,CALS,Scuola di Monaco,,,
+BO0624_83876,91800,4,1810,1880,64,61.5,False,positional,CALS,Scuola di Monaco,,,Sec. XIX
 BO0624_83876,91801,5,3,La Mere du Pecheur.,66,94.7,False,positional,CALS,,,,
-BO0624_83876,91802,6,1810,1880,76,61.5,False,positional,CALS,Scuola di Monaco,,,
+BO0624_83876,91802,6,1810,1880,76,61.5,False,positional,CALS,Scuola di Monaco,,,Sec. XIX
 BO0624_83876,91803,7,5,Buste de Femme.,77,93.3,False,positional,CALS,,,,
 BO0624_83876,91804,8,6,Portrait de Madame Carriere.,95,96.4,False,positional,CARRIERE,,,,
 BO0624_83876,91805,9,7,Tete de Fillette.,102,94.1,False,positional,CARRIERE,,,,
@@ -12,17 +12,17 @@ BO0624_83876,91806,10,8,Tete de Jeune Fille. 6481,112,84.4,False,positional,CARR
 BO0624_83876,91807,11,9,Maternite.,129,90.0,False,positional,CARRIERE,,,,
 BO0624_83876,91808,12,II,Paysage d'Eté.,156,89.7,False,positional,CASSATT,,,,
 BO0624_83876,91809,13,12,Paysage a Pontoise (Clos des Mathurins).,172,96.1,False,positional,CEZANNE,,,,
-BO0624_83876,91810,14,13,Fruits. 1906,185,60.0,False,positional,CEZANNE,,,,
-BO0624_83876,91811,15,14,"--Le Drame, 1879",202,66.7,False,positional,CEZANNE,,,,
-BO0624_83876,91812,16,15,Une Famille sur la Barricade (Revolution de 1848).,227,96.9,False,positional,DAUMIER,,,,
+BO0624_83876,91810,14,13,Fruits. 1906,185,60.0,False,positional,CEZANNE,,,,Sec. XX
+BO0624_83876,91811,15,14,"--Le Drame, 1879",202,66.7,False,positional,CEZANNE,,,,Sec. XIX
+BO0624_83876,91812,16,15,Une Famille sur la Barricade (Revolution de 1848).,227,96.9,False,positional,DAUMIER,,,,Sec. XIX
 BO0624_83876,91813,17,16,Le Peintre et le Graveur.,244,94.1,False,positional,DAUMIER,,,,
-BO0624_83876,91814,18,1798,1863,255,61.5,False,positional,DELACROIX,,,,
+BO0624_83876,91814,18,1798,1863,255,61.5,False,positional,DELACROIX,,,,Sec. XIX
 BO0624_83876,91815,19,I7,La Justice de Trajan.,257,93.0,False,positional,DELACROIX,,,,
 BO0624_83876,91816,20,18,Lelia.,268,76.9,False,positional,DELACROIX,,,,
 BO0624_83876,91817,21,19,Paysage de Bretagne.,287,92.7,False,positional,GAUGUIN,,,,
 BO0624_83876,91818,22,20,Paysage de Bretagne.,301,92.7,False,positional,GAUGUIN,,,,
 BO0624_83876,91819,23,21,Paysage;Damiette (Seine-et-Oise).,314,95.2,False,positional,GUILLAUMIN,,,,
-BO0624_83876,91820,24,22,Vallons de la Creuse(Mars 1897).,333,95.2,False,positional,GUILLAUMIN,,,,
+BO0624_83876,91820,24,22,Vallons de la Creuse(Mars 1897).,333,95.2,False,positional,GUILLAUMIN,,,,Sec. XIX
 BO0624_83876,91821,25,23,Rochers de Genetin sur la Creuse.,348,95.5,False,positional,GUILLAUMIN,,,,
 BO0624_83876,91822,26,24,"Les Bessons vus de la Baumelle (Mediterranee, 18g3.)",362,97.0,False,positional,GUILLAUMIN,,,,
 BO0624_83876,91823,27,25,"Ecluse du Pont Charrant (Creuse);Gelee blanche,18g9.",375,97.0,False,positional,GUILLAUMIN,,,,
@@ -37,20 +37,20 @@ BO0624_83876,91831,35,33,Lever de soleil par la neige.,490,94.9,False,positional
 BO0624_83876,91832,36,34,Le Port de Dieppe.,505,91.9,False,positional,LEBOURG,,,,
 BO0624_83876,91833,37,35,La Seine pres de Rouen.,523,93.6,False,positional,LEBOURG,,,,
 BO0624_83876,91834,38,37,Bords de la Seine.,534,91.9,False,positional,LEBOURG,,,,
-BO0624_83876,91835,39,1835,1892,550,61.5,False,positional,LEPINE,,,,
+BO0624_83876,91835,39,1835,1892,550,61.5,False,positional,LEPINE,,,,Sec. XIX
 BO0624_83876,91836,40,36,Le Port d’Audierne.,552,92.3,False,positional,LEPINE,,,,
-BO0624_83876,91837,41,1835,1892,570,61.5,False,positional,LEPINE,,,,
+BO0624_83876,91837,41,1835,1892,570,61.5,False,positional,LEPINE,,,,Sec. XIX
 BO0624_83876,91838,42,38,Les Glacons (Effet de crepuscule).,577,95.4,False,positional,MONET,,,,
 BO0624_83876,91839,43,3,g - Route a Giverny.,586,97.1,False,positional,MONET,,,,
 BO0624_83876,91840,44,40,— Pourville pres Dieppe.,607,93.3,False,positional,MONET,,,,
 BO0624_83876,91841,45,41,Le Petit Bras de la Seine a Vetheuil.,620,96.0,False,positional,MONET,,,,
 BO0624_83876,91842,46,42,La Seine a Vetheuil.,637,92.7,False,positional,MONET,,,,
-BO0624_83876,91843,47,43,Jeume Fille au corsage rouge. 1903,654,87.5,False,positional,MORISOT,,,,
+BO0624_83876,91843,47,43,Jeume Fille au corsage rouge. 1903,654,87.5,False,positional,MORISOT,,,,Sec. XX
 BO0624_83876,91844,48,44,—Jardin a Eragny.,669,90.9,False,positional,PISSARRO,,,,
 BO0624_83876,91845,49,45,Apres-midi d'automne.,682,93.0,False,positional,PISSARRO,,,,
 BO0624_83876,91846,50,46,Eragny;matin d’automne.,695,93.6,False,positional,PISSARRO,,,,
-BO0624_83876,91847,51,47,— Chemin d'Osny; gelee blanche (Pontoise). 1903,710,90.0,False,positional,PISSARRO,,,,
-BO0624_83876,91848,52,48,La Cueillette des Pois (Eragny). 1903,728,87.9,False,positional,PISSARRO,,,,
+BO0624_83876,91847,51,47,— Chemin d'Osny; gelee blanche (Pontoise). 1903,710,90.0,False,positional,PISSARRO,,,,Sec. XX
+BO0624_83876,91848,52,48,La Cueillette des Pois (Eragny). 1903,728,87.9,False,positional,PISSARRO,,,,Sec. XX
 BO0624_83876,91849,53,49,Soleil couchant (Bazincourt).,743,94.5,False,positional,PISSARRO,,,,
 BO0624_83876,91850,54,5,o——La Mere Gaspard (Pontoise).,761,98.1,False,positional,PISSARRO,,,,
 BO0624_83876,91851,55,51,Le Chemin de lErmitage(Pontoise).,772,95.4,False,positional,PISSARRO,,,,
@@ -64,23 +64,23 @@ BO0624_83876,91858,62,58,Jeune Fille a la canne.,876,93.6,False,positional,RENOI
 BO0624_83876,91859,63,59,Baigneuse.,886,85.7,False,positional,RENOIR,,,,
 BO0624_83876,91860,64,60,Fleurs.,903,80.0,False,positional,RENOIR,,,,
 BO0624_83876,91861,65,61,Ingenue. Jeune Garcon. Bords de la Mediterranee.,950,69.4,False,positional,RENOIR,,,,
-BO0624_83876,91862,66,64,"L'Atelier de lArtiste (rue Saint-Georges, annee 1876).",969,97.1,False,positional,RENOIR,,,,
+BO0624_83876,91862,66,64,"L'Atelier de lArtiste (rue Saint-Georges, annee 1876).",969,97.1,False,positional,RENOIR,,,,Sec. XIX
 BO0624_83876,91863,67,65,Le Quai Malaquais.,986,91.9,False,positional,RENOIR,,,,
 BO0624_83876,91864,68,66,Jeune Femme.,999,88.0,False,positional,RENOIR,,,,
 BO0624_83876,91865,69,67,Jeune Femme.,1017,88.0,False,positional,RENOIR,,,,
-BO0624_83876,91866,70,68,Nature morte. 1899,1030,75.0,False,positional,RENOIR,,,,
+BO0624_83876,91866,70,68,Nature morte. 1899,1030,75.0,False,positional,RENOIR,,,,Sec. XIX
 BO0624_83876,91867,71,69,"Premiers Jours d'Automne,le matin.",1046,95.7,False,positional,SISLEY,,,,
 BO0624_83876,91868,72,6681,6281,1060,61.5,False,positional,SISLEY,,,,
-BO0624_83876,91869,73,183,g-1899,1065,80.0,False,positional,SISLEY,,,,
+BO0624_83876,91869,73,183,g-1899,1065,80.0,False,positional,SISLEY,,,,Sec. XIX
 BO0624_83876,91870,74,70,Apres-midi du milieu de l'Ete.,1067,95.1,False,positional,SISLEY,,,,
 BO0624_83876,91871,75,7,I-—L'Inondation.,1078,96.6,False,positional,SISLEY,,,,
 BO0624_83876,91872,76,72,- L'Ecluse de Bourgogne a Moret.,1099,95.1,False,positional,SISLEY,,,,
-BO0624_83876,91873,77,73,"La Lisiere du Bois, temps d’orage au Printemps. 1899",1112,91.8,False,positional,SISLEY,,OGGETTI IN LEGNO,,
-BO0624_83876,91874,78,74,"La Seine a Port-Marly,1875.",1127,94.5,False,positional,SISLEY,,,,
+BO0624_83876,91873,77,73,"La Lisiere du Bois, temps d’orage au Printemps. 1899",1112,91.8,False,positional,SISLEY,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_83876,91874,78,74,"La Seine a Port-Marly,1875.",1127,94.5,False,positional,SISLEY,,,,Sec. XIX
 BO0624_83876,91875,79,75,Tournant du Loing a Moret;Printemps.,1146,95.9,False,positional,SISLEY,,,,
 BO0624_83876,91876,80,76,Le Chemin de Veneux a Thomery par le bord de leau,1163,97.0,False,positional,SISLEY,,,,
-BO0624_83876,91877,81,77,Le Chemin des Gres a Bellevue. g-1899,1178,85.3,False,positional,SISLEY,,,,
-BO0624_83876,91878,82,78,"Un Chemin pres du Parc de Courances (Environs de Melun,1868).",1196,97.5,False,positional,SISLEY,,,,
+BO0624_83876,91877,81,77,Le Chemin des Gres a Bellevue. g-1899,1178,85.3,False,positional,SISLEY,,,,Sec. XIX
+BO0624_83876,91878,82,78,"Un Chemin pres du Parc de Courances (Environs de Melun,1868).",1196,97.5,False,positional,SISLEY,,,,Sec. XIX
 BO0624_83876,91879,83,79,L'Abreuvoir de Marly;neige.,1211,94.5,False,positional,SISLEY,,,,
 BO0624_83876,91880,84,80,La Convalescente.,1228,91.4,False,positional,DAGNAN-BOUVERET,,,,
 BO0624_83876,91881,85,81,La Famille Mante.,1243,91.4,False,positional,DEGAS,,,,

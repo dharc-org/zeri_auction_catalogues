@@ -85,13 +85,13 @@ BO0624_88104,305170,83,83,83. Abendstimmung am Kanal. Beide bezeichnet.,289,19.2
 BO0624_88104,305171,84,84,"84.Clair de Lune. Rud. Katz, Karlsruhe.",291,21.7,False,positional,,Hollandische Schule,,,
 BO0624_88104,305172,85,85,Papagei.Bezeichnet.                                                                                                                                                                                                                 | Leinw.47/68.                                     |,293,19.0,False,positional,,Hollandische Schule,,,
 BO0624_88104,305173,86,86,Kinderstudie.                                                                                                                                                                                                                      | Blei 40/30.                                      |,295,34.3,False,positional,,Hollandische Schule,OGGETTI IN PIOMBO,,
-BO0624_88104,305174,87,87,| 87.O. Cornill . Brustbild. Italienerin (Ariccia 1853),296,28.9,False,positional,,Hollandische Schule,,,
+BO0624_88104,305174,87,87,| 87.O. Cornill . Brustbild. Italienerin (Ariccia 1853),296,28.9,False,positional,,Hollandische Schule,,,Sec. XIX
 BO0624_88104,305175,88,88,88. Derselbe Studienkopf. Italienerin.,297,0.0,False,positional,,Hollandische Schule,,,
 BO0624_88104,305176,89,89,89. Derselbe Brustbild. Madonna.,298,26.1,False,positional,,Hollandische Schule,,,
-BO0624_88104,305177,90,90,90. Derselbe Desgl. Italienerin Luisa (Rom 1854) weiss gehoht.,299,33.3,False,positional,,Hollandische Schule,,,
+BO0624_88104,305177,90,90,90. Derselbe Desgl. Italienerin Luisa (Rom 1854) weiss gehoht.,299,33.3,False,positional,,Hollandische Schule,,,Sec. XIX
 BO0624_88104,305178,91,91,91. Derselbe Studienkopf. Junges Madchen. | 70/50. 68/50. 67/51. 67/51. 58/44. 57/44. 50/70. |,300,26.5,False,positional,,Hollandische Schule,,,
-BO0624_88104,305179,92,92,| 92. Derselbe Brustbild eines Greises. (Rom 1854) mit weiss.,301,37.5,False,positional,,Hollandische Schule,,,
-BO0624_88104,305180,93,93,93. Derselbe Landschaft Arricia 1853 mit weiss,302,22.9,False,positional,,Hollandische Schule,,,
+BO0624_88104,305179,92,92,| 92. Derselbe Brustbild eines Greises. (Rom 1854) mit weiss.,301,37.5,False,positional,,Hollandische Schule,,,Sec. XIX
+BO0624_88104,305180,93,93,93. Derselbe Landschaft Arricia 1853 mit weiss,302,22.9,False,positional,,Hollandische Schule,,,Sec. XIX
 BO0624_88104,305181,94,94,94.Derselbe Desgl. Ebenso. Samtlich monogrammiert.,303,46.8,False,positional,,Hollandische Schule,,,
 BO0624_88104,305182,95,95,95.Am Strand.,304,42.9,False,positional,,Hollandische Schule,,,
 BO0624_88104,305183,96,96,Desgl. Kupferstich.                                                                                                                                                                                                                 |                                                  |,305,91.9,False,positional,,Hollandische Schule,OGGETTI IN RAME,,
@@ -102,7 +102,7 @@ BO0624_88104,305187,100,100,"Stilleben.Vogelkafig, Pulvertasche etc. Bezeichnet.
 BO0624_88104,305188,101,101,"Eisvergnigen am Niederrhein. Bezeichnet. Leinw.36/45,5.",322,96.3,False,positional,Charles Leickert,,,,
 BO0624_88104,305189,102,102,Brickenmihle zu Frankfurt a. M. Bezeichnet. Leinw.85/100.,326,96.4,False,positional,Otto Friedr. Leu,,,,
 BO0624_88104,305190,103,103,Eschenheimer Turm und die Nicolaikirche. 2 Lithogr.,330,96.1,False,positional,,,Litographien,,
-BO0624_88104,305191,104,104,Portrait Napoleon Hl. geb. in Paris 20.Marz 1811 gest.in Schonbrunn 22.Juli 1832. Lithogr.36/24.,331,97.9,False,positional,,,Litographien,,
+BO0624_88104,305191,104,104,Portrait Napoleon Hl. geb. in Paris 20.Marz 1811 gest.in Schonbrunn 22.Juli 1832. Lithogr.36/24.,331,97.9,False,positional,,,Litographien,,Sec. XIX
 BO0624_88104,305192,105,105,Winter-Idyll. Schloss Hochst.,335,93.1,False,positional,Prof.Bernh. Mannfeld,Manifattura di Hochst,,,
 BO0624_88104,305193,106,106,Dom zu Limburg.,339,87.5,False,positional,Prof.Bernh. Mannfeld,,,,
 BO0624_88104,305194,107,107,Pferdeportrait.,345,87.5,False,positional,Prof.Bernh. Mannfeld,,,,
@@ -124,7 +124,7 @@ BO0624_88104,305209,122,122,Betende Frau.                                       
 BO0624_88104,305210,123,123,"| 123. Unbekannt.,Konigstein i. T.“                                                                       | Rad.38/34.",399,100.0,False,positional,E.von Muller,,,,
 BO0624_88104,305211,124,124,124. Landschaft bei Palermo.,400,35.9,False,positional,E.von Muller,,,,
 BO0624_88104,305212,125,125,125. Landschaft bei Neapel. Beide bezeichnet. | Leinw.49/73. Pend.z.Vor.                      |,401,37.9,False,positional,E.von Muller,,,,
-BO0624_88104,305213,126,126,Ansicht einer hollandischen Stadt. Bez.:Laurent Redig 1851.                                        | Holz 43/60.                                   |,402,97.1,False,positional,E.von Muller,,OGGETTI IN LEGNO,,
+BO0624_88104,305213,126,126,Ansicht einer hollandischen Stadt. Bez.:Laurent Redig 1851.                                        | Holz 43/60.                                   |,402,97.1,False,positional,E.von Muller,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88104,305214,127,127,Nach Gainsborough.                                                                                 | Heliogr. 82/64. Pend.z. Vor.                  |,403,95.5,False,positional,E.von Muller,,,,
 BO0624_88104,305215,128,128,| 128.Desgl.,404,34.6,False,positional,E.von Muller,,,,
 BO0624_88104,305216,129,129,129. Nach A. Schreyer.                                                                       | Heliogr. 64/88.,405,28.0,False,positional,Leon Richet,,,,
@@ -234,9 +234,9 @@ BO0624_88104,305319,232,252,"Steingutkrug, bauchig mit Arabesken, Nassau.",644,9
 BO0624_88104,305320,233,253,Desgl.,645,71.4,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305321,234,38,desgl.,646,76.9,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305322,235,39,desgl.,647,76.9,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305323,236,254,"Zinnschraubenkanne,6eckig 1725.",648,93.8,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305323,236,254,"Zinnschraubenkanne,6eckig 1725.",648,93.8,False,positional,Adolf Ziegenmeyer,,,,Sec. XVIII
 BO0624_88104,305324,237,255,Zinnterrine mit zwei Haken.,649,92.9,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305325,238,256,Platte Marburg mit Jahreszahl 1812.,650,94.4,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305325,238,256,Platte Marburg mit Jahreszahl 1812.,650,94.4,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
 BO0624_88104,305326,239,257,Desgl. mit Vogel.,651,88.2,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305327,240,258,Schisselchen Marburg mit Spruch.,652,93.9,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305328,241,259,Fayence-Kaffee- u. Milchkanne. Offenbach a. Main.,653,95.7,False,positional,Adolf Ziegenmeyer,,,,
@@ -309,12 +309,12 @@ BO0624_88104,305394,307,324,"Kasten mit altjudischem Besteck: 6 Kaffeeloffel, Te
 BO0624_88104,305395,308,325,"Sechs Dessertmesser, mit Silbergriffen.",737,94.9,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305396,309,326,Ouale Terrine mit Deckel. Leeds.,738,93.8,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305397,310,327,Goldtasse. Meiben.,740,88.9,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305398,311,328,"Fayence-Eule. Nirnberg, blau 1630.",742,93.9,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305398,311,328,"Fayence-Eule. Nirnberg, blau 1630.",742,93.9,False,positional,Adolf Ziegenmeyer,,,,Sec. XVII
 BO0624_88104,305399,312,329,Zwei Teller mit Ansichten. Franzosisch.,744,94.9,False,positional,Adolf Ziegenmeyer,,PIATTI,,
 BO0624_88104,305400,313,330,Tasse mit Kopfen. Franzosisch.,746,93.3,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305401,314,331,Kruzifix.Bronze.,748,88.2,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305402,315,332,Korallenkette mit Kreuz.,750,92.0,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305403,316,333,"Kellerleuchter, Zinn. Koln 1820.",752,93.5,False,positional,Adolf Ziegenmeyer,,OGGETTI IN LATTA,,
+BO0624_88104,305403,316,333,"Kellerleuchter, Zinn. Koln 1820.",752,93.5,False,positional,Adolf Ziegenmeyer,,OGGETTI IN LATTA,,Sec. XIX
 BO0624_88104,305404,317,334,"Zinnplatte, graviert.",754,90.5,False,positional,Adolf Ziegenmeyer,,OGGETTI IN LATTA,,
 BO0624_88104,305405,318,335,Zehn Dessertfteller. Marke Napoli.,756,94.1,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305406,319,336,"GroBe Buchdecke, eingelegt.",758,92.6,False,positional,Adolf Ziegenmeyer,,,,
@@ -331,7 +331,7 @@ BO0624_88104,305416,329,346,"GroBe Plafte, reich dekoriert. Chinesisch.",778,95.
 BO0624_88104,305417,330,347,"Sechs Teller, weib mit reliefirtem Rand.",780,95.0,False,positional,Adolf Ziegenmeyer,,PIATTI,,
 BO0624_88104,305418,331,348,Zwei Fayenceplaften mit blauem Dekor.,782,94.7,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305419,332,349,Funf Fayenceteller desgl.,784,92.3,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305420,333,350,Messing-Morser mit engl. Wappen 1807 und StoBer.,786,95.8,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305420,333,350,Messing-Morser mit engl. Wappen 1807 und StoBer.,786,95.8,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
 BO0624_88104,305421,334,351,Zwei BurgerwehrspieBe.,787,91.3,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305422,335,352,Zwei Degen mit Quasten.,788,91.7,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305423,336,353,Degen.,789,71.4,False,positional,Adolf Ziegenmeyer,,,,
@@ -380,7 +380,7 @@ BO0624_88104,305465,378,428,"Desgl. Heiliger, ohne Fassung, Hohe 53 cm.",866,95.
 BO0624_88104,305466,379,429,"Desgl. Apostel Stephanus, ebenso, Hohe 59 cm.",867,95.3,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305467,380,35,"Christuskind mit der Weltkugel, auf einem Drachen stehend,",868,97.4,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305468,381,431,Hocker auf gedrehten Beinen mit Lederbezug. Altdeutsch. 430.Desgl. Hohe 52 cm.,869,80.9,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305469,382,432,"Truhe in Eichen, 1764. Niedersachsisch.",871,94.7,False,positional,Adolf Ziegenmeyer,,BAULI,,
+BO0624_88104,305469,382,432,"Truhe in Eichen, 1764. Niedersachsisch.",871,94.7,False,positional,Adolf Ziegenmeyer,,BAULI,,Sec. XVIII
 BO0624_88104,305470,383,433,"Statuette. Madonna mit dem Jesuskind, vollrund geschnitzt, Hohe auf Sockel 46 cm.",872,97.5,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305471,384,434,"Statuette. Heilige Anna selbdritt. Eichenholz vollrund geschnitzt, Hohe 40 cm.",873,89.4,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305472,385,435,"Bronze-Altarchen,.4 teilig, je 17X10 cm.",875,94.9,False,positional,Adolf Ziegenmeyer,,,,
@@ -397,7 +397,7 @@ BO0624_88104,305482,395,445,"Elfenbeinrelief, Portrait Louis XVI. Diam. 10 cm.",
 BO0624_88104,305483,396,446,Desgl. Portrait Maria Antoinette.P.z.Vor.,888,95.1,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305484,397,447,"Flasche,Kunstglas irisierend. Hohe 32 cm.",889,95.1,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305485,398,448,"Biedermeierteller, Familienscene.Diam.20,5 cm.",890,95.7,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305486,399,449,"Zwei Weihnachtsteller von 1907 u.1909. Kopenhagen. Diam.18,5 cm.",891,96.8,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305486,399,449,"Zwei Weihnachtsteller von 1907 u.1909. Kopenhagen. Diam.18,5 cm.",891,96.8,False,positional,Adolf Ziegenmeyer,,,,Sec. XX
 BO0624_88104,305487,400,450,"Zweitur. Kleiderschrank, NuBbaum- und Eichenholz. Renaissance.",892,96.6,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305488,401,451,"Aufsatzschrank,Eichenholz, 2tuir. Louis XV.",893,95.2,False,positional,Adolf Ziegenmeyer,Periodo di Luigi XV,,,
 BO0624_88104,305489,402,452,"Fauteuil, graziose Form, Nussbaum, Original Louis XV.",894,96.1,False,positional,Adolf Ziegenmeyer,Periodo di Luigi XV,SCOMPARTI,,
@@ -464,35 +464,35 @@ BO0624_88104,305549,462,525,"Porzellangruppe Familienkonzert Hohe 20,5, Sockel 1
 BO0624_88104,305550,463,526,"desgl. ,Schafer und Schaferin"" Hohe 30, Sockel 20X20 cm. Marke Ludwigsburg. Marke Ludwigsburg.",973,86.2,False,positional,Adolf Ziegenmeyer,Manifattura di Ludwigsburg,,,
 BO0624_88104,305551,464,527,"desgl. ,Liebespaar"" Hohe 35, Sockel 22,5 cm. Marke Sevres. desgl.,Sommer“ Hohe 21 cm.Rudolstadt. desgl. ,Blindekuhspieler“ Hohe 27 cm. Marke V. R.",975,55.6,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305552,465,530,"desgl. ,Idylle Hohe 23 cm.Marke Wien. desgl.Edelmann und Edelfrau""Hohe 29 cm. Marke Ludwigsburg. desgl. ,Liebespaar"" Bauernmadchen und Knabe, Hohe 17 cm. Marke Carl Theodor.",980,61.0,False,positional,Adolf Ziegenmeyer,Scuola Viennese,,,
-BO0624_88104,305553,466,533,"desgl. Ruhendes Italienerpaar“ Hohe 1l cm. Marke Wien. Taschenbuch Cornelia, fir Deutsche Frauen. 1821.",981,66.7,False,positional,Adolf Ziegenmeyer,Scuola Viennese,,,
+BO0624_88104,305553,466,533,"desgl. Ruhendes Italienerpaar“ Hohe 1l cm. Marke Wien. Taschenbuch Cornelia, fir Deutsche Frauen. 1821.",981,66.7,False,positional,Adolf Ziegenmeyer,Scuola Viennese,,,Sec. XIX
 BO0624_88104,305554,467,534,desgl. Spielende Kinder“ Hohe 43 cm. Bisquitporzellan.,983,96.2,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305555,468,13,"536.Desgl.Selitha"" 1831.",984,93.6,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305556,469,14,538.Desgl. Desgl. Desgl. 1839.,985,94.5,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305557,470,15,"537.Desgl. Cornelia, fir Deutsche Frauen 1832.",986,96.6,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305555,468,13,"536.Desgl.Selitha"" 1831.",984,93.6,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305556,469,14,538.Desgl. Desgl. Desgl. 1839.,985,94.5,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305557,470,15,"537.Desgl. Cornelia, fir Deutsche Frauen 1832.",986,96.6,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
 BO0624_88104,305558,471,539,Desgl. Desgl.,987,84.6,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305559,472,17,Desgl. 1847.,988,87.0,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305560,473,18,541.Desgl. Desgl. Desgl. 1857.,989,94.5,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305561,474,19,540.Desgl. Desgl. Desgl. 1849.,990,94.5,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305559,472,17,Desgl. 1847.,988,87.0,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305560,473,18,541.Desgl. Desgl. Desgl. 1857.,989,94.5,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305561,474,19,540.Desgl. Desgl. Desgl. 1849.,990,94.5,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
 BO0624_88104,305562,475,20,542.Desgl.Desgl.,991,90.9,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305563,476,21,544.Desgl. 1810.,992,90.3,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305564,477,22,543.Almanach 1806.,993,91.9,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305565,478,23,545.Desgl. 1811.,994,90.3,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305563,476,21,544.Desgl. 1810.,992,90.3,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305564,477,22,543.Almanach 1806.,993,91.9,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305565,478,23,545.Desgl. 1811.,994,90.3,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
 BO0624_88104,305566,479,24,547.Desgl.,995,85.7,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305567,480,25,546.Desgl. 1815.,996,90.3,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305568,481,26,548.Drei Kalender von 1848.,997,94.5,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305569,482,27,1816.,998,72.7,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305570,483,549,"Drei Staatskalender der freien Stadt Frankfurt a.M.1830, 33, 45. Cotta'scher Verlag 1852. Faust mit Zeichnungen von E. Seibertz. Gallerie Meisterwerke altdeutscher Holzschneidekunst.",1000,51.9,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305567,480,25,546.Desgl. 1815.,996,90.3,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305568,481,26,548.Drei Kalender von 1848.,997,94.5,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305569,482,27,1816.,998,72.7,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305570,483,549,"Drei Staatskalender der freien Stadt Frankfurt a.M.1830, 33, 45. Cotta'scher Verlag 1852. Faust mit Zeichnungen von E. Seibertz. Gallerie Meisterwerke altdeutscher Holzschneidekunst.",1000,51.9,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
 BO0624_88104,305571,484,552,Mappe. Ansicht von Venedig. Erinnerung an Sanssouci. 3 Hefte. Hoibein-Album.Photogr.Institut Berlin.,1004,57.4,False,positional,Adolf Ziegenmeyer,Scuola di Berlino,,,
 BO0624_88104,305572,485,555,W. v. Kaulbachs Wandgemalde. 11 Hefte. Desgl. Unsere Kunst. Herausgegeben von den vereinigten Duissel-,1006,76.7,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305573,486,556,Prachtwerk. Reise des Herzogs von Sachsen-Koburg-Gotha und Aegypten etc.,1007,97.2,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305574,487,37,dorfer Kinstlern.,1008,91.4,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305575,488,559,"A. Renee, Les nieces de Mazarin.Paris 1858. Drei Jahrgange. The London Magazine 1906, 1907, 1910.",1010,72.7,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305576,489,560,"C. Martha, Les moralistes sous l'Empire Romain.Paris 1865. Victor Cousin, Mme. de Chereuse, Paris 1862. Rousset, Le Comte de Gisors 1752-1758. Paris 1868.",1011,54.2,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305577,490,563,"Derselbe,Mme. de Hauteford, Paris 1856.",1014,94.7,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305578,491,564,"Derselbe, Mme. de Longueville, Paris 1859.2 Bde. Desgl. 1868.",1015,85.4,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305579,492,565,"Victor Cousin, Mme. de Sable, Paris 1859. 1 Bd. Derselbe, La societe Francaise au XVll siecle, Paris 1858. 2 Bde. Derselbe, La jeunesse de Mazarin, Paris 1865. 2 Bde.",1018,57.8,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305580,493,568,"Cretineau-Joli, Memoires du Cardinal Consalvi, Paris 1864. 2 Bde. Chr. Gg. Schitz. Landschaft mit Bricke. Bister. j. C.Zehender 1770. 2 Landschaften. Tusche.",1020,58.4,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305581,494,571,P.F. Peters 1856. Wildbad.Aquarell. Ph. herrmann t. Burg Eltz. Blei. Carl Morgenstern t. Terracino. Blei.,1025,53.0,False,title_direct,MORGENSTERN CARL,,OGGETTI IN PIOMBO,,
+BO0624_88104,305575,488,559,"A. Renee, Les nieces de Mazarin.Paris 1858. Drei Jahrgange. The London Magazine 1906, 1907, 1910.",1010,72.7,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305576,489,560,"C. Martha, Les moralistes sous l'Empire Romain.Paris 1865. Victor Cousin, Mme. de Chereuse, Paris 1862. Rousset, Le Comte de Gisors 1752-1758. Paris 1868.",1011,54.2,False,positional,Adolf Ziegenmeyer,,,,Sec. XVIII
+BO0624_88104,305577,490,563,"Derselbe,Mme. de Hauteford, Paris 1856.",1014,94.7,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305578,491,564,"Derselbe, Mme. de Longueville, Paris 1859.2 Bde. Desgl. 1868.",1015,85.4,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305579,492,565,"Victor Cousin, Mme. de Sable, Paris 1859. 1 Bd. Derselbe, La societe Francaise au XVll siecle, Paris 1858. 2 Bde. Derselbe, La jeunesse de Mazarin, Paris 1865. 2 Bde.",1018,57.8,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305580,493,568,"Cretineau-Joli, Memoires du Cardinal Consalvi, Paris 1864. 2 Bde. Chr. Gg. Schitz. Landschaft mit Bricke. Bister. j. C.Zehender 1770. 2 Landschaften. Tusche.",1020,58.4,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305581,494,571,P.F. Peters 1856. Wildbad.Aquarell. Ph. herrmann t. Burg Eltz. Blei. Carl Morgenstern t. Terracino. Blei.,1025,53.0,False,title_direct,MORGENSTERN CARL,,OGGETTI IN PIOMBO,,Sec. XIX
 BO0624_88104,305582,495,574,E. Griesinger . Landschaft. Aquarell. Ernst Fries .5 Blatt Landschaften etc. Aquarelle. Joc.Dorner .4 Blatt Landschaften etc. Aquarell etc.,1028,55.6,False,title_direct,,,Aquarelle,,
 BO0624_88104,305583,496,577,Prosper Micheldt. Le pauvre pretre et le Macon. Litho. Leopold Bode . Meraner Weinberge. Blei. F. Rops. 2 Blatt. Lithogr.,1029,61.8,False,positional,Adolf Ziegenmeyer,,OGGETTI IN PIOMBO,,
 BO0624_88104,305584,497,580,Hch. Funk . Aus Sidtyrol. Blei A. Leichum . Schwabischer Bauer. Aquarell. Carl hilgers . 3 Blatt Figurenstudien. Blei.,1034,55.0,False,title_direct,,,OGGETTI IN PIOMBO,,
@@ -516,17 +516,17 @@ BO0624_88104,305601,514,6,"615.D Drei Ansichten. Schweiz und Rhein. Kupferst. je
 BO0624_88104,305602,515,616,Drei Blatt Jagdsujets. Farb. Steindruck je 30/40.,1070,95.8,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305603,516,617,"Der Einzug der Allirten in Dresden.Farb. Steindruck 13/19,5.",1071,96.7,False,positional,Adolf Ziegenmeyer,,,,
 BO0624_88104,305604,517,618,"Ansicht von Schloss Biebrich. Farb Steindruck 16,5/23.",1072,96.3,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305605,518,619,Meyer's Universum mit Abbildungen und Beschreibungen ab 1834 21 Bande.,1073,90.2,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305606,519,620,Taschenbuch fur Deutsche Frauen 1843.,1075,94.7,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305607,520,621,Desgl. Desgl. 1844.,1078,83.3,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305608,521,622,Desgl. Desgl. 1845. Desgl. Desgl. 1848. Desgl. Desgl. 1846.,1079,51.4,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305609,522,625,Rheinisches Taschenbuch. 1844.,1081,93.3,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305610,523,626,Taschenbuch 1827.,1082,88.9,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305605,518,619,Meyer's Universum mit Abbildungen und Beschreibungen ab 1834 21 Bande.,1073,90.2,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305606,519,620,Taschenbuch fur Deutsche Frauen 1843.,1075,94.7,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305607,520,621,Desgl. Desgl. 1844.,1078,83.3,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305608,521,622,Desgl. Desgl. 1845. Desgl. Desgl. 1848. Desgl. Desgl. 1846.,1079,51.4,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305609,522,625,Rheinisches Taschenbuch. 1844.,1081,93.3,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305610,523,626,Taschenbuch 1827.,1082,88.9,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
 BO0624_88104,305611,524,627,Desgl.,1083,71.4,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305612,525,21,1829.,1084,72.7,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305613,526,629,Das Wesertal in Bildern von Munden bis Minden. Desgl. 1831.,1085,85.7,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305614,527,630,Konvolut Bucher.Diverse. 632.Zwei Schweinsleder-Einbande. 1563 und 1591.,1088,78.6,False,positional,Adolf Ziegenmeyer,,LAMPADE,,
+BO0624_88104,305612,525,21,1829.,1084,72.7,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305613,526,629,Das Wesertal in Bildern von Munden bis Minden. Desgl. 1831.,1085,85.7,False,positional,Adolf Ziegenmeyer,,,,Sec. XIX
+BO0624_88104,305614,527,630,Konvolut Bucher.Diverse. 632.Zwei Schweinsleder-Einbande. 1563 und 1591.,1088,78.6,False,positional,Adolf Ziegenmeyer,,LAMPADE,,Sec. XVI
 BO0624_88104,305615,528,631,Altes Buch Missale mit gepresstem Einband.,1089,95.3,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305616,529,633,Leder-Einband 1602. Vier Bande mit schoner Lederpressung. Desgl. mit Wappenpressung.,1091,63.3,False,positional,Adolf Ziegenmeyer,,OGGETTI IN PELLE,,
-BO0624_88104,305617,530,636,Zwei Desgl. Desgl. 1632.,1093,91.3,False,positional,Adolf Ziegenmeyer,,,,
-BO0624_88104,305618,531,637,Band mit Lederpressung 1560.,1094,93.1,False,positional,Adolf Ziegenmeyer,,,,
+BO0624_88104,305616,529,633,Leder-Einband 1602. Vier Bande mit schoner Lederpressung. Desgl. mit Wappenpressung.,1091,63.3,False,positional,Adolf Ziegenmeyer,,OGGETTI IN PELLE,,Sec. XVII
+BO0624_88104,305617,530,636,Zwei Desgl. Desgl. 1632.,1093,91.3,False,positional,Adolf Ziegenmeyer,,,,Sec. XVII
+BO0624_88104,305618,531,637,Band mit Lederpressung 1560.,1094,93.1,False,positional,Adolf Ziegenmeyer,,,,Sec. XVI

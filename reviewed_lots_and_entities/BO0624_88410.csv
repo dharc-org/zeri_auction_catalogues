@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88410,290023,1,907,| Segelschiff im Sturm. L.u. bez.: W. Adrian 1860. AMERIKANISCHE SCHULE DES 19.JAHRH.   | Karton 9/17            |,5,97.8,False,positional,W.ADRIAN,,,,
+BO0624_88410,290023,1,907,| Segelschiff im Sturm. L.u. bez.: W. Adrian 1860. AMERIKANISCHE SCHULE DES 19.JAHRH.   | Karton 9/17            |,5,97.8,False,positional,W.ADRIAN,,,,Sec. XIX
 BO0624_88410,290024,2,908,| Ruinenlandschaft.                                                                     | Holz32/40              |,7,92.9,False,positional,W.ADRIAN,,,,
 BO0624_88410,290025,3,909,| Landschaft mit Muhle.                                                                 | Gegenstuck zum Vorigen |,8,95.6,False,positional,W.ADRIAN,,,,
 BO0624_88410,290026,4,910,| Waldlandschaft mit Kapelle am Flub.                                                   | Leinwand 31/39         |,9,96.1,False,positional,W.ADRIAN,,,,
@@ -46,7 +46,7 @@ BO0624_88410,290066,44,976,| Madhen und Jungling. Nac Tizian. Madonna mit Heilig
 BO0624_88410,290067,45,977,| Muhle.                                                                                |,105,71.4,False,positional,,"REABURN,SCHULE",,,
 BO0624_88410,290068,46,978,| Oval31/22 The Age of Innocence. Rob. S. Clouste nach Reynolds Farbdrudk. 65/53        |,106,97.4,False,positional,REYNOLDS JOSHUA,"REABURN,SCHULE",,,
 BO0624_88410,290069,47,979,| Venus. Nad Giorgione. 27/40                                                           |,107,92.6,False,positional,GIORGIONE,"REABURN,SCHULE",,,
-BO0624_88410,290070,48,981,982                             | Napoleonischer Tambour. Aquarell 35/25 R.bez.: A. Tholey 1888. Gegenstudk zum Vorigen |,110,97.7,False,positional,,"REABURN,SCHULE",,,
+BO0624_88410,290070,48,981,982                             | Napoleonischer Tambour. Aquarell 35/25 R.bez.: A. Tholey 1888. Gegenstudk zum Vorigen |,110,97.7,False,positional,,"REABURN,SCHULE",,,Sec. XIX
 BO0624_88410,290071,49,983,| Bildnis eines Schauspielers als Antonius. Aquarell 30/22                              |,113,96.5,False,positional,,"REABURN,SCHULE",,,
 BO0624_88410,290072,50,984,| Marburg a. d. Lahn. Aquarell 35/47                                                    |,114,93.9,False,positional,,"REABURN,SCHULE",,,
 BO0624_88410,290073,51,986,| 5Geldern'she Flachlandshaft mit Windmuhle.Holz 27/55 R.u.bez.: A.J.v.Wyngaerdt.       |,116,97.4,False,positional,,"REABURN,SCHULE",OGGETTI IN LEGNO,,
@@ -114,7 +114,7 @@ BO0624_88410,290134,112,1052,"| Jardiniere, versilbert, mit Glaseinsatz. Lange 4
 BO0624_88410,290135,113,1053,| Shildkrote als Spudknapf. Eisen. Lange 34 cm                                                                                                                        |,245,94.4,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
 BO0624_88410,290136,114,1054,"| Leuhter, von Sphinx getragen. Hohe 13 cm                                                                                                                            |",246,93.8,False,positional,,,Mobel,,
 BO0624_88410,290137,115,1055,| 6 japanische Schwerter mit Sceiden.                                                                                                                                 |,247,93.2,False,positional,,,Mobel,,
-BO0624_88410,290138,116,1056,"| Paar Pistolen, 17. Jahrhundert.                                                                                                                                     |",248,91.8,False,positional,,,Mobel,,
+BO0624_88410,290138,116,1056,"| Paar Pistolen, 17. Jahrhundert.                                                                                                                                     |",248,91.8,False,positional,,,Mobel,,Sec. XVII
 BO0624_88410,290139,117,1057,"| Sheffield=Platte, versilbert, oval mit Griffen.Lange 66 cm                                                                                                          |",249,95.7,False,positional,,,Mobel,,
 BO0624_88410,290140,118,1058,"| Brotkorb,versilbert. Lange 34,Breite 16cm                                                                                                                           |",250,94.1,False,positional,,,Mobel,,
 BO0624_88410,290141,119,1059,"| Konfekt=Shale,versilbert,auf 3 Saulen ruhend.Hohe 17cm                                                                                                              |",251,95.6,False,positional,,,Mobel,,
@@ -150,5 +150,5 @@ BO0624_88410,290170,148,1088,"Tischchen, weilb mit Gold und Pluschplatte.",287,9
 BO0624_88410,290171,149,1089,"- Aite Standuhr, defekt.",289,100.0,False,positional,,,Marmor; Keramik,,
 BO0624_88410,290172,150,1090,Gehorn.,290,70.6,False,positional,,,Marmor; Keramik,,
 BO0624_88410,290173,151,1091,"Facher,Perlmutter u.Elfenbeinstabh.m.Spitzen.Lange Z7 cm",291,95.7,False,positional,,,SCOMPARTI,,
-BO0624_88410,290174,152,1092,- 1093,293,100.0,False,positional,,,Marmor; Keramik,,
+BO0624_88410,290174,152,1092,- 1093,293,100.0,False,positional,,,Marmor; Keramik,,Sec. XI
 BO0624_88410,290175,153,1094,"Mappe mit 42 Blatt Zeichnungen, Stichen etc.",296,94.4,False,positional,,,STAMPE E INCISIONI,,

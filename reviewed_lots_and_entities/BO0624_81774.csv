@@ -1,23 +1,23 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_81774,722411,1,2,XVIII siecle.,4,92.3,False,positional,,Scuola Romana,EVENTAILS,,
-BO0624_81774,722412,2,4,XVIII siecle.,6,92.3,False,positional,,Scuola Romana,EVENTAILS,,
+BO0624_81774,722411,1,2,XVIII siecle.,4,92.3,False,positional,,Scuola Romana,EVENTAILS,,Sec. XVIII
+BO0624_81774,722412,2,4,XVIII siecle.,6,92.3,False,positional,,Scuola Romana,EVENTAILS,,Sec. XVIII
 BO0624_81774,722413,3,5,"N.3. Paysages et groupes de figurines, dames et cavaliers: peinture sur papier,monture en nacre ajouree et dorée. XVIll siecle.",7,99.2,False,positional,,,OGGETTI VARI,,
-BO0624_81774,722414,4,8,"feurs, figurines et dorures. XVIII siecle.",10,97.5,False,positional,,,EVENTAILS,,
+BO0624_81774,722414,4,8,"feurs, figurines et dorures. XVIII siecle.",10,97.5,False,positional,,,EVENTAILS,,Sec. XVIII
 BO0624_81774,722415,5,9,N.o 6. Scenes galantes de dames et cavaliers peintes sur papier: monture en,11,98.6,False,positional,,,EVENTAILS,,
-BO0624_81774,722416,6,10,nacre gravee et ajouree avec figurines et ornementslegerement en relief. XIX siecle.,12,98.2,False,positional,,,EVENTAILS,,
+BO0624_81774,722416,6,10,nacre gravee et ajouree avec figurines et ornementslegerement en relief. XIX siecle.,12,98.2,False,positional,,,EVENTAILS,,Sec. XIX
 BO0624_81774,722417,7,5,d'une legere arete.PL.I1.,26,96.0,False,positional,,,OBJETS DE FOUILLES,,
 BO0624_81774,722418,8,7,gueur est de m.o.95.PL.II.,28,96.2,False,positional,,,OBJETS DE FOUILLES,,
 BO0624_81774,722419,9,3,Dimensions:m.0.25X0.45X0.29.,31,96.4,False,positional,,,OBJETS DE FOUILLES,,
 BO0624_81774,722420,10,2,N.o 2.(Faldistoire) Fauteuil en bois peint en rouge avec plaques dorees: aux,40,98.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81774,722421,11,3,quatre extremites superieures des tetes de cherubins dorees. XVIll siecle.,41,98.6,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,
-BO0624_81774,722422,12,7,XVIII siecle.,45,92.3,False,positional,,Scuola Romana,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,
-BO0624_81774,722423,13,10,perieures surmontees de quatre tetes de lions. XVII siecle. PL.III.,48,97.7,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,
+BO0624_81774,722422,12,7,XVIII siecle.,45,92.3,False,positional,,Scuola Romana,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,Sec. XVIII
+BO0624_81774,722423,13,10,perieures surmontees de quatre tetes de lions. XVII siecle. PL.III.,48,97.7,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,Sec. XVII
 BO0624_81774,722424,14,12,cle en bois marquete. Style Empire.,50,95.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81774,722425,15,13,"N.° 25. Cabinet rectangulaire en bois, richement marquete exterieurement et interieurement:angles en bronze et serrure artistique.XVII siecle.",51,98.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81774,722426,16,18,"N.o 48. Miroir assorti, avec riche cadre dore surmonte d'un aigle. Meme époque. PL.IV.",56,98.2,False,positional,,,SPECCHI,,
-BO0624_81774,722427,17,2,XVII siecle.,85,100.0,False,positional,,Scuola Napoletana,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,
-BO0624_81774,722428,18,3,"N.o 192. Diptyque en ivoire de forme spherique, avec deux hauts reliefs: oeuvre allemande du XVI siecle.",110,99.0,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,
-BO0624_81774,722429,19,5,Serravezza. XVIII siecle.,112,95.8,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,
+BO0624_81774,722427,17,2,XVII siecle.,85,100.0,False,positional,,Scuola Napoletana,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,Sec. XVII
+BO0624_81774,722428,18,3,"N.o 192. Diptyque en ivoire de forme spherique, avec deux hauts reliefs: oeuvre allemande du XVI siecle.",110,99.0,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,Sec. XVI
+BO0624_81774,722429,19,5,Serravezza. XVIII siecle.,112,95.8,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,Sec. XVIII
 BO0624_81774,722430,20,7,N.o 217. Cabinet en palissandre tout uni en dehors: l'interieur est decore avec,114,98.7,False,positional,,,ARREDAMENTI,,
 BO0624_81774,722431,21,8,divisions architectoniques.XVIII siecle.,115,97.5,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,
 BO0624_81774,722432,22,10,miroir sont gravees des figurines decoratives.XVIII siecle.,117,97.5,False,positional,,,SPECCHI,,
@@ -25,13 +25,13 @@ BO0624_81774,722433,23,13,sculptees.XVII siecle.,120,93.3,False,positional,,,UTE
 BO0624_81774,722434,24,15,"N.o 251. Autre coffre de forme originale. La partie anterieure est convexe, dé-",122,98.0,False,positional,,,BAULI,,
 BO0624_81774,722435,25,16,corée et sculptee a tres bas relief.XV siecle.,123,96.8,False,positional,,,BASSORILIEVI,,
 BO0624_81774,722436,26,17,"N.o 281. Vase d’ivoire cylindrique orne de figures de Nymphes, sculptees en bas",124,98.1,False,positional,,,VASI,,
-BO0624_81774,722437,27,18,relief. XVIII siecle.,125,92.7,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,
+BO0624_81774,722437,27,18,relief. XVIII siecle.,125,92.7,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,Sec. XVIII
 BO0624_81774,722438,28,20,"appreciee et due, peut-etre, a la famille des ciseleurs Milanais Missaglia.",127,98.0,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,
 BO0624_81774,722439,29,22,blement d'école francaise.,129,94.3,False,positional,,,UTENSILES; OBJETS D'USAGE DOMESTIQUE,,
-BO0624_81774,722440,30,24,de Tritons en bas-reliefs. XVIII siecle.,131,96.2,False,positional,,,BASSORILIEVI,,
+BO0624_81774,722440,30,24,de Tritons en bas-reliefs. XVIII siecle.,131,96.2,False,positional,,,BASSORILIEVI,,Sec. XVIII
 BO0624_81774,722441,31,2,N.o 4. Pistolet a silex long et mince: le canon et les accessoires gravés au burin.,701,98.8,False,positional,,,PISTOLETS,,
 BO0624_81774,722442,32,3,"N.o 5. Pistolet d'arcon a silex: la platine gravee, garnitures ciselées le bois sculpte.",702,98.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81774,722443,33,4,N.o 6. Pistolet a rouet d'arcon. Tres riches garnitures en argent ciselées et N.o 14. Canon en bronze semblable au precedent.,703,75.8,False,positional,,,PISTOLETS,,
 BO0624_81774,722444,34,5,"N.o 15. Canon en bronze long et mince, monte sur affut; cette piece est richement ornee d'arabesques, d'armoiries:la tete d'un monstre en decore la bouche.PL.XXVIII.",780,99.4,False,positional,,,CANONS; MORTIERS; ESPINGARDS,,
-BO0624_81774,722445,35,8,d affut aux roues renforcees. Dans la culasse on lit le nom de lauteur: Emilio Alberghettifece.1682.,783,99.0,False,positional,,,CANONS; MORTIERS; ESPINGARDS,,
+BO0624_81774,722445,35,8,d affut aux roues renforcees. Dans la culasse on lit le nom de lauteur: Emilio Alberghettifece.1682.,783,99.0,False,positional,,,CANONS; MORTIERS; ESPINGARDS,,Sec. XVII
 BO0624_81774,722446,36,9,"N.o 24, 25, 26, 27. Canons en bronze de diverses dimensions, decores d'armoiries, d'arabesques, de cartouches et d'animaux.",784,99.1,False,positional,,,OGGETTI VARI,,

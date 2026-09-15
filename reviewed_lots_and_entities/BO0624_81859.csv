@@ -24,7 +24,7 @@ BO0624_81859,84369,22,18,"CIARDI GUGLIELMO, disegno a matita in cornice dorata."
 BO0624_81859,84370,23,19,"VINEA FRANCESCO, Rocce, dipinto su tela in cornice a sbalzo, 31 × 23.",41,97.7,False,positional,,,DIPINTI,,
 BO0624_81859,84371,24,20,"CASSIOLI AMOS, Idilio, dipinto su tela in cornice a sbalzo, 22X I4.",42,97.7,False,positional,,,DIPINTI,,
 BO0624_81859,84372,25,21,"VINEA FRANCESCO, Soubrette, dipinto su tela in cornice guilloche, 37 × 47. (Vedi Illustrazione Tav. XxVII).",43,68.4,False,positional,,,DIPINTI,,
-BO0624_81859,84373,26,22,"FATTORI GIOVANNI, I due amici, dipinto tondo in cornice dorata cm. 22 diametro, (Vedi Illustrazione Tav. IH).",45,67.5,False,positional,Fattori Giovanni,,DIPINTI,,
+BO0624_81859,84373,26,22,"FATTORI GIOVANNI, I due amici, dipinto tondo in cornice dorata cm. 22 diametro, (Vedi Illustrazione Tav. IH).",45,67.5,False,positional,FATTORI GIOVANNI,,DIPINTI,,
 BO0624_81859,84374,27,23,"COROMALDI UMBERTO, Pescatore, dipinto in cornice do- rata, 93 x 88, (Vedi Illustrazione Tav. 1I1).",47,69.5,False,positional,,,DIPINTI,,
 BO0624_81859,84375,28,24,"CONCONI LUIGI, Testina contro luce, dipinto su tavoletta in cornice dorata, 20 x 25. JORIS PIO, Ritorno del gregge all'ouile, acquarello in cornice nera, 58 x 38. HOLLAENDER ALFONSO, Cantiere a Berlino, dipinto su tela in cornice dorata, 43 x 32.",51,51.9,False,positional,,,DIPINTI,,
 BO0624_81859,84376,29,27,"GIGNOUS EUGENIO, Foresta, dipinto su tela in cornice do-",52,97.2,False,positional,,,DIPINTI,,
@@ -54,7 +54,7 @@ BO0624_81859,84399,52,15,"tela in cornice dorata, 67 x 49, (Vedi Illustrazione T
 BO0624_81859,84400,53,50,"TOMMASI LODOVICO, Campagna con cane sdraiato, dipinto su",82,97.3,False,positional,,,DIPINTI,,
 BO0624_81859,84401,54,51,"VINEA FRANCESCO, Profilo, dipinto su tela in cornice guil-",83,97.3,False,positional,,,DIPINTI,,
 BO0624_81859,84402,55,52,"ESTRATTON FRED, (Pittore Inglese), Bagnanti, dipinto all'acquarello in cornice, 37 x 28. loche, 58 x 71, (Vedi Illustrazione Tav. VI).",84,79.0,False,positional,,,DIPINTI,,
-BO0624_81859,84403,56,53,"HEIN F. (Olandese), (1837-1883), Natura morta, dipinto su tavola in cornice guilloché, 45 × 36. SORBI GIOVANNI, Uomo a cavallo, dipinto in cornice dorata",86,73.8,False,positional,,,DIPINTI,,
+BO0624_81859,84403,56,53,"HEIN F. (Olandese), (1837-1883), Natura morta, dipinto su tavola in cornice guilloché, 45 × 36. SORBI GIOVANNI, Uomo a cavallo, dipinto in cornice dorata",86,73.8,False,positional,,,DIPINTI,,Sec. XIX
 BO0624_81859,84404,57,54,"MICHELACCI, Campagna, dipinto in cornice dorata, 3o X 33.",88,97.2,False,positional,,,DIPINTI,,
 BO0624_81859,84405,58,23,0.17 x o.26 (qui c'e anche il pennello del padre Raffaello).,89,97.4,False,positional,,,DIPINTI,,
 BO0624_81859,84406,59,56,"SIGNORINI TELEMACO, Bimba di Rio Maggiore, dipinto su tavoletta in cornice, 8 x 12.",90,98.1,False,positional,,,DIPINTI,,
@@ -70,14 +70,14 @@ BO0624_81859,84415,68,62,"GIOLI FRANCESCO, L'ora che volge al desio.... dipinto 
 BO0624_81859,84416,69,5,"98 x 8o, (Vedi Illustrazione Tav. X).",100,97.0,False,positional,,,DIPINTI,,
 BO0624_81859,84417,70,64,"FEDERICO MICHELE, Mareggiata, dipinto su tela in cornice guilloché, 88 x 68.",101,83.7,False,positional,,,DIPINTI,,
 BO0624_81859,84418,71,65,"SORBI RAFFAELLO, Gendarme a riposo, dipinto su tavoletta in cornice e passe-partout, 1o x 8.",103,98.3,False,positional,,,DIPINTI,,
-BO0624_81859,84419,72,66,"FATTORI GIOVANNI, Grano maturo, tavoletta in cornice do-",104,97.2,False,positional,Fattori Giovanni,,DIPINTI,,
+BO0624_81859,84419,72,66,"FATTORI GIOVANNI, Grano maturo, tavoletta in cornice do-",104,97.2,False,positional,FATTORI GIOVANNI,,DIPINTI,,
 BO0624_81859,84420,73,10,"rata e custodia, 40 x27, autenticato da G. Malesci.",105,96.9,False,positional,,,DIPINTI,,
 BO0624_81859,84421,74,11,"cornice dorata e custodia mogano, 21 x 25.",106,96.4,False,positional,,,DIPINTI,,
 BO0624_81859,84422,75,67,"SIGNORINI TELEMACO, Rio Maggiore, dipinto su tela in",107,97.1,False,positional,,,DIPINTI,,
 BO0624_81859,84423,76,13,98 x 59.,108,82.4,False,positional,,,DIPINTI,,
 BO0624_81859,84424,77,69,"MANNUCCI CIPRIANO, Mascherata a S. Marco, dipinto su tela in cornice dorata, 66 x 94.",109,98.2,False,positional,,,DIPINTI,,
 BO0624_81859,84425,78,15,"in cornice dorata, 37 x 25.",110,94.3,False,positional,,,DIPINTI,,
-BO0624_81859,84426,79,16,"VINEA FRANCESCO, Gentiluomo in costume del Sec. XVII, disegno su tela in cornice guilloché, 49 x 37.",111,98.4,False,positional,,,DIPINTI,,
+BO0624_81859,84426,79,16,"VINEA FRANCESCO, Gentiluomo in costume del Sec. XVII, disegno su tela in cornice guilloché, 49 x 37.",111,98.4,False,positional,,,DIPINTI,,Sec. XVII
 BO0624_81859,84427,80,17,"tela in cornice dorata, 67 x 50.",112,95.2,False,positional,,,DIPINTI,,
 BO0624_81859,84428,81,18,71.,113,57.1,False,positional,,,DIPINTI,,
 BO0624_81859,84429,82,72,"CAMPRIANI ALCESTE, Lunga le mura di Lucca, dipinto su",114,97.1,False,positional,,,DIPINTI,,
@@ -86,10 +86,10 @@ BO0624_81859,84431,84,75,"MANNUCCI CIPRIANO, Ponte di Rialto, dipinto su cartone
 BO0624_81859,84432,85,22,a or 26 x 22.,117,88.9,False,positional,,,DIPINTI,,
 BO0624_81859,84433,86,23,"in cornice dorata, 28 x 37.",118,94.3,False,positional,,,DIPINTI,,
 BO0624_81859,84434,87,24,"su tela in cornice a sbalzo, 82 x 6o.",119,95.9,False,positional,,,DIPINTI,,
-BO0624_81859,84435,88,76,"IGNOTO del XIX Secolo, Interno del Duomo di Siena, dipinto",120,97.4,False,positional,,Scuola Senese,DIPINTI,,
-BO0624_81859,84436,89,77,"PELLICCIOTTI, I tacchini, dipinto in cornice guilloché, 22 X 15. Biennale Veneziana del 1922.",121,79.5,False,positional,,,DIPINTI,,
+BO0624_81859,84435,88,76,"IGNOTO del XIX Secolo, Interno del Duomo di Siena, dipinto",120,97.4,False,positional,,Scuola Senese,DIPINTI,,Sec. XIX
+BO0624_81859,84436,89,77,"PELLICCIOTTI, I tacchini, dipinto in cornice guilloché, 22 X 15. Biennale Veneziana del 1922.",121,79.5,False,positional,,,DIPINTI,,Sec. XX
 BO0624_81859,84437,90,78,"CHAINE T., Testina, acquaforte in cornice. Proviene dalla",123,97.2,False,positional,,,ACQUEFORTI,,
-BO0624_81859,84438,91,79,"CHAINE T., Paese, acquaforte in cornice, proveniente dalla Biennale di Venezia 1922.",124,98.1,False,positional,,,ACQUEFORTI,,
+BO0624_81859,84438,91,79,"CHAINE T., Paese, acquaforte in cornice, proveniente dalla Biennale di Venezia 1922.",124,98.1,False,positional,,,ACQUEFORTI,,Sec. XX
 BO0624_81859,84439,92,81,"MANNUCCI CIPRIANO, Ponte di Rialto, dipinto in cornice",125,97.2,False,positional,,,DIPINTI,,
 BO0624_81859,84440,93,31,"8o. VITTORINI UMBERTO, Pagliai, acquaforte montata al1' inglese.",126,97.5,False,positional,,,ACQUEFORTI,,
 BO0624_81859,84441,94,32,guilloche.,127,85.7,False,positional,,,DIPINTI,,
@@ -108,9 +108,9 @@ BO0624_81859,84453,106,92,"BANTI CRISTIANO, Suore di carita, dipinto su tavolett
 BO0624_81859,84454,107,91,"CIARDI BEPPE, La mucca, dipinto su tavoletta in cornice dorata, 38 x 30.",142,97.8,False,positional,,,DIPINTI,,
 BO0624_81859,84455,108,15,"cornice dorata, 11 x 18.",143,93.6,False,positional,,,DIPINTI,,
 BO0624_81859,84456,109,16,"cornice dorata, 32 x 19.",144,93.6,False,positional,,,DIPINTI,,
-BO0624_81859,84457,110,93,"FATTORI GIOVANNI, Vacche al pascolo, dipinto su tela in",145,97.2,False,positional,Fattori Giovanni,,DIPINTI,,
+BO0624_81859,84457,110,93,"FATTORI GIOVANNI, Vacche al pascolo, dipinto su tela in",145,97.2,False,positional,FATTORI GIOVANNI,,DIPINTI,,
 BO0624_81859,84458,111,94,"D'ANCONA VITO, Ciociara, dipinto su cartone in cornice nera, 20 x 15. BAZZARO LEONARDO, Primavera al Mottarone, dipinto su",146,70.7,False,positional,DA VINCI LEONARDO,,DIPINTI,,
-BO0624_81859,84459,112,95,"FATTORI GIOVANNI, Lavori campestri, acquerello in cornice dorata, 24 x 34.",148,97.9,False,positional,Fattori Giovanni,,DIPINTI,,
+BO0624_81859,84459,112,95,"FATTORI GIOVANNI, Lavori campestri, acquerello in cornice dorata, 24 x 34.",148,97.9,False,positional,FATTORI GIOVANNI,,DIPINTI,,
 BO0624_81859,84460,113,21,"tela in cornice scolpita e dorata, 9o x 58.",149,96.5,False,positional,,,DIPINTI,,
 BO0624_81859,84461,114,97,"HOLLAENDER ALFONSO, Messa cantata, dipinto su tela in cornice dorata.",150,97.8,False,positional,,,DIPINTI,,
 BO0624_81859,84462,115,98,"VINEA FRANCESCO, Figura di donna, dipinto ovale su tela",151,97.2,False,positional,,,DIPINTI,,
@@ -125,8 +125,8 @@ BO0624_81859,84470,123,103,"BERSANI STEFANO, Bimbi nel prato, dipinto in cornice
 BO0624_81859,84471,124,104,"MOORMANS F. (Pittore di Anversa), Nozze d'oro, dipinto su tela in cornice dorata e scolpita, 9o x 7o, (Vedi Illustrazione Tav. XIII).",160,94.6,False,positional,,,DIPINTI,,
 BO0624_81859,84472,125,105,"RIPARI VIRGILIO, Alla Fonte, dipinto su tela in cornice dorata, 93 x 65, (Vedi Illustrazione Tav. XIV).",162,97.9,False,positional,,,DIPINTI,,
 BO0624_81859,84473,126,106,"COSTA GIOVANNI, Capri, dipinto su tela in cornice, 64 X 22. (Vedi Illustrazione Tav. XV).",163,78.6,False,positional,,,DIPINTI,,
-BO0624_81859,84474,127,107,"CAILLEBOTTE GUSTAVO, Scuola 1 Francese (1848-1894), Paesaggio lungo il mare, dipinto su tela in cornice dorata, 0,53 X o,64, (Vedi Illustrazione Tav. XVI).",165,83.0,False,positional,,,DIPINTI,,
-BO0624_81859,84475,128,108,"FATTORI GIOVANNI, Cavalleggeri, dipinto su tavoletta in cornice dorata, 17 x 31, (Vedi Illustrazione Tav. I).",167,98.1,False,positional,Fattori Giovanni,,DIPINTI,,
+BO0624_81859,84474,127,107,"CAILLEBOTTE GUSTAVO, Scuola 1 Francese (1848-1894), Paesaggio lungo il mare, dipinto su tela in cornice dorata, 0,53 X o,64, (Vedi Illustrazione Tav. XVI).",165,83.0,False,positional,,,DIPINTI,,Sec. XIX
+BO0624_81859,84475,128,108,"FATTORI GIOVANNI, Cavalleggeri, dipinto su tavoletta in cornice dorata, 17 x 31, (Vedi Illustrazione Tav. I).",167,98.1,False,positional,FATTORI GIOVANNI,,DIPINTI,,
 BO0624_81859,84476,129,109,"CIARDI BEPPE, Laguna al tramonto, dipinto su tela in cor- nice dorata, 98 x 78, (Vedi Illustrazione Tav. XVII).",168,67.5,False,positional,,,DIPINTI,,
 BO0624_81859,84477,130,110,"TOMMASI ADOLFO, La Capraia, dipinto su tela in cornice",170,96.3,False,positional,,,DIPINTI,,
 BO0624_81859,84478,131,III,"CIARDI BEPPE, Nubi, dipinto su tela in cornice scolpita e dorata, 5o x 39.",171,97.2,False,positional,,,DIPINTI,,
@@ -148,13 +148,13 @@ BO0624_81859,84493,146,29,nice dorata.,188,88.0,False,positional,,,DIPINTI,,
 BO0624_81859,84494,147,124,"MICHETTI F. PAOLO, Spiaggia, pastello in passe-partout e",189,96.4,False,positional,,,DIPINTI,,
 BO0624_81859,84495,148,123,"MANNUCCI CIPRIANO, Fontana dell'Oceano al Giardino Boboli, dipinto su tavola in cornice dorata 47 × 56.",190,98.0,False,positional,,,DIPINTI,,
 BO0624_81859,84496,149,32,"cornice bianca, 33 x 23.",191,93.6,False,positional,,,DIPINTI,,
-BO0624_81859,84497,150,125,"GHIGLIA OSCAR, Studio di testa d''uomo, dipinto su cartone in cornice. cornice dorata, 1212 x 21.",192,82.0,False,positional,,,DIPINTI,,
-BO0624_81859,84498,151,126,"FATTORI GIOVANNI, Cavalleggero, dipinto su tavoletta in",194,96.4,False,positional,Fattori Giovanni,,DIPINTI,,
+BO0624_81859,84497,150,125,"GHIGLIA OSCAR, Studio di testa d''uomo, dipinto su cartone in cornice. cornice dorata, 1212 x 21.",192,82.0,False,positional,,,DIPINTI,,Sec. XIII
+BO0624_81859,84498,151,126,"FATTORI GIOVANNI, Cavalleggero, dipinto su tavoletta in",194,96.4,False,positional,FATTORI GIOVANNI,,DIPINTI,,
 BO0624_81859,84499,152,127,"CONTI TITO, Bosco, dipinto su cartone in cornice dorata, 32 x 50.",195,96.8,False,positional,,,DIPINTI,,
 BO0624_81859,84500,153,128,"HOLLAENDER ALFONSO, Arabi, bozzetto su tavoletta in cornice dorata, 11 x 8.",196,97.3,False,positional,,,DIPINTI,,
 BO0624_81859,84501,154,129,"HOLLAENDER ALFONSO, Loro Ciuffenna, dipinto su tavoletta in cornice dorata, 37 x 24. TOMMASI LODOVICO, Nonno con la carriola, dipinto su tela in cornice guilloche, 6o x 1oo, (Vedi Illustrazione Tav. XIX). IROLLI VINCENZO, Odalisca, dipinto su tela in cornice guilloché, 74 × 38.",198,60.3,False,positional,,,DIPINTI,,
 BO0624_81859,84502,155,132,"LLOYD L., Paranze al sole, dipinto su tavoletta in cornice nera.",200,96.8,False,positional,,,DIPINTI,,
-BO0624_81859,84503,156,133,"GHIGLIA OSCAR, Studio di testa, dipinto in cornice dorata. JON EDMOND, Scuola Francese (1836-1837), Paesaggio, dipinto",202,65.5,False,positional,,,DIPINTI,,
+BO0624_81859,84503,156,133,"GHIGLIA OSCAR, Studio di testa, dipinto in cornice dorata. JON EDMOND, Scuola Francese (1836-1837), Paesaggio, dipinto",202,65.5,False,positional,,,DIPINTI,,Sec. XIX
 BO0624_81859,84504,157,134,"MICHETTI F. PAOLO, Effetto al tramonto, pastello in cornice bianca e passe-partourt, 35 x 26.",203,97.8,False,positional,,,DIPINTI,,
 BO0624_81859,84505,158,13,"su tela in cornice, 0,32 x o,5o, (Vedi Illustrazione Tav. XXV).",204,97.4,False,positional,,,DIPINTI,,
 BO0624_81859,84506,159,137,"MANNUCCI CIPRIANO, Seduzione, dipinto su tavola in cornice dorata, 59 x 36. CANNICCI NICOLO', Riposo, dipinto su tavoletta in cornice dorata,17 x 28.",206,67.3,False,positional,,,DIPINTI,,
@@ -162,15 +162,15 @@ BO0624_81859,84507,160,138,"MANNUCCI CIPRIANO, Mascherata Veneziana, dipinto su"
 BO0624_81859,84508,161,17,"tela in cornice dorata, 9o·x 6o.",208,95.2,False,positional,,,DIPINTI,,
 BO0624_81859,84509,162,18,"letta in cornice guilloche, 34 x 21.",209,95.8,False,positional,,,DIPINTI,,
 BO0624_81859,84510,163,139,"MUZIOLI GIOVANNI, Scena Pompeiana, dipinto su tavo-",210,96.0,False,positional,MUZIOLI,,DIPINTI,,
-BO0624_81859,84511,164,140,"CAIN GEORGES, Scuola Francese (1856..... ....),L'amatore di stampe, dipinto su tela in cornice dorata, o.63 × o,37, (Vedi Illustrazione Tav. XX).",211,98.4,False,positional,,,STAMPE E INCISIONI,,
-BO0624_81859,84512,165,141,"FATTORI GIOVANNI, Battaglia, dipinto su tela in cornice guilloché, 87 x 122, (Vedi Illustrazione Tav. XXI).",212,67.9,False,positional,Fattori Giovanni,,DIPINTI,,
+BO0624_81859,84511,164,140,"CAIN GEORGES, Scuola Francese (1856..... ....),L'amatore di stampe, dipinto su tela in cornice dorata, o.63 × o,37, (Vedi Illustrazione Tav. XX).",211,98.4,False,positional,,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_81859,84512,165,141,"FATTORI GIOVANNI, Battaglia, dipinto su tela in cornice guilloché, 87 x 122, (Vedi Illustrazione Tav. XXI).",212,67.9,False,positional,FATTORI GIOVANNI,,DIPINTI,,
 BO0624_81859,84513,166,142,"CREMONA TRANQUILLO, Ritratto di giovine donna, dipinto su tela in cornice dorata, 52 × 43, (Vedi Illustrazione Tavola XXII). CAPRILE VINCENZO, Testa di donna, dipinto in cornice",214,80.7,False,positional,,,DIPINTI,,
 BO0624_81859,84514,167,143,"CREMONA TRANQUILLO, Ritratto di donna, dipinto su tela in cornice dorata, 52 x 43, (Vedi Illustrazione Tav. XXII).",216,98.1,False,positional,,,DIPINTI,,
 BO0624_81859,84515,168,26,"dorata, 65 x 47, (Vedi Illustrazione Tav. XXIII).",217,96.6,False,positional,,,DIPINTI,,
-BO0624_81859,84516,169,145,"FATTORI GIOVANNI, Buoi all abbeueraggio, dipinto su tela",218,96.4,False,positional,Fattori Giovanni,,DIPINTI,,
-BO0624_81859,84517,170,146,"GUILLEMENT ANTONIO, Scuola Francese (1842....), Ca(Vedi Illustrazione Tav. XXV). in cornice dorata. Esposto a Firenze nel 1878, 98 × 45, (Vedi Illustrazione Tav.XXIV).",220,69.3,False,positional,,,DIPINTI,,
+BO0624_81859,84516,169,145,"FATTORI GIOVANNI, Buoi all abbeueraggio, dipinto su tela",218,96.4,False,positional,FATTORI GIOVANNI,,DIPINTI,,
+BO0624_81859,84517,170,146,"GUILLEMENT ANTONIO, Scuola Francese (1842....), Ca(Vedi Illustrazione Tav. XXV). in cornice dorata. Esposto a Firenze nel 1878, 98 × 45, (Vedi Illustrazione Tav.XXIV).",220,69.3,False,positional,,,DIPINTI,,Sec. XIX
 BO0624_81859,84518,171,147,"LONGONI EMILIO, Lago Bianco al Bernina, dipinto su tela",221,96.4,False,positional,,,DIPINTI,,
-BO0624_81859,84519,172,148,"FATTORI GIOVANNI, Tombolo in Toscana, tavoletta in",222,96.0,False,positional,Fattori Giovanni,,DIPINTI,,
+BO0624_81859,84519,172,148,"FATTORI GIOVANNI, Tombolo in Toscana, tavoletta in",222,96.0,False,positional,FATTORI GIOVANNI,,DIPINTI,,
 BO0624_81859,84520,173,6,"in cornice dorata, 103 x66, (Vedi Illustrazione Tav. XXVI).",223,98.1,False,positional,,,DIPINTI,,
 BO0624_81859,84521,174,7,"cornice nera, 23 x 12.",224,95.2,False,positional,,,DIPINTI,,
 BO0624_81859,84522,175,8,"e passepartout, 31 x 21.",225,95.7,False,positional,,,DIPINTI,,
@@ -179,7 +179,7 @@ BO0624_81859,84524,177,150,"MANNUCCI CIPRIANO, La Salute a Venezia al tramonto, 
 BO0624_81859,84525,178,151,"MANNUCCI CIPRIANO, Sulla spiaggia, dipinto su tavola in",229,96.4,False,positional,,,DIPINTI,,
 BO0624_81859,84526,179,152,"JORIS PIO, Donna Romana, dipinto in cornice, 39 x 73.",230,96.1,False,positional,,,DIPINTI,,
 BO0624_81859,84527,180,153,"NOMELLINI PLINIO, Testa di Vecchio, dipinto in cornice.",231,96.3,False,positional,,,DIPINTI,,
-BO0624_81859,84528,181,155,"LETO ANTONIO, Piazza della Signoria a Fivenze, dipinto",232,96.3,False,positional,,,DIPINTI,,
+BO0624_81859,84528,181,155,"LETO ANTONIO, Piazza della Signoria a Fivenze, dipinto",232,96.3,False,positional,PIAZZETTA JEAN-BAPTISTE,,DIPINTI,,
 BO0624_81859,84529,182,156,"LETO ANTONIO, Contadina al campo, dipinto su tavoletta in cornice guilloché, 19 x 11. su tavoletta in cornice guilloché, 18 x 11.",233,77.9,False,positional,,,DIPINTI,,
 BO0624_81859,84530,183,157,"MANNUCCI CIPRIANO, Fauno e Ninfe, dipinto su tela in cornice dorata, 48 x 63. ZAGOSKIN SERGIO, Paesaggio, dipinto su tavoletta in",235,73.0,False,positional,,,DIPINTI,,
 BO0624_81859,84531,184,158,"MITI ZANETTI GIUSEPPE, Venezia a notte, dipinto in cornice dorata, 21 x 33.",237,97.3,False,positional,,,DIPINTI,,
@@ -227,58 +227,58 @@ BO0624_81859,84572,225,206,"PUCCINI MARIO, Vecchia Darsena, acquaforte in cornic
 BO0624_81859,84573,226,207,"MANNUCCI CIPRIANO, Laghetto dei giardini a Milano, di- pinto su cartone in cornice dorata, 54 x 45.",294,68.5,False,positional,,,DIPINTI,,
 BO0624_81859,84574,227,208,"LUTERI GIOVANNI detto Dossi Dosso, Scuola Ferrarese Sec. XV-XVI. Fauno, dipinto in cornice, 2o x 6oo. pinto su tavola in cornice dorata con Monogramma 25 × 35.",297,76.3,False,positional,,Scuola Ferrarese,DIPINTI,,
 BO0624_81859,84575,228,209,"A.I.S. SCUOLA FIAMMINGA Sec. XVIHI, Festa Famigliare, di-",299,96.3,False,positional,,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84576,229,210,"JACOPO DA PONTE detto il Bassano, Sec. XVI, Soggetto campestre, bozzetto dipinto su tela in cornice guilloché, 47 × 35 (Vedi Illustrazione Tav. XXXIV). tela in cornice guilloché 93 × 5o (Vedi Illustr. Tav. XXXIV).",300,82.6,False,positional,BASSANO GIACOMO,,DIPINTI,,
-BO0624_81859,84577,230,211,"SCUOLA FIAMMINGA, Sec. XVII, Natura morta, dipinto su",302,96.1,False,positional,,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84578,231,212,"MONCHERON ISAAH, Scuola olandese Sec. XVII, Paesaggio",303,96.2,False,positional,,,DIPINTI,,
-BO0624_81859,84579,232,8,"213 RUYSDAEL GIACOMO, Scuola Olandese Sec. XVII, Paesaggio, dipinto su tavola in cornice nera 53 x 41 (Vedi Illustrazione Tav. XXXV).",304,99.2,False,positional,RUYSDAEL JACQUES,,DIPINTI,,
+BO0624_81859,84576,229,210,"JACOPO DA PONTE detto il Bassano, Sec. XVI, Soggetto campestre, bozzetto dipinto su tela in cornice guilloché, 47 × 35 (Vedi Illustrazione Tav. XXXIV). tela in cornice guilloché 93 × 5o (Vedi Illustr. Tav. XXXIV).",300,82.6,False,positional,BASSANO GIACOMO,,DIPINTI,,Sec. XVI
+BO0624_81859,84577,230,211,"SCUOLA FIAMMINGA, Sec. XVII, Natura morta, dipinto su",302,96.1,False,positional,,Scuola Fiamminga,DIPINTI,,Sec. XVII
+BO0624_81859,84578,231,212,"MONCHERON ISAAH, Scuola olandese Sec. XVII, Paesaggio",303,96.2,False,positional,,,DIPINTI,,Sec. XVII
+BO0624_81859,84579,232,8,"213 RUYSDAEL GIACOMO, Scuola Olandese Sec. XVII, Paesaggio, dipinto su tavola in cornice nera 53 x 41 (Vedi Illustrazione Tav. XXXV).",304,99.2,False,positional,RUYSDAEL JACQUES,,DIPINTI,,Sec. XVII
 BO0624_81859,84580,233,9,"con figure, dipinto su tela in cornice dorata, 39 × 49.",305,98.0,False,positional,,,DIPINTI,,
-BO0624_81859,84581,234,214,"VAN ABSHOVEN FERDINAND, Scuola Fiamminga (16301694), Accampamento, dipinto su tela in cornice dorata 57 x 84 (Vedi Illustrazione Tav. XXXVI). ROMBOUTS GILLES, Scuola Olandese Sec. XVII, Paesaggio,",306,82.8,False,positional,,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84582,235,215,"HALS FRANZ (Scuola di) Sec. XVII, Ritratto di Gentiluomo, dipinto su tela in cornice guilloche 12o x 100.",308,98.0,False,positional,HALS FRANS,,DIPINTI,,
+BO0624_81859,84581,234,214,"VAN ABSHOVEN FERDINAND, Scuola Fiamminga (16301694), Accampamento, dipinto su tela in cornice dorata 57 x 84 (Vedi Illustrazione Tav. XXXVI). ROMBOUTS GILLES, Scuola Olandese Sec. XVII, Paesaggio,",306,82.8,False,positional,,Scuola Fiamminga,DIPINTI,,Sec. XVII
+BO0624_81859,84582,235,215,"HALS FRANZ (Scuola di) Sec. XVII, Ritratto di Gentiluomo, dipinto su tela in cornice guilloche 12o x 100.",308,98.0,False,positional,HALS FRANS,,DIPINTI,,Sec. XVII
 BO0624_81859,84583,236,13,dipinto su tela in cornice dorata 14o x 16o (Vedi Illustrazione Tav. XXXVII).,309,98.0,False,positional,,,DIPINTI,,
 BO0624_81859,84584,237,14,cornice dorata 145 × 130.,310,93.6,False,positional,,,DIPINTI,,
-BO0624_81859,84585,238,218,"JORDAENS JACQUES, Scuola Fiamminga (1593-1678), La fuga in Egitto, dipinto su tela in ricca cornice scolpita dell'e- poca 162 x 129 (Vedi Illustrazione Tav. XXXVIII).",311,81.5,False,positional,JORDAENS JACQUES,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84586,239,219,"PORBUS FRANCOIS, Scuola Fiamminga XVI Secolo, Ria (Vedi Illustrazione Tav. XLVI).",313,97.4,False,positional,,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84587,240,220,"NATHIER G. B., Sec. XVIII, Dama, dipinto su tela in cornice dorata 32 x 25. MAGNASCO ALESSANDRO detto il Lissandrino, Scuola Italiana (16g1-1747), Cristo consegna le chiavi del Paradiso a S. Pietro, dipinto su tela in cornice dorata 10o x 75 (Vedi",315,83.3,False,positional,,,DIPINTI,,
-BO0624_81859,84588,241,221,"SOLIMENE FRANCESCO detto lAbate Ciccio, Sec. XVII (Scuola),Apoteosi di un Santo e gloria d'Angeli, dipinto su tela in cornice dorata 12o x 95.",316,98.6,False,positional,,,DIPINTI,,
+BO0624_81859,84585,238,218,"JORDAENS JACQUES, Scuola Fiamminga (1593-1678), La fuga in Egitto, dipinto su tela in ricca cornice scolpita dell'e- poca 162 x 129 (Vedi Illustrazione Tav. XXXVIII).",311,81.5,False,positional,JORDAENS JACQUES,Scuola Fiamminga,DIPINTI,,Sec. XVII
+BO0624_81859,84586,239,219,"PORBUS FRANCOIS, Scuola Fiamminga XVI Secolo, Ria (Vedi Illustrazione Tav. XLVI).",313,97.4,False,positional,,Scuola Fiamminga,DIPINTI,,Sec. XVI
+BO0624_81859,84587,240,220,"NATHIER G. B., Sec. XVIII, Dama, dipinto su tela in cornice dorata 32 x 25. MAGNASCO ALESSANDRO detto il Lissandrino, Scuola Italiana (16g1-1747), Cristo consegna le chiavi del Paradiso a S. Pietro, dipinto su tela in cornice dorata 10o x 75 (Vedi",315,83.3,False,positional,,,DIPINTI,,Sec. XVIII
+BO0624_81859,84588,241,221,"SOLIMENE FRANCESCO detto lAbate Ciccio, Sec. XVII (Scuola),Apoteosi di un Santo e gloria d'Angeli, dipinto su tela in cornice dorata 12o x 95.",316,98.6,False,positional,,,DIPINTI,,Sec. XVII
 BO0624_81859,84589,242,21,Illustr. Tav. XXXIX).,317,91.9,False,positional,,,DIPINTI,,
-BO0624_81859,84590,243,223,"MAGNASCO ALESSANDRO (1691-1747), Maschere, dipinto su tela in cornice policromata 56 x 44 (Vedi Illustr. Tav. XL).",319,71.5,False,positional,,,DIPINTI,,
-BO0624_81859,84591,244,224,"MAGNASCO ALESSANDRO (1691-1747), Maschere, dipinto su tela in cornice dorata 56 x44. Pendent del precedente. (Vedi Illustrazione Tav. XL).",321,78.7,False,positional,,,DIPINTI,,
-BO0624_81859,84592,245,225,"BRIL PAOLO (1556-1626), Scuola Fiamminga, Paesaggi, due dipinti su rame 35 x 25.",322,97.4,False,positional,BRIL PAUL,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84593,246,226,"BREUGHEL PIERRE II, Scuola Fiamminga ( (1564-1637), Colazione campestre, dipinto su tavola in cornice dorata 48 x 63 (Vedi Illustrazione Tav. XLI).",323,98.6,False,positional,BRUEGEL,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84594,247,227,"GRIFFER JEAN, Scuola Olandese (1645-1718), Paesaggio lungo il Reno, dipinto su rame in cornice 39 x 49 (Vedi Illustrazione Tav. XLII).",324,98.4,False,positional,,,DIPINTI,,
-BO0624_81859,84595,248,228,"VAN DYCK ANTONIO (1599-1641), Scuola Fiamminga, Spo- salizio di S. Caterina, dipinto su tela in cornice dorata 126 x 118 (Vedi Illustrazione Tav. XLHII).",326,80.7,False,positional,VAN DYCK ANTON,Scuola di van Dyck,DIPINTI,,
-BO0624_81859,84596,249,229,"ARAZZO FIAMMINGO del sec. XVII, La Scala di Giacobbe, alto m. 2,85 largo m. 2,1o (Vedi Illustrazione Tav. XLIV).",328,67.1,False,positional,,,DIPINTI,,
-BO0624_81859,84597,250,230,"PANNINI GIO. PAOLO (16g1-1764), Ruderi Romani con macchiette, dipinto su tela 75 x 130.",329,97.6,False,positional,,,DIPINTI,,
+BO0624_81859,84590,243,223,"MAGNASCO ALESSANDRO (1691-1747), Maschere, dipinto su tela in cornice policromata 56 x 44 (Vedi Illustr. Tav. XL).",319,71.5,False,positional,,,DIPINTI,,Sec. XVIII
+BO0624_81859,84591,244,224,"MAGNASCO ALESSANDRO (1691-1747), Maschere, dipinto su tela in cornice dorata 56 x44. Pendent del precedente. (Vedi Illustrazione Tav. XL).",321,78.7,False,positional,,,DIPINTI,,Sec. XVIII
+BO0624_81859,84592,245,225,"BRIL PAOLO (1556-1626), Scuola Fiamminga, Paesaggi, due dipinti su rame 35 x 25.",322,97.4,False,positional,BRIL PAUL,Scuola Fiamminga,DIPINTI,,Sec. XVI
+BO0624_81859,84593,246,226,"BREUGHEL PIERRE II, Scuola Fiamminga ( (1564-1637), Colazione campestre, dipinto su tavola in cornice dorata 48 x 63 (Vedi Illustrazione Tav. XLI).",323,98.6,False,positional,BRUEGEL,Scuola Fiamminga,DIPINTI,,Sec. XVI
+BO0624_81859,84594,247,227,"GRIFFER JEAN, Scuola Olandese (1645-1718), Paesaggio lungo il Reno, dipinto su rame in cornice 39 x 49 (Vedi Illustrazione Tav. XLII).",324,98.4,False,positional,,,DIPINTI,,Sec. XVII
+BO0624_81859,84595,248,228,"VAN DYCK ANTONIO (1599-1641), Scuola Fiamminga, Spo- salizio di S. Caterina, dipinto su tela in cornice dorata 126 x 118 (Vedi Illustrazione Tav. XLHII).",326,80.7,False,positional,VAN DYCK ANTON,Scuola di van Dyck,DIPINTI,,Sec. XVII
+BO0624_81859,84596,249,229,"ARAZZO FIAMMINGO del sec. XVII, La Scala di Giacobbe, alto m. 2,85 largo m. 2,1o (Vedi Illustrazione Tav. XLIV).",328,67.1,False,positional,,,DIPINTI,,Sec. XVII
+BO0624_81859,84597,250,230,"PANNINI GIO. PAOLO (16g1-1764), Ruderi Romani con macchiette, dipinto su tela 75 x 130.",329,97.6,False,positional,,,DIPINTI,,Sec. XVIII
 BO0624_81859,84598,251,231,"LIPPI FILIPPINO (Maniera di-), Scuola Italiana, I Re Magi, dipinto su tavola di forma rotonda in ricchissima cornice antica scolpita, diametro m. o.81.",330,85.9,False,positional,,Scuola di Filippino Lippi,DIPINTI,,
-BO0624_81859,84599,252,232,"SCUOLA FIAMMINGA XVI Secolo, Salita al Caluario, dipinto su tavola in cornice 64 x 5o. (Vedi Illustrazione Tav. XLV).",332,98.2,False,positional,,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84600,253,233,"VESTIER ANTOINE, Scuola Francese (1740-1824), Ritratto",333,96.2,False,positional,,,DIPINTI,,
+BO0624_81859,84599,252,232,"SCUOLA FIAMMINGA XVI Secolo, Salita al Caluario, dipinto su tavola in cornice 64 x 5o. (Vedi Illustrazione Tav. XLV).",332,98.2,False,positional,,Scuola Fiamminga,DIPINTI,,Sec. XVI
+BO0624_81859,84600,253,233,"VESTIER ANTOINE, Scuola Francese (1740-1824), Ritratto",333,96.2,False,positional,,,DIPINTI,,Sec. XVIII
 BO0624_81859,84601,254,17,"di donna, dipinto su tela ovale in cornice 6o x 5o (Vedi Illustrazione Tav. XLVI).",334,98.1,False,positional,,,DIPINTI,,
 BO0624_81859,84602,255,18,(Vedi Illustrazione Tav. XLVIH).,335,94.9,False,positional,,,DIPINTI,,
-BO0624_81859,84603,256,234,"BRIL PAOLO, Scuola Fiamminga ( (1556-1626), S. Gerolamo in adorazione, dipinto su tela in cornice dorata 13o x 91",336,98.1,False,positional,BRIL PAUL,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84604,257,235,"POZZI G. BATTISTA, Sec. XVI, L'adorazione dei Pastori, pala d'altare dipinta su tela in cornice dorata 1,2o × 2,50, firmato con monogramma e datato 1585. (Vedi Illustrazio-",337,98.8,False,positional,,,DIPINTI,,
-BO0624_81859,84605,258,236,"BALTEN PIERRE, Scuola Fiamminga (1525-1598), Allegoria, dipinto su tavola in cornice di tartaruga alto o.34 lungo 0.59",338,98.3,False,positional,,Scuola Fiamminga,DIPINTI,,
+BO0624_81859,84603,256,234,"BRIL PAOLO, Scuola Fiamminga ( (1556-1626), S. Gerolamo in adorazione, dipinto su tela in cornice dorata 13o x 91",336,98.1,False,positional,BRIL PAUL,Scuola Fiamminga,DIPINTI,,Sec. XVI
+BO0624_81859,84604,257,235,"POZZI G. BATTISTA, Sec. XVI, L'adorazione dei Pastori, pala d'altare dipinta su tela in cornice dorata 1,2o × 2,50, firmato con monogramma e datato 1585. (Vedi Illustrazio-",337,98.8,False,positional,,,DIPINTI,,Sec. XVI
+BO0624_81859,84605,258,236,"BALTEN PIERRE, Scuola Fiamminga (1525-1598), Allegoria, dipinto su tavola in cornice di tartaruga alto o.34 lungo 0.59",338,98.3,False,positional,,Scuola Fiamminga,DIPINTI,,Sec. XVI
 BO0624_81859,84606,259,22,ne Tav. XLVIII).,339,89.7,False,positional,,,DIPINTI,,
 BO0624_81859,84607,260,23,(Vedi Illustrazione Tav. XLIX).,340,94.7,False,positional,,,DIPINTI,,
-BO0624_81859,84608,261,237,"VANNUCCHI ANDREA detto Del Sarto (1488-153o), Madonna col Bambino e S. Giovannino, tavola in cornice dorata",341,98.1,False,positional,DEL SARTO ANDREA,,DIPINTI,,
-BO0624_81859,84609,262,238,"CRESPI GIOVANNI BATTISTA detto il Cerano (1557-1633), llustrazione Tav. LI).",342,80.6,False,positional,CRESPI DANIELE,,DIPINTI,,
-BO0624_81859,84610,263,239,"SCUOLA FRANCESE Sec. XVII, Architettura con figure, di-",346,96.2,False,positional,,,DIPINTI,,
-BO0624_81859,84611,264,240,"SCUOLA FRANCESE, Sec. XVII, Architettura con macchiette, dipinto su tela in cornice dorata 48 x 66. Pendent del precedente. (Vedi Illustrazione Tav. LIH). ROOS FILIPPO detto Rosa da Tivoli (1655-1705), Armenti, dipinto su tela con cornice nera 214 x 144. Pendent del precedente. ROOS FILIPPO detto Rosa da Tivoli (1655-1705), Armenti, dipinto su tela in cornice nera 214 × 144.",347,57.4,False,positional,ROOS PHILIPP PETER,,DIPINTI,,
-BO0624_81859,84612,265,243,"PONGA GIUSEPPE (maniera di F. Guardi), Chiesa della Salute a Venezia, dipinto su tela in cornice dorata. TERBURG GERARD, Scuola Olandese Sec. XVII, Lezione di musica, dipinto su rame in cornice a sbalzo alto 4o × 31 (Vedi Illustrazione Tav. LV). MURILLO BARTHELEMY ESTEBAN, Scuola S Spagnuola (1618-1682), Madre e Figli, dipinto su tela in cornice dorata e scolpita 141 x 117 (Vedi Illustrazione Tav. LIV).",352,57.1,False,positional,GUARDI FRANCESCO,Scuola di Murillo,DIPINTI,,
-BO0624_81859,84613,266,246,"PILLEMENT JEAN di Lyon, Sec. XVIII, Verso la sommita del monte, dipinto su tela in cornice dorata 1o1 x 74 (Vedi Illustrazione Tav. LVI). SCUOLA FRANCESE Sec. XVII, Architettura con figure, dipinto su tela in cornice dorata 48 x 66. Pendent del precedente. (Vedi Illustrazione Tav. LIII).",354,68.8,False,positional,,,DIPINTI,,
-BO0624_81859,84614,267,247,"SCUOLA FRANCESE Sec. XVII, Architettura con figure, dipinto su tela in cornice dorata 48 x 66 (Vedi Illustrazione Tav. LIII).",355,98.3,False,positional,,,DIPINTI,,
+BO0624_81859,84608,261,237,"VANNUCCHI ANDREA detto Del Sarto (1488-153o), Madonna col Bambino e S. Giovannino, tavola in cornice dorata",341,98.1,False,positional,DEL SARTO ANDREA,,DIPINTI,,Sec. XV
+BO0624_81859,84609,262,238,"CRESPI GIOVANNI BATTISTA detto il Cerano (1557-1633), llustrazione Tav. LI).",342,80.6,False,positional,CRESPI DANIELE,,DIPINTI,,Sec. XVI
+BO0624_81859,84610,263,239,"SCUOLA FRANCESE Sec. XVII, Architettura con figure, di-",346,96.2,False,positional,,,DIPINTI,,Sec. XVII
+BO0624_81859,84611,264,240,"SCUOLA FRANCESE, Sec. XVII, Architettura con macchiette, dipinto su tela in cornice dorata 48 x 66. Pendent del precedente. (Vedi Illustrazione Tav. LIH). ROOS FILIPPO detto Rosa da Tivoli (1655-1705), Armenti, dipinto su tela con cornice nera 214 x 144. Pendent del precedente. ROOS FILIPPO detto Rosa da Tivoli (1655-1705), Armenti, dipinto su tela in cornice nera 214 × 144.",347,57.4,False,positional,ROOS PHILIPP PETER,,DIPINTI,,Sec. XVII
+BO0624_81859,84612,265,243,"PONGA GIUSEPPE (maniera di F. Guardi), Chiesa della Salute a Venezia, dipinto su tela in cornice dorata. TERBURG GERARD, Scuola Olandese Sec. XVII, Lezione di musica, dipinto su rame in cornice a sbalzo alto 4o × 31 (Vedi Illustrazione Tav. LV). MURILLO BARTHELEMY ESTEBAN, Scuola S Spagnuola (1618-1682), Madre e Figli, dipinto su tela in cornice dorata e scolpita 141 x 117 (Vedi Illustrazione Tav. LIV).",352,57.1,False,positional,GUARDI FRANCESCO,Scuola di Murillo,DIPINTI,,Sec. XVII
+BO0624_81859,84613,266,246,"PILLEMENT JEAN di Lyon, Sec. XVIII, Verso la sommita del monte, dipinto su tela in cornice dorata 1o1 x 74 (Vedi Illustrazione Tav. LVI). SCUOLA FRANCESE Sec. XVII, Architettura con figure, dipinto su tela in cornice dorata 48 x 66. Pendent del precedente. (Vedi Illustrazione Tav. LIII).",354,68.8,False,positional,,,DIPINTI,,Sec. XVIII
+BO0624_81859,84614,267,247,"SCUOLA FRANCESE Sec. XVII, Architettura con figure, dipinto su tela in cornice dorata 48 x 66 (Vedi Illustrazione Tav. LIII).",355,98.3,False,positional,,,DIPINTI,,Sec. XVII
 BO0624_81859,84615,268,250,"CUYP ALBERT, Scuola Olandese (16o5-16g1), Paesaggio con animali, dipinto su tavola in cornice dorata 59 x82, firmato. (Vedi Illustrazione Tav. LVIII).",357,98.6,False,positional,CUIJP ALBERT,,DIPINTI,,
-BO0624_81859,84616,269,251,": CANALE ANTONIO detto il Canaletto, Sec. XVIII, Bacino di S. Marco. Le figure sono ritenute di G. B. Tiepolo, dipinto su tela con cornice scolpita e dorata 96 x 53. Proveniente dalla collezione dei marchesi Cambiaso di Genova (Vedi Illustrazione Tav. LIX).",359,99.2,False,positional,TIEPOLO DOMENICO,,DIPINTI,COLLEZIONE DEI MARCHESI CAMBIASO,
-BO0624_81859,84617,270,252,"CANALE ANTONIO detto il Canaletto, Sec. XVIII, Piazza di nova (Vedi Illustrazione Tav. LIV).",360,74.6,False,positional,CANALE ANTONIO,,DIPINTI,,
-BO0624_81859,84618,271,253,"SCUOLA FIAMMINGA del Sec. XV, Madonna col Bambino, dipinto su tela in cornice nera antica 24 x 2o (Vedi Illustra- zione Tav. LX).",363,92.7,False,positional,,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84619,272,254,"WOUWERMAN FHILIPPE, Scuola Olandese (1619-1668),",365,95.7,False,positional,WOUWERMAN PHILIPS,,DIPINTI,,
-BO0624_81859,84620,273,255,"CATENA VINCENZO, Sec. XVI, Sacra Famiglia, dipinto su",366,96.1,False,positional,,,DIPINTI,,
-BO0624_81859,84621,274,256,"HEMSKIRK VAN EGBERT, Scuola Olandese Sec. XVII (1645-17o4), Festa campestre, dipinto su tela in cornice guilloché 65 × 8o, firmato con monogramma. (Vedi Illustrazione Tav. LXIII).",367,98.8,False,positional,,,DIPINTI,,
-BO0624_81859,84622,275,257,"HEMSKIRK VAN EGBERT, Scuola Olandese Sec. XVII (1645-1704), Il concerto, dipinto su tela in cornice guilloché, 65 x 8o firmato con monogramma (Vedi Illustr. Tav. LXIHI).",368,98.7,False,positional,,,DIPINTI,,
-BO0624_81859,84623,276,258,"RUBENS P. P. (1577-1640), Scuola Fiamminga, La Regina Thomyris e Cirio, dipinto su tavola in cornice dorata, 58 x 80 documentato dalla stampa dell'epoca (Vedi Illustrazione Tav. LXIV):",369,96.2,False,positional,RUBENS PETER PAUL,Scuola di Rubens,DIPINTI,,
-BO0624_81859,84624,277,259,"RUBENS P. P. (1577-1640), Maternita, dipinto su tela in cor- nice guilloché 1oo x 8o (Vedi Illustrazione Tav. LXV).",372,66.2,False,positional,RUBENS PETER PAUL,Scuola di Rubens,DIPINTI,,
-BO0624_81859,84625,278,260,"REYNOLDS SIR JOSHUA (1723-I792) MRS. ROBINSON, Perdita, dipinto su tela con cornice dorata 76 x 62. Proviene dalla collezione dei Conti d'Essex nella loro. residenza di Caseseguita dalla Galleria Knight, Frank e Rutley in unione ai siobury Park. Vendita all'asta del 15 Giugno 1922 col N. 766, periti sigg. Humbert e Flint. (Vedi illustr. Tav. LXVI).",373,79.8,False,positional,REYNOLDS JOSHUA,,DIPINTI,COLLEZIONE DEI CONTI D'ESSEX,
-BO0624_81859,84626,279,261,"VAN BALEN HENRY, Scuola Fiamminga (1575-1632), Sacra Famiglia, dipinto su tavola in cornice di tartaruga e custodia, 47x93 (Vedi illustrazione Tav.LXVII.)",375,84.9,False,positional,,Scuola Fiamminga,DIPINTI,,
-BO0624_81859,84627,280,262,"VAN DYCK ANTONIO (1599-1641), Scuola Fiamminga, Madonna col bambino, dipinto su tela in cornice dorata 126 x 110",377,98.2,False,positional,VAN DYCK ANTON,Scuola Fiamminga,DIPINTI,,
+BO0624_81859,84616,269,251,": CANALE ANTONIO detto il Canaletto, Sec. XVIII, Bacino di S. Marco. Le figure sono ritenute di G. B. Tiepolo, dipinto su tela con cornice scolpita e dorata 96 x 53. Proveniente dalla collezione dei marchesi Cambiaso di Genova (Vedi Illustrazione Tav. LIX).",359,99.2,False,positional,TIEPOLO DOMENICO,,DIPINTI,COLLEZIONE DEI MARCHESI CAMBIASO,Sec. XVIII
+BO0624_81859,84617,270,252,"CANALE ANTONIO detto il Canaletto, Sec. XVIII, Piazza di nova (Vedi Illustrazione Tav. LIV).",360,74.6,False,positional,CANALE ANTONIO,,DIPINTI,,Sec. XVIII
+BO0624_81859,84618,271,253,"SCUOLA FIAMMINGA del Sec. XV, Madonna col Bambino, dipinto su tela in cornice nera antica 24 x 2o (Vedi Illustra- zione Tav. LX).",363,92.7,False,positional,,Scuola Fiamminga,DIPINTI,,Sec. XV
+BO0624_81859,84619,272,254,"WOUWERMAN FHILIPPE, Scuola Olandese (1619-1668),",365,95.7,False,positional,WOUWERMAN PHILIPS,,DIPINTI,,Sec. XVII
+BO0624_81859,84620,273,255,"CATENA VINCENZO, Sec. XVI, Sacra Famiglia, dipinto su",366,96.1,False,positional,,,DIPINTI,,Sec. XVI
+BO0624_81859,84621,274,256,"HEMSKIRK VAN EGBERT, Scuola Olandese Sec. XVII (1645-17o4), Festa campestre, dipinto su tela in cornice guilloché 65 × 8o, firmato con monogramma. (Vedi Illustrazione Tav. LXIII).",367,98.8,False,positional,,,DIPINTI,,Sec. XVII
+BO0624_81859,84622,275,257,"HEMSKIRK VAN EGBERT, Scuola Olandese Sec. XVII (1645-1704), Il concerto, dipinto su tela in cornice guilloché, 65 x 8o firmato con monogramma (Vedi Illustr. Tav. LXIHI).",368,98.7,False,positional,,,DIPINTI,,Sec. XVII
+BO0624_81859,84623,276,258,"RUBENS P. P. (1577-1640), Scuola Fiamminga, La Regina Thomyris e Cirio, dipinto su tavola in cornice dorata, 58 x 80 documentato dalla stampa dell'epoca (Vedi Illustrazione Tav. LXIV):",369,96.2,False,positional,RUBENS PETER PAUL,Scuola di Rubens,DIPINTI,,Sec. XVII
+BO0624_81859,84624,277,259,"RUBENS P. P. (1577-1640), Maternita, dipinto su tela in cor- nice guilloché 1oo x 8o (Vedi Illustrazione Tav. LXV).",372,66.2,False,positional,RUBENS PETER PAUL,Scuola di Rubens,DIPINTI,,Sec. XVII
+BO0624_81859,84625,278,260,"REYNOLDS SIR JOSHUA (1723-I792) MRS. ROBINSON, Perdita, dipinto su tela con cornice dorata 76 x 62. Proviene dalla collezione dei Conti d'Essex nella loro. residenza di Caseseguita dalla Galleria Knight, Frank e Rutley in unione ai siobury Park. Vendita all'asta del 15 Giugno 1922 col N. 766, periti sigg. Humbert e Flint. (Vedi illustr. Tav. LXVI).",373,79.8,False,positional,REYNOLDS JOSHUA,,DIPINTI,COLLEZIONE DEI CONTI D'ESSEX,Sec. XVIII
+BO0624_81859,84626,279,261,"VAN BALEN HENRY, Scuola Fiamminga (1575-1632), Sacra Famiglia, dipinto su tavola in cornice di tartaruga e custodia, 47x93 (Vedi illustrazione Tav.LXVII.)",375,84.9,False,positional,,Scuola Fiamminga,DIPINTI,,Sec. XVI
+BO0624_81859,84627,280,262,"VAN DYCK ANTONIO (1599-1641), Scuola Fiamminga, Madonna col bambino, dipinto su tela in cornice dorata 126 x 110",377,98.2,False,positional,VAN DYCK ANTON,Scuola Fiamminga,DIPINTI,,Sec. XVII
 BO0624_81859,84628,281,18,(Vedi illustrazione Tav. LXVIII).,378,95.1,False,positional,,,DIPINTI,,
 BO0624_81859,84629,282,264,"MANNOZZI GIOVANNI da S. Giovanni Val d'Arno (15901636. Due embrici dipinti raffiguranti due teste, 5o x 35.",379,98.1,False,positional,,,DIPINTI,,
-BO0624_81859,84630,283,263,"ROTTENHAMER JEAN, Scuola Tedesca (1564-1623), Giudizio di Paride, dipinto su tavola in cornice alto 65 x 42. (Vedi illustrazione Tav. LXIX).",380,98.5,False,positional,ROTTENHAMMER JOHANN,,DIPINTI,,
+BO0624_81859,84630,283,263,"ROTTENHAMER JEAN, Scuola Tedesca (1564-1623), Giudizio di Paride, dipinto su tavola in cornice alto 65 x 42. (Vedi illustrazione Tav. LXIX).",380,98.5,False,positional,ROTTENHAMMER JOHANN,,DIPINTI,,Sec. XVI

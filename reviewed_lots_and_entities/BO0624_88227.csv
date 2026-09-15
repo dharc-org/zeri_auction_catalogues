@@ -62,11 +62,11 @@ BO0624_88227,203003,60,110,"Fahrender Sanger. Holz 20,5/10,5 Bezeichnet.        
 BO0624_88227,203004,61,111,Vor dem Dokument. Leinw.44/57 112 Kriegsabenteuererzahlung. Gegenstick z. Vor. Beide bezeichnet.                                                           |     |,220,97.8,False,positional,H.KERN,,,,
 BO0624_88227,203005,62,113,Das Speckbacher-Haus. Holz 14/18 114 Das Defregger-Haus. Gegenstick z. Vor.                                                                                |     |,221,97.3,False,positional,H.KERN,,OGGETTI IN LEGNO,,
 BO0624_88227,203006,63,115,Ankunft des Hochzeitswagen. Holz 28/46 Samtlich bezeichnet. Kupferstiche.                                                                                  |     |,222,97.2,False,positional,H.KERN,,OGGETTI IN LEGNO,,
-BO0624_88227,203007,64,116,A.Verio. Die Schlacht bei Jena 1806. P1.36/46 117 Canacci. Die Schlacht bei Regensburg 1809. P1.34/45                                                      |     |,223,98.0,False,positional,H.KERN,,,,
+BO0624_88227,203007,64,116,A.Verio. Die Schlacht bei Jena 1806. P1.36/46 117 Canacci. Die Schlacht bei Regensburg 1809. P1.34/45                                                      |     |,223,98.0,False,positional,H.KERN,,,,Sec. XIX
 BO0624_88227,203008,65,118,"Bordiga. Tempel der Unsterblichkeit. P1.58/58 Tempel errichtet in Mailand, bestimmt zur Abbrennung                                                         |     |",224,97.9,False,positional,H.KERN,,,,
 BO0624_88227,203009,66,123,Von Ed.Mandel nach Rafael. Madonna della Sedia. P1.48/42                                                                                                   |     |,229,96.4,False,positional,H.KERN,,,,
 BO0624_88227,203010,67,124,Kihe auf der Weide.                                                                                                                                        |     |,231,90.0,False,positional,H.KERN,,,,
-BO0624_88227,203011,68,125,Von C. Hahn n. Boettner 1804. Wilh. Heinrich Prinz zu Solms- Braunfels.                            | 45/33                                   |,238,97.3,False,positional,,,Lithographien,,
+BO0624_88227,203011,68,125,Von C. Hahn n. Boettner 1804. Wilh. Heinrich Prinz zu Solms- Braunfels.                            | 45/33                                   |,238,97.3,False,positional,,,Lithographien,,Sec. XIX
 BO0624_88227,203012,69,126,Von C. Holzamer. Alex. von Humboldt.                                                               | 44/50                                   |,240,95.0,False,positional,,,Lithographien,,
 BO0624_88227,203013,70,127,Hamburger Hafen. Radierung und Litho.32/53                                                         |                                         |,241,95.3,False,positional,,,Lithographien,,
 BO0624_88227,203014,71,134,Damenportrat. 135 Damenportrat.                                                                    | Gegenstick z.Vor.                       |,248,95.8,False,positional,,,Lithographien,,
@@ -86,7 +86,7 @@ BO0624_88227,203027,84,163,Beim Studium.                                        
 BO0624_88227,203028,85,164,Ratsherr. Samtlich bezeichnet.                                                                                            | Holz 15/9           |,283,95.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88227,203029,86,168,Derselbe.                                                                                                                 | P1. 24/30           |,286,89.5,False,positional,,,Pastelle,,
 BO0624_88227,203030,87,169,9Derselbe.                                                                                                                | P1.24/30            |,287,90.0,False,positional,,,Pastelle,,
-BO0624_88227,203031,88,I,"m Lorsbacher Thalchen, K1. Rittergasse, 1893. P1. 24/30 170 Derselbe. Kuiche im Eschenheimer Turm 1890. Samtlich bezeichnet. | P1.15/10            |",288,99.6,False,positional,,,Pastelle,,
+BO0624_88227,203031,88,I,"m Lorsbacher Thalchen, K1. Rittergasse, 1893. P1. 24/30 170 Derselbe. Kuiche im Eschenheimer Turm 1890. Samtlich bezeichnet. | P1.15/10            |",288,99.6,False,positional,,,Pastelle,,Sec. XIX
 BO0624_88227,203032,89,171,Prof. B. Mannfeld. Porta nigra Trier. 172 Derselbe. Die alte Mainbricke. 173                                              | P1. 80/100 P1.92/74 |,289,97.8,False,positional,,,Pastelle,,
 BO0624_88227,203033,90,174,"Von Boissieu.                                                                                                             | P1.27/37,5          |",291,92.0,False,positional,,,Pastelle,,
 BO0624_88227,203034,91,175,Prof. Hub. Herkomer. Joy.                                                                                                 | P1.55/44            |,292,93.8,False,positional,,,Pastelle,,
@@ -239,7 +239,7 @@ BO0624_88227,203180,237,362,"Paar Vasen, braun, Flaschenform mit Iris und Schild
 BO0624_88227,203181,238,363,- 364,696,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203182,239,366,366,698,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203183,240,367,"368 Hellebarde. Langer SpieB, Halbmond und Haken mit sachsischem",704,96.9,False,positional,F. ZEILER,,,,
-BO0624_88227,203184,241,370,"Desgl.mit oesterreichischem Adler, ziseliert. 1670.",707,96.0,False,positional,F. ZEILER,,,,
+BO0624_88227,203184,241,370,"Desgl.mit oesterreichischem Adler, ziseliert. 1670.",707,96.0,False,positional,F. ZEILER,,,,Sec. XVII
 BO0624_88227,203185,242,371,GroBes Pulverhorn. Elfenbein. Schulterblatt mit eingeschnittenen,708,96.9,False,positional,F. ZEILER,,,,
 BO0624_88227,203186,243,372,"Florett mit eisernem Griff, reich ziseliert.",713,95.5,False,positional,F. ZEILER,,,,
 BO0624_88227,203187,244,373,"Jagdmesser mit reicher Verzierung und durchbrochen, in Leder-",714,96.7,False,positional,F. ZEILER,,OGGETTI IN PELLE,,
@@ -268,7 +268,7 @@ BO0624_88227,203209,266,410,Sonnenuhr mit KompaB. XVIll. Jahrh.,775,94.1,False,p
 BO0624_88227,203210,267,411,"Wedgewood-Schisselchen mit brauner Malerei, Pfauen und Blumen.",777,96.8,False,positional,F. ZEILER,,,,
 BO0624_88227,203211,268,412,"Wedgewood-Tellerchen mit blauer Malerei, Blumen und Segel-",779,96.6,False,positional,F. ZEILER,,,,
 BO0624_88227,203212,269,413,"Durlacher Kanne mit Blumenguirlanden, Henkel und Deckel. Hohe 25 cm.",781,97.0,False,positional,F. ZEILER,,,,
-BO0624_88227,203213,270,414,"Wedgewood-Korbchen, durchbrochen. Tabakspfeife mit gemaltem Pfeifenkopf und Wassersack. 1841.",783,77.6,False,positional,F. ZEILER,,,,
+BO0624_88227,203213,270,414,"Wedgewood-Korbchen, durchbrochen. Tabakspfeife mit gemaltem Pfeifenkopf und Wassersack. 1841.",783,77.6,False,positional,F. ZEILER,,,,Sec. XIX
 BO0624_88227,203214,271,415,- Pfeifenkopf mit Wappen.,785,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203215,272,416,- Desgl. mit Wappen.,787,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203216,273,417,I,788,40.0,False,title_direct,A. RYLSKI,Scuola d'Anversa,,,
@@ -333,7 +333,7 @@ BO0624_88227,203274,331,493,Handlaterne und Handleuchter. Messing.,901,94.7,Fals
 BO0624_88227,203275,332,494,4 Steigbigel und drei got. Schlissel. Ausgrabungen.,902,96.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203276,333,496,496,904,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203277,334,497,Buch. Goldener Himmelsschlissel v. P. Martini Capucini v. Cochem.,907,96.8,False,positional,F. ZEILER,,,,
-BO0624_88227,203278,335,498,11. Mai 1579.,908,84.6,False,positional,F. ZEILER,,,,
+BO0624_88227,203278,335,498,11. Mai 1579.,908,84.6,False,positional,F. ZEILER,,,,Sec. XVI
 BO0624_88227,203279,336,499,Lithographiestein. Vordergrund. 14/17,911,94.6,False,title_direct,,,Lithographien,,
 BO0624_88227,203280,337,500,- Zwei Vasen. Empire.,913,100.0,False,positional,F. ZEILER,,VASI,,
 BO0624_88227,203281,338,501,Nipptischchen. Silber. Riechflakon mit Silberbeschlag und Parfumzerstauber.,915,83.2,False,positional,F. ZEILER,,,,
@@ -378,9 +378,9 @@ BO0624_88227,203319,376,549,Desgl. mit ca. 2500 Marken.,985,92.3,False,positiona
 BO0624_88227,203320,377,550,Briefmarken-Album mit ca.730 Marken.,986,94.6,False,positional,F. ZEILER,,FRANCOBOLLI,,
 BO0624_88227,203321,378,551,- Prachtausgabe. 4 Bande Schiller.,988,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203322,379,552,- Desgl. 2 Bande Hauf.,990,100.0,False,positional,F. ZEILER,,,,
-BO0624_88227,203323,380,553,"- Gedenkbuch. Steinhausens 60. Geburtstag, 2 Febr. 1906.",992,100.0,False,positional,F. ZEILER,,,,
+BO0624_88227,203323,380,553,"- Gedenkbuch. Steinhausens 60. Geburtstag, 2 Febr. 1906.",992,100.0,False,positional,F. ZEILER,,,,Sec. XX
 BO0624_88227,203324,381,554,Bibel.,993,71.4,False,positional,F. ZEILER,,,,
-BO0624_88227,203325,382,555,"- Briefmarken-Album, ca. 1900 Marken.",995,100.0,False,positional,F. ZEILER,,FRANCOBOLLI,,
+BO0624_88227,203325,382,555,"- Briefmarken-Album, ca. 1900 Marken.",995,100.0,False,positional,F. ZEILER,,FRANCOBOLLI,,Sec. XX
 BO0624_88227,203326,383,556,Desgl. ca. 430 Marken.,996,90.5,False,positional,F. ZEILER,,,,
 BO0624_88227,203327,384,557,Desgl. ca.365 Marken.,997,90.5,False,positional,F. ZEILER,,,,
 BO0624_88227,203328,385,558,"- Fuchs. Sittengeschichte, 3 Bande und 2 Erganzungsbande.",999,100.0,False,positional,F. ZEILER,,,,
@@ -394,7 +394,7 @@ BO0624_88227,203335,392,6,Desgl. Ebenso.,1009,96.0,False,positional,F. ZEILER,,,
 BO0624_88227,203336,393,566,- Alter Atlas. Descriptio orbis antiqui. Nurnberg. Quartformat,1011,100.0,False,positional,F. ZEILER,Scuola di Norimberga,,,
 BO0624_88227,203337,394,567,"mit 46 kolor. Tafeln, in Leder gebunden.",1012,94.9,False,positional,F. ZEILER,,OGGETTI IN PELLE,,
 BO0624_88227,203338,395,568,- Konvolut. 3 Stiche etc. Landschaften und Madonna. Verschiedene GroBen.,1014,100.0,False,positional,F. ZEILER,,STAMPE E INCISIONI,,
-BO0624_88227,203339,396,569,"Journal des Dames et des Modes. Redige par J. P. Lemaire. Tome LX.,Janvier-Juin 1828. Francfort s.1. Mein.",1015,98.0,False,positional,F. ZEILER,,,,
+BO0624_88227,203339,396,569,"Journal des Dames et des Modes. Redige par J. P. Lemaire. Tome LX.,Janvier-Juin 1828. Francfort s.1. Mein.",1015,98.0,False,positional,F. ZEILER,,,,Sec. XIX
 BO0624_88227,203340,397,570,"Kol. Druck nach Reinhardt, gest. v. D. Berger. Hirschberg in",1016,96.4,False,positional,F. ZEILER,,,,
 BO0624_88227,203341,398,571,"Desgl.Dresden. Verlag Daumont, Paris. Gr.Folio.",1018,95.6,False,positional,F. ZEILER,,,,
 BO0624_88227,203342,399,572,Desgl. Dresden.,1019,86.7,False,positional,F. ZEILER,,,,
@@ -410,7 +410,7 @@ BO0624_88227,203351,408,582,Desgl. Ebenso.,1037,85.7,False,positional,F. ZEILER,
 BO0624_88227,203352,409,583,Desgl.,1039,71.4,False,positional,F. ZEILER,,,,
 BO0624_88227,203353,410,584,Desgl. Ebenso.,1040,85.7,False,positional,F. ZEILER,,,,
 BO0624_88227,203354,411,585,"Konvolut. Finf Blatt Litho. v. J. N. Strixner nach Alt-, Nieder-",1041,96.6,False,positional,F. ZEILER,,,,
-BO0624_88227,203355,412,586,- und Oberdeutschen Gemalden. Stuttgart 1821.,1043,100.0,False,positional,F. ZEILER,,,,
+BO0624_88227,203355,412,586,- und Oberdeutschen Gemalden. Stuttgart 1821.,1043,100.0,False,positional,F. ZEILER,,,,Sec. XIX
 BO0624_88227,203356,413,587,Desgl. Ebenso.,1044,85.7,False,positional,F. ZEILER,,,,
 BO0624_88227,203357,414,588,Desgl. Ebenso.,1045,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203358,415,589,- 590 Desgl. Ebenso.,1048,100.0,False,positional,F. ZEILER,,,,
@@ -432,19 +432,19 @@ BO0624_88227,203373,430,608,"Aquarell, unbekannt. Partie aus Nurnberg. 12/13",10
 BO0624_88227,203374,431,609,- 610 Drei Kreidezeichnungen v. Chodowiecki. Figuren. Verschiedene GroBen.,1083,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203375,432,611,- 612 Sechs Kreidezeichnungen von demselben.E Ebenso.,1086,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203376,433,614,614,1089,100.0,False,positional,F. ZEILER,,,,
-BO0624_88227,203377,434,615,Kreidezeichnung v. Reinermann. Herrenportrat 1836.,1091,95.9,False,positional,F. ZEILER,,,,
+BO0624_88227,203377,434,615,Kreidezeichnung v. Reinermann. Herrenportrat 1836.,1091,95.9,False,positional,F. ZEILER,,,,Sec. XIX
 BO0624_88227,203378,435,616,"Stich. Aufzug zum Wahltag in Frankfurt a.M., den 19.-29.",1093,96.2,False,positional,F. ZEILER,,,,
-BO0624_88227,203379,436,617,"Desgl. Aufzug zum ritterl. Kopfe-Rennen, 30. Juni bis 10. Jully 1658, v. C.Merian.",1095,97.4,False,positional,F. ZEILER,,,,
-BO0624_88227,203380,437,618,31. Jan.1742.,1097,84.6,False,positional,F. ZEILER,,,,
+BO0624_88227,203379,436,617,"Desgl. Aufzug zum ritterl. Kopfe-Rennen, 30. Juni bis 10. Jully 1658, v. C.Merian.",1095,97.4,False,positional,F. ZEILER,,,,Sec. XVII
+BO0624_88227,203380,437,618,31. Jan.1742.,1097,84.6,False,positional,F. ZEILER,,,,Sec. XVIII
 BO0624_88227,203381,438,619,"- Original-Lithographie von F.Bohle. Siegeswagen. 38/58,5",1099,100.0,False,title_direct,,,Lithographien,,
-BO0624_88227,203382,439,620,- Desgl. Binding 1914. 35/66,1101,100.0,False,positional,F. ZEILER,,,,
+BO0624_88227,203382,439,620,- Desgl. Binding 1914. 35/66,1101,100.0,False,positional,F. ZEILER,,,,Sec. XX
 BO0624_88227,203383,440,621,Desgl. Pflugen Nr.1I. 28/63 Engl. Farbstich nach Morland v. W. Ward. A Visit to the Boarding,1104,84.0,False,positional,F. ZEILER,,STAMPE E INCISIONI,,
 BO0624_88227,203384,441,622,"- Gioja Gaetano. Aus der Geschichte. Sepia 22/14,5",1107,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203385,442,625,Liberi Pietro. Amor. Get. Federzeichnung 17/11,1108,95.6,False,positional,F. ZEILER,,,,
 BO0624_88227,203386,443,624,- 626 Sachi Andr. Romischer Tempel mit Staffage.,1110,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203387,444,627,- Chodowiecki. Auf dem Schlachtfeld.,1112,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203388,445,628,"Zuccherelli. Heilige Familie. Get.Zeichnung 14/13,5",1117,96.1,False,positional,F. ZEILER,,,,
-BO0624_88227,203389,446,629,"Herkommer, Hub. Militarische Szene. Maeckel 1774. Kreuzabnahme. Derselbe. Militarische Ubung. Get.Zeichnung 16/25",1120,61.1,False,positional,F. ZEILER,,,,
+BO0624_88227,203389,446,629,"Herkommer, Hub. Militarische Szene. Maeckel 1774. Kreuzabnahme. Derselbe. Militarische Ubung. Get.Zeichnung 16/25",1120,61.1,False,positional,F. ZEILER,,,,Sec. XVIII
 BO0624_88227,203390,447,632,"Busch, Wilhelm. Auf der Wanderung. Federzeichnung 6,5/6",1123,96.3,False,positional,F. ZEILER,,,,
 BO0624_88227,203391,448,633,Derselbe. Unangenehme Uberraschung. Federzeichnung 11/5,1124,96.4,False,positional,F. ZEILER,,,,
 BO0624_88227,203392,449,634,Derselbe.,1125,80.0,False,positional,F. ZEILER,,,,
@@ -463,20 +463,20 @@ BO0624_88227,203404,461,646,"- Aquarell 18,5/25",1146,100.0,False,positional,F. 
 BO0624_88227,203405,462,647,"- Tintoretto, Jacobus. Saulus Bekehrung. Sepiazeichnung 46/36",1149,100.0,False,positional,F. ZEILER,,STAMPE E INCISIONI,,
 BO0624_88227,203406,463,648,"Albano, Fr.In der Schmiedewerkstatt des Mars. Tuschzeichnung 18,5/26",1150,97.1,False,positional,F. ZEILER,,,,
 BO0624_88227,203407,464,649,"Wirth, Peter. Des Wanderers Ziel. Zeichnung 36/50",1151,95.8,False,positional,F. ZEILER,,,,
-BO0624_88227,203408,465,650,"Herkommer, Hub. Einzug Kaiser Napoleon Ill. in Genua 1854. Aquarell.Ferderzeichnung 35/60",1152,97.7,False,positional,F. ZEILER,,,,
+BO0624_88227,203408,465,650,"Herkommer, Hub. Einzug Kaiser Napoleon Ill. in Genua 1854. Aquarell.Ferderzeichnung 35/60",1152,97.7,False,positional,F. ZEILER,,,,Sec. XIX
 BO0624_88227,203409,466,651,"Neide, Emil. Die Lebensmiden.",1153,92.9,False,positional,F. ZEILER,,,,
 BO0624_88227,203410,467,652,Bleientwurf 19/14,1156,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203411,468,653,Lithographie. Erinnerung an Dresden. 23 handkol. Ansichten. 38/45,1158,96.8,False,title_direct,,,Lithographien,,
 BO0624_88227,203412,469,654,- 655 Kupferstich n. D. Wilkie v. J. Burnet. The Letter of introduction. P1. 50/38,1161,100.0,False,positional,F. ZEILER,,OGGETTI IN RAME,,
 BO0624_88227,203413,470,656,Desgl. n.N.Freudweiler v. Benj.Rod. Comte. La Sollicitude d'une mere dans L'Eternite. P1.41/28,1163,97.8,False,positional,F. ZEILER,,,,
 BO0624_88227,203414,471,658,658,1165,100.0,False,positional,F. ZEILER,,,,
-BO0624_88227,203415,472,659,"Arnould, G.V. Kriegsrat bei Paris 1870/71. Kreidezeichnung 40/55",1168,96.8,False,positional,F. ZEILER,,,,
+BO0624_88227,203415,472,659,"Arnould, G.V. Kriegsrat bei Paris 1870/71. Kreidezeichnung 40/55",1168,96.8,False,positional,F. ZEILER,,,,Sec. XIX
 BO0624_88227,203416,473,660,- P1.78/47 661 Desgl. n. Winterhalter v. Atkinson. Prinz Albert.,1170,100.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203417,474,662,"Kupferstich n. Serres, gest. v. Whessell. Fisherman's going out. 52/60",1173,97.0,False,positional,F. ZEILER,,OGGETTI IN RAME,,
 BO0624_88227,203418,475,663,"Desgl. n. Serres, gest. v. Whessell. Fisherman's return.",1174,96.1,False,positional,F. ZEILER,,,,
 BO0624_88227,203419,476,664,"Desgl.n. E. Landseer, gest.v. Th.Landseer. Return From The Warren.65/50",1178,97.1,False,positional,F. ZEILER,,,,
 BO0624_88227,203420,477,665,- 5Farbdruck n.Montpezat v.Bettannier.Phaeton. 44/58,1180,100.0,False,positional,F. ZEILER,,,,
-BO0624_88227,203421,478,666,- 6 Originallitho von F.Boehle. Brauerei Binding 1910. 61/83,1182,100.0,False,positional,F. ZEILER,,,,
+BO0624_88227,203421,478,666,- 6 Originallitho von F.Boehle. Brauerei Binding 1910. 61/83,1182,100.0,False,positional,F. ZEILER,,,,Sec. XX
 BO0624_88227,203422,479,667,Kupferstich n. Fr. Grant v. W.H. Simmons. The Shooting Party Ranton Abbey. PI.59/79,1183,97.5,False,positional,F. ZEILER,,OGGETTI IN RAME,,
 BO0624_88227,203423,480,668,Zwei Schabkunstblatter v. J. J. Haid et Filius. Die ible Folge des,1184,96.9,False,positional,F. ZEILER,,STAMPE E INCISIONI,,
 BO0624_88227,203424,481,669,"Sepiadruck,Aquatinta.Ital. SchloB. Vor der Schrift.",1189,96.0,False,positional,F. ZEILER,,,,
@@ -500,7 +500,7 @@ BO0624_88227,203441,498,689,Funfzehn Blatt Stiche. Romische Kaiser und Kaiserinn
 BO0624_88227,203442,499,690,Kupferstich von W.Nettling n. Stuart. Prasident v. Amerika.,1218,96.5,False,positional,F. ZEILER,,OGGETTI IN RAME,,
 BO0624_88227,203443,500,691,Farb. Lithographien n. Casp. Scheuren. 26 Beiblatter mit Gedichten. Rheinansichten und Je 25/35,1219,79.5,False,title_direct,,,Lithographien,,
 BO0624_88227,203444,501,692,- 693 Desgl. 11 Blatt. Herzoge und Pfalzgrafen etc. GroBen.,1225,100.0,False,positional,F. ZEILER,,,,
-BO0624_88227,203445,502,694,"Desgl. 15 Silhouetten von Furstlichkeiten, meist 12/9. Brief von Jac. Fr. Fries. Philosoph und Professor in Jena 1839.",1230,70.2,False,positional,F. ZEILER,,,,
+BO0624_88227,203445,502,694,"Desgl. 15 Silhouetten von Furstlichkeiten, meist 12/9. Brief von Jac. Fr. Fries. Philosoph und Professor in Jena 1839.",1230,70.2,False,positional,F. ZEILER,,,,Sec. XIX
 BO0624_88227,203446,503,695,"- 696 Zwei Privatbriefe und ein Kuvert von Rud. Virchow, Berlin.",1232,100.0,False,positional,F. ZEILER,Scuola di Berlino,,,
 BO0624_88227,203447,504,698,"Zwei Briefe und zwei Kuverts, Detlev von Liliencron. Brief von Adolf L'aronge, Berlin.",1233,73.5,False,positional,F. ZEILER,Scuola di Berlino,,,
 BO0624_88227,203448,505,699,Zwei Briefe und zwei Kuverts von Schriftsteller Rich.VoB.,1235,96.6,False,positional,F. ZEILER,,,,
@@ -514,11 +514,11 @@ BO0624_88227,203455,512,706,von Boetticher.,1248,87.5,False,positional,F. ZEILER
 BO0624_88227,203456,513,707,Bestallung als Konsulats-Sekretar fuir Yokohama. Kaiser Wilhelm I.,1249,97.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203457,514,708,Ordenspatent iber Verleihung des Ritterkreuzes z. Zahringer,1251,96.7,False,positional,F. ZEILER,,,,
 BO0624_88227,203458,515,709,Desgl. Verleihung durch den Konig Oscar von Schweden u. Nils,1253,96.7,False,positional,F. ZEILER,,,,
-BO0624_88227,203459,516,710,- 711 Dekret vom 17. Juli 1773. Ludwig Landgraf zu Hessen.,1257,100.0,False,positional,F. ZEILER,,,,
+BO0624_88227,203459,516,710,- 711 Dekret vom 17. Juli 1773. Ludwig Landgraf zu Hessen.,1257,100.0,False,positional,F. ZEILER,,,,Sec. XVIII
 BO0624_88227,203460,517,712,"2 Offiziers-Patent mit Unterschrift, GroBherzog Ludwig Ill. von Hessen und von Wachter.",1258,97.7,False,positional,F. ZEILER,,,,
 BO0624_88227,203461,518,713,Brief des Hofrats J. Meusel in Erlangen.,1259,95.0,False,positional,F. ZEILER,,,,
 BO0624_88227,203462,519,714,"Brief zu einer Konsulatsbestallung, unterschrieben von B. Bilow",1260,96.8,False,positional,F. ZEILER,,,,
 BO0624_88227,203463,520,715,Dekret des Pfalzgrafen Ferdinand Maria mit Unterschrift und Siegel.,1262,97.1,False,positional,F. ZEILER,,OGGETTI VARI,,
 BO0624_88227,203464,521,716,"- Sechs verschiedene Briefe, darunter von J. W. Schitz von Holtzhausen.",1264,100.0,False,positional,F. ZEILER,,,,
-BO0624_88227,203465,522,717,Bismarckbrief aus dem Jahr 1892.,1265,93.9,False,positional,F. ZEILER,,,,
+BO0624_88227,203465,522,717,Bismarckbrief aus dem Jahr 1892.,1265,93.9,False,positional,F. ZEILER,,,,Sec. XIX
 BO0624_88227,203466,523,718,Autograph. Adolf Herzog zu Nassau.,1266,94.1,False,positional,F. ZEILER,,,,

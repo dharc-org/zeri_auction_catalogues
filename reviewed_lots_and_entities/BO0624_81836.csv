@@ -12,7 +12,7 @@ BO0624_81836,133617,10,10,"Due bei vasi in maiolica di Faenza, decorazione bleue
 BO0624_81836,133618,11,11,Piccola vetrina Luigi xVI in legno scolpito decorata in verde e oro.,19,97.8,False,positional,,,Mobili,,
 BO0624_81836,133619,12,12,"Piccola vetrina Luigi xVI in legno scolpito, decorata in verde e oro.",20,97.8,False,positional,,,Mobili,,
 BO0624_81836,133620,13,13,Tavolino elegantissimo legno scolpito e dorato con piedi a lira. Rinascimento,21,98.1,False,positional,,,ARREDAMENTI,,
-BO0624_81836,133621,14,14,"Interessante, bellissima cassaforte in ferro, con grandissima, artistica e perfetta serratura e chiave originale. Sec. XV.",22,98.7,False,positional,,,Mobili,,
+BO0624_81836,133621,14,14,"Interessante, bellissima cassaforte in ferro, con grandissima, artistica e perfetta serratura e chiave originale. Sec. XV.",22,98.7,False,positional,,,Mobili,,Sec. XV
 BO0624_81836,133622,15,15,Bella lampada toscana da tavola a 6 lampade montata per luce elettrica in,26,98.0,False,positional,,,LAMPADE,,
 BO0624_81836,133623,16,16,Santa. Statuetta in legno scolpito policromo. Sec. xVIl. legno scolpito e dorato.,27,79.4,False,positional,,,Mobili,,
 BO0624_81836,133624,17,17,"Tre grandi e bellissime ventole veneziane, legno scolpito e dorato, Luigi xVI,",32,98.0,False,positional,,,Mobili,,
@@ -44,18 +44,18 @@ BO0624_81836,133649,42,22,40.Bella vetrinetta in noce di fine intaglio bombee Lu
 BO0624_81836,133650,43,41,Longhi Aless. Sec. XVlll. Ritratto di gentiluomo. Cornice a pastiglia dorata. Cent.45X35.,73,98.2,False,positional,,,Quadri,,
 BO0624_81836,133651,44,42,Magnasco (?) Sec. XVIll. Scena militare. Tela. Cornice scolpita e dorata. Cent.54X104.,77,98.1,False,positional,,,Quadri,,
 BO0624_81836,133652,45,43,Cignani Carlo. Sec. XVll. Giovine donna coglie melagrane per tre pargoletti,81,98.0,False,positional,,,Quadri,,
-BO0624_81836,133653,46,45,Piazzetta G. B. Sec. XVill. La Vergine col Bambino. Tela. Cornice legno scol- pito e dorato. Cent. 36 X33.,91,82.8,False,positional,,,Quadri,,
-BO0624_81836,133654,47,46,Michel George.1763-1843.Dintorni di Parigi. Tela.Cornice scolpita e do- rata.Cent.50X63.,96,87.9,False,positional,,,Quadri,,
+BO0624_81836,133653,46,45,Piazzetta G. B. Sec. XVill. La Vergine col Bambino. Tela. Cornice legno scol- pito e dorato. Cent. 36 X33.,91,82.8,False,positional,PIAZZETTA JEAN-BAPTISTE,,Quadri,,
+BO0624_81836,133654,47,46,Michel George.1763-1843.Dintorni di Parigi. Tela.Cornice scolpita e do- rata.Cent.50X63.,96,87.9,False,positional,,,Quadri,,Sec. XVIII
 BO0624_81836,133655,48,47,Scuola Spagnuola. Sec. XVll. ll giuoco dell'uovo. Tela. Cornice dorata.,101,97.7,False,positional,,,Quadri,,
-BO0624_81836,133656,49,48,"Carpioni Giulio. 1611-1674. Scena biblica:Predica alle turbe.Due dipinti su tela,di bella composizione, facile esecuzione, buon colorito. Cornici dorate. Cent.74X74.",111,95.5,False,positional,,,CORNICI,,
-BO0624_81836,133657,50,49,Bloemen Giov.Fr.detto 0rizzonte. 1656-1740. Prime ombre nella campagna romana -Caccia nella campagna romana. Due dipinti su tavola. Cornici dorate.Cent.37X50.,113,99.0,False,positional,,,CORNICI,,
-BO0624_81836,133658,51,50,Trevisani Francesco. 1656-176. Sant'Anna insegna a leggere alla Vergine; S.Vincenzo de Paoli prega in ginocchio; in alto gloria d'Angeli. Tela. Ricca,114,99.0,False,positional,,,Quadri,,
+BO0624_81836,133656,49,48,"Carpioni Giulio. 1611-1674. Scena biblica:Predica alle turbe.Due dipinti su tela,di bella composizione, facile esecuzione, buon colorito. Cornici dorate. Cent.74X74.",111,95.5,False,positional,,,CORNICI,,Sec. XVII
+BO0624_81836,133657,50,49,Bloemen Giov.Fr.detto 0rizzonte. 1656-1740. Prime ombre nella campagna romana -Caccia nella campagna romana. Due dipinti su tavola. Cornici dorate.Cent.37X50.,113,99.0,False,positional,,,CORNICI,,Sec. XVII
+BO0624_81836,133658,51,50,Trevisani Francesco. 1656-176. Sant'Anna insegna a leggere alla Vergine; S.Vincenzo de Paoli prega in ginocchio; in alto gloria d'Angeli. Tela. Ricca,114,99.0,False,positional,,,Quadri,,Sec. XVII
 BO0624_81836,133659,52,51,Cittadini P. F. detto il Milanese. Sec. XVll. Fiori. Due bellissimi dipinti su tela. Cornici nere guillochees. Cent. 38X48.,122,98.7,False,positional,,Scuola Milanese,CORNICI,,
 BO0624_81836,133660,53,52,Dolci Carlo (2). Sec. xVll. Giovine donna in estasi. Buon dipinto su tela. Cornice noce dipinta e dorata. Cent. 68X54.,123,98.6,False,positional,DOLCI CARLO,,Quadri,,
 BO0624_81836,133661,54,53,Scuola Lombarda. Sec.XVI. ll Redentore. Tela. Cornice nera guillochee.,124,97.7,False,positional,,Scuola Lombarda,Quadri,,
 BO0624_81836,133662,55,54,Scuola Francese. Sec. XIx. Soggetti mitologici. Due bellissimi disegni ovali a carbone lumeggiati in rosso. In cornici. Cent.38X29.,125,94.2,False,positional,,,CORNICI,,
 BO0624_81836,133663,56,55,Scuola Francese. Sec. XVill. Gentiluomo francese con gli attributi di S. Gio- vanni. Tavola ovale. Cent. 25X31.,127,81.4,False,positional,,,Quadri,,
-BO0624_81836,133664,57,56,Scuola Faentina. Sec. XVII. Frutta e uccelli. Tela. Cornice nera. Cent.30X49.,129,97.9,False,positional,,Scuola Faentina,Quadri,,
+BO0624_81836,133664,57,56,Scuola Faentina. Sec. XVII. Frutta e uccelli. Tela. Cornice nera. Cent.30X49.,129,97.9,False,positional,,Scuola Faentina,Quadri,,Sec. XVII
 BO0624_81836,133665,58,57,"Scatola in argento, forma di sfinge.",137,95.8,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133666,59,2,58.Pugnale (Misericordia) con bella impugnatura in bronzo cesellato.,138,98.5,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133667,60,59,"Minuscolo servizio da the e caffe, in argento composto di cinque pezzi.",139,97.9,False,positional,,,Quadri; Miniature,,
@@ -72,7 +72,7 @@ BO0624_81836,133677,70,68,Costanza Monti Perticari. Finissima miniatura ovale su
 BO0624_81836,133678,71,69,San Giuseppe col Bambino. Delicato e fine piccolo dipinto di Gaetano Gan- dolfi. Sec. XVIll.,154,88.2,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133679,72,70,"Campanello in bronzo del Settecento, riccamente istoriato, di fine cesello.",159,98.0,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133680,73,2,"71.Piatto in bronzo di carattere celliniano. Finissimo cesello, bella pattina.",160,98.7,False,positional,,,Quadri; Miniature,,
-BO0624_81836,133681,74,72,"Pisside,in rame sbalzato cesellato e dorato di fine, classico disegno del XVI secolo.",161,98.2,False,positional,,,Quadri; Miniature,,
+BO0624_81836,133681,74,72,"Pisside,in rame sbalzato cesellato e dorato di fine, classico disegno del XVI secolo.",161,98.2,False,positional,,,Quadri; Miniature,,Sec. XVI
 BO0624_81836,133682,75,73,Calice di finissimo lavoro in bronzo cesellato e dorato del xVI secolo.,165,97.9,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133683,76,2,Pezzo da Museo.,166,93.3,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133684,77,3,"74.Rara medaglia quattrocentesca in bronzo cesellato, di Giuliano de'Medici. Bella pattina.",167,98.9,False,positional,,,Quadri; Miniature,,
@@ -84,7 +84,7 @@ BO0624_81836,133689,82,8,braciere. Oggetto di squisito gusto (utilizzabile anche
 BO0624_81836,133690,83,78,Palliere. Sec. XIx. Dintorni di Buenos Aires. Acquerello firmato. Cornice,173,97.8,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133691,84,79,Pietro Berettini da Cortona. Sec. XVll.Apoteosi di un santo. Cornice dorata.,178,98.0,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133692,85,80,"Scuola Genovese. Sec. XVll (Luca Cambiaso ?) La Vergine col Bambino e S.Giovannino, fondo di paesaggto. Tela. Cent. 82X70. ## Oggetti d'arte -Quadri - Miniature. Simone Contarini da Pesaro. Sec. XVll. La Vergine col Bambino e S. Gio- vannino. Tela.Cornice scolpita e dorata. Cent. 86X73.",188,59.4,False,title_direct,,Scuola Genovese,Miniature,,
-BO0624_81836,133693,86,82,Bellotto Pietro. 1625-1700.Venditore ambulante.Tavola. Cornice nera guillochée.Cent.36X46.,198,98.3,False,positional,,,Quadri; Miniature,,
+BO0624_81836,133693,86,82,Bellotto Pietro. 1625-1700.Venditore ambulante.Tavola. Cornice nera guillochée.Cent.36X46.,198,98.3,False,positional,,,Quadri; Miniature,,Sec. XVII
 BO0624_81836,133694,87,83,Barocci (?). Sec.XVll. Hl riposo in Egitto - San Giovanni e Angeli. Cent. 44X63.,204,97.9,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133695,88,84,La Vergine col Bambino. Bellissimo altorilievo in bronzo nella maniera del,205,98.0,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133696,89,3,"Due graziosi, spigliati dipinti su tela di colorito vivace e fresco.",206,98.5,False,positional,,,Quadri; Miniature,,
@@ -93,21 +93,21 @@ BO0624_81836,133698,91,85,Specchio a tre luci Luigi xIV in legno scolpito e dora
 BO0624_81836,133699,92,86,Quattro ventole Luigi xVI in legno scolpito e dorato. Bella forma.,209,97.7,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133700,93,87,"Parafuoco di forma distinta Luigi xV in legno di bell'intaglio,dorato. Con stoffa.",210,98.2,False,positional,,Periodo di Luigi XV,Quadri; Miniature,,
 BO0624_81836,133701,94,88,"Paravento elegantissimo Luigi XV,in legno scolpito e dorato. Con stoffa.",211,97.9,False,positional,,Periodo di Luigi XV,Quadri; Miniature,,
-BO0624_81836,133702,95,89,"La signora dei garofani. Fine miniatura ovale su avorio, da Rosalba Car- riera.In medaglione di bronzo dorato.",212,77.5,False,positional,ROSALBA CARRIERA,,MINIATURE,,
+BO0624_81836,133702,95,89,"La signora dei garofani. Fine miniatura ovale su avorio, da Rosalba Car- riera.In medaglione di bronzo dorato.",212,77.5,False,positional,CARRIERA ROSALBA,,MINIATURE,,
 BO0624_81836,133703,96,90,"Diana. Fine e bella miniatura ovale su avorio. Cornice nera, cerchio bronzo.",214,98.0,False,positional,,,MINIATURE,,
 BO0624_81836,133704,97,12,tato in oro.,215,88.0,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133705,98,13,"-91. Mosaico circolare rappresentante la testa di Sileno, firmato A. Guatti. Mon-",216,98.0,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133706,99,92,"Fiori. Due piccoli graziosi dipinti circolari del xVill secolo, di scuola francese. Cerchio bronzo dorato.",220,98.6,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133707,100,93,"Grande, antico candelabro persiano in bronzo grafito, di fine artistico lavoro. Pezzo eccezionale da Collezione.",221,98.6,False,positional,,,Quadri; Miniature,,
-BO0624_81836,133708,101,94,"Pomona.Importante, bellissima statua in marmo del xVI secolo. Firmata Ant.Batt.Melegari,1513.",222,83.8,False,positional,,,Quadri; Miniature,,
+BO0624_81836,133708,101,94,"Pomona.Importante, bellissima statua in marmo del xVI secolo. Firmata Ant.Batt.Melegari,1513.",222,83.8,False,positional,,,Quadri; Miniature,,Sec. XVI
 BO0624_81836,133709,102,95,"Due bellissimi e rari vasi cloisonnes antichi, orientali, di finissimo lavoro e bei colori.",227,91.7,False,positional,,,VASI,,
 BO0624_81836,133710,103,96,Due belle colonne in legno scolpito e. dorato del xVI secolo. Pezzi rari.Sono antiche le colonne ed e antica anche la doratura.,233,68.4,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133711,104,97,"Barbieri Giovanni. Sec.xIx. Paese. Grazioso dipinto, bella la frasca, ottimo il cielo. Cornice verde e oro. Cent.20X25.",234,98.7,False,positional,BARBIERI GIANFRANCESCO,,Quadri; Miniature,,
 BO0624_81836,133712,105,98,"Pitocchi (Matteo dai). Sec. XVll. Madre che allatta il bimbo. Cornice dorata, Cent. 60X74. Tela di grande vigoria,forte colorito,verita suggestiva.",235,66.7,False,positional,,,Quadri; Miniature,,
-BO0624_81836,133713,106,99,"Bagnacavallo Bartolomeo. 1484-1542. La Vergine col Bambino, S. Giuseppe e S.Giovannino. Tavola. Cornice dorata.Cent.53X 42.",237,72.0,False,positional,,,Quadri; Miniature,,
+BO0624_81836,133713,106,99,"Bagnacavallo Bartolomeo. 1484-1542. La Vergine col Bambino, S. Giuseppe e S.Giovannino. Tavola. Cornice dorata.Cent.53X 42.",237,72.0,False,positional,,,Quadri; Miniature,,Sec. XVI
 BO0624_81836,133714,107,100,Crespi Gius. Maria detto lo Spagnuolo. Sec.XVIl. La Sacra Cena.Tela.Cornice scolpita e dorata.Cent.58X74.,243,98.1,False,positional,CRESPI DANIELE,,Quadri; Miniature,,
 BO0624_81836,133715,108,101,Tiepolo Giov. Battista. Sec. XVIll. Mose salvato dalle acque. Studio per sof fitto dipinto su tela. Cornice dipinta e dorata. Cent.44X37.,247,98.5,False,positional,TIEPOLO DOMENICO,,Quadri; Miniature,,
-BO0624_81836,133716,109,102,Paolo Veronese. Sec. XVI. Giovine signora veneziana di profilo.Tela. Cor- nice scolpita e dorata.Cent. 36X46.,253,78.2,False,positional,PAOLO VERONESE,,Quadri; Miniature,,
+BO0624_81836,133716,109,102,Paolo Veronese. Sec. XVI. Giovine signora veneziana di profilo.Tela. Cor- nice scolpita e dorata.Cent. 36X46.,253,78.2,False,positional,PAOLO VERONESE,,Quadri; Miniature,,Sec. XVI
 BO0624_81836,133717,110,103,"Scuola Lombarda. Sec. xV. Donne di profilo, con bordi a colonne e ornati con teste di putti. Due tavolette ornamentali in cornici:Cent.38X35.",258,98.5,False,positional,,Scuola Lombarda,CORNICI,,
 BO0624_81836,133718,111,104,Gruppo in bronzo rappresentante un duello.Fine e bella scoltura francese.,262,97.3,False,positional,,,Quadri; Miniature,,
 BO0624_81836,133719,112,105,"Scatola in forma di ventaglio,in porcellana di Dresda marcata, finissima decorazione.Bella e rara.",263,98.0,False,positional,,,Quadri; Miniature,,
@@ -137,8 +137,8 @@ BO0624_81836,133742,135,136,"Inginocchiatoio-seggiola del xVil secolo, in noce."
 BO0624_81836,133743,136,16,"137.Due statuette allegoriche,in terracotta, antiche. Figure di donna.",316,97.8,False,positional,,,Mobili,,
 BO0624_81836,133744,137,138,"Grande batente in bronzo cesellato, formato da una Venere e un Fauno, sormontato da mascherone.",317,97.9,False,positional,,,Mobili,,
 BO0624_81836,133745,138,139,"Scrigno in noce del xVll secolo,a molti tiretti con tiranti in bronzo. Bello e raro mobiletto.",318,83.6,False,positional,,,Mobili,,
-BO0624_81836,133746,139,140,"Grande e bella coperta in seta verde, broccato a fiorami, grappoli d’uva, ecc. Sec. XVIII.",320,91.4,False,positional,,,Mobili,,
-BO0624_81836,133747,140,141,"Grande e bella coperta in seta verde,broccato a fiorami e grappoli d’uva. Sec. XVIII.",322,91.1,False,positional,,,Mobili,,
+BO0624_81836,133746,139,140,"Grande e bella coperta in seta verde, broccato a fiorami, grappoli d’uva, ecc. Sec. XVIII.",320,91.4,False,positional,,,Mobili,,Sec. XVIII
+BO0624_81836,133747,140,141,"Grande e bella coperta in seta verde,broccato a fiorami e grappoli d’uva. Sec. XVIII.",322,91.1,False,positional,,,Mobili,,Sec. XVIII
 BO0624_81836,133748,141,142,"Fucile bellissimo a pietra focaia del Settecento, bella e rara forma. Pezzo da Collezione.",324,97.8,False,positional,,,Mobili,,
 BO0624_81836,133749,142,143,Fucile a pietra focaia con la canna finemente cesellata e intarsii. Sec. XVIll. Pezzo da Collezione.,325,98.0,False,positional,,,Mobili,,
 BO0624_81836,133750,143,144,"Fucile a pietra focaia del Settecento, canna cesellata, calcio intarsiato. Bello eraro.",326,97.6,False,positional,,,Mobili,,
@@ -156,10 +156,10 @@ BO0624_81836,133761,154,155,"Hubert Robert. Secolo xVIll. Convegno di poeti, fon
 BO0624_81836,133762,155,156,Scuola Romana. Sec. xVll. La danza di Salome. Tela. Cornice scolpita.,358,96.9,False,positional,,Scuola Romana,Quadri,,
 BO0624_81836,133763,156,2,Cent.75X100.,359,91.7,False,positional,,,Quadri,,
 BO0624_81836,133764,157,3,157.Ricci Sebastiano. Sec. xVIl. La Cena: tela. Cornice scolpita e dorata. Cent.45X69.,360,98.8,False,positional,SEBASTIANO RICCI,,Quadri,,
-BO0624_81836,133765,158,158,"Cima G.B.da Conegliano. 1460-1517 (2). Busto di San Giovanni, fondo di paese. Tavola. Cornice a pastiglia dorata dellepoca. Cent. 25X29.",364,98.4,False,positional,CIMA DA CONEGLIANO,,Quadri,,
+BO0624_81836,133765,158,158,"Cima G.B.da Conegliano. 1460-1517 (2). Busto di San Giovanni, fondo di paese. Tavola. Cornice a pastiglia dorata dellepoca. Cent. 25X29.",364,98.4,False,positional,CIMA DA CONEGLIANO,,Quadri,,Sec. XV
 BO0624_81836,133766,159,159,Zuccarelli Francesco (Scuola di). Sec. XVlll. Due paesaggi con figure. Tavole in cornici.Cent.23X35.,368,84.5,False,positional,,,CORNICI,,
 BO0624_81836,133767,160,160,"Poli pisano. Sec.xVll. Battaglia medioevale con la scalata di un castello: tela. Cornice antica scolpita e dorata. Cent. 76X104. mportante dipinto di un valentissimo artista nostro le cui opere sono difficili a trovarsi.I suoi quadri hanno, per la maggior parte, passato il confine,venduti sotto nomi francesi o fiamminghi.",372,76.0,False,positional,,,Quadri,,
-BO0624_81836,133768,161,161,Orizzonte (Bloemen Giov.Fr. detto). 1656-1740. Paesaggio con figure. Buon,374,97.1,False,positional,,,Quadri,,
+BO0624_81836,133768,161,161,Orizzonte (Bloemen Giov.Fr. detto). 1656-1740. Paesaggio con figure. Buon,374,97.1,False,positional,,,Quadri,,Sec. XVII
 BO0624_81836,133769,162,162,Vernet Giuseppe. Sec. XVIll. Paese con figure. Tela. Cornice scolpita e do-,376,97.2,False,positional,,,Quadri,,
 BO0624_81836,133770,163,163,Scuola Francese. Sec. XVIll. Ritratto di donna. Tela. Cornice scolpita e dorata.Cent.62X50. nteressante e bel dipinto.,381,85.0,False,positional,,,Quadri,,
 BO0624_81836,133771,164,164,Pannini (Maniera del). Sec. XVill. Mose salvato dalle acque. Buon dipinto,386,97.1,False,positional,,,Quadri,,
@@ -169,8 +169,8 @@ BO0624_81836,133774,167,4,Cent.54X64.,389,90.9,False,positional,,,Quadri,,
 BO0624_81836,133775,168,166,"Scuola Francese. Sec. XVll. Maddalena, dipinto su rame. Cornice scolpita nero e oro.",390,97.5,False,positional,,,Quadri,,
 BO0624_81836,133776,169,167,Scuola Fiamminga.Sec.XVIl. Sacra Famiglia.Tela. Cornice nera. Cent.33X42.,391,97.2,False,positional,,Scuola Fiamminga,Quadri,,
 BO0624_81836,133777,170,168,"Due eleganti e finissimi flaconcini per profumi in antica porcellana poli croma, francese.",399,97.8,False,positional,,,Miniature; Quadri,,
-BO0624_81836,133778,171,2,"169.Pugnaletto,lama d'acciaio brunito e cesellato, impugnatura d'avorio.Secolo XVIII.",400,98.8,False,positional,,,Miniature; Quadri,,
-BO0624_81836,133779,172,170,Dittico in bronzo smaltato.Vergine e Santi. Antica arte russa. Bella medaglia in bronzo di Elena Marsupini con la data 1502. Fine ce,402,68.7,False,positional,,,Miniature; Quadri,,
+BO0624_81836,133778,171,2,"169.Pugnaletto,lama d'acciaio brunito e cesellato, impugnatura d'avorio.Secolo XVIII.",400,98.8,False,positional,,,Miniature; Quadri,,Sec. XVIII
+BO0624_81836,133779,172,170,Dittico in bronzo smaltato.Vergine e Santi. Antica arte russa. Bella medaglia in bronzo di Elena Marsupini con la data 1502. Fine ce,402,68.7,False,positional,,,Miniature; Quadri,,Sec. XVI
 BO0624_81836,133780,173,171,Due finissime cornicette da miniatura rettangolari in avorio e tartaruga.,403,97.3,False,positional,,,MINIATURE,,
 BO0624_81836,133781,174,6,"sello, bella fattura.",404,95.0,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133782,175,173,Piccolo stipo in ebano filettato d’avorio con sei tiretti. Sec. XVIll,405,97.1,False,positional,,,Miniature; Quadri,,
@@ -179,7 +179,7 @@ BO0624_81836,133784,177,175,"Ritratto di giovine.e bella donna, con vezzo di cor
 BO0624_81836,133785,178,2,"fine miniatura ovale su avorio, cerchio bronzo dorato.",411,98.1,False,positional,,,MINIATURE,,
 BO0624_81836,133786,179,3,"176.Giovanna d'Aragona. Fine miniatura ovale su avorio, cerchio bronzo dorato.",412,98.7,False,positional,,,MINIATURE,,
 BO0624_81836,133787,180,4,177.Alfabeto di lettere iniziali inventate e delineate da Mauro Poggi ed incise dall'abate Lorenzo Lorenzi.,413,99.1,False,positional,,,Miniature; Quadri,,
-BO0624_81836,133788,181,178,"Cipriani's rudiments of drawing engraved by F. Bartolozzi.London, 1796, foglio piccolo,oblungo,mezza pergamena. Frontespizio e 9 tavole incisi alla sanguigna,e 9 carte di testo italiano efrancese.Opera divenuta rara e introvabile completa come il presente esemplare.",418,74.0,False,positional,,,Miniature; Quadri,,
+BO0624_81836,133788,181,178,"Cipriani's rudiments of drawing engraved by F. Bartolozzi.London, 1796, foglio piccolo,oblungo,mezza pergamena. Frontespizio e 9 tavole incisi alla sanguigna,e 9 carte di testo italiano efrancese.Opera divenuta rara e introvabile completa come il presente esemplare.",418,74.0,False,positional,,,Miniature; Quadri,,Sec. XVIII
 BO0624_81836,133789,182,179,Piccolo leggio gotico in noce. Interessante e raro.,419,96.1,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133790,183,181,"Due bei vasi in maiolica di Faenza, decorazione bleu. Sec. XVll.",420,96.8,False,positional,,Scuola Faentina,VASI,,
 BO0624_81836,133791,184,182,"Due bei vasi in maiolica di Faenza, decorazione bleu. Sec. xVIlI.",423,96.8,False,positional,,Scuola Faentina,VASI,,
@@ -188,14 +188,14 @@ BO0624_81836,133793,186,184,"Gentildonna bellissima che suona la chitarra. Minia
 BO0624_81836,133794,187,185,"Due battenti in bronzo cesellato, a mascheroni e ornati Rinascimento.",433,97.1,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133795,188,186,Campanello in bronzo cesellato ornato a festoni arricchito di smalti. Se-,435,97.3,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133796,189,187,"Vasetto da the in antica porcellana del Giappone, tappo in argento.",438,97.0,False,positional,,,Miniature; Quadri,,
-BO0624_81836,133797,190,188,"Venere, Amore e un fauno. Smalto finissimo su rame, firmato E.Levy 1866. Rarissimo.Emile Levy,grande artista francese,ebbe fama anche in Italia, guadagno il gran premio di Roma nel 1854, molte medaglie d'oro, ecc.",439,99.0,False,positional,,,Miniature; Quadri,,
+BO0624_81836,133797,190,188,"Venere, Amore e un fauno. Smalto finissimo su rame, firmato E.Levy 1866. Rarissimo.Emile Levy,grande artista francese,ebbe fama anche in Italia, guadagno il gran premio di Roma nel 1854, molte medaglie d'oro, ecc.",439,99.0,False,positional,,,Miniature; Quadri,,Sec. XIX
 BO0624_81836,133798,191,189,Grande e bellissima fioriera in rame di forma elegante con bella maniglia in bronzo. Sec. XVIl.,440,97.9,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133799,192,190,"Giovine donna. Grande, finissimo mosaico in cornice scolpita e dorata.",441,97.1,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133800,193,191,Poussin G. Sec. xVll. Paesaggio con scena mitologica. Tela. Cornice scolpita e dorata. Cent.51X60.,446,97.8,False,positional,POUSSIN NICOLAS,,Miniature; Quadri,,
 BO0624_81836,133801,194,192,Vanvitelli Gaspare. Sec. Xvill. Paese con animali al pascolo. Fine dipinto su tela.Cornice scolpita e dorata.Cent.30X40.,450,98.3,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133802,195,193,Scuola Francese. Sec. xVill. Sacra Famiglia.Tela. Cornice scolpita e dorata. Cent.59X46.,451,90.4,False,positional,,,Miniature; Quadri,,
-BO0624_81836,133803,196,194,Piazzetta G. B. Sec. XVll. Vecchio e fanciulla. Tela. Cornice scolpita e dorata.Cent. 60X47.,456,97.7,False,positional,,,Miniature; Quadri,,
-BO0624_81836,133804,197,195,Patenier Gioachino. 1487-1522. Paesaggio con San Gerolamo in orazione. Tavola.Cornice dorata.Cent.33X43.,460,78.4,False,positional,,,Miniature; Quadri,,
+BO0624_81836,133803,196,194,Piazzetta G. B. Sec. XVll. Vecchio e fanciulla. Tela. Cornice scolpita e dorata.Cent. 60X47.,456,97.7,False,positional,PIAZZETTA JEAN-BAPTISTE,,Miniature; Quadri,,
+BO0624_81836,133804,197,195,Patenier Gioachino. 1487-1522. Paesaggio con San Gerolamo in orazione. Tavola.Cornice dorata.Cent.33X43.,460,78.4,False,positional,,,Miniature; Quadri,,Sec. XVI
 BO0624_81836,133805,198,196,Callot Giacomo. Sec. xVll.L'albero della cuccagna: festa campestre. Tela. Cornice scolpita e dorata. Cent. 33X43.,465,76.8,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133806,199,197,"Watteau Antonio. Sec. XVill. Ratto d'Europa, fondo di paesaggio. Tela. Cornice dorata.Cent.27×35.",472,97.8,False,positional,WATTEAU FRANCOIS,,Miniature; Quadri,,
 BO0624_81836,133807,200,198,Carbone G. Bern. Sec. xVll. Ritratto di gentildonna. Tela. Cornice scolpita e dorata.Cent. 60×50.,477,97.8,False,positional,,,Miniature; Quadri,,
@@ -216,7 +216,7 @@ BO0624_81836,133821,214,212,"S.Giovanni. Bellaltorilievo in bronzo, da Donatello
 BO0624_81836,133822,215,213,Giovine dama di profilo in capelli biondi e fiori rossi nei capelli. Fine miniatura ovale su avorio in medaglione di bronzo dorato.,519,98.5,False,positional,,,MINIATURE,,
 BO0624_81836,133823,216,214,Paesaggi con architettura. Grazioso dipinto circolare del Pannini. Cornice,520,97.3,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133824,217,215,Miss Mirtill. Fine miniatura ovale su avorio in medaglione di bronzo dorato.,522,97.4,False,positional,,,MINIATURE,,
-BO0624_81836,133825,218,216,"Due bei vasi in maiolica di Faenza, decorazione bleu. Sec. XVII.",523,96.8,False,positional,,Scuola Faentina,VASI,,
+BO0624_81836,133825,218,216,"Due bei vasi in maiolica di Faenza, decorazione bleu. Sec. XVII.",523,96.8,False,positional,,Scuola Faentina,VASI,,Sec. XVII
 BO0624_81836,133826,219,217,"Due bei vasi in maiolica di Faenza, decorazione bleu. Sec. XVlI.",524,96.8,False,positional,,Scuola Faentina,VASI,,
 BO0624_81836,133827,220,218,Marzocco:leoncino che regge uno stemma. Bronzo.,525,95.7,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133828,221,219,Cachepot in rame sbalzato.,526,92.6,False,positional,,,Miniature; Quadri,,
@@ -232,7 +232,7 @@ BO0624_81836,133837,230,228,Scatola in cuoio con figure in cuoio sbalzato e colo
 BO0624_81836,133838,231,229,Piccolo armadietto in noce. Sec. xVI.,544,94.4,False,positional,,,Mobili,,
 BO0624_81836,133839,232,230,Seggiola in noce scolpito Rinascimento.,545,95.0,False,positional,,,Mobili,,
 BO0624_81836,133840,233,231,Seggiola in noce scolpito Luigi xV.,546,94.4,False,positional,,Periodo di Luigi XV,Mobili,,
-BO0624_81836,133841,234,232,"Ricco piatto di rame argentato, a sbalzo, di bellissima modellazione e fine esecuzione. Sec. XVII.",547,85.9,False,positional,,,Mobili,,
+BO0624_81836,133841,234,232,"Ricco piatto di rame argentato, a sbalzo, di bellissima modellazione e fine esecuzione. Sec. XVII.",547,85.9,False,positional,,,Mobili,,Sec. XVII
 BO0624_81836,133842,235,233,"Vaso veneziano del xVll secolo, terracotta nera con figure in rosso; il co- perchio e sormontato da un leoncino.",552,78.3,False,positional,,,VASI,,
 BO0624_81836,133843,236,234,"Due mattonelle in maiolica d'Abruzzo,decorazioni policrome, rappresentanti S. Giovanni e S.Antonio. Sec. XVll.",557,98.1,False,positional,,,Mobili,,
 BO0624_81836,133844,237,235,Specchio Luigi XiV di elegante e rara forma in legno scolpito e dorato.,561,97.2,False,positional,,Periodo di Luigi XIV,Mobili,,
@@ -242,15 +242,15 @@ BO0624_81836,133847,240,238,"Due bei vasi in maiolica di Faenza, decorazione ble
 BO0624_81836,133848,241,239,"Cassapanca gotica con spalliera alta, in noce intarsiata alla certosina.",565,97.2,False,positional,,,Mobili,,
 BO0624_81836,133849,242,240,Bellissimo armadio in noce decorato a formelle dette a 《punta di diamante* a due corpi. Sec. XVll.,569,85.2,False,positional,,,Mobile,,
 BO0624_81836,133850,243,241,"Piccolo arazzo in seta.Incontro di due donne. Fine esecuzione, arte ita liana del xVI secolo. In cornice.",574,98.1,False,positional,,,Mobile,,
-BO0624_81836,133851,244,242,Piccolo armadietto in noce. Sec. XVI.,577,94.4,False,positional,,,Mobili,,
-BO0624_81836,133852,245,243,"Busto d'uomo in terracotta dorata del XVI secolo, di magnifica modellazione. Pezzo raro da Museo.",578,97.9,False,positional,,,Mobili,,
-BO0624_81836,133853,246,244,Busto d'uomo in terracotta dorata del XVI secolo. di magnifica modellazione. Pezzo raro da Museo.,579,86.0,False,positional,,,Mobili,,
+BO0624_81836,133851,244,242,Piccolo armadietto in noce. Sec. XVI.,577,94.4,False,positional,,,Mobili,,Sec. XVI
+BO0624_81836,133852,245,243,"Busto d'uomo in terracotta dorata del XVI secolo, di magnifica modellazione. Pezzo raro da Museo.",578,97.9,False,positional,,,Mobili,,Sec. XVI
+BO0624_81836,133853,246,244,Busto d'uomo in terracotta dorata del XVI secolo. di magnifica modellazione. Pezzo raro da Museo.,579,86.0,False,positional,,,Mobili,,Sec. XVI
 BO0624_81836,133854,247,245,"Bel calice gotico in bronzo cesellato, con nielli Pezzo raro da Museo.",581,97.1,False,positional,,,Mobili,,
 BO0624_81836,133855,248,246,"Interessante e rara fruttiera in maiolica di Pavia, imitazione della malachite. Sec.XVIII.",582,97.8,False,positional,,,Mobili,,
 BO0624_81836,133856,249,247,"Coperta antica in seta verde a striscie rosse, con frangia.",583,96.6,False,positional,,,Mobili,,
 BO0624_81836,133857,250,8,"248 Coperta antica in filaticcio di seta rosso damascato, con frangia.",584,98.6,False,positional,,,Mobili,,
 BO0624_81836,133858,251,249,"Trono in noce scolpito con squisita arte, di carattere toscano. Rinascimento. Mobile magnifico,principesco.",585,81.8,False,title_direct,,,Mobile,,
-BO0624_81836,133859,252,250,"Bauletto in ferro battuto e velluto rosso. Sec. XVI. Oggetto bello e raro, da raccolta.",587,97.6,False,positional,,,Mobili,,
+BO0624_81836,133859,252,250,"Bauletto in ferro battuto e velluto rosso. Sec. XVI. Oggetto bello e raro, da raccolta.",587,97.6,False,positional,,,Mobili,,Sec. XVI
 BO0624_81836,133860,253,251,Quattro Evangelisti. Statuette in terracotta policroma del XVlI secolo.,588,97.2,False,positional,,,Mobili,,
 BO0624_81836,133861,254,252,Scuola Fiamminga. Sec. XVll. Ritratto di donna. Buon dipinto su tela. Cor- nice legno scolpito e dorato. Cent. 49×37.,592,75.6,False,positional,,Scuola Fiamminga,Quadri,,
 BO0624_81836,133862,255,253,Chardin G. B. Sec. XVll. Fiori e frutta. Due bellissimi dipinti su tela. Cor- nici nere guillochees. Cent. 38x48.,594,79.1,False,positional,CHARDIN J.B.S.,,Quadri,,
@@ -288,26 +288,26 @@ BO0624_81836,133893,286,281,Arcioni H.Giovine donna con scialle nero e vezzo di 
 BO0624_81836,133894,287,282,Rossini Angelo. A Villa d'Este. Bel dipinto firmato. Cornice legno scolpito e dorato.Cent.48×32.,657,85.7,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133895,288,283,Rossini Angelo.A Villa d'Este. Bel dipinto firmato. Cornice legno scolpito e dorato.Cent.48x32.,659,85.7,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133896,289,284,"Zuccheriera a vaschetta in argento cesellato del xvlll secolo, coperchio sormontato da Bacco bambino. Gr.332.",661,98.1,False,positional,,,Miniature; Quadri,,
-BO0624_81836,133897,290,285,"Ritratto di gentiluomo. Finissima miniatura circolare su avorio,cerchio oro. Sec. XVIII.",665,97.7,False,positional,,,MINIATURE,,
+BO0624_81836,133897,290,285,"Ritratto di gentiluomo. Finissima miniatura circolare su avorio,cerchio oro. Sec. XVIII.",665,97.7,False,positional,,,MINIATURE,,Sec. XVIII
 BO0624_81836,133898,291,286,Giovine donna con una colomba. Grande e bellissima miniatura rettango,666,97.1,False,positional,,,MINIATURE,,
-BO0624_81836,133899,292,287,"Tacchino in bronzo bellissimo di carattere Giambolognesco. lare su avorio, da Rosalba Carriera. Cornice nera.",667,68.7,False,positional,ROSALBA CARRIERA,,Miniature; Quadri,,
+BO0624_81836,133899,292,287,"Tacchino in bronzo bellissimo di carattere Giambolognesco. lare su avorio, da Rosalba Carriera. Cornice nera.",667,68.7,False,positional,CARRIERA ROSALBA,,Miniature; Quadri,,
 BO0624_81836,133900,293,288,Barbieri Giov. Sec. XIx. Paese. Bellissimo dipinto. Cornice. dorata.Cent.45×37.,669,83.1,False,positional,BARBIERI GIANFRANCESCO,,Miniature; Quadri,,
 BO0624_81836,133901,294,289,Longhi Aless. Sec. XVill. Ritratto di gentiluomo. Tela. Cornice scolpita e,671,97.2,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133902,295,290,"Wouwermans Giovanni. Sec. XVll. Paese con figure. Bellissimo dipinto,a",676,97.1,False,positional,WOUWERMAN PHILIPS,,Miniature; Quadri,,
 BO0624_81836,133903,296,291,Zuccarelli Francesco. Sec. xVill. Paesaggio con figure. Tela. Cornice scol pita e dorata.Cent. 55x72.,677,97.9,False,positional,,,Miniature; Quadri,,
-BO0624_81836,133904,297,292,Magnasco Alessandro detto il Lisandrino. Sec. xVill. Piazza d'un villaggio bergamasco in un giorno di fiera. Tela. Cornice nera guillochee. Cent. 28x37.,683,98.6,False,positional,,,Miniature; Quadri,,
+BO0624_81836,133904,297,292,Magnasco Alessandro detto il Lisandrino. Sec. xVill. Piazza d'un villaggio bergamasco in un giorno di fiera. Tela. Cornice nera guillochee. Cent. 28x37.,683,98.6,False,positional,PIAZZETTA JEAN-BAPTISTE,,Miniature; Quadri,,
 BO0624_81836,133905,298,293,Grande smalto veneziano del duecento rappresentante S. Marco. In antica ed elegante cornice a pastiglia.,687,98.1,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133906,299,294,"Due grandi bellissimi vasi di antica porcellana della China, famiglia verde, decorazione finissima di figure, ornati, ecc., in colori e oro.",691,98.5,False,positional,,,VASI,,
-BO0624_81836,133907,300,295,Mortaio in bronzo di fine cesello. Sec. XVI.,692,95.3,False,positional,,,Miniature; Quadri,,
+BO0624_81836,133907,300,295,Mortaio in bronzo di fine cesello. Sec. XVI.,692,95.3,False,positional,,,Miniature; Quadri,,Sec. XVI
 BO0624_81836,133908,301,296,"Cofanetto, decorato da fini e bellissimi acquerelli veneziani del xVlll secolo. Pezzo da Collezione.",693,98.0,False,positional,,,ACQUEFORTI,,
 BO0624_81836,133909,302,297,"Scatola circolare in fine smalto di Lille, bella e ricca decorazione. Pezzo di eccezionale bellezza.",694,79.8,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133910,303,298,"Due bei piatti in porcellana della China, finissima decorazione, famiglia verde.",696,97.5,False,positional,,,PIATTI,,
 BO0624_81836,133911,304,7,"299.Leggio da tavolo scolpito e dorato,bella forma, Rinascimento.",697,98.4,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133912,305,300,"Due ventole con specchi in legno scolpito e dorato, stile barocco,ricche, bellissime.",698,90.4,False,positional,,,SPECCHI,,
 BO0624_81836,133913,306,301,"Gandolfi Gaetano. Sec. XVill. Le ultime ore di S. Giuseppe. Cent. 76x44. Dipinto da galleria. Gaetano Gandotfi, non inferiore a nessun maestro del tempo suo, piu delicato ma non meno vigoroso di G. B. Tiepolo. pone in evidenza in questo attraente quadro le sue qualita di disegnatore inarrivabile di colorista equilibrato.",702,99.4,False,positional,TIEPOLO DOMENICO,,Miniature; Quadri,,
-BO0624_81836,133914,307,302,Schiavone Andrea. Sec. XVI. San Rocco e altri due pellegrini. Fondo di paesaggio. Tela.Ricca cornice dorata antica. Cent. 96x128.,703,69.1,False,positional,,,Miniature; Quadri,,
+BO0624_81836,133914,307,302,Schiavone Andrea. Sec. XVI. San Rocco e altri due pellegrini. Fondo di paesaggio. Tela.Ricca cornice dorata antica. Cent. 96x128.,703,69.1,False,positional,,,Miniature; Quadri,,Sec. XVI
 BO0624_81836,133915,308,303,Lorenzo da San Severino. Sec. XV.La Vergine col Bambino. Tavola a fondo oro.Cornice dorata.Cent.48×35.,708,98.0,False,positional,,,Miniature; Quadri,,
-BO0624_81836,133916,309,304,"Zenale Bernardo. Sec. XV. La Vergine in trono col Bambino, Santi e An- geli. Fondo d'architettura. Tempera. Cornice originale di legno scolpito e dorato.Cent.127×160.",713,73.6,False,positional,,,Miniature; Quadri,,
+BO0624_81836,133916,309,304,"Zenale Bernardo. Sec. XV. La Vergine in trono col Bambino, Santi e An- geli. Fondo d'architettura. Tempera. Cornice originale di legno scolpito e dorato.Cent.127×160.",713,73.6,False,positional,,,Miniature; Quadri,,Sec. XV
 BO0624_81836,133917,310,305,Due grandi e belle lampade fiorentine antiche in ottone.,717,96.5,False,positional,,,LAMPADE,,
 BO0624_81836,133918,311,306,"Anfora e bacinella in porcellana di Capodimonte, decorazione policroma a rilievo. Marcate.",718,86.2,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133919,312,307,Grande vassoio finemente geminiato in argento.,723,95.7,False,positional,,,Miniature; Quadri,,
@@ -324,14 +324,14 @@ BO0624_81836,133929,322,315,Lessi Giovanni. Boulevard Montmartre a Parigi. Dipin
 BO0624_81836,133930,323,316,Corelli Filiberto.Ciociara.Bellacquerello firmato.Cornice dorata.Cent.52X33.,738,97.4,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133931,324,317,"Dodici bicchierini in finissimo cristallo di Boemia, molati.",739,96.7,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133932,325,318,"Nove bicchierini in finissimo cristallo di Boemia, molati.",740,96.6,False,positional,,,Miniature; Quadri,,
-BO0624_81836,133933,326,12,"319, Ritratto di donna. Miniatura di finezza rara, su avorio, di forma ovale (circa 1840). Cerchio bronzo.",741,98.5,False,title_direct,,,Miniature,,
+BO0624_81836,133933,326,12,"319, Ritratto di donna. Miniatura di finezza rara, su avorio, di forma ovale (circa 1840). Cerchio bronzo.",741,98.5,False,title_direct,,,Miniature,,Sec. XIX
 BO0624_81836,133934,327,320,Ritratto di vecchio gentiluomo. Piccolo e fine dipinto ovale su tela. Cor- nice nera.,742,91.0,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133935,328,321,Ritratto di donna. Piccolo rame ovale fiammingo in cornice nera. Sec. XVIl.,744,97.3,False,positional,,,Miniature; Quadri,,
 BO0624_81836,133936,329,322,"Costumi italiani, toscani. Tre stampe a colori, antiche.",751,96.3,False,positional,,,STAMPE E INCISIONI,,
 BO0624_81836,133937,330,323,"Tognina, curiosa stampa del xVIll secolo; Piattoli. Le donne per parer belle; Mercantessa di mode. In tutto tre incisioni interessanti",752,67.0,False,title_direct,,,Incisioni,,
 BO0624_81836,133938,331,324,Mitelli. Proverbi illustrati. Diciannove incisioni interessanti del xVll secolo.,754,97.5,False,title_direct,,,Incisioni,,
 BO0624_81836,133939,332,325,"Soggetti galanti, due bellissime incisioni di N. F. Regnault. In cornici.",755,97.1,False,title_direct,,,Incisioni,,
-BO0624_81836,133940,333,326,"Idee di paesi. Sette acqueforti di A. M. Monti. Sec. XVlll. 326bis. Sette disegni fiamminghi del XVI secolo,in cornici.",757,68.2,False,positional,,,ACQUEFORTI,,
+BO0624_81836,133940,333,326,"Idee di paesi. Sette acqueforti di A. M. Monti. Sec. XVlll. 326bis. Sette disegni fiamminghi del XVI secolo,in cornici.",757,68.2,False,positional,,,ACQUEFORTI,,Sec. XVI
 BO0624_81836,133941,334,327,"Piccolo busto d'uomo, antico bronzo inglese.",761,95.5,False,positional,,,Mobili,,
 BO0624_81836,133942,335,328,San Pietro. Statuetta in bronzo con piedestallo.,762,95.8,False,positional,,,Mobili,,
 BO0624_81836,133943,336,329,Campanello antico in bronzo in forma di un astrologo.,763,96.3,False,positional,,,Mobili,,
@@ -357,14 +357,14 @@ BO0624_81836,133962,355,348,Scuola Lombarda.Sec.xVll.Fiori.Tela in cornice dipin
 BO0624_81836,133963,356,349,Scuola Bergamasca. Sec. XVll. Frutta. Due dipinti su tela. Cornici scolpite e dorate.Cent.40×60. scolpita.,791,93.3,False,positional,,Scuola Bergamasca,CORNICI,,
 BO0624_81836,133964,357,350,Disegno antico da Alberto Durer: Gesu cade sotto la croce. In cornice,793,97.1,False,positional,DURER ALBRECHT,,Quadri,,
 BO0624_81836,133965,358,351,"Disegno antico,maniera di Michelangelo: studio di nudo.In cornice scolpita.",794,97.3,False,positional,CARAVAGGIO,,Quadri,,
-BO0624_81836,133966,359,352,Pieta. Disegno veneziano del XVI secolo in cornice scolpita.,795,96.7,False,positional,,,Quadri,,
+BO0624_81836,133966,359,352,Pieta. Disegno veneziano del XVI secolo in cornice scolpita.,795,96.7,False,positional,,,Quadri,,Sec. XVI
 BO0624_81836,133967,360,353,Apoteosi d'un santo. Tocco in penna del xVll secolo. Cornice scolpita..,796,97.1,False,positional,,,Quadri,,
 BO0624_81836,133968,361,354,"Magiotto. Sec. xVill. Levantino. Dipinto su pergamena, molto bello. Cornice dellepoca.Cent.3224.",797,97.8,False,positional,,,Quadri,,
 BO0624_81836,133969,362,355,Scuola di Rubens. Sec.xVll. Venere dormente. Cornice scolpita e dorata. Cent.47×61.,798,89.9,False,positional,RUBENS PETER PAUL,Scuola di Rubens,Quadri,,
 BO0624_81836,133970,363,356,Bassano (Scuola del). Sec. XVll. La presentazione di Maria al tempio.Tela.,804,97.1,False,positional,BASSANO GIACOMO,Scuola di Bassano,Quadri,,
 BO0624_81836,133971,364,357,Scuola Bolognese. Sec. xVll. Fiori. Tela. Cornice dorata. Cent. 58 ×88.,805,96.9,False,positional,,Scuola Bolognese,Quadri,,
 BO0624_81836,133972,365,358,Brill Paolo. Sec. XVll. Martirio di S. Domenico. Fondo di paesaggio.Tela. Cornice dorata.Cent.80x150.,809,97.9,False,positional,BRIL PAUL,,Quadri,,
-BO0624_81836,133973,366,359,Longhi P. Sec.xVIll (?). Maschere veneziane. Tela. Cornice scolpita e dorata. nteressante e buon dipinto.,810,81.4,False,positional,,,Quadri,,
+BO0624_81836,133973,366,359,Longhi P. Sec.xVIll (?). Maschere veneziane. Tela. Cornice scolpita e dorata. nteressante e buon dipinto.,810,81.4,False,positional,LONGHI PIETRO,,Quadri,,
 BO0624_81836,133974,367,360,Zuccari Federico. Sec.XVI. Santa Cecilia circondata da Angeli. Tela. Cor-,815,97.1,False,positional,,,Quadri,,
 BO0624_81836,133975,368,361,Bassano (Jacopo da Ponte). Sec. XVll. San Giorgio distribuisce il latte ai poveri.Tela. Cornice dorata.Cent.158X105. Domenichino (Scuola del). Sec. xVll. Giuditta;- Salome. Due tavolette ovali in cornici dorate.Cent.36X27. Sirani Elisabetta.Sec.XVIl. S.Maddalena.Tela.Cornice dorata. Cent.32X25,817,56.0,False,positional,BASSANO GIACOMO,Scuola del Domenichino,CORNICI,,
 BO0624_81836,133976,369,364,Scuola Napoletana. Sec. XVll. Gesu flagellato. Tela.Cent. 46X41.,820,96.7,False,positional,,Scuola Napoletana,Quadri,,
@@ -375,7 +375,7 @@ BO0624_81836,133980,373,368,Tani E.Ciociara.Due bellissimi acquarelli firmati. C
 BO0624_81836,133981,374,369,Rossini A.Studio di bosco a Tivoli. Bel dipinto firmato. Cornice legno scol pito e dorato.Cent.48X32.,830,83.4,False,positional,ROOS PHILIPP PETER,,Quadri,,
 BO0624_81836,133982,375,370,Rossini A. Studio di alberi a Villa d'Este. Bel dipinto firmato.Cornice legno scolpito e dorato.Cent. 40X32.,832,98.1,False,positional,,,Quadri,,
 BO0624_81836,133983,376,371,"Serafino da Tivoli. Paesaggio. Bel dipinto su tela, firmato. Cornice noce. Cent.35X50.",833,97.6,False,positional,DE TIVOLI SERAFINO,,Quadri,,
-BO0624_81836,133984,377,372,Domenico Induno. Episodio detla campagna di Roma nel 1849. Tavola. Cor-,834,97.1,False,positional,,,Quadri,,
+BO0624_81836,133984,377,372,Domenico Induno. Episodio detla campagna di Roma nel 1849. Tavola. Cor-,834,97.1,False,positional,,,Quadri,,Sec. XIX
 BO0624_81836,133985,378,7,nice dorata.Cent.44X61.,835,95.7,False,positional,,,Quadri,,
 BO0624_81836,133986,379,8,"Ottimo dipinto,interessante pel soggetto,disegno classico,colorito fre-",836,98.6,False,positional,,,Quadri,,
 BO0624_81836,133987,380,9,sco e vivace.,837,92.3,False,positional,,,Quadri,,
@@ -410,7 +410,7 @@ BO0624_81836,134015,408,398,Palizzi Filippo. Capre al pascolo. Magnifico dipinto
 BO0624_81836,134016,409,399,Mancini Carlo. Paesaggio. Tela. Cornice dorata. Cent.26X35. Bel dipinto del grande ericercato paesista lombardo.,880,65.9,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134017,410,400,"Ritratto di Paolina Borghese.Fine miniatura ovale su avorio, in medaglione",882,97.3,False,positional,,,MINIATURE,,
 BO0624_81836,134018,411,19,di bronzo dorato.,883,91.4,False,positional,,,Miniature; Quadri,,
-BO0624_81836,134019,412,20,"401.Finissimo Smalto di Limoges di Em. Landin, firmato, rappresentante San Domenico. In cornice dorata. Sec. XVI.",884,98.6,False,positional,,,Miniature; Quadri,,
+BO0624_81836,134019,412,20,"401.Finissimo Smalto di Limoges di Em. Landin, firmato, rappresentante San Domenico. In cornice dorata. Sec. XVI.",884,98.6,False,positional,,,Miniature; Quadri,,Sec. XVI
 BO0624_81836,134020,413,21,"Pezzo da Collezione, originale, antico, raro.",885,96.5,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134021,414,402,Marina. Finissimo dipinto circolare di Giov. Barbieri. Cornice nera.,886,97.0,False,positional,BARBIERI GIANFRANCESCO,,Miniature; Quadri,,
 BO0624_81836,134022,415,404,"Giovine donna a mezzo busto. Miniatura di finezza eccezionale, vero ca-",887,97.1,False,title_direct,,,Miniature,,
@@ -425,16 +425,16 @@ BO0624_81836,134030,423,411,"Donna a mezzo busto che tiene un bicchiere di vino,
 BO0624_81836,134031,424,412,"Salvator Rosa. Sec. XVll. Battaglia.Tela. Cornice nera e oro. Cent.72X135. Dipinto da galleria, ammirevole per la bella, gaia armonia dei colori e pel movimento,la vita,che il pittore ha saputo infondervi.E' del periodo piu distinto del sommo artista. Della epoca di questa nostra tela e la bat taglia di Salvator Rosa esposta agli &amp; Uffizi in una delle piccole sale. Sara utile il confronto.",911,90.1,False,positional,ROSA SALVATOR,,Miniature; Quadri,,
 BO0624_81836,134032,425,413,Salvator Rosa. Sec. XVll. Battaglia. Cornice nera e oro. Cent.75X135. Pendant alla precedente.,912,81.8,False,positional,ROSA SALVATOR,,Miniature; Quadri,,
 BO0624_81836,134033,426,414,"Scuola Umbra. La Vergine che adora il Bambino, San Giuseppe e San Giovannino. Fondo di paesaggio. Tavola circolare. Cornice antica a fruttami ed ornati.Diametro cent. 107.",914,98.8,False,positional,,Scuola Umbra,Miniature; Quadri,,
-BO0624_81836,134034,427,415,Tiziano Vecellio. Sec. XVI. La Vergine delle rose. Tela. Cornice dorata.,918,97.1,False,positional,TIZIANO VECELLIO,,Miniature; Quadri,,
+BO0624_81836,134034,427,415,Tiziano Vecellio. Sec. XVI. La Vergine delle rose. Tela. Cornice dorata.,918,97.1,False,positional,TIZIANO VECELLIO,,Miniature; Quadri,,Sec. XVI
 BO0624_81836,134035,428,2,Cent.67X97.,919,90.9,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134036,429,I,"mportante dipinto, ispirato alla Madonna delle Ciliege di Tiziano che trovasi ora nel Museo di Vienna. E' opera di un valente allievo, probabil mente eseguita nello stesso studio di Tiziano, sotto la guida del maestro.",921,99.8,False,positional,TIZIANO VECELLIO,,Miniature; Quadri,,
 BO0624_81836,134037,430,416,Beccaruzzi Francesco. Sec. xVI. Gentiluomo con cane. Tela. Cornice scol- pita e dorata. Cent. 73X63.,923,82.0,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134038,431,417,Scuola Veneziana Primitiva. La Vergine col Bambino. Tavola senza cornice.,928,97.2,False,positional,,Scuola Veneziana,Miniature; Quadri,,
-BO0624_81836,134039,432,2,418.Zelotti Battista. Sec. XVI. Salome e S. Giovanni. Fondo di architettura.,929,98.6,False,positional,,,Miniature; Quadri,,
+BO0624_81836,134039,432,2,418.Zelotti Battista. Sec. XVI. Salome e S. Giovanni. Fondo di architettura.,929,98.6,False,positional,,,Miniature; Quadri,,Sec. XVI
 BO0624_81836,134040,433,3,Cornice scolpita e dorata.Cent. 140x100.,930,97.4,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134041,434,419,Jordaens. Sec. XVIl. Sileno. Tela. Cornice nera. Cent. 100X83.,934,96.4,False,positional,JORDAENS JACQUES,,Miniature; Quadri,,
-BO0624_81836,134042,435,421,Scuola Lombarda. Sec. XV. L'adorazione dei Magi. Tempera. Cornice dorata. Cent.83X70.,940,97.5,False,positional,,Scuola Lombarda,Miniature; Quadri,,
-BO0624_81836,134043,436,422,"Ritratto di Luisa di Berry, reggente il Ducato di Parma dal 1854 al 1859. Rarissimo smalto di interesse storico, eseguito in occasione delle nozze di",944,98.6,False,positional,,,Miniature; Quadri,,
+BO0624_81836,134042,435,421,Scuola Lombarda. Sec. XV. L'adorazione dei Magi. Tempera. Cornice dorata. Cent.83X70.,940,97.5,False,positional,,Scuola Lombarda,Miniature; Quadri,,Sec. XV
+BO0624_81836,134043,436,422,"Ritratto di Luisa di Berry, reggente il Ducato di Parma dal 1854 al 1859. Rarissimo smalto di interesse storico, eseguito in occasione delle nozze di",944,98.6,False,positional,,,Miniature; Quadri,,Sec. XIX
 BO0624_81836,134044,437,423,La Vergine col Bambino e San Giovannino. Bella e fine miniatura circo-,946,97.1,False,positional,,,MINIATURE,,
 BO0624_81836,134045,438,424,Paesaggio circolare. Finissimo piccolo dipinto di F. Zuccarelli. Montato,948,97.2,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134046,439,425,"Paesaggio con figure. Piccolo dipinto su tavola di Antonio Basoli. Cornice nera, cerchio bronzo.",952,97.9,False,positional,,,Miniature; Quadri,,
@@ -447,10 +447,10 @@ BO0624_81836,134052,445,431,Maldarelli. Autoritratto. Tela.Cornice dorata. Cent.
 BO0624_81836,134053,446,432,"Otto figurini di mode antichi e ventinove stampe di costumi, a colori sioni dell'epoca.",970,86.6,False,positional,,,STAMPE E INCISIONI,,
 BO0624_81836,134054,447,433,Lotto di quarantotto ritratti di personaggi italiani del xVlll secolo. Inci-,972,97.4,False,positional,,,Mobili; Incisioni,,
 BO0624_81836,134055,448,434,"Paesaggio, incisione da un disegno del Watteau.Sec. XVIll. In passe-p soat. Due incisioni (una da Canaletto): soggetti veneziani del xVilI seco Lotto di nove disegni diversi.",973,58.9,False,title_direct,WATTEAU FRANCOIS,,Incisioni,,
-BO0624_81836,134056,449,437,"Cinque incisioni a colori, di paesaggio, antiche. Due bei vasi in maiolica di Faenza, decorazione bleue. Sec. XVI Due bei vasi in maiolica di Faenza, decorazione bleue. Sec. XVI",977,52.6,False,title_direct,,Scuola Faentina,Incisioni,,
+BO0624_81836,134056,449,437,"Cinque incisioni a colori, di paesaggio, antiche. Due bei vasi in maiolica di Faenza, decorazione bleue. Sec. XVI Due bei vasi in maiolica di Faenza, decorazione bleue. Sec. XVI",977,52.6,False,title_direct,,Scuola Faentina,Incisioni,,Sec. XVI
 BO0624_81836,134057,450,440,"Zuppiera di forma rara e bella in maiolica di Lodi,decorazione Sec. xVIII,",979,97.3,False,positional,,,Mobili; Incisioni,,
 BO0624_81836,134058,451,441,"Due bellissimi boccali in maiolica di Lodi, decorazione di rose. Sec.",980,97.1,False,positional,,,Mobili; Incisioni,,
-BO0624_81836,134059,452,442,"Due graziosi vasetti con coperchio in antica maiolica di Faenza. de Graziosa cestina per pane in plaque di buona argentatura. Saliera di bella forma in maiolica di Faenza, decorazione policroma. Sec. X Pezzo da Collezione.",991,59.6,False,positional,,Scuola Faentina,Mobili; Incisioni,,
+BO0624_81836,134059,452,442,"Due graziosi vasetti con coperchio in antica maiolica di Faenza. de Graziosa cestina per pane in plaque di buona argentatura. Saliera di bella forma in maiolica di Faenza, decorazione policroma. Sec. X Pezzo da Collezione.",991,59.6,False,positional,,Scuola Faentina,Mobili; Incisioni,,Sec. X
 BO0624_81836,134060,453,445,Poltrona dantesca in noce scolpita e cuoio.,992,95.5,False,positional,,,POLTRONE,,
 BO0624_81836,134061,454,446,Poltrona dantesca in noce scolpita e cuoio.,995,95.5,False,positional,,,POLTRONE,,
 BO0624_81836,134062,455,447,"Cassoncino in noce scolpito con spalliera, forma elegante, classica, rara: Rinascimento.",996,97.6,False,positional,,,Mobili; Incisioni,,
@@ -466,7 +466,7 @@ BO0624_81836,134071,464,456,Biel C. (?) Maniera del Pannini. Sec.XVll. Paese con
 BO0624_81836,134072,465,457,Nuvolone. Sec.xVll. La Vergine in gloria e San Domenico. Tela. Cornice. Cent.37x32.,1011,89.8,False,positional,,,Quadri,,
 BO0624_81836,134073,466,458,"Simone Contarini da Pesaro. Sec.XVll. La Sacra Famiglia,fondo di paesaggio. Cornice scolpita, dipinta e dorata.Cent. 30X24.Buon dipinto su rame di esecuzione accurata,bella gamma di colori,disegno piacevole,spigliato.",1013,78.2,False,positional,,,Quadri,,
 BO0624_81836,134074,467,459,Scuola Bolognese. Sec. xVll. Scena biblica. Tela. Cornice verde e oro. Cent.30X41.,1015,97.4,False,positional,,Scuola Bolognese,Quadri,,
-BO0624_81836,134075,468,460,"Scuola Bergamasca. Sec XVI. Bozzetto su tela per pala d'altare. Cornice. Cent. 30x26.Vigoroso,interessante e bello.",1016,98.2,False,positional,,Scuola Bergamasca,Quadri,,
+BO0624_81836,134075,468,460,"Scuola Bergamasca. Sec XVI. Bozzetto su tela per pala d'altare. Cornice. Cent. 30x26.Vigoroso,interessante e bello.",1016,98.2,False,positional,,Scuola Bergamasca,Quadri,,Sec. XVI
 BO0624_81836,134076,469,461,Scuola Romana. Sec. XVll.Martirio di Santa Caterina. Rame. Cornice dorata. Cent.22X17.,1017,90.2,False,positional,,Scuola Romana,Quadri,,
 BO0624_81836,134077,470,462,Scuola Lombarda. Sec. xVI. Due ritratti d'uomo dipinti su tavolette (Coper- ture di libri). Cornici scolpite e dorate. Cent. 22X15.,1019,71.8,False,positional,,Scuola Lombarda,CORNICI,,
 BO0624_81836,134078,471,463,Fiori. Due tavole circolari. Cornici scolpite. Diametro cent. 17.,1021,96.8,False,positional,,,CORNICI,,
@@ -490,7 +490,7 @@ BO0624_81836,134095,488,480,"Irolli. ll bevitore. Acquarello.Bellissimo, firmato
 BO0624_81836,134096,489,481,Carcano. Paesaggio.Delizioso dipinto firmato. Cornice dorata. Cent.32X40.,1048,97.2,False,positional,,,Quadri,,
 BO0624_81836,134097,490,482,"Formis. Volo di piccioni. Bel dipinto su tela,firmato.Cornice dorata. Cent.98X68.",1049,89.8,False,positional,,,Quadri,,
 BO0624_81836,134098,491,483,Pratella A. Nell'uliveto.Dipinto firmato.,1051,95.1,False,positional,,,Quadri,,
-BO0624_81836,134099,492,484,Scrosati Luigi. Cavalli da tiro. Acquarello con la firma e la data 1866. Cornice dorata.Cent.25X34.,1056,97.9,False,positional,,,Quadri,,
+BO0624_81836,134099,492,484,Scrosati Luigi. Cavalli da tiro. Acquarello con la firma e la data 1866. Cornice dorata.Cent.25X34.,1056,97.9,False,positional,,,Quadri,,Sec. XIX
 BO0624_81836,134100,493,485,"Annivitti A. Arco di Tito. Bell'acquarello, dal vero. Cornice scolpita e dorata.",1060,97.4,False,positional,,,Quadri,,
 BO0624_81836,134101,494,486,Pasini Teofilo.ll saluto del moschettiere.Tela. Cornice dorata. Cent.34X18. Bello e raro dipinto. Cent.36X26.,1061,92.5,False,positional,,,Quadri,,
 BO0624_81836,134102,495,487,Cavalli Giov.Marina. Grazioso dipinto firmato.Cornice dorata.Cent.17X26.,1063,97.2,False,positional,,,Quadri,,
@@ -501,7 +501,7 @@ BO0624_81836,134106,499,492,"La Vergine col Bambino. Piccolo, fine, antico altor
 BO0624_81836,134107,500,493,Putto. Grazioso bronzo del xVlll secolo.,1076,95.0,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134108,501,494,Festa campestre. Miniatura antica su vetro montata su scatola di tartaruga e vernis-martin.,1079,88.0,False,title_direct,,,Miniature,,
 BO0624_81836,134109,502,495,La Vergine col Bambino. Piccola tavola in cornice.,1081,96.0,False,positional,,,Miniature; Quadri,,
-BO0624_81836,134110,503,496,"Ritratto d'uomo. Miniatura grande e finissima, rettangolare in astuccio di cuoio (circa 1810). Firmata 《Berner&gt;pinse.",1082,98.3,False,title_direct,,,Miniature,,
+BO0624_81836,134110,503,496,"Ritratto d'uomo. Miniatura grande e finissima, rettangolare in astuccio di cuoio (circa 1810). Firmata 《Berner&gt;pinse.",1082,98.3,False,title_direct,,,Miniature,,Sec. XIX
 BO0624_81836,134111,504,497,Gentiluomo;- Gentildonna: due dipinti ovali su vetro. Cornici di noce. Sec.XVIII.,1086,90.3,False,positional,,,CORNICI,,
 BO0624_81836,134112,505,498,Paesaggio. Piccolo dipinto circolare in cornice nera cerchio bronzo dorato. Fine e bel dipinto opera dell'insigne pittore bolognese Bigari. Sec. xVIll.,1089,66.4,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134113,506,499,"Ritratto della &amp;Mancini: fine miniatura circolare su avorio, in astuccio",1090,97.3,False,positional,,,MINIATURE,,
@@ -515,7 +515,7 @@ BO0624_81836,134120,513,504,"Del Buono. Fruttivendola napoletana. Piccolo dipint
 BO0624_81836,134121,514,13,Cornice dorata.,1098,90.3,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134122,515,14,505.Pagliano Eleuterio. Dopo il veglione. Acquarello bello e fine. Cornice. Cent.45X36.,1099,98.2,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134123,516,506,Gignoux E.Casclarelombardo.Acquarello firmato.Cornicedorata.Cent.43X32. Bellissimo.,1100,90.3,False,positional,,,Miniature; Quadri,,
-BO0624_81836,134124,517,507,"Gemito Vincenzo. Ritratto del maestro di scherma E. Dentale. Con firma, dedica e data 1910. Cornice nera.",1102,78.8,False,positional,,,Miniature; Quadri,,
+BO0624_81836,134124,517,507,"Gemito Vincenzo. Ritratto del maestro di scherma E. Dentale. Con firma, dedica e data 1910. Cornice nera.",1102,78.8,False,positional,,,Miniature; Quadri,,Sec. XX
 BO0624_81836,134125,518,508,Rossini Angelo. Campagna romana. Bellissimo dipinto firmato. Cent.48X32.,1107,97.1,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134126,519,509,Rossini Angelo. A Venezia. Bellissimo dipinto firmato. Cornice legno scol- pito e dorato.Cent.48X32.,1108,82.8,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134127,520,510,Mose Bianchi.Paese.Bellissimo acquarello firmato.Cornice dorata.Cent. 21X31.,1110,97.4,False,positional,,,Miniature; Quadri,,
@@ -534,9 +534,9 @@ BO0624_81836,134139,532,522,"Scacchiera in avorio, intarsio certosino, sec. xVl,
 BO0624_81836,134140,533,523,Scuola Veneziana. Sec. XVll. Ritratto di un violoncellista.Tela ovale. Cor-,1135,97.2,False,positional,,Scuola Veneziana,Miniature; Quadri,,
 BO0624_81836,134141,534,554,Barbieri Giov. Sec. XIx. Due paesi. Fini dipinti in cornice nera guillochee. Cent.25X32.,1140,97.6,False,positional,BARBIERI GIANFRANCESCO,,Miniature; Quadri,,
 BO0624_81836,134142,535,525,Carlevariis Luca. Sec. XVll. Alessandro IlI dona la spada al doge Sebastiano Ziani il quale parte per la guerra contro Federico Barbarossa. Cornice nera,1141,98.7,False,positional,,,Miniature; Quadri,,
-BO0624_81836,134143,536,526,"Lampi Giov. Batt. 1751-1822. Giovine suonatore di clarinetto.Fine, delicato dipinto, corretto nel disegno;vera,bella, distinta l'espressione. Cornice legno scolpito e dorato.Cent.55X46.",1146,98.9,False,positional,,,Miniature; Quadri,,
-BO0624_81836,134144,537,527,"Migliara Giovanni.Piazza affollata.Tela.Cornice nera guillochee. Cent. 62X77. Delizioso dipinto, di ricca e gaia composizione e buon disegno. Cornice a tabernacolo scolpita e dorata. Cent.24X50.",1150,83.2,False,positional,,,Miniature; Quadri,,
-BO0624_81836,134145,538,528,Scuola Senese. Sec. XV. La resurrezione di Lazzaro: fondo di paese. Tavola.,1152,97.2,False,positional,,Scuola Senese,Miniature; Quadri,,
+BO0624_81836,134143,536,526,"Lampi Giov. Batt. 1751-1822. Giovine suonatore di clarinetto.Fine, delicato dipinto, corretto nel disegno;vera,bella, distinta l'espressione. Cornice legno scolpito e dorato.Cent.55X46.",1146,98.9,False,positional,,,Miniature; Quadri,,Sec. XVIII
+BO0624_81836,134144,537,527,"Migliara Giovanni.Piazza affollata.Tela.Cornice nera guillochee. Cent. 62X77. Delizioso dipinto, di ricca e gaia composizione e buon disegno. Cornice a tabernacolo scolpita e dorata. Cent.24X50.",1150,83.2,False,positional,PIAZZETTA JEAN-BAPTISTE,,Miniature; Quadri,,
+BO0624_81836,134145,538,528,Scuola Senese. Sec. XV. La resurrezione di Lazzaro: fondo di paese. Tavola.,1152,97.2,False,positional,,Scuola Senese,Miniature; Quadri,,Sec. XV
 BO0624_81836,134146,539,529,"Scuola Parmigiana. Sec. Xxl. Lo sposalizio di Santa Caterina, fondo di paesaggio.Tavola.Cornice dorata. Cent.34X26.",1156,98.2,False,positional,,Scuola Parmigiana,Miniature; Quadri,,
 BO0624_81836,134147,540,530,Rosa da Tivoli Sec. XVll. Scene pastorali. Due tele in cornice. Cent.34X44.,1157,97.2,False,positional,ROOS PHILIPP PETER,,Miniature; Quadri,,
 BO0624_81836,134148,541,531,Scugnizzo napoletano: statuetta in bronzo di Zabella.,1161,96.2,False,positional,,,Miniature; Quadri,,
@@ -564,16 +564,16 @@ BO0624_81836,134169,562,552,"Annivitti A. Loggiato di S. Pietro. Bell'acquerello
 BO0624_81836,134170,563,553,"Maniglia in bronzo cesellato e dorato,in forma di drago,finissima.Sec.XVIlI.",1196,97.4,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134171,564,554,"Due piccole vedutine, fini miniature in cornicette diverse.",1197,96.6,False,title_direct,,,Miniature,,
 BO0624_81836,134172,565,555,"Ritratto di giovine e bella dama. Fine miniatura ovale su avorio, cerchio di bronzo dorato.",1198,87.1,False,positional,,,MINIATURE,,
-BO0624_81836,134173,566,556,"Ritratto di bimba. Bellissima miniatura circolare su rame, cornice legno. Sec. XVII.",1200,97.5,False,positional,,,MINIATURE,,
+BO0624_81836,134173,566,556,"Ritratto di bimba. Bellissima miniatura circolare su rame, cornice legno. Sec. XVII.",1200,97.5,False,positional,,,MINIATURE,,Sec. XVII
 BO0624_81836,134174,567,557,"Ritratto di Torquato Tasso. Finissima miniatura ovale su avorio, cornice legno e bronzo.",1201,88.1,False,positional,,,MINIATURE,,
 BO0624_81836,134175,568,558,"Ritratto di una suora. Fine, antica miniatura ovale su avorio, cornice nera cerchio bronzo.",1203,97.8,False,positional,,,MINIATURE,,
 BO0624_81836,134176,569,559,"Grande e bella miniatura rettangolare su avorio, ritratto di giovine e bella dama, cornice nera, cerchio bronzo dorato.",1204,98.3,False,positional,,,MINIATURE,,
 BO0624_81836,134177,570,560,Ritratto d'uomo. Fine e bella miniatura circolare in cornice nera e cerchio bronzo dorato.Impero.,1207,97.9,False,positional,,,MINIATURE,,
-BO0624_81836,134178,571,561,"Giovine dama con cammeo. Fine miniatura ovale in cornice nera,del 1840 circa.",1208,93.2,False,positional,,,MINIATURE,,
+BO0624_81836,134178,571,561,"Giovine dama con cammeo. Fine miniatura ovale in cornice nera,del 1840 circa.",1208,93.2,False,positional,,,MINIATURE,,Sec. XIX
 BO0624_81836,134179,572,562,"Due piccoli smalti francesi antichi, montati in argento,rappresentanti conversazioni fra giovani innamorati.",1210,98.1,False,positional,,,Miniature; Quadri,,
 BO0624_81836,134180,573,563,Ritratto di donna. Antica miniatura circolare olandese su lamina di corno. In astuccio di cuoio.,1211,85.2,False,positional,,,MINIATURE,,
 BO0624_81836,134181,574,564,"Testa d'angelo. Fine dipinto su rame, cornice in argento.",1213,96.4,False,positional,,,Miniature; Quadri,,
-BO0624_81836,134182,575,8,"565.Ritratto d'uomo. Miniatura finissima (circa 1840) su avorio. Montatura in bronzo dorato e pietre, per spilla.",1214,99.1,False,title_direct,,,Miniature,,
+BO0624_81836,134182,575,8,"565.Ritratto d'uomo. Miniatura finissima (circa 1840) su avorio. Montatura in bronzo dorato e pietre, per spilla.",1214,99.1,False,title_direct,,,Miniature,,Sec. XIX
 BO0624_81836,134183,576,566,"Portafogli in marocchino bianco dipinto da F. Filippini, l' insigne pittore milanese.",1215,97.6,False,positional,,Scuola Milanese,Miniature; Quadri,,
 BO0624_81836,134184,577,567,"Scena napoleonica. Magnifica miniatura rettangolare su avorio, cornice legno nero e bronzo.",1216,85.0,False,positional,,,MINIATURE,,
 BO0624_81836,134185,578,568,"Paesaggio notturno. Fine piccolo dipinto rettangolare, cornice bronzo. cornice di tartaruga. Sec. XVIll.",1218,79.3,False,positional,,,Miniature; Quadri,,

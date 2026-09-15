@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83762,144362,1,1602,?-1660.,149,66.7,False,positional,CALLET,,,,
+BO0624_83762,144362,1,1602,?-1660.,149,66.7,False,positional,CALLET,,,,Sec. XVII
 BO0624_83762,144363,2,13,— Vaches au paturage.,190,92.3,False,positional,DEMARNE,,,,
 BO0624_83762,144364,3,15,L'Analyse medicale. ## DOW,212,83.7,False,title_direct,DOW,,,,
 BO0624_83762,144365,4,16,—La Marchande de gibier.,225,93.6,False,positional,DOW,,,,
@@ -39,7 +39,7 @@ BO0624_83762,144398,37,68,"— Deux vAses avec couvercles ajourés, en ancienne 
 BO0624_83762,144399,38,69,——PeTIT vAsE accoste d'une statuette d'enfant se chauffant. Ancienne porcelaine tendre blanche de Saint-Cloud.,744,98.6,False,positional,,,VASI,,
 BO0624_83762,144400,39,70,—— AIGuIERE ET BAssIN en ancienne porcelaine tendre de Vin-,748,97.3,False,positional,,,Porcelaines,,
 BO0624_83762,144401,40,71,"—— Tasse cylindrique avec soucoupe, en ancienne porcelaine tendre de Sevres, decoree de guirlandes avec l'initiale H",753,98.7,False,positional,,,Porcelaines,,
-BO0624_83762,144402,41,72,jeune.Annee 1781.,755,91.4,False,positional,,,Porcelaines,,
+BO0624_83762,144402,41,72,jeune.Annee 1781.,755,91.4,False,positional,,,Porcelaines,,Sec. XVIII
 BO0624_83762,144403,42,73,"— Sucrier avec couvercle et presentoir, en ancienne porcelaine tendre de Sevres semee de roses.",763,98.4,False,positional,,,Porcelaines,,
 BO0624_83762,144404,43,74,"— Sucrier avec couvercle, en ancienne porcelaine tendre de Sevres; semis de feurs et baguette enrubannee.",767,98.5,False,positional,,,Porcelaines,,
 BO0624_83762,144405,44,75,"—— RAFRAicHissoIr avec couvercle et double-fond, en ancienne porcelaine tendre de Sevres; fleurs et hachures.",770,98.6,False,positional,,,Porcelaines,,
@@ -56,7 +56,7 @@ BO0624_83762,144415,54,85,"—PeTITE FoNTAINE, decoree de feurs et sur trois pet
 BO0624_83762,144416,55,86,"— PETITE CHocoLATIERE avec couvercle, decor de fleurs. Meme porcelaine.",824,97.8,False,title_direct,,,Porcelaines,,
 BO0624_83762,144417,56,87,"PETIT PoT A LAIr, sucrier avec couvercle, petit plateau,",828,97.2,False,positional,,,Porcelaines,,
 BO0624_83762,144418,57,88,"-- SaLiERE en forme de double corbeille, surmontee d'une figurine. Ancienne porcelaine de Saxe.",833,98.3,False,positional,,,Porcelaines,,
-BO0624_83762,144419,58,89,"— MINiATuRE rectangulaire, portrait de femme en buste, vetue d'une draperie rouge. Signee: Autissier, Paris 1819.",837,98.6,False,positional,,,MINIATURE,,
+BO0624_83762,144419,58,89,"— MINiATuRE rectangulaire, portrait de femme en buste, vetue d'une draperie rouge. Signee: Autissier, Paris 1819.",837,98.6,False,positional,,,MINIATURE,,Sec. XIX
 BO0624_83762,144420,59,91,"Deux LAMpEs en ancien émail cloisonne de la Chine, a",845,97.1,False,positional,,,LAMPADE,,
 BO0624_83762,144421,60,92,"- Deux JARDINIEREs rondes, en ancien email cloisonne de la Chine, a decor de branches fleuries et d'oiseaux sur fond bleu.",850,98.7,False,positional,,,Porcelaines,,
 BO0624_83762,144422,61,93,"—Groupe en marbre blanc: femme presque nue,une etoile au front, accompagnee d'un amour tenant des roses. Signe :",855,98.6,False,positional,,,Porcelaines,,

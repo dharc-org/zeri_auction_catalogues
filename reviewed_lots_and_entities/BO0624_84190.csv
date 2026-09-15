@@ -1,9 +1,9 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84190,655066,1,1,"## Le Mariage rompu. mportant dessin au lavis de sepia, certainement la premiere pensee du tableau expose au Salon de 1777 et cite au livret sous le no 124.",24,94.4,False,positional,AUBRY,,OGGETTI VARI,,
+BO0624_84190,655066,1,1,"## Le Mariage rompu. mportant dessin au lavis de sepia, certainement la premiere pensee du tableau expose au Salon de 1777 et cite au livret sous le no 124.",24,94.4,False,positional,AUBRY,,OGGETTI VARI,,Sec. XVIII
 BO0624_84190,655067,2,2,## Une Noce de village.,35,100.0,False,positional,BLARENBERGHE,,,,
 BO0624_84190,655068,3,3,## Le Baiser.,58,100.0,False,positional,BOILLY,,,,
-BO0624_84190,655069,4,5,## Un Cafe de Paris en 1815.,102,100.0,False,positional,BOILLY,,,,
-BO0624_84190,655070,5,6,## Un Cabaret de Paris en 1815.,125,100.0,False,positional,BOILLY,,,,
+BO0624_84190,655069,4,5,## Un Cafe de Paris en 1815.,102,100.0,False,positional,BOILLY,,,,Sec. XIX
+BO0624_84190,655070,5,6,## Un Cabaret de Paris en 1815.,125,100.0,False,positional,BOILLY,,,,Sec. XIX
 BO0624_84190,655071,6,8,## Le Colin-maillard.,157,100.0,False,positional,BOREL,,,,
 BO0624_84190,655072,7,6,## Venus aux colombes.,174,100.0,False,positional,BOUCHER,,,,
 BO0624_84190,655073,8,10,## L'Enfant a la bouteille.,189,100.0,False,positional,BOUCHER,,,,

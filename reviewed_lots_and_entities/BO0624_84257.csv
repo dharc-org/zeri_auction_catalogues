@@ -26,7 +26,7 @@ BO0624_84257,236108,24,26,## Portrait de l'Artiste.,419,100.0,False,positional,L
 BO0624_84257,236109,25,27,## Feuille d'etudes : Quatre tetes et deux figures.,440,100.0,False,positional,WATTEAU,,,,
 BO0624_84257,236110,26,28,## Portrait de jeune femme.,467,100.0,False,positional,BORCH,,,,
 BO0624_84257,236111,27,29,## Portrait d'homme.,486,100.0,False,positional,BORCH,,,,
-BO0624_84257,236112,28,30,## La Jeune Mere. +1638.,503,83.9,False,positional,BOUCHER,,,,
+BO0624_84257,236112,28,30,## La Jeune Mere. +1638.,503,83.9,False,positional,BOUCHER,,,,Sec. XVII
 BO0624_84257,236113,29,31,"## Le Fumeur. l est attable, coiffe d’un grand feutre, et bourre sa pipe.",528,91.1,False,positional,BRAUWER,,,,
 BO0624_84257,236114,30,32,## Buoeur et Fumeur.,540,100.0,False,positional,BRAUWER,,,,
 BO0624_84257,236115,31,33,## Fruits et objets inanimes.,557,100.0,False,positional,CHARDIN,,OGGETTI VARI,,
@@ -60,7 +60,7 @@ BO0624_84257,236142,58,63,## Le Temple,1111,100.0,False,positional,ROBERT,,,,
 BO0624_84257,236143,59,65,"## Portrait du citoyen Vestris 11, danseur. l est represente a mi-corps, debout dans un paysage, de trois quarts a gauche, le visage de face. Il est vetu d'un habit brun ouvert, a col rabattu, garni de boutons d'acier, d'un gilet jaune avec cravate de lingerie et jabot, et porte un chapeau de fourrure; les mains gantees sont jointes et une badine est passee sous son bras gauche.",1137,94.5,False,positional,ROMANY; ADELE-ROMANCE,,,,
 BO0624_84257,236144,60,66,## Lord Mac Leod.,1154,100.0,False,positional,ROMNEY,,,,
 BO0624_84257,236145,61,67,## Portrait de jeune garcon.,1169,100.0,False,positional,ROMNEY,,,,
-BO0624_84257,236146,62,68,## Moerdyk. 1845.,1190,73.7,False,positional,RUYSDAEL,,,,
+BO0624_84257,236146,62,68,## Moerdyk. 1845.,1190,73.7,False,positional,RUYSDAEL,,,,Sec. XIX
 BO0624_84257,236147,63,69,## La Declaration repoussee.,1213,100.0,False,positional,SMIRKE,,,,
 BO0624_84257,236148,64,70,## La Degustation.,1228,100.0,False,positional,STEEN,,,,
 BO0624_84257,236149,65,71,## La Collation.,1243,100.0,False,positional,TENIERS,,,,
@@ -110,11 +110,11 @@ BO0624_84257,236192,108,134,## 134 —Le Christ de Pitie. Italie du Nord. xvie s
 BO0624_84257,236193,109,135,## 135 —La Mort de Meleagre. Italie. xvre siecle.,2013,100.0,False,positional,,Ecole de Padoue,,,
 BO0624_84257,236194,110,136,## 136 -La Vierge et IEnfant. Italie.xvi siecle.,2019,100.0,False,positional,,Ecole de Padoue,,,
 BO0624_84257,236195,111,137,## 137 -L'Enlevement de Dejanire. Italie. xvi siecle.,2025,100.0,False,positional,,Ecole de Padoue,,,
-BO0624_84257,236196,112,138,-Niccolo Piccinino.Par VIrToRE (1380-1456).,2034,95.1,False,positional,,,MEDAILLES,,
+BO0624_84257,236196,112,138,-Niccolo Piccinino.Par VIrToRE (1380-1456).,2034,95.1,False,positional,,,MEDAILLES,,Sec. XV
 BO0624_84257,236197,113,13,g -Vittore Pisano dit Pisanello. Attribuee a PISANELLO.,2042,98.1,False,positional,,,MEDAILLES,,
 BO0624_84257,236198,114,140,140-S,2048,100.0,False,positional,,,MEDAILLES,,
 BO0624_84257,236199,115,141,## 141 —Isota Atti de Rimini. Par MaTTEo DE PAsTI,2063,100.0,False,positional,MATTEO DE PASTI,,,,
-BO0624_84257,236200,116,142,- Cristoforo Moro. Doge de Venise en 1462-1471.,2071,95.6,False,positional,MATTEO DE PASTI,,,,
+BO0624_84257,236200,116,142,- Cristoforo Moro. Doge de Venise en 1462-1471.,2071,95.6,False,positional,MATTEO DE PASTI,,,,Sec. XV
 BO0624_84257,236201,117,143,-Cosme de Medicis 1Ancien.Florence (138g1464).,2083,95.5,False,positional,MATTEO DE PASTI,,,,
 BO0624_84257,236202,118,147,"Louis XlI et Anne de Bretagne. Par NicoLAs LECLERC, JEAN DE SAINT-PRIEST et JEAN LEPERE.",2109,97.7,False,positional,GIOVANNI CANDIDA,,,,
 BO0624_84257,236203,119,148,- Henri Il. Par ETIENNE DE LAUNE.,2119,93.5,False,positional,GIOVANNI CANDIDA,,,,
@@ -133,7 +133,7 @@ BO0624_84257,236215,131,176,"- Deux FLAMBEAUx en ancienne porcelaine de Saxe, en
 BO0624_84257,236216,132,178,- DEUx GRANDs CAcHE-PoTs a bords contournes et,2341,95.7,False,positional,,,PORCELAINES; FAIENCE,,
 BO0624_84257,236217,133,179,"— Deux AUTREs analogues, mais plus petits, en an-",2346,95.7,False,positional,,,PORCELAINES; FAIENCE,,
 BO0624_84257,236218,134,180,maniere chinoise.,2348,88.9,False,positional,,,PORCELAINES; FAIENCE,,
-BO0624_84257,236219,135,181,"- Deux GRANDs CAcHE-PoTs en ancienne porcelaine tendre de Sevres, a decor de feurs avec filets bleus; anses rocailles. Decor par Rosset, annee 1756.",2358,98.6,False,positional,,,PORCELAINES; FAIENCE,,
+BO0624_84257,236219,135,181,"- Deux GRANDs CAcHE-PoTs en ancienne porcelaine tendre de Sevres, a decor de feurs avec filets bleus; anses rocailles. Decor par Rosset, annee 1756.",2358,98.6,False,positional,,,PORCELAINES; FAIENCE,,Sec. XVIII
 BO0624_84257,236220,136,182,"- PETIT sucRIER rond, avec son couvercle et son presentoir ovale,en ancienne porcelaine tendre de Sevres,a decor de petits medaillons ovales,a fond bleu pale,relies par des guirlandes de laurier et des feuilles; au centre du plateau, un disque enguirlande",2362,99.2,False,positional,,,PORCELAINES; FAIENCE,,
 BO0624_84257,236221,137,183,"— PeTIT sucrIER rond avec son presentoir, en ancienne porcelaine tendre de Sevres; decor de reserves conte-",2366,98.1,False,positional,,,PORCELAINES; FAIENCE,,
 BO0624_84257,236222,138,184,"-ENVIRON CENT QUATRE-VINGTS PIECES DE SERVICE variees, a decor bleu de feurs, en ancienne porcelaine tendre de Chantilly : cent quarante-six assiettes, douze compotiers, quatre plateaux quadrilobes,huit tasses, sept soucoupes,un pot a lait et deux sucriers",2371,99.2,False,positional,,,OGGETTI VARI,,
@@ -142,7 +142,7 @@ BO0624_84257,236224,140,186,"—Vase quadrilateral, en ancien celadon bleu turqu
 BO0624_84257,236225,141,187,"- Deux GouRDEs en ancienne porcelaine de Chine,",2385,95.7,False,positional,,,PORCELAINES; FAIENCE,,
 BO0624_84257,236226,142,188,"Vase sur piedouche, en faience italienne du xvil1 siecle, a decor de feurs et rocailles; col ajoure, anses bustes de femmes.",2390,98.3,False,positional,,,VASI,,
 BO0624_84257,236227,143,189,- EruI-NEcEssAiRE muni d'un crochet de suspension,2395,95.9,False,positional,,,OBJETS DE VITRINE,,
-BO0624_84257,236228,144,1,"go —TABATIERE ovale, en or de couleur cisele, ornée d'un medaillon d'attributs de lAmour; pourtour creuse de cannelures obliques separees par des feuilles. Fin de 1'epoque Louis XV.Annee 1768-176g.",2400,99.7,False,positional,,Periodo di Luigi XV,OBJETS DE VITRINE,,
+BO0624_84257,236228,144,1,"go —TABATIERE ovale, en or de couleur cisele, ornée d'un medaillon d'attributs de lAmour; pourtour creuse de cannelures obliques separees par des feuilles. Fin de 1'epoque Louis XV.Annee 1768-176g.",2400,99.7,False,positional,,Periodo di Luigi XV,OBJETS DE VITRINE,,Sec. XVIII
 BO0624_84257,236229,145,191,"—— Boite ovale, en or partiellement emaille gris perle;",2404,96.2,False,positional,,,SCATOLE,,
 BO0624_84257,236230,146,I92,"— Boite de forme longue, en or partiellement émaille violet; bordures de feuilles, pierres de couleur et perles simulees. Poincons de Fouache, regisseur des",2410,98.7,False,positional,,,SCATOLE,,
 BO0624_84257,236231,147,193,"— BoiTE ronde, en or partiellement emaille bleu pale; au centre, un medaillon orne d'entrelacs et d'une corbeille de feurs; en bordure,des rinceaux ou des",2415,98.7,False,positional,,,SCATOLE,,

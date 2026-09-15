@@ -35,7 +35,7 @@ BO0624_88160,593800,33,39,| Aus Dordrecht.                                      
 BO0624_88160,593801,34,40,| Am Norwegischen Strand.                                                                                      | Leinw.23/40             |,148,95.8,False,positional,C. A. Northaus,,,,
 BO0624_88160,593802,35,42,"| Nathanael Sichel , Berlin. 2Damenkopf. Bezeichnet.                                                           | Leinw.62/46,5           |",150,97.5,False,positional,C. A. Northaus,Scuola di Berlino,,,
 BO0624_88160,593803,36,43,| 3Dame.Rotkopfchen.                                                                                           | Karton 60/48            |,151,95.2,False,positional,C. A. Northaus,,,,
-BO0624_88160,593804,37,44,"| 4 Weiblicher Kopf. Leinw.56,5/46,5 Wilhelm Lindenschmit t, 1895,Munchen.                                     |                         |",152,97.9,False,positional,C. A. Northaus,,,,
+BO0624_88160,593804,37,44,"| 4 Weiblicher Kopf. Leinw.56,5/46,5 Wilhelm Lindenschmit t, 1895,Munchen.                                     |                         |",152,97.9,False,positional,C. A. Northaus,,,,Sec. XIX
 BO0624_88160,593805,38,46,Barenfuhrer auf einem Jahrmarkt im Gouvernement Smolensk. Bezeichnet. Leinw.31/51                       |,156,98.1,False,positional,Wilh. Amandus Beer,,,,
 BO0624_88160,593806,39,47,"Portrat Prinz Battenberg, Furst von Bulgarien. Leinw.60/47 Bezeichnet.                                  |",158,97.8,False,positional,Wilh. Amandus Beer,,,,
 BO0624_88160,593807,40,48,"Ausfahrt zur Wolfsjagd in Russland Holz 26,5/47 Bezeichnet.                                             |",160,97.5,False,positional,Wilh. Amandus Beer,,OGGETTI IN LEGNO,,
@@ -97,9 +97,9 @@ BO0624_88160,593862,95,142,"| Anbetung Jesu in den Wolken.                      
 BO0624_88160,593863,96,143,"| Die sieben Schwaben.                                                                                                | Leinw.31/57,5               |",290,94.3,False,positional,Eduard Hein jun.,,,,
 BO0624_88160,593864,97,145,"146                           | Mann mit Bart und Mutze. Pendant z.Vor. Faune und Bacchantin.                                                       | Holz 26,5/19                |",292,97.4,False,positional,Eduard Hein jun.,,OGGETTI IN LEGNO,,
 BO0624_88160,593865,98,150,"| Schule David Teniers der Aitere. Landschaft mit Ruinen, dabei Kriegsembleme. staffage. Kanonen,Fahnen,Trommeln etc. | Figuren- Leinw.82/68        |",297,98.5,False,positional,Eduard Hein jun.,Scuola di Teniers,BANDIERE,,
-BO0624_88160,593866,99,151,"| Philippine Schutz, 1767-1797, Frankfurt a.M. Landschaft mit Jagern. Holz 26,5/21 Monogrammiert.                     |                             |",298,97.8,False,positional,Eduard Hein jun.,,OGGETTI IN LEGNO,,
+BO0624_88160,593866,99,151,"| Philippine Schutz, 1767-1797, Frankfurt a.M. Landschaft mit Jagern. Holz 26,5/21 Monogrammiert.                     |                             |",298,97.8,False,positional,Eduard Hein jun.,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88160,593867,100,152,| Winterlandschaft mit Hausern und Schlittschuhlaufern. Leinw.124/80                                                  |                             |,300,97.0,False,positional,Eduard Hein jun.,,,,
-BO0624_88160,593868,101,153,"| Mario Nuzzi gen.Mario dai Fiori,1603-1673, Rom. Blumen in einer Glasvase.                                           | Leinw.41/31                 |",301,97.6,False,positional,Eduard Hein jun.,,,,
+BO0624_88160,593868,101,153,"| Mario Nuzzi gen.Mario dai Fiori,1603-1673, Rom. Blumen in einer Glasvase.                                           | Leinw.41/31                 |",301,97.6,False,positional,Eduard Hein jun.,,,,Sec. XVII
 BO0624_88160,593869,102,154,|                                                                                                                     | Leinw.43/30                 |,302,84.6,False,positional,Eduard Hein jun.,,,,
 BO0624_88160,593870,103,155,Episoden aus den Alexanderschlachten.Drei Gouachen auf Pergament je 26/59 Gute Arbeiten des beruhmten Miniaturmalers.,306,98.3,False,positional,Joseph Werner,,,,
 BO0624_88160,593871,104,156,Stilleben.,310,81.8,False,positional,C.Ed. Deichmann,,,,
@@ -117,14 +117,14 @@ BO0624_88160,593882,115,167,Am Fenster.,364,83.3,False,positional,,Hollandische 
 BO0624_88160,593883,116,168,Heiliger Petrus im Gebet.,370,92.3,False,positional,C.C. Grooth,,,,
 BO0624_88160,593884,117,171,"| David Teniers, nach ihm. Unterhaltung im Freien.                                                             | Leinw.37,5/48   |",382,96.7,False,positional,van Dyck,,,,
 BO0624_88160,593885,118,172,"| Alexander von Breda t,Antwerpen. Flusslandschaft mit reicher Staffage. Desgl. desgl. Pendant z.Vor.          | Leinw.48/40     |",383,98.1,False,positional,van Dyck,,,,
-BO0624_88160,593886,119,173,"| Art des Dirk Hals. 174 Drei Kavaliere. Francesc0 Albani, 1578-1660,Bologna.                                  | Holz 36/28,5    |",384,97.7,False,positional,van Dyck,Scuola Bolognese,OGGETTI IN LEGNO,,
+BO0624_88160,593886,119,173,"| Art des Dirk Hals. 174 Drei Kavaliere. Francesc0 Albani, 1578-1660,Bologna.                                  | Holz 36/28,5    |",384,97.7,False,positional,van Dyck,Scuola Bolognese,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88160,593887,120,177,"| Gebirgslandschaft mit Ruinen. Bezeichnet.                                                                    | Leinw.20,5/25   |",388,96.4,False,positional,van Dyck,,,,
-BO0624_88160,593888,121,178,"| Joachim von Sandrart, 1606-1688, Frankfurt a.M. Abendlandschaft mit Felsen und Burgen am Ufer eines Flusses. | Kupfer 18/25    |",389,98.3,False,positional,van Dyck,,OGGETTI IN RAME,,
+BO0624_88160,593888,121,178,"| Joachim von Sandrart, 1606-1688, Frankfurt a.M. Abendlandschaft mit Felsen und Burgen am Ufer eines Flusses. | Kupfer 18/25    |",389,98.3,False,positional,van Dyck,,OGGETTI IN RAME,,Sec. XVII
 BO0624_88160,593889,122,179,| Geflugel. Enten und Fasan.                                                                                   | Holz 18/27      |,390,94.6,False,positional,van Dyck,,OGGETTI IN LEGNO,,
 BO0624_88160,593890,123,180,| Desgl.                                                                                                       |                 |,391,71.4,False,positional,van Dyck,,,,
 BO0624_88160,593891,124,184,| Geburt Christi.                            | Holz 42/40                      |,399,92.6,False,positional,van Dyck,,OGGETTI IN LEGNO,,
 BO0624_88160,593892,125,185,| Flucht nach Egypten. Pendant z. Vor.       |                                 |,400,94.3,False,positional,van Dyck,,,,
-BO0624_88160,593893,126,187,"Spazierritt. | Joh.Georg Pforr, 1745-1798, Frankfurt a.M. | Holz 18/22                      |",402,96.9,False,positional,van Dyck,,OGGETTI IN LEGNO,,
+BO0624_88160,593893,126,187,"Spazierritt. | Joh.Georg Pforr, 1745-1798, Frankfurt a.M. | Holz 18/22                      |",402,96.9,False,positional,van Dyck,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88160,593894,127,189,| Mannerportat mit langem Bart.              | Holz 29/21                      |,404,95.1,False,positional,van Dyck,,OGGETTI IN LEGNO,,
 BO0624_88160,593895,128,190,"| Gelehrter mit Buch.                        | Oval.Kupfer 25/19 Leinw.56/44,5 |",405,96.2,False,positional,van Dyck,,OGGETTI IN RAME,,
 BO0624_88160,593896,129,191,|                                            | Alte Frau am Kohlenfeuer.       |,406,92.3,False,positional,van Dyck,,,,
@@ -476,7 +476,7 @@ BO0624_88160,594241,474,547,"Hohe Dose, vierpassformig geschweift, mit Liebespaa
 BO0624_88160,594242,475,548,"Dose,rund,verziert mit reliefiertem Brustbild Napoleons I. und Lorbeerkranz. Biskuit teilvergoldet. Sevres. Hohe 5, Durchm.7,5 cm.",1064,98.4,False,positional,,,SCATOLE,,
 BO0624_88160,594243,476,549,"Tabatire,viereckig,dieante abgeschragt,bemalt mit Wappen, Randbordure und Blumen. Hohe 4,5, Lange 9, Breite 7,5 cm.",1065,98.2,False,positional,,,Fayence; Porzellan,,
 BO0624_88160,594244,477,550,"- Dose, geschweift und verziert mit Wappen und roter Rand bordure, worin Medaillon mit Blumen. Porzellan in Bronzemontierung. Hohe 5,Lange 9,7, Breite 8 cm.",1067,100.0,False,title_direct,,,SCATOLE,,
-BO0624_88160,594245,478,551,"Brustbild einer Dame mit umgeworfenem rotem Mantel und lang herabwallendem,blondem Lockenhaar, welches mit Perlen geschmuckt ist. Bezeichnet: C.A. de T.X. D.1789. Rund.",1068,98.8,False,positional,,,Fayence; Porzellan,,
+BO0624_88160,594245,478,551,"Brustbild einer Dame mit umgeworfenem rotem Mantel und lang herabwallendem,blondem Lockenhaar, welches mit Perlen geschmuckt ist. Bezeichnet: C.A. de T.X. D.1789. Rund.",1068,98.8,False,positional,,,Fayence; Porzellan,,Sec. XVIII
 BO0624_88160,594246,479,552,"Huftbild der Grafin Devonshire in rotem Kleide mit Spitzenschal, der rote Hut mit braunen Federn geschmuckt. Elfenbein. Oval. Hohe 12, Breite 9,5 cm.",1072,98.6,False,positional,,,Fayence; Porzellan,,
 BO0624_88160,594247,480,553,Huftbild der Charlotte Ackermann in grinem Kleide und um-,1073,96.6,False,positional,,,Fayence; Porzellan,,
 BO0624_88160,594248,481,554,- 555 Brustbild Napoleons l.in Generalsuniform. Eifenbeinminiatur in Elfenbeinrahmchen. Rund. Durchm.5 cm.,1083,100.0,False,positional,,,Fayence; Porzellan,,
@@ -541,7 +541,7 @@ BO0624_88160,594306,539,620,620,1212,100.0,False,positional,,,Fayence; Porzellan
 BO0624_88160,594307,540,621,Zwei Tasschen.. Die Fussringe und Henkel in Silber mit,1216,96.3,False,positional,,,Fayence; Porzellan,,
 BO0624_88160,594308,541,622,- Nussknacker. Silbervergoldet.,1219,100.0,False,positional,,,Fayence; Porzellan,,
 BO0624_88160,594309,542,623,"Antikes Silber-Kollier mit Brillantrosen, 3reihig mit Anhanger.",1221,96.8,False,positional,,,Fayence; Porzellan,,
-BO0624_88160,594310,543,624,Messingschild einer Backerinnung mit Jahreszahl 1767.,1222,96.3,False,positional,,,Fayence; Porzellan,,
+BO0624_88160,594310,543,624,Messingschild einer Backerinnung mit Jahreszahl 1767.,1222,96.3,False,positional,,,Fayence; Porzellan,,Sec. XVIII
 BO0624_88160,594311,544,625,"- 626 Desgl. Messing, im Fond Madonna mit Strahlenkranz, getrieben. Diam.33 cm.",1228,100.0,False,positional,,,Fayence; Porzellan,,
 BO0624_88160,594312,545,627,"Desgl. Kupfer, mit Reliefdekor. Diam.53cm.",1231,100.0,False,positional,,,OGGETTI IN RAME,,
 BO0624_88160,594313,546,628,Desgl. Ahnlich der Vorigen. Diam.53cm.,1233,94.6,False,positional,,,Fayence; Porzellan,,

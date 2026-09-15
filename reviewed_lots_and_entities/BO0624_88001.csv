@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88001,290508,1,1,"Marine mit Fischerbooten an der Kuste. Bezeichnet und mit Jahrz.96. Holz 13,5/18cm. (Siehe Abbildung Tafel I.)       |",44,99.0,False,positional,Andreas Achenbach,,OGGETTI IN LEGNO,,
-BO0624_88001,290509,2,2,Wrack an der englischen Kuiste. Bezeichnet und mit Jahrz. 1853. Aquarell 26/20 cm.                                   |,46,98.7,False,positional,Andreas Achenbach,,,,
+BO0624_88001,290509,2,2,Wrack an der englischen Kuiste. Bezeichnet und mit Jahrz. 1853. Aquarell 26/20 cm.                                   |,46,98.7,False,positional,Andreas Achenbach,,,,Sec. XIX
 BO0624_88001,290510,3,5,Kopf eines Schafes. Bezeichnet. Karton 30/22 cm.                                                                     |,49,97.8,False,positional,Andreas Achenbach,,,,
 BO0624_88001,290511,4,9,Weihnachtsurlaub. Auf dem Eise. Bezeichnet. Karton 47/33 cm.                                                          |,53,99.1,False,positional,Andreas Achenbach,,,,
 BO0624_88001,290512,5,11,Damenbrustbild. Bezeichnet. Leinw.50/41 cm.                                                                                                            |,57,96.4,False,positional,Hans Buchner,,,,
@@ -11,7 +11,7 @@ BO0624_88001,290516,9,30,Haiderosen.,74,87.0,False,positional,Hans Buchner,,,,
 BO0624_88001,290517,10,31,Brustbild eines Monchs. Bezeichnet und Jahrz. 09. Holz 21/15 cm.,80,97.6,False,positional,Eduard Gritzner,,OGGETTI IN LEGNO,,
 BO0624_88001,290518,11,32,Bauernstube. Interieur. Ruckseite bezeichnet. Aquarell 2736 cm.,85,97.5,False,positional,Richard Gutschmidt,,ARREDAMENTI,,
 BO0624_88001,290519,12,35,Herbstlandschaft bei Minchen. Bezeichnet.,97,96.3,False,positional,Wilhelm Jacob Hertling,,,,
-BO0624_88001,290520,13,36,Stilleben. Silbergerate und Obst. Bezeichnet und Jahrz. 1911. Leinw.79/110 cm.,101,98.0,False,positional,Eduard Huber,,,,
+BO0624_88001,290520,13,36,Stilleben. Silbergerate und Obst. Bezeichnet und Jahrz. 1911. Leinw.79/110 cm.,101,98.0,False,positional,Eduard Huber,,,,Sec. XX
 BO0624_88001,290521,14,37,Dame mit Schleier.,105,91.9,False,positional,Arthur Hutschenreuther,,,,
 BO0624_88001,290522,15,38,Reserl.,106,80.0,False,positional,Arthur Hutschenreuther,,,,
 BO0624_88001,290523,16,39,Brustbild einer Dame mit Facher. Bezeichnet. Leinw. 40/33 cm.,112,97.4,False,positional,A. Jaeger,,SCOMPARTI,,
@@ -19,8 +19,8 @@ BO0624_88001,290524,17,27,Mondscheinlandschaft. Fruhling bei St.Louis. Bezeichne
 BO0624_88001,290525,18,47,| Desgleichen. Wasserrosen.                                                                                                    | Karton 66/46 cm. Karton 68/50 cm.         |,143,97.3,False,positional,Charles Jozsa,,,,
 BO0624_88001,290526,19,48,| Desgleichen mit Rosen im Haar.                                                                                               |                                           |,144,95.1,False,positional,Charles Jozsa,,,,
 BO0624_88001,290527,20,49,| Desgleichen. Mohn. Samtlich bezeichnet.                                                                                      | Karton oval 67/50 cm. Pendant z. vor.     |,145,97.9,False,positional,Charles Jozsa,,,,
-BO0624_88001,290528,21,51,52 53 Stilleben. Bezeichnet. | P.Klapper. Der Affe als Gelehrter. Der Affe als Maler. Beide bezeichnet und Jahrz. 1907.                                     | Karton 25/31 cm. Pendant z. vor.          |,147,98.9,False,positional,Charles Jozsa,,,,
-BO0624_88001,290529,22,55,"| Professor Julius von Klever, Petersburg. 5Vorfrihling mit tauendem Schnee. Bezeichnet und mit Jahrz. 1905.                   | Leinw. 44/66 cm.                          |",150,98.7,False,positional,Charles Jozsa,,,,
+BO0624_88001,290528,21,51,52 53 Stilleben. Bezeichnet. | P.Klapper. Der Affe als Gelehrter. Der Affe als Maler. Beide bezeichnet und Jahrz. 1907.                                     | Karton 25/31 cm. Pendant z. vor.          |,147,98.9,False,positional,Charles Jozsa,,,,Sec. XX
+BO0624_88001,290529,22,55,"| Professor Julius von Klever, Petersburg. 5Vorfrihling mit tauendem Schnee. Bezeichnet und mit Jahrz. 1905.                   | Leinw. 44/66 cm.                          |",150,98.7,False,positional,Charles Jozsa,,,,Sec. XX
 BO0624_88001,290530,23,56,"| August Hermann Knoop, Munchen. 6 Liebesantrag. Junges Paar am Wasser. 57 Cellospieler. Rokoko-Interieur. Beide bezeichnet.   | Karton 24/32 cm. Holz 20,5/16 cm.         |",151,99.0,False,positional,Charles Jozsa,,ARREDAMENTI,,
 BO0624_88001,290531,24,60,"61                           | Gustav Krausche, Munchen.                                                                                                    | Aquarell 8,5/13 cm. Aquarell 8/13 cm.     |",153,97.6,False,positional,Charles Jozsa,,,,
 BO0624_88001,290532,25,62,"| Park in Bad Aibling.                                                                                                         | Aquarell 8,5/13 cm. Aquarell 8,5/11,5 cm. |",154,97.5,False,positional,Charles Jozsa,,,,
@@ -33,7 +33,7 @@ BO0624_88001,290538,31,68,"Im Wirtshausgarten. Bezeichnet. Kohle 33/47,5 cm. (Si
 BO0624_88001,290539,32,71,Desgleichen.,176,88.0,False,positional,S.Lilloe,,,,
 BO0624_88001,290540,33,72,2Landschaft mit Wasser. Aus Planegg. Samtlich bezeichnet.,178,97.3,False,positional,S.Lilloe,,,,
 BO0624_88001,290541,34,73,"Landkartenstudium.Bezeichnet. Holz 14,5/10 cm.",183,96.7,False,positional,Wilhelm Lowith,,OGGETTI IN LEGNO,,
-BO0624_88001,290542,35,74,In Erwartung. Madchen mit Schaf. Bezeichnet und Jahrz. 1892. Holz 45/32 cm.,188,97.9,False,positional,H. Marke,,OGGETTI IN LEGNO,,
+BO0624_88001,290542,35,74,In Erwartung. Madchen mit Schaf. Bezeichnet und Jahrz. 1892. Holz 45/32 cm.,188,97.9,False,positional,H. Marke,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88001,290543,36,75,Landschaft bei Erkner. Bezeichnet. Leinw.44/64 cm.,192,96.9,False,positional,H. Mass,,,,
 BO0624_88001,290544,37,76,Liebespaar. Rokoko.,196,91.9,False,positional,Anton Massa,,,,
 BO0624_88001,290545,38,77,Desgleichen.,197,88.0,False,positional,Anton Massa,,,,
@@ -42,7 +42,7 @@ BO0624_88001,290547,40,79,Dame mit Muff. Rokoko. Samtlich bezeichnet.,201,96.4,F
 BO0624_88001,290548,41,80,Marine. Bezeichnet.,206,91.9,False,positional,Graf M. Mielczinski,,,,
 BO0624_88001,290549,42,81,Dame in gelbem Kleid. Pastell 58/26 cm.,211,96.1,False,positional,Hans Miller-Strelar,,,,
 BO0624_88001,290550,43,82,Gelbe Nelken im Glase. Karton 42/31 cm.,212,96.1,False,positional,Hans Miller-Strelar,,,,
-BO0624_88001,290551,44,83,Marine. Ruhige See mit Booten. Bezeichnet und mit Jahrz. 1813.,218,97.5,False,positional,Nicolaes Lodewijk Penning,,,,
+BO0624_88001,290551,44,83,Marine. Ruhige See mit Booten. Bezeichnet und mit Jahrz. 1813.,218,97.5,False,positional,Nicolaes Lodewijk Penning,,,,Sec. XIX
 BO0624_88001,290552,45,86,"87                             | E.L. Popp, Munchen. Alm im Hochgebirge. Aquarell 14/23 cm. Pferdekopf. Karton 18/18 cm.                                                          |",229,98.2,False,positional,Ernst Ludwig Plass,,,,
 BO0624_88001,290553,46,88,"89                             | Landschaft. Schlof Hogelwerth bei Reichenhall. Leinw. 64/93 cm. Aus dem Nymphenburger Park. Karton 21,5/28 cm. Samtlich bezeichnet.              |",230,98.8,False,positional,Ernst Ludwig Plass,,,,
 BO0624_88001,290554,47,91,"Stilleben. Blumen und Frichte. | Dr.Otto Quante, Muinchen. 90 Landschaft. Karton 32,5/40 cm. Holz 36/42,5 cm.                                                                     |",231,98.5,False,positional,Ernst Ludwig Plass,,OGGETTI IN LEGNO,,
@@ -52,11 +52,11 @@ BO0624_88001,290557,50,101,"| Winter im Gebirge. Karton 33,5/49,5 cm. (Siehe Abb
 BO0624_88001,290558,51,118,Madchen aus Bethlehem.                                                                               | Leinw.130/85 cm.   |,261,94.9,False,positional,Otto Tragy,,,,
 BO0624_88001,290559,52,156,"157 Die Spieler. | Art des Heemskerk. Raucher. Leinw.19,5/15 cm. Madchen mit Hering und zwei Alten. Leinw.19,5/15 cm. Leinw.39/33 cm.                                    |",309,98.4,False,positional,VAN HEEMSKERK EGBERT,,Gemälde,,
 BO0624_88001,290560,53,162,"163 164          | Hollandische Schule des XVIll. Jahrhunderts. Raucher und Trinker. Holz 24.5/28,5cm. Holz 26/19,5 cm. Raucher. Lustige Gesellschaft. Leinw.58/48,5 cm. |",314,98.7,False,title_direct,,Spanische Schule,OGGETTI IN LEGNO,,
-BO0624_88001,290561,54,165,"166              | Gerard van Honthorst,1590—1656, Utrecht. Holz 19/14 cm. Mann mit Pfeife. Leinw.63/50 cm. 6Mann mit Buch.                                              |",315,98.1,False,positional,HONTHORST GERARD,,OGGETTI IN LEGNO,,
+BO0624_88001,290561,54,165,"166              | Gerard van Honthorst,1590—1656, Utrecht. Holz 19/14 cm. Mann mit Pfeife. Leinw.63/50 cm. 6Mann mit Buch.                                              |",315,98.1,False,positional,HONTHORST GERARD,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88001,290562,55,168,"Vergnigen auf dem Eis. Bezeichnet. Schones, farbiges Werk.                                                                                                                                             | Holz 27,5/38 cm.                                                                               |",322,97.2,False,positional,J. B. Jongkind,,OGGETTI IN LEGNO,,
 BO0624_88001,290563,56,I,"talienische Schule. 170 Madchen mit Obst und Blumen. 171 Hirtenpaar mit Schafherde. 172 Heilige Familie.                                                                                                  | Leinw.103/75,5cm. Leinw.130/150 cm.                                                            |",325,99.6,False,positional,J. B. Jongkind,,,,
-BO0624_88001,290564,57,173,"Engel. Angelika Kaufimann,1741—1807,Rom. (Siehe Abbildung Tafel VIll.)                                                                                                                                 | Leinw.131/156 cm. Heilige Magdalena in Felsengrotte, am Eingang ein fliegender Leinw.37/47 cm. |",326,98.7,False,positional,J. B. Jongkind,,,,
-BO0624_88001,290565,58,174,Portrat eines Dichters. Bezeichnet Roma 1787. Leinw. 75/62 cm.                                                                                                                                         |                                                                                                |,327,96.7,False,positional,J. B. Jongkind,,,,
+BO0624_88001,290564,57,173,"Engel. Angelika Kaufimann,1741—1807,Rom. (Siehe Abbildung Tafel VIll.)                                                                                                                                 | Leinw.131/156 cm. Heilige Magdalena in Felsengrotte, am Eingang ein fliegender Leinw.37/47 cm. |",326,98.7,False,positional,J. B. Jongkind,,,,Sec. XVIII
+BO0624_88001,290565,58,174,Portrat eines Dichters. Bezeichnet Roma 1787. Leinw. 75/62 cm.                                                                                                                                         |                                                                                                |,327,96.7,False,positional,J. B. Jongkind,,,,Sec. XVIII
 BO0624_88001,290566,59,182,"Marktszene. Jules Lunteschuitz, 18221893, Frankfurt a.M.                                                                                                                                               |                                                                                                |",334,96.3,False,positional,J. B. Jongkind,,BASTONI,,
 BO0624_88001,290567,60,183,Kopf eines jungen Malers.                                                                                                                                                                              | Leinw.43/34 cm.                                                                                |,335,95.1,False,positional,J. B. Jongkind,,,,
 BO0624_88001,290568,61,184,Stilleben mit Memento mori usw. Leinw.75/94 cm.,338,95.7,False,positional,J. B. Jongkind,,,,
@@ -131,8 +131,8 @@ BO0624_88001,290636,129,275,Desgleichen. /105 cm.,556,66.7,False,positional,,,Te
 BO0624_88001,290637,130,276,Desgleichen. /104 cm.,560,66.7,False,positional,,,Teppiche; Schals,,
 BO0624_88001,290638,131,277,Indischer Schal. Handarbeit. /115 cm.,564,82.5,False,positional,,,Teppiche; Schals,,
 BO0624_88001,290639,132,278,Desgleichen. /150 cm.,568,66.7,False,positional,,,Teppiche; Schals,,
-BO0624_88001,290640,133,279,Franzosischer Gobelin. Landschaft mit Staffage. Mit schoner Bordure und von prachtiger Erhaltung. XVI. Jahrhundert.,575,98.2,False,positional,,,Teppiche; Schals,,
-BO0624_88001,290641,134,280,Vlamischer Gobelin. Christus vor Pilatus. Mit schoner Bordire und von vortrefflicher Erhaltung.Bezeichnet 1550. ca.280/220 cm. (Siehe Abbildung Tafel XIl.),581,98.7,False,positional,,,Teppiche; Schals,,
+BO0624_88001,290640,133,279,Franzosischer Gobelin. Landschaft mit Staffage. Mit schoner Bordure und von prachtiger Erhaltung. XVI. Jahrhundert.,575,98.2,False,positional,,,Teppiche; Schals,,Sec. XVI
+BO0624_88001,290641,134,280,Vlamischer Gobelin. Christus vor Pilatus. Mit schoner Bordire und von vortrefflicher Erhaltung.Bezeichnet 1550. ca.280/220 cm. (Siehe Abbildung Tafel XIl.),581,98.7,False,positional,,,Teppiche; Schals,,Sec. XVI
 BO0624_88001,290642,135,282,"| Spiegel. Mahagoni. Louis XVI. Hohe 140, Breite 70 cm.                                     |",592,96.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88001,290643,136,285,| Waschservicegestell. Mahagoni. Hohe 79 cm.                                                |,595,95.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88001,290644,137,286,| Eckschrank. Mahagoni. Louis XVI. Hohe 230 cm.                                             |,596,95.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -164,7 +164,7 @@ BO0624_88001,290669,162,313,Desgleichen.,634,84.6,False,positional,,,Antiquitate
 BO0624_88001,290670,163,314,"Facher, reich auf Pfauenhaut gemalt mit Perlmuttergestell,fein",636,96.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88001,290671,164,315,Elfenbein-Miniatur. und Monogramm F. F. M. C. Englisch.,639,96.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88001,290672,165,316,"6Desgleichen.Dame als Gartnerin. Art Boucher. Rickseite mit Diam 6,5 cm. Haararbeit und Monogramm LH.",640,98.0,False,positional,BOUCHER FRANCOIS,,Antiquitaten; Kunstgegenstande,,
-BO0624_88001,290673,166,317,"Elfenbein-Miniatur. Dame mit weibem Haubchen,Umschlagtuch, schwarzem Samthalsband und goldenem Kreuzchen. Bezeichnet Bornet 1789. Diam.6,5 cm.",641,98.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88001,290673,166,317,"Elfenbein-Miniatur. Dame mit weibem Haubchen,Umschlagtuch, schwarzem Samthalsband und goldenem Kreuzchen. Bezeichnet Bornet 1789. Diam.6,5 cm.",641,98.6,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88001,290674,167,318,Desgleichen. Dame mit Korallenkette. Empire. Oval 8/6 cm.,642,96.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88001,290675,168,319,- 320,644,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88001,290676,169,321,- Ring. Gold mit Brillant.,646,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -458,7 +458,7 @@ BO0624_88001,290963,456,615,Drei Jahrgange. Chronik fur vervielfaltigende Kunst.
 BO0624_88001,290964,457,616,Vier Bande franzosische Literatur.,1274,94.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88001,290965,458,617,Zeichnungen von Professor Hofmann (Struwwelpeter-Hofmann).,1275,96.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88001,290966,459,618,Illustrierte Versteigerungskataloge. 25 Stuick.,1276,95.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_88001,290967,460,619,- Muinchner bunte Mappe 1884.,1278,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_88001,290967,460,619,- Muinchner bunte Mappe 1884.,1278,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_88001,290968,461,620,Zwei Kupferstiche nach Watteau. Landliche Feste.,1279,95.8,False,positional,WATTEAU FRANCOIS,,Antiquitaten; Kunstgegenstande,,
 BO0624_88001,290969,462,621,Vier kleine Bildchen.,1280,90.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_88001,290970,463,622,- Kupferemailbildchen. Liebesszene. Franzosisch.,1282,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,

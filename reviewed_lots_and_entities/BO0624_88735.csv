@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88735,657400,1,1,"TISCHDECKE,roter Plisch,mit Goldborden abgesetzt.",9,98.0,False,positional,,,PERSER TEPPICHE; GOBELINS,,
-BO0624_88735,657401,2,2,"LEINENDECKCHEN mit Blumenstickerei,datiert 1669.",10,97.9,False,positional,,,PERSER TEPPICHE; GOBELINS,,
+BO0624_88735,657401,2,2,"LEINENDECKCHEN mit Blumenstickerei,datiert 1669.",10,97.9,False,positional,,,PERSER TEPPICHE; GOBELINS,,Sec. XVII
 BO0624_88735,657402,3,3,TISCHDECKE im Louis-XVI.-Stil mit sich wiederholendem Blumenmuster.,11,98.5,False,positional,,,PERSER TEPPICHE; GOBELINS,,
 BO0624_88735,657403,4,4,"SOFADECKE,gringrundiger,groB gemusterter Velvet.",12,97.9,False,positional,,,PERSER TEPPICHE; GOBELINS,,
 BO0624_88735,657404,5,5,"ZWEI AUBUSSON-STUHLSITZE, Blumenmuster auf mattgrinem Grund.",13,98.3,False,title_direct,,,AUBUSSONS,,
@@ -23,13 +23,13 @@ BO0624_88735,657420,21,21,CHORASSAN-TEPPICH mit durchgemustertem Spiegel. 250X 1
 BO0624_88735,657421,22,21,a LADIK-TEPPICH mit rotem Spiegel. 190 X 106 cm.,34,97.9,False,positional,,,SPECCHI,,
 BO0624_88735,657422,23,21,b KIS GHIORDES.220X112cm.,35,96.0,False,positional,,,PERSER TEPPICHE; GOBELINS,,
 BO0624_88735,657423,24,21,cKULA-GEBETSTEPPICH.163X 100 cm.,37,96.9,False,positional,,,PERSER TEPPICHE; GOBELINS,,
-BO0624_88735,657424,25,25,VLAMISCHER GOBELIN UM 1650: Szene aus der romischen Geschichte. In einer,43,97.9,False,title_direct,,,GOBELINS,,
+BO0624_88735,657424,25,25,VLAMISCHER GOBELIN UM 1650: Szene aus der romischen Geschichte. In einer,43,97.9,False,title_direct,,,GOBELINS,,Sec. XVII
 BO0624_88735,657425,26,26,"LOUIS-XVI.-TISCH, einschibig,NuBholz. In der Platte Blumenrankeneinlage.",52,97.8,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657426,27,27,"28 ZWEI LOUIS-XVI.-STUHLE,Eiche,mit Rohrbezug.",53,96.7,False,positional,,,OGGETTI VARI,,
 BO0624_88735,657427,28,29,SPANISCHE TRUHE mit gewolbtem Deckel. Leder mit schmiedeeisernen Beschlagen.,54,98.0,False,positional,,,BAULI,,
 BO0624_88735,657428,29,30,"EMPIRE-VITRINE, Mahagoni, eintirig. An den Seiten freistehende Holzsaulen.",55,97.9,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657429,30,31,"EMPIRE-KLEIDERSCHRANK,zweitirig,NuBholz.207X168 cm.",57,98.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657430,31,32,"LOUIS-XV.-FAUTEUIL,Buche mit fraisefarbenem gebluimten Seidenbezug. Um 1750.",58,98.0,False,positional,,Periodo di Luigi XV,SCOMPARTI,,
+BO0624_88735,657430,31,32,"LOUIS-XV.-FAUTEUIL,Buche mit fraisefarbenem gebluimten Seidenbezug. Um 1750.",58,98.0,False,positional,,Periodo di Luigi XV,SCOMPARTI,,Sec. XVIII
 BO0624_88735,657431,32,33,"BAROCK-BACKENSESSEL,Buche,mit grinem Samtbezug.",59,96.8,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657432,33,34,"DIPLOMATEN-SCHREIBTISCH im Empirestil,Mahagoni,zweitirig,dreischibig. Die",60,98.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657433,34,35,"BAROCK-SCHREIBSEKRETAR,dreiteilig, Eiche mit Bronzebeschlagen. Unterteil kommodenartig dreischibig,Mittelteil mit gewolbter aufklappbarer Schreibplatte, Oberteil zweitirig verglast. 235X126X63 cm.",62,99.2,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
@@ -42,36 +42,36 @@ BO0624_88735,657439,40,41,"42 EIN PAAR BIEDERMEIER-LEHNSESSEL,Mahagoni mit rotem
 BO0624_88735,657440,41,43,"EIN DESGL.,Mahagoni mit dunkelgrinem Wollripsbezug.",70,97.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657441,42,44,"45 EIN PAAR BIEDERMEIER-STUHLE,Mahagoni mit mauvefarbenem Samtbezug.",71,97.8,False,positional,,Biedermeier,OGGETTI VARI,,
 BO0624_88735,657442,43,46,47EIN PAAR DESGL.mit rotem Samtbezug.,72,96.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657443,44,48,"49 EIN PAAR LOUIS-XVI.-STUHLE,schwarzgold mit grin gewirfeltem Samtbezug. Norddeutsch um 1770.",73,98.4,False,positional,,,OGGETTI VARI,,
-BO0624_88735,657444,45,50,"MAHAGONI-SPIELTISCH,norddeutsch,Anfang 19. Jahrhundert.",74,97.2,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657443,44,48,"49 EIN PAAR LOUIS-XVI.-STUHLE,schwarzgold mit grin gewirfeltem Samtbezug. Norddeutsch um 1770.",73,98.4,False,positional,,,OGGETTI VARI,,Sec. XVIII
+BO0624_88735,657444,45,50,"MAHAGONI-SPIELTISCH,norddeutsch,Anfang 19. Jahrhundert.",74,97.2,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XIX
 BO0624_88735,657445,46,51,"BAROCK-SAMMELSCHRANKCHEN,Ebenholz,Zweitirig,Zweischibig,mit reicher Inneneinrichtung. 81 cm hoch.",75,98.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657446,47,52,"EMPIRE-SPIELTISCH,Birke.",76,93.9,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657447,48,53,"EMPIRE-NAHTISCH,Mahagoni,achteckige Form.",77,96.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657448,49,54,"LOUIS-XVI.-TISCH, rechteckige Form auf kannelierten Beinen. Birnbaum. (Die Platte unfurniert.)",78,98.3,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657449,50,55,"DIRECTOIRE-PAPIERKORB,Mahagoni,mit Messingeinsatz und zwei Bronzegriffen in Form von Lowenkopfen. Holland um 1800.",79,98.7,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657449,50,55,"DIRECTOIRE-PAPIERKORB,Mahagoni,mit Messingeinsatz und zwei Bronzegriffen in Form von Lowenkopfen. Holland um 1800.",79,98.7,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XIX
 BO0624_88735,657450,51,56,"ROKOKO-TISCH,Esche, schmale geschweifte Platte.",80,96.8,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657451,52,57,"EMPIRE-STUHL, Mahagoni mit Rohrbezug. Die Lehne zickzackformig geteilt.",81,97.8,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657452,53,58,"BAROCK-ZIERSCHRANK, finfschibig, NuBholz mit Elfenbein und Bandintarsien. Die Fillungen der Laden schildpattartig behandelt. Auf der Deckplatte die Signatur: Regedorff,StraBburg,1707.41X 67 cm.",82,99.2,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657452,53,58,"BAROCK-ZIERSCHRANK, finfschibig, NuBholz mit Elfenbein und Bandintarsien. Die Fillungen der Laden schildpattartig behandelt. Auf der Deckplatte die Signatur: Regedorff,StraBburg,1707.41X 67 cm.",82,99.2,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88735,657453,54,59,"HOLLANDISCHER VITRINENSCHRANK LOUIS XVI.,NuBholz mit Blumenintarsien. Unterteil zweitirig, Oberteil zweitirig verglast. 238X 148 cm.",83,98.8,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657454,55,60,"LOUIS-XVI.-SOFABANK,holzgeschnitzt und vergoldet,mit fraisefarbenem Seidenbezug und vier freiliegenden fraisefarbenen Silberbrokat-Sitz- und Rickenkissen. Norddeutsch um 1780.",84,99.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657455,56,61,"62 EIN PAAR LOUIS-XVI.-FAUTEUILS,holzgeschnitzt und vergoldet,mit fraisefarbenem Seidenbezug und je einem freiliegenden fraisegrundigen Silberbrokat-Sitzkissen.Norddeutsch um 1780.",85,99.2,False,positional,,,SCOMPARTI,,
+BO0624_88735,657454,55,60,"LOUIS-XVI.-SOFABANK,holzgeschnitzt und vergoldet,mit fraisefarbenem Seidenbezug und vier freiliegenden fraisefarbenen Silberbrokat-Sitz- und Rickenkissen. Norddeutsch um 1780.",84,99.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
+BO0624_88735,657455,56,61,"62 EIN PAAR LOUIS-XVI.-FAUTEUILS,holzgeschnitzt und vergoldet,mit fraisefarbenem Seidenbezug und je einem freiliegenden fraisegrundigen Silberbrokat-Sitzkissen.Norddeutsch um 1780.",85,99.2,False,positional,,,SCOMPARTI,,Sec. XVIII
 BO0624_88735,657456,57,63,"LOUIS-XVI.-SOFABANK,holzgeschnitzt und vergoldet,mit fraisefarbenem Seiden-",86,98.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657457,58,64,"68 FUNF LOUIS-XVI.-STUHLE, holzgeschnitzt und vergoldet,mit kleinblumigem fraisegrundigem Silberbrokatbezug der Zeit. Norddeutsch um 1780.",88,98.9,False,positional,,,OGGETTI VARI,,
-BO0624_88735,657458,59,69,"71 DREI DESGL., ahnlich mit groBblumigem grinem Damastbezug. Nordeutsch um 1780.",89,98.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657457,58,64,"68 FUNF LOUIS-XVI.-STUHLE, holzgeschnitzt und vergoldet,mit kleinblumigem fraisegrundigem Silberbrokatbezug der Zeit. Norddeutsch um 1780.",88,98.9,False,positional,,,OGGETTI VARI,,Sec. XVIII
+BO0624_88735,657458,59,69,"71 DREI DESGL., ahnlich mit groBblumigem grinem Damastbezug. Nordeutsch um 1780.",89,98.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88735,657459,60,72,"NOTENSCHRANK im Louis-XVI.-Stil,Rosenholz mit Goldbronzebeschlagen. Oberteil mit einer Jalousie versehen, Unterteil zweitirig. Mit Marmorplatte. 157 X 90 cm.",90,99.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657460,61,73,"STOLLENSCHRANK im rheinischen Renaissancestil,Eiche, Oberteil zweitirig,Unterteil einschibig. Die Tirfuillungen reich verkropft. Auf KugelfiBen. 190 X 115 cm.",91,99.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657461,62,74,LOUIS-XV.-TISCHCHEN. In der Platte figirliche Kacheleinlage.,92,97.4,False,positional,,Periodo di Luigi XV,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657462,63,75,"LOUIS-XVI.-SCHREIBSEKRETAR, Wurzel-NuB mit Original-Beschlagen.Unterteil dreischibig auf VierkantfiBen, schrages aufklappbares Mittelteil, zweitiriges mit Spiegelglas versehenes Oberteil, das Gesims dreigeteilt mit GalerieabschluB.Deutsch um 1780.255X111 cm.",93,99.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657462,63,75,"LOUIS-XVI.-SCHREIBSEKRETAR, Wurzel-NuB mit Original-Beschlagen.Unterteil dreischibig auf VierkantfiBen, schrages aufklappbares Mittelteil, zweitiriges mit Spiegelglas versehenes Oberteil, das Gesims dreigeteilt mit GalerieabschluB.Deutsch um 1780.255X111 cm.",93,99.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88735,657463,64,76,"77 ZWEI ARMELEHNSESSEL im Stil des Hochbarock mit Rohrflechtsitz und Lehne,",94,98.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657464,65,78,"RUNDES TISCHCHEN, Mahagoni. Durchmesser 68 cm.",96,96.6,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657465,66,79,"DESGL., oval mit abnehmbarem Tablett.",97,95.8,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657466,67,80,"FRANKFURTER BAROCK-WELLENSCHRANK,NuBholz,Zweitirig. 190 X 190 cm.",98,97.7,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657467,68,81,"LOUIS-XVI.-TISCH, Mahagoni, einschibig. Auf der Platte schachbrettartige Marquetterie.18. Jahrhundert.",99,98.5,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657468,69,82,"LOUIS-XVI.-STUHL, Buche mit groBblumigem Wollripsbezug.",100,97.2,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657469,70,83,"LOUIS-XVI.-SCHREIBTISCH, siebenschubig, NuBholz mit Intarsien. Die Platte dreiteilig aufklappbar als Poudreuse eingerichtet.Norddeutsch. 18. Jahrhundert.",101,99.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657469,70,83,"LOUIS-XVI.-SCHREIBTISCH, siebenschubig, NuBholz mit Intarsien. Die Platte dreiteilig aufklappbar als Poudreuse eingerichtet.Norddeutsch. 18. Jahrhundert.",101,99.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88735,657470,71,84,"LOUIS-XVI.-SCHREIBSEKRETAR,Eiche mit NuBbaumeinlagen.Unterteil kommodenartig dreischibig mit schrager aufklappbarer Schreibplatte,Oberteil neunschibig, eintirig, mit Medaillonschnitzerei, bekront von zwei Louis-XVI.-Vasen. Siddeutsch. 18.Jahrhundert.220X 115 cm.",102,99.4,False,positional,,,VASI,,
 BO0624_88735,657471,72,85,"NORDDEUTSCHER KLEIDERSCHRANK, zweitirig,Eiche. Die Tirfillungen reich verkropft,in der Mitte des Gesimses ein holzgeschnitzter Engelskopf. Auf KugelfiBen.",103,99.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657472,73,86,89 VIER RENAISSANCE-STUHLE auf SaulenfiBen mit saulenformiger Stegverbindung. Mit holzgeschnitzten und vergoldeten blatterformigen Aufsatzen mit grinen Samtbezigen. Spanisch. 17. Jahrhundert. (Bezige erganzt.),105,99.3,False,positional,,,OGGETTI VARI,,
+BO0624_88735,657472,73,86,89 VIER RENAISSANCE-STUHLE auf SaulenfiBen mit saulenformiger Stegverbindung. Mit holzgeschnitzten und vergoldeten blatterformigen Aufsatzen mit grinen Samtbezigen. Spanisch. 17. Jahrhundert. (Bezige erganzt.),105,99.3,False,positional,,,OGGETTI VARI,,Sec. XVII
 BO0624_88735,657473,74,90,"EMPIRE-AUFSATZSCHRANK, Mahagoni, Unterteil zWeitirig, Oberteil zweitirig, verglast. 195X 100 cm.",106,98.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657474,75,92,"EMPIRE-VITRINE,eintirig,Obstholz. Rickseite mit Spiegelglas versehen. X75cm.",107,93.7,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657475,76,93,"LOUIS-XVI.-TISCH, einschibig, NuBholz. Auf der Platte schachbrettartige Intarsien.",109,98.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
@@ -79,7 +79,7 @@ BO0624_88735,657476,77,94,"HOLLANDISCHER KLAPPTISCH, Mahagoni, auf gedrehten Sau
 BO0624_88735,657477,78,95,"KLEINE KOMMODE im Louis-XV.-Stil,Rosenholz mit Blumenintarsien. Gebauchte",113,97.9,False,positional,,Periodo di Luigi XV,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657478,79,96,"EMPIRE-SPIELTISCH, Mahagoni, mit Messingbanderverzierung. Auf der Platte Intarsia in Schachbrettform, verstellbarer FuB. Im Innern griner Stoffbezug fuir Puffspiel.",115,99.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657479,80,97,"GUERIDON, NuBholz. Auf SaulenfuB runde Platte mit Marmoreinlage und Messing-",116,98.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657480,81,98,"99 EIN PAAR DIRECTOIRE-SESSEL,Mahagoni mit Bronzeverzierung und saftgrinem gemusterten Damastbezug. Frankreich um 1800.",118,98.7,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657480,81,98,"99 EIN PAAR DIRECTOIRE-SESSEL,Mahagoni mit Bronzeverzierung und saftgrinem gemusterten Damastbezug. Frankreich um 1800.",118,98.7,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XIX
 BO0624_88735,657481,82,100,"TISCHCHEN,einschibig, NuBbaum im Louis-XIIl-Stil. Auf SaulenfiBen mit x-formiger",119,97.5,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657482,83,101,"LOUIS-XV.-SOFABANK, NuBholz mit groBblumigem roten Damastbezug. Wirzburg. Jahrhundert.",121,89.6,False,positional,,Periodo di Luigi XV,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657483,84,102,"LOUIS-XV.-POUDREUSE,Acajou,einschibig,mit dreiteiliger offener NuBbaumplatte. Innen Spiegeleinrichtung. 74 cm breit.",123,98.2,False,positional,,Periodo di Luigi XV,ACQUEFORTI,,
@@ -88,12 +88,12 @@ BO0624_88735,657485,86,104,"105 ZWEI FRUHRENAISSANCE-STUHLE,Eiche mit Intarsien 
 BO0624_88735,657486,87,106,"ROKOKO-AUFSATZSCHRANK,NuBbaum mit schachbrettartigen Intarsien.Unterteil reich geschweift auf hohen FiBen,zweischibig, Oberteil eintirig verglast. Siddeutsch 18.Jahrhundert. 190X 77 cm.",127,98.9,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657487,88,107,"ITALIENISCHER BAROCK-KONSOLTISCH, reich geschnitzt und vergoldet, mit",128,97.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657488,89,108,"BAROCK-BLUMENTISCH,holzgeschnitzt und vergoldet. Ein Putto mit Taube tragt die runde,mit freiliegendem Weinlaubmuster geschmickte,rot bezogene Holzplatte. Durchmesser 100 cm.",130,98.8,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657489,90,109,"LOUIS-XV.-FAUTEUIL mit Verdurenbezug, Buche. Franzosisch um 1750.",131,96.8,False,positional,,Periodo di Luigi XV,SCOMPARTI,,
+BO0624_88735,657489,90,109,"LOUIS-XV.-FAUTEUIL mit Verdurenbezug, Buche. Franzosisch um 1750.",131,96.8,False,positional,,Periodo di Luigi XV,SCOMPARTI,,Sec. XVIII
 BO0624_88735,657490,91,110,"STOLLENSCHRANK im Stil der rheinischen Frihrenaissance, Eiche, viertirig, Das dachformige Gesims wird von zwei Karyatiden getragen.",132,98.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657491,92,111,"BIEDERMEIER-SOFABANK, Kirschholz mit violett gestreiftem Wollripsbezug.",134,97.2,False,positional,,Biedermeier,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657492,93,112,"KRISTALL-KRONLEUCHTER im Barockstil, 24flammig, mit Blattprismen-Behang.",135,97.2,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657493,94,113,LATERNE im Stil der venezianischen Renaissance. Holzgeschnitzter FuB mit ver-,136,97.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657494,95,114,"ROKOKO-ALTAR-AUFSATZ.Quadratischer Unterteil von zwei anbetenden Engeln bekront. Von freistehenden Saulen geschmicktes Mittelteil mit zwei Nischen,in denen je eine Apostelfigur steht. Kuppelformiger Aufsatz von Putten und Engeln geschmiickt. NuBholz. Siddeutsch. 18. Jahrhundert. 213 cm hoch. Auf Holzpodest, mit aufstell-",138,99.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657494,95,114,"ROKOKO-ALTAR-AUFSATZ.Quadratischer Unterteil von zwei anbetenden Engeln bekront. Von freistehenden Saulen geschmicktes Mittelteil mit zwei Nischen,in denen je eine Apostelfigur steht. Kuppelformiger Aufsatz von Putten und Engeln geschmiickt. NuBholz. Siddeutsch. 18. Jahrhundert. 213 cm hoch. Auf Holzpodest, mit aufstell-",138,99.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88735,657495,96,115,"EMPIRE-VITRINENSCHRANK, Mahagoni,eintirig, auf holzgeschnitzten und vergoldeten KlauenfiBen. An den Seiten Halbsaulen mit Bronzekapitalen. 200 X 90 cm.",140,98.6,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657496,97,116,"EMPIRE-VITRINENTISCH, Mahagoni mit Messingbanderverzierung.",141,96.6,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657497,98,117,"SUDDEUTSCHER LOUIS-XVI.-KLEIDERSCHRANK, Zweitirig, einschibig, Eiche, mit geteiltem Gesims. Auf den Tirfillungen Schachbrettintarsia und Medaillons,in diesen ein das Jagdhorn blasender Jager mit Hund und eine weibliche Figur mit Lamm, einen Krug auf dem Arm tragend. Die Fleischteile Elfenbein. In der Bekronung und den abgeschragten Ecken Blumenintarsia aus verschiedenfarbigen Holzern. 18.Jahrhundert.210X155 cm. Abbildung Tafel3",142,99.5,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
@@ -101,41 +101,41 @@ BO0624_88735,657498,99,118,"119 EIN PAAR LOUIS-XVI.-FAUTEUILS, NuBholz mit mehrf
 BO0624_88735,657499,100,120,FRUHRENAISSANCE-HALLENTISCH auf gekreuzten Beinen. Der Langssteg in,145,97.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657500,101,126,SALONTISCH auf vier geschweiften FuBen mit Marmorplatte. Auf dieser Masquaron,153,97.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657501,102,127,"BAROCK-VITRINE in Form eines stehenden Putto, der den eintirigen holzgeschnitzten",155,97.6,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657502,103,128,"LOUIS-XV.-DAMEN-BUREAU-PLAT,NuBholz,rechteckige Form. An den Schmalseiten je eine Schublade. Die Platte mit Lederbezug. Franzosisch. 18. Jahrhundert. 117 cm lang.",157,98.7,False,positional,,Periodo di Luigi XV,PIATTI,,
-BO0624_88735,657503,104,129,"LOUIS-XIV.FAUTEUIL, Buche,reich geschnitztes Gestell mit groBblumigem Wollbezug. Frankreich. Um 1725.",158,98.0,False,positional,,,SCOMPARTI,,
+BO0624_88735,657502,103,128,"LOUIS-XV.-DAMEN-BUREAU-PLAT,NuBholz,rechteckige Form. An den Schmalseiten je eine Schublade. Die Platte mit Lederbezug. Franzosisch. 18. Jahrhundert. 117 cm lang.",157,98.7,False,positional,,Periodo di Luigi XV,PIATTI,,Sec. XVIII
+BO0624_88735,657503,104,129,"LOUIS-XIV.FAUTEUIL, Buche,reich geschnitztes Gestell mit groBblumigem Wollbezug. Frankreich. Um 1725.",158,98.0,False,positional,,,SCOMPARTI,,Sec. XVIII
 BO0624_88735,657504,105,130,"ROKOKO-STANDUHR,Eiche.Norddeutsch. 18.Jahrhundert.",159,96.0,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657505,106,131,"BAROCKVITRINENAUFSATZ,eintirig,grin gefaBt,mit Blumenmalerei Um 1700.",160,97.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657505,106,131,"BAROCKVITRINENAUFSATZ,eintirig,grin gefaBt,mit Blumenmalerei Um 1700.",160,97.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88735,657506,107,132,133 EIN PAAR QUEEN-ANNE-FAUTEUILS mit Lederbezug der Zeit. 1. Halfte,161,97.1,False,positional,,,SCOMPARTI,,
 BO0624_88735,657507,108,16,Jahrhundert.,162,88.0,False,positional,,Scuola Fiorentina,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657508,109,134,EMPIRE-KRISTALL-KRONLEUCHTER mit Prismenbehang der Zeit.12kerzig. Um 1800.,163,97.3,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657508,109,134,EMPIRE-KRISTALL-KRONLEUCHTER mit Prismenbehang der Zeit.12kerzig. Um 1800.,163,97.3,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XIX
 BO0624_88735,657509,110,135,"HALBRUNDE FRANZOSISCHE KOMMODE im Louis-XVI.-Stil, Rosenholz, auf kantigen geschwungenen FuBen. Bunte Marmorplatte.",164,98.2,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657510,111,136,"DAMEN-SCHREIBTISCH im Louis-XV.-Stil, Rosenholz mit WurzelnuBfillungen,in diesen Blumenintarsien. Geschweifte,aufklappbare Schreibplatte,reiche Inneneinrichtung. Freistehend gearbeitet,Bronzeverzierungen.",165,99.0,False,positional,,Periodo di Luigi XV,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657511,112,137,"MAHAGONI-SPIELTISCH im Louis-XVI.Stil, rechteckige, abnehmbare Platte mit Tuchbezug bzw. Schachmuster. Innen Puffspieleinrichtung.",166,98.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657512,113,138,"EMPIRE-ZYLINDERBUREAU,Obstholz.",167,95.2,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657513,114,139,"BAROCK-KLEIDERSCHRANK,zweitirig,NuBholz. Die von Pilastern eingefaBten Tuirfillungen architektonisch gegliedert. Augsburg um 1700. 237X 265 cm. Abbildung Tafel 2",168,98.7,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657513,114,139,"BAROCK-KLEIDERSCHRANK,zweitirig,NuBholz. Die von Pilastern eingefaBten Tuirfillungen architektonisch gegliedert. Augsburg um 1700. 237X 265 cm. Abbildung Tafel 2",168,98.7,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88735,657514,115,140,"141 EIN PAAR ITAL.RENAISSANCE-LEHNSESSEL,italienisches NuBbaum mit",169,97.1,False,positional,,,POLTRONE,,
 BO0624_88735,657515,116,142,"BAROCK-LEHNSESSEL,reich geschnitztes NuBholzgestell mit braunem Satinbezug.",171,97.4,False,positional,,,POLTRONE,,
-BO0624_88735,657516,117,143,"QUEEN-ANNE-SIDEBOARD,Eiche,dreizigig,mit vieretagigem Aufsatz.DieFullungen der Laden sternartigverkropft.England um 1680.200X 169X.51 cm.(Die Rickwand erganzt.) Mit dazugehorigem Davenport-Steingutservice mit blauem Landschaftsdekor, bestehend aus neun groBen und sechs kleinen Tellern, einer Schissel und zwei Deckelnapfen.(Teilweise beschadigt.)",172,99.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657517,118,144,"BAROCK-AUSZIEHTISCH,Eiche mit NuBholzplatte,einschubig,auf gedrehten FuBen, mit umlaufender Stegverbindung. In der Platte ein sternartiges Feld. Holland um 1700. 125×98cm.",173,98.8,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657518,119,145,"BERLINER BAROCK-KLEIDERSCHRANK,Eiche mit NuBbaumfillungen,Zweitirig, zweischibig. Reich verkropfte Fillungen und reich geschnitzte Kapitale. Um 1700. 212X220X87cm",174,98.8,False,positional,,Scuola di Berlino,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657516,117,143,"QUEEN-ANNE-SIDEBOARD,Eiche,dreizigig,mit vieretagigem Aufsatz.DieFullungen der Laden sternartigverkropft.England um 1680.200X 169X.51 cm.(Die Rickwand erganzt.) Mit dazugehorigem Davenport-Steingutservice mit blauem Landschaftsdekor, bestehend aus neun groBen und sechs kleinen Tellern, einer Schissel und zwei Deckelnapfen.(Teilweise beschadigt.)",172,99.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVII
+BO0624_88735,657517,118,144,"BAROCK-AUSZIEHTISCH,Eiche mit NuBholzplatte,einschubig,auf gedrehten FuBen, mit umlaufender Stegverbindung. In der Platte ein sternartiges Feld. Holland um 1700. 125×98cm.",173,98.8,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
+BO0624_88735,657518,119,145,"BERLINER BAROCK-KLEIDERSCHRANK,Eiche mit NuBbaumfillungen,Zweitirig, zweischibig. Reich verkropfte Fillungen und reich geschnitzte Kapitale. Um 1700. 212X220X87cm",174,98.8,False,positional,,Scuola di Berlino,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88735,657519,120,146,"LOUIS-XVI.-ECKSCHRANK,Rotlackgrund mit Goldchinoiserien.Oberteil eintirig,verglast,Unterteil eintirig. 207 cm hoch.",175,98.2,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657520,121,147,"HOLLANDISCHER KABINETTSCHRANK,mit Chinoiserien bemalt, zWeitirig,mit Inneneinrichtung,letztere Rotlack bemalt,vierzehnschibig und eintirig. Auf gedrehten SaulenfiBen mit Stegverbindung. 18. Jahrhundert. 170 X119 cm.",176,99.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
+BO0624_88735,657520,121,147,"HOLLANDISCHER KABINETTSCHRANK,mit Chinoiserien bemalt, zWeitirig,mit Inneneinrichtung,letztere Rotlack bemalt,vierzehnschibig und eintirig. Auf gedrehten SaulenfiBen mit Stegverbindung. 18. Jahrhundert. 170 X119 cm.",176,99.1,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88735,657521,122,148,"LOUIS-XVI.TISCH,einschibig,NuBholz. Auf kannelierten SpitzfiBen,in der Deck-",177,97.4,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657522,123,149,EMPIRE-ETAGERE.Mahagoni. Auf DreifuB mit vier runden Aufsatzen in verschiedenen,179,97.5,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
 BO0624_88735,657523,124,150154,"FUNF LUTTICHER BAROCKSTUHLE mit moosgrinem,gewirfeltem Samtbezug.",181,94.8,False,positional,,,ANTIKE MOBEL; BELEUCHTUNGEN,,
-BO0624_88735,657524,125,155,"SHERATON-KLEIDERSCHRANK,Mahagoni, zweitirig,Zweischibig. Auf dem Gesims eine holzgeschnitzte,von Vasen bekronte Galerie, auf den Tirfillungen je eine Rosenholzeinlage in Form eines Blitenfestons. Die drei die Fillungen einschlieBenden Pilaster mit Flachschnitzwerk geziert. Auf VierkantfiBen. Um 1780. 285X 135 cm.",182,99.4,False,positional,,,VASI,,
-BO0624_88735,657525,126,156,RENAISSANCE-ZWEIHANDERSCHWERT. Signiert. Egydiy Wimer 1590.,188,96.6,False,positional,,,WAFFEN,,
+BO0624_88735,657524,125,155,"SHERATON-KLEIDERSCHRANK,Mahagoni, zweitirig,Zweischibig. Auf dem Gesims eine holzgeschnitzte,von Vasen bekronte Galerie, auf den Tirfillungen je eine Rosenholzeinlage in Form eines Blitenfestons. Die drei die Fillungen einschlieBenden Pilaster mit Flachschnitzwerk geziert. Auf VierkantfiBen. Um 1780. 285X 135 cm.",182,99.4,False,positional,,,VASI,,Sec. XVIII
+BO0624_88735,657525,126,156,RENAISSANCE-ZWEIHANDERSCHWERT. Signiert. Egydiy Wimer 1590.,188,96.6,False,positional,,,WAFFEN,,Sec. XVI
 BO0624_88735,657526,127,157,158 ZWEI BRUSTPANZER im Stil des DreiBigjahrigen Krieges mit zugehorigen,189,97.3,False,positional,,,WAFFEN,,
 BO0624_88735,657527,128,159,"SCHILD,gebuckelt,mit Spitze.",191,93.1,False,positional,,,WAFFEN,,
 BO0624_88735,657528,129,160,"REITERHELM,reich ziseliert.",192,92.9,False,positional,,,WAFFEN,,
 BO0624_88735,657529,130,161,"SARAZENERSCHWERT mit zugehoriger Urkunde,aus der ersichtlich, daB das",193,97.1,False,positional,,,WAFFEN,,
 BO0624_88735,657530,131,1600,(Stammt aus der Hankersdorffschen Sammlung.) Abbildung Tafel 6,221,95.9,False,positional,,,WAFFEN,,
 BO0624_88735,657531,132,187,"ALTPERSISCHER SABEL,Stahl,mit Silbereinlagen.",225,95.7,False,positional,,,OGGETTI IN METALLO,,
-BO0624_88735,657532,133,188,"BIRNENHELM, Schmiedeeisen.Deutsch. 16. Jahrhundert.",226,95.9,False,positional,,,WAFFEN,,
+BO0624_88735,657532,133,188,"BIRNENHELM, Schmiedeeisen.Deutsch. 16. Jahrhundert.",226,95.9,False,positional,,,WAFFEN,,Sec. XVI
 BO0624_88735,657533,134,189,"BURGUNDERHELM,Schmiedeeisen. 16.Jahrhundert.",227,95.5,False,positional,,,WAFFEN,,
 BO0624_88735,657534,135,190,"KRIEGSTROMMEL,Kursachsen. Auf der Wandung das Wappen in mehrfarbiger Bemalung. (Das Fell durch Holz erganzt.)",228,98.1,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88735,657535,136,191,"OFFIZIERHUT mit Feder. PreuBisch,um 1815.",229,95.1,False,positional,,,WAFFEN,,
-BO0624_88735,657536,137,192,"HOLZFIGUR: Bischof mit Mitra, in der erhobenen Linken die aufgeschlagene Bibel haltend. Lindenholz. Wirzburg. Um 1700. 135 cm hoch. Abbildung Tafel 5",236,98.6,False,positional,,,WAFFEN,,
+BO0624_88735,657535,136,191,"OFFIZIERHUT mit Feder. PreuBisch,um 1815.",229,95.1,False,positional,,,WAFFEN,,Sec. XIX
+BO0624_88735,657536,137,192,"HOLZFIGUR: Bischof mit Mitra, in der erhobenen Linken die aufgeschlagene Bibel haltend. Lindenholz. Wirzburg. Um 1700. 135 cm hoch. Abbildung Tafel 5",236,98.6,False,positional,,,WAFFEN,,Sec. XVIII
 BO0624_88735,657537,138,193,194 EIN PAAR GER. HOLZRELIEFS:Samson und Dalila - Samson im Kampf,237,96.9,False,positional,,,WAFFEN,,
 BO0624_88735,657538,139,195,"KL.DECKELTRUHE,Schmiedeeisen. a MESSINGSCHUSSEL. Im Spiegel zwei eine Traube tragende Winzer.",240,79.2,False,positional,,,SPECCHI,,
 BO0624_88735,657539,140,196,"BAROCK-MINIATUR-BUFETT,NuBholz mit Intarsien. Auf holzgeschnitztem und vergoldetem Unterteil und gleichem Aufbau.",241,98.2,False,positional,,,MINIATURE,,
@@ -147,7 +147,7 @@ BO0624_88735,657544,145,202,"SCHMUCKKASSETTE,Schmiedeeisen,reich graviert,Ranken
 BO0624_88735,657545,146,203,KONVOLUT:48 diverse Bleiplaketten.In Holzetui.,247,95.7,False,positional,,,WAFFEN,,
 BO0624_88735,657546,147,204,EMPIRE-BRONZE-PENDULE.Kastenformiges Unterteil. Das runde Gehause wird,248,97.2,False,positional,,,WAFFEN,,
 BO0624_88735,657547,148,205,EIN DESGL.im Renaissancestil mit zwei fratzenformigen Griffen. Auf dem Korper,250,97.4,False,positional,,,WAFFEN,,
-BO0624_88735,657548,149,206,"RENAISSANCE-BRONZE-TURKLOPFER in Form eines Lowenkopfes,der im Maul den schlangenformigen Griff tragt. Mitteldeutsch. Anfang 17. Jahrhundert. Auf ein Holzgestell aufmontiert. (Stammt aus Weimarer Museumsbesitz.)",252,99.0,False,positional,,,OGGETTI VARI,,
+BO0624_88735,657548,149,206,"RENAISSANCE-BRONZE-TURKLOPFER in Form eines Lowenkopfes,der im Maul den schlangenformigen Griff tragt. Mitteldeutsch. Anfang 17. Jahrhundert. Auf ein Holzgestell aufmontiert. (Stammt aus Weimarer Museumsbesitz.)",252,99.0,False,positional,,,OGGETTI VARI,,Sec. XVII
 BO0624_88735,657549,150,207,"GIRANDOLE in Form einer Viktoria,die zwei Kerzen tragt. Auf saulenartigem Postament. Berliner Eisen.65 cm hoch.",253,98.2,False,positional,EISEN CHARLES,Scuola di Berlino,OGGETTI IN FERRO,,
 BO0624_88735,657550,151,208,"EMPIRE-PLATED-MENAGE,achteckiger Sockel mit vier Glaseinsatzen.",254,96.9,False,positional,,,PIATTI,,
 BO0624_88735,657551,152,209,KRISTALLVASE.,255,88.9,False,positional,,,WAFFEN,,
@@ -155,7 +155,7 @@ BO0624_88735,657552,153,210,"SILBERNE ZIGARETTENDOSE,mit Inschriften und Auflage
 BO0624_88735,657553,154,211,SILB. SAHNENGIESSER in Form einer Kuh. Holland. Stempel Leuwaarden.,257,96.9,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88735,657554,155,212,"SILB.BRAUTBECHER,Nirnberg.",258,92.6,False,positional,,,WAFFEN,,
 BO0624_88735,657555,156,213,"SILB.ABENDMAHLSKELCH,Barock,auf FuB und Rankenmuster. Kuppa vergoldet.",259,97.1,False,positional,,,WAFFEN,,
-BO0624_88735,657556,157,214,"SILB. ROKOKO-TEEKANNCHEN,langs geriefelt. Holland. Mitte 18. Jahrhundert.",260,97.1,False,positional,,,WAFFEN,,
+BO0624_88735,657556,157,214,"SILB. ROKOKO-TEEKANNCHEN,langs geriefelt. Holland. Mitte 18. Jahrhundert.",260,97.1,False,positional,,,WAFFEN,,Sec. XVIII
 BO0624_88735,657557,158,215,"SILB.LOUIS-XVI.-TABLETT,runde Form,mit Eierstabrand, auf drei lyraformigen",262,97.3,False,positional,,,WAFFEN,,
 BO0624_88735,657558,159,216,SILB. CHANUKKALEUCHTER.,264,91.3,False,positional,,,WAFFEN,,
 BO0624_88735,657559,160,217,"EMPIRE-KRISTALLKORB in Silbergestell,mit silbernem Bigel und silbernem Untersatz.Anfang 19.Jahrhundert.",265,98.1,False,positional,,,WAFFEN,,
@@ -163,8 +163,8 @@ BO0624_88735,657560,161,218,"ROKOKO-WEIHWASSERBECKEN, die Rickwand zeigt Maria u
 BO0624_88735,657561,162,219,"SILB.HANDTASCHE in Netzform,mit Barock- und Jaspisperlen abgesetzt.",267,97.0,False,positional,,,WAFFEN,,
 BO0624_88735,657562,163,220,"KONVOLUT: Silbernes Teesieb, zwei silberne Salznapfchen mit einem silbernen",268,97.3,False,positional,,,WAFFEN,,
 BO0624_88735,657563,164,221,222 EIN PAAR SANDSTEINFIGUREN:Maria und Johannes vor einer Kreuzigung.,270,97.2,False,positional,,,WAFFEN,,
-BO0624_88735,657564,165,223,"HOLZRELIEF:Die heilige Hedwig,auf der erhobenen Rechten ein Kirchenmodell tragend. Auf dem Kopf eine turbanartige Bedeckung. Buche. Schlesisch,um 1500. 108 cm hoch.",272,98.8,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88735,657565,166,224,"BAROCK-HOLZFIGUR: Der Hohepriester. Linde. Siddeutsch,um 1700. 133 cm hoch.",273,97.2,False,positional,,,WAFFEN,,
+BO0624_88735,657564,165,223,"HOLZRELIEF:Die heilige Hedwig,auf der erhobenen Rechten ein Kirchenmodell tragend. Auf dem Kopf eine turbanartige Bedeckung. Buche. Schlesisch,um 1500. 108 cm hoch.",272,98.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_88735,657565,166,224,"BAROCK-HOLZFIGUR: Der Hohepriester. Linde. Siddeutsch,um 1700. 133 cm hoch.",273,97.2,False,positional,,,WAFFEN,,Sec. XVIII
 BO0624_88735,657566,167,225,LOUIS-XVI.-GOLDBRONZE-PENDULE auf schifformigem MarmorfuB. In Lyra-,274,97.0,False,positional,,,WAFFEN,,
 BO0624_88735,657567,168,226,"RENAISSANCE-BRONZE-MORSER,als Dekor Relief, Lilien und Frauengestalten.",276,97.2,False,positional,,,WAFFEN,,
 BO0624_88735,657568,169,227,BRONZE-RELIEF:Konigin Luise.,277,93.1,False,positional,,,WAFFEN,,
@@ -172,7 +172,7 @@ BO0624_88735,657569,170,1500,Auf Holzsockel. 54 cm hoch.,279,90.9,False,position
 BO0624_88735,657570,171,242,"BAROCK-SCHNITZEREI in Form von vergoldetem Rankenwerk, aus dem ein Engels-",291,97.3,False,positional,,,WAFFEN,,
 BO0624_88735,657571,172,248,"249 EIN PAAR EMPIRE-GOLDBRONZE-LEUCHTER,je einkerzig,auf rundem FuB.",298,97.1,False,positional,,,LAMPADE,,
 BO0624_88735,657572,173,250,251 ZWEI BRONZE-FEUERBOCKE im Stil des hollandischen Barock.,300,96.7,False,positional,,,WAFFEN,,
-BO0624_88735,657573,174,252,"ROKOKOSPIEGEL in Form einer Rocaillenkartusche,mit einemKerzenhalter.Um 1740.",301,97.4,False,positional,,,WAFFEN,,
+BO0624_88735,657573,174,252,"ROKOKOSPIEGEL in Form einer Rocaillenkartusche,mit einemKerzenhalter.Um 1740.",301,97.4,False,positional,,,WAFFEN,,Sec. XVIII
 BO0624_88735,657574,175,253,"254 ZWEI BAROCK-LEUCHTER-ENGEL,holzgeschnitzt,mit alter Fassung. Hohe 40cm.",302,97.3,False,positional,,,LAMPADE,,
 BO0624_88735,657575,176,255,"256 EIN PAAR SILB.KANDELABER im Louis-XVI.-Stil, je vierarmig,fuinfkerzig.",303,97.3,False,positional,,,CANDELABRI,,
 BO0624_88735,657576,177,257,"REISE-NECESSAIRE, Mahagoni-Kassette mit Messinglinien und Monogramm MM,",304,97.2,False,positional,,,WAFFEN,,
@@ -198,29 +198,29 @@ BO0624_88735,657595,196,277,278 EIN PAAR MEISSENER DECKELVASEN mit indianischem 
 BO0624_88735,657596,197,279,"WIENER BUTTERDOSE,zweihenklig,mit Blumendekor. Blaumarke Bindenschild.",341,97.1,False,positional,,,PORZELLAN,,
 BO0624_88735,657597,198,280,"WIENER JARDINIERE in Schifform,zweihenklig,mit gezacktem Rand und spar-",342,97.2,False,positional,,,PORZELLAN,,
 BO0624_88735,657598,199,281,BERLINER KAFFEEKANNCHEN mit Blumendekor und MEISSENER KAFFEEKANNE mit gleichem Dekor.,344,97.7,False,positional,,Scuola di Berlino,OGGETTI VARI,,
-BO0624_88735,657599,200,282,"WIENER PORZELLANGRUPPE:Knabe als Guckkastenmann. Um 1765. Unbemalt. (Aus der Sammlung Karl Meyer, Wien 1914.) (Beschadigt.)",345,98.3,False,title_direct,,Scuola Viennese,PORZELLAN,COLLEZIONE CARL MEYER,
+BO0624_88735,657599,200,282,"WIENER PORZELLANGRUPPE:Knabe als Guckkastenmann. Um 1765. Unbemalt. (Aus der Sammlung Karl Meyer, Wien 1914.) (Beschadigt.)",345,98.3,False,title_direct,,Scuola Viennese,PORZELLAN,COLLEZIONE CARL MEYER,Sec. XVIII
 BO0624_88735,657600,201,283,KONVOLUT: Sieben diverse Untertassen und Chinakoppchen mit Blaudekor. (Beschadigt.),346,97.5,False,positional,,,PORZELLAN,,
 BO0624_88735,657601,202,284,"BERLINER SCHOKOLADENTASSE,flache Form, cremefarbener Fond,im Spiegel Ansicht des Stadthauses zu Breslau. (Untertasse fehlt.)",347,98.3,False,positional,,Scuola di Berlino,SPECCHI,,
 BO0624_88735,657602,203,285,THURINGER EMPIRE-TASSE. Auf der Obertasse Ansicht von Hildburghausen.,348,97.1,False,positional,,,PORZELLAN,,
 BO0624_88735,657603,204,286,BERLINER TASSE. Auf der Obertasse Ansicht von Frankes Stiftungen. (Untertasse nicht zugehorig.),349,97.8,False,positional,,Scuola di Berlino,PORZELLAN,,
 BO0624_88735,657604,205,287,"BERLINER TASSE. Auf der Obertasse die Silhouette einer Frau auf creme Grund, von Rosenranken eingefaBt. Im Spiegel der Untertasse VergiBmeinnichts auf creme Grund. Zeptermarke und Malerzeichen. (Untertasse beschadigt.)",350,99.1,False,positional,,Scuola di Berlino,SPECCHI,,
 BO0624_88735,657605,206,288,"BERLINER TASSE mit Goldschuppenrand,Blumendekor und dem Monogramm W. Zeptermarke.(BestoBen.)",351,97.8,False,positional,,Scuola di Berlino,PORZELLAN,,
-BO0624_88735,657606,207,289,"BERLINER PORZELLANVASE auf FuB,zweigriffig,umlaufendes Feldblumenmuster tirkisgrin angesetzt. Um 1790. 38 cm hoch. (Beschadigt.)",352,98.4,False,title_direct,,Scuola di Berlino,PORZELLAN,,
+BO0624_88735,657606,207,289,"BERLINER PORZELLANVASE auf FuB,zweigriffig,umlaufendes Feldblumenmuster tirkisgrin angesetzt. Um 1790. 38 cm hoch. (Beschadigt.)",352,98.4,False,title_direct,,Scuola di Berlino,PORZELLAN,,Sec. XVIII
 BO0624_88735,657607,208,292,BERLINER PORZELLANFIGUR:Gefligelter Putto als Kavalier. 12 cm hoch. (Beschadigt.),354,97.4,False,title_direct,,Scuola di Berlino,PORZELLAN,,
-BO0624_88735,657608,209,293,"BERLINER KAFFEESERVICE,mit Blumendekor. Um 1780, finfzehnteilig: zwei Kaffeekannen,Zuckerdose,Kumme,11 Tassen.(Eine Kanne bestoBen.)",355,98.4,False,positional,,Scuola di Berlino,PORZELLAN,,
+BO0624_88735,657608,209,293,"BERLINER KAFFEESERVICE,mit Blumendekor. Um 1780, finfzehnteilig: zwei Kaffeekannen,Zuckerdose,Kumme,11 Tassen.(Eine Kanne bestoBen.)",355,98.4,False,positional,,Scuola di Berlino,PORZELLAN,,Sec. XVIII
 BO0624_88735,657609,210,294,"WIENER TASSE. Auf der Obertasse mythologische Darstellung, von Hochgoldrandern eingefaBt. In Originallederetui, auf dem vermerkt ist, daB die Tasse aus dem NachlaB Ludwigs Il.von Bayern stammt.",356,98.9,False,positional,,,PORZELLAN,,
 BO0624_88735,657610,211,295,IMARI-PORZELLANFIGUR:Stehende Kwanon. 43 cm hoch.,357,95.9,False,title_direct,,,PORZELLAN,,
-BO0624_88735,657611,212,296,"299 SATZ VON VIER MEISSENER PORZELLANVASEN,Kandlermodelle,um 1750: Sommer, Frihling, Herbst und Winter darstellend. 33 cm hoch. (Unwesentlich beschadigt.) Abbildung Tafel 8",358,98.8,False,title_direct,,Scuola di Meissen,PORZELLAN,,
-BO0624_88735,657612,213,300,"MEISSENER PORZELLAN-DEJEUNER.Um 1750.Violetter Schuppenrand mit polycromem Blumendekor,vierteilig:Tablett mit zwei Einsatzen und Griff,Schokoladenkannchen und zwei Tassen.",359,98.8,False,title_direct,,Scuola di Meissen,PORZELLAN,,
-BO0624_88735,657613,214,301,MEISSENER TAFELAUFSATZ:Zwei Putten tragen die Schale. Mitte 18. Jahrhundert.31 cm hoch.(Beschadigt.),360,97.9,False,positional,,Scuola di Meissen,OGGETTI VARI,,
-BO0624_88735,657614,215,302,304 DREI MEISSENER TASSEN mit blauem Koreadekor.Um 1720.,361,96.5,False,positional,,Scuola di Meissen,PORZELLAN,,
+BO0624_88735,657611,212,296,"299 SATZ VON VIER MEISSENER PORZELLANVASEN,Kandlermodelle,um 1750: Sommer, Frihling, Herbst und Winter darstellend. 33 cm hoch. (Unwesentlich beschadigt.) Abbildung Tafel 8",358,98.8,False,title_direct,,Scuola di Meissen,PORZELLAN,,Sec. XVIII
+BO0624_88735,657612,213,300,"MEISSENER PORZELLAN-DEJEUNER.Um 1750.Violetter Schuppenrand mit polycromem Blumendekor,vierteilig:Tablett mit zwei Einsatzen und Griff,Schokoladenkannchen und zwei Tassen.",359,98.8,False,title_direct,,Scuola di Meissen,PORZELLAN,,Sec. XVIII
+BO0624_88735,657613,214,301,MEISSENER TAFELAUFSATZ:Zwei Putten tragen die Schale. Mitte 18. Jahrhundert.31 cm hoch.(Beschadigt.),360,97.9,False,positional,,Scuola di Meissen,OGGETTI VARI,,Sec. XVIII
+BO0624_88735,657614,215,302,304 DREI MEISSENER TASSEN mit blauem Koreadekor.Um 1720.,361,96.5,False,positional,,Scuola di Meissen,PORZELLAN,,Sec. XVIII
 BO0624_88735,657615,216,305,MEISSENER TEEDOSE mit blauem Blumendekor.18. Jahrhundert.,362,96.5,False,positional,,Scuola di Meissen,PORZELLAN,,
 BO0624_88735,657616,217,306,"KONVOLUT:Zwei MeiBener Teller,im Spiegel eine Rose und eine Nelke und Chinateller mit eisenrotem,figirlichem Dekor.",363,98.3,False,positional,,,PIATTI,,
-BO0624_88735,657617,218,307,WIENER PORZELLANGRUPPE: Apoll und Marsyas. 18. Jahrhundert. 21 cm hoch. (Beschadigt.),364,97.5,False,title_direct,,,PORZELLAN,,
-BO0624_88735,657618,219,308,"KONVOLUT:Berliner Milchkannchen mit Blumendekor und MaskaronausguB,Kopenhagener Milchkannchen mit Asthenkel und Blumendekor. 18. Jahrhundert.",365,98.6,False,positional,,Scuola di Berlino,PORZELLAN,,
+BO0624_88735,657617,218,307,WIENER PORZELLANGRUPPE: Apoll und Marsyas. 18. Jahrhundert. 21 cm hoch. (Beschadigt.),364,97.5,False,title_direct,,,PORZELLAN,,Sec. XVIII
+BO0624_88735,657618,219,308,"KONVOLUT:Berliner Milchkannchen mit Blumendekor und MaskaronausguB,Kopenhagener Milchkannchen mit Asthenkel und Blumendekor. 18. Jahrhundert.",365,98.6,False,positional,,Scuola di Berlino,PORZELLAN,,Sec. XVIII
 BO0624_88735,657619,220,309,"310 ZWEI WIENER PORZELLANGRUPPEN,unbemalt:Allegorie auf die Musik und Neptun auf dem Schwan. (Beschadigt.)",366,98.1,False,title_direct,,,PORZELLAN,,
 BO0624_88735,657620,221,312,"KONVOLUT: Wiener Tasse mit goldenem Weinlaubdekor (Henkel fehlt), Wedgwoodvase (beschadigt),MeiBener Tasse mit blauem Blumendekor,Kopenhagener Tasse",368,98.6,False,positional,,,PORZELLAN,,
-BO0624_88735,657621,222,314315,"EIN PAAR DECKELVASEN,unbemalt,mit plastischem Blumendekor. Um 1730. 16 cm hoch.",371,95.6,False,positional,,,PORZELLAN,,
+BO0624_88735,657621,222,314315,"EIN PAAR DECKELVASEN,unbemalt,mit plastischem Blumendekor. Um 1730. 16 cm hoch.",371,95.6,False,positional,,,PORZELLAN,,Sec. XVIII
 BO0624_88735,657622,223,317,"EINE DESGL.KLOSTER VEILSDORF:Venus, Amor als Putto liebkosend. Violetter, braun abgesetzter Ueberwurf. 29 cm hoch. (Sockel repariert.) Abbildung Tafel 8",374,98.6,False,positional,,,PORZELLAN,,
 BO0624_88735,657623,224,325,"BERLINER SCHOKOLADENTASSE,innen und Rand vergoldet,mit Eierstabmuster, von Goldranken durchsetzt. Auf der Obertasse Ansicht der Bauschule zu Berlin.",388,98.6,False,positional,,Scuola di Berlino,PORZELLAN,,
 BO0624_88735,657624,225,326,"ZURICHER EMPIRE-TASSE,mit himbeerfarbenem,von goldenen Glockenblumenranken abgesetztem Fond. Auf diesem die Silhouetten eines Offiziers mit Dreispitz, einer Dame und zwei Kindern. Sign. Nider. Eingedrickte Marke Z.",390,99.0,False,positional,,,PORZELLAN,,
@@ -234,14 +234,14 @@ BO0624_88735,657631,232,333,334 EIN PAAR CHINA-PORZELLANVASEN mit reichem Dekor 
 BO0624_88735,657632,233,44,cm hoch.(Beschadigt.),401,94.7,False,positional,,,PORZELLAN,,
 BO0624_88735,657633,234,335,"MEISSENER PORZELLANGRUPPE,Bacchus.25 cm hoch.",402,95.7,False,title_direct,,Scuola di Meissen,PORZELLAN,,
 BO0624_88735,657634,235,336,"ENGL. PORZELLANSEIDEL,mit Blumendekor im Stil der japanischen Porzellane.",403,97.3,False,title_direct,,,PORZELLAN,,
-BO0624_88735,657635,236,337,RAERENER STEINZEUGKRUG. Auf der Wandung ein Bauerntanzfries und Jahreszahl 1590.,404,97.5,False,positional,,,PORZELLAN,,
+BO0624_88735,657635,236,337,RAERENER STEINZEUGKRUG. Auf der Wandung ein Bauerntanzfries und Jahreszahl 1590.,404,97.5,False,positional,,,PORZELLAN,,Sec. XVI
 BO0624_88735,657636,237,338,"SACHSISCHE EMAIL-DECKELDOSE,rechteckige Form,mit eisenrotem Puttendekor. Im Innern des Deckels Portrat einer Dame mit Facher und gelbem Strohhut.In Bronzemontierung. 18.Jahrhundert.(Springe.)",405,98.9,False,positional,,,SCOMPARTI,,
 BO0624_88735,657637,238,394,"DELFTERDECKELTERRINE,ovale,eingezogene Form,mit blauem Blumendekor und zwei muschelformigen Griffen. (Deckelknauf erganzt, Sprung.)",410,98.4,False,positional,,,FAYENCE,,
 BO0624_88735,657638,239,395,"DELFTER KRUG,birnenformig,mit blauem Blumendekor. Zinnmontierung.(Sprung.)",411,97.2,False,positional,,,FAYENCE,,
 BO0624_88735,657639,240,396,"HANAUER FAYENCEKRUG,birnenformig, quergeriefelt. Turkisfarbener Grund,auf diesem Chinesendarstellung. Zinnmontierung.(Sprung.)",412,98.4,False,title_direct,,,FAYENCE,,
 BO0624_88735,657640,241,397,"MINDENERWALZENKRUG,aufderWandunginpolychromerBemalungeinPosaunenblaser.Alte Zinnmontierung.",413,98.4,False,positional,,,FAYENCE,,
 BO0624_88735,657641,242,398,"KONVOLUT: Rheinischer Steinzeugkrug,grau,mit eingeritzten, strahlenformigen Ornamenten,und norwegischer Holzkrug,walzenforimig.17.Jahrhundert.",414,98.6,False,positional,,,FAYENCE,,
-BO0624_88735,657642,243,399,"MAJOLIKA-UHRGEHAUSE,mit Reliefblumen geschmickt. Oberosterreich 18. Jahrhundert.(BestoBen.)",415,97.7,False,positional,,,FAYENCE,,
+BO0624_88735,657642,243,399,"MAJOLIKA-UHRGEHAUSE,mit Reliefblumen geschmickt. Oberosterreich 18. Jahrhundert.(BestoBen.)",415,97.7,False,positional,,,FAYENCE,,Sec. XVIII
 BO0624_88735,657643,244,400,KONVOLUT:Funf diverse Fayenceteller mit Blumen- und Vogeldekor.,416,96.8,False,positional,,,FAYENCE,,
 BO0624_88735,657644,245,401,PROSKAUER FAYENCESCHUSSEL mit Blumendekor. (Sprung.),417,96.0,False,title_direct,,,FAYENCE,,
 BO0624_88735,657645,246,402,"PROSKAUER FAYENCE-BUTTER-DECKELDOSE,achteckige Form,mit Blumendekor. Als Deckelknauf ein liegender Hund. Manganviolette Marke P. (Springe.)",418,98.5,False,title_direct,,,FAYENCE,,
@@ -256,7 +256,7 @@ BO0624_88735,657653,254,410,"HANAUER FAYENCE-SCHUSSEL mit gebuckeltem Rand und b
 BO0624_88735,657654,255,411,"412 ZWEI SALZBURGER TONSCHUSSELN, im Spiegel Don Quichotte und eine",427,97.1,False,positional,,,SPECCHI,,
 BO0624_88735,657655,256,413,"DELFTER FAYENCE-DECKELVASE mit ippigem,blauem Blumendekor. 47 cm hoch. (Repariert.)",429,97.5,False,title_direct,,,FAYENCE,,
 BO0624_88735,657656,257,414,415 ZWEI DELFTER FLOTENVASEN mit ippigem Blaudekor. 43 cm hoch. (Repariert.),430,97.3,False,positional,,,FAYENCE,,
-BO0624_88735,657657,258,416,"CASSELER FAYENCE-DECKELVASE,holzmaserartig glasiert,mit Goldreliefranken. Zweite Halfte 18. Jahrhundert. 27 cm hoch. (FuB beschadigt.)",431,98.4,False,title_direct,,,FAYENCE,,
+BO0624_88735,657657,258,416,"CASSELER FAYENCE-DECKELVASE,holzmaserartig glasiert,mit Goldreliefranken. Zweite Halfte 18. Jahrhundert. 27 cm hoch. (FuB beschadigt.)",431,98.4,False,title_direct,,,FAYENCE,,Sec. XVIII
 BO0624_88735,657658,259,417,"TONKACHEL,im Relief St.Georg zeigend.",432,94.7,False,positional,,,FAYENCE,,
 BO0624_88735,657659,260,427,"BRAUNSCHWEIGER FAYENCE-DECKELVASE mit manganviolettem Dekor.Auf der nach oben weit ausladenden Wandung eine Hirschjagd, auf dem Rand des flachen Flusses wie auf dem des Deckels umlaufender Laubwerkdekor. Als Deckelknauf ein Tannenzapfen in griner Bemalung.46 cm hoch.(Springe.) a DELFTER FAYENCE-SCHUSSEL mit Blaudekor. Im Spiegel ein BlitenstrauB.",443,88.2,False,title_direct,,,SCATOLE,,
 BO0624_88735,657660,261,428,"ERFURTER FAYENCE-WALZENKRUG mit leberartig gespritztem Grund.Auf diesem eine blaugelbe Kartusche, in dieser ein Storch am Weiher. Alte Zinnmontierung.",445,98.7,False,title_direct,,,FAYENCE,,
@@ -279,22 +279,22 @@ BO0624_88735,657676,277,451,"EIN DESGL., mit Mattschnitt auf der Kuppa ein Herz 
 BO0624_88735,657677,278,452,"LOUIS-XVI.-KELCHGLAS,auf der Kuppa in Mattschnitt einen BlumenstrauB zeigend.",472,97.4,False,positional,,,ANTIKE GLASER,,
 BO0624_88735,657678,279,453,"EIN DESGL.,mit Goldrand und Emailmalerei,ein springendes Reh mit der Uberschrift zeigend:Ich liebe die Freiheit.",473,98.2,False,positional,,,ANTIKE GLASER,,
 BO0624_88735,657679,280,454,"DESGL.,mit Mattschnitt, einen Krebs in einer Rokokokartusche mit der Umschrift: Freunde hinterm Ricken Junius.(BestoBen.)",474,98.3,False,positional,,,ANTIKE GLASER,,
-BO0624_88735,657680,281,455,LIKORKELCH auf hohem FuB. Die Kuppa zeigt in Mattschnitt eine Landschaftsansicht. 18. Jahrhundert.,475,97.9,False,positional,,,ANTIKE GLASER,,
+BO0624_88735,657680,281,455,LIKORKELCH auf hohem FuB. Die Kuppa zeigt in Mattschnitt eine Landschaftsansicht. 18. Jahrhundert.,475,97.9,False,positional,,,ANTIKE GLASER,,Sec. XVIII
 BO0624_88735,657681,282,456,BAROCK-GLASKELCH auf geteiltem FuB. Auf der Kuppa ein Schiff mit der Uber-,476,97.3,False,positional,,,ANTIKE GLASER,,
 BO0624_88735,657682,283,457,"KONVOLUT:Glaskelch mit Golddekor,Kelch, eckig mit Goldrand, Weinglas,im Schaft weiBe Fadeneinlage,Kelchglas, auf der Kuppa in Mattschnitt ein der Sonne",478,98.7,False,positional,,,ANTIKE GLASER,,
-BO0624_88735,657683,284,458,"STANGENGLAS mit Emailmalerei,auf der Wandung in zweimal 4 Feldern den Romischen Kaiser,die Kurfirsten, die Bischofe und den Doppeladler mit der Unterschrift:1674. 32 cm hoch.(Unwesentlich beschadigt.) Abbildung Tafel 14",480,99.1,False,positional,,,ANTIKE GLASER,,
-BO0624_88735,657684,285,459,"STANGENGLAS mit Emailmalerei,ein Wappen mit der Unterschrift: Hoffkellerey Dressden 1687. 20 cm hoch.",481,98.0,False,positional,,,ANTIKE GLASER,,
-BO0624_88735,657685,286,460,"TRINKGLAS, im FuB verjingt,mit Emailmalerei, eine Allegorie auf das Fichtelgebirge zeigend. Hierunter:Eger,Naab, Saale und die Jahreszahl 1708. 12 cm hoch.",482,98.7,False,positional,,,ANTIKE GLASER,,
-BO0624_88735,657686,287,461,"STANGENGLAS mit Emailmalerei, ein Wappen,hieriber Buchstaben,unter dem Wappen die Jahreszahl 1696. 32 cm hoch.",483,98.2,False,positional,,,ANTIKE GLASER,,
+BO0624_88735,657683,284,458,"STANGENGLAS mit Emailmalerei,auf der Wandung in zweimal 4 Feldern den Romischen Kaiser,die Kurfirsten, die Bischofe und den Doppeladler mit der Unterschrift:1674. 32 cm hoch.(Unwesentlich beschadigt.) Abbildung Tafel 14",480,99.1,False,positional,,,ANTIKE GLASER,,Sec. XVII
+BO0624_88735,657684,285,459,"STANGENGLAS mit Emailmalerei,ein Wappen mit der Unterschrift: Hoffkellerey Dressden 1687. 20 cm hoch.",481,98.0,False,positional,,,ANTIKE GLASER,,Sec. XVII
+BO0624_88735,657685,286,460,"TRINKGLAS, im FuB verjingt,mit Emailmalerei, eine Allegorie auf das Fichtelgebirge zeigend. Hierunter:Eger,Naab, Saale und die Jahreszahl 1708. 12 cm hoch.",482,98.7,False,positional,,,ANTIKE GLASER,,Sec. XVIII
+BO0624_88735,657686,287,461,"STANGENGLAS mit Emailmalerei, ein Wappen,hieriber Buchstaben,unter dem Wappen die Jahreszahl 1696. 32 cm hoch.",483,98.2,False,positional,,,ANTIKE GLASER,,Sec. XVII
 BO0624_88735,657687,288,462,"DESGL.,kleiner,mit Emailmalerei, ein Wappen mit Krone,hieriber Buchstaben zeigend.25 cm hoch.(Im Boden Sprung.)",484,98.1,False,positional,,,ANTIKE GLASER,,
 BO0624_88735,657688,289,463,"STANGENGLAS mit Emailmalerei,auf der Mitte der Wandung zwei ein WeinfaB fahrende Bauern mit der Uberschrift: Michel Wenzel &amp; Hanrich Darner und Spriche. 21 cm hoch.(Im Boden Sprung.) Abbildung Tafel 15",485,99.0,False,positional,,,ANTIKE GLASER,,
-BO0624_88735,657689,290,464,"DESGL.,grin iberfangen,auf der Wandung zwei ein Wappen haltende Fabeltiere mit der Uberschrift: Heinrich Rieffer 1678,rickseitig ein Spruch. 16 cm hoch. (Im Boden Sprung.) Abbildung Tafel 15",486,98.9,False,positional,,,ANTIKE GLASER,,
+BO0624_88735,657689,290,464,"DESGL.,grin iberfangen,auf der Wandung zwei ein Wappen haltende Fabeltiere mit der Uberschrift: Heinrich Rieffer 1678,rickseitig ein Spruch. 16 cm hoch. (Im Boden Sprung.) Abbildung Tafel 15",486,98.9,False,positional,,,ANTIKE GLASER,,Sec. XVII
 BO0624_88735,657690,291,465,"TRINKGLAS,blau iberfangen,mit Emailmalerei,ein Wappen,von zwei Palmwedeln",487,97.3,False,positional,,,ANTIKE GLASER,,
 BO0624_88735,657691,292,466,"DESGL.,eckig,auf der Wandung eine Dame mit Blite in der Hand, Glockenblumenranken und Spruch. 9 cm hoch. Abbildung Tafel 15",489,98.3,False,positional,,,ANTIKE GLASER,,
-BO0624_88735,657692,293,467,"STANGENGLASmitEmailmalereimit umlaufenden Sprichen und der Jahreszahl 1670. Auf der oberen Halfte Trinkerszenen mit der Uberschrift: Trinck mit Frieden, halt Dich bescheiden. 32 cm hoch. Abbildung Tafel 14",490,99.0,False,positional,,,ANTIKE GLASER,,
-BO0624_88735,657693,294,468,"DESGL.,mit Deckel und Sprichen. Auf der Mitte der Wandung ein ein Beil schleifender Handwerker mit Innungszeichen,hieriber: Benedix &amp; Rudolff,Wagener in Egeln,1655. Ferner auf Deckel und Wandung verteilte FeldblumenstrauBe. 35 cm hoch.(Deckelknauf bestoBen.) Abbildung Tafel 14",491,99.3,False,positional,,,ANTIKE GLASER,,
-BO0624_88735,657694,295,469,"SCHLESISCHER GLASBECHER AUF FUSS. Die eckige Kuppa zeigt in Mattschnitt einen betenden Heiligen,von Ranken umrahmt. 18. Jahrhundert. (Beschadigt.)",492,98.6,False,positional,,,ANTIKE GLASER,,
-BO0624_88735,657695,296,470,"DESGL., groBer. Auf der Kuppa die Bischofe der acht deutschen Bistimer. Auf der runden Plinte umlaufende Schrift. Um 1700. (Beschadigt.)",493,98.4,False,positional,,,ANTIKE GLASER,,
+BO0624_88735,657692,293,467,"STANGENGLASmitEmailmalereimit umlaufenden Sprichen und der Jahreszahl 1670. Auf der oberen Halfte Trinkerszenen mit der Uberschrift: Trinck mit Frieden, halt Dich bescheiden. 32 cm hoch. Abbildung Tafel 14",490,99.0,False,positional,,,ANTIKE GLASER,,Sec. XVII
+BO0624_88735,657693,294,468,"DESGL.,mit Deckel und Sprichen. Auf der Mitte der Wandung ein ein Beil schleifender Handwerker mit Innungszeichen,hieriber: Benedix &amp; Rudolff,Wagener in Egeln,1655. Ferner auf Deckel und Wandung verteilte FeldblumenstrauBe. 35 cm hoch.(Deckelknauf bestoBen.) Abbildung Tafel 14",491,99.3,False,positional,,,ANTIKE GLASER,,Sec. XVII
+BO0624_88735,657694,295,469,"SCHLESISCHER GLASBECHER AUF FUSS. Die eckige Kuppa zeigt in Mattschnitt einen betenden Heiligen,von Ranken umrahmt. 18. Jahrhundert. (Beschadigt.)",492,98.6,False,positional,,,ANTIKE GLASER,,Sec. XVIII
+BO0624_88735,657695,296,470,"DESGL., groBer. Auf der Kuppa die Bischofe der acht deutschen Bistimer. Auf der runden Plinte umlaufende Schrift. Um 1700. (Beschadigt.)",493,98.4,False,positional,,,ANTIKE GLASER,,Sec. XVIII
 BO0624_88735,657696,297,471,"DESGL.,auf FuB, der Schaft mit roter Fadeneinlage. Auf der Kuppa in Mattschnitt",494,97.4,False,positional,,,ANTIKE GLASER,,
 BO0624_88735,657697,298,472,"SCHLESISCHES GLASSEIDEL ohne Deckel,in Atztechnik Ranken und einen Spruch aus der Bibel zeigend.",496,97.9,False,positional,,,ANTIKE GLASER,,
 BO0624_88735,657698,299,47374,"ZWEI GLASBECHER mit Emailmalerei,blaue Blumenranken und einen Lakai",497,95.7,False,positional,,,ANTIKE GLASER,,
@@ -325,7 +325,7 @@ BO0624_88735,657722,323,500,"BIEDERMEIER-GLAS auf FuB,mit girlandenartigem Muste
 BO0624_88735,657723,324,501,EMPIRE-KRISTALL-SEIDEL mit Landschaften aus dem Riesengebirge und dem auf,529,97.3,False,positional,,,ANTIKE GLASER,,
 BO0624_88735,657724,325,502,KELCHGLASauf hohem FuB.Auf der Kuppa geatzt ein Wappenschild.18.Jahrhundert.(FuB beschadigt.),531,98.4,False,positional,,,ANTIKE GLASER,,
 BO0624_88735,657725,326,503507,FUNF GERAHMTE KUPFERSTICHE: Stadtplane von Danzig mit Ansichten.,544,94.7,False,positional,,,GRAPHIK,,
-BO0624_88735,657726,327,508,GERAHMTES SCHABKUNSTBLATT:Friedrich der GroBe mit Windspielen. Gestochen von Cunego. 1786. S.-R.,545,97.8,False,positional,,,GRAPHIK,,
+BO0624_88735,657726,327,508,GERAHMTES SCHABKUNSTBLATT:Friedrich der GroBe mit Windspielen. Gestochen von Cunego. 1786. S.-R.,545,97.8,False,positional,,,GRAPHIK,,Sec. XVIII
 BO0624_88735,657727,328,509,EIN DESGL.: Ansicht von Oliva. Gestochen von Haldenwang. S.-R.,546,96.6,False,positional,,,GRAPHIK,,
 BO0624_88735,657728,329,510,"KONVOLUT:Vier gerahmte Kupferstiche:a) Standbild Friedrichs des GroBen in Stettin, b) Friedrich in Sanssouci, c) Kopf Friedrichs des GroBen.,d) Elisabeth Christina, Konigin von PreuBen. G.R.",547,98.9,False,positional,,,GRAPHIK,,
 BO0624_88735,657729,330,511,"KONVOLUT: Gerahmter Buntdruck: Friedrich der GroBe,gerahmte Lithographie: Friedrich der GroBe,gerahmte Radierung und gerahmte Silhouette:Friedrich der GroBe.",548,98.7,False,positional,,,GRAPHIK,,
@@ -354,29 +354,29 @@ BO0624_88735,657751,352,536,37 ZWEI SUPRAPORTEN:Allegorie auf die Musik-Allegori
 BO0624_88735,657752,353,538,NACHAHMER DES LELY:Brustbild einer Dame mit Perlen im Haar und Perl-,585,97.1,False,positional,,,GEMALDE,,
 BO0624_88735,657753,354,539,NACH WATTEAU:Savoyardenknabe in Schneelandschaft. Holz. Schwarzer R. 24X21cm.,587,97.3,False,positional,WATTEAU FRANCOIS,,OGGETTI IN LEGNO,,
 BO0624_88735,657754,355,540,NACHAHMER DES GAINSBOROUGH:Hiftbild einer Dame mit weiBem Chiffonhut. Lwd.G.-R.72X42cm.,588,97.7,False,positional,,,GEMALDE,,
-BO0624_88735,657755,356,541,"NIEDERLANDISCHER MEISTER UM 1700:Obst-Stilleben.Auf einer Marmorplatte Weintrauben,Pfirsiche,Melone und Haselnisse.Lwd. G.R. 52X 42 cm.",589,98.5,False,positional,,,GEMALDE,,
-BO0624_88735,657756,357,542,"FLAMISCHER MEISTER UM 1580: Der Vater zahlt seinen Sohnen die Erbschaft aus. Lucas,Kapitel 15. Holz. Schwarzer R. 56X75 cm.",590,98.3,False,positional,,Scuola Fiamminga,OGGETTI IN LEGNO,,
+BO0624_88735,657755,356,541,"NIEDERLANDISCHER MEISTER UM 1700:Obst-Stilleben.Auf einer Marmorplatte Weintrauben,Pfirsiche,Melone und Haselnisse.Lwd. G.R. 52X 42 cm.",589,98.5,False,positional,,,GEMALDE,,Sec. XVIII
+BO0624_88735,657756,357,542,"FLAMISCHER MEISTER UM 1580: Der Vater zahlt seinen Sohnen die Erbschaft aus. Lucas,Kapitel 15. Holz. Schwarzer R. 56X75 cm.",590,98.3,False,positional,,Scuola Fiamminga,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88735,657757,358,543,44 J. H.RAMBERG zugeschrieben:Reiterszenen aus den Tirkenkriegen (Gegensticke).Lwd.Schwarzer R.38X64 cm.,591,98.0,False,positional,,,GEMALDE,,
-BO0624_88735,657758,359,545,"FRANZOSISCH UM 1700: Hiftbild einer Dame mit gepudertem Haar, mit roten Perlen besetzter Kappe und mit Hermelin abgesetztem Ueberwurf. Lwd. G.R. 78X62cm.",592,98.7,False,positional,,,GEMALDE,,
-BO0624_88735,657759,360,546,"NIEDERLANDISCH UM 1700: Stilleben. Auf einem Kichentisch diverse Zinnteller. Ein Delfter Enghalskrug,ein gefilltes Weinglas,ein angeschnittener Laib Brot. Auf den Tellern ein angeschnittener Schinken usw. Lwd. Schwarzer R. 74X62 cm.",593,99.1,False,positional,,,PIATTI,,
-BO0624_88735,657760,361,547,SUDDEUTSCHER MEISTER. 18. Jahrhundert: Siddeutsche FluBlandschaften mit figirlichen Staffage.Alte Lwd.G.-R.49 X62 cm.,594,98.2,False,positional,,,GEMALDE,,
+BO0624_88735,657758,359,545,"FRANZOSISCH UM 1700: Hiftbild einer Dame mit gepudertem Haar, mit roten Perlen besetzter Kappe und mit Hermelin abgesetztem Ueberwurf. Lwd. G.R. 78X62cm.",592,98.7,False,positional,,,GEMALDE,,Sec. XVIII
+BO0624_88735,657759,360,546,"NIEDERLANDISCH UM 1700: Stilleben. Auf einem Kichentisch diverse Zinnteller. Ein Delfter Enghalskrug,ein gefilltes Weinglas,ein angeschnittener Laib Brot. Auf den Tellern ein angeschnittener Schinken usw. Lwd. Schwarzer R. 74X62 cm.",593,99.1,False,positional,,,PIATTI,,Sec. XVIII
+BO0624_88735,657760,361,547,SUDDEUTSCHER MEISTER. 18. Jahrhundert: Siddeutsche FluBlandschaften mit figirlichen Staffage.Alte Lwd.G.-R.49 X62 cm.,594,98.2,False,positional,,,GEMALDE,,Sec. XVIII
 BO0624_88735,657761,362,548,KAREL VAN FALENS (Schiler von Wauverman): Aufbruch zur Jagd. Vor einem Parktor sammelt sich die Jagdgesellschaft. Durchblick auf Berge und Seen. Holz.,595,98.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88735,657762,363,549,SCHULE DES TIZIAN:In Landschaft ruhende Venus. Lwd. G.R. 72X 109 cm.,597,97.0,False,positional,TIZIANO VECELLIO,Scuola di Tiziano,GEMALDE,,
 BO0624_88735,657763,364,550,SCHULE DES CANALETTO:Der Dom zu Florenz.Lwd. G.-R. 94X 147 cm.,598,96.7,False,positional,CANALE ANTONIO,Scuola di Canaletto,GEMALDE,,
 BO0624_88735,657764,365,551,"ART DES A.OSTADE:Der Bauernhof. Im Vordergrund rechts die Bauernfamilie, mit landlichen Arbeiten beschaftigt. Im Hintergrund links zwei diskutierende Bauern.",599,98.7,False,positional,ADRIAEN VAN OSTADE,,GEMALDE,,
-BO0624_88735,657765,366,552,"FLAMISCHER MEISTER 17. JAHRHUNDERT:Waldlandschaft,im Vordergrund rechts Reiter und Reiterin, sich von einem Schafhirten den Weg weisen lassend.",601,98.6,False,positional,,Scuola Fiamminga,GEMALDE,,
+BO0624_88735,657765,366,552,"FLAMISCHER MEISTER 17. JAHRHUNDERT:Waldlandschaft,im Vordergrund rechts Reiter und Reiterin, sich von einem Schafhirten den Weg weisen lassend.",601,98.6,False,positional,,Scuola Fiamminga,GEMALDE,,Sec. XVII
 BO0624_88735,657766,367,553,"REMBRANDT-SCHULE:Abendlandschaft. Im Vordergrund ein See,auf diesem ein bemanntes Ruderboot. Rechts im Hintergrund eine Burgruine.Holz. G.-R. 30 X 41 cm.",603,98.7,False,positional,REMBRANDT VAN RIJN,Scuola di Rembrandt,OGGETTI IN LEGNO,,
 BO0624_88735,657767,368,554,"KREIS DES DUJARDIN: Wasserlandschaft. An einer Steinbricke Gemisehandler mit Esel, ihm zu FiBen eine Herde Lammer. Holz. G.-R. 39 X 50 cm.",604,98.5,False,positional,DU JARDIN KAREL,,OGGETTI IN LEGNO,,
 BO0624_88735,657768,369,555,KREIS DES N. POUSSIN: Entwurf zu einem Bacchusfest. Lwd. G.-R. 29 X 38 cm.,605,97.1,False,positional,POUSSIN NICOLAS,,GEMALDE,,
-BO0624_88735,657769,370,556,L.DUSART:Kniestick eines Kavaliers in der Tracht des 18. Jahrhunderts. Signiert. Holz.Schwarzer R.16X 11 cm.,606,98.1,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88735,657770,371,557,WURZBURGER MALER. 18. Jahrhundert:Maria mit Jesuskind und einem Heiligen. Kupfer.G.-R.22X17cm.,607,97.8,False,positional,,,OGGETTI IN RAME,,
+BO0624_88735,657769,370,556,L.DUSART:Kniestick eines Kavaliers in der Tracht des 18. Jahrhunderts. Signiert. Holz.Schwarzer R.16X 11 cm.,606,98.1,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88735,657770,371,557,WURZBURGER MALER. 18. Jahrhundert:Maria mit Jesuskind und einem Heiligen. Kupfer.G.-R.22X17cm.,607,97.8,False,positional,,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88735,657771,372,558,"H.M. SORGH-KREIS:Interieur. Zwei gedeckte Tische, an denen die Wirtin die",608,97.2,False,positional,,,ARREDAMENTI,,
 BO0624_88735,657772,373,559,KREIS DES GERARD DOU: Brustbild zu einer Flora. Holz. G.R. 13X 12 cm.,610,97.0,False,positional,DOU GERARD,,OGGETTI IN LEGNO,,
 BO0624_88735,657773,374,560,KREIS DES FRANS FRANKEN: Kreuztragung Christi. Kupfer. Schwarzer R. X62cm.,611,92.6,False,positional,,Famiglia Francken,OGGETTI IN RAME,,
 BO0624_88735,657774,375,561,SUDDEUTSCH:Brustbild der Heiligen Barbara. Lwd.Alter G.R. 74X 53 cm.,613,97.0,False,positional,,,GEMALDE,,
 BO0624_88735,657775,376,562,"NACHAHMER DES JAN STEEN:Interieur.Im Vordergrund drei Personen,die einen",614,97.3,False,positional,STEEN JAN,,ARREDAMENTI,,
-BO0624_88735,657776,377,563,"NIEDERLANDISCHER MEISTER UM 1700: Stilleben Von Delfter Tellern, Delfter Kummen, einem gefillten Weinglas und einem Kelch im Vordergrund. Holz.",616,98.6,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88735,657777,378,564,SPANISCHER MEISTER UM 1820:Bettler mit Bettlerjungen. 23X18cm.,618,96.8,False,positional,,,GEMALDE,,
+BO0624_88735,657776,377,563,"NIEDERLANDISCHER MEISTER UM 1700: Stilleben Von Delfter Tellern, Delfter Kummen, einem gefillten Weinglas und einem Kelch im Vordergrund. Holz.",616,98.6,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88735,657777,378,564,SPANISCHER MEISTER UM 1820:Bettler mit Bettlerjungen. 23X18cm.,618,96.8,False,positional,,,GEMALDE,,Sec. XIX
 BO0624_88735,657778,379,565,"66 ART DES LAMBRECHT:Hollandische Genreszenen. In einer Kiche Bauernfamilie, einen Brief lesend — in einer Schenke Liebespaar und Geiger. Lwd. G.-R.",620,98.6,False,positional,,,GEMALDE,,
 BO0624_88735,657779,380,48,X36cm.,621,83.3,False,positional,,,GEMALDE,,
 BO0624_88735,657780,381,367,KREIS DES P. PANNINI: Ruinenlandschaft. Lwd. G.-R. 85X 125 cm.,622,96.5,False,positional,,,GEMALDE,,
@@ -390,7 +390,7 @@ BO0624_88735,657787,388,574,"J.H.TISCHBEIN (zugeschrieben):Brustbild eines First
 BO0624_88735,657788,389,57,X37cm. Abbildung Tafel 17,644,96.0,False,positional,,,GEMALDE,,
 BO0624_88735,657789,390,581,"SCHULE DES PETER PAUL RUBENS:Brustbild eines Edelmannes mit Spitzbart, eine Medaille um den Hals tragend. Lwd. Schwarzer R. 52X41 cm.",645,98.5,False,positional,RUBENS PETER PAUL,Scuola di Rubens,GEMALDE,,
 BO0624_88735,657790,391,582,ANTON FISCHER: Mythologische Darstellung. Signiert. Holz. G.-R. 42X 51 cm.,646,97.1,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88735,657791,392,583,FLAMISCHER MEISTER 1580-1620: Judith im Zelt des Holofernes. Im Hintergrund rechts die belagerte Stadt. Holz.G.-R. 88X 75 cm.,647,98.3,False,positional,,Scuola Fiamminga,OGGETTI IN LEGNO,,
+BO0624_88735,657791,392,583,FLAMISCHER MEISTER 1580-1620: Judith im Zelt des Holofernes. Im Hintergrund rechts die belagerte Stadt. Holz.G.-R. 88X 75 cm.,647,98.3,False,positional,,Scuola Fiamminga,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88735,657792,393,584,A.VAN BEYEREN. Art:Fisch-Stilleben. Lwd.S.-R. 56X75 cm.,648,96.2,False,positional,,,GEMALDE,,
 BO0624_88735,657793,394,585,ART DES TH. WYCK: Hafenszene. Fuhrleute beladen ein Schiff. Holz. G.-R. 44X32cm.,649,97.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88735,657794,395,586,J. MOUCHERON zugeschrieben: Heroische Landschaft mit Staffage. Lwd. G.-R.,650,97.1,False,positional,,,GEMALDE,,
@@ -403,7 +403,7 @@ BO0624_88735,657800,401,592,"HANS WURFFEL: Enten, in ein FlieB gehend. Signiert.
 BO0624_88735,657801,402,593,"DERSELBE: Entenfamilie,im Teich schwimmend. Signiert.Holz. S.-R. 75X 90 cm.",667,97.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88735,657802,403,594,F. HOFFMANN VON FALLERSLEBEN:Parklandschaft bei Mondbeleuchtung. Signiert und datiert. Lwd. G.-R. 109 X 159 cm.,668,98.1,False,positional,,,GEMALDE,,
 BO0624_88735,657803,404,111,X105cm.,672,80.0,False,positional,,,GEMALDE,,
-BO0624_88735,657804,405,597,F.VON DEFREGGER:Kopf eines Bauernmadchen. Signiert und datiert 1861. Holz. Abbildung Tafel 19 G.-R.36X26cm.,673,98.1,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_88735,657804,405,597,F.VON DEFREGGER:Kopf eines Bauernmadchen. Signiert und datiert 1861. Holz. Abbildung Tafel 19 G.-R.36X26cm.,673,98.1,False,positional,,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88735,657805,406,598,"CARL JUTZ: Der Hihnerhof, im Vordergrund ein Pfau. Im Hintergrund links der Abbildung Tafel 20",674,97.8,False,positional,JUTZ CARL,,GEMALDE,,
 BO0624_88735,657806,407,599,HANS HERRMANN: Blumenmarkt in Amsterdam. Signiert. Holz. G.R. 60 X 80 cm.,676,97.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88735,657807,408,600,"Z. NOTERMAN:Hund,mit Katze spielend.",678,94.4,False,positional,,,GEMALDE,,
@@ -443,13 +443,13 @@ BO0624_88735,657840,441,634,F.VON DEFREGGER:Brustbild einer Bauerin im Profil. S
 BO0624_88735,657841,442,635,636 LORENZ MURWANA:Mondscheinlandschaften (Gegensticke). Sign.Lwd.,720,96.9,False,positional,,,GEMALDE,,
 BO0624_88735,657842,443,636,"a WERNER SCHUCH:Raubritter mit Gefolge,zur Jagd ausziehend. Sign.Malp. G.-R. 51X60cm.",722,98.2,False,positional,,,GEMALDE,,
 BO0624_88735,657843,444,637,ALICE TRUBNER: Stilleben. Drei Apfel auf einem Porzellanteller. Batikartiger,723,97.3,False,positional,,,GEMALDE,,
-BO0624_88735,657844,445,638,O.DILL: Polospieler.Sign.u.dat.1920. Lwd.G.R. 61X 80 cm.,725,96.3,False,positional,,,GEMALDE,,
+BO0624_88735,657844,445,638,O.DILL: Polospieler.Sign.u.dat.1920. Lwd.G.R. 61X 80 cm.,725,96.3,False,positional,,,GEMALDE,,Sec. XX
 BO0624_88735,657845,446,639,GER. DRUCK von W. SCHEUER: Franzosische Soldaten in StraBburg. G.-R.,726,96.9,False,positional,,,GEMALDE,,
 BO0624_88735,657846,447,640,"E.VON GEBHARDT: Skizze einer alten Frau, die Tir offnend. Sign. Holz. Schw.R. 30×25cm.",727,97.5,False,positional,VON GEBHARDT EDUARD,,OGGETTI IN LEGNO,,
-BO0624_88735,657847,448,641,"FRANZ SKARBINA: Hollandisches Bauerngehoft,im Vordergrund ein Jager mit",728,97.2,False,positional,,,GEMALDE,,
-BO0624_88735,657848,449,642,"LOVIS CORINTH: Stallknecht,ein Reitpferd am Zaum haltend. Auf dem Pferd eine Reiterin in rotem Gewand. Sign.u. dat. 1920. Malp. G.R. 42X 50 cm. Abbildung Tafel 18",730,98.7,False,positional,LOVIS CORINTH,,GEMALDE,,
+BO0624_88735,657847,448,641,"FRANZ SKARBINA: Hollandisches Bauerngehoft,im Vordergrund ein Jager mit",728,97.2,False,positional,SKARBINA FRANZ,,GEMALDE,,
+BO0624_88735,657848,449,642,"LOVIS CORINTH: Stallknecht,ein Reitpferd am Zaum haltend. Auf dem Pferd eine Reiterin in rotem Gewand. Sign.u. dat. 1920. Malp. G.R. 42X 50 cm. Abbildung Tafel 18",730,98.7,False,positional,LOVIS CORINTH,,GEMALDE,,Sec. XX
 BO0624_88735,657849,450,643,"GER. DRUCK von WALTER SCHEUER: Die Visite. In einer Haustir eine Magd,",731,97.1,False,positional,,,GEMALDE,,
-BO0624_88735,657850,451,644,LOUIS BRAUN: Stuttgarter Stadtreiter von 1806. Sign. Lwd. G.-R. 61 X 49 cm.,733,97.1,False,positional,,,GEMALDE,,
+BO0624_88735,657850,451,644,LOUIS BRAUN: Stuttgarter Stadtreiter von 1806. Sign. Lwd. G.-R. 61 X 49 cm.,733,97.1,False,positional,,,GEMALDE,,Sec. XIX
 BO0624_88735,657851,452,645,F. FREUND: Strandleben. Sign.u.dat.94. Lwd. Schw.R. 47 X 95 cm.,734,96.6,False,positional,,,GEMALDE,,
 BO0624_88735,657852,453,646,"CONRAD KOSTER:Flora. An einem Orangenbaum lehnt eine Dame,eine Kamelienblume in der erhobenen Rechten. Sign. Lwd.G.R.87 X57 cm.",735,98.4,False,positional,,,GEMALDE,,
 BO0624_88735,657853,454,647,650 A. FRIEDLANDER: Schlachtszene (vier Gegensticke). Sign. Lwd. G.-R. 21X31cm.,736,97.2,False,positional,,,GEMALDE,,

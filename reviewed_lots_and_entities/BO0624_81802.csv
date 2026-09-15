@@ -27,7 +27,7 @@ BO0624_81802,124623,25,13,QUATTRO PIATTINI portacenere majoliche varie.,44,96.7,
 BO0624_81802,124624,26,3,14.LOTTO DI BROCCHE ed un SECCHIO IN TERRAGLIA bianca smaltata.,45,98.4,False,none,,,,,
 BO0624_81802,124625,27,15,PIATTO antica majolica di DEL VECCHIO.,46,96.1,False,none,,,,,
 BO0624_81802,124626,28,16,"BOCCALE e PIATTO terracotta Ispano-Arabo, decorazione a stecco.",47,97.6,False,none,,,,,
-BO0624_81802,124627,29,6,"17.MADONNA col Bambino, bello stucco dipinto. Arte fiorentina, del XVI secolo, cornice di legno.",48,98.9,False,none,,,,,
+BO0624_81802,124627,29,6,"17.MADONNA col Bambino, bello stucco dipinto. Arte fiorentina, del XVI secolo, cornice di legno.",48,98.9,False,none,,,,,Sec. XVI
 BO0624_81802,124628,30,7,18.ANTICA CASSETTA di legno dipinta e decorata da 2 stemmi.,49,98.3,False,none,,,,,
 BO0624_81802,124629,31,19,"TAVOLINO da giuoco intarsiato, piano a scacchiera formata da pietre dure e marmi.",50,98.1,False,none,,,ARREDAMENTI,,
 BO0624_81802,124630,32,20,FLORIERA di legno sostenuta da una sirena scolpita e dorata. Epoca impero.,51,98.0,False,none,,,,,
@@ -43,7 +43,7 @@ BO0624_81802,124639,41,27,"BUREAU di noce a tre cassetti e piano calatore, inter
 BO0624_81802,124640,42,28,"BELLA COMMODE di noce a quattro cassetti, finemente intarsiata da ornati vari in legno a Maggiolino, maniglie bronzo. XVIlI secolo.",61,98.8,False,none,,,,,
 BO0624_81802,124641,43,29,"PORTA di noce a due mezze aperture, decorata da rosoni a",62,97.3,False,none,,,,,
 BO0624_81802,124642,44,30,"CONSOLLE legno dorato sostenuta da un' Aquila, fine scul-",63,97.3,False,none,,,,,
-BO0624_81802,124643,45,22,"rilievo; battenti in ferro. Epoca fine XVI secolo. Metri 2,40x1,30",64,97.7,False,none,,,,,
+BO0624_81802,124643,45,22,"rilievo; battenti in ferro. Epoca fine XVI secolo. Metri 2,40x1,30",64,97.7,False,none,,,,,Sec. XVI
 BO0624_81802,124644,46,23,tura dell' impero. Vedi tav.32.,65,94.9,False,none,,,,,
 BO0624_81802,124645,47,24,31.Detta a pendent.,66,92.3,False,none,,,,,
 BO0624_81802,124646,48,32,"SCUOLA SPAGNOLA -Due Santi, dipinto ad olio su tela.",67,97.0,False,none,,,,,
@@ -75,8 +75,8 @@ BO0624_81802,124671,73,49,"COMMODE di radica di noce, forma bombata e centinata,
 BO0624_81802,124672,74,50,"GRANDE TAVOLO da centro di noce forma ovale con crocera in ferro battuto, e gambe a balaustro. Xvlll secolo. PICCOLA CREDENZA di noce a due sportelli scolpiti ad ornati e emblemi Sacri. XVlll secolo. CASSONE MATRIMONIALE di legno; sul davanti interamente dipinto a tempera, ornati, e volute. XVlll secolo.",101,52.1,False,none,,,,,
 BO0624_81802,124673,75,53,"COMMODE a quattro cassetti, intarsiati a Maggiolino, forma centinata e rientrante al centro.",104,98.3,False,none,,,,,
 BO0624_81802,124674,76,5,"54.BELLA COMMODE a tre cassetti, decorati da intarsi, fiori, uccelli, ecc. a legni colorati. Lavoro Lombardo del xVIll",105,99.1,False,none,,,OGGETTI IN LEGNO,,
-BO0624_81802,124675,77,55,"SPLENDIDO SCRIGNO in ebano a molti cassetti e segreti interni, internamente decorato da specchi e nicchie in tartaruga, tre sportelli al centro a forma di tempio, decorati da colonnine, figurine e capitelli in bronzo dorato. XVII secolo. Bis. STATUA IN LEGNO rappres. Cristo, mancante della braccia. Epoca bizantina. Oggetto da collezione.",113,82.4,False,none,,,SPECCHI,,
-BO0624_81802,124676,78,56,"STATUA DI GUERRIERO in bronzo XVII secolo,base rosso di levanto.",118,97.7,False,none,,,,,
+BO0624_81802,124675,77,55,"SPLENDIDO SCRIGNO in ebano a molti cassetti e segreti interni, internamente decorato da specchi e nicchie in tartaruga, tre sportelli al centro a forma di tempio, decorati da colonnine, figurine e capitelli in bronzo dorato. XVII secolo. Bis. STATUA IN LEGNO rappres. Cristo, mancante della braccia. Epoca bizantina. Oggetto da collezione.",113,82.4,False,none,,,SPECCHI,,Sec. XVII
+BO0624_81802,124676,78,56,"STATUA DI GUERRIERO in bronzo XVII secolo,base rosso di levanto.",118,97.7,False,none,,,,,Sec. XVII
 BO0624_81802,124677,79,57,"OROLOGIO legno lucido a ebano, a due colonnine che sostengono il quadrante. Epoca impero. S. GIROLAMO. Antico dipinto ad olio su tela, cornice nera. Detto come sopra a forma di torre, quadrante sostenuto da aquila.Epoca impero.",119,56.0,False,none,,,,,
 BO0624_81802,124678,80,60,"SCUOLA VENETA. S. Pietro e S. Paolo, due antichi dipinti ad olio su tela",122,97.8,False,none,,Scuola Veneta,,,
 BO0624_81802,124679,81,61,"RITRATTO di Patrizia Veneziana, antico dipinto ad olio su tela, cornice dipinta.",123,98.1,False,none,,,,,
@@ -96,7 +96,7 @@ BO0624_81802,124692,94,74,"CONSOLLE di mogano forma bombata con ornati in oro, l
 BO0624_81802,124693,95,14,di specchio nella parte inferiore. Epoca impero.,146,96.8,False,none,,,,,
 BO0624_81802,124694,96,15,"75.TAVOLA di noce (frattina) a 4 gambe, con crociera, ed un",147,97.3,False,none,,,,,
 BO0624_81802,124695,97,16,cassetto. xVIll secolo.,148,93.3,False,none,,,,,
-BO0624_81802,124696,98,76,DUE STATUE di legno rappr. Santi in atto di preghiera. Fine XVI secolo.,149,97.8,False,none,,,,,
+BO0624_81802,124696,98,76,DUE STATUE di legno rappr. Santi in atto di preghiera. Fine XVI secolo.,149,97.8,False,none,,,,,Sec. XVI
 BO0624_81802,124697,99,77,"PALIOTTO ricamato in seta punto ungaro, foglie e vasi di fiori, riporto su pelucche rosso.",150,98.3,False,none,,,VASI,,
 BO0624_81802,124698,100,78,QUATTRO PIATTI assortiti majolica e porcellana,151,96.8,False,none,,,PIATTI,,
 BO0624_81802,124699,101,79,TRE CALAMAI in antica majolica delle Nove assortiti per forma,152,97.6,False,none,,,,,
@@ -128,7 +128,7 @@ BO0624_81802,124724,126,14,stucco policromato.,196,92.3,False,none,,,,,
 BO0624_81802,124725,127,104,"APOLLO del Belvedere,bella statuetta in alabastro.",197,96.1,False,none,,,,,
 BO0624_81802,124726,128,105,"VAsO in antica majolica Catalana, color rosso.",198,95.7,False,none,,,VASI,,
 BO0624_81802,124727,129,106,"LA VERGINE con Angeli, bassorilievo in cera; racchiuso entro cornice nera.",199,97.3,False,none,,,,,
-BO0624_81802,124728,130,107,"SAN GIROLAMO, gruppo in terracotta. XVIII secolo.",200,95.8,False,none,,,,,
+BO0624_81802,124728,130,107,"SAN GIROLAMO, gruppo in terracotta. XVIII secolo.",200,95.8,False,none,,,,,Sec. XVIII
 BO0624_81802,124729,131,108,"CASSETTA di mogano per uso papeterie portatile, decorazione in ottone e relative maniglie.",201,97.8,False,none,,,,,
 BO0624_81802,124730,132,2,109.DUE laterali di legno a forma di colonna ottagona ad un sportello.,202,98.6,False,none,,,,,
 BO0624_81802,124731,133,110,CASSETTA di legno graffita ad ornati. Lavoro tedesco del XVll secolo.,203,97.1,False,none,,,,,
@@ -184,7 +184,7 @@ BO0624_81802,124780,182,151,"JACOPO DA PONTE-detto il Bassano quattro dipinti ad
 BO0624_81802,124781,183,152,"JACOPO DA PONTE, due dipinti ad olio su tela, rappr.",274,96.1,False,none,BASSANO GIACOMO,,,,
 BO0624_81802,124782,184,153,"MAGGIOTTO,il Poeta e il Cacciatore, due dipinti ad olio su tela,cornici nere e oro.",278,97.6,False,none,,,CORNICI,,
 BO0624_81802,124783,185,154,RATTO DI PROSERPINA. Bel gruppo in antica majolica bianca d'Este.,280,96.9,False,none,,,,,
-BO0624_81802,124784,186,155,"LA DEPOSIZIONE DELLA CROCE,dipintoa tempera su tavola di scuola Greca, cornice legno. XV secolo.",282,97.9,False,none,,,,,
+BO0624_81802,124784,186,155,"LA DEPOSIZIONE DELLA CROCE,dipintoa tempera su tavola di scuola Greca, cornice legno. XV secolo.",282,97.9,False,none,,,,,Sec. XV
 BO0624_81802,124785,187,156,"LA SACRA FAMIGLIA, bel dipinto ad olio su tela con fondo di paesaggio, cornice bianca e oro.",284,97.8,False,none,,,,,
 BO0624_81802,124786,188,157,"LA PRESENTAZIONE DEI RE MAGGI,dipinto a tempera",286,95.9,False,none,,,,,
 BO0624_81802,124787,189,158,Detto come sopra.,288,88.9,False,none,,,,,
@@ -244,13 +244,13 @@ BO0624_81802,124840,242,211,"PORTA da SALONE di legno a due ANTE, interamente sc
 BO0624_81802,124841,243,212,"CONSOLLE di noce forma centinata e bombata, decorata da",395,96.4,False,none,,,,,
 BO0624_81802,124842,244,212,A. CAMICE con merletto antico punto Milano. M. 4 x 0.25. B.ALTRO detto come sopra.,397,78.2,False,none,,,,,
 BO0624_81802,124843,245,213,"RITRATTO d’ uomo, dipinto ad olio su tela del G. Carlini",399,96.4,False,none,,,,,
-BO0624_81802,124844,246,214,MADONNA del Sassoferrato dipinto ad olio su tela. Cornice nera.,401,96.8,False,none,,,,,
+BO0624_81802,124844,246,214,MADONNA del Sassoferrato dipinto ad olio su tela. Cornice nera.,401,96.8,False,none,"SASSOFERRATO, GIOV. BATTISTA SALVI",,,,
 BO0624_81802,124845,247,215,"SCUOLA VENETA,ritratto di giovane patrizio veneziano. XVlI secolo. Cornice nera.",402,97.5,False,none,,Scuola Veneta,,,
 BO0624_81802,124846,248,216,"ADAMO ed EVA, dipinto su vetro. Cornice nera.",403,95.5,False,none,,,,,
-BO0624_81802,124847,249,217,"POLITICO, quattro santi, dipinti a tempera su tavola del XV secolo; ricca cornice in legno intagliato, ornati a pastiglia in oro, fondo bleu. Bella riproduzione del XVI secolo. Vedi tav.10.",404,98.9,False,none,,,,,
+BO0624_81802,124847,249,217,"POLITICO, quattro santi, dipinti a tempera su tavola del XV secolo; ricca cornice in legno intagliato, ornati a pastiglia in oro, fondo bleu. Bella riproduzione del XVI secolo. Vedi tav.10.",404,98.9,False,none,,,,,Sec. XV
 BO0624_81802,124848,250,218,"A. LA VOLPE (firmato). Veduta di paesaggio con pecore, bel dipinto ad olio su tela.Cornice dorata.",405,97.9,False,none,,,,,
-BO0624_81802,124849,251,219,RITRATTO del Marchese Lodovico Cocaponi in costume del 1500 dipinto ad olio su tela.Cornice legno dorato.,406,98.1,False,none,,,,,
-BO0624_81802,124850,252,220,"DUE DIPINTI su tavola, uno rappr. il Calvario e l' altro la Sacra Famiglia. XVI secolo.",407,97.6,False,none,,,,,
+BO0624_81802,124849,251,219,RITRATTO del Marchese Lodovico Cocaponi in costume del 1500 dipinto ad olio su tela.Cornice legno dorato.,406,98.1,False,none,,,,,Sec. XVI
+BO0624_81802,124850,252,220,"DUE DIPINTI su tavola, uno rappr. il Calvario e l' altro la Sacra Famiglia. XVI secolo.",407,97.6,False,none,,,,,Sec. XVI
 BO0624_81802,124851,253,221,ANTICO BASSORILIEVO terracotta rappr. La Sacra Fami- glia; fine esecuzione.,408,80.0,False,none,,,,,
 BO0624_81802,124852,254,222,ALTRO detto rappr. la Rissurezione. Vedi pag. 7.,413,95.7,False,none,,,,,
 BO0624_81802,124853,255,223,ALTRO detto a pendent. Vedi pag. 7.,414,73.7,False,none,,,,,
@@ -309,9 +309,9 @@ BO0624_81802,124905,307,272,"CAPPUCCINA, quadrante bronzo.XVIlI secolo.",511,95.
 BO0624_81802,124906,308,273,"CIBORIO legno dorato,a forma di tempietto, con cariatidi agli angoli. xVll secolo.",513,97.5,False,none,,,,,
 BO0624_81802,124907,309,274,ANTICA CASSETTINA di legno decorata a graffiti. Lavoro tirolese.,515,96.9,False,none,,,,,
 BO0624_81802,124908,310,275,"ANTICO COFANETTO di legno verniciato,con intagli a rilievo e traccie di doratura",517,97.6,False,none,,,,,
-BO0624_81802,124909,311,276,"DUE MESSALI Romani, uno del 1604 ed uno del 1578. Legatura originale in cuoio.",518,97.4,False,none,,,,,
+BO0624_81802,124909,311,276,"DUE MESSALI Romani, uno del 1604 ed uno del 1578. Legatura originale in cuoio.",518,97.4,False,none,,,,,Sec. XVII
 BO0624_81802,124910,312,277,"TAMBURELLA a corde, istrumento spagnolo.",519,95.0,False,none,,,,,
-BO0624_81802,124911,313,278,CHITARRA firmata A. Sevilla 1778. Lavoro spagnuolo.,520,96.0,False,none,,,,,
+BO0624_81802,124911,313,278,CHITARRA firmata A. Sevilla 1778. Lavoro spagnuolo.,520,96.0,False,none,,,,,Sec. XVIII
 BO0624_81802,124912,314,279,ANTICO ISTRUMENTO (Fagotto). Lavoro Veneziano.,521,95.5,False,none,,,,,
 BO0624_81802,124913,315,280,ALTRO detto piu grande.,522,91.7,False,none,,,,,
 BO0624_81802,124914,316,281,BEL TAPPETO orientale a piccoli disegni vari su fondo bleu.,523,96.7,False,none,,,,,
@@ -355,7 +355,7 @@ BO0624_81802,124951,353,316,"SUONATORI; scuola Fiamminga, dipinto ad olio su tav
 BO0624_81802,124952,354,317,"SACRA Famiglia, bel dipinto ad olio su tela, cornice dorata",585,96.6,False,none,,,,,
 BO0624_81802,124953,355,318,"TEMPESTA con naufragio, antico dipinto ad olio su tela. Cornice dorata.",586,97.1,False,none,,,,,
 BO0624_81802,124954,356,319,"SOGGETTO Storico;bel dipinto ad olio su tela,di scuola Veneziana. Cornice dorata.",587,78.8,False,none,,Scuola Veneziana,,,
-BO0624_81802,124955,357,320,"SCUOLA SPAGNUOLA XVIII secolo, veduta di un porto con galere, dipinto ad olio su tela. Molto decorativo. Vedi tav.2. M.2,70x1,45",589,88.1,False,none,,,,,
+BO0624_81802,124955,357,320,"SCUOLA SPAGNUOLA XVIII secolo, veduta di un porto con galere, dipinto ad olio su tela. Molto decorativo. Vedi tav.2. M.2,70x1,45",589,88.1,False,none,,,,,Sec. XVIII
 BO0624_81802,124956,358,321,"RATTO di PROSERPINA, bel dipinto ad.olio su tela,di scuola Veneziana. Ricca cornice dorata. Vedi tav.8.",592,65.8,False,none,,Scuola Veneziana,,,
 BO0624_81802,124957,359,322,"S.FRANCESCO, antico dipinto ad olio su tela. Cornice dorata.",593,96.6,False,none,,,,,
 BO0624_81802,124958,360,323,"LA VERGINE col Bambino, ed altro a soggetto Sacro, due",594,96.3,False,none,,,,,
@@ -364,8 +364,8 @@ BO0624_81802,124960,362,11,324.SANTA.Bel dipinto ad olio su tela.,596,96.1,False
 BO0624_81802,124961,363,325,"COPERTA di ricamo in filo, ornati diversi. Lavoro Abruzzese.",597,96.6,False,none,,,,,
 BO0624_81802,124962,364,13,325 Bis. TOVAGLIA in antico merletto punto Milano. M.0.62x0.72,598,97.6,False,none,,,,,
 BO0624_81802,124963,365,14,326.PICCOLO FREGlO in pietra tenera finemente scolpito a,599,97.4,False,none,,,,,
-BO0624_81802,124964,366,15,"volute, ornati, ed uccelli. XVI secolo.",600,95.9,False,none,,,,,
-BO0624_81802,124965,367,327,"PIETRO LOMBARDO. La Vergine col Bambino, S. Giuseppe, S.Rocco ed Angeli. Bel bassorilievo in marmo greco, com posizione di 1l figure. XVI secolo. Vedi tav.37. M.0,50x0,45",601,76.9,False,none,,,,,
+BO0624_81802,124964,366,15,"volute, ornati, ed uccelli. XVI secolo.",600,95.9,False,none,,,,,Sec. XVI
+BO0624_81802,124965,367,327,"PIETRO LOMBARDO. La Vergine col Bambino, S. Giuseppe, S.Rocco ed Angeli. Bel bassorilievo in marmo greco, com posizione di 1l figure. XVI secolo. Vedi tav.37. M.0,50x0,45",601,76.9,False,none,,,,,Sec. XVI
 BO0624_81802,124966,368,328,"BILANCIA a due piatti ottone, con colonna, decorata a graffiti.",603,88.7,False,none,,,PIATTI,,
 BO0624_81802,124967,369,329,"COMMODE di noce a due cassetti nella parte inferiore,piano calatore al disopra per uso scrivania, pomi e bocchette bronzo. XVlI secolo.",605,90.8,False,none,,,,,
 BO0624_81802,124968,370,330,"TAVOLINO da giuoco di noce, piano pieghevole, bordi ad intarsio.",607,96.8,False,none,,,ARREDAMENTI,,
@@ -406,7 +406,7 @@ BO0624_81802,125002,404,361,"TAVOLA di noce di forma ovale,piede a colonna decor
 BO0624_81802,125003,405,362,PROFUMIERA argento ornati a graffiti.,654,94.7,False,none,,,,,
 BO0624_81802,125004,406,363,DUE BRACCETTl per candele in argento.,655,94.7,False,none,,,,,
 BO0624_81802,125005,407,364,CORNICETTA argento con entro S. Antonio dipinto su rame.,656,96.4,False,none,,,,,
-BO0624_81802,125006,408,365,TESTA DI VECCHIO in marmo greco. XVII secolo.,658,95.6,False,none,,,,,
+BO0624_81802,125006,408,365,TESTA DI VECCHIO in marmo greco. XVII secolo.,658,95.6,False,none,,,,,Sec. XVII
 BO0624_81802,125007,409,366,"FIGURA di donna dorimente, copia dall antico in alabastro. Base di legno.",660,97.2,False,none,,,,,
 BO0624_81802,125008,410,367,"FRUTTIERA E PIATTO majolica bianca delle Nove,lavoro a traforo.",661,88.1,False,none,,,,,
 BO0624_81802,125009,411,368,"PLACCA IN MAJOLICA di Pesaro,rappr. la Vergine col Bambino.",663,96.6,False,none,,,,,
@@ -450,11 +450,11 @@ BO0624_81802,125046,448,405,"CREDENZA di noce con due sportelli ai lati,e quattr
 BO0624_81802,125047,449,406,PICCOLA CONSOLLE di legno e dipinta imitazione tar-,750,97.1,False,none,,,,,
 BO0624_81802,125048,450,407,"IL MIRACOLO di S. Girolamo,bel dipinto ad olio su tela",754,96.4,False,none,,,,,
 BO0624_81802,125049,451,408,"L'ANNUNCIAZIONE,piccolo e antico dipinto su alabastro. Cornice nera.",758,97.1,False,none,,,,,
-BO0624_81802,125050,452,409,"IL REDENTORE,bella terracotta policroma del XV secolo.",760,96.4,False,none,,,,,
+BO0624_81802,125050,452,409,"IL REDENTORE,bella terracotta policroma del XV secolo.",760,96.4,False,none,,,,,Sec. XV
 BO0624_81802,125051,453,410,"SCUOLA GRECA.La Vergine col Bambino,dipinto ad olio su tavola.",764,96.8,False,none,,,,,
 BO0624_81802,125052,454,411,"SOGGETTO SACRO dipinto ad olio su tela,scuola Veneta. Cornice dorata.",765,97.1,False,none,,Scuola Veneta,,,
 BO0624_81802,125053,455,412,"JACOPO CRIVELLI.(Attribuiti）. Due ritratti della Famiglia imperiale d'Asburgo uomo e donna; dipinti ad olio su tela,cornici legno dorato.",766,98.5,False,none,,,CORNICI,,
-BO0624_81802,125054,456,413,"CANDIDO 1848 （firmato) Napoli sparita, bel dipinto ad olio",767,96.5,False,none,,,,,
+BO0624_81802,125054,456,413,"CANDIDO 1848 （firmato) Napoli sparita, bel dipinto ad olio",767,96.5,False,none,,,,,Sec. XIX
 BO0624_81802,125055,457,414,"GIUDIZIO di Salomone, antico dipinto ad olio su tela,di scuola Veneta,cornice nera",772,97.6,False,none,,Scuola Veneta,,,
 BO0624_81802,125056,458,2,"415.LA NASCITA,antico dipinto ad olio su teta,di scuola Veneta.",773,98.4,False,none,,Scuola Veneta,,,
 BO0624_81802,125057,459,416,"SOGCETTI Campestri, tre dipinti ad olio su tavola. Scuola",774,96.5,False,none,,,,,
@@ -469,7 +469,7 @@ BO0624_81802,125065,467,422,PIATTO e due Stemmi bronzo.,787,92.9,False,none,,,,,
 BO0624_81802,125066,468,423,"ESCULAPIO,bella statuetta in bronzo,riproduzione dal 'antico,patina oscura.",788,80.6,False,none,,,,,
 BO0624_81802,125067,469,424,"GRANDE Commode di noce a tre cassetti, forma bombata",790,96.2,False,none,,,,,
 BO0624_81802,125068,470,425,TAVOLO da Centro di legno lucido ad ebano interamente intarsiato ad ornati in avorio;piede a colonna.,792,98.0,False,none,,,,,
-BO0624_81802,125069,471,426,"ANTICO Cassone di legno,il davanti dipinto a tenpera a Bis.ALTAREin legno finemente scolpito,doratoe policromato, decorato da bassorilievi a soggetti Sacri. ll centro a forma di tempietto con statua rappr. la Vergine ed il Bambino. Ogni bassorilievo sorretto da colonne a tortiglione,basi e capitelli. Oggetto da collezione,fine XVI secolo.",796,90.8,False,none,,,BASSORILIEVI,,
+BO0624_81802,125069,471,426,"ANTICO Cassone di legno,il davanti dipinto a tenpera a Bis.ALTAREin legno finemente scolpito,doratoe policromato, decorato da bassorilievi a soggetti Sacri. ll centro a forma di tempietto con statua rappr. la Vergine ed il Bambino. Ogni bassorilievo sorretto da colonne a tortiglione,basi e capitelli. Oggetto da collezione,fine XVI secolo.",796,90.8,False,none,,,BASSORILIEVI,,Sec. XVI
 BO0624_81802,125070,472,427,"MOBILE a Credenza di noce a quattro sportelli, bella forma sagomata, e centinata, piede a zanpe di leone. XVIll secolo.",799,98.3,False,none,,,,,
 BO0624_81802,125071,473,428,"GRANDE COMMODE. di noce a tre cassetti, decorati da ornati in avorio, maniglie bronzo; fine XVll secolo.",801,66.7,False,none,,,,,
 BO0624_81802,125072,474,429,"GRANDE e bella COMMODE di noce a tre cassetti, interamente intarsiata ad ornati, uccelli e fogliami, in legni vari.",802,98.2,False,none,,,OGGETTI IN LEGNO,,
@@ -525,7 +525,7 @@ BO0624_81802,125121,523,471,"GRANDE TAPPETO Muskabat con ricca bordura ad or- na
 BO0624_81802,125122,524,472,"TAPPETO MECCA a 5 bordure, colori vari.M.2x 1,35.",860,95.9,False,none,,,,,
 BO0624_81802,125123,525,15,"473.DETTO a fondo bianco. M.1,80x1,25.",861,96.0,False,none,,,,,
 BO0624_81802,125124,526,474,"TRE PAIA OCCHIALI, ed astuccio contenente necessair da lavoro in argento.",870,82.8,False,none,,,,,
-BO0624_81802,125125,527,475,"TRE CRISTI in bronzo grandezze diverse. XVII secolo. TRE PICCOLI BASSORILIEVI marmo di Carrara rappr. DUE ANTICHI ASTUCCI in cuoio, uno centinato ed ornati in oro a piccoli fiori, laltro a forma di cofanetto.",874,67.3,False,none,,,BASSORILIEVI,,
+BO0624_81802,125125,527,475,"TRE CRISTI in bronzo grandezze diverse. XVII secolo. TRE PICCOLI BASSORILIEVI marmo di Carrara rappr. DUE ANTICHI ASTUCCI in cuoio, uno centinato ed ornati in oro a piccoli fiori, laltro a forma di cofanetto.",874,67.3,False,none,,,BASSORILIEVI,,Sec. XVII
 BO0624_81802,125126,528,478,CATINO DA BARBA e bacile a due manici in piombo. Veneziani del XVill secolo.,876,97.4,False,none,,,,,
 BO0624_81802,125127,529,479,"LOTTO di quattro tabacchiere due di tartaruga, e due di legno.",877,96.8,False,none,,,,,
 BO0624_81802,125128,530,480,DUE ANTICHE CROCI legno intarsiate in madreperla.La-,878,96.2,False,none,,,,,
@@ -540,7 +540,7 @@ BO0624_81802,125136,538,487,QUATTRO detti come sopra,893,92.3,False,none,,,,,
 BO0624_81802,125137,539,488,DUE DETTI decorazione e colori diversi.,894,95.0,False,none,,,,,
 BO0624_81802,125138,540,489,QUATTRO SOTTOBOTTIGLIE in antica maj. bianca d' Este.,895,96.2,False,none,,,,,
 BO0624_81802,125139,541,490,BASSORILIEVO in terracotta rappr. la Madonna col Baim bino. Cornice dorata.,896,97.3,False,none,,,,,
-BO0624_81802,125140,542,491,LA PIETA; stucco dipinto del XVI secolo. Vedi tav.36.,897,82.6,False,none,,,,,
+BO0624_81802,125140,542,491,LA PIETA; stucco dipinto del XVI secolo. Vedi tav.36.,897,82.6,False,none,,,,,Sec. XVI
 BO0624_81802,125141,543,492,"DUE COMODINI di noce ad un sportello e cassetto, bordi intarsiati. XVIll secolo",899,79.1,False,none,,,,,
 BO0624_81802,125142,544,493,"ELEGANTE COMODINO di noce ad un sport., bordo graff.",901,96.1,False,none,,,,,
 BO0624_81802,125143,545,494,ANTICA CANTONIERA di noce con intarsi a Maggiolino; relativo tavolino.,902,82.0,False,none,,,ARREDAMENTI,,
@@ -559,7 +559,7 @@ BO0624_81802,125155,557,505,"SOGGETTO BIBLICO,dipinto ad olio su tela;di scuola 
 BO0624_81802,125156,558,506,IACOPO DA PONTE (Bassano) quattro dipinti ad olio su tela rappresentanti le quattro stagioni.,922,97.8,False,none,BASSANO GIACOMO,,,,
 BO0624_81802,125157,559,507,"A.PRATELLA （firimato) strada d'Aversa, dipinto ad olio su tela. Cornice intagliata.",923,97.5,False,none,,,,,
 BO0624_81802,125158,560,508,"RITRATTO DI BAMBINA,bel dipinto ad olio su tela. Cor-",924,96.2,False,none,,,,,
-BO0624_81802,125159,561,509,"IL CALVARIO,bel dipinto a tempera su tavola, con molte figure. Scuola Greca XV secolo.",926,97.6,False,none,,,,,
+BO0624_81802,125159,561,509,"IL CALVARIO,bel dipinto a tempera su tavola, con molte figure. Scuola Greca XV secolo.",926,97.6,False,none,,,,,Sec. XV
 BO0624_81802,125160,562,510,"TRE BUSTI in terracotta rapp. Antonio Pedrocchi, Giusep.",928,96.4,False,none,,,,,
 BO0624_81802,125161,563,511,"IDILIO CAMPESTRE, grande gruppo in antica porcellana di",929,96.4,False,none,,,,,
 BO0624_81802,125162,564,512,"IL TEMPO E VULCANO, due statuette in antica porcellana",931,96.4,False,none,,,,,
@@ -623,7 +623,7 @@ BO0624_81802,125219,621,565,"TESTA D'ANGELO, legno dorato;XVII secolo.",1000,95.
 BO0624_81802,125220,622,566,DUE GUARDAPORTONE dipinti su tavola rappr. guerrieri.,1001,96.2,False,none,,,,,
 BO0624_81802,125221,623,3,"567.ANTICO TABERNACOLO in ebano, con Cristo e santi in",1002,98.1,False,none,,,,,
 BO0624_81802,125222,624,4,avorio.,1003,85.7,False,none,,,,,
-BO0624_81802,125223,625,568,"S. ROCCO, bella statuetta in legno dipinto, fine XVII secolo.",1004,96.6,False,none,,,,,
+BO0624_81802,125223,625,568,"S. ROCCO, bella statuetta in legno dipinto, fine XVII secolo.",1004,96.6,False,none,,,,,Sec. XVII
 BO0624_81802,125224,626,569,MADONNA in ginocchio; statuetta di legno dipinto.,1005,95.9,False,none,,,,,
 BO0624_81802,125225,627,570,ISTRUMENTO Orientale a molti campanelli.,1006,95.1,False,none,,,,,
 BO0624_81802,125226,628,571,DUE CORNI da caccia di ottone.,1007,93.5,False,none,,,,,
@@ -649,7 +649,7 @@ BO0624_81802,125245,647,19,"590.INGINOCCHIATOJO a sedia di noce, forma centinata
 BO0624_81802,125246,648,591,"PICCOLA CASSA di legno, decorata ad ornati dipinti",1043,96.1,False,none,,,,,
 BO0624_81802,125247,649,592,"COMODINO di noce ad un sportello e cassetto, forma bom bata, e bordi ad intarsio. XVlll secolo.",1044,71.6,False,none,,,,,
 BO0624_81802,125248,650,593,Detto come sopra a pendent.,1046,92.9,False,none,,,,,
-BO0624_81802,125249,651,594,"LETTO ad una piazza e mezza di legno dipinto a fiorami e festoni su fondo grigio perla, e relativo Comodino d' ac-",1047,98.2,False,none,,,,,
+BO0624_81802,125249,651,594,"LETTO ad una piazza e mezza di legno dipinto a fiorami e festoni su fondo grigio perla, e relativo Comodino d' ac-",1047,98.2,False,none,PIAZZETTA JEAN-BAPTISTE,,,,
 BO0624_81802,125250,652,5,compagno. Lavoro Veneziano del XVIlI secolo.,1048,97.7,False,none,,,,,
 BO0624_81802,125251,653,6,595.ELEGANTE COMMODE di noce interamente intarsiata a,1049,98.1,False,none,,,,,
 BO0624_81802,125252,654,7,"Maggiolino, due cassetti, piano ad ornati legni vari. Lavoro Loimbardo.XVIll secolo.",1050,98.8,False,none,,,OGGETTI IN LEGNO,,
@@ -678,7 +678,7 @@ BO0624_81802,125274,676,620,"PAJO CANDELIERI in ottone a due candele. Epoca impe
 BO0624_81802,125275,677,621,GRANDE COMMODE di noce a quattro cassetti interamente,1116,96.4,False,none,,,,,
 BO0624_81802,125276,678,622,"TAVOLO da centro di noce a 4 gambe tornite, piano iinitazione marmo con ornati e bordo, stile 50o.xVllI secolo.",1118,98.2,False,none,,,,,
 BO0624_81802,125277,679,623,"CASSA MATRIMONIALE di noce, con ordamenti graffiti,",1120,96.1,False,none,,,,,
-BO0624_81802,125278,680,2,"contornata da bordo scolpito, quattro zampe sul davanti. Fine XVI secolo.",1121,98.6,False,none,,,,,
+BO0624_81802,125278,680,2,"contornata da bordo scolpito, quattro zampe sul davanti. Fine XVI secolo.",1121,98.6,False,none,,,,,Sec. XVI
 BO0624_81802,125279,681,3,"624.ANTICO CREDENZINO di noce a forma centinata, vari",1122,98.1,False,none,,,,,
 BO0624_81802,125280,682,4,casseiti e sportelli.,1123,95.2,False,none,,,,,
 BO0624_81802,125281,683,625,"DETTO come sopra, pendent.",1124,92.3,False,none,,,,,
@@ -689,7 +689,7 @@ BO0624_81802,125285,687,4,e riporti a rilievo. XVIll secolo.,1128,97.0,False,non
 BO0624_81802,125286,688,628,"GUARNITURA per camera da letto di noce lucida a mogano, composta di 1 letto, 1 conodino, 2 sedie, 1 poltrona, tavolo da centro, 1 consolle, 2 mensole da muro e relative cornici per specchi, ed una piccola toilette.",1129,99.0,False,none,,,SPECCHI,,
 BO0624_81802,125287,689,629,"OROLOGIO da CAMINETTO legno lucido a ebano, con colonnine alabastro. Epoca impero.",1133,71.3,False,none,,,,,
 BO0624_81802,125288,690,630,"GLADIATORE MORENTE, bel bronzo,base marimo rosso antico.",1135,96.4,False,none,,,,,
-BO0624_81802,125289,691,631,"BELLA PLACCHETTA in bronzo dorato, La Vergine. XVII secolo.",1136,84.6,False,none,,,,,
+BO0624_81802,125289,691,631,"BELLA PLACCHETTA in bronzo dorato, La Vergine. XVII secolo.",1136,84.6,False,none,,,,,Sec. XVII
 BO0624_81802,125290,692,632,"OROLOGIO da caminetto, legno lucido a ebano, quadrante sostenuto da due colonnine alabastro. Epoca impero.",1138,65.8,False,none,,,,,
 BO0624_81802,125291,693,633,"DETTO come sopra di noce, e quadrante dorato. Epoca inipero.",1140,82.7,False,none,,,,,
 BO0624_81802,125292,694,634,"DETTO cone sopra, con quadrante smalto bianco. Epoca ipero.",1142,96.6,False,none,,,,,
@@ -719,7 +719,7 @@ BO0624_81802,125315,717,664,Due dette come sopra.,1182,90.9,False,none,,,,,
 BO0624_81802,125316,718,665,Due come le precedenti,1184,91.7,False,none,,,,,
 BO0624_81802,125317,719,666,"SANT' ANTONIO, bella e antica statuetta di legno dipinto.",1186,96.4,False,none,,,,,
 BO0624_81802,125318,720,667,"DUE antiche STATUETTE di legno,rappr.una la Vergine col bambino, l' altra una santa.",1188,97.6,False,none,,,,,
-BO0624_81802,125319,721,668,"DUE belle figure di Cristo in legno scolpito e dipinto, parte di un gruppo della Deposizione. XV secolo.",1190,98.1,False,none,,,,,
+BO0624_81802,125319,721,668,"DUE belle figure di Cristo in legno scolpito e dipinto, parte di un gruppo della Deposizione. XV secolo.",1190,98.1,False,none,,,,,Sec. XV
 BO0624_81802,125320,722,669,TAPPETO fabbrica Iran fondo bleu.,1194,94.1,False,none,,,,,
 BO0624_81802,125321,723,670,"TAPPETO FABRITZ, fondo rosso.",1196,93.1,False,none,,,,,
 BO0624_81802,125322,724,671,"TAPPETO da preghiera a cinque bordure colori vari, centro fondo rosso.",1202,97.1,False,none,,,,,
@@ -738,7 +738,7 @@ BO0624_81802,125334,736,15,"684.SEI POSAPOSATE,antica majolica d'Este.",1227,96.
 BO0624_81802,125335,737,685,"VENTIQUATTRO PIATTI terraglia smalt.a vecchia Marsiglia, grandezze diverse.",1228,97.3,False,none,,,PIATTI,,
 BO0624_81802,125336,738,686,"TESTA DI MINERVA, marmo greco di scavo. Frammento da collezione.",1229,96.8,False,none,,,,,
 BO0624_81802,125337,739,687,"SGABELLONE portavasi, legno intagliato e dorato.",1230,95.8,False,none,,,,,
-BO0624_81802,125338,740,688,"MADONNA con Bambino,bella pittura su tavola. Sec. XV.",1231,96.2,False,none,,,,,
+BO0624_81802,125338,740,688,"MADONNA con Bambino,bella pittura su tavola. Sec. XV.",1231,96.2,False,none,,,,,Sec. XV
 BO0624_81802,125339,741,689,"PICCOLO MOBILINO di noce ad un sportello, forma cen- tinata. XVIll secolo.",1232,80.6,False,none,,,,,
 BO0624_81802,125340,742,690,"QUATTRO SEGGIOLONI di legno ad alta spalliera,ricoperti in cuojo.",1234,89.4,False,none,,,,,
 BO0624_81802,125341,743,691,"COMMODE di noce a tre cassetti, il davanti e le fiancate ad intarsio, piano e cornici lucide ad ebano. XVIll secolo.",1236,98.2,False,none,,,CORNICI,,
@@ -773,7 +773,7 @@ BO0624_81802,125369,771,719,"MOBILE A CREDENZA di noce, a quattro sportelli, cen
 BO0624_81802,125370,772,720,"BELLA COMMODE di noce a due cassetti, forma bombata e centinata. Epoca Luigi XV. Vedi tav.24.",1277,97.8,False,none,,Periodo di Luigi XV,,,
 BO0624_81802,125371,773,21,"721.ELEGANTE COMMODE di noce di forma bombata,a due cassetti, filettati in bois da rose, maniglie e bocchette di bronzo. Epoca Luigi XV.",1278,98.9,False,none,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_81802,125372,774,722,"SPLENDIDO SCRIGNO di noce, sportello calatore, che rac chiude molti cassettini interni finemente intarsiati in avorio, sostenuto da tavolino a gambe a tortiglione e crocera scolpita. Lavoro Ispano Moresco del xVI secolo. Vedi tav.23. Bis. Metri 4 MERLETTO ANTICO punto Milano.",1279,91.0,False,none,,,ARREDAMENTI,,
-BO0624_81802,125373,775,723,"DUE PUTTI in ferro, lavoro Spagnuolo del XVI secolo.",1282,96.2,False,none,,,,,
+BO0624_81802,125373,775,723,"DUE PUTTI in ferro, lavoro Spagnuolo del XVI secolo.",1282,96.2,False,none,,,,,Sec. XVI
 BO0624_81802,125374,776,724,"TRE ANTICHI SPADINI, else in bronzo e acciaio.",1284,95.7,False,none,,,,,
 BO0624_81802,125375,777,725,"SPADONE, e due coltelli da caccia.",1286,94.1,False,none,,,,,
 BO0624_81802,125376,778,726,DUE ANTICHE PISTOLE d'arcione a pietra.,1288,95.0,False,none,,,,,
@@ -803,7 +803,7 @@ BO0624_81802,125399,801,751,"TESTA DI PUTTO, di marmo Carrara, frammento. SETTE 
 BO0624_81802,125400,802,754,"CINQUE SOTTOBICCHIERI in antica majolica bianca d'Este. OROLOGIO legno lucido a ebano, quadrante sostenuto da due colonnine alabastro a tortiglione. Epoca impero. ACQUASANTIERA rame argentato.",1359,70.7,False,none,,,,,
 BO0624_81802,125401,803,757,"OROLOGIO A QUADRO, fondo dipinto ad ornati.",1363,95.3,False,none,,,,,
 BO0624_81802,125402,804,758,"OROLOGIO fabbrica Romana, cassetta di noce, quadrante di bronzo. XVIll.",1365,97.1,False,none,,,,,
-BO0624_81802,125403,805,759,"DUE CRISTI in legno. XV secolo. CRISTO in legno, fine scultura del xVI secolo. TRE CRISTI in legno. XV secolo.",1371,59.2,False,none,,,,,
+BO0624_81802,125403,805,759,"DUE CRISTI in legno. XV secolo. CRISTO in legno, fine scultura del xVI secolo. TRE CRISTI in legno. XV secolo.",1371,59.2,False,none,,,,,Sec. XV
 BO0624_81802,125404,806,762,"CRISTO in legno, scolpito e verniciato. DUE BRACCIALI di legno per giuoco del pallone. CRISTO in bosso, finemente scolpito. XVIll secolo.",1379,52.7,False,none,,,,,
 BO0624_81802,125405,807,765,NAPOLEONE e suo FIGLIO. Stampa. Cornice dorata.,1381,95.7,False,none,,,,,
 BO0624_81802,125406,808,766,"TAPPETO IRAN,fondo rosso, disegni orientali. 767. DETTO a disegni vari, fondo bleu. M.1.50x1. 768. TAPPETO IRAN, fondo bianco ed ornati a colori.",1382,98.6,False,none,,,,,

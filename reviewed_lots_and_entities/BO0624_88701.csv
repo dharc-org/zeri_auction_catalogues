@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88701,490276,1,I,"nnerhalb der Porzellansammlung haben die zwei rheinischen Manufakturen Hochst und Frankenthal entschieden das Ubergewicht. Die Kurmainzische Fabrik zeigt ihren Hauptmeister Johann Peter Melchior mit dem Reliefportrat des Fursten Karl Anselm von Thurn und Taxis (Taf. 15) von seiner starksten Seite; zudem ist es das einzigste Exemplar,das existiert.Auch unter den GefaBen hat Hochst mit der an franzosisches Silber erinnernden Deckelschale Nr.236 ein Meisterstick im bluhenden Stil Louis XV. aufzuweisen. Die fein bemalten Figuren der Tanzerin Camargo nach Lancret und ihres Partners sind als heif begehrte Schopfungen Frankenthals bekannt genug (Taf. 16); cs ist ein Vorzug der vorliegenden Exemplare, daf sie durch die Marke Joseph Adam Hanongs als fruhe Ausformungen vor 1762 beglaubigt sind. Die drei Figuren des Hof bildhauers Konrad Link (Taf. 17) zeigen jene Vollendung der Porzellanmasse und der Bossierung, die die Kurpfalzische Fabrik Frankenthal unter der Leitung Adam Bergdolls erreicht hat. Neben den beiden rheinischen Fabriken tritt gleichwertig Ludwigsburg mit den zwei Bacchantengruppen (Taf. 18), denen der Bossierer die sorgfailtigste Durch arbeitung zuteil werden lieB, die so wesentlich dazu beitragt, die hohen Qualitaten der Porzellanplastik Wilhelm Beyers zur Geltung zu bringen. Es ist bekannt, daf Beyer die eine Gruppe (Nr. 301) als Probestick fir seine Aufnahme in die Wiener Kunstakademie eingereicht, also selbst als eine seiner glucklichsten Schopfungen angesehen hat.",3,100.0,False,none,LANCRET NICOLAS,Periodo di Luigi XV,OGGETTI VARI,,
+BO0624_88701,490276,1,I,"nnerhalb der Porzellansammlung haben die zwei rheinischen Manufakturen Hochst und Frankenthal entschieden das Ubergewicht. Die Kurmainzische Fabrik zeigt ihren Hauptmeister Johann Peter Melchior mit dem Reliefportrat des Fursten Karl Anselm von Thurn und Taxis (Taf. 15) von seiner starksten Seite; zudem ist es das einzigste Exemplar,das existiert.Auch unter den GefaBen hat Hochst mit der an franzosisches Silber erinnernden Deckelschale Nr.236 ein Meisterstick im bluhenden Stil Louis XV. aufzuweisen. Die fein bemalten Figuren der Tanzerin Camargo nach Lancret und ihres Partners sind als heif begehrte Schopfungen Frankenthals bekannt genug (Taf. 16); cs ist ein Vorzug der vorliegenden Exemplare, daf sie durch die Marke Joseph Adam Hanongs als fruhe Ausformungen vor 1762 beglaubigt sind. Die drei Figuren des Hof bildhauers Konrad Link (Taf. 17) zeigen jene Vollendung der Porzellanmasse und der Bossierung, die die Kurpfalzische Fabrik Frankenthal unter der Leitung Adam Bergdolls erreicht hat. Neben den beiden rheinischen Fabriken tritt gleichwertig Ludwigsburg mit den zwei Bacchantengruppen (Taf. 18), denen der Bossierer die sorgfailtigste Durch arbeitung zuteil werden lieB, die so wesentlich dazu beitragt, die hohen Qualitaten der Porzellanplastik Wilhelm Beyers zur Geltung zu bringen. Es ist bekannt, daf Beyer die eine Gruppe (Nr. 301) als Probestick fir seine Aufnahme in die Wiener Kunstakademie eingereicht, also selbst als eine seiner glucklichsten Schopfungen angesehen hat.",3,100.0,False,none,LANCRET NICOLAS,Periodo di Luigi XV,OGGETTI VARI,,Sec. XVIII
 BO0624_88701,490277,2,1,STEINZEUGKRUG.,17,96.3,False,title_direct,,,STEINZEUG,,
 BO0624_88701,490278,3,2,DESGLEICHEN.,23,95.7,False,positional,,,STEINZEUG; FAYENCE,,
 BO0624_88701,490279,4,3,STEINZEUGKRUG MIT ENGHALS.,29,98.0,False,title_direct,,,STEINZEUG,,
@@ -50,7 +50,7 @@ BO0624_88701,490323,48,78,DESGLEICHEN.,494,91.7,False,positional,,,ZWISCHENGOLD-
 BO0624_88701,490324,49,84,POKAL.,509,83.3,False,positional,,,ZWISCHENGOLD-GLASER,,
 BO0624_88701,490325,50,85,DESGLEICHEN.,515,88.0,False,positional,,,ZWISCHENGOLD-GLASER,,
 BO0624_88701,490326,51,86,GLASBECHER.,519,87.0,False,positional,,,ZWISCHENGOLD-GLASER,,
-BO0624_88701,490327,52,90,GLASPOKAL. JAHRHUNDERT.Hohe 26 cm.,543,80.7,False,positional,,,OGGETTI VARI,,
+BO0624_88701,490327,52,90,GLASPOKAL. JAHRHUNDERT.Hohe 26 cm.,543,80.7,False,positional,,,OGGETTI VARI,,Sec. XVII
 BO0624_88701,490328,53,91,POKAL.,550,83.3,False,positional,,,KRISTALLGLASER,,
 BO0624_88701,490329,54,92,GLASPOKAL.,556,90.0,False,positional,,,OGGETTI VARI,,
 BO0624_88701,490330,55,93,GLASBECHER.,566,90.9,False,positional,,,KRISTALLGLASER,,
@@ -103,7 +103,7 @@ BO0624_88701,490376,101,142,POKAL.,857,76.9,False,positional,,,KRISTALLGLASER,,
 BO0624_88701,490377,102,143,DESGLEICHEN.,863,88.0,False,positional,,,KRISTALLGLASER,,
 BO0624_88701,490378,103,144,POKAL.,869,76.9,False,positional,,,KRISTALLGLASER,,
 BO0624_88701,490379,104,145,SPITZGLAS.,875,85.7,False,positional,,,KRISTALLGLASER,,
-BO0624_88701,490380,105,I,"n Barockrahmung ein Herz mit ,Bestandig""und Spruch. DEUTSCH,18.JAHRHUNDERT.Hohe 23 cm.",933,99.4,False,positional,,,KRISTALLGLASER,,
+BO0624_88701,490380,105,I,"n Barockrahmung ein Herz mit ,Bestandig""und Spruch. DEUTSCH,18.JAHRHUNDERT.Hohe 23 cm.",933,99.4,False,positional,,,KRISTALLGLASER,,Sec. XVIII
 BO0624_88701,490381,106,157,POKAL.,934,71.4,False,positional,,,KRISTALLGLASER,,
 BO0624_88701,490382,107,158,DESGLEICHEN.,942,84.6,False,positional,,,KRISTALLGLASER,,
 BO0624_88701,490383,108,159,DESGLEICHEN.,950,84.6,False,positional,,,KRISTALLGLASER,,
@@ -144,7 +144,7 @@ BO0624_88701,490417,142,193,KLEINERUNDSCHEIBE.,1166,91.9,False,positional,,,GLAS
 BO0624_88701,490418,143,194,SCHEIBE.,1169,77.8,False,positional,,,OGGETTI VARI,,
 BO0624_88701,490419,144,195,WAPPENSCHEIBE.,1175,86.7,False,positional,,,GLASGEMALDE,,
 BO0624_88701,490420,145,196,SCHEIBE.,1181,77.8,False,positional,,,OGGETTI VARI,,
-BO0624_88701,490421,146,197,WAPPENSCHEIBE DES FENDRICH KASPAR ULLRYCH ZU SCHWYTZ 1609. Ein Fahnentrager stehend neben dem Wappen (Lilie und Kreuz). Rechteckig.,1187,98.4,False,title_direct,KASPAR ULLRYCH,,,,
+BO0624_88701,490421,146,197,WAPPENSCHEIBE DES FENDRICH KASPAR ULLRYCH ZU SCHWYTZ 1609. Ein Fahnentrager stehend neben dem Wappen (Lilie und Kreuz). Rechteckig.,1187,98.4,False,title_direct,KASPAR ULLRYCH,,,,Sec. XVII
 BO0624_88701,490422,147,198,SCHEIBE.,1191,77.8,False,positional,KASPAR ULLRYCH,,OGGETTI VARI,,
 BO0624_88701,490423,148,199,RUNDSCHEIBE.,1197,84.6,False,positional,KASPAR ULLRYCH,,,,
 BO0624_88701,490424,149,200,DESGLEICHEN.,1203,88.0,False,positional,KASPAR ULLRYCH,,,,
@@ -249,7 +249,7 @@ BO0624_88701,490522,247,326,DESGLEICHEN.,1858,84.6,False,positional,,,MOBEL; HOL
 BO0624_88701,490523,248,327,"LEHNSTUHL. JAHRHUNDERT.Hohe 142cm,Breite 66 cm.",1872,86.7,False,positional,,,MOBEL; HOLZARBEITEN,,
 BO0624_88701,490524,249,328,",329 EIN PAAR LEHNSTUHLE.",1874,92.0,False,positional,,,SCOMPARTI,,
 BO0624_88701,490525,250,330,",331 EIN PAAR SESSEL.",1880,90.5,False,positional,,,MOBEL; HOLZARBEITEN,,
-BO0624_88701,490526,251,332,"SCHEMEL. TALIEN UM 1600. Hohe54 cm,Breite 45 cm.",1890,89.2,False,positional,,,MOBEL; HOLZARBEITEN,,
+BO0624_88701,490526,251,332,"SCHEMEL. TALIEN UM 1600. Hohe54 cm,Breite 45 cm.",1890,89.2,False,positional,,,MOBEL; HOLZARBEITEN,,Sec. XVII
 BO0624_88701,490527,252,333,DESGLEICHEN.,1894,88.0,False,positional,,,MOBEL; HOLZARBEITEN,,
 BO0624_88701,490528,253,334,TRUHE.,1901,71.4,False,positional,,,BAULI,,
 BO0624_88701,490529,254,335,DESGLEICHEN.,1909,88.0,False,positional,,,MOBEL; HOLZARBEITEN,,
@@ -290,7 +290,7 @@ BO0624_88701,490563,288,370,ROKOKOLEHNSTUHL.,2155,88.2,False,positional,,,MOBEL;
 BO0624_88701,490564,289,371,LEHNSTUHL.,2163,81.8,False,positional,,,SCOMPARTI,,
 BO0624_88701,490565,290,372,LEHNSTUHL LOUIS XVI.,2169,92.7,False,positional,,,MOBEL; HOLZARBEITEN,,
 BO0624_88701,490566,291,373,"KANDELABER. TALIEN,17.JAHRHUNDERT. Hohe 145 cm (ohne Lampe).",2178,88.0,False,positional,,,CANDELABRI,,
-BO0624_88701,490567,292,374,"a b CHORSCHRANKEN. TALIEN UM 1600.a) Lange 168 cm,Hohe 85 cm.b) Lange 249 und 130 cm,Hohe 85 cm.",2184,88.6,False,positional,,,MOBEL; HOLZARBEITEN,,
+BO0624_88701,490567,292,374,"a b CHORSCHRANKEN. TALIEN UM 1600.a) Lange 168 cm,Hohe 85 cm.b) Lange 249 und 130 cm,Hohe 85 cm.",2184,88.6,False,positional,,,MOBEL; HOLZARBEITEN,,Sec. XVII
 BO0624_88701,490568,293,375,"CHORPULT. TALIEN,17.JAHRHUNDERT. Hohe 180 cm, Breite 127 cm.",2190,90.4,False,positional,,,MOBEL; HOLZARBEITEN,,
 BO0624_88701,490569,294,376,"WANDSPIEGEL. n geschnitztem und vergoldetem Rokokorahmen aus Muschelwerk,mit einer grofen Spiegelplatte und einer kleineren dariber.",2194,95.6,False,positional,,,MOBEL; HOLZARBEITEN,,
 BO0624_88701,490570,295,377,KONSOLTISCH.,2198,88.0,False,positional,,,MOBEL; HOLZARBEITEN,,
@@ -392,7 +392,7 @@ BO0624_88701,490665,390,482,SEIDENDECKE. JAHRHUNDERT. Lange 105 cm.,2827,79.4,Fa
 BO0624_88701,490666,391,483,"DECKE. JAHRHUNDERT. Hohe 83 cm,Breite 124 cm.",2833,91.4,False,positional,,,TEXTILIEN,,
 BO0624_88701,490667,392,484,",485EIN PAAR DECKEN (WANDBEHANG).",2835,93.5,False,positional,,,BIANCHERIA,,
 BO0624_88701,490668,393,486,"EINSTUCK ROTERSEIDENDAMAST. TALIEN,2.HALFTE 17.JAHRHUNDERT. Hohe 82 cm,Breite 50 cm.",2844,80.9,False,positional,,,TEXTILIEN,,
-BO0624_88701,490669,394,487,"ALTARBEHANG AUSROTEMSEIDENDAMAST. TALIEN UM 1600. Breite 216 cm,Hohe 96 cm.",2850,71.4,False,positional,,,TEXTILIEN,,
+BO0624_88701,490669,394,487,"ALTARBEHANG AUSROTEMSEIDENDAMAST. TALIEN UM 1600. Breite 216 cm,Hohe 96 cm.",2850,71.4,False,positional,,,TEXTILIEN,,Sec. XVII
 BO0624_88701,490670,395,488,CHORMANTEL.,2852,83.3,False,positional,,,TEXTILIEN,,
 BO0624_88701,490671,396,489,ZWEI BEHANGSTREIFEN.,2858,90.5,False,positional,,,TEXTILIEN,,
 BO0624_88701,490672,397,490,KNUPFTEPPICH.,2864,88.9,False,positional,,,TEXTILIEN,,

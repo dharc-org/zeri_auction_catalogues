@@ -2,26 +2,26 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_5444,65943,1,1,"VIELE. Instrument musical d'Orient, avec ornements en bois",68,98.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,65944,2,2,sculpte.,69,87.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,65945,3,3,"2.PHENICOPTERE et paon empailles. Coupe en verre a bord évase sur pied tres fin, a petites rainures blanches. XVIl siecle.",74,83.9,False,positional,,Murano,,,
-BO0624_5444,65946,4,4,"LAMPE a trois becs, en verre sur pied. Vieux Murano. XVII siecle.",78,98.4,False,title_direct,,Murano,,,
+BO0624_5444,65946,4,4,"LAMPE a trois becs, en verre sur pied. Vieux Murano. XVII siecle.",78,98.4,False,title_direct,,Murano,,,Sec. XVII
 BO0624_5444,65947,5,5,LAMPE en cuivre jaune a huit fammes suspendue a une legere,82,98.3,False,positional,,Murano,,,
-BO0624_5444,65948,6,6,"MAPPEMoNDE par Coronelli,monte sur quatre pieIs. Venise,1699.",84,98.3,False,title_direct,,Venise,,,
+BO0624_5444,65948,6,6,"MAPPEMoNDE par Coronelli,monte sur quatre pieIs. Venise,1699.",84,98.3,False,title_direct,,Venise,,,Sec. XVII
 BO0624_5444,65949,7,7,BoirE a couvercle decoree a ornements dores et feurs sur fond,88,98.4,False,positional,,Murano,OGGETTI VARI,,
 BO0624_5444,65950,8,8,BoiTE rectangulaire en vieux lacque avec dorures.,93,98.0,False,positional,,Murano,SCATOLE,,
 BO0624_5444,65951,9,9,"AIGLE, faucon, chat-huant et deux autres volatiles empailles.",94,98.3,False,positional,,Murano,,,
-BO0624_5444,65952,10,I,o. CisTRE avec caisse arrondie et decoree de filets d'ebene. XVIII siecle.,95,99.3,False,positional,,Murano,,,
+BO0624_5444,65952,10,I,o. CisTRE avec caisse arrondie et decoree de filets d'ebene. XVIII siecle.,95,99.3,False,positional,,Murano,,,Sec. XVIII
 BO0624_5444,65953,11,II,LuTH avec incrustation en nacre.,96,95.4,False,positional,,Murano,,,
-BO0624_5444,65954,12,12,GRANDE couPE sur piedouche et son plat en verre de Murano. XVIe siecle.,98,97.9,False,title_direct,,Murano,PIATTI,,
+BO0624_5444,65954,12,12,GRANDE couPE sur piedouche et son plat en verre de Murano. XVIe siecle.,98,97.9,False,title_direct,,Murano,PIATTI,,Sec. XVI
 BO0624_5444,65955,13,13,GoURDE en cuir.XVII siecle.,104,94.5,False,positional,,Murano,,,
-BO0624_5444,65956,14,14,TRoIS BRAS appliques en bronze. XVII siecle.,115,96.6,False,positional,,Murano,LAMPADE,,
-BO0624_5444,65957,15,15,"PIsTOLET allemand. Marque de Uhirich Tellman (1676), a double canon tournant.(Tres interessante piece pour le developpement de l'art des armes). XVII siecle.",116,99.0,False,positional,,Murano,,,
+BO0624_5444,65956,14,14,TRoIS BRAS appliques en bronze. XVII siecle.,115,96.6,False,positional,,Murano,LAMPADE,,Sec. XVII
+BO0624_5444,65957,15,15,"PIsTOLET allemand. Marque de Uhirich Tellman (1676), a double canon tournant.(Tres interessante piece pour le developpement de l'art des armes). XVII siecle.",116,99.0,False,positional,,Murano,,,Sec. XVII
 BO0624_5444,65958,16,16,"PETIT GIBERNE a couvercle en cuivre dore avec ornementations en relief, des etendards et feuillages sur les cotes et une cartouche a emblemes guerriers sur le devant. XVIll siecle.",117,99.2,False,positional,,Murano,,,
 BO0624_5444,65959,17,17,"PoT a biere en bronze argente, avec decoration en relief repré- sentant une Bacchanale. Signe Ceccarini.",121,74.4,False,positional,,Murano,,,
 BO0624_5444,65960,18,18,PAIRE DE PISTOLETS avec crosse entierement recouverte d'orne- mentations en marqueterie d'ivoire. Commencement du XVIHI siecle.,124,67.7,False,positional,,Murano,,,
-BO0624_5444,65961,19,19,"YATAGAN turc, a poigne en ivoire ornée en bronze doré, lame damasquinee en or. XVII siecle.",125,98.3,False,positional,,Murano,,,
+BO0624_5444,65961,19,19,"YATAGAN turc, a poigne en ivoire ornée en bronze doré, lame damasquinee en or. XVII siecle.",125,98.3,False,positional,,Murano,,,Sec. XVII
 BO0624_5444,65962,20,6,"2o. HAcHE d'arme pistolet. Marque dans lhache PP.,manche en bois avec incrustations d'ivoire.(Probablement de la fabrique",126,99.2,False,positional,,Murano,OGGETTI IN LEGNO,,
-BO0624_5444,65963,21,7,"de Pietro Paolo Pasino,milanais). Fin du XVII siecle.",127,98.0,False,positional,,Murano,,,
-BO0624_5444,65964,22,21,"GRANDE EPEE (spadona), lame de Toledo avec inscription en ita-lien:Chi troppo studia perde la memoria,avec monture a cage avec coquilles. Commencement du XVII siecle.",128,83.7,False,positional,,Murano,,,
-BO0624_5444,65965,23,22,PETITE ARQUEBUSE a rouet avec clef ciselee (pistone). XVII siecle.,133,97.6,False,positional,,Boia-Brescia,,,
+BO0624_5444,65963,21,7,"de Pietro Paolo Pasino,milanais). Fin du XVII siecle.",127,98.0,False,positional,,Murano,,,Sec. XVII
+BO0624_5444,65964,22,21,"GRANDE EPEE (spadona), lame de Toledo avec inscription en ita-lien:Chi troppo studia perde la memoria,avec monture a cage avec coquilles. Commencement du XVII siecle.",128,83.7,False,positional,,Murano,,,Sec. XVII
+BO0624_5444,65965,23,22,PETITE ARQUEBUSE a rouet avec clef ciselee (pistone). XVII siecle.,133,97.6,False,positional,,Boia-Brescia,,,Sec. XVII
 BO0624_5444,65966,24,23,"MAGNIFIQUE ARQUEBUSE a rouet; canon raye avec incrustations. en ivoire de sujets de chasse, paysages, fieurs et autres emblemes. XVIl siecle.",134,94.3,False,positional,,Boia-Brescia,,,
 BO0624_5444,65967,25,24,"CosTuME d'enfant, en satin rose, ornemente de galons d'argent. Epoque Charles Ier.",139,98.1,False,positional,,,Tapisseries,,
 BO0624_5444,65968,26,2,o couleurs et or.,140,94.1,False,positional,,,Tapisseries,,
@@ -38,40 +38,40 @@ BO0624_5444,65978,36,36,"CoussIN recouvert avec un petit tapis en velours de Smy
 BO0624_5444,65979,37,37,ANCIEN GRAND TAPIS oriental a trois cartouches au milieu; char- gees d'ornements polychromes sur fond rouge et bleu avec bordure a exagones ornes a differentes couleurs.,176,77.2,False,positional,,,OGGETTI VARI,,
 BO0624_5444,65980,38,38,"VAsE de pharmacie avec anse et goulot, decore a feurs et feuillages bleu clair sur fond blanc, une cartouche portant des armoiries et au dessus une banderole avec l'inscription: Syr. de. cicoria semp.XVIll siecle.",184,92.6,False,positional,,Faenza,VASI,,
 BO0624_5444,65981,39,39,"PETITE JARDINIERE blanche, a treillis, avec son plateau.",196,97.2,False,positional,,Wedgwood,,,
-BO0624_5444,65982,40,40,"PAiRE de cornets (Alberello) decores a grandes feuillages et feurs, vertes, jaunes et blanches sur fond bleu. XVII siecle.",200,98.7,False,positional,,Casteldurante,,,
+BO0624_5444,65982,40,40,"PAiRE de cornets (Alberello) decores a grandes feuillages et feurs, vertes, jaunes et blanches sur fond bleu. XVII siecle.",200,98.7,False,positional,,Casteldurante,,,Sec. XVII
 BO0624_5444,65983,41,41,"VAsE de pharmacie a goulot et anse, decore a imbrications bleu, sur fond blanc; inscription sur la banderole.",206,98.6,False,positional,,Faenza,VASI,,
 BO0624_5444,65984,42,42,"DEUX BOMBONNIERES en faience, avec deux anses et couvercle decorees a feurs et feuillages polychrome. XVll siecle.",216,66.7,False,positional,,Delfinat,,,
 BO0624_5444,65985,43,43,LAMPE sur un fut a deux anses et pied circulaire decore jaune et bleu sur fond blanc; petite coupe a deux anses avec la Madone de Loreto au fond. XVIl siecle.,221,85.5,False,positional,,Faenza,,,
 BO0624_5444,65986,44,44,"GRAND VAsE de forme evase, avec deux mascarons en relief, décore d'une scene mythologique. Socle en bois marron, sculptures dorees. XVIle siecle.",241,98.9,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_5444,65987,45,45,GRAND VAsE en majolique de forme ovoide decore a bouquets de feurs sur fond blanc. Monte pour electricite.,244,98.6,False,positional,,Francaise,VASI,,
 BO0624_5444,65988,46,46,"GRAND PLAT, decore au centre par des figures de cavaliers et le bord orne de rinceaux groupes en rosaces bleues sur fond",248,98.8,False,positional,,Faenza,OGGETTI VARI,,
-BO0624_5444,65989,47,47,"PAIRE de vases de pharmacie avec anse et goulot tres fins, de- cores chacun des medaillons jaunes, renfermant des bustes,le reste decore a feuillages et feurs polychromes sur fond bleu. Fin du XVIe siecle.",257,82.1,False,positional,,Casteldurante,VASI,,
-BO0624_5444,65990,48,48,"BAs RELIEF polychrome representant la Sainte Vierge et l'En- fant tournes a gauche vers Saint Jean, deux tetes de Cherubin et au milieu le Saint Esprit en haut dans les nuages. XVI siecle.",264,80.6,False,positional,,Faenza,BASSORILIEVI,,
+BO0624_5444,65989,47,47,"PAIRE de vases de pharmacie avec anse et goulot tres fins, de- cores chacun des medaillons jaunes, renfermant des bustes,le reste decore a feuillages et feurs polychromes sur fond bleu. Fin du XVIe siecle.",257,82.1,False,positional,,Casteldurante,VASI,,Sec. XVI
+BO0624_5444,65990,48,48,"BAs RELIEF polychrome representant la Sainte Vierge et l'En- fant tournes a gauche vers Saint Jean, deux tetes de Cherubin et au milieu le Saint Esprit en haut dans les nuages. XVI siecle.",264,80.6,False,positional,,Faenza,BASSORILIEVI,,Sec. XVI
 BO0624_5444,65991,49,49,BuSTE EN TERRE CUITE. Le Christ. Art forentin.,265,96.6,False,positional,,Faenza,,,
 BO0624_5444,65992,50,5,"o. BAs RELIEF en stuc polychrome representant la Sainte Vierge a mi-corps assise,tournee a droite avec l'Enfant Jesus assis sur ses genoux. Frise dans le socle a rinceaux dores.",271,99.7,False,positional,,Faenza,BASSORILIEVI,,
 BO0624_5444,65993,51,51,"UNE DIvINIrE payenne, signe Canova. Cadre ancien en cuivre jaune a feuillages repoussees. (Timbre de collection).",277,98.6,False,positional,,,Tableaux; Estampes,,
-BO0624_5444,65994,52,52,SAINTE CATHERINE de Sienne. Frau Vannus Seneus iuv. Phil. Thomais Gallus Sculps. XVII siecle. Fin du XVe siecle.,281,89.3,False,positional,,,Tableaux; Estampes,,
-BO0624_5444,65995,53,53,LA PESTE DE FLORENCE par T. Sabatelli Cadre en bois blanc. XIX siecle.,285,97.8,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,65996,54,54,LA FOIRE de 1'Impruneta. Dessinee et gravee par I. Callot. 1620. Cadre en bois noir.,289,84.5,False,title_direct,Callot,,OGGETTI IN LEGNO,,
-BO0624_5444,65997,55,55,"DEs CAVALIERS armes combattant en vue d'une villeforte. (Sans noms du graveur et sans marges). Cadre en bois noir, XVII siecle.",292,67.4,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,65994,52,52,SAINTE CATHERINE de Sienne. Frau Vannus Seneus iuv. Phil. Thomais Gallus Sculps. XVII siecle. Fin du XVe siecle.,281,89.3,False,positional,,,Tableaux; Estampes,,Sec. XVII
+BO0624_5444,65995,53,53,LA PESTE DE FLORENCE par T. Sabatelli Cadre en bois blanc. XIX siecle.,285,97.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_5444,65996,54,54,LA FOIRE de 1'Impruneta. Dessinee et gravee par I. Callot. 1620. Cadre en bois noir.,289,84.5,False,title_direct,Callot,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_5444,65997,55,55,"DEs CAVALIERS armes combattant en vue d'une villeforte. (Sans noms du graveur et sans marges). Cadre en bois noir, XVII siecle.",292,67.4,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_5444,65998,56,56,"SuZANNE et les vieillards. Exquisse, bois oval. Cadre en bois sculpte et dore.",296,98.0,False,positional,,Ecole Venitien,OGGETTI IN LEGNO,,
-BO0624_5444,65999,57,57,PAYsAGE. Exquisse a la Sepia. Signe 1554. Papier. Cadre bois pate de'riz dore.,300,98.0,False,positional,Marko C.,,OGGETTI IN LEGNO,,
+BO0624_5444,65999,57,57,PAYsAGE. Exquisse a la Sepia. Signe 1554. Papier. Cadre bois pate de'riz dore.,300,98.0,False,positional,Marko C.,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66000,58,58,UN GARcoN qui joue de la viole en regardant la musique par terre. Toile. Cadre en bois avec dorure.,306,73.9,False,positional,Giovanni da San Giovanni,,OGGETTI IN LEGNO,,
-BO0624_5444,66001,59,59,LA CRUCIFIxIoN coloriee. Cadre ancien en bois sculpte et doré. Commencement du XVI siecle.,311,98.3,False,positional,Giovanni da San Giovanni,,OGGETTI IN LEGNO,,
-BO0624_5444,66002,60,6,"o. PoRTRAIT équestre de Francois de Moncada, peint par Van Dyck, grave par Raphael Morghen. 1793. Marge. Cadre bois.",315,99.5,False,positional,Giovanni da San Giovanni,,OGGETTI IN LEGNO,,
+BO0624_5444,66001,59,59,LA CRUCIFIxIoN coloriee. Cadre ancien en bois sculpte et doré. Commencement du XVI siecle.,311,98.3,False,positional,Giovanni da San Giovanni,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5444,66002,60,6,"o. PoRTRAIT équestre de Francois de Moncada, peint par Van Dyck, grave par Raphael Morghen. 1793. Marge. Cadre bois.",315,99.5,False,positional,Giovanni da San Giovanni,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_5444,66003,61,61,"LA REINE EsTHER, exquissc a la sanguigne. Cadre ancien en bois dore.",323,97.7,False,positional,,Ecole de Bologne,OGGETTI IN LEGNO,,
-BO0624_5444,66004,62,62,LoT de douze estampes de differents graveurs. XVII et XVIII siecle.,324,97.7,False,title_direct,,,estampes,,
+BO0624_5444,66004,62,62,LoT de douze estampes de differents graveurs. XVII et XVIII siecle.,324,97.7,False,title_direct,,,estampes,,Sec. XVIII
 BO0624_5444,66005,63,63,"PoRTRAIT de jeune dame tournee a gauche, a mi-corps, assise; grand chapeau et cheveux tombant sur les épaules. Almeria. Peint par J. Opij. Grave par J. R. Smits. Marges. Cadre bois dore.",325,99.1,False,positional,,Ecole de Bologne,OGGETTI IN LEGNO,,
 BO0624_5444,66006,64,64,"PoRTRAIT dhomme, vu de face a mi-buste, grande collerette",330,97.3,False,positional,,Ecole Espagnole,,,
 BO0624_5444,66007,65,65,"LA FUITE EN EGYPTE. Bois. Cadre ancien en bois sculpte et dore. La Sainte Vierge sur un cheval blanc, s'apprete a partir recevant l'enfant Jesus des mains d'une femme. Saint Joseph la precede, plusieurs animaux autour et le Pere Eternel apparait",338,99.4,False,positional,Bassano dit Franc. da Ponte,,OGGETTI IN LEGNO,,
 BO0624_5444,66008,66,66,"L'ADoRATIoN des mages, a gauche pres d'une chaumiere la Sainte Vierge assise, tenant l'Enfant Jesus sur ses genoux, Saint Joseph a cote. Un des Rois a genoux, les deux autres dans des attitudes reverentes. A droite la suite des Rois,a pied et a cheval. Fond de paysage. Toile. Cadre doré.",348,91.7,False,positional,Florigerio Sebast.,,,,
 BO0624_5444,66009,67,67,MoRTIER en marbre sculpte a godrons.,355,95.9,False,positional,,,Sculptures,,
 BO0624_5444,66010,68,68,"BusTE en marbre de jeune garcon, d’apres l'antique.",356,97.0,False,positional,,,Sculptures,,
-BO0624_5444,66011,69,69,GRouPE sculpte en bois. La Vierge et l'Enfant. Art de Pise. XIVe siecle.,360,97.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66011,69,69,GRouPE sculpte en bois. La Vierge et l'Enfant. Art de Pise. XIVe siecle.,360,97.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XIV
 BO0624_5444,66012,70,7,o. BusTE en marbre de Lord Byron. Socle en granit rouge portant,364,99.2,False,positional,,,Sculptures,,
 BO0624_5444,66013,71,71,BusTE en marbre representant Washington sur socle en granit rouge avec une inscription.,366,98.3,False,positional,,,Sculptures,,
-BO0624_5444,66014,72,72,"BENITIER en pierre d'Istrie de forme rectangulaire,porte par un pied rectangulaire et socle carre, decore a oiseaux et rinceaux sculptes. Art Venitien. XV siecle.",371,74.8,False,positional,,,Sculptures,,
-BO0624_5444,66015,73,73,"LioN couche tete légerement tournee a droite, sculpte en marbre. Ancien support de colonne de portail d'Eglise. Fin XIVe siecle.",372,98.8,False,positional,,,Sculptures,,
+BO0624_5444,66014,72,72,"BENITIER en pierre d'Istrie de forme rectangulaire,porte par un pied rectangulaire et socle carre, decore a oiseaux et rinceaux sculptes. Art Venitien. XV siecle.",371,74.8,False,positional,,,Sculptures,,Sec. XV
+BO0624_5444,66015,73,73,"LioN couche tete légerement tournee a droite, sculpte en marbre. Ancien support de colonne de portail d'Eglise. Fin XIVe siecle.",372,98.8,False,positional,,,Sculptures,,Sec. XIV
 BO0624_5444,66016,74,74,Trois panneaux en bois sculptes representant trois miracles d’un saint.,376,93.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66017,75,75,"TeTE en profl au fusain sur papier. Etude pour le tableau, 1'Annonciation. Cadre en bois.",387,98.3,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_5444,66018,76,76,EruDE. Tete de vieillard. Dessin au fusain sur toile. Cadre en bois doré.,388,90.1,False,positional,Gelli,,OGGETTI IN LEGNO,,
@@ -85,44 +85,44 @@ BO0624_5444,66025,83,83,ODALISQuE assise sous une moucharabie. Toile. Cadre eu b
 BO0624_5444,66026,84,84,BANc a dossier en bois de noyer avec marqueterie et mascarons,430,97.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66027,85,85,"MEUBLE cabinet a tiroirs, en bois noir, orne de tres fines marqueteries en ivoire, reposant sur une table support secretaire, portee par quatre pieds en gaine. XVlle siecle.",435,99.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66028,86,86,"GRANDE pendule en bois avec ornements sculptes et dores, carillon et deux figures Dame et Cavalier en costume Louis XV. au dessus du cadran, qui dansent a chaque mouvement de la sonnerie.",439,99.2,False,title_direct,Brillon,Periodo di Luigi XV,OGGETTI IN LEGNO,,
-BO0624_5444,66029,87,87,"PAIRE de torcheres en bois, a colonne, avec legeres sculptures a feuilles dorees. XVII siecle.",440,80.0,False,title_direct,,,OGGETTI IN LEGNO,,
-BO0624_5444,66030,88,88,"Deux appliques a deux bras chacune. Glaces avec cadres dores, sculptes a volutes, feuillages et deux tetes d'anges. XVII siecle.",445,98.8,False,positional,,,LAMPADE,,
-BO0624_5444,66031,89,89,CADRE rectangulaire en bois et ornement d'une frise a imbrications en pastiglia. Art Florentin. Commencement du XVI siecle.,448,98.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66029,87,87,"PAIRE de torcheres en bois, a colonne, avec legeres sculptures a feuilles dorees. XVII siecle.",440,80.0,False,title_direct,,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_5444,66030,88,88,"Deux appliques a deux bras chacune. Glaces avec cadres dores, sculptes a volutes, feuillages et deux tetes d'anges. XVII siecle.",445,98.8,False,positional,,,LAMPADE,,Sec. XVII
+BO0624_5444,66031,89,89,CADRE rectangulaire en bois et ornement d'une frise a imbrications en pastiglia. Art Florentin. Commencement du XVI siecle.,448,98.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66032,90,91,"HoRLoGE, dans sa caisse en bois de forme architecturale; quatre",453,97.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66033,91,92,"CoFFRE en bois de noyer, devant sculpte a volutes et rinceaux.",455,97.6,False,positional,,,BAULI,,
-BO0624_5444,66034,92,93,"CoFFRET en bois de noyer a compartiments, porte par quatre pattes de lion. Art florentin. XVI siecle.",460,72.6,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66034,92,93,"CoFFRET en bois de noyer a compartiments, porte par quatre pattes de lion. Art florentin. XVI siecle.",460,72.6,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66035,93,94,CHAIsE a porteur en bois et cuir noir avec dorures; doublée a l'interieur en damas vert avec son coussin;les bandes pour la porter en cuir. XVIl siecle. 1.65.,465,99.0,False,positional,,,ARREDAMENTI,,
-BO0624_5444,66036,94,95,CHANDELIEk en bois sculpte et dore a base triangulaire formee par trois syrenes adossees. Feuillages rinceaux et tetes d'anges. Art Florentin. Fin du XVI siecle.,466,87.7,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66036,94,95,CHANDELIEk en bois sculpte et dore a base triangulaire formee par trois syrenes adossees. Feuillages rinceaux et tetes d'anges. Art Florentin. Fin du XVI siecle.,466,87.7,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66037,95,96,"PeTIT pupitre en bois a quatre pieds, sculpte et doré. XVIle siecle.",471,97.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66038,96,97,PeTIT coffret rectangulaire en bois et a tres fine marqueterie en ivoire bois clair et nacre.,475,98.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66039,97,98,"CADRE en bois sculpte et dore, a rinceaux, monte sur pied. XVIl siecle.",479,88.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66040,98,99,"TABoURET en bois, marqueterie de nacre, a dix pieds. Art oriental.",481,97.6,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66041,99,I,"oo. CaissE en bois pour pendule dont le cadran porte une peinture representant le temps et la mort qui lui amene une nouvelle victime, dont la tombe est preparee;vue de paysage dans le fond. Art famand. XVII siecle. 0.57.",485,99.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66041,99,I,"oo. CaissE en bois pour pendule dont le cadran porte une peinture representant le temps et la mort qui lui amene une nouvelle victime, dont la tombe est preparee;vue de paysage dans le fond. Art famand. XVII siecle. 0.57.",485,99.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_5444,66042,100,I,"oI. CouPE en noix de cocotier,incrustee d'ivoire.",492,98.9,False,positional,,,Mardi 10 Mai,,
 BO0624_5444,66043,101,102,"PoMMEAu de Canne. Une main en bronze, tenant un petit globe",493,96.6,False,positional,,,Mardi 10 Mai,,
 BO0624_5444,66044,102,I03,"LoT DE TROIS PETITs CADRES, dont deux en pate dure brune et un en terre cuite.",495,97.4,False,positional,,,Mardi 10 Mai,,
 BO0624_5444,66045,103,I,"o4. MARMITE en cuivre, avec deux anses et Chaufferette en cuivre,",496,99.2,False,positional,,,Mardi 10 Mai,,
-BO0624_5444,66046,104,1,"o5. SEAu a eau en cuivre,avec manche en fer et ornements; branches de feuillages dans le bord et godrons dans la panse. XVI siecle.",503,99.6,False,positional,,,OGGETTI VARI,,
+BO0624_5444,66046,104,1,"o5. SEAu a eau en cuivre,avec manche en fer et ornements; branches de feuillages dans le bord et godrons dans la panse. XVI siecle.",503,99.6,False,positional,,,OGGETTI VARI,,Sec. XVI
 BO0624_5444,66047,105,1,"o6. GRAND RAsSIN ovale en cuivre et sur pied, avec imbrications",507,99.2,False,positional,,,Mardi 10 Mai,,
 BO0624_5444,66048,106,I,"o7. GRAND VAsE en scagliola,a bord évase,posant sur pied circulaire, orne par une grande branche de feurs tout autour, oiseaux, feurs et rinceaux polychromes; deux grandes car touches ovales,avec deux figures, une femme et un guerrier, le tout sur fond noir. Travail forentin.XIX siecle.",512,99.8,False,positional,,,VASI,,
 BO0624_5444,66049,107,108,"DEUX PETITEs STATUETTES en bronze, representants des Divinites. Art Indo-Chinois.",517,97.5,False,positional,,,Mardi 10 Mai,,
-BO0624_5444,66050,108,2,"Io9. CANoN de Falconnet, ageminee et ciselée en or. XVIe siecle.",518,98.4,False,positional,,,Mardi 10 Mai,,
+BO0624_5444,66050,108,2,"Io9. CANoN de Falconnet, ageminee et ciselée en or. XVIe siecle.",518,98.4,False,positional,,,Mardi 10 Mai,,Sec. XVI
 BO0624_5444,66051,109,110,DEUX EPEES (spadini). XVIHIe siecle.,519,94.1,False,positional,,,Mardi 10 Mai,,
-BO0624_5444,66052,110,111,"PIsToLET d'arcon, avec marque A.I. XVIe siecle. PIsToLET d'arcon, canon marque Laszaro Cominazso detto Lagzarino de Gardone 1570.",524,78.0,False,positional,,Brescia,,,
+BO0624_5444,66052,110,111,"PIsToLET d'arcon, avec marque A.I. XVIe siecle. PIsToLET d'arcon, canon marque Laszaro Cominazso detto Lagzarino de Gardone 1570.",524,78.0,False,positional,,Brescia,,,Sec. XVI
 BO0624_5444,66053,111,112,"ANCIENNE ARMURE japonaise, en fer laque noir, casque en fer laque de noir, lance a la main.",525,77.0,False,positional,,Brescia,,,
 BO0624_5444,66054,112,113,"ARQUEBUsE oriental, canon cisele et crosse plaque en fer tres finement cisele.XVIl siecle.",527,97.8,False,positional,,Brescia,,,
-BO0624_5444,66055,113,6,"1I4.PAIRE DE CANDELABRES en bronze, a deux fambeaux, avec ornements,style Louis XV. XVII siecle.",528,98.9,False,positional,,Brescia,CANDELABRI,,
+BO0624_5444,66055,113,6,"1I4.PAIRE DE CANDELABRES en bronze, a deux fambeaux, avec ornements,style Louis XV. XVII siecle.",528,98.9,False,positional,,Brescia,CANDELABRI,,Sec. XVII
 BO0624_5444,66056,114,I15,DEUx GRANDs CACHEPOTS en cuivre repousse a grands godrons.,532,96.6,False,positional,,Brescia,,,
 BO0624_5444,66057,115,116,"DEUx CHENETs en bronze, sur pied en fer forge,ornes de tetes d'ange, feuillages et frises.",539,97.8,False,positional,,Brescia,,,
 BO0624_5444,66058,116,117,ARQuEBUsE a rouet; incrustations en ivoire a feuillages et ani maux.XVII siecle.,543,97.5,False,positional,,Brescia,,,
 BO0624_5444,66059,117,2,118.TAUREAU en bronze. Art forentin.XVI siecle.,544,97.8,False,positional,,Brescia,,,
 BO0624_5444,66060,118,119,"VAsQuE en bronze ciselée et doree, de forme oblongue, contournée a rinceaux a jour,portee par quatre amours qui tiennent des festons.",548,98.5,False,positional,,Brescia,,,
-BO0624_5444,66061,119,120,LoT de trois pieces de bordure en brocatelle tisse a figures rouge et jaune. Commencement XVI siecle.,553,73.6,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66062,120,121,LivREE pour valet de pied en drap bleu et avec galons; armoi ries d'un cardinal de la famille Orsini. XVIIIe siecle.,555,98.3,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66063,121,122,"LivREE pour valet de pied en drap rouge, avec galons armoi- riés. XVIIIe siecle.",556,83.2,False,positional,,,Tapisseries; Etoffes,,
+BO0624_5444,66061,119,120,LoT de trois pieces de bordure en brocatelle tisse a figures rouge et jaune. Commencement XVI siecle.,553,73.6,False,positional,,,Tapisseries; Etoffes,,Sec. XVI
+BO0624_5444,66062,120,121,LivREE pour valet de pied en drap bleu et avec galons; armoi ries d'un cardinal de la famille Orsini. XVIIIe siecle.,555,98.3,False,positional,,,Tapisseries; Etoffes,,Sec. XVIII
+BO0624_5444,66063,121,122,"LivREE pour valet de pied en drap rouge, avec galons armoi- riés. XVIIIe siecle.",556,83.2,False,positional,,,Tapisseries; Etoffes,,Sec. XVIII
 BO0624_5444,66064,122,123,"CosTuME de page Louis XIlI, en velours jaune brode en argent.",558,96.7,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66065,123,124,"PoRTiERE en satin broche rose et blanc a bandes feuillagees et branches de feurs, avec bordure. Premier Empire,",559,98.2,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66066,124,125,TAPIs de table en damas rouge a grandes feuillages et trois bandes et bordure a feuilles vertes sur fond soie écrue. XVIe siecle.,563,98.4,False,positional,,,Tapisseries; Etoffes,,
+BO0624_5444,66066,124,125,TAPIs de table en damas rouge a grandes feuillages et trois bandes et bordure a feuilles vertes sur fond soie écrue. XVIe siecle.,563,98.4,False,positional,,,Tapisseries; Etoffes,,Sec. XVI
 BO0624_5444,66067,125,126,"PoRTIERE en deux rideaux en satin rouge,avec bordure a feurs",567,96.8,False,positional,,,BIANCHERIA,,
 BO0624_5444,66068,126,127,"DEvANT d’autel en point de Hongrie,a plusieurs couleurs,a dessin dentele. XVIl siecle.",571,78.6,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66069,127,128,"ANcIEN TAPIs oriental de priere, a fond rouge, grand contour et bordure a dessin geometrique polychrome.",576,71.2,False,positional,,,Tapisseries; Etoffes,,
@@ -144,7 +144,7 @@ BO0624_5444,66084,142,142,"PETITE SOuPIERE avec couvercle et plateau en faience 
 BO0624_5444,66085,143,I43,"GRAND PLAT creux a cannelures et bord decoupe, orne d'un bouquet de feurs au centre; feurs et feuillages sur le bord en bleu sur fond blanc. XVIl siecle.",647,98.7,False,positional,,Faenza,PIATTI,,
 BO0624_5444,66086,144,144,VAsE a panse et goulot étroit decore a feurs et feuillages bleues,651,97.0,False,positional,,Faenza,VASI,,
 BO0624_5444,66087,145,145,DEUx PLAQuEs de carrelage a feurs polychromes sur fond blanc.,656,96.8,False,positional,,Faenza,,,
-BO0624_5444,66088,146,146,STATUETTE en porcelaine representant l'Hiver. XVIII siecle.,667,96.6,False,title_direct,,,porcelaines,,
+BO0624_5444,66088,146,146,STATUETTE en porcelaine representant l'Hiver. XVIII siecle.,667,96.6,False,title_direct,,,porcelaines,,Sec. XVIII
 BO0624_5444,66089,147,147,"Deux vAsEs retrecis au goulot avec des animaux dores eu relief, decores a figures, feurs et feuillages.",676,74.7,False,positional,,Chine,VASI,,
 BO0624_5444,66090,148,148,"Deux vAsEs de pharmacie a goulot et anse, decores a feurs et",681,96.7,False,positional,,Faenza,VASI,,
 BO0624_5444,66091,149,I49,"GRAND VAsE a panse, decore de deux medaillons, avec bustes",689,96.6,False,positional,,Casteldurante,VASI,,
@@ -173,9 +173,9 @@ BO0624_5444,66113,171,17,"o. STATUETTE en bois sculpte,representant la Sainte Vi
 BO0624_5444,66114,172,171,STATUETTE d'homme en jade. Ancien art indo-chinois.,846,96.1,False,positional,,,Sculptures,,
 BO0624_5444,66115,173,172,"PETIT AIGLE avec un serpent dans le bec et serre par la griffe gauche, sculptee en marbre blanc, socle en marbre Porta Santa.",850,98.4,False,positional,,,Sculptures,,
 BO0624_5444,66116,174,173,"BAcCHANALE d’enfants, panneau rectangulaire en bois sculpte a haut relief.",856,88.2,False,positional,Cavacchioli,,OGGETTI IN LEGNO,,
-BO0624_5444,66117,175,174,BusTE en bois polychrome representant la Sainte Vierge. Socle. Art forentin. Fin du XV siecle.,861,77.9,False,positional,Cavacchioli,,OGGETTI IN LEGNO,,
+BO0624_5444,66117,175,174,BusTE en bois polychrome representant la Sainte Vierge. Socle. Art forentin. Fin du XV siecle.,861,77.9,False,positional,Cavacchioli,,OGGETTI IN LEGNO,,Sec. XV
 BO0624_5444,66118,176,175,"BusTE en marbre representant un homme barbu chauve, avec",868,96.5,False,positional,Cavacchioli,,,,
-BO0624_5444,66119,177,2,"fourrure ouverte sur la poitrine,la tete tournee legerement a gauche. XVI siecle.",869,98.8,False,positional,Cavacchioli,,,,
+BO0624_5444,66119,177,2,"fourrure ouverte sur la poitrine,la tete tournee legerement a gauche. XVI siecle.",869,98.8,False,positional,Cavacchioli,,,,Sec. XVI
 BO0624_5444,66120,178,177,TeTE de jeune femme avec chapeau. Dessin au fusain sur papier. Cadre en bois.,880,97.4,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
 BO0624_5444,66121,179,178,PAYsAGE:un coin de foret le long d'un feuve.,884,95.6,False,positional,Gelli E.,,,,
 BO0624_5444,66122,180,179,SATyRE jaloux. Esquisse sur carton. Cadre ancien en bois sculpte,888,96.9,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
@@ -187,18 +187,18 @@ BO0624_5444,66127,185,183,"BAcCHANALE, avec effet de coucher de soleil (peinture
 BO0624_5444,66128,186,184,LE PIFFERARO (peinture sur toile) avec cadre ancien en bois sculpte et dore.,910,97.3,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
 BO0624_5444,66129,187,185,CHAIsE a X (Savonarola) en bois de noyer. Art forentin.,921,96.2,False,title_direct,,Savona,OGGETTI IN LEGNO,,
 BO0624_5444,66130,188,186,CHAIsE a X (Savonarola) en bois de noyer. Art forentin.,925,96.2,False,title_direct,,Savona,OGGETTI IN LEGNO,,
-BO0624_5444,66131,189,187,"CoFFRE de mariage en bois de noyer, avec piliers aux coins et frise a godrons en relief en bas. XVI siecle.",930,98.1,False,positional,,,BAULI,,
+BO0624_5444,66131,189,187,"CoFFRE de mariage en bois de noyer, avec piliers aux coins et frise a godrons en relief en bas. XVI siecle.",930,98.1,False,positional,,,BAULI,,Sec. XVI
 BO0624_5444,66132,190,188,"TABoURET rectangulaire sur quatre pieds, recouvert d'etoffe a point hongrois a tulipes sur fond blanc. XVll siecle.",934,98.2,False,positional,,,Meubles,,
 BO0624_5444,66133,191,189,"GRANDE ARMOIRE.Vitrine en bois sculpte, a deux pilastres a",935,96.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66134,192,3,"candelabres, sur un socle orne d'une grande cartouche sculptee.",936,98.4,False,positional,,,CANDELABRI,,
 BO0624_5444,66135,193,I9,o. CaBINET en ebene a onze tiroirs avec marqueterie en ivoire et,940,98.4,False,positional,,,Meubles,,
 BO0624_5444,66136,194,I91,"FAUTEUIL en bois de noyer, a colonnes torses, siege et dossier a treillage. XVIl siecle.",945,97.7,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66137,195,I92,CoMMoDE a quatre tiroirs ornes a marqueterie en bois clair; poignees en bronze. XVII siecle.,951,97.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66137,195,I92,CoMMoDE a quatre tiroirs ornes a marqueterie en bois clair; poignees en bronze. XVII siecle.,951,97.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_5444,66138,196,193,GRAND MEUBLE. Vitrine en bois de noyer sculpte a rinceaux et,955,96.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66139,197,2,feuillages; deux tiroirs en bas.,956,96.8,False,positional,,,Meubles,,
 BO0624_5444,66140,198,I94,DEUx CHAIsEs a dossier droit en bois peinte en rouge; coquilles,960,96.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66141,199,195,PETITE TABLE rectangulaire en bois de noyer avec les pieds a,962,96.8,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66142,200,196,"GRAND TABoURET en bois de noyer, posant sur quatre pieds relies par des traverses, recouvert d'une ancienne broderie a point de Hongrie. XVIe siecle.",966,98.6,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66142,200,196,"GRAND TABoURET en bois de noyer, posant sur quatre pieds relies par des traverses, recouvert d'une ancienne broderie a point de Hongrie. XVIe siecle.",966,98.6,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66143,201,197,"PAIRE DE SUPPORTS en bois de noyer, sculptes a rinceaux et volutes. XVIl siecle.",970,97.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66144,202,198,FAUTEUIL en bois recouvert en cuir jaune clair.,974,95.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66145,203,2,I99. DEUX PARAVENTS en canne d'Inde.,975,97.1,False,positional,,,ARREDAMENTI,,
@@ -207,58 +207,58 @@ BO0624_5444,66147,205,2,"o1. LoT de cinq bois sculptes; deux petites colonnes, d
 BO0624_5444,66148,206,2,"o2. CADRE. Tabernacle en bois sculpte et doré, sur pied triangulaire.",990,99.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66149,207,203,CoLONNE en marbre vert fonce.,992,93.3,False,positional,,,Mercredi 11 Mai,,
 BO0624_5444,66150,208,204,"DEUx cOLoNNEs. Torses en bois de noyer, avec socles sculptés.",998,96.7,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66151,209,2,XVI siecle.,999,90.9,False,positional,,Scuola d'Anversa,Mercredi 11 Mai,,
+BO0624_5444,66151,209,2,XVI siecle.,999,90.9,False,positional,,Scuola d'Anversa,Mercredi 11 Mai,,Sec. XVI
 BO0624_5444,66152,210,3,2o5. MANDoLINE. Bord en marqueterie de nacre. Signe Giovanni Bat-,1000,98.4,False,positional,,,Mercredi 11 Mai,,
 BO0624_5444,66153,211,4,"tista Fabbricatore fece Napoli I79o,S.M.dell Aiuto.",1001,98.0,False,positional,,,Mercredi 11 Mai,,
 BO0624_5444,66154,212,206,ANcIENNE GUITARE ornee au bord avec marqueterie en nacre et le manche incruste en ivoire et ecaille. Signee Giuseppe Gab-,1002,98.3,False,positional,,,Mercredi 11 Mai,,
 BO0624_5444,66155,213,6,207.LUTH.Signe Gabriel Davit Buchtetter Lauden und Geigen Macher u Stadt an Hoffnebst Rogenspurg anno I746 (avec son étui original).,1003,99.2,False,positional,METSU GABRIEL,,Mercredi 11 Mai,,
-BO0624_5444,66156,214,208,"HoRLoGE orizontale de forme exagonale, en cuivre cisele et dore: la sonnerie placee en dessous. Le cadran porte le nom Facob Mayr Augspurg. XVI siecle.",1004,89.3,False,positional,,,Mercredi 11 Mai,,
+BO0624_5444,66156,214,208,"HoRLoGE orizontale de forme exagonale, en cuivre cisele et dore: la sonnerie placee en dessous. Le cadran porte le nom Facob Mayr Augspurg. XVI siecle.",1004,89.3,False,positional,,,Mercredi 11 Mai,,Sec. XVI
 BO0624_5444,66157,215,209,"PoRTE LAMPE en bronze avec ornements a jour, portée par trois",1008,96.8,False,positional,,,OGGETTI VARI,,
 BO0624_5444,66158,216,2,pieds a rinceaux. (Montee pour lumiere electrique).,1009,97.9,False,positional,,,Mercredi 11 Mai,,
 BO0624_5444,66159,217,21,"o. BoiTE rectangulaire en bois, avec un couvercle glissant a gaine, orne d'une ornementation a leger relief a feuillages et feurs sur le couvercle. Sur l'une des faces un paon entre des feurs et feuillages et sur l'autre face des feurs et feuillages et les",1013,99.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66160,218,211,"CoLONNE-SUPPORT torse en bois de noyer, avec socle triangu- laire avec dorure.",1018,83.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66161,219,212,MEDAILLE en bronze. Demi buste en profil a droite avec legende autour: Foannes Bottarius; au revers: une femme drapee qui s'appuie a une colonne qui se brise a moitie par la foudre; des animaux; un navire en plein mer. Legende: In hoc ego. Art florentin.XVIl siecle.,1023,99.2,False,positional,,,Mercredi 11 Mai,,
 BO0624_5444,66162,220,213,"ANcIEN SABRE persan, avec manche en ivoire et gaine en cuir repousse.",1029,89.9,False,positional,,,Mercredi 11 Mai,,
-BO0624_5444,66163,221,214,"CoRBIN a poudre en bois, avec ornementations gravees. (Bien complet). XVII siecle.",1031,97.4,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66164,222,215,"BEAU PISTOLET (pistoletto) d'arcon. XVII siecle. PIsTOLET,marque Francesco Bianco. XVII siecle.",1036,66.7,False,positional,,Brescia,,,
+BO0624_5444,66163,221,214,"CoRBIN a poudre en bois, avec ornementations gravees. (Bien complet). XVII siecle.",1031,97.4,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_5444,66164,222,215,"BEAU PISTOLET (pistoletto) d'arcon. XVII siecle. PIsTOLET,marque Francesco Bianco. XVII siecle.",1036,66.7,False,positional,,Brescia,,,Sec. XVII
 BO0624_5444,66165,223,216,"ANCIENNE ARMURE japonaise, longue tunique en tresse de fer et plaques laquees, casque a oreillons et gantelets a plaques de fer dore.",1037,93.7,False,title_direct,Brillon,,,,
-BO0624_5444,66166,224,217,"ARQUEBusE oriental, avec crosse, plaque en fer cisele. XVII siecle.",1039,96.9,False,positional,,Brescia,,,
+BO0624_5444,66166,224,217,"ARQUEBusE oriental, avec crosse, plaque en fer cisele. XVII siecle.",1039,96.9,False,positional,,Brescia,,,Sec. XVII
 BO0624_5444,66167,225,218,"ARQuEBusE a rouet,avec incrustation en ivoire; deux lions, cartouches et feurs. XVll siecle.",1042,97.8,False,positional,,Brescia,,,
 BO0624_5444,66168,226,219,"CroIx en bronze, decoree sur les deux faces d'ornementations de style oriental;le contour de la croix garni d'ornements en relief. Le Crucifix est en bronze, en haut de la croix le Pere Eternel,a gauche la Sainte Vierge,a droite Saint Jean Baptiste, en bas Sainte Marie Madeleine. Art italien.",1043,91.4,False,positional,,Brescia,BASSORILIEVI,,
 BO0624_5444,66169,227,220,"STATUETTE en bronze. Jeune garcon nu jusqu'a mi-corps, rete- nant par la main gauche un drap autour des jambes.",1050,67.9,False,positional,,Brescia,,,
 BO0624_5444,66170,228,221,ANCIEN VELOUR en soie rouge cramoisi a feurs et feuillages.,1057,96.7,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66171,229,222,"CosTuME de dame,en brocatelle bleu ciel,avec ornements, tissus jaune. XVI siecle.",1058,85.3,False,positional,,,OGGETTI VARI,,
+BO0624_5444,66171,229,222,"CosTuME de dame,en brocatelle bleu ciel,avec ornements, tissus jaune. XVI siecle.",1058,85.3,False,positional,,,OGGETTI VARI,,Sec. XVI
 BO0624_5444,66172,230,223,"DEUx PoRTIERES en damas rouge, avec pentes et lambrequins en bois sculpte et doré.XVIl siecle.",1060,73.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66173,231,224,"CouvERTuRE de lit en satin bleu ciel, avec garniture de galon blanc. XVIl siecle.",1065,84.5,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66174,232,225,"CosTuME de Rajah indien, tissu en or, double en etoffe a soleils.",1070,96.9,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66175,233,227,BRoDERIE en soie et or sur satin blanc. Deux pieces. Epoque XVII siecle.,1071,97.2,False,positional,,,Tapisseries; Etoffes,,
+BO0624_5444,66175,233,227,BRoDERIE en soie et or sur satin blanc. Deux pieces. Epoque XVII siecle.,1071,97.2,False,positional,,,Tapisseries; Etoffes,,Sec. XVII
 BO0624_5444,66176,234,228,"TapIs oriental, dessin a palmettes polychromes et trois bordures: la premiere blanche,la seconde rouge et la troisieme blanche, a dessins polychromes.",1072,98.6,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66177,235,229,"ANcIEN TAPIs d'Orient a dessein a palmes vertes, jaunes et blanches, sur fond bleu clair,bordure a dessein blanc sur fond brun.",1073,98.4,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66178,236,230,"GRAND TAPIS oriental avec grande rosace polychrome au centre sur fond rouge; dessins geometriques dans le reste du tapis, a plusleurs couleurs.",1076,98.6,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66179,237,231,"TAPIssERIE. Scipion recoit les officiers carthaginois. Bordure a cariatides, feurs, serpents et mascarons; en bas la legende: Divina Palladis arte picturam superavit acus. Marquee avec la sigle de Jacques Geubels et Jean Raes. Laine et soie. Bruxelles. XVIle siecle.",1080,96.6,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66180,238,232,"TAPIssERIE d'apres des cartons de Rubens. Guerrier a cheval partant pour la guerre, precede et suivi par ses soldats. Bordure a cariatides, mascarons, groupes de fruits, serpents. Dans une cartouche en bas la legende:Divina Palladis arte picturam superavit acus. Tissus de laine et soie. Marque B. B. Jaq. Geubels. Bruxelles. (Voir pour l'histoire de ces deux tapisse- ries: D'Astier, La belle tapisserie du Roi. Paris, Champion,1907. XVII siecle.",1087,90.1,False,positional,RUBENS PETER PAUL,Scuola di Rubens,OGGETTI VARI,,
+BO0624_5444,66180,238,232,"TAPIssERIE d'apres des cartons de Rubens. Guerrier a cheval partant pour la guerre, precede et suivi par ses soldats. Bordure a cariatides, mascarons, groupes de fruits, serpents. Dans une cartouche en bas la legende:Divina Palladis arte picturam superavit acus. Tissus de laine et soie. Marque B. B. Jaq. Geubels. Bruxelles. (Voir pour l'histoire de ces deux tapisse- ries: D'Astier, La belle tapisserie du Roi. Paris, Champion,1907. XVII siecle.",1087,90.1,False,positional,RUBENS PETER PAUL,Scuola di Rubens,OGGETTI VARI,,Sec. XVII
 BO0624_5444,66181,239,233,"PATERE a omphale creux et bords releves. Au centre trois figures et une chevre, cercle orne d'une grecque; au revers quatre figures et palmettes jaunes sur fond brun. Poterie archaique.",1096,98.9,False,positional,,,Faiences; Porcelaines,,
 BO0624_5444,66182,240,234,"LoT de dix pieces de ceramique etrusque, provenant des fouilles, de differentes formes.",1097,97.7,False,positional,,,Faiences; Porcelaines,,
 BO0624_5444,66183,241,235,"LoT de dix pieces de ceramique etrusque, de formes differentes; provenant des fouilles.",1098,81.9,False,positional,,,Faiences; Porcelaines,,
 BO0624_5444,66184,242,236,"VAsE de forme evasee a deux anses, decore a bouquets de feurs et feuillages.XVIl siecle.",1103,80.0,False,positional,,Pesaro,VASI,,
 BO0624_5444,66185,243,237,"SouPIERE ovale avec couvercle, portee par quatre pieds decoree a feurs et feuillages polychromes. (Fele). XVIl siecle.",1111,98.2,False,positional,,Pesaro,,,
-BO0624_5444,66186,244,238,"GRAND VAsE a panse, decore a grands feuillages, jaunes, blanches et vertes sur fond bleu. Fin du XVI siecle.",1115,98.1,False,positional,,Casteldurante,VASI,,
-BO0624_5444,66187,245,239,"CoRNET (alberello) retreci au centre, decore a feuillages et feurs sur fond bleu; dans la banderole ia legende: Trifera. Persica. XVI siecle.",1121,98.5,False,positional,,Faenza,,,
+BO0624_5444,66186,244,238,"GRAND VAsE a panse, decore a grands feuillages, jaunes, blanches et vertes sur fond bleu. Fin du XVI siecle.",1115,98.1,False,positional,,Casteldurante,VASI,,Sec. XVI
+BO0624_5444,66187,245,239,"CoRNET (alberello) retreci au centre, decore a feuillages et feurs sur fond bleu; dans la banderole ia legende: Trifera. Persica. XVI siecle.",1121,98.5,False,positional,,Faenza,,,Sec. XVI
 BO0624_5444,66188,246,240,"GRouPE de trois enfants nus, adosses a trois dauphins se reunissant pour former une base. (Moderne).",1139,97.9,False,positional,,Faenza,,,
 BO0624_5444,66189,247,241,"PAIRE DE VAsEs de pharmacie a goulot et anse avec une cartouche portant des armoiries entre les initiales G. P. et linscription: Aq. D. Grama dans l'un,et Aq. Nivia dans l'autre; rinceaux bleus sur fond blane.",1143,99.0,False,positional,,Faenza,VASI,,
-BO0624_5444,66190,248,242,"GRAND VAsE évase avec couvercle, sur pied carre, orne de frises dorees en relief. Le vase est decore d'un sujet maritime; dans la partie inferieure du vase quatre petits panneaux, vues de paysages encadres dans des ornements dores se reliani a quatre mascarons dores en relief. Signe Bar Terchi, 1726.",1153,99.3,False,positional,,Montelupo,OGGETTI VARI,,
-BO0624_5444,66191,249,243,"GRAND CORNET (alberello) decore d’une cartouche ovale, rcnfer- mant un buste de guerrier en profil; grandes feuillages jaunes et vertes sur fond bleu. Fin du XVI siecle.",1158,77.9,False,positional,,Casteldurante,,,
-BO0624_5444,66192,250,244,"PAIRE DE GRANDs VAsES de forme spherique, decores chacun de deux bustes dans une guirlande de feuillages et emblemes de guerre, sur fond bleu. Fin du XVI siecle.",1162,98.7,False,positional,,Casteldurante,VASI,,
+BO0624_5444,66190,248,242,"GRAND VAsE évase avec couvercle, sur pied carre, orne de frises dorees en relief. Le vase est decore d'un sujet maritime; dans la partie inferieure du vase quatre petits panneaux, vues de paysages encadres dans des ornements dores se reliani a quatre mascarons dores en relief. Signe Bar Terchi, 1726.",1153,99.3,False,positional,,Montelupo,OGGETTI VARI,,Sec. XVIII
+BO0624_5444,66191,249,243,"GRAND CORNET (alberello) decore d’une cartouche ovale, rcnfer- mant un buste de guerrier en profil; grandes feuillages jaunes et vertes sur fond bleu. Fin du XVI siecle.",1158,77.9,False,positional,,Casteldurante,,,Sec. XVI
+BO0624_5444,66192,250,244,"PAIRE DE GRANDs VAsES de forme spherique, decores chacun de deux bustes dans une guirlande de feuillages et emblemes de guerre, sur fond bleu. Fin du XVI siecle.",1162,98.7,False,positional,,Casteldurante,VASI,,Sec. XVI
 BO0624_5444,66193,251,245,QuATRE GRANDs BUsTES en terre cuite representants les Quatre Saisons.XVIIe siecle.,1166,97.6,False,positional,,Ecole de Bernini,,,
-BO0624_5444,66194,252,246,BAs-RELIEF en terre-cuite.Le Christ mort gisant étendu. Attribue a Jean Bologne. XVI siecle.,1174,73.5,False,positional,,Ecole de Bernini,BASSORILIEVI,,
-BO0624_5444,66195,253,247,"MEDAILLON circulaire en terre-cuite. La Sainte Vierge a mi-corps, vue de face, tenant dans le bras droit l'Enfaut Jesus debout avec un petit oiseau dans la main droite. Deux tetes d'anges dans le fond. Cadre en bos noir. Art forentin. XV siecle.",1181,99.2,False,positional,,Ecole de Bernini,,,
+BO0624_5444,66194,252,246,BAs-RELIEF en terre-cuite.Le Christ mort gisant étendu. Attribue a Jean Bologne. XVI siecle.,1174,73.5,False,positional,,Ecole de Bernini,BASSORILIEVI,,Sec. XVI
+BO0624_5444,66195,253,247,"MEDAILLON circulaire en terre-cuite. La Sainte Vierge a mi-corps, vue de face, tenant dans le bras droit l'Enfaut Jesus debout avec un petit oiseau dans la main droite. Deux tetes d'anges dans le fond. Cadre en bos noir. Art forentin. XV siecle.",1181,99.2,False,positional,,Ecole de Bernini,,,Sec. XV
 BO0624_5444,66196,254,249,"LoT de 31 estampes, portraits de differentes époques.",1198,96.2,False,title_direct,,,estampes,,
 BO0624_5444,66197,255,250,"UN HOMME CAsQuE, un drapeau a la main, avec un lion couche a ses pieds.",1202,97.1,False,positional,Andr.Valerio,,,,
 BO0624_5444,66198,256,251,"LA CENE, estampe d'apres le tableau de Bassano.",1213,95.7,False,title_direct,BASSANO GIACOMO,,estampes,,
 BO0624_5444,66199,257,252,"LE CHEVALIER,LA MORT ET LE DIABLE.",1217,94.3,False,positional,Durer A.,,,,
 BO0624_5444,66200,258,253,"LA SAINTE CENE, d'apres Titien. Epreuve avant la lettre. Marges. Estampe avec cadre en bois.",1221,97.8,False,title_direct,TIZIANO VECELLIO,,Estampes,,
 BO0624_5444,66201,259,254,MEDAILLoN ovale avec le buste d'une femme decoiletee une lyre a la main. Cipriani inu. Cadre ancien en bois a dorures.,1225,67.8,False,positional,Bartolozzi,,OGGETTI IN LEGNO,,
-BO0624_5444,66202,260,255,"TABERNACLE a deux vantaux: La Sainte Vierge assise sur un trone, avec l'Enfant Jesus et Saint Pierre dans l'interieur de l'un, des vantaux et Saint Francois dans l'autre. Fond d'or. XIVe siecle.",1238,82.2,False,positional,,Ecole Florentine,ARREDAMENTI,,
+BO0624_5444,66202,260,255,"TABERNACLE a deux vantaux: La Sainte Vierge assise sur un trone, avec l'Enfant Jesus et Saint Pierre dans l'interieur de l'un, des vantaux et Saint Francois dans l'autre. Fond d'or. XIVe siecle.",1238,82.2,False,positional,,Ecole Florentine,ARREDAMENTI,,Sec. XIV
 BO0624_5444,66203,261,256,LA CENE D'EMAUs. Toile. Cadre ancien en bois avec dorures. Haut. o.65——Larg. 0.51.,1244,82.1,False,positional,,Ecole Venitienne,OGGETTI IN LEGNO,,
 BO0624_5444,66204,262,257,PoRTRAIT D'UN ARCHIDUC d'Autriche. Toile. Cadre en bois noir a moulures.,1251,97.2,False,positional,Taffony,,OGGETTI IN LEGNO,,
 BO0624_5444,66205,263,258,UN SINGE qui renverse un panier de fruits et un chien qui regarde la scene (peinture sur cuivre). Cadre en bois noir.,1257,98.3,False,positional,Aelst (van) Will.,,OGGETTI IN LEGNO,,
@@ -267,13 +267,13 @@ BO0624_5444,66207,265,26,"o. PoRTRAIT D'HOMME a mi-buste, poudré, costume en ve
 BO0624_5444,66208,266,261,GRoUPE sculpte en bois:la Vierge assise et l'Enfant debout sur ses genoux. Art primitif italien. XIlI siecle.,1273,72.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66209,267,262,"STATuETTE en bois dorée et polychrome, representant un chasseur qui amene un cerf. Socle circulaire dore. Art venitien.",1278,98.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66210,268,263,"HiBoU en bois sculpte, par Frullini.",1283,94.4,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66211,269,264,"PETITE STATUE en bois, representant un moine barbu, dans l'ancien costume franciscain. Art italien. Commencement du XVI siecle. La main gauche manque. Haut.0.45.",1284,98.7,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66212,270,265,FRISE DE CHEMINEE en pierre sculptee;un écusson au centre; des rinceaux de feuillages et feurs aux deux cotes. Art forentin. Fin du XVe siecle.,1285,98.6,False,positional,,,Sculptures,,
-BO0624_5444,66213,271,266,CHEMINEE en ardoise tres finement sculptee. Art genois. Com- mencement du XVI siecle.,1289,80.3,False,positional,,,Sculptures,,
+BO0624_5444,66211,269,264,"PETITE STATUE en bois, representant un moine barbu, dans l'ancien costume franciscain. Art italien. Commencement du XVI siecle. La main gauche manque. Haut.0.45.",1284,98.7,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5444,66212,270,265,FRISE DE CHEMINEE en pierre sculptee;un écusson au centre; des rinceaux de feuillages et feurs aux deux cotes. Art forentin. Fin du XVe siecle.,1285,98.6,False,positional,,,Sculptures,,Sec. XV
+BO0624_5444,66213,271,266,CHEMINEE en ardoise tres finement sculptee. Art genois. Com- mencement du XVI siecle.,1289,80.3,False,positional,,,Sculptures,,Sec. XVI
 BO0624_5444,66214,272,267,FLoRA. Demie-figure sculptee en marbre. Sur un socle forme par une guirlande de fleurs.,1294,77.8,False,positional,Fedi,,,,
 BO0624_5444,66215,273,268,"PETIT BAs-RELIEF representant Putiphar, sculpte en marbre jaune ancien, avec cadre en noir ancien. Epoque Premier Empire.",1301,98.3,False,positional,Fedi,,BASSORILIEVI,,
 BO0624_5444,66216,274,2,Haut. 0.175 —Larg. .0.20.,1302,95.2,False,positional,Fedi,,,,
-BO0624_5444,66217,275,3,269.CRUcIFIx en bois sculpte. Art italien. Fin du XV siecle.,1303,98.3,False,positional,Fedi,,OGGETTI IN LEGNO,,
+BO0624_5444,66217,275,3,269.CRUcIFIx en bois sculpte. Art italien. Fin du XV siecle.,1303,98.3,False,positional,Fedi,,OGGETTI IN LEGNO,,Sec. XV
 BO0624_5444,66218,276,27,"o. L'AMouR AILE, avec la pharetre et l'arc dans la main gauche.",1307,98.4,False,positional,Fedi,,,,
 BO0624_5444,66219,277,271,TETE DE JEUNE PAYSANNE. Dessin au fusain sur papier. Cadre en bois. Haut. 0.54 —Larg. 0.37.,1319,97.7,False,positional,Gelli,,OGGETTI IN LEGNO,,
 BO0624_5444,66220,278,272,"FIGURE D'HOMME en priere, étude pour le tableau 《Le transport du Christ &gt;. Dessin au fusain sur carton. Cadre ancien en bois vert-clair et or. Haut. o.55——Larg. 0.28.",1320,98.8,False,title_direct,,,OGGETTI IN LEGNO,,
@@ -289,23 +289,23 @@ BO0624_5444,66229,287,2,sculpte et dore.,1352,93.8,False,positional,Gelli E.,,,,
 BO0624_5444,66230,288,278,TETE DE VIEUX PAYsAN vu de face. Dessin au fusain sur papier. Cadre en bois.,1356,97.3,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
 BO0624_5444,66231,289,279,VIEUx PAysAN avec grande barbe. Dessin au fusain sur papier. Cadre en bois.,1360,97.3,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
 BO0624_5444,66232,290,282,"DEMI-FIGURE de jeune fille vue de face, decolletee. Toile ovale. Cadre dore.",1366,97.3,False,positional,Gelli E.,,,,
-BO0624_5444,66233,291,283,"GRANDE PENDULE du temps de Louis XV, en marqueterie de Boulle, garnie de quatre cariatides a figures et ornements en bronze cisele et dore. La plaque qui decore la partie inferieure represente un groupea allegorique: l'Aurore. La pendule se termine a la partie superieure par une statuette d'une femme casquee portant un bouclier; elle est portee par quatre chevaux en bronze dore et cisele. Socle en marqueterie et bronze. Art francais. XVII siecle. Haut.1.05.",1371,99.6,False,positional,,Periodo di Luigi XV,OGGETTI VARI,,
+BO0624_5444,66233,291,283,"GRANDE PENDULE du temps de Louis XV, en marqueterie de Boulle, garnie de quatre cariatides a figures et ornements en bronze cisele et dore. La plaque qui decore la partie inferieure represente un groupea allegorique: l'Aurore. La pendule se termine a la partie superieure par une statuette d'une femme casquee portant un bouclier; elle est portee par quatre chevaux en bronze dore et cisele. Socle en marqueterie et bronze. Art francais. XVII siecle. Haut.1.05.",1371,99.6,False,positional,,Periodo di Luigi XV,OGGETTI VARI,,Sec. XVII
 BO0624_5444,66234,292,284,"AMEUBLEMENT de salon, compose d'un canape et huit chaises en bois blanc et or, dans le dossier groupe de trois plumes avec nceud de ruban,recouvert en damas rouge a feuillage. Epoque Premier Empire.",1373,82.9,False,positional,,,ARREDAMENTI,,
 BO0624_5444,66235,293,285,CoNsoLE en bois blanc et dorures avec feuillages dans la ceinture sculptees et dorees; cartouche au centre avec une tete cannelures dorees. XVIlle siecle.,1374,98.7,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66236,294,286,"CABINET a tiroirs en ebene avec vantau s'abattant; marqueterie tres fine en ivoire; coins et poignees en bronze ciseles, petits mascarons a chaque tiroir. Art venitien. XVI siecle.",1378,82.1,False,positional,,,Meubles,,
+BO0624_5444,66236,294,286,"CABINET a tiroirs en ebene avec vantau s'abattant; marqueterie tres fine en ivoire; coins et poignees en bronze ciseles, petits mascarons a chaque tiroir. Art venitien. XVI siecle.",1378,82.1,False,positional,,,Meubles,,Sec. XVI
 BO0624_5444,66237,295,287,"QuATRE CHAIsEs droites en bois de noyer, recouvertes en ve lours bleu deux, en velours jaune la troisieme et en velours frappe-rouge la quatrieme.",1386,74.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66238,296,288,"PAIRE DE BANcs d'antichambre a dossier droit, en bois sculpte.",1387,96.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66239,297,289,"PAIRE DE sUPPoRTS appliques en bois de noyer sculpte, formes par deux dragons ailes. Anciens. Haut.o.60.",1391,98.0,False,positional,,,LAMPADE,,
 BO0624_5444,66240,298,2,"29o. GLAcE rectangulaire dans un cadre en bois sculpte; fronton portant un medaillon avec tete d'homme en profil,et deux paniers de feurs aux cotes, sculptes et dores. XVIl siecle.",1392,99.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66241,299,291,"GLAcE rectangulaire dans un cadre en bois sculpte et dore, avec un aigle en haut, portee par une étagere a deux rayons en bois a feuillages sculptees et dorees. XVIll siecle.",1395,98.8,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66242,300,292,CoNsOLE avec plan en marbre blanc; ceinture sculptee a feuilles verticales dorees sur fond blanc et quatre pieds avec dorures. XVIII siecle.,1400,70.4,False,positional,,,Meubles,,
+BO0624_5444,66242,300,292,CoNsOLE avec plan en marbre blanc; ceinture sculptee a feuilles verticales dorees sur fond blanc et quatre pieds avec dorures. XVIII siecle.,1400,70.4,False,positional,,,Meubles,,Sec. XVIII
 BO0624_5444,66243,301,293,GRAND FAUTEUIL droit en bois de noyer avec dorures.,1404,96.2,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66244,302,2,XVI siecle.,1405,90.9,False,positional,,Scuola d'Anversa,Meubles,,
+BO0624_5444,66244,302,2,XVI siecle.,1405,90.9,False,positional,,Scuola d'Anversa,Meubles,,Sec. XVI
 BO0624_5444,66245,303,3,294.CHAISE en bois de noyer a X.,1406,96.9,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66246,304,295,DEUx TABLEs d'appui demi-circulaire sur trois pieds en bois de noyer. XVI siecle.,1412,97.5,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66246,304,295,DEUx TABLEs d'appui demi-circulaire sur trois pieds en bois de noyer. XVI siecle.,1412,97.5,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66247,305,296,"PAIRE DE CHAISEs droites en bois de noyer,recouvertes en cuir.",1416,96.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66248,306,297,PETIT CABINET en bois et a trois tiroirs; marqueterie de feurs,1420,96.8,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66249,307,298,"PETIT cOFFRET en bois a couvercle circulaire, orne de tres fine marqueterie, a medaillons figures. Art venitien. XVI siecle.",1425,98.3,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66249,307,298,"PETIT cOFFRET en bois a couvercle circulaire, orne de tres fine marqueterie, a medaillons figures. Art venitien. XVI siecle.",1425,98.3,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66250,308,299,BANc d'antichambre appuye sur quatre pieds relies par quatre traverses croisees; dorures sur fond vert-clair.,1429,98.2,False,positional,,,Meubles,,
 BO0624_5444,66251,309,2,"3oo. PARAvENT en bois a cinq compartiments, avec des figures chinoises et feurs peints sur papier.",1430,99.0,False,positional,,,ARREDAMENTI,,
 BO0624_5444,66252,310,301,KEMANGEH. Instrument musical d'Orient. RAVANASTRON de l'Inde. Instrument musical.,1438,68.9,False,positional,,,Jeudi 12 Mai,,
@@ -320,33 +320,33 @@ BO0624_5444,66260,318,306,GRAND VERRE a calice avec godrons en relief.,1458,95.6
 BO0624_5444,66261,319,309,AIGuleRE en verre bleu de forme ovoide a long goulot; anse posant sur un pied circulaire. XVIl siecle.,1461,98.0,False,positional,,Murano,,,
 BO0624_5444,66262,320,31,o. PLAT avec rosace a godrons en repousse entouree par une ins-,1465,98.4,False,positional,,Murano,PIATTI,,
 BO0624_5444,66263,321,311,SEPT FOURCHETTEs et quatre couteaux a manche en cuivre et lame en fer forme contournee. XVIl siecle.,1471,98.0,False,positional,,Murano,,,
-BO0624_5444,66264,322,312,"ReLIQuAIRE octogone en ebene sur pied orne de bronzes ciseles et dores, tetes de cherubin et feuillages. Art forentin. XVI siecle.",1472,98.4,False,positional,,Murano,,,
+BO0624_5444,66264,322,312,"ReLIQuAIRE octogone en ebene sur pied orne de bronzes ciseles et dores, tetes de cherubin et feuillages. Art forentin. XVI siecle.",1472,98.4,False,positional,,Murano,,,Sec. XVI
 BO0624_5444,66265,323,313,GuITARE en forme de lyre signee: H.Pons. fils. luthier Rue du,1476,96.7,False,positional,,Murano,,,
 BO0624_5444,66266,324,314,"CADRE en bois de noyer sculpte, avec ornementation a tresse.",1477,96.7,False,positional,,Murano,OGGETTI IN LEGNO,,
 BO0624_5444,66267,325,315,PAIRE DE PISTOLETS montes en cuivre; petite cartouche dans la crosse. XVIll siecle.,1483,97.6,False,positional,,Murano,,,
-BO0624_5444,66268,326,2,PAIRE DE PISTOLETS montes en cuivre. XVIII siecle.,1484,98.0,False,positional,,Murano,,,
+BO0624_5444,66268,326,2,PAIRE DE PISTOLETS montes en cuivre. XVIII siecle.,1484,98.0,False,positional,,Murano,,,Sec. XVIII
 BO0624_5444,66269,327,3,TRES PETIT PISToLET (Mazzagatti dit 《coup de poing 》.,1485,98.0,False,positional,,Murano,,,
 BO0624_5444,66270,328,4,XVIlI siecle.,1486,92.3,False,positional,,Murano,,,
-BO0624_5444,66271,329,316,"PAIRE D'EPERONs en fer a collet tres long. PAIRE D'EPERONS en fer, epoque Louis XIV. XVII siecle.",1488,71.2,False,positional,,Murano,,,
-BO0624_5444,66272,330,317,CABASSET ITALIEN en fer. XVI siecle. XVI siecle.,1489,81.9,False,positional,,Murano,,,
+BO0624_5444,66271,329,316,"PAIRE D'EPERONs en fer a collet tres long. PAIRE D'EPERONS en fer, epoque Louis XIV. XVII siecle.",1488,71.2,False,positional,,Murano,,,Sec. XVII
+BO0624_5444,66272,330,317,CABASSET ITALIEN en fer. XVI siecle. XVI siecle.,1489,81.9,False,positional,,Murano,,,Sec. XVI
 BO0624_5444,66273,331,318,NARGHILE en bronze cisele et ceramique bleu en forme ovoide.,1501,96.7,False,positional,,Murano,,,
 BO0624_5444,66274,332,319,"BRuLE-PARFUMS en bronze japonais avec paysages en relief et deux anses a tetes d'elephant, porte par un pied en bois cloi",1505,98.4,False,positional,,Murano,OGGETTI IN LEGNO,,
 BO0624_5444,66275,333,320,"PETIT BRuLE-PARFUMS, en bronze a bord évase avec figures humaines, et inscriptions, et ornementations ciselees. Art indo-",1509,98.3,False,positional,,Murano,,,
-BO0624_5444,66276,334,321,MEDAILLE en bronze: Corilla Olimpica. Signee: 1776.,1513,95.9,False,positional,,Murano,,,
+BO0624_5444,66276,334,321,MEDAILLE en bronze: Corilla Olimpica. Signee: 1776.,1513,95.9,False,positional,,Murano,,,Sec. XVIII
 BO0624_5444,66277,335,322,"BUSTE D'HOMME BARBU,en bronze.",1517,93.5,False,positional,Albano S.,,,,
 BO0624_5444,66278,336,323,PLAQuETTE en bronze dore. Le Christ nimbe benissant la Com- munion sous deux especes. Marquee du revers: E. L.,1521,69.1,False,positional,Albano S.,,,,
 BO0624_5444,66279,337,324,"BRuLE·PARFUMs, a panse et couvercle en bronze avec figures humaines, cavaliers, et animaux et rinceaux ciseles. Art indien.",1526,98.3,False,positional,Albano S.,,,,
 BO0624_5444,66280,338,325,"GRAND CACHE-POT en bronze, de forme cylindrique, porte sur trois pieds, decore par une suite d'écussons armoiries au lion. Aux deux cotes tetes de lion portant un anneau. Art hol",1527,98.9,False,positional,Albano S.,,,,
 BO0624_5444,66281,339,326,"ARQUEBUSE DE CHAssE, canon avec incrustations en argent et en nacre sur la crosse. XvIl siecle. landais.",1531,93.9,False,positional,Albano S.,,,,
 BO0624_5444,66282,340,327,"GRANDE CACHE-POT en bronze de forme cylindrique porte sur trois pieds, decore avec un écusson d'un cote, de l'autre une paysanne hollandaise et une cruche. Au deux cotees deux tetes de lion portant un anneau. Art hollandais.",1533,99.1,False,title_direct,,Hollandaise,,,
-BO0624_5444,66283,341,328,REMARQUABLE FUSIL DE CHAsSE. Le canon porte grave en or 1inscription:Salvador Zenarro en Madrid ano 1787.,1534,98.1,False,positional,Albano S.,,,,
+BO0624_5444,66283,341,328,REMARQUABLE FUSIL DE CHAsSE. Le canon porte grave en or 1inscription:Salvador Zenarro en Madrid ano 1787.,1534,98.1,False,positional,Albano S.,,,,Sec. XVIII
 BO0624_5444,66284,342,329,DEUx PISTOLETs d’arcons avec incrustations en cuivre jaune. XVIl siecle.,1535,87.9,False,positional,Albano S.,,,,
-BO0624_5444,66285,343,330,CHAsUBLE en brocart rose a dessin de feuillage blanc. XVII siecle.,1540,86.7,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66286,344,331,"CoussiN recouvert en satin rouge avec broderie de feurs en couleurs, feuillages en or rapportees. XVII siecle.",1542,98.2,False,positional,,,Tapisseries; Etoffes,,
+BO0624_5444,66285,343,330,CHAsUBLE en brocart rose a dessin de feuillage blanc. XVII siecle.,1540,86.7,False,positional,,,Tapisseries; Etoffes,,Sec. XVII
+BO0624_5444,66286,344,331,"CoussiN recouvert en satin rouge avec broderie de feurs en couleurs, feuillages en or rapportees. XVII siecle.",1542,98.2,False,positional,,,Tapisseries; Etoffes,,Sec. XVII
 BO0624_5444,66287,345,332,"PeTIT TAPIS en velours imprime a branchages de feurs et feuilles vertes, jaunes et rouges, fond blanc au milieu, un perroquet sur une grappe de raisin. XVll siecle.",1543,85.6,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66288,346,333,"GRAND CoRDoN de l'Ordre de Malte, pour costume de ceremonie des chevaliers Grand-Croix, soie noire et blanche avec les emblemes de la Passion.",1548,98.6,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66289,347,334,"GRAND coRDoN de l'Ordre de Malte, pour costume de ceremonie du Grand-Maitre, en soie noire et blanche avec emblemes et scenes de la Passion, brodees en couleurs. XVII siecle.",1549,98.8,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66290,348,335,TAPIS DE TABLE en soie verte avec bordure de damas a feuillages vertes sur fond jaune. XVIe siecle.,1550,98.0,False,positional,,,Tapisseries; Etoffes,,
+BO0624_5444,66289,347,334,"GRAND coRDoN de l'Ordre de Malte, pour costume de ceremonie du Grand-Maitre, en soie noire et blanche avec emblemes et scenes de la Passion, brodees en couleurs. XVII siecle.",1549,98.8,False,positional,,,Tapisseries; Etoffes,,Sec. XVII
+BO0624_5444,66290,348,335,TAPIS DE TABLE en soie verte avec bordure de damas a feuillages vertes sur fond jaune. XVIe siecle.,1550,98.0,False,positional,,,Tapisseries; Etoffes,,Sec. XVI
 BO0624_5444,66291,349,336,PETIT TAPIs a point hongrois a petit dessin polychrome. Haut.o.8o -Long.1.53,1554,97.4,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66292,350,337,"ANCIEN TAPIs de priere a fond vert au centre, ornements et",1555,96.6,False,positional,,,OGGETTI VARI,,
 BO0624_5444,66293,351,338,"TAPIS ORIENTAL a quatre grands dessins geometriques au centre, deux blancs et deux bleus a ornementations polychromes sur fond rouge et bordure a plusieurs couleurs.",1559,83.6,False,positional,,,Tapisseries; Etoffes,,
@@ -354,12 +354,12 @@ BO0624_5444,66294,352,339,"ANCIEN TAPIs ORIENTAL a fond rouge et dessin d'orneme
 BO0624_5444,66295,353,340,"PLAT a bord releve, decore a branches de feurs et feuillages bleu clair et bleu fonce sur fond blanc.",1573,98.0,False,positional,,,PIATTI,,
 BO0624_5444,66296,354,341,CoUPE ET soUs-coUPE decorees a quatre compartiments rouges et or avec rosace bleue et quatre compartiments blancs a feurs.,1582,68.1,False,positional,,Chine,,,
 BO0624_5444,66297,355,342,"SERVIcE A CAFE en porcelaine compose d'une cafetiere, sucrier et six tasses, decores a cocqs et palmiers rouges et or sur fond blanc. XVIlI siecle.",1586,98.6,False,title_direct,,,OGGETTI VARI,,
-BO0624_5444,66298,356,343,GouRDE decoree d'ornementations bleues et jaunes sur fond blanc. XVII siecle.,1590,83.8,False,positional,,Faenza,,,
+BO0624_5444,66298,356,343,GouRDE decoree d'ornementations bleues et jaunes sur fond blanc. XVII siecle.,1590,83.8,False,positional,,Faenza,,,Sec. XVII
 BO0624_5444,66299,357,344,"PAIRE DE GRANDES GOURDES a goulot fin, decorees sur chaque face par des poires l'une et des fleurs l'autre, fond blanc. XVIl siecle.",1607,71.0,False,positional,,Montelupo,,,
-BO0624_5444,66300,358,345,DEUx POTs A BIERE en faience a decor de feurs et feuillages avec couvercle en etain grave l'un et l'autre en faience de Rouen Signe: R. L. en bleu. XVIII siecle.,1611,98.7,False,positional,,Montelupo,OGGETTI IN PELTRO,,
+BO0624_5444,66300,358,345,DEUx POTs A BIERE en faience a decor de feurs et feuillages avec couvercle en etain grave l'un et l'autre en faience de Rouen Signe: R. L. en bleu. XVIII siecle.,1611,98.7,False,positional,,Montelupo,OGGETTI IN PELTRO,,Sec. XVIII
 BO0624_5444,66301,359,346,"QuATRE APPLIQuEs, avec deux bras porte-flambeaux de forme contournee, en couleurs sur fond blanc. XVIll siecle.",1615,67.1,False,positional,,Faenza,LAMPADE,,
-BO0624_5444,66302,360,347,", PLAT sur pied, bord dentele et a jour decore au centre d'un oiseau; le bord a feurs et feuillages jaunes et blanches sur fond blanc. Fin du XVI siecle.",1624,98.7,False,positional,,Arcevia,PIATTI,,
-BO0624_5444,66303,361,348,"PETIT PLAT creux decore d'une plante et trois feurs au centre et arabesques autour,rouges sur fond blanc. Commencement XVIe siecle.",1632,98.5,False,positional,,Siculo-Arabe,PIATTI,,
+BO0624_5444,66302,360,347,", PLAT sur pied, bord dentele et a jour decore au centre d'un oiseau; le bord a feurs et feuillages jaunes et blanches sur fond blanc. Fin du XVI siecle.",1624,98.7,False,positional,,Arcevia,PIATTI,,Sec. XVI
+BO0624_5444,66303,361,348,"PETIT PLAT creux decore d'une plante et trois feurs au centre et arabesques autour,rouges sur fond blanc. Commencement XVIe siecle.",1632,98.5,False,positional,,Siculo-Arabe,PIATTI,,Sec. XVI
 BO0624_5444,66304,362,349,"DEUx POTs a feurs en faience, des personnages japonais en cloisonne. Tres finement execute. Ancien Satzouma.",1635,98.1,False,title_direct,,Satzouma,,,
 BO0624_5444,66305,363,350,PAIRE DE GRANDs VASES en cloisonne. Vieux Chine.,1636,95.8,False,title_direct,,Chine,VASI,,
 BO0624_5444,66306,364,35,"1. VAsE de pharmacie, a goulot et anse, avec legende: D. is. Scor-",1642,97.5,False,positional,,Faenza,VASI,,
@@ -368,18 +368,18 @@ BO0624_5444,66308,366,353,"GrouPE en porcelaine blanche, representant l'offrande
 BO0624_5444,66309,367,354,"STATUETTE en porcelaine blanche,representant Mercure. XVIlIe siecle.",1668,97.1,False,title_direct,,,porcelaines,,
 BO0624_5444,66310,368,355,STATUETTE en porcelaine blanche: La Venus des Medicis. Fin du XVIlle siecle.,1672,97.3,False,title_direct,,,porcelaines,,
 BO0624_5444,66311,369,356,PETIT BAS-RELIEF en terre-cuite:La Sainte Vierge avec l'En-,1676,96.7,False,positional,,Ginori,BASSORILIEVI,,
-BO0624_5444,66312,370,357,"PETITE sTATUE en terre cuite: Amour couche, la tete appuyee sur la pharetre. Signee:G. Ber. F. XVII siecle.",1681,70.8,False,positional,,Ginori,,,
+BO0624_5444,66312,370,357,"PETITE sTATUE en terre cuite: Amour couche, la tete appuyee sur la pharetre. Signee:G. Ber. F. XVII siecle.",1681,70.8,False,positional,,Ginori,,,Sec. XVII
 BO0624_5444,66313,371,358,SEPT ESTAMPES d'ornementation. Cadre en bois.,1690,95.6,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66314,372,359,"A BACCHANT, d’apres le tableau de Mango, 1778. Marges.",1694,96.2,False,title_direct,,,Tableau,,
+BO0624_5444,66314,372,359,"A BACCHANT, d’apres le tableau de Mango, 1778. Marges.",1694,96.2,False,title_direct,,,Tableau,,Sec. XVIII
 BO0624_5444,66315,373,2,"36o. REsTEs D'ARMEE decampee, peint par Wouverman, grave par Beaumont. Estampe avec cadre en bois noir.",1695,99.0,False,title_direct,WOUWERMAN PHILIPS,,Estampes,,
 BO0624_5444,66316,374,3,"LES MARCHANDS DE CHEVAUx. P. Wouvermens pinx., J. Moyreau sculps. Estampe avec cadre en bois noir. XVllI siecle. Sans",1696,99.1,False,title_direct,,,Estampes,,
 BO0624_5444,66317,375,4,marges.,1697,85.7,False,positional,Bartolozzi F.,,,,
-BO0624_5444,66318,376,5,"361.LE GRAND MARCHE AUX CHEVAUX. Wouverman pinx.,J. Moyreau sculp. Signe 1735. Estampe avec cadre noir. Sans marges.",1698,99.1,False,title_direct,WOUWERMAN PHILIPS,,Estampes,,
-BO0624_5444,66319,377,362,"LA BATAILLE DU ROI TESSI et du roi Tinto, dans l'Arno l'année 1619, par F. Callot. Estampe avec cadre en bois.",1699,98.1,False,title_direct,Callot,,Estampes,,
+BO0624_5444,66318,376,5,"361.LE GRAND MARCHE AUX CHEVAUX. Wouverman pinx.,J. Moyreau sculp. Signe 1735. Estampe avec cadre noir. Sans marges.",1698,99.1,False,title_direct,WOUWERMAN PHILIPS,,Estampes,,Sec. XVIII
+BO0624_5444,66319,377,362,"LA BATAILLE DU ROI TESSI et du roi Tinto, dans l'Arno l'année 1619, par F. Callot. Estampe avec cadre en bois.",1699,98.1,False,title_direct,Callot,,Estampes,,Sec. XVII
 BO0624_5444,66320,378,363,LoT de 52 estampes et huit dessins d'architecture.,1707,96.1,False,title_direct,,,estampes,,
-BO0624_5444,66321,379,364,"NoMs, qualites, armes et blasons de MM. les Secretaires d'Etat, et noms,qualites,armes et blasons des Grands Secretaires et Connetables de France, par Chevillard. 1697.",1711,83.8,False,positional,Rousseau I.,,,,
+BO0624_5444,66321,379,364,"NoMs, qualites, armes et blasons de MM. les Secretaires d'Etat, et noms,qualites,armes et blasons des Grands Secretaires et Connetables de France, par Chevillard. 1697.",1711,83.8,False,positional,Rousseau I.,,,,Sec. XVII
 BO0624_5444,66322,380,365,"ETuDE: Homme a mi-corps, la tete penchee en avant.",1717,95.9,False,positional,,Ecole Venitienne,,,
-BO0624_5444,66323,381,366,LA PrTIE (peinture sur bois). Beau cadre dore. Fin du XVI siecle.,1723,96.8,False,positional,,Ecole de Bologne,OGGETTI IN LEGNO,,
+BO0624_5444,66323,381,366,LA PrTIE (peinture sur bois). Beau cadre dore. Fin du XVI siecle.,1723,96.8,False,positional,,Ecole de Bologne,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66324,382,367,"LEs ARMOIRIEs de la Famille Dell'Antella, croquis pour la deco- ration de la porte de la Maison Piazza Santa Croce a Florence. Bois. Tres beau cadre en bois noir. XVIl siecle.",1730,77.7,False,positional,Giovanni da San Giovanni,,OGGETTI IN LEGNO,,
 BO0624_5444,66325,383,368,"PETIT PORTRAIT de jeune homme de lepoque Louis XIll, sur cuivre. Cadre en bois doré.",1736,97.6,False,positional,,Ecole Italienne,OGGETTI IN LEGNO,,
 BO0624_5444,66326,384,369,"LE DEPART A CyTHERE. Deux guerriers engagent une femme drapee a monter dans un bateau,ou un guerrier et une femme l'attendent. Au dela du lac fond de montagnes (peinture sur toile). Cadre en bois dore. XVIl siecle.",1740,99.0,False,positional,,Ecole Venitienne,OGGETTI IN LEGNO,,
@@ -387,9 +387,9 @@ BO0624_5444,66327,385,37,"o.LA SAINTE VIERGE et l'Enfant Jesus, et une sainte. F
 BO0624_5444,66328,386,371,"DEUx EsQuIssEs a la sepia, pour deux tableaux qui se trouvent a l'Eglise des Servi a Lucques: La Presentation au Temple et La Sainte Vierge.",1756,98.6,False,title_direct,,,Tableaux,,
 BO0624_5444,66329,387,372,"LE TRIOMPHE DE THETIS, esquisse a la plume. Tete de lion esquisse a la sanguine, par Domenichino,avec deux timbres de collection: L. B.-F. S. C. Dessin avec cadre ancien en bois dore.",1757,98.9,False,positional,Rosselli Matth.,,OGGETTI IN LEGNO,COLLEZIONE DELL'ERMITAGE,
 BO0624_5444,66330,388,373,JEUNE FEMME poudrée un miroir a la main. Esquisse. Cadre ancien en bois avec ornements en pate de riz a relief.,1761,98.2,False,positional,,Ecole francaise,OGGETTI IN LEGNO,,
-BO0624_5444,66331,389,374,"ETuiE de nu, fresque sur une tuile. Cadre en bois dore. XVI siecle.",1765,96.9,False,positional,,Ecole Florentine,OGGETTI IN LEGNO,,
+BO0624_5444,66331,389,374,"ETuiE de nu, fresque sur une tuile. Cadre en bois dore. XVI siecle.",1765,96.9,False,positional,,Ecole Florentine,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66332,390,375,"PoRTRAIT du Pape Paul Ill, assis, tonrne a gauche, avec un cardinal qui lui presente une lettre. Toile. Beau cadre en bois sculpte et dore.",1769,98.5,False,positional,,Ecole Venitienne,OGGETTI IN LEGNO,,
-BO0624_5444,66333,391,376,"BAs-RELIEF en marbre representant Jesus-Christ dans le tombeau, debout a mi-corps, la tete couronnee d'epines legerement baissee et tournee a gauche. Fin du XVe siecle.",1773,85.7,False,positional,,,BASSORILIEVI,,
+BO0624_5444,66333,391,376,"BAs-RELIEF en marbre representant Jesus-Christ dans le tombeau, debout a mi-corps, la tete couronnee d'epines legerement baissee et tournee a gauche. Fin du XVe siecle.",1773,85.7,False,positional,,,BASSORILIEVI,,Sec. XV
 BO0624_5444,66334,392,377,"ScULPTuRE en bois. Fragment d’une porte sculptee a bas-relief, a la partie inferieure un ange agenouille et ornementation de lierre a rinceaux.XVe siecle.",1779,74.9,False,positional,,,BASSORILIEVI,,
 BO0624_5444,66335,393,378,ScULPTuRE en bois. Un enfant nu étendu jouant avec des cerises. Signe:L.Cavacchioli.,1780,97.6,False,title_direct,Cavacchioli,,OGGETTI IN LEGNO,,
 BO0624_5444,66336,394,379,"TRoIs STATUEs en bois dore, sur socle rectangulaire en bois noir; ornementations a rosaces et rinceaux sculptes en relief",1784,98.3,False,positional,,,OGGETTI IN LEGNO,,
@@ -397,24 +397,24 @@ BO0624_5444,66337,395,2,et dorés.XVIIe siecle.,1785,95.5,False,positional,,,Scu
 BO0624_5444,66338,396,38,"o. UNE ODALISQUE assise, les jambes croisees, vue de face. Toile. Beau cadre en bois sculpte et dore.",1794,99.0,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
 BO0624_5444,66339,397,381,"TETE DE VIEILLARD a grande barbe, vu de face. Toile. Cadre",1798,96.5,False,positional,Gelli E.,,,,
 BO0624_5444,66340,398,2,en bois sculpte et dore.,1799,95.8,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
-BO0624_5444,66341,399,385,"CoFFRE de mariage en bois de noyer a couvercle releve, a quatre compartiments, orne de marqueteries a dessin geometrique,a la certosina.Fin du XVe siecle.",1803,98.7,False,positional,,,BAULI,,
-BO0624_5444,66342,400,386,"DEUx cOLONNES en bois avec chapiteaux et pied circulaire, decorees de grotesques style raphaellesque. Art forentin. XVI siecle.",1809,98.4,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66341,399,385,"CoFFRE de mariage en bois de noyer a couvercle releve, a quatre compartiments, orne de marqueteries a dessin geometrique,a la certosina.Fin du XVe siecle.",1803,98.7,False,positional,,,BAULI,,Sec. XV
+BO0624_5444,66342,400,386,"DEUx cOLONNES en bois avec chapiteaux et pied circulaire, decorees de grotesques style raphaellesque. Art forentin. XVI siecle.",1809,98.4,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66343,401,382,"LE FAUNE JALOUx, sur carton. Cadre ancien en bois sculpté",1817,96.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66344,402,2,et dore.,1818,87.5,False,positional,,,Meubles,,
 BO0624_5444,66345,403,3,et dore.,1819,87.5,False,positional,,,Meubles,,
 BO0624_5444,66346,404,383,"JEUNE FEMME blonde decolletee, vue de face, une corbeille de feurs a la main. Esquisse. Cadre ancien oval en bois sculpte",1823,98.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66347,405,384,JEUNE FILLE en profil. Toile. Cadre dore.,1824,95.0,False,positional,,,Meubles,,
 BO0624_5444,66348,406,387,"PARAvENT a cinq compartiments, recouvert en soie. Style mo- resque.",1827,91.1,False,positional,,,ARREDAMENTI,,
-BO0624_5444,66349,407,388,CABINET en bois de noyer a tiroirs; ornements sculptes avec deux colonnes cannelees. XVI siecle.,1829,97.9,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66349,407,388,CABINET en bois de noyer a tiroirs; ornements sculptes avec deux colonnes cannelees. XVI siecle.,1829,97.9,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66350,408,389,"GRAND DREsSOIR en bois de noyer a deux vantaux a moulures, orne declous et poignees en bronze.",1833,74.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66351,409,390,"FAUTEUIL époque Louis XV, avec dorures, recouvert d'étoffe tres fine, genre Beauvais, a branches de feuillages et feurs sur fond blanc.",1838,94.1,False,title_direct,,Periodo di Luigi XV,SCOMPARTI,,
-BO0624_5444,66352,410,391,"FAUTEuIL en bois de noyer, recouvert en cuir estampe a dessin de feuillages. XVII siecle.",1843,97.7,False,title_direct,,,estampes,,
+BO0624_5444,66352,410,391,"FAUTEuIL en bois de noyer, recouvert en cuir estampe a dessin de feuillages. XVII siecle.",1843,97.7,False,title_direct,,,estampes,,Sec. XVII
 BO0624_5444,66353,411,392,"CoLoNNE en bois de noyer cannelee, avec base et chapiteau. Art florentin.XVIl siecle.",1847,82.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66354,412,393,"PAIRE DE CHAISEs a dossier droit, recouvertes en paille. XVIl siecle.",1852,87.1,False,positional,,,Meubles,,
 BO0624_5444,66355,413,394,"PARAvENT a quatre parties, recouvert en toile noire brodee a animaux et feuillages en argent. Travail chinois.",1854,69.4,False,positional,,,ARREDAMENTI,,
 BO0624_5444,66356,414,395,"DEUx coNsOLEs supports en bois et platre, avec dorures.",1859,96.4,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66357,415,396,"BaNc d'antichambre en bois de noyer, porte par six pieds a colonnes torses relies par des traverses. XVI siecle.",1860,98.2,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66358,416,397,"GRAND FAUTEUIL droit en bois de noyer, avec deux cartouches sculptees dans le dossier et une devant entre les pieds. XVI siecle.",1864,98.4,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66357,415,396,"BaNc d'antichambre en bois de noyer, porte par six pieds a colonnes torses relies par des traverses. XVI siecle.",1860,98.2,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5444,66358,416,397,"GRAND FAUTEUIL droit en bois de noyer, avec deux cartouches sculptees dans le dossier et une devant entre les pieds. XVI siecle.",1864,98.4,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66359,417,398,"PETITE TABLE rectangulaire en bois de noyer,porte par quatre pieds,relies par des traverses.",1869,97.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66360,418,399,"DEUx cOLoNNEs supports, tres fines, en bois de noyer; base circulaire, soutenue par trois pieds.",1873,73.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66361,419,400,DEUX PETITs COFFRETS en bois polychrome. Art venitien. XVrsiecle.,1878,88.1,False,positional,,,BAULI,,
@@ -422,10 +422,10 @@ BO0624_5444,66362,420,401,"LAMPE de table a pied de chandelier, en cuivre jaune.
 BO0624_5444,66363,421,402,"DevIDoIR sur pied triangulaire et trois quenouilles, dont deux",1890,96.8,False,positional,,,Vendredi 13 Mai,,
 BO0624_5444,66364,422,2,"orientales et une en buis, avec deux figures sculptees et coloriees.",1891,98.5,False,positional,,,Vendredi 13 Mai,,
 BO0624_5444,66365,423,3,TREs PETIT DEvIDOIR a main a mouvement centrifuge. XVIll siecle. Piece importante.,1892,98.8,False,positional,,,Vendredi 13 Mai,,
-BO0624_5444,66366,424,403,MoULE-PREssE en bois gravee a ramages et grandes tulipes. Commencement du XVI siecle.,1893,78.3,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66366,424,403,MoULE-PREssE en bois gravee a ramages et grandes tulipes. Commencement du XVI siecle.,1893,78.3,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66367,425,404,PETIT ROUET a socle.XVII siecle.,1895,93.9,False,positional,,,Vendredi 13 Mai,,
 BO0624_5444,66368,426,405,MANDORE a six cordes triples avec la table d'harmonie et le manche ornemente d'ivoire et de nacre.,1896,98.0,False,positional,,,Vendredi 13 Mai,,
-BO0624_5444,66369,427,406,PsALTERION en bois avec moulure doree. XVI siecle.,1897,96.0,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66369,427,406,PsALTERION en bois avec moulure doree. XVI siecle.,1897,96.0,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66370,428,407,"TROMPETTE en cuivre jaune, avec banderole en étoffe de soie bleue; ornementations dorees,les armoiries des Medicis et de la famille Passerini de Cortone. XVIlle siecle.",1899,77.9,False,title_direct,,,étoffes,,
 BO0624_5444,66371,429,408,PAIRE DE PEAUX de leopards.,1900,92.9,False,positional,,,Vendredi 13 Mai,,
 BO0624_5444,66372,430,409,"RouET a pedale en bois de noyer, complet de tous les accessoires. XVIHI siecle.",1901,97.4,False,positional,,,OGGETTI IN LEGNO,,
@@ -434,22 +434,22 @@ BO0624_5444,66374,432,3,"deux anges; le symbole de la foi, en ivoire sur la base
 BO0624_5444,66375,433,411,"PoT a biere en ivoire sculpte, monte en argent repousse et dore. Art allemand.",1904,83.8,False,positional,,,Vendredi 13 Mai,,
 BO0624_5444,66376,434,412,"TRoIS LAMPES portatives, en fer, une avec une medaille de Sainte Lucie et l'autre avec des chiens et cerfs gravés.",1909,98.2,False,positional,,,LAMPADE,,
 BO0624_5444,66377,435,413,"SERRURE quadrangulaire en fer,avec ornementations de feuil- lages, en relief, autour du trou de la clef. Art espagnol.",1913,66.3,False,positional,,,Vendredi 13 Mai,,
-BO0624_5444,66378,436,414,MoRs de cheval en fer dont les branches reliées par des anneaux se terminent par des plaques avec pointillages. XIVe siecle. MoRs de cheval en fer forge.XVI siecle.,1920,85.0,False,positional,,,Vendredi 13 Mai,,
+BO0624_5444,66378,436,414,MoRs de cheval en fer dont les branches reliées par des anneaux se terminent par des plaques avec pointillages. XIVe siecle. MoRs de cheval en fer forge.XVI siecle.,1920,85.0,False,positional,,,Vendredi 13 Mai,,Sec. XIV
 BO0624_5444,66379,437,415,"DAGUE (squarcina) manche en ivoire, lame avec marque qui rappelle les emblemes du fameux Missaglia,armurier milanais.",1922,98.3,False,positional,,,Vendredi 13 Mai,,
-BO0624_5444,66380,438,4,XVII siecle.,1923,91.7,False,positional,,Scuola Napoletana,Vendredi 13 Mai,,
-BO0624_5444,66381,439,5,"416.DEUX PETITs ETRIERS, un en fer et l'autre en bronze pour dame. XVI siecle.",1924,98.7,False,positional,,,Vendredi 13 Mai,,
+BO0624_5444,66380,438,4,XVII siecle.,1923,91.7,False,positional,,Scuola Napoletana,Vendredi 13 Mai,,Sec. XVII
+BO0624_5444,66381,439,5,"416.DEUX PETITs ETRIERS, un en fer et l'autre en bronze pour dame. XVI siecle.",1924,98.7,False,positional,,,Vendredi 13 Mai,,Sec. XVI
 BO0624_5444,66382,440,417,PLAQUETTE en bronze. Judith mettant la tete d'Olopherne dans le sac que lui tend sa servante.,1925,97.8,False,positional,,,Vendredi 13 Mai,,
-BO0624_5444,66383,441,418,"GRouPE en bronze. Deux nymphes mi-vetues, assises;un petit amour a cote qui caresse un cygne. Signe Raynaly 1858.",1929,98.2,False,positional,,,Vendredi 13 Mai,,
+BO0624_5444,66383,441,418,"GRouPE en bronze. Deux nymphes mi-vetues, assises;un petit amour a cote qui caresse un cygne. Signe Raynaly 1858.",1929,98.2,False,positional,,,Vendredi 13 Mai,,Sec. XIX
 BO0624_5444,66384,442,419,STATUETTE en bronze representant un egiptien debout. Petit socle en marbre.,1932,97.3,False,positional,,,Vendredi 13 Mai,,
 BO0624_5444,66385,443,420,"CABAssET italien d'homme de pied, en fer repousse, cisele et damasquine a medaillons portant des figures et rinceaux.",1936,98.3,False,positional,,,Vendredi 13 Mai,,
-BO0624_5444,66386,444,421,BassIN circulaire en cuivre repousse a godrons. XVI siecle.,1942,96.6,False,positional,,,Vendredi 13 Mai,,
+BO0624_5444,66386,444,421,BassIN circulaire en cuivre repousse a godrons. XVI siecle.,1942,96.6,False,positional,,,Vendredi 13 Mai,,Sec. XVI
 BO0624_5444,66387,445,422,"GRAND SEAU a eau (puisette), en cuivre repousse avec manche",1947,96.6,False,positional,,,Vendredi 13 Mai,,
-BO0624_5444,66388,446,423,"PAIRE DE GRANDES TORCHERES en fer forge, pieds a rinceaux et noeuds en bronze, portant deux vases en bois peints en vert avec ornements sculptes et dores. Fin du XVI siecle.",1952,81.1,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66389,447,424,ARQUEBUsE oriental travaille au burin avec crosse plaquee en argent repousse. Le canon porte la sigle P. B. (Batiste Paratié ?). XVII siecle.,1957,98.5,False,positional,,,Vendredi 13 Mai,,
+BO0624_5444,66388,446,423,"PAIRE DE GRANDES TORCHERES en fer forge, pieds a rinceaux et noeuds en bronze, portant deux vases en bois peints en vert avec ornements sculptes et dores. Fin du XVI siecle.",1952,81.1,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5444,66389,447,424,ARQUEBUsE oriental travaille au burin avec crosse plaquee en argent repousse. Le canon porte la sigle P. B. (Batiste Paratié ?). XVII siecle.,1957,98.5,False,positional,,,Vendredi 13 Mai,,Sec. XVII
 BO0624_5444,66390,448,425,EpEE milanaise de Pietro Caino avec monture en bronze cisele tres originale. XVl siecle.,1958,80.0,False,positional,,,Vendredi 13 Mai,,
 BO0624_5444,66391,449,426,"ARQUEBUsE a rouet, incrustation en ivoire de feurs, feuillages et figures.XVIle siecle.",1960,81.1,False,positional,,,Vendredi 13 Mai,,
 BO0624_5444,66392,450,427,"PENDULE en bronze en forme de vase balustre sur un socle carre,deux anses les cornes d'abondance et les moulures a la base et au bord du vase en bronze cisele et dore. Cadran avec des nombres turcs. Le cadran porte Gillibert et Poeranger. Constantinople.",1962,99.2,False,positional,,,VASI,,
-BO0624_5444,66393,451,428,"HoRLOGE en bronze, avec double sonnerie et carillon. Fabrique hollandaise. XVII siecle.",1963,97.6,False,title_direct,Brillon,Hollandaise,,,
+BO0624_5444,66393,451,428,"HoRLOGE en bronze, avec double sonnerie et carillon. Fabrique hollandaise. XVII siecle.",1963,97.6,False,title_direct,Brillon,Hollandaise,,,Sec. XVII
 BO0624_5444,66394,452,429,"SABRE arabe a poignee en ivoire et fer dore, a doubles quil- lons recourbes vers la point. Xv siecle.",1964,73.0,False,positional,,,Vendredi 13 Mai,,
 BO0624_5444,66395,453,430,"TAPIs de priere, oriental, fond blanc, avec deux rangees latera-",1969,96.8,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66396,454,431,"CosTuME de page, époque Louis XIll, en satin. Vieux rose brode en argent.",1974,97.2,False,positional,,,Tapisseries; Etoffes,,
@@ -461,24 +461,24 @@ BO0624_5444,66401,459,436,GRANDE COUVERTURE de lit en soie jaune avec frange. XV
 BO0624_5444,66402,460,437,"CosTUME pour dame époque Louis XIII, en satin bleu, paon avec dentelles et broderies en argent.",1991,72.0,False,positional,,Periodo di Luigi XIII,Tapisseries; Etoffes,,
 BO0624_5444,66403,461,438,TapIs oriental a dessin d'exagones relies verts et rouges et or. nements polychromes sur fond blanc:bordure jaune et bleue a rosaces rouges et bleues.,1993,98.7,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66404,462,439,"LoNG TAPIs oriental a fond rouge a petites feurs jaunes, bleues et brunes bordure blanche et rouge a ornements polychromes.",1996,98.4,False,positional,,,OGGETTI VARI,,
-BO0624_5444,66405,463,44,"o. GRAND RIDEAU en soie brodee a cartouches historiees polichromes et argent, fond soie bleu clair; sur la bordure rose, des lettres hebraiques brodees en or. Travail portugais. XVI siecle.",2000,99.5,False,positional,,,Tapisseries; Etoffes,,
+BO0624_5444,66405,463,44,"o. GRAND RIDEAU en soie brodee a cartouches historiees polichromes et argent, fond soie bleu clair; sur la bordure rose, des lettres hebraiques brodees en or. Travail portugais. XVI siecle.",2000,99.5,False,positional,,,Tapisseries; Etoffes,,Sec. XVI
 BO0624_5444,66406,464,441,"TAPIssERIE representant Clelia agenouillee aux pieds de Porsenna au camp étrusque. Belle bordure decoree de petites figures, feuillages et fruits. Manifacture italienne.",2001,98.8,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66407,465,442,"PAIRE DE PLATs legerement creux, decores a feuillages et feurs en bleu sur fond blanc dans deux cadres ronds en bois sculptes et dorés.Fiu du XVI siecle.",2011,98.7,False,positional,,Faenza,OGGETTI IN LEGNO,,
+BO0624_5444,66407,465,442,"PAIRE DE PLATs legerement creux, decores a feuillages et feurs en bleu sur fond blanc dans deux cadres ronds en bois sculptes et dorés.Fiu du XVI siecle.",2011,98.7,False,positional,,Faenza,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66408,466,443,GRAND VAsE (orcio) en terre-cuite a deux anses sur une base avec ornements a relief.,2015,80.3,False,positional,,Faenza,OGGETTI VARI,,
-BO0624_5444,66409,467,444,"PETIT VAsE de pharmacie avec legende Pill Masticine en bleu, entouree d'une guirlande en feuillages vertes sur fond blanc. XVI siecle.",2024,94.1,False,positional,,Faenza,VASI,,
-BO0624_5444,66410,468,445,"VAsE de pharmacie avec legende Aq. di Acetosa, decore a rinceaux et feuillages bleus et jaunes sur fond blanc, et le mono- gramme T. H. S. au milieu sous la legende. Date 1714.",2049,81.7,False,positional,,Faenza,VASI,,
+BO0624_5444,66409,467,444,"PETIT VAsE de pharmacie avec legende Pill Masticine en bleu, entouree d'une guirlande en feuillages vertes sur fond blanc. XVI siecle.",2024,94.1,False,positional,,Faenza,VASI,,Sec. XVI
+BO0624_5444,66410,468,445,"VAsE de pharmacie avec legende Aq. di Acetosa, decore a rinceaux et feuillages bleus et jaunes sur fond blanc, et le mono- gramme T. H. S. au milieu sous la legende. Date 1714.",2049,81.7,False,positional,,Faenza,VASI,,Sec. XVIII
 BO0624_5444,66411,469,446,"QUATRE PETITES BUIRES decorees a feurs et feuillages bleus sur fond blanc, couvercles en étain.XVIlI siecle.",2056,98.1,False,positional,,Delft,,,
-BO0624_5444,66412,470,447,CAFETIERE ornee a bouquets de feurs. XVIII siecle.,2060,96.0,False,positional,,Le Nove,,,
+BO0624_5444,66412,470,447,CAFETIERE ornee a bouquets de feurs. XVIII siecle.,2060,96.0,False,positional,,Le Nove,,,Sec. XVIII
 BO0624_5444,66413,471,448,"CAcHE-POT en faience sur pied, decore a feurs et feuillages bleu clair et bleu fonce sur fond blanc.",2066,98.0,False,title_direct,,,Faiences,,
 BO0624_5444,66414,472,449,"GRAND VAsE a deux anses decore a ornements geometriques dans la partie superieure jaune, verte et manganese.",2073,98.1,False,positional,,Tunis,OGGETTI VARI,,
 BO0624_5444,66415,473,45,o. BAs-RELIEF en terre-cuite. La Sainte Vierge a mi-corps tenant,2084,98.4,False,positional,,Ecole de Rossellino,BASSORILIEVI,,
-BO0624_5444,66416,474,452,"BAS-RELIEF en stuc. La Sainte Vierge agenouillee. Tournee a gauche, adorant l'Enfant Jesus; en hautle Pere Eternel benissant au milieu des anges; bord a legere moulure. Art forentin. XVe siecle.",2091,77.4,False,positional,,Ecole de Rossellino,BASSORILIEVI,,
+BO0624_5444,66416,474,452,"BAS-RELIEF en stuc. La Sainte Vierge agenouillee. Tournee a gauche, adorant l'Enfant Jesus; en hautle Pere Eternel benissant au milieu des anges; bord a legere moulure. Art forentin. XVe siecle.",2091,77.4,False,positional,,Ecole de Rossellino,BASSORILIEVI,,Sec. XV
 BO0624_5444,66417,475,453,"PAIRE DE GRANDES POTICHES, decorées a figures et feurs polychromes, socles en bois noir sculptés.",2096,97.9,False,positional,,Chine,OGGETTI IN LEGNO,,
 BO0624_5444,66418,476,454,"PAIRE DE vAsEs de forme ovoide a couvercle, decores de",2100,96.4,False,positional,,Faenza,VASI,,
 BO0624_5444,66419,477,2,"feuillages, de deux rangees de festons et rinceaux bleus sur fond blanc. XVIl siecle.",2101,98.8,False,positional,,Faenza,,,
 BO0624_5444,66420,478,451,BusTE en terre-cuite par le Cieco da Gambassi.,2109,95.7,False,positional,,Faenza,,,
-BO0624_5444,66421,479,455,"PLAT creux decore d'un buste humain en profl, a droite; au centre et sur le bord l'ornement typique de Cafaggiolo. XVI siecle.",2114,98.4,False,title_direct,,Cafaggiolo,PIATTI,,
-BO0624_5444,66422,480,456,"DEUx GRANDs VAsEs a pied carre et couvercle, ornes de moulures dorees. Les deux vases sont decores de belles peintures representant scenes nautiques. Signes Bar. Terchi 1726. XVIIe siecle.",2120,98.9,False,positional,,Abruzzi,VASI,,
+BO0624_5444,66421,479,455,"PLAT creux decore d'un buste humain en profl, a droite; au centre et sur le bord l'ornement typique de Cafaggiolo. XVI siecle.",2114,98.4,False,title_direct,,Cafaggiolo,PIATTI,,Sec. XVI
+BO0624_5444,66422,480,456,"DEUx GRANDs VAsEs a pied carre et couvercle, ornes de moulures dorees. Les deux vases sont decores de belles peintures representant scenes nautiques. Signes Bar. Terchi 1726. XVIIe siecle.",2120,98.9,False,positional,,Abruzzi,VASI,,Sec. XVII
 BO0624_5444,66423,481,457,PAySAGE. Vue d'un chateau sur une colline; ciel nuageux. Toile. Cadre bois doré.XVII siecle.,2126,97.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66424,482,459,VuE D'UN TORRENT longeant un village en Styrie.,2132,95.8,False,positional,,,Tableaux; Estampes,,
 BO0624_5444,66425,483,461,ErUDE a la plume.,2140,88.9,False,positional,,,Tableaux; Estampes,,
@@ -492,35 +492,35 @@ BO0624_5444,66432,490,466,"UNE FEMME assise en profil, la tete appuyee sur la ma
 BO0624_5444,66433,491,467,"PoRTRAIT de paysanne en buste, la tete appuyée sur la main",2190,96.6,False,positional,Piazzetta G.B.,,,,
 BO0624_5444,66434,492,468,SIx ESTAMPEs. Sujets maritimes; d'apres I. Rigaud.,2197,95.8,False,positional,Lugelbrecht Mart.,,STAMPE E INCISIONI,,
 BO0624_5444,66435,493,469,SEIzE ESTAMPEs representants des peintres celebres.,2198,96.2,False,positional,Lugelbrecht Mart.,,STAMPE E INCISIONI,,
-BO0624_5444,66436,494,47,o. VuE DU LouvRE avec la tour de Nesle. Jac. Callot sculps. 1629.,2199,98.4,False,title_direct,Callot,,,,
+BO0624_5444,66436,494,47,o. VuE DU LouvRE avec la tour de Nesle. Jac. Callot sculps. 1629.,2199,98.4,False,title_direct,Callot,,,,Sec. XVII
 BO0624_5444,66437,495,I,srael excud. Parisiis. Cadre en bois noir.(Sans marges).,2200,99.0,False,positional,Lugelbrecht Mart.,,OGGETTI IN LEGNO,,
 BO0624_5444,66438,496,471,PAysAGE. Un patre debout qui regarde son troupeau au repos. Cadre en bois noir.(In Roma nella Calcografia della R. C. A.). XVIll siecle.,2201,98.4,False,positional,Lugelbrecht Mart.,,OGGETTI IN LEGNO,,
-BO0624_5444,66439,497,472,"VUE DU PORT DE LIvOURNE, datée 1634; Estampes de cartouche armoiriee, mascarons et autres ornements. Signees. Cadre en bois sculpte.",2210,98.4,False,title_direct,,,Estampes,,
+BO0624_5444,66439,497,472,"VUE DU PORT DE LIvOURNE, datée 1634; Estampes de cartouche armoiriee, mascarons et autres ornements. Signees. Cadre en bois sculpte.",2210,98.4,False,title_direct,,,Estampes,,Sec. XVII
 BO0624_5444,66440,498,473,UNE BACCHANTE. Cadre en bois.,2214,93.1,False,positional,Bartolozzi Franc.,,OGGETTI IN LEGNO,,
 BO0624_5444,66441,499,474,"UN ANGE debout avec la croix, d'apres Raphael, et un amour couche dormant, d'apres Guido Reni. F. Curti fecit. Estampes avec cadre en bois.",2219,72.7,False,title_direct,GUIDO RENI,,Estampes,,
-BO0624_5444,66442,500,475,"L'ANNONCIATION. Deux panneaux peints sur bois; dans l'un la Sainte Vierge, dans l'autre l'ange, a mi-corps, sur fond d'or gaufre, dans un beau tabernacle en bois sculpte et dore. XV siecle.",2223,77.1,False,positional,,Ecole de Ferrara,OGGETTI IN LEGNO,,
+BO0624_5444,66442,500,475,"L'ANNONCIATION. Deux panneaux peints sur bois; dans l'un la Sainte Vierge, dans l'autre l'ange, a mi-corps, sur fond d'or gaufre, dans un beau tabernacle en bois sculpte et dore. XV siecle.",2223,77.1,False,positional,,Ecole de Ferrara,OGGETTI IN LEGNO,,Sec. XV
 BO0624_5444,66443,501,476,"LA SAINTE FAMILLE. La Sainte Vierge assise, tenant un livre ouvert daus la main gauche, avec l'Enfant Jesus étendu la tete sur ses genoux, Saint Joseph et Saint Jean derriere. Grande draperie au fond. Peinture sur bois. Cadre ancien en bois noir etor.",2230,98.1,False,positional,Michel-Ange,,OGGETTI IN LEGNO,,
 BO0624_5444,66444,502,477,PETIT MEDAILLON oval; bas-relief en marbre. Le Pape Grégoire XIV. Cadre en bois sculpte et doré.,2242,97.9,False,positional,,,BASSORILIEVI,,
 BO0624_5444,66445,503,478,TeTE de marbre representant en haut relief un homme coiffe,2243,96.7,False,positional,,,Sculptures,,
 BO0624_5444,66446,504,479,BusTE en marbre representant le Doge Marino Grimani la tete,2251,96.7,False,positional,Vittoria Alessandro,,,,
-BO0624_5444,66447,505,2,legerement tournee vers la gauche. Art venitien (1595-16o5).,2252,98.2,False,positional,Vittoria Alessandro,,,,
+BO0624_5444,66447,505,2,legerement tournee vers la gauche. Art venitien (1595-16o5).,2252,98.2,False,positional,Vittoria Alessandro,,,,Sec. XVI
 BO0624_5444,66448,506,48,o. HoMME en priere. Etude au fusain sur papier pour le tableau: Le transport du Christ. Dessin avec cadre en bois.,2260,99.1,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_5444,66449,507,481,FEMME a genoux suppliant. Etude au fusain pour le tableau: Le transport du Christ. Cadre en bois.,2271,97.9,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_5444,66450,508,2,JEUNE FEMME en priere. Etude au fusain pour le tableau:Le transport du Christ: Cadre en bois.,2272,98.9,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_5444,66451,509,3,JEUNE FILLE assise. Etude au fusain sur papier pour le tableau: Le transport du Christ. Cadre en bois.,2273,99.0,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_5444,66452,510,4,JEUNE FEMME assise. Etude au fusain pour le tableau:Le transport du Christ. Cadre en bois.,2274,98.9,False,title_direct,,,OGGETTI IN LEGNO,,
-BO0624_5444,66453,511,482,"PoRTRAIT en buste de jeune fille, vue de face, avec chapeau. Costume 1885. Peinture sur toile. Cadre doré.",2275,70.8,False,positional,Gelli E.,,,,
+BO0624_5444,66453,511,482,"PoRTRAIT en buste de jeune fille, vue de face, avec chapeau. Costume 1885. Peinture sur toile. Cadre doré.",2275,70.8,False,positional,Gelli E.,,,,Sec. XIX
 BO0624_5444,66454,512,483,LA BAIGNEUSE. Croquis a l'huile sur carton. Cadre ancien en bois avec dorure.,2280,97.4,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
 BO0624_5444,66455,513,484,ETuDE de tete de jeune fille demi-decolletee. Peinture sur toile. Cadre bois dore.,2284,86.3,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
 BO0624_5444,66456,514,485,LA VENDANGE.Esquisse. Fond de paysage toscan. Peinture sur toile.Cadre bois dore.,2289,81.2,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
-BO0624_5444,66457,515,486,"GRANDE GLACE avec cadre en bois noir; moulures sculptees et dorees, et grand fronton a feuillages et volutes en bois dorees. XVII siecle.",2296,90.8,False,positional,Brustolon,,OGGETTI IN LEGNO,,
-BO0624_5444,66458,516,487,"PAIRE DE TORCHERES en bois sculpte, formees par deux statues de femmes a demi-agenouillees; socles formes par quatre balustres a godrons, sur planches carrees. XVII siecle.",2303,98.8,False,positional,Brustolon,,OGGETTI IN LEGNO,,
-BO0624_5444,66459,517,488,"PENDULE en bois rose; ornements de bronze a rinceaux ciseles et dores; plaque sous le cadran. La pendule se termine par una aigle portant un écusson, en bronze cisele et dore. Art francais. XVIII siecle.",2310,99.0,False,positional,Brustolon,,OGGETTI IN LEGNO,,
+BO0624_5444,66457,515,486,"GRANDE GLACE avec cadre en bois noir; moulures sculptees et dorees, et grand fronton a feuillages et volutes en bois dorees. XVII siecle.",2296,90.8,False,positional,Brustolon,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_5444,66458,516,487,"PAIRE DE TORCHERES en bois sculpte, formees par deux statues de femmes a demi-agenouillees; socles formes par quatre balustres a godrons, sur planches carrees. XVII siecle.",2303,98.8,False,positional,Brustolon,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_5444,66459,517,488,"PENDULE en bois rose; ornements de bronze a rinceaux ciseles et dores; plaque sous le cadran. La pendule se termine par una aigle portant un écusson, en bronze cisele et dore. Art francais. XVIII siecle.",2310,99.0,False,positional,Brustolon,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_5444,66460,518,489,"PENDULE avec caisse en bois, posant sur un porche avec glace au fond, cadran en bronze cisele et dore avec la figure d'un amour assis et ornements en bronze cisele et dore. XVIll siecle.",2314,98.9,False,positional,Brustolon,,OGGETTI IN LEGNO,,
 BO0624_5444,66461,519,491,GRAND PUPITRE en bois avec dorures et deux porte-fambeaux. XVIl siecle.,2323,87.7,False,positional,Brustolon,,OGGETTI IN LEGNO,,
-BO0624_5444,66462,520,492,"CoFFRET rectangulaire en bois, entierement recouvert en nacre cisele, d'apres un dessin a rinceaux avec bordure a dessin geo- metrique. Art persan. Fin du XVI siecle.",2328,85.3,False,positional,Brustolon,,OGGETTI IN LEGNO,,
+BO0624_5444,66462,520,492,"CoFFRET rectangulaire en bois, entierement recouvert en nacre cisele, d'apres un dessin a rinceaux avec bordure a dessin geo- metrique. Art persan. Fin du XVI siecle.",2328,85.3,False,positional,Brustolon,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66463,521,493,"DEUX FAUTEUILS en bois de noyer a dossier droit, recouverts en damas rouge. Fin du XVl siecle.",2333,97.8,False,positional,Brustolon,,OGGETTI IN LEGNO,,
-BO0624_5444,66464,522,494,"BANc d’antichambre a dossier droit, en bois de noyer, porte par quatre pieds a balustre. XVI siecle.",2337,75.8,False,positional,Brustolon,,OGGETTI IN LEGNO,,
+BO0624_5444,66464,522,494,"BANc d’antichambre a dossier droit, en bois de noyer, porte par quatre pieds a balustre. XVI siecle.",2337,75.8,False,positional,Brustolon,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66465,523,495,"CoFFRE de mariage, en bois de noyer, avec cartouche, figures, rinceaux de feuillages et deux oiseaux en marqueterie claire.",2344,98.3,False,positional,Brustolon,,BAULI,,
 BO0624_5444,66466,524,496,"SECRETAIRE-BuREAU en bois de noyer a sept tiroirs, porte par quatre lions couches.",2348,97.6,False,positional,Brustolon,,OGGETTI IN LEGNO,,
 BO0624_5444,66467,525,497,"FAUTEUIL en bois de noyer, avec deux tetes de lion, recouvert en cuir.",2351,97.1,False,positional,Brustolon,,OGGETTI IN LEGNO,,
@@ -535,28 +535,28 @@ BO0624_5444,66475,533,5,o3. VERRE a boire en forme de calice. XVIle siecle.,2381
 BO0624_5444,66476,534,5,o4. TAMBoUR peint en bleu; dans une cartouche les armoiries imperiales:l'aigle a deux tetes.,2386,99.4,False,positional,,Murano,,,
 BO0624_5444,66477,535,5,o5. GRAND PLAT en cuivre jaune; grande rosace centre au repoussee,2390,99.2,False,positional,,Murano,PIATTI,,
 BO0624_5444,66478,536,5,o6. GRAND PLAT creux en cuivre; un arbre grave au centre et,2396,99.1,False,positional,,Murano,PIATTI,,
-BO0624_5444,66479,537,5,"o7. PoRTE-BRASIER octogone en bois plaque de cuivre jaune, soutenu par huit petites colonnes. XVI siecle.",2400,99.5,False,positional,,Murano,OGGETTI IN LEGNO,,
+BO0624_5444,66479,537,5,"o7. PoRTE-BRASIER octogone en bois plaque de cuivre jaune, soutenu par huit petites colonnes. XVI siecle.",2400,99.5,False,positional,,Murano,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66480,538,5,"o8. CADRE oval en terre-cuite doree, portant un peinture: un vase",2401,99.2,False,positional,,Murano,VASI,,
 BO0624_5444,66481,539,5,"o9. CoNTREBAsSE, portant 1'inscription:Rd.Foseph Bertacchi 1788fecit. Manche se terminant par un mascaron sculpté.",2403,99.5,False,positional,,Murano,,,
-BO0624_5444,66482,540,51,o. CADRE octogone en bois de poirier a légeres moulures renfermant une glace. XVIIe siecle.,2404,98.9,False,positional,,Murano,OGGETTI IN LEGNO,,
-BO0624_5444,66483,541,511,"VIOLONcELLE ancien, restaure par Corrado Federici - 1858.",2408,96.4,False,positional,,Murano,,,
+BO0624_5444,66482,540,51,o. CADRE octogone en bois de poirier a légeres moulures renfermant une glace. XVIIe siecle.,2404,98.9,False,positional,,Murano,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_5444,66483,541,511,"VIOLONcELLE ancien, restaure par Corrado Federici - 1858.",2408,96.4,False,positional,,Murano,,,Sec. XIX
 BO0624_5444,66484,542,513,"GRAND VAsE en albatre oriental, évase et legerement recourbe en haut, avec deux tetes de belier en bas sur pied circulaire, socle en marbre rose, posant sur une colonne a socle et chapiteau en marbre vert de Prato.",2413,83.3,False,positional,,Murano,VASI,,
-BO0624_5444,66485,543,514,"HaNAP en ivoire, monte en bronze repousse et dore, orne de quatre camees turquoises et autres pierres, le couvercle se terminant par un buste de femme en ivoire.Art venitien. XVI siecle.",2418,81.4,False,positional,,Murano,,,
-BO0624_5444,66486,544,515,BassiN en cuivre repousse a godrons et un dessin geometrique dans le fond. XVI siecle. CoLONNE sur piedestal en albatre oriental.,2422,78.5,False,positional,,Murano,,,
+BO0624_5444,66485,543,514,"HaNAP en ivoire, monte en bronze repousse et dore, orne de quatre camees turquoises et autres pierres, le couvercle se terminant par un buste de femme en ivoire.Art venitien. XVI siecle.",2418,81.4,False,positional,,Murano,,,Sec. XVI
+BO0624_5444,66486,544,515,BassiN en cuivre repousse a godrons et un dessin geometrique dans le fond. XVI siecle. CoLONNE sur piedestal en albatre oriental.,2422,78.5,False,positional,,Murano,,,Sec. XVI
 BO0624_5444,66487,545,516,"STATUETTE en bronze, representant un bouffon de Cour; une guitare a la main, d'apres le tableau du professeur E. Gelli.",2431,98.3,False,title_direct,Gelli,,Tableau,,
-BO0624_5444,66488,546,517,"LoT de quatre medailles en bronze: Cosme IIl, Ferdinand 1I, Jean Gaston et Francois de Medicis. XVII siecle.",2434,98.1,False,positional,,Murano,,,
+BO0624_5444,66488,546,517,"LoT de quatre medailles en bronze: Cosme IIl, Ferdinand 1I, Jean Gaston et Francois de Medicis. XVII siecle.",2434,98.1,False,positional,,Murano,,,Sec. XVII
 BO0624_5444,66489,547,518,"VAsE en bronze a bord evase, deux anses formees par deux animaux et figures d'hommes, d'animaux et plantes. Art indochinois.",2436,69.9,False,positional,,Murano,VASI,,
 BO0624_5444,66490,548,519,PAIRE DE BROLE-PARFUMS avec couvercles en bronze a figures,2437,96.7,False,positional,,Murano,,,
 BO0624_5444,66491,549,5,"et feuillages, feurs et animaux ciseles. Art indien.",2438,98.0,False,positional,,Murano,,,
 BO0624_5444,66492,550,52,"o. Deux VAsEs avec couvercle, en bronze cloisonne a ramages tres fins sur fond brun. Art oriental.",2442,98.9,False,positional,,Murano,VASI,,
-BO0624_5444,66493,551,521,"CorBIN a poudre en corne, avec ornements varies geometriques et feurs en relief. Fin XVI siecle.",2446,75.6,False,positional,,Murano,OGGETTI VARI,,
+BO0624_5444,66493,551,521,"CorBIN a poudre en corne, avec ornements varies geometriques et feurs en relief. Fin XVI siecle.",2446,75.6,False,positional,,Murano,OGGETTI VARI,,Sec. XVI
 BO0624_5444,66494,552,522,"LoT de deux vases en bronze, dont l'un a treillis et l'autre avec ornements en relief et deux anses. Art japonais.",2451,98.2,False,positional,,Murano,OGGETTI VARI,,
 BO0624_5444,66495,553,523,QUATRE FERs d'hallebardes. Art italien.XVI siecle.,2452,96.0,False,positional,,Murano,,,
 BO0624_5444,66496,554,524,SIX PETITES FIGURES de costumes japonais.,2453,95.2,False,positional,,Murano,,,
-BO0624_5444,66497,555,525,"PoIGNARD a ceinture, monte en argent. Fin du XVIIe siecle.",2454,96.5,False,positional,,Murano,,,
+BO0624_5444,66497,555,525,"PoIGNARD a ceinture, monte en argent. Fin du XVIIe siecle.",2454,96.5,False,positional,,Murano,,,Sec. XVII
 BO0624_5444,66498,556,526,"PoIGNARD a lame triangulaire, avec la Lune,le Soleil et les",2455,96.7,False,positional,,Murano,,,
 BO0624_5444,66499,557,6,"étoiles damasquinees, poigne en corne. XVIll siecle.",2456,98.0,False,positional,,Murano,,,
-BO0624_5444,66500,558,7,PoIGNARD oriental a lame recourbee et percee a jour. Poignee en corne avec incrustations. XVIII siecle.,2457,99.0,False,positional,,Murano,,,
+BO0624_5444,66500,558,7,PoIGNARD oriental a lame recourbee et percee a jour. Poignee en corne avec incrustations. XVIII siecle.,2457,99.0,False,positional,,Murano,,,Sec. XVIII
 BO0624_5444,66501,559,527,BRAsIER en cuivre repousse sur pied circulaire.,2458,95.8,False,positional,,Murano,,,
 BO0624_5444,66502,560,529,"GRAND LAMPADAIrE en fer forge, posant sur trois pieds ornes de feuillage.",2468,97.3,False,positional,,Murano,,,
 BO0624_5444,66503,561,530,GRouPE en bronze: deux chiens levriers jouant. Signe: P. . Mene.,2469,92.0,False,positional,,Murano,,,
@@ -564,12 +564,12 @@ BO0624_5444,66504,562,531,"PETIT BRuLE-PARFUMS en bronze de forme demi-spheroida
 BO0624_5444,66505,563,532,BeAU FUsIL oriental avec canon tres finement cisele au burin et la crosse plaquee en fer cisele. XVIl siecle.,2475,98.2,False,positional,,Murano,,,
 BO0624_5444,66506,564,533,"CoRBIN a poudre, en corne gravee avec un cavalier, costume Louis XV d'un cote et de l'autre un amour; dans le fond une allegorie et des legendes en allemand. xVIl siecle.",2476,81.0,False,positional,,Murano,,,
 BO0624_5444,66507,565,534,"PAIRE DE GRANDS PORTE-FLAMBEAUX en fer forge, en forme de grand éventail, avec un monogramme au centre et fleurs et rinceaux colories. XVll siecle.",2481,98.6,False,positional,,Murano,TORCE,,
-BO0624_5444,66508,566,535,"PoRTE-FUSILs en fer forge, a volutes et rinceaux. Fin du XVI siecle.",2482,87.8,False,positional,,Murano,,,
-BO0624_5444,66509,567,536,"TAPIs de table en peluche de soie, avec un grand pot de feurs au centre et bordure a fleurs et feuilles jaunes et bleues sur fond rouge. XVII siecle.",2491,98.6,False,positional,,,Tapisseries; étoffes,,
+BO0624_5444,66508,566,535,"PoRTE-FUSILs en fer forge, a volutes et rinceaux. Fin du XVI siecle.",2482,87.8,False,positional,,Murano,,,Sec. XVI
+BO0624_5444,66509,567,536,"TAPIs de table en peluche de soie, avec un grand pot de feurs au centre et bordure a fleurs et feuilles jaunes et bleues sur fond rouge. XVII siecle.",2491,98.6,False,positional,,,Tapisseries; étoffes,,Sec. XVII
 BO0624_5444,66510,568,537,"CosTUME complet de mousquetaire, justa-corps, pantalons, en peluche,bouton d'or et grandes-bottes.",2495,97.9,False,positional,,,Tapisseries; étoffes,,
 BO0624_5444,66511,569,538,"CoSTUME de page Louis XIHI en satin blanc, brode en argent.",2496,96.6,False,positional,,,Tapisseries; étoffes,,
 BO0624_5444,66512,570,539,"CosTuME dalmate pour homme, en drap bleu-clair avec broderies en argent.",2497,97.2,False,positional,,,Tapisseries; étoffes,,
-BO0624_5444,66513,571,4,"54o. BoRDURE en brocatelle jaune a dessin de rinceaux, feurs et feuillages. XVIe siecle.",2498,98.8,False,positional,,,Tapisseries; étoffes,,
+BO0624_5444,66513,571,4,"54o. BoRDURE en brocatelle jaune a dessin de rinceaux, feurs et feuillages. XVIe siecle.",2498,98.8,False,positional,,,Tapisseries; étoffes,,Sec. XVI
 BO0624_5444,66514,572,542,"DEVANT D'AUTEL brode, avec une cartouche au milieu, portant des armoiries;rinceaux de feuillages et feurs en couleurs sur",2503,98.3,False,positional,,,Tapisseries; étoffes,,
 BO0624_5444,66515,573,543,", TArIs oriental avec dessin geometrique au centre a plusieurs couleurs sur fond noir ; petites bandes droites, polychromes, bordure",2508,98.4,False,positional,,,Tapisseries; étoffes,,
 BO0624_5444,66516,574,544,"TAPIs oriental a bandes transversales bleus et jaunes, chargees d'ornements polychromes,bordures blanches a rosaces a diffe- rentes couleurs.",2513,92.4,False,positional,,,OGGETTI VARI,,
@@ -579,37 +579,37 @@ BO0624_5444,66519,577,547,"PLAT a bord releve, decore a branches de feurs et feu
 BO0624_5444,66520,578,548,"CouPE en porcelaine blanche, formee par une coquille soutenue par trois dauphins adosses et trois petites coquilles. Vieux Ginori. XVIlIe siecle.",2534,98.6,False,title_direct,,Ginori,porcelaines,,
 BO0624_5444,66521,579,549,"DEUx STATUETTES en porcelaine blanche, representant une",2537,96.4,False,title_direct,,,porcelaines,,
 BO0624_5444,66522,580,2,femme et un homme en costume Louis XV. Marque Capodimonte.,2538,98.2,False,title_direct,,Capodimonte,,,
-BO0624_5444,66523,581,55,"o.PErIT BUSTE en terre-cuite,representant Saint Jean. Art forentin. Premiere moitie du XVe siecle.",2542,99.0,False,positional,,,Faiences; porcelaines,,
+BO0624_5444,66523,581,55,"o.PErIT BUSTE en terre-cuite,representant Saint Jean. Art forentin. Premiere moitie du XVe siecle.",2542,99.0,False,positional,,,Faiences; porcelaines,,Sec. XV
 BO0624_5444,66524,582,551,"AIGuIERE a double goulot decoree a figures et feuillages et feurs bleues sur fond blanc, anse formee par une syrene. XVIlle siecle.",2547,69.7,False,positional,,,Faiences; porcelaines,,
 BO0624_5444,66525,583,552,DEUx PLATs ornes a feuillages et feurs bleues sur fond blanc.,2556,96.8,False,positional,,Chine,PIATTI,,
 BO0624_5444,66526,584,553,SALIERE a quatre mascarons et quatre petits supports qui soutiennent une petite cuvette decoration bleue sur fond blanc.,2560,98.3,False,positional,,Faenza,,,
 BO0624_5444,66527,585,554,PAiRE DE GoURDEs a double anse et goulot étroit decorees en blanc et jaune sur fond terre-cuite.,2581,97.9,False,positional,,Pistoia,,,
 BO0624_5444,66528,586,555,DEUX POTs A BIERE en faience a decor polychrome couvercle en etain avec medailion et initiales gravees. Faience allemande. XVIlI siecle.,2586,72.4,False,title_direct,,,OGGETTI IN PELTRO,,
 BO0624_5444,66529,587,556,"PAIRE DE SAUCIEREs ovales avec leurs plateaux; leger orne- ment bleu, sur fond blanc. XVIl siecle.",2590,73.2,False,positional,,Faenza,,,
-BO0624_5444,66530,588,557,"PoRTE-BOUQUETS en forme evase sur pied rectangulaire a deux anses, se terminant par cinq goulots, decore de feurs sur fond blanc. Marque P. XVIII siecle.",2595,98.7,False,positional,,Pesaro,,,
+BO0624_5444,66530,588,557,"PoRTE-BOUQUETS en forme evase sur pied rectangulaire a deux anses, se terminant par cinq goulots, decore de feurs sur fond blanc. Marque P. XVIII siecle.",2595,98.7,False,positional,,Pesaro,,,Sec. XVIII
 BO0624_5444,66531,589,558,"MEDAILLoN en stuc polychrome dans un cadre en bois. La Sainte Vierge a mi-corps, assise tournee vers la gauche, tenant l'Enfant Jesus sur les genoux. Bordure de tetes de Cherubins.",2605,98.9,False,positional,,Lille,OGGETTI IN LEGNO,,
 BO0624_5444,66532,590,559,DEUX LAMPEs potiches vieux chine decorees a figures et pay-,2609,96.7,False,positional,,Lille,LAMPADE,,
 BO0624_5444,66533,591,2,"sages et deux mascarons en relief, socle en bronze avec dorures.",2610,98.4,False,positional,,Lille,,,
 BO0624_5444,66534,592,3,"56o. VAsE de forme ovoide a godrons a spirale, decore a feurs et",2611,98.4,False,positional,,Lille,VASI,,
 BO0624_5444,66535,593,4,feuillages polychromes et un oiseau. Marque avec une feur de lys et les initiales A. C. Ancien Marseille.,2612,99.0,False,positional,,Lille,,,
-BO0624_5444,66536,594,5,Art forentin. Fin du XVe siecle.,2613,96.8,False,positional,,Lille,,,
+BO0624_5444,66536,594,5,Art forentin. Fin du XVe siecle.,2613,96.8,False,positional,,Lille,,,Sec. XV
 BO0624_5444,66537,595,561,"PLAT sur piedouche, decore au centre par une branche de feuillages avec banderole portant les initiales M.M.et sur le bord un rinceau a feuillages vertes sur fond blanc. XVIl siecle.",2618,98.9,False,positional,,Faenza,PIATTI,,
 BO0624_5444,66538,596,562,GROUPE EN PORcELAINE representant une jeune fille assise entre deux amours.XVIll siecle.,2630,81.0,False,positional,,Meissen,,,
 BO0624_5444,66539,597,563,"Deux vAsEs en forme de balustre, a gorge reliee a la panse par des anses representant deux femmes ailees se terminant en feuillages soutenues par deux mascarons. Pied circulaire. Ces vases presentent dans toutes leurs parties des grotesques de style raphaelesque se detachant en couleur sur fond blanc; ils sont enrichis de cartouches decorees a l'imitation de camees.",2635,99.5,False,positional,,Urbino,VASI,,
 BO0624_5444,66540,598,564,UNE CARAVANE. Un festin. Signe:Callot. Estampe avec cadre en bois.,2645,96.9,False,title_direct,Callot,,Estampes,,
 BO0624_5444,66541,599,565,LE HERAUT d’armes de Murcie par Meissonnier. Estampe avec,2649,96.6,False,title_direct,MEISSONIER JEAN-LOUS-ERNEST,Meissen,Estampes,,
-BO0624_5444,66542,600,566,FRONTIsPICE et sept estampes de vases:1661.,2656,95.5,False,title_direct,,,estampes,,
+BO0624_5444,66542,600,566,FRONTIsPICE et sept estampes de vases:1661.,2656,95.5,False,title_direct,,,estampes,,Sec. XVII
 BO0624_5444,66543,601,567,TeTE DE CHEVAL en profl tournee a gauche. Estampe avec,2662,96.4,False,title_direct,,,Estampes,,
 BO0624_5444,66544,602,2,cadre en bois noir.,2663,94.7,False,positional,Aquela,,OGGETTI IN LEGNO,,
-BO0624_5444,66545,603,3,"L'ABREUvoIR AU LIoN. Peint par Casanova peintre du Roi, grave a l'eau-fort par Laurent, et termine au burin par L. Vasseur, graveur du Roi. XVIII siecle.",2664,99.3,False,positional,Aquela,,,,
+BO0624_5444,66545,603,3,"L'ABREUvoIR AU LIoN. Peint par Casanova peintre du Roi, grave a l'eau-fort par Laurent, et termine au burin par L. Vasseur, graveur du Roi. XVIII siecle.",2664,99.3,False,positional,Aquela,,,,Sec. XVIII
 BO0624_5444,66546,604,568,Srx ESTAMPEs d'exercices militaires et supplices. Cadre en bois.,2670,96.9,False,positional,Callot,,OGGETTI IN LEGNO,,
 BO0624_5444,66547,605,569,LoT de seize estampes a differents sujets.,2676,95.3,False,title_direct,,,estampes,,
 BO0624_5444,66548,606,2,"57o. PARcHEMIN avec prieres de la messe et deux estampes coloriees, representant la Sainte Cene l'une et la Crucifixion l'autre;",2677,99.2,False,title_direct,,,estampes,,
 BO0624_5444,66549,607,3,ornements a fleurs polycromes. Cadre bois noir.,2678,97.8,False,positional,Pacini S.,,OGGETTI IN LEGNO,,
 BO0624_5444,66550,608,571,"JEUNE GARcoN NU, en profil qui fait des boules de savon au bord d'un feuve, montagnes dans le fond. Peinture sur toile. Signe:Layraud.",2682,98.5,False,positional,Pacini S.,,,,
 BO0624_5444,66551,609,572,"PoRTRAIT de dame, vue de face a mi-corps, demidecolletee. Costume Louis XVe. Peinture sur toile. Cadre bois sculpte",2686,98.2,False,positional,,Ecole francaise,OGGETTI IN LEGNO,,
-BO0624_5444,66552,610,573,"PoRTRAIT d'homme, a mi-corps vu de face, costume Louis XV. Peinture sur. toile. Cadre bois sculpte et dore. XVI siecle.",2695,67.1,False,positional,,Ecole Francaise,OGGETTI IN LEGNO,,
-BO0624_5444,66553,611,574,"PoRTRAIT d'un prelat, la tete en face, une lettre entre le mains, fond d'architecture. Peinture sur toile. Cadre ancien en bois avec dorures. XVIe siecle.",2701,89.4,False,positional,,Ecole Venitienne,OGGETTI IN LEGNO,,
+BO0624_5444,66552,610,573,"PoRTRAIT d'homme, a mi-corps vu de face, costume Louis XV. Peinture sur. toile. Cadre bois sculpte et dore. XVI siecle.",2695,67.1,False,positional,,Ecole Francaise,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5444,66553,611,574,"PoRTRAIT d'un prelat, la tete en face, une lettre entre le mains, fond d'architecture. Peinture sur toile. Cadre ancien en bois avec dorures. XVIe siecle.",2701,89.4,False,positional,,Ecole Venitienne,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66554,612,575,"PoRTRAIT de femme, a micorps vue de face, avec boucles de cheveux tombants, decolletee. Costume noir, avec dentelle tres fine autour du decolletage, une feur a la maine. Peinture sur toile. Cadre ancien en bois sculpte et dore.",2708,88.2,False,positional,Lely-Peter,,OGGETTI IN LEGNO,,
 BO0624_5444,66555,613,576,BATAILLE. Toile. Cadre ancien en bois sculpte et dore.,2723,96.2,False,positional,Lely-Peter,,OGGETTI IN LEGNO,,
 BO0624_5444,66556,614,577,"PoRTRAIT de Sa Majeste la Reine Marguerite d'Italie. Toile ovale. Cadre en bois a rinceaux, sculpte et dore.",2733,98.1,False,positional,,,OGGETTI IN LEGNO,,
@@ -620,18 +620,18 @@ BO0624_5444,66560,618,581,"LE FAUNE JALOUx, Peinture a l'huile sur or. Bois. Cad
 BO0624_5444,66561,619,582,"LA BAIGNEUSE au bord d'un lac, effetts du coucher de soleil. Peinture sur bois dore. Cadre ancien dore.",2755,72.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66562,620,583,MARINE. Peinture a l'huile sur carton. Cadre en bois noir.,2760,96.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66563,621,584,EsQuIssE pour le tableau  La Chasse de Diane 》. Toile. Cadre dore.,2764,96.8,False,title_direct,,,Tableau,,
-BO0624_5444,66564,622,585,"CABINET en bois noir a huit tiroirs et une ornementation architecturale au centre, avec des tres fines vues de paysage sur chaque tiroir grave sur cuivre jaune. Fin du XVI siecle.",2772,98.9,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66564,622,585,"CABINET en bois noir a huit tiroirs et une ornementation architecturale au centre, avec des tres fines vues de paysage sur chaque tiroir grave sur cuivre jaune. Fin du XVI siecle.",2772,98.9,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66565,623,586,"CoMMoDE-SECRETAIRE a deux tiroirs en bas et six tiroirs en haut, en bois de noyer orne de sculptures en bois. Art francais. Fin du XVll siecle.",2778,91.3,False,title_direct,,,OGGETTI IN LEGNO,,
-BO0624_5444,66566,624,587,"ARMoIRE en bois de noyer a deux corps. La partie inferieure comme la partie superieure,s'ouvrent a deux vantaux se fermant l'un sur l'autre. Dans les coins des colonnes et des ornements en sculpture sur les vantaux et cariatides pilastres sculptes se terminant par des cartouches. Art forentin. XVI siecle.",2784,97.5,False,title_direct,,,OGGETTI IN LEGNO,,
-BO0624_5444,66567,625,588,"DEUX BANCs D'ANTICHAMBRE, a dossier en bois de noyer, portes par des pieds en forme ovoide. Fin du XVI siecle.",2789,98.1,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66566,624,587,"ARMoIRE en bois de noyer a deux corps. La partie inferieure comme la partie superieure,s'ouvrent a deux vantaux se fermant l'un sur l'autre. Dans les coins des colonnes et des ornements en sculpture sur les vantaux et cariatides pilastres sculptes se terminant par des cartouches. Art forentin. XVI siecle.",2784,97.5,False,title_direct,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5444,66567,625,588,"DEUX BANCs D'ANTICHAMBRE, a dossier en bois de noyer, portes par des pieds en forme ovoide. Fin du XVI siecle.",2789,98.1,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66568,626,589,"GRAND PORTE-MANTEAUX en bois de noyer, avec glace;fronton sculpte a volutes en haut.",2793,97.6,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66569,627,590,"FAUTEUIL DROIT, en bois de noyer, recouvert en cuir et clous en cuivre jaune. XVI siecle.",2797,78.9,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66569,627,590,"FAUTEUIL DROIT, en bois de noyer, recouvert en cuir et clous en cuivre jaune. XVI siecle.",2797,78.9,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66570,628,591,"TABLE en bois de noyer avec tiroir, portée par quatre pieds",2802,96.7,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66571,629,2,"carres se retrecissant en bas, relies par quatre traverses. XVI siecle.",2803,98.6,False,positional,,,Meubles,,
-BO0624_5444,66572,630,3,et a deux vantaux portes par supports a volutes. Fin du XVI siecle.,2804,98.5,False,positional,,,OGGETTI VARI,,
-BO0624_5444,66573,631,593,"GRAND ARMOIRE en bois de noyer, a deux vantaux; compar- timents a relief. Fin du XVI siecle.",2808,72.7,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66571,629,2,"carres se retrecissant en bas, relies par quatre traverses. XVI siecle.",2803,98.6,False,positional,,,Meubles,,Sec. XVI
+BO0624_5444,66572,630,3,et a deux vantaux portes par supports a volutes. Fin du XVI siecle.,2804,98.5,False,positional,,,OGGETTI VARI,,Sec. XVI
+BO0624_5444,66573,631,593,"GRAND ARMOIRE en bois de noyer, a deux vantaux; compar- timents a relief. Fin du XVI siecle.",2808,72.7,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66574,632,594,CoMMoDE en bois de noyer; a bamboches sculptes trois grands et deux petits tiroirs.,2817,81.1,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66575,633,595,"PAIRE DE GRANDs SUPPORTS a deux pieds, en bois de noyer, sculptes a cartouches et rinceaux. Fin du XVI siecle.",2822,65.9,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66575,633,595,"PAIRE DE GRANDs SUPPORTS a deux pieds, en bois de noyer, sculptes a cartouches et rinceaux. Fin du XVI siecle.",2822,65.9,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66576,634,596,"CABINET a neuf tiroirs et vantaux s'abaissant en bois a mar- queterie, representant des vues de paysages. Travail tyrolien.XVII siecle.",2827,70.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66577,635,597,PETIT TABoURET en bois de noyer porte par une tres fine colonne posant sur trois pieds.,2831,82.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66578,636,598,GRAND PATE ELASTIQUE recouvert en étoffe a feurs sur fond,2836,96.6,False,title_direct,,,étoffes,,
@@ -650,21 +650,21 @@ BO0624_5444,66590,648,6,o8. PAIRE D'AIGUIERES en verre; rinceaux a feuillages gr
 BO0624_5444,66591,649,6,o9. PAIRE DE VAsEs ovoides en verre couleur amethyste avec noeud,2884,99.2,False,positional,,Murano,VASI,,
 BO0624_5444,66592,650,61,o. PAIRE DE GRANDES AIGUIERES en cristal jaunatre avec ornementations blanches.,2889,98.7,False,positional,,Murano,,,
 BO0624_5444,66593,651,611,"CARAFE en verre avec anse et long goulot, decorée par trois branches de feuillages et feurs; ornementations bleu et rouge sur fond blanc.XVIl siecle.",2893,98.6,False,positional,,Murano,,,
-BO0624_5444,66594,652,612,"MEDAILLE en bronze dore. Tete de femme tournee a gauche; au revers,un cavalier arme, le sabre a la main, en haut d'une montagne. Legende: D. Elisab. De Moteapto, Marchesa De M. Aper; au revers, Ad Astra. 1616.",2897,99.0,False,positional,,Murano,,,
+BO0624_5444,66594,652,612,"MEDAILLE en bronze dore. Tete de femme tournee a gauche; au revers,un cavalier arme, le sabre a la main, en haut d'une montagne. Legende: D. Elisab. De Moteapto, Marchesa De M. Aper; au revers, Ad Astra. 1616.",2897,99.0,False,positional,,Murano,,,Sec. XVII
 BO0624_5444,66595,653,613,"ARQuEBusE de chasse a rouet, crosse en bois sculpte a feuil-",2901,96.7,False,positional,,Murano,OGGETTI IN LEGNO,,
-BO0624_5444,66596,654,2,"lages. XVIIe siecle,",2902,94.7,False,positional,,Murano,,,
-BO0624_5444,66597,655,3,ARQUEBUSE simple. XVIII siecle.,2903,96.7,False,positional,,Murano,,,
+BO0624_5444,66596,654,2,"lages. XVIIe siecle,",2902,94.7,False,positional,,Murano,,,Sec. XVII
+BO0624_5444,66597,655,3,ARQUEBUSE simple. XVIII siecle.,2903,96.7,False,positional,,Murano,,,Sec. XVIII
 BO0624_5444,66598,656,614,"HACHE de parade de mineur saxon, appellee Bergbarte, datee I715.",2908,96.8,False,positional,,Murano,,,
 BO0624_5444,66599,657,615,CINQ HALLEBARDES montees sur batons recouverts en velours rouge. (Modernes).,2914,97.3,False,positional,,Murano,,,
-BO0624_5444,66600,658,616,DEux ETRIERs en fer canneles en relief. Fin du XVe siecle.,2915,96.6,False,positional,,Murano,,,
+BO0624_5444,66600,658,616,DEux ETRIERs en fer canneles en relief. Fin du XVe siecle.,2915,96.6,False,positional,,Murano,,,Sec. XV
 BO0624_5444,66601,659,617,"GuIsARME damasquinee d'or et d'argent,avec les armoiries du Pape Pio V Borghese. XVIle siecle.",2916,76.1,False,positional,,Murano,,,
-BO0624_5444,66602,660,618,"ARQUEBUsE du dix-septieme siecle, avec canon cannele, crosse avec incrustation en nacre a dessin geometrique. XVII siecle.",2919,67.0,False,positional,,Murano,,,
+BO0624_5444,66602,660,618,"ARQUEBUsE du dix-septieme siecle, avec canon cannele, crosse avec incrustation en nacre a dessin geometrique. XVII siecle.",2919,67.0,False,positional,,Murano,,,Sec. XVII
 BO0624_5444,66603,661,619,"JoLIE ARQUEBUSE de chasse a batterie a silex, dans la crosse des fines ornementations a leger relief. XVll siecle.",2920,67.8,False,positional,,Murano,,,
-BO0624_5444,66604,662,620,ToRcHERE applique en fer forge. Art forentin. XVe siecle.,2922,96.4,False,positional,,Murano,,,
+BO0624_5444,66604,662,620,ToRcHERE applique en fer forge. Art forentin. XVe siecle.,2922,96.4,False,positional,,Murano,,,Sec. XV
 BO0624_5444,66605,663,621,"LAMPADAIRE en fer forge a trois becs garnis de feuillages, por- tés par une tige en fer tordu en spirale reposant sur trois pieds.",2924,67.7,False,positional,,Murano,,,
 BO0624_5444,66606,664,622,DEUx BRAs appliques formes par des branchages en fer forge et dore. XVIle siecle.,2925,97.5,False,positional,,Murano,LAMPADE,,
-BO0624_5444,66607,665,623,"PETITE sTATUETTE en bronze representant une cariatide, deux coquilles a la place des bras.Art forentin. XVI siecle.",2926,98.2,False,positional,,Murano,,,
-BO0624_5444,66608,666,624,"Croix en bronze dore, decoree avec la figure du Pere Eternel en haut,la Vierge a gauche, Saint Jean a droite, une tete de mort en bas; et au revers les Quatre Evangelistes, Saint Dominique et l'Agneau Pascal, tout en ciselure orne en bronze en relief. Art italien. Commencement du XIVe siecle.",2930,89.7,False,positional,,Murano,BASSORILIEVI,,
+BO0624_5444,66607,665,623,"PETITE sTATUETTE en bronze representant une cariatide, deux coquilles a la place des bras.Art forentin. XVI siecle.",2926,98.2,False,positional,,Murano,,,Sec. XVI
+BO0624_5444,66608,666,624,"Croix en bronze dore, decoree avec la figure du Pere Eternel en haut,la Vierge a gauche, Saint Jean a droite, une tete de mort en bas; et au revers les Quatre Evangelistes, Saint Dominique et l'Agneau Pascal, tout en ciselure orne en bronze en relief. Art italien. Commencement du XIVe siecle.",2930,89.7,False,positional,,Murano,BASSORILIEVI,,Sec. XIV
 BO0624_5444,66609,667,625,LoT de deux broderies a petit point et petit etendard en velours rouge avec cartouche portant des armoiries. XVle siecle.,2937,98.3,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66610,668,626,"TAPis de table en damas rouge a feurs jaunes, avec frange. Haut.1.45—Long.2.00.",2938,82.4,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66611,669,627,DEUx cUIRAssEs et un justaucorps en peau claire pour costumes mousquetaire.,2940,87.8,False,positional,,,Tapisseries; Etoffes,,
@@ -672,13 +672,13 @@ BO0624_5444,66612,670,628,"CosTuME de paysanne alsacienne, en brocart blanc a bo
 BO0624_5444,66613,671,629,CosTuME d'homme en brocart rouge a petit dessin.,2944,95.9,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66614,672,8,XVIlI siecle.,2945,92.3,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66615,673,9,"63o. GRAND TAPIs oriental a grand dessin a feurs et cartouches polychromes sur fond rouge, six lampes et huit colonnes torses et feurs sur fond jaune, double bordure a feuillages a plusieurs couleurs.",2946,99.5,False,positional,,,LAMPADE,,
-BO0624_5444,66616,674,631,"BRoDERIEs representant:l'un la figure de la Sainte Vierge debout, nimbee avec l'Enfant Jesus dans ses bras, et les deux autres deux Saints, dans un cadre en bois sculpte. Fin du XVe siecle.",2950,95.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66616,674,631,"BRoDERIEs representant:l'un la figure de la Sainte Vierge debout, nimbee avec l'Enfant Jesus dans ses bras, et les deux autres deux Saints, dans un cadre en bois sculpte. Fin du XVe siecle.",2950,95.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XV
 BO0624_5444,66617,675,632,"TaPIs oriental a dessin geometrique a plusieurs couleurs sur fond bleu et bordure blanche avec le meme dessin du centre, entre deux petites bordures, l'une bleue brune et rouge et l'autre verte et rouge.",2952,95.1,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66618,676,633,GRAND TAPIS ancien oriental de priere a fond rouge et dessin polychrome a fleurs; feuillages et trois bordures a fleurs et feuillages polychromes.,2957,98.6,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66619,677,634,"TAPIs brode en soie a point hongrois, a plusieurs couleurs avec bordure brodee a grands rinceaux, feurs et feuillages sur fond blanc. XVII siecle.",2961,98.6,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66620,678,635,TAPIsSERIE. Une bataille navale. Laine et soie. Atelier de Bruxelles. XVII siecle.,2965,97.5,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66621,679,636,GRANDE TAPIssERIE a grande cartouche a losanze de forme contournee; grands rinceaux et feurs polychromes sur fond bleu. Travail francais. XVII siecle.,2968,98.6,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66622,680,637,"PoMMEAU de canne, en porcelaine blanche, representant une tete d'homme;la figure d'une femme a cote. XVIII siecle.",2976,98.2,False,title_direct,,,porcelaines,,
+BO0624_5444,66619,677,634,"TAPIs brode en soie a point hongrois, a plusieurs couleurs avec bordure brodee a grands rinceaux, feurs et feuillages sur fond blanc. XVII siecle.",2961,98.6,False,positional,,,Tapisseries; Etoffes,,Sec. XVII
+BO0624_5444,66620,678,635,TAPIsSERIE. Une bataille navale. Laine et soie. Atelier de Bruxelles. XVII siecle.,2965,97.5,False,positional,,,Tapisseries; Etoffes,,Sec. XVII
+BO0624_5444,66621,679,636,GRANDE TAPIssERIE a grande cartouche a losanze de forme contournee; grands rinceaux et feurs polychromes sur fond bleu. Travail francais. XVII siecle.,2968,98.6,False,positional,,,Tapisseries; Etoffes,,Sec. XVII
+BO0624_5444,66622,680,637,"PoMMEAU de canne, en porcelaine blanche, representant une tete d'homme;la figure d'une femme a cote. XVIII siecle.",2976,98.2,False,title_direct,,,porcelaines,,Sec. XVIII
 BO0624_5444,66623,681,638,ENFANT couche. Haut-relief en terre-cuite. Traces de polychro-,2977,96.7,False,positional,,Capodimonte,,,
 BO0624_5444,66624,682,639,"DEUx STATUETTES en terre-cuite, representant deux pecheurs indiens.",2981,97.0,False,positional,,Capodimonte,,,
 BO0624_5444,66625,683,64,"o. PAIRE DE PETITs VAsEs en majolique avec deux medaillons, portant l'un une vue de paysage, l'autre un bouquet de feurs; dorures, craqueles.",2989,99.3,False,positional,,Satzouma,VASI,,
@@ -688,13 +688,13 @@ BO0624_5444,66628,686,643,GRAND PLAT sur piedouche; au centre d'un écusson les 
 BO0624_5444,66629,687,644,BuIrE avec anse et petit goulot decore des armoiries entourees par deux branches de feuillages et fruits verts et jaunes sur fond blanc.XVlIe siecle.,3020,73.2,False,positional,,Faenza,,,
 BO0624_5444,66630,688,645,"CouPE de mariage. Au fond un oiseau et des ornements jaunes et manganese, au revers des ornementations et des r ies jaunes et verts sur fond blanc. Marquee S.",3024,86.3,False,positional,,Faenza,OGGETTI VARI,,
 BO0624_5444,66631,689,646,GRAND POT a biere en gres-cerame; couvercle en étain et deux brocs en gres-cerame bleu clair avec ornementations en relief bleu fonce. Gres-cerame allemand.,3040,98.7,False,positional,,Faenza,,,
-BO0624_5444,66632,690,647,"PETIT BRoc a bec orne d'un canard dans la panse sous le bec, et orne de feuillages dans le reste, vertes et gris fer. XVIe siecle. L'anse manque.",3045,98.6,False,positional,,la Fratta,,,
-BO0624_5444,66633,691,648,BAs-RELIEF en terre-cuite. La Vierge et l'Enfant (ebreche a gauche). Art forentin. XVIe siecle.,3049,97.8,False,positional,,la Fratta,BASSORILIEVI,,
+BO0624_5444,66632,690,647,"PETIT BRoc a bec orne d'un canard dans la panse sous le bec, et orne de feuillages dans le reste, vertes et gris fer. XVIe siecle. L'anse manque.",3045,98.6,False,positional,,la Fratta,,,Sec. XVI
+BO0624_5444,66633,691,648,BAs-RELIEF en terre-cuite. La Vierge et l'Enfant (ebreche a gauche). Art forentin. XVIe siecle.,3049,97.8,False,positional,,la Fratta,BASSORILIEVI,,Sec. XVI
 BO0624_5444,66634,692,649,"PAIRE DE GRANDs VAsEs en porcelaine, decores par quatre sce nes a figures, rinceaux et feurs polychromes.",3055,98.1,False,title_direct,,,VASI,,
-BO0624_5444,66635,693,65,o. PLAT sur piedouche legerement recourbe; cartouche portant une armoirie et deux medaillons histories aux deux cotés avec une ornementation jaune et le reste a grotesques sur fond blanc. XVIe siecle.,3063,99.5,False,positional,,Urbino,PIATTI,,
-BO0624_5444,66636,694,651,"DEUx GRANDs VAsEs de forme ovoide, a col évase, avec anses formees par des serpenis; decoration a sujets mythologiques. XIXe siecle.",3069,98.4,False,positional,,Farina-Faenza,VASI,,
+BO0624_5444,66635,693,65,o. PLAT sur piedouche legerement recourbe; cartouche portant une armoirie et deux medaillons histories aux deux cotés avec une ornementation jaune et le reste a grotesques sur fond blanc. XVIe siecle.,3063,99.5,False,positional,,Urbino,PIATTI,,Sec. XVI
+BO0624_5444,66636,694,651,"DEUx GRANDs VAsEs de forme ovoide, a col évase, avec anses formees par des serpenis; decoration a sujets mythologiques. XIXe siecle.",3069,98.4,False,positional,,Farina-Faenza,VASI,,Sec. XIX
 BO0624_5444,66637,695,652,"GRANDE BUIRE avec les armoiries de l'Ordre des Franciscains, avec la tiare et les saintes clefs au dessus, ornement vert autour, fond blanc. XVIlIe siecle.",3075,86.8,False,positional,,Montelupo,,,
-BO0624_5444,66638,696,653,"JE LES RELIS AVEC PLAISIR, peint par Mlle Gerard. Grave par Vidal. Cadre bois. XVIII siecle.",3081,97.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66638,696,653,"JE LES RELIS AVEC PLAISIR, peint par Mlle Gerard. Grave par Vidal. Cadre bois. XVIII siecle.",3081,97.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_5444,66639,697,654,"L'ANNONCIATION, eau-forte du tableau qui se trouve a Rome a la Galerie Corsini. Signee:Federicus Barocius.Urb. invenit excudit. Marges.",3085,98.5,False,title_direct,,,Tableau,,
 BO0624_5444,66640,698,655,"NEUF ESTAMPEs,representant des personnages de la famille Granducale des Medicis.",3089,97.5,False,positional,Halluch; Gregori,,STAMPE E INCISIONI,,
 BO0624_5444,66641,699,656,"LA CAVALCADE faite a Bologne pour le Couronnement de Charles V,",3090,96.9,False,positional,Halluch; Gregori,,LAMPADE,,
@@ -702,20 +702,20 @@ BO0624_5444,66642,700,657,"L'ANNONCE AUX PATREs de la naissance de Jesus, d'apre
 BO0624_5444,66643,701,658,"HuIT ESTAMPEs d'apres les cartons de Raphael pour les tapisse- ries du Vatican,qui se trouvent a Hampton Court.",3117,70.1,False,positional,Dorigny Nic.,,OGGETTI VARI,,
 BO0624_5444,66644,702,659,LoT de seize estampes a differents sujets.,3124,95.3,False,title_direct,,,estampes,,
 BO0624_5444,66645,703,659,"bis. LE MAssACRE DEs INNOcENTs, etude pour un tableau a",3128,97.2,False,title_direct,,,Tableau,,
-BO0624_5444,66646,704,66,"o. PoRTRAIT de Laurent Bernini,en buste dans un medaillon a volutes en grisaille. Peinture sur toile. Cadre sculpte et dore. XVII siecle.",3136,99.2,False,title_direct,Bernini,,,,
+BO0624_5444,66646,704,66,"o. PoRTRAIT de Laurent Bernini,en buste dans un medaillon a volutes en grisaille. Peinture sur toile. Cadre sculpte et dore. XVII siecle.",3136,99.2,False,title_direct,Bernini,,,,Sec. XVII
 BO0624_5444,66647,705,661,"UN CAVALIER et une aame, costume du XVIl siecle et un mousquetaire qui se repose a cote de sa monture. Signe:P. Nauen - 81.Cadre en bois dore.",3140,98.6,False,positional,Baciccia,,OGGETTI IN LEGNO,,
 BO0624_5444,66648,706,662,L'ADORATION DES RoIs MAGEs. Bois. Cadre doré.,3144,95.5,False,positional,Liberi P.,,OGGETTI IN LEGNO,,
-BO0624_5444,66649,707,663,"MINERvE, esquisse d'Ecole Venitienne, dans un cadre en bois de poirier a moulures et verres peints a chimeres, cariatides et autres ornements. Fin du XVI siecle.",3148,98.7,False,title_direct,,Ecole Venitien,OGGETTI IN LEGNO,,
+BO0624_5444,66649,707,663,"MINERvE, esquisse d'Ecole Venitienne, dans un cadre en bois de poirier a moulures et verres peints a chimeres, cariatides et autres ornements. Fin du XVI siecle.",3148,98.7,False,title_direct,,Ecole Venitien,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66650,708,664,"PoRTRAIT de jeune dame en buste, vue de face, decolletee,une rose sur la poitrine. Pastel. Cadre noir a moulure.",3155,68.6,False,positional,Bunsel Ch.,,,,
 BO0624_5444,66651,709,665,"PoRTRAIT de Procurateur de la Republique de Venise,les gants dans la main droite. Peinture sur bois. Cadre ancien en bois de noyer avec dorures.",3164,91.4,False,title_direct,,Venise,OGGETTI IN LEGNO,,
 BO0624_5444,66652,710,666,"PoRTRAIT de jeune dame a mi-corps, vue de face, toilette en soie bleue, decolletee,éventail dans la main gauche. Peinture sur toile. Cadre dore. XVIle siecle.",3173,98.7,False,positional,,Ecole Francaise,OGGETTI VARI,,
-BO0624_5444,66653,711,667,"AIGLE IMPERIAL a deux tetes, portant un écusson avec les ar- moiries des Medicis. Bois sculpte. Fin du XVIe siecle.",3177,67.4,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66653,711,667,"AIGLE IMPERIAL a deux tetes, portant un écusson avec les ar- moiries des Medicis. Bois sculpte. Fin du XVIe siecle.",3177,67.4,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66654,712,668,"PETIT BAS-RELIEF en marbre: Un enfant debout aux cheveux longs vetu d'une peau, un baton dans la main gauche. Art",3182,98.2,False,positional,,,BASSORILIEVI,,
-BO0624_5444,66655,713,2,forentin. Fin du XVe siecle.,3183,96.3,False,positional,,,Sculptures,,
+BO0624_5444,66655,713,2,forentin. Fin du XVe siecle.,3183,96.3,False,positional,,,Sculptures,,Sec. XV
 BO0624_5444,66656,714,3,TETE DE CHERUBIN en terre-cuite.,3184,96.9,False,positional,,,Sculptures,,
 BO0624_5444,66657,715,669,"PIED en marbre noir,chausse de sandale. Fragment de statue grecque.",3190,97.0,False,positional,,,OGGETTI VARI,,
 BO0624_5444,66658,716,67,"ou GroUPE en marbre rouge, representant un cheval assailli par un",3193,98.5,False,positional,,,Sculptures,,
-BO0624_5444,66659,717,671,"GrouPE en pierre sculptee a haut-relief, polychrome, representant la Sainte Vierge assise, tournee a gauche. qui tend son sein a l'Enfant Jesus assis sur sa jambe droite. XVe siecle.",3198,78.8,False,positional,,,Sculptures,,
+BO0624_5444,66659,717,671,"GrouPE en pierre sculptee a haut-relief, polychrome, representant la Sainte Vierge assise, tournee a gauche. qui tend son sein a l'Enfant Jesus assis sur sa jambe droite. XVe siecle.",3198,78.8,False,positional,,,Sculptures,,Sec. XV
 BO0624_5444,66660,718,672,"FRAGMENT en marbre: Figure d'homme debout, manquant de la tete,le pied gauche et parties des bras. Art greco-romain.",3203,98.2,False,positional,,,OGGETTI VARI,,
 BO0624_5444,66661,719,673,"TETE DE VIEILLARD, vue de face. Costume du commencement du XVIle siecle. Toile. Cadre ancien en bois dore.",3211,67.1,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
 BO0624_5444,66662,720,674,"JEUNE FEMME a mi-corps, avec coiffe blanche, demi-decolletée, una carafe de vin dans la main droite, un verre dans la gauche. Peinture sur toile ovale. Cadre en bois doré.",3216,98.8,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
@@ -726,30 +726,30 @@ BO0624_5444,66666,724,678,"QuATRE PORTEURs, études au fusain pour le tableau Le
 BO0624_5444,66667,725,679,ETuDE: Tete de vieillard appuye sur une canne. Dessin au fu- sain sur papier. Cadre ancien en bois doré.,3234,98.0,False,positional,Gelli E.,,OGGETTI IN LEGNO,,
 BO0624_5444,66668,726,68,"o. MEuBLE a tiroirs et vantaux en laque, avec incrustations de porcelaine sur socle porte par quatre pieds. Travail chinois.",3240,99.2,False,title_direct,,,Porcelaines,,
 BO0624_5444,66669,727,681,"FAuTEuIL en bois avec legere sculpture, representant un vase de feurs en haut du dossier et devant le siege.Art famande.",3242,98.3,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66670,728,682,"PENDULE, dans sa caisse en bois et socle cul-de-lampe, avec ornements en bronze ciseles et dores style Louis XV. XVIIe siecle.",3247,92.8,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
+BO0624_5444,66670,728,682,"PENDULE, dans sa caisse en bois et socle cul-de-lampe, avec ornements en bronze ciseles et dores style Louis XV. XVIIe siecle.",3247,92.8,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_5444,66671,729,683,"PENDULE en bois vert clair, socle cul-de-Jampe, avec ornements en bronze cisele et dore. XVIle siecle.",3252,98.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66672,730,684,"PAIRE DE FAUTEUILs en bois dore,recouverts en Aubusson bleuclair;un medaillon blanc portant le monogramme E. KB., avec une couronne dans une guirlande, dans le dossier.",3256,81.6,False,positional,,,AUBUSSONS,,
 BO0624_5444,66673,731,685,"FAUTEUIL en bois dore, recouverte en Aubusson rouge avec car- touches de feurs sur fond blanc.",3261,76.6,False,positional,,,AUBUSSONS,,
 BO0624_5444,66674,732,686,PETITE CoMMoDE a deux tiroirs;poignees en bronze cisele et dore; pieds coutournes avec ornements en bronze cisele et dore.,3266,98.4,False,positional,,,OGGETTI VARI,,
 BO0624_5444,66675,733,687,"TABLE en bois octogone a bords releves decore en laque a des- sins geometriques polychromes; un rideau qui couvre le pied, en soie. Travail indien.",3271,72.9,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66676,734,688,"CABINET a tiroir, avec architecture au milieu. Commencement du XVII siecle.",3274,97.3,False,positional,,,Meubles,,
+BO0624_5444,66676,734,688,"CABINET a tiroir, avec architecture au milieu. Commencement du XVII siecle.",3274,97.3,False,positional,,,Meubles,,Sec. XVII
 BO0624_5444,66677,735,689,GLAcE avec cadre en bois sculpte et dore a feuillages et fleurs.,3278,96.9,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66678,736,2,XVIIe siecle.,3279,92.3,False,positional,,Scuola Fiorentina,Meubles,,
+BO0624_5444,66678,736,2,XVIIe siecle.,3279,92.3,False,positional,,Scuola Fiorentina,Meubles,,Sec. XVII
 BO0624_5444,66679,737,69,"o. PupIrRE a deux faces en bois de noyer porte par une colonne, sur trois pieds.",3285,98.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66680,738,691,"PAIRE DE sUPPORTS appliques, en bois sculpte et doré.",3289,96.2,False,positional,,,LAMPADE,,
 BO0624_5444,66681,739,692,"PARAvENT a deux pieces, recouvert d'etofe blanche a feurs et branches de feuillages brodees en or et couleurs, bordee par",3293,98.3,False,positional,,,ARREDAMENTI,,
-BO0624_5444,66682,740,2,une dentelle en or. XVIIe siecle.,3294,96.9,False,positional,,,Meubles,,
-BO0624_5444,66683,741,3,XVII siecle.,3295,91.7,False,positional,,Scuola Napoletana,Meubles,,
-BO0624_5444,66684,742,693,"GRAND CABINET en bois de noyer et ebene a marqueterie en ivoire,la partiecentrale a dessin architectural a balustres et colonnes. Art forentin. XVI siecle.",3299,86.5,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66685,743,694,CoFFRE de mariage en bois de noyer; deux jolies figures aux XVI siecle.,3304,88.5,False,positional,,,BAULI,,
+BO0624_5444,66682,740,2,une dentelle en or. XVIIe siecle.,3294,96.9,False,positional,,,Meubles,,Sec. XVII
+BO0624_5444,66683,741,3,XVII siecle.,3295,91.7,False,positional,,Scuola Napoletana,Meubles,,Sec. XVII
+BO0624_5444,66684,742,693,"GRAND CABINET en bois de noyer et ebene a marqueterie en ivoire,la partiecentrale a dessin architectural a balustres et colonnes. Art forentin. XVI siecle.",3299,86.5,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5444,66685,743,694,CoFFRE de mariage en bois de noyer; deux jolies figures aux XVI siecle.,3304,88.5,False,positional,,,BAULI,,Sec. XVI
 BO0624_5444,66686,744,695,"DEUx TABoURETs en bois dore, recouverts en ancien damas rose",3309,96.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66687,745,2,a fleurs.,3310,88.9,False,positional,,,Meubles,,
 BO0624_5444,66688,746,3,"695bis. PETIT FAUTEUIL carre en bois sculpte et dore recouvert d'etoffe en soie rose a rainures, feuillages et feurs.",3311,99.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66689,747,696,"DEUx FACTEUILS époque Louis XVI, blanc et or, recouverts d'etoffe de soie a rainures et feuillages rose.",3312,98.1,False,positional,,,Meubles,,
 BO0624_5444,66690,748,697,"HoRLoGE dans sa caisse en bois noir, avec decorationsa rinceaux de bronze cisele et dore, porte par quatre pieds con- tournes;petite statue en bronze en haut. XVIl siecle.",3315,80.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66691,749,698,"PENDULE famande dans sa caisse en bois,en haut un vase avec une famme en bronze dore cisele. XVll siecle.",3320,98.1,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66692,750,699,"BaNc d'antichambre en bois de noyer, posant sur six pieds a balustre, relies par des traverses. XVIe siecle.",3324,98.1,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66693,751,70,"o. TABLE en bois de noyer, avec pieds a lyre. XVI siecle. Haut.o.83—Long.1.55.",3328,98.6,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66692,750,699,"BaNc d'antichambre en bois de noyer, posant sur six pieds a balustre, relies par des traverses. XVIe siecle.",3324,98.1,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5444,66693,751,70,"o. TABLE en bois de noyer, avec pieds a lyre. XVI siecle. Haut.o.83—Long.1.55.",3328,98.6,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66694,752,7,oI.PAIRE DE PETITES AMPOULES en verre.,3337,98.7,False,positional,,,Mardi 17 Mai,,
 BO0624_5444,66695,753,702,BoussoLE octogone en bronze ciselee. Signee And. Vogl; sablier monte en bronze et petit vase en bronze avec couvercle contenant quadre poids. XVIl siecle.,3341,98.7,False,positional,,,VASI,,
 BO0624_5444,66696,754,2,"7o3. LAMPE d'autel en cuivre argente, a ornements repousses et trois tetes de Cherubins, portee par trois chaines. XVIl siecle.",3342,99.2,False,positional,,,OGGETTI VARI,,
@@ -758,7 +758,7 @@ BO0624_5444,66698,756,4,705.CORNEMUSE.,3344,92.9,False,positional,,,Mardi 17 Mai
 BO0624_5444,66699,757,5,7o6. GRAND TROMBONE en cuivre jaune.Ophicleide.,3345,97.8,False,positional,,,Mardi 17 Mai,,
 BO0624_5444,66700,758,707,"MANDoLINE. Signee Francesco Tresbler e Giuseppe figlio in Mi lano contrada della Dogana al segno del Sole,I768.",3346,98.2,False,positional,,,Mardi 17 Mai,,
 BO0624_5444,66701,759,708,"CoLONNE torse support, en bois de noyer, avec pied circulaire. Haut.1.30.",3347,97.2,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66702,760,709,"GRAND CADRE en bois de poirier, avec glace. XVII siecle. Haut.1.7o-Larg.I.50.",3348,97.3,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66702,760,709,"GRAND CADRE en bois de poirier, avec glace. XVII siecle. Haut.1.7o-Larg.I.50.",3348,97.3,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_5444,66703,761,710,PEAU DE TIGRE.,3349,86.7,False,positional,,,Mardi 17 Mai,,
 BO0624_5444,66704,762,711,PEAU DE LION.,3350,85.7,False,positional,,,Mardi 17 Mai,,
 BO0624_5444,66705,763,712,CoLONNE en albatre oriental.,3351,93.1,False,positional,,,Mardi 17 Mai,,
@@ -766,8 +766,8 @@ BO0624_5444,66706,764,713,"MEDAILLE en argent, d'un cote le buste du Pape Pie V,
 BO0624_5444,66707,765,714,NARGHILE en bronze cisele avec legeres incrustations de tur-,3361,96.7,False,positional,,,Mardi 17 Mai,,
 BO0624_5444,66708,766,715,"BRuLE-PARFUMS en bronze, compose de trois pieces, sur base a trois pieds. Inscription japonaise en relief.",3367,98.1,False,positional,,,Mardi 17 Mai,,
 BO0624_5444,66709,767,716,"GoBELET en bronze argente et dore, entierement grave en relief.",3368,96.8,False,positional,,,Mardi 17 Mai,,
-BO0624_5444,66710,768,717,DEUX HORLOGES en bronze. XVII siecle.,3373,94.6,False,positional,,Hollandaise,,,
-BO0624_5444,66711,769,718,DeUx BRAs appliques en fer forge a rinceaux. XVI siecle.,3374,96.4,False,positional,,Hollandaise,LAMPADE,,
+BO0624_5444,66710,768,717,DEUX HORLOGES en bronze. XVII siecle.,3373,94.6,False,positional,,Hollandaise,,,Sec. XVII
+BO0624_5444,66711,769,718,DeUx BRAs appliques en fer forge a rinceaux. XVI siecle.,3374,96.4,False,positional,,Hollandaise,LAMPADE,,Sec. XVI
 BO0624_5444,66712,770,719,FoURREAU ancien en cuir gaufre. XVIl siecle.,3375,95.5,False,positional,,Hollandaise,,,
 BO0624_5444,66713,771,4,"PAIRE DE FOURREAUX de selle d''armes, avec pointe en bronze. XVIlI siecle.",3376,98.6,False,positional,,Hollandaise,,,
 BO0624_5444,66714,772,5,"72o. PoIGNARD a ceinture, oriental; manche en ivoire guilloche.",3377,98.3,False,positional,,Hollandaise,,,
@@ -775,13 +775,13 @@ BO0624_5444,66715,773,721,"DeUx POIREs a poudre en cristal, avec un sujet de cha
 BO0624_5444,66716,774,722,SABRE oriental avec gaine et poignee en bronze grave. La lame (moderne) porte l'inscription: Vincere o morire.,3379,98.1,False,positional,,Hollandaise,,,
 BO0624_5444,66717,775,723,"PeTIT VASE en bronze, a deux anses, orne en bas-relief par des",3380,96.8,False,positional,,Hollandaise,BASSORILIEVI,,
 BO0624_5444,66718,776,3,"scenes de centaures, monte sur un socle circulaire en marbre rouge.",3381,98.5,False,positional,,Hollandaise,,,
-BO0624_5444,66719,777,726,"TREPIED en fer forge, a rinceaux et feurs, portant un bassin en cuivre jaune, a deux anses. XVI siecle.",3387,98.0,False,positional,,Hollandaise,,,
+BO0624_5444,66719,777,726,"TREPIED en fer forge, a rinceaux et feurs, portant un bassin en cuivre jaune, a deux anses. XVI siecle.",3387,98.0,False,positional,,Hollandaise,,,Sec. XVI
 BO0624_5444,66720,778,727,"Deux vAsEs a goulot tres fin en bronze cloisonne a feurs polychromes sur fond bleu, avec leurs plateaux. Ancien art",3391,98.3,False,positional,,Hollandaise,VASI,,
 BO0624_5444,66721,779,728,GuERIDoN octogone en bois cisele; linterieur du plan est en bronze cisele a dessins geometriques et a feuillages et poissons. Art persan.,3395,98.5,False,positional,,Hollandaise,OGGETTI IN LEGNO,,
 BO0624_5444,66722,780,729,"PAIRE DE PETITs VAsES en bronze, avec branches de feuillages ciselees en or.",3399,97.4,False,positional,,Hollandaise,VASI,,
 BO0624_5444,66723,781,73,"o. BELLE ARQUEBUSE orientale, avec crosse entierement plaquee en fer repousse et finement cisele. XVIl siecle.",3403,99.1,False,positional,,Hollandaise,,,
 BO0624_5444,66724,782,731,GuisARME a double crochet; ornementations de style oriental au poincon. Art italien.XVI siecle,3404,97.9,False,positional,,Hollandaise,,,
-BO0624_5444,66725,783,732,"CroIx processionelle plaquee en cuivre doree repoussee a jour, enrichie sur les deux faces de figures et de symboles en cuivre repousse et cisele. D'un cote, le Crucifix, la Madeleine,la Sainte Vierge et Saint Jean; au revers Saint Mathieu, Saint Jean et DEUX ETRIERS en fer. XVI siecle.",3405,93.4,False,positional,,Hollandaise,,,
+BO0624_5444,66725,783,732,"CroIx processionelle plaquee en cuivre doree repoussee a jour, enrichie sur les deux faces de figures et de symboles en cuivre repousse et cisele. D'un cote, le Crucifix, la Madeleine,la Sainte Vierge et Saint Jean; au revers Saint Mathieu, Saint Jean et DEUX ETRIERS en fer. XVI siecle.",3405,93.4,False,positional,,Hollandaise,,,Sec. XVI
 BO0624_5444,66726,784,733,"TuNIQUE pour costume Louis XV, en satin lilas clair, broche a bouquets de feurs.",3416,97.5,False,positional,,Periodo di Luigi XV,Tapisseries; Etoffes,,
 BO0624_5444,66727,785,734,"DEUX JUXTAUcORPs. Costume de mousquetaire,en peau claire l'un avec manches en velours mauve avec broderies en argent.",3418,68.2,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66728,786,735,"CoUvERTURE de lit en moire jaune, avec frange. Haut.2.72—Long.3.90.",3419,97.0,False,positional,,,Tapisseries; Etoffes,,
@@ -792,37 +792,37 @@ BO0624_5444,66732,790,739,TAPIs de table brode a point de Hongrie.,3431,95.1,Fal
 BO0624_5444,66733,791,740,PoRTIERE en satin rouge brodee en or. Travail oriental. Haut.3.30—Larg.1.8o.,3435,97.3,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66734,792,741,RoBE DE CEREMoNIE en soie blanche brodee en argent. Epoque Premier Empire.,3436,97.3,False,positional,,,Tapisseries; Etoffes,,
 BO0624_5444,66735,793,742,"GRAND TAPIS oriental a dessin bleu clair, bleu fonce et jaune; bordure aux memes couleurs.",3437,79.5,False,positional,,,Tapisseries; Etoffes,,
-BO0624_5444,66736,794,743,"STATUETTE en terre-cuite representant la Sainte Vierge, a genoux, en priere. Art forentin. (Traces d'ancienne polychromie). Fin du XVe siecle.",3443,98.5,False,positional,,,Faiences; Porcelaines,,
+BO0624_5444,66736,794,743,"STATUETTE en terre-cuite representant la Sainte Vierge, a genoux, en priere. Art forentin. (Traces d'ancienne polychromie). Fin du XVe siecle.",3443,98.5,False,positional,,,Faiences; Porcelaines,,Sec. XV
 BO0624_5444,66737,795,744,"PLAT sur piedouche, decore d’un chien courant a droite; feurs jaunes et rosaces bleues sur fond vert. XVll siecle.",3456,78.8,False,positional,,Faenza,PIATTI,,
 BO0624_5444,66738,796,745,"STATuETTE en porcelaine blanche. Figure de femme nue jusqu'a mi-corps, qui se drape avec la main gauche appuyee a un tronc d'arbre. Socle circulaire orne en relief. Vieux Ginori. (Manquent",3461,98.9,False,title_direct,,Ginori,porcelaines,,
 BO0624_5444,66739,797,746,"PAIRE DE COMPoTIERS en porcelaine, avec couvercle et deux anses, decores des branches de feurs et feuillages, bleues sur fond blanc.XVIl siecle.",3471,98.6,False,title_direct,,,porcelaines,,
 BO0624_5444,66740,798,747,DEUX STATUETTES en porcelaine blanche. Un Monsieur qui joue de la viele et la Dame qui danse. XVIll siecle.,3475,98.1,False,title_direct,,,porcelaines,,
 BO0624_5444,66741,799,748,DeUX STATUETTEs. L'homme jouant du luth et la dame ebauchant un pas de danse. XVIlle siecle.,3480,97.8,False,positional,,Capodimonte,,,
-BO0624_5444,66742,800,749,"PLAT decore en bleu a feuillages et rinceaux; au centre un dessin geometrique jaune et bleu, sur fond blanc. Cadre en bois dore. XVIe siecle.",3486,98.6,False,positional,,Faenza,OGGETTI IN LEGNO,,
+BO0624_5444,66742,800,749,"PLAT decore en bleu a feuillages et rinceaux; au centre un dessin geometrique jaune et bleu, sur fond blanc. Cadre en bois dore. XVIe siecle.",3486,98.6,False,positional,,Faenza,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66743,801,750,"PLATEAU a bords releves, decore par une branche de feurs et deux oiseaux bleu jaune sur fond laiteux;l'ornementation est",3492,98.3,False,positional,,Montelupo,,,
 BO0624_5444,66744,802,751,PAIRE D'AIGUIEREs decorees en bleu sur fond blanc et grand vase de forme ovoide decore a feurs sur fond bleu. Faience moderne.,3496,98.4,False,title_direct,,,VASI,,
 BO0624_5444,66745,803,752,"PAIRE DE PLATS sur piedouches, decores d'oiseaux et feurs",3500,96.6,False,positional,,Faenza,PIATTI,,
 BO0624_5444,66746,804,753,"GRAND PLAT decore de la figure d'un homme jouant de la trompette dans une prairie,bleu sur fond blanc. Marque retro M.O.en creux.XVIIe siecle. relevee en graffito.XVIll siecle.",3508,88.3,False,positional,,Savona,PIATTI,,
-BO0624_5444,66747,805,754,"PLAT creux decore au fond d'une scene mythologique, une nymphe enlevee au bord de la mer, au bord quatre amours et feuillages jaunes et bleues sur fond blanc. XVIe siecle. Restaure.",3514,75.4,False,positional,,Faenza,PIATTI,,
+BO0624_5444,66747,805,754,"PLAT creux decore au fond d'une scene mythologique, une nymphe enlevee au bord de la mer, au bord quatre amours et feuillages jaunes et bleues sur fond blanc. XVIe siecle. Restaure.",3514,75.4,False,positional,,Faenza,PIATTI,,Sec. XVI
 BO0624_5444,66748,806,755,"FLAMBEAU en porcelaine blanche, representant un satyre.",3521,96.4,False,title_direct,,,porcelaines,,
 BO0624_5444,66749,807,756,THEIERE en porcelaine blanche avec decoration en or et vert.,3525,96.7,False,title_direct,,,porcelaines,,
-BO0624_5444,66750,808,757,"STATUETTE en terre-cuite polychrome representant Saint Augus- tin assis, la main droite levee pour benir, les Saints Evangiles dans la gauche. Art forentin. XVI siecle.",3527,77.0,False,positional,,Capodimonte,,,
+BO0624_5444,66750,808,757,"STATUETTE en terre-cuite polychrome representant Saint Augus- tin assis, la main droite levee pour benir, les Saints Evangiles dans la gauche. Art forentin. XVI siecle.",3527,77.0,False,positional,,Capodimonte,,,Sec. XVI
 BO0624_5444,66751,809,758,"GRAND vAsE a panse a deux anses, decore a grandes feuillages vertes et fleurs jaunes, fond blanc. XVIl siecle.",3533,98.1,False,positional,,Montelupo,VASI,,
 BO0624_5444,66752,810,759,"DEUX GRANDs PLATS creux decores au centre de deux oiseaux qui se becquettent, dans le bord feuillages et ornementations. XVIlle siecle.",3539,98.5,False,positional,,Montelupo,PIATTI,,
 BO0624_5444,66753,811,76,"o. DEUX STATUETTEs en porcelaine blanche, representant un homme avec un panier dans les mains, l'une; une femme avec une corbeille au dos l'autre.",3545,99.3,False,title_direct,,,porcelaines,,
-BO0624_5444,66754,812,761,"GRAND VASE en forme de balustre,a gorge relie a la panse par des anses representant deux syrenes, piedouche circulaire, decore d'un sujet historique romain. Fin du XVI siecle.",3548,98.8,False,positional,,Urbino,VASI,,
+BO0624_5444,66754,812,761,"GRAND VASE en forme de balustre,a gorge relie a la panse par des anses representant deux syrenes, piedouche circulaire, decore d'un sujet historique romain. Fin du XVI siecle.",3548,98.8,False,positional,,Urbino,VASI,,Sec. XVI
 BO0624_5444,66755,813,762,PoRTRAIT de Nicolas Poussin. Signe Rome 165o. Estampe avec cadre ancien en bois noir.,3556,97.6,False,title_direct,POUSSIN NICOLAS,,Estampes,,
-BO0624_5444,66756,814,763,"SAPHo. F.Bartoloxzi, sculpsit. 1797. Epreuve premier état. Marges.",3560,96.8,False,title_direct,Bartolozzi,,,,
+BO0624_5444,66756,814,763,"SAPHo. F.Bartoloxzi, sculpsit. 1797. Epreuve premier état. Marges.",3560,96.8,False,title_direct,Bartolozzi,,,,Sec. XVIII
 BO0624_5444,66757,815,764,VeNUs au milieu des amours qui jouent. Signee P. T. Estampe avec cadre en bois.,3564,97.4,False,title_direct,,,Estampes,,
 BO0624_5444,66758,816,765,LE PRINTEMPs d'apres Watteau. Estampe avec cadre en bois noir et dorure.,3568,97.2,False,title_direct,WATTEAU FRANCOIS,,Estampes,,
 BO0624_5444,66759,817,766,LE DEPART pour la chasse d'apres Van der Meulen. Estampe. Haut.o.305—Long.o.445.,3576,97.5,False,title_direct,,,Estampes,,
 BO0624_5444,66760,818,767,LoT de 52 estampes d'ornementations par differents artistes.,3585,96.7,False,title_direct,,,estampes,,
 BO0624_5444,66761,819,768,LoT de neuf arbres genealogiques de familles regnantes de l'Eu- rope. Estampes.,3586,87.3,False,title_direct,,,Estampes,,
 BO0624_5444,66762,820,769,"L'ANNONCIATION, avec vue du Chateau d'Urbino par la fenetre. Peinture sur bois. Cadre ancien en bois legerement dore. Haut.o.44 ——Larg. 0.34.",3600,98.5,False,title_direct,,Urbino,OGGETTI IN LEGNO,,
-BO0624_5444,66763,821,770,"LA SAINTE VIERGE, 1'Enfant Jésus et Saint Jean, fond de paysage. Peinture Bois. Cadre en bois. Commencement du XVI siecle.",3604,67.4,False,positional,,Ecole venitienne,OGGETTI IN LEGNO,,
-BO0624_5444,66764,822,771,"SAINT ANTOINE, a mi-corps debout, un livre dans la main droite, une feuille de palmier dans la gauche. Peinture sur bois. Cadre dore. XVe siecle.",3613,98.6,False,positional,,Ecole florentine,OGGETTI IN LEGNO,,
-BO0624_5444,66765,823,773,"PAysAGE hollandais, un moulin a vent sur le bord d'une riviere, des vaches dans la prairie. Signe Herman Baisch 1882. Cadre",3618,98.3,False,positional,,Ecole florentine,,,
-BO0624_5444,66766,824,774,"SuZANNE assise demi-nue au bord du bain devant une fontaine, les deux vieillards qui l'admirent. Fond de paysage. Peinture. Toile. Cadre ancien en bois sculpte et dore. XVI siecle.",3624,98.9,False,positional,,Ecole du Titien,OGGETTI IN LEGNO,,
+BO0624_5444,66763,821,770,"LA SAINTE VIERGE, 1'Enfant Jésus et Saint Jean, fond de paysage. Peinture Bois. Cadre en bois. Commencement du XVI siecle.",3604,67.4,False,positional,,Ecole venitienne,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_5444,66764,822,771,"SAINT ANTOINE, a mi-corps debout, un livre dans la main droite, une feuille de palmier dans la gauche. Peinture sur bois. Cadre dore. XVe siecle.",3613,98.6,False,positional,,Ecole florentine,OGGETTI IN LEGNO,,Sec. XV
+BO0624_5444,66765,823,773,"PAysAGE hollandais, un moulin a vent sur le bord d'une riviere, des vaches dans la prairie. Signe Herman Baisch 1882. Cadre",3618,98.3,False,positional,,Ecole florentine,,,Sec. XIX
+BO0624_5444,66766,824,774,"SuZANNE assise demi-nue au bord du bain devant une fontaine, les deux vieillards qui l'admirent. Fond de paysage. Peinture. Toile. Cadre ancien en bois sculpte et dore. XVI siecle.",3624,98.9,False,positional,,Ecole du Titien,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66767,825,775,"LA SAINTE FAMILLE. Toile. Cadre ancien, bois sculpte et dore.",3632,96.6,False,positional,Grechetto,,OGGETTI IN LEGNO,,
 BO0624_5444,66768,826,776,DEUX FIGURES en priere. Etudes pour le tableau Le transport du Christ. Dessins au fusain sur carton. Cadre en bois.,3642,98.2,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_5444,66769,827,777,EsQUIssE pour le tableau L'aigle noir. Toile. Cadre bois dore. Haut.0.27-Larg.0.57.,3652,97.5,False,title_direct,,,OGGETTI IN LEGNO,,
@@ -838,14 +838,14 @@ BO0624_5444,66778,836,786,"GRAND FAUTEUIL en bois de noyer,a bras se terminant p
 BO0624_5444,66779,837,787,GRAND FAUTEUIL en bois de noyer avec dorures recouvert en broderie au point hongrois. XVIle siecle.,3712,98.0,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66780,838,788,"CoMMoDE en bois, orne de marqueteries claires, a trois grands et deux petits tiroirs; poignees en bronze cisele et dore. Travail venitien. XVIle siecle.",3716,98.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66781,839,789,FAUTEUIL et deux tabourets en bois de noyer recouverts d'étoffe a feurs et feuillages sur fond blanc. Epoque Louis XIV.,3720,98.3,False,title_direct,,,OGGETTI IN LEGNO,,
-BO0624_5444,66782,840,2,79o. CaBINET a tiroirs en ebene et ivoire; coins et poignees en bronze. Art venitien. XVIe siecle.,3721,98.9,False,positional,,,Meubles,,
+BO0624_5444,66782,840,2,79o. CaBINET a tiroirs en ebene et ivoire; coins et poignees en bronze. Art venitien. XVIe siecle.,3721,98.9,False,positional,,,Meubles,,Sec. XVI
 BO0624_5444,66783,841,791,"GRANDE TABLE de forme rectangulaire en bois de noyer sculpte, supportee par deux piliers a feuillages et volutes, relies par une traverse.",3726,71.1,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66784,842,792,"DEUX GRANDES CONSOLES en bois sculpte, a grandes volutes, avec legeres dorures. XVIIe siecle.",3730,97.8,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66784,842,792,"DEUX GRANDES CONSOLES en bois sculpte, a grandes volutes, avec legeres dorures. XVIIe siecle.",3730,97.8,False,positional,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_5444,66785,843,793,"DEUX BERGERES en bois dore, recouvertes en ancien damas",3734,96.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66786,844,794,GRAND SUPPORT d'appui en bois sculpte et dore a grandes volutes.XVIIe siecle.,3739,97.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66787,845,795,"DEUx CHAisEs a X en bois de noyer, dossier avec cartouches sculptees.",3743,89.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_5444,66788,846,796,PeNDULE dans sa caisse en marbre noir a feuillages gravees et dorees.,3745,97.1,False,positional,,,Meubles,,
 BO0624_5444,66789,847,797,"DEUX CHAIsEs en bois de noyer, a dossier droit, avec des cartouches a marqueterie entouree des volutes sculptees. Art forentin.XVI siecle.",3749,98.5,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_5444,66790,848,798,CHAIsE a dossier haut recouverte d'une etoffe brodee a point de Hongrie jaune vert. XVIIe siecle.,3750,97.9,False,positional,,,Meubles,,
-BO0624_5444,66791,849,799,PETIT TABERNACLE en bois dore de forme architecturale porte sur un pied carre avec la figure d'un saint. XVIe siecle.,3754,98.3,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_5444,66790,848,798,CHAIsE a dossier haut recouverte d'une etoffe brodee a point de Hongrie jaune vert. XVIIe siecle.,3750,97.9,False,positional,,,Meubles,,Sec. XVII
+BO0624_5444,66791,849,799,PETIT TABERNACLE en bois dore de forme architecturale porte sur un pied carre avec la figure d'un saint. XVIe siecle.,3754,98.3,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_5444,66792,850,8,"oo.PARAvENT a quatre compartiments, recouvert en velours jaune avec oiseaux et fleurs brodes en soie et argent. Travail ja-",3758,99.6,False,positional,,,ARREDAMENTI,,

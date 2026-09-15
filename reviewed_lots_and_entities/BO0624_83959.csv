@@ -33,8 +33,8 @@ BO0624_83959,102780,31,1054,peintures de la grandeur de la page;,230,94.6,False,
 BO0624_83959,102781,32,3,"oEn tete du manuscrit les armoiries de la famille de Clermont-Tonnerre, pour un membre de laquelle ce charmant manuscrit parait avoir ete execute.",232,99.7,False,positional,,,MANUSCRITS,,
 BO0624_83959,102782,33,20,"Un nombre infini d'initiales,lettres ornees, tirets,etc.;",234,98.2,False,positional,,,MANUSCRITS,,
 BO0624_83959,102783,34,I,"l est fort rare de rencontrer des manuscrits d'un format aussi réduit (0,085X0,045).",238,99.4,False,positional,,,MANUSCRITS,,
-BO0624_83959,102784,35,33,"—Heures. Les presentes heures a ensaige de Rome toutes au long sans reqrir : auec les figures et signes de lapocalipse : la vie de Tobie et de indic,les accides de lhome,le triumphe de Cesar, les miracles nostre dame : ont este faictes a Paris pour Symo vostre libraire demourat en la rue neufue a leseigne. S. Jeha leuagel.(Almanach de 1520 a 1536), in-8, goth., de 156 ff.,",240,99.6,False,positional,,,OGGETTI VARI,,
-BO0624_83959,102785,36,34,"— Heures nouvelles, tirees de la Sainte Ecriture, Ecrites et gravees par L. Senault. A Paris, ches l'Autheur, s. d. (vers 1740), pet. in-8, mar. bleu fonce, dos orne, fil., doublee de tabis, tr. dor. (Rel. anc.)",245,99.2,False,positional,,,OGGETTI VARI,,
+BO0624_83959,102784,35,33,"—Heures. Les presentes heures a ensaige de Rome toutes au long sans reqrir : auec les figures et signes de lapocalipse : la vie de Tobie et de indic,les accides de lhome,le triumphe de Cesar, les miracles nostre dame : ont este faictes a Paris pour Symo vostre libraire demourat en la rue neufue a leseigne. S. Jeha leuagel.(Almanach de 1520 a 1536), in-8, goth., de 156 ff.,",240,99.6,False,positional,,,OGGETTI VARI,,Sec. XVI
+BO0624_83959,102785,36,34,"— Heures nouvelles, tirees de la Sainte Ecriture, Ecrites et gravees par L. Senault. A Paris, ches l'Autheur, s. d. (vers 1740), pet. in-8, mar. bleu fonce, dos orne, fil., doublee de tabis, tr. dor. (Rel. anc.)",245,99.2,False,positional,,,OGGETTI VARI,,Sec. XVIII
 BO0624_83959,102786,37,35,Cafetiere avec couvercle : personnages et,250,96.3,False,positional,,,PORCELAINES,,
 BO0624_83959,102787,38,36,Petite bouteille:rinceaux en bleu.Ancienne,252,96.6,False,positional,,,PORCELAINES,,
 BO0624_83959,102788,39,37,Pompadour.Ancienne porcelaine de Chine.,255,96.2,False,positional,,,PORCELAINES,,
@@ -69,7 +69,7 @@ BO0624_83959,102816,67,66,"— Deux carreaux, decores de mascarons, en faience d
 BO0624_83959,102817,68,67,"Bannette, decor a la corne. Ancienne faience de Rouen.",302,97.1,False,positional,,,FAIENCES,,
 BO0624_83959,102818,69,68,"— Bassin, decor a la corne. Meme faience.",303,96.0,False,positional,,,FAIENCES,,
 BO0624_83959,102819,70,69,"- Coupe en ancienne faience de Rouen, a sujet chinois, avec compartiments de fleurs a la chute.",304,98.4,False,positional,,,FAIENCES,,
-BO0624_83959,102820,71,70,"—Pichet en ancienne faience de Rouen,orne d'une figurine de saint avec le nom 《 Etienne de Lamar 》 et la date : 1757.",305,98.6,False,positional,,,FAIENCES,,
+BO0624_83959,102820,71,70,"—Pichet en ancienne faience de Rouen,orne d'une figurine de saint avec le nom 《 Etienne de Lamar 》 et la date : 1757.",305,98.6,False,positional,,,FAIENCES,,Sec. XVIII
 BO0624_83959,102821,72,71,"— Grand plat en ancienne faience de Rouen, decor bleu rayonnant.",306,97.6,False,positional,,,PIATTI,,
 BO0624_83959,102822,73,72,— Autre analogue.Ancienne faience.,307,95.4,False,positional,,,FAIENCES,,
 BO0624_83959,102823,74,73,"—— Autre analogue, de forme ovale. Meme faience.",308,96.6,False,positional,,,FAIENCES,,
@@ -83,7 +83,7 @@ BO0624_83959,102830,81,80,"— Petit plat creux en ancienne faience de Faenza. A
 BO0624_83959,102831,82,81,"— Coupe en ancienne faience de Faenza, ornee",318,96.5,False,positional,,Scuola Faentina,FAIENCES,,
 BO0624_83959,102832,83,82,"— Plat creux en ancienne faience de Deruta, decor en bleu et a reflets metalliques, motif",320,98.3,False,positional,,,PIATTI,,
 BO0624_83959,102833,84,84,"— Coupe en ancienne faience de Gubbio, decor en bleu et a reflets metalliques; au fond, une figure d'amour; a la chute, des fruits.",324,98.8,False,positional,,Scuola Umbra,FAIENCES,,
-BO0624_83959,102834,85,85,marque de G1oRG10 et date 1525.,326,95.2,False,positional,,,FAIENCES,,
+BO0624_83959,102834,85,85,marque de G1oRG10 et date 1525.,326,95.2,False,positional,,,FAIENCES,,Sec. XVI
 BO0624_83959,102835,86,86,— Coupe en ancienne faience d'Urbino : le Triomphe de Cesar.,327,97.3,False,positional,,,FAIENCES,,
 BO0624_83959,102836,87,87,"Plat en terre vernissee : armoiries et feuillages. Italie, xvir siecle.",328,97.8,False,positional,,,PIATTI,,
 BO0624_83959,102837,88,88,— Petite assiette : personnages. Ancienne faience de Castelli.,329,97.4,False,positional,,,FAIENCES,,
@@ -110,7 +110,7 @@ BO0624_83959,102857,108,111,"- —Dix panneaux de meubles en bois sculpte,a deco
 BO0624_83959,102858,109,112,"— Panneau de meuble en bois sculpte, presen-",364,95.2,False,positional,,,OBJETS VARIES,,
 BO0624_83959,102859,110,1,l3 -Petit bas-relief en bois sculpte du xvin siecle:,366,99.0,False,positional,,,OBJETS VARIES,,
 BO0624_83959,102860,111,114,"— Petit bas-relief en bois sculpte, presentant le buste de la Vierge.",368,97.0,False,positional,,,OBJETS VARIES,,
-BO0624_83959,102861,112,115,"—Medaillon ovale en bois sculpte en haut relief, presentant un buste de personnage de profil, coiffe d'une toque et portant le collier de l'ordre de la Toison d'or.Au fond, la date: 1523.",369,98.9,False,positional,,,OBJETS VARIES,,
+BO0624_83959,102861,112,115,"—Medaillon ovale en bois sculpte en haut relief, presentant un buste de personnage de profil, coiffe d'une toque et portant le collier de l'ordre de la Toison d'or.Au fond, la date: 1523.",369,98.9,False,positional,,,OBJETS VARIES,,Sec. XVI
 BO0624_83959,102862,113,116,"- Petit buste-applique en bois sculpte,representant une femme de profil,une draperie sur",371,97.7,False,positional,,,OBJETS VARIES,,
 BO0624_83959,102863,114,117,"—Plaque, de forme allongee, en ivoire sculpte en bas-relief, presentant sur une face une figure de saint Jean et, sur I'autre, trois medaillons Legendes en grec. Ancien travail byzantin.",373,98.9,False,positional,,,OBJETS VARIES,,
 BO0624_83959,102864,115,118,— Petite plaque en ivoire sculpte en bas-relief :,374,95.7,False,positional,,,OBJETS VARIES,,
@@ -127,7 +127,7 @@ BO0624_83959,102874,125,128,"—Poignard a manche et fourreau de fer,a",388,95.0
 BO0624_83959,102875,126,129,— Bas-relief en plomb : le Calvaire. Encadrement dore a chimeres. xvile siecle.,390,97.3,False,positional,,,OBJETS VARIES,,
 BO0624_83959,102876,127,130,"— Etrier en plomb ajoure, a decor de fleurons. xvle siecle.",391,96.4,False,positional,,,OBJETS VARIES,,
 BO0624_83959,102877,128,13,"l —— Medaillon rond en plomb : Rebecca et Eliezer. Allemagne,xvlle siecle.",392,98.5,False,positional,,,OBJETS VARIES,,
-BO0624_83959,102878,129,132,"- Medaillon ovale en plomb : personnage en buste,avec la date 1404.",393,96.9,False,positional,,,OBJETS VARIES,,
+BO0624_83959,102878,129,132,"- Medaillon ovale en plomb : personnage en buste,avec la date 1404.",393,96.9,False,positional,,,OBJETS VARIES,,Sec. XV
 BO0624_83959,102879,130,133,Petit bas-relief en plomb :la Vierge et l'Entant Jesus.,394,96.4,False,positional,,,OBJETS VARIES,,
 BO0624_83959,102880,131,134,"Medaillon rond en metal, presentant les bustes de Philippe, roi de Castille et Ferdinand, roi d'Hongrie.",395,98.0,False,positional,,,OBJETS VARIES,,
 BO0624_83959,102881,132,135,"—Pulverin en bois sculpte,simulant un lion attaque par deux chiens. Allemagne, xvir siecle.",396,97.8,False,positional,,,OBJETS VARIES,,

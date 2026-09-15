@@ -75,7 +75,7 @@ BO0624_87412,488601,73,78,Portrait einer jungen Dame in schwarzer Kleidung und g
 BO0624_87412,488602,74,79,Brustbild einer Dame.,705,93.0,False,positional,C.Netscher,,,,
 BO0624_87412,488603,75,83,Flusslandschaft.,710,90.9,False,title_direct,,,Flusslandschaft,,
 BO0624_87412,488604,76,84,Landschaft. 月0,720,76.9,False,title_direct,,,Landschaft,,
-BO0624_87412,488605,77,85,Kniestick ciner Frau in der Tracht der 1.Halfte des 18. Jahrhunderts. 90889,734,98.0,False,positional,,,Portrait,,
+BO0624_87412,488605,77,85,Kniestick ciner Frau in der Tracht der 1.Halfte des 18. Jahrhunderts. 90889,734,98.0,False,positional,,,Portrait,,Sec. XVIII
 BO0624_87412,488606,78,86,"Stier und mehrere Kuhe auf der Weide,von der eine gemolken wird,im Hintergrunde Flusslandschaft.",742,74.4,False,title_direct,,,Flusslandschaft,,
 BO0624_87412,488607,79,87,Landschaft (Skizze).,749,91.9,False,title_direct,,,Landschaft,,
 BO0624_87412,488608,80,88,88. Der hl. Paulus tauft den Kammerer.,755,100.0,False,positional,Rembrandt,,,,
@@ -117,7 +117,7 @@ BO0624_87412,488643,115,13,"Vanitas. Holz.Hohe 64 ctm.,Breite 48 ctm.",976,96.2,
 BO0624_87412,488644,116,14,mit,977,66.7,False,positional,W. Troost,,,,
 BO0624_87412,488645,117,121,Portrait einer alten Dame in Pelzmantel und grossem Perlen besetztem Hut.,978,97.3,False,title_direct,,,Portrait,,
 BO0624_87412,488646,118,122,traits in einem Goldrahmen.,983,92.9,False,positional,W. Troost,,,,
-BO0624_87412,488647,119,123,"Portrait d. Panpicus 1651. Holz. Hohe 30 ctm.,Breite 24 ctm,",987,96.5,False,title_direct,,,OGGETTI IN LEGNO,,
+BO0624_87412,488647,119,123,"Portrait d. Panpicus 1651. Holz. Hohe 30 ctm.,Breite 24 ctm,",987,96.5,False,title_direct,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87412,488648,120,124,Thierstuick.,992,84.6,False,title_direct,,,Thiersticke,,
 BO0624_87412,488649,121,125,"Landschaft, mit Jagddarstellung.",996,93.8,False,title_direct,,,Landschaft,,
 BO0624_87412,488650,122,126,126. Flusslandschaft.,1000,100.0,False,title_direct,,,Flusslandschaft,,
@@ -136,7 +136,7 @@ BO0624_87412,488662,134,146,"1 Hafenansicht,in Vordergrunde werden bei einer Rui
 BO0624_87412,488663,135,147,Zwei Tyroler Landschaften in eleganten Rahmen.,1162,95.7,False,title_direct,,,CORNICI,,
 BO0624_87412,488664,136,148,"Vier Miniaturen, auf Elfenbein gemalt, die vier Jahreszeiten",1163,96.7,False,positional,Zuccarelli,,MINIATURE,,
 BO0624_87412,488665,137,149,Eine Collection gerahmter Stiche.,1165,94.1,False,positional,Zuccarelli,,STAMPE E INCISIONI,,
-BO0624_87412,488666,138,150,"Italienische Renaissance-Truhe, reich eingelegt mit Stadteansicht, in farbigem Holz, Jahreszahl 1590. nteressantes sehones Stick.",1170,86.2,False,positional,,,BAULI,,
+BO0624_87412,488666,138,150,"Italienische Renaissance-Truhe, reich eingelegt mit Stadteansicht, in farbigem Holz, Jahreszahl 1590. nteressantes sehones Stick.",1170,86.2,False,positional,,,BAULI,,Sec. XVI
 BO0624_87412,488667,139,151,"Gothisches Stollenschrankchen, der obere Theil enthalt in der Mitte die Thuir, daneben 2 Fullungen, reich geschnitzt in durchbrochener Arbeit, darunter 2 Schubladen. nteressantes schones Mobei.",1176,91.2,False,positional,,,Mobel,,
 BO0624_87412,488668,140,152,"2 Stollenschranke, Renaissance, reich geschnitzt mit Kopfen mnd Ornamentation.",1182,97.4,False,positional,,,Mobel,,
 BO0624_87412,488669,141,153,- —dto. ahnliches.,1187,100.0,False,positional,,,Mobel,,
@@ -200,8 +200,8 @@ BO0624_87412,488726,198,208,Silberne Zuckerschalein Form eines Korbchens (Stil L
 BO0624_87412,488727,199,209,"Silberne hollandische Taschenuhr,das Gehause reich getrieben.",1292,96.8,False,positional,,,Mobel,,
 BO0624_87412,488728,200,210,- Silber-Ring mit 7 Almadinen und 1 Bergkrystall.,1294,100.0,False,positional,,,Mobel,,
 BO0624_87412,488729,201,211,Silber-Ring mit gelbem Stein und 2 Bergkrystallen.,1295,96.1,False,positional,,,Mobel,,
-BO0624_87412,488730,202,212,Preussen.Silber / Stick von 1810.(Selten !),1296,94.9,False,positional,,,Mobel,,
-BO0624_87412,488731,203,213,Venedig. Silberne Miinze von Andreas Griti （1521-30).,1297,96.1,False,positional,,,Mobel,,
+BO0624_87412,488730,202,212,Preussen.Silber / Stick von 1810.(Selten !),1296,94.9,False,positional,,,Mobel,,Sec. XIX
+BO0624_87412,488731,203,213,Venedig. Silberne Miinze von Andreas Griti （1521-30).,1297,96.1,False,positional,,,Mobel,,Sec. XVI
 BO0624_87412,488732,204,214,Silberner Ordensstern.,1298,91.3,False,positional,,,Mobel,,
 BO0624_87412,488733,205,215,"- 215a.Eine Anzahl silberne Schmucksachen,meist in Filigran-Arbeit.",1301,100.0,False,positional,,,Mobel,,
 BO0624_87412,488734,206,216,Alte hollandische silberne Taschenuhr mit Kette in reich getriebener Arbeit.,1302,97.4,False,positional,,,Mobel,,
@@ -213,10 +213,10 @@ BO0624_87412,488739,211,2,"221.Boule-Uhr mit Untersatz aus rothem Schildpatt, re
 BO0624_87412,488740,212,3,222.,1312,75.0,False,positional,,,Mobel,,
 BO0624_87412,488741,213,4,Standuhr.,1313,88.9,False,positional,,,Mobel,,
 BO0624_87412,488742,214,223,"2 japanesische broncene Rauchergefasse in Form von Elephanten. Die Elephanten,mit reich verziertem Sattelgeschirr, tragen auf dem Rucken mit Oeffnungen versehene Thuirme von 2 Etagen; die Dachspitzen gekront von phantastischen Ungeheuern.",1314,99.2,False,positional,,,Mobel,,
-BO0624_87412,488743,215,224,Bonner grosse Bronce-Beethoven-Medaille von Weckwerth 1884 (nicht im Handel befindliche Preismed).,1318,69.7,False,positional,,,Mobel,,
-BO0624_87412,488744,216,225,Bonner vergoldete Bronce-Medaille auf d. Errichtung der Universitat 1786.,1320,97.3,False,positional,,,Mobel,,
-BO0624_87412,488745,217,226,Bonner Bronce-Mledaille auf d. Feuerwehrfest 1883. Niederlande.In Silber gefasste Eisenmedaille auf d. Anf-,1322,69.2,False,positional,,,Mobel,,
-BO0624_87412,488746,218,227,nahme der Salzburger 1733.,1323,92.6,False,positional,,,Mobel,,
+BO0624_87412,488743,215,224,Bonner grosse Bronce-Beethoven-Medaille von Weckwerth 1884 (nicht im Handel befindliche Preismed).,1318,69.7,False,positional,,,Mobel,,Sec. XIX
+BO0624_87412,488744,216,225,Bonner vergoldete Bronce-Medaille auf d. Errichtung der Universitat 1786.,1320,97.3,False,positional,,,Mobel,,Sec. XVIII
+BO0624_87412,488745,217,226,Bonner Bronce-Mledaille auf d. Feuerwehrfest 1883. Niederlande.In Silber gefasste Eisenmedaille auf d. Anf-,1322,69.2,False,positional,,,Mobel,,Sec. XIX
+BO0624_87412,488746,218,227,nahme der Salzburger 1733.,1323,92.6,False,positional,,,Mobel,,Sec. XVIII
 BO0624_87412,488747,219,228,2 broncene Rococoleuchter.,1324,92.6,False,positional,,,Mobel,,
 BO0624_87412,488748,220,229,"Broncerahmchen mit Miniatur. Grosse Uhr, Stil Ludwig XIV,mit reichem Broncebeschlag",1326,79.4,False,positional,,,MINIATURE,,
 BO0624_87412,488749,221,230,"und Jagdscenenverzierung, mit gutem Uhrwerk.",1327,95.5,False,positional,,,Mobel,,
@@ -512,7 +512,7 @@ BO0624_87412,489038,510,503,Maasskrug mit Wappen und Bischof.,1901,94.1,False,po
 BO0624_87412,489039,511,504,"Maasskrug, grau, blau, roth.",1902,92.3,False,positional,ROTH PHILIPP,,Porzellan; Glaser; Kruge; Majoliken,,
 BO0624_87412,489040,512,505,"Dickbauchiger Krug, grau, blau, roth.",1903,94.3,False,positional,ROTH PHILIPP,,Porzellan; Glaser; Kruge; Majoliken,,
 BO0624_87412,489041,513,7,506.,1904,75.0,False,positional,,,Porzellan; Glaser; Kruge; Majoliken,,
-BO0624_87412,489042,514,8,Braune Raerener Schnelle mit Wappen und Jahreszahl 1597.,1905,98.2,False,positional,,,Porzellan; Glaser; Kruge; Majoliken,,
+BO0624_87412,489042,514,8,Braune Raerener Schnelle mit Wappen und Jahreszahl 1597.,1905,98.2,False,positional,,,Porzellan; Glaser; Kruge; Majoliken,,Sec. XVI
 BO0624_87412,489043,515,507,"Birnformiger Krug, graublau.",1906,92.9,False,positional,,,Porzellan; Glaser; Kruge; Majoliken,,
 BO0624_87412,489044,516,10,508.,1907,66.7,False,positional,,,Porzellan; Glaser; Kruge; Majoliken,,
 BO0624_87412,489045,517,11,"Dickbauchiger Krug, graublau.",1908,94.7,False,positional,,,Porzellan; Glaser; Kruge; Majoliken,,
@@ -579,4 +579,4 @@ BO0624_87412,489105,577,559,Granat-Rosenkranz mit Anhingsel von Silber und Geset
 BO0624_87412,489106,578,560,"Granat-Halskette, 7-reihig, mit Goldschloss.",1972,95.3,False,positional,,,Porzellan; Glaser; Kruge; Majoliken,,
 BO0624_87412,489107,579,561,Zwei Schnallen.,1973,87.5,False,positional,,,Porzellan; Glaser; Kruge; Majoliken,,
 BO0624_87412,489108,580,562,Armenische Gebets- und Zauberrolle.,1974,94.3,False,positional,,,Porzellan; Glaser; Kruge; Majoliken,,
-BO0624_87412,489109,581,563,"Glockenhaus mit Glockenzug, in Eisen, reich getrieben,mit Original-Polichromirung. 18. Jahrhundert.",1975,97.9,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
+BO0624_87412,489109,581,563,"Glockenhaus mit Glockenzug, in Eisen, reich getrieben,mit Original-Polichromirung. 18. Jahrhundert.",1975,97.9,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,Sec. XVIII

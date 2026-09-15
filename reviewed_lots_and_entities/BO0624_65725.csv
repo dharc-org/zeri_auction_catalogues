@@ -2,8 +2,8 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_65725,738717,1,1,"Portrait de Guillaume IV, Prince d'Orange et Stathouder.",11,98.2,False,positional,BERNARDUS ACCAMA,,,,
 BO0624_65725,738718,2,2,Portrait de Cornelis Tromp.,23,96.3,False,positional,JAN DE BAEN,,,,
 BO0624_65725,738719,3,3,Portrait de femme.,30,94.4,False,positional,JAN DE BAEN,,,,
-BO0624_65725,738720,4,4,"Portrait de jeune fille: Susanna de Wijs, nata 3 Sept. 1683, aet. 17.",36,98.4,False,positional,JAN DE BAEN,,,,
-BO0624_65725,738721,5,5,"Portrait d'un officier. l est pris presque de face, en armure. Bodecker a signe et date 1698.",48,85.9,False,positional,J. F. BODECKER,,,,
+BO0624_65725,738720,4,4,"Portrait de jeune fille: Susanna de Wijs, nata 3 Sept. 1683, aet. 17.",36,98.4,False,positional,JAN DE BAEN,,,,Sec. XVII
+BO0624_65725,738721,5,5,"Portrait d'un officier. l est pris presque de face, en armure. Bodecker a signe et date 1698.",48,85.9,False,positional,J. F. BODECKER,,,,Sec. XVII
 BO0624_65725,738722,6,6,Un boulanger montrant un panier rempli de petits pains placé devant lui sur une plinthe.,56,98.9,False,positional,CORNELIS BRISE,,,,
 BO0624_65725,738723,7,7,"Portrait d'homme et de sa femme avec leur enfant, dans un paysage.",65,98.5,False,positional,ABRAHAM VAN CONINXVELDT; JAN BOTH,,,,
 BO0624_65725,738724,8,8,Portrait d'une jeune fille.,77,96.3,False,positional,M. D. L. COURT,,,,
@@ -19,15 +19,15 @@ BO0624_65725,738733,17,19,Portrait de femme.,216,91.9,False,positional,NICOLAES 
 BO0624_65725,738734,18,20,"Portraits d'homme et de sa femme, pendants.",222,96.5,False,positional,NICOLAES ELIAS,,,,
 BO0624_65725,738735,19,22,Portrait d'homme.,237,91.4,False,positional,GOVERT FLINCK,,,,
 BO0624_65725,738736,20,23,Portrait d'homme.,245,91.4,False,positional,GOVERT FLINCK,,,,
-BO0624_65725,738737,21,24,"Portrait de Facob Visser, Capitein van een compagnie mariniers of zee soldaeten. Edelmoedig voor 't Vaderland gesneuvelt bij Woerden op den 12 van Wynmaant 1672. Zynde cen soon van Gerrit Segersz., Burgermeester en Raad der stadt Enchuysen, overgrootvader van Margareta Ris, vrouwe van Mr.f. de fong van Persijn"".",255,99.5,False,positional,D. VAN HAGEN,,,,
+BO0624_65725,738737,21,24,"Portrait de Facob Visser, Capitein van een compagnie mariniers of zee soldaeten. Edelmoedig voor 't Vaderland gesneuvelt bij Woerden op den 12 van Wynmaant 1672. Zynde cen soon van Gerrit Segersz., Burgermeester en Raad der stadt Enchuysen, overgrootvader van Margareta Ris, vrouwe van Mr.f. de fong van Persijn"".",255,99.5,False,positional,D. VAN HAGEN,,,,Sec. XVII
 BO0624_65725,738738,22,25,Portrait de jeune homme.,264,93.9,False,positional,GOVERT FLINCK,,,,
 BO0624_65725,738739,23,26,Portrait d'une vieille.,278,93.6,False,positional,FRANS HALS,,,,
 BO0624_65725,738740,24,27,"Fréderic Henri. l est represente a mi-corps des trois-quarts a droite, en cuirasse noire. Une chaine d'or, d'ou",294,93.0,False,positional,BARTHOLOMEUS VANDER HELST,,,,
 BO0624_65725,738741,25,28,Portrait d'un membre de la famille Van Schoonhoven?,304,97.1,False,positional,BARTHOLOMEUS VAN DER HELST,,,,
 BO0624_65725,738742,26,29,Portrait d'enfant.,313,91.9,False,positional,BARTHOLOMEUS VAN DER HELST,,,,
 BO0624_65725,738743,27,30,Frere et soeur.,321,90.3,False,positional,BARTHOLOMEUS VAN DER HELST,,,,
-BO0624_65725,738744,28,32,"Portrait de Hendrick Montens le Vieux. Decemb.1548, out sijn 85 Faere.",333,69.2,False,positional,BARTHOLOMEUS VAN DER HELST,,,,
-BO0624_65725,738745,29,33,"Portrait de Maria frov van St. Aldegonde, Huisfrov van Jan de Portrait de Petrus Schagae anno 1573"".",345,74.7,False,positional,BARTHOLOMEUS VAN DER HELST,,,,
+BO0624_65725,738744,28,32,"Portrait de Hendrick Montens le Vieux. Decemb.1548, out sijn 85 Faere.",333,69.2,False,positional,BARTHOLOMEUS VAN DER HELST,,,,Sec. XVI
+BO0624_65725,738745,29,33,"Portrait de Maria frov van St. Aldegonde, Huisfrov van Jan de Portrait de Petrus Schagae anno 1573"".",345,74.7,False,positional,BARTHOLOMEUS VAN DER HELST,,,,Sec. XVI
 BO0624_65725,738746,30,34,"Portrait de Barbara d'Autriche, fille naturelle de Maximilien Empereur.",365,97.9,False,positional,CORNELIS KETEL,,,,
 BO0624_65725,738747,31,I,"l est represente a mi-corps, a droite, dans une cotte de cuir a coupures et enveloppe d'un manteau noir. Un bonnet noir sur la tete. Devant lui sa bourguinotte.",377,99.7,False,positional,CORNELIS KETEL,,,,
 BO0624_65725,738748,32,36,Portrait d'une jeune dame.,387,94.3,False,positional,CORNELIS KETEL,,,,
@@ -56,7 +56,7 @@ BO0624_65725,738770,54,58,Portrait de jeune fille dans un riche costume a broder
 BO0624_65725,738771,55,59,Portrait de jeune homme.,616,93.9,False,positional,J. V. MERCK,,,,
 BO0624_65725,738772,56,I,l est represente a mi-corps des trois quarts a droite. En habit noir a collerette a dentelles. Ses beaux cheveux blonds tombent sur ses épaules.,618,99.6,False,positional,J. V. MERCK,,,,
 BO0624_65725,738773,57,61,"Portrait d'un gentilhomme. l est debout, vu jusqu'aux genoux, dans un costume tres soigne de noir, avec une large collerette et des manchettes en dentelles. La main gauche, tenant un chapeau, repose sur une table recouverte d'un tapis rouge. ll est dirige a droite.",639,94.9,False,positional,MICHIEL JANSZ. MIEREVELD,,,,
-BO0624_65725,738774,58,62,"""VRou. JoHANNA. De WITT. 1638"". Portrait d'une jeune femme.",649,97.2,False,positional,MICHIEL JANSZ. MIEREVELD,,,,
+BO0624_65725,738774,58,62,"""VRou. JoHANNA. De WITT. 1638"". Portrait d'une jeune femme.",649,97.2,False,positional,MICHIEL JANSZ. MIEREVELD,,,,Sec. XVII
 BO0624_65725,738775,59,I,"l est represente en buste, des trois quarts a droite, avec des cheveux .frises; un costume noir et une collerette plate.",666,99.6,False,positional,MICHIEL JANSZ. MIEREVELD,,,,
 BO0624_65725,738776,60,64,Portrait de femme.,674,91.9,False,positional,MICHIEL JANSZ. MIEREVELD,,,,
 BO0624_65725,738777,61,65,Portrait d'homme.,686,91.4,False,positional,MICHIEL JANSZ. MIEREVELD,,,,
@@ -107,24 +107,24 @@ BO0624_65725,738821,105,I,W.,1205,50.0,False,title_direct,W. WESTERBAAN,Scuola d
 BO0624_65725,738822,106,111,"L. Cranach.- Portrait de Sybille de Cleves et de son fils Jean le Constant, electeur de Saxe.— Elle est vetue d'une robe de brocart a col releve. Coiffee d'un vaste escoffion de forme bizarre surmontant une crepine a bouffants. Le tout orne de perles et de pierres fines. Son fils de l'age de trois a quatre ans est vetue d'écarlate et de vair orne de perles et de pierres fines.",1206,99.5,False,positional,W. WESTERBAAN,,,,
 BO0624_65725,738823,107,112,"C. van Cuylenburgh, Portrait d’un cadet de marine, a mi-corps.",1212,96.7,False,positional,W. WESTERBAAN,,,,
 BO0624_65725,738824,108,113,"Antonie van Dijck, Portrait d'homme. Tres belle copie.",1216,96.2,False,positional,W. WESTERBAAN,,,,
-BO0624_65725,738825,109,114,"Maitre anonyme (Murkens?),Portrait d'homme. Imitation de la peinture de Rembrandt. Le nom de ce maitre figure sur le tableau, avec la date de 1643.",1220,98.6,False,positional,W. WESTERBAAN,,,,
+BO0624_65725,738825,109,114,"Maitre anonyme (Murkens?),Portrait d'homme. Imitation de la peinture de Rembrandt. Le nom de ce maitre figure sur le tableau, avec la date de 1643.",1220,98.6,False,positional,W. WESTERBAAN,,,,Sec. XVII
 BO0624_65725,738826,110,115,"Maitre anonyme, Portrait d’un jeune homme. Signe Rembrandt.",1224,96.6,False,positional,W. WESTERBAAN,,,,
-BO0624_65725,738827,111,116,"Maitre anonyme, Portrait de femme. Fragment d’un beau tableau, vers 1640.",1228,97.2,False,positional,W. WESTERBAAN,,OGGETTI VARI,,
+BO0624_65725,738827,111,116,"Maitre anonyme, Portrait de femme. Fragment d’un beau tableau, vers 1640.",1228,97.2,False,positional,W. WESTERBAAN,,OGGETTI VARI,,Sec. XVII
 BO0624_65725,738828,112,117,"Maitre anonyme. - Jeune homme represente en buste, des trois quarts a droite, en costume noir.",1232,97.8,False,positional,W. WESTERBAAN,,,,
 BO0624_65725,738829,113,118,"M. Miereveld. — Maurice de Nassau. Buste, grandeur nature, des trois quarts a droite. Signe: M. Miereveld f.",1236,98.0,False,positional,W. WESTERBAAN,,,,
 BO0624_65725,738830,114,120,"Constantijn Netscher, Portraits de famille, pere, mere et enfant. Deux toiles, pendants.",1241,97.6,False,positional,W. WESTERBAAN,,,,
 BO0624_65725,738831,115,122,"Une paire de portraits fantastiques, gargon et fillette. Peintures a l'huile sur bois, puis decoupees pour les placer dans les salons. Vers 169o.",1247,98.6,False,positional,W. WESTERBAAN,,OGGETTI IN LEGNO,,
 BO0624_65725,738832,116,I21,"P. Cz.Slingelandt,Portrait d'homme.",1257,94.3,False,positional,W. WESTERBAAN,,,,
-BO0624_65725,738833,117,124,Portrait de jeune homme En buste. Son habit noir ouvert pres du col laisse voir une chemise tuyautee. Bonnet noir a plumes. - Travail famand. Vers 1500.,1264,98.6,False,positional,W. WESTERBAAN,,,,
-BO0624_65725,738834,118,125,"Portrait d'homme d'age moyen. En buste,habit noir a collerette. comme Adriaan van Bergen"" le liberateur de la ville de Breda en 1590.",1270,98.5,False,positional,W. WESTERBAAN,,,,
+BO0624_65725,738833,117,124,Portrait de jeune homme En buste. Son habit noir ouvert pres du col laisse voir une chemise tuyautee. Bonnet noir a plumes. - Travail famand. Vers 1500.,1264,98.6,False,positional,W. WESTERBAAN,,,,Sec. XVI
+BO0624_65725,738834,118,125,"Portrait d'homme d'age moyen. En buste,habit noir a collerette. comme Adriaan van Bergen"" le liberateur de la ville de Breda en 1590.",1270,98.5,False,positional,W. WESTERBAAN,,,,Sec. XVI
 BO0624_65725,738835,119,126,Portrait d'enfant a lage d'environ 7 ans. Habit noir a collerette. Coiffe d'un joli bonnet rouge a broderies.,1274,98.1,False,positional,W. WESTERBAAN,,,,
-BO0624_65725,738836,120,128,Portrait de jeune homme en habit venitien. Buste. Vers 1600.,1284,96.6,False,positional,W. WESTERBAAN,,,,
+BO0624_65725,738836,120,128,Portrait de jeune homme en habit venitien. Buste. Vers 1600.,1284,96.6,False,positional,W. WESTERBAAN,,,,Sec. XVII
 BO0624_65725,738837,121,129,"Portrait d'une dame agee d'environ 4o ans. En buste, collrette tuyautée et bonnet blanc. Vers1600.",1288,97.9,False,positional,W. WESTERBAAN,,,,
 BO0624_65725,738838,122,130,Portrait d'homme d'environ 3o ans. Buste. Habit noir a collerette a dentelles venitiennes. Signe du monogramme V. S. L. (entrelaces) et date 16o7.,1291,98.6,False,positional,W. WESTERBAAN,,,,
-BO0624_65725,738839,123,131,"Vieille femme, a mi-corps. Habit noir a fourrure, une collerette et un serre-tete. Vers 1620. Ovale.—Bois.—Hauteur 153 milimetres.",1295,98.4,False,positional,W. WESTERBAAN,,OGGETTI IN LEGNO,,
-BO0624_65725,738840,124,132,Portraits de Johan Smuysers et de Sara Sanen. Deux miniatures maniere Frans Hals. Ils sont representes a mijambes.-Le portrait de l'homme est date Aet. 33 Aumo 1625.--Ils ont eterestaures.,1296,98.9,False,positional,W. WESTERBAAN,,MINIATURE,,
+BO0624_65725,738839,123,131,"Vieille femme, a mi-corps. Habit noir a fourrure, une collerette et un serre-tete. Vers 1620. Ovale.—Bois.—Hauteur 153 milimetres.",1295,98.4,False,positional,W. WESTERBAAN,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_65725,738840,124,132,Portraits de Johan Smuysers et de Sara Sanen. Deux miniatures maniere Frans Hals. Ils sont representes a mijambes.-Le portrait de l'homme est date Aet. 33 Aumo 1625.--Ils ont eterestaures.,1296,98.9,False,positional,W. WESTERBAAN,,MINIATURE,,Sec. XVII
 BO0624_65725,738841,125,133,"Gustave Adolphe, Portrait en buste des trois quarts a droite.",1300,96.7,False,positional,W. WESTERBAAN,,,,
-BO0624_65725,738842,126,134,"sGosuin. Ludov. Spirinck Aetatis 53 An. 1638.""— Joli portrait avec cette legende en or. Buste a droite.",1304,97.9,False,positional,W. WESTERBAAN,,,,
+BO0624_65725,738842,126,134,"sGosuin. Ludov. Spirinck Aetatis 53 An. 1638.""— Joli portrait avec cette legende en or. Buste a droite.",1304,97.9,False,positional,W. WESTERBAAN,,,,Sec. XVII
 BO0624_65725,738843,127,135,Portrait de jeune homme vetu d'un habit noir a collrette. Un chapeau noir couvre sa chevelure blonde,1308,98.0,False,positional,W. WESTERBAAN,,,,
 BO0624_65725,738844,128,136,"Portrait d'un chef polonais. — Beau portrait, en buste, d'un homme portant le bonnet polonais. Attribue a Rembrandt.",1314,98.2,False,positional,W. WESTERBAAN,,,,
 BO0624_65725,738845,129,137,"Portrait d'homme enveloppe d'un manteau noir, laissant voir son rabat. Cuivre.—Hauteur 17o, largeur 133milimetres.",1318,98.2,False,positional,W. WESTERBAAN,,,,

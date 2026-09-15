@@ -1,11 +1,11 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84298,387205,1,2881,2181,16,61.5,False,positional,BONVIN (Francois),,,,
-BO0624_84298,387206,2,1825,1898,26,61.5,False,positional,BOUDIN (Eugene),,,,
-BO0624_84298,387207,3,1840,1900,37,61.5,False,positional,DUFEU (Edouard),Scuola di Monaco,,,
-BO0624_84298,387208,4,1803,1852,53,61.5,False,positional,JOHANNOT (Tony),,,,
-BO0624_84298,387209,5,1828,1893,90,61.5,False,positional,VEYRASSAT (Jules),,,,
-BO0624_84298,387210,6,1847,1909,102,61.5,False,positional,VIGNON (Victor),,,,
-BO0624_84298,387211,7,1836,1897,112,61.5,False,positional,YON (Edmond),,,,
+BO0624_84298,387206,2,1825,1898,26,61.5,False,positional,BOUDIN (Eugene),,,,Sec. XIX
+BO0624_84298,387207,3,1840,1900,37,61.5,False,positional,DUFEU (Edouard),Scuola di Monaco,,,Sec. XX
+BO0624_84298,387208,4,1803,1852,53,61.5,False,positional,JOHANNOT (Tony),,,,Sec. XIX
+BO0624_84298,387209,5,1828,1893,90,61.5,False,positional,VEYRASSAT (Jules),,,,Sec. XIX
+BO0624_84298,387210,6,1847,1909,102,61.5,False,positional,VIGNON (Victor),,,,Sec. XX
+BO0624_84298,387211,7,1836,1897,112,61.5,False,positional,YON (Edmond),,,,Sec. XIX
 BO0624_84298,387212,8,13,Le Retour des pecheurs.,129,93.6,False,positional,DEMARNE,,,,
 BO0624_84298,387213,9,15,-Les Trois Graces et l'Amour dans un paysage.,145,96.6,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84298,387214,10,20,## ECOLE ITALIENNE -Bords de riviere animee de barques.,168,80.5,False,title_direct,,ECOLE ITALIENNE,,,

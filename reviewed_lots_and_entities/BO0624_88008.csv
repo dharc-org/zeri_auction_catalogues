@@ -1,46 +1,46 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88008,320196,1,1,"ALLEGRE （Antoine) dit le CORREGE —1494——1534, Correggio.",30,98.0,False,positional,Antoine Allegre dit le Correge,,,,
-BO0624_88008,320197,2,2,"BONINGTON (Richard Parkes) —1801—1821, Londres.",46,97.7,False,positional,Richard Parkes Bonington,,,,
+BO0624_88008,320196,1,1,"ALLEGRE （Antoine) dit le CORREGE —1494——1534, Correggio.",30,98.0,False,positional,Antoine Allegre dit le Correge,,,,Sec. XV
+BO0624_88008,320197,2,2,"BONINGTON (Richard Parkes) —1801—1821, Londres.",46,97.7,False,positional,Richard Parkes Bonington,,,,Sec. XIX
 BO0624_88008,320198,3,4,"BREUGHEL (Pierre) le Jeune dit d'Enfer 15641638, Anvers.",85,98.1,False,positional,Pierre Breughel le Jeune dit d'Enfer,,,,
 BO0624_88008,320199,4,I,"ndessen die Feuersbrunst die sindige Stadt verzehrt, entflieht Loth mit seiner Familie, gefihrt von dem Engel, der den Rat erteilt, nicht zurick zu blicken.",97,99.7,False,positional,Pierre Breughel le Jeune dit d'Enfer,,,,
 BO0624_88008,320200,5,3,BOULANGE (Louis) 一 Contemporain.,99,96.7,False,positional,Louis Boulange,,,,
 BO0624_88008,320201,6,5,"CANAL （Antonin) dit Le Canaletto —16971768,Venise. m Vordergrund bringen Gondeln, die auf dem dunklen Wasser hin und wieder fahren, Leben und Bewegung in das etwas ernste Bild.",126,84.2,False,positional,Antonin Canal dit Le Canaletto,,,,
-BO0624_88008,320202,7,6,"CASANOVA (Francois)  1730—1805, Brihl pres de Vienne.",130,98.0,False,positional,Francois Casanova,,,,
+BO0624_88008,320202,7,6,"CASANOVA (Francois)  1730—1805, Brihl pres de Vienne.",130,98.0,False,positional,Francois Casanova,,,,Sec. XVIII
 BO0624_88008,320203,8,7,"CHARLET (Nicolas Toussaint) 17921845, Paris.",147,97.6,False,positional,Nicolas Toussaint Charlet,,,,
-BO0624_88008,320204,9,8,"COR0T (Camille-Jean-Baptiste) -—1796-1875, Paris.",163,97.7,False,positional,Camille-Jean-Baptiste Corot,,,,
-BO0624_88008,320205,10,9,"COROT (Camille-Jean-Baptiste) —1796—1875,Paris. talienische Festung.",180,79.6,False,positional,Camille-Jean-Baptiste Corot,,,,
-BO0624_88008,320206,11,10,"COURBET (Gustave) ——1819-—1877,Paris.",194,95.4,False,positional,Gustave Courbet,,,,
-BO0624_88008,320207,12,1,"l. COYPEL (Antoine) —— 1661——1722, Paris.",213,98.5,False,positional,Antoine Coypel,,,,
-BO0624_88008,320208,13,12,"DAUBIGNY (Karl-Pierre) 1846——1886, Paris.",229,96.0,False,positional,Karl-Pierre Daubigny,,,,
-BO0624_88008,320209,14,13,"DAUMIER (Honore) —1808-—1879,Valmondois (Seine et 0ise). n der Kneipe.",242,86.0,False,positional,Honore Daumier,,,,
-BO0624_88008,320210,15,14,"DAVID (Jacques-Louis) —— 1748-1825, Bruxelles.",260,96.3,False,positional,Jacques-Louis David,,,,
-BO0624_88008,320211,16,15,"DEBUCOURT (Louis-Philibert) —1755-—1832, Paris.",279,96.5,False,positional,Louis-Philibert Debucourt,,,,
-BO0624_88008,320212,17,16,"DECAMPS (Alexandre-Gabriel) ）—1803——1860, Fontainebleau.",293,97.0,False,positional,Alexandre-Gabriel Decamps,,,,
+BO0624_88008,320204,9,8,"COR0T (Camille-Jean-Baptiste) -—1796-1875, Paris.",163,97.7,False,positional,Camille-Jean-Baptiste Corot,,,,Sec. XIX
+BO0624_88008,320205,10,9,"COROT (Camille-Jean-Baptiste) —1796—1875,Paris. talienische Festung.",180,79.6,False,positional,Camille-Jean-Baptiste Corot,,,,Sec. XVIII
+BO0624_88008,320206,11,10,"COURBET (Gustave) ——1819-—1877,Paris.",194,95.4,False,positional,Gustave Courbet,,,,Sec. XIX
+BO0624_88008,320207,12,1,"l. COYPEL (Antoine) —— 1661——1722, Paris.",213,98.5,False,positional,Antoine Coypel,,,,Sec. XVII
+BO0624_88008,320208,13,12,"DAUBIGNY (Karl-Pierre) 1846——1886, Paris.",229,96.0,False,positional,Karl-Pierre Daubigny,,,,Sec. XIX
+BO0624_88008,320209,14,13,"DAUMIER (Honore) —1808-—1879,Valmondois (Seine et 0ise). n der Kneipe.",242,86.0,False,positional,Honore Daumier,,,,Sec. XIX
+BO0624_88008,320210,15,14,"DAVID (Jacques-Louis) —— 1748-1825, Bruxelles.",260,96.3,False,positional,Jacques-Louis David,,,,Sec. XVIII
+BO0624_88008,320211,16,15,"DEBUCOURT (Louis-Philibert) —1755-—1832, Paris.",279,96.5,False,positional,Louis-Philibert Debucourt,,,,Sec. XVIII
+BO0624_88008,320212,17,16,"DECAMPS (Alexandre-Gabriel) ）—1803——1860, Fontainebleau.",293,97.0,False,positional,Alexandre-Gabriel Decamps,,,,Sec. XIX
 BO0624_88008,320213,18,17,DECAMPS (Alexandre-Gabriel),313,94.3,False,positional,Alexandre-Gabriel Decamps,,,,
-BO0624_88008,320214,19,19,"DUPRE (Jules) —— 181l——1889, Isle-Adam.",330,95.4,False,positional,Jules Dupre,,,,
-BO0624_88008,320215,20,20,"DUPRE (Leon Victor) — 1816—1879, Paris.",346,95.7,False,positional,Leon Victor Dupre,,,,
+BO0624_88008,320214,19,19,"DUPRE (Jules) —— 181l——1889, Isle-Adam.",330,95.4,False,positional,Jules Dupre,,,,Sec. XIX
+BO0624_88008,320215,20,20,"DUPRE (Leon Victor) — 1816—1879, Paris.",346,95.7,False,positional,Leon Victor Dupre,,,,Sec. XIX
 BO0624_88008,320216,21,2,"Largeur m 0,31. Carton —Hauteur m O,22",354,97.3,False,positional,Leon Victor Dupre,,,,
 BO0624_88008,320217,22,18,DIAZ de la PENA (Narcisse-Virgilio),362,95.7,False,positional,Narcisse-Virgilio Diaz de la Pena,,,,
 BO0624_88008,320218,23,21,ECOLE FRANCAISE XVlll siecle.,371,94.9,False,positional,,Ecole Francaise XVIII siecle,,,
 BO0624_88008,320219,24,22,ECOLE FRANCAISE,379,90.9,False,positional,,Ecole Francaise,,,
-BO0624_88008,320220,25,23,ECOLE FRANCAISE  XVII siecle.,391,94.7,False,positional,,Ecole Francaise XVII siecle,,,
+BO0624_88008,320220,25,23,ECOLE FRANCAISE  XVII siecle.,391,94.7,False,positional,,Ecole Francaise XVII siecle,,,Sec. XVII
 BO0624_88008,320221,26,I,m Vordergruud die Ruinen eines ebenso majestatischen wie eleganten,409,99.2,False,positional,,Ecole Francaise XVII siecle,,,
 BO0624_88008,320222,27,I,l existe peu d'oeuvres de cette importance et de cette epoque qui aient mieux resiste aux injures du temps. La fraicheur des coloris est a ce point conservee qu'il semblerait que ce tableau soit recent.,422,99.8,False,positional,,Ecole Francaise XVII siecle,,,
 BO0624_88008,320223,28,24,ECOLE ITALIENNE —xvr Siecle.,428,94.5,False,positional,,Ecole Italienne XVI Siecle,,,
 BO0624_88008,320224,29,25,"GERICAULT (Jean Louis Andre Theodore) —— 17911824, Paris.",442,97.1,False,positional,Jean Louis Andre Theodore Gericault,,,,
 BO0624_88008,320225,30,26,"DE G0YA Y LUCIENTES (Francisco Jose)—17461828, Bordeaux. m Hintergrund gewahrt man die aufgeregte Zuschauermenge.",469,68.3,False,positional,Francisco Jose de Goya y Lucientes,,,,
-BO0624_88008,320226,31,27,"GOYA Y LUCIENTES (Francisco Jose)1746——I828, Bordeaux.",473,97.1,False,positional,Francisco Jose Goya y Lucientes,,,,
-BO0624_88008,320227,32,28,"GREUZE (Jean-Baptiste) ）——1725-—1805,Paris.",485,96.0,False,positional,Jean-Baptiste Greuze,,,,
+BO0624_88008,320226,31,27,"GOYA Y LUCIENTES (Francisco Jose)1746——I828, Bordeaux.",473,97.1,False,positional,Francisco Jose Goya y Lucientes,,,,Sec. XVIII
+BO0624_88008,320227,32,28,"GREUZE (Jean-Baptiste) ）——1725-—1805,Paris.",485,96.0,False,positional,Jean-Baptiste Greuze,,,,Sec. XVIII
 BO0624_88008,320228,33,I,"m Sand am Meeresstrand, sitzt vor ihrer Staffelei eine junge Frau, im Begriff die Studie zu malen, welche ihr die Ruhe und Schonheit ihres Lieblingsplatzchens im Gedachtnis halten wird.",500,99.7,False,positional,Jean-Baptiste Greuze,,,,
 BO0624_88008,320229,34,31,"JAcQUE (Charles-Emile) 18131894,Paris.",502,95.9,False,positional,Charles-Emile Jacque,,,,
 BO0624_88008,320230,35,I,nterieur de ferme.,504,97.1,False,positional,Charles-Emile Jacque,,,,
 BO0624_88008,320231,36,I,nneres eines Bauernhofs.,516,97.9,False,positional,Charles-Emile Jacque,,,,
 BO0624_88008,320232,37,29,DE HAUZEN (A) Contemporain.,522,94.1,False,positional,A. de Hauzen,,,,
 BO0624_88008,320233,38,30,"HOLMES (G.A.) —— Contemporain, Londres.",540,95.4,False,positional,G.A. Holmes,,,,
-BO0624_88008,320234,39,32,JAcOMIN (Alfred-Louis) Nee 1843 a Paris.,549,96.1,False,positional,Alfred-Louis Jacomin,,,,
-BO0624_88008,320235,40,33,"JOLIVARD (Andre) —1787—1851,Paris.",565,95.2,False,positional,Andre Jolivard,,,,
-BO0624_88008,320236,41,34,"KUWASSEG (Charles Joseph) ——1802-1877,Nanterre.",577,96.6,False,positional,Charles Joseph Kuwasseg,,,,
-BO0624_88008,320237,42,35,## 35.LACROIX (De Marseille) —XvlllSiecle 1779,594,100.0,False,positional,Lacroix de Marseille,,,,
+BO0624_88008,320234,39,32,JAcOMIN (Alfred-Louis) Nee 1843 a Paris.,549,96.1,False,positional,Alfred-Louis Jacomin,,,,Sec. XIX
+BO0624_88008,320235,40,33,"JOLIVARD (Andre) —1787—1851,Paris.",565,95.2,False,positional,Andre Jolivard,,,,Sec. XVIII
+BO0624_88008,320236,41,34,"KUWASSEG (Charles Joseph) ——1802-1877,Nanterre.",577,96.6,False,positional,Charles Joseph Kuwasseg,,,,Sec. XIX
+BO0624_88008,320237,42,35,## 35.LACROIX (De Marseille) —XvlllSiecle 1779,594,100.0,False,positional,Lacroix de Marseille,,,,Sec. XVIII
 BO0624_88008,320238,43,36,36.LACROIX (De Marseille) (Eleve de J. Vernet.),606,100.0,False,positional,Lacroix de Marseille,,,,
 BO0624_88008,320239,44,37,37.LAWRENCE Sir Thomas,615,100.0,False,positional,Lacroix de Marseille,,,,
 BO0624_88008,320240,45,38,"LE POITTEVIN (Eugene Modeste Edmond) —18061870,",635,96.6,False,positional,Eugene Modeste Edmond Le Poittevin,,,,
@@ -48,20 +48,20 @@ BO0624_88008,320241,46,39,MICHEL-ANGE (Ecole de),652,93.0,False,positional,,Ecol
 BO0624_88008,320242,47,40,"MILLET (Jean Francois)  18141875,Barbizon",666,96.2,False,positional,Jean Francois Millet,,,,
 BO0624_88008,320243,48,I,"n einem dicht belaubten Waldwinkel fihrt eine junge Bauerin, die einen grossen Stock in der Hand halt, zwei Schweine zur Triffelsuche.",678,99.6,False,positional,Jean Francois Millet,,,,
 BO0624_88008,320244,49,I,n seiner Einfachheit eindrucksvolles und die gewaltige Kunst des berihmten Landschafters charakterisierendes Bild.,680,99.6,False,positional,Jean Francois Millet,,,,
-BO0624_88008,320245,50,1474,"1564,Rome.",686,78.3,False,positional,Jean Francois Millet,,,,
-BO0624_88008,320246,51,41,"MILLET (Jean Francois) 1814——1875,Barbizon.",687,96.3,False,positional,Jean Francois Millet,,,,
+BO0624_88008,320245,50,1474,"1564,Rome.",686,78.3,False,positional,Jean Francois Millet,,,,Sec. XVI
+BO0624_88008,320246,51,41,"MILLET (Jean Francois) 1814——1875,Barbizon.",687,96.3,False,positional,Jean Francois Millet,,,,Sec. XIX
 BO0624_88008,320247,52,42,MIRALLES （Francisco) + Barcelone.,703,94.9,False,positional,Francisco Miralles,,,,
 BO0624_88008,320248,53,43,"MONGoDIN (Victor) —Contemporain. Nee I819 Vire (Dep.Calvados). n einer Landschaft hangt am Baumstumpf die Jagdtasche, der Hase und Rebhuhn entnommen sind, die daneben am Boden liegen.",729,81.1,False,positional,Victor Mongodin,,,,
 BO0624_88008,320249,54,44,"De NEUVILLE (Alphonse) attribue —18361885, Paris. nmitten hoher Gebirge wird eine Amazonen-Armee von den Barbaren iberrascht. Das Durcheinander von Pferden und Verwundeten wirkt, gleich der lebendigen Bewegung der Kampfenden und der Schonheit der Landschaft, sehr eindrucksvoll.",740,91.1,False,positional,Alphonse de Neuville,,,,
-BO0624_88008,320250,55,45,"N0EL (Jules) —1815—188l, Algier.",742,94.7,False,positional,Alphonse de Neuville,,,,
+BO0624_88008,320250,55,45,"N0EL (Jules) —1815—188l, Algier.",742,94.7,False,positional,Alphonse de Neuville,,,,Sec. XIX
 BO0624_88008,320251,56,I,"m Durchblick unter dem Laub hundertjahriger Baume, sieht man die edlen Linien der Architektur, um deren Mauern fliesst ein Flusschen, dahinter dehnt sich der weite Horizont.",769,99.7,False,positional,Alphonse de Neuville,,,,
-BO0624_88008,320252,57,47,"RICHET (Leon) —Paris. PERIGNON (Nicolas)— 1727-1782,Paris.",791,77.6,False,positional,Nicolas Perignon,,,,
+BO0624_88008,320252,57,47,"RICHET (Leon) —Paris. PERIGNON (Nicolas)— 1727-1782,Paris.",791,77.6,False,positional,Nicolas Perignon,,,,Sec. XVIII
 BO0624_88008,320253,58,48,"RIGAUD (Hyacinthe) ,Paris.",792,78.0,False,positional,Hyacinthe Rigaud,,,,
-BO0624_88008,320254,59,49,"RUBENS (Ecole de) — 1577—1640, Anvers.",816,95.5,False,positional,RUBENS PETER PAUL,Ecole de Rubens,,,
-BO0624_88008,320255,60,50,"SAINT-EVRE (Gillot) —1791—1858, Paris.",831,95.7,False,positional,Gillot Saint-Evre,,,,
-BO0624_88008,320256,61,51,"TROYON (Constant) — 1810——1865, Paris. m Vordergrund neben einer roten Kuh ein Rind und weiter zurick eine weisse Kuh, deren Fell vom Sonnenglanz silberig schimmert. Nahe dem Geholz ruhen weitere Kihe, indes zur Rechten ein Schafer seine Herde heimwarts fuihrt.",851,93.4,False,positional,Constant Troyon,,,,
+BO0624_88008,320254,59,49,"RUBENS (Ecole de) — 1577—1640, Anvers.",816,95.5,False,positional,RUBENS PETER PAUL,Ecole de Rubens,,,Sec. XVI
+BO0624_88008,320255,60,50,"SAINT-EVRE (Gillot) —1791—1858, Paris.",831,95.7,False,positional,Gillot Saint-Evre,,,,Sec. XVIII
+BO0624_88008,320256,61,51,"TROYON (Constant) — 1810——1865, Paris. m Vordergrund neben einer roten Kuh ein Rind und weiter zurick eine weisse Kuh, deren Fell vom Sonnenglanz silberig schimmert. Nahe dem Geholz ruhen weitere Kihe, indes zur Rechten ein Schafer seine Herde heimwarts fuihrt.",851,93.4,False,positional,Constant Troyon,,,,Sec. XIX
 BO0624_88008,320257,62,52,D.TRUBERT——18271884.,857,92.3,False,positional,D. Trubert,,,,
 BO0624_88008,320258,63,53,"VAN 0STADE (Adrien) —16101685,Haarlem.",878,95.8,False,positional,Adrien van Ostade,,,,
-BO0624_88008,320259,64,54,"VERNET (Claude-Joseph) ——1712—1789, Paris.",896,96.0,False,positional,Claude-Joseph Vernet,,,,
+BO0624_88008,320259,64,54,"VERNET (Claude-Joseph) ——1712—1789, Paris.",896,96.0,False,positional,Claude-Joseph Vernet,,,,Sec. XVIII
 BO0624_88008,320260,65,55,"VIGEE-LEBRUN (Marie-Louise Elisabeth) 1755I842, Paris.",915,97.1,False,positional,Marie-Louise Elisabeth Vigee-Lebrun,,,,
-BO0624_88008,320261,66,56,"WEENIX (Jean) —1640—1719, Amsterdam.",929,95.4,False,positional,Jean Weenix,,,,
+BO0624_88008,320261,66,56,"WEENIX (Jean) —1640—1719, Amsterdam.",929,95.4,False,positional,Jean Weenix,,,,Sec. XVII

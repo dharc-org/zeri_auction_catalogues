@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87893,523650,1,1,"Italienische Landschaft. Vorzugliche Tusch-und Bleistiftzeichnung. Hohe 18.5,Breite 16 cm.",7,99.4,False,positional,OSWALD ACHENBACH,,,,
 BO0624_87893,523651,2,2,"Abnahme der Parade.Rechts unten bez.:Albrecht Adam. Bleistiftzeichnung. Hohe 23,5,Breite 32 cm.",11,98.9,False,positional,ALBRECHT ADAM,,,,
-BO0624_87893,523652,3,3,Eine im Stalle liegende Kuh. Unten rechts bez.:im Mai 1852.,15,98.2,False,positional,BENNO ADAM,,,,
+BO0624_87893,523652,3,3,Eine im Stalle liegende Kuh. Unten rechts bez.:im Mai 1852.,15,98.2,False,positional,BENNO ADAM,,,,Sec. XIX
 BO0624_87893,523653,4,4,"Von Wolfen iberfallene Pferde. Bezeichnet mit dem Monogramm. Flotte Bleistiftzeichnung. Hohe 18,Breite 23 cm.",17,99.1,False,positional,BENNO ADAM,,,,
 BO0624_87893,523654,5,5,Dragoner.,18,88.9,False,positional,BENNO ADAM,,,,
 BO0624_87893,523655,6,6,Bayerische Vorposten.Unten rechts bez.:Adam.,24,97.7,False,positional,FRANZ ADAM,,,,
@@ -9,7 +9,7 @@ BO0624_87893,523656,7,7,Soldaten am Wachtfeuer.Unten rechts bez.:Adam.,26,97.8,F
 BO0624_87893,523657,8,8,"Landschaft mit Panduren. Aquarelle. Hohe 10,Breite 15 cn.",28,99.1,False,title_direct,,,Aquarelle,,
 BO0624_87893,523658,9,9,"Bad Sulz am Peissenberg. Fein in Feder und Tusche ausgefihrt. Hohe 25,5, Breite 38,5 cm.",32,98.8,False,positional,H.ADAM,,,,
 BO0624_87893,523659,10,10,"Skizzenheft mit Figuren- und Landschaftsstudien nach Enhuber, Richter etc.und einer Landschaft nach van der Neer. Qu. Fol.",36,98.7,False,positional,E.O.ADLER,,,,
-BO0624_87893,523660,11,11,Meran. Unten gegen links bez.: J. Ait 1866.,40,96.2,False,positional,JAKOB ALT,,,,
+BO0624_87893,523660,11,11,Meran. Unten gegen links bez.: J. Ait 1866.,40,96.2,False,positional,JAKOB ALT,,,,Sec. XIX
 BO0624_87893,523661,12,12,"Ansicht von Heidelberg. Aquarellierte Bleistiftzeichnung Hohe 12,Breite 18 cm.",46,98.1,False,title_direct,,,Aquarelle,,
 BO0624_87893,523662,13,13,"Ansicht aus Nurnberg. Unten rechts bez.: Nurnberg 2./10. 30. Bleistiftskizze. Hohe 15,5,Breite 20 cm.",47,98.4,False,positional,RUDOLF ALT,Scuola di Norimberga,,,
 BO0624_87893,523663,14,14,Waldlandschaft im Winter. Unten rechts bez.: Louis Apol ft.,51,97.3,False,positional,LOUIS APOL,,,,
@@ -19,10 +19,10 @@ BO0624_87893,523666,17,17,"Partie bei Langenspreising. Unten links bez.:H. Baisc
 BO0624_87893,523667,18,18,Landschaft mit Bauernhaus und Frau am Wege.Unten rechts,64,97.3,False,positional,HERMANN BAISCH,,,,
 BO0624_87893,523668,19,19,"Flachlandschaft,im Vordergrunde derselben Rinderherde auf der",69,97.6,False,positional,HERMANN BAISCH,,,,
 BO0624_87893,523669,20,20,Liegende Kuh.Unten rechts bez.:H.Baisch.,74,96.2,False,positional,HERMANN BAISCH,,,,
-BO0624_87893,523670,21,21,"Felsenlandschaft. Am Tajo-Fluss.Unten rechts bez.: Toledo Agosto 1857. Fritz Bamberger Am Tajo-Fluss. Bleistift- und Tuschzeichnung. Hohe 19,Breite 31,5 cm.",81,77.4,False,positional,FRITZ BAMBERGER,,,,
+BO0624_87893,523670,21,21,"Felsenlandschaft. Am Tajo-Fluss.Unten rechts bez.: Toledo Agosto 1857. Fritz Bamberger Am Tajo-Fluss. Bleistift- und Tuschzeichnung. Hohe 19,Breite 31,5 cm.",81,77.4,False,positional,FRITZ BAMBERGER,,,,Sec. XIX
 BO0624_87893,523671,22,22,"Felsige Landschaft, La Granja. Unten rechts bez.: la Granja 20",82,97.5,False,positional,FRITZ BAMBERGER,,,,
 BO0624_87893,523672,23,23,Ortschaft am Lago di Garda. Unten rechts auf einem Felsblock,87,98.3,False,positional,FRITZ BAMBERGER,,,,
-BO0624_87893,523673,24,24,Gebirgslandschaft:Unten rechts bez.: 1860.,92,96.3,False,positional,FRITZ BAMBERGER,,,,
+BO0624_87893,523673,24,24,Gebirgslandschaft:Unten rechts bez.: 1860.,92,96.3,False,positional,FRITZ BAMBERGER,,,,Sec. XIX
 BO0624_87893,523674,25,25,2 Blatt. Pfanzenstudien.Qu.Fol.,99,95.1,False,positional,FRITZ BAMBERGER,,,,
 BO0624_87893,523675,26,26,Gebirgslandschaft mit Dorfern im Thal. Bezeichnet:Fritz Bam-,103,97.5,False,positional,FRITZ BAMBERGER,,,,
 BO0624_87893,523676,27,27,"Auf Riga; Kustenlandschaft. Unten links bez.: Hans Bartels, Minchen.",110,97.6,False,positional,HANS VON BARTELS,,,,
@@ -30,7 +30,7 @@ BO0624_87893,523677,28,28,Allegorie auf die Aufklarung. Weibliche Gestalt uber e
 BO0624_87893,523678,29,29,"Einladungskarte.Teufel,der Unterwelt entsteigend. Unten rechts bez.:Ferd.Barth.",121,98.1,False,positional,FERDINAND BARTH,,,,
 BO0624_87893,523679,30,30,Entwurf zu einer Aktie der Bayerischen Handelsbank.,125,97.1,False,positional,FERDINAND BARTH,,,,
 BO0624_87893,523680,31,31,3 Blatt.Eine Randvignette —eine Neujahrskarte —eine Ansichtskarte in einem Passepartout.Die beiden Gluckwunschkarten,129,98.7,False,positional,FERDINAND BARTH,,,,
-BO0624_87893,523681,32,32,Entwurf einer Neujahrskarte.Rechts unten bez.:Ferd. Barth. 1878/79.,136,97.7,False,positional,FERDINAND BARTH,,,,
+BO0624_87893,523681,32,32,Entwurf einer Neujahrskarte.Rechts unten bez.:Ferd. Barth. 1878/79.,136,97.7,False,positional,FERDINAND BARTH,,,,Sec. XIX
 BO0624_87893,523682,33,33,Zwei Randleisten in einem Passepartout.,140,96.2,False,positional,FERDINAND BARTH,,,,
 BO0624_87893,523683,34,34,Vier Skizzenbicher mit Landschafts- und Figurenstudien. Qu.-,146,97.4,False,positional,A.BERNREITER,,,,
 BO0624_87893,523684,35,35,Baumstudie aus dem Wiener Prater. Unten rechts bez.:T. Blau,153,97.4,False,positional,TINABLAU,,,,
@@ -81,8 +81,8 @@ BO0624_87893,523728,79,81,Brustbild eines Wilderers. Rechts unten bezeichnet:E. 
 BO0624_87893,523729,80,82,Brustbild eines Forsters. Unten bez.:Ed. Gritzner.,409,96.8,False,positional,EDUARD GRUTZNER,,,,
 BO0624_87893,523730,81,83,"Gebirgsdorf am Abend;im Vordergrunde Brunnen mit reicher figirlicher Staffage. Unten rechts bez.:Habenschaden fe. Vorzugliche Aquarelle.Hohe 18,Breite 23,5 cm.",415,99.0,False,title_direct,,,Aquarelle,,
 BO0624_87893,523731,82,84,Junges Rind. Unten links bez.:1S32.S. Habenschaden. In der Mitte:5 Monate alt.,418,98.0,False,positional,S.HABENSCHADEN,,,,
-BO0624_87893,523732,83,85,Tolzer Bauer an einem Tisch sitzend. Links bez.:Haider fecit 1836.,424,97.7,False,positional,MAX HAIDER,,,,
-BO0624_87893,523733,84,86,Fuchs aus dem Walde kommend. Unten links bez.:M. Haider 1854.,428,97.4,False,positional,MAX HAIDER,,,,
+BO0624_87893,523732,83,85,Tolzer Bauer an einem Tisch sitzend. Links bez.:Haider fecit 1836.,424,97.7,False,positional,MAX HAIDER,,,,Sec. XIX
+BO0624_87893,523733,84,86,Fuchs aus dem Walde kommend. Unten links bez.:M. Haider 1854.,428,97.4,False,positional,MAX HAIDER,,,,Sec. XIX
 BO0624_87893,523734,85,87,"Fuchs iber eine Wiese laufend. Unten rechts bez.: Haider. Bleistift-und Federzeichnung. Hohe 6,Breite 11 cm.",432,98.6,False,positional,MAX HAIDER,,,,
 BO0624_87893,523735,86,88,Portrat des Professors Wilhelm von Diez. Unten links bez.: W.D.,436,97.5,False,positional,EDUARD HARBURGER,,,,
 BO0624_87893,523736,87,89,Gesatteltes Pferd in einer Landschaft. Unten rechts bez.:Pahl. Der alte Hans. L.Hartmann.,442,80.8,False,positional,LUDWIGHARTMANN,,,,
@@ -96,19 +96,19 @@ BO0624_87893,523743,94,96,",Turke aus Griecheniand.Unten rechts bez.:P. Hess. Vo
 BO0624_87893,523744,95,97,"Thorbogen, im Hintergrunde Landschaft.Unten rechts bez.:",480,97.2,False,positional,PETER VON HESS,,,,
 BO0624_87893,523745,96,98,Vedette.,485,82.4,False,positional,PETER VON HESS,,,,
 BO0624_87893,523746,97,99,"Landschaft mit Bauernhitte,vor welcher eine Frau steht,welche",491,97.6,False,positional,MAR.HEYL,,,,
-BO0624_87893,523747,98,100,Der Dorfarzt am Bette eines alten Bauern. Unten rechts bez.: Hirner 1855.,498,97.2,False,positional,JOSEPH HIRNER,,,,
+BO0624_87893,523747,98,100,Der Dorfarzt am Bette eines alten Bauern. Unten rechts bez.: Hirner 1855.,498,97.2,False,positional,JOSEPH HIRNER,,,,Sec. XIX
 BO0624_87893,523748,99,101,Die Krankenpflegerin. Nonne an der Wiege eines Kindes sitzend. Unten rechts bez.:Paul Hoecker.,504,97.8,False,positional,PAUL HOECKER,,,,
 BO0624_87893,523749,100,102,Schafer mit Schafen in Landschaft.,510,94.3,False,positional,HOFNER,,,,
 BO0624_87893,523750,101,103,"Sitzendes, junges Madchen,ihr zur Seite junger Mann mit eineni offenen Buche in der Rechten, sie betrachtend;beide in Empire-",515,98.4,False,positional,R.HOLTZMULLER,,,,
 BO0624_87893,523751,102,104,Artilleriepferde scheuen vor einer platzenden Granate.,522,96.4,False,positional,THEODOR HORSCHELT,,,,
-BO0624_87893,523752,103,105,Vor Strassburg 1870. Deutsche Vorposten schlafen in den Lauf-,524,96.7,False,positional,THEODOR HORSCHELT,,,,
+BO0624_87893,523752,103,105,Vor Strassburg 1870. Deutsche Vorposten schlafen in den Lauf-,524,96.7,False,positional,THEODOR HORSCHELT,,,,Sec. XIX
 BO0624_87893,523753,104,106,Araber und Araberin mit Pferden vor ihrem Zelte.Unten rechts,529,96.8,False,positional,THEODOR HORSCHELT,,,,
 BO0624_87893,523754,105,107,Sitzende Orientalin. n Passepartout.,534,66.7,False,positional,THEODOR HORSCHELT,,,,
 BO0624_87893,523755,106,108,Zwei sitzende arabische Hauptlinge.,543,94.4,False,positional,THEODOR HORSCHELT,,,,
 BO0624_87893,523756,107,109,"Berglandschaft, im Vordergrunde zwei Gemsenjager auf einem Felsen.",545,97.0,False,positional,THEODOR HORSCHELT,,,,
 BO0624_87893,523757,108,110,Braunes Pferd nach rechts in Landschaft. Bezeichnet: Rotten-,551,96.6,False,positional,F.JAEGER,,,,
 BO0624_87893,523758,109,111,"Abgesagter Baumstamm.Bez.:F.Jaeger. Mchn.72. Oelstudie in Passepartout.Hohe 23,5,Breite 31,5 cm.",555,97.9,False,title_direct,,,Oelstudien,,
-BO0624_87893,523759,110,112,"Studie bei Ottershausen.Bez.:,Ottershausen 1871:""",556,95.7,False,positional,F.JAEGER,,,,
+BO0624_87893,523759,110,112,"Studie bei Ottershausen.Bez.:,Ottershausen 1871:""",556,95.7,False,positional,F.JAEGER,,,,Sec. XIX
 BO0624_87893,523760,111,113,Zwei Schwalben an ihrem Neste.,558,93.5,False,positional,F.JAEGER,,,,
 BO0624_87893,523761,112,114,Marine. Bezeichnet.,560,89.5,False,positional,F.JAEGER,,,,
 BO0624_87893,523762,113,115,"Landschaft bei Tivoli. Unten links bez.:P. Jorit. Tivoli. Vorzugliche Aquarelle.Hohe 43,5,Breite 29 cm.",568,98.0,False,title_direct,,,Aquarelle,,
@@ -130,19 +130,19 @@ BO0624_87893,523777,128,130,",Bucentauro auf dem Starnberger See nach einem alte
 BO0624_87893,523778,129,131,Skizze zu dem Bucentauro. Unten links bez.:Bucentauro auf d.,644,96.6,False,positional,EMIL KIRCHNER,,,,
 BO0624_87893,523779,130,132,"Skizze zu dem Bucentauro. Aquarellierte Bleistiftzeichnung.Hohe 22,Breite 30 cm.",649,97.5,False,title_direct,,,Aquarelle,,
 BO0624_87893,523780,131,133,Schloss mit Park. Unten rechts bez.:Kirchner.,650,95.5,False,positional,EMIL KIRCHNER,,,,
-BO0624_87893,523781,132,134,Architekturbild aus Verona. Gegen unten rechts bezeichnet: A.Kr.Piazza del Duomo Verona 21ten Sept.1844.,652,98.1,False,positional,EMIL KIRCHNER,,,,
+BO0624_87893,523781,132,134,Architekturbild aus Verona. Gegen unten rechts bezeichnet: A.Kr.Piazza del Duomo Verona 21ten Sept.1844.,652,98.1,False,positional,EMIL KIRCHNER,,,,Sec. XIX
 BO0624_87893,523782,133,135,Gebirgslandschaft;bei Campil. Unten rechts bez.:beim Bonner,656,96.6,False,positional,EMIL KIRCHNER,,,,
 BO0624_87893,523783,134,136,Sitzende Italienerin und liegender Hund. Bezeichnet.,663,96.2,False,positional,J.A.KLEIN,,,,
 BO0624_87893,523784,135,137,Skizzenheft mit mannlichen und weiblichen Aktstudien etc. Qu.Fol.,668,96.9,False,positional,EUGEN KLINCKENBERG,,,,
 BO0624_87893,523785,136,138,"Romische Landschaft,im Vordergrunde derselben ein Gebaude mit Turm. Unten rechts bez.: 18 F. Knab 86. Vortreffliche Tusch-und Federzeichnung. Hohe 13,Breite 20 cm.",674,98.7,False,positional,FERDINAND KNAB,Scuola Romana,,,
 BO0624_87893,523786,137,139,"Strickendes Madchen. In der Mitte rechts bez.:L. Knaus. Reizende Kreidezeichnung. Hohe 42,5,Breite 27 cm.",678,98.0,False,positional,LUDWIG KNAUS,,,,
-BO0624_87893,523787,138,140,Der Geizhals. Bez.:Louis Knaus 1853.,679,94.3,False,positional,LUDWIG KNAUS,,,,
+BO0624_87893,523787,138,140,Der Geizhals. Bez.:Louis Knaus 1853.,679,94.3,False,positional,LUDWIG KNAUS,,,,Sec. XIX
 BO0624_87893,523788,139,141,"Strandlandschaft mit Gewitterwolken. Feder- und Sepiazeichnung. Hohe 20,5,Breite 27 cm.",685,97.6,False,positional,FRANZ KOBELL,,STAMPE E INCISIONI,,
 BO0624_87893,523789,140,142,Bayerischer Soldat. Oben links bez.: H. Konig.,689,95.3,False,positional,H.KONIG,,,,
 BO0624_87893,523790,141,143,"Uferlandschaft.Unten links bez.:J. F.Koppenbrouwer f. 46 Tusch- und Sepiazeichnung.Hohe 18,5,Breite 27 cm.",694,98.1,False,positional,J.F.KOPPENBROUWER,,STAMPE E INCISIONI,,
-BO0624_87893,523791,142,144,"Waldlandschaft,in deren Vordergrunde eine Frau mit einem Korb auf dem Kopfe schreitet. Unten rechts bez.: T. K.1869. Kreidezeichnung.Hohe 17,Breite 22.5 cm.",698,98.7,False,positional,THEODOR KOTSCH,,,,
+BO0624_87893,523791,142,144,"Waldlandschaft,in deren Vordergrunde eine Frau mit einem Korb auf dem Kopfe schreitet. Unten rechts bez.: T. K.1869. Kreidezeichnung.Hohe 17,Breite 22.5 cm.",698,98.7,False,positional,THEODOR KOTSCH,,,,Sec. XIX
 BO0624_87893,523792,143,145,Russisches Dreigespann in Steppenlandschaft. Unten links bez.:,702,96.7,False,positional,ALEXANDER KOTZEBUE,,,,
-BO0624_87893,523793,144,146,Waldinneres mit Bach. Unten rechts bez.: den 7ten Aug. 1839 WKrause.,708,96.9,False,positional,WILHELM KRAUSE,,,,
+BO0624_87893,523793,144,146,Waldinneres mit Bach. Unten rechts bez.: den 7ten Aug. 1839 WKrause.,708,96.9,False,positional,WILHELM KRAUSE,,,,Sec. XIX
 BO0624_87893,523794,145,147,"2Bl.Landschaften. Bleistift-und Tuschzeichnungen.Hohe 13 und 14,Breite 19,5 und 20 cm.",712,97.7,False,positional,WILHELM KRAUSE,,,,
 BO0624_87893,523795,146,148,"Wald mit Felsen,im Vordergrunde desselben Reh und Hirsch.",716,96.6,False,positional,JOHANN CHRIST. KRONER,,,,
 BO0624_87893,523796,147,149,"Waldlandschaft, im Vordergrunde derselben eine Schleuse.",723,96.4,False,positional,ERICH KUBIERSCHKY,,,,
@@ -159,12 +159,12 @@ BO0624_87893,523806,157,160,Strassenszene.,772,86.7,False,positional,JULIUS LANG
 BO0624_87893,523807,158,161,Kapelle im Grunen;im Vordergrunde Wasser.,776,95.2,False,positional,JULIUS LANGE,,,,
 BO0624_87893,523808,159,162,"Jesuskind, schlafend,wird von Engeln angebetet:",781,95.7,False,positional,ROBERT LANGER,,,,
 BO0624_87893,523809,160,163,Strasse aus Amsterdam mit figurlicher Staffage. Unten rechts,786,96.7,False,positional,FELICE LEFEBURE,,,,
-BO0624_87893,523810,161,164,"MannlicherLowe.Unten links bez.:Berlin 3./9.1891. Aquarelle.Hohe 18, Breite 23 cm.",793,97.5,False,title_direct,,Scuola di Berlino,Aquarelle,,
+BO0624_87893,523810,161,164,"MannlicherLowe.Unten links bez.:Berlin 3./9.1891. Aquarelle.Hohe 18, Breite 23 cm.",793,97.5,False,title_direct,,Scuola di Berlino,Aquarelle,,Sec. XIX
 BO0624_87893,523811,162,165,Verschiedene Tierstudien. Unten rechts bez.:H. Leutemann Dresden.,794,89.8,False,positional,HERMANN LEUTEMANN,,,,
 BO0624_87893,523812,163,166,Eichenwald.,801,83.3,False,positional,ADOLF LIER,,,,
 BO0624_87893,523813,164,167,Waldlandschaft mit Steg.,805,92.0,False,positional,ADOLF LIER,,,,
 BO0624_87893,523814,165,169,"Allegorie auf die Frommigkeit;Frau mit Kind, das die Hande faltet:Unten iinks monogrammiert:W.Ls.und die Jahrzahl Sehr schone Bleistiftzeichnung. Hohe 42.5,Breite 28,5 em.",814,78.9,False,positional,ADOLF LIER,,,,
-BO0624_87893,523815,166,170,Felsige Landschaft mit kleinem See und Baumen. Unten links bez.: Aug. Loeffler. Jan.1858.,821,97.6,False,positional,AUGUST LOEFFLER,,,,
+BO0624_87893,523815,166,170,Felsige Landschaft mit kleinem See und Baumen. Unten links bez.: Aug. Loeffler. Jan.1858.,821,97.6,False,positional,AUGUST LOEFFLER,,,,Sec. XIX
 BO0624_87893,523816,167,171,"Biblische Landschaft,im Vordergrunde einer Baumgruppe Hirte",826,96.7,False,positional,AUGUST LOEFFLER,,,,
 BO0624_87893,523817,168,172,Am Starnberger See.,831,90.0,False,positional,AUGUST LOEFFLER,,,,
 BO0624_87893,523818,169,173,"Brustbild eines alten Bauernweibes. Unten rechts bez.:Lofftz. Hervorragend schone Aquarelle. Hohe 38,Breite 30 cm.",837,98.2,False,title_direct,,,Aquarelle,,
@@ -182,11 +182,11 @@ BO0624_87893,523829,180,184,"2 Bl. Mihle am Wasser— Bauernhaus,im Vordergrunde
 BO0624_87893,523830,181,185,"Brunnen mit reicher Architektur an einer Mauer,iber welche eben",890,96.9,False,positional,ADOLFVONMENZEL,,,,
 BO0624_87893,523831,182,186,Szene aus der romischen Geschichte. Unten rechts bez.:Metten-,897,96.7,False,positional,JOH.MICH.METTENLEITNER,,,,
 BO0624_87893,523832,183,187,2 Bl. Der verlorene Sohn.Unten links bez.:Mettenleitner.,902,96.4,False,positional,JOH.MICH.METTENLEITNER,,,,
-BO0624_87893,523833,184,188,"Mineralwasserkrug und Trinkglas. Bezeichnet und datiert 1853. Oelstudie in Passepartout.Hohe 28,Breite 20,5 cm.",907,98.2,False,title_direct,,,Oelstudien,,
+BO0624_87893,523833,184,188,"Mineralwasserkrug und Trinkglas. Bezeichnet und datiert 1853. Oelstudie in Passepartout.Hohe 28,Breite 20,5 cm.",907,98.2,False,title_direct,,,Oelstudien,,Sec. XIX
 BO0624_87893,523834,185,189,Venedig mit dem Dogenpalast bei Sonnenuntergang und figur-,911,96.6,False,positional,EDGARMEYER,,,,
 BO0624_87893,523835,186,190,Kloster Wilten bei Innsbruck.Unten links bez.:Edgar Meyer 87.,913,96.7,False,positional,EDGARMEYER,,,,
 BO0624_87893,523836,187,191,Platz mit Neptunbrunnen aus Verona. Unten rechts bez.:Edgar,915,96.6,False,positional,EDGARMEYER,,,,
-BO0624_87893,523837,188,192,"Kihe, Ziegen und Schafe auf der Weide.Bezeichnet:H. P.1856. Ausgefihrte Aquarelle. Hohe 15,8, Breite 22,5 cm.",922,98.1,False,title_direct,,,Aquarelle,,
+BO0624_87893,523837,188,192,"Kihe, Ziegen und Schafe auf der Weide.Bezeichnet:H. P.1856. Ausgefihrte Aquarelle. Hohe 15,8, Breite 22,5 cm.",922,98.1,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_87893,523838,189,193,"Starnberger Bauerin,mit der Reparatur ihres Mieders beschaftigt.",926,96.9,False,positional,A.MONTEMEZZO,,,,
 BO0624_87893,523839,190,194,"Gefecht zwischen Infanterie und Kavallerie. ,3cm.",931,91.3,False,positional,D.MONTEN,,,,
 BO0624_87893,523840,191,195,Strandlandschaft bei Gewitterstimmung. Unten rechts bez.: Chr.,936,96.7,False,positional,CHRISTIAN MORGENSTERN,,,,
@@ -206,7 +206,7 @@ BO0624_87893,523853,204,208,"Der Traunstein am Traunsee. Schone Oelstudie in Pas
 BO0624_87893,523854,205,209,Das Hollengebirg vom Mondsee aus (das Steinerne Meer).,985,96.2,False,positional,JOS. NEP.OTT,,,,
 BO0624_87893,523855,206,210,"Partie bei Gastein. Reizende Oelstudie in Passepartout.Hohe 19,Breite 28,5 cm.",987,97.4,False,title_direct,,,Oelstudien,,
 BO0624_87893,523856,207,211,"2 Bl. Brustbild einer jungen Frau -Kopf eines jungen Madchens, beide im Profil gesehen.",991,97.6,False,positional,F.A.PALME,,,,
-BO0624_87893,523857,208,212,Brustbild eines hubschen jungen Madchens. Bez.: Genzano Aug 1836.,995,96.8,False,positional,F.A.PALME,,,,
+BO0624_87893,523857,208,212,Brustbild eines hubschen jungen Madchens. Bez.: Genzano Aug 1836.,995,96.8,False,positional,F.A.PALME,,,,Sec. XIX
 BO0624_87893,523858,209,213,"Flachlandschaft mit Kahn unter Baumen. Kreidezeichnung. Hohe 18,Breite 26,5 cm.",1001,97.4,False,positional,AUGUSTVONPETTENKOFEN,,,,
 BO0624_87893,523859,210,214,"Ungarisches Dorf. Bleistiftzeichnung. Hohe.10,Breite 16 cm.",1002,96.6,False,positional,AUGUSTVONPETTENKOFEN,,,,
 BO0624_87893,523860,211,215,Torre del Grecco.,1003,88.9,False,positional,AUGUSTVONPETTENKOFEN,,,,
@@ -244,7 +244,7 @@ BO0624_87893,523891,242,246,Ansicht von Gauting. Unten links monogrammiert:J. R.
 BO0624_87893,523892,243,247,"Die Frauentirme zu Munchen in Mondbeleuchtung. Schone, getuschte Kohle- und Sepiazeichnung. Hohe 21, Breite 16 cm.",1131,98.2,False,positional,JOSEPH RESCH,,STAMPE E INCISIONI,,
 BO0624_87893,523893,244,248,Partie aus Possenhofen.Unten links monogrammiert:J. R. fec.,1132,96.6,False,positional,JOSEPH RESCH,,,,
 BO0624_87893,523894,245,249,"Aufkirchen. Unten rechts monogrammiert:J. R. fec. Bleistiftzeichnung. Hohe 19,5.Breite 26,5 cm.",1134,97.8,False,positional,JOSEPH RESCH,,,,
-BO0624_87893,523895,246,250,Percha bei Starnberg. Unten rechts bez.: Percha bey Starnberg3.Sept. 1861. Links: Jos.Resch fec.,1135,97.8,False,positional,JOSEPH RESCH,,,,
+BO0624_87893,523895,246,250,Percha bei Starnberg. Unten rechts bez.: Percha bey Starnberg3.Sept. 1861. Links: Jos.Resch fec.,1135,97.8,False,positional,JOSEPH RESCH,,,,Sec. XIX
 BO0624_87893,523896,247,251,"Darstellung zu dem Marchen ,Das Zauberpferd"". Bleistiftzeichnung. Hohe 12,Breite 8,5 cm.",1141,97.6,False,positional,LUDWIG RICHTER,,,,
 BO0624_87893,523897,248,252,Engel mit Fahne und Weihrauchkessel.,1144,94.6,False,positional,LUDWIG RICHTER,,,,
 BO0624_87893,523898,249,253,"Die sieben Schwaben. Bleistiftzeichnung.Hohe 10, Breite 7 cm.",1146,96.7,False,positional,LUDWIG RICHTER,,,,
@@ -271,7 +271,7 @@ BO0624_87893,523918,269,273,Pfanzenstudie. Unten rechts bez.:Darmstadt-Ziegelhut
 BO0624_87893,523919,270,274,"Baumstamm, mit figuirlicher Staffage. Unten links bez.:Ziegelhitte 21.Sept.61.R.Darmstadt.",1220,97.7,False,positional,PHILIPP ROETH,,,,
 BO0624_87893,523920,271,275,"Bei Pasing. Rechts unten bez.:R. 86 Skizze. Reizende Aquarelle. Hohe 16,5,Breite 21 cm.",1224,97.6,False,title_direct,,,Aquarelle,,
 BO0624_87893,523921,272,276,"Junge Dame mit Mops in einer Equipage. Bez.:E. Rosenstand 89. Feder-und Sepiazeichnung in Passepartout. Hohe 23,3,Breite 31,5 cm.",1228,98.4,False,positional,E.ROSENSTAND,,STAMPE E INCISIONI,,
-BO0624_87893,523922,273,277,Waldinneres. Unten links bez.: Ch.Ross 1848.,1233,95.2,False,positional,KARL ROSS,,,,
+BO0624_87893,523922,273,277,Waldinneres. Unten links bez.: Ch.Ross 1848.,1233,95.2,False,positional,KARL ROSS,,,,Sec. XIX
 BO0624_87893,523923,274,278,"Ansicht von Sparta und Delos,doppelseitig. Bez.:Carl Rott-",1237,96.5,False,positional,KARL ROTTMANN,,,,
 BO0624_87893,523924,275,279,Gebirgsschlucht mit Brucke in Italien.,1242,94.9,False,positional,KARL ROTTMANN,,,,
 BO0624_87893,523925,276,280,Gebirgslandschaft mit Ruine.Unten rechts bez.:C. R.,1244,96.0,False,positional,KARL ROTTMANN,,,,
@@ -279,7 +279,7 @@ BO0624_87893,523926,277,281,Aus Venedig. Unten links monogrammiert: P. S.,1250,9
 BO0624_87893,523927,278,282,"Gebirgslandschaft, im Vordergrunde Wiese von Wald umsaumt. Unten rechts bez.:3. 5. 34.",1253,97.6,False,positional,WILHELM SCHEUCHZER,,,,
 BO0624_87893,523928,279,283,"Landschaft am Seeufer. Aquarelle.Hohe 33,5,Breite 56 cm.",1259,96.4,False,title_direct,,,Aquarelle,,
 BO0624_87893,523929,280,284,Waldiges Ufer.Unten rechts bez.:S.34.,1261,94.6,False,positional,JOH. WILHELM SCHIRMER,,,,
-BO0624_87893,523930,281,285,"Waldlandschaft mit Dachshund, der einen toten Fuchs bewacht. Unten rechts bez.:August Schleich. 1842.",1266,98.0,False,positional,AUGUST SCHLEICH,,,,
+BO0624_87893,523930,281,285,"Waldlandschaft mit Dachshund, der einen toten Fuchs bewacht. Unten rechts bez.:August Schleich. 1842.",1266,98.0,False,positional,AUGUST SCHLEICH,,,,Sec. XIX
 BO0624_87893,523931,282,296,"Ein Claqueur. ,Die jenugen, die Bejeisterung-jehorik zu erBleistiftzeichnung. Hohe 14,Breite 20 cm.",1270,97.9,False,positional,AUGUST SCHLEICH,,,,
 BO0624_87893,523932,283,287,Totes Wild.,1272,83.3,False,positional,AUGUST SCHLEICH,,,,
 BO0624_87893,523933,284,288,"Partie aus Alt-Minchen,im Vordergrunde Stadtbach.",1278,96.0,False,positional,EDUARD SCHLEICH,,,,
@@ -299,19 +299,19 @@ BO0624_87893,523946,297,302,"Bei Bernried,im Vordergrund hutet ein Hirt eine Her
 BO0624_87893,523947,298,303,Bayerische Hochlandpartie.,1347,92.6,False,positional,AUGUST SEIDEL,,,,
 BO0624_87893,523948,299,304,"Aus Tirol. Fein in 0el ausgefuhrt. Hohe 22,5, Breite 29,5 cm.",1349,96.6,False,positional,AUGUST SEIDEL,Scuola Tirolese,,,
 BO0624_87893,523949,300,305,Partie bei Polling.,1350,90.0,False,positional,AUGUST SEIDEL,,,,
-BO0624_87893,523950,301,306,"Entwurf zu einem Kneipbilde. Oben steht: 1890. Kneipp, nfluenca.",1354,88.5,False,positional,AUGUST SEIDEL,,,,
+BO0624_87893,523950,301,306,"Entwurf zu einem Kneipbilde. Oben steht: 1890. Kneipp, nfluenca.",1354,88.5,False,positional,AUGUST SEIDEL,,,,Sec. XIX
 BO0624_87893,523951,302,307,"Gebirgslandschaft,im Vordergrunde derselben ein Floriansbrunnen,vor diesem altes Fischerweib.,D'Fischa-Wawi.Unten",1361,98.2,False,positional,RUDOLF VON SEITZ,,,,
 BO0624_87893,523952,303,308,"Urkunde zum 25jahrigen Jubilaum der k.Hofschauspielerin Sophie Diez,mit zahlreichen Namensunterzeichnungen. Die Urkunde schmickt eine grosse Initiale S,reich mit Gold gehoht, und ein Page, sowie hubsche Blumenguirlanden und Vignetten inAquarell. farben ausgefuhrt. Bezeichnet.",1367,99.3,False,title_direct,,,OGGETTI IN ORO,,
 BO0624_87893,523953,304,309,"Ansicht aus Venedig. Unten links bez.: A. Sembach. Venezia 82. Ausgezeichnete Aquarelle. Hohe 27,Breite 37,5 cm.",1373,98.1,False,title_direct,,,Aquarelle,,
 BO0624_87893,523954,305,310,2 Blatt. Schmiede-Interieurs. Roy.Qu.Fol. Sorgfaltig ausgefihrte Kohlezeichnungen.Bezeichnet und datiert. Aufgezogen.,1377,98.2,False,positional,VIKTOR SIEGER,,,,
 BO0624_87893,523955,306,311,Das Innere einer reich ausgestatteten Bauernwohnstube.,1378,96.4,False,positional,VIKTOR SIEGER,,,,
-BO0624_87893,523956,307,312,Das Innere der Hammerschmiede in Pfunds. Bez.u. dat.:1884.,1380,96.4,False,positional,VIKTOR SIEGER,,,,
+BO0624_87893,523956,307,312,Das Innere der Hammerschmiede in Pfunds. Bez.u. dat.:1884.,1380,96.4,False,positional,VIKTOR SIEGER,,,,Sec. XIX
 BO0624_87893,523957,308,313,"Bauernhauser in Fiss in Tirol. Schone Aquarelle. Hohe 54, Breite 37 cm.",1382,97.1,False,title_direct,,Scuola Tirolese,Aquarelle,,
-BO0624_87893,523958,309,314,Strasse im Dorfe Fiss mit einem Brunnen im Vordergrunde. Bez. u.dat.:1885.,1383,97.2,False,positional,VIKTOR SIEGER,,,,
+BO0624_87893,523958,309,314,Strasse im Dorfe Fiss mit einem Brunnen im Vordergrunde. Bez. u.dat.:1885.,1383,97.2,False,positional,VIKTOR SIEGER,,,,Sec. XIX
 BO0624_87893,523959,310,315,Partie aus Pfunds in Tirol mit Kirche und Wirtshaus.,1387,96.2,False,positional,VIKTOR SIEGER,Scuola Tirolese,,,
 BO0624_87893,523960,311,316,Hof eines Bauernhauses mit grossem Brunnen.,1389,95.5,False,positional,VIKTOR SIEGER,,,,
-BO0624_87893,523961,312,3,i7 Inneres der Sensenschmiede zu Rossbach. Dat.:1851.,1391,99.0,False,positional,VIKTOR SIEGER,,,,
-BO0624_87893,523962,313,318,Bauernofen mit Bank. Dat.:1884. Treffliche Aquarelle. Hohe 59.Breite 41 cm.,1393,97.2,False,title_direct,,,Aquarelle,,
+BO0624_87893,523961,312,3,i7 Inneres der Sensenschmiede zu Rossbach. Dat.:1851.,1391,99.0,False,positional,VIKTOR SIEGER,,,,Sec. XIX
+BO0624_87893,523962,313,318,Bauernofen mit Bank. Dat.:1884. Treffliche Aquarelle. Hohe 59.Breite 41 cm.,1393,97.2,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_87893,523963,314,319,"10 Bl. Ansichten aus Tiroler Dorfern. Gr Fol.,Roy.Fol. und",1394,96.4,False,positional,VIKTOR SIEGER,,,,
 BO0624_87893,523964,315,320,3 Bl. Hammerschmieden-Interieurs.,1399,93.9,False,positional,VIKTOR SIEGER,,,,
 BO0624_87893,523965,316,321,Ansicht eines Bauernhauses mit Kirche im Hintergrunde.,1401,96.4,False,positional,VIKTOR SIEGER,,,,
@@ -321,7 +321,7 @@ BO0624_87893,523968,319,324,"4 Bl. Darstellungen zur Ribezahl-Legende. Sehr scho
 BO0624_87893,523969,320,325,"Spielende Kinder auf einer Wiese,im Hintergrunde Hauser.Unten rechts bez.:C.F.Smith.",1428,97.6,False,positional,KARL SMITH,,,,
 BO0624_87893,523970,321,326,"Ansicht von Murnau. Unten rechts bez.: Murnau, 28. Sept. 56",1434,96.4,False,positional,KARL SPITZWEG,,,,
 BO0624_87893,523971,322,327,Schuppen vor einem Bauernhaus. Mit figirlicher Staffage. Unten,1439,96.8,False,positional,KARL SPITZWEG,,,,
-BO0624_87893,523972,323,328,"Die Diebe. Zwei Strolche steigen eben in das vergitterte Fenster eines Hauses ein, wahrend der Nachtwachter mit einem jungen Madchen auf der Strasse im Hintergrunde zugeht. Rechts unten auf einem Sack bezeichnet:S.1836.",1444,99.1,False,positional,KARL SPITZWEG,,,,
+BO0624_87893,523972,323,328,"Die Diebe. Zwei Strolche steigen eben in das vergitterte Fenster eines Hauses ein, wahrend der Nachtwachter mit einem jungen Madchen auf der Strasse im Hintergrunde zugeht. Rechts unten auf einem Sack bezeichnet:S.1836.",1444,99.1,False,positional,KARL SPITZWEG,,,,Sec. XIX
 BO0624_87893,523973,324,329,Kurfurst Rupert I. schitzt die verfolgten Juden in Heidelberg.,1450,96.8,False,positional,PH.SPORRER,,,,
 BO0624_87893,523974,325,330,Dieselbe Darstellung. Qu. Fol.,1454,93.1,False,positional,PH.SPORRER,,,,
 BO0624_87893,523975,326,331,Segensreiches Wirken der Benediktiner fur Wissenschaft und,1456,96.7,False,positional,PH.SPORRER,,,,
@@ -335,10 +335,10 @@ BO0624_87893,523982,333,338,Waldige Hochgebirgslandschaft mit Gebirgsbach. Unten
 BO0624_87893,523983,334,339,"Die heilige Maria mit dem Jesukinde,von armen Kindern um- cm.",1487,94.1,False,positional,JOH.ED. STEINLE,,,,
 BO0624_87893,523984,335,340,Darstellung zu einer Erzahlung.Monogrammiert.,1494,95.7,False,positional,JOH.ED. STEINLE,,,,
 BO0624_87893,523985,336,341,Partie aus einem alten Stadtchen. Links unten bez.: R. Stieler.,1500,96.7,False,positional,ROBERT STIELER,,,,
-BO0624_87893,523986,337,342,Joseph von Aegypten begrisst seine Bruider. Unten rechts bez.: A.Strahuber 1847.,1505,97.4,False,positional,ALEX.STRAHUBER,,,,
+BO0624_87893,523986,337,342,Joseph von Aegypten begrisst seine Bruider. Unten rechts bez.: A.Strahuber 1847.,1505,97.4,False,positional,ALEX.STRAHUBER,,,,Sec. XIX
 BO0624_87893,523987,338,343,"Tod eines Christen. Hohe 17,Breite 13,5cm. a Mannliche und weibliche Karikatur. Signiert. Humoristische Tusch-und Federzeichnung.Hohe 9,5,Breite 18cm.Gerahmt",1514,84.3,False,positional,FRANZSTUCK,,,,
 BO0624_87893,523988,339,344,"Angeschossener Fuchs,von einem Dachshunde aufgespirt. Aus",1518,96.6,False,positional,ARTHUR THIELE,,,,
-BO0624_87893,523989,340,345,"Landschaft aus Bernau. Unten rechts sig.:Bernau im Juli 1870. Ausgezeichnete Tusch- und Federzeichnung. Hohe 18, Breite 24 cm.",1524,98.3,False,positional,HANS THOMA,,,,
+BO0624_87893,523989,340,345,"Landschaft aus Bernau. Unten rechts sig.:Bernau im Juli 1870. Ausgezeichnete Tusch- und Federzeichnung. Hohe 18, Breite 24 cm.",1524,98.3,False,positional,HANS THOMA,,,,Sec. XIX
 BO0624_87893,523990,341,346,"Bettler in Salamanca. Bezeichnet. Vortreffliche Aquarelle.Hohe 42,7,Breite 29,9 cm.",1528,97.6,False,title_direct,,,Aquarelle,,
 BO0624_87893,523991,342,347,"3 Bl. Landschaften und Stallinterieurs. Kl:4° und Friesform. Oelstudien, zusammen in einem Passepartout.",1532,98.0,False,title_direct,,,Oelstudien,,
 BO0624_87893,523992,343,348,Stehende Bauernfrau in Gebirgstracht.,1533,94.7,False,positional,JOSZI TOLVAY,,,,
@@ -359,15 +359,15 @@ BO0624_87893,524006,357,362,Hirte mit Herde.,1573,88.2,False,positional,MAX JOSE
 BO0624_87893,524007,358,363,Waldpartie bei Dortrecht mit Staffage.,1579,94.9,False,positional,JOH.WAGNER-DEINES,,,,
 BO0624_87893,524008,359,364,Herr in Balltoilette und Domino. Bezeichnet.,1585,95.5,False,positional,C.WASSENEGGER,,,,
 BO0624_87893,524009,360,365,"Neuburg am Inn. Sehr schone Aquarelle. Hohe 27.7,Breite 39,4 cm.",1591,96.8,False,title_direct,,,Aquarelle,,
-BO0624_87893,524010,361,366,"Partie aus Passau. Bezeichnet: ,Passau, 10. VI11. 1862 J. W.",1592,96.3,False,positional,J.B.WEISS,,,,
-BO0624_87893,524011,362,367,Stadtmauer von Braunau. Bezeichnet wie vorerwahnt und 1858 J.W.,1594,96.8,False,positional,J.B.WEISS,,,,
+BO0624_87893,524010,361,366,"Partie aus Passau. Bezeichnet: ,Passau, 10. VI11. 1862 J. W.",1592,96.3,False,positional,J.B.WEISS,,,,Sec. XIX
+BO0624_87893,524011,362,367,Stadtmauer von Braunau. Bezeichnet wie vorerwahnt und 1858 J.W.,1594,96.8,False,positional,J.B.WEISS,,,,Sec. XIX
 BO0624_87893,524012,363,368,Sparchenmihle bei Kufstein. Bezeichnet wie vorerwahnt und,1596,96.6,False,positional,J.B.WEISS,,,,
-BO0624_87893,524013,364,369,"Partie aus Passau. Bezeichnet:,Passau, 9. VI1I. 1862 J. W.""",1601,96.2,False,positional,J.B.WEISS,,,,
+BO0624_87893,524013,364,369,"Partie aus Passau. Bezeichnet:,Passau, 9. VI1I. 1862 J. W.""",1601,96.2,False,positional,J.B.WEISS,,,,Sec. XIX
 BO0624_87893,524014,365,370,Im Grund bei Brannenburg. Bezeichnet wie vorerwahnt und X.1862J.W.,1603,88.5,False,positional,J.B.WEISS,,,,
 BO0624_87893,524015,366,371,"Abendlandschaft. Unten rechts bez.:S.L. Wenban. Ausserordentlich schone Farbstiftzeichnung. Hohe 26,Breite 44,5 cm.",1610,98.2,False,positional,SION L.WENBAN,,,,
 BO0624_87893,524016,367,372,Landschaft mit Sonnenuntergang. Unten rechts bez.: S. L. Wenban.,1611,96.7,False,positional,SION L.WENBAN,,,,
 BO0624_87893,524017,368,373,"Reich mit Gestripp und einzelnen Baumen bewachsene Landschaft, im Vordergrunde seichtes Wasser. Mehrere Frauen sind anscheinend mit Beerensammeln beschaftigt. Im Hintergrunde eine Ortschaft. Rechts unten bez.: J. Wenglein 93.",1616,99.1,False,positional,JOSEF WENGLEIN,,,,
-BO0624_87893,524018,369,374,"Inneres eines turkischen Hauses,mit figirlicher Staffage. Unten rechts bez.:C.Werner 1863.",1622,97.8,False,positional,KARLWERNER,,,,
+BO0624_87893,524018,369,374,"Inneres eines turkischen Hauses,mit figirlicher Staffage. Unten rechts bez.:C.Werner 1863.",1622,97.8,False,positional,KARLWERNER,,,,Sec. XIX
 BO0624_87893,524019,370,375,Alter Turm aus Bregenz. Bez.u. dat.:24. Juli 78.,1628,95.6,False,positional,A.WIDENMANN,,,,
 BO0624_87893,524020,371,376,"Das Schloss zu Heidelberg. Unten rechts bez.: G. Wil. Tusch-und Federzeichnung. Hohe 18,Breite 27 cm.",1633,97.9,False,positional,G.WIL,,,,
 BO0624_87893,524021,372,377,Ansicht von Heidelberg mit Fluss und Schiffszug im Vordergrund. Unten rechts bez.: G.Wil.,1634,97.7,False,positional,G.WIL,,,,

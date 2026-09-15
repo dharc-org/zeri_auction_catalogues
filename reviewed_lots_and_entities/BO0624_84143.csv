@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84143,28602,1,I,"l porte une cuirasse d'empereur romain,ouverte en carre degageant le cou, presentant letoile de 1Aigle-Noir. Un manteau, amplement drape,",20,99.6,False,positional,,,Buste,,
-BO0624_84143,28603,2,I,"l est a remarquer que le buste decrit plus haut porte la date de 1785. C'est lannee au cours de laquelle Houdon se rendit aux Etats-Unis pour letude du monument a executer a la memoire de Washington. L'artiste,ayant demande au Comte d'Angivillers un conge pour faire ce voyage, recut du ministre cette reponse datee de Versailles,le 23 juin 1785:",66,99.9,False,positional,,,Buste,,
+BO0624_84143,28603,2,I,"l est a remarquer que le buste decrit plus haut porte la date de 1785. C'est lannee au cours de laquelle Houdon se rendit aux Etats-Unis pour letude du monument a executer a la memoire de Washington. L'artiste,ayant demande au Comte d'Angivillers un conge pour faire ce voyage, recut du ministre cette reponse datee de Versailles,le 23 juin 1785:",66,99.9,False,positional,,,Buste,,Sec. XVIII
 BO0624_84143,28604,3,2,dAubusson du XVIIle siecle.,108,96.3,False,title_direct,,Aubusson,,,
 BO0624_84143,28605,4,I,l se compose de :,110,96.8,False,positional,,Aubusson,,,

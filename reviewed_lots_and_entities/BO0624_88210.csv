@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88210,204272,1,I,"n der Nahe der Kiste, die durch Deiche geschitzt ist, kampfen Schifferkutter gegen den Sturm. Mit Figurenstaffage. Bewolkter Himmel.",5,99.6,False,positional,ANDREAS ACHENBACH,,,,
 BO0624_88210,204273,2,2,Kihe auf der Weide.,13,94.7,False,positional,BENNO ADAM,,,,
-BO0624_88210,204274,3,3,Reiterschlacht von 1870.,25,95.8,False,positional,FRANZ ADAM,,OGGETTI VARI,,
+BO0624_88210,204274,3,3,Reiterschlacht von 1870.,25,95.8,False,positional,FRANZ ADAM,,OGGETTI VARI,,Sec. XIX
 BO0624_88210,204275,4,4,Stilleben.,35,94.7,False,positional,HERMANN ALLGAU,,,,
 BO0624_88210,204276,5,I,n einem waldigen Tale am Ufer eines kleinen FluiBchens Fabrikgebaude.,45,99.3,False,positional,JAKOB ALT,,,,
 BO0624_88210,204277,6,6,Partie am Bodensee.,51,94.7,False,positional,JAKOB ALT,,,,
@@ -132,7 +132,7 @@ BO0624_88210,204401,130,129,Lustiger Ritt.,1345,86.7,False,positional,ALF.von KO
 BO0624_88210,204402,131,130,Maximus-Kapelle bei Salzburg. Waldsee.,1359,82.4,False,positional,JOSEPH KRIEGER,,,,
 BO0624_88210,204403,132,131,Kardinal.,1368,80.0,False,positional,JOSEPH KRIEGER,,,,
 BO0624_88210,204404,133,132,Bauernhaus.,1384,83.3,False,positional,EDUARD LAMMERT,,,,
-BO0624_88210,204405,134,133,"Landschaftstudie. m Vordergrund FluBlauf, dessen Wasser durch drohende Gewitterwolken blaugrau erscheint. Im Hintergrund blaue Berge,iber denen der Himmel rosa gefarbt ist. Rechts unten bez.:Ed. Lammert 1909.",1394,95.9,False,positional,EDUARD LAMMERT,,,,
+BO0624_88210,204405,134,133,"Landschaftstudie. m Vordergrund FluBlauf, dessen Wasser durch drohende Gewitterwolken blaugrau erscheint. Im Hintergrund blaue Berge,iber denen der Himmel rosa gefarbt ist. Rechts unten bez.:Ed. Lammert 1909.",1394,95.9,False,positional,EDUARD LAMMERT,,,,Sec. XX
 BO0624_88210,204406,135,134,"Winterlandschaft. m Vordergrund flaches Schneefeld,rechts bewaldeter Higel. Im Hintergrund Bauernhauser unter Baumen. Wolkenloser, blauer Himmel.",1400,93.9,False,positional,EDUARD LAMMERT,,,,
 BO0624_88210,204407,136,135,Winterlandschaft.,1406,88.9,False,positional,EDUARD LAMMERT,,,,
 BO0624_88210,204408,137,136,Mihlrad.,1416,77.8,False,positional,EDUARD LAMMERT,,,,
@@ -260,7 +260,7 @@ BO0624_88210,204529,258,258,Landschaft.,2602,83.3,False,positional,OTTO SEITZ,,,
 BO0624_88210,204530,259,260,Interieur.,2616,81.8,False,positional,OTTO SEITZ,,ARREDAMENTI,,
 BO0624_88210,204531,260,261,Interieur.,2620,81.8,False,positional,OTTO SEITZ,,ARREDAMENTI,,
 BO0624_88210,204532,261,I,n ein aus Felsblocken gebautes Haus ist eine Holztire eingelassen. Rechts sind die Stamme eines Waldes sichtbar.,2628,99.5,False,positional,OTTO SEITZ,,,,
-BO0624_88210,204533,262,I,"n einem Gange steht lauschend ein Cavalier in der Tracht des 17. Jahrhunderts an einer Ture, an die er klopft. Uber eine hinter ihm gelegene Treppe schleicht ein",2634,99.7,False,positional,OTTO SEITZ,,,,
+BO0624_88210,204533,262,I,"n einem Gange steht lauschend ein Cavalier in der Tracht des 17. Jahrhunderts an einer Ture, an die er klopft. Uber eine hinter ihm gelegene Treppe schleicht ein",2634,99.7,False,positional,OTTO SEITZ,,,,Sec. XVII
 BO0624_88210,204534,263,263,Wascherinnen.,2645,85.7,False,positional,OTTO SEITZ,,,,
 BO0624_88210,204535,264,264,"Bricke in den Apenninen m Vordergrund von Niederholz bestandenes Bachchen,iber das eine Steinbricke fuhrt, im Hintergrund die Bergeshohen des Apennin.",2657,91.6,False,positional,P.von SPAUN,,,,
 BO0624_88210,204536,265,265,Kiste von Capri.,2663,88.2,False,positional,P.von SPAUN,,,,
@@ -320,7 +320,7 @@ BO0624_88210,204589,318,318,Scheckige Kuh.,3133,86.7,False,positional,FRIEDRICH 
 BO0624_88210,204590,319,319,Tierstuck.,3139,81.8,False,positional,FRIEDRICH VOLTZ,,OGGETTI IN PELLE,,
 BO0624_88210,204591,320,320,Pferdestall.,3145,84.6,False,positional,FRIEDRICH VOLTZ,,,,
 BO0624_88210,204592,321,I,n einem gewolbten MauergelaB stehen mehrere Pferde am Futterbarren. Rechts ein schlafender Knecht.,3147,99.5,False,positional,FRIEDRICH VOLTZ,,,,
-BO0624_88210,204593,322,I,n der Mitte rechts bez.:Fr.Voltz 1846.,3149,98.6,False,positional,FRIEDRICH VOLTZ,,,,
+BO0624_88210,204593,322,I,n der Mitte rechts bez.:Fr.Voltz 1846.,3149,98.6,False,positional,FRIEDRICH VOLTZ,,,,Sec. XIX
 BO0624_88210,204594,323,321,Baumschlag. Tierstick.,3162,60.6,False,positional,FRIEDRICH VOLTZ,,,,
 BO0624_88210,204595,324,322,Sitzende Bulldogge. m Profil.,3168,73.5,False,positional,LUDWIG VOLTZ,,,,
 BO0624_88210,204596,325,323,3Landschaft.,3174,84.6,False,positional,LUDWIG VOLTZ,,,,

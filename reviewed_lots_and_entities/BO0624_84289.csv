@@ -12,7 +12,7 @@ BO0624_84289,307282,10,12,## L'Escalade ou les Adieux du Matin.,243,100.0,False,
 BO0624_84289,307283,11,13,## La Rose.,262,100.0,False,positional,DEBUCOURT,,,,
 BO0624_84289,307284,12,14,## La Main.,276,100.0,False,positional,DEBUCOURT,,,,
 BO0624_84289,307285,13,15,## Annette et Lubin.,295,100.0,False,positional,DEBUCOURT,,,,
-BO0624_84289,307286,14,16,## Almanach National (1791) dedie aux Amis de la Constitution.,317,100.0,False,positional,DEBUCOURT,,,,
+BO0624_84289,307286,14,16,## Almanach National (1791) dedie aux Amis de la Constitution.,317,100.0,False,positional,DEBUCOURT,,,,Sec. XVIII
 BO0624_84289,307287,15,17,## La Promenade publique.,334,100.0,False,positional,DEBUCOURT,,,,
 BO0624_84289,307288,16,18,## Le Matin.,361,100.0,False,positional,DEMARTEAU l'Aine,,,,
 BO0624_84289,307289,17,19,## Le Midi.,371,100.0,False,positional,DEMARTEAU l'Aine,,,,
@@ -31,7 +31,7 @@ BO0624_84289,307301,29,31,## Marie-Antoinette d'Autriche.,579,100.0,False,title_
 BO0624_84289,307302,30,32,## L'Oiseau prive.,600,100.0,False,positional,JANINET,,,,
 BO0624_84289,307303,31,33,## Nina.,619,100.0,False,positional,JANINET,,,,
 BO0624_84289,307304,32,I,mprime par Labrelis.,638,97.4,False,positional,,,Portrait d'Edouard Dagoty,,
-BO0624_84289,307305,33,1740,", mort a Orleans en 1812.",642,89.8,False,positional,,,Portrait d'Edouard Dagoty,,
+BO0624_84289,307305,33,1740,", mort a Orleans en 1812.",642,89.8,False,positional,,,Portrait d'Edouard Dagoty,,Sec. XIX
 BO0624_84289,307306,34,I,n-folio en haut.,644,96.8,False,positional,,,Portrait d'Edouard Dagoty,,
 BO0624_84289,307307,35,35,## Ah! quel doux plaisir.,665,100.0,False,positional,LAVREINCE,,,,
 BO0624_84289,307308,36,36,## Je touche au bonheur.,679,100.0,False,positional,LAVREINCE,,,,
@@ -58,7 +58,7 @@ BO0624_84289,307328,56,58,## Portrait du Prince de Talleyrand. <!-- image -->,10
 BO0624_84289,307329,57,59,## L'Assemblee au salon. mportante aquarelle gouachee.,1082,71.8,False,positional,MALLET,,OGGETTI VARI,,
 BO0624_84289,307330,58,60,61,1098,57.1,False,positional,MALLET,,,,
 BO0624_84289,307331,59,62,"## Portrait d'Herault de Sechelles, enfant.",1123,100.0,False,title_direct,,,Portrait d'Herault de Sechelles,,
-BO0624_84289,307332,60,63,"## Portrait du Comte de Nogent, l épousa au mois d'avril 1826, Mademoiselle Anne Chaperon et mourut le 3 juillet 1838.",1173,86.3,False,title_direct,,,Portrait du Comte de Nogent,,
+BO0624_84289,307332,60,63,"## Portrait du Comte de Nogent, l épousa au mois d'avril 1826, Mademoiselle Anne Chaperon et mourut le 3 juillet 1838.",1173,86.3,False,title_direct,,,Portrait du Comte de Nogent,,Sec. XIX
 BO0624_84289,307333,61,64,## Le Sacrifice de la Rose.,1186,100.0,False,positional,FRAGONARD,,,,
 BO0624_84289,307334,62,65,## Portrait,1215,100.0,False,positional,LATOUR,,,,
 BO0624_84289,307335,63,66,67 —Deux sTATuETTEs en bronze patine:Bacchus et o.28.500.-+2oHercule.EpoqueLouis XIV. rg.,1263,98.2,False,positional,,,Portrait de Madame Rouille de l'Estang,,
@@ -186,9 +186,9 @@ BO0624_84289,307456,184,187,"BuREau a cylindre, en bois de placage. Epoque",2537
 BO0624_84289,307457,185,188,- GuERIDoN a pied tripode.Epoque Louis XVI.,2548,95.2,False,positional,,,Portrait de Madame Rouille de l'Estang,,
 BO0624_84289,307458,186,18,g  GuEriDoN en acajou et bronzes. Fin du xvin ou,2556,97.9,False,positional,,,ACQUEFORTI,,
 BO0624_84289,307459,187,1,go — JArDINIERE en bois de placage et bois sculpte. Fin,2567,99.0,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_84289,307460,188,193,"—TaPissERIE de la Manufacture Royale de Beauvais (sous la direction de J.-B.Oudry,i734-1753),premiere piece de la tenture: Les Fetes Italiennes ,d'apres Francois Boucher(i736)et presentant:",2579,98.9,False,positional,BOUCHER FRANCOIS,,DECORAZIONI DA PARETE,,
-BO0624_84289,307461,189,194,"—TAPissERIE de la Manufacture Royale de Beauvais (sous la direction de J.-B.Oudry, 1734-1753), deuxieme piece de la tenture: Les Amours des Dieux, d'apres Francois Boucher (1749) et presentant:",2596,98.9,False,positional,BOUCHER FRANCOIS,,DECORAZIONI DA PARETE,,
-BO0624_84289,307462,190,195,"-TaPissERIE de la Manufacture royale de Beauvais (sous la direction de Merou,1722-1734), de la Tenture des Chinois, d'apres Baptiste,Blin de Fontenay et Vernansal, presentant :",2611,98.8,False,positional,,,DECORAZIONI DA PARETE,,
+BO0624_84289,307460,188,193,"—TaPissERIE de la Manufacture Royale de Beauvais (sous la direction de J.-B.Oudry,i734-1753),premiere piece de la tenture: Les Fetes Italiennes ,d'apres Francois Boucher(i736)et presentant:",2579,98.9,False,positional,BOUCHER FRANCOIS,,DECORAZIONI DA PARETE,,Sec. XVIII
+BO0624_84289,307461,189,194,"—TAPissERIE de la Manufacture Royale de Beauvais (sous la direction de J.-B.Oudry, 1734-1753), deuxieme piece de la tenture: Les Amours des Dieux, d'apres Francois Boucher (1749) et presentant:",2596,98.9,False,positional,BOUCHER FRANCOIS,,DECORAZIONI DA PARETE,,Sec. XVIII
+BO0624_84289,307462,190,195,"-TaPissERIE de la Manufacture royale de Beauvais (sous la direction de Merou,1722-1734), de la Tenture des Chinois, d'apres Baptiste,Blin de Fontenay et Vernansal, presentant :",2611,98.8,False,positional,,,DECORAZIONI DA PARETE,,Sec. XVIII
 BO0624_84289,307463,191,1,g6 —TapissERIE d'Aubusson :lEnfance. Epoque de la Regence.,2629,99.1,False,positional,,,AUBUSSONS,,
 BO0624_84289,307464,192,197,"- GRAND TAPIs d'Aubusson, en tissu de savonnerie. l est decore, au centre, d'un medaillon ovale a fond bis charge d'une rosace qu'entoure une couronne tressee de feurs liees par un ruban. Le fond vert est orne de corbeilles et de cornes chargees de fleurs et de fruits, reliees par des rinceaux feuillages. Bordure a rosaces, petites couronnes et feurs.(Entaille pour cheminee manquant.)",2644,93.6,False,positional,,,AUBUSSONS,,
 BO0624_84289,307465,193,198,8-Tapis d'Aubusson. Fin du xvine siecle.,2654,100.0,False,positional,,,AUBUSSONS,,

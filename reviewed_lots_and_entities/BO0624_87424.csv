@@ -68,9 +68,9 @@ BO0624_87424,650105,66,62,"Salz- und Pfeffergefass aus Silber, aus Napoleons Zei
 BO0624_87424,650106,67,63,Silberner Blumenhalter.99 Gramm. Silbernes Theesieb. Zwei silberne Leuchter. Napoleonzeit. 556 Gramm.,91,63.9,False,title_direct,,,LAMPADE,,
 BO0624_87424,650107,68,66,Silberner Loffel.,92,91.4,False,title_direct,,,Silber,,
 BO0624_87424,650108,69,67,"Silberner Becher,hubsch gravirt, im Boden eine Munze. 231 Gramm.",93,97.6,False,title_direct,,,VASI,,
-BO0624_87424,650109,70,69,"Getriebener Ananasbecher aus Silber, das Innere vergoldet Schone Arbeit.1321/2 Gramm. 68.Silberner Becher,gravirt, 50 Gramm.",94,80.6,False,title_direct,,,VASI,,
+BO0624_87424,650109,70,69,"Getriebener Ananasbecher aus Silber, das Innere vergoldet Schone Arbeit.1321/2 Gramm. 68.Silberner Becher,gravirt, 50 Gramm.",94,80.6,False,title_direct,,,VASI,,Sec. XIV
 BO0624_87424,650110,71,70,Reich getriebener silberner Rococcobecher auf drei Fass-,96,97.3,False,positional,,,Silber,,
-BO0624_87424,650111,72,71,Gravirter Cylinder-Becher aus Silber. chen ruhend. 1071/2 Gramm.,97,72.0,False,title_direct,,,VASI,,
+BO0624_87424,650111,72,71,Gravirter Cylinder-Becher aus Silber. chen ruhend. 1071/2 Gramm.,97,72.0,False,title_direct,,,VASI,,Sec. XI
 BO0624_87424,650112,73,72,Zuckerschale aus Silber getrieben mit Widderkopfen und Blumenranken verziert nebst Zuckerzange. Napoleonszeit. 274,99,98.7,False,title_direct,,,Silber,,
 BO0624_87424,650113,74,9,"73 Silberner Pokal hubsch ciselirt, im Innern vergoldet.",100,98.2,False,title_direct,,,Silber,,
 BO0624_87424,650114,75,10,Gramm.,101,76.9,False,positional,,,Silber,,
@@ -135,7 +135,7 @@ BO0624_87424,650172,133,147,"Broncener Kronenleuchter mit 6 Leuchtern und schwer
 BO0624_87424,650173,134,148,Schnellwage aus Bronce.,178,91.7,False,title_direct,,,Bronce,,
 BO0624_87424,650174,135,149,Renaissance-Schelle aus Bronce. Mit Ornamenten und Um- schrift verziert.,179,83.2,False,title_direct,,,Bronce,,
 BO0624_87424,650175,136,150,Renaissance-Morser aus Bronce mit Umschrift Goert Janssen,181,96.6,False,title_direct,,,Bronce,,
-BO0624_87424,650176,137,10,Elsken sin Housefrov. a. 1615.,182,94.7,False,positional,,,Bronce; Kupfer; Messing,,
+BO0624_87424,650176,137,10,Elsken sin Housefrov. a. 1615.,182,94.7,False,positional,,,Bronce; Kupfer; Messing,,Sec. XVII
 BO0624_87424,650177,138,11,151 Zwei Lowenkopfe aus Bronce mit Ringen.,183,96.5,False,title_direct,,,Bronce,,
 BO0624_87424,650178,139,152,"Broncefigur vollrund. Hirtenknabe auf der Schulter eine Ziege tragend, auf Marmorsockel. Hohe 19 ctm.",184,74.5,False,title_direct,,,Bronce,,
 BO0624_87424,650179,140,153,Weibliche Figur in Bronceguss als Trager dienend.,186,96.0,False,title_direct,,,Bronce,,
@@ -226,7 +226,7 @@ BO0624_87424,650263,224,248,Adler aus Eisen.,306,88.2,False,title_direct,EISEN C
 BO0624_87424,650264,225,249,"Altes Schloss aus Eisen, ciselirt.",307,94.1,False,title_direct,EISEN CHARLES,,Eisen,,
 BO0624_87424,650265,226,250,"Ein Ofen, Napoleonszeit.",308,91.7,False,positional,,,Zinn; Stahl; Eisen; Blei,,
 BO0624_87424,650266,227,251,Eine Eisengussplatte mit scenischen Darstellungen.,309,96.1,False,title_direct,,,Eisen,,
-BO0624_87424,650267,228,252,Eisenfigur des 18. Jahrhunderts.,310,93.8,False,title_direct,,,Eisen,,
+BO0624_87424,650267,228,252,Eisenfigur des 18. Jahrhunderts.,310,93.8,False,title_direct,,,Eisen,,Sec. XVIII
 BO0624_87424,650268,229,253,Eine Parthie Schluissel.,311,92.0,False,positional,,,Zinn; Stahl; Eisen; Blei,,
 BO0624_87424,650269,230,254,Eisenschloss mit Messingverzierung.,312,94.4,False,title_direct,,,Eisen,,
 BO0624_87424,650270,231,255,Drei alte Eisenwaffen.,313,91.3,False,title_direct,,,Eisen,,
@@ -246,12 +246,12 @@ BO0624_87424,650283,244,270,| 99 | mit Wappen Petschaft.                        
 BO0624_87424,650284,245,271,| 99 | Doppelt beides Sig. pro P. P. Capuc. pro Tolosae.           |,333,95.9,False,positional,,,Siegelstampfen; Petschaften; Gemmen,,
 BO0624_87424,650285,246,272,| #9 | mit arabischer Umschrift.                                   |,334,92.9,False,positional,,,Siegelstampfen; Petschaften; Gemmen,,
 BO0624_87424,650286,247,273,| 9  | mit Stern.                                                  |,335,84.6,False,positional,,,Siegelstampfen; Petschaften; Gemmen,,
-BO0624_87424,650287,248,274,| 99 | M.IV.Atorum Ville. scii. quitini: ad Caes.1559.             | dito. Gothische Siegel und Heiligen-Figur mit Umschrift.,339,66.2,False,positional,,,OGGETTI VARI,,
+BO0624_87424,650287,248,274,| 99 | M.IV.Atorum Ville. scii. quitini: ad Caes.1559.             | dito. Gothische Siegel und Heiligen-Figur mit Umschrift.,339,66.2,False,positional,,,OGGETTI VARI,,Sec. XVI
 BO0624_87424,650288,249,277,"Altes Siegel mit Mutter Gottes und Umschrift. pax optimare. mit Kaiserdarstellung,Umschrift miseri cordia etc.",342,62.5,False,positional,,,OGGETTI VARI,,
 BO0624_87424,650289,250,280,gothische Siegel mit Bischof und Umschrift S.ecclesiae,343,96.4,False,positional,,,OGGETTI VARI,,
 BO0624_87424,650290,251,281,Doppelwappen mit Eisengriff.,344,93.1,False,title_direct,,,Eisen,,
 BO0624_87424,650291,252,282,"Siegelstampfe,Kaiserfigur. Mie rex et Boe.",345,95.2,False,title_direct,,,Siegelstampfen,,
-BO0624_87424,650292,253,283,Mutter Gottes nostre dame de la regle 1679.,347,95.5,False,positional,,,Siegelstampfen; Petschaften; Gemmen,,
+BO0624_87424,650292,253,283,Mutter Gottes nostre dame de la regle 1679.,347,95.5,False,positional,,,Siegelstampfen; Petschaften; Gemmen,,Sec. XVII
 BO0624_87424,650293,254,284,a.Eisen mit Hausmarke.,349,91.3,False,title_direct,EISEN CHARLES,,Eisen,,
 BO0624_87424,650294,255,285,Tribunal de l'arrond. de Cologne procureur.,351,95.3,False,positional,,,Siegelstampfen; Petschaften; Gemmen,,
 BO0624_87424,650295,256,287,286. Juge de paii a Rubenach Rhein et Moselle.,355,100.0,False,positional,,,Siegelstampfen; Petschaften; Gemmen,,
@@ -364,7 +364,7 @@ BO0624_87424,650401,362,406,"Viereckiges Schreibpultchen zum Aufsetzen auf den T
 BO0624_87424,650402,363,407,"Hubsch geschnittene Rococco-Console aus Holz, vergoldet, mit roth geaderter Marmorplatte. Hohe 81 ctm. Breite 92 ctm. Tiefe 42 ctm.",559,98.4,False,title_direct,ROTH PHILIPP,,Holz,,
 BO0624_87424,650403,364,408,"Grosse Boulle-Uhr auf Sockel, iberaus fein gearbeitet, mit Goldbronce reich ornirt, gekront mit einer allegorischen BronceFigur; das Gehause fein bemalt mit Blumen und scenischen Darstellungen. Das Zifferblatt reich ciselirt aus Goldbronce. Die Uhr, ein Prachtwerk ersten Ranges, hat Schlagwerk. Hohe 143 ctm.",560,99.3,False,title_direct,,,Bronce,,
 BO0624_87424,650404,365,409,"Standuhr in Holzgehause mit ciselirtem Zifferblatt u. Schlagwerk, verfertigt von Joh. Cornelius Thieres. Coln.",561,98.1,False,title_direct,,,Holz,,
-BO0624_87424,650405,366,5,410.Standuhr aus dem Anfang des 18. Jahrhunderts in Form der,562,98.3,False,positional,,,Holz; Meubles,,
+BO0624_87424,650405,366,5,410.Standuhr aus dem Anfang des 18. Jahrhunderts in Form der,562,98.3,False,positional,,,Holz; Meubles,,Sec. XVIII
 BO0624_87424,650406,367,6,Boulle-Uhren in Holzgehause.,563,96.4,False,title_direct,,,Holz,,
 BO0624_87424,650407,368,7,411.Eingelegte Komode mit Broncebeschlag.,564,97.6,False,title_direct,,,Bronce,,
 BO0624_87424,650408,369,8,41la. Blumenkastchen in Boullearbeit m. Metallincrustirt u. Bronce verziert.,565,98.6,False,title_direct,,,Bronce,,
@@ -718,7 +718,7 @@ BO0624_87424,650755,716,768,Ruppinglas.,1012,83.3,False,positional,,,Porzellan; 
 BO0624_87424,650756,717,769,Ein Sahnekannchen aus Ruppinglas.,1014,94.1,False,positional,,,Porzellan; Fayence; Steingut; Glaser,,
 BO0624_87424,650757,718,770,Zwolf Romerglaser.,1016,89.5,False,positional,,,Porzellan; Fayence; Steingut; Glaser,,
 BO0624_87424,650758,719,771,Ein Doppelglas mit einem Henkel.,1017,93.9,False,positional,,,Porzellan; Fayence; Steingut; Glaser,,
-BO0624_87424,650759,720,772,"Cylindrisches Henkelglas mit Zinndeckel, das Glas hiubsch geschliffen.mit Buchstaben C.C. F. J. 1790.",1018,98.0,False,title_direct,,,Zinn,,
+BO0624_87424,650759,720,772,"Cylindrisches Henkelglas mit Zinndeckel, das Glas hiubsch geschliffen.mit Buchstaben C.C. F. J. 1790.",1018,98.0,False,title_direct,,,Zinn,,Sec. XVIII
 BO0624_87424,650760,721,773,Hohes Venetianisches Flugelglas.,1019,93.9,False,positional,,,Porzellan; Fayence; Steingut; Glaser,,
 BO0624_87424,650761,722,774,Zwei Champagnerglaser.,1020,91.3,False,positional,,,Porzellan; Fayence; Steingut; Glaser,,
 BO0624_87424,650762,723,775,"Geschliffenes Glas. (,Plus ultra"").",1021,93.5,False,positional,,,Porzellan; Fayence; Steingut; Glaser,,
@@ -798,7 +798,7 @@ BO0624_87424,650835,796,847,Ein Cavallerie-Sabel.,1127,90.9,False,positional,,,W
 BO0624_87424,650836,797,848,Ein Degen.,1129,81.8,False,positional,,,Waffen; Rehgeweihe; Stocke; Musikinstrumente,,
 BO0624_87424,650837,798,849,Doppelflinte Percussion. Sehr gute Waffe.,1131,95.1,False,positional,,,Waffen; Rehgeweihe; Stocke; Musikinstrumente,,
 BO0624_87424,650838,799,850,Altes Schlachtbeil.,1133,90.0,False,positional,,,Waffen; Rehgeweihe; Stocke; Musikinstrumente,,
-BO0624_87424,650839,800,851,Katzenkopf aus Eisen mit d. Jahreszahl 1676.,1135,95.5,False,title_direct,EISEN CHARLES,,Eisen,,
+BO0624_87424,650839,800,851,Katzenkopf aus Eisen mit d. Jahreszahl 1676.,1135,95.5,False,title_direct,EISEN CHARLES,,Eisen,,Sec. XVII
 BO0624_87424,650840,801,852,Eine Panzer-Kettenhaube.,1137,92.0,False,positional,,,Waffen; Rehgeweihe; Stocke; Musikinstrumente,,
 BO0624_87424,650841,802,853,"Indischer Dolch mit geschnitztem Elfenbeinknopf in echter Goldfassung und damascirter Klinge, die Holzscheide ist von einem Silber-Mantel umgeben, der uberaus fein getrieben ist. Lange 46 ctm.",1139,98.9,False,title_direct,,,Elfenbein,,
 BO0624_87424,650842,803,2,854.Indischer Kries mit geschnitztem und silberverziertem Griff.,1140,98.4,False,positional,,,Waffen; Rehgeweihe; Stocke; Musikinstrumente,,
@@ -922,7 +922,7 @@ BO0624_87424,650959,920,1003,7Denare.,1391,100.0,False,positional,,,Munzen,,
 BO0624_87424,650960,921,1004,6,1393,28.6,False,positional,,,Munzen,,
 BO0624_87424,650961,922,1005,一 Rev. Roma.,1395,80.0,False,positional,,,Munzen,,
 BO0624_87424,650962,923,1006,一,1397,28.6,False,positional,,,Munzen,,
-BO0624_87424,650963,924,1007,1008.,1403,100.0,False,positional,,,Munzen,,
+BO0624_87424,650963,924,1007,1008.,1403,100.0,False,positional,,,Munzen,,Sec. XI
 BO0624_87424,650964,925,1009,"Octavianus, 3 Denare.",1405,88.4,False,positional,,,Munzen,,
 BO0624_87424,650965,926,1010,"Servus Augustus,2 Denare.",1407,90.6,False,positional,,,Munzen,,
 BO0624_87424,650966,927,1011,Denar Marc. Aurel. Rev. Provedeortruxucos III.,1409,94.4,False,positional,,,Munzen,,
@@ -1000,52 +1000,52 @@ BO0624_87424,651037,998,1084,"Werner v. Trier, Goldgulden.",1557,90.9,False,titl
 BO0624_87424,651038,999,1085,Schwabacher Goldgulden mit Petrus.,1559,93.0,False,title_direct,,,Gold,,
 BO0624_87424,651039,1000,1086,Kleine gehenkelte Goldminze Theresia von Oesterreich.,1561,95.4,False,title_direct,,,Gold,,
 BO0624_87424,651040,1001,1087,"Nurnberger St. Georg's Dukaten, Rev. in tempestate securito.",1563,95.7,False,positional,,,Munzen,,
-BO0624_87424,651041,1002,1088,Doppelter Friedrichsd'or. Friedericus rex.1765.,1565,94.7,False,positional,,,Munzen,,
-BO0624_87424,651042,1003,1089,Friedrichsd'or 1751.,1567,88.4,False,positional,,,Munzen,,
-BO0624_87424,651043,1004,1090,Doppelter Friedrichsd'or Friedrich Wilhelm I II.Konig von Preussen. 1831.,1569,96.6,False,positional,,,Munzen,,
-BO0624_87424,651044,1005,1091,dito 1840.(Sterbejahr.),1571,88.9,False,positional,,,Munzen,,
-BO0624_87424,651045,1006,1092,Doppelter Louisd’or Ludwig XVI. 1786.,1573,93.3,False,positional,,,Munzen,,
-BO0624_87424,651046,1007,1093,Goldmunze Carl Philipp von der Pfalz. 1736. 24/1o Gr. schwer,1575,95.8,False,title_direct,,,Gold,,
-BO0624_87424,651047,1008,1094,Spanischer Ducaten. 1764.,1577,90.2,False,positional,,,Munzen,,
+BO0624_87424,651041,1002,1088,Doppelter Friedrichsd'or. Friedericus rex.1765.,1565,94.7,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651042,1003,1089,Friedrichsd'or 1751.,1567,88.4,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651043,1004,1090,Doppelter Friedrichsd'or Friedrich Wilhelm I II.Konig von Preussen. 1831.,1569,96.6,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651044,1005,1091,dito 1840.(Sterbejahr.),1571,88.9,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651045,1006,1092,Doppelter Louisd’or Ludwig XVI. 1786.,1573,93.3,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651046,1007,1093,Goldmunze Carl Philipp von der Pfalz. 1736. 24/1o Gr. schwer,1575,95.8,False,title_direct,,,Gold,,Sec. XVIII
+BO0624_87424,651047,1008,1094,Spanischer Ducaten. 1764.,1577,90.2,False,positional,,,Munzen,,Sec. XVIII
 BO0624_87424,651048,1009,1095,"Goldgulden, Adolf I. von Nassau.",1579,92.1,False,title_direct,,,Gold,,
 BO0624_87424,651049,1010,1096,Venetianischer Goldgulden. 36/1o Gramm schwer.,1581,94.6,False,title_direct,,,Gold,,
 BO0624_87424,651050,1011,1097,Funf Aachener Silberminzen.,1583,91.2,False,title_direct,,,Silber,,
-BO0624_87424,651051,1012,1098,Aachener Denar Ludwig IV:（1314—1347.) 2 Stick.,1585,94.4,False,positional,,,Munzen,,
-BO0624_87424,651052,1013,1099,"Silberne Medaille, Belohnung fir die Birgergarde in Amsterdam beim Aufstande.1696.Av-Neptun.Rev.Meer mit Vogel- nest. v. Loon IV. 132.",1587,98.1,False,title_direct,,,Silber,,
-BO0624_87424,651053,1014,101,Bamberger Thaler.1800.,1591,91.3,False,positional,,,Munzen,,
-BO0624_87424,651054,1015,102,—1795.,1593,66.7,False,positional,,,Munzen,,
+BO0624_87424,651051,1012,1098,Aachener Denar Ludwig IV:（1314—1347.) 2 Stick.,1585,94.4,False,positional,,,Munzen,,Sec. XIV
+BO0624_87424,651052,1013,1099,"Silberne Medaille, Belohnung fir die Birgergarde in Amsterdam beim Aufstande.1696.Av-Neptun.Rev.Meer mit Vogel- nest. v. Loon IV. 132.",1587,98.1,False,title_direct,,,Silber,,Sec. XVII
+BO0624_87424,651053,1014,101,Bamberger Thaler.1800.,1591,91.3,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651054,1015,102,—1795.,1593,66.7,False,positional,,,Munzen,,Sec. XVIII
 BO0624_87424,651055,1016,103,Fuinf badische Silberminzen.,1595,93.1,False,title_direct,,,Silber,,
-BO0624_87424,651056,1017,104,"Kronenthaler,Patrona Bavariae,1755.",1597,94.4,False,positional,,,Munzen,,
-BO0624_87424,651057,1018,105,dito.1765.,1599,81.8,False,positional,,,Munzen,,
+BO0624_87424,651056,1017,104,"Kronenthaler,Patrona Bavariae,1755.",1597,94.4,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651057,1018,105,dito.1765.,1599,81.8,False,positional,,,Munzen,,Sec. XVIII
 BO0624_87424,651058,1019,106,一 66,1601,66.7,False,positional,,,Munzen,,
 BO0624_87424,651059,1020,107,99,1605,100.0,False,positional,,,Munzen,,
 BO0624_87424,651060,1021,108,29,1609,100.0,False,positional,,,Munzen,,
-BO0624_87424,651061,1022,109,Zweithalerstick Maximilian II.v. Bayern. 1854.,1611,95.6,False,positional,,,Munzen,,
+BO0624_87424,651061,1022,109,Zweithalerstick Maximilian II.v. Bayern. 1854.,1611,95.6,False,positional,,,Munzen,,Sec. XIX
 BO0624_87424,651062,1023,1110,Ludovicus II. von Bayern m. Patrona Bavariae.,1612,94.4,False,positional,,,Munzen,,
-BO0624_87424,651063,1024,1111,Kronenthaler von Maximilian comes Palat. Rh. Bav. 1631.,1613,95.3,False,positional,,,Munzen,,
+BO0624_87424,651063,1024,1111,Kronenthaler von Maximilian comes Palat. Rh. Bav. 1631.,1613,95.3,False,positional,,,Munzen,,Sec. XVII
 BO0624_87424,651064,1025,113,"Ludwig II., Siegesthaler. Maximilian II., Patrona Bavariae.",1615,71.3,False,positional,,,Munzen,,
 BO0624_87424,651065,1026,114,"Thaler Maximilian H.v. Bayern, Patrona Bavariae.",1616,95.7,False,positional,,,Munzen,,
 BO0624_87424,651066,1027,115,Ludwig I.v. Bayern Rev. Portrat Segen des Himmels. 2 Gulden.,1617,96.6,False,positional,,,Munzen,,
-BO0624_87424,651067,1028,6,116.Bayerischer Siegesthaler 1871.,1618,97.1,False,positional,,,Munzen,,
-BO0624_87424,651068,1029,118,"Thaler,belgischer, 1747.",1619,91.7,False,positional,,,Munzen,,
+BO0624_87424,651067,1028,6,116.Bayerischer Siegesthaler 1871.,1618,97.1,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651068,1029,118,"Thaler,belgischer, 1747.",1619,91.7,False,positional,,,Munzen,,Sec. XVIII
 BO0624_87424,651069,1030,117,"Leopold v. Belgien, 5 Francstick.",1620,93.8,False,positional,,Scuola di Antwerp,Munzen,,
-BO0624_87424,651070,1031,9,119.—1802.,1621,88.9,False,positional,,,Munzen,,
-BO0624_87424,651071,1032,121,"Bingener Schiess-Thaler 1883. 1120.Zweistubersticke,bergische,18 Stick.",1623,75.0,False,positional,,,Munzen,,
-BO0624_87424,651072,1033,122,"Bologna, Thaler 1796.",1624,90.5,False,positional,,Scuola Bolognese,Munzen,,
+BO0624_87424,651070,1031,9,119.—1802.,1621,88.9,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651071,1032,121,"Bingener Schiess-Thaler 1883. 1120.Zweistubersticke,bergische,18 Stick.",1623,75.0,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651072,1033,122,"Bologna, Thaler 1796.",1624,90.5,False,positional,,Scuola Bolognese,Munzen,,Sec. XVIII
 BO0624_87424,651073,1034,123,Bonner Turnose.,1625,87.5,False,positional,,,Munzen,,
 BO0624_87424,651074,1035,124,Bonner Gedenkmunze auf die Grindung der Universitat,1626,96.2,False,positional,,,Munzen,,
 BO0624_87424,651075,1036,125,Auswurf-Medaille von Josef Clemens zur Erinnerung an sei-,1627,96.6,False,positional,,,Munzen,,
-BO0624_87424,651076,1037,16,unter Max Franz. 1786. Selten.,1628,94.7,False,positional,,,Munzen,,
-BO0624_87424,651077,1038,17,"nen Einzug in Bonn 1714. Av.Portrat, Rev.Lowe.",1629,96.6,False,positional,,,Munzen,,
-BO0624_87424,651078,1039,18,126.Brabanter Thaler 1596.,1630,94.3,False,positional,,,Munzen,,
+BO0624_87424,651076,1037,16,unter Max Franz. 1786. Selten.,1628,94.7,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651077,1038,17,"nen Einzug in Bonn 1714. Av.Portrat, Rev.Lowe.",1629,96.6,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651078,1039,18,126.Brabanter Thaler 1596.,1630,94.3,False,positional,,,Munzen,,Sec. XVI
 BO0624_87424,651079,1040,127,Karl von Braunschweig.1/3 Thaler.,1631,94.1,False,positional,,,Munzen,,
 BO0624_87424,651080,1041,128,Acht verschiedene Braunschweigische Silbermiinzen.,1632,96.1,False,title_direct,,,Silber,,
-BO0624_87424,651081,1042,129,"Thaler, Christian Ludovicus von Braunschweig. 1662.",1633,96.0,False,positional,,,Munzen,,
-BO0624_87424,651082,1043,22,131.24. Rudolf August von Braunschweig. 1690. 9,1634,96.7,False,positional,,,Munzen,,
+BO0624_87424,651081,1042,129,"Thaler, Christian Ludovicus von Braunschweig. 1662.",1633,96.0,False,positional,,,Munzen,,Sec. XVII
+BO0624_87424,651082,1043,22,131.24. Rudolf August von Braunschweig. 1690. 9,1634,96.7,False,positional,,,Munzen,,Sec. XVII
 BO0624_87424,651083,1044,1130,24 Mariengroschen Georg von Braunschweig.,1635,94.1,False,positional,,,Munzen,,
-BO0624_87424,651084,1045,24,132.Bremer Schutzenthaler.1865.,1636,95.2,False,positional,,,Munzen,,
-BO0624_87424,651085,1046,133,Bremer Thaler z.50jahrigen Jubelfeier d.Befreiung Deutschlands 1863.,1637,97.1,False,positional,,,Munzen,,
-BO0624_87424,651086,1047,134,Bremer Schitzenthaler 1865.,1638,92.9,False,positional,,,Munzen,,
+BO0624_87424,651084,1045,24,132.Bremer Schutzenthaler.1865.,1636,95.2,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651085,1046,133,Bremer Thaler z.50jahrigen Jubelfeier d.Befreiung Deutschlands 1863.,1637,97.1,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651086,1047,134,Bremer Schitzenthaler 1865.,1638,92.9,False,positional,,,Munzen,,Sec. XIX
 BO0624_87424,651087,1048,135,Piligrin von Coln. 3 Denare.,1639,92.9,False,positional,,,Munzen,,
 BO0624_87424,651088,1049,136,"Piligrin, Denar mit Kopf.",1640,92.0,False,positional,,,Munzen,,
 BO0624_87424,651089,1050,137,"Anno von Coln, 2 Denare.",1641,91.7,False,positional,,,Munzen,,
@@ -1060,66 +1060,66 @@ BO0624_87424,651097,1058,38,144.Colonia.,1650,88.0,False,positional,,,Munzen,,
 BO0624_87424,651098,1059,145,"Hidalphus v. Coln, Silber-Denar. 4 Stuck.",1651,94.9,False,title_direct,STUCK FRANZ VON,,Silber,,
 BO0624_87424,651099,1060,146,"Colner Albus, eine Anzahl.",1652,92.3,False,positional,,,Munzen,,
 BO0624_87424,651100,1061,41,147.dto.5 4-Albus-Sticke u.6 andere.,1653,95.9,False,positional,,,Munzen,,
-BO0624_87424,651101,1062,42,148.3 Colner Rathszeichen v. 1730.,1654,95.5,False,positional,,,Munzen,,
-BO0624_87424,651102,1063,1149,"Silberne Ausstellungsmiinzen von Coln 1888. Dusseldorfer Schiessmunze 1878. Dusseldorf, Bundesschiessen, Silbermiunze, genenkelt.",1659,58.8,False,title_direct,,,Silber,,
-BO0624_87424,651103,1064,152,"4 neuere engl. Munzen. dito. Silbermunze, Londoner Ausstell. 1862.",1665,71.4,False,title_direct,,,Munzen,,
-BO0624_87424,651104,1065,155,Frankfurter Schutzenthaler 1862.2 Ex. Thaler v. Frankfurt. Bundesschiessen. Schillerthaler.,1669,58.1,False,positional,,,Munzen,,
-BO0624_87424,651105,1066,158,Frankfurter Bundes-Jubilaums-Schiessen. 1887. Funffrankenstick Ludwig XIV. von Frankreich.,1675,66.2,False,positional,,,Munzen,,
-BO0624_87424,651106,1067,159,"Ludwig d.XV.v. Frankreich,5-Frankstuck. 1761.",1677,95.5,False,positional,,,Munzen,,
-BO0624_87424,651107,1068,161,Ludwig XVI.Silbermunze 1791. 3 Ex. XV.1764.2 Frank.,1679,76.2,False,title_direct,,,Silber,,
-BO0624_87424,651108,1069,162,"1784, Thaler. """,1683,84.6,False,positional,,,Munzen,,
+BO0624_87424,651101,1062,42,148.3 Colner Rathszeichen v. 1730.,1654,95.5,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651102,1063,1149,"Silberne Ausstellungsmiinzen von Coln 1888. Dusseldorfer Schiessmunze 1878. Dusseldorf, Bundesschiessen, Silbermiunze, genenkelt.",1659,58.8,False,title_direct,,,Silber,,Sec. XIX
+BO0624_87424,651103,1064,152,"4 neuere engl. Munzen. dito. Silbermunze, Londoner Ausstell. 1862.",1665,71.4,False,title_direct,,,Munzen,,Sec. XIX
+BO0624_87424,651104,1065,155,Frankfurter Schutzenthaler 1862.2 Ex. Thaler v. Frankfurt. Bundesschiessen. Schillerthaler.,1669,58.1,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651105,1066,158,Frankfurter Bundes-Jubilaums-Schiessen. 1887. Funffrankenstick Ludwig XIV. von Frankreich.,1675,66.2,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651106,1067,159,"Ludwig d.XV.v. Frankreich,5-Frankstuck. 1761.",1677,95.5,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651107,1068,161,Ludwig XVI.Silbermunze 1791. 3 Ex. XV.1764.2 Frank.,1679,76.2,False,title_direct,,,Silber,,Sec. XVIII
+BO0624_87424,651108,1069,162,"1784, Thaler. """,1683,84.6,False,positional,,,Munzen,,Sec. XVIII
 BO0624_87424,651109,1070,165,Drei Neugriechische Silberminzen. XIV.2 Frank.,1687,80.0,False,title_direct,,,Silber,,
-BO0624_87424,651110,1071,166,"Thaler, Wilhelm v. Hessen.1794. Utrechter Thaler. 1659. Hollandischer Gulden. 1792.",1695,53.3,False,positional,,,Munzen,,
-BO0624_87424,651111,1072,169,Luneburg 1/3 Thaler 1767.,1697,92.3,False,positional,,,Munzen,,
-BO0624_87424,651112,1073,171,Mansfelder Thaler v. 1615. Zwei Luneburger Weissgroschen.,1701,72.7,False,positional,,,Munzen,,
-BO0624_87424,651113,1074,172,"1/3 Thaler mit Georg. 1671. "" Nurnberger Thaler v. 1680. Johaun Georg v. Mansfeld, 1/s Thaler mit Reiter.",1707,66.2,False,positional,,,Munzen,,
-BO0624_87424,651114,1075,175,"Thaler Franciscus D. G.Rom.imp. Rev. Stadt Nurnberg 1754. Franciscus, Rom. Kaiser. 2/3 Thaler 1757. Josef II.,Franz II.,Leop. II., Lothar. Silberminze.",1709,54.9,False,title_direct,,Scuola di Norimberga,Silber,,
-BO0624_87424,651115,1076,178,2/3 Thaler Patrona Hungar. 1779.,1715,93.8,False,positional,,,Munzen,,
-BO0624_87424,651116,1077,179,Franziscus dtsch. Kaiser. Thaler v. 1763.,1717,94.9,False,positional,,,Munzen,,
+BO0624_87424,651110,1071,166,"Thaler, Wilhelm v. Hessen.1794. Utrechter Thaler. 1659. Hollandischer Gulden. 1792.",1695,53.3,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651111,1072,169,Luneburg 1/3 Thaler 1767.,1697,92.3,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651112,1073,171,Mansfelder Thaler v. 1615. Zwei Luneburger Weissgroschen.,1701,72.7,False,positional,,,Munzen,,Sec. XVII
+BO0624_87424,651113,1074,172,"1/3 Thaler mit Georg. 1671. "" Nurnberger Thaler v. 1680. Johaun Georg v. Mansfeld, 1/s Thaler mit Reiter.",1707,66.2,False,positional,,,Munzen,,Sec. XVII
+BO0624_87424,651114,1075,175,"Thaler Franciscus D. G.Rom.imp. Rev. Stadt Nurnberg 1754. Franciscus, Rom. Kaiser. 2/3 Thaler 1757. Josef II.,Franz II.,Leop. II., Lothar. Silberminze.",1709,54.9,False,title_direct,,Scuola di Norimberga,Silber,,Sec. XVIII
+BO0624_87424,651115,1076,178,2/3 Thaler Patrona Hungar. 1779.,1715,93.8,False,positional,,,Munzen,,Sec. XVIII
+BO0624_87424,651116,1077,179,Franziscus dtsch. Kaiser. Thaler v. 1763.,1717,94.9,False,positional,,,Munzen,,Sec. XVIII
 BO0624_87424,651117,1078,1180,Thaler Joseph iI. v. Oesterreich.,1719,92.3,False,positional,,,Munzen,,
 BO0624_87424,651118,1079,182,Franz HI.2 Silberminzen. Leopold Patrona Hung. XV Kreuzer.,1723,71.1,False,title_direct,,,Silber,,
-BO0624_87424,651119,1080,183,Thaler Erzherzog Johann v. Oesterreich 1848. Thaler Josef II. v. Oesterreich. Maria Theresia Muttergottesthaler Patron. Hung.,1729,58.7,False,positional,,,Munzen,,
+BO0624_87424,651119,1080,183,Thaler Erzherzog Johann v. Oesterreich 1848. Thaler Josef II. v. Oesterreich. Maria Theresia Muttergottesthaler Patron. Hung.,1729,58.7,False,positional,,,Munzen,,Sec. XIX
 BO0624_87424,651120,1081,186,dito.Brabant.,1731,85.7,False,positional,,,Munzen,,
 BO0624_87424,651121,1082,187,Max Leopold 1/3 Thaler.,1733,91.7,False,positional,,,Munzen,,
 BO0624_87424,651122,1083,188,"Leopold v. Oesterreich, 1/6 Thaler.",1735,94.1,False,positional,,,Munzen,,
-BO0624_87424,651123,1084,189,Maria Theresia Patrona Hung. 1775.20 Kreuzer 2 Stick.,1737,96.2,False,positional,,,Munzen,,
+BO0624_87424,651123,1084,189,Maria Theresia Patrona Hung. 1775.20 Kreuzer 2 Stick.,1737,96.2,False,positional,,,Munzen,,Sec. XVIII
 BO0624_87424,651124,1085,1190,"Leopold v.Oesterreich,Doppelthaler.",1738,93.2,False,positional,,,Munzen,,
 BO0624_87424,651125,1086,191,dito,1740,66.7,False,positional,,,Munzen,,
-BO0624_87424,651126,1087,192,"Leopold v. Austrien. Thaler v. 1632. dito. Thaler, Ferdinand v. Oesterreich.",1746,64.7,False,positional,,,Munzen,,
+BO0624_87424,651126,1087,192,"Leopold v. Austrien. Thaler v. 1632. dito. Thaler, Ferdinand v. Oesterreich.",1746,64.7,False,positional,,,Munzen,,Sec. XVII
 BO0624_87424,651127,1088,195,Zehn,1748,66.7,False,positional,,,Munzen,,
 BO0624_87424,651128,1089,196,"Maria Theresia, 30 Kreuzer.",1750,92.6,False,positional,,,Munzen,,
 BO0624_87424,651129,1090,197,Zwei papstl. 2-Liresticke Pius IX.,1754,94.1,False,positional,,,Munzen,,
 BO0624_87424,651130,1091,198,Drei dito 2 Frank.,1756,89.5,False,positional,,,Munzen,,
 BO0624_87424,651131,1092,199,Vier papstl. Munzen.,1758,90.0,False,title_direct,,,Munzen,,
 BO0624_87424,651132,1093,1200,Papst Clemens XIV. tauft den Infant von Spanien. Silberminzen.,1760,95.9,False,title_direct,,,Silber,,
-BO0624_87424,651133,1094,201,"Johann Wilhelm, Pfalz Neuburg, Denkminze, Silber. Xaverius v.Polen. 2/3 Thaler. Friedrich Christian von Polen, 1665.Weissgroschen. 24 einen Thaler.u. Johann v.Polen —4 Stick.",1765,71.1,False,title_direct,,,Silber,,
+BO0624_87424,651133,1094,201,"Johann Wilhelm, Pfalz Neuburg, Denkminze, Silber. Xaverius v.Polen. 2/3 Thaler. Friedrich Christian von Polen, 1665.Weissgroschen. 24 einen Thaler.u. Johann v.Polen —4 Stick.",1765,71.1,False,title_direct,,,Silber,,Sec. XVII
 BO0624_87424,651134,1095,204,Drei Prager Groschen.,1767,90.9,False,positional,,,Munzen,,
 BO0624_87424,651135,1096,205,"Silbermunze,Friedr Wilh.III.Konig v.Preussen.Huldigungs-",1770,96.5,False,title_direct,,,Silber,,
 BO0624_87424,651136,1097,206,"Denkmunze aus Bronce auf Friedrich Hll. in silbernem Uhrgehause. Silberminze von Friedr.Wilh.IV.Anerkennung d. Fleisses. dito auf Auguste, Furstin v. Liegnitz, Grafin v. Hohenzollern.",1771,51.7,False,title_direct,,,Bronce,,
 BO0624_87424,651137,1098,209,"2-Thalerstuck, Friedrich Wilhelm IV. Konig von Preussen.",1774,96.4,False,positional,,,Munzen,,
-BO0624_87424,651138,1099,1854,1210. Wilhelm v.Preussen. Siegesthaler 1871. 5 Stick.,1776,100.0,False,positional,,,Munzen,,
-BO0624_87424,651139,1100,212,"Friedr. Wilh.v. Preussen. 21 eine f. Mark. Kronungsthaler, Preuss. 10 Stuck. 1861.",1779,67.9,False,positional,STUCK FRANZ VON,,Munzen,,
-BO0624_87424,651140,1101,213,"Friedr. IIl. von Brandenburg /3 Thaler, 2 Stick v.1695. 215",1781,92.6,False,positional,,,Munzen,,
+BO0624_87424,651138,1099,1854,1210. Wilhelm v.Preussen. Siegesthaler 1871. 5 Stick.,1776,100.0,False,positional,,,Munzen,,Sec. XIII
+BO0624_87424,651139,1100,212,"Friedr. Wilh.v. Preussen. 21 eine f. Mark. Kronungsthaler, Preuss. 10 Stuck. 1861.",1779,67.9,False,positional,STUCK FRANZ VON,,Munzen,,Sec. XIX
+BO0624_87424,651140,1101,213,"Friedr. IIl. von Brandenburg /3 Thaler, 2 Stick v.1695. 215",1781,92.6,False,positional,,,Munzen,,Sec. XVII
 BO0624_87424,651141,1102,214,"Wilhelm Konig von Preussen, dem besten Schutzen.",1783,95.8,False,positional,,,Munzen,,
-BO0624_87424,651142,1103,216,Preussischer Kronungsthaler. 1861. Siegesthaler 1871. 66,1784,71.9,False,positional,,,Munzen,,
-BO0624_87424,651143,1104,217,"2/3 Thaler,Friedr. Wilh.v.Preussen. 1684. 219.Regensburger Thaler mit Stadtansicht.1780. Josef II.",1787,73.8,False,positional,,,Munzen,,
+BO0624_87424,651142,1103,216,Preussischer Kronungsthaler. 1861. Siegesthaler 1871. 66,1784,71.9,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651143,1104,217,"2/3 Thaler,Friedr. Wilh.v.Preussen. 1684. 219.Regensburger Thaler mit Stadtansicht.1780. Josef II.",1787,73.8,False,positional,,,Munzen,,Sec. XVII
 BO0624_87424,651144,1105,218,Dreizehn preuss. Munz. 24 einen Thaler etc.,1788,95.2,False,positional,,,Munzen,,
 BO0624_87424,651145,1106,1220,Kleine Regensburger Silberminze. 12 Stick.,1789,94.1,False,title_direct,,,Silber,,
-BO0624_87424,651146,1107,222,"Zweithalerstuick,Johann von Sachsen.1858.",1790,95.2,False,positional,,,Munzen,,
+BO0624_87424,651146,1107,222,"Zweithalerstuick,Johann von Sachsen.1858.",1790,95.2,False,positional,,,Munzen,,Sec. XIX
 BO0624_87424,651147,1108,224,"Georg IV.von Sachsen, Gedenkminze.",1791,94.1,False,positional,,,Munzen,,
-BO0624_87424,651148,1109,12,"1221.Doppel-Thaler,Friedrich,Albert,Christian, Fursten v.Rudolfstadt.1630.",1792,98.0,False,positional,,,Munzen,,
-BO0624_87424,651149,1110,223,"Thaler, Johann Georg von Sachsen. 1632. Schone Pragu",1796,96.1,False,positional,,,Munzen,,
-BO0624_87424,651150,1111,1225,Sachsischer Siegesthaler 1817.,1797,92.1,False,positional,,,Munzen,,
-BO0624_87424,651151,1112,226,"Thaler, August von Sachsen v. 1555 auf die Belehnung mit",1801,96.4,False,positional,,,Munzen,,
-BO0624_87424,651152,1113,227,"Thaler, Christian II. v. Sachsen 1602.",1803,94.4,False,positional,,,Munzen,,
-BO0624_87424,651153,1114,228,"Thale y,Johann Georg und August von Sachstn 1601. Sachsen, 8 neuere Silberminzen.",1805,73.8,False,title_direct,,,Silber,,
+BO0624_87424,651148,1109,12,"1221.Doppel-Thaler,Friedrich,Albert,Christian, Fursten v.Rudolfstadt.1630.",1792,98.0,False,positional,,,Munzen,,Sec. XIII
+BO0624_87424,651149,1110,223,"Thaler, Johann Georg von Sachsen. 1632. Schone Pragu",1796,96.1,False,positional,,,Munzen,,Sec. XVII
+BO0624_87424,651150,1111,1225,Sachsischer Siegesthaler 1817.,1797,92.1,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651151,1112,226,"Thaler, August von Sachsen v. 1555 auf die Belehnung mit",1801,96.4,False,positional,,,Munzen,,Sec. XVI
+BO0624_87424,651152,1113,227,"Thaler, Christian II. v. Sachsen 1602.",1803,94.4,False,positional,,,Munzen,,Sec. XVII
+BO0624_87424,651153,1114,228,"Thale y,Johann Georg und August von Sachstn 1601. Sachsen, 8 neuere Silberminzen.",1805,73.8,False,title_direct,,,Silber,,Sec. XVII
 BO0624_87424,651154,1115,229,"Thaler, Johann Friedrich und Moritz von Sachsen.",1809,95.8,False,positional,,,Munzen,,
-BO0624_87424,651155,1116,231,"Thaler, Sigismund von Salzburg 1761. Salzburger Thaler, Franz Anton 1717. 8 Salzburger Vacanzthaler 1628.",1813,50.7,False,positional,,,Munzen,,
+BO0624_87424,651155,1116,231,"Thaler, Sigismund von Salzburg 1761. Salzburger Thaler, Franz Anton 1717. 8 Salzburger Vacanzthaler 1628.",1813,50.7,False,positional,,,Munzen,,Sec. XVIII
 BO0624_87424,651156,1117,234,Salzburger Klippe von Wolfgang Theodorich Av. Sanct. Rudb. Rev. Resistit M. D. X C. HIII immota.,1817,97.8,False,positional,,,Munzen,,
-BO0624_87424,651157,1118,235,"Salzburger Thaler, Rudbertus 1642.",1819,94.1,False,positional,,,Munzen,,
-BO0624_87424,651158,1119,236,dito 1655.,1821,81.8,False,positional,,,Munzen,,
-BO0624_87424,651159,1120,237,"dito 1667. Zwei Tarnosen Philipp IHl. von Spanien. Elf Schweizer Munzen, Turnosen und Batzen etc.",1827,64.3,False,title_direct,,,Munzen,,
-BO0624_87424,651160,1121,240,"8 spanische Silbermunzen. Thaler Carolus IHl. v. Spanien. Rev. utraque unum 1793. Carolus IV.v.Spanien,Thaler.",1831,65.0,False,title_direct,,,Silber,,
+BO0624_87424,651157,1118,235,"Salzburger Thaler, Rudbertus 1642.",1819,94.1,False,positional,,,Munzen,,Sec. XVII
+BO0624_87424,651158,1119,236,dito 1655.,1821,81.8,False,positional,,,Munzen,,Sec. XVII
+BO0624_87424,651159,1120,237,"dito 1667. Zwei Tarnosen Philipp IHl. von Spanien. Elf Schweizer Munzen, Turnosen und Batzen etc.",1827,64.3,False,title_direct,,,Munzen,,Sec. XVII
+BO0624_87424,651160,1121,240,"8 spanische Silbermunzen. Thaler Carolus IHl. v. Spanien. Rev. utraque unum 1793. Carolus IV.v.Spanien,Thaler.",1831,65.0,False,title_direct,,,Silber,,Sec. XVIII
 BO0624_87424,651161,1122,243,Spanischer Thaler.,1835,89.5,False,positional,,,Munzen,,
 BO0624_87424,651162,1123,244,"Kleine Goldminze, Carolus IIl. v. Spanien.",1837,95.0,False,title_direct,,,Gold,,
 BO0624_87424,651163,1124,245,Turnose a.Kupfer.,1839,88.9,False,title_direct,,,Kupfer,,
@@ -1128,7 +1128,7 @@ BO0624_87424,651165,1126,247,10 Trierer Albus.,1843,88.9,False,positional,,,Munz
 BO0624_87424,651166,1127,248,"Petermannchen, Kurtriersche,16 Stuck.",1845,94.6,False,positional,STUCK FRANZ VON,,Munzen,,
 BO0624_87424,651167,1128,249,5 turkische Silberminzen.,1847,92.3,False,title_direct,,,Silber,,
 BO0624_87424,651168,1129,1250,Wurttemberger Siegesthaler.,1849,91.2,False,positional,,,Munzen,,
-BO0624_87424,651169,1130,251,Wilhelm v. Wurttemberg. Regierungsfeier 1841.,1851,95.5,False,positional,,,Munzen,,
+BO0624_87424,651169,1130,251,Wilhelm v. Wurttemberg. Regierungsfeier 1841.,1851,95.5,False,positional,,,Munzen,,Sec. XIX
 BO0624_87424,651170,1131,252,Wurttembergischer Siegesthaler.,1853,93.8,False,positional,,,Munzen,,
 BO0624_87424,651171,1132,253,"Gulden Wilhelm, Konig v. Wurttemberg, Gedachtnissmunze",1855,96.2,False,positional,,,Munzen,,
 BO0624_87424,651172,1133,254,"Thaler Max Heinrich v. Coln, gehenkelt.",1857,94.7,False,positional,,,Munzen,,
@@ -1142,20 +1142,20 @@ BO0624_87424,651179,1140,261,Religiose Denkminze.,1871,90.5,False,positional,,,M
 BO0624_87424,651180,1141,262,Denkminze auf Friedrich III. in Silber gefasst und gehenkelt.,1872,96.7,False,title_direct,,,Silber,,
 BO0624_87424,651181,1142,1263,Chinesische Silberminze.,1873,90.2,False,title_direct,,,Silber,,
 BO0624_87424,651182,1143,265,"Silberne Schnallen. 2 silberne Schnallen,39 Gramm.",1877,74.1,False,title_direct,,,Silber,,
-BO0624_87424,651183,1144,266,"Tauf-Medaille a.Silber.29 Gramm. Grosse Bronce-Denkmiinze m. Kaiser Wilhelm u. Kaiserin Augusta 1878 von der Rheinprovinz gestiftet. 2 Orden, franz.Ehrenlegion.",1881,77.2,False,title_direct,,,DECORAZIONI DA PARETE,,
+BO0624_87424,651183,1144,266,"Tauf-Medaille a.Silber.29 Gramm. Grosse Bronce-Denkmiinze m. Kaiser Wilhelm u. Kaiserin Augusta 1878 von der Rheinprovinz gestiftet. 2 Orden, franz.Ehrenlegion.",1881,77.2,False,title_direct,,,DECORAZIONI DA PARETE,,Sec. XIX
 BO0624_87424,651184,1145,269,Denkminze a. Bronce auf Blicher.,1885,93.8,False,title_direct,,,Bronce,,
-BO0624_87424,651185,1146,271,Gehenkelte Silberminze a. Elisabeth v. Spanien. 1270.Sterbethaler Friedrich Wilhelm IV.,1886,67.2,False,title_direct,,,Silber,,
+BO0624_87424,651185,1146,271,Gehenkelte Silberminze a. Elisabeth v. Spanien. 1270.Sterbethaler Friedrich Wilhelm IV.,1886,67.2,False,title_direct,,,Silber,,Sec. XIII
 BO0624_87424,651186,1147,272,"Collection von 50 Erinnerungsmedaillen, Ehrenzeichen etc. Glaskastchen als Munzkastchen zu gebrauchen. dito 30 meist grossere.",1888,60.8,False,positional,,,Munzen,,
 BO0624_87424,651187,1148,275,Eine grosse Anzahl geringwertiger Antiquitaten.,1891,95.8,False,title_direct,,,Antiquitaten,,
-BO0624_87424,651188,1149,277,276. Thaler Friedrich Wilheln I. von Hessen 1860.,1895,100.0,False,positional,,,Munzen,,
+BO0624_87424,651188,1149,277,276. Thaler Friedrich Wilheln I. von Hessen 1860.,1895,100.0,False,positional,,,Munzen,,Sec. XIX
 BO0624_87424,651189,1150,278,Friedrich von Mecklenburg. 1,1897,93.1,False,positional,,,Munzen,,
-BO0624_87424,651190,1151,279,Wirttemberger Siegesthaler 1848.,1901,93.9,False,positional,,,Munzen,,
-BO0624_87424,651191,1152,281,1280. 一 Friedrich Wilhelm von Mecklenburg 1870.,1905,100.0,False,positional,,,Munzen,,
+BO0624_87424,651190,1151,279,Wirttemberger Siegesthaler 1848.,1901,93.9,False,positional,,,Munzen,,Sec. XIX
+BO0624_87424,651191,1152,281,1280. 一 Friedrich Wilhelm von Mecklenburg 1870.,1905,100.0,False,positional,,,Munzen,,Sec. XIII
 BO0624_87424,651192,1153,282,Kasten mit Kupferminzen. Silbermunzen.,1907,73.0,False,title_direct,,,Kupfer,,
-BO0624_87424,651193,1154,283,"一 dito. Silberminze, Friedens-Medaille auf den Schluss des siebenjahrigen Krieges. Spottminzen a.d.Pompadour. Silberminze, Aquitas Augusta Rev.3 Frauen. Gaudium populorum.1776.",1913,73.1,False,title_direct,,,Silber,,
+BO0624_87424,651193,1154,283,"一 dito. Silberminze, Friedens-Medaille auf den Schluss des siebenjahrigen Krieges. Spottminzen a.d.Pompadour. Silberminze, Aquitas Augusta Rev.3 Frauen. Gaudium populorum.1776.",1913,73.1,False,title_direct,,,Silber,,Sec. XVIII
 BO0624_87424,651194,1155,286,"Vermahlungs-Medaille, geschnitten von Loos. 288 Silberne religiose Denkmunze.",1915,68.9,False,title_direct,,,Silber,,
 BO0624_87424,651195,1156,287,"Grosse Silberminze, Av. Portrat und Umschrift Augustiss. trionun regis Christiani V.intenio. Rev. Wappen u. Umschrift.",1917,98.2,False,title_direct,,,Silber,,
-BO0624_87424,651196,1157,289,"Thaler, Wolfgang Dragracia, Cardinal von Schrattenbach. 1728.",1918,96.6,False,positional,,,Munzen,,
+BO0624_87424,651196,1157,289,"Thaler, Wolfgang Dragracia, Cardinal von Schrattenbach. 1728.",1918,96.6,False,positional,,,Munzen,,Sec. XVIII
 BO0624_87424,651197,1158,291,10 Groschen Kreuzer etc. 19 Hohlpfennige von Silber.,1922,71.6,False,title_direct,,,Silber,,
 BO0624_87424,651198,1159,292,"30 verschiedene kleine Silberminzen. 6 Nassauische Kreuzersticke. Zwanzig Kupferminzen, darunter Rheinische.",1928,56.8,False,title_direct,,,Kupfer,,
 BO0624_87424,651199,1160,295,6 Darmstadter Kreuzersticke. Carl VI. Weissgroschen. 2 Hessische 1/e Thaler und Sgroschen.,1934,60.3,False,positional,,,Munzen,,
@@ -1209,11 +1209,11 @@ BO0624_87424,651246,1207,346,dito n. Teniers.,2003,87.5,False,positional,TENIERS
 BO0624_87424,651247,1208,8,347.Ein bemalter Stich.,2004,95.7,False,positional,,,Glasgemalde; Miniaturen,,
 BO0624_87424,651248,1209,348,"Aquarelle auf Glas gemalt. Hohe 24,Breite 35 cm.",2005,95.8,False,positional,,,Glasgemalde; Miniaturen,,
 BO0624_87424,651249,1210,349,Brustbild eines Mannes auf Glas gemalt.,2006,95.0,False,positional,,,Glasgemalde; Miniaturen,,
-BO0624_87424,651250,1211,11,1350.Miniaturbildchen in Oel.Frauenportrat.In schwarz.Rahmchen,2007,97.6,False,positional,,,Glasgemalde; Miniaturen,,
+BO0624_87424,651250,1211,11,1350.Miniaturbildchen in Oel.Frauenportrat.In schwarz.Rahmchen,2007,97.6,False,positional,,,Glasgemalde; Miniaturen,,Sec. XIV
 BO0624_87424,651251,1212,1351,Miniaturbildchen aus Elfen bein. Frauenportrat.,2008,94.7,False,title_direct,,,OGGETTI VARI,,
 BO0624_87424,651252,1213,353,一 dito Kind. Mannerportrat.,2012,66.7,False,positional,,,Glasgemalde; Miniaturen,,
 BO0624_87424,651253,1214,354,一,2016,100.0,False,positional,,,Glasgemalde; Miniaturen,,
-BO0624_87424,651254,1215,355,"一 Biustbild einer Erau, gemalt v. Stieber 1797.",2018,95.7,False,positional,,,Glasgemalde; Miniaturen,,
+BO0624_87424,651254,1215,355,"一 Biustbild einer Erau, gemalt v. Stieber 1797.",2018,95.7,False,positional,,,Glasgemalde; Miniaturen,,Sec. XVIII
 BO0624_87424,651255,1216,356,Bildchen auf Pergament gemalt. Damenportrat. Miniaturbildchen auf Kupfer Frauenportrat in Rococcorahmen.,2025,72.4,False,title_direct,,,Kupfer,,
 BO0624_87424,651256,1217,359,"Zwolf Miniaturportrats die 12 Apostel darstellend, auf Papier",2026,96.8,False,positional,,,Glasgemalde; Miniaturen,,
 BO0624_87424,651257,1218,1360,Zwei Miniaturbildchen auf Pergament. Brustbild einer nackten,2027,95.9,False,positional,,,Glasgemalde; Miniaturen,,
@@ -1228,7 +1228,7 @@ BO0624_87424,651265,1226,368,"Makeldey, Italienische Landschaft.",2049,94.1,Fals
 BO0624_87424,651266,1227,369,"P.Metz,(Bonner Maler). Blumenbouquet. Leinwand. Hohe 32 ctm., Breite 27 ctm.",2050,97.1,False,positional,,,Gemalde; Stiche,,
 BO0624_87424,651267,1228,1370,"Portrat des Max Franz, letzter Kurfurst von Coln.",2051,94.9,False,positional,,,Gemalde; Stiche,,
 BO0624_87424,651268,1229,5,"Leinwand.Hohe 66 ctm.,Breite 55 ctm.",2052,97.1,False,positional,,,Gemalde; Stiche,,
-BO0624_87424,651269,1230,371,"Portrat des Joh. Dav. Breissler, Maler, geb. 1666 in Dres den, gest. 1737. Leinwand. Hohe 71, Breite 63 ctm. Portrat, Brustbild Max Friedrichs, Kurfurst von Coln. Holz. Hohe 26 ctm., Breite 19 ctm.",2053,69.3,False,title_direct,,,Holz,,
+BO0624_87424,651269,1230,371,"Portrat des Joh. Dav. Breissler, Maler, geb. 1666 in Dres den, gest. 1737. Leinwand. Hohe 71, Breite 63 ctm. Portrat, Brustbild Max Friedrichs, Kurfurst von Coln. Holz. Hohe 26 ctm., Breite 19 ctm.",2053,69.3,False,title_direct,,,Holz,,Sec. XVII
 BO0624_87424,651270,1231,372,"Portrat einer vornehmen Dame, angeblich Herzogin von Brabant. Leinwand. Hohe 110 ctm.,Breite 85 ctm.",2055,97.9,False,positional,,,Gemalde; Stiche,,
 BO0624_87424,651271,1232,1374,Manier Rembrandt. Portrat. Brustbild eines jungen Mannes.Leinwand.,2056,96.2,False,positional,REMBRANDT VAN RIJN,,Gemalde; Stiche,,
 BO0624_87424,651272,1233,375,Rembrandts Manier.,2057,89.5,False,positional,REMBRANDT VAN RIJN,Scuola di Rembrandt,Gemalde; Stiche,,
@@ -1260,16 +1260,16 @@ BO0624_87424,651297,1258,401,"Knaben-Portrat. Hohe 60 ctm.,Breite 40 ctm.",2093,
 BO0624_87424,651298,1259,3,"402.Der Zinsgroschen. Holz. Hohe 54 ctm., Breite 71 ctm.",2094,98.1,False,title_direct,,,Holz,,
 BO0624_87424,651299,1260,403,"Madonna mit dem Jesuskinde. Hohe 80 ctm., Breite 62 ctm.",2095,96.3,False,positional,,,Gemalde; Stiche,,
 BO0624_87424,651300,1261,404,Vier kleine Stiche in Chodowiecki's Manier.,2096,95.5,False,title_direct,,,Stiche,,
-BO0624_87424,651301,1262,405,"Stich Johann Sigismund und Joachim HI. Penelope et Ulysse, Stich von Avril. 1791. Schwerins Tod, Stich von Berger.",2098,53.0,False,title_direct,,,Stiche,,
+BO0624_87424,651301,1262,405,"Stich Johann Sigismund und Joachim HI. Penelope et Ulysse, Stich von Avril. 1791. Schwerins Tod, Stich von Berger.",2098,53.0,False,title_direct,,,Stiche,,Sec. XVIII
 BO0624_87424,651302,1263,408,Stich nach Jan Steen von Groenendyk.,2100,94.6,False,title_direct,STEEN JAN,,Stiche,,
 BO0624_87424,651303,1264,409,"Das Frihstick, Lithograpbie von Herburger.",2101,95.2,False,positional,,,Gemalde; Stiche,,
 BO0624_87424,651304,1265,1410,"Furst von Schwarzenberg, Lithographie von Bock.",2102,94.7,False,positional,,,STAMPE E INCISIONI,,
 BO0624_87424,651305,1266,12,"411.D.M. Maybrod, Lithographie von Lacroix.",2103,96.4,False,positional,DELACROIX VICTOR EUGENE,,STAMPE E INCISIONI,,
 BO0624_87424,651306,1267,412,"Napoleon der I.,Lithographie von Frey.",2104,94.7,False,positional,,,STAMPE E INCISIONI,,
 BO0624_87424,651307,1268,413,Abbildung von Coln u. Deutz mit d. Constantinischen Bricke.,2105,96.6,False,positional,,,Gemalde; Stiche,,
-BO0624_87424,651308,1269,414,Federzeichnung von Thijer St. Sebastianus. 1761.,2106,95.7,False,positional,,,Gemalde; Stiche,,
+BO0624_87424,651308,1269,414,Federzeichnung von Thijer St. Sebastianus. 1761.,2106,95.7,False,positional,,,Gemalde; Stiche,,Sec. XVIII
 BO0624_87424,651309,1270,16,415.Radirung temple de la Sibylle Tiburtine a. Tivoli von,2107,97.4,False,positional,,,Gemalde; Stiche,,
-BO0624_87424,651310,1271,17,Boissieu. 1809.,2108,89.7,False,positional,,,Gemalde; Stiche,,
+BO0624_87424,651310,1271,17,Boissieu. 1809.,2108,89.7,False,positional,,,Gemalde; Stiche,,Sec. XIX
 BO0624_87424,651311,1272,416,Vue de la cascade de lAar b.Bern. Stich.,2109,95.0,False,positional,,,Gemalde; Stiche,,
 BO0624_87424,651312,1273,417,"Les baigneuses, Stich v. Flour nach Vernet.",2110,95.2,False,positional,,,Gemalde; Stiche,,
 BO0624_87424,651313,1274,418,"Portrat de Dambremez, Stich nach Teniers von Ferand.",2111,96.2,False,positional,TENIERS DAVID IL GIOVANE,,Gemalde; Stiche,,
@@ -1283,7 +1283,7 @@ BO0624_87424,651320,1281,425,"Kupferstich,Einsiedler nach Corneille.",2118,94.9,
 BO0624_87424,651321,1282,426,Vier Tafeln mit je 4 Portrats deutscher Classiker in Lithographie.,2119,97.0,False,positional,,,STAMPE E INCISIONI,,
 BO0624_87424,651322,1283,29,"427.Lithographie, Die Rehjagd nach Ens.",2120,96.1,False,positional,,,STAMPE E INCISIONI,,
 BO0624_87424,651323,1284,428,dito Simson von Delila.,2121,91.7,False,positional,,,Gemalde; Stiche,,
-BO0624_87424,651324,1285,429,"Schlesische Parforce-Jagd, 1867. 2 colorirte Photographien.",2122,96.6,False,positional,,,FOTOGRAFIE,,
+BO0624_87424,651324,1285,429,"Schlesische Parforce-Jagd, 1867. 2 colorirte Photographien.",2122,96.6,False,positional,,,FOTOGRAFIE,,Sec. XIX
 BO0624_87424,651325,1286,1430,"Stich von Barocius, der h. Franziskus. Gerahmt.",2123,94.5,False,title_direct,,,Stiche,,
 BO0624_87424,651326,1287,431,Pavillon in Kew. colorirter Stich.,2124,94.1,False,positional,,,Gemalde; Stiche,,
 BO0624_87424,651327,1288,432,Vier Landschaften. colorirte Stiche.,2125,94.4,False,title_direct,,,Stiche,,
@@ -1298,7 +1298,7 @@ BO0624_87424,651335,1296,3,440.— dito.,2133,88.9,False,positional,,,Gemalde; S
 BO0624_87424,651336,1297,4,dito mit neuero.,2134,93.8,False,positional,,,Gemalde; Stiche,,
 BO0624_87424,651337,1298,441,Mehrere alte Ansichten von Bonn. und Lithographie.,2135,74.7,False,positional,,,STAMPE E INCISIONI,,
 BO0624_87424,651338,1299,442,Mappe mit Portrats historischer Personlichkeiten in Stich,2137,96.6,False,title_direct,,,Stiche,,
-BO0624_87424,651339,1300,443,Gestickte Kasel. Ovaie Porzellanbrosche mit Frauenkopfen bemalt. Denkmunze aus Bronce auf den Carneval von Koln 1838.,2140,61.5,False,title_direct,,,SCATOLE,,
+BO0624_87424,651339,1300,443,Gestickte Kasel. Ovaie Porzellanbrosche mit Frauenkopfen bemalt. Denkmunze aus Bronce auf den Carneval von Koln 1838.,2140,61.5,False,title_direct,,,SCATOLE,,Sec. XIX
 BO0624_87424,651340,1301,446,"Acht meissener Porzellanteller, bunt bemalt mit StadteAnsichten.",2141,96.9,False,title_direct,,Scuola di Meissen,Porzellan,,
 BO0624_87424,651341,1302,448,"Zwei silberne Kronen von Muttergottes-Figuren. Getriebene Arbeit. 447.Porzellanene Kuchenplatte,bemalt mit Imperatorenkopf.",2142,67.4,False,title_direct,,,Porzellan,,
 BO0624_87424,651342,1303,449,"Zweihenkelige Porzellan-Vase, bemalt mit Landschaft. Na-",2144,96.4,False,title_direct,,,VASI,,

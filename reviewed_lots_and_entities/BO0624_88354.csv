@@ -35,10 +35,10 @@ BO0624_88354,634526,33,33,34    | Junge Katchen. Halbrund. Cimon und Pera im Ker
 BO0624_88354,634527,34,35,36    | Landlchaft.                                                                                                                        |                                                      |,155,89.7,False,none,,,,,
 BO0624_88354,634528,35,37,| Anlicht uon Frankfurt a.M.                                                                                                         | Leinw.30/45                                          |,156,96.1,False,none,,,,,
 BO0624_88354,634529,36,38,39    | Harfenlpieler.                                                                                                                     | Leinw.24/30                                          |,158,94.9,False,none,,,,,
-BO0624_88354,634530,37,40,"| Chr.C.Agricola,1776-1857,Rom.                                                                                                      | Holz 28/35                                           |",160,96.3,False,none,,,OGGETTI IN LEGNO,,
-BO0624_88354,634531,38,47,"| Peter uan Bemmel, 1685—1754,Regensburg. Abendlandlchaft.                                                                           | Leinw.16,5/20,5 Leinw.15,5/20 Leinw.a.Holz 11,5/14,5 |",165,98.6,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88354,634530,37,40,"| Chr.C.Agricola,1776-1857,Rom.                                                                                                      | Holz 28/35                                           |",160,96.3,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88354,634531,38,47,"| Peter uan Bemmel, 1685—1754,Regensburg. Abendlandlchaft.                                                                           | Leinw.16,5/20,5 Leinw.15,5/20 Leinw.a.Holz 11,5/14,5 |",165,98.6,False,none,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88354,634532,39,48,"49 50 | Landlchaft mit Architektur und Waller. Desgl. Desgl. Winterlandlchaft.                                                             | Holz 22,5/28,5                                       |",166,98.3,False,none,,,OGGETTI IN LEGNO,,
-BO0624_88354,634533,40,51,52    | Bez.:J. G.Binder 1795.                                                                                                             | Leinw.50/41 Gegenftick z. Uor.                       |,167,97.1,False,none,,,,,
+BO0624_88354,634533,40,51,52    | Bez.:J. G.Binder 1795.                                                                                                             | Leinw.50/41 Gegenftick z. Uor.                       |,167,97.1,False,none,,,,,Sec. XVIII
 BO0624_88354,634534,41,54,"55    | A.Brucker, Frankfurt a.M. 4 Motiu bei Dachau. Regenftimmung. Landlchaft am See. Beide bezeichnet.                                  | Karton 14/18,5 Karton 17/23,5                        |",170,98.8,False,none,,,,,
 BO0624_88354,634535,42,80,Desgl.,173,76.9,False,none,,,,,
 BO0624_88354,634536,43,57,Bildnis Chrifti.,177,90.9,False,positional,,Byzantinilche Schule,,,
@@ -81,7 +81,7 @@ BO0624_88354,634572,79,94,Studienkopf. Petrus.,372,92.3,False,positional,,DeutIc
 BO0624_88354,634573,80,95,- Desgl. Mann mit grohem Bart. Leinw.32/24,376,100.0,False,positional,,DeutIche Meifter des 18. Jahrhunderts,,,
 BO0624_88354,634574,81,96,Ruckkehr von der Jagd.,378,93.3,False,positional,,DeutIche Meifter des 18. Jahrhunderts,,,
 BO0624_88354,634575,82,97,Trinkender Bauer.,382,91.4,False,positional,,DeutIche Meifter des 18. Jahrhunderts,,,
-BO0624_88354,634576,83,98,## Deutlche Schule des 17. Jahrhunderts.,391,100.0,False,title_direct,,Deutlche Schule des 17. Jahrhunderts,,,
+BO0624_88354,634576,83,98,## Deutlche Schule des 17. Jahrhunderts.,391,100.0,False,title_direct,,Deutlche Schule des 17. Jahrhunderts,,,Sec. XVII
 BO0624_88354,634577,84,99,Dornenkronung Chrifti.,393,93.3,False,positional,,Deutlche Schule des 17. Jahrhunderts,,,
 BO0624_88354,634578,85,100,- Chriftus wird dem Uolk vorgeltellt. Gegenftick z. Uor. Studienkopf. Mann mit Pelzmite. Holz 33/27 Chriftus fallt unter dem Kreuz. Ebenlo.,395,56.4,False,positional,,Deutlche Schule des 17. Jahrhunderts,OGGETTI IN LEGNO,,
 BO0624_88354,634579,86,103,Portrat eines Paftoren.,407,91.7,False,positional,,Deutlche Schule des 17. Jahrhunderts,,,
@@ -108,7 +108,7 @@ BO0624_88354,634599,106,132,| Stimmungslandichaft. Adriaan Gryeff.(Art.)        
 BO0624_88354,634600,107,1341,| 133 Ruckkehr von der Jagd. Desgl.                                                                                                     | Gegenftick z.Uor.                      |,471,95.0,False,positional,,,Englilche farb. Stiche,,
 BO0624_88354,634601,108,135,| Bezeichnet.                                                                                                                           |                                        |,473,83.3,False,positional,,,Englilche farb. Stiche,,
 BO0624_88354,634602,109,137,Partie am Koniglee mit Bartholomae. Bezeichnet.                                                       | Leinw.82/105                    |,477,96.7,False,positional,A.Heine,,,,
-BO0624_88354,634603,110,139,"Ritter mit Dame zu Pferd. Ol-Studie. Johann Andreas Herrlein,1720-1796, Fulda.                        | Karton 32/20,5                  |",480,97.8,False,positional,A.Heine,,,,
+BO0624_88354,634603,110,139,"Ritter mit Dame zu Pferd. Ol-Studie. Johann Andreas Herrlein,1720-1796, Fulda.                        | Karton 32/20,5                  |",480,97.8,False,positional,A.Heine,,,,Sec. XVIII
 BO0624_88354,634604,111,140,"Damenportrat. Eugen Heh t, Munchen.                                                                   | Leinw.29,5/24                   |",481,95.8,False,positional,A.Heine,,,,
 BO0624_88354,634605,112,141,"Landfchaft. Reilegelellchaft mit Schimmel vor einem Haus. Leinw.29/33 Adolf Hoffler t, Frankfurt a.M. |                                 |",482,98.0,False,positional,A.Heine,,,,
 BO0624_88354,634606,113,142,Waldlandlchaft. Bezeichnet.                                                                           | Leinw.45/70                     |,483,94.9,False,positional,A.Heine,,,,
@@ -139,7 +139,7 @@ BO0624_88354,634630,137,199,"Kapellenfenfter in der Rhon.                       
 BO0624_88354,634631,138,200,"Blick auf Cronberg. Samtlich bezeichnet.                                                                    | Aquarell 9,5/12                |",604,96.4,False,positional,A.Meckel,,,,
 BO0624_88354,634632,139,201,"| Portrat eines Herrn mit grohem Hut,                                                                    | Holz 55/43                      |",607,95.7,False,positional,Rembrandt,,OGGETTI IN LEGNO,,
 BO0624_88354,634633,140,204,| Chriftus mit der Dornenkrone.                                                                          | Gegenftick z.Uor.               |,612,95.7,False,positional,Rembrandt,,,,
-BO0624_88354,634634,141,205,"| Johann Elias Ridinger, 1698-1767,Augsburg.                                                             | Leinw.21/23                     |",613,96.3,False,positional,Rembrandt,,,,
+BO0624_88354,634634,141,205,"| Johann Elias Ridinger, 1698-1767,Augsburg.                                                             | Leinw.21/23                     |",613,96.3,False,positional,Rembrandt,,,,Sec. XVIII
 BO0624_88354,634635,142,206,| Kampfende Hirfche. Uerbellter Hirfch im Waller.                                                        | Leinw.24/30                     |,614,96.6,False,positional,Rembrandt,,,,
 BO0624_88354,634636,143,208,209 | Fellenlandlchaft mit Jeremias. Gewitterlandlchaft.                                                     | Leinw.80/101                    |,617,97.0,False,positional,Rembrandt,,,,
 BO0624_88354,634637,144,218,"| Chriftus und Maria. (Uera Imago Saluatoris und Verin. Effigies Matris Chrifti.)                        | Kupfer oual je 13,5/11,5        |",626,98.0,False,positional,Rembrandt,,OGGETTI IN RAME,,
@@ -259,8 +259,8 @@ BO0624_88354,634750,257,347,Prachtwerk Don Quichote von Guft.Dore. 2 Bande.,926,
 BO0624_88354,634751,258,348,- Zwei franzofifche Stiche.,928,100.0,False,positional,Friedrich Karl Steinhardt,,STAMPE E INCISIONI,,
 BO0624_88354,634752,259,349,Engl. Stich.,929,83.3,False,positional,Friedrich Karl Steinhardt,,,,
 BO0624_88354,634753,260,350,Zwei Anlichten von Frankfurt a.M.,930,94.1,False,positional,Friedrich Karl Steinhardt,,,,
-BO0624_88354,634754,261,351,Bibel. Altes und neues Teftament. 1673.,931,94.7,False,positional,Friedrich Karl Steinhardt,,,,
-BO0624_88354,634755,262,352,Desgl. Wittenberg 1686.,932,91.3,False,positional,Friedrich Karl Steinhardt,,,,
+BO0624_88354,634754,261,351,Bibel. Altes und neues Teftament. 1673.,931,94.7,False,positional,Friedrich Karl Steinhardt,,,,Sec. XVII
+BO0624_88354,634755,262,352,Desgl. Wittenberg 1686.,932,91.3,False,positional,Friedrich Karl Steinhardt,,,,Sec. XVII
 BO0624_88354,634756,263,353,Bocklin-Mappe.,933,86.7,False,positional,Friedrich Karl Steinhardt,,,,
 BO0624_88354,634757,264,354,- Kunfthandwerk. 3 Bande.,935,100.0,False,positional,Friedrich Karl Steinhardt,,,,
 BO0624_88354,634758,265,355,"Konuolut: Bocklinmappe, 4 Aquarelldrucke, Buntdruck, Aquarell und Stiche.",936,91.7,False,positional,Friedrich Karl Steinhardt,,STAMPE E INCISIONI,,
@@ -462,13 +462,13 @@ BO0624_88354,634953,460,595,- 596 Zwei Petroleumlampen mit Bronzemontierung.,126
 BO0624_88354,634954,461,598,598,1262,100.0,False,positional,Friedrich Karl Steinhardt,,,,
 BO0624_88354,634955,462,599,- 600,1267,100.0,False,positional,Friedrich Karl Steinhardt,,,,
 BO0624_88354,634956,463,602,602,1269,100.0,False,positional,Friedrich Karl Steinhardt,,,,
-BO0624_88354,634957,464,603,Desgl. Tufchzeichnung. 1821.,1272,92.6,False,positional,Friedrich Karl Steinhardt,,,,
+BO0624_88354,634957,464,603,Desgl. Tufchzeichnung. 1821.,1272,92.6,False,positional,Friedrich Karl Steinhardt,,,,Sec. XIX
 BO0624_88354,634958,465,604,- 605 Miniatur. Liebespaar. 18.Jahrhundert. 10/8.,1274,100.0,False,positional,Friedrich Karl Steinhardt,,MINIATURE,,
 BO0624_88354,634959,466,606,"Korallenkette und Armband, uierreihig mit gold. Schlollern und gelchn.",1278,97.1,False,positional,Friedrich Karl Steinhardt,,OGGETTI IN ORO,,
 BO0624_88354,634960,467,607,"uhrenkaftchen, uerlchliebbar. Elfenbein. Hohe 4. 9,5/8.",1279,96.2,False,positional,Friedrich Karl Steinhardt,,,,
 BO0624_88354,634961,468,608,Kinderraffel und Pfeifchen. Silber.,1281,94.3,False,positional,Friedrich Karl Steinhardt,,,,
 BO0624_88354,634962,469,609,- 610 Stockgriff. Elfenbein mit Reliefplatte.Uenus und Amor am Altar. Goldmontiert.,1283,100.0,False,positional,Friedrich Karl Steinhardt,,,,
-BO0624_88354,634963,470,611,Tafchenkalender mit Abbildungen. Frankfurt a.M. 1802.,1285,96.2,False,positional,Friedrich Karl Steinhardt,,,,
+BO0624_88354,634963,470,611,Tafchenkalender mit Abbildungen. Frankfurt a.M. 1802.,1285,96.2,False,positional,Friedrich Karl Steinhardt,,,,Sec. XIX
 BO0624_88354,634964,471,612,- 613,1287,100.0,False,positional,Friedrich Karl Steinhardt,,,,
 BO0624_88354,634965,472,614,- 615,1289,100.0,False,positional,Friedrich Karl Steinhardt,,,,
 BO0624_88354,634966,473,616,- 617,1291,100.0,False,positional,Friedrich Karl Steinhardt,,,,

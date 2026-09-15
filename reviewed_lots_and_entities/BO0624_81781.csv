@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_81781,674967,1,I,NCOGNITO.,5,94.1,False,none,,,,,
+BO0624_81781,674967,1,I,NCOGNITO.,5,94.1,False,none,ANONIMO,,,,
 BO0624_81781,674968,2,2,Lorro di tre bozzetti. Soggetti ed autori diversi.,11,98.0,False,none,,,,,
 BO0624_81781,674969,3,3,TELA dipinta ad olio con bozzetti di,12,97.3,False,none,,,,,
 BO0624_81781,674970,4,3,"Cipolla, Rosello, Munoz, Brugo, Pagliei, Costantini. Cornice dorata. NCOGNITO.",13,91.7,False,none,,,,,
@@ -104,7 +104,7 @@ BO0624_81781,675068,102,104,"SCENA IN UN GIARDINO PUBBLICO;bOZzetto su tela. Cor
 BO0624_81781,675069,103,105,MARTIRIO D'UN SANTO; bozZettO ad olio su tela con cornice a sesto in legno int. e dorato.,608,97.7,False,positional,CAMERANO,,,,
 BO0624_81781,675070,104,106,"LEzIoNE DI MUsICA; bozzetto ad olio su tela, firmato G. F. Cornice nera. Alt.,m.o,30X0,20.",611,97.6,False,positional,CAMERANO,,,,
 BO0624_81781,675071,105,107,PAESAGGIO CON ROCCE; bozzetto ad olio su tela. Cornice dorata. NCOGNITO.,615,90.1,False,positional,C.MARKO,,,,
-BO0624_81781,675072,106,108,"PAEsAGGIo; pittura ad olio su tela, firmata C.L.,1873, Roma.",621,96.5,False,positional,C.MARKO,,,,
+BO0624_81781,675072,106,108,"PAEsAGGIo; pittura ad olio su tela, firmata C.L.,1873, Roma.",621,96.5,False,positional,C.MARKO,,,,Sec. XIX
 BO0624_81781,675073,107,109,LA TENTAzIONE;bozzetto ad olio su tela.,627,95.0,False,positional,G.DEL RE,,,,
 BO0624_81781,675074,108,110,ALLEGORIA; bozzetto di un soffitto. Tela ad olio. NCOGNITO.,633,87.6,False,positional,BARRAN,,,,
 BO0624_81781,675075,109,111,CoNTADINI; pittura ad olio su tela. Cornice dorata.,639,96.0,False,positional,BARRAN,,,,
@@ -128,13 +128,13 @@ BO0624_81781,675092,126,130,RAGAZZI CHE GIUOCANO A CARTE; pittura ad olio su tel
 BO0624_81781,675093,127,131,CoNTADINO IN RIPOSO; pittura ad olio su tela.,767,95.6,False,positional,GIOIA,,,,
 BO0624_81781,675094,128,132,"DoNNA NUDA; studio ad olio su tela. Alt.,m.0,5oX0,33.",773,76.7,False,positional,ROMAKO,,,,
 BO0624_81781,675095,129,133,LAuRA ritratta da Simone Memmi; bozzetto ad olio su cartone.Cornice dorata.,778,92.3,False,positional,F.FOLCHI,,,,
-BO0624_81781,675096,130,134,"RITRATTO DI SOLDATo; bel bozzetto ad olio su tavola. Con la dedica seguente: α A mi querido Compagnero Jose B.De Pondo -Barbudo, 1882, Roma .Cornice dorata.",785,91.4,False,positional,S.BARBUDO,,,,
+BO0624_81781,675096,130,134,"RITRATTO DI SOLDATo; bel bozzetto ad olio su tavola. Con la dedica seguente: α A mi querido Compagnero Jose B.De Pondo -Barbudo, 1882, Roma .Cornice dorata.",785,91.4,False,positional,S.BARBUDO,,,,Sec. XIX
 BO0624_81781,675097,131,135,RITRATTo DI VEscovo: pittura ad olio su cartone. Cornice dorata.,794,96.8,False,positional,GRITTI,,,,
 BO0624_81781,675098,132,I,NCOGNITO.,806,94.1,False,positional,H.CORRODI,,,,
 BO0624_81781,675099,133,137,FUNZIONE RELIGIOSA; bozzetto su cartone. Cornice dorata.,808,96.4,False,positional,H.CORRODI,,,,
 BO0624_81781,675100,134,138,PAESAGGO CON FERROVIA;bOZZetto ad olio su tavola. Cornice dorata.,814,66.0,False,positional,ESTEVAN,,,,
 BO0624_81781,675101,135,139,CONTADINE NELLINTERNO D'UNA CASA; bozzetto ad olio su tela. Cornice dorata.,822,97.3,False,positional,LUNDGREN,,,,
-BO0624_81781,675102,136,140,SPONSALI DEL SECOLO XV; bozzetto ad olio su tela. Cornice nera.,828,96.8,False,positional,A.MONTESI,,,,
+BO0624_81781,675102,136,140,SPONSALI DEL SECOLO XV; bozzetto ad olio su tela. Cornice nera.,828,96.8,False,positional,A.MONTESI,,,,Sec. XV
 BO0624_81781,675103,137,141,MARINA E PAESAGGIo;bozzetto ad olio su tela. Cornice dorata. NCOGNITO.,836,89.9,False,positional,VERTUNNI,,,,
 BO0624_81781,675104,138,142,DoNNA CHE LAvORA;bel bozzetto ad olio su tavola. Ricca cornice int.e dorata.,842,97.4,False,positional,VERTUNNI,,,,
 BO0624_81781,675105,139,143,PAEsAGGIo; bel bozzetto ad olio su tavola.Cornice dorata.,848,96.5,False,positional,GABANI,,,,
@@ -208,7 +208,7 @@ BO0624_81781,675172,206,219,"L'ANGELO E ToBIA; bozzetto ad olio su cartone. Corn
 BO0624_81781,675173,207,220,TEsTA DI MONAco; bello studio ad olio su tela.,1278,95.7,False,positional,A.FUNTES,,,,
 BO0624_81781,675174,208,221,"PAESAGGIO; disegno a matita, firmato.",1284,94.4,False,positional,SIEMIRADSKY,,,,
 BO0624_81781,675175,209,223,CASTELLO E PONTE S. ANGELO; bOzzetto ad olio su tavola.,1294,96.3,False,title_direct,CASTELLI,,,,
-BO0624_81781,675176,210,I,NCOGNITO.,1310,94.1,False,positional,,SCUOLA FRANCESE,,,
+BO0624_81781,675176,210,I,NCOGNITO.,1310,94.1,False,positional,ANONIMO,SCUOLA FRANCESE,,,
 BO0624_81781,675177,211,226,SoGGETTO MITOLOGICO; pittura ad olio su tela. Cornice dorata.,1312,96.7,False,positional,,SCUOLA FRANCESE,,,
 BO0624_81781,675178,212,227,DANTE IN ESILIO; bozzetto ad olio su tela. Cornice int. e dorata.,1318,96.8,False,positional,E.FANFANI,,,,
 BO0624_81781,675179,213,228,INTERNO DI CHIESA; pittura ad olio su tela. Cornice int. e dorata.,1324,96.9,False,positional,C.G.BARBERA,,,,
@@ -225,7 +225,7 @@ BO0624_81781,675189,223,2,gistrale fattura.,1381,94.1,False,positional,GIUSEPPE 
 BO0624_81781,675190,224,239,RITRATTO DI VECCHIO SIGNORE; Splen- dido bozzetto ad olio su tavola. Cornice dorata.,1393,73.4,False,positional,D.MUNOZ,,,,
 BO0624_81781,675191,225,240,DONNA CHE PREGA AVANTI AD UN'IMMAGINE DELLA VERGINE; spendido bozzetto ad olio su tavola. Cornice dorata.,1401,94.5,False,positional,D.MORELLI,,,,
 BO0624_81781,675192,226,241,SoGGETTO MITOLOGICO; bOZZettO ad olio su tavola. Cornice int. e dorata. NCOGNITO.,1410,91.2,False,positional,E.DUPONT,,,,
-BO0624_81781,675193,227,242,EPIsoDIo SToRIeO del secolo XVI; bozzetto ad olio su tela.,1416,96.6,False,positional,E.DUPONT,,,,
+BO0624_81781,675193,227,242,EPIsoDIo SToRIeO del secolo XVI; bozzetto ad olio su tela.,1416,96.6,False,positional,E.DUPONT,,,,Sec. XVI
 BO0624_81781,675194,228,243,RICEVIMENTO SPAGNUOLO: splendido bozzetto ad olio su tela. Cornice dorata.,1422,97.3,False,positional,A.MONTESI,,,,
 BO0624_81781,675195,229,244,"S. LuCA E S. ADELAIDE; due piccole lunette dipinte ad olio su tavola, fondo oro. Con dedica dell'autore all'architetto Luca Carimini.",1430,98.4,False,positional,SEITZ,,,,
 BO0624_81781,675196,230,245,LAVANDAIE AL TORRENTE; fine boz- zetto ad olio su tavola. Cornice dorata.,1435,71.6,False,positional,V.GARNIER,,,,

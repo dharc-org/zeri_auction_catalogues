@@ -1,18 +1,18 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88318,646876,1,1,"Altartafel.Unten, iber einer Predella mit finf Kopfen von Heiligen, Maria mit dem Kind thronend, zu Seiten rechts und links je vier Heilige, zu Fufen des Thrones zwei musizierende Engel; oben im spitzbogigen Tympanon Christus am Kreuz mit Maria, Magdalena, Franziskus und Johannes. Goldgrund.",5,99.8,False,positional,TADDEO GADDI,,,,
-BO0624_88318,646877,2,2,"—Sirén, Don Lorenzo Monaco (1906) Nr. 7 u. S. 95.",39,97.6,False,positional,DON LORENZO MONACO,,,,
+BO0624_88318,646877,2,2,"—Sirén, Don Lorenzo Monaco (1906) Nr. 7 u. S. 95.",39,97.6,False,positional,DON LORENZO MONACO,,,,Sec. XX
 BO0624_88318,646878,3,5,"Die Geburt Christi. In der Mitte das Christkind am Boden liegend, links die knieende das Kind verehrende Maria, rechts vom Ricken gesehen, sitzend, den Kopf erhoben, Joseph.",44,99.4,False,positional,DON LORENZO MONACO,,,,
 BO0624_88318,646879,4,6,"Die Geburt Christi. Maria liegend in einer Huitte mit giebeligem Dach, iber dem vier Engel sichtbar werden. Vorn links der sitzende Joseph, in der Mitte das Christkind und zwei Frauen, die ihm das Bad bereiten, rechts zwei Hirten. Goldgrund. Holz,26x38 cm.",54,99.6,False,positional,NICCOLO DI SEGNA,,OGGETTI IN LEGNO,,
 BO0624_88318,646880,5,7,"Die Madonna in Halbfigur, das Christkind auf ihrem linken Arm tragend. Goldgrund.",64,98.7,False,positional,LIPPO MEMMI,,,,
 BO0624_88318,646881,6,8,"Christus am Kreuz, links Maria mit Frauen, dahinter Krieger,",79,98.3,False,positional,BERNA (BARNA) DA SIENA,,,,
 BO0624_88318,646882,7,10,",.11 Zwei Altarteile —Johannes Evangelista thronend, in einem Buch lesend, das ein Engel tragt — Johannes der Taufer im Freien sitzend, mit einem Spruchband in seiner Linken.Goldgrund.",101,99.2,False,positional,,SIENESISCHER MEISTER,,,
 BO0624_88318,646883,8,12,"Reliquienbehalter. In gotischer Rahmung Maria mit dem Kind; unten,am Sockel, nebeneinander in Vierpassen Maria, Christus als Schmerzensmann und Johannes Evang. Goldgrund.",109,99.1,False,positional,FRANCESCO DI VANNUCCIO,,,,
-BO0624_88318,646884,9,I,TALIENISCHER MEISTER DES 14. JAHRHUNDERTS,127,98.8,False,title_direct,,ITALIENISCHER MEISTER,,,
+BO0624_88318,646884,9,I,TALIENISCHER MEISTER DES 14. JAHRHUNDERTS,127,98.8,False,title_direct,,ITALIENISCHER MEISTER,,,Sec. XIV
 BO0624_88318,646885,10,I,TALIENISCHER MEISTER DES 14.JAHRHUNDERTS,132,98.8,False,title_direct,,ITALIENISCHER MEISTER,,,
-BO0624_88318,646886,11,I,TALIENISCHER MEISTER DES 14. JAHRHUNDERTS,136,98.8,False,title_direct,,ITALIENISCHER MEISTER,,,
+BO0624_88318,646886,11,I,TALIENISCHER MEISTER DES 14. JAHRHUNDERTS,136,98.8,False,title_direct,,ITALIENISCHER MEISTER,,,Sec. XIV
 BO0624_88318,646887,12,17,"FlugelaltarIn der Mitte die Anbetung der Konige, dariber in der spitzbogigen Luinette Christus am Kreuz mit Maria und Johannes. Auf den Fligeln rechts vier Heilige in ganzer Figur, links drei Heilige und Christus am Olberg, oben auf den Fligeln die Verkindigung, links der Engel, rechts Maria. Aufen die Brustbilder Petrus und Paulus, Christus dem Thomas erscheinend, der hl. Sebastian und ein anderer Heiliger. Goldgrund.",144,99.6,False,positional,,NORDITALIENISCHER MEISTER,,,
 BO0624_88318,646888,13,18,"Die VermahIung Mariae. Die predellenartige Darstellung ist durch die Pfeiler der Halle,in der der Priester die Vermahlung vollzieht, gegliedert. Links neben der Halle zwei Freier, die Stabe zerbrechen, rechts zwei Posaunenblaser und zwei Manner im Gesprach. Holz, 20x48 cm.",150,99.4,False,positional,,FLORENTINISCHER MEISTER,OGGETTI IN LEGNO,,
-BO0624_88318,646889,14,19,"Ju dith mit dem Haupte des Holofernes in der erhobenen Linken schreitet aus dem Zelt, in der Rechten das nackte Schwert. n der Zeichnung und farbigen Behandlung stimmt das Bild mit der ,Verleumdung nach Apelles"" in den Uffizien zu Florenz iberein und scheint gegen 1490 entstanden zu sein.",166,73.8,False,positional,SANDRO BOTTICELLI,,,,
+BO0624_88318,646889,14,19,"Ju dith mit dem Haupte des Holofernes in der erhobenen Linken schreitet aus dem Zelt, in der Rechten das nackte Schwert. n der Zeichnung und farbigen Behandlung stimmt das Bild mit der ,Verleumdung nach Apelles"" in den Uffizien zu Florenz iberein und scheint gegen 1490 entstanden zu sein.",166,73.8,False,positional,SANDRO BOTTICELLI,,,,Sec. XV
 BO0624_88318,646890,15,20,"Maria mit dem Kind bis zum Knie sichtbar, mit dem jugend- lichen Johannes auf der linken Seite. Landschaftlicher Grund hinter einer Rampe.",172,98.9,False,positional,,WERKSTATT DES SANDRO BOTTICELLI,,,
 BO0624_88318,646891,16,21,"Diana im Bade und Aktaon. Die Gottin mit zwei Nymphen nackt in einem steinernen Brunnenbecken stehend, links der Jager mit dem Hirschkopf. Nach Ovid, Metam. III 138ff.",183,99.1,False,positional,,DER PARIS-MEISTER,,,
 BO0624_88318,646892,17,22,Die Anbetung des am Boden liegenden Christkin d es durch Maria und den kleinen Johannes.,195,98.3,False,positional,,FLORENTINISCHER MEISTER,,,
@@ -77,7 +77,7 @@ BO0624_88318,646950,75,91,"Bil dnis eines Ma n ne s. Halbfigur,halb seitlich nac
 BO0624_88318,646951,76,92,"Maria mit dem Kind,Halbfigur. Sie halt mit beiden Handen das lebhaft bewegte Christkind, das auf einem teppichbedeckten Tisch sitzt und mit seiner Rechten der Mutter unter das Kinn faft.",925,99.2,False,positional,JAN GOSSAERT,,,,
 BO0624_88318,646952,77,93,"Fligelaltar. In der Mitte Christus am Kreuz, Maria,Johannes und am Kreuze knieend Magdalena, rechts die Sibylle von Tibur mit dem Kaiser Augustus, links ein Heiliger in Diakonentracht (Leonhard?). AuBen auf den Fluigeln die Wappen der Imhof und WelBer.",941,99.4,False,positional,,SUDNIEDERLANDISCHER MEISTER,,,
 BO0624_88318,646953,78,94,"Der h 1. F ran zi s k u s den Fischen predigend, in der Mitte stehend, die Rechte segnend erhoben, den Kopf dem Gewasser zugeneigt, in dem sich viele Fische versammelt haben. Rechts ein schlafender Genosse des Heiligen. Von Figuren belebte Landschaft. Holz,oben rund,38×2312 cm.",950,99.4,False,positional,,SUDNIEDERLANDISCHER MEISTER,OGGETTI IN LEGNO,,
-BO0624_88318,646954,79,95,"Das Abendmahl Christi. In einem ornamental reich ausgestatteten Raume sitzt der Heiland mit den zwolf Aposteln um einen der Bildfache parallel gestellten Tisch. Drei Apostel, darunter in der Mitte Judas, an der Vorderseite der Tafel, die ibrigen Apostel rechts und links von Christus hinter dem Tisch und an den Seiten. n meinem Aufsatz im Jahrbuch d. pr. Ksts. XXXVI (1915) habe ich den Versuch gemacht, die ungemein groBe Gruppe der friher Herri met de Bles"" geordnet (Gruppe der Grooteschen Anbetung).",954,77.9,False,positional,,SUDNIEDERLANDISCHER MEISTER,OGGETTI VARI,,
+BO0624_88318,646954,79,95,"Das Abendmahl Christi. In einem ornamental reich ausgestatteten Raume sitzt der Heiland mit den zwolf Aposteln um einen der Bildfache parallel gestellten Tisch. Drei Apostel, darunter in der Mitte Judas, an der Vorderseite der Tafel, die ibrigen Apostel rechts und links von Christus hinter dem Tisch und an den Seiten. n meinem Aufsatz im Jahrbuch d. pr. Ksts. XXXVI (1915) habe ich den Versuch gemacht, die ungemein groBe Gruppe der friher Herri met de Bles"" geordnet (Gruppe der Grooteschen Anbetung).",954,77.9,False,positional,,SUDNIEDERLANDISCHER MEISTER,OGGETTI VARI,,Sec. XX
 BO0624_88318,646955,80,96,"Die h1. Mag dalena lesend, in Halbfigur,mit beiden Handen ein Buch haltend, an einem Tisch, auf dem ein reich ornamentiertes GefaB steht. Holz,21x16 cm.",964,99.0,False,positional,,SUDNIEDERLANDISCHER MEISTER,OGGETTI IN LEGNO,,
 BO0624_88318,646956,81,97,"Landschaft mit dem hl. Christoph, der mit dem Christuskind auf der Schulter den Fluf durchschreitet. Im Grunde rechts eine Hafenstadt, links felsiges Ufer.",971,99.0,False,positional,HERRI MET DE BLES,,,,
 BO0624_88318,646957,82,98,"La n d s c ha ft mit Vanitas-Darstellung. Rechts vorn zwei Liebespaare, auf die der Tod herabschwebt. Im Mittelgrund rechts ein vor der Erscheinung des Todes flichtender Landsknecht. Viele Figuren, zumeist Liebespaare,im Hintergrunde.",983,99.3,False,positional,,NACHFOLGER DES JOACHIM DE PATINIR,,,
@@ -101,7 +101,7 @@ BO0624_88318,646974,99,116,"Christus am Kreuz mit Magdalena und einer Reihe Heil
 BO0624_88318,646975,100,117,"Maria mit dem Kind, in Halbfigur. Sie halt mit der Rechten das auf dem Tisch vor ihr stehende Christkind, dem sie mit der Linken die Brust darbietet.",1197,98.6,False,positional,LUCAS VAN LEYDEN,,,,
 BO0624_88318,646976,101,118,"Bildnis eines Mannes.Brustbild ohne Hande,halb seitlich nach rechts mit dem Blick auf den Beschauer.",1207,98.0,False,positional,,HOLLANDISCHER MEISTER,,,
 BO0624_88318,646977,102,119,"Die Auferweckung Lazari. Christus steht in der Mitte hinter dem offenen Grabe, in dem sich Lazarus aufrichtet. Ein Mann beugt sich zu dem Auferweckten und befreit ihn von den Binden. Links knieen",1221,99.0,False,positional,NICOLAS FROMENT,,,,
-BO0624_88318,646978,103,120,",12i Zwei Alta rfli gel — Die Flucht nach Agypten -die Dar- tatig um 1500, wahrscheinlich in Frankreich.",1236,98.0,False,positional,,DER MEISTER DES HEILIGEN AGIDIUS,,,
+BO0624_88318,646978,103,120,",12i Zwei Alta rfli gel — Die Flucht nach Agypten -die Dar- tatig um 1500, wahrscheinlich in Frankreich.",1236,98.0,False,positional,,DER MEISTER DES HEILIGEN AGIDIUS,,,Sec. XVI
 BO0624_88318,646979,104,122,"Fligelaltar —Die Beweinung Christi; rechts die hl. Katharina,",1252,96.6,False,positional,,FRANZOSISCHER MEISTER,,,
 BO0624_88318,646980,105,123,"Bildnis eines jungen Mannes. Halbfigur mit Handen, etwas nach rechts gewandt, die Linke an der Hufte, mit der Rechten ein Medaillon haltend. Hintergrund ein geraffter Vorhang. Holz, 39x25 cm.",1264,98.9,False,positional,,FRANZOSISCHER MEISTER,OGGETTI IN LEGNO,,
 BO0624_88318,646981,106,124,"Bildnis eines jungen Mannes, Halbfigur, etwas nach rechts gewandt, mit Handen, auf dunklem Grund. Die Linke halt Handschuhe, die Rechte aufgelegt am untern Rand. Holz, 44x32 cm.",1270,98.8,False,positional,,FRANZOSISCHER MEISTER,OGGETTI IN LEGNO,,
@@ -114,7 +114,7 @@ BO0624_88318,646987,112,131,"Anna selbdritt in der Mitte thronend,mit Maria Jaco
 BO0624_88318,646988,113,132,"Die Taufe Christi mit den Nothelfern. In der Mitte wird Christus im Wasser stehend von dem auf einem Felsvorsprung rechts knieenden Johannes getauft. Links am Ufer ein Engel mit dem Mantel Christi, vorn zu beiden Seiten des Wassers je ein musizierender Engel. Getrennt von der Taufdarstellung durch einen weiBen Wolkenbogen, halbkreisformig rahmend, oben Gottvater und rechts und links die 14 Heiligen, die als Nothelfer""verehrt werden.",1339,99.5,False,positional,,DER MEISTER DES HL.BARTHOLOMAUS,,,
 BO0624_88318,646989,114,133,"Der hl. Jako bus, Brustbild, Fragment aus einem Altarbild. Der Heilige in Pilgerausristung halb seitlich nach rechts und aufwarts gewandt, vor landschaftlichem Grund.",1351,98.8,False,positional,,DER MEISTER DES HL.BARTHOLOMAUS,OGGETTI VARI,,
 BO0624_88318,646990,115,134,"Die Geburt Christi mit dem verehrenden Donator Petrus von Clapis und der Donatrix, die rechts und links an Betpulten knieen, auf denen Kerzen brennen. In der Mitte an der Krippe mit dem Christkind Maria und eine Gruppe von Engeln dicht gedrangt. Joseph links mit einer",1359,99.2,False,positional,BARTHEL BRUYN DER ALTERE,,OGGETTI VARI,,
-BO0624_88318,646991,116,135,"Bildnis einer Frau, Brustbild auf grinem Grund,etwas nach links gewandt. Die Rechte halt eine Nelke, die Linke ein Taschentuch. Datiert oben rechts und links:1524—26 (namlich aetatis).",1378,98.9,False,positional,BARTHEL BRUYN DER ALTERE,,,,
+BO0624_88318,646991,116,135,"Bildnis einer Frau, Brustbild auf grinem Grund,etwas nach links gewandt. Die Rechte halt eine Nelke, die Linke ein Taschentuch. Datiert oben rechts und links:1524—26 (namlich aetatis).",1378,98.9,False,positional,BARTHEL BRUYN DER ALTERE,,,,Sec. XVI
 BO0624_88318,646992,117,136,"Bildnis eines jungen Mannes, Halbfgur auf grunem Grund, halb seitlich nach rechts. Die Linke halt eine Nelke, die Rechte liegt vorn auf der Rampe. Unten der Spruch: Dum spiro spero.",1386,98.9,False,positional,BARTHEL BRUYN DER ALTERE,,,,
 BO0624_88318,646993,118,137,"Bildnis einer Frau mit ihrer Tochter. Die Mutter, bis zum Knie sichtbar, halb seitlich nach links, halt in der Rechten ein Buch und legt die Linke auf die Schulter der in Halbfigur vor ihr sicht- baren Tochter.",1400,99.0,False,positional,BARTHEL BRUYN DER JUNGERE,,,,
 BO0624_88318,646994,119,138,"Bildnis einer Frau, fast von vorn, Halbfigur. Sie halt in der Rechten eine Nelke, mit der Linken das SchluBglied der reichen Gurtelkette, das auf einem Tisch rechts liegt.",1408,98.8,False,positional,,KOLNISCHER MEISTER,,,
@@ -152,7 +152,7 @@ BO0624_88318,647025,150,170,Reiterschlacht vor den Mauern einer turm= reichen St
 BO0624_88318,647026,151,171,"Herkules,den nemeischen Lowen erwirgend",1783,95.1,False,positional,,MEISTER O MODERNI,,,
 BO0624_88318,647027,152,172,Der Genius der Musik an einem Baum mit Instrumenten,1793,96.2,False,positional,,OBERITALIENISCHER MEISTER,,,
 BO0624_88318,647028,153,173,"Kniender Hieronymus mit Lowen, sich kasteiend TALIEN (XVI. Jahrh.)",1802,80.7,False,positional,,OBERITALIENISCHER MEISTER,,,
-BO0624_88318,647029,154,174,Beweinung Christi durch die Madonna und zwei Engel TALIEN (Zweite Halfte des XVI. Jahrh.),1810,71.9,False,positional,,OBERITALIENISCHER MEISTER,,,
+BO0624_88318,647029,154,174,Beweinung Christi durch die Madonna und zwei Engel TALIEN (Zweite Halfte des XVI. Jahrh.),1810,71.9,False,positional,,OBERITALIENISCHER MEISTER,,,Sec. XVI
 BO0624_88318,647030,155,175,Anbetung der Hirten,1818,90.5,False,positional,,OBERITALIENISCHER MEISTER,,,
 BO0624_88318,647031,156,176,"Viereckiger Kasten auf LowenfuBen,aus Plaketten zusammengestellt",1824,97.0,False,positional,,OBERITALIENISCHER MEISTER,,,
 BO0624_88318,647032,157,177,"Portratder Grazia Nasi,im Profil nach links",1834,95.6,False,positional,PASTORINO DE'PASTORINI,,,,
@@ -169,10 +169,10 @@ BO0624_88318,647042,167,185,Thronende Madonna von sechs Engelknaben umgeben,1916
 BO0624_88318,647043,168,186,Kreuzigung Christi a Christusmedaille in figurenreichem Renaissances rahmen,1937,83.6,False,positional,LEONHARD DANNER,MONOGRAMMIST L.D.,CORNICI,,
 BO0624_88318,647044,169,187,Dornenkronung Christi und Schaustellung Christi Gegensticke zur folgenden Nummer.,1945,97.6,False,positional,LEONHARD DANNER,MONOGRAMMIST L.D.,,,
 BO0624_88318,647045,170,188,Kreuzigung Christi und Beweinung unterm Kreuz TALIEN (XV.Jahrh.),1951,81.8,False,positional,LEONHARD DANNER,MONOGRAMMIST L.D.,,,
-BO0624_88318,647046,171,189,Bulle des Papstes Paul II(1464-1471),1959,94.6,False,positional,LEONHARD DANNER,MONOGRAMMIST L.D.,,,
+BO0624_88318,647046,171,189,Bulle des Papstes Paul II(1464-1471),1959,94.6,False,positional,LEONHARD DANNER,MONOGRAMMIST L.D.,,,Sec. XV
 BO0624_88318,647047,172,190,Zwei stehende Heilige unter Baldachin Umschrift:S·ABBATIS·S·(CON)VENTVS·MONASTERII·SANCTI·PETRI. MVTINENSIS,1967,98.1,False,positional,LEONHARD DANNER,MONOGRAMMIST L.D.,,,
 BO0624_88318,647048,173,191,Stehender heiliger Bartolomaeus,1974,93.9,False,positional,LEONHARD DANNER,MONOGRAMMIST L.D.,,,
-BO0624_88318,647049,174,192,Der heilige Nicolaus von Bari zu Schiff Umschrift:S·COLLEGII·SCI·NICOLAI·ISTRASPVRGA. Ruckseite W.A 1571,1982,98.1,False,positional,LEONHARD DANNER,MONOGRAMMIST L.D.,,,
+BO0624_88318,647049,174,192,Der heilige Nicolaus von Bari zu Schiff Umschrift:S·COLLEGII·SCI·NICOLAI·ISTRASPVRGA. Ruckseite W.A 1571,1982,98.1,False,positional,LEONHARD DANNER,MONOGRAMMIST L.D.,,,Sec. XVI
 BO0624_88318,647050,175,193,Stehender Herkules mit Lowenfell und Keule,1988,95.5,False,positional,,NACHFOLGER DES ANTONIO DEL POLLAJUOLO,,,
 BO0624_88318,647051,176,194,"Schreitender Hengst n Anschluf an Leonardos ReiterdenkmalEntwirfe. Nach Vasari vielleicht von Gian Francesco Rustici ausgefuihrt. Als Gegenstuck findet sich ein Pferd, das den Kopf nach rechts wendet. Andere Exemplare in den Museen von Berlin (Nr.102), Modena (v.Bode:Bronzestatuetten I,T. CXXXII),Minchen,Dresden,Wien und sonst.",1998,96.9,False,positional,LEONARDO DA VINCI,Scuola Viennese,,,
 BO0624_88318,647052,177,195,Stehende Venus nach dem Bade,2004,93.3,False,positional,GIOVANNI DA BOLOGNA,,,,
@@ -183,7 +183,7 @@ BO0624_88318,647056,181,199,Nessus und Dejanira,2045,90.5,False,positional,GIOVA
 BO0624_88318,647057,182,200,Stehender Johannes der Taufer mitLamm und Buch,2051,95.8,False,positional,PIETRO FRANCAVILLA,,,,
 BO0624_88318,647058,183,201,"Zwei Pferdekopfe,aus denen ein Widderkopf herauswachst n der Art jener phantastischen Gebilde, wie sie in der Nachfolge Gian Bolognas besonders von Pietro Tacca ausgefihrt wurden.",2064,82.0,False,positional,PIETRO TACCA,,,,
 BO0624_88318,647059,184,202,Stehender Narr mit Pritsche,2072,93.1,False,positional,,NIEDERLANDISCHITALIENISCHER MEISTER,,,
-BO0624_88318,647060,185,203,Stehender Zwerg mit Blumen TALIEN (zweite Halfte des XVI. Jahrh.),2086,72.9,False,positional,,NIEDERLANDISCHITALIENISCHER MEISTER,,,
+BO0624_88318,647060,185,203,Stehender Zwerg mit Blumen TALIEN (zweite Halfte des XVI. Jahrh.),2086,72.9,False,positional,,NIEDERLANDISCHITALIENISCHER MEISTER,,,Sec. XVI
 BO0624_88318,647061,186,204,Stehender Perseus(?) mit Schild und Schwert auf Drachen(?),2088,96.3,False,positional,,NIEDERLANDISCHITALIENISCHER MEISTER,,,
 BO0624_88318,647062,187,205,Stehender Jungling,2096,90.0,False,positional,,NIEDERLANDISCHITALIENISCHER MEISTER,,,
 BO0624_88318,647063,188,206,Stehender Jupiter mit Blitzen TALIEN (XVI.Jahrh.),2103,73.4,False,positional,,NIEDERLANDISCHITALIENISCHER MEISTER,,,
@@ -205,7 +205,7 @@ BO0624_88318,647078,203,220,Kniender Atlas als Lampe,2225,92.3,False,positional,
 BO0624_88318,647079,204,221,Trabendes Pferd mit balanzierendem Knaben,2233,95.3,False,positional,RICCIO,NACHFOLGER DES ANDREA BRIOSCO,,,
 BO0624_88318,647080,205,222,Stehender Putto mit Pferd,2240,92.6,False,positional,RICCIO,NACHFOLGER DES ANDREA BRIOSCO,,,
 BO0624_88318,647081,206,223,Stehender Jungling mit Fullhorn (?),2248,93.9,False,positional,RICCIO,NACHFOLGER DES ANDREA BRIOSCO,,,
-BO0624_88318,647082,207,224,Wo1fin TALIEN (zweite Halfte des XVI. Jahrh.),2262,92.1,False,positional,RICCIO,NACHFOLGER DES ANDREA BRIOSCO,,,
+BO0624_88318,647082,207,224,Wo1fin TALIEN (zweite Halfte des XVI. Jahrh.),2262,92.1,False,positional,RICCIO,NACHFOLGER DES ANDREA BRIOSCO,,,Sec. XVI
 BO0624_88318,647083,208,225,Schreitender Stier TALIEN (XVI.Jahrh.),2270,65.4,False,positional,RICCIO,NACHFOLGER DES ANDREA BRIOSCO,,,
 BO0624_88318,647084,209,226,"Drachen sich in den Schwanz beiBend Freiplastisch. Eisen, geschmiedet.L. ca. 15 cm.",2272,97.5,False,positional,RICCIO,NACHFOLGER DES ANDREA BRIOSCO,OGGETTI IN FERRO,,
 BO0624_88318,647085,210,227,Sitzender Putto mit Lanze und Wappenschild,2276,95.5,False,positional,RICCIO,NACHFOLGER DES ANDREA BRIOSCO,,,
@@ -220,7 +220,7 @@ BO0624_88318,647093,218,235,"Kaminbock(?) mit zwei Flugelpferden,Satyr und Satyr
 BO0624_88318,647094,219,236,TintenfaB mit drei sitzenden Satyren m AnschluB an altere Vorbilder der Riccio=Werkstatt.,2364,74.3,False,positional,ALESSANDRO VITTORIA,,,,
 BO0624_88318,647095,220,237,"Dreiseitiges Tintenfaf mit Muschel,von drei Knaben auf Delphinen getragen",2374,97.3,False,positional,ALESSANDRO VITTORIA,,,,
 BO0624_88318,647096,221,240,Liegende Nereide sich ans Haar greifend,2402,95.1,False,positional,ALESSANDRO VITTORIA,,,,
-BO0624_88318,647097,222,I,TALIEN (um 1600),2412,96.6,False,positional,ALESSANDRO VITTORIA,,,,
+BO0624_88318,647097,222,I,TALIEN (um 1600),2412,96.6,False,positional,ALESSANDRO VITTORIA,,,,Sec. XVII
 BO0624_88318,647098,223,I,TALIEN (XV. Jahrh.),2416,96.8,False,positional,ALESSANDRO VITTORIA,,,,
 BO0624_88318,647099,224,243,Morser mit Winkelhandhabe und Langsrippen.,2418,95.3,False,positional,ALESSANDRO VITTORIA,,,,
 BO0624_88318,647100,225,244,"Morser mit zwei Kopfen als Handhabe,Quer= rippen,Blatt und Guirlandenornamenten zwischen Widderkopfen",2425,98.0,False,positional,ALESSANDRO VITTORIA,,,,
@@ -289,7 +289,7 @@ BO0624_88318,647162,287,309,Kreuztragung Christi,2971,90.9,False,positional,ANDR
 BO0624_88318,647163,288,310,"Zwei stehende Engel mit Leuchtern Friedlander: Holzbildwerke aus Berliner Privatbesitz,Nr.5 und 6,T.3. Freifiguren. Eichenholz. Die Tillen erganzt. H. je 85 cm.",2979,98.7,False,positional,ANDREA DEL VERROCCHIO,Scuola di Berlino,OGGETTI IN LEGNO,,
 BO0624_88318,647164,289,311,Maria und Johannes unter dem Kreuz,2983,94.4,False,positional,ANDREA DEL VERROCCHIO,,,,
 BO0624_88318,647165,290,312,Sitzende Madonna (?),2994,88.9,False,positional,ANDREA DEL VERROCCHIO,,,,
-BO0624_88318,647166,291,313,"Altarflugel mit dem stehenden heiligen Stephan (?) ,1904,S.62f.",3004,86.0,False,positional,ANDREA DEL VERROCCHIO,,,,
+BO0624_88318,647166,291,313,"Altarflugel mit dem stehenden heiligen Stephan (?) ,1904,S.62f.",3004,86.0,False,positional,ANDREA DEL VERROCCHIO,,,,Sec. XX
 BO0624_88318,647167,292,314,Altarflugel mit dem heiligen Christoph und Christkind,3014,96.4,False,positional,ANDREA DEL VERROCCHIO,,,,
 BO0624_88318,647168,293,315,Stehender heiliger Agidius mit Reh,3022,94.4,False,positional,ANDREA DEL VERROCCHIO,,,,
 BO0624_88318,647169,294,316,Stehender Heiliger Stephanus mit Buch und,3033,95.3,False,positional,ANDREA DEL VERROCCHIO,,,,
@@ -311,7 +311,7 @@ BO0624_88318,647184,309,332,Der heilige Eligius das abgeschnittene Bein eines Pf
 BO0624_88318,647185,310,333,Hausaltarchen m Schrein:Enthauptung des Taufers.Wandgruppe. Innenseite der Fligel:Vers lobung der hl. Katharina. Hl. Margarethe auf Drachen. Anna selbdritt. Enthauptung der hl. Katharina. Reliefs.Aufenseite der Fligel:Reste einer gemalten Verkuindigung. H.des Altars 67 cm. Tafel 50.,3173,97.2,False,positional,ANDREA DEL VERROCCHIO,,ARREDAMENTI,,
 BO0624_88318,647186,311,334,Stehende Madonna im Augsburger Renaissances kostum,3177,96.2,False,positional,ANDREA DEL VERROCCHIO,,,,
 BO0624_88318,647187,312,335,Stehender Apostel Andreas in Renaissance= Architektur,3185,96.3,False,positional,HANS SCHWARZ,,,,
-BO0624_88318,647188,313,336,"Portrat des Georg Knauer in Renaissances nschriften in den Bogenfeldern:1533 und P D,in der Leibung des Bogens: GEORG KNAER AR:ACV.I·DOC. Zu Seiten des Kopfes: ANNO ETATIS SVE 37. Auf dem Brief: Dem hochgelarten achtba ...nauer. Unten EN'EGO DIMIDIVM VOTI PARS QVE ALTERA VESTRI·CERNITE SIM QVALIS QVI MODO TALIS ERAM. -Die Stellung des PD gegeniber der Jahreszahl laBt die Lesung post dominum wahrscheinlicher erscheinen,als die Deutung als Kinstlersignatur.",3200,95.3,False,positional,HANS SCHWARZ,,,,
+BO0624_88318,647188,313,336,"Portrat des Georg Knauer in Renaissances nschriften in den Bogenfeldern:1533 und P D,in der Leibung des Bogens: GEORG KNAER AR:ACV.I·DOC. Zu Seiten des Kopfes: ANNO ETATIS SVE 37. Auf dem Brief: Dem hochgelarten achtba ...nauer. Unten EN'EGO DIMIDIVM VOTI PARS QVE ALTERA VESTRI·CERNITE SIM QVALIS QVI MODO TALIS ERAM. -Die Stellung des PD gegeniber der Jahreszahl laBt die Lesung post dominum wahrscheinlicher erscheinen,als die Deutung als Kinstlersignatur.",3200,95.3,False,positional,HANS SCHWARZ,,,,Sec. XVI
 BO0624_88318,647189,314,337,Krumme eines Bischofsstabes mit der Anbetung zweier Konige und Rautenornament,3208,97.5,False,positional,HANS SCHWARZ,,,,
 BO0624_88318,647190,315,338,Bildnis der Herzogin Sibilla von Sachsen im Dreiviertelprofil nach rechts,3214,97.3,False,positional,HANS SCHWARZ,,,,
 BO0624_88318,647191,316,340,Bildnis einer Frau im Profil nach links,3233,95.1,False,positional,HANS SCHWARZ,,,,
@@ -373,7 +373,7 @@ BO0624_88318,647246,371,395,Anhanger,3720,80.0,False,positional,,,METALLARBEITEN
 BO0624_88318,647247,372,396,Silberbuchse,3728,85.7,False,positional,,,METALLARBEITEN,,
 BO0624_88318,647248,373,397,Anhanger,3734,80.0,False,positional,,,METALLARBEITEN,,
 BO0624_88318,647249,374,398,Teil einer Gurtelschnalle,3744,92.6,False,positional,,,METALLARBEITEN,,
-BO0624_88318,647250,375,399,"GelbguBfigurchen eines Jagers n der Tracht des spaten XVI. Jahrhunderts, ein Jagdhorn in der erhobenen Rechten.",3754,84.5,False,positional,,,METALLARBEITEN,,
+BO0624_88318,647250,375,399,"GelbguBfigurchen eines Jagers n der Tracht des spaten XVI. Jahrhunderts, ein Jagdhorn in der erhobenen Rechten.",3754,84.5,False,positional,,,METALLARBEITEN,,Sec. XVI
 BO0624_88318,647251,376,400,Schachfigur,3761,84.6,False,positional,,,METALLARBEITEN,,
 BO0624_88318,647252,377,40,l Gehause einer Taschenuhr,3769,96.3,False,positional,,,METALLARBEITEN,,
 BO0624_88318,647253,378,402,Taschenuhrgehause TALIEN (XV. Jahrh.),3779,63.0,False,positional,,,METALLARBEITEN,,
@@ -381,7 +381,7 @@ BO0624_88318,647254,379,403,Bleiflaschchen,3789,87.5,False,positional,,,METALLAR
 BO0624_88318,647255,380,404,Siegelpetschaft einer Leineweberzunft,3797,94.9,False,positional,,,METALLARBEITEN,,
 BO0624_88318,647256,381,405,KreuzfuB TALIEN (XVI. Jahrh.),3804,76.2,False,positional,,,METALLARBEITEN,,
 BO0624_88318,647257,382,406,Kleiner Kupferkessel,3806,90.9,False,positional,,,METALLARBEITEN,,
-BO0624_88318,647258,383,407,Dampfblaser TALIEN （um 1500),3824,68.3,False,positional,,,METALLARBEITEN,,
+BO0624_88318,647258,383,407,Dampfblaser TALIEN （um 1500),3824,68.3,False,positional,,,METALLARBEITEN,,Sec. XVI
 BO0624_88318,647259,384,408,Silberfigurchen,3828,88.2,False,positional,,,METALLARBEITEN,,
 BO0624_88318,647260,385,409,Zierstuck,3836,81.8,False,positional,,,METALLARBEITEN,,
 BO0624_88318,647261,386,410,Bronzefigur eines knieenden Engels,3851,94.4,False,positional,,,KIRCHLICHES METALLGERAT,,
@@ -462,7 +462,7 @@ BO0624_88318,647335,460,482,Kompaf,4460,75.0,False,positional,,,EMAIL UND NIELLO
 BO0624_88318,647336,461,483,Kupferschmelzmalerei,4479,90.9,False,positional,,,EMAIL UND NIELLO,,
 BO0624_88318,647337,462,484,Kupferschussel,4489,87.5,False,positional,,,EMAIL UND NIELLO,,
 BO0624_88318,647338,463,485,KuBtafel,4495,80.0,False,positional,,,EMAIL UND NIELLO,,
-BO0624_88318,647339,464,486,Anhanger TALIEN (um 1500),4513,73.7,False,positional,,,EMAIL UND NIELLO,,
+BO0624_88318,647339,464,486,Anhanger TALIEN (um 1500),4513,73.7,False,positional,,,EMAIL UND NIELLO,,Sec. XVI
 BO0624_88318,647340,465,487,Anhanger TALIEN (Anfang des XVI.Jahrh.),4522,84.4,False,positional,,,EMAIL UND NIELLO,,
 BO0624_88318,647341,466,488,Anhanger,4524,80.0,False,positional,,,EMAIL UND NIELLO,,
 BO0624_88318,647342,467,489,Anhanger TALIEN (Ende des XV.Jahrh.),4538,82.8,False,positional,,,EMAIL UND NIELLO,,
@@ -470,9 +470,9 @@ BO0624_88318,647343,468,490,Anhanger,4540,80.0,False,positional,,,EMAIL UND NIEL
 BO0624_88318,647344,469,491,Anhanger,4546,80.0,False,positional,,,EMAIL UND NIELLO,,
 BO0624_88318,647345,470,I,TALIEN (XVI. Jahrh.),4560,97.0,False,positional,,,EMAIL UND NIELLO,,
 BO0624_88318,647346,471,I,TALIEN (XV. Jahrh.),4562,96.8,False,positional,,,EMAIL UND NIELLO,,
-BO0624_88318,647347,472,I,TALIEN (Anfang des XVI. Jahrh.),4567,98.2,False,positional,,,EMAIL UND NIELLO,,
-BO0624_88318,647348,473,492,Anhanger TALIEN (zweite Halfte des XV. Jahrh.),4575,86.8,False,positional,,,EMAIL UND NIELLO,,
-BO0624_88318,647349,474,493,Teil einer Gurtelschnalle TALIEN (zweite Halfte des XV. Jahrh.),4583,73.1,False,positional,,,EMAIL UND NIELLO,,
+BO0624_88318,647347,472,I,TALIEN (Anfang des XVI. Jahrh.),4567,98.2,False,positional,,,EMAIL UND NIELLO,,Sec. XVI
+BO0624_88318,647348,473,492,Anhanger TALIEN (zweite Halfte des XV. Jahrh.),4575,86.8,False,positional,,,EMAIL UND NIELLO,,Sec. XV
+BO0624_88318,647349,474,493,Teil einer Gurtelschnalle TALIEN (zweite Halfte des XV. Jahrh.),4583,73.1,False,positional,,,EMAIL UND NIELLO,,Sec. XV
 BO0624_88318,647350,475,494,Zunge eines Samtgirtels,4585,92.0,False,positional,,,EMAIL UND NIELLO,,
 BO0624_88318,647351,476,495,PaBglas,4598,77.8,False,positional,,,"GLASER,HINTERGLASMALEREIEN,GLASGEMALDE",,
 BO0624_88318,647352,477,496,Humpen,4606,75.0,False,positional,,,"GLASER,HINTERGLASMALEREIEN,GLASGEMALDE",,
@@ -528,13 +528,13 @@ BO0624_88318,647401,526,545,Steinzeugkrug,4996,86.7,False,positional,,,KUNSTTOPF
 BO0624_88318,647402,527,546,Steinzeugkrug mit Zinndeckel,5004,93.3,False,positional,,,KUNSTTOPFEREI: MAJOLIKEN UND STEINZEUG,,
 BO0624_88318,647403,528,547,Steinzeugkrug mit Zinndeckel,5010,93.3,False,positional,,,KUNSTTOPFEREI: MAJOLIKEN UND STEINZEUG,,
 BO0624_88318,647404,529,548,Steinzeugkrug,5016,86.7,False,positional,,,KUNSTTOPFEREI: MAJOLIKEN UND STEINZEUG,,
-BO0624_88318,647405,530,549,Fayencekrug TALIEN(um 1500),5033,68.3,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
+BO0624_88318,647405,530,549,Fayencekrug TALIEN(um 1500),5033,68.3,False,positional,,,MOBEL UND SCHNITZARBEITEN,,Sec. XVI
 BO0624_88318,647406,531,550,Faltstuhl Truhe,5035,64.3,False,positional,,,BAULI,,
 BO0624_88318,647407,532,551,Truhe aus weichem Holz,5051,91.7,False,positional,,,BAULI,,
 BO0624_88318,647408,533,I,TALIEN (XVI.Jahrh.),5060,97.0,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
 BO0624_88318,647409,534,553,NuBholzkassette TALIEN (XVI. Jahrh.),5070,65.3,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
 BO0624_88318,647410,535,554,Kabinettschrank TALIEN (XVI. Jahrh.),5078,69.4,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
-BO0624_88318,647411,536,555,Kredenzschrank TALIEN (Mitte des XVI. Jahrh.),5088,76.5,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
+BO0624_88318,647411,536,555,Kredenzschrank TALIEN (Mitte des XVI. Jahrh.),5088,76.5,False,positional,,,MOBEL UND SCHNITZARBEITEN,,Sec. XVI
 BO0624_88318,647412,537,556,NuBholztisch TALIEN (XVI. Jahrh.),5099,73.9,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
 BO0624_88318,647413,538,557,Schemel mit Rucklehne TALIEN (XVI. Jahrh.),5101,66.7,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
 BO0624_88318,647414,539,558,Schemel mit Rucklehne TALIEN (XVI. Jahrh.),5109,66.7,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
@@ -562,7 +562,7 @@ BO0624_88318,647435,560,584,Truhe,5234,71.4,False,positional,,,BAULI,,
 BO0624_88318,647436,561,585,Eichenholzschrank,5242,89.5,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
 BO0624_88318,647437,562,586,Faltstuhl,5257,81.8,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
 BO0624_88318,647438,563,587,Faltstuhl,5265,81.8,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
-BO0624_88318,647439,564,588,Faltstuhl TALIEN oder SUDDEUTSCHLAND (Ende des XVII. Jahrh.),5277,89.3,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
+BO0624_88318,647439,564,588,Faltstuhl TALIEN oder SUDDEUTSCHLAND (Ende des XVII. Jahrh.),5277,89.3,False,positional,,,MOBEL UND SCHNITZARBEITEN,,Sec. XVII
 BO0624_88318,647440,565,589,Kabinettschrank,5279,88.2,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
 BO0624_88318,647441,566,590,Barocklehnstuhl,5288,88.2,False,positional,,,MOBEL UND SCHNITZARBEITEN,,
 BO0624_88318,647442,567,591,Barocklehnstuhl,5296,88.2,False,positional,,,MOBEL UND SCHNITZARBEITEN,,

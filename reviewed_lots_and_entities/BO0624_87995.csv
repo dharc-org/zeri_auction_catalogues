@@ -12,16 +12,16 @@ BO0624_87995,509829,10,14,| Vor der Apfelweinschenke.                           
 BO0624_87995,509830,11,15,"| Im Arbeitszimmer.                                                         | Holz 20,5/23,5   |",60,95.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_87995,509831,12,16,"| Bauernschenke.                                                            | Leinw.9,5/15     |",61,94.5,False,positional,,,Aquarelle,,
 BO0624_87995,509832,13,17,| Partie im Taunus.                                                         | Karton 13/22     |,62,95.1,False,positional,,,Aquarelle,,
-BO0624_87995,509833,14,20,"| Sitzende junge Tyrolerin. Bezeichnet:Defregger 1887.                      | Leinw.34/22,5    |",65,97.7,False,positional,,,Aquarelle,,
+BO0624_87995,509833,14,20,"| Sitzende junge Tyrolerin. Bezeichnet:Defregger 1887.                      | Leinw.34/22,5    |",65,97.7,False,positional,,,Aquarelle,,Sec. XIX
 BO0624_87995,509834,15,21,"| Griechin. Bezeichnet. William Francis Dixon, Munchen.                               | Leinw.95/67             |",68,97.6,False,positional,Cesare Dell'Aqua,,,,
 BO0624_87995,509835,16,22,| Stadtchen mit Burg am Abend.                                                        | Leinw. 29/37            |,70,96.3,False,positional,Cesare Dell'Aqua,,,,
 BO0624_87995,509836,17,23,| Morgennebel am See.                                                                 | Leinw.38/28             |,71,95.2,False,positional,Cesare Dell'Aqua,,,,
 BO0624_87995,509837,18,24,| Morgendammerung im Gebirge. Samtlich bezeichnet.                                    | Leinw.43/27             |,72,97.5,False,positional,Cesare Dell'Aqua,,,,
 BO0624_87995,509838,19,25,"| Carlo Dolci (nach ihm). Madonna. Hermann Dumler, Frankfurt a. M.                    | Leinw.62/48,5           |",73,97.9,False,positional,Cesare Dell'Aqua,,,,
-BO0624_87995,509839,20,26,| Der Freibergsee. Landschaft aus den bayerischen Bergen. Bez.H.D.1901.               | Leinw.80/90             |,74,98.1,False,positional,Cesare Dell'Aqua,,,,
-BO0624_87995,509840,21,27,| Kinderreigen. Tanzende Kinder um einen Baum im sonnigen Fruhlingstag. Bez.H.D.1903. | Karton 61/50            |,75,98.4,False,positional,Cesare Dell'Aqua,,,,
-BO0624_87995,509841,22,28,| Spatherbsttag. Landschaft mit Staffage. Bez.H.D.1896.                               | Karton 24/36            |,76,97.7,False,positional,Cesare Dell'Aqua,,,,
-BO0624_87995,509842,23,29,| Im Tal. Herbstlandschaft mit Staffage. Bez.H.D.1896.                                | Karton 13/19            |,77,97.6,False,positional,Cesare Dell'Aqua,,,,
+BO0624_87995,509839,20,26,| Der Freibergsee. Landschaft aus den bayerischen Bergen. Bez.H.D.1901.               | Leinw.80/90             |,74,98.1,False,positional,Cesare Dell'Aqua,,,,Sec. XX
+BO0624_87995,509840,21,27,| Kinderreigen. Tanzende Kinder um einen Baum im sonnigen Fruhlingstag. Bez.H.D.1903. | Karton 61/50            |,75,98.4,False,positional,Cesare Dell'Aqua,,,,Sec. XX
+BO0624_87995,509841,22,28,| Spatherbsttag. Landschaft mit Staffage. Bez.H.D.1896.                               | Karton 24/36            |,76,97.7,False,positional,Cesare Dell'Aqua,,,,Sec. XIX
+BO0624_87995,509842,23,29,| Im Tal. Herbstlandschaft mit Staffage. Bez.H.D.1896.                                | Karton 13/19            |,77,97.6,False,positional,Cesare Dell'Aqua,,,,Sec. XIX
 BO0624_87995,509843,24,30,| Wizani. Ansicht von Frankfurt um 18oo.Farb. Stich.                                  |                         |,78,96.9,False,positional,Cesare Dell'Aqua,,,,
 BO0624_87995,509844,25,31,| Landschaft mit Pferden. Bezeichnung unleserlich.                                    | Leinw.42/53             |,79,97.5,False,positional,Cesare Dell'Aqua,,,,
 BO0624_87995,509845,26,32,| St. Paulus.                                                                         | Leinw.34/47             |,80,93.3,False,positional,Cesare Dell'Aqua,,,,
@@ -81,18 +81,18 @@ BO0624_87995,509898,79,95,| Landschaft mit ruhendem Wanderer. Monogrammiert H.R.
 BO0624_87995,509899,80,97,| Felsenpartie in der Schweiz. Bezeichnet.                              | Leinw.47/66         |,168,97.1,False,positional,Luigi Nono,,,,
 BO0624_87995,509900,81,99,| Madchen mit Laterne.                                 | Holz 30/22                     |,174,95.2,False,positional,Luigi Nono,,OGGETTI IN LEGNO,,
 BO0624_87995,509901,82,100,"| Gustav Schragle, Frankfurt a. M. Carmen. Bezeichnet. | Karton 82/51                   |",175,96.8,False,positional,Luigi Nono,,,,
-BO0624_87995,509902,83,104,"Stilleben. Nachtisch und dergl. | Jan van Son 1658-1718,London.                        | Holz 43/62                     |",181,97.2,False,positional,Luigi Nono,,OGGETTI IN LEGNO,,
+BO0624_87995,509902,83,104,"Stilleben. Nachtisch und dergl. | Jan van Son 1658-1718,London.                        | Holz 43/62                     |",181,97.2,False,positional,Luigi Nono,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87995,509903,84,105,| 5Mann mit Pfeife und Krug.                           | Eisenblech 18/15               |,182,95.5,False,positional,Luigi Nono,,,,
 BO0624_87995,509904,85,106,| 5 Winterlandschaft. Abendstimmung. Bezeichnet.       |                                |,183,95.6,False,positional,Luigi Nono,,,,
 BO0624_87995,509905,86,107,Erinnerung an Bismarck.         | Art des David Teniers.                               | Farbdruck 35/27                |,185,96.8,False,positional,Luigi Nono,Scuola di Teniers,,,
 BO0624_87995,509906,87,109,"| Lustige Gesellschaft im Freien.                      | Holz 19,5/14 Holz 38/47        |",186,96.4,False,positional,Luigi Nono,,OGGETTI IN LEGNO,,
 BO0624_87995,509907,88,110,| Desgl. Pendant z. Vor.                               |                                |,187,90.5,False,positional,Luigi Nono,,,,
 BO0624_87995,509908,89,111,| Hafenpartie in London.                             | Aquarelldruck 48/37     |                     |,190,95.3,False,title_direct,,,Aquarelle,,
-BO0624_87995,509909,90,112,| Partie bei Spezia. Bez. Hans Thoma Spezia 1894.    | Aquarell 31/43          |                     |,192,96.7,False,title_direct,THOMA HANS,,Aquarelle,,
+BO0624_87995,509909,90,112,| Partie bei Spezia. Bez. Hans Thoma Spezia 1894.    | Aquarell 31/43          |                     |,192,96.7,False,title_direct,THOMA HANS,,Aquarelle,,Sec. XIX
 BO0624_87995,509910,91,113,"| Schafe und Ziegen.                                 | Leinw. 63,5/93          |                     |",193,93.9,False,positional,John Terris,,,,
 BO0624_87995,509911,92,114,"| Hirt und Herde.                                    | Leinw.60,5/90           |                     |",194,93.3,False,positional,John Terris,,,,
 BO0624_87995,509912,93,115,"| Kopf eines Schriftgelehrten.                       | Leinw.44,5/36           |                     |",196,95.3,False,positional,John Terris,,,,
-BO0624_87995,509913,94,116,"| Portrat Agnes Bernauer. Straubing, Xll. Oct. 1435. |                         |                     |",197,95.7,False,positional,John Terris,,,,
+BO0624_87995,509913,94,116,"| Portrat Agnes Bernauer. Straubing, Xll. Oct. 1435. |                         |                     |",197,95.7,False,positional,John Terris,,,,Sec. XV
 BO0624_87995,509914,95,117,| Seehafen mit Staffage.                             | Leinw.37/29 Leinw.26/34 |                     |,198,95.7,False,positional,John Terris,,,,
 BO0624_87995,509915,96,118,"| Flusslandschaft mit Staffage.                      | Leinw.27/37,5           |                     |",199,95.5,False,positional,John Terris,,,,
 BO0624_87995,509916,97,119,| Landschaft mit Gebirg und Wasserfall.              | Leinw.23/34             |                     |,200,96.0,False,positional,John Terris,,,,
@@ -168,13 +168,13 @@ BO0624_87995,509985,166,193,"Desgl. Mannl. Gestalt, sitzend mit breitem Kopf.",3
 BO0624_87995,509986,167,194,"Desgl. Weibl. Gestalt, sitzend mit Kopftuch und Halsband; im linken Arm eine Scheibentrommel haltend.",340,98.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,509987,168,195,Zwei Holzkeulen. Afrikanisch.,341,93.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,509988,169,196,Drei Lendenschurzen. Desgl.,342,92.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,509989,170,197,"Prunkpokal mit Munzen und Deckel, auf demselben Ritter mit Banner, Schild und Jahreszahl 1595. Zinn.",343,98.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,509990,171,198,lampe. Jahreszah1 1738.,345,91.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,509991,172,199,Desgl. mit Deckel und Reliefportrat des Professors Joh.Corrhaeus 1577.,346,97.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,509992,173,200,Zinnteller mit Relief. Stadt Brussel 1576.,347,95.2,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,509993,174,201,- Desgl. desgl. Tod des Johann de Witt. Haag 1672.,349,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87995,509989,170,197,"Prunkpokal mit Munzen und Deckel, auf demselben Ritter mit Banner, Schild und Jahreszahl 1595. Zinn.",343,98.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVI
+BO0624_87995,509990,171,198,lampe. Jahreszah1 1738.,345,91.3,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
+BO0624_87995,509991,172,199,Desgl. mit Deckel und Reliefportrat des Professors Joh.Corrhaeus 1577.,346,97.1,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVI
+BO0624_87995,509992,173,200,Zinnteller mit Relief. Stadt Brussel 1576.,347,95.2,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVI
+BO0624_87995,509993,174,201,- Desgl. desgl. Tod des Johann de Witt. Haag 1672.,349,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVII
 BO0624_87995,509994,175,203,203,351,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,509995,176,204,von Sternberg und Gemahlin. 1741.,355,93.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87995,509995,176,204,von Sternberg und Gemahlin. 1741.,355,93.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87995,509996,177,205,Armband. Gold mit 12 Perlen.,356,92.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,509997,178,206,Damenuhr mit Brillanten.,357,92.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,509998,179,207,- Paar Manschettenknopfe mit Rubinen.,359,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -381,7 +381,7 @@ BO0624_87995,510198,379,413,Tasse und Untertasse. Porzellan.,682,93.8,False,posi
 BO0624_87995,510199,380,414,Teller. Porzellan.,683,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510200,381,415,"- Siegburger Schnelle mit figurl. Darstellung, gez. H. H.",685,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510201,382,416,- Bibel mit got. Silberbeschlag u. westphal. Adelswappen.,687,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510202,383,417,"Zinnteller. Ludwig Adolf von Syvertus, 1709.",688,95.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87995,510202,383,417,"Zinnteller. Ludwig Adolf von Syvertus, 1709.",688,95.3,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87995,510203,384,418,- Topf mit Vogelverzierung. Marburg.,690,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510204,385,419,Hoher Kristallkelch mit Einsatz und Deckel. Hohe 46 cm.,691,96.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510205,386,420,"Glasgemalde. Zwei Heilige 30,5/29.",692,94.1,False,title_direct,,,Gemalde,,
@@ -465,9 +465,9 @@ BO0624_87995,510282,463,502,- Krug. Nassau.,805,100.0,False,positional,,,Antiqui
 BO0624_87995,510283,464,503,Tasse. Porzellan.,806,88.2,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510284,465,504,Liegender Christus. Ton.,807,91.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510285,466,505,Zwei Siegel von Erzbischofen zu Coln a. Rh.,808,95.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510286,467,506,Wappenteller von Solms Lich. 14. Junius 1792. Zinn.,809,95.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510287,468,507,1709.,811,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510288,469,508,"- Zunftzinnkrug von Gg. Henninger, Frankfurt a. M. 1797.",813,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87995,510286,467,506,Wappenteller von Solms Lich. 14. Junius 1792. Zinn.,809,95.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
+BO0624_87995,510287,468,507,1709.,811,66.7,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
+BO0624_87995,510288,469,508,"- Zunftzinnkrug von Gg. Henninger, Frankfurt a. M. 1797.",813,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87995,510289,470,509,Reliquie mit Filigranverzierung.,814,93.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510290,471,510,Facher.,815,75.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510291,472,511,Tasse. Schwarz-weiss.,816,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -491,7 +491,7 @@ BO0624_87995,510308,489,528,Suppenterrine mit Untersatz. Zinn. Rokoko.,838,95.1,
 BO0624_87995,510309,490,529,Nippfigur. Grossmutter am Spinnrad.,839,94.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510310,491,530,Goethe-Taler.,840,85.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510311,492,531,Goethe-Taler,841,85.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510312,493,532,Mainzer Schutzentaler 1894.,842,92.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87995,510312,493,532,Mainzer Schutzentaler 1894.,842,92.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_87995,510313,494,533,Judische Munze.(Scheckel).,843,92.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510314,495,534,Taufmunze. Vergoldet.,844,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510315,496,535,Silber getriebenes Plaket. Friedrich der Grosse.,845,95.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -556,12 +556,12 @@ BO0624_87995,510373,554,600,Zinnplaket in Messingrahmen.,984,93.1,False,position
 BO0624_87995,510374,555,601,Plaket. Herzog von Braunschweig.,985,93.8,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510375,556,602,Desgl. Badende Nymphen.,986,91.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510376,557,603,- Desgl. Pompejanisch.,988,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510377,558,604,Taschenbuch fur deutsche Frauen 1828.,989,94.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510378,559,605,Desgl. desg1. 1844.,991,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510379,560,606,Desgl. desgl. 1845.,993,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510380,561,607,Desgl. desgl. 1843.,994,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510381,562,608,Desgl. desgl. 1848.,995,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510382,563,609,Desgl. desgl. 1846.,997,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87995,510377,558,604,Taschenbuch fur deutsche Frauen 1828.,989,94.7,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
+BO0624_87995,510378,559,605,Desgl. desg1. 1844.,991,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
+BO0624_87995,510379,560,606,Desgl. desgl. 1845.,993,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
+BO0624_87995,510380,561,607,Desgl. desgl. 1843.,994,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
+BO0624_87995,510381,562,608,Desgl. desgl. 1848.,995,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
+BO0624_87995,510382,563,609,Desgl. desgl. 1846.,997,88.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_87995,510383,564,610,- Vier Schaperglaser.,1000,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510384,565,611,Zwei franzosische Kristallvasen. Empire.,1001,95.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510385,566,612,- Meerschaumpfeiie. Silberbeschlag.,1003,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -577,7 +577,7 @@ BO0624_87995,510394,575,621,- Desgl.,1018,100.0,False,positional,,,Antiquitaten;
 BO0624_87995,510395,576,622,Fayencekrug.,1019,84.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510396,577,623,- Zinnteller mit Wappen Katzenelnbogen.,1021,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510397,578,624,- Zunftkanne der Schlosser in Form eines Schlussels.,1023,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510398,579,625,Zinnplatte. Auf der Herbstmesse zu Frankfurt a. M. 1725.,1024,96.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87995,510398,579,625,Zinnplatte. Auf der Herbstmesse zu Frankfurt a. M. 1725.,1024,96.3,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_87995,510399,580,626,- 627 Zunftplatten der Schreiner zu Coln.,1028,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510400,581,628,- Cederplatte. Messing.,1030,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510401,582,629,Zunftkanne der Buchsenmacher zu Frankfurt.,1031,95.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -592,7 +592,7 @@ BO0624_87995,510409,590,637,Desgl. Peter v. Stetten.,1051,91.3,False,positional,
 BO0624_87995,510410,591,638,Desgl. Fabricius.,1053,88.2,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510411,592,639,Stich. Englisch. Koloriert. Shelley.,1055,94.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510412,593,640,Neun Stiche und ein Ritterwappen.,1057,94.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510413,594,641,Autograph.Pius IX 1847.,1059,91.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87995,510413,594,641,Autograph.Pius IX 1847.,1059,91.7,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_87995,510414,595,642,Sechs Mobelbeschlage. Empire.,1061,93.1,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510415,596,643,Tafelschelle. Bronze.,1063,90.5,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510416,597,644,Desgl.,1065,71.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
@@ -659,11 +659,11 @@ BO0624_87995,510476,657,707,Hellebarde.,1166,83.3,False,positional,,,Antiquitate
 BO0624_87995,510477,658,708,Desgl.,1167,71.4,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510478,659,709,Gewehr mit gezogenem Lauf.,1168,92.6,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510479,660,710,- Franzosisches Tabatiere. M. Imp. de St. Etienne.,1170,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510480,661,711,Englisches Tabatiere.Tower 1870.,1171,93.9,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87995,510480,661,711,Englisches Tabatiere.Tower 1870.,1171,93.9,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_87995,510481,662,712,- Feuerstein-Militargewehr.,1173,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510482,663,713,"Wallbuchse mit Perkussion. A.Lippold, Friedberg.",1174,95.7,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510483,664,714,- Karabiner mit Steinschloss.,1176,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
-BO0624_87995,510484,665,715,Chassepot mit Seitengewehr. Modell 1866.,1177,95.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
+BO0624_87995,510484,665,715,Chassepot mit Seitengewehr. Modell 1866.,1177,95.0,False,positional,,,Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_87995,510485,666,716,"- Militar-Hinterlader mit Klappe, Schlagschloss und kantigem Bajonett.",1179,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510486,667,717,schloss und Seitengewehr.,1181,92.3,False,positional,,,Antiquitaten; Kunstgegenstande,,
 BO0624_87995,510487,668,718,- Hinterlader. I. Lauger in Lorrach.,1183,100.0,False,positional,,,Antiquitaten; Kunstgegenstande,,

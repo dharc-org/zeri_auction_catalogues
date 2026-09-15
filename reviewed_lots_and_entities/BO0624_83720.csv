@@ -1,56 +1,56 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_83720,393874,1,495,"Jean-Jaques Bachelier. 1724-1806. Fleurs, Fruits and Nature Morte.",11,61.1,False,positional,BACHELIER,,,,
+BO0624_83720,393874,1,495,"Jean-Jaques Bachelier. 1724-1806. Fleurs, Fruits and Nature Morte.",11,61.1,False,positional,BACHELIER,,,,Sec. XVIII
 BO0624_83720,393875,2,496,Jean-Jaques Bachelier. Portraits des chiens de M. de Pompadour.,22,75.0,False,positional,BACHELIER,,,,
-BO0624_83720,393876,3,497,BOILLY. 1761-1845. Les Loisirs du marchè.,37,69.8,False,title_direct,BOILLY,,,,
-BO0624_83720,393877,4,498,Boucher. 1704-1770. La Marchande d'oeufs.,54,60.0,False,positional,BOUCHER,,,,
+BO0624_83720,393876,3,497,BOILLY. 1761-1845. Les Loisirs du marchè.,37,69.8,False,title_direct,BOILLY,,,,Sec. XVIII
+BO0624_83720,393877,4,498,Boucher. 1704-1770. La Marchande d'oeufs.,54,60.0,False,positional,BOUCHER,,,,Sec. XVIII
 BO0624_83720,393878,5,499,BOUCHER. La Bateau de peche.,67,75.0,False,title_direct,BOUCHER,,,,
 BO0624_83720,393879,6,500-501,BOUCHER. Scenes Intimes.,82,68.2,False,title_direct,BOUCHER,,,,
 BO0624_83720,393880,7,502,Le Triomphe d'Amphitrite.,102,92.3,False,positional,BOUCHER,,,,
-BO0624_83720,393881,8,503,Casanova. 1730-1805. Le Repos des bergers.,117,69.8,False,positional,CASANOVA,,,,
+BO0624_83720,393881,8,503,Casanova. 1730-1805. Le Repos des bergers.,117,69.8,False,positional,CASANOVA,,,,Sec. XVIII
 BO0624_83720,393882,9,504,Casanova. Le Cosaque.,129,66.7,False,positional,CASANOVA,,,,
-BO0624_83720,393883,10,505,CHAMPAIGNE. 1602-1674. Portraite d'Anne d'Autriche.,144,69.2,False,title_direct,CHAMPAIGNE,,,,
+BO0624_83720,393883,10,505,CHAMPAIGNE. 1602-1674. Portraite d'Anne d'Autriche.,144,69.2,False,title_direct,CHAMPAIGNE,,,,Sec. XVII
 BO0624_83720,393884,11,506,Constable. Paysage d'une vaste étendue.,157,82.4,False,positional,CONSTABLE,,,,
-BO0624_83720,393885,12,507,CUYP. 1605-1691. Portraite de Fillette.,170,73.3,False,title_direct,CUYP,,,,
-BO0624_83720,393886,13,508,DE MARNE. 1744-1829. Le Moulin à eau.,183,60.4,False,title_direct,DE MARNE,,,,
-BO0624_83720,393887,14,509,DESPORTES. 1661-1743. Portrait du Marquis de la Folleville.,204,77.1,False,title_direct,DESPORTES,,,,
+BO0624_83720,393885,12,507,CUYP. 1605-1691. Portraite de Fillette.,170,73.3,False,title_direct,CUYP,,,,Sec. XVII
+BO0624_83720,393886,13,508,DE MARNE. 1744-1829. Le Moulin à eau.,183,60.4,False,title_direct,DE MARNE,,,,Sec. XVIII
+BO0624_83720,393887,14,509,DESPORTES. 1661-1743. Portrait du Marquis de la Folleville.,204,77.1,False,title_direct,DESPORTES,,,,Sec. XVII
 BO0624_83720,393888,15,510,Desportes. Fruits et gibier sous la garde d'un chien.,217,80.9,False,positional,DESPORTES,,,,
 BO0624_83720,393889,16,511,Desportes. Fruits et bas-relief.,233,75.0,False,positional,DESPORTES,,BASSORILIEVI,,
 BO0624_83720,393890,17,512,Desportes. Portrait d'un chienne de chasse.,244,83.1,False,positional,DESPORTES,,,,
-BO0624_83720,393891,18,513,Drolling. 1752-1817. La Fleuriste.,256,63.8,False,positional,DROLLING,,,,
+BO0624_83720,393891,18,513,Drolling. 1752-1817. La Fleuriste.,256,63.8,False,positional,DROLLING,,,,Sec. XVIII
 BO0624_83720,393892,19,514,Drouais. Portrait d'un jeune prince.,269,84.4,False,positional,DROUAIS,,,,
 BO0624_83720,393893,20,515,Drouais. La petite jardiniere.,280,80.8,False,positional,DROUAIS,,,,
 BO0624_83720,393894,21,516,Drouais. La petit denicheur oiseaux.,286,80.0,False,positional,DROUAIS,,,,
-BO0624_83720,393895,22,517,EISEN. 1685-1775. Les Singes amateurs.,299,79.3,False,title_direct,EISEN,,OGGETTI IN FERRO,,
+BO0624_83720,393895,22,517,EISEN. 1685-1775. Les Singes amateurs.,299,79.3,False,title_direct,EISEN,,OGGETTI IN FERRO,,Sec. XVIII
 BO0624_83720,393896,23,518,Gerarde. Etude de femme.,312,75.0,False,positional,GERARD,,,,
-BO0624_83720,393897,24,519,Guido Reni. 1575-1642. Eve.,320,59.6,False,positional,GUIDO RENI,,,,
+BO0624_83720,393897,24,519,Guido Reni. 1575-1642. Eve.,320,59.6,False,positional,GUIDO RENI,,,,Sec. XVII
 BO0624_83720,393898,25,520,Greuze. Portrait d'Edouard Froment de Castille.,335,82.9,False,positional,GREUZE,,,,
 BO0624_83720,393899,26,521,Greuze. Jeune femme en buste.,353,82.4,False,positional,GREUZE,,,,
 BO0624_83720,393900,27,522,Hobbema. La Ferme.,364,64.3,False,positional,HOBBEMA,,,,
-BO0624_83720,393901,28,523,Hilaire. XVIII siecle. Parc animé de personagges.,380,64.0,False,positional,HILAIRE,,,,
-BO0624_83720,393902,29,524,Huet. 1745-1811. Le Retour du berger.,397,73.7,False,positional,HUET,,,,
-BO0624_83720,393903,30,525,Jeaurat. 1699-1789. Portrait d'un chasseur.,420,69.7,False,positional,JEAURAT,,,,
-BO0624_83720,393904,31,526,Jollain. XVIII siecle. Une Baccanthe.,432,52.8,False,positional,JOLLAIN,,,,
-BO0624_83720,393905,32,527,Lagrenée. 1740-1821. Une Source.,444,51.3,False,positional,LAGRENEE,,,,
+BO0624_83720,393901,28,523,Hilaire. XVIII siecle. Parc animé de personagges.,380,64.0,False,positional,HILAIRE,,,,Sec. XVIII
+BO0624_83720,393902,29,524,Huet. 1745-1811. Le Retour du berger.,397,73.7,False,positional,HUET,,,,Sec. XVIII
+BO0624_83720,393903,30,525,Jeaurat. 1699-1789. Portrait d'un chasseur.,420,69.7,False,positional,JEAURAT,,,,Sec. XVIII
+BO0624_83720,393904,31,526,Jollain. XVIII siecle. Une Baccanthe.,432,52.8,False,positional,JOLLAIN,,,,Sec. XVIII
+BO0624_83720,393905,32,527,Lagrenée. 1740-1821. Une Source.,444,51.3,False,positional,LAGRENEE,,,,Sec. XVIII
 BO0624_83720,393906,33,528,Lagrenée. La Guerre.,457,64.5,False,positional,LAGRENEE,,,,
-BO0624_83720,393907,34,529,Lallemand. 1710-1803. Le Repos des bucherons.,471,64.7,False,positional,LALLEMAND,,,,
+BO0624_83720,393907,34,529,Lallemand. 1710-1803. Le Repos des bucherons.,471,64.7,False,positional,LALLEMAND,,,,Sec. XVIII
 BO0624_83720,393908,35,530,Laureince. Le repos champetre.,482,76.0,False,positional,LAVREINCE,,,,
-BO0624_83720,393909,36,531,Le Prince. 1733-1781. Panneaux chinois.,500,67.9,False,positional,LE PRINCE,,PANNELLI,,
-BO0624_83720,393910,37,532,Leriche. XVIII siecle. Devant de cheminée.,513,59.0,False,positional,LERICHE,,,,
+BO0624_83720,393909,36,531,Le Prince. 1733-1781. Panneaux chinois.,500,67.9,False,positional,LE PRINCE,,PANNELLI,,Sec. XVIII
+BO0624_83720,393910,37,532,Leriche. XVIII siecle. Devant de cheminée.,513,59.0,False,positional,LERICHE,,,,Sec. XVIII
 BO0624_83720,393911,38,533,"Leriche. Couronnes de roses, sur fond gris, encadrees de guirlandes de lierre.",525,93.1,False,positional,LERICHE,,,,
-BO0624_83720,393912,39,534,Loo. 1705-1765. Portrait de jeune fille en bergere.,537,83.7,False,positional,LERICHE,,,,
-BO0624_83720,393913,40,535,Marieschi. 1711-1794. Vues des environs de Venise.,554,71.8,False,positional,MARIESCHI,,,,
-BO0624_83720,393914,41,536,Martin. 1659-1735. Inauguration du port de Mardick.,570,79.5,False,positional,MARTIN,,,,
-BO0624_83720,393915,42,537,Mayer. 1778-1821. Portrait de l'artiste.,587,72.1,False,positional,MAYER,,,,
-BO0624_83720,393916,43,538,Meynier. 1768-1832. Minerve protectrice des Artes.,606,75.9,False,positional,MEYNIER,,,,
-BO0624_83720,393917,44,539,Mignard. 1612-1695. Portrait de jeune femme en Ceres.,620,79.1,False,positional,MIGNARD,,,,
-BO0624_83720,393918,45,540,Nattier. 1685-1766. Portrait de Madame Adelaide de France.,633,81.2,False,positional,NATTIER,,,,
+BO0624_83720,393912,39,534,Loo. 1705-1765. Portrait de jeune fille en bergere.,537,83.7,False,positional,LERICHE,,,,Sec. XVIII
+BO0624_83720,393913,40,535,Marieschi. 1711-1794. Vues des environs de Venise.,554,71.8,False,positional,MARIESCHI,,,,Sec. XVIII
+BO0624_83720,393914,41,536,Martin. 1659-1735. Inauguration du port de Mardick.,570,79.5,False,positional,MARTIN,,,,Sec. XVII
+BO0624_83720,393915,42,537,Mayer. 1778-1821. Portrait de l'artiste.,587,72.1,False,positional,MAYER,,,,Sec. XIX
+BO0624_83720,393916,43,538,Meynier. 1768-1832. Minerve protectrice des Artes.,606,75.9,False,positional,MEYNIER,,,,Sec. XVIII
+BO0624_83720,393917,44,539,Mignard. 1612-1695. Portrait de jeune femme en Ceres.,620,79.1,False,positional,MIGNARD,,,,Sec. XVII
+BO0624_83720,393918,45,540,Nattier. 1685-1766. Portrait de Madame Adelaide de France.,633,81.2,False,positional,NATTIER,,,,Sec. XVIII
 BO0624_83720,393919,46,541,Portrait de Madame Victoire de France.,636,94.9,False,positional,NATTIER,,,,
 BO0624_83720,393920,47,542,Portrait de Madame Louise-Elizabeth de France,642,100.0,False,positional,NATTIER,,,,
 BO0624_83720,393921,48,543,"Portrait du Dauphin, fils de Louise XV.",648,93.5,False,positional,NATTIER,,,,
 BO0624_83720,393922,49,544,Nattier. Portrait allegorique de la Duchesse de Chateauroux.,663,91.1,False,positional,NATTIER,,,,
-BO0624_83720,393923,50,545,Nonnootte. 1707-1785. Portrait de femme.,680,65.5,False,positional,NONNOTTE,,,,
-BO0624_83720,393924,51,546,Oost. 1600-1671. Le Christ couronné d'epines.,696,78.4,False,positional,OOST,,,,
-BO0624_83720,393925,52,547,Oudry. 1686-1755. Portrait d'un garde chasse et de deux chiennes de la meute royale.,709,62.7,False,positional,OUDRY,,,,
+BO0624_83720,393923,50,545,Nonnootte. 1707-1785. Portrait de femme.,680,65.5,False,positional,NONNOTTE,,,,Sec. XVIII
+BO0624_83720,393924,51,546,Oost. 1600-1671. Le Christ couronné d'epines.,696,78.4,False,positional,OOST,,,,Sec. XVII
+BO0624_83720,393925,52,547,Oudry. 1686-1755. Portrait d'un garde chasse et de deux chiennes de la meute royale.,709,62.7,False,positional,OUDRY,,,,Sec. XVIII
 BO0624_83720,393926,53,548,Oudry. Chien Blanc à taches brunes.,726,84.4,False,positional,OUDRY,,,,
 BO0624_83720,393927,54,549,Chienne noire et blanche.,730,92.3,False,positional,OUDRY,,,,
 BO0624_83720,393928,55,550,Chienne blanche tachee de feu.,734,93.5,False,positional,OUDRY,,,,
@@ -58,53 +58,53 @@ BO0624_83720,393929,56,551,Renard guettant des perdrix.,738,93.1,False,positiona
 BO0624_83720,393930,57,552,Oudry. Portrait d’un chien griffon.,749,87.5,False,positional,OUDRY,,,,
 BO0624_83720,393931,58,553,Oudry. Portrait d'un petit chien de race KingCharles.,762,92.0,False,positional,OUDRY,,,,
 BO0624_83720,393932,59,554,Oudry. Chien en arret sur deux faisans.,775,91.2,False,positional,OUDRY,,,,
-BO0624_83720,393933,60,555,Perin. 1753-1817. Le Chien favori.,789,68.0,False,positional,PERIN,,,,
-BO0624_83720,393934,61,556,Pierre. 1715-1789. Pomone.,802,63.2,False,positional,PIERRE,,,,
-BO0624_83720,393935,62,557,Pillement. 1728-1808. Le Passage du pont.,819,66.7,False,positional,PILLEMENT,,,,
+BO0624_83720,393933,60,555,Perin. 1753-1817. Le Chien favori.,789,68.0,False,positional,PERIN,,,,Sec. XVIII
+BO0624_83720,393934,61,556,Pierre. 1715-1789. Pomone.,802,63.2,False,positional,PIERRE,,,,Sec. XVIII
+BO0624_83720,393935,62,557,Pillement. 1728-1808. Le Passage du pont.,819,66.7,False,positional,PILLEMENT,,,,Sec. XVIII
 BO0624_83720,393936,63,558,Pillement. La Halte des Bergers.,834,77.8,False,positional,PILLEMENT,,,,
 BO0624_83720,393937,64,559,Prud'hon. La Nuit protegeant l'Amour.,854,85.2,False,positional,PRUD'HON,,,,
-BO0624_83720,393938,65,560,Rembrandt. 1607-1669. Portrait d'homme.,869,61.8,False,positional,REMBRANDT,,,,
+BO0624_83720,393938,65,560,Rembrandt. 1607-1669. Portrait d'homme.,869,61.8,False,positional,REMBRANDT,,,,Sec. XVII
 BO0624_83720,393939,66,561,Rembrandt. Portrait de femme agee.,880,79.3,False,positional,REMBRANDT,,,,
-BO0624_83720,393940,67,562,"Rigaud. 1659-1743. Portrait de Luise de la Tour d'Auvergne, comte d'Evreux.",893,45.7,False,positional,RIGAUD,,,,
-BO0624_83720,393941,68,563,"Rigaud, Monnoyer, 1634-1699. Portrait de femme.",918,62.5,False,positional,MONNOYER,,,,
+BO0624_83720,393940,67,562,"Rigaud. 1659-1743. Portrait de Luise de la Tour d'Auvergne, comte d'Evreux.",893,45.7,False,positional,RIGAUD,,,,Sec. XVII
+BO0624_83720,393941,68,563,"Rigaud, Monnoyer, 1634-1699. Portrait de femme.",918,62.5,False,positional,MONNOYER,,,,Sec. XVII
 BO0624_83720,393942,69,564,Rigaud. Portrait d'enfant.,931,80.0,False,positional,RIGAUD,,,,
-BO0624_83720,393943,70,565,Robert. 1733-1808. Paysages d'Italie.,945,65.5,False,positional,ROBERT,,,,
-BO0624_83720,393944,71,566,Roslin. 1733-1793. Portrait de femme.,958,65.5,False,positional,ROSLIN,,,,
-BO0624_83720,393945,72,567,Schall. XVIII siecle. Le jeune fill a l'oiseau.,972,63.9,False,positional,SCHALL,,,,
-BO0624_83720,393946,73,568,SWEBACH. 1769-1823. Foire de village.,983,70.4,False,title_direct,SWEBACH,,,,
+BO0624_83720,393943,70,565,Robert. 1733-1808. Paysages d'Italie.,945,65.5,False,positional,ROBERT,,,,Sec. XVIII
+BO0624_83720,393944,71,566,Roslin. 1733-1793. Portrait de femme.,958,65.5,False,positional,ROSLIN,,,,Sec. XVIII
+BO0624_83720,393945,72,567,Schall. XVIII siecle. Le jeune fill a l'oiseau.,972,63.9,False,positional,SCHALL,,,,Sec. XVIII
+BO0624_83720,393946,73,568,SWEBACH. 1769-1823. Foire de village.,983,70.4,False,title_direct,SWEBACH,,,,Sec. XVIII
 BO0624_83720,393947,74,569,SWEBACH. La Chasse a courre.,1002,79.2,False,title_direct,SWEBACH,,,,
 BO0624_83720,393948,75,570,SWEBACH. L'Orage.,1006,61.5,False,title_direct,SWEBACH,,,,
 BO0624_83720,393949,76,571,Tiepolo. L'Aurore.,1017,60.9,False,positional,TIEPOLO,,,,
-BO0624_83720,393950,77,572,Viester. 1740-1824. L'Amour desarme.,1038,70.4,False,positional,VESTIER,,,,
+BO0624_83720,393950,77,572,Viester. 1740-1824. L'Amour desarme.,1038,70.4,False,positional,VESTIER,,,,Sec. XVIII
 BO0624_83720,393951,78,573,VESTIER. Portrait de femme.,1053,75.0,False,title_direct,VESTIER,,,,
 BO0624_83720,393952,79,574,WATTEAU. Le Concert.,1068,68.8,False,title_direct,WATTEAU,,,,
 BO0624_83720,393953,80,575,WATTEAU. La Danse.,1082,64.3,False,title_direct,WATTEAU,,,,
-BO0624_83720,393954,81,576,Weenix. 1640-1719. Gibier sous la garde d'un chien.,1107,79.5,False,positional,WEENIX,,,,
-BO0624_83720,393955,82,577,Ecole anglaise. XVIII siecle. Portrait presume de Mrs. Siddons.,1123,68.1,False,positional,,ECOLE ANGLAISE,,,
+BO0624_83720,393954,81,576,Weenix. 1640-1719. Gibier sous la garde d'un chien.,1107,79.5,False,positional,WEENIX,,,,Sec. XVII
+BO0624_83720,393955,82,577,Ecole anglaise. XVIII siecle. Portrait presume de Mrs. Siddons.,1123,68.1,False,positional,,ECOLE ANGLAISE,,,Sec. XVIII
 BO0624_83720,393956,83,578,Ecole anglaise. Portrait d’une jeune dame.,1136,77.6,False,positional,,ECOLE ANGLAISE,,,
-BO0624_83720,393957,84,579,ECOLE ANGLAISE. XVIII siecle. Jeune femme en buste.,1150,58.3,False,title_direct,,ECOLE ANGLAISE,,,
-BO0624_83720,393958,85,580,ECOLE ANGLAISE. XVIII siecle. Le Depart pour la promenade.,1163,67.4,False,title_direct,,ECOLE ANGLAISE,,,
-BO0624_83720,393959,86,581,ECOLE ANGLAISE. XVIII siecle. La Declaration.,1169,50.0,False,title_direct,,ECOLE ANGLAISE,,,
+BO0624_83720,393957,84,579,ECOLE ANGLAISE. XVIII siecle. Jeune femme en buste.,1150,58.3,False,title_direct,,ECOLE ANGLAISE,,,Sec. XVIII
+BO0624_83720,393958,85,580,ECOLE ANGLAISE. XVIII siecle. Le Depart pour la promenade.,1163,67.4,False,title_direct,,ECOLE ANGLAISE,,,Sec. XVIII
+BO0624_83720,393959,86,581,ECOLE ANGLAISE. XVIII siecle. La Declaration.,1169,50.0,False,title_direct,,ECOLE ANGLAISE,,,Sec. XVIII
 BO0624_83720,393960,87,582,ECOLE ANGLAISE. Portrait de jeune fille.,1182,73.8,False,title_direct,,ECOLE ANGLAISE,,,
-BO0624_83720,393961,88,583,ECOLE ESPAGNOLE. XVII siecle. Les Danseurs.,1190,54.5,False,title_direct,,ECOLE ESPAGNOLE,,,
-BO0624_83720,393962,89,584,ECOLE FLAMANDE. XVII siecle. Portrait d'un jeune Seigneur.,1205,65.2,False,title_direct,,ECOLE FLAMANDE,,,
-BO0624_83720,393963,90,585,ECOLE FRANCAISE. XVIII siecle. Decoration de salon.,1220,56.3,False,title_direct,,ECOLE FRANCAISE,OGGETTI VARI,,
-BO0624_83720,393964,91,586,ECOLE FRANCAISE. XVIII siecle. Recreation champetre.,1253,57.5,False,title_direct,,ECOLE FRANCAISE,,,
-BO0624_83720,393965,92,587,ECOLE FRANCAISE. XVIII siècle. Portrait presume de Dumont le Romain.,1272,70.5,False,title_direct,,ECOLE FRANCAISE,,,
-BO0624_83720,393966,93,588,ECOLE FRANCAISE. XVIII siècle. Fillette tenant une guirlande de roses.,1292,72.4,False,title_direct,,ECOLE FRANCAISE,,,
-BO0624_83720,393967,94,589,ECOLE FRANCAISE. XVIII siècle. Composition bachique.,1303,58.7,False,title_direct,,ECOLE FRANCAISE,,,
-BO0624_83720,393968,95,590,ECOLE FRANCAISE. XVIII siècle. Flore et Zephire.,1318,52.5,False,title_direct,,ECOLE FRANCAISE,,,
-BO0624_83720,393969,96,591,ECOLE FRANCAISE. XVIII siècle. Le Repos de Diane.,1328,54.0,False,title_direct,,ECOLE FRANCAISE,,,
-BO0624_83720,393970,97,592,ECOLE FRANCAISE. XVIII siècle. Amphitrite.,1334,43.6,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83720,393961,88,583,ECOLE ESPAGNOLE. XVII siecle. Les Danseurs.,1190,54.5,False,title_direct,,ECOLE ESPAGNOLE,,,Sec. XVII
+BO0624_83720,393962,89,584,ECOLE FLAMANDE. XVII siecle. Portrait d'un jeune Seigneur.,1205,65.2,False,title_direct,,ECOLE FLAMANDE,,,Sec. XVII
+BO0624_83720,393963,90,585,ECOLE FRANCAISE. XVIII siecle. Decoration de salon.,1220,56.3,False,title_direct,,ECOLE FRANCAISE,OGGETTI VARI,,Sec. XVIII
+BO0624_83720,393964,91,586,ECOLE FRANCAISE. XVIII siecle. Recreation champetre.,1253,57.5,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83720,393965,92,587,ECOLE FRANCAISE. XVIII siècle. Portrait presume de Dumont le Romain.,1272,70.5,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83720,393966,93,588,ECOLE FRANCAISE. XVIII siècle. Fillette tenant une guirlande de roses.,1292,72.4,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83720,393967,94,589,ECOLE FRANCAISE. XVIII siècle. Composition bachique.,1303,58.7,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83720,393968,95,590,ECOLE FRANCAISE. XVIII siècle. Flore et Zephire.,1318,52.5,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83720,393969,96,591,ECOLE FRANCAISE. XVIII siècle. Le Repos de Diane.,1328,54.0,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83720,393970,97,592,ECOLE FRANCAISE. XVIII siècle. Amphitrite.,1334,43.6,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
 BO0624_83720,393971,98,593,Ecole Francaise. Le Corbeau et le Renard.,1340,35.8,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83720,393972,99,594,Ecole Francaise. Le Loup ct la Cigogne.,1345,57.7,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83720,393973,100,595,Ecole Francaise. Le Loup et le Chien.,1351,53.3,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83720,393974,101,596,Ecole Francaise. XVIII siecle. Le Reve.,1353,33.9,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83720,393975,102,597,ECOLE FRANCAISE. XVIII siecle. Jeune fille en buste.,1357,34.4,False,title_direct,,ECOLE FRANCAISE,,,
-BO0624_83720,393976,103,598,ECOLE FRANCAISE. XVIII siecle. Portrait de jeune fille.,1359,44.8,False,title_direct,,ECOLE FRANCAISE,,,
-BO0624_83720,393977,104,599,ECOLE FRANCAISE. XVIII siecle. Jeune femme assise sur un lit.,1367,44.9,False,title_direct,,ECOLE FRANCAISE,,,
+BO0624_83720,393974,101,596,Ecole Francaise. XVIII siecle. Le Reve.,1353,33.9,False,positional,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83720,393975,102,597,ECOLE FRANCAISE. XVIII siecle. Jeune fille en buste.,1357,34.4,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83720,393976,103,598,ECOLE FRANCAISE. XVIII siecle. Portrait de jeune fille.,1359,44.8,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83720,393977,104,599,ECOLE FRANCAISE. XVIII siecle. Jeune femme assise sur un lit.,1367,44.9,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
 BO0624_83720,393978,105,600,Ecole Francaise. Portrait presume de M. Recamier.,1369,36.4,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83720,393979,106,601,Ecole Francaise. XVII siecle. Portrait d'un officier.,1371,46.2,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83720,393979,106,601,Ecole Francaise. XVII siecle. Portrait d'un officier.,1371,46.2,False,positional,,ECOLE FRANCAISE,,,Sec. XVII
 BO0624_83720,393980,107,602,"Bassin oblong, en ancienne porcelaine de Saxe.",1375,34.4,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83720,393981,108,603,"SucRiER ovale, en ancienne porcelaine de Saxe, simulant une salade semee d'insectes.",1377,38.4,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83720,393982,109,604,"Boite simulant de grosses grappes de raisin noir, en ancienne porcelaine de Saxe.",1390,39.5,False,positional,,ECOLE FRANCAISE,SCATOLE,,
@@ -159,19 +159,19 @@ BO0624_83720,394030,157,652,"CaLvaiRE en ancienne porcelaine de Saxe, compose d'
 BO0624_83720,394031,158,653,"STaTuErrE en ancienne porcelaine de Louisbourg,figurant une Source sous les traits d'une nymphe etendue aupres d'un vase renverse.",1625,98.5,False,positional,,,VASI,,
 BO0624_83720,394032,159,654,"FiGuRINE en ancienne porcelaine de Frankenthal:personnage oriental debout, tenant un perchoir sur lequel est pose un oiseau.",1629,98.4,False,positional,,,PORCELAINES,,
 BO0624_83720,394033,160,655,"STATuETTE en ancienne porcelaine de Frankenthal:Diane endormie, assise au pied d'un tronc d'arbre, son chien aupres d'elle.",1632,96.7,False,positional,,,PORCELAINES,,
-BO0624_83720,394034,161,656,"PoT DE ToILETTE cyLINDRIQUE a fond bleu, decor d'oiseaux.Ancienne porcelaine tendre de Vincennes. Annee 1753.",1638,98.1,False,positional,,,OGGETTI VARI,,
-BO0624_83720,394035,162,657,Sucrier decore de feurs avec lambrequins bleus. Ancienne porcelaine tendre de Vincennes.Annee 1753.,1646,98.0,False,positional,,,PORCELAINES,,
-BO0624_83720,394036,163,658,"SoupIERE AvEc couvERcLE en ancienne porcelaine tendre de Vincennes, a decor de feurs et hachures bleues; anses enrubannees. Annee 1754. Larg.,28 cent.",1650,98.6,False,positional,,,PORCELAINES,,
+BO0624_83720,394034,161,656,"PoT DE ToILETTE cyLINDRIQUE a fond bleu, decor d'oiseaux.Ancienne porcelaine tendre de Vincennes. Annee 1753.",1638,98.1,False,positional,,,OGGETTI VARI,,Sec. XVIII
+BO0624_83720,394035,162,657,Sucrier decore de feurs avec lambrequins bleus. Ancienne porcelaine tendre de Vincennes.Annee 1753.,1646,98.0,False,positional,,,PORCELAINES,,Sec. XVIII
+BO0624_83720,394036,163,658,"SoupIERE AvEc couvERcLE en ancienne porcelaine tendre de Vincennes, a decor de feurs et hachures bleues; anses enrubannees. Annee 1754. Larg.,28 cent.",1650,98.6,False,positional,,,PORCELAINES,,Sec. XVIII
 BO0624_83720,394037,164,659,DEUX PETITEs JARDINIEREs CARREEs en ancienne porcelaine tendre de T.II. II,1651,97.3,False,positional,,,PORCELAINES,,
-BO0624_83720,394038,165,660,"SucRIER ET PoT A LAIT avec leurs couvercles,et soucoupe en ancienne porcelaine tendre de Sevres, ornes d'enfants dans des paysages et d'oiseaux; dents de loup en dorure. Annee 1757.Decor par Buteux aine.",1656,99.0,False,positional,,,PORCELAINES,,
+BO0624_83720,394038,165,660,"SucRIER ET PoT A LAIT avec leurs couvercles,et soucoupe en ancienne porcelaine tendre de Sevres, ornes d'enfants dans des paysages et d'oiseaux; dents de loup en dorure. Annee 1757.Decor par Buteux aine.",1656,99.0,False,positional,,,PORCELAINES,,Sec. XVIII
 BO0624_83720,394039,166,661,"SocLe rectangulaire en ancienne porcelaine tendre de Sevres, orne de quatre compartiments a sujets allegoriques a l'amour et a la musique, se detachant sur un fond bleu cailloute d'or. Annee 175g. Decor par Dodin.",1660,99.0,False,positional,,,PORCELAINES,,
-BO0624_83720,394040,167,662,"PeTIr sucRIER obconique en ancienne porcelaine tendre de Sevres, orne de guirlandes de feurs en camaieu carmin et dents de loup en dorure.Annee 1756.Decor par Sioux jeune.",1664,98.8,False,positional,,,PORCELAINES,,
+BO0624_83720,394040,167,662,"PeTIr sucRIER obconique en ancienne porcelaine tendre de Sevres, orne de guirlandes de feurs en camaieu carmin et dents de loup en dorure.Annee 1756.Decor par Sioux jeune.",1664,98.8,False,positional,,,PORCELAINES,,Sec. XVIII
 BO0624_83720,394041,168,663,"FoND DE PLATEAU en ancienne porcelaine tendre de Sevres,decoré d'un paysage anime avec habitations et cours d'eau, et avec encadrement de marbrures bleues et roses. Cadre en bois.",1668,98.9,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_83720,394042,169,664,"Deux pieces:theiere et sucrier avec couvercles en ancienne porcelaine tendre de Sevres,a decor de reserves contenant des paysages animes et se detachant sur un fond marbre de bleu et de rose. Annee 1761.",1672,99.0,False,positional,,,PORCELAINES,,
-BO0624_83720,394043,170,665,"PLATEAU rectangulaire en ancienne porcelaine tendre de Sevres,a bords formes de postes et orne,au fond, de coquilles, quadrilles,guirlandes de feurs et rubans, avec rehauts de dorure. Annee 1763. Decor par Thevenet aine.Pied en bronze dore.",1676,99.4,False,positional,,,PORCELAINES,,
+BO0624_83720,394042,169,664,"Deux pieces:theiere et sucrier avec couvercles en ancienne porcelaine tendre de Sevres,a decor de reserves contenant des paysages animes et se detachant sur un fond marbre de bleu et de rose. Annee 1761.",1672,99.0,False,positional,,,PORCELAINES,,Sec. XVIII
+BO0624_83720,394043,170,665,"PLATEAU rectangulaire en ancienne porcelaine tendre de Sevres,a bords formes de postes et orne,au fond, de coquilles, quadrilles,guirlandes de feurs et rubans, avec rehauts de dorure. Annee 1763. Decor par Thevenet aine.Pied en bronze dore.",1676,99.4,False,positional,,,PORCELAINES,,Sec. XVIII
 BO0624_83720,394044,171,666,PLAQuE en ancienne porcelaine tendre de Sevres:l'Amour vu de face,1680,97.0,False,positional,,,PORCELAINES,,
-BO0624_83720,394045,172,667,"Deux sALieres en ancienne porcelaine tendre de Sevres, reserves contenant des oiseaux ; fond bleu de roi. Annee 1768. Decor par Noel.",1685,98.4,False,positional,,,PORCELAINES,,
-BO0624_83720,394046,173,668,"PeTIr PLATEAu oblong en ancienne porcelaine tendre de Sevres, decore, au centre, d'un motif quadrille d'or sur fond bleu et,a la chute, de postes, chargees de feuillages dores et se detachant sur un champ orne de rinceaux en dorure.Annee 1773.Decor par Thevenet aine.",1689,99.2,False,positional,,,PORCELAINES,,
+BO0624_83720,394045,172,667,"Deux sALieres en ancienne porcelaine tendre de Sevres, reserves contenant des oiseaux ; fond bleu de roi. Annee 1768. Decor par Noel.",1685,98.4,False,positional,,,PORCELAINES,,Sec. XVIII
+BO0624_83720,394046,173,668,"PeTIr PLATEAu oblong en ancienne porcelaine tendre de Sevres, decore, au centre, d'un motif quadrille d'or sur fond bleu et,a la chute, de postes, chargees de feuillages dores et se detachant sur un champ orne de rinceaux en dorure.Annee 1773.Decor par Thevenet aine.",1689,99.2,False,positional,,,PORCELAINES,,Sec. XVIII
 BO0624_83720,394047,174,669,"CoNFITuRIER oblong a deux recipients,en ancienne porcelaine tendre de Sevres.Entre les deux recipients, un medaillon de feurs. Bordure a feurettes.Annee1775.Doreur:Prevost.",1693,98.8,False,positional,,,PORCELAINES,,
 BO0624_83720,394048,175,670,Tasse ET soucoupe en ancienne porcelaine tendre blanche de Sevres. Bordure doree.,1697,97.5,False,positional,,,PORCELAINES,,
 BO0624_83720,394049,176,671,"TassE DRoITE ET sA soucouPE en ancienne porcelaine tendre de Sevres: decor de rubans ondules, a feuillages bleus sur fond strie or.",1701,98.5,False,positional,,,PORCELAINES,,
@@ -207,7 +207,7 @@ BO0624_83720,394078,205,700,"Deux poTs DE roILETTE cylindriques avec leurs couve
 BO0624_83720,394079,206,701,"Deux poTs DE roILETTE cylindriques avec leurs couvercles, en ancienne porcelaine tendre de Mennecy, decoree de bouquets de feurs;boutons de couvercles formes chacun d'une roseenronde-bosse.",1816,98.9,False,positional,,,PORCELAINES; FAIENCES,,
 BO0624_83720,394080,207,702,Deux FIGuRINEs en ancienne porcelaine de Chelsea:berger et bergere debout.,1820,97.3,False,positional,,,PORCELAINES; FAIENCES,,
 BO0624_83720,394081,208,703,"Deux PETIrs GRoupes en ancien biscuit :Flore et Zephyre: Flore et l'Amour, debout,enguirlandes de fleurs.",1821,92.2,False,positional,,,BISCOTTI,,
-BO0624_83720,394082,209,704,"Busre en biscuit, grandeur nature, de jeune femme, la tete couverte d'une draperie retombant sur les epaules et retenue par des couronnes et des guirlandes de feuilles.Fin du XVIII siecle.",1822,97.8,False,positional,,,BISCOTTI,,
+BO0624_83720,394082,209,704,"Busre en biscuit, grandeur nature, de jeune femme, la tete couverte d'une draperie retombant sur les epaules et retenue par des couronnes et des guirlandes de feuilles.Fin du XVIII siecle.",1822,97.8,False,positional,,,BISCOTTI,,Sec. XVIII
 BO0624_83720,394083,210,705,"Service en ancienne faience de Marseille, fabrique de la veuve Perrin a decor de feurs, comprenant soixante-six assiettes, vingt-cinq plats et plateaux varies, dix jardinieres, deux saucieres, neuf compotiers, trois saladiers, deux bassins et deux soupieres avec couvercles,sur quatre pieds et a anses formees de tigres.",1831,99.4,False,positional,,,OGGETTI VARI,,
 BO0624_83720,394084,211,706,"Vase a panse ovoide,en ancienne faience de Rouen, a decor de feurs sur fond bleu.",1835,97.5,False,positional,,,VASI,,
 BO0624_83720,394085,212,707,"Plat en ancienne faience de Delft, a decor bleau.",1836,41.0,False,positional,,,PIATTI,,
@@ -274,12 +274,12 @@ BO0624_83720,394145,272,767,Ecrin en maroquin rouge doré aux fers,2081,24.5,Fal
 BO0624_83720,394146,273,768,"PoRTEFEUILLE-EcRIToiRE en maroquin rouge dore aux fers, avec armoiries de duc.xvine siecle.",2085,97.8,False,positional,,,PORCELAINES,,
 BO0624_83720,394147,274,769,Bas-RELiEF en terre cuite:projet de fontaine en forme de niche abritant une figure de feuve.Epoque Regence.,2091,98.1,False,positional,,,BASSORILIEVI,,
 BO0624_83720,394148,275,770,"Deux sTATuEs en terre cuite, grandeur nature, d'homme et de femme a corps termines en gaines : l'Ete et I'Automne. Milieu du xvile siecle.",2095,98.5,False,positional,,,STAMPE E INCISIONI,,
-BO0624_83720,394149,276,771,"STATueTTE en terre cuite:Diane debout, accompagnee d'un chien, sur base simulant un piedestal. XVIII siecle.",2099,95.3,False,positional,,,SCULPTURES,,
+BO0624_83720,394149,276,771,"STATueTTE en terre cuite:Diane debout, accompagnee d'un chien, sur base simulant un piedestal. XVIII siecle.",2099,95.3,False,positional,,,SCULPTURES,,Sec. XVIII
 BO0624_83720,394150,277,772,PerIr GRoupe en terre cuite : Venus et deux amours assis sur la poupe d'un navire; avec armoiries a l'arriere. xvine siecle.,2103,98.3,False,positional,,,SCULPTURES,,
 BO0624_83720,394151,278,773,PeTIT GroupE en terre cuite : le Triomphe d'Amphitrite: composition T.II. 13,2107,97.3,False,positional,,,SCULPTURES,,
 BO0624_83720,394152,279,774,"STaTuE en terre cuite de jeune garcon,debout,tenant un panier plein d'ecureuils.xvinsiecle.",2112,97.8,False,positional,,,SCULPTURES,,
 BO0624_83720,394153,280,775,Deux sTATuETres en terre cuite: un Fleuve et une Source sous les traits de personnages etendus et appuyes sur un vase renverse. Bases en marbre.xvin siecle.,2116,98.7,False,positional,,,VASI,,
-BO0624_83720,394154,281,776,"StaTuETTE en terre cuite de femme debout, drapee a lantique, tenant un nid de pelicans. Signee:Dardel,1785.(Dardel,Robert-Guillaume, eleve de Pajou, 1749-1821.) xvme siecle.",2120,98.2,False,positional,,,SCULPTURES,,
+BO0624_83720,394154,281,776,"StaTuETTE en terre cuite de femme debout, drapee a lantique, tenant un nid de pelicans. Signee:Dardel,1785.(Dardel,Robert-Guillaume, eleve de Pajou, 1749-1821.) xvme siecle.",2120,98.2,False,positional,,,SCULPTURES,,Sec. XVIII
 BO0624_83720,394155,282,777,"Bas-RELIEF rectangulaire en terre cuite, presentant une bacchanale a nombreux personnages;au second plan, des motifs d'architecture. Epoque Louis xVI.Encadre.",2124,98.7,False,positional,,,BASSORILIEVI,,
 BO0624_83720,394156,283,778,"Deux PETIrs BusTes en terre cuite,portant le nom de Clodion au revers: jeune femme, un ruban dans les cheveux retenant des boucles venant retomber sur ses epaules;adolescent,couronne de lauriers et drape a l'antique. Bases en marbre de couleurs et bronze.",2128,99.2,False,positional,CLODION MICHEL,,SCULPTURES,,
 BO0624_83720,394157,284,779,"Deux sTATuETTes en terre cuite de femmes debout, le corps a demi revetu d'une draperie et tenant chacune une torchere.",2132,98.3,False,positional,,,SCULPTURES,,
@@ -433,7 +433,7 @@ BO0624_83720,739810,431,927,"PeTIT MEuBLE en marqueteric de bois de couleurs a f
 BO0624_83720,739811,432,928,"ArMoirE a deux portes superposees,a deux vantaux chacune et vitrees; bois laque a fond noir avec decor de style chinois sur les cotes;rosaces, encadrements en bronze dore. Tablette de marbre breche d'Alep. Fin de l'epoque Louis XV.",2705,99.1,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_83720,739812,433,929,"PeTIT BuREAu a cylindre en marqueterie de bois clair, a rayures,avec tiroirs interieurs en bois de rose, et tablette mobile laquee a fond rouge. Galerie et sabotsde cuivre.Fin de l'époque LouisXV.",2709,99.0,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_83720,739813,434,930,"CaRToNNIER bout-de-bureau, a casiers lateraux en bois de rose.Epoque Louis xV.",2712,97.4,False,positional,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
-BO0624_83720,739814,435,931,,2714,0.0,False,positional,,,MEUBLES,,
+BO0624_83720,739814,435,931,"Deux consoLEs demi-lune en bois sculpte,peint bleu et dore,a decor de guirlandes de feurs.Elles reposent sur quatre pieds canneles simulant des torches enfammees et relies par une tablette de marbre bleu-turquin. Dessus egalement de marbre bleu-turquin. Epoque Louis XVI.",2716,99.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83720,739815,436,932,"ConsoLE en bois sculpte et dore,a ceinture ornee de rinceaux et de guirlandes de laurier, et sur quatre pieds canneles. Epoque Louis XVI.",2720,98.5,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83720,739816,437,933,"ConsoLE demi-lune a un tiroir en marqueterie de bois de couleurs, a feuilles et feurs; elle repose sur quatre pieds. Dessus de marbre blanc. Epoque Louis XVI.",2724,98.7,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83720,739817,438,934,"ConsoLE en acajou, a cotes cintres, munie de trois tiroirs dans la ceinture; tablette d'entre-jambes en marbre bleu-turquin a galerie de cuivre.Frise d'amours musiciens et entrelacs en bronze dore rapportes en partie; filets de cuivre. Dessus de marbre bleu-turquin, borde d'un rang de perles en bronze. Epoque Louis XVI.",2728,99.4,False,positional,,,ACQUEFORTI,,

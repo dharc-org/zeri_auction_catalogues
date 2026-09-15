@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_81800,104457,1,I,"d. nella Libreria Piale Piazza di Spagna, I.",5,98.8,False,none,,,,,
+BO0624_81800,104457,1,I,"d. nella Libreria Piale Piazza di Spagna, I.",5,98.8,False,none,PIAZZETTA JEAN-BAPTISTE,,,,
 BO0624_81800,104458,2,I,"d. ..nella Libreria Modes e Mendel Corso Umberto I,146.",7,99.0,False,none,MENZEL ADOLPH VON,,,,
-BO0624_81800,104459,3,I,d. presso i Sigg. C. &amp; E. Canessa - Antiquari Piazza Martiri.,11,99.1,False,none,,,,,
+BO0624_81800,104459,3,I,d. presso i Sigg. C. &amp; E. Canessa - Antiquari Piazza Martiri.,11,99.1,False,none,PIAZZETTA JEAN-BAPTISTE,,,,
 BO0624_81800,104460,4,12,", Corso Venezia.",17,89.7,False,none,,,,,
 BO0624_81800,104461,5,18,",Maximilianplatz.",33,90.9,False,none,,,,,
 BO0624_81800,104462,6,125,", Avenue des Champs Elysees.",37,92.6,False,none,,,,,
@@ -54,7 +54,7 @@ BO0624_81800,104508,52,37,ELEGANTE BOTTIGLIA in vetro bleu a lungo collo con,240
 BO0624_81800,104509,53,38,BoTTIGLIA sagomata in vetro viola a venturina.Murano.,245,97.2,False,positional,,Scuola di Murano,Vetri,,
 BO0624_81800,104510,54,39,BoTTIGLIA in vetro a striature lattee: due piccole anse,250,97.3,False,positional,,,Vetri,,
 BO0624_81800,104511,55,40,OLIERA in vetro a forma di animale. Murano.,257,96.5,False,positional,,Scuola di Murano,Vetri,,
-BO0624_81800,104512,56,2,Secolo XVIII.,258,92.3,False,positional,,,Vetri,,
+BO0624_81800,104512,56,2,Secolo XVIII.,258,92.3,False,positional,,,Vetri,,Sec. XVIII
 BO0624_81800,104513,57,3,"41.DuE BOTTIGLIE di forma esagona,bordi di smalto bianco.",259,98.2,False,positional,,,BOTTIGLIE,,
 BO0624_81800,104514,58,42,"TRITTICO a fondo d'oro;nel centro le pie donne al piedi della croce; negli sportelli l'Annunciazione, S. Antonio, S. Chiara e S. Giovanni ed i devoti committenti inginocchiati.",270,99.1,False,title_direct,Morelli,,,,
 BO0624_81800,104515,59,43,"LA VERGINE seduta in trono col Bambino in grembo: a destra S. Sebastiano e S. Giovanni, a sinistra S. Rocco. Pittura su tavola.",278,98.8,False,positional,,Scuola Veneta,,,
@@ -105,7 +105,7 @@ BO0624_81800,104559,103,87,QUATTRO FRAMMENTI di velluto roSSo.,510,95.8,False,po
 BO0624_81800,104560,104,88,DUE TONACELLE ed un piviale in bel broccato a fiori.,512,97.1,False,positional,,,Stoffe e Tappeti,,
 BO0624_81800,104561,105,89,CAMPIoNE di velluto veneziano del cinquecento.,516,96.8,False,positional,,,Stoffe e Tappeti,,
 BO0624_81800,104562,106,90,TAPPETINO di tela sfilata con merletto gotico,517,96.8,False,positional,,,Stoffe e Tappeti,,
-BO0624_81800,104563,107,91,AsCIuGAMANI con merletto e tramezzo ricamato su tela. Secolo XVII.,518,97.7,False,positional,,,Stoffe e Tappeti,,
+BO0624_81800,104563,107,91,AsCIuGAMANI con merletto e tramezzo ricamato su tela. Secolo XVII.,518,97.7,False,positional,,,Stoffe e Tappeti,,Sec. XVII
 BO0624_81800,104564,108,92,ANTiCa stoffa in seta a fiori su fondo viola.,519,96.7,False,positional,,,Stoffe e Tappeti,,
 BO0624_81800,104565,109,93,CoPERTuRA completa per un sofa ed otto poltrone in tappezzeria di Aubusson a fiori su fondo bianco con bordura celeste.,524,72.7,False,positional,,,AUBUSSONS,,
 BO0624_81800,104566,110,94,"TAPPETO orientale, fondo rosso a svariati ornati",525,96.9,False,positional,,,Stoffe e Tappeti,,
@@ -156,7 +156,7 @@ BO0624_81800,104610,154,137,GRANDE TAPPETO Aubusson a vari scomparti e fio- rami
 BO0624_81800,104611,155,138,"CoRNicE di pastiglia con ornati a nastro intrecciato. m.0,34x0,30.",690,86.7,False,positional,,,oggetti vari,,
 BO0624_81800,104612,156,139,"LA VERGINE in trono che ha in grembo il Bambino ed ai lati quattro figure di Santi, bassorilievo in terra cotta terminante a cuspide.",692,98.5,False,positional,,,oggetti vari,,
 BO0624_81800,104613,157,140,FiascA di rame sbalzato a foglie e mascheroni: ansa movibile.,698,88.5,False,positional,,,oggetti vari,,
-BO0624_81800,104614,158,141,MATRICE di sigillo in bronzo con stemma. Sec. XVIII.,703,96.1,False,positional,,,oggetti vari,,
+BO0624_81800,104614,158,141,MATRICE di sigillo in bronzo con stemma. Sec. XVIII.,703,96.1,False,positional,,,oggetti vari,,Sec. XVIII
 BO0624_81800,104615,159,142,PENDOLA francese a forma di lira con base di marmo bianco. Ricca ornamentazione di bronzo dorato con,705,65.8,False,positional,,,oggetti vari,,
 BO0624_81800,104616,160,143,"PAR EUX L'AMOUR L'ECLAIRE, incisione in rame al pointillie di Castel dal disegno di Fragonard a tutto margine; bella prova: cornice e cristallo.",710,98.6,False,positional,FRAGONARD JEAN-HONORE,,oggetti vari,,
 BO0624_81800,104617,161,144,"SoGGETTi di storia inglese, due incisioni in rame dagli originali di Westal: cornici e cristalli.",714,97.9,False,positional,Bartolozzi,,CORNICI,,
@@ -165,13 +165,13 @@ BO0624_81800,104619,163,146,"STipo a bambocci scolpito in noce e lumeggiato d'or
 BO0624_81800,104620,164,147,"CassA nuziale in noce scolpito a guide di foglie,",726,96.0,False,positional,,,Mobili,,
 BO0624_81800,104621,165,148,DuE SGABELLI di legno intagliato e dorato con piani di,731,96.4,False,positional,,,Mobili,,
 BO0624_81800,104622,166,149,DUE sGABELLI in noce a forma centinata.,735,95.0,False,positional,,,Mobili,,
-BO0624_81800,104623,167,2,Sec. XVIII.,736,90.0,False,positional,,,Mobili,,
+BO0624_81800,104623,167,2,Sec. XVIII.,736,90.0,False,positional,,,Mobili,,Sec. XVIII
 BO0624_81800,104624,168,3,15o. CREDENzA ad angolo in legno rosa riccamente guar-,737,98.1,False,positional,,,Mobili,,
 BO0624_81800,104625,169,4,nita di bronzi dorati. Piano di marmo.,738,97.3,False,positional,,,Mobili,,
 BO0624_81800,104626,170,151,"GRANDE POLTRONA in noce ad alta spalliera, targhe e braccioli riccamente scolpiti.",744,74.6,False,positional,,,POLTRONE,,
 BO0624_81800,104627,171,152,"OsTENsoRIo in rame alzato di piastra;la parte supead ornati incisi;nel centro del piede, all'ingiro figure riore e di forma rettangolare a traforo con coperchio di Santi in ismalto di Limoges.",749,70.2,False,positional,,,Bronzi,,
 BO0624_81800,104628,172,153,PiEDE d’ostensorio in rame con ornati incisi.,756,95.7,False,positional,,,Bronzi,,
-BO0624_81800,104629,173,154,DuE ANGIOLI di bronzo dorato e cesellato: basi pari- menti di bronzo. Sec. XVI.,757,78.1,False,positional,,,Bronzi,,
+BO0624_81800,104629,173,154,DuE ANGIOLI di bronzo dorato e cesellato: basi pari- menti di bronzo. Sec. XVI.,757,78.1,False,positional,,,Bronzi,,Sec. XVI
 BO0624_81800,104630,174,155,"FAuNO che suona i crotali ed il Kabulon, figura in bronzo del secolo xVI dall'originale esistente nel museo di Napoli. Base di africano. PIccOLO ORoLoGIO (cartel) in bronzo dorato ornato da drago e volute.",762,66.0,False,positional,,,Bronzi,,
 BO0624_81800,104631,175,3,"157. QUATTRO PICCOLE CARIATIDI in bronzo dorato rappresentanti le quattro stagioni, basi di porfido.",770,100.0,False,positional,,,Bronzi,,
 BO0624_81800,104632,176,158,BusTo di giovane donna con grande collare; pittura ad olio su tela; cornice dorata.,778,97.6,False,positional,Mirevelt,,,,
@@ -188,10 +188,10 @@ BO0624_81800,104642,186,168,MaRINA con pescatori; grazioso quadro dipinto a olio
 BO0624_81800,104643,187,169,SCENA PASTORALE. Finissima pittura ad olio su tela con,847,96.4,False,positional,,Scuola Francese,,,
 BO0624_81800,104644,188,2,cornice dorata.,848,93.3,False,positional,,Scuola Francese,,,
 BO0624_81800,104645,189,171,LA MORTE di Giulio Cesare; finissima pittura ad olio su tela con cornice di legno intagliata e dorata.,859,98.0,False,positional,Camuccini,,,,
-BO0624_81800,104646,190,172,"VENDITORE ambulante di liquori a Venezia. Quadro ad olio su tela, firmato e datato 1839.",865,69.1,False,positional,Vervolock,,,,
+BO0624_81800,104646,190,172,"VENDITORE ambulante di liquori a Venezia. Quadro ad olio su tela, firmato e datato 1839.",865,69.1,False,positional,Vervolock,,,,Sec. XIX
 BO0624_81800,104647,191,173,"RITRATTo di signora a mezzo busto, disegnato alla penna.",872,96.4,False,positional,Morelli,,,,
-BO0624_81800,104648,192,174,GIOvANETTA che legge. Pittura ad olio firmata e datata 1873. Cornice intagliata e dorata.,876,97.7,False,positional,Ponticelli,,,,
-BO0624_81800,104649,193,175,BAMBINO con animali su fondo di paese:quadro ad olio su tavola. Firmato e datato 1875.,882,97.7,False,positional,Ponticelli,,,,
+BO0624_81800,104648,192,174,GIOvANETTA che legge. Pittura ad olio firmata e datata 1873. Cornice intagliata e dorata.,876,97.7,False,positional,Ponticelli,,,,Sec. XIX
+BO0624_81800,104649,193,175,BAMBINO con animali su fondo di paese:quadro ad olio su tavola. Firmato e datato 1875.,882,97.7,False,positional,Ponticelli,,,,Sec. XIX
 BO0624_81800,104650,194,176,PIAzZA FRANCESE: scena di costumi napoletani:quadro ad olio su tavola. Cornice dorata.,888,97.6,False,positional,Migliaro,,,,
 BO0624_81800,104651,195,177,"TesTA di giovanetta, veduta di profilo. Bel disegno a",893,96.2,False,positional,Esposito,,,,
 BO0624_81800,104652,196,178,SOGGETTO DI GENERE. Quadro ad olio su tavola. Firmato.,898,87.8,False,positional,Rossi,,,,
@@ -219,7 +219,7 @@ BO0624_81800,104673,217,196,"a Otacilia.—MARCIA OTACIL. SEVERA AVG. Suo busto 
 BO0624_81800,104674,218,197,Federico II.—TARi.,1015,88.9,False,positional,,,Monete,,
 BO0624_81800,104675,219,198,"Senato Romano.  Grosso. Leone a s., sotto stella fra due leoncini affrontati. Rv. Donna coronata se-",1021,97.9,False,positional,,,Monete,,
 BO0624_81800,104676,220,199,LoTTo di otto monete medioevali.,1025,93.9,False,positional,,,Monete,,
-BO0624_81800,104677,221,200,Regno delle Due Sicilie. da mezza lira di Gioacchino Murat. 1813. 5 p. RIPRODUZIONE del Padovanino di un G. B. di Ca- Napoleone II.-,1032,68.4,False,positional,,,Monete,,
+BO0624_81800,104677,221,200,Regno delle Due Sicilie. da mezza lira di Gioacchino Murat. 1813. 5 p. RIPRODUZIONE del Padovanino di un G. B. di Ca- Napoleone II.-,1032,68.4,False,positional,,,Monete,,Sec. XIX
 BO0624_81800,104678,222,203,LoTTO di 34 monete varie.,1046,92.3,False,positional,,,Monete,,
 BO0624_81800,104679,223,204,"PIccoLA kALPIs, a tre anse, decorata in rosso: nel prospetto figura di donna e giovane ammantato,presso un cestello;il collo decorato ad ovoli.",1051,82.3,False,positional,,,Oggetti di scavo,,
 BO0624_81800,104680,224,205,ALTRA DETTA decorata da due figure di donna.,1056,95.6,False,positional,,,Oggetti di scavo,,
@@ -234,7 +234,7 @@ BO0624_81800,104688,232,213,"BACILE in maiolica primitiva,decorato da chimere in
 BO0624_81800,104689,233,2,verde e manganese. Due anse. Umbria.,1084,97.1,False,positional,,,Maioliche e porcellane,,
 BO0624_81800,104690,234,215,"ALBERELLO decorato nei colori primitivi di zaffera, verde ramino e giallo ferraccia,con disegno a zone verticali losanghe e fregi. Cafaggiolo.",1090,82.8,False,positional,,,Maioliche e porcellane,,
 BO0624_81800,104691,235,216,"BROCCHETTA a beccuccio ed ansa decorata da nastro con iscrizione A. D. TRA. PESTE, tra corni di abbondanza e delfini su fondo bleu;il tutto racchiuso da corona di lauro legata con nastro. Faenza. ALTRO DETTO decorato da uccello.",1092,91.3,False,positional,,Scuola Faentina,Maioliche e porcellane,,
-BO0624_81800,104692,236,217,"GRANDE PIATTO ovale con umbo centrale e quattro scomparti contornati da modanature e da mascheroni in rilievo. Nell'umbo e rappresentato Giuseppe riconosciuto dai fratelli e nei quattro scomparti soggetti rappresentanti gli elementi. Nel bordo grottesche e due cartouches coll'iscrizione URBINO. Nel rovescio grande stemma con una cicogna che tiene nel becco un serpe il gruppo di tre monti e sormontata da una stella. Stemma della famiglia Chigi. Urbino, secolo XVI Bottega d'Orazio Fontana.",1101,99.6,False,positional,,,SCOMPARTI,,
+BO0624_81800,104692,236,217,"GRANDE PIATTO ovale con umbo centrale e quattro scomparti contornati da modanature e da mascheroni in rilievo. Nell'umbo e rappresentato Giuseppe riconosciuto dai fratelli e nei quattro scomparti soggetti rappresentanti gli elementi. Nel bordo grottesche e due cartouches coll'iscrizione URBINO. Nel rovescio grande stemma con una cicogna che tiene nel becco un serpe il gruppo di tre monti e sormontata da una stella. Stemma della famiglia Chigi. Urbino, secolo XVI Bottega d'Orazio Fontana.",1101,99.6,False,positional,,,SCOMPARTI,,Sec. XVI
 BO0624_81800,104693,237,218,Vaso sferico in maiolica decorata a paesaggi. Urbino.,1107,96.2,False,positional,,,VASI,,
 BO0624_81800,104694,238,219,"GRANDE PIATTO a rilievo con mascheroni, delfini e gigli di colore giallo. Raro esemplare della fabbrica di Deruta.",1113,98.2,False,positional,,,Maioliche e porcellane,,
 BO0624_81800,104695,239,220,"BoMBOLA in maiolica intieramente decorata a ricchi fiorami, due medaglioni figuranti S. Caterina della ruota e figura di giovanetto. Faenza.",1119,86.2,False,positional,,Scuola Faentina,Maioliche e porcellane,,
@@ -261,7 +261,7 @@ BO0624_81800,104715,259,237,TazzA a due anse forate in porcellana decorata bleu.
 BO0624_81800,104716,260,238,CINQUE PANNELLI gotici intagliati a traforo.,1177,95.6,False,positional,,,Legni intagliati,,
 BO0624_81800,104717,261,239,"CANDELABRO triangolare in legno intagliato e dorato a teste di ariete, cariatidi, cartouches ed altri ornati. Secolo xv.",1178,98.3,False,positional,,,Legni intagliati,,
 BO0624_81800,104718,262,240,GRANDE E BELLA CORNICE in noce intagliato fina-,1182,95.8,False,positional,,,Legni intagliati,,
-BO0624_81800,104719,263,241,DuE ANGELI di legno scolpito in parte policromato ed in parte dorato;reggono due candelieri ridotti a luce elettrica. Ottima conservazione. Arte Umbra del XVI secolo.,1189,98.8,False,positional,,,Legni intagliati,,
+BO0624_81800,104719,263,241,DuE ANGELI di legno scolpito in parte policromato ed in parte dorato;reggono due candelieri ridotti a luce elettrica. Ottima conservazione. Arte Umbra del XVI secolo.,1189,98.8,False,positional,,,Legni intagliati,,Sec. XVI
 BO0624_81800,104720,264,242,"GRANDE CORNICE in noce intagliato,lumeggiata in oro a fuseruole. Ottima conservazione.",1193,97.7,False,positional,,,Legni intagliati,,
 BO0624_81800,104721,265,243,ToRCIERE di noce riccamente intagliato con zampe di,1196,96.2,False,positional,,,Legni intagliati,,
 BO0624_81800,104722,266,2,"leoni nel piedistallo; altri animali, teste di cherubini e festoni in tutto il fusto,e le armi dei Borghese. Restaurato.",1197,99.1,False,positional,,,Legni intagliati,,
@@ -327,11 +327,11 @@ BO0624_81800,104781,325,297,TovAGLIoLo in lino con decorazione a forcella recama
 BO0624_81800,104782,326,298,METRI quattordici di merletto a disegno gotico.,1499,95.8,False,positional,,,"Stoffe,Merletti e Tappeti",,
 BO0624_81800,104783,327,299,METRI nove e cent. settantacinque di merletto a car-,1504,96.2,False,positional,,,"Stoffe,Merletti e Tappeti",,
 BO0624_81800,104784,328,2,tiglia a disegno gotico.,1505,95.8,False,positional,,,"Stoffe,Merletti e Tappeti",,
-BO0624_81800,104785,329,302,LA CARITA;bel gruppo in terracotta originale di autore fiammingo. Sec. XVII.,1509,97.3,False,positional,,,Oggetti vari,,
+BO0624_81800,104785,329,302,LA CARITA;bel gruppo in terracotta originale di autore fiammingo. Sec. XVII.,1509,97.3,False,positional,,,Oggetti vari,,Sec. XVII
 BO0624_81800,104786,330,30,o. Fiocco in seta rossa ed oro. Arte araba del xV secolo.,1513,98.2,False,positional,,,Oggetti vari,,
 BO0624_81800,104787,331,3,o1. PANNEAU persiano recamato a grandi fiori stilizzati su fondo giallo.,1514,99.3,False,positional,,,Oggetti vari,,
 BO0624_81800,104788,332,303,CoPERTURA di libro in cuoio dorato a piccoli ferri con stemma e fermagli antichi. Secolo xVI.,1520,91.4,False,positional,,,Oggetti vari,,
-BO0624_81800,104789,333,304,STivALE in istagno con monogramma A.R. 1657. Arte tedesca.,1522,96.5,False,positional,,,Oggetti vari,,
+BO0624_81800,104789,333,304,STivALE in istagno con monogramma A.R. 1657. Arte tedesca.,1522,96.5,False,positional,,,Oggetti vari,,Sec. XVII
 BO0624_81800,104790,334,305,AsTuccio di cuoio impresso a piccoli ferri dorati con- tenente un necessaire per radersi. Epoca Luigi XVI.,1526,66.2,False,positional,,,Oggetti vari,,
 BO0624_81800,104791,335,306,"BocCALE di maiolica decorata a due colori;in perfetto stato di conservazione,eccetto il manico. Primitivo.",1532,98.1,False,positional,,,Maioliche e Porcellane,,
 BO0624_81800,104792,336,307,PIATTo in maiolica ad umbo e rilievo. Ispano Arabo. Secolo xV.,1533,96.7,False,positional,,,Maioliche e Porcellane,,
@@ -406,7 +406,7 @@ BO0624_81800,104860,404,368,ARIETE in marmo; importante scoltura di buona epoca 
 BO0624_81800,104861,405,369,"ERCOLE FANCIULLO,poggiato ad una clava sulla quale la pelle di leone;e mutilo della meta del braccio sinistro e del destro. Scavo.",1833,75.4,False,positional,,,OGGETTI VARI,,
 BO0624_81800,104862,406,370,BusTo di giovane auriga.Ha la testa leggiermente inclinata rivolta verso destra e porta una tracolla di marmo colorato; bella scultura greca in marmo di Paro. Attribuito a Policleto;qualche restauro.,1837,99.0,False,positional,,,Marmi,,
 BO0624_81800,104863,407,371,"SARCOFAGO in marmo greco; il prospetto intieramente scolpito a genii alati che reggono cestelli di frutta, rami di canna, uccelli e grappoli d'uva;i due di centro sostengono un medaglione circolare con busto di giovanetta ad alto rilievo;nel basso putti cavalcanti leoni e pantere, ed altri che si trastullano con cani. mportante scultura d'epoca romana.",1843,94.3,False,positional,,,Marmi,,
-BO0624_81800,104864,408,372,"LEoNE passante, in marmo su base rettangolare. Interessante scultura del Secolo XIV.",1853,97.6,False,positional,,,Marmi,,
+BO0624_81800,104864,408,372,"LEoNE passante, in marmo su base rettangolare. Interessante scultura del Secolo XIV.",1853,97.6,False,positional,,,Marmi,,Sec. XIV
 BO0624_81800,104865,409,373,"CAMINo in marmo formato da due cariatidi, uomo barbato e donna, che reggono ciascuno una targa. Il fregio e scolpito a palmette.",1857,83.6,False,positional,,,Marmi,,
 BO0624_81800,104866,410,374,"MENsoLA di marmo finemente scolpita a baccelli, ro sette e volute.",1861,83.8,False,positional,,,Marmi,,
 BO0624_81800,104867,411,375,"TesTA di Niobe scolpita in marmo, di grandezza na- turale, pieduccio.",1868,82.1,False,positional,,,Marmi,,
@@ -498,7 +498,7 @@ BO0624_81800,104952,496,455,"FioRl, vasellami e putti: due quadretti dipinti ad 
 BO0624_81800,104953,497,456,QuADRO a sesto ovale di accompagno ai precedenti.,2270,96.0,False,positional,Spadini L.,,,,
 BO0624_81800,104954,498,457,PAEsI con laghi: due graziosi quadri per sopraporte. Cornici dorate.,2274,97.0,False,positional,,Scuola Francese,CORNICI,,
 BO0624_81800,104955,499,458,INcENsiERE in bronzo a forma di cuspide con ornati a traforo. Campione di arte gotica.,2283,97.7,False,positional,,,Bronzi,,
-BO0624_81800,104956,500,459,S. GIOVANNI EVANGELISTA; figurina in bronzo dorato; base di legno dorato ed in parte dipinto. Secolo XVI.,2287,98.0,False,positional,,,Bronzi,,
+BO0624_81800,104956,500,459,S. GIOVANNI EVANGELISTA; figurina in bronzo dorato; base di legno dorato ed in parte dipinto. Secolo XVI.,2287,98.0,False,positional,,,Bronzi,,Sec. XVI
 BO0624_81800,104957,501,46,o. M.me Du BARRY; bustino in bronzo d’arte francese.,2291,98.0,False,positional,BARRY JAMES,,Bronzi,,
 BO0624_81800,104958,502,461,DuE APPLIQuEs in bronzo dorato a cinque bracci per candele. Luigi Filippo.,2293,97.3,False,positional,,,LAMPADE,,
 BO0624_81800,104959,503,462,CERvO FERITO;grazioso bronzo su base rettangolare,2294,96.1,False,positional,,,Bronzi,,
@@ -512,7 +512,7 @@ BO0624_81800,104966,510,3,468.Altro detto.,2327,93.8,False,positional,,,Mobili,,
 BO0624_81800,104967,511,469,BELLA PENDOLA ad occhio di bue in legno a VernisMartin decorata ad emblemi musicali;bronzi dorati e vaso alla sommita;mensola pure decorata a Vernis- Martin e bronzi. Movimento francese.,2328,88.4,False,positional,,,VASI,,
 BO0624_81800,104968,512,470,SPECcHIo da caminetto con ricca cornice di legno intagliato e pastiglia a teste di serafini ed altri ornati.,2333,98.2,False,positional,,,Mobili,,
 BO0624_81800,104969,513,471,PICCOLO TAvOLO di legno intagliato e dorato; piano incassato di bardiglio.,2339,78.4,False,positional,,,Mobili,,
-BO0624_81800,104970,514,472,CuCCHIAIO e forchetta di argento. Venezia. Secolo XVI.,2345,84.2,False,positional,,,Argenti,,
+BO0624_81800,104970,514,472,CuCCHIAIO e forchetta di argento. Venezia. Secolo XVI.,2345,84.2,False,positional,,,Argenti,,Sec. XVI
 BO0624_81800,104971,515,473,PiccoLA aiguiere e piatto di argento con figure e frutti sbalzati e cesellati.,2347,97.5,False,positional,,,Argenti,,
 BO0624_81800,104972,516,474,PIccOLA MucCA in argento con occhi di smalto.,2351,95.7,False,positional,,,Argenti,,
 BO0624_81800,104973,517,2,Lavoro olandese.,2352,93.8,False,positional,,,Argenti,,
@@ -575,7 +575,7 @@ BO0624_81800,105029,573,528,BAssoRILIEvo circolare in marmo rappresentante la Fl
 BO0624_81800,105030,574,529,BusTo in marmo del Cardinal Peretti (Sisto V):bella scultura in marmo contemporanea al personaggio.,2588,65.8,False,positional,,,Marmi,,
 BO0624_81800,105031,575,530,RITRATTO di cardinale dellordine dei frati Busto di,2593,96.2,False,positional,,,Marmi,,
 BO0624_81800,105032,576,2,accompagno al precedente.,2594,96.0,False,positional,,,Marmi,,
-BO0624_81800,105033,577,530,"MEDAGLIONE ovale scolpito a bassorilievo,rappresentante la Torre di Babele. Fine del secolo XV.",2598,97.9,False,positional,,,Marmi,,
+BO0624_81800,105033,577,530,"MEDAGLIONE ovale scolpito a bassorilievo,rappresentante la Torre di Babele. Fine del secolo XV.",2598,97.9,False,positional,,,Marmi,,Sec. XV
 BO0624_81800,105034,578,531,"SETTE piccoli boccali variati, in majolica primitiva.",2602,96.2,False,positional,,,Maioliche e porcellane,,
 BO0624_81800,105035,579,532,"BocCALE in antica majolica, decorazione a colori con disegni primitivi a fiori ed uccello. Umbria.",2603,68.0,False,positional,,,Maioliche e porcellane,,
 BO0624_81800,105036,580,533,ALTRO simile decorato a testa di santo.,2605,95.0,False,positional,,,Maioliche e porcellane,,
@@ -605,7 +605,7 @@ BO0624_81800,105059,603,55,"BoL decorata a fiori policromi. Porcellana della Cin
 BO0624_81800,105060,604,556,"GRANDE vetrina da centro a due scomparti,con sportelli levatoi, riccamente scolpita e intagliata in noce con piedi a forma di grifi,e tramezzo centrale pure intagliato. I piedi sono lavoro del Secolo VIll.",2671,99.0,False,title_direct,Morelli,,SCOMPARTI,,
 BO0624_81800,105061,605,557,"GRANDE e bell' armadio inglese a specchio, in mogano riccamente intarsiato a fini ornati e stemmi di legno angiolino, con cimasa intagliata.",2675,82.4,False,positional,,,Mobili,,
 BO0624_81800,105062,606,558,"PiccoLA tavola da the a due piani, di forma ovale, in noce. Luigi xVI.",2682,81.4,False,positional,,,Mobili,,
-BO0624_81800,105063,607,559,"CoFANETTo di noce con coperchio, nel prospetto stemma e mascheroni intarsiati. Secolo XVI.",2684,97.8,False,positional,,,Mobili,,
+BO0624_81800,105063,607,559,"CoFANETTo di noce con coperchio, nel prospetto stemma e mascheroni intarsiati. Secolo XVI.",2684,97.8,False,positional,,,Mobili,,Sec. XVI
 BO0624_81800,105064,608,56,"o. SEGGloLA Savonarola in noce lustro a nero,intarsiata in avorio.",2688,98.5,False,positional,,,Mobili,,
 BO0624_81800,105065,609,561,"SEGGIoLA Savonarola in noce, intarsiata d'avorio.",2689,95.9,False,positional,,,Mobili,,
 BO0624_81800,105066,610,562,PANNELLO a cuspide dipinto alla tempera su fondo d'oro rapp. la flagellazione di Nostro Signore. Secolo xV.,2695,98.1,False,positional,,Scuola Umbra,,,
@@ -629,7 +629,7 @@ BO0624_81800,105083,627,578,GlovANETTA in preghiera. Acquarello in passe-par- to
 BO0624_81800,105084,628,579,"STuDIo ad olio di una testa di vecchio barbato per il quadro che trovasi in Galleria d'Arte Moderna, intitolato:《Ventre e cuore 》.",2816,98.4,False,positional,Patini,,,,
 BO0624_81800,105085,629,58,o. L'NDovINo;interessante bozzetto dipinto ad olio su tela. Cornice dorata.,2820,98.6,False,positional,Patini,,,,
 BO0624_81800,105086,630,581,FiGURA di suonatore; interessante studio a penna per il quadro del 《 Corpus Domini 》.Dedica autografa. Cornice e cristallo.,2824,98.3,False,positional,Michetti,,,,
-BO0624_81800,105087,631,582,ACQUARELLO rappresentante una scena di villaggio. Firmato e datato 1876.,2833,97.2,False,positional,Roskilly,,,,
+BO0624_81800,105087,631,582,ACQUARELLO rappresentante una scena di villaggio. Firmato e datato 1876.,2833,97.2,False,positional,Roskilly,,,,Sec. XIX
 BO0624_81800,105088,632,583,AUTUNNO. Bellissimo pastello originale di questo ri- cercato artista. Cornice a sbalzo lustra ad ebano. m.0.38x0.70,2838,70.5,False,positional,Casciaro,,,,
 BO0624_81800,105089,633,584,PALAzzO DoNN'ANNA con pescatori di vongole; ma-,2842,95.7,False,positional,Pratella,,,,
 BO0624_81800,105090,634,58,s. INCENsIERE in argento a forma architettonica.,2850,97.9,False,positional,,,Argenti,,
@@ -654,8 +654,8 @@ BO0624_81800,105108,652,603,BoRDuRA e cappuccio di Piviale in amoerro celeste co
 BO0624_81800,105109,653,604,DuE TELl di stoffa broccata a fiori su fondo bianco. Luigi xV.,2906,96.8,False,positional,,Periodo di Luigi XV,Stoffe,,
 BO0624_81800,105110,654,6,o5. ScAToLA di forma centinata in cristallo di rocca con ritratto di dama inciso alla ruota sul coperchio ed ornati sul bordo. Montatura in oro. Astuccio in pelle.,2910,99.7,False,positional,,,Oggetti vari,,
 BO0624_81800,105111,655,6,o6. ALESSANDRO VIll. Medaglia di bronzo dorato. Dr.Il busto del Pontefice volto a destra con mitra e cappa. Iscrizione: Alexander VIII Pont. Oti. Max. Rome. Ro. La lavanda degli Apostoli e liscriz.: Tu Dom.,2912,99.7,False,positional,,,Oggetti vari,,
-BO0624_81800,105112,656,6,"o7. Livio (T.). Le Deche delle historie romane. Tradotte nella lingua toscana da M.Jacopo Nardi. Venetia. Giunti 1554, in fol. —Vi sono aggiunte in fine due carte di Roma perg.",2917,99.7,False,positional,,,Oggetti vari,,
-BO0624_81800,105113,657,6,"o8. DANTE con 1'espositione di Christoforo Landino et di Alessandro Vellutello. Con tavole, argomenti, ecc. per Fr. Sansovino. Venetia, G. B. Marchio Sessa e F.lli 1544, in-fol. con molte incisioni in legno. Leg. orig. in pelle a fregi impressi.",2918,99.8,False,title_direct,Esposito,,STAMPE E INCISIONI,,
+BO0624_81800,105112,656,6,"o7. Livio (T.). Le Deche delle historie romane. Tradotte nella lingua toscana da M.Jacopo Nardi. Venetia. Giunti 1554, in fol. —Vi sono aggiunte in fine due carte di Roma perg.",2917,99.7,False,positional,,,Oggetti vari,,Sec. XVI
+BO0624_81800,105113,657,6,"o8. DANTE con 1'espositione di Christoforo Landino et di Alessandro Vellutello. Con tavole, argomenti, ecc. per Fr. Sansovino. Venetia, G. B. Marchio Sessa e F.lli 1544, in-fol. con molte incisioni in legno. Leg. orig. in pelle a fregi impressi.",2918,99.8,False,title_direct,Esposito,,STAMPE E INCISIONI,,Sec. XVI
 BO0624_81800,105114,658,609,PICcOLO MODELLO di poltrona a braccioli in legno dorato.,2919,96.5,False,positional,,,Oggetti vari,,
 BO0624_81800,105115,659,61,o. CANNA DA PAsSEGGIO in tartaruga con pomo a ornati incrostati in oro. Luigi xV.,2925,98.7,False,positional,,Periodo di Luigi XV,Oggetti vari,,
 BO0624_81800,105116,660,611,VILLAGGIO a fondo boscoso e veduta di chiesa con campanile nel quale e collocato un orologio a suoneria ad ore e quarti Bella pittura su tavola del secolo xvill. Cornice dorata.,2926,98.9,False,positional,,,Oggetti vari,,
@@ -765,7 +765,7 @@ BO0624_81800,105219,763,704,PACE di bronzo; nel centro la pieta; cornice con cim
 BO0624_81800,105220,764,705,PACE di bronzo;rappresentante la pieta; cornice a,3257,96.0,False,positional,,,Bronzi,,
 BO0624_81800,105221,765,706,FIGURA di soldato cinese in bronzo in ricca armatura; ha le mani giunte. Probabilmente faceva parte di un grande gruppo.,3262,98.3,False,positional,,,Bronzi,,
 BO0624_81800,105222,766,707,TRE MENsOLE formate da bassorilievi in legno scolpito ad arabeschi.,3268,97.1,False,positional,,,Legni intagliati,,
-BO0624_81800,105223,767,2,7o8. CoRNIcE a cassetta con ornati in oro su fondo bleu. Cimasa a volute lumeggiata in oro. Secolo XVI.,3269,99.0,False,positional,,,Legni intagliati,,
+BO0624_81800,105223,767,2,7o8. CoRNIcE a cassetta con ornati in oro su fondo bleu. Cimasa a volute lumeggiata in oro. Secolo XVI.,3269,99.0,False,positional,,,Legni intagliati,,Sec. XVI
 BO0624_81800,105224,768,709,MENsOLA in noce sorretta da teste d’angioli.,3270,95.6,False,positional,,,Legni intagliati,,
 BO0624_81800,105225,769,2,71o. DuE piccole antiche mensole in cedro disegnate a fuoco,3271,98.3,False,positional,,,Legni intagliati,,
 BO0624_81800,105226,770,3,con maniglie di ferro battuto.,3272,96.7,False,positional,,,Legni intagliati,,
@@ -837,7 +837,7 @@ BO0624_81800,105291,835,770,SOGGETTO ALLEGORICO. Pittura ad olio su tavola di ro
 BO0624_81800,105292,836,771,FrUTTA ed uccelli: quadro ad olio su tela con cornice dorata.,3498,96.7,False,positional,,Scuola Veneziana,,,
 BO0624_81800,105293,837,772,ALTRO detto con cornice dorata a disegno variato.,3499,96.0,False,positional,,Scuola Veneziana,,,
 BO0624_81800,105294,838,773,RITRATTO di giovane cacciatore con cane. Pittura ad olio su tela.,3505,96.9,False,positional,Reynolds,,,,
-BO0624_81800,105295,839,774,I CIPREss di Michelangelo alle Terme Diocleziane. Pittura ad olio su tela.Firmato e datato 1849.Cornice di pastiglia dorata.,3509,98.4,False,positional,Franceschini,,,,
+BO0624_81800,105295,839,774,I CIPREss di Michelangelo alle Terme Diocleziane. Pittura ad olio su tela.Firmato e datato 1849.Cornice di pastiglia dorata.,3509,98.4,False,positional,Franceschini,,,,Sec. XIX
 BO0624_81800,105296,840,775,Lo sCOLARO; bellissimo bozzetto ad olio su tela con dedica autografa. Cornice dorata.,3513,97.6,False,positional,Signorini T.,,,,
 BO0624_81800,105297,841,776,"INTERESSANTE COPIA ad olio dal quadro di Tiziano, rappresentante il Martirio di S. Paolo. L'originale rimase distrutto nell'incendio a Venezia. Cornice.",3517,82.0,False,positional,Fawretto,,,,
 BO0624_81800,105298,842,777,MARINA; dipinto su cartone. Cornice in legno natu- rale lumeggiato d'oro.,3529,78.3,False,positional,Aivesocki,,,,
@@ -846,7 +846,7 @@ BO0624_81800,105300,844,779,"SoGNANDo! bel bozzo originale ad olio su tela, aute
 BO0624_81800,105301,845,78,o. SruDio di fogliame;quadro dipinto a olio. Cornice intagliata ed in parte dorata.,3547,98.8,False,positional,Palizzi,,,,
 BO0624_81800,105302,846,781,PAEsAGGlO alpestre; quadretto su tela con cornice dorata.,3555,96.5,False,positional,Pittloo,,,,
 BO0624_81800,105303,847,782,PICCOLA CANDELIERA di marmo finemente intagliata,3559,96.0,False,positional,,,Marmi,,
-BO0624_81800,105304,848,783,FIGURINA di angelo che prega. Secolo XV.,3566,95.0,False,positional,,,Marmi,,
+BO0624_81800,105304,848,783,FIGURINA di angelo che prega. Secolo XV.,3566,95.0,False,positional,,,Marmi,,Sec. XV
 BO0624_81800,105305,849,784,GRANDE CAPITELLO da pilastro in marmo decorato da chimera di leone posata sopra foglie di acanto. Secolo xVI.,3568,69.9,False,positional,,,Marmi,,
 BO0624_81800,105306,850,785,PICCOLO BUSTO DELLA VERGINE. Fine Scultura in marmo su pieduccio. Secolo xVI.,3572,97.4,False,positional,,,Marmi,,
 BO0624_81800,105307,851,786,VAsCHETTA di africano a forma ovale con piede bac- cellato: base di verde antico e nero.,3573,71.0,False,positional,,,Marmi,,
@@ -934,12 +934,12 @@ BO0624_81800,105388,932,864,DuE CoPPE in porcellana decorate bleu. Cina.,3830,95
 BO0624_81800,105389,933,865,GRANDE BOL in porcellana a smalto bleu fonce. Cina (felée).,3834,90.7,False,positional,,,Maioliche e porcellane,,
 BO0624_81800,105390,934,866,"PICCOLA BOTTIGLIA in porcellana craquelee, decorata a fiori ed uccelli su fondo celeste; due piccole anse ed ornati in rilievo. Cina.",3836,98.5,False,positional,,,Maioliche e porcellane,,
 BO0624_81800,105391,935,867,LA STRAGE DEGLINNOCENTI; pittura Su tavola con cornice a pastiglia dorata. Secolo xV.,3842,91.1,False,positional,,Scuola Fiorentina,,,
-BO0624_81800,105392,936,868,"IL PREsEPE, quadretto a olio su tavola. Secolo XVI.",3853,96.0,False,positional,,Scuola Veneziana,,,
+BO0624_81800,105392,936,868,"IL PREsEPE, quadretto a olio su tavola. Secolo XVI.",3853,96.0,False,positional,,Scuola Veneziana,,,Sec. XVI
 BO0624_81800,105393,937,869,IL CRisTo che porta la croce; pittura ad olio su ta-,3857,96.2,False,positional,,Scuola Fiorentina,,,
 BO0624_81800,105394,938,2,vola; cornice intagliata e dorata.,3858,97.0,False,positional,,Scuola Fiorentina,,,
 BO0624_81800,105395,939,87,"o. ERBAGCI, frutta e fiori. Due quadretti dipinti ad olio su tela a sesto di sopra porte. Cornici alla Salvator",3862,99.1,False,positional,,Scuola famminga,CORNICI,,
 BO0624_81800,105396,940,871,NATURA MORTA;quadro dipinto ad olio su tela.,3870,95.6,False,positional,,Scuola famminga,,,
-BO0624_81800,105397,941,872,DuE PANNELLI su tavola rappresentanti il Presepe con iRe Magi e la Cena degli Apostoli. Secolo XVII.,3876,98.0,False,positional,,Scuola Veneziana,PANNELLI,,
+BO0624_81800,105397,941,872,DuE PANNELLI su tavola rappresentanti il Presepe con iRe Magi e la Cena degli Apostoli. Secolo XVII.,3876,98.0,False,positional,,Scuola Veneziana,PANNELLI,,Sec. XVII
 BO0624_81800,105398,942,873,ARCHITTETURA fantasiosa con figure; pittura ad olio su tela in cornice dorata.,3882,97.4,False,positional,Pannini,,,,
 BO0624_81800,105399,943,874,SOGGETTO ALLEGORICO rappresentato da un putto che regge una pianta di fragole. Cornice dorata.,3886,97.9,False,positional,,Scuola Bolognese,,,
 BO0624_81800,105400,944,875,LE CAsCATELLE di Tivoli; quadro ad olio su tela; PiccioNi: quadro ad olio su tela. Cornice dorata.,3902,65.7,False,positional,ROOS PHILIPP PETER,Scuola fiamminga,,,
@@ -949,8 +949,8 @@ BO0624_81800,105403,947,878,PAESAGGIO NEvOsO; fine pittura ad olio su tavola; fi
 BO0624_81800,105404,948,879,DIANA ED ENDIMiONE; bel quadro ad olio su tela. Cornice dorata.,3925,96.8,False,positional,,Scuola Francese,,,
 BO0624_81800,105405,949,88,o. RITRATTO di Maria de Medici; pittura ad olio su tela.,3931,98.1,False,positional,,Scuola Francese,,,
 BO0624_81800,105406,950,882,PuTTo che scherza con dei gattini. Quadro ad olio su tela. Cornice dorata.,3936,97.3,False,positional,,Scuola Francese,,,
-BO0624_81800,105407,951,883,LEGGIo da coro in noce:piano di cuoio. Secolo XVI. RITRATTo di giovane donna a pastello. Epoca Luigi xV.,3946,67.1,False,positional,,Scuola Francese,,,
-BO0624_81800,105408,952,884,PiccOLA cONsOLE a mensola in radica di mogano. Secolo XVIII.,3954,84.1,False,positional,,Scuola Francese,,,
+BO0624_81800,105407,951,883,LEGGIo da coro in noce:piano di cuoio. Secolo XVI. RITRATTo di giovane donna a pastello. Epoca Luigi xV.,3946,67.1,False,positional,,Scuola Francese,,,Sec. XVI
+BO0624_81800,105408,952,884,PiccOLA cONsOLE a mensola in radica di mogano. Secolo XVIII.,3954,84.1,False,positional,,Scuola Francese,,,Sec. XVIII
 BO0624_81800,105409,953,885,ALTRA DETTA,3956,84.6,False,positional,,Scuola Francese,,,
 BO0624_81800,105410,954,4,886.CoFANETTO di legno intagliato e dorato con decorazioni in pastiglia.,3957,98.6,False,positional,,Scuola Francese,,,
 BO0624_81800,105411,955,9,"887. URNA a cristalli, in legno dorato e dipinto a chiaroscuro, con ornati di teste di angioli ai quattro angoli e festoni e cesto di fiori nella sommita.",3960,100.0,False,positional,,Scuola Francese,,,
@@ -972,12 +972,12 @@ BO0624_81800,105426,970,899,PoRTA BIJoux in bronzo a forma di putto che sostiene
 BO0624_81800,105427,971,5,una coppa.Impero.,3988,94.1,False,positional,,,Bronzi,,
 BO0624_81800,105428,972,6,goo. VAso in bronzo patinato.Impero.,3989,97.1,False,positional,,,VASI,,
 BO0624_81800,105429,973,7,Luigi Filippo.,3990,92.9,False,positional,,,Bronzi,,
-BO0624_81800,105430,974,8,Secolo XVII.,3991,91.7,False,positional,,,Bronzi,,
+BO0624_81800,105430,974,8,Secolo XVII.,3991,91.7,False,positional,,,Bronzi,,Sec. XVII
 BO0624_81800,105431,975,9,simi ornati ageminati in oro.,3992,96.6,False,positional,,,Bronzi,,
 BO0624_81800,105432,976,9,o1. DuE porta gioie in bronzo con basi in nero di Svezia.,3996,99.1,False,positional,,,Bronzi,,
 BO0624_81800,105433,977,902,LANDIER in ferro battuto decorato a fiori e due parafuochi d'accompagno.,4000,97.3,False,positional,,,Ferri,,
 BO0624_81800,105434,978,903,PICCOLA GRATA in ferro su base di bigio.,4001,95.1,False,positional,,,Ferri,,
-BO0624_81800,105435,979,904,"IMPORTANTE MAZZA FERRATA a sette ali ad ornati e delfini a traforo,con contorni graffiti ed ageminati in oro: anche la canna ha traccie d'oro. Secolo XVI.",4006,80.8,False,positional,,,Ferri,,
+BO0624_81800,105435,979,904,"IMPORTANTE MAZZA FERRATA a sette ali ad ornati e delfini a traforo,con contorni graffiti ed ageminati in oro: anche la canna ha traccie d'oro. Secolo XVI.",4006,80.8,False,positional,,,Ferri,,Sec. XVI
 BO0624_81800,105436,980,905,BRAcCIo in ferro battuto terminante a ramo fiorito.,4010,96.2,False,positional,,,OGGETTI VARI,,
 BO0624_81800,105437,981,906,DuE bracciali e cosciale d’armatura persiana a finis-,4014,96.3,False,positional,,,Ferri,,
 BO0624_81800,105438,982,907,CoFANETTO in legno con coperchio a doppio piovente decorato in pastiglia a disegni geometrici puntinati e e policromati.,4018,73.0,False,positional,,,Legni intagliati,,
@@ -985,7 +985,7 @@ BO0624_81800,105439,983,908,FRAMMENTo di antica cassa in legno di cedro del seco
 BO0624_81800,105440,984,909,LA VERGINE in piedi che ha sulle braccia il Bambino. Fine scultura in bosso. Secolo xv.,4023,73.4,False,positional,,,Legni intagliati,,
 BO0624_81800,105441,985,910,"CoRNICE a tabernacolo in legno intagliato, in parte dorato ed in parte policromato; nel basso stemmi. Secolo xVI.",4028,98.2,False,positional,,,Legni intagliati,,
 BO0624_81800,105442,986,911,DUE CORNICINE di legno intagliato e dorato. Luigi xV.,4032,96.2,False,positional,,Periodo di Luigi XV,Legni intagliati,,
-BO0624_81800,105443,987,912,LA VERGINE inginocchiata. Scultura in legno. Secolo XVI.,4036,96.4,False,positional,,,Legni intagliati,,
+BO0624_81800,105443,987,912,LA VERGINE inginocchiata. Scultura in legno. Secolo XVI.,4036,96.4,False,positional,,,Legni intagliati,,Sec. XVI
 BO0624_81800,105444,988,913,MENsOLA in legno intagliato a foglie e testa d’angelo.,4040,96.4,False,positional,,,Legni intagliati,,
 BO0624_81800,105445,989,914,TRE RIDEAux in velluto rosso antico e frange ed uno di damasco; tavolette.,4044,97.3,False,positional,,,BIANCHERIA,,
 BO0624_81800,105446,990,915,TAPPETINO di broccato a grandi fiori rossi in fondo,4045,96.2,False,positional,,,Stoffe,,
@@ -1004,56 +1004,56 @@ BO0624_81800,105458,1002,925,"CINQUE FIGURE a colori del Sammartino in legno sco
 BO0624_81800,105459,1003,925,CoPERTURA DI LIBRO in cuoio impresSo a stemma ed ornati; nel piatto superiore la Crocifissione;traccie di doratura. #. QuANTITA DI BASETTE in velluto ed antichi astucci.,4081,80.7,False,positional,Bibbiena A.,,,,
 BO0624_81800,105460,1004,926,"ALFIERl V.). Opere varie e filosofiche politiche in prosa e in versi. Nantes, Anno XI,1 vol. in-8 m. pelle.",4092,98.0,False,positional,,,Libri,,
 BO0624_81800,105461,1005,927,"ALIGHIERI (D.). La Divina Commedia con note di Paolo Costa.—Napoli,183o,3 tomi in 2 vol. in-24.",4093,68.6,False,positional,,,Libri,,
-BO0624_81800,105462,1006,928,"ARALDICA.I Sovrani del Mondo. Venezia,Coleti 1729, 4 vol. in-16 con stemmi perg.",4095,69.9,False,positional,,,Libri,,
+BO0624_81800,105462,1006,928,"ARALDICA.I Sovrani del Mondo. Venezia,Coleti 1729, 4 vol. in-16 con stemmi perg.",4095,69.9,False,positional,,,Libri,,Sec. XVIII
 BO0624_81800,105463,1007,929,"ALFIERI (V.). Vita scritta da se stesso.Londra 18o6, 1 vol.in-8 m.pelle.",4097,80.3,False,positional,,,Libri,,
-BO0624_81800,105464,1008,930,"ARIOSTO (L.). Orlando Furioso. Venezia,1772, presso A. Zatta. 4. vol. in-4 con num. tav. m.perg,",4099,97.6,False,positional,,,Libri,,
+BO0624_81800,105464,1008,930,"ARIOSTO (L.). Orlando Furioso. Venezia,1772, presso A. Zatta. 4. vol. in-4 con num. tav. m.perg,",4099,97.6,False,positional,,,Libri,,Sec. XVIII
 BO0624_81800,105465,1009,9,"931.Art.(L'). Revue hebdomadaire illustree.—Paris, Rouen J. annee 18811889, 13 vol.in fol.con illustr. intercalate nel testo e tavole incise all'acquaforte m.tela.",4100,99.4,False,positional,,,ACQUEFORTI,,
-BO0624_81800,105466,1010,932,"BARTOLOMEO DA S. CONCORDIO. Ammaestramenti degli antichi volgarizzati.— Napoli,1822,1 volume in-8 perg.",4101,98.0,False,positional,,,Libri,,
+BO0624_81800,105466,1010,932,"BARTOLOMEO DA S. CONCORDIO. Ammaestramenti degli antichi volgarizzati.— Napoli,1822,1 volume in-8 perg.",4101,98.0,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105467,1011,933,"BERTIN (T. P.. Encyclopedie comique ou Recueil anglais de gaietes. ecc. Seconde édition. Paris Anno XI chez Favre. Belle illustrazioni, 3 vol. in-8 intonsi m. perg,",4102,93.5,False,positional,,,Libri,,
-BO0624_81800,105468,1012,934,"BloN (N.). Traite de la construction et des principaux usages des instruments de mathematique.— Paris, 1752, in-4 con ritr. e tav. illustr, bazana.",4104,98.5,False,positional,,,Libri,,
-BO0624_81800,105469,1013,935,"Bisso (G. B.). Introduzione alla volgare poesia. Napoli, 1818,1 vol. in-8 perg.",4105,97.2,False,positional,,,Libri,,
+BO0624_81800,105468,1012,934,"BloN (N.). Traite de la construction et des principaux usages des instruments de mathematique.— Paris, 1752, in-4 con ritr. e tav. illustr, bazana.",4104,98.5,False,positional,,,Libri,,Sec. XVIII
+BO0624_81800,105469,1013,935,"Bisso (G. B.). Introduzione alla volgare poesia. Napoli, 1818,1 vol. in-8 perg.",4105,97.2,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105470,1014,936,"BORGANDIA (ANT. A.). Mundi lapis Ludius sive vanitas per vanitatem falsi accusata et convicta.— Antuerpiae s. d., in-4 con numerose inc. in rame, manca il front. ed una carta alla pref.",4106,89.6,False,positional,,,Libri,,
-BO0624_81800,105471,1015,937,"BossI (L.). Storia d' Italia. Milano, 1819, 19 vol. in-16 fig. m. pelle.",4108,96.8,False,positional,,,Libri,,
-BO0624_81800,105472,1016,938,"BRUNET (J. C.). Manuel du Libraire et de 1amateur des livres.— Bruxelles,1821,4 vol.in-8, su pelle.",4109,97.8,False,positional,,,Libri,,
-BO0624_81800,105473,1017,939,"CAMILLI (C.). Imprese illustri e diversi discorsi. Figure in rame di Girolamo Polto Padovano. —Venezia, 1856, 1 vol. in-8 perg.",4110,98.3,False,positional,,,Libri,,
-BO0624_81800,105474,1018,10,"940.Charivari (le).Annee 1866-1871-1872-1873.—6vol. in-fol. due dei quali legati in m. pelle, gli altri in m. perg.",4111,98.6,False,positional,,,Libri,,
-BO0624_81800,105475,1019,941,"Chasse (la) illustre. Sixieme annee. ——1 Paris,1873,",4112,95.7,False,positional,,,Libri,,
+BO0624_81800,105471,1015,937,"BossI (L.). Storia d' Italia. Milano, 1819, 19 vol. in-16 fig. m. pelle.",4108,96.8,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105472,1016,938,"BRUNET (J. C.). Manuel du Libraire et de 1amateur des livres.— Bruxelles,1821,4 vol.in-8, su pelle.",4109,97.8,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105473,1017,939,"CAMILLI (C.). Imprese illustri e diversi discorsi. Figure in rame di Girolamo Polto Padovano. —Venezia, 1856, 1 vol. in-8 perg.",4110,98.3,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105474,1018,10,"940.Charivari (le).Annee 1866-1871-1872-1873.—6vol. in-fol. due dei quali legati in m. pelle, gli altri in m. perg.",4111,98.6,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105475,1019,941,"Chasse (la) illustre. Sixieme annee. ——1 Paris,1873,",4112,95.7,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105476,1020,12,I vol. in fol. fig.,4113,91.4,False,positional,,,Libri,,
 BO0624_81800,105477,1021,13,"degna.—Torino, 186o, in 32 m. pelle.",4114,95.4,False,positional,,,Libri,,
-BO0624_81800,105478,1022,943,Compendio della vita e delle gesta di Giuseppe Balsamo denominato il Conte Cagliostro che si e estratto dal processo contro di lui formato in Roma l'anno 179o. Roma 1791. Nella Stamperia della Camera Apostolica. con dorature a piccoli ferri e taglio dorato.,4115,99.2,False,positional,,,Libri,,
-BO0624_81800,105479,1023,944,"COURT DE GEBELIN. Monde primitif. — Paris, 1777, I vol.in-4 con tav. perg.",4116,97.1,False,positional,DEBUCOURT P.L.,,Libri,,
-BO0624_81800,105480,1024,945,"CUPPARI (PIETRO). Lezioni di Agricoltura. Firenze,1882,2 vol.in-8.",4117,96.8,False,positional,,,Libri,,
-BO0624_81800,105481,1025,946,"DALBONO(CARLO).Tradizioni popolari —Napoli, 1841, I vol. in-8 m.pelle.",4118,97.0,False,positional,,,Libri,,
-BO0624_81800,105482,1026,5,"947.DE BERQUIN. Oeuvres.—Paris, 1844, 4 vol. in-8 con",4119,98.0,False,positional,,,Libri,,
+BO0624_81800,105478,1022,943,Compendio della vita e delle gesta di Giuseppe Balsamo denominato il Conte Cagliostro che si e estratto dal processo contro di lui formato in Roma l'anno 179o. Roma 1791. Nella Stamperia della Camera Apostolica. con dorature a piccoli ferri e taglio dorato.,4115,99.2,False,positional,,,Libri,,Sec. XVIII
+BO0624_81800,105479,1023,944,"COURT DE GEBELIN. Monde primitif. — Paris, 1777, I vol.in-4 con tav. perg.",4116,97.1,False,positional,DEBUCOURT P.L.,,Libri,,Sec. XVIII
+BO0624_81800,105480,1024,945,"CUPPARI (PIETRO). Lezioni di Agricoltura. Firenze,1882,2 vol.in-8.",4117,96.8,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105481,1025,946,"DALBONO(CARLO).Tradizioni popolari —Napoli, 1841, I vol. in-8 m.pelle.",4118,97.0,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105482,1026,5,"947.DE BERQUIN. Oeuvres.—Paris, 1844, 4 vol. in-8 con",4119,98.0,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105483,1027,6,illustr. tela.,4120,92.3,False,positional,,,Libri,,
-BO0624_81800,105484,1028,948,"DuCHESNE. Museo di pittura e scultura. Vol. 3 Firenze, 1838, 1 vol. in8 con num. illustr. m.pelle.",4122,68.6,False,positional,,,Libri,,
-BO0624_81800,105485,1029,949,"DECLAUSTRE (AB.). Dizionario mitologico. Na- poli, 1834, 3 vol. in-8 fig. m. pelle.",4123,67.3,False,positional,,,Libri,,
-BO0624_81800,105486,1030,950,"DE CosMI (G. A.). Fiore di virtu ridotto alla sua vera versione.—Palermo,1814,1 vol.in-8 m.tela.",4125,69.0,False,positional,,,Libri,,
-BO0624_81800,105487,1031,951,"Descrizione dei funerali di Re Carlo Ill di Napoli. Napoli, 1789, 1 vol. in-4 con num. illustr. perg.",4127,97.9,False,positional,,,Libri,,
-BO0624_81800,105488,1032,952,"DuMAs (ALESSANDRO). I Borboni di Napoli. .一 poli,1862,4 vol. in-8 m.pelle, Na-",4128,95.0,False,positional,,,Libri,,
+BO0624_81800,105484,1028,948,"DuCHESNE. Museo di pittura e scultura. Vol. 3 Firenze, 1838, 1 vol. in8 con num. illustr. m.pelle.",4122,68.6,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105485,1029,949,"DECLAUSTRE (AB.). Dizionario mitologico. Na- poli, 1834, 3 vol. in-8 fig. m. pelle.",4123,67.3,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105486,1030,950,"DE CosMI (G. A.). Fiore di virtu ridotto alla sua vera versione.—Palermo,1814,1 vol.in-8 m.tela.",4125,69.0,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105487,1031,951,"Descrizione dei funerali di Re Carlo Ill di Napoli. Napoli, 1789, 1 vol. in-4 con num. illustr. perg.",4127,97.9,False,positional,,,Libri,,Sec. XVIII
+BO0624_81800,105488,1032,952,"DuMAs (ALESSANDRO). I Borboni di Napoli. .一 poli,1862,4 vol. in-8 m.pelle, Na-",4128,95.0,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105489,1033,953,Elegies de Tibulle. Tours chez Letourmy. —2 vol. in-8 con belle incisioni m. pelle.,4130,70.4,False,positional,,,STAMPE E INCISIONI,,
-BO0624_81800,105490,1034,954,"Etat (l') de la France. A Paris chez Le Breton 1749. 6 vol. in-16 rileg. in pelle con stemmi impressi. Paris,1863,",4132,92.6,False,positional,,,Libri,,
+BO0624_81800,105490,1034,954,"Etat (l') de la France. A Paris chez Le Breton 1749. 6 vol. in-16 rileg. in pelle con stemmi impressi. Paris,1863,",4132,92.6,False,positional,,,Libri,,Sec. XVIII
 BO0624_81800,105491,1035,955,FoRNAY (E.). Le Jardinier fruitier. 1 vol. in-8 con numerose tav. illustr. tela.,4134,97.3,False,positional,,,Libri,,
-BO0624_81800,105492,1036,956,"FIORENTINO (PIER ANGELO). La Fisiologia dell'avvocato.— Napoli,1842,in-24 m.tela.",4135,97.4,False,positional,,,Libri,,
-BO0624_81800,105493,1037,957,"FRACKELTON (S.S.). Tried by fire a Work on China Painting. 一 New York,1886,in-4 fig.m.tela.",4136,97.7,False,positional,,,Libri,,
-BO0624_81800,105494,1038,958,"Genie (le) de la Révolution.—Paris, 1817,3 vol in-8 m.pelle",4137,83.2,False,positional,,,Libri,,
-BO0624_81800,105495,1039,959,"GENOvESI (A.). Lettere familiari.— Napoli,1774,",4139,95.2,False,positional,,,Libri,,
+BO0624_81800,105492,1036,956,"FIORENTINO (PIER ANGELO). La Fisiologia dell'avvocato.— Napoli,1842,in-24 m.tela.",4135,97.4,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105493,1037,957,"FRACKELTON (S.S.). Tried by fire a Work on China Painting. 一 New York,1886,in-4 fig.m.tela.",4136,97.7,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105494,1038,958,"Genie (le) de la Révolution.—Paris, 1817,3 vol in-8 m.pelle",4137,83.2,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105495,1039,959,"GENOvESI (A.). Lettere familiari.— Napoli,1774,",4139,95.2,False,positional,,,Libri,,Sec. XVIII
 BO0624_81800,105496,1040,9,1vol.in-8 m.pelle.,4140,94.4,False,positional,,,Libri,,
 BO0624_81800,105497,1041,10,"96o. Geografia storica moderna universale per cura di una societa di dotti letterati.-—Milano, Pagnoni,3 grossi",4141,98.6,False,title_direct,Rossi,,,,
 BO0624_81800,105498,1042,11,vol. in-8 con carta e fig. in cromolit.m. pelle.,4142,96.7,False,positional,,,Libri,,
-BO0624_81800,105499,1043,961,"Nove mesi a Messina, dal 24 giugno 186o al 25 marzo1861.— Napoli,1862,1 vol. in-8 m.tela.",4143,66.7,False,positional,,,Libri,,
+BO0624_81800,105499,1043,961,"Nove mesi a Messina, dal 24 giugno 186o al 25 marzo1861.— Napoli,1862,1 vol. in-8 m.tela.",4143,66.7,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105500,1044,962,"GIUsTI (G.). Poesie. — Firenze,186o,1 vol. in-24",4145,95.2,False,positional,,,Libri,,
 BO0624_81800,105501,1045,963,"GuERARD (ED.). Dictionnaire encyclopedique d'anecdotes.—F Paris, Didot, sd.,2 vol. in-8.",4147,97.5,False,positional,,,Libri,,
-BO0624_81800,105502,1046,964,"GUERRAZZI (G. D.). L'assedio di Firenze. Lu- gano, 1848, 1 vol, in-8 m.tela.",4148,69.8,False,positional,,,Libri,,
-BO0624_81800,105503,1047,965,"HuGO (VICTOR). L'homme qui rit. vol. II, Ill, IV. Paris, 1869, 3 vol. in-8.",4150,96.9,False,positional,,,Libri,,
-BO0624_81800,105504,1048,966,"ID. I lavoratori del mare.— Firenze 1866,in-8 m.tela.",4151,96.1,False,positional,,,Libri,,
-BO0624_81800,105505,1049,967,Illustrazione (l) italiana. Dall'anno 1895 al 31 giugno 19o7 piu alcuni fascicoli dellanno 1903. 6 vol. in fol. fig.,4152,98.2,False,positional,,,Libri,,
-BO0624_81800,105506,1050,968,"Illustracion espanola y americana. Anni 1895-1896 e1897,parte1.— Madrid,1895-97. 5 vol. in fol. fig. m. perg.",4154,68.0,False,positional,,,Libri,,
-BO0624_81800,105507,1051,969,"Imperatrici (le) romane. —— Napoli, 1749. Tomo I, 1 vol. in-8 perg.",4155,86.8,False,positional,,,Libri,,
-BO0624_81800,105508,1052,970,Journal amusaut. Annees 1873-1874-1875-1876-18774 vol. in fol. fig. m. perg. e m. tela.,4157,97.5,False,positional,,,Libri,,
-BO0624_81800,105509,1053,7,"971.LANCELLOTTI （F.). Chimica.— Napoli, 1839, 3 vol.",4158,97.7,False,positional,,,Libri,,
+BO0624_81800,105502,1046,964,"GUERRAZZI (G. D.). L'assedio di Firenze. Lu- gano, 1848, 1 vol, in-8 m.tela.",4148,69.8,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105503,1047,965,"HuGO (VICTOR). L'homme qui rit. vol. II, Ill, IV. Paris, 1869, 3 vol. in-8.",4150,96.9,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105504,1048,966,"ID. I lavoratori del mare.— Firenze 1866,in-8 m.tela.",4151,96.1,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105505,1049,967,Illustrazione (l) italiana. Dall'anno 1895 al 31 giugno 19o7 piu alcuni fascicoli dellanno 1903. 6 vol. in fol. fig.,4152,98.2,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105506,1050,968,"Illustracion espanola y americana. Anni 1895-1896 e1897,parte1.— Madrid,1895-97. 5 vol. in fol. fig. m. perg.",4154,68.0,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105507,1051,969,"Imperatrici (le) romane. —— Napoli, 1749. Tomo I, 1 vol. in-8 perg.",4155,86.8,False,positional,,,Libri,,Sec. XVIII
+BO0624_81800,105508,1052,970,Journal amusaut. Annees 1873-1874-1875-1876-18774 vol. in fol. fig. m. perg. e m. tela.,4157,97.5,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105509,1053,7,"971.LANCELLOTTI （F.). Chimica.— Napoli, 1839, 3 vol.",4158,97.7,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105510,1054,8,in-8 m. pelle.,4159,92.3,False,positional,,,Libri,,
-BO0624_81800,105511,1055,972,"Lo spirito folletto. Giornale umoristico illustrato, dal 29 luglio1869al 13 dicembre 1877. —3 vol. in fol.",4160,98.0,False,positional,,,Libri,,
+BO0624_81800,105511,1055,972,"Lo spirito folletto. Giornale umoristico illustrato, dal 29 luglio1869al 13 dicembre 1877. —3 vol. in fol.",4160,98.0,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105512,1056,973,Lotto di 3o fra volumi e fascicoli di romanzi.,4162,95.7,False,positional,,,Libri,,
 BO0624_81800,105513,1057,974,Lotto di romanzi di vari autori. 1o vol.,4163,95.0,False,positional,,,Libri,,
 BO0624_81800,105514,1058,975,"Lotto di 25 volumi romanzi, alcuni incompleti.",4164,95.7,False,positional,,,Libri,,
@@ -1064,58 +1064,58 @@ BO0624_81800,105518,1062,979,Lotto di venti cataloghi di grandi vendite.,4168,95
 BO0624_81800,105519,1063,18,98o. Lotto di quattordici volumi di opere varie.,4169,96.8,False,positional,,,Libri,,
 BO0624_81800,105520,1064,981,"Lotto di 2o volumi. Romanzi, alcuni incompleti.",4170,95.7,False,positional,,,Libri,,
 BO0624_81800,105521,1065,982,MARMONTEL (M.). Contes Moraux.—S. 1. 2 vol. in-16 con ritratto dell'autore e belle incisioni in rame baz.,4171,98.0,False,positional,,,STAMPE E INCISIONI,,
-BO0624_81800,105522,1066,983,"MAzZELA (Sc.). Descrizione del Regno di Napoli. Napoli,1585, 1 vol in-4 con numerosi stemmi perg.",4172,97.8,False,positional,,,Libri,,
-BO0624_81800,105523,1067,984,"MELI (G.). Poesie siciliane. Palermo,1857,1vol. in-8 m. pelle.",4173,96.4,False,positional,,,Libri,,
+BO0624_81800,105522,1066,983,"MAzZELA (Sc.). Descrizione del Regno di Napoli. Napoli,1585, 1 vol in-4 con numerosi stemmi perg.",4172,97.8,False,positional,,,Libri,,Sec. XVI
+BO0624_81800,105523,1067,984,"MELI (G.). Poesie siciliane. Palermo,1857,1vol. in-8 m. pelle.",4173,96.4,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105524,1068,985,"Miscellanea in-4,contenente vari e importanti cataloghi di vendite di quadri e di oggetti d'arte.",4174,98.0,False,positional,,,OGGETTI VARI,,
 BO0624_81800,105525,1069,5,"Palermo, 986. Melodrammi seri scritti nel secolo xvill.—",4175,98.1,False,positional,,,Libri,,
-BO0624_81800,105526,1070,6,"presso L. Dato,1821, 2 vol. in-8 m. pelle.",4176,97.4,False,positional,,,Libri,,
-BO0624_81800,105527,1071,987,Monde (le) illustre.Années 1875-1876.—2vol.in fol. fig.,4177,96.2,False,positional,,,Libri,,
-BO0624_81800,105528,1072,988,"MoNTEPIN (SAv.DE). Quattro romanzi.—Roma, 1882, 4 vol. in-8 tela.",4178,96.6,False,positional,,,Libri,,
+BO0624_81800,105526,1070,6,"presso L. Dato,1821, 2 vol. in-8 m. pelle.",4176,97.4,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105527,1071,987,Monde (le) illustre.Années 1875-1876.—2vol.in fol. fig.,4177,96.2,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105528,1072,988,"MoNTEPIN (SAv.DE). Quattro romanzi.—Roma, 1882, 4 vol. in-8 tela.",4178,96.6,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105529,1073,989,ID. Vari romanzi. 15 volumi di vari formati.,4179,95.3,False,positional,,,Libri,,
-BO0624_81800,105530,1074,990,"MONTI (V.). Poesie. Palermo,1837,1 vol. in-8 m. pelle.",4180,95.8,False,positional,,,Libri,,
-BO0624_81800,105531,1075,991,"MURATORI (L. A.). Annali d'Italia.Napoli, Alfano, 1758. 18 vol. in-8 g. Bella leg. in vitellino con fregi ed ornati dorati a piccoli ferri, taglio dorato.",4181,78.7,False,positional,,,Libri,,
-BO0624_81800,105532,1076,992,"ID. Della forza e della fantasia umana. —Napoli, 1796, in-8 perg.",4183,96.7,False,positional,,,Libri,,
-BO0624_81800,105533,1077,993,"Musee des Deux-Mondes. Paris, 1873, in fascicoli in fol. con cromo lit.",4184,97.1,False,positional,,,Libri,,
-BO0624_81800,105534,1078,15,"994.NICOLAI PARTHEMI.Halientica.Napoli, 1689,3 vol. in 16 perg.",4185,97.6,False,positional,,,Libri,,
-BO0624_81800,105535,1079,995,"PELLICO(S.). Prose. Firenze, Le Monnier, 1858, vol. in-16 m.pelle.",4186,78.0,False,positional,MONNIER HENRI,,Libri,,
+BO0624_81800,105530,1074,990,"MONTI (V.). Poesie. Palermo,1837,1 vol. in-8 m. pelle.",4180,95.8,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105531,1075,991,"MURATORI (L. A.). Annali d'Italia.Napoli, Alfano, 1758. 18 vol. in-8 g. Bella leg. in vitellino con fregi ed ornati dorati a piccoli ferri, taglio dorato.",4181,78.7,False,positional,,,Libri,,Sec. XVIII
+BO0624_81800,105532,1076,992,"ID. Della forza e della fantasia umana. —Napoli, 1796, in-8 perg.",4183,96.7,False,positional,,,Libri,,Sec. XVIII
+BO0624_81800,105533,1077,993,"Musee des Deux-Mondes. Paris, 1873, in fascicoli in fol. con cromo lit.",4184,97.1,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105534,1078,15,"994.NICOLAI PARTHEMI.Halientica.Napoli, 1689,3 vol. in 16 perg.",4185,97.6,False,positional,,,Libri,,Sec. XVII
+BO0624_81800,105535,1079,995,"PELLICO(S.). Prose. Firenze, Le Monnier, 1858, vol. in-16 m.pelle.",4186,78.0,False,positional,MONNIER HENRI,,Libri,,Sec. XIX
 BO0624_81800,105536,1080,996,"PELOUZE e FREMY. Compendio di chimica organica. Napoli, 186o,1 vol. in-8 m.pelle.",4188,97.4,False,positional,,,Libri,,
-BO0624_81800,105537,1081,997,"PETRARCA (FR.). Rime. ——Padova, 1829, 2 vol. in-16,",4189,95.2,False,positional,,,Libri,,
-BO0624_81800,105538,1082,998,"PLATINA. Le vite dei Pontefici Venezia,1730, presso Girolamo Savioni, 2 vol. in-4 con ritratti, pergamena.",4191,98.0,False,positional,,,Libri,,
+BO0624_81800,105537,1081,997,"PETRARCA (FR.). Rime. ——Padova, 1829, 2 vol. in-16,",4189,95.2,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105538,1082,998,"PLATINA. Le vite dei Pontefici Venezia,1730, presso Girolamo Savioni, 2 vol. in-4 con ritratti, pergamena.",4191,98.0,False,positional,,,Libri,,Sec. XVIII
 BO0624_81800,105539,1083,999,"PRATI (G.). Canti politici. 一 Genova, 186o, 1 vol. in-16 m.tela.",4192,96.5,False,positional,,,Libri,,
 BO0624_81800,105540,1084,10,"oo. Prose e lettere scritte nel secolo xvll. — Milano,",4193,98.0,False,positional,,,Libri,,
 BO0624_81800,105541,1085,1,"ooI.RAIMONDI (A.). Versi umoristici satirici.— Torino,",4195,98.9,False,positional,,,Libri,,
 BO0624_81800,105542,1086,1874,", in-8 fig. tela.",4196,83.9,False,positional,,,Libri,,
-BO0624_81800,105543,1087,1002,"REvoIL (B. H.). Mémoires du Baron de Croc. Paris, Dentu, 1875, in-8. Esemplare in carta azzurra con dedica autografa, leg. m. pelle con stemmi d'oro.",4197,98.2,False,positional,,,Libri,,
-BO0624_81800,105544,1088,1003,"RICCIo (GEN.). Repertorio di monete antiche.—Napoli, 1852, 1 vol, in-4.",4198,96.1,False,positional,ANDREA BRIOSCO DETTO IL RICCIO,,Libri,,
-BO0624_81800,105545,1089,1004,"ID. Catalogo di antiche medaglie consolari. — Napoli, 1855, con fac-simili a rilievo dorato, 1 vol. in-4 cart.",4199,97.6,False,positional,,,Libri,,
-BO0624_81800,105546,1090,1005,"ID. Le monete antiche. — Napoli, 1852, in-4 con tav. tela.",4200,95.2,False,positional,,,Libri,,
+BO0624_81800,105543,1087,1002,"REvoIL (B. H.). Mémoires du Baron de Croc. Paris, Dentu, 1875, in-8. Esemplare in carta azzurra con dedica autografa, leg. m. pelle con stemmi d'oro.",4197,98.2,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105544,1088,1003,"RICCIo (GEN.). Repertorio di monete antiche.—Napoli, 1852, 1 vol, in-4.",4198,96.1,False,positional,ANDREA BRIOSCO DETTO IL RICCIO,,Libri,,Sec. XIX
+BO0624_81800,105545,1089,1004,"ID. Catalogo di antiche medaglie consolari. — Napoli, 1855, con fac-simili a rilievo dorato, 1 vol. in-4 cart.",4199,97.6,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105546,1090,1005,"ID. Le monete antiche. — Napoli, 1852, in-4 con tav. tela.",4200,95.2,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105547,1091,1006,"ROMANELLI (D.). Napoli antica e moderna, con illu",4201,94.6,False,positional,,,Libri,,
 BO0624_81800,105548,1092,1007,"Romans de Voltaire. Paris, Didot, A.VIll (8oo),",4203,94.3,False,positional,,,Libri,,
 BO0624_81800,105549,1093,2,2vol. in-24 m.pelle.,4204,94.7,False,positional,,,Libri,,
-BO0624_81800,105550,1094,3,"10o8. Roma Sparita. Iconarii Universalis tentamen.— Romae,1726,ex tip.Arcangeli Casaletti,4 tomi in 2 vol. in-4 oblungo, cont. numerose inc. in rame di vedute di Roma e numismatica,cart.",4205,99.4,False,positional,,,Libri,,
-BO0624_81800,105551,1095,4,"10o9. RosA CoNC. Notizie storiche delle maioliche dei Castelli.Napoli, 1857, 1 vol. in-8 m. tela, raro.",4206,99.0,False,positional,,,Libri,,
+BO0624_81800,105550,1094,3,"10o8. Roma Sparita. Iconarii Universalis tentamen.— Romae,1726,ex tip.Arcangeli Casaletti,4 tomi in 2 vol. in-4 oblungo, cont. numerose inc. in rame di vedute di Roma e numismatica,cart.",4205,99.4,False,positional,,,Libri,,Sec. XVIII
+BO0624_81800,105551,1095,4,"10o9. RosA CoNC. Notizie storiche delle maioliche dei Castelli.Napoli, 1857, 1 vol. in-8 m. tela, raro.",4206,99.0,False,positional,,,Libri,,Sec. XIX
 BO0624_81800,105552,1096,5,"1oio. Scena Illustrata.Rivista quindicinale di letteratura,",4207,98.3,False,positional,,,Libri,,
-BO0624_81800,105553,1097,6,arte e sports. Anni 1896-1897-1900-1901 1902-19031904-1905.—8 vol. in folio; tela.,4208,98.7,False,positional,,,Libri,,
-BO0624_81800,105554,1098,1011,"SEMBENINI (G. B.),Farmacopea anticolerica. Venezia 1835,1 vol. in 8, m. pelle.",4209,96.5,False,positional,,,Libri,,
-BO0624_81800,105555,1099,8,"1012.Strenna italiana per 1'anno 1874. Milano,Ripamonti, in 4, fig,legato in pelle con guarnizioni di",4210,99.0,False,positional,,,Libri,,
+BO0624_81800,105553,1097,6,arte e sports. Anni 1896-1897-1900-1901 1902-19031904-1905.—8 vol. in folio; tela.,4208,98.7,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105554,1098,1011,"SEMBENINI (G. B.),Farmacopea anticolerica. Venezia 1835,1 vol. in 8, m. pelle.",4209,96.5,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105555,1099,8,"1012.Strenna italiana per 1'anno 1874. Milano,Ripamonti, in 4, fig,legato in pelle con guarnizioni di",4210,99.0,False,positional,,,Libri,,Sec. XI
 BO0624_81800,105556,1100,9,.一 metallo argentato.,4211,95.0,False,positional,,,Libri,,
-BO0624_81800,105557,1101,10,"1013.Strenna italiana dell'anno 1877.— Milano 1877,in 4,fig.,legato in velluto con fregi in oro.",4212,98.4,False,positional,,,Libri,,
-BO0624_81800,105558,1102,11,"I0I4.SAINT MARC (Mr.de).OEuvreS. Paris,de l'Imprimerie de Monsieur, 1781. Tre vol. in 8.-Il 1° vol. ha un grazioso frontispizio,il ritratto dellautore ed un faux-titre inc. da Gaucher. Bazana.",4213,99.2,False,positional,,,Libri,,
+BO0624_81800,105557,1101,10,"1013.Strenna italiana dell'anno 1877.— Milano 1877,in 4,fig.,legato in velluto con fregi in oro.",4212,98.4,False,positional,,,Libri,,Sec. XI
+BO0624_81800,105558,1102,11,"I0I4.SAINT MARC (Mr.de).OEuvreS. Paris,de l'Imprimerie de Monsieur, 1781. Tre vol. in 8.-Il 1° vol. ha un grazioso frontispizio,il ritratto dellautore ed un faux-titre inc. da Gaucher. Bazana.",4213,99.2,False,positional,,,Libri,,Sec. XVIII
 BO0624_81800,105559,1103,1015,"SENANcOUR (Mr. de). Reveries sur la nature primitive de lhomme. 一 Paris,anno VIll,1 vol.in 8, m.tela.",4214,97.4,False,positional,,,Libri,,
-BO0624_81800,105560,1104,13,"1016.ID.De l'Amour.— Paris 18o6,1 vol.in 8,m.tela.",4215,96.9,False,positional,,,Libri,,
+BO0624_81800,105560,1104,13,"1016.ID.De l'Amour.— Paris 18o6,1 vol.in 8,m.tela.",4215,96.9,False,positional,,,Libri,,Sec. XI
 BO0624_81800,105561,1105,14,"Io17. SCHULZE (G. E.). Introduzione alla scienza delle monete antiche.Napoli 179o, 1 vol. in 8, perg.",4216,98.4,False,positional,,,Libri,,
 BO0624_81800,105562,1106,1018,"ScOTTI (V.). Medaglie antiche. vol. in 8 m. perg. Firenze 18o9,un",4217,79.6,False,positional,,,Libri,,
-BO0624_81800,105563,1107,1019,"SwIFT Dr.). Le conte du Tonneau.A la Haye chez Henri Scheurleer. 1757,3 vol. in 16, con illustraz. Bazana.",4219,97.5,False,positional,,,Libri,,
-BO0624_81800,105564,1108,4,"1020.TASSO(T.). L'Aminta. Parma 1765,1 vol.in 16,",4220,97.8,False,positional,,,Libri,,
+BO0624_81800,105563,1107,1019,"SwIFT Dr.). Le conte du Tonneau.A la Haye chez Henri Scheurleer. 1757,3 vol. in 16, con illustraz. Bazana.",4219,97.5,False,positional,,,Libri,,Sec. XVIII
+BO0624_81800,105564,1108,4,"1020.TASSO(T.). L'Aminta. Parma 1765,1 vol.in 16,",4220,97.8,False,positional,,,Libri,,Sec. XI
 BO0624_81800,105565,1109,5,pergamena.,4221,90.0,False,positional,,,Libri,,
-BO0624_81800,105566,1110,1021,"The illustrated London Nerus. Anni 1871-72-73 Cinque vol. in fol., fig., m. tela. Illustrated Weekly.Anno 188o, un vol. in fol., fig., m.tela.",4223,80.4,False,positional,,,Libri,,
-BO0624_81800,105567,1111,1022,"THOMPsON. Les Saisons poeme: traduit de I'Anglais. Paris 1779. Illustrazioni di C. Eisen,incise in rame da C. Baquoy, 1 vol. in 8, bazana.",4224,98.1,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
-BO0624_81800,105568,1112,1023,"VAsI (M.). Itinerario istruttivo di Roma antica e mo- derna.— Roma 1812, 1 vol. in 8, con tav. m. tela.",4225,67.1,False,positional,,,VASI,,
+BO0624_81800,105566,1110,1021,"The illustrated London Nerus. Anni 1871-72-73 Cinque vol. in fol., fig., m. tela. Illustrated Weekly.Anno 188o, un vol. in fol., fig., m.tela.",4223,80.4,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105567,1111,1022,"THOMPsON. Les Saisons poeme: traduit de I'Anglais. Paris 1779. Illustrazioni di C. Eisen,incise in rame da C. Baquoy, 1 vol. in 8, bazana.",4224,98.1,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,Sec. XVIII
+BO0624_81800,105568,1112,1023,"VAsI (M.). Itinerario istruttivo di Roma antica e mo- derna.— Roma 1812, 1 vol. in 8, con tav. m. tela.",4225,67.1,False,positional,,,VASI,,Sec. XIX
 BO0624_81800,105569,1113,1024,VisCoNTi (E. Q.). Dizionario biografico storico e ar-,4227,94.9,False,positional,,,Libri,,
-BO0624_81800,105570,1114,12,"tistico.—Roma 1867,2 vol.in 8,tela.",4228,95.7,False,positional,,,Libri,,
-BO0624_81800,105571,1115,13,"1025.VisCONTI P. E.). Catalogue du Musee Torlonia. Roma 1883,1 vol.in 8.",4229,97.8,False,positional,,,Libri,,
+BO0624_81800,105570,1114,12,"tistico.—Roma 1867,2 vol.in 8,tela.",4228,95.7,False,positional,,,Libri,,Sec. XIX
+BO0624_81800,105571,1115,13,"1025.VisCONTI P. E.). Catalogue du Musee Torlonia. Roma 1883,1 vol.in 8.",4229,97.8,False,positional,,,Libri,,Sec. XI
 BO0624_81800,105572,1116,1026,"VALENTE (D.). Guerra d' Italia del Risorgimento. Napoli 186o, 4 vol. in fol. p.-Numerose e grandi illustrazioni in litogr., tela rossa.",4230,98.0,False,positional,,,Libri,,
-BO0624_81800,105573,1117,15,"1027.WINsPIER.Filosofia intellettuale.Napoli 1843, due vol. in 4,m. pelle.",4231,97.9,False,positional,,,Libri,,
+BO0624_81800,105573,1117,15,"1027.WINsPIER.Filosofia intellettuale.Napoli 1843, due vol. in 4,m. pelle.",4231,97.9,False,positional,,,Libri,,Sec. XI
 BO0624_81800,105574,1118,1028,"Wood Engreving by. Wm. Howland. 1 vol. in 8, leg. in marocchino con fregi e taglio dorato.",4233,69.8,False,positional,,,Libri,,
 BO0624_81800,105575,1119,1029,VETRINA da tavolo in noce lustro a nero. Interno di,4236,95.2,False,positional,,,"Vetrine,Mobili moderni,ecc.",,
 BO0624_81800,105576,1120,103,"o. VETRINA da centro in noce lustro a nero; piedi torniti, con due divisioni mobili nell'interno, tappezzate di seta verde.",4243,98.7,False,positional,,,"Vetrine,Mobili moderni,ecc.",,
@@ -1125,5 +1125,5 @@ BO0624_81800,105579,1123,1033,ARMADIO di abete a due sportelli.,4254,92.8,False,
 BO0624_81800,105580,1124,1034,BASE DI MARMO ed uno sgabello di legno.,4255,93.8,False,positional,,,"Vetrine,Mobili moderni,ecc.",,
 BO0624_81800,105581,1125,1035,"OTTO CORNICI variate due delle quali, in velluto per piatti, ed una cartella per stampe.",4256,97.1,False,positional,,,CORNICI,,
 BO0624_81800,105582,1126,1036,STUFA in terracotta smaltata marrone.,4257,93.5,False,positional,,,"Vetrine,Mobili moderni,ecc.",,
-BO0624_81800,105583,1127,8,1037.ALTRA DETTA.,4258,94.1,False,positional,,,"Vetrine,Mobili moderni,ecc.",,
+BO0624_81800,105583,1127,8,1037.ALTRA DETTA.,4258,94.1,False,positional,,,"Vetrine,Mobili moderni,ecc.",,Sec. XI
 BO0624_81800,105584,1128,1038,BAuLE di cuoio cerchiato di ferro ed altro di tela cerata.,4259,95.8,False,positional,,,"Vetrine,Mobili moderni,ecc.",,

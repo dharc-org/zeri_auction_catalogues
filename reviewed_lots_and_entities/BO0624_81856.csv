@@ -1,11 +1,11 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_81856,32631,1,1,"WILLE I. G. Musiciens ambulans. Bella incisione in rame dall'originale di Dictrecy. Cornice a mogano e cristallo. M. 0,48x0,35.",9,99.2,False,none,,,,,
 BO0624_81856,32632,2,2,LoRIEux. Dintorni di Mosca. Grande incisione in rame dall'ori-,10,98.3,False,none,,,OGGETTI IN ORO,,
-BO0624_81856,32633,3,3,"sERIE di sette graziose incisioni in rame, colorate,rappresentanti caricature dell'armata degli alleati nell'anno 1815. Cornici a mogano e cristalli.",12,99.3,False,none,,,CORNICI,,
-BO0624_81856,32634,4,4,GRANDE ENTRY OF THE ALLIED SOVEREIGNS INTO LEIP. Sic.19 ottobre 1813.Incisione in rame a colori contemporanea,13,99.1,False,none,,,,,
+BO0624_81856,32633,3,3,"sERIE di sette graziose incisioni in rame, colorate,rappresentanti caricature dell'armata degli alleati nell'anno 1815. Cornici a mogano e cristalli.",12,99.3,False,none,,,CORNICI,,Sec. XIX
+BO0624_81856,32634,4,4,GRANDE ENTRY OF THE ALLIED SOVEREIGNS INTO LEIP. Sic.19 ottobre 1813.Incisione in rame a colori contemporanea,13,99.1,False,none,,,,,Sec. XIX
 BO0624_81856,32635,5,5,"EIcHLER. Vue du palais imperial d'Hiver vers la Newa. Grande incisione in rame, con passe-par-tout, cornice dorata e cristallo.M.0,48x0,71.",18,99.3,False,none,,,,,
-BO0624_81856,32636,6,6,INCoGNiTo INGLESE. Sec. XVIII. Ritratto di giovane dama.Di-,19,98.2,False,none,,,,,
-BO0624_81856,32637,7,7,"SUHR DIE KOSAKEN IN HAMBURG DEN 18 MARZ 1813. Bella incisione a colori dall'originale di Suhr. Passe-par-tout, cor",21,99.1,False,none,,,,,
+BO0624_81856,32636,6,6,INCoGNiTo INGLESE. Sec. XVIII. Ritratto di giovane dama.Di-,19,98.2,False,none,ANONIMO,,,,Sec. XVIII
+BO0624_81856,32637,7,7,"SUHR DIE KOSAKEN IN HAMBURG DEN 18 MARZ 1813. Bella incisione a colori dall'originale di Suhr. Passe-par-tout, cor",21,99.1,False,none,,,,,Sec. XIX
 BO0624_81856,32638,8,8,"LE GRAND. La religion.Incisione a colori dall'originale di Bartolozzi dal quadro di Angelica Kauffmann. Cornice di legno intagliato e dorato, passe-par-tout e cristallo. M. 0,42x0,51.",23,99.4,False,none,KAUFFMANN ANGELICA,,,,
 BO0624_81856,32639,9,9,L'ESTASI DI SANTA CATERINA. Grande litografia dall'criginale ## MAIOLICHE E PORCELLANE,24,82.5,False,none,,,,,
 BO0624_81856,32640,10,10,CAFFETTlERA in maiolica decorata decorata a gruppi di rose. Marsiglia. Coperchio con piccolo restauro.,30,98.5,False,none,,,,,
@@ -18,12 +18,12 @@ BO0624_81856,32646,16,8,"14.FRuTTIERA a pieduccio in maiolica, decorata da ornat
 BO0624_81856,32647,17,9,"guide di fiori. Abruzzo, secolo xvII.",38,97.1,False,none,,,,,
 BO0624_81856,32648,18,15,"FRuTTlERA a pieduccio,in maiolica,decorata dalla figura del Cristo in croce fra due santi. Urbino.",39,74.7,False,none,,,,,
 BO0624_81856,32649,19,16,"vAssolo in maiolica, decorato a stecco. Nel centro figura di leo- ne araldico contornato da doppia zona a scomparti fiammeggianti e reticolati. Padova.",42,72.4,False,none,,,SCOMPARTI,,
-BO0624_81856,32650,20,17,"TRE ALBERELLI in maiolica, decorati a guide di foglie in bleu e nastri a colori con iscrizioni. Faenza. Secolo XVII.",43,68.6,False,none,,Scuola Faentina,,,
+BO0624_81856,32650,20,17,"TRE ALBERELLI in maiolica, decorati a guide di foglie in bleu e nastri a colori con iscrizioni. Faenza. Secolo XVII.",43,68.6,False,none,,Scuola Faentina,,,Sec. XVII
 BO0624_81856,32651,21,18,"DuE vAs! da farmacia,a coperchi, in maiolica,a forma ovoide; decorazione di ornati e guide di foglie a colori. Faenza. SecoloXIx.",45,98.8,False,none,,Scuola Faentina,,,
-BO0624_81856,32652,22,19,"DUE ALBERELL in maiolica, decorati da guide di foglie in bleu, e nel prospetto da piccoli stemmi e targhe a colori con iscri- zioni.Faenza. Secolo XVIII.",46,89.4,False,none,,Scuola Faentina,,,
+BO0624_81856,32652,22,19,"DUE ALBERELL in maiolica, decorati da guide di foglie in bleu, e nel prospetto da piccoli stemmi e targhe a colori con iscri- zioni.Faenza. Secolo XVIII.",46,89.4,False,none,,Scuola Faentina,,,Sec. XVIII
 BO0624_81856,32653,23,20,"BRoGCHETTA a beccuccio ed ansa,in maiolica, decorata in ver- de e manganese a fiori ed iscrizioni. Pesaro. Piccolo difetto nel becco.",49,70.0,False,none,,,,,
 BO0624_81856,32654,24,21,"DUE GRAzIosI ALBERELLI da farmacia, in maiolica, decorati in bleu su fondo berrettino e nastri con iscrizioni. Faenza.",50,98.7,False,none,,Scuola Faentina,,,
-BO0624_81856,32655,25,22,"Secolo XVI. GRANDE BRoCCA da farmacia, in maiolica, decorata in bleu a foglie e targa con iscrizione. Faenza. Qualche piccolo restauro.",52,95.2,False,none,,Scuola Faentina,,,
+BO0624_81856,32655,25,22,"Secolo XVI. GRANDE BRoCCA da farmacia, in maiolica, decorata in bleu a foglie e targa con iscrizione. Faenza. Qualche piccolo restauro.",52,95.2,False,none,,Scuola Faentina,,,Sec. XVI
 BO0624_81856,32656,26,23,"GRANDE VASO di originale forma,in maiolica, decorato in bleu ad ornati geometrici. Antico Marocco.",53,75.2,False,none,,,VASI,,
 BO0624_81856,32657,27,24,sCoDELLOTTo in maiclica con ornati a rifelsso metallico. Ispano-arabo.,55,97.8,False,none,,,,,
 BO0624_81856,32658,28,25,BOMBoLA in maiolica decorata da due medaglioni con ritratti e grandi ornati su fondo bleu. Caltagirone. Secolo xvll. Piccolo difetto nel collo.,56,98.9,False,none,,,,,
@@ -86,7 +86,7 @@ BO0624_81856,32714,84,68,"ANTIGO PICCOLO TAVOLO BOLoGNESE in noce con gambe torn
 BO0624_81856,32715,85,69,"ANTiGo TAvoLo di noce con gambe a lira, rette da un ferro battuto.Due cassetti.",128,98.1,False,none,,,,,
 BO0624_81856,32716,86,70,"ANTiCA BELLA SORIvANIA di noce di forma architettonica filetata di legno cedro. Piedi a balaustro.,Un cassetto; alzata superiore a tre tiretti. Epoca Luigi xIV.",129,99.0,False,none,,Periodo di Luigi XIV,,,
 BO0624_81856,32717,87,71,TAvoLo da centro in noce con gambe tornite e traverse. Un cas-,130,97.6,False,none,,,,,
-BO0624_81856,32718,88,72,"Campagna dei dintorni di Roma. Fine pittura ad olio su tela con cornice di legno intagliato e dorato.M.0,50x0,64. setto. Secolo XVI.",136,91.7,False,positional,HAOKERT JAKOB PHILIPP,,,,
+BO0624_81856,32718,88,72,"Campagna dei dintorni di Roma. Fine pittura ad olio su tela con cornice di legno intagliato e dorato.M.0,50x0,64. setto. Secolo XVI.",136,91.7,False,positional,HAOKERT JAKOB PHILIPP,,,,Sec. XVI
 BO0624_81856,32719,89,73,"ll tempio della Sibilla a Tivoli. Pittura ad olio su tela con corni ce alla Salvator Rosa dorata. M. 0,73x0,39.",140,75.0,False,positional,LOCATELLI G.,,,,
 BO0624_81856,32720,90,74,Il buon Samaritano.Fine pittura ad olio su fondo di paese a delicata intonazione.Cornice alla Salvator Rosa a tre ordini d,145,98.8,False,positional,GELLEE CLAUDIO,,,,
 BO0624_81856,32721,91,75,"Due paesi dipinti su tavolette con cornici alla Salvator Rosa dorate.M.0,40x0,28.",150,98.2,False,positional,VAN BLOEMEN GIO. FR.,,CORNICI,,
@@ -118,16 +118,16 @@ BO0624_81856,32746,116,7,con un ramo di bambu tinto verde su base di tek. Cina.,
 BO0624_81856,32747,117,8,96.PisToLA orientale con batteria a silice e guarnizioni di metallo,207,98.5,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32748,118,9,cesellato. Luigi XIV.,208,95.0,False,positional,GIGANTE ERCOLE,Periodo di Luigi XIV,,,
 BO0624_81856,32749,119,97,GRAZiOSA PLACCA DI BRoNZO DORATO con ornati di corallo e smalti. Nel centro la Vergine ed il Bambino parimenti in,209,98.7,False,positional,GIGANTE ERCOLE,,,,
-BO0624_81856,32750,120,11,corallo.Secolo XVIII.,210,93.0,False,positional,GIGANTE ERCOLE,,,,
+BO0624_81856,32750,120,11,corallo.Secolo XVIII.,210,93.0,False,positional,GIGANTE ERCOLE,,,,Sec. XVIII
 BO0624_81856,32751,121,12,98.PicCoLO VENTAGLIo in avorio a stecche traforate. Epoca Im-,211,97.5,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32752,122,13,pero.,212,72.7,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32753,123,99,BlcCHlERE in vetro smaltato a figurine ed iscrizione. Boemia.,216,97.5,False,positional,GIGANTE ERCOLE,,,,
-BO0624_81856,32754,124,2,Secolo XVIII.,217,92.3,False,positional,GIGANTE ERCOLE,,,,
-BO0624_81856,32755,125,3,100.IMPORTANTE BOTTIGLIA in vetro rubino con base e coperchio in argento sbalzato a roccailles ed ornati. Murano. Secolo XVIII.,218,99.2,False,positional,GIGANTE ERCOLE,Scuola di Murano,,,
+BO0624_81856,32754,124,2,Secolo XVIII.,217,92.3,False,positional,GIGANTE ERCOLE,,,,Sec. XVIII
+BO0624_81856,32755,125,3,100.IMPORTANTE BOTTIGLIA in vetro rubino con base e coperchio in argento sbalzato a roccailles ed ornati. Murano. Secolo XVIII.,218,99.2,False,positional,GIGANTE ERCOLE,Scuola di Murano,,,Sec. XVIII
 BO0624_81856,32756,126,101,BIcCHIERE A CALICE in cristallo a finissimi ornati incisi alla,219,96.9,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32757,127,5,ruota.Epoca Luigi XV. Boemia.,220,96.4,False,positional,GIGANTE ERCOLE,Periodo di Luigi XV,,,
 BO0624_81856,32758,128,6,102.GRANDE CAMPANA per una lampada in vetro di Venezia deco-,221,98.3,False,positional,GIGANTE ERCOLE,,LAMPADE,,
-BO0624_81856,32759,129,7,rato in oro. Piccolo difetto. Secolo XVI.,222,97.4,False,positional,GIGANTE ERCOLE,,,,
+BO0624_81856,32759,129,7,rato in oro. Piccolo difetto. Secolo XVI.,222,97.4,False,positional,GIGANTE ERCOLE,,,,Sec. XVI
 BO0624_81856,32760,130,103,BoTTlGlLA in antico vetro tagliato alla ruota: corpo sferico,223,96.7,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32761,131,9,"schiacciato e lungo collo con turo a vite. Venezia, Sec. xvIlI.",224,98.3,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32762,132,10,104.PICcoLO LAMPADARIo in cristallo di Boemia a forma floreale. Due bracci difettosi.,225,98.2,False,positional,GIGANTE ERCOLE,,,,
@@ -138,14 +138,14 @@ BO0624_81856,32766,136,4,zia.SecoloXvIlI.,230,93.8,False,positional,GIGANTE ERCO
 BO0624_81856,32767,137,5,108.PoRTADOLCI in vetro a forma di conchiglia. Murano.,231,98.1,False,positional,GIGANTE ERCOLE,Scuola di Murano,,,
 BO0624_81856,32768,138,109,PoRTAFIoRI da automobile con cristallo tagliato alla ruota e montatura di argento.,232,97.6,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32769,139,110,JAzEr.Les enfants de Paris devant Witepsk. Grande incisione a fumo dall'originale di Orazio Vernet. Cornice di mogano e,243,98.3,False,positional,GIGANTE ERCOLE,,,,
-BO0624_81856,32770,140,111,"JAzET. Bivouac des cosaques aux Champs Elysee a Paris le 31 mars 1814.Importante incisione in rame -dall'originale di Sauerveid. Cornice a mogano e cristallo. M. 0,33x 0,56.",245,98.8,False,positional,GIGANTE ERCOLE,,,,
+BO0624_81856,32770,140,111,"JAzET. Bivouac des cosaques aux Champs Elysee a Paris le 31 mars 1814.Importante incisione in rame -dall'originale di Sauerveid. Cornice a mogano e cristallo. M. 0,33x 0,56.",245,98.8,False,positional,GIGANTE ERCOLE,,,,Sec. XIX
 BO0624_81856,32771,141,112,"CHoDowIECkI D.Vittoria riportata dall'armata russa sui turchi il 1 agosto 177o. Incisione in rame, passe-par-tout, cornice di mogano e cristallo. M. 0,21x0,27.",246,98.7,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32772,142,113,DEBuCouRT P.L.Le cosaque galant e Adieux d'un russe a une parisienne. Due spiritose incisioni a colori dall'originale di Vernet. Cornici a mogano e cristalli.,247,98.7,False,positional,GIGANTE ERCOLE,,CORNICI,,
 BO0624_81856,32773,143,114,ZAFFoNATo ANG.Maria Maddalena.Incisione a colori dall'originale di Francesco Bartolozzi.Cornice in parte intagliata e,248,98.3,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32774,144,115,VEDUTA DEL.CANALE DELLA MOIKA e del Ponte della Polizia di Pietroburgo. Antica incisione a colori con cornice e cri-,250,98.3,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32775,145,116,DURERO ALBERTO.Ritratto di Erasmo de Rotterdam. Incisione,252,96.6,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32776,146,117,"VILLET P. Pietro il Grande nel visitare il reggente d'Orleans non volendo precedere Luigi XV ne farsi precedere da un fanciullo,lo sollevo nelle sue braccia. Schizzo alla penna la-",254,98.9,False,positional,GIGANTE ERCOLE,Periodo di Luigi XV,,,
-BO0624_81856,32777,147,118,"GHEZzI PIER LEoNE. Ritratto del Sacerdote carmelitano Angelo De Paulis da Argilliano. Schizzo alla penna dedicato all'illustrissimo e reverendissimo signore monsignor Alessandro Falconieri,Governatore di Roma. Vi e scritta sotto parimenti di pugno dell'artista la dedica al Falconieri nella quale si esaltano le virtu del personaggio,defunto nell'anno 1720.",256,99.4,False,positional,GIGANTE ERCOLE,,,,
+BO0624_81856,32777,147,118,"GHEZzI PIER LEoNE. Ritratto del Sacerdote carmelitano Angelo De Paulis da Argilliano. Schizzo alla penna dedicato all'illustrissimo e reverendissimo signore monsignor Alessandro Falconieri,Governatore di Roma. Vi e scritta sotto parimenti di pugno dell'artista la dedica al Falconieri nella quale si esaltano le virtu del personaggio,defunto nell'anno 1720.",256,99.4,False,positional,GIGANTE ERCOLE,,,,Sec. XVIII
 BO0624_81856,32778,148,119,DuE GRAzlosI VAsI da farmacia in maiolica decorati nel prospetto da grande stemma ed iscrizione nel basso. Abruzzo.,260,98.3,False,positional,GIGANTE ERCOLE,,VASI DA FARMACIA,,
 BO0624_81856,32779,149,2,120.DUE DETTI.,261,92.9,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32780,150,3,121.DUE DETTI.,262,92.9,False,positional,GIGANTE ERCOLE,,,,
@@ -154,7 +154,7 @@ BO0624_81856,32782,152,5,123.QuINDicI PIATTI in maiolica con bordo a cestelio de
 BO0624_81856,32783,153,6,gruppi di fiori. Ludwigsburg.,265,96.4,False,positional,GIGANTE ERCOLE,Manifattura di Ludwigsburg,,,
 BO0624_81856,32784,154,7,"124.INsALATIERA quadrangolare fonda in porcellana,decorata a",266,98.4,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32785,155,8,gruppi di fiori ed insetti. Strasburgo.,267,97.4,False,positional,GIGANTE ERCOLE,,INSETTI,,
-BO0624_81856,32786,156,125,ALBERELLO di maiolica con decorazione a stecco ed ornati in verde e marrone. Padova. Secolo XVI. Quaiche difetto. Vedi illustrazione tav. xLix.,269,71.9,False,positional,GIGANTE ERCOLE,,,,
+BO0624_81856,32786,156,125,ALBERELLO di maiolica con decorazione a stecco ed ornati in verde e marrone. Padova. Secolo XVI. Quaiche difetto. Vedi illustrazione tav. xLix.,269,71.9,False,positional,GIGANTE ERCOLE,,,,Sec. XVI
 BO0624_81856,32787,157,126,oRiGINALE vAso a largo bordo in maiolica con ornati a stecco,270,96.8,False,positional,GIGANTE ERCOLE,,VASI,,
 BO0624_81856,32788,158,12,a coperta verde. Padova. Manca una parte del bordo.,271,97.0,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32789,159,13,127.PlArTo OvALE centinato in maiolica inglese decorato in rosso a stampiglia con soggetto rappresentante il volo di una mongolfiera.Secolo Xix.,272,99.0,False,positional,GIGANTE ERCOLE,,,,
@@ -205,7 +205,7 @@ BO0624_81856,32833,203,167,TRE PIATTiNI in porcellana; due a decorazione di paes
 BO0624_81856,32834,204,168,CoRNicE di legno intagliato a grandi foglie ed intieramente do-,333,96.9,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32835,205,169,SERiE DI SEI FIGURINE DI SANTI finemente scolpite in legno dorate ed in parte policromate. Arte veneziana del Sec. xVIII.,335,98.3,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32836,206,170,LA VERGINE CHE HA IN BRACCIO IL BAMBINO.Antica figu-,336,96.2,False,positional,GIGANTE ERCOLE,,OGGETTI VARI,,
-BO0624_81856,32837,207,171,DUE ANGIOLI PORTATORCIERI in legno intagliato e dorato ed in parte dipinto. Secolo XVI.,338,97.7,False,positional,GIGANTE ERCOLE,,,,
+BO0624_81856,32837,207,171,DUE ANGIOLI PORTATORCIERI in legno intagliato e dorato ed in parte dipinto. Secolo XVI.,338,97.7,False,positional,GIGANTE ERCOLE,,,,Sec. XVI
 BO0624_81856,32838,208,172,LA VERGINE CHE HA IN GREMBO IL BAMBINO. Importante scultura fiamminga del Secolo Xv. Qualche restauro.,339,98.0,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32839,209,173,CoRNiCE a sesto circolare di noce intagliato stile Rinascimento.,340,96.9,False,positional,GIGANTE ERCOLE,,,,
 BO0624_81856,32840,210,174,"Lo sposalizio mistico di s. Gaterina. Quadro su tavola (alquanto sciupato).M.0,75x0,59.",347,97.6,False,positional,INNOCENZO DA IMOLA,,,,
@@ -219,13 +219,13 @@ BO0624_81856,32847,217,181,"Le tentazioni di Sant'Antonio. Fine pittura ad olio 
 BO0624_81856,32848,218,182,"Gruppi di fori e festoni. Fine dipinto ad olio su tela con cornice riccamente intagliata e dorata.M. 0,80x0,80.",391,98.2,False,positional,SEGHERS DANIEL,,,,
 BO0624_81856,32849,219,183,"Putto che solleva un drappeggio. Pittura ad olio su tela con cor- nice intagliata e dorata.M. 0,34x0,71.",395,75.4,False,positional,SCHIDONE BARTOLOMEO,,,,
 BO0624_81856,32850,220,184,"Interno di cucina.Quadro dipinto ad olio su tela con cornice dorata.A destra firma illegibile.M. 1,43x1.",400,98.1,False,positional,BASSANO LEANDRO,,,,
-BO0624_81856,32851,221,185,"Paesaggio presso Napoli. Pittura ad olio su tela firmata e datata 1846.Cornice in pastiglia dorata.M. 0,67x0,57.",404,72.3,False,positional,CONSALVO CARELLI,,,,
-BO0624_81856,32852,222,186,ELEGANTE MODELLO DI MOBILE in noce con marqueterie di legni vari ed intarsi di avorio ed ebano. Pilastri scanalati. Secolo XVII.,409,98.4,False,positional,CONSALVO CARELLI,,OGGETTI IN LEGNO,,
-BO0624_81856,32853,223,187,ANTICO TAvOLO BoLoGNESE in noce con gambe tornite e mo- danature intagliate. Un cassetto. Secolo XVII.,410,69.2,False,positional,CONSALVO CARELLI,,,,
+BO0624_81856,32851,221,185,"Paesaggio presso Napoli. Pittura ad olio su tela firmata e datata 1846.Cornice in pastiglia dorata.M. 0,67x0,57.",404,72.3,False,positional,CONSALVO CARELLI,,,,Sec. XIX
+BO0624_81856,32852,222,186,ELEGANTE MODELLO DI MOBILE in noce con marqueterie di legni vari ed intarsi di avorio ed ebano. Pilastri scanalati. Secolo XVII.,409,98.4,False,positional,CONSALVO CARELLI,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_81856,32853,223,187,ANTICO TAvOLO BoLoGNESE in noce con gambe tornite e mo- danature intagliate. Un cassetto. Secolo XVII.,410,69.2,False,positional,CONSALVO CARELLI,,,,Sec. XVII
 BO0624_81856,32854,224,188,IMPORTANTE BELLA CASSA DA CORREDO in noce SColpito a bassorilievo a stemmi ed ornati:nell'interno ferramenta che ripetono lo stemma del prospetto. Secolo xvI.,412,98.7,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32855,225,189,CoMMoDE-BUREAU in marqueterie di legni vari;la parte inferiore a tre cassetti con leggera centina; quella superiore a sportello centrale e tiretti nei lati. Epoca Luigi XIV.,413,80.0,False,positional,CONSALVO CARELLI,Periodo di Luigi XIV,OGGETTI IN LEGNO,,
 BO0624_81856,32856,226,190,GRANDE TAvoLo in noce con gambe a lira. Arte bolognese.E- poca Luigi XIV.,415,85.3,False,positional,CONSALVO CARELLI,Periodo di Luigi XIV,,,
-BO0624_81856,32857,227,191,BEL TAvoLo in noce con gambe a lira e traverse intagliate. Arte bolognese del Secolo XVII.,417,97.8,False,positional,CONSALVO CARELLI,,,,
+BO0624_81856,32857,227,191,BEL TAvoLo in noce con gambe a lira e traverse intagliate. Arte bolognese del Secolo XVII.,417,97.8,False,positional,CONSALVO CARELLI,,,,Sec. XVII
 BO0624_81856,32858,228,192,GRANDE MOBILE SECRETAIRE in noce di Calabria a due corpi. La parte inferiore a quattro cassetti. La parte superiore con sportello a ribalta; nell'interno di forma architettonica vari tiretti. Lateralmente doppio ordine di colonne con capitelli e basi di bronzo. Epoca Impero.,418,99.3,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32859,229,193,ANTiCA SEGGIoLA di noce con traversa e gambe finemente in- tagliate. Piano e dossello imbottiti. Epoca Luigi Xv.,419,67.5,False,positional,CONSALVO CARELLI,Periodo di Luigi XV,,,
 BO0624_81856,32860,230,194,CoRNICE DI POLITTIco in noce scolpito con pilastri e cariatidi ed a ricche modanature. Stile della Rinascenza.,421,71.3,False,positional,CONSALVO CARELLI,,,,
@@ -255,7 +255,7 @@ BO0624_81856,32883,253,212,ALTRA DETTA. tica arte cinese.,460,73.9,False,positio
 BO0624_81856,32884,254,213,coppA a due anse in bronzo con figure di draghi a rilievo. An-,464,96.8,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32885,255,214,BuDDHA in atto di predicare seduto sul fiore di loto. Figurina in bronzo con traccie di doratura.Arte cinese.,465,98.2,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32886,256,215,DUE GRANDI VAsI di bronzo decorati a scomparti con rilievi di rami fioriti ed uccelli. Antica Cina.,466,98.0,False,positional,CONSALVO CARELLI,,SCOMPARTI,,
-BO0624_81856,32887,257,216,BuDDHA seduto sul fiore di loto in atto di meditare mentre tiene con la mano destra un fiore poggiato sopra una spalla.Grande e bel bronzo in parte cloisonne. Arte giapponese del Secolo XVIII.,467,99.0,False,positional,CONSALVO CARELLI,,,,
+BO0624_81856,32887,257,216,BuDDHA seduto sul fiore di loto in atto di meditare mentre tiene con la mano destra un fiore poggiato sopra una spalla.Grande e bel bronzo in parte cloisonne. Arte giapponese del Secolo XVIII.,467,99.0,False,positional,CONSALVO CARELLI,,,,Sec. XVIII
 BO0624_81856,32888,258,217,CAcHE-PoT in bronzo con due anse cesellate a gruppi di fiori. Epoca Luigi XVI.,468,97.4,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32889,259,218,ANTICo TINTINNABULo in bronzo decorato a rilievo a scom. parti geometrici e piccoli bottoni. Arte cinese.,469,68.3,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32890,260,219,DUE ALBERELLI in maiolica decorati a colori con stemmi e con ornati in bleu. Abruzzo.,479,97.6,False,positional,CONSALVO CARELLI,,,,
@@ -266,14 +266,14 @@ BO0624_81856,32894,264,223,PIATTINO OTTAGoNo in maiolica decorato in bleu a guid
 BO0624_81856,32895,265,224,"ALTO ALBERELLo in maiolica decorato da stemma in giallo, bleu e manganese. Abruzzo. Secolo xvIlI.",485,72.4,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32896,266,225,DUE PIGcoLE CoMPoSTIERE e due salsiere in maiolica a forma centinata decorate a guide di fiori ed insetti. Strasburgo.,487,98.3,False,positional,CONSALVO CARELLI,,INSETTI,,
 BO0624_81856,32897,267,226,"GRANDE E BELLA BRocCA da farmacia in maiolica decorata da ornati in bleu, giallo e manganese e da una targa con e la scritta W.CASA FACI.LI. Faenza. Secolo XVlI.",488,98.7,False,positional,CONSALVO CARELLI,Scuola Faentina,,,
-BO0624_81856,32898,268,227,DUE GRAziosI VAsI da farmacia a forma di rocchetto in maio- lica decorati da grande corona di frutta e foglie e da targhe con le iscrizioni:CON.D. ROSARO e CON. D. SALVLA. Faenza. Nel royescio la data 1669.,490,82.5,False,positional,CONSALVO CARELLI,Scuola Faentina,VASI DA FARMACIA,,
-BO0624_81856,32899,269,228,ALBERELLo in maiolica decorato a penne di pavone su fondo giallo e targa con l'iscrizione IERA. EXINVETIONE. Faenza. Secolo XV. Vedi illustrazione tav. xLix.,492,76.4,False,positional,CONSALVO CARELLI,Scuola Faentina,,,
+BO0624_81856,32898,268,227,DUE GRAziosI VAsI da farmacia a forma di rocchetto in maio- lica decorati da grande corona di frutta e foglie e da targhe con le iscrizioni:CON.D. ROSARO e CON. D. SALVLA. Faenza. Nel royescio la data 1669.,490,82.5,False,positional,CONSALVO CARELLI,Scuola Faentina,VASI DA FARMACIA,,Sec. XVII
+BO0624_81856,32899,269,228,ALBERELLo in maiolica decorato a penne di pavone su fondo giallo e targa con l'iscrizione IERA. EXINVETIONE. Faenza. Secolo XV. Vedi illustrazione tav. xLix.,492,76.4,False,positional,CONSALVO CARELLI,Scuola Faentina,,,Sec. XV
 BO0624_81856,32900,270,229,GRANDE ALBERELLo in maiolica decorato da corona centrale a frutta entro la quale la figura di Muzio Scevola in atio di bruciare la mano; zone orizzontali a decoro giallo su fondo bleu ed aitri piccoli ornati bleu e gialli su fondo verde:fascia centrale ed emblemi militari su fondo giallo ferraccia.In alto piccolo nastro con iscrizione: SEMEN. FENICULI. Casteldurante. Secolo xVI. Qualche piccolo restauro. Vedi illustrazione tav. XLIX.,493,99.5,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32901,271,230,BoccALE in maiolica di elegante forma a decorazione di sog getti marini ed alberi. I beccuccio a cornucopie con frutta. Il tutto lumeggiato in oro. Castelli. Grue.,494,98.8,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32902,272,231,GRAzIoSo PICcoLo PiATTo in maiolica decorato nel centro a soggetto pastorale e nel bordo da putti e fiori. Abruzzo. Se-,495,98.3,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32903,273,6,colo XVIll. Piccola felure.,496,96.2,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32904,274,7,232.FoNDINA in maiolica decorata a raffaellesche e da due piccoli,497,98.5,False,positional,CONSALVO CARELLI,,,,
-BO0624_81856,32905,275,8,stemmi.Urbino.Secolo XVII.,498,96.2,False,positional,CONSALVO CARELLI,,,,
+BO0624_81856,32905,275,8,stemmi.Urbino.Secolo XVII.,498,96.2,False,positional,CONSALVO CARELLI,,,,Sec. XVII
 BO0624_81856,32906,276,9,"233.SEl plAry! in porcellana a forma ottagona baccellati nell'interno. Decorazioni in bleu, rosso ed oro a guide di fiori. Sassonia.",499,99.2,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32907,277,234,SEI DETTI piu piccoli.,500,91.3,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32908,278,235,GRUPPO DI TRE AMoRINI. Porcellana di Sassonia. Qualche restauro.,501,96.8,False,positional,CONSALVO CARELLI,,,,
@@ -283,7 +283,7 @@ BO0624_81856,32911,281,237,DuE FONDINE in porcellana a bordi centinati decorate 
 BO0624_81856,32912,282,238,DuE GRAZIosI PIATTI in porcellana decorati a medaglioni con gruppi di fiori su fondo seminato di piccoli ornati. Sevres. Primo periodo.,505,98.5,False,positional,CONSALVO CARELLI,,PIATTI,,
 BO0624_81856,32913,283,229,TRE PiATTI in porcellana decorati a bistro ed a hleu a soggetti,506,96.9,False,positional,CONSALVO CARELLI,,PIATTI,,
 BO0624_81856,32914,284,17,rappresentanti dintorni di Roma.,507,95.4,False,positional,CONSALVO CARELLI,,,,
-BO0624_81856,32915,285,240,"PiATTo in porcellana a bordo centinato con ornati a rilievo e con decorazioni di gruppi di fiori. Nel rovescio leggesi: Pro- duiction Ginori, 1824. Fleurs par Donnibarozopi.",508,82.9,False,positional,CONSALVO CARELLI,,,,
+BO0624_81856,32915,285,240,"PiATTo in porcellana a bordo centinato con ornati a rilievo e con decorazioni di gruppi di fiori. Nel rovescio leggesi: Pro- duiction Ginori, 1824. Fleurs par Donnibarozopi.",508,82.9,False,positional,CONSALVO CARELLI,,,,Sec. XIX
 BO0624_81856,32916,286,241,SEI TAzzE da the con piatti in porcellana con decorazioni a rilievo su fondo in camaieu bleu. Medaglioni con piccoli fiori. Sassonia alla stella.,510,90.6,False,positional,CONSALVO CARELLI,,PIATTI,,
 BO0624_81856,32917,287,242,SETTE PIATTl e tazza da brodo in porcellana decorata a gruppi di fiori in bleu lumeggiati in oro. Venezia.,512,72.2,False,positional,CONSALVO CARELLI,,,,
 BO0624_81856,32918,288,243,BAMBINo PARRUCCHIERE. Figurina in porcellana a colori di Frankenthal.,514,97.1,False,positional,CONSALVO CARELLI,,,,
@@ -347,7 +347,7 @@ BO0624_81856,32975,345,298,"Vestigia di rovine con soggetto pastorale. Quadro ad
 BO0624_81856,32976,346,299,"Anacreontica virgiliana. Simpatico e chiaro dipinto ad olio su tela con cornice di legno intagliata e dorata. M. 0,61x0,78. Vedi illustrazione tav. Xxll.",639,98.7,False,positional,DIETRIECY,,,,
 BO0624_81856,32977,347,300,ll bosco d'!lfethal. Geniale e bel dipinto ad olio su tela di questo,643,97.1,False,positional,CROLA (ENRICO),,,,
 BO0624_81856,32978,348,301,Icone russa dipinta su legno rappresentante la Vergine col Bam-,645,96.9,False,positional,CROLA (ENRICO),,,,
-BO0624_81856,32979,349,302,Bellissima icone greco-russa rappresentante il Redentore in atto di benedire.Rivestitura esterna in lamina di argento con ornati sbalzati ed iscrizioni di smalto. Secolo XVIII.,647,98.9,False,positional,CROLA (ENRICO),,,,
+BO0624_81856,32979,349,302,Bellissima icone greco-russa rappresentante il Redentore in atto di benedire.Rivestitura esterna in lamina di argento con ornati sbalzati ed iscrizioni di smalto. Secolo XVIII.,647,98.9,False,positional,CROLA (ENRICO),,,,Sec. XVIII
 BO0624_81856,32980,350,303,"Via Appia. Acquarello in passe-par-tout e cristallo. M. 0,53x0,35.",651,96.9,False,positional,REVERTERA,,,,
 BO0624_81856,32981,351,304,"ANTICO TAPPETO PERSIANO KATCHE BOKARA a minuto disegno su fondo rosso oscuro. M. 1,55x1,25.",655,97.8,False,positional,REVERTERA,,,,
 BO0624_81856,32982,352,306,ANTICO DELIZIOSO TAPPETO PERSIANO YORDES. Il CentrO,658,96.2,False,positional,REVERTERA,,,,
@@ -359,26 +359,26 @@ BO0624_81856,32987,357,311,PlccoLA CuFFlA in ricamo d'oro a punto pieno. Antica 
 BO0624_81856,32988,358,312,TELO DI ANTICO E BEL BROCCATO LUIGI XIV a grandi rami di fiori in oro ed argento su fondo viola lamato d'oro. Nel basso stemma.,669,98.4,False,positional,REVERTERA,Periodo di Luigi XIV,,,
 BO0624_81856,32989,359,314,QUATTRO DETTI.,672,86.7,False,positional,REVERTERA,,,,
 BO0624_81856,32990,360,315,ANTIco PANNEAU cinese in raso gialletto e rosa ricamato a,673,96.6,False,positional,REVERTERA,,PANNELLI,,
-BO0624_81856,32991,361,316,"BuSTo DI PERSoNAGGIO in costume del secolo XV, egregia-",678,96.4,False,positional,REVERTERA,,,,
+BO0624_81856,32991,361,316,"BuSTo DI PERSoNAGGIO in costume del secolo XV, egregia-",678,96.4,False,positional,REVERTERA,,,,Sec. XV
 BO0624_81856,32992,362,2,mente modellato in terracotta. Riproduzione dell'antico.,679,98.2,False,positional,REVERTERA,,,,
 BO0624_81856,32993,363,3,316-a DuE BusTI di personaggi scolpiti in pietra arenaria. Arte ita,680,98.5,False,positional,REVERTERA,,,,
 BO0624_81856,32994,364,4,licamolto remota.,681,94.1,False,positional,REVERTERA,,,,
-BO0624_81856,32995,365,5,"317.CI0NI ANDREA detto ANDREA DEL VERROCCHIO (1435-1488). Busto in terracotta di San Giovanni Battista. Opera meravigliosa di modellazione nella quale il senso vivo dell'estasi del Precursore e ritratto con rara maestria. Per questo busto varie furono le critiche e profondo lo studio dei numerosi ammiratori, alcuno fra i quali volle la presente opera parto del divin Leonardo,specialmente per la delicatezza dei contorni che s'allontana dalla maniera rude e squadrata del Verrocchio. Pezzo dichiarato di sommo pregio dal Ministero",682,99.8,False,positional,REVERTERA,,,,
+BO0624_81856,32995,365,5,"317.CI0NI ANDREA detto ANDREA DEL VERROCCHIO (1435-1488). Busto in terracotta di San Giovanni Battista. Opera meravigliosa di modellazione nella quale il senso vivo dell'estasi del Precursore e ritratto con rara maestria. Per questo busto varie furono le critiche e profondo lo studio dei numerosi ammiratori, alcuno fra i quali volle la presente opera parto del divin Leonardo,specialmente per la delicatezza dei contorni che s'allontana dalla maniera rude e squadrata del Verrocchio. Pezzo dichiarato di sommo pregio dal Ministero",682,99.8,False,positional,REVERTERA,,,,Sec. XV
 BO0624_81856,32996,366,6,di Belle Arti. Vedi illustrazioni tav. Xxx!-xxxl.,683,97.8,False,positional,REVERTERA,,,,
 BO0624_81856,32997,367,7,318.BUSTINO DI GlovANETTo in terracotta policromata. Epoca,684,98.3,False,positional,REVERTERA,,,,
 BO0624_81856,32998,368,8,Luigi xVI.,685,90.0,False,positional,REVERTERA,,,,
-BO0624_81856,32999,369,319,PINELLI BARTOLOMEo. La rissa.Grazioso gruppo in terracotta firmato e datato 1830.Qualche piccolo restauro.,686,98.1,False,positional,REVERTERA,,,,
+BO0624_81856,32999,369,319,PINELLI BARTOLOMEo. La rissa.Grazioso gruppo in terracotta firmato e datato 1830.Qualche piccolo restauro.,686,98.1,False,positional,REVERTERA,,,,Sec. XIX
 BO0624_81856,33000,370,320,"ZECCHIN.The death of lady Jane Gray.— Del Soglio. Carlo II che ritrova la famiglia del colonnello Windams. Due incisioni a colori dagli originali di Martin e Stothard. Cornici dorate,",690,98.9,False,positional,REVERTERA,,CORNICI,,
 BO0624_81856,33001,371,2,"passe-par-tout e cristalli. M. 0,46x0,52.",691,97.4,False,positional,REVERTERA,,,,
 BO0624_81856,33002,372,3,321.FREJ JAC. La comunione di San Girolamo. Incisione in rame,692,98.3,False,positional,REVERTERA,,,,
 BO0624_81856,33003,373,4,dall'originale di Domenico Zampieri detto il Domenichino. Cornice e cristallo.,693,98.7,False,positional,REVERTERA,,,,
 BO0624_81856,33004,374,322,ANTICO ED IMPORTANTE KAKEMoNO finemente decorato a co- lori dalla figura del Buddha seduto sul fioredi loto e circondato da varie divinita. Fondo di stoffa. Antica Cina.,695,80.6,False,positional,REVERTERA,,,,
 BO0624_81856,33005,375,323,VIANELLl. Vedute di Napoli. Sei graziosi piccoli acquarelli alla sepia schizzati a penna. Firmati. Astuccio in carta pergamenacea.,697,66.7,False,positional,REVERTERA,,,,
-BO0624_81856,33006,376,324,"DuPLESSIs BERTAUx. Adunata dell'armata napoleonica nell'anno 1814,prima della grande battaglia di Waterloo.Fine incisione in rame avanti lettera. Cornice a mogano e cristallo. M.0,38×0,64.",698,98.9,False,positional,REVERTERA,,,,
+BO0624_81856,33006,376,324,"DuPLESSIs BERTAUx. Adunata dell'armata napoleonica nell'anno 1814,prima della grande battaglia di Waterloo.Fine incisione in rame avanti lettera. Cornice a mogano e cristallo. M.0,38×0,64.",698,98.9,False,positional,REVERTERA,,,,Sec. XIX
 BO0624_81856,33007,377,325,"EICHLER M. G. Vue du palais de marbre et de ses environs vers la Newa. Incisione in rame dall'originale di Mayr. Cornice a mogano, passe-par-tout e cristallo. M.0,44x0,67.",699,98.8,False,positional,REVERTERA,,,,
-BO0624_81856,33008,378,326,"BAGETTI e KLAUBER.Te Deum cantato a Parigi il 10 aprile, giorno di Pasqua dell'anno 1814 e fine della gucrra del 1812, 1813 e 1814. Grande incisione in rame corta di margini in",700,98.9,False,positional,REVERTERA,,,,
+BO0624_81856,33008,378,326,"BAGETTI e KLAUBER.Te Deum cantato a Parigi il 10 aprile, giorno di Pasqua dell'anno 1814 e fine della gucrra del 1812, 1813 e 1814. Grande incisione in rame corta di margini in",700,98.9,False,positional,REVERTERA,,,,Sec. XIX
 BO0624_81856,33009,379,12,"passe-par-tout, cornice a mogano e cristallo. M. 0,55x0,81.",701,97.3,False,positional,REVERTERA,,,,
-BO0624_81856,33010,380,13,"327.DE PRENNER GIoRGIO GASPARO. Ritratti ricavati dall'originale e disegnati alla matita di Silvio Valenti Gonzaga segretario di Stato di Papa Benedetto XIV,di Traiano d'Acquaviva d'Aragona ambasciatore di Spagna alla Corte di Roma nel 1745, e di Cornelia Costanza Barberini principessa di Palestrina ed erede della facolta di Urbano VIll. Passe-par-tout a",702,99.6,False,positional,REVERTERA,,,,
+BO0624_81856,33010,380,13,"327.DE PRENNER GIoRGIO GASPARO. Ritratti ricavati dall'originale e disegnati alla matita di Silvio Valenti Gonzaga segretario di Stato di Papa Benedetto XIV,di Traiano d'Acquaviva d'Aragona ambasciatore di Spagna alla Corte di Roma nel 1745, e di Cornelia Costanza Barberini principessa di Palestrina ed erede della facolta di Urbano VIll. Passe-par-tout a",702,99.6,False,positional,REVERTERA,,,,Sec. XVIII
 BO0624_81856,33011,381,14,colori ed oro.,703,89.7,False,positional,REVERTERA,,,,
 BO0624_81856,33012,382,328,ALEXANDER ZEMLENUTIN. Kosack of the Don regiment sulin the 9th. Antica incisione a colori in cornice a mogano e cri-,704,98.3,False,positional,REVERTERA,,,,
 BO0624_81856,33013,383,16,"stallo. M. 0,46x0,29.",705,92.3,False,positional,REVERTERA,,,,
@@ -390,13 +390,13 @@ BO0624_81856,33018,388,333,DuE PlATTiNI in maiolica; uno decorato da paesaggio e
 BO0624_81856,33019,389,334,"vAso a due anse in maiolica,decorato in bleu a grandi guide di foglie e targa per iscrizione, in giallo e verde ramina. Faenza, secolo xVII.",724,71.6,False,positional,REVERTERA,Scuola Faentina,VASI,,
 BO0624_81856,33020,390,335,"BRocCHETTA di maiolica a beccuccio ed ansa,decorata in bleu a fiori e nastro con iscrizione. Nel basso piccolo stemma in giallo. Faenza, secolo xvII.",725,88.8,False,positional,REVERTERA,Scuola Faentina,,,
 BO0624_81856,33021,391,336,"DUE BRoccHETTE di maiolica decorate in bleu a gruppi di fiori e nastri con iscrizioni. Faenza, secolo xvIl. Una leggermente difettosa.",727,94.5,False,positional,REVERTERA,Scuola Faentina,,,
-BO0624_81856,33022,392,337,"BRoCcHETTA a beccuccio ed ansa, in maiolica decorata a raffaellesche e nastro con iscrizione. Nel basso piccolo stemma e la data 1672. Urbino. Difettosa di smalto.",729,83.5,False,positional,REVERTERA,,,,
+BO0624_81856,33022,392,337,"BRoCcHETTA a beccuccio ed ansa, in maiolica decorata a raffaellesche e nastro con iscrizione. Nel basso piccolo stemma e la data 1672. Urbino. Difettosa di smalto.",729,83.5,False,positional,REVERTERA,,,,Sec. XVII
 BO0624_81856,33023,393,338,"PICCoLA ELEGANTE BROCCHETTA in maiolica decorata in bleu a guide di fori e targa con iscrizione. Faenza, sec. xvII. Beccuccio difettoso.",731,98.5,False,positional,REVERTERA,Scuola Faentina,,,
 BO0624_81856,33024,394,339,CAFFETrIERA a forma sagomata con beccuccio a testa di ani,732,96.6,False,positional,REVERTERA,,,,
 BO0624_81856,33025,395,3,tra; nel corpo due paesaggi a colori. Genova. Secolo xVIH.,733,98.2,False,positional,REVERTERA,,,,
-BO0624_81856,33026,396,4,"340.IMPoRTANTE VAsO a forma ovoide in maiolica decorata ad emblemi militari,medaglione con busto di donna e nel rovescio a hellissime raffaellesche in camaieu su fondo bleu e stemma centrale. Faenza. Secolo XVI. Vedi illustrazione tav. xLix.",734,99.6,False,positional,REVERTERA,Scuola Faentina,VASI,,
+BO0624_81856,33026,396,4,"340.IMPoRTANTE VAsO a forma ovoide in maiolica decorata ad emblemi militari,medaglione con busto di donna e nel rovescio a hellissime raffaellesche in camaieu su fondo bleu e stemma centrale. Faenza. Secolo XVI. Vedi illustrazione tav. xLix.",734,99.6,False,positional,REVERTERA,Scuola Faentina,VASI,,Sec. XVI
 BO0624_81856,33027,397,341,GRANDE BoRRACcIA toscana in maiolica decorata a scomparti con medaglioni a gigli ed altri ornati contornati in manganese. Quattro anse a nastro. Secolo xVI. Pezzo raro. Vedi illu- strazione tav. xLix.,735,93.8,False,positional,REVERTERA,,SCOMPARTI,,
-BO0624_81856,33028,398,342,FRUTTIERA A PIEDucCIo in maiolica finemente decorata a colori a soggetto campestre rappresentante la mungitura del latte. Urbino. Secolo XVI. Bottega di Orazio Fontana.,737,98.8,False,positional,REVERTERA,,,,
+BO0624_81856,33028,398,342,FRUTTIERA A PIEDucCIo in maiolica finemente decorata a colori a soggetto campestre rappresentante la mungitura del latte. Urbino. Secolo XVI. Bottega di Orazio Fontana.,737,98.8,False,positional,REVERTERA,,,,Sec. XVI
 BO0624_81856,33029,399,343,DUE ANTiCHE PINE in maiolica a smalto verde. Faenza.,738,96.2,False,positional,REVERTERA,Scuola Faentina,,,
 BO0624_81856,33030,400,344,DUE DETTE un poco piu grandi.,739,93.3,False,positional,REVERTERA,,,,
 BO0624_81856,33031,401,345,GRANDE BRoccA da farmacia a beccuccio ed ansa in maiolica decorata in bleu e manganese ad alberi ed uccelli. Nel prospetto targa per iscrizione. Coperchio. Abruzzo. Secolo xVIII. Beccuccio restaurato.,740,93.3,False,positional,REVERTERA,,,,
@@ -454,7 +454,7 @@ BO0624_81856,33082,452,395,"GRANDE TAVoLO da centro in noce per uso scrittoio. N
 BO0624_81856,33083,453,396,"GRANDE MENSoLA da parete formata con davanti di antica cassa cinquecentesca di noce intagliata ed intarsiata,",859,98.2,False,positional,DE WAEL CORNELIO,,,,
 BO0624_81856,33084,454,2,"397.IMPORTANTE CASSONE NUZIALE ad urna, di noce riccamente scolpito a gruppi di foglie d'acanto che hanno nel centro uno stemma retto da sirene,Ai lati cariatidi di putti. Coperchio a bellissimi ornati. Piedi a zampa di leone. Campione d'arte",860,99.6,False,positional,DE WAEL CORNELIO,,,,
 BO0624_81856,33085,455,3,della Rinascenza. Vedi illustrazione tav. Lll:,861,97.7,False,positional,DE WAEL CORNELIO,,,,
-BO0624_81856,33086,456,398,BELLA CREDENZA in noce di forma architettonica con filettature di legno cedro. Arte toscana del secolo XV. Due cassetti e due sportelli. Vedi illustrazione tav. Ll.,862,98.8,False,positional,DE WAEL CORNELIO,,,,
+BO0624_81856,33086,456,398,BELLA CREDENZA in noce di forma architettonica con filettature di legno cedro. Arte toscana del secolo XV. Due cassetti e due sportelli. Vedi illustrazione tav. Ll.,862,98.8,False,positional,DE WAEL CORNELIO,,,,Sec. XV
 BO0624_81856,33087,457,399,CoMMoDE di noce a tre cassetti. Lateralmente due colonnine con capitelli e basi di bronzo. Piedi a zampe di leone. Piano,863,98.3,False,positional,DE WAEL CORNELIO,,,,
 BO0624_81856,33088,458,6,in marmo brecciato. Epoca Impero.,864,96.9,False,positional,DE WAEL CORNELIO,,,,
 BO0624_81856,33089,459,7,400.PiCGolA GoMMoDE in radica di noce a due sportelli e tiretto,865,98.4,False,positional,DE WAEL CORNELIO,,,,
@@ -489,9 +489,9 @@ BO0624_81856,33117,487,425,TESTA DELL'IMPERATORE GIULIO CESARE. Antica bella Scu
 BO0624_81856,33118,488,426,CANE DI Fo'.Grande bellissimo bronzo ad ornati finemente cesellati ed occhi dorati. Base parimenti di lacca.Cina.,918,98.2,False,positional,DE WAEL CORNELIO,,,,
 BO0624_81856,33119,489,4,427.IMPORTANTE VASO DI DEVOZIONE di snella ed elegante forma;il corpo schiacciato a disegno geometrico con pannelli,919,99.1,False,positional,DE WAEL CORNELIO,,PANNELLI,,
 BO0624_81856,33120,490,5,incisi ad iscrizioni ed ornati. Cina.Arte remota.Proveniente dal palazzo Imperiale.,920,98.8,False,positional,DE WAEL CORNELIO,,,,
-BO0624_81856,33121,491,428,PROFuMIERA in bronzo a forma di venditore di frutta. Cina. Secolo XVIII.,921,86.8,False,positional,DE WAEL CORNELIO,,,,
+BO0624_81856,33121,491,428,PROFuMIERA in bronzo a forma di venditore di frutta. Cina. Secolo XVIII.,921,86.8,False,positional,DE WAEL CORNELIO,,,,Sec. XVIII
 BO0624_81856,33122,492,429,BuDDHA in atto di predicare. Figurina in bronzo. Arte birmana.,923,96.7,False,positional,DE WAEL CORNELIO,,,,
-BO0624_81856,33123,493,9,Secolo XVIII.,924,92.3,False,positional,DE WAEL CORNELIO,,,,
+BO0624_81856,33123,493,9,Secolo XVIII.,924,92.3,False,positional,DE WAEL CORNELIO,,,,Sec. XVIII
 BO0624_81856,33124,494,10,di elefanti. Coperchio a guide di fiori. Birmania.,925,96.9,False,positional,DE WAEL CORNELIO,,,,
 BO0624_81856,33125,495,431,"DEL SoGLIO e CONTE. The morning e The evening. Due belle incisioni in rame a colori dagli originali di Hamilton. Cornici in parte dorate. Passe-par-tout e cristalli. M. 0,46x0,52.",928,98.9,False,positional,DE WAEL CORNELIO,,CORNICI,,
 BO0624_81856,33126,496,432,"VEDovATo PIETRO.Coriolano e Vetulia,ed Ersilia fra i romani e i sabini. Due belle incisioni a colori dagli originali di Lebarbier e Singleton. Cornici dorate,passe-par-tout e cristalli M.0,60x0,70.",929,99.0,False,positional,DE WAEL CORNELIO,,CORNICI,,
@@ -511,9 +511,9 @@ BO0624_81856,33139,509,9,fondo verdino. Il rovescio alla rustica. Pesaro.,956,97
 BO0624_81856,33140,510,444,"BRocCHETTA a beccuccio ed ansa in maiolica decorata da foglie in bleu, da piccoli mascheroni a rilievo e targa con iscrizioni.Abruzzo.",957,98.5,False,positional,DE WAEL CORNELIO,,,,
 BO0624_81856,33141,511,11,445.vAso da farmacia in maiolica decorato a fiori in bleu e targa,958,97.7,False,positional,DE WAEL CORNELIO,,VASI,,
 BO0624_81856,33142,512,12,a colori per iscrizioni. Due anse. Abruzzo. Secolo xvIIL.,959,97.2,False,positional,DE WAEL CORNELIO,,,,
-BO0624_81856,33143,513,446,BoTTIGLIA da farmacia in maiolica decorata da ghirlanda di frutta e foglie; nell'interno piccoli ornati in giallo su fondo giallo. Targa con iscrizione: AQU. DI. ANONIDE. Faenza. Secolo XVI. Manca parte del collo.,960,90.2,False,positional,DE WAEL CORNELIO,Scuola Faentina,,,
+BO0624_81856,33143,513,446,BoTTIGLIA da farmacia in maiolica decorata da ghirlanda di frutta e foglie; nell'interno piccoli ornati in giallo su fondo giallo. Targa con iscrizione: AQU. DI. ANONIDE. Faenza. Secolo XVI. Manca parte del collo.,960,90.2,False,positional,DE WAEL CORNELIO,Scuola Faentina,,,Sec. XVI
 BO0624_81856,33144,514,447,DUE MATToNELLE in maiolica decorate a rilievo a guide di foglie a colori riunite da un cornice di legno. Arte ispanoaraba.,962,98.4,False,positional,DE WAEL CORNELIO,,,,
-BO0624_81856,33145,515,448,"IMPoRTANTE BOCCALE in maiolica decorato nel prospettc da grande stemma in bleu, manganese, verde ramina e giallo ferraccia. Faenza. Secolo XV. Vedi illustrazione tav. xLix.",963,98.8,False,positional,DE WAEL CORNELIO,Scuola Faentina,,,
+BO0624_81856,33145,515,448,"IMPoRTANTE BOCCALE in maiolica decorato nel prospettc da grande stemma in bleu, manganese, verde ramina e giallo ferraccia. Faenza. Secolo XV. Vedi illustrazione tav. xLix.",963,98.8,False,positional,DE WAEL CORNELIO,Scuola Faentina,,,Sec. XV
 BO0624_81856,33146,516,449,GRANDE VASo da farmacia in maiolica a decorazione di em-,964,96.5,False,positional,DE WAEL CORNELIO,,VASI,,
 BO0624_81856,33147,517,450,PIATTo in maiolica a coperta bleu decorata ad ornati in oro e,966,96.8,False,positional,DE WAEL CORNELIO,,,,
 BO0624_81856,33148,518,451,SEI ANTICHE E RARE MATTONELLE in maiolica decorate a rilievo da soggetto'rappresentante la caccia al falco.Fondo,968,98.2,False,positional,DE WAEL CORNELIO,,,,
@@ -549,7 +549,7 @@ BO0624_81856,33177,547,480,ANTICA ORIGINALE OREDENZINA in noce squisitamente sco
 BO0624_81856,33178,548,481,ANTICA GRAzIOSA PANCA in noce di forma architettonica;ai lati mensole intagliate. Secolo.XVI.,1057,74.2,False,positional,CARLANDI ONORATO,,,,
 BO0624_81856,33179,549,482,"GRAzIOSA ANTICA SGRIVANIA detta di S. Filippo, in noce e radica di noce; due cassetti e tre superiormente. Gambe a lira con traverse di ferro battuto. Secolo xvLI.",1059,81.2,False,positional,CARLANDI ONORATO,,,,
 BO0624_81856,33180,550,483,DUE GRANDI ED ELEGANTI TORCIERI di legno finemente intagliati a graziosi motivi ornamentali;in parte policromati ed in parte dorati. Annessi abat-jours di seta. Campione di arte della Rinascenza.,1061,99.0,False,positional,CARLANDI ONORATO,,,,
-BO0624_81856,33181,551,484,"ANTICA E BELLA GREDENZA in noce a tre cassetti e due sportelli, con riquadrature scolpite. Decorazioni di bronzi. Arte veneziana del secolo XVI.",1062,88.8,False,positional,CARLANDI ONORATO,,,,
+BO0624_81856,33181,551,484,"ANTICA E BELLA GREDENZA in noce a tre cassetti e due sportelli, con riquadrature scolpite. Decorazioni di bronzi. Arte veneziana del secolo XVI.",1062,88.8,False,positional,CARLANDI ONORATO,,,,Sec. XVI
 BO0624_81856,33182,552,485,"BELLISSIMO BUREAU-CREDENCE a due corpi,in marqueterie di legni vari;la parte inferiore a quattro cassetti e sportello a cerniera,con divisioni interne e numerosi tiretti;la parte superiore a due sportelli parimenti a numerose divisioni. Ai lati colonne a salomonica in parte dorate. Nell'alto putti e stemmi intagiiati e dorati.Epoca Luigi XIV.Vedi illustra zione tav. Lill.",1064,99.5,False,positional,CARLANDI ONORATO,Periodo di Luigi XIV,OGGETTI IN LEGNO,,
 BO0624_81856,33183,553,486,ORIGINALE TABACCHIERA ovale in oro e smalti translucidi; sul coperchio figura di giovanetto guardiano di capre che giuoca con l'aquilone; soggetto che si ripete anche nel fondo. Nel corpo parimenti piccoli pannelli di smalto. Epoca Luigi XVI. Vedi illustrazione tav. Xxxvl.,1068,99.3,False,positional,CARLANDI ONORATO,,PANNELLI,,
 BO0624_81856,33184,554,487,"ORlGINALE TABAGCHIERA a forma rettangolare in pietra du- ra, con montatura di oro; sul coperchio cameo rappresentante testa di sfinge; ricca decorazione di piccoli dischi pari menti in pietra dura. Epoca Impero.",1070,84.3,False,positional,CARLANDI ONORATO,,,,
@@ -610,7 +610,7 @@ BO0624_81856,33238,608,536,E. M.F.Flora. Grazioso busto in marmo su pieduccio di
 BO0624_81856,33239,609,537,D'EPINAy. Giovanna d'Arco. Bella figurina in marmo greco.,1157,96.4,False,positional,CARLANDI ONORATO,,,,
 BO0624_81856,33240,610,538,"BURK TH. Abra. Antica bella incisione in rame alla sanguina, dall'originale di Angelica Kauffmann. Cornice di noce e cri stallo.M.0,41x0,31.",1161,98.5,False,positional,CARLANDI ONORATO,,,,
 BO0624_81856,33241,611,539,Id.Id.Una.Incisione d'accompagno alla precedente.,1162,96.0,False,positional,CARLANDI ONORATO,,,,
-BO0624_81856,33242,612,540,:AvRiL. Catherine II voyageant dans ses Etats en 1787. Grande e bella incisione in rame dall'originale di Ferdinando de Meys.,1163,98.4,False,positional,CARLANDI ONORATO,,,,
+BO0624_81856,33242,612,540,:AvRiL. Catherine II voyageant dans ses Etats en 1787. Grande e bella incisione in rame dall'originale di Ferdinando de Meys.,1163,98.4,False,positional,CARLANDI ONORATO,,,,Sec. XVIII
 BO0624_81856,33243,613,541,"DuE ALBuMs contenenti ventiquattro finissime pitture su carta di riso, alcune con applicazioni: di stoffe,e riproducenti costumi, paesaggi cinesi, nonche fiori ed insetti. Legature in rasorosso.",1165,98.9,False,positional,CARLANDI ONORATO,,INSETTI,,
 BO0624_81856,33244,614,542,"JOsl, DuMEE e SCoTT. Soggetti storici. Quattro belle incisioni inglesi a colori dagli originali di Metz, Stothard e Hamilton. Cornici dorate, passe-par-touts e cristalli. M. 0,41x0,37.",1166,98.9,False,positional,CARLANDI ONORATO,,CORNICI,,
 BO0624_81856,33245,615,543,ANTICo KAKEMoNo dipinto ad inchiostro di Cina a testa di,1167,96.6,False,positional,CARLANDI ONORATO,,,,
@@ -620,13 +620,13 @@ BO0624_81856,33248,618,546,PlATTo in maiolica decorato da piccoli ornati e figur
 BO0624_81856,33249,619,547,"DuE ALBERELLI, uno a rocchetto decorato in bleu su fondo berrettino;l'altro con ornati a colori e stemma con l'iscrizione:ALOE LAVATO.Abruzzo.",1184,98.6,False,positional,CARLANDI ONORATO,,,,
 BO0624_81856,33250,620,548,DuE VAsl da farmacia a forma balaustro in maiolica decorati in bleu ad ornati e le iscrizioni STROFASARIA E SANDALO,1185,98.3,False,positional,CARLANDI ONORATO,,,,
 BO0624_81856,33251,621,549,"DuE ALBERELLI in maiolica di differenti forme,decorati da corone di frutta, piccolo stemma e nastri con iscrizioni. Faenza. Secolo xVI.",1187,98.5,False,positional,CARLANDI ONORATO,Scuola Faentina,,,
-BO0624_81856,33252,622,550,ELEGANTE VASo da farmacia in maiolica a decorazione di guide di fiori in bleu e giallo e nastro con iscrizione: DIADRAGANTE FRIGIDO.Faenza.Secolo XVII.,1188,98.7,False,positional,CARLANDI ONORATO,Scuola Faentina,VASI,,
+BO0624_81856,33252,622,550,ELEGANTE VASo da farmacia in maiolica a decorazione di guide di fiori in bleu e giallo e nastro con iscrizione: DIADRAGANTE FRIGIDO.Faenza.Secolo XVII.,1188,98.7,False,positional,CARLANDI ONORATO,Scuola Faentina,VASI,,Sec. XVII
 BO0624_81856,33253,623,551,"ORlGINALE VASO da farmacia,in maiolica,ad un'ansa, decorato in bleu a foglie e nastro con l'iscrizione:UT. EGINZIA-",1189,98.2,False,positional,CARLANDI ONORATO,,VASI,,
 BO0624_81856,33254,624,502,"DuE ALBERELLI di diverse grandezze, in maiolica,decorati in bleu a gruppi di foglie su fondo berrettino e nastri con iscrizione:U. BASILI -ELE..D. SEBE. N. S. Faenza.Sec. XVI.",1191,98.8,False,positional,CARLANDI ONORATO,Scuola Faentina,,,
 BO0624_81856,33255,625,553,"PlccoLo VAso a forma di balaustra,in maiolica,a decorazione bleu. Nastro con iserizione: T. D. REOBARBARO. Faenza.",1192,98.2,False,positional,CARLANDI ONORATO,Scuola Faentina,VASI,,
 BO0624_81856,33256,626,554,"ORIGINALE GRANDE VASO in maiolica, a quattro anse, mascheroni conchiglie e teste d'uomo a rilievo. Smalto a manganese spruzzato di bianco. Padova. Secolo xvI.",1193,98.7,False,positional,CARLANDI ONORATO,,VASI,,
 BO0624_81856,33257,627,555,"GRAzioso PlcGoLo VAso da farmacia a forma di balaustro, in maiolica,a decorazione in bleu su fondo berrettino. Sul prospetto piccolo stemma e nastro con iscrizione:PIL.D. SI NE. QUIBUS. Faenza.",1194,98.9,False,positional,CARLANDI ONORATO,Scuola Faentina,VASI,,
-BO0624_81856,33258,628,556,"BoccALE primitivo,in maiolica. Nel prospetto decorato a medaglione con fiore stilizzato entro una zona a dentello. Faenza .Secolo XV. Becco restaurato. Vedi illustrazione tav.xLix.",1195,98.9,False,positional,CARLANDI ONORATO,Scuola Faentina,,,
+BO0624_81856,33258,628,556,"BoccALE primitivo,in maiolica. Nel prospetto decorato a medaglione con fiore stilizzato entro una zona a dentello. Faenza .Secolo XV. Becco restaurato. Vedi illustrazione tav.xLix.",1195,98.9,False,positional,CARLANDI ONORATO,Scuola Faentina,,,Sec. XV
 BO0624_81856,33259,629,557,ALBERELLo in maiolica decorato nel prospetto da corona di,1196,96.6,False,positional,CARLANDI ONORATO,,,,
 BO0624_81856,33260,630,558,ALBERELLo in maiolica a decorazione in bleu su fondo berret-,1198,96.7,False,positional,CARLANDI ONORATO,,,,
 BO0624_81856,33261,631,559,CINQuE PIATTINI in maiolica decorati a stemmi centrali e piccoli ornati bleu. Genova. Valente.,1200,97.8,False,positional,CARLANDI ONORATO,,,,
@@ -654,7 +654,7 @@ BO0624_81856,33282,652,578,"DoDIcI PIATTI in porcellana decorati a scomparti con
 BO0624_81856,33283,653,579,vENTITRE PIATTI in porcellana decorati in bleu ed oro e piccolo bordo con ornati a colori. Indocina.,1230,98.0,False,positional,CARLANDI ONORATO,,PIATTI,,
 BO0624_81856,33284,654,580,"DuE PIATTI in porcellana decorati a gruppi di peonie e galletti. Cina, famiglia rosa.",1231,97.6,False,positional,CARLANDI ONORATO,,PIATTI,,
 BO0624_81856,33285,655,581,TRE PIATTl ovali e due vassoi cttagonali in porcellana decorati a bianco su bianco a gruppi di fiori ed ornati e fiori a colori ed oro. Indocina.,1232,98.6,False,positional,CARLANDI ONORATO,,,,
-BO0624_81856,33286,656,582,"DuE PIATTI in porceliana decorati ad emblemi augurali ed utensili in verde e rosso su fondo nocciuola. Cina,Van-Li, 1595-",1233,98.3,False,positional,CARLANDI ONORATO,,PIATTI,,
+BO0624_81856,33286,656,582,"DuE PIATTI in porceliana decorati ad emblemi augurali ed utensili in verde e rosso su fondo nocciuola. Cina,Van-Li, 1595-",1233,98.3,False,positional,CARLANDI ONORATO,,PIATTI,,Sec. XVI
 BO0624_81856,33287,657,1608,"- J83. GRANDE BoL con coperchio in porcellana decorata a scompartr con fiori di garofano bleu. Cina, Nanking. Coperchio restau-",1235,100.0,False,positional,CARLANDI ONORATO,,,,
 BO0624_81856,33288,658,584,DuE CAcHE-PoTs esagoni in porcellana decorati a fiori di peonie,1237,96.9,False,positional,CARLANDI ONORATO,,,,
 BO0624_81856,33289,659,585,"DuE BELLE TAzZE a coperchio in porcellana, decorate a piccoli galli e gruppi di fiori. Due anse. Antica Cina. Vedi illu strazione tav. xLiI.",1239,98.5,False,positional,CARLANDI ONORATO,,,,
@@ -682,18 +682,18 @@ BO0624_81856,33310,680,604,"Dame e cavalieri in luogo di villeggiatura. Fine pit
 BO0624_81856,33311,681,605,"Arehitetture fantasiose con fondo di paesaggio,armenti e figure. Dipinto ad olio su tela per soprapporta.M. 0,68x1,31.",1285,69.2,False,positional,PANNINI (GIO. PAO.),,,,
 BO0624_81856,33312,682,606,"I Re Magi a Presepe. Pittura a grisaille, probabilmente bozzetto per una grande pala d'altare.Cornice dorata. M.0,66x0,43.",1292,98.3,False,positional,PITTONI G. B.,,,,
 BO0624_81856,33313,683,607,"La Vergine,il Bambino e San Giovanni. Pittura ad olio su tavola",1297,96.9,False,positional,,SCUOLA VENEZIANA,,,
-BO0624_81856,33314,684,608,"Natura morta e fori. Fine pittura ad olio su tavola con cornice di legno a tre ordini d'intaglio, dorata. Firmato Alex. fesit. A. 1646. M. 0,43x0,63. Vedi illustrazione tav. XIV.",1301,98.8,False,positional,ADRIEANSSEN ALEX.,,,,
+BO0624_81856,33314,684,608,"Natura morta e fori. Fine pittura ad olio su tavola con cornice di legno a tre ordini d'intaglio, dorata. Firmato Alex. fesit. A. 1646. M. 0,43x0,63. Vedi illustrazione tav. XIV.",1301,98.8,False,positional,ADRIEANSSEN ALEX.,,,,Sec. XVII
 BO0624_81856,33315,685,609,Rimorchio di una caravella in mare tempestoso.Pittura ad olio,1305,96.8,False,positional,VAN GOYEN,,,,
 BO0624_81856,33316,686,610,"Bambino in orazione. Pittura ad olio a mezzo busto, nella quale rifulge tutto il sentimento di questo grande artistaAppartiene alla sua ultima maniera.Cornice nera con listello dorato. M. 0,45x0.37. Vedi iilustrazione tav.xx111.",1311,83.9,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33317,687,611,Giovanetta in atto di addormentarsi poggiata sul braccio. Quadro,1315,96.9,False,positional,GREUZE GIOVANNI BATTISTA,,OGGETTI VARI,,
-BO0624_81856,33318,688,612,Icone russa dipinta su legno a figura della Vergine che ha in grembo il Bambino. Placca esterna in argento fineimente cesellato. Secolo XIX.,1323,98.6,False,positional,GREUZE GIOVANNI BATTISTA,,,,
+BO0624_81856,33318,688,612,Icone russa dipinta su legno a figura della Vergine che ha in grembo il Bambino. Placca esterna in argento fineimente cesellato. Secolo XIX.,1323,98.6,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. XIX
 BO0624_81856,33319,689,613,"ELEGANTE TAvoLo da giuoco,in noce, con marqueterie in legno di olivo. Piano a cerniera. Epoca Luigi xV.",1327,98.0,False,positional,GREUZE GIOVANNI BATTISTA,Periodo di Luigi XV,,,
 BO0624_81856,33320,690,614,"BELLISSIMA ARPA a sette pedali,di legno finemente intagliato ed in parte dorato. Fine decorazione di medaglioni con maschere e vasi di fiori. Firmato: Coioza Francois, Parigi. Epo- ca Luigi XVI.",1328,95.3,False,positional,GREUZE GIOVANNI BATTISTA,,VASI,,
 BO0624_81856,33321,691,615,"ANTIcA E BELLA POLTRONA di noce in parte intagliato, con bracciuoli di originale forma. Da ricoprirsi. Epoca Luigi xV.",1330,98.3,False,positional,GREUZE GIOVANNI BATTISTA,Periodo di Luigi XV,POLTRONE,,
 BO0624_81856,33322,692,616,ALTRADETTA simile.,1331,89.5,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33323,693,617,ATLRA di forma differente.,1332,92.6,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33324,694,618,ORiGINALE CoMMoDE olandese a forma bombata in marqueterie di noce di due colori. Due cassetti con maniglie di bronzo. Epoca Luigi xV.,1333,98.5,False,positional,GREUZE GIOVANNI BATTISTA,Periodo di Luigi XV,,,
-BO0624_81856,33325,695,619,"ANTICA E BELLA CREDENZA toscana,in noce scolpito Nel prospetto sportello centrale tra due pilastri e due colonnine; superiormente un cassetto. Secolo XVI. Vedi illustrazione tav. L.",1334,98.9,False,positional,GREUZE GIOVANNI BATTISTA,,,,
+BO0624_81856,33325,695,619,"ANTICA E BELLA CREDENZA toscana,in noce scolpito Nel prospetto sportello centrale tra due pilastri e due colonnine; superiormente un cassetto. Secolo XVI. Vedi illustrazione tav. L.",1334,98.9,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. XVI
 BO0624_81856,33326,696,620,"IMPORTANTE SCRIGNO A BAMBOCCI in noce;pilastri a cariatidi di putti e di donne; nella parte superiore tre cassetti, sportello a cerniera,e nell'interno sportelli con bellissimi bassorilievi con soggetti rappresentanti la Sacra Famiglia e Sandue pilastri a cariatidi. Campione d'arte della Rinascenza. Vedi illustrazione tav. L.",1335,99.4,False,positional,GREUZE GIOVANNI BATTISTA,,BASSORILIEVI,,
 BO0624_81856,33327,697,621,POLTRONA di noce con piano e dossello ricoperti di cuoio e ciuf-,1336,96.9,False,positional,GREUZE GIOVANNI BATTISTA,,POLTRONE,,
 BO0624_81856,33328,698,622,ORiGINALE TABACCHIERA in tartaruga ed oro. Sul coperchio finissimo smalto di Limoges in grisaille rappresentante il trionfo della Pace; parimenti sul coperchio vi e incastrato un cadi cavallo. Vedi illustrazione tav. xxxix.,1341,99.1,False,positional,GREUZE GIOVANNI BATTISTA,,,,
@@ -710,24 +710,24 @@ BO0624_81856,33338,708,631,BELLISSiMA SCATOLA ovale in oro e smalto translucido.
 BO0624_81856,33339,709,632,ORIGINALE SCATOLA in oro intieramente decorata da gruppi di fiori e frutta in pietre dure su fondo di madreperla incisa.Epoca Luigi XV. Vedi illustrazione tav. xxxvlll.,1358,98.8,False,positional,GREUZE GIOVANNI BATTISTA,Periodo di Luigi XV,,,
 BO0624_81856,33340,710,633,BELLIssIMA SCAToLA in plasma di ametiste a forma centinata con piccoli ornati intagliati. Ricca montatura di oro guilloche. Sul coperchio soggetto mitologico in oro con incrostazioni di pietre preziose. Sul bordo del coperchio guide di fiori in rubini e diamanti. Epoca Luigi XIv. Vedi illustr. tav. xxxvil.,1359,99.3,False,positional,GREUZE GIOVANNI BATTISTA,Periodo di Luigi XIV,,,
 BO0624_81856,33341,711,634,PlccoLA IDRA in terracotta decorata a testa di donna e palmette.Scavo di Puglia.,1362,97.5,False,positional,GREUZE GIOVANNI BATTISTA,,,,
-BO0624_81856,33342,712,635,DuE PIccoLI LEklTos in terracotta a coperta nera ed a palmette nere su fondo giallo. Secolo VI avanti Cristo.,1363,98.2,False,positional,GREUZE GIOVANNI BATTISTA,,,,
-BO0624_81856,33343,713,636,LEklTos in terracotta a coperta nera a decorazione di palmette in nero su fondo rosso. Secolo VI avanti Cristo. Vedi illustrazione Tav. XL.,1364,98.5,False,positional,GREUZE GIOVANNI BATTISTA,,,,
+BO0624_81856,33342,712,635,DuE PIccoLI LEklTos in terracotta a coperta nera ed a palmette nere su fondo giallo. Secolo VI avanti Cristo.,1363,98.2,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. VI
+BO0624_81856,33343,713,636,LEklTos in terracotta a coperta nera a decorazione di palmette in nero su fondo rosso. Secolo VI avanti Cristo. Vedi illustrazione Tav. XL.,1364,98.5,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. VI
 BO0624_81856,33344,714,4,637.coppo ATricA a due anse in terracotta decorata da grande zona,1365,98.5,False,positional,GREUZE GIOVANNI BATTISTA,,,,
-BO0624_81856,33345,715,5,"in nero e da figure in nero, rosso e bianco su fondo giallo nel prospetto uomo seduto che suona la lira e baccante; nel centro vaso a grandi rami di edera. Nel rovescio uomo seduto con patera e baccante. Secolo VI avanti Gristo. Vedi illustrazione tav. XL.",1366,99.6,False,positional,GREUZE GIOVANNI BATTISTA,,VASI,,
-BO0624_81856,33346,716,638,oiNokoE ATTloA a coperta nera in terracotta; nel prospetto figura M donna e di uomo barbato seduti che reggono guide di edera ed un corno d'abbondanza in nero su fondo giallo.Trac- cie di colore. Secolo VI avanti Cristo. Vedi illustr. tav. xL.,1367,85.2,False,positional,GREUZE GIOVANNI BATTISTA,,,,
-BO0624_81856,33347,717,639,"ANFoRA ATTicA a manico,in terracotta a coperta nera. Sul prospetto figura di Sileno che atterra un toro in nero e rosso su fondo giallo. Tre zone a palmette, greca e scacchi. Secolo VI avanti Cristo. Vedi illustrazione tav. xL.",1369,99.1,False,positional,GREUZE GIOVANNI BATTISTA,,,,
-BO0624_81856,33348,718,640,"ANFoRA ATTICA a colonnette in terracotta. Nel prospetto,in giallo su fondo nero, due figure ammantate cavalcanti. Nel rovescio tre figure di giovani ammantati. Minute decorazioni nel collo e nella base. Secolo V avanti Cristo. Vedi illustrazio- ne tav. XL.",1370,97.1,False,positional,GREUZE GIOVANNI BATTISTA,,,,
-BO0624_81856,33349,719,641,"ANFORA ATTICA a colonnette. Nel prospetto, in giallo su fondo nero,Apollo Citarede e giovane ammantato a testa laureata fra due figure di Eroti. Nel rovescio tre giovani ammantati. Nel collo animali. Secolo V avanti Cristo. Vedi illustrazione tav.XL.",1372,99.2,False,positional,GREUZE GIOVANNI BATTISTA,,,,
+BO0624_81856,33345,715,5,"in nero e da figure in nero, rosso e bianco su fondo giallo nel prospetto uomo seduto che suona la lira e baccante; nel centro vaso a grandi rami di edera. Nel rovescio uomo seduto con patera e baccante. Secolo VI avanti Gristo. Vedi illustrazione tav. XL.",1366,99.6,False,positional,GREUZE GIOVANNI BATTISTA,,VASI,,Sec. VI
+BO0624_81856,33346,716,638,oiNokoE ATTloA a coperta nera in terracotta; nel prospetto figura M donna e di uomo barbato seduti che reggono guide di edera ed un corno d'abbondanza in nero su fondo giallo.Trac- cie di colore. Secolo VI avanti Cristo. Vedi illustr. tav. xL.,1367,85.2,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. VI
+BO0624_81856,33347,717,639,"ANFoRA ATTicA a manico,in terracotta a coperta nera. Sul prospetto figura di Sileno che atterra un toro in nero e rosso su fondo giallo. Tre zone a palmette, greca e scacchi. Secolo VI avanti Cristo. Vedi illustrazione tav. xL.",1369,99.1,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. VI
+BO0624_81856,33348,718,640,"ANFoRA ATTICA a colonnette in terracotta. Nel prospetto,in giallo su fondo nero, due figure ammantate cavalcanti. Nel rovescio tre figure di giovani ammantati. Minute decorazioni nel collo e nella base. Secolo V avanti Cristo. Vedi illustrazio- ne tav. XL.",1370,97.1,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. V
+BO0624_81856,33349,719,641,"ANFORA ATTICA a colonnette. Nel prospetto, in giallo su fondo nero,Apollo Citarede e giovane ammantato a testa laureata fra due figure di Eroti. Nel rovescio tre giovani ammantati. Nel collo animali. Secolo V avanti Cristo. Vedi illustrazione tav.XL.",1372,99.2,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. V
 BO0624_81856,33350,720,642,IMPoRTANTE TAZZA da cerimonia in corno finemente intagliate a rami di pino. Base in legno di tek. Cina. Vedi illustrazione,1376,98.3,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33351,721,643,IMPoRTANTE AIGUIERE con sottoposto piatto in peltro. Hl piatto,1378,96.8,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33352,722,644,GRANDE CHoP scolpito da un dente di elefante a soggetto rappresentante la vittoria di Pirro. Coperchio e base di argento sbalzato.Manico sormontato da una figurina di squisita fattura.Sul coperchio parimenti in avorio gruppetto rappresentante figurine di donna. Arte della Rinascenza tedesca.,1380,99.3,False,positional,GREUZE GIOVANNI BATTISTA,,,,
-BO0624_81856,33353,723,645,SCuoLA FIAMMINGA. Sec. XVIII. Giovanetto in costume Luigi XV in atto di giuocare con un uccellino; presso di lui un cane; ed altro in costume di abate presso un tavolo.Due bassorilievi in cera con i fondi finemente dipinti ad olio su ardesia. Cor- a IMPORTANTE LoTTO di settanta pannelli di antico cuoio di Cordova a ricchi motivi ornamentali in oro e colori. Secoli XVII e XVIII. (Lotto a dividersi).,1381,75.8,False,title_direct,,SCUOLA FIAMMINGA,BASSORILIEVI,,
+BO0624_81856,33353,723,645,SCuoLA FIAMMINGA. Sec. XVIII. Giovanetto in costume Luigi XV in atto di giuocare con un uccellino; presso di lui un cane; ed altro in costume di abate presso un tavolo.Due bassorilievi in cera con i fondi finemente dipinti ad olio su ardesia. Cor- a IMPORTANTE LoTTO di settanta pannelli di antico cuoio di Cordova a ricchi motivi ornamentali in oro e colori. Secoli XVII e XVIII. (Lotto a dividersi).,1381,75.8,False,title_direct,,SCUOLA FIAMMINGA,BASSORILIEVI,,Sec. XVIII
 BO0624_81856,33354,724,646,BELLISSIMO BiCCHIERE in cristallo di rocca finemente inciso,1384,96.7,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33355,725,647,IMPORTANTE POLVERIERA in avorio finemente intagliato ad ornati e figurine. Montatura di bronzo dorato.Epoca Luigi XVI.Arte cinese. Astuccio di pelle.,1386,98.6,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33356,726,648,"OROLoGIo IN oRo con custodia parimenti in oro ad ornati sbal zati. Manifattura Melly,London.Epoca Luigi XV.",1387,98.1,False,positional,GREUZE GIOVANNI BATTISTA,Periodo di Luigi XV,,,
-BO0624_81856,33357,727,649,"ALIGHIERI DANTE. La Divina Commedia. Londra, G.Pickering, 1822 2vol. in-64 con ritratto del Divin Poeta incisoda R. Grave dall'orig. di R. Morghen. Dedicata al Conte G. G. Spen-",1388,98.8,False,positional,GREUZE GIOVANNI BATTISTA,,,,
-BO0624_81856,33358,728,650,"SCHIAVONETTI N.,CARDON A.,SCHIAVONETTI L.The aSsault and Taking of Seringapatam on the 4th of mai 1799.The last effort and fall of Tippon Sultaun.The body of Tippon Sultaun recognised by his family.The surrender of two sons of Tippon Sultaun. Quattro grandi e belle incisioni in rame al pointille dagli originali di:Porter R.K.e Singleton H. Cornici e cristalli.M.0,57x0,67.",1393,99.5,False,positional,GREUZE GIOVANNI BATTISTA,,CORNICI,,
-BO0624_81856,33359,729,651,"CLuNY GIuSEPPE, Affreschi delle nozze Aldobrandine, Penelo pe ed i Proci sorpresi da Ulisse,e Venere assistita dalle Grazie che. dissuade Adone dalla caccia. Tre stampe a colori dai rilievi fatti da Ludovico Mirri. Cornici dorate, passe-par-touts e.cristalli. M.0,60x0,75. 651-a. B0uCHER FR. (1703-1770). Testa di giovanetta disegnata alla matita colorata su carta palombina.Firmata.Cornice e cristallo.M.0,341/2x0,26.Questo meraviglioso disegn0 che non lascia alcun dubbio sulla sua autenticita era una delle cose piu apprezzate dell'illustre raccoglitore.",1395,67.8,False,positional,GREUZE GIOVANNI BATTISTA,,CORNICI,,
+BO0624_81856,33357,727,649,"ALIGHIERI DANTE. La Divina Commedia. Londra, G.Pickering, 1822 2vol. in-64 con ritratto del Divin Poeta incisoda R. Grave dall'orig. di R. Morghen. Dedicata al Conte G. G. Spen-",1388,98.8,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. XIX
+BO0624_81856,33358,728,650,"SCHIAVONETTI N.,CARDON A.,SCHIAVONETTI L.The aSsault and Taking of Seringapatam on the 4th of mai 1799.The last effort and fall of Tippon Sultaun.The body of Tippon Sultaun recognised by his family.The surrender of two sons of Tippon Sultaun. Quattro grandi e belle incisioni in rame al pointille dagli originali di:Porter R.K.e Singleton H. Cornici e cristalli.M.0,57x0,67.",1393,99.5,False,positional,GREUZE GIOVANNI BATTISTA,,CORNICI,,Sec. XVIII
+BO0624_81856,33359,729,651,"CLuNY GIuSEPPE, Affreschi delle nozze Aldobrandine, Penelo pe ed i Proci sorpresi da Ulisse,e Venere assistita dalle Grazie che. dissuade Adone dalla caccia. Tre stampe a colori dai rilievi fatti da Ludovico Mirri. Cornici dorate, passe-par-touts e.cristalli. M.0,60x0,75. 651-a. B0uCHER FR. (1703-1770). Testa di giovanetta disegnata alla matita colorata su carta palombina.Firmata.Cornice e cristallo.M.0,341/2x0,26.Questo meraviglioso disegn0 che non lascia alcun dubbio sulla sua autenticita era una delle cose piu apprezzate dell'illustre raccoglitore.",1395,67.8,False,positional,GREUZE GIOVANNI BATTISTA,,CORNICI,,Sec. XVIII
 BO0624_81856,33360,730,652,BARToLozzI Apollo e le Muse. Incisione a colori smarginata. Cornice dorata con passe-par-tout di velluto e cristallo.,1397,66.3,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33361,731,653,"DuE ALBuMs contenenti piu di cento antiche incisioni a colori su carta di seta,rappresentanti scene tragiche teatrali. Giappone.",1401,98.4,False,positional,GREUZE GIOVANNI BATTISTA,,STAMPE E INCISIONI,,
 BO0624_81856,33362,732,654,POLITICAL BILLIARD. Importante incisione inglese a colori di,1402,96.7,False,positional,GREUZE GIOVANNI BATTISTA,,,,
@@ -735,9 +735,9 @@ BO0624_81856,33363,733,655,"AvRlL.Alessandro I imperatore di tutte le Russie,nel
 BO0624_81856,33364,734,656,"LA BORSA A PIETROBURGO ed il PalaZZO lmperiale di Tauride a Pietroburgo. Due incisioni a colori con cornici a mogano e cristalli.M.0,64x0,44.",1405,98.6,False,positional,GREUZE GIOVANNI BATTISTA,,CORNICI,,
 BO0624_81856,33365,735,657,"LA PASSEGGIATA DEL POMERIGGIO.Antica e bella stampina francese a colori dell'epoca napoleonica.Cornice nera ed oro e cristallo.M.0,29×0,45.",1406,98.6,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33366,736,658,PioCoLo RECIPlENTE a coperchio in maiolica decorata in bleu. Antica manifattura di Rouen. Coperchio restaurato.,1417,98.2,False,positional,GREUZE GIOVANNI BATTISTA,,,,
-BO0624_81856,33367,737,659,PiccoLo BoccALE in maiolica a decorazione in giallo e manga- nese su fondo verdino. Nel prospetto iscrizione: SAGRIFICIo. 1759.Abruzzo. Piccolo restauro.,1419,74.6,False,positional,GREUZE GIOVANNI BATTISTA,,,,
+BO0624_81856,33367,737,659,PiccoLo BoccALE in maiolica a decorazione in giallo e manga- nese su fondo verdino. Nel prospetto iscrizione: SAGRIFICIo. 1759.Abruzzo. Piccolo restauro.,1419,74.6,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. XVIII
 BO0624_81856,33368,738,660,BAsE di maiolica a forma di colonnina con ornati a rilievo smal- tati a colori su fondo tourquoise.,1420,76.8,False,positional,GREUZE GIOVANNI BATTISTA,,,,
-BO0624_81856,33369,739,661,DuE PIccoLl CoRNETs da fiori in maiolica a decorazione in bleu. Abruzzo. Secolo XVIII.,1422,97.6,False,positional,GREUZE GIOVANNI BATTISTA,,,,
+BO0624_81856,33369,739,661,DuE PIccoLl CoRNETs da fiori in maiolica a decorazione in bleu. Abruzzo. Secolo XVIII.,1422,97.6,False,positional,GREUZE GIOVANNI BATTISTA,,,,Sec. XVIII
 BO0624_81856,33370,740,662,CAcHE-PoT in maiolica con mascheroni a rilievo e minuta decorazione in bleu a grottesche. Moustier. Piccola felure.,1423,98.2,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33371,741,663,ELEGANTE PICcOLA CAFFETTlERA in maiolica decorata a gruppi di fiori. Marsiglia. Manico restaurato.,1424,68.0,False,positional,GREUZE GIOVANNI BATTISTA,,,,
 BO0624_81856,33372,742,664,DuE PiccoLl VAsI da farmacia in maiolica decorati da ornati,1426,96.7,False,positional,GREUZE GIOVANNI BATTISTA,,VASI DA FARMACIA,,
@@ -815,7 +815,7 @@ BO0624_81856,33443,813,731,"ORIGINALE TAPPETO PERSIANO ERRIWAN a quattrO SCOmpar
 BO0624_81856,33444,814,732,ANTICO GRAZIOSO TAPPETO PERSIANO a piccolo disegno su,1560,96.4,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33445,815,733,"GRANDE TAPPETo di lana tipo Savonerie,di colore rosso oscuro;largo bordo ad ornati parimenti su fondo rosso.",1561,98.2,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33446,816,8,"fondo marrone. Quattro bordi. Qualche restauro. M. 2,40x1.",1562,98.1,False,positional,GIACINTO GIGANTE,,,,
-BO0624_81856,33447,817,733,"a. GRANDE TAPPETo OUSCHAK a disegni policromi. Sec. XIX. Qualche restauro. M.6,35x5,40.",1566,97.6,False,positional,GIACINTO GIGANTE,,,,
+BO0624_81856,33447,817,733,"a. GRANDE TAPPETo OUSCHAK a disegni policromi. Sec. XIX. Qualche restauro. M.6,35x5,40.",1566,97.6,False,positional,GIACINTO GIGANTE,,,,Sec. XIX
 BO0624_81856,33448,818,734,vAso DA FIoRI in smalto cloisonne a guide di fiori ed uccelli su fondo celeste. Giappone.,1570,97.8,False,positional,GIACINTO GIGANTE,,VASI,,
 BO0624_81856,33449,819,735,"ELEGANTE BASE in lacca finemente incrostata di madreperla a paesaggi, ornati ed uccelli. Cina. Qualche piccolo difetto.",1571,98.3,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33450,820,736,DuE PICcoLE TAzzE con piatti in fine smalto cloisonne ad or- nati su fondo celeste. Cina. DuE PIATTiNI a fine decorazione di fiori su fondo smaltato tourquoise. Manifatture di Canton.,1574,67.4,False,positional,GIACINTO GIGANTE,,PIATTI,,
@@ -823,7 +823,7 @@ BO0624_81856,33451,821,5,738. ASTucCIo PER CALAMAIo in lacca dorata. Nell'intern
 BO0624_81856,33452,822,2,739.PiccoLo vAssolo quadrangolare in legno di tek con pannellini,1578,98.5,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33453,823,3,di avorio a traforo. Cina.,1579,96.0,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33454,824,740,SETTE SorToTAzzINE in ottone sbalzato e dorato. Manifattura turca.,1583,97.0,False,positional,GIACINTO GIGANTE,,,,
-BO0624_81856,33455,825,741,"DUE PLACcHE in bronzo dorato per decorazione d'icone, rappresentanti angioli che reggono il monogramma di Cristo. Secolo XVIII. Arte russa.",1584,98.5,False,positional,GIACINTO GIGANTE,,,,
+BO0624_81856,33455,825,741,"DUE PLACcHE in bronzo dorato per decorazione d'icone, rappresentanti angioli che reggono il monogramma di Cristo. Secolo XVIII. Arte russa.",1584,98.5,False,positional,GIACINTO GIGANTE,,,,Sec. XVIII
 BO0624_81856,33456,826,742,PICCOLA RIPRODUZIONE IN BRONZO della Vittoria di Samo-,1585,96.4,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33457,827,743,PoRTACENERE in bronzo a forma di giovanetta che si specchia in un fiore.,1587,97.3,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33458,828,745,PAIo DI CANDELIERI in ottone tornito.Arte veneziana del se-,1589,96.7,False,positional,GIACINTO GIGANTE,,,,
@@ -848,7 +848,7 @@ BO0624_81856,33476,846,763,oRoLoGIO D'ORO a due casse dello stesso prezioso meta
 BO0624_81856,33477,847,764,DUE GRANDI FOTOGRAFIE di affreSchi.,1620,94.4,False,positional,GIACINTO GIGANTE,,FOTOGRAFIE,,
 BO0624_81856,33478,848,765,CARTELLA DA SCRITToIo in boule con intarsio di metallo ed avorio.,1621,91.2,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33479,849,766,AFFRESCHI (gli) DEL PINTURICCHIO nell'appartamento Borgia del Palazzo Apostolico Vaticano riprodotti in fototipia ed accompagnati da un commentario di Francesco Ehrle. S. J.e del Comm. Enrico Stevenson. Un volume in folio legato in noce con dorso di pelle e ciappa di argento niellato. Edizione di soli cento esemplari numerati. Esemplare n.5.,1633,99.4,False,positional,GIACINTO GIGANTE,,,,
-BO0624_81856,33480,850,767,"BARATT ANToNIo. Dessein du spectacle, que leurs Excellences Messeurs Nicolas Michieli,et Philipe Calbo Sages preposes au Tresor, ont donne par Decret du Senat au Grand Duc,et a la Grande Duchesse de Russie, dans le tres noble Theatre a Saint Benoit,le 22 Janvier 1782. Grande e hella incisione in rame di fresca prova, dall'originale di G. B. Canal. M. 0,53x0,67.",1634,99.4,False,positional,GIACINTO GIGANTE,,,,
+BO0624_81856,33480,850,767,"BARATT ANToNIo. Dessein du spectacle, que leurs Excellences Messeurs Nicolas Michieli,et Philipe Calbo Sages preposes au Tresor, ont donne par Decret du Senat au Grand Duc,et a la Grande Duchesse de Russie, dans le tres noble Theatre a Saint Benoit,le 22 Janvier 1782. Grande e hella incisione in rame di fresca prova, dall'originale di G. B. Canal. M. 0,53x0,67.",1634,99.4,False,positional,GIACINTO GIGANTE,,,,Sec. XVIII
 BO0624_81856,33481,851,768,"BERNARD. Helene Apollonie princesse Carles de Liege. Bellissima incisione a fumo dall'originale di Zeclerk.M.0,62x0,44.",1635,67.4,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33482,852,769,"BoNNET L.Ritratto di giovanetta. Incisione in rame a colori,dalloriginale di M.Lagrenee,dedicata alla contessa Stroganoff, nata principessa Troubetskoy.(Macchia d'acqua). M.0,31x0,23.",1637,98.9,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33483,853,770,"BYRNE. Premiere et deuxieme vue pres Leuben en Sax Due inci sioni in rame dagli originali di Dietricy, dedicate a S. E.il conte de Stroganoff.M.0,38x0,43 eM.0,38x0,52.",1638,98.8,False,positional,GIACINTO GIGANTE,,,,
@@ -872,7 +872,7 @@ BO0624_81856,33500,870,783,"HoUBRACHEN J. Ritratti dei borgomastri di Raad,nello
 BO0624_81856,33501,871,18,"784.KLAuBER. Le barbier flamand. Incisione in rame,dall'originale di C. W.H. Dietricy, dedicata a S. E.il Conte di Strogonoff. M.0,47×0,35.",1658,98.9,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33502,872,185,LAsINIo (Cesare). Ritratto di Suwarow. Rimnishoi Alexander. In. cisione in rame dedicata al corpo dei cacciatori volontari della,1659,98.4,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33503,873,20,"citta di Livorno. Bella prova. M. 0,45x0,30.",1660,96.4,False,positional,GIACINTO GIGANTE,,,,
-BO0624_81856,33504,874,786,LAZZERINI A. Accoglimento di S. S. Pio VI delle LL.AA. RR. delle Russie seguito in Roma il di 8 febbraio 1872. Incisione,1661,98.3,False,positional,GIACINTO GIGANTE,,,,
+BO0624_81856,33504,874,786,LAZZERINI A. Accoglimento di S. S. Pio VI delle LL.AA. RR. delle Russie seguito in Roma il di 8 febbraio 1872. Incisione,1661,98.3,False,positional,GIACINTO GIGANTE,,,,Sec. XIX
 BO0624_81856,33505,875,787,"LE GRAND. Paul Comte de Stragonof (sic). Finissima incisione in rame, dall'originale di Greuze J. B. M. 0,37x0,27.",1663,98.1,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33506,876,788,"L'IssARD d'Europe et d'Asie. Fine disegno alla matita su cartoncino.M.0,40x0,56.",1664,97.5,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33507,877,789,LorTo di quattro antiche incisioni in rame a soggetti diversi.,1665,96.8,False,positional,GIACINTO GIGANTE,,STAMPE E INCISIONI,,
@@ -891,7 +891,7 @@ BO0624_81856,33519,889,801,"SOHMiDT GES. Ritratto di Michele Conte de Woronzon. 
 BO0624_81856,33520,890,802,"SCHMIDT G.F. Il medico del re. Bella incisione all'acquaforte, dall'originale di Rembrandt. M. 0,20 1/2x0,15.",1687,98.1,False,positional,GIACINTO GIGANTE,,ACQUEFORTI,,
 BO0624_81856,33521,891,803,"SoHuLTzs G. G. ll centauro ferito. Incisione in rame, dali'originale di P.Rubens.M.0,45x0,30.",1688,97.8,False,positional,GIACINTO GIGANTE,Scuola di Rubens,,,
 BO0624_81856,33522,892,804,SERlE cronologica dei Sommi Pontefici da S. Pietro a Pio IX. Volume in folio contenente una quantita di incisioni in rame in riquadrature a ricchi ornati. Legatura in mezza pergamena.,1689,98.9,False,positional,GIACINTO GIGANTE,,STAMPE E INCISIONI,,
-BO0624_81856,33523,893,805,suHR.Die Kosaken in Amburg den 18 marz 1813.Grande incisione,1690,96.8,False,positional,GIACINTO GIGANTE,,,,
+BO0624_81856,33523,893,805,suHR.Die Kosaken in Amburg den 18 marz 1813.Grande incisione,1690,96.8,False,positional,GIACINTO GIGANTE,,,,Sec. XIX
 BO0624_81856,33524,894,806,ID. D. Bashkiren bey Hamburgs zerstorten Vorstadten.Incisione,1695,96.7,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33525,895,807,"TuRNER C.La Comtesse Michel Woronzow. Fine incisione in rame,dall'originale di G. Dawe. Bella prova a tutto margine.",1697,98.2,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33526,896,808,"VALKER. Alexandre de Stroganoff. Bellissimo ritratto a fumo, dal- 1'originale di Lampi. M.0,39x0,29.",1701,76.7,False,positional,GIACINTO GIGANTE,,,,
@@ -906,17 +906,17 @@ BO0624_81856,33534,904,815,"ARDANr. Frascati,ancienne propriete de Montmors pres
 BO0624_81856,33535,905,816,"CANELLA s.La piazza della Pulzella d'Orleans a Rouen. Schizzo alla matita,firmato.M.0,23x0,31.",1717,97.9,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33536,906,3,"817.ID. ID. Veduta della Senna. Disegno alla matita come sopra. M.0,22×0,28.",1718,98.6,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33537,907,818,"ID.ID. Una passeggiata a Parigi. Altro detto d'accompagno. M. 0,16 x 0,20.",1719,97.2,False,positional,GIACINTO GIGANTE,,,,
-BO0624_81856,33538,908,5,"819.DE LA TOUR (MAUR. QUINT.) (Att. a) (1704-1788). Due studi di di teste giovanili alla sanguigna. M.0,33x0,21. La franchezza dell'esecuzione di questi studi dal vero e so-",1720,99.4,False,positional,GIACINTO GIGANTE,,,,
+BO0624_81856,33538,908,5,"819.DE LA TOUR (MAUR. QUINT.) (Att. a) (1704-1788). Due studi di di teste giovanili alla sanguigna. M.0,33x0,21. La franchezza dell'esecuzione di questi studi dal vero e so-",1720,99.4,False,positional,GIACINTO GIGANTE,,,,Sec. XVIII
 BO0624_81856,33539,909,820,ID.ID. Testa di vecchia contadina e testa di giovane paesana.,1724,96.7,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33540,910,821,ID. ID.Due studi di teste di giovanetti.,1725,95.0,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33541,911,3,822.ID.D.Due detti.,1726,94.7,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33542,912,823,"ID. ID. Testa di uomo e di gentildonna di scorcio, trattate con grande maestria.",1727,85.7,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33543,913,824,ID.ID. Testa di contadino e testa di giovane accigliato.,1729,96.4,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33544,914,7,825 ID. ID. Due teste di proflo e testa di giovanetto.,1730,98.1,False,positional,GIACINTO GIGANTE,,,,
-BO0624_81856,33545,915,826,"FATToRINI ELISEO. Il Cristo benedicente. Copia all'acquarello, dall'originale del Pinturicchio. Firmato e datato 1868.",1731,98.3,False,positional,GIACINTO GIGANTE,,,,
+BO0624_81856,33545,915,826,"FATToRINI ELISEO. Il Cristo benedicente. Copia all'acquarello, dall'originale del Pinturicchio. Firmato e datato 1868.",1731,98.3,False,positional,GIACINTO GIGANTE,,,,Sec. XIX
 BO0624_81856,33546,916,827,"HAusCHILD M.Interno di chiesa,Bell'acquarello firmato.",1735,96.4,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33547,917,828,"INcoGNITo. Testa di vecchio e ruderi romani. Due acquarelli. M.0,44×0,30e M.0,35×0,25.",1737,97.6,False,positional,GIACINTO GIGANTE,,,,
-BO0624_81856,33548,918,829,INcoGNITo. Giovane gentildonna in costume del Secolo XVII.,1738,96.6,False,positional,GIACINTO GIGANTE,,,,
+BO0624_81856,33548,918,829,INcoGNITo. Giovane gentildonna in costume del Secolo XVII.,1738,96.6,False,positional,GIACINTO GIGANTE,,,,Sec. XVII
 BO0624_81856,33549,919,830,"LABRUZZI CARLo. Ritratto di Guglielmo Aadfield. Schizzo alla matita con qualche tocco di colore. M.0,19x0,26.",1740,98.1,False,positional,GIACINTO GIGANTE,,,,
 BO0624_81856,33550,920,831,"LoTTo di sette acquarelli diversi. Vedute di Napoli, Roma e Siena.",1741,96.9,False,positional,GIACINTO GIGANTE,Scuola Senese,,,
 BO0624_81856,33551,921,832,MIGLiARA (Att.a). Studio alla penna di paesaggio presso 1l Tevere. Probabilmente preparazione per un incisione.,1742,98.1,False,positional,GIACINTO GIGANTE,,,,

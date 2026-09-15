@@ -1,16 +1,16 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88033,427807,1,1,"Pokal, auf niederem Fuss mit weit ausladender Fussplatte, matt geschnitten. Monogramm J.H.D.in Blumchenkranz.H. 21,5, Durchm,9,5 cm.",7,99.2,False,positional,,,Glas,,
-BO0624_88033,427808,2,2,"Reichgeschnittener Pokal, durch Schraubengewinde mit dem schweren geschliffenen Fuss verbunden. Medaillon mit Polischinell und schonem Ornament. Bohmen,Anfang 18. Jahrhundert. H.24, Durchm.1l cm.",8,99.5,False,positional,,,Glas,,
+BO0624_88033,427808,2,2,"Reichgeschnittener Pokal, durch Schraubengewinde mit dem schweren geschliffenen Fuss verbunden. Medaillon mit Polischinell und schonem Ornament. Bohmen,Anfang 18. Jahrhundert. H.24, Durchm.1l cm.",8,99.5,False,positional,,,Glas,,Sec. XVIII
 BO0624_88033,427809,3,3,"Geschliffener Pokal mit kantig geschliffenem Kuppa. Bohmen, 18.Jahrhundert. H.18,Durchm.7 cm.",9,98.9,False,positional,,,Glas,,
 BO0624_88033,427810,4,4,"Hoher Deckelpokal mit reich geschnittener Kuppa mit Rosetten, im Nodus Rubinfaden； reich geschliffener Deckel.  Bohmen, 17.Jahrhundert. H.30,Durchm.10,5 cm.",10,99.3,False,positional,,,Glas,,
-BO0624_88033,427811,5,5,"Weinglas auf hohem schweren Fuss mit geschnittenem Ornament und Devise Cassler Hutte. Hessen, 17. Jahrhundert. H.17, Durchm. 8 cm. Sehr selten!",11,99.3,False,positional,,,Glas,,
+BO0624_88033,427811,5,5,"Weinglas auf hohem schweren Fuss mit geschnittenem Ornament und Devise Cassler Hutte. Hessen, 17. Jahrhundert. H.17, Durchm. 8 cm. Sehr selten!",11,99.3,False,positional,,,Glas,,Sec. XVII
 BO0624_88033,427812,6,6,"Schwerer geschliffener Pokal mit reichem Schliff. Deutschland, 18.Jahrhundert. H.17,5 Durchm.9 cm.",12,98.9,False,positional,,,Glas,,
-BO0624_88033,427813,7,7,"Glatter Pokal mit schwerem Fuss. Thuringen, 17. Jahrhundert. H.18,Durchm.9 cm.",13,98.6,False,title_direct,,,Glas,,
+BO0624_88033,427813,7,7,"Glatter Pokal mit schwerem Fuss. Thuringen, 17. Jahrhundert. H.18,Durchm.9 cm.",13,98.6,False,title_direct,,,Glas,,Sec. XVII
 BO0624_88033,427814,8,8,"Weinglas mit ornamentiertem Kelch und Devise. Hessen,17. Jahrhundert. H.15, Durchm.8 cm.",14,98.8,False,positional,,,Glas,,
-BO0624_88033,427815,9,6,"Weinglas mit pseudogeschliffenem Fuss, Kelch trichterformig mit mattgeschliffenem Ornament. Thuringen, 17. Jahrhundert. H. 15, Durchm.6,5 cm.",15,99.3,False,positional,,,Glas,,
+BO0624_88033,427815,9,6,"Weinglas mit pseudogeschliffenem Fuss, Kelch trichterformig mit mattgeschliffenem Ornament. Thuringen, 17. Jahrhundert. H. 15, Durchm.6,5 cm.",15,99.3,False,positional,,,Glas,,Sec. XVII
 BO0624_88033,427816,10,11,"Pokal mit reich geschliffenem Kuppa und Inschrift — glatt Vierkantige Flasche, Apothekerglas ,Elix. Pector"" in Email farbe bunt gemalt.Deutsch, 17.Jahrhundert. H.12,5 Durchm.5,5 cm.",17,80.4,False,positional,,,Glas,,
-BO0624_88033,427817,11,12,"- schwerer Fuss. Hessen, 17. Jahrhundert. H. 16, Durchm. 8 cm.",19,100.0,False,positional,,,Glas,,
-BO0624_88033,427818,12,13,"Kleiner Pokal von sehr schoner Form, Kuppa mit Goldrand und schwerem Knauf nach Art der Lauenburger Glaser mit Blasen verziert. Hessen, 17. Jahrhundert. H. 17, Durchm. 7 cm.",20,99.1,False,title_direct,,,Glas,,
+BO0624_88033,427817,11,12,"- schwerer Fuss. Hessen, 17. Jahrhundert. H. 16, Durchm. 8 cm.",19,100.0,False,positional,,,Glas,,Sec. XVII
+BO0624_88033,427818,12,13,"Kleiner Pokal von sehr schoner Form, Kuppa mit Goldrand und schwerem Knauf nach Art der Lauenburger Glaser mit Blasen verziert. Hessen, 17. Jahrhundert. H. 17, Durchm. 7 cm.",20,99.1,False,title_direct,,,Glas,,Sec. XVII
 BO0624_88033,427819,13,15,15,23,100.0,False,positional,,Scuola Milanese,Glas,,
 BO0624_88033,427820,14,16,"Parzenglas, mit drei fein geschliffenen Figuren und Aufschrift:",25,97.6,False,positional,,,Glas,,
 BO0624_88033,427821,15,17,- 18 Glasschale.,29,100.0,False,title_direct,,,Glas,,
@@ -21,24 +21,24 @@ BO0624_88033,427825,19,25,"Renaissancewanduhr mit holzgeschnitzter Madonna Perpe
 BO0624_88033,427826,20,26,"- 27 Barockstanduhr mit reichem Ornament, Stunden und Datum angebend. H.40, Br.26 cm. Monogrammiert: Joh. Georg Wachter, Brunn.",45,100.0,False,positional,,,Uhren,,
 BO0624_88033,427827,21,28,"Ulmer Barockstanduhr mit verziertem Zifferblatt. H.40,Br.25 cm.",46,97.6,False,positional,,,Uhren,,
 BO0624_88033,427828,22,29,"- Monogrammiert Valentin Stos,fezit Ulm.",48,100.0,False,positional,,,Uhren,,
-BO0624_88033,427829,23,30,Bibel aus dem Jahre 1704.,53,94.1,False,positional,,,Bucher,,
-BO0624_88033,427830,24,31,- Katholische Bibel Gr.Fol. Band in Schweinsleder gebunden. 1607. Mit Holzschnitten von Virgil Solis.,55,100.0,False,title_direct,,,Holzschnitte,,
+BO0624_88033,427829,23,30,Bibel aus dem Jahre 1704.,53,94.1,False,positional,,,Bucher,,Sec. XVIII
+BO0624_88033,427830,24,31,- Katholische Bibel Gr.Fol. Band in Schweinsleder gebunden. 1607. Mit Holzschnitten von Virgil Solis.,55,100.0,False,title_direct,,,Holzschnitte,,Sec. XVII
 BO0624_88033,427831,25,32,Binder. Wurttembergische Munzen- und Medaillen-Kunde.,56,97.1,False,positional,,,Bucher,,
 BO0624_88033,427832,26,33,Dorst. Wurttembergisches Wappenbuch.,57,95.8,False,positional,,,Bucher,,
-BO0624_88033,427833,27,34,Chronik der Truchsessen von Waldburg. 2 Bde. Memmingen 1777.,58,97.4,False,positional,,,Bucher,,
+BO0624_88033,427833,27,34,Chronik der Truchsessen von Waldburg. 2 Bde. Memmingen 1777.,58,97.4,False,positional,,,Bucher,,Sec. XVIII
 BO0624_88033,427834,28,35,Frohlich. Beschreibung griechischer und byzantinischer Munzen.,59,97.6,False,positional,,,Bucher,,
-BO0624_88033,427835,29,1758,- 36 Chronik von Heilbronn. 1828.,61,100.0,False,positional,,,Bucher,,
+BO0624_88033,427835,29,1758,- 36 Chronik von Heilbronn. 1828.,61,100.0,False,positional,,,Bucher,,Sec. XIX
 BO0624_88033,427836,30,37,Gestalt des Menschen und ihre Schonheit. 2 Bde.,62,96.8,False,positional,,,Bucher,,
 BO0624_88033,427837,31,38,- 8Handbuch der Kupferstichkunde.,64,100.0,False,positional,,,Bucher,,
 BO0624_88033,427838,32,39,Heideloff. Geschichte der Karlsschule.,65,96.0,False,positional,,,Bucher,,
 BO0624_88033,427839,33,40,Mayer.Weibliche Schonheit.,66,94.3,False,positional,,,Bucher,,
 BO0624_88033,427840,34,41,Muller. Alruna mit acht farbigen Bildern.,67,96.3,False,positional,,,Bucher,,
-BO0624_88033,427841,35,42,Numismata imperatorum romanorum. 2 Gr.Fol. Bande in Schweinsleder gebunden. Gedruckt 1718 in Paris. Mit sehr vielen Abbildungen.,68,98.8,False,positional,,,Bucher,,
+BO0624_88033,427841,35,42,Numismata imperatorum romanorum. 2 Gr.Fol. Bande in Schweinsleder gebunden. Gedruckt 1718 in Paris. Mit sehr vielen Abbildungen.,68,98.8,False,positional,,,Bucher,,Sec. XVIII
 BO0624_88033,427842,36,43,- 44 Sinnbilder und Gedanken des italienischen Ritters Caesaris Ripae. In Leder gebunden. Mit 200 Kupferstichen von Hertel in Augsburg.,70,100.0,False,positional,,,OGGETTI IN PELLE,,
 BO0624_88033,427843,37,3,Leben und Wirken von Joh. Elias Ridinger.,71,98.7,False,positional,,,Bucher,,
 BO0624_88033,427844,38,45,- 46,73,100.0,False,positional,,,Bucher,,
 BO0624_88033,427845,39,6,Stammbuch.,74,94.7,False,positional,,,Bucher,,
-BO0624_88033,427846,40,47,Wurttembergisches Taschenbuch aus dem Jahre 1806. Mit vielen Stichen von Ludwigsburg.,75,98.2,False,title_direct,,Ludwigsburger,Stiche,,
+BO0624_88033,427846,40,47,Wurttembergisches Taschenbuch aus dem Jahre 1806. Mit vielen Stichen von Ludwigsburg.,75,98.2,False,title_direct,,Ludwigsburger,Stiche,,Sec. XIX
 BO0624_88033,427847,41,48,- 49 Winkelmann. Handbuch zur Kenntnis alter und guter Gemalde.,77,100.0,False,title_direct,,,Gemalde,,
 BO0624_88033,427848,42,51,Gehenkelter Tonkrug. H.12 cm. Tonvase mit schlankem Hals. H.15 cm.,91,70.7,False,positional,HALS DIRK,,Bucher,,
 BO0624_88033,427849,43,52,Tongefass. Seltene Form. H. 1l cm. Messer mit reichem Ornamentgriff. 3 Kleine Tonschale.,93,56.4,False,positional,,,Bucher,,
@@ -65,9 +65,9 @@ BO0624_88033,427869,63,77,Besuch beim Abbe.,145,91.4,False,positional,,,Miniatur
 BO0624_88033,427870,64,78,Beim Spiel.,146,87.0,False,positional,,,Miniaturen; Silhouetten; Autographen,,
 BO0624_88033,427871,65,79,Hektors Abschied. Lackmalerei. Sehr schon. 99 Aquarell. Pfarrer Feder. Art Boucher. Auf Elfenbein. 99,147,60.4,False,title_direct,BOUCHER FRANCOIS,,OGGETTI LACCATI,,
 BO0624_88033,427872,66,82,Malerin Pilgram. Sehr feiner Stich von Geyer.,150,96.6,False,positional,,,Miniaturen; Silhouetten; Autographen,,
-BO0624_88033,427873,67,83,"Initiale B mit Gottvater die Weltkugel haltend. Pergament. Auf Goldgrund. 14. Jahrh. H. 71/2, Br.61/2 cm.",151,98.5,False,positional,,,Miniaturen; Silhouetten; Autographen,,
+BO0624_88033,427873,67,83,"Initiale B mit Gottvater die Weltkugel haltend. Pergament. Auf Goldgrund. 14. Jahrh. H. 71/2, Br.61/2 cm.",151,98.5,False,positional,,,Miniaturen; Silhouetten; Autographen,,Sec. XIV
 BO0624_88033,427874,68,84,"6 Silhouetten. Landschaften mit Figurlichen Darstellungen. 4 Silhouetten der Familie Rathfelder,darunter 2 Studentensilhouetten mit grunen Mutzen von Heidelberg. 5 Silhouette. Kaiser Josef am Pfug. Sehr interessant.",153,65.8,False,title_direct,,,Silhouetten,,
-BO0624_88033,427875,69,87,"Memento mori. Gottingen 1742. Klexographie von Justinus Kerner, mit Autogramm. 3 Silhouetten auf Goldgrund im Goldrahmen. Sehr schon.",157,58.2,False,title_direct,,,Silhouetten,,
+BO0624_88033,427875,69,87,"Memento mori. Gottingen 1742. Klexographie von Justinus Kerner, mit Autogramm. 3 Silhouetten auf Goldgrund im Goldrahmen. Sehr schon.",157,58.2,False,title_direct,,,Silhouetten,,Sec. XVIII
 BO0624_88033,427876,70,90,"Autogramm von Justinus Kerner. Lied ,Ein muntrer Ritter"".",158,97.2,False,positional,,,Miniaturen; Silhouetten; Autographen,,
 BO0624_88033,427877,71,91,Sonnenuhr.,159,85.7,False,positional,,,Miniaturen; Silhouetten; Autographen,,
 BO0624_88033,427878,72,92,"Rokoko-Miniaturkommodchen. Sehr fein! H. 27,Br. 22 cm.",163,97.0,False,positional,,,Miniaturen; Silhouetten; Autographen,,
@@ -141,7 +141,7 @@ BO0624_88033,427945,139,200,"Fehr, Julius. Schwarzwalder Bauer einen Fahrplan st
 BO0624_88033,427946,140,201,"Feldhuter, Partie am Ammersee. Vorzugliches Bild. 42/59 cm.",362,96.5,False,positional,,,Oelgemalde,,
 BO0624_88033,427947,141,202,"Graf, Stilleben. 36/43 cm.",363,92.0,False,positional,,,Oelgemalde,,
 BO0624_88033,427948,142,203,"Gruner-Lengenfeld, Munchen. Stilleben, Trauben, Pfirsiche und Blumenvasen. 40/54 cm.",364,97.5,False,positional,,,Oelgemalde,,
-BO0624_88033,427949,143,204,"Hampe, E., 1869. Partie aus dem Murgtale im Schwarzwald. 68/98 cm.",365,96.8,False,positional,,,Oelgemalde,,
+BO0624_88033,427949,143,204,"Hampe, E., 1869. Partie aus dem Murgtale im Schwarzwald. 68/98 cm.",365,96.8,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88033,427950,144,205,"5Haug, Albert. Partie am Thuner See mit Gipfel der Jungfrau. 22/30 cm. Heilmayer,Munchen. Mondnacht an norwegischer Kuste. 54/74 cm.",366,67.7,False,positional,,,Oelgemalde,,
 BO0624_88033,427951,145,206,"- 207 Heinisch, Munchen. Partie aus dem Nymphenburger Parke. 25/41 cm.",375,100.0,False,positional,,,Oelgemalde,,
 BO0624_88033,427952,146,208,Heitinger.,376,81.8,False,positional,,,Oelgemalde,,
@@ -180,24 +180,24 @@ BO0624_88033,427984,178,243,Derselbe. Abend im Hochmoor bei Staldach.2 22/32 cm.
 BO0624_88033,427985,179,244,Derselbe. Abend in den Isarauen. 42/60 cm.,426,95.1,False,positional,,,Oelgemalde,,
 BO0624_88033,427986,180,245,Wolf-Filseck. Flusslandschaft mit Weidengebusch. 77/98 cm.,427,96.5,False,positional,,,Oelgemalde,,
 BO0624_88033,427987,181,246,Biedermann. Winterlandschaft mit reicher Staffage. 76/102 cm.,428,96.7,False,positional,,,Oelgemalde,,
-BO0624_88033,427988,182,247,"Balen,Jan van, 1611—1654, Antwerpen. Blumenstilleben mit Amoretten.53/64 cm. (S.Abbildung.)",436,97.7,False,positional,,,OGGETTI VARI,,
+BO0624_88033,427988,182,247,"Balen,Jan van, 1611—1654, Antwerpen. Blumenstilleben mit Amoretten.53/64 cm. (S.Abbildung.)",436,97.7,False,positional,,,OGGETTI VARI,,Sec. XVII
 BO0624_88033,427989,183,248,Derselbe. Blumenstilleben mit Amoretten. 53/64 cm.(S.Abbild.).,437,96.6,False,positional,,,OGGETTI VARI,,
 BO0624_88033,427990,184,2491,"Bourguignon, Schlachtenmaler in St. Hippolyte,16211676. Grosses Schlachtenbild. Vorzuglich. (S.Abbildung.) 73/100 cm.",438,97.7,False,positional,,,Gemalde,,
-BO0624_88033,427991,185,250,"Canon,Johann, Historienmaler, Wien,1829—1885. Fruchteverkauferin. 150/88 cm. Derselbe. Kopf eines alten Mannes. 43/38 cm. Derselbe. Kopf eines alten Mannes. 43/38 cm.",439,61.7,False,positional,,Scuola Viennese,Gemalde,,
-BO0624_88033,427992,186,253,"Poussin, Andelys Nikolas, 1593-1665. Grosse Landschaft mit Bergen, See und Staffage. 94/180 cm. Spranger, Bartholomaus, 1546-1611, Antwerpen. Geisselung Schiertz, F., Leipzig. Partie an der Unterelbe.3 31/44cm.",442,61.8,False,positional,"DUGHET GASPARD, POUSSIN",,Gemalde,,
+BO0624_88033,427991,185,250,"Canon,Johann, Historienmaler, Wien,1829—1885. Fruchteverkauferin. 150/88 cm. Derselbe. Kopf eines alten Mannes. 43/38 cm. Derselbe. Kopf eines alten Mannes. 43/38 cm.",439,61.7,False,positional,,Scuola Viennese,Gemalde,,Sec. XIX
+BO0624_88033,427992,186,253,"Poussin, Andelys Nikolas, 1593-1665. Grosse Landschaft mit Bergen, See und Staffage. 94/180 cm. Spranger, Bartholomaus, 1546-1611, Antwerpen. Geisselung Schiertz, F., Leipzig. Partie an der Unterelbe.3 31/44cm.",442,61.8,False,positional,"DUGHET GASPARD, POUSSIN",,Gemalde,,Sec. XVII
 BO0624_88033,427993,187,256,Stirnbrand.Oberstleutnant Weissenstein. 43/34 cm. Unbekannt. Kaiser Joseph I. Jugendbildnis. (S. Abbildung.) 68/53 cm. Derselbe. Konigin Katharine von Wurttemberg. 67/52 cm. (S. Abbildung.),448,54.4,False,positional,,,Gemalde,,
 BO0624_88033,427994,188,259,Unbekannt. Brand von Karthago. Figurenreiches Bild. 87/115 cm. Desgleichen. Hausliche Szene. Pendant zum vorigen. 60/78 cm. Italienische Schule. Hirtenleben. 60/78 cm.,450,53.7,False,positional,,,Gemalde,,
 BO0624_88033,427995,189,262,- 263 Unbekannt.St.Barbara.57/38-cm.,453,100.0,False,positional,,,Gemalde,,
 BO0624_88033,427996,190,264,"Unbekannt. Madonna mit Jesuskind.47/39 cm. Unbekannt. Altarbild, Mutter Gottes mit Engel und Abtissin. 152/100 cm. Unbekannt. Pieta. 96/87 cm.",456,66.7,False,positional,,,Gemalde,,
 BO0624_88033,427997,191,267,"Unbekannt. Fruchtestilleben, Trauben und Apfel. Sehr gut! 42/60 cm.",458,96.9,False,positional,,,Gemalde,,
 BO0624_88033,427998,192,268,- 269 Unbekannt. Schiesshaus bei Ulm mit reicher Staffage. 47/74 cm.,464,100.0,False,positional,,,Gemalde,,
-BO0624_88033,427999,193,270,Unbekannt.,467,81.8,False,positional,,,Gemalde,,
+BO0624_88033,427999,193,270,Unbekannt.,467,81.8,False,positional,ANONIMO,,Gemalde,,
 BO0624_88033,428000,194,271,Unbekannt. Allegorische Darstellung. Oval. 73/57 cm.,470,96.0,False,positional,,,Gemalde,,
 BO0624_88033,428001,195,272,- Unbekannt. Desgleichen.,472,100.0,False,positional,,,Gemalde,,
 BO0624_88033,428002,196,273,gemalt. 24/31 cm.,474,88.2,False,positional,,,Gemalde,,
 BO0624_88033,428003,197,274,"Enjolras, D., Paris. Das verbotene Buch. (Siehe Umschlag.) 50,5/69,5 cm.",482,96.9,False,positional,,,Pastellgemalde,,
 BO0624_88033,428004,198,275,"Sala, J.,Paris. Am Kamin. 60/42 cm.",483,93.8,False,positional,,,CAMINI,,
-BO0624_88033,428005,199,276,"Beest,A. v.,Marinemaler,Rotterdam,1820-1860. Rettungsschiff auf hoher See. 30/45 cm.",487,97.5,False,positional,,,Aquarelle; Federzeichnungen,,
+BO0624_88033,428005,199,276,"Beest,A. v.,Marinemaler,Rotterdam,1820-1860. Rettungsschiff auf hoher See. 30/45 cm.",487,97.5,False,positional,,,Aquarelle; Federzeichnungen,,Sec. XIX
 BO0624_88033,428006,200,277,Derselbe. Fischerboote mit Fischern. 29/45 cm.,488,95.6,False,positional,,,Aquarelle; Federzeichnungen,,
 BO0624_88033,428007,201,278,"Braith,A. Schafe.",489,88.2,False,positional,BRAITH ANTON,,Aquarelle; Federzeichnungen,,
 BO0624_88033,428008,202,279,Derselbe. Studienblatt.,490,91.3,False,positional,,,Aquarelle; Federzeichnungen,,
@@ -243,7 +243,7 @@ BO0624_88033,428047,241,353,12 Blatt Wurttembergische Trachten. Sehr selten.Kolo
 BO0624_88033,428048,242,354,"- Osterreichische Gefechte. Lith. von Baumann,unter der Mauer Stuttgart.",567,100.0,False,positional,,,Aquarelle,,
 BO0624_88033,428049,243,355,8 Blatt Gebrauche von Wurttemberg. Kolorierte Miniaturstiche. Sehr selten.,568,97.3,False,positional,,,Aquarelle,,
 BO0624_88033,428050,244,356,"- 357 Volksfest in Cannstatt. """,570,100.0,False,positional,,,Aquarelle,,
-BO0624_88033,428051,245,358,Plakat der Ausstellung 1896.,572,93.1,False,positional,,,Aquarelle,,
+BO0624_88033,428051,245,358,Plakat der Ausstellung 1896.,572,93.1,False,positional,,,Aquarelle,,Sec. XIX
 BO0624_88033,428052,246,359,- Das grosse Festinjagen bei Bebenhausen. Von Muller. Kol.,574,100.0,False,positional,,,Aquarelle,,
 BO0624_88033,428053,247,360,Stich. Hervorragend schones Blatt.(S. Abbildung.),576,95.7,False,title_direct,,,Stiche,,
 BO0624_88033,428054,248,361,Tubingen. Illustrationen zum Burschenleben. Desgleichen. - 363 Biberach. Alte Ansicht. Sepiazeichnung.,589,59.7,False,positional,,,STAMPE E INCISIONI,,
@@ -269,7 +269,7 @@ BO0624_88033,428073,267,387,Metzingen. Lith. nach Emminger.,620,93.3,False,posit
 BO0624_88033,428074,268,388,Durrmenz-Muhlacker. Lith.,621,92.0,False,positional,,,Aquarelle,,
 BO0624_88033,428075,269,389,Ravensburg. Stich von Merian.,622,93.1,False,positional,,,Aquarelle,,
 BO0624_88033,428076,270,390,"Reutlingen, Gesamtansicht.",623,92.3,False,positional,,,Aquarelle,,
-BO0624_88033,428077,271,391,Bruderhaus mit Storchenturm 1858. 99,624,94.6,False,positional,,,Aquarelle,,
+BO0624_88033,428077,271,391,Bruderhaus mit Storchenturm 1858. 99,624,94.6,False,positional,,,Aquarelle,,Sec. XIX
 BO0624_88033,428078,272,392,Brand der Stadt. Alter Stich. 99,625,93.8,False,positional,,,Aquarelle,,
 BO0624_88033,428079,273,393,Rosenstein mit Heubach.Kol. Lith.,634,93.9,False,positional,,,Aquarelle,,
 BO0624_88033,428080,274,394,"Stuttgart, K. Residenzschloss. Kol. Stich. Stiftskirche. Kleiner Stich von Grinewald. ""9 Kleines Schauspielhaus (Redoutensaal jetzt Konigsbau). 99",637,58.0,False,positional,,,Aquarelle,,
@@ -318,26 +318,26 @@ BO0624_88033,428122,316,455,Veduta della facciata del Duomo di Milano. Kol. Stic
 BO0624_88033,428123,317,456,Schaffhausen. Rheinfall. Kol. Lith.,722,93.9,False,positional,,,Aquarelle,,
 BO0624_88033,428124,318,457,Simplon. Schwarzer Stich.,723,92.0,False,positional,,,Aquarelle,,
 BO0624_88033,428125,319,458,8 The army and navy club house Pall Mall. Kol. Stich v. Adlard.,724,96.7,False,positional,,,Aquarelle,,
-BO0624_88033,428126,320,459,Hauptschlacht an der Moskwa 1812. Kol. Stich.,732,95.5,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428127,321,460,Anfang der Schlacht von Bell-Alliance 1815. Kol. Stich.,733,96.3,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428128,322,461,Schlacht bei Hochkirchen 1813. Kol. Stich.,734,95.1,False,positional,,,Stiche; Lithographien,,
+BO0624_88033,428126,320,459,Hauptschlacht an der Moskwa 1812. Kol. Stich.,732,95.5,False,positional,,,Stiche; Lithographien,,Sec. XIX
+BO0624_88033,428127,321,460,Anfang der Schlacht von Bell-Alliance 1815. Kol. Stich.,733,96.3,False,positional,,,Stiche; Lithographien,,Sec. XIX
+BO0624_88033,428128,322,461,Schlacht bei Hochkirchen 1813. Kol. Stich.,734,95.1,False,positional,,,Stiche; Lithographien,,Sec. XIX
 BO0624_88033,428129,323,462,2 Grosser Wiener Friedenskongress mit Konig Friedrich von Wurttemberg. Kol. Stich.,735,97.5,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428130,324,463,Friedrich der Grosse schlaft auf dem Schosse eines Soldaten. Selten!,736,97.1,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428131,325,464,"Ziethen sitzend vor seinem Konig, 1785. Nach Chodowiecki. Gestochen von Frenzel; mit Situationsblatt.",737,98.0,False,positional,,,Stiche; Lithographien,,
+BO0624_88033,428131,325,464,"Ziethen sitzend vor seinem Konig, 1785. Nach Chodowiecki. Gestochen von Frenzel; mit Situationsblatt.",737,98.0,False,positional,,,Stiche; Lithographien,,Sec. XVIII
 BO0624_88033,428132,326,465,Friedrich der Grosse. Titelblatt. Stich von Pinhas.,738,96.0,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428133,327,466,"Derselbe zu Pferd, nach links reitend. Stahlstich von Pinhas. Derselbe, mit General. Friedrich der Grosse,Weinprobe.",739,67.4,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428134,328,469,"9 Rugendas, Soldato a cavallo. Schabkunstblatt. La chasse meurtriere finie. Caporale di cavalleria. """,742,62.0,False,positional,RUGENDAS GEORG PHILIPP,,Stiche; Lithographien,,
 BO0624_88033,428135,329,472,Das Familienfest. Farb. Lith. von Otto.,745,94.6,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428136,330,473,La ville Wiflisburg en Suisse. Stich v. Merian.,746,95.7,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428137,331,474,Loth avec ses filles. Gestochen von Muller 1782. Seltenes Blatt.,751,96.8,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428138,332,475,Faber du Faur. Bivouac vor Wiazma 1812. Kol. Lith.,752,95.8,False,positional,,,Stiche; Lithographien,,
+BO0624_88033,428137,331,474,Loth avec ses filles. Gestochen von Muller 1782. Seltenes Blatt.,751,96.8,False,positional,,,Stiche; Lithographien,,Sec. XVIII
+BO0624_88033,428138,332,475,Faber du Faur. Bivouac vor Wiazma 1812. Kol. Lith.,752,95.8,False,positional,,,Stiche; Lithographien,,Sec. XIX
 BO0624_88033,428139,333,476,Napoleon bei Montereau.,753,91.7,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428140,334,477,"Derselbe, etwas kleiner. Lith. von Deterer.",754,95.1,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428141,335,478,Conrad der Salier. Gestochen von Meichel. Kol. Tadellos erhalten. a Un colloque a Geneve en 1549. Lith. von Noel.,755,71.3,False,positional,,,Stiche; Lithographien,,
+BO0624_88033,428141,335,478,Conrad der Salier. Gestochen von Meichel. Kol. Tadellos erhalten. a Un colloque a Geneve en 1549. Lith. von Noel.,755,71.3,False,positional,,,Stiche; Lithographien,,Sec. XVI
 BO0624_88033,428142,336,479,Otto I. von Wittelsbach. Kol. Stich von Nilson.,757,95.6,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428143,337,480,Schlacht bei Iconion. Sehr schon erhalten.,758,95.2,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428144,338,481,Salomons Urteil. Stich nach Overbeck.,759,94.6,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428145,339,482,"Vinces. Princeps. Kaunitz, Rietberg. Gestochen von Schmutzer in Wien 1786. Grosses Medaillonportrat. Tadellos erhalten.",760,98.2,False,positional,,Scuola Viennese,Stiche; Lithographien,,
+BO0624_88033,428145,339,482,"Vinces. Princeps. Kaunitz, Rietberg. Gestochen von Schmutzer in Wien 1786. Grosses Medaillonportrat. Tadellos erhalten.",760,98.2,False,positional,,Scuola Viennese,Stiche; Lithographien,,Sec. XVIII
 BO0624_88033,428146,340,483,Prinzessin Amalie von Bayern. Gestochen von Longhi.,761,96.1,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428147,341,484,"Ridinger, Gansejagd bei Ludwigsburg; mit vollem Rand. Tadellos erhalten.",762,97.1,False,positional,,Manifattura di Ludwigsburg,Stiche; Lithographien,,
 BO0624_88033,428148,342,485,Derselbe. Jagdbild im Tubinger Forst.,763,94.6,False,positional,,,Stiche; Lithographien,,
@@ -351,13 +351,13 @@ BO0624_88033,428155,349,492,Aus dem Marienleben. Darstellung im Tempel. Bartsch 
 BO0624_88033,428156,350,495,Desgleichen. Anbetung der drei Konige. Bartsch 87.,784,95.9,False,positional,Albrecht Durer,,Holzschnitte,,
 BO0624_88033,428157,351,496,Vue pres de Bath. Kol. Stich von Weber.,787,94.7,False,positional,WEBER PAUL,,Stiche; Lithographien,,
 BO0624_88033,428158,352,497,Neumodische Cariolfuhre. Humoristisches Blatt.,788,95.7,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428159,353,498,8Landschaft.Monogramm D.B.1763.,789,93.8,False,positional,,,Stiche; Lithographien,,
+BO0624_88033,428159,353,498,8Landschaft.Monogramm D.B.1763.,789,93.8,False,positional,,,Stiche; Lithographien,,Sec. XVIII
 BO0624_88033,428160,354,499,Friedrich der Grosse. Erinnerung an den Einzigen. Lith. von Lowenstern mit 18 kleinen Bildern aus seinem Leben.,790,98.2,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428161,355,500,Madchenkopf. Gestochen von Raffaello Morghen 1827. Hervorragend schon erhaltenes Blatt.,791,97.7,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428162,356,501,Sand's Ende auf dem Schaffot 20.Mai 1820.,792,95.2,False,positional,,,Stiche; Lithographien,,
+BO0624_88033,428161,355,500,Madchenkopf. Gestochen von Raffaello Morghen 1827. Hervorragend schon erhaltenes Blatt.,791,97.7,False,positional,,,Stiche; Lithographien,,Sec. XIX
+BO0624_88033,428162,356,501,Sand's Ende auf dem Schaffot 20.Mai 1820.,792,95.2,False,positional,,,Stiche; Lithographien,,Sec. XIX
 BO0624_88033,428163,357,502,Sand der Freie.,793,87.5,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428164,358,503,Sand's Abfuhrung zum Richtplatz.,794,93.9,False,positional,,,Stiche; Lithographien,,
-BO0624_88033,428165,359,504,Napoleons Todesstunde auf St. Helena 5. Mai 1821.,795,95.8,False,positional,,,Stiche; Lithographien,,
+BO0624_88033,428165,359,504,Napoleons Todesstunde auf St. Helena 5. Mai 1821.,795,95.8,False,positional,,,Stiche; Lithographien,,Sec. XIX
 BO0624_88033,428166,360,505,Napoleons Begrabnis auf St. Helena.,796,94.3,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428167,361,506,Meuchlerischer Ueberfall durch Soldaten des 3.Reiterregiments Ulm.,797,97.0,False,positional,,,Stiche; Lithographien,,
 BO0624_88033,428168,362,507,Marine. Kol. Gravure.,798,90.0,False,positional,,,Stiche; Lithographien,,

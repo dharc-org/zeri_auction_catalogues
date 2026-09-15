@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88501,588588,1,16,Jahrhundert. ## NIEDERDEUTSCH 1656,53,75.0,False,title_direct,,NIEDERDEUTSCH,,,
+BO0624_88501,588588,1,16,Jahrhundert. ## NIEDERDEUTSCH 1656,53,75.0,False,title_direct,,NIEDERDEUTSCH,,,Sec. XVII
 BO0624_88501,588589,2,17,Jahrhundert.,77,88.0,False,positional,,DEUTSCHER MEISTER,,,
 BO0624_88501,588590,3,I,m Vordergrund Reiter im Gesprath mit Bauerin und auf den Gras# flahen einige weidende Shafe.,90,99.4,False,positional,BRUGGINK,,,,
 BO0624_88501,588591,4,I,m Vordergrund einer Gebirgslandschaft die vershiedenen Augenblidke des Empfanges und der Bewirtung der Engel durd Abraham.,100,99.6,False,positional,GRIMMER,,,,
@@ -62,12 +62,12 @@ BO0624_88501,588647,60,I,"nneres einer Felsengrotte mit der sitzenden Heiligen. 
 BO0624_88501,588648,61,107,108,1036,100.0,False,positional,HONTHORST,,,,
 BO0624_88501,588649,62,106,109,1039,100.0,False,positional,HONTHORST,,,,
 BO0624_88501,588650,63,110,## RuySCH,1043,100.0,False,positional,RUYSCH,,,,
-BO0624_88501,588651,64,111,"PUTTER Pieter de Putter, geb. um 1600 Middelburg, gest.1659 in Beverwydk.",1067,97.2,False,positional,HEEM,,,,
+BO0624_88501,588651,64,111,"PUTTER Pieter de Putter, geb. um 1600 Middelburg, gest.1659 in Beverwydk.",1067,97.2,False,positional,HEEM,,,,Sec. XVII
 BO0624_88501,588652,65,I,n flachem Zinnteller stehend ein ornamentierter brauner Tontopf. Dunkler Hintergrund.,1071,99.4,False,positional,HEEM,,PIATTI,,
 BO0624_88501,588653,66,I,"n kellerartigem Raum, in dessen Nishen Weinfasser stehen, ver= schiedene Gruppen halbtrunkener Manner und Weiber in althollandischer bunter Tracht.",1090,99.7,False,positional,DIEPRAM,,OGGETTI VARI,,
 BO0624_88501,588654,67,I,"m Vordergrund FluBchen in Wiesengelande mit Anglern. Am jen seitigen Ufer Hirt mit Kuhen und Shafen. Im Hintergrund links Wind muhle und Hauser, rehts Dorf.",1098,99.7,False,positional,,UNBEKANNTER MEISTER,,,
 BO0624_88501,588655,68,112,113,1104,100.0,False,positional,,UNBEKANNTER MEISTER,,,
-BO0624_88501,588656,69,117,"NEER Manier des Aert van der Neer, geb.1619 Amsterdam, gest.1683 das. FLUSSLANDSCHAFTBEIMONDSCHEIN Links Uferweg mit Staffage und Haus, hinter dessen Dadh der Mond hervorkommt. Am rehten Ufer Baumgruppen. Holz.Hohe 24,5, Breite 38 cm.   |",1115,99.1,False,positional,MOUCHERON,Scuola di Aert Van Der Neer,OGGETTI IN LEGNO,,
+BO0624_88501,588656,69,117,"NEER Manier des Aert van der Neer, geb.1619 Amsterdam, gest.1683 das. FLUSSLANDSCHAFTBEIMONDSCHEIN Links Uferweg mit Staffage und Haus, hinter dessen Dadh der Mond hervorkommt. Am rehten Ufer Baumgruppen. Holz.Hohe 24,5, Breite 38 cm.   |",1115,99.1,False,positional,MOUCHERON,Scuola di Aert Van Der Neer,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88501,588657,70,118,"MONDNACHT ANDER KUISTE Links Uferstrabe mit Hausern. Rechts auf dem Wasser und am Strand Segel  und Ruderboote mit Fishern. Am bewolkten Himmel Vollmond. Holz. Hohe 22, Breite 23 cm. Aus der Collection Melville, Camberley, Surrey.       |",1117,99.1,False,positional,MOUCHERON,,OGGETTI IN LEGNO,,
 BO0624_88501,588658,71,119,"MONDSCHEINLANDSCHAFT In Meeresbucht Fischerkutter. Rechts Holzbauten und Fiscer an Lagerfeuer. Holz. Hohe 26, Breite 36 cm.                                                                                                                  |",1118,98.3,False,positional,MOUCHERON,,OGGETTI IN LEGNO,,
 BO0624_88501,588659,72,15,Jahrhundert. n der Mitte Maria in blauem Mantel mit goldenen. Sternen und der,1133,90.6,False,positional,,SIENESISCHER MEISTER,,,
@@ -114,16 +114,16 @@ BO0624_88501,588699,112,191,"Italienishe Landshaff, Links Ruine zwishen Baumen, 
 BO0624_88501,588700,113,193,"Caesarenkopf. Rote1 48,5/37,5 Rechts Monogramm.                                                                                                                                                                      |",1660,95.7,False,positional,,DEUTSCHESCHULE,,,
 BO0624_88501,588701,114,196,"Herrenbildnis, in Landschaft sitzend an einen Baum gelehnt. Ebenso58,5/42,5                                                                                                                                          |",1663,97.3,False,positional,,DEUTSCHESCHULE,,,
 BO0624_88501,588702,115,198,"Esther vor Ahasver. Rechts vor Palastarchitektur der Thron, von dem der erregte Konig aufspringt. Links Esther von ihren Frauen gestutzt. Feder und Sepia 27/33,5 Links unten bezeichnet. Aus Sammlung Benedikt XIV. |",1665,99.0,False,positional,,DEUTSCHESCHULE,,,
-BO0624_88501,588703,116,199,"| CHRISTOPH GEORG MATHES,geb.1738,Berlin. Landschaft mit Sandhugel. Aus demselbem Skizzenbuh wie dieses,   |",1668,98.0,False,positional,,DEUTSCHESCHULE,,,
+BO0624_88501,588703,116,199,"| CHRISTOPH GEORG MATHES,geb.1738,Berlin. Landschaft mit Sandhugel. Aus demselbem Skizzenbuh wie dieses,   |",1668,98.0,False,positional,,DEUTSCHESCHULE,,,Sec. XVIII
 BO0624_88501,588704,117,200,"| GEORG DAVID MATTHIEU,17361778,Ludwigslust. Buchillustration. Satyrkinder unter einer Herme des Pan.      |",1670,98.0,False,positional,,DEUTSCHESCHULE,,,
-BO0624_88501,588705,118,201,"| Dedkenentwurf. Die Jagd. Rote134/33 JOH.HEINRICHMEYER,1760-1832.                                         |",1672,96.8,False,positional,,DEUTSCHESCHULE,,,
+BO0624_88501,588705,118,201,"| Dedkenentwurf. Die Jagd. Rote134/33 JOH.HEINRICHMEYER,1760-1832.                                         |",1672,96.8,False,positional,,DEUTSCHESCHULE,,,Sec. XVIII
 BO0624_88501,588706,119,202,"| Grotte mit Lowendenkmal. Hirten mit Herde. Links bezeicbnet. Feder und Tushe aquar.16,5/24               |",1673,97.8,False,positional,,DEUTSCHESCHULE,,,
-BO0624_88501,588707,120,203,"| Dedkenentwurf. Aquarell30,5/41 JOH. ESAIAS NILSON, 1725 -1788, Augsburg.                                 |",1674,97.1,False,positional,,DEUTSCHESCHULE,,,
+BO0624_88501,588707,120,203,"| Dedkenentwurf. Aquarell30,5/41 JOH. ESAIAS NILSON, 1725 -1788, Augsburg.                                 |",1674,97.1,False,positional,,DEUTSCHESCHULE,,,Sec. XVIII
 BO0624_88501,588708,121,204,"| Der Triumph der Kirhe. Entwurf zu einem Deckengemalde. Feder getuscht 17,5/26,5                          |",1675,97.5,False,positional,,DEUTSCHESCHULE,,,
-BO0624_88501,588709,122,205,"| Christuskopf mit der Dornenkrone nah links. Ebenso 17/15 JOH.BENJAMINNOTHNAGEL,1729-1804.                |",1676,97.8,False,positional,,DEUTSCHESCHULE,,,
+BO0624_88501,588709,122,205,"| Christuskopf mit der Dornenkrone nah links. Ebenso 17/15 JOH.BENJAMINNOTHNAGEL,1729-1804.                |",1676,97.8,False,positional,,DEUTSCHESCHULE,,,Sec. XVIII
 BO0624_88501,588710,123,206,"| Brustbild eines Orientalen am Tish mit Sdriftrolle.Rotel 18,5/14,5 AUGUST QUERFURT,16961761,Wien.        |",1677,98.0,False,positional,,DEUTSCHESCHULE,,,
 BO0624_88501,588711,124,207,"| FluBlandshaft mit reiher Architektur. Feder und Tusche, weib geh., 20/29                                 |",1678,97.1,False,positional,,DEUTSCHESCHULE,,,
-BO0624_88501,588712,125,210,"Taufe Christi im Jordan. Feder mit Sepia lav.19/14 Auch Abraham Bloemart Zugescbrieben. AImosenverteiler an Arme und Kruppel. Rote Pinselzeichn. 24/37,5 JOHANN ROTTENHAMMER, 1564 -1623, Augsburg.",1685,70.5,False,title_direct,ROTTENHAMMER,,,,
+BO0624_88501,588712,125,210,"Taufe Christi im Jordan. Feder mit Sepia lav.19/14 Auch Abraham Bloemart Zugescbrieben. AImosenverteiler an Arme und Kruppel. Rote Pinselzeichn. 24/37,5 JOHANN ROTTENHAMMER, 1564 -1623, Augsburg.",1685,70.5,False,title_direct,ROTTENHAMMER,,,,Sec. XVI
 BO0624_88501,588713,126,211,"Bauernszene. In einer Stube am Tisch trinkende Manner und Frauen. Feder getuscht 35,5/41,5",1689,97.8,False,positional,,DEUTSCHESCHULE,,,
 BO0624_88501,588714,127,212,"Das Shiff mit den Jungern im Sturm auf dem See Genezareth. Am Scbiffsrand bezeichnet. Aquarell 48,5/34 JOHANN HEINRICHSCHMIDT,17491829,Dresden",1693,98.6,False,positional,P. SEELAND,,,,
 BO0624_88501,588715,128,213,"- 214 Heilung eines Kranken. Entwurf zu einem Altarbild, Rotel und Pinsel 27/21",1695,100.0,False,positional,P. SEELAND,,,,
@@ -135,11 +135,11 @@ BO0624_88501,588720,133,219,"Hermes ubergibt Paris den Erisapfel. Die beiden Hau
 BO0624_88501,588721,134,220,Drei historisde Darstellungen:,1723,93.5,False,positional,JANUARIUS ZICK,,,,
 BO0624_88501,588722,135,221,"Martyrium eines Heiligen am Marterpfahl. In den Wolken zwei Engel. Rote119,5/10,5",1735,97.5,False,positional,,DEUTSCHE SCHULE,,,
 BO0624_88501,588723,136,2,Z2 Linke Halfte eines Sheibenrisses.,1739,98.6,False,positional,,SCHWEIZER GLASMALER,,,
-BO0624_88501,588724,137,223,Redte Halfte zu obigem Sheibenrib. Rechts unten datiert: 21. November 1606.,1742,97.3,False,positional,,SCHWEIZER GLASMALER,,,
+BO0624_88501,588724,137,223,Redte Halfte zu obigem Sheibenrib. Rechts unten datiert: 21. November 1606.,1742,97.3,False,positional,,SCHWEIZER GLASMALER,,,Sec. XVII
 BO0624_88501,588725,138,224,"Italienishe Landshaft mit hohen alten Baumen, rehts FluB mit Steinbrucke. Feder34/45",1749,97.6,False,positional,JAN BREUGHEL d. J.,,,,
 BO0624_88501,588726,139,225,Romische Landshaft. Im Vordergrund Weg mit Staffge. Rukwarts Hauser und Ruinen. Feder aquarelliert 30/42,1750,98.1,False,positional,JAN BREUGHEL d. J.,Scuola Romana,,,
 BO0624_88501,588727,140,226,Romishe Landshaft.,1751,89.5,False,positional,JAN BREUGHEL d. J.,,,,
-BO0624_88501,588728,141,227,"## ANTON VAN DyCK,1599-1641,London.",1755,100.0,False,title_direct,ANTON VAN DYCK,,,,
+BO0624_88501,588728,141,227,"## ANTON VAN DyCK,1599-1641,London.",1755,100.0,False,title_direct,ANTON VAN DYCK,,,,Sec. XVII
 BO0624_88501,588729,142,228,8Der Weise Bias im Vordergrund vor Denksteinen. Rechts im Hinter= grund die brennende Stadt. Tusche 24/18,1761,98.1,False,positional,FRANS FRANCKEN III,,,,
 BO0624_88501,588730,143,229,David wird gesalbt. Im Vordergrund einer Flahlandschaft zwischen Kriegern und Priestern kniet David vor dem Hohen Priester.,1766,98.4,False,positional,PHILIP GALLE,,,,
 BO0624_88501,588731,144,230,Die Taufe des Konigs. Im Vordergrund links die Konigin. Am Taufbedken kniet der Konig vom Gefolge umgeben.,1770,98.1,False,positional,PETER DE JODE d.Ae.,,,,
@@ -152,8 +152,8 @@ BO0624_88501,588737,150,236,Zwei Krieger im Gesprac. Brustbilder. Feder28/36,180
 BO0624_88501,588738,151,237,"- Landschaft. Links Tempelruine. Rechts Ausblick auf bergige Land= schaft mit Ruinen, Feder und Tushe 27,5/39,5 Aus Sammlung Mourian.",1808,100.0,False,positional,JAN VREDEMAN DE VRIES,,,COLLEZIONE MOURIAN,
 BO0624_88501,588739,152,238,"Landscaft. Links vor Baumen das Posthaus, davor die Kutsche. Im Vordergrund Steg mit Staffage uber einen Bach. Auf der Rickseite bezeicbnet. Pinsel getusdt 15,5/20,5   |",1813,98.8,False,positional,JACOBUS AUGUSTINI,,,,
 BO0624_88501,588740,153,245,"Venus und Amor. Sepia 19,5/13,5                                                                                                                                         |",1821,93.8,False,positional,JACOBUS AUGUSTINI,,,,
-BO0624_88501,588741,154,247,"Die Geographie. Allegorisce Darstellung. Feder und Sepia 21/28 PIETER PIETERSZ LASTMANN,1583-1633, Amsterdam.                                                                                              |",1827,98.1,False,positional,,HOLLANDISCHE SCHULE,,,
-BO0624_88501,588742,155,248,"Abschied des Tobias. Auf der Treppe des Hauses rechts figuren= reihe Szene. Feder17,5/24,5 Auf Rickseite Kinderkopf. Kreide,weijβ geh. Aus Samlg. Graf v.Enzenberg 1879 Nr.57. An den 4 Ecken bescbnitten. |",1828,99.0,False,positional,,HOLLANDISCHE SCHULE,,,
+BO0624_88501,588741,154,247,"Die Geographie. Allegorisce Darstellung. Feder und Sepia 21/28 PIETER PIETERSZ LASTMANN,1583-1633, Amsterdam.                                                                                              |",1827,98.1,False,positional,,HOLLANDISCHE SCHULE,,,Sec. XVII
+BO0624_88501,588742,155,248,"Abschied des Tobias. Auf der Treppe des Hauses rechts figuren= reihe Szene. Feder17,5/24,5 Auf Rickseite Kinderkopf. Kreide,weijβ geh. Aus Samlg. Graf v.Enzenberg 1879 Nr.57. An den 4 Ecken bescbnitten. |",1828,99.0,False,positional,,HOLLANDISCHE SCHULE,,,Sec. XIX
 BO0624_88501,588743,156,249,Hugelige Waldlandsdaf. Im Hintergrund rechts eine Burg. Aquarell 9/13                                                                                                                                      |,1829,97.1,False,positional,,HOLLANDISCHE SCHULE,,,
 BO0624_88501,588744,157,250,Entwurf zu einer Studkdecke. Feder und Bister 20/22                                                                                                                                                        |,1830,96.2,False,positional,,HOLLANDISCHE SCHULE,,,
 BO0624_88501,588745,158,254,"Tot Bru by Mastricht. An das Tor redts lehnen sid die letzten Hauser, hinter diesen der Kirhturm.",1839,97.9,False,positional,ABRAHAM RADEMACHER,,,,
@@ -171,7 +171,7 @@ BO0624_88501,588756,169,266,"Kopf eines bartigen Mannes. Wahrscheinlih eine fruh
 BO0624_88501,588757,170,267,"Entwurf fur eine Theaterdekoration, Mittelalterliche Burg. Links Monogramm. Feder,Tushe,Sepia 17,526",1893,98.0,False,positional,MAURO BERTI,,,,
 BO0624_88501,588758,171,268,S a Drei Portal=Entwurfe.,1902,89.8,False,positional,,BOLOGNESER SCHULE,,,
 BO0624_88501,588759,172,269,"Buchillustration. Feder, weiB gehoht 17,5/10 Rechts unten bezeicbnet. Aus Sammlung Prayer.                                                                                                       |",1909,97.7,False,positional,SIMONE GIUS. BOUCHERON,,,COLLEZIONE PRAYER,
-BO0624_88501,588760,173,275,"Historische Szene. Kreide42,5/55,5 CARLO CESIO,1626-1686,Rieti                                                                                                                                   |",1916,96.8,False,positional,SIMONE GIUS. BOUCHERON,,,,
+BO0624_88501,588760,173,275,"Historische Szene. Kreide42,5/55,5 CARLO CESIO,1626-1686,Rieti                                                                                                                                   |",1916,96.8,False,positional,SIMONE GIUS. BOUCHERON,,,,Sec. XVII
 BO0624_88501,588761,174,276,"Agrippina bringt die Asche ihres Gatten nadh Rom. Auf der Richseite bezeichnet. Feder und Sepia,wB.geh.33/44                                                                                     |",1917,98.1,False,positional,SIMONE GIUS. BOUCHERON,,,,
 BO0624_88501,588762,175,277,"St.Rohus heilt Pestkranke. Feder und Tusche,wB.geh.36/28 Auf der Rickseite bezeicbnet. MICHELANGELOCOLONNA,16001687,Bologna.          |",1922,98.4,False,positional,,ITALIENISCHESCHULE,,,
 BO0624_88501,588763,176,278,Plafond-Entwurf. Tusche 26/31 Aus Sammlung Piancastelli.                                                                              |,1923,96.4,False,positional,,ITALIENISCHESCHULE,,COLLEZIONE PIANCASTELLI,
@@ -193,7 +193,7 @@ BO0624_88501,588778,191,312,"Entwurf zu einer reich mit Laubwerk verzierten Kann
 BO0624_88501,588779,192,316,Hauptfassade einer Kirche. Feder getuscht 22/32                                                                                                                                     |,1979,95.8,False,positional,PIETRO PEDRONI,,,,
 BO0624_88501,588780,193,326,## ITALIENISCHESCHULE,1985,100.0,False,title_direct,,ITALIENISCHESCHULE,,,
 BO0624_88501,588781,194,321,"Sehs Studien zu einer Madonna mit Kind. Feder und Sepia 20,5/30",1989,96.9,False,positional,,ITALIENISCHESCHULE,,,
-BO0624_88501,588782,195,320,"Studie einer linken Hand. Kreide 17/24,5 GIOV.BATTISTA SALVI,SASSOFERRATO 1605-1685, Rom.",1990,97.7,False,positional,,ITALIENISCHESCHULE,,,
+BO0624_88501,588782,195,320,"Studie einer linken Hand. Kreide 17/24,5 GIOV.BATTISTA SALVI,SASSOFERRATO 1605-1685, Rom.",1990,97.7,False,positional,"SASSOFERRATO, GIOV. BATTISTA SALVI",ITALIENISCHESCHULE,,,Sec. XVII
 BO0624_88501,588783,196,323,"Tod eines Heiligen.In bergiger Landshaft wird der Hinsinkende von Engeln gestuitzt.In der Luft musizierende Putten.Feder 36,5/41 JACOPO TINTORETTO Robusti),15181594,Venedig Maria erscheint einer sterbenden Heiligen. An den Randern 12 Dar stellungen aus dem Leben der Heiligen.LavierteSepia=Zeichn.33,5/33 PIETROTESTA,gen.ILLUCCHESINO,16111650,Rom.",1993,66.9,False,title_direct,TINTORETTO,,,,
 BO0624_88501,588784,197,324,"Putte auf Wolken schwebend, den rechten Arm erhoben.Rotel 25,5/20 TIZIANO VEZELLI,14771576,Venedig",1994,98.0,False,positional,TIZIANO VECELLIO,ITALIENISCHESCHULE,,,
 BO0624_88501,588785,198,325,"Selbstbildnis des Kunstlers am Tish, den Kopf nach rechts gewandt.",1996,97.0,False,positional,,ITALIENISCHESCHULE,,,
@@ -216,7 +216,7 @@ BO0624_88501,588801,214,343,"## CHARLESDELAFOSSE,16361716,Paris.",2066,100.0,Fal
 BO0624_88501,588802,215,344,"Springbrunnen, Entwurf zu einem Monumentalbrunnen.",2068,96.0,False,positional,CHARLES DELAFOSSE,,,,
 BO0624_88501,588803,216,345,Monumentale Treppenhalle. Durchblick durdh Steinbogen auf die Treppe des Lichthofes. Rotel37/57,2073,97.9,False,positional,CHARLES DELAFOSSE,,,,
 BO0624_88501,588804,217,346,Porta Major in Rom. Die entgegengesetzte Ansidht aus derselben Sammlung stammend befindet sich im Kupferstich-Kabinet Berlin.,2077,98.4,False,positional,HONORE FRAGONARD,Scuola di Berlino,OGGETTI IN RAME,,
-BO0624_88501,588805,218,347,"Symbolisierung der FluBmundungen ins Meer. Rotel12/25,5 NICOLASLANCRET,1690-1743,Paris.",2083,97.7,False,positional,RAYMOND DE LA FAGE,,,,
+BO0624_88501,588805,218,347,"Symbolisierung der FluBmundungen ins Meer. Rotel12/25,5 NICOLASLANCRET,1690-1743,Paris.",2083,97.7,False,positional,RAYMOND DE LA FAGE,,,,Sec. XVIII
 BO0624_88501,588806,219,348,Shlafendes Maddhen mit Hund. Rotel und Kreide 15/21,2084,96.2,False,positional,RAYMOND DE LA FAGE,,,,
 BO0624_88501,588807,220,349,"Peintres par M. Charles Blanc, Tome I, Largilliere S. 3.",2088,96.2,False,positional,NICOLAES DE LARGILLIERE,,,,
 BO0624_88501,588808,221,351,Landschaft mit Wasserlauf. Im Hintergrund Gebirgszug.,2099,96.2,False,positional,CLAUDE LORRAIN,,,,
@@ -224,7 +224,7 @@ BO0624_88501,588809,222,352,Windhund.,2104,80.0,False,positional,CLAUDE LORRAIN,
 BO0624_88501,588810,223,353,Reitergefecht. Im Vordergrund der Kommandant mit seinem Stab.,2109,96.7,False,positional,CHARLES PARROCEL,,OGGETTI VARI,,
 BO0624_88501,588811,224,354,"Guitarrespielende Dame, sitzend nach links. Die Shlusselubergabe. In bergiger Landschaft ubergibt Christus dem knieenden Petrus den Himmelsschlussel. Links die Apostel. Aus Sammlung Hausmann. Pinsel getuscht 26,5/40",2122,88.4,False,positional,NICOLAS POUSSIN,,,COLLEZIONE HAUSMANN,
 BO0624_88501,588812,225,355,"Tod des Germanicus. Eine zweite Studie befindet sich im Museum zu Chantilly, abg. Grautoff I Tafel 4, gegen welhe sich gewisse Ab= weichungen im vorliegenden Blatte zeigen. Kreide getuscht·16/23 Sammlung Ricbardson.",2123,99.0,False,positional,NICOLAS POUSSIN,,,COLLEZIONE RICHARDSON,
-BO0624_88501,588813,226,359,"Architekturstudie, Durh hohe Rundbogen blidkt man in den runden Arkadenhof. Rotel42/53 Rechts oben bezeicbnet: Hubert Robert 1758. |",2129,98.4,False,positional,ROBERT HUBERT,FRANZOSISCHE SCHULE,,,
+BO0624_88501,588813,226,359,"Architekturstudie, Durh hohe Rundbogen blidkt man in den runden Arkadenhof. Rotel42/53 Rechts oben bezeicbnet: Hubert Robert 1758. |",2129,98.4,False,positional,ROBERT HUBERT,FRANZOSISCHE SCHULE,,,Sec. XVIII
 BO0624_88501,588814,227,I,"SRAEL SILVESTRE,16211691,Paris. 362 Ital. FluBlandshaft, Auf beiden Ufern Gebaude durch Steinbrucke verbunden, BrauneFederz.12/25     |",2132,99.6,False,positional,,FRANZOSISCHE SCHULE,,,
 BO0624_88501,588815,228,364,Kopf einer alten Frau mit Haube. Rotel 11/9                                                                                        |,2135,95.5,False,positional,,FRANZOSISCHE SCHULE,,,
 BO0624_88501,588816,229,366,"Kronung der Maria. Die Jungfrau zwishen Gottvater und Christus. Feder28,5/20,5",2140,97.4,False,positional,PEDRO NUNEZ,,,,
@@ -240,4 +240,4 @@ BO0624_88501,588825,238,375,| Das Grab Horaz' in Albano. Ebenso 47/65           
 BO0624_88501,588826,239,376,| 5Ansicht der 《Porte Molle》 bei Rom. Ebenso 47/65                                                                                   |,2168,95.7,False,positional,MONOGRAMMIST E.M.,,,,
 BO0624_88501,588827,240,9,MAI1922,2179,87.5,False,positional,MONOGRAMMIST E.M.,,,,
 BO0624_88501,588828,241,I,llustrierter,2185,96.0,False,positional,MONOGRAMMIST E.M.,,,,
-BO0624_88501,588829,242,I,llustrierter Katalog 1032,2195,98.0,False,positional,,,TASCHENUHREN,,
+BO0624_88501,588829,242,I,llustrierter Katalog 1032,2195,98.0,False,positional,,,TASCHENUHREN,,Sec. XI

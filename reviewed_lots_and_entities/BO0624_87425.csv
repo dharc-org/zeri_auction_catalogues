@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_87425,684580,1,1200,haen.Y.Saller,23,100.0,False,positional,,,Glasgemalde,,
 BO0624_87425,684581,2,93,"C Gut erhalten. 0,275 h.,0,18 br. Wien No. 6. Zurich No.93. 105 Nr. 1l1. Ende des XV.—Anfang XVI. Jhdts. Rundscheibe. Grisaille. Die thronende S. Katharina halt auf dem Schoosse ein offenes Buch und die Linke auf das Schwert gestitzt, zu Fuissen der Heiligen das zerbrochene Zackenrad.Schwarzer Grund.",27,99.5,False,title_direct,,Scuola Viennese,Grisailles,,
 BO0624_87425,684582,3,205,"Nr. 12. Anfang XVI. Jhdt. Das gothisirende Rundbild, grau und gelb gemalt, stellt den Abschied Christi von seiner Mutter dar.",31,98.3,False,positional,,,Glasgemalde,,
-BO0624_87425,684583,4,1350,1250,47,100.0,False,positional,,,Glasgemalde,,
+BO0624_87425,684583,4,1350,1250,47,100.0,False,positional,,,Glasgemalde,,Sec. XIII
 BO0624_87425,684584,5,100,450,53,100.0,False,positional,,,Glasgemalde,,
 BO0624_87425,684585,6,1250,805,100,100.0,False,positional,,,Glasgemalde,,
 BO0624_87425,684586,7,4000,<!-- image -->,106,100.0,False,positional,,,Glasgemalde,,
@@ -33,7 +33,7 @@ BO0624_87425,684610,31,11,110o ren,981,100.0,False,positional,,,Glasgemalde,,
 BO0624_87425,684611,32,I,n- sen,1159,90.9,False,positional,,,Glasgemalde,,
 BO0624_87425,684612,33,6,"""",1161,0.0,False,positional,,,Glasgemalde,,
 BO0624_87425,684613,34,I,A,1268,66.7,False,positional,MOREAU ADRIAN,Scuola di A. Coypel,ARREDAMENTI,,
-BO0624_87425,684614,35,I,"nschrift (d. B):Hannf Jacob Netzer Anna Brandenburgerin fein Eheliche Hauffrauw 1600.""",1364,99.4,False,positional,,,Glasgemalde,,
+BO0624_87425,684614,35,I,"nschrift (d. B):Hannf Jacob Netzer Anna Brandenburgerin fein Eheliche Hauffrauw 1600.""",1364,99.4,False,positional,,,Glasgemalde,,Sec. XVII
 BO0624_87425,684615,36,80,70.,1377,100.0,False,positional,,,Glasgemalde,,
 BO0624_87425,684616,37,I,t- er-,1461,88.9,False,positional,,,Glasgemalde,,
 BO0624_87425,684617,38,I,be te.,1465,90.9,False,positional,,,Glasgemalde,,
@@ -51,13 +51,13 @@ BO0624_87425,684628,49,6,#,1876,100.0,False,positional,,,Glasgemalde,,
 BO0624_87425,684629,50,34,K-,1884,100.0,False,positional,VOLTZ FRIEDRICH JOHANN,Scuola di Monaco,Glasgemalde,,
 BO0624_87425,684630,51,3,)：,1886,0.0,False,positional,,,Glasgemalde,,
 BO0624_87425,684631,52,31,"h.,20 br.Erhaltung gut；einige alte Flicksticke.",1992,97.8,False,positional,,,Glasgemalde,,
-BO0624_87425,684632,53,I,"nschrift (d.B):,Die Lopliche Statt Solenthurn Anno 1649.""",2034,99.0,False,positional,,,Glasgemalde,,
+BO0624_87425,684632,53,I,"nschrift (d.B):,Die Lopliche Statt Solenthurn Anno 1649.""",2034,99.0,False,positional,,,Glasgemalde,,Sec. XVII
 BO0624_87425,684633,54,1,水 n en,2075,72.7,False,positional,,,Glasgemalde,,
 BO0624_87425,684634,55,2,EG,2171,100.0,False,positional,IWeber,,,,
 BO0624_87425,684635,56,I,n-,2177,66.7,False,positional,IWeber,Scuola di Nicolas Poussin,,,
 BO0624_87425,684636,57,67,"""",2179,0.0,False,positional,IWeber,,,,
 BO0624_87425,684637,58,300,<!-- image -->,2213,100.0,False,positional,IWeber,,,,
-BO0624_87425,684638,59,190,"das Kindlein halten, hangen Bander mit den Inschriften: ,Trahe nos post te"" und ,Omnia Traham sich ein Band mit: Trahe nos post Te empor. Unten zwischen dem Phonix und Pelican ist eine Ansicht des ""Gottshaufr Wettingen"" gemalt. Darunter: ,BENEDICTVS . DEI . ET APOSTOLICE SEDIS GRATIA ABBAS MARISSTELLE.Anno 1672.""",2242,100.0,False,positional,IWeber,,,,
+BO0624_87425,684638,59,190,"das Kindlein halten, hangen Bander mit den Inschriften: ,Trahe nos post te"" und ,Omnia Traham sich ein Band mit: Trahe nos post Te empor. Unten zwischen dem Phonix und Pelican ist eine Ansicht des ""Gottshaufr Wettingen"" gemalt. Darunter: ,BENEDICTVS . DEI . ET APOSTOLICE SEDIS GRATIA ABBAS MARISSTELLE.Anno 1672.""",2242,100.0,False,positional,IWeber,,,,Sec. XVII
 BO0624_87425,684639,60,I,G,2284,66.7,False,title_direct,BASSANO GIACOMO,Scuola di G. Romney,STAMPE E INCISIONI,,
 BO0624_87425,684640,61,I,t.,2290,66.7,False,positional,IWeber,,,,
 BO0624_87425,684641,62,8,",",2292,0.0,False,title_direct,,,"Emaillirte, geschliffene etc. Glaser",,
@@ -71,9 +71,9 @@ BO0624_87425,684648,69,150,<!-- image -->,2521,100.0,False,positional,,,Grisaill
 BO0624_87425,684649,70,105,<!-- image -->,2523,100.0,False,positional,,,Grisailles,,
 BO0624_87425,684650,71,100,210,2542,100.0,False,positional,,,Grisailles,,
 BO0624_87425,684651,72,1,1-,2589,100.0,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Grisailles,,
-BO0624_87425,684652,73,I,"代t dazwischen: ,Johan Heinrich Hug, Kauffma und Burger Lob . Statt Zurich und Elifabetha Hug ein gcbohrne Labhartin fein Ehegma. Anno 1686.""",2605,100.0,False,positional,,,Grisailles,,
-BO0624_87425,684653,74,105,"Pofart auss dem Weyer Haubtman V. def Gerichts in Gofauw 1689.""",2666,100.0,False,positional,,,Grisailles,,
-BO0624_87425,684654,75,240,"Nr. 395. Die Composition, Umrahmung und Anordnung entspricht genau den Nr. 338—341. Zwei toscanische Saulen sind durch einen Triglyphen-Fries verbunden; dazwischen das Wappen der Holzhalb mit dem Zur Eich'schen und Usteri'schen ecartelirt.Unten die Inschrift (d. B): ""Johannes.Holtzhalb,Fr. Catharina Zur Eich,Fr. Efther Vfterin feine Ehegemahel.A°1691.""",2670,99.4,False,positional,,,Grisailles,,
+BO0624_87425,684652,73,I,"代t dazwischen: ,Johan Heinrich Hug, Kauffma und Burger Lob . Statt Zurich und Elifabetha Hug ein gcbohrne Labhartin fein Ehegma. Anno 1686.""",2605,100.0,False,positional,,,Grisailles,,Sec. XVII
+BO0624_87425,684653,74,105,"Pofart auss dem Weyer Haubtman V. def Gerichts in Gofauw 1689.""",2666,100.0,False,positional,,,Grisailles,,Sec. XVII
+BO0624_87425,684654,75,240,"Nr. 395. Die Composition, Umrahmung und Anordnung entspricht genau den Nr. 338—341. Zwei toscanische Saulen sind durch einen Triglyphen-Fries verbunden; dazwischen das Wappen der Holzhalb mit dem Zur Eich'schen und Usteri'schen ecartelirt.Unten die Inschrift (d. B): ""Johannes.Holtzhalb,Fr. Catharina Zur Eich,Fr. Efther Vfterin feine Ehegemahel.A°1691.""",2670,99.4,False,positional,,,Grisailles,,Sec. XVII
 BO0624_87425,684655,76,1,f,2704,66.7,False,title_direct,DELACROIX VICTOR EUGENE,Scuola di F. Boucher,"Emaillirte, geschliffene etc. Glaser",,
 BO0624_87425,684656,77,1,en,2708,100.0,False,title_direct,,Spengler von Constanz,BIGIOTTERIA,,
 BO0624_87425,684657,78,I,en,2714,100.0,False,title_direct,,Spengler von Constanz,BIGIOTTERIA,,
@@ -95,7 +95,7 @@ BO0624_87425,684672,93,300,Nr. 463. 461/X32 vollstandig erhalten.,2984,95.9,Fals
 BO0624_87425,684673,94,500,"Nr. 466. Fischblase,auf dunkelblauem Damast ein graues Rankenornament. Erhaltung gut.82X411/2",2990,97.8,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684674,95,616,Nr.468. Unter gothischem Baldachin Anbetung der Konige.,2992,96.4,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684675,96,610,Nr. 469. Christus erscheint seiner Mutter.Unten die Inschrift:Virgilli Hofer.,2996,97.4,False,positional,,Spengler von Constanz,,,
-BO0624_87425,684676,97,93,"C.3000 Nr.472. Oben die Jahrzahl 1520. St. Johannes,Magdalena und der heil. Nicolaus von Mir. 821/×44. 1550",3002,98.5,False,positional,,Spengler von Constanz,,,
+BO0624_87425,684676,97,93,"C.3000 Nr.472. Oben die Jahrzahl 1520. St. Johannes,Magdalena und der heil. Nicolaus von Mir. 821/×44. 1550",3002,98.5,False,positional,,Spengler von Constanz,,,Sec. XVI
 BO0624_87425,684677,98,821,/X44.Beide Nummern stark restaurirt. 620,3010,95.0,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684678,99,70,X40.,3012,75.0,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684679,100,490,Rundscheibe. Auf farblosem Grunde ein Wappenschild senkrecht roth und weiss,3056,97.4,False,positional,ROTH PHILIPP,Spengler von Constanz,,,
@@ -106,12 +106,12 @@ BO0624_87425,684683,104,50,<!-- image -->,3066,100.0,False,positional,,Spengler 
 BO0624_87425,684684,105,491,"Rundscheibe. In rother, moderner Umrahmung ein Gastmahl mit landschaflichem Hinter-",3090,97.6,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684685,106,I,m Hintergrund eine Kapelle.Um den Rand die moderne Inschrift:Conrat Hirn und Affra sein wirtin Stifter des bilgerhus und S. Lois cappel bey S. Anna sambt derselben einkommen ann Cr.,3129,99.7,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684686,107,1429,"Ende XVI. Jhdt.""",3130,83.9,False,positional,,Spengler von Constanz,,,
-BO0624_87425,684687,108,I,"n den vier Zwickeln Engel. Am Fusse die verblichene Inschrift: ,S. Eligius Episcopus A. C. 665. bist mein trost. 1624.""",3135,99.5,False,positional,,Spengler von Constanz,,,
+BO0624_87425,684687,108,I,"n den vier Zwickeln Engel. Am Fusse die verblichene Inschrift: ,S. Eligius Episcopus A. C. 665. bist mein trost. 1624.""",3135,99.5,False,positional,,Spengler von Constanz,,,Sec. XVII
 BO0624_87425,684688,109,23,X161/2.,3140,85.7,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684689,110,2,M - Y,3189,50.0,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684690,111,3,W0,3191,80.0,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684691,112,2,50 Nr. 513. In spirlicher architektonischer Umrahmung Johannes der Taufer mit Christus. Da,3201,98.9,False,positional,,Spengler von Constanz,,,
-BO0624_87425,684692,113,13,"Nr.515. Auf gelbem Grund das Allianzwappen Hundt u. Heiffilinger u. Jahrzahl 1609. An dem Rand die Inschrift:,Paris Fridrich Hundt von Lauterpach FD.In Bairn Rath Und Obe: Leitenambt, Apolonia Hundin Gepor. Heifflerin.""",3211,99.3,False,positional,,Spengler von Constanz,,,
+BO0624_87425,684692,113,13,"Nr.515. Auf gelbem Grund das Allianzwappen Hundt u. Heiffilinger u. Jahrzahl 1609. An dem Rand die Inschrift:,Paris Fridrich Hundt von Lauterpach FD.In Bairn Rath Und Obe: Leitenambt, Apolonia Hundin Gepor. Heifflerin.""",3211,99.3,False,positional,,Spengler von Constanz,,,Sec. XVII
 BO0624_87425,684693,114,341,/eX30.,3218,66.7,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684694,115,101,/2.,3223,33.3,False,positional,,Spengler von Constanz,,,
 BO0624_87425,684695,116,2,Sticke fehlen. 35X261/2.,3227,95.7,False,positional,,Spengler von Constanz,,,
@@ -150,7 +150,7 @@ BO0624_87425,684727,148,1,Untertasse nicht dazu gehorig.,4089,96.7,False,positio
 BO0624_87425,684728,149,31,"Nr.767. Kimpchen, doppelt gehenkelt, mit Deckel, in chinesischen Geschmack dcorirt,",4118,98.1,False,positional,,,Fayencen,,
 BO0624_87425,684729,150,14,"Nr.768.Theekanne in Kugelform,und Milchkanne,mit reichem Blumendecor. Ostschweizerisches Fabrikat. Marke:IHF.",4123,98.6,False,positional,,,Fayencen,,
 BO0624_87425,684730,151,23,"Nr. 769. Hohe Kaffeekanne in conischer Form, mit langem Handgriff, bemalt mit Blumenbouquets und Streublumchen. Zuricher Fabrikat. Marke: Z in blau. Hohe 18cm.",4127,99.0,False,positional,,,OGGETTI VARI,,
-BO0624_87425,684731,152,300,(J. Hannong). Marke: H 1047.,4132,91.7,False,positional,,,Fayencen,,
+BO0624_87425,684731,152,300,(J. Hannong). Marke: H 1047.,4132,91.7,False,positional,,,Fayencen,,Sec. XI
 BO0624_87425,684732,153,22,"Nr. 776. Zwei Schuisseln, doppelt gerippt und mit geweltem Rand, blau bemalt, die eine mit Landschaftsdarstellung, die andere mit Blumenstaude und Vogeln. Ostschweizerisches Fabrikat. Diam.29 em.2 Stick.",4151,99.2,False,positional,,,Fayencen,,
 BO0624_87425,684733,154,2,"Nr. 777. Hohe Henkelkanne in Birnform, mit langem Halse. Festes weisses Email, in Horizontalreihen in schonem Blau fein bemalt mit Palmetten und Blumenranken. Kieler Fabrikat.",4152,99.4,False,positional,,,Fayencen,,
 BO0624_87425,684734,155,43,Marke:K. B. Sehr schones Stick.,4153,94.9,False,positional,,,Fayencen,,
@@ -174,7 +174,7 @@ BO0624_87425,684751,172,15,"、 N.871. Zwei Pokale:a.Pokal, der Schaft schraubfo
 BO0624_87425,684752,173,10,61 Po,4805,100.0,False,positional,,,Waffen,,
 BO0624_87425,684753,174,80,Mta,4807,66.7,False,positional,,,Waffen,,
 BO0624_87425,684754,175,120,115,4810,100.0,False,positional,,,Waffen,,
-BO0624_87425,684755,176,325,"buckelt und mit Messingnageln beschlagen. Prachtstick von schoner Form, reichem Decor und vortrefflicher Ausfihrung und bester Erhaltung. Anfang XVII. Jahrh.",4818,100.0,False,positional,,,Waffen,,
+BO0624_87425,684755,176,325,"buckelt und mit Messingnageln beschlagen. Prachtstick von schoner Form, reichem Decor und vortrefflicher Ausfihrung und bester Erhaltung. Anfang XVII. Jahrh.",4818,100.0,False,positional,,,Waffen,,Sec. XVII
 BO0624_87425,684756,177,31,gefuhrter Degenknopf.,4828,93.0,False,positional,,,Waffen,,
 BO0624_87425,684757,178,25,"Nr. 892. Galadegen, Louis XIV.; die schmale Klinge reich gravirt und vergoldet mit Arabesken, den Standfiguren der Apostel und franzosischen Sprichen; das Gefass Eisen mit durch-",4850,99.1,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
 BO0624_87425,684758,179,2,"brochenem Stichblatt,in reicher Ornamentirung in Gold und Silber tauschirt.",4851,98.7,False,positional,,,OGGETTI IN ORO,,
@@ -187,9 +187,9 @@ BO0624_87425,684764,185,1050,<!-- image -->,4943,100.0,False,positional,,,Waffen
 BO0624_87425,684765,186,108,<!-- image -->,4945,100.0,False,positional,,,Waffen,,
 BO0624_87425,684766,187,40,37,5020,100.0,False,positional,,,Waffen,,
 BO0624_87425,684767,188,130,"- Nr. 914. Vier Bergmamnsbecher in Kupfer, drei innen vergoldet, einer ganz vergoldet; drei",5025,100.0,False,positional,,,OGGETTI IN RAME,,
-BO0624_87425,684768,189,200,"Nr. 919. Zwei grosse viereckige Platten in versilbertem Messing, mit den hochreliefirten Darstellungen der Fusswaschung und des Abendmahls in sehr schonen, an die Meisterwerke des H. Goltzius anklingenden Compositionen.",5054,99.1,False,positional,,,PIATTI,,
+BO0624_87425,684768,189,200,"Nr. 919. Zwei grosse viereckige Platten in versilbertem Messing, mit den hochreliefirten Darstellungen der Fusswaschung und des Abendmahls in sehr schonen, an die Meisterwerke des H. Goltzius anklingenden Compositionen.",5054,99.1,False,positional,GOLTZIUS HENDRIK,,PIATTI,,
 BO0624_87425,684769,190,125,"- 30 Nr.928. Gedeckelte Tasse auf Untertasse, in chinesischem Email, mit reichen Arabesken, Drachenfiguren etc.in Farben auf kobaltblauem Grunde.",5100,100.0,False,positional,,,Waffen,,
-BO0624_87425,684770,191,256,"fuhrung mit Passionsscenen in theils figurenreichen Compositionen, Heiligenfiguren ete. Sehr hubsche Garnitur eines Kelches. Augsburger Arbeit. Ende XVII. Jahrh.",5105,98.7,False,positional,,,Waffen,,
+BO0624_87425,684770,191,256,"fuhrung mit Passionsscenen in theils figurenreichen Compositionen, Heiligenfiguren ete. Sehr hubsche Garnitur eines Kelches. Augsburger Arbeit. Ende XVII. Jahrh.",5105,98.7,False,positional,,,Waffen,,Sec. XVII
 BO0624_87425,684771,192,I,n goldgepresstem Original Lederetui.,5113,98.6,False,positional,,,Waffen,,
 BO0624_87425,684772,193,110,<!-- image -->,5126,100.0,False,positional,,,Waffen,,
 BO0624_87425,684773,194,210,425,5202,100.0,False,positional,,,Waffen,,
@@ -216,8 +216,8 @@ BO0624_87425,684793,214,I,nteressante Garnitur.Wird auf Wunsch vereinzelt.31 Sti
 BO0624_87425,684794,215,35,95,5628,100.0,False,positional,,,Mobel,,
 BO0624_87425,684795,216,22,<!-- image -->,5632,100.0,False,positional,,,Mobel,,
 BO0624_87425,684796,217,510,220,5636,100.0,False,positional,,,Mobel,,
-BO0624_87425,684797,218,135,"Nr.1014. Kleine Holzcassette, vierseitig, die Seitenwandungen reich geschnitzt in Kerbschnittmusterung; auf dem Schieberdeckel vertieft geschnitten die Standfigur des hl. Mauritius. XVI.Jahrh.",5653,100.0,False,positional,,,Mobel,,
-BO0624_87425,684798,219,120,"Nr. 1020. Ein Paar Rococo-Consoltische,zweibeinig,mit zierlich geschnitztem Muschel-und Ornamentwerk.Weiss-gelb bemalt.Die Platten rother und grauer Marmor,Versteinerungen ent-",5678,98.9,False,positional,,,PIATTI,,
+BO0624_87425,684797,218,135,"Nr.1014. Kleine Holzcassette, vierseitig, die Seitenwandungen reich geschnitzt in Kerbschnittmusterung; auf dem Schieberdeckel vertieft geschnitten die Standfigur des hl. Mauritius. XVI.Jahrh.",5653,100.0,False,positional,,,Mobel,,Sec. XI
+BO0624_87425,684798,219,120,"Nr. 1020. Ein Paar Rococo-Consoltische,zweibeinig,mit zierlich geschnitztem Muschel-und Ornamentwerk.Weiss-gelb bemalt.Die Platten rother und grauer Marmor,Versteinerungen ent-",5678,98.9,False,positional,,,PIATTI,,Sec. XI
 BO0624_87425,684799,220,105,"Hohe 78,Breite 60cm.",5685,100.0,False,positional,,,Mobel,,
 BO0624_87425,684800,221,135,"Hohe 82,Breite97cm.",5694,100.0,False,positional,,,Mobel,,
 BO0624_87425,684801,222,130,<!-- image -->,5698,100.0,False,positional,,,Mobel,,
@@ -226,11 +226,11 @@ BO0624_87425,684803,224,400,<!-- image -->,5728,100.0,False,positional,,,Mobel,,
 BO0624_87425,684804,225,23,<!-- image -->,5743,100.0,False,positional,,,Mobel,,
 BO0624_87425,684805,226,230,<!-- image -->,5747,100.0,False,positional,,,Mobel,,
 BO0624_87425,684806,227,280,<!-- image -->,5749,100.0,False,positional,,,Mobel,,
-BO0624_87425,684807,228,215,"Nr.1068.Hirschkopf,ahnlich,mit Vierzehnender,mit der Aufschrift:Den 7ten 8ber im Waldenbucher Forst, Hildrichshausen von Sr. Eminenz geschossen worden.""",5884,98.7,False,positional,,,Geweihe,,
-BO0624_87425,684808,229,310,"Nr.1069.Hirschkopf,ahnlich,mit Vierzehnender,mit der Aufschrift:Den 4ten 8ber 1765 Waldenbucher Forst, Einsiedler Hut, von Sr. hochfurstl. Eminenz geschossen worden.""",5886,98.8,False,positional,,,Geweihe,,
-BO0624_87425,684809,230,925,"Nr.1070. Hirschkopf,hnlich,mit Sechszehnender,mit der Aufschrift:Den 5tn 8ber 1765",5888,97.6,False,positional,,,Geweihe,,
-BO0624_87425,684810,231,300,"Nr.1071. Hirschkopf, hnlich,mit Sechszehnender, mit der Aufschrift:Den 5. 8br 1765",5890,97.5,False,positional,,,Geweihe,,
-BO0624_87425,684811,232,3,"W Nr.1073. Hirschkopf, ahnlich, mit Vierzehnender, mit der Aufschrift:,Den 7ten 8ber 1765 Boblinger Hut und Forst, von Sr. hochfuirstl. Eminenz geschossen worden.""",5894,99.7,False,positional,,,Geweihe,,
+BO0624_87425,684807,228,215,"Nr.1068.Hirschkopf,ahnlich,mit Vierzehnender,mit der Aufschrift:Den 7ten 8ber im Waldenbucher Forst, Hildrichshausen von Sr. Eminenz geschossen worden.""",5884,98.7,False,positional,,,Geweihe,,Sec. XI
+BO0624_87425,684808,229,310,"Nr.1069.Hirschkopf,ahnlich,mit Vierzehnender,mit der Aufschrift:Den 4ten 8ber 1765 Waldenbucher Forst, Einsiedler Hut, von Sr. hochfurstl. Eminenz geschossen worden.""",5886,98.8,False,positional,,,Geweihe,,Sec. XI
+BO0624_87425,684809,230,925,"Nr.1070. Hirschkopf,hnlich,mit Sechszehnender,mit der Aufschrift:Den 5tn 8ber 1765",5888,97.6,False,positional,,,Geweihe,,Sec. XI
+BO0624_87425,684810,231,300,"Nr.1071. Hirschkopf, hnlich,mit Sechszehnender, mit der Aufschrift:Den 5. 8br 1765",5890,97.5,False,positional,,,Geweihe,,Sec. XI
+BO0624_87425,684811,232,3,"W Nr.1073. Hirschkopf, ahnlich, mit Vierzehnender, mit der Aufschrift:,Den 7ten 8ber 1765 Boblinger Hut und Forst, von Sr. hochfuirstl. Eminenz geschossen worden.""",5894,99.7,False,positional,,,Geweihe,,Sec. XI
 BO0624_87425,684812,233,2596,"Bind.S.291,N.140.",6209,86.5,False,positional,,,Munzen und Medaillen,,
 BO0624_87425,684813,234,I,n polirtem Kasten.,6256,97.1,False,positional,,,Munzen und Medaillen,,
-BO0624_87425,684814,235,1825,"Hug,Abbildungen alter Kunstwerke aus den Fachern der Bau- und Bildhauer-Kunst. Constanz 1832. Mit Lithographieen.pb.gr.fol.",6273,97.9,False,positional,,,STAMPE E INCISIONI,,
+BO0624_87425,684814,235,1825,"Hug,Abbildungen alter Kunstwerke aus den Fachern der Bau- und Bildhauer-Kunst. Constanz 1832. Mit Lithographieen.pb.gr.fol.",6273,97.9,False,positional,,,STAMPE E INCISIONI,,Sec. XIX

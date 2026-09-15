@@ -5,7 +5,7 @@ BO0624_84302,324813,3,109,<!-- image -->,30,100.0,False,none,,,,,
 BO0624_84302,324814,4,3,Roches dans la fozet de Fontainebleau.,54,97.4,False,positional,BARYE (Antoine-Louis),,,,
 BO0624_84302,324815,5,5,"Le Pont-Neuf,vu du quai des Otfeozes.",79,97.3,False,positional,BOGGS (Frank M.),,,,
 BO0624_84302,324816,6,6,°,81,0.0,False,positional,BOGGS (Frank M.),,,,
-BO0624_84302,324817,7,8,"Honfleur,1825 + Paris,1898.",108,100.0,False,positional,BOUDIN (Eugene),,,,
+BO0624_84302,324817,7,8,"Honfleur,1825 + Paris,1898.",108,100.0,False,positional,BOUDIN (Eugene),,,,Sec. XIX
 BO0624_84302,324818,8,9,Le Quai au bois; bassin de Deauville.,118,97.2,False,positional,BOUDIN (Eugene),,OGGETTI IN LEGNO,,
 BO0624_84302,324819,9,10,Les Laveuses des bozds de la Touques.,126,96.0,False,positional,BOUDIN (Eugene),,,,
 BO0624_84302,324820,10,11,Bateaux de peche a matee basse.,134,95.2,False,positional,BOUDIN (Eugene),,,,
@@ -32,8 +32,8 @@ BO0624_84302,324840,30,32,34,324,100.0,False,positional,FLANDRIN (Jules),,,,
 BO0624_84302,324841,31,33,de la zivieze.,340,89.7,False,positional,GAUGUIN (Paul),,,,
 BO0624_84302,324842,32,35,L'Escalier du Moulin de la Galette. ## GROUX (Henri de),358,79.1,False,title_direct,GROUX (Henri de),,,,
 BO0624_84302,324843,33,36,—Les Vendanges; sujet symbolique.,369,95.2,False,positional,GROUX (Henri de),,,,
-BO0624_84302,324844,34,37,"Le Moulin du Pont-Chartault,a Crozant,premiezs jouzs de decembze, apres-midi 1894.",377,98.2,False,positional,GUILLAUMIN (Armand),,,,
-BO0624_84302,324845,35,38,"Les Hauteuis de la Czeuse, gelee blanche,a laube,envizons de Ctozant, fin novembze 1896.",385,98.8,False,positional,GUILLAUMIN (Armand),,,,
+BO0624_84302,324844,34,37,"Le Moulin du Pont-Chartault,a Crozant,premiezs jouzs de decembze, apres-midi 1894.",377,98.2,False,positional,GUILLAUMIN (Armand),,,,Sec. XIX
+BO0624_84302,324845,35,38,"Les Hauteuis de la Czeuse, gelee blanche,a laube,envizons de Ctozant, fin novembze 1896.",385,98.8,False,positional,GUILLAUMIN (Armand),,,,Sec. XIX
 BO0624_84302,324846,36,41,"Les Hauteuzs de la Czeuse, en ete.",416,100.0,False,positional,GUILLAUMIN (Armand),,,,
 BO0624_84302,324847,37,43,Le Pommier en fleuzs; pzintemps pluvieux.,434,100.0,False,positional,GUILLAUMIN (Armand),,,,
 BO0624_84302,324848,38,45,de decembie (18g3).,451,91.4,False,positional,GUILLAUMIN (Armand),,,,
@@ -43,7 +43,7 @@ BO0624_84302,324851,41,50,Les Amateuzs de tableaux.,496,94.1,False,positional,HE
 BO0624_84302,324852,42,I,NCONNU,500,92.3,False,positional,HERVIER (Louis-Adolphe),,,,
 BO0624_84302,324853,43,4,## 53,509,100.0,False,positional,HERVIER (Louis-Adolphe),,,,
 BO0624_84302,324854,44,I,SABEY (Eugene),511,96.0,False,title_direct,ISABEY (Eugene),,,,
-BO0624_84302,324855,45,52,Bazthelemy (1572).,517,90.9,False,positional,ISABEY (Eugene),,,,
+BO0624_84302,324855,45,52,Bazthelemy (1572).,517,90.9,False,positional,ISABEY (Eugene),,,,Sec. XVI
 BO0624_84302,324856,46,54,-Le Ptemiet Rayon de soleil a Hondouville (Euze).,537,96.8,False,positional,LEBOURG (AIbert),,,,
 BO0624_84302,324857,47,55,"Hetblay (Seine-et-Oise), les hauteuzs et les bozds de la Seine au pzintemps.",547,98.0,False,positional,LEBOURG (AIbert),,,,
 BO0624_84302,324858,48,56,"-- La Rochelle, intezieur du port;en ete,",554,96.0,False,positional,LEBOURG (Albert),,,,

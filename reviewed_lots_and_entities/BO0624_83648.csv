@@ -39,7 +39,7 @@ BO0624_83648,57115,37,42,"Vue de Stockholm. mportante aquarelle, pleine de vie e
 BO0624_83648,57116,38,43,"Place du marche,a Catane.",523,94.1,False,positional,DESPREZ,,,,
 BO0624_83648,57117,39,44,— Triomphe d'Amphitrite aux abords d’une grotte.,533,96.8,False,positional,DOYEN,,,,
 BO0624_83648,57118,40,45,La Promeneuse.,545,89.7,False,positional,DUCHE DE VANCY,,,,
-BO0624_83648,57119,41,47,"—Pacification de la Vendee, le 20 avril 1795.",568,96.6,False,positional,DUPLESSIS-BERTAUX,,,,
+BO0624_83648,57119,41,47,"—Pacification de la Vendee, le 20 avril 1795.",568,96.6,False,positional,DUPLESSIS-BERTAUX,,,,Sec. XVIII
 BO0624_83648,57120,42,48,Le Concert.,580,87.0,False,positional,EISEN,,,,
 BO0624_83648,57121,43,49,— Etude de Femme.,589,90.3,False,positional,FALCONNET,,,,
 BO0624_83648,57122,44,50,“Ma chemise brile”,603,91.4,False,positional,FRAGONARD,,,,
@@ -163,7 +163,7 @@ BO0624_83648,57239,161,172,Sujets religieux.,2034,88.9,False,positional,SAINT-AU
 BO0624_83648,57240,162,173,—Feuille de croquis.,2048,90.0,False,positional,SAINT-AUBIN,,,,
 BO0624_83648,57241,163,174,——Le Sabot brise.,2059,87.5,False,positional,SAINT-AUBIN,,,,
 BO0624_83648,57242,164,75,—Le Depart pour la guerre.,2071,94.1,False,positional,SCHWEBACH-DESFONTAINES,,,,
-BO0624_83648,57243,165,176,— Reprise de Toulon par les troupes francaises le 1o De- cembre 1793.,2087,97.0,False,positional,SCHWEBACH-DESFONTAINES,,,,
+BO0624_83648,57243,165,176,— Reprise de Toulon par les troupes francaises le 1o De- cembre 1793.,2087,97.0,False,positional,SCHWEBACH-DESFONTAINES,,,,Sec. XVIII
 BO0624_83648,57244,166,177,La Recreation.,2098,86.7,False,positional,SCHENAU,,,,
 BO0624_83648,57245,167,178,Encadrement decoratif.,2116,91.3,False,positional,TORO,,,,
 BO0624_83648,57246,168,179,— Etude de Femme.,2128,87.5,False,positional,TOURNIERES,,,,
@@ -193,7 +193,7 @@ BO0624_83648,57269,191,203,——Femme allaitant un enfant.,2419,92.6,False,posi
 BO0624_83648,57270,192,204,—Dames et Gentilshommes. nteressants costumes de la fin du siecle dernier.,2441,81.7,False,positional,WATTEAU,,,,
 BO0624_83648,57271,193,205,—Personnages de la Comedie italienne.,2450,94.6,False,positional,WATTEAU,,,,
 BO0624_83648,57272,194,206,—Femme assise dans un fauteuil.,2462,93.5,False,positional,WATTEAU,,SCOMPARTI,,
-BO0624_83648,57273,195,207,"— Vue du Chateau de Dreux, en 1779.",2474,93.9,False,positional,WATTEAU,,,,
+BO0624_83648,57273,195,207,"— Vue du Chateau de Dreux, en 1779.",2474,93.9,False,positional,WATTEAU,,,,Sec. XVIII
 BO0624_83648,57274,196,208,Buffet du Bal de l'Hotel-de-Ville,2487,94.3,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83648,57275,197,209,—Les Adieux a la Mariee a la sortie de leglise.,2497,95.7,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83648,57276,198,210,— Jeune Femme vue a mi-corps.,2507,92.9,False,positional,,ECOLE FRANCAISE,,,

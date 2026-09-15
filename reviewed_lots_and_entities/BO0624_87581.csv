@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_87581,276035,1,1530,Mitglied der Augsburger Zunft; 1561 od.1562.,5,94.4,False,positional,CHRISTOPH AMBERGER,,,,
+BO0624_87581,276035,1,1530,Mitglied der Augsburger Zunft; 1561 od.1562.,5,94.4,False,positional,CHRISTOPH AMBERGER,,,,Sec. XVI
 BO0624_87581,276036,2,I,"n einer althollandischen Bauernstube gruppirt sich um einen kleinen Tisch eine Gesellschaft von sechs Bauern, theils rauchend und trinkend, theils einem ein Schriftstick lesenden Genossen zuhorend; im Hintergrunde kartenspielende Bauern und rechts ein vom Ruicken gesehener Mann.",21,99.8,False,positional,FERD.VAN APSHOVEN,,,,
 BO0624_87581,276037,3,I,"n einer althollandischen Schenke auf einer Bank an umgesturzter Tonne, auf der ein kleines Kohlenfeuer, sitzt ein Bauer, sich die Pfeife anzuindend;im Hinter- grunde Karten spielende Bauern, sowie in der Ecke ein vom Rucken gesehener Mann.",29,99.8,False,positional,FERD.VAN APSHOVEN,,,,
 BO0624_87581,276038,4,4,Joseph als Traumdeuter vor Pharao.,41,97.1,False,positional,HENDRIK VAN BALEN,,,,
@@ -63,7 +63,7 @@ BO0624_87581,276095,61,I,"n einer althollandischen Bauernstube, die mit Gerathsc
 BO0624_87581,276096,62,I,"n warmem Tone sehr gut ausgefuihrtes Bild,in Farbung und Composition hochst ansprechend. Holz.Hohe S4,Breite 120 Cent.",786,99.6,False,positional,DAVID TENIERS d.A.,Manifattura di Hochst,OGGETTI IN LEGNO,,
 BO0624_87581,276097,63,69,Landschaft.,794,87.0,False,positional,DAV. TENIERS d.J.,,,,
 BO0624_87581,276098,64,68,"## FRANS SNYDERS,",804,100.0,False,title_direct,FRANS SNYDERS,,,,
-BO0624_87581,276099,65,1618,1667.,819,61.5,False,positional,JAN PHILIPS VAN THIELEN,,,,
+BO0624_87581,276099,65,1618,1667.,819,61.5,False,positional,JAN PHILIPS VAN THIELEN,,,,Sec. XVII
 BO0624_87581,276100,66,77,"Reiterschlacht. m Vorgrunde einer weit ausgedehnten Landschaft vor den rechts zwischen hohen Baumgruppen liegenden Gebaulichkeiten ist unter Berittenen ein heftiger Kampf ausgebrochen, der theils in Handgemenge ausgeartet.",868,96.7,False,positional,ADRIAAN VAN DE VENNE,,OGGETTI VARI,,
 BO0624_87581,276101,67,78,Lustige Gesellschaft.,876,93.0,False,positional,MATHIJS WULFRAAT,,,,
 BO0624_87581,276102,68,I,"n einer althollandischen Stube sitzt um einen viereckigen Tisch eine Bauerngesellschaft trinkend und musicirend;wahrend der links sitzende Bauer, der anscheinend des Guten zu viel gethan, eingeschlafen, halt ihm ein Genosse ein gefuilltes Glas an den Mund; im Hintergrunde ein junger Bauer mit erhobenem Glase, sowie mehrere andere Personen,die theils am offenen Kamine stehen,theils sich in der Ecke zu schaffen machen.",878,99.9,False,positional,MATHIJS WULFRAAT,,CAMINI,,

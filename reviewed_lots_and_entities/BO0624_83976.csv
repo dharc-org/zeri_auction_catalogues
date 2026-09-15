@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83976,101821,1,3,"Deux cruches de pharmacie en ancienne faience de Faenza,a decor dit berettino avec elephant, enseigne de la pharmacie.",15,99.1,False,positional,,Scuola Faentina,FAIENCES; PORCELAINES,,
 BO0624_83976,101822,2,4,"-Bassin de fontaine en faience italienne du xv1 siecle, en forme de coquille enguirlandee de feuilles et de fleurs.",16,99.1,False,positional,,,FAIENCES; PORCELAINES,,
-BO0624_83976,101823,3,5,"Chope en ancienne porcelaine du Japon,a decor de fleurs en bleu, rouge et or, couvercle en argent dans lequel est encastre un medaillon egalement en argent aux effigies d'une femme et d'un homme,avec la date:1585.",20,99.5,False,positional,,,FAIENCES; PORCELAINES,,
+BO0624_83976,101823,3,5,"Chope en ancienne porcelaine du Japon,a decor de fleurs en bleu, rouge et or, couvercle en argent dans lequel est encastre un medaillon egalement en argent aux effigies d'une femme et d'un homme,avec la date:1585.",20,99.5,False,positional,,,FAIENCES; PORCELAINES,,Sec. XVI
 BO0624_83976,101824,4,6,"Potiche avec couvercle en porcelaine du Japon, a decor en dorure de paysages et imbrications sur fond bleu.",21,99.1,False,positional,,,FAIENCES; PORCELAINES,,
 BO0624_83976,101825,5,8,"Figurine de fillette, tenant un éventail, en",23,97.7,False,positional,,,FAIENCES; PORCELAINES,,
 BO0624_83976,101826,6,10,"— Figurine de femme debout, jouant de la vielle, en ancienne porcelaine blanche de Saxe.",26,98.2,False,positional,,,FAIENCES; PORCELAINES,,
@@ -42,7 +42,7 @@ BO0624_83976,101860,40,47,"Petit dessin de forme rectangulaire:portrait d'homme,
 BO0624_83976,101861,41,48,"— Miniature ronde:portrait presume d'Adrienne Lecouvreur dans le role de 《 Cleopatre 》. Elle est vue a mi-corps, une draperie verte sur les epaules, des perles aux bras et dans les cheveux, et tient le serpent. Epoque Louis XVI.",102,99.3,False,positional,Thewald,,MINIATURE,,
 BO0624_83976,101862,42,49,"Miniature ovale :portrait de jeune femme a micorps, assise sur un fauteuil, en corsage",103,98.2,False,positional,Thewald,,MINIATURE,,
 BO0624_83976,101863,43,50,"-Miniature ronde:portrait de Louis XVI en buste, en habit rose, avec le cordon de l'ordre du Saint-Esprit en sautoir. Epoque Louis XVI.",105,98.9,False,positional,Thewald,,MINIATURE,,
-BO0624_83976,101864,44,5,"l —Deux miniatures rondes:portraits de jeune femme et de jeune homme en buste,lajeune femme tenant un chien.Par Fache,1794. Fin du xvill siecle.",106,99.6,False,positional,Thewald,,MINIATURE,,
+BO0624_83976,101864,44,5,"l —Deux miniatures rondes:portraits de jeune femme et de jeune homme en buste,lajeune femme tenant un chien.Par Fache,1794. Fin du xvill siecle.",106,99.6,False,positional,Thewald,,MINIATURE,,Sec. XVIII
 BO0624_83976,101865,45,52,"- -Miniature ronde:portrait presume de la duchesse de Devonshire, assise, a mi-corps,vetue de blanc avec draperie rouge, et s'appuyant sur un coussin; fond de paysage. Par Conrad. Signee. Fin du xvinle siecle.",108,100.0,False,positional,Thewald,,MINIATURE,,
 BO0624_83976,101866,46,53,- 3-Miniature ovale:portrait de jeune femme en corsage bleu avec fichu de dentelle. Par Saint. Signee. Cadre en or de couleur cisele. Commencement du xix siecle.,110,100.0,False,positional,Thewald,,MINIATURE,,
 BO0624_83976,101867,47,54,"— Douze cuillers en argent dore,a poignees surmontees de la figure du Christ benissant; les tiges sont reliees au cuilleron par des cartouches presentant les figures des douze apotres ainsi que des tetes de cherubins et des écussons d'armoiries au revers. Inscription gravee sur les tiges. Allemagne, xvie siecle.",113,99.5,False,positional,,,ORFEVRERIE,,
@@ -103,7 +103,7 @@ BO0624_83976,101921,101,108,"Encrier,de forme triangulaire,en bronze patine, a d
 BO0624_83976,101922,102,109,"— Deux flambeaux en bronze patine, a tiges formees d'une statuette de personnage debout, nu, de travail italien du xvr siecle, portant sur la tete un vase.",227,98.7,False,positional,,,TORCE,,
 BO0624_83976,101923,103,110,"- Cheval cabre en bronze dore, de travail ita-",228,95.5,False,positional,,,BRONZES,,
 BO0624_83976,101924,104,111,"- Groupe en bronze patine,compose d'une",233,94.9,False,positional,,,BRONZES,,
-BO0624_83976,101925,105,112,"— Astrolabe en bronze dore,avec la signature: Antonius Gianini fecit Romce,1592.Italie,xvie",239,97.8,False,positional,,,BRONZES,,
+BO0624_83976,101925,105,112,"— Astrolabe en bronze dore,avec la signature: Antonius Gianini fecit Romce,1592.Italie,xvie",239,97.8,False,positional,,,BRONZES,,Sec. XVI
 BO0624_83976,101926,106,1,"l3 - Deux pantheres couchees en bronze grave et dore, tenant chacune une proie entre les pattes.",241,99.5,False,positional,,,BRONZES,,
 BO0624_83976,101927,107,1,"l4 -Hcurtoir en forme de lion, en bronze,a",243,98.8,False,positional,,,BRONZES,,
 BO0624_83976,101928,108,115,"- Sonnette en metal de cloche ajoure, ornee de petites arcades surmontees d'une frise de guirlandes et de bucranes. Italie, xvr siecle.",245,98.5,False,positional,,,OGGETTI IN METALLO,,

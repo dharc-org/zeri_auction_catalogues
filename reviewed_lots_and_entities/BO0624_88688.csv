@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88688,400088,1,4,"- 7 Die Rivalen. Ein Windspiel und ein Dobermann in einem Atelier, das Windspiel",27,98.7,False,positional,James Henry Beard,,,,
-BO0624_88688,400089,2,5,"Aquarell auf P.Oval.15X11,5 cm. Bez.:Benner 1824. H.R.",40,98.0,False,positional,Jan Benner-Fries,,,,
-BO0624_88688,400090,3,6,"Bildnis eines Herrn der Biedermeierzeit mit hohem Kragen, weiber Binde, eben solcher Weste und blaugrauem Rock, glattrasiertem Gesicht und dunklem Haar. Halbfigur. Aquarell auf P. Oval. 15X11,5 cm. Bez.: Benner 1825. H. R.",41,99.5,False,positional,Jan Benner-Fries,Biedermeier,,,
+BO0624_88688,400089,2,5,"Aquarell auf P.Oval.15X11,5 cm. Bez.:Benner 1824. H.R.",40,98.0,False,positional,Jan Benner-Fries,,,,Sec. XIX
+BO0624_88688,400090,3,6,"Bildnis eines Herrn der Biedermeierzeit mit hohem Kragen, weiber Binde, eben solcher Weste und blaugrauem Rock, glattrasiertem Gesicht und dunklem Haar. Halbfigur. Aquarell auf P. Oval. 15X11,5 cm. Bez.: Benner 1825. H. R.",41,99.5,False,positional,Jan Benner-Fries,Biedermeier,,,Sec. XIX
 BO0624_88688,400091,4,8,Durch die Furt. Ein Bauernbursche mit drei Kuhen eine Furt durchwatend.,55,98.6,False,positional,M.Bergmann,,,,
 BO0624_88688,400092,5,15,## Hans Best,60,100.0,False,title_direct,Hans Best,,,,
 BO0624_88688,400093,6,10,"Die Geschwister. Ein Madchen mit roten Haaren und weiber Haube, die Rocke geschurzt, fuhrt ihr kleines Schwesterchen in das seichte Wasser des Meeresstrandes, um ein kleines Schiffchen schwimmen zu lassen.",70,99.3,False,positional,Bernardus Johann Blommers,,,,
@@ -30,7 +30,7 @@ BO0624_88688,400115,28,32,a Motiv aus Venedig. Blick zwischen zwei Saulen auf de
 BO0624_88688,400116,29,33,Interessante Lekture. Im reichen mit Gobelin und Spiegel ausgestatteten von Tages= licht erhellten Zimmer eine illustre Gesellschaft von sieben Herren des Rokoko.,221,99.1,False,positional,E.A.Franke,,SPECCHI,,
 BO0624_88688,400117,30,34,Eisbar zwischen den Felsblocken des Eismeerufers mit einem Blattschub zusammens gebrochen. Aquarell auf P.26X35 cm.Bez.: Rich.Friese. G.R.,227,98.9,False,positional,Richard Friese,,,,
 BO0624_88688,400118,31,35,Motiv aus Dinkelsbuhl bei der Stadtmauer. Fuhrmann mit Pferden vor einer Schmiede. Oel auf L.48X31 cm.Bez.:J. Gehrig. H.R.,233,98.7,False,title_direct,I. Gehrig,,,,
-BO0624_88688,400119,32,36,"Um Auszuruhen. Eine junge Nonne hat eine alte muide Frau in ihre Obhut ges nommen; sie lautet an der Klosterpforte, um die Frau der Pflege zuzufuhren. Oel auf L.142X110 cm. Bez.:Otto Goldmann 1900.S.R.",238,99.2,False,title_direct,Otto Goldmann,,,,
+BO0624_88688,400119,32,36,"Um Auszuruhen. Eine junge Nonne hat eine alte muide Frau in ihre Obhut ges nommen; sie lautet an der Klosterpforte, um die Frau der Pflege zuzufuhren. Oel auf L.142X110 cm. Bez.:Otto Goldmann 1900.S.R.",238,99.2,False,title_direct,Otto Goldmann,,,,Sec. XX
 BO0624_88688,400120,33,37,Der Zeichner. Auf einer Anhohe sitt bei einem Baume ein zeichnender Mann.,244,97.9,False,positional,H. Gradl,,,,
 BO0624_88688,400121,34,38,"Der betende Aite. Bildnis eines alten glattrasierten Mannes mit grauem straffen Haar, ineinanderverschlungenen Handen und aufwartsgerichteten Augen; den Schuster Reinhardt in Dresden darstellend. Die erste Fassung befindet sich im Besite des Baron Speck von Sternburg in Luitschena. Eine Abbildung des vor= liegenden Bildes befindet sich bei Weser, Anton Graff. Gutachten von Dr. Werner Oel auf L.70X55 cm.Gerahmt.",254,99.6,False,title_direct,Anton Graff,,,,
 BO0624_88688,400122,35,39,"Landsknechtleben. In einer verraucherten Stube zechende Landsknechte, einer lieb= äugelt mit der Hebe. Oel auf L. 36,5X46 cm. Bez.: A. R. Grunenwald. H. R.",262,99.0,False,positional,Alexander Rud. Grunenwald,,,,
@@ -39,7 +39,7 @@ BO0624_88688,400124,37,41,"Der Zechpreller enteilt geschwinden Schrittes, der Ha
 BO0624_88688,400125,38,42,Weibliche Aktstudie. Farbstiftzeichnung auf P. 47X30 cm. Bez.: Habermann.,283,97.8,False,positional,Hugo von Habermann,,,,
 BO0624_88688,400126,39,43,"Oberbayerische Landschaft mit Weiher, am Ufer unter alten Baumgruppen einige",289,98.0,False,positional,F.Halberg-Kraus,,,,
 BO0624_88688,400127,40,44,Am Worther See bei Steinebach. Aus der Umgebung des Ammersees. Das Kolosseum.,294,87.6,False,positional,F.Halberg-Kraus,,,,
-BO0624_88688,400128,41,45,Kriegsszene.Feldschlachterei. Tuschezeichnung auf P. 12X15 cm. Bez.: Eugen Adam 1871.,303,98.1,False,title_direct,Eugen Adam,,,,
+BO0624_88688,400128,41,45,Kriegsszene.Feldschlachterei. Tuschezeichnung auf P. 12X15 cm. Bez.: Eugen Adam 1871.,303,98.1,False,title_direct,Eugen Adam,,,,Sec. XIX
 BO0624_88688,400129,42,46,"a Historische Szene. Ritter huldigen einer Konigin. Getuschte Federzeichnung auf P. 22X24,5 cm. Bez.:Th.AIt 85. H.L.",313,99.1,False,positional,Theodor Alt,,,,
 BO0624_88688,400130,43,47,"Kustenlandschaft in Italien. An einem Berghang altes Kastell und Gebaude. Kohe auf blauem Tonpapier. 22,5X29 cm.Bez.: Benno Becker.",317,98.8,False,title_direct,Benno Becker,,,,
 BO0624_88688,400131,44,48,Landschaftsskizze mit Heuwagen und Baumgruppen. Sammlung Lobmeyer. Kohlezeichnung auf Tonpapier. 29X45 cm.Bez.:A.Berthold.,325,98.7,False,positional,Alfred Berthold,,,COLLEZIONE LOHMEYER,
@@ -69,18 +69,18 @@ BO0624_88688,400154,67,70,Schimmelhengst in Landschaft. Sepiamalerei auf P.34X40
 BO0624_88688,400155,68,71,"Sitende Dame auf einer Gartenbank. Bleistift und Kohle auf P. 14,5X20 cm. Bez.:R.Hirth du Frenes.",465,98.4,False,title_direct,R.Hirth du Frenes,,,,
 BO0624_88688,400156,69,72,Mannlicher Ruckenakt. Kohlezeichnung auf Tonpapier. 50X38 cm. Bez.:Hv.,471,97.7,False,positional,Ludwig yon Hofmann,,,,
 BO0624_88688,400157,70,73,Skizzen zu Schillers Werken. Der Dichter wird yon der Muse gekront; das gleiche Motiv zweimal. Tusch und Bleistift auf P.Je 15Xi2 cm. Bez.:W.Kaulbach. Ruckenakt einer liegenden Frau,477,89.4,False,positional,Wilhelm von Kaulbach,,,,
-BO0624_88688,400158,71,74,"Strabenmotiv aus Jerusalem. Aquarell auf P.48X37 cm. Bez.:1924 Jerusalem,J.Kiermeier. G.R.",486,98.3,False,title_direct,J.Kiermeier,,,,
-BO0624_88688,400159,72,75,"Vor der Mauer Jerusalems. Aquarell auf P. 48X37 cm.Bez.:Jerusalem,I.Kiermeier 1924.",487,98.1,False,title_direct,J.Kiermeier,,,,
+BO0624_88688,400158,71,74,"Strabenmotiv aus Jerusalem. Aquarell auf P.48X37 cm. Bez.:1924 Jerusalem,J.Kiermeier. G.R.",486,98.3,False,title_direct,J.Kiermeier,,,,Sec. XX
+BO0624_88688,400159,72,75,"Vor der Mauer Jerusalems. Aquarell auf P. 48X37 cm.Bez.:Jerusalem,I.Kiermeier 1924.",487,98.1,False,title_direct,J.Kiermeier,,,,Sec. XX
 BO0624_88688,400160,73,76,Der Kunstler und seine Frau. Sammlung Reich.,493,96.6,False,positional,E.Kierstorfer,,,COLLEZIONE PAUL VON PRAUNS,
-BO0624_88688,400161,74,77,"Szene aus Hacklander's. Geheime Agentur: die Herzogin, der Minister und der Oberhofmeister； Akt II, Szene XII. Bleistiftzeichnung.21X26 cm.Bez.:Herbert Konig.Aug.1857.",500,99.1,False,title_direct,Herbert Konig,,,,
+BO0624_88688,400161,74,77,"Szene aus Hacklander's. Geheime Agentur: die Herzogin, der Minister und der Oberhofmeister； Akt II, Szene XII. Bleistiftzeichnung.21X26 cm.Bez.:Herbert Konig.Aug.1857.",500,99.1,False,title_direct,Herbert Konig,,,,Sec. XIX
 BO0624_88688,400162,75,81,Der Grobe und der Kleine. Tuschzeichnung auf P 23X15 cm. Bez:W.Lenck i917.,522,97.9,False,positional,Karl Langhammer,,,,
 BO0624_88688,400163,76,82,Bildnis eines deutschen Kurfursten in sitender Figur und vollem Ornat. Portratstudie zum Situngssaal im Heidelberger Rathaus.,526,98.8,False,positional,Wilhelm von Lindenschmit,,,,
-BO0624_88688,400164,77,83,"Der verlorene Sohn in Karikatur. Aquarellierte Zeichnung auf P. 24X19,5 cm Bez.:O. L.und handschriftlich: Der verlorene Sohn, Otto Linnekogel 1920.H. L.",534,99.0,False,title_direct,Otto Linnekogel,,,,
+BO0624_88688,400164,77,83,"Der verlorene Sohn in Karikatur. Aquarellierte Zeichnung auf P. 24X19,5 cm Bez.:O. L.und handschriftlich: Der verlorene Sohn, Otto Linnekogel 1920.H. L.",534,99.0,False,title_direct,Otto Linnekogel,,,,Sec. XX
 BO0624_88688,400165,78,84,Kinderstudien (drei Kinder). Bleistift auf P. 31X22 cm Bez.:Karl Marr 85.,540,97.8,False,positional,Karl von Marr,,,,
-BO0624_88688,400166,79,85,Die heilige Elisabeth vor dem Bildstocke knieend im Gebet fur Thannhauser. Entwurf zu dem 1872 entstandenen Bilde gleichen Vorwurfs.,546,98.9,False,positional,Gabriel von Max,,,,
+BO0624_88688,400166,79,85,Die heilige Elisabeth vor dem Bildstocke knieend im Gebet fur Thannhauser. Entwurf zu dem 1872 entstandenen Bilde gleichen Vorwurfs.,546,98.9,False,positional,Gabriel von Max,,,,Sec. XIX
 BO0624_88688,400167,80,86,Drei badende Frauen am Strande,558,95.2,False,positional,Max Mayrshofer,,,,
 BO0624_88688,400168,81,87,Im Kaffeehause. Kohlezeichnung auf P.24X29 cm.Bez.:Mayrshofer.,559,97.5,False,positional,Max Mayrshofer,,,,
-BO0624_88688,400169,82,8,"s Szene aus Bruder Straubinger. Der Eindringling wird yon den Mohren auf Befehl des orientalischen Paschas gefangen genommen. Tuschzeichnung auf P.21X13,5 cm.Bez.: Lothar Meggendorfer 1910.",563,99.7,False,title_direct,Lothar Meggendorfer,,,,
+BO0624_88688,400169,82,8,"s Szene aus Bruder Straubinger. Der Eindringling wird yon den Mohren auf Befehl des orientalischen Paschas gefangen genommen. Tuschzeichnung auf P.21X13,5 cm.Bez.: Lothar Meggendorfer 1910.",563,99.7,False,title_direct,Lothar Meggendorfer,,,,Sec. XX
 BO0624_88688,400170,83,89,"Armstudie. Bleistift auf P.13X20,5 cm.Bez.:A.M.89.G.L.",569,97.1,False,positional,Adolf von Menzel,,,,
 BO0624_88688,400171,84,80,Drei weibliche Studienkopfe.,573,94.7,False,positional,Adolf von Menzel,,,,
 BO0624_88688,400172,85,100,Meereskuste.,574,84.6,False,positional,Adolf von Menzel,,,,
@@ -95,20 +95,20 @@ BO0624_88688,400180,93,98,Die Vision.Aus der Zeit Friedrich des Groben.,630,97.8
 BO0624_88688,400181,94,99,Marchenszene.Ein Gnom sitt auf einem Baumast und spricht mit einem Madchen. Bleistiftzeichnung auf P. 25X21 cm. Bez.:P.Scheurich.,634,98.8,False,positional,Paul Scheurich,,,,
 BO0624_88688,400182,95,101,Mutterschaf und Lamm Tusche weib gehoht auf P. 21X25 cm.Bez.:Ag. Schleich 50.,644,97.3,False,positional,August Schleich,,,,
 BO0624_88688,400183,96,102,Zwei mittelalterliche Jager zu Pferd und zu Fub mit der Meute.,652,96.8,False,positional,Teutwart Schmitson,,,,
-BO0624_88688,400184,97,103,"Schlittenziehende Knaben. Bleistiftzeichnung auf P.15,5X21 cm. Bez.:T.Schmitson 1849.1 12.",656,97.7,False,positional,Teutwart Schmitson,,,,
+BO0624_88688,400184,97,103,"Schlittenziehende Knaben. Bleistiftzeichnung auf P.15,5X21 cm. Bez.:T.Schmitson 1849.1 12.",656,97.7,False,positional,Teutwart Schmitson,,,,Sec. XIX
 BO0624_88688,400185,98,104,Die Ruckkehr der Kinder zur Germania (Alsatio Lotharingia).,662,96.6,False,positional,Schnorr von Carolsfeld,,,,
-BO0624_88688,400186,99,105,Niederlandischer Bauer mit Barett und Pfeife. Bleistiftzeichnung auf P. 34X25 cm. Bez:Otto Seit 1904.,669,98.0,False,title_direct,Otto Seit,,,,
+BO0624_88688,400186,99,105,Niederlandischer Bauer mit Barett und Pfeife. Bleistiftzeichnung auf P. 34X25 cm. Bez:Otto Seit 1904.,669,98.0,False,title_direct,Otto Seit,,,,Sec. XX
 BO0624_88688,400187,100,107,Baumstudie. Aite Fohre am Wasser. Aquarell auf Karton. 22X18 cm. Aus dem Nachlab Ph.Sporrers mit NachlabStempel.,681,98.2,False,positional,C.Spitweg,,,,
-BO0624_88688,400188,101,108,"Karnevalsleichtsinn. Ein junges Paar verkauft Kleider an einen Handler. Tuschzeichnung auf P. 34X26 cm. Bez.:Spiter,Munchen 1877.",687,98.4,False,positional,Emanuel Spiter,,,,
+BO0624_88688,400188,101,108,"Karnevalsleichtsinn. Ein junges Paar verkauft Kleider an einen Handler. Tuschzeichnung auf P. 34X26 cm. Bez.:Spiter,Munchen 1877.",687,98.4,False,positional,Emanuel Spiter,,,,Sec. XIX
 BO0624_88688,400189,102,109,Aktstudie eines weiblichen Ober und eines Unterkorpers. Bleistiftzeichnung auf P.5oX28 cm.Bez.:Stuck.,693,98.0,False,positional,Franz von Stuck,,,,
-BO0624_88688,400190,103,110,"Christiansce von Mauern und Befestigungen umgeben,vom Meere aus gesehen. Sepia-Federzeichnung auf P.17X28cm.Bez.:A.Thiele 1849.",697,98.4,False,title_direct,A.Thiele,,,,
+BO0624_88688,400190,103,110,"Christiansce von Mauern und Befestigungen umgeben,vom Meere aus gesehen. Sepia-Federzeichnung auf P.17X28cm.Bez.:A.Thiele 1849.",697,98.4,False,title_direct,A.Thiele,,,,Sec. XIX
 BO0624_88688,400191,104,111,Allegorie mit zwei weiblichen Gestalten und Putten. Tusche-Sepia auf P. 25X17 cm.Bez.:Dom.Tiepolo.,703,97.9,False,positional,Domenico Tiepolo,,,,
 BO0624_88688,400192,105,112,"Der Einzug der Sieger im Jahre 187i. Figurenreiche Zeichnung; die Strabe mit Fahnen geschmuckt. Kohle auf P.15X15,5 cm.Bez.:W.T.71.",707,98.4,False,positional,Wilhelm Tribner,,BANDIERE,,
 BO0624_88688,400193,106,113,"Vorbereitung zum Empfang der Krieger, der Vater auf einen Stock gestitt und dekorierender",711,97.8,False,positional,Wilhelm Tribner,,,,
 BO0624_88688,400194,107,114,Weiblicher Akt am Boden sitend. Bleistiftzeicbnung auf P. 19X17 cm. Bez.: W. Trubner.,713,97.5,False,positional,Wilhelm Tribner,,,,
 BO0624_88688,400195,108,115,"Die Sommerfrischler. Roues als Sommerfrischler eine fesche Bauerin begaffend. Sammlung Lohmeyer. Bleistiftzeichnung auf P.18X14,5 cm.Bez.:B.Vautier 82.",717,98.6,False,positional,Benjamin Vautier,,,COLLEZIONE LOHMEYER,
 BO0624_88688,400196,109,116,Die Kreuzigung. Christus in der Mitte der Schacher. Bleistift auf P. 24X31 cm. Bez.:F.A.Weinzheimer.11. Il.11.,723,98.1,False,positional,Friedrich August Weinzheimer,,,,
-BO0624_88688,400197,110,117,"Selbstportrat mit Vollbart. Brustbild. Sammlung Prof. Politer. Tusche auf P.11,5X9 cm. Bez.: A.v.Werner. Berlin 1908.",729,98.2,False,positional,Anton von Werner,Scuola di Berlino,,,
+BO0624_88688,400197,110,117,"Selbstportrat mit Vollbart. Brustbild. Sammlung Prof. Politer. Tusche auf P.11,5X9 cm. Bez.: A.v.Werner. Berlin 1908.",729,98.2,False,positional,Anton von Werner,Scuola di Berlino,,,Sec. XX
 BO0624_88688,400198,111,118,Landschaft in Dammerung. Kohlezeichnung auf P. 21X46 cm.FaksimileStempel.,735,97.2,False,positional,Ludwig Willroider,,,,
 BO0624_88688,400199,112,106,Schlafende Dame.Brustbild.,739,92.6,False,positional,Ludwig Willroider,,,,
 BO0624_88688,400200,113,121,## Joh.Peter Hasenclever,742,100.0,False,title_direct,Joh.Peter Hasenclever,,,,
@@ -126,7 +126,7 @@ BO0624_88688,400211,124,129,Aus dem Harem. Eine Favoritin auf ihrem Ruhelager si
 BO0624_88688,400212,125,130,"Winterlandschaft mit Hausern an einem gefrorenen Weiher, der von einem Mann und einer Frau uberschritten wird. Oel auf L. 66X90 cm. Bez.:J. Jungblut. G. R.",820,98.6,False,title_direct,J. Jungblut,,,,
 BO0624_88688,400213,126,131,Herbstlandschaft mit einzelnen Baumen und Wassertumpel. Auf der weiten Ebene,824,97.4,False,positional,Richard Kaiser,,,,
 BO0624_88688,400214,127,132,"Bauernhauser an einem FluB; auf demselben Frau mit Kahn,im Hintergrunde",831,97.2,False,positional,A.Kauffmann,,,,
-BO0624_88688,400215,128,133,Die Einquartierung (Episode aus 1871). Ein bayerischer Landwehrmann sit in voller Ausrustung in einem franzosischen Ort vor einem Hause und teilt mit den vor ihm stehenden vier hungrigen Kindern sein Brot; dahinter die Mutter mit Kind auf dem Arm. Altertumliches Stadtchen. Erste Fassung zu dem bekannten,842,99.3,False,positional,Hermann Kauibach,,,,
+BO0624_88688,400215,128,133,Die Einquartierung (Episode aus 1871). Ein bayerischer Landwehrmann sit in voller Ausrustung in einem franzosischen Ort vor einem Hause und teilt mit den vor ihm stehenden vier hungrigen Kindern sein Brot; dahinter die Mutter mit Kind auf dem Arm. Altertumliches Stadtchen. Erste Fassung zu dem bekannten,842,99.3,False,positional,Hermann Kauibach,,,,Sec. XIX
 BO0624_88688,400216,129,134,"Die Erweckung von Jairus Tochterlein. Jesus in eine rote Soutane gekleidet, das",848,97.5,False,positional,Albert von Keller,,,,
 BO0624_88688,400217,130,135,Ruckenakt einer Blondine. Kniestuck. Naturstudie. Oel auf P. 80X62 cm. NachlaB-Stempel. G.R.,853,97.7,False,positional,Albert von Keller,,STAMPE E INCISIONI,,
 BO0624_88688,400218,131,135,a Gewandstudien. Zwei Frauen in griechischen Kostumen; auf der Ruickseite Studie zur Martyrerin. Oel auf P. 50X70 cm. NachlaB=Stempel. H.R.,854,98.9,False,positional,Albert von Keller,,STAMPE E INCISIONI,,
@@ -140,7 +140,7 @@ BO0624_88688,400225,138,143,Mutter an der Wiege ihres Kindes stehend und dasselb
 BO0624_88688,400226,139,144,"Landschaft mit altem Weidenbaum und darunter lagernder Kuhherde. An einem Hang der Hirte, rechts im Felde ein Bauernhaus; welliges Terrain.",919,98.5,False,positional,A.Kunze,,,,
 BO0624_88688,400227,140,145,"Gegenstuick. Kuhe im Wasser, eine Ziege und Enten, am Ufer der Hirte, ein Stier",923,97.4,False,positional,A.Kunze,,,,
 BO0624_88688,400228,141,146,Mondnacht. Ein breiter Fluf mit Segelschiffen vor Anker wird von dem aus den Wolken tretenden Vollmond voll beleuchtet. Naturwahre Wiedergabe.,930,98.6,False,positional,Dietrich Langko,,,,
-BO0624_88688,400229,142,147,"Der treue Wachter. Ein Affe verteidigt eine Wildente, Fruchte und Blumen gegen einen Spit. Oel auf L.97X30 cm. Bez.:Marie Laux 1875.G.R.",936,98.5,False,title_direct,Marie Laux,,,,
+BO0624_88688,400229,142,147,"Der treue Wachter. Ein Affe verteidigt eine Wildente, Fruchte und Blumen gegen einen Spit. Oel auf L.97X30 cm. Bez.:Marie Laux 1875.G.R.",936,98.5,False,title_direct,Marie Laux,,,,Sec. XIX
 BO0624_88688,400230,143,148,"Hathund mit Stachelhalsband und mit Stacheln bewehrter Decke fur die Hat gegen Bar und Wolf. Bronze. Hohe 34,Breite 40, Tiefe 20 cm.Bez.:P. Lecourtier.",944,98.6,False,title_direct,P.Lecourtier,,Bronze,,
 BO0624_88688,400231,144,149,Sitende italienische Bauerin; die Hande in den Schob gelegt.,952,96.7,False,positional,Wilhelm von Lindenschmit,,,,
 BO0624_88688,400232,145,150,"Weiblicher Halbakt; liegend, das rotbraune Haar offen, die Arme um den Kopf verschrankt.",956,97.7,False,positional,Otto Lingner,,,,
@@ -153,7 +153,7 @@ BO0624_88688,400238,151,156,"Der Erntewagen,hochbeladen heimfahrend.",1003,95.0,
 BO0624_88688,400239,152,159,"Lesende Dame mit dem Ruicken zum Fenster gewandt, an einem Tische sitend, rechts Bucherschrank; das Tageslicht fallt durch Vorhange auf die Lesende.",1025,98.6,False,positional,Rudolf Nibl,,BIANCHERIA,,
 BO0624_88688,400240,153,160,"An der Wurm bei Gern. Reiche Baumvegetation mit Hausern zwischen Baumen. Oel auf L. 30X35 cm. Bez.: Hugo Oehme Munchen. G.R. a Rosen, dunkelrot, hellrot und gelb, in einem Glas. Oel auf H. 24,5X21 cm. Bez.: Hugo Oehme Munchen. G. R.",1029,69.7,False,title_direct,Hugo Oehme,,,,
 BO0624_88688,400241,154,161,"Madchenkopf mit blonden Haaren und Perlenkette, schwarze halsfreie Taille. ## M.Pobenbacher.",1037,88.9,False,title_direct,M.Pobenbacher,,,,
-BO0624_88688,400242,155,162,"Neapolitanisches Madchen in der Nationaltracht. Oel auf L. 38X32 cm. Bez.: M.P.,Roma 1853. H.R.",1050,97.8,False,positional,M.Pobenbacher,,,,
+BO0624_88688,400242,155,162,"Neapolitanisches Madchen in der Nationaltracht. Oel auf L. 38X32 cm. Bez.: M.P.,Roma 1853. H.R.",1050,97.8,False,positional,M.Pobenbacher,,,,Sec. XIX
 BO0624_88688,400243,156,163,"Sommerlandschaft mit alten Eichen im Vordergrunde; zwei Kinder bei einem Feuer huten einige Schafe, auf einer Wiese im Hintergrunde weidendes Vieh an gedeutet, auf dem Felde Frau mit Knaben, auf einer Anhohe ein Dorf sichtbar.",1056,99.1,False,positional,Eduard Wilhelm Pose,,,,
 BO0624_88688,400244,157,164,Studie aus der Campagna. Kupiertes Terrain mit Felsblocken. Im Hintergrunde das Gebirge. Naturstudie.,1066,98.0,False,positional,Friedrich Joh. Christ.Preller d. Ae.,,,,
 BO0624_88688,400245,158,166,"Rast. Auf einer kleinen Anhohe ein Wagen mit zwei ausgeschirrten Pferden, ein",1078,97.4,False,positional,Franz Quaglio,,,,
@@ -173,7 +173,7 @@ BO0624_88688,400258,171,179,"Abend. An einem Weiher Kuhe an der Tranke,rechts vo
 BO0624_88688,400259,172,180,"Getreideernte Zwei Erntewagen hochbeladen im Felde, Frauen binden Garben; im Vordergrunde ein sitendes Madchen, im Hintergrunde arbeitende Landleute. Naturstudie.Geschenk von Ed. Schleich an Gustav Freiherrn von Bechtolsheim. Oel auf P.16,5X24,5 cm. Ruckwarts die diesbezugliche Bestatigung der Tochter",1168,99.3,False,positional,Eduard Schleich d.Ae.,,,,
 BO0624_88688,400260,173,181,bilden die Berge. Wuchtige Naturstudie. Oel auf L.90X75 cm.H.R.,1171,96.8,False,positional,Eduard Schleich d.Ae.,,,,
 BO0624_88688,400261,174,182,Winterabend. Ein Jager mit Hund an einem Waldrand entlanggehend. Naturstudie,1177,97.4,False,positional,Eduard Schleich d. I.,,,,
-BO0624_88688,400262,175,183,Letter Blick in die Heimat.Auswanderung der vertriebenen Zillertaler Protestanten im Jahre 1837.Die Auswanderer sehen betrubt auf die ihnen liebgewordene Heimat,1184,98.8,False,positional,Mathias Schmid,,,,
+BO0624_88688,400262,175,183,Letter Blick in die Heimat.Auswanderung der vertriebenen Zillertaler Protestanten im Jahre 1837.Die Auswanderer sehen betrubt auf die ihnen liebgewordene Heimat,1184,98.8,False,positional,Mathias Schmid,,,,Sec. XIX
 BO0624_88688,400263,176,184,Idylle. Rehbock und Geib auf einer Blobe des herbstlichen Waldes; der Bock hat seinen Kopf vertraulich auf den Rucken der Geib gelegt.,1195,98.5,False,positional,Josef Schmitberger,,,,
 BO0624_88688,400264,177,185,geoffnetem Mund und aufwartsgeschlagenen Augen. Brustbild.,1205,96.6,False,positional,Leopold Schmutler,,,,
 BO0624_88688,400265,178,186,Griechisches Madchen mit der auf dem Kopfe getragenen Amphora Wasser holend. Oel auf H. 76X30 cm. Bez.: H. S. G.R.,1211,98.1,False,positional,Hermann Schneider,,,,
@@ -205,7 +205,7 @@ BO0624_88688,400290,203,210,Dorfmotiv. Bauer mit zwei Kuhen und einem Hund im Ge
 BO0624_88688,400291,204,211,Brusslerin im Mantel mit Pelzkragen und brunettem Haar. Das gesunde Gesicht in zweis drittel Drehung von rechts nach links dem Beschauer zugewendet. Abgebildet bei,1407,98.8,False,positional,Wilhelm Trubner,,,,
 BO0624_88688,400292,205,212,"2Heimfahrt. Auf einem mit Heu beladenen Kahn drei Kinder, zwei Frauen und drei Manner einen Flub entlangfahrend. Oel auf P.37X44 cm.G.R.",1416,98.5,False,positional,Wilhelm Trubner,,,,
 BO0624_88688,400293,206,213,"Die drei Schwesternkunste: Architektur, Malerei und Plastik durch drei Grazien",1422,97.4,False,positional,Phil. Veit,,,,
-BO0624_88688,400294,207,214,Eichenwald mit Wassertuimpel;an demselben ein Hirsch und eine Hirschkuh. Blick auf eine Waldblobe. Oel auf L. 48X70cm. Bez.: L.C.Wagner 1837.G.R.,1430,98.6,False,positional,Ludw. Christ.Wagner,,,,
+BO0624_88688,400294,207,214,Eichenwald mit Wassertuimpel;an demselben ein Hirsch und eine Hirschkuh. Blick auf eine Waldblobe. Oel auf L. 48X70cm. Bez.: L.C.Wagner 1837.G.R.,1430,98.6,False,positional,Ludw. Christ.Wagner,,,,Sec. XIX
 BO0624_88688,400295,208,215,"Eine bedeutungsvolle Frage. In einer mit Zirbenholz vertafelten Stube steht ein Tiroler Bursche mit rotem Janker und stellt an das ihm gegenuber sitende, strickende",1436,98.8,False,positional,Hch.Weber,,,,
 BO0624_88688,400296,209,216,Gebirgslandschaft mit Vieh auf der Weide und Baumgruppen. Blick auf Fluf und Gebirge. Oel auf L. 40X60 cm. Bez.: Paul Weber. G. R.,1443,98.4,False,title_direct,Paul Weber,,,,
 BO0624_88688,400297,210,217,Gebirgsbach im Tannenwald mit Blick auf das verschneite Hochgebirge. Sonnen# untergang. Oel auf L.37X29 cm.Bez.:P.Weber.H.R.,1444,98.3,False,positional,Paul Weber,,,,

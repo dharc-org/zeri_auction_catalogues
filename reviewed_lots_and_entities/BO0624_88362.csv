@@ -1,29 +1,29 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88362,276287,1,1,Historischer Bilder-Saal,3,96.0,False,positional,,,FOTOGRAFIE,,
 BO0624_88362,276288,2,2,2.,4,50.0,False,positional,,Scuola Napoletana,Buicher,,
-BO0624_88362,276289,3,3,"Spangenberg,Episteln 1544,mit vielen Holzschnitten",5,98.0,False,title_direct,,,Holz,,
+BO0624_88362,276289,3,3,"Spangenberg,Episteln 1544,mit vielen Holzschnitten",5,98.0,False,title_direct,,,Holz,,Sec. XVI
 BO0624_88362,276290,4,4,Christ. Scrivers heilige und Gott wohlgefallige Haus-,6,98.1,False,positional,,,Buicher,,
-BO0624_88362,276291,5,3,haltung 1734.,7,92.3,False,positional,,,Buicher,,
-BO0624_88362,276292,6,6,Heisters Compendium anatomicum 1736,8,97.2,False,positional,,,Buicher,,
-BO0624_88362,276293,7,5,"Geistliche Festposaune, Nurnberg 1698",9,97.3,False,positional,,Scuola di Norimberga,Buicher,,
+BO0624_88362,276291,5,3,haltung 1734.,7,92.3,False,positional,,,Buicher,,Sec. XVIII
+BO0624_88362,276292,6,6,Heisters Compendium anatomicum 1736,8,97.2,False,positional,,,Buicher,,Sec. XVIII
+BO0624_88362,276293,7,5,"Geistliche Festposaune, Nurnberg 1698",9,97.3,False,positional,,Scuola di Norimberga,Buicher,,Sec. XVII
 BO0624_88362,276294,8,8,6.,10,50.0,False,positional,,,Buicher,,
 BO0624_88362,276295,9,9,Alte Bibel mit Holzschnitten,11,96.6,False,title_direct,,,Holz,,
-BO0624_88362,276296,10,7,"Alte Bibel mit Hoizschnitten, Nurnberg 1706",12,97.7,False,positional,,Scuola di Norimberga,Buicher,,
+BO0624_88362,276296,10,7,"Alte Bibel mit Hoizschnitten, Nurnberg 1706",12,97.7,False,positional,,Scuola di Norimberga,Buicher,,Sec. XVIII
 BO0624_88362,276297,11,8,Altes Testament von Zobel mit Abbildungen,13,97.6,False,positional,,,Buicher,,
-BO0624_88362,276298,12,9,"Tractatus solemnis, utilis und quotidie practicabilis 1572",14,98.3,False,positional,,,Buicher,,
+BO0624_88362,276298,12,9,"Tractatus solemnis, utilis und quotidie practicabilis 1572",14,98.3,False,positional,,,Buicher,,Sec. XVI
 BO0624_88362,276299,13,13,10.,15,57.1,False,positional,,,Buicher,,
-BO0624_88362,276300,14,14,Chronik von Mergentheim 1573,16,94.9,False,positional,,,Buicher,,
+BO0624_88362,276300,14,14,Chronik von Mergentheim 1573,16,94.9,False,positional,,,Buicher,,Sec. XVI
 BO0624_88362,276301,15,11,Alte Chronik,17,88.9,False,positional,,,Buicher,,
-BO0624_88362,276302,16,12,"Alte Bibel mit Holzschnitten,Lineburg 1655",18,96.6,False,title_direct,,,Holz,,
+BO0624_88362,276302,16,12,"Alte Bibel mit Holzschnitten,Lineburg 1655",18,96.6,False,title_direct,,,Holz,,Sec. XVII
 BO0624_88362,276303,17,17,13.,19,57.1,False,positional,,,Buicher,,
 BO0624_88362,276304,18,18,Corpus juris civilis romani,20,94.7,False,positional,,,Buicher,,
 BO0624_88362,276305,19,14,Alte Bibel mit Holzschnitten,21,94.9,False,title_direct,,,Holz,,
-BO0624_88362,276306,20,15,Gesangbuch fur die Gemeinde Aalen 1792,22,96.2,False,positional,,,Buicher,,
+BO0624_88362,276306,20,15,Gesangbuch fur die Gemeinde Aalen 1792,22,96.2,False,positional,,,Buicher,,Sec. XVIII
 BO0624_88362,276307,21,16,Altes Gebetbuch,23,90.9,False,positional,,,Buicher,,
 BO0624_88362,276308,22,17,Alte Bibel mit Stichen,24,93.6,False,title_direct,,,Stiche,,
 BO0624_88362,276309,23,23,18.,25,57.1,False,positional,,Scuola Napoletana,OGGETTI IN RAME,,
-BO0624_88362,276310,24,24,Historischer Bildersaal 1712,26,94.9,False,positional,,,Buicher,,
-BO0624_88362,276311,25,19,"Christliche Erzahlungen,Tubingen 1790",27,96.1,False,positional,,,Buicher,,
+BO0624_88362,276310,24,24,Historischer Bildersaal 1712,26,94.9,False,positional,,,Buicher,,Sec. XVIII
+BO0624_88362,276311,25,19,"Christliche Erzahlungen,Tubingen 1790",27,96.1,False,positional,,,Buicher,,Sec. XVIII
 BO0624_88362,276312,26,20,Altes Notizbuch in Schweinsleder,28,95.5,False,positional,,,Buicher,,
 BO0624_88362,276313,27,27,21.,29,57.1,False,positional,,,Buicher,,
 BO0624_88362,276314,28,28,"Lacroix, Paul, Usages et costumes du XVIll ieme siecle",30,97.2,False,positional,DELACROIX VICTOR EUGENE,,Buicher,,
@@ -156,7 +156,7 @@ BO0624_88362,276440,154,38,146.,177,66.7,False,positional,,,Stoffe; Stickereien;
 BO0624_88362,276441,155,39,"Salome mit Johanneskopf, Brokat",178,95.2,False,positional,,,Stoffe; Stickereien; Teppiche,,
 BO0624_88362,276442,156,147,"1 Zigarren-Etui, Rosshaar mit Silber",179,94.6,False,title_direct,,,Silber,,
 BO0624_88362,276443,157,2,148.,180,75.0,False,positional,,,Stoffe; Stickereien; Teppiche,,
-BO0624_88362,276444,158,3,1 altungarische Seidenstickerei 17. Jahrhundert 2.80X1.80,181,98.2,False,positional,,,Stoffe; Stickereien; Teppiche,,
+BO0624_88362,276444,158,3,1 altungarische Seidenstickerei 17. Jahrhundert 2.80X1.80,181,98.2,False,positional,,,Stoffe; Stickereien; Teppiche,,Sec. XVII
 BO0624_88362,276445,159,4,149.,182,75.0,False,positional,,,Stoffe; Stickereien; Teppiche,,
 BO0624_88362,276446,160,5,1 kleinasiatische Decke mit Spitze,183,97.1,False,positional,,,Stoffe; Stickereien; Teppiche,,
 BO0624_88362,276447,161,150,1 alt-tirkische Decke (rot),184,92.6,False,positional,,,Stoffe; Stickereien; Teppiche,,
@@ -220,7 +220,7 @@ BO0624_88362,276504,218,205,kleine Kommode,260,87.5,False,positional,,,Holz; Mob
 BO0624_88362,276505,219,206,1 Kasten mit 6 Likorflaschen und Glas,261,94.9,False,title_direct,,,Glas,,
 BO0624_88362,276506,220,207,"Konsole,Barock",262,87.5,False,positional,,,Holz; Mobel,,
 BO0624_88362,276507,221,208,1 Louis seize-Uhr mit Konsole,263,93.5,False,positional,,,Holz; Mobel,,
-BO0624_88362,276508,222,209,1 Holz-Tintenzeug aus dem Jahre 1800,264,94.7,False,title_direct,,,Holz,,
+BO0624_88362,276508,222,209,1 Holz-Tintenzeug aus dem Jahre 1800,264,94.7,False,title_direct,,,Holz,,Sec. XIX
 BO0624_88362,276509,223,210,19 Streichholzstander mit Figur und Buchschen,265,95.7,False,positional,,,Holz; Mobel,,
 BO0624_88362,276510,224,211,"1 geschnitzter Buchsbaumbecher,chinesisch",266,95.3,False,positional,,,Holz; Mobel,,
 BO0624_88362,276511,225,212,Buchdruckerpresse,267,89.5,False,positional,,,Holz; Mobel,,
@@ -373,8 +373,8 @@ BO0624_88362,276657,371,353,| 1 Fayence-Gestell fur Essig und Oel               
 BO0624_88362,276658,372,354,"| 1 Fayence-Leuchter, weiss                                                                   |",499,92.3,False,title_direct,,,LAMPADE,,
 BO0624_88362,276659,373,355,"| 1 Fayence-Tintenzeug,farbig bemalt                                                          |",500,94.4,False,title_direct,,,Fayence,,
 BO0624_88362,276660,374,356,"| 1Fayence-Tintenzeug,farbig bemalt                                                           |",501,94.3,False,title_direct,,,Fayence,,
-BO0624_88362,276661,375,357,| 1 Ton-Tintenzeug aus dem Jahre 1784                                                         |,502,94.6,False,positional,,,Porzellan; Fayence,,
-BO0624_88362,276662,376,358,| 1 Ton-Tintenzeug aus dem Jahre 1808                                                         |,503,94.6,False,positional,,,Porzellan; Fayence,,
+BO0624_88362,276661,375,357,| 1 Ton-Tintenzeug aus dem Jahre 1784                                                         |,502,94.6,False,positional,,,Porzellan; Fayence,,Sec. XVIII
+BO0624_88362,276662,376,358,| 1 Ton-Tintenzeug aus dem Jahre 1808                                                         |,503,94.6,False,positional,,,Porzellan; Fayence,,Sec. XIX
 BO0624_88362,276663,377,359,| 1 Ton-Weihwassergefass                                                                      |,504,91.7,False,positional,,,Porzellan; Fayence,,
 BO0624_88362,276664,378,360,| 1 Ton-Zuckerdose mit Deckel                                                                 |,505,93.1,False,positional,,,Porzellan; Fayence,,
 BO0624_88362,276665,379,361,| 1 Wedgewood-Suppenschissel mit Deckel                                                       |,506,94.9,False,positional,,,Porzellan; Fayence,,
@@ -443,7 +443,7 @@ BO0624_88362,276727,441,422,"1 Hpotheker-Kolben, grin",626,92.0,False,positional
 BO0624_88362,276728,442,423,- 1 Apotheker-Kolben mit Auischrift: Vivat mein Schatz und Mann,628,100.0,False,positional,,,Glas; Glasgemalde,,
 BO0624_88362,276729,443,424,1 Apotheker-Kolben mit springendem Hirsch,629,95.3,False,positional,,,Glas; Glasgemalde,,
 BO0624_88362,276730,444,425,5 Glaser mit farbigen Blumen,630,93.3,False,title_direct,,,Glas,,
-BO0624_88362,276731,445,426,1 Glas mit Metzgerzeichen und Inschrift 1755,631,95.7,False,title_direct,,,Glas,,
+BO0624_88362,276731,445,426,1 Glas mit Metzgerzeichen und Inschrift 1755,631,95.7,False,title_direct,,,Glas,,Sec. XVIII
 BO0624_88362,276732,446,427,"2 Glasleuchter, gepresst",632,92.0,False,title_direct,,,Glas,,
 BO0624_88362,276733,447,428,2 Eis-Weinflaschen mit Glasstopsel,633,94.4,False,title_direct,,,Glas,,
 BO0624_88362,276734,448,429,"1 Glaskrug mit Henkel, mit Pferd und Blumenverzierung",634,96.3,False,title_direct,,,Glas,,
@@ -522,7 +522,7 @@ BO0624_88362,276806,520,11,509.,726,66.7,False,positional,,,Silhouetten; Miniatu
 BO0624_88362,276807,521,12,510.,727,66.7,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276808,522,13,"Miniaturgemalde, Serenade",728,94.1,False,title_direct,,,Miniaturen,,
 BO0624_88362,276809,523,14,Miniaturgemalde,729,90.9,False,title_direct,,,MINIATURE,,
-BO0624_88362,276810,524,15,"auf Pergament,Ludovicus David Muller 1634-1670",730,96.8,False,positional,,,Silhouetten; Miniaturen; Dosen,,
+BO0624_88362,276810,524,15,"auf Pergament,Ludovicus David Muller 1634-1670",730,96.8,False,positional,,,Silhouetten; Miniaturen; Dosen,,Sec. XVII
 BO0624_88362,276811,525,511,"Miniaturgemalde auf Kupfer, Ritter in Harnisch und rotem Rock",731,92.4,False,title_direct,,,Kupfer,,
 BO0624_88362,276812,526,512,Landschaft mit Reiter,733,91.3,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276813,527,513,"Herrenbildnis,Silberstiftzeichnung",734,94.4,False,title_direct,,,Silber,,
@@ -531,7 +531,7 @@ BO0624_88362,276815,529,21,515.,736,66.7,False,positional,,,Silhouetten; Miniatu
 BO0624_88362,276816,530,22,"Hausliche Szene, Miniatire auf Seide",737,95.9,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276817,531,23,Turkin in Louis seize-Rahme,738,94.7,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276818,532,24,516.,739,66.7,False,positional,,,Silhouetten; Miniaturen; Dosen,,
-BO0624_88362,276819,533,517,"Napoleon in Empire-Rahme Franzosischer Offizier 1812, Miniature",741,74.5,False,title_direct,,,Miniaturen,,
+BO0624_88362,276819,533,517,"Napoleon in Empire-Rahme Franzosischer Offizier 1812, Miniature",741,74.5,False,title_direct,,,Miniaturen,,Sec. XIX
 BO0624_88362,276820,534,518,"Bildnis einer Dame mit Haube, Miniatire",742,95.0,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276821,535,28,519.,743,66.7,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276822,536,520,"Dame mit Strohhut und Fruchten, Miniatire Bildnis einer Dame in weissem Kleid, Miniatire",745,68.7,False,positional,,,Silhouetten; Miniaturen; Dosen,,
@@ -542,12 +542,12 @@ BO0624_88362,276826,540,525,"Hollandischer Hafen,Emailmalerei mit Filigranverzie
 BO0624_88362,276827,541,528,"Doschen mit Schaferin und Blumen,Emailmalerei malerei",754,88.2,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276828,542,529,"Doschen,herzformig, mit Madchen und Blumen, Email-",756,95.9,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276829,543,530,"Geldbeutel aus Porzellan, mit farbigenBlumen 532.",757,91.5,False,title_direct,,,Porzellan,,
-BO0624_88362,276830,544,531,Dose mit Abbildung des Uebergang uber den Pruth 1828,759,96.3,False,title_direct,,,Dosen,,
+BO0624_88362,276830,544,531,Dose mit Abbildung des Uebergang uber den Pruth 1828,759,96.3,False,title_direct,,,Dosen,,Sec. XIX
 BO0624_88362,276831,545,45,533.,760,66.7,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276832,546,46,"Dame in Goldhaube, Wachsbossierung",761,95.7,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276833,547,47,534.,762,66.7,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276834,548,48,"Alter Herr, Wachsbossierung",763,94.5,False,positional,,,Silhouetten; Miniaturen; Dosen,,
-BO0624_88362,276835,549,535,Karten-Almanach 1811,764,90.9,False,positional,,,Silhouetten; Miniaturen; Dosen,,
+BO0624_88362,276835,549,535,Karten-Almanach 1811,764,90.9,False,positional,,,Silhouetten; Miniaturen; Dosen,,Sec. XIX
 BO0624_88362,276836,550,50,"Frau in Tracht, Wachsbossierung",765,95.2,False,positional,,,Silhouetten; Miniaturen; Dosen,,
 BO0624_88362,276837,551,4,chinesische Puppen,770,94.7,False,positional,,,Figuren,,
 BO0624_88362,276838,552,538,4,771,33.3,False,positional,,,Figuren,,
@@ -644,7 +644,7 @@ BO0624_88362,276928,642,641,Nach Franz Hals. Mannlicher Kopf. Oel auf Leinwand,9
 BO0624_88362,276929,643,642,Rubensschule. Susanna im Bade. Oel auf Leinwand in Goldrahme,907,96.7,False,positional,Dr. Roth,Scuola di Rubens,Gemalde,,
 BO0624_88362,276930,644,644,"644. Unbekannt, Lindau mit Gebirge. Oel auf Leinwand in Goldrahme",909,100.0,False,positional,Dr. Roth,,Gemalde,,
 BO0624_88362,276931,645,645,Anna Peters. Rosen. Hquarell in schwarzer Rahme,911,95.7,False,positional,Dr. Roth,,Gemalde,,
-BO0624_88362,276932,646,I,"hlen,Georg Friedrich Glaser,Kramerzunftmitmeister 1738.",912,99.1,False,title_direct,,,Glas,,
+BO0624_88362,276932,646,I,"hlen,Georg Friedrich Glaser,Kramerzunftmitmeister 1738.",912,99.1,False,title_direct,,,Glas,,Sec. XVIII
 BO0624_88362,276933,647,647,"Bauerle,Studienkopf. Oel auf Leinwand in Goldrahme Oel auf Leinwand in schwarzer Rahme",913,71.0,False,positional,Dr. Roth,,Gemalde,,
 BO0624_88362,276934,648,648,"Bauerle, Alter Mann. Oel auf Pappe in Goldrahme",915,95.7,False,positional,Dr. Roth,,Gemalde,,
 BO0624_88362,276935,649,649,- 650.,917,100.0,False,positional,Dr. Roth,,Gemalde,,
@@ -707,7 +707,7 @@ BO0624_88362,276991,705,704,Die Totenklage um Christus. Stich von Frankel in sch
 BO0624_88362,276992,706,15,2 Photographien und Wandgemalde v.Raffael in Goldrahme,1008,97.3,False,title_direct,,,FOTOGRAFIE,,
 BO0624_88362,276993,707,16,705.,1009,66.7,False,positional,,,Stiche; Reproduktionen,,
 BO0624_88362,276994,708,17,706.,1010,66.7,False,positional,,,Stiche; Reproduktionen,,
-BO0624_88362,276995,709,18,Alter Plan von Stuttgart 1855. Gerahmt,1011,96.1,False,positional,,,Stiche; Reproduktionen,,
+BO0624_88362,276995,709,18,Alter Plan von Stuttgart 1855. Gerahmt,1011,96.1,False,positional,,,Stiche; Reproduktionen,,Sec. XIX
 BO0624_88362,276996,710,19,1 Spiegel in Goldrahme,1012,93.6,False,positional,,,Stiche; Reproduktionen,,
 BO0624_88362,276997,711,707,1 Rokokospiegel,1013,88.2,False,positional,,,Stiche; Reproduktionen,,
 BO0624_88362,276998,712,708,"Zwertschkost, Die heilige Familie. Oel auf Leinwand in schwarzer Rahme",1017,97.1,False,positional,,,Gemalde,,
@@ -759,7 +759,7 @@ BO0624_88362,277043,757,751,"Unbekannt, Konig Friedrich, Oel auf Leinwand in bra
 BO0624_88362,277044,758,752,"- Unbekannt, Konig Friedrich gross, Oel auf Leinwand in Goldrahmen",1082,100.0,False,positional,,,Gemalde,,
 BO0624_88362,277045,759,753,"Unbekannt, Kaiser Franz Joseph I., Oel auf Leinwand in",1083,96.2,False,positional,,,Gemalde,,
 BO0624_88362,277046,760,754,"Unbekannt, Ulmer Trachtenbild, Oel auf Leinwand in Goldrahmen",1085,96.7,False,positional,,,Gemalde,,
-BO0624_88362,277047,761,755,"Unbekannt, Bildnis von Frau E. S. von Mayersbach 1732",1086,96.2,False,positional,,,Gemalde,,
+BO0624_88362,277047,761,755,"Unbekannt, Bildnis von Frau E. S. von Mayersbach 1732",1086,96.2,False,positional,,,Gemalde,,Sec. XVIII
 BO0624_88362,277048,762,756,"Wolffgang Julius, Graf von Hohenlohe und Gleichen, Stich",1088,96.4,False,title_direct,,,Stiche,,
 BO0624_88362,277049,763,757,"Christus, farbicher Holzschnitt von Lukas Cranach, in Goldrahmen",1090,96.9,False,title_direct,CRANACH LUCAS,,Holz,,
 BO0624_88362,277050,764,758,"Herzoglicher Reiter, im Hintergrunde Schloss in Ludwigs-",1091,96.4,False,positional,,,Gemalde,,
@@ -773,6 +773,6 @@ BO0624_88362,277057,771,766,"Nikola Maes, Schachspieler, Oel auf Leinwand in Gol
 BO0624_88362,277058,772,767,"Unbekannt, Seestick, Oel auf Leinwand in Goldrahmen Oel auf Leinwand in schwarzer Rahme",1107,71.0,False,positional,,,Gemalde,,
 BO0624_88362,277059,773,768,"Niederlander Schule, Hollandische Landschaft mit Fluss,",1109,96.4,False,positional,,,Gemalde,,
 BO0624_88362,277060,774,769,"Niederlander Schule, Hollandischer Hafen,Oel auf Lein- wand in schwarzer Rahme",1110,78.8,False,positional,,,Gemalde,,
-BO0624_88362,277061,775,770,"Karikaturen aus dem russischen Feldzug, Hquarell La danse des chiens en desordre, Aquarell Schlacht von Moskau 1812, Aquarell",1112,54.3,False,positional,,,OGGETTI VARI,,
+BO0624_88362,277061,775,770,"Karikaturen aus dem russischen Feldzug, Hquarell La danse des chiens en desordre, Aquarell Schlacht von Moskau 1812, Aquarell",1112,54.3,False,positional,,,OGGETTI VARI,,Sec. XIX
 BO0624_88362,277062,776,773,"Damenportrat, Zeichnung.",1115,91.7,False,positional,,,Gemalde,,
 BO0624_88362,277063,777,774,"Venezianische Schule, Art Tizian,Mytologische Darstellung",1116,96.6,False,positional,TIZIANO VECELLIO,Scuola di Tiziano,Gemalde,,

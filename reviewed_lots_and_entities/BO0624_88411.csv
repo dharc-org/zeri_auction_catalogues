@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_88411,554875,1,4,320-,7,100.0,False,none,,,,,
 BO0624_88411,554876,2,5,Franzosischer Grenadier in voller Ausristung. Profilstellung.,53,98.3,False,positional,Emanuel Bachrach-Baree,,,,
 BO0624_88411,554877,3,8,"Vorfrihling. Beschneiter Weg mit Karrenfuhrwerk, gruine Wiese und beschneite Alpen im Hintergrund.",75,99.0,False,positional,A.Bartmann,,,,
-BO0624_88411,554878,4,I,Bezeichnet:C.Becker 1919.,93,100.0,False,positional,Carl Becker,,,,
+BO0624_88411,554878,4,I,Bezeichnet:C.Becker 1919.,93,100.0,False,positional,Carl Becker,,,,Sec. XX
 BO0624_88411,554879,5,430,<!-- image -->,98,100.0,False,positional,Carl Becker,,,,
 BO0624_88411,554880,6,I,talienische Landschaft. Am Hafen ein Fort. Auf dem Meer Segelschiffe. II Ol auf Leinwand. 24.5X48 cm.Goldrahmen. Bezeicnet:G.B.,114,99.6,False,title_direct,G.B.,,,,
 BO0624_88411,554881,7,I2,"Parklandschaft. Italienischer Park mit Gartenmauer,Brunnennische und Zypressen. Im Hintergrund eine Villa im Sonnenschein, leicht bewolkter blauer Himmel dariber. Ol auf Leinwand. 5oX37 cm. Goldrahmen. Bezeichnet:M.Beierlein.",120,99.3,False,title_direct,M.Beierlein,,,,
@@ -17,7 +17,7 @@ BO0624_88411,554889,15,22,"Felachin,am Boden sitzend,vor ihr in einer Kupferwann
 BO0624_88411,554890,16,23,Wallfahrtskapelle im Gebirge mit Staffage.,228,96.5,False,positional,Heinrich Burkel,,,,
 BO0624_88411,554891,17,24,"Amalfi. Monch,in einer Pergola sitzend und in einem Buch lesend. Dariber hinaus Blick auf Amalfi und das Meer.",234,98.6,False,positional,G.Castor,,,,
 BO0624_88411,554892,18,25,"Lesender Kardinal.Im Lehnstuhl sitzender,in einem Buche lesender Kardinal,neben ihm ein Taburett mit Skripturen und Bichern.",242,98.8,False,positional,Gulio Cesari,,,,
-BO0624_88411,554893,19,26,Vorfruhling. Garten bei Makarts Atelier in Wien. Auf dem Wege zwei Frauen in der Tracht um 187o/72. Bezeichnet:Ed.H. Charlemont 1872. Ol auf Holz. 31X39 cm. Dunkler Rahmen.,256,99.1,False,positional,Ed.und Hugo Charlemont,Scuola Viennese,CORNICI,,
+BO0624_88411,554893,19,26,Vorfruhling. Garten bei Makarts Atelier in Wien. Auf dem Wege zwei Frauen in der Tracht um 187o/72. Bezeichnet:Ed.H. Charlemont 1872. Ol auf Holz. 31X39 cm. Dunkler Rahmen.,256,99.1,False,positional,Ed.und Hugo Charlemont,Scuola Viennese,CORNICI,,Sec. XIX
 BO0624_88411,554894,20,28,Samson und Delila. Delila vor dem Bett des schlafenden Samson. Hinter ihr bewaffnete Kriegsknechte mit Laterne.,276,98.6,False,positional,Lovis Corinth,,,,
 BO0624_88411,554895,21,280,020,290,100.0,False,positional,Lovis Corinth,,,,
 BO0624_88411,554896,22,2500,27,294,100.0,False,positional,Lovis Corinth,,,,
@@ -26,12 +26,12 @@ BO0624_88411,554898,24,29,"a) Kopf, Hand- und Armstudien.",303,94.5,False,positi
 BO0624_88411,554899,25,410,U,307,40.0,False,positional,Lovis Corinth,Scuola di Rubens,OGGETTI IN METALLO,,
 BO0624_88411,554900,26,530,- c) Liegender weiblicher Akt.,315,100.0,False,positional,Lovis Corinth,,,,
 BO0624_88411,554901,27,700,- 30 a) Landschaft. Dine auf Sylt.,323,100.0,False,positional,Lovis Corinth,,,,
-BO0624_88411,554902,28,350,Bezeichnet:Lovis Corinth 1913.,333,100.0,False,title_direct,Lovis Corinth,,,,
+BO0624_88411,554902,28,350,Bezeichnet:Lovis Corinth 1913.,333,100.0,False,title_direct,Lovis Corinth,,,,Sec. XX
 BO0624_88411,554903,29,730,Bzeichenet:Lovis Corinth Ritter.,341,100.0,False,title_direct,Lovis Corinth,,,,
 BO0624_88411,554904,30,31,a) Aktstudie. Liegendes Madchen.,345,95.1,False,positional,Lovis Corinth,,,,
 BO0624_88411,554905,31,430,Bezeichnet:Lovis Corinth.,349,100.0,False,title_direct,Lovis Corinth,,,,
-BO0624_88411,554906,32,720,Bezeichnet:Lovis Corinth 1915.,357,100.0,False,title_direct,Lovis Corinth,,,,
-BO0624_88411,554907,33,620,Bezeichnet:Lovis Corinth 1912.,365,100.0,False,title_direct,Lovis Corinth,,,,
+BO0624_88411,554906,32,720,Bezeichnet:Lovis Corinth 1915.,357,100.0,False,title_direct,Lovis Corinth,,,,Sec. XX
+BO0624_88411,554907,33,620,Bezeichnet:Lovis Corinth 1912.,365,100.0,False,title_direct,Lovis Corinth,,,,Sec. XX
 BO0624_88411,554908,34,900,- 32a) Familienglick.,371,100.0,False,positional,Lovis Corinth,,,,
 BO0624_88411,554909,35,34,Im Sonntagsstaat. Schmuckes Tirolermadchen (Inntalerin) im Sonntagsstaat. In ganzer Figur mit iber dem Leib gekreuzten Handen.,401,98.8,False,positional,Franz von Defregger,,,,
 BO0624_88411,554910,36,35,"Junges Madchen mit glattgescheiteltem,braunem Haar,rotem Tuch um den Hals, dunklem Mieder mit weiBen Armeln.",409,98.6,False,positional,Franz von Defregger,,,,
@@ -66,9 +66,9 @@ BO0624_88411,554938,64,55,Rinderherde am Wasser.,633,93.3,False,positional,Otto 
 BO0624_88411,554939,65,56,"a) Kampfender Triton. Triton kampft mit einer Nixe, die er an sich ziehen und berauben will. Bezeichnet:C.Augustin Geiger. Ol auf Leinwand. 154X95 cm.Goldrahmen. Abbildung Tafel XXXI. e000",643,99.2,False,positional,Caspar Augustin Geiger,,,,
 BO0624_88411,554940,66,57,StraBenbild. StraBe in der Au b. Munchen wahrend der Dultzeit. Bezeichnet: Gerhardinger VII.19. Ol auf Malpappe. 40X61 cm. Gerahmt. Abbildung Tafel XxVI.,653,99.0,False,title_direct,C.Gerhardinger,,,,
 BO0624_88411,554941,67,58,"Italienische Fischer,Netze an den Strand ziehend,mit Boot am Strande. Im Hintergrund Stadt.",659,98.3,False,positional,1.Gianna,,,,
-BO0624_88411,554942,68,59,- Winterabend. Beschneiter Wald mit Bach und Steg bei Sonnenuntergang. Bezeichnet:Henri Gogarten 1892.,673,100.0,False,positional,H. Gogarten,,,,
+BO0624_88411,554942,68,59,- Winterabend. Beschneiter Wald mit Bach und Steg bei Sonnenuntergang. Bezeichnet:Henri Gogarten 1892.,673,100.0,False,positional,H. Gogarten,,,,Sec. XIX
 BO0624_88411,554943,69,61,Herrenbildnis. Portrat des Akademieprofessors Otto Seitz. Der charakteristische Kopf in dreiviertel Profil mit schwarzem Kappchen.,681,98.8,False,positional,Gustav Goldberg,,,,
-BO0624_88411,554944,70,62,Hochzeitsmahl. Hofische ritterliche Gesellschaft aus dem 16. Jahrhundert an der Hochzeitstafel. Vielfiguriges Bild in bewegter malerischer Komposition.,691,99.0,False,positional,Christian Friedrich Gonne,,,,
+BO0624_88411,554944,70,62,Hochzeitsmahl. Hofische ritterliche Gesellschaft aus dem 16. Jahrhundert an der Hochzeitstafel. Vielfiguriges Bild in bewegter malerischer Komposition.,691,99.0,False,positional,Christian Friedrich Gonne,,,,Sec. XVI
 BO0624_88411,554945,71,62,"a) Beim Mittagsessen. Dachauer Bauernfamilie, Bauer, Bauerin. Knecht und Bub sitzen um die Schuissel am Tisch in der Herrgottsecke. Bezeichnet:R. Graef 13. Ol auf Leinwand. 149X120 cm.Goldrahmen,",703,99.2,False,positional,Richard Graef,,,,
 BO0624_88411,554946,72,52000,<!-- image -->,708,100.0,False,positional,Richard Graef,,,,
 BO0624_88411,554947,73,1300,## Eduard Grisner,712,100.0,False,title_direct,Eduard Grisner,,,,
@@ -77,7 +77,7 @@ BO0624_88411,554949,75,64,<!-- image -->,719,100.0,False,positional,Eduard Grisn
 BO0624_88411,554950,76,65,"Bildnis einer Dame in weiBem Kleide und Mantel an einem Tischchen sitzend, ein Buch in der Hand.",739,98.4,False,positional,J.Guyuard,,,,
 BO0624_88411,554951,77,66,"Dorfpolitiker. Einer mit der Zeitung in der Hand, zwei andere, die Pfeifen rauchen und zuhoren. Bezeichnet;Gurkowitz. O1 auf Leinwand. 50,5X64 cm.Dunkler Rahmen.",750,99.0,False,positional,1.Gurkowit,,CORNICI,,
 BO0624_88411,554952,78,67,"Ziegen im Garten. Ziegen brechen in den Blumengarten ein,naschen an Rosen und werfen Blumentopfe um.",756,98.5,False,positional,S.Habenschaden,,,,
-BO0624_88411,554953,79,68,FluBlandschaft. An beiden Ufern hohe Baume. Auf dem Flusse FloBer. Bezeichnet: Jos.Hahn 1887. Ol auf Leinwand. 68X53 cm.Dunkler Rahmen.,766,98.8,False,title_direct,Jos.Hahn,,CORNICI,,
+BO0624_88411,554953,79,68,FluBlandschaft. An beiden Ufern hohe Baume. Auf dem Flusse FloBer. Bezeichnet: Jos.Hahn 1887. Ol auf Leinwand. 68X53 cm.Dunkler Rahmen.,766,98.8,False,title_direct,Jos.Hahn,,CORNICI,,Sec. XIX
 BO0624_88411,554954,80,69,"Am Wasser. Bauernhaus unter groBem Baum an beschilftem Wasser mit bewolkter Luft dariber. Bezeichnet:F.Halberg-Kraus. Ol auf Malpappe.27,5X 45 cm.Gerahmt.",772,99.0,False,title_direct,F.Halberg-Krau,,,,
 BO0624_88411,554955,81,70,"Isartallandschaft. FluB mit Baumgruppe am Ufer. GroBe bewolkte Luft dariber. Bezeichnet:F.Halberg-Kraus, Munchen. Ol auf Malpappe. 37X50 cm. Goldrahmen.",774,99.0,False,title_direct,F.Halberg-Krau,,,,
 BO0624_88411,554956,82,71,"Altwasser und Wald mit groBer bewolkter Luft dariber. Bezeichnet:Halberg-Kraus, Munchen. Ol auf Leinwand.6oX8o cm.Dunkler Rahmen.",776,98.8,False,title_direct,F.Halberg-Krau,,CORNICI,,
@@ -87,14 +87,14 @@ BO0624_88411,554959,85,4,und Sanger neben und hinter ihr. Olgemalde.59X 178 cm.,
 BO0624_88411,554960,86,5,Abbildung Tafel XXX.,792,95.0,False,positional,Edmund Harburger,,,,
 BO0624_88411,554961,87,28000,nek,797,100.0,False,positional,Edmund Harburger,,,,
 BO0624_88411,554962,88,4600,50,801,100.0,False,positional,Edmund Harburger,Scuola di Dusseldorf,,,
-BO0624_88411,554963,89,1250,1600,807,100.0,False,positional,Edmund Harburger,Scuola di Antwerp,,,
+BO0624_88411,554963,89,1250,1600,807,100.0,False,positional,Edmund Harburger,Scuola di Antwerp,,,Sec. XVII
 BO0624_88411,554964,90,77,- f) Poesie. Tasso deklamiert vor der Prinzessin. Die Damen sitzen auf einer steinernen Bank im Park. Olgemalde. 6oX 157 cm.,810,100.0,False,positional,Edmund Harburger,,,,
 BO0624_88411,554965,91,72,NachlaBstempel.,822,90.3,False,positional,Ludwig Hartmann,,,,
 BO0624_88411,554966,92,73,"Agyptische Ruinenstadt am Abend. Am Wasser im Vordergrund Wassertragerinen, Kamele u a.m.",839,98.3,False,positional,M.Haubtmann,,,,
 BO0624_88411,554967,93,74,- Griechische Landschaft. Zwei abgebrochene Saulen gegen den Abendhimmel.,841,100.0,False,positional,M.Haubtmann,,,,
-BO0624_88411,554968,94,75,"Flitterwochen. Maler von der sommerlichen Studienfahrt zurick, neben sich noch Stock, Hut und Malmappe, halt seiner jungen Frau das Garn zum Abhaspeln. Sie steht in leichter sommerlicher Klei dung vor ihm mit dem Wollknauel. Aussicht von der Veranda des Landhauses auf einen See. Bezeichnet:A.v.Heckel,Munchen 1856. Ol auf Leinwand. 57X43,5 cm. Goldrahmen.",850,99.6,False,positional,August von Heckel,,,,
+BO0624_88411,554968,94,75,"Flitterwochen. Maler von der sommerlichen Studienfahrt zurick, neben sich noch Stock, Hut und Malmappe, halt seiner jungen Frau das Garn zum Abhaspeln. Sie steht in leichter sommerlicher Klei dung vor ihm mit dem Wollknauel. Aussicht von der Veranda des Landhauses auf einen See. Bezeichnet:A.v.Heckel,Munchen 1856. Ol auf Leinwand. 57X43,5 cm. Goldrahmen.",850,99.6,False,positional,August von Heckel,,,,Sec. XIX
 BO0624_88411,554969,95,77,a) Landro d'Ampezzo. Charakteristische Dolomitenlandschaft.Im Vordergrund reichgegliederte,881,98.3,False,positional,Heinrich Heinlein,,,,
-BO0624_88411,554970,96,2,Bezeichnet:Aug. v. Heckel 1857.,887,100.0,False,positional,Heinrich Heinlein,,,,
+BO0624_88411,554970,96,2,Bezeichnet:Aug. v. Heckel 1857.,887,100.0,False,positional,Heinrich Heinlein,,,,Sec. XIX
 BO0624_88411,554971,97,600,## 1.F.Hennings,897,100.0,False,title_direct,1.F.Hennings,,,,
 BO0624_88411,554972,98,78,Prozession durch die StraBe einer sudlichen Stadt.,901,97.0,False,positional,1.F.Hennings,,,,
 BO0624_88411,554973,99,79,"Bildnisstudie. Alte Bauerin mit schwarzem Kopftuch, weiBer Halsbinde und rotem Mieder im Dreiviertelprofil.",915,98.6,False,positional,Hubert von Herkomer,,,,
@@ -129,10 +129,10 @@ BO0624_88411,555001,127,103,"Damenbildris. Junge Dame in violettem Kleide in auf
 BO0624_88411,555002,128,104,Dezember am Teich. Motiv aus dem Mangfalltal.,1133,95.6,False,positional,Hans Klatt,,,,
 BO0624_88411,555003,129,106,"Bezeichnet:M.Kleinbardt, Ol auf Leinwand. 55.5X75 cm. Unter Glas. Dunkler Rahmen.",1143,97.4,False,positional,Marie Kleinbardt,,CORNICI,,
 BO0624_88411,555004,130,56,<!-- image -->,1149,100.0,False,positional,Marie Kleinbardt,,,,
-BO0624_88411,555005,131,3500,- 107 Besuch in der Klosterbibliothek. Bibliothekraum aus dem 18. Jahrhundert. Am Tisch der Abt mit seinem vornehmen Besuch.,1155,100.0,False,positional,H.Knoop,,,,
+BO0624_88411,555005,131,3500,- 107 Besuch in der Klosterbibliothek. Bibliothekraum aus dem 18. Jahrhundert. Am Tisch der Abt mit seinem vornehmen Besuch.,1155,100.0,False,positional,H.Knoop,,,,Sec. XVIII
 BO0624_88411,555006,132,108,"Vorlesung. Alte Rokokoherren,um einen Tisch am Kamin sitzend und einem zuhorend, der aus einem Manuskript vorliest.",1161,98.7,False,positional,H.Knoop,,CAMINI,,
 BO0624_88411,555007,133,800,"Bezeichnet:H. Knoop, Munchen. Abbildung Tafel XxVI.",1165,100.0,False,title_direct,H.Knoop,,,,
-BO0624_88411,555008,134,200,Bezeichnet: H.Knoop.Munchen 1909.,1173,100.0,False,title_direct,H.Knoop,,,,
+BO0624_88411,555008,134,200,Bezeichnet: H.Knoop.Munchen 1909.,1173,100.0,False,title_direct,H.Knoop,,,,Sec. XX
 BO0624_88411,555009,135,II,"o Blumenstilleben. WeiBe und rote Rosen in einer weiBen Vase. Bezeichnet:H. Knoop. Ol auf Malpappe. 58X47,5 cm. Unter Glas. Dunkler Rahmen.",1177,99.2,False,title_direct,H.Knoop,,CORNICI,,
 BO0624_88411,555010,136,III,"Bleistiftzeichnung,weiB gehoht. 35.5X46.5 cm. Unter Glas. Dunkler Rahmen.",1181,97.2,False,positional,Kobell,,CORNICI,,
 BO0624_88411,555011,137,II2,"Piknik. Damen und Herren aus der Empirezeit am Ufer eines Sees, eine Bowle brauend. Ausblick auf den See und sommerliche Landschaft.",1187,98.5,False,positional,Hermann Koch,,,,
@@ -164,8 +164,8 @@ BO0624_88411,555036,162,500,1300元,1352,100.0,False,positional,Lindemann,,,,
 BO0624_88411,555037,163,136,700.,1356,100.0,False,positional,Lindemann,,,,
 BO0624_88411,555038,164,3000,- I4I,1360,100.0,False,positional,Lindemann,,,,
 BO0624_88411,555039,165,130,"Rauchender Klosterbruder in weiBer Kutte und blauem Schurz. Brustbild. Bezeichnet:R.Linderum,Munchen. Ol auf Holz.21X16 cm. Unter Glas. Dunkler Rahmen. Abbildung Tafel VI.",1364,98.8,False,title_direct,R.Linderum,,CORNICI,,
-BO0624_88411,555040,166,I3,"I Kriegsstilleben.Wurst, Brot,Ei,Zundholzer, Zigarre, Brotkarte, Notgeld,Fleischmarke uw. Bezeichnet:Luckmeyer zur Erinnerung an 1914/15/16/17.",1370,99.3,False,positional,H.Luckmeyer,,,,
-BO0624_88411,555041,167,132,"Herbstwald. GroBe Buchen am Bach. Madchen als Staffage. Bezeichnet: Justus Lundegard,Munchen 1886.Ol auf Leinwand. 137X97 cm. Goldrahmen.",1380,98.5,False,title_direct,Justus Lundegard,,,,
+BO0624_88411,555040,166,I3,"I Kriegsstilleben.Wurst, Brot,Ei,Zundholzer, Zigarre, Brotkarte, Notgeld,Fleischmarke uw. Bezeichnet:Luckmeyer zur Erinnerung an 1914/15/16/17.",1370,99.3,False,positional,H.Luckmeyer,,,,Sec. XX
+BO0624_88411,555041,167,132,"Herbstwald. GroBe Buchen am Bach. Madchen als Staffage. Bezeichnet: Justus Lundegard,Munchen 1886.Ol auf Leinwand. 137X97 cm. Goldrahmen.",1380,98.5,False,title_direct,Justus Lundegard,,,,Sec. XIX
 BO0624_88411,555042,168,133,Wildschweine im Mondschein. Wildschweine auf einer beschneiten Waldwiese unter einer groBen Tanne. Im Hintergrund Tannenwald.,1386,98.4,False,positional,Guido von Maffei,,,,
 BO0624_88411,555043,169,134,"Hirsch in Fichtenjugend. Ein stattlicher Zehnender auf einer Waldwiese, nach einer Hirschkuh augend. Bezeichnet:G.v.Maffei. Ol auf Leinwand. 8gX122 cm.Versilberter Rahmen.",1390,98.8,False,positional,Guido von Maffei,,CORNICI,,
 BO0624_88411,555044,170,I35,Bock im Sommerwald. Bock im Hochwald auf einer sonnigen WaldbloBe. Bezeichnet:G.v.Maffei. Ol auf Leinwand. 7oX54 cm.Goldrahmen.,1392,98.4,False,positional,Guido von Maffei,,,,
@@ -191,14 +191,14 @@ BO0624_88411,555063,189,153,"Die Kunststadt. Symbolische Darstellung. Aus dem St
 BO0624_88411,555064,190,154,Italienisches Kircheninterieur.Vor der Madonna ein Dudelsackpfeifer.,1552,97.1,False,positional,Franz Naager,,,,
 BO0624_88411,555065,191,155,Betender Jungling mit gefalteten Handen vor der Brust. Brustbild.,1560,96.9,False,positional,,Nazarener Schule,,,
 BO0624_88411,555066,192,2,b00.-155a,1562,94.1,False,positional,,Nazarener Schule,,,
-BO0624_88411,555067,193,2600,1558.,1564,61.5,False,positional,,Nazarener Schule,,,
+BO0624_88411,555067,193,2600,1558.,1564,61.5,False,positional,,Nazarener Schule,,,Sec. XVI
 BO0624_88411,555068,194,156,a) Gefesselte Sklavin. Halbakt im Profil gesehen. Bezeichnet:W. Oppenheimer. 0i auf Leinwand. 78X65.5 cm. Schwarzer Rahmen.,1578,98.3,False,title_direct,W. Oppenheimer,,CORNICI,,
 BO0624_88411,555069,195,157,"Idylle. Kinder im besonnten Hofchen eines Bauernhauses, ein Lamm auf dem SchoB.",1584,97.4,False,positional,F.Ortlieb,,,,
 BO0624_88411,555070,196,158,3Badende Nymphen im Walde. Am Wasser sitzende rotblonde Nymphe;eine andere am Ufer an einem Baume lehnend.,1594,98.1,False,positional,Georg Papperitz,,,,
 BO0624_88411,555071,197,159,"Anbetung der Hirten. In Form eines Triptychons und Altarbildes, das in der Mitte die Anbetung, auf den beiden Seitenfluigeln schwebende und betende Engelsgestalten und in der Predella den Leichnam Christi zeigt.",1602,99.0,False,positional,Georg Papperitz,,,,
-BO0624_88411,555072,198,2600,1300,1609,100.0,False,positional,Georg Papperitz,Scuola Veneziana,,,
+BO0624_88411,555072,198,2600,1300,1609,100.0,False,positional,Georg Papperitz,Scuola Veneziana,,,Sec. XIV
 BO0624_88411,555073,199,700,",",1611,0.0,False,positional,Georg Papperitz,,,,
-BO0624_88411,555074,200,550,1400,1617,100.0,False,positional,Georg Papperitz,Scuola Senese,,,
+BO0624_88411,555074,200,550,1400,1617,100.0,False,positional,Georg Papperitz,Scuola Senese,,,Sec. XV
 BO0624_88411,555075,201,800,3-60,1623,100.0,False,positional,Georg Papperitz,,,,
 BO0624_88411,555076,202,200,- 166,1627,100.0,False,positional,Georg Papperitz,,,,
 BO0624_88411,555077,203,167,## P.Paede,1630,100.0,False,title_direct,P.Paede,,,,
@@ -226,17 +226,17 @@ BO0624_88411,555098,224,I77,"Dachauer Bauernmadchen. Zwei Dachauerinnen am Kirch
 BO0624_88411,555099,225,I78,In der Gartenlaube. Alter Herr in sonniger Laube die Zeitung lesend. Bezeichnet:O.Piltz. Ol auf Holz. 48X6o cm. Unter Glas. Dunkler Rahmen. Abbildung Tafel XXI.,1749,98.7,False,title_direct,O.Piltz,,CORNICI,,
 BO0624_88411,555100,226,I79,"Diana. Die Gottin hat sich,von der Jagd ausruhend, mit ihren Nymphen in einer Felsgrotte niedergelassen. Ausblick auf eine in abendlicher Stimmung gehaltene Landschaft.",1753,98.8,False,positional,C.Poellenburg,,,,
 BO0624_88411,555101,227,641,a) Partie aus der Ramsau. Bach mit Steingeroll.,1763,95.7,False,positional,Rudolf Poppel,,,,
-BO0624_88411,555102,228,18,o Bayerischer Kanonier in voller Ausristung mit dem Wischer in der rechten Hand neben dem Geschitz. Bezeichnet: J.Pozzi 1838. 01 auf Blech. 22X16 cm.Goldrahmen.,1775,99.4,False,title_direct,J.Pozzi,,OGGETTI IN METALLO,,
+BO0624_88411,555102,228,18,o Bayerischer Kanonier in voller Ausristung mit dem Wischer in der rechten Hand neben dem Geschitz. Bezeichnet: J.Pozzi 1838. 01 auf Blech. 22X16 cm.Goldrahmen.,1775,99.4,False,title_direct,J.Pozzi,,OGGETTI IN METALLO,,Sec. XIX
 BO0624_88411,555103,229,181,"Im Wirtshaus. Junger Gebirgler, die in Landestracht gekleidete schmucke Kellnerin am Arm fassend. Bezeichnet:F.ProlB. Ol auf Leinwand. 57X42 cm. Dunkler Rahmen.",1779,98.7,False,positional,Franz Proln,,CORNICI,,
 BO0624_88411,555104,230,182,Fruhlingsblumen. Deandl in oberlandlicher Tracht in der Stube mit einem Korb im Arm und frischerbluihten Blumenstock in der Hand.,1780,98.4,False,positional,Franz Proln,,,,
 BO0624_88411,555105,231,183,Damenbildnis. Dame in Biedermeierkostim am Wasser und Landhaus.,1790,96.8,False,positional,Leo Putz,,,,
 BO0624_88411,555106,232,184,Gebirgsdorf im Fruhling mit bluhenden Baumen.,1796,95.7,False,positional,Fritz Rabending,,,,
 BO0624_88411,555107,233,192,- 194,1808,100.0,False,positional,Fritz Rabending,,,,
-BO0624_88411,555108,234,195,Bezeichnet:Robbe 1868.,1811,100.0,False,positional,Fritz Rabending,,,,
+BO0624_88411,555108,234,195,Bezeichnet:Robbe 1868.,1811,100.0,False,positional,Fritz Rabending,,,,Sec. XIX
 BO0624_88411,555109,235,186,"6Karneval. Dunkel gekleideter Pierrot mit roten Haaren und Krause, eine demaskierte Dame neckend. Bezeichnet: Rieth.og M. Guasche.46X37 cm.Unter Glas.Goldrahmen",1817,98.7,False,positional,Paul Rieth,,,,
 BO0624_88411,555110,236,187,Sektbufett. Dame einem Kavalier Sekt einschenkend.,1818,96.0,False,positional,Paul Rieth,,,,
 BO0624_88411,555111,237,188,Romische Landschaft. Ruinen mit weidenden Buffeln und Hirte. Abendstimmung.,1824,97.3,False,positional,L.M.Robbe,Scuola Romana,,,
-BO0624_88411,555112,238,18,"g Sehnsucht. Klosterfrau am offenen Fenster eine Taube fitternd. Bezeichnet:Chas de Rohan 1897. O1 auf Leinwand. 56,5X87.5 cm. Goldrahmen.",1832,99.2,False,positional,Chas.D.Rohan,,,,
+BO0624_88411,555112,238,18,"g Sehnsucht. Klosterfrau am offenen Fenster eine Taube fitternd. Bezeichnet:Chas de Rohan 1897. O1 auf Leinwand. 56,5X87.5 cm. Goldrahmen.",1832,99.2,False,positional,Chas.D.Rohan,,,,Sec. XIX
 BO0624_88411,555113,239,I,go Auf der Falkenjagd. Junker auf der Falkenbeize junges Edelfraulein kissend. Bezeichnet:Rolando. Ol auf Holz. 27X17.5 cm. Goldrahmen.,1838,99.6,False,positional,H.Rolando,,OGGETTI IN LEGNO,,
 BO0624_88411,555114,240,193,a) Madchenkopf. Kleines blondes Madchen. Brustbild. Bezeichnet:C. RoBler. Ol auf Malpappe. 17X13 cm. Unter Glas. Dunkler Rahmen.,1856,98.3,False,positional,C.RoDler,,CORNICI,,
 BO0624_88411,555115,241,I,deallandschaft. FluBtal ahnlich um Heidelberg mit der Ruine eines gotischen Munsters im Walde. Abendstimmung. Ol auf Malpappe. 42X8o cm. Goldrahmen.,1862,99.6,False,positional,Carl Rottmann,,,,
@@ -260,19 +260,19 @@ BO0624_88411,555132,258,209,"Doppelbildnis zweier Madchen, weiB gekleidet mit ro
 BO0624_88411,555133,259,210,Reh im beschneiten Wald. Abendstimmung.,2034,94.9,False,positional,1.Schmitzberger,,,,
 BO0624_88411,555134,260,211,"Damenbildnis. Rotblonde junge Dame mit entbloBten Schultern, die rechte Hand an der Brust. Ol auf Malpappe. 82X64 cm.Unter Glas.Goldrahmen.",2044,98.5,False,positional,Leopold Schmutzler,,,,
 BO0624_88411,555135,261,212,"Abendstimmung. Landschaft mit Baumgruppen am Wasser, links hinaus Blick auf den abendlichen",2051,97.8,False,positional,Josef Schoyrer,,,,
-BO0624_88411,555136,262,2,"I2 a) Sommermorgen im Kiental bei Andechs. Bezeichnet: J. Schoyrer 1909. Ol auf Malpappe. 6oX43,5 cm. Dunkler Rahmen.",2059,99.5,False,positional,Josef Schoyrer,,CORNICI,,
+BO0624_88411,555136,262,2,"I2 a) Sommermorgen im Kiental bei Andechs. Bezeichnet: J. Schoyrer 1909. Ol auf Malpappe. 6oX43,5 cm. Dunkler Rahmen.",2059,99.5,False,positional,Josef Schoyrer,,CORNICI,,Sec. XX
 BO0624_88411,555137,263,214,"Huhnerhof. Hahn und Hennen ruhend und Futter suchend. Bezeichnet:A. Schonian,Munchen. Ol auf Holz.16X24 cm.Dunkler Rahmen.",2066,98.3,False,title_direct,A.Schonian,,CORNICI,,
 BO0624_88411,555138,264,215,"Pfau, Puter, Gockel und Hennen auf griner Wiese.",2067,95.7,False,positional,A.Schonian,,,,
-BO0624_88411,555139,265,216,Studienkopf. Mann im roten Bart mit Barett. Dreiviertelprofil nach rechts. Bezeichnet:C. S. 1889. Ol auf Holz. 32X23.5 cm. Unter Glas. Dunkler Rahmen.,2074,98.6,False,positional,Claudius Schraudolph,,CORNICI,,
+BO0624_88411,555139,265,216,Studienkopf. Mann im roten Bart mit Barett. Dreiviertelprofil nach rechts. Bezeichnet:C. S. 1889. Ol auf Holz. 32X23.5 cm. Unter Glas. Dunkler Rahmen.,2074,98.6,False,positional,Claudius Schraudolph,,CORNICI,,Sec. XIX
 BO0624_88411,555140,266,2,"I7 FluBlandschaft. Vorne groBer Wasserspiegel. Am grun besaumten Ufer Baume, Baumgruppen und Hauser.",2082,99.5,False,positional,Ch.Schuch,,,,
-BO0624_88411,555141,267,30,1550- endel,2089,100.0,False,positional,Ch.Schuch,,,,
+BO0624_88411,555141,267,30,1550- endel,2089,100.0,False,positional,Ch.Schuch,,,,Sec. XVI
 BO0624_88411,555142,268,3300,6100,2093,100.0,False,positional,Ch.Schuch,,,,
 BO0624_88411,555143,269,20000,00,2097,100.0,False,positional,Ch.Schuch,,,,
 BO0624_88411,555144,270,223,- 227,2100,100.0,False,positional,Ch.Schuch,,,,
 BO0624_88411,555145,271,217,a) Gebirgssee in Abendbeleuchtung.  Im Hintergrund Schneeberge. Bezeichnet:A.S. Ol auf Holz. 15.5X23 cm. Unter Glas. Dunkler Rahmen.,2106,98.4,False,positional,August Seidel,,CORNICI,,
 BO0624_88411,555146,272,218,Italienischer Knabe als Gemusehindler unter einem Sonnenschirm. Bezeichnet:A. Seiffert. O1 auf Leinwand. 1o1X116 cm. Goldrahmen.,2114,98.4,False,title_direct,A. Seiffert,,,,
 BO0624_88411,555147,273,219,"der edelsten und ruhmreichsten deutschen Feldherrn, gleich groB als Heerfuihrer und Staatsmann, Menschenfreund und Forderer von Kunst und Wissenschaft.",2124,98.7,False,positional,C.Seiler,,,,
-BO0624_88411,555148,274,220,"Gottfried Wilhelm Leibniz (1646-1716),einer der vielseitigsten Gelehrten und scharfsinnigsten Der ker aller Zeiten, Zei genosse und Fieund des Prinzen Eugen von Savoyen.",2125,98.8,False,positional,C.Seiler,,,,
+BO0624_88411,555148,274,220,"Gottfried Wilhelm Leibniz (1646-1716),einer der vielseitigsten Gelehrten und scharfsinnigsten Der ker aller Zeiten, Zei genosse und Fieund des Prinzen Eugen von Savoyen.",2125,98.8,False,positional,C.Seiler,,,,Sec. XVII
 BO0624_88411,555149,275,220,a Ol auf Holz. 17X14 cm. Goldrahmen.,2135,96.9,False,positional,C.Seiler,,OGGETTI IN LEGNO,,
 BO0624_88411,555150,276,221,Maultier. Gesatteltes Maultier vor einem Tor.,2141,95.6,False,positional,Franz Simm,,,,
 BO0624_88411,555151,277,222,"einem groBeren Madchen, das einen Apfel vor ihm verbirgt, in die Haare greift. Bezeichnet:E. Smirzarmitz,Wien. O1 auf Leinwand. 2oX30 cm.Goldrahmen.",2150,98.6,False,title_direct,E.Smirzarmitz,Scuola Viennese,,,
@@ -291,14 +291,14 @@ BO0624_88411,555163,289,236,Winterlandschaft. DorfstraBe mit Kirche. Frau und Ki
 BO0624_88411,555164,290,238,"Baumgruppe,blauer,leicht bewolkter Sommerhimmel dariber.",2228,96.5,False,positional,Toni Stadler,,,,
 BO0624_88411,555165,291,239,"Moorlandschaft.Dorf im Hintergrund und Bergkette. Abendstimmung. Bezeichnet:T. Stadler,Munchen. Ol auf Leinwand. 34X51 cm. Goldrahmen. Abbildung Tafel XXVII.",2232,98.7,False,positional,Toni Stadler,,,,
 BO0624_88411,555166,292,240,Pfingstrosen. Rote und weiBe Pfingstrosen in gelber Vase auf dem Tisch vor einer grauvioletten Wand. Bezeichnet:A. Stagura I914. Pastell. 1ooXgo cm. Unter Glas. Dunkler Rahmen. Abbildung-Tafel XIX. 009,2238,99.0,False,positional,Albert Stagura,,CORNICI,,
-BO0624_88411,555167,293,1800,"242 Treuer Wachter. Ein schwarzer Dackel vor dem Bett eines schlafenden Kindes in bemalter Wiege Bezeichnet:Fritz Steinmetz im Dez.1885.Munchen. Ol auf Leinwand, 27X38 cm,Goldrahmen.",2248,98.6,False,title_direct,Fritz Steinmetz,,,,
+BO0624_88411,555167,293,1800,"242 Treuer Wachter. Ein schwarzer Dackel vor dem Bett eines schlafenden Kindes in bemalter Wiege Bezeichnet:Fritz Steinmetz im Dez.1885.Munchen. Ol auf Leinwand, 27X38 cm,Goldrahmen.",2248,98.6,False,title_direct,Fritz Steinmetz,,,,Sec. XIX
 BO0624_88411,555168,294,950,2440,2253,100.0,False,positional,Fritz Steinmetz,,,,
 BO0624_88411,555169,295,243,"Diana mit dem SpieB,das Horn blasend.",2257,94.7,False,positional,Ernst Stern,,,,
 BO0624_88411,555170,296,244,Bei Pullach an der Isar. Blick auf das Hochufer bei Pullach und die Alpen. Auf dem anderen Ufer Spazierganger.Sommerlandschaft.,2267,98.4,False,positional,Alexander von Swiesewsky,,,,
 BO0624_88411,555171,297,245,"Gebirgslandschaft. Am Felsen bluhende Alpenrosen. Bezeichnet: H.Taeger. 01 auf Malpappe. 31,5X46 cm. Dunkler Rahmen:",2281,98.2,False,title_direct,H.Taeger,,CORNICI,,
 BO0624_88411,555172,298,330247,Rohrender Hirsch im Herbstwald. Bezeichnet mit dem Faksimile A.Thiele.,2289,95.1,False,positional,Arthur Thiele,,,,
 BO0624_88411,555173,299,2850,"249 a) Oberbayerische Landschaft.Im Vordergrund FluB mit strauchbestandenem Ufer,Vorberge und Schneeberge im Hintergrund. Bezeichnet:Paul Thiem 93.",2303,98.3,False,title_direct,Paul Thiem,,,,
-BO0624_88411,555174,300,25,o Fruhlingslandschaft. Auenwald mit Bach. Wildenten dariber. Bezeichnet:Desire Thomassin 1899. Ol auf Leinwand. 75.5X55 cm. Goldrahmen.,2309,99.2,False,title_direct,Desire Thomasin,,,,
+BO0624_88411,555174,300,25,o Fruhlingslandschaft. Auenwald mit Bach. Wildenten dariber. Bezeichnet:Desire Thomassin 1899. Ol auf Leinwand. 75.5X55 cm. Goldrahmen.,2309,99.2,False,title_direct,Desire Thomasin,,,,Sec. XIX
 BO0624_88411,555175,301,251,"Abschied. Junge, der in die Fremde geht und von Vater und Mutter Abschied nimmt. Zeichnung auf gelbes Tonpapier. WeiB gehoht. 15X1o cm. Unter Glas. Goldrahmen.",2313,98.7,False,positional,P.Thumann,,,,
 BO0624_88411,555176,302,252,"Seppl. Steyerer im grinen Hut mit Gemsbart und Feder. Brustbild. Im Hintergrund Landschaft. Bezeichnet:F. Trumer, Graz. Ol auf Holz.17X12cm. Goldrahmen.",2319,98.6,False,title_direct,F.Trumer,,OGGETTI IN LEGNO,,
 BO0624_88411,555177,303,150,320- grennel,2331,100.0,False,positional,F.Trumer,,,,
@@ -306,8 +306,8 @@ BO0624_88411,555178,304,30,"253 Blondes Madchen in dunklem Mieder, ihren Zopf fl
 BO0624_88411,555179,305,2000,2100.5,2338,100.0,False,positional,F.Trumer,,,,
 BO0624_88411,555180,306,4250,Maisel,2342,100.0,False,positional,F.Trumer,,,,
 BO0624_88411,555181,307,9,ooo.,2344,85.7,False,positional,F.Trumer,,,,
-BO0624_88411,555182,308,1100,1400,2348,100.0,False,positional,F.Trumer,Scuola Senese,,,
-BO0624_88411,555183,309,1250,1350-,2352,100.0,False,positional,F.Trumer,,,,
+BO0624_88411,555182,308,1100,1400,2348,100.0,False,positional,F.Trumer,Scuola Senese,,,Sec. XV
+BO0624_88411,555183,309,1250,1350-,2352,100.0,False,positional,F.Trumer,,,,Sec. XIV
 BO0624_88411,555184,310,850,5900,2356,100.0,False,positional,F.Trumer,,,,
 BO0624_88411,555185,311,254,mit Hund.,2360,80.0,False,positional,F.Trumer,,,,
 BO0624_88411,555186,312,255,Bezeichnet: W.Velten. Aquarell. 2oX28 cm. Unter Glas. Silberrahmen.,2371,96.8,False,title_direct,W.Velten,,,,
@@ -333,14 +333,14 @@ BO0624_88411,555205,331,2100,170,2481,100.0,False,positional,Josef Wenglein,,,,
 BO0624_88411,555206,332,2740,- 275 Ex libris von Erich Hermann.,2485,100.0,False,positional,Josef Wenglein,,,,
 BO0624_88411,555207,333,1800,"276 Hugelige Landschaft in Grun mit Bauerin auf dem Weg. Rickwarts bezeichnet: Grete Weisgerber fir Albert Weisgerber. NachlaBstempel. Ol auf Leinwand. 36,5X46 cm. Goldrahmen.",2489,98.5,False,positional,Josef Wenglein,,,,
 BO0624_88411,555208,334,276,"a) Feierabend. Weidende Kuh im Baumgarten. Die Huterin unter einem Baum im Gesprach mit einem Burschen. Im Hintergrund Dorf in Abendstimmung. Bezeichnung:V.Weishaupt,Minchen Ol auf Leinwand. 99X135 cm.Goldrahmen.",2495,99.0,False,positional,Victor Weishaupt,,,,
-BO0624_88411,555209,335,277,Bezeichnet:G.Wertheimer 1894.3s0 Olauf Leinwand.125X174. Goldrahmen. a) Lowenfamilie in der Wiste. Lowe und Lowin mit Jungen. Nachtbild.,2502,67.0,False,title_direct,G.Wertheimer,,,,
+BO0624_88411,555209,335,277,Bezeichnet:G.Wertheimer 1894.3s0 Olauf Leinwand.125X174. Goldrahmen. a) Lowenfamilie in der Wiste. Lowe und Lowin mit Jungen. Nachtbild.,2502,67.0,False,title_direct,G.Wertheimer,,,,Sec. XIX
 BO0624_88411,555210,336,278,"NachlaBstempel. Ol auf Malpappe. 24X34,5 cm. Goldrahmen.",2510,96.3,False,positional,Bernhard Willmann,,,,
 BO0624_88411,555211,337,7,ZO  278 b) Stilleben. Alter Glas-Pokal auf grinsamtenem Tischtuch mit einer zum Teil abgeschalten Zitrone.,2513,99.5,False,positional,Bernhard Willmann,,,,
 BO0624_88411,555212,338,4001,gosidier,2521,100.0,False,positional,A.Weisgerber,,,,
 BO0624_88411,555213,339,1000,- Ol auf Holz. 38X5o cm.Dunkler Rahmen. Bezeichnet:L.Willroider.,2529,100.0,False,positional,Ludwig Willroider,,CORNICI,,
 BO0624_88411,555214,340,1350,- 28o FluBlandschaft in Regenstimmung. Ruckwarts bezeichnet:NachlaBstempel.,2533,100.0,False,positional,Ludwig Willroider,,,,
 BO0624_88411,555215,341,280,a) Landschaft mit aufziehendem Gewitter. Im Vordergrund sandige Grube mit Wasser und Baum. Bezeichnet: Ludwig Willroider. O1 auf Malpappe. 23.5X30 cm.Dunkler Rahmen.,2537,98.8,False,title_direct,Ludwig Willroider,,CORNICI,,
-BO0624_88411,555216,342,3400,1450,2541,100.0,False,positional,Ludwig Willroider,Scuola Fiorentina,,,
+BO0624_88411,555216,342,3400,1450,2541,100.0,False,positional,Ludwig Willroider,Scuola Fiorentina,,,Sec. XV
 BO0624_88411,555217,343,3560,2808Melaeor,2547,100.0,False,positional,Ludwig Willroider,,,,
 BO0624_88411,555218,344,540,- Ol auf Leinwand. Unter Glas.Dunkler Rahmen.,2565,100.0,False,positional,Josef Wopfner,,CORNICI,,
 BO0624_88411,555219,345,282,a) Ingeborg auf einem steinernen Sessel am Strande sitzend und in die Ferne schauend. Neben,2571,97.8,False,positional,C.Wohnlich,,,,

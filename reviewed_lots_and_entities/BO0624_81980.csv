@@ -1,12 +1,12 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_81980,670017,1,1,"(N. 1288) ** SECCHIELLO DA ACQUA BENEDETTA in bronzo a due becchi; ansa mobile a tre lobi; diametro m. 0,31.",5,99.0,False,positional,,,METALLI,,
+BO0624_81980,670017,1,1,"(N. 1288) ** SECCHIELLO DA ACQUA BENEDETTA in bronzo a due becchi; ansa mobile a tre lobi; diametro m. 0,31.",5,99.0,False,positional,,,METALLI,,Sec. XIII
 BO0624_81980,670018,2,I,talia settentrionale -Sec. XVII-xVIll.,11,98.6,False,positional,,,METALLI,,
-BO0624_81980,670019,3,3,"(N. 1292) PIEDE DI CANDELIERE GOTICO di bronzo dorato, ad otto lobi; m. 0,08 X 0,21. Secolo XIV.",13,98.9,False,positional,,,METALLI,,
-BO0624_81980,670020,4,4,"(N. 1304 - Tav. CXCI) MORTAIO in bronzo con due manichi ritorti e costole sul corpo; alt. m. 0,275.",14,98.9,False,positional,,,METALLI,,
-BO0624_81980,670021,5,5,(N. 1347) BRACIERE in rame e ottone su tripode a piedi,16,98.1,False,positional,,,METALLI,,
-BO0624_81980,670022,6,6,"(N. 1348) BRICCO in rame con beccuccio, coperchio, ansa rigida; alt. m. 0,24. Secolo xVIlI.",21,98.8,False,positional,,,METALLI,,
+BO0624_81980,670019,3,3,"(N. 1292) PIEDE DI CANDELIERE GOTICO di bronzo dorato, ad otto lobi; m. 0,08 X 0,21. Secolo XIV.",13,98.9,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670020,4,4,"(N. 1304 - Tav. CXCI) MORTAIO in bronzo con due manichi ritorti e costole sul corpo; alt. m. 0,275.",14,98.9,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670021,5,5,(N. 1347) BRACIERE in rame e ottone su tripode a piedi,16,98.1,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670022,6,6,"(N. 1348) BRICCO in rame con beccuccio, coperchio, ansa rigida; alt. m. 0,24. Secolo xVIlI.",21,98.8,False,positional,,,METALLI,,Sec. XIV
 BO0624_81980,670023,7,2,<!-- image -->,28,100.0,False,positional,,,METALLI,,
-BO0624_81980,670024,8,8,"(N. 1350) GRANDE BRICCO in rame a corpo sporgente con ansa tubolare e beccuccio a pera; alt. m. 0,37. Italia settentrionale-Sec.XVIlI.",29,99.2,False,positional,,,METALLI,,
+BO0624_81980,670024,8,8,"(N. 1350) GRANDE BRICCO in rame a corpo sporgente con ansa tubolare e beccuccio a pera; alt. m. 0,37. Italia settentrionale-Sec.XVIlI.",29,99.2,False,positional,,,METALLI,,Sec. XIV
 BO0624_81980,670025,9,6,"- (N. 700) CALICE di vetro a convolvolo;alt.m.0,155. Murano - Sec.XVIll.",34,100.0,False,positional,,Scuola di Murano,VETRI,,
 BO0624_81980,670026,10,10,"(N. 701) CALICE di vetro a convolvolo con nodo; alt. m.0,13. Murano -Sec. XVIll.",35,97.9,False,positional,,Scuola di Murano,VETRI,,
 BO0624_81980,670027,11,11,"(N.702) CALICE di vetro a convolvolo rigido; alt. m.0,165. Murano -Sec.XVIIl.",36,97.9,False,positional,,Scuola di Murano,VETRI,,
@@ -29,12 +29,12 @@ BO0624_81980,670043,27,27,(N. 68 - Tav. XXII) TAGLIERE con grosso piano scorre-,
 BO0624_81980,670044,28,28,"(N. 70 -Tav. XXV) CASSAPANCA in noce su pedana, intarsiata a treccia e con pilastri jonici; m.0,93x2,48x0,77. Firenze -Prima meta Sec.XVI.",85,98.8,False,positional,,,MOBILI,,
 BO0624_81980,670045,29,29,"DUE PORTE gotiche ognuna a due battenti; ogni battente con quattro formelle gotiche. Patina arida; m. 2,05 X 1",86,98.6,False,positional,,,MOBILI,,
 BO0624_81980,670046,30,30,"(N. 81) PANCHINA su capre. Postergale (forse non pertinente) a sei pannelli quadrati intagliati, quattro a foglie e fiori, due con chiavi decussate e aquila; metri",88,99.0,False,positional,,,PANNELLI,,
-BO0624_81980,670047,31,31,"(N. 121) TAVOLINO con sbarra e sostegni a profilo di vaso; m.0,68x1,28×0,54. Toscana - Sec. XVI.",95,98.3,False,positional,,,ARREDAMENTI,,
+BO0624_81980,670047,31,31,"(N. 121) TAVOLINO con sbarra e sostegni a profilo di vaso; m.0,68x1,28×0,54. Toscana - Sec. XVI.",95,98.3,False,positional,,,ARREDAMENTI,,Sec. XVI
 BO0624_81980,670048,32,32,(N. 143) PICCOLA SEDIA coperta di velluto rosso; schie-,96,97.1,False,positional,,,MOBILI,,
-BO0624_81980,670049,33,33,"(N. 149) SEGGIOLA in noce, zampe con sbarre tornite, coperta in cuoio e con frangia di seta verde; nella spalliera rombo dorato con fiori; alt.m.0,94. Piemonte (?)-Fine Sec. XVI.",98,99.1,False,positional,,,MOBILI,,
+BO0624_81980,670049,33,33,"(N. 149) SEGGIOLA in noce, zampe con sbarre tornite, coperta in cuoio e con frangia di seta verde; nella spalliera rombo dorato con fiori; alt.m.0,94. Piemonte (?)-Fine Sec. XVI.",98,99.1,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670050,34,34,"(N. 152 -Tav. LVIII) SEGGIOLA in noce, sbarra con nodo d'amore, copertura originale in cuoio, con impressioni dorate nella spalliera: cartella con scudo al centro, figure della Musica e della Retorica ai lati. Lunga frangia verde;alt.m.1,20.",99,99.3,False,positional,,,MOBILI,,
 BO0624_81980,670051,35,35,"(N.157 -Tav.LIX) DUE PORTATORCIA in noce intagliato (in tre parti) su piede triangolare a zampe leonine. Stelo con foglie, frutta, testine, ecc. e palle (medicee?); alt. m.1,83. (N. 223) FORZIERE in noce a due ordini fissi su ampia base. Sportelli a due battenti con maniglie di bron1,50X0,90X0,58. Secolo xVII.",103,71.1,False,positional,,,MOBILI,,
-BO0624_81980,670052,36,36,"sole;m.1,51X0,65x0.94. Umbria - Sec. XVII.",110,96.1,False,positional,,,MOBILI,,
+BO0624_81980,670052,36,36,"sole;m.1,51X0,65x0.94. Umbria - Sec. XVII.",110,96.1,False,positional,,,MOBILI,,Sec. XVII
 BO0624_81980,670053,37,37,<!-- image -->,112,100.0,False,positional,,,MOBILI,,
 BO0624_81980,670054,38,35,"- 39 (N. 235) CREDENZA in noce ad angoli tagliati e scomparti quadrangolari, piedi laterali lisci; m.1,32x0,58x0,93.",116,100.0,False,positional,,,SCOMPARTI,,
 BO0624_81980,670055,39,I,talia settentrionale -Sec.XVIl.,117,98.3,False,positional,,,MOBILI,,
@@ -46,16 +46,16 @@ BO0624_81980,670060,44,44,"piccola; alt.m.0,83.",125,92.3,False,positional,,,MOB
 BO0624_81980,670061,45,45,"(N. 353) CORNICE a cassetta dipinta in verde scuro, con fregi dorati, adattata a specchio; m. 0,75 X 0,91. Secolo xVII.",127,98.7,False,positional,,,MOBILI,,
 BO0624_81980,670062,46,46,"leone rampante su tralci; m. 2,57 X 1,32. Italia settentrionale -Sec. XVII.",129,97.9,False,positional,,,MOBILI,,
 BO0624_81980,670063,47,47,Secolo xVIl.,131,88.0,False,positional,,,MOBILI,,
-BO0624_81980,670064,48,48,"- (N. 786) SANTO VESCOVO in atto di benedire. Scultura in legno dorato e dipinto; alt. m. 1,50. Marche - Seconda meta del Sec. XIV, con influssi veneti.",136,100.0,False,positional,,,SCULTURE,,
+BO0624_81980,670064,48,48,"- (N. 786) SANTO VESCOVO in atto di benedire. Scultura in legno dorato e dipinto; alt. m. 1,50. Marche - Seconda meta del Sec. XIV, con influssi veneti.",136,100.0,False,positional,,,SCULTURE,,Sec. XIV
 BO0624_81980,670065,49,49,"(N. 787) MADONNA CON BAMBINO sulle ginocchia; seduta su una panca fornita di cuscino. Scultura in legno dipinto;m.1,03X0,63.Base m.0,47. Veneto -Seconda meta del Sec.XIV.",137,99.1,False,positional,,,SCULTURE,,
-BO0624_81980,670066,50,50,"(N. 795) LEONE GIACENTE. Scultura in legno dipinto di rosso; m.0,46 X0,31. Principio del Secolo XV.",138,98.4,False,positional,,,SCULTURE,,
+BO0624_81980,670066,50,50,"(N. 795) LEONE GIACENTE. Scultura in legno dipinto di rosso; m.0,46 X0,31. Principio del Secolo XV.",138,98.4,False,positional,,,SCULTURE,,Sec. XV
 BO0624_81980,670067,51,51,"to,dorato e dipinto a fiori;m.0.45x 0,31. Veneto -Secolo xV.",140,97.4,False,positional,,,SCULTURE,,
 BO0624_81980,670068,52,52,"m.0,57X0,21.",145,88.0,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670069,53,54,54,151,100.0,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670070,54,55,"(N. 1085) PIANETA in broccato d'argento, motivi a torciglione. Gallone d'oro. Foderata in tela verde; alt.m.1,16.",153,98.6,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670071,55,71,"56 (N. 1113) PIVIALE di velluto rosso con scudo di broccato rosa a opera piccola d'oro; gallone e frangia d'oro, fodera verde;alt.m.1,38. SecoloXVI.",159,100.0,False,positional,,,STOFFE; VELLUTI,,
+BO0624_81980,670070,54,55,"(N. 1085) PIANETA in broccato d'argento, motivi a torciglione. Gallone d'oro. Foderata in tela verde; alt.m.1,16.",153,98.6,False,positional,,,STOFFE; VELLUTI,,Sec. XI
+BO0624_81980,670071,55,71,"56 (N. 1113) PIVIALE di velluto rosso con scudo di broccato rosa a opera piccola d'oro; gallone e frangia d'oro, fodera verde;alt.m.1,38. SecoloXVI.",159,100.0,False,positional,,,STOFFE; VELLUTI,,Sec. XII
 BO0624_81980,670072,56,57,Secolo xVI.,161,87.0,False,positional,,Scuola Padovana,STOFFE; VELLUTI,,
-BO0624_81980,670073,57,58,"(N. 1120) FREGIO di velluto con riporti di seta, ricami a vari colori, argento e oro; m. 1,48 x 0,26. Secolo XVI.",162,98.6,False,positional,,,STOFFE; VELLUTI,,
+BO0624_81980,670073,57,58,"(N. 1120) FREGIO di velluto con riporti di seta, ricami a vari colori, argento e oro; m. 1,48 x 0,26. Secolo XVI.",162,98.6,False,positional,,,STOFFE; VELLUTI,,Sec. XVI
 BO0624_81980,670074,58,59,PIATTO concavo in maiolica decorato a simboli e cico-,166,97.2,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670075,59,60,Cina -Secolo XVIlI.,169,91.9,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670076,60,61,"nati); alt. m.0,30. Cina - Epoca Ming.",171,95.4,False,positional,,,STOFFE; VELLUTI,,
@@ -70,26 +70,26 @@ BO0624_81980,670084,68,69,"- DUE POTICHE in porcellana a forma di uovo, con deco
 BO0624_81980,670085,69,70,"PIATTO concavo con decorazione policroma: drago nel fondo; diam. m.0,22. Cina - Secolo xVIlI.",187,98.3,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670086,70,71,"- GRANDE PITTURA a tempera su carta in nove grandi pannelli, con paesaggi e figure; ogni pannello m. 3,50x1,20. Cina - Secolo XVIlI. Vedi illustrazioni.",189,100.0,False,title_direct,,,PANNELLI,,
 BO0624_81980,670087,71,72,"SEI PANNELLI a tempera su carta con paesaggi e figure: ogni pannello m. 2,10 X 1,00. Cina -Secolo xVlI (?) Vedi illustrazione.",190,98.7,False,positional,,,PANNELLI,,
-BO0624_81980,670088,72,73,"(1414)* CONSOLLE in legno intagliato e dorato con testa femminile sul davanti;piano di marmo violaceo a grandi chiazze bianche;m.0,92 X 1,30X 0,86. Stile ed epoca Luigi XVI.",196,99.1,False,positional,,,MOBILI,,
+BO0624_81980,670088,72,73,"(1414)* CONSOLLE in legno intagliato e dorato con testa femminile sul davanti;piano di marmo violaceo a grandi chiazze bianche;m.0,92 X 1,30X 0,86. Stile ed epoca Luigi XVI.",196,99.1,False,positional,,,MOBILI,,Sec. XV
 BO0624_81980,670089,73,74,"gni a telamoni in marmo; m. 0,90 X 1,43 X 0,70. Fine del secolo xvIll.",198,97.8,False,positional,,,MOBILI,,
-BO0624_81980,670090,74,75,"(1432)* DUE FALDISTORI dipinti a color legno rossastro, coperti di seta verde a figure chiare; alt. m. 0,76. Fine del secolo xVill.",199,98.8,False,positional,,,MOBILI,,
-BO0624_81980,670091,75,76,"(1446) SCRIVANIA in mogano a quattro zampe sottili; piedini in bronzo e gradino con ringhiera di bronzo e marmo bianco; m.0,96 X 0,62. Fine del secolo xvlll.",200,99.0,False,positional,,,MOBILI,,
+BO0624_81980,670090,74,75,"(1432)* DUE FALDISTORI dipinti a color legno rossastro, coperti di seta verde a figure chiare; alt. m. 0,76. Fine del secolo xVill.",199,98.8,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670091,75,76,"(1446) SCRIVANIA in mogano a quattro zampe sottili; piedini in bronzo e gradino con ringhiera di bronzo e marmo bianco; m.0,96 X 0,62. Fine del secolo xvlll.",200,99.0,False,positional,,,MOBILI,,Sec. XV
 BO0624_81980,670092,76,77,"m.0,90X1,30X0,57. talia -Stile ed epoca Luigi XVI. Vedi illustrazione.",205,84.5,False,positional,,,MOBILI,,
-BO0624_81980,670093,77,78,"(1425)* DUE TAVOLINI DA NOTTE in legno chiaro. Piani di marmo rosa venato e intarsiato di marmo verde. Pilastri con busti femminili in pastiglia dorata; metri 0,91×0,43X0,36.",207,99.1,False,positional,,,MOBILI,,
+BO0624_81980,670093,77,78,"(1425)* DUE TAVOLINI DA NOTTE in legno chiaro. Piani di marmo rosa venato e intarsiato di marmo verde. Pilastri con busti femminili in pastiglia dorata; metri 0,91×0,43X0,36.",207,99.1,False,positional,,,MOBILI,,Sec. XV
 BO0624_81980,670094,78,79,"d'armi; m. 0,98 X 1,95 X 0,60. Francia -Tardo stile Luigi XVI.",212,97.4,False,positional,,,MOBILI,,
-BO0624_81980,670095,79,80,"(1438) TAVOLA RETTANGOLARE in legno chiaro intagliato; piano ad angoli smussati; alt. m. 1,19. Stile ed epoca Luigi XVI.",213,98.7,False,positional,,,MOBILI,,
-BO0624_81980,670096,80,81,"(1444) SCRIVANIA A MURO in noce, piano profilato, orli scanalati. Maniglie e bocchette in bronzo dorato;metri 0,80X1,25X0,61.",214,98.8,False,positional,,,MOBILI,,
-BO0624_81980,670097,81,82,"(1463)* SPECCHIERA in legno tinto a mogano intagliato e dorato (foglie e uva su fondo azzurro) sormontata da rami d'alloro e trofeo d'armi; m.0,69x 1,53, luce metri 1,05X0,55.",218,99.1,False,positional,,,MOBILI,,
+BO0624_81980,670095,79,80,"(1438) TAVOLA RETTANGOLARE in legno chiaro intagliato; piano ad angoli smussati; alt. m. 1,19. Stile ed epoca Luigi XVI.",213,98.7,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670096,80,81,"(1444) SCRIVANIA A MURO in noce, piano profilato, orli scanalati. Maniglie e bocchette in bronzo dorato;metri 0,80X1,25X0,61.",214,98.8,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670097,81,82,"(1463)* SPECCHIERA in legno tinto a mogano intagliato e dorato (foglie e uva su fondo azzurro) sormontata da rami d'alloro e trofeo d'armi; m.0,69x 1,53, luce metri 1,05X0,55.",218,99.1,False,positional,,,MOBILI,,Sec. XV
 BO0624_81980,670098,82,83,"zurro; alt.m.0,80.",223,91.4,False,positional,,,MOBILI,,
 BO0624_81980,670099,83,84,(1524h)* SEDIA in legno bianco e oro coperta di raso,227,97.0,False,positional,,,MOBILI,,
-BO0624_81980,670100,84,77,"- 85 (1540) TAVOLA circolare in mogano a quattro zampe con riporti in bronzo dorato,piano di scagliola a porfido;nel centro vaso con colombe;m.0,79 x0.67.",233,100.0,False,positional,,,VASI,,
+BO0624_81980,670100,84,77,"- 85 (1540) TAVOLA circolare in mogano a quattro zampe con riporti in bronzo dorato,piano di scagliola a porfido;nel centro vaso con colombe;m.0,79 x0.67.",233,100.0,False,positional,,,VASI,,Sec. XVI
 BO0624_81980,670101,85,I,mpero.,234,90.9,False,positional,,,MOBILI,,
-BO0624_81980,670102,86,86,(1472) FIGURA D'UOMO in abito classico con cane cor-,235,97.0,False,positional,,,MOBILI,,
-BO0624_81980,670103,87,87,"(1471) GUERRIERO ANTICO CON LEONE;statuetta in porcellana; alt.m. 0,21. Sassonia -Fine del secolo xVIll.",237,98.5,False,positional,,,MOBILI,,
-BO0624_81980,670104,88,88,"(1478) PIATTINO in porcellana bianca con paesaggio marino in cornice di trina dorata,rovescio dellorlo color",238,98.6,False,positional,,,MOBILI,,
-BO0624_81980,670105,89,89,"(1580)* SVEGLIA in bronzo dorato a parallelepipedo;facce esterne in cristallo; alt. m. 0,20; per 0,11 x 0,08. Tardo Impero.",243,98.7,False,positional,,,MOBILI,,
+BO0624_81980,670102,86,86,(1472) FIGURA D'UOMO in abito classico con cane cor-,235,97.0,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670103,87,87,"(1471) GUERRIERO ANTICO CON LEONE;statuetta in porcellana; alt.m. 0,21. Sassonia -Fine del secolo xVIll.",237,98.5,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670104,88,88,"(1478) PIATTINO in porcellana bianca con paesaggio marino in cornice di trina dorata,rovescio dellorlo color",238,98.6,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670105,89,89,"(1580)* SVEGLIA in bronzo dorato a parallelepipedo;facce esterne in cristallo; alt. m. 0,20; per 0,11 x 0,08. Tardo Impero.",243,98.7,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670106,90,91,Impero.,246,80.0,False,positional,,,MOBILI,,
-BO0624_81980,670107,91,92,"(1622) LAMPADARIO in legno dorato e vetro dipinto azzurro e oro a sei bracci; m. 1,30 x 0,80. Restaurazione.",247,98.6,False,positional,,,MOBILI,,
+BO0624_81980,670107,91,92,"(1622) LAMPADARIO in legno dorato e vetro dipinto azzurro e oro a sei bracci; m. 1,30 x 0,80. Restaurazione.",247,98.6,False,positional,,,MOBILI,,Sec. XVII
 BO0624_81980,670108,92,93,DUE PICCOLE ETAGERE in legno a tre ripiani e gambe,248,97.1,False,positional,,,MOBILI,,
 BO0624_81980,670109,93,94,DUE FLACONI PORTAPROFUMI di cristallo di rocca con tappo di bronzo decorato a sfinge. mpero.,253,94.9,False,positional,,,MOBILI,,
 BO0624_81980,670110,94,95,DUE CORNICETTE in bronzo dorato con entro sottovetro due ritratti di personaggi napoleonici in cera. Impero.,255,98.6,False,positional,,,MOBILI,,
@@ -103,17 +103,17 @@ BO0624_81980,670117,101,102,"PARTE DI UN SERVIZIO da tavola (Compagnia delle Ind
 BO0624_81980,670118,102,103,GRANDE PIATTO in bronzo champleve a fondo azzurro con decorazione policroma; smalto bianco al rovescio;,271,98.1,False,positional,,,MOBILI,,
 BO0624_81980,670119,103,104,"VASO DI BRONZO con figura sbalzata; alt. m.0,19.",273,95.7,False,positional,,,VASI,,
 BO0624_81980,670120,104,105,Cina -Epoca Ming (?),276,88.2,False,positional,,,MOBILI,,
-BO0624_81980,670121,105,106,"VAsO a forma di uovo allungato in porcellana craquele; alt. m.0,30. Cina - Secolo XVII.",277,97.6,False,positional,,,VASI,,
+BO0624_81980,670121,105,106,"VAsO a forma di uovo allungato in porcellana craquele; alt. m.0,30. Cina - Secolo XVII.",277,97.6,False,positional,,,VASI,,Sec. XVII
 BO0624_81980,670122,106,107,PIATTO di porcellana con decorazione policroma.,278,95.8,False,positional,,,MOBILI,,
 BO0624_81980,670123,107,108,"COPPA CIRCOLARE in porcellana bianca e decorazioni policrome; diam.m.0,19. Giappone - Secolo XIx.",280,97.9,False,positional,,,MOBILI,,
 BO0624_81980,670124,108,109,Giappone - Secolo xvIll.,282,91.3,False,positional,,,MOBILI,,
 BO0624_81980,670125,109,110,- VASETTO A DUE ANSE decorato a tre colori. Giappone - Secolo XIx.,284,100.0,False,positional,,,MOBILI,,
-BO0624_81980,670126,110,111,"(N. 1277) PICCOLA LUCERNA in rame. Un cucchiaio in basso, una sirena e un danzatore graffiti al disopra. Termina a testa equina; alt.m.0,32. Arte etrusca.",288,98.6,False,positional,,,METALLI,,
-BO0624_81980,670127,111,112,"(N. 1283) OSTENSORIO in rame dorato e cesellato. Piede da piramide; alt. m. 0,32.",289,97.3,False,positional,,,METALLI,,
-BO0624_81980,670128,112,113,"(N. 1286) RELIQUARIO in rame dorato su piede ottagonale ornato di quattro nielli rotondi con figure di santi. Cupolino conico. Teca cilindrica in vetro moderna; altezza m. 0,35. Secolo xV.",291,98.9,False,positional,,,METALLI,,
+BO0624_81980,670126,110,111,"(N. 1277) PICCOLA LUCERNA in rame. Un cucchiaio in basso, una sirena e un danzatore graffiti al disopra. Termina a testa equina; alt.m.0,32. Arte etrusca.",288,98.6,False,positional,,,METALLI,,Sec. XIII
+BO0624_81980,670127,111,112,"(N. 1283) OSTENSORIO in rame dorato e cesellato. Piede da piramide; alt. m. 0,32.",289,97.3,False,positional,,,METALLI,,Sec. XIII
+BO0624_81980,670128,112,113,"(N. 1286) RELIQUARIO in rame dorato su piede ottagonale ornato di quattro nielli rotondi con figure di santi. Cupolino conico. Teca cilindrica in vetro moderna; altezza m. 0,35. Secolo xV.",291,98.9,False,positional,,,METALLI,,Sec. XIII
 BO0624_81980,670129,113,114,"0,08 X 0,17.",296,84.6,False,positional,,,METALLI,,
-BO0624_81980,670130,114,115,"(N. 1352) LANTERNA a mano in rame sbalzato e dipinto di verde e rosso; vetri antichi; m. 0,22 X 0,22 X 0,40. Venezia - Secolo XVlll.",297,98.4,False,positional,,,METALLI,,
-BO0624_81980,670131,115,116,"(N. 1382) PIATTO in ottone con orlo liscio sporgente; diam. m.0,36. <!-- image -->",298,92.4,False,positional,,,METALLI,,
+BO0624_81980,670130,114,115,"(N. 1352) LANTERNA a mano in rame sbalzato e dipinto di verde e rosso; vetri antichi; m. 0,22 X 0,22 X 0,40. Venezia - Secolo XVlll.",297,98.4,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670131,115,116,"(N. 1382) PIATTO in ottone con orlo liscio sporgente; diam. m.0,36. <!-- image -->",298,92.4,False,positional,,,METALLI,,Sec. XIV
 BO0624_81980,670132,116,117,"(N. 705) COPPA da vino in vetro, svasata;diam.0,135. Murano-Secolo XVlll.",306,97.1,False,positional,,Scuola di Murano,VETRI,,
 BO0624_81980,670133,117,118,"- (N. 708) FRUTTIERA di vetro con piede a convolvolo, anello a tortiglione e cordone azzurro; alt. m. 0,09, diam. m.0,18. Murano-Secolo xVlll.",308,100.0,False,positional,,Scuola di Murano,VETRI,,
 BO0624_81980,670134,118,119,"(N. 711) FRUTTIERA in vetro baccellato su piede a tortiglione, orlato di verde; alt.m.0,135, diam.m.0,25. Murano-Secolo XVlll.",309,98.3,False,positional,,Scuola di Murano,VETRI,,
@@ -124,7 +124,7 @@ BO0624_81980,670138,122,123,- 124 (N. 585 -Tav.CXI) GRANDE PIATTO in maiolica. S
 BO0624_81980,670139,123,125,"(N. 599) BROCCA con due anse, beccuccio verde e marmorizzato di nero; alt. m.0,24. Montelupo -Secolo xVll.",329,98.0,False,positional,,,MAIOLICHE,,
 BO0624_81980,670140,124,126,"(N. 605) CRCIO ansato con orlo a beccuccio in terracotta verniciata di verde marmorizzato; altezza m.0,50. Montelupo -Secolo XVIl-xVIll.",330,98.5,False,positional,,,MAIOLICHE,,
 BO0624_81980,670141,125,127,"- (N. 617 -Tav. CVIII) ALBERELLO in maiolica azzurra dipinta a vari colori. Iscrizione: (Gomedera ); metri 0,19 X 0,11.",332,100.0,False,positional,,,MAIOLICHE,,
-BO0624_81980,670142,126,128,Faenza - Secolo XVII.,334,100.0,False,positional,,Scuola Faentina,MAIOLICHE,,
+BO0624_81980,670142,126,128,Faenza - Secolo XVII.,334,100.0,False,positional,,Scuola Faentina,MAIOLICHE,,Sec. XVII
 BO0624_81980,670143,127,123,"- 129 (N. 619) TONDO in maiolica azzurra e bianca a sei foglie di quercia; nel centro una R; diametro m. 0,29.",342,100.0,False,positional,,,MAIOLICHE,,
 BO0624_81980,670144,128,130,"(N. 620) VASO a corpo piatto su piede con due anse. Fondo bianco con pitture gialle, azzurre e arancioni, stemmi sui due lati; alt. metri 0,16. Faenza - Secolo Xvll. Vedi illustrazione.",344,98.9,False,positional,,Scuola Faentina,VASI,,
 BO0624_81980,670145,129,131,"(N.621) ALBERELLO con figure di caprone e di un putto che tiene un albero; iscrizione:(Conf. d'alchermes); alt.m.0,19.",345,98.2,False,positional,,,MAIOLICHE,,
@@ -132,10 +132,10 @@ BO0624_81980,670146,130,132,"(N. 622) CANDELIERE in maiolica bianca,piede baccel
 BO0624_81980,670147,131,133,(N. 628) ALBERELLO con fiori bianchi e foglie verdi su fondo azzurro; iscrizione entro cartella:《Frocs.D. Epo-,351,98.1,False,positional,,,MAIOLICHE,,
 BO0624_81980,670148,132,134,"inferiore:m.1,19 X1,83X 0,99.",362,93.3,False,positional,,,MOBILI,,
 BO0624_81980,670149,133,135,"(N. 69 -Tav. XXIII e XXIV) QUATTRO PANCHE con dossale a sette colonnini jonici;m.1,18x 2,57X0,50 ciascuna.",363,98.0,False,positional,,,MOBILI,,
-BO0624_81980,670150,134,136,"vasariano;m.0,85 X 0,87 X 0,42. Toscana -Secolo XVI.",370,96.1,False,positional,,,MOBILI,,
+BO0624_81980,670150,134,136,"vasariano;m.0,85 X 0,87 X 0,42. Toscana -Secolo XVI.",370,96.1,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670151,135,137,"(N. 154 - Tav.LVIII) SEGGIOLONE, zampe con sbarre tornite e finali ad acanto. Sulla spalliera impressioni in",371,98.1,False,positional,,,MOBILI,,
 BO0624_81980,670152,136,130,132,376,100.0,False,positional,,,MOBILI,,
-BO0624_81980,670153,137,146,"oro a piccoli ferri: la Musica e la Retorica; alt. m. 1,12. Piemonte-Fine del secolo XVI.",379,100.0,False,positional,,,MOBILI,,
+BO0624_81980,670153,137,146,"oro a piccoli ferri: la Musica e la Retorica; alt. m. 1,12. Piemonte-Fine del secolo XVI.",379,100.0,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670154,138,138,(N. 161) DUE CANDELIERI in legno intagliato verde e,381,96.0,False,positional,,,MOBILI,,
 BO0624_81980,670155,139,139,"(N. 249) TAVOLA in noce a quattro zampe tornite;piano con quattro ovali di pietra paesite; m. 0,75 x 0,96 x 0,80. Bologna -Fine secolo xVIl. Vedi illustrazione.",383,98.7,False,positional,,Scuola Bolognese,MOBILI,,
 BO0624_81980,670156,140,140,"- (N. 255) SCRIVANIA da muro in noce, piano arcuato anteriormente; due sportelli ai lati; m.0,80 X 1,28x 0,72. Secolo xVII.",385,100.0,False,positional,,,MOBILI,,
@@ -145,7 +145,7 @@ BO0624_81980,670159,143,143,"m.0,64.",394,75.0,False,positional,,,MOBILI,,
 BO0624_81980,670160,144,144,"(N. 360) DUE CONSOLLE a mensola intagliate e dorate, m.0,99X1,05X0,46.",398,97.0,False,positional,,,MOBILI,,
 BO0624_81980,670161,145,145,"Sullo sportello il pellicano; m.0,78.",400,94.6,False,positional,,,MOBILI,,
 BO0624_81980,670162,146,I,talia settentrionale - Secolo. xVIll.,401,98.5,False,positional,,,MOBILI,,
-BO0624_81980,670163,147,147,"- (N. 367) PICCOLA CONSOLLE in mogano a due piani e gradino con specchio; m. 1,05 x 0,60 X 0,26. Secolo XVIII.",405,100.0,False,positional,,,MOBILI,,
+BO0624_81980,670163,147,147,"- (N. 367) PICCOLA CONSOLLE in mogano a due piani e gradino con specchio; m. 1,05 x 0,60 X 0,26. Secolo XVIII.",405,100.0,False,positional,,,MOBILI,,Sec. XVIII
 BO0624_81980,670164,148,148,"(N. 373) SOFA' ad alta spalliera traforata, laccato con cineserie rosso e oro,e quattro seggiole analoghe; metri 1,05X 1,35; le sedie alt. m. 0,98. Venezia -Meta del secolo XVIlI.",406,98.8,False,positional,,,SEDIE,,
 BO0624_81980,670165,149,149,"(N.381) TAVOLA DA GIUOCO.Piano in radica di noce intarsiata di legni vari con angoli lobati. Zampe a profilo convesso in mogano ed altri legni; m. 0,80 X 0,95 X 0,70. Veneto -Secolo XVIlI.",407,98.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81980,670166,150,150,"- (N. 382) TAVOLINO in noce, piano quadrato, a una gamba su tre piedi a volute; alt. m. 0,65. Venezia - Secolo xVIlI.",409,100.0,False,positional,,,ARREDAMENTI,,
@@ -153,68 +153,68 @@ BO0624_81980,670167,151,151,"(N. 389) PICCOLO TAVOLINO rotondo in mogano su tre 
 BO0624_81980,670168,152,152,"- (N. 395) POLTRONA a bracciuoli in noce intagliato, coperta di damasco verde; alt. m. 1,02. Italia -Prima meta del secolo XVill.",412,100.0,False,positional,,,POLTRONE,,
 BO0624_81980,670169,153,153,Italia -Secolo xVIII.,414,90.5,False,positional,,,MOBILI,,
 BO0624_81980,670170,154,154,(N. 868 -Tav.CXLIV) MADONNA con chioma sciolta in <!-- image -->,418,90.0,False,positional,,,SCULTURE,,
-BO0624_81980,670171,155,155,"(N. 860) SANTA con turbante e chioma sciolta. Busto in legno intagliato e dipinto, con traccie di doratura. Manca delle mani; alt. m. 0,32. Alto Adige -Inizio del secolo XVI.",425,98.8,False,positional,,,SCULTURE,,
-BO0624_81980,670172,156,156,"- (N. 851) DUE MENSOLE in terracotta invetriata bianca di tipo robbiano con sostegni a foglie di acanto; metri 0,13X0,18X0,20. Lazio -Fine del secolo XVI.",427,100.0,False,positional,,,SCULTURE,,
+BO0624_81980,670171,155,155,"(N. 860) SANTA con turbante e chioma sciolta. Busto in legno intagliato e dipinto, con traccie di doratura. Manca delle mani; alt. m. 0,32. Alto Adige -Inizio del secolo XVI.",425,98.8,False,positional,,,SCULTURE,,Sec. XVI
+BO0624_81980,670172,156,156,"- (N. 851) DUE MENSOLE in terracotta invetriata bianca di tipo robbiano con sostegni a foglie di acanto; metri 0,13X0,18X0,20. Lazio -Fine del secolo XVI.",427,100.0,False,positional,,,SCULTURE,,Sec. XVI
 BO0624_81980,670173,157,157,"- (N. 840) ACQUASANTIERA con sostegno cilindrico tornito;alt.m.1,34; diam.del piatto m.0,75.",429,100.0,False,positional,,,SCULTURE,,
 BO0624_81980,670174,158,158,"- (N. 949) PICCOLO ARAZZO a fiori: giaggioli, dalie e convolvoli su fondo nero al centro. In basso scoiattolo, coniglio, uccello, ecc.; m. 1,98 X 1,02.",437,100.0,False,title_direct,,,ARAZZO,,
-BO0624_81980,670175,159,159,"(N. 1029) PEDANA a fondo marrone giallastro chiaro; motivi geometrici neri e viola. Bordura dello stesso colore; m. 1,90 X 1,30. Secolo XIx.",443,98.5,False,positional,,,TAPPETI,,
-BO0624_81980,670176,160,160,"(N. 1024) TAPPETO da orazione con porta rossa e fiori stilizzati;m.1,57 X 1,22. Sec. XIX.",444,97.6,False,title_direct,,,TAPPETI,,
-BO0624_81980,670177,161,161,(N.1011 -Tav. CLXXII) TAPPETO del tipo Ghiordes con orlo azzurro e fiori gialli su fondo azzurro. Un po' guasto;,445,98.1,False,title_direct,,,TAPPETI,,
+BO0624_81980,670175,159,159,"(N. 1029) PEDANA a fondo marrone giallastro chiaro; motivi geometrici neri e viola. Bordura dello stesso colore; m. 1,90 X 1,30. Secolo XIx.",443,98.5,False,positional,,,TAPPETI,,Sec. XI
+BO0624_81980,670176,160,160,"(N. 1024) TAPPETO da orazione con porta rossa e fiori stilizzati;m.1,57 X 1,22. Sec. XIX.",444,97.6,False,title_direct,,,TAPPETI,,Sec. XIX
+BO0624_81980,670177,161,161,(N.1011 -Tav. CLXXII) TAPPETO del tipo Ghiordes con orlo azzurro e fiori gialli su fondo azzurro. Un po' guasto;,445,98.1,False,title_direct,,,TAPPETI,,Sec. XI
 BO0624_81980,670178,162,3,",05 X 2,23.",446,90.0,False,positional,,,TAPPETI,,
 BO0624_81980,670179,163,154,<!-- image -->,453,100.0,False,positional,,,TAPPETI,,
 BO0624_81980,670180,164,167,- 168,455,100.0,False,positional,,,TAPPETI,,
 BO0624_81980,670181,165,162,Asia Minore - Sec.XVIl.,457,90.9,False,positional,,,TAPPETI,,
 BO0624_81980,670182,166,163,"(N. 989) PEDANA del tipo Ghiordes;m. 2,15X1,15.",458,95.5,False,positional,,,TAPPETI,,
-BO0624_81980,670183,167,164,"- (N. 1033) TRE FRAMMENTI di stoffe dell'Egitto GrecoRomano,con motivi ornamentali geometrici di tarda derivazione ellenistica. Secolo IV-V.",464,100.0,False,positional,,,STOFFE,,
+BO0624_81980,670183,167,164,"- (N. 1033) TRE FRAMMENTI di stoffe dell'Egitto GrecoRomano,con motivi ornamentali geometrici di tarda derivazione ellenistica. Secolo IV-V.",464,100.0,False,positional,,,STOFFE,,Sec. XI
 BO0624_81980,670184,168,165,Sec.IV-V.,466,80.0,False,positional,,,STOFFE,,
-BO0624_81980,670185,169,166,"(N. 1035) QUATTRO FRAMMENTI di stoffe egiziane con decorazioni figurate di tipo ellenistico e due frammenti di stoffe copte pure con decorazione figurata. Cfr. Wulff-Volbach, Spatantike und Koptische Stoffe, tav. 68 e 81.",467,99.1,False,positional,,,STOFFE,,
+BO0624_81980,670185,169,166,"(N. 1035) QUATTRO FRAMMENTI di stoffe egiziane con decorazioni figurate di tipo ellenistico e due frammenti di stoffe copte pure con decorazione figurata. Cfr. Wulff-Volbach, Spatantike und Koptische Stoffe, tav. 68 e 81.",467,99.1,False,positional,,,STOFFE,,Sec. XI
 BO0624_81980,670186,170,157,<!-- image -->,477,100.0,False,positional,,,STOFFE,,
-BO0624_81980,670187,171,169,"(N. 1038) SETTE FRAMMENTI di stoffe egiziane con decorazioni varie a animali e figure umane, del periodo greco-romano,cristiano e copto.",479,98.5,False,positional,,,STOFFE,,
+BO0624_81980,670187,171,169,"(N. 1038) SETTE FRAMMENTI di stoffe egiziane con decorazioni varie a animali e figure umane, del periodo greco-romano,cristiano e copto.",479,98.5,False,positional,,,STOFFE,,Sec. XI
 BO0624_81980,670188,172,173,- 170 periodo copto. Sec. V-VII.,481,100.0,False,positional,,,STOFFE,,
 BO0624_81980,670189,173,171,Sec. VI-VII.,484,83.3,False,positional,,,STOFFE,,
-BO0624_81980,670190,174,172,"(N. 1041) CINQUE FRAMMENTI di stoffe copte con decorazione geometrica,floreale e figurata,in vari colori.",485,98.1,False,positional,,,STOFFE,,
-BO0624_81980,670191,175,174,(N. 1043) FRAMMENTO di stoffa copta con motivo di,488,95.8,False,positional,,,STOFFE,,
-BO0624_81980,670192,176,175,(N. 1044) DUE FRAMMENTI di una stessa stoffa copta con decorazione figurata. Sec.VI-VII.,490,97.6,False,positional,,,STOFFE,,
-BO0624_81980,670193,177,176,"- (N. 1408*) SECRETAIRE intarsiato con piano a ribalta nel mezzo e due battenti al di sotto;m.1,36x 0,58 X 0,35. Italia-Stile Luigi XVI.",495,100.0,False,positional,,,MOBILI,,
-BO0624_81980,670194,178,177,"(N. 1417*) CONSOLLE a due lati curvi ed a due piani in mogano con ornamenti riportati di bronzo cesellato e dorato.Piano superiore di marmo bianco con ringhiera; m.0,86X0,92X0,41.",496,98.9,False,positional,,,MOBILI,,
+BO0624_81980,670190,174,172,"(N. 1041) CINQUE FRAMMENTI di stoffe copte con decorazione geometrica,floreale e figurata,in vari colori.",485,98.1,False,positional,,,STOFFE,,Sec. XI
+BO0624_81980,670191,175,174,(N. 1043) FRAMMENTO di stoffa copta con motivo di,488,95.8,False,positional,,,STOFFE,,Sec. XI
+BO0624_81980,670192,176,175,(N. 1044) DUE FRAMMENTI di una stessa stoffa copta con decorazione figurata. Sec.VI-VII.,490,97.6,False,positional,,,STOFFE,,Sec. XI
+BO0624_81980,670193,177,176,"- (N. 1408*) SECRETAIRE intarsiato con piano a ribalta nel mezzo e due battenti al di sotto;m.1,36x 0,58 X 0,35. Italia-Stile Luigi XVI.",495,100.0,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670194,178,177,"(N. 1417*) CONSOLLE a due lati curvi ed a due piani in mogano con ornamenti riportati di bronzo cesellato e dorato.Piano superiore di marmo bianco con ringhiera; m.0,86X0,92X0,41.",496,98.9,False,positional,,,MOBILI,,Sec. XV
 BO0624_81980,670195,179,178,Francia -Fine del sec.XVill.,501,92.9,False,positional,,,MOBILI,,
-BO0624_81980,670196,180,179,(N. 1441*) CONSOLLE in mogano con riporti di bronzo. Due piani di marmo bianco e ringhiera di bronzo; me-,502,98.0,False,positional,,,MOBILI,,
-BO0624_81980,670197,181,180,"(N. 1442*-Tav.CXCV) TAVOLA intagliata e dorata, sostenuta da quattro cariatidi sporgenti da base di legno nero; piano di marmo rosa venato; m.0,88x0,74x0,54.",507,98.7,False,positional,,,MOBILI,,
-BO0624_81980,670198,182,181,"(N. 1469) SERVITO DA CAFFE per una sola persona in porcellana azzurra a fiori quadrettata d'oro, con figure su fondo bianco: un vassoio a contorno trilobato,una tazzina senza piattino, una caffettiera senza coperchio,",509,99.1,False,positional,,,MOBILI,,
-BO0624_81980,670199,183,182,"(N.1464*) SPECCHIERA RETTANGOLARE.Cimasa con scudo a mascherone. Ai lati due delfini a code intrecciate. Sorretta da sfingi; m. 1,25 x 1,42, luce m. 0,75 x 0,92. Fine del sec. XVIll.",511,98.8,False,positional,,,MOBILI,,
+BO0624_81980,670196,180,179,(N. 1441*) CONSOLLE in mogano con riporti di bronzo. Due piani di marmo bianco e ringhiera di bronzo; me-,502,98.0,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670197,181,180,"(N. 1442*-Tav.CXCV) TAVOLA intagliata e dorata, sostenuta da quattro cariatidi sporgenti da base di legno nero; piano di marmo rosa venato; m.0,88x0,74x0,54.",507,98.7,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670198,182,181,"(N. 1469) SERVITO DA CAFFE per una sola persona in porcellana azzurra a fiori quadrettata d'oro, con figure su fondo bianco: un vassoio a contorno trilobato,una tazzina senza piattino, una caffettiera senza coperchio,",509,99.1,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670199,183,182,"(N.1464*) SPECCHIERA RETTANGOLARE.Cimasa con scudo a mascherone. Ai lati due delfini a code intrecciate. Sorretta da sfingi; m. 1,25 x 1,42, luce m. 0,75 x 0,92. Fine del sec. XVIll.",511,98.8,False,positional,,,MOBILI,,Sec. XV
 BO0624_81980,670200,184,183,Francia -Direttorio.,513,90.0,False,positional,,,MOBILI,,
-BO0624_81980,670201,185,184,"(N.1527*) DUE CONSOLLE a quattro zampe bianche e oro. Piano di marmo bianco venato; m. 0,95x1,15x0,48. Impero.",514,98.1,False,positional,,,MOBILI,,
-BO0624_81980,670202,186,185,"(N. 1494*) VASO di baccarat, piede, anse (mascheroni e delfini) e montatura in bronzo dorato e cesellato; alt. m.0,28. <!-- image -->",515,95.5,False,positional,,,VASI,,
-BO0624_81980,670203,187,186,"N. 1584) CALAMAIO in bronzo cesellato con quattro sfingi dorate e tre mascheroni, su piede marmoreo; alt. m.0,11. Impero.",521,98.7,False,positional,,,MOBILI,,
-BO0624_81980,670204,188,187,"(N.1585*) DUE ALZATE da frutta con tre piatti di baccarat sfaccettato. Sostegno in bronzo dorato e cesellato con amorino su piede circolare; alt. m. 0,63. Tardo Impero.",522,98.8,False,positional,,,PIATTI,,
-BO0624_81980,670205,189,188,(N. 1600*) DUE REGGIMOLLE da muro in bronzo do-,523,95.5,False,positional,,,MOBILI,,
+BO0624_81980,670201,185,184,"(N.1527*) DUE CONSOLLE a quattro zampe bianche e oro. Piano di marmo bianco venato; m. 0,95x1,15x0,48. Impero.",514,98.1,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670202,186,185,"(N. 1494*) VASO di baccarat, piede, anse (mascheroni e delfini) e montatura in bronzo dorato e cesellato; alt. m.0,28. <!-- image -->",515,95.5,False,positional,,,VASI,,Sec. XV
+BO0624_81980,670203,187,186,"N. 1584) CALAMAIO in bronzo cesellato con quattro sfingi dorate e tre mascheroni, su piede marmoreo; alt. m.0,11. Impero.",521,98.7,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670204,188,187,"(N.1585*) DUE ALZATE da frutta con tre piatti di baccarat sfaccettato. Sostegno in bronzo dorato e cesellato con amorino su piede circolare; alt. m. 0,63. Tardo Impero.",522,98.8,False,positional,,,PIATTI,,Sec. XVI
+BO0624_81980,670205,189,188,(N. 1600*) DUE REGGIMOLLE da muro in bronzo do-,523,95.5,False,positional,,,MOBILI,,Sec. XVII
 BO0624_81980,670206,190,189,"brunite); alt. m. 0,24. Impero.",526,92.6,False,positional,,,MOBILI,,
 BO0624_81980,670207,191,190,Francia -Luigi Filippo.,528,91.3,False,positional,,,MOBILI,,
-BO0624_81980,670208,192,191,"(N. 1638) CALAMAIO DOPPIO in argento brunito a giorno, spegnicandela separato; m. 0,20 X 0,27. Luigi Filippo.",529,98.1,False,positional,,,MOBILI,,
-BO0624_81980,670209,193,192,"(N. 1654) SETA LILLA a piccoli motivi rilevati lucidi e opachi; m.1,20 X3. Sec. XIX.",530,97.5,False,positional,,,MOBILI,,
-BO0624_81980,670210,194,193,(N. 1655) COPERTA a fondo chiaro a righe celesti e rosa,531,96.3,False,positional,,,MOBILI,,
-BO0624_81980,670211,195,194,(N.1656) TAPPETO di fondo creme con motivi floreali,533,96.1,False,title_direct,,,TAPPETI,,
-BO0624_81980,670212,196,195,"(N. 1657) PANNELLO a fondo bianco grigio con decorazioni floreali policrome;m.1,80 X 1,95. Sec.XIX.",535,97.9,False,positional,,,MOBILI,,
+BO0624_81980,670208,192,191,"(N. 1638) CALAMAIO DOPPIO in argento brunito a giorno, spegnicandela separato; m. 0,20 X 0,27. Luigi Filippo.",529,98.1,False,positional,,,MOBILI,,Sec. XVII
+BO0624_81980,670209,193,192,"(N. 1654) SETA LILLA a piccoli motivi rilevati lucidi e opachi; m.1,20 X3. Sec. XIX.",530,97.5,False,positional,,,MOBILI,,Sec. XIX
+BO0624_81980,670210,194,193,(N. 1655) COPERTA a fondo chiaro a righe celesti e rosa,531,96.3,False,positional,,,MOBILI,,Sec. XVII
+BO0624_81980,670211,195,194,(N.1656) TAPPETO di fondo creme con motivi floreali,533,96.1,False,title_direct,,,TAPPETI,,Sec. XVII
+BO0624_81980,670212,196,195,"(N. 1657) PANNELLO a fondo bianco grigio con decorazioni floreali policrome;m.1,80 X 1,95. Sec.XIX.",535,97.9,False,positional,,,MOBILI,,Sec. XVII
 BO0624_81980,670213,197,196,PARAFUOCO verticale. Mogano e palissandro con riporti in bronzo dorato. Colonnette con tralci d'uva. Scher-,537,98.1,False,positional,,,MOBILI,,
 BO0624_81980,670214,198,197,- 198 DUE CORNICI in legno nero e bronzo dorato; sotto vetro teste dell'Imperatore e dellImperatrice in bronzo dorato. Impero.,541,100.0,False,positional,,,CORNICI,,
 BO0624_81980,670215,199,199,"SERVITO DA TAVOLA in vetro sfaccettato con decorazione dorata a paesaggi e cineserie. Composto di: 12 bottiglie da vino con tappo,2 piccole a palla,2 piattini in vetro a losanga,12 bicchieri da acqua,12 bicchieri da marsala, 10 bicchieri da liquore, 8 bicchieri da liquore piu piccoli, 12 calici da marsala, 12 calici da liquore, 1 bicchiere a botticello con manico; in tutto 83 pezzi. Tardo Luigi XVIll.",542,99.5,False,positional,,,BOTTIGLIE,,
 BO0624_81980,670216,200,200,BUSTO in terracotta (Maria Luisa?) con base in legno dorato.,543,96.6,False,positional,,,MOBILI,,
 BO0624_81980,670217,201,201,"FIGURA DI DONNA con gallo accanto in ceramica (mancante di una mano ed incrinata);alt. m.0,42. Cina (?)-Sec.XVIII.",549,98.1,False,positional,,,MOBILI,,
-BO0624_81980,670218,202,202,"FIGURA DI DONNA con gallo accanto in ceramica bianca di Cina (restaurata); alt.m.0,35. Cina - Sec. XVIII.",550,98.0,False,positional,,,MOBILI,,
-BO0624_81980,670219,203,203,Cina - Sec. XVIII.,552,87.5,False,positional,,,MOBILI,,
+BO0624_81980,670218,202,202,"FIGURA DI DONNA con gallo accanto in ceramica bianca di Cina (restaurata); alt.m.0,35. Cina - Sec. XVIII.",550,98.0,False,positional,,,MOBILI,,Sec. XVIII
+BO0624_81980,670219,203,203,Cina - Sec. XVIII.,552,87.5,False,positional,,,MOBILI,,Sec. XVIII
 BO0624_81980,670220,204,204,DEA KOUAN-YIN in ceramica bianca di Cina; alt. 018. Cina - Sec.XVIII.,553,96.9,False,positional,,,MOBILI,,
 BO0624_81980,670221,205,205,"- DEA KOUAN-YIN con due figurette accanto in ceramica bianca di Cina; alt.m.0,18. Cina - Sec.XVIII.",555,100.0,False,positional,,,MOBILI,,
 BO0624_81980,670222,206,206,Cina (?)-Sec.XVIll.,557,87.5,False,positional,,,MOBILI,,
 BO0624_81980,670223,207,208,208,559,100.0,False,positional,,,MOBILI,,
 BO0624_81980,670224,208,209,Cina -Fine del sec.xVIlI.,564,92.0,False,positional,,,MOBILI,,
 BO0624_81980,670225,209,210,TAZZA con coperchio e due manici (restaurata). Giappone - Sec. xVIll.,565,96.9,False,positional,,,MOBILI,,
-BO0624_81980,670226,210,211,"(1670) PANNELLO DI PORTA in legno laccato con decorazioni floreali e di figure; alt. m. 2,05, largh. m. 0,65. Persia - Sec. XVIII. Vedi illustrazione.",566,98.6,False,positional,,,MOBILI,,
-BO0624_81980,670227,211,212,"(1671) PANNELLO DI PORTA in legno laccato con decorazioni floreali e di figure; alt. m. 2,05, largh. m. 0,65. Persia - Sec. XVIII. Vedi illustrazione.",567,98.6,False,positional,,,MOBILI,,
-BO0624_81980,670228,212,213,"(1672) PANNELLO DI PORTA in legno laccato con decorazioni floreali e di figure; alt. m. 2,05, largh. m. 0,65. Persia - Sec. XVIII.",568,98.3,False,positional,,,MOBILI,,
-BO0624_81980,670229,213,214,"(1673) PANNELLO DI PORTA in legno laccato con decorazioni floreali ed a figure; alt. m. 2,05, largh. m. 0,65. Persia - Sec.XVIlI.",569,98.3,False,positional,,,MOBILI,,
+BO0624_81980,670226,210,211,"(1670) PANNELLO DI PORTA in legno laccato con decorazioni floreali e di figure; alt. m. 2,05, largh. m. 0,65. Persia - Sec. XVIII. Vedi illustrazione.",566,98.6,False,positional,,,MOBILI,,Sec. XVIII
+BO0624_81980,670227,211,212,"(1671) PANNELLO DI PORTA in legno laccato con decorazioni floreali e di figure; alt. m. 2,05, largh. m. 0,65. Persia - Sec. XVIII. Vedi illustrazione.",567,98.6,False,positional,,,MOBILI,,Sec. XVIII
+BO0624_81980,670228,212,213,"(1672) PANNELLO DI PORTA in legno laccato con decorazioni floreali e di figure; alt. m. 2,05, largh. m. 0,65. Persia - Sec. XVIII.",568,98.3,False,positional,,,MOBILI,,Sec. XVIII
+BO0624_81980,670229,213,214,"(1673) PANNELLO DI PORTA in legno laccato con decorazioni floreali ed a figure; alt. m. 2,05, largh. m. 0,65. Persia - Sec.XVIlI.",569,98.3,False,positional,,,MOBILI,,Sec. XVII
 BO0624_81980,670230,214,215,"(511) PICCOLO BOCCALE DA VINO con lungo becco e fondo bianco; alt.m. 0,17. Montelupo-Sec.xV.",575,97.7,False,positional,,,MAIOLICHE,,
 BO0624_81980,670231,215,216,"verticali verdi orlate di azzurro; alt. m. 0,21. Siena (?)-Fine del sec.XV.",577,97.1,False,positional,,Scuola Senese,MAIOLICHE,,
-BO0624_81980,670232,216,217,"(513) PICCOLO BOCCALE DA VINO con ansa, dipinto ad occhi di pavone; alt. m. 0,15. Toscana - Sec. XV.",578,97.8,False,positional,,,MAIOLICHE,,
+BO0624_81980,670232,216,217,"(513) PICCOLO BOCCALE DA VINO con ansa, dipinto ad occhi di pavone; alt. m. 0,15. Toscana - Sec. XV.",578,97.8,False,positional,,,MAIOLICHE,,Sec. XV
 BO0624_81980,670233,217,218,"(517 -Tav. XCIX) ALBERELLO tozzo in maiolica bianca dipinta a due fascie di melagrano; alt. m. 0,18. <!-- image -->",579,94.8,False,positional,,,MAIOLICHE,,
 BO0624_81980,670234,218,219,"(518) DUE ALBERELLI dipinti a motivi di melograno; alt. m. 0,17. Cafaggiolo - Sec. xVI.",585,97.5,False,positional,,,MAIOLICHE,,
 BO0624_81980,670235,219,220,"(525-Tav. CI) BROCCHETTO con ornamento vermicolari azzurri; alt. m.0,20. Cafaggiolo -Sec.xVI. Vedi illustrazione.",586,98.1,False,positional,,,MAIOLICHE,,
@@ -222,19 +222,19 @@ BO0624_81980,670236,220,221,Cafaggiolo - Sec. xVI.,588,90.0,False,positional,,,M
 BO0624_81980,670237,221,222,"(534 - Tav. CII) GRANDE VASCA in maiolica su tre piedi a drago; dipinta a frutta, fiori, uccelli, di vari colori su fondo bianco,e arme all'interno; m. 0,435x0,265. Cafaggiolo -Sec. XVI. Vedi illustrazione.",589,99.0,False,positional,,,MAIOLICHE,,
 BO0624_81980,670238,222,223,"(537) PIATTO in maiolica bianca e azzurra; figura incappata nel cavetto (membro di confraternita); diam. m.0,25. Cafaggiolo -Fine del sec. xVI.",590,98.5,False,positional,,,MAIOLICHE,,
 BO0624_81980,670239,223,224,"(539 -Tav. XCVII) BOCCALE in maiolica bianca, azzurra e arancione, con monogramma di Cristo; altezza m. 0,26. Montelupo-Sec.XVI.",591,98.3,False,positional,,,MAIOLICHE,,
-BO0624_81980,670240,224,225,"- (542) BOCCALE DA VINO con grande beccuccio in maiolica bianca e azzurra; alt.m. 0,21. Toscana - Sec. XVI.",593,100.0,False,positional,,,MAIOLICHE,,
-BO0624_81980,670241,225,226,"(543) PICCOLA BROCCA con ansa e beccuccio; stemma fondo chiaro. Marcato (I.1542;alt.m.0,22.",594,97.7,False,positional,,,MAIOLICHE,,
+BO0624_81980,670240,224,225,"- (542) BOCCALE DA VINO con grande beccuccio in maiolica bianca e azzurra; alt.m. 0,21. Toscana - Sec. XVI.",593,100.0,False,positional,,,MAIOLICHE,,Sec. XVI
+BO0624_81980,670241,225,226,"(543) PICCOLA BROCCA con ansa e beccuccio; stemma fondo chiaro. Marcato (I.1542;alt.m.0,22.",594,97.7,False,positional,,,MAIOLICHE,,Sec. XVI
 BO0624_81980,670242,226,227,"(37) PICCOLA CASSA in noce intagliato a girali sui pilastri e nella formella centrale; m. 0,65 X 1,28 X 0,55. Italia Centrale -Sec.XVI. Vedi illustrazione.",599,98.7,False,positional,,,MOBILI,,
-BO0624_81980,670243,227,228,"(42) PICCOLA CASSA in noce intagliato, formella in cornice di rosoni sul davanti e cartelle di gusto vasariano con teste sui lati;m.1,15X 0,60x 0,57. Firenze - Sec. XVI.",600,98.8,False,positional,,,MOBILI,,
+BO0624_81980,670243,227,228,"(42) PICCOLA CASSA in noce intagliato, formella in cornice di rosoni sul davanti e cartelle di gusto vasariano con teste sui lati;m.1,15X 0,60x 0,57. Firenze - Sec. XVI.",600,98.8,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670244,228,229,"<!-- image --> - (46 -Tav. XVIII) CASSONE DA NOZZE dipinto. Tre formelle grigie, due con grottesche ad ippocampi, una con sirene affrontate e arme. Fondo azzurro. Fianchi dipinti;m.0,70X1,70X0,48.",609,98.3,False,positional,,,MOBILI,,
-BO0624_81980,670245,229,230,"(123) TAVOLINO in noce su quattro zampe; listelli poggiapiedi torniti, orlo baccellato; m.0,81 X 0,71 X 0,57. Toscana - Sec. XVI.",615,98.3,False,positional,,,ARREDAMENTI,,
+BO0624_81980,670245,229,230,"(123) TAVOLINO in noce su quattro zampe; listelli poggiapiedi torniti, orlo baccellato; m.0,81 X 0,71 X 0,57. Toscana - Sec. XVI.",615,98.3,False,positional,,,ARREDAMENTI,,Sec. XVI
 BO0624_81980,670246,230,237,"- 231 tri 0,84 X 1,30 X 0,69. Toscana - Sec.XVI.",617,100.0,False,positional,,,MOBILI,,
 BO0624_81980,670247,231,232,"1,34X0,55. talia Settentrionale -Sec.XVIl.",622,84.1,False,positional,,,MOBILI,,
 BO0624_81980,670248,232,233,(202) MADIA con piano ribaltabile e due formelle sul,624,96.2,False,positional,,,MOBILI,,
 BO0624_81980,670249,233,234,"(212 -Tav.LXVII) SEDILE DA CORO in noce intagliato a tre formelle. Sostegni a mensola e bracciuoli intagliati a squame;m.2,05X1,33x0,45. Toscana - Sec. XVIl.",626,98.7,False,positional,,,MOBILI,,
 BO0624_81980,670250,234,235,"tri 0,50 x 0,39. talia Settentrionale-Principio del sec.XVII.",630,85.4,False,positional,,,MOBILI,,
 BO0624_81980,670251,235,236,"(217) ARMADIETTO in noce a due battenti centrali e quattro cassetti laterali su piedi angolari. Sopramobile; m.0,50X1,15×0,19.",632,98.4,False,positional,,,MOBILI,,
-BO0624_81980,670252,236,I,talia Settentrionale - Sec. XVII.,634,98.3,False,positional,,,MOBILI,,
+BO0624_81980,670252,236,I,talia Settentrionale - Sec. XVII.,634,98.3,False,positional,,,MOBILI,,Sec. XVII
 BO0624_81980,670253,237,238,"(240) SCRIVANIA in noce, zampe a lira, coperchio a ribalta; m.0,81 X1,28×0,58. Toscana - Sec. XVIl.",637,97.8,False,positional,,,MOBILI,,
 BO0624_81980,670254,238,222,<!-- image -->,640,100.0,False,positional,,,MOBILI,,
 BO0624_81980,670255,239,222,<!-- image -->,644,100.0,False,positional,,,MOBILI,,
@@ -251,40 +251,40 @@ BO0624_81980,670265,249,248,"(814) VERGINE ADORANTE. Bassorilievo in legno dipin
 BO0624_81980,670266,250,249,"(798) MADONNA che prega dinanzi al Bambino. Bassorilievo in stucco che ripete,ingrandita,la composizione di uno dei marmi del Victoria and Albert Museum,attribuito a Desiderio da Settignano. Repliche in stucco si trovano nello stesso Museo e nel Museo di Berlino;me-",683,99.2,False,positional,,,SCULTURE,,
 BO0624_81980,670267,251,2,"250 montato da mitra; diam. m. 1,13.",689,97.0,False,positional,,,SCULTURE,,
 BO0624_81980,670268,252,251,"anni piu tardi; m.2,72 x2,13.",698,93.1,False,positional,,,ARAZZO,,
-BO0624_81980,670269,253,252,(1009) PEDANA ORIENTALE con largo rosone geome-,706,95.7,False,positional,,,TAPPETI,,
-BO0624_81980,670270,254,253,"- (1010) PEDANA ORIENTALE con disegni a zig zag su fondo rosso; m.1,55 X 1,10. Asia Minore (Ghiordes)-Sec.XIx.",709,100.0,False,positional,,,TAPPETI,,
+BO0624_81980,670269,253,252,(1009) PEDANA ORIENTALE con largo rosone geome-,706,95.7,False,positional,,,TAPPETI,,Sec. XI
+BO0624_81980,670270,254,253,"- (1010) PEDANA ORIENTALE con disegni a zig zag su fondo rosso; m.1,55 X 1,10. Asia Minore (Ghiordes)-Sec.XIx.",709,100.0,False,positional,,,TAPPETI,,Sec. XI
 BO0624_81980,670271,255,254,"(968) TAPPETO del tipo Holbein a fondo giallo e rosso, orlo azzurro;m.2x1,16. Asia Minore - Sec.XVI.",710,97.9,False,title_direct,HOLBEIN HANS IL GIOVANE,,TAPPETI,,
 BO0624_81980,670272,256,255,"- (971-TaV.CLXIV) TAPPETO ORIENTALE A OTTAGONI, con motivi verdi sul fondo rosso; m. 1,75 X 1,20. Vedi illustrazione.",712,100.0,False,title_direct,,,TAPPETI,,
-BO0624_81980,670273,257,256,"- (1008)TAPPETO ORIENTALE DA ORAZIONE con porta verdastra; m. 1,80 X 1,25. Sec. XVIII.",714,100.0,False,title_direct,,,TAPPETI,,
+BO0624_81980,670273,257,256,"- (1008)TAPPETO ORIENTALE DA ORAZIONE con porta verdastra; m. 1,80 X 1,25. Sec. XVIII.",714,100.0,False,title_direct,,,TAPPETI,,Sec. XVIII
 BO0624_81980,670274,258,257,"alato che tiene quattro accessori; alt. m. 0,69.",718,95.7,False,positional,,,METALLI,,
-BO0624_81980,670275,259,258,"(1387) ASTUCCIO TASCABILE in argento sbalzato con cartelle e architettura;m.0,115. Venezia - Sec.XVII.",720,98.0,False,positional,,,METALLI,,
-BO0624_81980,670276,260,259,"(1389) COFANETTO in argento con chiave. Coperchio sormontato da ramo con piccolo fiore;m.0,13x0,14x0,12. Prima meta del Sec.XVIll.",721,98.4,False,positional,,,METALLI,,
-BO0624_81980,670277,261,260,"(1390) QUATTRO CANDELIERI sbalzati in argento,piede e corpo ottagonale; alt. m. 0,15. Sec.XVIII. <!-- image -->",722,94.7,False,positional,,,METALLI,,
-BO0624_81980,670278,262,261,"(1391) STOPPINIERA in argento, con conchiglietta poggiavite nell'ansa; alt. m.0,10. Sec.XVIII.",726,97.8,False,positional,,,METALLI,,
-BO0624_81980,670279,263,262,"- (1392) VAsO d'argento semiovale, con baccellatura e palmette su tre piedi a testa di falco e zampe di leone; alt. m.0,28. Sec.XVIlI.",728,100.0,False,positional,,,METALLI,,
-BO0624_81980,670280,264,263,(1393) DUE VASETTI in argento sbalzato con ansa; alt.,729,96.1,False,positional,,,METALLI,,
+BO0624_81980,670275,259,258,"(1387) ASTUCCIO TASCABILE in argento sbalzato con cartelle e architettura;m.0,115. Venezia - Sec.XVII.",720,98.0,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670276,260,259,"(1389) COFANETTO in argento con chiave. Coperchio sormontato da ramo con piccolo fiore;m.0,13x0,14x0,12. Prima meta del Sec.XVIll.",721,98.4,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670277,261,260,"(1390) QUATTRO CANDELIERI sbalzati in argento,piede e corpo ottagonale; alt. m. 0,15. Sec.XVIII. <!-- image -->",722,94.7,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670278,262,261,"(1391) STOPPINIERA in argento, con conchiglietta poggiavite nell'ansa; alt. m.0,10. Sec.XVIII.",726,97.8,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670279,263,262,"- (1392) VAsO d'argento semiovale, con baccellatura e palmette su tre piedi a testa di falco e zampe di leone; alt. m.0,28. Sec.XVIlI.",728,100.0,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670280,264,263,(1393) DUE VASETTI in argento sbalzato con ansa; alt.,729,96.1,False,positional,,,METALLI,,Sec. XIV
 BO0624_81980,670281,265,264,"nero intagliato; alt. m. 0,28. Sec.XVIII.",732,94.7,False,positional,,,METALLI,,
-BO0624_81980,670282,266,265,"(1410) LETTO in acciaio a baldacchino, con riporti di bronzo cesellato e dorato; sul davanti cancellino a freccie. Testata con testa di Gorgona a raggera; m. 3,70 X 2X1,25.",738,98.8,False,positional,,,MOBILI,,
-BO0624_81980,670283,267,266,"(1418) GRANDE CONSOLLE intagliata e dorata. Piano di bardiglio;nel centro della fascia amorino dormiente, agli angoli teste di Imperatori; m. 1 X 1,50 x 0,71. Piemonte -Stile ed epoca Luigi XVI.",742,98.9,False,positional,,,MOBILI,,
-BO0624_81980,670284,268,267,"(1431) FINIMENTO DA SALOTTO in noce intagliato canne, composto di: sei sedie con spalliera ovale, due poltrone a bracciuoli con spalliera ovale,un divano a due posti; sedie alt. m.0,95, poltrone alt. m.0,45, divano m.1,36X0,95.",743,99.1,False,positional,,,POLTRONE,,
-BO0624_81980,670285,269,243,"- (1445) SCRIVANIA ellittica in mogano a sei gambe con un cassetto centrale e quattro laterali;m.0,95x 0,66x0,79.",750,100.0,False,positional,,,MOBILI,,
+BO0624_81980,670282,266,265,"(1410) LETTO in acciaio a baldacchino, con riporti di bronzo cesellato e dorato; sul davanti cancellino a freccie. Testata con testa di Gorgona a raggera; m. 3,70 X 2X1,25.",738,98.8,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670283,267,266,"(1418) GRANDE CONSOLLE intagliata e dorata. Piano di bardiglio;nel centro della fascia amorino dormiente, agli angoli teste di Imperatori; m. 1 X 1,50 x 0,71. Piemonte -Stile ed epoca Luigi XVI.",742,98.9,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670284,268,267,"(1431) FINIMENTO DA SALOTTO in noce intagliato canne, composto di: sei sedie con spalliera ovale, due poltrone a bracciuoli con spalliera ovale,un divano a due posti; sedie alt. m.0,95, poltrone alt. m.0,45, divano m.1,36X0,95.",743,99.1,False,positional,,,POLTRONE,,Sec. XV
+BO0624_81980,670285,269,243,"- (1445) SCRIVANIA ellittica in mogano a sei gambe con un cassetto centrale e quattro laterali;m.0,95x 0,66x0,79.",750,100.0,False,positional,,,MOBILI,,Sec. XV
 BO0624_81980,670286,270,2,268 Fine del sec. xVill.,751,95.7,False,positional,,,MOBILI,,
 BO0624_81980,670287,271,4,"269 candele; m.0,30.",753,94.7,False,positional,,,MOBILI,,
-BO0624_81980,670288,272,270,(1501) ZUCCHERIERA in argento sbalzato con coper-,756,95.8,False,positional,,,MOBILI,,
-BO0624_81980,670289,273,271,"(1510) CASSETTONE di legno chiaro, a prospetto convesso, su zampe alte. Tiranti a ghiande e bocchette in bronzo dorato.Piano di bardiglio; m.0,93 X 0,49 X 0,91. Italia -Direttorio.",758,98.8,False,positional,,,MOBILI,,
-BO0624_81980,670290,274,272,"(1538) TAVOLA circolare in marmo bianco con riporti in bronzo dorato e cesellato e base a forma di campana baccellata; diam.m.1,20. Impero.",759,98.5,False,positional,,,MOBILI,,
-BO0624_81980,670291,275,273,"(1575) PENDOLA in baccarat con amorino in bronzo dorato su colonna di cristallo, che sostiene sul capo il meccanismo;alt. m.0,35. Impero.",760,98.5,False,positional,,,MOBILI,,
-BO0624_81980,670292,276,274,"(1586) FRUTTIERA A TRIPODE in bronzo brunito e dorato con tre figure femminili sorreggenti una vaschetta di baccarat. Piede di legno nero; alt. m. 0,29. Impero.",761,98.7,False,positional,,,MOBILI,,
-BO0624_81980,670293,277,275,(1587) DUE COPPE DI VETRO con delfini di bronzo;,762,95.7,False,positional,,,COPPE,,
+BO0624_81980,670288,272,270,(1501) ZUCCHERIERA in argento sbalzato con coper-,756,95.8,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670289,273,271,"(1510) CASSETTONE di legno chiaro, a prospetto convesso, su zampe alte. Tiranti a ghiande e bocchette in bronzo dorato.Piano di bardiglio; m.0,93 X 0,49 X 0,91. Italia -Direttorio.",758,98.8,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670290,274,272,"(1538) TAVOLA circolare in marmo bianco con riporti in bronzo dorato e cesellato e base a forma di campana baccellata; diam.m.1,20. Impero.",759,98.5,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670291,275,273,"(1575) PENDOLA in baccarat con amorino in bronzo dorato su colonna di cristallo, che sostiene sul capo il meccanismo;alt. m.0,35. Impero.",760,98.5,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670292,276,274,"(1586) FRUTTIERA A TRIPODE in bronzo brunito e dorato con tre figure femminili sorreggenti una vaschetta di baccarat. Piede di legno nero; alt. m. 0,29. Impero.",761,98.7,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670293,277,275,(1587) DUE COPPE DI VETRO con delfini di bronzo;,762,95.7,False,positional,,,COPPE,,Sec. XVI
 BO0624_81980,670294,278,276,Impero.,765,75.0,False,positional,,,MOBILI,,
-BO0624_81980,670295,279,277,(1601) CINQUE FERMATENDE in bronzo dorato a pal-,766,95.7,False,positional,,,MOBILI,,
-BO0624_81980,670296,280,278,(1611) DUE FINALI A TESTE DI MONTONE in bronzo <!-- image -->,768,89.8,False,positional,,,MOBILI,,
-BO0624_81980,670297,281,279,(1628) SEI SEDIE in noce con spalliera ovale intagliata,774,96.4,False,positional,,,SEDIE,,
-BO0624_81980,670298,282,280,"(1637) DUE TRIPODI IN BRONZO dorato terminanti a teste cornute con urna d'alabastro con coperchio: base d'alabastro; alt.m.0,34. Luigi Filippo.",776,98.6,False,positional,,,MOBILI,,
-BO0624_81980,670299,283,281,"- (1639) DUE CANDELIERI IN ARGENTO torniti, su largo piede circolare; alt. m. 0,17. Luigi Filippo.",778,100.0,False,positional,,,MOBILI,,
-BO0624_81980,670300,284,282,"(1651) COPERTA in seta rossa a righe opache alternate a volute floreali; m. 2,88 X 2,47.",779,97.6,False,positional,,,MOBILI,,
+BO0624_81980,670295,279,277,(1601) CINQUE FERMATENDE in bronzo dorato a pal-,766,95.7,False,positional,,,MOBILI,,Sec. XVII
+BO0624_81980,670296,280,278,(1611) DUE FINALI A TESTE DI MONTONE in bronzo <!-- image -->,768,89.8,False,positional,,,MOBILI,,Sec. XVII
+BO0624_81980,670297,281,279,(1628) SEI SEDIE in noce con spalliera ovale intagliata,774,96.4,False,positional,,,SEDIE,,Sec. XVII
+BO0624_81980,670298,282,280,"(1637) DUE TRIPODI IN BRONZO dorato terminanti a teste cornute con urna d'alabastro con coperchio: base d'alabastro; alt.m.0,34. Luigi Filippo.",776,98.6,False,positional,,,MOBILI,,Sec. XVII
+BO0624_81980,670299,283,281,"- (1639) DUE CANDELIERI IN ARGENTO torniti, su largo piede circolare; alt. m. 0,17. Luigi Filippo.",778,100.0,False,positional,,,MOBILI,,Sec. XVII
+BO0624_81980,670300,284,282,"(1651) COPERTA in seta rossa a righe opache alternate a volute floreali; m. 2,88 X 2,47.",779,97.6,False,positional,,,MOBILI,,Sec. XVII
 BO0624_81980,670301,285,283,Sec. XIx.,780,100.0,False,positional,,,MOBILI,,
-BO0624_81980,670302,286,284,"(1653) TAPPETO di seta beige con motivi decorativi in blu;m.1,58 X1,95.",783,97.1,False,title_direct,,,TAPPETI,,
+BO0624_81980,670302,286,284,"(1653) TAPPETO di seta beige con motivi decorativi in blu;m.1,58 X1,95.",783,97.1,False,title_direct,,,TAPPETI,,Sec. XVII
 BO0624_81980,670303,287,285,rose.,788,66.7,False,positional,ROOS PHILIPP PETER,,MOBILI,,
 BO0624_81980,670304,288,286,CALAMAIO IN MAIOLICA bianca e oro con conchiglia a due teste femminili. Ginori (?)-Epoca Impero.,792,97.8,False,positional,,,MOBILI,,
 BO0624_81980,670305,289,287,TONDO DI SCAGLIOLA con la morte di Cleopatra; cornice dorata moderna. Impero.,793,97.4,False,positional,,,MOBILI,,
@@ -294,13 +294,13 @@ BO0624_81980,670308,292,290,CANDELIERE di argento di forma cilindrica su base,79
 BO0624_81980,670309,293,248,- 2911 VASO AD URNA con coperchio bianco e decorazione a decalcomanie.Fabbrica:Stone Coquerel &amp; L.G. Inghilterra - Luigi XVIll-Carlo X.,804,100.0,False,positional,,,VASI,,
 BO0624_81980,670310,294,292,LUMICINO DA NOTTE di porcellana: scomponibile in quattro pezzi; decorazione a paesaggi. Francia -Secondo Impero.,805,98.2,False,positional,,,MOBILI,,
 BO0624_81980,670311,295,293,DUE PANIERINI ovali di terraglia con decorazione a decalcomanie.Fabbrica:Stone Coquerel &amp; L.G. Inghilterra -Luigi XVIll-Carlo X.,806,98.4,False,positional,,,MOBILI,,
-BO0624_81980,670312,296,294,"(1124) CUSCINO in velluto azzurro scuro, gallone d'oro; m. 0,70 X 0,50.",810,97.0,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670313,297,2,"295 ogiva; m. 0,65 x 0,48. (1179) STRISCIA DI DUE TELI di velluto scutarino controtagliato chermisi su fondo creme broccato d'oro con fiore di garofano a sette petali; m.1,55 X 1,27.",819,93.9,False,positional,,,STOFFE; VELLUTI,,
+BO0624_81980,670312,296,294,"(1124) CUSCINO in velluto azzurro scuro, gallone d'oro; m. 0,70 X 0,50.",810,97.0,False,positional,,,STOFFE; VELLUTI,,Sec. XII
+BO0624_81980,670313,297,2,"295 ogiva; m. 0,65 x 0,48. (1179) STRISCIA DI DUE TELI di velluto scutarino controtagliato chermisi su fondo creme broccato d'oro con fiore di garofano a sette petali; m.1,55 X 1,27.",819,93.9,False,positional,,,STOFFE; VELLUTI,,Sec. XII
 BO0624_81980,670314,298,3,297,829,75.0,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670315,299,4,298,830,75.0,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670316,300,5,"299 d'oro; m. 0,48 X 0,63. Sec.XVIII.",831,97.1,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670317,301,250,<!-- image -->,834,100.0,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670318,302,300,"(1271) QUATTRO PANNELLI per pilastri di Chiesa con angeli sorreggenti l'ostensorio, in ricamo greggio su fondo rosso;m.3,80 X 0,52 Sec. XVIII.",836,98.6,False,positional,,,PANNELLI,,
+BO0624_81980,670318,302,300,"(1271) QUATTRO PANNELLI per pilastri di Chiesa con angeli sorreggenti l'ostensorio, in ricamo greggio su fondo rosso;m.3,80 X 0,52 Sec. XVIII.",836,98.6,False,positional,,,PANNELLI,,Sec. XVIII
 BO0624_81980,670319,303,301,"(898 - Tav. CXLVI) PORTATORCIA in ferro battuto, cinque candelieri; alt. m. 1,30.",841,97.3,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670320,304,302,"(899) PORTATORCIA in ferro battuto su tripode piano con rinforzi. Tamburo circolare con sette candelieri a bocciuolo e corona di punte; piatto girevole con cinque punte al centro; alt. m. 1,57, diam. m. 0,61. Toscana -Principio del sec.XV.",843,99.1,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670321,305,303,"(922) DUE GRANDI ALARI in ferro battuto con sfera d'ottone; m. 0,98 X 0,63. Sec.XVI.",844,97.5,False,positional,,,STOFFE; VELLUTI,,
@@ -318,16 +318,16 @@ BO0624_81980,670332,316,314,"(669) GRUPPO in porcellana policroma, con tre putti
 BO0624_81980,670333,317,315,"alt. m.0,13.",884,83.3,False,positional,,,MAIOLICHE; PORCELLANE,,
 BO0624_81980,670334,318,316,"(671) COPPA ovale lobata in maiolica bianca con mazzolini di varii colori; m.0,08 X 0,16 X 0,14. Meissen - Sec.XVIlI.",888,98.2,False,positional,,Scuola di Meissen,MAIOLICHE; PORCELLANE,,
 BO0624_81980,670335,319,317,"(9 - Tav. VI) CASSONE DA NOZZE decorato in pastiglia dorata, a cani che recano in bocca delle serpi e motto: (Per trovare! Nei pilastri sono dipinti stemmi e piante",892,98.7,False,positional,,,MOBILI,,
-BO0624_81980,670336,320,318,"(52) FORZIERINO in noce chiaro, ornato da borchie; m:0,14X0,29X0,15. Toscana - Sec. XVI.",902,97.5,False,positional,,,MOBILI,,
+BO0624_81980,670336,320,318,"(52) FORZIERINO in noce chiaro, ornato da borchie; m:0,14X0,29X0,15. Toscana - Sec. XVI.",902,97.5,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670337,321,255,<!-- image -->,905,100.0,False,positional,,,MOBILI,,
 BO0624_81980,670338,322,2,"319 nero; m.0,28 X 0,31 X 0,50. Firenze -Sec. XVI.",907,97.8,False,positional,,,MOBILI,,
 BO0624_81980,670339,323,3,"320 (116) PICCOLA CREDENZA in noce intagliata, pilastri ionici con festoni, maniglie a delfini. Alzata separata,",908,99.1,False,positional,,,MOBILI,,
-BO0624_81980,670340,324,4,"coperchio a ribalta; m. 1,05 X 0,76 x 0,32. Toscana -Fine del sec. XVI.",909,98.5,False,positional,,,MOBILI,,
+BO0624_81980,670340,324,4,"coperchio a ribalta; m. 1,05 X 0,76 x 0,32. Toscana -Fine del sec. XVI.",909,98.5,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670341,325,6,321 loXVI.,911,90.0,False,positional,,,MOBILI,,
 BO0624_81980,670342,326,7,322,912,75.0,False,positional,,,MOBILI,,
 BO0624_81980,670343,327,8,"(136 - Tav. LIV) -PICCOLA SEDIA in faggio con zampe a sbarre incrociate. Nella spalliera due alberelli e cerchi incisi; alt. m. 0,80.",913,99.2,False,positional,,,MOBILI,,
 BO0624_81980,670344,328,323,"(137 - Tav. LIV) DUE PICCOLE SEDIE in faggio con zampe a sbarre incrociate. Nel frontone cerchio con stella a quattro punte; alt. m. 0,86. Firenze - Sec. xVI.",917,98.6,False,positional,,,SEDIE,,
-BO0624_81980,670345,329,324,"(138 -Tav. LIV) PICCOLA SEDIA in faggio con zampe a sbarre incrociate; alt. m.0,82. Firenze - Sec. XVI.",918,97.9,False,positional,,,MOBILI,,
+BO0624_81980,670345,329,324,"(138 -Tav. LIV) PICCOLA SEDIA in faggio con zampe a sbarre incrociate; alt. m.0,82. Firenze - Sec. XVI.",918,97.9,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670346,330,325,"(245) PICCOLO TAVOLINO in noce con quattro zampe rigide a lira e sbarre a croce di Sant'Andrea; m. 0,78 X 1X0,49.",919,98.2,False,positional,,,ARREDAMENTI,,
 BO0624_81980,670347,331,326,"(291) SEI SEGGIOLE in noce con schienale centinato,",923,96.0,False,positional,,,MOBILI,,
 BO0624_81980,670348,332,327,(300) SEI SEGGIOLE in noce coperte di broccato giallo; <!-- image -->,925,91.1,False,positional,,,MOBILI,,
@@ -335,7 +335,7 @@ BO0624_81980,670349,333,328,"(365) SCATOLA DA GIUOCO in legno laccato di rosso, 
 BO0624_81980,670350,334,329,"(376) TAVOLA DA GIUOCO a quattro gambe in mogano e tuja. Incastri di paesite sul piano; m. 0,80 X 0,75. Toscana -Sec.XVIll.",932,98.3,False,positional,,,MOBILI,,
 BO0624_81980,670351,335,330,"(379) SCRIVANIA CON RIBALTA,impiallacciata di legni chiari, prospetto e fianchi convessi. Gambe con piedi di bronzo dorato; m.1,18 x 1,50 X 0,65. Italia Settentrionale - Sec. XVIlI.",933,98.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81980,670352,336,331,"(391) PICCOLO TAVOLINO OVALE in mogano su quattro gambe arcuate,terminanti in piedini di bronzo dorato e rilegate da un cerchio pure di bronzo dorato; m.0,77X0,61X0,45. Sec.XVIII. Vedi illustrazione.",934,99.0,False,positional,,,ARREDAMENTI,,
-BO0624_81980,670353,337,332,"(393) PICCOLO TAVOLINO OVALE a tre cassetti,in mogano, piano di marmo grigio venato con ornamenti di bronzo;m.0,74X0,47X0,32. Sec. XVIII.",935,98.5,False,positional,,,ARREDAMENTI,,
+BO0624_81980,670353,337,332,"(393) PICCOLO TAVOLINO OVALE a tre cassetti,in mogano, piano di marmo grigio venato con ornamenti di bronzo;m.0,74X0,47X0,32. Sec. XVIII.",935,98.5,False,positional,,,ARREDAMENTI,,Sec. XVIII
 BO0624_81980,670354,338,333,"(399)QUATTRO SEGGIOLE VENEZIANE ad alta spalliera in noce, coperte di stoffa moderna azzurra, alt. m.1,15.",936,98.1,False,positional,,,MOBILI,,
 BO0624_81980,670355,339,2,334,941,75.0,False,positional,,,MOBILI,,
 BO0624_81980,670356,340,3,"335 (407) QUATTRO CIMASE DA TENDA in legno intagliato e dorato, a profilo convesso anteriormente; lungh. m. 2.",942,99.0,False,positional,,,MOBILI,,
@@ -343,55 +343,55 @@ BO0624_81980,670357,341,336,(408) DUE CIMASE da tenda in legno intagliato rosso,
 BO0624_81980,670358,342,337,"(827) GESU' BAMBINO. Scultura dipinta mancante delle braccia. Base moderna; alt. m. 0,29. Arte famminga del sec.xV.",951,98.1,False,positional,,,SCULTURE,,
 BO0624_81980,670359,343,338,"alt. m. 1,36.",953,83.3,False,positional,,,SCULTURE,,
 BO0624_81980,670360,344,339,"(815) DUE ANGELI con candeliere a cornucopia. Scultura in legno tinto di nero; alt. m. 0,60. Friuli -Fine del sec.XV. Vedi illustrazione.",955,98.4,False,positional,,,SCULTURE,,
-BO0624_81980,670361,345,305,"340 (804 -Tav.CXXXV)-MADONNA COL BAMBINO a tre quarti di figura. Rilievo in marmo. Fu esposto alla Mostra dell'arte antica senese nel 1904 (Catalogo generale illustrato, sala II, N. 316, p.74). Pubblicata dallo Schubring, Die Plastik Sienas im Quattrocento, p. 160 e fig.101 che la attribuisce a un maestro affine a quello della Madonna Piccolomini del Louvre; alt. m. 0,46.",960,100.0,False,positional,,,SCULTURE,,
+BO0624_81980,670361,345,305,"340 (804 -Tav.CXXXV)-MADONNA COL BAMBINO a tre quarti di figura. Rilievo in marmo. Fu esposto alla Mostra dell'arte antica senese nel 1904 (Catalogo generale illustrato, sala II, N. 316, p.74). Pubblicata dallo Schubring, Die Plastik Sienas im Quattrocento, p. 160 e fig.101 che la attribuisce a un maestro affine a quello della Madonna Piccolomini del Louvre; alt. m. 0,46.",960,100.0,False,positional,,,SCULTURE,,Sec. XX
 BO0624_81980,670362,346,341,"(719) LA MADDALENA.Dipinto a tempera su tavola a fondo oro.Frammento di polittico;m.0,815 X0,315. Scuola toscana -Fine del sec.XIV. Vedi illustrazione.",965,98.6,False,positional,,Scuola Toscana,PITTURE,,
 BO0624_81980,670363,347,342,Scuola fiorentina della fine del sec. xIv.,967,95.2,False,positional,,Scuola Fiorentina,PITTURE,,
 BO0624_81980,670364,348,343,"naventura;m.1,81 X 0,92.",969,92.0,False,positional,,,PITTURE,,
 BO0624_81980,670365,349,344,Vedi descrizione nel foglietto allegato.,977,95.1,False,positional,,,PITTURE,,
 BO0624_81980,670366,350,345,Vedi descrizione nel foglietto allegato.,978,95.1,False,positional,,,PITTURE,,
 BO0624_81980,670367,351,346,Vedi descrizione nel foglietto allegato.,979,95.1,False,positional,,,PITTURE,,
-BO0624_81980,670368,352,347,- (1018) TAPPETO ORIENTALE con tre ordini di targhe,984,100.0,False,title_direct,,,TAPPETI,,
+BO0624_81980,670368,352,347,- (1018) TAPPETO ORIENTALE con tre ordini di targhe,984,100.0,False,title_direct,,,TAPPETI,,Sec. XI
 BO0624_81980,670369,353,306,"- 348 (974) TAPPETO DA ORAZIONE, porta rossa con fregi; orlo a fondo giallo;m.1,60 X 1,15. Sec.XVI-XVII.",991,100.0,False,title_direct,,,TAPPETI,,
-BO0624_81980,670370,354,349,"(1006) TAPPETO DA ORAZIONE,porta a fondo azzurro con fiori stilizzati prevalentemente azzurri e rossi,entro",992,98.1,False,title_direct,,,TAPPETI,,
-BO0624_81980,670371,355,350,"(1020) TAPPETO ORIENTALE con tre orli a varii colori; al centro tre rombi azzurri e due bianchi alternati; metri 1,85X1,12. Sec.XIx.",994,98.4,False,title_direct,,,TAPPETI,,
-BO0624_81980,670372,356,351,"(1023) TAPPETO DA ORAZIONE con porta rossa. Un po guasto; m. 1,70 X 1,20. Sec. XIX.",995,97.4,False,title_direct,,,TAPPETI,,
-BO0624_81980,670373,357,352,"- (1125) CUSCINO in velluto viola con gallone oro; m.0,70 per 0,50. Sec.XVI.",1000,100.0,False,positional,,,STOFFE; VELLUTI,,
+BO0624_81980,670370,354,349,"(1006) TAPPETO DA ORAZIONE,porta a fondo azzurro con fiori stilizzati prevalentemente azzurri e rossi,entro",992,98.1,False,title_direct,,,TAPPETI,,Sec. XI
+BO0624_81980,670371,355,350,"(1020) TAPPETO ORIENTALE con tre orli a varii colori; al centro tre rombi azzurri e due bianchi alternati; metri 1,85X1,12. Sec.XIx.",994,98.4,False,title_direct,,,TAPPETI,,Sec. XI
+BO0624_81980,670372,356,351,"(1023) TAPPETO DA ORAZIONE con porta rossa. Un po guasto; m. 1,70 X 1,20. Sec. XIX.",995,97.4,False,title_direct,,,TAPPETI,,Sec. XIX
+BO0624_81980,670373,357,352,"- (1125) CUSCINO in velluto viola con gallone oro; m.0,70 per 0,50. Sec.XVI.",1000,100.0,False,positional,,,STOFFE; VELLUTI,,Sec. XII
 BO0624_81980,670374,358,353,- 354,1002,100.0,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670375,359,I,talia Settentrionale-Fine del sec.XVI.,1005,98.7,False,positional,,,STOFFE; VELLUTI,,
 BO0624_81980,670376,360,I,talia settentrionale -Inizio del sec.XVilI.,1009,98.8,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670377,361,355,"(1253) DUE PIVIALI disfatti in broccatello di fondo bianco a grandi ramages rossi;m.1,40 X 3. Sec.XVIII.",1011,98.0,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670378,362,356,"(1255) PIVIALE in damasco rosso con fregio a ricami riportati di cherubini e vasi con fiori. Il fregio del cappuc- l damasco e del sec. xix, il fregio del sec. xvIll.",1012,80.9,False,positional,,,VASI,,
-BO0624_81980,670379,363,357,"(1269) COPERTA in antico velluto giallo rosa,bordata da gallone d'oro;m.2,26 X 2,05. Sec.XVIII. <!-- image -->",1017,94.8,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670380,364,358,"(1270) COPERTA in antico velluto giallo rosa bordata da gallone doro;m.2,45 x 2. Sec.XVIII.",1021,97.8,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670381,365,359,"(1324) LAMPADARIO di tipo olandese a dodici luci (sei adatte a elettricita) su due file in sei bracci alternati a tulipani. Finali sferici; alt. m. 1, diam.m. 0,78. Sec.XVII.",1025,98.8,False,positional,,,METALLI,,
+BO0624_81980,670377,361,355,"(1253) DUE PIVIALI disfatti in broccatello di fondo bianco a grandi ramages rossi;m.1,40 X 3. Sec.XVIII.",1011,98.0,False,positional,,,STOFFE; VELLUTI,,Sec. XIII
+BO0624_81980,670378,362,356,"(1255) PIVIALE in damasco rosso con fregio a ricami riportati di cherubini e vasi con fiori. Il fregio del cappuc- l damasco e del sec. xix, il fregio del sec. xvIll.",1012,80.9,False,positional,,,VASI,,Sec. XIII
+BO0624_81980,670379,363,357,"(1269) COPERTA in antico velluto giallo rosa,bordata da gallone d'oro;m.2,26 X 2,05. Sec.XVIII. <!-- image -->",1017,94.8,False,positional,,,STOFFE; VELLUTI,,Sec. XIII
+BO0624_81980,670380,364,358,"(1270) COPERTA in antico velluto giallo rosa bordata da gallone doro;m.2,45 x 2. Sec.XVIII.",1021,97.8,False,positional,,,STOFFE; VELLUTI,,Sec. XIII
+BO0624_81980,670381,365,359,"(1324) LAMPADARIO di tipo olandese a dodici luci (sei adatte a elettricita) su due file in sei bracci alternati a tulipani. Finali sferici; alt. m. 1, diam.m. 0,78. Sec.XVII.",1025,98.8,False,positional,,,METALLI,,Sec. XIV
 BO0624_81980,670382,366,360,- 361,1027,100.0,False,positional,,,METALLI,,
-BO0624_81980,670383,367,362,(1330) SERRATURA in bronzo cesellato e dorato; due bocchette ovali con putti che tengono fregi e nastri; me- talia settentrionale -Fine del sec.XVII.,1030,82.7,False,positional,,,METALLI,,
-BO0624_81980,670384,368,363,"(1312) DUE CANDELIERI in bronzo tornito, stelo con",1035,95.9,False,positional,,,METALLI,,
-BO0624_81980,670385,369,364,"m.0,12. Sec. XVII.",1038,88.2,False,positional,,,METALLI,,
+BO0624_81980,670383,367,362,(1330) SERRATURA in bronzo cesellato e dorato; due bocchette ovali con putti che tengono fregi e nastri; me- talia settentrionale -Fine del sec.XVII.,1030,82.7,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670384,368,363,"(1312) DUE CANDELIERI in bronzo tornito, stelo con",1035,95.9,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670385,369,364,"m.0,12. Sec. XVII.",1038,88.2,False,positional,,,METALLI,,Sec. XVII
 BO0624_81980,670386,370,365,Sec.XVII.,1040,80.0,False,positional,,,METALLI,,
-BO0624_81980,670387,371,366,Sec. XVII. ## MOBILI E OGGETTI DEL TARDO SETTECENTO E,1048,89.7,False,title_direct,,,OGGETTI VARI,,
-BO0624_81980,670388,372,367,"(1669) CANOCCHIALE della Marina da guerra inglese a otto cilindri, a tre lenti. In pergamena dipinta a tartaruga rosso e verde;m.0,60. Sec. XVIII.",1052,98.6,False,positional,,,MOBILI,,
+BO0624_81980,670387,371,366,Sec. XVII. ## MOBILI E OGGETTI DEL TARDO SETTECENTO E,1048,89.7,False,title_direct,,,OGGETTI VARI,,Sec. XVII
+BO0624_81980,670388,372,367,"(1669) CANOCCHIALE della Marina da guerra inglese a otto cilindri, a tre lenti. In pergamena dipinta a tartaruga rosso e verde;m.0,60. Sec. XVIII.",1052,98.6,False,positional,,,MOBILI,,Sec. XVIII
 BO0624_81980,670389,373,368,"gliata, orlo inciso, su tre gambe di uccello terminanti in artigli che tengono un globo; m. 0,75 X 0,52.",1053,98.0,False,positional,,,MOBILI,,
-BO0624_81980,670390,374,369,"(1497) DUE SALIERE di cristallo entro ottagono e base su piedini. Montatura in argento cesellato. Vassoio esagonale a lati curvi. Anse e piedini rocaille; alt. m. 0,05. Fine del sec. XVIll.",1055,98.9,False,positional,,,MOBILI,,
-BO0624_81980,670391,375,370,"(1499) ZUCCHERIERA ovoidale in argento, scanalata. Coperchio a punta; m. 0,24. Fine del sec. xvIll.",1056,97.8,False,positional,,,MOBILI,,
-BO0624_81980,670392,376,371,"(1502) SCATOLETTA in metallo smaltato nero e oro a riquadri, e orlo di perline verdi; montatura in argento; m.0,072X0,052X0,034. Stile ed epoca Luigi xVI.",1057,98.7,False,positional,,,MOBILI,,
-BO0624_81980,670393,377,372,"(1503) SCATOLETTA in smalto bianco e ricci a spirali d'oro rilevate; sul coperchio uno sportello,astuccio in",1058,98.1,False,positional,SEBASTIANO RICCI,,MOBILI,,
-BO0624_81980,670394,378,373,(1504) SCATOLETTA a smalto bianco in quadrettatura a rilievo dorato con due sportelli. Astuccio in pelle scura,1060,98.2,False,positional,,,MOBILI,,
-BO0624_81980,670395,379,374,"(1505) SCATOLETTA in metallo smaltato con nastri a zig-zag e rametti rilevati in oro, coperchio in due pezzi; m.0,082X 0,058 X0,034. Fine del secolo XVlll.",1062,98.7,False,positional,,,MOBILI,,
-BO0624_81980,670396,380,375,"(1512) QUATTRO POLTRONCINE a gondola, spalliera curva con perline dorate. Coperte di seta verde grigio con medaglioni; alt.m.0,84. Direttorio.",1063,98.5,False,positional,,,MOBILI,,
-BO0624_81980,670397,381,376,"(1530) PSICHE di forma ovale in radica e bronzo, con m.0,35 X0,27 X0,36.",1064,97.1,False,positional,,,MOBILI,,
-BO0624_81980,670398,382,377,"(1541*) TAVOLA circolare su tre sostegni in noce lumeggiato d'oro con teste di animali in bronzo. Piano a commesso geometrico di marmo di varii colori;m.0,75 per 0,83. Impero.",1066,98.8,False,positional,,,MOBILI,,
+BO0624_81980,670390,374,369,"(1497) DUE SALIERE di cristallo entro ottagono e base su piedini. Montatura in argento cesellato. Vassoio esagonale a lati curvi. Anse e piedini rocaille; alt. m. 0,05. Fine del sec. XVIll.",1055,98.9,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670391,375,370,"(1499) ZUCCHERIERA ovoidale in argento, scanalata. Coperchio a punta; m. 0,24. Fine del sec. xvIll.",1056,97.8,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670392,376,371,"(1502) SCATOLETTA in metallo smaltato nero e oro a riquadri, e orlo di perline verdi; montatura in argento; m.0,072X0,052X0,034. Stile ed epoca Luigi xVI.",1057,98.7,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670393,377,372,"(1503) SCATOLETTA in smalto bianco e ricci a spirali d'oro rilevate; sul coperchio uno sportello,astuccio in",1058,98.1,False,positional,SEBASTIANO RICCI,,MOBILI,,Sec. XVI
+BO0624_81980,670394,378,373,(1504) SCATOLETTA a smalto bianco in quadrettatura a rilievo dorato con due sportelli. Astuccio in pelle scura,1060,98.2,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670395,379,374,"(1505) SCATOLETTA in metallo smaltato con nastri a zig-zag e rametti rilevati in oro, coperchio in due pezzi; m.0,082X 0,058 X0,034. Fine del secolo XVlll.",1062,98.7,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670396,380,375,"(1512) QUATTRO POLTRONCINE a gondola, spalliera curva con perline dorate. Coperte di seta verde grigio con medaglioni; alt.m.0,84. Direttorio.",1063,98.5,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670397,381,376,"(1530) PSICHE di forma ovale in radica e bronzo, con m.0,35 X0,27 X0,36.",1064,97.1,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670398,382,377,"(1541*) TAVOLA circolare su tre sostegni in noce lumeggiato d'oro con teste di animali in bronzo. Piano a commesso geometrico di marmo di varii colori;m.0,75 per 0,83. Impero.",1066,98.8,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670399,383,378,"a erma quadrifronte; alt.m.0,28. Impero. <!-- image -->",1068,88.1,False,positional,,,MOBILI,,
 BO0624_81980,670400,384,379,"m. 0,30.",1074,75.0,False,positional,,,MOBILI,,
 BO0624_81980,670401,385,380,"ovale;alt.m.0,22.",1075,88.9,False,positional,,,MOBILI,,
-BO0624_81980,670402,386,381,"(1566*) LAMPADARIO IN BRONZO dorato, coppa di baccarat con campana, otto bracci in bronzo a cigno, quattro catene;m.1,10 x 0,60. Impero.",1077,98.5,False,positional,,,MOBILI,,
-BO0624_81980,670403,387,382,"(1593) VASSOIO circolare in bronzo dorato e cesellato a fondo di specchio su tre piedini; alt. m. 0,28. Tardo Impero.",1078,98.2,False,positional,,,MOBILI,,
-BO0624_81980,670404,388,383,"(1594*) VASSOIO circolare in bronzo dorato e cesellato con fondo di specchio su tre zampine di leone; m.0,27. Tardo Impero.",1079,98.3,False,positional,,,MOBILI,,
+BO0624_81980,670402,386,381,"(1566*) LAMPADARIO IN BRONZO dorato, coppa di baccarat con campana, otto bracci in bronzo a cigno, quattro catene;m.1,10 x 0,60. Impero.",1077,98.5,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670403,387,382,"(1593) VASSOIO circolare in bronzo dorato e cesellato a fondo di specchio su tre piedini; alt. m. 0,28. Tardo Impero.",1078,98.2,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670404,388,383,"(1594*) VASSOIO circolare in bronzo dorato e cesellato con fondo di specchio su tre zampine di leone; m.0,27. Tardo Impero.",1079,98.3,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670405,389,384,"mette lavorate a giorno e orlate; altezza m. 0,22. Impero.",1081,96.4,False,positional,,,MOBILI,,
-BO0624_81980,670406,390,385,(1612) DUE ANFORETTE d'argento （una mancante del coperchio) recanti sul corpo una donna con lira; alt.,1082,98.0,False,positional,,,MOBILI,,
-BO0624_81980,670407,391,3,"(1642*) PENDOLA in bronzo dorato con amorino sul plinto. In alto Diana cacciatrice sedente con uccello sulla spalla; alt. m. 0,46. Secondo Impero.",1089,99.3,False,positional,,,MOBILI,,
+BO0624_81980,670406,390,385,(1612) DUE ANFORETTE d'argento （una mancante del coperchio) recanti sul corpo una donna con lira; alt.,1082,98.0,False,positional,,,MOBILI,,Sec. XVII
+BO0624_81980,670407,391,3,"(1642*) PENDOLA in bronzo dorato con amorino sul plinto. In alto Diana cacciatrice sedente con uccello sulla spalla; alt. m. 0,46. Secondo Impero.",1089,99.3,False,positional,,,MOBILI,,Sec. XVII
 BO0624_81980,670408,392,4,DUE RITRATTI muliebri in cornice verdina e oro. Fir-,1090,98.0,False,positional,,,MOBILI,,
-BO0624_81980,670409,393,5,mati a tergo. Rosalba Bernini -Parma 1808.,1091,97.5,False,positional,ROSALBA CARRIERA,,MOBILI,,
+BO0624_81980,670409,393,5,mati a tergo. Rosalba Bernini -Parma 1808.,1091,97.5,False,positional,CARRIERA ROSALBA,,MOBILI,,Sec. XIX
 BO0624_81980,670410,394,6,ZUCCHERIERA A SPOLVERO (dredger)a sezione ottagonale.,1092,98.1,False,positional,,,MOBILI,,
 BO0624_81980,670411,395,I,nghilterra -Principio del sec.XIx.,1094,98.5,False,positional,,,MOBILI,,
 BO0624_81980,670412,396,386,- 387,1097,100.0,False,positional,,,MOBILI,,
@@ -400,7 +400,7 @@ BO0624_81980,670414,398,390,340,1101,100.0,False,positional,,,MOBILI,,
 BO0624_81980,670415,399,391,LUCERNETTA d'argento su alto tripode in bronzo: gambe a testa e piedi leonini. Impero.,1105,97.6,False,positional,,,MOBILI,,
 BO0624_81980,670416,400,392,tine verdi e fiori.(Un poco deteriorati). Secondo Impero.,1106,96.4,False,positional,,,MOBILI,,
 BO0624_81980,670417,401,393,PIATTO con decorazione a peonie. Giappone -Sec. XVIll.,1109,96.2,False,positional,,,MOBILI,,
-BO0624_81980,670418,402,394,"SCATOLA di lacca rossa decorata a motivi di paesaggio; m. 0,12 X0,17 X0,045. Cina - Sec. XVIII.",1110,97.8,False,positional,,,MOBILI,,
+BO0624_81980,670418,402,394,"SCATOLA di lacca rossa decorata a motivi di paesaggio; m. 0,12 X0,17 X0,045. Cina - Sec. XVIII.",1110,97.8,False,positional,,,MOBILI,,Sec. XVIII
 BO0624_81980,670419,403,395,"- DUE SCATOLETTE di lacca rossa a forma lobata, con motivi geometrici e figure; m.0,05 X 0,09. Cina -Sec.XVIl1.",1112,100.0,False,positional,,,MOBILI,,
 BO0624_81980,670420,404,396,"SEI VASI in maiolica policroma, senza coperchio; alt. m.0,15 circa. Cina - Epoca Ming.",1113,97.5,False,positional,,,VASI,,
 BO0624_81980,670421,405,397,"VASO ORIENTALE a forma di balaustra; alt. m. 0,30.",1114,95.8,False,positional,,,VASI,,
@@ -408,15 +408,15 @@ BO0624_81980,670422,406,398,"VASETTO orientale a forma di balaustra; alt.m.0,17.
 BO0624_81980,670423,407,399,"CANE DI FOO in legno (coda rifatta); alt. m.0,34.",1118,95.7,False,positional,,,MOBILI,,
 BO0624_81980,670424,408,400,"DUE PICCOLE potiches in porcellana bianca e coperchio, con decorazione floreale; guarnizioni di bronzo dorato.",1120,98.2,False,positional,,,MOBILI,,
 BO0624_81980,670425,409,401,nale.,1124,66.7,False,positional,,,MOBILI,,
-BO0624_81980,670426,410,402,- PIATTO ROTONDO a grande bordo quadrettato: nel centro peonie rosse. Giappone - Sec. XIX <!-- image -->,1127,96.5,False,positional,,,MOBILI,,
+BO0624_81980,670426,410,402,- PIATTO ROTONDO a grande bordo quadrettato: nel centro peonie rosse. Giappone - Sec. XIX <!-- image -->,1127,96.5,False,positional,,,MOBILI,,Sec. XIX
 BO0624_81980,670427,411,403,"(N. 915-Tav. CXLVIII) DUE PORTATORCIA in ferro battuto su tripode con fiori. Piatto a puntale; alt. m. 1,35. Sec.xV.",1135,98.1,False,positional,,,MOBILI,,
 BO0624_81980,670428,412,404,"(N. 921) SOSTEGNO DI LAMPADARIO in ferro con resti di doratura. Ricci nel fondo e al centro; alt.m. 1,45. talia settentrionale.-Sec.XVI.",1136,85.6,False,positional,SEBASTIANO RICCI,,MOBILI,,
 BO0624_81980,670429,413,405,"(N. 923) DUE ALARI in ferro battuto con pomi di bronzo; m.0,55X0,57. Sec.XVI.",1138,97.3,False,positional,,,MOBILI,,
 BO0624_81980,670430,414,406,(N. 925) LUCERNINA in ferro battuto con piattello a,1139,96.0,False,positional,,,MOBILI,,
 BO0624_81980,670431,415,407,(N. 928)DUE BRACCI in ferro battuto e dorato con fo-,1141,96.1,False,positional,,,MOBILI,,
-BO0624_81980,670432,416,408,Sec. XVII.,1144,80.0,False,positional,,,MOBILI,,
-BO0624_81980,670433,417,409,"(N. 947) ALARE in ferro battuto, telaio rettangolare con due cestelli, bracci mobili ad angolo con catene e reggipentole ai pilastri.Datato 1727;m.1,35X1,45X0,64. talia settentrionale - Sec. XvIlI.",1145,89.9,False,positional,,,MOBILI,,
-BO0624_81980,670434,418,410,"- (N. 732-Tav.CXXI) SAN SEBASTIANO CURATO DAGLI ANGELI. Dipinto ad olio su legno entro cornice nera e oro. Opera di G. B. Crespi detto il Cerano (circa 1576-1632);m.0,94 X 0,765.",1151,100.0,False,positional,CRESPI DANIELE,,PITTURE,,
+BO0624_81980,670432,416,408,Sec. XVII.,1144,80.0,False,positional,,,MOBILI,,Sec. XVII
+BO0624_81980,670433,417,409,"(N. 947) ALARE in ferro battuto, telaio rettangolare con due cestelli, bracci mobili ad angolo con catene e reggipentole ai pilastri.Datato 1727;m.1,35X1,45X0,64. talia settentrionale - Sec. XvIlI.",1145,89.9,False,positional,,,MOBILI,,Sec. XVIII
+BO0624_81980,670434,418,410,"- (N. 732-Tav.CXXI) SAN SEBASTIANO CURATO DAGLI ANGELI. Dipinto ad olio su legno entro cornice nera e oro. Opera di G. B. Crespi detto il Cerano (circa 1576-1632);m.0,94 X 0,765.",1151,100.0,False,positional,CRESPI DANIELE,,PITTURE,,Sec. XVII
 BO0624_81980,670435,419,411,"(N. 736) RITRATTO DI DAMA seduta con libro di musica in mano. Dipinto ad olio su tela entro cornice a bastone dorata,moderna;m.1,85 X1,34. Fine del sec. xVll -Inizio del sec.XVIlI.",1157,98.9,False,positional,,,PITTURE,,
 BO0624_81980,670436,420,412,"(N. 737) RITRATTO VIRILE stante con ricco jabot e cravatta rossa. Dipinto ad olio su tela entro cornice a bastone dorata,moderna; m.1,85 X 1,34. Fine del sec. XVlI -Inizio del sec. XVIll.",1158,98.9,False,positional,,,PITTURE,,
 BO0624_81980,670437,421,413,"- (N. 751) QUATTRO FIGURE DI DONNE a mezZo busto in varie fogge. Dipinti ad olio su tela entro cornicine rossiccie e oro; m.0,77 X 057. Scuola veneziana del sec. xvill.",1160,100.0,False,positional,,Scuola Veneziana,PITTURE,,
@@ -430,16 +430,16 @@ BO0624_81980,670444,428,420,chiato azzurro;alt.m.050. Delft (?)-Sec.XVIII.,1180,
 BO0624_81980,670445,429,421,"(N. 682) PIATTINO esagonale in porcellana con stemma scaccato oro e azzurro e sbarra con tre cervi (armi Clifford of Frampton); m.0,13. Inghilterra (Lowestoft)-Sec.XVIll.",1181,98.8,False,positional,,,MAIOLICHE; PORCELLANE,,
 BO0624_81980,670446,430,422,"- (N. 685) FIASCHETTA in maiolica bianca baccellata; alt.m.0,15. Sec.XVIII.",1183,100.0,False,positional,,,MAIOLICHE; PORCELLANE,,
 BO0624_81980,670447,431,423,(N. 690) PIATTINO in porcellana con stemma a croce,1184,95.9,False,positional,,,MAIOLICHE; PORCELLANE,,
-BO0624_81980,670448,432,424,"la: tre torri e fascia con tre croci; m.0,16. Sec. XVIII.",1187,96.3,False,positional,,,MAIOLICHE; PORCELLANE,,
-BO0624_81980,670449,433,425,"- (N. 693) TAZZINA e piattino di porcellana bianca dipinta a vasetto con fiori;m.0,05. Sec. XVIII.",1189,100.0,False,positional,,,MAIOLICHE; PORCELLANE,,
+BO0624_81980,670448,432,424,"la: tre torri e fascia con tre croci; m.0,16. Sec. XVIII.",1187,96.3,False,positional,,,MAIOLICHE; PORCELLANE,,Sec. XVIII
+BO0624_81980,670449,433,425,"- (N. 693) TAZZINA e piattino di porcellana bianca dipinta a vasetto con fiori;m.0,05. Sec. XVIII.",1189,100.0,False,positional,,,MAIOLICHE; PORCELLANE,,Sec. XVIII
 BO0624_81980,670450,434,426,"alla certosina; m.1,88X 0,70 X 0,63. Sec.xV. <!-- image -->",1194,89.1,False,positional,,,MOBILI,,
 BO0624_81980,670451,435,427,"(N. 14) FORZIERINO per gioielli in legno gia dorato (resta il bolo rosso) a motivi geometrici incisi;m.0,36 X 0,20X0,12.",1203,98.3,False,positional,,,MOBILI,,
-BO0624_81980,670452,436,428,"(N.1659) FORZIERINO in avorio,ebano e legno a intarsii geometrici bianco,nero,verde,ecc.；m.0,19x0,12x0,10.",1207,98.1,False,positional,,,MOBILI,,
+BO0624_81980,670452,436,428,"(N.1659) FORZIERINO in avorio,ebano e legno a intarsii geometrici bianco,nero,verde,ecc.；m.0,19x0,12x0,10.",1207,98.1,False,positional,,,MOBILI,,Sec. XVII
 BO0624_81980,670453,437,429,"(N. 15 -Tav. VII) MADIA con riquadri intarsiati nel corpo centrale e con i lati a contorno lobato di tipo gotico in basso;m.1,45X 0,60X 0,88.",1209,98.5,False,positional,,,MOBILI,,
 BO0624_81980,670454,438,430,"(N. 25 - Tav. XI) LETTO in noce a quattro colonne; a) piedi a cipolla, fasce, capitelli corinzi e finali a vaso (con fregi di foglie d'edera ed angeli musicanti) dorati, b) baldacchino (interno ed esterno), c) tenda di testata, d) coperta, in broccatello giallo a fondo chermisino con motivo di rombi intrecciati; un po' guasta; m. 2,65X 2,15X1,80.",1216,99.4,False,positional,,,VASI,,
 BO0624_81980,670455,439,431,- 432,1223,100.0,False,positional,,,MOBILI,,
 BO0624_81980,670456,440,433,"- (N. 162) DUE CANDELIERI in legno intagliato verde e oro, con base su tre piedi leonini; alt.m. 0,73. Sec.XVI-XVII.",1225,100.0,False,positional,,,MOBILI,,
-BO0624_81980,670457,441,434,"(N. 168) CORNICE in legno intagliato dipinto di nero e oro con inicisioni e decorazioni a pastiglia. Adattata a specchio; m.0,58 X 0,52. Sec. XVI.",1226,98.6,False,positional,,,MOBILI,,
+BO0624_81980,670457,441,434,"(N. 168) CORNICE in legno intagliato dipinto di nero e oro con inicisioni e decorazioni a pastiglia. Adattata a specchio; m.0,58 X 0,52. Sec. XVI.",1226,98.6,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670458,442,435,"(N. 170) PICCOLA CORNICE in legno inciso e dorato, adattata a specchio;m.0,30 X 0,27. Sec.XVI.",1227,97.8,False,positional,,,MOBILI,,
 BO0624_81980,670459,443,436,(N. 172) QUATTRO MENSOLONI da busti in legno in-,1228,95.7,False,positional,,,MOBILI,,
 BO0624_81980,670460,444,437,"(N. 205) CASSA DA BIANCHERIA in legno con coperchio semicilindrico.Il rivestimento del coperchio e moderno; m. 0,74 X 1,35 X 0,42. Sec. xVII.",1230,98.5,False,positional,,,BIANCHERIA,,
@@ -452,49 +452,49 @@ BO0624_81980,670466,450,443,"(N. 964) ARAZZO con ghirlanda ovale di fiori su fon
 BO0624_81980,670467,451,444,"(N. 965) PEZZO DI TAPPETO PERSIANO con grandi arabeschi gialli a occhi di pavone su fondo rosso fragola: orlo verde scuro su due lati; m. 3,52 X 1,40. Ispahan -Sec.XV.",1250,98.8,False,title_direct,,,TAPPETI,,
 BO0624_81980,670468,452,445,"(N. 998) PEDANA a fondo turchino con palmette verdi. Bordura rossa a motivi geometrici multicolori;m.1,41 X 0,98.",1251,98.2,False,positional,,,TAPPETI,,
 BO0624_81980,670469,453,446,"(N. 999) PEDANA a disegni geometrici in nero,marrone e azzurro chiarissimo, su fondo nocciola; m.1,78 X 1,02. Belucistan -Sec.XVIIl.",1255,98.4,False,positional,,,TAPPETI,,
-BO0624_81980,670470,454,447,"- (N. 1000) PEDANA con disegni geometrici azzurri su fondo rosso; 1,95 X 1,33. Belucistan -Sec.XVIIl.",1257,100.0,False,positional,,,TAPPETI,,
-BO0624_81980,670471,455,448,"(N.1007) TAPPETO a fondo rosso vino con triplice orlo; m.1,90 X 1,02. Asia Minore -Sec.XIX.",1258,97.7,False,title_direct,,,TAPPETI,,
+BO0624_81980,670470,454,447,"- (N. 1000) PEDANA con disegni geometrici azzurri su fondo rosso; 1,95 X 1,33. Belucistan -Sec.XVIIl.",1257,100.0,False,positional,,,TAPPETI,,Sec. XI
+BO0624_81980,670471,455,448,"(N.1007) TAPPETO a fondo rosso vino con triplice orlo; m.1,90 X 1,02. Asia Minore -Sec.XIX.",1258,97.7,False,title_direct,,,TAPPETI,,Sec. XI
 BO0624_81980,670472,456,449,"guasto;m.2 X 1,60.",1260,89.5,False,positional,,,TAPPETI,,
 BO0624_81980,670473,457,450,<!-- image --> ## STOFFE E VELLUTI,1269,84.2,False,title_direct,,,STOFFE,,
-BO0624_81980,670474,458,451,"- (N. 1127) PANNELLO di velluto grigio celeste con riporti di seta gialla e ricami di vari colori. Cordoncino d'oro; m. 1,75 x 0,19. Sec. xVI.",1272,100.0,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670475,459,452,(N. 1158) PIVIALE senza scudo in broccatello verde a,1273,96.1,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670476,460,453,"(N. 1199) CINQUE PORTIERE con festoni di broccatello giallo a grandi volute e fiorami verdi, con frange e galloni. 1 festoni sono di disegno diverso; m. 1,32 X 2,27, balza m. 0,33. Sec. XVII.",1275,98.9,False,positional,,,STOFFE; VELLUTI,,
-BO0624_81980,670477,461,454,"- (N. 1222) TAPPETO in antico velluto rosso con gallone d'oro; m. 1,32 X 1,62. Sec. XVII.",1277,100.0,False,title_direct,,,TAPPETI,,
-BO0624_81980,670478,462,455,(N. 1261) PICCOLO TAPPETO in raso rosso ricamato a,1278,95.9,False,title_direct,,,TAPPETI,,
-BO0624_81980,670479,463,456,"(N. 1275) VELLUTO DI SCUTARI con decorazioni floreali in verde azzurro e rosa su fondo beige; alt.m.0,95 largh. m. 0,57. Sec. XVIII.",1280,98.4,False,title_direct,,,VELLUTI,,
-BO0624_81980,670480,464,457,"(N.1276) VELLUTO DI SCUTARI con decorazioni floreali in verde azzurro e rosa su fondo beige; alt. m. 0,95, largh. m. 0,57. Sec. XVIII.",1281,98.4,False,title_direct,,,VELLUTI,,
-BO0624_81980,670481,465,458,"- (N.1332-Tav.CXCI) PIEDE DI CANDELIERE in bronzo ageminato con fiori a otto petali;leggenda araba; m.0,20X0,19. Sec.XVII-XVIII. - (N. 1335 -Tav. CXCII) CANDELIERE in bronzo tornito;",1286,84.0,False,positional,,,METALLI,,
-BO0624_81980,670482,466,459,"alt. m. 0,41. Sec. XVIII.",1292,90.9,False,positional,,,METALLI,,
+BO0624_81980,670474,458,451,"- (N. 1127) PANNELLO di velluto grigio celeste con riporti di seta gialla e ricami di vari colori. Cordoncino d'oro; m. 1,75 x 0,19. Sec. xVI.",1272,100.0,False,positional,,,STOFFE; VELLUTI,,Sec. XII
+BO0624_81980,670475,459,452,(N. 1158) PIVIALE senza scudo in broccatello verde a,1273,96.1,False,positional,,,STOFFE; VELLUTI,,Sec. XII
+BO0624_81980,670476,460,453,"(N. 1199) CINQUE PORTIERE con festoni di broccatello giallo a grandi volute e fiorami verdi, con frange e galloni. 1 festoni sono di disegno diverso; m. 1,32 X 2,27, balza m. 0,33. Sec. XVII.",1275,98.9,False,positional,,,STOFFE; VELLUTI,,Sec. XVII
+BO0624_81980,670477,461,454,"- (N. 1222) TAPPETO in antico velluto rosso con gallone d'oro; m. 1,32 X 1,62. Sec. XVII.",1277,100.0,False,title_direct,,,TAPPETI,,Sec. XVII
+BO0624_81980,670478,462,455,(N. 1261) PICCOLO TAPPETO in raso rosso ricamato a,1278,95.9,False,title_direct,,,TAPPETI,,Sec. XIII
+BO0624_81980,670479,463,456,"(N. 1275) VELLUTO DI SCUTARI con decorazioni floreali in verde azzurro e rosa su fondo beige; alt.m.0,95 largh. m. 0,57. Sec. XVIII.",1280,98.4,False,title_direct,,,VELLUTI,,Sec. XVIII
+BO0624_81980,670480,464,457,"(N.1276) VELLUTO DI SCUTARI con decorazioni floreali in verde azzurro e rosa su fondo beige; alt. m. 0,95, largh. m. 0,57. Sec. XVIII.",1281,98.4,False,title_direct,,,VELLUTI,,Sec. XVIII
+BO0624_81980,670481,465,458,"- (N.1332-Tav.CXCI) PIEDE DI CANDELIERE in bronzo ageminato con fiori a otto petali;leggenda araba; m.0,20X0,19. Sec.XVII-XVIII. - (N. 1335 -Tav. CXCII) CANDELIERE in bronzo tornito;",1286,84.0,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670482,466,459,"alt. m. 0,41. Sec. XVIII.",1292,90.9,False,positional,,,METALLI,,Sec. XVIII
 BO0624_81980,670483,467,460,Sec.XVIII.,1294,81.8,False,positional,,,METALLI,,
-BO0624_81980,670484,468,461,"(N. 1341) DUE VASETTI (Compagnie des Indes) su base di bronzo e coperchio a fondo azzurro con occhi di pernice, vignette a colori; alt.m.0,25. Sec.XVIII.",1295,98.6,False,positional,,,METALLI,,
-BO0624_81980,670485,469,462,"(N.1397) CAFFETTIERA in argento scanalata,piede centinato, ansa in legno chiaro (rimessa) alt. m. 0,23. Sec.XVIII.",1296,98.1,False,positional,,,METALLI,,
-BO0624_81980,670486,470,463,"(N. 1398) CAFFETTIERA in argento sbalzato, ansa in legno, tre piedi a zampa d'ariete, pomo ad ananasso; alt.m.0,26. Sec.XVIII.",1297,98.3,False,positional,,,METALLI,,
+BO0624_81980,670484,468,461,"(N. 1341) DUE VASETTI (Compagnie des Indes) su base di bronzo e coperchio a fondo azzurro con occhi di pernice, vignette a colori; alt.m.0,25. Sec.XVIII.",1295,98.6,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670485,469,462,"(N.1397) CAFFETTIERA in argento scanalata,piede centinato, ansa in legno chiaro (rimessa) alt. m. 0,23. Sec.XVIII.",1296,98.1,False,positional,,,METALLI,,Sec. XIV
+BO0624_81980,670486,470,463,"(N. 1398) CAFFETTIERA in argento sbalzato, ansa in legno, tre piedi a zampa d'ariete, pomo ad ananasso; alt.m.0,26. Sec.XVIII.",1297,98.3,False,positional,,,METALLI,,Sec. XIV
 BO0624_81980,670487,471,464,"a cordone, su quattro piedi. Di varie dimensioni. Venezia - Sec. XVIll.",1299,97.0,False,positional,,,METALLI,,
-BO0624_81980,670488,472,465,"sbalzato con rose;m.0,10 X 0,15 X 0,10. Sec. XVIII.",1301,96.0,False,positional,,,METALLI,,
-BO0624_81980,670489,473,466,"(N. 1401) SCATOLETTA in smalto celeste, coperchio a",1302,95.9,False,positional,,,METALLI,,
-BO0624_81980,670490,474,467,"(N. 1402) ASTUCCIO TASCABILE in argento e smalto azzurro con quattro miniature; m. 0,09. Francia - Sec. XVIlI.",1307,98.0,False,positional,,,METALLI,,
-BO0624_81980,670491,475,468,"(N.1403) SCATOLETTA a forma di cuore in smalto bianco quadrettato d'azzurro con figurine cinesi rosso vivo,dipinte sul coperchio;m.0,05 X 0,04 X 0,035. Francia -Sec. XVIll.",1308,98.8,False,positional,,,METALLI,,
-BO0624_81980,670492,476,469,"(N. 1404) SCATOLETTA in metallo smaltato con fascie oblique azzurre e bianche. Nel centro miniature di amorini, soldati,e nell'interno battaglia;m.008x0,06x0,04.",1309,98.7,False,positional,,,METALLI,,
-BO0624_81980,670493,477,470,"- (N. 1415*) CONSOLLE in legno intagliato e dorato; ornata di teste femminili sul davanti e ai lati. Piano di marmo violaceo a tinta quasi unita;m.0,97 X 1,07 X 0,60. Stile Luigi XVI.",1315,100.0,False,positional,,,MOBILI,,
-BO0624_81980,670494,478,438,"- 471 (N. 1426*-Tav.CCXI) DUE TAVOLINI da notte,ornati di teste di guerrieri e vasi di fiori; m. 0,85 X 0,43 X 0,31.",1320,100.0,False,positional,,,VASI,,
-BO0624_81980,670495,479,472,"(N. 1434*) PICCOLA POLTRONA poggiapiedi intagliata e dorata, coperta di raso celeste; alt. m. 0,35. Francia -Stile Luigi XVI.",1322,98.3,False,positional,,,POLTRONE,,
-BO0624_81980,670496,480,473,"(N. 1447*) SCRIVANIA sopramobile in mogano con ribalta e piano di marmo. Ringhierina in legno; alt. metri 0,57 x0,28. Fine del sec.xvill.",1323,98.5,False,positional,,,MOBILI,,
-BO0624_81980,670497,481,474,"(N. 1456*) DUE SOPRAMOBILI a forma di piccoli cascassetti ciascuno; m. 0,56 X 0,85 X 0,28.",1324,97.6,False,title_direct,,,MOBILI,,
-BO0624_81980,670498,482,475,"- (N. 1498) VASSOIQ ovale in argento: orlo baccellato; foglie e fiori graffiti nel centro; m. 0,41 X 0,53. Ultimi del sec. XVIll.",1327,100.0,False,positional,,,MOBILI,,
-BO0624_81980,670499,483,476,(N. 1513) SCRIVANIA in mogano chiaro con sobri in-,1328,95.8,False,positional,,,MOBILI,,
+BO0624_81980,670488,472,465,"sbalzato con rose;m.0,10 X 0,15 X 0,10. Sec. XVIII.",1301,96.0,False,positional,,,METALLI,,Sec. XVIII
+BO0624_81980,670489,473,466,"(N. 1401) SCATOLETTA in smalto celeste, coperchio a",1302,95.9,False,positional,,,METALLI,,Sec. XV
+BO0624_81980,670490,474,467,"(N. 1402) ASTUCCIO TASCABILE in argento e smalto azzurro con quattro miniature; m. 0,09. Francia - Sec. XVIlI.",1307,98.0,False,positional,,,METALLI,,Sec. XV
+BO0624_81980,670491,475,468,"(N.1403) SCATOLETTA a forma di cuore in smalto bianco quadrettato d'azzurro con figurine cinesi rosso vivo,dipinte sul coperchio;m.0,05 X 0,04 X 0,035. Francia -Sec. XVIll.",1308,98.8,False,positional,,,METALLI,,Sec. XV
+BO0624_81980,670492,476,469,"(N. 1404) SCATOLETTA in metallo smaltato con fascie oblique azzurre e bianche. Nel centro miniature di amorini, soldati,e nell'interno battaglia;m.008x0,06x0,04.",1309,98.7,False,positional,,,METALLI,,Sec. XV
+BO0624_81980,670493,477,470,"- (N. 1415*) CONSOLLE in legno intagliato e dorato; ornata di teste femminili sul davanti e ai lati. Piano di marmo violaceo a tinta quasi unita;m.0,97 X 1,07 X 0,60. Stile Luigi XVI.",1315,100.0,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670494,478,438,"- 471 (N. 1426*-Tav.CCXI) DUE TAVOLINI da notte,ornati di teste di guerrieri e vasi di fiori; m. 0,85 X 0,43 X 0,31.",1320,100.0,False,positional,,,VASI,,Sec. XV
+BO0624_81980,670495,479,472,"(N. 1434*) PICCOLA POLTRONA poggiapiedi intagliata e dorata, coperta di raso celeste; alt. m. 0,35. Francia -Stile Luigi XVI.",1322,98.3,False,positional,,,POLTRONE,,Sec. XV
+BO0624_81980,670496,480,473,"(N. 1447*) SCRIVANIA sopramobile in mogano con ribalta e piano di marmo. Ringhierina in legno; alt. metri 0,57 x0,28. Fine del sec.xvill.",1323,98.5,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670497,481,474,"(N. 1456*) DUE SOPRAMOBILI a forma di piccoli cascassetti ciascuno; m. 0,56 X 0,85 X 0,28.",1324,97.6,False,title_direct,,,MOBILI,,Sec. XV
+BO0624_81980,670498,482,475,"- (N. 1498) VASSOIQ ovale in argento: orlo baccellato; foglie e fiori graffiti nel centro; m. 0,41 X 0,53. Ultimi del sec. XVIll.",1327,100.0,False,positional,,,MOBILI,,Sec. XV
+BO0624_81980,670499,483,476,(N. 1513) SCRIVANIA in mogano chiaro con sobri in-,1328,95.8,False,positional,,,MOBILI,,Sec. XVI
 BO0624_81980,670500,484,477,"(N. 1535a*) CIMASA di specchiera in legno intagliato e dorato; figure sedute su una fontana al centro; m. 0,90 per m. 2,30. Impero.",1330,98.4,False,positional,,,MOBILI,,
 BO0624_81980,670501,485,478,(N. 1535b*) QUATTRO GRANDI CIMASE da tenda intagliate e dorate. Nel centro due figure virili sedute su,1331,98.0,False,positional,,,MOBILI,,
 BO0624_81980,670502,486,479,"da una corona chiusa; alt. m. 0,14. Impero.",1334,95.0,False,positional,,,MOBILI,,
-BO0624_81980,670503,487,480,"(N. 1549*) PICCOLO LUME DA NOTTE in porcellana; cilindro verde marmorizzato con festoni dorati,in due parti; alt. m. 0,19. Wedgwood -Impero.",1335,98.5,False,positional,,,OGGETTI VARI,,
+BO0624_81980,670503,487,480,"(N. 1549*) PICCOLO LUME DA NOTTE in porcellana; cilindro verde marmorizzato con festoni dorati,in due parti; alt. m. 0,19. Wedgwood -Impero.",1335,98.5,False,positional,,,OGGETTI VARI,,Sec. XVI
 BO0624_81980,670504,488,481,Wedgwood - Impero.,1337,88.2,False,positional,,,OGGETTI VARI,,
-BO0624_81980,670505,489,482,(N. 1565*) DUE CANDELIERI in bronzo dorato e cesel-,1339,95.8,False,positional,,,MOBILI,,
-BO0624_81980,670506,490,483,"(N. 1579*) GRANDE PENDOLA con Mercurio, in bronzo cesellato e dorato;m.0,67 X 0,44. Tardo Impero.",1341,97.8,False,positional,,,MOBILI,,
-BO0624_81980,670507,491,484,"- (N. 1597*) BUSTO DI MENELAO in bronzo brunito su base dorata; alt.m.0,30.",1343,100.0,False,positional,,,MOBILI,,
-BO0624_81980,670508,492,485,"- (N.1603*) DUE MASSICCI FERMATENDE a foglia di acanto in bronzo dorato; alt. m. 0,24. Impero.",1345,100.0,False,positional,,,MOBILI,,
-BO0624_81980,670509,493,486,"(N. 1633*) TAZZA DA BRODO in porcellana, piatto e coperchio dipinti con scene mitologiche e medaglioni",1346,98.0,False,positional,,,MOBILI,,
-BO0624_81980,670510,494,487,"(N. 1635) TAPPETO di Aubusson a fondo granata; metri 5,32×5,80.",1348,96.7,False,title_direct,,,AUBUSSONS,,
-BO0624_81980,670511,495,488,"(N. 1647) COPERTA di broccato a fondo creme lamato d'argento con motivi floreali rosa, rossi oro e blu; metri 2,27 X 1,60. Sec. XIX.",1350,98.4,False,positional,,,MOBILI,,
-BO0624_81980,670512,496,489,(N. 1648) BROCCATO in fondo celeste con motivi flo-,1351,95.9,False,positional,,,MOBILI,,
+BO0624_81980,670505,489,482,(N. 1565*) DUE CANDELIERI in bronzo dorato e cesel-,1339,95.8,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670506,490,483,"(N. 1579*) GRANDE PENDOLA con Mercurio, in bronzo cesellato e dorato;m.0,67 X 0,44. Tardo Impero.",1341,97.8,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670507,491,484,"- (N. 1597*) BUSTO DI MENELAO in bronzo brunito su base dorata; alt.m.0,30.",1343,100.0,False,positional,,,MOBILI,,Sec. XVI
+BO0624_81980,670508,492,485,"- (N.1603*) DUE MASSICCI FERMATENDE a foglia di acanto in bronzo dorato; alt. m. 0,24. Impero.",1345,100.0,False,positional,,,MOBILI,,Sec. XVII
+BO0624_81980,670509,493,486,"(N. 1633*) TAZZA DA BRODO in porcellana, piatto e coperchio dipinti con scene mitologiche e medaglioni",1346,98.0,False,positional,,,MOBILI,,Sec. XVII
+BO0624_81980,670510,494,487,"(N. 1635) TAPPETO di Aubusson a fondo granata; metri 5,32×5,80.",1348,96.7,False,title_direct,,,AUBUSSONS,,Sec. XVII
+BO0624_81980,670511,495,488,"(N. 1647) COPERTA di broccato a fondo creme lamato d'argento con motivi floreali rosa, rossi oro e blu; metri 2,27 X 1,60. Sec. XIX.",1350,98.4,False,positional,,,MOBILI,,Sec. XIX
+BO0624_81980,670512,496,489,(N. 1648) BROCCATO in fondo celeste con motivi flo-,1351,95.9,False,positional,,,MOBILI,,Sec. XVII
 BO0624_81980,670513,497,490,"- reali policromi;m. 3 X 1,03. Sec. XIx.",1353,100.0,False,positional,,,MOBILI,,
 BO0624_81980,670514,498,491,"TAVOLO ROTONDO girevole in mogano con tre alzate circolari portalibri e bibelots; alt. m.1,50, diam. m. 1,65. Secondo Impero.",1355,98.3,False,positional,,,MOBILI,,
 BO0624_81980,670515,499,492,"m.0,08. Inghilterra (?)-Sec.XIx.",1357,92.9,False,positional,,,MOBILI,,

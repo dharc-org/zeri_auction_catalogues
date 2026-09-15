@@ -1,13 +1,13 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84824,718309,1,1,"Im Boudoir. Halbangezogene Dame, lesend auf einer Chaiselongue sitzend. Bezeichnet. Leinwand, 80×60 cm. Goldrahmen.",7,99.1,False,positional,"Argyros, J.",,,,
-BO0624_84824,718310,2,2,Konigsee. Bezeichnet. Leinwand 68x43 cm. Schwarzer Rahmen. 1894.,13,93.9,False,positional,"Basch, B.",,CORNICI,,
+BO0624_84824,718310,2,2,Konigsee. Bezeichnet. Leinwand 68x43 cm. Schwarzer Rahmen. 1894.,13,93.9,False,positional,"Basch, B.",,CORNICI,,Sec. XIX
 BO0624_84824,718311,3,3,Ebenalp am Santis. Bezeichnet. Leinwand 40 x 26 cm. Goldrahmen.,19,98.3,False,positional,"Baisch, Hermann",,,,
 BO0624_84824,718312,4,4,Landschafts-Skizze. Bezeichnet. Leinwand 24x 15 cm. Goldrahmen.,20,99.2,False,positional,"Baisch, Hermann",,,,
 BO0624_84824,718313,5,6,Lesender Kardinal. Rechts Kamin mit Spiegel und Vase. Bezeichnet. Leinwand 45 x 33 cm. Goldrahmen.,27,98.9,False,positional,"Barascudts, M.",,CAMINI,,
 BO0624_84824,718314,6,7,Nachtstimmung. Bezeichnet. Holz 27 x20 cm. Goldrahmen.,33,98.0,False,positional,"Baumgartner, Max",,OGGETTI IN LEGNO,,
 BO0624_84824,718315,7,8,Landschaft in Sidtirol. Bezeichnet. Leinwand 45x30 cm. Goldrahmen.,39,98.4,False,positional,"Becker, Benno",,,,
 BO0624_84824,718316,8,9,Hochebene. Bezeichnet. Leinwand 106x95 cm. Goldrahmen.,40,98.0,False,positional,"Becker, Benno",,,,
-BO0624_84824,718317,9,10,Schlacht am Skagerak 31. Mai 1916. Bezeichnet. Leinwand 600x300 cm. Goldrahmen.,48,98.0,False,positional,"Bergen, Claus",,,,
+BO0624_84824,718317,9,10,Schlacht am Skagerak 31. Mai 1916. Bezeichnet. Leinwand 600x300 cm. Goldrahmen.,48,98.0,False,positional,"Bergen, Claus",,,,Sec. XX
 BO0624_84824,718318,10,11,"Fischerbarken auf hoher See. Im Vordergrund eine Fischerbarke in voller Fahrt die Wellen durchquerend; im Hintergrund verschiedene Segel, rechts felsige Kiste. Bezeichnet. Leinwand 150x 120 cm. Goldrahmen.",50,99.2,False,positional,"Bergen, Claus",,,,
 BO0624_84824,718319,11,12,Lustige Heimkehr. Bezeichnet. Leinwand 86x69 cm.,58,96.8,False,positional,"von Bergen, Carl",,,,
 BO0624_84824,718320,12,13,Morgenstimmung. Bezeichnet. Leinwand 95x115 cm. Schwarzer Rahmen.,66,97.6,False,positional,"Berger, G.",,CORNICI,,
@@ -16,23 +16,23 @@ BO0624_84824,718322,14,15,Hollandische Muhle. Abendstimmung. Bezeichnet. Leinwan
 BO0624_84824,718323,15,16,Kihe. Bezeichnet. Holz 58x48 cm. Schwarzer Rahmen.,79,96.8,False,positional,"Bergmann, Julius",,CORNICI,,
 BO0624_84824,718324,16,17,Landschaft mit Staffage. Abendstimmung. Bezeichnet. Leinwand 50x40 cm. Goldrahmen.,85,98.1,False,positional,"Bernard, J.",,,,
 BO0624_84824,718325,17,18,"Der Aktuar. Alter Herr mit Brille, den Gansekiel hinterm Ohr. Blauer Rock, Brustbild. Bezeichnet. Leinwand 40x50 cm.Goldrahmen. Abbildung Tafel 14.",91,98.9,False,positional,"Best, Hans",,,,
-BO0624_84824,718326,18,19,Die Entfihrung. Ein Junker tragt eine Nonne im Arm und besteigt mit ihr einen Kahn. Im Hintergrund eine Strickleiter an der Klostermauer. Bezeichnet. Leinwand 40x 60 cm. Abbildung Tafel 12. 1905.,99,97.9,False,positional,"Bohm, Pal",,,,
+BO0624_84824,718326,18,19,Die Entfihrung. Ein Junker tragt eine Nonne im Arm und besteigt mit ihr einen Kahn. Im Hintergrund eine Strickleiter an der Klostermauer. Bezeichnet. Leinwand 40x 60 cm. Abbildung Tafel 12. 1905.,99,97.9,False,positional,"Bohm, Pal",,,,Sec. XX
 BO0624_84824,718327,19,20,"Zigeunermadchen in italienischer Tracht am Brunnen, auf dem ein WassergefaB steht. Bezeichnet. Leinwand 32x52. Goldrahmen.",103,98.7,False,positional,"Bohm, Pal",,,,
-BO0624_84824,718328,20,21,Uberfall im Schlafgemach. Bezeichnet. Pappe 50 x34. Dunkler Rahmen. 1916.,109,94.0,False,positional,"Boppo, G.",,CORNICI,,
-BO0624_84824,718329,21,22,Der Regimentstambour. NachlaBstempel. Pappe 26x50 cm. Schwarzer Rahmen. 1869.,115,94.4,False,positional,"Braun, Louis",,CORNICI,,
+BO0624_84824,718328,20,21,Uberfall im Schlafgemach. Bezeichnet. Pappe 50 x34. Dunkler Rahmen. 1916.,109,94.0,False,positional,"Boppo, G.",,CORNICI,,Sec. XX
+BO0624_84824,718329,21,22,Der Regimentstambour. NachlaBstempel. Pappe 26x50 cm. Schwarzer Rahmen. 1869.,115,94.4,False,positional,"Braun, Louis",,CORNICI,,Sec. XIX
 BO0624_84824,718330,22,23,RehgeiB mit Kitz in Waldlandschaft. Nachlabstempel Ruckseite. Pappe 69x 49 cm. Schwarzer Rahmen.,121,98.4,False,positional,"Birkel, Heinrich",,CORNICI,,
-BO0624_84824,718331,23,24,Am Dorfweiher bei Sturm. Bez.1884.Leinwand 38x30 cm. Goldrahmen.,127,97.6,False,positional,"Buttersack, Bernhard",,,,
-BO0624_84824,718332,24,25,"Sommerlandschaft. In einem seichten Tumpel im Vordergrund stehen einige Schafe und Kuhe, andere ruhen unter groBen Weidenbaumen. Links an einem Feuer Hirtenbuben und Madchen. Bezeichnet. Leinwand 105 x65 cm. Goldrahmen. (Das Gemalde ist erwahnt in Muller-Singer Bd. I S.221). 1885.",131,98.5,False,positional,"Canton, Gustav",,,,
+BO0624_84824,718331,23,24,Am Dorfweiher bei Sturm. Bez.1884.Leinwand 38x30 cm. Goldrahmen.,127,97.6,False,positional,"Buttersack, Bernhard",,,,Sec. XIX
+BO0624_84824,718332,24,25,"Sommerlandschaft. In einem seichten Tumpel im Vordergrund stehen einige Schafe und Kuhe, andere ruhen unter groBen Weidenbaumen. Links an einem Feuer Hirtenbuben und Madchen. Bezeichnet. Leinwand 105 x65 cm. Goldrahmen. (Das Gemalde ist erwahnt in Muller-Singer Bd. I S.221). 1885.",131,98.5,False,positional,"Canton, Gustav",,,,Sec. XIX
 BO0624_84824,718333,25,26,27,137,100.0,False,positional,"Canton, Gustav",,,,
 BO0624_84824,718334,26,28,29,141,100.0,False,positional,"Canton, Gustav",,,,
 BO0624_84824,718335,27,30,3,145,100.0,False,positional,"Canton, Gustav",,,,
 BO0624_84824,718336,28,3,ge.,148,100.0,False,positional,"Canton, Gustav",,,,
 BO0624_84824,718337,29,26,Kuihe an der Tranke. Bezeichnet. Leinwand 52x43 cm. Goldrahmen.,162,97.5,False,positional,"Chelius, A.",,,,
 BO0624_84824,718338,30,27,"Stilleben, Muschel und Rosen. Bezeichnet. Leinwand 65x35 cm. Goldrahmen.",168,97.8,False,positional,Collet,,,,
-BO0624_84824,718339,31,28,Stilleben.Leinwand 48x62 cm. Goldrahmen. 1877.,174,90.5,False,positional,"Correggio, Jos.",,,,
+BO0624_84824,718339,31,28,Stilleben.Leinwand 48x62 cm. Goldrahmen. 1877.,174,90.5,False,positional,"Correggio, Jos.",,,,Sec. XIX
 BO0624_84824,718340,32,29,Landschaft mit FluB. Bezeichnet. Leinwand 41 x 28 cm. Goldrahmen.,180,97.6,False,positional,"Courbet, G.",,,,
 BO0624_84824,718341,33,30,"Klarer Wintertag. FluB mit schneebedecktem Ufer, das von der Sonne beleuchtet wird. Im Hintergrund Wald und Gebirge. Bezeichnet. Leinwand 75x60 cm. Schwarzer Rahmen.",187,99.1,False,positional,"Curry, R. F.",,CORNICI,,
-BO0624_84824,718342,34,1835,1921.,197,61.5,False,positional,"von Defregger, Franz",,,,
+BO0624_84824,718342,34,1835,1921.,197,61.5,False,positional,"von Defregger, Franz",,,,Sec. XX
 BO0624_84824,718343,35,32,Vier Kaiserjager. Bezeichnet. Holz 28x37. Goldrahmen.,199,97.0,False,positional,"von Defregger, Franz",,OGGETTI IN LEGNO,,
 BO0624_84824,718344,36,33,Bildnis eines Veteranen aus der Biedermeierzeit. Leinwand 46x57 cm. Goldrahmen. a Bildnis eines Bauern. Pendant zum vorigen.,203,76.8,False,positional,"Defregger, Art.",Biedermeier,,,
 BO0624_84824,718345,37,34,In der Kloster-Kinderschule. Nonne mit ihren Zoglingen im Hof. Bezeichnet. Holz 30x40 cm. Silberrahmen.,210,98.5,False,positional,"Degrave, Jules A. P.",,OGGETTI IN LEGNO,,
@@ -41,29 +41,29 @@ BO0624_84824,718347,39,36,Pferderennen. Bezeichnet. Leinwand 70x60 cm. Goldrahme
 BO0624_84824,718348,40,37,Segler. Bezeichnet. Leinwand 120x 80 cm. Goldrahmen.,226,97.0,False,positional,"van Dooven, A.",,,,
 BO0624_84824,718349,41,44,- 49,234,100.0,False,positional,"Dorn, E.",,,,
 BO0624_84824,718350,42,50,"## Dorner, J. J., Minchen",237,100.0,False,title_direct,"Dorner, J. J.",,,,
-BO0624_84824,718351,43,1809,1866.,239,61.5,False,positional,"Dorner, J. J.",,,,
+BO0624_84824,718351,43,1809,1866.,239,61.5,False,positional,"Dorner, J. J.",,,,Sec. XIX
 BO0624_84824,718352,44,39,Landschaft mit FluB und Kloster. Bezeichnet. Leinwand 44X32 cm. Schwarzer Rahmen. Abbildung Tafel 4.,241,98.4,False,positional,"Dorner, J. J.",,CORNICI,,
 BO0624_84824,718353,45,40,Mondlandschaft. Bezeichnet. Holz 9x17 cm. Schwarzer Rahmen.,247,97.3,False,positional,"Douzette, Louis",,CORNICI,,
 BO0624_84824,718354,46,41,Ochsengespann am Wagen im Winter. Bezeichnet. Leinwand 100x75 cm.,253,97.6,False,positional,Ducas,,,,
 BO0624_84824,718355,47,42,"Sommerlandschaft. Im Vordergrunde Tumpel,rechts Laubwald, links Weideland mit Kihen. Blick",259,98.3,False,positional,"Eberstein, Hermann",,,,
 BO0624_84824,718356,48,43,"Vierspanner (Rappen) an Mailcoach, links Auto. Regenstimmung. Bezeichnet. Leinwand 120x100 cm.",266,98.3,False,positional,"Eckenfelder, Friedrich",,,,
-BO0624_84824,718357,49,1741,1819.,273,61.5,False,positional,"Edlinger, Jos. Georg",,,,
+BO0624_84824,718357,49,1741,1819.,273,61.5,False,positional,"Edlinger, Jos. Georg",,,,Sec. XIX
 BO0624_84824,718358,50,45,Das Friedensangebot. Reiter mit weiBer Fahne und blasendem Herold erscheinen vor der belagerten Burg. Bezeichnet. Leinwand 58x80 cm. Goldrahmen.,279,98.9,False,positional,"Eggena, Gustav",,,,
 BO0624_84824,718359,51,47,Am Waldwasser. Bezeichnet. Leinwand 30x41 cm. Dunkler Rahmen.,281,97.4,False,positional,"Eggena, Gustav",,CORNICI,,
 BO0624_84824,718360,52,48,Venezia. Bezeichnet. Aquarell 23x27 cm. Goldrahmen.,285,96.9,False,positional,"Ehrenberger, Lutz",,,,
 BO0624_84824,718361,53,51,Partie aus Rothenburg o.T. Bezeichnet. Pappe 29x32 cm. Goldrahmen.,296,97.6,False,positional,"Eiber, H.",,,,
 BO0624_84824,718362,54,52,Berliner Besuch auf der Alm. Bezeichnet. Pappe 48x41 cm. Dunkler Rahmen.,300,97.8,False,positional,"Eisermann, R.",Scuola di Berlino,CORNICI,,
-BO0624_84824,718363,55,53,Landschaft mit Wasserfall. Bezeichnet. Leinwand 53x73 cm. Schwarzer Rahmen. 1858.,306,94.7,False,positional,"Ezdorf, Friedrich",,CORNICI,,
+BO0624_84824,718363,55,53,Landschaft mit Wasserfall. Bezeichnet. Leinwand 53x73 cm. Schwarzer Rahmen. 1858.,306,94.7,False,positional,"Ezdorf, Friedrich",,CORNICI,,Sec. XIX
 BO0624_84824,718364,56,54,Kornfelder mit Schnitterinnen und auffliegenden Tauben. Bezeichnet. Leinwand 53x41 cm. Schwarzer Rahmen.,317,98.5,False,positional,"Faure, Amandus",,CORNICI,,
 BO0624_84824,718365,57,55,wand 82x95 cm. Goldrahmen.,321,94.1,False,positional,,"Franzosische Schule, 18. Jahrhundert",,,
 BO0624_84824,718366,58,56,Landschaft mit hohen Baumen und zwei Figuren. Bezeichnet. Leinwand 85x55 cm.,329,98.0,False,positional,"Francois, V.",,,,
 BO0624_84824,718367,59,57,"Der betrunkene Ephebe. Rundbild. Pappe, Durchmesser 40 cm. Schwarzer Rundrahmen.",335,98.0,False,positional,"Frey-Moock, A.",,,,
-BO0624_84824,718368,60,1825,1899,343,61.5,False,positional,"GaiBer, Jak. Em.",,,,
+BO0624_84824,718368,60,1825,1899,343,61.5,False,positional,"GaiBer, Jak. Em.",,,,Sec. XIX
 BO0624_84824,718369,61,59,Kirchgang (5 Figuren). Bezeichnet. Leinwand 32x45 cm. Goldrahmen.,345,97.5,False,positional,"GaiBer, Jak. Em.",,,,
 BO0624_84824,718370,62,60,Interieur. Wohnstube eines Hauses in Nieuport. Bezeichnet. Aquarell 27x35 cm. Goldrahmen.,351,98.2,False,positional,"Gaifer, Max",,ARREDAMENTI,,
 BO0624_84824,718371,63,61,Interieur. Inneres einer Bauernstube. Bezeichnet. Aquarellstudie 24x18 cim. Goldrahmen.,352,98.2,False,positional,"Gaifer, Max",,ARREDAMENTI,,
-BO0624_84824,718372,64,62,"Junger und alter Faun, auf einem Baumstamm sitzend. Bezeichnet. Pappe 21x32 cm. Schwarzer Rahmen. 1705.",358,95.8,False,positional,"Geiger, Caspar Augustin",,CORNICI,,
-BO0624_84824,718373,65,63,Christi Dornenkronung. Leinwand 140x185 cm. Goldrahmen. 1901.,364,92.9,False,positional,"Giordano, Lucas",,,,
+BO0624_84824,718372,64,62,"Junger und alter Faun, auf einem Baumstamm sitzend. Bezeichnet. Pappe 21x32 cm. Schwarzer Rahmen. 1705.",358,95.8,False,positional,"Geiger, Caspar Augustin",,CORNICI,,Sec. XVIII
+BO0624_84824,718373,65,63,Christi Dornenkronung. Leinwand 140x185 cm. Goldrahmen. 1901.,364,92.9,False,positional,"Giordano, Lucas",,,,Sec. XX
 BO0624_84824,718374,66,64,Frankische Landschaft zur Erntezeit. Bezeichnet. Leinwand 62x36 cm. Polierter Holzrahmen. Abbildung Tafel 1.,372,98.6,False,positional,"v. Gleichen-Rubwurm, Heinr. Ludw.",,,,
 BO0624_84824,718375,67,65,Gute Freunde. Parklandschaft mit Bernhardiner und SchoBhund. Bezeichnet. Leinwand 36x28 cm. Dunkler Rahmen.,378,98.6,False,positional,"Gräbhein, H.",,CORNICI,,
 BO0624_84824,718376,68,66,"Pfluigender Bauer. Bezeichnet. Leinwand 100x70 cm. Schwarzer Rahmen. ## Grebe, Fritz, Prof.",384,86.5,False,title_direct,"Grebe, Fritz",,CORNICI,,
@@ -74,7 +74,7 @@ BO0624_84824,718380,72,70,- Heimziehende Erntewagen. Bezeichnet. 9x7 cm. Goldrah
 BO0624_84824,718381,73,71,Auf dem Heimweg. Bezeichnet. 13x7 cm. Goldrahmen.,402,96.8,False,positional,"Greiner, A.",,,,
 BO0624_84824,718382,74,72,- Beladener Heuwagen. Bezeichnet. 9x7 cm. Goldrahmen.,404,100.0,False,positional,"Greiner, A.",,,,
 BO0624_84824,718383,75,73,"Interieur, Bauerin in einer Bauernstube. Bezeichnet. Leinwand 37x30 cm. Holzrahmen.",408,98.1,False,positional,Grotsch,,ARREDAMENTI,,
-BO0624_84824,718384,76,1842,1906.,412,61.5,False,positional,"Hacker, Horst",,,,
+BO0624_84824,718384,76,1842,1906.,412,61.5,False,positional,"Hacker, Horst",,,,Sec. XX
 BO0624_84824,718385,77,75,76 Pfau und Enten. Bezeichnet. Holz 16x9 cm. Goldrahmen.,421,100.0,False,positional,"Haenger sen., M.",,OGGETTI IN LEGNO,,
 BO0624_84824,718386,78,77,Geflugelhof. Bezeichnet. Holz 17x12 cm. Goldrahmen.,425,100.0,False,positional,"Haenger sen., M.",,OGGETTI IN LEGNO,,
 BO0624_84824,718387,79,78,Gefligelhof. Bezeichnet. Holz 16x8 cm.,427,95.9,False,positional,"Haenger sen., M.",,OGGETTI IN LEGNO,,
@@ -85,10 +85,10 @@ BO0624_84824,718391,83,82,- 83 Vieh und Ortschaft. Abendstimmung. Bezeichnet. Pa
 BO0624_84824,718392,84,84,Sonnige Landschaft mit Bauernhausern. Bezeichnet. Pappe 33x22 cm. Schwarzer Rahmen.,445,98.1,False,positional,"Hartwich, H.",,CORNICI,,
 BO0624_84824,718393,85,85,Variete. Tanzerin vor blauem Vorhang. Goldrahmen.,451,96.8,False,positional,Hassenteufel,,,,
 BO0624_84824,718394,86,86,Rehe im Vorfrihling. Bezeichnet. Pappe 46x36 cm. Flam. Rahmen.,462,97.4,False,positional,"Haug, Christian",,CORNICI,,
-BO0624_84824,718395,87,87,"Hollandisches Dorf. Im Vordergrund Wasser, links und rechts Baume, im Hintergrund Dorf. Bezeichnet. Leinwand 90x80 cm. Goldrahmen. 1923.",470,96.9,False,positional,"Heffner, Karl",,,,
+BO0624_84824,718395,87,87,"Hollandisches Dorf. Im Vordergrund Wasser, links und rechts Baume, im Hintergrund Dorf. Bezeichnet. Leinwand 90x80 cm. Goldrahmen. 1923.",470,96.9,False,positional,"Heffner, Karl",,,,Sec. XX
 BO0624_84824,718396,88,88,8 Landschaft mit Bauernhaus am Waldrand. Schafer mit Schafherde und Bauerin. Bezeichnet. Holz 40x30 cm. Schwarzer Rahmen.,476,98.7,False,positional,"Heinisch, Karl",,CORNICI,,
 BO0624_84824,718397,89,89,"9Hollandische Landschaft mit Boot,Figuren,im Hintergrunde Muhle. Bezeichnet. Leinwand 80x 48 cm. Goldrahmen.",480,98.6,False,positional,Heiligers,,,,
-BO0624_84824,718398,90,90,"Ein Seemarchen. Eine Nixe, auf einer Felsbank im Meer sitzend, wird von einem Drachen bedroht. Im Hintergrund romantische Felsenbricke mit Durchblick auf ein SchloB am Meer. Bezeichnet. Leinwand 50x100 cm.Silberrahmen. 1903.",486,98.1,False,positional,"Hendrich, Hermann",,,,
+BO0624_84824,718398,90,90,"Ein Seemarchen. Eine Nixe, auf einer Felsbank im Meer sitzend, wird von einem Drachen bedroht. Im Hintergrund romantische Felsenbricke mit Durchblick auf ein SchloB am Meer. Bezeichnet. Leinwand 50x100 cm.Silberrahmen. 1903.",486,98.1,False,positional,"Hendrich, Hermann",,,,Sec. XX
 BO0624_84824,718399,91,91,Kalksteinbriche bei Munster am Neckar. Gewitterstimmung. (Erwahnt Muiller-Singer Bd. II S. 162). Bezeichnet. Pappe 30x 22 cm. Schwarzer Rahmen.,492,98.9,False,positional,"Herdtle, Gustav",,CORNICI,,
 BO0624_84824,718400,92,92,"Heimkehr. Vier Schimmel kehren am Abend auf regennasser StraBe, auf der sich das Licht der Fenster spiegelt, nach der Arbeit zum Stall zurick. Bezeichnet. Pappe 65 x45 cm. Goldrahmen.",498,99.2,False,positional,"Herdtle, Richard",,,,
 BO0624_84824,718401,93,93,Walhalla bei Regensburg. Bezeichnet. Pappe 100x68 cm. Goldrahmen.,504,97.6,False,positional,"Hey, Paul",,,,
@@ -101,20 +101,20 @@ BO0624_84824,718407,99,99,Frauenportrat. Reproduktion. 42x60 cm. Schwarzer Rahme
 BO0624_84824,718408,100,100,Rinder durchqueren einen Bach. Bezeichnet. Leinwand 110x87 cm. Goldrahmen. Abbildung Tafel 2.,533,97.8,False,positional,"Holz, Joh. Dan.",,,,
 BO0624_84824,718409,101,101,Aus der guten alten Zeit. Militarbild. Bezeichnet. Holz 26x20 cm. Goldrahmen.,539,97.3,False,positional,"Holzapfel, H.",,OGGETTI IN LEGNO,,
 BO0624_84824,718410,102,102,2 Die Klatschbasen. Bezeichnet. Holz 21 x27 cm. Flamischer Rahmen. Abbildung Tafei 10.,540,97.6,False,positional,"Holzapfel, H.",,CORNICI,,
-BO0624_84824,718411,103,103,"Stilleben mit Frichtekorb, Hummer,Pokale,Nautilus und Fruchtschalen. Bezeichnet. Pappe 120x60 cm. Schwarzer Rahmen. 1915.",546,96.1,False,positional,"Huber-Audorf, E.",,CORNICI,,
+BO0624_84824,718411,103,103,"Stilleben mit Frichtekorb, Hummer,Pokale,Nautilus und Fruchtschalen. Bezeichnet. Pappe 120x60 cm. Schwarzer Rahmen. 1915.",546,96.1,False,positional,"Huber-Audorf, E.",,CORNICI,,Sec. XX
 BO0624_84824,718412,104,104,"Trinkszene,drei Trinker am Tische. Bezeichnet. Leinwand 52x42 cm. Goldrahmen.",552,97.3,False,positional,"Hutschenreuther, Arthur",,,,
 BO0624_84824,718413,105,105,"Akt. Olskizze, Pappe 35x 50 cm. Goldrahmen.",558,95.1,False,positional,"Hummel, Theodor",,,,
 BO0624_84824,718414,106,106,Jugend. Student trinkt einem jungen Madchen zu. Bezeichnet. Leinwand 76 x57 cm. Holzrahmen.,564,97.7,False,positional,"Jentzsch, Hans Gabriel",,,,
 BO0624_84824,718415,107,107,Nach dem Sturm. Bezeichnet. Leinwand 110x71 cm. Goldrahmen. Die heilige Cacilie beim Orgelspiel mit zwei singenden Engeln. Leinwand 125x 95 cm. Goldrahmen. Abbildung Tafel 18.,574,80.9,False,positional,,Italienische Schule 17. Jahrhundert,,,
 BO0624_84824,718416,108,108,3 Anbetung des Jesuskindes durch die heiligen 3 Konige. Kupfer 18x 16 cm. Geschn. Holzrahmen.,575,97.8,False,positional,,Italienische Schule 17. Jahrhundert,OGGETTI IN RAME,,
-BO0624_84824,718417,109,I,talienische Schule 18. Jahrhundert,577,98.5,False,title_direct,,Italienische Schule,,,
+BO0624_84824,718417,109,I,talienische Schule 18. Jahrhundert,577,98.5,False,title_direct,,Italienische Schule,,,Sec. XVIII
 BO0624_84824,718418,110,110,Kreuzabnahme. Leinwand 100x148 cm. Goldrahmen.,579,95.6,False,positional,,Italienische Schule 17. Jahrhundert,,,
 BO0624_84824,718419,111,111,Konig David mit der Harfe. Leinwand 146x200 cm. Goldrahmen.,583,96.6,False,positional,Joseph Chiari,Italienische Schule,,,
 BO0624_84824,718420,112,112,Moses am Nil. Gegenstick zum vorigen. Abbildung Tafel 16.,587,96.4,False,positional,Joseph Chiari,Italienische Schule,,,
 BO0624_84824,718421,113,113,Wiesenbach mit Baumgruppe. Bezeichnet. Leinwand 79x75 cm. Goldrahmen.,593,97.0,False,positional,"Kaiser, Richard",,,,
 BO0624_84824,718422,114,114,Kuhe im Wasser. Bezeichnet. Holz 18x13 cm. Schwarzer Rahmen.,597,96.6,False,positional,"Karol, R.",,CORNICI,,
-BO0624_84824,718423,115,115,Postkutsche auf der Landstrabe. Bezeichnet. Holz 14x 12 cm. Schwarzer Rahmen. 1874.,601,94.2,False,positional,"Karol, R.",,CORNICI,,
-BO0624_84824,718424,116,116,"Bildnis von Konig Ludwig I. Bestatigt durch die Pinakothek, Dr. Hanfstangl. Leinwand 35x 24 cm, Goldrahmen. 1920.",612,95.7,False,positional,"von Kaulbach, Wilhelm",,,,
+BO0624_84824,718423,115,115,Postkutsche auf der Landstrabe. Bezeichnet. Holz 14x 12 cm. Schwarzer Rahmen. 1874.,601,94.2,False,positional,"Karol, R.",,CORNICI,,Sec. XIX
+BO0624_84824,718424,116,116,"Bildnis von Konig Ludwig I. Bestatigt durch die Pinakothek, Dr. Hanfstangl. Leinwand 35x 24 cm, Goldrahmen. 1920.",612,95.7,False,positional,"von Kaulbach, Wilhelm",,,,Sec. XX
 BO0624_84824,718425,117,117,Bauernmadchen mit Korb schreitet durch den bluhenden Mohn. Im Hintergrund Bauernhauser und Birken. Bezeichnet. Leinwand 42x30 cm. Schwarzer Rahmen.,620,98.6,False,positional,"Keller-Reutlingen, W.",,CORNICI,,
 BO0624_84824,718426,118,118,Sommertag. Madchen mit spielenden Kindern hinter zwei von Birken umstandenen Bauernhausern mit rotlichen Ziegeldachern. Aus dem Garten leuchten Sonnenblumen und Hollunderbliten. Im Vordergrund ein Bach. Bezeichnet. 120x 80 cm. Schwarzer Rahmen. Abbildung Tafel 5.,621,99.2,False,positional,"Keller-Reutlingen, W.",,CORNICI,,
 BO0624_84824,718427,119,119,Faune im Schilf. Bestatigung auf der Ruckseite. Dunkler Rahmen. Leinwand 56x59 cm.,627,97.5,False,positional,"Kirchbach, Frank",,CORNICI,,
@@ -133,14 +133,14 @@ BO0624_84824,718439,131,131,Mann mit Ziege durch einen Laubwald schreitend. Beze
 BO0624_84824,718440,132,132,Die Rast am Wege. Bezeichnet. Holz 17x23 cm. Schwarzer Rahmen.,699,96.7,False,positional,"Lehmann-Leonhard, W.",,CORNICI,,
 BO0624_84824,718441,133,133,"Die Zweifler. Zwei Monche, ein Buch aufschlagend, beraten sich. Bicher auf dem Lehnstuhl und",700,97.8,False,positional,"Lehmann-Leonhard, W.",,,,
 BO0624_84824,718442,134,134,Die Zecher. Eine Kellnerin und zwei Landsknechte bei einem WeinfaB. Bezeichnet. Holz 32x 24 cm.,702,97.8,False,positional,"Lehmann-Leonhard, W.",,OGGETTI IN LEGNO,,
-BO0624_84824,718443,135,135,Schwarzer Rahmen. 1904.,703,86.5,False,positional,"Lehmann-Leonhard, W.",,CORNICI,,
+BO0624_84824,718443,135,135,Schwarzer Rahmen. 1904.,703,86.5,False,positional,"Lehmann-Leonhard, W.",,CORNICI,,Sec. XX
 BO0624_84824,718444,136,136,Bildnis der Lady Bekmann. Bezeichnet. 63x66 cm. Abbildung Tafel 9.,711,96.9,False,positional,"von Lenbach, Franz",,,,
 BO0624_84824,718445,137,137,Landschaft. Bezeichnet. Leinwand 69x50 cm. Schwarzer Rahmen.,717,96.6,False,positional,"Leu, Otto",,CORNICI,,
 BO0624_84824,718446,138,138,8Herbstimorgen. Bezeichnet. Leinwand 61 X44 cm. Schwarzer Rahmen.,718,96.8,False,positional,"Leu, Otto",,CORNICI,,
 BO0624_84824,718447,139,139,Gebirgstal. Bezeichnet. Holz 19x15 cm. Goldrahmen.,722,95.8,False,positional,Liebel,,OGGETTI IN LEGNO,,
 BO0624_84824,718448,140,140,Brustbild eines Kardinals. Bezeichnet. Holz 11x15 cm. Goldrahmen.,726,96.8,False,positional,Lowith,,OGGETTI IN LEGNO,,
 BO0624_84824,718449,141,141,- Kardinal. Bezeichnet. Holz 26x21 cm. Schwarzer Rahmen.,728,100.0,False,positional,Lowith,,CORNICI,,
-BO0624_84824,718450,142,142,"Sitzende Dame mit Amor. Bezeichnet. Holz 70x 50 cm. Goldrahmen, 1896.",732,92.9,False,positional,"Lossow, Heinrich",,OGGETTI IN LEGNO,,
+BO0624_84824,718450,142,142,"Sitzende Dame mit Amor. Bezeichnet. Holz 70x 50 cm. Goldrahmen, 1896.",732,92.9,False,positional,"Lossow, Heinrich",,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_84824,718451,143,143,Bauer mit Pferden in Sturm und Regen. Bezeichnet. Leinwand 90x62 cm. Goldrahmen.,738,97.4,False,positional,"Mantu, N.",,,,
 BO0624_84824,718452,144,144,Sommerlandschaft mit Pappeln am FluBchen. Pappe 30x 23 cm. Schwarzer Rahmen.,742,97.3,False,positional,"Maronez, G.",,CORNICI,,
 BO0624_84824,718453,145,145,Weihnachtstraume. Bezeichnet. Leinwand 60x85 cm. Schwarzer Rahmen.,748,96.9,False,positional,"Mathes, N.",,CORNICI,,
@@ -152,7 +152,7 @@ BO0624_84824,718458,150,150,Heimkehr.Bezeichnet. Leinwand 36X48 cm. Schwarzer Ra
 BO0624_84824,718459,151,151,Es lebe der Wein！ Einsiedler vor seiner Klause mit Weinglas und Flasche. Bezeichnet. Holz 38×25 cm.Goldrahmen.,785,98.1,False,positional,"Moralt, Willy",,OGGETTI IN LEGNO,,
 BO0624_84824,718460,152,152,Der Sommerkeller. Bezeichnet. Holz 60x40 cm. Goldrahmen. Abbildung Tafel 6.,789,97.2,False,positional,"Moralt, Willy",,OGGETTI IN LEGNO,,
 BO0624_84824,718461,153,153,Bildnis einer Dame mit schwarzem Spitzentuch und Rose im Haar. Bezeichnet. Leinwand oval 45x55 cm.Goldrahmen.,795,98.1,False,positional,"Muiller, Karl",,,,
-BO0624_84824,718462,154,154,Jagdhund mit Beute im Maul. Bezeichnet. Holz 24x18 cm. Goldrahmen. 1906.,801,93.2,False,positional,"Muller, M.",,OGGETTI IN LEGNO,,
+BO0624_84824,718462,154,154,Jagdhund mit Beute im Maul. Bezeichnet. Holz 24x18 cm. Goldrahmen. 1906.,801,93.2,False,positional,"Muller, M.",,OGGETTI IN LEGNO,,Sec. XX
 BO0624_84824,718463,155,155,Landschaft mit Kahn bei Abendstimmung. Bezeichnet. Leinwand 25x37 cm. Goldrahmen.,807,97.5,False,positional,"Miller, Peter Paul",,,,
 BO0624_84824,718464,156,156,Strandbild. Boote am Strand und Fischer beim Netzflicken. Bezeichnet. Leinwand 45x35 cm. Schwarzer Rahmen.,813,98.1,False,positional,Miller-Baumgarten,,CORNICI,,
 BO0624_84824,718465,157,157,"Gast,einer Kellnerin eine Blume anbietend. Schwarzer Rahmen.",817,96.7,False,positional,,Minchener Schule,CORNICI,,
@@ -162,12 +162,12 @@ BO0624_84824,718468,160,160,"Oberbayerische Landschaft. Links groBe Baume,im Hin
 BO0624_84824,718469,161,161,Kirschen. Bezeichnet. Pappe 74x50 cm. Schwarzer Rahmen.,840,96.2,False,positional,"Neppel, Karl",,CORNICI,,
 BO0624_84824,718470,162,162,Trauben. Gegenstick zum vorigen.,842,93.8,False,positional,"Neppel, Karl",,,,
 BO0624_84824,718471,163,163,Kirschen. Bezeichnet. Pappe 14x9 cm.Goldrahmen.,844,95.7,False,positional,"Neppel, Karl",,,,
-BO0624_84824,718472,164,164,Pfirsiche. Gegenstick zum vorigen. 1892.,846,87.7,False,positional,"Neppel, Karl",,,,
+BO0624_84824,718472,164,164,Pfirsiche. Gegenstick zum vorigen. 1892.,846,87.7,False,positional,"Neppel, Karl",,,,Sec. XIX
 BO0624_84824,718473,165,165,Landschaft mit Jager. Bezeichnet. Leinwand 65x41 cm. Goldrahmen.,852,96.8,False,positional,"Neubert, Louis",,,,
 BO0624_84824,718474,166,166,Kopf eines alten Bauern mit Hut. Bezeichnet. Leinwand 40x46 cm. Schwarzer Rahmen.,858,97.5,False,positional,Neyrinck,,CORNICI,,
 BO0624_84824,718475,167,167,Fernblick. Madchen in liegender Stellung von einer Hohe ins Tal schauend. Bezeichnet. Pappe 42X30 cm.Goldrahmen.,864,98.2,False,positional,"Nicolaus, Martin",,,,
 BO0624_84824,718476,168,168,"Hausarrest. Im Hintergrunde sitzendes kleines Madchen mit traurigem Gesichtsausdruck, vor ihr liegend Fruchte und Melonen. S.Muiller-Singer S.412. Bezeichnet. Leinwand 100x80 cm. Goldrahmen.",870,98.9,False,positional,"Peske, Geza",,,,
-BO0624_84824,718477,169,169,Blonde Pariser Schonheit. Bezeichnet. Leinwand 23x32 cm. Goldrahmen. 1921.,876,93.4,False,positional,"Pieper, C.",,,,
+BO0624_84824,718477,169,169,Blonde Pariser Schonheit. Bezeichnet. Leinwand 23x32 cm. Goldrahmen. 1921.,876,93.4,False,positional,"Pieper, C.",,,,Sec. XX
 BO0624_84824,718478,170,170,Nachtprozession in Zaragoza bei der Magdalenenkirche. Leinwand 23X32 cm. Holzrahmen.,882,97.6,False,positional,"Pradilla, Francisco",,,,
 BO0624_84824,718479,171,172,Liegender weiblicher Akt in Landschaft. Bezeichnet. Holz 28X 19 cm. Goldrahmen.,892,97.4,False,positional,"Rabes, Max",,OGGETTI IN LEGNO,,
 BO0624_84824,718480,172,173,Oberbayerisches Dirndl. Bezeichnet. Leinwand 24X27 cm. Goldrahmen.,898,96.9,False,positional,"Rau, E.",,,,
@@ -177,7 +177,7 @@ BO0624_84824,718483,175,176,Dorflandschaft. Im Vordergrund Gemisegarten und heim
 BO0624_84824,718484,176,177,Wasserfall in den Pyrenaen. Bezeichnet. Leinwand 77x110 cm. Geschnitzter Goldrahmen. Abbildung Tafel 11.,917,98.0,False,positional,"Rieger, Albert",,,,
 BO0624_84824,718485,177,178,Strandbild mit 2 Segelbooten. Hollander Fischer und Fischermadchen. Bezeichnet. Pappe 27 x 21 cm. Schwarzer Rahmen.,923,98.2,False,positional,"Ritter, H.",,CORNICI,,
 BO0624_84824,718486,178,179,Hamburger Fischmarkt am Hafen. Bezeichnet. Pappe 25x33 cm. Schwarzer Rahmen.,927,97.3,False,positional,"Ritter, H.",,CORNICI,,
-BO0624_84824,718487,179,180,Heimkehr von der Jagd. Bezeichnet. Pappe 25x 16 cim. Schwarzer Rahmen. 1908.,928,93.6,False,positional,"Ritter, H.",,CORNICI,,
+BO0624_84824,718487,179,180,Heimkehr von der Jagd. Bezeichnet. Pappe 25x 16 cim. Schwarzer Rahmen. 1908.,928,93.6,False,positional,"Ritter, H.",,CORNICI,,Sec. XX
 BO0624_84824,718488,180,181,Die Halskette. Ein reisender Schmuckwarenhandler bietet in der Schenke zwei Bauernmadchen Halsketten zum Kaufe an. Bezeichnet. Leinwand 60x75 cm. Goldrahmen. Abbildung 1. Blatt.,934,98.8,False,positional,"Roegge, Wilhelm",,,,
 BO0624_84824,718489,181,182,Bauer mit roter Weste und Hut. In der Hand ein Weinglas. Bezeichnet. Leinwand 38x43 cm. Schwarzer Rahmen.,938,98.0,False,positional,"Roeseler, A.",,CORNICI,,
 BO0624_84824,718490,182,183,Prosit! Lachender Bauer mit Weinglas. Bezeichnet. 25x25 cm. Schwarzer Rahmen.,942,97.3,False,positional,"Roeseler, A.",,CORNICI,,
@@ -185,7 +185,7 @@ BO0624_84824,718491,183,184,4 Zwei Bauern bei der Unterhaltung. Bezeichnet. Lein
 BO0624_84824,718492,184,185,WeiBwein. Zwei Klosterbrider im Keller bei der Weinprobe. Bezeichnet. Holz 32 X 40 cm. Goldrahmen.,947,97.9,False,positional,"Rossler, Georg",,OGGETTI IN LEGNO,,
 BO0624_84824,718493,185,186,Rotwein. Besuch beim Bruder Kellermeister. Gegenstick zum vorigen.,951,96.9,False,positional,"Rossler, Georg",,,,
 BO0624_84824,718494,186,187,Bauer mit Zipfelmitze und roter Weste mit Bierglas. Bezeichnet. Holz 20x24 cm. Goldrahmen.,953,97.7,False,positional,"Rossler, Georg",,OGGETTI IN LEGNO,,
-BO0624_84824,718495,187,188,Rauchender Tiroler. Bezeichnet.Holz 17x23 cm.Goldrahmen. 1921.,955,92.3,False,positional,"Rossler, Georg",,OGGETTI IN LEGNO,,
+BO0624_84824,718495,187,188,Rauchender Tiroler. Bezeichnet.Holz 17x23 cm.Goldrahmen. 1921.,955,92.3,False,positional,"Rossler, Georg",,OGGETTI IN LEGNO,,Sec. XX
 BO0624_84824,718496,188,189,"9Hoizstamme in Landschaft, Bezeichnet. Pappe 17x26 cm. Schwarzer Rahmen.",961,97.1,False,positional,"Roeth, Philipp",,CORNICI,,
 BO0624_84824,718497,189,190,Landschaft. Bezeichnet. Pastell 56x32 cm. Schwarzer Rahmen.,962,96.5,False,positional,"Roeth, Philipp",,CORNICI,,
 BO0624_84824,718498,190,191,BuiBende Magdalene. Holz 20x25 cm. Schwarzer Rahmen.,966,96.1,False,positional,Rubens,,CORNICI,,
@@ -201,49 +201,49 @@ BO0624_84824,718507,199,200,Heuernte. Heuaufladende Bauern. Bezeichnet. Leinwand
 BO0624_84824,718508,200,201,Landschaft mit See und Fischerbooten am Ufer. Bezeichnet. Leinwand 95x70 cm.Holzrahmen,1012,97.7,False,positional,"Schiedlmeier, A.",,,,
 BO0624_84824,718509,201,202,Madchen im Garten. Bezeichnet. Pappe 42x35 cm. Schwarzer Rahmen.,1018,96.8,False,positional,"Schmid, Th.",,CORNICI,,
 BO0624_84824,718510,202,203,"Badendes Madchen am Chiemsee. Links Ufer mit Gebisch. Bezeichnet. Pappe 35x40 cm, Goldrahmen.",1024,97.8,False,positional,"Schmidt, A.",,,,
-BO0624_84824,718511,203,205,"An der Loisach bei Murnau, mit FloB, FloBern und Bauernmadchen. Im Hintergrund Gebirge. Bezeichnet. Pappe 30x20 cm. Schwarzer Rahmen. 1912.",1034,96.6,False,positional,"Schwab, M.",,CORNICI,,
+BO0624_84824,718511,203,205,"An der Loisach bei Murnau, mit FloB, FloBern und Bauernmadchen. Im Hintergrund Gebirge. Bezeichnet. Pappe 30x20 cm. Schwarzer Rahmen. 1912.",1034,96.6,False,positional,"Schwab, M.",,CORNICI,,Sec. XX
 BO0624_84824,718512,204,206,Landschaft. Bezeichnet. Aquarell 17x13 cm. Schwarzer Rahmen.,1040,96.6,False,positional,"Seitz, Otto",,CORNICI,,
 BO0624_84824,718513,205,207,"## Sperlich, Hans",1045,100.0,False,title_direct,"Sperlich, Hans",,,,
-BO0624_84824,718514,206,208,Leinwand 70×82 cm.Goldrahmen. 1885.,1048,86.2,False,positional,"Sperlich, Hans",,,,
+BO0624_84824,718514,206,208,Leinwand 70×82 cm.Goldrahmen. 1885.,1048,86.2,False,positional,"Sperlich, Hans",,,,Sec. XIX
 BO0624_84824,718515,207,209,Altwasser im Schilf. NachlaBstempel. Pappe 16x13 cm. Goldrahmen. Abbildung Tafel 1.,1056,97.5,False,positional,"Spitzweg, Carl",,,,
-BO0624_84824,718516,208,210,Abschied. Schwarzer Rahmen. 1918.,1057,84.7,False,positional,"Spitzweg, Carl",,CORNICI,,
+BO0624_84824,718516,208,210,Abschied. Schwarzer Rahmen. 1918.,1057,84.7,False,positional,"Spitzweg, Carl",,CORNICI,,Sec. XX
 BO0624_84824,718517,209,211,Felspartie. Bezeichnet. Pappe 14x22 cm. Schwarzer Rahmen.,1065,96.4,False,positional,"Splitgerber, August",,CORNICI,,
 BO0624_84824,718518,210,212,Muschel auf blauem Hintergrunde. Bezeichnet. Leinwand 15x22 cm. Schwarzer Rahmen.,1066,97.5,False,positional,"Splitgerber, August",,CORNICI,,
 BO0624_84824,718519,211,213,Vor Bauerngehoften sich lagernde Tscherkessen mit Pferden. Bezeichnet. Leinwand 47x26 cm. Goldrahmen.,1072,98.0,False,positional,"Szerner, W.",,,,
 BO0624_84824,718520,212,214,Kosaken fragen einen Bauern nach dem Weg. Bezeichnet. Holz 50x40 cm. Schwarzer Rahmen,1073,97.6,False,positional,"Szerner, W.",,CORNICI,,
-BO0624_84824,718521,213,215,Kosaken laden Fourage auf. Bezeichnet. Holz 50x40 cm. Schwarzer Rahmen. 1895.,1074,93.7,False,positional,"Szerner, W.",,CORNICI,,
+BO0624_84824,718521,213,215,Kosaken laden Fourage auf. Bezeichnet. Holz 50x40 cm. Schwarzer Rahmen. 1895.,1074,93.7,False,positional,"Szerner, W.",,CORNICI,,Sec. XIX
 BO0624_84824,718522,214,216,Wintervergnigen. Winterlandschaft mit Eislaufern und Schlitten. Bezeichnet. Leinwand 100x80 cm. Goldrahmen.,1080,98.1,False,positional,"Stademann, A.",,,,
 BO0624_84824,718523,215,217,Landschaft. Bezeichnet. Pastell 65x60 cm. Schwarzer Rahmen.,1088,96.5,False,positional,"Stagura, A.",,CORNICI,,
-BO0624_84824,718524,216,218,PrinzeBchen erwacht. Bezeichnet. Pappe 67x55 cm. Goldrahmen. 1908.,1094,92.6,False,positional,"Steinhauser, O.",,,,
+BO0624_84824,718524,216,218,PrinzeBchen erwacht. Bezeichnet. Pappe 67x55 cm. Goldrahmen. 1908.,1094,92.6,False,positional,"Steinhauser, O.",,,,Sec. XX
 BO0624_84824,718525,217,219,Schwabische Mihle. Bezeichnet. Aquarell 35x25 cm. Schwarzer Rahmen.,1100,96.9,False,positional,"Stieler, R.",Scuola Sveva,CORNICI,,
 BO0624_84824,718526,218,220,Der Sternhof in Nirnberg. Bezeichnet. Aquarell 20x28 cm. Schwarzer Rahmen.,1101,97.2,False,positional,"Stieler, R.",,CORNICI,,
 BO0624_84824,718527,219,221,"Schenke mit Raucher und Mann mit Krug, in Unterhaltung mit dem Wirt. Holz 34x22 cm.",1105,97.6,False,positional,Teniers,,OGGETTI IN LEGNO,,
 BO0624_84824,718528,220,222,- 225,1109,100.0,False,positional,Teniers,,,,
 BO0624_84824,718529,221,226,- 227 Bildnis einer Dame aus der Biedermeierzeit. Leinwand 5362 cm. Goldrahmen.,1111,100.0,False,positional,Teniers,Biedermeier,,,
-BO0624_84824,718530,222,228,- 229 Damenbildnis. Um 1870. Holz 22x27 cm. Goldrahmen.,1113,100.0,False,positional,Teniers,,OGGETTI IN LEGNO,,
+BO0624_84824,718530,222,228,- 229 Damenbildnis. Um 1870. Holz 22x27 cm. Goldrahmen.,1113,100.0,False,positional,Teniers,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_84824,718531,223,223,Blumenstilleben. Bezeichnet. Leinwand 62x83 cm. Altgoldrahmen. Abbildung Tafel 10.,1121,97.5,False,positional,"Thomassin, Desiré",,OGGETTI VARI,,
 BO0624_84824,718532,224,5,Scheune mit Kuihen. Bezeichnet. Pappe 51x37 cm. Schwarzer Rahmen.,1128,99.2,False,positional,"Tooby, Charles",,CORNICI,,
 BO0624_84824,718533,225,230,"Landschaft mit FluB, Gebirge, Bricke und Staffage. Gouache 34x25 cm. Schwarzer Rahmen. Schweizer Landschaft mit See und Gebirge. Leinwand 40x27 cm. Goldrahmen. Schnepfenjagd. Pappe 18x24 cm. Schwarzer Rahmen.",1136,57.4,False,positional,"Tooby, Charles",,CORNICI,,
-BO0624_84824,718534,226,233,Landschaft. (Farbstichimitation). 18. Jahrh. Gouache 19x22 cm. Geschnitzter Holzrahmen.,1139,97.5,False,positional,"Tooby, Charles",,,,
+BO0624_84824,718534,226,233,Landschaft. (Farbstichimitation). 18. Jahrh. Gouache 19x22 cm. Geschnitzter Holzrahmen.,1139,97.5,False,positional,"Tooby, Charles",,,,Sec. XVIII
 BO0624_84824,718535,227,235,Heinzelmannchen. Bezeichnet. Leinwand 3039 cm. Schwarzer Rahmen.,1144,96.8,False,positional,"Untersberger, A.",,CORNICI,,
 BO0624_84824,718536,228,236,Alter Bauer sitzt auf einer Steinbank. Bezeichnet. Holz 23x24 cm. Schwarzer Rahmen. Abbildung Tafel 13.,1150,98.0,False,positional,"Vautier, Max Louis Benjamin",,CORNICI,,
-BO0624_84824,718537,229,1829,1898.,1152,61.5,False,positional,"Vautier, Max Louis Benjamin",,,,
+BO0624_84824,718537,229,1829,1898.,1152,61.5,False,positional,"Vautier, Max Louis Benjamin",,,,Sec. XIX
 BO0624_84824,718538,230,238,Pferdemarkt. Vorfuhrung der Pferde. Bezeichnet. Holz 23x15 cm. Goldrahmen. zeichnet.Holz 23x15 cm.Goldrahmen.,1160,78.4,False,positional,"Velten, W.",,OGGETTI IN LEGNO,,
 BO0624_84824,718539,231,239,"Reitpferd, Grauschimmel. Bezeichnet. Holz 32x23 cm. Eichenrahmen mit Goldverzierung.",1165,97.5,False,positional,"Volkers, Emil",,OGGETTI IN LEGNO,,
-BO0624_84824,718540,232,240,"Landschaft mit Hirten, Kuhen und Schafen. Im Hintergrund See und Gebirge. Bezeichnet. Holz 51x40 cm.Goldrahmen. 1829.",1171,95.9,False,positional,"Wagenbauer, M. J.",,OGGETTI IN LEGNO,,
+BO0624_84824,718540,232,240,"Landschaft mit Hirten, Kuhen und Schafen. Im Hintergrund See und Gebirge. Bezeichnet. Holz 51x40 cm.Goldrahmen. 1829.",1171,95.9,False,positional,"Wagenbauer, M. J.",,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_84824,718541,233,241,Die Kartenspieler. Zwei Bauern und ein Forster sitzen am Wirtstisch bei Kartenspiel. Bezeichnet. Leinwand 90x70 cm.Goldrahmen.,1178,98.4,False,positional,Wagner-Hohenberg,,,,
 BO0624_84824,718542,234,234,- 251,1183,100.0,False,positional,Wagner-Hohenberg,,,,
 BO0624_84824,718543,235,244,Enten im Wasser. Bezeichnet. 100x70 cm. Goldrahmen.,1193,95.9,False,positional,"Walch, P. J.",,,,
 BO0624_84824,718544,236,5,Rehe im Moor. Bezeichnet. Leinwand 100x70 cm. Schwarzer Rahmen.,1194,99.2,False,positional,"Walch, P. J.",,CORNICI,,
-BO0624_84824,718545,237,1793,1865.,1198,61.5,False,positional,"Waldmiller, Friedr. Georg",,,,
+BO0624_84824,718545,237,1793,1865.,1198,61.5,False,positional,"Waldmiller, Friedr. Georg",,,,Sec. XIX
 BO0624_84824,718546,238,246,Tannenlandschaft. Leinwand. Goldrahmen.,1200,94.7,False,positional,"Waldmiller, Friedr. Georg",,,,
-BO0624_84824,718547,239,247,Bauernhof mit Huihnern im Frihling. Bezeichnet. Pappe 25x20 cm. Schwarzer Rahmen. 1916.,1206,94.5,False,positional,"Waldraff, W.",,CORNICI,,
-BO0624_84824,718548,240,248,Segelschiff in voller Fahrt auf hoher See. NachlaBstempel. Leinwand 72x50 cm. Schwarzer Rahmen. 1919.,1212,95.3,False,positional,"Weber, Paul",,CORNICI,,
+BO0624_84824,718547,239,247,Bauernhof mit Huihnern im Frihling. Bezeichnet. Pappe 25x20 cm. Schwarzer Rahmen. 1916.,1206,94.5,False,positional,"Waldraff, W.",,CORNICI,,Sec. XX
+BO0624_84824,718548,240,248,Segelschiff in voller Fahrt auf hoher See. NachlaBstempel. Leinwand 72x50 cm. Schwarzer Rahmen. 1919.,1212,95.3,False,positional,"Weber, Paul",,CORNICI,,Sec. XX
 BO0624_84824,718549,241,249,Kopf eines Schafes. Bezeichnet. Pappe 19x22 cm. Schwarzer Rahmen.,1218,96.8,False,positional,"Wenglein, Joseph",,CORNICI,,
 BO0624_84824,718550,242,250,Landschaft (Skizze). Bezeichnet. Leinwand 44x27 cm. Goldrahmen.,1219,96.6,False,positional,"Wenglein, Joseph",,,,
 BO0624_84824,718551,243,252,Der Konigsee. Bezeichnet. Leinwand 80x50 cm. Goldrahmen.,1231,96.3,False,positional,"Wex, Willibald",,,,
-BO0624_84824,718552,244,253,Landschaft. Bezeichnet. Pastell 52x41 cm. Schwarzer Rahmen. 1915.,1235,92.4,False,positional,"Widenmann, Julius",,CORNICI,,
-BO0624_84824,718553,245,254,"Am Starnbergersee. Links Wald, rechts Blick auf See und Gebirge. Bezeichnet. Leinwand 34×24 cm.Goldrahmen. 1910.",1241,95.7,False,positional,"Willroider, Joseph",,,,
+BO0624_84824,718552,244,253,Landschaft. Bezeichnet. Pastell 52x41 cm. Schwarzer Rahmen. 1915.,1235,92.4,False,positional,"Widenmann, Julius",,CORNICI,,Sec. XX
+BO0624_84824,718553,245,254,"Am Starnbergersee. Links Wald, rechts Blick auf See und Gebirge. Bezeichnet. Leinwand 34×24 cm.Goldrahmen. 1910.",1241,95.7,False,positional,"Willroider, Joseph",,,,Sec. XX
 BO0624_84824,718554,246,255,"Einsamkeit. Monch auf einer Steinbank sitzend,betrachtet sinnend eine Gedenktafel. Zwischen hohem Gestrauch und Baumen kommt ein Bachlein herab, das sich im Vordergrund zu einem Timpel erweitert. Im Hintergrunde Gebirge. Bezeichnet. Leinwand 105x135 cm. Goldrahmen. Abbildung Tafel 8.",1247,99.3,False,positional,"Willroider, Ludwig",,,,
 BO0624_84824,718555,247,256,Landschaft. Bezeichnet. Pappe 30x40 cm. Schwarzer Rahmen.,1248,96.4,False,positional,"Willroider, Ludwig",,CORNICI,,
 BO0624_84824,718556,248,245,"## Windmeier, A.",1253,100.0,False,title_direct,"Windmeier, A.",,,,
@@ -253,7 +253,7 @@ BO0624_84824,718559,251,260,Am Chiemsee. Bezeichnet. Leinwand 16x12 cm. Schwarze
 BO0624_84824,718560,252,261,Begegnung. Bauer mit Kuh vom Markt heimkehrend im Gesprach mit zwei Tirolerinnen. Bezeichnet. Leinwand 1ix9 cm. Goldrahmen mit schwarz.,1265,98.5,False,positional,"Winkler, K.",,,,
 BO0624_84824,718561,253,262,Geldzahler. Ein Landsknecht zahlt sein Geld. Bezeichnet. Holz 40x50 cm. Goldrahmen.,1271,97.5,False,positional,"Wolf, Rudolf",,OGGETTI IN LEGNO,,
 BO0624_84824,718562,254,263,Nachtwachter mit Laterne. Bezeichnet. Holz 50x60 cm. Goldrahmen.,1272,96.8,False,positional,"Wolf, Rudolf",,OGGETTI IN LEGNO,,
-BO0624_84824,718563,255,1732,1797,1284,61.5,False,positional,"Zick, Januarius",,,,
+BO0624_84824,718563,255,1732,1797,1284,61.5,False,positional,"Zick, Januarius",,,,Sec. XVIII
 BO0624_84824,718564,256,265,Darstellung der Enthauptung des heiligen Antonius.Bezeichnet.Holz 50x40 cm.Schwarzer Originalrahmen. Abbildung Tafel 15.,1286,98.3,False,positional,"Zick, Januarius",,OGGETTI IN LEGNO,,
 BO0624_84824,718565,257,266,Darstellung des Martyriums des heil. Laurentius du Malmain.Holz 50x40 cm. Schwarzer Originalrahmen.,1287,98.0,False,positional,"Zick, Januarius",,OGGETTI IN LEGNO,,
 BO0624_84824,718566,258,267,Pferdefuhrwerk im Schnee. Bezeichnet. Leinwand 45x35 cm. Schwarzer Rahmen. Abbildung Tafel 7.,1293,97.8,False,positional,"Zugel, Heinrich",,CORNICI,,
@@ -271,8 +271,8 @@ BO0624_84824,718577,269,285,Idylle.,1334,75.0,False,positional,,Sienesische Schu
 BO0624_84824,718578,270,286,"Varenna au lac de Como. 21,5x16 cm. Aquarell.",1340,95.5,False,positional,,Sienesische Schule,,,
 BO0624_84824,718579,271,287,"- Galerie in Varenna au lac de Como. 21,5x16 cm. Aquarell.",1344,100.0,False,positional,,Sienesische Schule,,,
 BO0624_84824,718580,272,288,"Herr und Dame der Empirezeit. 2 Blatt, Gouachemalerei von C. Sturm.",1346,96.9,False,positional,,Sienesische Schule,,,
-BO0624_84824,718581,273,289,Herrenbildnis aus dem Jahre 1820. Aquarell.,1348,95.3,False,positional,,Sienesische Schule,,,
-BO0624_84824,718582,274,290,"- Mannliche Bildnisse. Kopien nach Gemalden von Rembrandt. 4 Blatt Gouachemalereien von Georg Zorn,1826.",1350,100.0,False,positional,REMBRANDT VAN RIJN,Sienesische Schule,OGGETTI VARI,,
+BO0624_84824,718581,273,289,Herrenbildnis aus dem Jahre 1820. Aquarell.,1348,95.3,False,positional,,Sienesische Schule,,,Sec. XIX
+BO0624_84824,718582,274,290,"- Mannliche Bildnisse. Kopien nach Gemalden von Rembrandt. 4 Blatt Gouachemalereien von Georg Zorn,1826.",1350,100.0,False,positional,REMBRANDT VAN RIJN,Sienesische Schule,OGGETTI VARI,,Sec. XIX
 BO0624_84824,718583,275,291,FluBlandschaft mit Steinbricke. Aquarell.,1351,95.1,False,positional,,Sienesische Schule,,,
 BO0624_84824,718584,276,292,"Pferd im Stall. Handzeichnung von Ludw. Hartmann, Muinchen.",1352,96.5,False,positional,,Sienesische Schule,,,
 BO0624_84824,718585,277,293,"Pferdestudien. Handzeichnung von Ludw. Hartmann, Munchen.",1353,96.4,False,positional,,Sienesische Schule,,,
@@ -281,8 +281,8 @@ BO0624_84824,718587,279,295,"Schwabische Landschaft mit Dorf und Obstbaumen. Fed
 BO0624_84824,718588,280,296,Desgleichen.,1356,84.6,False,positional,,Sienesische Schule,,,
 BO0624_84824,718589,281,297,- 298 Vue de la Ville de Constance et le Lac de Constance. Original-Aquarell von Louis Bleuler. 48x32 cm.,1358,100.0,False,positional,,Sienesische Schule,,,
 BO0624_84824,718590,282,299,- Drei Briefbogen mit italienischen Ansichten in Lithographie.,1360,100.0,False,positional,,Sienesische Schule,STAMPE E INCISIONI,,
-BO0624_84824,718591,283,300,Le Marche a faire. Peint par Teniers. Grave par Gabrieli 1783.Leicht kol. Qu.,1361,97.3,False,title_direct,Teniers,,,,
-BO0624_84824,718592,284,301,Le Marche conclus. Peint par Teniers. Grave par Gabrieli 1783. Leicht kol. Qu.,1362,97.3,False,title_direct,Teniers,,,,
+BO0624_84824,718591,283,300,Le Marche a faire. Peint par Teniers. Grave par Gabrieli 1783.Leicht kol. Qu.,1361,97.3,False,title_direct,Teniers,,,,Sec. XVIII
+BO0624_84824,718592,284,301,Le Marche conclus. Peint par Teniers. Grave par Gabrieli 1783. Leicht kol. Qu.,1362,97.3,False,title_direct,Teniers,,,,Sec. XVIII
 BO0624_84824,718593,285,302,Cherubims. Farbstich. W. Peters inv. F. Bartolozzi R.A. sculp. Qu.,1363,96.7,False,positional,,Sienesische Schule,STAMPE E INCISIONI,,
 BO0624_84824,718594,286,303,La Recompense. Farbstich. Dessine et grave par A. Legrand. Qu.,1364,96.6,False,positional,,Sienesische Schule,STAMPE E INCISIONI,,
 BO0624_84824,718595,287,304,Witte Bohnen.Farbstich.,1365,91.7,False,positional,,Sienesische Schule,STAMPE E INCISIONI,,
@@ -300,9 +300,9 @@ BO0624_84824,718606,298,315,"11 Blatt Bildnisse aus Dresden, alte Kupferstiche."
 BO0624_84824,718607,299,316,"6 Blatt Bildnisse aus Luneburg, alte Kupferstiche.",1387,96.0,False,positional,,Sienesische Schule,OGGETTI IN RAME,,
 BO0624_84824,718608,300,317,"10 Blatt Bildnisse aus Schleswig-Holstein, alte Kupferstiche.",1391,100.0,False,positional,,Sienesische Schule,OGGETTI IN RAME,,
 BO0624_84824,718609,301,318,"6 Blatt Bildnisse aus Fulda, ReuB, Hildesheim usw., alte Kupferstiche.",1393,97.0,False,positional,,Sienesische Schule,OGGETTI IN RAME,,
-BO0624_84824,718610,302,331,"Bildnis eines Geistlichen, Ende 18. Jahrhundert,rund, in Bronzerahmchen.",1397,97.1,False,positional,,Sienesische Schule,,,
+BO0624_84824,718610,302,331,"Bildnis eines Geistlichen, Ende 18. Jahrhundert,rund, in Bronzerahmchen.",1397,97.1,False,positional,,Sienesische Schule,,,Sec. XVIII
 BO0624_84824,718611,303,332,"Bildnis einer Dame mit Ruschenhaube, rund, schwarzer Holzrahmen.",1399,96.8,False,positional,,Sienesische Schule,,,
-BO0624_84824,718612,304,333,"Bildnis eines Herrn, 18. Jahrhundert, rund, Bronzerahmen,",1401,96.3,False,positional,,Sienesische Schule,,,
+BO0624_84824,718612,304,333,"Bildnis eines Herrn, 18. Jahrhundert, rund, Bronzerahmen,",1401,96.3,False,positional,,Sienesische Schule,,,Sec. XVIII
 BO0624_84824,718613,305,334,"Bildnis eines Osterreichischen Offiziers,in Etui. Abbildung Tafel 20.",1405,100.0,False,positional,,Sienesische Schule,,,
 BO0624_84824,718614,306,335,Abbildung Tafel 20.,1409,90.0,False,positional,,Sienesische Schule,,,
 BO0624_84824,718615,307,336,Bildnis von Konigin Luise und Friedrich dem GroBen. Doppel-Holzrahmen.,1411,97.1,False,positional,,Sienesische Schule,,,
@@ -318,7 +318,7 @@ BO0624_84824,718624,316,363,- 364,1433,100.0,False,positional,,Sienesische Schul
 BO0624_84824,718625,317,365,- Boule-Uhr mit reichen Bronzeverzierungen. Abbildung im Text.,1435,100.0,False,positional,,Sienesische Schule,,,
 BO0624_84824,718626,318,366,"Standuhr, blaue Porzellanvase mit 2 sitzenden Putten und",1438,96.5,False,title_direct,,,Porzellan,,
 BO0624_84824,718627,319,367,in tadelloser Erhaltung! Hohe 34 cm.,1447,94.4,False,positional,,Sienesische Schule,,,
-BO0624_84824,718628,320,368,"Goldbronze-Uhr, um 1810, Vasenform mit Henkeln und Deckel und reicher ornamentaler Verzierung. Henkel aus Minervakopfen gebildet. Seltenes Stick in wundervoller Erhaltung! Hohe 43 cm.",1448,98.9,False,positional,,Sienesische Schule,,,
+BO0624_84824,718628,320,368,"Goldbronze-Uhr, um 1810, Vasenform mit Henkeln und Deckel und reicher ornamentaler Verzierung. Henkel aus Minervakopfen gebildet. Seltenes Stick in wundervoller Erhaltung! Hohe 43 cm.",1448,98.9,False,positional,,Sienesische Schule,,,Sec. XIX
 BO0624_84824,718629,321,369,"Goldbronze-Kamingarnitur, Louis XVI Stil, bestehend aus Standuhr, 2 Girandolen, Feuergarnitur, Putten darstellend, zusammen 6 Teile. Prachtvolle Arbeit von sehr dekorativer Wirkung! Hohe der Uhr 70 cm, Hohe der Girandolen 88 cm. Abbildung Tafel 21.",1449,99.2,False,positional,,Sienesische Schule,,,
 BO0624_84824,718630,322,370,"Bronzeuhr, feuervergoldet.",1450,92.3,False,positional,,Sienesische Schule,,,
 BO0624_84824,718631,323,371,"Bronze-Tuirklopfer, Renaissance, Lowenkopf mit Ring.",1451,96.1,False,positional,,Sienesische Schule,,,
@@ -342,12 +342,12 @@ BO0624_84824,718648,340,388,"Vase, bauchige Form. Hohe 20 cm.",1481,93.5,False,p
 BO0624_84824,718649,341,389,Weihwasserkesselchen.,1483,90.9,False,positional,,Sienesische Schule,,,
 BO0624_84824,718650,342,390,"- Rokokoplatte, rund. Durchmesser 31 cm.",1485,100.0,False,positional,,Sienesische Schule,,,
 BO0624_84824,718651,343,392,392,1487,100.0,False,positional,,Sienesische Schule,,,
-BO0624_84824,718652,344,393,"Epitaphium, sculp. von Friedrich Schnapper, Giengen 1854. Lange 59 cm.",1490,97.0,False,positional,,Sienesische Schule,,,
+BO0624_84824,718652,344,393,"Epitaphium, sculp. von Friedrich Schnapper, Giengen 1854. Lange 59 cm.",1490,97.0,False,positional,,Sienesische Schule,,,Sec. XIX
 BO0624_84824,718653,345,394,- 395,1492,100.0,False,positional,,Sienesische Schule,,,
 BO0624_84824,718654,346,397,397,1494,100.0,False,positional,,Sienesische Schule,,,
 BO0624_84824,718655,347,398,Deckelkrug mit ornamentaler Verzierung. Hohe 21 cm.,1499,96.1,False,positional,,Sienesische Schule,,,
 BO0624_84824,718656,348,399,- 8eckige Schraubenkanne mit AusguB. Hohe 28 cm.,1501,100.0,False,positional,,Sienesische Schule,,,
-BO0624_84824,718657,349,400,"Runde Schraubenkanne mit AusguB und Gravierung, aus dem Jahre 1807. Hohe 31 cm.",1502,97.4,False,positional,,Sienesische Schule,,,
+BO0624_84824,718657,349,400,"Runde Schraubenkanne mit AusguB und Gravierung, aus dem Jahre 1807. Hohe 31 cm.",1502,97.4,False,positional,,Sienesische Schule,,,Sec. XIX
 BO0624_84824,718658,350,401,"## Gold, Silber und Schmucksachen.",1507,100.0,False,positional,,Sienesische Schule,OGGETTI IN ORO,,
 BO0624_84824,718659,351,402,"Desgl., 481 gr, 17 cm hoch.",1510,92.0,False,positional,,Sienesische Schule,,,
 BO0624_84824,718660,352,403,"Brotkorb,Silber, 357 gr,25 cm Durchmesser.",1511,95.2,False,positional,,Sienesische Schule,,,
@@ -548,8 +548,8 @@ BO0624_84824,718854,546,627,627,1977,100.0,False,positional,,Sienesische Schule,
 BO0624_84824,718855,547,628,"Salatschale mit Glas, 935/000, 438 gr.",1980,94.6,False,positional,,Sienesische Schule,,,
 BO0624_84824,718856,548,629,"Aufsatz, 800/000, Hohe 16,5 cm, 357 gr.",1981,94.6,False,positional,,Sienesische Schule,,,
 BO0624_84824,718857,549,630,"Henkelkorbchen, 224 gr.",1982,91.3,False,positional,,Sienesische Schule,,,
-BO0624_84824,718858,550,631,"- Silberner Teekessel, 1905 gr. Abbildung Tafel 20.",1984,100.0,False,positional,,Sienesische Schule,,,
-BO0624_84824,718859,551,632,"- Silberner Leuchter, 49 cm hoch, 1290 gr. Abbildung Tafel 20.",1986,100.0,False,positional,,Sienesische Schule,LAMPADE,,
+BO0624_84824,718858,550,631,"- Silberner Teekessel, 1905 gr. Abbildung Tafel 20.",1984,100.0,False,positional,,Sienesische Schule,,,Sec. XX
+BO0624_84824,718859,551,632,"- Silberner Leuchter, 49 cm hoch, 1290 gr. Abbildung Tafel 20.",1986,100.0,False,positional,,Sienesische Schule,LAMPADE,,Sec. XIII
 BO0624_84824,718860,552,633,"Zwei Aufsatze mit Glas, Hohe 27 cm, 560 gr. Abbildung Tafel 20.",1987,96.7,False,positional,,Sienesische Schule,,,
 BO0624_84824,718861,553,634,"- Obstschale mit Glas, Silber vergoldet, 745 gr.",1989,100.0,False,positional,,Sienesische Schule,,,
 BO0624_84824,718862,554,635,"Jardiniere mit Glas, 483 gr.",1990,92.9,False,positional,,Sienesische Schule,,,
@@ -726,7 +726,7 @@ BO0624_84824,719032,724,821,"Paar Vasen, schlanke Form mit engem Hals, bunte Blu
 BO0624_84824,719033,725,822,"Paar Deckelvasen,blau mit Gold,Grundmuster, Blumenmedaillon, Hohe 28 cm.",2310,97.2,False,positional,,,OGGETTI IN ORO,,
 BO0624_84824,719034,726,823,"Dose mit Deckel, Ananas darstellend, weiB, Hohe 12 cm.",2311,96.2,False,positional,,,SCATOLE,,
 BO0624_84824,719035,727,824,Abbildung Tafel 19.,2312,90.0,False,positional,,,Porzellan,,
-BO0624_84824,719036,728,825,"Drei Teller,Rokokorand mit bunter Blumenmalerei, um 1750, Marke Ludwigsburg,Durchmesser 23 cm.",2313,97.8,False,positional,,Manifattura di Ludwigsburg,PIATTI,,
+BO0624_84824,719036,728,825,"Drei Teller,Rokokorand mit bunter Blumenmalerei, um 1750, Marke Ludwigsburg,Durchmesser 23 cm.",2313,97.8,False,positional,,Manifattura di Ludwigsburg,PIATTI,,Sec. XVIII
 BO0624_84824,719037,729,826,"Salzschale, zwei Schalen auf Rokokosockel mit Putte, bunte Blumenmalerei mit Goldverzierung, Marke Berlin,Hohe 12 cm.",2315,98.3,False,positional,,Scuola di Berlino,OGGETTI VARI,,
 BO0624_84824,719038,730,827,"Dose, Frau darstellend.",2316,91.3,False,positional,,,SCATOLE,,
 BO0624_84824,719039,731,828,"Biedermeiervase mit Blumen bemalt und reicher Goldverzierung, auf Sockel mit 2 Henkeln,Hohe 28 cm.",2317,98.0,False,positional,,,Porzellan,,
@@ -778,7 +778,7 @@ BO0624_84824,719084,776,876,"Figur, derselbe.",2401,87.5,False,positional,,,Porz
 BO0624_84824,719085,777,877,"Figur, Hasenfamilie, Thuringer Manufaktur, Hohe 8 cm.",2403,96.1,False,positional,,,Porzellan,,
 BO0624_84824,719086,778,878,"Figur, Wellensittich, Thuringer Manufaktur, Hohe 16,5 cm,",2405,96.4,False,positional,,,Porzellan,,
 BO0624_84824,719087,779,879,"Figur, Wellensittichpaar, Thuiringer Manufaktur,Hohe 16 cm. a Sitzender Tiger, Thuringer Manufaktur, Hohe 17 cm.",2407,67.5,False,positional,,,Porzellan,,
-BO0624_84824,719088,780,880,"881 Madonna mit Kind, spatgotisch, ca.1500, Holz, Hohe 50 cm.",2417,100.0,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_84824,719088,780,880,"881 Madonna mit Kind, spatgotisch, ca.1500, Holz, Hohe 50 cm.",2417,100.0,False,positional,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_84824,719089,781,882,"Madonna mit Kind, auf Mondsichel, Holz, Hohe 73 cm.",2419,95.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_84824,719090,782,883,"Discuswerfer, weiB, Marmor, Hohe 65 cm.",2421,94.6,False,positional,,,Skulpturen,,
 BO0624_84824,719091,783,884,"Venus, weiB, Marmor, Hohe 80 cm.",2423,93.3,False,positional,,,Skulpturen,,

@@ -1,10 +1,10 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84178,119229,1,1621,1676.,31,61.5,False,none,,,,,
-BO0624_84178,119230,2,1603,1677.,141,61.5,False,none,,,,,
+BO0624_84178,119229,1,1621,1676.,31,61.5,False,none,,,,,Sec. XVII
+BO0624_84178,119230,2,1603,1677.,141,61.5,False,none,,,,,Sec. XVII
 BO0624_84178,119231,3,13,Le Bravo.,181,84.2,False,none,,,,,
 BO0624_84178,119232,4,I4,## ROYBET,190,100.0,False,none,,,,,
 BO0624_84178,119233,5,I,"l defie du regard, ne craint personne. Tourne vers la gauche, il observe de face. Assurement, il a male visage avec son immense feutre couleur de nuit, ses cheveux en masses epaisses, ses yeux noirs qui ont l'habitude de mesurer les dangers, sa moustache brune et son menton volontaire.La fraise retombe mollement,a larges plis, sur son vetement gris boutonne d'acier, et que recouvre un manteau d'un noir franc.",196,99.9,False,none,,,,,
-BO0624_84178,119234,6,161,g-1668.,205,80.0,False,none,,,,,
+BO0624_84178,119234,6,161,g-1668.,205,80.0,False,none,,,,,Sec. XVII
 BO0624_84178,119235,7,29,"motifs ondules au col. Faience de Faenza, commencement du xvre siecle.",291,97.8,False,none,,Scuola Faentina,,,
 BO0624_84178,119236,8,30,"- -Vase decore d'une large zone de feuillages, ainsi que de couronnes. Faience de Faenza, commencement du xvr siecle.",293,100.0,False,none,,Scuola Faentina,VASI,,
 BO0624_84178,119237,9,31,"VasE en ancienne faience de Faenza, presentant d'un coté une figure de saint Luc, de l'autre cote une tete de cheru-",294,98.7,False,none,,Scuola Faentina,VASI,,

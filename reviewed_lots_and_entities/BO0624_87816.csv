@@ -6,7 +6,7 @@ BO0624_87816,188351,4,4,Angegebene MaBe verstehen sich bei Gemalden ohne Rahmen.
 BO0624_87816,188352,5,5,"Gesteigert wird mindestens um 1 Mk., iber 100 um 5Mk. Von der Reihenfolge wird nur ausnahmsweise abgewichen.",8,99.0,False,none,,,,,
 BO0624_87816,188353,6,6,Ein Aufschlag zur Kaufsumme wird vom Kaufer mit 5% erhoben.,9,98.3,False,none,,,,,
 BO0624_87816,188354,7,7,Bei Streitigkeiten iber den Zuschlag wird der betreffende Gegenstand noch einmal ausgeboten.,10,98.9,False,none,,,,,
-BO0624_87816,188355,8,8,"Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los. (Ges.v. 10. Juli 1902.)",11,99.1,False,none,,,,,
+BO0624_87816,188355,8,8,"Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los. (Ges.v. 10. Juli 1902.)",11,99.1,False,none,,,,,Sec. XX
 BO0624_87816,188356,9,1,Blick auf den speienden Vesuv.,22,96.7,False,positional,C.REINHARDT,,,,
 BO0624_87816,188357,10,2,Die buBende Magdalena in der Einode.,27,97.2,False,positional,P.BATTONI,,,,
 BO0624_87816,188358,11,3,Gebirgslandschaft mit Wasserfall.,32,97.0,False,positional,P.BATTONI,,,,
@@ -17,7 +17,7 @@ BO0624_87816,188362,15,7,8.Zwei Mondscheinlandschaften mit Staffage.Gegenstuicke
 BO0624_87816,188363,16,9,Die Kreuztragung Christi.,43,96.0,False,positional,,DEUTSCHE SCHULE,,,
 BO0624_87816,188364,17,10,Brustbild eines bartigen Rabbiners. Holz.18.Jahrh.H.23 cm.B.17cm.G.R.,45,97.8,False,positional,,DEUTSCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_87816,188365,18,11,Brustbild eines bartigen Mannes mit Pelzmutze.,46,96.8,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_87816,188366,19,12,"St.Martin mit dem Bettler den Mantel teilend. Auf Rupfer.Um 1600.H.22 cm.B.15 cm.G-R.,durchbrochen.",48,98.5,False,positional,,DEUTSCHE SCHULE,,,
+BO0624_87816,188366,19,12,"St.Martin mit dem Bettler den Mantel teilend. Auf Rupfer.Um 1600.H.22 cm.B.15 cm.G-R.,durchbrochen.",48,98.5,False,positional,,DEUTSCHE SCHULE,,,Sec. XVII
 BO0624_87816,188367,20,13,"Zwei Frauen in Halbfigur, die eine halt einen Palmenzweig.",52,97.4,False,positional,,ITALIENISCHE SCHULE,,,
 BO0624_87816,188368,21,2,"Holz.In tergo bezeiehnet:Pietro Buonacorsi.16.Jahrh.H.21 cm.B.16 cm.G-R,durchbrochen.",53,98.8,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_87816,188369,22,3,14-26.Zyklus von 13 Darstellungen aus dem Leben Christi.,54,98.2,False,positional,,ITALIENISCHE SCHULE,,,
@@ -180,11 +180,11 @@ BO0624_87816,188525,178,179,Halbfigur der buBenden Magdalena in einer Felslandsc
 BO0624_87816,188526,179,180,DerErzengel St.Michael besiegt den Drachen.,638,95.5,False,positional,GUIDO RENI,,,,
 BO0624_87816,188527,180,181,Der heilige Hyronimus in Kardinalstracht vor dem Kruzifix knieend und betend.,642,97.4,False,positional,GUIDO RENI,,,,
 BO0624_87816,188528,181,182,Huftbild einer sitzenden Dame in ausgeschnittener Taille. Leinwand.H.78cm.B.64cm.G.-R.,647,78.3,False,positional,A.KORNECK,,,,
-BO0624_87816,188529,182,183,Johann de Palafox et Mendoza.1670.,652,94.3,False,positional,,SPANISCHE SCHULE,,,
+BO0624_87816,188529,182,183,Johann de Palafox et Mendoza.1670.,652,94.3,False,positional,,SPANISCHE SCHULE,,,Sec. XVII
 BO0624_87816,188530,183,184,Die heimkehrenden Schnitter.,657,93.1,False,positional,LEOP. ROBERT,,,,
 BO0624_87816,188531,184,185,St. Cacilia von Engeln umgeben vor der Orgel sitzend. Holz.H.44cm.B.31cm.G-R.,662,97.4,False,positional,ANGEL. KAUFMANN,,OGGETTI IN LEGNO,,
 BO0624_87816,188532,185,186,Ein Bar im Kampf mit Hunden. Auf Glas gemalt.Monogrammiert.H.27cm.B.20 cm.G.-R.,666,97.4,False,positional,G.MIND,,,,
-BO0624_87816,188533,186,187,"Grosser BarockPrunkschrank,NuBholz,mit vergoldeter Schnitzerei,(gemalten) Malachitplatten und vielen vollrund geschnitzten musizierenden Figuren.AuBerordentliche reiche architektonische Gliederung. Nurnberg. 17. Jahrh.",670,99.1,False,positional,,Scuola di Norimberga,Prunkmobel; Bronzegarnituren; Porzellan,,
+BO0624_87816,188533,186,187,"Grosser BarockPrunkschrank,NuBholz,mit vergoldeter Schnitzerei,(gemalten) Malachitplatten und vielen vollrund geschnitzten musizierenden Figuren.AuBerordentliche reiche architektonische Gliederung. Nurnberg. 17. Jahrh.",670,99.1,False,positional,,Scuola di Norimberga,Prunkmobel; Bronzegarnituren; Porzellan,,Sec. XVII
 BO0624_87816,188534,187,188,"Boulle-Schrank, schwarz, mit reichen Messing-Intarsien und Bronzebeschlag.",671,97.3,False,positional,,,Prunkmobel; Bronzegarnituren; Porzellan,,
 BO0624_87816,188535,188,189,"Schwarzes Schrankchen mit Tisch-Untersatz. Mit durchbrochenem Bronzebeschlag und eingelassenen Porzellanplatten, auf welchen Malereien a la Watteau.",673,98.6,False,title_direct,WATTEAU FRANCOIS,,Porzellan,,
 BO0624_87816,188536,189,190,Schwarzer Damen-Schreibschrank mit Bronzebeschlag und eingelegten Metall-,674,97.3,False,positional,,,OGGETTI IN METALLO,,

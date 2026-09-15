@@ -25,7 +25,7 @@ BO0624_88455,284376,23,34,Herrenbildnis.                                        
 BO0624_88455,284377,24,35,Herrenbildnis.                                                     | Leinwand 58/48                                                                             |                      |,47,94.9,False,positional,V.DELTEN,,,,
 BO0624_88455,284378,25,36,"BuBende Magdalena.                                                 | G.VAN DEN EECKHOUT, Art. Leinwand 110/96                                                   |                      |",48,97.4,False,positional,V.DELTEN,,,,
 BO0624_88455,284379,26,37,Petrus verleugnet den Herrn.                                       | Leinwand 42/48                                                                             |                      |,49,96.6,False,positional,V.DELTEN,,,,
-BO0624_88455,284380,27,38,"Madonna della Sedia.                                               | GEORG JACOB FELSING, 1883,Darmstadt.                                                       | Kupferstich,Pl.32/32 |",50,98.0,False,positional,V.DELTEN,,OGGETTI IN RAME,,
+BO0624_88455,284380,27,38,"Madonna della Sedia.                                               | GEORG JACOB FELSING, 1883,Darmstadt.                                                       | Kupferstich,Pl.32/32 |",50,98.0,False,positional,V.DELTEN,,OGGETTI IN RAME,,Sec. XIX
 BO0624_88455,284381,28,39,Christus vor Pilatus.                                              | Leinwand 82/105                                                                            |                      |,51,96.0,False,positional,V.DELTEN,,,,
 BO0624_88455,284382,29,40,Herrenbildnis.                                                     | Karton 27/21                                                                               |                      |,53,94.5,False,positional,V.DELTEN,,,,
 BO0624_88455,284383,30,41,Liegender weiblicher Akt.                                           | Leinwand 15/25                                                                             |                      |,54,97.5,False,positional,V.DELTEN,,,,
@@ -76,9 +76,9 @@ BO0624_88455,284427,74,113,Sonnenuntergang bei Malaga. Karton 24/43             
 BO0624_88455,284428,75,114,Motiv bei Cosenza.                                                            |,188,89.5,False,positional,EDUARD JOSEF MULLER,,,,
 BO0624_88455,284429,76,116,Momentana. Samtlich mit Nachlapstempel.                                       |,190,94.9,False,positional,EDUARD JOSEF MULLER,,,,
 BO0624_88455,284430,77,128,"| Madchen in weiBer Bluse. Pastel1 48,5/40,5 Links unten bezeichnet:M.Roberth 92.                                       |",205,97.5,False,positional,JACOB RENCK,,,,
-BO0624_88455,284431,78,129,"| Madchen mit Rosen. Pastell,Dchm.28 cm Links unten bezeichnet:M.Roberth 1914.                                          |",206,97.4,False,positional,JACOB RENCK,,,,
+BO0624_88455,284431,78,129,"| Madchen mit Rosen. Pastell,Dchm.28 cm Links unten bezeichnet:M.Roberth 1914.                                          |",206,97.4,False,positional,JACOB RENCK,,,,Sec. XX
 BO0624_88455,284432,79,130,| Kinder mit Frosch. Pastell 22/29 Links unten bezeichnet:M. Roberth.                                                   |,207,97.0,False,positional,JACOB RENCK,,,,
-BO0624_88455,284433,80,131,| Kleines Madchen. Pastell 41/36 Links unten bezeichnet:M.Roberth 1914.                                                 |,208,97.1,False,positional,JACOB RENCK,,,,
+BO0624_88455,284433,80,131,| Kleines Madchen. Pastell 41/36 Links unten bezeichnet:M.Roberth 1914.                                                 |,208,97.1,False,positional,JACOB RENCK,,,,Sec. XX
 BO0624_88455,284434,81,1331,| BuBende Magdalena. Leinwand 82/62                                                                                     |,211,92.8,False,positional,JACOB RENCK,,,,
 BO0624_88455,284435,82,135,| Alter Hof. Karton 52/39 Bezeichnet.                                                                                   |,213,94.3,False,positional,JACOB RENCK,,,,
 BO0624_88455,284436,83,136,Wiese. Leinwand 74/60 Bezeichnet.                                              |,216,93.9,False,positional,CH.H. JEIDELS,,,,
@@ -106,8 +106,8 @@ BO0624_88455,284457,104,162,Zinnteller mit Wappen.,265,91.3,False,positional,,,P
 BO0624_88455,284458,105,163,- Zinnteller der Maurer und Zimmerleute.,267,100.0,False,positional,,,PIATTI,,
 BO0624_88455,284459,106,164,Zinnteller mit Darstellung: Noah.,268,93.9,False,positional,,,PIATTI,,
 BO0624_88455,284460,107,165,Zinnschissel. Heraldische Lowen.,269,93.8,False,positional,,,Arbeiten in Metall; Schmudk,,
-BO0624_88455,284461,108,166,- Zehn Obstmesser mit Achatgriffen. In Lederetui. 18. Jahrhundert.,271,100.0,False,positional,,,Arbeiten in Metall; Schmudk,,
-BO0624_88455,284462,109,167,Bronze-Schelle. Datiert 1573. Hohe 14 cm.,272,95.0,False,positional,,,Arbeiten in Metall; Schmudk,,
+BO0624_88455,284461,108,166,- Zehn Obstmesser mit Achatgriffen. In Lederetui. 18. Jahrhundert.,271,100.0,False,positional,,,Arbeiten in Metall; Schmudk,,Sec. XVIII
+BO0624_88455,284462,109,167,Bronze-Schelle. Datiert 1573. Hohe 14 cm.,272,95.0,False,positional,,,Arbeiten in Metall; Schmudk,,Sec. XVI
 BO0624_88455,284463,110,168,morplatte. Lange 20 cm.,274,91.3,False,positional,,,Arbeiten in Metall; Schmudk,,
 BO0624_88455,284464,111,169,"Bronzefigur. Le Faucheur.V. A. Gandet. Hohe 18,5 cm.",275,95.9,False,positional,,,Arbeiten in Metall; Schmudk,,
 BO0624_88455,284465,112,170,Venus. Bronze. Auf Marmorsockel. Hohe 19 cm.,276,95.2,False,positional,,,Arbeiten in Metall; Schmudk,,
@@ -128,9 +128,9 @@ BO0624_88455,284479,126,184,- Rokoko-Aufsatz mit Amoretten am FuB. Hohe 27 cm.,2
 BO0624_88455,284480,127,185,Zigaretten-Etui. Gold. Auf dem Deckel Adler mit Brillant. Russisch.,298,96.9,False,positional,,,OGGETTI IN ORO,,
 BO0624_88455,284481,128,186,"- Bonbonniere. Silber, auf dem Deckel Amoretten mit Weintrauben. Lange 6 cm.",300,100.0,False,positional,,,Arbeiten in Metall; Schmudk,,
 BO0624_88455,284482,129,187,GurtelschlieBe. Silberfiligran.,301,93.5,False,positional,,,Arbeiten in Metall; Schmudk,,
-BO0624_88455,284483,130,188,Paar PreuB. Siegesthaler von 1871.,302,94.1,False,positional,,,Arbeiten in Metall; Schmudk,,
+BO0624_88455,284483,130,188,Paar PreuB. Siegesthaler von 1871.,302,94.1,False,positional,,,Arbeiten in Metall; Schmudk,,Sec. XIX
 BO0624_88455,284484,131,189,Frankfurter Zweiguldenstick zu Goethes hundert-,303,95.8,False,positional,,,Arbeiten in Metall; Schmudk,,
-BO0624_88455,284485,132,190,"Frankfurter Zweiguldenstick a. die Constituirende Verfassung, 1848.",305,97.0,False,positional,,,Arbeiten in Metall; Schmudk,,
+BO0624_88455,284485,132,190,"Frankfurter Zweiguldenstick a. die Constituirende Verfassung, 1848.",305,97.0,False,positional,,,Arbeiten in Metall; Schmudk,,Sec. XIX
 BO0624_88455,284486,133,191,Teller. Silbergetrieben mit Rokoko-Emblemen. Trogaion. Spanische Silbermarken. Durchmesser cm.,306,96.1,False,positional,,,PIATTI,,
 BO0624_88455,284487,134,192,"Kinderspielzeug. Posaune, Pfeife und Schellen als Rassel. Silber.",308,96.8,False,positional,,,Arbeiten in Metall; Schmudk,,
 BO0624_88455,284488,135,193,Silber-Nippes.Verkaufsstand mit Amor.,309,94.7,False,positional,,,Arbeiten in Metall; Schmudk,,
@@ -212,21 +212,21 @@ BO0624_88455,284563,210,271,Le moyen Age de Paul Lacroix et M.Ferd. Sere.,459,95
 BO0624_88455,284564,211,272,La Renaissance. Wie vorher. Band V.,461,94.1,False,positional,,,Bucher; Japan.Farbholzschnitte,,
 BO0624_88455,284565,212,273,Dei danni de ritto moderno e del modo di usarne,462,95.9,False,positional,,,Bucher; Japan.Farbholzschnitte,,
 BO0624_88455,284566,213,274,Paris,464,71.4,False,positional,,,Bucher; Japan.Farbholzschnitte,,
-BO0624_88455,284567,214,275,France. La Peinture. Paris 1900. Fol.,467,94.3,False,positional,,,Bucher; Japan.Farbholzschnitte,,
-BO0624_88455,284568,215,276,"- Segantini, Giovanni. Sein Leben und sein Werk. Wien 1902.Fol.",469,100.0,False,positional,,Scuola Viennese,Bucher; Japan.Farbholzschnitte,,
+BO0624_88455,284567,214,275,France. La Peinture. Paris 1900. Fol.,467,94.3,False,positional,,,Bucher; Japan.Farbholzschnitte,,Sec. XX
+BO0624_88455,284568,215,276,"- Segantini, Giovanni. Sein Leben und sein Werk. Wien 1902.Fol.",469,100.0,False,positional,,Scuola Viennese,Bucher; Japan.Farbholzschnitte,,Sec. XX
 BO0624_88455,284569,216,277,- Konvolut von 15 Blatt Bleizeichnungen.Versch. GroBen..,471,100.0,False,positional,,,Bucher; Japan.Farbholzschnitte,,
 BO0624_88455,284570,217,278,20 Gemalde und Studien in,472,92.6,False,positional,,,Bucher; Japan.Farbholzschnitte,,
-BO0624_88455,284571,218,279,W. Trubner-Album II. 25 Gemalde und Studien in photogr. Pressendruck. Munchen 1889. In Orig.,474,97.7,False,positional,,,Bucher; Japan.Farbholzschnitte,,
-BO0624_88455,284572,219,280,"- 281 Pontificale Romanum ad omnes pontificias caere monias. Venetiis Apud Juntas 1582. Mit Titelholzschn. Holzschn.im Text, Musiknoten und Druckerzeichen. Alter Ganzldrbd.",478,100.0,False,title_direct,,,Holz,,
-BO0624_88455,284573,220,282,"Calendarium Romanum Magnum. Oppenheym, Jac. Kobel,1518. Mit zahlr. kalendar. Holzschnitten, schwarz u.rot gedruckt. Folio. S. 65-70 fehlen. Einige Bll. ausgebess. Halbpgmt.",479,98.8,False,title_direct,,,Holz,,
-BO0624_88455,284574,221,283,"Wolf, Wien, 1916. Orig.Mappe. Karton.",481,94.1,False,positional,,Scuola Viennese,Bucher; Japan.Farbholzschnitte,,
+BO0624_88455,284571,218,279,W. Trubner-Album II. 25 Gemalde und Studien in photogr. Pressendruck. Munchen 1889. In Orig.,474,97.7,False,positional,,,Bucher; Japan.Farbholzschnitte,,Sec. XIX
+BO0624_88455,284572,219,280,"- 281 Pontificale Romanum ad omnes pontificias caere monias. Venetiis Apud Juntas 1582. Mit Titelholzschn. Holzschn.im Text, Musiknoten und Druckerzeichen. Alter Ganzldrbd.",478,100.0,False,title_direct,,,Holz,,Sec. XVI
+BO0624_88455,284573,220,282,"Calendarium Romanum Magnum. Oppenheym, Jac. Kobel,1518. Mit zahlr. kalendar. Holzschnitten, schwarz u.rot gedruckt. Folio. S. 65-70 fehlen. Einige Bll. ausgebess. Halbpgmt.",479,98.8,False,title_direct,,,Holz,,Sec. XVI
+BO0624_88455,284574,221,283,"Wolf, Wien, 1916. Orig.Mappe. Karton.",481,94.1,False,positional,,Scuola Viennese,Bucher; Japan.Farbholzschnitte,,Sec. XX
 BO0624_88455,284575,222,284,- Hans Thoma. Seligkeit und Wirrwahns Zeit.,483,100.0,False,positional,THOMA HANS,,Bucher; Japan.Farbholzschnitte,,
 BO0624_88455,284576,223,285,H. Villinger. Meine Tante Anna.,484,93.3,False,positional,,,Bucher; Japan.Farbholzschnitte,,
 BO0624_88455,284577,224,286,- Richard Voss. Alpentragodie.,486,100.0,False,positional,,,Bucher; Japan.Farbholzschnitte,,
 BO0624_88455,284578,225,287,D. Wittner. Die Geschichte der kleinen Fliege.,487,95.6,False,positional,,,Bucher; Japan.Farbholzschnitte,,
 BO0624_88455,284579,226,288,- A. Wothe. Die den Weg bereiten.,489,100.0,False,positional,,,Bucher; Japan.Farbholzschnitte,,
 BO0624_88455,284580,227,289,Hilte. Der groBe Kurfurst.,490,92.3,False,positional,,,Bucher; Japan.Farbholzschnitte,,
-BO0624_88455,284581,228,290,"Sauermann. Kunstkalender 1911, 12, 13, 20.",491,94.9,False,positional,,,Bucher; Japan.Farbholzschnitte,,
+BO0624_88455,284581,228,290,"Sauermann. Kunstkalender 1911, 12, 13, 20.",491,94.9,False,positional,,,Bucher; Japan.Farbholzschnitte,,Sec. XX
 BO0624_88455,284582,229,291,- Hahne. Das vorgeschichtl. Europa.,493,100.0,False,positional,,,Bucher; Japan.Farbholzschnitte,,
 BO0624_88455,284583,230,292,Hans Thoma. Federspiele.,494,91.7,False,positional,THOMA HANS,,Bucher; Japan.Farbholzschnitte,,
 BO0624_88455,284584,231,293,O.Jager. Weltgeschichte. 4 Bde.,495,93.3,False,positional,,,Bucher; Japan.Farbholzschnitte,,
@@ -418,7 +418,7 @@ BO0624_88455,284769,416,486,Schnupftabaksdose mit Landschaft. Stobwasser.,808,95
 BO0624_88455,284770,417,487,Schnupftabaksdose mit Landschaft. Durchm.8 cm,814,95.7,False,positional,,,Holz; Eifenbein,,
 BO0624_88455,284771,418,488,Lichtschirm.Empire. Hohe 38cm,816,93.3,False,positional,,,Holz; Eifenbein,,
 BO0624_88455,284772,419,489,Lichtschirm mit Stickereibild.Hohe 45 cm,818,95.2,False,positional,,,Holz; Eifenbein,,
-BO0624_88455,284773,420,490,"Teekessel. Messing getrieben, mit hessischem Wappen,1629.Hohe 21 cm",822,100.0,False,positional,,,Holz; Eifenbein,,
+BO0624_88455,284773,420,490,"Teekessel. Messing getrieben, mit hessischem Wappen,1629.Hohe 21 cm",822,100.0,False,positional,,,Holz; Eifenbein,,Sec. XVII
 BO0624_88455,284774,421,491,Zinnkannchen auf drei KugelfuBen. Hohe 20 cm,824,95.6,False,positional,,,Holz; Eifenbein,,
 BO0624_88455,284775,422,492,Schreibtischgarnitur. Onix mit Bronze. 4 Teile.,826,95.7,False,positional,,,Holz; Eifenbein,,
 BO0624_88455,284776,423,493,Sitzender Gotze. Bronze. Hohe 19 cm,830,100.0,False,positional,,,Holz; Eifenbein,,
@@ -495,16 +495,16 @@ BO0624_88455,284846,493,568,- Porzellanfigur. Eisele. Mit vier kleinen Figirchen
 BO0624_88455,284847,494,569,"- Dokumentenkasten.Hohe 7,43/34 cm.",958,100.0,False,positional,,,Holz; Eifenbein,,
 BO0624_88455,284848,495,570,Metallfigur mit Sockel. Mit Metallvaschen.,959,95.2,False,positional,,,Holz; Eifenbein,,
 BO0624_88455,284849,496,571,Parfumbehalter mit Spiegelchen.,960,93.8,False,positional,,,Holz; Eifenbein,,
-BO0624_88455,284850,497,572,Medaille der 1. Pariser Weltausstellung 1855.,961,95.6,False,positional,,,Holz; Eifenbein,,
-BO0624_88455,284851,498,573,- Medaille.Stuttgarter Elektr. Ausstellung 1896.,963,100.0,False,positional,,,Holz; Eifenbein,,
-BO0624_88455,284852,499,574,stein 1849.,965,83.3,False,positional,,,Holz; Eifenbein,,
-BO0624_88455,284853,500,575,"Kriegsdenkmunze 1870/71,kleine Luthermedaille, Carneol.",966,96.4,False,positional,,,Holz; Eifenbein,,
+BO0624_88455,284850,497,572,Medaille der 1. Pariser Weltausstellung 1855.,961,95.6,False,positional,,,Holz; Eifenbein,,Sec. XIX
+BO0624_88455,284851,498,573,- Medaille.Stuttgarter Elektr. Ausstellung 1896.,963,100.0,False,positional,,,Holz; Eifenbein,,Sec. XIX
+BO0624_88455,284852,499,574,stein 1849.,965,83.3,False,positional,,,Holz; Eifenbein,,Sec. XIX
+BO0624_88455,284853,500,575,"Kriegsdenkmunze 1870/71,kleine Luthermedaille, Carneol.",966,96.4,False,positional,,,Holz; Eifenbein,,Sec. XIX
 BO0624_88455,284854,501,576,Ziehborse. Seidengehakelt mit Stahlperlen und Portemonnaie.,967,96.6,False,positional,,,Holz; Eifenbein,,
 BO0624_88455,284855,502,577,- Vergoldete MantelschlieBe. Holzgeschnitztes Feuerzeug.,969,100.0,False,title_direct,,,Holz,,
 BO0624_88455,284856,503,578,- Balsambichse.Zinn.Kinderdom.,971,100.0,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88455,284857,504,579,Lorgnon.Fadenzahler. Fernglas.,972,93.3,False,positional,,,Holz; Eifenbein,,
 BO0624_88455,284858,505,580,Zwei Lupen. Horn und Messingfassung.,973,94.4,False,positional,,,Holz; Eifenbein,,
-BO0624_88455,284859,506,581,Nirnberger Gesellenbrief. Pergament.1782.,974,95.1,False,positional,,,Holz; Eifenbein,,
+BO0624_88455,284859,506,581,Nirnberger Gesellenbrief. Pergament.1782.,974,95.1,False,positional,,,Holz; Eifenbein,,Sec. XVIII
 BO0624_88455,284860,507,582,Cosmorama. Universelle de Peuples-Paris. Victor. Clerot.,975,96.3,False,positional,,,Holz; Eifenbein,,
 BO0624_88455,284861,508,583,Artillerie-Instrumente in Mahagonikasten. Paris.,976,95.8,False,positional,,,Holz; Eifenbein,,
 BO0624_88455,284862,509,584,Sammelband mit kleinen Stichen.,977,93.8,False,positional,,,STAMPE E INCISIONI,,

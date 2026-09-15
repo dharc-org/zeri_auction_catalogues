@@ -56,10 +56,10 @@ BO0624_88435,441970,54,103,"- Djimdjim-Portiere, doppelbreit. Lange 26o, Breite 
 BO0624_88435,441971,55,104,"Arabische Tischdecke. Lange g2, Breite g2 cm.",764,95.5,False,positional,,,Textilien; Gobelins,,
 BO0624_88435,441972,56,105,Syrisches Tischdeckchen mit Silberstickerei. 45/45 cm.,765,96.3,False,positional,,,Textilien; Gobelins,,
 BO0624_88435,441973,57,106,"- Vlamischer Gobelin.Der junge Alexander mit blonden Locken und 107 in voller Rustung ist inmitten der Darstellung zu Pferde sitzend,gegeben. Die Linke erhebt er gegen den greisen verwundeten Feldherrn, der von links her von drei Kriegern herangetragen wird. Die Szene wird belebt von weiteren Streitern zu Pferde und zu Fuf.Hauptfarben: blau, braun und gelb. Original-Bordre:Waffentrophaen,Frudte und Blumenorna",767,100.0,False,title_direct,,,Gobelins,,
-BO0624_88435,441974,58,108,"Franzosischer Gobelin.Im Vordergrund einer weiten Landschaff sitzt eine Schaferin neben ihren Schafen zwischen zwei hohen Baumen. Vor ihr steht ein Fisermit Angelrute, der ihr seinen Fang uberreiht. Im Mittelgrunde ein See, an dessen Ufer im Hintergrunde ein Kloster liegt.InderFeeWalder undBergzugeHaupfarben:grnblaub und mattrot. Original-Bordure:Blatter- und Bluitenranken auf dunkelbraunem Grund. 18. Jahrhundert. Hohe 30o,Breite 368 cm.",775,99.5,False,title_direct,,,Gobelins,,
+BO0624_88435,441974,58,108,"Franzosischer Gobelin.Im Vordergrund einer weiten Landschaff sitzt eine Schaferin neben ihren Schafen zwischen zwei hohen Baumen. Vor ihr steht ein Fisermit Angelrute, der ihr seinen Fang uberreiht. Im Mittelgrunde ein See, an dessen Ufer im Hintergrunde ein Kloster liegt.InderFeeWalder undBergzugeHaupfarben:grnblaub und mattrot. Original-Bordure:Blatter- und Bluitenranken auf dunkelbraunem Grund. 18. Jahrhundert. Hohe 30o,Breite 368 cm.",775,99.5,False,title_direct,,,Gobelins,,Sec. XVIII
 BO0624_88435,441975,59,100,"- Barocktisch.Eihe,auf vier geschweifen Beinen, geschweiffe Platte.",781,100.0,False,positional,,,BASTONI,,
 BO0624_88435,441976,60,110,100/66cm.,782,80.0,False,positional,,,Mobel,,
-BO0624_88435,441977,61,111,"- Koffertruhe auf vier Kugelfufen. Eiche. Auf der Vorderseite zwei Adhtedkfullungen mit eingelegten Sternen. Eingelegte Lisenen. Innen Geheimfach. Alte Bandeisen, Handhaben und Sdlof. Aufschrif: ANCKE, WORMS Anno 1715. Hohe 70, 130/66 cm.",784,100.0,False,positional,,,Mobel,,
+BO0624_88435,441977,61,111,"- Koffertruhe auf vier Kugelfufen. Eiche. Auf der Vorderseite zwei Adhtedkfullungen mit eingelegten Sternen. Eingelegte Lisenen. Innen Geheimfach. Alte Bandeisen, Handhaben und Sdlof. Aufschrif: ANCKE, WORMS Anno 1715. Hohe 70, 130/66 cm.",784,100.0,False,positional,,,Mobel,,Sec. XVIII
 BO0624_88435,441978,62,112,"Englisch,18.Jahrhundert.Durchm.72 cm.",786,94.7,False,positional,,,Mobel,,
 BO0624_88435,441979,63,113,"- BiedermeirgarniturMahagoni,mit hellen Strieinlgen,Shnitze und violettem Stoffbezug. Bestehend aus Sofa und vier Stuhlen.",788,100.0,False,positional,,,Mobel,,
 BO0624_88435,441980,64,114,"Biedermeiertisch. Mahagoni, auf Gabelfufen mit Stegverbindung. zwei Schubfachern und zwei seitlichen Klappen. 95/56 cm.",789,98.3,False,positional,,,Mobel,,
@@ -83,7 +83,7 @@ BO0624_88435,441997,81,146,"Englisd.Hohe 120,130/60 cm.",846,92.9,False,position
 BO0624_88435,441998,82,148,"- 8Schreibkommode mit zweiturigem Aufsatz.Die mittlere der drei grofen Schubladen mit zwei ligenden Medaillons. Gewolbte Schiebelade. Vor den Glasscheiben der Aufsatzturen je vier paarweise gekreuzte Leisten. Hohe 300,103/58cm.",850,100.0,False,positional,,,Mobel,,
 BO0624_88435,441999,83,6,+1,851,50.0,False,positional,TENIERS DAVID IL GIOVANE,Scuola Bolognese,Mobel,,
 BO0624_88435,442000,84,151,"Hohe210,205/90cm.",855,88.9,False,positional,,,Mobel,,
-BO0624_88435,442001,85,152,"ladiger Kommode Rolladen, daruber Aufsatz mit  Schubladen. Siddeutsch,1780.Hohe140,125/65cm.",857,97.8,False,positional,,,Mobel,,
+BO0624_88435,442001,85,152,"ladiger Kommode Rolladen, daruber Aufsatz mit  Schubladen. Siddeutsch,1780.Hohe140,125/65cm.",857,97.8,False,positional,,,Mobel,,Sec. XVIII
 BO0624_88435,442002,86,15,3,858,40.0,False,positional,CHARDIN J.B.S.,,Mobel,,
 BO0624_88435,442003,87,155,"- Armsessel mit hoher Ruckenlehne. Eiche,reich geschnitzt. Mit ge punztem,farbigen Lederbezugauf Sitz undRuckenlehneDeutsch,um1680 Hohe135,75/55cm.",862,100.0,False,positional,,,Mobel,,
 BO0624_88435,442004,88,158,"- Paar Pfeilerspiegel mit vergoldetem Empireschmuck und dreilichtigen Wandarmen fur elektrisches Licht.Hohe je 235,Breite je 6o cm.",867,100.0,False,positional,,,Mobel,,
@@ -148,7 +148,7 @@ BO0624_88435,442062,146,265,- Kleines Ollicht mit Docht. Zinn.,1025,100.0,False,
 BO0624_88435,442063,147,266,Paar Salzfapchen. Zinn.,1026,91.3,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88435,442064,148,267,Frankfurter Sabel.Auf der Lederscheide: F. S.W.,1027,95.7,False,positional,,,Mobel,,
 BO0624_88435,442065,149,268,Wallenstein-Degen.,1028,89.5,False,positional,,,Mobel,,
-BO0624_88435,442066,150,269,Kavalleriesabel mit Messingkorb. Um 1813.,1030,95.1,False,positional,,,Mobel,,
+BO0624_88435,442066,150,269,Kavalleriesabel mit Messingkorb. Um 1813.,1030,95.1,False,positional,,,Mobel,,Sec. XIX
 BO0624_88435,442067,151,273,Paar Turkensabel mit tauschierten Klingen in messingbeschlagenen Lederscheiden. Pulverhorn. Messing.,1032,87.2,False,positional,,,Mobel,,
 BO0624_88435,442068,152,274,Preusischer Offiziersdegen in schwarzer Lederscheide.,1034,96.3,False,positional,,,Mobel,,
 BO0624_88435,442069,153,279,- Chassepot-Haubajonett.,1040,100.0,False,positional,,,Mobel,,
@@ -180,7 +180,7 @@ BO0624_88435,442094,178,326,- Porzellanmalerei. Die Hl. Katharina. In schwerem G
 BO0624_88435,442095,179,329,- Biskuitgruppe. Vulcan am Ambof mit Amoreten. Hohe 19 cm. 331,1118,100.0,False,positional,,,Porzellan; Fayencen,,
 BO0624_88435,442096,180,332,- Porzellangruppe. Liebespaar. Wien. Hohe 1 cm.,1121,100.0,False,title_direct,,Scuola Viennese,Porzellan,,
 BO0624_88435,442097,181,333,Porzellanfigur. Rokokodame. Hohe 13 cm.,1122,94.7,False,title_direct,,,Porzellan,,
-BO0624_88435,442098,182,337,"Speiseservice.Porzellan,weip,mit buntem Blumendekor.Hochst, rote Radmarke. Um 176o. Hochzeitsgeschenk Konig Jeromes an Freifrau von Gayl in Triest, 1820.",1126,98.7,False,title_direct,,Manifattura di Hochst,Porzellan,,
+BO0624_88435,442098,182,337,"Speiseservice.Porzellan,weip,mit buntem Blumendekor.Hochst, rote Radmarke. Um 176o. Hochzeitsgeschenk Konig Jeromes an Freifrau von Gayl in Triest, 1820.",1126,98.7,False,title_direct,,Manifattura di Hochst,Porzellan,,Sec. XIX
 BO0624_88435,442099,183,341,341,1139,100.0,False,positional,,,Porzellan; Fayencen,,
 BO0624_88435,442100,184,342,"- Gemiseschussel mit Deckel. Blauer Dekor.Hohe 16, Lange 37 cm.",1142,100.0,False,positional,,,Porzellan; Fayencen,,
 BO0624_88435,442101,185,343,"JapanVase.Bauchig,mit engem Hals und geweltem,ausladenden Rand. Bunter Blumen-, Vogel- und Ornamentdekor. Hohe 36 cm.",1143,98.2,False,positional,HALS DIRK,,Porzellan; Fayencen,,
@@ -243,7 +243,7 @@ BO0624_88435,442157,241,458,"- Vier Weinglaser, graviert.Versch.Groβen.",1317,1
 BO0624_88435,442158,242,462,- Henkelbecher.Violettes Glas mit Golddekor und Inschrift. 8 cm hoch. 463,1322,100.0,False,positional,,,OGGETTI VARI,,
 BO0624_88435,442159,243,465,465,1325,100.0,False,positional,,,Glaser,,
 BO0624_88435,442160,244,466,466,1326,9.5,False,positional,,,Glaser,,
-BO0624_88435,442161,245,467,Stengelbecher mit der Ansicht von Bad Carlsbrunn. 1824.,1328,96.4,False,positional,,,Glaser,,
+BO0624_88435,442161,245,467,Stengelbecher mit der Ansicht von Bad Carlsbrunn. 1824.,1328,96.4,False,positional,,,Glaser,,Sec. XIX
 BO0624_88435,442162,246,468,"- Blumenvase, zylindrisch, mit Facettenschlif. cm hoch. 469",1330,100.0,False,positional,,,Glaser,,
 BO0624_88435,442163,247,474,- Milchglas-Kanne mit blaugesprenkeltem Dekor.16 cm hoch. 475,1337,100.0,False,positional,,,Glaser,,
 BO0624_88435,442164,248,483,Milchglasflasche mit Stopsel.Maiblumenmuster in Gold.12 cm hod.,1349,96.9,False,positional,,,OGGETTI IN ORO,,

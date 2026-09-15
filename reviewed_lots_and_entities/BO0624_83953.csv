@@ -6,7 +6,7 @@ BO0624_83953,42654,4,6,La Vierge portant lEnfant Jesus.,55,96.9,False,positional
 BO0624_83953,42655,5,8,La Basse-Cour.,71,92.9,False,positional,CARRACHE,,,,
 BO0624_83953,42656,6,9,Cavaliers du premier Empire.,78,96.4,False,positional,FINART (D.),,,,
 BO0624_83953,42657,7,10,— Tempete a l'entree d'un port. Signe a gauche.,88,96.6,False,positional,GARNERAY,,,,
-BO0624_83953,42658,8,I1,— La Plage de Villeruille a maree basse. Signe a droite et date : 1876.,94,97.7,False,positional,GUILLEMET(A.),,,,
+BO0624_83953,42658,8,I1,— La Plage de Villeruille a maree basse. Signe a droite et date : 1876.,94,97.7,False,positional,GUILLEMET(A.),,,,Sec. XIX
 BO0624_83953,42659,9,12,Le Naufrage.,100,88.0,False,positional,HINTZ,,,,
 BO0624_83953,42660,10,14,—Bouquet d’arbres dans une clairiere.,117,95.9,False,positional,RICHET (LEON),,,,
 BO0624_83953,42661,11,15,Les Joueurs de tric-trac.,125,94.1,False,positional,TENIERS,,,,
@@ -48,7 +48,7 @@ BO0624_83953,42696,46,51,"— Petit bas-relief ovale en ivoire, presentant la",1
 BO0624_83953,42697,47,52,"Boite ronde revetue d'argent, ornee d’une",192,96.4,False,positional,,,SCATOLE,,
 BO0624_83953,42698,48,53,—,193,0.0,False,positional,,,FAIENCES; PORCELAINES,,
 BO0624_83953,42699,49,54,"—Verre avec couvercle,a decor dore, sujet de chasse,xville siecle.",196,97.7,False,positional,,,FAIENCES; PORCELAINES,,
-BO0624_83953,42700,50,55,"—Petit bas-relief en bois sculpte, presentant Saint Jerome. xvire siecle. Encadre.(Collection Lecarpentier,1866.)",197,98.6,False,positional,,,BASSORILIEVI,COLLEZIONE LECARPENTIER,
+BO0624_83953,42700,50,55,"—Petit bas-relief en bois sculpte, presentant Saint Jerome. xvire siecle. Encadre.(Collection Lecarpentier,1866.)",197,98.6,False,positional,,,BASSORILIEVI,COLLEZIONE LECARPENTIER,Sec. XIX
 BO0624_83953,42701,51,56,— Fruit en ivoire ajoure. Travail chinois.,198,96.2,False,positional,,,FAIENCES; PORCELAINES,,
 BO0624_83953,42702,52,57,— Statuette de personnage assis en bois sculpte. Travail chinois.,199,97.6,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_83953,42703,53,58,"— Barometre en bois sculpte et dore a feuillages, du temps de Louis XVI.",200,97.8,False,positional,,,OGGETTI IN LEGNO,,

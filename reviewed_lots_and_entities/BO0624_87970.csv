@@ -9,15 +9,15 @@ BO0624_87970,177311,7,7,Landschaft mit Ruine.,31,95.2,False,positional,Hans Anet
 BO0624_87970,177312,8,8,Schwarzwalderin.,37,93.8,False,positional,F. Apell,,,,
 BO0624_87970,177313,9,9,| Chiemseelandschaft. Bezeichnet.                                                              | Leinwand 65/85   |,48,97.8,False,positional,L.Bambach,,,,
 BO0624_87970,177314,10,10,"| Fritz Beinke , Dusseldorf. Kinder vor dem Kasperltheater. Studie. Karton 23,5/28 Bezeichnet. |                  |",50,98.3,False,positional,L.Bambach,,,,
-BO0624_87970,177315,11,11,"| Claas Pietersz Berchem,1620-1683,Amsterdam. Hirtenfamilie und Herde am Brunnen.              | Leinw.47/65      |",51,98.3,False,positional,L.Bambach,,,,
+BO0624_87970,177315,11,11,"| Claas Pietersz Berchem,1620-1683,Amsterdam. Hirtenfamilie und Herde am Brunnen.              | Leinw.47/65      |",51,98.3,False,positional,L.Bambach,,,,Sec. XVII
 BO0624_87970,177316,12,13,| An der Statte der Toten.                                                                     | Sepia 37/24      |,53,95.9,False,positional,L.Bambach,,,,
 BO0624_87970,177317,13,14,| Italienische Landschaft.                                                                     | Blei 33/23       |,54,95.8,False,positional,L.Bambach,,OGGETTI IN PIOMBO,,
 BO0624_87970,177318,14,15,"| Desgl.                                                                                       | Blei 22/28,5     |",55,92.3,False,positional,L.Bambach,,OGGETTI IN PIOMBO,,
 BO0624_87970,177319,15,16,| Ein Adlerhorst.                                                                              | Blei 2229        |,56,94.1,False,positional,L.Bambach,,OGGETTI IN PIOMBO,,
-BO0624_87970,177320,16,19,"| Ferdinand Bol,1616-1681,Amsterdam. Portrat eines alten Herrn.                                | Leinw.45/38      |",59,97.9,False,positional,L.Bambach,,,,
+BO0624_87970,177320,16,19,"| Ferdinand Bol,1616-1681,Amsterdam. Portrat eines alten Herrn.                                | Leinw.45/38      |",59,97.9,False,positional,L.Bambach,,,,Sec. XVII
 BO0624_87970,177321,17,20,| Reitergefecht.                                                                                                             | Leinw.40/68                         |,62,94.3,False,positional,Bourguignon,,OGGETTI VARI,,
 BO0624_87970,177322,18,21,| Desgl. Pendant z. Vor.                                                                                                     |                                     |,64,92.7,False,positional,Bourguignon,,,,
-BO0624_87970,177323,19,22,"| Adrian Franz Boudewyns, 1644-1711, Brussel. Sudliche Landschaft mit Ortschaft, Schloss und lebendiger Staffage. Holz 44/64 |                                     |",66,98.7,False,positional,Bourguignon,,OGGETTI IN LEGNO,,
+BO0624_87970,177323,19,22,"| Adrian Franz Boudewyns, 1644-1711, Brussel. Sudliche Landschaft mit Ortschaft, Schloss und lebendiger Staffage. Holz 44/64 |                                     |",66,98.7,False,positional,Bourguignon,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87970,177324,20,23,| Frichtestilleben.                                                                                                          | Leinw.70/102                        |,68,95.1,False,positional,Bourguignon,,,,
 BO0624_87970,177325,21,24,| Desgl. Pendant z. Vor. Beide bezeichnet.                                                                                   |                                     |,69,96.0,False,positional,Bourguignon,,,,
 BO0624_87970,177326,22,25,| Maria mit dem Kind.                                                                                                        | Leinw.40/31                         |,70,95.2,False,positional,Bourguignon,,,,
@@ -35,7 +35,7 @@ BO0624_87970,177337,33,41,"| Karl L. Fahrbach, Dusseldorf. Waldinneres. Bezeichn
 BO0624_87970,177338,34,43,| Partie aus Norwegen.                                                                         | Leinw.38/67              |,92,95.4,False,positional,Giuseppe Ferrarini,,,,
 BO0624_87970,177339,35,44,"| H.Flockenhaus , Dusseldorf. Herbstlandschaft mit Waldbach. Bezeichnet.                       | Holz 24/14               |",94,98.1,False,positional,Giuseppe Ferrarini,,OGGETTI IN LEGNO,,
 BO0624_87970,177340,36,45,"| Aug. Forster, Munchen. Vierwaldstatter See bei Brunnen. Bezeichnet.                          | Leinw.52/75              |",95,98.0,False,positional,Giuseppe Ferrarini,,,,
-BO0624_87970,177341,37,46,"| Frans Francken d. J., 1581-1642, Antwerpen. Geiselung Christi vor Pilatus und den Priestern. | Kupfer 35,5/29           |",96,98.5,False,positional,Giuseppe Ferrarini,Famiglia Francken,OGGETTI IN RAME,,
+BO0624_87970,177341,37,46,"| Frans Francken d. J., 1581-1642, Antwerpen. Geiselung Christi vor Pilatus und den Priestern. | Kupfer 35,5/29           |",96,98.5,False,positional,Giuseppe Ferrarini,Famiglia Francken,OGGETTI IN RAME,,Sec. XVII
 BO0624_87970,177342,38,47,| Auferstehung Christi.                                                                        | Pendant z.Vor.           |,97,95.8,False,positional,Giuseppe Ferrarini,,,,
 BO0624_87970,177343,39,48,| Francofurtensie. Ansicht von Frankfurt am Main. Ehmant.                                      | Gest. v. Bebi nach 28/41 |,98,98.0,False,positional,Giuseppe Ferrarini,,,,
 BO0624_87970,177344,40,49,"| M. Freitag, Munchen. Aus Oberbayern. .EAGKG Bezeichnet.                                      | Leinw.54/43              |",99,97.6,False,positional,Giuseppe Ferrarini,,,,
@@ -74,7 +74,7 @@ BO0624_87970,177376,72,92,"| M. Loose, Berlin. Partie bei Florenz. Bezeichnet.  
 BO0624_87970,177377,73,93,| Gebirgslandschaft. Bezeichnet.                                   | Leinw. 47/68   |                |,165,96.4,False,positional,Bernhard Liebig,,,,
 BO0624_87970,177378,74,94,"| Carl O. J. Lund, Kopenhagen. 4Frihlingslandschaft. Bezeichnet.   | Leinw. 45/32   |                |",166,97.8,False,positional,Bernhard Liebig,,,,
 BO0624_87970,177379,75,96,| Vor dem Regen.                                                      | Leinw.28/44                                        |,168,94.3,False,positional,Bernhard Liebig,,,,
-BO0624_87970,177380,76,98,"| Wilhelm Marc  1907, Munchen. Zwischen Gruin im Schatten.            | Karton 15/24                                       |",171,97.7,False,positional,Bernhard Liebig,,,,
+BO0624_87970,177380,76,98,"| Wilhelm Marc  1907, Munchen. Zwischen Gruin im Schatten.            | Karton 15/24                                       |",171,97.7,False,positional,Bernhard Liebig,,,,Sec. XX
 BO0624_87970,177381,77,99,"| Tanz auf Capri.                                                     | Karton 14,5/24                                     |",172,95.1,False,positional,Bernhard Liebig,,,,
 BO0624_87970,177382,78,100,"| Meeresstrand mit Boot.                                              | Karton 15,5/24,5                                   |",173,95.0,False,positional,Bernhard Liebig,,,,
 BO0624_87970,177383,79,101,| Waldbach.                                                           | Karton 21/31                                       |,174,91.3,False,positional,Bernhard Liebig,,,,
@@ -109,18 +109,18 @@ BO0624_87970,177411,107,133,| Kartoffelernte. Bezeichnet.                       
 BO0624_87970,177412,108,134,"| Stilleben auf einer Tischplatte. Obst, Blumen etc.                               | Kupfer 32/27   |",245,96.8,False,positional,,Niederlandische Schule,OGGETTI IN RAME,,
 BO0624_87970,177413,109,135,| Desgl. Glasvase mit Blumen etc. Pendant z. Vor.                                  |                |,246,95.6,False,positional,,Niederlandische Schule,,,
 BO0624_87970,177414,110,136,| Herbstmorgen.                                                                    | Leinw.75/58    |,247,92.3,False,positional,,Niederlandische Schule,,,
-BO0624_87970,177415,111,137,"| Wintermorgen. Pendant z. Vor. Beide bezeichnet. A. S. Pitlo0, 1791—1837, Neapel. | Leinw.59/76    |",248,97.6,False,positional,,Niederlandische Schule,,,
+BO0624_87970,177415,111,137,"| Wintermorgen. Pendant z. Vor. Beide bezeichnet. A. S. Pitlo0, 1791—1837, Neapel. | Leinw.59/76    |",248,97.6,False,positional,,Niederlandische Schule,,,Sec. XVIII
 BO0624_87970,177416,112,143,| Reproduktionen. Nach Alma Tadema. Im Bad.                              | Platte 40/60           |,257,96.2,False,positional,Franz Quaglio,,STAMPE E INCISIONI,,
 BO0624_87970,177417,113,144,| Nach Michel Angelo. Moses.                                             | Photographie 69/55     |,258,95.6,False,positional,Franz Quaglio,,,,
 BO0624_87970,177418,114,145,"| Nach Hering. Rahel.                                                    | Photographie 18,5/13,5 |",259,95.2,False,positional,Franz Quaglio,,,,
 BO0624_87970,177419,115,146,| Nach Ryland. Ruth. Pendant z. Vor.                                     |                        |,260,93.8,False,positional,Franz Quaglio,,,,
-BO0624_87970,177420,116,147,"Portrat eines Geistlichen. | Hyacinthe Rigaud, 1659-1743, Paris.                                    | Leinw.87/69            |",261,97.2,False,positional,Franz Quaglio,,,,
+BO0624_87970,177420,116,147,"Portrat eines Geistlichen. | Hyacinthe Rigaud, 1659-1743, Paris.                                    | Leinw.87/69            |",261,97.2,False,positional,Franz Quaglio,,,,Sec. XVII
 BO0624_87970,177421,117,148,"| P. Ritter, Munchen. Uferlandschaft. Bezeichnet.                        | Leinw.40/96            |",262,96.4,False,positional,Franz Quaglio,,,,
 BO0624_87970,177422,118,149,"| Professor Ludwig von Roessler , Frankfurt a.M. Martinstein a. d. Nahe. | Holz 29/23             |",263,97.4,False,positional,Franz Quaglio,,OGGETTI IN LEGNO,,
 BO0624_87970,177423,119,150,|                                                                        | Leinw.75/100           |,265,85.7,False,positional,Franz Quaglio,,,,
 BO0624_87970,177424,120,153,"| Alex Rothaug, Munchen. Elfentanz. Vignette. Bezeichnet.                   | Sepia 29/20           |",269,96.9,False,positional,Franz Quaglio,,,,
 BO0624_87970,177425,121,157,"| B.von Salviati, Dusseldorf. Stilleben. Empire. Bezeichnet.                | Leinw.5070            |",273,97.0,False,positional,Franz Quaglio,,,,
-BO0624_87970,177426,122,158,"| Arie Scheffer , 1858,Argenteuil 8 Portrait Arnold Scheffer's. Bezeichnet. | Leinw.56/47           |",274,97.6,False,positional,Franz Quaglio,,,,
+BO0624_87970,177426,122,158,"| Arie Scheffer , 1858,Argenteuil 8 Portrait Arnold Scheffer's. Bezeichnet. | Leinw.56/47           |",274,97.6,False,positional,Franz Quaglio,,,,Sec. XIX
 BO0624_87970,177427,123,159,"| Marg. Scheffler, Frankfurt am Main. Blumenstuck.Astern.                   | Leinw.25/36           |",275,96.9,False,positional,Franz Quaglio,,OGGETTI VARI,,
 BO0624_87970,177428,124,160,| Desgl. Chrysanthemum. Beide bezeichnet.                                   | Pendant z.Vor.        |,276,96.2,False,positional,Franz Quaglio,,,,
 BO0624_87970,177429,125,162,| Mondscheinlandschaft. Bezeichnet.                                                                        | Leinw.47/65                           |,280,95.6,False,positional,H. Schmitz,,,,
@@ -128,7 +128,7 @@ BO0624_87970,177430,126,163,"| E.L.Schmitz, Dusseldorf. Gebirgsee. Wallisersee. 
 BO0624_87970,177431,127,164,"165 166 | Beide bezeichnet. C. Singer, Munchen. Winterlandschaft mit Landstrasse. Abendlandschaft. Pendant z. Vor. | Leinw.45/76                           |",283,98.3,False,positional,H. Schmitz,,,,
 BO0624_87970,177432,128,167,168 169 | Spanische Schule. Madonna mit Kind. Heil. Magdalena. Heil. Petrus.                                       | Leinw.88/71 Leinw.102/82 Leinw.100/80 |,284,98.1,False,positional,H. Schmitz,,,,
 BO0624_87970,177433,129,170,"| H. Steen, Fissau. Bezeichnet.                                                                            |                                       |",285,92.6,False,positional,H. Schmitz,,,,
-BO0624_87970,177434,130,171,"| Bezeichnet G. F. W. Strantz, an. 1786. Portrait des Leutnant von Haxthausen.                             | Leinw.68/56                           |",287,97.6,False,positional,H. Schmitz,,,,
+BO0624_87970,177434,130,171,"| Bezeichnet G. F. W. Strantz, an. 1786. Portrait des Leutnant von Haxthausen.                             | Leinw.68/56                           |",287,97.6,False,positional,H. Schmitz,,,,Sec. XVIII
 BO0624_87970,177435,131,172,| 2Sommerlandschaft. Bezeichnet.                                                                           | Leinw.27/34                           |,289,95.2,False,positional,H. Schmitz,,,,
 BO0624_87970,177436,132,173,"| R. Fiorentino Valle, Rom.                                                                                | Leinw.40/31                           |",290,94.4,False,positional,H. Schmitz,,,,
 BO0624_87970,177437,133,174,| Marine bei Neapel. Desgl. Pendant z.Vor.                                                                 |                                       |,291,94.9,False,positional,H. Schmitz,,,,
@@ -161,7 +161,7 @@ BO0624_87970,177463,159,203,- Ziegelstein mit Relief.,361,100.0,False,positional
 BO0624_87970,177464,160,204,Partie Kuchenformen. Holz geschnitten.,362,94.7,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177465,161,205,"- Drei Olgemalde: Andromeda, Parzen und Kopfchen.",364,100.0,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177466,162,206,Diverse Kacheln etc.,365,90.5,False,positional,,,Antiquitaten und Kunstsachen,,
-BO0624_87970,177467,163,207,- Dachziegel von 1765.,367,100.0,False,positional,,,Antiquitaten und Kunstsachen,,
+BO0624_87970,177467,163,207,- Dachziegel von 1765.,367,100.0,False,positional,,,Antiquitaten und Kunstsachen,,Sec. XVIII
 BO0624_87970,177468,164,208,"- Diverse Beschlage. Turbander, Schlusselschilder etc.",369,100.0,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177469,165,209,Turklopfer.,370,83.3,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177470,166,210,Zwei Scheren in Etui.,371,90.9,False,positional,,,Antiquitaten und Kunstsachen,,
@@ -275,11 +275,11 @@ BO0624_87970,177577,273,324,Zwolf Knopfe. Versilbert.,542,92.0,False,positional,
 BO0624_87970,177578,274,325,"Miniatur auf Elfenbein, fur Ring.",543,93.9,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177579,275,326,Kamee. Bacchantin.,544,88.9,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177580,276,327,Medaille. Von Lichnowski. Silber.,545,93.8,False,positional,,,Antiquitaten und Kunstsachen,,
-BO0624_87970,177581,277,328,Desgl. Erstes Deutsches Turnfest.Paris 1865.,546,95.5,False,positional,,,Antiquitaten und Kunstsachen,,
+BO0624_87970,177581,277,328,Desgl. Erstes Deutsches Turnfest.Paris 1865.,546,95.5,False,positional,,,Antiquitaten und Kunstsachen,,Sec. XIX
 BO0624_87970,177582,278,329,Desgl. 3.Jubelfeier der Reformation. Gold.,547,95.1,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177583,279,330,- Desgl. Gedenkfeier der Reform.Gemeinde Frankfurt. Silber.,549,100.0,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177584,280,331,Gedenkfeier der Reform. Gemeinde Frankfurt.,550,95.3,False,positional,,,Antiquitaten und Kunstsachen,,
-BO0624_87970,177585,281,332,Desgl. L'Amitie les units. 25.Mai 1820.,552,94.7,False,positional,,,Antiquitaten und Kunstsachen,,
+BO0624_87970,177585,281,332,Desgl. L'Amitie les units. 25.Mai 1820.,552,94.7,False,positional,,,Antiquitaten und Kunstsachen,,Sec. XIX
 BO0624_87970,177586,282,333,- Zwei Mandarinenknopfe.,554,100.0,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177587,283,334,Stockgriff. Orientalin. Silber.,555,93.3,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177588,284,335,- Schreibsessel. Biedermeier.,557,100.0,False,positional,,Biedermeier,Antiquitaten und Kunstsachen,,
@@ -306,7 +306,7 @@ BO0624_87970,177608,304,355,Truhe. Reich geschnitzt. Italienisch.,586,94.4,False
 BO0624_87970,177609,305,356,- Meistergeige von Boquay.,588,100.0,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177610,306,357,Desgl. von Nicolas.,589,89.5,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177611,307,358,Zwei Sessel mit Damastbezug.,590,93.1,False,positional,,,Antiquitaten und Kunstsachen,,
-BO0624_87970,177612,308,359,Statuette. Christus gefesselt. Holzskulptur um 1700.,591,96.1,False,positional,,,Antiquitaten und Kunstsachen,,
+BO0624_87970,177612,308,359,Statuette. Christus gefesselt. Holzskulptur um 1700.,591,96.1,False,positional,,,Antiquitaten und Kunstsachen,,Sec. XVIII
 BO0624_87970,177613,309,360,Elfenbeinfigur. Sitzender Konig.,592,93.8,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177614,310,361,Desgl. Lukretia.,593,87.5,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177615,311,362,Figur. Madchen mit Umschlagtuch. Damm.,594,94.6,False,positional,,,Antiquitaten und Kunstsachen,,
@@ -347,7 +347,7 @@ BO0624_87970,177649,345,398,Zwei Vasen. Reich gemalt mit Blumen. Sevres.,641,95.
 BO0624_87970,177650,346,399,Amorette.Sevresbiskuit.,642,91.7,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177651,347,400,- Kanne mit Blumen. Ludwigsburg.,644,100.0,False,positional,,Manifattura di Ludwigsburg,Antiquitaten und Kunstsachen,,
 BO0624_87970,177652,348,401,Suppenterrine.Weiss. Damm.,645,92.3,False,positional,,,Antiquitaten und Kunstsachen,,
-BO0624_87970,177653,349,402,Zinnteller mit Wappen. 1797.,646,92.9,False,positional,,,Antiquitaten und Kunstsachen,,
+BO0624_87970,177653,349,402,Zinnteller mit Wappen. 1797.,646,92.9,False,positional,,,Antiquitaten und Kunstsachen,,Sec. XVIII
 BO0624_87970,177654,350,403,Einsatzgewicht. Messing.,647,91.7,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177655,351,404,Zwei Leuchter.Messing. Altdeutsch.,648,94.1,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177656,352,405,Kocher. Messing.,649,87.5,False,positional,,,Antiquitaten und Kunstsachen,,
@@ -366,7 +366,7 @@ BO0624_87970,177668,364,417,Kupferkessel mit Untersatz.,665,92.9,False,positiona
 BO0624_87970,177669,365,418,Kette. Reich verziert. Schmiedeeisen fur Luster.,666,95.7,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177670,366,419,Terrine mit Deckel. Fayence.,667,92.9,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177671,367,420,- Fayencekrug mit Zinnbeschlag und Flucht nach Egypten. Hohe 20 cm.,669,100.0,False,positional,,,Antiquitaten und Kunstsachen,,
-BO0624_87970,177672,368,421,Fayenceplatte. Reich bemalt mit Madonna in russ. Adler. 1733. Bez. H.A. Hohe 38 cm.,670,97.4,False,positional,,,Antiquitaten und Kunstsachen,,
+BO0624_87970,177672,368,421,Fayenceplatte. Reich bemalt mit Madonna in russ. Adler. 1733. Bez. H.A. Hohe 38 cm.,670,97.4,False,positional,,,Antiquitaten und Kunstsachen,,Sec. XVIII
 BO0624_87970,177673,369,422,- Zwei Fayenceplatten mit Boucher u. Watteaudekor. Empire.,672,100.0,False,positional,BOUCHER FRANCOIS,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177674,370,423,Marke E Hohe 24 cm.,674,90.0,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177675,371,424,Fayenceteller mit Napoleonportrat. Diam.24 cm.,675,95.7,False,positional,,,Antiquitaten und Kunstsachen,,
@@ -455,7 +455,7 @@ BO0624_87970,177757,453,518,Wappenschild. Plusch mit Goldstickerei. Perkussionsp
 BO0624_87970,177758,454,521,Desgl. mit Messingbeschlag.,822,92.6,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177759,455,522,- 523 Desgl.,824,100.0,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177760,456,525,Feldartilleriesabel in Stahlscheide. Preussisch. Lefaucheuxrevolver. Sechsschussig.,827,71.3,False,positional,,,Antiquitaten und Kunstsachen,,
-BO0624_87970,177761,457,526,Chassepot 1870/71.,829,89.5,False,positional,,,Antiquitaten und Kunstsachen,,
+BO0624_87970,177761,457,526,Chassepot 1870/71.,829,89.5,False,positional,,,Antiquitaten und Kunstsachen,,Sec. XIX
 BO0624_87970,177762,458,527,- Flobertgewehr.,831,100.0,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177763,459,528,Patrontasche mit Bandelier. Frankfurter Jager.,832,95.7,False,positional,,,Antiquitaten und Kunstsachen,,
 BO0624_87970,177764,460,529,Patrontasche mit Bandelier. Frankfurter Weissbusche.,833,96.2,False,positional,,,Antiquitaten und Kunstsachen,,

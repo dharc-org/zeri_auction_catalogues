@@ -7,7 +7,7 @@ BO0624_84059,25366,5,6,La Bergere des Alpes.,31,100.0,False,positional,,,LITHOGR
 BO0624_84059,25367,6,8,"Portrait de Lord Nelson, grand amiral. Gravure en maniere noire, par EaRLou. Marge.",43,98.7,False,positional,AVRIL,,STAMPE E INCISIONI,,
 BO0624_84059,25368,7,9,Napoleon recoit le portrait de son fils.,47,97.5,False,positional,AVRIL,,,,
 BO0624_84059,25369,8,10,— Sujet gracieux. ## BOWYER (Published by),60,71.7,False,title_direct,BOWYER,,,,
-BO0624_84059,25370,9,11,"Grand entry of the Allied Sovereings into Paris,on the 31 march 1814.",62,97.8,False,positional,BOWYER,,,,
+BO0624_84059,25370,9,11,"Grand entry of the Allied Sovereings into Paris,on the 31 march 1814.",62,97.8,False,positional,BOWYER,,,,Sec. XIX
 BO0624_84059,25371,10,12,La Bonne education.,68,92.3,False,positional,CHARDIN,,,,
 BO0624_84059,25372,11,13,"L'Instant de la meditation. Gravure en noir, par SuRuGuE. Marge.",70,97.6,False,positional,CHARDIN,,STAMPE E INCISIONI,,
 BO0624_84059,25373,12,14,"La Gouvernante. Gravure en noir, par Lepicie.Petite marge.",71,97.3,False,positional,CHARDIN,,STAMPE E INCISIONI,,
@@ -51,11 +51,11 @@ BO0624_84059,25410,49,5,l -Napoleon et son etat-major.,303,98.2,False,positional
 BO0624_84059,25411,50,52,Interieur d’un atelier. (Horace Vernet.),309,96.0,False,positional,VERNET,,ARREDAMENTI,,
 BO0624_84059,25412,51,53,"—S.A.S. Monseigneur le Duc d'Orleans passant en reuue le fer regiment de hussards. Gravure, par JazEr.",314,98.5,False,positional,VERNET,,STAMPE E INCISIONI,,
 BO0624_84059,25413,52,54,A tous les coeurs bien nes que la Patrie est,318,96.7,False,positional,VERNET,,,,
-BO0624_84059,25414,53,55,"—Napoleon, en 1815.",325,91.4,False,positional,VERNET,,,,
+BO0624_84059,25414,53,55,"—Napoleon, en 1815.",325,91.4,False,positional,VERNET,,,,Sec. XIX
 BO0624_84059,25415,54,56,Le Dentiste embulant (sic).,331,94.1,False,positional,WILLE,,,,
 BO0624_84059,25416,55,57,La Marchande de bouquets.,338,94.1,False,positional,WILLE,,,,
 BO0624_84059,25417,56,58,Embuscade de cavalerie.,345,93.6,False,positional,ZIEGLER,,,,
-BO0624_84059,25418,57,59,"Lancier. Detaille, Bobigny, octobre 1870.",358,96.1,False,positional,DETAILLE,,,,
+BO0624_84059,25418,57,59,"Lancier. Detaille, Bobigny, octobre 1870.",358,96.1,False,positional,DETAILLE,,,,Sec. XIX
 BO0624_84059,25419,58,60,"Portrait de Jeune Garcon. Dessin de forme ovale a la pierre d'Italie, sanguine et lavis d'aquarelle.",362,98.5,False,positional,DETAILLE,,,,
 BO0624_84059,25420,59,61,—Decoration d’une votte.,366,93.6,False,positional,DETAILLE,,,,
 BO0624_84059,25421,60,62,-Portrait du General Brune. Aquarelle.,371,95.9,False,positional,DETAILLE,,,,
@@ -70,7 +70,7 @@ BO0624_84059,25429,68,70,- Sous ce numero seront vendus des dessins non catalogu
 BO0624_84059,25430,69,71,"- Sous ce numero: dessins a sujets militaires, a la plume, a l'aquarelle et lavis. Six pieces.",403,100.0,False,positional,WILLE,,,,
 BO0624_84059,25431,70,72,A la messe.,410,87.0,False,positional,COTTET,,,,
 BO0624_84059,25432,71,73,- Mariage mystique de Sainte Catherine.,419,100.0,False,positional,,ECOLE ESPAGNOLE,,,
-BO0624_84059,25433,72,4,"Portrait de lauteur et comedien Philippe 74 Poisson,mort en 1743,a 60 ans.",427,98.6,False,positional,,ECOLE FRANCAISE,,,
+BO0624_84059,25433,72,4,"Portrait de lauteur et comedien Philippe 74 Poisson,mort en 1743,a 60 ans.",427,98.6,False,positional,,ECOLE FRANCAISE,,,Sec. XVIII
 BO0624_84059,25434,73,I,"l est represente en buste, de profil a droite, en personnage de comedie italienne,le visage riant, de trois quarts,regardant le spectateur. Toile ovale.",429,99.7,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84059,25435,74,75,5—L'Artiste et sa famille.,433,94.3,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84059,25436,75,76,--Diane au bain et ses suivantes.,439,95.2,False,positional,,ECOLE FRANCAISE,,,

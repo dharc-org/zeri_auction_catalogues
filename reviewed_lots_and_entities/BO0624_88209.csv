@@ -19,7 +19,7 @@ BO0624_88209,350456,17,10,"Zwei Chinatassen, blauweif, ohne Henkel.",43,96.1,Fal
 BO0624_88209,350457,18,11,Zwei blauweibe Fayencetassen ohne Henkel.,44,96.4,False,positional,,,PORZELLAN,,
 BO0624_88209,350458,19,12,"Kleine Chinatasse, blaurot.",45,94.3,False,positional,,,PORZELLAN,,
 BO0624_88209,350459,20,13,"Weife Chinatasse, flache Form mit roter Malerei.",46,96.8,False,positional,,,PORZELLAN,,
-BO0624_88209,350460,21,14,"Tasse und Untertasse, MeiBen, mit schonem Chinadekor, eisenrot, kobaltblau und violett mit Vergoldung. 1774.Marke:Schwerter Mo.",47,87.8,False,positional,,,PORZELLAN,,
+BO0624_88209,350460,21,14,"Tasse und Untertasse, MeiBen, mit schonem Chinadekor, eisenrot, kobaltblau und violett mit Vergoldung. 1774.Marke:Schwerter Mo.",47,87.8,False,positional,,,PORZELLAN,,Sec. XVIII
 BO0624_88209,350461,22,15,"Marcolinitasse und Untertasse, eisenrotes und blaues Chinadekor.",49,97.6,False,positional,,,PORZELLAN,,
 BO0624_88209,350462,23,16,Zwei Untertassen.,51,91.4,False,positional,,,PORZELLAN,,
 BO0624_88209,350463,24,17,Fayencekannchen mit grinem Empirdekor. Mosbach.,52,96.8,False,positional,,,PORZELLAN,,
@@ -62,7 +62,7 @@ BO0624_88209,350499,60,50,"Doppelhenkeliger Becher rotfigurig,mit Kopfen zweier 
 BO0624_88209,350500,61,51,Lampchen mit Schauspieler auf dem Deckel.,100,96.4,False,positional,,,ANTIKEN,,
 BO0624_88209,350501,62,52,"Roffiguriger Becher mit zwei Henkeln, defekt. Geometrischer Dekor. Hohe 8 cm.",102,98.0,False,positional,,,ANTIKEN,,
 BO0624_88209,350502,63,53,"Weinkanne schwarz, mit Henkel, defekt. Hohe 34 cm.",103,96.8,False,positional,,,ANTIKEN,,
-BO0624_88209,350503,64,54,"Salbfaschchen,Pompeji 1839.",104,94.5,False,positional,,,ANTIKEN,,
+BO0624_88209,350503,64,54,"Salbfaschchen,Pompeji 1839.",104,94.5,False,positional,,,ANTIKEN,,Sec. XIX
 BO0624_88209,350504,65,55,"Schale rotfigurig, Lorbeerzweig und Stern. Durchm.14 cm.",106,97.2,False,positional,,,ANTIKEN,,
 BO0624_88209,350505,66,56,Weiffiguriges Kannchen mit Henkel und Weinlaubmuster. Hohe 15cm.,107,97.6,False,positional,,,ANTIKEN,,
 BO0624_88209,350506,67,3,Abbildung Tafel I1.,108,94.7,False,positional,,,ANTIKEN,,
@@ -86,119 +86,119 @@ BO0624_88209,350523,84,71,"Mumie gebrannt, mit Spuren von Glasur. Hohe 16 cm.",1
 BO0624_88209,350524,85,72,"Mumie, grine Glasur. Lange 20 cm.",127,70.6,False,positional,,,ANTIKEN,,
 BO0624_88209,350525,86,73,Bronzestatuette der Hor. Lange 17 cm.,129,75.4,False,positional,,,ANTIKEN,,
 BO0624_88209,350526,87,74,Kleiner Bronzetorso eines Konigs.,131,95.5,False,positional,,,ANTIKEN,,
-BO0624_88209,350527,88,75,Tondo mit Ansicht von Deruta im Jahre 1426. Blaugelbe Malerei. Moderne Nachahmung. Durchm.42 cm.,135,98.4,False,positional,,,MAJOLIKA,,
+BO0624_88209,350527,88,75,Tondo mit Ansicht von Deruta im Jahre 1426. Blaugelbe Malerei. Moderne Nachahmung. Durchm.42 cm.,135,98.4,False,positional,,,MAJOLIKA,,Sec. XV
 BO0624_88209,350528,89,76,"Zwei kleine Apothekertopfe, gebauchte Form mit blauem Dekor",136,97.5,False,positional,,,MAJOLIKA,,
-BO0624_88209,350529,90,77,Teller mit antiker Tempelruine und Reiter. Italien. 17. Jahrhundert. Durchm.24 cm.,138,98.1,False,positional,,,PIATTI,,
+BO0624_88209,350529,90,77,Teller mit antiker Tempelruine und Reiter. Italien. 17. Jahrhundert. Durchm.24 cm.,138,98.1,False,positional,,,PIATTI,,Sec. XVII
 BO0624_88209,350530,91,78,PlaHte auf Fuf. Putten einem FluBgott Schnabelkannen herbeitragend. Gelber Rand. Gubbio.16. Jahrhundert.,139,98.5,False,positional,,Scuola Umbra,MAJOLIKA,,
 BO0624_88209,350531,92,79,Salzfah in Truhenform mit Grotesken auf dem Deckel. Vier FuBe.,141,97.6,False,positional,,,MAJOLIKA,,
 BO0624_88209,350532,93,80,"Grohe Schussel, gebuckelt, graue Glasur, in der Mitte Wappen:",143,97.4,False,positional,,,SCATOLE,,
 BO0624_88209,350533,94,81,Runder Teller mit blauem Dekor auf weiBem Grunde.,145,97.0,False,positional,,,PIATTI,,
 BO0624_88209,350534,95,82,Flache Schussel mit Groteskendekor und Bildnis der heiligen Dorothea im Mittelfelde. Urbino.,147,98.4,False,positional,,,SCATOLE,,
-BO0624_88209,350535,96,83,"Tiefe gebuckelte Schale auf FuB, Arabesken und Bildnis einer Frau im Mittelfelde. Marke M.B.Gubbio. 15. Jahrhundert.",149,98.7,False,positional,,Scuola Umbra,OGGETTI VARI,,
-BO0624_88209,350536,97,84,Kleines Schalchen auf Fuk mit gelbbraunen Arabesken und Heiligen Franz im Mittelfelde. Urbino. 15. Jahrhundert. Gebuckelt. Durchm.15 cm.,154,98.9,False,positional,,,MAJOLIKA,,
-BO0624_88209,350537,98,85,"Schnabelkanne mit Henkel, bauchige Leibung. Vogel und Blumen= dekor.Faenza. 17. Jahrhundert. Hohe 20 cm.",155,98.5,False,positional,,Scuola Faentina,MAJOLIKA,,
+BO0624_88209,350535,96,83,"Tiefe gebuckelte Schale auf FuB, Arabesken und Bildnis einer Frau im Mittelfelde. Marke M.B.Gubbio. 15. Jahrhundert.",149,98.7,False,positional,,Scuola Umbra,OGGETTI VARI,,Sec. XV
+BO0624_88209,350536,97,84,Kleines Schalchen auf Fuk mit gelbbraunen Arabesken und Heiligen Franz im Mittelfelde. Urbino. 15. Jahrhundert. Gebuckelt. Durchm.15 cm.,154,98.9,False,positional,,,MAJOLIKA,,Sec. XV
+BO0624_88209,350537,98,85,"Schnabelkanne mit Henkel, bauchige Leibung. Vogel und Blumen= dekor.Faenza. 17. Jahrhundert. Hohe 20 cm.",155,98.5,False,positional,,Scuola Faentina,MAJOLIKA,,Sec. XVII
 BO0624_88209,350538,99,86,Ovale weibe Schussel mit gelbblauem Wappen. 40×28cm.,156,97.1,False,positional,,,SCATOLE,,
 BO0624_88209,350539,100,87,"Zwei Albarelli, gebauchte Form mit blauem Dekor und gelbblauem Wappen. Lowenkopf auf blauem Felde und drei Sterne. Faenza. 16.Jahrhundert. Hohe 20 cm. Abbildung Tafel 1.",157,99.1,False,positional,,Scuola Faentina,MAJOLIKA,,
-BO0624_88209,350540,101,5,"88.Groher doppelhenkeliger bauchiger Apothekertopf.,Mostarda in gelb blauem Blatterkranz mit Deckel. Auf der Ruckseite Wappen: Taube in Dreipass und Blumenranke.Italien. 16. Jahrhundert. Hohe 30 cm. Abbildung Tafel 1.",158,99.5,False,positional,,,MAJOLIKA,,
-BO0624_88209,350541,102,89,Salztah in Form einer Taube auf vier Fufen. Der obere Teil mit Grotesken bemalt. Italien. 16. Jahrhundert. Hohe 10 cm.,159,93.5,False,positional,,,MAJOLIKA,,
+BO0624_88209,350540,101,5,"88.Groher doppelhenkeliger bauchiger Apothekertopf.,Mostarda in gelb blauem Blatterkranz mit Deckel. Auf der Ruckseite Wappen: Taube in Dreipass und Blumenranke.Italien. 16. Jahrhundert. Hohe 30 cm. Abbildung Tafel 1.",158,99.5,False,positional,,,MAJOLIKA,,Sec. XVI
+BO0624_88209,350541,102,89,Salztah in Form einer Taube auf vier Fufen. Der obere Teil mit Grotesken bemalt. Italien. 16. Jahrhundert. Hohe 10 cm.,159,93.5,False,positional,,,MAJOLIKA,,Sec. XVI
 BO0624_88209,350542,103,90,"Tondo mit Monogramm Christi in blauem Strahlenkranz, gelber er# hohter Rand. Durchm.15 cm.",161,98.3,False,positional,,,MAJOLIKA,,
-BO0624_88209,350543,104,9,"91.Tondino, graue Glasur, im Mittelfelde Christus an der Martersaule, um ihn herum in Arabesken die Marterwerkzeuge. Italien. 17. Jahrh. Durchm.33 cm.",162,99.3,False,positional,,,MAJOLIKA,,
-BO0624_88209,350544,105,92,Grobe tiefe Schussel mit der Darstellung eines Turnieres bei einer am Meer gelegenen Stadt. Urbino. 15. Jahrhundert. Abbildung Tafel I. Durchm.51 cm.,163,99.0,False,positional,,,SCATOLE,,
+BO0624_88209,350543,104,9,"91.Tondino, graue Glasur, im Mittelfelde Christus an der Martersaule, um ihn herum in Arabesken die Marterwerkzeuge. Italien. 17. Jahrh. Durchm.33 cm.",162,99.3,False,positional,,,MAJOLIKA,,Sec. XVII
+BO0624_88209,350544,105,92,Grobe tiefe Schussel mit der Darstellung eines Turnieres bei einer am Meer gelegenen Stadt. Urbino. 15. Jahrhundert. Abbildung Tafel I. Durchm.51 cm.,163,99.0,False,positional,,,SCATOLE,,Sec. XV
 BO0624_88209,350545,106,93,Grobe Schussel. Im Mittelbild Christus am Kreuze mit den beiden Marien.Rand Blatterstreifen.Oberitalien.16. Jahrhundert.Defekt. Durchm.43 cm.,164,98.9,False,positional,,,SCATOLE,,
 BO0624_88209,350546,107,12,"94.Apothekernapf, graue Glasur mit braunem und blauen Dekor, mit einem Henkel. Faenza.15. Jahrhundert. Defekt. Durchm.12 cm.",165,98.7,False,positional,,Scuola Faentina,MAJOLIKA,,
 BO0624_88209,350547,108,95,"Schussel auf Fuf, gelbes Schuppendekor mit vier blauen Blumen medaillons.Italien.16. Jahrhundert. Durchm.25 cm.",166,92.2,False,positional,,,SCATOLE,,
 BO0624_88209,350548,109,96,Braune Gcige von Probus Stainer bezeichnet.,170,96.6,False,positional,,,KUNSTGEWERBE,,
 BO0624_88209,350549,110,97,"Holzfigur einer Nonne, bekleidet und naturalistisch bemalt im ver# goldeten Holzrahmen. Italien.17. Jahrhundert. 45×33cm.",171,95.1,False,positional,,,KUNSTGEWERBE,,
 BO0624_88209,350550,111,98,"Chinesisches Schachspiel mit 32 Elfenbeinfiguren, reich geschnitzt, rot und weif.",173,89.0,False,positional,,,KUNSTGEWERBE,,
-BO0624_88209,350551,112,99,Terracottabuste eines bartigen Mannes in reichverziertem Gewande mit Spitzenkragen.Oberitalien.16. Jahrhundert. Hohe 50 cm. Abbildung Tafel II. 1575.Amsterdam.,175,93.9,False,positional,,,KUNSTGEWERBE,,
+BO0624_88209,350551,112,99,Terracottabuste eines bartigen Mannes in reichverziertem Gewande mit Spitzenkragen.Oberitalien.16. Jahrhundert. Hohe 50 cm. Abbildung Tafel II. 1575.Amsterdam.,175,93.9,False,positional,,,KUNSTGEWERBE,,Sec. XVI
 BO0624_88209,350552,113,100,Die Kochin an einem Braten stehend und ihn spickend. Auf dem Tische ein Stilleben von Geflugel. Hinter ihr ein junger Mann mit,183,98.4,False,positional,PIETER AERTSEN,,,,
 BO0624_88209,350553,114,2,Weinpokal.,184,90.0,False,positional,PIETER AERTSEN,,,,
-BO0624_88209,350554,115,1500,1561.Nurnberg -Augsburg.,190,89.8,False,positional,CHRISTOPH AMBERGER,Scuola di Norimberga,,,
+BO0624_88209,350554,115,1500,1561.Nurnberg -Augsburg.,190,89.8,False,positional,CHRISTOPH AMBERGER,Scuola di Norimberga,,,Sec. XVI
 BO0624_88209,350555,116,101,Das Duett. Vornehme Dame aus einem Notenbande singend. Hinter,192,96.7,False,positional,CHRISTOPH AMBERGER,,,,
 BO0624_88209,350556,117,2,ihr ein Mann mit Barett ein Glas haltend. Holz.44X33 cm.Goldrahmen.,193,98.5,False,positional,CHRISTOPH AMBERGER,,OGGETTI IN LEGNO,,
-BO0624_88209,350557,118,1613,1683.Brussel.,197,82.8,False,positional,JACQUES d'ARTHOIS,,,,
-BO0624_88209,350558,119,102,"Grobe Landschaft, hoher Wald mit einer Lichtung, die den Blick auf blaue Berge offnet. Im Vordergrunde Jager und Hunde einen Hirsch jagend. 1592.Barsano.",199,94.1,False,positional,JACQUES d'ARTHOIS,,,,
+BO0624_88209,350557,118,1613,1683.Brussel.,197,82.8,False,positional,JACQUES d'ARTHOIS,,,,Sec. XVII
+BO0624_88209,350558,119,102,"Grobe Landschaft, hoher Wald mit einer Lichtung, die den Blick auf blaue Berge offnet. Im Vordergrunde Jager und Hunde einen Hirsch jagend. 1592.Barsano.",199,94.1,False,positional,JACQUES d'ARTHOIS,,,,Sec. XVI
 BO0624_88209,350559,120,103,"Jacob und seine Herde. Jacob halbnackt in rotem Mantel, ruht",209,96.7,False,positional,"JACOPO DA PONTE,BASSANO",,,,
 BO0624_88209,350560,121,2,zwischen den Schafen seiner Herde. Leinewand. 85X 115 cm. Goldrahmen.,210,98.5,False,positional,"JACOPO DA PONTE,BASSANO",,,,
-BO0624_88209,350561,122,1620,1664.Haarlem.,215,82.8,False,positional,CORNELIS BEGA,,,,
+BO0624_88209,350561,122,1620,1664.Haarlem.,215,82.8,False,positional,CORNELIS BEGA,,,,Sec. XVII
 BO0624_88209,350562,123,104,Der Dudelsackblaser mit einem jungen Manne hinter sich.,218,96.4,False,positional,CORNELIS BEGA,,,,
 BO0624_88209,350563,124,105,Ialienische Landschaff. Rechts eine Brucke iber einen rauschenden Bach. Links Hugel und eine Kuhherde. Leinewand. 79X117 cm.S Schwarzer Rahmen. Abbildung Tafel IV.,222,98.7,False,positional,CLAAS PIETERSZ BERCHEM,,CORNICI,,
-BO0624_88209,350564,125,1620,1683.Haarlem -Amsterdam.,224,89.8,False,positional,CLAAS PIETERSZ BERCHEM,,,,
-BO0624_88209,350565,126,1555,1619.Bologna.,228,82.8,False,positional,LODOVICO CARRACCI,Scuola Bolognese,,,
-BO0624_88209,350566,127,106,Verlobung der heiligen Katharina. Maria das Kind auf dem Schofe das Katharina den Ring an den Finger steckt. Kolorierte Zeichnung. 20 X 15 cm. Goldrahmen. 1630.Busto Arsizio -Mailand.,230,90.6,False,positional,LODOVICO CARRACCI,,,,
+BO0624_88209,350564,125,1620,1683.Haarlem -Amsterdam.,224,89.8,False,positional,CLAAS PIETERSZ BERCHEM,,,,Sec. XVII
+BO0624_88209,350565,126,1555,1619.Bologna.,228,82.8,False,positional,LODOVICO CARRACCI,Scuola Bolognese,,,Sec. XVII
+BO0624_88209,350566,127,106,Verlobung der heiligen Katharina. Maria das Kind auf dem Schofe das Katharina den Ring an den Finger steckt. Kolorierte Zeichnung. 20 X 15 cm. Goldrahmen. 1630.Busto Arsizio -Mailand.,230,90.6,False,positional,LODOVICO CARRACCI,,,,Sec. XVII
 BO0624_88209,350567,128,107,"Anbetung der Maria. Unter einer Saulenhalle mit groBen gold gelbem von Engeln gehaltenem Vorhange sitzt Maria, das Kind auf dem SchoBe haltend. Vor ihr eine vornehme Frau vom heiligen Philippo",236,99.0,False,positional,DANIELE CRESPI,,BIANCHERIA,,
-BO0624_88209,350568,129,108,Landschaff. FluBlauf mit hochgelegener Stadt und fernen Bergen. Im Vordergrunde Staffage und Marktschiffe. 1620. Frankfurt a.Main -Rom.,242,87.3,False,positional,ADAM ELSHEIMER,,,,
+BO0624_88209,350568,129,108,Landschaff. FluBlauf mit hochgelegener Stadt und fernen Bergen. Im Vordergrunde Staffage und Marktschiffe. 1620. Frankfurt a.Main -Rom.,242,87.3,False,positional,ADAM ELSHEIMER,,,,Sec. XVII
 BO0624_88209,350569,130,109,Landschaft mit dem GieBbache. In der Mitte des Bildes eine Ruine,251,96.9,False,positional,ALLART VAN EVERDINGEN,,,,
-BO0624_88209,350570,131,1621,1675.Alkmaar—Amsterdam.,253,89.8,False,positional,ALLART VAN EVERDINGEN,,,,
+BO0624_88209,350570,131,1621,1675.Alkmaar—Amsterdam.,253,89.8,False,positional,ALLART VAN EVERDINGEN,,,,Sec. XVII
 BO0624_88209,350571,132,16831733,Antwerpen——Paris.,259,76.9,False,positional,KAREL V.FALENS,,,,
 BO0624_88209,350572,133,110,Rast an dem Brunnen. Eine Jagdgesellschaft von Reitern mit ihren,261,96.9,False,positional,KAREL V.FALENS,,,,
 BO0624_88209,350573,134,2,Hunden macht an einem Brunnen Rast. Leinewand. 43X 57 cm. Goldrahmen.,262,98.5,False,positional,KAREL V.FALENS,,,,
-BO0624_88209,350574,135,1727,1788.London.,266,81.5,False,positional,THOMAS GAINSBOROUGH,,,,
+BO0624_88209,350574,135,1727,1788.London.,266,81.5,False,positional,THOMAS GAINSBOROUGH,,,,Sec. XVIII
 BO0624_88209,350575,136,111,"Landschaff. Links hinten der Wald, davor eine Lichtung mit einem",268,96.9,False,positional,THOMAS GAINSBOROUGH,,,,
 BO0624_88209,350576,137,112,Lustige Gesellschaf. Vornehme Herren und Damen an einem Tisch,275,96.8,False,positional,DIRK.HALS,,,,
 BO0624_88209,350577,138,2,sitzend und Wein trinkend.,276,96.2,False,positional,DIRK.HALS,,,,
-BO0624_88209,350578,139,1646,1733.Haarlem-Amsterdam.,284,89.8,False,positional,JAN VAN HUCHTENBURGH,,,,
+BO0624_88209,350578,139,1646,1733.Haarlem-Amsterdam.,284,89.8,False,positional,JAN VAN HUCHTENBURGH,,,,Sec. XVIII
 BO0624_88209,350579,140,113,Schlachtenbild. Reiterkampf in einer groBen Landschaft.,286,96.4,False,positional,JAN VAN HUCHTENBURGH,,,,
 BO0624_88209,350580,141,2,Leinewand. 115 X 226 cm. Schwarzer Rahmen.,287,97.5,False,positional,JAN VAN HUCHTENBURGH,,CORNICI,,
-BO0624_88209,350581,142,1701,1779.Devonshire-Twickenham.,291,91.2,False,positional,TH.HUDSON,,,,
+BO0624_88209,350581,142,1701,1779.Devonshire-Twickenham.,291,91.2,False,positional,TH.HUDSON,,,,Sec. XVIII
 BO0624_88209,350582,143,114,Bildnis eines vornehmen Herrn in braunem Rocke mit gepuderter,293,96.8,False,positional,TH.HUDSON,,,,
 BO0624_88209,350583,144,2,Perricke.,294,88.9,False,positional,TH.HUDSON,,,,
-BO0624_88209,350584,145,1593,1678.Antwerpen.,300,84.8,False,positional,JACOB JORDAENS,,,,
-BO0624_88209,350585,146,115,"Faun und Bacchantin. Nackter Faun einen Korb mit Fruchten haltend, neben ihm eine rotbekleidete Bacchantin nach den Fruchten greifend. 1693.",302,96.7,False,positional,JACOB JORDAENS,,,,
+BO0624_88209,350584,145,1593,1678.Antwerpen.,300,84.8,False,positional,JACOB JORDAENS,,,,Sec. XVII
+BO0624_88209,350585,146,115,"Faun und Bacchantin. Nackter Faun einen Korb mit Fruchten haltend, neben ihm eine rotbekleidete Bacchantin nach den Fruchten greifend. 1693.",302,96.7,False,positional,JACOB JORDAENS,,,,Sec. XVII
 BO0624_88209,350586,147,116,"Stilleben. Auf einem Tische eine Delfter Schussci mit Fruichten, ein Pokal mit Wein, Zitronen und Schale mit Stachelbeeren. Pappe. 50 X 65 cm. Schwarzer Rahmen.",310,98.7,False,positional,WILHELM KALF,,CORNICI,,
 BO0624_88209,350587,148,1734,"117. Landschaft mit FluB. An dem linken Ufer eine Hutte, davor Magd mit Gefaf und zwei Kuhe. Holz.38X55 cm.Goldrahmen.",316,100.0,False,positional,P.S.DE LAUTHERBOURG,,OGGETTI IN LEGNO,,
-BO0624_88209,350588,149,1695,1741.Rom.,320,76.2,False,positional,ANDREA LOCATELLI,,,,
+BO0624_88209,350588,149,1695,1741.Rom.,320,76.2,False,positional,ANDREA LOCATELLI,,,,Sec. XVIII
 BO0624_88209,350589,150,118,Wascherinnen an einem antiken Brunnen mit denen einige Buben Scherz treiben. Leinewand. 26X53 cm.Goldrahmen. Abbildung Tafel II.,322,73.9,False,positional,ANDREA LOCATELLI,,STAMPE E INCISIONI,,
 BO0624_88209,350590,151,119,Lustiges Mahl an einer antiken Ruine im Freien. Leinewand. 26X53 cm. Goldramen. Abbildung Tafel II.,324,97.9,False,positional,ANDREA LOCATELLI,,STAMPE E INCISIONI,,
-BO0624_88209,350591,152,120,Fahrende italienische Betfler in einer italienischen Landschaft stehend. Leinewand. 29X32 cm. Goldrahmen. 1682.Chamayne -Rom. Vier kleine dekorative Landschaften.,325,77.7,False,positional,ANDREA LOCATELLI,,,,
+BO0624_88209,350591,152,120,Fahrende italienische Betfler in einer italienischen Landschaft stehend. Leinewand. 29X32 cm. Goldrahmen. 1682.Chamayne -Rom. Vier kleine dekorative Landschaften.,325,77.7,False,positional,ANDREA LOCATELLI,,,,Sec. XVII
 BO0624_88209,350592,153,121,"a) Kleine Landschaft mit antiken Ruinen und zwei Ochsen. 12X30 cm.Goldrahmen,Holz.",332,78.8,False,positional,CLAUDE GELEE LE LORRAIN,,OGGETTI IN LEGNO,,
 BO0624_88209,350593,154,122,"b) Ruhiger See mit Schiffen. 12X30 cm.Holz,Goldrahmen.",334,96.2,False,positional,CLAUDE GELEE LE LORRAIN,,OGGETTI IN LEGNO,,
 BO0624_88209,350594,155,4,"123.c) Burg, an einem See gelegen.",335,96.9,False,positional,CLAUDE GELEE LE LORRAIN,,,,
 BO0624_88209,350595,156,5,"12X30 cm. Holz, Goldrahmen.",336,96.0,False,positional,CLAUDE GELEE LE LORRAIN,,OGGETTI IN LEGNO,,
 BO0624_88209,350596,157,6,"124.d) Hafenstadt mit groben Prunkbauten. 12X30 cm.Holz,Goldrahmen.",337,98.5,False,positional,CLAUDE GELEE LE LORRAIN,,OGGETTI IN LEGNO,,
-BO0624_88209,350597,158,1596,"1656. Leiden,Haag.",341,86.5,False,positional,JAN VAN GOYEN,,,,
+BO0624_88209,350597,158,1596,"1656. Leiden,Haag.",341,86.5,False,positional,JAN VAN GOYEN,,,,Sec. XVII
 BO0624_88209,350598,159,125,"Landschaff. Rechts Hugel mit einem verfallenen Schlosse, links",343,96.8,False,positional,JAN VAN GOYEN,,,,
 BO0624_88209,350599,160,2,eine weite Ebene mit FluBlauf und Windmihlen. Leinwand. 44X63 cm.Goldrahmen.,344,98.6,False,positional,JAN VAN GOYEN,,,,
-BO0624_88209,350600,161,1605,1665.Paris.,348,80.0,False,positional,PIERRE ANT.LE MOINE,,,,
-BO0624_88209,350601,162,126,"Flora, einen Korb mit Fruchten auf dem Kopfe tragend. Leinwand. 62X52 cm.Goldrahmen. 1677.Amsterdam.",350,89.4,False,positional,PIERRE ANT.LE MOINE,,,,
+BO0624_88209,350600,161,1605,1665.Paris.,348,80.0,False,positional,PIERRE ANT.LE MOINE,,,,Sec. XVII
+BO0624_88209,350601,162,126,"Flora, einen Korb mit Fruchten auf dem Kopfe tragend. Leinwand. 62X52 cm.Goldrahmen. 1677.Amsterdam.",350,89.4,False,positional,PIERRE ANT.LE MOINE,,,,Sec. XVII
 BO0624_88209,350602,163,127,"Mondscheinlandschaff. Bewegte Reede mit Schiffen. 50X67 cm. Holz,Goldrahmen.",356,97.3,False,positional,ART VAN DER NEER,,OGGETTI IN LEGNO,,
-BO0624_88209,350603,164,128,"Abendlandschaff am Hafen bei Mondschein. Im Vordergrund Boote mit Fischern bei Fackelschein. Holz,Goldrahmen. 33X48 cm. 1647.Antwerpen.",357,92.4,False,positional,ART VAN DER NEER,,OGGETTI IN LEGNO,,
+BO0624_88209,350603,164,128,"Abendlandschaff am Hafen bei Mondschein. Im Vordergrund Boote mit Fischern bei Fackelschein. Holz,Goldrahmen. 33X48 cm. 1647.Antwerpen.",357,92.4,False,positional,ART VAN DER NEER,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88209,350604,165,129,"Reiterkampf. Im Vordergrunde zwei galoppierende Reiter, der eine",363,96.9,False,positional,SEBASTIAN VRANCX,,,,
 BO0624_88209,350605,166,2,"auf einem Schimmel, hinten Kampfgetummel. Holz.12X25cm.",364,98.1,False,positional,SEBASTIAN VRANCX,,OGGETTI IN LEGNO,,
-BO0624_88209,350606,167,1578,1656.Antwerpen.,368,84.8,False,positional,PETER NEEFS DER ALTERE,,,,
+BO0624_88209,350606,167,1578,1656.Antwerpen.,368,84.8,False,positional,PETER NEEFS DER ALTERE,,,,Sec. XVII
 BO0624_88209,350607,168,129,"a. Inneres einer Kirche. Gottesdienst im Chore und zahlreiche Personen in den Schiffen und auf den Emporen. Schwarzer Rahmen, Leinwand. 36X28 cm.",370,98.9,False,positional,PETER NEEFS DER ALTERE,,CORNICI,,
-BO0624_88209,350608,169,130,"Hafen mit Schiffen und einem bunten Marktleben. Rechts Hauser einer Stadt. 1698. Haerton,London.",375,85.7,False,positional,JUAN DE PAREJA,,,,
+BO0624_88209,350608,169,130,"Hafen mit Schiffen und einem bunten Marktleben. Rechts Hauser einer Stadt. 1698. Haerton,London.",375,85.7,False,positional,JUAN DE PAREJA,,,,Sec. XVII
 BO0624_88209,350609,170,131,"Stilleben. Totes Geflugel, Schnepfen, Krebse und Flundern in einer Kammer.",383,97.2,False,positional,PIETER ROESTRATEN,,,,
 BO0624_88209,350610,171,132,"Venus, mit Putten spielend,unter einem Baume sitzend.",391,96.2,False,positional,H.F.ROMANELLI,,,,
 BO0624_88209,350611,172,2,Leinwand. 38X30 cm.Goldrahmen.,392,96.6,False,positional,H.F.ROMANELLI,,,,
 BO0624_88209,350612,173,1821,Amsterdam.,396,78.3,False,positional,HENRIETTE RONNER,,,,
 BO0624_88209,350613,174,133,"Stilleben. Auf einem Kuchentische liegen tote Enten und Hasen. Bez.H.Ronner. 18X22 cm. Holz, Goldrahmen.",398,83.4,False,positional,HENRIETTE RONNER,,OGGETTI IN LEGNO,,
-BO0624_88209,350614,175,134,"Stilleben.Totes Geflugel auf einem Tisch. Bez. H. Ronner. 18X22 cm.Holz,Goldrahmen. 1705.Frankfurt am Main -Rom.",400,83.4,False,positional,HENRIETTE RONNER,,OGGETTI IN LEGNO,,
+BO0624_88209,350614,175,134,"Stilleben.Totes Geflugel auf einem Tisch. Bez. H. Ronner. 18X22 cm.Holz,Goldrahmen. 1705.Frankfurt am Main -Rom.",400,83.4,False,positional,HENRIETTE RONNER,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88209,350615,176,135,"Romische Gebirgslandschaff mit FluB, Brucke und Dorfschaft. Im Vordergrunde Hirten mit einer Schaf,Ziegen# und Kuhherde. Leinwand.122X172 cm.Goldrahmen.",407,75.6,False,positional,PHILIPP PETER ROOS,Scuola Romana,,,
-BO0624_88209,350616,177,136,"Kopf eines bartigen, kahlkopfigen Mannes, der in der rechten Hand einen Brief halt. 1640.Siegen -Antwerpen.",413,86.0,False,positional,PHILIPP PETER ROOS,,,,
+BO0624_88209,350616,177,136,"Kopf eines bartigen, kahlkopfigen Mannes, der in der rechten Hand einen Brief halt. 1640.Siegen -Antwerpen.",413,86.0,False,positional,PHILIPP PETER ROOS,,,,Sec. XVII
 BO0624_88209,350617,178,137,"Herkules bei Omphale. Herkules sitzt mit einem Spinnrocken in der Hand halbnackt in der Mitte des Bildes, Omphale hochstehend, das Lowenfell um die Schultern, faBt ihn am Ohr. Links und hinten mehrere Dienerinnen, dem Vorgange zuschauend. Ein kleiner Hund",421,99.2,False,positional,PETER PAUL RUBENS,,,,
-BO0624_88209,350618,179,138,"Bildnis ciner Damc in schwarzem Kleide mit Muhlsteinkragen. Blondes Haar.In den Ohren Perlen. Leinwand.54X46 cm.Goldrahmen. 1639.Constrai -Utrecht,",429,90.2,False,positional,PETER PAUL RUBENS,,,,
+BO0624_88209,350618,179,138,"Bildnis ciner Damc in schwarzem Kleide mit Muhlsteinkragen. Blondes Haar.In den Ohren Perlen. Leinwand.54X46 cm.Goldrahmen. 1639.Constrai -Utrecht,",429,90.2,False,positional,PETER PAUL RUBENS,,,,Sec. XVII
 BO0624_88209,350619,180,139,Grohe heroische Landschaft mit Blick auf ein FluBtal.,435,96.3,False,positional,ROELAND SAVERY,,,,
 BO0624_88209,350620,181,2,Leinwand. 70X95 cm. Goldrahmen.,436,96.6,False,positional,ROELAND SAVERY,,,,
-BO0624_88209,350621,182,1550,1597.Ingolstadt -Munchen.,440,90.2,False,positional,CHRISTOPH SCHWARZ,,,,
-BO0624_88209,350622,183,140,Christus. Der nackte Christus mit Dornenkrone und Rute sitzt in einer Mondscheinlandschaft. Im Hintergrunde eine Stadt. Holz.26X20 cm.Goldrahmen. 1747. Nocera de'Pagani -Neapel.,442,89.5,False,positional,CHRISTOPH SCHWARZ,,OGGETTI IN LEGNO,,
-BO0624_88209,350623,184,141,"Madonna mit dem Kind in einer Landschaft sitzend. Maria in blauem Mantel und rotem Kleide. Vor ihnen die heilige Martina mit Lilie und Palmenzweig kniend, in grau=gelbem Kleide und gelbem Mantel. Rechts ferne Landschaft mit einer Stadt. Leinwand. Goldrahmen. 136X146 cm. Abbildung Tafel IV. 1681.Antwerpen -Florenz.",448,95.4,False,positional,FRANCESCO SOLIMENA,,,,
+BO0624_88209,350621,182,1550,1597.Ingolstadt -Munchen.,440,90.2,False,positional,CHRISTOPH SCHWARZ,,,,Sec. XVI
+BO0624_88209,350622,183,140,Christus. Der nackte Christus mit Dornenkrone und Rute sitzt in einer Mondscheinlandschaft. Im Hintergrunde eine Stadt. Holz.26X20 cm.Goldrahmen. 1747. Nocera de'Pagani -Neapel.,442,89.5,False,positional,CHRISTOPH SCHWARZ,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88209,350623,184,141,"Madonna mit dem Kind in einer Landschaft sitzend. Maria in blauem Mantel und rotem Kleide. Vor ihnen die heilige Martina mit Lilie und Palmenzweig kniend, in grau=gelbem Kleide und gelbem Mantel. Rechts ferne Landschaft mit einer Stadt. Leinwand. Goldrahmen. 136X146 cm. Abbildung Tafel IV. 1681.Antwerpen -Florenz.",448,95.4,False,positional,FRANCESCO SOLIMENA,,,,Sec. XVII
 BO0624_88209,350624,185,142,Bildnis des Paulus du Poit in ovaler Umrahmung.,454,95.8,False,positional,JUSTUS SUSTERMANN,,,,
 BO0624_88209,350625,186,2,Kupfer. 23X19 cm. Goldrahmen.,455,96.3,False,positional,JUSTUS SUSTERMANN,,OGGETTI IN RAME,,
-BO0624_88209,350626,187,1617,1681.Zwolle -Deventer.,459,88.9,False,positional,GERARD TERBORGH,,,,
-BO0624_88209,350627,188,143,Interieur. Drei Damen und ein Herr in Unterhaltung begriffen in einem Zimmer. 1594.Venedig.,461,89.8,False,positional,GERARD TERBORGH,,ARREDAMENTI,,
+BO0624_88209,350626,187,1617,1681.Zwolle -Deventer.,459,88.9,False,positional,GERARD TERBORGH,,,,Sec. XVII
+BO0624_88209,350627,188,143,Interieur. Drei Damen und ein Herr in Unterhaltung begriffen in einem Zimmer. 1594.Venedig.,461,89.8,False,positional,GERARD TERBORGH,,ARREDAMENTI,,Sec. XVI
 BO0624_88209,350628,189,144,"Judith,das Schwert auf der Schulter tragend,in braunem Rocke.",469,96.8,False,positional,JACOPO ROBUSTI,,,,
 BO0624_88209,350629,190,2,Hinter ihr eine Magd.,470,95.2,False,positional,JACOPO ROBUSTI,,,,
-BO0624_88209,350630,191,1595,1672.Antwerpen.,476,84.8,False,positional,LUCAS VAN UDEN,,,,
+BO0624_88209,350630,191,1595,1672.Antwerpen.,476,84.8,False,positional,LUCAS VAN UDEN,,,,Sec. XVII
 BO0624_88209,350631,192,145,Landschaff mit hohen Baumen und Staffagefiguren. 73X56 cm.Leinwand. Schwarzer Rahmen.,478,70.7,False,positional,LUCAS VAN UDEN,,CORNICI,,
-BO0624_88209,350632,193,146,Venus von Urbino. Kopie nach Tiziano. Venus von Urbino in dem Uffizien in Florenz. 1660.Sevilla -Madrid.,484,86.8,False,positional,ORAZIO VECELLI,,,,
-BO0624_88209,350633,194,147,Las Bebedores. Ausschnitt aus dem groBen Bilde des Prado von Carlo Ciappa 1913. Kopiert. Leinwand. 80X105 cm.,492,88.1,False,positional,DIEGO RODRIGUEZ DE SILVA Y VELASQUEZ,,,,
+BO0624_88209,350632,193,146,Venus von Urbino. Kopie nach Tiziano. Venus von Urbino in dem Uffizien in Florenz. 1660.Sevilla -Madrid.,484,86.8,False,positional,ORAZIO VECELLI,,,,Sec. XVII
+BO0624_88209,350633,194,147,Las Bebedores. Ausschnitt aus dem groBen Bilde des Prado von Carlo Ciappa 1913. Kopiert. Leinwand. 80X105 cm.,492,88.1,False,positional,DIEGO RODRIGUEZ DE SILVA Y VELASQUEZ,,,,Sec. XX
 BO0624_88209,350634,195,148,Reiterkampf.,497,84.6,False,positional,CORNELIUS DE WAAL,,,,
-BO0624_88209,350635,196,1592,1662.Antwerpen -Genua.,499,88.9,False,positional,CORNELIUS DE WAAL,,,,
+BO0624_88209,350635,196,1592,1662.Antwerpen -Genua.,499,88.9,False,positional,CORNELIUS DE WAAL,,,,Sec. XVII
 BO0624_88209,350636,197,75,X95 cm.Leinwand.S,501,94.4,False,positional,CORNELIUS DE WAAL,,,,
 BO0624_88209,350637,198,149,Reiterkampf.,505,84.6,False,positional,CORNELIUS DE WAAL,,,,
 BO0624_88209,350638,199,75,X95 cm. Leinwand. Schwarzer Rahmen.,507,97.0,False,positional,CORNELIUS DE WAAL,,CORNICI,,
-BO0624_88209,350639,200,1733,1810. Regensburg -London.,511,89.8,False,positional,JOHN ZOFFANI,,,,
+BO0624_88209,350639,200,1733,1810. Regensburg -London.,511,89.8,False,positional,JOHN ZOFFANI,,,,Sec. XIX
 BO0624_88209,350640,201,150,Bildnis eines Narren in blauem Rocke und grauer Weste mit Knopfen. X65 cm. Leinwand. Goldrahmen.,513,80.7,False,positional,JOHN ZOFFANI,,,,
 BO0624_88209,350641,202,151,"Miniatur einer Dame in weibBem Kleide umd Spitzenhaube. Um die Schultern liegt ein roter Mantel. Oval. Goldrahmen.7,5X6 cm.",517,89.2,False,positional,JOHN ZOFFANI,,MINIATURE,,
 BO0624_88209,350642,203,152,"Miniatur eines Herrn in blauem Rocke und Vatermorder. Oval. Goldrahmen.7,5X6 cm.",519,97.5,False,positional,JOHN ZOFFANI,,MINIATURE,,
@@ -211,13 +211,13 @@ BO0624_88209,350648,209,156,Pan als Gast bei Bauern beim Mahle sitzend. Holz.40X
 BO0624_88209,350649,210,157,Kopf cines alten Mannes mit Turban. Das Gesicht hell beleuchtet. Leinwand. 42X38 cm.Schwarzer Rahmen.,542,98.0,False,positional,,REMBRANDS VAN RYN,CORNICI,,
 BO0624_88209,350650,211,158,"Bcweinung Christi. Christus in den Armen der Maria, die in einem grunen Mantel gehullt ist. Rechts Johannes in rotem Mantel Holz.22X30 cm.Goldrahmen.",546,98.6,False,positional,,P.P.RUBENS,OGGETTI IN LEGNO,,
 BO0624_88209,350651,212,159,"Die drei Grazien, einen Korb mit Fruchten und Blumen in den hoch erhobenen Handen haltend. Leinwand. 118X104 cm. Schwarzer Rahmen.",550,81.1,False,positional,,PETER PAUL RUBENS,CORNICI,,
-BO0624_88209,350652,213,160,Dic Schlacht der Deutschritter mit heidnischen PreuBen bei Thorn 1702.,555,93.4,False,positional,,PETER PAUL RUBENS,,,
+BO0624_88209,350652,213,160,Dic Schlacht der Deutschritter mit heidnischen PreuBen bei Thorn 1702.,555,93.4,False,positional,,PETER PAUL RUBENS,,,Sec. XVIII
 BO0624_88209,350653,214,161,Abundantia. Waldlandschaft mit nackten Nymphen und Gottinnen die ein groBes Horn mit Fruchten fillen. Holz.70X54 cm.Schwarzer Rahmen.,563,70.3,False,positional,,PETER PAUL RUBENS,CORNICI,,
 BO0624_88209,350654,215,162,Eingeschlafen.Ein alter Bauer ist beim Weine eingeschlafen. Ein,567,96.9,False,positional,,PETER PAUL RUBENS,,,
 BO0624_88209,350655,216,163,Marienbild.,575,83.3,False,positional,,PETER PAUL RUBENS,,,
-BO0624_88209,350656,217,164,Der heilige Bernhard.1568.,579,92.6,False,positional,,PETER PAUL RUBENS,,,
+BO0624_88209,350656,217,164,Der heilige Bernhard.1568.,579,92.6,False,positional,,PETER PAUL RUBENS,,,Sec. XVI
 BO0624_88209,350657,218,165,"Kleine Empire-Komode, geflammtes Holz,mit Ecksaulen. Hohe 85 cm, Breite 75 cm,Tiefe 40 cm.",583,97.7,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88209,350658,219,166,"GroBer Sekretar, um 1820, helles NuBbauunholz. In massigen Formen, mit Aufsatz und Schubladen.",584,97.8,False,positional,,,KUNSTGEWERBE,,
+BO0624_88209,350658,219,166,"GroBer Sekretar, um 1820, helles NuBbauunholz. In massigen Formen, mit Aufsatz und Schubladen.",584,97.8,False,positional,,,KUNSTGEWERBE,,Sec. XIX
 BO0624_88209,350659,220,167,RadschloBgewehr.Holzschaft.,589,92.9,False,positional,,,WAFFEN,,
 BO0624_88209,350660,221,168,Indischer Sabel in schwarzer Lederscheide mit Stichblatt.,590,96.6,False,positional,,,WAFFEN,,
 BO0624_88209,350661,222,169,"Indischer Sabel, reich verzierter Korb mit roter Lederscheide.",591,96.8,False,positional,,,WAFFEN,,
@@ -233,7 +233,7 @@ BO0624_88209,350670,231,178,"Glasschussel, tief geschliffen. Durchm.25 cm.",606,
 BO0624_88209,350671,232,179,"Plafte auf Fuf, geatztes Rankenwerk. Murano. Durchm.24 cm.",608,82.8,False,positional,,Scuola di Murano,GLAS,,
 BO0624_88209,350672,233,180,Vier antike Tranenglaschen mit langem Hals.,610,95.5,False,positional,HALS DIRK,,GLAS,,
 BO0624_88209,350673,234,181,Flacher Teller.Murano.16. Jahrhundert.,611,94.7,False,positional,,Scuola di Murano,PIATTI,,
-BO0624_88209,350674,235,181,"Plafte auf Fu6. Murano, mit geatztem Rankenwerk. 16. Jahr# hundert. Durchm.26 cm.",613,97.4,False,positional,,Scuola di Murano,GLAS,,
+BO0624_88209,350674,235,181,"Plafte auf Fu6. Murano, mit geatztem Rankenwerk. 16. Jahr# hundert. Durchm.26 cm.",613,97.4,False,positional,,Scuola di Murano,GLAS,,Sec. XVI
 BO0624_88209,350675,236,183,"Flache Schussel. Murano, geatzter Rand und Mittelfeld. Durchm.25 cm.",614,97.0,False,positional,,Scuola di Murano,SCATOLE,,
 BO0624_88209,350676,237,184,"Kannc mit Deckel, geschliffen, mit Henkel. Hohe 24 cm.",615,96.2,False,positional,,,GLAS,,
 BO0624_88209,350677,238,185,"Vier flache Flaschchcn, geschliffen.",616,94.4,False,positional,,,GLAS,,
@@ -241,7 +241,7 @@ BO0624_88209,350678,239,186,"Dose mit Deckel, geschliffen, mit Maiblumendekor. H
 BO0624_88209,350679,240,187,"Deckel, geschliffen. Murano.",619,92.6,False,positional,,Scuola di Murano,GLAS,,
 BO0624_88209,350680,241,188,Sechs Milchglasbecher mit buntem Blumendekor. Italien.,620,96.3,False,positional,,,GLAS,,
 BO0624_88209,350681,242,189,Albarello weifer Grund mit blauen und gelben Grotesken. Ritter mit gebandigtem Lowen. Walzenformig mit ausgebauchtem Hals und FuB. Lilienwappen. Urbino. Hohe 22 cm. Abbildung Tafel I.,625,98.9,False,positional,HALS DIRK,,MAJOLIKA,,
-BO0624_88209,350682,243,190,"Schussel auf FuB, gebuckelt. Christus am Kreuz im Mittelfeld um= rahmt von grin, blau,gelben Arabesken.Italien 16. Jahrhundert. Durchm.25 cm.",627,70.2,False,positional,,,SCATOLE,,
+BO0624_88209,350682,243,190,"Schussel auf FuB, gebuckelt. Christus am Kreuz im Mittelfeld um= rahmt von grin, blau,gelben Arabesken.Italien 16. Jahrhundert. Durchm.25 cm.",627,70.2,False,positional,,,SCATOLE,,Sec. XVI
 BO0624_88209,350683,244,191,"Zwei Teller mit Schaferscenen, gelb, grin und blau bemalt. Italien. 17.Jahrhundert. Durchm.25 cm.",628,79.7,False,positional,,,PIATTI,,
 BO0624_88209,350684,245,192,Flache Schussel mit grungrauem Schuppenwerk und acht kleinen Medaillons mit Busten und Tieren um ein Mittelstuck mit Putten· Gubbio.16. Jahrhundert. Durchm.40 cm.,630,98.8,False,positional,,Scuola Umbra,SCATOLE,,
 BO0624_88209,350685,246,193,Grobe Schussel. Gebuckelt mit blaugelbem Rankenstreifen am Rande. Auf dem Mittelbuckel Darstellung der Justitia. Urbino.15. Jahr= hundert. Durchm.44 cm.,631,90.8,False,positional,,,SCATOLE,,
@@ -259,80 +259,80 @@ BO0624_88209,350696,257,204,"Zwei Albarelli, blauer Dekor mit Wappen. Hohe 18 cm
 BO0624_88209,350697,258,205,"Flache Schussel, gelbes Rankenwerk in grunem Felde am Rand. Im Mittelfelde der heilige Antonius von Padua. Oberitalien.16. Jahr",649,98.4,False,positional,,,SCATOLE,,
 BO0624_88209,350698,259,16,hundert. Durchm.36 cm.,650,93.0,False,positional,,,MAJOLIKA,,
 BO0624_88209,350699,260,1859,206. Liegender Hund mit totem Hasen in weiter Landschaft. Bez.,657,100.0,False,positional,G.ARMFIELD,,,,
-BO0624_88209,350700,261,2,G.Armfield 1859. Leinwand 70X90 cm. Goldrahmen.,658,97.8,False,positional,G.ARMFIELD,,,,
-BO0624_88209,350701,262,1620,1664.Haarlem.,662,82.8,False,positional,CORNELIUS BEGA,,,,
-BO0624_88209,350702,263,207,"Der Trinker, Mann mit roter Mitze ein Bierglas haltend. Holz.22X16cm. Goldrahmen. 1674.Antwerpen,Paris.",664,86.0,False,positional,CORNELIUS BEGA,,OGGETTI IN LEGNO,,
-BO0624_88209,350703,264,208,"Stilleben, Jagdhund und totes Gefluigel. 77X125 cm. Leinwand. Goldrahmen. 1676. St.Hippolyte -Rom.",670,84.0,False,positional,PETER BOEL,,,,
+BO0624_88209,350700,261,2,G.Armfield 1859. Leinwand 70X90 cm. Goldrahmen.,658,97.8,False,positional,G.ARMFIELD,,,,Sec. XIX
+BO0624_88209,350701,262,1620,1664.Haarlem.,662,82.8,False,positional,CORNELIUS BEGA,,,,Sec. XVII
+BO0624_88209,350702,263,207,"Der Trinker, Mann mit roter Mitze ein Bierglas haltend. Holz.22X16cm. Goldrahmen. 1674.Antwerpen,Paris.",664,86.0,False,positional,CORNELIUS BEGA,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88209,350703,264,208,"Stilleben, Jagdhund und totes Gefluigel. 77X125 cm. Leinwand. Goldrahmen. 1676. St.Hippolyte -Rom.",670,84.0,False,positional,PETER BOEL,,,,Sec. XVII
 BO0624_88209,350704,265,209,"Reiterkampf, im Hintergrunde ein fliehendes Heer. Vorne zwei Reiter. Leinwand.50X69 cm.Goldrahmen.",676,97.9,False,positional,JACQUES COURTOIS,,,,
 BO0624_88209,350705,266,210,Reiterschlacht gegen die Turken. Leinwand.58X97 cm.Goldrahmen.,677,65.3,False,positional,JACQUES COURTOIS,,OGGETTI VARI,,
 BO0624_88209,350706,267,211,Virginius.,682,81.8,False,positional,COQUERET,,,,
-BO0624_88209,350707,268,212,Junius Brufus. Kupferstich in Goldrahmen.60X100 cm. 1825.Paris-Brussel.,684,81.0,False,positional,COQUERET,,OGGETTI IN RAME,,
+BO0624_88209,350707,268,212,Junius Brufus. Kupferstich in Goldrahmen.60X100 cm. 1825.Paris-Brussel.,684,81.0,False,positional,COQUERET,,OGGETTI IN RAME,,Sec. XIX
 BO0624_88209,350708,269,213,"Bildnis einer Dame in braunem Kleide,mit hoher Lockenfrisur. Leinwand. 77X63 cm.Goldrahmen.",690,78.1,False,positional,J.L.DAVID,,,,
 BO0624_88209,350709,270,214,Kopf eines Madchens mit Turban. Gelb beleuchtet. Leinwand.57X50 cm. Goldrahmen. Brescia,695,92.6,False,positional,G.L.ECKHARDT,,,,
 BO0624_88209,350710,271,215,"Madonna. Maria gerade aufgerichtet vor einem Fenster sitzend,",702,96.7,False,positional,VINCENZO FOPPA,,,,
 BO0624_88209,350711,272,2,"halt das Kind auf dem rechten Arm, das ein offenes Brevier halt. Holz. 70X54 cm.Schwarzer Rahmen.",703,98.9,False,positional,VINCENZO FOPPA,,CORNICI,,
-BO0624_88209,350712,273,1542,1616.Herenthals.,707,85.7,False,positional,FRANZ FRANCKEN DER ALTERE,,,,
-BO0624_88209,350713,274,216,"Christus und die Ehebrecherin,umgeben von zahlreichen Juden 1819.London.",709,88.1,False,positional,FRANZ FRANCKEN DER ALTERE,,,,
+BO0624_88209,350712,273,1542,1616.Herenthals.,707,85.7,False,positional,FRANZ FRANCKEN DER ALTERE,,,,Sec. XVII
+BO0624_88209,350713,274,216,"Christus und die Ehebrecherin,umgeben von zahlreichen Juden 1819.London.",709,88.1,False,positional,FRANZ FRANCKEN DER ALTERE,,,,Sec. XIX
 BO0624_88209,350714,275,217,"Bildnis einer Dame in einer Landschaft sitzend in weibem Kleide, einen braunen Schawl haltend.",717,97.9,False,positional,G.H.HARLOW,,,,
 BO0624_88209,350715,276,2,Leinwand. 38X30 cm.Goldrahmen.,718,96.6,False,positional,G.H.HARLOW,,,,
-BO0624_88209,350716,277,1614,1677.Antwerpen.,722,84.8,False,positional,GUIL. VAN HERP,,,,
+BO0624_88209,350716,277,1614,1677.Antwerpen.,722,84.8,False,positional,GUIL. VAN HERP,,,,Sec. XVII
 BO0624_88209,350717,278,218,Schenkenbild. In einer Schenke scherzt ein alter Mann mit einer,724,96.9,False,positional,GUIL. VAN HERP,,,,
 BO0624_88209,350718,279,2,jungen Frau. Hinter ihnen andere Personen. Leinwand.33X39 cm.Schwarzer Rahmen.,725,98.7,False,positional,GUIL. VAN HERP,,CORNICI,,
-BO0624_88209,350719,280,1800,1870.,729,61.5,False,positional,JAMES HOLLAND,Scuola di Dusseldorf,,,
-BO0624_88209,350720,281,219,Kustenlandschaft mit Schiffen am Strande und zwei Booten. Pappe. 24X47 cm. Goldrahmen. 1679.Antwerpen,731,89.6,False,positional,JAMES HOLLAND,,,,
+BO0624_88209,350719,280,1800,1870.,729,61.5,False,positional,JAMES HOLLAND,Scuola di Dusseldorf,,,Sec. XIX
+BO0624_88209,350720,281,219,Kustenlandschaft mit Schiffen am Strande und zwei Booten. Pappe. 24X47 cm. Goldrahmen. 1679.Antwerpen,731,89.6,False,positional,JAMES HOLLAND,,,,Sec. XVII
 BO0624_88209,350721,282,220,Affen in einer Studierstube mit Buchern spielend.,737,96.0,False,positional,J.VAN KESSEL,,,,
 BO0624_88209,350722,283,2,Holz.20X28 cm.Goldrahmen.,738,96.0,False,positional,J.VAN KESSEL,,OGGETTI IN LEGNO,,
-BO0624_88209,350723,284,1802,1873.St.Jones Wood.,742,87.8,False,positional,SIR EDWIN LANDSEER,,,,
-BO0624_88209,350724,285,221,Zwergseidenhunde auf einem roten Kissen ruhend. Leinwand.40X55 cm.Goldrahmen. 1664.Antwerpen -Turin.,744,85.7,False,positional,SIR EDWIN LANDSEER,,BIANCHERIA,,
-BO0624_88209,350725,286,222,"Die Kartenspieler.Vor einem grofen,im Freien stehenden Backofen spielen vier Leute auf dem Boden sitzend Karten. Leinwand. 40X50 cm.Goldrahmen. 1695.Troyes-Paris.",750,92.7,False,positional,JAN MIEL,,OGGETTI VARI,,
-BO0624_88209,350726,287,223,Magdalena.Vornehme Dame als buBende Magdalena in blauem Mantel mit einem Buche in einer Landschaft liegend. Leinwand. 66X85 cm.Goldrahmen. 1900.,755,96.8,False,positional,PIERRE MIGNARD,,,,
+BO0624_88209,350723,284,1802,1873.St.Jones Wood.,742,87.8,False,positional,SIR EDWIN LANDSEER,,,,Sec. XIX
+BO0624_88209,350724,285,221,Zwergseidenhunde auf einem roten Kissen ruhend. Leinwand.40X55 cm.Goldrahmen. 1664.Antwerpen -Turin.,744,85.7,False,positional,SIR EDWIN LANDSEER,,BIANCHERIA,,Sec. XVII
+BO0624_88209,350725,286,222,"Die Kartenspieler.Vor einem grofen,im Freien stehenden Backofen spielen vier Leute auf dem Boden sitzend Karten. Leinwand. 40X50 cm.Goldrahmen. 1695.Troyes-Paris.",750,92.7,False,positional,JAN MIEL,,OGGETTI VARI,,Sec. XVII
+BO0624_88209,350726,287,223,Magdalena.Vornehme Dame als buBende Magdalena in blauem Mantel mit einem Buche in einer Landschaft liegend. Leinwand. 66X85 cm.Goldrahmen. 1900.,755,96.8,False,positional,PIERRE MIGNARD,,,,Sec. XX
 BO0624_88209,350727,288,224,Bildnis eines Kunstlers mit grauem Barte und Rocke.Violette,761,96.7,False,positional,MICHAEL MUNCACSY,,,,
 BO0624_88209,350728,289,2,Weste.,762,83.3,False,positional,MICHAEL MUNCACSY,,,,
-BO0624_88209,350729,290,1683,1557.Paris-Berlin.,768,87.2,False,positional,ANTOINE PESNE,Scuola di Berlino,,,
+BO0624_88209,350729,290,1683,1557.Paris-Berlin.,768,87.2,False,positional,ANTOINE PESNE,Scuola di Berlino,,,Sec. XVI
 BO0624_88209,350730,291,225,Bildnis einer Dame im Brokatkleide mit blaugefuittertem Hermelin#,770,97.0,False,positional,ANTOINE PESNE,,,,
 BO0624_88209,350731,292,2,mantel.,771,85.7,False,positional,ANTOINE PESNE,,,,
 BO0624_88209,350732,293,83,X66 cm.Leinwand. Goldrahmen.,773,96.3,False,positional,ANTOINE PESNE,,,,
-BO0624_88209,350733,294,1675,1735.Amsterdam -Haarlem.,777,89.8,False,positional,ABRAHAM RADENEKER,,,,
-BO0624_88209,350734,295,226,Landschaff mit antikem Tempel und Staffage. Kupfer.19X16 cm.Goldrahmen. 1741.Rom.,779,91.4,False,positional,ABRAHAM RADENEKER,,OGGETTI IN RAME,,
+BO0624_88209,350733,294,1675,1735.Amsterdam -Haarlem.,777,89.8,False,positional,ABRAHAM RADENEKER,,,,Sec. XVIII
+BO0624_88209,350734,295,226,Landschaff mit antikem Tempel und Staffage. Kupfer.19X16 cm.Goldrahmen. 1741.Rom.,779,91.4,False,positional,ABRAHAM RADENEKER,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88209,350735,296,227,"Landliches Mahl. Mehrere Bauern um einen Steintisch beim Mahle,",787,96.8,False,positional,ANDREA LOCATELLI,,,,
 BO0624_88209,350736,297,2,im Hintergrunde ein Turm.,788,96.0,False,positional,ANDREA LOCATELLI,,,,
 BO0624_88209,350737,298,3,Leinwand. 29X32 cm.Goldrahmen.,789,96.6,False,positional,ANDREA LOCATELLI,,,,
 BO0624_88209,350738,299,228,Halienische Betfler am FuBe einer antiken Ruine eines Turmes und Aquaduktes. Leinwand. Goldramen. 36X28 cm.,790,98.1,False,positional,ANDREA LOCATELLI,,STAMPE E INCISIONI,,
-BO0624_88209,350739,300,229,"Der Alte und die Junge.Zwei Junge Frauen musizierend und trinkend, wahrend ein alter Bettler sinnend dasitzt. Leinwand. 36X26 cm.Goldrahmen. 1616.Herentals=Antwerpen.",791,90.4,False,positional,ANDREA LOCATELLI,,,,
+BO0624_88209,350739,300,229,"Der Alte und die Junge.Zwei Junge Frauen musizierend und trinkend, wahrend ein alter Bettler sinnend dasitzt. Leinwand. 36X26 cm.Goldrahmen. 1616.Herentals=Antwerpen.",791,90.4,False,positional,ANDREA LOCATELLI,,,,Sec. XVII
 BO0624_88209,350740,301,230,"Die Auferweckung des Lazarus. Rechts Christus in grinem Kleide und rotem Mantel,umgeben von Frauen und den Aposteln, links die Gruppe des aus dem Grabe auferwachenden nackten Lazarus. Rechts hinten antike Architekturen. Holz. X124 cm. Schwarzer Rahmen.",797,93.8,False,positional,FRANZ FRANKEN der Altere,,CORNICI,,
 BO0624_88209,350741,302,231,"Bildnis cines Gelehrten, der,in grunlichem Rock mit Spitzen: manschetten und gelostem Hemdkragen,mit dem Gansekiel in der Rechten am Tisch vor einem Buch sitzt. Hinter ihm sind machtige Folianten aufgebaut. Olgemalde auf Leinwand. 97X70 cm.Goldrahmen.",802,99.2,False,positional,FRANZ FRANKEN der Altere,,,,
 BO0624_88209,350742,303,2,"232.Kopic nach Andrea Mantegna. Madonna, von Prof. Xeller.Holz. 61 X 44 cm,Goldrahmen.",803,98.8,False,positional,FRANZ FRANKEN der Altere,,OGGETTI IN LEGNO,,
-BO0624_88209,350743,304,1772,1855.Valencia=Madrid.,807,88.9,False,positional,VINCENTE LOPEZ Y PORTANA,,,,
+BO0624_88209,350743,304,1772,1855.Valencia=Madrid.,807,88.9,False,positional,VINCENTE LOPEZ Y PORTANA,,,,Sec. XIX
 BO0624_88209,350744,305,233,"Der heilige Joseph das Kind in den Armen haltend. Engelskopfe in Wolken schwebend. Bez. V. Lopez, fec. Leinwand.76X55 cm.Goldrahmen. Uber ihm",809,95.1,False,positional,VINCENTE LOPEZ Y PORTANA,,,,
 BO0624_88209,350745,306,234,"Der heilige Ludwig Bertrand eine Pistole haltend,die in e ein Kruzifix endet.",814,86.5,False,positional,VINCENTE LOPEZ Y PORTANA,,,,
 BO0624_88209,350746,307,235,"Der heilige Hieronymus hinter einem Tisch mit TintenfaB und Totenschadel, eine lange Papierrolle haltend. Leinwand. 131X98cm.",820,98.4,False,positional,VINCENTE LOPEZ Y PORTANA,,,,
 BO0624_88209,350747,308,236,Jagd der Diana (Ausschnitt). Leinwand. 88X105 cm.,824,95.7,False,positional,VINCENTE LOPEZ Y PORTANA,,,,
 BO0624_88209,350748,309,237,Lavinia nach dem Berliner Bilde. 112X84cm.,828,95.2,False,positional,VINCENTE LOPEZ Y PORTANA,Scuola di Berlino,,,
 BO0624_88209,350749,310,238,"Kopic cines Bildes einer Prinzessin, von Prof. Xeller. Leinwand. 14X13 cm.Holzrahmen.",829,97.6,False,positional,VINCENTE LOPEZ Y PORTANA,,,,
-BO0624_88209,350750,311,239,Bildnis eines jungen Madchens. Ol auf Papier. Holzplatte. 1802. Dalton Le Furnon=Kendal.,833,76.6,False,positional,VINCENTE LOPEZ Y PORTANA,,,,
+BO0624_88209,350750,311,239,Bildnis eines jungen Madchens. Ol auf Papier. Holzplatte. 1802. Dalton Le Furnon=Kendal.,833,76.6,False,positional,VINCENTE LOPEZ Y PORTANA,,,,Sec. XIX
 BO0624_88209,350751,312,240,"Dame mit Federhut.Ol. Leinwand,circa 65X 45 cm. Goldrahmen.",839,96.6,False,positional,VINCENTE LOPEZ Y PORTANA,,,,
 BO0624_88209,350752,313,2,28×38cm.,840,87.5,False,positional,VINCENTE LOPEZ Y PORTANA,,,,
 BO0624_88209,350753,314,242,Winterliche Vergnugen. Schlittenfahrer und Schlittschuhlaufer auf,847,97.0,False,positional,ALEXANDER VAN HAEKEN,,,,
 BO0624_88209,350754,315,2,dem Eise.,848,88.9,False,positional,ALEXANDER VAN HAEKEN,,,,
-BO0624_88209,350755,316,1685,1766.Paris.,854,80.0,False,positional,JEAN MARC NATTIER,,,,
+BO0624_88209,350755,316,1685,1766.Paris.,854,80.0,False,positional,JEAN MARC NATTIER,,,,Sec. XVIII
 BO0624_88209,350756,317,243,"Entwurf zu einem Deckengemalde. Allegoric der Kiinste. Eine Muse ist dabei, die Figuren auf der Lunettenvolute auszuhauen. Putti bringen auf Leitern die groBen Vorhange an. Bildhauerwerk zeuge uberall verteilt. Lavierte Federzeichnung auf weibem Papier.",856,99.2,False,positional,JEAN MARC NATTIER,,BIANCHERIA,,
 BO0624_88209,350757,318,2,26X35 cm.Goldrahmen.,857,95.0,False,positional,JEAN MARC NATTIER,,,,
-BO0624_88209,350758,319,1613,1675.Leiden.,861,81.5,False,positional,,GERARD DOU,,,
-BO0624_88209,350759,320,1682,1754.Venedig.,869,82.8,False,positional,GIOVANNI BATTISTA PIAZETTA,,,,
+BO0624_88209,350758,319,1613,1675.Leiden.,861,81.5,False,positional,,GERARD DOU,,,Sec. XVII
+BO0624_88209,350759,320,1682,1754.Venedig.,869,82.8,False,positional,GIOVANNI BATTISTA PIAZETTA,,,,Sec. XVIII
 BO0624_88209,350760,321,245,"Tod des heiligen Vincenz von Paul. Dem sterbenden Heiligen erscheint die Madonna mit dem Kinde, umgeben von zahlreichen",871,98.3,False,positional,GIOVANNI BATTISTA PIAZETTA,,,,
 BO0624_88209,350761,322,2,Heiligen.,872,88.9,False,positional,GIOVANNI BATTISTA PIAZETTA,,,,
-BO0624_88209,350762,323,1471,1528.Nurnberg.,878,83.9,False,positional,ALBRECHT DURER,Scuola di Norimberga,,,
+BO0624_88209,350762,323,1471,1528.Nurnberg.,878,83.9,False,positional,ALBRECHT DURER,Scuola di Norimberga,,,Sec. XVI
 BO0624_88209,350763,324,246,Kreuztragung.Holzschnitt aus der groBen Passion.,880,95.9,False,positional,ALBRECHT DURER,,,,
 BO0624_88209,350764,325,2,Alter Abdruck ohne Rand. Eichenrahmen.,881,97.3,False,positional,ALBRECHT DURER,,,,
-BO0624_88209,350765,326,1618,1688.Amsterdam.,885,84.8,False,positional,AELBERT JANSZ KLOMP,,,,
+BO0624_88209,350765,326,1618,1688.Amsterdam.,885,84.8,False,positional,AELBERT JANSZ KLOMP,,,,Sec. XVII
 BO0624_88209,350766,327,247,Kuhe und Schafe in einer Landschaft mit Hirten. Holz.29X36 cm.Goldrahmen.,887,97.3,False,positional,AELBERT JANSZ KLOMP,,OGGETTI IN LEGNO,,
-BO0624_88209,350767,328,248,"Biskuitfigur.,Vauban stehend neben einem Morser. Von Rolland 1785. Hohe 48cm.",888,97.3,False,positional,AELBERT JANSZ KLOMP,,,,
-BO0624_88209,350768,329,249,Zwei Barock Engel. Geschnitzter Engel mit hochgehobenen Handen. Hohe zirka 50 cm. 1541.Antwerpen.,889,89.1,False,positional,AELBERT JANSZ KLOMP,,,,
-BO0624_88209,350769,330,250,"Traucrnde Fraucngestalt von einer Grablegungsgruppc. Eichen: holz geschnitzt, mit Spuren alter Bemalung.I Die Figur ist uber den Knieen abgeschnitten und hinten flach. Die Frau tragt eine Haube, die von einem am Halse verknupften Kopftuche gehalten wird. Uber das helle Untergewand legt sich ein goldener blaugefutterter Mantel, der vor dem Leib einen Bausch bildet. Die Hande sind gefaltet, der Kopf leicht geneigt. Brabant, 16. Jahrhundert. Hohe 29 cm.",894,99.5,False,positional,JEAN GOSSAERT,,OGGETTI IN LEGNO,,
+BO0624_88209,350767,328,248,"Biskuitfigur.,Vauban stehend neben einem Morser. Von Rolland 1785. Hohe 48cm.",888,97.3,False,positional,AELBERT JANSZ KLOMP,,,,Sec. XVIII
+BO0624_88209,350768,329,249,Zwei Barock Engel. Geschnitzter Engel mit hochgehobenen Handen. Hohe zirka 50 cm. 1541.Antwerpen.,889,89.1,False,positional,AELBERT JANSZ KLOMP,,,,Sec. XVI
+BO0624_88209,350769,330,250,"Traucrnde Fraucngestalt von einer Grablegungsgruppc. Eichen: holz geschnitzt, mit Spuren alter Bemalung.I Die Figur ist uber den Knieen abgeschnitten und hinten flach. Die Frau tragt eine Haube, die von einem am Halse verknupften Kopftuche gehalten wird. Uber das helle Untergewand legt sich ein goldener blaugefutterter Mantel, der vor dem Leib einen Bausch bildet. Die Hande sind gefaltet, der Kopf leicht geneigt. Brabant, 16. Jahrhundert. Hohe 29 cm.",894,99.5,False,positional,JEAN GOSSAERT,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88209,350770,331,251,"Madonna mit dem Kinde.WeiBer Sandstein. Die Mutter in bis zur Schulter rund ausgeschnittenem faltigem Kleide halt mit beiden Handen das sitzende nackte Kind, das die Rechte segnend ausstreckt und die Linke auf den Reichsapfel legt. Es ruht auf dem Wulst des Mantels, den die Madonna nach vorn rechts rafft. Gekittet. Frankreich.16. Jahrhundert. Hohe 60 cm.",895,99.4,False,positional,JEAN GOSSAERT,,,,
 BO0624_88209,350771,332,252,"Der heilige Eligius. Eichenholzrelief mit Resten alter Bemalung. Linken einen PferdefuB halt. Der Heilige in kurzem Rock steht in der Nahe des Feuers mit dem erhobenen Hammer in der Rechten am AmboB,auf dem er mit der Antwerpen,16. Jahrhundert. 28X11 cm.",897,77.6,False,positional,JEAN GOSSAERT,,,,
 BO0624_88209,350772,333,253,"Ciborium, Kupfer getrieben und vergoldet. Runde Kelchform auf breitem Fuf mit gebuckeltem Schaftknauf. Klappdeckel schwach ges wolbt mit profiliertem BlutenschluBstuck, das ein Kreuz tragt. Flandern. 15.Jahrhundert. Hohe 24 cm.",898,96.5,False,positional,JEAN GOSSAERT,,OGGETTI IN RAME,,
-BO0624_88209,350773,334,254,"Speisekelch mit Klappdeckel, Kupfer getrieben und vergoldet. Halb= kugelige Kuppa auf sechseckigem a abgesetztem Schaft und rundem profiliertem FuB. Dieser steigt zu einem profilierten, den Schaft um= gebenden Sechseck an. Schmalere und breitere Rillen geben dem Knauf eine Fruchtform. Den halbkugeligen Deckel kront eine ab# gesetzte unten erbreiterte Kegelform, die eine umringte Kugel mit einem Kruzifix darauf tragt. Steckverschluf. Flandern. 16. Jahrhundert. Hohe 35 cm.",900,99.6,False,positional,JEAN GOSSAERT,,OGGETTI IN RAME,,
+BO0624_88209,350773,334,254,"Speisekelch mit Klappdeckel, Kupfer getrieben und vergoldet. Halb= kugelige Kuppa auf sechseckigem a abgesetztem Schaft und rundem profiliertem FuB. Dieser steigt zu einem profilierten, den Schaft um= gebenden Sechseck an. Schmalere und breitere Rillen geben dem Knauf eine Fruchtform. Den halbkugeligen Deckel kront eine ab# gesetzte unten erbreiterte Kegelform, die eine umringte Kugel mit einem Kruzifix darauf tragt. Steckverschluf. Flandern. 16. Jahrhundert. Hohe 35 cm.",900,99.6,False,positional,JEAN GOSSAERT,,OGGETTI IN RAME,,Sec. XVI
 BO0624_88209,350774,335,255,Aubussonteppich. Roter Fond. In der Mitte eine Rocaillecartouche mit Blumenstrauf. Der rote Grund uberzogen mit Rosenranken. Der Rand mit Blatterfries versehen. 220X275cm.,901,98.8,False,positional,JEAN GOSSAERT,,,,
 BO0624_88209,350775,336,9,256.Bochara-Teppich.,902,95.0,False,positional,JEAN GOSSAERT,,,,
 BO0624_88209,350776,337,10,290X200cm.,903,85.7,False,positional,JEAN GOSSAERT,,,,
@@ -348,7 +348,7 @@ BO0624_88209,350785,346,265,Rokokodame im Krinolinrock aus feinen Porzellanspitz
 BO0624_88209,350786,347,266,Tablet. Fayence bemalt mit Bronzerand. 38×24cm.,921,85.7,False,positional,,,MODERNE MOBEL; GEMALDE; KUNSTGEWERBE,,
 BO0624_88209,350787,348,267,"Truhenbank, Eiche,reich geschnitzt. In die Ruckwand eingelassen Landschaft von E. Born. Lederpolster. Hohe 200 cm,Breite 120 cm.",923,98.4,False,positional,,,MODERNE MOBEL; GEMALDE; KUNSTGEWERBE,,
 BO0624_88209,350788,349,268,Bronzestatuette. Nacktes Madchen zwischen Mohnbluten. Hohe 44 cm.,924,96.9,False,positional,,,MODERNE MOBEL; GEMALDE; KUNSTGEWERBE,,
-BO0624_88209,350789,350,269,"Zwei Putten, Bronze auf Marmorsockel von F.Iffland. Rom 1887.",925,96.7,False,positional,,,MODERNE MOBEL; GEMALDE; KUNSTGEWERBE,,
+BO0624_88209,350789,350,269,"Zwei Putten, Bronze auf Marmorsockel von F.Iffland. Rom 1887.",925,96.7,False,positional,,,MODERNE MOBEL; GEMALDE; KUNSTGEWERBE,,Sec. XIX
 BO0624_88209,350790,351,16,Hohe 25 cm.,926,87.0,False,positional,,,MODERNE MOBEL; GEMALDE; KUNSTGEWERBE,,
 BO0624_88209,350791,352,17,270.Plakete.,927,88.0,False,positional,,,MODERNE MOBEL; GEMALDE; KUNSTGEWERBE,,
 BO0624_88209,350792,353,18,Mannerkopf aus erotischen Motiven zusammengesetzt. Bronze.,928,97.4,False,positional,,,MODERNE MOBEL; GEMALDE; KUNSTGEWERBE,,
@@ -371,59 +371,59 @@ BO0624_88209,350808,369,15,284a. Hans Adolf.Dorfkirche.,946,94.5,False,positiona
 BO0624_88209,350809,370,16,284b. Hans Adolf. Kindermadchen.,947,95.1,False,positional,,,RADIERUNGEN,,
 BO0624_88209,350810,371,285,Zwei Kupferstiche mit Genrescenen und eine Zeichnung.,948,96.3,False,positional,,,RADIERUNGEN,,
 BO0624_88209,350811,372,286,"Eine Mappe mit Handzeichnungen, Stichen,Lithos und Drucken aus dem Nachlaf Professor Xellers stammend.",949,73.9,False,positional,,,RADIERUNGEN,,
-BO0624_88209,350812,373,287,"Zur Erntezeit. Zwei junge Bauernmadel schreiten durch die Felder, begrift von den Schnittern. Bez.: Carl Hubner 1857. Leinwand.65X50 cm.Goldrahmen.",957,70.6,False,positional,CARL HUBNER,,,,
+BO0624_88209,350812,373,287,"Zur Erntezeit. Zwei junge Bauernmadel schreiten durch die Felder, begrift von den Schnittern. Bez.: Carl Hubner 1857. Leinwand.65X50 cm.Goldrahmen.",957,70.6,False,positional,CARL HUBNER,,,,Sec. XIX
 BO0624_88209,350813,374,288,Landschaff. Windmihle am Teich bei untergehender Sonne. Leinwand. 13X21 cm.Goldrahmen.,961,76.3,False,positional,CARL HUBNER,,,,
 BO0624_88209,350814,375,289,Kuhherde an der Tranke.,963,91.7,False,positional,CARL HUBNER,,,,
 BO0624_88209,350815,376,290,Kopf eines alten Mannes. Im Profil nach rechts gedreht.  Bez.:,968,96.6,False,positional,ADOLPH VON MENZEL,,,,
-BO0624_88209,350816,377,2,A.v.Menzel 1901.,969,93.8,False,positional,ADOLPH VON MENZEL,,,,
+BO0624_88209,350816,377,2,A.v.Menzel 1901.,969,93.8,False,positional,ADOLPH VON MENZEL,,,,Sec. XX
 BO0624_88209,350817,378,3,45X40 cm. Schwarzer Rahmen.,970,96.2,False,positional,ADOLPH VON MENZEL,,CORNICI,,
-BO0624_88209,350818,379,291,Venedig. Blicke auf St. Maria del Salute. Bez.: O. Sehrndt 1903.,974,96.6,False,positional,OTTO SEHRNDT,,,,
+BO0624_88209,350818,379,291,Venedig. Blicke auf St. Maria del Salute. Bez.: O. Sehrndt 1903.,974,96.6,False,positional,OTTO SEHRNDT,,,,Sec. XX
 BO0624_88209,350819,380,292,Landschaff. Blick in ein weites Tal. Bez.: K. Omint.,979,95.8,False,positional,K.OMINT,,,,
 BO0624_88209,350820,381,2,Leinwand. Schwarzer Rahmen. 65X95 cm.,980,97.1,False,positional,K.OMINT,,CORNICI,,
 BO0624_88209,350821,382,1900,293. Bildnis einer Dame mit gelber Schute innen rot gefittert. Bez.:,986,100.0,False,positional,ROWLAND HOLYONKE,,,,
-BO0624_88209,350822,383,2,Rowland Holyonke. 1900. Leinwand. Goldrahmen.54X40 cm.,987,98.0,False,positional,ROWLAND HOLYONKE,,,,
+BO0624_88209,350822,383,2,Rowland Holyonke. 1900. Leinwand. Goldrahmen.54X40 cm.,987,98.0,False,positional,ROWLAND HOLYONKE,,,,Sec. XX
 BO0624_88209,350823,384,294,Muhle im Winter. Bez.: W. Wilda. Leinwand. Ol. 60X31 cm. Schwarzer Rahmen,991,97.0,False,positional,WALTER WILDA,,CORNICI,,
 BO0624_88209,350824,385,295,Fischerboote in einer nordischen Fjorde liegend. Bez.:W. Ritschel. Leinwand. 66X95 cm. Schwarzer Rahmen.,995,76.1,False,positional,W. RITSCHEL,,CORNICI,,
 BO0624_88209,350825,386,296,"Sizilianische Kuste. Rechts Weg zu einem hochgelegenen Dorfe, Bez.:",1000,96.9,False,positional,J.KLINGELHOFER,,,,
 BO0624_88209,350826,387,297,"Am Waldweiher. Ufer eines Teiches,an dem ein Knabe angelnd in einem Boote sitzt. Bez.: Walter Wilda 09. Pappe. 50X70 cm. Goldrahmen.",1008,98.4,False,positional,WALTER WILDA,,,,
-BO0624_88209,350827,388,298,"Stilleben. Krug, Kristallglas und Korb mit Fruchten. Bez.:Walter Wilda.Berlin 1910. Leinwand.41X40cm. Griner Rahmen.",1009,98.2,False,positional,WALTER WILDA,Scuola di Berlino,CORNICI,,
+BO0624_88209,350827,388,298,"Stilleben. Krug, Kristallglas und Korb mit Fruchten. Bez.:Walter Wilda.Berlin 1910. Leinwand.41X40cm. Griner Rahmen.",1009,98.2,False,positional,WALTER WILDA,Scuola di Berlino,CORNICI,,Sec. XX
 BO0624_88209,350828,389,299,Hafcnbild beim Sonnenschein. Bez.:E. Bindemann. Leinwand. Ol. Geschnitzter Rahmen. 42X52 cm.,1012,65.6,False,positional,E.BINDEMANN,,CORNICI,,
 BO0624_88209,350829,390,300,Hafen im Winter.Bez.:E. Bindemann. Ol.Holz.41X31 cm.,1014,74.7,False,positional,E.BINDEMANN,,OGGETTI IN LEGNO,,
 BO0624_88209,350830,391,301,"Sonnenuntergang am Hafen. Bez.:Karl Duzette, Copie. 53X65 cm.Leinwand. Schwarzer Rahmen.",1019,70.7,False,positional,KARL DUZETTE,,CORNICI,,
 BO0624_88209,350831,392,302,Hauser im Schnee bei Abenddammerung. Bez.: P. Muiller Kaempff. Leinwand. 100X77 cm. Goldrahmen.,1026,97.8,False,positional,P. MULLER-KAEMPFF,,,,
 BO0624_88209,350832,393,303,Kopf eines alten Fischers. Bez.:V.Valentins. Leinwand.Ol.38X32cm. Goldrahimen.,1030,97.3,False,positional,V.VALENTINS,,,,
 BO0624_88209,350833,394,304,Interieur. Bez.:Wilda.,1034,90.5,False,positional,WALTER WILDA,,ARREDAMENTI,,
-BO0624_88209,350834,395,305,Schlobgarten bei Sonnenschein. Bez.:Wilda 1912.,1036,95.7,False,positional,WALTER WILDA,,,,
+BO0624_88209,350834,395,305,Schlobgarten bei Sonnenschein. Bez.:Wilda 1912.,1036,95.7,False,positional,WALTER WILDA,,,,Sec. XX
 BO0624_88209,350835,396,306,Stilleben bei Kerzenschein. Fasser und Flaschen. Bez.:W. Wilda.,1038,96.7,False,positional,WALTER WILDA,,,,
 BO0624_88209,350836,397,307,Der Forster mit grofem Vollbart. Bez.: Ad. Liben. Leinwand.Goldrahmen. 41X30 cm.,1043,97.3,False,positional,AD.LUBEN,,,,
 BO0624_88209,350837,398,2,308.Bauernmädel mit rotem Tuche um die Schulter. Bez.: Ad. Liben. Leinwand. Goldrahmen. 40X30 cm.,1044,98.9,False,positional,AD.LUBEN,,,,
 BO0624_88209,350838,399,309,Hafen bei ruhiger See mit einigen Schiffen. Bez.: O. Rust.,1048,96.4,False,positional,O. RUST,,,,
 BO0624_88209,350839,400,2,Leinwand. 47X60 cm.Goldrahmen.,1049,96.6,False,positional,O. RUST,,,,
-BO0624_88209,350840,401,1856,- 310.In der Schenke. Mehrere Honorationen um einen Tisch sitzend. Von hinten kommt eine Magd mit einem Krug. Bez.: F. Wendler. 1856.,1055,100.0,False,positional,F.WENDLER,,,,
+BO0624_88209,350840,401,1856,- 310.In der Schenke. Mehrere Honorationen um einen Tisch sitzend. Von hinten kommt eine Magd mit einem Krug. Bez.: F. Wendler. 1856.,1055,100.0,False,positional,F.WENDLER,,,,Sec. XIX
 BO0624_88209,350841,402,32,X47 cm.Goldrahmen.,1056,94.4,False,positional,F.WENDLER,,,,
 BO0624_88209,350842,403,312,"Burg am Meer. Marktplatz in Kissingen.Auf dem Marktplatz, den alte Hauser einrahmen,ein reges Markttreiben; die Marktweiber unter ihren Schirmen. Bez.: A. Schnee.",1061,95.0,False,positional,PROF.A.SCHNEE,,,,
-BO0624_88209,350843,404,313,"Hollandisches Interieur. Blick in eine hollandische Kuche,in der ein Madchen mit Kartoffelschalen beschaftigt ist. Neben ihr ein Kupferkessel.Bez.:1907. Leinwand. 54X46cm.Goldrahmen.",1075,98.9,False,positional,O.HALLE,,ARREDAMENTI,,
+BO0624_88209,350843,404,313,"Hollandisches Interieur. Blick in eine hollandische Kuche,in der ein Madchen mit Kartoffelschalen beschaftigt ist. Neben ihr ein Kupferkessel.Bez.:1907. Leinwand. 54X46cm.Goldrahmen.",1075,98.9,False,positional,O.HALLE,,ARREDAMENTI,,Sec. XX
 BO0624_88209,350844,405,314,"Frauenstudie. In gelbem Kleide mit violettem Fichu, die Hande erhoben, mit einer Rose im Haar. Bez.:Osc. Halle. Leinwand. 90X65 cm.Goldrahmen.",1076,86.3,False,positional,O.HALLE,,,,
 BO0624_88209,350845,406,315,Kanal in Brugge. Im Hintergrunde Hauser und die Kirche. Bez.: Osc. Halle. Leinwand. 90X70 cm. Goldrahmen.,1078,72.6,False,positional,O.HALLE,,,,
 BO0624_88209,350846,407,316,"Am Granitzbach.""Karnten. Pastell. Bez.: Walter Wilda. X45 cm.Roter Rahmen.",1083,79.7,False,positional,WALTER WILDA,,CORNICI,,
-BO0624_88209,350847,408,317,Ruine im Schnce. Bez.: Walter Wilda 1910.,1085,94.9,False,positional,WALTER WILDA,,,,
-BO0624_88209,350848,409,318,Kapelle.Bez.:Walter Wilda 1912.,1087,93.5,False,positional,WALTER WILDA,,,,
+BO0624_88209,350847,408,317,Ruine im Schnce. Bez.: Walter Wilda 1910.,1085,94.9,False,positional,WALTER WILDA,,,,Sec. XX
+BO0624_88209,350848,409,318,Kapelle.Bez.:Walter Wilda 1912.,1087,93.5,False,positional,WALTER WILDA,,,,Sec. XX
 BO0624_88209,350849,410,319,Am Kanal bei sturmischem Wetter.Im Hintergrunde aufziehen des Gewitter.Bez.: C. H.Leickert. Leinwand. Goldrahmen.30X45 cm.,1093,67.0,False,positional,C.H. LEICKERT,,,,
 BO0624_88209,350850,411,320,Bildnis einer Dame mit weiBem Spitzentuch um die Schulter. Bez.:M.Wunsch.,1097,97.2,False,positional,MARIE WUNSCH,,,,
 BO0624_88209,350851,412,321,Schmiede im Winter beim Scheine der untergehenden Sonne. Bez.: W.Moras.,1102,90.8,False,positional,W.MORAS,,,,
 BO0624_88209,350852,413,322,Schooncr an der Kuste in Fahrt. Bez.:E. Hermann. Leinwand.70X55 cm.Goldrahmen.,1109,97.3,False,positional,E.HERMANN,,,,
-BO0624_88209,350853,414,323,Aufzichendes Gewitter am Rabenstein in Karnten. Bez.: W. Wilda. 1910.,1113,96.9,False,positional,WALTER WILDA,,,,
+BO0624_88209,350853,414,323,Aufzichendes Gewitter am Rabenstein in Karnten. Bez.: W. Wilda. 1910.,1113,96.9,False,positional,WALTER WILDA,,,,Sec. XX
 BO0624_88209,350854,415,324,Stilleben. Tulpen und Narzissen in Glasern. Bez.:Wilda. Holz.32X20 cm.Goldrahmen.,1117,97.4,False,positional,WALTER WILDA,,OGGETTI IN LEGNO,,
 BO0624_88209,350855,416,1581,164l.Bologna=Neapel.,1121,88.4,False,positional,DOMENICO ZAMPIERI,Scuola Bolognese,,,
 BO0624_88209,350856,417,324,a. Christus am Kreuze. Der hellbeleuchtete Korper Christi mit hoch# hangenden Armen vor dem dunklen Nachthimmel. In der Tiefe Jerusalem mit hellem Himmel iber der Stadt. Leinwand.Goldrahmen. Abbildung Tafel VIlI.,1123,99.3,False,positional,DOMENICO ZAMPIERI,,,,
-BO0624_88209,350857,418,325,Kaiscr Wilhelm II im Yachtklubjackett. Bez.: M.Fritze.1898. Leinwand. Goldrahmen.140x95 cm.,1127,97.7,False,positional,MARGARETE FRITZE,,,,
-BO0624_88209,350858,419,1769,1830.Bristol=London.,1131,88.4,False,positional,SIR THOMAS LAWRENCE,,,,
+BO0624_88209,350857,418,325,Kaiscr Wilhelm II im Yachtklubjackett. Bez.: M.Fritze.1898. Leinwand. Goldrahmen.140x95 cm.,1127,97.7,False,positional,MARGARETE FRITZE,,,,Sec. XIX
+BO0624_88209,350858,419,1769,1830.Bristol=London.,1131,88.4,False,positional,SIR THOMAS LAWRENCE,,,,Sec. XIX
 BO0624_88209,350859,420,325,a. Bildnis eines Mr. Simson von dreiviertel Profil gesehen mit Vater#,1133,97.8,False,positional,SIR THOMAS LAWRENCE,,,,
 BO0624_88209,350860,421,326,"Der Antiquitatensammler. An seinem Arbeitstische, der mit Anti# quitaten, Stoffen, Schmucksachen,Pokalen und so weiter iberhauft ist, sitzt der alte weiBbartige Sammler, hinter ihm eine junge Frau in seidenem Kleid, ihm ein Schmuckstuck reichend.  Bez.:Rosa",1140,99.2,False,positional,ROSA SCHWENINGER,,,,
 BO0624_88209,350861,422,2,"Schweninger,Wien.",1141,94.1,False,positional,ROSA SCHWENINGER,Scuola Viennese,,,
-BO0624_88209,350862,423,1579,1657.Antwerpen.,1146,84.8,False,positional,FRANZ SNYDERS,,,,
+BO0624_88209,350862,423,1579,1657.Antwerpen.,1146,84.8,False,positional,FRANZ SNYDERS,,,,Sec. XVII
 BO0624_88209,350863,424,326,a. Stilleben. Totes Geflugel und Hase an der Wand hangend und auf dem Boden liegend.,1148,98.2,False,positional,FRANZ SNYDERS,,,,
-BO0624_88209,350864,425,1621,1664.Amsterdam -Utrecht.,1154,89.8,False,positional,J.B.WLENIX,,,,
+BO0624_88209,350864,425,1621,1664.Amsterdam -Utrecht.,1154,89.8,False,positional,J.B.WLENIX,,,,Sec. XVII
 BO0624_88209,350865,426,326,"b. Ialienische Landschaff mit Architektur und Staffage. c. Grobe Prunkstanduhr. Rocaillewerk mit Blumen,Vogeln und",1158,66.3,False,positional,J.B.WLENIX,,,,
 BO0624_88209,350866,427,327,"Kornernte. Sonnenbeschienenes Kornfeld. Im Vordergrunde zwei Frauen mit Binden von Garben beschaftigt,dahinter ein mahender Mann.",1165,98.4,False,positional,E.RICHTER,,,,
 BO0624_88209,350867,428,328,"Klosterpforte in Frauenworth. Olgemalde.40X31,5 cm.Holzrahmen.",1172,68.8,False,positional,ELISABETH BINDEMANN,,,,
@@ -434,7 +434,7 @@ BO0624_88209,350871,432,332,"Reiter am Waldrand. Auf einem Schimmel sitzt ein Re
 BO0624_88209,350872,433,333,"Marktplatz in Kissingen.Auf dem Marktplatz,den alte Hauser einrahmen, ein reges Markttreiben; die Marktweiber unter ihren Schirmen. Bez.: A. Schnee. Leinwand.75X100 cm.Goldrahmen.",1198,81.0,False,positional,PROF.A.SCHNEE,,,,
 BO0624_88209,350873,434,334,Winterlandschaft.Durch eine beschneite Landschaft flieBt ein Bach. Truber Himmel. Bez.:F. Mewes.,1203,97.8,False,positional,F.MEWES,,,,
 BO0624_88209,350874,435,335,Schliten von Wolfen angefallen. Bez.: C. Stoiloff. Leinwand. 20X31 cm. Goldrahmen.,1208,73.2,False,positional,C.STOILOFF,,,,
-BO0624_88209,350875,436,336,Herbststimmung.Waldlichtung mit gelben Baumen.R Breuer 1908.,1213,96.7,False,positional,CLARA BREUER,,,,
+BO0624_88209,350875,436,336,Herbststimmung.Waldlichtung mit gelben Baumen.R Breuer 1908.,1213,96.7,False,positional,CLARA BREUER,,,,Sec. XX
 BO0624_88209,350876,437,337,"Motiv aus Nurnberg. Im Vordergrunde die Pegnitz, dahinter die Hauser der Stadt. Bez.: R. Duschek. Aquarell. 30X44 cm. Schwarzer Rahmen.",1217,98.4,False,positional,R. DUSCHEK,Scuola di Norimberga,CORNICI,,
 BO0624_88209,350877,438,338,Russische Bauern im Schlitten durch die Landschaft fahrend.,1221,96.7,False,positional,S.KORNATZKI,,,,
 BO0624_88209,350878,439,2,Bez.: S. Kornatzki.,1222,93.8,False,positional,S.KORNATZKI,,,,
@@ -494,8 +494,8 @@ BO0624_88209,350931,492,385,Gotischer Scssel mit Rohrgeflecht.,1329,94.3,False,p
 BO0624_88209,350932,493,386,"Renaissancestuhl, geschnitzte Rucklehne mit Wappen.",1330,96.1,False,positional,,,GEPRESSTES UND GEPUNZTES LEDER,,
 BO0624_88209,350933,494,387,Bauernstuhl mit geschnitzter Rucklehne.,1331,95.0,False,positional,,,GEPRESSTES UND GEPUNZTES LEDER,,
 BO0624_88209,350934,495,388,"Bauernstuhl mit geschnitzter Rucklehne, Faunmaske.",1332,96.0,False,positional,,,GEPRESSTES UND GEPUNZTES LEDER,,
-BO0624_88209,350935,496,389,"Kleiner Sessel, geschnitzte Beine und Querverbindung. 1912.Berlin.",1333,86.4,False,positional,,Scuola di Berlino,GEPRESSTES UND GEPUNZTES LEDER,,
-BO0624_88209,350936,497,390,"Portratstatuefte eines sitzenden Herrn. Im Schreibsessel sitzt, bequem zurickgelehnt, die Beine ibereinanderschlagend, den rechten Arm auf die Lehne legend und den linken aufstitzend, ein alterer Herr mit Schnurrbart. Gips,mit Schellack iberzogen. Hohe 36 cm. Bez.:Max Levi,1897.",1339,99.3,False,positional,MAX LEVI,,,,
+BO0624_88209,350935,496,389,"Kleiner Sessel, geschnitzte Beine und Querverbindung. 1912.Berlin.",1333,86.4,False,positional,,Scuola di Berlino,GEPRESSTES UND GEPUNZTES LEDER,,Sec. XX
+BO0624_88209,350936,497,390,"Portratstatuefte eines sitzenden Herrn. Im Schreibsessel sitzt, bequem zurickgelehnt, die Beine ibereinanderschlagend, den rechten Arm auf die Lehne legend und den linken aufstitzend, ein alterer Herr mit Schnurrbart. Gips,mit Schellack iberzogen. Hohe 36 cm. Bez.:Max Levi,1897.",1339,99.3,False,positional,MAX LEVI,,,,Sec. XIX
 BO0624_88209,350937,498,391,"Portatstatuette eines Herrn (des Bruders des Kunsters,Artur Levi). Der Herr stitzt die Linke auf einen Baumstamm und legt das linke Bein leicht iber das rechte, die FuBspitze aufstitzend. Gips. Hohe 35 cm.",1340,99.0,False,positional,MAX LEVI,,OGGETTI VARI,,
 BO0624_88209,350938,499,392,Smyrna Teppich. 400×500cm.,1341,66.7,False,positional,MAX LEVI,,,,
 BO0624_88209,350939,500,393,Orientalischer Teppich. 238×275cm.,1343,94.1,False,positional,MAX LEVI,,,,
@@ -519,16 +519,16 @@ BO0624_88209,350956,517,408,Odesseus und dic Freier.Bez.: H. Louis. Leinwand. 48
 BO0624_88209,350957,518,409,Der Aufstand der Darius.Bez.: H. Louis. Leinwand. 47X72 cm.Goldrahmen.,1395,97.0,False,positional,H.LOUIS,,,,
 BO0624_88209,350958,519,410,Oberon mit Titania auf einen von Schweinen gezogenen Wagen fliegend. Leinwand. 54X58 cm.Goldrahmen.,1396,98.0,False,positional,H.LOUIS,,,,
 BO0624_88209,350959,520,411,Fruhlingslandschaff.Unter Blutenbaumen ein junges Madchen mit zwei Zicklein. Bez.:B. Jossart. Leinwand.Goldrahmen.110X70 cm.,1400,98.3,False,positional,B.JOSSART,,,,
-BO0624_88209,350960,521,1863,- 412.Alpengluhen. Hochalpental mit fernen Bergen. Bez.:J. Schoppe. 1863.,1406,100.0,False,positional,J.SCHOPPE,,,,
+BO0624_88209,350960,521,1863,- 412.Alpengluhen. Hochalpental mit fernen Bergen. Bez.:J. Schoppe. 1863.,1406,100.0,False,positional,J.SCHOPPE,,,,Sec. XIX
 BO0624_88209,350961,522,1862,413. Winterlandschaff. Links Schlittschuhlaufer auf einem Kanal.,1413,100.0,False,positional,J.SCHOPPE,,,,
-BO0624_88209,350962,523,2,"Bez.: J. Schoppe, 1862. Leinwand.85X 125 cm.Goldrahmen.",1414,98.0,False,positional,J.SCHOPPE,,,,
+BO0624_88209,350962,523,2,"Bez.: J. Schoppe, 1862. Leinwand.85X 125 cm.Goldrahmen.",1414,98.0,False,positional,J.SCHOPPE,,,,Sec. XIX
 BO0624_88209,350963,524,414,Am Kanal. Kanal an einem Bauernhause mit Netzeflickern und Frau mit Trageimern.,1418,82.6,False,positional,W.LUDERS,,,,
 BO0624_88209,350964,525,415,415. Sackower Scc.,1427,100.0,False,positional,A.WACHENDORF,,,,
 BO0624_88209,350965,526,416,## 416. Lockwitzsee.,1433,100.0,False,positional,A.WACHENDORF,,,,
 BO0624_88209,350966,527,417,Waldlichtung bei Abenddammerung. Bez.:A.Wachendorf. Leinewand 60 X90 cm.Goldrahmen.,1438,97.5,False,positional,A.WACHENDORF,,,,
-BO0624_88209,350967,528,418,Drei Frauen.1887.Goldrahmen. X26cm.,1442,84.4,False,positional,ADOLF VON MENZEL,,Radierungen,,
-BO0624_88209,350968,529,419,Schluhvignette. 1888. Tod Kaiser Wilhelm I. Goldrahmen. 25×17cm.,1444,96.7,False,positional,ADOLF VON MENZEL,,Radierungen,,
-BO0624_88209,350969,530,420,Lesendes Madchcn. 1886. Goldrahmen. ×22cm.,1445,87.7,False,positional,ADOLF VON MENZEL,,Radierungen,,
-BO0624_88209,350970,531,421,Beim Chiant. 1889.Goldrahmen. 25×27cm.,1447,94.6,False,positional,ADOLF VON MENZEL,,Radierungen,,
+BO0624_88209,350967,528,418,Drei Frauen.1887.Goldrahmen. X26cm.,1442,84.4,False,positional,ADOLF VON MENZEL,,Radierungen,,Sec. XIX
+BO0624_88209,350968,529,419,Schluhvignette. 1888. Tod Kaiser Wilhelm I. Goldrahmen. 25×17cm.,1444,96.7,False,positional,ADOLF VON MENZEL,,Radierungen,,Sec. XIX
+BO0624_88209,350969,530,420,Lesendes Madchcn. 1886. Goldrahmen. ×22cm.,1445,87.7,False,positional,ADOLF VON MENZEL,,Radierungen,,Sec. XIX
+BO0624_88209,350970,531,421,Beim Chiant. 1889.Goldrahmen. 25×27cm.,1447,94.6,False,positional,ADOLF VON MENZEL,,Radierungen,,Sec. XIX
 BO0624_88209,350971,532,422,Der Raucher nach Tacciuss.Goldrahmen.,1451,94.7,False,positional,,,PORZELLANMALEREI,,
 BO0624_88209,350972,533,2,15×10cm.,1452,87.5,False,positional,,,PORZELLANMALEREI,,

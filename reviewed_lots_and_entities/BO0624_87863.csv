@@ -46,7 +46,7 @@ BO0624_87863,361370,44,66,"Das Bildnis eines vornehmen Herrn. L., schw. R.,h. 94
 BO0624_87863,361371,45,67,"Junger Edelmann in Rustung. L., G.R.,h. 63, b. 53. - 77",326,93.3,False,positional,,Anton van Dyck-Schule,,,
 BO0624_87863,361372,46,68,"Hirsch am Wasser. C., G.R.,h. 32, b. 37.",336,95.5,False,positional,Ludwig Voltz,,,,
 BO0624_87863,361373,47,69,"Gebirgslandschaft.L., G.R.,h.77,b. 64.",340,95.7,False,positional,Ludwig Voltz,,,,
-BO0624_87863,361374,48,70,"/7oa Zwei Hirtenleben. G.R.,h.14,b.18. Jacob Courtois Bourguignon,1621, 1678.",345,97.9,False,title_direct,Jacob Courtois Bourguignon,,,,
+BO0624_87863,361374,48,70,"/7oa Zwei Hirtenleben. G.R.,h.14,b.18. Jacob Courtois Bourguignon,1621, 1678.",345,97.9,False,title_direct,Jacob Courtois Bourguignon,,,,Sec. XVII
 BO0624_87863,361375,49,71,(Siehe Abbildung No. 71.),347,93.3,False,positional,Nicolas Berghem,,,,
 BO0624_87863,361376,50,72,"/72a Zwei Viehstuicke. L., G.R., h. 4I, b. 65.",351,96.0,False,positional,L.Sellmayr,,,,
 BO0624_87863,361377,51,74,Vorzuglich.,358,87.0,False,positional,A.Heine,,,,
@@ -93,7 +93,7 @@ BO0624_87863,361417,91,124,"Pferdemarkt. Zeichnung, schw. R.,h. 16,b.25.",564,95
 BO0624_87863,361418,92,115,- 611,566,100.0,False,positional,Emil Volkers,,,,
 BO0624_87863,361419,93,I20,- 121,568,100.0,False,positional,Emil Volkers,,,,
 BO0624_87863,361420,94,125,- 126,570,100.0,False,positional,Emil Volkers,,,,
-BO0624_87863,361421,95,127,"## Govaert Flinck,1615, 1660.",573,100.0,False,title_direct,Govaert Flinck,,,,
+BO0624_87863,361421,95,127,"## Govaert Flinck,1615, 1660.",573,100.0,False,title_direct,Govaert Flinck,,,,Sec. XVII
 BO0624_87863,361422,96,128,Architekturstuck.,587,88.9,False,positional,Robert Beyschlag,,,,
 BO0624_87863,361423,97,129,"Der Herbst. Kupferstich, schw.R.",592,93.5,False,positional,Robert Beyschlag,,OGGETTI IN RAME,,
 BO0624_87863,361424,98,130,"- 131 Die Hohle einer Barin etc. Kupferstich, schw. R., h. 35, b.27.",594,100.0,False,positional,Robert Beyschlag,,OGGETTI IN RAME,,
@@ -114,13 +114,13 @@ BO0624_87863,361438,112,146,"Christus als Erloser. K., schw. R.,h. 16, b. 12.",6
 BO0624_87863,361439,113,147,- 148,673,100.0,False,positional,Hans Eisele,,,,
 BO0624_87863,361440,114,149,"Ansicht von Venedig. L.,G.R.,h. 47, b. 56.",674,94.6,False,positional,Hans Eisele,,,,
 BO0624_87863,361441,115,150,"Kampfende Hirsche. L., G.R.,h. 48, b. 54.",675,94.3,False,positional,Hans Eisele,,,,
-BO0624_87863,361442,116,151,"Julius Lange, 1817, 1878, monogr.",682,100.0,False,title_direct,Julius Lange,,,,
+BO0624_87863,361442,116,151,"Julius Lange, 1817, 1878, monogr.",682,100.0,False,title_direct,Julius Lange,,,,Sec. XIX
 BO0624_87863,361443,117,152,"Partie von Etzenhausen. Aqu.,G.R.,h.3o,b.45.",684,95.2,False,positional,Hans Eisele,,,,
 BO0624_87863,361444,118,153,"Beim Geldwechsler. L.,G.R.,h.111, b.82.",688,94.4,False,positional,,Niederlandische Schule,,,
 BO0624_87863,361445,119,154,"Landschaftstudie. L., schw. R., h. 24,b. 30.",692,94.6,False,positional,Hans Eisele,,,,
 BO0624_87863,361446,120,155,"155a Seestick im Mondschein und am Leuchtturm. L., G.R,",696,96.2,False,positional,Brigner,,,,
 BO0624_87863,361447,121,156,"Gestrandetes Schiff. Aqu., schw.R.,h.16,b.23.",701,95.2,False,positional,F.Hunten,,,,
-BO0624_87863,361448,122,157,"Robert Eberle 1815,1860.",708,100.0,False,title_direct,Robert Erbe,,,,
+BO0624_87863,361448,122,157,"Robert Eberle 1815,1860.",708,100.0,False,title_direct,Robert Erbe,,,,Sec. XIX
 BO0624_87863,361449,123,158,"Schafe mit Hirten. Aqu., schw. R.,h 22, b. 24.",710,95.0,False,positional,F.Hunten,,,,
 BO0624_87863,361450,124,160,160,715,100.0,False,positional,Horst Hacker,,,,
 BO0624_87863,361451,125,161,"Der Abschied.Aqu., schw.R.,h. 22, b. 16. - 165 Auf Vorposten.",724,75.0,False,positional,C.Haeberlin,,,,
@@ -182,7 +182,7 @@ BO0624_87863,361506,180,233,"Zigeunerlager. L., schw. R.,h. 42,b. 27.",1041,94.1
 BO0624_87863,361507,181,225,Gebirgsbach.,1050,84.6,False,positional,,Italienische Schule,,,
 BO0624_87863,361508,182,226,- 232 Blumenstick,1052,100.0,False,positional,,Italienische Schule,OGGETTI VARI,,
 BO0624_87863,361509,183,234,b.15.,1053,66.7,False,positional,,Italienische Schule,,,
-BO0624_87863,361510,184,235,"## Wilhelm von Kaulbach,18o5, 1874.",1055,100.0,False,title_direct,Wilhelm von Kaulbach,,,,
+BO0624_87863,361510,184,235,"## Wilhelm von Kaulbach,18o5, 1874.",1055,100.0,False,title_direct,Wilhelm von Kaulbach,,,,Sec. XIX
 BO0624_87863,361511,185,236,"Entwurf v. Titelblatt Reinecke Fuchs&lt;. Bleist.Z.,G.R, h. I1,b.18.",1059,96.8,False,positional,Hans Eisele,,,,
 BO0624_87863,361512,186,237,"Weiblicher Studienkopf.C.G.-R.,h. 42,c. 34.",1060,95.0,False,positional,Hans Eisele,,,,
 BO0624_87863,361513,187,238,"/238a Zwei Stilleben. Fruichten. C.G.R,h.22,b.29.",1064,95.7,False,positional,Louis Reinhardt,,,,
@@ -198,7 +198,7 @@ BO0624_87863,361522,196,248,- Jagdabenteuer.,1109,100.0,False,positional,Aloys B
 BO0624_87863,361523,197,249,"Zwei Kinderkopfe. C., schw. R., h. 40, b. 50.",1113,94.6,False,positional,Hans Eisele,,,,
 BO0624_87863,361524,198,250,- 251,1126,100.0,False,positional,G. Closs,,,,
 BO0624_87863,361525,199,252,"Gebirgs-See. Schw. R.,h. 35, b. 45.",1127,93.3,False,positional,G. Closs,,,,
-BO0624_87863,361526,200,253,"## Eugen Neureuther,18o6, 1882.",1133,100.0,False,title_direct,Eugen Neureuther,,,,
+BO0624_87863,361526,200,253,"## Eugen Neureuther,18o6, 1882.",1133,100.0,False,title_direct,Eugen Neureuther,,,,Sec. XIX
 BO0624_87863,361527,201,256,"Die Flucht nach Egypten H., schw. R.,h.48, b. 34.",1142,95.5,False,positional,Louis Reinhardt,,,,
 BO0624_87863,361528,202,257,"Kuhe im Stalle. Aqu.,G.R.,h.6,b.9.",1146,93.8,False,positional,Louis Reinhardt,,,,
 BO0624_87863,361529,203,260,"Ein Edelfraulein. Bleist.Z.,R.,h.18, b.II.",1159,94.9,False,positional,Robert Beyschlag,,,,
@@ -226,7 +226,7 @@ BO0624_87863,361550,224,286,"Landschaft mit Birken. L.,G.R.,h. 75, b. 6o.",1275,
 BO0624_87863,361551,225,288,"Viehherde am Wasser. L., schw. R,h.22, b 45.",1283,95.0,False,positional,Hans Eisele,,,,
 BO0624_87863,361552,226,289,"Winterabend.L.,G.R.,h.25,b.33",1287,93.1,False,positional,Hans Eisele,,,,
 BO0624_87863,361553,227,291,"Das Bildnis eines Churfursten von Mainz. L., G.R. Erlegte Gemse.",1295,83.3,False,positional,Hans Eisele,,,,
-BO0624_87863,361554,228,292,"## Friedrich Voltz,1817,↑ 1886,monogr.",1299,100.0,False,title_direct,Friedrich Voltz,,,,
+BO0624_87863,361554,228,292,"## Friedrich Voltz,1817,↑ 1886,monogr.",1299,100.0,False,title_direct,Friedrich Voltz,,,,Sec. XIX
 BO0624_87863,361555,229,293,Treppe in Maulbronn.,1306,90.5,False,positional,Friedrich Voltz,,,,
 BO0624_87863,361556,230,295,"Der erlegte Fuchs. C., G.R.,h. 18, b. 31.",1314,94.3,False,positional,Ludwig Voltz,,,,
 BO0624_87863,361557,231,298,- 299,1329,100.0,False,positional,Ludwig Voltz,,,,

@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_81766,6121,1,1,Deux plats en cuivre,76,95.2,False,title_direct,,,plat,,
-BO0624_81766,6122,2,I,"ncunable Bolonais du 1485,avec reliure a im- pression.",155,99.0,False,positional,,,plats,,
+BO0624_81766,6122,2,I,"ncunable Bolonais du 1485,avec reliure a im- pression.",155,99.0,False,positional,,,plats,,Sec. XV
 BO0624_81766,6123,3,16,16. Deux dessins,157,100.0,False,positional,,,plats,,
 BO0624_81766,6124,4,17,17.Grande initiale,161,100.0,False,positional,,,plats,,
 BO0624_81766,6125,5,18,## 18.Fragment,166,100.0,False,title_direct,,,Fragment,,

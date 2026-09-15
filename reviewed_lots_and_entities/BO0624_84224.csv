@@ -1,43 +1,43 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84224,382139,1,1819,1g00.,16,61.5,False,positional,CLAYS,,,,
-BO0624_84224,382140,2,1796,1875.,29,61.5,False,positional,COROT,,,,
+BO0624_84224,382140,2,1796,1875.,29,61.5,False,positional,COROT,,,,Sec. XIX
 BO0624_84224,382141,3,3,## La Montagne.,33,100.0,False,positional,COROT,,,,
-BO0624_84224,382142,4,1798,1863.,44,61.5,False,positional,DELACROIX,,,,
-BO0624_84224,382143,5,5,## Tete d'homme. 1876.,63,82.8,False,positional,DELAROCHE,,,,
+BO0624_84224,382142,4,1798,1863.,44,61.5,False,positional,DELACROIX,,,,Sec. XIX
+BO0624_84224,382143,5,5,## Tete d'homme. 1876.,63,82.8,False,positional,DELAROCHE,,,,Sec. XIX
 BO0624_84224,382144,6,6,## L'Enfant aux chiens.,77,100.0,False,positional,DIAZ DE LA PENA,,,,
-BO0624_84224,382145,7,1838,1874.,98,61.5,False,positional,FORTUNY,,,,
+BO0624_84224,382145,7,1838,1874.,98,61.5,False,positional,FORTUNY,,,,Sec. XIX
 BO0624_84224,382146,8,8,## Esope.,102,100.0,False,positional,FORTUNY,,,,
 BO0624_84224,382147,9,9,"## Palais au bord d'un canal, a Venise.",115,100.0,False,positional,FROMENTIN,,,,
 BO0624_84224,382148,10,10,## L'Oiseleur.,128,100.0,False,positional,LEVY,,,,
 BO0624_84224,382149,11,11,## Portrait du peintre.,138,100.0,False,positional,MANCINI,,,,
 BO0624_84224,382150,12,12,Jeune Berger blesse.,146,100.0,False,positional,MANCINI,,,,
-BO0624_84224,382151,13,13,## Etude d'officier superieur pour《1814）.,155,100.0,False,positional,MEISSONIER,,,,
+BO0624_84224,382151,13,13,## Etude d'officier superieur pour《1814）.,155,100.0,False,positional,MEISSONIER,,,,Sec. XIX
 BO0624_84224,382152,14,14,## Cheval blanc.,169,100.0,False,positional,MEISSONIER,,,,
 BO0624_84224,382153,15,15,## Les Fumeurs.,183,100.0,False,positional,MEISSONIER,,,,
 BO0624_84224,382154,16,16,"## La Cote d'azur, pres de Beaulieu.",198,100.0,False,positional,MEISSONIER,,,,
 BO0624_84224,382155,17,17,## Cheval galopant.,212,100.0,False,positional,MEISSONIER,,,,
 BO0624_84224,382156,18,18,## Cuirassier en selle.,232,100.0,False,positional,MEISSONIER,,,,
-BO0624_84224,382157,19,19,## L'Aiguille d'Etretat. 1898.,249,88.9,False,positional,MONET,,,,
-BO0624_84224,382158,20,20,## Le Jeune Homme et la Mort. 1884.,264,90.9,False,positional,MOREAU,,,,
-BO0624_84224,382159,21,21,## Effet de neige. 1875.,309,84.8,False,positional,NITTIS,,,,
-BO0624_84224,382160,22,22,## Tete de zouave. 1871.,323,84.8,False,positional,PILS,,,,
+BO0624_84224,382157,19,19,## L'Aiguille d'Etretat. 1898.,249,88.9,False,positional,MONET,,,,Sec. XIX
+BO0624_84224,382158,20,20,## Le Jeune Homme et la Mort. 1884.,264,90.9,False,positional,MOREAU,,,,Sec. XIX
+BO0624_84224,382159,21,21,## Effet de neige. 1875.,309,84.8,False,positional,NITTIS,,,,Sec. XIX
+BO0624_84224,382160,22,22,## Tete de zouave. 1871.,323,84.8,False,positional,PILS,,,,Sec. XIX
 BO0624_84224,382161,23,23,## Un Coin de l'Alhambra.,340,100.0,False,positional,REGNAULT,,,,
-BO0624_84224,382162,24,24,## En Garde. 1858.,355,76.2,False,positional,REGNAULT,,,,
+BO0624_84224,382162,24,24,## En Garde. 1858.,355,76.2,False,positional,REGNAULT,,,,Sec. XIX
 BO0624_84224,382163,25,25,## Marguerite en priere.,371,100.0,False,positional,SCHEFFER,,,,
 BO0624_84224,382164,26,26,## Le Docteur Faust.·,385,100.0,False,positional,SCHEFFER,,,,
 BO0624_84224,382165,27,I,"l est penche sur un gros in-folio; derriere lui, dans lombre, Mephisto apparait.",387,99.3,False,positional,SCHEFFER,,,,
 BO0624_84224,382166,28,1828,1g06.,396,61.5,False,positional,STEVENS,,,,
-BO0624_84224,382167,29,27,## Au large du Haore. 1865.,400,87.2,False,positional,STEVENS,,,,
-BO0624_84224,382168,30,28,## Bucherons debitant un tronc d'arbre. 1860.,414,93.3,False,positional,TROYON,,,,
+BO0624_84224,382167,29,27,## Au large du Haore. 1865.,400,87.2,False,positional,STEVENS,,,,Sec. XIX
+BO0624_84224,382168,30,28,## Bucherons debitant un tronc d'arbre. 1860.,414,93.3,False,positional,TROYON,,,,Sec. XIX
 BO0624_84224,382169,31,29,## Grec tirant sur les Turcs.,433,100.0,False,positional,DECAMPS,,,,
-BO0624_84224,382170,32,30,## Etude de figure orientale assise. g-1916.,450,90.1,False,positional,FROMENTIN,,,,
+BO0624_84224,382170,32,30,## Etude de figure orientale assise. g-1916.,450,90.1,False,positional,FROMENTIN,,,,Sec. XX
 BO0624_84224,382171,33,31,## Le Chemin creux.,466,100.0,False,positional,HARPIGNIES,,,,
 BO0624_84224,382172,34,32,## L'Arc-en-ciel.,475,100.0,False,positional,MILLET,,,,
-BO0624_84224,382173,35,33,## L'Hiver. 1898.,490,73.7,False,positional,MILLET,,,,
+BO0624_84224,382173,35,33,## L'Hiver. 1898.,490,73.7,False,positional,MILLET,,,,Sec. XIX
 BO0624_84224,382174,36,34,## Salome.,509,100.0,False,positional,MOREAU,,,,
-BO0624_84224,382175,37,35,## Jesus au jardin des Olioiers. 1875.,527,91.8,False,positional,MOREAU,,,,
+BO0624_84224,382175,37,35,## Jesus au jardin des Olioiers. 1875.,527,91.8,False,positional,MOREAU,,,,Sec. XIX
 BO0624_84224,382176,38,36,"## Femme assise, a la cape rouge.",546,100.0,False,positional,PILS,,,,
-BO0624_84224,382177,39,38,L'Homme a la gourde. 1917.,577,88.4,False,positional,GEMITO,,,,
+BO0624_84224,382177,39,38,L'Homme a la gourde. 1917.,577,88.4,False,positional,GEMITO,,,,Sec. XX
 BO0624_84224,382178,40,39,L'Amour qui passe ou le Songe.,587,100.0,False,positional,GEMITO,,,,
 BO0624_84224,382179,41,40,Un Sacrifice.,598,100.0,False,positional,GEMITO,,,,
 BO0624_84224,382180,42,42,## La Piazzetta.,628,100.0,False,positional,GUARDI,,,,

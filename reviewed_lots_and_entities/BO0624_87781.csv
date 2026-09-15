@@ -6,7 +6,7 @@ BO0624_87781,544552,4,4,Angegebene Mabe verstehen sich bei Gemalden ohne Rahmen.
 BO0624_87781,544553,5,5,"Gesteigert wird mindestens um 1 Mk., iber 100 um 5 Mk, Von der Reihenfolge wird nur ausnahmsweise abgewichen.",7,99.1,False,none,,,,,
 BO0624_87781,544554,6,6,Ein Aufschlag zur Kaufsumme wird vom Kaufer mit 5% erhoben.,8,98.3,False,none,,,,,
 BO0624_87781,544555,7,7,Bei Streitigkeiten iber den Zuschlag wird der betreffende Gegenstand noch einmal ausgeboten.,9,98.9,False,none,,,,,
-BO0624_87781,544556,8,8,"Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los. (Ges. v. 10. Juli 1902.)",10,99.1,False,none,,,,,
+BO0624_87781,544556,8,8,"Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los. (Ges. v. 10. Juli 1902.)",10,99.1,False,none,,,,,Sec. XX
 BO0624_87781,544557,9,1,"Brustbild eines Philosophen,der ein Buch halt.",25,97.8,False,positional,J.BERGER,,,,
 BO0624_87781,544558,10,2,Brustbild der Madonna mit gekreuzten Handen. Leinwand.H.45 cm.B.36 cm.G-R.,31,98.6,False,positional,CARLO DOLCE,,,,
 BO0624_87781,544559,11,3,Ein junger Mann und ein junges Madchen an einer Tonne sitzend und trinkend.,35,98.7,False,positional,G. SCHALCKEN,,,,
@@ -41,9 +41,9 @@ BO0624_87781,544587,39,33,Venetianische Ansicht mit vielen Kostumfiguren im Vord
 BO0624_87781,544588,40,34,"Der heilige Antonius vor einem Kruzifixe kniend wird durch ein Weib,welches einen goldenen Becher halt, in Versuchung gefuhrt. Im Umkreis bemerkt man Ungeheuer und Damonen.",168,99.1,False,positional,DAVID TENIERS,,VASI,,
 BO0624_87781,544589,41,35,Ein schon komponierter BlumenstrauB. Vorziglich gemaltes Bild auf Leinwand mit dem Namen des Kinstlers.H.83 cm.B.68cm.S.R.,174,98.8,False,positional,PETER CASTEELS,,,,
 BO0624_87781,544590,42,36,"Niederlandisches Kuchen-Interieur mit Kochin,welche Kartoffeln schalt. Durch",178,98.0,False,positional,Q.G.VAN BREKELENKAM,,ARREDAMENTI,,
-BO0624_87781,544591,43,37,"Fruchte,wobei Weintrauben,Zitronen,Orangen usw. Schones Bild auf Leinwand.In der Mitte unten signiert.1660.H.44 cm.B.66 cm.S.R.",187,98.8,False,positional,J.P.GILLEMANS,,,,
-BO0624_87781,544592,44,1633,1683.,191,61.5,False,positional,FREDERIK MOUCHERON; A.v.de VELDE,,,,
-BO0624_87781,544593,45,1635,1672.,193,61.5,False,positional,FREDERIK MOUCHERON; A.v.de VELDE,,,,
+BO0624_87781,544591,43,37,"Fruchte,wobei Weintrauben,Zitronen,Orangen usw. Schones Bild auf Leinwand.In der Mitte unten signiert.1660.H.44 cm.B.66 cm.S.R.",187,98.8,False,positional,J.P.GILLEMANS,,,,Sec. XVII
+BO0624_87781,544592,44,1633,1683.,191,61.5,False,positional,FREDERIK MOUCHERON; A.v.de VELDE,,,,Sec. XVII
+BO0624_87781,544593,45,1635,1672.,193,61.5,False,positional,FREDERIK MOUCHERON; A.v.de VELDE,,,,Sec. XVII
 BO0624_87781,544594,46,38,Eine Parklandschaft mit Terrassen und Springbrunnen. Im Vordergrunde ein vornehmes Paar zu Pferde.,195,98.5,False,positional,FREDERIK MOUCHERON; A.v.de VELDE,,,,
 BO0624_87781,544595,47,39,Grobes Stilleben mit Blumenbukett in einer skulptierten Vase.,201,97.6,False,positional,J.v. HUIJSUM,,VASI,,
 BO0624_87781,544596,48,40,"Auf einer Zinnschussel aufgebrochener Granatapfel. Daneben Weintraube, Zitrone usw.",206,98.2,False,positional,J. DE HEEM,,,,
@@ -93,7 +93,7 @@ BO0624_87781,544639,91,86,Weites Gebirgstal von einem Flusse durchstromt. Am Ufe
 BO0624_87781,544640,92,87,87. Reiterschlacht in der Nahe eines Flusses.,442,100.0,False,positional,A.F.v.d.MEULEN,,OGGETTI VARI,,
 BO0624_87781,544641,93,88,88.Steinkartusche mit der Madonna.,452,64.1,False,positional,DANIEL SEGHERS,,,,
 BO0624_87781,544642,94,89,Brustbild einer jungen Furstin in reichem Kostum und prachtigem Spitzenkragen. Leinwand.Schones und interessantesKostimbild.H.64 cm.B.51 cm.S.R.,461,69.4,False,positional,ANGIOLO BRONZINO,,,,
-BO0624_87781,544643,95,90,"Halbfigur der Lucretia,welche sich einen Dolch in die Brust stoBt. Rechts imGrumde die Jahreszahl 1535.und darunter der Drache.Holz.H.76 cm.B.50 cm.G-R.Siehe ReprodaktionaufTafel VIIl.",467,99.2,False,positional,LUCAS CRANACH,,OGGETTI IN LEGNO,,
+BO0624_87781,544643,95,90,"Halbfigur der Lucretia,welche sich einen Dolch in die Brust stoBt. Rechts imGrumde die Jahreszahl 1535.und darunter der Drache.Holz.H.76 cm.B.50 cm.G-R.Siehe ReprodaktionaufTafel VIIl.",467,99.2,False,positional,LUCAS CRANACH,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_87781,544644,96,91,"GroBe Darstellung der Sintflut. Im Vordergrunde rechts zahlreiche Menschen, welche sich auf einen Berggipfel gerettet haben. Links Noah mit seinem Gefolge",471,99.0,False,positional,HENRI DE BLEES,,,,
 BO0624_87781,544645,97,2,die Arche besteigend.,472,95.2,False,positional,HENRI DE BLEES,,,,
 BO0624_87781,544646,98,I,"nteressantes Bild auf Holz,welches auch dem Hemessen zugeschrieben wird.H.129 cm.B.226cm.S.R.",474,99.5,False,positional,HENRI DE BLEES,,OGGETTI IN LEGNO,,
@@ -143,7 +143,7 @@ BO0624_87781,544689,141,133,Eremit in Verehrung des Kruzifixes. Er sitzt vor ein
 BO0624_87781,544690,142,134,Allegorie. Zwei weibliche Halbfiguren mit Amor und Bacchus.,708,96.6,False,positional,J. JORDAENS,,,,
 BO0624_87781,544691,143,135,Eine Magd verteidigt sich gegen einen verliebten Alten. Freie Darstellung.,713,97.3,False,positional,JAN STEEN,,,,
 BO0624_87781,544692,144,136,"Halbfigur eines Mannes in schwarzer Kleidung, welcher in der Rechten einen Brief halt.",716,90.7,False,positional,,SPANISCHE SCHULE,,,
-BO0624_87781,544693,145,137,"Auf einem Tische gekochter Schinken, Austern, Brot, verschiedene Fruchte usw. Kraiftig in der Wirkang. Rechts das Momogramm P.C.1652.Holz.H.50 cm.B.68 cm.G.R.",724,68.1,False,positional,P.CLAESZ,,OGGETTI IN LEGNO,,
+BO0624_87781,544693,145,137,"Auf einem Tische gekochter Schinken, Austern, Brot, verschiedene Fruchte usw. Kraiftig in der Wirkang. Rechts das Momogramm P.C.1652.Holz.H.50 cm.B.68 cm.G.R.",724,68.1,False,positional,P.CLAESZ,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87781,544694,146,138,Orpheus die Leier spielend. Im Umkreis sind zuhorende Tiere versammelt. Holz.H.45 cm.B.68cm.S.R.,728,97.9,False,positional,R. SAVERY,,OGGETTI IN LEGNO,,
 BO0624_87781,544695,147,139,Brustbild eines Mannes in schwarzer Kleidung und Muhlsteinkragen. Leinwand.H.77cm.B.62 cm.G.R.,732,97.9,False,positional,R. SAVERY,,,,
 BO0624_87781,544696,148,140,Das Angesicht Christi von einer lateinischen Inschrift umgeben. Leinwand.H.50 cm.B.39 cm.G.-R.,733,97.8,False,positional,R. SAVERY,,,,
@@ -162,7 +162,7 @@ BO0624_87781,544708,160,152,Kopf eines bartlosen alten Mannes. Holz.H.53cm.B.42c
 BO0624_87781,544709,161,153,"Ein Bauer, im Wirtshaus schlafend, wird von einem Knaben bestohlen. Im Hintergrunde eine alte Frau. Holz.Rechts am Tischrande der Name des A.v.Ostade.H.33 cm.B.23 cm.G.R.",794,98.8,False,positional,A.v. OSTADE,,OGGETTI IN LEGNO,,
 BO0624_87781,544710,162,154,"BlumenstrauB in einem Wasserglas,daneben Insekten. Sehr fein gemaltesBildchen auf Holzmit dem Namen des Kinstlers.H.40 cm.B.31cm.G.R.",799,76.6,False,positional,FRANZ XAVER PETTER,,,,
 BO0624_87781,544711,163,155,Am felsigen Ufer eines Flusses Hirten mit ihren Tieren. Als Hauptgruppe junge Frau auf einem Schimmel sitzend. Leinwand.Das Bild ist in der rechten Ecke falschlich mit dem Monogramm P.W.bezeichnet.H.51 cm. B.66cm.G-R.,803,99.1,False,positional,NICOLAAS BERCHEM,,,,
-BO0624_87781,544712,164,156,Portrat eines jungen Mannes mit Schlapphut und Muhlsteinkragen. a. Huftbild eines Kavaliers mit kurzgeschnittenem Bart und Haar. Links oben ein Wappen mit Hundekopfen und der Jahreszahl 1564. Schones Portrit auf Holz.H.70 cm.B.58 cm.S.R.,811,83.7,False,positional,ANTON MOR VAN DASHORST,,OGGETTI IN LEGNO,,
+BO0624_87781,544712,164,156,Portrat eines jungen Mannes mit Schlapphut und Muhlsteinkragen. a. Huftbild eines Kavaliers mit kurzgeschnittenem Bart und Haar. Links oben ein Wappen mit Hundekopfen und der Jahreszahl 1564. Schones Portrit auf Holz.H.70 cm.B.58 cm.S.R.,811,83.7,False,positional,ANTON MOR VAN DASHORST,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_87781,544713,165,157,Landschaft mit groBem Baum im Vordergrunde. Staffiert. Sehr schones Pastellmit dem Kinstlernamen.H.44cm.B.35cm.Gerahmt.,815,98.3,False,positional,BOCK,,,,
 BO0624_87781,544714,166,158,"Brustbild einer alten Frau mit Pelzmitze. Hibsches,in der Manier des Denner gemaltes Bild.H.46 cm.B.36 cm.G.R.",819,98.2,False,positional,SEBOLD,,,,
 BO0624_87781,544715,167,159,Der Gunch. Eine junge Frau reinigt ihr Kind. Rechts ein Mann mit Tabaks-,824,97.2,False,positional,,NIEDERLANDISCHER KUNSTLER,,,

@@ -1,14 +1,14 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87492,447878,1,1,4 Blatt: Die Folge der Rheinansichten. H. Sachtleven inv. qu.fol.B.18-21.,11,98.6,False,positional,JAN VAN AKEN,,,,
-BO0624_87492,447879,2,2,Loth empfangt die Engel bei sich. 1555: B.14.,17,97.7,False,positional,HEINRICH ALDEGREVER,,,,
-BO0624_87492,447880,3,3,Loth mit seinen Tochtern. 1555. B.17.,19,97.1,False,positional,HEINRICH ALDEGREVER,,,,
-BO0624_87492,447881,4,4,Sophonisbe. 1553. B. 62.,21,95.2,False,positional,HEINRICH ALDEGREVER,,,,
+BO0624_87492,447879,2,2,Loth empfangt die Engel bei sich. 1555: B.14.,17,97.7,False,positional,HEINRICH ALDEGREVER,,,,Sec. XVI
+BO0624_87492,447880,3,3,Loth mit seinen Tochtern. 1555. B.17.,19,97.1,False,positional,HEINRICH ALDEGREVER,,,,Sec. XVI
+BO0624_87492,447881,4,4,Sophonisbe. 1553. B. 62.,21,95.2,False,positional,HEINRICH ALDEGREVER,,,,Sec. XVI
 BO0624_87492,447882,5,5,"Grosse Landschaft mit einen Baum umtanzenden Amoretten. Nach M. A. Franceschini. Roy. qu. fol. Mey. 53. nteressanter Abdruck auf Pergament,ohne Kinstlernamen.",27,77.0,False,positional,FRANCESCO BARTOLOZZI,,,,
 BO0624_87492,447883,6,6,Bauer eine sich straubende junge Frau liebkosend. B. 24.,33,98.1,False,positional,CORNELIUS BEGA,,,,
 BO0624_87492,447884,7,7,Die Familie im Zimmer. B.30.,35,98.1,False,positional,CORNELIUS BEGA,,,,
-BO0624_87492,447885,8,8,"Moses und Aaron. 1526.B.8. Aum.9. Sehr schoner klarer Abdruck,mit Randchen.",41,99.3,False,positional,HANS SEBALD BEHAM,,,,
+BO0624_87492,447885,8,8,"Moses und Aaron. 1526.B.8. Aum.9. Sehr schoner klarer Abdruck,mit Randchen.",41,99.3,False,positional,HANS SEBALD BEHAM,,,,Sec. XVI
 BO0624_87492,447886,9,9,Judith mit ihrer Magd. B. 1l. A. 12. Mit restaurirten Stellen und,42,98.4,False,positional,HANS SEBALD BEHAM,,,,
-BO0624_87492,447887,10,10,Der Tod bemachtigt sich einer nackten Frau. 1546. B.15o. A.163. Randchen angesetzt.,47,98.1,False,positional,HANS SEBALD BEHAM,,,,
+BO0624_87492,447887,10,10,Der Tod bemachtigt sich einer nackten Frau. 1546. B.15o. A.163. Randchen angesetzt.,47,98.1,False,positional,HANS SEBALD BEHAM,,,,Sec. XVI
 BO0624_87492,447888,11,11,"Die pissende Kuh. B.2. Hauptblatt in ausgezeichnetem zweiten Abdruck mit dem Namen des Meisters, aber vor der Adresse des de Wit;die Aetzflecken rechts sehr stark sichtbar. Auf Schellenkappenpapier,mit viel Rand; rechts wasserfleckig.Aeusserst",53,99.4,False,positional,NICOLAS BERGHEM,,,,
 BO0624_87492,447889,12,12,Der Flote spielende Hirt.B.6.,57,94.9,False,positional,NICOLAS BERGHEM,,,,
 BO0624_87492,447890,13,13,Die den Bach iberschreitende Heerde. B.9.,59,96.3,False,positional,NICOLAS BERGHEM,,,,
@@ -131,16 +131,16 @@ BO0624_87492,448006,129,I34,"Der Tanz am Ufer des Flusses. R.-D. 6. Ausgezeichne
 BO0624_87492,448007,130,135,Der Tanz unter den Baumen. R.D.1o.,438,94.1,False,positional,CLAUDE GELLEE; LE LORRAIN,,,,
 BO0624_87492,448008,131,136,"Die Landschaft mit der ziehenden Heerde im Sturm. R.D.18. Vorziglicher wohlerhaltener zweiter Abdruck,vor den sich kreuzenden Strichen links am Thurm. Mit Rand. Sehr selten. Sammlung Liphart.",444,98.9,False,positional,CLAUDE GELLEE; LE LORRAIN,,,COLLEZIONE LIPHART,
 BO0624_87492,448009,132,137,"Die Landschaft mit Saturn, Apollo und den Jahreszeiten. R.D.20.",445,96.8,False,positional,CLAUDE GELLEE; LE LORRAIN,,,,
-BO0624_87492,448010,133,138,"Christus im Schoosse der Maria, genannt: &gt;die Pieta.&amp; B. 41. Capitalblatt in ausgezeichnetem Abdruck von erster Schonheit und tadelloser Erhaltung. Mitbreitem Rande.Auf der Rickseite bezeichnet:&gt;P.Mariette 1687&amp;",450,99.1,False,positional,HENDRIK GOLTZIUS,,,,
+BO0624_87492,448010,133,138,"Christus im Schoosse der Maria, genannt: &gt;die Pieta.&amp; B. 41. Capitalblatt in ausgezeichnetem Abdruck von erster Schonheit und tadelloser Erhaltung. Mitbreitem Rande.Auf der Rickseite bezeichnet:&gt;P.Mariette 1687&amp;",450,99.1,False,positional,HENDRIK GOLTZIUS,,,,Sec. XVII
 BO0624_87492,448011,134,139,6 Blatt: Die schone Folge der Landschaften. B. 16.,456,95.8,False,positional,JAN HACKAERT,,,,
 BO0624_87492,448012,135,140,4 Blatt:Die Jahreszeiten. Weibliche Figuren bis zum Parth.610-613.,461,97.0,False,positional,WENZEL HOLLAR,,,,
-BO0624_87492,448013,136,141,"Die vier Windmihlen. J. Brueghel p. P.1215. Ausgezeichneter erster Abdruck, mit sehr breitem Rande. Selten so schon.",465,98.2,False,positional,WENZEL HOLLAR,,,,
+BO0624_87492,448013,136,141,"Die vier Windmihlen. J. Brueghel p. P.1215. Ausgezeichneter erster Abdruck, mit sehr breitem Rande. Selten so schon.",465,98.2,False,positional,WENZEL HOLLAR,,,,Sec. XIII
 BO0624_87492,448014,137,142,"Admiral Heinrich Corn. Longk. Brustbild in Oval, nach J. Mytens.",469,96.7,False,positional,WILLEM HONDIUS,,,,
 BO0624_87492,448015,138,143,Christus vor Pilatus. Nach P. P. Rubens. Gr. fol. Schn.256.,474,96.3,False,positional,NICOLAS LAUWERS,Scuola di Rubens,,,
 BO0624_87492,448016,139,144,Jupiter und Mercur bei Philemon und Baucis. Andr. 6. Il. Schoner zweiter Abdruck vor Loschung von Blootelings Adresse. Scharf beschnitten.,482,98.5,False,positional,NICOLAS LAUWERS,,,,
-BO0624_87492,448017,140,145,Kain erschlagt Abel. 1524. B. 5.,486,93.3,False,positional,LUCAS VAN LEYDEN,,,,
-BO0624_87492,448018,141,146,Potiphars Weib klagt Joseph an. 1512. B.21.,490,95.2,False,positional,LUCAS VAN LEYDEN,,,,
-BO0624_87492,448019,142,147,Die Heiligen Petrus und Paulus in einer Landschaft sitzend. 1527.,494,96.9,False,positional,LUCAS VAN LEYDEN,,,,
+BO0624_87492,448017,140,145,Kain erschlagt Abel. 1524. B. 5.,486,93.3,False,positional,LUCAS VAN LEYDEN,,,,Sec. XVI
+BO0624_87492,448018,141,146,Potiphars Weib klagt Joseph an. 1512. B.21.,490,95.2,False,positional,LUCAS VAN LEYDEN,,,,Sec. XVI
+BO0624_87492,448019,142,147,Die Heiligen Petrus und Paulus in einer Landschaft sitzend. 1527.,494,96.9,False,positional,LUCAS VAN LEYDEN,,,,Sec. XVI
 BO0624_87492,448020,143,148,"Fortitudo. Aus der Folge der Tugenden,durch weibliche Figuren dargestellt.B.132.",499,97.5,False,positional,LUCAS VAN LEYDEN,,,,
 BO0624_87492,448021,144,149,"Guillaume de Brisacier. Brustbild in Oval, nach N. Mignard. R.-D.15.II.",505,97.0,False,positional,ANTOINE MASSON,,,,
 BO0624_87492,448022,145,150,"Marie Cureau de La Chambre,Leibarzt. Brustbild in Oval, nach P.Mignard. R.D.24.I.",511,97.5,False,positional,ANTOINE MASSON,,,,
@@ -151,7 +151,7 @@ BO0624_87492,448026,149,154,"Moses mit den Gesetzestafeln. Halbfgur, nach Ph. de
 BO0624_87492,448027,150,155,"Pompone de Bellievre,Parlaments-Prasident. Brustbild in Oval,nach Ch.Le Brun.R.D.37.II.",535,97.7,False,positional,ROBERT NANTEUIL,,,,
 BO0624_87492,448028,151,156,"Jean-Baptiste Colbert, Finanzminister. Brustbild in einem Oval,",539,96.8,False,positional,ROBERT NANTEUIL,,,,
 BO0624_87492,448029,152,157,"Honore Courtin, Staatsrath. Brustbild in einem Oval. R.D. 8o. Vortrefflicher Abdruck des ersten Zustandes vor der Inschrift in der Bordire. Aeusserst selten.Breiter Rand.War gefalten.",544,98.9,False,positional,ROBERT NANTEUIL,,,,
-BO0624_87492,448030,153,158,Francois Marechal de Crequy. Brustbild in einem Oval. R.D. 81. I1. Ausgezeichneter zweiter Abdruck mit Jahreszahl 1662. Mit Rand.,545,98.4,False,positional,ROBERT NANTEUIL,,,,
+BO0624_87492,448030,153,158,Francois Marechal de Crequy. Brustbild in einem Oval. R.D. 81. I1. Ausgezeichneter zweiter Abdruck mit Jahreszahl 1662. Mit Rand.,545,98.4,False,positional,ROBERT NANTEUIL,,,,Sec. XVII
 BO0624_87492,448031,154,159,"Nicolas Portier de Novion, Parlaments-Prasident. Brustbild in Lorbeerkranz.R.-D.207.I.",546,97.6,False,positional,ROBERT NANTEUIL,,,,
 BO0624_87492,448032,155,16,"o Jean-Baptiste van Steenberghen, Brustbild in Oval,nach Duchastel. R.-D.226.",552,98.6,False,positional,ROBERT NANTEUIL,,,,
 BO0624_87492,448033,156,161,Schafer und Schaferin in Landschaft. Nach J. Jordaens. Gr. fol.,558,96.7,False,positional,JACOB NEEFFS,,,,
@@ -165,9 +165,9 @@ BO0624_87492,448040,163,168,Der Scheerenschleifer.B. 36.F. 36.,588,93.9,False,po
 BO0624_87492,448041,164,169,Dasselbe Blatt.,592,87.5,False,positional,ADRIAN VAN OSTADE,,,,
 BO0624_87492,448042,165,171,Dasselbe Blatt. der kalten Nadelarbeiten auf dem Kaminmantel.,600,96.7,False,positional,ADRIAN VAN OSTADE,,,,
 BO0624_87492,448043,166,172,Das Fest unter der Weinlaube. B. 47.F. 47.,601,95.0,False,positional,ADRIAN VAN OSTADE,,,,
-BO0624_87492,448044,167,173,"Morning. Grosse Landschaft, nach Claude Lorrain 1769. Coll.",609,96.5,False,positional,JAMES PEAKE,,,,
-BO0624_87492,448045,168,174,Der barmherzige Samariter. 1543.B. 68.,616,94.6,False,positional,GEORG PENCZ,,,,
-BO0624_87492,448046,169,175,Thetis und Chiron. 1543. Kl. qu. fol. B.9o.,618,94.9,False,positional,GEORG PENCZ,,,,
+BO0624_87492,448044,167,173,"Morning. Grosse Landschaft, nach Claude Lorrain 1769. Coll.",609,96.5,False,positional,JAMES PEAKE,,,,Sec. XVIII
+BO0624_87492,448045,168,174,Der barmherzige Samariter. 1543.B. 68.,616,94.6,False,positional,GEORG PENCZ,,,,Sec. XVI
+BO0624_87492,448046,169,175,Thetis und Chiron. 1543. Kl. qu. fol. B.9o.,618,94.9,False,positional,GEORG PENCZ,,,,Sec. XVI
 BO0624_87492,448047,170,176,Der Triumph der Keuschheit. Aus der Folge: Die Triumphe des,620,96.6,False,positional,GEORG PENCZ,,,,
 BO0624_87492,448048,171,177,Die durch den Bach watende Heerde. Nach Berghem.,628,95.8,False,positional,B. PIRINGER,,,,
 BO0624_87492,448049,172,178,"Marine nach Serres, zwischen zwei von Sharp gestochenen Bildnissen englischer Admirale.Lang. qu. fol. In Rahmen unter Glas. Guter Abdruck. Sporfleckig.",634,98.6,False,positional,ROBERT POLLARD,,CORNICI,,
@@ -289,7 +289,7 @@ BO0624_87492,448164,287,300,"Heilige Familie mit Mutter Anna in Landschaft, gen.
 BO0624_87492,448165,288,301,"Die Vermahlung der Maria,gen.:Lo Sposalizio. Raphael p.",1040,96.3,False,positional,GIUSEPPE LONGHI,,,,
 BO0624_87492,448166,289,302,Die bissende Magdalena.La Maddalena del Correggio&amp;. Das,1045,96.6,False,positional,GIUSEPPE LONGHI,,,,
 BO0624_87492,448167,290,303,L'Innocence. Junges Madchen mit Lamm. Nach J. B. Greuze.,1054,96.2,False,positional,ARISTIDE LOUIS,,,,
-BO0624_87492,448168,291,304,La Madonna della Sedia&amp;. Raphael p. Aus der Galerie Pitti zu Florenz nach eigener Zeichnung gestochen 1865. Gr. fol. Ap.3. In Rahmen unter Glas.,1059,98.6,False,positional,EDUARD MANDEL,,CORNICI,,
+BO0624_87492,448168,291,304,La Madonna della Sedia&amp;. Raphael p. Aus der Galerie Pitti zu Florenz nach eigener Zeichnung gestochen 1865. Gr. fol. Ap.3. In Rahmen unter Glas.,1059,98.6,False,positional,EDUARD MANDEL,,CORNICI,,Sec. XIX
 BO0624_87492,448169,292,305,La Bella di Tiziano. Bilde im Palazzo Pitti zu Florenz. Gr. fol. Ap.21.,1064,97.1,False,positional,EDUARD MANDEL,,,,
 BO0624_87492,448170,293,306,Aurora.,1070,75.0,False,positional,RAPHAEL MORGHEN,,,,
 BO0624_87492,448171,294,307,Lot und seine Tochter. Nach Fr. Guercino. Inebriemus cum vino. Gr.qu. fol.P.130.,1075,97.4,False,positional,RAPHAEL MORGHEN,,,,

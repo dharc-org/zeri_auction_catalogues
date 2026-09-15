@@ -1,23 +1,23 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88355,439010,1,1,"| Andreas Achenbach,1815-1910, Dulleldorf. Seefturm. Bez.A.Achenbach 1857.Dez.Dulleldorf.                                                                        | Aquarell 21/27                                                                |                                                                            |",11,99.0,False,none,ANDREAS ACHENBACH,,,,
+BO0624_88355,439010,1,1,"| Andreas Achenbach,1815-1910, Dulleldorf. Seefturm. Bez.A.Achenbach 1857.Dez.Dulleldorf.                                                                        | Aquarell 21/27                                                                |                                                                            |",11,99.0,False,none,ANDREAS ACHENBACH,,,,Sec. XIX
 BO0624_88355,439011,2,4,| Seehafen bei ruhigem Meer.                                                                                                                                     | Tulche 31/47                                                                  |                                                                            |,15,97.4,False,none,,,,,
-BO0624_88355,439012,3,5,| J.P.Blachiere t. Parklandlchaft mit Schlohruine.Bez. J. P. Blachiere 1813.                                                                                     | J.P.Blachiere t. Parklandlchaft mit Schlohruine.Bez. J. P. Blachiere 1813.    | J.P.Blachiere t. Parklandlchaft mit Schlohruine.Bez. J. P. Blachiere 1813. |,16,99.5,False,none,,,,,
-BO0624_88355,439013,4,6,| Landlchaft mit Ruine und einem Flihchen.Bez. J.P. Blachiere 1813.                                                                                              | Fein durchgef. Bleiftiftzeichnung 22/30                                       |                                                                            |,17,99.0,False,none,,,,,
-BO0624_88355,439014,5,7,| Rebekka am Brunnen. Bez.J.P.Blachiere 1813.                                                                                                                    | Fein durchgef.Bleiftiftzeichnung 22/30 Fein durchgef.Bleiftiftzeichnung 22/30 |                                                                            |,18,99.2,False,none,,,,,
+BO0624_88355,439012,3,5,| J.P.Blachiere t. Parklandlchaft mit Schlohruine.Bez. J. P. Blachiere 1813.                                                                                     | J.P.Blachiere t. Parklandlchaft mit Schlohruine.Bez. J. P. Blachiere 1813.    | J.P.Blachiere t. Parklandlchaft mit Schlohruine.Bez. J. P. Blachiere 1813. |,16,99.5,False,none,,,,,Sec. XIX
+BO0624_88355,439013,4,6,| Landlchaft mit Ruine und einem Flihchen.Bez. J.P. Blachiere 1813.                                                                                              | Fein durchgef. Bleiftiftzeichnung 22/30                                       |                                                                            |,17,99.0,False,none,,,,,Sec. XIX
+BO0624_88355,439014,5,7,| Rebekka am Brunnen. Bez.J.P.Blachiere 1813.                                                                                                                    | Fein durchgef.Bleiftiftzeichnung 22/30 Fein durchgef.Bleiftiftzeichnung 22/30 |                                                                            |,18,99.2,False,none,,,,,Sec. XIX
 BO0624_88355,439015,6,8,"9 Gegenftick z.Uorigem.) | J.Brand +,Wien. Seelandlchaft mit Hirten. Stimmungsuolles Landlchaftsbild. Ol a.Holz 20/28 Flublandichaft mit Ruine, im Uordergrund eine Anglergruppe.(Ebenlo. | 01a.Holz 20/28                                                                |                                                                            |",19,99.5,False,none,,Scuola Viennese,OGGETTI IN LEGNO,,
 BO0624_88355,439016,7,10,11                      | Putten als Handwerker. Gegenftick z. Uorigem.                                                                                                                  | Bleiftiftz.30/56                                                              |                                                                            |,21,97.6,False,none,,,,,
 BO0624_88355,439017,8,12,"| Max Feldbauer, Munchen. Halali. Titelbild fuir die Munchener ,Jugend"".Bez.Feldbauer.                                                                           | Aquarell 42/32                                                                |                                                                            |",22,98.4,False,none,,,,,
-BO0624_88355,439018,9,14,Pan und Putten. Bez. Jean Dauid Hoffftadt 1747. Kohle u.Rotel (Bruchfalte) 47/62                                                   |,27,98.0,False,none,,,,,
+BO0624_88355,439018,9,14,Pan und Putten. Bez. Jean Dauid Hoffftadt 1747. Kohle u.Rotel (Bruchfalte) 47/62                                                   |,27,98.0,False,none,,,,,Sec. XVIII
 BO0624_88355,439019,10,17,"Landlchaft, im Uordergrund weidende Kuhe. Bez.W. Kobell. Bleiftiftzeichg.22/28                                                     |",30,98.0,False,none,,,,,
 BO0624_88355,439020,11,20,Alm mit weidenden Rindern. Stimmungsuolles Landichaftsbild. Bezeichnet.                                                            |,32,97.8,False,none,,,,,
 BO0624_88355,439021,12,21,Sitender Bauer.                                                                                                                    |,34,90.3,False,none,,,,,
-BO0624_88355,439022,13,22,"Park mit Staffagen. Feder u.Tulche 15/20 Peter Paul Rubens,1577-1640.                                                              |",36,97.8,False,none,RUBENS PETER PAUL,Scuola di Rubens,,,
+BO0624_88355,439022,13,22,"Park mit Staffagen. Feder u.Tulche 15/20 Peter Paul Rubens,1577-1640.                                                              |",36,97.8,False,none,RUBENS PETER PAUL,Scuola di Rubens,,,Sec. XVII
 BO0624_88355,439023,14,23,"Buhende Magdalena. Sepia 16/25 Die ahnliche Uerlion befindet fich im britilchen Muleum in London, f. Ruckl.                        |",37,98.6,False,none,,,,,
-BO0624_88355,439024,15,24,"Sitender Mann. Rohrfeder u.Bifter 17/13 Carl Schweich,1823-1898, Dulfeldorf.                                                       |",38,98.0,False,none,,,,,
-BO0624_88355,439025,16,25,"Motiu a.d.Darmftadter Park. Bez.C. Schweich Darmftadt, 17. Mai 1862. Durchgefuhrte Bleiftiftz.a.gelbl.Papier 32/46 Bleiftift 30/42 |",39,98.8,False,none,,,,,
+BO0624_88355,439024,15,24,"Sitender Mann. Rohrfeder u.Bifter 17/13 Carl Schweich,1823-1898, Dulfeldorf.                                                       |",38,98.0,False,none,,,,,Sec. XIX
+BO0624_88355,439025,16,25,"Motiu a.d.Darmftadter Park. Bez.C. Schweich Darmftadt, 17. Mai 1862. Durchgefuhrte Bleiftiftz.a.gelbl.Papier 32/46 Bleiftift 30/42 |",39,98.8,False,none,,,,,Sec. XIX
 BO0624_88355,439026,17,26,Landichaftsftudie. nachlahftempel. 27 Berglandichaft. nachlahftempel. Bleiftift 22/31                                              |,40,98.2,False,none,,,,,
 BO0624_88355,439027,18,28,Dorfchen uor einer Anhohe mit Burg. nachlabftempel.                                                                                |,41,97.0,False,none,,,,,
-BO0624_88355,439028,19,30,"Auffitender Reiter. Johann Chriftof Storer,1611-1671,Konftanz.                                                                     |",43,97.6,False,none,,,,,
+BO0624_88355,439028,19,30,"Auffitender Reiter. Johann Chriftof Storer,1611-1671,Konftanz.                                                                     |",43,97.6,False,none,,,,,Sec. XVII
 BO0624_88355,439029,20,31,Die Geburt der Uenus. Bez. pegnio dal Chriftoforo Storer. Feder auf Tonpapier 40/27                                                |,45,98.2,False,none,,,,,
 BO0624_88355,439030,21,33,Rheinlandlchaft. Sommerftimmung.,52,95.2,False,none,,,,,
 BO0624_88355,439031,22,34,- 35,54,100.0,False,none,,,,,
@@ -32,10 +32,10 @@ BO0624_88355,439039,30,43,3 Blatt Landlchaften.,85,93.0,False,positional,Corneli
 BO0624_88355,439040,31,44,St. Uierge. Farbftich. Gut erhalten mit voll. Rand. Imp. Fol.,93,97.3,False,positional,n.Bertrand,,,,
 BO0624_88355,439041,32,45,- Uue du Temple du Soleil mit Widmung an den Herzog u.Rochefoucault.,100,100.0,False,positional,Jean Jacques de Boissieu,,,,
 BO0624_88355,439042,33,46,Gr.Fol.,102,80.0,False,positional,Jean Jacques de Boissieu,,,,
-BO0624_88355,439043,34,47,- Die Alte mit dem Kopftuch. Gr.Fol. m.Monogr. D. B. 1770.,104,100.0,False,positional,Jean Jacques de Boissieu,,,,
-BO0624_88355,439044,35,48,- 49 Frauenportrat. Fol. m.Monogr. D.B.1770. Fruher Abzug und Iporfleckig.,106,100.0,False,positional,Jean Jacques de Boissieu,,,,
-BO0624_88355,439045,36,51,- Mannliches Bruftbild.4m. Monogr.D.B. 1770. Entree de la Foreft de Fontainebleau. Kl. 4° mit d. Jahresbez. 1764.,109,76.6,False,positional,Jean Jacques de Boissieu,,,,
-BO0624_88355,439046,37,52,Uue du grand chemin de Fontainebleau. Kl. 4 mit d. Jahresbez. 1764.,110,97.6,False,positional,Jean Jacques de Boissieu,,,,
+BO0624_88355,439043,34,47,- Die Alte mit dem Kopftuch. Gr.Fol. m.Monogr. D. B. 1770.,104,100.0,False,positional,Jean Jacques de Boissieu,,,,Sec. XVIII
+BO0624_88355,439044,35,48,- 49 Frauenportrat. Fol. m.Monogr. D.B.1770. Fruher Abzug und Iporfleckig.,106,100.0,False,positional,Jean Jacques de Boissieu,,,,Sec. XVIII
+BO0624_88355,439045,36,51,- Mannliches Bruftbild.4m. Monogr.D.B. 1770. Entree de la Foreft de Fontainebleau. Kl. 4° mit d. Jahresbez. 1764.,109,76.6,False,positional,Jean Jacques de Boissieu,,,,Sec. XVIII
+BO0624_88355,439046,37,52,Uue du grand chemin de Fontainebleau. Kl. 4 mit d. Jahresbez. 1764.,110,97.6,False,positional,Jean Jacques de Boissieu,,,,Sec. XVIII
 BO0624_88355,439047,38,54,54,117,100.0,False,positional,Jan Both,,,,
 BO0624_88355,439048,39,55,Der Kindsmorder. Guter Abdr. mit Rand vor der Schrift. Gr. gu. Fol.,121,97.6,False,positional,John Boydell,,,,
 BO0624_88355,439049,40,56,Alter Mann mit Kruicke. (Der Bettler von Alfifi.) Original-Lithogr. Kl. 40.,125,97.8,False,positional,Frank Brangwyn,,,,
@@ -56,12 +56,12 @@ BO0624_88355,439063,54,73,"Landichaft mit ruh. lefend. Monch. Ebenlo, mit breite
 BO0624_88355,439064,55,74,Landlchaft mit Tempel und Wallerfallen.,168,96.2,False,positional,Christ.Wilh.Ernst Dietricy,,,,
 BO0624_88355,439065,56,75,Tritonenkampf. Ebenlo.Rand belchn.,170,95.5,False,positional,Christ.Wilh.Ernst Dietricy,,,,
 BO0624_88355,439066,57,76,auf Ochlenkopfpapier mit Rand.,175,95.1,False,positional,Albrecht Dürer,,,,
-BO0624_88355,439067,58,77,"- Der grohe Kardinal, gegenf. Kopie. B. 1036. Guter Abzug.",177,100.0,False,positional,Albrecht Dürer,,,,
+BO0624_88355,439067,58,77,"- Der grohe Kardinal, gegenf. Kopie. B. 1036. Guter Abzug.",177,100.0,False,positional,Albrecht Dürer,,,,Sec. XI
 BO0624_88355,439068,59,79,79,179,100.0,False,positional,Albrecht Dürer,,,,
 BO0624_88355,439069,60,80,Der Tanz ums goldene Kalb. Kaltnadelradierung. Fol. Uorzigl. Abdr.,185,97.6,False,positional,Frans Ertinger,,,,
 BO0624_88355,439070,61,58,Frauenportrat. aller Schrift.,187,96.4,False,positional,Frans Ertinger,,,,
 BO0624_88355,439071,62,87,- 91,189,100.0,False,positional,Frans Ertinger,,,,
-BO0624_88355,439072,63,95,"## Johannes Peter de Frey,1770-1834,Paris.",192,100.0,False,title_direct,Johannes Peter de Frey,,,,
+BO0624_88355,439072,63,95,"## Johannes Peter de Frey,1770-1834,Paris.",192,100.0,False,title_direct,Johannes Peter de Frey,,,,Sec. XVIII
 BO0624_88355,439073,64,81,Junger Mann mit Barett nach Gerard Douw. Brillanter fruher Abdr.mit Rand.,194,98.6,False,positional,Johannes Peter de Frey,,,,
 BO0624_88355,439074,65,82,Die nudelbauerin.Humoruolle charakterift. Originalfteinzeichnung uon,198,97.8,False,positional,Josef Futterer,,,,
 BO0624_88355,439075,66,83,Der Wurftelbauer.In jeder Beziehung ebenlo.Gegenltick zum Uorigen.,200,97.7,False,positional,Josef Futterer,,,,
@@ -82,15 +82,15 @@ BO0624_88355,439089,80,2,101 Karikatur. 4o. Gut erhaltener Abzug mit voll. Rand.
 BO0624_88355,439090,81,102,Schoner Abzug auf China. La Marechalerie. Blick in eine Huffchmiede. Orig.Rad. Qu. 4. G.208.,272,83.0,False,positional,Charles Emile Jacque,,,,
 BO0624_88355,439091,82,103,Landichaft. Orig.Rad. B.I. 274.17. Guter Abdr.Qu.80.,276,95.9,False,positional,Karel du Jardin,,,,
 BO0624_88355,439092,83,104,- Das Kind in der Wiege. Original-Radierung. Qu. 8. H. 22. Uorzigl. Abdr.a. Japan mit br.Rand. Handichriftl. bez.,278,100.0,False,positional,Karel du Jardin,,ACQUEFORTI,,
-BO0624_88355,439093,84,105,"## Jozef Jfraels,1824-1911, Haag.",281,100.0,False,positional,Jozef Israels,,,,
+BO0624_88355,439093,84,105,"## Jozef Jfraels,1824-1911, Haag.",281,100.0,False,positional,Jozef Israels,,,,Sec. XIX
 BO0624_88355,439094,85,106,"Liegender Mann, am Strande lefend. Originallith. Kl. qu. Fol.",289,96.5,False,positional,Arthur Kampf,,,,
-BO0624_88355,439095,86,107,Eingang in die Burg zu nurnberg von der Stadtleite. Orig.Rad. Guter Abdr.mit Rand. Qu.8.fec. 1826.,293,97.9,False,positional,Joh.Ad.Klein,Scuola di Norimberga,,,
+BO0624_88355,439095,86,107,Eingang in die Burg zu nurnberg von der Stadtleite. Orig.Rad. Guter Abdr.mit Rand. Qu.8.fec. 1826.,293,97.9,False,positional,Joh.Ad.Klein,Scuola di Norimberga,,,Sec. XIX
 BO0624_88355,439096,87,108,Secellion. Original-Rad. 4°. S. 286. Uorzugl. Sonderdruck auf Kupferdruckpapier.Selten.,298,97.5,False,positional,Max Klinger,,,,
 BO0624_88355,439097,88,109,Plattenrand. Selten.,299,90.0,False,positional,Max Klinger,,,,
 BO0624_88355,439098,89,110,"Ulylles und Circe. Herrliches alteres Schabkunftblatt in Farben mit einer Widmung an Birgermeifter Stephan von Wohlleben,Wien. Ausgezeichneter Abzug uon uornehmer Wirkung in Zeichnung und Farbe,auf Kupferdruckpapier mit Rand und uon tadelloler Erhaltung. Imp. Fol. Sehr Lelten.",303,99.3,False,positional,Franz Joseph Kolb,Scuola Viennese,,,
 BO0624_88355,439099,90,111,3 Blatt mit 6 Landlchaften. Orig.Rad. Je qu. 8o.Uor jeder Schrift.,308,96.9,False,positional,A. Kolb,,,,
 BO0624_88355,439100,91,112,Candlchaft bei Barbizon. Radierung nach Corot.Uorzigl. gut erhaltener Abzug mit uoll. Rand. Qu.Imp.,312,97.9,False,positional,F.Krostewitz,,ACQUEFORTI,,
-BO0624_88355,439101,92,113,A Bazeille 1. Sept. 1870 foir. Orig.-Rad. Guter Abdr. uor der Schrift mit Rand.Qu. Fol.,315,97.5,False,positional,Auguste Lancon,,,,
+BO0624_88355,439101,92,113,A Bazeille 1. Sept. 1870 foir. Orig.-Rad. Guter Abdr. uor der Schrift mit Rand.Qu. Fol.,315,97.5,False,positional,Auguste Lancon,,,,Sec. XIX
 BO0624_88355,439102,93,114,Louis El. de la Uergne. Portratftich. 8. Mit Rand.,319,95.7,False,positional,Nic. de Launay,,,,
 BO0624_88355,439103,94,1151,- 116,321,100.0,False,positional,Nic. de Launay,,,,
 BO0624_88355,439104,95,117,Gut erh.Abzug mit Rand.,333,91.7,False,positional,Lepicie,,,,
@@ -98,18 +98,18 @@ BO0624_88355,439105,96,118,netflickerinnen. Gr. gu.40.,341,92.3,False,positional
 BO0624_88355,439106,97,119,Flublandlchaft bei Dachau. Farbige Aquatinta. uon malerilchem Reiz.Gr. qu. Fol. mit Rand. Handlchriftl. bez.,342,98.0,False,positional,Alexander Liebmann,,,,
 BO0624_88355,439107,98,120,- 121,344,100.0,False,positional,Alexander Liebmann,,,,
 BO0624_88355,439108,99,122,- Stimmungsuolles Blatt,346,100.0,False,positional,Alexander Liebmann,,,,
-BO0624_88355,439109,100,123,Text. 2 Bd. Briflel 1827. Sehr lelten.,360,94.4,False,positional,Jean Baptiste Madou,,,,
-BO0624_88355,439110,101,124,"The Exhibition of the Royal Academy 1787. Farbiger Stich auf Seide. Qu. Roy. Fol. Dekoratiues, figurenreiches Blatt mit fchonen Koftumen und reizender Staffage, mit breitem Rand. Sehr lelten.",364,98.9,False,positional,P.A. Martini,,,,
+BO0624_88355,439109,100,123,Text. 2 Bd. Briflel 1827. Sehr lelten.,360,94.4,False,positional,Jean Baptiste Madou,,,,Sec. XIX
+BO0624_88355,439110,101,124,"The Exhibition of the Royal Academy 1787. Farbiger Stich auf Seide. Qu. Roy. Fol. Dekoratiues, figurenreiches Blatt mit fchonen Koftumen und reizender Staffage, mit breitem Rand. Sehr lelten.",364,98.9,False,positional,P.A. Martini,,,,Sec. XVIII
 BO0624_88355,439111,102,125,"Palais Royal Gallery's Walk. Farbiger Stich auf Seide. Qu. Fol. Sehr La Procelfion du St. Sacrement. Ebenlo. Le Repos en Egypte. Schoner, kraftiger Abzug mit Rand. Kl. 4.",365,56.6,False,positional,P.A. Martini,,,,
-BO0624_88355,439112,103,128,"## Jean Louis Ernefte Meiffonier, 1815-1891,Paris.",378,100.0,False,title_direct,Jean Louis Ernest Meissonier,,,,
-BO0624_88355,439113,104,129,Der Raucher. Orig.Rad.von 1843. Uorzigl.Abdr.auf lolem Japan.Selten.,380,97.0,False,positional,Jean Louis Ernest Meissonier,,,,
+BO0624_88355,439112,103,128,"## Jean Louis Ernefte Meiffonier, 1815-1891,Paris.",378,100.0,False,title_direct,Jean Louis Ernest Meissonier,,,,Sec. XIX
+BO0624_88355,439113,104,129,Der Raucher. Orig.Rad.von 1843. Uorzigl.Abdr.auf lolem Japan.Selten.,380,97.0,False,positional,Jean Louis Ernest Meissonier,,,,Sec. XIX
 BO0624_88355,439114,105,130,Titre des Eaux-Fortes fur Paris. Orig.-Rad. 8.L. Delteil 17.Guter,383,96.8,False,positional,Charles Meryon,,ACQUEFORTI,,
 BO0624_88355,439115,106,131,mit 2 Platten. Ausgez. Abdruck mit uollem Rand. Sehr Lelten.,389,96.6,False,positional,Joh. Mich. Mettenleiter,,PIATTI,,
-BO0624_88355,439116,107,132,- 16 Blatt Hiftorilche Darftellungen (1800-1803). Uorzugl. Abzuge.Kupferftiche.,391,100.0,False,positional,Joh. Mich. Mettenleiter,,OGGETTI IN RAME,,
+BO0624_88355,439116,107,132,- 16 Blatt Hiftorilche Darftellungen (1800-1803). Uorzugl. Abzuge.Kupferftiche.,391,100.0,False,positional,Joh. Mich. Mettenleiter,,OGGETTI IN RAME,,Sec. XIX
 BO0624_88355,439117,108,133,## u.Meulen (Holland).,394,100.0,False,title_direct,u.Meulen,,,,
 BO0624_88355,439118,109,134,"Raffaele Sanzio, Selbftporträt. Schoner Abdr. mit Rand. Fol.",400,96.5,False,positional,Raffaelo Morghen,,,,
 BO0624_88355,439119,110,135,Der Wurmlee. Original-Rad. 4. Ausgez.Abdr. mit uollem Rand uor der Schrift.,402,97.2,False,positional,Raffaelo Morghen,,,,
-BO0624_88355,439120,111,136,"Parfumerie (1897).Originalfteinz. in Farben.1mp. Fol.Prachtuoller numerierter (1/30) Probeabzug uor der Schrift,Skaladruck.Handlchriftl. bez. Selten.",406,98.6,False,positional,Emil Orlik,,,,
+BO0624_88355,439120,111,136,"Parfumerie (1897).Originalfteinz. in Farben.1mp. Fol.Prachtuoller numerierter (1/30) Probeabzug uor der Schrift,Skaladruck.Handlchriftl. bez. Selten.",406,98.6,False,positional,Emil Orlik,,,,Sec. XIX
 BO0624_88355,439121,112,137,"Chriftus am Kreuz,uon einem Engel gekunt. Ausgez. Probeabzug u.d. unuollendeten Platte mit uollem Rand. Gr. Fol. Sehr felten.",410,98.3,False,positional,Friedr. Georg Papperitz,,,,
 BO0624_88355,439122,113,138,Strabe in einem altfranzol. Stadtchen.Orig.-Rad. 4°. Ausgez. Abzug a.Kupferdruckpapier mit breit.Rand. Handfchr. bez.T. Peets nr. 10. (Tirage limite a 40.) Selten.,414,98.7,False,title_direct,T.Peets,,,,
 BO0624_88355,439123,114,139,C'hiuer. Punktierltich mit Rand. Fol.,418,94.4,False,positional,Pioline,,,,
@@ -132,7 +132,7 @@ BO0624_88355,439139,130,157,Strabe in einem alten Stadtchen mit Tor und Staffage
 BO0624_88355,439140,131,158,Hugel-Landlchaft mit Blick in die vom Fluh durchz. Ebene. (Claude Lorrain,477,97.2,False,positional,F.A.Seyffer,,,,
 BO0624_88355,439141,132,159,auf Japan mit uoll. Rand.,481,92.0,False,positional,Max Seliger,,,,
 BO0624_88355,439142,133,160,Baumblite. Original-Radierung. Kl. 4°. Brillanter Abzug auf breitrand.,486,97.0,False,positional,Fritz Silberbauer,,ACQUEFORTI,,
-BO0624_88355,439143,134,161,"Morgenftunde in Paris. Stimmungsuolle Original-Radierung in Farben mit reicher Staffage. Im Uordergrunde Marktfrauen, Kaffeedrofchken, Kehrichtfahrer etc. Hinten im Morgengrauen auftauchend die Tirme von ,notre Dame"". Gr. Fol. mit breit. Rand. Beigelegt die farbige Wiedergabe dieles Blattes aus dem Kunftwart 1916.",491,99.3,False,positional,T.François Simon,,ACQUEFORTI,,
+BO0624_88355,439143,134,161,"Morgenftunde in Paris. Stimmungsuolle Original-Radierung in Farben mit reicher Staffage. Im Uordergrunde Marktfrauen, Kaffeedrofchken, Kehrichtfahrer etc. Hinten im Morgengrauen auftauchend die Tirme von ,notre Dame"". Gr. Fol. mit breit. Rand. Beigelegt die farbige Wiedergabe dieles Blattes aus dem Kunftwart 1916.",491,99.3,False,positional,T.François Simon,,ACQUEFORTI,,Sec. XX
 BO0624_88355,439144,135,162,Am Strande. Original-Radierung. Uorzigl.Abdr.m.breit.Rand. Gr.Fol.,492,96.9,False,positional,T.François Simon,,ACQUEFORTI,,
 BO0624_88355,439145,136,168,Handlchriftl. bez.,493,88.9,False,positional,T.François Simon,,,,
 BO0624_88355,439146,137,171,- 172 Herbftliche Birken.Orig.-Farbenholzlchnitt. Qu. Fol.Schoner Abdr. mit br.Rand.,495,100.0,False,positional,T.François Simon,,,,
@@ -146,14 +146,14 @@ BO0624_88355,439153,144,170,"Die Kreuzigung des Heiligen Petrus. Linienftich mit
 BO0624_88355,439154,145,173,"Abend uor Uenedig.Orig.Farbenholzlchnitt. Qu. Fol. Sehr fchoner,",531,96.8,False,positional,Carl Thiemann,,,,
 BO0624_88355,439155,146,174,- 175 Candfchaft mit weidenden Kuhen. Orig.-Rad.Qu. Fol.Uorzigl. Abdr. in braun auf gelbl. Kupferdr. mit Rand.Bezeichnet.,538,100.0,False,positional,Otto Ubbelohde,,,,
 BO0624_88355,439156,147,176,- Flublandfchaft. Abendftimmung.Orig.Rad.Kl. 4. Guter Abzug in grin auf getont.Kupferdr. mit Rand. Bezeichnet.,540,100.0,False,positional,Otto Ubbelohde,,,,
-BO0624_88355,439157,148,177,"## Efaias uan de Uelde, 1597-1648, Haag.",543,100.0,False,positional,Esaias van de Velde,,,,
+BO0624_88355,439157,148,177,"## Efaias uan de Uelde, 1597-1648, Haag.",543,100.0,False,positional,Esaias van de Velde,,,,Sec. XVII
 BO0624_88355,439158,149,178,"Landlchaft mit Weidenbaumen. Rad. Guter Abdr. Kl. 40. Paul et Virginie. Ebenfo. Tout palle auec le temps, lamitie ne palfe pas. Schon kolorierter Abzug mit Rand. Gr. Fol. In Palfepartout.",554,73.1,False,positional,J.Villain,,,,
 BO0624_88355,439159,150,181,Im Konzert-Cafe. Satirifches Blatt. Farbige Original-Radierung. Schoner,558,97.1,False,positional,Jacques Villon,,ACQUEFORTI,,
 BO0624_88355,439160,151,182,Im Mai. Altes Paar in den Fruhling Ichauend. Original-Radierung. Gr.Fol.,563,97.1,False,positional,H.Vogeler,,ACQUEFORTI,,
 BO0624_88355,439161,152,183,"Ex libris ,Uexkull.Feiner, zarter Abzug in grin auf Japan mit Rand.",564,97.0,False,positional,H.Vogeler,,,,
 BO0624_88355,439162,153,185,- 184 Ton auf Japan. Handichriftl. bezeichnet. Gerahmt.,571,100.0,False,positional,Hans von Volkmann,,,,
 BO0624_88355,439163,154,186,Pan et Syrinx. Schoner kraftiger Abzug mit Rand.,576,95.8,False,positional,C. n. Varin,,,,
-BO0624_88355,439164,155,187,"## Joannes Uolpato,1733-1803,Rom.",579,100.0,False,title_direct,Joannes Volpato,,,,
+BO0624_88355,439164,155,187,"## Joannes Uolpato,1733-1803,Rom.",579,100.0,False,title_direct,Joannes Volpato,,,,Sec. XVIII
 BO0624_88355,439165,156,188,Desgl. Ebenlo.Gegenftick.,581,92.0,False,positional,Joannes Volpato,,,,
 BO0624_88355,439166,157,189,"Waldweg mit Teich und Badenden. Orig.-Radierung. Qu. 4°. Schoner, friher Abzug mit viel Grat und Rand. Selten.",587,98.1,False,positional,Anthoni Waterloo,,ACQUEFORTI,,
 BO0624_88355,439167,158,190,- 191 Landichaft mit Schafen. Ebenlo.,589,100.0,False,positional,Anthoni Waterloo,,,,
@@ -172,13 +172,13 @@ BO0624_88355,439179,170,208,- Lith. farb. Roy.Imp. 80.,624,100.0,False,positiona
 BO0624_88355,439180,171,209,"H. Calfiers, Bruflel. Hollanderin mit Katen. Die Automobiliften. 2 Blatt.",625,97.1,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439181,172,210,Bez. Ch. Landlchaft mit Ruine. Orig.Rad.,626,94.7,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439182,173,211,- Landichaft mit Hitte. Orig.-Rad. 40.,628,100.0,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439183,174,213,- 212 de Courton. Schweizet Soldatentypen 1760.Farbenlith. 40.,631,100.0,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439184,175,214,"Carel L.Dake. na den Maaltijd. Orig.Rad. 80. H. Garnier, Paris, 1846. Rigolette. Schabkunftblatt. Roy. A.uan Dyck. Ruhe auf der Flucht. Farbenlichtdr. Roy.",633,52.6,False,positional,Hieronymus Wierix,,,,
+BO0624_88355,439183,174,213,- 212 de Courton. Schweizet Soldatentypen 1760.Farbenlith. 40.,631,100.0,False,positional,Hieronymus Wierix,,,,Sec. XVIII
+BO0624_88355,439184,175,214,"Carel L.Dake. na den Maaltijd. Orig.Rad. 80. H. Garnier, Paris, 1846. Rigolette. Schabkunftblatt. Roy. A.uan Dyck. Ruhe auf der Flucht. Farbenlichtdr. Roy.",633,52.6,False,positional,Hieronymus Wierix,,,,Sec. XIX
 BO0624_88355,439185,176,217,"""",634,0.0,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439186,177,218,""" Le Leuer de la Mariee. Lithogr. Roy.",638,94.3,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439187,178,219,- 221,641,100.0,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439188,179,222,Grauure. Fetes Uenetiennes. Kolor. Abdr. Fol.,643,95.2,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439189,180,223,"- Haines, London, 1793. Jelus bearing the Crob. Orig.-Aquatinta. 4°.",645,100.0,False,positional,Hieronymus Wierix,,,,
+BO0624_88355,439189,180,223,"- Haines, London, 1793. Jelus bearing the Crob. Orig.-Aquatinta. 4°.",645,100.0,False,positional,Hieronymus Wierix,,,,Sec. XVIII
 BO0624_88355,439190,181,224,in Throno. Lichtdr.Imp.,647,91.3,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439191,182,225,- Bruno Heroux. Das liebe Kauzchen. Orig.Steinzeichg. 80.,649,100.0,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439192,183,226,- Demi-Vierge. Orig.-Steinzeichg.80.,651,100.0,False,positional,Hieronymus Wierix,,,,
@@ -190,11 +190,11 @@ BO0624_88355,439197,188,231,Preciole. Schabftich. Imp.,658,92.0,False,positional
 BO0624_88355,439198,189,232,"Llanta, Paris. notre Seigneur (Dolci pinx.). Lith. Imp.",660,95.9,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439199,190,233,"Emile Laffalle, Paris. Weibl. Halbakt. Orig.-Lith. Imp.",661,96.0,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439200,191,234,"n. Maurin,Paris. Famille du Prince Royal. Orig.-Lith. Imp.",662,96.3,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439201,192,235,"G. Maile,London 1840.Jeannie Deans chez Butler. Schabltich. Roy.",663,96.8,False,positional,Hieronymus Wierix,,,,
+BO0624_88355,439201,192,235,"G. Maile,London 1840.Jeannie Deans chez Butler. Schabltich. Roy.",663,96.8,False,positional,Hieronymus Wierix,,,,Sec. XIX
 BO0624_88355,439202,193,236,- 237,665,100.0,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439203,194,238,- 239,668,100.0,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439204,195,240,- The propolal. Schabftich. Roy.,670,100.0,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439205,196,241,"napoleonblatter. 2 Blatt. Kol. Stiche. 40. G. Piloty, Munchen. Tankred im bezauberten Walde. Lith. Roy. Oktoberfeltblatt.  Pferderennen 1810 (Kobell). Lith. Fol.",675,56.7,False,positional,Hieronymus Wierix,,STAMPE E INCISIONI,,
+BO0624_88355,439205,196,241,"napoleonblatter. 2 Blatt. Kol. Stiche. 40. G. Piloty, Munchen. Tankred im bezauberten Walde. Lith. Roy. Oktoberfeltblatt.  Pferderennen 1810 (Kobell). Lith. Fol.",675,56.7,False,positional,Hieronymus Wierix,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88355,439206,197,244,"- Piloty-Lut, Munchen. Uenus und Amor. Lith. Imp.",678,100.0,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439207,198,245,J.H. Rode.Ecce Homo:Radierung i. Pallep. Imp.,679,95.3,False,positional,Hieronymus Wierix,,ACQUEFORTI,,
 BO0624_88355,439208,199,246,"- A.Romanet, Paris. nymphe an Bain. Kupferftich. Roy.",681,100.0,False,positional,Hieronymus Wierix,,,,
@@ -203,30 +203,30 @@ BO0624_88355,439210,201,248,"- 39 T.W. Ruffam,London. A. Ward in Chancery. Schab
 BO0624_88355,439211,202,249,Peter Paul Rubens. Der Fruichtekranz. Farbenlichtdr. Qu. Roy.,685,96.6,False,positional,Hieronymus Wierix,Scuola di Rubens,,,
 BO0624_88355,439212,203,250,"- E.Sachrfe,Leipzig. Der Schutengel. Farbenholzichnitt. 40.",687,100.0,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439213,204,252,252,689,100.0,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439214,205,253,"E.Schufter. Die Schwarzburg. Orig.Farbenfteinz. Roy. W. H. Simmons, London 1860. The blind Beggar. Schabftich. Imp. Alte Kirche in Eppftein. Orig.-Farbenfteinz. Roy.",693,53.6,False,positional,Hieronymus Wierix,,,,
+BO0624_88355,439214,205,253,"E.Schufter. Die Schwarzburg. Orig.Farbenfteinz. Roy. W. H. Simmons, London 1860. The blind Beggar. Schabftich. Imp. Alte Kirche in Eppftein. Orig.-Farbenfteinz. Roy.",693,53.6,False,positional,Hieronymus Wierix,,,,Sec. XIX
 BO0624_88355,439215,206,256,Both Puzzled.Punktierftich.Imp.,695,93.8,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439216,207,257,"Sixdeniers t, Paris. Ca Charite. Schabltich. Roy.",696,95.7,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439217,208,258,"R. Smith,London 1845. Answering the Aduertilement. Stich. 40.",697,96.6,False,positional,Hieronymus Wierix,,,,
+BO0624_88355,439217,208,258,"R. Smith,London 1845. Answering the Aduertilement. Stich. 40.",697,96.6,False,positional,Hieronymus Wierix,,,,Sec. XIX
 BO0624_88355,439218,209,259,Wilm Steelink. Plein. Radierung. 8.,698,93.9,False,title_direct,Wilm Steelink,,ACQUEFORTI,,
 BO0624_88355,439219,210,260,"C.Tomkins t, London. The Halt. Schabftich. Roy.",699,95.5,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439220,211,261,"- W. Unger, Wien. Die Uerkundigung. Radierung. 8.",701,100.0,False,positional,Hieronymus Wierix,Scuola Viennese,ACQUEFORTI,,
 BO0624_88355,439221,212,262,- noli me tangere. Radierung. 8.,703,100.0,False,positional,Hieronymus Wierix,,ACQUEFORTI,,
 BO0624_88355,439222,213,263,"F. Wheatly, London. Cries of London (Pl. 13). Kol. Grauure. Fol.",704,96.4,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439223,214,265,265,706,100.0,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439224,215,266,"C.F. Deik er, Dulleldorf. 14 Blatt Weidmanns Freud. (Aug.Frit 1876.)",708,96.8,False,positional,Hieronymus Wierix,,,,
+BO0624_88355,439224,215,266,"C.F. Deik er, Dulleldorf. 14 Blatt Weidmanns Freud. (Aug.Frit 1876.)",708,96.8,False,positional,Hieronymus Wierix,,,,Sec. XIX
 BO0624_88355,439225,216,267,6 Jagdbilder. Photogr.40. c6 66,713,93.5,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439226,217,268,"Th.Holbein,1813.12 Blatt Landlchaften. Orig.-Radier. Diu. Gr.",714,96.6,False,positional,Hieronymus Wierix,,,,
+BO0624_88355,439226,217,268,"Th.Holbein,1813.12 Blatt Landlchaften. Orig.-Radier. Diu. Gr.",714,96.6,False,positional,Hieronymus Wierix,,,,Sec. XIX
 BO0624_88355,439227,218,269,Plaftiken.10 Blatt antike Skulpturen. Stiche. Fol.,715,95.9,False,positional,Hieronymus Wierix,,STAMPE E INCISIONI,,
 BO0624_88355,439228,219,270,- Rheinanlichten. 90 Blatt tadell. Abzuge. Stiche. 80.,717,100.0,False,positional,Hieronymus Wierix,,STAMPE E INCISIONI,,
 BO0624_88355,439229,220,271,"J.El. Ridinger, Augsburg. 10 Blatt Jagdtiere, gute patere Abzuge. Stiche. Fol.",718,97.3,False,positional,Hieronymus Wierix,,STAMPE E INCISIONI,,
 BO0624_88355,439230,221,272,- Gottfried Seelos. 12 Blatt Anlichten uon Tirol. Farb. Orig.-Lith. Fol.,720,100.0,False,positional,Hieronymus Wierix,Scuola Tirolese,,,
 BO0624_88355,439231,222,273,Trachtenblatter. 8 Blatt und 1 Prolp. iber Krinoline. Koloriert. 80.,721,96.9,False,title_direct,Pioline,,,,
 BO0624_88355,439232,223,274,"- F. Wheatly, London. 6 Blatt Cries of London. Kol. Grauuren. Fol.",723,100.0,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439233,224,275,"- C. W.Allers, Berlin. 30 Blatt Berliner Bilder, 1889. In Mappe. Lichtdruck.40.",725,100.0,False,positional,Hieronymus Wierix,Scuola di Berlino,FOTOGRAFIE,,
+BO0624_88355,439233,224,275,"- C. W.Allers, Berlin. 30 Blatt Berliner Bilder, 1889. In Mappe. Lichtdruck.40.",725,100.0,False,positional,Hieronymus Wierix,Scuola di Berlino,FOTOGRAFIE,,Sec. XIX
 BO0624_88355,439234,225,276,35 Die Silberne Hochzeit. (Humorift. Skizzen mit Text.) Gebunden.Cichtdruck.Fol.,726,97.4,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439235,226,277,"Bibel,J.A. Endter,nirnberg und B. C.Wuften,Frankfurt,1660,mit reichen Kupferitichen uon Sandrart u. a., fowie Holzlchnitten. Einband zertrimmert.",727,98.6,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439236,227,278,"Cudolffs Schaubuhne Tom Ill. Eilenach 1712. Mit zahlreichen Kupferftichen. In Pergament. Titelbl. fehlt, fonft tadell. erhalten.",728,98.4,False,positional,Hieronymus Wierix,,,,
-BO0624_88355,439237,228,279,"- Mathematifche neben-ubungen,Wittenberg 1752. Mit 1 Titelkupfer und 32 ausfchlagb. Tafeln. Pappbd.",730,100.0,False,positional,Hieronymus Wierix,,,,
+BO0624_88355,439235,226,277,"Bibel,J.A. Endter,nirnberg und B. C.Wuften,Frankfurt,1660,mit reichen Kupferitichen uon Sandrart u. a., fowie Holzlchnitten. Einband zertrimmert.",727,98.6,False,positional,Hieronymus Wierix,,,,Sec. XVII
+BO0624_88355,439236,227,278,"Cudolffs Schaubuhne Tom Ill. Eilenach 1712. Mit zahlreichen Kupferftichen. In Pergament. Titelbl. fehlt, fonft tadell. erhalten.",728,98.4,False,positional,Hieronymus Wierix,,,,Sec. XVIII
+BO0624_88355,439237,228,279,"- Mathematifche neben-ubungen,Wittenberg 1752. Mit 1 Titelkupfer und 32 ausfchlagb. Tafeln. Pappbd.",730,100.0,False,positional,Hieronymus Wierix,,,,Sec. XVIII
 BO0624_88355,439238,229,280,"Konuolut mit ca. Blatt Aguarellen,Handzeichnungen,Landlchaftenic.",732,85.0,False,positional,Hieronymus Wierix,,,,
 BO0624_88355,439239,230,281,""" ca. 50 "" Stiche, Radierungen ic.",733,93.1,False,positional,Hieronymus Wierix,,ACQUEFORTI,,
 BO0624_88355,439240,231,283,""" ca. 65 Stadte- und Gebirgsanlichten.",735,94.3,False,positional,Hieronymus Wierix,,,,
@@ -271,17 +271,17 @@ BO0624_88355,439278,269,40,Bez.,859,66.7,False,positional,F.C. Klimsch,,,,
 BO0624_88355,439279,270,344,Deutiche Eichen.Orig.-Rad.mit Ton. 4°.Bez.,860,95.0,False,positional,F.C. Klimsch,,,,
 BO0624_88355,439280,271,345,- 346 Reiterportrat Blichers.Orig.-Lith.Gr. Fol. Bez.,862,100.0,False,positional,F.C. Klimsch,,,,
 BO0624_88355,439281,272,348,1 Titel und 12 Blatt Kindergruppen. Orig.-Steinradierungen in tadell. Anfichten von Donauworth. Steinzeichnung. Fol.,865,73.3,False,positional,Eugen Klimsch,,,,
-BO0624_88355,439282,273,349,"Abbruch des nirnberger Hofes 1913.Orig.Steinz.Fol. Handichr.bez, endet gebliebene Platte.Sehr lelten.8.",871,74.7,False,positional,Joh. Gg. Mohr,,,,
+BO0624_88355,439282,273,349,"Abbruch des nirnberger Hofes 1913.Orig.Steinz.Fol. Handichr.bez, endet gebliebene Platte.Sehr lelten.8.",871,74.7,False,positional,Joh. Gg. Mohr,,,,Sec. XX
 BO0624_88355,439283,274,350,- 351,890,100.0,False,positional,Eug.Ed.Schaeffer,,,,
 BO0624_88355,439284,275,352,- 353,892,100.0,False,positional,Eug.Ed.Schaeffer,,,,
 BO0624_88355,439285,276,355,Zum Uerbrecher aus uerlorener Ehre. Orig.-Rad. Unvollendeter Probedruck auf altem Bitten.Sehr elten.40.,894,98.0,False,positional,Eug.Ed.Schaeffer,,,,
 BO0624_88355,439286,277,356,Aus der Entfihrung der Helena. Friher Probedruck des 1. Zuft. 4°.,896,96.8,False,positional,Eug.Ed.Schaeffer,,,,
 BO0624_88355,439287,278,357,Das Standbild Durers. Druck voll Grat mit breit.Rand. Selten. Germania n. d. Fresko im Stadel. nagler 11 II. Roy. Jolephs Tod.Guter Abzug.80.,897,59.8,False,positional,Eug.Ed.Schaeffer,,,,
 BO0624_88355,439288,279,360,- Ttalia n. d. Fresko im Stadel. nagler 11 Il. Roy.,901,100.0,False,positional,Eug.Ed.Schaeffer,,,,
-BO0624_88355,439289,280,361,"Ideale Gebirgslandlchaft mit Burgen, Stadtchen, Fluh und Staffage. Orig. Rad. Tadelloler Abzug, klar und voll Grat,mit Rand. (Ein unbekanntes (？) Blatt von Schit a. d. Jahre 1783. nicht bei Gwinner und nagler.) 40. Fol. Bez.",905,99.0,False,positional,Chr. Gg. Schütz d.A.,,,,
+BO0624_88355,439289,280,361,"Ideale Gebirgslandlchaft mit Burgen, Stadtchen, Fluh und Staffage. Orig. Rad. Tadelloler Abzug, klar und voll Grat,mit Rand. (Ein unbekanntes (？) Blatt von Schit a. d. Jahre 1783. nicht bei Gwinner und nagler.) 40. Fol. Bez.",905,99.0,False,positional,Chr. Gg. Schütz d.A.,,,,Sec. XVIII
 BO0624_88355,439290,281,363,Zwei Junglinge mit Laute und Geige in ganzer Figur. Anmutuolles Blatt. Orig.Rad.Ausgez. Abzug mit vollem Rand. Selten. 4.Bez.,913,98.3,False,positional,Ed.Steinle,,,,
 BO0624_88355,439291,282,364,Aus dem Uogelsberg. Orig.Rad.4. Handichriftl. bez.,917,95.8,False,positional,Herm.Treuner,,,,
-BO0624_88355,439292,283,365,Adam und Eua. Orig.-Steinzeichnung. Gr. Fol. Bez. 1899 Rom. Blatt: Die alte Bricke. Orig.-Steinzeichnung auf Butten. Ausgez.Abzuge.,925,71.7,False,positional,Adolf Weber,,,,
+BO0624_88355,439292,283,365,Adam und Eua. Orig.-Steinzeichnung. Gr. Fol. Bez. 1899 Rom. Blatt: Die alte Bricke. Orig.-Steinzeichnung auf Butten. Ausgez.Abzuge.,925,71.7,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439293,284,366,Gr.Roy. Handlchriftl. bez. ## 3.Frankofurteniten.,926,66.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439294,285,367,Gelamtanlicht uon Frankfurt und Umgebung vom Deutfchherren-Turm aus gelehen. Rauch Ic. Jugel aquat. Prachtu. Aquatintablatt,932,98.3,False,positional,Adolf Weber,,,,
 BO0624_88355,439295,286,368,"Dto. von Suden. Frankfurt a. M. bei Friedr. Wilmans. Kupferftich,koloriert.80.",934,97.3,False,positional,Adolf Weber,,,,
@@ -297,7 +297,7 @@ BO0624_88355,439304,295,377,einfallung.80.,950,86.7,False,positional,Adolf Weber
 BO0624_88355,439305,296,378,Anficht der Stadt Frankfurt a.M. uon der Abendleite. Ueith Ic. Kolorierter Stich.60.,952,97.6,False,positional,Adolf Weber,,,,
 BO0624_88355,439306,297,379,Lithographie mit Zierrand. 4°.,954,93.1,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
 BO0624_88355,439307,298,380,Der Landungsplat bei Frankfurth a. M. nurnberg bei d. J. A. Endterlchen,955,97.1,False,positional,Adolf Weber,Scuola di Norimberga,,,
-BO0624_88355,439308,299,381,Frankfurt a. Mayn von der Mittagsleite 1810. Bei Doring in Frankfurt a. M.,957,97.2,False,positional,Adolf Weber,,,,
+BO0624_88355,439308,299,381,Frankfurt a. Mayn von der Mittagsleite 1810. Bei Doring in Frankfurt a. M.,957,97.2,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439309,300,382,"Miniatur-Anficht in oualer Uignette, Fullhornern und Empire-Rand. Kolo-",959,97.1,False,positional,Adolf Weber,,MINIATURE,,
 BO0624_88355,439310,301,383,"Gelamtanlicht uom Muhlberg aus,im Hintergrunde der Taunus. Kolorierter Stich. 80.",961,97.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439311,302,384,Totalanlicht mit Sachlenhaulen. E.G. May lith. Altere Lithographie.,962,96.9,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
@@ -310,52 +310,52 @@ BO0624_88355,439317,308,390,in altem nubbaumrahmen. Roy. Fol.,972,93.8,False,pos
 BO0624_88355,439318,309,391,2 Blatt Anlichten uon Frankfurt. Stich und Atung.4.,973,96.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439319,310,392,"4 Blatt Gelamtanlichten.Lith.,Aquatinta,Stiche.80.",974,96.0,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
 BO0624_88355,439320,311,393,Abbildung.C. F. Mylius. Aquarell in Palflepartout. 25/39.,976,96.3,False,positional,Adolf Weber,,,,
-BO0624_88355,439321,312,394,Ebenlo.nach Merian 1627.C.F. Mylius.Aquarell. 22/34.,977,96.1,False,positional,Adolf Weber,,,,
-BO0624_88355,439322,313,395,Frankfurt z. Zt. des 30jahr. Krieges. A. Lithi 1895. Kolorierte Umrifzeichnung.40/70.,978,97.5,False,positional,Adolf Weber,,,,
+BO0624_88355,439321,312,394,Ebenlo.nach Merian 1627.C.F. Mylius.Aquarell. 22/34.,977,96.1,False,positional,Adolf Weber,,,,Sec. XVII
+BO0624_88355,439322,313,395,Frankfurt z. Zt. des 30jahr. Krieges. A. Lithi 1895. Kolorierte Umrifzeichnung.40/70.,978,97.5,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439323,314,396,- Frankfurt a. M. in der Uogellchau mit einer Widmung an den hohen Senat. Carl Theodor Reiffenftein del. Carl Kruthoffer lith.Altere Farbenlithogr. 4.,980,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439324,315,397,- Das neue Frankfurt.Panorama. Lichtdruck. Roy. Fol.,982,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439325,316,398,Gelamtanficht Frankfurts im 14. Jahrhundert nach einem Olgemalde.,983,96.9,False,positional,Adolf Weber,,,,
-BO0624_88355,439326,317,399,Gold und Kupfer um 1850.40.,986,92.9,False,positional,Adolf Weber,,OGGETTI IN ORO,,
-BO0624_88355,439327,318,400,und Kupfer um 1850.40.,988,91.3,False,positional,Adolf Weber,,OGGETTI IN RAME,,
-BO0624_88355,439328,319,401,"Salomon Kleiner's florierendes Frankfurt a. Main, bis auf den Grundrik komplett mit Text. 8 Tafeln in natirl. Grohe der Originalzeichnungen. Dritte Auflage. Heinrich Keller —K. Th. Uoelcker's Uerlag, 1878. Ohne",992,99.0,False,positional,Adolf Weber,,ACQUEFORTI,,
+BO0624_88355,439325,316,398,Gelamtanficht Frankfurts im 14. Jahrhundert nach einem Olgemalde.,983,96.9,False,positional,Adolf Weber,,,,Sec. XIV
+BO0624_88355,439326,317,399,Gold und Kupfer um 1850.40.,986,92.9,False,positional,Adolf Weber,,OGGETTI IN ORO,,Sec. XIX
+BO0624_88355,439327,318,400,und Kupfer um 1850.40.,988,91.3,False,positional,Adolf Weber,,OGGETTI IN RAME,,Sec. XIX
+BO0624_88355,439328,319,401,"Salomon Kleiner's florierendes Frankfurt a. Main, bis auf den Grundrik komplett mit Text. 8 Tafeln in natirl. Grohe der Originalzeichnungen. Dritte Auflage. Heinrich Keller —K. Th. Uoelcker's Uerlag, 1878. Ohne",992,99.0,False,positional,Adolf Weber,,ACQUEFORTI,,Sec. XIX
 BO0624_88355,439329,320,402,Quai am Untermain-Tor.Dielmann del. Wm.Lange Ic. Kolor. Stich. 6°.,994,96.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439330,321,403,- Anlicht des Landungsplates am Fahrtor bei Frankfurt a. M. W. Jury fec. Kolor.Stich. 60.,996,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439331,322,404,- Quai am Fahrtor Frankfurt a. Main. Dielmann del. Wm.Lang Ic. Kolor. Stich. 60.,998,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439332,323,405,"Frankfurt, vom Untermainkai aus mit Inlel. Kolor. Stich. 60.",999,96.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439333,324,406,- Das Fahrtor.(meue Zeit.) B.Liebig.Original-Radierung. Fol.,1001,100.0,False,positional,Adolf Weber,,ACQUEFORTI,,
-BO0624_88355,439334,325,407,geft.1835. Stich.80.,1003,90.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439334,325,407,geft.1835. Stich.80.,1003,90.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439335,326,408,mit Rand. Kl. Fol.,1005,88.2,False,positional,Adolf Weber,,,,
-BO0624_88355,439336,327,409,Anlicht des Domes von 1848. Kolor. Cith. in Paffep. 80.,1006,96.2,False,positional,Adolf Weber,,,,
-BO0624_88355,439337,328,410,Der Dom von 1848. K. Th. Uoelcker's Uerlag Frankfurt a. M. Altere Farbenlithogr. Uorzigl. Abdruck mit got. Zierrand und Gold. 8.,1007,98.3,False,positional,Adolf Weber,,OGGETTI IN ORO,,
+BO0624_88355,439336,327,409,Anlicht des Domes von 1848. Kolor. Cith. in Paffep. 80.,1006,96.2,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439337,328,410,Der Dom von 1848. K. Th. Uoelcker's Uerlag Frankfurt a. M. Altere Farbenlithogr. Uorzigl. Abdruck mit got. Zierrand und Gold. 8.,1007,98.3,False,positional,Adolf Weber,,OGGETTI IN ORO,,Sec. XIX
 BO0624_88355,439338,329,411,Kailerl. Wahlkapelle im Dom. K. Th. Uolcker's Uerlag. Altere Farbenlithogr.,1008,97.2,False,positional,Adolf Weber,,,,
-BO0624_88355,439339,330,412,Der Dombrand am 15. Aug. 1867 nach einem Gemalde von H. Hallelhorlt. Hierbei ein Plan des Brandes. Photographie. Fol.,1010,98.2,False,positional,Adolf Weber,,,,
+BO0624_88355,439339,330,412,Der Dombrand am 15. Aug. 1867 nach einem Gemalde von H. Hallelhorlt. Hierbei ein Plan des Brandes. Photographie. Fol.,1010,98.2,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439340,331,413,"5 Blatt den Dom in leiner jetigen Form betreffend. Lith., Phot.ic. Fol.",1011,97.1,False,positional,Adolf Weber,,,,
-BO0624_88355,439341,332,414,Die neue Synagoge wahrend ihrer Einweihung durch die ifrael. Gemeinde am 23. Marz 1860. Ph.Frey lith. K. Th. Uoelcker's Uerlag. Altere Farbenlithographie mit Zierrand. 80.,1012,98.8,False,positional,Adolf Weber,,,,
+BO0624_88355,439341,332,414,Die neue Synagoge wahrend ihrer Einweihung durch die ifrael. Gemeinde am 23. Marz 1860. Ph.Frey lith. K. Th. Uoelcker's Uerlag. Altere Farbenlithographie mit Zierrand. 80.,1012,98.8,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439342,333,415,rand.80.,1014,77.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439343,334,416,"Die alte Peterskirche.14 Blatt: Gelamt- und Teilanlichten,Interieurs, Kirchhof, Grab der Eltern Goethes.B.Bagge und Anonym.Aquarell",1015,98.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439344,335,417,Grund aufgeklebt.40.,1018,90.5,False,positional,Adolf Weber,,,,
-BO0624_88355,439345,336,418,"Der Romerberg wahrend der Kronungsfeierlichkeiten am 8. Marz 1742 (Franz I.).J. G. Funck del.,M. Robler del. et fculplit. Kupferftich 1742. Kronungsblatt mit Rand. Fol. Desgleichen am 13. Sept.1745 wahrend der Konigswahl-Konferenz. Kupfer- ftich 1742. Kronungsblatt mit Rand. Fol.",1019,73.8,False,positional,Adolf Weber,,OGGETTI IN RAME,,
-BO0624_88355,439346,337,421,Desgleichen am 13. Sept. 1745 nach der Konigswahl. (W. C. Mayr fculpl.) Kupferftich 1742.Kronungsblatt mit Rand.Fol.,1024,98.2,False,positional,Adolf Weber,,,,
-BO0624_88355,439347,338,422,"Der Romerberg wahrend der Kronungsfeierlichkeiten im Juli 1792 (Franz I1.). Ruckkehr vom Dom nach dem Romer nebft Uerrichtung der Erzamter. H. Gabler, nirnberg del., Gg. Uogel fculpl. Kupferftich a.d. Jahre 1792 mit breitem Rand.Uorzigl. Abdruck in tadelloler Erhaltung. Selten. Roy. Fol.",1025,99.3,False,positional,Adolf Weber,,,,
-BO0624_88355,439348,339,423,"Der Romerberg wahrend der Schillerfeier 10. nou. 1859 mit dem SchillerMonument. Dielmann inu.F.C. Klimlch rad.Zweifarben-Stich. Gut Der Romerberg,im Uordergrunde die alte nicolaykirche.C. Beer lith. Originalfteinzeichnung mit Tonplatte. 4°. Romerberg und Romer. Ph.Frey lith., K. Th.Uoelcker's Uerlag. Altere Farbenlithographie mit got. Zierrand in Gold. Kl. 40:",1026,53.3,False,title_direct,F.C. Klimsch,,OGGETTI IN ORO,,
+BO0624_88355,439345,336,418,"Der Romerberg wahrend der Kronungsfeierlichkeiten am 8. Marz 1742 (Franz I.).J. G. Funck del.,M. Robler del. et fculplit. Kupferftich 1742. Kronungsblatt mit Rand. Fol. Desgleichen am 13. Sept.1745 wahrend der Konigswahl-Konferenz. Kupfer- ftich 1742. Kronungsblatt mit Rand. Fol.",1019,73.8,False,positional,Adolf Weber,,OGGETTI IN RAME,,Sec. XVIII
+BO0624_88355,439346,337,421,Desgleichen am 13. Sept. 1745 nach der Konigswahl. (W. C. Mayr fculpl.) Kupferftich 1742.Kronungsblatt mit Rand.Fol.,1024,98.2,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,439347,338,422,"Der Romerberg wahrend der Kronungsfeierlichkeiten im Juli 1792 (Franz I1.). Ruckkehr vom Dom nach dem Romer nebft Uerrichtung der Erzamter. H. Gabler, nirnberg del., Gg. Uogel fculpl. Kupferftich a.d. Jahre 1792 mit breitem Rand.Uorzigl. Abdruck in tadelloler Erhaltung. Selten. Roy. Fol.",1025,99.3,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,439348,339,423,"Der Romerberg wahrend der Schillerfeier 10. nou. 1859 mit dem SchillerMonument. Dielmann inu.F.C. Klimlch rad.Zweifarben-Stich. Gut Der Romerberg,im Uordergrunde die alte nicolaykirche.C. Beer lith. Originalfteinzeichnung mit Tonplatte. 4°. Romerberg und Romer. Ph.Frey lith., K. Th.Uoelcker's Uerlag. Altere Farbenlithographie mit got. Zierrand in Gold. Kl. 40:",1026,53.3,False,title_direct,F.C. Klimsch,,OGGETTI IN ORO,,Sec. XIX
 BO0624_88355,439349,340,426,"Der Romerberg (Place du Marche). Kolor. Guckkaftenbild, eine Ecke erganzt.",1030,97.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439350,341,427,"Der Konzertlaal. Ph.Frey lith.,K. Th. Uoelcker's Uerlag. Altere Farbenlith. mit Zierrand. Liebfrauenberg und Kirche. Ph. Frey lith., K. Th. Uoelcker's Uerlag. Das Bundespalais. Ph. Frey lith.,K. Th. Uoelcker's Uerlag. Altere Farbenlithogr.mit Zierrand.",1033,54.2,False,positional,Adolf Weber,,,,
 BO0624_88355,439351,342,430,- Altere Farbenlithogr. mit Zierrand.,1035,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439352,343,431,"Das Elchenheimer Tor, uon der Stadtfeite aus gelehen. Carl Juigels Verlag, Farbenlithogr.nach Reiffenftein.12.",1036,78.5,False,positional,Adolf Weber,,,,
-BO0624_88355,439353,344,432,Der Zwinger oftl. vom Eichenh. Turm. Carl Juigels Uerlag 1890. Farben-,1040,97.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439354,345,4331,Carl Jugels Uerlag 1890.Farbenlithogr. nach,1041,94.4,False,positional,Adolf Weber,,,,
-BO0624_88355,439355,346,434,"Das Koppler-Hofchen, Domplat 12. Carl Jugels Uerlag 1890. Farbenlithogr.nach Reiffenftein.120.",1042,97.8,False,positional,Adolf Weber,,,,
-BO0624_88355,439356,347,435,Der Trierifche Hof. Carl Juigels Uerlag 1890. Farbenlithogr. nach Reiffenftein.80.,1044,97.5,False,positional,Adolf Weber,,,,
-BO0624_88355,439357,348,436,Das Holzpfortchen. Carl Jugels Verlag 1890. Farbenlithogr. nach Reiffenftein.80.,1046,97.4,False,positional,Adolf Weber,,,,
+BO0624_88355,439353,344,432,Der Zwinger oftl. vom Eichenh. Turm. Carl Juigels Uerlag 1890. Farben-,1040,97.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439354,345,4331,Carl Jugels Uerlag 1890.Farbenlithogr. nach,1041,94.4,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439355,346,434,"Das Koppler-Hofchen, Domplat 12. Carl Jugels Uerlag 1890. Farbenlithogr.nach Reiffenftein.120.",1042,97.8,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439356,347,435,Der Trierifche Hof. Carl Juigels Uerlag 1890. Farbenlithogr. nach Reiffenftein.80.,1044,97.5,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439357,348,436,Das Holzpfortchen. Carl Jugels Verlag 1890. Farbenlithogr. nach Reiffenftein.80.,1046,97.4,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439358,349,437,"Roteldruck,leltenes Einzelexemplar.4°.",1047,94.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439359,350,438,auf gewalzt. China. 80.,1050,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439360,351,439,China.6°.,1051,77.8,False,positional,Adolf Weber,,,,
-BO0624_88355,439361,352,440,Der grobe Riederhof Hanauerlandftr.1895. B.Bagge Ic. Original-Radierung,1053,97.2,False,positional,Adolf Weber,,ACQUEFORTI,,
+BO0624_88355,439361,352,440,Der grobe Riederhof Hanauerlandftr.1895. B.Bagge Ic. Original-Radierung,1053,97.2,False,positional,Adolf Weber,,ACQUEFORTI,,Sec. XIX
 BO0624_88355,439362,353,441,Die Bibliothek mit Obermaintor. n.d. nat.a.Stein gez. von C.Beer.,1054,96.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439363,354,442,- 443,1057,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439364,355,444,"- 445 Pfarreilen. Ph. Frey lith., K. Th.Uoelcker's Uerlag. Altere Farbenlith., kolor.40.",1059,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439365,356,446,"Die Zeil. Ph. Frey lith., K. Th. Uoelcker's Uerlag. Altere Farbenlith.,",1062,96.9,False,positional,Adolf Weber,,,,
-BO0624_88355,439366,357,447,Die Allee vor dem Galgenwall. Calpar Zehender. Aquarell 22/32. Daslelbe Blatt mit fehr breitem Rand. Farbenlithographie. Selten vorzigl. Abdruck uor der Schrift. Fol. Die Oftendhalle (Kaffeegarten beftand 1855-69).Farbenlithographie. Selten vorzigl. Abdruck uor der Schrift. Fol.,1066,57.1,False,positional,Adolf Weber,,,,
+BO0624_88355,439366,357,447,Die Allee vor dem Galgenwall. Calpar Zehender. Aquarell 22/32. Daslelbe Blatt mit fehr breitem Rand. Farbenlithographie. Selten vorzigl. Abdruck uor der Schrift. Fol. Die Oftendhalle (Kaffeegarten beftand 1855-69).Farbenlithographie. Selten vorzigl. Abdruck uor der Schrift. Fol.,1066,57.1,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439367,358,450,"Giolletts Denkmal. Ph. Frey lith.,K. Th.Uoelcker Uerlag. Altere Farbenlithographie. Selten vorzigl. Abdruck uor der Schrift mit Zierrand und Gold.40.",1067,98.6,False,positional,Adolf Weber,,OGGETTI IN ORO,,
 BO0624_88355,439368,359,451,"Goethes Denkmal. Ph.Frey lith.,K. Th.Uoelcker Uerlag.Altere Farbenlithographie.Selten uorzigl. Abdruck vor der Schrift mit Zierrand und Gold.40.",1068,98.6,False,positional,Adolf Weber,,OGGETTI IN ORO,,
 BO0624_88355,439369,360,452,und Gold.40.,1070,84.6,False,positional,Adolf Weber,,OGGETTI IN ORO,,
@@ -366,15 +366,15 @@ BO0624_88355,439373,364,456,- Das Opernhaus. Lichtdruck. Fol. Blatt alte Photogr
 BO0624_88355,439374,365,457,heiten und Anfichten. Diu.Grohen.,1079,93.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439375,366,458,"30 Blatt Anfichten ic. Stiche, Radierungen, Lith., Zeichnungen ic. Diu. Groh.",1080,97.2,False,positional,Adolf Weber,,ACQUEFORTI,,
 BO0624_88355,439376,367,459,"12 Blatt Anlichten ic. Stiche,Radierungen,Lith.,Zeichnungen ic. Diu. Groh.",1081,97.2,False,positional,Adolf Weber,,ACQUEFORTI,,
-BO0624_88355,439377,368,462,"Das Fruchtpfortchen in Sachlenhaulen mit Blick auf den Dom, nach einem Reiffenftein'fchen Aquarell 1865. Carl Jugels Uerlag 1890. Farbenlithogr. 80",1088,98.6,False,positional,Adolf Weber,,,,
+BO0624_88355,439377,368,462,"Das Fruchtpfortchen in Sachlenhaulen mit Blick auf den Dom, nach einem Reiffenftein'fchen Aquarell 1865. Carl Jugels Uerlag 1890. Farbenlithogr. 80",1088,98.6,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439378,369,463,Das Deutfche Ordenshaus in Sachlenhaufen.Lithographie. 6°.,1089,96.5,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
-BO0624_88355,439379,370,464,- Anficht des Deutichen Haules in Sachfenhaulen um 1400. Th. Linnemann fc. Umribradierung.40.,1091,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439379,370,464,- Anficht des Deutichen Haules in Sachfenhaulen um 1400. Th. Linnemann fc. Umribradierung.40.,1091,100.0,False,positional,Adolf Weber,,,,Sec. XV
 BO0624_88355,439380,371,466,466,1093,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439381,372,467,C.F. Mylius 1891.Aquarell 21/32.,1097,93.8,False,positional,Adolf Weber,,,,
+BO0624_88355,439381,372,467,C.F. Mylius 1891.Aquarell 21/32.,1097,93.8,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439382,373,468,- Die Sachfenhauler Warte. Aquarell 44/33.,1099,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439383,374,469,- Die Ziegelhitte am Riedhof. Aquarell 19/25.,1101,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439384,375,470,Schrift.40.,1103,83.3,False,positional,Adolf Weber,,,,
-BO0624_88355,439385,376,471,- Die Ziegelhitte am Riedhof. Bleiftiftzeichnung 20/28. m Lorsbacher Talchen 1893. Kl. Rittergafle 23. B. Bagge Ic. Original-,1106,71.5,False,positional,Adolf Weber,,,,
+BO0624_88355,439385,376,471,- Die Ziegelhitte am Riedhof. Bleiftiftzeichnung 20/28. m Lorsbacher Talchen 1893. Kl. Rittergafle 23. B. Bagge Ic. Original-,1106,71.5,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439386,377,472,Radierung.40.,1111,85.7,False,positional,Adolf Weber,,ACQUEFORTI,,
 BO0624_88355,439387,378,474,474,1113,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439388,379,475,"- Uue du Mayn pres Francfort. C. Schneider pinx., P. Rucker Iculpf. Kolor. Kupferftich,alteres Blatt. 40.",1116,100.0,False,positional,Adolf Weber,,,,
@@ -384,48 +384,48 @@ BO0624_88355,439391,382,479,Motiu an der Sternbruicke in Rodelheim. Frit Bamberg
 BO0624_88355,439392,383,480,Ruine in Bergen. Weibgehohte Sepiamalerei 20/27.,1124,95.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439393,384,481,"Offenbach am Main.3 Blatt nach Hergenroder,Reiffenftein, Zehender. Farbenzeichnungen. Diu. Gr.",1125,97.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439394,385,482,"- Dreieichenhain,Burgruine. J. Kiefer fec. Original-Steinzeichnung. Probeabzug in Rotelton. Fol.",1127,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439395,386,483,Konigftein i. T. nach Merian 1580. Feingetontes Aguarell mit pragnanter - 461,1128,94.4,False,positional,Adolf Weber,,,,
-BO0624_88355,439396,387,484,"- Eppftein i. T., nach Merian 1605. Feingetontes Aquarell mit pragnanter Zeichnung 27/23.",1133,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439395,386,483,Konigftein i. T. nach Merian 1580. Feingetontes Aguarell mit pragnanter - 461,1128,94.4,False,positional,Adolf Weber,,,,Sec. XVI
+BO0624_88355,439396,387,484,"- Eppftein i. T., nach Merian 1605. Feingetontes Aquarell mit pragnanter Zeichnung 27/23.",1133,100.0,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,439397,388,485,tadell. Scharfe und Erhaltung. 80.,1135,93.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439398,389,486,Gahchen in Eppftein. E. Schufter fec. auf Japan mit Rand. Gr. Roy. Fol.,1137,97.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439399,390,487,- Dorf und Felte Eppftein. C. F. Mylius. Getonte Original-Bleiftiftzeichnung von maler. Wirkung 17/24.,1139,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439400,391,488,Stadtplan 1845 mit Gelamtanlicht. Stich. Gr. qu. Fol.,1145,96.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439401,392,489,Karte des Frankfurter Gebiets mit kleiner Stadtanlicht. Rauenftein 1853. Stich.Imp.qu.Fol.,1146,97.8,False,positional,Adolf Weber,,,,
+BO0624_88355,439400,391,488,Stadtplan 1845 mit Gelamtanlicht. Stich. Gr. qu. Fol.,1145,96.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439401,392,489,Karte des Frankfurter Gebiets mit kleiner Stadtanlicht. Rauenftein 1853. Stich.Imp.qu.Fol.,1146,97.8,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439402,393,490,- 491,1148,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439403,394,9,altere und neuere Stadtplane. Diu.Gr.,1150,97.2,False,positional,Adolf Weber,,,,
 BO0624_88355,439404,395,492,"Johann Daniel Arcularius, Senior des euang.-luth.Pred.Minifteriums. Bruftbild in oualer Barock-Umrandung.Merian pinx. Seupel Ic.Alter Kupferftich mit Rand. Prachtuoller Abdruck auf Atlas.Rechts leicht befchnitten. In dieler Ausfuhrung uon groher Seltenheit. Gr. qu. Fol.",1151,99.2,False,positional,Adolf Weber,,,,
-BO0624_88355,439405,396,493,"Carl, Grobherzog von Frankfurt, in oualem Med. Punktier-Stich. 8°. Uon Cronftetten, Joh. Ad. Steffen, Schoff und Senator, + 1712. In oualer Umrandung mit Wappen. M. Merian pinx., E. Chr. Heik Ic., Augsburg. Schabkunftblatt mit Rand. Gefaltet. Fol.",1152,99.1,False,positional,Adolf Weber,,,,
-BO0624_88355,439406,397,494,"- Gerning, Johannes Chriftianus, 1745. Bruftbild in Rahmen mit Wappen. J. de Giorgi del., S. H. Wicker fec., 1778. Kupferftich mit Rand. Tadell. Abdruck.60.",1154,100.0,False,positional,Adolf Weber,,CORNICI,,
-BO0624_88355,439407,398,495,"u.Holzhaulen,Joh. Gg.,Kailerl. Schultheib,+ 1721. Bruftbild in rechteck. Rahmen mit Wappen. E. Chr. Hei und Bernh. Uogel ic.,Augsburg. Schab kunftblatt.Guter Abdruck mit uollem Rand. 40.",1155,98.8,False,positional,Adolf Weber,,CORNICI,,
+BO0624_88355,439405,396,493,"Carl, Grobherzog von Frankfurt, in oualem Med. Punktier-Stich. 8°. Uon Cronftetten, Joh. Ad. Steffen, Schoff und Senator, + 1712. In oualer Umrandung mit Wappen. M. Merian pinx., E. Chr. Heik Ic., Augsburg. Schabkunftblatt mit Rand. Gefaltet. Fol.",1152,99.1,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,439406,397,494,"- Gerning, Johannes Chriftianus, 1745. Bruftbild in Rahmen mit Wappen. J. de Giorgi del., S. H. Wicker fec., 1778. Kupferftich mit Rand. Tadell. Abdruck.60.",1154,100.0,False,positional,Adolf Weber,,CORNICI,,Sec. XVIII
+BO0624_88355,439407,398,495,"u.Holzhaulen,Joh. Gg.,Kailerl. Schultheib,+ 1721. Bruftbild in rechteck. Rahmen mit Wappen. E. Chr. Hei und Bernh. Uogel ic.,Augsburg. Schab kunftblatt.Guter Abdruck mit uollem Rand. 40.",1155,98.8,False,positional,Adolf Weber,,CORNICI,,Sec. XVIII
 BO0624_88355,439408,399,496,"Cersner, Heinrich Ludwig. Bruftbild in oualem Medaillon mit Wappen. M. Merian pinx., El. Chr. Heib Ic. Schabkunftblatt. Gefaltet und be-",1156,98.4,False,positional,Adolf Weber,,,,
 BO0624_88355,439409,400,497,vorn in oualem Med. Stich.Gefalten.40.,1159,94.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439410,401,498,Kupferftich.8o.,1161,87.5,False,positional,Adolf Weber,,,,
-BO0624_88355,439411,402,499,"- Rhoft, Johann Chritian,Kailerl. Rat,  20. II. 1777. J. E.Haid Ic. Schabkunftblatt.40.",1163,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439412,403,500,"Prince de Rohan, Louis Conftantin, Cardinal de la St. Eglile Romaine. C. Guerin, 1776. Kupferftich, ohne Grund aufgeklebt. 6°.",1164,98.3,False,positional,Adolf Weber,Scuola Romana,,,
+BO0624_88355,439411,402,499,"- Rhoft, Johann Chritian,Kailerl. Rat,  20. II. 1777. J. E.Haid Ic. Schabkunftblatt.40.",1163,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,439412,403,500,"Prince de Rohan, Louis Conftantin, Cardinal de la St. Eglile Romaine. C. Guerin, 1776. Kupferftich, ohne Grund aufgeklebt. 6°.",1164,98.3,False,positional,Adolf Weber,Scuola Romana,,,Sec. XVIII
 BO0624_88355,439413,404,501,"Jacob uon Sandrart und leine Gattin Regina Chriftina. Bruftbilder in ineinandergehenden oualem Rahmen. L. Hirlchmann pinx., Bernh. Uogel Ic. Kupferftich. Ausgezeichneter charfer Abzug, ohne Grund aufgeklebt. 6° Blatt: Berthold Auerbach, Franz Fabricius, Struwwelpeter-Hofmann, Joachim Raff, Dr. G.Uarrentrapp. Schertle lith. Steinzeichnungen. Tadel-",1165,75.0,False,positional,Adolf Weber,,CORNICI,,
 BO0624_88355,439414,405,502,"lole,klare Abzige in befter Erhaltung. 40:",1167,95.2,False,positional,Adolf Weber,,,,
 BO0624_88355,439415,406,503,"12 Blatt: Frankfurter Gelehrte, Kunftler und Birger. Diuerle Techniken",1168,97.1,False,positional,Adolf Weber,,,,
-BO0624_88355,439416,407,504,"Portrats uon Fettmilch, Gerngroh und Schopp. Bruftbilder mit erklarender Unterlchrift iber deren Anftiftung des Aufftandes im Jahre 1612. Kupferftich. Ausgezeichneter Icharfer Abzug mit vollem Rand.4o.",1170,99.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439416,407,504,"Portrats uon Fettmilch, Gerngroh und Schopp. Bruftbilder mit erklarender Unterlchrift iber deren Anftiftung des Aufftandes im Jahre 1612. Kupferftich. Ausgezeichneter Icharfer Abzug mit vollem Rand.4o.",1170,99.0,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,439417,408,505,3 Blatt: Frankfurts Orden und Ehrenzeichen. Farbenlithographie.6°.,1171,96.9,False,positional,Adolf Weber,,DECORAZIONI DA PARETE,,
-BO0624_88355,439418,409,506,"Gedenkblatt an den Regierungsantritt des Erzherzogs Johann uon Ofterreich als deutlcher Reichsuerweler zu Frankfurt a.M. 1848. Franz Joleph Bercina rad. Kalligraphie mit Gold-Zierrand. Gut erhaltenes Exemplar. Roy.Fol. 3 Blatt: Erinnerungen an das Uorparlament und die national-Uerlammlung 1848. F.Bamberger, W.Heifter,F.W.Tolles. Lithographien. Diu. Groh. Lithographie in Farben und Gold. Roy. Fol.",1172,70.8,False,positional,Adolf Weber,,OGGETTI IN ORO,,
+BO0624_88355,439418,409,506,"Gedenkblatt an den Regierungsantritt des Erzherzogs Johann uon Ofterreich als deutlcher Reichsuerweler zu Frankfurt a.M. 1848. Franz Joleph Bercina rad. Kalligraphie mit Gold-Zierrand. Gut erhaltenes Exemplar. Roy.Fol. 3 Blatt: Erinnerungen an das Uorparlament und die national-Uerlammlung 1848. F.Bamberger, W.Heifter,F.W.Tolles. Lithographien. Diu. Groh. Lithographie in Farben und Gold. Roy. Fol.",1172,70.8,False,positional,Adolf Weber,,OGGETTI IN ORO,,Sec. XIX
 BO0624_88355,439419,410,509,- 510 Gedenkblatt an die Entftehung der Turnuereine und die Ausbreitung des,1177,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439420,411,32,"Spottblatter auf das Jahr 1848. 20 alte Lithogr.,12 Atungen. 4 ic.",1178,97.6,False,positional,Adolf Weber,,,,
-BO0624_88355,439421,412,511,"Erinnerungsblatt an das funfte Maintal-Sangerfeft am 6. und 7. 9. 1863 mit Anlichten Alt-Homburgs.C. Jacobi gez.,F.C. Klimlch lith. Cithographie mit Tonplatte. Tadelloles Exemplar. Gr.Roy. Fol.",1180,98.9,False,title_direct,F.C. Klimsch,,,,
+BO0624_88355,439420,411,32,"Spottblatter auf das Jahr 1848. 20 alte Lithogr.,12 Atungen. 4 ic.",1178,97.6,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439421,412,511,"Erinnerungsblatt an das funfte Maintal-Sangerfeft am 6. und 7. 9. 1863 mit Anlichten Alt-Homburgs.C. Jacobi gez.,F.C. Klimlch lith. Cithographie mit Tonplatte. Tadelloles Exemplar. Gr.Roy. Fol.",1180,98.9,False,title_direct,F.C. Klimsch,,,,Sec. XIX
 BO0624_88355,439422,413,512,Erinnerungsblatt an die 4. Sakularfeier der Erfindung der Buchdruckerkunft,1182,97.3,False,positional,Adolf Weber,,,,
-BO0624_88355,439423,414,513,Die Enthuillung des zur 4. Sakularfeier der Erfindung der Buchdruckerkunft errichteten Monuments auf dem Rohmarkt. F. Pichler gez. und lith. 1840. Die als Feltnummer des Frankfurter Journals in Sonderausftattung herausgegebene nr. 176 uom 24. Juni 1840 beigelegt.Lithographie. Oberer Rand belchnitten. Fol.,1183,99.3,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
-BO0624_88355,439424,415,514,"12 Theaterzettel uon Feltuorftellungen der Frankfurter Stadttheater,herausgegeben bei den Eroffnungen, fowie Erinnerungsfeiern, lowie bei belonderen Gelegenheiten: jahr. Jubil. des Stickes: Der alte Burgerkapitan am 14. Aug. 1871,",1187,83.1,False,positional,Adolf Weber,,,,
-BO0624_88355,439425,416,515,Erinnerungsheft zur Mozartfeier am 29.-30. Juli 1838 mit 2 llultrationen,1196,97.2,False,positional,Adolf Weber,,,,
-BO0624_88355,439426,417,516,Erinnerungsblatt zur Enthullungsfeier des Goethe-Denkmals im Jahre 1844.,1198,97.3,False,positional,Adolf Weber,,,,
+BO0624_88355,439423,414,513,Die Enthuillung des zur 4. Sakularfeier der Erfindung der Buchdruckerkunft errichteten Monuments auf dem Rohmarkt. F. Pichler gez. und lith. 1840. Die als Feltnummer des Frankfurter Journals in Sonderausftattung herausgegebene nr. 176 uom 24. Juni 1840 beigelegt.Lithographie. Oberer Rand belchnitten. Fol.,1183,99.3,False,positional,Adolf Weber,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_88355,439424,415,514,"12 Theaterzettel uon Feltuorftellungen der Frankfurter Stadttheater,herausgegeben bei den Eroffnungen, fowie Erinnerungsfeiern, lowie bei belonderen Gelegenheiten: jahr. Jubil. des Stickes: Der alte Burgerkapitan am 14. Aug. 1871,",1187,83.1,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439425,416,515,Erinnerungsheft zur Mozartfeier am 29.-30. Juli 1838 mit 2 llultrationen,1196,97.2,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439426,417,516,Erinnerungsblatt zur Enthullungsfeier des Goethe-Denkmals im Jahre 1844.,1198,97.3,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439427,418,517,"Goethe in Italien. Tifchbein fec., F. C. Uogel lith. Lithographie. Belchnitten.4.",1199,97.3,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
 BO0624_88355,439428,419,518,- Stich. Guter Abzug. Gr. Fol.,1201,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439429,420,519,"- Das Goethehaus in Frankfurt a.M. L. Lange gez.,H. Knauth lith. Lithographie. Tadelloler Abzug.40.",1204,100.0,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
 BO0624_88355,439430,421,520,Decke und Goldlchnitt. Fol.,1206,92.6,False,positional,Adolf Weber,,,,
 BO0624_88355,439431,422,521,- Daslelbe. Samtl. Abbildungen jedoch prachtig. Kolorit. Fol.,1208,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439432,423,522,Dasfelbe. Die lith. Blatter allein ohne Text.40.,1209,95.7,False,positional,Adolf Weber,,,,
-BO0624_88355,439433,424,523,"Das 1. deutiche BundesichieBen 1862.20 Originallithographien von F.C. Blatt betr. Schutenfeft 1862 und 1887 fowie Turnfeft 1880. Stiche, Lithogr,",1212,68.5,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
+BO0624_88355,439433,424,523,"Das 1. deutiche BundesichieBen 1862.20 Originallithographien von F.C. Blatt betr. Schutenfeft 1862 und 1887 fowie Turnfeft 1880. Stiche, Lithogr,",1212,68.5,False,positional,Adolf Weber,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88355,439434,425,524,Photogr.ic.,1213,83.3,False,positional,Adolf Weber,,,,
-BO0624_88355,439435,426,525,"- Konuolut:Altfrankfurter Texte 1885, 1896,1900 ufw.",1215,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439436,427,526,"lluftrationen iber die elektrotechn. Ausftellung im Jahre 1891. """,1216,96.8,False,positional,Adolf Weber,,,,
+BO0624_88355,439435,426,525,"- Konuolut:Altfrankfurter Texte 1885, 1896,1900 ufw.",1215,100.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439436,427,526,"lluftrationen iber die elektrotechn. Ausftellung im Jahre 1891. """,1216,96.8,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439437,428,527,"8 Gedenkblatter an Frankfurter Felte und Ausftellungen. Diu. Grohen. Kalender n. d. Emil Rumpf'lchen Wandmalereien im ,Jung""",1217,69.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439438,429,528,iber Altfrankfurter Motiue.,1219,92.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439439,430,529,"4 Kalender mit Anlichten aus Altfrankfurt und der alten Bricke. Originalradierungen und Lithogr. von A. B. Sohngen, Ftankfurt am Main.",1220,98.5,False,positional,Adolf Weber,,ACQUEFORTI,,
@@ -433,14 +433,14 @@ BO0624_88355,439440,431,530,12 Frankfurter Kalender mit Anlichten und Dekoration
 BO0624_88355,439441,432,531,"auf Frankfurt bezuigl. Literatur. """,1223,93.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439442,433,532,Partie Krebbel-Zeitungen ic.,1224,93.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439443,434,533,Rokoko-Frauenportrat.                                                                                                    | Farb.Zeichnung 21/17          |,1231,95.3,False,positional,Adolf Weber,,,,
-BO0624_88355,439444,435,543,"Campenn mit dem Schlern. Bez.:E. T.C. 544 Die Benediktenwand. Bez.:E.T.C. 31.X. 16. Karl Conjola,1773-1831,Munchen.      | Aquarell 17/27 Aquarell 17/24 |",1241,98.5,False,positional,Adolf Weber,,,,
+BO0624_88355,439444,435,543,"Campenn mit dem Schlern. Bez.:E. T.C. 544 Die Benediktenwand. Bez.:E.T.C. 31.X. 16. Karl Conjola,1773-1831,Munchen.      | Aquarell 17/27 Aquarell 17/24 |",1241,98.5,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,439445,436,545,"Sudliche Landlchaft. 546 Der Chiemlee. Bez.:C. Conjola del.                                                              | Sepia 14/28,5 Sepia 16/32     |",1242,97.6,False,positional,Adolf Weber,,,,
 BO0624_88355,439446,437,551,| Mondnacht am Meer.                                                                   | Gouache 47/60               |,1249,93.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439447,438,552,| Sonnenuntergang. Waldlandlchaft.                                                     | Gouache 44/57 Gouache 41/54 |,1251,96.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439448,439,553,554 | J.W. uon Goethe. Ttalienilche Landichaft. (Gardalee.)                                | Blei u.Feder 26/21          |,1252,97.2,False,positional,Adolf Weber,,OGGETTI IN PIOMBO,,
-BO0624_88355,439449,440,555,"| Jean Baptifte Greuze,1725-1805,Paris. Studienkopf einer Frau.                        | Zwei Kreiden 31/25          |",1253,97.5,False,positional,Adolf Weber,,,,
+BO0624_88355,439449,440,555,"| Jean Baptifte Greuze,1725-1805,Paris. Studienkopf einer Frau.                        | Zwei Kreiden 31/25          |",1253,97.5,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,439450,441,556,"| Theodor Guggenberger, Munchen. Im Hochfommer. Bez.: T. Guggenberger.                 | Aquarell 24/35,5            |",1254,97.5,False,positional,Adolf Weber,,,,
-BO0624_88355,439451,442,557,"| Karl Haider,1846-1912,Schlierlee. Studienkopf.                                       | Kohle 53/40                 |",1255,96.6,False,positional,Adolf Weber,,,,
+BO0624_88355,439451,442,557,"| Karl Haider,1846-1912,Schlierlee. Studienkopf.                                       | Kohle 53/40                 |",1255,96.6,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439452,443,558,"| Hartmann,18. Jahrhundert. Landichaft mit Baumen und Waffer. Bez.:Hartmann f.         | Feder 32,5/42               |",1256,97.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439453,444,563,| Ttalienilcher Meifter. (Daniele di Uolterra ?) Zwei mannliche Figuren. G.C.Kiers.    | Feder 20/12                 |,1261,97.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439454,445,566,| Konuolute. 6 Blatt Figurliches. Diu. Groben.                                         |                             |,1264,95.2,False,positional,Adolf Weber,,,,
@@ -454,28 +454,28 @@ BO0624_88355,439461,452,573,| Desgl.                                            
 BO0624_88355,439462,453,574,| 6 ” 10 Desgl. ” 5                                                                    | Ebenlo.                     |,1272,90.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439463,454,575,| diu. Zeichnungen. ”                                                                  |                             |,1273,88.2,False,positional,Adolf Weber,,,,
 BO0624_88355,439464,455,576,"| 10 Gelellenbriefe. Augsburg, Clagenfurt, Heruordt, Mainz, Ofen,                      |                             |",1274,96.6,False,positional,Adolf Weber,,,,
-BO0624_88355,439465,456,578,"| Gabriel uon Max,1840-1915, Munchen. Kohle u.Tulche 34,5/23 Gretchen. Bez.: G. Max 1870.                                                          |",1278,97.6,False,positional,Adolf Weber,,,,
+BO0624_88355,439465,456,578,"| Gabriel uon Max,1840-1915, Munchen. Kohle u.Tulche 34,5/23 Gretchen. Bez.: G. Max 1870.                                                          |",1278,97.6,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439466,457,580,"| Michelangelo. (Schule.) Feder 13/32,5 Szene aus dem jungften Gericht.                                                                            |",1280,97.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439467,458,581,"| Jean Michel Moreau,1741-1814, Paris. Aquarell 30/20 Portrat Mlle. de Lamballe.                                                                   |",1281,97.4,False,positional,Adolf Weber,,,,
-BO0624_88355,439468,459,582,"| Chriftian Ernft Bernhard Morgenftern,1805-1867,Munchen. Tufche 29/37 Landfchaft mit Walfer. Bez.: M. 8/5. 35.                                    |",1282,98.1,False,positional,Adolf Weber,,,,
-BO0624_88355,439469,460,583,"| Karl Friedrich Morit Muller,1807-1865,Munchen. Blei 23,5/15 Sitende Tirolerin.                                                                   |",1283,97.4,False,positional,Adolf Weber,,OGGETTI IN PIOMBO,,
+BO0624_88355,439467,458,581,"| Jean Michel Moreau,1741-1814, Paris. Aquarell 30/20 Portrat Mlle. de Lamballe.                                                                   |",1281,97.4,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,439468,459,582,"| Chriftian Ernft Bernhard Morgenftern,1805-1867,Munchen. Tufche 29/37 Landfchaft mit Walfer. Bez.: M. 8/5. 35.                                    |",1282,98.1,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439469,460,583,"| Karl Friedrich Morit Muller,1807-1865,Munchen. Blei 23,5/15 Sitende Tirolerin.                                                                   |",1283,97.4,False,positional,Adolf Weber,,OGGETTI IN PIOMBO,,Sec. XIX
 BO0624_88355,439470,461,586,"| Rotft.20/18,5 6Tragelel. Bez.: Monogramm.                                                                                                        |",1286,94.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439471,462,588,"| Am Chiemlee. Bez.: K. Raupp Munchen 86. Aquarell 25,5/35,5 Ruhiger See. Bez.: C. Raupp.                                                          |",1288,97.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439472,463,589,"590 591 | Aquarell 15,5/38 Kahn im Schilf. Bez.:K. Raupp. Aquarell 23/40 Ciebespaar im Kahn. Bez.: K. Raupp. Aquarell 20,5/43                              |",1289,98.3,False,positional,Adolf Weber,,,,
-BO0624_88355,439473,464,592,"| Johann Chrift.Reinhart,1761-1847,Rom. Ttalienifche Landfchaft. Bez.: Monogr. Kohle 29/37,5 Giulio Romano (Pippi),1493—1546,Mantua.               |",1290,98.4,False,positional,Adolf Weber,,,,
+BO0624_88355,439473,464,592,"| Johann Chrift.Reinhart,1761-1847,Rom. Ttalienifche Landfchaft. Bez.: Monogr. Kohle 29/37,5 Giulio Romano (Pippi),1493—1546,Mantua.               |",1290,98.4,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,439474,465,593,"594     | Boote am Strand. Feder u.Sepia 18/30,5                                                                                                           |",1293,95.3,False,positional,Adolf Weber,,,,
-BO0624_88355,439475,466,595,"| Schafftudien. Saluatore Rofa,1615-1673,Rom.                                                                                                      |",1294,95.3,False,positional,Adolf Weber,,,,
+BO0624_88355,439475,466,595,"| Schafftudien. Saluatore Rofa,1615-1673,Rom.                                                                                                      |",1294,95.3,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,439476,467,596,|                                                                                                                                                  |,1295,0.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439477,468,597,"| Carl uon Rottmann,1798-1850, Munchen. Blei 22/34 Griechiiche Landlchaft.                                                                         |",1298,97.2,False,positional,Adolf Weber,,OGGETTI IN PIOMBO,,
+BO0624_88355,439477,468,597,"| Carl uon Rottmann,1798-1850, Munchen. Blei 22/34 Griechiiche Landlchaft.                                                                         |",1298,97.2,False,positional,Adolf Weber,,OGGETTI IN PIOMBO,,Sec. XIX
 BO0624_88355,439478,469,597,a Raft am Weg.,1301,89.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439479,470,599,Sommerlandichaft.,1311,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439480,471,600,Heuernte. Bez.:Rob. Schleich.,1317,92.6,False,title_direct,C.Schleich,,,,
-BO0624_88355,439481,472,601,Zwei Freundinnen. Bez.: Monogr. Leipzig Marz 1863.,1323,95.7,False,positional,Adolf Weber,,,,
+BO0624_88355,439481,472,601,Zwei Freundinnen. Bez.: Monogr. Leipzig Marz 1863.,1323,95.7,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439482,473,602,Im Moor (Oftfriesland).,1331,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439483,474,603,Luther vor Frau Cottas Haule.,1339,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439484,475,604,Betendes Kind. Bezeichnung unlelerlich.,1347,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439485,476,605,Elfen auf Wolken.,1353,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439486,477,607,2 Blatt Alphabet um 1653.Bezeichnet.,1361,94.6,False,positional,Adolf Weber,,,,
+BO0624_88355,439486,477,607,2 Blatt Alphabet um 1653.Bezeichnet.,1361,94.6,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,439487,478,608,Audifax und Hadumoth.,1369,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439488,479,611,"Lautenlpiel. Bezeichnet. Blei u.Sepia 37/31,5",1377,95.6,False,positional,Adolf Weber,,OGGETTI IN PIOMBO,,
 BO0624_88355,439489,480,612,J. Aliamet. Le rachat de lesclaue. Berghem pinx. Roy. Fol.,1383,96.3,False,positional,Adolf Weber,,,,
@@ -491,7 +491,7 @@ BO0624_88355,439498,489,621,- 一 Derl. Strabe in Haarlem. Gr. Fol. 一 Derf. Ho
 BO0624_88355,439499,490,624,一,1397,33.3,False,positional,Adolf Weber,,,,
 BO0624_88355,439500,491,625,一 R.Stieler. Spitalbaftei und Tauberbricke in Rothenburg o.T. Gr.Fol.,1399,97.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439501,492,626,- P.Fletcher-Watlon. Inneres der Kathedrale in Burgos.Gr. Fol.,1401,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439502,493,627,Ascanius invent. 1596. Kirche. Qu. Fol.,1402,94.4,False,positional,Adolf Weber,,,,
+BO0624_88355,439502,493,627,Ascanius invent. 1596. Kirche. Qu. Fol.,1402,94.4,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,439503,494,628,J.Ballin. Elmire und Tartuffe nach Carl Hoff. Kpft. Gr.Fol.,1403,96.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439504,495,629,J.Bankel. Liebe nach R.BeyIchlag. Kpft.Gr. Fol.,1404,95.6,False,positional,Adolf Weber,,,,
 BO0624_88355,439505,496,630,Derf. Freundfchaft nach deml. Ebenlo.,1405,94.4,False,positional,Adolf Weber,,,,
@@ -522,10 +522,10 @@ BO0624_88355,439529,520,658,"J. Eiffenhardt. 11 Blatt Rad. nach Burger, Cornill,
 BO0624_88355,439530,521,659,- 660,1452,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439531,522,661,- 662 G.S.u.J. G.Facius. Mr. Weft and Family. Benj. Weft painted. Schabkft. Roy. Fol.,1454,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439532,523,664,664,1456,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439533,524,665,Frankofurtenfien. 16 Blatt Photos der Allg. deutichen Patent- und Mufterlchut-Ausftellung 1881. Fol.,1460,97.9,False,positional,Adolf Weber,,,,
-BO0624_88355,439534,525,666,一 Katafalk des Furftprimas 1817. Kpfft. kol. Qu. Fol.,1462,96.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439535,526,667,- 668 4 Blatt Einzige und 1llumination. Karl VIl. 1741/2.,1464,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439536,527,669,"4 "" Desgl. Franz I.1745. 一 18 Diuerle. 8 Plane und Anfichten.",1468,57.5,False,positional,Adolf Weber,,,,
+BO0624_88355,439533,524,665,Frankofurtenfien. 16 Blatt Photos der Allg. deutichen Patent- und Mufterlchut-Ausftellung 1881. Fol.,1460,97.9,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439534,525,666,一 Katafalk des Furftprimas 1817. Kpfft. kol. Qu. Fol.,1462,96.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,439535,526,667,- 668 4 Blatt Einzige und 1llumination. Karl VIl. 1741/2.,1464,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,439536,527,669,"4 "" Desgl. Franz I.1745. 一 18 Diuerle. 8 Plane und Anfichten.",1468,57.5,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,439537,528,672,"一 14 Portrats,Denkmaler u.a.",1469,93.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439538,529,674,- 673 一 19 Desgl.,1471,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439539,530,675,- Jacobus Frey. Benedict Xill. zu Pferde. A. Maffuccius del. Gr. Fol.,1473,100.0,False,positional,Adolf Weber,,,,
@@ -533,7 +533,7 @@ BO0624_88355,439540,531,676,J.A. Friedrich.Des hohen Teutichen Ritter-Ordens Hoc
 BO0624_88355,439541,532,677,Gio.Batt. Galeftruzzi. 6 Blatt Trophaen nach Carauaggio. Kpfft. Qu.80.,1476,97.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439542,533,678,G.Goldberg. Walferlilien nach K. Raupp. Kpfft. Roy. qu. Fol.,1477,96.4,False,positional,Adolf Weber,,,,
 BO0624_88355,439543,534,679,- L.Gruner. 10 Blatt Umrifle zu Goethes Hermann und Dorothea. Rad.,1479,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439544,535,680,nach J. Fuhrig. Braunfchweig 1824. Qu. Fol.,1481,95.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439544,535,680,nach J. Fuhrig. Braunfchweig 1824. Qu. Fol.,1481,95.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439545,536,681,J. J. Haid et filius. Paulus coram Agrippa. Zigg pinx. Schabkft. Roy.Fol.,1482,97.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439546,537,683,683,1484,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439547,538,684,"E.Hamman, lith.von Jab. Mozart in Wien. Gr.qu. Fol.",1487,95.8,False,positional,Adolf Weber,Scuola Viennese,,,
@@ -547,7 +547,7 @@ BO0624_88355,439554,545,691,- Robertus van den Hoecke. Zeltlager. B. 12. Qu. 8. 
 BO0624_88355,439555,546,692,Stadtanficht am Kanal. B. 19. Sehr felten. Qu. Fol.,1497,95.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439556,547,693,Zeltlager. B. 20..Qu. Fol. Sehr lelten.,1498,94.3,False,positional,Adolf Weber,,,,
 BO0624_88355,439557,548,694,Hokufai. 18 Fujilandichaften auf 2 Blatt Farbenholzlchn. Qu. Fol.,1499,96.8,False,positional,Adolf Weber,,,,
-BO0624_88355,439558,549,695,Holzfchnitte. 32 Blatt aus Wittenberger Drucken. Ca. 1540. Qu.80.,1500,96.8,False,positional,Adolf Weber,,,,
+BO0624_88355,439558,549,695,Holzfchnitte. 32 Blatt aus Wittenberger Drucken. Ca. 1540. Qu.80.,1500,96.8,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,439559,550,696,- 3 Blatt desgl. Ebenlo.,1502,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439560,551,697,Daniel Hopfer. Rankenornament mit Maria und Kind. B.37 I. Uor,1505,96.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439561,552,698,Puttenreigen vor Maria mit dem Kind. B. 40 I. Uor der nlummer. Qu. Fries Fol.,1507,97.3,False,positional,Adolf Weber,,,,
@@ -563,7 +563,7 @@ BO0624_88355,439570,561,707,Jozef Tfraels. Madchen am Tifch. Orig.-Steinzeichnun
 BO0624_88355,439571,562,708,Spanien. Eine Reileerzahlung mit nachbildungen uon Handzeich-,1521,96.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439572,563,709,- 710,1528,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439573,564,711,- 712,1530,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439574,565,713,G.Kilian. Dido. (Uirgil aeneis IV.84.) Gr. Fol. Cath.Klauber. Diplom der Uniuerlitat Freiburg. 1753. Roy. qu. Fol. Yeend King. La menagere. Photograu. Gr. Fol.,1532,59.5,False,positional,Adolf Weber,,,,
+BO0624_88355,439574,565,713,G.Kilian. Dido. (Uirgil aeneis IV.84.) Gr. Fol. Cath.Klauber. Diplom der Uniuerlitat Freiburg. 1753. Roy. qu. Fol. Yeend King. La menagere. Photograu. Gr. Fol.,1532,59.5,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,439575,566,716,- Desgl.Gr. Fol.,1535,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439576,567,717,"一 St. Johannes nlepomucenus. Roy. qu. Fol. - 14 Blatt Pferde und Fuhrwerke. Qu.Fol. Joh. Ad. Klein. 14 Blatt Figuren u. a. 8°, qu. 8u. Fol.",1539,55.6,False,positional,Adolf Weber,,,,
 BO0624_88355,439577,568,720,- 721 16 Pferde.Ebenlo.,1541,100.0,False,positional,Adolf Weber,,,,
@@ -575,7 +575,7 @@ BO0624_88355,439582,573,725,20 Tiere.Qu.Fol.,1550,88.2,False,positional,Adolf We
 BO0624_88355,439583,574,726,"8 "" neujahrsblatter.8u.qu.80.",1551,92.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439584,575,727,- 728 一 3 Blatt diu.Drucke.,1553,100.0,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
 BO0624_88355,439585,576,729,5 Blatt Drucke.,1555,87.5,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
-BO0624_88355,439586,577,730,12 Blatt Flugblatter von 1848.,1556,93.5,False,positional,Adolf Weber,,,,
+BO0624_88355,439586,577,730,12 Blatt Flugblatter von 1848.,1556,93.5,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439587,578,731,"- 732 8 Frankfurter Kunftler J. G. Mohr, E. J. Muller u. a. Fol. und qu. Fol.",1558,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439588,579,20,Blatt Uerlchiedenes. Diu. Grohen.,1559,95.2,False,positional,Adolf Weber,,,,
 BO0624_88355,439589,580,733,- 734,1561,100.0,False,positional,Adolf Weber,,,,
@@ -596,7 +596,7 @@ BO0624_88355,439603,594,746,- Simfon und Delila.B. 25.Schoner alter Abdr.Fol.,15
 BO0624_88355,439604,595,747,- Petrus und Paulus. B. 106.Superber alter Abdr.Qu.80.,1583,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439605,596,748,- Theodor Filippo da Liagno.Landsknecht.Orig.Rad.80.,1585,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439606,597,749,Ed.uon Lichtenfels.Abend. Photograu. Gr. qu.Fol.,1586,95.7,False,positional,Adolf Weber,,,,
-BO0624_88355,439607,598,750,Cithographie. Ca.1848. Che l'inle. Monogr. E.R. Text u.G. Gazzino.,1588,96.7,False,positional,Adolf Weber,,,,
+BO0624_88355,439607,598,750,Cithographie. Ca.1848. Che l'inle. Monogr. E.R. Text u.G. Gazzino.,1588,96.7,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439608,599,751,Giul. Longhi. ll Spofalizio nach Rafael. Kpfft. Roy. Fol.Uortreff-,1589,96.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439609,600,752,Michele Lucchele. Der Euangelift Markus betet die Madonna an nach Giul. Romano. Kpfft. Fol.,1591,97.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439610,601,753,"jardins de la uolupte, Gr. qu. Fol.",1593,93.9,False,positional,Adolf Weber,,,,
@@ -625,7 +625,7 @@ BO0624_88355,439632,623,780,- Rembrandt. (mach ihm.) 8 Blatt Photograuiren in Ma
 BO0624_88355,439633,624,781,- 782 J.Reynolds. Frauenbildnis. Kpfft. Fol.,1636,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439634,625,783,- 784 Roel. Roghman. 6 Blatt Landlchaften.Orig.-Rad. Qu.80.,1638,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439635,626,785,"Joh. Heinrich Roos. 8 Blatt Quelques animaux tires au vif, et graues fur le cuiure, auec eftude et trauail par J. H. Roos MDCLXV.1. Abdr uor der nummer. Sehr felten.Qu.8.B.1—8.",1641,98.8,False,positional,Adolf Weber,,,,
-BO0624_88355,439636,627,786,Jeremias C.Rugendas. Pferde. Bez.:J.C. Rug. Ao. 1747.,1643,95.8,False,positional,Adolf Weber,,,,
+BO0624_88355,439636,627,786,Jeremias C.Rugendas. Pferde. Bez.:J.C. Rug. Ao. 1747.,1643,95.8,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,439637,628,787,H. Sachs. Adelheid nach W.u.Kaulbach. Kpfft. Gr. Fol.,1644,95.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439638,629,788,Herm. Saftleuen. Landichaft mit grohen Eichen. B. 37.Orig.Rad. Superber Abdr. eines Hauptblattes. Fol.,1646,97.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439639,630,790,- 791 Katharine Schaffner.,1648,100.0,False,positional,Adolf Weber,,,,
@@ -635,7 +635,7 @@ BO0624_88355,439642,633,794,- 795,1656,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439643,634,797,"Derl. Kunftlers Erdenwallen nach R. S. Zimmermann. Kpfft.Gr. qu Fol. A.Schultheib. Wein, Weib und Gelang nach Rembrandt. Kpfft. Gr.Fol.",1659,65.6,False,positional,Adolf Weber,,,,
 BO0624_88355,439644,635,798,Paul Seignac. C'echeueau. Photograu. Gr. Fol. Rud. Stang. Fellahmadchen nach Ch. Landelle. Kpft. Fol.,1661,69.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439645,636,799,F. D. Soiron. A Tea Garden. Painted by Morland. Ou. Qu. Fol.,1662,96.3,False,positional,Adolf Weber,,,,
-BO0624_88355,439646,637,802,F.L. Teridanus. Capucinorum in Summo horte Suprapadi ripane coenobinum. Gr. Fol. Mainz 1910. Fol.,1664,88.8,False,positional,Adolf Weber,,,,
+BO0624_88355,439646,637,802,F.L. Teridanus. Capucinorum in Summo horte Suprapadi ripane coenobinum. Gr. Fol. Mainz 1910. Fol.,1664,88.8,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,439647,638,803,- 804 P.Tofchi. Lo Spalimo nach Rafael. Kpfft. Roy. Fol.,1667,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439648,639,805,nach Treidler. Ein luftig Cied. U.d. Schr. Qu. Fol,1669,95.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439649,640,806,R. Troffin und G. Michaelis. Eine Herde am Mittag an der BenediktenWand nach F. Uolt. Gr. qu. Fol.,1670,97.8,False,positional,Adolf Weber,,,,
@@ -663,7 +663,7 @@ BO0624_88355,439670,661,829,- 9 Max Zimmermann. Waldinneres. Orig.-Rad. Gr. Fol.
 BO0624_88355,439671,662,83019,Bande.,1706,62.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439672,663,831,Hogarth's Zeichnungen.,1710,91.3,False,positional,Adolf Weber,,,,
 BO0624_88355,439673,664,832,Scherr.Bilderlaal.,1711,89.5,False,positional,Adolf Weber,,,,
-BO0624_88355,439674,665,833,"D.Hochftift.1902-5,1907.5 Bande.",1712,93.9,False,positional,Adolf Weber,,,,
+BO0624_88355,439674,665,833,"D.Hochftift.1902-5,1907.5 Bande.",1712,93.9,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,439675,666,834,- Goethes Werke. 1-36. 18 Bande.,1714,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439676,667,835,Lewes:Goethe.2 Bande.,1715,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439677,668,836,"- Zichocke:nouellen,1-17.8 Bande.",1717,100.0,False,positional,Adolf Weber,,,,
@@ -765,7 +765,7 @@ BO0624_88355,439772,763,950,Das Schweizerland.2 Bande.,1917,92.6,False,positiona
 BO0624_88355,439773,764,951,- Hamburger Album.,1919,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439774,765,952,- 953 Trollhattan-Album.,1921,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439775,766,954,- Braunfchweiger Album.,1923,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439776,767,955,Frankfurter Adrebbuch 1914.,1925,92.9,False,positional,Adolf Weber,,,,
+BO0624_88355,439776,767,955,Frankfurter Adrebbuch 1914.,1925,92.9,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,439777,768,956,957,1935,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439778,769,958,Rabinsdranath Tagore: Hohe Lieder.,1937,94.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439779,770,959,960 Stanley: Tm dunkelften Afrika.2 Bande.,1941,100.0,False,positional,Adolf Weber,,,,
@@ -841,10 +841,10 @@ BO0624_88355,439848,839,1030,Gems of Englith Poetry.,2130,89.8,False,positional,
 BO0624_88355,439849,840,1031,Dickens: Oliuer Twift.,2132,88.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439850,841,1032,Derl. Luggage. Tauchnit Edit.A Legacy. Derf. nic.nickelby.,2136,57.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439851,842,1035,Dickens: Our mutual Friend. 2 Bande.,2146,93.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439852,843,1036,1037,2152,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439852,843,1036,1037,2152,100.0,False,positional,Adolf Weber,,,,Sec. XI
 BO0624_88355,439853,844,1039,Ouida:Chandos. Grandmothers Money.,2160,69.1,False,positional,Adolf Weber,,,,
-BO0624_88355,439854,845,1040,1041 Demion: Among the Squirrels.,2163,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439855,846,1042,1043,2167,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439854,845,1040,1041 Demion: Among the Squirrels.,2163,100.0,False,positional,Adolf Weber,,,,Sec. XI
+BO0624_88355,439855,846,1042,1043,2167,100.0,False,positional,Adolf Weber,,,,Sec. XI
 BO0624_88355,439856,847,1044,Longfellow: Poetical Works.,2173,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439857,848,1045,Glyn: The Realon Why. Corelli: Romance of 2 Worlds. Hope: Count Antonio.,2179,57.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439858,849,1048,Weyman: My Lady Rotha.,2187,88.9,False,positional,Adolf Weber,,,,
@@ -854,25 +854,25 @@ BO0624_88355,439861,852,1051,Dto.,2197,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439862,853,1052,Crawford: Cala Braccio.,2203,100.0,False,positional,Adolf Weber,,OGGETTI VARI,,
 BO0624_88355,439863,854,1053,Popular Readings.,2205,86.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439864,855,1054,Corelli: Temporal Power.,2209,89.8,False,positional,Adolf Weber,,,,
-BO0624_88355,439865,856,1055,1056,2213,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439865,856,1055,1056,2213,100.0,False,positional,Adolf Weber,,,,Sec. XI
 BO0624_88355,439866,857,1057,Jules Uerne: 20000 F.u. d. See.,2217,91.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439867,858,1058,Lady Montague: Briefe. Whitman: Fetifh Worthips. Dickens: A Chriftmas Carol.,2227,52.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439868,859,1061,1062,2231,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439868,859,1061,1062,2231,100.0,False,positional,Adolf Weber,,,,Sec. XI
 BO0624_88355,439869,860,1063,Malet: The fen Horizon.,2237,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439870,861,1064,Crawford: In the Palacc of a King.,2241,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439871,862,1065,Chriftian's Miftakes.,2243,88.9,False,positional,Adolf Weber,,,,
-BO0624_88355,439872,863,1066,1067 Crawford:Cecilia.,2247,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439872,863,1066,1067 Crawford:Cecilia.,2247,100.0,False,positional,Adolf Weber,,,,Sec. XI
 BO0624_88355,439873,864,1068,Burn: Poems and Letters.,2253,89.8,False,positional,Adolf Weber,,,,
-BO0624_88355,439874,865,1069,1070 Williams: Influence of Climate.,2257,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439874,865,1069,1070 Williams: Influence of Climate.,2257,100.0,False,positional,Adolf Weber,,,,Sec. XI
 BO0624_88355,439875,866,1071,Fligel: Letters of Lady Montague. Schonberg-Cotta: Family Chronicles. Scott: The Lady of Lake.,2263,54.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439876,867,1074,Merriman: Barlath of the Guard.,2267,92.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439877,868,1075,Ballantijne: The wild man of the Weft.,2269,93.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439878,869,1076,Beecher Stowe:Old town folks.,2271,91.8,False,positional,Adolf Weber,,,,
-BO0624_88355,439879,870,1077,1078 Freiligrath: Poems.,2275,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439879,870,1077,1078 Freiligrath: Poems.,2275,100.0,False,positional,Adolf Weber,,,,Sec. XI
 BO0624_88355,439880,871,1079,Gerrard: The Cabus Boy. Views of Liuerpool. Cavendith on Whift.,2279,49.4,False,positional,Adolf Weber,,,,
-BO0624_88355,439881,872,1082,1083 Convolut von 11 diu. Schriften.,2287,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439882,873,1107,1108,2292,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439883,874,1109,1110,2296,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439881,872,1082,1083 Convolut von 11 diu. Schriften.,2287,100.0,False,positional,Adolf Weber,,,,Sec. XI
+BO0624_88355,439882,873,1107,1108,2292,100.0,False,positional,Adolf Weber,,,,Sec. XII
+BO0624_88355,439883,874,1109,1110,2296,100.0,False,positional,Adolf Weber,,,,Sec. XII
 BO0624_88355,439884,875,1084,"Mexico. Band I, 1I, Ill, V. Band IV fehlt. 4 Bande.",2300,94.6,False,positional,Adolf Weber,,,,
 BO0624_88355,439885,876,1085,Joft Amman's Kaufmannfchaft.,2304,91.5,False,positional,Adolf Weber,,,,
 BO0624_88355,439886,877,1086,Brennecke: Alt-England.,2306,89.4,False,positional,Adolf Weber,,,,
@@ -885,7 +885,7 @@ BO0624_88355,439892,883,1092,Palfini: Album.,2320,83.9,False,positional,Adolf We
 BO0624_88355,439893,884,1093,Kleiner: Florirendes Frankfurt und Photos.,2322,94.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439894,885,1094,Hamburgs Umgebungen. Aibum.,2324,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439895,886,1095,"Seyppel: Er, Sie,Es.",2328,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439896,887,1096,1097,2332,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439896,887,1096,1097,2332,100.0,False,positional,Adolf Weber,,,,Sec. XI
 BO0624_88355,439897,888,3,Mappen diu.Photos und Anfichten.,2334,96.9,False,positional,Adolf Weber,,OGGETTI VARI,,
 BO0624_88355,439898,889,1098,Herm. Bahr. Die Rahl.,2338,87.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439899,890,1099,Borlenhandbuch.,2340,84.8,False,positional,Adolf Weber,,,,
@@ -906,23 +906,23 @@ BO0624_88355,439913,904,1117,Doring: Feuerbachs Straftheorie.,2384,92.3,False,po
 BO0624_88355,439914,905,1118,Frank: Deutlches Strafgeletbuch.,2386,92.3,False,positional,Adolf Weber,,,,
 BO0624_88355,439915,906,1119,Feilchenfeld: Uerficherungs-Praxis.,2388,93.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439916,907,1120,Gaupp-Stein: Ziuilprozebordnung. 2 Bande.,2390,93.8,False,positional,Adolf Weber,,,,
-BO0624_88355,439917,908,1121,1122,2394,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439917,908,1121,1122,2394,100.0,False,positional,Adolf Weber,,,,Sec. XII
 BO0624_88355,439918,909,43,Bande und 2 Regifter-Bande.,2398,94.5,False,positional,Adolf Weber,,,,
-BO0624_88355,439919,910,11231,1124,2405,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439919,910,11231,1124,2405,100.0,False,positional,Adolf Weber,,,,Sec. XII
 BO0624_88355,439920,911,1125,Juftiz-Minifterialblatt. 15 Bande und Regifterband.,2407,95.1,False,positional,Adolf Weber,,,,
 BO0624_88355,439921,912,1126,Maerker: nachlahregulierung. Lowe: Strafprozehordnung. Dalke: Strafuolltreckung und Gefangnis-Uerwaltung in Preuhen.,2419,69.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439922,913,1129,Makerner:Handelsgeletbuch.,2421,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439923,914,1130,Meyer: Gebuhrenordnung fuir die Rechtsanwalte.,2423,94.6,False,positional,Adolf Weber,,,,
 BO0624_88355,439924,915,1131,Oppenhoff: Strafgeletbuch.,2425,90.6,False,positional,Adolf Weber,,,,
 BO0624_88355,439925,916,1132,Planck: Burgerl. Geletbuch. 6 Bande und Regifterband.,2427,95.1,False,positional,Adolf Weber,,,,
-BO0624_88355,439926,917,1133,Reichsgeletblatt uon 1877 an. 41 Bande.,2429,93.7,False,positional,Adolf Weber,,,,
+BO0624_88355,439926,917,1133,Reichsgeletblatt uon 1877 an. 41 Bande.,2429,93.7,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439927,918,1134,Rehbein:Deutiche Wechlelordnung.,2433,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439928,919,1135,Schroder: Eheliches Giterrecht nach dem Birgerl. Geletbuch.,2435,95.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439929,920,1136,Staub:Handelsgeletbuch.2 Bande.,2437,92.3,False,positional,Adolf Weber,,,,
 BO0624_88355,439930,921,1137,u.Soden: tiber s 325 Abf. 2 der Ziuil-Prozebordnung.,2441,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439931,922,1138,u.Sydow: Ziuilprozebordnung.,2443,91.2,False,positional,Adolf Weber,,,,
 BO0624_88355,439932,923,1139,Struckmann u. Koch: Ausfuhrungsgelete.,2447,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439933,924,1140,Terminkalender 1911 und 12.4 Bande.,2449,93.2,False,positional,Adolf Weber,,,,
+BO0624_88355,439933,924,1140,Terminkalender 1911 und 12.4 Bande.,2449,93.2,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,439934,925,1141,Wellftein: Freiwillige Gerichtsbarkeit.,2451,93.7,False,positional,Adolf Weber,,,,
 BO0624_88355,439935,926,1142,Windlcheid:Pandektenrecht. 3 Bande.,2453,93.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439936,927,1143,u.Wilmowski:Konkursordnung.,2455,91.2,False,positional,Adolf Weber,,,,
@@ -954,31 +954,31 @@ BO0624_88355,439961,952,1168,Birlch-Hirlchfeld: Franz. Literatur.,2511,93.0,Fals
 BO0624_88355,439962,953,1169,Hermann: Phyfiologie.,2512,88.4,False,positional,Adolf Weber,,,,
 BO0624_88355,439963,954,1170,neumayer: Erdgelchichte.2 Bande.,2514,92.3,False,positional,Adolf Weber,,,,
 BO0624_88355,439964,955,1171,Schopenhauer:nachlak. Oldenburg: Buddha. Deullen: Der Gefang der Heiligen.,2520,61.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439965,956,1174,1175 Muller: Gelchichte der Griech.Literatur. 2 Bande.,2524,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439965,956,1174,1175 Muller: Gelchichte der Griech.Literatur. 2 Bande.,2524,100.0,False,positional,Adolf Weber,,,,Sec. XII
 BO0624_88355,439966,957,1177,Wundt:Phyliologie. Friedlander:Sittengelchichte Roms. 3 Bande.,2530,80.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439967,958,1178,Schufter:Franz.Worterbuch.2 Bande.,2532,93.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439968,959,1179,1180 Oberrosler:Dizionario.,2536,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439968,959,1179,1180 Oberrosler:Dizionario.,2536,100.0,False,positional,Adolf Weber,,,,Sec. XII
 BO0624_88355,439969,960,1181,Critical Dictionary.,2542,88.4,False,positional,Adolf Weber,,,,
-BO0624_88355,439970,961,1183,1182 Hellwald: Kulturgelchichte. 4 Bande.,2546,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439970,961,1183,1182 Hellwald: Kulturgelchichte. 4 Bande.,2546,100.0,False,positional,Adolf Weber,,,,Sec. XII
 BO0624_88355,439971,962,1184,Muller: Handbuch der Klalff. Altertums-Wiffenfchaft. 5 Bande.,2550,95.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439972,963,1185,Wulker: Engl. Citeratur.,2552,89.4,False,positional,Adolf Weber,,,,
 BO0624_88355,439973,964,1186,Weile:Ttalien. Citeratur.,2554,90.2,False,positional,Adolf Weber,,,,
 BO0624_88355,439974,965,1187,Henne:Unterluchungen iber den menlchl. Uerftand.,2556,94.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439975,966,1188,Hoffding: Plychologie.,2558,88.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439976,967,1189,Bender: Zur Lolung des metaphyl. Problems.,2562,94.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439977,968,1190,1191 Schopenhauer:Samtliche Werke.6 Bande.,2566,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439977,968,1190,1191 Schopenhauer:Samtliche Werke.6 Bande.,2566,100.0,False,positional,Adolf Weber,,,,Sec. XII
 BO0624_88355,439978,969,1192,Grinebuch: Schopenhaueriana.,2570,91.2,False,positional,Adolf Weber,,,,
 BO0624_88355,439979,970,1193,Dto.,2574,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439980,971,1194,Labau: Schopenhauers Literatur.,2586,92.1,False,positional,Adolf Weber,,,,
-BO0624_88355,439981,972,1195,1196,2590,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439981,972,1195,1196,2590,100.0,False,positional,Adolf Weber,,,,Sec. XII
 BO0624_88355,439982,973,1197,"Gwinner: Schopenhauer und leine Freunde. Ather: Schopenhauer,neues iber ihn. Jofeph: Schopenhauers plychol. Grundanfchauung.",2600,54.2,False,positional,Adolf Weber,,,,
 BO0624_88355,439983,974,1200,Hertsleb: Schopenhauer-Regifter.,2602,92.3,False,positional,Adolf Weber,,,,
-BO0624_88355,439984,975,1201,1202,2606,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439984,975,1201,1202,2606,100.0,False,positional,Adolf Weber,,,,Sec. XIII
 BO0624_88355,439985,976,1203,Jahrbuch der Schopenhauer-Gelellchaft. 6 Bande.,2610,94.7,False,positional,Adolf Weber,,,,
-BO0624_88355,439986,977,1204,1205 Gildemeilter: Effays. 2 Bande.,2616,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,439987,978,1206,1207 Libke: Grundrik der Kunftgelchichte.,2620,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439986,977,1204,1205 Gildemeilter: Effays. 2 Bande.,2616,100.0,False,positional,Adolf Weber,,,,Sec. XIII
+BO0624_88355,439987,978,1206,1207 Libke: Grundrik der Kunftgelchichte.,2620,100.0,False,positional,Adolf Weber,,,,Sec. XIII
 BO0624_88355,439988,979,1208,Hertwig: Entwickelungsgelchichte.,2626,92.5,False,positional,Adolf Weber,,,,
-BO0624_88355,439989,980,1209,Meyer:Deutiche Literatur des 19. Jahrhunderts.,2628,94.6,False,positional,Adolf Weber,,,,
+BO0624_88355,439989,980,1209,Meyer:Deutiche Literatur des 19. Jahrhunderts.,2628,94.6,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,439990,981,1210,Kantftudien. 21 Hefte.,2632,88.9,False,positional,Adolf Weber,,,,
 BO0624_88355,439991,982,1211,Uaihinger und Bauch. Zu Kants Gedachtnis. Hoffmann:Immanuel Kant. neumark: Kant und Schopenhauer.,2633,57.4,False,positional,Adolf Weber,,,,
 BO0624_88355,439992,983,1214,Kant: Kritik der reinen Uernunft. 2 Exemplare.,2639,94.5,False,positional,Adolf Weber,,,,
@@ -987,10 +987,10 @@ BO0624_88355,439994,985,1216,Kirlchmann: Spinozas Ethik.,2647,90.9,False,positio
 BO0624_88355,439995,986,1217,Dto. Dialoge iber natirl. Religion.,2657,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,439996,987,1218,Zimmermann:Uber die Einfamkeit. 2 Bande.,2661,93.8,False,positional,Adolf Weber,,,,
 BO0624_88355,439997,988,1219,"Frommann: Klaffiker der Philolophie. Band 4, 6, 10.",2663,94.8,False,positional,Adolf Weber,,,,
-BO0624_88355,439998,989,1220,1221 Strauh: 6 Uortrage iber Uoltaire.,2667,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,439998,989,1220,1221 Strauh: 6 Uortrage iber Uoltaire.,2667,100.0,False,positional,Adolf Weber,,,,Sec. XIII
 BO0624_88355,439999,990,1222,Reinhold: Briefe iber Kants Philofophie. 2 Bande. Burckhardt: Die Kultur d. Renaillance in Italien. 2 Bande. Erhard: neue Briefe W.u. Humboldts an Schiller.,2673,54.6,False,positional,Adolf Weber,,,,
 BO0624_88355,440000,991,1225,Congrigius: Machiavelli.,2677,89.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440001,992,1227,1226 Altkirch: Spinoza in Portrat.,2681,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440001,992,1227,1226 Altkirch: Spinoza in Portrat.,2681,100.0,False,positional,Adolf Weber,,,,Sec. XIII
 BO0624_88355,440002,993,1228,Trendelenburg: Logilche Unterfuchungen.,2685,93.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440003,994,1229,Herting: Zeugungs- und Uererbungslehre.,2689,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440004,995,1230,Deullen: 60 Upanilhads der Ueda.,2693,100.0,False,positional,Adolf Weber,,,,
@@ -1032,7 +1032,7 @@ BO0624_88355,440039,1030,1265,Wielands lamtliche Werke. 50 Bande.,2808,100.0,Fal
 BO0624_88355,440040,1031,1266,Goethes famtliche Werke. 20 Bande.,2810,92.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440041,1032,1267,Leffings lamtliche Werke. 3 Bande.,2814,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440042,1033,1268,Heyle: Giacomo Leopardi.,2816,89.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440043,1034,1269,1270,2820,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440043,1034,1269,1270,2820,100.0,False,positional,Adolf Weber,,,,Sec. XIII
 BO0624_88355,440044,1035,1272,Thoma: Moral. Pfungft: neue Gedichte.,2828,74.6,False,positional,Adolf Weber,,,,
 BO0624_88355,440045,1036,1273,Tieck: Don Quichote. 2 Bande.,2830,91.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440046,1037,1274,u.Bismarck: Gedanken und Erinnerungen.,2834,93.5,False,positional,Adolf Weber,,,,
@@ -1042,10 +1042,10 @@ BO0624_88355,440049,1040,1279,Groener: Et in terra pax.,2844,90.2,False,position
 BO0624_88355,440050,1041,1280,Faber: Ein Junggelelle.,2846,89.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440051,1042,1281,Turgeniew: Leut. Jergunows Abenteuer.,2848,93.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440052,1043,1282,Cohmann: Aphorismen.,2852,87.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440053,1044,1284,1283 Wertheim: Aphorismen.,2856,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440054,1045,1285,Infelalmanach pro 1911.,2860,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440053,1044,1284,1283 Wertheim: Aphorismen.,2856,100.0,False,positional,Adolf Weber,,,,Sec. XIII
+BO0624_88355,440054,1045,1285,Infelalmanach pro 1911.,2860,100.0,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,440055,1046,1286,Boccaccio: Fiametta.,2863,87.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440056,1047,1287,1288 Knackfub: Kunftler-Monographien. Rafael.,2869,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440056,1047,1287,1288 Knackfub: Kunftler-Monographien. Rafael.,2869,100.0,False,positional,Adolf Weber,,,,Sec. XIII
 BO0624_88355,440057,1048,1289,Eysler: Das Ganschen.,2871,88.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440058,1049,1290,Claus: Zoologie.,2875,84.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440059,1050,1291,Schilling: Tierreich.,2877,88.4,False,positional,Adolf Weber,,,,
@@ -1063,7 +1063,7 @@ BO0624_88355,440070,1061,1302,Feltfchrift zur Einweihung des neuen Muleums.,2913
 BO0624_88355,440071,1062,1303,Katalog der Frankfurter Stadt. Galerie.,2915,93.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440072,1063,1304,Ebrard:Die franzol. reform. Gemeinde in Frankfurt.,2917,94.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440073,1064,1305,"Senckenberg. naturf. Gefellchaft:44., 45., 46.Jahresbericht. Exemplare.",2929,87.6,False,positional,Adolf Weber,,,,
-BO0624_88355,440074,1065,1306,1307 Bender: Handbuch des Frankfurter Priuatrechtes.,2939,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440074,1065,1306,1307 Bender: Handbuch des Frankfurter Priuatrechtes.,2939,100.0,False,positional,Adolf Weber,,,,Sec. XIV
 BO0624_88355,440075,1066,1308,Uerzeichnis der Handbibliothek der Stadtbibliothek Frankfurt a.M.,2941,96.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440076,1067,1309,Brahmsfeft in Munchen.,2943,89.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440077,1068,1310,Konuolut: Diu.Separatabdricke u.dergl.,2947,100.0,False,positional,Adolf Weber,,,,
@@ -1078,7 +1078,7 @@ BO0624_88355,440085,1076,1318,La Bruyere: Les Caracteres.,2969,90.9,False,positi
 BO0624_88355,440086,1077,1319,La Rochefoucauld: Reflexions et Maximes.,2973,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440087,1078,1320,Montesquieu: Elprit des Lois.,2975,91.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440088,1079,1321,Demogeot: Hiftoire de la Literature francaile.,2979,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440089,1080,1322,1323,2983,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440089,1080,1322,1323,2983,100.0,False,positional,Adolf Weber,,,,Sec. XIV
 BO0624_88355,440090,1081,1324,Chamfort:Oeuures. 2 vol.,2989,89.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440091,1082,1325,Gyp: Folies d'amour.,2990,87.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440092,1083,1326,Dumas fils: Une Difite de noces.,2992,92.3,False,positional,Adolf Weber,,,,
@@ -1089,23 +1089,23 @@ BO0624_88355,440096,1087,1330,Maupallant:Bel-Ami.,3000,87.8,False,positional,Ado
 BO0624_88355,440097,1088,1331,(Ohne Uerfalfer.) De l'Elprit.,3002,91.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440098,1089,1333,Dickens:Works. 5 Bande.,3006,89.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440099,1090,1334,"Moore, Th.: Byrons Life and Letters.",3008,92.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440100,1091,1336,1335 Whately: Bacons Elfays.,3012,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440101,1092,1337,1338,3018,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440100,1091,1336,1335 Whately: Bacons Elfays.,3012,100.0,False,positional,Adolf Weber,,,,Sec. XIV
+BO0624_88355,440101,1092,1337,1338,3018,100.0,False,positional,Adolf Weber,,,,Sec. XIV
 BO0624_88355,440102,1093,1339,Luders: Euangeline by Longfellow.,3022,92.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440103,1094,1340,Crawford: Mr. Tfaaks. Shakelpeare: Macbeth.2 Exemplare. Trring: Sketch Book.,3028,61.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440104,1095,1343,Gawans's Art Books. Rafael.,3036,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440105,1096,1344,Locke: Human Unterltanding.,3042,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440106,1097,1345,Hume: His Life written by himlelf.,3044,92.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440107,1098,1346,Goldlmith: Uicar of Wakefield.,3048,91.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440108,1099,1348,1347 Emerlon:Englith Traits. 9 Worterbicher. Ferrold: Shakelperares characters.(Index.),3058,69.4,False,positional,Adolf Weber,,,,
+BO0624_88355,440108,1099,1348,1347 Emerlon:Englith Traits. 9 Worterbicher. Ferrold: Shakelperares characters.(Index.),3058,69.4,False,positional,Adolf Weber,,,,Sec. XIV
 BO0624_88355,440109,1100,1351,Konvolut: Reilefuihrer.,3060,89.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440110,1101,1353,1352 Schlolfer: Weltgelchichte. 19 Bande.,3064,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440110,1101,1353,1352 Schlolfer: Weltgelchichte. 19 Bande.,3064,100.0,False,positional,Adolf Weber,,,,Sec. XIV
 BO0624_88355,440111,1102,1354,Heyl: Das ABC der Kuche.,3066,89.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440112,1103,1355,Luther: Die Bibel.,3070,86.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440113,1104,1357,1356 Kunfthiftorilche Bilderbogen.I.und Il. Teil. 2 Bande.,3074,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440114,1105,1358,"Gothaer Hofkalender uon 1900, 1901, 1902.",3076,93.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440115,1106,1359,"Freiherrl. Tafchenbuch von 1901, 1902. Furft u.Hohenlohe:Denkwirdigkeiten.",3086,67.9,False,positional,Adolf Weber,,,,
-BO0624_88355,440116,1107,1360,1362 Schumacher: Kailerin Eugenie.,3090,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440113,1104,1357,1356 Kunfthiftorilche Bilderbogen.I.und Il. Teil. 2 Bande.,3074,100.0,False,positional,Adolf Weber,,,,Sec. XIV
+BO0624_88355,440114,1105,1358,"Gothaer Hofkalender uon 1900, 1901, 1902.",3076,93.8,False,positional,Adolf Weber,,,,Sec. XX
+BO0624_88355,440115,1106,1359,"Freiherrl. Tafchenbuch von 1901, 1902. Furft u.Hohenlohe:Denkwirdigkeiten.",3086,67.9,False,positional,Adolf Weber,,,,Sec. XX
+BO0624_88355,440116,1107,1360,1362 Schumacher: Kailerin Eugenie.,3090,100.0,False,positional,Adolf Weber,,,,Sec. XIV
 BO0624_88355,440117,1108,1364,Dr. Mayer-Pfullingen: Die Mulenftadt Tubingen. Brachuogel: Friedemann Bach.,3092,72.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440118,1109,1365,u.Clob:Tubinger Bilder.,3096,89.8,False,positional,Adolf Weber,,FOTOGRAFIE,,
 BO0624_88355,440119,1110,1366,Fiori:Die italienilche Konuerlationsfprache. 7 diu.kleine Schriften.,3098,75.4,False,positional,Adolf Weber,,,,
@@ -1114,7 +1114,7 @@ BO0624_88355,440121,1112,1368,"Herzog, R.: nur eine Schaulpielerin.",3103,92.8,F
 BO0624_88355,440122,1113,1369,Skowronnek: Das grobe Feuer.,3105,91.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440123,1114,1370,Barth: Mick und nick. Bad nauheim.Fuhrer. Heine: Buch der Lieder.,3111,51.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440124,1115,1373,Frankfurt a. M.Karte der Umgegend.,3113,92.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440125,1116,1374,Frankfurt a.M. Gelangbuch uon 1907.,3115,93.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440125,1116,1374,Frankfurt a.M. Gelangbuch uon 1907.,3115,93.0,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,440126,1117,1375,Frankfurt a. M. Fihrer durch leine Bauten.,3117,94.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440127,1118,1376,Frankfurter Altftadtifches Feft.,3119,92.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440128,1119,1377,Die Dichtung.Band XX. Heinr.u.Kleilt.,3121,93.3,False,positional,Adolf Weber,,,,
@@ -1127,14 +1127,14 @@ BO0624_88355,440134,1125,1383,Merelchkowski: Leonardo da Uinci.,3133,92.5,False,
 BO0624_88355,440135,1126,1384,Das Schwarzbuch der Schandtaten unlerer Feinde.,3135,94.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440136,1127,1385,Frenllen: Peter Moors Fahrt nach Suidwelt.,3137,94.1,False,positional,Adolf Weber,,,,
 BO0624_88355,440137,1128,1386,Heflilche Uolksbicher 10 und 11. 1. Band.,3141,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440138,1129,1387,Heffilches Staatshandbuch fir 1900.,3143,93.2,False,positional,Adolf Weber,,,,
+BO0624_88355,440138,1129,1387,Heffilches Staatshandbuch fir 1900.,3143,93.2,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,440139,1130,1388,Sauer: Ttalienilche Konuerlation.,3145,92.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440140,1131,1389,Schiller:Belagerung uon Antwerpen.Inlel-Bucherei 1657.,3147,95.5,False,positional,Adolf Weber,,,,
+BO0624_88355,440140,1131,1389,Schiller:Belagerung uon Antwerpen.Inlel-Bucherei 1657.,3147,95.5,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,440141,1132,1390,Landsberg:napoleon-Briefe.,3149,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440142,1133,1391,u.Kigelgen: Jugenderinnerungen.,3151,92.1,False,positional,Adolf Weber,,,,
 BO0624_88355,440143,1134,1392,Halle: Das Leben G.u. Kugelgen's.,3153,92.3,False,positional,Adolf Weber,,,,
 BO0624_88355,440144,1135,1393,Goethe: Fauft. I. und Il. Teil. 1 Band.,3155,93.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440145,1136,1394,Darmftadter Adrebbuch uon 1902.,3159,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440145,1136,1394,Darmftadter Adrebbuch uon 1902.,3159,100.0,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,440146,1137,1395,u.Seydlit:Geographie.,3163,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440147,1138,1396,Weber:Darftellung.,3165,87.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440148,1139,1397,Frauenftadt: Blicke in die intellekt. phyf. und moral. Welt.,3167,95.7,False,positional,Adolf Weber,,,,
@@ -1156,7 +1156,7 @@ BO0624_88355,440163,1154,1412,Schwabe:Gedichte.,3197,86.5,False,positional,Adolf
 BO0624_88355,440164,1155,1413,Steiner: Kamerun.,3199,85.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440165,1156,1414,Schulz-Euler: Leonhard Euler.,3201,91.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440166,1157,1415,"Werner,Marie: Die grine Gefahr.",3202,92.1,False,positional,Adolf Weber,,,,
-BO0624_88355,440167,1158,1416,"- 1417 Rath, H. W.: Dir, Madonna.",3205,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440167,1158,1416,"- 1417 Rath, H. W.: Dir, Madonna.",3205,100.0,False,positional,Adolf Weber,,,,Sec. XV
 BO0624_88355,440168,1159,1418,"3 Konuolute Brofchiren, Textbicher ic.",3206,93.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440169,1160,1419,- 1Pack Rechnungen. Gebunden.,3208,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440170,1161,1420,Germania uon,3209,82.8,False,positional,Adolf Weber,,,,
@@ -1164,15 +1164,15 @@ BO0624_88355,440171,1162,1421,"Desgl. Barfuiffele von Berth. Auerbach, natur und
 BO0624_88355,440172,1163,1422,- Bilder aus den nordfee-Marfchen von H. u. Dornberg.,3213,100.0,False,positional,Adolf Weber,,FOTOGRAFIE,,
 BO0624_88355,440173,1164,1423,"Das Tierreich von Dr.Heck,Paul Matfchie u. and.",3215,94.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440174,1165,1424,"Liller Kriegszeitung 1-59 (nr.56 doppelt). Vollitandiges,",3217,95.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440175,1166,1425,Fritfch 1710. Gepr.Ppbd.Fol.,3219,91.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440176,1167,1426,"Munfter. Cosmographia. Balel MDCXXIlX.Gepr. Pergbd. Gr. Fol. (Seite 1297/8 fehlen, Seite 1651 entweder verdruckt oder verbunden.)",3220,97.9,False,positional,Adolf Weber,,,,
-BO0624_88355,440177,1168,1427,"Mathaei Merian.Archontologia cosmica. Belchreibung aller Kailertimer, Konigreiche und Republiquen der Welt. Franckfurt am Mayn 1695. Pergbd. Lex.Fol.",3221,98.3,False,positional,Adolf Weber,,,,
-BO0624_88355,440178,1169,1428,Churfurftlich Maintifche Landrecht und Ordnungen.Mainz 1755. Pergbd. Fol.,3222,96.6,False,positional,Adolf Weber,,,,
+BO0624_88355,440175,1166,1425,Fritfch 1710. Gepr.Ppbd.Fol.,3219,91.2,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440176,1167,1426,"Munfter. Cosmographia. Balel MDCXXIlX.Gepr. Pergbd. Gr. Fol. (Seite 1297/8 fehlen, Seite 1651 entweder verdruckt oder verbunden.)",3220,97.9,False,positional,Adolf Weber,,,,Sec. XIII
+BO0624_88355,440177,1168,1427,"Mathaei Merian.Archontologia cosmica. Belchreibung aller Kailertimer, Konigreiche und Republiquen der Welt. Franckfurt am Mayn 1695. Pergbd. Lex.Fol.",3221,98.3,False,positional,Adolf Weber,,,,Sec. XVII
+BO0624_88355,440178,1169,1428,Churfurftlich Maintifche Landrecht und Ordnungen.Mainz 1755. Pergbd. Fol.,3222,96.6,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440179,1170,1429,Topographia Archiepilcopatum Moguntienfis Treuirenlis Colonienfis. Pergbd.Fol.,3223,89.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440180,1171,1430,Topographia Allatiae. Franckfurth am Mayn 1663. Lederbd. Fol.,3225,95.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440181,1172,1431,Topographia Franconiae.Franckfurt am Mayn 1648. Ohne Einband.Fol. Topographia Saxoniae Inferioris. Franckfurt 1653. Pergbd. Fol. Seite 21.),3226,63.3,False,positional,Adolf Weber,,,,
-BO0624_88355,440182,1173,1434,- Topographia Bauariae.1644.Pergbd. Fol.,3231,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440183,1174,1435,Topographia uon Braunlchweig und Cineburg. Franckfurt 1654.,3232,95.8,False,positional,Adolf Weber,,,,
+BO0624_88355,440180,1171,1430,Topographia Allatiae. Franckfurth am Mayn 1663. Lederbd. Fol.,3225,95.8,False,positional,Adolf Weber,,,,Sec. XVII
+BO0624_88355,440181,1172,1431,Topographia Franconiae.Franckfurt am Mayn 1648. Ohne Einband.Fol. Topographia Saxoniae Inferioris. Franckfurt 1653. Pergbd. Fol. Seite 21.),3226,63.3,False,positional,Adolf Weber,,,,Sec. XVII
+BO0624_88355,440182,1173,1434,- Topographia Bauariae.1644.Pergbd. Fol.,3231,100.0,False,positional,Adolf Weber,,,,Sec. XVII
+BO0624_88355,440183,1174,1435,Topographia uon Braunlchweig und Cineburg. Franckfurt 1654.,3232,95.8,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,440184,1175,1436,R.P.Petrus Penneguin. Gottlicher Liebszeiger. Augsburg. Georg,3233,95.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440185,1176,1437,Brunnen der durftigen Seel. Gebetbuch uon M. M. Fuggerin. Gedr.,3237,95.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440186,1177,1438,Johann Hubners Staatszeitung und Konverlations-Lexikon. Ceipzig Pergbd. Lex. 8.(Fehlt Uorblatt uom Uerzeichnis.),3238,71.7,False,positional,Adolf Weber,,,,
@@ -1180,21 +1180,21 @@ BO0624_88355,440187,1178,1439,Gepr. Pergbd.4°.(Am Regifter fehlen Blatter.),324
 BO0624_88355,440188,1179,1440,Wilhelm Bauer. Ouidi nalonis Metamorphofen. neuausgabe. 0.0.,3243,95.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440189,1180,1441,Tobias Stimmer. Tcones fiue imagines. 90 Bildniffe von Gelehrten des 15./16. Jahrh. Frankfurt Balt. Diehl II.o.J.Ppbd. 80.,3244,97.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440190,1181,1442,Andreas Strobl.Das Geiftliche Teutfche Karten-Spil. Sulzbach.,3245,95.9,False,positional,Adolf Weber,,,,
-BO0624_88355,440191,1182,1443,"- 1444 Wirtburger Stadt und Landkalender 1744.Ppbd.Fol.(Fehlen Februar, April, Mai bis Juli und Dezember, Auguft befchnitten.)",3247,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440191,1182,1443,"- 1444 Wirtburger Stadt und Landkalender 1744.Ppbd.Fol.(Fehlen Februar, April, Mai bis Juli und Dezember, Auguft befchnitten.)",3247,100.0,False,positional,Adolf Weber,,,,Sec. XV
 BO0624_88355,440192,1183,1445,- Dauid Jonathan Lindner. Die Heilige Schrift in 1o0 Kupfertafeln.,3250,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440193,1184,1446,Leipzig.Eduard Kummer 1836.Ppbd. Qu. Fol.,3252,93.8,False,positional,Adolf Weber,,,,
+BO0624_88355,440193,1184,1446,Leipzig.Eduard Kummer 1836.Ppbd. Qu. Fol.,3252,93.8,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440194,1185,1447,"- Ouidi nafonis Metamorphofeon. nurnberg o. J. Ppbd. Qu.Fol. Titelblatt belchadigt,fehlen Seiten 4,10—14,61,122,143 und 144. m Text fehlen 85-91 und 146-150.",3254,87.9,False,positional,Adolf Weber,Scuola di Norimberga,,,
-BO0624_88355,440195,1186,1448,Pub. Ouidii nafonis Metamorpholeon. Francofurti ad moenum 1582. Gepr.Pergbd.80.,3256,96.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440196,1187,1450,- 1449 Kupfer zur Aeneis. Geh.Qu.Fol.(Sehr belchadigt.),3258,100.0,False,positional,Adolf Weber,,OGGETTI IN RAME,,
+BO0624_88355,440195,1186,1448,Pub. Ouidii nafonis Metamorpholeon. Francofurti ad moenum 1582. Gepr.Pergbd.80.,3256,96.8,False,positional,Adolf Weber,,,,Sec. XVI
+BO0624_88355,440196,1187,1450,- 1449 Kupfer zur Aeneis. Geh.Qu.Fol.(Sehr belchadigt.),3258,100.0,False,positional,Adolf Weber,,OGGETTI IN RAME,,Sec. XV
 BO0624_88355,440197,1188,1451,Abfchiede. Alle des Heiligen Romilchen Reiches gehaltene. Gedruckt Maynt bei nicolaus Heyl MDCLX. Pergbd. Lex.Fol. (Fehlen oder uerbunden Seite 425 bis 428.) Angebunden Peinlichen Gerichts Karl V. (Ende von Seite 12 ab fehlt.),3259,98.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440198,1189,1452,"Munfter. Cosmographia. Alt gemalt. Balel 1550. Lederbd. Lex. Fol. （Fehlen Titelbl., Regiftertitelblatt, die Halfte einer Karte und die Endleiten von 1237 ab.) Hochft feltenes Exemplar.",3261,98.6,False,positional,Adolf Weber,,,,
+BO0624_88355,440198,1189,1452,"Munfter. Cosmographia. Alt gemalt. Balel 1550. Lederbd. Lex. Fol. （Fehlen Titelbl., Regiftertitelblatt, die Halfte einer Karte und die Endleiten von 1237 ab.) Hochft feltenes Exemplar.",3261,98.6,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,440199,1190,1453,J. El.Ridinger. Thiere der 2.Ordnung. 127 Kupferft. M.El.Ridinger Sculpl. mit Textband.Ppbde.Qu.Fol.,3262,97.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440200,1191,1454,"Joannis Antonii. Hortus Eyftettenlis. In Lederbd.mit Metallbefchl. 56/45 cm. (Fehlen: Sommer Quartus Ordo Fol.2,Octauus Ordo 4u.8,Quintus Ordo 1-3, Septus Ordo 6,7,Undeciums Ordo nur bis Fol. 6 vorhanden.Herbft Secundus Ordo 12. Winter: Fol.7 bis Ende.) Klaffifcher Bilderichat. V1l. Jahrgang, uon 1894. Uerlag Bruckmann, Formenfchat der Renaillanz. 2 Bande uon Hirth in Munchen.",3263,79.5,False,positional,Adolf Weber,,,,
+BO0624_88355,440200,1191,1454,"Joannis Antonii. Hortus Eyftettenlis. In Lederbd.mit Metallbefchl. 56/45 cm. (Fehlen: Sommer Quartus Ordo Fol.2,Octauus Ordo 4u.8,Quintus Ordo 1-3, Septus Ordo 6,7,Undeciums Ordo nur bis Fol. 6 vorhanden.Herbft Secundus Ordo 12. Winter: Fol.7 bis Ende.) Klaffifcher Bilderichat. V1l. Jahrgang, uon 1894. Uerlag Bruckmann, Formenfchat der Renaillanz. 2 Bande uon Hirth in Munchen.",3263,79.5,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440201,1192,1457,"Grober Bilder-Atlas des Weltkriegs. Heft 1-9,12,15,16. Uerlag Bruckmann, Munchen.",3267,96.9,False,positional,Adolf Weber,,FOTOGRAFIE,,
-BO0624_88355,440202,1193,1459,"- 1458 lluftrierte Frauen-Zeitung. Koftume von 1884,1889, 1890.",3269,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440203,1194,1460,"- 1461 Kunfthandbuch uon 1897. Uerlag Spemann, Berlin.",3272,100.0,False,positional,Adolf Weber,Scuola di Berlino,,,
-BO0624_88355,440204,1195,1462,Kunft und Kunftler nach W.Becker. 3 Bande von 1863-1865. E.A.See-,3274,96.1,False,positional,Adolf Weber,,,,
-BO0624_88355,440205,1196,1463,"Schilling mit Blitlicht und Buchfe von 1905. Uerlag Uoigtlander, Leipzig.",3276,96.6,False,positional,Adolf Weber,,,,
+BO0624_88355,440202,1193,1459,"- 1458 lluftrierte Frauen-Zeitung. Koftume von 1884,1889, 1890.",3269,100.0,False,positional,Adolf Weber,,,,Sec. XV
+BO0624_88355,440203,1194,1460,"- 1461 Kunfthandbuch uon 1897. Uerlag Spemann, Berlin.",3272,100.0,False,positional,Adolf Weber,Scuola di Berlino,,,Sec. XV
+BO0624_88355,440204,1195,1462,Kunft und Kunftler nach W.Becker. 3 Bande von 1863-1865. E.A.See-,3274,96.1,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440205,1196,1463,"Schilling mit Blitlicht und Buchfe von 1905. Uerlag Uoigtlander, Leipzig.",3276,96.6,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,440206,1197,1464,2 Blatt Landichaften. Farbendruck.,3277,92.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440207,1198,1465,- 9 Blatt Kunftler. Photogr.,3279,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440208,1199,1466,"4 Blatt Kunftler, Photogr.,Koftume.",3281,92.8,False,positional,Adolf Weber,,,,
@@ -1203,86 +1203,86 @@ BO0624_88355,440210,1201,1468,9 diverle Photogr.,3287,100.0,False,positional,Ado
 BO0624_88355,440211,1202,1469,4 Farbendrucke uon Hildebrand.,3289,92.1,False,positional,Adolf Weber,,STAMPE E INCISIONI,,
 BO0624_88355,440212,1203,1470,2 grohe Photogr. Seelticke.,3291,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440213,1204,1471,16 Blatt Munchener Feltzug.,3295,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440214,1205,1472,1 grobe Zeichnung nach W.W. 1788. Oidipus Rettung.,3297,94.9,False,positional,Adolf Weber,,,,
+BO0624_88355,440214,1205,1472,1 grobe Zeichnung nach W.W. 1788. Oidipus Rettung.,3297,94.9,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440215,1206,1473,Das grobe Leben Chrifti von P. Martin von Cochem Capuc. Orden Mainz,3298,96.3,False,positional,Adolf Weber,,DECORAZIONI DA PARETE,,
 BO0624_88355,440216,1207,1474,"Hiltorilche Belchreibung der denkwurdigften Gelchichten von Jacobi Franci,",3300,96.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440217,1208,1475,"Ritualgelete der Juden betreffend Mein und Dein von Moles Mendellohn,",3302,96.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440218,1209,1476,Rechtichaffener Academicus oder grindliche Anleitung wie ein Student,3304,96.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440219,1210,1477,Die Martyrer oder der Triumph der chriftlichen Religion uon Chateaubriand.,3306,96.7,False,positional,Adolf Weber,,,,
-BO0624_88355,440220,1211,1478,Ruckreile uon Paris nach Braunlchweig uon Joachim Campe. Braunfchweig 1804.,3308,96.7,False,positional,Adolf Weber,,,,
+BO0624_88355,440220,1211,1478,Ruckreile uon Paris nach Braunlchweig uon Joachim Campe. Braunfchweig 1804.,3308,96.7,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440221,1212,1479,Predigten fir trauernde Herzen von Karl Wilhelm Schult. Wiesbaden.,3309,96.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440222,1213,1480,"- 1481 Karl der neunte oder Bartholomausnacht. uberlett uon Chenier,Frankfurt",3313,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440223,1214,1482,bei Joh. Friedr. Gleditichens leel. Sohn 1726.,3316,94.4,False,positional,Adolf Weber,,,,
+BO0624_88355,440222,1213,1480,"- 1481 Karl der neunte oder Bartholomausnacht. uberlett uon Chenier,Frankfurt",3313,100.0,False,positional,Adolf Weber,,,,Sec. XV
+BO0624_88355,440223,1214,1482,bei Joh. Friedr. Gleditichens leel. Sohn 1726.,3316,94.4,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440224,1215,1483,Reifen eines Schweizers in den verfchiedenen Kolonien uon Amerika wahrend,3317,96.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440225,1216,1484,Belchriebener Pergamenteinband.,3320,92.3,False,positional,Adolf Weber,,,,
 BO0624_88355,440226,1217,1485,Gant neu eroffneter reichlich woleingerichteter Glicks- und Unglickshafen.,3321,96.6,False,positional,Adolf Weber,,,,
-BO0624_88355,440227,1218,1486,Mifcellaneen aus der Diplomatik und Gelchichte von J. Arnold. Marburg 1798 in der neuen academilchen Buchhandlung.,3323,97.8,False,positional,Adolf Weber,,,,
+BO0624_88355,440227,1218,1486,Mifcellaneen aus der Diplomatik und Gelchichte von J. Arnold. Marburg 1798 in der neuen academilchen Buchhandlung.,3323,97.8,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440228,1219,1487,Kurter Begriff der ganten lateinilchen Sprache uon Friderico Muzello.,3324,96.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440229,1220,1488,- 1489,3328,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440230,1221,1490,Phadon oder iber die Unfterblichkeit der Seele uon M. Mendellohn. Berlin und Stettin bey Friedrich nicolai 1768.,3330,97.8,False,positional,Adolf Weber,Scuola di Berlino,,,
-BO0624_88355,440231,1222,1491,"Reile nach Amfterdam, Haag,Rotterdam, London,Oxford,Cambridge, Manchefter, Liuerpool ufw. Kupfer und Karte. Leipzig 1828 Hinrichsfche",3331,98.1,False,positional,Adolf Weber,,OGGETTI IN RAME,,
+BO0624_88355,440229,1220,1488,- 1489,3328,100.0,False,positional,Adolf Weber,,,,Sec. XV
+BO0624_88355,440230,1221,1490,Phadon oder iber die Unfterblichkeit der Seele uon M. Mendellohn. Berlin und Stettin bey Friedrich nicolai 1768.,3330,97.8,False,positional,Adolf Weber,Scuola di Berlino,,,Sec. XVIII
+BO0624_88355,440231,1222,1491,"Reile nach Amfterdam, Haag,Rotterdam, London,Oxford,Cambridge, Manchefter, Liuerpool ufw. Kupfer und Karte. Leipzig 1828 Hinrichsfche",3331,98.1,False,positional,Adolf Weber,,OGGETTI IN RAME,,Sec. XIX
 BO0624_88355,440232,1223,1492,"Angenehmer Zeituertreib in den Badern zu Baden, in der Schweit zu",3333,96.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440233,1224,1493,Schlacht am Halenbuhl und das Konigskreuz zu Gollheim uon Johann,3335,96.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440234,1225,1494,- 1495 Uon der nachfolgung Chriti. Koln 1744.,3339,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440235,1226,1496,- Die chriftliche Glaubens- und Sittenlehre in Homilien und Predigten. Freiburg und Konftanz in der Herderlchen Buchhandlung 1812.,3341,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440234,1225,1494,- 1495 Uon der nachfolgung Chriti. Koln 1744.,3339,100.0,False,positional,Adolf Weber,,,,Sec. XV
+BO0624_88355,440235,1226,1496,- Die chriftliche Glaubens- und Sittenlehre in Homilien und Predigten. Freiburg und Konftanz in der Herderlchen Buchhandlung 1812.,3341,100.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440236,1227,1497,Buch uber Krankheiten und deren Heilung. Titelblatt fehlt. Uon Joh.,3342,96.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440237,1228,1498,C.M. Wielands Werke.3. Band. Troppau 1785.,3344,93.8,False,positional,Adolf Weber,,,,
+BO0624_88355,440237,1228,1498,C.M. Wielands Werke.3. Band. Troppau 1785.,3344,93.8,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440238,1229,1499,Sailers neuefte Predigten. Ohne Titel.,3345,93.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440239,1230,1500,Die chriftliche Glaubens- und Sittenlehre in Homilien und Predigten. 2.Band. Freyburg und Konftanz 1812.,3346,97.6,False,positional,Adolf Weber,,,,
+BO0624_88355,440239,1230,1500,Die chriftliche Glaubens- und Sittenlehre in Homilien und Predigten. 2.Band. Freyburg und Konftanz 1812.,3346,97.6,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440240,1231,1501,Ein Band Gedichte. Seine Excelent uon Buelau gewidmet.,3347,95.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440241,1232,1502,Ehren-Reden das Suhe Lob des heiligen Gottes. Wien 1760.,3348,95.6,False,positional,Adolf Weber,Scuola Viennese,,,
-BO0624_88355,440242,1233,1503,Stoff zur Bildung des Geiftes. Berlin 1803.,3349,94.3,False,positional,Adolf Weber,Scuola di Berlino,,,
-BO0624_88355,440243,1234,1504,Uater Roderich unter leinen Kindern von Sintenis. Leipzig 1803.,3350,96.1,False,positional,Adolf Weber,,,,
-BO0624_88355,440244,1235,1505,Lehrbuch der Geometrie und Trigonometrie von Snell. Giehen und Darmftadt bei Heyer 1805.,3351,97.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440245,1236,1506,Magie oder die Zauberkrafte der natur von Samuel Halle. Berlin 1784.,3352,96.4,False,positional,Adolf Weber,Scuola di Berlino,,,
-BO0624_88355,440246,1237,1507,Paris 1815. Uon Menzel.,3353,89.4,False,positional,Adolf Weber,,,,
+BO0624_88355,440241,1232,1502,Ehren-Reden das Suhe Lob des heiligen Gottes. Wien 1760.,3348,95.6,False,positional,Adolf Weber,Scuola Viennese,,,Sec. XVIII
+BO0624_88355,440242,1233,1503,Stoff zur Bildung des Geiftes. Berlin 1803.,3349,94.3,False,positional,Adolf Weber,Scuola di Berlino,,,Sec. XIX
+BO0624_88355,440243,1234,1504,Uater Roderich unter leinen Kindern von Sintenis. Leipzig 1803.,3350,96.1,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440244,1235,1505,Lehrbuch der Geometrie und Trigonometrie von Snell. Giehen und Darmftadt bei Heyer 1805.,3351,97.2,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440245,1236,1506,Magie oder die Zauberkrafte der natur von Samuel Halle. Berlin 1784.,3352,96.4,False,positional,Adolf Weber,Scuola di Berlino,,,Sec. XVIII
+BO0624_88355,440246,1237,1507,Paris 1815. Uon Menzel.,3353,89.4,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440247,1238,1508,Uerhandlungen der Landes-Deputierten-Uerlammlung des Herzogtums,3355,96.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440248,1239,1509,"fchnitten. Wien, E. Gerold 1836.",3358,91.8,False,positional,Adolf Weber,Scuola Viennese,,,
+BO0624_88355,440248,1239,1509,"fchnitten. Wien, E. Gerold 1836.",3358,91.8,False,positional,Adolf Weber,Scuola Viennese,,,Sec. XIX
 BO0624_88355,440249,1240,1510,- Paris und leine Umgebungen 2 Bande mit iber 100 Stahlftichen. Wien bei E.Gerold und Berlin A. Aiher.,3360,100.0,False,positional,Adolf Weber,Scuola Viennese,,,
 BO0624_88355,440250,1241,1511,3 Bande Zeitfchriften uom Ofterreichilchen Alpen-Uerein.,3361,95.7,False,positional,Adolf Weber,,,,
-BO0624_88355,440251,1242,1512,- Meyers Univerlum. Abbildungen und Sehenswirdigkeiten der Erde 1841.,3363,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440252,1243,1513,- 1514,3365,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440253,1244,1515,- Datterich. Lokalpolle in Darmftadter Mundart. Freiberg 1883.,3367,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440254,1245,1516,Annuaire des Antiquaires. Paris 1912.,3370,93.3,False,positional,Adolf Weber,,,,
-BO0624_88355,440255,1246,1517,Les Auentures de Telemaque. Laulanne 1762.,3371,94.1,False,positional,Adolf Weber,,,,
+BO0624_88355,440251,1242,1512,- Meyers Univerlum. Abbildungen und Sehenswirdigkeiten der Erde 1841.,3363,100.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440252,1243,1513,- 1514,3365,100.0,False,positional,Adolf Weber,,,,Sec. XVI
+BO0624_88355,440253,1244,1515,- Datterich. Lokalpolle in Darmftadter Mundart. Freiberg 1883.,3367,100.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440254,1245,1516,Annuaire des Antiquaires. Paris 1912.,3370,93.3,False,positional,Adolf Weber,,,,Sec. XX
+BO0624_88355,440255,1246,1517,Les Auentures de Telemaque. Laulanne 1762.,3371,94.1,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440256,1247,1518,- 1 Band Anfichten aus Portugal mit Belchreibung und 18 Stahlftichen.,3373,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440257,1248,1519,- 1520,3375,100.0,False,positional,Adolf Weber,Scuola di Antwerp,,,
-BO0624_88355,440258,1249,1521,- Adrebbuch von Frankfurt a. M. 1911.,3377,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440257,1248,1519,- 1520,3375,100.0,False,positional,Adolf Weber,Scuola di Antwerp,,,Sec. XVI
+BO0624_88355,440258,1249,1521,- Adrebbuch von Frankfurt a. M. 1911.,3377,100.0,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,440259,1250,1522,Der Kronenftreit oder die Abenteuer des Waldes. Roman.,3380,95.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440260,1251,1523,- Ariftomene Tragedie M. Marmontel. Paris 1750.,3382,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440260,1251,1523,- Ariftomene Tragedie M. Marmontel. Paris 1750.,3382,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440261,1252,1524,zum Teil koloriert.,3384,87.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440262,1253,1525,Leben und Leiden Ludwigs XVI. Paris 1793.,3385,94.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440263,1254,1526,- 2 Bande: Allgemeine Hiftorie der natur. Hamburg und Leipzig 1752,3387,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440262,1253,1525,Leben und Leiden Ludwigs XVI. Paris 1793.,3385,94.0,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440263,1254,1526,- 2 Bande: Allgemeine Hiftorie der natur. Hamburg und Leipzig 1752,3387,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440264,1255,1527,Gelchichte der romilchen Monarchie mit vielen Kupfern.,3389,95.5,False,positional,Adolf Weber,,OGGETTI IN RAME,,
 BO0624_88355,440265,1256,1528,Okens naturgelchichte. 13 Bande und Atlas.,3392,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440266,1257,1529,Zichocke:Bayr. Gelchichte.4 Bande.,3394,92.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440267,1258,1530,Gelchichte der Europ.Staaten. 3 Bande.,3396,93.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440268,1259,1531,1532 Munchen: Topogr. Statift.Talchenbuch 1825.,3400,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440268,1259,1531,1532 Munchen: Topogr. Statift.Talchenbuch 1825.,3400,100.0,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,440269,1260,1533,Elsner: Gelchichte napoleons I.10 Bande.,3404,93.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440270,1261,1534,Berihmte Menfchen und ihre Gelchichte. 2 Bande.,3406,94.7,False,positional,Adolf Weber,,,,
-BO0624_88355,440271,1262,1535,1536 Korte: Sprichworter der Deutichen.,3412,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440272,1263,1537,1538 Strahlheim: Univerlal-Mythologie.,3416,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440271,1262,1535,1536 Korte: Sprichworter der Deutichen.,3412,100.0,False,positional,Adolf Weber,,,,Sec. XVI
+BO0624_88355,440272,1263,1537,1538 Strahlheim: Univerlal-Mythologie.,3416,100.0,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,440273,1264,1539,Schloller's Weltgefchichte.19 Bande.,3420,93.3,False,positional,Adolf Weber,,,,
-BO0624_88355,440274,1265,1540,1541,3424,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440274,1265,1540,1541,3424,100.0,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,440275,1266,1542,Buchmann:,3436,76.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440276,1267,1543,Lafontaine: Rudolf uon Werdenburg.,3440,92.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440277,1268,1544,1545,3456,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440277,1268,1544,1545,3456,100.0,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,440278,1269,1546,Sienkiewicz: Der kleine Ritter.,3458,92.1,False,positional,Adolf Weber,,,,
 BO0624_88355,440279,1270,1547,Stieler:Drei Bulchen.,3468,88.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440280,1271,1548,Dante: Gottliche Komodie.,3472,90.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440281,1272,1550,"1549 Roberts:,Es""und Anderes.",3476,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440281,1272,1550,"1549 Roberts:,Es""und Anderes.",3476,100.0,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,440282,1273,1551,Goethes Schaulpiele.,3478,88.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440283,1274,1552,1553,3484,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440283,1274,1552,1553,3484,100.0,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,440284,1275,1554,Griibel's Gedichte.,3488,87.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440285,1276,1555,v.Horn: Friedl. Eichrodt: Leben und Liebe. Duller: Der Furft der Liebe.,3496,56.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440286,1277,1558,Munch: Dichtungen.,3498,86.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440287,1278,1560,1559 Sziglary: Fata Morgana. 2 Bande.,3502,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440287,1278,1560,1559 Sziglary: Fata Morgana. 2 Bande.,3502,100.0,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,440288,1279,1561,Schniter: Kathe und ich.,3506,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440289,1280,1562,Uerne: Der Chancellor. Uerne: Die Leiden eines Chinelen in China. Klenke: Das We b als Jungfrau.,3523,61.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440290,1281,1565,Harden:Apoftata.,3547,85.7,False,positional,Adolf Weber,,,,
-BO0624_88355,440291,1282,1566,1567 Mark Twain: Humoriftiiche Schriften. 6 Bande.,3557,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440291,1282,1566,1567 Mark Twain: Humoriftiiche Schriften. 6 Bande.,3557,100.0,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,440292,1283,1568,Sue:Martin der Findling.4 Bande.,3559,92.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440293,1284,1569,1570,3565,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440293,1284,1569,1570,3565,100.0,False,positional,Adolf Weber,,,,Sec. XVI
 BO0624_88355,440294,1285,1572,Reymond: Das Buch des Bewuhten und Unbewubten. H. Meyer. Knigge: Umgang mit Menlchen.,3579,76.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440295,1286,1573,Gräffer:Perfien.2 Bande.,3583,90.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440296,1287,1574,Korner: Gedichte.2 Bande.,3585,90.2,False,positional,Adolf Weber,,,,
@@ -1305,13 +1305,13 @@ BO0624_88355,440312,1303,1590,Balzac:Die kleinen Leiden des Eheftandes.,3623,94.
 BO0624_88355,440313,1304,1591,Gelete fur Frankfurt a.M.,3627,90.6,False,positional,Adolf Weber,,,,
 BO0624_88355,440314,1305,1592,Liftmann: Sagen Frankfurts.,3629,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440315,1306,1593,Der Mann aus dem Romer.,3631,89.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440316,1307,1594,Staatskalender uon 1844.,3635,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440317,1308,1595,Tagebuch uon der Einnahme Frankfurts 1793.,3637,94.3,False,positional,Adolf Weber,,,,
+BO0624_88355,440316,1307,1594,Staatskalender uon 1844.,3635,100.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440317,1308,1595,Tagebuch uon der Einnahme Frankfurts 1793.,3637,94.3,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440318,1309,1596,Konuolut uon 6 Schriften.,3639,90.6,False,positional,Adolf Weber,,,,
 BO0624_88355,440319,1310,1597,"Konuolut arztlicher Werke,dabei",3642,92.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440320,1311,1598,"ullerlperger, Dycs,Lawrent, Schreber, Ebftein, Uogt c.",3644,95.1,False,positional,Adolf Weber,,,,
 BO0624_88355,440321,1312,1599,"Konuolut,dabei: Krilchna,Schreber, Kifter.",3648,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440322,1313,1600,1601,3652,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440322,1313,1600,1601,3652,100.0,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,440323,1314,1602,"Mantegazza, Gehmann ic.",3656,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440324,1315,1603,Argenti: Homoopathilche Behandlung.,3662,93.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440325,1316,1604,Gunther: Homoopathilcher Hausfreund.,3666,100.0,False,positional,Adolf Weber,,,,
@@ -1325,7 +1325,7 @@ BO0624_88355,440332,1323,1611,Kneipp: Meine Wallerkur.,3686,100.0,False,position
 BO0624_88355,440333,1324,1612,General Rockfchoflels Erzahlungen und Erinnerungen.,3694,95.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440334,1325,1613,Dto. 7 diu.Hefte.,3700,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440335,1326,1614,Das kleine Witblatt. 78 Hefte.,3704,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440336,1327,1615,"Schittelgedichte,Kladderadatlch-Kalender 1875 ic.",3708,95.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440336,1327,1615,"Schittelgedichte,Kladderadatlch-Kalender 1875 ic.",3708,95.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440337,1328,1616,"Konuolut, dabei: Muleum komilcher Uortrage, Gaudeamus, Rideamus,",3710,95.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440338,1329,1617,"Konuolut, dabei: Mainzer Uolkshumor, I u.II. Stettenheim: Luftig Buch,Schmidt-Cabanis:Brummftimmen,Album unfreiwilliger Komik ic.",3712,98.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440339,1330,1618,"Konuolut, dabei: Bilderbuch des Hageftolzen,Presber: Uon jungen Kindern und jungen Hunden,M. Bulch:Deuticher Uolkshumor, Uademecum fir luftige und traurige Jurilten ic.",3713,98.5,False,positional,Adolf Weber,,,,
@@ -1339,17 +1339,17 @@ BO0624_88355,440346,1337,1627,Das Buch der Erfindungen. 6 Bande.,3728,92.8,False
 BO0624_88355,440347,1338,1628,E. Zola: La Terre.,3734,85.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440348,1339,1629,Beranger:Oeuures completes.Band I.,3754,93.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440349,1340,1630,A.Daudet: Sapho.,3756,84.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440350,1341,1631,1632,3774,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440350,1341,1631,1632,3774,100.0,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,440351,1342,1633,Dto. La vielle Garde.,3778,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440352,1343,1634,Lamartine: Graziella.,3784,88.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440353,1344,1635,1636,3788,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440353,1344,1635,1636,3788,100.0,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,440354,1345,1637,Laroques: Lourette.,3792,87.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440355,1346,1638,Houllaye: Charmerelles.,3794,89.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440356,1347,1639,Claretie: Le Million.,3796,88.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440357,1348,1640,Guy de Maupallant: La Main Gauche.,3798,92.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440358,1349,1641,Meunier: M. de Prerannes.,3800,89.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440359,1350,1642,Greuille: Le mors aux Dents.,3802,91.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440360,1351,1643,1644,3806,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440360,1351,1643,1644,3806,100.0,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,440361,1352,1645,Mairet: Artiste.,3812,84.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440362,1353,1646,Louys: Aphrodite.,3814,85.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440363,1354,1647,Chaperon: Daniel Servan.,3816,89.8,False,positional,Adolf Weber,,,,
@@ -1357,18 +1357,18 @@ BO0624_88355,440364,1355,1648,Memoires de Cora Pearl.,3818,89.8,False,positional
 BO0624_88355,440365,1356,1649,Dante:La Commedia.,3820,87.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440366,1357,1650,Konuolut. Franz.und engl. Lehrbucher.,3822,93.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440367,1358,1651,lluftr.Patentblatt. 7 Bande.,3826,91.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440368,1359,16521,1653 Jahrbuch der Erfindungen.11 Jahrg.,3832,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440368,1359,16521,1653 Jahrbuch der Erfindungen.11 Jahrg.,3832,100.0,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,440369,1360,1654,Reuleaux: Der Konftrukteur.,3835,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440370,1361,1655,Holder: Konftruktion der Pumpen (mit Atlas). 2 Bande.,3837,95.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440371,1362,1656,Hertels: Pumpen-und Spritenmeifter (mit Atlas). 2 Bande.,3841,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440372,1363,1657,Uerwertung der Facalien.,3843,90.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440373,1364,1658,Abfuhr der Dungftoffe.,3845,89.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440374,1365,1659,Uarrentrapp: Entwallerung der Stadte.,3849,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440375,1366,1660,1661,3853,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440375,1366,1660,1661,3853,100.0,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,440376,1367,1662,Das deutiche Rechtsbuch.,3859,90.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440377,1368,1663,Frick:Phylikalilche Technik.,3861,91.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440378,1369,1664,Hubner: Phyfikalilches Tagebuch.3 Bande.,3863,93.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440379,1370,1665,1666,3867,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440379,1370,1665,1666,3867,100.0,False,positional,Adolf Weber,,,,Sec. XVII
 BO0624_88355,440380,1371,1667,Technologilche Encyklopadie. 25 Bande.,3871,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440381,1372,1668,naturhiftorilche und chemifch-technifche notizen. 5 Bande.,3881,95.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440382,1373,1669,Fehling: Gewerbe-Chemie.,3883,89.8,False,positional,Adolf Weber,,,,
@@ -1377,7 +1377,7 @@ BO0624_88355,440384,1375,1671,Weihenbruch: Landwirtlchaft.,3891,100.0,False,posi
 BO0624_88355,440385,1376,1672,Hilgers: Bauunterluchung.,3893,90.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440386,1377,1673,Scholl: Fuhrer des Malchiniften.,3895,92.3,False,positional,Adolf Weber,,,,
 BO0624_88355,440387,1378,1674,Handbuch der Metalldreherei (mit Atlas).,3899,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440388,1379,1675,Snell:Lehrbuch der Arithmetik. 1819.,3901,93.2,False,positional,Adolf Weber,,,,
+BO0624_88355,440388,1379,1675,Snell:Lehrbuch der Arithmetik. 1819.,3901,93.2,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440389,1380,1676,Gauh: Logarithmen.,3903,86.5,False,positional,Adolf Weber,,,,
 BO0624_88355,440390,1381,1677,Schlomilch: Logarithmen.,3905,89.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440391,1382,1678,Konuolut: Technilche Schriften iber Pumpen ic.,3907,94.6,False,positional,Adolf Weber,,,,
@@ -1392,32 +1392,32 @@ BO0624_88355,440399,1390,1686,Unlere Kunft.,3933,82.8,False,positional,Adolf Web
 BO0624_88355,440400,1391,1687,Ludwig u. nagel: Album.,3935,88.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440401,1392,1688,Le Modele feminin.,3937,87.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440402,1393,1689,C'Art et le Beau.,3939,86.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440403,1394,1690,lluftr.Katalog der Pariler Weltausftellung 1878.,3943,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440403,1394,1690,lluftr.Katalog der Pariler Weltausftellung 1878.,3943,100.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440404,1395,1691,Gerlach: Allegorien.,3945,87.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440405,1396,1692,Mufterblatter fir Eilen- und Metall-Induftrie.,3947,94.6,False,positional,Adolf Weber,,OGGETTI IN METALLO,,
 BO0624_88355,440406,1397,1693,Leonhardt: Motiue fuir moderne Ornamentik und Malerei.,3953,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440407,1398,1694,Kunftfchmiedearbeiten. Bilderideal fuir Jagd- und Pferdefreunde. Kunftlerlaunen.,3956,66.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440408,1399,1697,Album: Frankfurt a.M.,3960,88.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440409,1400,1698,Ulber Land und Meer 1866-1881. 28 Bande. Band 11 1879 fehlt.,3964,95.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440410,1401,1699,Jugend 1897-1915. 38 Bande.,3966,90.9,False,positional,Adolf Weber,,,,
+BO0624_88355,440409,1400,1698,Ulber Land und Meer 1866-1881. 28 Bande. Band 11 1879 fehlt.,3964,95.8,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440410,1401,1699,Jugend 1897-1915. 38 Bande.,3966,90.9,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440411,1402,1700,Fliegende Blatter. 38 Bande.,3970,91.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440412,1403,1702,1701 Konuolut: Franzof. ic. humoriftilche Zeitfchriften.,3974,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440412,1403,1702,1701 Konuolut: Franzof. ic. humoriftilche Zeitfchriften.,3974,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440413,1404,1703,Stieler: Handatlas.,3976,87.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440414,1405,1704,Ualentini:Deutfch-ital.-deutich.Worterbuch. 4 Bande.,3980,95.1,False,positional,Adolf Weber,,,,
-BO0624_88355,440415,1406,1705,1706,3984,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440415,1406,1705,1706,3984,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440416,1407,1707,Ritter: Geograph.-ftatilft.Lexikon. 2 Bande.,3988,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440417,1408,1708,1709,3992,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440417,1408,1708,1709,3992,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440418,1409,1710,Feuerbach:Uermachtnis. Jacob: Die Welt. Madler: Aftronomie (ohne Atlas).,4006,59.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440419,1410,1713,Meerheimb:Furftenwald.,4008,89.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440420,1411,1714,1716,4014,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440421,1412,I,n einem Band. 1715 u.Kohlenegg: Kleine Indiskretionen.,4016,99.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440420,1411,1714,1716,4014,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440421,1412,I,n einem Band. 1715 u.Kohlenegg: Kleine Indiskretionen.,4016,99.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440422,1413,1717,A.u.Humboldt: Briefe.,4018,88.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440423,1414,1718,"Bulch, Otto: naturgelchichte der Kunft. Dto. Der Seelenfanger. Keller: Das Sinngedicht. Herbft: Des Publius Terentius Luftipiele.",4021,62.6,False,positional,Adolf Weber,,,,
 BO0624_88355,440424,1415,1721,Ebers: Ein Wort. Eckitein: Humorift. Hausfchat. Tieck: Briefe.,4027,64.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440425,1416,1724,Conrad: Pariliana.,4030,86.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440426,1417,1726,Ualentini: Grundrik der Phyliologie. n einem Band. 1725 Ehlert: Aus der Tonwelt.,4032,70.7,False,positional,Adolf Weber,,,,
+BO0624_88355,440426,1417,1726,Ualentini: Grundrik der Phyliologie. n einem Band. 1725 Ehlert: Aus der Tonwelt.,4032,70.7,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440427,1418,1727,Weigelt: Philolophie.,4033,88.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440428,1419,1728,- 1729 Grimm: Leben des Michelangelo. 2 Bande.,4036,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440428,1419,1728,- 1729 Grimm: Leben des Michelangelo. 2 Bande.,4036,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440429,1420,1730,Vilmar: Literaturgelchichte.,4037,91.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440430,1421,1731,Curtius: Griechilche Gelchichte.,4038,92.3,False,positional,Adolf Weber,,,,
 BO0624_88355,440431,1422,1732,- u.Ranke: Die romilchen Papfte.,4040,100.0,False,positional,Adolf Weber,,,,
@@ -1426,20 +1426,20 @@ BO0624_88355,440433,1424,1734,Bauer: Grundziige der neuhochdeutlchen Grammatik.,
 BO0624_88355,440434,1425,1735,Goethe's Werke und Biographie. 16 Bande.,4043,93.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440435,1426,1736,Schiller's Werke.6 Bande.,4044,90.6,False,positional,Adolf Weber,,,,
 BO0624_88355,440436,1427,1737,Hacklander: Der neue Don Quichotte. 5 Bande.,4048,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440437,1428,1738,1739,4052,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440437,1428,1738,1739,4052,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440438,1429,1740,Gerold: Ein Ausflug.,4058,87.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440439,1430,1741,Dto.Herbltfahrt nach Spanien.,4062,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440440,1431,1742,Scherr: Blicher.,4068,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440441,1432,1743,1744 noirs:Der moniftilche Gedanke.,4074,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440441,1432,1743,1744 noirs:Der moniftilche Gedanke.,4074,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440442,1433,1745,Hopfen:Mein Onkel Don Juan.,4076,91.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440443,1434,1746,Uolkeradt:Lehrbuch der ital. Sprache.,4080,93.3,False,positional,Adolf Weber,,,,
-BO0624_88355,440444,1435,1747,1748 niero:Le confeffioni di un ottuagenario. 2 Bande.,4086,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440444,1435,1747,1748 niero:Le confeffioni di un ottuagenario. 2 Bande.,4086,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440445,1436,1749,Gualtieri: L'Tnnonnilato.,4090,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440446,1437,1750,Uerga: Tigre reale ic.,4094,88.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440447,1438,1751,Sparta: La Schiara ebrea ic.,4098,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440448,1439,1752,de Amicis:Olanda.,4100,86.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440449,1440,1753,1754 de Amicis: Pagine Iparla.,4128,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440450,1441,1755,1756,4132,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440449,1440,1753,1754 de Amicis: Pagine Iparla.,4128,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440450,1441,1755,1756,4132,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440451,1442,1757,In einem Band.,4136,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440452,1443,1758,de Gubernatis: Degli uli unziali in Ttalia.,4144,94.3,False,positional,Adolf Weber,,,,
 BO0624_88355,440453,1444,1759,"Petracca: Alighieri, Talflo. In einem Bande.",4146,94.1,False,positional,Adolf Weber,,,,
@@ -1452,7 +1452,7 @@ BO0624_88355,440459,1450,1765,Maffei:Poeti Tedelchi.,4164,100.0,False,positional
 BO0624_88355,440460,1451,1766,Boito: Storielle vane.,4168,88.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440461,1452,1767,Ricci: C'Allegra Filologia.,4170,90.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440462,1453,1768,Fanfani:Cecco d'Afcoli.,4172,89.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440463,1454,1769,1770 Stecchetti: Poftuma.,4175,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440463,1454,1769,1770 Stecchetti: Poftuma.,4175,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440464,1455,1771,Giufti: Proverbi tofcani.,4179,90.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440465,1456,1772,Stanley: Viacci auenture e Icoperte.,4181,93.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440466,1457,1773,La Ueneziana di Spirito.,4185,100.0,False,positional,Adolf Weber,,,,
@@ -1462,94 +1462,94 @@ BO0624_88355,440469,1460,1776,17771,4197,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440470,1461,1778,Muffet: Oeuures.,4205,84.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440471,1462,1779,Stendhal: Rome.,4207,83.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440472,1463,1780,## Theologie.,4211,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440473,1464,1781,Jakobus Andree. Sechs chriftl. Predigten von den Spaltungen ic. Tubingen 1573. Broch.,4214,97.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440474,1465,1782,Johannes Groner. Zu Troft allen armen Gewilfen. Wittenberg 1524. Broch.,4215,96.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440475,1466,1783,- Dr.Fr.Haberlin. Romilches Conclaue. Halle 1769.Geb.,4217,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440476,1467,1784,D. Georgius. Plalmi Davidis. Argentinenlis 1584. Geb.,4218,95.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440477,1468,1785,Wilh. Friedr. Walchs Entwurf zu einer volltandigen Hiftorie der Kirchenverlammlungen. Leipzig 1759. Geb.,4219,97.5,False,positional,Adolf Weber,,,,
+BO0624_88355,440473,1464,1781,Jakobus Andree. Sechs chriftl. Predigten von den Spaltungen ic. Tubingen 1573. Broch.,4214,97.0,False,positional,Adolf Weber,,,,Sec. XVI
+BO0624_88355,440474,1465,1782,Johannes Groner. Zu Troft allen armen Gewilfen. Wittenberg 1524. Broch.,4215,96.4,False,positional,Adolf Weber,,,,Sec. XVI
+BO0624_88355,440475,1466,1783,- Dr.Fr.Haberlin. Romilches Conclaue. Halle 1769.Geb.,4217,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440476,1467,1784,D. Georgius. Plalmi Davidis. Argentinenlis 1584. Geb.,4218,95.0,False,positional,Adolf Weber,,,,Sec. XVI
+BO0624_88355,440477,1468,1785,Wilh. Friedr. Walchs Entwurf zu einer volltandigen Hiftorie der Kirchenverlammlungen. Leipzig 1759. Geb.,4219,97.5,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440478,1469,1786,- Th.Grieben.Peter Abeillards u. Heloilens zartlicher Briefwechlel.,4221,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440479,1470,1787,Jakob KneIpeln. neu bereiteter Herzen Opfer ic. nurnberg 1693. Geb.,4223,96.2,False,positional,Adolf Weber,Scuola di Norimberga,,,
-BO0624_88355,440480,1471,1788,"Pfarrer Morgenftern, Stuttgart. Ein Jahrgang Predigten. Handichr. 1802.",4224,96.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440481,1472,1791,Geb. Chr. Gotthilf Salzmann. Uerehrungen Jelu. Frankfurt-Leipzig 1787.,4229,94.7,False,positional,Adolf Weber,,,,
-BO0624_88355,440482,1473,1792,Barby 1779.Geb.,4231,84.8,False,positional,Adolf Weber,,,,
+BO0624_88355,440479,1470,1787,Jakob KneIpeln. neu bereiteter Herzen Opfer ic. nurnberg 1693. Geb.,4223,96.2,False,positional,Adolf Weber,Scuola di Norimberga,,,Sec. XVII
+BO0624_88355,440480,1471,1788,"Pfarrer Morgenftern, Stuttgart. Ein Jahrgang Predigten. Handichr. 1802.",4224,96.4,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440481,1472,1791,Geb. Chr. Gotthilf Salzmann. Uerehrungen Jelu. Frankfurt-Leipzig 1787.,4229,94.7,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440482,1473,1792,Barby 1779.Geb.,4231,84.8,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440483,1474,1793,"Sickel, Stentel, Dahn, Glockler, Steger, Tholuk und Lechler. diu.Werke.",4232,87.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440484,1475,1794,"Ohlshaulen, Hitig, Reub, Beyfchlag, Welendonck und Seidel. diu. Werke.",4234,87.6,False,positional,Adolf Weber,,,,
 BO0624_88355,440485,1476,1795,"Scheller,nitIch,Holtmann,Schreiber,H.Aug.W.Meyer,Ritchl, Hale,Bretchneider, Schmid,Hausrath,Hundeshagen und Paul",4236,97.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440486,1477,1796,"Augufti, Hundeshagen,Lang,Wette,Florey,Friedrich,Scholl",4238,95.6,False,positional,Adolf Weber,,,,
-BO0624_88355,440487,1478,1797,"- 1798 Uogt,Scholl,Deuffen,Beurath, Lipfius,Caluin,Juftin, Chryloftomus, Becker, Althoff und Reithmayr. 11 diu. Werke.",4241,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440487,1478,1797,"- 1798 Uogt,Scholl,Deuffen,Beurath, Lipfius,Caluin,Juftin, Chryloftomus, Becker, Althoff und Reithmayr. 11 diu. Werke.",4241,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440488,1479,1799,"Schweiter,Winer,Hae,chrader,Harms,Julius Muller,Dryander, Kogel und Rifchl. 11 diu. Werke.",4243,97.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440489,1480,1800,"- Kirchner,Brickner,Palmer,Kochius,Martenfen,Schulz,Buiffon, Gobmer,MoritMuller,owe,Otto,Huffel,Heim,Ernft und Ohly. 16 diu. Werke.",4245,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440490,1481,1801,"Rofenmiller, Albers,Graf Kayferling, Gebauer, Johannes, Burger,Ankel,eibnit,Schule,Diedrich,Baumgarten,nilfen, Tholuk und de Wette. 14 diu. Werke.",4246,98.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440491,1482,1803,"- 1802 Creizenach,Steiger,Cange,Gerok,Theremin,Beyfchlag, Ahl feld, Spurgeon,Leonhardi und Schwarz. 13 diu.Werke.",4248,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440491,1482,1803,"- 1802 Creizenach,Steiger,Cange,Gerok,Theremin,Beyfchlag, Ahl feld, Spurgeon,Leonhardi und Schwarz. 13 diu.Werke.",4248,100.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440492,1483,1804,"Kliefoth,Arndt,Engert, Stilke,Gemming, Kochendorfer, Mullenliefen,Rothe,Cang, Hildebrandt, Gerok, Ohly u.a. 13 diu. Werke.",4249,97.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440493,1484,1805,Dralecke，,4251,76.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440494,1485,1806,"- 1807 Steinmeyer,Simmelt,oet,Brodbeck,Bartels,Ahlfeld,Winer, Matthai, Schleiermacher,Kirchner, Herder,Weltmann. 12 diu. Werke.",4254,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440495,1486,1808,"- 1809 milcher, Spath,Olme und Walther. 11 diu. Werke.",4257,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440496,1487,1811,A. Schwegler. Gelchichte der Philolophie. 1. Teil. Stuttgart 1868. Geb. Friedrich Thierfch. Allgemeine Aefthetik. Berlin 1846. Geb.,4263,67.7,False,positional,Adolf Weber,Scuola di Berlino,,,
-BO0624_88355,440497,1488,1812,Sigmund Bodnar. Mikrokosmos. 2 Bande. Berlin 1898. Broch.,4265,95.4,False,positional,Adolf Weber,Scuola di Berlino,,,
+BO0624_88355,440494,1485,1806,"- 1807 Steinmeyer,Simmelt,oet,Brodbeck,Bartels,Ahlfeld,Winer, Matthai, Schleiermacher,Kirchner, Herder,Weltmann. 12 diu. Werke.",4254,100.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440495,1486,1808,"- 1809 milcher, Spath,Olme und Walther. 11 diu. Werke.",4257,100.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440496,1487,1811,A. Schwegler. Gelchichte der Philolophie. 1. Teil. Stuttgart 1868. Geb. Friedrich Thierfch. Allgemeine Aefthetik. Berlin 1846. Geb.,4263,67.7,False,positional,Adolf Weber,Scuola di Berlino,,,Sec. XIX
+BO0624_88355,440497,1488,1812,Sigmund Bodnar. Mikrokosmos. 2 Bande. Berlin 1898. Broch.,4265,95.4,False,positional,Adolf Weber,Scuola di Berlino,,,Sec. XIX
 BO0624_88355,440498,1489,1813,L.Scheible.,4266,80.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440499,1490,1814,Herfilche Beitrage zu Gelehrlamkeit und Kunft. 2 Bande.,4267,95.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440500,1491,1815,Johann Gottfr. Herder. Tdeen zur Philolophie der Gelchichte der Menlchheit. 4 Teile.Leipzig 1785. Broch.,4271,97.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440501,1492,1816,"- 1817 Gote,Gegel,Elfenhaus, Wieland,Kullmann,Maurak,Euken, Goebel,Secchi,Behrends,Widemann,Butow,Lener und Staudinger. 15 diu. Werke.",4273,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440500,1491,1815,Johann Gottfr. Herder. Tdeen zur Philolophie der Gelchichte der Menlchheit. 4 Teile.Leipzig 1785. Broch.,4271,97.5,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440501,1492,1816,"- 1817 Gote,Gegel,Elfenhaus, Wieland,Kullmann,Maurak,Euken, Goebel,Secchi,Behrends,Widemann,Butow,Lener und Staudinger. 15 diu. Werke.",4273,100.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440502,1493,1818,"- Bifchoff,Carneri, Unold, Preub, Bloch, Braener, Zacharias,",4275,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440503,1494,1819,"Settegat, Schubler,Bulow und Gerlach. 11 diu. Werke.",4277,95.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440504,1495,1820,"Kirchmann,ueberweg,Schwegler,ote,Roodkat,Finot,Wichert, Eller Lymann-Cabot,Fahrenkrog,KretIchmar,Schefer,Jakob, Witlchel und Mohr. 15 diu. Werke.",4278,98.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440505,1496,1821,"Dodel-Port,Ego,Barolin,neuburger,Fench,Scholl,Kirnwart, Kraule,Muller, Mannheimer,Eberhardt und Weibenborn. 12 diu.Werke.",4279,97.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440506,1497,1822,"Ec khoff Ben Saddi. Die Bucher der Chroniken uon den Kriegen,welche",4283,96.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440507,1498,1823,- G.H. Ebhart. Gelchichte und Belchreibung der Stadt Wiesbaden.,4286,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440508,1499,1824,Fr.uon Raumer. Gelchichte der Hohenftaufen und ihrer Zeit. 6 Bande. Reutlingen 1829. Geb.,4288,97.1,False,positional,Adolf Weber,,,,
-BO0624_88355,440509,1500,1825,"Louis Blanc. Gelchichte der 10 Jahre 1830/40,uberl. uon L. Buhl. Bande.Berlin 1844.Geb.",4289,81.6,False,positional,Adolf Weber,Scuola di Berlino,,,
+BO0624_88355,440508,1499,1824,Fr.uon Raumer. Gelchichte der Hohenftaufen und ihrer Zeit. 6 Bande. Reutlingen 1829. Geb.,4288,97.1,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440509,1500,1825,"Louis Blanc. Gelchichte der 10 Jahre 1830/40,uberl. uon L. Buhl. Bande.Berlin 1844.Geb.",4289,81.6,False,positional,Adolf Weber,Scuola di Berlino,,,Sec. X
 BO0624_88355,440510,1501,1826,Dr. Fr. Flogel. Gelchichte der Romilchen Literatur. 4 Bande.,4291,95.7,False,positional,Adolf Weber,,,,
-BO0624_88355,440511,1502,1827,"- 1828 Creuzer,Bohmer,Kurz,Uilmar,Weber,Koenig,Scherr,Kreybig,",4295,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440511,1502,1827,"- 1828 Creuzer,Bohmer,Kurz,Uilmar,Weber,Koenig,Scherr,Kreybig,",4295,100.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440512,1503,1829,"- Hellwald, Cippert, Kohlraufch, Hehn und Rich. 14 diu. Werke.",4297,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440513,1504,1830,"Piper, Otto, Koch und Malfongnes. 10 diu. Werke. Samtliche Werke. 12 Bande. Stuttgart und Tubingen 1847. Geb.",4305,72.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440514,1505,1831,- 1833 Chr.Wenig. Denklchrift zum 100 jahr. Geburtstag Goethes. Weimar 1849. Geb.,4307,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440515,1506,1834,- Ernft Fr. Langbein. neuere Gedichte. Koin 1814. Geb.,4309,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440516,1507,1835,- Goethe. Samtliche Werke. 4 Bande. Stuttgart und Augsburg 1858. Geb.,4311,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440513,1504,1830,"Piper, Otto, Koch und Malfongnes. 10 diu. Werke. Samtliche Werke. 12 Bande. Stuttgart und Tubingen 1847. Geb.",4305,72.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440514,1505,1831,- 1833 Chr.Wenig. Denklchrift zum 100 jahr. Geburtstag Goethes. Weimar 1849. Geb.,4307,100.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440515,1506,1834,- Ernft Fr. Langbein. neuere Gedichte. Koin 1814. Geb.,4309,100.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440516,1507,1835,- Goethe. Samtliche Werke. 4 Bande. Stuttgart und Augsburg 1858. Geb.,4311,100.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440517,1508,1836,Guft. nible. Umrille zu Goethe's Werken in 92 Blattern und Stahlftichen.,4312,96.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440518,1509,1837,Theodor Korner. Samtliche Werke. 3 Bande. Yuerdun 1833. Geb.,4314,95.7,False,positional,Adolf Weber,,,,
-BO0624_88355,440519,1510,1838,Hauff. Samtliche Werke.5 Bande.Stuttgart 1862. Geb.,4315,95.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440520,1511,1839,- 1841 - Muller. Gedichte.Ulm 1783. Geb. Abraham a Santa Clara. Auserlelene Werke.2 Bande. Wien und,4320,79.5,False,positional,Adolf Weber,Scuola Viennese,,,
-BO0624_88355,440521,1512,1843,Becker und Schiller. Talchenbuch XXVIl. 1817 und Mulenalmanach Geb.,4324,93.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440522,1513,1844,- 1845,4328,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440518,1509,1837,Theodor Korner. Samtliche Werke. 3 Bande. Yuerdun 1833. Geb.,4314,95.7,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440519,1510,1838,Hauff. Samtliche Werke.5 Bande.Stuttgart 1862. Geb.,4315,95.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440520,1511,1839,- 1841 - Muller. Gedichte.Ulm 1783. Geb. Abraham a Santa Clara. Auserlelene Werke.2 Bande. Wien und,4320,79.5,False,positional,Adolf Weber,Scuola Viennese,,,Sec. XIX
+BO0624_88355,440521,1512,1843,Becker und Schiller. Talchenbuch XXVIl. 1817 und Mulenalmanach Geb.,4324,93.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440522,1513,1844,- 1845,4328,100.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440523,1514,1846,"Bartich,Gericke,Burger,Herder,Klopltock,Scherr, Herblt, Rungler. 10 diu. Werke. Broch.",4330,97.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440524,1515,1847,Ad.Kohut. Schiller 1905 und H. G.Lewes. Goethe 1873. Geb. Zuf. 3Bande.,4331,96.2,False,positional,Adolf Weber,,,,
+BO0624_88355,440524,1515,1847,Ad.Kohut. Schiller 1905 und H. G.Lewes. Goethe 1873. Geb. Zuf. 3Bande.,4331,96.2,False,positional,Adolf Weber,,,,Sec. XX
 BO0624_88355,440525,1516,1848,"Deycks,Alb,Gern,Dunter,Goethe und Schiller,Gerlach,Geibel, Freiligrath,Thummel, uhland, Grillparzer und Jean Paul. 12 diu. Werke.",4332,98.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440526,1517,1849,und Heyle. 8 diu. Werke.,4334,89.4,False,positional,Adolf Weber,,,,
 BO0624_88355,440527,1518,1850,"Jean Paul,Blumauer, Wieland,Gutkow,nauk,Bodenftedt, Kalidafa,ingg,Strackerjan,Hacklander,Blumenhagen,Kleift, Lichtenberg und Jakob. 13 diu. Werke und 24 Bandchen Miniaturund Cabinetsbibliothek.",4335,98.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440528,1519,1851,"Burkner,Froming,Helbel,Jordan,Kinkel, Klopftock,Konig, Milan, Kuonrat uon Wirzeburc und Uilmar. 10 diu. Werke.",4336,97.7,False,positional,Adolf Weber,,,,
 BO0624_88355,440529,1520,1852,Fr.Bodenftedt.Taulend und ein Tag im Orient. 2 Bande.,4340,95.3,False,positional,Adolf Weber,,,,
 BO0624_88355,440530,1521,1853,Geheime Gelchichten und ratlelhafte Menfchen. 5 Bande.,4342,95.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440531,1522,1854,Julius Stinde. Die Familie Buchholz. Berlin 1885. Geb.,4344,95.2,False,positional,Adolf Weber,Scuola di Berlino,,,
-BO0624_88355,440532,1523,1855,U.Henfel. Die Familie Mendelfohn. 3 Bande. Berlin 1879. Geb.,4345,95.7,False,positional,Adolf Weber,Scuola di Berlino,,,
+BO0624_88355,440531,1522,1854,Julius Stinde. Die Familie Buchholz. Berlin 1885. Geb.,4344,95.2,False,positional,Adolf Weber,Scuola di Berlino,,,Sec. XIX
+BO0624_88355,440532,1523,1855,U.Henfel. Die Familie Mendelfohn. 3 Bande. Berlin 1879. Geb.,4345,95.7,False,positional,Adolf Weber,Scuola di Berlino,,,Sec. XIX
 BO0624_88355,440533,1524,1856,"Hellwald,Deiminger,Mohr,Erdmann,Treu,Scharf,Pater Leonardus,Kunzendorf,Feiner,Ring und Deutfcher nouellenfchat. 11 diu.Werke.",4346,98.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440534,1525,1857,"- Jenfen,Gogol, Schulelka,wlibifcheff, Schwarz,Tegner, Gouen, Baumann und Strauh. 9 diu. Werke.",4348,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440535,1526,1858,"Weber,Hacklander,nemmesdorf, Thackeray,Chamiflo,Reinhardt,Keller,Heufeldt,ulenftein,Max Muller,Presber,Stinde, Jul. Werner u.a. 14 diu.Werke.",4349,98.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440536,1527,1859,Alex uon Humboldt. Kosmos. 4 Bande. Stuttgart und Augsburg 1845. Geb.,4352,96.2,False,positional,Adolf Weber,,,,
-BO0624_88355,440537,1528,1860,Cuther. Die ganze heilige Schrift. Balel 1793. Geb.,4353,94.9,False,positional,Adolf Weber,,,,
-BO0624_88355,440538,1529,1861,Leben der Heiligen. Gedr. Balel 1707. Geb.,4355,93.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440539,1530,1862,Stuttgart 1840.Geb.,4356,87.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440540,1531,1863,Jo.Palatio.Gena Pontificorum Romanorum Innocentum XI. Uenetiis 1687. Geb.,4357,96.6,False,positional,Adolf Weber,,,,
-BO0624_88355,440541,1532,1864,Epitome Thelauri antiquitatum ic. Zurich 1537.Geb. Fr. Gal. Obristo Profeffo. notato geftorum in Lartulia G. Uik. Marti in Pruel Ratibonam.Handlchrift 1795.Geb. Florilegium Heilonio -criticum Rariorium librorum. 1763. Geb.,4359,66.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440542,1533,1867,"Amfterdam 1745.Geb. Schweiger-Lerchenfeld,Kobelt,Oggel, Melinelle, Kaulen,de Gubernatis,u.Pereire,Gutau Maier,Meth,Schafer,Gillebrandt, Rolenwall,Wilmfen,Huthner, Scott, Hubner und Saubertus. 18 diu.Werke. Geb.",4364,93.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440543,1534,1870,- 1871 Laurentius Mothenius. Inftitutiones Hiftoriae Chriftianiae.,4367,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440544,1535,1872,- G.Uictore. Regula D. Aureli Auguftini. Augsburg 1722.Geb.,4369,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440545,1536,1873,"A.Flam. nobil Brufius.Hexaplorum Originis. Tom.I u. II, Leipzig 1769. Geb.",4372,96.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440546,1537,1874,Tobias Efchardius. non Chriftianorum de Chrifte teftinonia. Quelinburg 1725. Geb.,4373,96.9,False,positional,Adolf Weber,,,,
-BO0624_88355,440547,1538,1875,- Martyrologium Gregorii XIll. et Innocenti XI. Uenedig 1690. Geb.,4375,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440548,1539,1876,- 1877,4377,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440536,1527,1859,Alex uon Humboldt. Kosmos. 4 Bande. Stuttgart und Augsburg 1845. Geb.,4352,96.2,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440537,1528,1860,Cuther. Die ganze heilige Schrift. Balel 1793. Geb.,4353,94.9,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440538,1529,1861,Leben der Heiligen. Gedr. Balel 1707. Geb.,4355,93.8,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440539,1530,1862,Stuttgart 1840.Geb.,4356,87.8,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440540,1531,1863,Jo.Palatio.Gena Pontificorum Romanorum Innocentum XI. Uenetiis 1687. Geb.,4357,96.6,False,positional,Adolf Weber,,,,Sec. XVII
+BO0624_88355,440541,1532,1864,Epitome Thelauri antiquitatum ic. Zurich 1537.Geb. Fr. Gal. Obristo Profeffo. notato geftorum in Lartulia G. Uik. Marti in Pruel Ratibonam.Handlchrift 1795.Geb. Florilegium Heilonio -criticum Rariorium librorum. 1763. Geb.,4359,66.0,False,positional,Adolf Weber,,,,Sec. XVI
+BO0624_88355,440542,1533,1867,"Amfterdam 1745.Geb. Schweiger-Lerchenfeld,Kobelt,Oggel, Melinelle, Kaulen,de Gubernatis,u.Pereire,Gutau Maier,Meth,Schafer,Gillebrandt, Rolenwall,Wilmfen,Huthner, Scott, Hubner und Saubertus. 18 diu.Werke. Geb.",4364,93.8,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440543,1534,1870,- 1871 Laurentius Mothenius. Inftitutiones Hiftoriae Chriftianiae.,4367,100.0,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440544,1535,1872,- G.Uictore. Regula D. Aureli Auguftini. Augsburg 1722.Geb.,4369,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440545,1536,1873,"A.Flam. nobil Brufius.Hexaplorum Originis. Tom.I u. II, Leipzig 1769. Geb.",4372,96.5,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440546,1537,1874,Tobias Efchardius. non Chriftianorum de Chrifte teftinonia. Quelinburg 1725. Geb.,4373,96.9,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440547,1538,1875,- Martyrologium Gregorii XIll. et Innocenti XI. Uenedig 1690. Geb.,4375,100.0,False,positional,Adolf Weber,,,,Sec. XVII
+BO0624_88355,440548,1539,1876,- 1877,4377,100.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440549,1540,1635,Geb.,4379,54.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440550,1541,1878,Georg Pafor. Manuele noui Teftamenti. Amftelodami Elzevier. 1672. Geb.,4382,96.3,False,positional,Adolf Weber,,,,
-BO0624_88355,440551,1542,1879,- Traflardus et Cominaeus. Rerum Galaiarum fcriptores. Amfterdam 1640.Geb.,4384,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440552,1543,1880,M. Chr. Reinecke. Uetus Teltamentum I u.1I. Leipzig 1757. Geb.,4385,95.7,False,positional,Adolf Weber,,,,
-BO0624_88355,440553,1544,1881,Paul Lacroix. Moeurs ulages et coltumes au Moyen age et a l'epoque de la Renaillance. Paris 1873. Geb.,4386,97.5,False,positional,Adolf Weber,,,,
-BO0624_88355,440554,1545,1882,Moliere. Le bourgeois gentilhomme. Leipzig 1670. Geb.,4387,95.1,False,positional,Adolf Weber,,,,
-BO0624_88355,440555,1546,1883,William Shakelpeare. Works. London 1865.Geb.,4389,94.3,False,positional,Adolf Weber,,,,
+BO0624_88355,440550,1541,1878,Georg Pafor. Manuele noui Teftamenti. Amftelodami Elzevier. 1672. Geb.,4382,96.3,False,positional,Adolf Weber,,,,Sec. XVII
+BO0624_88355,440551,1542,1879,- Traflardus et Cominaeus. Rerum Galaiarum fcriptores. Amfterdam 1640.Geb.,4384,100.0,False,positional,Adolf Weber,,,,Sec. XVII
+BO0624_88355,440552,1543,1880,M. Chr. Reinecke. Uetus Teltamentum I u.1I. Leipzig 1757. Geb.,4385,95.7,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440553,1544,1881,Paul Lacroix. Moeurs ulages et coltumes au Moyen age et a l'epoque de la Renaillance. Paris 1873. Geb.,4386,97.5,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440554,1545,1882,Moliere. Le bourgeois gentilhomme. Leipzig 1670. Geb.,4387,95.1,False,positional,Adolf Weber,,,,Sec. XVII
+BO0624_88355,440555,1546,1883,William Shakelpeare. Works. London 1865.Geb.,4389,94.3,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440556,1547,1884,lifche. Zulammen 29 diu. Werke.,4390,91.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440557,1548,18852,"20 verlchiedene Werke, dabei L'elpion turc a Frankfort, Dr.E. Heyden,",4393,95.6,False,positional,Adolf Weber,,,,
 BO0624_88355,440558,1549,1886,"25 desgl., dabei Kelchner, G. W. Pfeiffer, Husgen ic.",4397,94.8,False,positional,Adolf Weber,,,,
-BO0624_88355,440559,1550,1887,D.Ring (Dohring). neuefte Chronik der freien Stadt Frankfurt. 1834. Geb.,4399,96.4,False,positional,Adolf Weber,,,,
-BO0624_88355,440560,1551,1888,1889,4403,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440559,1550,1887,D.Ring (Dohring). neuefte Chronik der freien Stadt Frankfurt. 1834. Geb.,4399,96.4,False,positional,Adolf Weber,,,,Sec. XIX
+BO0624_88355,440560,1551,1888,1889,4403,100.0,False,positional,Adolf Weber,,,,Sec. XIX
 BO0624_88355,440561,1552,1890,"D.G.H.Faber. Belchreibung von Frankfurt a.M. 2 Bande. uerlchiedene Werke,dabei Senckenberg,Schulz-Euler, Battonn u.a",4413,70.9,False,positional,Adolf Weber,,,,
 BO0624_88355,440562,1553,1891,"22 desgl., dabei uon Bothe, Bucher, Hammeran u.a.",4415,94.6,False,positional,Adolf Weber,,,,
 BO0624_88355,440563,1554,1892,18933 35 Griechilch und Catein.,4419,100.0,False,positional,Adolf Weber,,,,
@@ -1558,9 +1558,9 @@ BO0624_88355,440565,1556,1895,35 Deutfch. 40 desgl.,4425,58.8,False,positional,A
 BO0624_88355,440566,1557,1896,35 desgl.,4429,76.2,False,positional,Adolf Weber,,,,
 BO0624_88355,440567,1558,28,"desgl., dabei uon Kracauer, Korf, Ualentin u.a.",4431,96.6,False,positional,Adolf Weber,,,,
 BO0624_88355,440568,1559,1898,17 Brolchiren. Kriegsliteratur.,4437,92.1,False,positional,Adolf Weber,,,,
-BO0624_88355,440569,1560,1899,64 Hefte. Aus natur und Geilteswelt. Ceipzig 1904—1913.,4441,100.0,False,positional,Adolf Weber,,,,
-BO0624_88355,440570,1561,1900,Benj. Hederico. Graecum lexikon. London 1778. Geb.,4443,94.7,False,positional,Adolf Weber,,,,
-BO0624_88355,440571,1562,1901,Dictionnaire Franco-Allemande. Strabburg 1789. Geb.,4447,100.0,False,positional,Adolf Weber,,,,
+BO0624_88355,440569,1560,1899,64 Hefte. Aus natur und Geilteswelt. Ceipzig 1904—1913.,4441,100.0,False,positional,Adolf Weber,,,,Sec. XX
+BO0624_88355,440570,1561,1900,Benj. Hederico. Graecum lexikon. London 1778. Geb.,4443,94.7,False,positional,Adolf Weber,,,,Sec. XVIII
+BO0624_88355,440571,1562,1901,Dictionnaire Franco-Allemande. Strabburg 1789. Geb.,4447,100.0,False,positional,Adolf Weber,,,,Sec. XVIII
 BO0624_88355,440572,1563,1902,11 Lexika und dergl. Uerlchiedene Werke.,4449,93.8,False,positional,Adolf Weber,,,,
 BO0624_88355,440573,1564,1903,12 desgl.desgl. Desgl.,4453,100.0,False,positional,Adolf Weber,,,,
 BO0624_88355,440574,1565,1904,24 diu. Werke.,4455,82.8,False,positional,Adolf Weber,,,,

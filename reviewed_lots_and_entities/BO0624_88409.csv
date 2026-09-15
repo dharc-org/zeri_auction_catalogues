@@ -36,7 +36,7 @@ BO0624_88409,223859,34,59,Kiefernwald mit Wegweiser. Leinwand 61/50 Bezeichnet:H
 BO0624_88409,223860,35,60,Herbstwald in der Senne. Leinwand 56/70 Bezeichnet:H. Falk.                                  |,118,97.4,False,positional,F.Bohlen,,,,
 BO0624_88409,223861,36,61,Alter Wallgraben bei Spandau. Leinwand 58/70 Bezeichnet.                                     |,119,97.3,False,positional,F.Bohlen,,,,
 BO0624_88409,223862,37,62,Wilhelmshof bei Hersfeld. Leinwand 52/67 Bezeichnet:H.Falk.                                  |,120,97.4,False,positional,F.Bohlen,,,,
-BO0624_88409,223863,38,63,Blaue Blumen. Karton 41/55 Auf der Rickseite:H. Falk 1913.                                   |,121,97.3,False,positional,F.Bohlen,,,,
+BO0624_88409,223863,38,63,Blaue Blumen. Karton 41/55 Auf der Rickseite:H. Falk 1913.                                   |,121,97.3,False,positional,F.Bohlen,,,,Sec. XX
 BO0624_88409,223864,39,64,Kramermihle bei Langen. Leinwand auf Karton 33/47 Bezeichnet: H. Falk.                       |,122,97.8,False,positional,F.Bohlen,,,,
 BO0624_88409,223865,40,65,"Hauser auf dem Higel. Aquarell 15/22 Bezeichnet:H. Falk, Willershausen.                      |",123,97.8,False,positional,F.Bohlen,,,,
 BO0624_88409,223866,41,67,PreuBischer Ulan. 39/32                                                                      |,125,93.6,False,positional,F.Bohlen,,,,
@@ -75,14 +75,14 @@ BO0624_88409,223898,73,12,13,219,100.0,False,positional,W. Renigald Keller,,,,
 BO0624_88409,223899,74,2,7,224,100.0,False,positional,W. Renigald Keller,,,,
 BO0624_88409,223900,75,21,## Leopold Lengau.,230,100.0,False,title_direct,Leopold Lengau,,,,
 BO0624_88409,223901,76,115,"| Stilleben. Musikinstrument,Bucher. Gegenstick zum Vorigen                                             |",236,96.5,False,title_direct,,,Bucher,,
-BO0624_88409,223902,77,117,| Maler des 19. Jahrhunderts. Landschaft.                                                               |,238,94.7,False,positional,Leopold Lengau,,,,
+BO0624_88409,223902,77,117,| Maler des 19. Jahrhunderts. Landschaft.                                                               |,238,94.7,False,positional,Leopold Lengau,,,,Sec. XIX
 BO0624_88409,223903,78,118,| Sepia 17/22 Brustbild einer Dame mit rotem Schirm. Pastell 92/69                                      |,239,96.9,False,positional,Leopold Lengau,,,,
 BO0624_88409,223904,79,119,| Brustbild einer Dame mit Schmetterlingen. Gegenstick z. Vorigen                                       |,240,96.8,False,positional,Leopold Lengau,,,,
 BO0624_88409,223905,80,120,| Esperance. Pastell 85/68                                                                              |,241,92.0,False,positional,Leopold Lengau,,,,
 BO0624_88409,223906,81,121,| Italienische Kistenlandschaft. Leinwand 52/85                                                         |,242,95.7,False,positional,Leopold Lengau,,,,
 BO0624_88409,223907,82,122,| Landschaft mit Fuhrleuten und Pferdegespannen. Karton 26/39                                           |,243,96.7,False,positional,Leopold Lengau,,,,
 BO0624_88409,223908,83,123,| Stilleben. Jagdbeute. Holz 93/70                                                                      |,244,93.8,False,title_direct,,,Holz,,
-BO0624_88409,223909,84,125,| Damenportrat. Gegenstick zum Vorigen Bezeichnet:J. Maniera 1885.                                      |,246,96.8,False,positional,Leopold Lengau,,,,
+BO0624_88409,223909,84,125,| Damenportrat. Gegenstick zum Vorigen Bezeichnet:J. Maniera 1885.                                      |,246,96.8,False,positional,Leopold Lengau,,,,Sec. XIX
 BO0624_88409,223910,85,128,"| Nach Gabriel v. Max , Minchen. Marchen. Holz 14/10                                                    |",249,95.7,False,title_direct,MAX GABRIEL VON,,Holz,,
 BO0624_88409,223911,86,129,| Nornen. Gegenstick zum Vorigen                                                                        |,250,93.5,False,positional,Leopold Lengau,,,,
 BO0624_88409,223912,87,130,| Gretchen. Gegenstick zum Vorigen                                                                      |,251,93.9,False,positional,Leopold Lengau,,,,
@@ -120,7 +120,7 @@ BO0624_88409,223943,118,188,"Rote Rosen in Vase. Leinwand,ungerahmt,53/37 Bezeic
 BO0624_88409,223944,119,189,"Rote Rosen in gerippter Vase. Bezeichnet:E. Schulz, Lichtental.                    | Karton 52/41            |",324,97.3,False,positional,Adolf Schmitz,,VASI,,
 BO0624_88409,223945,120,190,Winterlandschaft. Bezeichnet: Th. Schitz 92.                                       | Leinwand 45/60          |,325,96.5,False,positional,Adolf Schmitz,,,,
 BO0624_88409,223946,121,194,Norwegische Landschaft.                                               | Leinwand 61/100                       |,329,95.0,False,positional,Adolf Schmitz,,,,
-BO0624_88409,223947,122,196,Waldwiese mit Rehen. Bezeichnet:T. Smetak 1874.                       | Leinwand 73/100                       |,332,96.8,False,positional,Adolf Schmitz,,,,
+BO0624_88409,223947,122,196,Waldwiese mit Rehen. Bezeichnet:T. Smetak 1874.                       | Leinwand 73/100                       |,332,96.8,False,positional,Adolf Schmitz,,,,Sec. XIX
 BO0624_88409,223948,123,197,Schweizer Landschaft.                                                 | Gegenstick zum Vorigen                |,333,95.6,False,positional,Adolf Schmitz,,,,
 BO0624_88409,223949,124,198,Abendlandschaft. Bezeichnet: Stademann.                               | Karton 22/27                          |,334,96.1,False,positional,Adolf Schmitz,,,,
 BO0624_88409,223950,125,200,Lowenkopf. Bezeichnet: Steinel 07.                                    |                                       |,336,93.9,False,positional,Adolf Schmitz,,,,
@@ -136,7 +136,7 @@ BO0624_88409,223959,134,216,"Ruinenarchitektur. Sepia, Durchm.12 cm 217 Ruinenar
 BO0624_88409,223960,135,219,Gesatteltes Reitpferd. Holz 24/32                                                                                                          |,358,94.1,False,title_direct,,,Holz,,
 BO0624_88409,223961,136,220,Gesatteltes Reitpferd. Gegenstick zum Vorigen                                                                                              |,359,95.7,False,positional,Herm.Thiele,,,,
 BO0624_88409,223962,137,222,Hirtenfamilie. Aquarell 18/15                                                                                                              |,362,93.3,False,positional,Herm.Thiele,,,,
-BO0624_88409,223963,138,224,"Reveil d'amour. Thomas Wijck,1616-1677,Art.                                                                                                |",365,95.3,False,positional,Herm.Thiele,,,,
+BO0624_88409,223963,138,224,"Reveil d'amour. Thomas Wijck,1616-1677,Art.                                                                                                |",365,95.3,False,positional,Herm.Thiele,,,,Sec. XVII
 BO0624_88409,223964,139,225,Allegorische Darstellung. Leinwand 74/58                                                                                                   |,366,95.1,False,positional,Herm.Thiele,,,,
 BO0624_88409,223965,140,226,Winterlandschaft. Abendstimmung. Bezeichnet: A. Wildau.                                | Holz 19/31             |,369,96.8,False,title_direct,A.Wildau,,Holz,,
 BO0624_88409,223966,141,227,Winterlandschaft. Abendstimmung. Bezeichnet: A. Wildau.                                | Gegenstick zum Vorigen |,371,97.3,False,title_direct,A.Wildau,,,,
@@ -194,7 +194,7 @@ BO0624_88409,224017,192,281,- Paar Goldstuhle mit Gobelinbezug.,482,100.0,False,
 BO0624_88409,224018,193,282,"Bronze-Stander mit Prismen, 5flammig,fur elektr.Licht.",486,96.3,False,title_direct,,,Bronzen,,
 BO0624_88409,224019,194,283,"Eckschrank, NuBbaum,reich geschnitzt und profiliert.",488,96.2,False,positional,,,Mobel,,
 BO0624_88409,224020,195,284,"DamenSchreibtisch,Mahagoni,schwarz.Hohe90,Breit53,Tiefe0cm /240 cm",492,91.3,False,positional,,,Mobel,,
-BO0624_88409,224021,196,285,"Garnitur, im Stile des 17. Jahrhunderts,reich geschnitzt, mit gelbem 3 Sesseln,4 Stihlen, Tisch",497,97.8,False,positional,,,Mobel,,
+BO0624_88409,224021,196,285,"Garnitur, im Stile des 17. Jahrhunderts,reich geschnitzt, mit gelbem 3 Sesseln,4 Stihlen, Tisch",497,97.8,False,positional,,,Mobel,,Sec. XVII
 BO0624_88409,224022,197,287,287,499,100.0,False,positional,,,Mobel,,
 BO0624_88409,224023,198,288,"Paravent, 7teilig, Eiche, in gotischem Stil. In den Fullungen Glasmalereientwirfe fir Kirchenfenster. Je 180/55",503,98.1,False,title_direct,,,ARREDAMENTI,,
 BO0624_88409,224024,199,289,"- Spiegel, Mahagoni.",505,100.0,False,positional,,,SPECCHI,,
@@ -283,9 +283,9 @@ BO0624_88409,224106,281,372,- Anhanger. Silber vergoldet mit Emaille.,630,100.0,
 BO0624_88409,224107,282,373,"Bonbonniere, oval. Silber vergoldet mit Emaille-Malerei und Portrat.",631,97.0,False,positional,,,Edelmetalle; Shmuk,,
 BO0624_88409,224108,283,375,375,633,100.0,False,positional,,,Edelmetalle; Shmuk,,
 BO0624_88409,224109,284,376,Medaille: Konig Albert von Sachsen. Silber.,636,95.2,False,positional,,,Edelmetalle; Shmuk,,
-BO0624_88409,224110,285,377,Medaille: Kaiser Ferdinand von Osterreich. 1847.,637,95.7,False,positional,,,Edelmetalle; Shmuk,,
-BO0624_88409,224111,286,378,- Kronentaler: Konig Anton von Sachsen. 1834.,639,100.0,False,positional,,,Edelmetalle; Shmuk,,
-BO0624_88409,224112,287,379,Sterbetaler: Friedrich August von Sachsen. 1854.,640,95.7,False,positional,,,Edelmetalle; Shmuk,,
+BO0624_88409,224110,285,377,Medaille: Kaiser Ferdinand von Osterreich. 1847.,637,95.7,False,positional,,,Edelmetalle; Shmuk,,Sec. XIX
+BO0624_88409,224111,286,378,- Kronentaler: Konig Anton von Sachsen. 1834.,639,100.0,False,positional,,,Edelmetalle; Shmuk,,Sec. XIX
+BO0624_88409,224112,287,379,Sterbetaler: Friedrich August von Sachsen. 1854.,640,95.7,False,positional,,,Edelmetalle; Shmuk,,Sec. XIX
 BO0624_88409,224113,288,380,Brosche in Emailfarben. Agyptischer Frauenkopf.,641,95.7,False,positional,,,Edelmetalle; Shmuk,,
 BO0624_88409,224114,289,381,- Chinesisches Tuschdoschen. Silber mit Golddekor.,643,100.0,False,positional,,,Edelmetalle; Shmuk,,
 BO0624_88409,224115,290,382,Handspiegelfassung. Silber. Efeublatter.,644,94.9,False,positional,,,Edelmetalle; Shmuk,,
@@ -364,9 +364,9 @@ BO0624_88409,224187,362,465,"Eisenplattchen, mit feiner Gold und Silber tauschie
 BO0624_88409,224188,363,466,"Belgische Panzergarnitur. Brust- und Riickenstick, Helm mit RoB-",793,96.8,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224189,364,468,468,797,100.0,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224190,365,469,Deutsche Hellebarde.15. Jahrhundert.,798,97.1,False,positional,,,Metalle; Waffen; Gehorne,,
-BO0624_88409,224191,366,470,- Venezianische Hellebarde. 16. Jahrhundert.,801,100.0,False,positional,,,Metalle; Waffen; Gehorne,,
-BO0624_88409,224192,367,471,Sachsische Kriegshippe. 15. Jahrhundert.,802,94.9,False,positional,,,Metalle; Waffen; Gehorne,,
-BO0624_88409,224193,368,472,- Sponton. 17. Jahrhundert.,804,100.0,False,positional,,,Metalle; Waffen; Gehorne,,
+BO0624_88409,224191,366,470,- Venezianische Hellebarde. 16. Jahrhundert.,801,100.0,False,positional,,,Metalle; Waffen; Gehorne,,Sec. XVI
+BO0624_88409,224192,367,471,Sachsische Kriegshippe. 15. Jahrhundert.,802,94.9,False,positional,,,Metalle; Waffen; Gehorne,,Sec. XV
+BO0624_88409,224193,368,472,- Sponton. 17. Jahrhundert.,804,100.0,False,positional,,,Metalle; Waffen; Gehorne,,Sec. XVII
 BO0624_88409,224194,369,473,Enterhaken.15. Jahrhundert.,805,92.6,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224195,370,474,- Sponton.16.Jahrhundert.,807,100.0,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224196,371,475,- Tambourstock. Sachsisch.,809,100.0,False,positional,,,Metalle; Waffen; Gehorne,,
@@ -378,7 +378,7 @@ BO0624_88409,224201,376,480,PreuBischer Kavallerie-Sabel.,814,93.3,False,positio
 BO0624_88409,224202,377,481,GroBherzoglich Hessischer Offiziers-Sabel.,815,95.3,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224203,378,482,Kavalier-Hofdegen.17. Jahrhundert.,816,94.1,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224204,379,483,- PreuBischer Fusilier-Sabel.,818,100.0,False,positional,,,Metalle; Waffen; Gehorne,,
-BO0624_88409,224205,380,484,Kavalier-Hofdegen. 17. Jahrhundert,819,94.1,False,positional,,,Metalle; Waffen; Gehorne,,
+BO0624_88409,224205,380,484,Kavalier-Hofdegen. 17. Jahrhundert,819,94.1,False,positional,,,Metalle; Waffen; Gehorne,,Sec. XVII
 BO0624_88409,224206,381,485,Bayrischer Infanterie-Sabel.,821,93.1,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224207,382,486,Jagdmesser.,825,100.0,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224208,383,487,Pistole.,827,77.8,False,positional,,,Metalle; Waffen; Gehorne,,
@@ -390,10 +390,10 @@ BO0624_88409,224213,388,492,Pistole.,837,77.8,False,positional,,,Metalle; Waffen
 BO0624_88409,224214,389,493,Pistole. Franzosisch.,839,90.5,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224215,390,494,Pistole.,841,77.8,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224216,391,495,Jagdmesser.,843,83.3,False,positional,,,Metalle; Waffen; Gehorne,,
-BO0624_88409,224217,392,496,Yatagan. Franzosisch 1866.,845,92.3,False,positional,,,Metalle; Waffen; Gehorne,,
+BO0624_88409,224217,392,496,Yatagan. Franzosisch 1866.,845,92.3,False,positional,,,Metalle; Waffen; Gehorne,,Sec. XIX
 BO0624_88409,224218,393,497,Seitengewehr.Eigen.,847,90.0,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224219,394,498,Tirkischer RoBschweif mit Halbmond.,849,94.4,False,positional,,,Metalle; Waffen; Gehorne,,
-BO0624_88409,224220,395,499,Morgenstern. 14. Jahrhundert.,851,92.9,False,positional,MORGENSTERN JOHAN FRIEDRICH,,Metalle; Waffen; Gehorne,,
+BO0624_88409,224220,395,499,Morgenstern. 14. Jahrhundert.,851,92.9,False,positional,MORGENSTERN JOHAN FRIEDRICH,,Metalle; Waffen; Gehorne,,Sec. XIV
 BO0624_88409,224221,396,500,Streitaxt.11. Jahrhundert.,855,100.0,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224222,397,501,502,859,100.0,False,positional,,,Metalle; Waffen; Gehorne,,
 BO0624_88409,224223,398,503,Streitaxt. Auslandisch.,863,100.0,False,positional,,,Metalle; Waffen; Gehorne,,
@@ -494,7 +494,7 @@ BO0624_88409,224317,492,600,Nymphenburg-Obstschale.,1071,91.7,False,positional,,
 BO0624_88409,224318,493,601,Rosenthal-Kaffeeservice. 15 Teile.,1075,100.0,False,positional,,,Porzellane,,
 BO0624_88409,224319,494,602,"Konfektkorbchen, durchbrochen. MeiBen. Lange 14,5cm",1077,96.0,False,positional,,,Porzellane,,
 BO0624_88409,224320,495,603,"Konfektkorbchen, durchbrochen. Wien. Lange 17 cm",1078,95.7,False,positional,,Scuola Viennese,Porzellane,,
-BO0624_88409,224321,496,604,"Tasse v. 1848, weiB mit Goldrand.",1079,93.8,False,positional,,,Porzellane,,
+BO0624_88409,224321,496,604,"Tasse v. 1848, weiB mit Goldrand.",1079,93.8,False,positional,,,Porzellane,,Sec. XIX
 BO0624_88409,224322,497,605,Biedermeier-Vase. Hohe 24cm,1080,92.9,False,positional,,Biedermeier,VASI,,
 BO0624_88409,224323,498,606,"Vase, zylinderformig,mit Blumenmalerei. Marke K. Hohe 20 cm",1081,96.6,False,positional,,,VASI,,
 BO0624_88409,224324,499,607,"Henkelkorbchen.Porzellan, weiB. Hohe 11 cm",1082,95.2,False,title_direct,,,Porzellane,,
@@ -588,7 +588,7 @@ BO0624_88409,224411,586,698,Madchenbiste. Marmor.,1312,90.5,False,title_direct,,
 BO0624_88409,224412,587,699,Marmor-Vase. ： Hohe 18 cm,1318,100.0,False,title_direct,,,VASI,,
 BO0624_88409,224413,588,700,Marmor-Kruzifix mit Emailauflage. Lange 12cmt,1320,95.7,False,title_direct,,,Marmor,,
 BO0624_88409,224414,589,701,"* Marmor-Buste, iberlebensgroB. Rafael Santi, von C. Lotsch,",1322,96.4,False,title_direct,SANZIO RAFFAELLO,,Marmor,,
-BO0624_88409,224415,590,702,"* Marmor-Buste, iberlebensgroB. Albrecht Durer, von C. Lotsch, geb. 1793 in Karlsruhe, seit 1823 in Rom, gest. daselbst 1873.",1328,98.3,False,title_direct,DURER ALBRECHT,,Marmor,,
+BO0624_88409,224415,590,702,"* Marmor-Buste, iberlebensgroB. Albrecht Durer, von C. Lotsch, geb. 1793 in Karlsruhe, seit 1823 in Rom, gest. daselbst 1873.",1328,98.3,False,title_direct,DURER ALBRECHT,,Marmor,,Sec. XVIII
 BO0624_88409,224416,591,703,3Paar Deckel-Vasen. Marmor. Hohe35cm,1332,94.4,False,title_direct,,,VASI,,
 BO0624_88409,224417,592,704,Ovale Fruchtschale.Marmor. Hohe 31 cm,1334,94.7,False,title_direct,,,COPPE,,
 BO0624_88409,224418,593,705,Madchenkopf auf Sockel. Marmor.,1336,93.5,False,title_direct,,,Marmor,,
@@ -703,7 +703,7 @@ BO0624_88409,224526,701,822,822,1659,100.0,False,positional,,,Holz; Elfenbein,,
 BO0624_88409,224527,702,823,Elfenbein-Salmiakflacon.,1662,92.0,False,title_direct,,,Elfenbein,,
 BO0624_88409,224528,703,824,- 825 Paar turkische Frauensandalen. Holz.,1664,100.0,False,title_direct,,,Holz,,
 BO0624_88409,224529,704,826,Wandbrett mit japanischen Metallverzierungen.,1666,95.7,False,title_direct,,,Metalle,,
-BO0624_88409,224530,705,828,- 827 Wachsbossierung. Ecce homo. Mitte des 18. Jahrhunderts. 19/17 cm,1668,100.0,False,positional,,,Holz; Elfenbein,,
+BO0624_88409,224530,705,828,- 827 Wachsbossierung. Ecce homo. Mitte des 18. Jahrhunderts. 19/17 cm,1668,100.0,False,positional,,,Holz; Elfenbein,,Sec. XVIII
 BO0624_88409,224531,706,829,Facher. Elfenbein.,1669,88.9,False,title_direct,,,SCOMPARTI,,
 BO0624_88409,224532,707,830,- 831 Nadelbichschen. Perlmutter.,1672,100.0,False,positional,,,Holz; Elfenbein,,
 BO0624_88409,224533,708,832,Achat-Dose mit vergoldeter Tombakfassung.,1674,95.2,False,positional,,,SCATOLE,,
@@ -732,12 +732,12 @@ BO0624_88409,224555,730,854,Serapis. Roman von Gg. Ebers. 8. Auflage.,1729,94.7,
 BO0624_88409,224556,731,855,Harald und Theano von Felix Dahn.,1731,94.1,False,positional,,,Bucher; Kunstblatter,,
 BO0624_88409,224557,732,I,llustriert von Joh. Gehrts.,1733,98.0,False,positional,,,Bucher; Kunstblatter,,
 BO0624_88409,224558,733,855,a Collection of Prints from pictures ... the Dramatto Works of,1735,97.5,False,positional,,,FOTOGRAFIE,,
-BO0624_88409,224559,734,856,Cotta &amp; Philibert Brunn. 1623.Schweinsldbd.40.,1738,95.8,False,positional,,,Bucher; Kunstblatter,,
+BO0624_88409,224559,734,856,Cotta &amp; Philibert Brunn. 1623.Schweinsldbd.40.,1738,95.8,False,positional,,,Bucher; Kunstblatter,,Sec. XVII
 BO0624_88409,224560,735,857,Schweinsldbd.Fol.,1740,88.9,False,positional,,,Bucher; Kunstblatter,,
-BO0624_88409,224561,736,858,"Johann Christoph Hirsch. Frankischer HauBhaltungs- und Wirtschaffts-Kalender auf das Jahr 1769. Schwabach, Joh. Gottl.",1741,98.2,False,positional,,,Bucher; Kunstblatter,,
-BO0624_88409,224562,737,859,"Caspar Jacob Huth's Gesammelte Sonn- und Festtags-Predigten. Schwabach, Joh.Gottl. Mizler. 1769. Hldrbd. 40.",1743,98.0,False,positional,,,Bucher; Kunstblatter,,
-BO0624_88409,224563,738,860,"Kurirsten-Bibel. Nirnberg, Joh. Andr. Endters. 1733. Gepr. Ldrbd.mit SchlieBen.Fol.",1744,97.4,False,positional,,,Bucher; Kunstblatter,,
-BO0624_88409,224564,739,861,"- Bibel. Nirnberg, Joh.Andr.Endters, 1701. Gepr. Schweinslederband.Fol.",1746,100.0,False,positional,,,Bucher; Kunstblatter,,
+BO0624_88409,224561,736,858,"Johann Christoph Hirsch. Frankischer HauBhaltungs- und Wirtschaffts-Kalender auf das Jahr 1769. Schwabach, Joh. Gottl.",1741,98.2,False,positional,,,Bucher; Kunstblatter,,Sec. XVIII
+BO0624_88409,224562,737,859,"Caspar Jacob Huth's Gesammelte Sonn- und Festtags-Predigten. Schwabach, Joh.Gottl. Mizler. 1769. Hldrbd. 40.",1743,98.0,False,positional,,,Bucher; Kunstblatter,,Sec. XVIII
+BO0624_88409,224563,738,860,"Kurirsten-Bibel. Nirnberg, Joh. Andr. Endters. 1733. Gepr. Ldrbd.mit SchlieBen.Fol.",1744,97.4,False,positional,,,Bucher; Kunstblatter,,Sec. XVIII
+BO0624_88409,224564,739,861,"- Bibel. Nirnberg, Joh.Andr.Endters, 1701. Gepr. Schweinslederband.Fol.",1746,100.0,False,positional,,,Bucher; Kunstblatter,,Sec. XVIII
 BO0624_88409,224565,740,862,Bibel. Ebenso. Mit SchlieBe Fol.,1747,93.5,False,positional,,,Bucher; Kunstblatter,,
 BO0624_88409,224566,741,28,cm,1748,66.7,False,positional,,,Bucher; Kunstblatter,,
 BO0624_88409,224567,742,33,/26,1750,57.1,False,positional,,,Bucher; Kunstblatter,,
@@ -746,14 +746,14 @@ BO0624_88409,224569,744,864,"Bibel. Nurnberg, Joh. Mich. Dilherr. Gepr. Schweins
 BO0624_88409,224570,745,865,"Dore-Prachtbibel, Goldschnitt. Mit MessingschlieBen.",1753,96.1,False,positional,,,Bucher; Kunstblatter,,
 BO0624_88409,224571,746,866,Bilder des Griechischen Altertums. Von Horner. Illustriert.40,1754,96.7,False,positional,,,FOTOGRAFIE,,
 BO0624_88409,224572,747,867,Der Endchrist von Dr. E.Kelchner. Illustriert.,1755,95.6,False,positional,,,Bucher; Kunstblatter,,
-BO0624_88409,224573,748,868,"Jahrbuch des Deutschen Hochstiftes, 1902—1908. 8 Bde.",1756,96.2,False,positional,,,Bucher; Kunstblatter,,
+BO0624_88409,224573,748,868,"Jahrbuch des Deutschen Hochstiftes, 1902—1908. 8 Bde.",1756,96.2,False,positional,,,Bucher; Kunstblatter,,Sec. XX
 BO0624_88409,224574,749,869,- Briefe der Charlotte v. Orleans von Bodemann. 2 Bde.,1758,100.0,False,positional,,,Bucher; Kunstblatter,,
-BO0624_88409,224575,750,870,Histoire de 10 Ans. 1830-40 von Louis Blanc.,1759,95.5,False,positional,,,Bucher; Kunstblatter,,
-BO0624_88409,224576,751,871,"- Hibners physikalisches Tagebuch 1784, 85, 86.3 Bde.",1761,100.0,False,positional,,,Bucher; Kunstblatter,,
+BO0624_88409,224575,750,870,Histoire de 10 Ans. 1830-40 von Louis Blanc.,1759,95.5,False,positional,,,Bucher; Kunstblatter,,Sec. XIX
+BO0624_88409,224576,751,871,"- Hibners physikalisches Tagebuch 1784, 85, 86.3 Bde.",1761,100.0,False,positional,,,Bucher; Kunstblatter,,Sec. XVIII
 BO0624_88409,224577,752,872,Boccacio. Decamerone. 5 Bde.,1762,92.6,False,positional,,,Bucher; Kunstblatter,,
 BO0624_88409,224578,753,873,Die Welt in Farben. 3 Bde.,1763,92.3,False,positional,,,Bucher; Kunstblatter,,
 BO0624_88409,224579,754,874,Marold-Album.,1764,85.7,False,positional,,,Bucher; Kunstblatter,,
-BO0624_88409,224580,755,875,"Uferlandschaft von Franz Graf, 1840—1915. Kohle 32/48 cm",1765,96.4,False,positional,,,Bucher; Kunstblatter,,
+BO0624_88409,224580,755,875,"Uferlandschaft von Franz Graf, 1840—1915. Kohle 32/48 cm",1765,96.4,False,positional,,,Bucher; Kunstblatter,,Sec. XIX
 BO0624_88409,224581,756,876,"Auf der Unterelbe von Franz Graf. Blei 9,5/14 cm",1766,95.9,False,positional,,,OGGETTI IN PIOMBO,,
 BO0624_88409,224582,757,877,"Luftstudie von Franz Graf. 01 auf Papier 12,5/19 cm",1767,96.2,False,positional,,,Bucher; Kunstblatter,,
 BO0624_88409,224583,758,878,Uuerschwemmung. Federzeichnung 11/18 cm,1768,95.0,False,positional,,,Bucher; Kunstblatter,,

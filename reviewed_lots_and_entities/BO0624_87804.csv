@@ -1,11 +1,11 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87804,343474,1,25,"Juni, vormittags von 101 Uhr, nachmittags von 25 Uhr, Montag, den 24.Juni,vormittags von 10—12 Uhr zur",15,98.5,False,none,,,,,
-BO0624_87804,343475,2,1,Bildnis. 1553.,36,66.7,False,positional,MEISTER VOM TODE MARIE,,,,
+BO0624_87804,343475,2,1,Bildnis. 1553.,36,66.7,False,positional,MEISTER VOM TODE MARIE,,,,Sec. XVI
 BO0624_87804,343476,3,2,Verdammnis und Erlosung des Menschengeschlechtes.,46,98.0,False,positional,LUCAS CRANACH D.E.,,,,
 BO0624_87804,343477,4,5,Bildnis.,55,87.5,False,positional,LUCAS CRANACH D.E.,,MINIARTURE,,
 BO0624_87804,343478,5,16061662,## 3.Bauern in einer Schenke.,65,100.0,False,positional,JOOS VAN CRAESBEECK,,,,
 BO0624_87804,343479,6,I,"n einer dunklen Stube sitzen um einen primitiven Tisch auf Fassern und roh zusammengefigten Stihlen drei Bauern, der eine, offenbar bereits vom Rausch ibermannt, sitzt schlafrig, den schweren Kopf auf den rechten Arm gestitzt, die linke Hand hangt apathisch nach unten. Er ist der Gegenstand spottischer Zurufe seiner beiden Kameraden, die noch fest weiter rauchen und trinken. Das Milieu kennzeichnen Steinkrige, Tonpfeifen etc., die am Boden stehen und liegen. Im Hintergrunde durch eine Tire Durchsicht in einen Nebenraum, in dem der Wirt einen Stoff aus einem GefaB in ein anderes gieBt.",67,99.9,False,positional,JOOS VAN CRAESBEECK,,,,
-BO0624_87804,343480,7,1620,1691.,73,61.5,False,positional,AELBERT CUYP,,,,
+BO0624_87804,343480,7,1620,1691.,73,61.5,False,positional,AELBERT CUYP,,,,Sec. XVII
 BO0624_87804,343481,8,4,Landschaft mit Viehherde.,75,96.0,False,positional,AELBERT CUYP,,,,
 BO0624_87804,343482,9,8,Bildnis.,82,87.5,False,positional,AELBERT CUYP,,MINIARTURE,,
 BO0624_87804,343483,10,I,TALIENISCHER MEISTER,86,97.6,False,title_direct,,ITALIENISCHER MEISTER,,,

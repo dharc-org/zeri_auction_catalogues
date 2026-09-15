@@ -13,7 +13,7 @@ BO0624_88232,600769,11,11,"Wasserfall im Kanton Wallis. Karton 50/35,5",88,96.6,
 BO0624_88232,600770,12,12,- Im Walde.Weibl. Akt.,92,100.0,False,none,,,,,
 BO0624_88232,600771,13,13,Frauenkopf.,96,87.0,False,none,,,,,
 BO0624_88232,600772,14,14,Im Kloster.,100,87.0,False,none,,,,,
-BO0624_88232,600773,15,15,"Fischerboote am Strand und auf der See. Holz 50/60,5 Vorzugliches Werk aus der besten Zeit des Kuinstlers. Bezeichnet mit Jahreszahl 1879.",106,98.9,False,positional,Andreas ACHENBACH,,OGGETTI IN LEGNO,,
+BO0624_88232,600773,15,15,"Fischerboote am Strand und auf der See. Holz 50/60,5 Vorzugliches Werk aus der besten Zeit des Kuinstlers. Bezeichnet mit Jahreszahl 1879.",106,98.9,False,positional,Andreas ACHENBACH,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88232,600774,16,16,Die Trauben von Kanaan. Auf einer Weinbergtreppe,110,96.9,False,positional,Wilhelm ALTHEIM,,,,
 BO0624_88232,600775,17,22,| 2Hinter dem Lammchen.                           | Karton 51/35                |                             |,129,95.7,False,positional,Wilhelm ALTHEIM,,,,
 BO0624_88232,600776,18,23,"| Aus der Bendergasse.                            | Karton 50/35,5              |                             |",130,95.8,False,positional,Wilhelm ALTHEIM,,,,
@@ -23,7 +23,7 @@ BO0624_88232,600779,21,26,"| RosenstrauB.                                    | K
 BO0624_88232,600780,22,27,| Schissel mit Veilchen.                          | Karton 18/28                |                             |,134,95.8,False,positional,Wilhelm ALTHEIM,,,,
 BO0624_88232,600781,23,28,| Vase mit Blumen.                                | Karton 24/16                |                             |,135,94.9,False,positional,Wilhelm ALTHEIM,,VASI,,
 BO0624_88232,600782,24,29,| Desgl.                                          | Karton 23/19                |                             |,136,92.3,False,positional,Wilhelm ALTHEIM,,,,
-BO0624_88232,600783,25,30,| Auf Wachposten 1915.                            | Karton 29/20                |                             |,137,95.5,False,positional,Wilhelm ALTHEIM,,,,
+BO0624_88232,600783,25,30,| Auf Wachposten 1915.                            | Karton 29/20                |                             |,137,95.5,False,positional,Wilhelm ALTHEIM,,,,Sec. XX
 BO0624_88232,600784,26,35,Raucher.   | Art des Adr. BROUWER.                                                              |,150,94.7,False,title_direct,Adr. BROUWER,,,,
 BO0624_88232,600785,27,37,"| Hermann BAHNER, Schotten (Oberh.). Wassermihle im Frihling. Leinw.36/27            |",153,97.7,False,positional,Adr. BROUWER,,,,
 BO0624_88232,600786,28,38,| Vorfrihling. Holz 18/24                                                            |,154,93.6,False,positional,Adr. BROUWER,,OGGETTI IN LEGNO,,
@@ -237,15 +237,15 @@ BO0624_88232,600993,235,309,Herrenpelz.,818,83.3,False,positional,,,Teppiche; Pe
 BO0624_88232,600994,236,310,- Desgl.,820,100.0,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,600995,237,311,Hermelinkragen.,821,87.5,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,600996,238,312,Federpelzwagendecke. 180/180,822,93.1,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88232,600997,239,313,50 Flaschen WeiBwein 1904.S,823,93.1,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
+BO0624_88232,600997,239,313,50 Flaschen WeiBwein 1904.S,823,93.1,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XX
 BO0624_88232,600998,240,314,Desgl. Ebenso.,825,85.7,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,600999,241,315,Desgl. Ebenso.,826,85.7,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601000,242,316,Zehn Flaschen. Ebenso.,827,90.9,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88232,601001,243,317,50 Flaschen WeiBwein 1904. Niersteiner Riesling.,828,95.8,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88232,601002,244,318,- 31 Flaschen WeiBwein 1904. Bodenheimer Ebersberg.,830,100.0,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88232,601003,245,319,55 Flaschen Weibwein 1904. Hochheimer.,831,94.7,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88232,601004,246,320,35 Flaschen WeiBwein 1904. SchloB Bockelheimer.,832,95.7,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88232,601005,247,321,54 Flaschen WeiBwein 1912. Elsheimer Riesling.,833,95.7,False,positional,ELSHEIMER ADAM,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
+BO0624_88232,601001,243,317,50 Flaschen WeiBwein 1904. Niersteiner Riesling.,828,95.8,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XX
+BO0624_88232,601002,244,318,- 31 Flaschen WeiBwein 1904. Bodenheimer Ebersberg.,830,100.0,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XX
+BO0624_88232,601003,245,319,55 Flaschen Weibwein 1904. Hochheimer.,831,94.7,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XX
+BO0624_88232,601004,246,320,35 Flaschen WeiBwein 1904. SchloB Bockelheimer.,832,95.7,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XX
+BO0624_88232,601005,247,321,54 Flaschen WeiBwein 1912. Elsheimer Riesling.,833,95.7,False,positional,ELSHEIMER ADAM,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XX
 BO0624_88232,601006,248,322,"Gruppe Kraniche, versilbert auf Holzsockel.",834,95.3,False,positional,,,OGGETTI VARI,,
 BO0624_88232,601007,249,323,Zwei Vasen. Imari.,835,88.9,False,positional,,,VASI,,
 BO0624_88232,601008,250,324,Porzellanteller mit Inschrift.,836,93.5,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
@@ -363,7 +363,7 @@ BO0624_88232,601119,361,459,Zwei Vasen mit Einsatz. Hohe 21 cm.,1043,94.3,False,
 BO0624_88232,601120,362,460,"Brautbecher,versilbert. Hohe 21 cm.",1045,94.3,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601121,363,461,Porzellanvase mit Sommerlandschaft. Hohe 22 cm.,1046,95.7,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601122,364,462,Plan von Frankfurt a. M.n. M. Merian. Stich 28/36,1051,95.7,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88232,601123,365,463,"Auffahrt des Churfirsten von Mainz u. der churfurstl. Wahl-Botschafter auf dem Romer 1745. Der Erzkammerer bringt das silb. Handbecken und Kanne zur kaiserl. Tafel. Stich 16,5/11,5 Rickzug des Churfirsten von Mainz etc. nach der Konigswahl am 13. Sept. 1745. Stich 28/38",1057,50.9,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
+BO0624_88232,601123,365,463,"Auffahrt des Churfirsten von Mainz u. der churfurstl. Wahl-Botschafter auf dem Romer 1745. Der Erzkammerer bringt das silb. Handbecken und Kanne zur kaiserl. Tafel. Stich 16,5/11,5 Rickzug des Churfirsten von Mainz etc. nach der Konigswahl am 13. Sept. 1745. Stich 28/38",1057,50.9,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88232,601124,366,466,467 Oberrad bei Frankfurt a.M. Stich 16/25,1063,100.0,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601125,367,468,"Sachsenhauser Warte nach Lange, lith. von Borum. 17/16",1067,100.0,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601126,368,469,Dasselbe Blatt.,1071,87.5,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
@@ -393,21 +393,21 @@ BO0624_88232,601149,391,503,Die St. Katharinen-Kirche und die Hauptwache. Ebenso
 BO0624_88232,601150,392,504,Der romische Brunnen. Ebenso.,1146,93.1,False,positional,,Scuola Romana,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601151,393,505,- 506,1148,100.0,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601152,394,I,"senburger Warte. Aquarellierte Zeichnung, bez.: J.Kopping.",1149,99.1,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88232,601153,395,507,Kronung der Kaiserin Marie Amalia in der Domkirche am 8. Marz 1742. Kol.Druck 33/40,1150,97.6,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
+BO0624_88232,601153,395,507,Kronung der Kaiserin Marie Amalia in der Domkirche am 8. Marz 1742. Kol.Druck 33/40,1150,97.6,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88232,601154,396,508,"Abbildung des Romerbergs am Kronungstag,8. Marz",1152,95.8,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601155,397,509,"- 34/41 - Kostbares Tractament so Ihro kaiserl. Majestat an dero Kronungsfest, denen Herrn A Abgeordneten der Lobl. Reichsstadten Aachen und Nurnberg, wie auch Lobl. Hochedlen Magistrats zu Frankfurt Herrn Deputirten in dasiger Raths-Stube gegeben.",1159,98.7,False,positional,,Scuola di Norimberga,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601156,398,510,"Funf Prospekte. Der Romerberg, der RoBmarkt, die Hauptwache, die Alte Brucke und der jetzige Huhnermarkt. 5 Reproduktionen nach Salomon",1160,98.5,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88232,601157,399,511,"A Abbildung des Romerbergs mit dem kaiserl. Zug aus der Kirche nach dem Romer. 28,5/37",1161,98.2,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88232,601158,400,512,"Atlas von J. Bapt.Homann. Nurnberg 1731 mit 93 bunten Tafeln,dabei Stammbaume etc. von Herrscherhausern, nebst 18 losen Landkarten. 60/36",1165,98.5,False,positional,,Scuola di Norimberga,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
+BO0624_88232,601158,400,512,"Atlas von J. Bapt.Homann. Nurnberg 1731 mit 93 bunten Tafeln,dabei Stammbaume etc. von Herrscherhausern, nebst 18 losen Landkarten. 60/36",1165,98.5,False,positional,,Scuola di Norimberga,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XVIII
 BO0624_88232,601159,401,513,"Konvolut, sechs Blatt Portrats etc. der Familie Ebner, Nurnberg. Kupferstiche.",1166,97.3,False,positional,,Scuola di Norimberga,OGGETTI IN RAME,,
-BO0624_88232,601160,402,514,"Kaiser Caroli IV., Nirnberg 1356,",1168,93.8,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
+BO0624_88232,601160,402,514,"Kaiser Caroli IV., Nirnberg 1356,",1168,93.8,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XIV
 BO0624_88232,601161,403,515,"Drei Blatt Kupferstiche aus der schwedischen und danischen Geschichte, nach Dahlberg v. Pautre. 30/38",1169,98.0,False,positional,,,OGGETTI IN RAME,,
 BO0624_88232,601162,404,516,"- Sechs alte Pergament-Urkunden, teils mit Siegeln.",1171,100.0,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601163,405,517,Kostimbild. Gouache und gestickt 26/18,1172,94.9,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601164,406,518,- 519,1174,100.0,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601165,407,520,- Finf Silhouetten. Jagdsport etc.,1176,100.0,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601166,408,521,Acht Silhouetten. Schlachtenbilder und Soldaten.,1179,95.8,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
-BO0624_88232,601167,409,522,Bismarckbrief aus dem Jahr 1892.,1180,93.9,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
+BO0624_88232,601167,409,522,Bismarckbrief aus dem Jahr 1892.,1180,93.9,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,Sec. XIX
 BO0624_88232,601168,410,5243,"31 Blatt Stahlstiche von Berlin,Potsdam und Charlottenburg etc., gest. v. Poppel, Heisinger, Kolb, Oeder, Riegel, Keller, Worms, Rorich &amp; Sohn, Hablitscheck und Ubmach.",1182,98.4,False,positional,,Scuola di Berlino,OGGETTI IN METALLO,,
 BO0624_88232,601169,411,525,36,1183,50.0,False,positional,,,Teppiche; Pelze; Mobel; Antiquitaten; Kunstgegenstande,,
 BO0624_88232,601170,412,526,- 34 Blatt Stahlstiche. Die deutsche Ehrenhalle. Ebenso.,1186,100.0,False,positional,,,OGGETTI IN METALLO,,
@@ -545,125 +545,125 @@ BO0624_88232,601301,543,677,677,1449,100.0,False,positional,,,Terrakotten,,
 BO0624_88232,601302,544,678,"Marcianus. Goldsolidus. Brustbild von vorn, Rv. Stehende Viktoria mit langem Kreuz.",1454,97.5,False,positional,,,Terrakotten,,
 BO0624_88232,601303,545,679,Sitzender Christus.,1456,90.0,False,positional,,,Terrakotten,,
 BO0624_88232,601304,546,680,Johannes II. Goldsolidus.,1457,92.0,False,positional,,,Terrakotten,,
-BO0624_88232,601305,547,6811,"Medaille 1683 auf den Entsatz von Wien. Erdkugel und Mond unter Doppelsonne, Rv. Schrift.",1462,97.1,False,title_direct,,Scuola Viennese,Medaillen,,
-BO0624_88232,601306,548,682,Kaiser Leopold 1. Medaille 1685 auf seine Siege.,1463,95.8,False,title_direct,,,Medaillen,,
-BO0624_88232,601307,549,683,- 684 Derselbe. Medaille 1697 a. d. Frieden zu Ryswick.,1465,100.0,False,title_direct,,,Medaillen,,
-BO0624_88232,601308,550,685,Maria Theresia. Medaille 1767 auf ihre Wiederherstellung von der Pockenkrankheit.,1468,97.5,False,title_direct,,,Medaillen,,
+BO0624_88232,601305,547,6811,"Medaille 1683 auf den Entsatz von Wien. Erdkugel und Mond unter Doppelsonne, Rv. Schrift.",1462,97.1,False,title_direct,,Scuola Viennese,Medaillen,,Sec. XVII
+BO0624_88232,601306,548,682,Kaiser Leopold 1. Medaille 1685 auf seine Siege.,1463,95.8,False,title_direct,,,Medaillen,,Sec. XVII
+BO0624_88232,601307,549,683,- 684 Derselbe. Medaille 1697 a. d. Frieden zu Ryswick.,1465,100.0,False,title_direct,,,Medaillen,,Sec. XVII
+BO0624_88232,601308,550,685,Maria Theresia. Medaille 1767 auf ihre Wiederherstellung von der Pockenkrankheit.,1468,97.5,False,title_direct,,,Medaillen,,Sec. XVIII
 BO0624_88232,601309,551,686,Dieselbe.,1469,80.0,False,positional,,,Terrakotten,,
 BO0624_88232,601310,552,687,Franz Joseph. Bronzemedaille auf die Grundsteinlegung der Eisenbahn in Triest.,1471,97.4,False,positional,,,Terrakotten,,
-BO0624_88232,601311,553,688,Kronprinz Erzherzog Rudolf und Kronprinzessin Stephanie. Medaille 1881 (v. Scharf) auf ihre Ver-,1472,97.8,False,title_direct,,,Medaillen,,
+BO0624_88232,601311,553,688,Kronprinz Erzherzog Rudolf und Kronprinzessin Stephanie. Medaille 1881 (v. Scharf) auf ihre Ver-,1472,97.8,False,title_direct,,,Medaillen,,Sec. XIX
 BO0624_88232,601312,554,689,"Hohlmedaille.Avers: Das Brustbild von Oliver Cromwell, von 2 Kriegern gekront. Revers: Das Brustbild Masaniello's, von 2 Fischern gekront.",1473,98.5,False,positional,,,Terrakotten,,
 BO0624_88232,601313,555,690,Sammlung von 35 Bronzemedaillen Ludwig XIV.,1475,95.5,False,title_direct,,,Medaillen,,
-BO0624_88232,601314,556,691,- Einseitige versilberte Bleimedaille 1789 mit der Darstellung der Ankunft der konigl. Familie in Paris.,1478,100.0,False,positional,,,Terrakotten,,
+BO0624_88232,601314,556,691,- Einseitige versilberte Bleimedaille 1789 mit der Darstellung der Ankunft der konigl. Familie in Paris.,1478,100.0,False,positional,,,Terrakotten,,Sec. XVIII
 BO0624_88232,601315,557,692,Bronzemedaille auf die Enthauptung,1479,94.4,False,positional,,,Terrakotten,,
 BO0624_88232,601316,558,693,Desgl. auf den Tod Ludwig XVII.,1481,93.5,False,positional,,,Terrakotten,,
 BO0624_88232,601317,559,694,4 Napoleon I. von Luneville.,1483,92.9,False,positional,,,Terrakotten,,
 BO0624_88232,601318,560,695,Derselbe.,1484,80.0,False,positional,,,Terrakotten,,
 BO0624_88232,601319,561,696,Derselbe.,1487,80.0,False,positional,,,Terrakotten,,
 BO0624_88232,601320,562,6971,Derselbe.,1490,76.2,False,positional,,,Terrakotten,,
-BO0624_88232,601321,563,698,Derselbe. Medaille 1807 a.d. Schlacht bei Friedland.,1491,96.1,False,title_direct,,,Medaillen,,
+BO0624_88232,601321,563,698,Derselbe. Medaille 1807 a.d. Schlacht bei Friedland.,1491,96.1,False,title_direct,,,Medaillen,,Sec. XIX
 BO0624_88232,601322,564,699,Derselbe.,1493,80.0,False,positional,,,Terrakotten,,
-BO0624_88232,601323,565,700,Derselbe. Bronzemedaille 1812 a.s. Ruckzug aus RuBland.,1495,96.3,False,positional,,,Terrakotten,,
-BO0624_88232,601324,566,701,Derselbe. Bronzemedaille 1812 L'aigle francais sur,1496,96.1,False,positional,,,Terrakotten,,
+BO0624_88232,601323,565,700,Derselbe. Bronzemedaille 1812 a.s. Ruckzug aus RuBland.,1495,96.3,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601324,566,701,Derselbe. Bronzemedaille 1812 L'aigle francais sur,1496,96.1,False,positional,,,Terrakotten,,Sec. XIX
 BO0624_88232,601325,567,702,Derselbe. an Bord des Belerophon.,1499,93.9,False,positional,,,Terrakotten,,
 BO0624_88232,601326,568,703,"- Ludwig Napoleon, Konig v. Holland. Bronzemedaille.",1501,100.0,False,positional,,,Terrakotten,,
 BO0624_88232,601327,569,704,Freiheitsstatue in New-York.,1503,93.1,False,positional,,,Terrakotten,,
-BO0624_88232,601328,570,705,- Spottmedaille 1897 auf die franzos.-russ. Freundschaft.,1505,100.0,False,positional,,,Terrakotten,,
+BO0624_88232,601328,570,705,- Spottmedaille 1897 auf die franzos.-russ. Freundschaft.,1505,100.0,False,positional,,,Terrakotten,,Sec. XIX
 BO0624_88232,601329,571,706,"Viereckige Bronzeplakette (v. Lechevrel) ,LA ME-",1506,95.6,False,positional,,,Terrakotten,,
-BO0624_88232,601330,572,7071,"18 verschiedene Zinn-Volks-,resp. Spottmedaillen der franzos. Revolution 1848.",1508,96.7,False,title_direct,,,OGGETTI IN LATTA,,
-BO0624_88232,601331,573,708,- Schweden. Gustav Adolph. Medaille 1631 a.d. Schlacht bei Breitenfeld.,1510,100.0,False,title_direct,,,Medaillen,,
-BO0624_88232,601332,574,709,Desgi. Karl X11. Ovale Medaille 1718 a. s. Tod.,1511,95.5,False,title_direct,,,Medaillen,,
+BO0624_88232,601330,572,7071,"18 verschiedene Zinn-Volks-,resp. Spottmedaillen der franzos. Revolution 1848.",1508,96.7,False,title_direct,,,OGGETTI IN LATTA,,Sec. XIX
+BO0624_88232,601331,573,708,- Schweden. Gustav Adolph. Medaille 1631 a.d. Schlacht bei Breitenfeld.,1510,100.0,False,title_direct,,,Medaillen,,Sec. XVII
+BO0624_88232,601332,574,709,Desgi. Karl X11. Ovale Medaille 1718 a. s. Tod.,1511,95.5,False,title_direct,,,Medaillen,,Sec. XVIII
 BO0624_88232,601333,575,710,Wirzburg. Ovale Medaille.,1513,92.0,False,title_direct,,,Medaillen,,
-BO0624_88232,601334,576,711,daille 1747 a. s. Tod.,1515,90.5,False,positional,,,Terrakotten,,
-BO0624_88232,601335,577,712,"Brandenburg. Frd. Wilhelm, der groBe Kurfuirst. 1/s Taler 1777 a. d. Einnahme von Stettin.",1516,97.6,False,positional,,,Terrakotten,,
+BO0624_88232,601334,576,711,daille 1747 a. s. Tod.,1515,90.5,False,positional,,,Terrakotten,,Sec. XVIII
+BO0624_88232,601335,577,712,"Brandenburg. Frd. Wilhelm, der groBe Kurfuirst. 1/s Taler 1777 a. d. Einnahme von Stettin.",1516,97.6,False,positional,,,Terrakotten,,Sec. XVIII
 BO0624_88232,601336,578,713,Desgl. Friedrichr III. digung der Stadt Magdeburg.,1518,95.9,False,positional,,,Terrakotten,,
-BO0624_88232,601337,579,714,- Desgl. Friedrich 11l. Taler 1696.,1520,100.0,False,positional,,,Terrakotten,,
+BO0624_88232,601337,579,714,- Desgl. Friedrich 11l. Taler 1696.,1520,100.0,False,positional,,,Terrakotten,,Sec. XVII
 BO0624_88232,601338,580,715,PreuBen.Friedrich d.Grobe. Teschener Frieden.,1521,95.6,False,positional,,,Terrakotten,,
 BO0624_88232,601339,581,716,Desgl. Friedrich Wilh. II. nahme von Mainz.,1524,95.1,False,positional,,,Terrakotten,,
-BO0624_88232,601340,582,717,"- 718 Desgl. Friedrich Wilh. Ill. Medaille 1801. Sakularfeier des Konigreiches, mit den Brustbildern der 5 Konige.",1526,100.0,False,title_direct,,,Medaillen,,
+BO0624_88232,601340,582,717,"- 718 Desgl. Friedrich Wilh. Ill. Medaille 1801. Sakularfeier des Konigreiches, mit den Brustbildern der 5 Konige.",1526,100.0,False,title_direct,,,Medaillen,,Sec. XIX
 BO0624_88232,601341,583,719,Desgl. Friedrich Wilh.III. den Freimaurerorden.,1529,95.7,False,positional,,,Terrakotten,,
-BO0624_88232,601342,584,720,Desgl. Wilhelm I. Medaille 1854 a.d. Besuch der Stadt Coblenz. Friedberg. Gulden 1674. Desgl. Wilhelm I. in Coln.,1530,69.9,False,title_direct,,,Medaillen,,
-BO0624_88232,601343,585,723,Hanau. Katarina Belgica. Taler 1623.,1534,94.3,False,positional,,,Terrakotten,,
+BO0624_88232,601342,584,720,Desgl. Wilhelm I. Medaille 1854 a.d. Besuch der Stadt Coblenz. Friedberg. Gulden 1674. Desgl. Wilhelm I. in Coln.,1530,69.9,False,title_direct,,,Medaillen,,Sec. XIX
+BO0624_88232,601343,585,723,Hanau. Katarina Belgica. Taler 1623.,1534,94.3,False,positional,,,Terrakotten,,Sec. XVII
 BO0624_88232,601344,586,724,"- Nassau. Karl August. Medaille. Brustbild, Rv. Wappen.",1536,100.0,False,title_direct,,,Medaillen,,
-BO0624_88232,601345,587,725,- Desgl. Friedrich August. Waterloomedaille 1815 mit Band.,1538,100.0,False,positional,,,Terrakotten,,
+BO0624_88232,601345,587,725,- Desgl. Friedrich August. Waterloomedaille 1815 mit Band.,1538,100.0,False,positional,,,Terrakotten,,Sec. XIX
 BO0624_88232,601346,588,726,"6Nassau-Oranien. Moritz. von vorn, Rv. Wappen in Hosenbandorden.",1540,96.7,False,positional,,,Terrakotten,,
-BO0624_88232,601347,589,727,"Kaiser Leopold Hl., Friedrich Wilhelm Il.von PreuBen und Friedr. August von Sachsen.Medaille 1791 a.d. Pillnitzer Zusammenkunft.",1541,98.4,False,title_direct,,,Medaillen,,
-BO0624_88232,601348,590,728,Eckernforde. Bronzemedaille 1849 a. d. Seeschlacht.,1542,95.9,False,positional,,,Terrakotten,,
-BO0624_88232,601349,591,729,Hamburg.Salomon Heine. Medaille 1841 a.d. Bau des isr. Krankenhauses.,1543,97.0,False,title_direct,,,Medaillen,,
-BO0624_88232,601350,592,730,Desgl. Burgermeister Versmann und Petersen. Medaille 1888 mit Ansicht des Freihafens.,1544,97.6,False,title_direct,,,Medaillen,,
-BO0624_88232,601351,593,731,- Heidelberg. Medaille 1716 a. d. groBe FaB.,1546,100.0,False,title_direct,,,Medaillen,,
-BO0624_88232,601352,594,732,Frankfurt a.M. Goldgulden 1618.,1547,93.5,False,positional,,,Terrakotten,,
-BO0624_88232,601353,595,733,- Desgl. Kontributionsdukat 1796.,1549,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601354,596,734,Desgl.Taler 1625.,1550,88.9,False,positional,,,Terrakotten,,
-BO0624_88232,601355,597,735,Desgl. Gulden 1693.,1551,89.5,False,positional,,,Terrakotten,,
-BO0624_88232,601356,598,736,- Desgl. Medaille 1742 a.d. Kronung Carl's V1l. und seiner Gemahlin.,1553,100.0,False,title_direct,,,Medaillen,,
-BO0624_88232,601357,599,737,- Desgl. Militarmedaille fur die Freiwilligen 1813 und 14.,1555,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601358,600,738,Desgl. Medaille 1829. HIl. Sakularfeier des Gym-,1556,95.7,False,title_direct,,,Medaillen,,
+BO0624_88232,601347,589,727,"Kaiser Leopold Hl., Friedrich Wilhelm Il.von PreuBen und Friedr. August von Sachsen.Medaille 1791 a.d. Pillnitzer Zusammenkunft.",1541,98.4,False,title_direct,,,Medaillen,,Sec. XVIII
+BO0624_88232,601348,590,728,Eckernforde. Bronzemedaille 1849 a. d. Seeschlacht.,1542,95.9,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601349,591,729,Hamburg.Salomon Heine. Medaille 1841 a.d. Bau des isr. Krankenhauses.,1543,97.0,False,title_direct,,,Medaillen,,Sec. XIX
+BO0624_88232,601350,592,730,Desgl. Burgermeister Versmann und Petersen. Medaille 1888 mit Ansicht des Freihafens.,1544,97.6,False,title_direct,VON PETERSEN HANS,,Medaillen,,Sec. XIX
+BO0624_88232,601351,593,731,- Heidelberg. Medaille 1716 a. d. groBe FaB.,1546,100.0,False,title_direct,,,Medaillen,,Sec. XVIII
+BO0624_88232,601352,594,732,Frankfurt a.M. Goldgulden 1618.,1547,93.5,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601353,595,733,- Desgl. Kontributionsdukat 1796.,1549,100.0,False,positional,,,Terrakotten,,Sec. XVIII
+BO0624_88232,601354,596,734,Desgl.Taler 1625.,1550,88.9,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601355,597,735,Desgl. Gulden 1693.,1551,89.5,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601356,598,736,- Desgl. Medaille 1742 a.d. Kronung Carl's V1l. und seiner Gemahlin.,1553,100.0,False,title_direct,,,Medaillen,,Sec. XVIII
+BO0624_88232,601357,599,737,- Desgl. Militarmedaille fur die Freiwilligen 1813 und 14.,1555,100.0,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601358,600,738,Desgl. Medaille 1829. HIl. Sakularfeier des Gym-,1556,95.7,False,title_direct,,,Medaillen,,Sec. XIX
 BO0624_88232,601359,601,739,- 740 Desgl.,1559,100.0,False,positional,,,Terrakotten,,
 BO0624_88232,601360,602,741,- Desgl. Achteckige Silbermedaille a. gleichem AnlaB.,1563,100.0,False,positional,,,Terrakotten,,
 BO0624_88232,601361,603,742,Desgl.,1564,71.4,False,positional,,,Terrakotten,,
 BO0624_88232,601362,604,743,Desgl.,1566,71.4,False,positional,,,Terrakotten,,
-BO0624_88232,601363,605,744,Desgl. Taler 1858 mit dem Eschenheimer Turm und,1568,95.8,False,positional,,,Terrakotten,,
-BO0624_88232,601364,606,745,Desgl. Furstentagstaler 1863 mit dem Romer.,1570,95.3,False,positional,,,Terrakotten,,
+BO0624_88232,601363,605,744,Desgl. Taler 1858 mit dem Eschenheimer Turm und,1568,95.8,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601364,606,745,Desgl. Furstentagstaler 1863 mit dem Romer.,1570,95.3,False,positional,,,Terrakotten,,Sec. XIX
 BO0624_88232,601365,607,746,Desgl. Pramienmedaille der Senckenbergischen Naturforsch. Gesellschaft mit dem Kopf Sommerings.,1571,97.9,False,positional,,,Terrakotten,,
 BO0624_88232,601366,608,747,"Desgl. Bischof Klein. (v. Scharff). Sein Brustbild, Rv. Der Dom.",1573,96.5,False,positional,,,Terrakotten,,
 BO0624_88232,601367,609,748,"Desgl.J. B.Muller-Herfurth. Medaille1897. Kopf, Rv. Schrift.",1575,96.4,False,title_direct,,,Medaillen,,
-BO0624_88232,601368,610,749,Desgl. Medaille 1901 v. Kowarzik.,1576,93.8,False,title_direct,,,Medaillen,,
-BO0624_88232,601369,611,750,Bayern.Ludwig 1.Doppeltaler 1840.Durerdenkmal in Nurnberg.,1578,96.6,False,positional,,Scuola di Norimberga,Terrakotten,,
+BO0624_88232,601368,610,749,Desgl. Medaille 1901 v. Kowarzik.,1576,93.8,False,title_direct,,,Medaillen,,Sec. XX
+BO0624_88232,601369,611,750,Bayern.Ludwig 1.Doppeltaler 1840.Durerdenkmal in Nurnberg.,1578,96.6,False,positional,,Scuola di Norimberga,Terrakotten,,Sec. XIX
 BO0624_88232,601370,612,751,Desgl. Ludwig I. Doppeltaler. Walhalla zu Regensburg.,1579,96.1,False,positional,,,Terrakotten,,
 BO0624_88232,601371,613,752,#Desgl.Ludwig IDoppeltaler1842.Vermahlung,1580,95.2,False,positional,,,Terrakotten,,
-BO0624_88232,601372,614,753,Hannover. Georg V. Waterlootaler 1865.,1582,94.6,False,positional,,,Terrakotten,,
+BO0624_88232,601372,614,753,Hannover. Georg V. Waterlootaler 1865.,1582,94.6,False,positional,,,Terrakotten,,Sec. XIX
 BO0624_88232,601373,615,754,- 755 Hessen-Darmstadt. Ludwig IIl. als ErbgroBherzog,1584,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601374,616,756,- Desgl.Stadt. Schitzentaler 1872.,1586,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601375,617,757,Nassau. Adolf. Jubilaumstaler 1864.,1589,94.1,False,positional,,,Terrakotten,,
+BO0624_88232,601374,616,756,- Desgl.Stadt. Schitzentaler 1872.,1586,100.0,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601375,617,757,Nassau. Adolf. Jubilaumstaler 1864.,1589,94.1,False,positional,,,Terrakotten,,Sec. XIX
 BO0624_88232,601376,618,1854,- 758 Osterreich. Franz Joseph. Vermahlungsdoppelgulden,1591,100.0,False,positional,,,Terrakotten,,
 BO0624_88232,601377,619,759,Desgl. Franz Joseph.,1592,90.0,False,positional,,,Terrakotten,,
-BO0624_88232,601378,620,760,PreuBen.Friedrich Wilhelm IV. Sterbetaler 1861.,1594,96.8,False,positional,,,Terrakotten,,
-BO0624_88232,601379,621,761,Sachsen-Meiningen. Bernhard. Doppeltaler 1854. Konigreich Sachsen. Johann. Siegestaler 1871. Sachsen-Weimar.Karl Friedr. Doppeltaler 1840.,1597,50.8,False,positional,,,Terrakotten,,
-BO0624_88232,601380,622,764,Schwarzburg-Sondershausen. Gunther Friedrich Carl. Doppeltaler 1854.,1598,97.0,False,positional,,,Terrakotten,,
-BO0624_88232,601381,623,765,Wirttemberg. Karl.Ulmer Dombaudoppeltaler 1871.,1599,96.8,False,positional,,,Terrakotten,,
+BO0624_88232,601378,620,760,PreuBen.Friedrich Wilhelm IV. Sterbetaler 1861.,1594,96.8,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601379,621,761,Sachsen-Meiningen. Bernhard. Doppeltaler 1854. Konigreich Sachsen. Johann. Siegestaler 1871. Sachsen-Weimar.Karl Friedr. Doppeltaler 1840.,1597,50.8,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601380,622,764,Schwarzburg-Sondershausen. Gunther Friedrich Carl. Doppeltaler 1854.,1598,97.0,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601381,623,765,Wirttemberg. Karl.Ulmer Dombaudoppeltaler 1871.,1599,96.8,False,positional,,,Terrakotten,,Sec. XIX
 BO0624_88232,601382,624,767,767,1601,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601383,625,768,"- Lorenz de Coster in Harlem, Buchdrucker,1440. Medaille 1740 a. d. Jubilaum mit s. Brustbild.",1605,100.0,False,title_direct,,,Medaillen,,
+BO0624_88232,601383,625,768,"- Lorenz de Coster in Harlem, Buchdrucker,1440. Medaille 1740 a. d. Jubilaum mit s. Brustbild.",1605,100.0,False,title_direct,,,Medaillen,,Sec. XV
 BO0624_88232,601384,626,769,"Viktorv. Scheffel. Bronzemedaille. Sein Brustbild,",1606,95.8,False,positional,,,Terrakotten,,
-BO0624_88232,601385,627,770,"Lorenz TruchseB v. Pommerfelden,Domdekan in Mainz 1530.Bleimedaille mit s. Brustbild.",1608,98.2,False,positional,,,Terrakotten,,
-BO0624_88232,601386,628,771,Halber St. Georgstaler mit dem Schiff. Runde Bronzeplakette. Kreuzabnahme. 100 mm. 16. Jahrhunderts.,1611,59.9,False,positional,,,Terrakotten,,
+BO0624_88232,601385,627,770,"Lorenz TruchseB v. Pommerfelden,Domdekan in Mainz 1530.Bleimedaille mit s. Brustbild.",1608,98.2,False,positional,,,Terrakotten,,Sec. XVI
+BO0624_88232,601386,628,771,Halber St. Georgstaler mit dem Schiff. Runde Bronzeplakette. Kreuzabnahme. 100 mm. 16. Jahrhunderts.,1611,59.9,False,positional,,,Terrakotten,,Sec. XVI
 BO0624_88232,601387,629,774,"- 775 Bronzeplakette,viereckig,oben geschweift. Kreuzigung (v.Moderno).Figurenreiche Darstellung.111/76 mm.",1614,100.0,False,positional,,,Terrakotten,,
 BO0624_88232,601388,630,776,"Desgl., viereckig. Pieta. Vergoldet. 141/95 mm.",1616,95.3,False,positional,,,Terrakotten,,
 BO0624_88232,601389,631,777,"Desgl. in Form einer KuBtafel. verzierten, bedachten Sauleneinfassung. /105mm.",1617,93.0,False,positional,,,Terrakotten,,
-BO0624_88232,601390,632,778,Halber Golddukat. Katharina v. RuBland 1756.,1620,95.3,False,positional,,,Terrakotten,,
-BO0624_88232,601391,633,779,Golddukat. Friedr.I. vonPreuBen 1711. Virtuti,1621,95.5,False,positional,,,Terrakotten,,
+BO0624_88232,601390,632,778,Halber Golddukat. Katharina v. RuBland 1756.,1620,95.3,False,positional,,,Terrakotten,,Sec. XVIII
+BO0624_88232,601391,633,779,Golddukat. Friedr.I. vonPreuBen 1711. Virtuti,1621,95.5,False,positional,,,Terrakotten,,Sec. XVIII
 BO0624_88232,601392,634,780,Funf Dukatensticke.,1623,90.0,False,positional,,,Terrakotten,,
-BO0624_88232,601393,635,781,"Goldmedaille. Brandenburg. Georg Friedrich und Alexander 1769, Nurnberg. Providentia et Pactis.",1625,97.8,False,positional,,Scuola di Norimberga,Terrakotten,,
-BO0624_88232,601394,636,782,"Neun Sechsersticke. Wirttemberg 1810, Bayern 1825, 1842,Hessen 1843,Frankfurt 1849,0sterreich 1849.",1626,97.9,False,positional,,,Terrakotten,,
-BO0624_88232,601395,637,783,- Halber Gulden. Carl Furst zu Hohenzollern-Sigmaringen 1845.,1628,100.0,False,positional,,,Terrakotten,,
+BO0624_88232,601393,635,781,"Goldmedaille. Brandenburg. Georg Friedrich und Alexander 1769, Nurnberg. Providentia et Pactis.",1625,97.8,False,positional,,Scuola di Norimberga,Terrakotten,,Sec. XVIII
+BO0624_88232,601394,636,782,"Neun Sechsersticke. Wirttemberg 1810, Bayern 1825, 1842,Hessen 1843,Frankfurt 1849,0sterreich 1849.",1626,97.9,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601395,637,783,- Halber Gulden. Carl Furst zu Hohenzollern-Sigmaringen 1845.,1628,100.0,False,positional,,,Terrakotten,,Sec. XIX
 BO0624_88232,601396,638,784,- 785,1630,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601397,639,786,- Gedenktaler. Furstentag zu Frankfurt a. M.1863. Mariengroschen. Wilder Mann. 1707. In recto decus.,1634,67.1,False,positional,,,Terrakotten,,
-BO0624_88232,601398,640,787,Desgl. Wilder Mann. 1699.,1635,91.7,False,positional,,,Terrakotten,,
-BO0624_88232,601399,641,788,Breiter Taler. Ferd. Albert v. Braunschweig 1735.,1636,95.7,False,positional,,,Terrakotten,,
+BO0624_88232,601397,639,786,- Gedenktaler. Furstentag zu Frankfurt a. M.1863. Mariengroschen. Wilder Mann. 1707. In recto decus.,1634,67.1,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601398,640,787,Desgl. Wilder Mann. 1699.,1635,91.7,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601399,641,788,Breiter Taler. Ferd. Albert v. Braunschweig 1735.,1636,95.7,False,positional,,,Terrakotten,,Sec. XVIII
 BO0624_88232,601400,642,789,"Kinderminze. Wohl dem, der Freud an s. Kindern erlebt.",1637,96.2,False,positional,,,Terrakotten,,
-BO0624_88232,601401,643,790,2/ Taler. Friedr. Christ. von Polen und Sachsen 1763.,1638,96.0,False,positional,,,Terrakotten,,
-BO0624_88232,601402,644,791,Taler. August von Sachsen 1574.,1639,93.5,False,positional,,,Terrakotten,,
+BO0624_88232,601401,643,790,2/ Taler. Friedr. Christ. von Polen und Sachsen 1763.,1638,96.0,False,positional,,,Terrakotten,,Sec. XVIII
+BO0624_88232,601402,644,791,Taler. August von Sachsen 1574.,1639,93.5,False,positional,,,Terrakotten,,Sec. XVI
 BO0624_88232,601403,645,792,- 794,1641,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601404,646,793,2/ Taler. Friedrich IIl. von Brandenburg 1693.,1643,95.5,False,positional,,,Terrakotten,,
-BO0624_88232,601405,647,795,Taler. Reichsverweser. Frankfurt 29.6.1848.,1645,95.2,False,positional,,,Terrakotten,,
-BO0624_88232,601406,648,796,Desgl. Friedr. August von Polen 1763.,1646,94.4,False,positional,,,Terrakotten,,
-BO0624_88232,601407,649,797,- 2/ Taler. Friedrich I1l. von Brandenburg 1669.,1648,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601408,650,799,- 798 1/2 Gulden. Maria Theresia 1775.,1650,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601409,651,800,1/2Gulden. Carl VI. 1739. 1/ Taler. Christ. Ludwig von Braunschweig 1659. 1/ Taler. Friedrich Wilhelm 1612.,1653,62.5,False,positional,,,Terrakotten,,
-BO0624_88232,601410,652,803,Zwolf Mariengroschensticke. Wilder Mann. 1686.,1655,95.6,False,positional,,,Terrakotten,,
-BO0624_88232,601411,653,804,- 2/ Taler. Friedr. Wilh. von Brandenburg 1676.,1657,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601412,654,805,Desgl.Derselbe 1688.,1658,90.5,False,positional,,,Terrakotten,,
-BO0624_88232,601413,655,806,- 1/Taler.Derselbe 1672.,1660,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601414,656,807,"- 808 Breiter Doppeltaler von Braunschweig 1666, Aeta 88.",1664,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601415,657,2,/ Taler. Ernst Aug. von Braunschweig 1690.,1666,97.4,False,positional,,,Terrakotten,,
-BO0624_88232,601416,658,809,16 gute Groschen. Georg IV.von Hannover 1820.,1668,95.6,False,positional,,,Terrakotten,,
+BO0624_88232,601404,646,793,2/ Taler. Friedrich IIl. von Brandenburg 1693.,1643,95.5,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601405,647,795,Taler. Reichsverweser. Frankfurt 29.6.1848.,1645,95.2,False,positional,,,Terrakotten,,Sec. XIX
+BO0624_88232,601406,648,796,Desgl. Friedr. August von Polen 1763.,1646,94.4,False,positional,,,Terrakotten,,Sec. XVIII
+BO0624_88232,601407,649,797,- 2/ Taler. Friedrich I1l. von Brandenburg 1669.,1648,100.0,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601408,650,799,- 798 1/2 Gulden. Maria Theresia 1775.,1650,100.0,False,positional,,,Terrakotten,,Sec. XVIII
+BO0624_88232,601409,651,800,1/2Gulden. Carl VI. 1739. 1/ Taler. Christ. Ludwig von Braunschweig 1659. 1/ Taler. Friedrich Wilhelm 1612.,1653,62.5,False,positional,,,Terrakotten,,Sec. XVIII
+BO0624_88232,601410,652,803,Zwolf Mariengroschensticke. Wilder Mann. 1686.,1655,95.6,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601411,653,804,- 2/ Taler. Friedr. Wilh. von Brandenburg 1676.,1657,100.0,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601412,654,805,Desgl.Derselbe 1688.,1658,90.5,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601413,655,806,- 1/Taler.Derselbe 1672.,1660,100.0,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601414,656,807,"- 808 Breiter Doppeltaler von Braunschweig 1666, Aeta 88.",1664,100.0,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601415,657,2,/ Taler. Ernst Aug. von Braunschweig 1690.,1666,97.4,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601416,658,809,16 gute Groschen. Georg IV.von Hannover 1820.,1668,95.6,False,positional,,,Terrakotten,,Sec. XIX
 BO0624_88232,601417,659,810,- 811,1670,100.0,False,positional,,,Terrakotten,,
-BO0624_88232,601418,660,1,/Taler. Friedr.Aug. Soph.Princ. Anh.1798.,1671,97.3,False,positional,,,Terrakotten,,
-BO0624_88232,601419,661,812,"Sechs Viergroschensticke. 1670,1690,1703,1707, ,1734.",1673,90.7,False,positional,,,Terrakotten,,
-BO0624_88232,601420,662,813,"Drei Sechsgroschenstucke. 1723,1727,1757.",1675,95.1,False,positional,,,Terrakotten,,
-BO0624_88232,601421,663,814,"Funf Achtgroschensticke und % Gulden. 1695,1748, ,1767,1791.",1676,86.3,False,positional,,,Terrakotten,,
+BO0624_88232,601418,660,1,/Taler. Friedr.Aug. Soph.Princ. Anh.1798.,1671,97.3,False,positional,,,Terrakotten,,Sec. XVIII
+BO0624_88232,601419,661,812,"Sechs Viergroschensticke. 1670,1690,1703,1707, ,1734.",1673,90.7,False,positional,,,Terrakotten,,Sec. XVII
+BO0624_88232,601420,662,813,"Drei Sechsgroschenstucke. 1723,1727,1757.",1675,95.1,False,positional,,,Terrakotten,,Sec. XVIII
+BO0624_88232,601421,663,814,"Funf Achtgroschensticke und % Gulden. 1695,1748, ,1767,1791.",1676,86.3,False,positional,,,Terrakotten,,Sec. XVII
 BO0624_88232,601422,664,815,Turnose. Philipus.,1678,88.9,False,positional,,,Terrakotten,,
-BO0624_88232,601423,665,816,Zwolf div. Scheideminzen. 1675-1823.,1679,94.3,False,positional,,,Terrakotten,,
+BO0624_88232,601423,665,816,Zwolf div. Scheideminzen. 1675-1823.,1679,94.3,False,positional,,,Terrakotten,,Sec. XVIII
 BO0624_88232,601424,666,817,Kupfer-Gedenkminze.,1680,90.0,False,positional,,,OGGETTI IN RAME,,
 BO0624_88232,601425,667,818,- Blei-Ehegedenkminze und 1 Schekel.,1683,100.0,False,positional,,,OGGETTI IN PIOMBO,,
 BO0624_88232,601426,668,819,25 Kupfer- und Messingminzen.,1684,93.1,False,positional,,,OGGETTI IN RAME,,

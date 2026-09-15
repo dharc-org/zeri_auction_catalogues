@@ -1,55 +1,55 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84114,685362,1,1828,1886,9,61.5,False,positional,BAUDRY,,,,
+BO0624_84114,685362,1,1828,1886,9,61.5,False,positional,BAUDRY,,,,Sec. XIX
 BO0624_84114,685363,2,I,"l est debout, de face, la main gauche a la hanche,la main droite offerte a qui voudra y mettre quelque aumone. Le poids du corps porte sur la jambe droite, la jambe gauche en avant. ll est vetu d'un gilet rouge, d'une culotte et de guetres en loques.",57,99.8,False,positional,BONNAT,,,,
 BO0624_84114,685364,3,6,## BONNAT,70,100.0,False,title_direct,BONNAT,,,,
 BO0624_84114,685365,4,8,"## BONNAT l est represente jusqu'a la poitrine, la tete tournee de trois quarts a droite en bonnet noir, la figure se detache sur un fond sombre.",139,97.1,False,title_direct,BONNAT,,,,
 BO0624_84114,685366,5,9,## BONNAT,151,100.0,False,title_direct,BONNAT,,,,
 BO0624_84114,685367,6,10,## BONNAT,166,100.0,False,title_direct,BONNAT,,,,
-BO0624_84114,685368,7,1825,1905.,191,61.5,False,positional,BOUGUEREAU,,,,
-BO0624_84114,685369,8,13,## BOULANGER 1888.,204,78.3,False,title_direct,BOULANGER,,,,
+BO0624_84114,685368,7,1825,1905.,191,61.5,False,positional,BOUGUEREAU,,,,Sec. XX
+BO0624_84114,685369,8,13,## BOULANGER 1888.,204,78.3,False,title_direct,BOULANGER,,,,Sec. XIX
 BO0624_84114,685370,9,14,## BRION,228,100.0,False,title_direct,BRION,,,,
-BO0624_84114,685371,10,1824,1877.,232,61.5,False,positional,BRION,,,,
-BO0624_84114,685372,11,1852,1900.,245,61.5,False,positional,BROZIK,Scuola di Monaco,,,
-BO0624_84114,685373,12,I,"nterpretation d'une etude d'apres nature, peinte en 1851,pres du MasBilier(Limousin).",274,99.4,False,positional,COROT,,,,
+BO0624_84114,685371,10,1824,1877.,232,61.5,False,positional,BRION,,,,Sec. XIX
+BO0624_84114,685372,11,1852,1900.,245,61.5,False,positional,BROZIK,Scuola di Monaco,,,Sec. XX
+BO0624_84114,685373,12,I,"nterpretation d'une etude d'apres nature, peinte en 1851,pres du MasBilier(Limousin).",274,99.4,False,positional,COROT,,,,Sec. XIX
 BO0624_84114,685374,13,I,"l est, au milieu des voyants de son temps, comme un druide en qui s'est perpetue la connaissance du'symbolisme tellurique. Il semble qu'il a vecu de tout temps en compagnie des arbres, au fond des bois. ll a vu se lever dans les brumes les soleils de l'Hellade. Il se souvient des nymphes roses au bord des sources. Il ne fait pas de difference entre la nudite antique et la nudite moderne. Une conviction que les energies et les graces de la terre sont toujours incarnees dans des etres chimeriques a la fois et reels, est demeuree en lui. L'ame des mythologies fotte dans ses paysages. Ceci soit dit pour expliquer le cote hieratique et traditionnel de l'art de Corot.",291,99.9,False,positional,COROT,,OGGETTI IN LEGNO,,
 BO0624_84114,685375,14,18,## COURBET,333,100.0,False,title_direct,COURBET,,,,
-BO0624_84114,685376,15,1819,1877.,337,61.5,False,positional,COURBET,,,,
+BO0624_84114,685376,15,1819,1877.,337,61.5,False,positional,COURBET,,,,Sec. XIX
 BO0624_84114,685377,16,I,"l Courbet) a toujours eu ce sentiment profond et poetique de la nature, cette execution expressive,cette palette opulente, cette touche franche qui semble enlever sur les objets le ton et la forme pour les transposer sur la toile.Il faut le voir peindre:il ne barbouille pas confusement,comme les brosseurs de profession;il ne rumine pas des lignes en fermant les yeux:il regarde la nature et,tranquillement,il prend avec sa brosse,quelquefois avec le couteau a palette,une pate solide, concordante au ton qu'il a percu de la nature,avec ses yeux bruns grands ouverts,et il pose sa couleur juste, selon le modele de la forme. Procede des vrais peintres, qui n'isolent pas les etres par des contours, a la maniere des pretendus dessinateurs academiques, mais qui decident les galbes et modelent les reliefs interieurs par les relations precises de la tonalite.",347,99.9,False,positional,COURBET,,OGGETTI VARI,,
-BO0624_84114,685378,17,1817,1878.,365,61.5,False,positional,DAUBIGNY,,,,
+BO0624_84114,685378,17,1817,1878.,365,61.5,False,positional,DAUBIGNY,,,,Sec. XIX
 BO0624_84114,685379,18,20,## DAUZATS,376,100.0,False,title_direct,DAUZATS,,,,
-BO0624_84114,685380,19,1804,1868.,380,61.5,False,positional,DAUZATS,,,,
-BO0624_84114,685381,20,1803,1860.,395,61.5,False,positional,DECAMPS,Scuola di Dusseldorf,,,
-BO0624_84114,685382,21,1799,1863.,421,61.5,False,positional,DELACROIX,,,,
+BO0624_84114,685380,19,1804,1868.,380,61.5,False,positional,DAUZATS,,,,Sec. XIX
+BO0624_84114,685381,20,1803,1860.,395,61.5,False,positional,DECAMPS,Scuola di Dusseldorf,,,Sec. XIX
+BO0624_84114,685382,21,1799,1863.,421,61.5,False,positional,DELACROIX,,,,Sec. XIX
 BO0624_84114,685383,22,1,"Cette exposition,uniquement composee de la collection de Mm la Marquise Landolto Car-",454,98.8,False,positional,DELACROIX,,,COLLEZIONE DELLA MARCHESA LANDOLFO CARCANO,
 BO0624_84114,685384,23,26,## DELACROIX,480,100.0,False,title_direct,DELACROIX,Scuola di De La Corix,,,
 BO0624_84114,685385,24,I,"l est represente debout, son vetement bleu apparaissant dans lecartement du burnous, dont il retient les pans de la main gauche. Sa tete, au teint anime et vue presque de face, est enveloppee d'un capuchon. Derriere lui, on apercoit la mer, puis des falaises et des montagnes au fond, sous un ciel bleu ou passent des nuages blonds. On apercoit egalement,a droite,deux Arabes assis en contemplation devant la mer et un cavalier qui s'eloigne.",518,99.9,False,positional,DELACROIX,,,,
 BO0624_84114,685386,25,28,## DIAZ,542,100.0,False,title_direct,DIAZ,,,,
-BO0624_84114,685387,26,1807,1876.,546,61.5,False,positional,DIAZ,,,,
+BO0624_84114,685387,26,1807,1876.,546,61.5,False,positional,DIAZ,,,,Sec. XIX
 BO0624_84114,685388,27,I,"l a mis en somme, dans ses petits panneaux,un dessin congruent a son systeme de coloriste, qui neglige le detail et ne vise qu'a l'ampleur des masses. Il peignait comme il concevait, avec une hardiesse de cherubin.—（Ph. BuRTy.Maitres etPetits Maitres.)",560,99.8,False,positional,DIAZ,,PANNELLI,,
 BO0624_84114,685389,28,29,## DIAZ,563,100.0,False,title_direct,DIAZ,,,,
 BO0624_84114,685390,29,30,## DOMINGO,589,100.0,False,title_direct,DOMINGO,,,,
-BO0624_84114,685391,30,1833,1883.,608,61.5,False,positional,DORE,,,,
+BO0624_84114,685391,30,1833,1883.,608,61.5,False,positional,DORE,,,,Sec. XIX
 BO0624_84114,685392,31,32,## DORE,622,100.0,False,title_direct,DORE,,,,
 BO0624_84114,685393,32,33,## DORE (GUSTAVE),639,100.0,False,title_direct,DORE,,,,
 BO0624_84114,685394,33,35,## DORE,648,100.0,False,title_direct,DORE,,,,
 BO0624_84114,685395,34,36,## DUPRE,673,100.0,False,title_direct,DUPRE,,,,
-BO0624_84114,685396,35,1811,1889.,677,61.5,False,positional,DUPRE,,,,
-BO0624_84114,685397,36,181,g-1889.,731,80.0,False,positional,FRERE,,,,
-BO0624_84114,685398,37,1820,1876.,744,61.5,False,positional,FROMENTIN,,,,
-BO0624_84114,685399,38,1810,1887.,806,61.5,False,positional,GALLAIT,,,,
-BO0624_84114,685400,39,48,## HAMON 1874.,823,66.7,False,title_direct,HAMON,,,,
+BO0624_84114,685396,35,1811,1889.,677,61.5,False,positional,DUPRE,,,,Sec. XIX
+BO0624_84114,685397,36,181,g-1889.,731,80.0,False,positional,FRERE,,,,Sec. XIX
+BO0624_84114,685398,37,1820,1876.,744,61.5,False,positional,FROMENTIN,,,,Sec. XIX
+BO0624_84114,685399,38,1810,1887.,806,61.5,False,positional,GALLAIT,,,,Sec. XIX
+BO0624_84114,685400,39,48,## HAMON 1874.,823,66.7,False,title_direct,HAMON,,,,Sec. XIX
 BO0624_84114,685401,40,49,## HAMON,839,100.0,False,title_direct,HAMON,,,,
 BO0624_84114,685402,41,50,## HEBERT,854,100.0,False,title_direct,HEBERT,,,,
 BO0624_84114,685403,42,1817,1g10.,858,61.5,False,positional,HEBERT,,,,
 BO0624_84114,685404,43,53,## JUNDT,889,100.0,False,title_direct,JUNDT,,,,
-BO0624_84114,685405,44,1830,1884.,893,61.5,False,positional,JUNDT,,,,
-BO0624_84114,685406,45,1805,1874.,915,61.5,False,positional,KAULBACH,,,,
-BO0624_84114,685407,46,1834,1912.,926,61.5,False,positional,LEFEBVRE,,,,
+BO0624_84114,685405,44,1830,1884.,893,61.5,False,positional,JUNDT,,,,Sec. XIX
+BO0624_84114,685406,45,1805,1874.,915,61.5,False,positional,KAULBACH,,,,Sec. XIX
+BO0624_84114,685407,46,1834,1912.,926,61.5,False,positional,LEFEBVRE,,,,Sec. XX
 BO0624_84114,685408,47,1844,1g00.,945,61.5,False,positional,LEIBL,,,,
 BO0624_84114,685409,48,57,## MADOU JEAN-BAPTISTE),965,100.0,False,title_direct,MADOU,,,,
-BO0624_84114,685410,49,1796,1877.,967,61.5,False,positional,MADOU,,,,
+BO0624_84114,685410,49,1796,1877.,967,61.5,False,positional,MADOU,,,,Sec. XIX
 BO0624_84114,685411,50,I,"ls etaient cinq en train de humer le piot et de fumer des pipes dans la premiere salle de l'auberge,bons vivants aux mines rejouies,vetus d'habits rouges,marron,gris ou bleus.Et voici quune mendiante entre avec son fils. Le fils racle du violon, la femme chante, et il faut croire que la melodie manque de justesse et de saveur, car l'un des joyeux comperes qui doit etre musicien, ainsi que l'indique sa boite a violon placee pres de lui sur le coin de la table, se bouche l'oreille de la main droite et crispe sa main gauche sur son genou. ll n'est pas jusqu'au chien qui ne sache, devant cette pluie de notes desagreables, s'il doit aboyer ou se taire. A gauche, au premier plan, le peintre a peint un balai appuye contre un baquet, une cruche de gres et un linge blanc. Les figures se detachent sur le fond gris des murs de la piece. Sur le mur, au milieu, est accrochee une cage doiseau.Le fond,a droite, demeure dans l'ombre.",971,99.9,False,positional,MADOU,,SCATOLE,,
-BO0624_84114,685412,51,1826,1888.,980,61.5,False,positional,MAZEROLLE,,,,
+BO0624_84114,685412,51,1826,1888.,980,61.5,False,positional,MAZEROLLE,,,,Sec. XIX
 BO0624_84114,685413,52,59,## MEISSONIER,995,100.0,False,title_direct,MEISSONIER,,,,
 BO0624_84114,685414,53,1815,18g1.,999,61.5,False,positional,MEISSONIER,,,,
 BO0624_84114,685415,54,I,"l est assis dans un cabinet de travail, de face,les jambes ployees et écartees, tenant de la main gauche,le bras appuye sur l'accoudoir du fauteuil,un livre qu'il lit attentivement,et la main droite,le coude en dehors, posee sur la cuisse. Il est vetu d'un habit rose, d'une culotte creme et d'un gilet blanc;il est chausse de souliers a boucles.Derriere lui,on apercoit une commode de style Regence, sur le marbre de laquelle sont poses des vieux livres, un pot a tabac, un album, etc. Contre le mur une tenture de tapisserie.",1003,99.9,False,positional,MEISSONIER,,DECORAZIONI DA PARETE,,
@@ -57,19 +57,19 @@ BO0624_84114,685416,55,I,"l l'est encore par la facon particuliere dont il enten
 BO0624_84114,685417,56,60,## MEISSONIER,1023,100.0,False,title_direct,MEISSONIER,,,,
 BO0624_84114,685418,57,62,## NAZON 1g02.,1053,66.7,False,title_direct,NAZON,,,,
 BO0624_84114,685419,58,63,## NITTIS,1070,100.0,False,title_direct,NITTIS,,,,
-BO0624_84114,685420,59,1846,1884.,1074,61.5,False,positional,NITTIS,,,,
+BO0624_84114,685420,59,1846,1884.,1074,61.5,False,positional,NITTIS,,,,Sec. XIX
 BO0624_84114,685421,60,I,"ls jouerent devant la grille doree d'un chateau,regardant au loin les belles dames et les domestiques tres propres.",1087,99.6,False,positional,NITTIS,,,,
-BO0624_84114,685422,61,65,## PALIZZI 1888.,1103,73.7,False,title_direct,PALIZZI,,,,
+BO0624_84114,685422,61,65,## PALIZZI 1888.,1103,73.7,False,title_direct,PALIZZI,,,,Sec. XIX
 BO0624_84114,685423,62,66,## PALIZZI,1119,100.0,False,title_direct,PALIZZI,Scuola di Palizzi,,,
 BO0624_84114,685424,63,I,"ly a la une sorte d'affectation derenverser les problemes de la peinture,en faisant de la personne humaine une superbe chose,une plante aimable et splendide,un bijou comme un autre dans l'ecrin universel. Un expert dans l'art de juger en peinture,mon confrere Paul Mantz,a ecrit au sujet de cette Salome,assise sur un coffre aux incrustations d'ivoire:《Bien qu'elle tienne sur ses genoux des instruments de mort, bien que sa main distraite joue avec la poignee d'un cimeterre, elle est sans pensee, comme un animal plein d'une grace farouche qui ne sait pas qu'il est redoutable et charmant .",1157,99.9,False,positional,REGNAULT,,BAULI,,
 BO0624_84114,685425,64,68,## RENARD,1171,100.0,False,title_direct,RENARD,,,,
 BO0624_84114,685426,65,70,## ROUSSEAU,1201,100.0,False,title_direct,ROUSSEAU,,,,
-BO0624_84114,685427,66,1812,1867.,1205,61.5,False,positional,ROUSSEAU,,,,
-BO0624_84114,685428,67,II,"Reproduit,en juillet 1874, dans le Journal illustre, par un report lithographique, d'apres le dessin d'Alexandre de Bar.",1220,100.0,False,positional,ROUSSEAU,,,,
-BO0624_84114,685429,68,1808,1860.,1264,61.5,False,positional,SAINT-JEAN,Scuola di Dusseldorf,,,
+BO0624_84114,685427,66,1812,1867.,1205,61.5,False,positional,ROUSSEAU,,,,Sec. XIX
+BO0624_84114,685428,67,II,"Reproduit,en juillet 1874, dans le Journal illustre, par un report lithographique, d'apres le dessin d'Alexandre de Bar.",1220,100.0,False,positional,ROUSSEAU,,,,Sec. XIX
+BO0624_84114,685429,68,1808,1860.,1264,61.5,False,positional,SAINT-JEAN,Scuola di Dusseldorf,,,Sec. XIX
 BO0624_84114,685430,69,73,## STEVENS,1275,100.0,False,title_direct,STEVENS,,,,
 BO0624_84114,685431,70,1828,1g06.,1279,61.5,False,positional,STEVENS,,,,
-BO0624_84114,685432,71,1814,1873.,1296,61.5,False,positional,TOURNEMINE,,,,
+BO0624_84114,685432,71,1814,1873.,1296,61.5,False,positional,TOURNEMINE,,,,Sec. XIX
 BO0624_84114,685433,72,75,## TROYON,1309,100.0,False,title_direct,TROYON,,,,
 BO0624_84114,685434,73,12,76,1324,100.0,False,positional,TROYON,,,,
 BO0624_84114,685435,74,77,## VOLLON,1337,100.0,False,title_direct,VOLLON,,,,
@@ -79,10 +79,10 @@ BO0624_84114,685438,77,81,## VOLLON,1377,100.0,False,title_direct,VOLLON,,,,
 BO0624_84114,685439,78,86,## VOLLON,1388,100.0,False,title_direct,VOLLON,,,,
 BO0624_84114,685440,79,1823,1gu5,1462,61.5,False,positional,WILLEMS,,,,
 BO0624_84114,685441,80,88,## WILLEMS,1483,100.0,False,title_direct,WILLEMS,,,,
-BO0624_84114,685442,81,1840,1871,1498,61.5,False,positional,ZAMACOIS,,,,
+BO0624_84114,685442,81,1840,1871,1498,61.5,False,positional,ZAMACOIS,,,,Sec. XIX
 BO0624_84114,685443,82,I,"l eut un gros succes avec son tableau d'Education d'un prince, dans lequelil avait peint son propre visage,pale,fin,railleur,plein de caractere pour le personnage d'un bouffon.(Notes et Souvenirs du peintre Joseph de",1509,99.8,False,positional,ZAMACOIS,,,,
 BO0624_84114,685444,83,90,## BASTIEN-LEPAGE,1519,100.0,False,title_direct,BASTIEN-LEPAGE,,,,
-BO0624_84114,685445,84,1823,1895.,1589,66.7,False,positional,BONNAT,,,,
+BO0624_84114,685445,84,1823,1895.,1589,66.7,False,positional,BONNAT,,,,Sec. XIX
 BO0624_84114,685446,85,95,## BONVIN 181,1591,75.0,False,title_direct,BONVIN,,,,
 BO0624_84114,685447,86,96,## BONVIN,1607,100.0,False,title_direct,BONVIN,,,,
 BO0624_84114,685448,87,97,## BOUGUEREAU,1622,100.0,False,title_direct,BOUGUEREAU,,,,
@@ -90,7 +90,7 @@ BO0624_84114,685449,88,98,## BOUGUEREAU,1634,100.0,False,title_direct,BOUGUEREAU
 BO0624_84114,685450,89,99,## BOUGUEREAU,1645,100.0,False,title_direct,BOUGUEREAU,,,,
 BO0624_84114,685451,90,100,## BOULANGER,1661,100.0,False,title_direct,BOULANGER,,,,
 BO0624_84114,685452,91,101,## COROT,1676,100.0,False,title_direct,COROT,,,,
-BO0624_84114,685453,92,1808,1879,1694,61.5,False,positional,DAUMIER,,,,
+BO0624_84114,685453,92,1808,1879,1694,61.5,False,positional,DAUMIER,,,,Sec. XIX
 BO0624_84114,685454,93,I,l est occupe a couper le corps d’un porc par le milieu.,1698,99.1,False,positional,DAUMIER,,,,
 BO0624_84114,685455,94,103,"## DECAMPS l est debout, de profil a droite.",1715,87.3,False,title_direct,DECAMPS,,,,
 BO0624_84114,685456,95,104,## DELACROIX,1725,100.0,False,title_direct,DELACROIX,Scuola di De La Corix,,,
@@ -102,18 +102,18 @@ BO0624_84114,685461,100,110,## DUPRE,1825,100.0,False,title_direct,DUPRE,,,,
 BO0624_84114,685462,101,111,## FORTUNY,1841,100.0,False,title_direct,FORTUNY,,,,
 BO0624_84114,685463,102,112,## GERVEX,1857,100.0,False,title_direct,GERVEX,,,,
 BO0624_84114,685464,103,113,## HEBERT,1870,100.0,False,title_direct,HEBERT,,,,
-BO0624_84114,685465,104,1826,1889.,1884,61.5,False,positional,HEILBUTH,,,,
-BO0624_84114,685466,105,115,## ISABEY 1886.,1897,70.6,False,title_direct,ISABEY,,,,
+BO0624_84114,685465,104,1826,1889.,1884,61.5,False,positional,HEILBUTH,,,,Sec. XIX
+BO0624_84114,685466,105,115,## ISABEY 1886.,1897,70.6,False,title_direct,ISABEY,,,,Sec. XIX
 BO0624_84114,685467,106,116,## LAGUILLERMIE LESSI,1915,80.0,False,title_direct,LAGUILLERMIE,,,,
 BO0624_84114,685468,107,117,## LEMAIRE,1946,100.0,False,title_direct,LEMAIRE,,,,
 BO0624_84114,685469,108,118,## LEMAIRE,1960,100.0,False,title_direct,LEMAIRE,,,,
 BO0624_84114,685470,109,120,## LHERMITTE,1969,100.0,False,title_direct,LHERMITTE,,,,
 BO0624_84114,685471,110,I,"l est assis surune chaise, de trois quarts a droite et il s'abandonne a un sommeil tranquille et reparateur. Il laisse tomber la tete sur sa poitrine. ll est vetu d'un pourpoint gris, d'un manteau rouge. Il a laisse glisser a ses pieds son feutre a plumes rouges. Il est chausse de grandes bottes eperonnees.",2021,99.8,False,positional,MEISSONIER,,,,
 BO0624_84114,685472,111,125,## MONNIER,2032,100.0,False,title_direct,MONNIER,,,,
-BO0624_84114,685473,112,1805,1877.,2036,61.5,False,positional,MONNIER,,,,
+BO0624_84114,685473,112,1805,1877.,2036,61.5,False,positional,MONNIER,,,,Sec. XIX
 BO0624_84114,685474,113,128,RICO,2075,100.0,False,positional,NITTIS,,,,
 BO0624_84114,685475,114,127,## NITTIS,2085,100.0,False,title_direct,NITTIS,,,,
-BO0624_84114,685476,115,130,## TASSAERT 1874.,2107,76.2,False,title_direct,TASSAERT,,,,
+BO0624_84114,685476,115,130,## TASSAERT 1874.,2107,76.2,False,title_direct,TASSAERT,,,,Sec. XIX
 BO0624_84114,685477,116,131,## TROYON,2121,100.0,False,title_direct,TROYON,,,,
 BO0624_84114,685478,117,132,## VILLEGAS,2133,100.0,False,title_direct,VILLEGAS,,,,
 BO0624_84114,685479,118,133,## VOLLON,2146,100.0,False,title_direct,VOLLON,,,,
@@ -169,7 +169,7 @@ BO0624_84114,685528,167,202,"BaGuE en or,a chaton contenant une miniature,portra
 BO0624_84114,685529,168,203,"BaGuE en or,a chaton contenant une miniature, portrait de femme coiffee d'un bonnet.Fin de l'epoque Louis Xv.",2963,98.2,False,positional,,Periodo di Luigi XV,MINIATURE,,
 BO0624_84114,685530,169,204,"-Erui cylindrique en agate rubanee;monture en or, composee de montants relies par des guirlandes de fleurs,avec devise sur fond emaille blanc:# PAmitie trouve moyen . Fin de lepoque Louis XV.",2967,98.9,False,positional,,Periodo di Luigi XV,PORCELAINES,,
 BO0624_84114,685531,170,205,"-Boite rectangulaire, en or de couleur cisele,ornee sur toutes les faces de sujets champetres et de bouquets de fleurs et de fruits, avec encadrement de rocailles. Poincon de la ville de Cassel (?).",2971,99.0,False,positional,,,SCATOLE,,
-BO0624_84114,685532,171,206,"- Boire ovale en or émaille gris violace,avec semis d'étoiles dorees;bordure et montants partiellement emailles sur fond amati et decores de petites feuilles et de perles simulees. Le couvercle presente un medaillon peint sur émail, orne d'une jeune fille et d'un amour. Poincons de Clavel, regisseur des droits de marque (annees 1783-1784).Epoque Louis XVI.",2976,99.4,False,positional,,,PORCELAINES,,
+BO0624_84114,685532,171,206,"- Boire ovale en or émaille gris violace,avec semis d'étoiles dorees;bordure et montants partiellement emailles sur fond amati et decores de petites feuilles et de perles simulees. Le couvercle presente un medaillon peint sur émail, orne d'une jeune fille et d'un amour. Poincons de Clavel, regisseur des droits de marque (annees 1783-1784).Epoque Louis XVI.",2976,99.4,False,positional,,,PORCELAINES,,Sec. XIX
 BO0624_84114,685533,172,207,"-Boire ronde, decoree en vert au vernis, sur le pourtour et le dessous. Le couvercle presente, sur fond dore et sous verre, une miniature:portrait de jeune femme,vetue de bleu,entouree de deux amours, d'instruments de musique et d'attributs de jardinage. Epoque Louis XVI.",2980,99.2,False,positional,,,MINIATURE,,
 BO0624_84114,685534,173,208,"PerIrE Boireronde en écaille blonde,galonnee d'or,presentant sur le couvercle un medaillon a sujet allegorique a la fidelite,avec la legende:Guide fidele.Epoque Louis XVI.",2984,98.8,False,positional,,,PORCELAINES,,
 BO0624_84114,685535,174,20,"g-Erui revetu de peau de serpent,galonne d'or et decore de deux miniatures presentant: l'une un portrait de jeune femme en buste, vetue d'un corsage bleu; l'autre, un portrait d'homme en habit gris, avec giletbleu.Epoque Louis XVI.",2987,99.6,False,positional,,,MINIATURE,,
@@ -208,7 +208,7 @@ BO0624_84114,685567,206,241,"—PaGope en bronze et émail cloisonne,a decor de 
 BO0624_84114,685568,207,242,"— Deux corNErs en ancien email cloisonne de la Chine, decores de motifs irreguliers et de fleurs sur fond bleu clair; base et aretes",3121,98.5,False,positional,,,PORCELAINES,,
 BO0624_84114,685569,208,243,"- DEUx GRANDs BRULE-PARFUMs ronds, avec couvercles et sur trois pieds, en ancien email cloisonne de la Chine, a decor de rinceaux et fleurs sur fond bleu. Les couvercles presentent les Pa-Koua en",3126,99.0,False,positional,,,PORCELAINES,,
 BO0624_84114,685570,209,244,"— BruLE-PARFuMs avec couvercle en cuivre, decore de rinceaux emailles a gouttelettes; anses et pied a dragons; ancien travail chinois.",3131,98.5,False,positional,,,PORCELAINES,,
-BO0624_84114,685571,210,245,"-UN voLuME:Livre dheures, imprime,avec encadrements, capitales,etc., colories,et calendrier. Date 1511 et signe:Thielmann Kerver.Relie.",3137,98.5,False,positional,,,PORCELAINES,,
+BO0624_84114,685571,210,245,"-UN voLuME:Livre dheures, imprime,avec encadrements, capitales,etc., colories,et calendrier. Date 1511 et signe:Thielmann Kerver.Relie.",3137,98.5,False,positional,,,PORCELAINES,,Sec. XVI
 BO0624_84114,685572,211,246,"—UN voLuME :Livre d’heures, manuscrit, orne de douze minia-",3138,96.4,False,positional,,,OGGETTI VARI,,
 BO0624_84114,685573,212,247,"— UN voLuMe : Livre d'heures, manuscrit, orne de miniatures, d'encadrements,d'initiales enluminees. xve siecle.Reliure moderne avececrin.",3140,98.5,False,positional,,,MINIATURE,,
 BO0624_84114,685574,213,248,"—Un voLuME:Livre dheures, manuscrit,avec nombreuses miniatures, bordures, initiales ornees, etc. Relie.xvr siecle.",3141,98.2,False,positional,,,MINIATURE,,

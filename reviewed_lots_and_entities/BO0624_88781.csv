@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88781,397593,1,3,Hlbldrbde.Zurich 1807.,36,95.5,False,positional,,,ANTIKEBUCHER,,
-BO0624_88781,397594,2,I,llustrationen.Paris 1871.,54,98.0,False,positional,,,ANTIKEBUCHER,,
+BO0624_88781,397593,1,3,Hlbldrbde.Zurich 1807.,36,95.5,False,positional,,,ANTIKEBUCHER,,Sec. XIX
+BO0624_88781,397594,2,I,llustrationen.Paris 1871.,54,98.0,False,positional,,,ANTIKEBUCHER,,Sec. XIX
 BO0624_88781,397595,3,38,NAGLER. Kuinstler=Lexikon. 25 Leinenbde.,59,96.1,False,positional,,,ANTIKEBUCHER,,
 BO0624_88781,397596,4,39,"KLEIST,HEINRICH VON. Das Kathchen von Heilbronn. Hlbfrzbd. Erst",60,97.6,False,positional,,,ANTIKEBUCHER,,
 BO0624_88781,397597,5,40,"VOLTAIRE,DE. Oeuvres completes. Aux deux Ponts chez Samson &amp; Com# ## MOBEL-PLASTIK -BELEUCHTUNGEN",62,80.5,False,title_direct,,,BELEUCHTUNGEN,,
@@ -13,27 +13,27 @@ BO0624_88781,397603,11,47,"48 EIN PAAR FAUTEUILS im Louis=XV.Stil, vergoldet,mit
 BO0624_88781,397604,12,49,"GROSSER EMPIREBUCHERSCHRANK,Oberteil vierturig,verglast,Unter",80,97.6,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397605,13,50,"LOUISXV.LEHNSESSEL, gruin gefaBtes Gestell, mit braunem Samtbezug.",82,97.7,False,positional,,Periodo di Luigi XV,POLTRONE,,
 BO0624_88781,397606,14,51,HOLZFIGUR: Maria mit Kind. NuBholz. Siena 13.Jhdt. 62 cm hoch.,83,97.4,False,positional,,Scuola Senese,MOBEL; PLASTIK; BELEUCHTUNGEN,,
-BO0624_88781,397607,15,52,BAROCKHOLZFIGUR: Stehender Heiliger mit Griffel und Pergamentrolle. Eiche. Suddeutsch um 1700. 86 cm hoch.,84,98.5,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
+BO0624_88781,397607,15,52,BAROCKHOLZFIGUR: Stehender Heiliger mit Griffel und Pergamentrolle. Eiche. Suddeutsch um 1700. 86 cm hoch.,84,98.5,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88781,397608,16,53,"BRONZEKRONLEUCHTER,dreiarmig,echsflammig.",85,96.4,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397609,17,54,"55 EIN PAAR BAROCKENGEL,holzgeschnitzt und polychrom gefaBt, auf",86,97.7,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397610,18,56,BAROCKHOLZFIGUR: Maria mit Kind. Die Gewandung blau und rot gefaBt.,88,97.7,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397611,19,57,EINE DESGL.:Christus auf dem Olberg.Das faltenreiche Gewand grin und gold gefaBt mit Goldmusterung. Suddeutsch 17. Jhdt. 93 cm hoch.,90,98.8,False,positional,,,OGGETTI IN ORO,,
 BO0624_88781,397612,20,58,"HOLZFIGUR: Stehender Monch,in der Linken die Bibel haltend. Das Gewand",91,97.8,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397613,21,59,"60 ZWEI BAROCKHOLZENGEL, der eine schwebend, der andere auf",93,97.4,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
-BO0624_88781,397614,22,61,"62 ZWEI DESGL., schwebend. Suddeutsch um 1700. 60 cm hoch.",95,97.2,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
-BO0624_88781,397615,23,63,"64 EIN PAAR BAROCK#HOLZENGEL,schwebend,die Flugel vergoldet. Suddeutsch um 1700. 60 cm hoch.",96,98.3,False,positional,,,COPPE,,
-BO0624_88781,397616,24,65,"66 ZWEI DESGL., Gewandung und Flugel vergoldet. Suddeutsch um 1700. 50 cm hoch.",97,98.0,False,positional,,,COPPE,,
+BO0624_88781,397614,22,61,"62 ZWEI DESGL., schwebend. Suddeutsch um 1700. 60 cm hoch.",95,97.2,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,Sec. XVIII
+BO0624_88781,397615,23,63,"64 EIN PAAR BAROCK#HOLZENGEL,schwebend,die Flugel vergoldet. Suddeutsch um 1700. 60 cm hoch.",96,98.3,False,positional,,,COPPE,,Sec. XVIII
+BO0624_88781,397616,24,65,"66 ZWEI DESGL., Gewandung und Flugel vergoldet. Suddeutsch um 1700. 50 cm hoch.",97,98.0,False,positional,,,COPPE,,Sec. XVIII
 BO0624_88781,397617,25,67,"BAROCK#ENGELSKOPF, aus einer Kartusche hervorsehend. Suddeutsch Jhdt. 40 cm hoch.",98,86.5,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397618,26,68,"KONVOLUT:Vier diverse Rokoko#Wandkonsolen,braun und polychrom",100,97.6,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
-BO0624_88781,397619,27,69,"70 EIN PAAR BAROCKWANGEN,weiB=gold gefaBt. Suddeutsch um 1700.",102,97.6,False,positional,,,OGGETTI IN ORO,,
+BO0624_88781,397619,27,69,"70 EIN PAAR BAROCKWANGEN,weiB=gold gefaBt. Suddeutsch um 1700.",102,97.6,False,positional,,,OGGETTI IN ORO,,Sec. XVIII
 BO0624_88781,397620,28,71,"BAROCK-STANDUHR,Eiche,mit reichem Kerbschnitt. Norddeutsch 18.Jhdt.",103,97.7,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
-BO0624_88781,397621,29,72,"QUEEN ANNE SIDEBOARD, Eiche, dreizugig,mit vieretagigem Aufsatz. Die Fullungen der Laden sternartig verkropft. England um 1680. GroBe 200x169x51 cm. (Die Ruckwand erganzt.) Mit dazugehorigem Davenport= Steingutservice mit blauem Landschaftdekor, bestehend aus neun grofen und sechs kleinen Tellern, einer Schussel und zwei Deckelnapfen. (Teilweise be#",104,99.6,False,positional,,,SCATOLE,,
+BO0624_88781,397621,29,72,"QUEEN ANNE SIDEBOARD, Eiche, dreizugig,mit vieretagigem Aufsatz. Die Fullungen der Laden sternartig verkropft. England um 1680. GroBe 200x169x51 cm. (Die Ruckwand erganzt.) Mit dazugehorigem Davenport= Steingutservice mit blauem Landschaftdekor, bestehend aus neun grofen und sechs kleinen Tellern, einer Schussel und zwei Deckelnapfen. (Teilweise be#",104,99.6,False,positional,,,SCATOLE,,Sec. XVII
 BO0624_88781,397622,30,73,TAPISSERIE (Fragment): Petri Fischzug. Aubusson 18.Jhdt. 280x75 cm.,106,97.6,False,positional,,,AUBUSSONS,,
 BO0624_88781,397623,31,101,"SCHREIBTISCH MIT AUFSATZ IM SHERATONSTIL, Mahagoni. Unter teil siebenschubig, Oberteil mit herunterklappbarer Schreibplatte und Jalousie#",120,98.5,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397624,32,102,"103 EIN PAAR ITAL.RENAISSANCELEHNSESSEL,ital. NuBbaum,mit",122,96.6,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397625,33,104,"BAROCKVITRINENSCHRANK, Mahagoni. Unterteil dreischubig,Oberteil",124,96.8,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397626,34,105,"106 EIN PAAR LEHNSESSEL im Louis=XVI.=Stil, NuBholz,mit rotem",126,96.7,False,positional,,,POLTRONE,,
-BO0624_88781,397627,35,107,"STOLLENSCHRANK, zweiturig, Weichholz, schwarz gebeizt. Mit reicher Inneneinrichtung in Form von Laden und Turen. Auf den Fullungen Land# schaftsmalereien. Augsburg um 1700. 189x105 cm.",128,98.9,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
+BO0624_88781,397627,35,107,"STOLLENSCHRANK, zweiturig, Weichholz, schwarz gebeizt. Mit reicher Inneneinrichtung in Form von Laden und Turen. Auf den Fullungen Land# schaftsmalereien. Augsburg um 1700. 189x105 cm.",128,98.9,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88781,397628,36,108,"JAPAN.ZIERSCHRANK, sechsturig,zweischubig. Reich geschnitzter Black wood#Rahmen, die Turfullungen in Goldlack gearbeitet. In der Mitte ein tempel artiger Aufbau in Goldlack und in mehrfarbiger Lackschnitzerei. 236x120 cm.",129,99.1,False,positional,,,CORNICI,,
 BO0624_88781,397629,37,109,"FRIESISCHES BUFETT mit Telleraufsatz,Eiche.",130,95.5,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397630,38,110,"ECKSCHRANKCHEN,Eiche,bemalt.",131,93.1,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
@@ -60,7 +60,7 @@ BO0624_88781,397650,58,148,"GROSSE SOFABANK im Louis=XV.Stil, Schleiflack, weiB,
 BO0624_88781,397651,59,149,"DESGL., Gegenstick.",159,88.9,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397652,60,150,"EICHENTRUHE im Renaissancestil. Vorderfront reich geschnitzt, in drei Felder geteilt, mit plastischen Kopfen und Maskarons. 180x92x75 cm.",160,98.5,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
 BO0624_88781,397653,61,151,FLORENTINER RENAISSANCE#SITZTRUHE mit Wappenschnitzerei. 176x54x57 cm. (Aus der Versteigerung der Sammlung Castiglioni.),161,98.3,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,COLLEZIONE CAMILLO CASTIGLIONI,
-BO0624_88781,397654,62,152,"HOLLANDISCHER BAROCKKABINETTSCHRANK, Eiche. Oberteil zweiturig,Unterteil vierschubig. Um 1700. 230x165 cm.",162,98.1,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,
+BO0624_88781,397654,62,152,"HOLLANDISCHER BAROCKKABINETTSCHRANK, Eiche. Oberteil zweiturig,Unterteil vierschubig. Um 1700. 230x165 cm.",162,98.1,False,positional,,,MOBEL; PLASTIK; BELEUCHTUNGEN,,Sec. XVIII
 BO0624_88781,397655,63,153,"154 EIN PAAR EMPIRE#KANDELABER, Goldbronze, je siebenkerzig,",167,96.6,False,positional,,,CANDELABRI,,
 BO0624_88781,397656,64,155,KONVOLUT:Vier diverse Bauern Wanduhren. (Eine beschadigt).,169,96.4,False,positional,,,SILBER; KUNSTGEWERBE,,
 BO0624_88781,397657,65,156,BIEDERMEIERDECKELPOKAL mit Ansicht von Hamburg.,170,95.8,False,positional,,,SILBER; KUNSTGEWERBE,,
@@ -72,7 +72,7 @@ BO0624_88781,397662,70,212,"FRANZOSISCHE EMPIREREISEUHR, Goldbronze, mit feiner 
 BO0624_88781,397663,71,213,ELFENBEINMINIATUR: Dame in weifem Kleid mit offenem lockigen Haar.,239,97.0,False,positional,,,SILBER; KUNSTGEWERBE,,
 BO0624_88781,397664,72,214,DESGL.: Junge Dame in braunem Kleid mit dunklem lockigen Haar. Recht eckig.,241,97.3,False,positional,,,SILBER; KUNSTGEWERBE,,
 BO0624_88781,397665,73,215,"DESGL.:Dame in schwarzem,ausgeschnittenem Biedermeierkleid. Oval. Geschnittener Original=Bronze=R.",242,97.9,False,positional,,,SILBER; KUNSTGEWERBE,,
-BO0624_88781,397666,74,216,"EMPIREPENDULE, Mahagoni. Ruckwand verspiegelt. Das runde Gehause wird von vier Alabastersaulen getragen. Als Bekronung ein holzgeschnitzter vergoldeter Adler.Norddeutsch um 1800. 68 cm hoch.",243,98.9,False,positional,,,SILBER; KUNSTGEWERBE,,
+BO0624_88781,397666,74,216,"EMPIREPENDULE, Mahagoni. Ruckwand verspiegelt. Das runde Gehause wird von vier Alabastersaulen getragen. Als Bekronung ein holzgeschnitzter vergoldeter Adler.Norddeutsch um 1800. 68 cm hoch.",243,98.9,False,positional,,,SILBER; KUNSTGEWERBE,,Sec. XIX
 BO0624_88781,397667,75,217,218 EIN PAAR WIENER PORZELLANGRUPPEN:Reiter im Kampf mit,244,96.6,False,title_direct,,,PORZELLAN,,
 BO0624_88781,397668,76,219,SIEGBURGER STEINZEUGKRUG mit Henkel und drei ovalen Medaillons. 22 cm hoch.,246,97.3,False,positional,,,SILBER; KUNSTGEWERBE,,
 BO0624_88781,397669,77,220,"PERSER SCHREIBKASTEN, Mahagoni,mit Intarsien und achtteiliger Messing= nneneinrichtung.",247,87.2,False,positional,,,SILBER; KUNSTGEWERBE,,
@@ -86,7 +86,7 @@ BO0624_88781,397676,84,230,WIENER BRONZEFIGUR:Kreuzschnabel. Mehrfach bemalt.,25
 BO0624_88781,397677,85,231,"KONVOLUT: Teller, ostindische Compagnie, drei Berliner Teller mit ver# schiedenem Dekor.",259,97.6,False,positional,,Scuola di Berlino,PIATTI,,
 BO0624_88781,397678,86,232,TURKISCHES SCHWERT mit reich ziseliertem Griff und tuirkischer Eisen#,260,97.1,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
 BO0624_88781,397679,87,I,V.,263,66.7,False,positional,REMBRANDT VAN RIJN,Scuola di Corneille Poelenburg,SILBER; KUNSTGEWERBE,,
-BO0624_88781,397680,88,22,kleine Teller. Blaue Marke F. Um 1800.,275,95.9,False,positional,,,PIATTI,,
+BO0624_88781,397680,88,22,kleine Teller. Blaue Marke F. Um 1800.,275,95.9,False,positional,,,PIATTI,,Sec. XIX
 BO0624_88781,397681,89,238,"PORZELLANVASE AUF FUSS,zweigriffig,mit Goldgrund und Reserven,",279,96.8,False,title_direct,,,PORZELLAN,,
 BO0624_88781,397682,90,I,nnen vergoldet. Schwertermarke.,301,98.3,False,positional,,,GLAS; PORZELLAN; FAYENCE,,
 BO0624_88781,397683,91,257,GLASDECKELPOKAL. Vielfach gegliederter Schaft. Auf dem Korper in Tiefschnitt ein Wappenschild und eine Kartusche mit der Inschrift: Ut principi,310,98.6,False,title_direct,,,GLAS,,
@@ -110,22 +110,22 @@ BO0624_88781,397700,108,277,UNBEKANNT: Kopf einer alten Frau vor grauem Hintergr
 BO0624_88781,397701,109,278,REMY MAES: Der Hahnenkampf. Sign. Lwd. G.R. 65x85 cm.,339,95.9,False,positional,NICOLAES MAES,,GEMALDE,,
 BO0624_88781,397702,110,279,PAUL FLICKEL:Die Stadtmauer. Ein durch Laubwald fuhrender Weg.,340,96.8,False,positional,,,GEMALDE,,
 BO0624_88781,397703,111,280,WILLY MORALT: Der Leierkastenmann. Im Hintergrund ein Stadttor. Sign. Holz.G.R.36x26cm.,342,97.6,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_88781,397704,112,281,"FELIX BORCHARDT (Berlin und Paris 1857-1912): Im Badezimmer. Sign. Lwd. G.R.123x105 cm. (Ausst. b. Bernheim jeune, Paris 1903.)",343,98.3,False,positional,,Scuola di Berlino,GEMALDE,,
+BO0624_88781,397704,112,281,"FELIX BORCHARDT (Berlin und Paris 1857-1912): Im Badezimmer. Sign. Lwd. G.R.123x105 cm. (Ausst. b. Bernheim jeune, Paris 1903.)",343,98.3,False,positional,,Scuola di Berlino,GEMALDE,,Sec. XIX
 BO0624_88781,397705,113,282,G. FRONA: Dampfer vor Cuxhafen. Sign. Lwd. G.R. 28x34 cm.,344,96.2,False,positional,,,GEMALDE,,
 BO0624_88781,397706,114,283,W.JANSSON: Adoration. Sign. Lwd. G.R. 35x46 cm.,345,95.3,False,positional,,,GEMALDE,,
 BO0624_88781,397707,115,284,FR. BERSCH: AIter Monch bei der Lektire. Sign. Lwd. G.R. 35x40 cm.,346,96.7,False,positional,,,GEMALDE,,
 BO0624_88781,397708,116,285,"P. DIEHL: Seestick ,Vor Terschelling. Sign. Lwd. S.R. 65x85 cm.",347,96.5,False,positional,,,GEMALDE,,
-BO0624_88781,397709,117,286,E. KUBIERSCHKY: SchloB in verschneitem Gebirgstal. Sign.und datiert 1913.,348,97.2,False,positional,,,GEMALDE,,
+BO0624_88781,397709,117,286,E. KUBIERSCHKY: SchloB in verschneitem Gebirgstal. Sign.und datiert 1913.,348,97.2,False,positional,,,GEMALDE,,Sec. XX
 BO0624_88781,397710,118,287,HENRY JAECKEL: Alpensee. Sign. Lwd. G.R. 42x57 cm.,350,95.7,False,positional,,,GEMALDE,,
 BO0624_88781,397711,119,288,EDM. BERNINGER: Blick auf Torbola. Sign. Aquarell. S.R. 17x29 cm.,351,96.7,False,positional,,,GEMALDE,,
 BO0624_88781,397712,120,289,W.JANSSON: Badende Madchen. Sign. Lwd. G.R. 55x65 cm.,352,95.9,False,positional,,,GEMALDE,,
-BO0624_88781,397713,121,290,P. KELLER#REUTLINGEN:Landschaft an den oberitalienischen Seen. Ein zwischen Zypressen stehendes Landhaus bei Mondbeleuchtung. Sign.und datiert 1910.Lwd.G.R.90x133cm.,353,98.8,False,positional,,,GEMALDE,,
+BO0624_88781,397713,121,290,P. KELLER#REUTLINGEN:Landschaft an den oberitalienischen Seen. Ein zwischen Zypressen stehendes Landhaus bei Mondbeleuchtung. Sign.und datiert 1910.Lwd.G.R.90x133cm.,353,98.8,False,positional,,,GEMALDE,,Sec. XX
 BO0624_88781,397714,122,291,293 DREI SUPRAPORTEN:Italienische Parklandschaften. Lwd. Ungerahmt.,354,97.0,False,positional,,,GEMALDE,,
 BO0624_88781,397715,123,90,×140cm.,355,76.9,False,positional,,,GEMALDE,,
 BO0624_88781,397716,124,294,TH.RIBOT: Frau mit Hummer. Sign.Lwd. G.R. 53x44 cm.,356,95.8,False,positional,RIBOT THEODULE,,GEMALDE,,
 BO0624_88781,397717,125,295,DERSELBE: Stilleben. Sign. Lwd. G.R. 40x65 cm.,357,95.2,False,positional,,,GEMALDE,,
 BO0624_88781,397718,126,296,"W.CAMPHAUSEN:Der Meldereiter. Auf einer LandstraBe trabt ein Offizier auf einem Schimmel daher. Zur Rechten zwei im Feldrain sitzende Soldaten, links ruckwarts ein Kirchturm. Sign.Lwd. G.R. 52x63 cm.",358,99.0,False,positional,,,GEMALDE,,
-BO0624_88781,397719,127,297,V.KOsSAK: Skizze zu einer Reiterschlacht. Totenkopfhusaren und franzosische Infanterie im Handgemenge. Sign. und datiert 1899. Aquarell. MahagoniR. 47×63cm.,359,98.7,False,positional,,,OGGETTI VARI,,
+BO0624_88781,397719,127,297,V.KOsSAK: Skizze zu einer Reiterschlacht. Totenkopfhusaren und franzosische Infanterie im Handgemenge. Sign. und datiert 1899. Aquarell. MahagoniR. 47×63cm.,359,98.7,False,positional,,,OGGETTI VARI,,Sec. XIX
 BO0624_88781,397720,128,298,BRICARDO V.CORDERO: Die Messe. Vor dem Hochaltar einer spanischen,360,96.9,False,positional,,,GEMALDE,,
 BO0624_88781,397721,129,299,F. HOFFMANN VON FALLERSLEBEN: Parklandschaft bei Mondbeleuchtung.,361,96.9,False,positional,,,GEMALDE,,
 BO0624_88781,397722,130,300,M. VLAMINCK: Die DorfstraBe. Sign. Aquarell. G.R. 35x45 cm.,364,96.3,False,positional,,,GEMALDE,,
@@ -142,17 +142,17 @@ BO0624_88781,397732,140,317,"DEUTSCH, Anfang 19. Jhdt.: Portrat eines Feldherrn.
 BO0624_88781,397733,141,318,322 FUNF GERAHMTE KUPFERSTICHE:Herren# und Frauenportrats.,382,96.6,False,positional,,,OGGETTI IN RAME,,
 BO0624_88781,397734,142,323,326 VIER DESGL.nach Raffael:Die Wissenschaften. S.R.,383,96.2,False,positional,,,GEMALDE,,
 BO0624_88781,397735,143,327,GERAHMTE HANDZEICHNUNG von Spitzweg: Der Erker.Nachlaβ#,384,96.4,False,positional,SPITZWEG CARL,,GEMALDE,,
-BO0624_88781,397736,144,328,DOMINICUS VAN DER SMISSEN (1704-1760):Ovalbildnis eines Herrn,386,96.7,False,positional,,,GEMALDE,,
+BO0624_88781,397736,144,328,DOMINICUS VAN DER SMISSEN (1704-1760):Ovalbildnis eines Herrn,386,96.7,False,positional,,,GEMALDE,,Sec. XVIII
 BO0624_88781,397737,145,329,ART DES JAN MIENSE MOLLENAER:Hollandische Bauernhochzeit.,388,96.6,False,positional,,,GEMALDE,,
 BO0624_88781,397738,146,329,"a MURILLOSCHULE: Maria mit Kind, zu FuBen eine Nonne. Lwd. G.R.",390,97.5,False,positional,,,GEMALDE,,
-BO0624_88781,397739,147,107,"x73 cm. (Aus der Versteigerung de Quinto,Lepke 1917.)",391,97.0,False,positional,,,GEMALDE,,
+BO0624_88781,397739,147,107,"x73 cm. (Aus der Versteigerung de Quinto,Lepke 1917.)",391,97.0,False,positional,,,GEMALDE,,Sec. XX
 BO0624_88781,397740,148,354,"JAN VAN GOYEN: Flachlandschaft. An einer LandstraBe, zu deren Linken ein Gehoft liegt,eine Gruppe von drei lagernden Bauern. Holz. S.R. 13,5x20 cm. (Mit Gutachten von Hofsteede de Groot.) Abbildung Tafel 8",421,99.0,False,positional,GOYEN JAN VAN,,OGGETTI IN LEGNO,,
 BO0624_88781,397741,149,355,PIETER MOLYN:FluBlandschaft. Im Vordergrund links drei Bauerinnen im Gesprach.Sign.Holz.S.R.39x60 cm. Abbildung Tafel6,422,98.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88781,397742,150,356,ART DES A. VAN OSTADE: Beim Zahnarzt. Lwd. auf Holz aufgezogen. G.R.36x29cm.,423,97.2,False,positional,ADRIAEN VAN OSTADE,,OGGETTI IN LEGNO,,
 BO0624_88781,397743,151,357,ART DES ROSSOLINO:Madonna mit Kind. Terrakotta. G.R. 83x50 cm.,424,96.7,False,positional,,,GEMALDE,,
 BO0624_88781,397744,152,358,SCHULE DES ADAM ELSHEIMER: Ruhende Venus vor einer Landschaft. Oval.Kupfer.Alter G.R.,425,97.6,False,positional,ELSHEIMER ADAM,Scuola di Breughel-Elsheimer,OGGETTI IN RAME,,
-BO0624_88781,397745,153,360,"361 MARIO DE FIORI (Rom um 1650): Zwei Blumenstilleben: Rosen, Tulpen, Narzissen u.a.Lwd. G.R. 38x29 cm.",427,97.9,False,positional,,,OGGETTI VARI,,
-BO0624_88781,397746,154,362,"363 MICHELANGELO DI CAMPIDOGLIO (Rom um 1740):Zwei Frucht stilleben: Melonen,Weintrauben u.a. (Gegensticke.) G.R. 43x68 cm.",428,98.3,False,positional,CARAVAGGIO,,GEMALDE,,
+BO0624_88781,397745,153,360,"361 MARIO DE FIORI (Rom um 1650): Zwei Blumenstilleben: Rosen, Tulpen, Narzissen u.a.Lwd. G.R. 38x29 cm.",427,97.9,False,positional,,,OGGETTI VARI,,Sec. XVII
+BO0624_88781,397746,154,362,"363 MICHELANGELO DI CAMPIDOGLIO (Rom um 1740):Zwei Frucht stilleben: Melonen,Weintrauben u.a. (Gegensticke.) G.R. 43x68 cm.",428,98.3,False,positional,CARAVAGGIO,,GEMALDE,,Sec. XVIII
 BO0624_88781,397747,155,364,"OTTO MARSAEUS VAN SCHRIEK, gen.Snuffelaer: Insektenstilleben.Lwd. S.R.46x35cm.",429,97.4,False,positional,,,GEMALDE,,
 BO0624_88781,397748,156,365,"DEUTSCH, 18. Jhdt.:Brustbild einer Frau mit Perlenhalsband,Haarband und",430,97.1,False,positional,,,GEMALDE,,
 BO0624_88781,397749,157,366,GERAHMTE HINTERGLASMALEREI:Die heilige Dreieinigkeit gen,432,96.6,False,title_direct,,,GLAS,,
@@ -180,7 +180,7 @@ BO0624_88781,397770,178,391,GERAHMTE JAPAN.SEIDENMALEREI:Geisha unter bluhendem 
 BO0624_88781,397771,179,392,EINE DESGL.:Maskenzug.,472,90.9,False,positional,,,GEMALDE,,
 BO0624_88781,397772,180,393,"EINE DESGL.:Gebirgslandschaft,in dieser reitende Priester.",473,96.6,False,positional,,,GEMALDE,,
 BO0624_88781,397773,181,394,EINE DESGL.:Maskenfest.,474,91.3,False,positional,,,GEMALDE,,
-BO0624_88781,397774,182,395,"JAPAN.PARAVENT,sechsteilig. Auf Goldgrund Schlachtendarstellung in den Farben der famille rose. Um 1700.",475,98.1,False,positional,,,ARREDAMENTI,,
+BO0624_88781,397774,182,395,"JAPAN.PARAVENT,sechsteilig. Auf Goldgrund Schlachtendarstellung in den Farben der famille rose. Um 1700.",475,98.1,False,positional,,,ARREDAMENTI,,Sec. XVIII
 BO0624_88781,397775,183,396,397 EIN PAAR CHINA#BRONZERADNABEN. Der Rand reich orna# mentiert.Han.,476,97.1,False,positional,,,GEMALDE,,
 BO0624_88781,397776,184,398,"EIN PAAR BRONZESPIEGEL:a) rund,mit umlaufenden Schriftornamenten, b) mit blatformig gezacktem Rand und Ornamenten in Form von Schmetter= lingen und Vogeln. Tang.",477,98.7,False,positional,,,GEMALDE,,
 BO0624_88781,397777,185,399,EIN PAAR BRONZEHANDSPIEGEL:a) mit Dekor in Form von Tigern,478,96.6,False,positional,,,GEMALDE,,
@@ -237,4 +237,4 @@ BO0624_88781,397827,235,459,"DESGL.:Kwanon, sitzend, einen Stab in den Handen ha
 BO0624_88781,397828,236,460,"DESGL.: Boddhisattva, stehend. Mit Resten alter Vergoldung. Tang. 34 cm hoch.",555,97.2,False,positional,,,GEMALDE,,
 BO0624_88781,397829,237,461,"DESGL.:Boddhisattva, sitzend. Sung. 30 cm hoch.",556,95.5,False,positional,,,GEMALDE,,
 BO0624_88781,397830,238,462,ALTCHINABRONZEBUGELEISEN mit Stielschaft. Mit plastischem Drachen= motiv dekoriert.Ming.,557,97.7,False,positional,,,GEMALDE,,
-BO0624_88781,397831,239,463,BRONZEKWANON mit Kind. Um 1000 n. Chr. 43 cm hoch.,558,95.8,False,positional,,,GEMALDE,,
+BO0624_88781,397831,239,463,BRONZEKWANON mit Kind. Um 1000 n. Chr. 43 cm hoch.,558,95.8,False,positional,,,GEMALDE,,Sec. XI

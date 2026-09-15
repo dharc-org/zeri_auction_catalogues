@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87993,401927,1,I,Tauben.,1,92.3,False,none,,,,,
-BO0624_87993,401928,2,2,Toter Christus. 1649,13,80.0,False,positional,ANNIBALE CARRACCI,,,,
+BO0624_87993,401928,2,2,Toter Christus. 1649,13,80.0,False,positional,ANNIBALE CARRACCI,,,,Sec. XVII
 BO0624_87993,401929,3,3,Reiterschlacht.,32,93.3,False,positional,"J. COURTOIS, GEN. IL BORGOGNONE",,OGGETTI VARI,,
 BO0624_87993,401930,4,I,m Vordergrunde einer bergigen Landschaft Kampf zweier kleiner Reiterscharen.Im Mittelplan spielt sich die eigentliche Schlacht ab. Unten rechts bez.Borg.f 16.,34,99.7,False,positional,"J. COURTOIS, GEN. IL BORGOGNONE",,,,
 BO0624_87993,401931,5,I,hm zugeschrieben.,44,97.0,False,positional,JEAN HONORE FRAGONARD,,,,
@@ -222,9 +222,9 @@ BO0624_87993,402146,220,219,Darstellung im Tempel.,2075,91.3,False,positional,,U
 BO0624_87993,402147,221,220,Heilige Dominikanerin.,2083,91.3,False,positional,,UNBEKANNTE MEISTER DES 17. JAHRHUNDERTS,,,
 BO0624_87993,402148,222,22,I Madonna.,2087,90.0,False,positional,,UNBEKANNTE MEISTER DES 17. JAHRHUNDERTS,,,
 BO0624_87993,402149,223,2,Kartenspielende Zecher.,2095,95.7,False,positional,,UNBEKANNTE MEISTER DES 17. JAHRHUNDERTS,,,
-BO0624_87993,402150,224,222,Um einen Tisch sitzen vier Kavaliere des 17. Jahrhunderts bei Wein und Kartenspiel. An der Wand der Zechstube Inschrift und Kritzeleien.,2098,100.0,False,positional,,UNBEKANNTE MEISTER DES 17. JAHRHUNDERTS,,,
+BO0624_87993,402150,224,222,Um einen Tisch sitzen vier Kavaliere des 17. Jahrhunderts bei Wein und Kartenspiel. An der Wand der Zechstube Inschrift und Kritzeleien.,2098,100.0,False,positional,,UNBEKANNTE MEISTER DES 17. JAHRHUNDERTS,,,Sec. XVII
 BO0624_87993,402151,225,223,Bildniseines Kavaliers.,2102,91.7,False,positional,,UNBEKANNTE MEISTER DES 17. JAHRHUNDERTS,,,
-BO0624_87993,402152,226,229,## UNBEKANNTE MEISTER,2111,100.0,False,title_direct,,UNBEKANNTE MEISTER,,,
+BO0624_87993,402152,226,229,## UNBEKANNTE MEISTER,2111,100.0,False,title_direct,ANONIMO,UNBEKANNTE MEISTER,,,
 BO0624_87993,402153,227,225,Christus am Olberge.,2123,90.5,False,positional,,UNBEKANNTE MEISTER,,,
 BO0624_87993,402154,228,226,6 Christus am Kreuze.,2127,90.9,False,positional,,UNBEKANNTE MEISTER,,,
 BO0624_87993,402155,229,227,Christus am Kreuze.,2133,90.0,False,positional,,UNBEKANNTE MEISTER,,,

@@ -14,7 +14,7 @@ BO0624_88347,227472,12,12,Waldlandschaft mit Staffage.,55,94.7,False,positional,
 BO0624_88347,227473,13,13,Desgl.,59,76.9,False,positional,,,Gemalde,,
 BO0624_88347,227474,14,14,- Stilleben. Korb und Schissel mit Frichten.,65,100.0,False,positional,,,Gemalde,,
 BO0624_88347,227475,15,15,| Viehherde am FluBufer. Holz 28/35 Bezeichnet.                                                              |,71,96.6,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
-BO0624_88347,227476,16,16,"| JAC. ALT , WIEN. Montblanc. Aquarell 27/46,5 Bezeichnet 1845.                                              |",73,97.3,False,positional,CHR.L.AGRICOLA,Scuola Viennese,,,
+BO0624_88347,227476,16,16,"| JAC. ALT , WIEN. Montblanc. Aquarell 27/46,5 Bezeichnet 1845.                                              |",73,97.3,False,positional,CHR.L.AGRICOLA,Scuola Viennese,,,Sec. XIX
 BO0624_88347,227477,17,17,"18 | Meerschweinchen. Aq.10/13,5 Notverband. Aq.26/35,5 Unbekannter Meister.Palazzo Venezia in Rom.Aq.27,5/41,5 |",75,98.6,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227478,18,19,|                                                                                                            |,76,0.0,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227479,19,20,"| Desgl. Wallenstadter See und Weesen. 2 Aquarelle in einem Rahmen. 21/49,5u.12,5/45 Aq.12/31                |",77,98.3,False,positional,CHR.L.AGRICOLA,,CORNICI,,
@@ -36,7 +36,7 @@ BO0624_88347,227494,34,49,"| JACOB DORNER +, MUNCHEN. Gebirgslandschaft mit Holz
 BO0624_88347,227495,35,50,"| A.L.ECKARDT,DRESDEN. Nach van Dyck.Danae. Kreidez.61/93                                                                    |",104,97.2,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227496,36,51,| Nach F. Frisch v. Hormann. Braubach und Burg Liebeneck. P1.44/59                                                           |,105,97.6,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227497,37,52,| Desgl. Welmich. Gegenstick z.Vor.                                                                                          |,106,95.2,False,positional,CHR.L.AGRICOLA,,,,
-BO0624_88347,227498,38,53,"| CAMILLE FLERS,1802-1868,PARIS. Waldlichtung. Karton 24/31 Bezeichnet.                                                      |",107,97.8,False,positional,CHR.L.AGRICOLA,,,,
+BO0624_88347,227498,38,53,"| CAMILLE FLERS,1802-1868,PARIS. Waldlichtung. Karton 24/31 Bezeichnet.                                                      |",107,97.8,False,positional,CHR.L.AGRICOLA,,,,Sec. XIX
 BO0624_88347,227499,39,54,"| A.FORSTMANN +,DUSSELDORF. Sonnenuntergang am Meer. Leinw.65/47 Bezeichnet.                                                 |",108,97.9,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227500,40,55,"| J.G.GERSTENHAUER,UTRECHT. Vor dem Spazierritt. Holz 32/23 Bezeichnet.                                                      |",109,97.8,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
 BO0624_88347,227501,41,56,"| GRAVURE. Auf dem Rennplatz. P1. 64,5/90                                                                                    |",110,96.0,False,positional,CHR.L.AGRICOLA,,STAMPE E INCISIONI,,
@@ -48,11 +48,11 @@ BO0624_88347,227506,46,61,"62 | Landschaft mit Staffage. Mann, Frau u. Hund. Geg
 BO0624_88347,227507,47,63,| Enten am Wasser. Karton 16/12 Bezeichnet.                                                                                                         |,118,96.3,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227508,48,64,"65 | KARL HILGERS +, DUSSELDORF. Winterlandschaft. Leinw.49/56 Desgl. Gegenstick z. Vor. Beide bezeichnet.                                             |",119,98.4,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227509,49,66,"| J. HINTZE. Bauer mit Korb und Pfeife. Holz 16,5/11,5 Bezeichnet.                                                                                  |",120,97.6,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
-BO0624_88347,227510,50,67,"| F.W.HIRT,1721—1772,FRANKFURT A.M. Landschaft mit Tierstaffage. Leinw.25,5/30,5                                                                    |",121,98.1,False,positional,CHR.L.AGRICOLA,,,,
+BO0624_88347,227510,50,67,"| F.W.HIRT,1721—1772,FRANKFURT A.M. Landschaft mit Tierstaffage. Leinw.25,5/30,5                                                                    |",121,98.1,False,positional,CHR.L.AGRICOLA,,,,Sec. XVIII
 BO0624_88347,227511,51,68,"| FRANZH0CHECKER,17301792,FRANKFURTA.M. Landschaft. Holz 10,5/13                                                                                    |",122,97.6,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
 BO0624_88347,227512,52,69,"70 | A.HORTER +,KARLSRUHE. Landschaft mit Dorfkirche und Kornfeld. Leinw.52,5/75 Desgl.mit Staffage im Vordergrund. Gegenst. z. Vor. Beide bezeichnet. |",123,98.9,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227513,53,71,"| A.HOFMANN,PARIS. Gefluigelhof. Holz 27/35 Bezeichnet.                                                                                             |",124,97.1,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
-BO0624_88347,227514,54,72,"73 | HOLLANDISCHER MEISTER DES XVII. JAHRH. Winterlandschaft mit Fastnachtsszene. Holz 32/44,5 Mannliches Brustbild. Holz 54/42,5                      |",125,98.8,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
+BO0624_88347,227514,54,72,"73 | HOLLANDISCHER MEISTER DES XVII. JAHRH. Winterlandschaft mit Fastnachtsszene. Holz 32/44,5 Mannliches Brustbild. Holz 54/42,5                      |",125,98.8,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88347,227515,55,74,"| V.JANKO,MUNCHEN. Der Zigeuner-Konig. Holz 18/14 Bezeichnet.                                                                                       |",126,97.4,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
 BO0624_88347,227516,56,75,"| EDUARD YOUNG,18231883,MUNCHEN. Ansicht von Neapel. Leinw.65/87 Bezeichnet.                                                                        |",127,97.9,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227517,57,77,78    | ITALIENISCHE SCHULE. Landschaft mit Ruine und Tierstaffage. Heil. Hieronymus. | Leinw..60/81 Leinw.36/27 |,130,98.5,False,positional,CHR.L.AGRICOLA,,,,
@@ -70,7 +70,7 @@ BO0624_88347,227528,68,89,"| F.S.LACHENWITZ +, DUSSELDORF. Landschaft mit Schafe
 BO0624_88347,227529,69,90,"| E.LAPORETTI, ROM. Italienisches Madchen. Holz 13,5/19,5 Bezeichnet.              |",144,97.7,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
 BO0624_88347,227530,70,91,"| G.H. LEUTEMANN +,LEIPZIG. Bernhardiner-Hund. Karton 30,5/23 Bezeichnet.          |",145,97.7,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227531,71,92,| Pferdeportrat. Karton 30/27                                                      |,146,94.5,False,positional,CHR.L.AGRICOLA,,,,
-BO0624_88347,227532,72,93,"| MALER DES XIX. JAHRH. Sennerin,rastend. Karton 34/29                             |",147,97.0,False,positional,CHR.L.AGRICOLA,,,,
+BO0624_88347,227532,72,93,"| MALER DES XIX. JAHRH. Sennerin,rastend. Karton 34/29                             |",147,97.0,False,positional,CHR.L.AGRICOLA,,,,Sec. XIX
 BO0624_88347,227533,73,94,| FluBlandschaft. Aquarell 16/19 Bezeichnet.                                       |,148,96.4,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227534,74,95,"| FluBlandschaft, mit Felsen im Vordergrund. Leinw.47/67                           |",149,97.2,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227535,75,96,"| Waldlandschaft mit Rehen. Karton 32/23,5                                         |",150,96.3,False,positional,CHR.L.AGRICOLA,,,,
@@ -86,7 +86,7 @@ BO0624_88347,227544,84,115,"| Louis XIV.als Kind. Leinw. 39,5/36,5              
 BO0624_88347,227545,85,116,| Kircheninneres mit betender Frau. Leinw.49/38                                                                                                                                                                        |,163,95.7,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227546,86,117,| Frauen-Brustbild. Leinw.60/49                                                                                                                                                                                        |,164,93.3,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227547,87,118,"| Segelboot auf bewegter See. Holz 22,5/32 Bezeichnet.                                                                                                                                                                 |",165,96.2,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
-BO0624_88347,227548,88,119,"| M.MUNKACSY,+1900 BEI BONN (ANGEBL.) Wirfelspielende Gesellschaft. Olstudie. Holz 54/69                                                                                                                               |",166,97.6,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
+BO0624_88347,227548,88,119,"| M.MUNKACSY,+1900 BEI BONN (ANGEBL.) Wirfelspielende Gesellschaft. Olstudie. Holz 54/69                                                                                                                               |",166,97.6,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,Sec. XX
 BO0624_88347,227549,89,120,| Tanzendes Paar. Holz 27/22                                                                                                                                                                                           |,167,92.6,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
 BO0624_88347,227550,90,121,"| Heilige Familie. Holz 39/30,5                                                                                                                                                                                        |",168,93.3,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
 BO0624_88347,227551,91,122,123                           | Marine bei Livorno. Leinw.37/58 Fischerbarke an der Danischen Kiste. Gegenstick z.Vor. Beide bezeichnet.                                                                                                             |,169,98.1,False,positional,CHR.L.AGRICOLA,,,,
@@ -124,13 +124,13 @@ BO0624_88347,227582,122,165,"| ling. 36,5/46,5 Mutter und Kind. Leinw.104/71    
 BO0624_88347,227583,123,166,|                                                                                              |,210,0.0,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227584,124,167,| Fischerbarken im Golf von Neapel. Leinw.40/64 Auf der Flucht.                                |,211,96.7,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227585,125,168,"| Reitender Husar. Kreidez.20,5/26,5                                                                      |",215,94.3,False,positional,CHR.L.AGRICOLA,,,,
-BO0624_88347,227586,126,169,| VLAMISCHER MEISTER DES XVII. JAHRH. Simson und Delila. Leinw.107/130                                    |,216,97.0,False,positional,CHR.L.AGRICOLA,Scuola Fiamminga,,,
+BO0624_88347,227586,126,169,| VLAMISCHER MEISTER DES XVII. JAHRH. Simson und Delila. Leinw.107/130                                    |,216,97.0,False,positional,CHR.L.AGRICOLA,Scuola Fiamminga,,,Sec. XVII
 BO0624_88347,227587,127,170,| Pferdeportrat. Aquarell 25/12                                                                           |,217,93.3,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227588,128,171,"172 173 | Desgl. Gegenstuck z. Vor, Pferde in der PuBta. Leinw.39/47 Schweres Arbeitspferd. Damon. Aquarell 27/34 |",218,98.1,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227589,129,174,"| LUDWIG VOLTZ +, MUNCHEN. Lowe. Holz 110/138 Bezeichnet.                                                 |",219,96.1,False,positional,CHR.L.AGRICOLA,,OGGETTI IN LEGNO,,
 BO0624_88347,227590,130,175,"| PAUL WEBER, MUNCHEN. Schottisches Gebirge mit See. Leinw.40/57,5 Bezeichnet.                            |",220,97.3,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227591,131,176,| Dorfansicht. Leinw.26/43 Bezeichnet.                                                                    |,222,94.4,False,positional,CHR.L.AGRICOLA,,,,
-BO0624_88347,227592,132,178,"| Bezeichnet. WERNER, MALER DES XVIII. JAHRH.                                                             |",223,95.1,False,positional,CHR.L.AGRICOLA,,,,
+BO0624_88347,227592,132,178,"| Bezeichnet. WERNER, MALER DES XVIII. JAHRH.                                                             |",223,95.1,False,positional,CHR.L.AGRICOLA,,,,Sec. XVIII
 BO0624_88347,227593,133,179,"| ANTON WINDMAIER +,MUNCHEN. Abendlandschaft. Leinw.36/62 Winterlandschaft.                               |",225,97.1,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227594,134,180,| Gegenstuck z. Vor. Beide bezeichnet.                                                                    |,226,94.3,False,positional,CHR.L.AGRICOLA,,,,
 BO0624_88347,227595,135,181,182 | Dackel und Mieze. Karton 29/33 Eismanner. Frauenkopf.                   |,229,96.4,False,positional,CHR.L.AGRICOLA,,,,
@@ -179,7 +179,7 @@ BO0624_88347,227637,177,226,"- 225 Kleine Vase, gelb, auf grinem FuB.",300,100.0
 BO0624_88347,227638,178,227,Kleine Vase mit weiben Hohlgangen und blau und rote Nuppen.,301,96.7,False,positional,,,VASI,,
 BO0624_88347,227639,179,228,"- 230 Vase, grunes Glas, persisch.",305,100.0,False,title_direct,,,VASI,,
 BO0624_88347,227640,180,229,"Kleine Vase, farbig marmoriert.",306,93.5,False,positional,,,VASI,,
-BO0624_88347,227641,181,231,"- 232 Bierglas, reich bemalt und Inschrift ,Jost Amman 1567""",308,100.0,False,positional,,,Glas,,
+BO0624_88347,227641,181,231,"- 232 Bierglas, reich bemalt und Inschrift ,Jost Amman 1567""",308,100.0,False,positional,,,Glas,,Sec. XVI
 BO0624_88347,227642,182,233,"Zierglas in PaBform mit Vergoldung. Schale aus braunem Glas mit Metallauflage. Flakon mit Stopsel, tuirkisblauem Email und Silber.",312,55.9,False,title_direct,,,OGGETTI VARI,,
 BO0624_88347,227643,183,236,"Zwei kleine PaBglaser (alt). Vase, Rubinglas. GroBes PaBglas mit falschem Deckel.",315,61.9,False,positional,,,VASI,,
 BO0624_88347,227644,184,239,- Zierglas mit Drachen im Innern. Desgl. rosa. Desgl. auf hohem FuB mit Drachen und Glasringen.,319,68.1,False,title_direct,,,Glas,,
@@ -251,7 +251,7 @@ BO0624_88347,227709,249,345,"Tasse, Berliner Fabrikat, bemalt mit Blumen und Sti
 BO0624_88347,227710,250,346,- 347 Zwei hohe Majolika-Vasen mit. figirlichem Fries.,503,100.0,False,positional,,,VASI,,
 BO0624_88347,227711,251,348,"Fayence-Vase, blau-grin-rot und schwarz ornamental bemalt.",504,96.6,False,positional,,,VASI,,
 BO0624_88347,227712,252,349,"Majolika-Kapital, farbig bemalt.",505,93.8,False,positional,,,Keramik,,
-BO0624_88347,227713,253,350,Irdene Form fir Ofenkacheln. 17. Jahrhundert. Visitenkartentasche. Wandtasche.,506,70.6,False,positional,,,Keramik,,
+BO0624_88347,227713,253,350,Irdene Form fir Ofenkacheln. 17. Jahrhundert. Visitenkartentasche. Wandtasche.,506,70.6,False,positional,,,Keramik,,Sec. XVII
 BO0624_88347,227714,254,353,Desgl. Desgl.. Desgl.,512,46.2,False,positional,,,Lederwaren; Stickereien,,
 BO0624_88347,227715,255,356,Zigarrentasche.,515,87.5,False,positional,,,Lederwaren; Stickereien,,
 BO0624_88347,227716,256,357,- Brillenfutteral.,517,100.0,False,positional,,,Lederwaren; Stickereien,,
@@ -295,7 +295,7 @@ BO0624_88347,227753,293,406,Perserteppich.175/152.,625,91.3,False,positional,,,I
 BO0624_88347,227754,294,407,Indische Decke.,626,87.5,False,positional,,,Intarsien; Schnitzereien; Mobel; Teppiche; Spitzen,,
 BO0624_88347,227755,295,408,"- 409 Zwei Sessel, 8 Stuihle. Mahagoni. Spat-Empire.",628,100.0,False,positional,,,Intarsien; Schnitzereien; Mobel; Teppiche; Spitzen,,
 BO0624_88347,227756,296,410,- 411,631,100.0,False,positional,,,Intarsien; Schnitzereien; Mobel; Teppiche; Spitzen,,
-BO0624_88347,227757,297,413,Eckschrank. Mahagoni. Um 1830. Konsol. Mahagoni mit Spiegel und Marmorplatte. Empire.,635,79.1,False,positional,,,SPECCHI,,
+BO0624_88347,227757,297,413,Eckschrank. Mahagoni. Um 1830. Konsol. Mahagoni mit Spiegel und Marmorplatte. Empire.,635,79.1,False,positional,,,SPECCHI,,Sec. XIX
 BO0624_88347,227758,298,414,- 415,637,100.0,False,positional,,,Intarsien; Schnitzereien; Mobel; Teppiche; Spitzen,,
 BO0624_88347,227759,299,416,- Klapptisch. Mahagoni. Empire.,639,100.0,False,positional,,,Intarsien; Schnitzereien; Mobel; Teppiche; Spitzen,,
 BO0624_88347,227760,300,417,Perser-Vorlage. 250/130.,642,91.7,False,positional,,,Intarsien; Schnitzereien; Mobel; Teppiche; Spitzen,,
@@ -427,20 +427,20 @@ BO0624_88347,227885,425,575,"Satz Delfter Vasen, blau-weib.",885,93.3,False,posi
 BO0624_88347,227886,426,577,- 576 Enghalskrug mit Blumendekor. Florsheim.,887,100.0,False,positional,Rud. Bangel,,,,
 BO0624_88347,227887,427,578,- Drei Porzellankannen mit rotem Blumendekor.  Thuringen.,893,100.0,False,positional,Rud. Bangel,,,,
 BO0624_88347,227888,428,579,Porzellankannchen mit Blumendekor. Sachsisch. Marke am AusguB.,898,100.0,False,positional,Rud. Bangel,,,,
-BO0624_88347,227889,429,580,"Desgl. Ebenso, groBer. 581 Drei Porzellanteller. China. Famille rose. 18. Jahrh.",900,97.3,False,positional,Rud. Bangel,,,,
+BO0624_88347,227889,429,580,"Desgl. Ebenso, groBer. 581 Drei Porzellanteller. China. Famille rose. 18. Jahrh.",900,97.3,False,positional,Rud. Bangel,,,,Sec. XVIII
 BO0624_88347,227890,430,582,Porzellan-Teekanne. Marcolini.,902,93.3,False,positional,Rud. Bangel,,,,
 BO0624_88347,227891,431,583,Porzellan-Zuckerdose. MeiBen.,904,93.1,False,positional,Rud. Bangel,,,,
 BO0624_88347,227892,432,584,Porzellan-Schalchen mit Blumendekor. Meiben.,906,95.5,False,positional,Rud. Bangel,,,,
 BO0624_88347,227893,433,585,Tiefe Porzellanschale. Desgl.,908,93.1,False,positional,Rud. Bangel,,,,
 BO0624_88347,227894,434,586,Porzellanteller. Japan.,910,91.3,False,positional,Rud. Bangel,,,,
-BO0624_88347,227895,435,587,"- Fayence-Apfel, suiddeutsch. 18. Jahrh.",914,100.0,False,positional,Rud. Bangel,,,,
+BO0624_88347,227895,435,587,"- Fayence-Apfel, suiddeutsch. 18. Jahrh.",914,100.0,False,positional,Rud. Bangel,,,,Sec. XVIII
 BO0624_88347,227896,436,588,"- Fayence-Schissel. Delft, blau-weiB.",918,100.0,False,positional,Rud. Bangel,,,,
 BO0624_88347,227897,437,589,Desgl.Desgl.,920,84.6,False,positional,Rud. Bangel,,,,
 BO0624_88347,227898,438,590,Desgl.Desgl.,922,84.6,False,positional,Rud. Bangel,,,,
 BO0624_88347,227899,439,591,Porzellanvase mit Blumendekor. Biedermeier.,924,95.3,False,positional,Rud. Bangel,Biedermeier,,,
 BO0624_88347,227900,440,592,"Stengelglas, geschliffen. Rokoko.",926,93.8,False,positional,Rud. Bangel,,,,
 BO0624_88347,227901,441,593,Desgl. Desgl.,928,84.6,False,positional,Rud. Bangel,,,,
-BO0624_88347,227902,442,594,"Stutzuhr, vergoldete Bronze. Paris um 1830.",930,95.2,False,positional,Rud. Bangel,,,,
+BO0624_88347,227902,442,594,"Stutzuhr, vergoldete Bronze. Paris um 1830.",930,95.2,False,positional,Rud. Bangel,,,,Sec. XIX
 BO0624_88347,227903,443,595,Zinnkanne.,932,81.8,False,positional,Rud. Bangel,,OGGETTI IN LATTA,,
 BO0624_88347,227904,444,596,Fayencekrug mit Harlekine.,934,92.6,False,positional,Rud. Bangel,,,,
 BO0624_88347,227905,445,597,Desgl. mit springendem Pferd.,936,93.1,False,positional,Rud. Bangel,,,,

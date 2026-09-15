@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88478,492746,1,2,"Der Venustempel auf Sizilien. Links steile Kuste mit Weg, Tempel",12,99.2,False,positional,R.ALOTT,,,,
-BO0624_88478,492747,2,4,"Kuh auf Waldwiese. Sonnige Beleuchtung. Im Hintergrund Dorf. Rechbts unten bezeicbnet:H.B.Karlsruhe,Juni 1888. Leinwand 51/68 Abbildung Tafel III - 5FluBlauf mit Dorf. Ufer mit Weiden und Schilf bewachsen. Links",22,81.7,False,positional,HERMANN BAISCH,,,,
+BO0624_88478,492747,2,4,"Kuh auf Waldwiese. Sonnige Beleuchtung. Im Hintergrund Dorf. Rechbts unten bezeicbnet:H.B.Karlsruhe,Juni 1888. Leinwand 51/68 Abbildung Tafel III - 5FluBlauf mit Dorf. Ufer mit Weiden und Schilf bewachsen. Links",22,81.7,False,positional,HERMANN BAISCH,,,,Sec. XIX
 BO0624_88478,492748,3,5,Hauser. Karton 28/43,25,95.0,False,positional,HERMANN BAISCH,,,,
 BO0624_88478,492749,4,6,Landschaft mit Zigeunern. Adergelande mit Kiefern und Zigeuner familie mit Planwagen und weidendem Pferd. Aquarell 11/17 Recdbts unten bezeicbnet: Ferd. Balzer O8.,31,99.7,False,positional,FERDINAND BALZER,,,,
 BO0624_88478,492750,5,7,- Alter Hof in Cronberg. Aquarell 16/15,33,100.0,False,positional,FERDINAND BALZER,,,,
@@ -14,7 +14,7 @@ BO0624_88478,492757,12,14,Badende Madchen. Im Vordergrund eine Gruppe zum Teil e
 BO0624_88478,492758,13,15,"Sandufer, von jungem Mishwald bekront. Links unten bezeicbnet: Peter Bayer 19o9.",70,98.1,False,positional,PETER BAYER,,,,
 BO0624_88478,492759,14,16,Rechts unten bezeichnet:Peter Bayer 19o8.,72,96.4,False,positional,PETER BAYER,,,,
 BO0624_88478,492760,15,17,Hessisches Hirtenmadhen. Auf sonnigem Bergesrucken die junge,76,97.5,False,positional,JACOB BECKER,,,,
-BO0624_88478,492761,16,18,Ansicht von Oberursel.Im Vordergrund zahlreiche Staffage. Im Hintergrund der Taunus mit Feldberg und Altkonig. Links unten bezeicbnet:Peter Becker 1891.Aquarell und Feder 28/43,84,99.4,False,positional,PETER BECKER,,,,
+BO0624_88478,492761,16,18,Ansicht von Oberursel.Im Vordergrund zahlreiche Staffage. Im Hintergrund der Taunus mit Feldberg und Altkonig. Links unten bezeicbnet:Peter Becker 1891.Aquarell und Feder 28/43,84,99.4,False,positional,PETER BECKER,,,,Sec. XIX
 BO0624_88478,492762,17,19,Vor dem Wanderzirkus.Mehrere russishe Bauernkinder am Ein= Rotel und Blei 13/8,88,98.1,False,positional,WILHELM AMANDUS BEER,,OGGETTI IN PIOMBO,,
 BO0624_88478,492763,18,20,"Abshied.Lothringisches Kinderpaar,ruhrseligen Abschied nehmend. Links unten bezeichnet:Emil Beithan 15. Aquarell55/29",93,98.7,False,positional,EMIL BEITHAN,,,,
 BO0624_88478,492764,19,21,Auf der Fahrte. Herren und Damen auf der Parforcejagd. Im Vorder= grund Reiterin mit ihrem Pferd uber Hindernis setzend. Holz39/15 Rechts unten bezeichnet: A.v.Bensa.,97,99.4,False,title_direct,,,Holz,,
@@ -69,7 +69,7 @@ BO0624_88478,492812,67,69,"Ansicht von Venedig. Im Vordergrund die Markussaule. 
 BO0624_88478,492813,68,70,"Nad dem Fruhstudk. Am Tish sitzender Trompeter in rotem, reic gestickten Rodk und Stulpenstiefeln, die lange Tonpfeife in der Hand. Vor sich die Reste eines Austernfruhstuckes, halb gefulltes Glas und",316,99.2,False,title_direct,,,Glas,,
 BO0624_88478,492814,69,71,"## ENRICO GAMBA ,Turin.",326,100.0,False,title_direct,ENRICO GAMBA,,,,
 BO0624_88478,492815,70,72,"Der Shauspieler Friedrid Haase als Graf Thoranc in Kotzebue's Konigsleutnant&amp;,in karminfarbener,reihbestickter Rokokouniform,an kleinem Tishchen mit goldfarbener Dedke sitzend. Holz42/34 Links unten bezeichnet, Gamba. Abbildung Tafel VII",328,99.4,False,title_direct,,,Holz,,
-BO0624_88478,492816,71,73,Bildnis der GroBherzogin Marie von Medklenburg-Strelitz. Aus dem Jahre 1817. Leinwand62/50,331,98.3,False,positional,ERNST GEBAUER,,,,
+BO0624_88478,492816,71,73,Bildnis der GroBherzogin Marie von Medklenburg-Strelitz. Aus dem Jahre 1817. Leinwand62/50,331,98.3,False,positional,ERNST GEBAUER,,,,Sec. XIX
 BO0624_88478,492817,72,74,Shlafender Junge. Den Kopf in die linke Hand gestutzt. Grunliher Hintergrund. Karton auf Holz 27/36,337,98.5,False,title_direct,,,Holz,,
 BO0624_88478,492818,73,75,Hollandishe Wirtshausstube.Lebhaff gestikulierende Manner beim,341,97.6,False,title_direct,,,Holz,,
 BO0624_88478,492819,74,76,Bauernstube. Madhen beim Stridken in Unterhaltung mit ihrem Sdatz. Rechts unten bezeicbnet: A. Giessel. Gegenstuck zum Vorigen.,346,98.8,False,positional,A.GIESSEL,,,,
@@ -98,7 +98,7 @@ BO0624_88478,492841,96,102,"Die Musik. Allegorie. Frauengestalt mit Musikinstrum
 BO0624_88478,492842,97,103,Weiblicher Akt in Landshaft. Auf gruner Wiese liegendes Madcen. Wolkiger Himmel. Leinwand 41/61 Rechts unten bezeicbnet: Albert Keller. Abbildung Tafel V                                                                                                           |,464,98.7,False,positional,ALBERT VON KELLER,,,,
 BO0624_88478,492843,98,104,Weiblicher Halbakt.Nach links liegendes dunkelhaariges Madhen auf rotem Kissen. Leinwand 40/50 Rechts oben bezeicbnet: Afbert v.Keller.                                                                                                                             |,466,98.5,False,positional,ALBERT VON KELLER,,BIANCHERIA,,
 BO0624_88478,492844,99,105,Indishe Tanzerin. Vor grungemustertem Vorhang als Hintergrund tanzendes indisches Madchen in leichtem gelben Schleiergewand. Oben bezeichnet: Albert v.Keller. Leinwand72/33 Abbildung Tafel IV                                                                     |,467,98.9,False,positional,ALBERT VON KELLER,,,,
-BO0624_88478,492845,100,106,Hundekopf. Brauner Setterkopf mit lechzender Zunge. En face. Rechts unten bezeichnet:Ferdinand Keller 1899. Karton 35/25                                                                                                                                            |,469,98.3,False,positional,ALBERT VON KELLER,,,,
+BO0624_88478,492845,100,106,Hundekopf. Brauner Setterkopf mit lechzender Zunge. En face. Rechts unten bezeichnet:Ferdinand Keller 1899. Karton 35/25                                                                                                                                            |,469,98.3,False,positional,ALBERT VON KELLER,,,,Sec. XIX
 BO0624_88478,492846,101,112,"## C.VON KLEIST,Berlin.",475,100.0,False,title_direct,C.VON KLEIST,Scuola di Berlino,,,
 BO0624_88478,492847,102,110,"Stilleben.Auf Tish Messingteller, davor Marmorfigur und rote Blumen. Leinwand59/67",477,97.6,False,title_direct,,,Messing,,
 BO0624_88478,492848,103,111,"Landshaft mit Turmruine. Im Vordergrunde alter Turm auf waldiger Hohe. Links Blick in Tiefebene. Leinwand22,5/29,5 In der Mitt unten bezeicbnet:C.Koch.",483,98.7,False,positional,CARL KOCH,,,,
@@ -109,7 +109,7 @@ BO0624_88478,492852,107,116,Kritik.Atelier-Interieur wie vorher. Vor der Staffel
 BO0624_88478,492853,108,117,Augustabend.Im Vordergrund Stoppelfeld mit Garben. Im Hinter grund gegen den Abendhimmel Gehoff und Obftbaume.Tempera 35/53,507,98.4,False,positional,HERMANN KRUSE,,,,
 BO0624_88478,492854,109,118,"Im Klosterkreuzgang.Von rechts infallende SonnenstrahlenDurh die romanischen Bogen Ausblick auf winterlice Gebirgslandschaf. Einige wartende Ankommlinge, von einem Geistlichen begrubt.",512,98.9,False,positional,JOSEF KUHN,,,,
 BO0624_88478,492855,110,119,Weiblicher Halbakt. Dunkler Typus. Recbts unten bezeichnet:P.Lenning.,519,97.1,False,positional,PAUL LENNING,,,,
-BO0624_88478,492856,111,120,"Althollandisher Edelmann mit Pokalen. Interieur mit Edelmann in reichem Gewand und roter Pluderhose,einen Silberpokal betrachtend. Neben sich noch andere Prunkgefabe. Holz41/26,5 Recbts unten bezeichnet: A.A.Lesvel 1886. Eifeldorf. Landschaft in der Eifel mit Dorf. Karton55/33 Links unten bezeichnet: Conrad Lessing. Jenseits in der Ferne Gebirgszug. Links unten bezeichnet:Conrad Lessing, Berlin.",523,71.1,False,title_direct,LESSING CARL F.,Scuola di Berlino,Holz,,
+BO0624_88478,492856,111,120,"Althollandisher Edelmann mit Pokalen. Interieur mit Edelmann in reichem Gewand und roter Pluderhose,einen Silberpokal betrachtend. Neben sich noch andere Prunkgefabe. Holz41/26,5 Recbts unten bezeichnet: A.A.Lesvel 1886. Eifeldorf. Landschaft in der Eifel mit Dorf. Karton55/33 Links unten bezeichnet: Conrad Lessing. Jenseits in der Ferne Gebirgszug. Links unten bezeichnet:Conrad Lessing, Berlin.",523,71.1,False,title_direct,LESSING CARL F.,Scuola di Berlino,Holz,,Sec. XIX
 BO0624_88478,492857,112,123,Landschaff mit Staffage. Auf Feldweg Bauersfrau mit Kiepe. Im Hintergrund Weidengestrupp. Karton 49/34 Links unten bezeicbnet: M. Liebermann 92.,533,98.6,False,positional,MAX LIEBERMANN,,,,
 BO0624_88478,492858,113,124,Raucher. Behabiger bayrischer Bauer am Tisch sitzend und Pfeife,537,96.9,False,positional,W.LOWITH,,,,
 BO0624_88478,492859,114,125,"Landshaft mit Kuhgespann. Im Vordergrund Wagen mit zwei Kuhen. Links mahender Bauer,rechts Grunfuter ladende Bauerin.Im Hintergrund der Taunus. Leinwand28/48",543,98.7,False,positional,KARLLUCKHARDT,,,,
@@ -122,7 +122,7 @@ BO0624_88478,492865,120,136,Damenportrat.Junges Madchen in tiefausgeschnittenem 
 BO0624_88478,492866,121,137,Madhenportrat.Nath rechts gewandtes Madchen in violett garniertem Hut und ebensolchem Kleid Gegenstudk zum Vorigen. Recbts unten bezeicbnet: A. Millot.                                                                                                                                   |,569,98.7,False,positional,BERNHARD MANNFELD,,,,
 BO0624_88478,492867,122,138,"Alpenrosen. Im Vordergrund ein Bush Alpenrosen, in der Ferne steile Berghange. Leinwand 26/23 Recbts unten bezeichnet: F.v.B.",570,98.4,False,positional,BERNHARD MANNFELD,,,,
 BO0624_88478,492868,123,139,Dorf. LandstraBe und Dorf in Mittagsstimmung. Leinwand 51/32 Rechts unten bezeichnat. W. Moras.,574,97.8,False,positional,WALTER MORAS,,,,
-BO0624_88478,492869,124,140,Die Festung Marseille.Im Vordergrund Meeresbucht und hohes Felsenufer. Im Hintergrund die Festungsmauern. Zahlreiche Fisher= fahrzeuge und Staffage. Leinwand34/47 Links unten bezeicbnet:Carl Morgenstern Ft.a.1842.,578,99.0,False,positional,CARL MORGENSTERN,,,,
+BO0624_88478,492869,124,140,Die Festung Marseille.Im Vordergrund Meeresbucht und hohes Felsenufer. Im Hintergrund die Festungsmauern. Zahlreiche Fisher= fahrzeuge und Staffage. Leinwand34/47 Links unten bezeicbnet:Carl Morgenstern Ft.a.1842.,578,99.0,False,positional,CARL MORGENSTERN,,,,Sec. XIX
 BO0624_88478,492870,125,141,Villa Rocca. Links das offene Meer. Rechts am Strand zahlreide Staffage und Gebaude unter steilem Felsenufer. Leinwand 41/60,582,98.4,False,positional,CARL MORGENSTERN,,,,
 BO0624_88478,492871,126,142,Landshaft aus dem Sabinergebirge. Waldige Gebirgslandshaft mit Teich und Weg mit Staffage. Leinwand32/45 Links unten bezeicbnet:CM* Auf der Rickseite Nadlaβstempel.,587,98.8,False,positional,CARL MORGENSTERN,,,,
 BO0624_88478,492872,127,143,"Stilleben. Vor dunklem Hintergrund auf weibem Tischtuh Aepfel, Krug und Vase mit Maiglodkchen und Veilchen.",591,98.1,False,positional,JOSEF MUHLBECK,,VASI,,
@@ -166,9 +166,9 @@ BO0624_88478,492909,164,180,"Der Prinz von Conde auf der Flucht nah La Rochelle.
 BO0624_88478,492910,165,181,"Portrat eines Forsters. Forster in Hut,Pfeife rauhend. Holz Z2/18",760,96.9,False,title_direct,,,Holz,,
 BO0624_88478,492911,166,182,2AIte Bauerin in bayerisher Nationaltracht. Gegenstudk zum Vorigen.,761,97.0,False,positional,GEORG ROSSLER,,,,
 BO0624_88478,492912,167,183,Freundinnen. Auf Steinbank vor weinbewachsener Mauer zwei junge Madhen. Die Altere flustert ihrer Freundin ein Geheimnis ins Ohr. Recbts unten bezeidnet:Ph. Rumpf. Karton 24/19                                                                                         |,768,98.8,False,positional,PETER PHILIPP RUMPF,,,,
-BO0624_88478,492913,168,185,Karikatur von Altheim. Der Kunstler als Wild Westmann auf dem Feld. Blei38/31 Links unten bezeicbnet:Lino Salini 1914.                                                                                                                                                   |,771,98.3,False,positional,PETER PHILIPP RUMPF,,,,
-BO0624_88478,492914,169,186,Gemusemarkt. In praller Mittagssonne das bunte Gewuhl an den Verkaufsstanden. Im Umkreis Hauserfronten einer italienishen Stadt. Links unten bezeidhnet: Lino Salini 1919. Karton 39/73                                                                                  |,772,98.9,False,positional,PETER PHILIPP RUMPF,,,,
-BO0624_88478,492915,170,187,Kampfende Hirsche. Herbstlandshaft mit der Hirshgruppe im Vordergrund. Leinwand 60/80 Rechts unten bezeidnet: F. Shebeck 1913.                                                                                                                                           |,773,98.4,False,positional,PETER PHILIPP RUMPF,,,,
+BO0624_88478,492913,168,185,Karikatur von Altheim. Der Kunstler als Wild Westmann auf dem Feld. Blei38/31 Links unten bezeicbnet:Lino Salini 1914.                                                                                                                                                   |,771,98.3,False,positional,PETER PHILIPP RUMPF,,,,Sec. XX
+BO0624_88478,492914,169,186,Gemusemarkt. In praller Mittagssonne das bunte Gewuhl an den Verkaufsstanden. Im Umkreis Hauserfronten einer italienishen Stadt. Links unten bezeidhnet: Lino Salini 1919. Karton 39/73                                                                                  |,772,98.9,False,positional,PETER PHILIPP RUMPF,,,,Sec. XX
+BO0624_88478,492915,170,187,Kampfende Hirsche. Herbstlandshaft mit der Hirshgruppe im Vordergrund. Leinwand 60/80 Rechts unten bezeidnet: F. Shebeck 1913.                                                                                                                                           |,773,98.4,False,positional,PETER PHILIPP RUMPF,,,,Sec. XX
 BO0624_88478,492916,171,188,Lowen. Lowin mit drei Jungen. Leinwand50/70 Recdts unten bezeicbnet: F. Shebeck.                                                                                                                                                                                         |,774,97.4,False,positional,PETER PHILIPP RUMPF,,,,
 BO0624_88478,492917,172,190,Mannerkopf. Graubartiger Alter in langwallendem Haar.Holz 60/45 Redts unten bezeicbnet: A. Sdblabitz.                                                                                                                                                                    |,776,98.0,False,title_direct,,,Holz,,
 BO0624_88478,492918,173,191,"Pfugender Bauer. Im Vordergrund Bauer mit Kuh vor dem Pflug. Links am Feldrain stehender blauer Krug. Rechts Kruzifix.Im Hinter grund Dorf. Holz7,5/20 Links unten bezeicbnet: Rob. Schleich. MARTHA SCHMIDT-FRANKEN,Nordhausen.                                         |",777,99.1,False,title_direct,,Famiglia Francken,Holz,,
@@ -191,7 +191,7 @@ BO0624_88478,492934,189,208,sdein auf dem Wasser. Links unten bezeichnet:A.Stade
 BO0624_88478,492935,190,209,"Landshaft mit Staffage. Adker- und Wiesengelande mit Bauern und Vieh. Im Hintergrunde Hausergruppen, Karton 20/43 Recbts unten bezeicbnet: A. St.",833,98.6,False,positional,ADOLF STADEMANN,,,,
 BO0624_88478,492936,191,210,"Nach dem Regen.Hugelige Wiesenlandschaf. Im HintergrundeWald= rand in den ersten Herbstfarben, Leinwand 67/74 Links unten Nacblafstempel. Abbildung Tafel III",837,98.7,False,positional,TONI STADLER,,,,
 BO0624_88478,492937,192,211,"StraBe in Bayreuth.Vor dem Wagnertheater in Bayreuth. Rechts unten bezeichnet: Fried.Stahl, Bayreuth. Aquarell29/37",841,98.2,False,positional,FRITZSTAHL,,OGGETTI IN METALLO,,
-BO0624_88478,492938,193,212,"Ansicht von Baden=Baden. Im Vordergrund Wiesenhang mit Staffage. Drunten im Tal die Stadt,rechts oberhalb das ShloB.Leinwand 65/94 Links unten bezeichnet:V. Staudacber 1897.",845,98.8,False,positional,VITUS STAUDACHER,,,,
+BO0624_88478,492938,193,212,"Ansicht von Baden=Baden. Im Vordergrund Wiesenhang mit Staffage. Drunten im Tal die Stadt,rechts oberhalb das ShloB.Leinwand 65/94 Links unten bezeichnet:V. Staudacber 1897.",845,98.8,False,positional,VITUS STAUDACHER,,,,Sec. XIX
 BO0624_88478,492939,194,213,"Troika in Schneelandschaft,von flinken Pferden gefuhrt.",849,96.4,False,positional,STRILOFFBAUMGARTNER,,,,
 BO0624_88478,492940,195,214,"Hohenzollernyacht bei Kiel. Im Vordergrunde abfahrende Boote, im",854,96.9,False,positional,WILLI STWER,,,,
 BO0624_88478,492941,196,215,Landshaf. Im Vordergrunde blumige Wiese mit grobem Baum. Holz60/47,861,97.0,False,title_direct,,,Holz,,
@@ -279,7 +279,7 @@ BO0624_88478,493022,277,325,"| Nassauer Shrank. Zweiturig, Eice mit Farbholzeinl
 BO0624_88478,493023,278,326,"| Paravent, dreiteilig Muscharabie. 185/180cm                                                                                  |",1083,95.3,False,positional,,,ARREDAMENTI,,
 BO0624_88478,493024,279,327,| Hodermit rotlich gemustertem Seidenbezug.Muscharabie.Hohe 47 cm                                                              |,1084,96.9,False,positional,,,Mobel; Hausrat,,
 BO0624_88478,493025,280,328,"| Tish,Mahagoni-Untergestell.Auf der shwarzen Shieferplatte farbige                                                            |",1085,97.0,False,positional,,,Mobel; Hausrat,,
-BO0624_88478,493026,281,330,"Emaillebrosche,585/1000 Gold.Distelform.",1093,95.1,False,positional,,,OGGETTI IN ORO,,
+BO0624_88478,493026,281,330,"Emaillebrosche,585/1000 Gold.Distelform.",1093,95.1,False,positional,,,OGGETTI IN ORO,,Sec. XI
 BO0624_88478,493027,282,331,Goldener Ring und Haarkette.,1094,93.1,False,positional,,,Mobel; Hausrat,,
 BO0624_88478,493028,283,332,- Goldener Ring.,1096,100.0,False,positional,,,Mobel; Hausrat,,
 BO0624_88478,493029,284,333,Goldenes Armband und Brosche mit romischen Mosaiken.,1097,96.2,False,positional,,,Mobel; Hausrat,,
@@ -308,7 +308,7 @@ BO0624_88478,493051,306,359,"Paar Jardinieren. Silber mit Glaseinsatzen. Hohe je
 BO0624_88478,493052,307,360,"- 361 Breischussel mit Loffel. Silber, in Etui",1136,100.0,False,positional,,,Mobel; Hausrat,,
 BO0624_88478,493053,308,362,"Sehs Serviettenringe: Silber,in Etui. Buketthalter in Form einer Lilie mit Perlmuterstengel. Silber.",1139,76.2,False,positional,,,Mobel; Hausrat,,
 BO0624_88478,493054,309,363,Serviettenring. Silber.,1140,91.3,False,positional,,,Mobel; Hausrat,,
-BO0624_88478,493055,310,367,Shuhshnalle mit Facetteverzierungen. Mit Jahreszahl 1617 und Beschauzeicen. Silber. Kleiner Pokal mit Zierrat und Gravierungen. Silber. Hohe 115 cm,1144,70.8,False,positional,,,Mobel; Hausrat,,
+BO0624_88478,493055,310,367,Shuhshnalle mit Facetteverzierungen. Mit Jahreszahl 1617 und Beschauzeicen. Silber. Kleiner Pokal mit Zierrat und Gravierungen. Silber. Hohe 115 cm,1144,70.8,False,positional,,,Mobel; Hausrat,,Sec. XVII
 BO0624_88478,493056,311,368,Tafelaufsatz. Silber mit Kristallvase. Hohe 48 cm Fruchtschale mit Glasshale und edkigem Shaf. Silber. Hohe 21 cm Paar Leuhter mit Figuren. Renaissancestil. Silber. Hohe je 16 cm,1147,52.5,False,title_direct,,,COPPE,,
 BO0624_88478,493057,312,371,Zukershale mit Renaissance-Ornamenten am FuB. Silber mit Kristallschale. Hohe 19 cm Salz= und Pfeffergestell mit Rubinglasschalen. Silber. Hohe 18cm Salz= und Pfeffergestell mit weibem Glas und Paar Silberloffel. Silber. Hohe 16cm,1149,52.8,False,title_direct,,,Glas,,
 BO0624_88478,493058,313,374,Teebuchse mit grunem silberdekorierten Glas. Hohe14cm 5Medaille des Berliner Kassen-Vereins. Silber. Dm.7cm Silber-Doscen mit figurlicer Darstellung. 5/4cm,1153,50.5,False,title_direct,,Scuola di Berlino,Glas,,
@@ -373,8 +373,8 @@ BO0624_88478,493116,371,440,Hund als Tintenfab. Hohe 17cm,1272,93.3,False,positi
 BO0624_88478,493117,372,441,Diana.Von Barbedienne. Auf Marmorsokel. Hohe70 cm,1274,95.9,False,positional,,,Bronzen,,
 BO0624_88478,493118,373,442,"Venus von Milo. Hohe 30 cm Ashenshale mit Rankenornamenten. Nielliert. Dm.10cm Paar Bronzevaschen mit Reliefblumen. Japan. Hohe je7,5cm",1282,59.6,False,title_direct,,,Bronzen,,
 BO0624_88478,493119,374,445,Medaille auf Charles Hermite v. Chaplain. Dm.7cm,1284,95.8,False,positional,,,Bronzen,,
-BO0624_88478,493120,375,446,"Medaille der Berliner Gewerbe=Ausstellung,1844. Dm.4,5cm",1288,100.0,False,positional,,Scuola di Berlino,Bronzen,,
-BO0624_88478,493121,376,447,"Medaille auf die gefallenen Tiroler 1915-18. In Holzfassung. Dm.3,5cm",1290,97.1,False,title_direct,,,Holz,,
+BO0624_88478,493120,375,446,"Medaille der Berliner Gewerbe=Ausstellung,1844. Dm.4,5cm",1288,100.0,False,positional,,Scuola di Berlino,Bronzen,,Sec. XIX
+BO0624_88478,493121,376,447,"Medaille auf die gefallenen Tiroler 1915-18. In Holzfassung. Dm.3,5cm",1290,97.1,False,title_direct,,,Holz,,Sec. XX
 BO0624_88478,493122,377,448,"Medaille auf Moritz Prash v. Prack. Dm.11,5/8cm",1292,95.7,False,positional,,,Bronzen,,
 BO0624_88478,493123,378,449,Kupferrelief mit zahlreichen erotischen Darstellungen. Franzosisch. 23/20,1294,97.3,False,positional,,,OGGETTI IN RAME,,
 BO0624_88478,493124,379,450,Gefesselter Amor. Hohe44cm Cloisonne-Teekanne. Hohe9 cm Plakette.Madhenkopf.,1298,55.8,False,positional,,,Bronzen,,
@@ -449,7 +449,7 @@ BO0624_88478,493192,447,552,Zwei Girandolen je 5lictig. Bronze. Tascenmesser. Da
 BO0624_88478,493193,448,555,Messer.Feststehend. Das Shildpattheft mit Silberauflagen. Gabel zum Klappen. Das Heft mit Perlmutter und Silberverzierungen. Tashenmesser. Das Heft mit Emailleornamenten.,1537,56.0,False,positional,,,Zinn; Messing,,
 BO0624_88478,493194,449,558,Kugelzange. Eisen.,1539,88.9,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,
 BO0624_88478,493195,450,559,Paar Buchschlieben. Messing. Barodk.,1540,94.3,False,title_direct,,,Messing,,
-BO0624_88478,493196,451,560,Russishes Kreuz. Messing. 18. Jahrhundert.,1541,95.0,False,title_direct,,,Messing,,
+BO0624_88478,493196,451,560,Russishes Kreuz. Messing. 18. Jahrhundert.,1541,95.0,False,title_direct,,,Messing,,Sec. XVIII
 BO0624_88478,493197,452,561,Kleine Bronzefigur. Romisdhe Ausgrabung.,1542,95.0,False,title_direct,,,Bronzen,,
 BO0624_88478,493198,453,562,"Paar Beherglaser,rot und gelb uberfangen,mit Goldrand Hohe je 10 cm   |",1549,97.1,False,positional,,,Glas,,
 BO0624_88478,493199,454,591,"Shalchen.Wie vorher. Dm.12,5cm Likorflashe mit Stopsel.E Bunte Emaillemalerei. Hohe 30 cm Shalhen.Wie vorher. Dm.12cm",1553,67.4,False,positional,,,Glas,,
@@ -472,7 +472,7 @@ BO0624_88478,493215,470,617,"Drei Kristallkannhen. Versch. GroBen,",1605,94.4,Fa
 BO0624_88478,493216,471,618,"Glastasse,Kannhen,Vasen,Z Romer und Fidibushalter.",1607,96.1,False,title_direct,,,VASI,,
 BO0624_88478,493217,472,619,Butter und Kaseglodken mit Tellern. Gebogter Rand. Rubinglas.,1609,96.7,False,positional,,,Glas,,
 BO0624_88478,493218,473,620,"Nahtlamphen, rubinrot,mit Metalfuβ. Hohe19 cm Wasserglas mit Kornblumen im Fond. Bohmisdh. Hohe9 cm Wassrglas,rot berfangen,mit Rheinlandshaften, graviert Hohe 12 cm",1617,57.9,False,positional,,,Glas,,
-BO0624_88478,493219,474,623,"Wasserglas, gelb, gepreBt. Hohe 10 cm Beherglas, graviert, mit Wappen.1770. Hohe 11 cm Venetianisces Glas mit achtedkigem, gemaltem Korpus. Hohe 19 cm",1623,59.9,False,title_direct,,,Glas,,
+BO0624_88478,493219,474,623,"Wasserglas, gelb, gepreBt. Hohe 10 cm Beherglas, graviert, mit Wappen.1770. Hohe 11 cm Venetianisces Glas mit achtedkigem, gemaltem Korpus. Hohe 19 cm",1623,59.9,False,title_direct,,,Glas,,Sec. XVIII
 BO0624_88478,493220,475,626,Doppelglaskanne. Hohe31 cm Glashumpen mit Goldornamenten. Hohe10 cm Glaspokal mit Deckel. Venetianish. Hohe 32 cm,1628,56.4,False,title_direct,,,OGGETTI VARI,,
 BO0624_88478,493221,476,629,"Glasvase.Sehsedig,violett,mit Goldornament. Hohe 20 cm Briefbeschwerer.Vier aufgebaute Kristallkugeln. Hohe 8 cm Vierteilige Blumenvase.Die Kristallbehalter als Blutenkelhe,deren Blatter aus Bronze als Untergestell dienen. Hohe57cm",1634,68.2,False,title_direct,,,Glas,,
 BO0624_88478,493222,477,632,Enghalsvaschen. Weib-roter GlasfluB. Hohe15cm Paar Weinkannen. Grun mit gemalten Blumen. Hohe je32cm Blumenvaschen. Blau mit Gold. Hohe 15cm,1638,55.8,False,title_direct,,,OGGETTI IN ORO,,
@@ -586,7 +586,7 @@ BO0624_88478,493329,584,772,| Tasse. Blau und gold mit Malerei.                 
 BO0624_88478,493330,585,773,| Sechs Tassen mit Untertassen. Japan.                                                                            |                   |,1912,94.4,False,positional,,,Porzellan,,
 BO0624_88478,493331,586,774,"| Zwei Tassen. Japan,                                                                                             |                   |",1913,89.5,False,positional,,,Porzellan,,
 BO0624_88478,493332,587,775,| Drei Tassendedkel.                                                                                              |                   |,1914,89.5,False,positional,,,Porzellan,,
-BO0624_88478,493333,588,776,"| Deckelvase.Urnenformig mit Blumenmalerei,Bodkskopfen als Henkel und Weintrauben auf dem Deckel. Berlin,um 1820. | Hohe 67 cm        |",1915,98.4,False,positional,,Scuola di Berlino,Porzellan,,
+BO0624_88478,493333,588,776,"| Deckelvase.Urnenformig mit Blumenmalerei,Bodkskopfen als Henkel und Weintrauben auf dem Deckel. Berlin,um 1820. | Hohe 67 cm        |",1915,98.4,False,positional,,Scuola di Berlino,Porzellan,,Sec. XIX
 BO0624_88478,493334,589,777,| Paar Dekelvasen mit Malerei und Bronzemontierung. Sevres.                                                       | Hohe je 33cm      |,1916,97.1,False,title_direct,,,Bronzen,,
 BO0624_88478,493335,590,778,| Ovale Shale mit Malerei und Bronzemontierung. Sevres.Hohe 27 cm                                                 |                   |,1917,96.9,False,title_direct,,,Bronzen,,
 BO0624_88478,493336,591,779,| Vase. Weib mit blauen Ranken. Mit Bronzemontierung als elektrische Tishlampe mit weib-blauem Seidenschirm.      | Hohe73 cm         |,1918,98.3,False,title_direct,,,VASI,,
@@ -675,7 +675,7 @@ BO0624_88478,493418,673,895,"Kuchenplatte auf FuB mit Rosendekor Meiben. Hohe 13
 BO0624_88478,493419,674,896,Sechs groBe und 6 kleine Teller mit Gold und blauem Rand. Berlin. Dm.je22 bezw.17cm,2096,97.6,False,positional,,Scuola di Berlino,OGGETTI IN ORO,,
 BO0624_88478,493420,675,897,"Behertasse mit grunem Dekor. Berlin. Zwei Kannen, Zudkerdose, 2 Tassen. Kagaporzellan. Funf diverse Tassen und Untertassen.",2102,55.8,False,title_direct,,Scuola di Berlino,OGGETTI VARI,,
 BO0624_88478,493421,676,900,901 Drei Teller mit Chinadekor etc. Versch.Gr.,2108,100.0,False,positional,,,PIATTI,,
-BO0624_88478,493422,677,902,Kaffeekanne mit Deckel und Landschaften in Purpurmalerei. Franken= thal 1781. Hohe25cm,2112,97.6,False,positional,,Famiglia Francken,OGGETTI VARI,,
+BO0624_88478,493422,677,902,Kaffeekanne mit Deckel und Landschaften in Purpurmalerei. Franken= thal 1781. Hohe25cm,2112,97.6,False,positional,,Famiglia Francken,OGGETTI VARI,,Sec. XVIII
 BO0624_88478,493423,678,903,Tasse mit Untertasse. Szenen mit Amoretten in Farben und gold.,2116,96.8,False,positional,,,OGGETTI IN ORO,,
 BO0624_88478,493424,679,904,Biskuitgruppe. Shahspielende Kinder. Hohe 17cm Kaffeekanne mit Dedkel. Meiben. Hohe23cm Sahnekanne in Form eines Huhnes. Meiben. Hohe 10 cm,2122,53.8,False,positional,,,OGGETTI VARI,,
 BO0624_88478,493425,680,907,Teller. Dunkelblauer Fond mit bunter Kavalierszene und ausgespartem Medaillon.Goldgehohter durchrochener Rand. Meiben.Dm.24 cm,2124,98.4,False,positional,,,PIATTI,,
@@ -737,7 +737,7 @@ BO0624_88478,493480,735,981,| Hohe 6 cm Eimerchen mit Henkeln. Elfenbein.       
 BO0624_88478,493481,736,982,| Dm.5cm Billardkugel.Elfenbein.                                                                                                                                                            |,2246,93.5,False,title_direct,,,Elfenbein,,
 BO0624_88478,493482,737,983,| 40/34cm Intarsienbild.Mannerbrustbild. Farbholzer.                                                                                                                                        |,2247,96.0,False,positional,,,Holz; Elfenbein,,
 BO0624_88478,493483,738,984,| Ladktablett. Schwarz mit farbiger hinesischer Familienszene.41/52 cm                                                                                                                      |,2248,97.1,False,positional,,,Holz; Elfenbein,,
-BO0624_88478,493484,739,985,| Notizbuh des Karl Nemetz.1830-1840. Rotes Leder mit Gold= stickerei.                                                                                                                      |,2249,97.0,False,positional,,,OGGETTI IN ORO,,
+BO0624_88478,493484,739,985,| Notizbuh des Karl Nemetz.1830-1840. Rotes Leder mit Gold= stickerei.                                                                                                                      |,2249,97.0,False,positional,,,OGGETTI IN ORO,,Sec. XIX
 BO0624_88478,493485,740,986,| Hohe57cm Apostelfigur mit Bemalung.Vollrund. Barock. Hohe10 cm                                                                                                                            |,2250,96.8,False,positional,,,Holz; Elfenbein,,
 BO0624_88478,493486,741,987,| Paar Elfenbeinfiguren. Japanerinnen.                                                                                                                                                      |,2251,94.4,False,title_direct,,,Elfenbein,,
 BO0624_88478,493487,742,988,"| Hohe5,5cm Pilger. Elfenbein geschnitzt.                                                                                                                                                   |",2252,94.9,False,title_direct,,,Elfenbein,,
@@ -758,10 +758,10 @@ BO0624_88478,493501,756,1012,"Lichtschirm.Vierteilig mit farbigem Chinadekor auf
 BO0624_88478,493502,757,1015,"Emailleplatte, gemalt. Psyhe mit Amoreten. Monogrammiert ST. Gerahmt. 8,5/15cm StrauBfederfacer. Schwarz mit Shildpattgestell. Spinnrad.",2305,70.9,False,positional,,,Holz; Elfenbein,,
 BO0624_88478,493503,758,1018,"Schiffsmodell. Holz und Tauwerk. Hohe 130,Lange 130 cm Photo=Album.Auf dem Deckel auf blauem Feld feingeschnitzte Auflegearbeit in Elfenbein und Perlmutter. Vogel,Blumen und Schmetterlinge. Japan. 27/36cm Paar russische Heiligenbilder. Auf Holzplaten gemalt.Orna= mentierte Goldgrundierung. Je26,5/22cm",2315,67.4,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_88478,493504,759,1021,Studk Seidenstidkerei.Blumenbuket in Vase.Biedermeier.40/28 cm Ovales Goldrahmcen. Holzgeschnitzt. 13/11cm Zigarrenetui. Leder mit Perlstikerei.,2319,59.9,False,title_direct,,Biedermeier,Holz,,
-BO0624_88478,493505,760,1024,"Pendule.Mahagoni 18.Jahrh. Hohe 40 cm Zwei Wandappliquen, je Zlihtig mit Spiegeln. Desgl. Holz vergoldet. 18. Jahrh. Hohe58cm",2327,54.5,False,title_direct,,,Holz,,
+BO0624_88478,493505,760,1024,"Pendule.Mahagoni 18.Jahrh. Hohe 40 cm Zwei Wandappliquen, je Zlihtig mit Spiegeln. Desgl. Holz vergoldet. 18. Jahrh. Hohe58cm",2327,54.5,False,title_direct,,,Holz,,Sec. XVIII
 BO0624_88478,493506,761,1027,"Stellspiegel,rund, von einer Engelfigur getragen. Holz geschnitzt, reich vergoldet. Hohe 64cm Ladkdose mit Stobwassermalerei. Hohe9,Dm.10cm Ovaler Holzrahmen,geschnitzt. Lidte GroBe 18/24 cm",2330,64.0,False,title_direct,,,Holz,,
 BO0624_88478,493507,762,1030,"Desgl. mit Stobwassermalerei. Fabriegel, geschnitzt,18.Jahrh. Elfenbeinminiatur. Sitzendes Kind mit Blumen, Dm.7cm",2340,63.8,False,title_direct,,,Elfenbein,,
-BO0624_88478,493508,763,1033,"NuBknadker, geshnitzt, 19. Jahrh.",2342,92.1,False,positional,,,Holz; Elfenbein,,
+BO0624_88478,493508,763,1033,"NuBknadker, geshnitzt, 19. Jahrh.",2342,92.1,False,positional,,,Holz; Elfenbein,,Sec. XIX
 BO0624_88478,493509,764,1034,Marmorbuste von Ph. Hamburger. Maddhenkopf. Hohe 33cm,2344,95.2,False,positional,,,Holz; Elfenbein,,
 BO0624_88478,493510,765,1035,"Kissen, Seide gestidkt. Japan.",2346,91.5,False,positional,,,BIANCHERIA,,
 BO0624_88478,493511,766,1036,"Desgl. Seide mit Blumen gemalt. Elfenbeinminiatur. Bildnis eines Fursten.In silbervergoldetem, gravierten Rahmen. Dm.5cm Zwei Divan=Kissen.",2350,77.1,False,title_direct,,,BIANCHERIA,,
@@ -782,19 +782,19 @@ BO0624_88478,493525,780,1056,Kleiner Gotze. Porzellan. Chinesisch. Hohe6cm,2394,
 BO0624_88478,493526,781,1057,Japan=Metallspiegel in Laketui.,2396,92.3,False,positional,,,Holz; Elfenbein,,
 BO0624_88478,493527,782,1058,Paar Holz=Paneele.Geschnitzt.,2398,91.8,False,title_direct,,,Holz,,
 BO0624_88478,493528,783,1059,Syrischer Rauhtisc.Platte mit Arabesken.Das Gestell geschnitzt und mit Perlmutt eingelegt. Dm.65cm,2402,100.0,False,positional,,,Holz; Elfenbein,,
-BO0624_88478,493529,784,1061,"| Fol. Konvolut.19 Blat aus der Botanik,um 1840. Aquarell 40                                                      |",2409,95.7,False,positional,,,Kunstblatter; Bucher,,
+BO0624_88478,493529,784,1061,"| Fol. Konvolut.19 Blat aus der Botanik,um 1840. Aquarell 40                                                      |",2409,95.7,False,positional,,,Kunstblatter; Bucher,,Sec. XIX
 BO0624_88478,493530,785,1062,| Konvolut. 59 Portrats. Lithos und Stice. 4und80                                                                 |,2410,94.6,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493531,786,1063,| Vier Pferdebilder. Aquatinta4                                                                                   |,2411,91.8,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493532,787,1064,"| Konvolut. Z3 diverse Blatter,Verschiedene Groben.                                                               |",2412,94.9,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493533,788,1065,| Die alten Franken.Vier Blat Kupferstice. 40                                                                     |,2414,94.4,False,positional,,Famiglia Francken,Kunstblatter; Bucher,,
-BO0624_88478,493534,789,1066,1067 | 44 Stadteansichten.Kupferstice.Vershiedene GroBen                                                               |,2415,95.6,False,positional,,,Kunstblatter; Bucher,,
+BO0624_88478,493534,789,1066,1067 | 44 Stadteansichten.Kupferstice.Vershiedene GroBen                                                               |,2415,95.6,False,positional,,,Kunstblatter; Bucher,,Sec. XI
 BO0624_88478,493535,790,1068,| Konvolut.5 Blat kolorierte Kostumbilder. Konvolut. 12 Handzeichnungen von F.Rumpf                               |,2416,96.9,False,positional,,,Kunstblatter; Bucher,,
-BO0624_88478,493536,791,1069,1070 | Fol. Konvolut. 13 Blatt Portrats. Lithos. 40 Konvolut. 7 Landscaften und Tierzeichnungen nach alten Hollandern  |,2417,97.8,False,positional,,,Kunstblatter; Bucher,,
-BO0624_88478,493537,792,1071,| schiedene Groben.                                                                                               | 1075 | Fol. Konvolut. 17 Blatt Kupferstiche aus der romischen Geschichte. Fol.                                         |,2419,88.0,False,positional,,,OGGETTI IN RAME,,
-BO0624_88478,493538,793,1072,1073 | Konvolut. 13 Blatt Handzeichnungen und Tuschmalereien. Ver=                                                     |,2420,96.1,False,positional,,,Kunstblatter; Bucher,,
+BO0624_88478,493536,791,1069,1070 | Fol. Konvolut. 13 Blatt Portrats. Lithos. 40 Konvolut. 7 Landscaften und Tierzeichnungen nach alten Hollandern  |,2417,97.8,False,positional,,,Kunstblatter; Bucher,,Sec. XI
+BO0624_88478,493537,792,1071,| schiedene Groben.                                                                                               | 1075 | Fol. Konvolut. 17 Blatt Kupferstiche aus der romischen Geschichte. Fol.                                         |,2419,88.0,False,positional,,,OGGETTI IN RAME,,Sec. XI
+BO0624_88478,493538,793,1072,1073 | Konvolut. 13 Blatt Handzeichnungen und Tuschmalereien. Ver=                                                     |,2420,96.1,False,positional,,,Kunstblatter; Bucher,,Sec. XI
 BO0624_88478,493539,794,1076,| Fol. Fol.                                                                                                       |,2422,73.7,False,positional,,,Kunstblatter; Bucher,,
-BO0624_88478,493540,795,1077,"1078 | C.F.Mylius,KaisersbergindenVogesen.Bezeid.Aquarell 15/20cm 一 Pfungst in Tirol. Bezeichnet. Aquarell 12,5/18,5cm |",2424,97.9,False,positional,,Scuola Tirolese,Kunstblatter; Bucher,,
-BO0624_88478,493541,796,1079,1080 | 一 ScloB Brunn im Altmuhltal. Bezeihnet. Aquarell 21/16 cm Muhle. Bezeichnet und datiert. Aquarell 22/14cm 1     |,2425,97.7,False,positional,,,Kunstblatter; Bucher,,
+BO0624_88478,493540,795,1077,"1078 | C.F.Mylius,KaisersbergindenVogesen.Bezeid.Aquarell 15/20cm 一 Pfungst in Tirol. Bezeichnet. Aquarell 12,5/18,5cm |",2424,97.9,False,positional,,Scuola Tirolese,Kunstblatter; Bucher,,Sec. XI
+BO0624_88478,493541,796,1079,1080 | 一 ScloB Brunn im Altmuhltal. Bezeihnet. Aquarell 21/16 cm Muhle. Bezeichnet und datiert. Aquarell 22/14cm 1     |,2425,97.7,False,positional,,,Kunstblatter; Bucher,,Sec. XI
 BO0624_88478,493542,797,1081,| Shwarzwaldhaus. Bezeicnet. Aquarell 19/11 cm Altes Haus in Bacharach. Bezeichnet.                               |,2426,96.9,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493543,798,1082,"| Sepia 19,5/13cm                                                                                                 |",2427,85.7,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493544,799,1083,| 一 Harburg an der Wornitz. Bezeichnet. 一                                                                         |,2428,93.7,False,positional,,,Kunstblatter; Bucher,,
@@ -806,7 +806,7 @@ BO0624_88478,493549,804,1088,| Seds asiatishe Typen. Handkoloriert. Qu.8        
 BO0624_88478,493550,805,1090,|                                                                                                                 |,2434,0.0,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493551,806,1091,| Wirtshausszene. Stahlstid nad Teniers. 40.                                                                      |,2435,94.0,False,positional,TENIERS DAVID IL GIOVANE,,Kunstblatter; Bucher,,
 BO0624_88478,493552,807,1089,|                                                                                                                 |,2436,0.0,False,positional,,,Kunstblatter; Bucher,,
-BO0624_88478,493553,808,1093,Im Atelier. Stahlstih nah A.v.Ostade. 1095 J.H.Roos.Drei Blatt Portrats. Frankfurter Gelehrte. Kupferstiche von Heintzelmann und Kilian. Fol.,2443,84.6,False,positional,ADRIAEN VAN OSTADE,,OGGETTI IN RAME,,
+BO0624_88478,493553,808,1093,Im Atelier. Stahlstih nah A.v.Ostade. 1095 J.H.Roos.Drei Blatt Portrats. Frankfurter Gelehrte. Kupferstiche von Heintzelmann und Kilian. Fol.,2443,84.6,False,positional,ADRIAEN VAN OSTADE,,OGGETTI IN RAME,,Sec. XI
 BO0624_88478,493554,809,1094,Im Dorfwirtshaus. Gegenstudk zum Vorigen.,2445,94.0,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493555,810,1096,Zwei Kostumblatter von Osterreid und Preuben. Koloriert. Fol.,2447,95.9,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493556,811,1097,Stridkunterricht.Feiner Stahlstid.Gerahmt. 14/12cm,2449,95.1,False,positional,,,Kunstblatter; Bucher,,
@@ -814,14 +814,14 @@ BO0624_88478,493557,812,1098,In der Dorfscule. Gegenstuck zum Vorigen.,2451,94.0
 BO0624_88478,493558,813,1099,"Masters of English Landscape painting.J.S. Cotman,David",2453,95.6,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493559,814,1100,Aus der Geschichte des Inkas.Von Marige nach Barbie. Blatt.,2459,95.8,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493560,815,1101,The Continence of the Chevalier Bayard. Schabkunstblatt. Fol.,2461,95.9,False,positional,,,STAMPE E INCISIONI,,
-BO0624_88478,493561,816,1102,Receuild'Antiquites.Paris 1761.7Ganzlederbande.m.826Kupferst.,2463,96.0,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88478,493561,816,1102,Receuild'Antiquites.Paris 1761.7Ganzlederbande.m.826Kupferst.,2463,96.0,False,positional,,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_88478,493562,817,1103,Die Kunst. Kunstzeitschrif. 4 Bde. Folio.,2465,93.7,False,positional,,,Kunstblatter; Bucher,,
-BO0624_88478,493563,818,1104,P.Kolben. Beschreibung des afrikanischen Vorgebirges der Guten Hoffnung.1719. Ganzlederband mit Kupfern. Fol.,2467,97.7,False,positional,,,OGGETTI IN RAME,,
+BO0624_88478,493563,818,1104,P.Kolben. Beschreibung des afrikanischen Vorgebirges der Guten Hoffnung.1719. Ganzlederband mit Kupfern. Fol.,2467,97.7,False,positional,,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88478,493564,819,1105,"Lustige Blatter,Kriegsnummern.Vollstandige Sammlung. 9 Bde. mit 3 Einbanddeken.",2469,96.8,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493565,820,1106,Dohme. Kunst und Kunstler Italiens. 3 Bde. Illustriert.,2471,95.3,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493566,821,1107,Mappe mit 36 Bildern aus dem Radfahrerleben.,2473,94.5,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493567,822,1108,A.Carnegie. Kaufmanns Herrschgewalt.,2475,93.2,False,positional,,,Kunstblatter; Bucher,,
-BO0624_88478,493568,823,1109,"Grupp. Kulturgeschichte der romischen Kaiserzeit,Z Bde. Goethe.Tagebuh der Italienishen Reise. Ganzleder, Luxusausg. Plensk. Chirurgische Pharmacie. 1787.",2479,55.8,False,positional,,,Kunstblatter; Bucher,,
+BO0624_88478,493568,823,1109,"Grupp. Kulturgeschichte der romischen Kaiserzeit,Z Bde. Goethe.Tagebuh der Italienishen Reise. Ganzleder, Luxusausg. Plensk. Chirurgische Pharmacie. 1787.",2479,55.8,False,positional,,,Kunstblatter; Bucher,,Sec. XVIII
 BO0624_88478,493569,824,1112,Henny Barbusse.Der Schimmer im Abgrund.Denkwurdigkeiten aus dem Leben Leopold von Gerlac. Z. Bde.,2483,97.4,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493570,825,1113,Teuerdank.Fahrten und Traume deutscher Maler. 7 Hefte mit je 10-12 Zeichnungen. Fol.,2485,97.0,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493571,826,1114,Netto. Papiershmetterlinge aus Japan. Illustriert.,2487,94.9,False,positional,,,Kunstblatter; Bucher,,
@@ -830,21 +830,21 @@ BO0624_88478,493573,828,1116,Klassiker der Kunst. Band XIX Liebermann.,2493,94.0
 BO0624_88478,493574,829,1117,Moritz Busch.Tagebuchblatter.3 Bde.,2495,93.2,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493575,830,1118,Makenzie Wallace. RuBland. Z Bde.,2497,92.3,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493576,831,1119,Aug. Sperl. Castell. Bilder aus der Vergangenheit.,2499,94.8,False,positional,,,FOTOGRAFIE,,
-BO0624_88478,493577,832,1120,H. Ondken.Historisch politishe Aufsatze 1914. Z Bde.,2501,95.1,False,positional,,,Kunstblatter; Bucher,,
+BO0624_88478,493577,832,1120,H. Ondken.Historisch politishe Aufsatze 1914. Z Bde.,2501,95.1,False,positional,,,Kunstblatter; Bucher,,Sec. XX
 BO0624_88478,493578,833,1121,M.Maeterlindk. Das Leben der Biene.,2503,93.0,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493579,834,1122,Fr.Spielhagen.Was wird das werden? 3 Bde.,2505,94.0,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493580,835,1123,Mantegassa. Physiologie der Liebe. Shliemann.Trojanisce Altertumer. —Hygiene der Liebe.,2509,54.2,False,positional,,,ANTICHITA',,
 BO0624_88478,493581,836,1126,Samson=Hedenstjerna. RuBland unter Alexander IIl.,2513,94.9,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493582,837,1127,Paul v. Gizyki.Das Weib.,2515,89.8,False,positional,,,Kunstblatter; Bucher,,
-BO0624_88478,493583,838,40,- 1128 Fr. Naumann. Miteleuropa.,2518,100.0,False,positional,,,Kunstblatter; Bucher,,
+BO0624_88478,493583,838,40,- 1128 Fr. Naumann. Miteleuropa.,2518,100.0,False,positional,,,Kunstblatter; Bucher,,Sec. XII
 BO0624_88478,493584,839,1130,M.Prevost. Erblic belastet F.Dielmann.Aibum der Taunusbader.,2520,69.5,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493585,840,1131,M. Conrad. Fantasio. M. Nordau. Krankheit des Jahrhunderts. Z Bde. —Pumpanella.,2522,72.4,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493586,841,1134,Vehling. Die Moral des Hotels. Furtwangler. Denkmal romisher und griechischer Skulptur. H.v.Hofmannstal. Tor und Tod.,2525,64.7,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493587,842,1137,Showalta. Lebenserinnerungen des Prasidenten Paul Kruger. Ben Viljoen. Die Transvaaler im Krieg gegen England. A. de Wet. Die Buren in der Kapkolonie im Kampf gegen England,2529,52.2,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493588,843,1140,"Byron. Poetical works. Ausg. in 1 Bd,",2530,93.0,False,positional,,,Kunstblatter; Bucher,,
-BO0624_88478,493589,844,1141,- 1142 Mrs.Wood. The Channings.,2532,100.0,False,positional,,,Kunstblatter; Bucher,,
-BO0624_88478,493590,845,1143,- 1144 Victor Hugo. Histoire d'un crime.,2534,100.0,False,positional,,,Kunstblatter; Bucher,,
+BO0624_88478,493589,844,1141,- 1142 Mrs.Wood. The Channings.,2532,100.0,False,positional,,,Kunstblatter; Bucher,,Sec. XII
+BO0624_88478,493590,845,1143,- 1144 Victor Hugo. Histoire d'un crime.,2534,100.0,False,positional,,,Kunstblatter; Bucher,,Sec. XII
 BO0624_88478,493591,846,1145,"G. de Maupassant.Bel-ami. F.Freiligrath.The Rose, Thistle and Shamrock. Boccaccio. ll Decamerone.",2538,63.3,False,positional,,,Kunstblatter; Bucher,,
 BO0624_88478,493592,847,1148,Borces. Aibum lyrique de la France Moderne. Ch.Griet.DeutshEnglisces und EnglischDeutsches Worterbudh 2'Bde. P.Heyse. Antologia dei moderni poeti italiani,2541,58.7,False,positional,,,Kunstblatter; Bucher,,
-BO0624_88478,493593,848,1151,"Weidenmann. Collegium Chirurgium Universale. Augspurgy 1734. Pergamentband. Ullsteins Weltgeschichte, 6 Bande. Prasident Stein und die Freistaaten im Kampf gegen England.",2543,59.4,False,positional,,,Kunstblatter; Bucher,,
+BO0624_88478,493593,848,1151,"Weidenmann. Collegium Chirurgium Universale. Augspurgy 1734. Pergamentband. Ullsteins Weltgeschichte, 6 Bande. Prasident Stein und die Freistaaten im Kampf gegen England.",2543,59.4,False,positional,,,Kunstblatter; Bucher,,Sec. XVIII
 BO0624_88478,493594,849,1154,Georg Ebers. Aegypten in Bild und Wort. Z Goldshnit-Bande. Luxusausgabe.,2546,96.5,False,positional,,,Kunstblatter; Bucher,,

@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88776,563578,1,18,Jahrhundert,5,88.0,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_88776,563579,2,2,"Halfte des 17. Jahrhunderts In der Ge m aldegalerie. Ein grober Raum,an den Wanden zahlreiche Gemalde, Kavaliere und Damen als Besucher,links an einem mit Kunstwerk bedeckten Tisch eine Malerin.",15,92.4,False,positional,,VLAMISCHE SCHULE,,,
+BO0624_88776,563579,2,2,"Halfte des 17. Jahrhunderts In der Ge m aldegalerie. Ein grober Raum,an den Wanden zahlreiche Gemalde, Kavaliere und Damen als Besucher,links an einem mit Kunstwerk bedeckten Tisch eine Malerin.",15,92.4,False,positional,,VLAMISCHE SCHULE,,,Sec. XVII
 BO0624_88776,563580,3,3,"Orp heus un d die Tiere. Der Sanger unter einem Baum, in der Waldhigellandschaft Tiere aller Gattungen.",23,99.0,False,positional,JAN VAN KESSEL I.,,,,
 BO0624_88776,563581,4,4,Se gels c hif fe auf leichtbewegter See.,29,97.5,False,positional,ABRAHAM STORCK,,,,
 BO0624_88776,563582,5,10,"Maria auf W olken in anbetender Stellung, auf zwei Engels- kopfe niederblickend.",74,82.4,False,positional,PIETER VAN DER WERFF,,,,
@@ -26,13 +26,13 @@ BO0624_88776,563601,24,31,"Der Sa tyr im Bauern haus. In einem groBen Scheunenra
 BO0624_88776,563602,25,32,"See s c hla c h t. Zwei Fronten grober Kriegsschiffe - im Vordergrund die hollandischen , sind gegeneinander vorgefahren; vorn rechts viele Boote um ein sinkendes Kriegsschiff beschaftigt. Holz.Gr.87X124cm.G.-R.",262,99.3,False,positional,,HOLLANDISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88776,563603,26,33,"Allegorie des Wassers. Unter einem Baum Amphitrite,",268,97.0,False,positional,HENDRIK VAN BALEN; JAN BRUEGHEL,,,,
 BO0624_88776,563604,27,34,"Der H i h ner hof. In der Mitte des Bildes drei weibgraue Ganse, rechts Hahn,Hennen und Kaninchen, links Enten.",276,72.1,False,positional,DOMENICO BRANDI,,,,
-BO0624_88776,563605,28,35,Ein gefleckter Jagdhun d halt seine Pfote auf einem Stuck 1678 Antwerpen,288,86.4,False,positional,PAUL DE VOS,,,,
+BO0624_88776,563605,28,35,Ein gefleckter Jagdhun d halt seine Pfote auf einem Stuck 1678 Antwerpen,288,86.4,False,positional,PAUL DE VOS,,,,Sec. XVII
 BO0624_88776,563606,29,36,"Reiter halt vor dem Wirts haus. Mehrere Pferde an einer Krippe,neben einem Schimmelreiter eine Magd. Hinter der Gruppe hoher Baum, links weite Ebene.",300,99.0,False,positional,BAREND GAEL,,OGGETTI VARI,,
 BO0624_88776,563607,30,37,"Hollandische LandstraBe nach dem Regen. Rechts und links lockerer Wald, auf dem Wege Jager mit Jagdburschen und Hunden sowie Schafe und Hirt; links Rastende. Blick auf die fernen Hugel.",310,99.2,False,positional,JAN LOOTEN,,,,
 BO0624_88776,563608,31,38,"A be n dla n d s c ha f t. Ein von Bergen umgebenes FluBtal, rechts",318,97.7,False,positional,JAN GABRIELSZ SONJE,,,,
 BO0624_88776,563609,32,39,"Brustbild einer blonden jungen Frisur, in weiBem,ausgeschnittenem Kleid.",332,97.9,False,positional,JOSEPH FR.AUG.DARBES,,,,
 BO0624_88776,563610,33,2,Dame mit hoher,333,93.3,False,positional,JOSEPH FR.AUG.DARBES,,,,
-BO0624_88776,563611,34,1735,1822 St.Petersburg,340,87.8,False,positional,DMITRI LEWITZKI,,,,
+BO0624_88776,563611,34,1735,1822 St.Petersburg,340,87.8,False,positional,DMITRI LEWITZKI,,,,Sec. XIX
 BO0624_88776,563612,35,40,"Die Grafin Kutaisso wa als Kind. Brustbild von vorn,in pistaziengruinem Kleid und weibem Fischi. Ovale, gemalte Nische. Abb.Tafel 22. Lwd.Gr.66X50cm.G.R.",343,77.7,False,positional,DMITRI LEWITZKI,,,,
 BO0624_88776,563613,36,41,"Bildnis einer vornehmen polnischen Dame mit graugepudertem Haar; das rote Kleid mit einem schwarzen, goldbordierten Kragen besetzt und reicher Goldverschnirung geschlossen.",344,99.1,False,positional,DMITRI LEWITZKI,,,,
 BO0624_88776,563614,37,42,"Landschaft mit Hirten. Ein Hirt in weibem Hemd fuhrt eine helibraune Kuh fort,neben ihm eine Hirtin und ein anderer Hirt mit Ziegen und Schafen. Waldlandschaft.",352,99.1,False,positional,ADRIAEN VAN DE VELDE,,,,
@@ -93,13 +93,13 @@ BO0624_88776,563668,91,2,Augustinus u.a. Unter dem Thron vier musizierende Engel
 BO0624_88776,563669,92,14,Jahrhundert,868,88.0,False,positional,,FLORENTINISCHE SCHULE,,,
 BO0624_88776,563670,93,94,Maria thronend En geIn. Goldgrund.,871,95.5,False,positional,,FLORENTINISCHE SCHULE,,,
 BO0624_88776,563671,94,95,"Herkulesim Garten der Hes periden. Rechts der Held,",880,97.0,False,positional,,FLORENTINISCHE SCHULE,,,
-BO0624_88776,563672,95,96,"Bildnis eines venezianischen Nobile aus der Fa m ilie Con tarini. Herr in dunkelbraunem Vollbart; Halbfigur in rotem, pelzbesetztem Sammetrock,aus dem die Hande hervorsehen. Grauer Grund. Inschrift: 1553 Weimar",892,96.2,False,positional,JACOPO BASSANO,,,,
+BO0624_88776,563672,95,96,"Bildnis eines venezianischen Nobile aus der Fa m ilie Con tarini. Herr in dunkelbraunem Vollbart; Halbfigur in rotem, pelzbesetztem Sammetrock,aus dem die Hande hervorsehen. Grauer Grund. Inschrift: 1553 Weimar",892,96.2,False,positional,JACOPO BASSANO,,,,Sec. XVI
 BO0624_88776,563673,96,97,"ChurfurstFriedrichder Weisevon Sachsen. Brustbild nach rechts mit schwarzem Barett und einer gruinbraunen zobelbesetzten Schaube, die das weibe hochgeschlossene Faltenhemd und die schwarze Weste sehen laBt. WeiBes lockiges Haar und Vollbart. Blaugriiner Grund, oben zwei Wappen (das Sachsische und die Churschwerter), sowie die Inschrift:VERBVM DOMINI MANET IN AETERNVM und ein lateinischer Hexameter.",906,99.6,False,positional,LUCAS CRANACH,,,,
 BO0624_88776,563674,97,98,"Die Gra bleg u ng. Der Leichnam Christi in starker Verkirzung wird von der Maria und Magdalena gehalten, neben ihnen steht Johannes. Zu den FiBen eine Jungfrau, der zwei andere hinter ihr stehende Binden und Salben bringen.",929,99.3,False,positional,PETER PAUL RUBENS,,,,
 BO0624_88776,563675,98,99,F a m ilenbild. Der Vater an einem Tisch sitzend gibt ein Gebetbuch einem links neben ihm stehenden kleinen Knaben;hinter dem die bereits erwachsene Tochter und ein Sohn miteinander sprechen.,947,78.5,False,positional,QUIRYN BREKELENKAM,,,,
 BO0624_88776,563676,99,100,"Ein Kir c he n in n e re s. In der Tiefe der Chor, an einem Mittelpfeiler die Kanzel. Reiche Staffage, vorn ein rot- und ein schwarz gekleideter Mann in Unterhaltung.",956,87.3,False,positional,EMANUELDE WITTE,,,,
 BO0624_88776,563677,100,101,"Venezianische Landschaft;rechts eine hohe Saule, ein freistehendes Grabmal und ein Palast;in der Mitte Blick auf das Meer, links ein Wirtshaus. Staffage.",968,79.0,False,positional,FRANCESCO GUARDI,,,,
-BO0624_88776,563678,101,102,"Bildnis eines Ehe paares. Links der Mann in schwarzem Gewand und mit schwarzem Barett, einen Brief in der erhobenen linken Hand haltend,der die Worte HOMO NVNQVAM tragt. Links die Gattin in grauem Gewand und weibem Spitzenhemd,um den Hals eine Perlenkette,im linken Arm ein weibes SchoBhindchen. Auf dem Haupt tragt sie eine breitrandige Kopfbedeckung aus braunem Stoff mit geschlagenen Goldornamenten durchflochten. Die rechte Hand legt sie auf die Schulter ihres Gatten. Der Tisch zwischen beiden ist mit einem roten,buntgemusterten persischen Teppich bedeckt,auf dem auch ein Eichhornchen liegt,auf das der Mann mit dem rechten Zeigefinger hinweist. Hinter der Frau griner Vorhang, links Blick auf eine Abendlandschaft. m Verzeichnis der Eremitage von 1859 aufgefiihrt.",979,96.4,False,positional,LORENZO LOTTO,,,,
+BO0624_88776,563678,101,102,"Bildnis eines Ehe paares. Links der Mann in schwarzem Gewand und mit schwarzem Barett, einen Brief in der erhobenen linken Hand haltend,der die Worte HOMO NVNQVAM tragt. Links die Gattin in grauem Gewand und weibem Spitzenhemd,um den Hals eine Perlenkette,im linken Arm ein weibes SchoBhindchen. Auf dem Haupt tragt sie eine breitrandige Kopfbedeckung aus braunem Stoff mit geschlagenen Goldornamenten durchflochten. Die rechte Hand legt sie auf die Schulter ihres Gatten. Der Tisch zwischen beiden ist mit einem roten,buntgemusterten persischen Teppich bedeckt,auf dem auch ein Eichhornchen liegt,auf das der Mann mit dem rechten Zeigefinger hinweist. Hinter der Frau griner Vorhang, links Blick auf eine Abendlandschaft. m Verzeichnis der Eremitage von 1859 aufgefiihrt.",979,96.4,False,positional,LORENZO LOTTO,,,,Sec. XIX
 BO0624_88776,563679,102,103,"Der Geflu gelho f. Puthahn, Gans, Huhner und Tauben.",995,96.0,False,positional,JACOMO VICTOR,,,,
 BO0624_88776,563680,103,104,Bildnis einer vornehmen Dame in weibem Seidenkleid mit Brokatstreifen. Kniestiick.,1003,97.6,False,positional,GIO ANTONIO FASOLO,,,,
 BO0624_88776,563681,104,105,"M a n n li c he s Bildnis. Kniestick. Ein junger Mann in blonder Allongepericke in weitem, braunlichem, gelbgefittertem Seidenmantel. Die Linke iber die Lehne eines Sessels gelegt.",1012,78.0,False,positional,NICOLAES MAES,,,,
@@ -119,7 +119,7 @@ BO0624_88776,563694,117,122,MAHAGONI-KOMMODE,1101,88.9,False,positional,DAMIANI,
 BO0624_88776,563695,118,123,"BOUDOIRTISCHCHEN,",1107,88.9,False,positional,DAMIANI,,,,
 BO0624_88776,563696,119,124,"SESSEL,",1111,75.0,False,positional,DAMIANI,,,,
 BO0624_88776,563697,120,125,"LEHNSTUHL,",1119,81.8,False,positional,DAMIANI,,SCOMPARTI,,
-BO0624_88776,563698,121,1,Halfte 18. Jahrh.,1125,93.8,False,positional,DAMIANI,Scuola Napoletana,,,
+BO0624_88776,563698,121,1,Halfte 18. Jahrh.,1125,93.8,False,positional,DAMIANI,Scuola Napoletana,,,Sec. XVIII
 BO0624_88776,563699,122,46,Franzosisch.,1129,100.0,False,positional,DAMIANI,Scuola Fiamminga,,,
 BO0624_88776,563700,123,126,SCHREIBPULT,1130,84.6,False,positional,DAMIANI,,,,
 BO0624_88776,563701,124,127,"KONSOLTISCH,",1138,84.6,False,positional,DAMIANI,,,,
@@ -141,7 +141,7 @@ BO0624_88776,563716,139,138,SCHREIBTISCH AUS MAHAGONIHOLZ,1239,93.5,False,positi
 BO0624_88776,563717,140,139,RUNDER TISCH AUS MAHAGONIHOLZ,1245,93.5,False,positional,DAMIANI,,,,
 BO0624_88776,563718,141,140,EMPIRE-KONSOLTISCH,1253,90.0,False,positional,DAMIANI,,,,
 BO0624_88776,563719,142,141,SCHATULLE,1257,81.8,False,positional,DAMIANI,,,,
-BO0624_88776,563720,143,142,GROSSER HOLZGESCHNITZTER UND VERGOLDETER SPIEGEL- Halfte 18. Jahrh. Abb.Tafel 96.,1265,74.4,False,positional,DAMIANI,,SPECCHI,,
+BO0624_88776,563720,143,142,GROSSER HOLZGESCHNITZTER UND VERGOLDETER SPIEGEL- Halfte 18. Jahrh. Abb.Tafel 96.,1265,74.4,False,positional,DAMIANI,,SPECCHI,,Sec. XVIII
 BO0624_88776,563721,144,143,144.EIN PAAR POSTAMENTE,1278,92.0,False,positional,DAMIANI,,OGGETTI VARI,,
 BO0624_88776,563722,145,145,SCHREIBTISCH,1286,85.7,False,positional,DAMIANI,,,,
 BO0624_88776,563723,146,146,EMPIRE-TISCH MIT RUNDER PLATTE,1298,93.8,False,positional,DAMIANI,,,,
@@ -169,7 +169,7 @@ BO0624_88776,563744,167,170,RUNDER MAHAGONITISCH,1486,90.9,False,positional,DAMI
 BO0624_88776,563745,168,171,"OVALES TISCHCHEN,",1492,88.9,False,positional,DAMIANI,,,,
 BO0624_88776,563746,169,172,KLEINER SEKRETAR AUS MAHAGONIHOLZ,1500,94.3,False,positional,DAMIANI,,,,
 BO0624_88776,563747,170,173,"KLEINER SEKRETAR AUS MAHAGONIHOLZ,",1508,94.3,False,positional,DAMIANI,,,,
-BO0624_88776,563748,171,174,"KLEINER OVALER SALONTISCH, Paris,um 1760.",1516,73.5,False,positional,DAMIANI,,,,
+BO0624_88776,563748,171,174,"KLEINER OVALER SALONTISCH, Paris,um 1760.",1516,73.5,False,positional,DAMIANI,,,,Sec. XVIII
 BO0624_88776,563749,172,175,SALONTISCH,1533,83.3,False,positional,DAMIANI,,,,
 BO0624_88776,563750,173,176,RENAISSANCE-NUSSHOLZSCHRANK,1541,93.1,False,positional,DAMIANI,,,,
 BO0624_88776,563751,174,177,SCHREIBSEKRETAR ZAR PAULSI.,1549,92.9,False,positional,DAMIANI,,,,
@@ -215,7 +215,7 @@ BO0624_88776,563790,213,235,"236.EIN PAAR EMPIRE-VASEN,",1858,92.6,False,positio
 BO0624_88776,563791,214,237,WANDUHR,1864,77.8,False,positional,,,KUNSTGEWERBE,,
 BO0624_88776,563792,215,238,239.EIN PAAR VERGOLDETE BRONZE-APPLIQUES,1872,95.2,False,positional,,,LAMPADE,,
 BO0624_88776,563793,216,240,241.EIN PAAR DESGLEICHEN,1878,92.3,False,positional,,,KUNSTGEWERBE,,
-BO0624_88776,563794,217,64,"Ur bi n o,Mitte 16. Jahrh.",1894,100.0,False,positional,,,KUNSTGEWERBE,,
+BO0624_88776,563794,217,64,"Ur bi n o,Mitte 16. Jahrh.",1894,100.0,False,positional,,,KUNSTGEWERBE,,Sec. XVI
 BO0624_88776,563795,218,243,244.EIN PAAR EMPIRE-VASEN AUS BRONZE,1901,94.7,False,positional,,,VASI,,
 BO0624_88776,563796,219,245,246. EIN PAAR MARMORVASEN MIT REICHER GOLDBRONZE-,1909,95.9,False,positional,,,KUNSTGEWERBE,,
 BO0624_88776,563797,220,247,DECKELVASE AUS TEILVERGOLDETER BRONZE,1923,94.9,False,positional,,,KUNSTGEWERBE,,

@@ -2,29 +2,29 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_83842,158712,1,19,— Groupe de trois amours sur des nuages.,196,96.1,False,positional,BOUCHER,,,,
 BO0624_83842,158713,2,20,- Le Camouflet.,208,88.9,False,positional,COCHIN LE FILS,,,,
 BO0624_83842,158714,3,23,"一 Blaise et Babet, ou la suite des Trois fermieres, comedie",241,97.4,False,positional,DESRAIS,,,,
-BO0624_83842,158715,4,24,"—Vue du Pavillon de Bagatelle, pres Paris, construit en 1773 par le comte d'Artois.",254,98.1,False,positional,DUGOURE,,,,
+BO0624_83842,158715,4,24,"—Vue du Pavillon de Bagatelle, pres Paris, construit en 1773 par le comte d'Artois.",254,98.1,False,positional,DUGOURE,,,,Sec. XVIII
 BO0624_83842,158716,5,1762,?,256,0.0,False,positional,DUGOURE,,,,
 BO0624_83842,158717,6,I,"mportant dessin aux trois crayons. En bas, a droite, on lit : E.-C. Le Guay.",336,99.3,False,positional,LE GUAY,,,,
-BO0624_83842,158718,7,1734,1803,357,61.5,False,positional,LESPINASSE,,,,
+BO0624_83842,158718,7,1734,1803,357,61.5,False,positional,LESPINASSE,,,,Sec. XIX
 BO0624_83842,158719,8,33,"-Vue de la Seine,du Palais-Bourbon,du Cours-la-Reine et de Chaillot, prise de la terrasse des Tuileries.",359,98.5,False,positional,LESPINASSE,,,,
 BO0624_83842,158720,9,34,Vue de la ville et du chateau de Versailles.,360,96.6,False,positional,LESPINASSE,,,,
 BO0624_83842,158721,10,35,- Vue de la facade du chateau de Versailles.,361,96.5,False,positional,LESPINASSE,,,,
 BO0624_83842,158722,11,36,-Vue du chateau et village de Sceaux.,362,95.9,False,positional,LESPINASSE,,,,
 BO0624_83842,158723,12,37,"La Grande allee du Jardin des Tuileries, a Paris.",372,96.9,False,positional,MARECHAL,,,,
-BO0624_83842,158724,13,1741,1814,391,61.5,False,positional,MOREAU LE JEUNE,,,,
-BO0624_83842,158725,14,1685,1766,403,61.5,False,positional,NATTIER,,,,
+BO0624_83842,158724,13,1741,1814,391,61.5,False,positional,MOREAU LE JEUNE,,,,Sec. XIX
+BO0624_83842,158725,14,1685,1766,403,61.5,False,positional,NATTIER,,,,Sec. XVIII
 BO0624_83842,158726,15,I,"mportant dessin aux crayons de couleur, rehausse de blanc.",407,99.1,False,positional,NATTIER,,,,
-BO0624_83842,158727,16,1740,1808,417,61.5,False,positional,MARILLIER,,,,
-BO0624_83842,158728,17,1713,1789,422,61.5,False,positional,PIERRE,,,,
+BO0624_83842,158727,16,1740,1808,417,61.5,False,positional,MARILLIER,,,,Sec. XIX
+BO0624_83842,158728,17,1713,1789,422,61.5,False,positional,PIERRE,,,,Sec. XVIII
 BO0624_83842,158729,18,I,mportant dessin a l'aquarelle.,426,98.3,False,positional,PIERRE,,,,
 BO0624_83842,158730,19,42,"2-Un groupe du bassin de Neptune, a Versailles, par le Sr Bouchardon.",436,97.8,False,positional,PORTAIL,,,,
-BO0624_83842,158731,20,1724,1780,446,61.5,False,positional,SAINT-AUBIN,Scuola Fiamminga,,,
+BO0624_83842,158731,20,1724,1780,446,61.5,False,positional,SAINT-AUBIN,Scuola Fiamminga,,,Sec. XVIII
 BO0624_83842,158732,21,I,nterieur d'une galerie de tableaux.,448,98.6,False,title_direct,,,Tableaux,,
 BO0624_83842,158733,22,44,— Vue d'un monument avec colonnade et personnages.,463,96.9,False,positional,SAINT-AUBIN,,,,
 BO0624_83842,158734,23,45,— Etude de fillette.,473,91.9,False,positional,SAINT-AUBIN,,,,
 BO0624_83842,158735,24,46,"levue, appartenant a la marquise de Pompadour.",484,96.7,False,positional,SURVIE,,,,
-BO0624_83842,158736,25,1728,1785,501,61.5,False,positional,TARAVAL,,,,
-BO0624_83842,158737,26,1684,1721,507,61.5,False,positional,WATTEAU,,,,
+BO0624_83842,158736,25,1728,1785,501,61.5,False,positional,TARAVAL,,,,Sec. XVIII
+BO0624_83842,158737,26,1684,1721,507,61.5,False,positional,WATTEAU,,,,Sec. XVIII
 BO0624_83842,158738,27,48,Feuille de croquis: figure d'homme debout et etudes de chats.,509,97.5,False,positional,WATTEAU,,,,
 BO0624_83842,158739,28,49,— Personnage de la Comedie italienne.,521,95.8,False,positional,WATTEAU,,,,
 BO0624_83842,158740,29,50,50 — Portrait d'un artiste.,540,100.0,False,positional,,ECOLE FRANCAISE DU XVIIe SIECLE,,,
@@ -42,7 +42,7 @@ BO0624_83842,158751,40,68,## 68 -Portrait de Gluck.,694,100.0,False,positional,D
 BO0624_83842,158752,41,69,70 — Jeux d'enfants.,712,91.9,False,positional,EISEN,,,,
 BO0624_83842,158753,42,76,Portrait de femme.,737,91.9,False,positional,HEINSIUS,,,,
 BO0624_83842,158754,43,I,"l est vu de trois quarts vers la droite, assis sur une chaise cannee, la tete presque de face, vetu d'un habit marron avec col,jabot et manchettes de mousseline. Physionomie vivante et expressive.",807,99.7,False,positional,PERRONNEAU,,,,
-BO0624_83842,158755,44,1723,1792,830,61.5,False,positional,REYNOLDS,,,,
+BO0624_83842,158755,44,1723,1792,830,61.5,False,positional,REYNOLDS,,,,Sec. XVIII
 BO0624_83842,158756,45,79,"— Portrait de Lavinia, countess Spencer.",832,96.0,False,positional,REYNOLDS,,,,
 BO0624_83842,158757,46,82,La Fontaine.,853,88.0,False,positional,ROBERT,,,,
 BO0624_83842,158758,47,83,- Ruines animees de personnages.,867,95.1,False,positional,ROBERT,,,,
@@ -90,7 +90,7 @@ BO0624_83842,158799,88,127,— DevANT DE FEu grillage de style Louis XVI.,1036,9
 BO0624_83842,158800,89,128,—BusTe de M.de Trudaine. Marbre du xvine siecle.,1041,95.7,False,positional,,,SCULPTURES,,
 BO0624_83842,158801,90,129,— MeDAiLLoN ovale en marbre blanc. Portrait du Marechal Maurice de Saxe.,1045,97.1,False,positional,,,SCULPTURES,,
 BO0624_83842,158802,91,13,"o——BusTe de personnage inconnu. Terre cuite du xvim siecle, dans le gout de J.B. Pigalle.",1057,98.8,False,positional,,,SCULPTURES,,
-BO0624_83842,158803,92,131,"—Buste presume d'un des freres de Montgolfier. Terre cuite attribuee a Lucas de Montigny (1747-1810), auteur d'un buste de Mirabeau en marbre, quon voit au Louvre, dans les galeries de la Sculpture moderne.",1061,99.0,False,positional,,,SCULPTURES,,
+BO0624_83842,158803,92,131,"—Buste presume d'un des freres de Montgolfier. Terre cuite attribuee a Lucas de Montigny (1747-1810), auteur d'un buste de Mirabeau en marbre, quon voit au Louvre, dans les galeries de la Sculpture moderne.",1061,99.0,False,positional,,,SCULPTURES,,Sec. XVIII
 BO0624_83842,158804,93,132,"— BusTe du Dauphin, pere de Louis XVI.",1065,94.4,False,positional,,,SCULPTURES,,
 BO0624_83842,158805,94,133,BusTE de Diderot.,1070,88.9,False,positional,,,SCULPTURES,,
 BO0624_83842,158806,95,134,BusTE de M.de Buffon. Ancien platre teinte.,1074,95.3,False,positional,,,PIATTI,,

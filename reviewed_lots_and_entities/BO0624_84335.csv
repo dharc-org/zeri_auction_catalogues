@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84335,497740,1,2,## DESIGNATION,6,100.0,False,none,,,,,
 BO0624_84335,497741,2,II,du roi.,161,80.0,False,positional,BOZE,,,,
-BO0624_84335,497742,3,17,"octobre 173g et y mourut le 3o decembre 1798. Chevau-leger en 1754, capitaine en 1757, colonel en 1761, marechal de camp en 178o,il fut recu a 1'Academie Francaise en 1784. Il recut en avril 1792 le commandement de l'armee du Midi et conquit la Savoie.",171,99.4,False,positional,BOZE,,,,
+BO0624_84335,497742,3,17,"octobre 173g et y mourut le 3o decembre 1798. Chevau-leger en 1754, capitaine en 1757, colonel en 1761, marechal de camp en 178o,il fut recu a 1'Academie Francaise en 1784. Il recut en avril 1792 le commandement de l'armee du Midi et conquit la Savoie.",171,99.4,False,positional,BOZE,,,,Sec. XVIII
 BO0624_84335,497743,4,13,"—Portrait de Jeanne de Gassion, comtesse d'Artagnan.",192,97.0,False,positional,DESLYENS,,,,
 BO0624_84335,497744,5,I4,"boise, Ire femme de Jean de Montluc, sieur de Balagny, prince de Gambrai.",203,97.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84335,497745,6,15,"Portrait de la duchesse d'Aumont, nee Le Tellier.",214,96.9,False,positional,,ECOLE FRANCAISE,,,
@@ -63,7 +63,7 @@ BO0624_84335,497800,61,I,IO -PeTITE coRBeILLE rectangulaire a deux compartiments
 BO0624_84335,497801,62,III,"—LAMPE D'APPLIQuE de synagogue, en argent, en forme d'écusson a draperie, avec coquille et lions et deux cornes d'abondance, avec huit coquilles formant recipients a huile.Travail étranger du commencement du xix siecle.",900,99.1,False,positional,,,SCULPTURES,,
 BO0624_84335,497802,63,I,"I2 — PLAT ovALE en argent repousse, presentant un sujet mythologique, bordure a arabesques. Travail etranger, xvi siecle.",903,99.1,False,positional,,,PIATTI,,
 BO0624_84335,497803,64,I,"13 — SERvIcE DE DouzE couvERTs, douze couteaux, deux cuillers a",907,98.3,False,positional,,,BIANCHERIA,,
-BO0624_84335,497804,65,1,"I4 — QuATRE voLuMEs simules in-4, formant medaillier, relies en maroquin vert clair dore aux fers d'une bordure de feuillage et grappes de raisin; dos orne avec les aigles imperiales. Ils contiennent, chacun, dans des compartiments, des medailles en bronze concernant les principaux evenements des annees 178g a 1815.",909,99.7,False,positional,,,SCULPTURES,,
+BO0624_84335,497804,65,1,"I4 — QuATRE voLuMEs simules in-4, formant medaillier, relies en maroquin vert clair dore aux fers d'une bordure de feuillage et grappes de raisin; dos orne avec les aigles imperiales. Ils contiennent, chacun, dans des compartiments, des medailles en bronze concernant les principaux evenements des annees 178g a 1815.",909,99.7,False,positional,,,SCULPTURES,,Sec. XIX
 BO0624_84335,497805,66,1,"15—— MANuscRIT GoTHIQUE (xv siecle), renfermant cinq grandes miniatures avec bordures ornees de grotesques, oiseaux, feurs.",910,99.1,False,positional,,,MINIATURE,,
 BO0624_84335,497806,67,I,"16 - BEAU MANuscRIT GoTHIQUE (premiere moitie du xv siecle) orne de neuf grandes miniatures finement executees. Les bordures qui les entourent, et qui comprennent des feurs et des oiseaux, sont fort jolies.",915,99.5,False,positional,,,MINIATURE,,
 BO0624_84335,497807,68,I,"I7 - Deux BELIErs couches en ancien émail cloisonne de la Chine,",919,98.4,False,positional,,,SCULPTURES,,
@@ -72,9 +72,9 @@ BO0624_84335,497809,70,I,"Ig - PAIRE DE BoNs cADREs a fronton avec cartouche en 
 BO0624_84335,497810,71,12,"O - GLAce dans un cadre en bois sculpte dore avec partie a fond de glace, fronton arrondi a palmettes, rocailles, branchages et petite corbeille de feurs. Epoque Regence.",931,99.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_84335,497811,72,I2,"I -THERMoMETRE en bois sculpte peint et dore, a tablette rectan-",935,98.4,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_84335,497812,73,I22,- TREs IMPoRTANT BARoMETRE en bois richement et finement,942,96.4,False,positional,,,OGGETTI IN LEGNO,,
-BO0624_84335,497813,74,123,"BusTE DE FILLETTE EN PLATRE, grandeur nature, execute par un artiste revolutionnaire inconnu en 1793; elle est coiffee d'un bonnet revolutionnaire, les cheveux frises, dont deux grandes boucles tombent sur ses épaules.",949,99.1,False,positional,,,PIATTI,,
+BO0624_84335,497813,74,123,"BusTE DE FILLETTE EN PLATRE, grandeur nature, execute par un artiste revolutionnaire inconnu en 1793; elle est coiffee d'un bonnet revolutionnaire, les cheveux frises, dont deux grandes boucles tombent sur ses épaules.",949,99.1,False,positional,,,PIATTI,,Sec. XVIII
 BO0624_84335,497814,75,123,"bis -HAuT RELIEF en platre, par Romagueya, a composition",954,96.4,False,positional,,,PIATTI,,
-BO0624_84335,497815,76,128,"- GRANDE MEDAILE en bronze cisele dore, par Bertinet, signee; presentant: Micha + Letellier Fr + Canecilarius  1678; au revers,",977,98.3,False,positional,,,BRONZES,,
+BO0624_84335,497815,76,128,"- GRANDE MEDAILE en bronze cisele dore, par Bertinet, signee; presentant: Micha + Letellier Fr + Canecilarius  1678; au revers,",977,98.3,False,positional,,,BRONZES,,Sec. XVII
 BO0624_84335,497816,77,129,"- PArRE DE cHENETs en bronze dore, modele a sphinx, sur un socle rectangulaire orne d'un cartel et sur quatre pieds volutes. Epoque Louis XIV.",982,98.6,False,positional,,,BRONZES,,
 BO0624_84335,497817,78,1,30 - PeNduLe d'applique avec son socle-support en marqueterie de,986,98.4,False,positional,,,BRONZES,,
 BO0624_84335,497818,79,131,"-- PAIRE DE PETITs cHENETs en bronze dore, composes chacun d'un taureau debout, sur socles rectangulaires a bord godronne, feuillage et carquois.Fin du xvul siecle.",991,98.7,False,positional,,,BRONZES,,
@@ -88,7 +88,7 @@ BO0624_84335,497825,86,1,"38 - PAIRE DE TREs IMPORTANTS CANDELABREs a trois lumi
 BO0624_84335,497826,87,I4,"O - PAiRE DE cHENETs en bronze formes de balustres, ornés de",1037,98.3,False,positional,,,BRONZES,,
 BO0624_84335,497827,88,I41,"- PaiRE D'AppLIQues a deux lumieres en bronze dore, modele a",1042,96.6,False,positional,,,LAMPADE,,
 BO0624_84335,497828,89,142,poignees variees en bronze de l'epoque Louis XVI.,1050,96.0,False,positional,,,BRONZES,,
-BO0624_84335,497829,90,144,"— MeDAILLoN rond en bronze cisele dore, presentant le buste d'un homme d'Etat en habit brode avec decoration,par L. Jeanmest; signe, date : 1812; cadre également en bronze doré. Epoque Empire.",1060,98.9,False,positional,,,BRONZES,,
+BO0624_84335,497829,90,144,"— MeDAILLoN rond en bronze cisele dore, presentant le buste d'un homme d'Etat en habit brode avec decoration,par L. Jeanmest; signe, date : 1812; cadre également en bronze doré. Epoque Empire.",1060,98.9,False,positional,,,BRONZES,,Sec. XIX
 BO0624_84335,497830,91,1,"51 - GRANDE BERGERE confortable en bois moulure repeint blanc, a accotoirs et siege mouvementes, sur pieds cambres, dossier garni a joues. Estampille de L. Mayeux. Epoque Louis XV; garnie de tapisserie au point moderne.",1094,99.5,False,positional,,Periodo di Luigi XV,SIEGES,,
 BO0624_84335,497831,92,1,"52 - GRANDE BERGERE confortable a large dossier et fond arrondi, bord contourne, dessus a volutes, en bois moulure sculpte,repeint marron, sur pieds cambres. Estampille de L. Mayeux. Epoque",1100,99.4,False,positional,,,SIEGES,,
 BO0624_84335,497832,93,153,"- GRANDE BERGERE a siege tres bas et contourne, en bois sculpte peint marron, a decor de volutes, sur petits pieds cambres, le dossier garni avec joues. Estampille de I. Avisse. Epoque Louis xV; garnie de tapisserie au point moderne avec coussin.",1109,99.2,False,positional,,Periodo di Luigi XV,SIEGES,,

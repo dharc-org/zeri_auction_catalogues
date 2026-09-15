@@ -42,7 +42,7 @@ BO0624_81850,146739,40,5,in in bleu.,89,90.9,False,positional,,Scuola Francese,,
 BO0624_81850,146740,41,6,"41.VASO a palla terraglia bianca e decorazioni,iscrizioni",90,98.3,False,positional,,Scuola Francese,VASI,,
 BO0624_81850,146741,42,7,"42.GRANDE CORNICE veneziana in vetro e pastiglia dorata, con specchio.（M. 0,58x0,77).",91,98.8,False,positional,,Scuola Francese,,,
 BO0624_81850,146742,43,44,OROLOGIO da muro con montatura in legno e bronzo. Manifattura inglese. SPECCHIERA rettangolare con ricca cornice intagliata e dorata.,92,67.7,False,positional,,Scuola Francese,CORNICI,,
-BO0624_81850,146743,44,45,"MAGNIFICO COFANO in ferro battuto, finemente lavorato. Bell'esemplare dellarte del ferro del XV sec. (Vedi Tau. V). a tre piani. Impero.",94,90.8,False,positional,,Scuola Francese,,,
+BO0624_81850,146743,44,45,"MAGNIFICO COFANO in ferro battuto, finemente lavorato. Bell'esemplare dellarte del ferro del XV sec. (Vedi Tau. V). a tre piani. Impero.",94,90.8,False,positional,,Scuola Francese,,,Sec. XV
 BO0624_81850,146744,45,46,"ETAGERE, di forma semicircolare, in noce tinto a mogano,",96,97.2,False,positional,,Scuola Francese,,,
 BO0624_81850,146745,46,47,ALTRA DETTA.,98,88.0,False,positional,,Scuola Francese,,,
 BO0624_81850,146746,47,47,"b ALTRO DETTO simile, senza intarsio. a ELEGANTE MOBILINO da centro, di forma circolare,in ciliegio in parte intarsiato; gambe centinate. Uno sportello e un cassetto. Epoca Luigi XVI.",102,88.4,False,positional,,Scuola Francese,,,
@@ -56,7 +56,7 @@ BO0624_81850,146753,54,54,"LA ZIA CHE DORME. Dipinto a olio su cartone, con corn
 BO0624_81850,146754,55,55,DUE SEDIE con piano e dossello ricoperto in cuoio.,125,97.0,False,positional,,Scuola Francese,SEDIE,,
 BO0624_81850,146755,56,56,PICCOLO DIVANO in noce a piano impagliato e spalliera in parte intagliata. Impero. TAvOLO a forma di ferro di cavallo; balaustro e piano di,126,73.1,False,positional,,Scuola Francese,,,
 BO0624_81850,146756,57,57,POLTRONCINA in legno con copertura in damasco verde.,128,97.1,False,positional,,Scuola Francese,,,
-BO0624_81850,146757,58,5,"g.IMPORTANTE TAVOLO in noce:piano ottagono, gambe sagomate terminante a zampa di leone. Secolo XVI. (Vedi Tavola VI).",130,99.6,False,positional,,Scuola Francese,,,
+BO0624_81850,146757,58,5,"g.IMPORTANTE TAVOLO in noce:piano ottagono, gambe sagomate terminante a zampa di leone. Secolo XVI. (Vedi Tavola VI).",130,99.6,False,positional,,Scuola Francese,,,Sec. XVI
 BO0624_81850,146758,59,6,"o. GRAZIOSO MOBILINO stile inglese, in mogano, con alzata",131,99.1,False,positional,,Scuola Francese,,,
 BO0624_81850,146759,60,61,"LUME in bronzo, con piedi a zampa di leone. Impero. Attacco elettrico.",132,97.8,False,positional,,Scuola Francese,,,
 BO0624_81850,146760,61,62,"DUE BRACCI da muro in bronzo, per due candele. GENTILUOMO. Dipinto ad olio,con cornice verde e oro. (M. 0,27x0,22). LUME da tavolo, in rame, a due bracci.",135,60.6,False,positional,,Scuola Francese,,,
@@ -72,7 +72,7 @@ BO0624_81850,146769,70,79,TESTATA per PAlmanacco Italiano preconizzante la Vitto
 BO0624_81850,146770,71,2,A.Mecherini:,169,91.7,False,positional,,Scuola Francese,,,
 BO0624_81850,146771,72,3,"e la pace. Acquerello in cornice nera. (M. o,28x o,26)",170,98.0,False,positional,,Scuola Francese,,,
 BO0624_81850,146772,73,4,"8o. RITRATTO DELLA MADRE. Cornice nera. (M. o,29 x 0,20).",171,98.0,False,positional,,Scuola Francese,,,
-BO0624_81850,146773,74,82,CROCEFISSO in bronzo dorato. Secolo XVII. SCALDINO in rame.,172,79.6,False,positional,,Scuola Francese,,,
+BO0624_81850,146773,74,82,CROCEFISSO in bronzo dorato. Secolo XVII. SCALDINO in rame.,172,79.6,False,positional,,Scuola Francese,,,Sec. XVII
 BO0624_81850,146774,75,83,PANNEAU in seta con tralci di fiori a colori. Gallone con,174,97.4,False,positional,,Scuola Francese,PANNELLI,,
 BO0624_81850,146775,76,84,PALIOTTO in broccatello viola. Gallone giallo.,175,96.7,False,positional,,Scuola Francese,,,
 BO0624_81850,146776,77,9,piccoli stemmi.,176,93.3,False,positional,,Scuola Francese,,,
@@ -88,7 +88,7 @@ BO0624_81850,146785,86,6,giallo con riporti dello damasco giallo.,190,97.5,False
 BO0624_81850,146786,87,92,PIANETA di raso bianco con fiori policromi.,191,96.6,False,positional,,Scuola Francese,,,
 BO0624_81850,146787,88,8,ricami.,192,85.7,False,positional,,Scuola Francese,,,
 BO0624_81850,146788,89,91,"TAPPETINO antico Perugia, a disegni geometrici.",193,96.8,False,positional,,Scuola Francese,,,
-BO0624_81850,146789,90,93,"TRANSENNA in pietra, rappresentante pavoni. Arte romanica del Sec. XIV. SCUDO E SCUDISCIO africano, in pelle d’ippopotamo.",194,72.0,False,positional,,Scuola Francese,,,
+BO0624_81850,146789,90,93,"TRANSENNA in pietra, rappresentante pavoni. Arte romanica del Sec. XIV. SCUDO E SCUDISCIO africano, in pelle d’ippopotamo.",194,72.0,False,positional,,Scuola Francese,,,Sec. XIV
 BO0624_81850,146790,91,94,GRAZIOSA SCATOLA in bossolo e avorio.,196,96.0,False,positional,,Scuola Francese,,,
 BO0624_81850,146791,92,13,"0 di tre medaglie in bronzo, di diversa grandezza e",197,97.1,False,positional,,Scuola Francese,,,
 BO0624_81850,146792,93,96,LOTTO varie epoche.,198,92.3,False,positional,,Scuola Francese,,,
@@ -118,7 +118,7 @@ BO0624_81850,146815,116,123,PORTAOMBRELLI in maiolica smaltata a vivaci colori.,
 BO0624_81850,146816,117,122,DUE PORTAFIORI in terraglia bianca e bleu. Impero.,258,96.0,False,positional,,Scuola Francese,,,
 BO0624_81850,146817,118,30,G0,261,100.0,False,positional,,Scuola Francese,,,
 BO0624_81850,146818,119,124,DUE ZUPPIERINE in porcellana bianca.,263,94.6,False,positional,,Scuola Francese,,,
-BO0624_81850,146819,120,125,DUE MENSOLINE in legno con tracce di doratura a foglie di Acanto. Sec. XVII.,264,97.3,False,positional,,Scuola Francese,,,
+BO0624_81850,146819,120,125,DUE MENSOLINE in legno con tracce di doratura a foglie di Acanto. Sec. XVII.,264,97.3,False,positional,,Scuola Francese,,,Sec. XVII
 BO0624_81850,146820,121,126,LA VERGINE COL BAMBINO. Scultura in legno del Se- colo XVII.,265,87.0,False,positional,,Scuola Francese,,,
 BO0624_81850,146821,122,127,DUE FINALI IN LEGNO INTAGLIATO: bianco e oro.,267,95.6,False,positional,,Scuola Francese,,,
 BO0624_81850,146822,123,128,LOTTO di tre cornici veneziane. Diverse grandezze.,268,96.0,False,positional,,Scuola Francese,CORNICI,,
@@ -130,9 +130,9 @@ BO0624_81850,146827,128,133,BEL PIVIALE in seta bianca con fiorini a colori. Gal
 BO0624_81850,146828,129,12,dorato.,274,80.0,False,positional,,Scuola Francese,,,
 BO0624_81850,146829,130,13,134.PAIO DI MAGNIFICI SPADONI a due mani,275,96.4,False,positional,,Scuola Francese,,,
 BO0624_81850,146830,131,135,"BASSORILIEVO in terracotta, rappresentante la Vergine col",276,96.6,False,positional,,Scuola Francese,,,
-BO0624_81850,146831,132,15,"Bambino. Arte toscana, Sec. XVI.",277,94.9,False,positional,,Scuola Francese,,,
+BO0624_81850,146831,132,15,"Bambino. Arte toscana, Sec. XVI.",277,94.9,False,positional,,Scuola Francese,,,Sec. XVI
 BO0624_81850,146832,133,16,136.GRANDE RELIQUIARlO riccamente decorato in argento e,278,97.3,False,positional,,Scuola Francese,,,
-BO0624_81850,146833,134,17,bronzo dorato. Secolo XVII.,279,94.3,False,positional,,Scuola Francese,,,
+BO0624_81850,146833,134,17,bronzo dorato. Secolo XVII.,279,94.3,False,positional,,Scuola Francese,,,Sec. XVII
 BO0624_81850,146834,135,137,"LA DEPOSIZIONE. Pittura a tempera su tavola. (Metri 0,45x0,36).",283,96.7,False,positional,,Scuola Fiamminga,,,
 BO0624_81850,146835,136,138,"FRUTTA. Pittura ad olio su tela. Cornice dorata. (Metri 0,97x0,72).",284,96.8,False,positional,,Scuola Fiamminga,,,
 BO0624_81850,146836,137,13,"g. FRUTTA. Due pitture su tavola. Cornici dorate. (M. o,33xo,4o).",285,98.3,False,positional,,Scuola Fiamminga,CORNICI,,
@@ -160,7 +160,7 @@ BO0624_81850,146857,158,17,d'accompagno in velluto controtaglio.,320,96.0,False,
 BO0624_81850,146858,159,18,"16o. GOLDONIANA in velluto marrone e bottoni dorati, con gilet",321,97.6,False,positional,T.Lessi,,,,
 BO0624_81850,146859,160,19,"completa in seta lilla con ricami, gilet e",322,96.5,False,positional,T.Lessi,,,,
 BO0624_81850,146860,161,162,"TAPPETINO di stoffa a fiori e righe, Luigi XVI. 161.GOLDONIANA pantaloni.",323,75.6,False,positional,T.Lessi,,,,
-BO0624_81850,146861,162,163,"BEL POZZETTO di simpatica forma, foderato in moiré verde. Impero. (Vedi Tav. VII). uno sportello, e piedi a zampe di leone. Sec. XVI. (Vedi Tav.VI).",325,70.4,False,positional,T.Lessi,,,,
+BO0624_81850,146861,162,163,"BEL POZZETTO di simpatica forma, foderato in moiré verde. Impero. (Vedi Tav. VII). uno sportello, e piedi a zampe di leone. Sec. XVI. (Vedi Tav.VI).",325,70.4,False,positional,T.Lessi,,,,Sec. XVI
 BO0624_81850,146862,163,164,"BEL MOBILINO-in noce a losanghe e borchie, un tiretto,",327,96.3,False,positional,T.Lessi,,,,
 BO0624_81850,146863,164,165,"BELLA CANTONIERA a vetrina, tinta a mogano, filetta-",328,96.1,False,positional,T.Lessi,,,,
 BO0624_81850,146864,165,26,166.QUATTRO GRAZIOSE SEGGIOLE a spalliera con decorazioni in oro su bianco. Impero.,329,98.2,False,positional,T.Lessi,,,,
@@ -174,7 +174,7 @@ BO0624_81850,146871,172,172,CAMPANELLO in bronzo a figurine e stemma mediceo.,35
 BO0624_81850,146872,173,173,DUE CANDELIERI in bronzo dorato.,352,93.9,False,positional,T.Lessi,,,,
 BO0624_81850,146873,174,174,"S. GIOVANNINO. Pittura ad olio su tela. (M.1,02x1,32.).",353,96.0,False,positional,T.Lessi,,,,
 BO0624_81850,146874,175,175,"RITRATTO D'UOMO. Pittura ad olio su tela. (M. o,48 x o,67).",354,96.4,False,positional,T.Lessi,,,,
-BO0624_81850,146875,176,176,S. ANTONIO E IL BAMBINO. Pittura ad olio su tavola. Secolo. XVII.,355,96.8,False,positional,T.Lessi,,,,
+BO0624_81850,146875,176,176,S. ANTONIO E IL BAMBINO. Pittura ad olio su tavola. Secolo. XVII.,355,96.8,False,positional,T.Lessi,,,,Sec. XVII
 BO0624_81850,146876,177,177,"MADONNA,BAMBINO E SANTI. Dipinto ad olio su tavola Cornice dorata e intagliata. (M. o,5g x o,48).",359,97.8,False,positional,,Scuola Umbra,,,
 BO0624_81850,146877,178,178,MAGNIFICO FILET bianco ricamato in lana rossa.,360,95.7,False,positional,,Scuola Umbra,,,
 BO0624_81850,146878,179,179,ASCIUGAMANO punto Assisi.,361,92.3,False,positional,,Scuola Umbra,,,
@@ -193,15 +193,15 @@ BO0624_81850,146890,191,192,"URNA CINERARIA in marmo. Scavo. 191.LOTTO di: Corni
 BO0624_81850,146891,192,193,LOTTO di: due porta-salviette orientali; testina di donna in noce; piccolo lume in terraglia.,389,97.8,False,positional,,Scuola Umbra,,,
 BO0624_81850,146892,193,194,PARTE DI ARMATURA in acciaio e fiasca da polvere in OSso.,390,91.9,False,positional,,Scuola Umbra,,,
 BO0624_81850,146893,194,195,"LUCERNA in rame, a due becchi, con paralume di seta verde.",392,96.5,False,positional,,Scuola Umbra,LAMPADE,,
-BO0624_81850,146894,195,196,"BEL PORTAFIORI in bronzo a decorazzioni, tipo orientale. CALICE E PATERA in bronzo dorato. Sec. XVII DUE CANDELIERI in metallo bianco a volute. Luigi Filippo.",395,53.1,False,positional,,Scuola Umbra,,,
+BO0624_81850,146894,195,196,"BEL PORTAFIORI in bronzo a decorazzioni, tipo orientale. CALICE E PATERA in bronzo dorato. Sec. XVII DUE CANDELIERI in metallo bianco a volute. Luigi Filippo.",395,53.1,False,positional,,Scuola Umbra,,,Sec. XVII
 BO0624_81850,146895,196,199,GENTILUOMO IN COSTUME SETTECENTESCO: disegno a matita sotto vetro.,399,97.0,False,positional,,Scuola Umbra,,,
-BO0624_81850,146896,197,200,"FIGURA ALLEGORICA. Disegno a matita, firmato e datato:《29 Ottobre 1892》. Cristallo.",403,97.5,False,positional,,Scuola Umbra,,,
+BO0624_81850,146896,197,200,"FIGURA ALLEGORICA. Disegno a matita, firmato e datato:《29 Ottobre 1892》. Cristallo.",403,97.5,False,positional,,Scuola Umbra,,,Sec. XIX
 BO0624_81850,146897,198,201,"STUDIO DI UOMO. Disegno a matita, sotto vetro.",407,95.6,False,positional,,Scuola Umbra,,,
 BO0624_81850,146898,199,202,GRAZIOSA FIGURINA orientale in terracotta smaltata.,408,96.2,False,positional,,Scuola Umbra,,,
 BO0624_81850,146899,200,203,GENTILUOMO IN DIVISA MILITARE. Piccolo busto in,409,95.8,False,positional,,Scuola Umbra,,,
 BO0624_81850,146900,201,4,marmo sopra base circolare intagliata e dorata.,410,97.9,False,positional,,Scuola Umbra,,,
 BO0624_81850,146901,202,5,203a PAIO DI SALIERE in metallo argentato e cristallo.,411,98.1,False,positional,,Scuola Umbra,,,
-BO0624_81850,146902,203,136,"204. LOTTO di un mortaio in bronzo con pestello, e stampe concornice. 205. POLLI. Due pitture ad olio su carta. Cornici. 206.a GENTILDONNA. Busto in terracotta dal Laurana. 206a GENTIDONNA. Busto in terracotta dal Laurano. 207. LOTTO di tre finissime stampe francesi, a colori, rappresentanti figurini dell'epoca: Sec. XIX; cornice intagliata e dorata. (M. 0,19 x 0,25).",420,100.0,False,positional,,Scuola Umbra,CORNICI,,
+BO0624_81850,146902,203,136,"204. LOTTO di un mortaio in bronzo con pestello, e stampe concornice. 205. POLLI. Due pitture ad olio su carta. Cornici. 206.a GENTILDONNA. Busto in terracotta dal Laurana. 206a GENTIDONNA. Busto in terracotta dal Laurano. 207. LOTTO di tre finissime stampe francesi, a colori, rappresentanti figurini dell'epoca: Sec. XIX; cornice intagliata e dorata. (M. 0,19 x 0,25).",420,100.0,False,positional,,Scuola Umbra,CORNICI,,Sec. XIX
 BO0624_81850,146903,204,208,TREDETTE. ## Terzo giorno di vendita,427,83.6,False,positional,,Scuola Umbra,,,
 BO0624_81850,146904,205,209,GRAZIOSO E AUTENTICO OMBRELLINO carta. giapponese in,433,80.4,False,positional,,Scuola Umbra,,,
 BO0624_81850,146905,206,210,COTTA DI MAGLIA in acciaio e elmo in ferro.,435,95.5,False,positional,,Scuola Umbra,,,
@@ -226,7 +226,7 @@ BO0624_81850,146923,224,228,RITRATTO DI GENTILUOMO IN PARRUCCA. Cornice ve-,466,
 BO0624_81850,146924,225,2,"neziana nera e oro. (M. o,6o x o,70).",467,97.0,False,positional,,Scuola Umbra,,,
 BO0624_81850,146925,226,3,"229.PARURE DA CAMINETTO, composta da tre quadretti su tela, rappresentante fiori. Cornice intagliata e in parte dorata.",468,99.1,False,positional,,Scuola Umbra,,,
 BO0624_81850,146926,227,23,"o. S. GIOVANNI. Pittura ad olio su tavola. (M. o,48 x o,63).",472,98.1,False,positional,,Scuola Umbra,,,
-BO0624_81850,146927,228,231,S. GIOVANNI. Scultura in terracotta policroma. Sec. XVII.,473,96.3,False,positional,,Scuola Umbra,,,
+BO0624_81850,146927,228,231,S. GIOVANNI. Scultura in terracotta policroma. Sec. XVII.,473,96.3,False,positional,,Scuola Umbra,,,Sec. XVII
 BO0624_81850,146928,229,232,TAPPETINO in velluto amaranto Gallone.,474,94.9,False,positional,,Scuola Umbra,,,
 BO0624_81850,146929,230,233,COPERTA di stoffa a righe e fiori a colori.,475,95.5,False,positional,,Scuola Umbra,,,
 BO0624_81850,146930,231,234,RICCA GOLDONIANA con ricami in seta.,477,94.6,False,positional,,Scuola Umbra,,,
@@ -234,24 +234,24 @@ BO0624_81850,146931,232,235,PALIOTTO in bel broccato Luigi iXVI.,478,94.6,False,
 BO0624_81850,146932,233,236,BELLA CORNICE a larghe volute. Teste di angiolini e figurine. Sec.XVII.,479,97.1,False,positional,,Scuola Umbra,,,
 BO0624_81850,146933,234,237,"PORTA TORCIA in legno scolpito e colorito, rappresentante",480,96.6,False,positional,,Scuola Umbra,,,
 BO0624_81850,146934,235,238,ALTRA DETTA.,485,84.6,False,positional,,Scuola Umbra,,,
-BO0624_81850,146935,236,239,ANFORA E PIATTO in argento sbalzato. Cesello di estrema finezza. Secolo XVI.,487,97.3,False,positional,,Scuola Umbra,,,
+BO0624_81850,146935,236,239,ANFORA E PIATTO in argento sbalzato. Cesello di estrema finezza. Secolo XVI.,487,97.3,False,positional,,Scuola Umbra,,,Sec. XVI
 BO0624_81850,146936,237,240,STUDIO per il quadro 《La visita di Milton a Galileo 》. Di-,491,96.4,False,positional,,Scuola Umbra,,,
 BO0624_81850,146937,238,241,"NAZARENO. Pittura ad olio. Cornice dorata. (M. o,38 x o,31). -(Vedi Tav. II). segno. (M. 0,49 x 0,39).",492,84.4,False,positional,,Scuola Umbra,,,
 BO0624_81850,146938,239,242,AL CINEMATOGRAFO. Acquarello. Cornice dorata.(Metri,497,96.0,False,positional,,Scuola Umbra,,,
 BO0624_81850,146939,240,243,"LA FUCINA. Pittura ad olio. (M. o,56 x o,70).",499,95.1,False,positional,,Scuola Umbra,,,
 BO0624_81850,146940,241,245,"LE PREMIERE MYSTERE. Graziosissimo bronzo francese d'autore. 244.DUE GRAZIOSISSIME SALIERINE in argento, a forma di tripode.Impero.",501,70.1,False,positional,,Scuola Umbra,,,
 BO0624_81850,146941,242,246,GRAZIOSO RELIQUIARIO in bronzo dorato. Arte gotica del Sec.XV.,502,96.8,False,positional,,Scuola Umbra,,,
-BO0624_81850,146942,243,247,COFANO RELIQUIARIO in rame sbalzato e figurine in bronzo dorato. Sec. XVII.,503,75.4,False,positional,,Scuola Umbra,,,
-BO0624_81850,146943,244,248,"BEL VASO a decorazioni bleu, gialle e verdi. Urbino. Secolo XVII.",505,96.8,False,positional,,Scuola Umbra,VASI,,
+BO0624_81850,146942,243,247,COFANO RELIQUIARIO in rame sbalzato e figurine in bronzo dorato. Sec. XVII.,503,75.4,False,positional,,Scuola Umbra,,,Sec. XVII
+BO0624_81850,146943,244,248,"BEL VASO a decorazioni bleu, gialle e verdi. Urbino. Secolo XVII.",505,96.8,False,positional,,Scuola Umbra,VASI,,Sec. XVII
 BO0624_81850,146944,245,249,"BEL PIATTO con ritratto nel centro, decorazioni bleu su bianco (alquanto riparato). Cafaggiolo.",506,97.8,False,positional,,Scuola Umbra,,,
 BO0624_81850,146945,246,9,25o. GRAZIOSA ACQUASANTIERA in maiolica a riflessi. Deruta. Sec.XVI,507,98.5,False,positional,,Scuola Umbra,,,
 BO0624_81850,146946,247,251,GRANDE PIATTO decorato da ornati a colori. Nel centro l'iscrizione: Rosata B.Maiolica di Cafaggiolo.,508,98.0,False,positional,,Scuola Umbra,,,
 BO0624_81850,146947,248,252,"ANTICO TAPPETO PERSIANO da preghiera, di bellissimi",509,96.2,False,positional,,Scuola Umbra,,,
 BO0624_81850,146948,249,253,"ANTICO TAPPETO orientale, 《Kula 》. Cinque bordi. (Metri 1,50 x 1,20). colori. Sei bordi. Raro. (M. 1,9o x 1,3o).",510,75.0,False,positional,,Scuola Umbra,,,
 BO0624_81850,146949,250,254,"INTERESSANTE TAPPETO orientale da preghiera, di bel",512,96.2,False,positional,,Scuola Umbra,,,
-BO0624_81850,146950,251,255,DUE ALTE SEGGIOLE in noce con cartelle graffite. Secolo XVI.,513,96.7,False,positional,,Scuola Umbra,,,
+BO0624_81850,146950,251,255,DUE ALTE SEGGIOLE in noce con cartelle graffite. Secolo XVI.,513,96.7,False,positional,,Scuola Umbra,,,Sec. XVI
 BO0624_81850,146951,252,16,"disegno e colori. Otto bordi. Raro. (M. 1,9o x 1,3o).",514,96.8,False,positional,,Scuola Umbra,,,
-BO0624_81850,146952,253,17,256.SGABELLO in nocecon spalliera sagomata. Sec. XVI.,515,97.1,False,positional,,Scuola Umbra,,,
+BO0624_81850,146952,253,17,256.SGABELLO in nocecon spalliera sagomata. Sec. XVI.,515,97.1,False,positional,,Scuola Umbra,,,Sec. XVI
 BO0624_81850,146953,254,18,257.DELIZI0SO tina.Sec. XVI. (Vedi Tav.V).,516,96.1,False,positional,,Scuola Umbra,,,
 BO0624_81850,146954,255,19,"MOBILINO a bambocci, in noce, di bella pa-",517,96.3,False,positional,,Scuola Umbra,,,
 BO0624_81850,146955,256,258,"VASO a corno. China, fondo nero e decorazioni oro e bleu.",518,96.4,False,positional,,Scuola Umbra,VASI,,
@@ -263,21 +263,21 @@ BO0624_81850,146960,261,264,"TAPPETINI in broccato,a fiori in oro e policromi su
 BO0624_81850,146961,262,265,"FINISSIMA MINIATURA su avorio, rappresentante ritratto",524,96.4,False,positional,,Scuola Umbra,MINIATURE,,
 BO0624_81850,146962,263,266,TONDO in pietra con,529,90.5,False,positional,,Scuola Umbra,,,
 BO0624_81850,146963,264,267,BEL PAIO D'ALARI ad archetto gotico e finali a palla.,531,96.3,False,positional,,Scuola Umbra,,,
-BO0624_81850,146964,265,268,"PERSONAGGIO DELL'EPOCA. Sec. XVIII. Pittura ad olio su tavola. Cornice intagliata e dorata. (M. o,27 x o,2 1).",539,98.1,False,positional,,Scuola Umbra,,,
+BO0624_81850,146964,265,268,"PERSONAGGIO DELL'EPOCA. Sec. XVIII. Pittura ad olio su tavola. Cornice intagliata e dorata. (M. o,27 x o,2 1).",539,98.1,False,positional,,Scuola Umbra,,,Sec. XVIII
 BO0624_81850,146965,266,269,MEZZE FIGURE DI GIOVANETTI. Dipinto ad olio su tela.,543,96.2,False,positional,,Scuola Umbra,,,
 BO0624_81850,146966,267,270,"GENTILUOMO. Dipinto ad olio su tela, di forma ovale. Cornice dorata e intagliata.",545,97.5,False,positional,,Scuola Umbra,,,
 BO0624_81850,146967,268,271,"CRISTO FLAGELLATO. Bel dipinto su tela, di forma ovale. ANTICO TAPPETO persiano a fine disegno d'intonazione GRANDE TAPPETO Smirne, in lana, tessuto.",553,53.3,False,positional,,Scuola Umbra,,,
 BO0624_81850,146968,269,274,INTERNO DI. S. MARCO. Pittura ad olio. Cornice dorata.,561,96.1,False,positional,,Scuola Umbra,,,
-BO0624_81850,146969,270,275,"IL CENNINI stampatore. Studio per il quadro. Pittura a olio. (M. 0,24 x 0,19). CONSOLLE a centina a tre gambe. Piano di marmo giallo. BELLA TAVOLA bolognese,\_a g gambe tornite.Due cassetti Sec. XVI.",567,54.2,False,positional,,Scuola Umbra,,,
-BO0624_81850,146970,271,278,"MAGNIFICO CASSONCINO in noce, bella baccellatura, cariatidi e stemma nel centro. Sec. XVI. o. MADIA in legno, con graffiature.",573,82.1,False,positional,,Scuola Umbra,,,
+BO0624_81850,146969,270,275,"IL CENNINI stampatore. Studio per il quadro. Pittura a olio. (M. 0,24 x 0,19). CONSOLLE a centina a tre gambe. Piano di marmo giallo. BELLA TAVOLA bolognese,\_a g gambe tornite.Due cassetti Sec. XVI.",567,54.2,False,positional,,Scuola Umbra,,,Sec. XVI
+BO0624_81850,146970,271,278,"MAGNIFICO CASSONCINO in noce, bella baccellatura, cariatidi e stemma nel centro. Sec. XVI. o. MADIA in legno, con graffiature.",573,82.1,False,positional,,Scuola Umbra,,,Sec. XVI
 BO0624_81850,146971,272,279,"GRAZIOSA TOILETTE. Alzata per specchio, tre cassetti e gamte scanalate.",577,97.1,False,positional,,Scuola Umbra,OGGETTI VARI,,
-BO0624_81850,146972,273,281,"PICCOLA VETRINA veneziana celeste ed oro, con decorazioni intagliate. Sec. XVIII.",579,97.5,False,positional,,Scuola Umbra,,,
+BO0624_81850,146972,273,281,"PICCOLA VETRINA veneziana celeste ed oro, con decorazioni intagliate. Sec. XVIII.",579,97.5,False,positional,,Scuola Umbra,,,Sec. XVIII
 BO0624_81850,146973,274,282,"DUE GRANDI BRACCI DA PARETE in ferro battuto, a ricche volute, completamente dorati. Sec. XVIl. d'ariete.",580,93.3,False,positional,,Scuola Umbra,,,
 BO0624_81850,146974,275,283,"GRANDE SPECCHIO Impero, montatura in colonne e teste",582,96.2,False,positional,,Scuola Umbra,,,
 BO0624_81850,146975,276,4,283.a ANELLO IN ORO con cammeo in pietra dura.,583,97.8,False,positional,,Scuola Umbra,,,
 BO0624_81850,146976,277,5,madreperla.,584,90.9,False,positional,,Scuola Umbra,,,
 BO0624_81850,146977,278,6,284.OROLOGIO Impero a motivo architettonico e decorazioni a,585,98.3,False,positional,,Scuola Umbra,,,
-BO0624_81850,146978,279,7,"285.SELLA in legno, in nparte dipinta ed in parte intarsiata in osso. Lavoro veneziano per l'oriente. Sec. XV.",586,99.1,False,positional,,Scuola Umbra,,,
+BO0624_81850,146978,279,7,"285.SELLA in legno, in nparte dipinta ed in parte intarsiata in osso. Lavoro veneziano per l'oriente. Sec. XV.",586,99.1,False,positional,,Scuola Umbra,,,Sec. XV
 BO0624_81850,146979,280,286,"GRANDE FERRO BATTUTO, riccamente lavorato. V.Tav. VI)",587,96.1,False,positional,,Scuola Umbra,,,
 BO0624_81850,146980,281,287,"IN VATICANO. Bozzettino ad olio incompiuto. (o,1I x o,17).",591,96.4,False,positional,,Scuola Umbra,,,
 BO0624_81850,146981,282,288,"PIAZZALE DONATELLO. Effetto di pioggia. Pittura ad olio. Cornice. (M. o,46 x o,37). Vedi Tau. I1I ).",595,97.8,False,positional,,Scuola Umbra,,,
@@ -305,7 +305,7 @@ BO0624_81850,147002,303,311,BASE circolare dis scagliola e BUSTO in tante person
 BO0624_81850,147003,304,312,ALTRA DETTA con busto rappresentante personaggio diverso. La base difettosa.,639,97.4,False,positional,,Scuola Umbra,,,
 BO0624_81850,147004,305,313,FINISSIMA STAMPA secentesca raffigurante studi di teste,641,96.5,False,positional,,Scuola Umbra,,,
 BO0624_81850,147005,306,314,DUE STAMPE del Durero. Cornice.,642,93.5,False,positional,,Scuola Umbra,STAMPE E INCISIONI,,
-BO0624_81850,147006,307,315,DUE CANDELIERI in rame a volute intrecciate. Inglesi. Sec. XIX.,649,96.7,False,positional,,Scuola Umbra,,,
+BO0624_81850,147006,307,315,DUE CANDELIERI in rame a volute intrecciate. Inglesi. Sec. XIX.,649,96.7,False,positional,,Scuola Umbra,,,Sec. XIX
 BO0624_81850,147007,308,316,BELL'ALBUM contenente numerose stampe di diversa epoca e grandezza.,650,87.1,False,positional,,Scuola Umbra,STAMPE E INCISIONI,,
 BO0624_81850,147008,309,317,LOTTO di un candeliere in rame argentato e due scatoline in forma circolare: una in pietra dura e una in legno. BEL CANOCCHIALE completamente rivestito in cuoio a,652,79.9,False,positional,,Scuola Umbra,,,
 BO0624_81850,147009,310,318,PARAFAVILLE in legno ricoperto di stoffa rossa rasata.,654,96.4,False,positional,,Scuola Umbra,,,
@@ -314,14 +314,14 @@ BO0624_81850,147011,312,321,"LOTTO di tre bronzi: testa di leone, maniglia e bus
 BO0624_81850,147012,313,322,LOTTO di tre medaglie varie.,662,93.1,False,positional,,Scuola Umbra,,,
 BO0624_81850,147013,314,323,PISTOLA del Sec.XVI.,664,90.5,False,positional,,Scuola Umbra,,,
 BO0624_81850,147014,315,324,ALTRADETTA. a TRE TAZZINE con piattini;nel centro medaglioni rappre-,668,88.7,False,positional,,Scuola Umbra,,,
-BO0624_81850,147015,316,325,"BELL'OROLOGIO a ripetizione, fondo smalto bleu con figu- a SCATOLINA IN ARGENTO interamente smaltata a figure e paesaggi. Venezia Sec. XVIII.",676,74.2,False,positional,,Scuola Umbra,,,
+BO0624_81850,147015,316,325,"BELL'OROLOGIO a ripetizione, fondo smalto bleu con figu- a SCATOLINA IN ARGENTO interamente smaltata a figure e paesaggi. Venezia Sec. XVIII.",676,74.2,False,positional,,Scuola Umbra,,,Sec. XVIII
 BO0624_81850,147016,317,326,DUE TAZZINE da caffe in porcellana oro e arancione.,678,96.2,False,positional,,Scuola Umbra,,,
 BO0624_81850,147017,318,327,RELIQUIARIO in legno dorato e intagliato.,680,95.2,False,positional,,Scuola Umbra,,,
 BO0624_81850,147018,319,328,"GRANDE CORNICE veneziana completamente dorata a belle sagome e decorazioni in pastiglia. Impero. (M. 1,32 x o.95)",682,98.2,False,positional,,Scuola Umbra,,,
 BO0624_81850,147019,320,329,ALTRA DETTA.,683,84.6,False,positional,,Scuola Umbra,,,
 BO0624_81850,147020,321,33,o. LOTTO di cinque graziose cornicine a volute interamente dorate.,685,98.5,False,positional,,Scuola Umbra,,,
 BO0624_81850,147021,322,331,AQUILA in legno su base dellepoca. Vedi Tau. Vll.,686,95.8,False,positional,,Scuola Umbra,,,
-BO0624_81850,147022,323,332,TRE CARTEGLORIE scolpite in legno. Sec. XVII.,687,95.5,False,positional,,Scuola Umbra,,,
+BO0624_81850,147022,323,332,TRE CARTEGLORIE scolpite in legno. Sec. XVII.,687,95.5,False,positional,,Scuola Umbra,,,Sec. XVII
 BO0624_81850,147023,324,333,GRAZIOSA FIGURINA da presepe con completa acconciatura.,688,96.4,False,positional,,Scuola Umbra,,,
 BO0624_81850,147024,325,334,TRE GRAZIOSI CHERUBINI in terraglia policroma.,689,95.7,False,positional,,Scuola Umbra,,,
 BO0624_81850,147025,326,335,"DUE GRAZIOSE PORCELLANE in terraglia inglese, rap-",691,96.0,False,positional,,Scuola Umbra,,,
@@ -348,9 +348,9 @@ BO0624_81850,147045,346,5,d'accompagno.,737,92.3,False,positional,,Scuola France
 BO0624_81850,147046,347,6,"354.MAGNIFICO COSTUME cardinalizio in lana, completo: sot-",738,98.2,False,positional,,Scuola Francese,,,
 BO0624_81850,147047,348,7,"toveste, mantello, cappello, un paio calze.",739,97.5,False,positional,,Scuola Francese,,,
 BO0624_81850,147048,349,355,BELLA PORTIERA in moire giallo con ricca geneffe in legno intagliato e dorato.,740,77.3,False,positional,,Scuola Francese,,,
-BO0624_81850,147049,350,356,MAGNIFICO COFANETTO da centro completamente inta- gliato e baccellature. Sec. XVI. (Vedi Tav. VI).,742,67.6,False,positional,,Scuola Francese,,,
+BO0624_81850,147049,350,356,MAGNIFICO COFANETTO da centro completamente inta- gliato e baccellature. Sec. XVI. (Vedi Tav. VI).,742,67.6,False,positional,,Scuola Francese,,,Sec. XVI
 BO0624_81850,147050,351,357,BEL PIATTO in maiolica a vivaci colori. (Vedi Tav. VI).,744,96.2,False,positional,,Scuola Francese,,,
-BO0624_81850,147051,352,358,BEL ROCCHETTO con decorazioni bleu e stemma in giallo. Faenza. Sec. XVI. (Vedi Tav. VI).,745,97.6,False,positional,,Scuola Francese,,,
+BO0624_81850,147051,352,358,BEL ROCCHETTO con decorazioni bleu e stemma in giallo. Faenza. Sec. XVI. (Vedi Tav. VI).,745,97.6,False,positional,,Scuola Francese,,,Sec. XVI
 BO0624_81850,147052,353,14,35g. DUE MENSOLE a muro intagliate e dorate.,746,96.6,False,positional,,Scuola Francese,,,
 BO0624_81850,147053,354,15,36o. BRUCIA PROFUMI in bronzo dorato.,747,95.9,False,positional,,Scuola Francese,,,
 BO0624_81850,147054,355,36,o.a FINE OROLOGIO a due colori e smalto rappresentante ritratto di giovine signora. Luigi XVI.,749,98.9,False,positional,,Scuola Francese,,,
@@ -359,7 +359,7 @@ BO0624_81850,147056,357,362,LA VITTORIA. Bel frammento di sculturina in bronzo. 
 BO0624_81850,147057,358,363,BELLA POLTRONA in noce a braccioli diritti e cartelle intagliate. Sec.XVI.,754,97.3,False,positional,,Scuola Francese,POLTRONE,,
 BO0624_81850,147058,359,364,"BELLA SEGGIOLINA in noce, a cartelle intagliate a losanghe.",755,96.6,False,positional,,Scuola Francese,,,
 BO0624_81850,147059,360,365,PICCOLA CANTONIERA verde e oro. Alzata con specchiera e decorazioni. Impero.,756,97.3,False,positional,,Scuola Francese,,,
-BO0624_81850,147060,361,366,BEL TAvOLO in noce con gambe a lira e traverse centinate. Sec. XVII.,757,97.0,False,positional,,Scuola Francese,,,
+BO0624_81850,147060,361,366,BEL TAvOLO in noce con gambe a lira e traverse centinate. Sec. XVII.,757,97.0,False,positional,,Scuola Francese,,,Sec. XVII
 BO0624_81850,147061,362,367,SPECCHIERA Impero con ricche decorazioni a sfingi.,758,96.1,False,positional,,Scuola Francese,,,
 BO0624_81850,147062,363,368,"ANTICO TAPPETO da preghiera di magnifico colore. Undici bordi. Interessante pezzo da collezione. (1,5o x 1,18).",767,98.1,False,positional,,Scuola Francese,,,
 BO0624_81850,147063,364,369,"ANTICO TAPPETO orientale《Kula》apiccolodisegno. Sei bordi. Rarissimo pezzo da collezione. (M. 1,62 x 1,17).",768,98.0,False,positional,,Scuola Francese,,,
@@ -377,23 +377,23 @@ BO0624_81850,147074,375,5,T.Lessi:,791,87.5,False,title_direct,T.Lessi,,,,
 BO0624_81850,147075,376,6,"377.FIRENZE ANTICA. Acquerello. Cornice mogano. (o,23 x o,41)",792,98.2,False,positional,,Scuola Francese,,,
 BO0624_81850,147076,377,378,"RITRATTO DI GENTILUOMO. In alto a sinistra si legge: 《Anno aetatis suae XXXVlI》. Pittura ad olio su tela. Cornice in legno scolpito. (M. o,65 x o,55). 38o. LA CROCIFISSIONE. Pittura a tempera su tavola. Taber-",796,82.5,False,positional,,Scuola Francese,,,
 BO0624_81850,147077,378,379,"S. GIUSEPPE ED IL BAMBINO. Pittura su rame, di forma circolare. Cornice dorata.",798,97.4,False,positional,,Scuola Francese,,,
-BO0624_81850,147078,379,4,nacolo a cuspide. Sec. XVI. (Vedi Tav. V).,799,97.2,False,positional,,Scuola Francese,,,
+BO0624_81850,147078,379,4,nacolo a cuspide. Sec. XVI. (Vedi Tav. V).,799,97.2,False,positional,,Scuola Francese,,,Sec. XVI
 BO0624_81850,147079,380,381,VASI CON FIORI. Due pitture ad olio su tela. Cornice ce-,803,96.4,False,positional,,Scuola Napoletana,VASI,,
 BO0624_81850,147080,381,382,"BUSTO DI SANTA. Pittura ad olio su tela. Cornice intagliata e dorata. (M. 0,32 x 0,40). SCODELLONE MONTELUPO a ritratto di donna. Cornice PITTURA ad olio su tavola rappresentante personaggio in costume settecentesco.Cornice veneziana,nero e oro. (Metri (0,16x0,12).",812,65.6,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147081,382,385,COPPA a due anse in maiolica decorata da fiorellini bleu. Venezia?,816,97.0,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147082,383,386,"BEL TAVOLO da refettorio, con gambe tornite. (Sec. XVII). TAVOLO da muro in nero e tartaruga.",818,72.3,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147083,384,387,"BELLA SPINETTA VENEZIANA del XVII Secolo, con sportello dipinto a soggetto allegorico.",822,97.7,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147083,384,387,"BELLA SPINETTA VENEZIANA del XVII Secolo, con sportello dipinto a soggetto allegorico.",822,97.7,False,positional,,Scuola Napoletana,,,Sec. XVII
 BO0624_81850,147084,385,38,g. GRAZIOSO SGABELLO in noce.,824,96.4,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147085,386,38,g.a MORTAIO IN BRONZO con ornati a rilievo e liscrizione:,826,98.2,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147086,387,3,"g0. UN-CASSETTONE lucchese in noce, scolpito con tiranti di bronzo. Quattro cassetti.",830,99.4,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147087,388,391,TRE SEDIE a cartelle intarsiate. Sec. XVI. (Vedi Tav. VI).,832,96.2,False,positional,,Scuola Napoletana,SEDIE,,
+BO0624_81850,147087,388,391,TRE SEDIE a cartelle intarsiate. Sec. XVI. (Vedi Tav. VI).,832,96.2,False,positional,,Scuola Napoletana,SEDIE,,Sec. XVI
 BO0624_81850,147088,389,392,"BELLA CANTONIERA Luigi XV, completamente dorata a graziose decorazioni, Piano in marmo. (Vedi Tav. VII).",834,98.0,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147089,390,393,PICCOLO TAVOLO in ebano filettato in avorio. Un cassetto.,836,96.5,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147090,391,394,DISCHETTO a gambe tornite.,838,92.6,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147091,392,395,"TAPPETINO, fondo pesco con ricami a punto floscio.",840,96.0,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147092,393,3,g6. GOLDONIANA in raso celeste ricamato.,842,98.7,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147093,394,397,GOLDONIANA in velluto viola controtaglio e gilet d’ac- compagno.,844,96.9,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147094,395,398,PIANETAi in broccato con fiori in oro su fondo rosso. Gallone dorato. Sec. XVII.,846,97.4,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147094,395,398,PIANETAi in broccato con fiori in oro su fondo rosso. Gallone dorato. Sec. XVII.,846,97.4,False,positional,,Scuola Napoletana,,,Sec. XVII
 BO0624_81850,147095,396,399,"TRE FRAMMENTI DI ASCIUGAMANI,punto Assisi",848,95.3,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147096,397,399,a BELLA COPERTA in velluto celeste. Quattro teli.( Circa metri 11.,850,96.9,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147097,398,4,"oo. DONNA SEDUTA. Pittura ad olio. Cornice a sbalzo antico. (M. 0,27 x 0,32).",854,99.3,False,positional,,Scuola Napoletana,,,
@@ -422,14 +422,14 @@ BO0624_81850,147119,420,421,BEL CANOCGHIALE in metallo e rivestimento completo,9
 BO0624_81850,147120,421,422,"BUSTO DI VECCHIO. Altorilievo in cera con cornice dorata. GRAZIOSO LAVABO, composto di acquamanile e bacile a RITRATTO DI UOMO. Piccolo rame in cornice nera.",933,52.1,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147121,422,425,"PIATTO D'OTTONE sbalzato, con iscrizione.",939,95.1,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147122,423,426,VENTAGLIO GIAPPONESE in osso figurato e carta graziosamente dipinta a vivaci colori.,940,97.6,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147123,424,427,PICCOLO COFANO decorato da fasce in ferro su fondo di ve'luto rosso. Secolo XVI.,941,75.8,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147123,424,427,PICCOLO COFANO decorato da fasce in ferro su fondo di ve'luto rosso. Secolo XVI.,941,75.8,False,positional,,Scuola Napoletana,,,Sec. XVI
 BO0624_81850,147124,425,428,PIATTO in majolica a decorazione di frutta.,943,95.5,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147125,426,429,"SECCHIELLO in rame, con manico.",944,93.5,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147126,427,7,43o. GRAZIOSO VASETTO orientale in rame con decorazioni flo-,945,98.3,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147127,428,8,reali in ismalto di vivaci colori.,946,97.1,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147128,429,431,INTERESSANTE CRISTO in bronzo. Sec. XIV.,947,94.9,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147128,429,431,INTERESSANTE CRISTO in bronzo. Sec. XIV.,947,94.9,False,positional,,Scuola Napoletana,,,Sec. XIV
 BO0624_81850,147129,430,432,RITRATTO DI PAPA.Altorilievo in bronzo dorato entro cornice di legno scolpito e dorato.,948,97.7,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147130,431,433,PICCOLA TORCERA in bronzo. Secolo XVII.,949,94.9,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147130,431,433,PICCOLA TORCERA in bronzo. Secolo XVII.,949,94.9,False,positional,,Scuola Napoletana,,,Sec. XVII
 BO0624_81850,147131,432,434,ALTRA DETTA simile.,951,90.0,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147132,433,434,"a GRANDE TAZZA da cioccolato, a forma di cigno, Sevres.",953,96.3,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147133,434,434,b DETTA da caffe.,955,88.9,False,positional,,Scuola Napoletana,,,
@@ -439,8 +439,8 @@ BO0624_81850,147136,437,436,BOZZETTO per un quadro. Disegno a penna sotto vetro.
 BO0624_81850,147137,438,437,STUDIO DI TESTA VIRILE. Disegno a matita sotto vetro.,978,96.2,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147138,439,438,"STUDIO PER GENTILUOMO in costume settecentesco. Di segno a matita, sotto vetro.",982,97.4,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147139,440,2,44o. SANTO INGINOCCHIATO. Pittura ad olio su tela.,983,97.9,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147140,441,3,"43g.BATTESIMO DI CRISTO. Dipinto ad olio su tela, del Secolo XVII. Cornice dorata.",984,98.7,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147141,442,441,"FAMIGLIA DI PESCATORI. Bel dipinto ad olio su tela. DUE GRAZIOSE CORNICINE intagliate, dorate e bulinate. (Sec.XVII). DELIZIOSA CORNICE veneziana del Sec. XVII interamente dorata.(M. o,47 x o,62). Vedi Copertina e Tav. V.",987,63.2,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147140,441,3,"43g.BATTESIMO DI CRISTO. Dipinto ad olio su tela, del Secolo XVII. Cornice dorata.",984,98.7,False,positional,,Scuola Napoletana,,,Sec. XVII
+BO0624_81850,147141,442,441,"FAMIGLIA DI PESCATORI. Bel dipinto ad olio su tela. DUE GRAZIOSE CORNICINE intagliate, dorate e bulinate. (Sec.XVII). DELIZIOSA CORNICE veneziana del Sec. XVII interamente dorata.(M. o,47 x o,62). Vedi Copertina e Tav. V.",987,63.2,False,positional,,Scuola Napoletana,,,Sec. XVII
 BO0624_81850,147142,443,444,CORNICINA in legno dorato. 446.PORTAOROLOGIO in legno intagliato e dorato con smalto,989,81.7,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147143,444,445,GRAZIOSA SCATOLA da lavoro sagomata in radica di noce.,990,96.4,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147144,445,10,nel centro.,991,87.0,False,positional,,Scuola Napoletana,,,
@@ -449,9 +449,9 @@ BO0624_81850,147146,447,448,DELIZIOSA CORNICINA circolare a tre ordini. di ricco
 BO0624_81850,147147,448,44,g. GRAZIOSA CORNICE intagliata e dorata.,995,97.4,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147148,449,15,intaglio.Interamente dorata.,996,94.7,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147149,450,16,"45o. CALAMAIO di forma triangolare, in bronzo. Principio del SecoloXVI.",997,97.8,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147150,451,452,MAGNIFICA CASSETTA in rame dorato con decorazioni a volute e stemmi di Casa Torrigiani su fondo di velluto verde dell'epoca. Sec. XVI. (Vedi Tav. VI). GRUPPO IN BRONZO dorato su ricca base di marmo con specchi in porfido. Secolo XVII.,998,76.9,False,positional,,Scuola Napoletana,SPECCHI,,
-BO0624_81850,147151,452,453,PATERA in maiolica decorata da Zone ed ornati a colori. Interessante campione di maiolica Orvietana del Secolo XIV.,1000,98.3,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147152,453,20,la Vergine col Bambino. Dall'altra il Crocefisso. Sec. XV.,1001,97.3,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147150,451,452,MAGNIFICA CASSETTA in rame dorato con decorazioni a volute e stemmi di Casa Torrigiani su fondo di velluto verde dell'epoca. Sec. XVI. (Vedi Tav. VI). GRUPPO IN BRONZO dorato su ricca base di marmo con specchi in porfido. Secolo XVII.,998,76.9,False,positional,,Scuola Napoletana,SPECCHI,,Sec. XVI
+BO0624_81850,147151,452,453,PATERA in maiolica decorata da Zone ed ornati a colori. Interessante campione di maiolica Orvietana del Secolo XIV.,1000,98.3,False,positional,,Scuola Napoletana,,,Sec. XIV
+BO0624_81850,147152,453,20,la Vergine col Bambino. Dall'altra il Crocefisso. Sec. XV.,1001,97.3,False,positional,,Scuola Napoletana,,,Sec. XV
 BO0624_81850,147153,454,21,453.a INTERESSANTE CROCE processionale in argento con smalti ed i simboli dell'Apocalisse a rilievo dorato. Da un lato,1002,98.7,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147154,455,454,PICCOLO TAVOLO da centro con gambe ricurve.,1005,95.5,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147155,456,455,BELLO SPECCHIO molato sagomato con.cornice nera a,1009,96.1,False,positional,,Scuola Napoletana,,,
@@ -466,7 +466,7 @@ BO0624_81850,147163,464,462,COPERTA DI STOFFA a grandi fiori a colori su fondo,1
 BO0624_81850,147164,465,463,COPERTA DI STOFFA gialla a righe.,1031,94.1,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147165,466,464,"GOLDONIANA in panno verde con alamari argentati e gilet d'accompagno. COSTUME COMPLETO da uomo in panno rosso con bottoncini e puntali dorati. Una giubba, un gilet e pantaloni.",1037,74.6,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147166,467,465,"GOLDONIANA in finissimo velluto controtaglio crema, pantaloni a fiorellini e panciotto in raso crema.",1039,98.0,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147167,468,468,"GENTILDONNA: Graziosa pittura ad olio su tela Sec. XIX (0,33 x 0,47) RITRATTO pitturaa ad olio su tela. Cornice a sagome interamente dorata.(M. o,35 x 0,20).",1045,73.2,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147167,468,468,"GENTILDONNA: Graziosa pittura ad olio su tela Sec. XIX (0,33 x 0,47) RITRATTO pitturaa ad olio su tela. Cornice a sagome interamente dorata.(M. o,35 x 0,20).",1045,73.2,False,positional,,Scuola Napoletana,,,Sec. XIX
 BO0624_81850,147168,469,469,"S. CECILIA pittura ad olio su tela. (M. o,6o x o,75)",1051,95.9,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147169,470,470,"AUTORITRATTO. Pittura olio cornice nera. (o,35 x o,43).",1053,96.2,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147170,471,471,MEZZA FIGURA DI DONNA su fondo giallo. Cornice do-,1059,96.0,False,positional,,Scuola Napoletana,,,
@@ -496,7 +496,7 @@ BO0624_81850,147193,494,492,"AMMIRANDO I MOTI FIORENTINI DELLA REPUBBLICA DALL'A
 BO0624_81850,147194,495,493,"SIGNORA NELLO STUDIO. Due pitture ad olio. Cornice dorata.(M.0,26x0,40).",1129,97.1,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147195,496,494,BELLA CORNICINA per specchio in metallo sbalzato ed,1133,96.2,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147196,497,495,SPALLIERA DI SGABELLO? intarsiata in legno ed avorio. Secolo Xv.,1135,96.8,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147197,498,496,DUE FINALI in bronzo dorato su basi di marmi vari. a BEL MORTAIO con ippogrifi e figure a rilievo. Due anse. Sec. XV.,1139,70.8,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147197,498,496,DUE FINALI in bronzo dorato su basi di marmi vari. a BEL MORTAIO con ippogrifi e figure a rilievo. Due anse. Sec. XV.,1139,70.8,False,positional,,Scuola Napoletana,,,Sec. XV
 BO0624_81850,147198,499,497,QUATTRO,1141,77.8,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147199,500,4,g8. GRAZIOSO MOBILE a vetri e a colonnine. Stile Impero.,1145,99.1,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147200,501,500,TAPPETINO DI VELLUTO rosso. Galone.,1147,94.3,False,positional,,Scuola Napoletana,,,
@@ -535,10 +535,10 @@ BO0624_81850,147232,533,537,"STUDIO DI TESTA VIRILE. Disegno a penna sotto vetro
 BO0624_81850,147233,534,538,LOTTO di un panciotto e un paio pantaloni seta nera.,1254,96.2,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147234,535,4,"ciotto in raso verde e ricami in oro, piccola borsa seta verde ricamata.",1255,98.6,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147235,536,5,54o. PANCIOTTO con maniche in seta verde e altro senza maniche con ricami a riporto.,1256,98.8,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147236,537,541,GIOVANETTA. Miniatura su avorio. Secolo XVIII.,1263,95.6,False,positional,,Scuola Napoletana,MINIATURE,,
+BO0624_81850,147236,537,541,GIOVANETTA. Miniatura su avorio. Secolo XVIII.,1263,95.6,False,positional,,Scuola Napoletana,MINIATURE,,Sec. XVIII
 BO0624_81850,147237,538,2,sorregge il Bambino. Bronzo.,1264,96.3,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147238,539,543,SPECCHIETTO in bronzo dorato. Impero.,1265,94.6,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147239,540,4,544.LA VERGINE. Statua scolpita in legno e policromata. Secolo XVII.,1266,98.5,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147239,540,4,544.LA VERGINE. Statua scolpita in legno e policromata. Secolo XVII.,1266,98.5,False,positional,,Scuola Napoletana,,,Sec. XVII
 BO0624_81850,147240,541,545,NIDO DI SETTE TAVOLI triangolari in legno laccato nero con decorazioni a fiori ed uccelli a colori ed oro. Manifattura giapponese.,1268,72.9,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147241,542,546,MADONNA E BAMBINO. Pittura ad olio su tavola.,1272,95.6,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147242,543,547,GRAZIOSA MENSOLINA in terracotta policromata.,1273,95.7,False,positional,,Scuola Napoletana,,,
@@ -550,11 +550,11 @@ BO0624_81850,147247,548,551,"BAMBINO SEDUTO. Pittura ad olio. Cornice dorata. (M
 BO0624_81850,147248,549,552,"PAESAGGIO. Dipinto ad olio.(M. 0,12 x 0,20).",1291,95.1,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147249,550,553,TESTA Dl GIOVINETTA. Pittura ad olio. Cornice nera.,1295,96.0,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147250,551,554,IMPRESSIONE DI CAMPAGNA. Dipintoad olio.Cornice,1300,95.8,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147251,552,555,APOLLO. Bronzetto Veneziano del Sec. XVIII,1302,95.2,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147251,552,555,APOLLO. Bronzetto Veneziano del Sec. XVIII,1302,95.2,False,positional,,Scuola Napoletana,,,Sec. XVIII
 BO0624_81850,147252,553,556,"CANDELIERE in rame argentato con abat-jour in bisquit, rappresentante soggetto orientale. Epoca Luigi Filippo.",1303,98.2,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147253,554,557,CASSONE di noce con davanti a decorazioni floreali intarsiate.Sec.XVII.,1305,97.2,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147254,555,558,"CASSETTONE Luigi XV con filettature a intarsio e piano in marmo sagomato. o. BEL CASSETTONE in noce, a centina, tre cassetti con tiranti in bronzo. Sec. XVIHI.",1308,67.8,False,positional,,Scuola Napoletana,,,
-BO0624_81850,147255,556,559,TAvOLO in noce con gambe a lira. Sec. XVII.,1310,95.2,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147255,556,559,TAvOLO in noce con gambe a lira. Sec. XVII.,1310,95.2,False,positional,,Scuola Napoletana,,,Sec. XVII
 BO0624_81850,147256,557,561,ALTRO DETTO.,1312,84.6,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147257,558,562,"GRAZIOSA PEDANINA Belucistan a 4 bordi. (1,6o x o,8o)",1314,96.2,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147258,559,563,"ANTICO TAPPETO PERSIANO da preghiera a finissimo disegno d'intonazione verdognola. Undici bordi. Interessante pezzo da collezione. (M.1,75x1,10).",1316,98.6,False,positional,,Scuola Napoletana,,,
@@ -565,7 +565,7 @@ BO0624_81850,147262,563,568,"RITRATTO D'UOMO. Pittura ad olio su tela. Cornice d
 BO0624_81850,147263,564,56,g. DONNA CON FIORI. Pittura ad olio su tela. Cornice.(Metri,1334,98.2,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147264,565,570,"RITRATTO DI VECCHIO. Pittura ad olio su tela. Cornice dorata. (M.  0,50 x 0,70).",1336,97.3,False,positional,,Scuola Napoletana,,,
 BO0624_81850,147265,566,571,"PERSONAGGIO IN PARRUCCA.Pittura ad olio su tela. (M. 0,70 x 0,90). S. FRANCESCO. Altorilievo in maiolica dei Robbia. VASO a due anse, in maiolica, decorato da paesaggi a colori. Bello smalto Abbruzzo?",1344,59.8,False,positional,DELLA ROBBIA ANDREA,Scuola Napoletana,VASI,,
-BO0624_81850,147266,567,574,"DUE BEI ROCCHETTI in maiolica Faenza, decorazione a penne di pavone. Sec. XVI.",1346,97.4,False,positional,,Scuola Napoletana,,,
+BO0624_81850,147266,567,574,"DUE BEI ROCCHETTI in maiolica Faenza, decorazione a penne di pavone. Sec. XVI.",1346,97.4,False,positional,,Scuola Napoletana,,,Sec. XVI
 BO0624_81850,147267,568,575,"PASTORALE.Magnifico quadro ad olio.Cornicedorata. (M. 0,83x 0,52).",1350,96.8,False,positional,Francesco Gioli,,,,
 BO0624_81850,147268,569,576,"GIARDINO. Pittura ad olio. Cornice nera. (M. o,4o x o,26).",1354,96.2,False,positional,Francesco Gioli,,,,
 BO0624_81850,147269,570,577,"VECCHIA SEDUTA. Acquerello. Cornice dorata. (o,42 x o,34).",1358,96.3,False,positional,Francesco Gioli,,,,
@@ -577,15 +577,15 @@ BO0624_81850,147274,575,58,"o. MEZZA FIGURA DI DONNA in abito rosso. Pittura ad 
 BO0624_81850,147275,576,581,"RITRATTO DI GENTILUOMO. Finissima miniatura su avorio. Firmata: 《 Herman 》. Graziosa cornice nera a sbalzo. (Metri 0,13x0,11).",1388,98.3,False,positional,Francesco Gioli,,MINIATURE,,
 BO0624_81850,147276,577,582,TAVOLO a piano circolare con calate. Fiancate sagomate.,1390,96.4,False,positional,Francesco Gioli,,,,
 BO0624_81850,147277,578,583,BEL MOBILINO TOSCANO in noce scolpita. Firenze. Se-,1391,96.0,False,positional,Francesco Gioli,,,,
-BO0624_81850,147278,579,584,PICCOLA TAVOLA IN NOCE ad asso di coppe. Sec. XVI.,1393,95.9,False,positional,Francesco Gioli,,COPPE,,
+BO0624_81850,147278,579,584,PICCOLA TAVOLA IN NOCE ad asso di coppe. Sec. XVI.,1393,95.9,False,positional,Francesco Gioli,,COPPE,,Sec. XVI
 BO0624_81850,147279,580,585,DUE BELLE SEGGIOLE BRESCIANE in noce con dos-,1394,95.7,False,positional,Francesco Gioli,,,,
 BO0624_81850,147280,581,586,"DUE GRAZIOSE SEGGIOLE in noce tipo inglese, coperte",1396,96.2,False,positional,Francesco Gioli,,,,
 BO0624_81850,147281,582,587,SGABELLO IN NOCE con spalliera a ventaglio intagliata. (Vedi Tav. V).,1398,97.0,False,positional,Francesco Gioli,,,,
 BO0624_81850,147282,583,58,g. BELLA SEGGIOLA in noce con cartelle graffite. BEL FUCILE arabo con calcio damaschinato e ageminature in argento. o. BELLA LANTERNA da campo in metallo e manico in cuoio.,1401,55.9,False,positional,Francesco Gioli,,,,
 BO0624_81850,147283,584,592,DUE MORIONI con graffiture.,1403,92.9,False,positional,Francesco Gioli,,,,
-BO0624_81850,147284,585,593,"DELIZIOSO PAIO DI ALARI in f g3.a STUPENDO MORTAIO in bronzo a finissime decorazioni di medaglioni, festoni e mensoline. Sul bordo F. G. 1578. Due anse.",1405,88.6,False,positional,Francesco Gioli,,,,
+BO0624_81850,147284,585,593,"DELIZIOSO PAIO DI ALARI in f g3.a STUPENDO MORTAIO in bronzo a finissime decorazioni di medaglioni, festoni e mensoline. Sul bordo F. G. 1578. Due anse.",1405,88.6,False,positional,Francesco Gioli,,,,Sec. XVI
 BO0624_81850,147285,586,594,PUTTO sorreggente una conchiglia che serviva da calamaio. Bronzo in base di giallo antico.,1410,97.8,False,positional,Andrea Briosco detto il Riccio,,,,
-BO0624_81850,147286,587,595,VENERE. Bronzo per una fontanina. Arte dell'Alta Italia della seconda meta.del secolo XVI.,1411,97.8,False,positional,Andrea Briosco detto il Riccio,,,,
+BO0624_81850,147286,587,595,VENERE. Bronzo per una fontanina. Arte dell'Alta Italia della seconda meta.del secolo XVI.,1411,97.8,False,positional,Andrea Briosco detto il Riccio,,,,Sec. XVI
 BO0624_81850,147287,588,596,"BELLA CORNICE finemente intagliata e dorata. (o,66 x o,5o) g8. UNA CORNICE noce e oro.",1414,78.6,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147288,589,597,CASSETTINA IN NOCE sagomata.,1418,93.1,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147289,590,599,RELIQUIARIO in legno rappresentante Santo Vescovo. Tracce di policromia. (Sec. XVIII).,1420,97.6,False,positional,Andrea Briosco detto il Riccio,,,,
@@ -619,9 +619,9 @@ BO0624_81850,147316,617,629,TESTA DI FAUNO in marmo.,1507,92.0,False,positional,
 BO0624_81850,147317,618,631,"LOTTO di due cornici della medesima grandezza. o. LOTTO di un puttino in bronzo, piastra in rame bizantino, coperchio in majolica figurato.",1511,78.6,False,positional,Andrea Briosco detto il Riccio,,CORNICI,,
 BO0624_81850,147318,619,632,"LOTTO di due stampe, una da un originale dello Spagnoletto. Cornici nere. LOTTO di cinque bronzetti vari. STAMPA a colori con cornice rappresentante l'Eucarestia.",1513,60.6,False,positional,Andrea Briosco detto il Riccio,,CORNICI,,
 BO0624_81850,147319,620,635,DONNA NUDA terracotta.,1519,91.3,False,positional,Andrea Briosco detto il Riccio,,,,
-BO0624_81850,147320,621,636,"NOVE CALCHI in gesso di antiche medaglie dei Sec. XV, XVI e XVII. Diverse grandezze.",1521,97.6,False,positional,Andrea Briosco detto il Riccio,,,,
+BO0624_81850,147320,621,636,"NOVE CALCHI in gesso di antiche medaglie dei Sec. XV, XVI e XVII. Diverse grandezze.",1521,97.6,False,positional,Andrea Briosco detto il Riccio,,,,Sec. XV
 BO0624_81850,147321,622,637,CORNICINA in terra cotta con frammento maiolica abbruzzese.,1530,96.7,False,positional,Andrea Briosco detto il Riccio,,,,
-BO0624_81850,147322,623,638,"OTTO CALCHI IN GESSO di antiche medaglie dei Sec. XV, XVI, XVII. Diverse grandezze.",1532,97.5,False,positional,Andrea Briosco detto il Riccio,,,,
+BO0624_81850,147322,623,638,"OTTO CALCHI IN GESSO di antiche medaglie dei Sec. XV, XVI, XVII. Diverse grandezze.",1532,97.5,False,positional,Andrea Briosco detto il Riccio,,,,Sec. XV
 BO0624_81850,147323,624,639,"LOTTO di: Piccola pittura moderna, una cornicina Impero, portacenere in smalto.",1534,97.4,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147324,625,64,o. LOTTO di una rocca e piccolo canocchiale.,1536,97.7,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147325,626,641,"LOTTO di. una forchetta in bronzo, lampada romana in terracotta, portaritratti in pelle e argento, pomo di bastone in avorio.",1538,98.4,False,positional,Andrea Briosco detto il Riccio,,LAMPADE,,
@@ -632,8 +632,8 @@ BO0624_81850,147329,630,645,AVORIO DI BELLA patina rappresentante donna giacente
 BO0624_81850,147330,631,646,MORIONE di bella forma.,1548,91.7,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147331,632,647,LA VERGINE. Scultura in terracotta.,1550,94.3,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147332,633,648,"ANFORA in terracotta, tinta a nero.",1552,94.3,False,positional,Andrea Briosco detto il Riccio,,,,
-BO0624_81850,147333,634,649,GRANDE PIATTO lattato con stemma. Sec. XVII.,1554,95.3,False,positional,Andrea Briosco detto il Riccio,,,,
-BO0624_81850,147334,635,65,o. DUE CANDELIERI in rame argentato e sbalzato. Sec. XVII.,1556,98.2,False,positional,Andrea Briosco detto il Riccio,,,,
+BO0624_81850,147333,634,649,GRANDE PIATTO lattato con stemma. Sec. XVII.,1554,95.3,False,positional,Andrea Briosco detto il Riccio,,,,Sec. XVII
+BO0624_81850,147334,635,65,o. DUE CANDELIERI in rame argentato e sbalzato. Sec. XVII.,1556,98.2,False,positional,Andrea Briosco detto il Riccio,,,,Sec. XVII
 BO0624_81850,147335,636,651,PIATTO OTTONE inciso.,1558,90.9,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147336,637,652,LOTTO di:5 piccoli pezzi ivetro a forma di 2 ampolline 3a forma di barattolo.,1560,97.4,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147337,638,653,TRE GRAZIOSI PORTAFIORI in vetro.,1562,94.1,False,positional,Andrea Briosco detto il Riccio,,,,
@@ -658,9 +658,9 @@ BO0624_81850,147355,656,675,BELLA COMMODE a centina a tre cassetti con filettatu
 BO0624_81850,147356,657,676,"TAVOLO alla fratina piano circolare con calate, due cassetti. CREDENZA con alzata in noce con intagli nelle cornici. GRAZIOSO TAVOLO quadrangolare in noce； gambe con bella tornitura, un cassetto. Luigi XIHI.",1646,60.0,False,positional,Andrea Briosco detto il Riccio,,CORNICI,,
 BO0624_81850,147357,658,679,QUATTRO BELLE SEGGIOLE inglesi ricoperte di velluto verde.,1648,96.6,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147358,659,68,o. DUE SEGGIOLE Impero bianco e oro con copertura raso oSSO.,1650,98.3,False,positional,Andrea Briosco detto il Riccio,,,,
-BO0624_81850,147359,660,68,o.a GRANDE MORTAIO in bronzo con medaglioni e brucani. Due anse dritte. Sec. XV.,1652,98.7,False,positional,Andrea Briosco detto il Riccio,,,,
+BO0624_81850,147359,660,68,o.a GRANDE MORTAIO in bronzo con medaglioni e brucani. Due anse dritte. Sec. XV.,1652,98.7,False,positional,Andrea Briosco detto il Riccio,,,,Sec. XV
 BO0624_81850,147360,661,682,LA MADDALENA. Ricamo in tela. TAPPETINO in velluto rosso con gallone dorato.,1656,75.4,False,positional,Andrea Briosco detto il Riccio,,,,
-BO0624_81850,147361,662,683,TAPPETINO DI STOFFA a fiori Gallone giallo. COSTUME PER UOMO in stoffa in seta arancione: gilet seta bianca con fiori ricamati. Sec. XVII.,1660,80.2,False,positional,Andrea Briosco detto il Riccio,,,,
+BO0624_81850,147361,662,683,TAPPETINO DI STOFFA a fiori Gallone giallo. COSTUME PER UOMO in stoffa in seta arancione: gilet seta bianca con fiori ricamati. Sec. XVII.,1660,80.2,False,positional,Andrea Briosco detto il Riccio,,,,Sec. XVII
 BO0624_81850,147362,663,684,FREGIO in broccatello giallo e bleu.,1662,94.6,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147363,664,685,"a ALTRO DETTO in raso celeste. COSTUME COMPLETO di guardia svizzera: Braghe, giubba COSTUME COMPLETO da gentiluomo del Sec. XVIHI in velluto nero. Una giacca, un paio di calzoncini.",1668,69.4,False,positional,Andrea Briosco detto il Riccio,,,,
 BO0624_81850,147364,665,688,GOLDONIANA in seta noisette.,1672,93.1,False,positional,Andrea Briosco detto il Riccio,,,,
@@ -673,7 +673,7 @@ BO0624_81850,147370,671,694,"BOULEVARD DES ITALIENS. Acquerello. Cornice dorata.
 BO0624_81850,147371,672,695,LOTTO di due piatti in terraglia a diverse decorazioni e,1700,96.6,False,positional,A.Lemmi,,PIATTI,,
 BO0624_81850,147372,673,696,"LOTTO di tre piatti in terraglia a diverse decorazioni, co-",1701,96.6,False,positional,A.Lemmi,,PIATTI,,
 BO0624_81850,147373,674,697,TRE GRAZIOSISSIMI ANGIOLINI in legno policromo.,1703,95.8,False,positional,A.Lemmi,,,,
-BO0624_81850,147374,675,699,"PITTURA AD OLIO su tela, del Sec. XVII (o,31 x o,37). g8. GRANDE CORNICE intagliata a baccellature e decorazioni in pastiglia. Interamente dorata.(M. 1,o2 x o,75).",1705,80.5,False,positional,A.Lemmi,,,,
+BO0624_81850,147374,675,699,"PITTURA AD OLIO su tela, del Sec. XVII (o,31 x o,37). g8. GRANDE CORNICE intagliata a baccellature e decorazioni in pastiglia. Interamente dorata.(M. 1,o2 x o,75).",1705,80.5,False,positional,A.Lemmi,,,,Sec. XVII
 BO0624_81850,147375,676,700,"PAESAGGIO CON FIGURE. Pittura ad olio, su tela. Ricca cornice intagliata e dorata. (M. o,41 x o,57).",1709,97.9,False,positional,A.Lemmi,,,,
 BO0624_81850,147376,677,701,"BEVITORI. Pittura ad olio su tavola. (M. o,10 x o,15).",1713,96.0,False,positional,A.Lemmi,,,,
 BO0624_81850,147377,678,702,"SOGGETTO MITOLOGICO. Pittura ad olio, su tela. Cornice dorata.(M. 0,26 x 0,20).",1717,97.3,False,positional,A.Lemmi,,,,
@@ -713,5 +713,5 @@ BO0624_81850,147410,711,736,LOTTO di: piccola pittura su tavola; portacenere e p
 BO0624_81850,147411,712,737,DUE ANTICHI LIBRI con legature in cuoio.,1823,95.1,False,positional,,Scuola Bisantina,,,
 BO0624_81850,147412,713,738,BUSTO in gesso. Copia dell'originale del Bernini esistente,1827,96.6,False,positional,BERNINI GIOVANNI LORENZO,Scuola Bisantina,,,
 BO0624_81850,147413,714,739,DUE BACINETTI in ferro.,1829,91.7,False,positional,,Scuola Bisantina,,,
-BO0624_81850,147414,715,740,TESTA IN ISTUCCO rappresentante filosofo. Arte Italiana del Secolo XVI.,1833,97.2,False,positional,,Scuola Bisantina,,,
+BO0624_81850,147414,715,740,TESTA IN ISTUCCO rappresentante filosofo. Arte Italiana del Secolo XVI.,1833,97.2,False,positional,,Scuola Bisantina,,,Sec. XVI
 BO0624_81850,147415,716,741,"LOTTO di una base triangolare in bronzo, e frammento go-",1837,96.4,False,positional,,Scuola Bisantina,,,

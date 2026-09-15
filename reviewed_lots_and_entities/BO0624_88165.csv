@@ -27,7 +27,7 @@ BO0624_88165,274258,25,25,"| Desgl.Pendant z.Vor. Professor August Fink, Munchen
 BO0624_88165,274259,26,26,27 | Abendlandschaft. Bezeichnet: A. Fink. Munchen. Sonnenuntergang im Winter.                   | Leinw.59/88   |,82,98.2,False,positional,Walter Cleff,,,,
 BO0624_88165,274260,27,29,| Sommer. Pendant z. Vor. Beide bezeichnet:P.v. Gastgeb.                                      | Holz 70/41    |,85,97.6,False,positional,Walter Cleff,,OGGETTI IN LEGNO,,
 BO0624_88165,274261,28,30,|                                                                                             |               |,86,0.0,False,positional,Walter Cleff,,,,
-BO0624_88165,274262,29,31,| Portrat einer Dame. Bezeichnet:1897 Habermann.                                                 | Pastell oval 48/39                    |,89,97.7,False,positional,Hugo von Habermann,,,,
+BO0624_88165,274262,29,31,| Portrat einer Dame. Bezeichnet:1897 Habermann.                                                 | Pastell oval 48/39                    |,89,97.7,False,positional,Hugo von Habermann,,,,Sec. XIX
 BO0624_88165,274263,30,32,| Desgl. Bezeichnet:Habermann 97.                                                                | Pastell oval 35/27                    |,91,97.0,False,positional,Hugo von Habermann,,,,
 BO0624_88165,274264,31,33,| Frauenportrat. Bezeichnet: Habermann.                                                          | Blei 30/20                            |,92,96.8,False,positional,Hugo von Habermann,,OGGETTI IN PIOMBO,,
 BO0624_88165,274265,32,34,"| Frauenakt, stehend. Bezeichnet:Habermann 76                                                    | Feder 50/30                           |",93,97.2,False,positional,Hugo von Habermann,,,,
@@ -37,7 +37,7 @@ BO0624_88165,274268,35,37,"| Madchenportrat. Bezeichnet:Herschel Graz.          
 BO0624_88165,274269,36,38,| Clownscherz.                                                                                   | Feder 24/24                           |,97,93.9,False,positional,Hugo von Habermann,,,,
 BO0624_88165,274270,37,39,| Clownfamilie.                                                                                  | Feder 24/15                           |,98,94.1,False,positional,Hugo von Habermann,,,,
 BO0624_88165,274271,38,40,| Clown im Korb. Beide bezeichnet: Monogramm O. H.                                               | Feder 24/16                           |,99,97.4,False,positional,Hugo von Habermann,,,,
-BO0624_88165,274272,39,42,"| August Humbert t, Frankfurt a. M. Traumerisch. Bezeichnet:Humbert 1877. Ludwig Goeckel 8.3.97. | Karton 43/31 Aus der Auktion Direktor |",101,98.8,False,positional,Hugo von Habermann,,,,
+BO0624_88165,274272,39,42,"| August Humbert t, Frankfurt a. M. Traumerisch. Bezeichnet:Humbert 1877. Ludwig Goeckel 8.3.97. | Karton 43/31 Aus der Auktion Direktor |",101,98.8,False,positional,Hugo von Habermann,,,,Sec. XIX
 BO0624_88165,274273,40,43,| Italienische Schule. Madonna.                                                                  | Holz 25/21                            |,102,96.2,False,positional,Hugo von Habermann,,OGGETTI IN LEGNO,,
 BO0624_88165,274274,41,45,5Ein Prophet.,108,88.9,False,positional,Arthur Kampf,,,,
 BO0624_88165,274275,42,46,Alter Mann mit Pfeife.,116,93.3,False,positional,Max Kauffmann,,,,
@@ -50,11 +50,11 @@ BO0624_88165,274281,48,52,Aufbruch zur Jagd.,162,91.9,False,positional,August He
 BO0624_88165,274282,49,53,Parforce-Jagd.,170,89.7,False,positional,August Hermann Knoop,,,,
 BO0624_88165,274283,50,55,"| Interieur mit alter Frau. Holz 26,5/21 Bezeichnet: G. Kuehl.                                                         |",177,97.4,False,positional,Eugen von Kramer,,ARREDAMENTI,,
 BO0624_88165,274284,51,56,"| Madonna und Heilige. Platte 34,5/26,5                                                                                |",178,96.0,False,positional,Eugen von Kramer,,,,
-BO0624_88165,274285,52,58,"| Adolf Lier, 1826-1882, Wahren bei Brixen. 8 Landschaft mit Madchen und Ziegen. Leinw.21/44 Bezeichnet: A.Lier.       |",180,98.6,False,positional,Eugen von Kramer,,,,
+BO0624_88165,274285,52,58,"| Adolf Lier, 1826-1882, Wahren bei Brixen. 8 Landschaft mit Madchen und Ziegen. Leinw.21/44 Bezeichnet: A.Lier.       |",180,98.6,False,positional,Eugen von Kramer,,,,Sec. XIX
 BO0624_88165,274286,53,59,"| Hermann Lindenschmit, Munchen. Alter Bauer mit Pfeife. Leinw.54/46 Bezeichnet: H. Lindenschmit.                      |",181,98.3,False,positional,Eugen von Kramer,,,,
 BO0624_88165,274287,54,61,"| Professor Bernhard Mannfeld, Frankfurt a. M. Mondnacht. Orig.-Rad.P1atte 52/40 Mit Kunstlersignatur und vollem Rand. |",183,98.7,False,positional,Eugen von Kramer,,,,
 BO0624_88165,274288,55,62,| Monogrammist J. S. R. Gebirgslandschaft mit See. Aquarell 17/23 Bezeichnet: Monogr. J. S. R.                         |,184,98.2,False,title_direct,,,Aquarelle,,
-BO0624_88165,274289,56,63,"| Alexander Mroczkowski, Krakau. 3Landschaft mit Hitte und Staffage. Leinw.26/39 Bezeichnet: A. Mroczkowski 1878.      |",185,98.6,False,positional,Eugen von Kramer,,,,
+BO0624_88165,274289,56,63,"| Alexander Mroczkowski, Krakau. 3Landschaft mit Hitte und Staffage. Leinw.26/39 Bezeichnet: A. Mroczkowski 1878.      |",185,98.6,False,positional,Eugen von Kramer,,,,Sec. XIX
 BO0624_88165,274290,57,65,"| T.Ortlieb, Munchen. Guitarrespielerin. Bezeichnet: T. O.                                       | Leinw.50/40    |",192,97.6,False,positional,Curt Ruger,,,,
 BO0624_88165,274291,58,66,"| Professor Georg Papperitz, Munchen.                                                            | Leinw.60/40    |",193,96.8,False,positional,Curt Ruger,,,,
 BO0624_88165,274292,59,67,| Frauenakt im Wald. Kinderportrat. Beide bezeichnet:G. Papperitz.                               | Pastell 40/34  |,194,98.0,False,positional,Curt Ruger,,,,
@@ -65,15 +65,15 @@ BO0624_88165,274296,63,74,Herbstlandschaft.,202,91.4,False,positional,Curt Ruger
 BO0624_88165,274297,64,76,"| Hans Schrader, Munchen. Aus Jenbach.                                                                                               | Aquarell 58/43 |",211,97.0,False,title_direct,,,Aquarelle,,
 BO0624_88165,274298,65,77,| Desgl. Schreckhorner. Pendant z. Vor.                                                                                              | Aquarell 61/44 |,212,97.0,False,title_direct,,,Aquarelle,,
 BO0624_88165,274299,66,78,"79 Tanzerin. | Samtlich bezeichnet: H. Schrader. Victor Schramm, Munchen. Bezeichnet: V. Schramm.                                                 | Leinw.101/56   |",213,98.5,False,positional,Robert Scheffer,,,,
-BO0624_88165,274300,67,80,"| J. G. Schreyer. Kihe an der Tranke. Bezeichnet: J. G. Schreyer f. 1833. S. Sperlich t, Munchen.                                    | Leinw.24/34,5  |",214,98.5,False,positional,Robert Scheffer,,,,
-BO0624_88165,274301,68,81,"| Katzenfrihstuck. Bezeichnet: S. Sperlich, Munchen. Hendrik van Steenwijk,1580-1640,London.                                         | Holz 16/21,5   |",215,98.5,False,positional,Robert Scheffer,,OGGETTI IN LEGNO,,
-BO0624_88165,274302,69,82,"| Kircheninneres mit Staffage. Bezeichnet: H.V. S. 1620. (Von Professor Hauser in Munchen,alte Pinakothek, als Original bezeichnet). | Holz 18/16     |",216,98.9,False,positional,Robert Scheffer,,OGGETTI IN LEGNO,,
+BO0624_88165,274300,67,80,"| J. G. Schreyer. Kihe an der Tranke. Bezeichnet: J. G. Schreyer f. 1833. S. Sperlich t, Munchen.                                    | Leinw.24/34,5  |",214,98.5,False,positional,Robert Scheffer,,,,Sec. XIX
+BO0624_88165,274301,68,81,"| Katzenfrihstuck. Bezeichnet: S. Sperlich, Munchen. Hendrik van Steenwijk,1580-1640,London.                                         | Holz 16/21,5   |",215,98.5,False,positional,Robert Scheffer,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88165,274302,69,82,"| Kircheninneres mit Staffage. Bezeichnet: H.V. S. 1620. (Von Professor Hauser in Munchen,alte Pinakothek, als Original bezeichnet). | Holz 18/16     |",216,98.9,False,positional,Robert Scheffer,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88165,274303,70,86,| Junge Romerin. Leinw.0val 63/49                                                                                      |,223,95.2,False,positional,O.Thoma,,,,
 BO0624_88165,274304,71,87,"| Rauchende Fischer am Feuer. Hollandisches Interieuer. Holz 26/19,5                                                   |",224,97.7,False,positional,O.Thoma,,OGGETTI IN LEGNO,,
 BO0624_88165,274305,72,88,| Hollandische Landschaft mit Staffage. Holz 17/23 Kanallandschaft im Winter. Pendant z. Vor.                          |,225,98.3,False,positional,O.Thoma,,OGGETTI IN LEGNO,,
 BO0624_88165,274306,73,89,"| Professor Hermann Urban, Munchen. Tanzstunde.                                                                        |",226,96.6,False,positional,O.Thoma,,,,
 BO0624_88165,274307,74,90,| Kreide auf Tonpapier 80/129 Bezeichnet: H. Urban.                                                                    |,227,96.8,False,positional,O.Thoma,,,,
-BO0624_88165,274308,75,91,"| Friedrich Voltz, 1817-1886,Munchen. Karton 25,5/33 Rind auf der Weide. Bezeichnet: F V und Nachlafstempel.           |",228,98.5,False,positional,O.Thoma,,,,
+BO0624_88165,274308,75,91,"| Friedrich Voltz, 1817-1886,Munchen. Karton 25,5/33 Rind auf der Weide. Bezeichnet: F V und Nachlafstempel.           |",228,98.5,False,positional,O.Thoma,,,,Sec. XIX
 BO0624_88165,274309,76,92,"| Professor Josef Wenglein, Munchen. 2Alte Weiden in der Wiese. Leinw.45,5/71 Bezeichnet: J. Wenglein, Passy.          |",229,98.5,False,positional,O.Thoma,,,,
 BO0624_88165,274310,77,93,"| R.R. von Wichera, Wien. Die Ruhe am Abend. Motiv von Burgschleinitz. Leinw. 40/66 Bezeichnet:R. R. von Wichera.      |",230,98.6,False,positional,O.Thoma,Scuola Viennese,,,
 BO0624_88165,274311,78,95,"| Rudolf Bernhard Willmann, Paris-Mu nchen. Stilleben, Fruichte und Venezianerglas. Holz 47,5/32 Bezeichnet: Willmann. | ## Ludwig Willroider, t Munchen.",232,87.6,False,title_direct,Ludwig Willroider,,OGGETTI IN LEGNO,,
@@ -82,8 +82,8 @@ BO0624_88165,274313,80,97,Landschaft aus Karnten. Bezeichnet: Lud. Willroider.,2
 BO0624_88165,274314,81,8,"Schloss Chillon. Leinw.25,5/32,5",242,96.9,False,positional,Zamek,,,,
 BO0624_88165,274315,82,99,"Madchenbrustbild. Leinw.26/21,5 Bezeichnet: J. Raimund (Pseudonym des Kunstlers).",246,98.0,False,positional,Zamek,,,,
 BO0624_88165,274316,83,100,Klosterschule in Ottobeuren.,250,93.1,False,positional,Reinhard Sebastian Zimmermann,,,,
-BO0624_88165,274317,84,101,"Prinzessin Victorine von Isenburg-Birstein  1822. Bezeichnet: Reinhard 1816. Elfenbein,rund. Durchm.8,5 cm. Alter dunkelbrauner Holzrahmen mit Bronze.",255,98.6,False,title_direct,,,Elfenbein,,
-BO0624_88165,274318,85,102,"Herrenportrat. Aelterer Mann. Ende des 18. Jahrhunderts. Karton,oval 14,5/12 cm. Alter Holzrahmen mit Metallaberzug.",256,98.2,False,positional,,,Miniaturen,,
+BO0624_88165,274317,84,101,"Prinzessin Victorine von Isenburg-Birstein  1822. Bezeichnet: Reinhard 1816. Elfenbein,rund. Durchm.8,5 cm. Alter dunkelbrauner Holzrahmen mit Bronze.",255,98.6,False,title_direct,,,Elfenbein,,Sec. XIX
+BO0624_88165,274318,85,102,"Herrenportrat. Aelterer Mann. Ende des 18. Jahrhunderts. Karton,oval 14,5/12 cm. Alter Holzrahmen mit Metallaberzug.",256,98.2,False,positional,,,Miniaturen,,Sec. XVIII
 BO0624_88165,274319,86,103,"- 104 Knabe in blauem Anzug. Elfenbein, rund. Durchm. 5,5 cm.",258,100.0,False,title_direct,,,Elfenbein,,
 BO0624_88165,274320,87,105,"Adelaide de Bourbon. Elfenbein, oval 7/5,5 cm.Bronzerahmen.",261,96.6,False,title_direct,,,Elfenbein,,
 BO0624_88165,274321,88,106,"- bein, oval 6/5 cm. Schwarzer Rahmen mit Bronze.",263,100.0,False,title_direct,,,CORNICI,,
@@ -99,7 +99,7 @@ BO0624_88165,274330,97,117,"Portrat eines Generals. Aquarell-Druck, oval 5/4,5 c
 BO0624_88165,274331,98,118,rahmen. Bezeichnet: n. Jean L. H.,288,93.3,False,positional,,,Miniaturen,,
 BO0624_88165,274332,99,119,"- Neger mit Giraffe. Glas, rund. Durchm. 4 cm. Alter Holzrahmen.",290,100.0,False,positional,,,Miniaturen,,
 BO0624_88165,274333,100,120,"Frauenportrat. Blaues Kleid mit Perlenkette.,Kunigunde von Polen"". Kupfer, oval 10/7 cm. Alter Holzrahmen.",291,98.0,False,positional,,,Miniaturen,,
-BO0624_88165,274334,101,121,"- Herrenportrat. Blauer Rock um 1800. Elfenbein, oval 6/4,5 cm. Holzrahmen.",293,100.0,False,title_direct,,,Elfenbein,,
+BO0624_88165,274334,101,121,"- Herrenportrat. Blauer Rock um 1800. Elfenbein, oval 6/4,5 cm. Holzrahmen.",293,100.0,False,title_direct,,,Elfenbein,,Sec. XIX
 BO0624_88165,274335,102,122,"Alter Bronzerahmen, ornamentiert.",295,93.9,False,title_direct,,,Bronzen,,
 BO0624_88165,274336,103,123,"Desgl. Ebenso. Oel auf Leinw., oval 5/3,5 cm. Alter Bronze-",296,96.4,False,title_direct,,,Bronzen,,
 BO0624_88165,274337,104,124,Amethysten besetzt.,299,90.0,False,positional,,,Miniaturen,,
@@ -124,7 +124,7 @@ BO0624_88165,274355,122,147,"Damenportrat. Elfenbein, oval 4/3 cm. Stoffrahmen."
 BO0624_88165,274356,123,148,"Desgl. Silhouette. Biedermeier. Karton, oval 5,5/4,5 cm.",339,96.2,False,positional,,Biedermeier,Miniaturen,,
 BO0624_88165,274357,124,149,"Huftbild eines jungen Mannes am Schreibtisch. Elfenbein, achteckig 9,5/8 cm. Bezeichnet: Maria Osti f. Holzrahmen.",341,98.2,False,title_direct,,,Elfenbein,,
 BO0624_88165,274358,125,150,"Brustbild einer Nonne. Elfenbein,rund. Durchm.5 cm. Be-",342,96.2,False,title_direct,,,Elfenbein,,
-BO0624_88165,274359,126,151,"Brustbild eines Mannes in schwarzem Rock und Spitzenjabot um 1800. Elfenbein, achteckig 6.5/5,5 cm. Brauner Holz-",344,98.2,False,title_direct,,,OGGETTI IN LEGNO,,
+BO0624_88165,274359,126,151,"Brustbild eines Mannes in schwarzem Rock und Spitzenjabot um 1800. Elfenbein, achteckig 6.5/5,5 cm. Brauner Holz-",344,98.2,False,title_direct,,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88165,274360,127,152,"Desgl. in blauem Rock. Ebenso. Elfenbein, oval 5,5/4,5 cm.",346,96.4,False,title_direct,,,Elfenbein,,
 BO0624_88165,274361,128,153,"Susanna im Bad. Oel auf geschnittener Elfenbeinplatte, oval ,5/8 cm.Holzrahmen.",348,83.8,False,title_direct,,,Elfenbein,,
 BO0624_88165,274362,129,154,9/63/4 cm. Holzrahmen.,351,90.9,False,positional,,,Miniaturen,,
@@ -135,7 +135,7 @@ BO0624_88165,274366,133,158,"- Herzog Joachim Murat. Brustbild von F. Mock, Base
 BO0624_88165,274367,134,159,- Herzogin von Marlborough. Bezeichnet: F. Mock n. Kneller.,361,100.0,False,positional,,,Miniaturen,,
 BO0624_88165,274368,135,160,"Ernst Ludwig von Hessen im Hermelinmantel, mit Pericke.",363,96.4,False,positional,,,Miniaturen,,
 BO0624_88165,274369,136,161,"General Lord Cochrane in Uniform. Elfenbein, oval 6,5/5 cm. Bronzerahmen.",365,97.2,False,title_direct,,,Elfenbein,,
-BO0624_88165,274370,137,162,"- Brustbild eines Kaufmanns in blauem Rock und hoher weisser RuckHalsbinde um 1800. Elfenbein,oval 5/4/4 cm. seite: Merkur auf Papier. Medaillon.",367,100.0,False,title_direct,,,Elfenbein,,
+BO0624_88165,274370,137,162,"- Brustbild eines Kaufmanns in blauem Rock und hoher weisser RuckHalsbinde um 1800. Elfenbein,oval 5/4/4 cm. seite: Merkur auf Papier. Medaillon.",367,100.0,False,title_direct,,,Elfenbein,,Sec. XIX
 BO0624_88165,274371,138,163,"- General Poniatowski, Brustbild in Uniform. Elfenbein, oval 5/4 cm.Bronzerahmen.",369,100.0,False,title_direct,,,Elfenbein,,
 BO0624_88165,274372,139,164,"fage. Karton,oval 6/7 cm.Bronzerahmen.",370,94.7,False,title_direct,,,Bronzen,,
 BO0624_88165,274373,140,165,"Ceres in einer Landschaft stehend, Aehren im Haar, mit rotem, vom Wind gebiahten Tuch,in der Rechten eine Sichel haltend, auf eine Garbe gelehnt. Elfenbein 7/6°/4 cm. Weisser mit Bronze beschlagener Holzrahmen.",371,99.0,False,title_direct,,,Elfenbein,,
@@ -151,7 +151,7 @@ BO0624_88165,274382,149,174,"- Heiliger Petrus mit Buch und Schwert. Email, oval
 BO0624_88165,274383,150,175,"Marie Louise, Gemahlin Napoleon I. als Prinzessin, von Heinrich Fuger. Elfenbein,oval 5/4 cm.Emaillierter Silberrahmen, Schlange mit Edelsteinen besetzt.",386,98.7,False,title_direct,,,Elfenbein,,
 BO0624_88165,274384,151,176,Madchenbildnis mit grunem Hut. Elfenbein 2/1/4 cm. Bronze-,387,96.5,False,title_direct,,,Elfenbein,,
 BO0624_88165,274385,152,177,"Brustbild von Calas. (Aus den Adieux de Calas.) Email auf Kupfer, rund Durchm.7 cm.",389,97.5,False,positional,,,Miniaturen,,
-BO0624_88165,274386,153,178,"- Junge Ungarin, von Georg Kellner, Nurnberg 1838. Porzellan 10/8 cm.",391,100.0,False,positional,,Scuola di Norimberga,Miniaturen,,
+BO0624_88165,274386,153,178,"- Junge Ungarin, von Georg Kellner, Nurnberg 1838. Porzellan 10/8 cm.",391,100.0,False,positional,,Scuola di Norimberga,Miniaturen,,Sec. XIX
 BO0624_88165,274387,154,179,"Murillo, Selbstbildnis. Porzellan 14,5/10 cm.",392,95.5,False,positional,MURILLO BARTOLOME ESTEBAN,,Miniaturen,,
 BO0624_88165,274388,155,180,Lahmer Orgelmann. Aquarell von P. Barbiers.Bezeichnet 10/13. Vergoldeter Holzrahmen.,393,97.6,False,title_direct,,,Aquarelle,,
 BO0624_88165,274389,156,181,Brustbild eines Mannes mit Halskrause. Oel auf Kupfer. Oval 13/10 cm. Vergoldeter Holzrahmen.,394,97.8,False,positional,,,Miniaturen,,
@@ -161,17 +161,17 @@ BO0624_88165,274392,159,184,Zwei Medaillons. Amoretten. Oval je 4/3 cm.,398,95.2
 BO0624_88165,274393,160,185,"und Roxane.Hohe 5/7, 5/6 cm.",403,92.9,False,positional,,,Dosen,,
 BO0624_88165,274394,161,186,"Silberdose, sechseckig mit Tempelsaulen. Hohe 3,5'4/2,5 cm.",404,96.6,False,positional,,,Dosen,,
 BO0624_88165,274395,162,187,"Porzellandose mit Bronzebeschlag. Auf Chamoisgrund Goldmedaillon mit Marie Antoinette,an den Seiten und am Boden Landschaften, Friese von Goldblattern auf blauem Grund.",405,98.8,False,title_direct,,,Bronzen,,
-BO0624_88165,274396,163,188,Desgl. Desgl. Kobaltblauer Grund mit farbigem WatteauMotiv in Goldkartusche. Auf den Seiten Goldranken. Herzformig. Hohe 4/8/7 cm. Bezeichnet: Sevres 1798.,407,98.7,False,positional,,,Dosen,,
+BO0624_88165,274396,163,188,Desgl. Desgl. Kobaltblauer Grund mit farbigem WatteauMotiv in Goldkartusche. Auf den Seiten Goldranken. Herzformig. Hohe 4/8/7 cm. Bezeichnet: Sevres 1798.,407,98.7,False,positional,,,Dosen,,Sec. XVIII
 BO0624_88165,274397,164,189,schaft mit Windmuhle. Oval. Hohe 4/8/6 cm.,409,95.1,False,positional,,,Dosen,,
 BO0624_88165,274398,165,190,- Desgl. (Bonbonniere) mit Brustbild der Konigin Victoria von England und reichem Farben-und Golddekor. Rund. Hohe 7cm.Durchm.10 cm.,411,100.0,False,positional,,,Dosen,,
-BO0624_88165,274399,166,191,Fayencedose mit Bronzebeschlag. Auf dem Deckel Landschaft mit Liebespaar und Blumendekor in Farben. Hohe 4/8/8 cm. Bezeichnet:Lille 1763.,412,98.5,False,title_direct,,,Bronzen,,
+BO0624_88165,274399,166,191,Fayencedose mit Bronzebeschlag. Auf dem Deckel Landschaft mit Liebespaar und Blumendekor in Farben. Hohe 4/8/8 cm. Bezeichnet:Lille 1763.,412,98.5,False,title_direct,,,Bronzen,,Sec. XVIII
 BO0624_88165,274400,167,192,"- Elfenbeindose, innen Schildpatt. Auf dem Deckel Miniatur= bildnis eines Madchens nach Greuze. Rund. Hohe 2,25, Durchm.8,5 cm.",414,100.0,False,title_direct,GREUZE J. B.,,MINIATURE,,
 BO0624_88165,274401,168,193,"Rund,Hohe 2,Durchm.4 cm.",416,92.0,False,positional,,,Dosen,,
 BO0624_88165,274402,169,194,"Engelskopf.Hohe 5,5/8,5/6 cm.",418,93.3,False,positional,,,Dosen,,
 BO0624_88165,274403,170,195,"Silberdose. Rokoko getrieben, auf dem Deckel Liebespaar, auf der Leibung Rokaille-Ornamente. Rund,Hohe 5, Durchm. 13 cm.",419,98.3,False,positional,,,Dosen,,
 BO0624_88165,274404,171,196,"- Desgl. mit Ranken graviert. Hohe 1,5/8,5/5 cm.",421,100.0,False,positional,,,Dosen,,
 BO0624_88165,274405,172,197,"- Spiegeldoschen. Perlmutter Deckel und Boden geschnitten, mit Tigerauge und Silbermontierung.Rund, Hohe 1,25, Durchm.3,5 cm.",423,100.0,False,positional,,,Dosen,,
-BO0624_88165,274406,173,198,"Hohe 11/14/9,5 cm.Bezeichnet:H. 1756.",425,94.6,False,positional,,,Dosen,,
+BO0624_88165,274406,173,198,"Hohe 11/14/9,5 cm.Bezeichnet:H. 1756.",425,94.6,False,positional,,,Dosen,,Sec. XVIII
 BO0624_88165,274407,174,199,- Silberdose. Hollandisch in Form eines beweglichen Fisches. Lange 13/6 cm.,427,100.0,False,positional,,,Dosen,,
 BO0624_88165,274408,175,200,"Figur. Vesta auf Buchsholzsockel. Ganze Hohe 35,5, ohne Sockel 29 cm.",431,97.0,False,positional,,,Bronzen,,
 BO0624_88165,274409,176,201,"- Desgl. Venus Calypigos, auf Holzsockel. Ganze Hohe 29, ohne Sockel 15 cm.",433,100.0,False,positional,,,Bronzen,,
@@ -198,18 +198,18 @@ BO0624_88165,274429,196,222,"Reliefportrat eines Herrn, in Goldfassung. Oval 33/
 BO0624_88165,274430,197,223,Netzuke. Mann mit Facher.,468,92.0,False,positional,,,SCOMPARTI,,
 BO0624_88165,274431,198,224,Desgl. Mann mit Ratte.,469,90.9,False,positional,,,Elfenbein,,
 BO0624_88165,274432,199,225,Paar Knopfe und Nadel. Deckelkanne. Zinngraviert mit Krone und Lorbeerkranz.,476,81.6,False,positional,,,OGGETTI VARI,,
-BO0624_88165,274433,200,226,Inschrift:J. C. Kallert 1841.Hohe 29 cm.,477,94.9,False,positional,,,Elfenbein,,
+BO0624_88165,274433,200,226,Inschrift:J. C. Kallert 1841.Hohe 29 cm.,477,94.9,False,positional,,,Elfenbein,,Sec. XIX
 BO0624_88165,274434,201,227,Hohe 23 cm.,479,83.3,False,positional,,,Elfenbein,,
 BO0624_88165,274435,202,228,Zinnkrug. Fassform. Graviert H. G. Hohe 2l cm.,480,95.3,False,positional,,,Elfenbein,,
 BO0624_88165,274436,203,229,"Desgl. Geschweift, bauchig.Hohe 31 cm.",481,94.6,False,positional,,,Elfenbein,,
-BO0624_88165,274437,204,230,"Humpen. Zinn, graviert A.O. 1860. Hohe 22 cm.",482,95.2,False,positional,,,OGGETTI IN LATTA,,
-BO0624_88165,274438,205,231,"Schraubenkanne. Zinn, graviert A.M. D. 1796. Hohe 29 cm.",483,96.2,False,positional,,,OGGETTI IN LATTA,,
+BO0624_88165,274437,204,230,"Humpen. Zinn, graviert A.O. 1860. Hohe 22 cm.",482,95.2,False,positional,,,OGGETTI IN LATTA,,Sec. XIX
+BO0624_88165,274438,205,231,"Schraubenkanne. Zinn, graviert A.M. D. 1796. Hohe 29 cm.",483,96.2,False,positional,,,OGGETTI IN LATTA,,Sec. XVIII
 BO0624_88165,274439,206,232,"Henkelbecher. Zinn, graviert: Memento mori B. S. Hohe cm.",484,93.2,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88165,274440,207,233,Bechervase. Zinn geschweift mit viereck. Fuss. Hohe 12 cm.,486,96.4,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88165,274441,208,234,"Zwei Salzfasser. Zinn, gewunden. Hohe 6,5 und 5,5 cm.",487,96.1,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88165,274442,209,235,"Flakon. Zinn, bauchig mit Schraubdeckel. Hohe 11,5 cm.",488,96.2,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88165,274443,210,236,"- Fayencekrug mit Zinndeckel und Bodenreif. Weiss,mit Hirsch.",490,100.0,False,positional,,,Elfenbein,,
-BO0624_88165,274444,211,237,Desgl. Desgl. blau mit A.M. S. 1813. Hohe 24 cm.,492,95.5,False,positional,,,Elfenbein,,
+BO0624_88165,274444,211,237,Desgl. Desgl. blau mit A.M. S. 1813. Hohe 24 cm.,492,95.5,False,positional,,,Elfenbein,,Sec. XIX
 BO0624_88165,274445,212,238,"17,5cm.",494,75.0,False,positional,,,Elfenbein,,
 BO0624_88165,274446,213,239,15cm.,496,66.7,False,positional,,,Elfenbein,,
 BO0624_88165,274447,214,240,"Porzellanhumpen. Weiss mit Relief: Putten. Hohe 21,5 cm.",497,96.3,False,positional,,,Elfenbein,,
@@ -219,7 +219,7 @@ BO0624_88165,274450,217,243,"Zinnleuchter, gewunden. Rokoko. Hohe 13,5 cm.",501,
 BO0624_88165,274451,218,244,"Zwei Messkannchen. Zinn, gewunden. Rokoko. Hohe je 12cm.",502,96.2,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88165,274452,219,245,"Radmarke. Hohe 22,5 cm.",504,91.3,False,positional,,,Elfenbein,,
 BO0624_88165,274453,220,246,"- Zinnplateau mit 3 Kannen. Empire.Hohe 25,22 und 18 cm.",506,100.0,False,positional,,,OGGETTI VARI,,
-BO0624_88165,274454,221,247,"- Zunftschild mit Munzen, Krone etc. Zinn. C. E. Z. 1782.",508,100.0,False,positional,,,OGGETTI IN LATTA,,
+BO0624_88165,274454,221,247,"- Zunftschild mit Munzen, Krone etc. Zinn. C. E. Z. 1782.",508,100.0,False,positional,,,OGGETTI IN LATTA,,Sec. XVIII
 BO0624_88165,274455,222,248,"Vase. Porzellan, franzosisch, weiss mit Golddekor, Amorette. Hohe 26 cm.",509,97.1,False,positional,,,VASI,,
 BO0624_88165,274456,223,249,Zwei Teller. Traubenblatter. Berlin.Durchm. 22 cm.,510,95.8,False,positional,,Scuola di Berlino,PIATTI,,
 BO0624_88165,274457,224,250,Teller. Englisch Fayence. Kolumbus landet in Amerika.,511,96.2,False,positional,,,PIATTI,,
@@ -246,7 +246,7 @@ BO0624_88165,274477,244,271,- 272,545,100.0,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274478,245,273,- Desgl. mit Messingscheide. Frankreich.,547,100.0,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274479,246,274,Sabel mit Lowenkopf. Polen.,551,92.6,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274480,247,275,"- Desgl. eines ungarischen Magnaten, in Lederscheide mit Messingbeschlagen.",553,100.0,False,positional,,,Waffen; Geweihe,,
-BO0624_88165,274481,248,276,Drei Yatagan mit Eisenscheiden. Frankreich 1870.,554,95.8,False,positional,,,Waffen; Geweihe,,
+BO0624_88165,274481,248,276,Drei Yatagan mit Eisenscheiden. Frankreich 1870.,554,95.8,False,positional,,,Waffen; Geweihe,,Sec. XIX
 BO0624_88165,274482,249,277,Seitengewehr der Jager. Preussen.,555,93.9,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274483,250,278,Zwei Bayonette.,556,87.5,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274484,251,279,- Hirschfanger mit glattem Messinggriff.,558,100.0,False,positional,,,Waffen; Geweihe,,
@@ -269,8 +269,8 @@ BO0624_88165,274500,267,299,"Brustharnisch,schwarz Eisen mit Doppeladler. Oester
 BO0624_88165,274501,268,300,- Kurassierhelm. Preussen.,592,100.0,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274502,269,301,Lederschako mit Plusch. Nurnberg. Visirhelm. Eisenbronze mit reicher Verzierung. Lederhelm mit Metallbeschlag. Baiern. Burgerwehr.,595,54.3,False,positional,,Scuola di Norimberga,Waffen; Geweihe,,
 BO0624_88165,274503,270,304,- Paar Epaulettes. Baiern.,597,100.0,False,positional,,,Waffen; Geweihe,,
-BO0624_88165,274504,271,305,Epaulette. Frankreich 1870.,598,92.6,False,positional,,,Waffen; Geweihe,,
-BO0624_88165,274505,272,306,"- 307 Militartrommel, 1807 mit Regimentsstempel. Frankreich.",600,100.0,False,positional,,,Waffen; Geweihe,,
+BO0624_88165,274504,271,305,Epaulette. Frankreich 1870.,598,92.6,False,positional,,,Waffen; Geweihe,,Sec. XIX
+BO0624_88165,274505,272,306,"- 307 Militartrommel, 1807 mit Regimentsstempel. Frankreich.",600,100.0,False,positional,,,Waffen; Geweihe,,Sec. XIX
 BO0624_88165,274506,273,308,- 309 Zwei Kriegsbeile.,603,100.0,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274507,274,310,Zwei Dolche in Samtscheiden. Tunis.,605,94.3,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274508,275,311,- 312 Degen mit gebogener Parirstange.,607,100.0,False,positional,,,Waffen; Geweihe,,
@@ -287,7 +287,7 @@ BO0624_88165,274518,285,325,- Bleistatuette auf Holzsockel.,629,100.0,False,posi
 BO0624_88165,274519,286,326,Alter Trauring. Silber mit rot und grunen Steinen. J. N. T.,630,96.4,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274520,287,327,Schuh mit Spange. Metall.,632,92.0,False,positional,,,OGGETTI IN METALLO,,
 BO0624_88165,274521,288,329,329,634,100.0,False,positional,,,Waffen; Geweihe,,
-BO0624_88165,274522,289,330,"Brett mit 7 Plaketten: Friedrich Wilhelm IV.und Gemahlin als Kronprinzenpaar, 2 Eisenplaketten der Sayner-Hutte Durchm. je 8,5 cm., Zinnmed. Niederwalddenkmal, Metallplakette: Pius IX. Durchm. 11,5 cm., 2 Kupferplaketten, versilbert: Apostel Durchm. je 14 cm., Zinnmed. Ausstellung Anvers 1885.",637,99.3,False,positional,,,Waffen; Geweihe,,
+BO0624_88165,274522,289,330,"Brett mit 7 Plaketten: Friedrich Wilhelm IV.und Gemahlin als Kronprinzenpaar, 2 Eisenplaketten der Sayner-Hutte Durchm. je 8,5 cm., Zinnmed. Niederwalddenkmal, Metallplakette: Pius IX. Durchm. 11,5 cm., 2 Kupferplaketten, versilbert: Apostel Durchm. je 14 cm., Zinnmed. Ausstellung Anvers 1885.",637,99.3,False,positional,,,Waffen; Geweihe,,Sec. XIX
 BO0624_88165,274523,290,331,"- 3/7,5cm. Kanne. Amor auf Hirschwagen.",639,100.0,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274524,291,333,333,641,100.0,False,positional,,,Waffen; Geweihe,,
 BO0624_88165,274525,292,334,Holzplakette. Bauer mit Pferd.,644,93.3,False,positional,,,Waffen; Geweihe,,
@@ -369,10 +369,10 @@ BO0624_88165,274600,367,409,"Zinnplatte mit St.Georg, getrieben.",749,94.3,False
 BO0624_88165,274601,368,410,"Weinkuhler. Zinn,getrieben.",750,92.6,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88165,274602,369,411,"Schraubenkanne. Sechseckig. Zinn,getrieben,",751,95.2,False,positional,,,OGGETTI IN LATTA,,
 BO0624_88165,274603,370,412,Zwei Zinnteller.,752,88.2,False,positional,,,PIATTI,,
-BO0624_88165,274604,371,413,Elfenbein-Kruzifix.Ende 17. Jahrhundert.,753,95.0,False,title_direct,,,Elfenbein,,
+BO0624_88165,274604,371,413,Elfenbein-Kruzifix.Ende 17. Jahrhundert.,753,95.0,False,title_direct,,,Elfenbein,,Sec. XVII
 BO0624_88165,274605,372,415,415,755,100.0,False,positional,,,Mobel; Orientalische Teppiche,,
 BO0624_88165,274606,373,416,- 417 Stilet mit Blutrinne. Italienisch.17. Jahrhundert.,758,100.0,False,positional,,,Mobel; Orientalische Teppiche,,
-BO0624_88165,274607,374,418,Degen mit goldtauschierter Klinge. Italienisch. 17. Jahrhundert.,761,96.8,False,positional,,,Mobel; Orientalische Teppiche,,
+BO0624_88165,274607,374,418,Degen mit goldtauschierter Klinge. Italienisch. 17. Jahrhundert.,761,96.8,False,positional,,,Mobel; Orientalische Teppiche,,Sec. XVII
 BO0624_88165,274608,375,420,420,763,100.0,False,positional,,,Mobel; Orientalische Teppiche,,
 BO0624_88165,274609,376,421,Glasbecher.,766,83.3,False,positional,,,Mobel; Orientalische Teppiche,,
 BO0624_88165,274610,377,422,- Zwei Figurchen. Porzellan.,768,100.0,False,positional,,,Mobel; Orientalische Teppiche,,
@@ -422,7 +422,7 @@ BO0624_88165,274653,420,468,"Eisernes Schloss, durchbrochen. Renaissance. 40x23 
 BO0624_88165,274654,421,469,- 470 Gruppe. Amazone zu Pferd. Metall. Hohe 42 cm.,834,100.0,False,positional,,,OGGETTI IN METALLO,,
 BO0624_88165,274655,422,471,"Zinnteller, graviert.",836,90.5,False,positional,,,PIATTI,,
 BO0624_88165,274656,423,472,"Orientalische Verzierung. Metall, getrieben.",837,95.3,False,positional,,,OGGETTI IN METALLO,,
-BO0624_88165,274657,424,473,- 474 Zinnhumpen. Furst von Leiningen Miltenberg 1804. Hohe,839,100.0,False,positional,,,Mobel; Orientalische Teppiche,,
+BO0624_88165,274657,424,473,- 474 Zinnhumpen. Furst von Leiningen Miltenberg 1804. Hohe,839,100.0,False,positional,,,Mobel; Orientalische Teppiche,,Sec. XIX
 BO0624_88165,274658,425,475,"- Zinnteller mit Portrat Wilh. Graf von Nassau, Prinz von cm.",841,97.2,False,positional,,,PIATTI,,
 BO0624_88165,274659,426,476,Oranien.Durchm.21 cm.,845,90.9,False,positional,,,Mobel; Orientalische Teppiche,,
 BO0624_88165,274660,427,477,Desgl. Moritz Prinz von Oranien. Durchm.21 cm.,846,95.6,False,positional,,,Mobel; Orientalische Teppiche,,
@@ -512,11 +512,11 @@ BO0624_88165,274743,510,573,"Unbekannter Meister. Heiliger Sebastian, Maria mit 
 BO0624_88165,274744,511,574,## J.Cochran.,1031,100.0,False,title_direct,J.Cochran,,,,
 BO0624_88165,274745,512,575,La Conversation nach A. Watteau. Gr. Q. Fol. Schoner Probedruck vor aller Schrift mit Rand.,1037,97.7,False,positional,L.Crepi,,,,
 BO0624_88165,274746,513,576,Konig Karl von England. 8 im Oval. Alter Abdruck mit,1042,96.2,False,positional,Cornelis van Dalen,,,,
-BO0624_88165,274747,514,577,"## Henry Dawe, 1850,London.",1045,100.0,False,title_direct,Henry Dawe,,,,
+BO0624_88165,274747,514,577,"## Henry Dawe, 1850,London.",1045,100.0,False,title_direct,Henry Dawe,,,,Sec. XIX
 BO0624_88165,274748,515,578,"A. Journey to the Watsch House. Gr. Fol. Prachtvolles Schabkunstblatt, alter Abdruck mit Rand.",1051,97.8,False,positional,John Dean,,STAMPE E INCISIONI,,
-BO0624_88165,274749,516,579,"Jakob Friedrich Deininger, geb.1836, Nurnberg.",1054,100.0,False,positional,John Dean,Scuola di Norimberga,,,
+BO0624_88165,274749,516,579,"Jakob Friedrich Deininger, geb.1836, Nurnberg.",1054,100.0,False,positional,John Dean,Scuola di Norimberga,,,Sec. XIX
 BO0624_88165,274750,517,580,"Madchenkopf nach Eust. Lesueur, gez. von Du Rameau. Vortrefflicher alter Rotdruck mit Rand.",1061,97.7,False,positional,Gilles Demarteau,,,,
-BO0624_88165,274751,518,581,"## William Dickinson,1740-1828,Paris.",1064,100.0,False,title_direct,William Dickinson,,,,
+BO0624_88165,274751,518,581,"## William Dickinson,1740-1828,Paris.",1064,100.0,False,title_direct,William Dickinson,,,,Sec. XVIII
 BO0624_88165,274752,519,582,The Murder of David Rizzio nach J. Graham. Gr.Q.Fol. Prachtvoller alter Abdruck mit Rand.,1066,97.7,False,positional,William Dickinson,,,,
 BO0624_88165,274753,520,583,Prinz Rohan nach Hyac. Rigaud. Gr. Fol. im Oval. Trefflicher fruher Abdruck mit Randchen.,1072,97.6,False,positional,Pierre Drevet,,,,
 BO0624_88165,274754,521,585,585,1074,100.0,False,positional,Pierre Drevet,,,,
@@ -524,12 +524,12 @@ BO0624_88165,274755,522,586,Madonna mit der Meerkatze. Kl. Fol. Aiter Abdruck mi
 BO0624_88165,274756,523,587,Hieronymus im Gehause. Fol. Alter Abdruck.,1080,95.1,False,positional,Albrecht Durer,,,,
 BO0624_88165,274757,524,589,589,1082,100.0,False,positional,Albrecht Durer,,,,
 BO0624_88165,274758,525,590,Simson mit dem Lowen. Ebenso.,1085,93.1,False,positional,Albrecht Durer,,,,
-BO0624_88165,274759,526,591,"Meleagar and Atalante nach Rubens, G. Farington delin, mit der Adresse von John Boydell 1781. Schabkunstblatt wie die folgenden. Roy. Q. Fol. Sehr schoner, frischer alter Abdruck, war gefaltet.Am Plattenrand beschnitten.",1089,99.1,False,positional,Richard Earlom,Scuola di Rubens,STAMPE E INCISIONI,,
+BO0624_88165,274759,526,591,"Meleagar and Atalante nach Rubens, G. Farington delin, mit der Adresse von John Boydell 1781. Schabkunstblatt wie die folgenden. Roy. Q. Fol. Sehr schoner, frischer alter Abdruck, war gefaltet.Am Plattenrand beschnitten.",1089,99.1,False,positional,Richard Earlom,Scuola di Rubens,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_88165,274760,527,592,"The Misers nach Quintin Matsis, mit Boydell's Adresse. Gr. Fol. Prachtvoller fruher Abdruck mit Nadelschrift. Am",1090,98.2,False,positional,Richard Earlom,,,,
 BO0624_88165,274761,528,593,"Sara fuhrt dem Abraham die Hagar zu nach va n der W erff mit Boydell's Adresse. Roy. Fol. mit Nadelschrift, bril-",1092,98.2,False,positional,Richard Earlom,,,,
 BO0624_88165,274762,529,594,Hagar und lsmael nach Corregio. Ebenso.,1094,94.9,False,positional,Richard Earlom,,,,
 BO0624_88165,274763,530,595,A Lady reading nach F. Boll. Gr. Fol. Brillanter alter Ab-,1095,96.4,False,positional,Richard Earlom,,,,
-BO0624_88165,274764,531,596,"## Gerard Edelinck,1640-1707,Paris.",1100,100.0,False,title_direct,Gerard Edelinck,,,,
+BO0624_88165,274764,531,596,"## Gerard Edelinck,1640-1707,Paris.",1100,100.0,False,title_direct,Gerard Edelinck,,,,Sec. XVII
 BO0624_88165,274765,532,597,Erzbischof C. M. Le Tellier nach P. Mignard. Fol. Treff-,1102,96.2,False,positional,Gerard Edelinck,,,,
 BO0624_88165,274766,533,598,Demonstration anatomique (Die Anatomie) nach Rem bran dt. Q.Fol.Trefflicher alter Abdruck mit Randchen.,1107,98.0,False,positional,Johannes Peter de Frey,,,,
 BO0624_88165,274767,534,599,Frauenportrat. Gr.Fol. Schabkunst. Guter alter Abdruck.,1111,96.2,False,positional,Thomas Frye,,,,
@@ -540,9 +540,9 @@ BO0624_88165,274771,538,603,"Isabella, Konigin nach Dems. Ebenso.",1121,94.3,Fal
 BO0624_88165,274772,539,605,605,1123,100.0,False,positional,Francesco Jose de Goya y Lucientes,,,,
 BO0624_88165,274773,540,606,"4 Blatt.Morning,Noon,Evening and Night,die Folge der Tages zeiten.Fol. Gute alte Abdrucke mit Plattenrand.",1135,98.1,False,positional,Valentine Green,,,,
 BO0624_88165,274774,541,2,Blatt. Herbst und Winter in Frauengestalten. Kl. Fol. Sehr,1141,98.2,False,positional,Wenzeslaus Hollar,,,,
-BO0624_88165,274775,542,608,"gute alte Abdrucke, 1641.",1142,92.0,False,positional,Wenzeslaus Hollar,,,,
-BO0624_88165,274776,543,609,"- Joannes Spotiswoode. Fol. Trefflicher alter Abdruck, 1677.",1144,100.0,False,positional,Wenzeslaus Hollar,,,,
-BO0624_88165,274777,544,610,"Jacobus Houbraken,1698-1780,Amsterdam.",1147,100.0,False,positional,Wenzeslaus Hollar,,,,
+BO0624_88165,274775,542,608,"gute alte Abdrucke, 1641.",1142,92.0,False,positional,Wenzeslaus Hollar,,,,Sec. XVII
+BO0624_88165,274776,543,609,"- Joannes Spotiswoode. Fol. Trefflicher alter Abdruck, 1677.",1144,100.0,False,positional,Wenzeslaus Hollar,,,,Sec. XVII
+BO0624_88165,274777,544,610,"Jacobus Houbraken,1698-1780,Amsterdam.",1147,100.0,False,positional,Wenzeslaus Hollar,,,,Sec. XVIII
 BO0624_88165,274778,545,611,Prachtvoller frischer alter Abdruck mit Rand.,1153,95.7,False,positional,Richard Houston,,,,
 BO0624_88165,274779,546,612,J. Ramsden nach R. Homes. Gr.Fol.Schwarzkunst mit,1158,95.8,False,positional,John Jones,,,,
 BO0624_88165,274780,547,613,mit Rand. Blatt. Jagdabenteuer. Kl. Q.Fol. Alte vorzugliche Abdrucke,1164,92.4,False,positional,John Jones,,,,
@@ -550,7 +550,7 @@ BO0624_88165,274781,548,614,Brustbild des Prinzregenten Luitpold. Aquarelldruck.
 BO0624_88165,274782,549,615,2 Blatt. Bildnisse nach M.Kager und B.Hopffer. Ki. Fol.,1173,96.2,False,positional,Philipp und Wolfgang Kilian,,,,
 BO0624_88165,274783,550,616,Hans'I und Greth'l nach Josef Wopfner. Gr.Fol. Mit vollem Rand.,1177,96.8,False,positional,Johann Klaus,,,,
 BO0624_88165,274784,551,617,- 618 Wenn Blatter fallen nach Jul. Marak. Gr. Q. Fol. Ebenso.,1179,100.0,False,positional,Johann Klaus,,,,
-BO0624_88165,274785,552,619,"Gespann am Brunnen, auf der Ruckseite Muscheln. ## Theodor Knesing, geb. 1840, lebt in Munchen.",1185,66.7,False,title_direct,Theodor Knesing,,,,
+BO0624_88165,274785,552,619,"Gespann am Brunnen, auf der Ruckseite Muscheln. ## Theodor Knesing, geb. 1840, lebt in Munchen.",1185,66.7,False,title_direct,Theodor Knesing,,,,Sec. XIX
 BO0624_88165,274786,553,620,Der zwolfjahrige Jesus im Tempel nach Ernst Zim merma n n.,1190,96.6,False,positional,Theodor Knesing,,,,
 BO0624_88165,274787,554,621,- 622,1192,100.0,False,positional,Theodor Knesing,,,,
 BO0624_88165,274788,555,623,- 624,1194,100.0,False,positional,Theodor Knesing,,,,
@@ -558,9 +558,9 @@ BO0624_88165,274789,556,625,- The industrious Cottager nach F. Wheatly. Fol. Ova
 BO0624_88165,274790,557,626,"Miss Bloscam, Nichte des Kunstlers nach ihm. Leicht in Farben gedruckt. Fol.",1220,97.3,False,positional,Robert Laurie,,,,
 BO0624_88165,274791,558,627,- 628,1231,100.0,False,positional,Antoine Masson,,,,
 BO0624_88165,274792,559,629,"G. de Brissacier nach N. Mignard. Fol. im Oval. Vortrefflicher alter Abdruck dieses besten Blattes des beruhmten Meisters, mit Randchen.",1232,98.5,False,positional,Antoine Masson,,,,
-BO0624_88165,274793,560,630,"Zwei Blatt. Gathering Fruit und Gathering Wood nach G. Morland. Fol. Vorzugliche alte Abdrucke mit Rand. L'Imperatrice Josephine nach demselben. Ki. 4 im Oval. Ebenso. Jean Louis Ernest Meissonier,1815-1891, Paris. Napoleon le Grand nach J. Isabey. Ki. 4 In zarten Farben gedruckter alter Abdruck mit Rand.",1240,52.3,False,positional,Joseph Mecou,,,,
+BO0624_88165,274793,560,630,"Zwei Blatt. Gathering Fruit und Gathering Wood nach G. Morland. Fol. Vorzugliche alte Abdrucke mit Rand. L'Imperatrice Josephine nach demselben. Ki. 4 im Oval. Ebenso. Jean Louis Ernest Meissonier,1815-1891, Paris. Napoleon le Grand nach J. Isabey. Ki. 4 In zarten Farben gedruckter alter Abdruck mit Rand.",1240,52.3,False,positional,Joseph Mecou,,,,Sec. XIX
 BO0624_88165,274794,561,633,Kavalier. 8o. Sehr seltene Original-Kaltnadelskizze.,1242,96.1,False,positional,Joseph Mecou,,,,
-BO0624_88165,274795,562,634,"## Henry Meyer,1783-1847,London.",1246,100.0,False,title_direct,Henry Meyer,,,,
+BO0624_88165,274795,562,634,"## Henry Meyer,1783-1847,London.",1246,100.0,False,title_direct,Henry Meyer,,,,Sec. XIX
 BO0624_88165,274796,563,635,druck mit vollem Rand.,1250,91.3,False,positional,Henry Meyer,,,,
 BO0624_88165,274797,564,636,"## Pierre Etienne Moitte,17221780, Paris.",1253,100.0,False,title_direct,Pierre Etienne Moitte,,,,
 BO0624_88165,274798,565,637,La Marchande Hollandoise nach Ger. Dou. Roy. Fol. Ebenso. Madonna della Sedia nach Raphael. Fol. Ebenso.,1255,68.4,False,positional,Pierre Etienne Moitte,,,,
@@ -572,16 +572,16 @@ BO0624_88165,274803,570,644,Abrahams Sacrifice nach Rembran dt. Gr. Fol. Vortref
 BO0624_88165,274804,571,645,alter Abdruck mit Rand. Schwarzkunstblatt.,1274,95.2,False,positional,John Murphy,,,,
 BO0624_88165,274805,572,646,- Kampf zwischen Lowen und Tieger. Roy. Q. Fol. Alter Abdruck.  Superber Farbdruck.,1277,100.0,False,positional,John Murphy,,,,
 BO0624_88165,274806,573,647,Ballkarte. 8 mit vollem Rand.,1281,93.1,False,positional,Eugen Napoleon Neureuther,,,,
-BO0624_88165,274807,574,648,## Daniel Orme  nach 1801.,1288,100.0,False,title_direct,Daniel Orme,,,,
+BO0624_88165,274807,574,648,## Daniel Orme  nach 1801.,1288,100.0,False,title_direct,Daniel Orme,,,,Sec. XIX
 BO0624_88165,274808,575,649,zart in Farben gedruckter alter Abdruck.,1290,95.1,False,positional,Daniel Orme,,,,
 BO0624_88165,274809,576,650,- 651,1292,100.0,False,positional,Daniel Orme,,,,
-BO0624_88165,274810,577,653,"## William Pether,1731—1795,London. Felicity nach ihm selbst. Fol. Schabkunst. Vorzuglicher",1307,77.1,False,title_direct,William Pether,,,,
+BO0624_88165,274810,577,653,"## William Pether,1731—1795,London. Felicity nach ihm selbst. Fol. Schabkunst. Vorzuglicher",1307,77.1,False,title_direct,William Pether,,,,Sec. XVIII
 BO0624_88165,274811,578,654,"Neptun, Deckengemalde im Palais Royal nach Coypel, J.M.Nattier del. Gr.Q.Fol. Schoner alter Abdruck mit Randchen.",1316,98.2,False,positional,Bernard Picart,,,,
 BO0624_88165,274812,579,655,licher Abdruck vor aller Schrift mit vollem Rand.,1321,96.0,False,positional,Bernard Picart,,,,
 BO0624_88165,274813,580,656,Heilige Familie. Orig.Rad.Kl. 4. Alter Abdruck.,1325,95.6,False,positional,Guido Reni,,,,
 BO0624_88165,274814,581,657,16 Blatt aus der Serie der Portrats von Sir Joshua Rey-,1329,96.4,False,positional,Sam.William Reynolds,,,,
 BO0624_88165,274815,582,658,Marie Stuart est forcee de signer son abdication nach Chasselat.Q.Fol. Guter alter Abdruck mit Rand.,1334,98.0,False,positional,Bourgeois de la Richardiere,,,,
-BO0624_88165,274816,583,659,"Peintures de Polygnote a Delphes. XX Tafeln und Text. Roy. Q.Fol. Dessinées et gravees d'apres la description de Pausanias,Rom 1826.Geh.",1338,98.5,False,positional,Franz und Johannes Riepenhausen,,,,
+BO0624_88165,274816,583,659,"Peintures de Polygnote a Delphes. XX Tafeln und Text. Roy. Q.Fol. Dessinées et gravees d'apres la description de Pausanias,Rom 1826.Geh.",1338,98.5,False,positional,Franz und Johannes Riepenhausen,,,,Sec. XIX
 BO0624_88165,274817,584,660,The Waggoner. John Bro w ne sculpsit. Roy.Q. Fol. Schoner,1342,96.4,False,positional,Petrus Paulus Rubens,,,,
 BO0624_88165,274818,585,661,The Watering Place. Engraved by John Bro w ne. Ebenso.,1344,96.2,False,positional,Petrus Paulus Rubens,,,,
 BO0624_88165,274819,586,662,- Landschaft mit Staffage. John Bro wne Sculpsit. Roy.Q. Fol. Prachtvoller Abdruck mit Nadelschrift u. kl. Rand.,1346,100.0,False,positional,Petrus Paulus Rubens,,,,
@@ -593,17 +593,17 @@ BO0624_88165,274824,591,667,- 668 Allegory of Peace. Ebenso mit kleinem Randchen
 BO0624_88165,274825,592,669,Salome mit dem Haupt des Johannes vor Herodes. S.a Bols-,1359,96.4,False,positional,Petrus Paulus Rubens,,,,
 BO0624_88165,274826,593,670,S. Ignatius Loyola. Ma'rinu s sculpsit. Gr. Fol. Ebenso.,1360,96.2,False,positional,Petrus Paulus Rubens,,,,
 BO0624_88165,274827,594,672,- 671 Auffindung eines Kindes.P. van Sompel. Sculpsit.Gr. Q.Fol. Trefflicher alter Abdruck mit Randchen.,1362,100.0,False,positional,Petrus Paulus Rubens,,,,
-BO0624_88165,274828,595,6738,"Thomas Ryder,1746—1810, London.",1366,100.0,False,positional,Petrus Paulus Rubens,,,,
+BO0624_88165,274828,595,6738,"Thomas Ryder,1746—1810, London.",1366,100.0,False,positional,Petrus Paulus Rubens,,,,Sec. XVIII
 BO0624_88165,274829,596,674,The Fortune Teller nach A. Watteau. Fol. Schoner alter,1373,96.2,False,positional,T.Rylert,,PIATTI,,
-BO0624_88165,274830,597,675,"Carlo Sacchi,1617—1707, Pavia.",1376,100.0,False,positional,T.Rylert,,,,
-BO0624_88165,274831,598,676,"Jan Saenredam,1565-1607,Assendeift.",1381,100.0,False,positional,T.Rylert,,,,
+BO0624_88165,274830,597,675,"Carlo Sacchi,1617—1707, Pavia.",1376,100.0,False,positional,T.Rylert,,,,Sec. XVII
+BO0624_88165,274831,598,676,"Jan Saenredam,1565-1607,Assendeift.",1381,100.0,False,positional,T.Rylert,,,,Sec. XVI
 BO0624_88165,274832,599,677,5 Blatt Kostime. 12. Gute alte Abdricke.,1387,94.9,False,positional,T.Rylert,,,,
 BO0624_88165,274833,600,678,Dinglinger nach Ant. Pesne. 8 im Oval.,1393,94.6,False,positional,Georg Friedrich Schmidt,,,,
 BO0624_88165,274834,601,679,- 680,1395,100.0,False,positional,Georg Friedrich Schmidt,,,,
 BO0624_88165,274835,602,681,- 682,1397,100.0,False,positional,Georg Friedrich Schmidt,,,,
 BO0624_88165,274836,603,683,- Alter mit Baret nach Gov. Flinck. 8. Trefflicher alter Abdruck mit Rand. J. 131. Bescheidenheit und Eitelkeit nach Leonardo da Vinci.,1401,74.0,False,positional,Georg Friedrich Schmidt,,,,
 BO0624_88165,274837,604,684,Landschaft mit den Einsiedlern Paulus und Antonius. Q. Fol.,1417,96.6,False,positional,Hermann van Swanevelt,,,,
-BO0624_88165,274838,605,685,"## Pieter Tanje, 1706—1761,Amsterdam.",1420,100.0,False,title_direct,Pieter Tanje,,,,
+BO0624_88165,274838,605,685,"## Pieter Tanje, 1706—1761,Amsterdam.",1420,100.0,False,title_direct,Pieter Tanje,,,,Sec. XVIII
 BO0624_88165,274839,606,686,Daniel Serrurier nach J. M. Quin khard. Ebenso.,1422,95.6,False,positional,Pieter Tanje,,,,
 BO0624_88165,274840,607,687,Johnanes Plantinus nach dems. Fol. Trefflicher alter Abdruck,1424,96.7,False,positional,Pieter Tanje,,,,
 BO0624_88165,274841,608,688,Jesus und die Junger am Oelberg nach Joann. Lanfran chi. Roy. Fol. Alter Abdruck mit Rand.,1429,97.7,False,positional,Camillo Tinti,,,,
@@ -619,18 +619,18 @@ BO0624_88165,274850,617,698,"- Ludovici magni primogenitus, Ludovicus Delphinus 
 BO0624_88165,274851,618,699,Hauptschabkunstblattes mit Rand.,1461,93.9,False,positional,Jan Verkolje,,,,
 BO0624_88165,274852,619,700,druck von grosser Frische.,1466,92.6,False,positional,Nicolaes Verkolje,,,,
 BO0624_88165,274853,620,701,- Musizierende Bauern nach A.v. Ostade. Q. 4. Sehr schoner 1. Abdruck vor aller Schrift mit Randchen.,1471,100.0,False,positional,Jan de Visscher,,,,
-BO0624_88165,274854,621,702,"Jan Joris van Vliet, 1610 bis nach 1631, Delft.",1474,100.0,False,positional,Jan de Visscher,,,,
+BO0624_88165,274854,621,702,"Jan Joris van Vliet, 1610 bis nach 1631, Delft.",1474,100.0,False,positional,Jan de Visscher,,,,Sec. XVII
 BO0624_88165,274855,622,703,Brustbild eines Mannes in Pelz nach dems. 4. Ebenso.,1476,96.1,False,positional,Jan de Visscher,,,,
 BO0624_88165,274856,623,704,Dasselbe Blatt.,1478,87.5,False,positional,Jan de Visscher,,,,
 BO0624_88165,274857,624,705,Der Geograph.,1479,85.7,False,positional,Jan de Visscher,,,,
 BO0624_88165,274858,625,4,°.Ebenso.,1481,85.7,False,positional,Jan de Visscher,,,,
 BO0624_88165,274859,626,707,Dasselbe Blatt. Probedruck vor Vollendung der Platte. alter Abdruck mit Rand.,1486,79.1,False,positional,Jan de Visscher,,,,
-BO0624_88165,274860,627,708,"## Josef Wagner, 1706-1780,Venedig.",1490,100.0,False,title_direct,Josef Wagner,,,,
+BO0624_88165,274860,627,708,"## Josef Wagner, 1706-1780,Venedig.",1490,100.0,False,title_direct,Josef Wagner,,,,Sec. XVIII
 BO0624_88165,274861,628,709,Lady Charlotte Sumt. Roy.Fol. Prachtvoller frischer alter Abdruck mit Rand. Schabkunstblatt.,1496,97.8,False,positional,William Walker,,STAMPE E INCISIONI,,
-BO0624_88165,274862,629,710,"## William Ward,1766-1826,London.",1499,100.0,False,title_direct,William Ward,,,,
+BO0624_88165,274862,629,710,"## William Ward,1766-1826,London.",1499,100.0,False,title_direct,William Ward,,,,Sec. XVIII
 BO0624_88165,274863,630,711,Miss Goodall nach T. Ellerby. Fol. Schabkunstblatt. Pracht-,1501,96.4,False,positional,William Ward,,STAMPE E INCISIONI,,
 BO0624_88165,274864,631,712,- David und Uria nach Ferdinand Bol. Gr. Q. Fol. Schones Schabkunstblatt in vorzuglichem altem Abdruck mit Randchen. n der Dachstube nach Morland. Roy. Fol. Schabkunst-,1503,82.0,False,positional,William Ward,,STAMPE E INCISIONI,,
-BO0624_88165,274865,632,713,"Caroline Wadson,1758-1814,Pimlico (London).",1508,100.0,False,positional,William Ward,,,,
+BO0624_88165,274865,632,713,"Caroline Wadson,1758-1814,Pimlico (London).",1508,100.0,False,positional,William Ward,,,,Sec. XVIII
 BO0624_88165,274866,633,714,"Junges Madchen, nach Romney von Co merford. 12° im Oval. Schoner Abdruck vor der Schrift mit Randchen.",1510,98.0,False,positional,William Ward,,,,
 BO0624_88165,274867,634,715,Mrs. Fordice nach G. Willison.Gr. Fol.,1516,94.4,False,positional,Thomas Watson,,,,
 BO0624_88165,274868,635,716,- 717,1518,100.0,False,positional,Thomas Watson,,,,
@@ -641,16 +641,16 @@ BO0624_88165,274872,639,721,Dasselbe Blatt Ebenso.,1540,91.3,False,positional,Mi
 BO0624_88165,274873,640,722,Herausforderung.Orig.-Rad.Fol.,1542,93.3,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274874,641,723,Zwei Maultiere.Orig.Rad.Q.Fol.E Ebenso. Gerahmt.,1543,95.8,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274875,642,724,Betrunkener Mann. Orig.-Rad. Q.Fol. Ebenso. Desgl. Vergriffen.,1544,96.5,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274876,643,725,"Andrea Andreani,1540-1610. Raub der Sabinerin,nach der Marmorskulptur des J. da Bologna. Hoch Fol. mit Rand.",1545,98.1,False,positional,Michael Leopold Willmann,Scuola Bolognese,,,
-BO0624_88165,274877,644,726,"- Cornelis Bega, 1620—1664,Haarlem.Das Liebespaar am Tische.B.25.Guter Abdruck mit Randchen.",1547,100.0,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274876,643,725,"Andrea Andreani,1540-1610. Raub der Sabinerin,nach der Marmorskulptur des J. da Bologna. Hoch Fol. mit Rand.",1545,98.1,False,positional,Michael Leopold Willmann,Scuola Bolognese,,,Sec. XVI
+BO0624_88165,274877,644,726,"- Cornelis Bega, 1620—1664,Haarlem.Das Liebespaar am Tische.B.25.Guter Abdruck mit Randchen.",1547,100.0,False,positional,Michael Leopold Willmann,,,,Sec. XVII
 BO0624_88165,274878,645,728,728,1549,100.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274879,646,729,"Nicolaus de Bruyn, 1570-1652. Elefant und Drache. Blatt 8 aus der Folge der Tierfabeln.Q. 8.Trefflicher Abdruck.",1552,98.2,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274880,647,730,"Marcus de Bye, 1612-1670. 7 Blatt aus der Folge der Ziegen (Blatt 4 fehit) nach Pau1 Potter. Q.4°. Treffliche alte",1553,98.2,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274879,646,729,"Nicolaus de Bruyn, 1570-1652. Elefant und Drache. Blatt 8 aus der Folge der Tierfabeln.Q. 8.Trefflicher Abdruck.",1552,98.2,False,positional,Michael Leopold Willmann,,,,Sec. XVI
+BO0624_88165,274880,647,730,"Marcus de Bye, 1612-1670. 7 Blatt aus der Folge der Ziegen (Blatt 4 fehit) nach Pau1 Potter. Q.4°. Treffliche alte",1553,98.2,False,positional,Michael Leopold Willmann,,,,Sec. XVII
 BO0624_88165,274881,648,731,5 Blatt aus der I. Folge der Kuhe und Ochsen. Treffliche alte Abdricke mit Randchen.,1555,97.6,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274882,649,732,"- Jaques Callot,1592—1635, Nancy.2 Blatt. Die kleine Passion in 6 Darstellungen 24° im Oval. Gute alte Abdrucke dieser seltenen Blatter mit Rand. talienische Landschaft mit der Nummer 4 (Meaume No. 1190). Q. 8. Vorzuglicher alter Abdruck auf Schellen-",1557,73.6,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274882,649,732,"- Jaques Callot,1592—1635, Nancy.2 Blatt. Die kleine Passion in 6 Darstellungen 24° im Oval. Gute alte Abdrucke dieser seltenen Blatter mit Rand. talienische Landschaft mit der Nummer 4 (Meaume No. 1190). Q. 8. Vorzuglicher alter Abdruck auf Schellen-",1557,73.6,False,positional,Michael Leopold Willmann,,,,Sec. XVI
 BO0624_88165,274883,650,733,kappenpapier mit vollem Rand.,1559,93.3,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274884,651,734,Fol. Trefflicher alter Abdruck mit Rand.,1561,95.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274885,652,735,"Daniel Chodowiecky,1726-1801, Berlin. Ziethen, sitzend vor seinem Konig. Roy. Q.Fol. Guter Abdruck mit Rand.",1562,98.1,False,positional,Michael Leopold Willmann,Scuola di Berlino,,,
+BO0624_88165,274885,652,735,"Daniel Chodowiecky,1726-1801, Berlin. Ziethen, sitzend vor seinem Konig. Roy. Q.Fol. Guter Abdruck mit Rand.",1562,98.1,False,positional,Michael Leopold Willmann,Scuola di Berlino,,,Sec. XVIII
 BO0624_88165,274886,653,736,"Walter Cleff, Dusseldorf. Motiv aus dem Hofgarten in Dusseldorf. Radierungen,wie die folgenden. Platte 25/20",1563,98.1,False,title_direct,Walter Cleff,,ACQUEFORTI,,
 BO0624_88165,274887,654,737,Burg Hausen in der Eifel. Platte 13/9,1565,94.7,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274888,655,738,Taunustal.,1567,81.8,False,positional,Michael Leopold Willmann,,,,
@@ -688,35 +688,35 @@ BO0624_88165,274919,686,788,Geschwister.,1676,84.6,False,positional,Michael Leop
 BO0624_88165,274920,687,789,Turmpappeln.,1680,84.6,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274921,688,790,Fruhling.,1684,80.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274922,689,791,- 792 Motiv bei Sonnenberg Taunus.,1690,100.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274923,690,793,"Dancker Danckerts, 1600-1660.",1694,93.1,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274923,690,793,"Dancker Danckerts, 1600-1660.",1694,93.1,False,positional,Michael Leopold Willmann,,,,Sec. XVII
 BO0624_88165,274924,691,794,- Titelbild zur Folge der Tageszeiten nach Berchem. Q.Fol.Trefflicher alter Abdruck auf Schellenkappenpapier mit Plattenrand.,1696,100.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274925,692,795,"Honore Daumier, 1808-1879. Mr D'Argo. Fol.",1697,95.0,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274925,692,795,"Honore Daumier, 1808-1879. Mr D'Argo. Fol.",1697,95.0,False,positional,Michael Leopold Willmann,,,,Sec. XIX
 BO0624_88165,274926,693,796,A. Delvaux. L'Entre dans Jerusalem nach Stella. Q. Fol.,1701,96.2,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274927,694,797,"Gilles Demarteau, 1729-1776,Paris. 3 Blatt Madchenkopfe C.W. E. Dietricy, 1712-1774, Dresden. Skizze eines Bettlers. 80.Linck 82. Guter alter Abdruck.",1705,77.4,False,title_direct,Gilles Demarteau,,,,
+BO0624_88165,274927,694,797,"Gilles Demarteau, 1729-1776,Paris. 3 Blatt Madchenkopfe C.W. E. Dietricy, 1712-1774, Dresden. Skizze eines Bettlers. 80.Linck 82. Guter alter Abdruck.",1705,77.4,False,title_direct,Gilles Demarteau,,,,Sec. XVIII
 BO0624_88165,274928,695,798,&amp;Leykauf.Roy.Fol.mit Rand.,1706,93.3,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274929,696,801,801,1708,100.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274930,697,802,"Tierkopf und zwei Schafe, 24°. Linck 17.  Ebenso.",1710,95.6,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274931,698,803,Drei Tierkopfe. 24°. Linck 17. Ebenso.,1712,94.3,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274932,699,804,"Albrecht Durer, 1471-1528,Nurnberg. Das Abendmahl aus der grossen Holzschnitt-Passion. Gr. Fol. Vorlrefflicher alter Abdruck auf Papier mit Wasserzeichen nicht bei Hausmann, mit Randchen. Arthur J. Elsley. Goldene Jugendzeit. Farbdruck. Roy.Q. Fol. mit Rand.",1714,84.1,False,title_direct,Albrecht Durer,Scuola di Norimberga,,,
+BO0624_88165,274932,699,804,"Albrecht Durer, 1471-1528,Nurnberg. Das Abendmahl aus der grossen Holzschnitt-Passion. Gr. Fol. Vorlrefflicher alter Abdruck auf Papier mit Wasserzeichen nicht bei Hausmann, mit Randchen. Arthur J. Elsley. Goldene Jugendzeit. Farbdruck. Roy.Q. Fol. mit Rand.",1714,84.1,False,title_direct,Albrecht Durer,Scuola di Norimberga,,,Sec. XVI
 BO0624_88165,274933,700,805,Gr.Q.Fol. mit Rand.,1716,89.5,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274934,701,808,808,1718,100.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274935,702,810,810,1722,100.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274936,703,811,"A.Gampert, Otto Keitel u.A.4 Blatt. Landschaften usw. Orig.-Rad. Fol. u.Q.Fol. mit vollem Rand. Vor der Schrift, davon 1 Blatt mit Widmung von Waldeck, Parlament 1848.",1725,98.7,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274936,703,811,"A.Gampert, Otto Keitel u.A.4 Blatt. Landschaften usw. Orig.-Rad. Fol. u.Q.Fol. mit vollem Rand. Vor der Schrift, davon 1 Blatt mit Widmung von Waldeck, Parlament 1848.",1725,98.7,False,positional,Michael Leopold Willmann,,,,Sec. XIX
 BO0624_88165,274937,704,812,Gr.Fol.mit Rand.,1727,88.2,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274938,705,813,"Bonaventura Genelli,1798-1868. Aus dem Leben eines Kunstlers. 24 Kompositionen in Kupfer gestochen von J.Burger, K.v. Gonzenbach, H. Merz u.H. Schutz.",1728,98.6,False,positional,Michael Leopold Willmann,,OGGETTI IN RAME,,
+BO0624_88165,274938,705,813,"Bonaventura Genelli,1798-1868. Aus dem Leben eines Kunstlers. 24 Kompositionen in Kupfer gestochen von J.Burger, K.v. Gonzenbach, H. Merz u.H. Schutz.",1728,98.6,False,positional,Michael Leopold Willmann,,OGGETTI IN RAME,,Sec. XIX
 BO0624_88165,274939,706,814,Paulus Gottich. 6 Blatt. Die Folge der Vogel. 12 Gute alte Abdr.,1730,96.8,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274940,707,815,"- Hendrik Goltzius,1558-1617,Harlem. Die Beschneidung Christi. Guter alter Abdruck. Gr. Fol. Aufgez.u.gerahmt.",1732,100.0,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274940,707,815,"- Hendrik Goltzius,1558-1617,Harlem. Die Beschneidung Christi. Guter alter Abdruck. Gr. Fol. Aufgez.u.gerahmt.",1732,100.0,False,positional,Michael Leopold Willmann,,,,Sec. XVI
 BO0624_88165,274941,708,816,- 817 Melchior Haffner. Huldigung fur Kaiser Leopold. Gr. Q. Fol.,1734,100.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274942,709,818,"Christ. Gottl.Hammer,1779-1864. Vue de Dresde,prise du",1736,96.3,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274942,709,818,"Christ. Gottl.Hammer,1779-1864. Vue de Dresde,prise du",1736,96.3,False,positional,Michael Leopold Willmann,,,,Sec. XIX
 BO0624_88165,274943,710,819,- Hokusai.18 Fuji-Ansichten auf 2 Blatt.Farbenholzschnitt aus der Folge: 36 Ansichten des Fuji.Q.Fol.,1739,100.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274944,711,820,12 Blatt. Berihmte Landschaften.Farbenholzschn.Q.8.,1740,96.1,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274945,712,821,- Holtzmann. Die Mutter Rembrandts nach C.W.E. Dietrich. 8.Guter Braundruck.,1742,100.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274946,713,822,"- Hubert, Pelletier u.A.42 Blatt. Studien. Lithographie. Gr.Fol.und Gr.Q.Fol",1744,100.0,False,positional,Michael Leopold Willmann,,STAMPE E INCISIONI,,
 BO0624_88165,274947,714,823,Eduard llle und A. Rethel. Totentanzbilder nach ihnen. 8 Blatt.Fol.Holzschn.m.Rand.,1745,97.5,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274948,715,824,"Ang.Kauffmann,1741—1807.2 Blatt.La Separation d'Abalard et Eloise und La Mort d'Eloise. Fol. im Oval. Mezzotinto Gute Abdrucke mit Rand. Gerahmt.",1746,98.6,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274948,715,824,"Ang.Kauffmann,1741—1807.2 Blatt.La Separation d'Abalard et Eloise und La Mort d'Eloise. Fol. im Oval. Mezzotinto Gute Abdrucke mit Rand. Gerahmt.",1746,98.6,False,positional,Michael Leopold Willmann,,,,Sec. XVIII
 BO0624_88165,274949,716,825,Th. Kleehaas. Vor der Schlacht. Heliogr. von Dr.E. Albert &amp; Co.Roy.Q. Fol.mit Rand.,1747,97.5,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274950,717,826,"62 Blatt. Jesus und Johannes in Landschaften stehend. Ausge schnittene Kupferstiche, gemalt in Aquarellfarben und die Gewander etc.in Gold- und Silberbrokat appliziert. Fol.",1751,98.8,False,title_direct,,,OGGETTI IN ORO,,
-BO0624_88165,274951,718,827,"Ferd.Kobell, 1740—1799. Ruhende Schafe in einer Landschaft. 1778.Q.Fol. Trefflicher Abdruck mit Rand.",1752,98.0,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274951,718,827,"Ferd.Kobell, 1740—1799. Ruhende Schafe in einer Landschaft. 1778.Q.Fol. Trefflicher Abdruck mit Rand.",1752,98.0,False,positional,Michael Leopold Willmann,,,,Sec. XVIII
 BO0624_88165,274952,719,828,"Hermann Koch. Herzensangelegenheiten. Farbdruck. Roy.Q. 5 Blatt. Portrats. Nickol, Ortel, Panzer, Peller und Pelz-",1757,66.2,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274953,720,829,6 Blatt. Nach van Dyck u. A. Diverse.,1759,94.3,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274954,721,832,4 Blatt. Portrats. Herder u. A. Diverse. 2 Blatt. Portrats. Charles de St. Denis und Papst Alexander VIll. nach van Westerhout. 8 und Gr.Fol.,1765,83.3,False,positional,Michael Leopold Willmann,,,,
@@ -741,59 +741,59 @@ BO0624_88165,274972,739,853,10 Blatt.,1822,80.0,False,positional,Michael Leopold
 BO0624_88165,274973,740,854,"20 Blatt. Gemalde nach Boehle,Liebermann etc.",1824,95.6,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274974,741,855,20 Blatt. Desgl.,1826,87.5,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274975,742,857,856 24 Blatt. Desgl.,1830,100.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274976,743,858,"- G.M.Kraus, 1727-1806, Weimar. Uebungen fuir Zeichnenschuler, 1. und 2. Heft. No. 712. 12 Blatt in Umschlag. Q.Fol.mit Rand.",1833,100.0,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274976,743,858,"- G.M.Kraus, 1727-1806, Weimar. Uebungen fuir Zeichnenschuler, 1. und 2. Heft. No. 712. 12 Blatt in Umschlag. Q.Fol.mit Rand.",1833,100.0,False,positional,Michael Leopold Willmann,,,,Sec. XVIII
 BO0624_88165,274977,744,859,- J. J. Lidl und J.W. Heckenauer. Giardini Reali de Tarquiny,1835,100.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274978,745,860,nel Gianicolo nach Bibiena. Roy.Q. Fol.mit Rand.,1837,95.7,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274979,746,861,relliert vom Kunstler.Q.Fol. Blatt.Ansichten vom Taunus.,1840,65.1,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274980,747,862,"Thomas Major (Jorma),1720-1799. Ie Vue Maritime nach",1843,96.1,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274980,747,862,"Thomas Major (Jorma),1720-1799. Ie Vue Maritime nach",1843,96.1,False,positional,Michael Leopold Willmann,,,,Sec. XVIII
 BO0624_88165,274981,748,863,Le Chirurgien de Campagne nach D. Teniers. Gr. Q. Fol. mit Rand.,1845,96.7,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274982,749,864,nach F. C. Samba ch. Q. 4. Gerahmt.,1847,93.5,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274983,750,865,"- P.A. Martini,1739-1797.The Exhibition of the Royal Academie 1787.Gr.Q.Fol.In Farben auf Seide gedruckt mit Rand.",1849,100.0,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274983,750,865,"- P.A. Martini,1739-1797.The Exhibition of the Royal Academie 1787.Gr.Q.Fol.In Farben auf Seide gedruckt mit Rand.",1849,100.0,False,positional,Michael Leopold Willmann,,,,Sec. XVIII
 BO0624_88165,274984,751,866,- 一,1851,100.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274985,752,867,A. Meissonier.Clown.Reproduktion.8o.,1853,94.4,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274986,753,868,"K.H.Merz,1806-1875. Austreibung der Juden aus Jerusalem",1854,96.4,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274986,753,868,"K.H.Merz,1806-1875. Austreibung der Juden aus Jerusalem",1854,96.4,False,positional,Michael Leopold Willmann,,,,Sec. XIX
 BO0624_88165,274987,754,869,Prosper Michelot. Le pauvre pretre et le macon. Gr.Fol. Lith.mit Rand.,1856,97.1,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274988,755,870,"- Pietro Monaco, geb. 17i0, Belluno. Heiliger Franciscus nach F.Fontebasso.Fol. mit Randchen.",1858,100.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274989,756,871,gedruckt.Roy.Q. Fol.,1860,90.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274990,757,872,"2Raph.Morghen,1758-1833, Florenz.5 Blatt. Ariost,Dante, Leonardo da Vinci, Petrarca und Tasso nach Verschiedenen. Fol. Gute Abdrucke mit vollem Rand.",1861,98.6,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274991,758,873,"- Reinier Nooms,(Zeemann) 1623-1668. Monkelbans Toren. K1. 4°.Guter alter Abdruck.",1863,100.0,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274990,757,872,"2Raph.Morghen,1758-1833, Florenz.5 Blatt. Ariost,Dante, Leonardo da Vinci, Petrarca und Tasso nach Verschiedenen. Fol. Gute Abdrucke mit vollem Rand.",1861,98.6,False,positional,Michael Leopold Willmann,,,,Sec. XVIII
+BO0624_88165,274991,758,873,"- Reinier Nooms,(Zeemann) 1623-1668. Monkelbans Toren. K1. 4°.Guter alter Abdruck.",1863,100.0,False,positional,Michael Leopold Willmann,,,,Sec. XVII
 BO0624_88165,274992,759,874,Nach W. Altheim.Esel.Q. 4o.Gerahmt,1867,94.1,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274993,760,875,Kreuzschleppung. Ebenso.,1868,91.7,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274994,761,876,一 2 Blatt. Bauern.Ebenso.,1869,92.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,274995,762,877,Nach Hans Thoma. Bauernpaar.In Farben.Q.8o. Gerahmt.,1870,96.1,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274996,763,878,Portrat Schopenhauers 1851.4o.Gerahmt.,1871,94.9,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274997,764,879,"Bartolommeo Pinelli,1781-1834,Rom.Die Folge,malerische Trachten"".Blatt 138 komplett.Gr. Q.Fol. Gute Abdricke mit vollem Rand.",1872,98.4,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274996,763,878,Portrat Schopenhauers 1851.4o.Gerahmt.,1871,94.9,False,positional,Michael Leopold Willmann,,,,Sec. XIX
+BO0624_88165,274997,764,879,"Bartolommeo Pinelli,1781-1834,Rom.Die Folge,malerische Trachten"".Blatt 138 komplett.Gr. Q.Fol. Gute Abdricke mit vollem Rand.",1872,98.4,False,positional,Michael Leopold Willmann,,,,Sec. XIX
 BO0624_88165,274998,765,880,Pooheimer.Flusslandschaft mit Schiffsziehern.12o.Guter,1873,96.4,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,274999,766,881,"Matthys Pool,1670-1726. Berufung des Mathaus nach R.Holzhalb. Fol. Guter alter Abdruck mit Rand.",1875,97.9,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,275000,767,882,"- 883 Zachee Prevost, 1797-1861. Corinne au Cap Misene nach",1877,100.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,275001,768,884,"F. L.J. Rektorzik, 1793-1851.Der ruhende Wanderer.",1881,95.8,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,274999,766,881,"Matthys Pool,1670-1726. Berufung des Mathaus nach R.Holzhalb. Fol. Guter alter Abdruck mit Rand.",1875,97.9,False,positional,Michael Leopold Willmann,,,,Sec. XVII
+BO0624_88165,275000,767,882,"- 883 Zachee Prevost, 1797-1861. Corinne au Cap Misene nach",1877,100.0,False,positional,Michael Leopold Willmann,,,,Sec. XIX
+BO0624_88165,275001,768,884,"F. L.J. Rektorzik, 1793-1851.Der ruhende Wanderer.",1881,95.8,False,positional,Michael Leopold Willmann,,,,Sec. XIX
 BO0624_88165,275002,769,885,- 886 Paul Riess. Alte Baume an der Strasse und Durchsicht auf ein Dorf. Orig. Rad. Q. Fol. mit vollem Rand.,1883,100.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,275003,770,887,A.Robaudi.Der Handschuh. Farbdruck. Roy. Q. Fol. mit Rand.,1885,96.3,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,275004,771,888,"- 889 Felicien Rops, 18331898. 2 Blatt. Deballages u.A. Lithogr.",1887,100.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,275005,772,890,"J.W. Schirmer, 1807—1863. Die Capelle im Walde. Orig.-",1891,96.0,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,275005,772,890,"J.W. Schirmer, 1807—1863. Die Capelle im Walde. Orig.-",1891,96.0,False,positional,Michael Leopold Willmann,,,,Sec. XIX
 BO0624_88165,275006,773,891,Italienische Landschaft mit Turmruine.,1892,94.9,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,275007,774,892,一 Italienische Waldlandschaft. Ebenso.,1893,94.7,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,275008,775,893,"A.H. Schram. Glaube, Liebe, Hoffnung.",1895,94.1,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,275009,776,894,"Ad. Schreyer, 1828-1899. Le Halte dans POase. Photogr. Goupil.Roy.Q. Fol. mit Rand.Gerahmt.",1896,97.6,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,275010,777,895,"P.W.Schwarz, 1760-1815, Nurnberg. Bauernstube nach Ostade.Q. Fol. Vorzuglicher alter Abdruck mit Rand.",1898,98.0,False,positional,Michael Leopold Willmann,Scuola di Norimberga,,,
-BO0624_88165,275011,778,896,"- Christoffel van Sichem, 1550 bis nach 1600. 41 Blatt. Illustrationen zur Bibel nach Aib. Durer u.A. Holzschn.8",1900,100.0,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,275009,776,894,"Ad. Schreyer, 1828-1899. Le Halte dans POase. Photogr. Goupil.Roy.Q. Fol. mit Rand.Gerahmt.",1896,97.6,False,positional,Michael Leopold Willmann,,,,Sec. XIX
+BO0624_88165,275010,777,895,"P.W.Schwarz, 1760-1815, Nurnberg. Bauernstube nach Ostade.Q. Fol. Vorzuglicher alter Abdruck mit Rand.",1898,98.0,False,positional,Michael Leopold Willmann,Scuola di Norimberga,,,Sec. XVIII
+BO0624_88165,275011,778,896,"- Christoffel van Sichem, 1550 bis nach 1600. 41 Blatt. Illustrationen zur Bibel nach Aib. Durer u.A. Holzschn.8",1900,100.0,False,positional,Michael Leopold Willmann,,,,Sec. XVI
 BO0624_88165,275012,779,897,Unbekannter Meister. Schlafender Edelknabe. Farbdruck. Vor,1901,96.5,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,275013,780,898,一 4 Blatt Holzschnitte.120,1903,92.9,False,positional,Michael Leopold Willmann,,OGGETTI IN LEGNO,,
 BO0624_88165,275014,781,899,一 3 Blatt. Aus Russland. Kl. Fol.u. Q. Fol. mit Rand.,1904,95.8,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,275015,782,900,"Napoleon nach der Natur gezeichnet, den 6. Marz 1821 mit Facsimile-Unterschrift, in Farben gedruckt.Farbige Lithogr.8 Gerahmt.",1905,98.4,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,275015,782,900,"Napoleon nach der Natur gezeichnet, den 6. Marz 1821 mit Facsimile-Unterschrift, in Farben gedruckt.Farbige Lithogr.8 Gerahmt.",1905,98.4,False,positional,Michael Leopold Willmann,,,,Sec. XIX
 BO0624_88165,275016,783,901,- Madchenkopf. Rotdruck auf Seide in Oval. 8. Gerahmt.,1907,100.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,275017,784,902,ca.2o0 kleine Kupferstiche in einem Rahmen arrangiert. Roy.Q.Fol.,1908,96.9,False,positional,Michael Leopold Willmann,,CORNICI,,
 BO0624_88165,275018,785,903,- Hans Thoma. Die Marchenerzahlerin. Algraphie.Q. Fol. Gerahmt.,1910,100.0,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,275019,786,904,"A. Varin, 1821—1897. La Fille de Jephte nach Glaize.",1911,96.0,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,275019,786,904,"A. Varin, 1821—1897. La Fille de Jephte nach Glaize.",1911,96.0,False,positional,Michael Leopold Willmann,,,,Sec. XIX
 BO0624_88165,275020,787,905,"Plate 9.,Strawberrys"". Gr.Fol. mit Rand.",1914,94.6,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,275021,788,906,"Jan de Visscher,1636-1691. Kanallandschaft, J. van Goyen del. W.59.Q.Fol.Treflicher alter Abdruck auf Papier mit dem Wappen von Amsterdam und Randchen.",1915,98.6,False,title_direct,Jan de Visscher,,,,
+BO0624_88165,275021,788,906,"Jan de Visscher,1636-1691. Kanallandschaft, J. van Goyen del. W.59.Q.Fol.Treflicher alter Abdruck auf Papier mit dem Wappen von Amsterdam und Randchen.",1915,98.6,False,title_direct,Jan de Visscher,,,,Sec. XVII
 BO0624_88165,275022,789,907,一 Desgl. Ebenso auf Schellenkappenpapier.Scharf beschnitten.,1916,96.7,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,275023,790,908,—,1917,0.0,False,positional,Michael Leopold Willmann,,,,
 BO0624_88165,275024,791,909,licher alter Abdruck mit Randchen.,1920,94.3,False,positional,Michael Leopold Willmann,,,,
-BO0624_88165,275025,792,910,"P. Yver, 1735. Le Doyen de Killerine. 120.",1921,94.9,False,positional,Michael Leopold Willmann,,,,
+BO0624_88165,275025,792,910,"P. Yver, 1735. Le Doyen de Killerine. 120.",1921,94.9,False,positional,Michael Leopold Willmann,,,,Sec. XVIII
 BO0624_88165,275026,793,912,Gebirgslandschaft.Oel.Q.Fol.,1929,93.1,False,positional,,,Oelgemalde,,
 BO0624_88165,275027,794,913,一 Am Meer. Ebenso.,1933,88.9,False,positional,,,Oelgemalde,,
-BO0624_88165,275028,795,914,"- Joh. Daniel Bager, 18. Jahrh.Frankfurt a. M. Zwei Knaben. Kohle auf Tonpapier.Fol. Bezeichnet und Jahrg. 1780.",1937,100.0,False,positional,,,Oelgemalde,,
+BO0624_88165,275028,795,914,"- Joh. Daniel Bager, 18. Jahrh.Frankfurt a. M. Zwei Knaben. Kohle auf Tonpapier.Fol. Bezeichnet und Jahrg. 1780.",1937,100.0,False,positional,,,Oelgemalde,,Sec. XVIII
 BO0624_88165,275029,796,915,"- Beyer, Preusser und Glasemann, Niedernhausen. Im Auto.",1941,100.0,False,positional,,,Oelgemalde,,
 BO0624_88165,275030,797,916,Die Tribune.,1945,84.6,False,positional,,,Oelgemalde,,
 BO0624_88165,275031,798,917,Der Husarenoffizier.,1953,100.0,False,positional,,,Oelgemalde,,
@@ -824,42 +824,42 @@ BO0624_88165,275055,822,947,Missgluckter Fang. Aquarell 40.,2036,93.5,False,titl
 BO0624_88165,275056,823,948,2 Blatt Landschaften.Aquarelle 4°.,2040,100.0,False,title_direct,,,Aquarelle,,
 BO0624_88165,275057,824,949,Das gefundene Buch. Ebenso.,2042,92.6,False,positional,,,Oelgemalde,,
 BO0624_88165,275058,825,950,Jagdhund Leo. Ebenso.,2046,100.0,False,positional,,,Oelgemalde,,
-BO0624_88165,275059,826,951,"Heinrich Funk, 1807-1877, Stuttgart. Aus Sudtyrol. Blei",2051,96.2,False,positional,,,OGGETTI IN PIOMBO,,
-BO0624_88165,275060,827,952,"Friedrich Giessmann, 1810—1847. 3 Blatt. Heimkehr des verlorenen Sohnes, Prometheus etc. Fol. u. Gr. Q.Fol. Blei.",2052,98.1,False,positional,,,OGGETTI IN PIOMBO,,
-BO0624_88165,275061,828,954,"- 953 Guercino, 1591—1666, Bologna. Heiliger. Feder. 8.",2054,100.0,False,positional,GUERCINO,Scuola Bolognese,Oelgemalde,,
-BO0624_88165,275062,829,955,"Karl Hilgers, 1818-1890,D'df. 3 Blatt. Studien aus Holland von 1839. Blei und Tusche.Q.8°. Bezeichnet.",2056,97.9,False,positional,,,OGGETTI IN PIOMBO,,
+BO0624_88165,275059,826,951,"Heinrich Funk, 1807-1877, Stuttgart. Aus Sudtyrol. Blei",2051,96.2,False,positional,,,OGGETTI IN PIOMBO,,Sec. XIX
+BO0624_88165,275060,827,952,"Friedrich Giessmann, 1810—1847. 3 Blatt. Heimkehr des verlorenen Sohnes, Prometheus etc. Fol. u. Gr. Q.Fol. Blei.",2052,98.1,False,positional,,,OGGETTI IN PIOMBO,,Sec. XIX
+BO0624_88165,275061,828,954,"- 953 Guercino, 1591—1666, Bologna. Heiliger. Feder. 8.",2054,100.0,False,positional,GUERCINO,Scuola Bolognese,Oelgemalde,,Sec. XVI
+BO0624_88165,275062,829,955,"Karl Hilgers, 1818-1890,D'df. 3 Blatt. Studien aus Holland von 1839. Blei und Tusche.Q.8°. Bezeichnet.",2056,97.9,False,positional,,,OGGETTI IN PIOMBO,,Sec. XIX
 BO0624_88165,275063,830,956,E.Hochhausler. Drei Grazien.Feder.Q. Fol. Bezeichnet.,2057,96.1,False,positional,,,Oelgemalde,,
-BO0624_88165,275064,831,957,"- Eugen Klimsch, 1839-1896, Frankfurt a. M.Frauenkopf. Fol. Blei mit Nachlafsstempel und No. 92.",2059,100.0,False,positional,,,OGGETTI IN PIOMBO,,
+BO0624_88165,275064,831,957,"- Eugen Klimsch, 1839-1896, Frankfurt a. M.Frauenkopf. Fol. Blei mit Nachlafsstempel und No. 92.",2059,100.0,False,positional,,,OGGETTI IN PIOMBO,,Sec. XIX
 BO0624_88165,275065,832,958,Konvolut. 5 Blatt. Diverse Zeichnungen und Gouache.,2060,96.0,False,positional,,,Oelgemalde,,
-BO0624_88165,275066,833,959,"Hans Makart,1840-1884,Wien.2 Blatt Frauenkopfe. Blei",2061,96.2,False,positional,,Scuola Viennese,OGGETTI IN PIOMBO,,
+BO0624_88165,275066,833,959,"Hans Makart,1840-1884,Wien.2 Blatt Frauenkopfe. Blei",2061,96.2,False,positional,,Scuola Viennese,OGGETTI IN PIOMBO,,Sec. XIX
 BO0624_88165,275067,834,960,studien. Blei. Q.Fol.und 40.,2064,92.6,False,positional,,,OGGETTI IN PIOMBO,,
 BO0624_88165,275068,835,961,Ansicht von Falkenstein. Blei.Q.Fol.,2065,94.4,False,positional,,,OGGETTI IN PIOMBO,,
 BO0624_88165,275069,836,962,2 Blatt. Landschaftsstudien. Blei. Q. 8.,2066,94.6,False,positional,,,OGGETTI IN PIOMBO,,
-BO0624_88165,275070,837,963,"S. Mittersteller. Lieut. a 1'an 1746. Plan des Environs entre les Rivieres du Rhin, Mein,Necre et Nidder avec une representation detaillee de toutes les Campements et marches, faites de deux Armees combinees, sous le glorieux Commendement de Sa Majeste Imperiale Francois le premier alors grand Duc de Toscane 1'an 1745. Dedie a son Excell. le Marechall Comte de Traun.Ganz Gross Q. Fol. mit Legende u.bez.",2067,99.5,False,positional,,,Oelgemalde,,
+BO0624_88165,275070,837,963,"S. Mittersteller. Lieut. a 1'an 1746. Plan des Environs entre les Rivieres du Rhin, Mein,Necre et Nidder avec une representation detaillee de toutes les Campements et marches, faites de deux Armees combinees, sous le glorieux Commendement de Sa Majeste Imperiale Francois le premier alors grand Duc de Toscane 1'an 1745. Dedie a son Excell. le Marechall Comte de Traun.Ganz Gross Q. Fol. mit Legende u.bez.",2067,99.5,False,positional,,,Oelgemalde,,Sec. XVIII
 BO0624_88165,275071,838,964,- Carl Morgenstern  Frankfurt a. M. Blick vom Stengelberg im Siebengebirge. Aquarell. Gr.Q. Fol. Nachlafstempel.,2069,100.0,False,title_direct,MORGENSTERN CARL,,Aquarelle,,
-BO0624_88165,275072,839,965,"- P.F.Peters, 1818-1903,Stuttgart. Aus Wildbad. Aquarell. Gr.Q.Fol. Bezeichnet.",2071,100.0,False,title_direct,,,Aquarelle,,
+BO0624_88165,275072,839,965,"- P.F.Peters, 1818-1903,Stuttgart. Aus Wildbad. Aquarell. Gr.Q.Fol. Bezeichnet.",2071,100.0,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_88165,275073,840,966,Porta. Mutter und Tochter. Federaquarelliert. Q.Fol.,2072,96.0,False,title_direct,,,Aquarelle,,
 BO0624_88165,275074,841,967,"Madchen. Blei, Kreide und Tusche, Kl. 4.",2073,94.6,False,positional,,,OGGETTI IN PIOMBO,,
 BO0624_88165,275075,842,968,一,2076,33.3,False,positional,,,Oelgemalde,,
-BO0624_88165,275076,843,969,"Fr. Wilh. von Schadow,1789-1862,D'df. Pieta. Gerahmt.",2078,96.0,False,positional,,,Oelgemalde,,
+BO0624_88165,275076,843,969,"Fr. Wilh. von Schadow,1789-1862,D'df. Pieta. Gerahmt.",2078,96.0,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88165,275077,844,970,"Kaspar Scheuren, 18101887, D'df.Ein Geist in der Neujahrsnacht.Hebel, allemann. Gedichte.Tusche. Fol.",2080,97.9,False,positional,,,Oelgemalde,,
-BO0624_88165,275078,845,971,"Lorenz Schonberger,1770-1847,Mainz. Baumgruppe. Kreide und Tusche. Q. 4°.",2082,97.1,False,positional,,,Oelgemalde,,
-BO0624_88165,275079,846,972,"- A.M. Schoenhard, Frankfurt a.M.,1825. Les adieux de Calas. Gouache. Gr.Q. Fol.",2084,100.0,False,positional,,,Oelgemalde,,
-BO0624_88165,275080,847,973,"Carl Schweich,1823-1898, D'df. 3 Blatt Landschaftsstudien.",2085,96.5,False,positional,,,Oelgemalde,,
-BO0624_88165,275081,848,974,"Anton Seder, geb.1849, t Munchen. Prunkpokal. Aquarell. Roy.Hoch Fol. Bezeichnet.",2087,97.4,False,title_direct,,,Aquarelle,,
-BO0624_88165,275082,849,975,"Eduard Steinbruck, 1803-1882,Landeck.Die Geburt der",2088,96.2,False,positional,,,Oelgemalde,,
+BO0624_88165,275078,845,971,"Lorenz Schonberger,1770-1847,Mainz. Baumgruppe. Kreide und Tusche. Q. 4°.",2082,97.1,False,positional,,,Oelgemalde,,Sec. XVIII
+BO0624_88165,275079,846,972,"- A.M. Schoenhard, Frankfurt a.M.,1825. Les adieux de Calas. Gouache. Gr.Q. Fol.",2084,100.0,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88165,275080,847,973,"Carl Schweich,1823-1898, D'df. 3 Blatt Landschaftsstudien.",2085,96.5,False,positional,,,Oelgemalde,,Sec. XIX
+BO0624_88165,275081,848,974,"Anton Seder, geb.1849, t Munchen. Prunkpokal. Aquarell. Roy.Hoch Fol. Bezeichnet.",2087,97.4,False,title_direct,,,Aquarelle,,Sec. XIX
+BO0624_88165,275082,849,975,"Eduard Steinbruck, 1803-1882,Landeck.Die Geburt der",2088,96.2,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88165,275083,850,976,brodel. Skizze. Blei. Fol.,2091,91.7,False,positional,,,OGGETTI IN PIOMBO,,
 BO0624_88165,275084,851,977,Dante und Staupung. 2 Blatt Bleiskizzen. 80.,2092,95.3,False,positional,,,Oelgemalde,,
-BO0624_88165,275085,852,978,"Eduard von Steinle,1810-1886,Frankfurt a.M. Audifax und Hadumoth.-Der Brautigam. 2 Bleiskizzen.4",2093,97.9,False,positional,,,Oelgemalde,,
+BO0624_88165,275085,852,978,"Eduard von Steinle,1810-1886,Frankfurt a.M. Audifax und Hadumoth.-Der Brautigam. 2 Bleiskizzen.4",2093,97.9,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88165,275086,853,979,一,2094,33.3,False,positional,,,Oelgemalde,,
-BO0624_88165,275087,854,980,"2 Blatt. Ritter und Liebespaar. Bleiskizzen. Fol. und Unbekannter Meister. Diana im Bad. Rotst. Gr. Q. Fol. Alexander Strahnber, 1814-1882, Munchen. Grablegung. Bleiskizze. Q.Fol.",2100,56.9,False,positional,,,Oelgemalde,,
+BO0624_88165,275087,854,980,"2 Blatt. Ritter und Liebespaar. Bleiskizzen. Fol. und Unbekannter Meister. Diana im Bad. Rotst. Gr. Q. Fol. Alexander Strahnber, 1814-1882, Munchen. Grablegung. Bleiskizze. Q.Fol.",2100,56.9,False,positional,,,Oelgemalde,,Sec. XIX
 BO0624_88165,275088,855,983,一,2102,33.3,False,positional,,,Oelgemalde,,
 BO0624_88165,275089,856,984,6 Blatt Karikaturen.Figurenstudien.Feder. 120.,2106,95.7,False,positional,,,OGGETTI VARI,,
 BO0624_88165,275090,857,985,Blumen.Aquarell.Fol.,2107,90.5,False,title_direct,,,Aquarelle,,
 BO0624_88165,275091,858,986,一 Meeresbucht.Aquarell.Q.Fol.,2108,93.3,False,title_direct,,,Aquarelle,,
 BO0624_88165,275092,859,987,- 988 一 Madchen im Kornfeld. Gr. Fol. Tusche und Aquarell.,2110,100.0,False,title_direct,,,Aquarelle,,
 BO0624_88165,275093,860,989,一 Auf dem Spaziergang. Ebenso.,2112,93.3,False,positional,,,Oelgemalde,,
-BO0624_88165,275094,861,990,"Benj.Vautier, 1829-1898, D'df. Skizzen zu Hermann und",2114,96.2,False,positional,VAUTIER BENJAMIN,,Oelgemalde,,
+BO0624_88165,275094,861,990,"Benj.Vautier, 1829-1898, D'df. Skizzen zu Hermann und",2114,96.2,False,positional,VAUTIER BENJAMIN,,Oelgemalde,,Sec. XIX
 BO0624_88165,275095,862,991,"Peter Wurth, Wurzburg. Sommerlandschaft. Oel. Imp.-Fol.",2115,96.1,False,positional,,,Oelgemalde,,
 BO0624_88165,275096,863,992,一 Im Dorfgarten.Oel.Roy.Q. Fol.,2117,93.5,False,positional,,,Oelgemalde,,
 BO0624_88165,275097,864,993,Im Park.Ebenso.,2119,87.5,False,positional,,,Oelgemalde,,
@@ -871,4 +871,4 @@ BO0624_88165,275102,869,998,Stiller Tag.Farbkreide.Gr. Q. Fol.,2133,93.9,False,p
 BO0624_88165,275103,870,999,Nereiden. Kohle. Gr. Q. Fol.,2135,92.0,False,positional,,,Oelgemalde,,
 BO0624_88165,275104,871,1000,Betender. Aquarellierte Zeichnung. Q. Fol. Samtlich bezeichnet.,2139,100.0,False,title_direct,,,Aquarelle,,
 BO0624_88165,275105,872,1001,Landschaft mit,2141,84.8,False,positional,,,Oelgemalde,,
-BO0624_88165,275106,873,1002,"Joh.N.Zwerger,1796-1868. 8 Blatt aus seinem Skizzenbuch. 8°und Q. 8. Blei.",2142,96.5,False,positional,,,OGGETTI IN PIOMBO,,
+BO0624_88165,275106,873,1002,"Joh.N.Zwerger,1796-1868. 8 Blatt aus seinem Skizzenbuch. 8°und Q. 8. Blei.",2142,96.5,False,positional,,,OGGETTI IN PIOMBO,,Sec. XIX

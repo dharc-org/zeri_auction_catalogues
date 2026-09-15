@@ -5,7 +5,7 @@ BO0624_88403,201027,3,3,Angegebene MaBe verstehen sich bei Gemalden ohne Rahmen.
 BO0624_88403,201028,4,4,"Gesteigert wird mindestens um 1 Mk., uber 100 Mk.um 5 Mk. Von der Reihenfolge wird nur ausnahmsweise abgewichen.",7,99.1,False,none,,,,,
 BO0624_88403,201029,5,5,Zur Zuschiagsumme wird ein Aufgeld von lo %,8,97.6,False,none,,,,,
 BO0624_88403,201030,6,6,Bei Streitigkeiten iber den Zuschlag wird der betreffende,10,98.3,False,none,,,,,
-BO0624_88403,201031,7,7,"- Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los.(Ges. v.10. Juli 1902.)",13,100.0,False,none,,,,,
+BO0624_88403,201031,7,7,"- Wenn zwei oder mehrere Personen zugleich ein und dasselbe Gebot abgeben, entscheidet das Los.(Ges. v.10. Juli 1902.)",13,100.0,False,none,,,,,Sec. XX
 BO0624_88403,201032,8,8,"AusschlieBlicher Gerichtsstand:Amts-oder Landgericht I,Berlin.",14,98.4,False,none,,Scuola di Berlino,,,
 BO0624_88403,201033,9,2,Abendlandschaft mit Kloster auf einem bewaldeten Hugel.,33,98.2,False,positional,A.WEBER,,,,
 BO0624_88403,201034,10,3,Landschaftsmotiv bei Walkenried.,38,96.9,False,positional,CONRAD LESSING,,,,
@@ -84,7 +84,7 @@ BO0624_88403,201106,82,80,Liegende Kuh im Stalle.,383,93.6,False,positional,F.VO
 BO0624_88403,201107,83,82,"Strabe in einer kleinen normanischen Stadt. Reich staffiert. Holz.H.35 cm,Br.24 cm.G.-R.",393,80.0,False,positional,CH.HOGUET,,OGGETTI IN LEGNO,,
 BO0624_88403,201108,84,83,"Waldinneres mit Steinkreuz am Wege. Leinwand.H.24 cm,Br.32 cm.G.R.",398,67.3,False,positional,C. F. LESSING,,,,
 BO0624_88403,201109,85,84,Sitzende junge Dame in gelbem Kleid mit aufgestutztem Arm. (Frau M. v. P.),404,97.8,False,positional,F.von LENBACH,,,,
-BO0624_88403,201110,86,85,"Damenportrat mit Perlenkollier nach rechts gewendet. Halbfigur. (Frau M. v. P.) Leinwand, signiert. 1895. H.100 cm,Br.72 cm.G.-R. Abbildung Tafel4 a. Blick auf den Mont St. Michel bei untergehender Sonne Leinwand,signiert.H.36 cm,Br.52 cm.G.-R.",405,73.4,False,positional,F.von LENBACH,,,,
+BO0624_88403,201110,86,85,"Damenportrat mit Perlenkollier nach rechts gewendet. Halbfigur. (Frau M. v. P.) Leinwand, signiert. 1895. H.100 cm,Br.72 cm.G.-R. Abbildung Tafel4 a. Blick auf den Mont St. Michel bei untergehender Sonne Leinwand,signiert.H.36 cm,Br.52 cm.G.-R.",405,73.4,False,positional,F.von LENBACH,,,,Sec. XIX
 BO0624_88403,201111,87,86,Palette mit verschiedenen Darstellungen.Auf Sammetgrund.,413,97.3,False,positional,J.BERNARD,,,,
 BO0624_88403,201112,88,87,Erbluht.Nacktes Madchenauf einem Ruhebette.,418,96.6,False,positional,B.ZICKENDRAHT,,,,
 BO0624_88403,201113,89,88,"Stilleben mit Samowar, Kupferkessel, Schalen usw. Leinwand,signiert.H.63 cm,Br.78 cm.G.-R.",424,98.3,False,positional,THUSHAUS,,OGGETTI VARI,,
@@ -117,7 +117,7 @@ BO0624_88403,201139,115,1,"ll. Spate Jahreszeit.Landschaft mit Wasser.Im Vorderg
 BO0624_88403,201140,116,112,Stehender Stier auf einer Wiese.,552,93.9,False,positional,ROSA BONHEUR,,,,
 BO0624_88403,201141,117,113,"Pappenheimer.Brustbild,rauchend an einem Tische sitzend. Holz, signiert.H.32 cm,Br.23 cm.S.R.",556,97.8,False,positional,J.EHRENTRAUT,,OGGETTI IN LEGNO,,
 BO0624_88403,201142,118,114,Flacher Meeresstrand mit zwei Fischerbooten vor Anker.Staffiert. Abbildung Tafel3,560,97.6,False,positional,EDUARD HILDEBRANDT,,,,
-BO0624_88403,201143,119,115,"Junge Harzerin, mit ihrem Kinde im Vordergrunde einer Gebirgslandschaft sitzend. Leinwand. Mit dem Namen des Kinstlers bezeichnet.1858.H.35 cim,Br.29 cm.G.-R. Abbildung Tafel 1",567,98.8,False,positional,B.SACHS,,,,
+BO0624_88403,201143,119,115,"Junge Harzerin, mit ihrem Kinde im Vordergrunde einer Gebirgslandschaft sitzend. Leinwand. Mit dem Namen des Kinstlers bezeichnet.1858.H.35 cim,Br.29 cm.G.-R. Abbildung Tafel 1",567,98.8,False,positional,B.SACHS,,,,Sec. XIX
 BO0624_88403,201144,120,2,Gegenstucke.,568,91.7,False,positional,B.SACHS,,,,
 BO0624_88403,201145,121,3,"116-17.Zwei Damen in Rokokokostim. Holz,signiert.H.30 cm,Br. 1l cm.G.-R.",569,98.6,False,positional,B.SACHS,,OGGETTI IN LEGNO,,
 BO0624_88403,201146,122,118,"Halbfigur eines bartigen Mannes mit Buch. Leinwand, signiert.H. 82 cm,Br.65 cm.S.R.",573,97.5,False,positional,A.SCHORLING,,,,
@@ -148,20 +148,20 @@ BO0624_88403,201170,146,147,"Reich komponierter BlumenstrauB in einer Glasvase. 
 BO0624_88403,201171,147,148,"PreuBens Erhebung in Breslau. Figurenreiches Bild. Leinwand, signiert. H. 100 cm,Br,140 cm.S.R.",681,97.8,False,positional,E.KAMPFER,,,,
 BO0624_88403,201172,148,149,Norwegische Fjordansicht. Heitere Nachmittagstimmung.,686,96.2,False,positional,A.LEU,,,,
 BO0624_88403,201173,149,150,"Hochgebirgslandschaft mit See mit aufsteigendem Nebel. Stafiert. (Kochelsee.) Leinwand, signiert. H. 76 cm,Br.108 cm.G.-R.",690,98.2,False,positional,HEINRICH HEINLEIN,,,,
-BO0624_88403,201174,150,151,"Hochgebirgslandschaft mit Wassermuhlen 1n einer Felsschlucht am Sturzbach. Leinwand, signiert.H.98 cm,Br.116 cm.G.-R. Huftbild einer sitzenden jungen Dame. (Frau M. v. P.) Pastell auf Pappe, signiert 1884, H.82 cm, Br.64 cm.G.R.",691,68.3,False,positional,HEINRICH HEINLEIN,,,,
-BO0624_88403,201175,151,152,"Huftbild einer sitzenden jungen Dame mit aufgestutztem Arm. (Frau M.v.P.) Pastellgemalde auf Pappe, signiert. 1885. H. 85 cm, Br.64 cm. G.-R.",696,98.5,False,positional,F.von LENBACH,,,,
+BO0624_88403,201174,150,151,"Hochgebirgslandschaft mit Wassermuhlen 1n einer Felsschlucht am Sturzbach. Leinwand, signiert.H.98 cm,Br.116 cm.G.-R. Huftbild einer sitzenden jungen Dame. (Frau M. v. P.) Pastell auf Pappe, signiert 1884, H.82 cm, Br.64 cm.G.R.",691,68.3,False,positional,HEINRICH HEINLEIN,,,,Sec. XIX
+BO0624_88403,201175,151,152,"Huftbild einer sitzenden jungen Dame mit aufgestutztem Arm. (Frau M.v.P.) Pastellgemalde auf Pappe, signiert. 1885. H. 85 cm, Br.64 cm. G.-R.",696,98.5,False,positional,F.von LENBACH,,,,Sec. XIX
 BO0624_88403,201176,152,139,"Junges Liebespaar, unter einem Baume sitzend. Leinwand, signiert.H.60 cm,Br.76 cm. G.R.",700,66.7,False,positional,J.SCHEURENBERG,,,,
 BO0624_88403,201177,153,140,"Blumen in einer Vase. Malpappe, signiert. H.76 cm, Br,51 cm. Gerahmt.",705,96.9,False,positional,C.STRATHMANN,,VASI,,
 BO0624_88403,201178,154,141,Brustbild einer jungen Dame mit aufgestitztem Arm. (Frau M. v. P.),710,96.8,False,positional,F.von LENBACH,,,,
-BO0624_88403,201179,155,142,"Halbfigur einer stehenden jungen Dame in weiBem Kleid. (Frau M. v. P.) Pastellgemalde auf Pappe. Signiert.1884. H.117 cm,Br.79 cm.G.-R.",713,98.4,False,positional,F.von LENBACH,,,,
+BO0624_88403,201179,155,142,"Halbfigur einer stehenden jungen Dame in weiBem Kleid. (Frau M. v. P.) Pastellgemalde auf Pappe. Signiert.1884. H.117 cm,Br.79 cm.G.-R.",713,98.4,False,positional,F.von LENBACH,,,,Sec. XIX
 BO0624_88403,201180,156,143,"Stadtchen am See. Aquarell, rechts unten der NachlaBstempel. H. 24 cm, Br.37 cm.G.-R.",718,87.9,False,positional,KARL BENNEWITZ Von LOEFEN,,,,
 BO0624_88403,201181,157,144,"Landhaus mit Garten, darin zwei Frauen.",722,94.9,False,positional,OLAF JERNBERG,,,,
 BO0624_88403,201182,158,2,"Leinwand,rechts unten signiert. H.36 cim,Br. 60 cm.G.-R.",723,98.1,False,positional,OLAF JERNBERG,,,,
 BO0624_88403,201183,159,154,"Partie am Schwarzen Meer. Aquarell, signiert. H.21 cm, Br.31 cm.Gerahmt.",730,97.1,False,positional,A.NICOLAJEWITSCH BENOIS,,,,
 BO0624_88403,201184,160,155,Orientalische Landschaft mit Ruinen.,735,94.6,False,positional,A.NICOLAJEWITSCH BENOIS,,,,
 BO0624_88403,201185,161,156,Hutten an einem FluB. Staffiert. Jahrh.,739,85.7,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_88403,201186,162,157,"Gebirgslandschaft mit Felswand im Vordergrunde. Jugendarbeit.Monogrammiert. Bez. Palermo 1844.H.17 cm,Br.29 cm.S.R.",747,98.2,False,positional,ANDR.ACHENBACH,,,,
-BO0624_88403,201187,163,158,"Meereskuste. Ebenso.Monogrammiert.1835.H.14 cm,Br.31 cm.S.R.",748,96.7,False,positional,ANDR.ACHENBACH,,,,
+BO0624_88403,201186,162,157,"Gebirgslandschaft mit Felswand im Vordergrunde. Jugendarbeit.Monogrammiert. Bez. Palermo 1844.H.17 cm,Br.29 cm.S.R.",747,98.2,False,positional,ANDR.ACHENBACH,,,,Sec. XIX
+BO0624_88403,201187,163,158,"Meereskuste. Ebenso.Monogrammiert.1835.H.14 cm,Br.31 cm.S.R.",748,96.7,False,positional,ANDR.ACHENBACH,,,,Sec. XIX
 BO0624_88403,201188,164,159,"Gansemadchen,mit ihrem Bruderchen Ganse treibend. Leinwand, signiert. H.75 cm, Br.50 cm. S.R.",752,69.1,False,positional,PAUL WAGNER,,,,
 BO0624_88403,201189,165,160,"Abend an der See. Leinwand, signiert. H.32 cm,Br. 82 cm.G.R.",757,96.5,False,positional,PAUL WAGNER,,,,
 BO0624_88403,201190,166,161,"Wildschwein, von einem Hund gestelt.",762,94.4,False,positional,PAUL WAGNER,,,,
@@ -227,7 +227,7 @@ BO0624_88403,201249,225,219,"Inneres einer gothischen Kapelle mit Staffage. Holz
 BO0624_88403,201250,226,220,"220a.Zwei Blumenstucke mit Rosen. Gegenstucke. Malpappe. H. 19 cm, Br.19 cm.S. R.",1009,97.4,False,positional,J. SCHNEIDER,,,,
 BO0624_88403,201251,227,221,"Zwolf Blatt Landschaftsstudien. Bleistift, Tusche Aquarell. Verschiedene GroBe.",1014,74.4,False,positional,ANDR. ACHENBACH,,,,
 BO0624_88403,201252,228,222,"Kindergruppe vor einer Berliner Haustir. Aquarell, signiert.H.28 cm,Br.20 cm.Gerahmt.",1018,97.6,False,positional,H. ZILLE,Scuola di Berlino,,,
-BO0624_88403,201253,229,223,"Weibliches Huftbild. Bleistiftzeichnung, signiert. 1866. H.24 cm,Br.15 cm.Gerahmt.",1022,97.5,False,positional,F.DEFREGGER,,,,
+BO0624_88403,201253,229,223,"Weibliches Huftbild. Bleistiftzeichnung, signiert. 1866. H.24 cm,Br.15 cm.Gerahmt.",1022,97.5,False,positional,F.DEFREGGER,,,,Sec. XIX
 BO0624_88403,201254,230,224,"Landschaft mit Beerensammlerinnen. n der linken Ecke mit dem Namen des Kunstlers bezeichnet. H.18 cm, Br.24 cm.S. R.",1027,82.5,False,positional,A.DIEFFENBACH,,,,
 BO0624_88403,201255,231,225,"Felsenberg an der Meereskuste.(Monte Pellegino?) Aquarell mit NachlaB-Stempel.H.10 cm,Br.20 cm.Gerahmt.",1032,70.1,False,positional,ED.HILDEBRANDT,,STAMPE E INCISIONI,,
 BO0624_88403,201256,232,226,Gebirgslandschaft bei Sonnenaufgang.,1033,94.6,False,positional,ED.HILDEBRANDT,,,,
@@ -248,7 +248,7 @@ BO0624_88403,201270,246,238,"Hochgebirgslandschaft mit Gletschern und See im Mit
 BO0624_88403,201271,247,239,"Kleine Hirten bei ihrer ruhenden Schafherde. Aquarell, signiert. H.37 cm, Br.56 cm.Gerahmt.",1093,97.7,False,positional,D.van LOKHORST,,,,
 BO0624_88403,201272,248,240,"Drei junge Katzen. Bezeichnet.H.15 cm,Br.17 cm.G.-R.",1097,96.1,False,positional,M.ADAM,,,,
 BO0624_88403,201273,249,241,Kuhherde auf dem Heimweg.,1098,92.3,False,positional,M.ADAM,,,,
-BO0624_88403,201274,250,242,"Partie auf der Insel Sylt bei untergehender Sonne. Malpappe, signiert.H.35 cm,Br.48 cm.G-R. 1679.",1106,95.1,False,positional,EUG.BRACHT,,,,
+BO0624_88403,201274,250,242,"Partie auf der Insel Sylt bei untergehender Sonne. Malpappe, signiert.H.35 cm,Br.48 cm.G-R. 1679.",1106,95.1,False,positional,EUG.BRACHT,,,,Sec. XVII
 BO0624_88403,201275,251,243,"Gartenblumen verschiedener Art in einer Vase. Leinwand.H.37cm,Br.27cm.G.-R.",1112,73.3,False,positional,J.v.KESSEL d. Aelt.,,VASI,,
 BO0624_88403,201276,252,244,Studie eines bartigen Mannerkopfes.,1118,94.4,False,positional,P.MEYERHEIM,,,,
 BO0624_88403,201277,253,245,"Niederlandisches Dorf an einem Flusse. Leinwand, signiert.H.28 cm,Br.44 cm.G.R.",1121,97.4,False,positional,F.RUNGE,,,,

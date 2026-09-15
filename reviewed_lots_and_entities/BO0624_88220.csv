@@ -91,7 +91,7 @@ BO0624_88220,191882,89,112,"| Nach Hamon, gest. v. Levasseur. Ma Soeur n'y est p
 BO0624_88220,191883,90,113,| Nach P. P. Rubens v. Bolswert. Kopf Johannes des Taufers.                                             | Platte 43/62                                                                                          |,294,97.0,False,positional,RUBENS PETER PAUL,Scuola di Rubens,Kupferstiche,,
 BO0624_88220,191884,91,114,"| Nach Boettcher, gest. v. SchultheiB. Zum GroBvater.                                                   | Platte 48/60                                                                                          |",295,96.7,False,positional,,,Kupferstiche,,
 BO0624_88220,191885,92,115,"| Nach Raphael, gest. v. Martinet. Madonna mit dem schlafenden Kind.                                    | Platte 53/40                                                                                          |",296,97.4,False,positional,SANZIO RAFFAELLO,,Kupferstiche,,
-BO0624_88220,191886,93,117,"| Jean Aug. LAMY, + 1844, Marseille. Stilleben. Jagdhunde bei totem Geflugel.                           | Holz 0val 90/72                                                                                       |",298,97.6,False,positional,,,Kupferstiche,,
+BO0624_88220,191886,93,117,"| Jean Aug. LAMY, + 1844, Marseille. Stilleben. Jagdhunde bei totem Geflugel.                           | Holz 0val 90/72                                                                                       |",298,97.6,False,positional,,,Kupferstiche,,Sec. XIX
 BO0624_88220,191887,94,118,"| Wilh.LAUTER, Frankfurt a. M. Hochgebirgslandschaft mit Wasserfall und Steg. Bezeichnet. Leinw.55,5/45 | Wilh.LAUTER, Frankfurt a. M. Hochgebirgslandschaft mit Wasserfall und Steg. Bezeichnet. Leinw.55,5/45 |",299,99.0,False,positional,,,Kupferstiche,,
 BO0624_88220,191888,95,120,"121 | Kistenlandschaft. Leinw.49/64 Gebirgslandschaft mit Ruinen. Leinw.37,5/46                             | Kistenlandschaft. Leinw.49/64 Gebirgslandschaft mit Ruinen. Leinw.37,5/46                             |",301,98.7,False,positional,,,Kupferstiche,,
 BO0624_88220,191889,96,122,123   | Jungvieh auf dem Heimweg. Pferde vor einer Schanke.                            | Leinw.36/50 Leinw.21/31                         |,304,97.5,False,positional,J. H. LIMPERT,,,,
@@ -100,7 +100,7 @@ BO0624_88220,191891,98,125,| Landschaft bei Villmar a.Lahn.                     
 BO0624_88220,191892,99,126,| Schafherde bei Mondschein.                                                     | Leinw.26/32                                     |,309,94.9,False,positional,J. H. LIMPERT,,,,
 BO0624_88220,191893,100,127,| Kopf eines Kalbchen.                                                           | Leinw.24/18                                     |,310,93.9,False,positional,J. H. LIMPERT,,,,
 BO0624_88220,191894,101,128,| Rotbraune Kuh. Samtlich bezeichnet.                                            | Leinw.32/39                                     |,311,95.7,False,positional,J. H. LIMPERT,,,,
-BO0624_88220,191895,102,129,"| Lithographie v. WIRsING, Frankfurt a. M.                                       | Belagerung von Kreuznach a. d. Nahe 1632. 36/48 |",312,97.6,False,positional,J. H. LIMPERT,,STAMPE E INCISIONI,,
+BO0624_88220,191895,102,129,"| Lithographie v. WIRsING, Frankfurt a. M.                                       | Belagerung von Kreuznach a. d. Nahe 1632. 36/48 |",312,97.6,False,positional,J. H. LIMPERT,,STAMPE E INCISIONI,,Sec. XVII
 BO0624_88220,191896,103,135,| Erwartung. Bezeichnet.                                                         | Leinw.62/49                                     |,319,94.1,False,positional,J. H. LIMPERT,,,,
 BO0624_88220,191897,104,136,| Stilleben mit Jagdemblemen.   | Leinw.126/80   |,322,95.1,False,positional,MULLER-ARNZ,,,,
 BO0624_88220,191898,105,137,福 | Stilleben mit Musikemblemen.  | Pendant z.Vor. |,324,95.6,False,positional,MULLER-ARNZ,,,,
@@ -117,15 +117,15 @@ BO0624_88220,191908,115,148,"| Prof.B.Mannfeld,Frankfurt a. M. Niederwalddenkmal
 BO0624_88220,191909,116,149,| Derselbe. Der Romer in Frankfurt a. M.                          | Platte 13/18                                 |,366,96.0,False,positional,G. Ar. OECoNoMo,,,,
 BO0624_88220,191910,117,150,| Derselbe. Der Zollhof.                                          | Platte 12/26                                 |,367,94.3,False,positional,G. Ar. OECoNoMo,,,,
 BO0624_88220,191911,118,151,"| O.H. Walter, Frankfurt a. M. Nurnbergerhof in Frank- furt a. M. | Platte 18/12                                 |",368,97.2,False,positional,G. Ar. OECoNoMo,,,,
-BO0624_88220,191912,119,152,| Das Cronberger SchloB. Bez.: 1866.                              | Aquarell 15/24                               |,370,95.7,False,title_direct,,,Aquarelle,,
-BO0624_88220,191913,120,153,"| Partie bei Cronthal i.T. Bez. :1857.                            | Aquarell 10/19,5                             |",371,96.1,False,title_direct,,,Aquarelle,,
-BO0624_88220,191914,121,154,"| Neuenhain bei Soden i. T. Bez.: 1882.                           | Aquarell 11,5/20                             |",372,96.1,False,title_direct,,,Aquarelle,,
-BO0624_88220,191915,122,155,| Falkenstein i. T. Bez.: 1857.                                   | Aquarell 11/18                               |,373,95.1,False,title_direct,,,Aquarelle,,
-BO0624_88220,191916,123,156,"| Desgl. Bez.: 1881.                                              | Aquarell 13,5/22                             |",374,93.9,False,title_direct,,,Aquarelle,,
+BO0624_88220,191912,119,152,| Das Cronberger SchloB. Bez.: 1866.                              | Aquarell 15/24                               |,370,95.7,False,title_direct,,,Aquarelle,,Sec. XIX
+BO0624_88220,191913,120,153,"| Partie bei Cronthal i.T. Bez. :1857.                            | Aquarell 10/19,5                             |",371,96.1,False,title_direct,,,Aquarelle,,Sec. XIX
+BO0624_88220,191914,121,154,"| Neuenhain bei Soden i. T. Bez.: 1882.                           | Aquarell 11,5/20                             |",372,96.1,False,title_direct,,,Aquarelle,,Sec. XIX
+BO0624_88220,191915,122,155,| Falkenstein i. T. Bez.: 1857.                                   | Aquarell 11/18                               |,373,95.1,False,title_direct,,,Aquarelle,,Sec. XIX
+BO0624_88220,191916,123,156,"| Desgl. Bez.: 1881.                                              | Aquarell 13,5/22                             |",374,93.9,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_88220,191917,124,160,"161                                       | Finf diverse Bilder, meist Photo versch. GroBen. Drei desgl. versch. GroBen.   |",383,97.4,False,positional,G. Ar. OECoNoMo,,FOTOGRAFIE,,
 BO0624_88220,191918,125,162,| Aus dem Kinderleben. Rotdruck 31/40                                            |,385,94.4,False,positional,G. Ar. OECoNoMo,,,,
 BO0624_88220,191919,126,163,| Nach Reynault. Ah S'il S'eveillait.                                            |,386,94.3,False,positional,G. Ar. OECoNoMo,,,,
-BO0624_88220,191920,127,164,"| Ansicht von Frankfurt a. M. 11,5/26 Bez.:Zehender 1772.                        |",387,96.2,False,positional,G. Ar. OECoNoMo,,,,
+BO0624_88220,191920,127,164,"| Ansicht von Frankfurt a. M. 11,5/26 Bez.:Zehender 1772.                        |",387,96.2,False,positional,G. Ar. OECoNoMo,,,,Sec. XVIII
 BO0624_88220,191921,128,165,| Desgl. 16/35                                                                   |,388,84.6,False,positional,G. Ar. OECoNoMo,,,,
 BO0624_88220,191922,129,166,"| Nach Arn.Bocklin.Die Toteninsel. Kunstdr.14,5/27                               |",389,95.9,False,positional,G. Ar. OECoNoMo,,,,
 BO0624_88220,191923,130,167,"| Mann mit Buch. Platte 15,5/11,5                                                |",391,93.8,False,positional,G. Ar. OECoNoMo,,,,
@@ -164,7 +164,7 @@ BO0624_88220,191955,162,207,"| Tyroler Landschaft.                              
 BO0624_88220,191956,163,208,| Desgl.                                            | Pendant z.Vor.       |,440,90.5,False,positional,,Schule Franken,,,
 BO0624_88220,191957,164,209,| Seepartie mit Felsen.                             | Leinw.22/41          |,441,94.1,False,positional,,Schule Franken,,,
 BO0624_88220,191958,165,210,| Maria mit dem Leichnam Jesu.                      | Leinw.73/83          |,442,95.1,False,positional,,Schule Franken,,,
-BO0624_88220,191959,166,211,| Der Dreibund 1914. Bezeichnet.                    |                      |,444,93.3,False,positional,,Schule Franken,,,
+BO0624_88220,191959,166,211,| Der Dreibund 1914. Bezeichnet.                    |                      |,444,93.3,False,positional,,Schule Franken,,,Sec. XX
 BO0624_88220,191960,167,213,| Baumgruppe.                                       | Karton 47/67         |,448,92.0,False,positional,,Schule Franken,,,
 BO0624_88220,191961,168,214,"| Stallinneres bei Laternenbeleuchtung.             | Leinw.40,5/60        |",449,96.2,False,positional,,Schule Franken,,,
 BO0624_88220,191962,169,216,| Idylle.                                           | Karton 37/30         |,453,90.5,False,positional,,Schule Franken,,,

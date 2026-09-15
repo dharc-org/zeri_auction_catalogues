@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_88589,714650,1,1815,1910,5,61.5,False,positional,Andreas Achenbach,,,,
-BO0624_88589,714651,2,1,"a Kap Zaiarano auf Sizilien. Hinten erstrahlt im leuchtenden Rot der untergehenden Sonne das Vorgebirge,im malerischen Kontrast sich abhebend von der bewegten in dunkelblauen Tinten gemalten See,auf der sich vorn ein Ruderboot bewegt. Bezeichnet:A.Achenbach 1846.Oel auf Leinwand.",12,99.8,False,positional,Andreas Achenbach,,,,
+BO0624_88589,714650,1,1815,1910,5,61.5,False,positional,Andreas Achenbach,,,,Sec. XX
+BO0624_88589,714651,2,1,"a Kap Zaiarano auf Sizilien. Hinten erstrahlt im leuchtenden Rot der untergehenden Sonne das Vorgebirge,im malerischen Kontrast sich abhebend von der bewegten in dunkelblauen Tinten gemalten See,auf der sich vorn ein Ruderboot bewegt. Bezeichnet:A.Achenbach 1846.Oel auf Leinwand.",12,99.8,False,positional,Andreas Achenbach,,,,Sec. XIX
 BO0624_88589,714652,3,2,Kleine Marine. Stirmische See mit Dampfer links. Rechts flacher Strand mit einzelnen Figuren.,14,98.9,False,positional,Andreas Achenbach,,,,
 BO0624_88589,714653,4,3,"Oelstudie:Italienische Landschaft.Monogrammiert:A A 51.H.9,B.22.Barock-Goldrahmen.",16,99.4,False,positional,Andreas Achenbach,,,,
 BO0624_88589,714654,5,4,"Bewaldete Landschaft. In der Mitte Weg zwischen zwei Hecken; auf diesem Bauer und Frau. Monogrammiert:A.A.Oel auf Leinwand.H.37,B.53.Goldrahmen.",22,99.3,False,positional,Andreas Achenbach,,,,
@@ -17,15 +17,15 @@ BO0624_88589,714664,15,14,"Waldbach mit Wasserfall,in Sommerstimmung.Links ein A
 BO0624_88589,714665,16,15,"Kartoffel-Ernte. Seestrand mit Blick auf eine Seebucht im Hintergrunde. Vorn ein Bauer, der Kar-",69,98.4,False,positional,Hans von Bartels,,,,
 BO0624_88589,714666,17,16,Weg durch sommergrinen Hochwald. Darauf Bauerin mit Kind. Bezeichnet:Hans Bartels.Aquarell.,71,98.3,False,positional,Hans von Bartels,,,,
 BO0624_88589,714667,18,116,Alexifl und Dora. Der bekannte Vorwurf nach Goethes Eligie.Bezeichnet. Oel auf Holz. H.13.,76,97.7,False,positional,L.Bauer,,OGGETTI IN LEGNO,,
-BO0624_88589,714668,19,18,Sommerliche Landschaft mit Bach zwischen Buschwerk. Bezeichinet: Michelbach 1881.Oel auf,84,98.3,False,positional,August Becker,,,,
+BO0624_88589,714668,19,18,Sommerliche Landschaft mit Bach zwischen Buschwerk. Bezeichinet: Michelbach 1881.Oel auf,84,98.3,False,positional,August Becker,,,,Sec. XIX
 BO0624_88589,714669,20,19,"Wasseriall im Walde. Sommerstimmung. Oel auf Leinwand. H.32,B.46. Gerahmt.",86,98.6,False,positional,August Becker,,,,
-BO0624_88589,714670,21,20,"Sonnige Waldlichtung. Bezeichnet:A.Becker,Brannenburg 1860.Oel auf Karton. H. 33,B.46. Gerahmt.",87,98.4,False,positional,August Becker,,,,
+BO0624_88589,714670,21,20,"Sonnige Waldlichtung. Bezeichnet:A.Becker,Brannenburg 1860.Oel auf Karton. H. 33,B.46. Gerahmt.",87,98.4,False,positional,August Becker,,,,Sec. XIX
 BO0624_88589,714671,22,21,22,90,57.1,False,positional,August Becker,,,,
 BO0624_88589,714672,23,23,"Hochgebirgslandschaft.Oel auf Karton.H. 34,B.46.Gerahmt",91,97.3,False,positional,August Becker,,,,
 BO0624_88589,714673,24,24,"25 Am Seealp-See. Starke Gebirgsmassive hinten. Oel auf Leinwand. H. 33, B.46.",93,98.0,False,positional,August Becker,,,,
 BO0624_88589,714674,25,19,Jahrh.,97,76.9,False,positional,Fra Belmonte,Scuola Bolognese,,,
 BO0624_88589,714675,26,26,"Alpenlandschaft in Sommerstimmung. Bezeichnet: Fra Belmonte. Oel auf Leinwand. H.40, B.52.",99,98.2,False,title_direct,Fra Belmonte,,,,
-BO0624_88589,714676,27,27,"Kleine baumreiche Berglandschait. Bezeichnet:N.Berkhout 1848. Oel auf Karton.H.23,B.31.Gerahmt.",103,98.4,False,title_direct,N.Berkhout,,,,
+BO0624_88589,714676,27,27,"Kleine baumreiche Berglandschait. Bezeichnet:N.Berkhout 1848. Oel auf Karton.H.23,B.31.Gerahmt.",103,98.4,False,title_direct,N.Berkhout,,,,Sec. XIX
 BO0624_88589,714677,28,28,"Kleines Strandbild. Bezeichnet:B. Borsow. Oel auf Holz.H.12,B.20.Goldrahmchen. Jahrh.",107,94.3,False,title_direct,B.Borsow,,OGGETTI IN LEGNO,,
 BO0624_88589,714678,29,29,",Ueberraschung"". Ein junger Schafer legt einer jungen am FuBe eines Baumes schlafenden Dame in Watteaukostim ein Blumenkorbchen in den SchoB.Bezeichnet:C. Bosman. Oel auf Holz.H.38,B.27. a Italienische Kistenlandschait. Seebucht mit Stadtchen,rechts hinten am FuB hoher das Blickfeld rechts abschliefender Berge.Auf dem in langen Wellen bewegten Wasser Segelboote. Bezeichnet: E.Bouche.Oel auf Leinwand. H.35,B. 60.Goldrahmen.",117,72.1,False,title_direct,E.Bouche,,OGGETTI IN LEGNO,,
 BO0624_88589,714679,30,30,"GroBvater auf der Bank vor einem Kamin sitzend;zwei Enkelkinder unterrichtend. Oel auf Lein- H.26,B.17. Goldrahmen. Ansicht von Bischoishoien mit der Kirche im Vordergrunde. Bezeichnet:W. Brandenburg. Oel auf",131,62.1,False,positional,Wilhelm Brandenburg,,CAMINI,,
@@ -35,10 +35,10 @@ BO0624_88589,714682,33,35,Herde von Kihen und Schafen im Vordergrunde einer gold
 BO0624_88589,714683,34,36,"Junge Mutter mit Saugling, im Vordergrunde einer Landschaft. Oel auf Leinwand. H. 12, B.16. Goldrahmen.",149,98.5,False,positional,Anton Burger,,,,
 BO0624_88589,714684,35,37,"Oelstudie.Herbstlandschaft mit Kihen.Karton.H.19,B.37.Goldleiste.",150,97.7,False,positional,Anton Burger,,,,
 BO0624_88589,714685,36,38,"Mannergruppe am Wirtshaustisch. Bezeichnet:A.Burger. Oelstudie auf Holz.H.10,B.12. Goldrahmen.",151,98.9,False,positional,Anton Burger,,OGGETTI IN LEGNO,,
-BO0624_88589,714686,37,1810,1864,159,61.5,False,positional,Alexandre Calame,,,,
+BO0624_88589,714686,37,1810,1864,159,61.5,False,positional,Alexandre Calame,,,,Sec. XIX
 BO0624_88589,714687,38,40,"Haus am Walde.Oelstudie. Monogrammiert A. C.Leinwand.H.19,B.27.Goidrahmen.",162,97.9,False,positional,Alexandre Calame,,,,
 BO0624_88589,714688,39,41,"Italienisches Madchen, Blumen feilbietend vor halbhoher Mauer stehend. Bezeichnet:Edmond Castan. Oel auf Holz.H.32,B.22.Goldrahmen.",168,98.8,False,title_direct,Edmond Castan,,OGGETTI IN LEGNO,,
-BO0624_88589,714689,40,42,"Fischerhitte vorn am Seestrand. Dabei drei Kinder. Links hinten sieht.man die Fischerflottille. Bezeichnet:L.Chibourg 1842.Oel auf Leinwand.H.43,B.54.Barock-Goldrahmen.",172,99.1,False,positional,Pierre Justin Leopold Chibourg,,,,
+BO0624_88589,714689,40,42,"Fischerhitte vorn am Seestrand. Dabei drei Kinder. Links hinten sieht.man die Fischerflottille. Bezeichnet:L.Chibourg 1842.Oel auf Leinwand.H.43,B.54.Barock-Goldrahmen.",172,99.1,False,positional,Pierre Justin Leopold Chibourg,,,,Sec. XIX
 BO0624_88589,714690,41,44,44,180,100.0,False,positional,Professor Max Clarenbach,,,,
 BO0624_88589,714691,42,45,"- Nebelsonne. Wiese mit Weidengruppen,von einem Bache durchquert. Bezeichnet:M. Clarenbach. Oelauf Leinwand.H.60,B.70.Goldrahmen.",183,100.0,False,positional,Professor Max Clarenbach,,,,
 BO0624_88589,714692,43,46,Winternachmittag.Schneebedeckte Wiesenflache mit einzeln stehenden Weiden.Bezeichnet:M.,184,98.3,False,positional,Professor Max Clarenbach,,,,
@@ -50,10 +50,10 @@ BO0624_88589,714697,48,52,Kapitaler Sechszehnender mit vier Sticken Kahlwild auf
 BO0624_88589,714698,49,53,"- Zwolfender mit zurickgewendetem Kopf auf Bergwiese stehend. Drei Hirschkihe im nebeligen Hintergrunde. Bezeichnet:C.F.Deiker.Oel auf Leinwand. H. 38,B.28. Barock-Goldrahmen. - 54 Die beiden Rivalen. Zwolfender in kampfbereiter Stellung einem rechts heraufkommendem Gegner entgegenblickend. Links hinten drei Stick Kahlwild. Bezeichnet:C.F.Deiker. Oel auf Leinwand. H.35,B.45.Goldrahmen.",220,70.8,False,positional,Carl Friedrich Deiker,,,,
 BO0624_88589,714699,50,54,"a Heroische Landschaft mit mythologischen Figuren. Baumreiche Felsen- und Higellandschaft. Vorn an einem Wasser Hirten und Hirtinnen in antiker Gewandung. Breit gemaltes Bild im Goldton. Oel auf Leinwand. H.63,B.86.Goldrahmen.",226,99.5,False,positional,,Deutscher Romantiker,,,
 BO0624_88589,714700,51,55,"Waldlichtung mit Herdenstaffage.Oelstudie.Unbezeichnet. H.22,B.32.Profilrahmen.",232,98.1,False,positional,Francois Diday,,,,
-BO0624_88589,714701,52,56,Strand mit Leuchtturm im Mittelgrunde. Rechts die von Fahrzeugen belebte See. Bezeichnet:D. Donny. 1850. Oel auf Leinwand.H.33.B.50. Gerahmt.,238,98.9,False,positional,Desire Donny,,,,
+BO0624_88589,714701,52,56,Strand mit Leuchtturm im Mittelgrunde. Rechts die von Fahrzeugen belebte See. Bezeichnet:D. Donny. 1850. Oel auf Leinwand.H.33.B.50. Gerahmt.,238,98.9,False,positional,Desire Donny,,,,Sec. XIX
 BO0624_88589,714702,53,57,"Waldinneres in Sommerstimmung. Bezeichnet:Dolf DreBler.Oel auf Leinwand. H.26,B. 32. Goldrahmen.",244,98.4,False,positional,Adolf DreBler,,,,
 BO0624_88589,714703,54,58,"Kleine bewaldete Landschaft. Oel auf Karton.H. 19,B.34.Goldrahmen.",245,97.7,False,positional,Adolf DreBler,,,,
-BO0624_88589,714704,55,59,"Brustbild eines Italieners mit machtiger Haartolle. Bezeichnet:Duchow 1890. Oel auf Leinwand. H.57,B.41.Goldrahmen.",249,98.7,False,positional,A.Duchow,,,,
+BO0624_88589,714704,55,59,"Brustbild eines Italieners mit machtiger Haartolle. Bezeichnet:Duchow 1890. Oel auf Leinwand. H.57,B.41.Goldrahmen.",249,98.7,False,positional,A.Duchow,,,,Sec. XIX
 BO0624_88589,714705,56,60,"Ruhige See mit nach links fahrendem Dampfer. Bezeichnet:Durand-Brager. Oel auf Holz. H. 20, B.35.Goldrahmen.",255,98.6,False,positional,J.B.H.Durand-Brager,,OGGETTI IN LEGNO,,
 BO0624_88589,714706,57,61,"Berglandschait. Vorn buschbewachsener Higel mit einzeln stehendem knorrigen Baum. Mit (falscher) Bezeichnung:A.Achenbach.Oel auf Leinwand.H.52,B. 66.Barock-Goldrahimen. la Klagende Schiferfrau mit drei Kindern an felsigem Seestrand stehend. Bezeichnet: JJ. Eeckhout. Oel auf Leinwand.H.90,B.65. Goldrahmen.",259,70.6,False,positional,OSWALD ACHENBACH,Disseldorfer Schule um 1870,,,
 BO0624_88589,714707,58,62,"Der Weinkenner. Ein am Tisch sitzender Zecher halt prifend ein Glas Wein gegen das Licht. Bezeichnet: L.Erdt. Oel auf Leinwand, die auf Holz gezogen.H.31, B. 24. Geschnitzter Rahmen.",269,99.1,False,title_direct,L.Erdt,,CORNICI,,
@@ -74,13 +74,13 @@ BO0624_88589,714721,72,76,"Zwei Hihnerhunde am Rand eines herbstlich gefarbten L
 BO0624_88589,714722,73,77,"Junges Madchen vor landschaftlichem Hintergrund,ein Korbchen mit Frichten tragend. Bezeichnet:",352,98.4,False,positional,V.de Gronckel,,,,
 BO0624_88589,714723,74,78,"Felsenstrand mit Figuren-Staffage:Oel auf Leinwand. H. 27,B.36.Goldrahmen.",357,98.6,False,positional,Th.Gudin,,,,
 BO0624_88589,714724,75,79,"Erlegtes Gefligel.Bezeichnet wie oben. Oel auf Leinwand.H.27,B. 33. Goldrahmen.",361,98.0,False,positional,G.Guglielmi,,,,
-BO0624_88589,714725,76,80,Atelier-Interieur. Vorn Bild auf einer Staffelei unter griner Draperie. Datiert:Paris 1854. Rick-,367,98.4,False,positional,Ludwig von Hagn,,ARREDAMENTI,,
+BO0624_88589,714725,76,80,Atelier-Interieur. Vorn Bild auf einer Staffelei unter griner Draperie. Datiert:Paris 1854. Rick-,367,98.4,False,positional,Ludwig von Hagn,,ARREDAMENTI,,Sec. XIX
 BO0624_88589,714726,77,81,"Bewegte See unter grauem Wolkenhimmel, belebt von einzelnen Segelbarken. Bezeichnet:W.Hambichen.Oel auf Leinwand.H. 60,B.80.Barock-Goldrahmen.",372,98.9,False,positional,Wilhelm Hambiichen,,,,
-BO0624_88589,714727,78,82,"Zwei Ackergespanne. Auf herbstlichem Feld,links ein mit zwei Pferden bespannter Pilug, dessen Lenker,eine Prise nehmend,mit jungem Madchen plaudert. Rechts im Mittelgrunde Pferd und Ochse an einem Pilug, dabei zwei Manner. Bezeichnet:Ludw. Hartmann,Minchen 1886. Oel auf Holz. H.29,B.48.Profilrahmen. Abb.Tafel 3.",378,99.5,False,title_direct,Ludwig Hartmann,,OGGETTI IN LEGNO,,
+BO0624_88589,714727,78,82,"Zwei Ackergespanne. Auf herbstlichem Feld,links ein mit zwei Pferden bespannter Pilug, dessen Lenker,eine Prise nehmend,mit jungem Madchen plaudert. Rechts im Mittelgrunde Pferd und Ochse an einem Pilug, dabei zwei Manner. Bezeichnet:Ludw. Hartmann,Minchen 1886. Oel auf Holz. H.29,B.48.Profilrahmen. Abb.Tafel 3.",378,99.5,False,title_direct,Ludwig Hartmann,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88589,714728,79,83,"Landschaft bei aufsteigendem Gewitter. Bezeichnet:M.Hartwig. Oel auf Karton.H.24,B.37 Goldrahnien.",382,98.4,False,title_direct,M.Hartwig,,,,
 BO0624_88589,714729,80,84,"Junges Madchen vor einem Fenster sitzend, in einer Heiligenlegende lesend. Bezeichnet. Oel auf Holz. H.20,B.15.Goldrahmchen.",388,98.8,False,positional,August von Heckel,,OGGETTI IN LEGNO,,
 BO0624_88589,714730,81,85,"Waldweiher von Birken umgeben, in Frihlings-Stimmung. Bezeichnet. Oel auf Karton. H. 34, B. 27. Goldrahmen.",394,98.5,False,positional,Joseph Heilmair,,,,
-BO0624_88589,714731,82,86,"Zechende Bauern in gewolbtem Kellerraum.Bezeichnet:J. Heinefetter 1893. Oel auf Leinwand. H.36,B.54.Profilrahmen.",400,98.6,False,positional,Johann Heinefetter,,,,
+BO0624_88589,714731,82,86,"Zechende Bauern in gewolbtem Kellerraum.Bezeichnet:J. Heinefetter 1893. Oel auf Leinwand. H.36,B.54.Profilrahmen.",400,98.6,False,positional,Johann Heinefetter,,,,Sec. XIX
 BO0624_88589,714732,83,87,"In den Dinen. Dinenhigel mit Blick auf die See. Monogrammiert:J. B.H. Oel auf Leinwand.H. 32,",401,98.3,False,positional,Johann Heinefetter,,,,
 BO0624_88589,714733,84,88,"Gebirgssee zwischen schroffen Felswanden.Wasserfall in Mondbeleuchtung. Bezeichnet:H. Hemstedt. Zwei Gegensticke.Oel auf Leinwand.H.56,B. 50.Goldrahmen.",406,99.0,False,title_direct,H.Hemstedt,,,,
 BO0624_88589,714734,85,89,"Gebirgslandschaft mit. See zwischen Bergen. Bezeichnet:Hengsbach 45. Oel auf Leinwand. H. 23, B.30. Goldleiste.",412,98.6,False,positional,Franz Hengsbach,,,,
@@ -99,9 +99,9 @@ BO0624_88589,714746,97,101,"Brasilische Kiste.Datiert:5.2.49. Oel auf Karton.H.3
 BO0624_88589,714747,98,102,"Strand mit Kindern bei einer Hutte. Bezeichnet: C. Hilgers. Oel auf Leinwand. H. 19,B.25. Gerahmt.",448,97.8,False,positional,Carl Hilgers,,,,
 BO0624_88589,714748,99,103,"Seekiste in Sommerstimmung. Figurenstaffage. Oel auf Leinwand. H. 33,B. 42. Goldrahmen.",452,97.6,False,positional,Smith Hille,,,,
 BO0624_88589,714749,100,104,"FluBlandschait mit Hausern und Segelbarken.Sommerstimmung.Bezeichnet:J.J.A.Hilverdink. Oel auf Leinwand. H.35,B. 50.",458,98.2,False,positional,Joh. Jak.Ant. Hilverdink,,,,
-BO0624_88589,714750,101,110,geb.1855 in Disseldorf,468,100.0,False,positional,Charles Hoguet,,,,
+BO0624_88589,714750,101,110,geb.1855 in Disseldorf,468,100.0,False,positional,Charles Hoguet,,,,Sec. XIX
 BO0624_88589,714751,102,106,"Higelige Heidelandschaft. Bezeichnet: O. Jernberg. Oel auf Karton. H. 40,B. 63. Profilrahmen.",472,97.7,False,positional,Professor Olof Jernberg,,,,
-BO0624_88589,714752,103,107,"Interieur. Junge Spanierin in rosa Seidenkleid und rotem Brusttuch sitzt sinnend auf kissenbelegtem Paris 1877.Oel auf Holz.H.36,B.26.Goldrahmen.",476,98.6,False,positional,Luis Jimenez,,ARREDAMENTI,,
+BO0624_88589,714752,103,107,"Interieur. Junge Spanierin in rosa Seidenkleid und rotem Brusttuch sitzt sinnend auf kissenbelegtem Paris 1877.Oel auf Holz.H.36,B.26.Goldrahmen.",476,98.6,False,positional,Luis Jimenez,,ARREDAMENTI,,Sec. XIX
 BO0624_88589,714753,104,108,"Braunes Pierd, fressend an einer Krippe in warm beleuchtetem Stalle. Bezeichnet. Oel auf Holz. H.29,B.36.Profilrahmen.",482,98.3,False,positional,Jean Baptiste de Jonghe,,OGGETTI IN LEGNO,,
 BO0624_88589,714754,105,109,"Fischerboote an flachem Strande. Bezeichnet:C.Irmer. Oel auf Karton. H.33,B. 44. Barock-",490,97.6,False,positional,Karl Irmer,,,,
 BO0624_88589,714755,106,111,Kleine Landschaft mit See bei untergehender Sonne. Bezeichnet: J. Jungblut. Oel auf Leinwand.,499,97.8,False,title_direct,J. Jungblut,,,,
@@ -111,10 +111,10 @@ BO0624_88589,714758,109,115,"Feuersbrunst. Brennendes SchloB an einem Kanal. Bez
 BO0624_88589,714759,110,116,"Alexis und Dora. Der bekannte Vorwurf nach Goethes Elegie. Zweifelhaft, ob eine eigenhandige",521,97.8,False,positional,Wilhelm von Kaulbach,,,,
 BO0624_88589,714760,111,117,"Vollbartiger Kardinal in roter Soutane, stehend in voller Figur. Bezeichnet:Gestellt von Dir.Kaul-",526,97.9,False,positional,,Schule Wilhelm von Kaulbach,,,
 BO0624_88589,714761,112,118,"Finale"". Ein Kavalier sitzt in verzweifelter Katerstimmung im Kerzenschein an einem Tisch.Um ihn geistern die Schatten tanzender Frauen;von hinten naht eine Totenlarve. Bezeichnet:F. Keller.",533,98.9,False,positional,Ferdinand Keller,,,,
-BO0624_88589,714762,113,119,"Bildnis des GroBherzogs Friedrich von Baden. LebensgroBes Brustbild in Generalsuniform und Mantel mit Pelzkragen.Bezeichnet:Ferdinand Keller 1899.Oel auf Leinwand.H. 80,B. 69.Barock-",535,98.9,False,title_direct,Ferdinand Keller,,,,
-BO0624_88589,714763,114,120,"Bildnis Kaiser Wilhelm Il. Volle Figur neben seinem Reitpferd stehend, den Marschallstab in der Rechten.Husarenuniform mit rotem Attila und blauem Dolman.Monogrammiert:F.K.1899.Oel auf Karton.H.78,B. 65.Barock-Goldrahmen.",537,99.1,False,positional,Ferdinand Keller,,,,
+BO0624_88589,714762,113,119,"Bildnis des GroBherzogs Friedrich von Baden. LebensgroBes Brustbild in Generalsuniform und Mantel mit Pelzkragen.Bezeichnet:Ferdinand Keller 1899.Oel auf Leinwand.H. 80,B. 69.Barock-",535,98.9,False,title_direct,Ferdinand Keller,,,,Sec. XIX
+BO0624_88589,714763,114,120,"Bildnis Kaiser Wilhelm Il. Volle Figur neben seinem Reitpferd stehend, den Marschallstab in der Rechten.Husarenuniform mit rotem Attila und blauem Dolman.Monogrammiert:F.K.1899.Oel auf Karton.H.78,B. 65.Barock-Goldrahmen.",537,99.1,False,positional,Ferdinand Keller,,,,Sec. XIX
 BO0624_88589,714764,115,121,"Junge Zigeunerin,kartenlegend im Vordergrunde einer Landschaft. Bezeichnet wie oben. Oel auf",541,97.8,False,positional,J.van de Kerkhove,,,,
-BO0624_88589,714765,116,1813,1862,546,61.5,False,positional,Nicaise de Keyser,,,,
+BO0624_88589,714765,116,1813,1862,546,61.5,False,positional,Nicaise de Keyser,,,,Sec. XIX
 BO0624_88589,714766,117,123,"Gemisekarre mit Pierd, das von einem Madchen gehalten wird. Bezeichnet: F. Kiederich. Oel auf",554,97.8,False,positional,Professor Franz Kiederich,,,,
 BO0624_88589,714767,118,124,"Wiese mit Weiden am Bache, bei untergehender Sonne. Bezeichnet: Rich.Klingen. Oel auf Leinwand.",559,97.8,False,positional,Richard Klingen,,,,
 BO0624_88589,714768,119,125,Bildnis eines hessischen Knaben aus der Schwalmgegend bei Ziegenhain. Oelstudie auf Malpappe.,566,97.8,False,positional,Ludwig Knaus,,,,
@@ -141,10 +141,10 @@ BO0624_88589,714788,139,146,"GroBes Stileben.Haufung verschiedener Frichte:Apfel
 BO0624_88589,714789,140,147,"Zwei kleine Blumenstilleben.Gegensticke.Bezeichnet:Magda Kroner. Oel auf Holz.H.22,B.16. Goldrahmchen.",637,98.0,False,positional,Frau Magda Kroner,,OGGETTI IN LEGNO,,
 BO0624_88589,714790,141,148,"Alpenlandschait. Grine Alm mit Bergmassiv im Hintergrund. Bezeichnet:F.Kriger. Oel auf Leinwand. H.32,B.43. Goldrahmen.",641,98.3,False,title_direct,F.Kriger,,,,
 BO0624_88589,714791,142,149,"Madchen in rosa Kleidchen auf einer Strickschaukel vor Parkhintergrund. Bezeichnet und datiert wie oben.Oel auf Leinwand.H.67,B.46. Goldrahmen.",645,98.6,False,positional,M. Kuglmayr,,,,
-BO0624_88589,714792,143,150,"Liebespaar in Kostuim des 17. Jahrhunderts unter hohen, dunkelkronigen Baumen wandelnd. Links ein Schimmel und zwei Jagdhunde. Bezeichnet: Max Kuschel. Oel auf Leinwand. H. 58, B. 71. BarockGoldrahmen.",651,99.0,False,title_direct,Max Kuschel,,,,
-BO0624_88589,714793,144,151,"Strand in Abendstimmung. Vorn Figuren bei zwei vor Anker liegenden Barken. Bezeichnet: Gvd Laan 1875.Oel auf Holz.H.44,B.59.Goldleiste.",657,98.5,False,positional,Gerard van der Laan,,OGGETTI IN LEGNO,,
+BO0624_88589,714792,143,150,"Liebespaar in Kostuim des 17. Jahrhunderts unter hohen, dunkelkronigen Baumen wandelnd. Links ein Schimmel und zwei Jagdhunde. Bezeichnet: Max Kuschel. Oel auf Leinwand. H. 58, B. 71. BarockGoldrahmen.",651,99.0,False,title_direct,Max Kuschel,,,,Sec. XVII
+BO0624_88589,714793,144,151,"Strand in Abendstimmung. Vorn Figuren bei zwei vor Anker liegenden Barken. Bezeichnet: Gvd Laan 1875.Oel auf Holz.H.44,B.59.Goldleiste.",657,98.5,False,positional,Gerard van der Laan,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88589,714794,145,152,"Gefleckter Huihnerhund und Teckel auf Waldlichtung. Bezeichnet:F.S. Lachenwitz. Oel auf Leinwand. H.32,B.38.Goldrahmen.",663,98.3,False,positional,F.Siegmund Lachenwitz,,,,
-BO0624_88589,714795,146,153,"Die Feinschmecker. Zwei alte Herren an einem mit Leckerbissen besetzten Frihstickstisch stoBen mit den Sektkelchen an. Bezeichnet: Hans Lassen Df.1900. Oel auf Holz.H.24, B. 36. Profilrahmen.",667,98.9,False,title_direct,Hans Lassen,,OGGETTI IN LEGNO,,
+BO0624_88589,714795,146,153,"Die Feinschmecker. Zwei alte Herren an einem mit Leckerbissen besetzten Frihstickstisch stoBen mit den Sektkelchen an. Bezeichnet: Hans Lassen Df.1900. Oel auf Holz.H.24, B. 36. Profilrahmen.",667,98.9,False,title_direct,Hans Lassen,,OGGETTI IN LEGNO,,Sec. XX
 BO0624_88589,714796,147,154,"WeiBes Pierd neben einer Krippe unter Baumgruppe.Bezeichnet:Ph.Ledieu. Oel auf Leinwand. H.31, B.41.WeiBer Rahmen.",673,98.2,False,positional,Philippe Ledieu,,CORNICI,,
 BO0624_88589,714797,148,155,"Zwei Alchymisten beim Experiment in einem Keller. Bezeichnet. Oel auf Holz. H. 31, B. 23. Profilrahmen.",677,97.9,False,positional,W.Lehmann-Leonhardt,,OGGETTI IN LEGNO,,
 BO0624_88589,714798,149,156,"Der Klosterkifer,an einem FaB arbeitend. Neben ihm anderer Monch mit Weinkanne. Bezeichnet. Oel auf Holz.H.31,B.23.Profilrahmen.",678,98.4,False,positional,W.Lehmann-Leonhardt,,OGGETTI IN LEGNO,,
@@ -152,7 +152,7 @@ BO0624_88589,714799,150,157,"Schiffbelebter Kanal mit Figurenstaffage und Windmi
 BO0624_88589,714800,151,158,Die Pontinischen Simpfe.Im Vordergrunde einer weiten Sumpf- und Heidelandschaft zwei Kahne mit Fischern auf einem Gewasser. Oel auf Leinwand.H.82.B.115. Goldrahmen.,690,98.8,False,positional,Charles Nicolas Lemercier,,,,
 BO0624_88589,714801,152,159,"Gartenwinkel in Hochsommerstimmung,mit farbigen Wiesenblumen zwischen saftigem Grin. Be zeichnet:M.Liebermann.Aquarell.H.27,B.23.Barock-Goldrahmen.",696,98.6,False,positional,Professor Max Liebermann,,,,
 BO0624_88589,714802,153,160,"Kleine Heidelandschait in Abendstimmung. Oel auf Holz.H. 18, B. 26. Goldrahmen.",699,97.3,False,positional,Adolf Lier,,OGGETTI IN LEGNO,,
-BO0624_88589,714803,154,161,"Stilleben. Schale mit Frichten, Glaser,Krug,2 Bicher,auf farbiger Tischdecke. Bezeichnet: Ch.van Loo 1862. Oel auf Leinwand.H.49, B.59. Profilrahmen.",705,98.6,False,positional,Charles van Loo,,OGGETTI VARI,,
+BO0624_88589,714803,154,161,"Stilleben. Schale mit Frichten, Glaser,Krug,2 Bicher,auf farbiger Tischdecke. Bezeichnet: Ch.van Loo 1862. Oel auf Leinwand.H.49, B.59. Profilrahmen.",705,98.6,False,positional,Charles van Loo,,OGGETTI VARI,,Sec. XIX
 BO0624_88589,714804,155,162,"Inneres eines Bauernhofes mit Figuren. Bezeichnet: S. Maas. Oel auf Leinwand. H. 35,B. 42.Profilrahmen.",711,97.9,False,positional,S.Maas,,,,
 BO0624_88589,714805,156,164,"Lachende Bauernfrau, eine brennende Kerze haltend. Oel auf Leinwand. H. 58,B. 46. Profilrahmen.",720,97.8,False,positional,A.de Marees,,,,
 BO0624_88589,714806,157,165,Zwei Segelkahne auf dem ruhigen Wasser eines Kanals. Bezeichnet: A. Mayer. Oel auf Leinwand.,726,97.8,False,positional,Auguste Etienne Mayer,,,,
@@ -160,7 +160,7 @@ BO0624_88589,714807,158,166,"Kleine bewaldete Landschaft mit SchloB links. Vorn 
 BO0624_88589,714808,159,167,Zwei verschiedene kleine Landschaiten. Oel auf Holz.,734,96.2,False,positional,Jakob Wilh. Mechau,,OGGETTI IN LEGNO,,
 BO0624_88589,714809,160,168,FluBlandschaft mit Baumen. Bezeichnet:F.Metz 45. Oel auf Leinwand. H.29.B.42.,738,97.3,False,title_direct,F.Metz,,,,
 BO0624_88589,714810,161,169,"Hochgebirgslandschaft.Oel auf Leinwand.H.50,B.73.",739,96.0,False,positional,F.Metz,,,,
-BO0624_88589,714811,162,170,"Palastina-Landschaft mit Blick auf Jerusalem. Oel auf Leinwand. H.79, B. 110. 1864",740,94.1,False,positional,F.Metz,,,,
+BO0624_88589,714811,162,170,"Palastina-Landschaft mit Blick auf Jerusalem. Oel auf Leinwand. H.79, B. 110. 1864",740,94.1,False,positional,F.Metz,,,,Sec. XIX
 BO0624_88589,714812,163,171,"Kleines Strandbild. Bezeichnet: Mevius. Oel auf Holz.H. 15,B. 18. Goldrahmchen.",746,97.3,False,positional,Hermann Mevius,,OGGETTI IN LEGNO,,
 BO0624_88589,714813,164,172,"Segelschiffe im Hafen. Oel auf Leinwand.H.30,B.40. Goldrahmen.",747,96.7,False,positional,Hermann Mevius,,,,
 BO0624_88589,714814,165,173,"Hafen mit Schiffen.Im Vordergrunde Pferdegespann. Bezeichnet. Oel auf Leinwand. H. 21,B. 26.",748,97.7,False,positional,Hermann Mevius,,,,
@@ -180,9 +180,9 @@ BO0624_88589,714827,178,189,"Kiefern am Wasser,in herbstlicher Stimmung. Oel auf
 BO0624_88589,714828,179,190,Getreide-Ernte. Ausgebreitet liegende Garben auf einem Felde. Waldhintergrund. Bezeichnet:E. te,841,97.8,False,positional,Ernst te Peerdt,,,,
 BO0624_88589,714829,180,191,"GroBes Waldbild. Durchblick durch einen Schlag hochstammiger starker Buchen in herbstlicher Farbung. Vorn ein Wassertimpel,etwas weiter hinten Frau mit Holzbiindel. Bezeichnet:C.Perier ,Paris.Oel auf Leinwand.H.128,B.100.Breiter Goldrahmen.",848,86.2,False,positional,Charles Perier,,,,
 BO0624_88589,714830,181,192,"Pierde werden bei einer Ruine in die Schwemme geritten. Bezeichnet: J, G. Perlberg. Oel auf Lein-",855,97.8,False,positional,Johann Georg Perlberg,,,,
-BO0624_88589,714831,182,193,"Zwei Gegensticke: Hihnerhunde bewachen im Vordergrunde einer Landschaft die Jagdbeute. Bezeichnet:F.Perlberg 1877.Oel auf Karton.H.18,B.22.Goldrahmen, Jahrhundert",862,94.8,False,positional,Friedrich Perlberg,,,,
+BO0624_88589,714831,182,193,"Zwei Gegensticke: Hihnerhunde bewachen im Vordergrunde einer Landschaft die Jagdbeute. Bezeichnet:F.Perlberg 1877.Oel auf Karton.H.18,B.22.Goldrahmen, Jahrhundert",862,94.8,False,positional,Friedrich Perlberg,,,,Sec. XIX
 BO0624_88589,714832,183,194,Kathedrale von Sevilla.Auf dem Platz davor Figuren bei cinem Springbrunnen. Bezeichnet:R. Per-,867,97.8,False,positional,R.Perthera,,,,
-BO0624_88589,714833,184,195,Hihner- und Entenvolk vor goldbraunem Hintergrund. Bezeichnet:Pistorius 1850. Oel auf Leinwand.,875,97.8,False,title_direct,Pistorius,,,,
+BO0624_88589,714833,184,195,Hihner- und Entenvolk vor goldbraunem Hintergrund. Bezeichnet:Pistorius 1850. Oel auf Leinwand.,875,97.8,False,title_direct,Pistorius,,,,Sec. XIX
 BO0624_88589,714834,185,196,Die Kathedrale von Burgos mit malerischen Hausern und Figurenstaffage im Vordergrunde. Bezeichnet:,882,98.0,False,positional,R.Porthera,,,,
 BO0624_88589,714835,186,197,"Kleine bewaldete Landschaft mit Sce. Monogrammiert: F. P. Oel auf Leinwand. H. 20,B. 31. Gerahmt",889,97.8,False,positional,Friedrich Preller d.A.,,,,
 BO0624_88589,714836,187,198,"Landschaft mit Baumen am Wasser. Bezeichnet wie oben. Oel auf Leinwand. H. 54, B.75. Goldleiste.",893,97.8,False,positional,A.Puhlmann,,,,
@@ -200,7 +200,7 @@ BO0624_88589,714847,198,209,"- Wiese mit Hausergruppe.Bezeichnet:C. Roux. Oel au
 BO0624_88589,714848,199,210,"See mit grin bewachsenem Felsenufer. Bezeichnet:C.Roux. Oel auf Leinwand. H. 47,B. 38.",946,97.6,False,positional,Carl Roux,,,,
 BO0624_88589,714849,200,211,"- Landschaft mit altem Weidenbaum vorn rechts.Bezeichnet:C. Roux.Oel auf Leinwand.H.34,B.49. SchwarzweiB gefleckte Kuh auf Wiese nach rechts stehend. Bezeichnet: C. Roux. Oel auf Leinwand. H.35,B.51.Goldleiste. Profilrahmen.",950,68.9,False,positional,Carl Roux,,,,
 BO0624_88589,714850,201,214,"Schwarzer Stier vor Wiesenhintergrund stehend. Bezeichnet:C. Roux, Oel auf Leinwand. H. 45,",952,97.7,False,positional,Carl Roux,,,,
-BO0624_88589,714851,202,215,"Madchenbildnis. Brustbild eines Bauernmadchens mit reich gesticktem Mieder und rotem Kopftuch. den Blick traumerisch ins Weite gerichtet. Bezeichnet:Hubert Salentin Dusseldorf 1905.Oel auf Leinwand.H.44,B.39.Barock-Goldrahmen.",960,99.1,False,title_direct,Hubert Salentin,,,,
+BO0624_88589,714851,202,215,"Madchenbildnis. Brustbild eines Bauernmadchens mit reich gesticktem Mieder und rotem Kopftuch. den Blick traumerisch ins Weite gerichtet. Bezeichnet:Hubert Salentin Dusseldorf 1905.Oel auf Leinwand.H.44,B.39.Barock-Goldrahmen.",960,99.1,False,title_direct,Hubert Salentin,,,,Sec. XX
 BO0624_88589,714852,203,216,"Kinderschar hinter einem Gartengitter,nach abgefallenen Pfirsichen angelnd. Bezeichnet: Sanquicico. Oel auf Leinwand.H.49.B.79.Nebst einer Kopie nach diesem Bild.",966,98.8,False,positional,Pio Sanquicico,,,,
 BO0624_88589,714853,204,217,Strand mit Blick auf bewegte See. Bezeichnet. Oel auf Holz. H.29. B.50. Goldrahmen.,970,97.5,False,positional,J.Schakewies,,OGGETTI IN LEGNO,,
 BO0624_88589,714854,205,218,"Romeo und Julia. LebensgroBe Halbfiguren. Motiv aus der Balkonszene. Oel auf Leinwand.H. 67, B.54.Profilrahmen.",974,98.1,False,positional,Ary Scheffer,,,,
@@ -213,9 +213,9 @@ BO0624_88589,714860,211,224,"Hochgebirgslandschait mit Dorf im Mittelgrunde. Bez
 BO0624_88589,714861,212,1879,Oel auf Leinwand.H.32.B.24.Goldleiste.,1011,93.7,False,positional,Heinrich Schlitt,,,,
 BO0624_88589,714862,213,227,"Zwei Hihnerbilder als Gegensticke. Hihnervolk im Freien,- Hihnervolk im Stall. Bezeichnet: Henry Schmitz.—Oel auf Leinwand.H.70,B.55.",1017,98.4,False,title_direct,Henry Schmitz,,,,
 BO0624_88589,714863,214,228,"Kolonne deutscher Soldaten zieht zum Arbeitsdienst durch tief verschneites, baumbestandenes Gelande. Bezeichnet:Schmurr.Oel auf Leinwand.H.45,B.95.Goldleiste.",1025,98.7,False,positional,Wihelm Schmurr,,,,
-BO0624_88589,714864,215,229,"Winternachmittag. Verschneiter Stadtwinkel mit Blick auf ein disteres SchloB rechts. Figurenstaffage.Bezeichnet:Schmurr. Oel auf Leinwand.H.70,B.71. Goldleiste. 1872",1026,97.2,False,positional,Wihelm Schmurr,,,,
+BO0624_88589,714864,215,229,"Winternachmittag. Verschneiter Stadtwinkel mit Blick auf ein disteres SchloB rechts. Figurenstaffage.Bezeichnet:Schmurr. Oel auf Leinwand.H.70,B.71. Goldleiste. 1872",1026,97.2,False,positional,Wihelm Schmurr,,,,Sec. XIX
 BO0624_88589,714865,216,230,"Prometheus, nackt neben dem Adler vor einem Felsen stehend. Oel auf Leinwand. H. 19, B. 13. Profilrahmen.",1032,98.0,False,positional,Julius Schnorr von Carolsfeld,,,,
-BO0624_88589,714866,217,231,Dinkelsbihl. Das malerische alte Stadtchen mit iberragender Kirche fillt den Mittelgrund einer sommerlichen Landschaft. Bezeichnet: G. Schonleber 1904. Auf der Rickseite NachlaB-Stempel. Oel,1037,98.9,False,positional,Gustav Schonleber,,STAMPE E INCISIONI,,
+BO0624_88589,714866,217,231,Dinkelsbihl. Das malerische alte Stadtchen mit iberragender Kirche fillt den Mittelgrund einer sommerlichen Landschaft. Bezeichnet: G. Schonleber 1904. Auf der Rickseite NachlaB-Stempel. Oel,1037,98.9,False,positional,Gustav Schonleber,,STAMPE E INCISIONI,,Sec. XX
 BO0624_88589,714867,218,232,"Orientalin am Brunnen. Reichgekleidetes und geschmicktes Madchen,beugt sich, einen Wasserkrug",1044,97.8,False,positional,P.Schreiber,,,,
 BO0624_88589,714868,219,233,"Kleine herbstlich gestimmte Landschaft mit Kirchgangern,die auf ein im Hintergrund liegendes Dorf",1049,98.0,False,positional,R.Schuster,,,,
 BO0624_88589,714869,220,234,"Bildnis eines Knaben in blauer Jacke.Monogrammiert:J. S. Oel auf Holz. H.44,B.35.Alter Gold-",1054,97.8,False,positional,J.B.Seel,,OGGETTI IN LEGNO,,
@@ -234,12 +234,12 @@ BO0624_88589,714881,232,248,"Bildnis eines jungen Patriziers in mittelalterliche
 BO0624_88589,714882,233,249,".Jagerlatein"". Zahlreiche rastende Jagdgesellschaft im Vordergrunde einer weiten Landschaft, der ein junger Renommist seine Heldentaten erzahlt. Bezeichnet wie oben. Oel auf Leinwand, H. 60. B.80.Goldleiste.",1141,99.0,False,positional,Steinmiller,,,,
 BO0624_88589,714883,234,250,"Parkpromenade. Sonnebeleuchtete Allee unter hohen gruinen Baumen, belebt von vielen farbig ge-",1146,97.8,False,positional,Max Stern,,,,
 BO0624_88589,714884,235,251,Getreide-Ernte. Zwei mahende Manner und eine garbenbindende Frau auf einem Getreidefeld in leuchtender Sonne. Bezeichnet: Max Stern. Oel auf Leinwand. H. 60. B. 80. Barock-Goldrahmen.,1150,98.9,False,title_direct,Max Stern,,,,
-BO0624_88589,714885,236,252,"Bildnis Konigs Albert von Sachsen. Kniebild in Generalsuniform. Bezeichnet:L. Sturm Dresden 1884. Oel auf Leinwand.H.125,B.75.",1154,98.4,False,positional,Professor Ludwig Sturm,,,,
+BO0624_88589,714885,236,252,"Bildnis Konigs Albert von Sachsen. Kniebild in Generalsuniform. Bezeichnet:L. Sturm Dresden 1884. Oel auf Leinwand.H.125,B.75.",1154,98.4,False,positional,Professor Ludwig Sturm,,,,Sec. XIX
 BO0624_88589,714886,237,253,"Kleines Waldinneres in Sommerstimmung, mit Bach. Bezeichnet: A. Thomas. Oel auf Malpappe. H.17,B. 25.Goldrahmen.",1160,98.1,False,title_direct,A.Thomas,,,,
 BO0624_88589,714887,238,254,Verschneite Waldlichtung bei Sonnen-Untergang. Bezeichnet:D. Thomassin. Oel auf Leinwand.,1166,97.7,False,title_direct,D.Thomassin,,,,
 BO0624_88589,714888,239,255,"Verschneite Landschait in Mondbeleuchtung. Bezeichnet. Oel auf Leinwand.H.18, B.32.Profilrahmen.",1167,97.9,False,positional,D.Thomassin,,,,
 BO0624_88589,714889,240,256,"Holzsammler auf verschneiter Waldlichtung, bei Mondbeleuchtung. Bezeichnet:D.Thomassin. Oel",1169,97.8,False,title_direct,D.Thomassin,,,,
-BO0624_88589,714890,241,257,"## H.Thorig,1861",1172,100.0,False,title_direct,H.Thorig,,,,
+BO0624_88589,714890,241,257,"## H.Thorig,1861",1172,100.0,False,title_direct,H.Thorig,,,,Sec. XIX
 BO0624_88589,714891,242,258,"Midchenkopf.Oel auf Leinwand.H.51,B.39.",1178,95.0,False,positional,Paul Thumann,,,,
 BO0624_88589,714892,243,259,"Alte Bauerin schreitet,auf einen Stock gestitzt,zur Kirche.Landschaftlicher Hintergrund.Bezeichinet: L.Toussaint.Oel auf Leinwand.H.38,B.32. Goldrahmen.",1182,98.7,False,positional,Louis Toussaint,,,,
 BO0624_88589,714893,244,260,"Italienische Gesellschaft in Volkstracht beim Tanz.Bezeichnet Oel auf Holz. H. 24,B.17. Schwarzer talienisch,19.Jahrhundert",1188,86.2,False,positional,Turino,,OGGETTI IN LEGNO,,
@@ -249,18 +249,18 @@ BO0624_88589,714896,247,263,"Dame in schwarzem Reitkostim.LebensgroBes Hiftbild,
 BO0624_88589,714897,248,271,- 272,1204,100.0,False,positional,F.E.Umbach,,,,
 BO0624_88589,714898,249,273,"Schafherde,auf einer Wiese sich drangend. Monogrammiert:L.V. Oel auf Leinwand.H.27, B.36.",1205,97.7,False,positional,F.E.Umbach,,,,
 BO0624_88589,714899,250,274,## J.C.de Vries,1210,100.0,False,title_direct,J.C.de Vries,,,,
-BO0624_88589,714900,251,275,"Aehnliches Bildnis. Bezeichnet:J.C. de Vries 1844. Oel auf Leinwand.H. 40,B.35. Goldrahmen.",1213,97.7,False,title_direct,J.C.de Vries,,,,
-BO0624_88589,714901,252,276,"Kleine Landschaft in Sommerstimmung,mit Gebisch und Weiher vorn. Bezeichnet: A. Waagen 1855.",1219,97.8,False,positional,Adalbert Waagen,,,,
+BO0624_88589,714900,251,275,"Aehnliches Bildnis. Bezeichnet:J.C. de Vries 1844. Oel auf Leinwand.H. 40,B.35. Goldrahmen.",1213,97.7,False,title_direct,J.C.de Vries,,,,Sec. XIX
+BO0624_88589,714901,252,276,"Kleine Landschaft in Sommerstimmung,mit Gebisch und Weiher vorn. Bezeichnet: A. Waagen 1855.",1219,97.8,False,positional,Adalbert Waagen,,,,Sec. XIX
 BO0624_88589,714902,253,277,"Kleine Landschaft in Sommerstimmung. Partie bei Boozen.Oel auf Leinwand. H.13,B.21,5.Profil-",1221,97.8,False,positional,Adalbert Waagen,,,,
 BO0624_88589,714903,254,278,"Hundekopi. Bezeichnet:B.Wagner. Oel auf Leinwand.H.31,B.24. Goldrahmen.",1226,97.1,False,title_direct,B.Wagner,,,,
 BO0624_88589,714904,255,279,"Schiffbelebter hollandischer Hafen mit links sich hinziehender Stadt. Bezeichnet wie oben. Oel auf Leinwand.H.49,B.63.Profilrahmen.",1230,98.5,False,positional,Martin van Waning,,,,
 BO0624_88589,714905,256,281,"Der abgeblitzte Freier. Vier junge Madchen in reichen Rokokokleidern lachen einen Kavalier aus, der mit einem BlumenstrauB zur Tir hereintritt.Bezeichnet:Weber.Oel auf Pappe.H.20,B.26.Gerahmt.",1242,99.0,False,title_direct,Weber,,,,
-BO0624_88589,714906,257,282,"Bauernpaar auf zweiradriger Karre im Vordergrund einer Landschaft. Bezeichnet:Weber 1853. Oel auf Leinwand.H. 45,B.35. Goldrahmen.",1243,98.4,False,title_direct,Weber,,,,
-BO0624_88589,714907,258,283,"Heidelandschaft in Abendlandschait mit Staffage. Landschaft mit Schafherde. Beide bezeichnet: T.Whibble.Eine datiert 1889. Oel auf Leinwand.H.15,B.24. Goldrahmen.",1247,98.7,False,positional,Thomas Whibble,,,,
+BO0624_88589,714906,257,282,"Bauernpaar auf zweiradriger Karre im Vordergrund einer Landschaft. Bezeichnet:Weber 1853. Oel auf Leinwand.H. 45,B.35. Goldrahmen.",1243,98.4,False,title_direct,Weber,,,,Sec. XIX
+BO0624_88589,714907,258,283,"Heidelandschaft in Abendlandschait mit Staffage. Landschaft mit Schafherde. Beide bezeichnet: T.Whibble.Eine datiert 1889. Oel auf Leinwand.H.15,B.24. Goldrahmen.",1247,98.7,False,positional,Thomas Whibble,,,,Sec. XIX
 BO0624_88589,714908,259,264,"Bildnis eines Geistlichen.Das scharfgeschnittene,von weiBem Haar umwallte Gesicht,im Dreiviertelprofil nach rechts gewendet. Bezeichnet:B.Vautier. Oel auf Leinwand.H.31, B. 26. Goldrahmen.",1253,98.9,False,positional,Benjamin Vautier,,,,
 BO0624_88589,714909,260,265,"- Leichenzug mit Priester, Chorknaben, Sargtragern, setzt sich von der Diele eines Bauernhauses aus in Bewegung.Geistreiche Oelstudie auf Leinwand,die auf Karton gezogen.Unbezeichnet.H.28,B.43.",1255,100.0,False,positional,Benjamin Vautier,,,,
 BO0624_88589,714910,261,266,"Bauernwagen mit drei Pferden iber eine Steppe fahrend. Bezeichnet:Fritz van der Venne,Minchen.",1259,97.9,False,title_direct,Fritz van der Venne,,,,
-BO0624_88589,714911,262,267,"Rheinbricke zwischen Mainz und Kastel am Abend, mit Blick auf die Stadt. Bezeichnet: Hans Volcker 1903.Oel auf Leinwand.H.57.B.85.Barock-Goldrahmen.",1266,98.6,False,title_direct,Hans Volcker,,,,
+BO0624_88589,714911,262,267,"Rheinbricke zwischen Mainz und Kastel am Abend, mit Blick auf die Stadt. Bezeichnet: Hans Volcker 1903.Oel auf Leinwand.H.57.B.85.Barock-Goldrahmen.",1266,98.6,False,title_direct,Hans Volcker,,,,Sec. XX
 BO0624_88589,714912,263,268,"Gesatteltes Reitpferd im Stalle. Dabei ein Hund. Bezeichnet: E. Volkers. Oel auf Lein wand. H. 26,B.32.",1272,97.9,False,positional,Emil Volkers,,,,
 BO0624_88589,714913,264,269,"laBzettel.Oel auf Karton.H.35,B.43.Profilrahmen.",1279,95.9,False,positional,Friedrich Voltz,,,,
 BO0624_88589,714914,265,270,"Gruppe von finf Rindern und Kalbern, in verschiedenen Stellungen, auf einer Wiese. Bezeichnet: Abb. Tafel 1. F.Voltz. Oel auf Holz. H. 35,B. 52.Barock-Goldrahmen.",1280,98.7,False,positional,Friedrich Voltz,,OGGETTI IN LEGNO,,
@@ -333,7 +333,7 @@ BO0624_88589,714980,331,353,Alttestamentliche Szene.Oel auf Leinwand.H.39.B.50.,
 BO0624_88589,714981,332,354,"GroBer Kanal. Vorn das fahrzeugbelebte Wasser,rechts hinten flaches Ufer mit Windmihlen und Hausern. Im Vordergrunde bewegen sich drei von Fischern besetzte Segel- und Ruderboote. Oel",1494,98.9,False,positional,Jan van Goijen,,,,
 BO0624_88589,714982,333,355,Landschaft mit Baumen und Bauernstaffage. Oel auf Eichenholz.H. 28.B. 37.,1499,97.2,False,positional,Jan van Goiien,,,,
 BO0624_88589,714983,334,356,"St. Maria maggiore in Venedig. Oel auf Leinwand.H. 63,B. 80.",1503,96.5,False,positional,Guardi,,,,
-BO0624_88589,714984,335,357,"Lustige Gesellschait. Kavaliere und Damen in reichen Kostimen des 17. Jahrh. singend, trinkend, spielend neben einem mit SchaugefaBen besetzten Kamin links. Oel auf Eichenholz.H. 40.B. 54.",1509,98.9,False,positional,Dirk Hals,,CAMINI,,
+BO0624_88589,714984,335,357,"Lustige Gesellschait. Kavaliere und Damen in reichen Kostimen des 17. Jahrh. singend, trinkend, spielend neben einem mit SchaugefaBen besetzten Kamin links. Oel auf Eichenholz.H. 40.B. 54.",1509,98.9,False,positional,Dirk Hals,,CAMINI,,Sec. XVII
 BO0624_88589,714985,336,358,"Der lustige Zecher. Gute neuzeitl. Kopie nach dem Original in der Kasseler Galerie,im gleichen",1514,97.9,False,positional,Frans Hals,,,,
 BO0624_88589,714986,337,359,Landschaft mit Ruinen. Zwei machtige antike Ruinen auf der rechten und linken Bildseite. Auf,1521,97.8,False,positional,Daniel van Heil,,,,
 BO0624_88589,714987,338,360,"Vanitas-Stilleben. Mehrere alte Folianten,ein Totenkopf, aufgeschlagene Bibel,TintenfaB, Schreib-",1526,97.9,False,positional,M.Hirt,,,,
@@ -344,7 +344,7 @@ BO0624_88589,714991,342,364,Christus am Kreuz im Vordergrunde einer reich abgest
 BO0624_88589,714992,343,365,"Ruhe auf der Flucht. Maria,blau und rot gekleidet neben halbhoher Mauer stehend.halt das Jesuskind, dem St. Joseph eine Birne reicht. Hinten halt ein kleiner Engel den Esel. Landschaftshintergrund. Oel auf Leinwand.H.60,B.46.",1557,99.1,False,positional,Carlo Maratti,,,,
 BO0624_88589,714993,344,366,Bildnis eines alten Herrn in schwarzem Gewand und weiber Halskrause. Oel auf Holz. H. 65. B. 49.,1563,97.8,False,positional,Mierevelt,,OGGETTI IN LEGNO,,
 BO0624_88589,714994,345,367,"Kleine Landschaft. Vorn links Figurengruppe unter hohen Baumen. Oel auf Holz. H.15,B. 19. Profilrahmen.",1569,98.0,False,positional,Mierevelt,,OGGETTI IN LEGNO,,
-BO0624_88589,714995,346,368,"Hiftbild eines Patriziers in schwarzer pelzverbramterSchaube,Halskrause, schiwarzer flacher Mitze. Blonder Vollbart. Die ringgeschmickte Linke halt ein Paar Handschuhe,die Rechte liegt auf einem Totenkopf. Oben links verziertes Wappen (Adler mit Zweig im Schnabel in rotem Felde). darin in vertikaler Richtung Monogramm H. E.an einem nach oben gerichteten Pfeil (wohl das Maler-Monogramm). Unter dem Wappen:AETATIS 66 AN. 1588.Oel auf Eichenholz.H.82,B.61. Abb.Tafel 4.",1575,99.6,False,positional,Mierevelt,,OGGETTI VARI,,
+BO0624_88589,714995,346,368,"Hiftbild eines Patriziers in schwarzer pelzverbramterSchaube,Halskrause, schiwarzer flacher Mitze. Blonder Vollbart. Die ringgeschmickte Linke halt ein Paar Handschuhe,die Rechte liegt auf einem Totenkopf. Oben links verziertes Wappen (Adler mit Zweig im Schnabel in rotem Felde). darin in vertikaler Richtung Monogramm H. E.an einem nach oben gerichteten Pfeil (wohl das Maler-Monogramm). Unter dem Wappen:AETATIS 66 AN. 1588.Oel auf Eichenholz.H.82,B.61. Abb.Tafel 4.",1575,99.6,False,positional,Mierevelt,,OGGETTI VARI,,Sec. XVI
 BO0624_88589,714996,347,369,"Bildnis eines Herrn mit blondem Knebelbart. Er tragt schwarzes Gewand, schmalen weiBen Hals-",1581,97.8,False,positional,Giovanni Battista Moroni,,,,
 BO0624_88589,714997,348,370,Landschaft im Goldton.Vorn links torartige Felsbildung. Nach rechts Sicht iber fluBdurchzogenes,1588,97.9,False,positional,Isaac de Moucheron,,,,
 BO0624_88589,714998,349,371,"Bildnis eines Heerfihrers in Harnisch und Allongepericke,mit Kommandostab. Huitbild nach rechts. Oel auf Leinwand.H. 45,B.34.",1595,98.4,False,positional,,Schule Caspar Netscher,,,
@@ -361,9 +361,9 @@ BO0624_88589,715008,359,381,Der Geigenspieler. Junger Mann in blauem pelzverbram
 BO0624_88589,715009,360,382,"Fischer, einen groBen Fisch hinter sich her schleppend. Hinten am Strand kleine Figurengruppen. Jahrh.",1648,94.8,False,positional,Abraham Teniers,,,,
 BO0624_88589,715010,361,383,"Konig Herodes mit dem Haupt des Johannes. Oel auf Leinwand. H. 74,B. 102.",1655,97.1,False,positional,Tiepolo,,,,
 BO0624_88589,715011,362,384,"Judith im Zelte des Holofernes.Oel auf Leinwand. H. 31,B. 36.Goldleiste.",1656,97.1,False,positional,Tiepolo,,,,
-BO0624_88589,715012,363,385,"Bella. (Original im Pitti-Palast in Florenz.) Gute Kopie des 19. Jahrh. Oel auf Leinwand. H. 100, B.75.Geschnitzter vergoldeter Rahmen.",1660,98.4,False,positional,Tizian,,CORNICI,,
+BO0624_88589,715012,363,385,"Bella. (Original im Pitti-Palast in Florenz.) Gute Kopie des 19. Jahrh. Oel auf Leinwand. H. 100, B.75.Geschnitzter vergoldeter Rahmen.",1660,98.4,False,positional,Tizian,,CORNICI,,Sec. XIX
 BO0624_88589,715013,364,386,"Der auierstandene Christus,umgeben von den heiligen Mannern und Frauen. Oel auf Leinwand. H.61,B.49.Profilrahmen.",1664,98.2,False,positional,Paolo Veronese,,,,
-BO0624_88589,715014,365,387,"Zechende Landsknechte und Frauen in einem Wirtshaus. GroBe reich ausgestattete Stube,der FuBboden mit roten Fliesen belegt;rechts und links verglaste Fenster;an der Rickwand Kamin und Topfbank mit Krigen und Tellern.Links gruppieren sich um einen mit Speisen bestellten Tisch drei buntgekleidete Landsknechte und zwei Frauen,von denen die eine einen Saugling halt. Einer der Landsknechte verrechnet mit der hinzutretenden Wirtin die Zeche; ein vierter schneidet hinten am Rauchfang mit seinem Sabel eine Wurst herunter. Rechts bedroht ein reich gekleideter Anfihrer, dem eine Frau folgt,mit seinem Schwert einen knieend winselndenBauer,den ein hinter ihm stehendes Kind anscheinend eines Diebstahls beschuldigt. Drei Kinder,zwei pickende Hihner,ein Hund vervollstandigen das Bild.Links iber dem Fenster das Monogramm:DvB. 1603. (Vgl. das Monogramm bei Wurzbach!) Oel auf Eichenholz.H.28,5,B.43,5.Goldrahmen. Abb.Tafel 3.",1670,99.8,False,positional,David Vinckeboons,,CAMINI,,
+BO0624_88589,715014,365,387,"Zechende Landsknechte und Frauen in einem Wirtshaus. GroBe reich ausgestattete Stube,der FuBboden mit roten Fliesen belegt;rechts und links verglaste Fenster;an der Rickwand Kamin und Topfbank mit Krigen und Tellern.Links gruppieren sich um einen mit Speisen bestellten Tisch drei buntgekleidete Landsknechte und zwei Frauen,von denen die eine einen Saugling halt. Einer der Landsknechte verrechnet mit der hinzutretenden Wirtin die Zeche; ein vierter schneidet hinten am Rauchfang mit seinem Sabel eine Wurst herunter. Rechts bedroht ein reich gekleideter Anfihrer, dem eine Frau folgt,mit seinem Schwert einen knieend winselndenBauer,den ein hinter ihm stehendes Kind anscheinend eines Diebstahls beschuldigt. Drei Kinder,zwei pickende Hihner,ein Hund vervollstandigen das Bild.Links iber dem Fenster das Monogramm:DvB. 1603. (Vgl. das Monogramm bei Wurzbach!) Oel auf Eichenholz.H.28,5,B.43,5.Goldrahmen. Abb.Tafel 3.",1670,99.8,False,positional,David Vinckeboons,,CAMINI,,Sec. XVII
 BO0624_88589,715015,366,388,"Ecce homo. Blutender Christuskopf mit Dornenkrone und goldenem Strahlen-Nimbus,der reliefartig stark geimalt ist. Oben links und rechts: ECCE HOMO. Oel auf Eichenholz,parkettiert. In profi-",1674,98.9,False,positional,David Vinckeboons,,,,
 BO0624_88589,715016,367,389,"Brustbild der Madonna,aus einer Verkindigung. Demitig zu Boden gesenkter Blick, die Hande iber der Brust zusammengelegt.Rotes Kleid,blauer Mantel.Rund. Oel auf Eichenholz.Dm,46.Goldrahmen.",1681,98.9,False,positional,David Vinckeboons,,,,
 BO0624_88589,715017,368,390,"Landschait mit der Mythe von Latona und den lykischen Bauern, die in Frosche verwandelt werden. Baumreiche Gegend mit einzelnen Hausern und breitem Wasser in der Mitte. In diesem eine Reihe schilfschneidender Bauern,darunter einer mit einem Froschkopf. Die Gottin mit ihren beiden Kindern links am Ufer. Oel auf Eichenholz. H. 55,B.69. Jahrh.",1684,98.5,False,positional,David Vinckeboons,,,,
@@ -382,7 +382,7 @@ BO0624_88589,715029,380,403,"Dr.Mart.Luther in seinem Arbeitszimmer.Oel auf Lein
 BO0624_88589,715030,381,404,Zwei verschiedene kleine Bildnisse:Herr und Dame. Oel auf Leinwand. Verschiedene GroBe.,1734,97.7,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715031,382,405,"FluBdurchzogene Landschait mit Stadt und Figurenstaffage. Oel auf Leinwand. H. 65,B. 108.",1735,97.7,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715032,383,406,"wand.H. 77,B.65.",1737,87.5,False,positional,Jacob de Wet II,,,,
-BO0624_88589,715033,384,407,"- Bildnis eines David Baur,Birgers von Memmingen. Mit Inschrift und Datierung 1656. Oel auf Lcinwand. H. 67,B.49. Gerahmt.",1739,100.0,False,positional,Jacob de Wet II,,,,
+BO0624_88589,715033,384,407,"- Bildnis eines David Baur,Birgers von Memmingen. Mit Inschrift und Datierung 1656. Oel auf Lcinwand. H. 67,B.49. Gerahmt.",1739,100.0,False,positional,Jacob de Wet II,,,,Sec. XVII
 BO0624_88589,715034,385,408,"- Kopf eines alten Mannes mit weiBem Vollbart. Oel auf Leinwand. H. 42, B.32.",1741,100.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715035,386,409,"Kleine bewaldete Landschaft mit Ruinen und Figurenstaffage. Oel auf Holz. H. 30, B. 35.",1745,97.6,False,positional,Jacob de Wet II,,OGGETTI IN LEGNO,,
 BO0624_88589,715036,387,410,"- Jager mit Hund im Vordergrunde einer Landschaft. Oel auf Holz. H. 19,B. 16.Profilrahmen.",1747,100.0,False,positional,Jacob de Wet II,,OGGETTI IN LEGNO,,
@@ -488,7 +488,7 @@ BO0624_88589,715135,486,535,- 536,1986,100.0,False,positional,Jacob de Wet II,,,
 BO0624_88589,715136,487,537,"- 538 Auf Schimmel reitender Bauer, dem das hinter ihm befestigte WeinfaBchen auslauft. Oel auf Leinwand.",1988,100.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715137,488,539,"H.46,B.64.Goldrahmen.",1989,90.9,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715138,489,540,"Zwei verschiedene Landschaften. Oel auf Karton. Brustbild einer jungen leichtbekleideten Dame. Oel auf Leinwand. H. 67,B.54. Goldrahmen.",1990,98.5,False,positional,Jacob de Wet II,,,,
-BO0624_88589,715139,490,541,"Verschneite Landschait mit kleiner Figurengruppe. Monogrammiert:H.1847. Oel auf Holz.H.33,B.44.",1991,97.9,False,positional,Jacob de Wet II,,OGGETTI IN LEGNO,,
+BO0624_88589,715139,490,541,"Verschneite Landschait mit kleiner Figurengruppe. Monogrammiert:H.1847. Oel auf Holz.H.33,B.44.",1991,97.9,False,positional,Jacob de Wet II,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88589,715140,491,542,"- Bildnis eines Offiziers. Oel auf Leinwand. H. 81,B. 65. Goldrahmen.",1995,100.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715141,492,543,"Bildnis einer jungen Italienerin. Oel auf Leinwand. H. 35,B. 30.",1997,96.7,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715142,493,544,"- Blihender Obstgarten.Oel auf Malpappe.H.33,B.29. Goldrahmen.",1999,100.0,False,positional,Jacob de Wet II,,,,
@@ -499,21 +499,21 @@ BO0624_88589,715146,497,548,"Zwei Oelstudien:Schildt,Der Laubfrosch.—Simmler,H
 BO0624_88589,715147,498,551,Zwei verschiedene Landschaften. Oel.,2007,94.4,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715148,499,552,Zwei verschiedene Landschaften. Oel auf Leinwand.Gerahmt.,2008,96.5,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715149,500,553,Finf verschiedene kleine Landschaiten. Oel.,2009,95.3,False,positional,Jacob de Wet II,,,,
-BO0624_88589,715150,501,554,"- Bildnis eines jungen Mannes mit Halskrause. Kopie nach einem Niederlander des 17. Jahrhunderts. Oel auf Leinwand.H.46,B.36.Goldrahmen.",2011,100.0,False,positional,Jacob de Wet II,,,,
+BO0624_88589,715150,501,554,"- Bildnis eines jungen Mannes mit Halskrause. Kopie nach einem Niederlander des 17. Jahrhunderts. Oel auf Leinwand.H.46,B.36.Goldrahmen.",2011,100.0,False,positional,Jacob de Wet II,,,,Sec. XVII
 BO0624_88589,715151,502,555,"Leinwand.H.71,B.58.Gerahmt.",2013,92.9,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715152,503,556,"- 557 Ansicht eines hollandischen Schlosses an Kanal. Oel auf Holz.H. 38, B.50.",2015,100.0,False,positional,Jacob de Wet II,,OGGETTI IN LEGNO,,
 BO0624_88589,715153,504,558,"Kleine Landschaft mit hohen Baumen vorn. Oel auf Leinwand.H. 31,B.25. Goldrahmen.",2017,97.5,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715154,505,559,"Christus und Maria,von Engeln umgeben. Oel auf Leinwand.H.110, B. 85.",2018,97.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715155,506,561,561,2020,100.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715156,507,562,"Kleine Landschaft. Oel auf Leinwand.In altem holzgeschnitztem Rahmchen.H.24, B.35.",2022,97.5,False,positional,Jacob de Wet II,,,,
-BO0624_88589,715157,508,563,Zwei kleine Landschaften mit Staffage. 18. Jahrh. Jede in schonem geschnitzten Holzrahmen aus der,2024,97.9,False,positional,Jacob de Wet II,,,,
+BO0624_88589,715157,508,563,Zwei kleine Landschaften mit Staffage. 18. Jahrh. Jede in schonem geschnitzten Holzrahmen aus der,2024,97.9,False,positional,Jacob de Wet II,,,,Sec. XVIII
 BO0624_88589,715158,509,564,"Vier Putten-Darstellungen als Gegensticke. Oel auf Leinwand. H. 40, B. 64. Profilrahmen.",2026,97.6,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715159,510,565,- 566,2028,100.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715160,511,567,"Bewaldete Landschaft mit mythologischen Figuren vorn links. Oel auf Leinwand. H. 66,B.58. Profilrahmen.",2029,98.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715161,512,568,- 569 Zwei verschiedene Heiligenbilder: Himmelfahrt Maria und BiBende Magdalena.Oel auf Leinwand.,2032,100.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715162,513,571,571,2034,100.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715163,514,572,"Zwei betende Monche in Landschaft. Oel auf Leinwand.H.140,B. 110. Christus wird von den Schergen gepeinigt. Oel auf Holz. H.41,B.29. Zwei verschiedene Darstellungen der Himmelfahrt Maria. Oel auf Leinwand. 79X54 u.72X46.",2040,56.9,False,positional,Jacob de Wet II,,OGGETTI IN LEGNO,,
-BO0624_88589,715164,515,575,Bildnis eines Gelehrten mit Stundenglas. Neuzeitl. Kopie nach einem vlamischen Bild des 16. Jahr-,2041,97.9,False,positional,Jacob de Wet II,,,,
+BO0624_88589,715164,515,575,Bildnis eines Gelehrten mit Stundenglas. Neuzeitl. Kopie nach einem vlamischen Bild des 16. Jahr-,2041,97.9,False,positional,Jacob de Wet II,,,,Sec. XVI
 BO0624_88589,715165,516,576,- 577 Diana und Endymion.Oel auf Leinwand.H.77.B.88.,2043,100.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715166,517,579,579,2047,100.0,False,positional,Jacob de Wet II,,,,
 BO0624_88589,715167,518,580,"Christus am Oelberg.Oel auf Holz. H. 54,B. 40. Schoner alter Rahmen.",2049,96.9,False,positional,Jacob de Wet II,,CORNICI,,
@@ -524,7 +524,7 @@ BO0624_88589,715171,522,584,"Ruhe auf der Flucht. Links sitzt vor einer Baumgrup
 BO0624_88589,715172,523,585,"Stilleben mit Trauben und Aepfeln auf Waldboden. Dabei ein Buchfink. Bezeichnet: Gryef. Oel alf Leinwand.H. 35,B.45.Profilrahmen.",2080,98.4,False,positional,Adriaen de Gryeff,,,,
 BO0624_88589,715173,524,586,"Kalvarienberg. Vorn unter den drei hohen Kreuzen die drei heiligen Frauen und St. Johannes mit trauernden Gebarden. Im Mittelgrunde bewegt sich ein Zug von Schergen und Juden. Hinten reich abgestufte gruntonige Landschaft. Oel auf Eichenholz, oben giebelig gerundet. H. 85,B. 56. Goldrahmen.",2084,99.3,False,positional,,Rheinischer Meister um 1550,,,
 BO0624_88589,715174,525,587,"Ecce homo. Halbfigur Christi mit rotem Mantel, Dornenkrone und Rohr. Bezeichnet:E. Deger. Aquarell.H.28,B.24.Profilrahmen.",2090,98.3,False,positional,Ernst Deger,,,,
-BO0624_88589,715175,526,588,"StrauB von farbenprachtigen Gartenblumen in griechischer Vase auf grinem Tische. Mit Bezeichnung B.van der Ast 1620. Oel auf Leinwand.H.37,B.28.Profilrahmen.",2094,98.7,False,positional,Ernst Deger,,VASI,,
+BO0624_88589,715175,526,588,"StrauB von farbenprachtigen Gartenblumen in griechischer Vase auf grinem Tische. Mit Bezeichnung B.van der Ast 1620. Oel auf Leinwand.H.37,B.28.Profilrahmen.",2094,98.7,False,positional,Ernst Deger,,VASI,,Sec. XVII
 BO0624_88589,715176,527,589,"Baumreiche FluBlandschait mit Herde und Hirtenpaar im Vordergrunde. Oel auf Leinwand. H. 62, B.80.Profilrahmen.",2100,98.1,False,positional,Bernard Gottfried Manskirsch,,,,
 BO0624_88589,715177,528,590,"Zwei Kihe im Vordergrunde einer Landschaft unter einem Baume. Dabei ein Hund. Hinten zwei Schafe und ein Hirt. Mit Bezeichnung. Oel auf Holz. H. 34,B.25. Goldrahmen.",2104,98.7,False,positional,Constantin Troyon,,OGGETTI IN LEGNO,,
 BO0624_88589,715178,529,591,"1Zwei Kardinale. Der eine rezitiert einen alten Dichter. Bezeichnet wie oben. Oel auf Leinwand. H.30,B.37.Profilrahmen.",2108,98.3,False,positional,M.Barascudts,,,,

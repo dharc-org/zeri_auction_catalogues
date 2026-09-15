@@ -1,8 +1,8 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83744,98459,1,2,"a l'harmonie d'un visage des correctifs, juges necessaires par la tyrannie de la mode, et la coquetterie avait cree, a l'usage des personnes de qualite, tout un protocole qui ne tendait a rien moins qu'a depister les indiscrets encore soucieux de la verite vraie.",35,100.0,False,none,,,OGGETTI VARI,,
-BO0624_83744,98460,2,1680,(?)-1740.,102,61.5,False,positional,Jean-Alexis Grimon Grimoux,Scuola Viennese,,,
-BO0624_83744,98461,3,I,"ngres (Jean-Auguste-Dominique), 1781-1867.",108,98.7,False,positional,Jean-Auguste-Dominique Ingres,,,,
-BO0624_83744,98462,4,1618,1680.,127,61.5,False,positional,Pierre Van der Faes dit le Chevalier Lely,Scuola Romana,,,
+BO0624_83744,98460,2,1680,(?)-1740.,102,61.5,False,positional,Jean-Alexis Grimon Grimoux,Scuola Viennese,,,Sec. XVIII
+BO0624_83744,98461,3,I,"ngres (Jean-Auguste-Dominique), 1781-1867.",108,98.7,False,positional,Jean-Auguste-Dominique Ingres,,,,Sec. XIX
+BO0624_83744,98462,4,1618,1680.,127,61.5,False,positional,Pierre Van der Faes dit le Chevalier Lely,Scuola Romana,,,Sec. XVII
 BO0624_83744,98463,5,I,"l est vu de trois quarts a droite, la tete presque de face, a l'age de la maturite, ainsi que l'indiquent certaines rides du visage et le pli amolli du menton. Il est coiffe de la haute perruque et porte l'armure. Sous I'épauliere droite passe en sautoir le cordon du Saint-Esprit. Son col de dentelle est retenu par un double bouton fait de deux rubis cabochons.",293,99.9,False,positional,Boullongne,,,,
 BO0624_83744,98464,6,I,"7o9), dit Monsieur le Prince,fls unique du Grand Conde, celebre par son pere,qu'il suivit souvent a la guerre, et par son mechant caractere.",304,99.3,False,positional,Sebastien Bourdon,,,,
 BO0624_83744,98465,7,I,"l est vu jusqu'a mi-corps,le buste pris sous la cuirasse. Il porte l'écharpe bleu de roi; une collerette de point coupe est rabattue sur I'armure. Le visage, tourne de trois quarts a gauche, est encadre d'une perruque brune a reflets chatains.",306,99.8,False,positional,Sebastien Bourdon,,,,

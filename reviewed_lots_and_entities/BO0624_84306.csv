@@ -1,12 +1,12 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84306,479835,1,95,"020.-Imprimerie Lahure,rue de Fleurus, 9,a Paris.—1927.",7,97.1,False,none,,,,,
+BO0624_84306,479835,1,95,"020.-Imprimerie Lahure,rue de Fleurus, 9,a Paris.—1927.",7,97.1,False,none,,,,,Sec. XX
 BO0624_84306,479836,2,2,"Bois. Haut., 41 cent.; long., 45 cent. Cadre en bois sculpte.",63,100.0,False,positional,ALUNNO,,OGGETTI IN LEGNO,,
 BO0624_84306,479837,3,3,—La Vierge et lEnfant Jesus.,70,96.3,False,positional,Marco BELLO,,,,
 BO0624_84306,479838,4,5,## Jean-Baptiste-Simeon CHARDIN,91,100.0,False,title_direct,Jean-Baptiste-Simeon CHARDIN,,,,
 BO0624_84306,479839,5,6,## CLEVE,106,100.0,False,title_direct,CLEVE,,,,
-BO0624_84306,479840,6,17,"18 juin 1924, n° 17 du catalogue.",136,95.2,False,positional,COQUES,,,,
+BO0624_84306,479840,6,17,"18 juin 1924, n° 17 du catalogue.",136,95.2,False,positional,COQUES,,,,Sec. XX
 BO0624_84306,479841,7,8,—La Querelle.,141,91.7,False,positional,Francois DESPORTES,,,,
-BO0624_84306,479842,8,1767,"Londres, 1797.",151,82.8,False,positional,Gainsborough DUPONT,,,,
+BO0624_84306,479842,8,1767,"Londres, 1797.",151,82.8,False,positional,Gainsborough DUPONT,,,,Sec. XVIII
 BO0624_84306,479843,9,I,"l sinue, au centre, borde, a gauche, d'un talus verdoyant et ombrage par de grands arbres. Un paysan s'y avance, un fagot de bois sur l'épaule, precede d'un chien.A droite, des paysannes et des enfants devant une chaumiere.Effet de soleil couchant.",155,99.8,False,positional,Gainsborough DUPONT,,OGGETTI IN LEGNO,,
 BO0624_84306,479844,10,10,## Antoine van DYCK,162,100.0,False,title_direct,Antoine van DYCK,Scuola di van Dyck,,,
 BO0624_84306,479845,11,I,"l est represente a mi-jambes, en pourpoint de soie noire et tient une letire de la main droite.",168,99.5,False,positional,Antoine van DYCK,,,,
@@ -44,4 +44,4 @@ BO0624_84306,479876,42,52,— Portrait d'homme.,737,91.4,False,positional,Johann
 BO0624_84306,479877,43,53,—— La Lorgneuse.,752,88.9,False,positional,Jean-Antoine WATTEAU,,,,
 BO0624_84306,479878,44,54,——Le Bapteme de l'Eunuque.,765,93.9,False,positional,WET,,,,
 BO0624_84306,479879,45,55,8 Saint Francois d''Assise en extase.,778,95.9,False,positional,Francisco de ZURBARAN,,,,
-BO0624_84306,479880,46,95020,"IMPRIMERIE GENERALE LAHURE.-1927 9,RUE DE FLEURUS,PARIS",793,94.7,False,positional,Francisco de ZURBARAN,,,,
+BO0624_84306,479880,46,95020,"IMPRIMERIE GENERALE LAHURE.-1927 9,RUE DE FLEURUS,PARIS",793,94.7,False,positional,Francisco de ZURBARAN,,,,Sec. XX

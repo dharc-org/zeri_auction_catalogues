@@ -1,5 +1,5 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
-BO0624_84160,42729,1,1,"Huit grands tableaux formes par des carreaux en ancienne faience hollandaise, decor manganese, par J. AaLMis, celebre peintre ceramiste vers 1730, eleve de Cornelis de Berg, qui eut une fabrique a Rotterdam, ou il s'illustra.",16,99.5,False,none,,,,,
+BO0624_84160,42729,1,1,"Huit grands tableaux formes par des carreaux en ancienne faience hollandaise, decor manganese, par J. AaLMis, celebre peintre ceramiste vers 1730, eleve de Cornelis de Berg, qui eut une fabrique a Rotterdam, ou il s'illustra.",16,99.5,False,none,,,,,Sec. XVIII
 BO0624_84160,42730,2,2,e TABLEAu:Pastorale. Gracieuse composition ou dans un un paysage un berger et une bergere sont entoures de leur troupeau.,26,99.6,False,none,,,,,
 BO0624_84160,42731,3,3,"e TaBLEau:La Belle Jardiniere et le Galant Jardinier. Haut.,1 m.70 cent.;larg.,1 m.05 cent.",29,99.4,False,none,,,,,
 BO0624_84160,42732,4,5,e TaBLEAu : Les Vendanges. Scene animee de quatre personnages.,33,99.1,False,none,,,,,

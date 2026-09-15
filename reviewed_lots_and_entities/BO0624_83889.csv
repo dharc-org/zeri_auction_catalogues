@@ -18,7 +18,7 @@ BO0624_83889,66873,16,61,— Etudes de tetes.,880,90.9,False,positional,BOILLY,,
 BO0624_83889,66874,17,62,一 Le Serail parisien.,892,93.0,False,positional,BOSIO,,,,
 BO0624_83889,66875,18,63,1 Amour sur un nuage.,903,93.0,False,positional,BOUCHER,,,,
 BO0624_83889,66876,19,65,"## 65—Portrait de Hte Vre Mne Hutin, nee en MDcCLXI.",932,100.0,False,positional,CHOFFARD,,,,
-BO0624_83889,66877,20,66,"—Portrait de M. Coqueley de Chaussepierre, avocat au Parlement de Paris, 1756, mort en 1791.",951,98.3,False,positional,COCHIN le Fils,,,,
+BO0624_83889,66877,20,66,"—Portrait de M. Coqueley de Chaussepierre, avocat au Parlement de Paris, 1756, mort en 1791.",951,98.3,False,positional,COCHIN le Fils,,,,Sec. XVIII
 BO0624_83889,66878,21,1803,", de la suite sur les Moeurs et Ridicules du jour.",984,94.9,False,positional,DEBUCOURT,,,,
 BO0624_83889,66879,22,73,Le Petit frere.,986,35.3,False,positional,DEBUCOURT,,,,
 BO0624_83889,66880,23,74,La Lettre.,992,45.5,False,positional,DEBUCOURT,,,,
@@ -30,13 +30,13 @@ BO0624_83889,66885,28,86,— Portrait d'homme age.,1029,40.9,False,positional,DE
 BO0624_83889,66886,29,88,-— Amours endormis.,1032,38.1,False,positional,FRAGONARD,,,,
 BO0624_83889,66887,30,89,Amours musiciens.,1036,35.9,False,positional,FRAGONARD,,,,
 BO0624_83889,66888,31,92,## LEMOINE,1091,54.5,False,title_direct,LEMOINE,,,,
-BO0624_83889,66889,32,91,"du Roi, recue a la Comedie Italienne en 1773.",1097,42.9,False,positional,HOIN,,,,
-BO0624_83889,66890,33,1738,1785.,1135,66.7,False,positional,LAVREINCE,,,,
+BO0624_83889,66889,32,91,"du Roi, recue a la Comedie Italienne en 1773.",1097,42.9,False,positional,HOIN,,,,Sec. XVIII
+BO0624_83889,66890,33,1738,1785.,1135,66.7,False,positional,LAVREINCE,,,,Sec. XVIII
 BO0624_83889,66891,34,93,"-Le Quai des Tuileries, au coin du Pont Royal. nteressante composition,ou se voit une foule de prome- neurs, de cavaliers et de carrosses.",1139,40.1,False,positional,LAVREINCE,,,,
 BO0624_83889,66892,35,94,La Rixe.,1146,62.5,False,positional,LAVREINCE,,,,
 BO0624_83889,66893,36,95,La Dispute.,1148,35.3,False,positional,LAVREINCE,,,,
-BO0624_83889,66894,37,1655,1734.,1152,33.3,False,positional,LAVREINCE,,,,
-BO0624_83889,66895,38,1741,1814.,1163,33.3,False,positional,LAVREINCE,,,,
+BO0624_83889,66894,37,1655,1734.,1152,33.3,False,positional,LAVREINCE,,,,Sec. XVIII
+BO0624_83889,66895,38,1741,1814.,1163,33.3,False,positional,LAVREINCE,,,,Sec. XIX
 BO0624_83889,66896,39,102,Composition allegorique.,1169,35.0,False,positional,LAVREINCE,,,,
 BO0624_83889,66897,40,103,"— Mme la Marquise de Villette, niece de Voltaire.",1171,50.0,False,positional,LAVREINCE,,,,
 BO0624_83889,66898,41,109,Portrait de Mlle Vestris.,1226,63.6,False,positional,LAWRENCE,,,,
@@ -89,8 +89,8 @@ BO0624_83889,66944,87,174,"— PeTIT cADRE ovALE en bois, finement sculpte et do
 BO0624_83889,66945,88,175,"— Deux PETITs CADREs rectangulaires, avec vue ovale, en bois sculpte et dore, a rocailles, rinceaux, fleurs et ruban. Epoque Louis xv.",1791,47.5,False,positional,WATTEAU,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_83889,66946,89,176,"— CADRE RECTANGULAIRE, en bois sculpte et dore, tres richement orne de baguettes contournees et ajourees,fond a rocailles et petites guirlandes de fleurs. Epoque Louis Xv.",1800,45.4,False,positional,WILLE Fils,Periodo di Luigi XV,OGGETTI IN LEGNO,,
 BO0624_83889,66947,90,177,"— CaDRE RoND, en bois sculpte et dore, a profil, orne doves et d'un petit rutan. Couronnement et culot a feuillages et chutes de fleurs.",1858,44.8,False,positional,,ECOLE FRANCAISE,LAMPADE,,
-BO0624_83889,66948,91,1738,1814,1859,57.1,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83889,66949,92,179,"— Bas-RELIEF en cire de couleur: jeux de bacchants. Signe : Clodion,1784.Encadré.",1897,45.0,False,positional,CLODION MICHEL,ECOLE FRANCAISE,BASSORILIEVI,,
+BO0624_83889,66948,91,1738,1814,1859,57.1,False,positional,,ECOLE FRANCAISE,,,Sec. XIX
+BO0624_83889,66949,92,179,"— Bas-RELIEF en cire de couleur: jeux de bacchants. Signe : Clodion,1784.Encadré.",1897,45.0,False,positional,CLODION MICHEL,ECOLE FRANCAISE,BASSORILIEVI,,Sec. XVIII
 BO0624_83889,66950,93,18,"o —PETIT GRoupE en ancienne terre de Lorraine,representant les Trois Graces debout, se tenant par la main, des feurs dans les cheveux.",1912,42.6,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83889,66951,94,181,"MeDaILLoN en terre cuite:portrait de Voltaire. Legende: Fr. M.Arouet de Voltaire, ne 16g4.Encadrement a guirlandes de laurier.",1927,45.3,False,positional,BONNET,,,,
 BO0624_83889,66952,95,182,"Deux BAs-RELIEFs en cire de couleur : portrait de femme en riche costume, debout aupres d'une table, et portrait d'homme, egalement debout, portant la perruque. Epoque Louis XIv. Cadres en bois sculpte et dore.",1929,45.8,False,positional,BONNET,,BASSORILIEVI,,
@@ -100,33 +100,33 @@ BO0624_83889,66955,98,185,-STATuETTE en cire de couleur:cordonnier et chien. Tra
 BO0624_83889,66956,99,186,"—BusTe en platre teinte, grandeur nature :l'Evéque. Inscription et signature:Carries, au revers. Haut., 5o cent. 187 — BusTe en platre teinte, grandeur nature :le Guerrier. Haut.,49 cent. 188  BusTe en platre teinte, grandeur nature :Loise Labbe, dite la belle Cordiere. Signe: Carries. Haut.,68 cent. 18g  Groupe:le Grenouillard, de Carries.Platre teinte. Haut.,35 cent. 19o — BusTe, grandeur nature, en platre teinte : le Mendiant russe; avec signature: Carries, et dedicace. Haut.,43 cent. 191  TETE DE FAUNE, en platre teinte, signee: Carries. Haut.,37 cent. 192 2—BusTE en platre teinte:la Femme de Hollande, de Carries. Haut.,45 cent. 193 — BusTe en platre teinte : Jeune fille a la tete penchee, de Carries. Haut.,41 cent. 194 — STATUETTE en platre teinte : Seigneur Louis XIII. Haut.,33 cent. 195  Groupe en terre cuite : Offrande a Pan, de Carrier-Belleuse. Signe:A.Carrier. Haut.,52 cent.",1966,22.5,False,positional,FREUDEBERG,Periodo di Luigi XIII,PIATTI,,
 BO0624_83889,66957,100,196,"—MeDaiLLoN en terre cuite,par Nini:portrait de femme a droite, en corsage decollete, avec nceud de rubans et draperie. Encadre-",1978,45.0,False,positional,FREUDEBERG,,,,
 BO0624_83889,66958,101,197,"-MeDAILLoN en terre cuite, par Nini:portrait presume de",1985,43.0,False,positional,FREUDEBERG,,,,
-BO0624_83889,66959,102,198,"MeDaiLLoN en terre cuite, par Nini:portrait d'homme. Au revers, l'inscription:Monsieur de Flesselle,prevot des marchands. Signe et date:1764.(Storelli,n° 9.)",1987,38.7,False,positional,FREUDEBERG,,,,
-BO0624_83889,66960,103,200,"— MeDaiLLoN en terre cuite, par Nini : portrait d'homme a gauche, vetu d'un habit brode. Signe et date: 1765. (Storelli, n° 21.)",1993,43.4,False,positional,JANINET,,,,
-BO0624_83889,66961,104,201,"— MeDaILLoN en terre cuite, par Nini:portrait d'ecclesiastique, a gauche, portant une croix au-dessus du rabat. Signe et date: 1765. Legende ajoutee posterieurement : J.-B. Mangin de Messia. (Storelli,n°22.)",1995,40.5,False,positional,JANINET,,,,
-BO0624_83889,66962,105,202,"—MEDAILLoN en terre cuite,par Nini:portrait de Gamot. Legende: Hugues Joseph Gamot, graveur du roy. 1766. Signe et date : 1766. (Storelli,n°24.) Signe.(Storelli,n°16.)",1997,44.5,False,positional,JANINET,,,,
+BO0624_83889,66959,102,198,"MeDaiLLoN en terre cuite, par Nini:portrait d'homme. Au revers, l'inscription:Monsieur de Flesselle,prevot des marchands. Signe et date:1764.(Storelli,n° 9.)",1987,38.7,False,positional,FREUDEBERG,,,,Sec. XVIII
+BO0624_83889,66960,103,200,"— MeDaiLLoN en terre cuite, par Nini : portrait d'homme a gauche, vetu d'un habit brode. Signe et date: 1765. (Storelli, n° 21.)",1993,43.4,False,positional,JANINET,,,,Sec. XVIII
+BO0624_83889,66961,104,201,"— MeDaILLoN en terre cuite, par Nini:portrait d'ecclesiastique, a gauche, portant une croix au-dessus du rabat. Signe et date: 1765. Legende ajoutee posterieurement : J.-B. Mangin de Messia. (Storelli,n°22.)",1995,40.5,False,positional,JANINET,,,,Sec. XVIII
+BO0624_83889,66962,105,202,"—MEDAILLoN en terre cuite,par Nini:portrait de Gamot. Legende: Hugues Joseph Gamot, graveur du roy. 1766. Signe et date : 1766. (Storelli,n°24.) Signe.(Storelli,n°16.)",1997,44.5,False,positional,JANINET,,,,Sec. XVIII
 BO0624_83889,66963,106,203,"— MeDAiLLoN en terre cuite, par Nini: portrait de Gamot, graveur du roi. Sans legende. Au revers, les lettres : P.F.G.R. gravees. (Storelli,n25.)",2012,40.1,False,positional,MOREAU le Jeune,,,,
-BO0624_83889,66964,107,204,"— MEDAILLoN en terre cuite, par Nini :portrait du Marquis de Paroy. Legende : Guy Le Gentil, Marquis de Paroy. 1767. Signe.",2020,42.8,False,positional,SAINT-AUBIN,,,,
+BO0624_83889,66964,107,204,"— MEDAILLoN en terre cuite, par Nini :portrait du Marquis de Paroy. Legende : Guy Le Gentil, Marquis de Paroy. 1767. Signe.",2020,42.8,False,positional,SAINT-AUBIN,,,,Sec. XVIII
 BO0624_83889,66965,108,205,"— MEDAILLoN en terre cuite,par Nini: portrait du Prince de Beauvau. Legende :Charles Juste,prince de Beauvau. Signe et",2037,44.6,False,positional,CHENU,,,,
 BO0624_83889,66966,109,206,"MEDAILLoN en terre cuite,par Nini :portrait de Charles de Mosnac.Legende :Charles Rene Pean, seigneur de Mosnac.",2061,44.2,False,positional,DETAILLE,,,,
-BO0624_83889,66967,110,207,"— MEDAILLoN en terre cuite, par Nini:portrait de la baronne de Nivenheim.Legende: Albertine,nee baronne de Nivenheim.1768. Signature et armoiries.(Storelli,n° 3o.)",2092,45.8,False,positional,SISLEY,,,,
+BO0624_83889,66967,110,207,"— MEDAILLoN en terre cuite, par Nini:portrait de la baronne de Nivenheim.Legende: Albertine,nee baronne de Nivenheim.1768. Signature et armoiries.(Storelli,n° 3o.)",2092,45.8,False,positional,SISLEY,,,,Sec. XVIII
 BO0624_83889,66968,111,208,"— MeDaILLoN en terre cuite,par Nini:portrait de Marie-Therese d'Autriche.Legende :M.T.Dg.Rom.Imp. Ger.Hung.et Boh. Re.Ar.Aus.Signe.(Storelli,n° 32.)",2104,44.6,False,positional,STEVENS,,,,
 BO0624_83889,66969,112,209,"— MeDAILLoN en terre cuite, par Nini : portrait de Suzanne de la Reyniere. Legende: Suzanne Jarente de la Reyniere. 176g. Signature et armoiries.Au revers :3 R S m, graves. (Storelli, n° 34.)",2117,42.6,False,positional,STEVENS,,,,
-BO0624_83889,66970,113,210,"MeDaILLoN en terre cuite, par Nini :portrait du Prince de Beauvau. Legende :Charles Juste, prince de Beauvau. 1770. Signe.(Storelli,n° 37.)",2139,40.8,False,positional,STEVENS,,,,
+BO0624_83889,66970,113,210,"MeDaILLoN en terre cuite, par Nini :portrait du Prince de Beauvau. Legende :Charles Juste, prince de Beauvau. 1770. Signe.(Storelli,n° 37.)",2139,40.8,False,positional,STEVENS,,,,Sec. XVIII
 BO0624_83889,66971,114,213,"MeDAILLoN en terre cuite, par Nini :portrait du Comte de Vaudreuil. Legende: Hiacinthe de Rigaud, comte de Vaudreuil.",2146,39.5,False,positional,STEVENS,,,,
-BO0624_83889,66972,115,214,"- MeDaiLLoN en terre cuite, par Nini:portrait de Catherine de Russie. Legende:B.M.ERATEPHHA.H.IMIIEPAT. M. CAMOIEP. BCEPoc. Signé et date :1771. Tete lauree a gauche. (Storelli,",2189,40.9,False,positional,DAUMIER,,,,
-BO0624_83889,66973,116,215,"—MEDAILLoN en terre cuite,par Nini:portrait de Catherine de Russie. Legende:B. M. EHATEPHHA. M.IMIIEPAT.H.CAMOIEP. BCEPoc. Elle est representee,a droite,en buste, en costume d'apparat. Signe et date:1771.(Storelli, n 49.)",2206,40.9,False,positional,DAUMIER,,,,
+BO0624_83889,66972,115,214,"- MeDaiLLoN en terre cuite, par Nini:portrait de Catherine de Russie. Legende:B.M.ERATEPHHA.H.IMIIEPAT. M. CAMOIEP. BCEPoc. Signé et date :1771. Tete lauree a gauche. (Storelli,",2189,40.9,False,positional,DAUMIER,,,,Sec. XVIII
+BO0624_83889,66973,116,215,"—MEDAILLoN en terre cuite,par Nini:portrait de Catherine de Russie. Legende:B. M. EHATEPHHA. M.IMIIEPAT.H.CAMOIEP. BCEPoc. Elle est representee,a droite,en buste, en costume d'apparat. Signe et date:1771.(Storelli, n 49.)",2206,40.9,False,positional,DAUMIER,,,,Sec. XVIII
 BO0624_83889,66974,117,216,"MeDAILLoN en terre cuite teintee,par Nini :portrait de Leray de Chaumont. Legende :J.D.Leray de Chaumont, Intendant des Inval. Signature avec armoiries a cote de la signature. (Storelli,",2290,40.3,False,positional,MONNIER,,,,
-BO0624_83889,66975,118,217,"MeDAILLoN en terre cuite, par Nini: portrait de Leray de Chaumont.Legende:J.D.Leray de Chaumont, Intendant des Inval. Signature, armoiries et date :1771. (Storelli,n 51.)",2292,37.4,False,positional,MONNIER,,,,
-BO0624_83889,66976,119,218,"— MeDAILLoN en terre cuite, par Nini:portrait de Therese J. de Chaumont. Legende : Therese Joques Leray de Chaumont,1774. Signature, armoiries et date:1774. (Storelli,n° 52.)",2302,42.2,False,positional,MONNIER,,,,
+BO0624_83889,66975,118,217,"MeDAILLoN en terre cuite, par Nini: portrait de Leray de Chaumont.Legende:J.D.Leray de Chaumont, Intendant des Inval. Signature, armoiries et date :1771. (Storelli,n 51.)",2292,37.4,False,positional,MONNIER,,,,Sec. XVIII
+BO0624_83889,66976,119,218,"— MeDAILLoN en terre cuite, par Nini:portrait de Therese J. de Chaumont. Legende : Therese Joques Leray de Chaumont,1774. Signature, armoiries et date:1774. (Storelli,n° 52.)",2302,42.2,False,positional,MONNIER,,,,Sec. XVIII
 BO0624_83889,66977,120,219,"— MeDAILLoN en terre cuite,par Nini:portrait de Louis XVI.",2321,45.5,False,positional,STEVENS,,,,
-BO0624_83889,66978,121,220,"— MeDAILLoN en terre cuite,par Nini:portrait de Marie-Antoinette, Legende:Maria Antonia Arc.Aust. Gallorum regina. Signe et date:1774.(Storelli,n°54.)",2333,43.8,False,positional,TASSAERT,,,,
+BO0624_83889,66978,121,220,"— MeDAILLoN en terre cuite,par Nini:portrait de Marie-Antoinette, Legende:Maria Antonia Arc.Aust. Gallorum regina. Signe et date:1774.(Storelli,n°54.)",2333,43.8,False,positional,TASSAERT,,,,Sec. XVIII
 BO0624_83889,66979,122,221,"— MeDAILLoN en terre cuite,par Nini:portrait de Berthevin, chimiste.Legende:P.Berthevin Chi. art. en por. de roy de sue:",2352,43.0,False,positional,,,CADRES EN BOIS SCULPTE ET DORE,,
-BO0624_83889,66980,123,222,"— MEDAILLoN en terre cuite, par Nini:bustes conjugues: Claudine de Bussy et Jean Bouin. MDccLxxix. Signe et date :1777.(Storelli, n°60.)",2356,41.7,False,positional,,,CADRES EN BOIS SCULPTE ET DORE,,
-BO0624_83889,66981,124,223,"—MeDAILLoN en terre cuite, par Nini :portrait de Franklin. Legende:B. Franklin, americain. Signature, armoiries et date: 1777.(Storelli,n°61.)",2360,40.1,False,positional,,,CADRES EN BOIS SCULPTE ET DORE,,
-BO0624_83889,66982,125,224,"MeDAiLLoN en terre cuite,par Nini :portrait de Franklin. Legende:B. Franklin,americain. Signature,date :1777,et",2396,46.2,False,positional,CLODION,,,,
-BO0624_83889,66983,126,225,"MeDAILLoN en terre cuite,par Nini :portrait de Franklin. Legende:B. Franklin,americain. Signature, date:1777, et armoiries.(Storelli,n°61.)",2400,58.8,False,positional,CLODION,,,,
+BO0624_83889,66980,123,222,"— MEDAILLoN en terre cuite, par Nini:bustes conjugues: Claudine de Bussy et Jean Bouin. MDccLxxix. Signe et date :1777.(Storelli, n°60.)",2356,41.7,False,positional,,,CADRES EN BOIS SCULPTE ET DORE,,Sec. XVIII
+BO0624_83889,66981,124,223,"—MeDAILLoN en terre cuite, par Nini :portrait de Franklin. Legende:B. Franklin, americain. Signature, armoiries et date: 1777.(Storelli,n°61.)",2360,40.1,False,positional,,,CADRES EN BOIS SCULPTE ET DORE,,Sec. XVIII
+BO0624_83889,66982,125,224,"MeDAiLLoN en terre cuite,par Nini :portrait de Franklin. Legende:B. Franklin,americain. Signature,date :1777,et",2396,46.2,False,positional,CLODION,,,,Sec. XVIII
+BO0624_83889,66983,126,225,"MeDAILLoN en terre cuite,par Nini :portrait de Franklin. Legende:B. Franklin,americain. Signature, date:1777, et armoiries.(Storelli,n°61.)",2400,58.8,False,positional,CLODION,,,,Sec. XVIII
 BO0624_83889,66984,127,226,"— MeDAILLoN en terre cuite blanche, par Nini : portrait de Franklin portant des lunettes. Signature et armoiries. (Storelli, n° 64.)",2424,61.8,False,positional,CLODION,,,,
-BO0624_83889,66985,128,227,"— MEDAILLoN en terre cuite, par Nini:portrait de Franklin. Legende : Eripuit colo fulmen, sceptrumque tirannis. MDccLxxix. Signature, date : 1778, et armoiries. (Storelli, n° 68.)",2433,62.0,False,positional,CLODION,,,,
+BO0624_83889,66985,128,227,"— MEDAILLoN en terre cuite, par Nini:portrait de Franklin. Legende : Eripuit colo fulmen, sceptrumque tirannis. MDccLxxix. Signature, date : 1778, et armoiries. (Storelli, n° 68.)",2433,62.0,False,positional,CLODION,,,,Sec. XVIII
 BO0624_83889,66986,129,228,"MeDAILLoN en terre cuite, par Nini : portrait de Louis XVI. Legende:Ludovicus XVI, Rex christianissimus. Signe et date: (Storelli, n 70.)",2441,69.7,False,positional,CLODION,,,,
 BO0624_83889,66987,130,229,"— MEDAILLoN en terre cuite,par Nini : portrait de Louis XVI. Legende :Ludovicus XVI, Rex christianissimus. Signe et date:",2459,64.0,False,positional,CLODION,,,,
 BO0624_83889,66988,131,1780,"(Storelli,n 70.)",2460,80.0,False,positional,CLODION,,,,
