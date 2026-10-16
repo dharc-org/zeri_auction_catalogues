@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84335,497740,1,2,## DESIGNATION,6,100.0,False,none,,,,,
 BO0624_84335,497741,2,II,du roi.,161,80.0,False,positional,BOZE,,,,
-BO0624_84335,497742,3,17,"octobre 173g et y mourut le 3o decembre 1798. Chevau-leger en 1754, capitaine en 1757, colonel en 1761, marechal de camp en 178o,il fut recu a 1'Academie Francaise en 1784. Il recut en avril 1792 le commandement de l'armee du Midi et conquit la Savoie.",171,99.4,False,positional,BOZE,,,,Sec. XVIII
+BO0624_84335,497742,3,17,"octobre 173g et y mourut le 3o decembre 1798. Chevau-leger en 1754, capitaine en 1757, colonel en 1761, marechal de camp en 178o,il fut recu a 1'Academie Francaise en 1784. Il recut en avril 1792 le commandement de l'armee du Midi et conquit la Savoie.",171,99.4,False,none,,,,,Sec. XVIII
 BO0624_84335,497743,4,13,"—Portrait de Jeanne de Gassion, comtesse d'Artagnan.",192,97.0,False,positional,DESLYENS,,,,
 BO0624_84335,497744,5,I4,"boise, Ire femme de Jean de Montluc, sieur de Balagny, prince de Gambrai.",203,97.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84335,497745,6,15,"Portrait de la duchesse d'Aumont, nee Le Tellier.",214,96.9,False,positional,,ECOLE FRANCAISE,,,
@@ -12,7 +12,7 @@ BO0624_84335,497749,10,22,"## LARGILLIERE ## LE BRUN Portrait d'Adrien de eMonte
 BO0624_84335,497750,11,25,"— Portrait d' Anne de Souvre, marquise de Louvois.",339,96.8,False,positional,LEFEBVRE,,,,
 BO0624_84335,497751,12,28,—Portrait de Bombarde de Beaulieu.,376,95.5,False,positional,RIGAUD,,,,
 BO0624_84335,497752,13,30,"Portrait de Pierre de MontesquiouFezensac, grand chambellan de P Empereur Napoleon Ier.",399,98.3,False,positional,ROMANY,,,,
-BO0624_84335,497753,14,I,"l est assis,vu de face,la main gauche appuyee sur son siege de velours rouge, les jambes croisees. Il tient un livre de l'autre main, le bras accoude sur une draperie de soie grise. La chevelure poudrée, une cravate de mousseline autour du cou,il porte un gilet blanc sous un habit bleu.",401,99.8,False,positional,ROMANY,,,,
+BO0624_84335,497753,14,I,"l est assis,vu de face,la main gauche appuyee sur son siege de velours rouge, les jambes croisees. Il tient un livre de l'autre main, le bras accoude sur une draperie de soie grise. La chevelure poudrée, une cravate de mousseline autour du cou,il porte un gilet blanc sous un habit bleu.",401,99.8,False,none,,,,,
 BO0624_84335,497754,15,32,## 32—Portrait de Pierre de comte d'Artagnan.,428,100.0,False,positional,TROY,,,,
 BO0624_84335,497755,16,33,## VALLAYER-COSTER,445,100.0,False,title_direct,VALLAYER-COSTER,,,,
 BO0624_84335,497756,17,34,"Portrait d'Anne-Elisabeth Filleul de Ponts, comtesse d'Artagnan et de ses fils Joseph-Paul et Louis de Montesquiou-Fezensac.",467,98.8,False,title_direct,Rosamee de MontesquiouFezensac,,,,

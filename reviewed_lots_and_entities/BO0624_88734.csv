@@ -251,7 +251,7 @@ BO0624_88734,674591,249,261,"- Schwert. Kannelierter, birnformiger Eisenknauf, g
 BO0624_88734,674592,250,262,"Reitsc hwert. Birnformiger Knauf,eisengeschnitten und kanneliert, der Griff mit Leder bezogen, blattformige Parierstange mit Wulst, das GefaB mit Faustschutzbugel,in Knospen endigend, die Klinge mit Blutrinnen. Jahrh.L.115 cm.",456,95.6,False,positional,,,OGGETTI IN PELLE,,
 BO0624_88734,674593,251,263,"Reit sc h w e rt. Kugelknauf kanneliert. Griff mit Draht umwickelt, gerade Parierstange. Das offene GefaB mit spiralformig gewundenen Faustschutzbugeln. Klinge mit Marken. Ende 16. Jahrh. L. 114 cm. Tafel8",458,99.0,False,positional,,,Rustungen; Waffen,,Sec. XVI
 BO0624_88734,674594,252,264,"Reits chw ert. Birnformiger, glatter Eisenknauf, der Griff mit Messingdraht umwickelt, leicht gebogene Parierstange, offenes GefaB mit Parierringen und Faustschutzbugeln. Klinge mit Marken. Suddeutsch. Ende 16. Jahrh. L.106 cm. Tafel8",459,99.1,False,positional,,,Rustungen; Waffen,,Sec. XVI
-BO0624_88734,674595,253,265,"Zwei Schiavone-Schwerter mit Gitterkorb. Flache, blattformige Knaufe mit Kugel und Rosette. Italien. Gegen 16oo. L. je 105 cm. Eins beschadigt. Tafel8",460,98.6,False,positional,,,Rustungen; Waffen,,
+BO0624_88734,674595,253,265,"Zwei Schiavone-Schwerter mit Gitterkorb. Flache, blattformige Knaufe mit Kugel und Rosette. Italien. Gegen 16oo. L. je 105 cm. Eins beschadigt. Tafel8",460,98.6,False,positional,"SCHIAVONE, MELDOLLA ANDREA",,Rustungen; Waffen,,
 BO0624_88734,674596,254,266,"Korbschwert.Eisen.Das GefaB gitterartig, durchbrochen mit Sternund Herzformen. Klinge mit Blutrinne. Schottland. 17. Jahrh.L. 95 cm.",461,98.4,False,positional,EISEN CHARLES,,OGGETTI IN FERRO,,Sec. XVII
 BO0624_88734,674597,255,267,Reitsch wert. 17. Jahrh.-Degen mit siebartig durchbrochenem,463,96.6,False,positional,,,Rustungen; Waffen,,Sec. XVII
 BO0624_88734,674598,256,268,"La n dsknec htsschwert (Katzbalger). Pilzformiger,kannelierter Eisenknauf;Griff mit Lederverkleidung. S-formig geschwungene Parierstange. Breite Klinge mit Blutrinne und geatztem Dekor:Muttergottes und Inschrift.Renaissance-Stil.Lederscheide. L.7o cm.Ahnliches Lands-",465,99.2,False,positional,,,Rustungen; Waffen,,
@@ -476,15 +476,15 @@ BO0624_88734,674816,474,498,"Elfenbeinplatte mit reliefierten Pfirsichzweigen un
 BO0624_88734,674817,475,499,"Ma do n n a mit Kin d. Sie sitzt auf kissenbelegter Bank, mit der Rechten das segnende Kind haltend. Holz. Wandfigur mit ausgehohlter Ruckseite. Der untere Teil der Figur 1. Halfte 15. Jahrh., der obere Teil mit",865,99.0,False,positional,,,OGGETTI IN LEGNO,,Sec. XV
 BO0624_88734,674818,476,501,501,871,100.0,False,positional,,,Plastik,,
 BO0624_88734,674819,477,502,H1. Jo h a n n e s. Halbfigur.Mit Buch. Holz. Ruckseite unbearbeitet. Farbige Fassung.H.mit Konsole 22 cm.,876,98.0,False,positional,,SUDDEUTSCH,OGGETTI IN LEGNO,,
-BO0624_88734,674820,478,503,"31,5cm.",878,75.0,False,positional,,SUDDEUTSCH,,,
+BO0624_88734,674820,478,503,"31,5cm.",878,75.0,False,none,,,,,
 BO0624_88734,674821,479,504,"- H1. Hier o n y m u s. Halbfigur nach rechts, undeutlich bez. 1671. Sandsteinrelief.H.29 cm.",883,100.0,False,positional,,SUDDEUTSCH,,,Sec. XVII
 BO0624_88734,674822,480,505,- 506,888,100.0,False,positional,,SUDDEUTSCH,,,
-BO0624_88734,674823,481,6,"Heiliger. Im Domherrnkleid. Stehend mit Buch. Holz,fast vollrund. GefaBt.H.46 cm.",893,99.3,False,positional,,SUDDEUTSCH,OGGETTI IN LEGNO,,
-BO0624_88734,674824,482,507,- 508,895,100.0,False,positional,,SUDDEUTSCH,,,
-BO0624_88734,674825,483,509,- Ein Paar Engelputten. Schwebend. Mit Flugel und Lendentuch. Lindenholz.Vollrund.Vergoldet.H.44 cm und 49 cm.,897,100.0,False,positional,,SUDDEUTSCH,COPPE,,
+BO0624_88734,674823,481,6,"Heiliger. Im Domherrnkleid. Stehend mit Buch. Holz,fast vollrund. GefaBt.H.46 cm.",893,99.3,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88734,674824,482,507,- 508,895,100.0,False,none,,,,,
+BO0624_88734,674825,483,509,- Ein Paar Engelputten. Schwebend. Mit Flugel und Lendentuch. Lindenholz.Vollrund.Vergoldet.H.44 cm und 49 cm.,897,100.0,False,none,,,COPPE,,
 BO0624_88734,674826,484,510,"Hl. Th e re se in Ve r z i c ku n g. Kopfstuick. Hochrelief. Lindenholz. 28X22 cm. 1744 nach dem Marmorbildwerk des Lorenzo Bernini in Sta. Maria dellaVittoria zu Rom verfertigt.Mit alter,schriftlicher Beglaubigung auf Papier auf der Rickseite.Schw.R. Ehemals Sammlung Freiherr Josef von LaBberg. 10W",908,99.3,False,positional,"OHNMACHT,L.",,,COLLEZIONE JOSEF VON LASSBERG,Sec. XVIII
-BO0624_88734,674827,485,511,"- Alter Mann mit Haube.Brustbild. Ovales Hochrelief. Marmor. H. 7,5 cm. Altes Rahmchen.",910,100.0,False,positional,"OHNMACHT,L.",,,,
-BO0624_88734,674828,486,512,"Chri stu skopf. Ovales Hochrelief. Marmor. H.1o,5 cm.",911,96.1,False,positional,"OHNMACHT,L.",,,,
+BO0624_88734,674827,485,511,"- Alter Mann mit Haube.Brustbild. Ovales Hochrelief. Marmor. H. 7,5 cm. Altes Rahmchen.",910,100.0,False,none,,,,,
+BO0624_88734,674828,486,512,"Chri stu skopf. Ovales Hochrelief. Marmor. H.1o,5 cm.",911,96.1,False,none,,,,,
 BO0624_88734,674829,487,513,Schlapphut tief ins Gesicht gedrickt. Rechts eine brennende Kerze. Ol auf H.21X17 cm.Br.R.,919,97.8,False,positional,,,Gemalde,,
 BO0624_88734,674830,488,514,"rechts, im Oval. Ol auf Lwd.65X52 cm. G.R.",924,95.0,False,positional,,,Gemalde,,
 BO0624_88734,674831,489,515,- Italienische Lan d schaft. FluB mit felsigem Ufer und Gebauden. Staffagefigur.Lwd.45X63 cm.G.R.,926,100.0,False,positional,,,Gemalde,,

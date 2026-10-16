@@ -3,29 +3,29 @@ BO0624_83667,84793,1,1,Portrait presume de Catherine de Medicis. (?),10,97.6,Fal
 BO0624_83667,84794,2,2,Rixe dans un cabaret.,22,95.2,False,positional,CRAESBECK,,,,
 BO0624_83667,84795,3,3,Ferme au bord d'une riviere. 1829,31,88.5,False,positional,DECKER,,,,Sec. XIX
 BO0624_83667,84796,4,4,Une Grande Route.,45,94.1,False,positional,DE MARNE,,,,
-BO0624_83667,84797,5,5,"Un Canal. l s'etend au centre jusqu'a l'horizon. Un coche vient d'atterrir, de nombreux passagers en debarquent et se disposent, pour la plupart, a monter dans une charrette.",57,97.0,False,positional,DE MARNE,,,,
+BO0624_83667,84797,5,5,"Un Canal. l s'etend au centre jusqu'a l'horizon. Un coche vient d'atterrir, de nombreux passagers en debarquent et se disposent, pour la plupart, a monter dans une charrette.",57,97.0,False,none,CANALE ANTONIO,,,,
 BO0624_83667,84798,6,6,Portrait presume de Mlle Mayer.,74,96.8,False,positional,DROLLING,,,,
 BO0624_83667,84799,7,7,Maison a vendre.,84,93.8,False,positional,DROLLING,,,,
 BO0624_83667,84800,8,1596,1666,112,61.5,False,positional,GOYEN,,,,Sec. XVII
-BO0624_83667,84801,9,9,Paysage anime de figures. 1836,114,87.3,False,positional,GOYEN,,,,Sec. XIX
-BO0624_83667,84802,10,10,La Surprise agreable. 0001,128,83.3,False,positional,GOYEN,,,,
-BO0624_83667,84803,11,11,Fleurs dans un vase.,142,92.7,False,positional,GOYEN,,VASI,,
-BO0624_83667,84804,12,12,Fruits et fleurs.,149,91.4,False,positional,GOYEN,,,,
+BO0624_83667,84801,9,9,Paysage anime de figures. 1836,114,87.3,False,none,,,,,Sec. XIX
+BO0624_83667,84802,10,10,La Surprise agreable. 0001,128,83.3,False,none,,,,,
+BO0624_83667,84803,11,11,Fleurs dans un vase.,142,92.7,False,none,,,VASI,,
+BO0624_83667,84804,12,12,Fruits et fleurs.,149,91.4,False,none,,,,,
 BO0624_83667,84805,13,13,L'Immaculee Conception.,163,93.6,False,positional,JOHANNES,,,,
 BO0624_83667,84806,14,14,Conversation galante.,177,93.0,False,positional,LA HAYE,,,,
 BO0624_83667,84807,15,1682,1749,189,61.5,False,positional,HUYSUM,,,,Sec. XVIII
 BO0624_83667,84808,16,1619,1690,194,61.5,False,positional,LE BRUN,,,,Sec. XVII
-BO0624_83667,84809,17,15,Portrait de lartiste.,196,93.0,False,positional,LE BRUN,,,,
+BO0624_83667,84809,17,15,Portrait de lartiste.,196,93.0,False,none,,,,,
 BO0624_83667,84810,18,16,— Paysage d’ Italie. 1766,206,80.0,False,positional,MOUCHERON,,,,Sec. XVIII
 BO0624_83667,84811,19,17,"Portrait de Mue Sylvia,de l'Opera.",220,95.7,False,positional,NATTIER,,,,
-BO0624_83667,84812,20,18,Interieur deglise.,229,91.9,False,positional,NATTIER,,ARREDAMENTI,,
+BO0624_83667,84812,20,18,Interieur deglise.,229,91.9,False,none,,,ARREDAMENTI,,
 BO0624_83667,84813,21,19,Un Cheval au pré.,245,91.4,False,positional,POTTER,,,,
 BO0624_83667,84814,22,20,Interieur d’artiste.,259,95.0,False,positional,PRUD'HOMME,,ARREDAMENTI,,
-BO0624_83667,84815,23,2,obis—La Dispute au cabaret.,261,98.1,False,positional,PRUD'HOMME,,,,
+BO0624_83667,84815,23,2,obis—La Dispute au cabaret.,261,98.1,False,none,,,,,
 BO0624_83667,84816,24,1570,1551,273,61.5,False,positional,NEEFS,,,,Sec. XVI
-BO0624_83667,84817,25,23,Un Combat.,274,85.7,False,positional,NEEFS,,,,
+BO0624_83667,84817,25,23,Un Combat.,274,85.7,False,none,,,,,
 BO0624_83667,84818,26,1542,1619,288,61.5,False,positional,QUESNEL,,,,Sec. XVII
-BO0624_83667,84819,27,21,Portrait d'Henriette de Balsac marquise de Verneuil.,290,97.1,False,positional,QUESNEL,,,,
+BO0624_83667,84819,27,21,Portrait d'Henriette de Balsac marquise de Verneuil.,290,97.1,False,none,,,,,
 BO0624_83667,84820,28,22,Saint Jean l'Evangeliste.,304,94.1,False,positional,ROTTENHAMER,,,,
 BO0624_83667,84821,29,1755,1830,314,61.5,False,positional,TAUNAY,Scuola Viennese,,,Sec. XIX
 BO0624_83667,84822,30,24,Religieux secourant un blesse.,319,95.1,False,positional,TAUNAY,,,,
@@ -35,17 +35,17 @@ BO0624_83667,84825,33,27,Inauguration de la statue de Louis XV.,356,96.1,False,p
 BO0624_83667,84826,34,28,La Vierge et IEnfant Jesus.,368,94.5,False,positional,,ECOLE FLORENTINE,,,
 BO0624_83667,84827,35,29,La Vierge et l'Enfant Jesus.,381,94.7,False,positional,,ECOLE FLORENTINE,,,
 BO0624_83667,84828,36,3,o—Vue de la ville de Lyon sous la Domination des Calvinistes.,395,99.2,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83667,84829,37,31,Pastorale.,404,85.7,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83667,84829,37,31,Pastorale.,404,85.7,False,none,,,,,
 BO0624_83667,84830,38,32,Portrait presume de Bianca Capello. I-1528,414,87.2,False,positional,,ECOLE ITALIENNE,,,Sec. XVI
 BO0624_83667,84831,39,33,"Portrait de Jacob Muffel, bourginestre de Nuremberg.",436,97.1,False,positional,,ECOLE ALLEMANDE,,,
 BO0624_83667,84832,40,34,"Portrait de Bilibad Pirkeimer, senateur de Nuremberg.",455,97.1,False,positional,DURER,,,,
 BO0624_83667,84833,41,35,La Vierge et deux saintes femmes.,471,95.5,False,positional,DURER,,,,
-BO0624_83667,84834,42,36,Jeune Apotre debout.,488,92.7,False,positional,DURER,,,,
+BO0624_83667,84834,42,36,Jeune Apotre debout.,488,92.7,False,none,,,,,
 BO0624_83667,84835,43,38,Le Christ descendu de la croix.,523,95.2,False,positional,DURER,,,,
 BO0624_83667,84836,44,39,Le Christ devant Caiphe.,539,93.9,False,positional,DURER,,,,
 BO0624_83667,84837,45,40,—— Quatre tetes de profil. 1788,558,84.6,False,positional,DURER,,,,Sec. XVIII
 BO0624_83667,84838,46,41,Offrande au Dieu des jardins.,574,94.9,False,positional,GESSNER,,,,
-BO0624_83667,84839,47,42,Encadrement. 1620,583,73.3,False,positional,GESSNER,,,,Sec. XVII
+BO0624_83667,84839,47,42,Encadrement. 1620,583,73.3,False,none,,,,,Sec. XVII
 BO0624_83667,84840,48,43,Un Groupe de personnages. 1552,605,85.7,False,positional,ELSHEIMER,,,,Sec. XVI
 BO0624_83667,84841,49,44,——Judith et Holopherne.,624,93.0,False,positional,STIMMER,,,,
 BO0624_83667,84842,50,45,Etude d'ornements.,636,91.9,False,positional,STIMMER,,OGGETTI VARI,,
@@ -59,42 +59,42 @@ BO0624_83667,84849,57,52,Troupeau au bord d’une riviere. ——Coq et poules.,
 BO0624_83667,84850,58,53,—Le Passage du gue.,767,91.9,False,positional,BERGHEM,,,,
 BO0624_83667,84851,59,54,Le Depart pour la chasse.,779,94.1,False,positional,BLOEMEN,,,,
 BO0624_83667,84852,60,56,Paysage.,790,82.4,False,positional,BORSUM,,,,
-BO0624_83667,84853,61,58,Entree de village.,796,91.9,False,positional,BORSUM,,,,
+BO0624_83667,84853,61,58,Entree de village.,796,91.9,False,none,,,,,
 BO0624_83667,84854,62,1610,1652,808,61.5,False,positional,BOTH,,,,Sec. XVII
-BO0624_83667,84855,63,57,—Pecheurs au bord d'une riviere.,816,95.2,False,positional,BOTH,,,,
+BO0624_83667,84855,63,57,—Pecheurs au bord d'une riviere.,816,95.2,False,none,,,,,
 BO0624_83667,84856,64,1658,1719,831,61.5,False,positional,BOUT,,,,Sec. XVIII
-BO0624_83667,84857,65,59,Le Depart pour la promenade en traineau.,833,96.3,False,positional,BOUT,,,,
+BO0624_83667,84857,65,59,Le Depart pour la promenade en traineau.,833,96.3,False,none,,,,,
 BO0624_83667,84858,66,60,Portrait de lartiste.,847,93.0,False,positional,BRUEGHEL,,,,
 BO0624_83667,84859,67,61,--Le Christ tente par le Demon.,862,94.9,False,positional,BRUEGHEL,,,,
-BO0624_83667,84860,68,62,— Le Passage du gue. (?)-1675,876,81.0,False,positional,BRUEGHEL,,,,Sec. XVII
+BO0624_83667,84860,68,62,— Le Passage du gue. (?)-1675,876,81.0,False,none,,,,,Sec. XVII
 BO0624_83667,84861,69,63,Un Jeune Seigneur.,890,91.9,False,positional,DIEPENBEEK,,,,
 BO0624_83667,84862,70,64,Troupeau en marche.,901,92.3,False,positional,DOES,,,,
 BO0624_83667,84863,71,65,Troupeau en marche.,915,92.3,False,positional,DOES,,,,
 BO0624_83667,84864,72,66,"Eliezer et Rebecca a la fontaine. nteressante composition dans la maniere de Rembrandt, maitre",929,78.9,False,positional,DOOMER,,,,
-BO0624_83667,84865,73,67,Portrait equestre.,938,91.9,False,positional,DOOMER,,,,
+BO0624_83667,84865,73,67,Portrait equestre.,938,91.9,False,none,,,,,
 BO0624_83667,84866,74,68,Le Christ entre les larrons.,952,94.7,False,positional,DYCK,,,,
 BO0624_83667,84867,75,1640,1723,966,61.5,False,positional,GENOELS,,,,Sec. XVIII
-BO0624_83667,84868,76,6,g—Paysage d’une vaste etendue.,968,98.3,False,positional,GENOELS,,,,
+BO0624_83667,84868,76,6,g—Paysage d’une vaste etendue.,968,98.3,False,none,,,,,
 BO0624_83667,84869,77,1640,1723,983,61.5,False,positional,GENOELS,,,,Sec. XVIII
-BO0624_83667,84870,78,70,-Vue d’un chateau entoure d’'arbres. 1666,985,89.2,False,positional,GENOELS,,,,Sec. XVII
-BO0624_83667,84871,79,71,——Une Fete au village.,999,92.7,False,positional,GENOELS,,,,
-BO0624_83667,84872,80,73,Marine.,1006,80.0,False,positional,GENOELS,,,,
-BO0624_83667,84873,81,74,Un Canal glace.,1010,90.3,False,positional,GENOELS,,,,
-BO0624_83667,84874,82,I,"l est anime de nombreuses figures. A droite, un traineau attele d'un cheval.",1012,99.3,False,positional,GENOELS,,,,
+BO0624_83667,84870,78,70,-Vue d’un chateau entoure d’'arbres. 1666,985,89.2,False,none,,,,,Sec. XVII
+BO0624_83667,84871,79,71,——Une Fete au village.,999,92.7,False,none,,,,,
+BO0624_83667,84872,80,73,Marine.,1006,80.0,False,none,,,,,
+BO0624_83667,84873,81,74,Un Canal glace.,1010,90.3,False,none,CANALE ANTONIO,,,,
+BO0624_83667,84874,82,I,"l est anime de nombreuses figures. A droite, un traineau attele d'un cheval.",1012,99.3,False,none,,,,,
 BO0624_83667,84875,83,72,Un Marche de village.,1024,93.0,False,positional,GOYEN,,,,
 BO0624_83667,84876,84,1590,1656,1041,61.5,False,positional,HONTHORST,,,,Sec. XVII
-BO0624_83667,84877,85,75,Un Joueur de tambour de basque.,1043,95.2,False,positional,HONTHORST,,,,
-BO0624_83667,84878,86,76,Animaux au repos.,1053,91.4,False,positional,HONTHORST,,,,
-BO0624_83667,84879,87,1632,"Haut., 25 cent.;larg., 38 cent.",1067,100.0,False,positional,HONTHORST,,,,
-BO0624_83667,84880,88,1646,1723,1073,61.5,False,positional,HONTHORST,,,,Sec. XVIII
-BO0624_83667,84881,89,77,—— Portrait d'un homme de guerre. 1674,1075,87.9,False,positional,HONTHORST,,,,Sec. XVII
+BO0624_83667,84877,85,75,Un Joueur de tambour de basque.,1043,95.2,False,none,,,,,
+BO0624_83667,84878,86,76,Animaux au repos.,1053,91.4,False,none,,,,,
+BO0624_83667,84879,87,1632,"Haut., 25 cent.;larg., 38 cent.",1067,100.0,False,none,,,,,
+BO0624_83667,84880,88,1646,1723,1073,61.5,False,none,,,,,Sec. XVIII
+BO0624_83667,84881,89,77,—— Portrait d'un homme de guerre. 1674,1075,87.9,False,none,,,,,Sec. XVII
 BO0624_83667,84882,90,78,Portrait de Rubens.,1088,92.3,False,positional,LIEVENS,Scuola di Rubens,,,
 BO0624_83667,84883,91,79,—Paysage montueux.,1104,91.4,False,positional,MOLYN,,,,
 BO0624_83667,84884,92,1633,1686,1116,61.5,False,positional,MOUCHERON,,,,Sec. XVII
-BO0624_83667,84885,93,8,o—Vue d’une cascade.,1118,97.4,False,positional,MOUCHERON,,,,
+BO0624_83667,84885,93,8,o—Vue d’une cascade.,1118,97.4,False,none,,,,,
 BO0624_83667,84886,94,1670,1744,1131,61.5,False,positional,MOUCHERON,,,,Sec. XVIII
-BO0624_83667,84887,95,81,Paysage avec monuments et figures.,1133,95.7,False,positional,MOUCHERON,,,,
-BO0624_83667,84888,96,82,Paysage d'hiver.,1145,90.9,False,positional,MOUCHERON,,,,
+BO0624_83667,84887,95,81,Paysage avec monuments et figures.,1133,95.7,False,none,,,,,
+BO0624_83667,84888,96,82,Paysage d'hiver.,1145,90.9,False,none,,,,,
 BO0624_83667,84889,97,83,-Femme assise. 1685,1159,75.0,False,positional,NETSCHER,,,,Sec. XVII
 BO0624_83667,84890,98,84,Les Musiciens ambulants.,1172,93.9,False,positional,OSTADE,,,,
 BO0624_83667,84891,99,85,Un Cabaret hollandais. 1657,1188,84.0,False,positional,OSTADE,,,,Sec. XVII
@@ -105,46 +105,46 @@ BO0624_83667,84895,103,8,g—Jesus et la Madeleine.,1254,97.9,False,positional,R
 BO0624_83667,84896,104,90,—Vue de Hollande.,1267,90.9,False,positional,REMBRANDT,,,,
 BO0624_83667,84897,105,91,Saint Pierre Nolasque.,1281,93.3,False,positional,REMBRANDT,,,,
 BO0624_83667,84898,106,92,Vue d’une ville au-dessus d'une riviere.,1293,96.3,False,positional,REMBRANDT,,,,
-BO0624_83667,84899,107,93,Vue de Hollande.,1300,90.9,False,positional,REMBRANDT,,,,
+BO0624_83667,84899,107,93,Vue de Hollande.,1300,90.9,False,none,,,,,
 BO0624_83667,84900,108,94,——L'Enlevement des Sabines.,1314,94.1,False,positional,RUBENS,,,,
 BO0624_83667,84901,109,1597,1687,1328,61.5,False,positional,ROGMAN,,,,Sec. XVII
 BO0624_83667,84902,110,96,## RUBENS Cortege de Venus Aphrodite.,1337,87.1,False,title_direct,RUBENS,Scuola di Rubens,,,
 BO0624_83667,84903,111,97,-—Les Trois Graces. 1682,1371,80.0,False,positional,RUBENS,,,,Sec. XVII
 BO0624_83667,84904,112,98,Paysage hollandais.,1386,92.3,False,positional,RUISDAEL,,,,
 BO0624_83667,84905,113,160,g-1685,1414,80.0,False,positional,SAFTLEVEN,,,,Sec. XVII
-BO0624_83667,84906,114,100,Vue des bords du Rhin.,1416,91.3,False,positional,SAFTLEVEN,,,,
-BO0624_83667,84907,115,101,Marines. 1639,1423,60.9,False,positional,SAFTLEVEN,,,,Sec. XVII
+BO0624_83667,84906,114,100,Vue des bords du Rhin.,1416,91.3,False,none,,,,,
+BO0624_83667,84907,115,101,Marines. 1639,1423,60.9,False,none,,,,,Sec. XVII
 BO0624_83667,84908,116,102,Marine hollandaise. 1690,1443,80.0,False,positional,STORCK,,,,Sec. XVII
 BO0624_83667,84909,117,103,—L'Artiste et sa famille.,1457,92.0,False,positional,TENIERS,,,,
-BO0624_83667,84910,118,105,Etude de tetes. vers 1688,1464,66.7,False,positional,TENIERS,,,,Sec. XVII
+BO0624_83667,84910,118,105,Etude de tetes. vers 1688,1464,66.7,False,none,,,,,Sec. XVII
 BO0624_83667,84911,119,106,Paysages d’'Italie.,1478,89.5,False,positional,ULFT,,,,
 BO0624_83667,84912,120,104,—— Paysans jouant aux quilles.,1490,92.9,False,positional,TENIERS,,,,
-BO0624_83667,84913,121,I,"ls sont sur une route devant la porte d'une maison, Un joueur va lancer sa boule, ses compagnons font cercle autour de lui.",1492,99.6,False,positional,TENIERS,,,,
+BO0624_83667,84913,121,I,"ls sont sur une route devant la porte d'une maison, Un joueur va lancer sa boule, ses compagnons font cercle autour de lui.",1492,99.6,False,none,,,,,
 BO0624_83667,84914,122,108,Marine.,1503,75.0,False,positional,TENIERS,,,,
-BO0624_83667,84915,123,10,g -Un Patre jouant de la flite.,1515,96.7,False,positional,TENIERS,,,,
-BO0624_83667,84916,124,I,"l est assis, vu de profil et dirige vers la droite.",1517,99.0,False,positional,TENIERS,,,,
+BO0624_83667,84915,123,10,g -Un Patre jouant de la flite.,1515,96.7,False,none,,,,,
+BO0624_83667,84916,124,I,"l est assis, vu de profil et dirige vers la droite.",1517,99.0,False,none,,,,,
 BO0624_83667,84917,125,1610,1693,1527,61.5,False,positional,VELDE,,,,Sec. XVII
 BO0624_83667,84918,126,1627,1690,1544,61.5,False,positional,VERSCHURING,,,,Sec. XVII
-BO0624_83667,84919,127,110,Un Campement.,1546,85.7,False,positional,VERSCHURING,,,,
+BO0624_83667,84919,127,110,Un Campement.,1546,85.7,False,none,,,,,
 BO0624_83667,84920,128,1629,1702,1558,61.5,False,positional,VINNE,,,,Sec. XVIII
-BO0624_83667,84921,129,III,bis,1566,66.7,False,positional,VINNE,,,,
+BO0624_83667,84921,129,III,bis,1566,66.7,False,none,,,,,
 BO0624_83667,84922,130,1610,1670,1581,61.5,False,positional,VISSCHER,,,,Sec. XVII
-BO0624_83667,84923,131,I12,Une Jeune Dame de qualite.,1583,92.6,False,positional,VISSCHER,,,,
+BO0624_83667,84923,131,I12,Une Jeune Dame de qualite.,1583,92.6,False,none,,,,,
 BO0624_83667,84924,132,113,Portrait de la mere de lartiste.,1597,93.9,False,positional,VISSCHER,,,,
-BO0624_83667,84925,133,115,Le Mariage. 1677,1610,69.0,False,positional,VISSCHER,,,,Sec. XVII
+BO0624_83667,84925,133,115,Le Mariage. 1677,1610,69.0,False,none,,,,,Sec. XVII
 BO0624_83667,84926,134,116,"Paysage,effet d'hiver.",1624,93.3,False,positional,WATERLOO,,,,
 BO0624_83667,84927,135,114,Les Porteurs de lait.,1636,90.9,False,positional,WAEL,,,,
-BO0624_83667,84928,136,I,"ls se dirigent vers la droite, les uns charges sur la tete, les autres sur lépaule; deux d'entre eux,portant un seau a l'aide d’un baton, marchent en avant.",1638,99.7,False,positional,WAEL,,,,
+BO0624_83667,84928,136,I,"ls se dirigent vers la droite, les uns charges sur la tete, les autres sur lépaule; deux d'entre eux,portant un seau a l'aide d’un baton, marchent en avant.",1638,99.7,False,none,,,,,
 BO0624_83667,84929,137,1619,1668,1651,61.5,False,positional,WOUWERMANS,,,,Sec. XVII
-BO0624_83667,84930,138,117,—Etude de cheval tourne vers la gauche.,1653,94.9,False,positional,WOUWERMANS,,,,
+BO0624_83667,84930,138,117,—Etude de cheval tourne vers la gauche.,1653,94.9,False,none,,,,,
 BO0624_83667,84931,139,18,Vaisseau a l'entree d’un port.,1669,95.1,False,positional,ZEEMAN,,,,
 BO0624_83667,84932,140,1703,1770,1686,61.5,False,positional,BOUCHER,,,,Sec. XVIII
-BO0624_83667,84933,141,II9,—— Joseph vendu par ses freres.,1688,93.1,False,positional,BOUCHER,,,,
+BO0624_83667,84933,141,II9,—— Joseph vendu par ses freres.,1688,93.1,False,none,,,,,
 BO0624_83667,84934,142,120,——Un Ange.,1708,77.8,False,positional,BOUCHER,,,,
-BO0624_83667,84935,143,121,Marine.,1715,75.0,False,positional,BOUCHER,,,,
+BO0624_83667,84935,143,121,Marine.,1715,75.0,False,none,,,,,
 BO0624_83667,84936,144,1592,1635,1725,61.5,False,positional,CALLOT,,,,Sec. XVII
 BO0624_83667,84937,145,1602,1674,1737,61.5,False,positional,CHAMPAIGNE,,,,Sec. XVII
-BO0624_83667,84938,146,122,—La Vierge et l'Enfant Jesus. 1779,1739,85.7,False,positional,CHAMPAIGNE,,,,Sec. XVIII
+BO0624_83667,84938,146,122,—La Vierge et l'Enfant Jesus. 1779,1739,85.7,False,none,,,,,Sec. XVIII
 BO0624_83667,84939,147,123,"—L'Academie de peinture,le soir. (?)-1572(2)",1758,84.5,False,positional,CHARDIN,,,,Sec. XVI
 BO0624_83667,84940,148,124,"—Portrait d’Isabelle de la Paix, femme de Philippe I, roi 1790",1776,92.3,False,positional,CLOUET DIT JANET,,,,Sec. XVIII
 BO0624_83667,84941,149,125,Portrait dhomme.,1789,88.2,False,positional,COCHIN,,,,
@@ -153,18 +153,18 @@ BO0624_83667,84943,151,127,-Portrait de Gaspard Duchange.,1813,93.3,False,positi
 BO0624_83667,84944,152,128,—Portrait de Jean-Baptiste Mace.,1826,93.8,False,positional,COCHIN,,,,
 BO0624_83667,84945,153,129,13o ——Deux Vignettes.,1838,90.0,False,positional,COCHIN,,,,
 BO0624_83667,84946,154,1501,1589,1854,61.5,False,positional,COUSIN,,,,Sec. XVI
-BO0624_83667,84947,155,131,Une Bataille.,1858,85.7,False,positional,COUSIN,,,,
-BO0624_83667,84948,156,134,-Paris et Helene.,1875,88.2,False,positional,COUSIN,,,,
+BO0624_83667,84947,155,131,Une Bataille.,1858,85.7,False,none,,,,,
+BO0624_83667,84948,156,134,-Paris et Helene.,1875,88.2,False,none,,,,,
 BO0624_83667,84949,157,1761,1835,1885,61.5,False,positional,DABOS,,,,Sec. XIX
-BO0624_83667,84950,158,132,"Portrait de Philippot, agent de lAcademie de peinture.",1887,96.3,False,positional,DABOS,,,,
+BO0624_83667,84950,158,132,"Portrait de Philippot, agent de lAcademie de peinture.",1887,96.3,False,none,,,,,
 BO0624_83667,84951,159,133,Vue du Moulin Joli.,1899,90.0,False,positional,DAUBIGNI,,,,
-BO0624_83667,84952,160,I,"l est situe dans un parc entoure de grands arbres. Au centre, une ile reliee a la rive droite par un pont de bois.",1901,99.6,False,positional,DAUBIGNI,,OGGETTI IN LEGNO,,
+BO0624_83667,84952,160,I,"l est situe dans un parc entoure de grands arbres. Au centre, une ile reliee a la rive droite par un pont de bois.",1901,99.6,False,none,,,OGGETTI IN LEGNO,,
 BO0624_83667,84953,161,1516,1583,1916,61.5,False,positional,DELAULNE,,,,Sec. XVI
-BO0624_83667,84954,162,135,Le Temple des Sciences. 1675,1918,83.0,False,positional,DELAULNE,,,,Sec. XVII
+BO0624_83667,84954,162,135,Le Temple des Sciences. 1675,1918,83.0,False,none,,,,,Sec. XVII
 BO0624_83667,84955,163,136,—Paysage. 1646,1934,60.9,False,positional,DUGHET,,,,Sec. XVII
 BO0624_83667,84956,164,137,Portrait d’une dame de qualite.,1947,93.8,False,positional,DUMONSTIER,,,,
 BO0624_83667,84957,165,38,"Portrait d Anne d’ Autriche,reine de France.",1965,96.6,False,positional,DUMONSTIER,,,,
-BO0624_83667,84958,166,141,-Le Concert.,1972,83.3,False,positional,DUMONSTIER,,,,
+BO0624_83667,84958,166,141,-Le Concert.,1972,83.3,False,none,,,,,
 BO0624_83667,84959,167,13,g -Portrait d’un jeune homme.,1984,96.4,False,positional,DUMONSTIER,,,,
 BO0624_83667,84960,168,140,— La Declaration interrompue.,1996,92.9,False,positional,DUTAILLY,,,,
 BO0624_83667,84961,169,142,—La Vigilance endormie. 1682,2009,82.4,False,positional,FRAGONARD,,,,Sec. XVII
@@ -172,20 +172,20 @@ BO0624_83667,84962,170,143,-Vue du fort Saint-Ange a Rome.,2031,93.5,False,posit
 BO0624_83667,84963,171,144,—— Paysage boise.,2042,86.7,False,positional,GELEE DIT LE LORRAIN,,,,
 BO0624_83667,84964,172,145,Trois Vaisseaux par un temps calme.,2056,94.4,False,positional,GELEE DIT LE LORRAIN,,,,
 BO0624_83667,84965,173,146,Etudes d’arbres.,2068,88.2,False,positional,GELEE DIT LE LORRAIN,,,,
-BO0624_83667,84966,174,147,— Costumes d'opera.,2073,88.9,False,positional,GELEE DIT LE LORRAIN,,,,
-BO0624_83667,84967,175,148,8—Cartouche orne de figures masquees,2077,100.0,False,positional,GELEE DIT LE LORRAIN,,,,
+BO0624_83667,84966,174,147,— Costumes d'opera.,2073,88.9,False,none,,,,,
+BO0624_83667,84967,175,148,8—Cartouche orne de figures masquees,2077,100.0,False,none,,,,,
 BO0624_83667,84968,176,149,"—Napoleon et la Famille imperiale au bal donne par la ville de Paris, en decembre 1807. 1773",2085,94.9,False,positional,GODEFROY,,,,Sec. XIX
 BO0624_83667,84969,177,150,—— Apollon et les Muses.,2099,90.9,False,positional,GRAVELOT,,,,
 BO0624_83667,84970,178,1673,1722,2111,61.5,False,positional,GILLOT,,,,Sec. XVIII
 BO0624_83667,84971,179,1725,1805,2116,61.5,False,positional,GREUZE,,,,Sec. XIX
-BO0624_83667,84972,180,151,La Visite a la fermiere. 1805,2118,83.6,False,positional,GREUZE,,,,Sec. XIX
+BO0624_83667,84972,180,151,La Visite a la fermiere. 1805,2118,83.6,False,none,,,,,Sec. XIX
 BO0624_83667,84973,181,152,Portrait de M.de La Borde.,2132,92.6,False,positional,GREUZE,,,,
-BO0624_83667,84974,182,153,Buste dhomme. 1835,2145,72.7,False,positional,GREUZE,,,,Sec. XIX
-BO0624_83667,84975,183,154,—Napoleon visitant le champ de bataille d Eylau.,2163,95.8,False,positional,GREUZE,,,,
+BO0624_83667,84974,182,153,Buste dhomme. 1835,2145,72.7,False,none,,,,,Sec. XIX
+BO0624_83667,84975,183,154,—Napoleon visitant le champ de bataille d Eylau.,2163,95.8,False,none,,,,,
 BO0624_83667,84976,184,1725,1805,2175,61.5,False,positional,GREUZE,,,,Sec. XIX
 BO0624_83667,84977,185,1675,## 155—Portrait equestre de Philippe V.,2186,100.0,False,positional,HALLE,,,,
 BO0624_83667,84978,186,1750,1817,2200,61.5,False,positional,HOIN,,,,Sec. XIX
-BO0624_83667,84979,187,156,"Le Moulin a eau. l tourne pres d'une ecluse ou bouillonne la riviere. Une lavandiere et un enfant sont sur la rive, au premier plan.",2204,93.8,False,positional,HOIN,,,,
+BO0624_83667,84979,187,156,"Le Moulin a eau. l tourne pres d'une ecluse ou bouillonne la riviere. Une lavandiere et un enfant sont sur la rive, au premier plan.",2204,93.8,False,none,,,,,
 BO0624_83667,84980,188,157,—Le Pont rustique.,2217,88.9,False,positional,HOIN,,,,
 BO0624_83667,84981,189,158,"— Vue de la Colombiere, appartenant au Prince de Conde, a Dijon.",2229,96.7,False,positional,HOIN,,,,
 BO0624_83667,84982,190,159,—Vue de lavenue de l'Arquebuse et de la Chartreuse de Dijon.,2243,96.7,False,positional,HOIN,,,,
@@ -194,10 +194,10 @@ BO0624_83667,84984,192,161,—Portrait du cardinal Duperron (?).,2264,93.5,False
 BO0624_83667,84985,193,162,Portrait du cardinal de Bourbon. Deux Mendiants.,2274,76.5,False,positional,LAGNEAU,,,,
 BO0624_83667,84986,194,163,Portrait dhomme.,2295,88.2,False,positional,LAGNEAU,,,,
 BO0624_83667,84987,195,1710,1803,2309,61.5,False,positional,LALLEMAND,,,,Sec. XIX
-BO0624_83667,84988,196,165,—Vue de lancien Chateau de Chantilly.,2311,94.6,False,positional,LALLEMAND,,,,
+BO0624_83667,84988,196,165,—Vue de lancien Chateau de Chantilly.,2311,94.6,False,none,,,,,
 BO0624_83667,84989,197,166,-Vue de Bareges.,2324,87.5,False,positional,LALLEMAND,,,,
-BO0624_83667,84990,198,167,Feuille d’'etude.,2332,88.2,False,positional,LALLEMAND,,,,
-BO0624_83667,84991,199,168,Etude pour u la Partie de plaisir .,2346,94.3,False,positional,LALLEMAND,,,,
+BO0624_83667,84990,198,167,Feuille d’'etude.,2332,88.2,False,none,,,,,
+BO0624_83667,84991,199,168,Etude pour u la Partie de plaisir .,2346,94.3,False,none,,,,,
 BO0624_83667,84992,200,171,- Etude de Gille.,2361,87.5,False,positional,LANCRET,,,,
 BO0624_83667,84993,201,16,g —Etude pour α la Belle Grecque ).,2375,96.9,False,positional,LANCRET,,,,
 BO0624_83667,84994,202,170,—Etude de Gentilhomme.,2389,90.9,False,positional,LANCRET,,,,
@@ -207,19 +207,19 @@ BO0624_83667,84997,205,174,——Bachanale d’enfants.,2426,90.5,False,position
 BO0624_83667,84998,206,10,## LANCRET,2436,100.0,False,title_direct,LANCRET,Scuola di Nicolas Lancret,,,
 BO0624_83667,84999,207,176,-Portrait de Charles Perrault de lAcademie Francaise.,2459,96.2,False,positional,LE BRUN,,,,
 BO0624_83667,85000,208,177,— Portrait de Mme de Montespan.,2471,93.3,False,positional,LE BRUN,,,,
-BO0624_83667,85001,209,178,—Etudes d’'anges. 1785,2480,75.7,False,positional,LE BRUN,,,,Sec. XVIII
+BO0624_83667,85001,209,178,—Etudes d’'anges. 1785,2480,75.7,False,none,,,,,Sec. XVIII
 BO0624_83667,85002,210,179,— Revue de la Maison du Roi au Trou d' Enfer. 1781 ——Bords de riviere. 1803,2492,72.6,False,positional,LE PAON,,,,Sec. XVIII
 BO0624_83667,85003,211,181,"-Vue de Versailles, prise des hauteurs de Satory.",2535,95.8,False,positional,LESPINASSE,,,,
 BO0624_83667,85004,212,182,"Vue de Versailles, prise de la butte de Picardie.",2547,95.9,False,positional,LESPINASSE,,,,
-BO0624_83667,85005,213,185,Saint Laurent.,2556,86.7,False,positional,LESPINASSE,,,,
-BO0624_83667,85006,214,186,"——Figure drapee, vue de dos.",2564,92.3,False,positional,LESPINASSE,,,,
+BO0624_83667,85005,213,185,Saint Laurent.,2556,86.7,False,none,,,,,
+BO0624_83667,85006,214,186,"——Figure drapee, vue de dos.",2564,92.3,False,none,,,,,
 BO0624_83667,85007,215,183,Vue du Chateau de Madrid.,2574,92.3,False,positional,LESPINASSE,,,,
 BO0624_83667,85008,216,184,Autre Vue du Chateau de Madrid.,2586,93.8,False,positional,LESPINASSE,,,,
 BO0624_83667,85009,217,1616,1655,2598,61.5,False,positional,LESUEUR,,,,Sec. XVII
 BO0624_83667,85010,218,187,"Vue de la maison de Mansard et Lebrun, a Montmorency. 1690",2605,91.9,False,positional,MARECHAL,,,,Sec. XVII
 BO0624_83667,85011,219,188,Un Camp de cavalerie.,2619,90.9,False,positional,MEULEN,,,,
 BO0624_83667,85012,220,1655,1734,2630,61.5,False,positional,MEUNIER,,,,Sec. XVIII
-BO0624_83667,85013,221,18,g —Les Grandes Eaux a Saint-Cloud.,2632,97.0,False,positional,MEUNIER,,,,
+BO0624_83667,85013,221,18,g —Les Grandes Eaux a Saint-Cloud.,2632,97.0,False,none,,,,,
 BO0624_83667,85014,222,I,"go—Vue du chateau de Saint-Cloud, prise au-dessus de la",2650,99.1,False,positional,MEUNIER,,,,
 BO0624_83667,85015,223,161,Vue de la cascade duparc de Sceaux.,2665,94.4,False,positional,MEUNIER,,,,
 BO0624_83667,85016,224,192,1 Vue du chateau de Sceaux.,2677,92.9,False,positional,MEUNIER,,,,
@@ -238,23 +238,23 @@ BO0624_83667,85028,236,204,—— Naissance de Bacchus.,2836,90.9,False,position
 BO0624_83667,85029,237,205,Apollon au Parnasse. 1619,2850,80.9,False,positional,POUSSIN,,,,Sec. XVII
 BO0624_83667,85030,238,206,— Portrait d'homme agé.,2864,90.9,False,positional,QUESNEL,,,,
 BO0624_83667,85031,239,1763,207 一 Figures de l'Exposition de l'Academie Royale a Londres en1787.,2877,100.0,False,positional,RAMBERG,,,,
-BO0624_83667,85032,240,208,—Portrait d’un marechal.,2887,91.7,False,positional,RAMBERG,,,,
-BO0624_83667,85033,241,I,"l est debout, en armure,vu a mi-jambes et tourne vers la gauche, le visage presque de face, la main droite posee sur son casque.",2889,99.6,False,positional,RAMBERG,,,,
+BO0624_83667,85032,240,208,—Portrait d’un marechal.,2887,91.7,False,none,,,,,
+BO0624_83667,85033,241,I,"l est debout, en armure,vu a mi-jambes et tourne vers la gauche, le visage presque de face, la main droite posee sur son casque.",2889,99.6,False,none,,,,,
 BO0624_83667,85034,242,20,g —L'Entree d’un palais a Rome.,2899,96.7,False,positional,ROBERT,,,,
 BO0624_83667,85035,243,1650,1700,2910,61.5,False,positional,SEVIN,Scuola Veneziana,,,Sec. XVIII
-BO0624_83667,85036,244,210,"—Monument funeraire de Gaston de Foix, duc de Nemours.",2912,96.2,False,positional,SEVIN,,,,
+BO0624_83667,85036,244,210,"—Monument funeraire de Gaston de Foix, duc de Nemours.",2912,96.2,False,none,,,,,
 BO0624_83667,85037,245,211,"—Portrait de L. M.Van Loo,pere de lartiste.",2930,95.2,False,positional,VAN LOO,,,,
 BO0624_83667,85038,246,212,1 Premiere vue de la Salle d'introduction du Musee des Monuments francais(couvent des Petits-Augustins).,2943,98.1,False,positional,VAUZELLE,,,,
-BO0624_83667,85039,247,2,° Seconde vue de la Salle d’introduction.,2947,97.4,False,positional,VAUZELLE,,,,
-BO0624_83667,85040,248,3,Vue de la Salle du XVesiecle.,2953,98.2,False,positional,VAUZELLE,,,,
-BO0624_83667,85041,249,4,Vue de la Salle du XVII siecle.,2957,98.4,False,positional,VAUZELLE,,,,Sec. XVII
+BO0624_83667,85039,247,2,° Seconde vue de la Salle d’introduction.,2947,97.4,False,none,,,,,
+BO0624_83667,85040,248,3,Vue de la Salle du XVesiecle.,2953,98.2,False,none,,,,,
+BO0624_83667,85041,249,4,Vue de la Salle du XVII siecle.,2957,98.4,False,none,,,,,Sec. XVII
 BO0624_83667,85042,250,213,"Batelier au bord de la mer. l tire son bateau sur la greve; pres de lui, une femme assise et tenant un panier. Au large, des bateaux a voile.",2972,89.3,False,positional,VERNET,,,,
-BO0624_83667,85043,251,214,"—Pecheur au bord dune riviere. l suit la rive, son filet sur l'epaule. Au dela du cours d'eau, un chateau fort sur un rocher.",2976,86.7,False,positional,VERNET,,,,
+BO0624_83667,85043,251,214,"—Pecheur au bord dune riviere. l suit la rive, son filet sur l'epaule. Au dela du cours d'eau, un chateau fort sur un rocher.",2976,86.7,False,none,,,,,
 BO0624_83667,85044,252,215,Muletiers dans un defile.,2986,92.3,False,positional,VERNET,,,,
-BO0624_83667,85045,253,I,mportante aquarelle.,2992,97.4,False,positional,VERNET,,,,
+BO0624_83667,85045,253,I,mportante aquarelle.,2992,97.4,False,none,,,,,
 BO0624_83667,85046,254,12,## WATTEAU,3001,100.0,False,title_direct,WATTEAU,Scuola Di J. A. Watteau,,,
-BO0624_83667,85047,255,1684,1721,3005,61.5,False,positional,WATTEAU,,,,Sec. XVIII
-BO0624_83667,85048,256,216,—Portrait d’Angelo Constantini dit le Mezzetin.,3007,95.7,False,positional,WATTEAU,,,,
+BO0624_83667,85047,255,1684,1721,3005,61.5,False,none,,,,,Sec. XVIII
+BO0624_83667,85048,256,216,—Portrait d’Angelo Constantini dit le Mezzetin.,3007,95.7,False,none,,,,,
 BO0624_83667,85049,257,217,— Tete de femme a cheveux releves.,3021,93.9,False,positional,WATTEAU,,,,
 BO0624_83667,85050,258,218,Tete de femme a cheveux courts.,3035,100.0,False,positional,WATTEAU,,,,
 BO0624_83667,85051,259,219,—— Trois Etudes de femmes.,3046,91.7,False,positional,WATTEAU,,,,
@@ -264,9 +264,9 @@ BO0624_83667,85054,262,222,—Tete de jeune femme.,3081,90.5,False,positional,,E
 BO0624_83667,85055,263,223,Portrait dejeune homme.,3093,91.7,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83667,85056,264,224,Buste de jeune femme.,3105,90.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83667,85057,265,225,— Costumes du XVIIe siecle.,3116,92.3,False,positional,,ECOLE FRANCAISE,,,Sec. XVII
-BO0624_83667,85058,266,I,l renferme:,3120,95.2,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83667,85059,267,42,"costumes de personnages de toutes conditions: dames allant en litiere, chevaliers du Saint-Esprit, gentilshommes et dames de la cour, membres du clerge et de I'Universite de Paris, bourgeois, bourgeoises et paysans, gentilshommes et dames nobles Hollandais et",3124,99.4,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83667,85060,268,I,"taliens; doge, dogaresse, etc.",3126,98.1,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83667,85058,266,I,l renferme:,3120,95.2,False,none,,,,,
+BO0624_83667,85059,267,42,"costumes de personnages de toutes conditions: dames allant en litiere, chevaliers du Saint-Esprit, gentilshommes et dames de la cour, membres du clerge et de I'Universite de Paris, bourgeois, bourgeoises et paysans, gentilshommes et dames nobles Hollandais et",3124,99.4,False,none,,,,,
+BO0624_83667,85060,268,I,"taliens; doge, dogaresse, etc.",3126,98.1,False,none,,,,,
 BO0624_83667,85061,269,226,—Portrait d’un jeune homme.,3134,92.6,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83667,85062,270,227,—Un Cartouche.,3149,85.7,False,positional,CORTONE,,,,
 BO0624_83667,85063,271,228,La Nativite.,3161,84.6,False,positional,"BARBIERI, DIT LE GUERCHIN",,,,
@@ -274,31 +274,31 @@ BO0624_83667,85064,272,229,—Saint Jean prechant.,3174,90.5,False,positional,"B
 BO0624_83667,85065,273,230,— Etude de paysage. 1612,3186,78.0,False,positional,"BARBIERI,DITLE GUERCHIN",,,,Sec. XVII
 BO0624_83667,85066,274,231,—Tete de saint Francois.,3202,91.7,False,positional,BAROCHE,,,,
 BO0624_83667,85067,275,232,Les Saintes Femmes aux pieds du Christ. 1642,3215,89.4,False,positional,BANDINELLI,,,,Sec. XVII
-BO0624_83667,85068,276,233,Sainte Famille.,3231,87.5,False,positional,BANDINELLI,,,,
-BO0624_83667,85069,277,234,—Portrait d’une dame florentine. 1665,3245,87.0,False,positional,BANDINELLI,Scuola Fiorentina,,,Sec. XVII
+BO0624_83667,85068,276,233,Sainte Famille.,3231,87.5,False,none,,,,,
+BO0624_83667,85069,277,234,—Portrait d’une dame florentine. 1665,3245,87.0,False,none,,Scuola Fiorentina,,,Sec. XVII
 BO0624_83667,85070,278,235,La Madeleine dans le desert.,3270,93.1,False,positional,MOLA,,,,
 BO0624_83667,85071,279,236,—Le Sejour des Bienheureux.,3282,92.6,False,positional,PALMA,,,,
 BO0624_83667,85072,280,240,## PERINO DEL VAGA,3299,100.0,False,title_direct,PERINO DEL VAGA,,,,
-BO0624_83667,85073,281,1501,I447,3303,61.5,False,positional,PERINO DEL VAGA,,,,
-BO0624_83667,85074,282,238,— Quatre etudes sur une feuille. 1778,3305,86.6,False,positional,PERINO DEL VAGA,,,,Sec. XVIII
+BO0624_83667,85073,281,1501,I447,3303,61.5,False,none,,,,,
+BO0624_83667,85074,282,238,— Quatre etudes sur une feuille. 1778,3305,86.6,False,none,,,,,Sec. XVIII
 BO0624_83667,85075,283,239,—Monuments anciens.,3321,89.5,False,positional,PIRANESI,,,,
 BO0624_83667,85076,284,1570,Etude de cariatide.,3335,100.0,False,positional,PRIMATICE,,,,
-BO0624_83667,85077,285,241,Feuille d'etude.,3344,90.9,False,positional,PRIMATICE,,,,
+BO0624_83667,85077,285,241,Feuille d'etude.,3344,90.9,False,none,,,,,
 BO0624_83667,85078,286,242,— Etude de deux eveques.,3358,91.3,False,positional,ROMAIN,,,,
-BO0624_83667,85079,287,243,— Etude d’arbre.,3364,86.7,False,positional,ROMAIN,,,,
-BO0624_83667,85080,288,1615,1673,3378,61.5,False,positional,ROMAIN,,,,Sec. XVII
+BO0624_83667,85079,287,243,— Etude d’arbre.,3364,86.7,False,none,,,,,
+BO0624_83667,85080,288,1615,1673,3378,61.5,False,none,,,,,Sec. XVII
 BO0624_83667,85081,289,1496,1551,3385,61.5,False,positional,ROSSO,,,,Sec. XVI
-BO0624_83667,85082,290,244,—— Panneau grotesque. 1530,3387,79.1,False,positional,ROSSO,,PANNELLI,,Sec. XVI
+BO0624_83667,85082,290,244,—— Panneau grotesque. 1530,3387,79.1,False,none,,,PANNELLI,,Sec. XVI
 BO0624_83667,85083,291,245,"—La Vierge, lEnfant Jesus et saint Jean. 1582",3401,89.2,False,positional,SARTE,,,,Sec. XVI
 BO0624_83667,85084,292,246,Encadrement d’un portrait de Philippe II. 1769,3415,89.9,False,positional,SCHIAVONE,,,,Sec. XVIII
 BO0624_83667,85085,293,247,—— Tete de vieillard.,3432,89.5,False,positional,TIEPOLO,,,,
 BO0624_83667,85086,294,248,—Saint Francois en adoration.,3444,93.1,False,positional,TIEPOLO,,,,
 BO0624_83667,85087,295,1727,249 ——Projet de plafond.,3460,100.0,False,positional,TIEPOLO,,,,
 BO0624_83667,85088,296,1528,1588,3473,61.5,False,positional,VERONESE,,,,Sec. XVI
-BO0624_83667,85089,297,25,o-La Benediction de Jacob.,3475,96.2,False,positional,VERONESE,,,,
+BO0624_83667,85089,297,25,o-La Benediction de Jacob.,3475,96.2,False,none,,,,,
 BO0624_83667,85090,298,1452,1519,3489,61.5,False,positional,VINCI,,,,Sec. XVI
-BO0624_83667,85091,299,254,Etude de draperie.,3510,91.9,False,positional,VINCI,,,,
-BO0624_83667,85092,300,255,--Etude de draperie. 1641,3514,79.1,False,positional,VINCI,,,,Sec. XVII
+BO0624_83667,85091,299,254,Etude de draperie.,3510,91.9,False,none,,,,,
+BO0624_83667,85092,300,255,--Etude de draperie. 1641,3514,79.1,False,none,,,,,Sec. XVII
 BO0624_83667,85093,301,256,—Le Buisson ardent. 1788,3540,79.1,False,positional,"ZAMPIERI,DIT LE DOMINIQUIN",,,,Sec. XVIII
 BO0624_83667,85094,302,257,Paysage avec figures.,3553,90.9,False,positional,ZUCCHARELLI,,,,
 BO0624_83667,85095,303,258,— Paysage montagneux. 1609,3563,80.0,False,positional,ZUCCHARELLI,,,,Sec. XVII
@@ -309,7 +309,7 @@ BO0624_83667,85099,307,262,Quatre Vues de la Villa Madame decoree des fresques d
 BO0624_83667,85100,308,263,Le Satyre amoureux. 1734,3627,80.0,False,positional,CHARLIER,,,,Sec. XVIII
 BO0624_83667,85101,309,264,"Portrait de Charles Il,roi dAngleterre.",3641,95.0,False,positional,CHATILLON,,,,
 BO0624_83667,85102,310,I,SABEY,3648,90.9,False,title_direct,ISABEY,,,,
-BO0624_83667,85103,311,1767,1855,3652,61.5,False,positional,ISABEY,,,,Sec. XIX
-BO0624_83667,85104,312,265,—Portrait du Prince Eugene.,3654,92.6,False,positional,ISABEY,,,,
-BO0624_83667,85105,313,I,MPRIME,3663,92.3,False,positional,ISABEY,,,,
-BO0624_83667,85106,314,I9,",RUE DES SAINTS-PERES,19",3669,93.9,False,positional,ISABEY,,,,
+BO0624_83667,85103,311,1767,1855,3652,61.5,False,none,,,,,Sec. XIX
+BO0624_83667,85104,312,265,—Portrait du Prince Eugene.,3654,92.6,False,none,,,,,
+BO0624_83667,85105,313,I,MPRIME,3663,92.3,False,none,,,,,
+BO0624_83667,85106,314,I9,",RUE DES SAINTS-PERES,19",3669,93.9,False,none,,,,,

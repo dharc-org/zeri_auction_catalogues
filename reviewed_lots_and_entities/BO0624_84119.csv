@@ -2,10 +2,10 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_84119,106574,1,2,一 Vaches au bord de la Meuse.,24,96.6,False,positional,,ECOLE HOLLANDAISE,,,
 BO0624_84119,106575,2,1661,1743.,43,61.5,False,positional,DESPORTES,,,,Sec. XVIII
 BO0624_84119,106576,3,1636,1695.,56,61.5,False,positional,HONDEKOETER,,,,Sec. XVII
-BO0624_84119,106577,4,I,"ls sont groupes dans un coin de parc, aupres d’un mur en",60,99.1,False,positional,HONDEKOETER,,OGGETTI VARI,,
+BO0624_84119,106577,4,I,"ls sont groupes dans un coin de parc, aupres d’un mur en",60,99.1,False,none,,,OGGETTI VARI,,
 BO0624_84119,106578,5,1941,2891,68,61.5,False,positional,LAJOUE,,,,
-BO0624_84119,106579,6,7,8,79,50.0,False,positional,LAJOUE,,,,
-BO0624_84119,106580,7,9,10,81,66.7,False,positional,LAJOUE,,,,
+BO0624_84119,106579,6,7,8,79,50.0,False,none,D'HONDECOETER MELCHIOR,,,,
+BO0624_84119,106580,7,9,10,81,66.7,False,none,,,,,
 BO0624_84119,106581,8,1636,1699.,87,61.5,False,positional,"MONNOYER,dit BAPTISTE",,,,Sec. XVII
 BO0624_84119,106582,9,1714,1789.,99,61.5,False,positional,VERNET,,,,Sec. XVIII
 BO0624_84119,106583,10,II,"I2-GARNITURE DE TROIs PIECEs :une potiche couverte et deux cornets, en ancienne porcelaine du Japon.",118,98.5,False,positional,,,PORCELAINES ANCIENNES,,

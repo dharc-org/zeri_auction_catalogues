@@ -3,9 +3,9 @@ BO0624_84138,76935,1,1,a109,17,88.9,False,positional,,,Le Lundi 10 Mars 1913,,
 BO0624_84138,76936,2,1800,1866.,30,61.5,False,positional,,,TABLEAUX,,Sec. XIX
 BO0624_84138,76937,3,3,"Portrait du sous-officier Merlet,de la Marechaussee.",51,98.1,False,positional,CARPENTIER,,,,
 BO0624_84138,76938,4,1792,1845.,69,61.5,False,positional,CHARLET (Nicolas-Toussaint),,,,Sec. XIX
-BO0624_84138,76939,5,5,"Grenadier en campagne, appuye sur son fusil.",71,97.7,False,positional,CHARLET (Nicolas-Toussaint),,,,
+BO0624_84138,76939,5,5,"Grenadier en campagne, appuye sur son fusil.",71,97.7,False,none,,,,,
 BO0624_84138,76940,6,6,Les Moines venitiens.,79,95.2,False,positional,CLAIRIN (Georges),,,,
-BO0624_84138,76941,7,10,II,88,100.0,False,positional,CLAIRIN (Georges),,,,
+BO0624_84138,76941,7,10,II,88,100.0,False,none,BRUEGEL JAN IL GIOVANE,,,,
 BO0624_84138,76942,8,1819,).,90,0.0,False,positional,COLLET (Jean-Baptiste),,,,
 BO0624_84138,76943,9,8,Buste d'un general du Premier Empire.,102,97.3,False,positional,DUPRAY (Henri),,,,
 BO0624_84138,76944,10,I,"l est represente en pied au milieu d’un paysage assis sur un tertre vetu du costume de grenadier tenant les bras croises, son casque est pose a terre; dans le fond, son ordonnance a cheval, tient son cheval par la bride.",131,99.8,False,positional,DUVAL (Le Camus),,,,
@@ -20,14 +20,14 @@ BO0624_84138,76952,18,23,Portrait de l'Empereur Napoleon Ier.,226,95.9,False,pos
 BO0624_84138,76953,19,24,la Garde Imperiale.,238,92.3,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84138,76954,20,25,一 Nationale de Louis-Philippe.,245,95.1,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84138,76955,21,26,26 —Abelard sur la montagne de Ste-Genevieve.,251,100.0,False,positional,FLAMENG (Francois),,,,
-BO0624_84138,76956,22,27,27—,259,8.3,False,positional,FLAMENG (Francois),,,,
+BO0624_84138,76956,22,27,27—,259,8.3,False,none,,,,,
 BO0624_84138,76957,23,28,Portrait de la reine Hortense.,269,95.1,False,positional,,GERARD (Ecole du Baron),,,
 BO0624_84138,76958,24,1791,1824.,276,61.5,False,positional,GERICAULT (Theodore),,,,Sec. XIX
 BO0624_84138,76959,25,1725,1806.,288,61.5,False,positional,GREUZE (Jean-Baptiste),,,,Sec. XIX
-BO0624_84138,76960,26,30,— Portrait presume de Jean-Jacques Caffieri.,290,96.5,False,positional,GREUZE (Jean-Baptiste),,,,
-BO0624_84138,76961,27,I,"l est represente presque de face en buste vers la droite, coiffe d'une perruque poudree a frimas retenue par un cadogan,le col de sa chemise entr'ouvert, vetu d'un habit brun rose.",292,99.7,False,positional,GREUZE (Jean-Baptiste),,,,
+BO0624_84138,76960,26,30,— Portrait presume de Jean-Jacques Caffieri.,290,96.5,False,none,,,,,
+BO0624_84138,76961,27,I,"l est represente presque de face en buste vers la droite, coiffe d'une perruque poudree a frimas retenue par un cadogan,le col de sa chemise entr'ouvert, vetu d'un habit brun rose.",292,99.7,False,none,LE BRUN CHARLES,,,,
 BO0624_84138,76962,28,1771,1835.,300,61.5,False,positional,GROS (le Baron),,,,Sec. XIX
-BO0624_84138,76963,29,31,"Portrait d'un lieutenant-colonel de chasseurs a cheval,du Premier Empire, en tenue du matin. 1835",302,95.7,False,positional,GROS (le Baron),,,,Sec. XIX
+BO0624_84138,76963,29,31,"Portrait d'un lieutenant-colonel de chasseurs a cheval,du Premier Empire, en tenue du matin. 1835",302,95.7,False,none,,,,,Sec. XIX
 BO0624_84138,76964,30,32,—La bataille d'Aboukir.,311,93.3,False,positional,GROS (le Baron),,,,
 BO0624_84138,76965,31,33,Le port de Villefranche.,319,93.9,False,positional,GROS (Lucien),,,,
 BO0624_84138,76966,32,34,Au bord du golfe Juan (cap d'Antibes).,325,95.9,False,positional,GROS (Lucien),,,,
@@ -36,11 +36,11 @@ BO0624_84138,76968,34,38,—Portrait d'un officier d'infanterie du regiment du R
 BO0624_84138,76969,35,39,cheval.,374,80.0,False,positional,,LEFEVRE (Ecole de Robert),,,
 BO0624_84138,76970,36,40,— Portrait de Nicolas Lemoyne de Bellisle.,379,96.3,False,positional,LEMOINE,LENAIN (Ecole des freres),,,
 BO0624_84138,76971,37,41,42,391,100.0,False,positional,LEPIC (le Baron),,,,
-BO0624_84138,76972,38,1,Bateaux de peche sur la greve.,393,96.7,False,positional,LEPIC (le Baron),,,,
+BO0624_84138,76972,38,1,Bateaux de peche sur la greve.,393,96.7,False,none,,,,,
 BO0624_84138,76973,39,43,tillerie. 1860.,411,66.7,False,positional,LOUSTAU (J.-J.-L.),,,,Sec. XIX
 BO0624_84138,76974,40,44,Combat contre les Cosaques.,422,94.5,False,positional,MARIN (Louis-Stanislas),,,,
 BO0624_84138,76975,41,1818,1881.,436,61.5,False,positional,MASSE(E.-A.),,,,Sec. XIX
-BO0624_84138,76976,42,46,"Sous-lieutenant du 4 regiment de hussards, ,en petite tenue.",438,81.2,False,positional,MASSE(E.-A.),,,,
+BO0624_84138,76976,42,46,"Sous-lieutenant du 4 regiment de hussards, ,en petite tenue.",438,81.2,False,none,,,,,
 BO0624_84138,76977,43,47,Paysage pris aux Petites Dalles.,446,95.4,False,positional,MATHEY (Paul),,,,
 BO0624_84138,76978,44,1784,:844.,453,54.5,False,positional,MAUZAISSE (Attribue a J.-B.),,,,
 BO0624_84138,76979,45,49,Deux avant-trains de chevaux au galop.,465,96.1,False,positional,MEISSONIER (Ernest),,,,
@@ -50,10 +50,10 @@ BO0624_84138,76982,48,52,— Housse de selle de velours bleu brode d'or.,494,96.
 BO0624_84138,76983,49,3,Portrait d’un artilleur.,502,95.8,False,positional,MULLER(E.-R.),,,,
 BO0624_84138,76984,50,54,- 55,529,100.0,False,positional,NEUVILLE (A. de),,,,
 BO0624_84138,76985,51,57,## NOUVIAIRE (Francois),532,100.0,False,title_direct,NOUVIAIRE (Francois),,,,
-BO0624_84138,76986,52,1805,1838.,534,61.5,False,positional,NOUVIAIRE (Francois),,,,Sec. XIX
-BO0624_84138,76987,53,56,Portrait du colonel marquis de Dreux-Nancre.,536,96.6,False,positional,NOUVIAIRE (Francois),,,,
+BO0624_84138,76986,52,1805,1838.,534,61.5,False,none,,,,,Sec. XIX
+BO0624_84138,76987,53,56,Portrait du colonel marquis de Dreux-Nancre.,536,96.6,False,none,,,,,
 BO0624_84138,76988,54,1815,1875.,562,61.5,False,positional,PERIER,,,,Sec. XIX
-BO0624_84138,76989,55,58,—Tete de cheval blanc harnachee.,564,95.2,False,positional,PERIER,,,,
+BO0624_84138,76989,55,58,—Tete de cheval blanc harnachee.,564,95.2,False,none,,,,,
 BO0624_84138,76990,56,1815,1875.,569,61.5,False,positional,PILS (J.-A.-Augustin),,,,Sec. XIX
 BO0624_84138,76991,57,6,o—Apres la bataille.,579,97.4,False,positional,PROTAIS (P.-Alexandre),,,,
 BO0624_84138,76992,58,61,"Etude de cheval. l est represente de profil a droite. Au verso une étiquette avec libelle:Achete par moi a la vente Raffet, le 14 janvier 84,et offert a mon ami Detaille.Auguste",591,94.9,False,positional,RAFFET(D.-A.-M.),,,,
@@ -68,23 +68,23 @@ BO0624_84138,77000,66,70,—— Le Depart des maries (Espagne).,676,94.9,False,p
 BO0624_84138,77001,67,1731,1798.,686,61.5,False,positional,WATTEAU DE LILLE (Louis),,,,Sec. XVIII
 BO0624_84138,77002,68,2,La Serenade.,696,91.7,False,positional,WORMS (Jules),,,,
 BO0624_84138,77003,69,73,一,709,40.0,False,positional,ANDRIEU (Jean-Pierre),,,,
-BO0624_84138,77004,70,74,"—Portrait d'homme, epoque Directoire. Miniature.",717,96.7,False,positional,ANDRIEU (Jean-Pierre),,MINIATURE,,
+BO0624_84138,77004,70,74,"—Portrait d'homme, epoque Directoire. Miniature.",717,96.7,False,none,,,MINIATURE,,
 BO0624_84138,77005,71,I,SABEY (Jean-Baptiste)?,719,97.4,False,title_direct,GREUZE (Jean-Baptiste),,,,
-BO0624_84138,77006,72,1767,1855.,721,61.5,False,positional,ANDRIEU (Jean-Pierre),,,,Sec. XIX
-BO0624_84138,77007,73,75,5—Officier de la Vieille Garde.,723,95.2,False,positional,ANDRIEU (Jean-Pierre),,,,
+BO0624_84138,77006,72,1767,1855.,721,61.5,False,none,,,,,Sec. XIX
+BO0624_84138,77007,73,75,5—Officier de la Vieille Garde.,723,95.2,False,none,,,,,
 BO0624_84138,77008,74,76,"Officier du ier hussards, epoque du Directoire.",728,96.8,False,positional,MANIOR,,,,
 BO0624_84138,77009,75,78,8—Portrait d'homme.,744,92.3,False,positional,NOIRETERRE (Mademoiselle de),,,,
-BO0624_84138,77010,76,1749,1791,750,61.5,False,positional,NOIRETERRE (Mademoiselle de),,,,Sec. XVIII
+BO0624_84138,77010,76,1749,1791,750,61.5,False,none,,,,,Sec. XVIII
 BO0624_84138,77011,77,80,"Portrait du colonel Carlo Doyle, gouverneur de ## ECOLE ALLEMANDE",760,82.6,False,title_direct,,ECOLE ALLEMANDE,,,
 BO0624_84138,77012,78,81,"Officier d'infanterie autrichienne,Premier",769,97.7,False,positional,,ECOLE ALLEMANDE,,,
 BO0624_84138,77013,79,82,"Officier de hussards autrichiens, 1830. Miniature.",777,96.9,False,positional,,ECOLE ALLEMANDE,MINIATURE,,Sec. XIX
-BO0624_84138,77014,80,83,Ecuyer militaire.,781,91.4,False,positional,,ECOLE ALLEMANDE,,,
+BO0624_84138,77014,80,83,Ecuyer militaire.,781,91.4,False,none,,,,,
 BO0624_84138,77015,81,84,"— Officier d'infanterie legere, epoque du Consulat.",787,96.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84138,77016,82,85,Officier de la Garde Constitutionnelle de,793,96.5,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84138,77017,83,86,Oficier presume de la gendarmerie de la Garde des Consuls.,798,97.4,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84138,77018,84,87,"Sapeur du 6g d’infanterie de ligne,1840-1848.",804,96.7,False,positional,,ECOLE FRANCAISE,,,Sec. XIX
 BO0624_84138,77019,85,88,"一 Officier d'infanterie e autrichienne,epoque du Premier Empire.",810,97.7,False,positional,,ECOLE FRANCAISE,,,
-BO0624_84138,77020,86,89,Miniature.,812,100.0,False,positional,,ECOLE FRANCAISE,MINIATURE,,
+BO0624_84138,77020,86,89,Miniature.,812,100.0,False,none,,,MINIATURE,,
 BO0624_84138,77021,87,94,## ECOLE FRANCAISE,814,100.0,False,title_direct,,ECOLE FRANCAISE,,,
 BO0624_84138,77022,88,91,"Le colonel Chanet,des dragons de la Garde Imperiale, mort a la Moskowa en 1814.",827,98.1,False,positional,,ECOLE FRANCAISE,,,Sec. XIX
 BO0624_84138,77023,89,92,"Capitaine d'infanterie de ligne,183o. Miniature.",835,100.0,False,positional,,ECOLE FRANCAISE,MINIATURE,,
@@ -95,12 +95,12 @@ BO0624_84138,77027,93,100,Fusillier de 1853.,884,89.5,False,positional,,ECOLE FR
 BO0624_84138,77028,94,I01,## ECOLE FRANCAISE,889,100.0,False,title_direct,,ECOLE FRANCAISE,,,
 BO0624_84138,77029,95,102,一 Miniature.,897,84.6,False,positional,,ECOLE FRANCAISE,MINIATURE,,
 BO0624_84138,77030,96,103,"一 Officier de place,epoque de la Restauration. Miniature.",901,96.5,False,positional,,ECOLE FRANCAISE,MINIATURE,,
-BO0624_84138,77031,97,104,"—Portrait d'un magistrat. Cuivre, forme ovale.",905,95.5,False,positional,,ECOLE FRANCAISE,,,
+BO0624_84138,77031,97,104,"—Portrait d'un magistrat. Cuivre, forme ovale.",905,95.5,False,none,,,,,
 BO0624_84138,77032,98,105,—Portrait d'un colonel de cuirassiers. Physionotrace.,908,96.2,False,positional,CHRETIEN; FOUQUET,,,,
-BO0624_84138,77033,99,106,-General de la Revolution. Physionotrace.,909,95.0,False,positional,CHRETIEN; FOUQUET,,,,
-BO0624_84138,77034,100,107,General de la Revolution. Physionotrace.,910,95.0,False,positional,CHRETIEN; FOUQUET,,,,
-BO0624_84138,77035,101,108,"—Portrait de Monsieur Gelhay, caissier des invalides de la Marine, 178g. Physionotrace.",911,97.6,False,positional,CHRETIEN; FOUQUET,,,,
-BO0624_84138,77036,102,109,一 Officier de paye du service d'honneur. Physionotrace.,912,96.4,False,positional,CHRETIEN; FOUQUET,,OGGETTI VARI,,
+BO0624_84138,77033,99,106,-General de la Revolution. Physionotrace.,909,95.0,False,none,,,,,
+BO0624_84138,77034,100,107,General de la Revolution. Physionotrace.,910,95.0,False,none,,,,,
+BO0624_84138,77035,101,108,"—Portrait de Monsieur Gelhay, caissier des invalides de la Marine, 178g. Physionotrace.",911,97.6,False,none,,,,,
+BO0624_84138,77036,102,109,一 Officier de paye du service d'honneur. Physionotrace.,912,96.4,False,none,,,OGGETTI VARI,,
 BO0624_84138,77037,103,11,"o — Deux Tasses porcelaine bleu de roi, decor, dans le gout de Sevres, a écusson imperial et semis d'abeilles sur fond d'or.",925,99.2,False,positional,,,BISCUITS,,
 BO0624_84138,77038,104,III,一 ancienne porcelaine blanche de Paris a rehauts d'or.,927,96.4,False,positional,,,BISCUITS,,
 BO0624_84138,77039,105,112,"—PeTITE EcRIToIRE forme bateau,en porcelaine anglaise; decor a palmes et motifs polychromes. Empire.",928,98.0,False,positional,,,BISCUITS,,
@@ -204,7 +204,7 @@ BO0624_84138,77136,202,209,"— QuATRE cHAIsEs a haut dossier en noyer mouluré,
 BO0624_84138,77137,203,210,"-FauTEuIL en noyer sculpte,accotoirs a tetes de",1095,95.8,False,positional,,,SCOMPARTI,,
 BO0624_84138,77138,204,211,"— FauTEuIL en noyer sculpte, a accotoirs offrant des statuettes de femmes, couvert en velours vert clouté, pieds tournes. En partie du xvir siecle.",1097,98.6,False,positional,,,SCOMPARTI,,
 BO0624_84138,77139,205,212,"-FAuTEuIL en noyer sculpte,a accotoirs offrant des tetes de beliers, garni de velours applique et soutache.",1098,98.1,False,positional,,,SCOMPARTI,,
-BO0624_84138,77140,206,213,"-GRAND FAUTEuIL en bois tourne, garni de cuir et cloute; le dossier grave au fer et portant l'inscription : Hear Steeven Cornelis Janssens de Hinse.xvil siecle.",1099,98.7,False,positional,,,OGGETTI IN LEGNO,,
+BO0624_84138,77140,206,213,"-GRAND FAUTEuIL en bois tourne, garni de cuir et cloute; le dossier grave au fer et portant l'inscription : Hear Steeven Cornelis Janssens de Hinse.xvil siecle.",1099,98.7,False,positional,VAN CEULEN CORNELIS JANSSENS,,OGGETTI IN LEGNO,,
 BO0624_84138,77141,207,214,"— CHAisE portugaise, a haut dossier, garnie de cuir et cloutee de cuivre. xvie siecle.",1100,97.6,False,positional,,,MEUBLES; SIEGES,,
 BO0624_84138,77142,208,215,"—VrrrInE en acajou,ornee de bronze dore,motifs a cariatides de femmes, pampres, palmes, couronnes et mascarons; fond de glace. Elle repose sur une console en acajou a fond de glace, supportee par des pieds figurant des sphynx ailes. Dessus de marbre rouge griotte.",1101,99.2,False,positional,,,ACQUEFORTI,,
 BO0624_84138,77143,209,216,"— PeTIT BuREAu en palissandre,avec coffre en retrait s'ouvrant a deux vantaux, surmontes d'une glace a double encadrement avec entre-deux au chiffre E. D. entrelace;il est decore d'applications en bronze; Style",1103,99.0,False,positional,,,BAULI,,

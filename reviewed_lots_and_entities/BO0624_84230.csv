@@ -4,12 +4,12 @@ BO0624_84230,547219,2,1767,"Londres,1797",210,82.8,False,positional,DAVID,,,,Sec
 BO0624_84230,547220,3,55,Le joueur de clochettes 56 -Le joueur de triangle,653,97.0,False,positional,PERRONNEAU,,,,
 BO0624_84230,547221,4,I,"l est assis, en habit rouge, le visage tourne vers la droite, le coude appuye sur une table supportant une aiguiere et tient un livre ouvert sur ses genoux.A gauche,une baie laisse apercevoir la perspective d'un paysage.",695,99.8,False,positional,REYNOLDS,,,,
 BO0624_84230,547222,5,I,"l se silhouette sous un ciel clair, parmi des ruines, sur un fond d'eminences verdoyantes. Des plantes sauvages retombent le long de ses fancs, ou des nymphes dansantes enroulent leur",749,99.7,False,positional,ROBERT,,,,
-BO0624_84230,547223,6,1723,1769,751,5.7,False,positional,ROBERT,,,,Sec. XVIII
-BO0624_84230,547224,7,72,Nymphe endormie 1845,753,44.4,False,positional,ROBERT,,,,Sec. XIX
+BO0624_84230,547223,6,1723,1769,751,5.7,False,none,,,,,Sec. XVIII
+BO0624_84230,547224,7,72,Nymphe endormie 1845,753,44.4,False,none,,,,,Sec. XIX
 BO0624_84230,547225,8,73,-Le feu aux poudres,758,43.9,False,positional,ROBERT,,,,
 BO0624_84230,547226,9,I,mportante composition.,795,43.9,False,positional,SCHALL,,,,
 BO0624_84230,547227,10,1703,1770,813,29.6,False,positional,TIEPOLO,,,,Sec. XVIII
-BO0624_84230,547228,11,75,75-Boree,815,29.4,False,positional,TIEPOLO,,,,
+BO0624_84230,547228,11,75,75-Boree,815,29.4,False,none,,,,,
 BO0624_84230,547229,12,76,## 76-Pecheur,827,54.5,False,positional,VERNET,,,,
 BO0624_84230,547230,13,77,Paysage,836,34.8,False,positional,,,GOUACHES; PASTELS,,
 BO0624_84230,547231,14,78,79 -Jeux d'enfants,838,35.0,False,positional,,,GOUACHES; PASTELS,,
@@ -17,104 +17,104 @@ BO0624_84230,547232,15,1697,1768,850,61.5,False,positional,,,GOUACHES; PASTELS,,
 BO0624_84230,547233,16,80,81-Vues d'Italie,858,43.2,False,positional,,,GOUACHES; PASTELS,,
 BO0624_84230,547234,17,1730,1805,865,30.8,False,positional,BOUCHER,,,,Sec. XIX
 BO0624_84230,547235,18,82,-Interieur d'etable,928,92.3,False,positional,CANALETTO,,ARREDAMENTI,,
-BO0624_84230,547236,19,I,mportant dessin au lavis de sepia rehausse de blanc.,930,99.0,False,positional,CANALETTO,,,,
-BO0624_84230,547237,20,1738,1814,938,61.5,False,positional,CANALETTO,,,,Sec. XIX
-BO0624_84230,547238,21,83,-Decor d'imposte,940,90.9,False,positional,CANALETTO,,,,
+BO0624_84230,547236,19,I,mportant dessin au lavis de sepia rehausse de blanc.,930,99.0,False,none,,,,,
+BO0624_84230,547237,20,1738,1814,938,61.5,False,none,,,,,Sec. XIX
+BO0624_84230,547238,21,83,-Decor d'imposte,940,90.9,False,none,,,,,
 BO0624_84230,547239,22,84,- Groupe mythologique sur un char,951,95.4,False,positional,CLODION,,,,
 BO0624_84230,547240,23,85,86 - Groupes d'enfants,962,93.0,False,positional,CLODION,,OGGETTI VARI,,
-BO0624_84230,547241,24,87,- Groupe de deux petits faunes 1837,974,87.5,False,positional,CLODION,,,,Sec. XIX
+BO0624_84230,547241,24,87,- Groupe de deux petits faunes 1837,974,87.5,False,none,,,,,Sec. XIX
 BO0624_84230,547242,25,88,"Paysage, bord de riviere",987,93.9,False,positional,CONSTABLE,,,,
-BO0624_84230,547243,26,89,Paysage,995,82.4,False,positional,CONSTABLE,,,,
+BO0624_84230,547243,26,89,Paysage,995,82.4,False,none,,,,,
 BO0624_84230,547244,27,1740,1821,1002,61.5,False,positional,COSWAY,,,,Sec. XIX
 BO0624_84230,547245,28,1734,1789,1022,61.5,False,positional,DELAFOSSE,,,,Sec. XVIII
-BO0624_84230,547246,29,92,Deux vases,1024,87.0,False,positional,DELAFOSSE,,VASI,,
+BO0624_84230,547246,29,92,Deux vases,1024,87.0,False,none,,,VASI,,
 BO0624_84230,547247,30,93,Moutardier,1033,87.0,False,positional,DELAFOSSE,,,,
 BO0624_84230,547248,31,94,Armee en marche,1049,90.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84230,547249,32,95,-L'adoration des bergers,1062,93.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84230,547250,33,96,- Portrait d'homme en cuirasse,1072,94.9,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84230,547251,34,97,-Vase et figures 1806,1085,78.9,False,positional,,ECOLE FRANCAISE,VASI,,Sec. XIX
-BO0624_84230,547252,35,98,- Parc d'une villa italienne,1097,94.5,False,positional,,ECOLE FRANCAISE,,,
+BO0624_84230,547252,35,98,- Parc d'une villa italienne,1097,94.5,False,none,,,,,
 BO0624_84230,547253,36,99,Portrait d’un magistrat,1104,93.9,False,positional,FRAGONARD,,,,
-BO0624_84230,547254,37,100,Paysage x haies d'arbres au devant,1114,94.4,False,positional,FRAGONARD,,,,
-BO0624_84230,547255,38,101,- Jardin d'Italie 1778,1126,76.9,False,positional,FRAGONARD,,,,Sec. XVIII
+BO0624_84230,547254,37,100,Paysage x haies d'arbres au devant,1114,94.4,False,none,,,,,
+BO0624_84230,547255,38,101,- Jardin d'Italie 1778,1126,76.9,False,none,DU JARDIN KAREL,,,,Sec. XVIII
 BO0624_84230,547256,39,102,Couple galant,1137,86.7,False,positional,GAINSBOROUGH,,,,
 BO0624_84230,547257,40,103,- Portrait d’une jeune femme 1806,1149,85.2,False,positional,GARDNER,,,,Sec. XIX
-BO0624_84230,547258,41,104,-Tete d'enfant.Etude,1151,51.4,False,positional,GARDNER,,,,
+BO0624_84230,547258,41,104,-Tete d'enfant.Etude,1151,51.4,False,none,,,,,
 BO0624_84230,547259,42,106,-Les deux soeurs,1170,51.6,False,positional,GREUZE,,,,
-BO0624_84230,547260,43,107,La Vestale 1835,1172,34.3,False,positional,GREUZE,,,,Sec. XIX
-BO0624_84230,547261,44,108,-Portrait de femme,1192,33.3,False,positional,GREUZE,,,,
-BO0624_84230,547262,45,109,-Portrait de jeune femme 1793,1201,69.4,False,positional,GREUZE,,,,Sec. XVIII
-BO0624_84230,547263,46,110,-Vestibule de palais Arcade en partie fermee par un rideau,1203,49.3,False,positional,GREUZE,,,,
-BO0624_84230,547264,47,11,l-l12 - Vues des environs de Venise,1209,40.0,False,positional,GREUZE,,,,
-BO0624_84230,547265,48,113,- Paysage anime de personnages et cavaliers,1219,40.5,False,positional,GREUZE,,,,
+BO0624_84230,547260,43,107,La Vestale 1835,1172,34.3,False,none,,,,,Sec. XIX
+BO0624_84230,547261,44,108,-Portrait de femme,1192,33.3,False,none,,,,,
+BO0624_84230,547262,45,109,-Portrait de jeune femme 1793,1201,69.4,False,none,,,,,Sec. XVIII
+BO0624_84230,547263,46,110,-Vestibule de palais Arcade en partie fermee par un rideau,1203,49.3,False,none,,,,,
+BO0624_84230,547264,47,11,l-l12 - Vues des environs de Venise,1209,40.0,False,none,,,,,
+BO0624_84230,547265,48,113,- Paysage anime de personnages et cavaliers,1219,40.5,False,none,,,,,
 BO0624_84230,547266,49,114,-Le rendez-vous d'amour mportant dessin de l'artiste non mentionne par le baron Portalis.,1224,45.9,False,positional,GUARDI,,,,
-BO0624_84230,547267,50,115,- Jeune femme assise dans un parc,1236,46.4,False,positional,GUARDI,,,,
-BO0624_84230,547268,51,116,- Portrait de Mademoiselle Dugazon dans le Role de Nina ou La Folle par Amour,1253,50.0,False,positional,GUARDI,,,,
-BO0624_84230,547269,52,117,-La cage ouverte,1255,40.0,False,positional,GUARDI,,,,
+BO0624_84230,547267,50,115,- Jeune femme assise dans un parc,1236,46.4,False,none,,,,,
+BO0624_84230,547268,51,116,- Portrait de Mademoiselle Dugazon dans le Role de Nina ou La Folle par Amour,1253,50.0,False,none,,,,,
+BO0624_84230,547269,52,117,-La cage ouverte,1255,40.0,False,none,,,,,
 BO0624_84230,547270,53,118,- Berger et bregere,1262,40.0,False,positional,HOPPNER,,,,
-BO0624_84230,547271,54,119,- Portrait d'homme,1270,48.6,False,positional,HOPPNER,,,,
-BO0624_84230,547272,55,1769,1830,1282,20.7,False,positional,HOPPNER,Scuola Viennese,,,Sec. XIX
+BO0624_84230,547271,54,119,- Portrait d'homme,1270,48.6,False,none,,,,,
+BO0624_84230,547272,55,1769,1830,1282,20.7,False,none,,Scuola Viennese,,,Sec. XIX
 BO0624_84230,547273,56,122,"123 -Vue d'Ermenonville.-Vue de 1'lle des Lanternes a Neuilly, dans le Jardin de saint James plante par Belanger.",1299,44.6,False,positional,LATOUR,,,,
-BO0624_84230,547274,57,126,127 - La chasse aux canards- La chasse au faucon,1301,37.5,False,positional,LATOUR,,,,
+BO0624_84230,547274,57,126,127 - La chasse aux canards- La chasse au faucon,1301,37.5,False,none,,,,,
 BO0624_84230,547275,58,128,Bergers et animaux,1302,37.8,False,positional,LAWRENCE,,,,
-BO0624_84230,547276,59,129,Paysage,1320,30.8,False,positional,LAWRENCE,,,,
-BO0624_84230,547277,60,130,"-Portrait de Louise Aimee de Typhene de Courcelles, agee de 20 ans",1326,45.9,False,positional,LAWRENCE,,,,
+BO0624_84230,547276,59,129,Paysage,1320,30.8,False,none,,,,,
+BO0624_84230,547277,60,130,"-Portrait de Louise Aimee de Typhene de Courcelles, agee de 20 ans",1326,45.9,False,none,,,,,
 BO0624_84230,547278,61,131,Arabesque,1328,42.4,False,positional,MARECHAL,,,,
 BO0624_84230,547279,62,132,Escalier de palais,1345,52.4,False,positional,MARECHAL,,,,
-BO0624_84230,547280,63,1731,1746,1349,15.8,False,positional,MARECHAL,,,,Sec. XVIII
-BO0624_84230,547281,64,1683,1754,1357,23.5,False,positional,MARECHAL,,,,Sec. XVIII
-BO0624_84230,547282,65,135,- Groupe de deux personnages 1823,1361,45.5,False,positional,MARECHAL,,,,Sec. XIX
-BO0624_84230,547283,66,136,-Une Source,1367,52.2,False,positional,MARECHAL,,,,
+BO0624_84230,547280,63,1731,1746,1349,15.8,False,none,,,,,Sec. XVIII
+BO0624_84230,547281,64,1683,1754,1357,23.5,False,none,,,,,Sec. XVIII
+BO0624_84230,547282,65,135,- Groupe de deux personnages 1823,1361,45.5,False,none,,,,,Sec. XIX
+BO0624_84230,547283,66,136,-Une Source,1367,52.2,False,none,,,,,
 BO0624_84230,547284,67,1733,1808,1370,15.4,False,positional,MOREAU L'AINE,,,,Sec. XIX
-BO0624_84230,547285,68,139,Le Troupeau,1378,31.6,False,positional,MOREAU L'AINE,,,,
-BO0624_84230,547286,69,140,La Cascade,1380,47.6,False,positional,MOREAU L'AINE,,,,
-BO0624_84230,547287,70,141,"-Les Bohemiens dans le temple de Vesta,a Tivoli",1390,40.0,False,positional,MOREAU L'AINE,,,,
-BO0624_84230,547288,71,142,La Statue,1395,36.4,False,positional,MOREAU L'AINE,,,,
+BO0624_84230,547285,68,139,Le Troupeau,1378,31.6,False,none,,,,,
+BO0624_84230,547286,69,140,La Cascade,1380,47.6,False,none,,,,,
+BO0624_84230,547287,70,141,"-Les Bohemiens dans le temple de Vesta,a Tivoli",1390,40.0,False,none,,,,,
+BO0624_84230,547288,71,142,La Statue,1395,36.4,False,none,,,,,
 BO0624_84230,547289,72,143,-Villa italienne,1403,32.6,False,positional,PERNET,,,,
-BO0624_84230,547290,73,144,L'escalier 1802,1405,54.1,False,positional,PERNET,,,,Sec. XIX
+BO0624_84230,547290,73,144,L'escalier 1802,1405,54.1,False,none,,,,,Sec. XIX
 BO0624_84230,547291,74,145,-Portrait de Sophia Brierley 1807,1414,42.9,False,positional,PERRONNEAU,,,,Sec. XIX
 BO0624_84230,547292,75,146,-Jeune Femme 1780,1431,51.2,False,positional,PETERS,,,,Sec. XVIII
 BO0624_84230,547293,76,147,147 -L'incendie a la fete des Loges,1447,44.7,False,positional,PIAZETTA,,,,
 BO0624_84230,547294,77,148,148-Le menuet,1472,60.0,False,positional,PRUD'HON,,,,
-BO0624_84230,547295,78,149,## 149-Portraits divers,1478,36.4,False,positional,PRUD'HON,,,,
-BO0624_84230,547296,79,150,- Triomphe de Bacchus,1482,41.2,False,positional,PRUD'HON,,,,
-BO0624_84230,547297,80,151,Bacchanales ？,1490,40.0,False,positional,PRUD'HON,,,,
-BO0624_84230,547298,81,152,Un moine assis,1492,35.3,False,positional,PRUD'HON,,,,
+BO0624_84230,547295,78,149,## 149-Portraits divers,1478,36.4,False,none,,,,,
+BO0624_84230,547296,79,150,- Triomphe de Bacchus,1482,41.2,False,none,,,,,
+BO0624_84230,547297,80,151,Bacchanales ？,1490,40.0,False,none,,,,,
+BO0624_84230,547298,81,152,Un moine assis,1492,35.3,False,none,,,,,
 BO0624_84230,547299,82,153,- Medaillon cantonne de deux amours,1509,47.6,False,positional,ROBERT,,,,
 BO0624_84230,547300,83,154,-Centaure et faunesse,1543,45.0,False,positional,ROMNEY,,,,
-BO0624_84230,547301,84,1705,1765,1549,46.2,False,positional,ROMNEY,,,,Sec. XVIII
-BO0624_84230,547302,85,1740,1824,1561,46.2,False,positional,ROMNEY,,,,Sec. XIX
+BO0624_84230,547301,84,1705,1765,1549,46.2,False,none,,,,,Sec. XVIII
+BO0624_84230,547302,85,1740,1824,1561,46.2,False,none,,,,,Sec. XIX
 BO0624_84230,547303,86,156,Portrait d'une jeune femme 1686,1579,43.1,False,positional,SAINT-AUBIN,,,,Sec. XVII
 BO0624_84230,547304,87,157,Vierge adorant l'enfant Jesus,1600,39.2,False,positional,TIEPOLO,,,,
-BO0624_84230,547305,88,158,Tete d'homme inconnu,1610,47.6,False,positional,TIEPOLO,,,,
-BO0624_84230,547306,89,159,-Petit buste de Turenne 1814,1614,34.4,False,positional,TIEPOLO,,,,Sec. XIX
-BO0624_84230,547307,90,160,Neptune,1622,38.7,False,positional,TIEPOLO,,,,
+BO0624_84230,547305,88,158,Tete d'homme inconnu,1610,47.6,False,none,,,,,
+BO0624_84230,547306,89,159,-Petit buste de Turenne 1814,1614,34.4,False,none,,,,,Sec. XIX
+BO0624_84230,547307,90,160,Neptune,1622,38.7,False,none,,,,,
 BO0624_84230,547308,91,1594,1643,1629,30.8,False,positional,VAN LOO,,,,Sec. XVII
-BO0624_84230,547309,92,16,l -Enfant nu couche dormant,1635,37.7,False,positional,VAN LOO,,,,
+BO0624_84230,547309,92,16,l -Enfant nu couche dormant,1635,37.7,False,none,,,,,
 BO0624_84230,547310,93,162,Enfants tritons et dauphin,1637,43.9,False,positional,VESTIER,,,,
-BO0624_84230,547311,94,163,"Buste de P.F. Darmagnac, age de 10 ans",1645,41.3,False,positional,VESTIER,,,,
-BO0624_84230,547312,95,164,Laocoon 1791,1647,18.2,False,positional,VESTIER,,,,Sec. XVIII
+BO0624_84230,547311,94,163,"Buste de P.F. Darmagnac, age de 10 ans",1645,41.3,False,none,,,,,
+BO0624_84230,547312,95,164,Laocoon 1791,1647,18.2,False,none,,,,,Sec. XVIII
 BO0624_84230,547313,96,165,Le baiser de l'amour,1648,40.9,False,positional,,,MARBRE; TERRECUITE; PLATRE,,
 BO0624_84230,547314,97,166,-Faune et nymphe,1652,48.3,False,positional,ANGUIER,,,,
-BO0624_84230,547315,98,1750,1835,1654,30.8,False,positional,ANGUIER,,,,Sec. XIX
+BO0624_84230,547315,98,1750,1835,1654,30.8,False,none,,,,,Sec. XIX
 BO0624_84230,547316,99,1741,1828,1681,46.2,False,positional,CLODION,,,,Sec. XIX
 BO0624_84230,547317,100,1704,1778,1730,46.2,False,positional,,ECOLE FRANCAISE,,,Sec. XVIII
-BO0624_84230,547318,101,170,-La crainte des traits de l'amour,1732,60.7,False,positional,,ECOLE FRANCAISE,,,
-BO0624_84230,547319,102,171,L'Aurore 1810,1736,40.0,False,positional,,ECOLE FRANCAISE,,,Sec. XIX
+BO0624_84230,547318,101,170,-La crainte des traits de l'amour,1732,60.7,False,none,,,,,
+BO0624_84230,547319,102,171,L'Aurore 1810,1736,40.0,False,none,,,,,Sec. XIX
 BO0624_84230,547320,103,172,Buste de Mirabeau 1834,1763,51.3,False,positional,HOUDON,,,,Sec. XIX
 BO0624_84230,547321,104,173,-Buste de jeune femme inconnue 1809,1778,46.2,False,positional,LEMOYNE,,,,Sec. XIX
-BO0624_84230,547322,105,174,-Buste presume du comte de Provence 1838,1788,44.7,False,positional,LEMOYNE,,,,Sec. XIX
+BO0624_84230,547322,105,174,-Buste presume du comte de Provence 1838,1788,44.7,False,none,,,,,Sec. XIX
 BO0624_84230,547323,106,175,Cassolette a trepied,1812,44.4,False,positional,LUCAS-MONTIGNY,,,,
-BO0624_84230,547324,107,1714,1785,1814,46.2,False,positional,LUCAS-MONTIGNY,,,,Sec. XVIII
-BO0624_84230,547325,108,177,-Une source 1816,1820,33.3,False,positional,LUCAS-MONTIGNY,,,,Sec. XIX
-BO0624_84230,547326,109,178,Caton,1828,35.3,False,positional,LUCAS-MONTIGNY,,,,
+BO0624_84230,547324,107,1714,1785,1814,46.2,False,none,,,,,Sec. XVIII
+BO0624_84230,547325,108,177,-Une source 1816,1820,33.3,False,none,,,,,Sec. XIX
+BO0624_84230,547326,109,178,Caton,1828,35.3,False,none,,,,,
 BO0624_84230,547327,110,I,"l est vetu d’une chemise a col de dentelle ouverte sur la poitrine, et enveloppe d’une draperie.",1843,49.1,False,positional,PIGALLE,,,,
-BO0624_84230,547328,111,1716,1772,1847,33.3,False,positional,PIGALLE,,,,Sec. XVIII
+BO0624_84230,547328,111,1716,1772,1847,33.3,False,none,,,,,Sec. XVIII
 BO0624_84230,547329,112,18,l - Buste de lune des filles de Louis XV,1870,50.7,False,positional,SIMIAND,Periodo di Luigi XV,,,
-BO0624_84230,547330,113,182,"- Bougeoir en argent, a decors d''entrelacs ; la spatule ornee d'un mascaron. Epoque Regence.",1872,46.7,False,positional,SIMIAND,,,,
-BO0624_84230,547331,114,183,"- Petit vase avec couvercle en argent entierement decore au repousse de canaux, feuillage et volutes. Epoque Louis XV.",1878,42.9,False,positional,SIMIAND,Periodo di Luigi XV,VASI,,
+BO0624_84230,547330,113,182,"- Bougeoir en argent, a decors d''entrelacs ; la spatule ornee d'un mascaron. Epoque Regence.",1872,46.7,False,none,,,,,
+BO0624_84230,547331,114,183,"- Petit vase avec couvercle en argent entierement decore au repousse de canaux, feuillage et volutes. Epoque Louis XV.",1878,42.9,False,none,,Periodo di Luigi XV,VASI,,
 BO0624_84230,547332,115,184,"Brule-parfums, forme cassolette a trepied, en argent, a decor de feuillage; le couvercle entoure d'un serpent.",1889,49.5,False,positional,TAVAU,,,,
-BO0624_84230,547333,116,185,"Petite aiguiere et son plateau en ancienne porcecelaine du Japon, decor polychrome, enrichie d'une monture en argent. Epoque Louis XIV.",1897,42.1,False,positional,TAVAU,,,,
+BO0624_84230,547333,116,185,"Petite aiguiere et son plateau en ancienne porcecelaine du Japon, decor polychrome, enrichie d'une monture en argent. Epoque Louis XIV.",1897,42.1,False,none,,,,,
 BO0624_84230,547334,117,186,Deux vases en albatre oriental montes en bronze cisele et dore. Epoque Regence.,1912,53.0,False,positional,,,VASI,,
 BO0624_84230,547335,118,187,"Vase en ancienne faience de Nevers, decore en blanc fixe sur fond bleu persan, monte en bronze cisele et dore, a culot et trepied. Epoque Regence.",1932,46.4,False,positional,,,MONTEES EN BRONZE,,
 BO0624_84230,547336,119,188,"Deux appliques a deux lumieres,en fer dore, ornees de nombreuses feurs en ancienne pate tendre emaillee de Mennecy. Epoque Regence.",1944,98.5,False,positional,,,MONTEES EN BRONZE,,

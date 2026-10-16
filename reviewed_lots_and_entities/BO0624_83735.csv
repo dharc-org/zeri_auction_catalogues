@@ -38,7 +38,7 @@ BO0624_83735,91416,36,36,"SAINT-AUBIN, GABRIEL-JAcQUEs DE. 1724-1780. Louis XVI,
 BO0624_83735,91417,37,37,Shut et Seghers. 1590-1661. Sainte-Famille.,539,53.6,False,positional,SCHUT ET SEGHERS,,,,Sec. XVII
 BO0624_83735,91418,38,38,Senave. 1758-1829. Le Marche.,556,57.9,False,positional,SENAVE (JACQUES-ALBERT),,,,Sec. XVIII
 BO0624_83735,91419,39,39,"VAN SPAENDONCK, GERARD. 1746-1822. Fleurs et fruits.",564,60.9,False,title_direct,VAN SPAENDONCK (GERARD),,,,Sec. XVIII
-BO0624_83735,91420,40,40,"SWART, JEAN. 1469-1535. Le Golgotha.",584,56.5,False,positional,VAN SPAENDONCK (GERARD),,,,Sec. XV
+BO0624_83735,91420,40,40,"SWART, JEAN. 1469-1535. Le Golgotha.",584,56.5,False,none,,,,,Sec. XV
 BO0624_83735,91421,41,41,"TENIERS, DAvID,le Jeune. 1610-1689.Les Joueurs de boules. ls se sont installes devant lauberge:c'est jour de liesse, si l'on en croit le cortege dansant qui s'avance au fond,a gauche,aux accents de la cornemuse,si lon en croit egalement les couples de buveurs attables a droite. Au premier plan,les joueurs sont attentifs a la partie. L'un,penche en avant,va lancer la boule. Derriere lui, un autre compagnon,vetu de gris,attend son tour,indifferent aux avis d'un conseilleur, qui se tient pres de lui. A gauche,pres du cochonnet,un bonhomme, en culotte grise et chemise blanche, est vu de dos. Pres du mur, en pleine lumiere,un malade,vu de dos,allege son estomac surcharge. Au fond, au-dessus des branches,le clocher de l'eglise dresse sa fleche vers le ciel illumine de chaudes clartes.",597,96.4,False,title_direct,"TENIERS (DAvID,le Jeune)",,,,Sec. XVII
 BO0624_83735,91422,42,42,Teniers. Le Festin des singes.,606,82.4,False,positional,"TENIERS (DAvID,le Jeune)",,,,
 BO0624_83735,91423,43,43,Valckenburg. 1675-1721. Coq et canards.,619,56.6,False,positional,VALCKENBURG (THIERRY VAN),,,,Sec. XVII
@@ -105,14 +105,14 @@ BO0624_83735,91483,103,103,"GERICAULT, JEAN-LOUIS-ANDRE-THEODORE. 1791-1824. Com
 BO0624_83735,91484,104,104,"GIACOMELLI, HECTOR. Bande doiseaux. ls sont la sur un barreau de cage, entasses les uns contre les autres et melant,comme un collier de pierres precieuses,les rubis,les saphirs,les émeraudes de leurs plumages.",1334,91.5,False,title_direct,GIACOMELLI (HECTOR),,,,
 BO0624_83735,91485,105,105,"INGRES, JEAN-AUGUSTE-DOMINIQUE. 1780-1867. Portrait de Mme Borel.",1340,64.4,False,title_direct,INGRES (JEAN-AUGUSTE-DOMINIQUE),,,,Sec. XIX
 BO0624_83735,91486,106,106,LAMI. LOUIS-EUGENE. 1800-1890. Personnages dans un parc.,1344,28.6,False,title_direct,LAMI (LOUIS-EUGENE),,,,Sec. XIX
-BO0624_83735,91487,107,107,Millet. 1815-1875. La Fermiere.,1348,36.1,False,positional,INGRES (JEAN-AUGUSTE-DOMINIQUE),,,,Sec. XIX
+BO0624_83735,91487,107,107,Millet. 1815-1875. La Fermiere.,1348,36.1,False,none,MILLET JEAN FRANCOIS,,,,Sec. XIX
 BO0624_83735,91488,108,108,"MILLET, JEAN-FRANCOIS. Le Vol d'oies sauvages.",1351,40.0,False,title_direct,MILLET (JEAN-FRANCOIS),,,,
 BO0624_83735,91489,109,109,"WORMS, JULEs. Jeune Chasseur espagnol.",1355,41.3,False,title_direct,WORMS (JULEs),,,,
-BO0624_83735,91490,110,110,"ZIEM, FELIX. A l'embouchure dufleuve.",1359,37.5,False,positional,LAMI (LOUIS-EUGENE),,,,
+BO0624_83735,91490,110,110,"ZIEM, FELIX. A l'embouchure dufleuve.",1359,37.5,False,none,ZIEM FELIX,,,,
 BO0624_83735,91491,111,111,"Deux CHopEs en ancien gres gris de Nassau a carrelages blancs et noirs pour l'une,et feuillages bleus et blancs pour l'autre.Couvercles en etain.",1372,28.6,False,positional,MILLET (JEAN-FRANCOIS),,OGGETTI IN PELTRO,,
-BO0624_83735,91492,112,112,CrucHE en ancien gres gris et blanc de Reren a decor de disques semes.,1374,40.4,False,positional,MILLET (JEAN-FRANCOIS),,,,
+BO0624_83735,91492,112,112,CrucHE en ancien gres gris et blanc de Reren a decor de disques semes.,1374,40.4,False,none,,,,,
 BO0624_83735,91493,113,113,Por A TABAc a quatre faces en ancien gres gris et bleu de Reren.Armoiries et date.1678.,1383,33.9,False,positional,MILLET (JEAN-FRANCOIS),,,,Sec. XVII
-BO0624_83735,91494,114,114,GRANDE cRUcHE en ancien gres gris et blanc de Raren;rosace,1385,45.5,False,positional,MILLET (JEAN-FRANCOIS),,,,
+BO0624_83735,91494,114,114,GRANDE cRUcHE en ancien gres gris et blanc de Raren;rosace,1385,45.5,False,none,,,,,
 BO0624_83735,91495,115,115,CrucHE en ancien gres brun de Raren a decor d'armoiries.,1390,41.5,False,positional,WORMS (JULEs),,,,
 BO0624_83735,91496,116,116,GouRDe a panse lenticulaire en ancien gres gris et blanc de Raren; rosaces et feuillages.,1398,39.6,False,positional,ZIEM(FELIX),,,,
 BO0624_83735,91497,117,117,"CHopE en ancien gres gris et blanc de Raeren,decoree de neuf bustes.",1407,37.5,False,positional,,,OBJETS D'ART ET D'AMEUBLEMENT,,

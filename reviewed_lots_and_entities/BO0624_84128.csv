@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_84128,106662,1,2,La Venus au faune.,15,94.4,False,positional,,,TABLEAUX; DESSINS,,
 BO0624_84128,106663,2,3,Les Curieux.,21,91.7,False,positional,DAUMIER (HONORE),,,,
 BO0624_84128,106664,3,5,Amour couche parmi des fleurs.,32,96.7,False,positional,ZUBER-BUHLER,,,,
-BO0624_84128,106665,4,6,Les Petits Pecheurs.,38,95.0,False,positional,ZUBER-BUHLER,,,,
+BO0624_84128,106665,4,6,Les Petits Pecheurs.,38,95.0,False,none,,,,,
 BO0624_84128,106666,5,7,"Pendule en porcelaine de Paris, formee d'une figurine de Diane accoudee sur un socle. Epoque Empire.",43,99.0,False,positional,,,PORCELAINES; FAIENCES,,
 BO0624_84128,106667,6,8,"9 — Lot de pieces variées : assiettes, plats,",44,97.5,False,positional,,,PIATTI,,
 BO0624_84128,106668,7,10,"— Service en porcelaine de Saxe, a decors bleus,",46,96.7,False,positional,,,OGGETTI VARI,,

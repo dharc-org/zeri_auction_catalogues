@@ -1,74 +1,74 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84244,517226,1,1,La Ville.,14,88.9,False,none,,,,,
 BO0624_84244,517227,2,2,"| Signe au dos Nature morte. Signe au dos | Haut.:0""81;Larg.:0m60                             |",24,98.3,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517228,3,3,| La Guitare. Signe au dos                | Haut.:0m73;Larg.:0m60                             |,25,97.7,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517229,4,4,| Figure. Signe au dos                    | Haut. : 1m46; Larg. : 0m81                        |,26,97.5,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517230,5,5,| Le Violon. Signe au dos                 | Haut.:1m46;Larg.:0m81                             |,27,97.7,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517231,6,6,| La Flute. Signe au dos                  | Haut.:0m41;Larg.:0m33                             |,28,97.6,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517232,7,7,| Verre et Cartes. Signe au dos           | Ovale-Haut. : 0m27;Larg.:0m33                     |,29,98.2,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517233,8,8,"| Pipe, Cartes et Journal. Signe au dos   | Ovale -Haut.:0m41;Larg.:0m33                      |",30,98.4,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517234,9,9,| La Grappe de Raisin. Signe au dos       | Haut.:0m41;Larg.:0m33                             |,31,98.1,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517235,10,10,| Le Journal. Signe au dos                | Haut. :0m33;Larg.:0m46                            |,32,96.6,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517236,11,11,| Le Verre sur la Table. Signe au dos     | Haut. :0=33; Larg. :037                           |,33,97.2,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517237,12,12,"| Verre, Pipe et Journal. Signe au dos    | Voirreproduction Rond - Haut. : 0m36; Larg. : 036 |",34,98.0,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517238,13,13,| Nature morte. Signe au dos              | Haut. : 0m54; Larg. : 0m81                        |,35,96.8,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517239,14,14,| La Ville.                               | Haut. :0m65; Larg.:0m54                           |,36,94.9,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517240,15,15,| Signe au dos Nature morte.              | Ovale -Haut.:0m73;Larg.:0m54                      |,37,97.1,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517241,16,16,| Signe au dos Nature morte.              |                                                   |,38,94.3,False,positional,BRAQUE (Georges),,,,
-BO0624_84244,517242,17,17,| Nature morte. Signe au dos              | Haut.: 0m33;Larg. :041                            |,40,96.7,False,positional,BRAQUE (Georges),,,,
+BO0624_84244,517228,3,3,| La Guitare. Signe au dos                | Haut.:0m73;Larg.:0m60                             |,25,97.7,False,none,,,,,
+BO0624_84244,517229,4,4,| Figure. Signe au dos                    | Haut. : 1m46; Larg. : 0m81                        |,26,97.5,False,none,,,,,
+BO0624_84244,517230,5,5,| Le Violon. Signe au dos                 | Haut.:1m46;Larg.:0m81                             |,27,97.7,False,none,,,,,
+BO0624_84244,517231,6,6,| La Flute. Signe au dos                  | Haut.:0m41;Larg.:0m33                             |,28,97.6,False,none,,,,,
+BO0624_84244,517232,7,7,| Verre et Cartes. Signe au dos           | Ovale-Haut. : 0m27;Larg.:0m33                     |,29,98.2,False,none,,,,,
+BO0624_84244,517233,8,8,"| Pipe, Cartes et Journal. Signe au dos   | Ovale -Haut.:0m41;Larg.:0m33                      |",30,98.4,False,none,,,,,
+BO0624_84244,517234,9,9,| La Grappe de Raisin. Signe au dos       | Haut.:0m41;Larg.:0m33                             |,31,98.1,False,none,,,,,
+BO0624_84244,517235,10,10,| Le Journal. Signe au dos                | Haut. :0m33;Larg.:0m46                            |,32,96.6,False,none,,,,,
+BO0624_84244,517236,11,11,| Le Verre sur la Table. Signe au dos     | Haut. :0=33; Larg. :037                           |,33,97.2,False,none,,,,,
+BO0624_84244,517237,12,12,"| Verre, Pipe et Journal. Signe au dos    | Voirreproduction Rond - Haut. : 0m36; Larg. : 036 |",34,98.0,False,none,,,,,
+BO0624_84244,517238,13,13,| Nature morte. Signe au dos              | Haut. : 0m54; Larg. : 0m81                        |,35,96.8,False,none,,,,,
+BO0624_84244,517239,14,14,| La Ville.                               | Haut. :0m65; Larg.:0m54                           |,36,94.9,False,none,,,,,
+BO0624_84244,517240,15,15,| Signe au dos Nature morte.              | Ovale -Haut.:0m73;Larg.:0m54                      |,37,97.1,False,none,,,,,
+BO0624_84244,517241,16,16,| Signe au dos Nature morte.              |                                                   |,38,94.3,False,none,,,,,
+BO0624_84244,517242,17,17,| Nature morte. Signe au dos              | Haut.: 0m33;Larg. :041                            |,40,96.7,False,none,,,,,
 BO0624_84244,517243,18,18,| Dans les Rues de Senlis. Signe en haut a gauche Date de Senlis(1913)   | Haut. : 0m73; Larg. : 0m50                  |                   |                   |,43,98.3,False,positional,DARDEL (Nils de),,,,Sec. XX
-BO0624_84244,517244,19,19,| Dans le Fauteuil. Signe en haut a gauche Date (1913)                   | Haut. : 0m73;Larg.:0m60                     |                   |                   |,45,97.9,False,positional,DARDEL (Nils de),,SCOMPARTI,,Sec. XX
-BO0624_84244,517245,20,20,| Portrait de M. Uhde. Signe en haut a gauche Date (1912)                | Haut. : 0m55; Larg. : 0m46                  |                   |                   |,46,97.9,False,positional,DARDEL (Nils de),,,,Sec. XX
-BO0624_84244,517246,21,21,| Plage a Marée basse. Signe en rouge en bas a gauche                    | Date (1906) Haut. : 0m65; Larg. :0m81       |                   |                   |,48,98.2,False,positional,DARDEL (Nils de),,,,Sec. XX
-BO0624_84244,517247,22,22,| Le Cavalier arabe. Signe en bas a droite Date(1914)                    | Voir reproduction Haut : 0m65; Larg. : 0m81 |                   |                   |,49,98.3,False,positional,DARDEL (Nils de),,,,Sec. XX
-BO0624_84244,517248,23,23,| Le Canal. Signe en rouge en bas au milieu                              | Haut. : 0m65 ; Larg. : 0m81                 |                   |                   |,50,97.6,False,positional,DARDEL (Nils de),,,,
-BO0624_84244,517249,24,24,| La Statue dans le Parc. Signe en bas au milieu Date (1909)             | Haut. : 0m50; Larg. : 0m60                  |                   |                   |,51,98.0,False,positional,DARDEL (Nils de),,,,Sec. XX
-BO0624_84244,517250,25,25,| Le Bananier. Signe en bas a droite Date (1909)                         | Haut. : 0m81; Larg. : 0m65                  |                   |                   |,52,97.7,False,positional,DARDEL (Nils de),,,,Sec. XX
-BO0624_84244,517251,26,26,"| "" Le Compotier  Signe au dos                                           | Haut. : 0m92; Larg. : 0m65                  |                   |                   |",53,96.8,False,positional,DARDEL (Nils de),,,,
-BO0624_84244,517252,27,27,| Les Pots de fleurs. Signe en bas a droite                              | Haut. : 0m84; Larg. : 0m65 Voirreproduction |                   |                   |,55,98.1,False,positional,DARDEL (Nils de),,,,
-BO0624_84244,517253,28,28,| Le Pont de fer. Signe en bas a gauche                                  | Haut. : 0m63; Larg. : 0m81                  |                   |                   |,56,97.4,False,positional,DARDEL (Nils de),,,,
-BO0624_84244,517254,29,29,| Femme dans la Clairiere. Signe en bas a gauche                         | Haut. : 0m84; Larg.: 1m                     |                   |                   |,58,97.7,False,positional,DARDEL (Nils de),,,,
-BO0624_84244,517255,30,30,| Paysage. Signe en bas a gauche                                         | Haut. : 0m89: Larg.: 1m30                   |                   |                   |,59,97.0,False,positional,DARDEL (Nils de),,,,
-BO0624_84244,517256,31,31,| Paysage. Signe en vert en bas a droite                                 | Haut.:0m97;Larg.:1m30                       |                   |                   |,60,97.4,False,positional,DARDEL (Nils de),,,,
-BO0624_84244,517257,32,32,| Vue du Boulevard de Port-Royal. Signe en bas a gauche                  | Haut. : 0m61 ; Larg. : 0m50                 |                   |                   |,61,98.0,False,positional,DARDEL (Nils de),,,,
+BO0624_84244,517244,19,19,| Dans le Fauteuil. Signe en haut a gauche Date (1913)                   | Haut. : 0m73;Larg.:0m60                     |                   |                   |,45,97.9,False,none,,,SCOMPARTI,,Sec. XX
+BO0624_84244,517245,20,20,| Portrait de M. Uhde. Signe en haut a gauche Date (1912)                | Haut. : 0m55; Larg. : 0m46                  |                   |                   |,46,97.9,False,none,,,,,Sec. XX
+BO0624_84244,517246,21,21,| Plage a Marée basse. Signe en rouge en bas a gauche                    | Date (1906) Haut. : 0m65; Larg. :0m81       |                   |                   |,48,98.2,False,none,,,,,Sec. XX
+BO0624_84244,517247,22,22,| Le Cavalier arabe. Signe en bas a droite Date(1914)                    | Voir reproduction Haut : 0m65; Larg. : 0m81 |                   |                   |,49,98.3,False,none,,,,,Sec. XX
+BO0624_84244,517248,23,23,| Le Canal. Signe en rouge en bas au milieu                              | Haut. : 0m65 ; Larg. : 0m81                 |                   |                   |,50,97.6,False,none,CANALE ANTONIO,,,,
+BO0624_84244,517249,24,24,| La Statue dans le Parc. Signe en bas au milieu Date (1909)             | Haut. : 0m50; Larg. : 0m60                  |                   |                   |,51,98.0,False,none,,,,,Sec. XX
+BO0624_84244,517250,25,25,| Le Bananier. Signe en bas a droite Date (1909)                         | Haut. : 0m81; Larg. : 0m65                  |                   |                   |,52,97.7,False,none,,,,,Sec. XX
+BO0624_84244,517251,26,26,"| "" Le Compotier  Signe au dos                                           | Haut. : 0m92; Larg. : 0m65                  |                   |                   |",53,96.8,False,none,,,,,
+BO0624_84244,517252,27,27,| Les Pots de fleurs. Signe en bas a droite                              | Haut. : 0m84; Larg. : 0m65 Voirreproduction |                   |                   |,55,98.1,False,none,,,,,
+BO0624_84244,517253,28,28,| Le Pont de fer. Signe en bas a gauche                                  | Haut. : 0m63; Larg. : 0m81                  |                   |                   |,56,97.4,False,none,,,,,
+BO0624_84244,517254,29,29,| Femme dans la Clairiere. Signe en bas a gauche                         | Haut. : 0m84; Larg.: 1m                     |                   |                   |,58,97.7,False,none,,,,,
+BO0624_84244,517255,30,30,| Paysage. Signe en bas a gauche                                         | Haut. : 0m89: Larg.: 1m30                   |                   |                   |,59,97.0,False,none,,,,,
+BO0624_84244,517256,31,31,| Paysage. Signe en vert en bas a droite                                 | Haut.:0m97;Larg.:1m30                       |                   |                   |,60,97.4,False,none,,,,,
+BO0624_84244,517257,32,32,| Vue du Boulevard de Port-Royal. Signe en bas a gauche                  | Haut. : 0m61 ; Larg. : 0m50                 |                   |                   |,61,98.0,False,none,,,,,
 BO0624_84244,517258,33,33,| Carnaval.                                                                                    | Date (1905)                                                   |,64,92.3,False,positional,KLOSSOWSKI,,,,Sec. XX
-BO0624_84244,517259,34,34,| Signe en bas a droite Jardin a Samois. Signe en bas a droite                                 | Haut. : 0m46; Larg. : 0m65 Date (1905) Haut. :0m45;Larg.:0m35 |,66,98.6,False,positional,KLOSSOWSKI,,,,Sec. XX
-BO0624_84244,517260,35,35,| Le Pot de feurs. Signe en bas a droite                                                       | Haut.:044;Larg.:0m34                                          |,68,97.4,False,positional,KLOSSOWSKI,,,,
-BO0624_84244,517261,36,36,| La Femme au boa rose. Signe en bas a droite                                                  | Haut. :0m81;Larg. : 0m65                                      |,69,97.6,False,positional,KLOSSOWSKI,,,,
-BO0624_84244,517262,37,37,| La Femme couchee. Signe au dos                                                               | Date(1911/4912) Haut. :0m44; Larg.:0m65                       |,71,97.7,False,positional,KLOSSOWSKI,,,,Sec. XX
-BO0624_84244,517263,38,38,39           | Nus dans un Paysage marin. Signe en bas a droite Nus dans la Montagne. Signe en bas a droite | Haut.:0m54; Larg.:0m73                                        |,72,98.7,False,positional,KLOSSOWSKI,,,,
-BO0624_84244,517264,39,40,| La Danse.                                                                                    | Haut. :0m73; Larg.:0m53                                       |,73,94.9,False,positional,KLOSSOWSKI,,,,
-BO0624_84244,517265,40,41,| Paysage. Signe en bas a droite                                                               | Date (1906) Haut. : 0m55; Larg. : 0m42                        |,76,97.5,False,positional,KLOSSOWSKI,,,,Sec. XX
-BO0624_84244,517266,41,43,| Non signe                                                                                    | Haut. :0m92;Larg.:0m73                                        |,78,95.1,False,positional,KLOSSOWSKI,,,,
-BO0624_84244,517267,42,44,45           | La Joueuse de Mandoline. Signe au dos Le Joueur de Clarinette.                               | Voir reproduction Haut.:1m;Larg.:0m73                         |,79,98.5,False,positional,KLOSSOWSKI,,,,
-BO0624_84244,517268,43,46,| Buste de Femme. Signe au dos                                                                 | Voir reproduction Haut.:1m；                                   |,80,97.2,False,positional,KLOSSOWSKI,,,,
-BO0624_84244,517269,44,47,| Le Violon.                                                                                   | Larg.:0m81                                                    |,81,92.7,False,positional,KLOSSOWSKI,,,,
-BO0624_84244,517270,45,48,| Le Fumeur de Pipes.                                                                          | Ovale-Haut.:1m;Larg.:0m73                                     |,83,96.6,False,positional,KLOSSOWSKI,,,,
-BO0624_84244,517271,46,49,| Le Joueur de Mandoline. Signe au dos                                                         | Haut.:1m；                                                     |,86,96.6,False,positional,KLOSSOWSKI,,,,
+BO0624_84244,517259,34,34,| Signe en bas a droite Jardin a Samois. Signe en bas a droite                                 | Haut. : 0m46; Larg. : 0m65 Date (1905) Haut. :0m45;Larg.:0m35 |,66,98.6,False,none,DU JARDIN KAREL,,,,Sec. XX
+BO0624_84244,517260,35,35,| Le Pot de feurs. Signe en bas a droite                                                       | Haut.:044;Larg.:0m34                                          |,68,97.4,False,none,,,,,
+BO0624_84244,517261,36,36,| La Femme au boa rose. Signe en bas a droite                                                  | Haut. :0m81;Larg. : 0m65                                      |,69,97.6,False,none,,,,,
+BO0624_84244,517262,37,37,| La Femme couchee. Signe au dos                                                               | Date(1911/4912) Haut. :0m44; Larg.:0m65                       |,71,97.7,False,none,,,,,Sec. XX
+BO0624_84244,517263,38,38,39           | Nus dans un Paysage marin. Signe en bas a droite Nus dans la Montagne. Signe en bas a droite | Haut.:0m54; Larg.:0m73                                        |,72,98.7,False,none,,,,,
+BO0624_84244,517264,39,40,| La Danse.                                                                                    | Haut. :0m73; Larg.:0m53                                       |,73,94.9,False,none,,,,,
+BO0624_84244,517265,40,41,| Paysage. Signe en bas a droite                                                               | Date (1906) Haut. : 0m55; Larg. : 0m42                        |,76,97.5,False,none,,,,,Sec. XX
+BO0624_84244,517266,41,43,| Non signe                                                                                    | Haut. :0m92;Larg.:0m73                                        |,78,95.1,False,none,,,,,
+BO0624_84244,517267,42,44,45           | La Joueuse de Mandoline. Signe au dos Le Joueur de Clarinette.                               | Voir reproduction Haut.:1m;Larg.:0m73                         |,79,98.5,False,none,,,,,
+BO0624_84244,517268,43,46,| Buste de Femme. Signe au dos                                                                 | Voir reproduction Haut.:1m；                                   |,80,97.2,False,none,,,,,
+BO0624_84244,517269,44,47,| Le Violon.                                                                                   | Larg.:0m81                                                    |,81,92.7,False,none,,,,,
+BO0624_84244,517270,45,48,| Le Fumeur de Pipes.                                                                          | Ovale-Haut.:1m;Larg.:0m73                                     |,83,96.6,False,none,,,,,
+BO0624_84244,517271,46,49,| Le Joueur de Mandoline. Signe au dos                                                         | Haut.:1m；                                                     |,86,96.6,False,none,,,,,
 BO0624_84244,517272,47,50,"| La Dame au Fauteuil. Signe au dos                                                                         | Haut,:0m41;Larg.:0m24                                      |",89,97.2,False,positional,PICASSO (Pablo),,SCOMPARTI,,
-BO0624_84244,517273,48,51,"| Violon, Verre et Journal. Signe au dos                                                                    | Voirreproduction Haut.:0m55;Larg.:0m45                     |",91,98.0,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517274,49,52,| Tete. Signe au dos                                                                                        | Haut.: 0m46; Larg.:0m38                                    |,92,96.1,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517275,50,53,"| Tete. Signe au dos                                                                                        | Haut. :055; Larg.: 0""46                                    |",93,96.0,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517276,51,54,| Buste de Femme. Signe au dos PUY (Jean)                                                                   | Haut.:0m65;Larg.:0m50                                      |,94,97.4,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517277,52,55,"| Date (1905) Nu sur le Sofa rouge. Signe en bas a gauche Expose au Salon d'Automne (1906) ROUSSEAU (Henri) | Haut.: 0""75 ; Larg.: 0m94                                  |",95,98.7,False,positional,PICASSO (Pablo),,OGGETTI VARI,,Sec. XX
-BO0624_84244,517278,53,56,| Portrait de M.Brummer. Signe en bas a gauche Date (1909)                                                  | Voir reproduction Haut.:147;Larg.:0m89                     |,96,98.4,False,positional,PICASSO (Pablo),,,,Sec. XX
-BO0624_84244,517279,54,57,58 | L'Enfant a la Poupee de Carton. Signe en bas a droite La Femme en rouge dans la foret.                    | Voirreproduction Haut.: 0m67; Larg.: 0m51 Voirreproduction |,97,98.9,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517280,55,59,| Signe en bas a gauche Vue de Malakoff.                                                                    | Haut. : 0m70 ; Larg.: 060 Date (1908)                      |,98,97.8,False,positional,PICASSO (Pablo),,,,Sec. XX
-BO0624_84244,517281,56,60,"| Signe en bas a droite La Promenade sous les arbres.                                                       | Haut. : 046 ; Larg.: 0""55 Voir reproduction                |",99,98.3,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517282,57,61,| Hommage a Saint-Hubert. Copie d’un tableau de la fin du XVe siecle Signe en bas a droite                  | H.ROUSSEAU (Attribue a) Date (Juin 1904）                   |,100,98.8,False,positional,PICASSO (Pablo),,,,Sec. XV
-BO0624_84244,517283,58,62,| WOLFF La Ville. Signe en bas a droite                                                                     | Haut.:4m；Larg.:0m73 Date (1909) Haut.: 0m70; Larg.: 060    |,101,98.2,False,positional,PICASSO (Pablo),,,,Sec. XX
-BO0624_84244,517284,59,89,64 | Le Torrent dans ta Montagne.                                                                              | Haut.: 0m37;Larg.:0m54                                     |,103,97.1,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517285,60,65,| Le Cheval blanc. La Ruelle.                                                                               | Haut. : 0m60 ; Larg.: 0m74                                 |,104,96.8,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517286,61,66,"|                                                                                                           | Haut. : 0""65 ; Larg.: 0m46                                 |",105,92.7,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517287,62,67,| La Mise au Tombeau.                                                                                       | Haut.: 0m32; Larg.:040                                     |,106,96.1,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517288,63,68,"| Christ en Croix (Peinture sur verre). Art Slave                                                           | Haut.:0m28;Larg..0""33                                      |",107,97.7,False,positional,PICASSO (Pablo),,,,
+BO0624_84244,517273,48,51,"| Violon, Verre et Journal. Signe au dos                                                                    | Voirreproduction Haut.:0m55;Larg.:0m45                     |",91,98.0,False,none,,,,,
+BO0624_84244,517274,49,52,| Tete. Signe au dos                                                                                        | Haut.: 0m46; Larg.:0m38                                    |,92,96.1,False,none,,,,,
+BO0624_84244,517275,50,53,"| Tete. Signe au dos                                                                                        | Haut. :055; Larg.: 0""46                                    |",93,96.0,False,none,,,,,
+BO0624_84244,517276,51,54,| Buste de Femme. Signe au dos PUY (Jean)                                                                   | Haut.:0m65;Larg.:0m50                                      |,94,97.4,False,none,,,,,
+BO0624_84244,517277,52,55,"| Date (1905) Nu sur le Sofa rouge. Signe en bas a gauche Expose au Salon d'Automne (1906) ROUSSEAU (Henri) | Haut.: 0""75 ; Larg.: 0m94                                  |",95,98.7,False,none,ROUSSEAU JEAN-JACQUES,,OGGETTI VARI,,Sec. XX
+BO0624_84244,517278,53,56,| Portrait de M.Brummer. Signe en bas a gauche Date (1909)                                                  | Voir reproduction Haut.:147;Larg.:0m89                     |,96,98.4,False,none,,,,,Sec. XX
+BO0624_84244,517279,54,57,58 | L'Enfant a la Poupee de Carton. Signe en bas a droite La Femme en rouge dans la foret.                    | Voirreproduction Haut.: 0m67; Larg.: 0m51 Voirreproduction |,97,98.9,False,none,,,,,
+BO0624_84244,517280,55,59,| Signe en bas a gauche Vue de Malakoff.                                                                    | Haut. : 0m70 ; Larg.: 060 Date (1908)                      |,98,97.8,False,none,,,,,Sec. XX
+BO0624_84244,517281,56,60,"| Signe en bas a droite La Promenade sous les arbres.                                                       | Haut. : 046 ; Larg.: 0""55 Voir reproduction                |",99,98.3,False,none,,,,,
+BO0624_84244,517282,57,61,| Hommage a Saint-Hubert. Copie d’un tableau de la fin du XVe siecle Signe en bas a droite                  | H.ROUSSEAU (Attribue a) Date (Juin 1904）                   |,100,98.8,False,none,ROUSSEAU JEAN-JACQUES,,,,Sec. XV
+BO0624_84244,517283,58,62,| WOLFF La Ville. Signe en bas a droite                                                                     | Haut.:4m；Larg.:0m73 Date (1909) Haut.: 0m70; Larg.: 060    |,101,98.2,False,none,,,,,Sec. XX
+BO0624_84244,517284,59,89,64 | Le Torrent dans ta Montagne.                                                                              | Haut.: 0m37;Larg.:0m54                                     |,103,97.1,False,none,,,,,
+BO0624_84244,517285,60,65,| Le Cheval blanc. La Ruelle.                                                                               | Haut. : 0m60 ; Larg.: 0m74                                 |,104,96.8,False,none,,,,,
+BO0624_84244,517286,61,66,"|                                                                                                           | Haut. : 0""65 ; Larg.: 0m46                                 |",105,92.7,False,none,,,,,
+BO0624_84244,517287,62,67,| La Mise au Tombeau.                                                                                       | Haut.: 0m32; Larg.:040                                     |,106,96.1,False,none,,,,,
+BO0624_84244,517288,63,68,"| Christ en Croix (Peinture sur verre). Art Slave                                                           | Haut.:0m28;Larg..0""33                                      |",107,97.7,False,none,,,,,
 BO0624_84244,517289,64,69,Le Compotier (Dessin au fusain et papiers colles).,112,96.9,False,positional,BRAQUE (Georges),,,,
 BO0624_84244,517290,65,70,Tete (Dessin au fusain).,120,93.3,False,positional,LAURENCIN (Marie),,,,
 BO0624_84244,517291,66,71,Le Compotier  (Dessin gouache et papiers colles).,128,96.8,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517292,67,72,Le Verre (Aquarelle).,136,100.0,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517293,68,73,Guitare (Dessin au fusain).,144,100.0,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517294,69,74,Un lot de sept cadres en bois.,150,95.1,False,positional,PICASSO (Pablo),,OGGETTI IN LEGNO,,
-BO0624_84244,517295,70,75,Un lot de Livres sur les Beaux-Arts.,152,95.9,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517296,71,76,Un lot de Livres sur les Beaux-Arts.,154,95.9,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517297,72,77,Un lot de Livres sur les Beaux-Arts.,156,95.9,False,positional,PICASSO (Pablo),,,,
-BO0624_84244,517298,73,78,Mobilier.,158,84.2,False,positional,PICASSO (Pablo),,,,
+BO0624_84244,517292,67,72,Le Verre (Aquarelle).,136,100.0,False,none,,,,,
+BO0624_84244,517293,68,73,Guitare (Dessin au fusain).,144,100.0,False,none,,,,,
+BO0624_84244,517294,69,74,Un lot de sept cadres en bois.,150,95.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_84244,517295,70,75,Un lot de Livres sur les Beaux-Arts.,152,95.9,False,none,,,,,
+BO0624_84244,517296,71,76,Un lot de Livres sur les Beaux-Arts.,154,95.9,False,none,,,,,
+BO0624_84244,517297,72,77,Un lot de Livres sur les Beaux-Arts.,156,95.9,False,none,,,,,
+BO0624_84244,517298,73,78,Mobilier.,158,84.2,False,none,,,,,

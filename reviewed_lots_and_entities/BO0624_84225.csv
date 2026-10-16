@@ -1,11 +1,11 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84225,468935,1,1800,1866.,22,61.5,False,positional,BELLANGE,,,,Sec. XIX
-BO0624_84225,468936,2,2,## Le Repos pendant la bataille.,26,100.0,False,positional,BELLANGE,,,,
+BO0624_84225,468936,2,2,## Le Repos pendant la bataille.,26,100.0,False,none,,,,,
 BO0624_84225,468937,3,5,## Son Portrait.,61,100.0,False,positional,BELLANGE,,,,
-BO0624_84225,468938,4,I,"l est assis, vu a mi-corps, de trois quarts a gauche.",63,99.0,False,positional,BELLANGE,,,,
+BO0624_84225,468938,4,I,"l est assis, vu a mi-corps, de trois quarts a gauche.",63,99.0,False,none,,,,,
 BO0624_84225,468939,5,1825,18g8.,83,61.5,False,positional,BOUDIN,,,,
 BO0624_84225,468940,6,1827,1905.,98,61.5,False,positional,BRETON,,,,Sec. XX
-BO0624_84225,468941,7,8,## Le Repos aux champs.,102,100.0,False,positional,BRETON,,,,
+BO0624_84225,468941,7,8,## Le Repos aux champs.,102,100.0,False,none,,,,,
 BO0624_84225,468942,8,9,## Corot travaillant a Antibes.,118,100.0,False,positional,BRETON,,,,
 BO0624_84225,468943,9,10,## L'Heure de la soupe.,131,100.0,False,positional,CHARLET,,,,
 BO0624_84225,468944,10,11,## Le Petit Bateau.,145,100.0,False,positional,CHARLET,,,,
@@ -21,9 +21,9 @@ BO0624_84225,468953,19,21,## Coucher de soleil sur la riviere.,276,100.0,False,p
 BO0624_84225,468954,20,22,## Villerville.,289,100.0,False,positional,DAUBIGNY,,,,
 BO0624_84225,468955,21,23,## Les Moulins sur la Meuse en Hollande. 1860.,302,93.5,False,positional,DAUBIGNY,,,,Sec. XIX
 BO0624_84225,468956,22,24,## Le Singe musicien.,319,100.0,False,positional,DECAMPS,,,,
-BO0624_84225,468957,23,I,"l a installe sa musique sur le dossier de la chaise, en guise de pupitre; il a, pres de lui, un verre a demi rempli d'un grog, pour s'eclaircir la voix; il s'est assis sur la table, a meme la nappe, s'est empare d'un luth decacorde, et le voila en pleine harmonie. Sa physionomie exprime la joie,et sous son bonnet a plume tricolore,il a vraiment lair satisfait de son talent et de sa personne.",321,99.9,False,positional,DECAMPS,,OGGETTI VARI,,
+BO0624_84225,468957,23,I,"l a installe sa musique sur le dossier de la chaise, en guise de pupitre; il a, pres de lui, un verre a demi rempli d'un grog, pour s'eclaircir la voix; il s'est assis sur la table, a meme la nappe, s'est empare d'un luth decacorde, et le voila en pleine harmonie. Sa physionomie exprime la joie,et sous son bonnet a plume tricolore,il a vraiment lair satisfait de son talent et de sa personne.",321,99.9,False,none,,,OGGETTI VARI,,
 BO0624_84225,468958,24,1798,1863.,332,61.5,False,positional,DELACROIX,,,,Sec. XIX
-BO0624_84225,468959,25,25,## Copie d'apres Veronese:,336,100.0,False,positional,DELACROIX,,,,
+BO0624_84225,468959,25,25,## Copie d'apres Veronese:,336,100.0,False,none,PAOLO VERONESE,,,,
 BO0624_84225,468960,26,26,## Cavaliers arabes franchissant un gue. 1876.,350,93.5,False,positional,DEVEDEUX,,,,Sec. XIX
 BO0624_84225,468961,27,27,## Venus et l'Amour.,365,100.0,False,positional,DIAZ DE LA PENA,,,,
 BO0624_84225,468962,28,28,## Les Presents de l'Amour.,380,100.0,False,positional,DIAZDELAPENA,,,,
@@ -50,7 +50,7 @@ BO0624_84225,468982,48,49,## Canal et moulin a vent.,657,100.0,False,positional,
 BO0624_84225,468983,49,50,"## Riviere de l'Isere,",671,100.0,False,positional,JONGKIND,,,,
 BO0624_84225,468984,50,1815,1877.,684,61.5,False,positional,LAMBINET,,,,Sec. XIX
 BO0624_84225,468985,51,1820,1889.,697,61.5,False,positional,LAVIEILLE,,,,Sec. XIX
-BO0624_84225,468986,52,52,## La Moisson a l'heure de midi.,701,100.0,False,positional,LAVIEILLE,,,,
+BO0624_84225,468986,52,52,## La Moisson a l'heure de midi.,701,100.0,False,none,,,,,
 BO0624_84225,468987,53,53,## Les Patineurs.,712,100.0,False,positional,LEBOURG (ALBERT),,,,
 BO0624_84225,468988,54,54,## Soleil d'hiver.,723,100.0,False,positional,LEBOURG (ALBERT),,,,
 BO0624_84225,468989,55,55,## Bains sur la Seine.,736,100.0,False,positional,LEBOURG,,,,
@@ -68,7 +68,7 @@ BO0624_84225,469000,66,68,"## Maisons sur un canal,a Venise.",923,100.0,False,po
 BO0624_84225,469001,67,69,## Vue panoramique en Bretagne. 1865.,937,91.5,False,positional,THAULOW,,,,Sec. XIX
 BO0624_84225,469002,68,70,## La Rue de village.,952,100.0,False,positional,TROYON,,,,
 BO0624_84225,469003,69,1833,rg00.,972,61.5,False,positional,VOLLON,,,,
-BO0624_84225,469004,70,72,## L'Amateur. 1911.,976,78.3,False,positional,VOLLON,,,,Sec. XX
+BO0624_84225,469004,70,72,## L'Amateur. 1911.,976,78.3,False,none,,,,,Sec. XX
 BO0624_84225,469005,71,73,## Vaches dans le marais.,991,100.0,False,positional,ZIEM,,,,
 BO0624_84225,469006,72,74,"## Les Pecheurs de l'Adriatique. ls sont en train de relever leurs filets, ayant un trabucco pres d'eux, A droite, toute une fottille; a gauche, au fond, la ville. Le ciel est illumine de vieil or et d'ambre et, dans l'eau, ily a des reflets d'emeraude et de lapis-lazzuli.",1006,94.3,False,positional,ZIEM,,,,
 BO0624_84225,469007,73,75,## Eaux douces d'Asie.,1017,100.0,False,positional,ZIEM,,,,
@@ -80,7 +80,7 @@ BO0624_84225,469012,78,80,## Une Ruelle en Italie.,1095,100.0,False,positional,D
 BO0624_84225,469013,79,81,## Paysage d' Italie.,1110,100.0,False,positional,DECAMPS,,,,
 BO0624_84225,469014,80,82,## L'Abreuvoir. 1894.,1126,81.5,False,positional,DUPRE,,,,Sec. XIX
 BO0624_84225,469015,81,83,## Vaches a l'abreuvoir.,1147,100.0,False,positional,JACQUE,,,,
-BO0624_84225,469016,82,84,Basse-cour. g-1891.,1161,74.1,False,positional,JACQUE,,,,Sec. XIX
+BO0624_84225,469016,82,84,Basse-cour. g-1891.,1161,74.1,False,none,,,,,Sec. XIX
 BO0624_84225,469017,83,85,## Riviere en Hollande. 1890.,1170,88.4,False,positional,JONGKIND,,,,Sec. XIX
 BO0624_84225,469018,84,86,## Une Fete a Venise.,1187,100.0,False,positional,LAMI,,,,
 BO0624_84225,469019,85,87,## Les Meules.,1201,100.0,False,positional,LHERMITTE,,,,

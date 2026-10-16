@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88682,449048,1,1821,1870,3,61.5,False,positional,CHARLES HOGUET,Scuola di Dusseldorf,,,Sec. XIX
-BO0624_88682,449049,2,1,Boot in der Brandung. Aquarell. Gr.23X32 cm. G.L. Signiert. 1915,5,93.9,False,positional,CHARLES HOGUET,,,,Sec. XX
+BO0624_88682,449049,2,1,Boot in der Brandung. Aquarell. Gr.23X32 cm. G.L. Signiert. 1915,5,93.9,False,none,,,,,Sec. XX
 BO0624_88682,449050,3,2,Inneres einer Glashutte mit Glasblasern. Ded= und Wasserfarben. G.-L. Signiert P.M.1875. Ruckseite NadlaB=Stempel.,11,99.1,False,positional,PAUL MEYERHEIM,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88682,449051,4,3,Bauernmadhen in der Sofaedke. Pappe. Gr.36X26 cm.GR. Signiert.,17,98.3,False,positional,SIMON GLUCKLICH,,,,
 BO0624_88682,449052,5,4,a und b. Spielende Katze 一 Ruhende Katze. Aquarelle. Gr. je 10Xi3 cm. S. L. Gegenstucdke.,21,99.4,False,positional,G.STURM,,,,
@@ -13,7 +13,7 @@ BO0624_88682,449058,11,10,",AIte Spabvogel"". Vier alte Italiener, schnupfend, H
 BO0624_88682,449059,12,11,Traurige Botshaft. Ein alter Offizier bringt einer alten und einer jungen Dame eine Todesnadricht. Lwd. Gr. goXi1o cm. G.R. Signiert und datiert Bremen 1916.,58,99.0,False,positional,CARL SPIELTER,,,,Sec. XX
 BO0624_88682,449060,13,12,"Germania mit der Fahne, auf einem Mauerkranz sitzend; Shutzenscheibe. Pastell. Rund. 1910",64,95.2,False,positional,HUGO VON HABERMANN,,,,Sec. XX
 BO0624_88682,449061,14,13,"Junge, am Meeresstrand spazierengehend. Malpappe. Gr.37X57 cm. S.R. Signiert und datiert Raggnanez 1886.",71,98.5,False,positional,FRANZ SKARBINA,,,,Sec. XIX
-BO0624_88682,449062,15,2,14.Gabentish unterm Weihnachtsbaum. Lwd. Gr. 75X44 cm. G.R. NadlaB-Stempel.,72,98.6,False,positional,FRANZ SKARBINA,,STAMPE E INCISIONI,,
+BO0624_88682,449062,15,2,14.Gabentish unterm Weihnachtsbaum. Lwd. Gr. 75X44 cm. G.R. NadlaB-Stempel.,72,98.6,False,none,,,STAMPE E INCISIONI,,
 BO0624_88682,449063,16,15,"Funf Segelshiffe am Strande. Apuarell. Gr. 5oX6g cm. G,R. Signiert und datiert 1920.",78,98.1,False,positional,H.M.PECHSTEIN,,,,Sec. XX
 BO0624_88682,449064,17,16,Bildnis einer Dame mit Hut; gruner Hintergrund. Lwd. Gr.94X78 cm. S. R. Signiert 1886,84,94.9,False,positional,HANS MEID,,,,Sec. XIX
 BO0624_88682,449065,18,17,"Felsige Kustenlandshaft mit einer Shlaht, Trahten des siebzehnten Jahrhunderts. Holz. Gr.38×58 cm.G.R.Signiert.",90,98.6,False,positional,L.G. EUGENE ISABEY,,OGGETTI IN LEGNO,,
@@ -24,44 +24,44 @@ BO0624_88682,449069,22,21,Bac= und Wiesenlandshaft. Lwd. Gr.5ox6o cm. S.R. Signi
 BO0624_88682,449070,23,1865,",1924",116,61.5,False,positional,FRANZ IUTTNER,,,,Sec. XX
 BO0624_88682,449071,24,1846,1927,122,61.5,False,positional,ERNST KOERNER,,,,Sec. XX
 BO0624_88682,449072,25,1846,1916,133,61.5,False,positional,RUDOLPH HIRTH DU FRENES,,,,Sec. XX
-BO0624_88682,449073,26,27,Herbstwald. Pappe. Gr.38x38 cm.G.R. Signiert. 1889,135,91.1,False,positional,RUDOLPH HIRTH DU FRENES,,,,Sec. XIX
+BO0624_88682,449073,26,27,Herbstwald. Pappe. Gr.38x38 cm.G.R. Signiert. 1889,135,91.1,False,none,,,,,Sec. XIX
 BO0624_88682,449074,27,28,Pferderennen in Karlshorst. Lwd. Gr.55X75 cm. G.R. Monogramm. 1916,141,93.3,False,positional,FRIEDRICH KAISER,,,,Sec. XX
 BO0624_88682,449075,28,29,Der alte Judenkirdhof in Prag. Dedfarben. Gr. 52X69 cm. G.-R. Signiert.,148,97.7,False,positional,RUDOLPH HIRTH DU FRENES,,,,
-BO0624_88682,449076,29,30,"Herbst; Buhenwald, ein lesendes Madhen als Staffage. Lwd. Gr. 7iX46 cm. G.R. 1905",149,94.5,False,positional,RUDOLPH HIRTH DU FRENES,,,,Sec. XX
+BO0624_88682,449076,29,30,"Herbst; Buhenwald, ein lesendes Madhen als Staffage. Lwd. Gr. 7iX46 cm. G.R. 1905",149,94.5,False,none,,,,,Sec. XX
 BO0624_88682,449077,30,31,Handstudie. Blei. Gr.14Xi1 cm. S.L. Signiert.,155,96.4,False,positional,ADOLPH VON MENZEL,,OGGETTI IN PIOMBO,,
 BO0624_88682,449078,31,1822,"1890 Judin in rotem Rock, aus Tripolis. Malpappe. Gr.38X21 cm, G.=R.",165,95.1,False,positional,WILHELM GENTZ,,,,Sec. XIX
 BO0624_88682,449079,32,1823,1900,174,61.5,False,positional,HERMANN ESCHKE,Scuola di Monaco,,,Sec. XX
 BO0624_88682,449080,33,1839,1882,195,61.5,False,positional,CHRISTIAN WILBERG,,,,Sec. XIX
-BO0624_88682,449081,34,44,Herbst im Park. Lwd. Gr. 40X55 cm. GR. Signiert und datiert 1874.,197,97.5,False,positional,CHRISTIAN WILBERG,,,,Sec. XIX
-BO0624_88682,449082,35,2,*45.Alter Gang in Hamburg. Lwd. Gr. 26Xz1 cm. G#R. Signiert und datiert 72.,198,98.6,False,positional,CHRISTIAN WILBERG,,,,
+BO0624_88682,449081,34,44,Herbst im Park. Lwd. Gr. 40X55 cm. GR. Signiert und datiert 1874.,197,97.5,False,none,,,,,Sec. XIX
+BO0624_88682,449082,35,2,*45.Alter Gang in Hamburg. Lwd. Gr. 26Xz1 cm. G#R. Signiert und datiert 72.,198,98.6,False,none,,,,,
 BO0624_88682,449083,36,1821,1870,202,61.5,False,positional,CHARLES HOGUET,Scuola di Dusseldorf,,,Sec. XIX
 BO0624_88682,449084,37,18181868,"- *47.Zwei Eichen. Aquarell, Gr. 32X34 cm. G,R. Datiert 6. Nov. Mit NachlaB-Stempel.",208,100.0,False,positional,EDUARD HILDEBRANDT,,STAMPE E INCISIONI,,
 BO0624_88682,449085,38,1834,1906,219,61.5,False,positional,FRITZ STURM,,,,Sec. XX
 BO0624_88682,449086,39,23,X70cm.G.=R.,230,90.0,False,positional,CHRISTIAN WILBERG,,,,
 BO0624_88682,449087,40,1818,1868,247,61.5,False,positional,EDUARD HILDEBRANDT,,,,Sec. XIX
 BO0624_88682,449088,41,1807,1878,253,61.5,False,positional,FRIEDRICH NERLY,,,,Sec. XIX
-BO0624_88682,449089,42,58,"Venedig; Einfahrt in den Canale grande. GroBe Stadtansicht mit reicher Staffage von Segelbooten, Gondeln und kleinen Kahnen. Redhts Dogenpalast und Piazzetta, links Santa Maria della Salute. Lwd. Gr. 8oxizo cm. G.R. Signiert.",255,99.3,False,positional,FRIEDRICH NERLY,,,,
+BO0624_88682,449089,42,58,"Venedig; Einfahrt in den Canale grande. GroBe Stadtansicht mit reicher Staffage von Segelbooten, Gondeln und kleinen Kahnen. Redhts Dogenpalast und Piazzetta, links Santa Maria della Salute. Lwd. Gr. 8oxizo cm. G.R. Signiert.",255,99.3,False,none,CANALE ANTONIO,,,,
 BO0624_88682,449090,43,59,"Katzenfamilie, Katze mit funf spielenden Jungen, Lwd. Gr. 45X73 cm. S. R. Signiert.",261,98.0,False,positional,JULIUS ADAM,,,,
 BO0624_88682,449091,44,6,o. Aus dem Dahauer Moor. Dorfhauser am Bad unter Pappeln. Lwd. Gr. 65x82 cm. G.-R. Signiert. Abb.Tafel6,267,99.5,False,positional,FRANZ HOCH,,,,
 BO0624_88682,449092,45,1858,1924,271,61.5,False,positional,MAX THEDY,,,,Sec. XX
-BO0624_88682,449093,46,61,"Der Dorfpolitiker; ein Tishlermeister in seiner Werkstatt, die Zeitung in der Hand.Lwd. Gr.10ox70 cm. S.R. Signiert. Abb.Tafel 14",273,98.8,False,positional,MAX THEDY,,,,
+BO0624_88682,449093,46,61,"Der Dorfpolitiker; ein Tishlermeister in seiner Werkstatt, die Zeitung in der Hand.Lwd. Gr.10ox70 cm. S.R. Signiert. Abb.Tafel 14",273,98.8,False,none,,,,,
 BO0624_88682,449094,47,1835,1921,277,61.5,False,positional,FRANZ VON DEFREGGER,,,,Sec. XX
 BO0624_88682,449095,48,1851,1917,284,61.5,False,positional,WILHELM TRUBNER,,,,Sec. XX
-BO0624_88682,449096,49,63,Die Mariensaule vor dem Stift Neuburg. Lwd. Gr.46X58 cm. Signiert und datiert 1914. Abb.Tafel6,286,98.4,False,positional,WILHELM TRUBNER,,,,Sec. XX
+BO0624_88682,449096,49,63,Die Mariensaule vor dem Stift Neuburg. Lwd. Gr.46X58 cm. Signiert und datiert 1914. Abb.Tafel6,286,98.4,False,none,,,,,Sec. XX
 BO0624_88682,449097,50,1843,1912,302,61.5,False,positional,ALBERT HERTEL,,,,Sec. XX
 BO0624_88682,449098,51,1833,1904,308,61.5,False,positional,CARL BREITBACH,,,,Sec. XX
 BO0624_88682,449099,52,1832,1915,336,61.5,False,positional,FERD. GRAF HARRACH,,,,Sec. XX
 BO0624_88682,449100,53,1836,1904,343,61.5,False,positional,FRANZ VON LENBACH,,,,Sec. XX
-BO0624_88682,449101,54,74,Bildnis einer vornehmen Dame in dunklem pelzbesetzten Kostum. Holz. Gr. 1o6x7i cm.,345,98.1,False,positional,FRANZ VON LENBACH,,OGGETTI IN LEGNO,,
+BO0624_88682,449101,54,74,Bildnis einer vornehmen Dame in dunklem pelzbesetzten Kostum. Holz. Gr. 1o6x7i cm.,345,98.1,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88682,449102,55,75,Wildentenstilleben. Pappe. Gr.85X52 cm.G.R. Signiert und datiert igoo. Abb.Tafel 1 1902,355,95.1,False,positional,HEINRICH VON ZUGEL,,,,Sec. XX
 BO0624_88682,449103,56,76,Gebirgslandshaft aus dem Frankishen Jura. Blick von einem Gebirgszug auf eine Ebene mit Stadt und FluB und einen fernen Hohenzug. Holz. Gr.58x78 cm. S. R. 1907,361,97.4,False,positional,EMIL LUGO,,OGGETTI IN LEGNO,,Sec. XX
 BO0624_88682,449104,57,77,"Fisherflotte auf See, wolkiger Himmel. Holz. Gr. 2X33 cm. GR.Monogramm.",367,97.7,False,positional,THEODOR WEBER,,OGGETTI IN LEGNO,,
 BO0624_88682,449105,58,1918,- 78.Viehweide an der Havel im Fruhling. Lwd. Gr. 88x6o cm. S. R. Signiert.,373,100.0,False,positional,D.P.VAN LOKHORST,,,,
 BO0624_88682,449106,59,1825,1903,377,61.5,False,positional,HANS GUDE,,,,Sec. XX
 BO0624_88682,449107,60,1835,1921,383,61.5,False,positional,FRANZ VON DEFREGGER,,,,Sec. XX
-BO0624_88682,449108,61,8,"o. Sitzendes Bauernmadchen, braunhariges junges Madhen in einem Lehnstuhl nad rechts gewandt.Lwd. Gr.8ox54 cm. G.R. Signiert. Abb.Tafel 10",385,99.6,False,positional,FRANZ VON DEFREGGER,,,,
+BO0624_88682,449108,61,8,"o. Sitzendes Bauernmadchen, braunhariges junges Madhen in einem Lehnstuhl nad rechts gewandt.Lwd. Gr.8ox54 cm. G.R. Signiert. Abb.Tafel 10",385,99.6,False,none,,,,,
 BO0624_88682,449109,62,1838,1919,390,61.5,False,positional,ALEXANDER WAGNER,,,,Sec. XX
-BO0624_88682,449110,63,81,"Ungarische Heuernte. Heuwagen mit zwei weiben Ohsen auf dem Felde. Lwd. Gr.126x94 cm. G,R. Signiert. Abb.Tafel 13",392,98.6,False,positional,ALEXANDER WAGNER,,,,
+BO0624_88682,449110,63,81,"Ungarische Heuernte. Heuwagen mit zwei weiben Ohsen auf dem Felde. Lwd. Gr.126x94 cm. G,R. Signiert. Abb.Tafel 13",392,98.6,False,none,,,,,
 BO0624_88682,449111,64,1844,1894,396,61.5,False,positional,CHRISTIAN LUDWIG BOKELMANN,,,,Sec. XIX
 BO0624_88682,449112,65,1852,1903,402,61.5,False,positional,PAUL FLICKEL,,,,Sec. XX
 BO0624_88682,449113,66,84,"Drei Knaben im Bade, blauer Abend. Lwd.Gr.38x53 cm. G.R. Signiert. 1910",410,93.8,False,positional,LUDWIG VON HOFMANN,,,,Sec. XX
@@ -70,18 +70,18 @@ BO0624_88682,449115,68,86,"Bildnis einer eleganten jungen Frau mit Hut im Sessel
 BO0624_88682,449116,69,87,Angenehmer Besuh. Senner und Sennerin auf der AIm. Lwd. Gr.116x75 cm.S. R. Signiert.,433,92.0,False,positional,EMIL RAU,,,,
 BO0624_88682,449117,70,88,Liebespaar im Kornfeld. Lwd. Gr.10oXi45 cm. G.R. Signiert. Abb.Tafel 8 Hauptbild des Meisters aus dem Ende der neunziger Jahre.,440,98.8,False,positional,LUDWIG DETTMANN,,,,
 BO0624_88682,449118,71,1818,1868,443,61.5,False,positional,EDUARD HILDEBRANDT,,,,Sec. XIX
-BO0624_88682,449119,72,8,g.Kuste in Siam mit mehreren Fisherkahnen und Eingeborenen. Lwd Gr.5ix65 cm. G.=R.Signiert.,445,99.4,False,positional,EDUARD HILDEBRANDT,,,,
+BO0624_88682,449119,72,8,g.Kuste in Siam mit mehreren Fisherkahnen und Eingeborenen. Lwd Gr.5ix65 cm. G.=R.Signiert.,445,99.4,False,none,,,,,
 BO0624_88682,449120,73,1829,1910,457,61.5,False,positional,LUDWIG KNAUS,,,,Sec. XX
 BO0624_88682,449121,74,18271895,- *96. Liegende Kuh. Ol auf Pappe. Gr. 11Xi7 cm. S. L. Signiert A.B.,479,100.0,False,positional,ALBERT BRENDEL,,,,
 BO0624_88682,449122,75,10,"o. Brussa, Blidk vom Hugel auf die Stadt. Aquarell. Gr. 23X32 cm. G.-L. Signiert und dat.:29.4.73.",488,98.9,False,positional,ERNST KOERNER,,,,
-BO0624_88682,449123,76,101,"Brussa, Blidk in eine Strabe. Apuarell. Gr. 2zX25 cm. G,L. Sign.u, dat.: 29. 4.73.",490,97.3,False,positional,ERNST KOERNER,,,,
-BO0624_88682,449124,77,102,"Mutadie bei Brussa. Aquarell. Gr. 23X31 cm, G.-L. Signiert und datiert: 29.4.73.",492,97.3,False,positional,ERNST KOERNER,,,,
-BO0624_88682,449125,78,103,Fruchtstilleben. Gr.34X49 cm. G.R. Signiert: E.K. Capri 12.10.74.,494,96.7,False,positional,ERNST KOERNER,,,,
-BO0624_88682,449126,79,104,Palmen auf Capri. Aquarell. Gr. 29Xz2 cm. G.-L. Sign.u. dat.: Capri 2o.10. 74 E.K. 1900,496,94.0,False,positional,ERNST KOERNER,,,,Sec. XX
+BO0624_88682,449123,76,101,"Brussa, Blidk in eine Strabe. Apuarell. Gr. 2zX25 cm. G,L. Sign.u, dat.: 29. 4.73.",490,97.3,False,none,,,,,
+BO0624_88682,449124,77,102,"Mutadie bei Brussa. Aquarell. Gr. 23X31 cm, G.-L. Signiert und datiert: 29.4.73.",492,97.3,False,none,,,,,
+BO0624_88682,449125,78,103,Fruchtstilleben. Gr.34X49 cm. G.R. Signiert: E.K. Capri 12.10.74.,494,96.7,False,none,,,,,
+BO0624_88682,449126,79,104,Palmen auf Capri. Aquarell. Gr. 29Xz2 cm. G.-L. Sign.u. dat.: Capri 2o.10. 74 E.K. 1900,496,94.0,False,none,,,,,Sec. XX
 BO0624_88682,449127,80,105,Hugellandshaft mit Washerinnen am Bah. Lwd. Gr. 42X54 cm. S. R. Signiert. 1882,502,93.6,False,positional,ANTOINE VOLLON,,,,Sec. XIX
 BO0624_88682,449128,81,106,Saal in der Villa Colonna. Lwd. Gr.R. Signiert und datiert: Weihnahten 77.,508,97.2,False,positional,CHRISTIAN WILBERG,,,,
 BO0624_88682,449129,82,1819,1877,516,61.5,False,positional,GUSTAVE COURBET,,,,Sec. XIX
-BO0624_88682,449130,83,108,Waldige Felsschlucht in den Argonnen. Lwd. Gr.45X55 cm. G.R. Signiert 1890,518,93.5,False,positional,GUSTAVE COURBET,,,,Sec. XIX
+BO0624_88682,449130,83,108,Waldige Felsschlucht in den Argonnen. Lwd. Gr.45X55 cm. G.R. Signiert 1890,518,93.5,False,none,,,,,Sec. XIX
 BO0624_88682,449131,84,109,Pferde in der Koppel. Lwd. Gr.47X57 cm. G.#R. Signiert. 1925,524,91.6,False,positional,CARL STEFFECK,,,,Sec. XX
 BO0624_88682,449132,85,110,"Der bose Reide und der arme Lazarus. Grobe durchgefuhrte Zeicnung, mit Aquarell und Farbstiften koloriert. Unten rechts sechs Zeilen des Bibeltextes. Gr.58X78 cm. G.=R. Signiert.",530,98.8,False,positional,LOVIS CORINTH,,,,
 BO0624_88682,449133,86,111,Sturmisher Tag am Chiemsee. Malpappe. Gr.36X59 cm. S. R. Signiert.,536,96.8,False,positional,JOSEPH WOPFNER,,,,
@@ -89,7 +89,7 @@ BO0624_88682,449134,87,112,"Reitkneht, ein Pferd haltend, in einer shattigen All
 BO0624_88682,449135,88,1802,1855 1921,565,77.8,False,positional,EUGEN BRACHT,,,,Sec. XIX
 BO0624_88682,449136,89,1803,1892,575,61.5,False,positional,EDUARD BIERMANN,,,,Sec. XIX
 BO0624_88682,449137,90,1807,1863,590,61.5,False,positional,JOH. WILH. SCHIRMER,,,,Sec. XIX
-BO0624_88682,449138,91,121,"Gebirgsbah, Spatsommer. Lwd. Gr.48x63 cm. G.R.",592,95.3,False,positional,JOH. WILH. SCHIRMER,,,,
+BO0624_88682,449138,91,121,"Gebirgsbah, Spatsommer. Lwd. Gr.48x63 cm. G.R.",592,95.3,False,none,,,,,
 BO0624_88682,449139,92,122,"Im Park Conti—Torlonia zu Frascati, Terrassengang, drei Damen als Staffage. Lwd. Gr.46X70 cm. G.R. Signiert und datiert 1874. Abb.Tafel 15",596,98.5,False,positional,ASCAN LUTTEROTH,,,,Sec. XIX
 BO0624_88682,449140,93,126,"Waldbach, Sommer. Lwd. Gr. 5oX65 cm. G.-R. Signiert. Mit Nahlab=Stempel.",606,96.9,False,positional,EDUARD HILDEBRANDT,,STAMPE E INCISIONI,,
 BO0624_88682,449141,94,127,Brustbild eines braunhaarigen Tirolermadhens nadh links. Holz. Gr. 6ox5o cm. G.-R. Signiert und datiert 1912.,610,83.5,False,positional,FRANZ VON DEFREGGER,,OGGETTI IN LEGNO,,Sec. XX
@@ -98,37 +98,37 @@ BO0624_88682,449143,96,129,"Fruhlingswehen. Im Vordergrund ein junges Madhen, ei
 BO0624_88682,449144,97,130,Der heilige Martin teilt seinen Mantel mit dem Bettler. Pappe. Gr. 74X54 cm. S. R. Signiert. Abb.Tafel9 1891,627,95.5,False,positional,FRANZ VON DEFREGGER,,,,Sec. XIX
 BO0624_88682,449145,98,131,"Herbstlider Wald, Spatnahmittag. Lwd.Gr. 5oX65 cm. G.R. Signiert.",632,96.7,False,positional,LEON GERMAIN PELOUSE,,,,
 BO0624_88682,449146,99,137,Zwei Junglinge und tanzende Bacdantinnen; hinten Gebirgslandshaft. Lwd. GroBe,648,97.4,False,positional,LUDWIG VON HOFMANN,,,,
-BO0624_88682,449147,100,2,6gx87 cm. G.R. Monogrammiert. Abb.Tafel 6,649,97.4,False,positional,LUDWIG VON HOFMANN,,,,
+BO0624_88682,449147,100,2,6gx87 cm. G.R. Monogrammiert. Abb.Tafel 6,649,97.4,False,none,,,,,
 BO0624_88682,449148,101,1846,1925,653,61.5,False,positional,EDUARD GRUTZNER,,,,Sec. XX
-BO0624_88682,449149,102,138,"Ein feiner Kunstkenner: Kardinal bei Betradhtung eines Gemaldes, Kniestudk. Lwd.",656,97.4,False,positional,EDUARD GRUTZNER,,,,
+BO0624_88682,449149,102,138,"Ein feiner Kunstkenner: Kardinal bei Betradhtung eines Gemaldes, Kniestudk. Lwd.",656,97.4,False,none,,,,,
 BO0624_88682,449150,103,139,"Bildnis eines Herrn in schwarz Burgermeister Sdroder), ein Buch in der linken Hand. Im Lehnstuhl sitzend. Kniestudk. Pappe. Gr. 68x52 cm. S. R. Signiert und datiert 1891. Abb.Tafel 16",660,98.9,False,positional,FRANZ VON LENBACH,,,,Sec. XIX
 BO0624_88682,449151,104,140,Alter Hirt mit Shafherde und Hund. Holz. Gr. 64X53 cm. G.R. Signiert C T.,664,97.1,False,positional,CONSTANTIN TROYON,,OGGETTI IN LEGNO,,
-BO0624_88682,449152,105,1810,1865,666,61.5,False,positional,CONSTANTIN TROYON,,,,Sec. XIX
+BO0624_88682,449152,105,1810,1865,666,61.5,False,none,,,,,Sec. XIX
 BO0624_88682,449153,106,1850,1920,673,61.5,False,positional,FRITZ AUGUST VON KAULBACH,,,,Sec. XX
-BO0624_88682,449154,107,141,Dame mit zwei Konig-Karlshundhen. Lwd. Gr. 64X43 cm. S. R. Signiert und datiert Abb.Tafel 14,675,89.6,False,positional,FRITZ AUGUST VON KAULBACH,,,,
+BO0624_88682,449154,107,141,Dame mit zwei Konig-Karlshundhen. Lwd. Gr. 64X43 cm. S. R. Signiert und datiert Abb.Tafel 14,675,89.6,False,none,,,,,
 BO0624_88682,449155,108,142,"Der Verdadht."" Drei Burschen und ein junges Madden in lebhaftem Gesprah am Tishe. Kniestudke. Lwd. Gr. goXi1o cm. G.R. Signiert und datiert 16. Abb.Tafel 4",680,98.6,False,positional,FRANZ VON DEFREGGER,,,,
 BO0624_88682,449156,109,143,Vesper. Zwei Franziskanermonde beim Vesperbrot. Lwd. Gr. 6ox5o cm. S.R.,684,97.0,False,positional,EDUARD GRUTZNER,,,,
 BO0624_88682,449157,110,144,"In einer oberbayrischen Bauernstube sitzt eine Grobmutter, vor ihr eine Wiege mit einem Kinde. Malpappe.Gr.7ox8o cm. G.=R. Signiert. Abb.Tafel11",691,75.4,False,positional,HANS BEST,,,,
-BO0624_88682,449158,111,145,Brustbild eines Herrn in weibem Vollbart nadh links. Holz. Gr. 6oX5o cm. S. R. Signiert.,693,97.6,False,positional,HANS BEST,,OGGETTI IN LEGNO,,
+BO0624_88682,449158,111,145,Brustbild eines Herrn in weibem Vollbart nadh links. Holz. Gr. 6oX5o cm. S. R. Signiert.,693,97.6,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88682,449159,112,146,"Ein alter Gemsjager; Kniestuk. Lwd. Gr. 108x82 cm. G,R. Signiert. Abb.Tafel 14",697,87.2,False,positional,FRANZ VON DEFREGGER,,,,
-BO0624_88682,449160,113,147,"Tiroler Madden mit rotem Halstud, Brustbild nad links. Holz. Gr. 17X13 cm. G.R. 1918",699,94.2,False,positional,FRANZ VON DEFREGGER,,OGGETTI IN LEGNO,,Sec. XX
+BO0624_88682,449160,113,147,"Tiroler Madden mit rotem Halstud, Brustbild nad links. Holz. Gr. 17X13 cm. G.R. 1918",699,94.2,False,none,,,OGGETTI IN LEGNO,,Sec. XX
 BO0624_88682,449161,114,148,"Ein Konigstigerpaar in shneebededkter Ebene; in der Ferne fieht ein Rudel Wofe, Sonnenuntergang. Lwd. Gr. 5oXioo cm. G.L. Signiert und datiert: Brln 1. 89.",705,98.6,False,positional,RICHARD FRIESE,,,,
 BO0624_88682,449162,115,149,"Brustbild eines Tirolerburschen mit federgeschmudktem Hut, die Pfeife im Mund. Holz. Gr.33X25cm.G.=R,",709,98.0,False,positional,FRANZ VON DEFREGGER,,OGGETTI IN LEGNO,,
 BO0624_88682,449163,116,150,Knedt und Kalber in der Morgenfruhe. Lwd. Gr.36X45 cm. G.R. Signiert.,715,97.0,False,positional,HEINRICH VON ZUGEL,,,,
 BO0624_88682,449164,117,151,"Mondnadht, Bach, von Baumen umstanden,im Hintergrund Wald, Wolkenhimmel. Lwd. Gr.4ox77 cm. G.R. Signiert und datiert 97. 1879",724,96.1,False,positional,MAURICE BLIECK,,,,Sec. XIX
 BO0624_88682,449165,118,152,Im Hof. Der Hof eines malerishen franzosishen Bauernhauses mit Durhblick auf,730,97.4,False,positional,LOUIS ADOLPHE HERVIER,,,,
-BO0624_88682,449166,119,2,einen Hinterhof mit Huhnern; ein Bauernmadhen als Staffage. Holz. Gr. 53X39 cm. S.R. Signiert.,731,98.9,False,positional,LOUIS ADOLPHE HERVIER,,OGGETTI IN LEGNO,,
+BO0624_88682,449166,119,2,einen Hinterhof mit Huhnern; ein Bauernmadhen als Staffage. Holz. Gr. 53X39 cm. S.R. Signiert.,731,98.9,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88682,449167,120,15,za. Der Trinkspruh des Pfarrers auf dem Hoczeitsmahl. Figurenreice Komposition.,735,98.7,False,positional,LASCH,,,,
 BO0624_88682,449168,121,152,"b.Waldlandshaft mit Staffage. Lwd. Gr. 39X58 cm, G.R. Signiert und datiert 68. 1888",740,94.7,False,positional,LEON-RICHET,,,,Sec. XIX
 BO0624_88682,449169,122,153,"Rudkkehr vom Felde; ein Hirt laBt eine Shafherde in den Stall. Holz. Gr, 45X38 cm. 1886",746,94.5,False,positional,ANTONJ MAUVE,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88682,449170,123,154,"Braune Kuh, nach rehts shreitend. Pappe. Gr. 26X38 cm. GR. Signiert und rukseitig NahlaB-Stempel,",752,81.8,False,positional,FRIEDRICH VOLTZ,,STAMPE E INCISIONI,,
 BO0624_88682,449171,124,155,Segelshiff vor Travemunde. Lwd. Gr. 8oxg8 cm. G.R. Signiert und datiert 19. 155a. Segelboote. Lwd. Gr.59X72 cm. G.R.(verletzt). Signiert und datiert 1g18.,759,98.6,False,positional,ULRICH HUBNER,,,,
 BO0624_88682,449172,125,1842,1919,763,61.5,False,positional,THEODOR HAGEN,,,,Sec. XX
-BO0624_88682,449173,126,155,b. Sonnige Wiese mit Weiden. Holz. Gr. 27X36 cm. G.-R. (verletzt）. Signiert. 1910,765,94.2,False,positional,THEODOR HAGEN,,OGGETTI IN LEGNO,,Sec. XX
+BO0624_88682,449173,126,155,b. Sonnige Wiese mit Weiden. Holz. Gr. 27X36 cm. G.-R. (verletzt）. Signiert. 1910,765,94.2,False,none,,,OGGETTI IN LEGNO,,Sec. XX
 BO0624_88682,449174,127,156,Sturmischer Tag an der normannishen Kuste; reiche Staffage von Fishern und Segel= schiffen. Lwd. Gr. 73Xioo cm. G.R. Signiert und datiert 1874. Abb.Tafel7,770,98.6,False,positional,ANDREAS ACHENBACH,,,,Sec. XIX
 BO0624_88682,449175,128,157,"/58.Zwei hollandische Winterlandshaften. Gegenstuicke, Holz. Queroval. Gr. 2oXz8 cm. G.R. Die eine bezeichnet.",774,98.1,False,positional,B.C.KOECKKOCK,,OGGETTI IN LEGNO,,
 BO0624_88682,449176,129,1840,1915,778,61.5,False,positional,GABRIEL VON MAX,,,,Sec. XX
-BO0624_88682,449177,130,159,",Antigone. Kopf eines shwarzgekleideten jungen Madchens, nah links geneigt. Lwd. Gr.43X37 cm. G.R. Signiert und bezeichnet: Antigone. Abb.Tafel14 1900",780,96.8,False,positional,GABRIEL VON MAX,,,,Sec. XX
+BO0624_88682,449177,130,159,",Antigone. Kopf eines shwarzgekleideten jungen Madchens, nah links geneigt. Lwd. Gr.43X37 cm. G.R. Signiert und bezeichnet: Antigone. Abb.Tafel14 1900",780,96.8,False,none,,,,,Sec. XX
 BO0624_88682,449178,131,160,Selbstportrat. Shwarze und weiBe Kreide. Gr. 30Xz3 cm. S. R. Signiert.,786,96.9,False,positional,WILHELM LEIBL,,,,
 BO0624_88682,449179,132,161,"Der Flotenblaser. Ein junger Mann in der Traht des siebzehnten Jahrhunderts, vor ihm ein gededkter Fruhstudkstish. Holz. Gr. gXi3 cm. G.R. Signiert. 1900",790,96.9,False,positional,OSCAR SCHMITT,,OGGETTI IN LEGNO,,Sec. XX
 BO0624_88682,449180,133,162,"Pfingstrosen in einem Korb. Lwd. Gr.37X44 cm, G,=R. Signiert. 1916",796,92.4,False,positional,ANTOINE VOLLON,,,,Sec. XX
@@ -142,23 +142,23 @@ BO0624_88682,449187,140,169,Fjordlandshaft. Lwd. Gr.36x55 cm.G.R. Signiert. 1911
 BO0624_88682,449188,141,170,Kopf eines Rehbodks. Lwd. Gr.54X34 cm. Br. R. Signiert. 1918,844,91.6,False,positional,LUDWIG VOLTZ,,,,Sec. XX
 BO0624_88682,449189,142,171,Fruhlingslandshaft. Holz. Gr.13Xz2 cm. S.R. Signiert. 1918,850,91.4,False,positional,AUGUST SPLITGERBER,,OGGETTI IN LEGNO,,Sec. XX
 BO0624_88682,449190,143,172,"StrabBe in Tunis. Malpappe. Gr. 32X25 cm. S. R. Signiert. Eisenwerk in Obershlesien. Lwd. Gr.7z2X96 cm. G,#R. Signiert.",862,67.9,False,positional,MAX FLEISCHER,,,,
-BO0624_88682,449191,144,173,Landshaft mit Windmuhle. Lwd. Gr. 65x88 cm. G.R. Signiert und datiert 1920.,863,97.2,False,positional,MAX FLEISCHER,,,,Sec. XX
+BO0624_88682,449191,144,173,Landshaft mit Windmuhle. Lwd. Gr. 65x88 cm. G.R. Signiert und datiert 1920.,863,97.2,False,none,,,,,Sec. XX
 BO0624_88682,449192,145,1859,1922,866,61.5,False,positional,HANS LOOSCHEN,,,,Sec. XX
-BO0624_88682,449193,146,175,"Im Shafstall, der Hirt laBt die Herde am Morgen aus dem Stall. Lwd. Gr.58X4o ctm. G.R.Signiert.",868,97.8,False,positional,HANS LOOSCHEN,,,,
+BO0624_88682,449193,146,175,"Im Shafstall, der Hirt laBt die Herde am Morgen aus dem Stall. Lwd. Gr.58X4o ctm. G.R.Signiert.",868,97.8,False,none,,,,,
 BO0624_88682,449194,147,176,"Eihwald mit Staage; Gewitterstimmung. Malpappe, Gr. 37X50 cm. S. R. Signiert.",874,97.2,False,positional,O.THOMASSIN,,,,
 BO0624_88682,449195,148,1865,1926,888,61.5,False,positional,WILHELM KUHNERT,,,,Sec. XX
-BO0624_88682,449196,149,179,"Lowe, nad der Mahlzeit ruhend. Malpappe. Gr. 16X24 cm. G.R. Signiert.",890,96.9,False,positional,WILHELM KUHNERT,,,,
+BO0624_88682,449196,149,179,"Lowe, nad der Mahlzeit ruhend. Malpappe. Gr. 16X24 cm. G.R. Signiert.",890,96.9,False,none,,,,,
 BO0624_88682,449197,150,18,o.Die Zugspitze. Pappe. Gr. 26x36 cm. G.R. Signiert.,896,97.9,False,positional,MAX RABES,,,,
 BO0624_88682,449198,151,181,Abendstimmung. Pastell. Gr.1oox68 cm. Holzr. Signiert. 1794,902,91.6,False,positional,LESSER URY,,,,Sec. XVIII
 BO0624_88682,449199,152,182,Bildnis einer alten Dame aus der Familie Taubert. Guashe. Hodoval. Gr. 12Xg cm. Holzr. Signiert und datiert 1797.,908,98.1,False,positional,WILHELM DAEHLING,,,,Sec. XVIII
-BO0624_88682,449200,153,183,Bildnis eines jungen Madchens aus der Familie Taubert. Guashe. Hohoval. Gr. 81/2x7/2 cm. Holzr. Signiert und datiert 1809.,909,74.7,False,positional,WILHELM DAEHLING,,,,Sec. XIX
+BO0624_88682,449200,153,183,Bildnis eines jungen Madchens aus der Familie Taubert. Guashe. Hohoval. Gr. 81/2x7/2 cm. Holzr. Signiert und datiert 1809.,909,74.7,False,none,,,,,Sec. XIX
 BO0624_88682,449201,154,184,Alpenpanorama von Aosta.Lwd. Gr.74Xi12 cm.G.R.,915,95.7,False,positional,ALBERT HERTEL,,,,
 BO0624_88682,449202,155,1804,1879,920,61.5,False,positional,GEORG HEINRICH CROLA,,,,Sec. XIX
-BO0624_88682,449203,156,184,"a, ShloB Isenburg, Westansidt des Shlosses, herbstliche Mondnacht. Lwd. Gr. 2gXzo cm. G.-R.",922,98.2,False,positional,GEORG HEINRICH CROLA,,,,
+BO0624_88682,449203,156,184,"a, ShloB Isenburg, Westansidt des Shlosses, herbstliche Mondnacht. Lwd. Gr. 2gXzo cm. G.-R.",922,98.2,False,none,,,,,
 BO0624_88682,449204,157,184,b. Brauner englisher Setter vor grunem Hintergrund. Lwd. Gr. 68x46 cm. G.R.,926,97.9,False,positional,ALBERT BRENDEL,,,,
 BO0624_88682,449205,158,184,"c.Ansidt von Tivoli, im Hintergrund ein altes Kloster, vorn Landstrabe mit Staffage.",931,98.2,False,positional,ANDREAS ACHENBACH,,,,
 BO0624_88682,449206,159,1846,1903,935,61.5,False,positional,CHARLES SCHUCH,,,,Sec. XX
-BO0624_88682,449207,160,184,"d. Waldinneres, Nahmittagsstimmung. Lwd. Gr. 28X32 cm. S. R. Signiert.",937,97.6,False,positional,CHARLES SCHUCH,,,,
+BO0624_88682,449207,160,184,"d. Waldinneres, Nahmittagsstimmung. Lwd. Gr. 28X32 cm. S. R. Signiert.",937,97.6,False,none,,,,,
 BO0624_88682,449208,161,185,"Hollandisher Herbstgarten; vor einem Hause Astern und Straucher, zwei Hollanderinnen als Staffage. Lwd. Gr.74X54 cm. S.R. Signiert.",943,98.4,False,positional,HANS HERMANN,,,,
 BO0624_88682,449209,162,185,"a. Das Gesprah; drei Manner in deutsher Renaissancetracht, der eine rot gekleidet,",948,98.1,False,positional,CLAUS MEYER,,,,
 BO0624_88682,449210,163,185,b. Markisdker Morgen; an einem Seeufer entlang wird eine Kuhherde auf die Weide,953,98.1,False,positional,JULIUS JACOB,,,,
@@ -177,20 +177,20 @@ BO0624_88682,449222,175,196,Alte Festung am Meer. Holz. Gr. 30x38 cm. G.R. Signi
 BO0624_88682,449223,176,197,"Der Arzt, einem kranken Madhen den Puls fuhlend. Lwd. Gr.zoXi5 cm. G.R.",1027,97.1,False,positional,OSKAR WISNIEWSKI,,,,
 BO0624_88682,449224,177,1881,- 45X36 cm.S. R. Signiert L. G.,1033,100.0,False,positional,LEOPOLD GUTERBOCK,,,,
 BO0624_88682,449225,178,1829,1910,1037,61.5,False,positional,LUDWIG KNAUS,,,,Sec. XX
-BO0624_88682,449226,179,199,"Bildnis des Joseph Baumgartner, Altvogt von Engelswiese &gt;, Kniestick eines Bauern in Traht. Shwarze Kreide; laviert. Gr. 61x47 cm. Holzr. Signiert und mit dem Namen des Dargestellten bezeichnet. Bekannte und wihtige Zeicnung des Meisters.",1039,99.1,False,positional,LUDWIG KNAUS,,,,
+BO0624_88682,449226,179,199,"Bildnis des Joseph Baumgartner, Altvogt von Engelswiese &gt;, Kniestick eines Bauern in Traht. Shwarze Kreide; laviert. Gr. 61x47 cm. Holzr. Signiert und mit dem Namen des Dargestellten bezeichnet. Bekannte und wihtige Zeicnung des Meisters.",1039,99.1,False,none,,,,,
 BO0624_88682,449227,180,200,Shmiede vor dem Dorf. Holz. Gr. 13X17 cm. G.-R. Signiert.,1045,96.2,False,positional,WILHELM BROCKER,,OGGETTI IN LEGNO,,
 BO0624_88682,449228,181,205,"Doice far niente, junge Dame auf einer Chaiselongue. Lwd. Gr. 43X64 cm. G.R, Signiert und datiert 1916.",1059,98.0,False,positional,JOSEF BLOCK,,,,Sec. XX
 BO0624_88682,449229,182,1849,1910,1063,61.5,False,positional,FRANZ SKARBINA,,,,Sec. XX
-BO0624_88682,449230,183,207,Herr und Diener. Malpappe. Gr.35X24 cm. G.R. Signiert:F. Sk. 1892,1066,92.3,False,positional,FRANZ SKARBINA,,,,Sec. XIX
+BO0624_88682,449230,183,207,Herr und Diener. Malpappe. Gr.35X24 cm. G.R. Signiert:F. Sk. 1892,1066,92.3,False,none,,,,,Sec. XIX
 BO0624_88682,449231,184,208,"Kronprinz Friedrid Wilhelm in der Shlaht bei WeiBenburg.Tuschzeichnung. Gr. 5ox58 cm,",1072,97.6,False,positional,GEORG BLEIBTREU,,,,
 BO0624_88682,449232,185,209,Wiesenlandschaft mit Hasen; im Hintergrund eine Prozession. Lwd. Gr. 75x64 cm. G.=R.Signiert.,1079,97.7,False,positional,G.VON MAFFEI,,,,
 BO0624_88682,449233,186,210,"Bauernwirtsstube. Holz. Gr.2331 cm. G.R. Signiert,",1083,95.7,False,positional,RUDOLPH HIRTH DU FRENES,,OGGETTI IN LEGNO,,
 BO0624_88682,449234,187,211,"Am Fruhstuckstish. Ein alter Forster mit seiner Todhter und seinem jungen verwundeten Sohn, der feldgraue UIniform tragt, beim Fruhstudk.Halbfiguren. Gr.1ooXi24 cm. G.R.",1089,98.8,False,positional,CARL SPIELTER,,,,
 BO0624_88682,449235,188,1842,1921,1093,61.5,False,positional,THEMISTOKLES VON ECKENBRECHER,,,,Sec. XX
-BO0624_88682,449236,189,211,"a. Griehische Bergkuste mit Fischerboot und zwei Fishern. Lwd. Gr. 31 X37cm. G,=R.",1095,98.0,False,positional,THEMISTOKLES VON ECKENBRECHER,,,,
+BO0624_88682,449236,189,211,"a. Griehische Bergkuste mit Fischerboot und zwei Fishern. Lwd. Gr. 31 X37cm. G,=R.",1095,98.0,False,none,,,,,
 BO0624_88682,449237,190,213,"Das Kloster von Olevano mit Umgebung. Lwd. Gr.72Xg8 cm, G,R. Signiert,",1103,97.0,False,positional,C.HARTMANN,,,,
 BO0624_88682,449238,191,214,Shädel und Leuhter. Lwd. Gr.28X32 cm. S. R. Signiert und datiert 1739.,1109,97.0,False,positional,FISCHER,,,,Sec. XVIII
 BO0624_88682,449239,192,215,"Landshaft mit Weiher, Malpappe. Gr, 18X29 cm. S. R. Monogr. 1925",1115,92.0,False,positional,FRANZ HORADAM,,,,Sec. XX
 BO0624_88682,449240,193,216,"Entwurf zum Fresko Himmelfahrt Christi,Wandbild der Friedenskirhe zu Dusseldorf: Betende Junger und Landvolk. Papier auf Leinwand. Gr. 166X145 cm. Ohne R.",1121,98.7,False,positional,EDUARD VON GEBHARDT,,,,
-BO0624_88682,449241,194,2,"216a.,Jakobus."" Halbfigur eines shlafenden Mannes, Abendstimmung. Studie zu Christus am Oiberg"". Holz. Gr.72x67 cm. S. R. Signiert und mit Notiz.",1122,99.3,False,positional,EDUARD VON GEBHARDT,,OGGETTI IN LEGNO,,
-BO0624_88682,449242,195,3,Sign.und dat.1862.,1123,94.4,False,positional,EDUARD VON GEBHARDT,,,,Sec. XIX
+BO0624_88682,449241,194,2,"216a.,Jakobus."" Halbfigur eines shlafenden Mannes, Abendstimmung. Studie zu Christus am Oiberg"". Holz. Gr.72x67 cm. S. R. Signiert und mit Notiz.",1122,99.3,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88682,449242,195,3,Sign.und dat.1862.,1123,94.4,False,none,,,,,Sec. XIX

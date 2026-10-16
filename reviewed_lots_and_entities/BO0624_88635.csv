@@ -1,24 +1,24 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88635,361569,1,1,APOLLO UND HYACINTHUS.Lwd.Gr.46X35 cm.G.R.,13,97.6,False,positional,,,HOLZSKULPTUREN,,
 BO0624_88635,361570,2,2,3.ZWEI VENEZIANISCHE STADTANSICHTEN.Lwd.Gr.31X22 cm.G.R.,17,98.2,False,positional,JAC.MARIESCHI,,,,
-BO0624_88635,361571,3,4,ZWEI HUNDE IM ZIMMER. Holz.Gr.19X24 cm. S.R. Signatur unleserlih.,21,98.4,False,positional,JAC.MARIESCHI,,OGGETTI IN LEGNO,,
-BO0624_88635,361572,4,5,DORF MIT MUHLE AM BACH.Holz.Gr.38X46cm.S.R.,25,97.7,False,positional,JAC.MARIESCHI,,OGGETTI IN LEGNO,,
+BO0624_88635,361571,3,4,ZWEI HUNDE IM ZIMMER. Holz.Gr.19X24 cm. S.R. Signatur unleserlih.,21,98.4,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88635,361572,4,5,DORF MIT MUHLE AM BACH.Holz.Gr.38X46cm.S.R.,25,97.7,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88635,361573,5,6,"DIE SCHLAFENDE DIANA MIT NYMPHEN,von einem Satyr iberrascht.Lwd. Gr.28X36 cm. S. R.",29,98.8,False,positional,CORNELIS POELENBURGH,,,,
-BO0624_88635,361574,6,7,REITERKAMPF an einer Brudke.Holz. Gr.48X117 cm.S.R.,33,98.0,False,positional,CORNELIS POELENBURGH,,OGGETTI IN LEGNO,,
-BO0624_88635,361575,7,8,BILDNIS EINES KLEINEN MADCHENS. Pastell. Hochoval. Gr.26X20 cm.G.R.,39,98.4,False,positional,CORNELIS POELENBURGH,,,,
+BO0624_88635,361574,6,7,REITERKAMPF an einer Brudke.Holz. Gr.48X117 cm.S.R.,33,98.0,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88635,361575,7,8,BILDNIS EINES KLEINEN MADCHENS. Pastell. Hochoval. Gr.26X20 cm.G.R.,39,98.4,False,none,,,,,
 BO0624_88635,361576,8,9,KOPF DER BUSSENDEN MAGDALENA.Lwd.Gr.38X48 cm.G.R. TALIENISCHER MEISTER,43,80.7,False,title_direct,,RHEINISCHER MEISTER,,,
-BO0624_88635,361577,9,10,GROSSES STILLEBEN mit Obst vor einem architektonischen Hintergrund. Lwd. Gr.76X94 cm. S.R.,49,98.3,False,positional,CARLO DOLCI,,,,
+BO0624_88635,361577,9,10,GROSSES STILLEBEN mit Obst vor einem architektonischen Hintergrund. Lwd. Gr.76X94 cm. S.R.,49,98.3,False,none,,,,,
 BO0624_88635,361578,10,11,"BILDNIS EINES HERRN IN SCHWARZER TRACHT,mit Buchern. Auf dem Rudken cines Buches",52,98.1,False,positional,JOHN OPIE,,,,
-BO0624_88635,361579,11,2,ein lateinischer Vers.Lwd.Gr.75X54cm.G.R.,53,97.6,False,positional,JOHN OPIE,,,,
+BO0624_88635,361579,11,2,ein lateinischer Vers.Lwd.Gr.75X54cm.G.R.,53,97.6,False,none,,,,,
 BO0624_88635,361580,12,1597,1681,57,61.5,False,positional,JUSTUS SUSTERMANS,,,,Sec. XVII
-BO0624_88635,361581,13,12,BILDNIS EINER DAME mit weiBen Federn im Haar.Halbfigur. Lwd.Gr.78x65 cm.G.R.,59,98.0,False,positional,JUSTUS SUSTERMANS,,,,
+BO0624_88635,361581,13,12,BILDNIS EINER DAME mit weiBen Federn im Haar.Halbfigur. Lwd.Gr.78x65 cm.G.R.,59,98.0,False,none,,,,,
 BO0624_88635,361582,14,14,"DOROTHEA BERGIUS, GATTIN DES SAM.HOYER VON REINHART."" Halbfgur der Dame",66,97.8,False,positional,,WESTDEUTSCHER MEISTER,,,
 BO0624_88635,361583,15,15,ORIENTALISCHER HAFEN mit Staffage. Ho1z.Gr.21X33 cm.G.R.,73,97.3,False,positional,PAULCONSTANTINLAFARGUE,,,,
 BO0624_88635,361584,16,16,STILLEBEN mit Hund.Kupfer.Gr.13X17 cm.G.R.,77,96.5,False,positional,PIETER GYZELS,,OGGETTI IN RAME,,
 BO0624_88635,361585,17,17,BLUMENSTILLEBEN.Kupfer.Gr.23X18 cm.G.R.,83,96.2,False,positional,AMBROSIUS BOSSCHAERT,,OGGETTI IN RAME,,
 BO0624_88635,361586,18,18,ITALIENISCHE LANDSCHAFT mit Hirten. Kupfer. Gr.23X30 cm.G.R.,87,97.4,False,positional,JOH.HEINRICH ROOS,,OGGETTI IN RAME,,
 BO0624_88635,361587,19,19,OBSTVERKAUFERIN. Holz.Gr.26X20 cm.AIter geschnitzter G.R.,91,97.3,False,positional,ANTOINE PESNE,,OGGETTI IN LEGNO,,
-BO0624_88635,361588,20,20,BRUSTBILD EINER JUNGEN DAME. Lwd.Gr.75X63 cm.G.R.,95,96.9,False,positional,ANTOINE PESNE,,,,
+BO0624_88635,361588,20,20,BRUSTBILD EINER JUNGEN DAME. Lwd.Gr.75X63 cm.G.R.,95,96.9,False,none,,,,,
 BO0624_88635,361589,21,21,"MARIA MIT DEM KINDE und dem hl. Joseph. Holz. Gr.63X52 cm. G. R. Aus Sammlung Vicomte de Rouffo-Bonneval, Brussel. 1661",101,96.4,False,positional,,VLAMISCHE SCHULE,OGGETTI IN LEGNO,COLLEZIONE ROUFFO-BONNEVAL,Sec. XVII
 BO0624_88635,361590,22,22,JAGDBEUTE. Ein erlegtes Reh und ein Schwan. Dabei ein Jagerbursche und zwei Ganse. Lwd.Gr.156X122 cm.G.R.,107,86.3,False,positional,JAN FYT,,,,
 BO0624_88635,361591,23,23,TURMRUINE AM WASSER. Ho1z.Gr.40X32 cm.S.R.,114,96.4,False,positional,CORNELIS DECKER,,,,
@@ -34,7 +34,7 @@ BO0624_88635,361600,32,32,WIRTSHAUSSZENE.Lwd.Gr.38X32 cm.S.R.,164,95.8,False,pos
 BO0624_88635,361601,33,33,EIN JAGDHERR mit seiner Jagdgesellschaft. Lwd. Gr.52X46 cm.S. R.,170,97.6,False,positional,SANTVOORT,,,,
 BO0624_88635,361602,34,34,35. HEROISCHE LANDSCHAFT mit Bettlerpaar.-AHNLICHE DARSTELLUNG mit Reiter. Gegenstudk zu vorigem. Lwd. Gr.34X45 cm. S.R.mit Gold. Das erste Bild tragt ein Mono,176,99.0,False,positional,,SUDDEUTSCHE SCHULE,OGGETTI IN ORO,,
 BO0624_88635,361603,35,1595,1674,181,61.5,False,positional,LEONHARD BRAMER,,,,Sec. XVII
-BO0624_88635,361604,36,36,DER JUDASKUSS. Schiefer.Gr.54X52 cm. A1ter geschnitzter G.R.,183,97.4,False,positional,LEONHARD BRAMER,,,,
+BO0624_88635,361604,36,36,DER JUDASKUSS. Schiefer.Gr.54X52 cm. A1ter geschnitzter G.R.,183,97.4,False,none,,,,,
 BO0624_88635,361605,37,37,HOLLANDISCHE FLUSSLANDSCHAFT mit Kahnen.Holz.Gr.22X39 cm.S.R.,188,97.6,False,positional,ANTONIE VANCROOS,,OGGETTI IN LEGNO,,
 BO0624_88635,361606,38,38,MONDSCHEINLANDSCHAFT mit Burg.Holz.Gr.46X63 cm.G.R.,194,97.1,False,positional,AERT VAN DER NEER,,OGGETTI IN LEGNO,,
 BO0624_88635,361607,39,39,FRAUEN UND KINDER in einem parkartigen Garten. Lwd. Gr.46X55 cm.G.R. 1759,200,94.2,False,positional,MARGUERITE GERARD,,,,Sec. XVIII
@@ -51,33 +51,33 @@ BO0624_88635,361617,49,49,"DIE ERZHERZOGIN MARIA AMALIA, spatere Konigin von Spa
 BO0624_88635,361618,50,50,KOPF EINER ALTEN mit turbanartigem Kopftuch. Holz.Gr. 32X27 cm. G.R. 1705,273,94.1,False,positional,ADRIAEN VAN DE VENNE,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88635,361619,51,51,WALDHUGEL MIT BAUERNHAUS UND AUSBLICK AUF HAARLEM;Figuren-Staffage. Holz. Gr.47X64 cm.G.R.Sign. 1747,279,95.8,False,positional,JANVANDER MEERVAN HAARLEM,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88635,361620,52,52,LANDSCHAFT mit groBem Baum.Lwd.Gr.73X68 cm.G.R. Abbildung Tafel 23.,285,97.7,False,positional,ALESSANDRO MAGNASCO,,,,
-BO0624_88635,361621,53,53,"DIE VERTREIBUNG AUS DEM PARADIES. Ho1z. Gr.48X40 cm. A1ter, geschnitzter G.R.",289,98.0,False,positional,ALESSANDRO MAGNASCO,,,,
-BO0624_88635,361622,54,2,"Aus Sammlung des Herzogs von Rutland; bei Waagen, Kunstwerke in England erwahnt.",290,98.7,False,positional,ALESSANDRO MAGNASCO,,,COLLEZIONE DEL DUCA DI RUTLAND,
+BO0624_88635,361621,53,53,"DIE VERTREIBUNG AUS DEM PARADIES. Ho1z. Gr.48X40 cm. A1ter, geschnitzter G.R.",289,98.0,False,none,,,,,
+BO0624_88635,361622,54,2,"Aus Sammlung des Herzogs von Rutland; bei Waagen, Kunstwerke in England erwahnt.",290,98.7,False,none,,,,COLLEZIONE DEL DUCA DI RUTLAND,
 BO0624_88635,361623,55,1576,1639,294,61.5,False,positional,ROELANT SAVERY,,,,Sec. XVII
-BO0624_88635,361624,56,54,DIE SINTFLUT. Bewaldete Landschaft mit Ruine und vielen Tieren. Gewitterhimmel. Lwd. Gr.76X106cm.S.R.,296,98.5,False,positional,ROELANT SAVERY,,,,
+BO0624_88635,361624,56,54,DIE SINTFLUT. Bewaldete Landschaft mit Ruine und vielen Tieren. Gewitterhimmel. Lwd. Gr.76X106cm.S.R.,296,98.5,False,none,,,,,
 BO0624_88635,361625,57,55,BRUSTBILD EINES BRAUNLOCKIGEN KNABEN nach 1inks. Holz.Gr.35X32 cm.G.R.Sign.,302,98.0,False,positional,PIETER VERELST,,OGGETTI IN LEGNO,,
-BO0624_88635,361626,58,2,und dat. 1648.Mit Gutachten von Dir.Dr.M.J. Binder.,303,98.0,False,positional,PIETER VERELST,,,,Sec. XVII
+BO0624_88635,361626,58,2,und dat. 1648.Mit Gutachten von Dir.Dr.M.J. Binder.,303,98.0,False,none,,,,,Sec. XVII
 BO0624_88635,361627,59,1732,1797,307,61.5,False,positional,JANUARIUS ZICK,,,,Sec. XVIII
-BO0624_88635,361628,60,56,DIE BEFREIUNG PETRI DURCH DEN ENGEL.Ho1z. Gr.38X28 cm.G.R. 1741,309,93.3,False,positional,JANUARIUS ZICK,,,,Sec. XVIII
+BO0624_88635,361628,60,56,DIE BEFREIUNG PETRI DURCH DEN ENGEL.Ho1z. Gr.38X28 cm.G.R. 1741,309,93.3,False,none,,,,,Sec. XVIII
 BO0624_88635,361629,61,57,"GROSSER BLUMENSTRAUSS von Rosen,Mohn,Paonien,Lilien und anderen Blumen in Glasvase.",315,98.2,False,positional,HERMANVANDER MYN,,,,
-BO0624_88635,361630,62,58,DIE DARSTELLUNG IM TEMPEL.Ho1z.Gr.36X31 cm. S.R.,322,96.8,False,positional,HERMANVANDER MYN,,,,
+BO0624_88635,361630,62,58,DIE DARSTELLUNG IM TEMPEL.Ho1z.Gr.36X31 cm. S.R.,322,96.8,False,none,,,,,
 BO0624_88635,361631,63,1655,1743,337,61.5,False,positional,VITTORE GHISLANDI; FRA GALGARIO,,,,Sec. XVIII
-BO0624_88635,361632,64,60,BILDNIS EINES MANNES in rotem Mantel.Lwd. Gr.100X82 cm. G.R.,339,97.4,False,positional,VITTORE GHISLANDI; FRA GALGARIO,,,,
+BO0624_88635,361632,64,60,BILDNIS EINES MANNES in rotem Mantel.Lwd. Gr.100X82 cm. G.R.,339,97.4,False,none,,,,,
 BO0624_88635,361633,65,61,DAS JUNGSTE GERICHT. Holz. Gr.39X30 cm.Oben abgerundet. G.R. 1535,345,93.3,False,positional,BARTHEL BRUYN,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88635,361634,66,62,"MARIA MIT DEM KINDE UND HEILIGEN, Ha1bfiguren. Holz. Gr.50X50 cm.Geschn.G.R. 1650",351,94.7,False,positional,GIROLAMO DEL PACCHIA,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88635,361635,67,63,BILDNIS EINER DAME in Schwarz. Brustbild. Lwd.Gr.62X52 cm.Geschn.G.R. Abbildung Tafel 14.,357,98.3,False,positional,ABRAHAMDEVRIES,,,,
 BO0624_88635,361636,68,1633,1686,361,61.5,False,positional,F.MOUCHERON; ADRIAEN VAN DE VELDE,,,,Sec. XVII
-BO0624_88635,361637,69,1635,1672,363,61.5,False,positional,F.MOUCHERON; ADRIAEN VAN DE VELDE,,,,Sec. XVII
-BO0624_88635,361638,70,64,LANDSCHAFT mit Figuren und Vieh. Hoiz. Gr. 61x74 cm.Aiter geschn. G.R. Von beiden Malern sign. und dat. 1658. Aus den Sammlungen Colonel Hayward und Sir Prior Goldney.,365,99.1,False,positional,F.MOUCHERON; ADRIAEN VAN DE VELDE,,,COLLEZIONE HAYWARD E GOLDNEY,Sec. XVII
+BO0624_88635,361637,69,1635,1672,363,61.5,False,none,,,,,Sec. XVII
+BO0624_88635,361638,70,64,LANDSCHAFT mit Figuren und Vieh. Hoiz. Gr. 61x74 cm.Aiter geschn. G.R. Von beiden Malern sign. und dat. 1658. Aus den Sammlungen Colonel Hayward und Sir Prior Goldney.,365,99.1,False,none,,,,COLLEZIONE HAYWARD E GOLDNEY,Sec. XVII
 BO0624_88635,361639,71,1509,1575,369,61.5,False,positional,JAN MATSYS,,,,Sec. XVI
 BO0624_88635,361640,72,1520,1578,381,61.5,False,positional,GIOV.BATTISTA MORONI,,,,Sec. XVI
-BO0624_88635,361641,73,67,BILDNIS EINES HERRN. Lwd. Gr.48X37 cm. Geschn. G.R. Aus der Sammlung des Sir,383,97.9,False,positional,GIOV.BATTISTA MORONI,,,COLLEZIONE THOMAS BARING,
+BO0624_88635,361641,73,67,BILDNIS EINES HERRN. Lwd. Gr.48X37 cm. Geschn. G.R. Aus der Sammlung des Sir,383,97.9,False,none,,,,COLLEZIONE THOMAS BARING,
 BO0624_88635,361642,74,68,INNERES VON ST.BAVO IN HAARLEM. Lwd. Gr.97X50 cm. Geschn. G.R.,390,97.4,False,positional,IZAAK VAN NIKKELEN,,,,
 BO0624_88635,361643,75,1620,1682,394,61.5,False,positional,JAN VICTORS,,,,Sec. XVII
 BO0624_88635,361644,76,1643,1706,400,61.5,False,positional,GODFRID SCHALCKEN,,,,Sec. XVIII
-BO0624_88635,361645,77,70,"DIE LIEBESERKLARUNG; ein junges,leicht bekleidetes Madchen und ein junger Mann, Halb",403,98.2,False,positional,GODFRID SCHALCKEN,,,,
+BO0624_88635,361645,77,70,"DIE LIEBESERKLARUNG; ein junges,leicht bekleidetes Madchen und ein junger Mann, Halb",403,98.2,False,none,,,,,
 BO0624_88635,361646,78,71,72. ZWEI WIRTSHAUSSZENEN. Ho1z.Gr.je 121/X15 cm.Braune R.Gegenstucke.,413,97.8,False,positional,JOH. ADAM FASSAUER,,,,
-BO0624_88635,361647,79,73,74. BETTLERGRUPPEN. Holz.Gr.je 11X12 cm. Braune R. Sign.mit Monogr. Gegenstidke.,414,98.0,False,positional,JOH. ADAM FASSAUER,,OGGETTI IN LEGNO,,
+BO0624_88635,361647,79,73,74. BETTLERGRUPPEN. Holz.Gr.je 11X12 cm. Braune R. Sign.mit Monogr. Gegenstidke.,414,98.0,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88635,361648,80,75,LUSTIGE GESELLSCHAFT beim Austernessen.Lwd.Gr.55X72 cm.Aiter G.R.,420,97.7,False,positional,DAVID RYCKAERT III,,,,
 BO0624_88635,361649,81,78,"BILDNIS ciner blaugekleideten jungen Dame, eine schwarze Maske in der Hand. Pastell. Gr.74X60 cm.A1ter geschnitzter R. Glas gesprungen. Abbildung Tafel13",424,99.0,False,positional,J.B.PERRONEAU,,,,
 BO0624_88635,361650,82,79,MARIA MIT DEM KINDE und dem kleinen Johannes. Holz. Gr.78X62 cm. Geschnitzter G.R. Abbildung Tafel16 1740,428,96.0,False,positional,MICHIEL DE COXCIE,,OGGETTI IN LEGNO,,Sec. XVIII
@@ -88,20 +88,20 @@ BO0624_88635,361654,86,83,HEILIGER MIT MUHLSTEIN. CST.CLEMENS) Holz.Gr.136X61 cm
 BO0624_88635,361655,87,84,"BILDNIS EINER PREUSSISCHEN PRINZESSIN in meerblauer, pelzbesetzter Atlasrobe mit einem Hundchen.Lwd.Gr.140x117 cm.G.R.",457,79.8,False,positional,JOHANN GEORG ZIESENIS,,,,
 BO0624_88635,361656,88,85,INNERES EINES PHANTASTISCHEN WALDES. Ho1z.Gr.30X44 cm.G.R.,464,97.4,False,positional,ROELANT SAVERY,,,,
 BO0624_88635,361657,89,1680,bis nach 1731,474,86.7,False,positional,J.BAPT.LAMBRECHTS,,,,Sec. XVIII
-BO0624_88635,361658,90,87,GEMUSEHANDLERIN; mehrere Figuren im Hintergrund. Eichenholz.Gr.23X21 cm.G.R. 1652,476,94.8,False,positional,J.BAPT.LAMBRECHTS,,,,Sec. XVII
+BO0624_88635,361658,90,87,GEMUSEHANDLERIN; mehrere Figuren im Hintergrund. Eichenholz.Gr.23X21 cm.G.R. 1652,476,94.8,False,none,,,,,Sec. XVII
 BO0624_88635,361659,91,88,HERBSTLICHE WALDLANDSCHAFT. Holz.Gr.110X77 cm. S.R. Sign.,482,97.2,False,positional,ALEXANDER KEIRINCX,,OGGETTI IN LEGNO,,
-BO0624_88635,361660,92,89,DAS EISVERGNUGEN. Ein reich belebter hollandischer FluBlauf mit malerischen Bauten am Ufer. Lwd.Gr.122X80 cm. S.R. Sign.und datiert 1788.,488,98.9,False,positional,ALEXANDER KEIRINCX,,,,Sec. XVIII
+BO0624_88635,361660,92,89,DAS EISVERGNUGEN. Ein reich belebter hollandischer FluBlauf mit malerischen Bauten am Ufer. Lwd.Gr.122X80 cm. S.R. Sign.und datiert 1788.,488,98.9,False,none,,,,,Sec. XVIII
 BO0624_88635,361661,93,90,"ZWEI ALTARFLUGEL mit je zwei Heiligen. Vorderseiten: Katharina,Magdalena. Rudseiten: Bartholomaus, Nicolaus. Holz. Gr. 123X29 cm. A1ter H.R.",492,75.1,False,positional,MEISTER VON MESSKIRCH,,OGGETTI IN LEGNO,,
-BO0624_88635,361662,94,91,"DIE BUSSENDE MAGDALENA,1esend. Holz.Gr.34X24 cm. G.R. 1784",499,92.6,False,positional,MEISTER VON MESSKIRCH,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88635,361662,94,91,"DIE BUSSENDE MAGDALENA,1esend. Holz.Gr.34X24 cm. G.R. 1784",499,92.6,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88635,361663,95,92,DER DOM ZU UTRECHT. Stafferte Stadtansicht. Holz. Gr.35X49 cm.G.R. Ruckseitig das 1641,505,95.1,False,positional,JOHANNES JIANSON,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88635,361664,96,93,BILDNIS EINES HERRN. Holz.Gr.17X12 cm.A1ter geschnitzter und vergoldeter Barock-,512,98.1,False,positional,MICHIEL DE MIEREVELT,,OGGETTI IN LEGNO,,
-BO0624_88635,361665,97,2,rahmen mit Akanthus-Voluten.,513,96.4,False,positional,MICHIEL DE MIEREVELT,,CORNICI,,
+BO0624_88635,361665,97,2,rahmen mit Akanthus-Voluten.,513,96.4,False,none,,,CORNICI,,
 BO0624_88635,361666,98,1727,1805,517,61.5,False,positional,FRANCESCO CASANOVA,,,,Sec. XIX
-BO0624_88635,361667,99,94,"VORNEHME JAGDGESELLSCHAFT auf einem Hugel, mit weiter FluBlandschaft. Lwd. Gr.37X46 cm.A1ter G.R. AbbildungTafel4.",519,98.6,False,positional,FRANCESCO CASANOVA,,,,
+BO0624_88635,361667,99,94,"VORNEHME JAGDGESELLSCHAFT auf einem Hugel, mit weiter FluBlandschaft. Lwd. Gr.37X46 cm.A1ter G.R. AbbildungTafel4.",519,98.6,False,none,,,,,
 BO0624_88635,361668,100,95,"BLUMENSTILLEBEN; Rosen, Tulpen, Mohn usw.in Vase. Lwd. Gr.65X51 cm. G.R.Sign.",523,97.9,False,positional,ELIAS VAN DEN BROECK,,OGGETTI VARI,,
 BO0624_88635,361669,101,96,97. ZWEI ALTARFLUGEL mit je vier Darstellungen auf ornamentiertem Goldgrund: 1. GeiBelung Christi.-—Kreuztragung.-Kreuzabnahme.-Grablegung. 2. Verspottung Christi.-Kreuzi gung.—Christus in der Vorholle.-Auferstehung. Holz. Gr.je 160X95 cm. In alter Fassung. AbbildungTafel9.,529,99.4,False,positional,,LUNEBURGISCHER MEISTER,OGGETTI IN LEGNO,,
 BO0624_88635,361670,102,1623,1682,533,61.5,False,positional,PIETERWOUWERMAN,,,,Sec. XVII
-BO0624_88635,361671,103,98,"ROMISCHE STADTLANDSCHAFT mit vielen antiken Bauwerken und Ruinen,im Hintergrund und dat.1664. Mit Gutachten von Direktor Dr.M.J. Binder. Abbildung Tafel28.",535,67.8,False,positional,PIETERWOUWERMAN,Scuola Romana,STAMPE E INCISIONI,,Sec. XVII
+BO0624_88635,361671,103,98,"ROMISCHE STADTLANDSCHAFT mit vielen antiken Bauwerken und Ruinen,im Hintergrund und dat.1664. Mit Gutachten von Direktor Dr.M.J. Binder. Abbildung Tafel28.",535,67.8,False,none,,Scuola Romana,STAMPE E INCISIONI,,Sec. XVII
 BO0624_88635,361672,104,99,"DIE BELUSTIGUNG AUF DEM EISE. Holz. Gr.34X61 cm. S.R. Ausstellung von Werken alter Kunst aus Berliner Privatbesitz. Berlin 1915,Nr.7, Tafe1 18.Cicerone 1915,S.210. Kunstchronik Bd.26,S. 451. Sammlung Johannes Stumpf, Versteigerungs-Katalog 1918, Nr.56, Tafe1 18. 1656",541,98.4,False,positional,HENDRIKVAN AVERKAMP,Scuola di Berlino,OGGETTI IN LEGNO,COLLEZIONE JOHANNES STUMPF,Sec. XX
 BO0624_88635,361673,105,100,GESELLSCHAFTSSZENE.Holz.Gr.40X53 cm.S.R. Sammlung Eugen Schweitzer.,547,97.0,False,positional,DIRK HALS,,OGGETTI IN LEGNO,COLLEZIONE EUGEN SCHWEITZER,
 BO0624_88635,361674,106,101,"WIRTSHAUSSZENE. Holz.Gr.39X57 cm.G.R. Sign.J.Steen. Sammlung Johannes Stumpf, Versteigerungs~Katalog 1918,Nr. 30,Abbildung Tafe1 14. 1750",551,96.6,False,positional,JAN STEEN,,OGGETTI IN LEGNO,COLLEZIONE JOHANNES STUMPF,Sec. XX
@@ -109,31 +109,31 @@ BO0624_88635,361675,107,102,"DIE REICHE; vor einem Kamin mit groBem Spiegel, sit
 BO0624_88635,361676,108,103,"IN DER SCHMIEDE; Meister und Geselle am AmboB,am Herd der Lehrling. Holz. Gr.27 X33cm. G.R.Sign.",564,97.8,False,positional,CORNELIS BEELT,,OGGETTI IN LEGNO,,
 BO0624_88635,361677,109,104,",ANSICHT VON SALVADOR gegen den Luganer See."" Dedkfarben. Gr. 46X66 cm. A1ter G. R. Signiert:Am Luganer See Bleuler",568,98.2,False,positional,HEINRICH BLEULER,,,,
 BO0624_88635,361678,110,1599,1678,572,61.5,False,positional,PIETERCODDE,,,,Sec. XVII
-BO0624_88635,361679,111,104,a.GESELLSCHAFTSSZENE. Ho1z.Gr.39X50 cm.G.R.,574,96.5,False,positional,PIETERCODDE,,,,
+BO0624_88635,361679,111,104,a.GESELLSCHAFTSSZENE. Ho1z.Gr.39X50 cm.G.R.,574,96.5,False,none,,,,,
 BO0624_88635,361680,112,105,ZWEI ALTARFLUGEL. Links: Eine Martyrerin mit Palmenzweig und Taube. Rechts: Johannes der Taufer und die heilige Magdalena. Ha1bfiguren. Lindenholz. Gr. je 65X45 cm.Reich geschnitzter vergoldeter Tabernakelrahmen in gotischem Stil. Bildflache leicht verletzt. Samm AbbildungTafel9. lung Poulton~Nicholson. Versteigerungs~Katalog Nr.49.,580,99.4,False,positional,,UMBRISCHFLORENTINISCHE SCHULE,,,
 BO0624_88635,361681,113,105,"a. DER HEILIGE GEORG, stehend. Lindenholz. H. 100 cm. Farbig gefaBt. Siehe Tancred",584,98.0,False,positional,VALENTIN LENDENSTREICH,,Holzskulptur,,
 BO0624_88635,361682,114,105,"b. ANBETUNG DER KONIGE. Holzrelief. Holz. Gr. 48X40 cm. AIte Fassung. Sammlung Grosvenor Thomas. Siehe Tancred Borenius, Catalogue ... Viscount Lee of Fareham No.65",591,99.0,False,positional,,RHEINISCHER MEISTER,Holzskulptur,COLLEZIONE THOMAS GROSVENOR,
-BO0624_88635,361683,115,41,X51cm.G.R.,594,90.0,False,positional,,RHEINISCHER MEISTER,Holzskulptur,,
+BO0624_88635,361683,115,41,X51cm.G.R.,594,90.0,False,positional,,,Holzskulptur,,
 BO0624_88635,361684,116,105,"c.MARIA MIT DEM KINDE UND ZWEI ENGELN. Holz. Gr.100X56 cm. AIter geschnitzter Tabernakelrahmen. Siehe Tancred Borenius, Catalogue... Viscount Lee of Fareham No.76. AbbildungTafel1",600,99.1,False,positional,JACOPO DEL SELLAIO,,OGGETTI IN LEGNO,,
 BO0624_88635,361685,117,105,"d.MARIA MIT DEM KINDE,sechs Heiligen und zwei Stiftern.Rechts der Maria stehen Bernadinus von Siena, Georg,Philippus,links Catharina,Lucia,Clara.Die Stifter sind durch die Wappn als Philipp I. Graf von Virneburg und seine Gattin Catharina von Hoorn festgestellt.Holz. Gr. 83X164 cm. Alter geschnitzter G.R. Siehe Tancred Borenius, Catalogue...Viscount Lee of Fareham No.39 Abbildung Tafel5",606,99.6,False,positional,,SCHWABISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88635,361686,118,1470,1531,610,61.5,False,positional,VINCENZO CATENA,,,,Sec. XVI
-BO0624_88635,361687,119,105,"e.DAS ABENDMAHL.Holz. Gr.49X66 cm. Geschnitzter G.R.mit Saulen.Die obige Zuweisung stammt von Borenius; Siren gab das Bild dem Girolamo da Santa Croce. Siehe Tancred Borenius, Catalogue...Viscount Lee of Fareham No.19. AbbildungTafel5.",612,99.3,False,positional,VINCENZO CATENA,,OGGETTI IN LEGNO,,
+BO0624_88635,361687,119,105,"e.DAS ABENDMAHL.Holz. Gr.49X66 cm. Geschnitzter G.R.mit Saulen.Die obige Zuweisung stammt von Borenius; Siren gab das Bild dem Girolamo da Santa Croce. Siehe Tancred Borenius, Catalogue...Viscount Lee of Fareham No.19. AbbildungTafel5.",612,99.3,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88635,361688,120,106,"BILDNIS EINES VOLLBARTIGEN MANNES in schwarzer Tracht mit roter Scharpe. In der Linken einen roten Amtsstab mit dem kaiserlichen Adler, den Saulen des Herkules und dem Wahlspruch Kaiser Karls V.:PLVS OVLTRE.Rechts oben ein Wappen.Ho1z. Gr.44X33 cm.S.R. AbbildungTafel}27.",618,99.3,False,positional,,VLAMISCHE SCHULE,,,
 BO0624_88635,361689,121,107,BILDNIS DES HIERONYMUS FLAISCHE. Holz. Gr.50X37 cm.S.R.mit Schildpatteinlage.,624,97.4,False,positional,HANS BALDUNG GRIEN,,OGGETTI IN LEGNO,,
 BO0624_88635,361690,122,108,"CHRISTUS UND JOHANNES als Kinder sich umarmend, nach Lionardo da Vinci. Holz. Gr. 1708",634,94.5,False,positional,JOOS VAN CLEVE,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88635,361691,123,109,LANDSCHAFT; FluBlauf mit einer zerfallenen Burg auf einem Hugel. Holz. Gr.40X60 cm. S.R. 1670,640,94.9,False,positional,PIETER DE HULST,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88635,361692,124,110,STILLEBEN von Trauben und Granaten mit einem weiBen Kaninchen. Lwd. Gr.45X63 cm. G.R. 1629,646,94.7,False,positional,MICHELANGELO DICAMPIDOGLIO,,,,Sec. XVII
 BO0624_88635,361693,125,111,"CHRISTUS auf dem Wege zum Kreuz, mit der heiligen Veronica. Lwd. Gr.68X104 cm. G.R.",652,97.5,False,positional,JANLYS,,,,
-BO0624_88635,361694,126,112,DIE MUSIKANTEN; drei Halbfiguren um einen Tisch. Lwd. Gr.132X105 cm. G. L.,653,97.1,False,positional,JANLYS,,,,
+BO0624_88635,361694,126,112,DIE MUSIKANTEN; drei Halbfiguren um einen Tisch. Lwd. Gr.132X105 cm. G. L.,653,97.1,False,none,,,,,
 BO0624_88635,361695,127,113,VERKUNDIGUNG.Holz.Gr.85X75 cm.Holzrahmen.,657,95.2,False,positional,CONRAD WITZ,,OGGETTI IN LEGNO,,
 BO0624_88635,361696,128,114,DER HEILIGE ROCHUS UND DER ENGEL.Goldgrund.-Rudseitig:Die Heiligen Martin 1656,664,94.1,False,positional,,OBERRHEINISCHE SCHULE,,,Sec. XVII
 BO0624_88635,361697,129,115,LANDSCHAFT mit zwei Windmihlen.Holz.Gr.28X26 cm.S.R.,671,96.2,False,positional,JAN VAN GOYEN,,OGGETTI IN LEGNO,,
 BO0624_88635,361698,130,1681,1747,675,61.5,False,positional,ALESSANDRO MAGNASCO,,,,Sec. XVIII
-BO0624_88635,361699,131,115,a.BRANDUNG AN-FELSIGER MEERESKUSTE;Fischer als Staffage.Lwd. Gr.94X70cm.,677,97.9,False,positional,ALESSANDRO MAGNASCO,,,,
+BO0624_88635,361699,131,115,a.BRANDUNG AN-FELSIGER MEERESKUSTE;Fischer als Staffage.Lwd. Gr.94X70cm.,677,97.9,False,none,,,,,
 BO0624_88635,361700,132,116,BILDNIS EINES MANNES IN SCHWARZ. Ha1bfigur.Lwd. Gr.66X52 cm.Geschniter G.R.,681,97.3,False,positional,ANTONIUS VANDYCK,,,,
-BO0624_88635,361701,133,2,Das Bild ist sowohi A. van Dydk selbst wie Lucas Franchois lI zugewiesen worden. Abbildung'Tafel2.,682,99.0,False,positional,ANTONIUS VANDYCK,,,,
+BO0624_88635,361701,133,2,Das Bild ist sowohi A. van Dydk selbst wie Lucas Franchois lI zugewiesen worden. Abbildung'Tafel2.,682,99.0,False,none,VAN DYCK ANTON,,,,
 BO0624_88635,361702,134,1477,1549,686,61.5,False,positional,GIO.ANTONIO BAZZI; SODOMA,,,,Sec. XVI
-BO0624_88635,361703,135,117,DIE HEILIGE FAMILIE.Holz.Gr.84X63 cm.G.R. Aus der Sammlung des Konigs von 1723,688,94.1,False,positional,GIO.ANTONIO BAZZI; SODOMA,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88635,361703,135,117,DIE HEILIGE FAMILIE.Holz.Gr.84X63 cm.G.R. Aus der Sammlung des Konigs von 1723,688,94.1,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88635,361704,136,118,BILDNIS DES JOSEPH CURRERAS im A1ter von 66 Jahren. Brustbild. Lwd.Gr.74X63 cm. 1664,695,94.4,False,positional,GODFREY KNELLER,,,,Sec. XVII
 BO0624_88635,361705,137,119,REICHBELEBTER MEERESSTRAND mit romantischen Gebauden. Holz. Gr.55X88 cm.S.R. 1677,702,94.2,False,positional,ADAMWILLAERTS,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88635,361706,138,120,MONDSCHEINLANDSCHAFT.Lwd.Gr.34X48 cm.S.R. 1639,708,89.9,False,positional,AERTVANDERNEER,,,,Sec. XVII
@@ -144,31 +144,31 @@ BO0624_88635,361710,142,1558,1629,729,61.5,False,positional,OTHO VAN VEEN,,,,Sec
 BO0624_88635,361711,143,123,DIE SCHAFSCHUR. Holz. Gr.51X39 cm.G.R.Mit Gutachten von Dir.Dr. Gustav G1uick. AbbildungTafel6.,737,97.8,False,positional,DIRCKVANBERGEN,,OGGETTI IN LEGNO,,
 BO0624_88635,361712,144,1619,1668,741,61.5,False,positional,PHILIPSWOUWERMAN,,,,Sec. XVII
 BO0624_88635,361713,145,1592,1667,747,61.5,False,positional,PIETER SNAYERS,,,,Sec. XVII
-BO0624_88635,361714,146,125,UBERFALL AUF EINEN TRANSPORT IM WALDE.Holz.Gr.74X105 cm.G.R. Mit Gut,749,97.1,False,positional,PIETER SNAYERS,,OGGETTI IN LEGNO,,
-BO0624_88635,361715,147,2,achten von Dr.Robert Eigenberger. AbbildungTafel7.,750,98.0,False,positional,PIETER SNAYERS,,,,
-BO0624_88635,361716,148,3,"126.UBERFALL EINES DORFES,links Kampf um eine Bridke.Holz.Gr.74X105 cm.G.R. Mono gramm P S. Mit Gutachten von Dr. Robert Eigenberger. AbbildungTafel7.",751,99.3,False,positional,PIETER SNAYERS,,OGGETTI IN LEGNO,,
+BO0624_88635,361714,146,125,UBERFALL AUF EINEN TRANSPORT IM WALDE.Holz.Gr.74X105 cm.G.R. Mit Gut,749,97.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88635,361715,147,2,achten von Dr.Robert Eigenberger. AbbildungTafel7.,750,98.0,False,none,,,,,
+BO0624_88635,361716,148,3,"126.UBERFALL EINES DORFES,links Kampf um eine Bridke.Holz.Gr.74X105 cm.G.R. Mono gramm P S. Mit Gutachten von Dr. Robert Eigenberger. AbbildungTafel7.",751,99.3,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88635,361717,149,1616,1698,755,61.5,False,positional,ANTON GOUBAU,,,,Sec. XVII
-BO0624_88635,361718,150,127,DER QUACKSALBER. In einem hollandischen Dorf hat ein Quadksalber seinen Stand auf,757,97.6,False,positional,ANTON GOUBAU,,,,
-BO0624_88635,361719,151,2,"geschlagen, ringsumher buntes Jahrmarktstreiben.Holz. Gr.54X65 cm. S. R. Mit Gutachten von Dr.Theodor Frimmel. AbbildungTafelo.",758,99.2,False,positional,ANTON GOUBAU,,OGGETTI IN LEGNO,,
+BO0624_88635,361718,150,127,DER QUACKSALBER. In einem hollandischen Dorf hat ein Quadksalber seinen Stand auf,757,97.6,False,none,,,,,
+BO0624_88635,361719,151,2,"geschlagen, ringsumher buntes Jahrmarktstreiben.Holz. Gr.54X65 cm. S. R. Mit Gutachten von Dr.Theodor Frimmel. AbbildungTafelo.",758,99.2,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88635,361720,152,1590,1656,762,61.5,False,positional,GERHARD HONTHORST,,,,Sec. XVII
-BO0624_88635,361721,153,128,"ANBETUNG DER HIRTEN, dariber Engelsglorie. Holz.Gr. 89X64 cm.G.R. 1642",764,93.1,False,positional,GERHARD HONTHORST,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88635,361721,153,128,"ANBETUNG DER HIRTEN, dariber Engelsglorie. Holz.Gr. 89X64 cm.G.R. 1642",764,93.1,False,none,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88635,361722,154,129,DIE STAROPERATION. Auf der Terrasse eines romischen Palastes sitzt der Kaiser und Gr.73X104cm.S.R. Abbildung Tafel8. 1704,770,96.2,False,positional,FRANS FRANKEN,,,,Sec. XVIII
 BO0624_88635,361723,155,130,GESELLSCHAFTSSZENE in einem hol1landischen Wohnraum. Lwd. Gr. 69X74 cm. S.R.,776,97.3,False,positional,CORNELIS DUSART,,,,
 BO0624_88635,361724,156,132,ANSICHT AUS ROM mit den Constantinsthermen. Im Vordergrund mit Tierherden staffiert. Lwd.Gr.72X98cm.G.R. Abbildung Tafel 29.,784,98.4,False,positional,,HOLLANDISCHER MEISTER,,,
 BO0624_88635,361725,157,133,GROSSE TEMPELRUINE mit tanzenden Musen und Kindern.Lwd.Gr.95X125 cm.G.R.,787,97.3,False,positional,GIO.PAOLO PANNINI,,,,
-BO0624_88635,361726,158,134,ANTIKE TEMPELRUINE mit mythologischer Stafage. Lwd. Gr.96X126 cm. G.R. Diese beiden Bilder Nr.133 und 134 gelangen 1aut BeschluB des Amtsgerichts BerlinSchoneberg vom 2. Dezember 1926 zwangsweise zur Versteigerung.,788,99.0,False,positional,GIO.PAOLO PANNINI,,FOTOGRAFIE,,Sec. XX
-BO0624_88635,361727,159,134,"a. BILDNIS EINES NOBILE in reicher, pelzverbramter Tracht, Kniestick. Lwd. Gr.121X91 cm. Alter geschnitzter G.R.; s. Tancred Borenius, Catalogue...Viscount Lee of Fareham No.20.",792,99.1,False,positional,GIO.PAOLO PANNINI,,,,
+BO0624_88635,361726,158,134,ANTIKE TEMPELRUINE mit mythologischer Stafage. Lwd. Gr.96X126 cm. G.R. Diese beiden Bilder Nr.133 und 134 gelangen 1aut BeschluB des Amtsgerichts BerlinSchoneberg vom 2. Dezember 1926 zwangsweise zur Versteigerung.,788,99.0,False,none,,,FOTOGRAFIE,,Sec. XX
+BO0624_88635,361727,159,134,"a. BILDNIS EINES NOBILE in reicher, pelzverbramter Tracht, Kniestick. Lwd. Gr.121X91 cm. Alter geschnitzter G.R.; s. Tancred Borenius, Catalogue...Viscount Lee of Fareham No.20.",792,99.1,False,none,,,,,
 BO0624_88635,361728,160,1539,1625,796,61.5,False,positional,SOPHONISBA ANGUISSOLA,,,,Sec. XVII
-BO0624_88635,361729,161,134,b. SELBSTPORTRAT in reicher Tracht. Ha1bfigur. Lwd. Gr.71X57 cm. AIter geschnitzter G.R.,798,98.2,False,positional,SOPHONISBA ANGUISSOLA,,,,
+BO0624_88635,361729,161,134,b. SELBSTPORTRAT in reicher Tracht. Ha1bfigur. Lwd. Gr.71X57 cm. AIter geschnitzter G.R.,798,98.2,False,none,,,,,
 BO0624_88635,361730,162,1610,1685,802,61.5,False,positional,ADRIAEN VAN OSTADE,,,,Sec. XVII
-BO0624_88635,361731,163,134,c.DER ARZT.Holz Gr.27X22cm.G.R. d.REITERSCHARMUTZEL in hugliger Landschaft. Holz.Gr. 92X52 cm.A1ter G.R.,808,80.2,False,positional,ADRIAEN VAN OSTADE,,OGGETTI IN LEGNO,,
+BO0624_88635,361731,163,134,c.DER ARZT.Holz Gr.27X22cm.G.R. d.REITERSCHARMUTZEL in hugliger Landschaft. Holz.Gr. 92X52 cm.A1ter G.R.,808,80.2,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88635,361732,164,135,BILDNIS EINES WEISSBARTIGEN MANNES.Lwd.Gr.43X34 cm.Geschnitzter G.R,812,97.1,False,positional,GIACOMO ROBUSTI; TINTORETO,,,,
 BO0624_88635,361733,165,1502,1572,816,61.5,False,positional,ANGIOLO BRONZINO,,,,Sec. XVI
 BO0624_88635,361734,166,137,DIEEHEBRECHERIN.Ho1z.Gr.56X46cm.G.R.,820,94.6,False,positional,REMBRANDT VAN RYN,,,,
 BO0624_88635,361735,167,138,MARIA MIT DEM KINDE und drei weiblichen Heiligen. Holz. Gr.45X34 cm. G.R. ZACKVAN OSTADE 1621-1649,826,82.6,False,positional,BERNAERTVANORLEY,,OGGETTI IN LEGNO,,Sec. XVII
-BO0624_88635,361736,168,139,EINE GESELLSCHAFT SINGENDER BAUERN.Ho1z.Gr.23X32 cm.G.R.,830,96.5,False,positional,BERNAERTVANORLEY,,,,
+BO0624_88635,361736,168,139,EINE GESELLSCHAFT SINGENDER BAUERN.Ho1z.Gr.23X32 cm.G.R.,830,96.5,False,none,,,,,
 BO0624_88635,361737,169,140,"DER HEILIGE CORNELIUS, ganze Figur, in einer Nische stehend. Holz. Gr.56×23 cm. S. R. Aus der Sammlung Fuller Russell. Ausgestellt in Manchester1857 in der Exhibition of Art Ireasures. Ausgestellt in London 1877 in der Royal Academy, Exhibition of Oid Masters. Abbildung Tafel 17.",836,99.3,False,positional,ANTONWOENSAM VON WORMS,,OGGETTI IN LEGNO,COLLEZIONE FULLER RUSSEL,Sec. XIX
-BO0624_88635,361738,170,141,"EIN BISCHOF, Stab und Horn in den Handen, in ganzer Figur in einer Nische stehend. Holz.Gr.56X23 cm. S.R. Aus derselben Sammlung. Auf denselben Ausstellungen 1857 u. 1877 ausgestellt. Abbildung Tafel 17. 1635",837,97.7,False,positional,ANTONWOENSAM VON WORMS,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88635,361738,170,141,"EIN BISCHOF, Stab und Horn in den Handen, in ganzer Figur in einer Nische stehend. Holz.Gr.56X23 cm. S.R. Aus derselben Sammlung. Auf denselben Ausstellungen 1857 u. 1877 ausgestellt. Abbildung Tafel 17. 1635",837,97.7,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88635,361739,171,142,ROMANTISCHE LANDSCHAFT mit uberhangendem Felsen. Lwd.auf Holz.Gr.54X77 cm. um1660,848,92.9,False,positional,JOSSE DE MOMPER,,OGGETTI IN LEGNO,,
 BO0624_88635,361740,172,143,BURGARTIGES SCHLOSSGEBAUDE an einem Kanal. Holz.Gr.27X48 cm. G.R. Sign.:W.K. Abbildung Tafel4. 1787,856,95.1,False,positional,WOUTER KNYFF,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88635,361741,173,144,DAVID MIT DEM HAUPTE DES GOLIATH. Pergament auf Marmor. Gr.14X10 cm. G.R. 1674,862,93.9,False,positional,POMPEOBATONI,,,,Sec. XVII
@@ -190,23 +190,23 @@ BO0624_88635,361756,188,159,HAFENANSICHT BEI SONNENUNTERGANG.Lwd. Gr.63X83 cm.G.
 BO0624_88635,361757,189,1772,1820,957,61.5,False,positional,GERHARD VON KUGELGEN,,,,Sec. XIX
 BO0624_88635,361758,190,161,"DIE TOCHTER DES KEKROPS mit dem klernen Erichthonios. Kupfer. Gr. 25X35 cm. G.R. Die Originalskizze im Stocdkholmer Museum; andere Versionen in der Dresdener Galerie und in Belvoir Castle. Vgl. Rooses, Rubens Il, S. 89-91.Aus der Sammlung des Schlosses Marienburg.",961,99.2,False,positional,PETER PAULUS RUBENS,Scuola di Rubens,OGGETTI IN RAME,COLLEZIONE SCHLOSSES MARIENBURG,
 BO0624_88635,361759,191,162,"DIE HEILIGE KATHARINA, Halbfigur, mit Schwert und Buch. Holz. Gr. 31X20 cm. Holz",967,97.4,False,positional,CORNELIS ENGELBRECHTSEN,,OGGETTI IN LEGNO,,
-BO0624_88635,361760,192,2,rahmen. Aus der Sammlung von Speybrouck.,968,97.4,False,positional,CORNELIS ENGELBRECHTSEN,,CORNICI,COLLEZIONE SPEYBROUCK,
+BO0624_88635,361760,192,2,rahmen. Aus der Sammlung von Speybrouck.,968,97.4,False,none,,,CORNICI,COLLEZIONE SPEYBROUCK,
 BO0624_88635,361761,193,1626,1679,983,61.5,False,positional,JAN VAN KESSEL,,,,Sec. XVII
-BO0624_88635,361762,194,163,DIE FRUCHTE DES MEERES. Holz.Gr.24X33 cm.G.R.Sign.,985,96.0,False,positional,JAN VAN KESSEL,,OGGETTI IN LEGNO,,
-BO0624_88635,361763,195,164,DORFLANDSCHAFT mit Staffage.Lwd.Gr.50X92 cm.S.R.,989,95.9,False,positional,JAN VAN KESSEL,,,,
-BO0624_88635,361764,196,1645,1705,993,61.5,False,positional,JAN VAN KESSEL,,,,Sec. XVIII
-BO0624_88635,361765,197,166,BRUSTBILD DER MARIA mit dem Kinde; Goldgrund. Holz. Gr.43X32 cm. S.R. Aus der Sammlung Eduard v.Speybrouck. 1764,999,95.7,False,positional,JAN VAN KESSEL,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88635,361762,194,163,DIE FRUCHTE DES MEERES. Holz.Gr.24X33 cm.G.R.Sign.,985,96.0,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88635,361763,195,164,DORFLANDSCHAFT mit Staffage.Lwd.Gr.50X92 cm.S.R.,989,95.9,False,none,,,,,
+BO0624_88635,361764,196,1645,1705,993,61.5,False,none,,,,,Sec. XVIII
+BO0624_88635,361765,197,166,BRUSTBILD DER MARIA mit dem Kinde; Goldgrund. Holz. Gr.43X32 cm. S.R. Aus der Sammlung Eduard v.Speybrouck. 1764,999,95.7,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88635,361766,198,167,DIE ANBETUNG DER KONIGE.Kupfer.Rund.Durchm.23 cm.G.R. 1705,1005,92.0,False,positional,SEBASTIANO CONCA,,OGGETTI IN RAME,,Sec. XVIII
-BO0624_88635,361767,199,168,GESELLSCHAFTSSZENE IM GARTEN.Lwd.Gr.107X92cm.S.R.,1011,96.0,False,positional,SEBASTIANO CONCA,,,,
-BO0624_88635,361768,200,1648,1733,1015,61.5,False,positional,SEBASTIANO CONCA,,,,Sec. XVIII
-BO0624_88635,361769,201,168,a.DANIEL IN DER LOWENGRUBE Holz Gr.39X32cm.G.R. 1690,1017,92.0,False,positional,SEBASTIANO CONCA,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88635,361767,199,168,GESELLSCHAFTSSZENE IM GARTEN.Lwd.Gr.107X92cm.S.R.,1011,96.0,False,none,,,,,
+BO0624_88635,361768,200,1648,1733,1015,61.5,False,none,,,,,Sec. XVIII
+BO0624_88635,361769,201,168,a.DANIEL IN DER LOWENGRUBE Holz Gr.39X32cm.G.R. 1690,1017,92.0,False,none,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88635,361770,202,169,ALEXANDERSCHLACHT. Figurenreicher Entwurf.Lwd.Gr.26X64 cm.G.R.,1023,96.8,False,positional,CHARLESLEBRUN,,,,
-BO0624_88635,361771,203,169,a.DIE BEDROHUNG DER LUCRETIA.Lwd.Gr.100X175cm.G.R.,1029,97.0,False,positional,CHARLESLEBRUN,,,,
+BO0624_88635,361771,203,169,a.DIE BEDROHUNG DER LUCRETIA.Lwd.Gr.100X175cm.G.R.,1029,97.0,False,none,,,,,
 BO0624_88635,361772,204,1622,1674,1033,61.5,False,positional,JOHANNESLINGELBACH,,,,Sec. XVII
-BO0624_88635,361773,205,169,b. RUINENLANDSCHAFT mit Christus und der Ehebrecherin als Staffage. Lwd. Gr.68X96 cm. G.R.Sign.,1035,98.4,False,positional,JOHANNESLINGELBACH,,,,
-BO0624_88635,361774,206,169,c. SEESTUCK. Ho1z.Gr.15X30 cm.S.R.,1041,95.4,False,positional,JOHANNESLINGELBACH,,,,
-BO0624_88635,361775,207,1480,1528,1045,61.5,False,positional,JOHANNESLINGELBACH,,,,Sec. XVI
-BO0624_88635,361776,208,169,d. DIE HEILIGE FAMILIE. Halbfiguren in Landschaft. Holz. Gr. 66X86 cm.AIter ge,1049,98.0,False,positional,JOHANNESLINGELBACH,,OGGETTI IN LEGNO,,
+BO0624_88635,361773,205,169,b. RUINENLANDSCHAFT mit Christus und der Ehebrecherin als Staffage. Lwd. Gr.68X96 cm. G.R.Sign.,1035,98.4,False,none,,,,,
+BO0624_88635,361774,206,169,c. SEESTUCK. Ho1z.Gr.15X30 cm.S.R.,1041,95.4,False,none,,,,,
+BO0624_88635,361775,207,1480,1528,1045,61.5,False,none,,,,,Sec. XVI
+BO0624_88635,361776,208,169,d. DIE HEILIGE FAMILIE. Halbfiguren in Landschaft. Holz. Gr. 66X86 cm.AIter ge,1049,98.0,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88635,361777,209,170,"ALBA UND DIE FRAUENABORDNUNG;in einem reichen Saal knieen die abgeordneten Frauen der Provinzen vor dem thronenden Aiba, Kardinal Granvella und einem Bischof. Holz. Gr. 45X63 cm. S. R. Aus der Sammlung Gustav von Gebhardt. Abbildung Tafel 30.",1054,99.1,False,positional,DIRK VAN DELEN; FRANS FRANKEN,,OGGETTI IN LEGNO,COLLEZIONE GUSTAV VON GERHARDT,
 BO0624_88635,361778,210,171,ZWEI JUNGE DAMEN IN EINER LANDSCHAFT. Lwd. Gr.75X95 cm. Geschnitzter G.R. Abbildung Tafel 3. 1539,1058,95.1,False,positional,GABRIEL METSU,,,,Sec. XVI
 BO0624_88635,361779,211,172,MARKTPLATZ MIT STAFFAGE.Lwd.Gr.80X68 cm.Geschnitzter G.R.Aus den Samm lungen Graham und Carrington.,1064,98.0,False,positional,GIOV.A.LICINIO DA PORDENONE,,,,
@@ -232,12 +232,12 @@ BO0624_88635,361798,230,191,"KOPF EINES MANNES mit schwarzer Kappe. Holz. Gr. 13
 BO0624_88635,361799,231,192,STADTANSICHT mit Figuren. Holz. Gr.39X54 cm. Signiert. Aus der Sammlung Humphrey Ward. 1801,1186,94.7,False,positional,PIETER G.COSYN,,OGGETTI IN LEGNO,COLLEZIONE HUMPHREY WARD,Sec. XIX
 BO0624_88635,361800,232,193,DREI KINDER IN EINEM GARTEN. Lwd. Gr.39X54 cm. Signiert?,1192,96.3,False,positional,FRANCISWHEATLEY,,,,
 BO0624_88635,361801,233,1564,1657,1196,61.5,False,positional,ABRAHAM BLOEMAERT,,,,Sec. XVII
-BO0624_88635,361802,234,493,a.GROSSE WALDLANDSCHAFT mitLatona und den lykischen Bauern.Kupfer.Gr.78X100 cm. G.R. Sign.und dat.1646. Oberflache 1eicht durch Kratzer 1adiert.,1198,98.9,False,positional,ABRAHAM BLOEMAERT,,OGGETTI IN RAME,,Sec. XVII
+BO0624_88635,361802,234,493,a.GROSSE WALDLANDSCHAFT mitLatona und den lykischen Bauern.Kupfer.Gr.78X100 cm. G.R. Sign.und dat.1646. Oberflache 1eicht durch Kratzer 1adiert.,1198,98.9,False,none,,,OGGETTI IN RAME,,Sec. XVII
 BO0624_88635,361803,235,194,JAHRMARKTSSZENE mit Ausrufer und vielen Figuren. Holz.Gr.49X40 cm.G. R. Sign. Abbildung Tafel 21.,1204,97.9,False,positional,JANVAN DEM SANDE,,OGGETTI IN LEGNO,,
 BO0624_88635,361804,236,195,BILDNIS EINER DAME vor einer Landschaft.Lwd. Gr.82X66 cm.G.R. Sign.u. dat. um 1507,1210,92.1,False,positional,GULLIVER MOSMAN,,,,Sec. XVI
 BO0624_88635,361805,237,196,CHRISTUS IN EMMAUS.Lwd.Gr.117X81 cm.H.R.,1216,95.1,False,positional,MARCO MARZIALE,,,,
 BO0624_88635,361806,238,1660,1704,1220,61.5,False,positional,CORNELIS DUSART,,,,Sec. XVIII
-BO0624_88635,361807,239,196,a.VOR DER SCHENKE Lwd.Gr.37X31 cm.G.R.,1222,96.1,False,positional,CORNELIS DUSART,,,,
+BO0624_88635,361807,239,196,a.VOR DER SCHENKE Lwd.Gr.37X31 cm.G.R.,1222,96.1,False,none,,,,,
 BO0624_88635,361808,240,197,"MARIA MIT DEM KINDE, drei Heiligen und Stiftern Holz.Gr.23X34cm.S.R.",1228,97.1,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88635,361809,241,198,"GRABLEGUNG.Holz.Gr.46X42 cm.G.R.,geschnitzt.",1232,95.5,False,positional,ANDREA MANTEGNA,,OGGETTI IN LEGNO,,
 BO0624_88635,361810,242,199,LANDSCHAFT mit Figuren und Vieh. Holz. Gr.34X40 cm. G.R.(beschadigt).,1238,96.9,False,positional,,HOLLANDISCHE SCHULE,OGGETTI IN LEGNO,,
@@ -245,9 +245,9 @@ BO0624_88635,361811,243,200,MARIA MIT DEM KINDE UND HEILIGEN. Ho1z.Gr.56X38 cm.G
 BO0624_88635,361812,244,201,"DIE GEBURT CHRISTI. Holz. Gr.34X27 cm, oben gerundet. G.R. Aus der Sammlung Charles Butler.",1248,97.7,False,positional,,FLORENTINISCHE SCHULE,OGGETTI IN LEGNO,COLLEZIONE CHARLES BUTLER,
 BO0624_88635,361813,245,202,"CHRISTUS AN DER SAULE, von Maria und Johannes verehrt. Unten finf kleinere Stifter figuren, drei Ritter und zwei Frauen, nebst zwei Wappen. Holz. Gr.135x95 cm.",1257,67.8,False,positional,ERNST LEMBERGER,BAYERISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88635,361814,246,203,"CHRISTUS VON MARIA, JOHANNES UND MAGDALENA BETRAUERT. HoIz. Gr.25X25 cm.",1262,97.1,False,positional,,ALTNIEDERLANDISCHER MEISTER,,,
-BO0624_88635,361815,247,205,"VOR EINER ITALIENISCHEN STADT, Bambocciaspieler als Staffage. Holz.Gr.40X53 cm. S.R.Sign. a. MARIA. Brustbild.Ausschnitt. Holz.Gr.32x27 cm.G.R.Aus der Sammlung Oswald",1268,68.5,False,positional,,ALTNIEDERLANDISCHER MEISTER,OGGETTI IN LEGNO,,
+BO0624_88635,361815,247,205,"VOR EINER ITALIENISCHEN STADT, Bambocciaspieler als Staffage. Holz.Gr.40X53 cm. S.R.Sign. a. MARIA. Brustbild.Ausschnitt. Holz.Gr.32x27 cm.G.R.Aus der Sammlung Oswald",1268,68.5,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88635,361816,248,206,"BILDNIS EINER DAME mit Rosen im Haar. Lwd. Gr.50X41 cm. S.R. mit Schildpatt eingelegt. a. KOPF EINES SULTANS. Der Hintergrund gepunzt. Lwd. Gr. 42,5X30 cm. G. L.",1276,69.5,False,positional,,ITALIENISCHE SCHULE,OGGETTI VARI,,
 BO0624_88635,361817,249,207,VENEZIANISCHER KANAL mit Staffage. Holz. Gr.37X31 cm. Geschnitzter G.R.Angeblich als Cassonebild Fruhwerk des Kunstlers.,1284,78.2,False,positional,FRANCESCO GUARDI,,OGGETTI IN LEGNO,,
-BO0624_88635,361818,250,208,MANN IN BETRACHTUNG DES MONDES. Aquarell. Gr.19X21 cm. G.R.,1289,96.5,False,positional,FRANCESCO GUARDI,,,,
+BO0624_88635,361818,250,208,MANN IN BETRACHTUNG DES MONDES. Aquarell. Gr.19X21 cm. G.R.,1289,96.5,False,none,,,,,
 BO0624_88635,361819,251,204,VERHERRLICHUNG DER MARIA.Lwd.Gr.80X62 cm.S.R.,1295,95.7,False,positional,,SPANISCHE SCHULE,,,
 BO0624_88635,361820,252,204,a-b. ZWEI ROMANTISCHE LANDSCHAFTEN.Gegenstuide.Lwd. Gr.52X87 cm.G.R.,1301,97.7,False,positional,,ITALIENISCHE SCHULE,,,

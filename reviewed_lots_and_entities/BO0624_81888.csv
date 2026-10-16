@@ -1,4 +1,4 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_81888,119300,1,1,1：,6,50.0,False,positional,ALDO NOSEDA,Scuola Bolognese,,,
-BO0624_81888,119301,2,I,lunghi viaggi f gli avevano iniziato allamore di quelle minor11,18,98.4,False,positional,ALDO NOSEDA,,,,
-BO0624_81888,119302,3,I,LLUSTRAZIONI,28,96.0,False,positional,ALDO NOSEDA,,,,
+BO0624_81888,119301,2,I,lunghi viaggi f gli avevano iniziato allamore di quelle minor11,18,98.4,False,none,,,,,
+BO0624_81888,119302,3,I,LLUSTRAZIONI,28,96.0,False,none,,,,,

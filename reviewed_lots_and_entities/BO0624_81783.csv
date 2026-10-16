@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_81783,15228,1,1,"Paris Bordone (Maniera di). Sec.XVI. La Maddalena ai piedi del Cristo. Dipinto su tela. Cornice legno dorato. Alt.cm.1l5, larg. cm.75.",5,99.2,False,positional,,,Quadri,,
-BO0624_81783,15229,2,2,Cavazzuola (Paolo Morando). 1486-15.. Ritratto d'un pontefice.,6,98.2,False,positional,,,Quadri,,Sec. XV
+BO0624_81783,15229,2,2,Cavazzuola (Paolo Morando). 1486-15.. Ritratto d'un pontefice.,6,98.2,False,positional,MORLAND GEORGE,,Quadri,,Sec. XV
 BO0624_81783,15230,3,3,Aurelio Luini. Sec. XVI. La Vergine col Bambino. Bel dipinto su,12,98.3,False,positional,BERNARDINO LUINI,,Quadri,,Sec. XVI
 BO0624_81783,15231,4,4,"Antonio Pollaiuolo.1426-1498.S.Sebastiano.Buon dipinto su tavola,",14,98.5,False,positional,,,Quadri,,Sec. XV
 BO0624_81783,15232,5,5,"Andrea del Sarto.1486-1531.La Vergine col Bambino e San Giovannino. Dipinto su tavola di squisita fattura,ammirevole per larmonia delle tinte e la soave espressione delle figure. Cornice legno dorato.",16,99.5,False,positional,DEL SARTO ANDREA,,Quadri,,Sec. XVI
@@ -44,7 +44,7 @@ BO0624_81783,15269,42,42,"Van Dyk Antonio. 1599-1641.Ritratto d'uomo. Dipinto su
 BO0624_81783,15270,43,2,Vedi tavola N.5.,91,93.8,False,positional,,,Quadri,,
 BO0624_81783,15271,44,3,"43.Van Dyk Antonio. 1599-1641. Cristo deposto e pianto. Dipinto su tavola toccato da maestro. Cornice legno dorato.Alt.cm.36,larg.cm.52.",92,99.2,False,positional,VAN DYCK ANTON,,Quadri,,Sec. XVII
 BO0624_81783,15272,45,44,"Bakhuyssen Ludolphe. 1630-1709.Paesaggio con rovine d'arco e di colonne,e sfondo di marina;molte figure di persone, mercato. Dipinto su tavola di buona esecuzione, interessante anche per i costumi del tempo. Corniee legno nero. Alt. cm.58, larg.cm.76.",95,99.4,False,positional,,,Quadri,,Sec. XVII
-BO0624_81783,15273,46,45,Droogsloot Giuseppe Cornelio. Sec. XVI. Festa in un villaggio; molte figure con sfondo di paesaggio. Interessante dipinto su tela. Cor-,99,98.8,False,positional,,,Quadri,,Sec. XVI
+BO0624_81783,15273,46,45,Droogsloot Giuseppe Cornelio. Sec. XVI. Festa in un villaggio; molte figure con sfondo di paesaggio. Interessante dipinto su tela. Cor-,99,98.8,False,positional,DROOCHSLOOT JOOST CORN.,,Quadri,,Sec. XVI
 BO0624_81783,15274,47,2,"nice legno dorato. Alt. cm.74, larg. cm.112.",100,97.5,False,positional,,,Quadri,,
 BO0624_81783,15275,48,3,46.Ruisdael Jacob (Maniera). 1625-1682. Paesaggio. Cornice legno,101,98.3,False,positional,RUYSDAEL JACQUES,,Quadri,,Sec. XVII
 BO0624_81783,15276,49,4,"scolpito e dorato.Alt.em.43,larg.cm.64.",102,97.4,False,positional,,,Quadri,,

@@ -1,61 +1,61 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88442,242424,1,1,"DIE KREUZIGUNG. Zu den FiBen des Gekreuzigten stehen Maria,Johannes und Maria Magdalena, die den Kreuzesstamm umfaBt. Im Hintergrunde erblickt man die Hauser und Kirchen von Jerusalem.",9,99.4,False,positional,,Niederrheinischer Meister des 16. Jahrh.,,,
 BO0624_88442,242425,2,2,"JUDITH MIT IHRER MAGD, das Haupt des Holofernes in einem Sacke bergend. Bezeichnet mit dem Werkstattsignet, der Schlange mit den Fledermausflugeln und datiert 1511. Auf Holz,H.44,5,Br.37cm.",14,99.5,False,positional,Lucas Cranach der Altere,,OGGETTI IN LEGNO,,Sec. XVI
-BO0624_88442,242426,3,3,"Johann Heinrich Ro0s,*27.10. 1631 in Otterberg (Pfalz),3. 10.1685 in Frankfurt a. M. Nach langeren Reisen durch Italien,Frankreich und England lieB er sich 1657 in Frankfurt a.M. nieder.1673 wurde er pfalzischer Hofmaler. DERHEILIGE HIERONYMUS,in roter Kardinalstracht,mit beiden Handen ein Buch haltend, aus dem er aufblickt. Auf Leinwand,H.72,Br.62,5 cm（s.Abb.).",20,75.4,False,positional,Lucas Cranach der Altere,,,,Sec. XVII
+BO0624_88442,242426,3,3,"Johann Heinrich Ro0s,*27.10. 1631 in Otterberg (Pfalz),3. 10.1685 in Frankfurt a. M. Nach langeren Reisen durch Italien,Frankreich und England lieB er sich 1657 in Frankfurt a.M. nieder.1673 wurde er pfalzischer Hofmaler. DERHEILIGE HIERONYMUS,in roter Kardinalstracht,mit beiden Handen ein Buch haltend, aus dem er aufblickt. Auf Leinwand,H.72,Br.62,5 cm（s.Abb.).",20,75.4,False,none,,,,,Sec. XVII
 BO0624_88442,242427,4,4,"VENUS MIT SPIEGEL. Venus,nur mit einem roten Tuche bekleidet,halt einen Konvexspiegel in der Rechten. Rechts das spater hinzugefugte Moncgramm ,A. G.""und das Datum 1529. Papier auf Holz,H.47,5,Br.29 cm.",25,99.5,False,positional,Heinrich Aldegrever,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88442,242428,5,5,"## Johann Anton Tischbein der Altere,*1720 in Haina,1784 in Hamburg. BILDNIS DES KURFURSTEN KARL THEODOR der Pfalz und bei Rhein, am Schreibtisch stehend,in grunem Samtanzug.Karl Theodor,*1724,regierte von 1742 bis 1799, erbte 1777 Bayern, welches er bis 1799 mit regierte.",33,86.2,False,title_direct,Johann Anton Tischbein der Altere,,,,Sec. XVIII
 BO0624_88442,242429,6,6,"LANDSCHAFT mit NarziB,der sich im Wasser spiegelt. Auf Kupfer,H.16,3,Br.15,2 cm.",38,98.7,False,positional,Johann Jakob Hartmann; Brueghel,,OGGETTI IN RAME,,
-BO0624_88442,242430,7,7,"VOR DER DORFSCHMIEDE. Kopie nach einem Gemalde von Philips Wouwerman. Der Dorfschmied beschlagt das Pferd eines abgesessenen Offiziers. Rechts weitere Staffage von Reisenden, Fuhrleuten und Kindern, dahinter Blick auf eine wellige Ebene. AufLeinwand,H.34,5,Br.39 cm.",42,99.6,False,positional,Johann Jakob Hartmann; Brueghel,,,,
+BO0624_88442,242430,7,7,"VOR DER DORFSCHMIEDE. Kopie nach einem Gemalde von Philips Wouwerman. Der Dorfschmied beschlagt das Pferd eines abgesessenen Offiziers. Rechts weitere Staffage von Reisenden, Fuhrleuten und Kindern, dahinter Blick auf eine wellige Ebene. AufLeinwand,H.34,5,Br.39 cm.",42,99.6,False,none,WOUWERMAN PHILIPS,,,,
 BO0624_88442,242431,8,8,"GALANTE SZENE IM FREIEN. Zu FuBen eines Baumes,am Ufer eines Wassers, schlummert ein Madchen, das der von rickwarts kommende Lieb haber aufweckt. AufLeinwand,H.34,Br.33 cm.",46,99.4,False,positional,,Deutscher Rokokomeister,,,
 BO0624_88442,242432,9,9,"## Andreas Achenbach, * 29. 9. 1815 in Kassel,  1910 in Dusseldorf. FLACHLANDSCHAFT mit Bauernhaus zwischen Baumen am Wasser, belebt durch Menschen- und Tierstaffage. Bezeichnet:,A. A. 1850""",56,81.0,False,title_direct,Andreas Achenbach,,,,Sec. XIX
-BO0624_88442,242433,10,10,"DIE HEILIGE ELISABETH, Almosen austeilend. Bezeichnet:,C. P. AufLeinwand,H.22,5,Br.16cm",58,98.2,False,positional,Andreas Achenbach,,,,
-BO0624_88442,242434,11,11,STILLEBEN mit Vogeln und GefaBen.,62,95.5,False,positional,Andreas Achenbach,,,,
+BO0624_88442,242433,10,10,"DIE HEILIGE ELISABETH, Almosen austeilend. Bezeichnet:,C. P. AufLeinwand,H.22,5,Br.16cm",58,98.2,False,none,,,,,
+BO0624_88442,242434,11,11,STILLEBEN mit Vogeln und GefaBen.,62,95.5,False,none,,,,,
 BO0624_88442,242435,12,12,"Pieter Brueghel der Altere, genannt Bauernbrueghel,*um 1525 in dem Dorfe Brueghel bei Breda, 1569 in Brussel, Schuler des Pieter Coecke. DIE DORFSCHENKE. Zwischen hohen Baumen liegt das strohbedeckte Wirtshaus, dessen Giebel mit figirlichen Darstellungen (St. Michael, Wappen, Reiter,Fuhrmann, Zecher usw.bemalt ist und die Inschrift tragt:,Dit Huys By  God· Bequaeme· Sinte·Michiel is ·Synen  Nae(me). Eine reiche und vielgestaltige Staffage von Menschen und Tieren belebt die Darstellung. Rechts Ausblick ins freie Land,links bez.,P.BreughelAuf Holz,H.53,5.Br.78 cm (s.Abb.).",74,86.7,False,title_direct,Brueghel,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88442,242436,13,13,"LANDSCHAFT am Flusse mit Abraham, dem die drei Engel erscheinen. Gegenstick zu dem folgenden Bilde. Auf Kupfer,H.17,5,Br.23 cm.",77,98.8,False,positional,Pieter Brueghel,,OGGETTI IN RAME,,
-BO0624_88442,242437,14,14,"LANDSCHAFT mit Hausern und hohen Baumen am Wasser. Gegenstuck zu dem vorhergehenden Bilde. AufKupfer,H.17,Br.23,5cm.",78,98.7,False,positional,Pieter Brueghel,,,,
-BO0624_88442,242438,15,15,"Meister der weiblichen Halbfiguren, von Wurzbach identifiziert mit Lukas de Heere,*zu Gent 1534, daselbst 1584. BILDNIS EINER DAME,als Maria Magdalena am Tische sitzend und einen Brief schreibend. Auf Holz,H.37,Br.27,5 cm （s.Abb.).",86,69.0,False,positional,Pieter Brueghel,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_88442,242437,14,14,"LANDSCHAFT mit Hausern und hohen Baumen am Wasser. Gegenstuck zu dem vorhergehenden Bilde. AufKupfer,H.17,Br.23,5cm.",78,98.7,False,none,,,,,
+BO0624_88442,242438,15,15,"Meister der weiblichen Halbfiguren, von Wurzbach identifiziert mit Lukas de Heere,*zu Gent 1534, daselbst 1584. BILDNIS EINER DAME,als Maria Magdalena am Tische sitzend und einen Brief schreibend. Auf Holz,H.37,Br.27,5 cm （s.Abb.).",86,69.0,False,none,,,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88442,242439,16,16,"<!-- image --> DIE HEILIGE FAMILIE MIT ENGELN. Im Schatten eines hohen Baumes rastet die heilige Familie. Ein Engel spielt auf der Gitarre und zwei andere uberreichen dem Christusknaben Fruchte. Die Landschaft ist von Jan Brueghel, das Figurliche von Johann Rottenhammer gemalt.",95,98.7,False,title_direct,Brueghel,,,,
 BO0624_88442,242440,17,17,"DIE KREUZTRAGUNG CHRISTI. Christus, von Kriegsknechten begleitet, ist unter dem Kreuz zusammengebrochen. Mit Drohungen und Schlagen wird er gezwungen das Kreuz weiterzutragen. Links erblickt man die Gruppe der trauernden Marien. Auf Kupfer,H.25,2,Br.37,5 cm.",100,99.4,False,positional,Otto Venius; Otto van Veen,,OGGETTI IN RAME,,
 BO0624_88442,242441,18,2,"Jacob Fouquier, * angeblich in Antwerpen um 1580, Schuler des Josse de Momper und des Sammetbrueghel, in Paris 1659.",101,99.1,False,title_direct,Brueghel,,,,Sec. XVI
-BO0624_88442,242442,19,3,"18.VORALPENLANDSCHAFT mit reicher Staffage,auf Marmor gemalt. Das Inventar des Erzherzogs Leopold Wilhelm (Il, 503) erwahnt eine Landschaft auf Marmelstein, worin Christus am Kreuze dem hl. Franziskus erscheint, von Fouquier. H.32,6,Br.38,5cm(s.Abb.)",102,99.6,False,positional,Otto Venius; Otto van Veen,,,,
-BO0624_88442,242443,20,18,<!-- image -->,106,100.0,False,positional,Otto Venius; Otto van Veen,,,,
+BO0624_88442,242442,19,3,"18.VORALPENLANDSCHAFT mit reicher Staffage,auf Marmor gemalt. Das Inventar des Erzherzogs Leopold Wilhelm (Il, 503) erwahnt eine Landschaft auf Marmelstein, worin Christus am Kreuze dem hl. Franziskus erscheint, von Fouquier. H.32,6,Br.38,5cm(s.Abb.)",102,99.6,False,none,,,,,
+BO0624_88442,242443,20,18,<!-- image -->,106,100.0,False,none,,,,,
 BO0624_88442,242444,21,19,"MADONNA MIT KIND. Hinter einer Brustung,auf der eineVase mit Blumen und zwei Schusseln stehen, erblickt man die Madonna, wie sie dem Kinde die Brust reicht. Oben rechts und links zwei Wappen. Auf Kupfer, H. 18, Br. 14,3 cm.",110,99.3,False,positional,,Vlamischer Meister vom Ende des 16. Jahrhunderts,OGGETTI IN RAME,,
 BO0624_88442,242445,22,20,"BILDNIS EINES JOHANNITERRITTERS,vor einem dunkelgrunen Vorhange,nach vorn stehend,in der Ordenstracht, auf dem linken Oberarm das Johanniterkreuz, die Rechte auf eine Stuhllehne stitzend. ## Nachfolger des Rubens.",113,93.6,False,title_direct,Rubens,Scuola di Rubens,BIANCHERIA,,
 BO0624_88442,242446,23,21,"DER RAUB DER SABINERINNEN. Links wird eine der geraubten Frauen von zwei Mannern auf ein Pferd gehoben, rechts werden zwei andere Frauen entfihrt. Im Hintergrund ein Rundtempel. Auf Holz,H.29,Br.39 cm.",123,99.2,False,positional,Rubens,,OGGETTI IN LEGNO,,
-BO0624_88442,242447,24,22,"Cornelis de Vos,* in Hulst 1585, in Antwerpen 9.5.1651, wurde 1608 Meister in Antwerpen, wo er als Portratist der reichen Antwerpener Burgerfamilien tatig war. BILDNIS EINES HERRN. Der Dargestellte sitzt nach vorn, tragt schwarze Kleidung mit breitem weibem Kragen und halt in der linken Hand drei Blumen. Links oben ist das nicht mehr genau erkennbare Wappen angebracht, darunter liest man die Inschrift: ,H. C. S. (Domi)nus providebit. Rechts oben ist das Alter des Dargestellten:,AETATIS SUAE XXX""und das Datum: ""Anno 1627""angegeben. Auf Leinwand,H.67,5,Br.57,5 cm (s.Abb.).",130,83.7,False,positional,Rubens,Scuola di Antwerp,,,Sec. XVI
+BO0624_88442,242447,24,22,"Cornelis de Vos,* in Hulst 1585, in Antwerpen 9.5.1651, wurde 1608 Meister in Antwerpen, wo er als Portratist der reichen Antwerpener Burgerfamilien tatig war. BILDNIS EINES HERRN. Der Dargestellte sitzt nach vorn, tragt schwarze Kleidung mit breitem weibem Kragen und halt in der linken Hand drei Blumen. Links oben ist das nicht mehr genau erkennbare Wappen angebracht, darunter liest man die Inschrift: ,H. C. S. (Domi)nus providebit. Rechts oben ist das Alter des Dargestellten:,AETATIS SUAE XXX""und das Datum: ""Anno 1627""angegeben. Auf Leinwand,H.67,5,Br.57,5 cm (s.Abb.).",130,83.7,False,none,,Scuola di Antwerp,,,Sec. XVI
 BO0624_88442,242448,25,23,DER TURMBAU ZU BABEL. Im Vordergrunde und auf dem Bau sind Handwerker mit dem Bearbeiten der Steine und mit Bauarbeiten beschaftigt. In der Ferne sieht man das durch zahlreiche Schiffe belebte Meer.,135,99.2,False,positional,,Antwerpener Meister um 1600,,,
-BO0624_88442,242449,26,24,"DIE BEWEINUNG CHRISTI. Christus von Johannes gestuitzt, wird von den drei Marien, Joseph von Arimathia usw. beklagt. Auf Holz,H.27,Br.37 cm.",141,98.9,False,positional,,Antwerpener Meister um 1600,OGGETTI IN LEGNO,,
+BO0624_88442,242449,26,24,"DIE BEWEINUNG CHRISTI. Christus von Johannes gestuitzt, wird von den drei Marien, Joseph von Arimathia usw. beklagt. Auf Holz,H.27,Br.37 cm.",141,98.9,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88442,242450,27,25,"- Lucas van Uden, * 18.10.1595 in Antwerpen,4.11.1672, Schuiler seines Vaters, des Stadtmalers Artus van Uden, gehorte zu dem Freundeskreise des Peter Paul Rubens und malte haufig die landschaftlichen Hintergrinde in dessen Gemalden. LANDSCHAFT mit Baumen und geistvoller figurlicher Staffage. Auf Leinwand,H.57,Br.85 cm （s.Abb.).",147,83.0,False,title_direct,Peter Paul Rubens,Scuola di Rubens,,,Sec. XVI
 BO0624_88442,242451,28,26,"DIE HEILIGE FAMILIE MIT ELISABETH. Dem der Mutter im SchoBe liegenden Jesukinde uberreicht Elisabeth einen Apfel. Weiter zurick im Hofe sieht man Josef, bei der Zimmermannsarbeit beschaftigt.",152,99.2,False,positional,,Vlamischer Romanist vom Ende des 16. Jahrhunderts,,,
 BO0624_88442,242452,29,27,"GRABLEGUNG CHRISTI. Drei Manner umfassen den Korper Christi, um ihn in den Steinsarg zu legen. Maria Magdalena,in die Knie gesunken,ergreift seinen linken Arm. Hinter dem Sarkophag stehen trauernd Maria u. Johannes. Auf Kupfer, mit abgeschragten Ecken. H.20,Br.16cm.",157,99.4,False,positional,,Vlamischer Meister um 1600,OGGETTI IN RAME,,
-BO0624_88442,242453,30,28,<!-- image -->,161,100.0,False,positional,,Vlamischer Meister um 1600,,,
-BO0624_88442,242454,31,29,"WALDLANDSCHAFT MIT STORCH AM WASSER.AufHolz,mit dem eingebrannten Zeichen einer Gilde,links unten die Aufschrift:,Nederland Bauer"". H.24,2,Br.30cm.",169,99.0,False,positional,,Vlamischer Meister um 1600,,,
-BO0624_88442,242455,32,30,"Alexander Keirincx, * in Antwerpen 23.1. 1600, in Amsterdam um 1652. GROSSE BAUMLANDSCHAFT mit Kirche,Hausern und Figurenstaffage, vorwiegend mit Lasurfarben gemalt, links Reste der Signatur:,Key ... AufHolz,H.77,Br.115 cm （s.Abb.)",177,83.8,False,positional,,Vlamischer Meister um 1600,,,Sec. XVII
-BO0624_88442,242456,33,31,"AM KRANKENBETT. Eine Frau sitzt neben dem Bett,in dem ihr kranker Mann liegt, bezeichnet: ,H. Govaerts"". Das Gemalde bildete ursprunglich zusammen mit dem folgenden ein Ganzes. Auf Leinwand,H.28,6,Br.19,5 cm.",181,99.3,False,positional,,Vlamischer Meister um 1600,,,
-BO0624_88442,242457,34,32,"BAUERNSTUBE. Vor dem Kaminfeuer sitzt eine Bauernfamilie, die sich warmt, rechts ein Madchen bei einer Kinderwiege, links ist ein Junge damit beschaftigt, einen Kessel auszuleeren. Das Gemalde bildete urspruinglich zusammen mit dem vorhergehenden signierten Bilde des Meisters ein Ganzes. Auf Leinwand,H.37,7,Br.37,3cm.",182,99.5,False,positional,,Vlamischer Meister um 1600,,,
-BO0624_88442,242458,35,33,"BAUERN IN DER SCHENKE,nach David Teniers,mit dem Zeichen: ,D. Teniers F."" Auf Kupfer,H.22,Br.29 cm.",186,98.4,False,positional,TENIERS DAVID IL GIOVANE,Vlamischer Meister um 1600,OGGETTI IN RAME,,
+BO0624_88442,242453,30,28,<!-- image -->,161,100.0,False,none,,,,,
+BO0624_88442,242454,31,29,"WALDLANDSCHAFT MIT STORCH AM WASSER.AufHolz,mit dem eingebrannten Zeichen einer Gilde,links unten die Aufschrift:,Nederland Bauer"". H.24,2,Br.30cm.",169,99.0,False,none,,,,,
+BO0624_88442,242455,32,30,"Alexander Keirincx, * in Antwerpen 23.1. 1600, in Amsterdam um 1652. GROSSE BAUMLANDSCHAFT mit Kirche,Hausern und Figurenstaffage, vorwiegend mit Lasurfarben gemalt, links Reste der Signatur:,Key ... AufHolz,H.77,Br.115 cm （s.Abb.)",177,83.8,False,none,,,,,Sec. XVII
+BO0624_88442,242456,33,31,"AM KRANKENBETT. Eine Frau sitzt neben dem Bett,in dem ihr kranker Mann liegt, bezeichnet: ,H. Govaerts"". Das Gemalde bildete ursprunglich zusammen mit dem folgenden ein Ganzes. Auf Leinwand,H.28,6,Br.19,5 cm.",181,99.3,False,none,,,,,
+BO0624_88442,242457,34,32,"BAUERNSTUBE. Vor dem Kaminfeuer sitzt eine Bauernfamilie, die sich warmt, rechts ein Madchen bei einer Kinderwiege, links ist ein Junge damit beschaftigt, einen Kessel auszuleeren. Das Gemalde bildete urspruinglich zusammen mit dem vorhergehenden signierten Bilde des Meisters ein Ganzes. Auf Leinwand,H.37,7,Br.37,3cm.",182,99.5,False,none,,,,,
+BO0624_88442,242458,35,33,"BAUERN IN DER SCHENKE,nach David Teniers,mit dem Zeichen: ,D. Teniers F."" Auf Kupfer,H.22,Br.29 cm.",186,98.4,False,none,TENIERS DAVID IL GIOVANE,,OGGETTI IN RAME,,
 BO0624_88442,242459,36,34,"<!-- image --> BRUSTBILD EINER JUNGEN DAME mit blondem Haare und reichem Perlenschmuck, in ausgeschnittenem roten Kleide. Auf Leinwand, H.71, Br. 55 cm (s. Abb.).",194,97.5,False,positional,,Hollandische Meister,,,
-BO0624_88442,242460,37,35,ARKADISCHE LANDSCHAFT mit badenden Madchen.,196,96.6,False,positional,,Hollandische Meister,,,
-BO0624_88442,242461,38,36,"<!-- image --> SUDLICHE LANDSCHAFT mit Ruinen, einem See und reicher Figurenstaffage. Auf Holz,H.49, Br.36,7 cm (s.Abb.).",202,96.6,False,positional,,Hollandische Meister,OGGETTI IN LEGNO,,
-BO0624_88442,242462,39,37,"DER WASSERFALL. Uber schroffe Felsen walzt ein Wasserfall seine Fluten in einen Wildbach hinab, an dessen Ufer ein Wanderer schreitet. Weiter zurick drei Staffagefiguren und Blick iber Hauser und Turme auf ferne Berge. Bezeichnet:,J. H. f. 1670"" AufLeinwand,H.33,5,Br.44,5cm.",204,99.4,False,positional,,Hollandische Meister,,,Sec. XVII
-BO0624_88442,242463,40,38,"<!-- image --> FRUCHTSTILLEBEN. Auf einer rotbraunen Steinbalustrade, die rechts durch olivgruinen Samt gedeckt ist, liegt in schrager Linie eine hellblaugraue Delfter Schissel mit Obst und daneben ein Zinnteller mit zwei Birnen. Dahinter erhebt sich eine reich skulpierte Alabastervase.",211,98.7,False,positional,,Hollandische Meister,PIATTI,,
-BO0624_88442,242464,41,39,SALOMO OPFERTMITDEMVOLKEDENHEIDNISCHENGOTTERN.,218,96.8,False,positional,,Hollandische Meister,,,
-BO0624_88442,242465,42,40,BRUSTBILD eines bartigen Mannes.,224,95.4,False,positional,,Hollandische Meister,,,
-BO0624_88442,242466,43,41,"- Jakob van Ruisdael, * in Harlem um 1627(nach anderer Angabezu Naarden), begraben in Haarlem am 14.3.1682. Bildete sich als Autodidakt und wurde 1648 Mitglied der Haarlemer Malergilde, tatig in Amsterdam und Haarlem.",232,100.0,False,positional,RUYSDAEL JACQUES,Hollandische Meister,,,Sec. XVII
-BO0624_88442,242467,44,41,"HUGELLANDSCHAFT. Hinter einem freistehenden Baume erhebt sich links ein Hugel, auf dem, von Baumen und Buschwerk umgeben, ein Bauernhaus liegt. Aus Wolken hervorbrechende Sonnenstrahlen beleuchten blitzartig einzelne Stellen des Weges, der neben dem Hugel in die Tiefe fuhrt, wo ein Mann und eine Frau im Gesprach beieinander stehen. Weiter zuruick liegen Baumgruppen und wellige Erhebungen, die nach der Ferne in blauem Dunst verschwimmen. Die Komposition ist ganz im Geiste des Meisters von vorwiegend ernstem Charakter. Auf Leinwand,H.43,5,Br.56,5 cm（s.Abb.). 1630 in die Amsterdamer Malergilde aufgenommen.",233,95.6,False,positional,,Hollandische Meister,,,Sec. XVII
-BO0624_88442,242468,45,42,"LABAN FINDET DIE HAUSGOTTER NICHT.Als Jakobmit Lea und Rahel aus Mesopotamien seinem Schwiegervater Laban entfloh, stahl Rahel ihres Vaters Gotzen. Laban reiste den Entflohenen nach und ereilte sie auf dem Berge Gilead.Bevor er sich mit Jakob versohnte, suchte er nach den gestohlenen Gotzen, ohne sie zu finden, weil Rahel sie unter den Kamelsattel gelegt und sich selbst darauf gesetzt hatte.-Die Darstellung geht zurick auf das erste Buch Mose,Kapitel 31,wo es Vers 34,35 heiBt:,Da nahm Rahel die Gotzen und legte sie unter den Kamelsattel und setzte sich darauf,Laban aber betastete die ganze Hutte und fand nichts. Da sprach sie zu ihrem Vater: Mein Herr, zurne nicht, denn ich kann nicht aufstehen vor Dir, denn es geht mir nach der Frauen Weise. Also fand er die Gotzen nicht, wie sehr er suchte.",236,99.8,False,positional,,Hollandische Meister,OGGETTI IN METALLO,,
-BO0624_88442,242469,46,43,"MARINE. Ein Fischerhafen an der hollandischen Kuste ist belebt durch eine Anzahl kleiner Segelbote, die teils ankern, teils dem Fischfang obliegen. Meister, der in der Art des Le Duc und des Pieter Codde malte.",242,81.7,False,positional,,Hollandische Meister,,,
-BO0624_88442,242470,47,44,"RAUBER BEI EINER BAUERNFAMILIE.Vor dem Rauberhauptmann,der drohend nach seinem Stocke greift, stehen in demitiger Haltung ein Bauer und dessen Frau. Drei Banditen, die wohl von einer Fahrt zurickgekehrt sind, legen ihre Waffen ab. Bezeichnet:,Velesius 1632.Vielleicht identisch mit einem nach Wurzbach 1908 in Amsterdam versteigerten Bilde gleichen Gegenstandes mit gleicher Signatur und gleichen Datum.",248,99.6,False,positional,,Hollandische Meister,,,Sec. XVII
-BO0624_88442,242471,48,45,"SUDLICHE LANDSCHAFT mit SchloBhof auf einem Hugel, dem eine Frau zuschreitet,im Vordergrunde ein Mann und eine Frau im Gesprach, rechts zwei hohe Baume. Rundbild auf Holz,Durchmesser 31 cm.",254,99.2,False,positional,,Hollandische Meister,OGGETTI IN LEGNO,,
-BO0624_88442,242472,49,46,"BILDNIS DES LANDGRAFL.HESSSCHEN RATES CHRISTIAN OTTO SUS. Halbfigur nach vorn, in Allongepericke, einen roten weibgefitterten Mantel uber die linke Schulter gelegt und den linken Arm auf eine Bruistung gestitzt. Links oben die Inschrift: ,Christian Otto Sus Landgraefl. Hess. Rath. Cassel Ann. 1708 pinx."" Rechts unten die weitere Inschrift:,Anno 1735 Aetatis 74., letzteres vermutlich das Todesdatum des Dargestellten. <!-- image -->",257,98.9,False,positional,,Hollandische Meister,,,Sec. XVIII
-BO0624_88442,242473,50,47,"Jan de Vos (Vosseus), tatig 1650 bis 1670 zu Leiden. BILDNIS (KNIESTUCK) EINES ALTEREN HERRN, anscheinend eines Professors, nach vorn sitzend, in schwarzer Kleidung mit weibem Kragen und weiBen Manschetten, die Linke beteuernd auf die Brust, die Rechte auf die Stuhllehne legend. Bezeichnet rechts oben: ,J. DE VOS f. 1658""",269,91.5,False,positional,,Hollandische Meister,,,Sec. XVII
+BO0624_88442,242460,37,35,ARKADISCHE LANDSCHAFT mit badenden Madchen.,196,96.6,False,none,,,,,
+BO0624_88442,242461,38,36,"<!-- image --> SUDLICHE LANDSCHAFT mit Ruinen, einem See und reicher Figurenstaffage. Auf Holz,H.49, Br.36,7 cm (s.Abb.).",202,96.6,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88442,242462,39,37,"DER WASSERFALL. Uber schroffe Felsen walzt ein Wasserfall seine Fluten in einen Wildbach hinab, an dessen Ufer ein Wanderer schreitet. Weiter zurick drei Staffagefiguren und Blick iber Hauser und Turme auf ferne Berge. Bezeichnet:,J. H. f. 1670"" AufLeinwand,H.33,5,Br.44,5cm.",204,99.4,False,none,,,,,Sec. XVII
+BO0624_88442,242463,40,38,"<!-- image --> FRUCHTSTILLEBEN. Auf einer rotbraunen Steinbalustrade, die rechts durch olivgruinen Samt gedeckt ist, liegt in schrager Linie eine hellblaugraue Delfter Schissel mit Obst und daneben ein Zinnteller mit zwei Birnen. Dahinter erhebt sich eine reich skulpierte Alabastervase.",211,98.7,False,none,,,PIATTI,,
+BO0624_88442,242464,41,39,SALOMO OPFERTMITDEMVOLKEDENHEIDNISCHENGOTTERN.,218,96.8,False,none,,,,,
+BO0624_88442,242465,42,40,BRUSTBILD eines bartigen Mannes.,224,95.4,False,none,,,,,
+BO0624_88442,242466,43,41,"- Jakob van Ruisdael, * in Harlem um 1627(nach anderer Angabezu Naarden), begraben in Haarlem am 14.3.1682. Bildete sich als Autodidakt und wurde 1648 Mitglied der Haarlemer Malergilde, tatig in Amsterdam und Haarlem.",232,100.0,False,none,RUYSDAEL JACQUES,,,,Sec. XVII
+BO0624_88442,242467,44,41,"HUGELLANDSCHAFT. Hinter einem freistehenden Baume erhebt sich links ein Hugel, auf dem, von Baumen und Buschwerk umgeben, ein Bauernhaus liegt. Aus Wolken hervorbrechende Sonnenstrahlen beleuchten blitzartig einzelne Stellen des Weges, der neben dem Hugel in die Tiefe fuhrt, wo ein Mann und eine Frau im Gesprach beieinander stehen. Weiter zuruick liegen Baumgruppen und wellige Erhebungen, die nach der Ferne in blauem Dunst verschwimmen. Die Komposition ist ganz im Geiste des Meisters von vorwiegend ernstem Charakter. Auf Leinwand,H.43,5,Br.56,5 cm（s.Abb.). 1630 in die Amsterdamer Malergilde aufgenommen.",233,95.6,False,none,,,,,Sec. XVII
+BO0624_88442,242468,45,42,"LABAN FINDET DIE HAUSGOTTER NICHT.Als Jakobmit Lea und Rahel aus Mesopotamien seinem Schwiegervater Laban entfloh, stahl Rahel ihres Vaters Gotzen. Laban reiste den Entflohenen nach und ereilte sie auf dem Berge Gilead.Bevor er sich mit Jakob versohnte, suchte er nach den gestohlenen Gotzen, ohne sie zu finden, weil Rahel sie unter den Kamelsattel gelegt und sich selbst darauf gesetzt hatte.-Die Darstellung geht zurick auf das erste Buch Mose,Kapitel 31,wo es Vers 34,35 heiBt:,Da nahm Rahel die Gotzen und legte sie unter den Kamelsattel und setzte sich darauf,Laban aber betastete die ganze Hutte und fand nichts. Da sprach sie zu ihrem Vater: Mein Herr, zurne nicht, denn ich kann nicht aufstehen vor Dir, denn es geht mir nach der Frauen Weise. Also fand er die Gotzen nicht, wie sehr er suchte.",236,99.8,False,none,,,OGGETTI IN METALLO,,
+BO0624_88442,242469,46,43,"MARINE. Ein Fischerhafen an der hollandischen Kuste ist belebt durch eine Anzahl kleiner Segelbote, die teils ankern, teils dem Fischfang obliegen. Meister, der in der Art des Le Duc und des Pieter Codde malte.",242,81.7,False,none,,,,,
+BO0624_88442,242470,47,44,"RAUBER BEI EINER BAUERNFAMILIE.Vor dem Rauberhauptmann,der drohend nach seinem Stocke greift, stehen in demitiger Haltung ein Bauer und dessen Frau. Drei Banditen, die wohl von einer Fahrt zurickgekehrt sind, legen ihre Waffen ab. Bezeichnet:,Velesius 1632.Vielleicht identisch mit einem nach Wurzbach 1908 in Amsterdam versteigerten Bilde gleichen Gegenstandes mit gleicher Signatur und gleichen Datum.",248,99.6,False,none,,,,,Sec. XVII
+BO0624_88442,242471,48,45,"SUDLICHE LANDSCHAFT mit SchloBhof auf einem Hugel, dem eine Frau zuschreitet,im Vordergrunde ein Mann und eine Frau im Gesprach, rechts zwei hohe Baume. Rundbild auf Holz,Durchmesser 31 cm.",254,99.2,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88442,242472,49,46,"BILDNIS DES LANDGRAFL.HESSSCHEN RATES CHRISTIAN OTTO SUS. Halbfigur nach vorn, in Allongepericke, einen roten weibgefitterten Mantel uber die linke Schulter gelegt und den linken Arm auf eine Bruistung gestitzt. Links oben die Inschrift: ,Christian Otto Sus Landgraefl. Hess. Rath. Cassel Ann. 1708 pinx."" Rechts unten die weitere Inschrift:,Anno 1735 Aetatis 74., letzteres vermutlich das Todesdatum des Dargestellten. <!-- image -->",257,98.9,False,none,,,,,Sec. XVIII
+BO0624_88442,242473,50,47,"Jan de Vos (Vosseus), tatig 1650 bis 1670 zu Leiden. BILDNIS (KNIESTUCK) EINES ALTEREN HERRN, anscheinend eines Professors, nach vorn sitzend, in schwarzer Kleidung mit weibem Kragen und weiBen Manschetten, die Linke beteuernd auf die Brust, die Rechte auf die Stuhllehne legend. Bezeichnet rechts oben: ,J. DE VOS f. 1658""",269,91.5,False,none,,,,,Sec. XVII
 BO0624_88442,242474,51,48,"- Charles Andre van Loo (Carle Vanloo), *15.2.1705 in Nizza, 15.7.1765 in Paris. Sohn des Malers Abraham Louis van Loo, Schuler seines Bruders Jean Baptiste, spater des B.Luti in Rom und des Bildhauers Legros. War unter Ludwig XV.,Premier Peintre du Roy""und Direktor der Akademie in Paris. 48. BILDNIS EINES KAVALIERS,der nach links sitzt,den Beschauer anblickt und die Gitarre spielt. Auf dem Tische vor ihm l",278,82.3,False,positional,VAN LOO MICHEL,Franzosische Meister,,,Sec. XVIII
-BO0624_88442,242475,52,49,"49.DER GROSSVATER AUS DER BIBEL VORLESEND,alte Kopie nach des Meisters Gemaide von 1755. Auf Blech gemalt,H.35,5,Br.44,5",280,77.0,False,positional,,Franzosische Meister,OGGETTI IN METALLO,,Sec. XVIII
-BO0624_88442,242476,53,50,<!-- image -->,283,100.0,False,positional,,Franzosische Meister,,,
-BO0624_88442,242477,54,51,"BACCHISCHES GELAGE. Im Grase lagern Nymphen, Satyrn und Bacchusknaben. Weiter zurick wird der auf einem Esel reitende trunkene Silen von bacchischem Gefolge herbeigefuhrt. Rechts tanzen zwei Nymphen u. ein Satyr. Auf Leinwand,H.142,Br.183 cm(s.Abb.).",293,99.4,False,positional,,Franzosische Meister,,,
-BO0624_88442,242478,55,52,"GROSSE LANDSCHAFT MIT BUSSENDER MAGDALENA.Von zwei Engeln begleitet, kniet Maria Magdalena vor dem Gekreuzigten, den eine Strahlenglorie umgibt. Die Motive der Landschaft sind der Umgegend Roms entnommen. Links ragen hohe Baume empor und im Hintergrunde liegen die Ruinen einer befestigten Stadt. Auf Leinwand,H.132,Br.97 cm (s.Abb.). <!-- image -->",297,98.6,False,positional,,Franzosische Meister,,,
+BO0624_88442,242475,52,49,"49.DER GROSSVATER AUS DER BIBEL VORLESEND,alte Kopie nach des Meisters Gemaide von 1755. Auf Blech gemalt,H.35,5,Br.44,5",280,77.0,False,none,,,OGGETTI IN METALLO,,Sec. XVIII
+BO0624_88442,242476,53,50,<!-- image -->,283,100.0,False,none,,,,,
+BO0624_88442,242477,54,51,"BACCHISCHES GELAGE. Im Grase lagern Nymphen, Satyrn und Bacchusknaben. Weiter zurick wird der auf einem Esel reitende trunkene Silen von bacchischem Gefolge herbeigefuhrt. Rechts tanzen zwei Nymphen u. ein Satyr. Auf Leinwand,H.142,Br.183 cm(s.Abb.).",293,99.4,False,none,,,,,
+BO0624_88442,242478,55,52,"GROSSE LANDSCHAFT MIT BUSSENDER MAGDALENA.Von zwei Engeln begleitet, kniet Maria Magdalena vor dem Gekreuzigten, den eine Strahlenglorie umgibt. Die Motive der Landschaft sind der Umgegend Roms entnommen. Links ragen hohe Baume empor und im Hintergrunde liegen die Ruinen einer befestigten Stadt. Auf Leinwand,H.132,Br.97 cm (s.Abb.). <!-- image -->",297,98.6,False,none,,,,,
 BO0624_88442,242479,56,53,"DIE HEILIGEN DREI KONIGE. Vor der heiligen Familie erscheinen die drei Konige mit Gefolge, um ihre Geschenke zu iberreichen.",307,98.8,False,positional,,Italienische Meister,,,
-BO0624_88442,242480,57,54,"<!-- image --> DIE VERKUNDIGUNG. Maria empfangt,an einem Betpult in ihrem Zimmer stehend, die Botschaft des von rechts hinzutretenden Engels. Am Fenster der Ruckwand erscheint die Taube des heiligen Geistes.",316,98.2,False,positional,,Italienische Meister,,,
+BO0624_88442,242480,57,54,"<!-- image --> DIE VERKUNDIGUNG. Maria empfangt,an einem Betpult in ihrem Zimmer stehend, die Botschaft des von rechts hinzutretenden Engels. Am Fenster der Ruckwand erscheint die Taube des heiligen Geistes.",316,98.2,False,none,,,,,
 BO0624_88442,242481,58,55,"DIE PIETA. Vor dem Kreuze sitzt Maria, von Engeln begleitet,klagend mit dem Leichnam des toten Sohnes im SchoBe. Auf Leinwand, H.76, Br.60 cm.",321,98.9,False,positional,Lodovico Carracci,,,,
 BO0624_88442,242482,59,56,"DIE BEWEINUNG CHRISTI. Vor dem Kreuze liegt der tote Christus, den die drei Marien, Johannes und Maria Magdalena beweinen. In der vom Kreuze ausgehenden Strahlenglorie erscheinen Engel und Cherubim.",327,99.2,False,positional,Carlo Dolci,,,,
 BO0624_88442,242483,60,57,"## Werkstatt des Jacopo Robusti,genannt Tintoretto,*29.12.1518 in Venedig, daselbst 31.5.1594. DIE ANBETUNG DER KONIGE. Vor dem Christusknaben kniet der alteste der drei Konige,um ihm ein Juwelenkastchen zu iberreichen.Die beiden anderen Konige halten stehend ihre Geschenke in Handen. Von den fernen Bergen her nahert sich das zahlreiche Gefolge. Drei kindliche Pagen in der Tracht der Zeit, links, in der Mitte und rechts, scheinen die Sohne des Stifters zu sein. Auf Leinwand,H.147,Br.188,5 cm (s.Abb.).",335,90.1,False,title_direct,Jacopo Robusti,,,,Sec. XVI
@@ -72,34 +72,34 @@ BO0624_88442,242493,70,67,"PFERDEMARKT. Federzeichnung, bez.: ,G.v. Pochmann. Wa
 BO0624_88442,242494,71,2,",Rheinlanden"" abgebildet.",386,95.7,False,positional,,,ZEICHNUNGEN,,
 BO0624_88442,242495,72,69,"PORTRAT DES G.VAN VELSSEN,Brustbild in ovaler Einfassung,voll bezeichnete Tuschzeichnung. H.15, Br.9 cm.",391,98.5,False,positional,Francois Boucher,,,,
 BO0624_88442,242496,73,70,"EIN KAVALIER VOR DER PIAZZA DELLA SIGNORIA IN FLORENZ, im Hintergrund der Palazzo vecchio und die Loggia dei Lanzi. Federzeichnung.",395,98.8,False,positional,Jacques Callot,,,,
-BO0624_88442,242497,74,74,"DIE VERMAHLUNG MARIAS MIT JOSEPH. Figurenreiche Komposition H.26,Br.21 cm.",408,98.0,False,positional,Jacques Callot,,,,
+BO0624_88442,242497,74,74,"DIE VERMAHLUNG MARIAS MIT JOSEPH. Figurenreiche Komposition H.26,Br.21 cm.",408,98.0,False,none,,,,,
 BO0624_88442,242498,75,75,"NEPTUN mit wallendem Gewand, in der linken Hand einen Stab haltend",413,97.7,False,positional,Giuseppe Cesari; Cavaliere d'Arpino,,,,
-BO0624_88442,242499,76,2,und auf einem Meeresungeheuer sitzend. Getuschte Federzeichnung.,414,98.4,False,positional,Giuseppe Cesari; Cavaliere d'Arpino,,,,
-BO0624_88442,242500,77,77,"77.DER KONIGSSOHN. Mit der Unterschrift:,Mein armer Mann ist todt,bez.: ,D. C. del."". Tuschzeichnung, wahrscheinlich Vor",422,71.7,False,positional,Giuseppe Cesari; Cavaliere d'Arpino,,,,
-BO0624_88442,242501,78,78,"ENTWURF ZU EINEM MARMORRELIEF SCHILLERS. Oval auf Pergament. Der Vorbesitzer war Christian Hammer, Stockholm. H.45,Br.37cm.",426,98.7,False,positional,Giuseppe Cesari; Cavaliere d'Arpino,,,,
+BO0624_88442,242499,76,2,und auf einem Meeresungeheuer sitzend. Getuschte Federzeichnung.,414,98.4,False,none,,,,,
+BO0624_88442,242500,77,77,"77.DER KONIGSSOHN. Mit der Unterschrift:,Mein armer Mann ist todt,bez.: ,D. C. del."". Tuschzeichnung, wahrscheinlich Vor",422,71.7,False,none,,,,,
+BO0624_88442,242501,78,78,"ENTWURF ZU EINEM MARMORRELIEF SCHILLERS. Oval auf Pergament. Der Vorbesitzer war Christian Hammer, Stockholm. H.45,Br.37cm.",426,98.7,False,none,,,,,
 BO0624_88442,242502,79,79,"79. GOETHE IM PROFIL,nach links gewendet. Markante Kreidezeichnung.",431,100.0,False,positional,Amand Corot,,,,
-BO0624_88442,242503,80,80,"80. MANNERKOPF IM PROFIL, bez.: ,I. Dahl, d. 7. 4. 1843"". H. 12,Br. 10 cm.",432,47.2,False,positional,Amand Corot,,,,Sec. XIX
-BO0624_88442,242504,81,81,"LIEGENDER FUCHS. Bleistiftskizze,bez.:,Deiker""und datiert 18(54).",437,97.6,False,positional,Amand Corot,,,,
-BO0624_88442,242505,82,82,"LIEGENDER FUCHS. Ahnliche Bleistiftzeichnung,bez.:,Deiker 52.",438,97.4,False,positional,Amand Corot,,,,
-BO0624_88442,242506,83,83,DIE AFFENMUSIK. Bleistiftzeichnung.,446,95.7,False,positional,Amand Corot,,,,
-BO0624_88442,242507,84,84,"SCHLOSSANSICHT, dahinter zwei Kirchen,fotte Federzeichnung.",450,97.4,False,positional,Amand Corot,,,,
-BO0624_88442,242508,85,2,in Munchen.,451,90.9,False,positional,Amand Corot,,,,
-BO0624_88442,242509,86,3,"Johann Jakob Dorner der Jungere, Sohn des gleichnamigen Malers,",452,98.4,False,positional,Amand Corot,,,,
-BO0624_88442,242510,87,85,"LANDSCHAFT. Waldansicht, im Vordergrunde Teich,mit grobem Bauern hof, Staffage Madchen mit Hund. Aquarell. H.22,5,Br.27 cm.",456,98.7,False,positional,Amand Corot,,,,
-BO0624_88442,242511,88,86,"FRAUEN AM BRUNNEN. Bleistiftzeichnung ,in Neubau abends den Juni 1812. Der zeichnende Mann links ahnelt Erhard selbst auf der Radierung von Klein, s.Muther,Malerei im 19.Jahrhundert,Band 2,Seite 126.",461,82.3,False,positional,Amand Corot,,ACQUEFORTI,,Sec. XIX
-BO0624_88442,242512,89,87,"BACCHISCHER ZUG, Federzeichnung. H.12,Br.31 cm.",465,96.7,False,positional,Amand Corot,,,,
-BO0624_88442,242513,90,2,"Anna de Frey, Schwester von Jan de Frey, Schulerin von J. Lauwers. 88. BAUERNKIRMES nach David Teniers dem Jungern,grobe dekorative Tuschzeichnung, bez.:,Anna de Frey fecit 1786"". H.44,Br.53,5cm.",466,99.5,False,positional,Amand Corot,,,,Sec. XVIII
-BO0624_88442,242514,91,3,"Heinrich Fussli, * 6. 2. 1741 in Zurich,  16.4.1825 in Putneyhill bei London Gehort zu Goethes Freundeskreis; als Jugendfreund Lavaters vermittelt er dessen Bekanntschaft mit Goethe, der seine Arbeiten sammelte und nachbildete, vergl. ,Goethe und Lavater"", Schriften der Goethe-Gesellschaft, Bd.16, Weimar 1901.",467,99.7,False,positional,Amand Corot,,,,Sec. XVIII
-BO0624_88442,242515,92,89,"DIE ERMORDUNG VON HAMLETS VATER (Schauspielszene). Tusch- zeichnung. H.13,Br.14,5 cm.",468,78.5,False,positional,Amand Corot,,,,
-BO0624_88442,242516,93,90,"90. ENTWURF EINES BRUNNENS,der von Meergottern getragen wird. Feder und Tusche. H.27,Br.19,5 cm.",473,100.0,False,positional,Amand Corot,,,,
+BO0624_88442,242503,80,80,"80. MANNERKOPF IM PROFIL, bez.: ,I. Dahl, d. 7. 4. 1843"". H. 12,Br. 10 cm.",432,47.2,False,none,,,,,Sec. XIX
+BO0624_88442,242504,81,81,"LIEGENDER FUCHS. Bleistiftskizze,bez.:,Deiker""und datiert 18(54).",437,97.6,False,none,,,,,
+BO0624_88442,242505,82,82,"LIEGENDER FUCHS. Ahnliche Bleistiftzeichnung,bez.:,Deiker 52.",438,97.4,False,none,,,,,
+BO0624_88442,242506,83,83,DIE AFFENMUSIK. Bleistiftzeichnung.,446,95.7,False,none,,,,,
+BO0624_88442,242507,84,84,"SCHLOSSANSICHT, dahinter zwei Kirchen,fotte Federzeichnung.",450,97.4,False,none,,,,,
+BO0624_88442,242508,85,2,in Munchen.,451,90.9,False,none,,,,,
+BO0624_88442,242509,86,3,"Johann Jakob Dorner der Jungere, Sohn des gleichnamigen Malers,",452,98.4,False,none,,,,,
+BO0624_88442,242510,87,85,"LANDSCHAFT. Waldansicht, im Vordergrunde Teich,mit grobem Bauern hof, Staffage Madchen mit Hund. Aquarell. H.22,5,Br.27 cm.",456,98.7,False,none,,,,,
+BO0624_88442,242511,88,86,"FRAUEN AM BRUNNEN. Bleistiftzeichnung ,in Neubau abends den Juni 1812. Der zeichnende Mann links ahnelt Erhard selbst auf der Radierung von Klein, s.Muther,Malerei im 19.Jahrhundert,Band 2,Seite 126.",461,82.3,False,none,,,ACQUEFORTI,,Sec. XIX
+BO0624_88442,242512,89,87,"BACCHISCHER ZUG, Federzeichnung. H.12,Br.31 cm.",465,96.7,False,none,,,,,
+BO0624_88442,242513,90,2,"Anna de Frey, Schwester von Jan de Frey, Schulerin von J. Lauwers. 88. BAUERNKIRMES nach David Teniers dem Jungern,grobe dekorative Tuschzeichnung, bez.:,Anna de Frey fecit 1786"". H.44,Br.53,5cm.",466,99.5,False,none,TENIERS DAVID IL GIOVANE,,,,Sec. XVIII
+BO0624_88442,242514,91,3,"Heinrich Fussli, * 6. 2. 1741 in Zurich,  16.4.1825 in Putneyhill bei London Gehort zu Goethes Freundeskreis; als Jugendfreund Lavaters vermittelt er dessen Bekanntschaft mit Goethe, der seine Arbeiten sammelte und nachbildete, vergl. ,Goethe und Lavater"", Schriften der Goethe-Gesellschaft, Bd.16, Weimar 1901.",467,99.7,False,none,,,,,Sec. XVIII
+BO0624_88442,242515,92,89,"DIE ERMORDUNG VON HAMLETS VATER (Schauspielszene). Tusch- zeichnung. H.13,Br.14,5 cm.",468,78.5,False,none,,,,,
+BO0624_88442,242516,93,90,"90. ENTWURF EINES BRUNNENS,der von Meergottern getragen wird. Feder und Tusche. H.27,Br.19,5 cm.",473,100.0,False,none,,,,,
 BO0624_88442,242517,94,91,"91.DIE VERKLARUNG CHRISTI. Maria, rechts Moses, links Elias. Tuschzeichnung auf Pergament, bez.: ,H.F. Gobisch fec."".",476,85.7,False,title_direct,H. F. Gobisch,,,,
-BO0624_88442,242518,95,92,"DIE AUSGIESSUNG DES HL. GEISTES. Auf den Kopfen der Junger und der Maria sieht man die Flammen leuchten. Tuschzeichnung auf Pergament, H.19,5,Br.14 cm.",477,99.0,False,positional,H. F. Gobisch,,,,
-BO0624_88442,242519,96,93,"LANDSCHAFT MIT STAFFAGE. Hirte mit Herde und zwei Frauen unter einem Eichbaum, vor einer Hutte zwei liegende Manner, bez.:,Grass Zurich Febr.97"",mit Dedikation des Kunstlers an Frau Henriette Clausius. Aquarell. H.23,Br.18cm.",480,99.3,False,positional,H. F. Gobisch,,,,
-BO0624_88442,242520,97,94,"ANSICHT DES VIERWALDSTATTERSEES,bez.:,A.Fliehlen sur le lac de Luzerne Ph.Hackert f. 1778"". H.34,Br.45,5 cm.",486,98.6,False,positional,H. F. Gobisch,,,,Sec. XVIII
-BO0624_88442,242521,98,95,"GEBIRGIGE FLUSSLANDSCHAFT mit zwei Wanderern. Tuschzeichnung Ruckseitig bezeichnet: ,J. P. Hackert"". H.17,5,Br.23 cr",487,98.6,False,positional,H. F. Gobisch,,,,
-BO0624_88442,242522,99,96,"THEATERDEKORATION,DARSTELLEND EINE PARKSZENERIE, breite Allee,rechts und links mit architektonischen Anlagen fankiert, in der Mitte eine Fontane. Aquarell. H.40,Br.57cm.",490,99.1,False,positional,H. F. Gobisch,,,,
-BO0624_88442,242523,100,98,"98. DIE VIA APPIA BEI ROM mit dem Grabmal der Caecilia Metella.Federund Tuschzeichnung. Bezeichnet:,V.Heyde H.13,Br.18 c",494,99.6,False,positional,H. F. Gobisch,,,,
-BO0624_88442,242524,101,99,"99. ROTELBILDNIS, junger Mann nach vorn sehend.",495,62.0,False,positional,H. F. Gobisch,,,,
+BO0624_88442,242518,95,92,"DIE AUSGIESSUNG DES HL. GEISTES. Auf den Kopfen der Junger und der Maria sieht man die Flammen leuchten. Tuschzeichnung auf Pergament, H.19,5,Br.14 cm.",477,99.0,False,none,,,,,
+BO0624_88442,242519,96,93,"LANDSCHAFT MIT STAFFAGE. Hirte mit Herde und zwei Frauen unter einem Eichbaum, vor einer Hutte zwei liegende Manner, bez.:,Grass Zurich Febr.97"",mit Dedikation des Kunstlers an Frau Henriette Clausius. Aquarell. H.23,Br.18cm.",480,99.3,False,none,,,,,
+BO0624_88442,242520,97,94,"ANSICHT DES VIERWALDSTATTERSEES,bez.:,A.Fliehlen sur le lac de Luzerne Ph.Hackert f. 1778"". H.34,Br.45,5 cm.",486,98.6,False,none,HACKERT PHILIPPE,,,,Sec. XVIII
+BO0624_88442,242521,98,95,"GEBIRGIGE FLUSSLANDSCHAFT mit zwei Wanderern. Tuschzeichnung Ruckseitig bezeichnet: ,J. P. Hackert"". H.17,5,Br.23 cr",487,98.6,False,none,HACKERT PHILIPPE,,,,
+BO0624_88442,242522,99,96,"THEATERDEKORATION,DARSTELLEND EINE PARKSZENERIE, breite Allee,rechts und links mit architektonischen Anlagen fankiert, in der Mitte eine Fontane. Aquarell. H.40,Br.57cm.",490,99.1,False,none,,,,,
+BO0624_88442,242523,100,98,"98. DIE VIA APPIA BEI ROM mit dem Grabmal der Caecilia Metella.Federund Tuschzeichnung. Bezeichnet:,V.Heyde H.13,Br.18 c",494,99.6,False,none,,,,,
+BO0624_88442,242524,101,99,"99. ROTELBILDNIS, junger Mann nach vorn sehend.",495,62.0,False,none,,,,,
 BO0624_88442,242525,102,100,"AMORETTENTANZ. Zahlreiche Putten in dichtgedrangtem Kreise um e:ne Gruppe von drei Amoretten tanzend. Plafondskizze. H.20,5,Br.31 cm.",499,98.5,False,positional,Cornelis Holsteyn,,OGGETTI VARI,,
 BO0624_88442,242526,103,101,"KNABE, AN EINEM FEUER SICH WARMEND. Ovale Kreidezeichnung.",504,96.5,False,positional,N. Honkoop,,,,
 BO0624_88442,242527,104,102,"FAMILIENSZENE. Bleistiftzeichnung.Bezeichnet:,H.1839"".Auf der Ruckseite ein Monch, Heiden taufend. H.16,Br.15 cm.",510,98.2,False,positional,Theodor Hosemann,,,,Sec. XIX
@@ -107,81 +107,81 @@ BO0624_88442,242528,105,103,PORTRAT DES MALERS JAN BAPTIST WEENIX. Tuschzeichnun
 BO0624_88442,242529,106,104,"SCHLOSS UND FELSENRUINE VOR GEBIRGSKAMM,im Talgrunde",521,96.3,False,positional,Julius Hubner,,,,
 BO0624_88442,242530,107,105,"MARINELANDSGHAFT mit Leuchtturm,im Vordergrunde ein Fischer beim Fischen mit dem Netz, ein Angler und eine Frau. 1788, voll bezeichnet. Tuschzeichnung. H.17,Br.22 cm.",526,98.8,False,positional,C. de Jonker,,,,Sec. XVIII
 BO0624_88442,242531,108,106,"STUDIEN dreier Nonnen und eines Madchens. Auf der Ruckseite ein Pferdekopf und andere Studien. H.15,Br.21 cm.",530,98.1,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242532,109,107,"ANSICHT DER RUINE DONAUSTAUF. Federzeichnung. Bezeichnet: ,,Donaustauf 181l. fec. J.A.Klein"". Die gleiche Ansicht hat im kunstlerischen Wettstreit Kleins Freund Wiessner (s. Nr.193) dargestellt. H.16,Br.23 cm.",532,83.7,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242533,110,108,"ROMISCHE GEBIRGSLANDSCHAFT mit Wasserfall und Holzbricke. Figurenstaffage, oben RiB im Blatt, bez.: ,J. A. Knip. H.41,5,Br.53cm.",534,98.3,False,positional,Johann Adam Klein,Scuola Romana,,,
-BO0624_88442,242534,111,6,"—109.RUINEEINESROMISCHENAMPHITHEATERS,vielleicht desKolosseums, mit Staffage. Aquarell, bez.: ,J. A. Knip"". H.41,Br.53 cm",535,99.1,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242535,112,110,"INNERES EINES BAUERNHOFES.Mann,einen Esel trankend und Bauerin, einen Korb tragend. Aquarell. H.29,Br.43cm.",539,98.1,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242536,113,111,"FELSENLANDSCHAFT MIT WASSERFALL. Federzeichn,datiert 1792. H.9,Br.11 cm.",542,97.2,False,positional,Johann Adam Klein,,,,Sec. XVIII
+BO0624_88442,242532,109,107,"ANSICHT DER RUINE DONAUSTAUF. Federzeichnung. Bezeichnet: ,,Donaustauf 181l. fec. J.A.Klein"". Die gleiche Ansicht hat im kunstlerischen Wettstreit Kleins Freund Wiessner (s. Nr.193) dargestellt. H.16,Br.23 cm.",532,83.7,False,none,,,,,
+BO0624_88442,242533,110,108,"ROMISCHE GEBIRGSLANDSCHAFT mit Wasserfall und Holzbricke. Figurenstaffage, oben RiB im Blatt, bez.: ,J. A. Knip. H.41,5,Br.53cm.",534,98.3,False,none,,Scuola Romana,,,
+BO0624_88442,242534,111,6,"—109.RUINEEINESROMISCHENAMPHITHEATERS,vielleicht desKolosseums, mit Staffage. Aquarell, bez.: ,J. A. Knip"". H.41,Br.53 cm",535,99.1,False,none,,,,,
+BO0624_88442,242535,112,110,"INNERES EINES BAUERNHOFES.Mann,einen Esel trankend und Bauerin, einen Korb tragend. Aquarell. H.29,Br.43cm.",539,98.1,False,none,,,,,
+BO0624_88442,242536,113,111,"FELSENLANDSCHAFT MIT WASSERFALL. Federzeichn,datiert 1792. H.9,Br.11 cm.",542,97.2,False,none,,,,,Sec. XVIII
 BO0624_88442,242537,114,112,"FLUSSLANDSCHAFT. Miniatur. MARINE, mit mehreren Booten, einem Dampfschiff und einem Segelschiff",552,83.2,False,positional,Johannes Hermanus Koekkoek,,MINIATURE,,
-BO0624_88442,242538,115,113,"MARINE, links Felsen mit Burg, zwei Segelboote im Sturm kampfend. Aquarell, sehrnaturalistisch ausgefuhrt,bez.:,J. H.Koekkoek.H. 23,Br.32 cm.",553,98.5,False,positional,Johannes Hermanus Koekkoek,,,,
-BO0624_88442,242539,116,3,"belebt. Aquarell. H.24,Br.33 cm.",554,96.7,False,positional,Johannes Hermanus Koekkoek,,,,
+BO0624_88442,242538,115,113,"MARINE, links Felsen mit Burg, zwei Segelboote im Sturm kampfend. Aquarell, sehrnaturalistisch ausgefuhrt,bez.:,J. H.Koekkoek.H. 23,Br.32 cm.",553,98.5,False,none,KOEKKOEK B. C.,,,,
+BO0624_88442,242539,116,3,"belebt. Aquarell. H.24,Br.33 cm.",554,96.7,False,none,,,,,
 BO0624_88442,242540,117,4,"Marinus Adriaen Koekkoek, Sohn des Malers Johannes Hermanus Koek-",555,98.4,False,title_direct,Johannes Hermanus Koekkoek,,,,
-BO0624_88442,242541,118,5,"115.HERBSTLANDSCHAFT, Wassermihle im Tale, links Herde ins Wasser gehend, rechts Dorf mit Brucke und Wasserfall, im Hintergrund auf Anhohe ein SchloB.Lavierte Tuschzeichnung,bez.:,M.A.Koekkoek.H. 20,Br.265 cm",556,99.5,False,positional,Johannes Hermanus Koekkoek,,,,
-BO0624_88442,242542,119,6,"koek,* 27. 9.1807 in Middelburg,1870 in Hilversum.",557,97.9,False,positional,Johannes Hermanus Koekkoek,,,,Sec. XIX
-BO0624_88442,242543,120,116,"JUNGLINGSPORTRAT. Reizvolle Tuschzeichnung, aquarelliert, bez.: ,F.Koellner f. 8 br.1817. H.17,Br.17 cm.",559,97.9,False,positional,Johannes Hermanus Koekkoek,,,,Sec. XIX
+BO0624_88442,242541,118,5,"115.HERBSTLANDSCHAFT, Wassermihle im Tale, links Herde ins Wasser gehend, rechts Dorf mit Brucke und Wasserfall, im Hintergrund auf Anhohe ein SchloB.Lavierte Tuschzeichnung,bez.:,M.A.Koekkoek.H. 20,Br.265 cm",556,99.5,False,none,KOEKKOEK B. C.,,,,
+BO0624_88442,242542,119,6,"koek,* 27. 9.1807 in Middelburg,1870 in Hilversum.",557,97.9,False,none,KOEKKOEK B. C.,,,,Sec. XIX
+BO0624_88442,242543,120,116,"JUNGLINGSPORTRAT. Reizvolle Tuschzeichnung, aquarelliert, bez.: ,F.Koellner f. 8 br.1817. H.17,Br.17 cm.",559,97.9,False,none,,,,,Sec. XIX
 BO0624_88442,242544,121,117,TROMMLER UND PFEIFER. Tuschzeichnung.,569,94.6,False,positional,Franz Nikolaus Konig,,,,
 BO0624_88442,242545,122,120,"EINFAHRT IN DEN HAFEN VON NEW YORK, mit vielen Schiffen und Booten belebt, links interessantes Stadtbild, rechts Festungswerke. Aquarell.",579,98.5,False,positional,Max Kuhn,,,,
 BO0624_88442,242546,123,123,"SITZENDER MANN, den Kopf auf den rechten Arm gestitzt. Rotelzeichn.",591,97.0,False,positional,Jan Antonie Langendijk,,,,
-BO0624_88442,242547,124,122,SITZENDER MANN. Rotelzeichnung.,593,93.5,False,positional,Jan Antonie Langendijk,,,,
+BO0624_88442,242547,124,122,SITZENDER MANN. Rotelzeichnung.,593,93.5,False,none,,,,,
 BO0624_88442,242548,125,129,"BETTLER DEN HUT HINHALTEND. Aquarell. H.21, Br. 14,5 cm. 130.ITALIENER MIT MARMORFIGUREN.Aquarell. H.21,Br.14,5cm.",610,98.2,False,positional,Jan Antonie Langendijk,,,,
-BO0624_88442,242549,126,128,"BAUERNJUNGE mit Korb und Hirtenstab, BAUERNMADCHEN mit Korb und Kleiderballen. Rotelzeichnungen. Gegenstucke. Auf demselben Karton. H.20,Br.14 cm.",611,98.6,False,positional,Jan Antonie Langendijk,,,,
+BO0624_88442,242549,126,128,"BAUERNJUNGE mit Korb und Hirtenstab, BAUERNMADCHEN mit Korb und Kleiderballen. Rotelzeichnungen. Gegenstucke. Auf demselben Karton. H.20,Br.14 cm.",611,98.6,False,none,,,,,
 BO0624_88442,242550,127,132,"KOPF EINES BARTLOSEN ALTEREN MANNES mit Turban.Federund Tusche, aus Kabinett Mariette. Hervorragendes Blatt, dem Meister selbst",616,98.4,False,positional,Leonardo da Vinci,,,,
-BO0624_88442,242551,128,2,"nahestehend. H.21,8,Br.20,4 cm.",617,96.7,False,positional,Leonardo da Vinci,,,,
-BO0624_88442,242552,129,3,"Carl Friedrich Lessing, * 15. 2. 1808 in Breslau,  5. 6. 1880 in Karlsruhe, wo er1858 Direktor der Galerie wurde.",618,99.0,False,positional,Leonardo da Vinci,,,,Sec. XIX
-BO0624_88442,242553,130,133,"JAGER MIT VIER HUNDEN. Interessanter Entwurf zu einem Jagdbild. Tuschzeichnung. H.16,Br.14 cm.",619,97.8,False,positional,Leonardo da Vinci,,,,
+BO0624_88442,242551,128,2,"nahestehend. H.21,8,Br.20,4 cm.",617,96.7,False,none,,,,,
+BO0624_88442,242552,129,3,"Carl Friedrich Lessing, * 15. 2. 1808 in Breslau,  5. 6. 1880 in Karlsruhe, wo er1858 Direktor der Galerie wurde.",618,99.0,False,none,LESSING CARL F.,,,,Sec. XIX
+BO0624_88442,242553,130,133,"JAGER MIT VIER HUNDEN. Interessanter Entwurf zu einem Jagdbild. Tuschzeichnung. H.16,Br.14 cm.",619,97.8,False,none,,,,,
 BO0624_88442,242554,131,134,"DAS SIEBENGEBIRGE. Ruckseitig wie folgt vom Kunstler beschrieben: Skizze gezeichnet auf dem Rhein am 24. 8.1817 des Siebengebirges, von Godesberg aus vis-a-vis von Bonn, an Conrad Westermeyr, hiermit zum Andenken an H. G. R. v. Loenhardt"". Aquarell. H.16,5,Br.21 cm. Bernard Gottfried Mannskirsch,* in Bonn 1736,  in Koln 1817.",623,89.4,False,title_direct,H. G. R. von Loenhardt,,,,Sec. XIX
-BO0624_88442,242555,132,135,"GEBIRGIGE RHEINLANDSCHAFT. Teilansicht des Siebengebirges. Bleistiftzeichnung, bez.:,G. M. 1764"" H.22,Br.30cm. Heinrich Meichelt, * 1805,  1880 als Professor an der Karlsruher Akademie.",625,73.5,False,positional,H. G. R. von Loenhardt,,,,Sec. XVIII
-BO0624_88442,242556,133,136,"GROSSE SUDDEUTSCHE BERGLANDSCHAFT mit See und Figurenstaffage. Gouachemalerei. H.38,Br.52cm.",627,97.8,False,positional,H. G. R. von Loenhardt,,,,
-BO0624_88442,242557,134,6,"Jean Louis Ernest Meissonier, * 21.2.1815 in Lyon,31.1.1891 in Paris. 137. FRANZOSISCHER GARDEKURASSIER an der Mauer lehnend und zwei bissige Pferde haltend. Tuschzeichnung. Oben drei Mannerkopfe und ein Pferdekopf mit der Feder skizziert. H.17,Br.20 cm.",628,99.6,False,positional,H. G. R. von Loenhardt,,,,Sec. XIX
+BO0624_88442,242555,132,135,"GEBIRGIGE RHEINLANDSCHAFT. Teilansicht des Siebengebirges. Bleistiftzeichnung, bez.:,G. M. 1764"" H.22,Br.30cm. Heinrich Meichelt, * 1805,  1880 als Professor an der Karlsruher Akademie.",625,73.5,False,none,,,,,Sec. XVIII
+BO0624_88442,242556,133,136,"GROSSE SUDDEUTSCHE BERGLANDSCHAFT mit See und Figurenstaffage. Gouachemalerei. H.38,Br.52cm.",627,97.8,False,none,,,,,
+BO0624_88442,242557,134,6,"Jean Louis Ernest Meissonier, * 21.2.1815 in Lyon,31.1.1891 in Paris. 137. FRANZOSISCHER GARDEKURASSIER an der Mauer lehnend und zwei bissige Pferde haltend. Tuschzeichnung. Oben drei Mannerkopfe und ein Pferdekopf mit der Feder skizziert. H.17,Br.20 cm.",628,99.6,False,none,MEISSONIER JEAN-LOUS-ERNEST,,,,Sec. XIX
 BO0624_88442,242558,135,138,"DIANA UND ENDYMION.Reizvolle Tuschzeichnung,bez.:,M.Mettenleiter",636,96.9,False,positional,Caravaggio,,,,
 BO0624_88442,242559,136,139,"FUNF BLATT INTERESSANTE ZEICHNUNGEN in Feder und Tusche in H.16,Br.12 cm.",638,97.3,False,title_direct,,,ZEICHNUNGEN,,
-BO0624_88442,242560,137,140,"DIE ANBETUNG DER DREI KONIGE,aquarellierte Federzeichnung.",642,96.6,False,positional,Caravaggio,,,,
-BO0624_88442,242561,138,141,"JOSFEF UND SEINE BRUDER, Gruppe von 14Figuren,bez.:,Carl Muller 1842"". Stiftzeichnung, in Rom gefertigt. H.20,Br.29 cm.",647,98.2,False,positional,Caravaggio,,OGGETTI VARI,,Sec. XIX
-BO0624_88442,242562,139,142,"SAMMLUNG VON ELF STUDIENBLATTERN,meist in Bleistiftzeichnung.",651,96.8,False,positional,Caravaggio,,,,
-BO0624_88442,242563,140,143,"143.RUCKENAKT, Kreide und Kohlezeichnung, bez.:,A. F. Oeser"".",655,100.0,False,positional,Caravaggio,,,,
-BO0624_88442,242564,141,144,"144. BAUMLANDSCHAFT mit Bauer, der einen Korb tragt. Tuschzeichnung, voll bez.:,,van Osterhoudt f."" H.32,5,Br.27cm",659,75.0,False,positional,Caravaggio,,,,
-BO0624_88442,242565,142,145,"LANDSCHAFT mit hollandischer Windmuhle,im Vordergrunde kleine Bricke, vor der ein Pferd steht, daneben vier Schafe. Tuschzeichnung, bez.: ,P. J.van Os. H.21,5,Br.28cm.",661,98.7,False,positional,Caravaggio,,,,
-BO0624_88442,242566,143,146,"ZWEI MANNLICHE AKTE. Rotel. H.22,Br.36 cm.",664,95.1,False,positional,Caravaggio,,,,
-BO0624_88442,242567,144,148,"LA CHARITE,Entwurf zu einem Triptychon fuir die Kapelle der Charite in Lyon. Laut Attest des Experten Gaston de Paradise vom 25.4.1913 ist die Ausfihrung jedoch unterblieben.Feder und Tusche. Gerahmt und unter Glas, bez.:,P.Puvis de Chavannes. Mittelbild H.18, Br. 14 cm. Seitenteile H.18, Br.7 cm.",668,99.3,False,positional,Caravaggio,,,,Sec. XX
-BO0624_88442,242568,145,149,ITALIENISCHE LANDSCHAFT. Bleistiftzeichnung.,671,95.5,False,positional,Caravaggio,,,,
-BO0624_88442,242569,146,150,"ITALIENISCHES MADCHEN AM BRUNNEN. Bleistiftzeichnung. Auf der Ruckseite eine ahnliche Darstellung. H.10.5,Br.15 cm.",672,98.2,False,positional,Caravaggio,,,,
+BO0624_88442,242560,137,140,"DIE ANBETUNG DER DREI KONIGE,aquarellierte Federzeichnung.",642,96.6,False,none,,,,,
+BO0624_88442,242561,138,141,"JOSFEF UND SEINE BRUDER, Gruppe von 14Figuren,bez.:,Carl Muller 1842"". Stiftzeichnung, in Rom gefertigt. H.20,Br.29 cm.",647,98.2,False,none,,,OGGETTI VARI,,Sec. XIX
+BO0624_88442,242562,139,142,"SAMMLUNG VON ELF STUDIENBLATTERN,meist in Bleistiftzeichnung.",651,96.8,False,none,,,,,
+BO0624_88442,242563,140,143,"143.RUCKENAKT, Kreide und Kohlezeichnung, bez.:,A. F. Oeser"".",655,100.0,False,none,,,,,
+BO0624_88442,242564,141,144,"144. BAUMLANDSCHAFT mit Bauer, der einen Korb tragt. Tuschzeichnung, voll bez.:,,van Osterhoudt f."" H.32,5,Br.27cm",659,75.0,False,none,,,,,
+BO0624_88442,242565,142,145,"LANDSCHAFT mit hollandischer Windmuhle,im Vordergrunde kleine Bricke, vor der ein Pferd steht, daneben vier Schafe. Tuschzeichnung, bez.: ,P. J.van Os. H.21,5,Br.28cm.",661,98.7,False,none,,,,,
+BO0624_88442,242566,143,146,"ZWEI MANNLICHE AKTE. Rotel. H.22,Br.36 cm.",664,95.1,False,none,,,,,
+BO0624_88442,242567,144,148,"LA CHARITE,Entwurf zu einem Triptychon fuir die Kapelle der Charite in Lyon. Laut Attest des Experten Gaston de Paradise vom 25.4.1913 ist die Ausfihrung jedoch unterblieben.Feder und Tusche. Gerahmt und unter Glas, bez.:,P.Puvis de Chavannes. Mittelbild H.18, Br. 14 cm. Seitenteile H.18, Br.7 cm.",668,99.3,False,none,,,,,Sec. XX
+BO0624_88442,242568,145,149,ITALIENISCHE LANDSCHAFT. Bleistiftzeichnung.,671,95.5,False,none,,,,,
+BO0624_88442,242569,146,150,"ITALIENISCHES MADCHEN AM BRUNNEN. Bleistiftzeichnung. Auf der Ruckseite eine ahnliche Darstellung. H.10.5,Br.15 cm.",672,98.2,False,none,,,,,
 BO0624_88442,242570,147,151,"151. EIN TIROLER BAUERNJUNGE,in der Landestracht,mit der Aufschrift:",676,100.0,False,positional,Arthur von Ramberg,,,,
-BO0624_88442,242571,148,152,"152.ILLUSTRATION ZU GOETHES GEDICHT:,WER KAUFT LIEBESGOTTER?"".Tuschzeichnung. H.12,Br.9 cm.",677,73.2,False,positional,Arthur von Ramberg,,,,
-BO0624_88442,242572,149,153,",LASSET DIE KINDLEIN ZU MIR KOMMEN"". Aquarellskizze zu dem Altargemalde in der Kirche zu Hohne am Deister. H.8,Br.13,5 cm.",679,98.3,False,positional,Arthur von Ramberg,,,,
-BO0624_88442,242573,150,155,"MOSELLANDSCHAFT MIT FIGURENSTAFFAGE. Zwischen Baumen eroffnet sich der Blick auf eine der Moselstadte und ferne Berge. Tuschzeichnung. H.28,Br.34 cm.",682,98.6,False,positional,Arthur von Ramberg,,,,
+BO0624_88442,242571,148,152,"152.ILLUSTRATION ZU GOETHES GEDICHT:,WER KAUFT LIEBESGOTTER?"".Tuschzeichnung. H.12,Br.9 cm.",677,73.2,False,none,,,,,
+BO0624_88442,242572,149,153,",LASSET DIE KINDLEIN ZU MIR KOMMEN"". Aquarellskizze zu dem Altargemalde in der Kirche zu Hohne am Deister. H.8,Br.13,5 cm.",679,98.3,False,none,,,,,
+BO0624_88442,242573,150,155,"MOSELLANDSCHAFT MIT FIGURENSTAFFAGE. Zwischen Baumen eroffnet sich der Blick auf eine der Moselstadte und ferne Berge. Tuschzeichnung. H.28,Br.34 cm.",682,98.6,False,none,,,,,
 BO0624_88442,242574,151,157,VENUS UND AMOR. Feder und Tusche.,687,93.9,False,positional,Raphael,,,,
 BO0624_88442,242575,152,158,"ZWEI BAUERNHAUSCHEN AM BUSCHWEG. Sitzender Bauer und Bauerin, die Holz gelesen hat,bez.: ,J. van Ravenswaay fecit 1824. Tuschzeichnung,rot gehoht. H.25,5,Br.38 cm.",693,98.7,False,title_direct,Jan van Ravenswaay,,OGGETTI IN LEGNO,,Sec. XIX
-BO0624_88442,242576,153,159,ZWEI AMORETTEN mit Pfeil und Bogen. Feder und Tusche.,698,96.2,False,positional,Jan van Ravenswaay,,,,
+BO0624_88442,242576,153,159,ZWEI AMORETTEN mit Pfeil und Bogen. Feder und Tusche.,698,96.2,False,none,,,,,
 BO0624_88442,242577,154,161,"LANDLICHE SZENE (Brautzug). Bleistiftzeichnung. Auf der Rickseite eine ahnliche Bleistiftstudie, fuchtiger durchgefuhrt. H.7,5,Br.10,5 cm.",703,98.5,False,positional,Ludwig Richter,,,,
 BO0624_88442,242578,155,163,"BRUSTBILD EINER DAME. A la plume par Madame Ridderbosch Gand 1803"" Feine Federzeichnung. H.14,Br.13,5 cm.",708,98.1,False,positional,Jeanne Francoise Ridderbosch,,,,Sec. XIX
 BO0624_88442,242579,156,2,"Bernhard Rode,*1725 in Berlin, daselbst 24.6.1797, Schuler von A. Pesne",709,98.5,False,title_direct,Bernhard Rode,Scuola di Berlino,,,Sec. XVIII
-BO0624_88442,242580,157,3,in Berlin und Carle von Loo in Paris.,710,97.3,False,positional,Jeanne Francoise Ridderbosch,Scuola di Berlino,,,
-BO0624_88442,242581,158,164,"CHRISTUS MIT DER WELTKUGEL.Federzeichnung. H.20,Br.14 cm.",711,96.5,False,positional,Jeanne Francoise Ridderbosch,,,,
-BO0624_88442,242582,159,165,"REITERSCHLACHT. Federzeichnung und Tusche. H.16,Br.28 cm",714,96.4,False,positional,Jeanne Francoise Ridderbosch,,OGGETTI VARI,,
-BO0624_88442,242583,160,167,"KNABE mit Hut und langem Hirtenstab in der Hand, in gebirgiger Landschaft vor einem Hause stehend. Sepiazeichnung, voll bez.: ,A. Scheffer""",717,98.5,False,positional,Jeanne Francoise Ridderbosch,,STAMPE E INCISIONI,,
-BO0624_88442,242584,161,17,"O.VATER MIT TOCHTER vor einem Grabmonument knieend und betend. Sepiazeichnung, voll bez.: ,A. Scheffer inv."" H.27,5,Br.21,5 cm.",723,99.2,False,positional,Jeanne Francoise Ridderbosch,,STAMPE E INCISIONI,,
-BO0624_88442,242585,162,173,"DANTE UND BEATRICE.Dante,gefolgt von Virgil,ergreift die Hand der vor ihm schwebenden Beatrice, die ihn in das Paradies fuhrt. Nach Dante, Paradiso. GroBes figurenreiches Aquarell. H.50,Br.66 cm.",728,99.0,False,positional,Jeanne Francoise Ridderbosch,,,,
+BO0624_88442,242580,157,3,in Berlin und Carle von Loo in Paris.,710,97.3,False,none,,Scuola di Berlino,,,
+BO0624_88442,242581,158,164,"CHRISTUS MIT DER WELTKUGEL.Federzeichnung. H.20,Br.14 cm.",711,96.5,False,none,,,,,
+BO0624_88442,242582,159,165,"REITERSCHLACHT. Federzeichnung und Tusche. H.16,Br.28 cm",714,96.4,False,none,,,OGGETTI VARI,,
+BO0624_88442,242583,160,167,"KNABE mit Hut und langem Hirtenstab in der Hand, in gebirgiger Landschaft vor einem Hause stehend. Sepiazeichnung, voll bez.: ,A. Scheffer""",717,98.5,False,none,,,STAMPE E INCISIONI,,
+BO0624_88442,242584,161,17,"O.VATER MIT TOCHTER vor einem Grabmonument knieend und betend. Sepiazeichnung, voll bez.: ,A. Scheffer inv."" H.27,5,Br.21,5 cm.",723,99.2,False,none,,,STAMPE E INCISIONI,,
+BO0624_88442,242585,162,173,"DANTE UND BEATRICE.Dante,gefolgt von Virgil,ergreift die Hand der vor ihm schwebenden Beatrice, die ihn in das Paradies fuhrt. Nach Dante, Paradiso. GroBes figurenreiches Aquarell. H.50,Br.66 cm.",728,99.0,False,none,,,,,
 BO0624_88442,242586,163,174,"ZWEIHERREN,DAGUERROTYPIENKRITISIEREND,mit humoristischer Randleiste. Voll bezeichnet. Auf der Ruckseite Bleistiftzeichnung, zwei Kopfe. Tuschzeichnung.",733,98.6,False,positional,Professor Schroder,,,,
-BO0624_88442,242587,164,175,"DIE LETZTEN WINKELRIEDE, interessantes kleines Kampfbild. Vorlage fur eine Buchillustration.",738,97.8,False,positional,Professor Schroder,,,,
-BO0624_88442,242588,165,176,"RHEINANSICHT mit Burgen und Dorfern rechts und links, der Rhein mit Schiffen und Booten belebt, an den Ufern interessante Staffage. Von Schutz aquarellierter Stich. Voll bezeichnet: ,Schwarz fec. 1736,Schutz pinx 1764",741,99.1,False,positional,Professor Schroder,,,,Sec. XVIII
+BO0624_88442,242587,164,175,"DIE LETZTEN WINKELRIEDE, interessantes kleines Kampfbild. Vorlage fur eine Buchillustration.",738,97.8,False,none,,,,,
+BO0624_88442,242588,165,176,"RHEINANSICHT mit Burgen und Dorfern rechts und links, der Rhein mit Schiffen und Booten belebt, an den Ufern interessante Staffage. Von Schutz aquarellierter Stich. Voll bezeichnet: ,Schwarz fec. 1736,Schutz pinx 1764",741,99.1,False,none,,,,,Sec. XVIII
 BO0624_88442,242589,166,177,FEDERZEICHNUNG EINES PUTTO.,745,92.9,False,title_direct,,,ZEICHNUNGEN,,
 BO0624_88442,242590,167,180,"LANDSCHAFT mit hollandischer Muhle und Kirche, sieben Personen und ein Rind als Staffage. Tuschzeichnung mit Vryheydwappenzeichen. Bezeich- net:,E.van Steendyck"". H.16,Br.24 cm.",759,87.7,False,title_direct,E. van Steendyck,,,,
 BO0624_88442,242591,168,181,"KUNSTKRITIK. Drei stehende Kunstler vor einem sitzenden Kritiker,welcher ein Bild besichtigt. Federzeichnung. Bezeichnet:,Stuhlmann.H 16,Br.19,5 cm.",764,98.6,False,positional,Heinrich Stuhlmann,,,,
-BO0624_88442,242592,169,2,"Conrad Gustav SuB,*10.6.1823 in Rumbeck (Weser), 23.12.1881 in",765,98.3,False,positional,Heinrich Stuhlmann,,,,Sec. XIX
+BO0624_88442,242592,169,2,"Conrad Gustav SuB,*10.6.1823 in Rumbeck (Weser), 23.12.1881 in",765,98.3,False,none,,,,,Sec. XIX
 BO0624_88442,242593,170,3,Dusseldorf. Stilverwandt mit Ludwig Richter.,766,97.7,False,title_direct,Ludwig Richter,,,,
-BO0624_88442,242594,171,182,"KINDERSZENE, wahrscheinlich Entwurf zu einer Einladungskarte. Federzeichnung. H.19,5.Br.13 cm.",768,97.8,False,positional,Heinrich Stuhlmann,,,,
-BO0624_88442,242595,172,183,MANNERKOPF IM PROFIL.Rotelzeichnung.,772,94.6,False,positional,Heinrich Stuhlmann,,,,
+BO0624_88442,242594,171,182,"KINDERSZENE, wahrscheinlich Entwurf zu einer Einladungskarte. Federzeichnung. H.19,5.Br.13 cm.",768,97.8,False,none,,,,,
+BO0624_88442,242595,172,183,MANNERKOPF IM PROFIL.Rotelzeichnung.,772,94.6,False,none,,,,,
 BO0624_88442,242596,173,184,184. ILLUSTRATION ZUM REINECKE FUCHS. Bleistiftzeichnung.,778,100.0,False,positional,,Unbekannter deutscher Meister aus der ersten Halfte des 19. Jahrhunderts,,,
-BO0624_88442,242597,174,185,"185. MARINELANDSCHAFT,mit Leuchtturm und funf bemannten Booten belebt, im Vordergrunde zwei Fischer und eine Fischerin.",782,75.1,False,positional,,Unbekannter deutscher Meister aus der ersten Halfte des 19. Jahrhunderts,,,
+BO0624_88442,242597,174,185,"185. MARINELANDSCHAFT,mit Leuchtturm und funf bemannten Booten belebt, im Vordergrunde zwei Fischer und eine Fischerin.",782,75.1,False,none,,,,,
 BO0624_88442,242598,175,186,"EMIGRANT mit Hund, an einer Burgruine auf Steinblocken sitzend. SepiaH.29,Br.20 cm. zeichnung.Bezeichnet:,H. V.1813""",788,82.5,False,positional,Emile Jean Horace Vernet,,,,Sec. XIX
-BO0624_88442,242599,176,187,"BiLDNIS EINES HERRN,Brustbild nach vorn.Kreidezeichnung.Bezeichnet : ,L.Wagner del.1829"" H.24,Br.20 cm.",792,98.0,False,positional,Emile Jean Horace Vernet,,,,Sec. XIX
-BO0624_88442,242600,177,188,"GEBIRGSLANDSCHAFT mit See,links Bauernhaus,mit Netze tragendem Fischer und Madchen. Auf dem See ein Boot mit zwei Mann und ein Segelschiff. Bleistiftzeichnung,mit weiber Kreide gehoht. H.30,Br.33cm.",794,99.0,False,positional,Emile Jean Horace Vernet,,,,
-BO0624_88442,242601,178,189,ALLEGORIE DES SIEGES. Mehrfigurige Komposition. Getuschte Sepiazeichnung.,797,97.2,False,positional,Emile Jean Horace Vernet,,SEDIE,,
-BO0624_88442,242602,179,190,"DAS DORF AMEIDEN. Aquarell. Auf der Ruckseite von alter Hand:,N. Wicart"". H.15,Br.14 cm.",800,97.6,False,positional,Emile Jean Horace Vernet,,,,
-BO0624_88442,242603,180,192,"KLEINER FLUSSGOTT AUF DELPHIN REITEND. Federzeichnung,blau",804,96.6,False,positional,Emile Jean Horace Vernet,,,,
+BO0624_88442,242599,176,187,"BiLDNIS EINES HERRN,Brustbild nach vorn.Kreidezeichnung.Bezeichnet : ,L.Wagner del.1829"" H.24,Br.20 cm.",792,98.0,False,none,,,,,Sec. XIX
+BO0624_88442,242600,177,188,"GEBIRGSLANDSCHAFT mit See,links Bauernhaus,mit Netze tragendem Fischer und Madchen. Auf dem See ein Boot mit zwei Mann und ein Segelschiff. Bleistiftzeichnung,mit weiber Kreide gehoht. H.30,Br.33cm.",794,99.0,False,none,,,,,
+BO0624_88442,242601,178,189,ALLEGORIE DES SIEGES. Mehrfigurige Komposition. Getuschte Sepiazeichnung.,797,97.2,False,none,,,SEDIE,,
+BO0624_88442,242602,179,190,"DAS DORF AMEIDEN. Aquarell. Auf der Ruckseite von alter Hand:,N. Wicart"". H.15,Br.14 cm.",800,97.6,False,none,,,,,
+BO0624_88442,242603,180,192,"KLEINER FLUSSGOTT AUF DELPHIN REITEND. Federzeichnung,blau",804,96.6,False,none,,,,,
 BO0624_88442,242604,181,193,"ANSICHT DER RUINE DONAUSTAUF. Kupferstecherartig fein durchgefuhrte Zeichnung. Bezeichnet: ,C. Wiessner del."". (S. auch die gleiche Ansicht von J.A.Klein, Nr.107.) H.20,5,Br.30,5 cm.",807,98.8,False,title_direct,,,Kupferstiche,,
-BO0624_88442,242605,182,194,"ENGEL,EINE SAULE UMFASSEND. Federzeichnung. Bezeichnet:,M.",810,96.4,False,positional,Emile Jean Horace Vernet,,,,
-BO0624_88442,242606,183,195,"KIRCHENINNERES,links eine Frau eintretend. Aquarell. Monogrammiert: ""F.Z"". H.22,5,Br.17cm.",812,97.6,False,positional,Emile Jean Horace Vernet,,,,
+BO0624_88442,242605,182,194,"ENGEL,EINE SAULE UMFASSEND. Federzeichnung. Bezeichnet:,M.",810,96.4,False,none,,,,,
+BO0624_88442,242606,183,195,"KIRCHENINNERES,links eine Frau eintretend. Aquarell. Monogrammiert: ""F.Z"". H.22,5,Br.17cm.",812,97.6,False,none,,,,,
 BO0624_88442,242607,184,195,"PHOEBUS. ,Claros inoffensos radios dat lumine Phoebus atque fugat umbras tristitiamque"", etc.,beschnitten.",819,98.0,False,positional,,,KUPFERSTICHE U. HOLZSCHNITTE,,
 BO0624_88442,242608,185,200,"DIE KREUZIGUNG.Kupferstich.B.9,P.533.Nagler,Mongrammisten,Bd.1, P. 730. (Von Bartsch angezweifelt und einem unbekannten Stecher gegeben.)",825,98.5,False,title_direct,,,Kupferstiche,,
 BO0624_88442,242609,186,201,"HIEMS (L'hiver), nach Nikolas Poussin, Darstellung der Sintfut nach Genesis, Kap. 7.",828,97.5,False,positional,"DUGHET GASPARD, POUSSIN",,KUPFERSTICHE U. HOLZSCHNITTE,,
@@ -194,43 +194,43 @@ BO0624_88442,242615,192,207,DIE FRAU MIT DEM KORBE AUF DEMKOPF UND DEMKRUGE IN D
 BO0624_88442,242616,193,208,MANNLICHER GENIUS MIT WAPPEN. B.259.,844,94.4,False,positional,,,KUPFERSTICHE U. HOLZSCHNITTE,,
 BO0624_88442,242617,194,210,"DIE GEDULD (Pacientia 1540). B.138,A.150,Pauli 141. Schoner Druck mit Rand.",846,97.2,False,positional,,,KUPFERSTICHE U. HOLZSCHNITTE,,Sec. XVI
 BO0624_88442,242618,195,212,"DIVERSES EXERCICES DE CAVALERIE,Dedie A Monsieur Destissac Enfant d'honneur du Roy. Faict par S. D. Bella. Israel excudit cum privilegio Regis"" Titelblatt, Radierung.",851,98.8,False,positional,Stefano della Bella,,ACQUEFORTI,,
-BO0624_88442,242619,196,213,"PFERDE AUF DEM FORUM ROMANUM,Rundblatt,Radierung,,Stf. Della Bella inuenit fecit. F. L. D. Ciartres excud. Cum Privil. Regis Christ.""",852,98.4,False,positional,Stefano della Bella,,ACQUEFORTI,,
-BO0624_88442,242620,197,214,"DIE FAUNSFAMILIE. Radierung, Stef della Bella fecit. Cum Privil. N.Langlois ex.""",853,97.4,False,positional,Stefano della Bella,,ACQUEFORTI,,
-BO0624_88442,242621,198,216,LANDSCHAFT MIT ZWEI WANDERERN. Andresen 344.,859,95.5,False,positional,Stefano della Bella,,,,
+BO0624_88442,242619,196,213,"PFERDE AUF DEM FORUM ROMANUM,Rundblatt,Radierung,,Stf. Della Bella inuenit fecit. F. L. D. Ciartres excud. Cum Privil. Regis Christ.""",852,98.4,False,none,,,ACQUEFORTI,,
+BO0624_88442,242620,197,214,"DIE FAUNSFAMILIE. Radierung, Stef della Bella fecit. Cum Privil. N.Langlois ex.""",853,97.4,False,none,,,ACQUEFORTI,,
+BO0624_88442,242621,198,216,LANDSCHAFT MIT ZWEI WANDERERN. Andresen 344.,859,95.5,False,none,,,,,
 BO0624_88442,242622,199,219,BARNARD CASTLE. GroBe Originalradierung.,868,95.0,False,positional,Frank Brangwyn,,ACQUEFORTI,,
-BO0624_88442,242623,200,2,"Philipp Hieronymus Brinckmann, *1709 in Speyer,1761 in Mannheim. 220. FOLGE DER LANDSCHAFTEN,2 Blatt,aus der Sammlung Christian Hammer stammend.",869,99.3,False,positional,Frank Brangwyn,,,COLLEZIONE CHRISTIAN HAMMER,Sec. XVIII
-BO0624_88442,242624,201,3,"William Bromley, * 1769 in Carlsbrooke,  1842 in London. 221. THE DUKE OF WELLINGTON. GroBes Kapitalblatt nach Thomas Lawrence, mit Widmung an den Prinzregenten. Published by R. Bowyer, Pall Mall, June 18,1818.",870,99.5,False,positional,Frank Brangwyn,,,,Sec. XVIII
-BO0624_88442,242625,202,4,"Hans Brosamer, * wahrscheinlich in Fulda um 1500,  1554 oder bald darauf",871,98.5,False,positional,Frank Brangwyn,,,,Sec. XVI
+BO0624_88442,242623,200,2,"Philipp Hieronymus Brinckmann, *1709 in Speyer,1761 in Mannheim. 220. FOLGE DER LANDSCHAFTEN,2 Blatt,aus der Sammlung Christian Hammer stammend.",869,99.3,False,none,,,,COLLEZIONE CHRISTIAN HAMMER,Sec. XVIII
+BO0624_88442,242624,201,3,"William Bromley, * 1769 in Carlsbrooke,  1842 in London. 221. THE DUKE OF WELLINGTON. GroBes Kapitalblatt nach Thomas Lawrence, mit Widmung an den Prinzregenten. Published by R. Bowyer, Pall Mall, June 18,1818.",870,99.5,False,none,LAVREINCE NICOLAS,,,,Sec. XVIII
+BO0624_88442,242625,202,4,"Hans Brosamer, * wahrscheinlich in Fulda um 1500,  1554 oder bald darauf",871,98.5,False,none,,,,,Sec. XVI
 BO0624_88442,242626,203,222,"JUDITH UND IHRE MAGD mit dem Haupte des Holofernes,bez.mit dem Monogramm:,H. B.Holzschnitt, Bartsch VIlI 455,Passavant IV 32. in Erfurt.",872,94.5,False,title_direct,,,Holzschnitte,,
-BO0624_88442,242627,204,223,"DAS GEFUHL,aus der Folge der finf Sinne. Nr.3 (Ein Bauer beim Zahn-",876,97.0,False,positional,Frank Brangwyn,,,,
-BO0624_88442,242628,205,225,"DIE KLEINE PASSION.12 Blatt,M.19-30.Vollstandig.",880,95.9,False,positional,Frank Brangwyn,,,,
+BO0624_88442,242627,204,223,"DAS GEFUHL,aus der Folge der finf Sinne. Nr.3 (Ein Bauer beim Zahn-",876,97.0,False,none,,,,,
+BO0624_88442,242628,205,225,"DIE KLEINE PASSION.12 Blatt,M.19-30.Vollstandig.",880,95.9,False,none,,,,,
 BO0624_88442,242629,206,227,"DAS NEUE TESTAMENT. (Nouveau Testament faict par Jacques Callot qui na sceu finir le reste prevenu de la mort, l'annee 1635. Augusta Vinde. Johanna Sibilla Kuslin fecit 1677. Blatt 1—12 der Folge.M. 4,3747.",882,99.0,False,title_direct,Jacques Callot,,,,Sec. XVII
-BO0624_88442,242630,207,228,"DIE MARTYRIEN DER APOSTEL. Blatt 1, Petrus, Blatt 2,Paulus, Blatt 4,Jakobus Major,Blatt 5,Johannes,Blatt 7,Jakobus Minor,Blat 8, Philippus,lat12,Thaddaus,Blatt14,Judas,latt15,Barnabas.Isra excudit, insgesamt 9 Blatt der Folge.",883,99.1,False,positional,Frank Brangwyn,,,,
-BO0624_88442,242631,208,229,"LES GRANDES MISERES DE LA GUERRE. Blatt 1--6 der Folge,mit",884,96.6,False,positional,Frank Brangwyn,,,,
-BO0624_88442,242632,209,230,"ESSEQUIE CELEBRATE IN FIORENZA dal ser. Gran duca per la morte dell' Imperator Mattias. M. D. C. X. I. X. ,Israel Siluestre excudit cum privil. Regis. Jacomo Callot. Fe.""",886,98.7,False,positional,Frank Brangwyn,,,,
-BO0624_88442,242633,210,231,"COMBAT A LA BARRIERE.,Jac. Callot In.et fec.""M.501.",887,95.9,False,positional,Frank Brangwyn,,,,
+BO0624_88442,242630,207,228,"DIE MARTYRIEN DER APOSTEL. Blatt 1, Petrus, Blatt 2,Paulus, Blatt 4,Jakobus Major,Blatt 5,Johannes,Blatt 7,Jakobus Minor,Blat 8, Philippus,lat12,Thaddaus,Blatt14,Judas,latt15,Barnabas.Isra excudit, insgesamt 9 Blatt der Folge.",883,99.1,False,none,,,,,
+BO0624_88442,242631,208,229,"LES GRANDES MISERES DE LA GUERRE. Blatt 1--6 der Folge,mit",884,96.6,False,none,,,,,
+BO0624_88442,242632,209,230,"ESSEQUIE CELEBRATE IN FIORENZA dal ser. Gran duca per la morte dell' Imperator Mattias. M. D. C. X. I. X. ,Israel Siluestre excudit cum privil. Regis. Jacomo Callot. Fe.""",886,98.7,False,none,,,,,
+BO0624_88442,242633,210,231,"COMBAT A LA BARRIERE.,Jac. Callot In.et fec.""M.501.",887,95.9,False,none,,,,,
 BO0624_88442,242634,211,238,KUPFERSTICHE NACH CHODOWIECKI.,899,93.5,False,positional,D. Chodowiecki,,OGGETTI IN RAME,,
-BO0624_88442,242635,212,1,"Blatt Nusbiegel, Blatt J. G. Penzel,",903,68.0,False,positional,D. Chodowiecki,,,,
-BO0624_88442,242636,213,2,"Blatt G. L. Crusius, insgesamt 8 Blatt auf einem Karton.",905,98.1,False,positional,D. Chodowiecki,,,,
-BO0624_88442,242637,214,2,"Blatt J. Nusbiege!,",907,94.1,False,positional,D. Chodowiecki,,,,
-BO0624_88442,242638,215,1,"Blatt unbekannt,",909,93.8,False,positional,D. Chodowiecki,,,,
-BO0624_88442,242639,216,2,"Blatt G. L. Crusius,",911,94.4,False,positional,D. Chodowiecki,,,,
-BO0624_88442,242640,217,7,"Blatt J. G. Penzel, insgesamt 9 Blatt auf einem Karton.",914,98.1,False,positional,D. Chodowiecki,,,,
-BO0624_88442,242641,218,2,"6 Blatt G. L Crusius,",917,95.0,False,positional,D. Chodowiecki,,,,
-BO0624_88442,242642,219,12,Blatt Geschichte Heinrichs VIll. aus England.,923,96.6,False,positional,D. Chodowiecki,,,,
-BO0624_88442,242643,220,240,DER KUPFERSTICH-LIEBHABER.,925,92.6,False,positional,D. Chodowiecki,,OGGETTI IN RAME,,
+BO0624_88442,242635,212,1,"Blatt Nusbiegel, Blatt J. G. Penzel,",903,68.0,False,none,,,,,
+BO0624_88442,242636,213,2,"Blatt G. L. Crusius, insgesamt 8 Blatt auf einem Karton.",905,98.1,False,none,,,,,
+BO0624_88442,242637,214,2,"Blatt J. Nusbiege!,",907,94.1,False,none,,,,,
+BO0624_88442,242638,215,1,"Blatt unbekannt,",909,93.8,False,none,,,,,
+BO0624_88442,242639,216,2,"Blatt G. L. Crusius,",911,94.4,False,none,,,,,
+BO0624_88442,242640,217,7,"Blatt J. G. Penzel, insgesamt 9 Blatt auf einem Karton.",914,98.1,False,none,,,,,
+BO0624_88442,242641,218,2,"6 Blatt G. L Crusius,",917,95.0,False,none,,,,,
+BO0624_88442,242642,219,12,Blatt Geschichte Heinrichs VIll. aus England.,923,96.6,False,none,,,,,
+BO0624_88442,242643,220,240,DER KUPFERSTICH-LIEBHABER.,925,92.6,False,none,,,OGGETTI IN RAME,,
 BO0624_88442,242644,221,241,"Neue Abhandlung von der Zivilbaukunst mit nitzlichen Anmerkungen und Betrachtungen fur junge Leute, die sich dieser Kunst widmen wollen aus dem Franzosischen des Herrn SEBASTIAN LE CLERC, Romischen Ritters, Konigl. Franz. Kabinettszeichners und Kupferstechers. Zweiter Teil mit 103 Kupfern. Nurnberg,in der Christoph Weigel und U. G. Schneiderischen Kunsthandlung 1781.",929,99.4,False,title_direct,,Scuola di Norimberga,Kupferstiche,,Sec. XVIII
-BO0624_88442,242645,222,2,"—242. DIE BIBEL, 98 Stiche, auf fuinf Kartons verteilt.,S.le Clerc f.“",930,98.4,False,positional,Sebastian le Clerc der Altere,,STAMPE E INCISIONI,,
+BO0624_88442,242645,222,2,"—242. DIE BIBEL, 98 Stiche, auf fuinf Kartons verteilt.,S.le Clerc f.“",930,98.4,False,none,,,STAMPE E INCISIONI,,
 BO0624_88442,242646,223,243,"JOHANNES BUGENHAGEN.Gegenseit.1540,Heller p.221 Nr.523, Holzschnitt (Kopie).",934,97.3,False,title_direct,,,Holzschnitte,,Sec. XVI
 BO0624_88442,242647,224,244,"LUTHER UM 1546.Holzschnitt,Hell.530(Kopie).",935,95.3,False,title_direct,,,Holzschnitte,,Sec. XVI
 BO0624_88442,242648,225,245,"LUTHER ALS MONCH.Von einem Flugblatt um 1570, Holzschnitt. (Kopie.",936,96.9,False,title_direct,,,Holzschnitte,,Sec. XVI
 BO0624_88442,242649,226,246,FUNF BLATT KUHE UND STIERE. Andresen 4.,940,94.9,False,positional,Alexander Johann Dallinger von Dalling,,,,
 BO0624_88442,242650,227,247,"BLATT1 DER FOLGE DER VIER TAGESZEITEN NACH BERCHEM; DIE NACHT (das Krebsleuchten) GroBquerfolio. Ex Formis Nicolai Visscher cuin Privilego Ordinum Hollandie et Westfrisie. Wurzbach Nr. 8,I, bcruhmtes Hauptblatt des Meisters.",944,99.1,False,positional,Dancker Danckerts,,,,
-BO0624_88442,242651,228,249,"EHEPAAR IM BETT (oh, Schlafmitze). Satirisches Blatt.",949,96.0,False,positional,Dancker Danckerts,,,,
+BO0624_88442,242651,228,249,"EHEPAAR IM BETT (oh, Schlafmitze). Satirisches Blatt.",949,96.0,False,none,,,,,
 BO0624_88442,242652,229,250,"SAINTE THERESE. Farbstich von 1785,nach Zeichnung von M. Taillasson",955,97.0,False,positional,Gilles Antoine Demarteau,,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_88442,242653,230,254,DIE FELSENSCHLUCHT.,964,90.0,False,positional,Christian Wilhelm Ernst Dietrich,,,,
-BO0624_88442,242654,231,1742,Radierung.,970,78.3,False,positional,Christian Wilhelm Ernst Dietrich,,ACQUEFORTI,,
-BO0624_88442,242655,232,1763,""". Radierung.",973,78.3,False,positional,Christian Wilhelm Ernst Dietrich,,ACQUEFORTI,,
+BO0624_88442,242654,231,1742,Radierung.,970,78.3,False,none,,,ACQUEFORTI,,
+BO0624_88442,242655,232,1763,""". Radierung.",973,78.3,False,none,,,ACQUEFORTI,,
 BO0624_88442,242656,233,260,"PAN UND SYRINX,1666,mit Dedikation an Gedeon Berbier.Kupferstich.",980,97.0,False,title_direct,,,Kupferstiche,,Sec. XVII
 BO0624_88442,242657,234,261,2 BLATT AUS DER FOLGEDER LANDSCHAFTEN.,984,94.9,False,positional,Pierre Drevet,,,,
 BO0624_88442,242658,235,262,"LA PAIX CONFIRMEE DANS LE CIEL,Rubens pinxit,J.M.Nattier deli neavit, Duchange sculp. 1709.",988,97.8,False,title_direct,Rubens,Scuola di Rubens,,,Sec. XVIII
@@ -250,129 +250,129 @@ BO0624_88442,242671,248,272,"DER RAUB DER AMYMONE. Schoner Abdruck mit dem Amste
 BO0624_88442,242672,249,273,"DER MUSSIGGANGER ODER DER TRAUM DES DOKTORS (B76),",1036,95.9,False,positional,,,Kupferstiche,,
 BO0624_88442,242673,250,274,"DASTANZENDEBAUERNPAAR,1514,B.90.Originalblatt,gprufton Prof. Dr. Jaro Springer im Kgl. Kupferstich-Kabinett, Berlin, am 28. 6.1912, wie aus beiliegendem Brief ersichtlich.",1038,98.8,False,title_direct,,Scuola di Berlino,Kupferstiche,,Sec. XVI
 BO0624_88442,242674,251,276,NORDISCHE LANDSCHAFT MIT DREI STAFFAGEFIGUREN.B.19.,1042,96.2,False,positional,Allart van Everdingen,,,,
-BO0624_88442,242675,252,278,"DAS HAUS MIT DEM KLEINEN TURMCHEN, B.29. Drugulin,cat.rais. 27 Il, Supplement zu Bartsch.",1044,97.7,False,positional,Allart van Everdingen,,,,
+BO0624_88442,242675,252,278,"DAS HAUS MIT DEM KLEINEN TURMCHEN, B.29. Drugulin,cat.rais. 27 Il, Supplement zu Bartsch.",1044,97.7,False,none,,,,,
 BO0624_88442,242676,253,281,"LANDSCHAFT MIT RAUB DER EUROPA,nach Tizian.",1050,95.5,False,positional,Valentin Le Febre,,,,
-BO0624_88442,242677,254,283,"DIE LANDSCHAFT MIT DEM STALLMEISTER,nach Tizian.B 116, pag.101, Nr. 8.",1052,97.1,False,positional,Valentin Le Febre,,,,
+BO0624_88442,242677,254,283,"DIE LANDSCHAFT MIT DEM STALLMEISTER,nach Tizian.B 116, pag.101, Nr. 8.",1052,97.1,False,none,TIZIANO VECELLIO,,,,
 BO0624_88442,242678,255,284,"ANGELICA UND MEDORO,nach Ariosto,Orlando Furioso C.XIXS.36. ,Angelica e Medoro in vari modi legati insieme di diversi nodi."" Teodoro",1056,98.5,False,positional,Giovanni Folo,,,,
-BO0624_88442,242679,256,285,"DIE HEILIGE FAMILIE AUF DER FLUCHT NACH AGYPTEN,nach Carlo Maratta, ,Jac. Frey incidebat Romae sup. perm. 1735"" ,Bd.1,S.557.)",1060,93.3,False,positional,Giovanni Folo,,,,Sec. XVIII
-BO0624_88442,242680,257,286,"JAKOB,VON ISAAK GESEGNET,nach G.Flinck,1798,mit handschriftlichem Vermerk des Kunstlers:G.Flink pinx.—J. de Frey, Aquaf. 1798"", sowie der weiteren Notiz:,Het Schilderij in 1798 in de Collection van den",1063,99.0,False,positional,Giovanni Folo,,,COLLEZIONE SPIRIDON,Sec. XVIII
-BO0624_88442,242681,258,287,"CHRISTUS GENEEST DE MOEDER VAN PETRUS.,G. Metzu inv.""",1065,96.1,False,positional,Giovanni Folo,,,,
-BO0624_88442,242682,259,288,"LES DISCIPLES D'EMMAUS. 1802nach Rembrandts Louvre-Bild,Dut.10, IV mit der Schrift und mit vollem breiten Plattenrand.",1067,98.3,False,positional,Giovanni Folo,,,,
-BO0624_88442,242683,260,1661,", Dut.15, IV. Druck mit Schrift und mit breitem Plattenrand.",1069,95.7,False,positional,Giovanni Folo,,,,
+BO0624_88442,242679,256,285,"DIE HEILIGE FAMILIE AUF DER FLUCHT NACH AGYPTEN,nach Carlo Maratta, ,Jac. Frey incidebat Romae sup. perm. 1735"" ,Bd.1,S.557.)",1060,93.3,False,none,MARATTI CARLO,,,,Sec. XVIII
+BO0624_88442,242680,257,286,"JAKOB,VON ISAAK GESEGNET,nach G.Flinck,1798,mit handschriftlichem Vermerk des Kunstlers:G.Flink pinx.—J. de Frey, Aquaf. 1798"", sowie der weiteren Notiz:,Het Schilderij in 1798 in de Collection van den",1063,99.0,False,none,FLINCK GOVAERT,,,COLLEZIONE SPIRIDON,Sec. XVIII
+BO0624_88442,242681,258,287,"CHRISTUS GENEEST DE MOEDER VAN PETRUS.,G. Metzu inv.""",1065,96.1,False,none,METSU GABRIEL,,,,
+BO0624_88442,242682,259,288,"LES DISCIPLES D'EMMAUS. 1802nach Rembrandts Louvre-Bild,Dut.10, IV mit der Schrift und mit vollem breiten Plattenrand.",1067,98.3,False,none,REMBRANDT VAN RIJN,,,,
+BO0624_88442,242683,260,1661,", Dut.15, IV. Druck mit Schrift und mit breitem Plattenrand.",1069,95.7,False,none,,,,,
 BO0624_88442,242684,261,291,"DER MANN MIT DEM HUT. Nach Rembrandts Bildnis von 1656,,J. de",1074,96.7,False,positional,Johannes Pieter de Frey,,,,Sec. XVII
-BO0624_88442,242685,262,295,"DIE APFELSCHALENDE ALTE,1801,nach einer Zeichnung vcn Nikolas Maes. Vorziglicher Druck vor aller Schrift, auf der Ruckseite der Stempel: ""J.D.F..Dut.29,II.",1080,98.7,False,positional,Johannes Pieter de Frey,,STAMPE E INCISIONI,,Sec. XIX
-BO0624_88442,242686,263,297,"BRUSTBILD EINES MANNES MIT FEDERMUTZE (nach Rembrandt ?),",1083,96.3,False,positional,Johannes Pieter de Frey,,,,
-BO0624_88442,242687,264,302,MARTEN HARPERTZ TROMP. J. Lievens ad.viv. del. J de Frey f. aqua,1090,96.7,False,positional,Johannes Pieter de Frey,,,,
-BO0624_88442,242688,265,303,"KNIESTUCK EINES MANNES, Drost pinx. 1659, J. de Frey fecit 1796, Dut.49,IV.",1091,97.2,False,positional,Johannes Pieter de Frey,,,,Sec. XVII
-BO0624_88442,242689,266,309,"REMBRANDT,BERGIGELANDSCHAFTMITBRUCKE,,TireduCabinet 一 de M. D. Merrem, J. de Frey f. aqua forti 1801.Dut.54,IV,mit der Schrift. SCHREITENDER BAUER,nach Lauwers, erster Probedruck, bevor der Baum weggeschabt wurde und vor Reinigung der Platte, sehr selten. Dut. 61,",1099,69.1,False,positional,Johannes Pieter de Frey,,,,Sec. XIX
-BO0624_88442,242690,267,310,"DASSELBE,Dut.54,II (vor der Schrift).",1100,94.4,False,positional,Johannes Pieter de Frey,,,,
-BO0624_88442,242691,268,318,",LA GRANDE JUDI rH. Judith schneidet dem Holofernes das Haupt ab.",1110,96.9,False,positional,Johannes Pieter de Frey,,,,
-BO0624_88442,242692,269,319,ZWEI HIRTEN UND NYMPHENSZENE. Blatt 3 und Blatt 10 der Pracht-,1117,96.8,False,positional,Johannes Pieter de Frey,,,,
-BO0624_88442,242693,270,320,"DER HEXENSABBATH.,,Gillot inx.et sculp,""mit franz.Versunterschrift.",1123,96.9,False,positional,Johannes Pieter de Frey,,,,
-BO0624_88442,242694,271,321,"BACCHUS. ,Cornelio Corneli Harlemaeo Pictori egregio xenioli loco D.D.H. Goltzius"".",1125,97.5,False,positional,Johannes Pieter de Frey,,,,
+BO0624_88442,242685,262,295,"DIE APFELSCHALENDE ALTE,1801,nach einer Zeichnung vcn Nikolas Maes. Vorziglicher Druck vor aller Schrift, auf der Ruckseite der Stempel: ""J.D.F..Dut.29,II.",1080,98.7,False,none,NICOLAES MAES,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_88442,242686,263,297,"BRUSTBILD EINES MANNES MIT FEDERMUTZE (nach Rembrandt ?),",1083,96.3,False,none,REMBRANDT VAN RIJN,,,,
+BO0624_88442,242687,264,302,MARTEN HARPERTZ TROMP. J. Lievens ad.viv. del. J de Frey f. aqua,1090,96.7,False,none,,,,,
+BO0624_88442,242688,265,303,"KNIESTUCK EINES MANNES, Drost pinx. 1659, J. de Frey fecit 1796, Dut.49,IV.",1091,97.2,False,none,,,,,Sec. XVII
+BO0624_88442,242689,266,309,"REMBRANDT,BERGIGELANDSCHAFTMITBRUCKE,,TireduCabinet 一 de M. D. Merrem, J. de Frey f. aqua forti 1801.Dut.54,IV,mit der Schrift. SCHREITENDER BAUER,nach Lauwers, erster Probedruck, bevor der Baum weggeschabt wurde und vor Reinigung der Platte, sehr selten. Dut. 61,",1099,69.1,False,none,REMBRANDT VAN RIJN,,,,Sec. XIX
+BO0624_88442,242690,267,310,"DASSELBE,Dut.54,II (vor der Schrift).",1100,94.4,False,none,,,,,
+BO0624_88442,242691,268,318,",LA GRANDE JUDI rH. Judith schneidet dem Holofernes das Haupt ab.",1110,96.9,False,none,,,,,
+BO0624_88442,242692,269,319,ZWEI HIRTEN UND NYMPHENSZENE. Blatt 3 und Blatt 10 der Pracht-,1117,96.8,False,none,,,,,
+BO0624_88442,242693,270,320,"DER HEXENSABBATH.,,Gillot inx.et sculp,""mit franz.Versunterschrift.",1123,96.9,False,none,,,,,
+BO0624_88442,242694,271,321,"BACCHUS. ,Cornelio Corneli Harlemaeo Pictori egregio xenioli loco D.D.H. Goltzius"".",1125,97.5,False,none,GOLTZIUS HENDRIK,,,,
 BO0624_88442,242695,272,327,"327.DER UNTERGANG DER AEGYPTER IM ROTEN MEER,1586nach Ans. Bol, W. 1.",1135,100.0,False,positional,Julius Goltzius; Hubert G.,,,,
-BO0624_88442,242696,273,328,"328. DIE ENTHAUPTUNG DES JOHANNES,sehr seltenes Blatt,Andresen 4.",1136,73.7,False,positional,Julius Goltzius; Hubert G.,,,,
-BO0624_88442,242697,274,329,"ANSICHT DES LORENZBERGES BEI PRAG,Prospectus aliquot locorum in diversis Provinciis a Wenceslao Hollar Bohemo delineatiet aqua fortiex.1643"",",1137,98.6,False,positional,Julius Goltzius; Hubert G.,,,,Sec. XVII
+BO0624_88442,242696,273,328,"328. DIE ENTHAUPTUNG DES JOHANNES,sehr seltenes Blatt,Andresen 4.",1136,73.7,False,none,,,,,
+BO0624_88442,242697,274,329,"ANSICHT DES LORENZBERGES BEI PRAG,Prospectus aliquot locorum in diversis Provinciis a Wenceslao Hollar Bohemo delineatiet aqua fortiex.1643"",",1137,98.6,False,none,,,,,Sec. XVII
 BO0624_88442,242698,275,332,"DE CAPRICES ET PENSEES DE DIVERS GENRES. Composees et dessinees par P. T. le Clerc et gravees par Janinet, Titelblatt und Blatt 3-4 des 4.",1147,98.5,False,positional,Francois Janinet,,,,
 BO0624_88442,242699,276,334,"DER TOTE TROMPETER nach HoraceVernet,groBes Blatt,in kombinierter Technik. Linien- und Punktiermanier, a Paris, chez Francois Janet, Editeur.",1152,98.5,False,title_direct,Francois Janinet,,,,
-BO0624_88442,242700,277,31,"Mai 1843 in Utrecht, 86 Jahre alt.",1156,95.5,False,positional,Charles Johannot,,,,Sec. XIX
+BO0624_88442,242700,277,31,"Mai 1843 in Utrecht, 86 Jahre alt.",1156,95.5,False,none,,,,,Sec. XIX
 BO0624_88442,242701,278,2,"335.VENUS ET L'AMOUR, Luca Giordano Pinxit. P.H. Jonxis sculp. Parisi. Kupferstich, beschnitten.",1157,98.9,False,title_direct,LUCA GIORDANO,,Kupferstiche,,
 BO0624_88442,242702,279,3,"Jaspar Isacz, Kupferstecher in der Art der Wierx, tatig zu Paris Anfang des",1158,98.6,False,title_direct,,,Kupferstiche,,
 BO0624_88442,242703,280,17,Jahrhunderts.,1159,88.9,False,title_direct,,Unbekannter deutscher Meister aus der ersten Halfte des 19. Jahrhunderts,OGGETTI IN RAME,,
 BO0624_88442,242704,281,336,DESCRIPTION DES ANCIENS BAINS ROMAINS. Freier Kupferstich.,1160,96.6,False,title_direct,,,Kupferstiche,,
 BO0624_88442,242705,282,337,"BEWAFFNETER KRIEGER,J.21.III.",1164,93.3,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242706,283,339,"ANGEBUNDENES PFERD, J. 41, III.Prachtv.Abdruck v. d. fertigen Platte.",1167,96.9,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242707,284,343,"EIN SGHLAFENDER UND EIN WACHENDER HUND, J.80.",1171,95.6,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242708,285,1,"Vorzuglicher Atzdruck mit Kleins Bezeichnung:,Atzdruck,retuschiert",1190,98.5,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242709,286,II,Ausgezeichneter Abdruck der fertigen Platte.,1192,96.6,False,positional,Johann Adam Klein,,,,
+BO0624_88442,242706,283,339,"ANGEBUNDENES PFERD, J. 41, III.Prachtv.Abdruck v. d. fertigen Platte.",1167,96.9,False,none,,,,,
+BO0624_88442,242707,284,343,"EIN SGHLAFENDER UND EIN WACHENDER HUND, J.80.",1171,95.6,False,none,,,,,
+BO0624_88442,242708,285,1,"Vorzuglicher Atzdruck mit Kleins Bezeichnung:,Atzdruck,retuschiert",1190,98.5,False,none,,,,,
+BO0624_88442,242709,286,II,Ausgezeichneter Abdruck der fertigen Platte.,1192,96.6,False,none,,,,,
 BO0624_88442,242710,287,358,"DER SPITZHUND BEI DER STAFFELEI,J179.II.AuBerordentlich schoner Abdruck der vollendeten Platte.",1198,97.9,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242711,288,360,"DIESCHWEINE,J.184.I1.Prachtvoller Abdruck von derbeschnittenen Platte.",1200,97.2,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242712,289,361,"STEHENDER HUND, J. 193. II.III. Unbeschriebener Zwischenzustand vor Verstarkung der Roulettearbeiten, aber mit den bis an den linken Vorderlauf reichenden Horizontallinien. Selten.",1201,98.9,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242713,290,372,"BAROZZARO DI ROMA, J. 248, I.Vor Reinigung der Plattenrander.",1211,96.6,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242714,291,374,"SCHLAFENDER SPITZHUND,J.284.III.Seltenes Schabblatt.",1213,96.2,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242715,292,375,"DREI AFFEN,J.289.II.",1214,90.5,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242716,293,378,"PONTE SALARA IN DER CAMPAGNA VON ROM,J.319.V.",1217,95.7,False,positional,Johann Adam Klein,,,,
-BO0624_88442,242717,294,383,"ZUM NEUEN JAHR 1818 (Neujahrsblatt). Ein sitzendes Kind, das den Ka-",1222,96.9,False,positional,Johann Adam Klein,,,,Sec. XIX
+BO0624_88442,242711,288,360,"DIESCHWEINE,J.184.I1.Prachtvoller Abdruck von derbeschnittenen Platte.",1200,97.2,False,none,,,,,
+BO0624_88442,242712,289,361,"STEHENDER HUND, J. 193. II.III. Unbeschriebener Zwischenzustand vor Verstarkung der Roulettearbeiten, aber mit den bis an den linken Vorderlauf reichenden Horizontallinien. Selten.",1201,98.9,False,none,,,,,
+BO0624_88442,242713,290,372,"BAROZZARO DI ROMA, J. 248, I.Vor Reinigung der Plattenrander.",1211,96.6,False,none,,,,,
+BO0624_88442,242714,291,374,"SCHLAFENDER SPITZHUND,J.284.III.Seltenes Schabblatt.",1213,96.2,False,none,,,,,
+BO0624_88442,242715,292,375,"DREI AFFEN,J.289.II.",1214,90.5,False,none,,,,,
+BO0624_88442,242716,293,378,"PONTE SALARA IN DER CAMPAGNA VON ROM,J.319.V.",1217,95.7,False,none,,,,,
+BO0624_88442,242717,294,383,"ZUM NEUEN JAHR 1818 (Neujahrsblatt). Ein sitzendes Kind, das den Ka-",1222,96.9,False,none,,,,,Sec. XIX
 BO0624_88442,242718,295,384,"INTERMEZZI. Rad.Op.IV.,12 Kompositionen.",1227,94.9,False,positional,Max Klinger,,,,
-BO0624_88442,242719,296,1,"Bar und Elfe,2. Am Meer, 3. Verfolgter Zentaur, 4. Mondnacht,",1228,98.2,False,positional,Max Klinger,,,,
-BO0624_88442,242720,297,5,"Kampfende Zentauren,6.Bergsturz,7.Simplici Schreibstube,8.Simplicius am Grabe des Einsiedlers,9. Simplicius unter den Soldaten,10. Simplicius",1229,99.3,False,positional,Max Klinger,,,,
-BO0624_88442,242721,298,385,"LA PLACE DE LA CATHEDRAL () A COLOGNE AVEC LES MATFAISEURS EXPOSE(!) AU PUBLIQUE"",sehr seltenes Blatt.",1234,97.9,False,positional,Max Klinger,,,,
-BO0624_88442,242722,299,386,EINSTURZ DER KUNIBERTSKIRCHEZUKOLN.Inkunabeld.Lithographie,1235,96.7,False,positional,Max Klinger,,STAMPE E INCISIONI,,
+BO0624_88442,242719,296,1,"Bar und Elfe,2. Am Meer, 3. Verfolgter Zentaur, 4. Mondnacht,",1228,98.2,False,none,,,,,
+BO0624_88442,242720,297,5,"Kampfende Zentauren,6.Bergsturz,7.Simplici Schreibstube,8.Simplicius am Grabe des Einsiedlers,9. Simplicius unter den Soldaten,10. Simplicius",1229,99.3,False,none,,,,,
+BO0624_88442,242721,298,385,"LA PLACE DE LA CATHEDRAL () A COLOGNE AVEC LES MATFAISEURS EXPOSE(!) AU PUBLIQUE"",sehr seltenes Blatt.",1234,97.9,False,none,,,,,
+BO0624_88442,242722,299,386,EINSTURZ DER KUNIBERTSKIRCHEZUKOLN.Inkunabeld.Lithographie,1235,96.7,False,none,,,STAMPE E INCISIONI,,
 BO0624_88442,242723,300,387,"DER,BEYEN THURN ZU COELN,Inkunabel der Lithographie,beiderseitig bedruckter Probeabzug, sehr seltenes Blatt. Bez.:,A.Meyer""",1239,98.3,False,title_direct,A. Meyer,,STAMPE E INCISIONI,,
 BO0624_88442,242724,301,388,"ANSICHT DES DOMPLATZES ZU KOLN,nach der Natur gezeichnet",1244,96.6,False,positional,J. Ziegler,,,,
-BO0624_88442,242725,302,389,"DAS GESPRACH (zwei Manner unter einem Baum), nach dem Original bei Gerhard Fleischer in Leipzig 1800. GroBfolio. Radierung mit der Schrift.",1246,98.5,False,positional,J. Ziegler,,ACQUEFORTI,,Sec. XIX
-BO0624_88442,242726,303,391,"LANDSCHAFT MIT RUHENDEN SCHAFEN,vor aller Schrift.",1249,96.1,False,positional,J. Ziegler,,,,
+BO0624_88442,242725,302,389,"DAS GESPRACH (zwei Manner unter einem Baum), nach dem Original bei Gerhard Fleischer in Leipzig 1800. GroBfolio. Radierung mit der Schrift.",1246,98.5,False,none,,,ACQUEFORTI,,Sec. XIX
+BO0624_88442,242726,303,391,"LANDSCHAFT MIT RUHENDEN SCHAFEN,vor aller Schrift.",1249,96.1,False,none,,,,,
 BO0624_88442,242727,304,393,"DAS PISSENDE PFERD,,P. D.L.fe 3"", Radierung, Wurzbach II.",1256,96.2,False,positional,Pieter van Laar,,ACQUEFORTI,,
 BO0624_88442,242728,305,395,"LE REPENTIR. (Die Ruckkehr des verlorenen Sohnes).Farbstich,,a Paris chez Tessari et Co., Quai des Augustins No. 25""",1261,98.2,False,positional,Augustin Legrand,,STAMPE E INCISIONI,,
 BO0624_88442,242729,306,396,"10BLATTAUSDERFOLGEDER14BLATT:,CHRISTUSDIEZWOLF APOSTEL UND ST.PAULUS"",und zwar:Christus,B 86,Petrus,B 87, Paulus,88,Andreas,89,ohannes,90(zweimal,Thomas,B92,Philipus, B95,Simon,B97,Mathaus,B98.",1267,98.9,False,positional,Lucas van Leyden,,,,
-BO0624_88442,242730,307,400,"ZWEI LANDSCHAFTEN NACH JAN BOTH. Bez.:,Jac. Lutma fe et exc.",1272,96.5,False,positional,Lucas van Leyden,,,,
-BO0624_88442,242731,308,401,"401.DIE BARTHOLOMAUSNACHT ZU PARIS,,DeMoort van Parys gepleegt",1277,100.0,False,positional,Lucas van Leyden,,,,
-BO0624_88442,242732,309,402,"402.FLUSSLANDSCHAFTMITSTAFFAGE BEIUNTERGEHENDERSONNE (Bryan v. 2, p. 18).",1278,68.4,False,positional,Lucas van Leyden,,,,
+BO0624_88442,242730,307,400,"ZWEI LANDSCHAFTEN NACH JAN BOTH. Bez.:,Jac. Lutma fe et exc.",1272,96.5,False,none,BOTH JAN,,,,
+BO0624_88442,242731,308,401,"401.DIE BARTHOLOMAUSNACHT ZU PARIS,,DeMoort van Parys gepleegt",1277,100.0,False,none,,,,,
+BO0624_88442,242732,309,402,"402.FLUSSLANDSCHAFTMITSTAFFAGE BEIUNTERGEHENDERSONNE (Bryan v. 2, p. 18).",1278,68.4,False,none,,,,,
 BO0624_88442,242733,310,403,GROSSE ANSICHT VON WORMS AM RHEIN. Kupferstich.,1280,95.7,False,title_direct,,,Kupferstiche,,
-BO0624_88442,242734,311,404,"MUCIUS SCAEVOLA (F.G.1537) B.9,p.24,Nr.2 beschrieben. JUPITER MIT DEM SCHUTZEN,bez.:,Jupiter""und,D ter J. B.1528"" B 14,Nagler,Monogrammisten II p.811,1950,Nr.22. 3 BLATT AUS DER FOLGE DER SIEBEN PLANETEN,stehende mythologische Figuren mit den Zeichen des Tierkreises, und zwar:",1290,60.4,False,positional,Lucas van Leyden,,,,Sec. XVI
-BO0624_88442,242735,312,2,"APOLLO MIT DEM LOWEN, bez.:J. B. 1528 Sol. Nagler ebenda",1291,98.1,False,positional,Lucas van Leyden,,,,Sec. XVI
-BO0624_88442,242736,313,3,"VENUS MIT DEM STIER, bez.:,J. B. 1528"", Nagler ebenda Nr.25.",1293,98.1,False,positional,Lucas van Leyden,,,,Sec. XVI
-BO0624_88442,242737,314,406,"DASPARISURTEIL,B.1,Nagler,Monogrammisten,Band4,p.127,Nr.403,1",1295,96.8,False,positional,Lucas van Leyden,,,,
-BO0624_88442,242738,315,407,TITELBLATT ZUM FISCHFANG(L'eau).,1297,93.8,False,positional,Lucas van Leyden,,,,
-BO0624_88442,242739,316,409,"HENRIETTEVON ENGLAND BESUCHTDASSCHLOSSHEEMSTEDE ,Pieter Nolpe,Amsterdam 1644. Wurzbach 79.",1299,68.1,False,positional,Lucas van Leyden,,,,Sec. XVII
-BO0624_88442,242740,317,410,"DIE DREI RAUCHER, B.13.Epreuve de la planche entierement terminee, IV.etat.",1302,97.3,False,positional,Lucas van Leyden,,,,
-BO0624_88442,242741,318,411,"DASALTEPARCHEN AUF DEM WEGE,B.24.",1303,94.1,False,positional,Lucas van Leyden,,,,
+BO0624_88442,242734,311,404,"MUCIUS SCAEVOLA (F.G.1537) B.9,p.24,Nr.2 beschrieben. JUPITER MIT DEM SCHUTZEN,bez.:,Jupiter""und,D ter J. B.1528"" B 14,Nagler,Monogrammisten II p.811,1950,Nr.22. 3 BLATT AUS DER FOLGE DER SIEBEN PLANETEN,stehende mythologische Figuren mit den Zeichen des Tierkreises, und zwar:",1290,60.4,False,none,,,,,Sec. XVI
+BO0624_88442,242735,312,2,"APOLLO MIT DEM LOWEN, bez.:J. B. 1528 Sol. Nagler ebenda",1291,98.1,False,none,,,,,Sec. XVI
+BO0624_88442,242736,313,3,"VENUS MIT DEM STIER, bez.:,J. B. 1528"", Nagler ebenda Nr.25.",1293,98.1,False,none,,,,,Sec. XVI
+BO0624_88442,242737,314,406,"DASPARISURTEIL,B.1,Nagler,Monogrammisten,Band4,p.127,Nr.403,1",1295,96.8,False,none,,,,,
+BO0624_88442,242738,315,407,TITELBLATT ZUM FISCHFANG(L'eau).,1297,93.8,False,none,,,,,
+BO0624_88442,242739,316,409,"HENRIETTEVON ENGLAND BESUCHTDASSCHLOSSHEEMSTEDE ,Pieter Nolpe,Amsterdam 1644. Wurzbach 79.",1299,68.1,False,none,,,,,Sec. XVII
+BO0624_88442,242740,317,410,"DIE DREI RAUCHER, B.13.Epreuve de la planche entierement terminee, IV.etat.",1302,97.3,False,none,,,,,
+BO0624_88442,242741,318,411,"DASALTEPARCHEN AUF DEM WEGE,B.24.",1303,94.1,False,none,,,,,
 BO0624_88442,242742,319,412,"SCHLAFENDER FAUN UND PUTTEN MIT EINEM ZIEGENBOCK SPIELEND,nach Franceschini, Francesco Pedro sculp. Apud. Nic. Cavalli, Venezia.Kupferstich.",1306,90.5,False,title_direct,,,Kupferstiche,,
-BO0624_88442,242743,320,413,"LE SACRIFICE D'IPHIGENIE,Paris,1731 nach Pietro Testa,beschnitten.",1311,97.0,False,positional,Lucas van Leyden,,,,Sec. XVIII
-BO0624_88442,242744,321,414,"DER SCHLAFENDE BAUER AN DER BRETTERWAND,im Hintergrunde drei andere Bauern zechend. In Crayonmanier. H.19,Br.16cm.",1313,98.2,False,positional,Lucas van Leyden,,,,
+BO0624_88442,242743,320,413,"LE SACRIFICE D'IPHIGENIE,Paris,1731 nach Pietro Testa,beschnitten.",1311,97.0,False,none,,,,,Sec. XVIII
+BO0624_88442,242744,321,414,"DER SCHLAFENDE BAUER AN DER BRETTERWAND,im Hintergrunde drei andere Bauern zechend. In Crayonmanier. H.19,Br.16cm.",1313,98.2,False,none,,,,,
 BO0624_88442,242745,322,415,"AUFNAHMEFEST DER ROMISCHEN MALERZUNFT. (Roomsche Schilderbent). Wurzbach Nr.40, Kupferstich, M. Pool exc: Amstelod: op de Leydse Graft by de Heeren Graft.",1317,98.6,False,title_direct,,,Kupferstiche,,
-BO0624_88442,242746,323,416,UMGEBUNG VON GAILLON MIT HIRTENSTAFFAGE nach Pillement.,1321,96.4,False,positional,Lucas van Leyden,,,,
-BO0624_88442,242747,324,417,"DER HEILIGE HIERONYMUS.B.102,CI.105,Nagler 269.",1325,95.8,False,positional,Lucas van Leyden,,,,
-BO0624_88442,242748,325,418,EIN TOTENTANZ aus dem Jahre 1848 mit erklarendem Text von R. Reinick.,1329,97.1,False,positional,Lucas van Leyden,,,,Sec. XIX
+BO0624_88442,242746,323,416,UMGEBUNG VON GAILLON MIT HIRTENSTAFFAGE nach Pillement.,1321,96.4,False,none,,,,,
+BO0624_88442,242747,324,417,"DER HEILIGE HIERONYMUS.B.102,CI.105,Nagler 269.",1325,95.8,False,none,,,,,
+BO0624_88442,242748,325,418,EIN TOTENTANZ aus dem Jahre 1848 mit erklarendem Text von R. Reinick.,1329,97.1,False,none,,,,,Sec. XIX
 BO0624_88442,242749,326,420,PARTIE DES FISCHHAUSES BEI DRESDEN.Kupferstich.,1332,95.8,False,title_direct,,,Kupferstiche,,
-BO0624_88442,242750,327,422,"AUS DER FOLGE DER HIRSCHE UND REHE,Nr.19-34,16 Blatt in Kleinfolio-Format. Neudruck.",1335,97.6,False,positional,Lucas van Leyden,,,,
-BO0624_88442,242751,328,424,"GEMSE AUF FELSEN,Nr.36.",1337,91.7,False,positional,Lucas van Leyden,,,,
+BO0624_88442,242750,327,422,"AUS DER FOLGE DER HIRSCHE UND REHE,Nr.19-34,16 Blatt in Kleinfolio-Format. Neudruck.",1335,97.6,False,none,,,,,
+BO0624_88442,242751,328,424,"GEMSE AUF FELSEN,Nr.36.",1337,91.7,False,none,,,,,
 BO0624_88442,242752,329,429,"AUSDERFOLGEDERDACHSE,Nr.75und76,2Blatt. Neudruck.",1350,95.9,False,positional,Johann Elias Ridinger,,,,
-BO0624_88442,242753,330,432,"DER BIBER,Nr.81,1 Blatt.",1353,92.0,False,positional,Johann Elias Ridinger,,,,
-BO0624_88442,242754,331,433,"STEINMARDER UND BAUMMARDER,Nr.82und83,2Blatt.",1357,95.7,False,positional,Johann Elias Ridinger,,,,
-BO0624_88442,242755,332,434,"ILTIS,EICHHORNLEIN,WIESEL,STACHELSCHWEIN,Nr.84-87, 4 Blatt. Neudruck.",1358,97.1,False,positional,Johann Elias Ridinger,,,,
-BO0624_88442,242756,333,436,"DAS PARADIES, 12 Blatt, davon ein Blatt am Rand etwas beschadigt,",1360,96.9,False,positional,Johann Elias Ridinger,,,,
-BO0624_88442,242757,334,437,"AUSDER FOLGEDERHIRSCHE,4Blatt,GroBfolio,und zwar:",1362,96.0,False,positional,Johann Elias Ridinger,,,,
-BO0624_88442,242758,335,1,",DAS BRUNFT-SCHIESSEN,nach der Natur im Walde bey Starenberg",1363,98.3,False,positional,Johann Elias Ridinger,,,,
-BO0624_88442,242759,336,2,",IN DEM HERZOGTUM WURTTEMBERG ist Anno 1736 Dieses Stuck Wild in dem so genannten Sterich Reidemer Huth, Kirch-heimer Forsts tot gefunden worden."" Imperialgrobe.",1365,99.4,False,positional,Johann Elias Ridinger,,,,Sec. XVIII
-BO0624_88442,242760,337,3,"DIESER HIRSCH MIT 14ENDEN,3beinig und Hirschziege 2beinig mit",1366,98.4,False,positional,Johann Elias Ridinger,,,,
-BO0624_88442,242761,338,4,M. E. Ridinger nach J. E. Ridinger.,1368,96.8,False,positional,Johann Elias Ridinger,,,,
+BO0624_88442,242753,330,432,"DER BIBER,Nr.81,1 Blatt.",1353,92.0,False,none,,,,,
+BO0624_88442,242754,331,433,"STEINMARDER UND BAUMMARDER,Nr.82und83,2Blatt.",1357,95.7,False,none,,,,,
+BO0624_88442,242755,332,434,"ILTIS,EICHHORNLEIN,WIESEL,STACHELSCHWEIN,Nr.84-87, 4 Blatt. Neudruck.",1358,97.1,False,none,,,,,
+BO0624_88442,242756,333,436,"DAS PARADIES, 12 Blatt, davon ein Blatt am Rand etwas beschadigt,",1360,96.9,False,none,,,,,
+BO0624_88442,242757,334,437,"AUSDER FOLGEDERHIRSCHE,4Blatt,GroBfolio,und zwar:",1362,96.0,False,none,,,,,
+BO0624_88442,242758,335,1,",DAS BRUNFT-SCHIESSEN,nach der Natur im Walde bey Starenberg",1363,98.3,False,none,,,,,
+BO0624_88442,242759,336,2,",IN DEM HERZOGTUM WURTTEMBERG ist Anno 1736 Dieses Stuck Wild in dem so genannten Sterich Reidemer Huth, Kirch-heimer Forsts tot gefunden worden."" Imperialgrobe.",1365,99.4,False,none,STUCK FRANZ VON,,,,Sec. XVIII
+BO0624_88442,242760,337,3,"DIESER HIRSCH MIT 14ENDEN,3beinig und Hirschziege 2beinig mit",1366,98.4,False,none,,,,,
+BO0624_88442,242761,338,4,M. E. Ridinger nach J. E. Ridinger.,1368,96.8,False,none,,,,,
 BO0624_88442,242762,339,438,"STRAFE DES VERRATERISCHEN SCHULMEISTERS ZU FALERI.Ra- dierung, seltenes Blatt.",1373,79.4,False,positional,Bernhard Rode,,,,
 BO0624_88442,242763,340,439,L'ATTRAPADE.Die Rivalin. Radierung.,1378,94.3,False,positional,Felicien Rops,,ACQUEFORTI,,
 BO0624_88442,242764,341,440,"KREUZIGUNG CHRISTI,nach LeBrun, sehr seltenes Blattchen,von Heinrich",1382,97.1,False,positional,Jean Louis Roullet,,,,
-BO0624_88442,242765,342,2,Lempertz sen. handschriftlich kommentiert.,1383,97.6,False,positional,Jean Louis Roullet,,,,
-BO0624_88442,242766,343,3,"Jan Sadeler der Altere, * angeblich um 1550 in Brissel,1600 inVenedig. 441.DER SUNDENFALL,1579,nach Martin de Vos,Wurzbach 4. —442.VULCANUS AUF WOLKEN, ,Joan Sadeler"",Wurzbach 143.",1384,99.4,False,positional,Jean Louis Roullet,,,,Sec. XVI
+BO0624_88442,242765,342,2,Lempertz sen. handschriftlich kommentiert.,1383,97.6,False,none,,,,,
+BO0624_88442,242766,343,3,"Jan Sadeler der Altere, * angeblich um 1550 in Brissel,1600 inVenedig. 441.DER SUNDENFALL,1579,nach Martin de Vos,Wurzbach 4. —442.VULCANUS AUF WOLKEN, ,Joan Sadeler"",Wurzbach 143.",1384,99.4,False,none,,,,,Sec. XVI
 BO0624_88442,242767,344,443,"VENUS UMARMT DEN ADONIS,nach Tizian. Querfolio. Wurzbach 102.",1388,96.7,False,positional,Raphael Sadeler der Altere,,,,
 BO0624_88442,242768,345,445,"BILDNIS DER MARIA SIBYLLA MERIAN,als Titelblatt der Meta-",1393,96.6,False,positional,Joh. Rud. Schellenberg,,,,
-BO0624_88442,242769,346,446,"BILDNIS EINES JUNGEN MANNES mit lockigem Haar und Barrett. ,Du Cabinet de Monsieurle Comte deKamcke.,G.F.Schmidt fecit aqua forti1763 J.124,Wess.137.",1396,98.6,False,positional,Joh. Rud. Schellenberg,,,,
-BO0624_88442,242770,347,447,"DER REUIGE PETRUS NACH FERDINAND BOL.,Du Cabinet de",1397,96.2,False,positional,Joh. Rud. Schellenberg,,,,
-BO0624_88442,242771,348,449,LA PRINCESSE CHIMAY.Orginal-Lithographie.,1402,95.2,False,positional,Joh. Rud. Schellenberg,,STAMPE E INCISIONI,,
+BO0624_88442,242769,346,446,"BILDNIS EINES JUNGEN MANNES mit lockigem Haar und Barrett. ,Du Cabinet de Monsieurle Comte deKamcke.,G.F.Schmidt fecit aqua forti1763 J.124,Wess.137.",1396,98.6,False,none,,,,,
+BO0624_88442,242770,347,447,"DER REUIGE PETRUS NACH FERDINAND BOL.,Du Cabinet de",1397,96.2,False,none,,,,,
+BO0624_88442,242771,348,449,LA PRINCESSE CHIMAY.Orginal-Lithographie.,1402,95.2,False,none,,,STAMPE E INCISIONI,,
 BO0624_88442,242772,349,450,"450.L'INNOCENCE DE GENEVIEVE RECONNUE,CHEZ BOULARD a PARIS. Farbstich.",1407,100.0,False,positional,,Unbekannter franzosischer Stecher,STAMPE E INCISIONI,,
-BO0624_88442,242773,350,451,"451. VENUS UND AMOR IN LANDSCHAFT,angefertigt als Grabstichel ubung wahrend seines Pariser Aufenthaltes 1812 beim Maler",1410,52.6,False,positional,,Unbekannter franzosischer Stecher,,,Sec. XIX
+BO0624_88442,242773,350,451,"451. VENUS UND AMOR IN LANDSCHAFT,angefertigt als Grabstichel ubung wahrend seines Pariser Aufenthaltes 1812 beim Maler",1410,52.6,False,none,,,,,Sec. XIX
 BO0624_88442,242774,351,452,"LANDSCHAFT MIT BAUERNHAUSERN unter Baumen und Reiter, den ein Hund verfolgt. Aus der Folge der kleinen Brabanter Landschaften. ,P. Breughel inv. Cl. J. Visscher exc. Bl. 4""",1412,98.8,False,title_direct,Brueghel,,,,
-BO0624_88442,242775,352,453,DAS WEIB UNTER DEM BAUME.Radierung.Wurzbach 72 (78).,1414,96.1,False,positional,,Unbekannter franzosischer Stecher,ACQUEFORTI,,
-BO0624_88442,242776,353,454,"APOLLO,DAPHNE VERFOLGEND,Wagner nach Zuccarelli Nr.46,I.",1418,96.5,False,positional,,Unbekannter franzosischer Stecher,,,
-BO0624_88442,242777,354,455,DAS LACHENDE MADCHEN. Farbiges Schabkunstblatt vor aller Schrift mit eigenhandiger Unterschrift des Kunstlers.,1423,98.2,False,positional,,Unbekannter franzosischer Stecher,STAMPE E INCISIONI,,
+BO0624_88442,242775,352,453,DAS WEIB UNTER DEM BAUME.Radierung.Wurzbach 72 (78).,1414,96.1,False,none,,,ACQUEFORTI,,
+BO0624_88442,242776,353,454,"APOLLO,DAPHNE VERFOLGEND,Wagner nach Zuccarelli Nr.46,I.",1418,96.5,False,none,,,,,
+BO0624_88442,242777,354,455,DAS LACHENDE MADCHEN. Farbiges Schabkunstblatt vor aller Schrift mit eigenhandiger Unterschrift des Kunstlers.,1423,98.2,False,none,,,STAMPE E INCISIONI,,
 BO0624_88442,242778,355,456,5BLATT Mit24KLEINEN ANSICHTEN AUS DERFOLGEDERLAND-,1427,96.1,False,positional,Franz Edmund Weirotter,,,,
-BO0624_88442,242779,356,5,4.1808 in Paris.,1434,93.8,False,positional,Franz Edmund Weirotter,,,,Sec. XIX
-BO0624_88442,242780,357,459,"REPOS DE LA VIERGE. Peint par W. C. Dietricy. Grave par J. G.Wille,",1435,96.8,False,positional,Franz Edmund Weirotter,,,,
-BO0624_88442,242781,358,460,"MUSICIENS AMBULANS. Peint par Dietricy, grave en 1764 par J.G Wille. Le Bl. 52. Imperialfolio.",1437,97.8,False,positional,Franz Edmund Weirotter,,,,Sec. XVIII
-BO0624_88442,242782,359,462,"INSTRUCTION PATERNELLE.Peint par G. Terburg. Grave en 1765 par J..G Wille.Vorzuglicher fruher, breitrandiger Druck,mit deutlicher Platten-",1440,98.5,False,positional,Franz Edmund Weirotter,,PIATTI,,Sec. XVIII
-BO0624_88442,242783,360,463,BONS AMIS. Peint par Adriaen Ostade. Grave par J. G.Wille. Le Bl. 56.,1442,96.9,False,positional,Franz Edmund Weirotter,,,,
+BO0624_88442,242779,356,5,4.1808 in Paris.,1434,93.8,False,none,,,,,Sec. XIX
+BO0624_88442,242780,357,459,"REPOS DE LA VIERGE. Peint par W. C. Dietricy. Grave par J. G.Wille,",1435,96.8,False,none,DIETRICH C.W.E.,,,,
+BO0624_88442,242781,358,460,"MUSICIENS AMBULANS. Peint par Dietricy, grave en 1764 par J.G Wille. Le Bl. 52. Imperialfolio.",1437,97.8,False,none,DIETRICH C.W.E.,,,,Sec. XVIII
+BO0624_88442,242782,359,462,"INSTRUCTION PATERNELLE.Peint par G. Terburg. Grave en 1765 par J..G Wille.Vorzuglicher fruher, breitrandiger Druck,mit deutlicher Platten-",1440,98.5,False,none,TERBORCH GERARD,,PIATTI,,Sec. XVIII
+BO0624_88442,242783,360,463,BONS AMIS. Peint par Adriaen Ostade. Grave par J. G.Wille. Le Bl. 56.,1442,96.9,False,none,ADRIAEN VAN OSTADE,,,,
 BO0624_88442,242784,361,465,"DAS GROSSE PFERD,1564,nach Durer.",1449,94.1,False,positional,Hieronymus Wirtz,,,,Sec. XVI
-BO0624_88442,242785,362,466,THE FISHERY.Richd.Wright pinxt.Wm.Woollett sculpt.Published 30.6.1768. Imperialfolio.,1452,97.6,False,positional,Hieronymus Wirtz,,,,Sec. XVIII
+BO0624_88442,242785,362,466,THE FISHERY.Richd.Wright pinxt.Wm.Woollett sculpt.Published 30.6.1768. Imperialfolio.,1452,97.6,False,none,,,,,Sec. XVIII
 BO0624_88442,242786,363,467,DER SEE. John Smith of Chichester Pinx' William Woollett sculpsit. Pub-,1453,97.1,False,title_direct,William Woollett,,,,
 BO0624_88442,242787,364,469,DIANA AND ACTEON.Filippo Lauri pinxt D.Martin delt.William Woollett sculpt. Published 1. 3. 1764 by J. Boydell. Imperialfolio.,1459,98.4,False,title_direct,William Woollett,,,,Sec. XVIII
-BO0624_88442,242788,365,470,MORNING.Painted by Swanniveldt.Engraved by Wm.Woollett &amp; B.T.,1460,96.9,False,positional,William Woollett,,,,
-BO0624_88442,242789,366,3,Pouncy. Published 1.2.1787 by Eliz.Woollett. F LXX. Gegenstick zu dem Folgenden.Imperialfolio.,1461,98.9,False,positional,William Woollett,,,,Sec. XVIII
-BO0624_88442,242790,367,4,"471.EVENING.Painted by Swanniveldt. Engraved by Wm.Woollett, St.Smith. Published 1.2.1787 by Eliz.Woollett. F. CXXI. 4th State. Gegenstick zu",1462,99.3,False,positional,William Woollett,,,,Sec. XVIII
-BO0624_88442,242791,368,5,dem Vorhergehenden.,1463,94.7,False,positional,William Woollett,,,,
+BO0624_88442,242788,365,470,MORNING.Painted by Swanniveldt.Engraved by Wm.Woollett &amp; B.T.,1460,96.9,False,none,,,,,
+BO0624_88442,242789,366,3,Pouncy. Published 1.2.1787 by Eliz.Woollett. F LXX. Gegenstick zu dem Folgenden.Imperialfolio.,1461,98.9,False,none,,,,,Sec. XVIII
+BO0624_88442,242790,367,4,"471.EVENING.Painted by Swanniveldt. Engraved by Wm.Woollett, St.Smith. Published 1.2.1787 by Eliz.Woollett. F. CXXI. 4th State. Gegenstick zu",1462,99.3,False,none,,,,,Sec. XVIII
+BO0624_88442,242791,368,5,dem Vorhergehenden.,1463,94.7,False,none,,,,,
 BO0624_88442,242792,369,472,SNOWDEN HILL (North Wales). Richard Wilson pinxt. William Woollett sculpt. Published 17. 7. 1747 by John Boydell. F. XCI. Imperialfolio.,1464,98.4,False,title_direct,William Woollett,,,,Sec. XVIII
-BO0624_88442,242793,370,7,473.HERMITAGE AT WARKWORTH. Drawn by T.Hearne. Engraved by W.Woollett. Published 1.1. 1779 by W.Byrne &amp; T.Hearne. Quartformat.,1465,99.2,False,positional,William Woollett,,,,Sec. XVIII
-BO0624_88442,242794,371,8,474.MACBETH. Painted by Franco Zuccarelli. Engraved by Wm. Woollett.,1466,98.5,False,positional,William Woollett,,,,
-BO0624_88442,242795,372,9,Published 29. 12.1770 by Wm.Woollett in Green Street. Imperialfolio.,1467,98.5,False,positional,William Woollett,,,,Sec. XVIII
-BO0624_88442,242796,373,10,"475.APOLLO AND THE SEASONS. Painted by R. Wilson, Figures by Mr. Mortimer. Engraved by B. J. Pouncy.Published 12.5.1794 by Laurie &amp; Wittle. Prachtvoller breitrandiger Druck von tiefsamtenem Ton. F. 96, 6th State.",1468,99.3,False,positional,William Woollett,,,,Sec. XVIII
-BO0624_88442,242797,374,476,"DIE EBERJAGD. Landskip painted by R. Wilson,Figures by Mr. Mortimer. Engraved by W.Woollett &amp; B. Pouncy,London,Printed for R. Sayer &amp; J. Bennett.Nr.53 Fleet Street. 1.12.1779.",1469,86.6,False,positional,William Woollett,,,,Sec. XVIII
+BO0624_88442,242793,370,7,473.HERMITAGE AT WARKWORTH. Drawn by T.Hearne. Engraved by W.Woollett. Published 1.1. 1779 by W.Byrne &amp; T.Hearne. Quartformat.,1465,99.2,False,none,,,,,Sec. XVIII
+BO0624_88442,242794,371,8,474.MACBETH. Painted by Franco Zuccarelli. Engraved by Wm. Woollett.,1466,98.5,False,none,,,,,
+BO0624_88442,242795,372,9,Published 29. 12.1770 by Wm.Woollett in Green Street. Imperialfolio.,1467,98.5,False,none,,,,,Sec. XVIII
+BO0624_88442,242796,373,10,"475.APOLLO AND THE SEASONS. Painted by R. Wilson, Figures by Mr. Mortimer. Engraved by B. J. Pouncy.Published 12.5.1794 by Laurie &amp; Wittle. Prachtvoller breitrandiger Druck von tiefsamtenem Ton. F. 96, 6th State.",1468,99.3,False,none,,,,,Sec. XVIII
+BO0624_88442,242797,374,476,"DIE EBERJAGD. Landskip painted by R. Wilson,Figures by Mr. Mortimer. Engraved by W.Woollett &amp; B. Pouncy,London,Printed for R. Sayer &amp; J. Bennett.Nr.53 Fleet Street. 1.12.1779.",1469,86.6,False,none,SAVERY ROELAND,,,,Sec. XVIII
 BO0624_88442,242798,375,477,"ZENTAUR,EIN SCHLANGENOPFER BRINGEND,Chiron u.Achilles(?),",1474,96.4,False,positional,Antonio Maria Zanetti,,,,
-BO0624_88442,242799,376,478,"CHIRON, DEN ACHILLES UNTERRICHTEND. Braundruck,vor aller Schrift (1759).",1476,97.1,False,positional,Antonio Maria Zanetti,,,,Sec. XVIII
-BO0624_88442,242800,377,479,"69 BLATT JAPANISCHE FARBENHOLZSCHNITTE,altere und neuere.",1477,96.6,False,positional,Antonio Maria Zanetti,,STAMPE E INCISIONI,,
+BO0624_88442,242799,376,478,"CHIRON, DEN ACHILLES UNTERRICHTEND. Braundruck,vor aller Schrift (1759).",1476,97.1,False,none,,,,,Sec. XVIII
+BO0624_88442,242800,377,479,"69 BLATT JAPANISCHE FARBENHOLZSCHNITTE,altere und neuere.",1477,96.6,False,none,,,STAMPE E INCISIONI,,

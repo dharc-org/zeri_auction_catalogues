@@ -34,13 +34,13 @@ BO0624_88760,199238,32,32,"EINE TANZERIN IN WEISSEM KLEID in Tanzstellung, angeb
 BO0624_88760,199239,33,33,"WALDWIESE MIT KUHEN,Nachmittagsstimmung. Lwd. Gr.53X73 cm.G.R.",211,97.5,False,positional,JULES DUPRE,,,,
 BO0624_88760,199240,34,34,"WALDLANDSCHAFT mit Teich, in dem Kuhe stehen, Landleute auf dem Waldweg. Lwd.Gr.44X62 cm.G.R.Signiert und datiert 1854.",217,98.7,False,positional,BAREND CORNELIS KOEKKOEK,,,,Sec. XIX
 BO0624_88760,199241,35,35,BILDNIS EINES GROSSEN WEISSEN WINDHUNDES. Lwd. Gr.131X163 cm.G.R.,223,97.6,False,positional,ALFRED DE DREUX,,,,
-BO0624_88760,199242,36,2,Signiert.,224,88.9,False,positional,ALFRED DE DREUX,,,,
+BO0624_88760,199242,36,2,Signiert.,224,88.9,False,none,,,,,
 BO0624_88760,199243,37,1766,1834Munchen,228,81.5,False,positional,JOSEPH HAUBER,,,,
-BO0624_88760,199244,38,36,PORTRAT EINES MANNES MIT BUCH.Lwd.Gr.57X45 cm.G.R.,230,97.0,False,positional,JOSEPH HAUBER,,,,
+BO0624_88760,199244,38,36,PORTRAT EINES MANNES MIT BUCH.Lwd.Gr.57X45 cm.G.R.,230,97.0,False,none,,,,,
 BO0624_88760,199245,39,37,BERGLANDSCHAFT.Lwd.Gr.54X41 cm.G.R.,234,95.8,False,positional,JOH. JAK. DORNER,,,,
 BO0624_88760,199246,40,38,a-b.ZWEI SEELANDSCHAFTEN.Gegenstude.Lwd. Gr.je28x38 cm.G.R.,240,98.3,False,positional,DIETRICH LANGKO,,,,
 BO0624_88760,199247,41,39,a.DIE HEILIGE FAMILIE.Pappe. Gr.16X20 cm.G.R. Signiert und datiert 1854.,244,98.6,False,positional,KARL KELLER,,,,Sec. XIX
-BO0624_88760,199248,42,39,b.TOD DER HEILIGEN MAGDALENA. Pappe. Gr.17X21 cm. G.R. Ebenso. c.NOLI ME TANGERE. Pappe.Gr.18X20 cm. G.R.Ebenso.,246,69.9,False,positional,KARL KELLER,,,,
+BO0624_88760,199248,42,39,b.TOD DER HEILIGEN MAGDALENA. Pappe. Gr.17X21 cm. G.R. Ebenso. c.NOLI ME TANGERE. Pappe.Gr.18X20 cm. G.R.Ebenso.,246,69.9,False,none,,,,,
 BO0624_88760,199249,43,40,"DIE FELSKUSTE VON DIEPPE,im Vordergrund Fischer. Lwd.Gr.30X42 cm. G.R.Signiert.",252,98.1,False,positional,EDUARD HILDEBRANDT,,,,
 BO0624_88760,199250,44,41,WASSERFALL IN BERGSCHLUCHT.Holz.Gr.16X21 cm.G.R. Signiert L.H.,258,97.6,False,positional,LOUIS HOGUET,,OGGETTI IN LEGNO,,
 BO0624_88760,199251,45,42,"DER SCHWIELOWSEE BEI WERDER,von vorn rechts von herbstlichen Pappel und Eichenasten iberschnitten.Dunstiger Tag. Lwd. Gr.91x189 cm.Eichen-R. Signiert, Abbildung Tafel 17",264,99.1,False,positional,KARL HAGEMEISTER,,,,
@@ -52,8 +52,8 @@ BO0624_88760,199256,50,47,"UNTER DEN WEIDEN. Kuhherde auf einer Waldwiese mit Wa
 BO0624_88760,199257,51,48,"ALTER EICHENWALD.Im Vordergrund sitzt eine Dame in Rosa, malend.Im Hintergrund wartet eine Equipage. Lwd.Gr.100x150 cm.G.R. Signiert.",299,98.9,False,positional,ASKAN LUTTEROTH,,,,
 BO0624_88760,199258,52,49,DIE SEINE IN PARIS.Lwd.Gr.32X45 cm.G.R. Signiert.,305,96.9,False,positional,ALFRED SISLEY,,,,
 BO0624_88760,199259,53,50,WIESE mit Kuh nach Sonnenuntergang. Malpappe. Gr.32X47 cm. G.R. Signiert.,311,97.8,False,positional,LOUIS DOUZETTE,,,,
-BO0624_88760,199260,54,51,MONDNACHT an der Ostsee. Malpappe. Gr.26X36 cm.G.R. Signiert.,312,97.4,False,positional,LOUIS DOUZETTE,,,,
-BO0624_88760,199261,55,52,SPAZIERGANG IM WALDE. Junges Madchen in sonnigem Buchenwald.Lwd.,313,97.6,False,positional,LOUIS DOUZETTE,,,,
+BO0624_88760,199260,54,51,MONDNACHT an der Ostsee. Malpappe. Gr.26X36 cm.G.R. Signiert.,312,97.4,False,none,,,,,
+BO0624_88760,199261,55,52,SPAZIERGANG IM WALDE. Junges Madchen in sonnigem Buchenwald.Lwd.,313,97.6,False,none,,,,,
 BO0624_88760,199262,56,53,EIN HOCHGEBIRGSSEE.Lwd. Gr.37X52 cm.G.R.NachlaB-Stempel.,318,97.3,False,positional,EDUARD HILDEBRANDT,,STAMPE E INCISIONI,,
 BO0624_88760,199263,57,54,BRUCKE IN HOLLAND;vorn ein bespannter Planwagen; Abendstimmung. Lwd. Gr.36x62 cm.G.R.Signiert. Abbildung Tafel 8,324,98.6,False,positional,HANS HERMANN,,,,
 BO0624_88760,199264,58,55,"ANGLER IN WIESENLANDSCHAFT, Sommernachmittag, bededter Himmel. Lwd. Gr.37x51 cm.G.R.Signiert.",328,98.3,False,positional,LOUIS DOUZETTE,,,,
@@ -63,9 +63,9 @@ BO0624_88760,199267,61,58,"BILDNIS EINES JUNGEN MADCHENS mit offenem blonden Haa
 BO0624_88760,199268,62,59,"IM WALD VON FONTAINEBLEAU. Lichtung in einem Eichenwald, vorn ein Tumpel und Waldwiese. Rechts eine Holzsammlerin.Holz. Gr.37X46 cm.G.R.Signiert. Abbildung Tafel 20",354,99.1,False,positional,NARCISSE V.DIAZ DE LA PENA,,OGGETTI IN LEGNO,,
 BO0624_88760,199269,63,60,"DIE JAGDBEUTE.Ein Forster mit drei Gehilfen verladet zwei Hirsche und einen Fuchs auf einen Ochsenkarren, Waldweg. Lwd.Gr. 62X85 cm.G.R.Signiert: Fr.Voltz,Munchen.",360,99.1,False,positional,FRIEDRICH VOLTZ,,,,
 BO0624_88760,199270,64,61,"BAUMALLEE zwischen waldigen Wiesen mit Reiter, Bauern und Kuhen. Holz. Gr.42x56 cm. Signiert und datiert 51.-Rudkseitig eine Bestatigung des Malers von 1851.",366,99.0,False,positional,BAREND CORNELIS KOEKKOEK,,OGGETTI IN LEGNO,,Sec. XIX
-BO0624_88760,199271,65,2,62.,367,66.7,False,positional,BAREND CORNELIS KOEKKOEK,,,,
-BO0624_88760,199272,66,3,"EICHWALD IM WINTER; an einem zugefrorenen Bach vorn links Holzsammler,in der Ferne turmreiche Stadt. Holz.Gr. 62X50 cm.Signiert und datiert 1855.",368,99.3,False,positional,BAREND CORNELIS KOEKKOEK,,OGGETTI IN LEGNO,,Sec. XIX
-BO0624_88760,199273,67,63,BAUMREICHE LANDSCHAFT mit Karre auf dem Wege;Nachmittagssonne. Holz. Gr.35×45cm. Signiert und datiert 1856. Ruckseitig ein Zettel mit Bestatigung von B.C.K.,369,99.0,False,positional,BAREND CORNELIS KOEKKOEK,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88760,199271,65,2,62.,367,66.7,False,none,,,,,
+BO0624_88760,199272,66,3,"EICHWALD IM WINTER; an einem zugefrorenen Bach vorn links Holzsammler,in der Ferne turmreiche Stadt. Holz.Gr. 62X50 cm.Signiert und datiert 1855.",368,99.3,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88760,199273,67,63,BAUMREICHE LANDSCHAFT mit Karre auf dem Wege;Nachmittagssonne. Holz. Gr.35×45cm. Signiert und datiert 1856. Ruckseitig ein Zettel mit Bestatigung von B.C.K.,369,99.0,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88760,199274,68,64,BLICK AUF NEAPEL mit dem Vesuv im Hintergrund; vorn Fischer und Fischerboote. Lwd.Gr.46X78 cm.G.R.Signiert: Napoli.,375,98.7,False,positional,ROPPOLO GASTALDI,,,,
 BO0624_88760,199275,69,65,SEELANDSCHAFT mit Hochgebirge.Lwd. Gr.100X120 cm.G.R. Signiert.,381,97.6,False,positional,FRANZ HECKENDORF,,,,
 BO0624_88760,199276,70,66,EIN KLEINER KANAL IN VENEDIG. Pastell. Gr.55X45 cm. G.R. Signiert u. datiert 99. Gr.27×36cm.G.R.,387,89.2,False,positional,PAUL HOENIGER,,,,
@@ -82,7 +82,7 @@ BO0624_88760,199286,80,76,SCHAFHERDE IM BUCHENWALD. Fruhsommer.Lwd.Gr.63X46 cm.G
 BO0624_88760,199287,81,77,"WINTERLANDSCHAFT;im Wald wird bei Schneegestober Holz auf einen Ochsenkarren geladen, daneben Forster mit Hund. Lwd. Gr. 55X79 cm. G.R. Signiert. Abbildung Tafel 12",464,99.1,False,positional,HERMANN KAUFFMANN,,OGGETTI IN LEGNO,,
 BO0624_88760,199288,82,78,ZWEI FRAUEN mit Knabe und Hunden auf einer Gartenbank. Lwd. Gr.24X32 cm.,470,97.9,False,positional,NARCISSE DIAZ,,,,
 BO0624_88760,199289,83,79,MONDSCHEIN AM MEER;rechts an der Kuste beleuchtete Schifferhauser. Lwd. Gr.52x77 cm.G.R.Signiert.,474,83.1,False,positional,LOUIS DOUZETTE,,,,
-BO0624_88760,199290,84,80,"DIE DUNEN IN PREROW;in der Ferne eine Windmihle, dusterer Himmel. Lwd. Gr.52x77 cm.G.R.Signiert.Gegenstidk zum vorigem.",476,98.7,False,positional,LOUIS DOUZETTE,,,,
+BO0624_88760,199290,84,80,"DIE DUNEN IN PREROW;in der Ferne eine Windmihle, dusterer Himmel. Lwd. Gr.52x77 cm.G.R.Signiert.Gegenstidk zum vorigem.",476,98.7,False,none,,,,,
 BO0624_88760,199291,85,81,NORWEGISCHE KUSTENLANDSCHAFT mit Fischerhutten am Strand. Gr.58X98 cm.S.R.Signiert.,482,98.2,False,positional,WALTER MORAS,,,,
 BO0624_88760,199292,86,82,"DAS GMUNDER MAAR IN DER EIFEL;Gebirgslandschaft mit SchloB und Kapelle, links unten der See.Lwd. Gr.74X112 cm.G.R.Signiert und datiert 1874.",486,66.7,False,positional,BENNECKENSTEIN,,,,Sec. XIX
 BO0624_88760,199293,87,83,"OCHSE UND KUH, liegend.Malpappe.Gr.19X26 cm. G.R.Monogrammiert.",491,97.6,False,positional,FRIEDRICH VOLTZ,,,,
@@ -90,8 +90,8 @@ BO0624_88760,199294,88,84,WINTERLICHER WOCHENMARKT vor einer alten bayerischen S
 BO0624_88760,199295,89,85,"BAUERIN MIT KINDERN AM ZIEHBRUNNEN, ein Kalbchen trankend. Lwd. Gr.37X45 cm.S.R.Signiert.",503,81.1,False,positional,WILHELM MEYERHEIM,,,,
 BO0624_88760,199296,90,86,"WASSERMUHLE IM WALDE, vorn auf der Baumwiese eine Entengruppe. Lwd. Gr.74X84 cm.S.R.Signiert.",510,98.3,False,positional,HEINRICH LESSING,,,,
 BO0624_88760,199297,91,87,"ABEND AM SCHWIELOWSEE; vorn zwei Kahne, im Hintergrund Wald. Lwd. Gr. 68x93 cm.S.R.Rudseitig NachlaB-Stempel. quod. testat K. Hagemeister, Abbildung Tafel4",516,99.0,False,positional,CHARLES SCHUCH,,STAMPE E INCISIONI,,
-BO0624_88760,199298,92,2,"Ferch 1881. Ausgezeichnetes Werk des Meisters,",517,97.8,False,positional,CHARLES SCHUCH,,,,Sec. XIX
-BO0624_88760,199299,93,3,Lwd.,518,75.0,False,positional,CHARLES SCHUCH,,,,
+BO0624_88760,199298,92,2,"Ferch 1881. Ausgezeichnetes Werk des Meisters,",517,97.8,False,none,,,,,Sec. XIX
+BO0624_88760,199299,93,3,Lwd.,518,75.0,False,none,,,,,
 BO0624_88760,199300,94,88,DIE KARTOFFELERNTE. Auf weiten hugligen Feldern des Niederrheines Bauern mit Karren; ein kartoffellesender Junge im Vordergrund. In der Ferne Walder und Blidk in ein weites Tal. Abendbeleuchtung.Lwd. Gr.70X125 cm. S.R. Signiert.,523,99.3,False,positional,LUDWIG MUNTHE,,,,
 BO0624_88760,199301,95,89,DAS ALPENPANORAMA VON AOSTA.LWd. Gr.74x112cm.G.R.Signiert. Um 1897 gemalt. Rudkseitig Dedikationsvermerk.,529,98.5,False,positional,ALBERT HERTEL,,,,Sec. XIX
 BO0624_88760,199302,96,90,HOCHZEITER AUF EINEM SCHIMMEL in den Hintergrund des Bildes sprengend und 1achend zuridksehend.Lwd.Gr.39X29 cm.G.R.Signiert. Abbildung Tafel 15,535,99.0,False,positional,ALFRED VON WIERUSZ-KOWALSKI,,,,
@@ -99,7 +99,7 @@ BO0624_88760,199303,97,91,"ZWEI ZECHENDE SCHULMEISTER in einer russischen Bierst
 BO0624_88760,199304,98,92,TANZERIN mit ausgebreiteten Armen. Bronze. Hohe 63 cm. Monogrammiert: G.K.,551,97.9,False,positional,GEORG KOLBE,,,,
 BO0624_88760,199305,99,93,ZWEI PFERDE auf ovalem Sodkel. Bronze. Hohe 34 cm. Signiert.,555,97.4,False,positional,OTTO RICHTER,,,,
 BO0624_88760,199306,100,94,LENCHEN STARCK. Kinderkopf in Wachs. Hohe 23 cm. Signiert.,561,97.3,False,positional,CONSTANTIN STARCK,,OGGETTI IN CERA,,
-BO0624_88760,199307,101,2,95.LENCHEN STARCK ALS JUNGES MADCHEN. Bronze. Hohe ohne den schwarzen Marmorsocke1 42 cm. Signiert und datiert 1918-19.,562,99.1,False,positional,CONSTANTIN STARCK,,,,Sec. XX
+BO0624_88760,199307,101,2,95.LENCHEN STARCK ALS JUNGES MADCHEN. Bronze. Hohe ohne den schwarzen Marmorsocke1 42 cm. Signiert und datiert 1918-19.,562,99.1,False,none,,,,,Sec. XX
 BO0624_88760,199308,102,96,"HELENA, stehend, das Kinn in die Rechte gestutzt. Bronze, vergoldet. Hohe 70 cm. Signiert.",568,98.2,False,positional,FRANZVON STUCK,,,,
 BO0624_88760,199309,103,97,DER RATTENFANGER VON HAMELN. Bronze. Hohe 64 cm. Signiert.,574,97.3,False,positional,GEORG HENGSTENBERG,,,,
 BO0624_88760,199310,104,98,"BAR, AUF EINER KUGEL BALANCIEREND. Bronze. Hohe 58 cm. Signiert:A.Gaul, 1889",580,94.3,False,positional,AUGUST GAUL,,,,Sec. XIX
@@ -118,7 +118,7 @@ BO0624_88760,199322,116,110,BLONDLOCKIGES KLEINES MADCHEN IN PELZKAPPE.Lwd.Gr.34
 BO0624_88760,199323,117,111,"BLONDER KNABE; Brustbild nach vorn, auf den Locken grine Mutze, in der Linken",664,97.4,False,positional,ANTONIO ROTTA,,,,
 BO0624_88760,199324,118,112,WINDMUHLE UND BAUERNHOF;vorn Bauer und Bauerin an einem Zaun im Ge,673,97.1,False,positional,CHARLES HOGUET,,,,
 BO0624_88760,199325,119,113,ZWEI JUNGLINGE UND TANZENDE BACCHANTINNEN;hinten Gebirgslandschaft. Lwd. Gr.69x87 cm.G.R.Monogrammiert.,679,98.0,False,positional,LUDWIG VON HOFMANN,,,,
-BO0624_88760,199326,120,2,"114.DREI KNABEN IM BADE,blauer Abend. Lwd. Gr.38X53 cm.G.R. Signiert.",680,98.5,False,positional,LUDWIG VON HOFMANN,,,,
+BO0624_88760,199326,120,2,"114.DREI KNABEN IM BADE,blauer Abend. Lwd. Gr.38X53 cm.G.R. Signiert.",680,98.5,False,none,,,,,
 BO0624_88760,199327,121,115,"DER DORFPOLITIKFR;ein Tischlermeister in seiner Werkstatt,die Zeitung in der",684,97.4,False,positional,MAX THEDY,,,,
 BO0624_88760,199328,122,116,"BILDNIS EINER VORNEHMEN DAME in dunklem pelzbesetzten Kostum.Holz. a. GRUNEWALDSEE,Sommerlicher Spatnachmittag. Lwd, Gr,73X93 cm. G.R. Signiert, Hervorragendes Werk des Meisters,",698,75.1,False,positional,WALTER LEISTIKOW,,OGGETTI IN LEGNO,,
 BO0624_88760,199329,123,117,VOR DEM BACKOFEN. Vor einem bauerlichen Badkofen im Garten Huhner und Ka,704,97.3,False,positional,ALBERT BRENDEL,,,,
@@ -141,7 +141,7 @@ BO0624_88760,199345,139,134,BLICK AUF NEAPEL.Lwd.Gr.30X41 cm.G.R.,803,94.7,False
 BO0624_88760,199346,140,135,REGENBO VOR DER ELBMUNDUNG. Zwei Dampfer auf bewegter See; Sturm- himmel.Lwd.Gr.77X98 cm.G.R.Signiert.,809,75.6,False,positional,LEONHARD SANDROCK,,,,
 BO0624_88760,199347,141,136,"EINE WINTERLANDSCHAFT,altertumliche Stadt,vorn belebte,verschneite Ebene. Holz. Gr.40x56 cm.G.R. Signiert und datiert: M 60.",816,73.8,False,positional,ADOLPH STADEMANN,,OGGETTI IN LEGNO,,
 BO0624_88760,199348,142,137,DER KOMPONIST GASPARO SPONTINI in schwarzem Fradk und weiBem Jabot und,823,97.2,False,positional,JEAN B. P. GUERIN,,,,
-BO0624_88760,199349,143,2,"vielen Orden, darunter der rote Adlerorden. Brustbild. Lwd.Gr. 63X46 cm.G.R.",824,98.6,False,positional,JEAN B. P. GUERIN,,DECORAZIONI DA PARETE,,
+BO0624_88760,199349,143,2,"vielen Orden, darunter der rote Adlerorden. Brustbild. Lwd.Gr. 63X46 cm.G.R.",824,98.6,False,none,,,DECORAZIONI DA PARETE,,
 BO0624_88760,199350,144,137,"a.MARINE,vorn ein Boot mit Seeleuten, in der Ferne Segelschiffe. Lwd. Gr.41X57 cm. G.R. Signiert.",830,98.4,False,positional,EDUARD SCHMIDT,,,,
 BO0624_88760,199351,145,138,",DER KLEINE PIET."" Junge Hollanderin mit ihrem Knaben im Zimmer. Guasche auf Pappe. Gr.45X30 cm.G.R. Signiert und datiert:Kaatwydk aan Zee 1885.",836,98.6,False,positional,FRANZ SKARBINA,,,,Sec. XIX
 BO0624_88760,199352,146,139,IM TANNENWALD bei Abenddammerung. Lwd. Gr.88X122 cm.G.R.Signiert:,841,96.9,False,positional,THEODOR HAGEN,,,,
@@ -188,7 +188,7 @@ BO0624_88760,199392,186,182,"ULANENOFFIZIER, stehend, die Reitgerte in den Hande
 BO0624_88760,199393,187,183,JAIRI TOCHTERLEIN. Studie zu dem Hauptwerk des Meisters. Holz. Gr. 39X31 cm. G.R.Signiert.,1124,97.7,False,positional,ALBERT VON KELLER,,OGGETTI IN LEGNO,,
 BO0624_88760,199394,188,184,PFERDEHERDE IM GEWITTERSTURM. Lwd.Gr.81X95 cm.S.R. Signiert.,1128,96.6,False,positional,ALFRED ROLOFF,,,,
 BO0624_88760,199395,189,185,IN DER LAUBENKOLONIE. Ein bartiger blinder Mann und ein kleines Madchen bringen eine Schubkarre Heu fort. Im Hintergrund GroBstadthauser in Abendsonne. Dedk- und Wasserfarbe. Gr.95X65 cm. G.R. Signiert und datiert:1918.Abbildung Tafel 18,1133,81.8,False,positional,HANS BALUSCHEK,,,,Sec. XX
-BO0624_88760,199396,190,186,BLINDER INVALIDE UND BLUMENVERKAUFERIN. Deck- und Wasserfarbe. Gr.100x70 cm.G.R.Signiert und datiert:1921.,1134,71.5,False,positional,HANS BALUSCHEK,,,,Sec. XX
+BO0624_88760,199396,190,186,BLINDER INVALIDE UND BLUMENVERKAUFERIN. Deck- und Wasserfarbe. Gr.100x70 cm.G.R.Signiert und datiert:1921.,1134,71.5,False,none,,,,,Sec. XX
 BO0624_88760,199397,191,187,AM WALDESRAND. Lwd. Gr.70X90 cm. G.R. Signiert und datiert: 1919.,1140,96.7,False,positional,JOHANNES RUDOLPHI,,,,Sec. XX
 BO0624_88760,199398,192,188,KLAVIERSPIELER UND GEIGERIN in einem Zimmer musizierend. Aquarell. Gr.73X88 cm.G.R.Signiert und datiert:1925.,1146,98.1,False,positional,JOHANNES UFER,,,,Sec. XX
 BO0624_88760,199399,193,189,SCHWARZPAPPELN AM SUMPF.Herbstlandschaft.Holz.Gr.34X43 cm.S.R. Signiert.,1154,97.2,False,positional,HANS AM ENDE,,OGGETTI IN LEGNO,,
@@ -209,7 +209,7 @@ BO0624_88760,199413,207,203,VORSTADT mit einem heranfahrenden Zug. Aquarell. Gr.
 BO0624_88760,199414,208,204,BADELEBEN in einem eleganten Seebad. Malpappe. Gr.48X59 cm.G.R. Signiert.,1244,97.2,False,positional,MAX SCHLICHTING,,,,
 BO0624_88760,199415,209,205,"GESCHECKTE KUH,nach links stehend. Malpappe.",1248,95.5,False,positional,WILHELM BUSCH,,,,
 BO0624_88760,199416,210,206,REISENDE AUF EINEM BAHNSTEIG; Spatnachmittag. Aquarell. Gr.40X30 cm. G.R.Signiert und datiert:1923.,1258,97.9,False,positional,HANS BALUSCHEK,,,,Sec. XX
-BO0624_88760,199417,211,207,LIEBE. Junges Paar an einem Grunewaldsee. Aquarell. Gr. 40X30 cm. G. R. Sig-,1259,97.1,False,positional,HANS BALUSCHEK,,,,
+BO0624_88760,199417,211,207,LIEBE. Junges Paar an einem Grunewaldsee. Aquarell. Gr. 40X30 cm. G. R. Sig-,1259,97.1,False,none,,,,,
 BO0624_88760,199418,212,208,STRASSE IN ROM. Lwd. Gr.30X30 cm. S. R. Signiert und datiert:1890.,1263,96.8,False,positional,LESSER URY,,,,Sec. XIX
 BO0624_88760,199419,213,209,"INTERIEUR, links Aikoven mit Bett, links weiBgekleidete junge Dame. Malpappe.",1270,97.3,False,positional,ERNST KOLBE,,ARREDAMENTI,,
 BO0624_88760,199420,214,210,KONIGIN LOUISE. Brustbild der Konigin in weibem Kleid und rotchangierendem,1277,97.3,False,positional,,BERLINER MEISTER,,,
@@ -223,28 +223,28 @@ BO0624_88760,199427,221,217,"DUNENLANDSCHAFT; waldiger Hugel, in der Tiefe das M
 BO0624_88760,199428,222,218,DER RAUCHER. Kavalier in Rokokotracht am Fenster sitzend. Sepiatuschzeichnung.,1324,97.4,False,positional,L. ERNEST MEISSONNIER,,,,
 BO0624_88760,199429,223,219,KOPF EINER JUNGEN FRAU mit Federputz im Haar. Farbige Kreide. Gr.37x27 cm. S.R. Signiert und datiert:1838,1330,80.7,False,positional,LUIGI BISI,,,,Sec. XIX
 BO0624_88760,199430,224,220,BILDNIS VON EMIL DUBOIS-REYMOND.Brustbild nach rechts. Kohle und Blei Gr.21X13 cm.Signiert und datiert:18.Februar 78.,1337,72.7,False,positional,ADOLPH VON MENZEL,,OGGETTI IN PIOMBO,,
-BO0624_88760,199431,225,221,ZWEI HERREN AM BIERTISCHin Unterhaltung. Blei. Gr.7X13 cm. G.R. Signiert: AM.72.,1339,93.2,False,positional,ADOLPH VON MENZEL,,OGGETTI IN PIOMBO,,
-BO0624_88760,199432,226,222,"DER ZERBROCHENE KRUG.Zum vierten Auftritt:Gerihtsrat Walter tritt gruBend ein,von Adam und Licht empfangen. Feder. Gr. 17x19 cm.G.R. Signiert.",1341,98.6,False,positional,ADOLPH VON MENZEL,,,,
-BO0624_88760,199433,227,223,BRUSTBILD EINER FRAU NACH RECHTS. Kolorierte Bleizeichnung. Gr.20X12 cm. S.R.Signiert: A.M.83.,1342,85.2,False,positional,ADOLPH VON MENZEL,,,,
-BO0624_88760,199434,228,224,"FRAU MIT BLUMENSTRAUSS, Brustbild. Blei. Gr.9X12 cm. S.R. Signiert und datiert:A.M.90.",1344,97.6,False,positional,ADOLPH VON MENZEL,,OGGETTI IN PIOMBO,,
-BO0624_88760,199435,229,9,"225.JUNGES MADCHEN, Huftbild.Blei. Gr.17X11 cm. S.R. Signiert: A.M.92.",1345,98.5,False,positional,ADOLPH VON MENZEL,,OGGETTI IN PIOMBO,,
-BO0624_88760,199436,230,10,"225a.HERR, AUS EINEM GLASE TRINKEND.Kreide.Gr.19X12 cm.S.R. Signiert.",1346,97.8,False,positional,ADOLPH VON MENZEL,,,,
+BO0624_88760,199431,225,221,ZWEI HERREN AM BIERTISCHin Unterhaltung. Blei. Gr.7X13 cm. G.R. Signiert: AM.72.,1339,93.2,False,none,,,OGGETTI IN PIOMBO,,
+BO0624_88760,199432,226,222,"DER ZERBROCHENE KRUG.Zum vierten Auftritt:Gerihtsrat Walter tritt gruBend ein,von Adam und Licht empfangen. Feder. Gr. 17x19 cm.G.R. Signiert.",1341,98.6,False,none,,,,,
+BO0624_88760,199433,227,223,BRUSTBILD EINER FRAU NACH RECHTS. Kolorierte Bleizeichnung. Gr.20X12 cm. S.R.Signiert: A.M.83.,1342,85.2,False,none,,,,,
+BO0624_88760,199434,228,224,"FRAU MIT BLUMENSTRAUSS, Brustbild. Blei. Gr.9X12 cm. S.R. Signiert und datiert:A.M.90.",1344,97.6,False,none,,,OGGETTI IN PIOMBO,,
+BO0624_88760,199435,229,9,"225.JUNGES MADCHEN, Huftbild.Blei. Gr.17X11 cm. S.R. Signiert: A.M.92.",1345,98.5,False,none,,,OGGETTI IN PIOMBO,,
+BO0624_88760,199436,230,10,"225a.HERR, AUS EINEM GLASE TRINKEND.Kreide.Gr.19X12 cm.S.R. Signiert.",1346,97.8,False,none,,,,,
 BO0624_88760,199437,231,226,BILDNIS EINER VORNEHMEN JUNGEN DAME von vorn. Kreide. Gr.63X50 cm. G.R. Signiert. a.DAS GRAB DES ABSALOM. Aquarell. Gr.25X36 cm.G.R. NachlaB-Stempel.,1350,69.1,False,positional,FRANZVONLENBACH,,STAMPE E INCISIONI,,
 BO0624_88760,199438,232,227,PALERMO. Aquarell. Gr.24X36 cm.G.R. NahlaB-Stempel.,1355,95.9,False,positional,EDUARD HILDEBRANDT,,STAMPE E INCISIONI,,
-BO0624_88760,199439,233,227,"a.LA PENHA, CINTRA.Das SchloB auf dem Felsen.Aquarell. Gr.25X37 cm. G.R. b.DAS TAL VON JERICHO. Aquarell. Gr.16X25 cm.G.R. Signiert.",1356,69.7,False,positional,EDUARD HILDEBRANDT,,,,
-BO0624_88760,199440,234,228,LAPPENHUTTEN IN HAMMERFEST. Aquarell. Gr. 19X25 cm. G.R. Signiert und,1359,97.0,False,positional,EDUARD HILDEBRANDT,,,,
-BO0624_88760,199441,235,91,Berl.,1365,72.7,False,positional,EDUARD HILDEBRANDT,,,,
+BO0624_88760,199439,233,227,"a.LA PENHA, CINTRA.Das SchloB auf dem Felsen.Aquarell. Gr.25X37 cm. G.R. b.DAS TAL VON JERICHO. Aquarell. Gr.16X25 cm.G.R. Signiert.",1356,69.7,False,none,,,,,
+BO0624_88760,199440,234,228,LAPPENHUTTEN IN HAMMERFEST. Aquarell. Gr. 19X25 cm. G.R. Signiert und,1359,97.0,False,none,,,,,
+BO0624_88760,199441,235,91,Berl.,1365,72.7,False,none,,,,,
 BO0624_88760,199442,236,228,a. SECHS ORIGINALLITHOGRAPHIEN:Tanzerinnen.Quer-Folio. G.R.,1369,97.4,False,positional,LUDWIG VON HOFMANN,,STAMPE E INCISIONI,,
-BO0624_88760,199443,237,228,b.SECHS DESGLEICHEN: Tanzerinnen. Ebenso.G.R. 1789,1371,91.3,False,positional,LUDWIG VON HOFMANN,,,,Sec. XVIII
+BO0624_88760,199443,237,228,b.SECHS DESGLEICHEN: Tanzerinnen. Ebenso.G.R. 1789,1371,91.3,False,none,,,,,Sec. XVIII
 BO0624_88760,199444,238,229,HERR AM TISCH SITZEND. Kohle und Kreide.Gr.27X22 cm.G.R.,1377,96.4,False,positional,JOH. HEINR. TISCHBEIN,,,,
 BO0624_88760,199445,239,229,"a.MARKISCHER SEE;im Vordergrund ein Boot am Strand und Fischernetze. Aquarell b.ENTENZUG auf dem Hof. Kohle,weiB gehoht. Gr.23X35 cm.Holzrahmen. Signiert.",1383,66.7,False,positional,WALTER LEISTIKOW,,,,
 BO0624_88760,199446,240,230,SEGELBOOTE AUF BEWEGTEM MEER. Aquarell. Gr.18x22 cm.Holzrahmen.,1394,96.8,False,positional,CHARLES HOGUET,,,,
 BO0624_88760,199447,241,231,KOPF EINES ALTEN BAUERN. Aquarell. Gr.24X20 cm. G.R. Signiert und datiert:,1400,97.2,False,positional,R.MAX SEEMANN,,,,
 BO0624_88760,199448,242,232,ALTES STADTCHEN. StraBenkreuzung mit Staffage. Aquarell. Gr. 32X20 cm. G.R. Signiert.,1406,97.5,False,positional,HERMANN SCHNEE,,,,
 BO0624_88760,199449,243,233,"PFERDESTUDIE. Zu der Lithographie Pferde im Torweg. Shwarze Kreide, blaues Papier.Gr.21X27 cm.G.R.",1410,97.9,False,positional,FRANZ KRUGER,,STAMPE E INCISIONI,,
-BO0624_88760,199450,244,2,234.,1411,75.0,False,positional,FRANZ KRUGER,,,,
-BO0624_88760,199451,245,3,"BRUSTBILD EINER JUNGEN FRAU mit breitem weiBen Kragen. Schwarze Kreide, weiβ gehoht. Gr.23X18 cm.G.R.",1412,99.0,False,positional,FRANZ KRUGER,,,,
-BO0624_88760,199452,246,235,"BILDNIS DES LITHOGRAPHEN FRIEDRICH JENTZEN,des Freundes Krugers. Schwarze Kreide, weiβ gehoht. Gr.22X18 cm. G.R. Rudkseitig eine Signatur Krugers, die das Bild auf Dezember 1825 festlegt.",1413,86.4,False,positional,FRANZ KRUGER,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_88760,199450,244,2,234.,1411,75.0,False,none,,,,,
+BO0624_88760,199451,245,3,"BRUSTBILD EINER JUNGEN FRAU mit breitem weiBen Kragen. Schwarze Kreide, weiβ gehoht. Gr.23X18 cm.G.R.",1412,99.0,False,none,,,,,
+BO0624_88760,199452,246,235,"BILDNIS DES LITHOGRAPHEN FRIEDRICH JENTZEN,des Freundes Krugers. Schwarze Kreide, weiβ gehoht. Gr.22X18 cm. G.R. Rudkseitig eine Signatur Krugers, die das Bild auf Dezember 1825 festlegt.",1413,86.4,False,none,,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88760,199453,247,236,"ANSICHT VON MISDROY. Aquarell. Gr.29x47 cm. Signiert und datiert:Misdroy, Aug.78.L. Sp.",1420,97.6,False,positional,LOUIS SPANGENBERG,,,,
 BO0624_88760,199454,248,237,DER KARNEVAL IN ROM. Maskenzug von zahlreichen Figuren in vielerlei charakteristischen Kostumen auf dem Korso; durch eine SeitenstraBe Blidk auf Maria del Monte. Aquarell. Gr.38X57 cm.Signiert und datiert:1853.,1426,86.1,False,positional,CARL WERNER,,,,Sec. XIX
 BO0624_88760,199455,249,238,LIEGENDER EBER. Feder. Gr.16X26 cm. Eichenrahmen. a.BRUSTBILD EINER JUNGEN FRAU mit schwarzer Mantille. Aquarell. Gr.19X15 cm.,1439,75.9,False,positional,GUSTAV VON FRANCK,,,,
@@ -257,69 +257,69 @@ BO0624_88760,199461,255,245,SEVERUSBOGEN IN ROM.Aquarell. Gr.16X24 cm.G.R. Signi
 BO0624_88760,199462,256,246,GUSTAV FREYTAG IM GARTEN ZU SIEBLEBEN. Orig.Radierung.G. R.,1474,96.6,False,positional,KARL STAUFFER-BERN,,ACQUEFORTI,,
 BO0624_88760,199463,257,247,JUNGFRAU FINDET EINEN TOTEN HELDEN. Feder und Blei.Gr.33X28 cm. G.R.,1480,97.0,False,positional,MORITZVONSCHWIND,,OGGETTI IN PIOMBO,,
 BO0624_88760,199464,258,248,"EIN OBERBAYRISCHER HOLZKNECHT,Kniestudk,in Tracht,die lange Pfeife im Mund. Aquarell. Gr.25X19 cm.S.R. Signiert.",1484,98.2,False,positional,PETER KRAEMER,,,,
-BO0624_88760,199465,259,2,"249.EIN OBERBAYRISCHER JAGER,sich auf die Buchse stitzend.Gegenstidk zu vorigem. Aquarell. Gr.25X19 cm.S.R. Signiert.",1485,99.1,False,positional,PETER KRAEMER,,,,
+BO0624_88760,199465,259,2,"249.EIN OBERBAYRISCHER JAGER,sich auf die Buchse stitzend.Gegenstidk zu vorigem. Aquarell. Gr.25X19 cm.S.R. Signiert.",1485,99.1,False,none,,,,,
 BO0624_88760,199466,260,250,VENEZIANISCHER HOF mit Brunnen; wasserschopfende Frau und spielende Kinder als Staffage. Aquarell. Gr. 46X61 cm. G. R. Signiert und datiert: Venedig 885.,1491,66.1,False,positional,LUDWIG PASSINI,,,,
-BO0624_88760,199467,261,251,"HESTER,WALLACE nach Munkacsy: Ecce homo. Schabkunstblatt mit breitem",1493,97.1,False,positional,LUDWIG PASSINI,,STAMPE E INCISIONI,,
+BO0624_88760,199467,261,251,"HESTER,WALLACE nach Munkacsy: Ecce homo. Schabkunstblatt mit breitem",1493,97.1,False,none,,,STAMPE E INCISIONI,,
 BO0624_88760,199468,262,252,"UNTERHALTUNG AM STAMMTISCH.Pinselzeichnung.Gr.3,5X4,5 cm. Kartonniert.",1497,97.1,False,positional,HUGO KAUFFMANN,,,,
 BO0624_88760,199469,263,253,BRUSTBILD EINES HERRN. Aquarell. Gr.26X23 cm. G.R. Signiert.,1501,96.5,False,positional,FRANZXAVER WINTERHALTER,,,,
 BO0624_88760,199470,264,254,ZEITUNGSLESER UND HAUSIERER. Kohle auf geblichem Papier. Gr.5OX70 cm. Signiert und datiert: 96. WeiBer R.,1507,78.1,False,positional,EDMUND EDEL,,,,
 BO0624_88760,199471,265,255,"DIE PREDIGT DES MONCHS. Figurenreiche Darstellung. Zu Ed.Duller, Geschichte des deutschen Volkes, 1846.iAus Sammlung Cichorius, Leipzig. Ausgestellt in der L.Richter-Ausstellung, Dresden,1903, Nr 146. Bleistift. Gr.14X11 cm. Holzrahmen. Signiert:L.R.und:Johannes Capistran.",1514,99.2,False,positional,LUDWIG ADRIAN RICHTER,,,COLLEZIONE CICHORIUS,Sec. XIX
-BO0624_88760,199472,266,256,"TITELBILD ZU ,GELD UND GEIST ODER DIE VERSOHNUNG""von J. Gotthelf. Ruckseite: Ein zweiter Entwurf dazu. Blei.Gr. 11X9 cm. Holzrahmen. Signiert: L.R.",1515,98.6,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN PIOMBO,,
-BO0624_88760,199473,267,257,HERMANN TRAGT DOROTHEA DURCH DIE WEINBERGE. Rudseite:Ein zweiter Entwurf dazu.Blei.Gr.14X9 cm.Holzrahmen.,1516,74.1,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN PIOMBO,,
-BO0624_88760,199474,268,258,"KOMODIANTEN mit ihrem Wagen beim Weiterziehen, Rudkseite: Studie. Blei. Gr.5,5X8 cm. Holzrahmen.",1518,97.8,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN PIOMBO,,
-BO0624_88760,199475,269,260,J. DAULLE nach D. Teniers: La Menagere flamande. Gr.Qu.Folio. Ausgezeichneter,1519,97.3,False,positional,LUDWIG ADRIAN RICHTER,Scuola Fiamminga,,,
-BO0624_88760,199476,270,7,Abdruck des Kupferstichs.,1520,96.0,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199477,271,8,261.,1521,75.0,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199478,272,9,KUPFERSTICH VON JOH. VISSCHER nach Berghem: Tanz in der Sheune. Folio. Holzrahmen.,1522,98.7,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN RAME,,
-BO0624_88760,199479,273,10,262.,1523,66.7,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199480,274,11,GERAHMTE RADIERUNG VON MAX KLINGER:Der Weg. Gr.Folio. Holzrahmen.,1524,97.6,False,positional,LUDWIG ADRIAN RICHTER,,ACQUEFORTI,,
-BO0624_88760,199481,275,263,"DURER, ALBRECHT. Auferstehung Christi. Holzschnitt, knapp beschnitten. Folio.",1525,97.3,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199482,276,264,"ALTER VLAMISCHER HOLZSCHNITT: Hi. Hieronymus vor dem Kruzifix. Folio. KONVOLUT vlamischer Kupferstiche (Paul Bril, Merian u. a.) usw.; kleinere Formate,",1527,69.1,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN RAME,,
-BO0624_88760,199483,277,265,zusammen 12 Blatt.,1528,89.5,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199484,278,16,266.,1529,66.7,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199485,279,17,"CHODOWIECKI, D. Elf Blatt zu Macbeth und Die Wohitatigkeit (beschnitten).",1530,97.8,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199486,280,18,267.,1531,66.7,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199487,281,19,"KONVOLUT Kupferstiche von Visscher (nach Ostade), G. F. Shmidt, Rembrandt u. a. Zusammen 8 Blatt.-Ferner 8 Blatt von und nach Berghem und Dujardin.",1532,98.9,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN RAME,,
-BO0624_88760,199488,282,268,"KONVOLUT Holzschnitte von M. SCHAUFFELEIN, Burgkmair u.a. Zusammen 10 Blatt, z.T.altkoloriert. Rand. Roy.Qu..Fol.",1533,89.9,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN LEGNO,,
-BO0624_88760,199489,283,269,DESGLEICHEN von Virgil Solis u.a. Zusammen 28 Blatt.,1535,96.2,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199490,284,2,"270.MAGNUS, A.(geb. Stettin, tatig 1830-1850):Marine. Aquarell. Gr.15X21 cm. Sig",1536,98.6,False,positional,LUDWIG ADRIAN RICHTER,,,,Sec. XIX
-BO0624_88760,199491,285,3,niert und datiert: 1836.,1537,95.7,False,positional,LUDWIG ADRIAN RICHTER,,,,Sec. XIX
-BO0624_88760,199492,286,4,"271.KLENGEL,1. C. (1751-1824.) Heimkehrende Kinder und Landschaft Cdatiert 1794). Sepiatuschblatter. Gr. je ca.22X31 cm. Beide signiert.",1538,99.2,False,positional,LUDWIG ADRIAN RICHTER,,,,Sec. XVIII
-BO0624_88760,199493,287,5,272.,1539,75.0,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199494,288,6,"KLEIN, J.A.(1792-1875.) Apfe1schimme1, gesattelt im Stall. Aquarell. Gr.16X21 cm. Signiert und datiert 1835.",1540,99.0,False,positional,LUDWIG ADRIAN RICHTER,,,,Sec. XIX
-BO0624_88760,199495,289,273,"KONVOLUT alter italienisher Zeichnungen:Domenichino, Knieende; Bolognesisch, Verkundigung und Himmelfahrt. Verschiedene Techniken. 3 Blatt.",1541,98.5,False,positional,LUDWIG ADRIAN RICHTER,Scuola Bolognese,,,
-BO0624_88760,199496,290,274,"SEYDELMAN,APOLLONIA.(1768-1840.) Ruhendes Madchen mit Amoretten. Sepia. Gr.28X37 cm. Signiert. Dazu: CHR. WINK, Magda1ena CFeder).",1542,98.3,False,positional,LUDWIG ADRIAN RICHTER,,,,Sec. XVIII
-BO0624_88760,199497,291,275,"KONVOLUT. Drei kleine Zeichnungen: Art des Tiepolo: Schlafender und zwei Engel; Dah1, Huitte (1821, Sepia) und ein anonymes Blatt.",1543,98.4,False,positional,LUDWIG ADRIAN RICHTER,,,,Sec. XIX
-BO0624_88760,199498,292,10,"276a-p.STADTEANSICHTEN von Matth.Merian,in Kupferstichen, Qu.-Folio: a)Jerusalem,La Valette, Candia,Antwerpen usw.;b) Frankfurt a.M, Coln,Augsburg, Mainz;c) Erfurt, Stuttgart, Constanz,Frankenthal;d) Lindau,Kempten,Wurzburg; e)Leipzig, Speyer,Elbing,Ulm,Breisach;f) Ragusa, Rom (2 B1.),Florenz; g) Genua, Venedig, Neapel,Mantua,Mailand,Metz;i Nancy, Quinzay,Reims,Avignon,Senlis, k)Paris,Lyon,Troyes,Luttich;1) Pfaffers,Genf,Zurih,Bern;m) Baden,Luzern, Freiburg, Chur; n) Rheinfall, Kopenhagen, Amsterdam, Stodkholm;o) Goa, Sevilla,",1544,99.7,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN RAME,,
-BO0624_88760,199499,293,11,"Burgos, Moskau,Krakau;p) Wien,PreBburg,Basel, Innsbrudk, Buda.",1545,97.4,False,positional,LUDWIG ADRIAN RICHTER,Scuola Viennese,,,
-BO0624_88760,199500,294,278,KUPFERSTICH von Alphonse Lamotte nach F. Boucher: Junge Dame als Diana.,1546,97.1,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN RAME,,
-BO0624_88760,199501,295,13,"Folio. Japan. Signiert. Vorzugsdrudk mit Remarque, G, R,",1547,97.1,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199502,296,14,"278a-d.GIUSEPPE BIBIENA (18.Jahrh.) Vier Ruinenlandschaften mit phantastischen Architekturen:a) Marktplatz,in der Mitte ein groBer Obelisk;b) ahnliche Komposition mit Triumphbogen; c) Forum, links eine Halle mit Obelisken, dahinter ein Rundtempel; d) Platz,von Kirchen umgeben,vorn ein Rundbau mit vier Obelisken.-Feder,Sepia und Tusche.Gr.je 50x93 cm.",1548,99.6,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199503,297,279,KUPFERSTICH von Dennel nah Louise Elis. Vigee: La Vertue irresolue. Folio. Breiter Rand.,1549,97.6,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN RAME,,
+BO0624_88760,199472,266,256,"TITELBILD ZU ,GELD UND GEIST ODER DIE VERSOHNUNG""von J. Gotthelf. Ruckseite: Ein zweiter Entwurf dazu. Blei.Gr. 11X9 cm. Holzrahmen. Signiert: L.R.",1515,98.6,False,none,,,OGGETTI IN PIOMBO,,
+BO0624_88760,199473,267,257,HERMANN TRAGT DOROTHEA DURCH DIE WEINBERGE. Rudseite:Ein zweiter Entwurf dazu.Blei.Gr.14X9 cm.Holzrahmen.,1516,74.1,False,none,,,OGGETTI IN PIOMBO,,
+BO0624_88760,199474,268,258,"KOMODIANTEN mit ihrem Wagen beim Weiterziehen, Rudkseite: Studie. Blei. Gr.5,5X8 cm. Holzrahmen.",1518,97.8,False,none,,,OGGETTI IN PIOMBO,,
+BO0624_88760,199475,269,260,J. DAULLE nach D. Teniers: La Menagere flamande. Gr.Qu.Folio. Ausgezeichneter,1519,97.3,False,none,TENIERS DAVID IL GIOVANE,Scuola Fiamminga,,,
+BO0624_88760,199476,270,7,Abdruck des Kupferstichs.,1520,96.0,False,none,,,,,
+BO0624_88760,199477,271,8,261.,1521,75.0,False,none,,,,,
+BO0624_88760,199478,272,9,KUPFERSTICH VON JOH. VISSCHER nach Berghem: Tanz in der Sheune. Folio. Holzrahmen.,1522,98.7,False,none,BERCHEM NICOLAAS,,OGGETTI IN RAME,,
+BO0624_88760,199479,273,10,262.,1523,66.7,False,none,,,,,
+BO0624_88760,199480,274,11,GERAHMTE RADIERUNG VON MAX KLINGER:Der Weg. Gr.Folio. Holzrahmen.,1524,97.6,False,none,,,ACQUEFORTI,,
+BO0624_88760,199481,275,263,"DURER, ALBRECHT. Auferstehung Christi. Holzschnitt, knapp beschnitten. Folio.",1525,97.3,False,none,DURER ALBRECHT,,,,
+BO0624_88760,199482,276,264,"ALTER VLAMISCHER HOLZSCHNITT: Hi. Hieronymus vor dem Kruzifix. Folio. KONVOLUT vlamischer Kupferstiche (Paul Bril, Merian u. a.) usw.; kleinere Formate,",1527,69.1,False,none,BRIL PAUL,,OGGETTI IN RAME,,
+BO0624_88760,199483,277,265,zusammen 12 Blatt.,1528,89.5,False,none,,,,,
+BO0624_88760,199484,278,16,266.,1529,66.7,False,none,,,,,
+BO0624_88760,199485,279,17,"CHODOWIECKI, D. Elf Blatt zu Macbeth und Die Wohitatigkeit (beschnitten).",1530,97.8,False,none,,,,,
+BO0624_88760,199486,280,18,267.,1531,66.7,False,none,,,,,
+BO0624_88760,199487,281,19,"KONVOLUT Kupferstiche von Visscher (nach Ostade), G. F. Shmidt, Rembrandt u. a. Zusammen 8 Blatt.-Ferner 8 Blatt von und nach Berghem und Dujardin.",1532,98.9,False,none,REMBRANDT VAN RIJN,,OGGETTI IN RAME,,
+BO0624_88760,199488,282,268,"KONVOLUT Holzschnitte von M. SCHAUFFELEIN, Burgkmair u.a. Zusammen 10 Blatt, z.T.altkoloriert. Rand. Roy.Qu..Fol.",1533,89.9,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88760,199489,283,269,DESGLEICHEN von Virgil Solis u.a. Zusammen 28 Blatt.,1535,96.2,False,none,,,,,
+BO0624_88760,199490,284,2,"270.MAGNUS, A.(geb. Stettin, tatig 1830-1850):Marine. Aquarell. Gr.15X21 cm. Sig",1536,98.6,False,none,,,,,Sec. XIX
+BO0624_88760,199491,285,3,niert und datiert: 1836.,1537,95.7,False,none,,,,,Sec. XIX
+BO0624_88760,199492,286,4,"271.KLENGEL,1. C. (1751-1824.) Heimkehrende Kinder und Landschaft Cdatiert 1794). Sepiatuschblatter. Gr. je ca.22X31 cm. Beide signiert.",1538,99.2,False,none,,,,,Sec. XVIII
+BO0624_88760,199493,287,5,272.,1539,75.0,False,none,,,,,
+BO0624_88760,199494,288,6,"KLEIN, J.A.(1792-1875.) Apfe1schimme1, gesattelt im Stall. Aquarell. Gr.16X21 cm. Signiert und datiert 1835.",1540,99.0,False,none,,,,,Sec. XIX
+BO0624_88760,199495,289,273,"KONVOLUT alter italienisher Zeichnungen:Domenichino, Knieende; Bolognesisch, Verkundigung und Himmelfahrt. Verschiedene Techniken. 3 Blatt.",1541,98.5,False,none,"DOMENICHINO, ZAMPIERI DOMENICO",Scuola Bolognese,,,
+BO0624_88760,199496,290,274,"SEYDELMAN,APOLLONIA.(1768-1840.) Ruhendes Madchen mit Amoretten. Sepia. Gr.28X37 cm. Signiert. Dazu: CHR. WINK, Magda1ena CFeder).",1542,98.3,False,none,,,,,Sec. XVIII
+BO0624_88760,199497,291,275,"KONVOLUT. Drei kleine Zeichnungen: Art des Tiepolo: Schlafender und zwei Engel; Dah1, Huitte (1821, Sepia) und ein anonymes Blatt.",1543,98.4,False,none,TIEPOLO DOMENICO,,,,Sec. XIX
+BO0624_88760,199498,292,10,"276a-p.STADTEANSICHTEN von Matth.Merian,in Kupferstichen, Qu.-Folio: a)Jerusalem,La Valette, Candia,Antwerpen usw.;b) Frankfurt a.M, Coln,Augsburg, Mainz;c) Erfurt, Stuttgart, Constanz,Frankenthal;d) Lindau,Kempten,Wurzburg; e)Leipzig, Speyer,Elbing,Ulm,Breisach;f) Ragusa, Rom (2 B1.),Florenz; g) Genua, Venedig, Neapel,Mantua,Mailand,Metz;i Nancy, Quinzay,Reims,Avignon,Senlis, k)Paris,Lyon,Troyes,Luttich;1) Pfaffers,Genf,Zurih,Bern;m) Baden,Luzern, Freiburg, Chur; n) Rheinfall, Kopenhagen, Amsterdam, Stodkholm;o) Goa, Sevilla,",1544,99.7,False,none,METSU GABRIEL,,OGGETTI IN RAME,,
+BO0624_88760,199499,293,11,"Burgos, Moskau,Krakau;p) Wien,PreBburg,Basel, Innsbrudk, Buda.",1545,97.4,False,none,,Scuola Viennese,,,
+BO0624_88760,199500,294,278,KUPFERSTICH von Alphonse Lamotte nach F. Boucher: Junge Dame als Diana.,1546,97.1,False,none,BOUCHER FRANCOIS,,OGGETTI IN RAME,,
+BO0624_88760,199501,295,13,"Folio. Japan. Signiert. Vorzugsdrudk mit Remarque, G, R,",1547,97.1,False,none,,,,,
+BO0624_88760,199502,296,14,"278a-d.GIUSEPPE BIBIENA (18.Jahrh.) Vier Ruinenlandschaften mit phantastischen Architekturen:a) Marktplatz,in der Mitte ein groBer Obelisk;b) ahnliche Komposition mit Triumphbogen; c) Forum, links eine Halle mit Obelisken, dahinter ein Rundtempel; d) Platz,von Kirchen umgeben,vorn ein Rundbau mit vier Obelisken.-Feder,Sepia und Tusche.Gr.je 50x93 cm.",1548,99.6,False,none,,,,,
+BO0624_88760,199503,297,279,KUPFERSTICH von Dennel nah Louise Elis. Vigee: La Vertue irresolue. Folio. Breiter Rand.,1549,97.6,False,none,VIGEE-LEBRUN LOUISE-ELISABETH,,OGGETTI IN RAME,,
 BO0624_88760,199504,298,280,"FRANZOSISCHER MEISTER des XVIll. Jahrhs. Junges Madchen mit Turban und Hermelinkragen. Schwarze Kreide,laviert.Gr.27X21 cm.Gerahmt.",1550,98.4,False,title_direct,,FRANZOSISCH,,,
-BO0624_88760,199505,299,281,FARBIGER KUPFERSTICH von Scorodomoff nach Angelika Kauffmann:Cupid struggling with the graces. Ausgezeichneter Druck auf Seide.G.R.,1551,98.5,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN RAME,,
-BO0624_88760,199506,300,18,282-283. ZWEI ROTELSTICHE von Demarteau nach F. Boucher: Drei Putten mit De1. phin (Nr.133) und Zwei Putten mit Kanonenrohr und Volute (Nr. 253). Gr.Quer-Folio.,1552,99.0,False,positional,LUDWIG ADRIAN RICHTER,,,,
+BO0624_88760,199505,299,281,FARBIGER KUPFERSTICH von Scorodomoff nach Angelika Kauffmann:Cupid struggling with the graces. Ausgezeichneter Druck auf Seide.G.R.,1551,98.5,False,none,KAUFFMANN ANGELICA,,OGGETTI IN RAME,,
+BO0624_88760,199506,300,18,282-283. ZWEI ROTELSTICHE von Demarteau nach F. Boucher: Drei Putten mit De1. phin (Nr.133) und Zwei Putten mit Kanonenrohr und Volute (Nr. 253). Gr.Quer-Folio.,1552,99.0,False,none,BOUCHER FRANCOIS,,,,
 BO0624_88760,199507,301,284,"ADOLPH MENZEL C?):Die Fahnenweihe. Ein Mann im Kostim des XVIll. Jahrhunderts mit Dreispitz und in rotem, langem Rodk schwingt eine fransenbesetzte Fahne. Hinter ihm ein zweiter Mann in gleicher Tracht und zuschauendes Publikum. Sepia und Aquarell. Gr.24X30 cm.G.R. Signiert und datiert:A. Menzel.78.",1553,99.3,False,title_direct,ADOLPH MENZEL,,,,
-BO0624_88760,199508,302,285,ENGL. SCHABKUNSTBLATT von P. W.Pether nach Lebrun. Portrat eines Bild hauers. Vor der Schrift. Handschriftlich unterzeichnet Jaillot scripteur en rou et noir.17.Jahrh:,1554,98.8,False,positional,LUDWIG ADRIAN RICHTER,,STAMPE E INCISIONI,,
-BO0624_88760,199509,303,3,286-287. ZWEI GERAHMTE KUPFERSTICHE nach Pannini von Moyreau: Mausolee,1555,98.6,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN RAME,,
-BO0624_88760,199510,304,4,antique und Ruine d’un Aqueduc antique. Folio. S. R.,1556,98.0,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199511,305,5,Kaskade von Tivoli. 3 Blatter. GroB-Folio.S.R.,1557,97.7,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199512,306,6,289af. ROTELSTICHE von Scorodomoff nach Angelika Kauffmann: a) The parting of Abelard and Eloisa. b) Die drei Grazien ziehen den Wagen Amors.c) Abelard and Eloisa surpris'd by Fulbert. d) An offering to love. e) Cupid struggling with the Graces. f) Cupid no more shall hearts betray. Schone alte Drucke.Gr.4.,1558,99.7,False,positional,LUDWIG ADRIAN RICHTER,,STAMPE E INCISIONI,,
+BO0624_88760,199508,302,285,ENGL. SCHABKUNSTBLATT von P. W.Pether nach Lebrun. Portrat eines Bild hauers. Vor der Schrift. Handschriftlich unterzeichnet Jaillot scripteur en rou et noir.17.Jahrh:,1554,98.8,False,none,LE BRUN CHARLES,,STAMPE E INCISIONI,,
+BO0624_88760,199509,303,3,286-287. ZWEI GERAHMTE KUPFERSTICHE nach Pannini von Moyreau: Mausolee,1555,98.6,False,none,PANNINI GIOVANNI PAOLO,,OGGETTI IN RAME,,
+BO0624_88760,199510,304,4,antique und Ruine d’un Aqueduc antique. Folio. S. R.,1556,98.0,False,none,,,,,
+BO0624_88760,199511,305,5,Kaskade von Tivoli. 3 Blatter. GroB-Folio.S.R.,1557,97.7,False,none,,,,,
+BO0624_88760,199512,306,6,289af. ROTELSTICHE von Scorodomoff nach Angelika Kauffmann: a) The parting of Abelard and Eloisa. b) Die drei Grazien ziehen den Wagen Amors.c) Abelard and Eloisa surpris'd by Fulbert. d) An offering to love. e) Cupid struggling with the Graces. f) Cupid no more shall hearts betray. Schone alte Drucke.Gr.4.,1558,99.7,False,none,KAUFFMANN ANGELICA,,STAMPE E INCISIONI,,
 BO0624_88760,199513,307,290,THEODOR HOSEMANN CBrandenburg 1807-1875 Berlin):Se1bstbi1dnis des,1559,97.0,False,title_direct,THEODOR HOSEMANN,Scuola di Berlino,,,Sec. XIX
-BO0624_88760,199514,308,8,"Kunstlers. Hosemann prasentiert eine Quittung uber 17 Rtlr. Kupferstiche. Daneben ein Brief mit Unterschrift an ,Freund Mante1vom 5. Oktober 1865. Ausgezeichnetes humoristisches Portrat des Kunstlers. Blei und Tusche. Gr.22x14 cm.",1560,99.5,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN PIOMBO,,Sec. XIX
-BO0624_88760,199515,309,9,291.-Zwei Geiger. Blei und Aquarell. Gr. 11X10 cm.,1561,97.8,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN PIOMBO,,
-BO0624_88760,199516,310,10,292.,1562,66.7,False,positional,LUDWIG ADRIAN RICHTER,,,,
+BO0624_88760,199514,308,8,"Kunstlers. Hosemann prasentiert eine Quittung uber 17 Rtlr. Kupferstiche. Daneben ein Brief mit Unterschrift an ,Freund Mante1vom 5. Oktober 1865. Ausgezeichnetes humoristisches Portrat des Kunstlers. Blei und Tusche. Gr.22x14 cm.",1560,99.5,False,none,,,OGGETTI IN PIOMBO,,Sec. XIX
+BO0624_88760,199515,309,9,291.-Zwei Geiger. Blei und Aquarell. Gr. 11X10 cm.,1561,97.8,False,none,,,OGGETTI IN PIOMBO,,
+BO0624_88760,199516,310,10,292.,1562,66.7,False,none,,,,,
 BO0624_88760,199517,311,11,ALBRECHT DURER. Christus an der Martersaule.Kupferstich. B. Knapp beschnitten.,1563,98.0,False,title_direct,ALBRECHT ADAM,,OGGETTI IN RAME,,
-BO0624_88760,199518,312,293,J.A.KLEIN. Der Landschaftsmaler auf der Reise. 1814. Schoner Drudk des be- kannten Blattes.,1564,87.5,False,positional,LUDWIG ADRIAN RICHTER,,,,Sec. XIX
-BO0624_88760,199519,313,294,FRANZ KOBELL C1749-1822):Romische Campagnalandschaft. Sepia und Feder. Gr.14X18 cm.-Dazu: SCHNORR VON CAROLSFELD: Mutter und Kind. Feder. Gr.10x10cm.,1566,98.6,False,positional,LUDWIG ADRIAN RICHTER,Scuola Romana,,,Sec. XIX
-BO0624_88760,199520,314,295,"OSKAR PLETSCH C1830-1888):Kleines 1esendes Madchen und Hund. Feder und Tusche. Gr.17X13 cm. Monogrammiert und datiert:1873,",1567,98.3,False,positional,LUDWIG ADRIAN RICHTER,,,,Sec. XIX
-BO0624_88760,199521,315,16,"296.- Kleines Kind im Kinderstihlhen, das mutwillig Geschirr auf die Erde fallen 1aBt. Feder und Tusche. Gr.20x13 cm. Monogrammiert und datiert:1875.Besonders reizvolles Blatt des Kunstlers.",1568,99.2,False,positional,LUDWIG ADRIAN RICHTER,,SCATOLE,,Sec. XIX
+BO0624_88760,199518,312,293,J.A.KLEIN. Der Landschaftsmaler auf der Reise. 1814. Schoner Drudk des be- kannten Blattes.,1564,87.5,False,none,,,,,Sec. XIX
+BO0624_88760,199519,313,294,FRANZ KOBELL C1749-1822):Romische Campagnalandschaft. Sepia und Feder. Gr.14X18 cm.-Dazu: SCHNORR VON CAROLSFELD: Mutter und Kind. Feder. Gr.10x10cm.,1566,98.6,False,none,,Scuola Romana,,,Sec. XIX
+BO0624_88760,199520,314,295,"OSKAR PLETSCH C1830-1888):Kleines 1esendes Madchen und Hund. Feder und Tusche. Gr.17X13 cm. Monogrammiert und datiert:1873,",1567,98.3,False,none,,,,,Sec. XIX
+BO0624_88760,199521,315,16,"296.- Kleines Kind im Kinderstihlhen, das mutwillig Geschirr auf die Erde fallen 1aBt. Feder und Tusche. Gr.20x13 cm. Monogrammiert und datiert:1875.Besonders reizvolles Blatt des Kunstlers.",1568,99.2,False,none,,,SCATOLE,,Sec. XIX
 BO0624_88760,199522,316,297,"GABRIEL MAX (1840-1920):Die drei Hexen im ersten Akt,von Macbeth im Vordergrund auf Felsen hodend, in der Tiefe Macbeth und Banquo zu Pferde. Feder und Tusche. Gr.29X27 cm. Signiert.",1569,98.9,False,title_direct,GABRIEL MAX,,,,Sec. XIX
-BO0624_88760,199523,317,18,"298, FR. AUBERTIN C1773-1821,war auch in Berlin tatig). Malerische Ruine in weiter",1570,98.1,False,positional,LUDWIG ADRIAN RICHTER,Scuola di Berlino,,,Sec. XIX
-BO0624_88760,199524,318,19,"Gebirgslandschaft. Feder, Sepia und Tusche. Gr.24X33 cm.",1571,97.2,False,positional,LUDWIG ADRIAN RICHTER,,,,
+BO0624_88760,199523,317,18,"298, FR. AUBERTIN C1773-1821,war auch in Berlin tatig). Malerische Ruine in weiter",1570,98.1,False,none,,Scuola di Berlino,,,Sec. XIX
+BO0624_88760,199524,318,19,"Gebirgslandschaft. Feder, Sepia und Tusche. Gr.24X33 cm.",1571,97.2,False,none,,,,,
 BO0624_88760,199525,319,299,LUDWIG KNAUS. Spaziergang. Blei. Gr.25X40 cm. Signiert und datiert: 1837. Dazu 2 Zeichnungen von W. Camphausen.,1572,77.0,False,title_direct,LUDWIG KNAUS,,OGGETTI IN PIOMBO,,Sec. XIX
-BO0624_88760,199526,320,300,"KONVOLUT:Zeichnungen von Piloty, E.L. Meyer u.a. (zus.8 Blatt.)",1574,96.6,False,positional,LUDWIG ADRIAN RICHTER,,,,
-BO0624_88760,199527,321,301,"REMBRANDT VAN RYN.Vier Radierungen (Bettler) von und nach ihm,1 Blatt von W.Ho1lar.",1575,97.6,False,positional,LUDWIG ADRIAN RICHTER,,ACQUEFORTI,,
-BO0624_88760,199528,322,302,"OSKAR PLETSCH. Kieines Hausmitterchen. Blei und Sepia. Signiert und da tiert: 75.—Dazu 6 z.T. farbige Zeichnungen von C.K1imsch (2),Harburger (3 Aquarelle)und Overbeck (?).",1576,98.8,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN PIOMBO,,
-BO0624_88760,199529,323,303,"MAX KLINGER.Karte fur Fritz Gurlitt (mit ,Phantasie und Kunstlerkind""). Dazu 9Kupfer-und Stahlstiche (dabei Hosemann,J.A.Klein u.a.)",1577,98.4,False,positional,LUDWIG ADRIAN RICHTER,,OGGETTI IN METALLO,,
-BO0624_88760,199530,324,304,"DREI GUCKKASTENBILDER von Leipzig:Esplanade, Petersvorstadt,Barfuspforte. Altkolorit.Quer-Folio,",1578,97.9,False,positional,LUDWIG ADRIAN RICHTER,,,,
+BO0624_88760,199526,320,300,"KONVOLUT:Zeichnungen von Piloty, E.L. Meyer u.a. (zus.8 Blatt.)",1574,96.6,False,none,,,,,
+BO0624_88760,199527,321,301,"REMBRANDT VAN RYN.Vier Radierungen (Bettler) von und nach ihm,1 Blatt von W.Ho1lar.",1575,97.6,False,none,REMBRANDT VAN RIJN,,ACQUEFORTI,,
+BO0624_88760,199528,322,302,"OSKAR PLETSCH. Kieines Hausmitterchen. Blei und Sepia. Signiert und da tiert: 75.—Dazu 6 z.T. farbige Zeichnungen von C.K1imsch (2),Harburger (3 Aquarelle)und Overbeck (?).",1576,98.8,False,none,,,OGGETTI IN PIOMBO,,
+BO0624_88760,199529,323,303,"MAX KLINGER.Karte fur Fritz Gurlitt (mit ,Phantasie und Kunstlerkind""). Dazu 9Kupfer-und Stahlstiche (dabei Hosemann,J.A.Klein u.a.)",1577,98.4,False,none,,,OGGETTI IN METALLO,,
+BO0624_88760,199530,324,304,"DREI GUCKKASTENBILDER von Leipzig:Esplanade, Petersvorstadt,Barfuspforte. Altkolorit.Quer-Folio,",1578,97.9,False,none,,,,,

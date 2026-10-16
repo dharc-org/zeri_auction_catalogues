@@ -434,7 +434,7 @@ BO0624_4840,141132,432,418,PoRTRAIT d'une JEUNE FILLE; fond a paysage. Cadre noi
 BO0624_4840,141133,433,420,"PoRTRAIT de la GRANDE MADEMOISELLE;buste,email sur cuivre; .Aroin.fecit. (ovale; 1. 4 c.,h.5 c.;v.ill.,XVIll pl.). signe au revers: i7i6.",957,52.6,False,none,,,,,
 BO0624_4840,141134,434,421,"-PoRTRAIT de FEMME en costume Louis XV;habit decollete; cheveux poudres avec roses. Peinture sur cuivre,ovale.",961,95.4,False,none,,Periodo di Luigi XV,,,
 BO0624_4840,141135,435,422,"- SujET GALANT, émail de Limoges sur cuivre (diam. 6 c.; v. ill, XVIlle pl.).",962,92.5,False,none,,,,,
-BO0624_4840,141136,436,423,"- PoRTRAIT de Bausany Morand, en habit noir avec grande coiffe de dentelles blanches, tenant un panier avec un petit chien.",963,98.3,False,none,,,,,
+BO0624_4840,141136,436,423,"- PoRTRAIT de Bausany Morand, en habit noir avec grande coiffe de dentelles blanches, tenant un panier avec un petit chien.",963,98.3,False,none,MORLAND GEORGE,,,,
 BO0624_4840,141137,437,424,"- PoRTRAIT de la REGENTE (?); email de Limoges sur cuivre; buste (v.ill., XVIll pl.). Curieux pour PArt, interessants pour PHistoire, cet email et le suivant ont te executes, sans doute, par le meme emailleur et a la meme epoque que ceux qui figurent au Musee de Cluny dans une vitrine et sous le nom d'un peintre, que nous regrettons de ne pouvoir pas preciser en ce moment. (Ovale; 1. 6 c.;h.7;pendant au suivant).",964,94.3,False,none,,,,,
 BO0624_4840,141138,438,425,"-PoRTRAIT du DAUPHIN,ensuite Louis XIV;émail de Limoges sur cuivre (v.ill., X VIII pl.). (Plan superieur).",965,87.8,False,none,,,,,
 BO0624_4840,141139,439,426,"- CassETTE en cypres, sculptee a l'exterieur et a l'interieur.",973,86.7,False,none,,,ARREDAMENTI,,
@@ -505,7 +505,7 @@ BO0624_4840,141203,503,491,- PoRTE-FLEuRs a ornements filigraniques et bord roug
 BO0624_4840,141204,504,492,"TAsse avec couvercle en cristal a double paroi a linterieur, decoration en or,representant saint Dominique, et un ecusson.",1077,93.0,False,none,,,,,
 BO0624_4840,141205,505,493,"QuATRE BuRETTEs, verre de Murano, base conique a l'interieur.",1078,93.3,False,none,,Scuola di Murano,ARREDAMENTI,,
 BO0624_4840,141206,506,494,"-BAGuE de vermeil; au centre, saint Georges avec le dragon, decoupee a jour, et toute d'une piece.",1082,93.6,False,none,,,,,
-BO0624_4840,141207,507,495,"BAGuE d'or,renfermant un bas-relief mignon en ivoire: le Christ et les Maries.",1083,97.4,False,none,,,BASSORILIEVI,,
+BO0624_4840,141207,507,495,"BAGuE d'or,renfermant un bas-relief mignon en ivoire: le Christ et les Maries.",1083,97.4,False,none,MIGNON ABRAHAM,,BASSORILIEVI,,
 BO0624_4840,141208,508,496,"BAGuE d'or venitienne, avec neuf grenats a tablettes.",1084,92.5,False,none,,,,,
 BO0624_4840,141209,509,497,"- BAGue d’or, avec tres fine miniature en ivoire,buste d'un pape.",1085,95.2,False,none,,,MINIATURE,,
 BO0624_4840,141210,510,498,"GRANDE EPINGLE, paire de BoUCLES d'oREILLES et BRACELET en or, avec coquilles figurees.",1086,95.3,False,none,,,,,
@@ -737,7 +737,7 @@ BO0624_4840,141435,735,722,"Ecole Francaise, XVIl siecle:PoRTRAIT d'un CoMMANDAN
 BO0624_4840,141436,736,723,"Ecole Italienne,XVI siecle:La VIERGE et lENFANT.",1502,90.9,False,none,,,,,
 BO0624_4840,141437,737,724,"- Philippe Champaigne, 1602-1674 : LA VIERGE et PENFANT.",1506,93.3,False,none,,,,,Sec. XVII
 BO0624_4840,141438,738,1764,":LE LABORATOIRE deI'ALCHIMISTE. Grandiose architecture; plusieurs vases,fioles,cornues,mortiers,l'Alchimiste et ses assistants, etc. Cadre en bois verni (1. 1.04; h. 1.40).",1509,88.6,False,none,,,OGGETTI IN LEGNO,,
-BO0624_4840,141439,739,726,"-Giovanni Paolo Pannini,16911764:ARCADES et RuINES. nterieur d'un palais; cour, vestibule, colonnes. Tableau pendant au precedent (1. 1.04; h.1.40.",1513,75.6,False,none,,,,,
+BO0624_4840,141439,739,726,"-Giovanni Paolo Pannini,16911764:ARCADES et RuINES. nterieur d'un palais; cour, vestibule, colonnes. Tableau pendant au precedent (1. 1.04; h.1.40.",1513,75.6,False,none,PANNINI GIOVANNI PAOLO,,,,
 BO0624_4840,141440,740,727,"Tiziano Vecellio,1483-1576:SAINT JEROME.",1515,90.2,False,none,TIZIANO VECELLIO,,,,Sec. XVI
 BO0624_4840,141441,741,728,"Giovanni Antonio Licinio da Porden0ne,1484-1540:PoRTRAIT de FEMME (Veronica Franco?). <!-- image -->",1519,93.0,False,none,,,,,Sec. XVI
 BO0624_4840,141442,742,729,"- Jacopo da Ponte, dit le Bassano, 1510-1592:PoRTRAIT d'un CoMMANDANT. Buste de guerrier avec cuirasse. Peinture magistrale, d'une energie, d'une verite, d'une tonalite extraordinaires, qui rappelle le superbe portrait du Castello Sforzesco de Milan (l. 0.60; h. 0.69).",1527,74.5,False,none,BASSANO GIACOMO,,,,Sec. XVI
@@ -929,7 +929,7 @@ BO0624_4840,141627,927,907,"-Deux MoNTREs d'or, avec émails entoures de perles 
 BO0624_4840,141628,928,908,"-MoNTrE d'or, avec émail bleu translucide; au centre, ornement a roses de Hollande.",1860,96.2,False,none,,,,,
 BO0624_4840,141629,929,909,"MoNTRE d’'or,a repetition.",1861,80.8,False,none,,,,,
 BO0624_4840,141630,930,910,"- MoNTRE d'or, avec ornements a relief, petits emaux et roses de Hollande.",1862,93.0,False,none,,,OGGETTI VARI,,
-BO0624_4840,141631,931,911,"- CHAINETTE d'or avec quatorze decorations-mignon, en or émaille; 18 gr. (v. ill., p. 79).",1863,95.0,False,none,,,,,
+BO0624_4840,141631,931,911,"- CHAINETTE d'or avec quatorze decorations-mignon, en or émaille; 18 gr. (v. ill., p. 79).",1863,95.0,False,none,MIGNON ABRAHAM,,,,
 BO0624_4840,141632,932,912,"- BRAcELET d’argent, avec deux rangees de strass et une de perles romaines.",1864,95.9,False,none,,Scuola Romana,,,
 BO0624_4840,141633,933,913,"- BaGue d'or de bas-aloi, avec miniature entouree de petits rubis.",1865,95.3,False,none,,,MINIATURE,,
 BO0624_4840,141634,934,914,"-BaGuE d'or de bas-aloi, entouree de petites perles.",1866,94.1,False,none,,,,,

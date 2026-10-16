@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84036,101948,1,1,L'optique.,18,90.0,False,positional,BOILLY,,,,
-BO0624_84036,101949,2,2,L'Amour couronne.,20,94.1,False,positional,BOILLY,,,,
+BO0624_84036,101949,2,2,L'Amour couronne.,20,94.1,False,none,,,,,
 BO0624_84036,101950,3,3,"Portraits de Karel Du Jardin,dOtto Marcellis,de Jurian Ouens,de David Bailly,de David Vandeplaass,et unportrait d'une femme inconnue.",32,99.2,False,positional,HOUBRAKEN,,,,
 BO0624_84036,101951,4,5,Les Coquettes.,45,92.9,False,positional,SCHENEAU,,,,
 BO0624_84036,101952,5,6,Les Galants surpris.,55,95.0,False,positional,WATTEAU,,,,

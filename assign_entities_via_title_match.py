@@ -143,8 +143,10 @@ def build_entity_values_by_type(title_entities: dict[int, list[tuple[str, str]]]
 
 
 def fallback_match_in_title(title: str, entity_values_by_type: dict[str, list[str]]) -> dict[str, list[str]]:
-    """Se il match posizionale fallisce: cerca direttamente se il valore di
-    un'entità nota nel catalogo compare (fuzzy, partial) dentro il title."""
+    """Priorità sul match posizionale (non fallback come dice il nome dellafunzione):
+    cerca direttamente se il valore di un'entità nota nel catalogo compare (fuzzy, partial)
+    dentro il title (descrizione) del lotto. Se trova delle entità nel title,
+    sovrascrive completamente quelle trovate col metodo posizionale (nel titolo di sezione)"""
     by_type: dict[str, list[str]] = {}
     for etype, values in entity_values_by_type.items():
         if not values:
@@ -256,14 +258,30 @@ def process_catalogue(dir_path, catalogue_id, chunks, collection_index, period_i
     alignment = align_titles_to_lines(titles, candidates)  # <-- unica chiamata, non più per-chunk
 
     rows = []
+    used_title_lines: set[int] = set()  # titoli di sezione già "consumati" da un lotto
+
     for (_, chunk), title, (matched_line, best_score) in zip(chunks.iterrows(), titles, alignment):
         entities_here = []
         method = None
         if matched_line is not None:
             preceding = nearest_preceding_line(matched_line, title_lines)
             if preceding is not None:
-                entities_here = title_entities[preceding]
-                method = "positional"
+                first_after_title = preceding not in used_title_lines
+                used_title_lines.add(preceding)
+                # object_type: sempre ereditato; artist/school: solo dal primo lotto
+                entities_here = [
+                    (value, etype)
+                    for value, etype in title_entities[preceding]
+                    if etype == "object_type" or first_after_title
+                ]
+
+                # Per ogni entità (value, type) del titolo, la tieni se vale una delle due condizioni:
+                #etype == "object_type": viene tenuta sempre, quindi tutti i lotti fino al prossimo titolo la ereditano.
+                #first_after_title è True: vengono tenute tutte le entità (artist, school, object_type), ma solo per il primo lotto.
+                #Quindi artist e school passano solo se first_after_title è True, mentre object_type passa sempre.
+
+                if entities_here:
+                    method = "positional"
 
         by_type: dict[str, list[str]] = {}
         for value, etype in entities_here:

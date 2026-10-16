@@ -650,19 +650,19 @@ BO0624_87420,199142,648,596,"| 596.Der sterbende Hirsch. Oelgemalde,Leinw.63/75 
 BO0624_87420,199143,649,597,"597.Heilige Familie auf Goldgrund. Oelgemalde,Holz 39/32                                                   |",874.0,92.4,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_87420,199144,650,598,"598.Taunuslandschaft. Oelgemalde,Leinw.23/30                                                |",875.0,81.9,False,title_direct,,,Gemalde,,
 BO0624_87420,199145,651,599,"| 599. Selbstportrait. Bez.:HIPSCH MARTIN SCHONGA VER MALER 1483. Oelgemalde,auf Leinw.ibertragen 27/20                |",876.0,100.0,False,title_direct,,,Gemalde,,Sec. XV
-BO0624_87420,199146,652,600,600. Brustbild: Joh. Wilh. Friso. Kupferstich 24/18                                               |,877.0,83.6,False,positional,"Plimsel, A.",,OGGETTI IN RAME,,
+BO0624_87420,199146,652,600,600. Brustbild: Joh. Wilh. Friso. Kupferstich 24/18                                               |,877.0,83.6,False,none,,,OGGETTI IN RAME,,
 BO0624_87420,199147,653,601,"| 601. Brustbild eines Pilgers. Bez.: Stauffer. Oelgemalde, Leinw. 33/30                                               |",878.0,100.0,False,title_direct,,,Gemalde,,
-BO0624_87420,199148,654,602,602. Fichten. Kreidezeichnung 45/58                                                                 |,879.0,83.5,False,positional,"Plimsel, A.",,,,
+BO0624_87420,199148,654,602,602. Fichten. Kreidezeichnung 45/58                                                                 |,879.0,83.5,False,none,,,,,
 BO0624_87420,199149,655,603,"Damenportrait. Brustbild. Oelgemalde,Leinw.85/65                                                                |",880.0,95.8,False,title_direct,,,Gemalde,,
 BO0624_87420,199150,656,604,"| 604. Italienische Volksscene. Skizze. Oelgemalde, Holz 26/18",881.0,67.5,False,title_direct,,,OGGETTI IN LEGNO,,
 BO0624_87420,199151,657,605,"605. Durchblick durch Laubwerk. Oelgemalde,Carton 22/15 |",,0.0,True,title_direct,,,Gemalde,,
 BO0624_87420,199152,658,606,"Umranktes Fenster. Oelgemalde, Leinw. 69/50                                                                     |",882.0,95.2,False,title_direct,,,Gemalde,,
 BO0624_87420,199153,659,607,"Maria mit dem Kind. Bez.: Maria von Gutten Rath. In Plusch- rahme mit Silberfiligran. Oelgemalde,Leinw.40/29    |",883.0,98.1,False,title_direct,,,Gemalde,,
-BO0624_87420,199154,660,608,"Portrait eines Mannes. Oelgemilde,Blech 20/15                                                                   |",884.0,95.7,False,positional,"Plimsel, A.",,OGGETTI IN METALLO,,
-BO0624_87420,199155,661,609,"Zwei Landschaften. Aquarelle je 17/14 Verhas, Theodor,1812-1872.                                                |",885.0,96.8,False,positional,"Plimsel, A.",,,,Sec. XIX
-BO0624_87420,199156,662,610,| 610. Zwei Zeichnungen. Sepia.                                                                                        |,886.0,100.0,False,positional,"Plimsel, A.",,,,
-BO0624_87420,199157,663,611,611. Gobert-Thurm in Baden-Baden. Bleistiftzeichnung getuscht und weiss gehoht 33/26     |,887.0,86.3,False,positional,"Plimsel, A.",,,,
-BO0624_87420,199158,664,612,612.Diverse Schildereien.                                                                                   |,888.0,85.7,False,positional,"Plimsel, A.",,,,
+BO0624_87420,199154,660,608,"Portrait eines Mannes. Oelgemilde,Blech 20/15                                                                   |",884.0,95.7,False,none,,,OGGETTI IN METALLO,,
+BO0624_87420,199155,661,609,"Zwei Landschaften. Aquarelle je 17/14 Verhas, Theodor,1812-1872.                                                |",885.0,96.8,False,none,,,,,Sec. XIX
+BO0624_87420,199156,662,610,| 610. Zwei Zeichnungen. Sepia.                                                                                        |,886.0,100.0,False,none,,,,,
+BO0624_87420,199157,663,611,611. Gobert-Thurm in Baden-Baden. Bleistiftzeichnung getuscht und weiss gehoht 33/26     |,887.0,86.3,False,none,,,,,
+BO0624_87420,199158,664,612,612.Diverse Schildereien.                                                                                   |,888.0,85.7,False,none,,,,,
 BO0624_87420,199159,665,613,"Mappe mit Portraits, Stichen, Lithographien, Photographien etc.                                                 | ## P.Bicher.",889.0,90.1,False,title_direct,,,FOTOGRAFIE,,
 BO0624_87420,199160,666,614,Val. Konig.Genealogische Adelshistorie. 3 Theile mit Kpfst. Pergament-Rucken.Leipzig 1727—1736.,894.0,97.8,False,positional,,,Bicher,,Sec. XVIII
 BO0624_87420,199161,667,2,615.,895.0,75.0,False,positional,,,Bicher,,

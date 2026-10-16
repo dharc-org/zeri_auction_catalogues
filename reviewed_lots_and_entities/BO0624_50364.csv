@@ -8,8 +8,8 @@ BO0624_50364,663603,6,I,LL.NO1,47,92.3,False,none,,,,,
 BO0624_50364,663604,7,1,Deux panneaux jumeaux separes par des contreforts :,55,98.0,False,positional,,Ecole de Barcelone,PANNELLI,,
 BO0624_50364,663605,8,I,LL.NO2,85,92.3,False,positional,,Ecole de Barcelone,,,
 BO0624_50364,663606,9,4,Deux panneaux jumeaux separes par des contreforts :,93,98.0,False,positional,,Ecole de Barcelone,PANNELLI,,
-BO0624_50364,663607,10,3,b)LE PORTEMENT DE CROIX,95,95.8,False,positional,,Ecole de Barcelone,,,
-BO0624_50364,663608,11,I,LLNO3,104,90.9,False,positional,,Ecole de Barcelone,,,
+BO0624_50364,663607,10,3,b)LE PORTEMENT DE CROIX,95,95.8,False,none,,,,,
+BO0624_50364,663608,11,I,LLNO3,104,90.9,False,none,,,,,
 BO0624_50364,663609,12,I,LLNO4,123,90.9,False,positional,,Ecole italienne,,,
 BO0624_50364,663610,13,10,CHRIST MORT,148,88.0,False,positional,,Ecole de Cimabue,,,
 BO0624_50364,663611,14,9,UN SAINT EVEQUE,164,93.8,False,positional,,Ecole italienne,,,
@@ -17,8 +17,8 @@ BO0624_50364,663612,15,I,LL.NO5,175,92.3,False,positional,,Ecole italienne,,,
 BO0624_50364,663613,16,I,LL.NO6,193,92.3,False,positional,,Ecole florentine,,,
 BO0624_50364,663614,17,14,Petit diptyque: )CRUCIFIEMENT,226,63.6,False,positional,,Ecole italienne,,,
 BO0624_50364,663615,18,15,"BAISER DE PAIX, REPRESENTANT LE CHRIST ASSIS SUR SON TOMBEAU",236,97.5,False,positional,,Ecole italienne,,,
-BO0624_50364,663616,19,I,LL.NO7,243,92.3,False,positional,,Ecole italienne,,,
-BO0624_50364,663617,20,I,LLNOS,248,90.9,False,positional,,Ecole italienne,,,
+BO0624_50364,663616,19,I,LL.NO7,243,92.3,False,none,,,,,
+BO0624_50364,663617,20,I,LLNOS,248,90.9,False,none,,,,,
 BO0624_50364,663618,21,I,LL.NO9,267,92.3,False,positional,Francesco Zaganelli ou da Cottignola,,,,
 BO0624_50364,663619,22,I,LL.NO10,297,93.3,False,positional,Maitre franconien,,,,
 BO0624_50364,663620,23,19,PORTRAIT DE FEMME,307,91.9,False,positional,,Ecole allemande,,,
@@ -26,37 +26,37 @@ BO0624_50364,663621,24,I,LL.NO11,325,93.3,False,positional,,Ecole du Midi de la 
 BO0624_50364,663622,25,I,LL.NO12,340,93.3,False,positional,,Ecole du Midi de la France dite Ecole d'Avignon,,,
 BO0624_50364,663623,26,22,LE PERE ETERNEL ET LE SAINT-ESPRIT ENTRE DEUX SERAPHINS LL.NO13,348,90.9,False,positional,,Ecole du Midi de la France dite Ecole d'Avignon,,,
 BO0624_50364,663624,27,23,SAINT JOACHIM ET LA VIERGE ENFANT,363,95.7,False,positional,,Ecole du Midi de la France dite Ecole d'Avignon,,,
-BO0624_50364,663625,28,24,SAINT JOSEPH ET JESUS ENFANT LL.NO14,367,83.6,False,positional,,Ecole du Midi de la France dite Ecole d'Avignon,,,
+BO0624_50364,663625,28,24,SAINT JOSEPH ET JESUS ENFANT LL.NO14,367,83.6,False,none,,,,,
 BO0624_50364,663626,29,25,PIETA,382,76.9,False,positional,,Ecole de Quentyn Metsys,,,
 BO0624_50364,663627,30,26,LA DECLARATION,394,90.3,False,positional,Pieter de Costere Baltens dit Pieter Balten,,,,
-BO0624_50364,663628,31,I,LL.No15,400,93.3,False,positional,Pieter de Costere Baltens dit Pieter Balten,,,,
-BO0624_50364,663629,32,I,LL.NO16,405,93.3,False,positional,Pieter de Costere Baltens dit Pieter Balten,,,,
-BO0624_50364,663630,33,6,ON,409,80.0,False,positional,Pieter de Costere Baltens dit Pieter Balten,,,,
+BO0624_50364,663628,31,I,LL.No15,400,93.3,False,none,,,,,
+BO0624_50364,663629,32,I,LL.NO16,405,93.3,False,none,,,,,
+BO0624_50364,663630,33,6,ON,409,80.0,False,none,DUPRE LEON VICTOR,,,,
 BO0624_50364,663631,34,28,LE DENIER DE CESAR LL.NO17,423,76.6,False,positional,,Ecole de P.-P. Rubens,,,
 BO0624_50364,663632,35,29,PORTRAIT DE FEMME,449,91.9,False,positional,,Ecole hollandaise,,,
-BO0624_50364,663633,36,I,LL.NO18,452,93.3,False,positional,,Ecole hollandaise,,,
-BO0624_50364,663634,37,31,"ENLUMINURE sur velin provenant d'un livre d'Heures, representant saint Martin partageant son manteau. Travail du Nord de la France, premiere moitie du XVe siecle.",458,99.1,False,positional,,Ecole hollandaise,OGGETTI VARI,,Sec. XV
-BO0624_50364,663635,38,32,"ENLUMINURE sur velin, representant la Presentation au Temple. Travail francais.Premier tiers du XVle siecle. LL.NO19",464,95.0,False,positional,,Ecole hollandaise,STAMPE E INCISIONI,,
-BO0624_50364,663636,39,33,"ENLUMINURE sur velin provenant d'un livre d'Heures,representant PAdoration des Mages. Cadre forme d'une guirlande de bleuets et de fraises.Travail du nord de la France.Premiere moitie du XVe siecle.",473,99.2,False,positional,,Ecole hollandaise,OGGETTI VARI,,Sec. XV
-BO0624_50364,663637,40,34,"ENLUMINURE sur velin,formant grande lettrine avec la Presentation au Temple. Travail francais. Premier tiers du XVle siecle. LLNO20",479,96.0,False,positional,,Ecole hollandaise,STAMPE E INCISIONI,,
-BO0624_50364,663638,41,35,ENLUMINURE sur velin provenant d'un livre d'Heures et representant l'Annonce aux Bergers. Travail du Nord de la France. XVe siecle.,488,98.8,False,positional,,Ecole hollandaise,OGGETTI VARI,,Sec. XV
-BO0624_50364,663639,42,36,"ENLUMINURE sur velin,formantlettrine(P),et representant saint Matthieu accompagne de I'ange. Travail francais. Xllle siecle. LL.21",494,96.4,False,positional,,Ecole hollandaise,STAMPE E INCISIONI,,
-BO0624_50364,663640,43,37,"FEUILLET develin enlumineprovenant d'un livre d'Heures et representant I'Arbre de Jesse.Atelier de Rouen,fin du XVe siecle.",501,98.8,False,positional,,Ecole hollandaise,OGGETTI VARI,,Sec. XV
-BO0624_50364,663641,44,38,"ENLUMINURE a fond d'or sur velin, formant lettrine (P),et representant un écrivain sacre. Travail francais, XVllle siecle. LLNO22",507,95.9,False,positional,,Ecole hollandaise,STAMPE E INCISIONI,,
-BO0624_50364,663642,45,39,"ENLUMINURE sur velin, provenant d'un livre d'Heures et representant les Hebreux attaques par des serpents. (Luc, XxxVlll). Travail de Rouen,XVe-XVIe siecle.",514,99.0,False,positional,,Ecole hollandaise,OGGETTI VARI,,
-BO0624_50364,663643,46,40,"ENLUMINURE formant lettrine et illustrant un morceau d'une chronique de la famille royale de France, relatif a Charles V et a Charles VI. Travail francais. Deuxieme moitie du XVe siecle. LL.NO23",522,97.1,False,positional,,Ecole hollandaise,STAMPE E INCISIONI,,Sec. XV
-BO0624_50364,663644,47,41,ENLUMINURE sur velin provenant d'un livre d'Heures et representant la Visitation.Atelier de Rouen.Debut du XVIe siecle.,529,98.7,False,positional,,Ecole hollandaise,OGGETTI VARI,,Sec. XVI
-BO0624_50364,663645,48,42,GRAVURE ENLUMINEE representant la trahison de Judas. Travail francais provenant d'un livre d'Heures. Debut du XVIe siecle.,535,98.8,False,positional,,Ecole hollandaise,OGGETTI VARI,,Sec. XVI
-BO0624_50364,663646,49,I,LL.NO24,540,93.3,False,positional,,Ecole hollandaise,,,
-BO0624_50364,663647,50,44,"ENLUMINURE representant un sujet allegorique, traite dans le style de Loiset Lyedet, enlumineur du XVe siecle.",552,98.6,False,positional,,Ecole hollandaise,STAMPE E INCISIONI,,Sec. XV
-BO0624_50364,663648,51,45,"ENLUMINURE sur velin, represenitant une danse aux flambeaux, traitee dans le style de Loiset Lyedet (XVe siecle).",553,98.6,False,positional,,Ecole hollandaise,STAMPE E INCISIONI,,
-BO0624_50364,663649,52,46,"DEUX ENLUMINURES sur velin a fond d'or,representant des sujets profanes, traites dans le style du Xlll siecle.",557,98.6,False,positional,,Ecole hollandaise,STAMPE E INCISIONI,,
-BO0624_50364,663650,53,47,"IMPRESSION PARISIENNE -1517. GALLIOT DU PRE.《La mer des hystoires et croniques de France .Petit in-folio.(H. O.262. L. 0.18). 268 ff. a deux colonnes, caract. gothiques, a 43 lignes. Illustre de deux figures sur bois, ff. 17l. Armoiries de France, ff. 181, grand bois a pleine page et au dernier ff. marque typographique de Galliot du Pre (doublee). Reliure en veau ancien (XIXe siecle). Tr. rouges. Collation : A a X par 6 ff. Aa a Zz 6",561,99.6,False,positional,,Ecole hollandaise,OGGETTI IN LEGNO,,Sec. XVI
-BO0624_50364,663651,54,2,et rr par 4.,562,91.7,False,positional,,Ecole hollandaise,,,
-BO0624_50364,663652,55,4,derniers ff.Taches d'humidite.,566,98.3,False,positional,,Ecole hollandaise,,,
-BO0624_50364,663653,56,48,"IMPRESSION DE LYON, DEBUT DU XVIe SIECLE (VERS 1520). 《Institutiones impiales cum casibus longis noniter emedatis in fine 365 ff., caracteres gothiques (impression en rouge et en noir) a 2 colonnes. Reliure fatiguee en veau estampe ancien (dos enleve). Incomplet de plusieurs ff. et fortement attaque des vers dans les marges.",570,98.4,False,positional,,Ecole hollandaise,STAMPE E INCISIONI,,Sec. XVI
-BO0624_50364,663654,57,49,"IMPRESSION PARISIENNE PHILIPPE PIGOUCHET,1510.《Vocabularuis Legis. 》 Impression en caracteres gothiques a 44 lignes, 2 colonnes, in-8°, 292 ff. Velin souple ancien corde (trace de ruban).",574,99.2,False,positional,,Ecole hollandaise,,,Sec. XVI
-BO0624_50364,663655,58,50,"IMPRESSION LYONNAISE, 1555. Léo Nicolas Thomaeus:《De varia historia libri tres &gt;. Chez Sebastien Gryphus, Lyon 1555. Petit in-8° mpressions de Lyon,rares et dans une cur:euse reliure estampee de I'epoque,ornee sur chaque plat d'une composition differente. Le plat superieur est use.",582,71.4,False,positional,,Ecole hollandaise,OGGETTI VARI,,Sec. XVI
+BO0624_50364,663633,36,I,LL.NO18,452,93.3,False,none,,,,,
+BO0624_50364,663634,37,31,"ENLUMINURE sur velin provenant d'un livre d'Heures, representant saint Martin partageant son manteau. Travail du Nord de la France, premiere moitie du XVe siecle.",458,99.1,False,none,,,OGGETTI VARI,,Sec. XV
+BO0624_50364,663635,38,32,"ENLUMINURE sur velin, representant la Presentation au Temple. Travail francais.Premier tiers du XVle siecle. LL.NO19",464,95.0,False,none,,,STAMPE E INCISIONI,,
+BO0624_50364,663636,39,33,"ENLUMINURE sur velin provenant d'un livre d'Heures,representant PAdoration des Mages. Cadre forme d'une guirlande de bleuets et de fraises.Travail du nord de la France.Premiere moitie du XVe siecle.",473,99.2,False,none,,,OGGETTI VARI,,Sec. XV
+BO0624_50364,663637,40,34,"ENLUMINURE sur velin,formant grande lettrine avec la Presentation au Temple. Travail francais. Premier tiers du XVle siecle. LLNO20",479,96.0,False,none,,,STAMPE E INCISIONI,,
+BO0624_50364,663638,41,35,ENLUMINURE sur velin provenant d'un livre d'Heures et representant l'Annonce aux Bergers. Travail du Nord de la France. XVe siecle.,488,98.8,False,none,,,OGGETTI VARI,,Sec. XV
+BO0624_50364,663639,42,36,"ENLUMINURE sur velin,formantlettrine(P),et representant saint Matthieu accompagne de I'ange. Travail francais. Xllle siecle. LL.21",494,96.4,False,none,,,STAMPE E INCISIONI,,
+BO0624_50364,663640,43,37,"FEUILLET develin enlumineprovenant d'un livre d'Heures et representant I'Arbre de Jesse.Atelier de Rouen,fin du XVe siecle.",501,98.8,False,none,,,OGGETTI VARI,,Sec. XV
+BO0624_50364,663641,44,38,"ENLUMINURE a fond d'or sur velin, formant lettrine (P),et representant un écrivain sacre. Travail francais, XVllle siecle. LLNO22",507,95.9,False,none,,,STAMPE E INCISIONI,,
+BO0624_50364,663642,45,39,"ENLUMINURE sur velin, provenant d'un livre d'Heures et representant les Hebreux attaques par des serpents. (Luc, XxxVlll). Travail de Rouen,XVe-XVIe siecle.",514,99.0,False,none,,,OGGETTI VARI,,
+BO0624_50364,663643,46,40,"ENLUMINURE formant lettrine et illustrant un morceau d'une chronique de la famille royale de France, relatif a Charles V et a Charles VI. Travail francais. Deuxieme moitie du XVe siecle. LL.NO23",522,97.1,False,none,,,STAMPE E INCISIONI,,Sec. XV
+BO0624_50364,663644,47,41,ENLUMINURE sur velin provenant d'un livre d'Heures et representant la Visitation.Atelier de Rouen.Debut du XVIe siecle.,529,98.7,False,none,,,OGGETTI VARI,,Sec. XVI
+BO0624_50364,663645,48,42,GRAVURE ENLUMINEE representant la trahison de Judas. Travail francais provenant d'un livre d'Heures. Debut du XVIe siecle.,535,98.8,False,none,,,OGGETTI VARI,,Sec. XVI
+BO0624_50364,663646,49,I,LL.NO24,540,93.3,False,none,,,,,
+BO0624_50364,663647,50,44,"ENLUMINURE representant un sujet allegorique, traite dans le style de Loiset Lyedet, enlumineur du XVe siecle.",552,98.6,False,none,,,STAMPE E INCISIONI,,Sec. XV
+BO0624_50364,663648,51,45,"ENLUMINURE sur velin, represenitant une danse aux flambeaux, traitee dans le style de Loiset Lyedet (XVe siecle).",553,98.6,False,none,,,STAMPE E INCISIONI,,
+BO0624_50364,663649,52,46,"DEUX ENLUMINURES sur velin a fond d'or,representant des sujets profanes, traites dans le style du Xlll siecle.",557,98.6,False,none,,,STAMPE E INCISIONI,,
+BO0624_50364,663650,53,47,"IMPRESSION PARISIENNE -1517. GALLIOT DU PRE.《La mer des hystoires et croniques de France .Petit in-folio.(H. O.262. L. 0.18). 268 ff. a deux colonnes, caract. gothiques, a 43 lignes. Illustre de deux figures sur bois, ff. 17l. Armoiries de France, ff. 181, grand bois a pleine page et au dernier ff. marque typographique de Galliot du Pre (doublee). Reliure en veau ancien (XIXe siecle). Tr. rouges. Collation : A a X par 6 ff. Aa a Zz 6",561,99.6,False,none,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_50364,663651,54,2,et rr par 4.,562,91.7,False,none,,,,,
+BO0624_50364,663652,55,4,derniers ff.Taches d'humidite.,566,98.3,False,none,,,,,
+BO0624_50364,663653,56,48,"IMPRESSION DE LYON, DEBUT DU XVIe SIECLE (VERS 1520). 《Institutiones impiales cum casibus longis noniter emedatis in fine 365 ff., caracteres gothiques (impression en rouge et en noir) a 2 colonnes. Reliure fatiguee en veau estampe ancien (dos enleve). Incomplet de plusieurs ff. et fortement attaque des vers dans les marges.",570,98.4,False,none,,,STAMPE E INCISIONI,,Sec. XVI
+BO0624_50364,663654,57,49,"IMPRESSION PARISIENNE PHILIPPE PIGOUCHET,1510.《Vocabularuis Legis. 》 Impression en caracteres gothiques a 44 lignes, 2 colonnes, in-8°, 292 ff. Velin souple ancien corde (trace de ruban).",574,99.2,False,none,,,,,Sec. XVI
+BO0624_50364,663655,58,50,"IMPRESSION LYONNAISE, 1555. Léo Nicolas Thomaeus:《De varia historia libri tres &gt;. Chez Sebastien Gryphus, Lyon 1555. Petit in-8° mpressions de Lyon,rares et dans une cur:euse reliure estampee de I'epoque,ornee sur chaque plat d'une composition differente. Le plat superieur est use.",582,71.4,False,none,,,OGGETTI VARI,,Sec. XVI
 BO0624_50364,663656,59,51,"BUSTE DE SAINT PIERRE, en pierre polychromee. Travail allemand, XVe-XVIe siecle.",585,98.1,False,positional,,,Sculptures en pierre,,
 BO0624_50364,663657,60,52,"TETE DE MOINE en marbre. Travail espagnol, XVIl siecle.",589,97.2,False,positional,,,Sculptures en pierre,,
 BO0624_50364,663658,61,53,TETE DE VIERGE en marbre blanc. XIVe siecle. Fragment de statue.Manque la partie superieure. LL.NO23,593,94.2,False,positional,,,OGGETTI VARI,,Sec. XIV

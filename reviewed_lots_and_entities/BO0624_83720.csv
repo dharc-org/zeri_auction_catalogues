@@ -19,7 +19,7 @@ BO0624_83720,393890,17,512,Desportes. Portrait d'un chienne de chasse.,244,83.1,
 BO0624_83720,393891,18,513,Drolling. 1752-1817. La Fleuriste.,256,63.8,False,positional,DROLLING,,,,Sec. XVIII
 BO0624_83720,393892,19,514,Drouais. Portrait d'un jeune prince.,269,84.4,False,positional,DROUAIS,,,,
 BO0624_83720,393893,20,515,Drouais. La petite jardiniere.,280,80.8,False,positional,DROUAIS,,,,
-BO0624_83720,393894,21,516,Drouais. La petit denicheur oiseaux.,286,80.0,False,positional,DROUAIS,,,,
+BO0624_83720,393894,21,516,Drouais. La petit denicheur oiseaux.,286,80.0,False,none,DROUAIS FRANCOIS-HUBERT,,,,
 BO0624_83720,393895,22,517,EISEN. 1685-1775. Les Singes amateurs.,299,79.3,False,title_direct,EISEN,,OGGETTI IN FERRO,,Sec. XVIII
 BO0624_83720,393896,23,518,Gerarde. Etude de femme.,312,75.0,False,positional,GERARD,,,,
 BO0624_83720,393897,24,519,Guido Reni. 1575-1642. Eve.,320,59.6,False,positional,GUIDO RENI,,,,Sec. XVII
@@ -37,24 +37,24 @@ BO0624_83720,393908,35,530,Laureince. Le repos champetre.,482,76.0,False,positio
 BO0624_83720,393909,36,531,Le Prince. 1733-1781. Panneaux chinois.,500,67.9,False,positional,LE PRINCE,,PANNELLI,,Sec. XVIII
 BO0624_83720,393910,37,532,Leriche. XVIII siecle. Devant de cheminée.,513,59.0,False,positional,LERICHE,,,,Sec. XVIII
 BO0624_83720,393911,38,533,"Leriche. Couronnes de roses, sur fond gris, encadrees de guirlandes de lierre.",525,93.1,False,positional,LERICHE,,,,
-BO0624_83720,393912,39,534,Loo. 1705-1765. Portrait de jeune fille en bergere.,537,83.7,False,positional,LERICHE,,,,Sec. XVIII
+BO0624_83720,393912,39,534,Loo. 1705-1765. Portrait de jeune fille en bergere.,537,83.7,False,none,,,,,Sec. XVIII
 BO0624_83720,393913,40,535,Marieschi. 1711-1794. Vues des environs de Venise.,554,71.8,False,positional,MARIESCHI,,,,Sec. XVIII
 BO0624_83720,393914,41,536,Martin. 1659-1735. Inauguration du port de Mardick.,570,79.5,False,positional,MARTIN,,,,Sec. XVII
 BO0624_83720,393915,42,537,Mayer. 1778-1821. Portrait de l'artiste.,587,72.1,False,positional,MAYER,,,,Sec. XIX
 BO0624_83720,393916,43,538,Meynier. 1768-1832. Minerve protectrice des Artes.,606,75.9,False,positional,MEYNIER,,,,Sec. XVIII
 BO0624_83720,393917,44,539,Mignard. 1612-1695. Portrait de jeune femme en Ceres.,620,79.1,False,positional,MIGNARD,,,,Sec. XVII
 BO0624_83720,393918,45,540,Nattier. 1685-1766. Portrait de Madame Adelaide de France.,633,81.2,False,positional,NATTIER,,,,Sec. XVIII
-BO0624_83720,393919,46,541,Portrait de Madame Victoire de France.,636,94.9,False,positional,NATTIER,,,,
-BO0624_83720,393920,47,542,Portrait de Madame Louise-Elizabeth de France,642,100.0,False,positional,NATTIER,,,,
-BO0624_83720,393921,48,543,"Portrait du Dauphin, fils de Louise XV.",648,93.5,False,positional,NATTIER,,,,
+BO0624_83720,393919,46,541,Portrait de Madame Victoire de France.,636,94.9,False,none,,,,,
+BO0624_83720,393920,47,542,Portrait de Madame Louise-Elizabeth de France,642,100.0,False,none,,,,,
+BO0624_83720,393921,48,543,"Portrait du Dauphin, fils de Louise XV.",648,93.5,False,none,,,,,
 BO0624_83720,393922,49,544,Nattier. Portrait allegorique de la Duchesse de Chateauroux.,663,91.1,False,positional,NATTIER,,,,
 BO0624_83720,393923,50,545,Nonnootte. 1707-1785. Portrait de femme.,680,65.5,False,positional,NONNOTTE,,,,Sec. XVIII
 BO0624_83720,393924,51,546,Oost. 1600-1671. Le Christ couronné d'epines.,696,78.4,False,positional,OOST,,,,Sec. XVII
 BO0624_83720,393925,52,547,Oudry. 1686-1755. Portrait d'un garde chasse et de deux chiennes de la meute royale.,709,62.7,False,positional,OUDRY,,,,Sec. XVIII
 BO0624_83720,393926,53,548,Oudry. Chien Blanc à taches brunes.,726,84.4,False,positional,OUDRY,,,,
-BO0624_83720,393927,54,549,Chienne noire et blanche.,730,92.3,False,positional,OUDRY,,,,
-BO0624_83720,393928,55,550,Chienne blanche tachee de feu.,734,93.5,False,positional,OUDRY,,,,
-BO0624_83720,393929,56,551,Renard guettant des perdrix.,738,93.1,False,positional,OUDRY,,,,
+BO0624_83720,393927,54,549,Chienne noire et blanche.,730,92.3,False,none,,,,,
+BO0624_83720,393928,55,550,Chienne blanche tachee de feu.,734,93.5,False,none,,,,,
+BO0624_83720,393929,56,551,Renard guettant des perdrix.,738,93.1,False,none,,,,,
 BO0624_83720,393930,57,552,Oudry. Portrait d’un chien griffon.,749,87.5,False,positional,OUDRY,,,,
 BO0624_83720,393931,58,553,Oudry. Portrait d'un petit chien de race KingCharles.,762,92.0,False,positional,OUDRY,,,,
 BO0624_83720,393932,59,554,Oudry. Chien en arret sur deux faisans.,775,91.2,False,positional,OUDRY,,,,
@@ -96,24 +96,24 @@ BO0624_83720,393967,94,589,ECOLE FRANCAISE. XVIII siècle. Composition bachique.
 BO0624_83720,393968,95,590,ECOLE FRANCAISE. XVIII siècle. Flore et Zephire.,1318,52.5,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
 BO0624_83720,393969,96,591,ECOLE FRANCAISE. XVIII siècle. Le Repos de Diane.,1328,54.0,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
 BO0624_83720,393970,97,592,ECOLE FRANCAISE. XVIII siècle. Amphitrite.,1334,43.6,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
-BO0624_83720,393971,98,593,Ecole Francaise. Le Corbeau et le Renard.,1340,35.8,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83720,393971,98,593,Ecole Francaise. Le Corbeau et le Renard.,1340,35.8,False,none,,,,,
 BO0624_83720,393972,99,594,Ecole Francaise. Le Loup ct la Cigogne.,1345,57.7,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83720,393973,100,595,Ecole Francaise. Le Loup et le Chien.,1351,53.3,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83720,393974,101,596,Ecole Francaise. XVIII siecle. Le Reve.,1353,33.9,False,positional,,ECOLE FRANCAISE,,,Sec. XVIII
+BO0624_83720,393973,100,595,Ecole Francaise. Le Loup et le Chien.,1351,53.3,False,none,,,,,
+BO0624_83720,393974,101,596,Ecole Francaise. XVIII siecle. Le Reve.,1353,33.9,False,none,,,,,Sec. XVIII
 BO0624_83720,393975,102,597,ECOLE FRANCAISE. XVIII siecle. Jeune fille en buste.,1357,34.4,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
 BO0624_83720,393976,103,598,ECOLE FRANCAISE. XVIII siecle. Portrait de jeune fille.,1359,44.8,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
 BO0624_83720,393977,104,599,ECOLE FRANCAISE. XVIII siecle. Jeune femme assise sur un lit.,1367,44.9,False,title_direct,,ECOLE FRANCAISE,,,Sec. XVIII
-BO0624_83720,393978,105,600,Ecole Francaise. Portrait presume de M. Recamier.,1369,36.4,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83720,393978,105,600,Ecole Francaise. Portrait presume de M. Recamier.,1369,36.4,False,none,,,,,
 BO0624_83720,393979,106,601,Ecole Francaise. XVII siecle. Portrait d'un officier.,1371,46.2,False,positional,,ECOLE FRANCAISE,,,Sec. XVII
-BO0624_83720,393980,107,602,"Bassin oblong, en ancienne porcelaine de Saxe.",1375,34.4,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83720,393981,108,603,"SucRiER ovale, en ancienne porcelaine de Saxe, simulant une salade semee d'insectes.",1377,38.4,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83720,393980,107,602,"Bassin oblong, en ancienne porcelaine de Saxe.",1375,34.4,False,none,,,,,
+BO0624_83720,393981,108,603,"SucRiER ovale, en ancienne porcelaine de Saxe, simulant une salade semee d'insectes.",1377,38.4,False,none,,,,,
 BO0624_83720,393982,109,604,"Boite simulant de grosses grappes de raisin noir, en ancienne porcelaine de Saxe.",1390,39.5,False,positional,,ECOLE FRANCAISE,SCATOLE,,
-BO0624_83720,393983,110,605,"Boire en ancienne porcelaine de Saxe,en forme de brebis couchee.",1396,36.2,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83720,393983,110,605,"Boire en ancienne porcelaine de Saxe,en forme de brebis couchee.",1396,36.2,False,none,,,,,
 BO0624_83720,393984,111,606,"SoupieRE avec couvercle,en ancienne porcelaine de Saxe,a decor de feurs et animaux, de style japonais; pieds griffes.",1402,46.8,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83720,393985,112,607,"Deux pETrrs vAsEs pots-pourris,en ancienne porcelaine de Saxe,a decor de feurs etfruits en ronde-bosse.",1413,36.2,False,positional,,ECOLE FRANCAISE,VASI,,
-BO0624_83720,393986,113,608,"QuATRE supporTs en ancienne porcelaine de Saxe,a figures d'amours enlaces; bases a feuillages.",1415,35.8,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83720,393987,114,609,PeTIT vAsE en ancienne porcelaine de Saxe: decor de feuillages gaufres et feurettes.,1417,46.2,False,positional,,ECOLE FRANCAISE,VASI,,
-BO0624_83720,393988,115,610,"PeTIT vAse a anses-tetes de beliers, en ancienne porcelaine de Saxe.",1421,35.1,False,positional,,ECOLE FRANCAISE,VASI,,
+BO0624_83720,393986,113,608,"QuATRE supporTs en ancienne porcelaine de Saxe,a figures d'amours enlaces; bases a feuillages.",1415,35.8,False,none,,,,,
+BO0624_83720,393987,114,609,PeTIT vAsE en ancienne porcelaine de Saxe: decor de feuillages gaufres et feurettes.,1417,46.2,False,none,,,VASI,,
+BO0624_83720,393988,115,610,"PeTIT vAse a anses-tetes de beliers, en ancienne porcelaine de Saxe.",1421,35.1,False,none,,,VASI,,
 BO0624_83720,393989,116,611,"PerIr vase a anses-mascarons, porte par trois figurines d'amours, debout sur base a rocailles. Ancienne porcelaine de Saxe.",1429,43.9,False,positional,,ECOLE HOLLANDAISE,VASI,,
 BO0624_83720,393990,117,612,"Vase pot-pourri,en ancienne porcelaine de Saxe,cn forme de fruit au milieu de branchages et de feurs en ronde-bosse.",1444,59.7,False,positional,,,VASI,,
 BO0624_83720,393991,118,613,"PAIRE DE BoUTs-DE-TABLE a trois lumieres,en ancienne porcelaine de Saxe, en forme darbustes,au pied desquels se tiennent deux amours costumes;bases a rocailles.",1448,51.0,False,positional,BOUTS DIRK,,PORCELAINES,,

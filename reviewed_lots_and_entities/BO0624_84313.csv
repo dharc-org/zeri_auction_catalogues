@@ -8,14 +8,14 @@ BO0624_84313,351291,6,11,"-Il m'a tire les oreilles！ Tant mieux, c'est bien fa
 BO0624_84313,351292,7,12,"- Bord de riviere, habitation et petits personnages. Dessin a la plume et lavis.",105,98.0,False,positional,DESFRICHES,,,,
 BO0624_84313,351293,8,13,- Portraits d'hommes.,113,92.3,False,positional,,ECOLE ANGLAISE,,,
 BO0624_84313,351294,9,4,La Baigneuse surprise.,123,95.5,False,positional,,ECOLE FRANCAISE,,,
-BO0624_84313,351295,10,15,15 -Le Charmeur de serpent.,127,100.0,False,positional,,ECOLE FRANCAISE,,,
-BO0624_84313,351296,11,16,## 16-La Brouette.,136,100.0,False,positional,,ECOLE FRANCAISE,,,
+BO0624_84313,351295,10,15,15 -Le Charmeur de serpent.,127,100.0,False,none,,,,,
+BO0624_84313,351296,11,16,## 16-La Brouette.,136,100.0,False,none,,,,,
 BO0624_84313,351297,12,17,19— Projets de miniatures (portraits d'hommes et de,148,97.0,False,positional,,ECOLE FRANCAISE,MINIATURE,,
 BO0624_84313,351298,13,20,- Paysages et petits personnages.,157,95.2,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84313,351299,14,21,ViGNETTE pour illustrer La Henriade de Voltaire. Dessin a la mine de plomb. Signe et date 1766. Accompagne de la gravure par Massard. Cadre en cuivre.,167,99.3,False,positional,EISEN (CHARLE8),,STAMPE E INCISIONI,,Sec. XVIII
 BO0624_84313,351300,15,22,- Portrait de femme.,171,91.9,False,positional,GROS (LE BARON),,,,
 BO0624_84313,351301,16,23,- Rue de village animee de figures.,181,95.5,False,positional,HACKAERT (CARLE),,,,
-BO0624_84313,351302,17,25,La Collation.,188,88.9,False,positional,HACKAERT (CARLE),,,,
+BO0624_84313,351302,17,25,La Collation.,188,88.9,False,none,,,,,
 BO0624_84313,351303,18,26,"- Offciers en observation. Vue de Chateau-Gaillard (en Normandie, pres des",210,78.6,False,positional,HACKERT (J.-P.),,,,
 BO0624_84313,351304,19,27,"-Portrait de l'Artiste,par lui-meme.",223,95.8,False,positional,LE BACHELIER,,,,
 BO0624_84313,351305,20,28,"Vue des jardins de la villa Aldobrandini, a Rome. Dessin a la plume et aquarelle. Signe en bas a gauche, et date 1772.",234,98.7,False,positional,LE BARBIER L'AINE,,,,Sec. XVIII
@@ -25,7 +25,7 @@ BO0624_84313,351308,23,31,33,259,57.1,False,positional,NICOLLE (V.J.),,,,
 BO0624_84313,351309,24,34,"—Paysages, bergers, bergeres et animaux.",267,96.0,False,positional,PILLEMENT JEAN),,POLTRONE,,
 BO0624_84313,351310,25,35,"-Vue de la Bastille, prise du jardin de Mr de Beau-",273,97.0,False,positional,POURCELLY,,,,
 BO0624_84313,351311,26,36,-Etudes de femme nue.,285,92.7,False,positional,PRUD'HON (P.-P.),,,,
-BO0624_84313,351312,27,37,37 - Projet de sceau revolutionnaire.,293,100.0,False,positional,PRUD'HON (P.-P.),,,,
+BO0624_84313,351312,27,37,37 - Projet de sceau revolutionnaire.,293,100.0,False,none,,,,,
 BO0624_84313,351313,28,38,## 38 - Monument avec dome.,303,100.0,False,positional,ROBERT (HUBERT),,,,
 BO0624_84313,351314,29,39,- Villa romaine et personnages.,315,94.9,False,positional,ROBERT,Scuola Romana,,,
 BO0624_84313,351315,30,40,-Route a la lisiere d'un bois.,323,94.9,False,positional,RUYSDAEL (SALOMON VAN),,OGGETTI IN LEGNO,,
@@ -38,11 +38,11 @@ BO0624_84313,351321,36,46,-Portrait d'enfant.,397,91.9,False,positional,,ECOLE F
 BO0624_84313,351322,37,47,- Eglise Saint-Julien-le-Pauvre (a Paris).,407,96.1,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84313,351323,38,48,"48 - Portrait de Marie-Anne de Chateauneuf, dite Mlle Duclos,",417,100.0,False,positional,LARGILLIERE (NICOLAS DE),,,,
 BO0624_84313,351324,39,49,## 49 -Pecheurs au bord de la mer.,433,100.0,False,positional,PILLEMENT (JEAN),,,,
-BO0624_84313,351325,40,50,## 50 — Paysages animes de figures.,443,100.0,False,positional,PILLEMENT (JEAN),,,,
+BO0624_84313,351325,40,50,## 50 — Paysages animes de figures.,443,100.0,False,none,,,,,
 BO0624_84313,351326,41,51,## 51 —Portrait de Vestris II.,455,100.0,False,positional,"ROMANY (ADELE-ROMANCE, DITE)",,,,
 BO0624_84313,351327,42,52,## 52 - Jeune fille a la rose.,467,100.0,False,positional,SCHALL (FREDERIC),,,,
 BO0624_84313,351328,43,53,## 53 - Les Desirs naissants.,482,100.0,False,positional,TANCHE (N.),,,,
-BO0624_84313,351329,44,54,## 54—L'Eté.,496,100.0,False,positional,TANCHE (N.),,,,
+BO0624_84313,351329,44,54,## 54—L'Eté.,496,100.0,False,none,,,,,
 BO0624_84313,351330,45,55,55 - Pecheurs et Baigneurs en face d'une cascade.,506,100.0,False,positional,VERNET (JOSEPH),,,,
 BO0624_84313,351331,46,56,## 56 -Le Charlatan.,514,100.0,False,positional,WATTEAU DE LILLE,,,,
 BO0624_84313,351332,47,57,## SCULPTURES,527,100.0,False,title_direct,,,OGGETTI IN LEGNO,,
@@ -55,15 +55,15 @@ BO0624_84313,351338,53,63,"Groupe de deux enfants nus luttant, en platre. xvinre
 BO0624_84313,351339,54,64,"S STArueTre d'enfant nu assis sur un rocher, en terre-cuite, attribuee a Francois Duquesnoy, dit le Flamand. Commencement du xvin siecle.",570,98.9,False,positional,,,SCULPTURES,,
 BO0624_84313,351340,55,65,"—Deux MEDAILLoNs ronds, se faisant pendant,presentant les bustes a droite,en profil-medaille du roi et de la reine de Suede,modeles sur fond d'ardoise. Cadres anciens en bois moulure et dore.",574,99.2,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_84313,351341,56,66,"MEDAILLoN RoND, grand module, en terre-cuite par J.B.Nini: Portrait de Mademoiselle Alcoque (?) Cette indication se trouve dans le catalogue du Musee de Cluny,se rapportant a un exemplaire semblable.Encadrement de filets ondules. Signe et date 1762 (Storelli I). Belle epreuve.",585,99.4,False,positional,J.-B.NINI,,,,Sec. XVIII
-BO0624_84313,351342,57,67,"MEDAILLoN ROND, grand module,en terre-cuite par J.B. Nini: Portrait d'Aime.Louis.des. Moulins. de. Lisle. Encadrement a filets unis. Signe et date: J.-B. Nini F. 1762 (Storelli 2). Bonne épreuve.",589,99.2,False,positional,J.-B.NINI,,,,Sec. XVIII
-BO0624_84313,351343,58,68,"MEDAILLoN RoND,grand module, en terre-cuite,par J.-B.Nini: Portrait d'Albertine nee Baronne de Nivenheim,1768. Encadrements a filets unis. Signe et date 1768 (Storelli xxx). Tres belle epreuve de ce portrait,l'un des plus remarquables et des rares dans l'ceuvre du maitre blaisois. Cadre dore.",593,99.6,False,positional,J.-B.NINI,,,,Sec. XVIII
-BO0624_84313,351344,59,69,"MEDAILLON ROND,petit module, en terre-cuite,par J.B.Nini: Portrait de Charles-Juste Prince de Beauvau,177o (Sto-",597,99.1,False,positional,J.-B.NINI,,,,
-BO0624_84313,351345,60,70,"MEDAILLoN RoND, grand module,en terre-cuite, par JB.Nini : Portrait de J.D.Leray de Chaumont,intendant des Juval",604,99.1,False,positional,J.-B.NINI,,,,
-BO0624_84313,351346,61,71,- 75,609,100.0,False,positional,J.-B.NINI,,,,
-BO0624_84313,351347,62,72,"MEDAILLoN RoND,petit module,en terre-cuite,par J.B.Nini, 1777. Portrait de:B. Franklin,dit (aux lunettes ). Signe, date. Pas d'encadrement et pas de legende.(Sto-",614,99.3,False,positional,J.-B.NINI,,,,Sec. XVIII
-BO0624_84313,351348,63,73,"1 MEDAILLON ROND, grand module,en terre-cuite,par JB.Nini : Portrait de Ludovicus.XVI.Rex.Christianissimus.1780. Encadrement a filets unis. Signe et date 1780 (Storelli Lxx). Tres belle epreuve. Cadre moulure en bronze dore.",621,99.3,False,positional,J.-B.NINI,,,,Sec. XVIII
-BO0624_84313,351349,64,74,"MEDAILLoN RoND,grand module,en terre-cuite,par JB.Nini : Portrait de Maria-Antonia.Arc.Aus.Gallorum.Regina.1780. J.-B. Nini. F. Pendant du precedent. Encadrement a filets unis. Signe et date 1780 (Storelli LXIll). Cadre mouluré en bronze dore.",625,99.4,False,positional,J.-B.NINI,,,,Sec. XVIII
-BO0624_84313,351350,65,76,"MEDAILLoN RoND,grand module, en terre-cuite,par J.B.Nini : Portrait de femme, de profil a gauche (Mme de Faugnes, femme de Perinet de Faugues,fermier general et seigneur (?) du chateau de Thauvenay, pres Sancerre. Encadrement a filets ondules. Signe : J.-B. Nini. F. (Storelli XC). Bonne epreuve.",635,99.6,False,positional,J.-B.NINI,,,,
+BO0624_84313,351342,57,67,"MEDAILLoN ROND, grand module,en terre-cuite par J.B. Nini: Portrait d'Aime.Louis.des. Moulins. de. Lisle. Encadrement a filets unis. Signe et date: J.-B. Nini F. 1762 (Storelli 2). Bonne épreuve.",589,99.2,False,none,,,,,Sec. XVIII
+BO0624_84313,351343,58,68,"MEDAILLoN RoND,grand module, en terre-cuite,par J.-B.Nini: Portrait d'Albertine nee Baronne de Nivenheim,1768. Encadrements a filets unis. Signe et date 1768 (Storelli xxx). Tres belle epreuve de ce portrait,l'un des plus remarquables et des rares dans l'ceuvre du maitre blaisois. Cadre dore.",593,99.6,False,none,,,,,Sec. XVIII
+BO0624_84313,351344,59,69,"MEDAILLON ROND,petit module, en terre-cuite,par J.B.Nini: Portrait de Charles-Juste Prince de Beauvau,177o (Sto-",597,99.1,False,none,,,,,
+BO0624_84313,351345,60,70,"MEDAILLoN RoND, grand module,en terre-cuite, par JB.Nini : Portrait de J.D.Leray de Chaumont,intendant des Juval",604,99.1,False,none,,,,,
+BO0624_84313,351346,61,71,- 75,609,100.0,False,none,,,,,
+BO0624_84313,351347,62,72,"MEDAILLoN RoND,petit module,en terre-cuite,par J.B.Nini, 1777. Portrait de:B. Franklin,dit (aux lunettes ). Signe, date. Pas d'encadrement et pas de legende.(Sto-",614,99.3,False,none,,,,,Sec. XVIII
+BO0624_84313,351348,63,73,"1 MEDAILLON ROND, grand module,en terre-cuite,par JB.Nini : Portrait de Ludovicus.XVI.Rex.Christianissimus.1780. Encadrement a filets unis. Signe et date 1780 (Storelli Lxx). Tres belle epreuve. Cadre moulure en bronze dore.",621,99.3,False,none,,,,,Sec. XVIII
+BO0624_84313,351349,64,74,"MEDAILLoN RoND,grand module,en terre-cuite,par JB.Nini : Portrait de Maria-Antonia.Arc.Aus.Gallorum.Regina.1780. J.-B. Nini. F. Pendant du precedent. Encadrement a filets unis. Signe et date 1780 (Storelli LXIll). Cadre mouluré en bronze dore.",625,99.4,False,none,,,,,Sec. XVIII
+BO0624_84313,351350,65,76,"MEDAILLoN RoND,grand module, en terre-cuite,par J.B.Nini : Portrait de femme, de profil a gauche (Mme de Faugnes, femme de Perinet de Faugues,fermier general et seigneur (?) du chateau de Thauvenay, pres Sancerre. Encadrement a filets ondules. Signe : J.-B. Nini. F. (Storelli XC). Bonne epreuve.",635,99.6,False,none,,,,,
 BO0624_84313,351351,66,77,## ORFEVRERIE,640,100.0,False,title_direct,,,ORFEVRERIE,,
 BO0624_84313,351352,67,78,"— Coupe RoNDE a anse de panier, en argent repousse. Ancien",646,97.3,False,positional,,,ORFEVRERIE,,
 BO0624_84313,351353,68,79,Tasse a anse et trois pieds avec presentoir en argent.,650,97.2,False,positional,,,ORFEVRERIE,,

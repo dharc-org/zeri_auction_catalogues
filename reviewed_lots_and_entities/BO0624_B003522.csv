@@ -41,11 +41,11 @@ BO0624_B003522,641370,39,37,"SIGNORINI TELEMACO Ragazzo di Rio Maggiore .Dipinto
 BO0624_B003522,641371,40,38,"TORDI sINIBALDO Il ritratto alla signora .Dipinto ad olio,centimetri 30x21. bis.IROLLI VINcENZO Testa di popolana ).Dipinto ad olio, centimetri 69x40.",50,66.4,False,none,,,,,
 BO0624_B003522,641372,41,39,SARTORIO GIULIO ARISTIDE Bambino al mare .Dipinto ad,52,97.1,False,none,,,,,
 BO0624_B003522,641373,42,40,RENIE'NIcOLA (Scuola Francese del Sec. XIX) αLa fattoria ）.,54,97.2,False,none,,,,,
-BO0624_B003522,641374,43,41,"PALIZZI GIUSEPPE αRiposo . Dipinto ad olio, cm. 35×48.",56,97.0,False,none,,,,,
+BO0624_B003522,641374,43,41,"PALIZZI GIUSEPPE αRiposo . Dipinto ad olio, cm. 35×48.",56,97.0,False,none,PALIZZI FILIPPO,,,,
 BO0624_B003522,641375,44,42,"CELENTANO BERNARDO αPreghiera . Dipinto ad olio, centi",57,97.1,False,none,,,,,
 BO0624_B003522,641376,45,43,"ALDINE MARC αCanale veneziano .Dipinto ad olio, cm. 5Ox65. (Vedi Illustrazione).",59,98.0,False,none,,,,,
 BO0624_B003522,641377,46,44,"ALDINE MARCTramonto veneziano.Dipinto ad olio,cm. 65x50.",60,97.3,False,none,,,,,
-BO0624_B003522,641378,47,45,"PALIZZI NIcoLA cCampagna abruzzese..Dipinto ad olio,centimetri 41x77.",61,97.8,False,none,,,,,
+BO0624_B003522,641378,47,45,"PALIZZI NIcoLA cCampagna abruzzese..Dipinto ad olio,centimetri 41x77.",61,97.8,False,none,PALIZZI FILIPPO,,,,
 BO0624_B003522,641379,48,46,WILDT ADoLFO Il dolore.Testa in terraforte.,62,96.6,False,none,,,,,
 BO0624_B003522,641380,49,47,"SERRA ENRIQUETramonto）.Dipinto ad olio,cm.71x91.(Vedi llustrazione).",63,86.4,False,none,,,,,
 BO0624_B003522,641381,50,48,"ALPERIZ NICOLA (Scuola Spagnola del Sec. XIX) aLa Cattedrale di Siviglia . Dipinto ad olio, cm. 59 x80. (Vedi Illustrazione).",65,98.7,False,none,,Scuola di Siviglia,,,
@@ -98,7 +98,7 @@ BO0624_B003522,641427,96,6,nel medaglione centrale.,126,95.8,False,none,,,,,
 BO0624_B003522,641428,97,94,"IGNOTO di scuola piacentina, Sec. XVI aLa Madonna col Bam-",127,97.3,False,none,,,,,Sec. XVI
 BO0624_B003522,641429,98,8,"bino).Dipinto su tavola, cm.34x 25.",128,97.0,False,none,,,,,
 BO0624_B003522,641430,99,9,"95.ARTE NAPOLETANA del Sec. XVIII αI georgiani .Due statuette scolpite, da Presepe.",129,98.8,False,none,,,,,Sec. XVIII
-BO0624_B003522,641431,100,10,96.ZAMPIERI DoMENIcO detto il Domenichino (Bologna 1851 -Na-,130,97.4,False,none,,Scuola Bolognese,,,Sec. XIX
+BO0624_B003522,641431,100,10,96.ZAMPIERI DoMENIcO detto il Domenichino (Bologna 1851 -Na-,130,97.4,False,none,"DOMENICHINO, ZAMPIERI DOMENICO",Scuola Bolognese,,,Sec. XIX
 BO0624_B003522,641432,101,11,"poli 1641)αUna santa ）.Dipinto su tela,cm. 46×26.",131,96.8,False,none,,,,,Sec. XVII
 BO0624_B003522,641433,102,12,97.IDOLO cINESE scolpito in granito.,132,95.9,False,none,,,,,
 BO0624_B003522,641434,103,98,"SCUOLA BIZANTINA aS. Marco e S. Matteo.Due dipinti su tavola a fondo oro,cm.25x48,ciascuno.",133,98.3,False,none,,,,,
@@ -197,7 +197,7 @@ BO0624_B003522,641526,195,172,"RENI GUID0 (Calvenzano 1575-1642) (La Maddalena.D
 BO0624_B003522,641527,196,11,"173.SALVI GIOVAN BATTISTA detto il Sassoferrato (Sassoferrato 16051685) (La Madonna col Bambino .Dipinto su tela, cm.30x23.",243,98.7,False,none,"SASSOFERRATO, GIOV. BATTISTA SALVI",,,,
 BO0624_B003522,641528,197,12,"174.SCUOLA SPAGNOLA del Sec. XVII aSant'Antonio.Dipinto su tela,cm.98x74.",244,97.9,False,none,,,,,Sec. XVII
 BO0624_B003522,641529,198,13,"175.PROCAccINI GIULI0 CESARE Sec.XVII (Bologna 1548 - Milano 1626) αL'Annunciazione ). Dipinto su tavola, cm. 30x 22.",245,98.6,False,none,PROCACCINI ERCOLE,Scuola Bolognese,,,Sec. XVI
-BO0624_B003522,641530,199,176,"ZAMPIERI DoMENICO detto il Domenichino (Bologna 158l -Na- poli 1641) αFigura femminile ).Dipinto su tela, cm.72x57.",247,67.9,False,none,,Scuola Bolognese,,,Sec. XVII
+BO0624_B003522,641530,199,176,"ZAMPIERI DoMENICO detto il Domenichino (Bologna 158l -Na- poli 1641) αFigura femminile ).Dipinto su tela, cm.72x57.",247,67.9,False,none,"DOMENICHINO, ZAMPIERI DOMENICO",Scuola Bolognese,,,Sec. XVII
 BO0624_B003522,641531,200,177,"SCUOLA BERGAMASCA del Sec.XVII αDonna che legge .Dipinto su tela,cm.60x42.",248,97.3,False,none,,Scuola Bergamasca,,,
 BO0624_B003522,641532,201,178,"SCUOLA LOMBARDA del Sec.XVII aLa testa del Battista.Di pinto su tela,cm.46x60.",249,80.0,False,none,,Scuola Lombarda,,,
 BO0624_B003522,641533,202,179,"SCUoLA TOsCANA del Sec. XVI aLa Sacra Famiglia. Dipinto monocromo,cm.70x51.",251,97.3,False,none,,Scuola Toscana,,,Sec. XVI
@@ -394,7 +394,7 @@ BO0624_B003522,641723,392,66,"SCUOLA BOLOGNESE del Sec. XVII Ecce Homo.Dipinto s
 BO0624_B003522,641724,393,367,BAcILE in maiolica giapponese montato su bronzo.,507,95.9,False,none,,,,,
 BO0624_B003522,641725,394,368,QUATTRO PUTTI. Statuette in legno e marmo scolpito.,508,96.1,False,none,,,,,
 BO0624_B003522,641726,395,369,"SCUOLA EMILIANA del Sec.XVII cVedute architettoniche.Sei dipinti su tela,cm.35x45 ciascuno.",509,97.8,False,none,,Scuola Emiliana,,,
-BO0624_B003522,641727,396,370,"SCUOLA DEL PANNINI (Roma,Sec. XVII) aLa Basilicata di Costantino.Dipinto su tela,cm.59x74.",510,97.7,False,none,,,,,
+BO0624_B003522,641727,396,370,"SCUOLA DEL PANNINI (Roma,Sec. XVII) aLa Basilicata di Costantino.Dipinto su tela,cm.59x74.",510,97.7,False,none,PANNINI GIOVANNI PAOLO,,,,
 BO0624_B003522,641728,397,371,"IGNoTo VENETO del Sec.XVI cFigura femminile.Dipinto ad olio,cm.44x35.",511,97.1,False,none,,,,,
 BO0624_B003522,641729,398,373,"TAPPET0 antico a fondo rosso,cm.105x190.",513,95.1,False,none,,,,,
 BO0624_B003522,641730,399,374,"SCUoLA LOMBARDA del Sec. XVII cS. Antonio. Dipinto su tela, cm. 85x105.",514,97.0,False,none,,Scuola Lombarda,,,Sec. XVII

@@ -12,7 +12,7 @@ BO0624_50114,646411,10,11,IO.,17,57.1,False,positional,,,TABLEAUX,,
 BO0624_50114,646412,11,12,Carlo Crivelli.La Vierge et l'Enfant.,18,96.0,False,positional,,,TABLEAUX,,
 BO0624_50114,646413,12,II,Carlo Crivelli.- Saint Andre.,19,94.5,False,positional,,,TABLEAUX,,
 BO0624_50114,646414,13,14,I2. Ecole de Ghirlandajo. L'adoration du divin Enfant.,20,97.1,False,positional,,Scuola del Ghirlandaio,TABLEAUX,,
-BO0624_50114,646415,14,13,Filippino Lippi. — Le Christ en croix.,21,95.8,False,positional,,,TABLEAUX,,
+BO0624_50114,646415,14,13,Filippino Lippi. — Le Christ en croix.,21,95.8,False,positional,LIPPI FILIPPINO,,TABLEAUX,,
 BO0624_50114,646416,15,16,I4.,22,57.1,False,positional,,,TABLEAUX,,
 BO0624_50114,646417,16,17,"Maitre ombrien, vers 148o. —Le mariage mystique de Sainte Catherine.",23,97.7,False,positional,,Scuola Umbra,TABLEAUX,,
 BO0624_50114,646418,17,18,15.,24,57.1,False,positional,,Scuola Milanese,TABLEAUX,,
@@ -22,7 +22,7 @@ BO0624_50114,646421,20,18,Bernardino Licinio.—Portrait d'un erudit.,28,96.3,Fa
 BO0624_50114,646422,21,19,"- Pietro Marescalco, dit Lo Spada.—Portrait du peintre.",30,100.0,False,positional,,,TABLEAUX,,
 BO0624_50114,646423,22,20,- 21.,32,100.0,False,positional,,,TABLEAUX,,
 BO0624_50114,646424,23,22,Giovanni Antonio da Pordenone. —La Vierge et l'Enfant.,35,97.1,False,positional,,,TABLEAUX,,
-BO0624_50114,646425,24,23,"- Andrea Meldolla, dit Schiavone. Tobie et l'Ange.",37,100.0,False,positional,,,TABLEAUX,,
+BO0624_50114,646425,24,23,"- Andrea Meldolla, dit Schiavone. Tobie et l'Ange.",37,100.0,False,positional,"SCHIAVONE, MELDOLLA ANDREA",,TABLEAUX,,
 BO0624_50114,646426,25,24,- Bernardo Strozzi.-Le Christ et la Samaritaine pres de la citerne.,39,100.0,False,positional,,,TABLEAUX,,
 BO0624_50114,646427,26,25,"Jacopo Robusti, dit le Tintoret.—Portrait d’un gentilhomme",40,97.4,False,positional,TINTORETTO,,TABLEAUX,,
 BO0624_50114,646428,27,26,Benvenuto Tisio dit le Garofalo.Le Christ et MarieMadelaine.,42,97.5,False,positional,,,TABLEAUX,,
@@ -56,36 +56,36 @@ BO0624_50114,646455,54,20,48 Lucas Cranach le Vieux.—Portrait d'un homme barbu
 BO0624_50114,646456,55,49,Lucas Cranach le Vieux.—Lucrece.,78,95.2,False,positional,CRANACH LUCAS,,TABLEAUX,,
 BO0624_50114,646457,56,50,Maitre de l'Allemagne Occidentale de la fin du XVe siecle. —Portement de croix.,79,98.1,False,positional,,,TABLEAUX,,Sec. XV
 BO0624_50114,646458,57,51,- 52.,84,100.0,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646459,58,53,- 54.,86,100.0,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646460,59,55,Pieter Claesz.—— Nature morte.,91,94.5,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646461,60,56,Gerard Dou.— Jeune fille a sa fenetre.,92,95.9,False,positional,DOU GERARD,Ecoles hollandaise et flamande,,,
-BO0624_50114,646462,61,3,57.,93,66.7,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646463,62,4,Anthonie van Dijck.—Portrait de la Marquise de Spinola.,94,98.1,False,positional,VAN DYCK ANTON,Ecoles hollandaise et flamande,,,
-BO0624_50114,646464,63,58,Anthonie van Dijck.La Resurrection du Christ.,95,96.7,False,positional,VAN DYCK ANTON,Ecoles hollandaise et flamande,,,
-BO0624_50114,646465,64,59,Jan Fijt.— Nature morte.,96,93.3,False,positional,FYT JAN,Ecoles hollandaise et flamande,,,
-BO0624_50114,646466,65,7,6o. Jan van Goyen. — Fleuve bordant un paysage.,97,97.7,False,positional,GOYEN JAN VAN,Ecoles hollandaise et flamande,,,
-BO0624_50114,646467,66,61,Jan van Goyen. — Vieille tour et habitation au bord d'un,98,97.2,False,positional,GOYEN JAN VAN,Ecoles hollandaise et flamande,,,
-BO0624_50114,646468,67,9,62.,99,66.7,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646469,68,10,fleuve.,100,80.0,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646470,69,11,Dirk Hals.—La partie de tric-trac.,101,95.5,False,positional,HALS DIRK,Ecoles hollandaise et flamande,,,
-BO0624_50114,646471,70,63,Frans Hals. Portrait d'un jeune homme.,102,96.0,False,positional,HALS FRANS,Ecoles hollandaise et flamande,,,
-BO0624_50114,646472,71,13,64.,103,57.1,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646473,72,14,Willem Claesz. Heda.— Nature morte.,104,95.4,False,positional,HEDA WILLEM CLAESZ,Ecoles hollandaise et flamande,,,
-BO0624_50114,646474,73,15,65.,105,57.1,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646475,74,16,Jan Davidsz de Heem.— Nature morte.,106,95.5,False,positional,DE HEEM JAN DAVIDZ,Ecoles hollandaise et flamande,,,
-BO0624_50114,646476,75,66,Thomas de Keyser.- Portrait d'un notable hollandais.,107,97.0,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646477,76,18,Maitre hollandais.— Portrait d'un jeune homme.,108,96.6,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646478,77,68,Aert van der Neer.—Vue d'hiver.,109,95.1,False,positional,VAN DER NEER A.,Ecoles hollandaise et flamande,,,
-BO0624_50114,646479,78,69,Adriaen van Ostade. Le buveur.,110,94.9,False,positional,ADRIAEN VAN OSTADE,Ecoles hollandaise et flamande,,,
-BO0624_50114,646480,79,21,70.,111,57.1,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646481,80,22,Jurriaen Ovens. —— Portrait d’un jeune homme.,112,96.4,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646482,81,23,7I. Rembrandt. — Portrait d'un syndic de la ville d'Amsterdam.,113,97.4,False,positional,REMBRANDT VAN RIJN,Ecoles hollandaise et flamande,,,
-BO0624_50114,646483,82,24,72.,114,57.1,False,positional,,Ecoles hollandaise et flamande,,,
-BO0624_50114,646484,83,25,Peter Paul Rubens.— Portrait d'un vieillard.,115,96.5,False,positional,RUBENS PETER PAUL,Ecoles hollandaise et flamande,,,
-BO0624_50114,646485,84,26,Peter Paul Rubens. Le char de Phebus. 73.,116,96.2,False,positional,RUBENS PETER PAUL,Ecoles hollandaise et flamande,,,
-BO0624_50114,646486,85,74,Peter Paul Rubens.Portrait de Philippe Rubens.,117,96.8,False,positional,RUBENS PETER PAUL,Ecoles hollandaise et flamande,,,
-BO0624_50114,646487,86,75,Jacob van Ruysdael. - Coteau boise avec chateau fort.,118,97.0,False,positional,RUYSDAEL JACQUES,Ecoles hollandaise et flamande,,,
-BO0624_50114,646488,87,76,Jan Steen.Scene de famille.,119,94.5,False,positional,STEEN JAN,Ecoles hollandaise et flamande,,,
+BO0624_50114,646459,58,53,- 54.,86,100.0,False,none,,,,,
+BO0624_50114,646460,59,55,Pieter Claesz.—— Nature morte.,91,94.5,False,none,,,,,
+BO0624_50114,646461,60,56,Gerard Dou.— Jeune fille a sa fenetre.,92,95.9,False,none,DOU GERARD,,,,
+BO0624_50114,646462,61,3,57.,93,66.7,False,none,,,,,
+BO0624_50114,646463,62,4,Anthonie van Dijck.—Portrait de la Marquise de Spinola.,94,98.1,False,none,VAN DYCK ANTON,,,,
+BO0624_50114,646464,63,58,Anthonie van Dijck.La Resurrection du Christ.,95,96.7,False,none,VAN DYCK ANTON,,,,
+BO0624_50114,646465,64,59,Jan Fijt.— Nature morte.,96,93.3,False,none,FYT JAN,,,,
+BO0624_50114,646466,65,7,6o. Jan van Goyen. — Fleuve bordant un paysage.,97,97.7,False,none,GOYEN JAN VAN,,,,
+BO0624_50114,646467,66,61,Jan van Goyen. — Vieille tour et habitation au bord d'un,98,97.2,False,none,GOYEN JAN VAN,,,,
+BO0624_50114,646468,67,9,62.,99,66.7,False,none,,,,,
+BO0624_50114,646469,68,10,fleuve.,100,80.0,False,none,,,,,
+BO0624_50114,646470,69,11,Dirk Hals.—La partie de tric-trac.,101,95.5,False,none,HALS DIRK,,,,
+BO0624_50114,646471,70,63,Frans Hals. Portrait d'un jeune homme.,102,96.0,False,none,HALS FRANS,,,,
+BO0624_50114,646472,71,13,64.,103,57.1,False,none,,,,,
+BO0624_50114,646473,72,14,Willem Claesz. Heda.— Nature morte.,104,95.4,False,none,HEDA WILLEM CLAESZ,,,,
+BO0624_50114,646474,73,15,65.,105,57.1,False,none,,,,,
+BO0624_50114,646475,74,16,Jan Davidsz de Heem.— Nature morte.,106,95.5,False,none,DE HEEM JAN DAVIDZ,,,,
+BO0624_50114,646476,75,66,Thomas de Keyser.- Portrait d'un notable hollandais.,107,97.0,False,none,,,,,
+BO0624_50114,646477,76,18,Maitre hollandais.— Portrait d'un jeune homme.,108,96.6,False,none,,,,,
+BO0624_50114,646478,77,68,Aert van der Neer.—Vue d'hiver.,109,95.1,False,none,VAN DER NEER A.,,,,
+BO0624_50114,646479,78,69,Adriaen van Ostade. Le buveur.,110,94.9,False,none,ADRIAEN VAN OSTADE,,,,
+BO0624_50114,646480,79,21,70.,111,57.1,False,none,,,,,
+BO0624_50114,646481,80,22,Jurriaen Ovens. —— Portrait d’un jeune homme.,112,96.4,False,none,,,,,
+BO0624_50114,646482,81,23,7I. Rembrandt. — Portrait d'un syndic de la ville d'Amsterdam.,113,97.4,False,none,REMBRANDT VAN RIJN,,,,
+BO0624_50114,646483,82,24,72.,114,57.1,False,none,,,,,
+BO0624_50114,646484,83,25,Peter Paul Rubens.— Portrait d'un vieillard.,115,96.5,False,none,RUBENS PETER PAUL,Scuola di Rubens,,,
+BO0624_50114,646485,84,26,Peter Paul Rubens. Le char de Phebus. 73.,116,96.2,False,none,RUBENS PETER PAUL,Scuola di Rubens,,,
+BO0624_50114,646486,85,74,Peter Paul Rubens.Portrait de Philippe Rubens.,117,96.8,False,none,RUBENS PETER PAUL,Scuola di Rubens,,,
+BO0624_50114,646487,86,75,Jacob van Ruysdael. - Coteau boise avec chateau fort.,118,97.0,False,none,RUYSDAEL JACQUES,,,,
+BO0624_50114,646488,87,76,Jan Steen.Scene de famille.,119,94.5,False,none,STEEN JAN,,,,
 BO0624_50114,646489,88,78,"78. Ecole Bolonaise, XIVe siecle. Grand,R' historie representant La Resurrection.",124,100.0,False,positional,,Scuola Bolognese,MINIATURES; DESSINS,,Sec. XIV
 BO0624_50114,646490,89,79,- Francesco Guardi. Vue de Venise.,126,100.0,False,positional,GUARDI FRANCESCO,,MINIATURES; DESSINS,,
 BO0624_50114,646491,90,80,Giovanni Battista Tiepolo.La fuite en Egypte.,127,96.7,False,positional,TIEPOLO DOMENICO,,MINIATURES; DESSINS,,
@@ -150,132 +150,132 @@ BO0624_50114,646549,148,130,La Source.,212,81.8,False,positional,,,SCULPTURES,,
 BO0624_50114,646550,149,I31,.Maitre allemand du XVIIe siecle. Dedale laissant fuir,214,96.3,False,positional,,,SCULPTURES,,Sec. XVII
 BO0624_50114,646551,150,I,care.——Marbre blanc.,215,97.1,False,positional,,,SCULPTURES,,
 BO0624_50114,646552,151,132,"Meuble a deux corps en noyer, entierement sculpte.Travail francais (Bourgogne) vers 16oo.",221,97.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646553,152,133,"Meuble a deux corps, ayant chacun deux portes et deux tiroirs en noyer.— Travail francais (lle-de-France) de la seconde moitie du XVIe siecle.",222,98.6,False,positional,,Renaissance italienne,OGGETTI VARI,,Sec. XVI
-BO0624_50114,646554,153,134,"Meuble a deux corps en noyer, chacun a deux portes. Travail italien du XVIe siecle.",223,73.7,False,positional,,Renaissance italienne,OGGETTI VARI,,Sec. XVI
-BO0624_50114,646555,154,135,"Meuble a deux corps, ayant chacun deux portes ornees de trois cariatides. En noyer.— Travail francais (Lyon) vers 1600.",225,98.2,False,positional,,Renaissance italienne,OGGETTI VARI,,Sec. XVII
-BO0624_50114,646556,155,6,"I36. Cabinet en noyer sculpte, a deux corps.  Meuble ligurien, du XVIe siecle.",226,98.6,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646557,156,7,"137.Petite armoire en noyer, — Travail francais du XVIe siecle.",227,98.3,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646558,157,138,Dressoir en noyer.— Travail toscan de la seconde moitie du XVIe siecle.,228,97.1,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646559,158,139,"Dressoir en bois de sapin, a deux portes et deux tiroirs. Meuble italien du XVIe siecle.",229,76.4,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,Sec. XVI
-BO0624_50114,646560,159,140,Cabinet en noyer.— Travail florentin du XVIe siecle.,231,96.1,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646561,160,5,141.,232,75.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646562,161,6,Petit cabinet en noyer sculpte.-Travail de l'Italie du Nord du XVIe siecle.,233,98.6,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646563,162,7,I42.,234,75.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646564,163,8,Grand bahut en noyer.— Travail toscan de la seconde moitie du XVIe siecle.,235,98.6,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646565,164,9,"I43. Coffre en noyer, sculpte et avec restes de dorure et de polychromie.—Travail venitien de la premiere moitie du XVIe siecle.",236,99.2,False,positional,,Renaissance italienne,BAULI,,Sec. XVI
-BO0624_50114,646566,165,10,144.,237,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646567,166,11,Grand coffre en bois peint polychrome et dore. — Meuble de l'Italie du Nord de la seconde moitie du XVe siecle. (Ferrare).,238,98.7,False,positional,,Renaissance italienne,BAULI,,Sec. XV
-BO0624_50114,646568,167,12,I45.,239,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646569,168,13,Coffre en bois peint polychrome aux armes de la famille florentine Morelli. Travail florentin de la premiere moitie du XVe siecle.,240,98.8,False,positional,,Renaissance italienne,BAULI,,Sec. XV
-BO0624_50114,646570,169,146,Coffre en bois peint polychrome.—Travail florentin de la,241,96.5,False,positional,,Renaissance italienne,BAULI,,
-BO0624_50114,646571,170,15,premiere moitie du XVe siecle.,242,95.1,False,positional,,Renaissance italienne,,,Sec. XV
-BO0624_50114,646572,171,16,I47. Coffre en noyer.Travail florentin vers. 150o.,243,96.9,False,positional,,Renaissance italienne,BAULI,,
-BO0624_50114,646573,172,148,Coffre faisant pendant a celui du numero precedent.,244,96.2,False,positional,,Renaissance italienne,BAULI,,
-BO0624_50114,646574,173,149,"Coffre en noyer a devant bombe et sur base contournee. Travail romain, vers 1540. Coffre en bois peint polychrome avec monture de bandes",245,72.6,False,positional,,Renaissance italienne,BAULI,,Sec. XVI
-BO0624_50114,646575,174,150,"en fer.—Florence, vers 1450.",247,92.6,False,positional,,Renaissance italienne,,,Sec. XV
-BO0624_50114,646576,175,151,Grand coffre en bois plaque de stuc dore.—Travail de Sienne de la fin du XIVe siecle.,248,73.9,False,positional,,Renaissance italienne,BAULI,,Sec. XIV
-BO0624_50114,646577,176,152,"Coffre en noyer, a devant bombe a decor peint en noir de rinceaux et a l'embleme des Medicis.Travail florentin de la fin du XVIe siecle.",250,98.5,False,positional,,Renaissance italienne,BAULI,,Sec. XVI
-BO0624_50114,646578,177,153,"Coffre en bois a decor dore et restes de polychromie. Travail venitien, vers 1550.",251,97.5,False,positional,,Renaissance italienne,BAULI,,Sec. XVI
-BO0624_50114,646579,178,3,154.,252,75.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646580,179,4,"Coffre orne d'une frise sculptee et doree. — Travail venitien, vers 1550.",253,98.6,False,positional,,Renaissance italienne,BAULI,,Sec. XVI
-BO0624_50114,646581,180,5,"Devant de bahut, en bois plaque de stuc dore en relief.",254,98.1,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,
-BO0624_50114,646582,181,155,"Travail de Toscane, vers 1400.",255,93.3,False,positional,,Renaissance italienne,,,Sec. XV
-BO0624_50114,646583,182,156,"Petit coffre en bois,a couverclebombe,entierement recouvert de cuir brun cloue et orne de clous en cuivre. Travail espagnol du XVIIe siecle.",256,98.6,False,positional,,Renaissance italienne,BAULI,,Sec. XVII
-BO0624_50114,646584,183,157,Coffret en noyer. Travail florentin de la moitie du XVIe siecle.,257,86.2,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646585,184,158,"Coffret en noyer.— Travail genois, vers 1575",259,95.3,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646586,185,11,159.,260,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646587,186,12,"Coffret en noyer.—Travail florentin, vers 1550.",261,96.7,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646588,187,160,Coffret en noyer. Travail italien du XVIe siecle.,262,95.9,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646589,188,14,161.,263,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646590,189,15,"Coffret en noyer. Travail florentin, vers 1550.",264,96.7,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646591,190,162,Tres grande table en noyer.— Meuble florentin du XVIe siecle.,265,96.7,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646592,191,163,Grande table en noyer.Travail de 1'Italie du Nord(Venise ?),266,96.6,False,positional,,Renaissance italienne,,,
-BO0624_50114,646593,192,18,164.,267,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646594,193,19,vers 1600.,268,85.7,False,positional,,Renaissance italienne,,,Sec. XVII
-BO0624_50114,646595,194,20,"Grande table en bois. Travail italien, vers 16o0.",269,96.8,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,
-BO0624_50114,646596,195,21,165.,270,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646597,196,22,Grande table en noyer. -- Travail florentin du XVIe siecle.,271,97.3,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646598,197,23,166.,272,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646599,198,24,"Grande table en noyer sur quatre pieds munis d'entrejambes. Travail italien, vers 1600.",273,98.2,False,positional,,Renaissance italienne,,,Sec. XVII
-BO0624_50114,646600,199,167,"Table a hauteur d’appui,en noyer.Travail toscan du commencement du XVIe siecle.",274,75.8,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646601,200,168,Table en noyer sur quatre pieds torses en treteau.— Travail,276,96.6,False,positional,,Renaissance italienne,,,
-BO0624_50114,646602,201,2,espagnol de la fin du XVIe siecle.,277,97.1,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646603,202,3,"Table en noyer, dite de percepteur, sur deux supports.—",278,98.1,False,positional,,Renaissance italienne,,,
-BO0624_50114,646604,203,169,Travail italien de XVIe siecle. Suite de quatre fauteuils en noyer.— Travail italien du,280,77.7,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646605,204,170,XVIe siecle.,281,84.6,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646606,205,7,I7I.,282,75.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646607,206,8,Suite de trois fauteuils en noyer. — Travail italien du XVIe siecle.,283,98.5,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646608,207,9,I72. Une paire de grands fauteuils en noyer.— Travail italien du XVIe siecle.,284,98.6,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646609,208,10,I73. Une paire de fauteuils en noyer.-Travail italien de la fin du XVIe siecle.,285,98.1,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646610,209,11,I74. Une paire de fauteuils en noyer.- Travail italien de la fin du XVIe siecle.,286,98.1,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646611,210,12,175.,287,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646612,211,13,"Fauteuil pliant en X, dit Savonarole, en noyer. —— Travail italien,vers 1500.",288,97.9,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646613,212,14,176.,289,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646614,213,15,"Fauteuil pliant en X, dit Savonarole.- Italie du Nord, commencement du XVIe siecle.",290,98.1,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646615,214,16,"Fauteuil pliant en X, dit Savonarole, en noyer. — Travail",291,97.2,False,positional,,Renaissance italienne,SCOMPARTI,,
-BO0624_50114,646616,215,177,italien du XVIe siecle.,292,91.7,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646617,216,178,Grand fauteuil en noyer. - Travail italien du XVIe siecle.,293,96.4,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646618,217,179,Fauteuil en noyer. - Travail italien du XVIe siecle.,294,96.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646619,218,180,Fauteuil en noyer.Travail italien du XVIe siecle.,295,96.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646620,219,21,181.,296,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646621,220,22,Fauteuil en noyer.— Travail italien du XVIe siecle.,297,97.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646622,221,182,Fauteuil en noyer. - Travail italien du XVIe siecle.,298,96.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646623,222,183,Fauteuil en noyer.- Travail italien du XVIe siecle.,299,96.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646624,223,25,184.Fauteuil en noyer. — Travail italien du XVIe siecle.,300,97.2,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646625,224,185,Fauteuil en noyer.— Travail italien du XVIe siecle.,301,96.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646626,225,186,Fauteuil en noyer.  Travail italien du XVIe siecle.,302,96.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646627,226,3,Fauteuil en noyer. —Travail italien du XVIe siecle.,303,98.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646628,227,4,187.,304,75.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646629,228,188,Fauteuil en noyer.—Travail italien du XVIe siecle.,305,96.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646630,229,6,189.,306,75.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646631,230,7,Fauteuil en noyer.—Travail italien de la seconde moitie du XVIe siecle.,307,98.6,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646632,231,8,190.,308,75.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646633,232,9,Fauteuil en noyer.- Travail italien de la fin du XVIe siecle.,309,98.3,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646634,233,10,191.,310,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646635,234,11,Fauteuil en noyer. — Travail italien du XVIe siecle.,311,97.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646636,235,192,"Fauteuil en noyer.— Travail italien, vers 16oo.",312,95.6,False,positional,,Renaissance italienne,SCOMPARTI,,
-BO0624_50114,646637,236,193,"Fauteuil en noyer. —— Travail italien, vers 1600.",313,95.6,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVII
-BO0624_50114,646638,237,194,Fauteuil en noyer.— Travail de la fin du XVIe siecle.,314,96.2,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646639,238,195,Fauteuil en noyer.Travail italien de la fin du XVIe siecle.,315,96.7,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646640,239,16,196.,316,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646641,240,17,Fauteuil en noyer.— Travail italien du XVIe siecle.,317,97.0,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646642,241,197,Fauteuil a peu pres pareil.,318,92.9,False,positional,,Renaissance italienne,SCOMPARTI,,
-BO0624_50114,646643,242,19,198.,319,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646644,243,20,"Fauteuil d'eveque, en fer forge avec accoudoirs en cuivre. Travail italien du XVIe siecle.",320,98.3,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVI
-BO0624_50114,646645,244,21,199.,321,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646646,245,22,200.,322,66.7,False,positional,,Renaissance italienne,,,
-BO0624_50114,646647,246,23,Fauteuil en noyer entierement sculpte.— Travail florentin du XVIIe siecle.,323,97.9,False,positional,,Renaissance italienne,SCOMPARTI,,Sec. XVII
-BO0624_50114,646648,247,24,Fauteuil entierement en noyer.— Travail italien du XVIe'siecle.,324,97.6,False,positional,,Renaissance italienne,SCOMPARTI,,
-BO0624_50114,646649,248,201,Chaise en noyer.-Travail de I'Italie du Nord du XVIe siecle.,325,96.7,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646650,249,202,Chaise presque pareille.,326,92.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646651,250,203,"Trois chaises en bois sculpte, sur quatre pieds cambres. —XVIIIe siecle.",327,85.7,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,
-BO0624_50114,646652,251,204,- Tabouret en bois sculpte sur quatre pieds cambres.— XVIlIe siecle.,332,100.0,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,
-BO0624_50114,646653,252,205,- Petite table a dessus ovale couvert en tapisserie.-XVIlIe siecle.,334,100.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646654,253,206,"2o9. Quatre chaises a haut dos. En noyer. ——Italie du Nord, de la fin du XVIe siecle.—Par piece.",335,97.8,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646655,254,210,- Une paire d'escabelles en noyer.-Travail toscan de la fin du XVIe siecle.,337,100.0,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646656,255,2,II.,338,80.0,False,positional,BRUEGEL JAN IL GIOVANE,Renaissance italienne,,,
-BO0624_50114,646657,256,212,- Escabelle en noyer. — Travail toscan du XVIe siecle.,340,100.0,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646658,257,213,Escabelle en noyer.— Travail toscan du XVIe siecle.,341,100.0,False,positional,,Renaissance italienne,,,Sec. XVI
-BO0624_50114,646659,258,214,Escabelle en noyer. — Travail italien de la fin du XVe siecle.,343,96.7,False,positional,,Renaissance italienne,,,Sec. XV
-BO0624_50114,646660,259,215,Escabelle en noyer. Travail italien de la fin du XVe siecle.,344,96.7,False,positional,,Renaissance italienne,,,Sec. XV
-BO0624_50114,646661,260,216,Escabelle en noyer a support de devant cordiforme.,345,96.1,False,positional,,Renaissance italienne,,,
-BO0624_50114,646662,261,2,I7.,348,80.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646663,262,218,Piedestal en noyer.Travail italien du XVIIe siecle.,349,96.2,False,positional,,Renaissance italienne,,,Sec. XVII
-BO0624_50114,646664,263,220,"Grand canape a joues, sur huit pieds, en bois sculpte et dore, recouvert en tapisserie. ——Le bois est moderne.—Louis XV.",354,98.2,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,
-BO0624_50114,646665,264,221,"Une paire de fauteuils en noyer sculpte et dore, recouverts en tapisserie.——Le bois est moderne.——Louis XV.",355,98.1,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,
-BO0624_50114,646666,265,222,"Une paire de fauteuils en bois sculpte et dore,recouverts en tapisserie.—Le bois est moderne.——Louis XV. siecle.",356,94.8,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,Sec. XV
-BO0624_50114,646667,266,223,Fauteuil en bois sculpte a motifs feuillus. — Louis XV.,358,96.2,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,
-BO0624_50114,646668,267,2,224.,359,75.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646669,268,3,Fauteuil en noyer sculpte. Louis XV.,360,97.1,False,positional,,Renaissance italienne,SCOMPARTI,,
-BO0624_50114,646670,269,4,"Armoire a une porte pleine, de forme contournee. En bois",361,98.2,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,
-BO0624_50114,646671,270,225,de rose.—— Style Regence.,362,91.3,False,positional,,Renaissance italienne,,,
-BO0624_50114,646672,271,6,226.,363,75.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646673,272,7,Bureau de dame.— En bois de rose.- Louis XV.,364,97.5,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,
-BO0624_50114,646674,273,8,227.,365,75.0,False,positional,,Renaissance italienne,,,
-BO0624_50114,646675,274,9,"Petite table de toilette en bois de rose. — Travail francais, Louis XV.",366,98.5,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,
-BO0624_50114,646676,275,228,Petite table en acajou.— Travail autrichien de la fin du XVIlIe siecle.,367,85.7,False,positional,,Renaissance italienne,ACQUEFORTI,,
-BO0624_50114,646677,276,229,Petite table a quatre faces et a dessus en laque doree. En,369,96.6,False,positional,,Renaissance italienne,,,
-BO0624_50114,646678,277,13,bois noir. — XIXe siecle.,370,93.3,False,positional,,Renaissance italienne,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_50114,646553,152,133,"Meuble a deux corps, ayant chacun deux portes et deux tiroirs en noyer.— Travail francais (lle-de-France) de la seconde moitie du XVIe siecle.",222,98.6,False,none,,,OGGETTI VARI,,Sec. XVI
+BO0624_50114,646554,153,134,"Meuble a deux corps en noyer, chacun a deux portes. Travail italien du XVIe siecle.",223,73.7,False,none,,,OGGETTI VARI,,Sec. XVI
+BO0624_50114,646555,154,135,"Meuble a deux corps, ayant chacun deux portes ornees de trois cariatides. En noyer.— Travail francais (Lyon) vers 1600.",225,98.2,False,none,,,OGGETTI VARI,,Sec. XVII
+BO0624_50114,646556,155,6,"I36. Cabinet en noyer sculpte, a deux corps.  Meuble ligurien, du XVIe siecle.",226,98.6,False,none,,,,,Sec. XVI
+BO0624_50114,646557,156,7,"137.Petite armoire en noyer, — Travail francais du XVIe siecle.",227,98.3,False,none,,,,,Sec. XVI
+BO0624_50114,646558,157,138,Dressoir en noyer.— Travail toscan de la seconde moitie du XVIe siecle.,228,97.1,False,none,,,,,Sec. XVI
+BO0624_50114,646559,158,139,"Dressoir en bois de sapin, a deux portes et deux tiroirs. Meuble italien du XVIe siecle.",229,76.4,False,none,,,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_50114,646560,159,140,Cabinet en noyer.— Travail florentin du XVIe siecle.,231,96.1,False,none,,,,,Sec. XVI
+BO0624_50114,646561,160,5,141.,232,75.0,False,none,,,,,
+BO0624_50114,646562,161,6,Petit cabinet en noyer sculpte.-Travail de l'Italie du Nord du XVIe siecle.,233,98.6,False,none,,,,,Sec. XVI
+BO0624_50114,646563,162,7,I42.,234,75.0,False,none,,,,,
+BO0624_50114,646564,163,8,Grand bahut en noyer.— Travail toscan de la seconde moitie du XVIe siecle.,235,98.6,False,none,,,,,Sec. XVI
+BO0624_50114,646565,164,9,"I43. Coffre en noyer, sculpte et avec restes de dorure et de polychromie.—Travail venitien de la premiere moitie du XVIe siecle.",236,99.2,False,none,,,BAULI,,Sec. XVI
+BO0624_50114,646566,165,10,144.,237,66.7,False,none,,,,,
+BO0624_50114,646567,166,11,Grand coffre en bois peint polychrome et dore. — Meuble de l'Italie du Nord de la seconde moitie du XVe siecle. (Ferrare).,238,98.7,False,none,,,BAULI,,Sec. XV
+BO0624_50114,646568,167,12,I45.,239,66.7,False,none,,,,,
+BO0624_50114,646569,168,13,Coffre en bois peint polychrome aux armes de la famille florentine Morelli. Travail florentin de la premiere moitie du XVe siecle.,240,98.8,False,none,,Scuola Fiorentina,BAULI,,Sec. XV
+BO0624_50114,646570,169,146,Coffre en bois peint polychrome.—Travail florentin de la,241,96.5,False,none,,,BAULI,,
+BO0624_50114,646571,170,15,premiere moitie du XVe siecle.,242,95.1,False,none,,,,,Sec. XV
+BO0624_50114,646572,171,16,I47. Coffre en noyer.Travail florentin vers. 150o.,243,96.9,False,none,,,BAULI,,
+BO0624_50114,646573,172,148,Coffre faisant pendant a celui du numero precedent.,244,96.2,False,none,,,BAULI,,
+BO0624_50114,646574,173,149,"Coffre en noyer a devant bombe et sur base contournee. Travail romain, vers 1540. Coffre en bois peint polychrome avec monture de bandes",245,72.6,False,none,,,BAULI,,Sec. XVI
+BO0624_50114,646575,174,150,"en fer.—Florence, vers 1450.",247,92.6,False,none,,,,,Sec. XV
+BO0624_50114,646576,175,151,Grand coffre en bois plaque de stuc dore.—Travail de Sienne de la fin du XIVe siecle.,248,73.9,False,none,,,BAULI,,Sec. XIV
+BO0624_50114,646577,176,152,"Coffre en noyer, a devant bombe a decor peint en noir de rinceaux et a l'embleme des Medicis.Travail florentin de la fin du XVIe siecle.",250,98.5,False,none,,,BAULI,,Sec. XVI
+BO0624_50114,646578,177,153,"Coffre en bois a decor dore et restes de polychromie. Travail venitien, vers 1550.",251,97.5,False,none,,,BAULI,,Sec. XVI
+BO0624_50114,646579,178,3,154.,252,75.0,False,none,,,,,
+BO0624_50114,646580,179,4,"Coffre orne d'une frise sculptee et doree. — Travail venitien, vers 1550.",253,98.6,False,none,,,BAULI,,Sec. XVI
+BO0624_50114,646581,180,5,"Devant de bahut, en bois plaque de stuc dore en relief.",254,98.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_50114,646582,181,155,"Travail de Toscane, vers 1400.",255,93.3,False,none,,,,,Sec. XV
+BO0624_50114,646583,182,156,"Petit coffre en bois,a couverclebombe,entierement recouvert de cuir brun cloue et orne de clous en cuivre. Travail espagnol du XVIIe siecle.",256,98.6,False,none,,,BAULI,,Sec. XVII
+BO0624_50114,646584,183,157,Coffret en noyer. Travail florentin de la moitie du XVIe siecle.,257,86.2,False,none,,,,,Sec. XVI
+BO0624_50114,646585,184,158,"Coffret en noyer.— Travail genois, vers 1575",259,95.3,False,none,,,,,Sec. XVI
+BO0624_50114,646586,185,11,159.,260,66.7,False,none,,,,,
+BO0624_50114,646587,186,12,"Coffret en noyer.—Travail florentin, vers 1550.",261,96.7,False,none,,,,,Sec. XVI
+BO0624_50114,646588,187,160,Coffret en noyer. Travail italien du XVIe siecle.,262,95.9,False,none,,,,,Sec. XVI
+BO0624_50114,646589,188,14,161.,263,66.7,False,none,,,,,
+BO0624_50114,646590,189,15,"Coffret en noyer. Travail florentin, vers 1550.",264,96.7,False,none,,,,,Sec. XVI
+BO0624_50114,646591,190,162,Tres grande table en noyer.— Meuble florentin du XVIe siecle.,265,96.7,False,none,,,,,Sec. XVI
+BO0624_50114,646592,191,163,Grande table en noyer.Travail de 1'Italie du Nord(Venise ?),266,96.6,False,none,,,,,
+BO0624_50114,646593,192,18,164.,267,66.7,False,none,,,,,
+BO0624_50114,646594,193,19,vers 1600.,268,85.7,False,none,,Scuola Veneziana,,,Sec. XVII
+BO0624_50114,646595,194,20,"Grande table en bois. Travail italien, vers 16o0.",269,96.8,False,none,,,OGGETTI IN LEGNO,,
+BO0624_50114,646596,195,21,165.,270,66.7,False,none,,,,,
+BO0624_50114,646597,196,22,Grande table en noyer. -- Travail florentin du XVIe siecle.,271,97.3,False,none,,,,,Sec. XVI
+BO0624_50114,646598,197,23,166.,272,66.7,False,none,,,,,
+BO0624_50114,646599,198,24,"Grande table en noyer sur quatre pieds munis d'entrejambes. Travail italien, vers 1600.",273,98.2,False,none,,,,,Sec. XVII
+BO0624_50114,646600,199,167,"Table a hauteur d’appui,en noyer.Travail toscan du commencement du XVIe siecle.",274,75.8,False,none,,,,,Sec. XVI
+BO0624_50114,646601,200,168,Table en noyer sur quatre pieds torses en treteau.— Travail,276,96.6,False,none,,,,,
+BO0624_50114,646602,201,2,espagnol de la fin du XVIe siecle.,277,97.1,False,none,,,,,Sec. XVI
+BO0624_50114,646603,202,3,"Table en noyer, dite de percepteur, sur deux supports.—",278,98.1,False,none,,,,,
+BO0624_50114,646604,203,169,Travail italien de XVIe siecle. Suite de quatre fauteuils en noyer.— Travail italien du,280,77.7,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646605,204,170,XVIe siecle.,281,84.6,False,none,,Scuola di Lione,,,Sec. XVI
+BO0624_50114,646606,205,7,I7I.,282,75.0,False,none,,,,,
+BO0624_50114,646607,206,8,Suite de trois fauteuils en noyer. — Travail italien du XVIe siecle.,283,98.5,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646608,207,9,I72. Une paire de grands fauteuils en noyer.— Travail italien du XVIe siecle.,284,98.6,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646609,208,10,I73. Une paire de fauteuils en noyer.-Travail italien de la fin du XVIe siecle.,285,98.1,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646610,209,11,I74. Une paire de fauteuils en noyer.- Travail italien de la fin du XVIe siecle.,286,98.1,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646611,210,12,175.,287,66.7,False,none,,,,,
+BO0624_50114,646612,211,13,"Fauteuil pliant en X, dit Savonarole, en noyer. —— Travail italien,vers 1500.",288,97.9,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646613,212,14,176.,289,66.7,False,none,,,,,
+BO0624_50114,646614,213,15,"Fauteuil pliant en X, dit Savonarole.- Italie du Nord, commencement du XVIe siecle.",290,98.1,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646615,214,16,"Fauteuil pliant en X, dit Savonarole, en noyer. — Travail",291,97.2,False,none,,,SCOMPARTI,,
+BO0624_50114,646616,215,177,italien du XVIe siecle.,292,91.7,False,none,,,,,Sec. XVI
+BO0624_50114,646617,216,178,Grand fauteuil en noyer. - Travail italien du XVIe siecle.,293,96.4,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646618,217,179,Fauteuil en noyer. - Travail italien du XVIe siecle.,294,96.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646619,218,180,Fauteuil en noyer.Travail italien du XVIe siecle.,295,96.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646620,219,21,181.,296,66.7,False,none,,,,,
+BO0624_50114,646621,220,22,Fauteuil en noyer.— Travail italien du XVIe siecle.,297,97.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646622,221,182,Fauteuil en noyer. - Travail italien du XVIe siecle.,298,96.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646623,222,183,Fauteuil en noyer.- Travail italien du XVIe siecle.,299,96.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646624,223,25,184.Fauteuil en noyer. — Travail italien du XVIe siecle.,300,97.2,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646625,224,185,Fauteuil en noyer.— Travail italien du XVIe siecle.,301,96.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646626,225,186,Fauteuil en noyer.  Travail italien du XVIe siecle.,302,96.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646627,226,3,Fauteuil en noyer. —Travail italien du XVIe siecle.,303,98.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646628,227,4,187.,304,75.0,False,none,,,,,
+BO0624_50114,646629,228,188,Fauteuil en noyer.—Travail italien du XVIe siecle.,305,96.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646630,229,6,189.,306,75.0,False,none,,,,,
+BO0624_50114,646631,230,7,Fauteuil en noyer.—Travail italien de la seconde moitie du XVIe siecle.,307,98.6,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646632,231,8,190.,308,75.0,False,none,,,,,
+BO0624_50114,646633,232,9,Fauteuil en noyer.- Travail italien de la fin du XVIe siecle.,309,98.3,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646634,233,10,191.,310,66.7,False,none,,,,,
+BO0624_50114,646635,234,11,Fauteuil en noyer. — Travail italien du XVIe siecle.,311,97.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646636,235,192,"Fauteuil en noyer.— Travail italien, vers 16oo.",312,95.6,False,none,,,SCOMPARTI,,
+BO0624_50114,646637,236,193,"Fauteuil en noyer. —— Travail italien, vers 1600.",313,95.6,False,none,,,SCOMPARTI,,Sec. XVII
+BO0624_50114,646638,237,194,Fauteuil en noyer.— Travail de la fin du XVIe siecle.,314,96.2,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646639,238,195,Fauteuil en noyer.Travail italien de la fin du XVIe siecle.,315,96.7,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646640,239,16,196.,316,66.7,False,none,,,,,
+BO0624_50114,646641,240,17,Fauteuil en noyer.— Travail italien du XVIe siecle.,317,97.0,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646642,241,197,Fauteuil a peu pres pareil.,318,92.9,False,none,,,SCOMPARTI,,
+BO0624_50114,646643,242,19,198.,319,66.7,False,none,,,,,
+BO0624_50114,646644,243,20,"Fauteuil d'eveque, en fer forge avec accoudoirs en cuivre. Travail italien du XVIe siecle.",320,98.3,False,none,,,SCOMPARTI,,Sec. XVI
+BO0624_50114,646645,244,21,199.,321,66.7,False,none,,,,,
+BO0624_50114,646646,245,22,200.,322,66.7,False,none,,,,,
+BO0624_50114,646647,246,23,Fauteuil en noyer entierement sculpte.— Travail florentin du XVIIe siecle.,323,97.9,False,none,,,SCOMPARTI,,Sec. XVII
+BO0624_50114,646648,247,24,Fauteuil entierement en noyer.— Travail italien du XVIe'siecle.,324,97.6,False,none,,,SCOMPARTI,,
+BO0624_50114,646649,248,201,Chaise en noyer.-Travail de I'Italie du Nord du XVIe siecle.,325,96.7,False,none,,,,,Sec. XVI
+BO0624_50114,646650,249,202,Chaise presque pareille.,326,92.0,False,none,,,,,
+BO0624_50114,646651,250,203,"Trois chaises en bois sculpte, sur quatre pieds cambres. —XVIIIe siecle.",327,85.7,False,none,,,OGGETTI IN LEGNO,,
+BO0624_50114,646652,251,204,- Tabouret en bois sculpte sur quatre pieds cambres.— XVIlIe siecle.,332,100.0,False,none,,,OGGETTI IN LEGNO,,
+BO0624_50114,646653,252,205,- Petite table a dessus ovale couvert en tapisserie.-XVIlIe siecle.,334,100.0,False,none,,,,,
+BO0624_50114,646654,253,206,"2o9. Quatre chaises a haut dos. En noyer. ——Italie du Nord, de la fin du XVIe siecle.—Par piece.",335,97.8,False,none,,,,,Sec. XVI
+BO0624_50114,646655,254,210,- Une paire d'escabelles en noyer.-Travail toscan de la fin du XVIe siecle.,337,100.0,False,none,,,,,Sec. XVI
+BO0624_50114,646656,255,2,II.,338,80.0,False,none,BRUEGEL JAN IL GIOVANE,,,,
+BO0624_50114,646657,256,212,- Escabelle en noyer. — Travail toscan du XVIe siecle.,340,100.0,False,none,,,,,Sec. XVI
+BO0624_50114,646658,257,213,Escabelle en noyer.— Travail toscan du XVIe siecle.,341,100.0,False,none,,,,,Sec. XVI
+BO0624_50114,646659,258,214,Escabelle en noyer. — Travail italien de la fin du XVe siecle.,343,96.7,False,none,,,,,Sec. XV
+BO0624_50114,646660,259,215,Escabelle en noyer. Travail italien de la fin du XVe siecle.,344,96.7,False,none,,,,,Sec. XV
+BO0624_50114,646661,260,216,Escabelle en noyer a support de devant cordiforme.,345,96.1,False,none,,,,,
+BO0624_50114,646662,261,2,I7.,348,80.0,False,none,,,,,
+BO0624_50114,646663,262,218,Piedestal en noyer.Travail italien du XVIIe siecle.,349,96.2,False,none,,,,,Sec. XVII
+BO0624_50114,646664,263,220,"Grand canape a joues, sur huit pieds, en bois sculpte et dore, recouvert en tapisserie. ——Le bois est moderne.—Louis XV.",354,98.2,False,none,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
+BO0624_50114,646665,264,221,"Une paire de fauteuils en noyer sculpte et dore, recouverts en tapisserie.——Le bois est moderne.——Louis XV.",355,98.1,False,none,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
+BO0624_50114,646666,265,222,"Une paire de fauteuils en bois sculpte et dore,recouverts en tapisserie.—Le bois est moderne.——Louis XV. siecle.",356,94.8,False,none,,Periodo di Luigi XV,OGGETTI IN LEGNO,,Sec. XV
+BO0624_50114,646667,266,223,Fauteuil en bois sculpte a motifs feuillus. — Louis XV.,358,96.2,False,none,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
+BO0624_50114,646668,267,2,224.,359,75.0,False,none,,,,,
+BO0624_50114,646669,268,3,Fauteuil en noyer sculpte. Louis XV.,360,97.1,False,none,,Periodo di Luigi XV,SCOMPARTI,,
+BO0624_50114,646670,269,4,"Armoire a une porte pleine, de forme contournee. En bois",361,98.2,False,none,,,OGGETTI IN LEGNO,,
+BO0624_50114,646671,270,225,de rose.—— Style Regence.,362,91.3,False,none,,,,,
+BO0624_50114,646672,271,6,226.,363,75.0,False,none,,,,,
+BO0624_50114,646673,272,7,Bureau de dame.— En bois de rose.- Louis XV.,364,97.5,False,none,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
+BO0624_50114,646674,273,8,227.,365,75.0,False,none,,,,,
+BO0624_50114,646675,274,9,"Petite table de toilette en bois de rose. — Travail francais, Louis XV.",366,98.5,False,none,,Periodo di Luigi XV,OGGETTI IN LEGNO,,
+BO0624_50114,646676,275,228,Petite table en acajou.— Travail autrichien de la fin du XVIlIe siecle.,367,85.7,False,none,,,ACQUEFORTI,,
+BO0624_50114,646677,276,229,Petite table a quatre faces et a dessus en laque doree. En,369,96.6,False,none,,,,,
+BO0624_50114,646678,277,13,bois noir. — XIXe siecle.,370,93.3,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_50114,646679,278,231,231. Une paire de chenets en fer forge avec monture en cuivre. Travail italien du XVIe siecle.,376,100.0,False,positional,,,Bronzes d'ameublement,,Sec. XVI
 BO0624_50114,646680,279,232,Reliquaire en bronze dore. Travail de Sienne du XVe,380,96.2,False,positional,,,ORFEVRERIES; BIJOUX; OBJETS DE VITRINE,,
 BO0624_50114,646681,280,2,siecle.,381,85.7,False,positional,,Scuola d'Anversa,ORFEVRERIES; BIJOUX; OBJETS DE VITRINE,,

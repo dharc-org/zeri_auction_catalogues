@@ -210,22 +210,22 @@ BO0624_88714,671002,208,274,"CASSATT,MARy, 1845-—1926. In der Loge. m Hintergr
 BO0624_88714,671003,209,275,"COURBET, GUSTAVE, 1819-1877.",1782,92.6,False,positional,COURBET GUSTAVE,,GEMALDE,,Sec. XIX
 BO0624_88714,671004,210,277,"COROT, CAMILLE,17961875. Gebirgslandschaft.",1801,95.2,False,positional,"COUTURE,THOMAS",,,,
 BO0624_88714,671005,211,279,"9EICHHORST,FRANZ,geb.1885.",1821,92.6,False,positional,"DIAZ,NARCISSE VIRGILIO DE LA PENA",,,,Sec. XIX
-BO0624_88714,671006,212,I,n der Spinnstube.,1823,97.0,False,positional,"DIAZ,NARCISSE VIRGILIO DE LA PENA",,,,
+BO0624_88714,671006,212,I,n der Spinnstube.,1823,97.0,False,none,,,,,
 BO0624_88714,671007,213,I,n grunen Seidenkissen und Tuichern liegend mit zur Seite geneigtem Kopf und ausgebreiteten Armen. In der Rechten einen Rosenzweig. Bezeichnet links oben in schwarzer Farbe: Habermann 1907.,1853,99.7,False,positional,"HABERMANN,HUGO",,,,Sec. XX
-BO0624_88714,671008,214,283,"HENNER,JEAN JACQUES,1829-1905. m Profil nach links. Auf dem Haar eine grobe rote Shleife.",1862,78.3,False,positional,"HABERMANN,HUGO",,,,Sec. XIX
-BO0624_88714,671009,215,284,"ISENBRANT,ADRIAEN,gest.1551.",1870,93.1,False,positional,"HABERMANN,HUGO",,,,Sec. XVI
-BO0624_88714,671010,216,285,"KOBELL,WILHELM VON,17661853.",1878,93.1,False,positional,"HABERMANN,HUGO",,,,
-BO0624_88714,671011,217,286,"LAMPI,JOHANN BAPTIST,175I-1830.",1886,93.8,False,positional,"HABERMANN,HUGO",,,,Sec. XIX
-BO0624_88714,671012,218,287,"MENZEL,ADOLF,1815—1905.",1892,91.7,False,positional,"HABERMANN,HUGO",,,,Sec. XIX
-BO0624_88714,671013,219,288,"NATTIER,JEAN MARC,1685—1766.",1896,93.1,False,positional,"HABERMANN,HUGO",,,,Sec. XVII
+BO0624_88714,671008,214,283,"HENNER,JEAN JACQUES,1829-1905. m Profil nach links. Auf dem Haar eine grobe rote Shleife.",1862,78.3,False,none,,,,,Sec. XIX
+BO0624_88714,671009,215,284,"ISENBRANT,ADRIAEN,gest.1551.",1870,93.1,False,none,,,,,Sec. XVI
+BO0624_88714,671010,216,285,"KOBELL,WILHELM VON,17661853.",1878,93.1,False,none,,,,,
+BO0624_88714,671011,217,286,"LAMPI,JOHANN BAPTIST,175I-1830.",1886,93.8,False,none,,,,,Sec. XIX
+BO0624_88714,671012,218,287,"MENZEL,ADOLF,1815—1905.",1892,91.7,False,none,MENZEL ADOLPH VON,,,,Sec. XIX
+BO0624_88714,671013,219,288,"NATTIER,JEAN MARC,1685—1766.",1896,93.1,False,none,NATTIER J.M.,,,,Sec. XVII
 BO0624_88714,671014,220,294,"ROOS, JOHANN HEINRICH, 1631—1685. Ruinenlandschaft. In einem flahen FluBbett steht eine Viehherde, deren Hirtin rehts an Land steigt. Am jenseitigen Ufer steile Felsen, bekront von Ruinen. Ol auf Holz. 33:49 cm.",1942,99.0,False,positional,"ROBERT,HUBERT",,OGGETTI IN LEGNO,,Sec. XVII
-BO0624_88714,671015,221,296,"WOENSAM, GEN.ANTON VON WORMS, gest.1542. Brustbild eines bartigen Mannes. Nadh halbrehts gewendet. Mit shwarzer Kappe und dunklem, Pelz verbramtem Rock. Im Hintergrund grune Hugellandschaft mit FluBlauf. Ol auf Eichenholz. 14:12,5 cm.",1947,99.1,False,positional,"ROBERT,HUBERT",,,,Sec. XVI
-BO0624_88714,671016,222,297,UNBEKANNTER DEUTSCHER MEISTER DES 18.JAHRHUNDERTS. Kniebildnis einer Dame mit Ordensband.,1951,97.8,False,positional,"ROBERT,HUBERT",,,,
-BO0624_88714,671017,223,298,DESGLEICHEN.,1953,84.6,False,positional,"ROBERT,HUBERT",,,,
-BO0624_88714,671018,224,299,DESGLEICHEN. Madchenkopf. Pastell. 46:43 cm.,1959,95.2,False,positional,"ROBERT,HUBERT",,,,
-BO0624_88714,671019,225,300,DESGLEICHEN.,1960,84.6,False,positional,"ROBERT,HUBERT",,,,
-BO0624_88714,671020,226,301,DESGLEICHEN Blumenstilleben,1965,93.1,False,positional,"ROBERT,HUBERT",,OGGETTI VARI,,
-BO0624_88714,671021,227,303,"DESGLEICHEN Mit Blumen gefullte Vase auf Tishplatte. Gouahe auf Holz. 26,5:21 cm. TALIEN, 18. Jahrhundert. Kopie eines antiken Mosaikbildes.",1970,72.6,False,positional,"ROBERT,HUBERT",,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88714,671015,221,296,"WOENSAM, GEN.ANTON VON WORMS, gest.1542. Brustbild eines bartigen Mannes. Nadh halbrehts gewendet. Mit shwarzer Kappe und dunklem, Pelz verbramtem Rock. Im Hintergrund grune Hugellandschaft mit FluBlauf. Ol auf Eichenholz. 14:12,5 cm.",1947,99.1,False,none,,,,,Sec. XVI
+BO0624_88714,671016,222,297,UNBEKANNTER DEUTSCHER MEISTER DES 18.JAHRHUNDERTS. Kniebildnis einer Dame mit Ordensband.,1951,97.8,False,none,,,,,
+BO0624_88714,671017,223,298,DESGLEICHEN.,1953,84.6,False,none,,,,,
+BO0624_88714,671018,224,299,DESGLEICHEN. Madchenkopf. Pastell. 46:43 cm.,1959,95.2,False,none,,,,,
+BO0624_88714,671019,225,300,DESGLEICHEN.,1960,84.6,False,none,,,,,
+BO0624_88714,671020,226,301,DESGLEICHEN Blumenstilleben,1965,93.1,False,none,,,OGGETTI VARI,,
+BO0624_88714,671021,227,303,"DESGLEICHEN Mit Blumen gefullte Vase auf Tishplatte. Gouahe auf Holz. 26,5:21 cm. TALIEN, 18. Jahrhundert. Kopie eines antiken Mosaikbildes.",1970,72.6,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88714,671022,228,304,STEINMOSAIKBILD Zwei Masken: 15:19cm.,1976,94.6,False,title_direct,,,STEIN,,
 BO0624_88714,671023,229,305,"′DAWE,GEORGE, 17811829. GroB-Quer-Folio. An zwei Randern Brudfalten.Gerahmt, DELAUNy,NICOLAUS,1739-1792.",1982,82.1,False,positional,,,GRAPHIK,,Sec. XVIII
 BO0624_88714,671024,230,306,"La bonne mere. Muter mit ihren Kindern im Grunen. Kupferstid, peint par Fragonard. Grob-Folio. Gerahmt,",1984,98.0,False,positional,FRAGONARD JEAN-HONORE,,GRAPHIK,,

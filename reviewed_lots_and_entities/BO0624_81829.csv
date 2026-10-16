@@ -22,7 +22,7 @@ BO0624_81829,99767,20,27,"Grande piatto in maiolica di Faenza, decorazione di fi
 BO0624_81829,99768,21,28,"Due vasi in maiolica d'Abruzzo, decorazione in bleu, forte colore. Secolo XVII.",47,98.0,False,positional,,,VASI,,Sec. XVII
 BO0624_81829,99769,22,29,"Due bei vasi in maiolica d'Abruzzo, forte decorazione bleu di paesaggio. Sec. XVIII.",48,98.2,False,positional,,,VASI,,Sec. XVIII
 BO0624_81829,99770,23,30,"Grande vaso in porcellana della China, decorazione policroma di figure, fiori ed ornati.",49,98.3,False,positional,,,VASI,,
-BO0624_81829,99771,24,31,Pannini Francesco. Sec.XVII.Architettura con figure;—Paesaggio con figure. Due graziosi dipinti circolari su tavola. Cornici in legno scolpito e dorato.Diametro cm.26.,53,99.1,False,positional,,,CORNICI,,
+BO0624_81829,99771,24,31,Pannini Francesco. Sec.XVII.Architettura con figure;—Paesaggio con figure. Due graziosi dipinti circolari su tavola. Cornici in legno scolpito e dorato.Diametro cm.26.,53,99.1,False,positional,PANNINI GIOVANNI PAOLO,,CORNICI,,
 BO0624_81829,99772,25,32,"Seuola Fiamminga. Sec.XVII. La visita alla bottega del ciabattino antiquario. Curioso e interessante dipinto. spigliato nel disegno, bello di colore. Cornice dell'epoca, in legno verde e oro. Alt. cm.21, largh, cm.27.",54,99.3,False,positional,,,Quadri,,
 BO0624_81829,99773,26,3,33.Parrocel Charle 1688-1752.Battaglia. Spigliato e forte dipinto su,55,98.5,False,positional,,,Quadri,,Sec. XVIII
 BO0624_81829,99774,27,4,"tela. Cornice legno scolpito e dorato. Alt. cm. 69, largh. cm. 9i.",56,98.3,False,positional,,,Quadri,,
@@ -217,7 +217,7 @@ BO0624_81829,99962,215,224,"Vernet. Sec.XIX. Scena napoleonica. Tela. Buon dipin
 BO0624_81829,99963,216,225,"Luti Benedetto.1666-1724.La nascita di Gesu Cristo. Tela. Dipinto interessante, di bella composizione,buona armonia di tinte,corretto disegno. Cornice legno dorato.Alt.cm.54, largh.cm. 68.",423,98.9,False,positional,,,Quadri,,Sec. XVII
 BO0624_81829,99964,217,226,"Cerquozzi (Michelangelo delle Battaglie). Sec. XVII. Scena della Via Crucis. Ottimo dipinto. Bella composizione,buon colorito,disegno corretto.Cornice legno scolpito e dorato.Alt.cm.29,largh.cm.4l.",427,81.2,False,positional,CARAVAGGIO,,Quadri,,Sec. XVII
 BO0624_81829,99965,218,227,Carpioni G. Sec. XVII. Baccanali. Due bellissimi disegni acquarellati.,428,97.0,False,positional,,,Quadri,,Sec. XVII
-BO0624_81829,99966,219,228,Moucheron Frederik. Sec.XVII. Paesaggio con macchiette. Ammi-,429,96.6,False,positional,,,Quadri,,
+BO0624_81829,99966,219,228,Moucheron Frederik. Sec.XVII. Paesaggio con macchiette. Ammi-,429,96.6,False,positional,MOUCHERON FREDERIK,,Quadri,,
 BO0624_81829,99967,220,5,"Cornici legno scolpito e dorato. Alt.cm.27,largh. cm.40.",430,98.1,False,positional,,,CORNICI,,
 BO0624_81829,99968,221,6,"revole dipinto su tela. Belle, toccate con sicurezza le figure; spigliate, vere le frasche.Cornice di legno scolpito e dorato. Alt.cm. 33,largh. cm.59.",431,99.3,False,positional,,,Quadri,,
 BO0624_81829,99969,222,229,"Scuola Fiamminga. Sec. XVII.Marina con molte figure. Tela. Cornice legno nero scolpito. Alt.cm.59, largh. cm.74.",432,98.1,False,positional,,Scuola Fiamminga,Quadri,,
@@ -366,8 +366,8 @@ BO0624_81829,100111,364,2,"e passe-par-tout. Alt. cm. 30, largh. cm. 16.",729,97
 BO0624_81829,100112,365,3,371.Balla Giacomo. La fontana che piange. Pastello firmato. Cornice,730,98.5,False,positional,,,Quadri,,
 BO0624_81829,100113,366,4,"legno. Alt.cm.37,largh.cm.54.",731,96.4,False,positional,,,Quadri,,
 BO0624_81829,100114,367,I,"nteressante dipinto dell'arditissimo pittore, nella sua piu bella ma- niera passata.(Di Giacomo Balla e attualmente alla Esposizione Nazionale a Roma,una intera sala).",733,99.7,False,positional,,,Quadri,,
-BO0624_81829,100115,368,372,"Palizzi Filippo. Paesaggio con figure. (Celano in Abruzzo). Tela firmata.Cornice dorata. Alt. cm.25, largh.cm.39. Proviene dal Conte Dajour di Napoli,il quale l'acquisto direttamente dall'artista.",735,98.9,False,positional,,,Quadri,,
-BO0624_81829,100116,369,373,Palizzi Filippo.Donna con una pecora. Tela firmata. Cornice legno,736,96.9,False,positional,,,Quadri,,
+BO0624_81829,100115,368,372,"Palizzi Filippo. Paesaggio con figure. (Celano in Abruzzo). Tela firmata.Cornice dorata. Alt. cm.25, largh.cm.39. Proviene dal Conte Dajour di Napoli,il quale l'acquisto direttamente dall'artista.",735,98.9,False,positional,PALIZZI FILIPPO,,Quadri,,
+BO0624_81829,100116,369,373,Palizzi Filippo.Donna con una pecora. Tela firmata. Cornice legno,736,96.9,False,positional,PALIZZI FILIPPO,,Quadri,,
 BO0624_81829,100117,370,374,Conconi Luigi. Da una novella del Boccaccio. Acquarello firmato; interessantissimo dipinto dell'illustre acquarellista lombardo. Cornice a,738,98.5,False,positional,,,Quadri,,
 BO0624_81829,100118,371,375,Netti Francesco. Rustico con macchietta di donna al pozzo. Tela fir-,740,97.0,False,positional,,,Quadri,,
 BO0624_81829,100119,372,376,"Netti Francesco.Ritratto di bimba seduta. Tela firmata. Cornice legno dorato. Alt.cm.50,larg. cm.30. Magnifico dipinto fra i piiu belli dellartista. Proviene dalla collezione",742,98.8,False,positional,,,Quadri,,
@@ -392,7 +392,7 @@ BO0624_81829,100137,390,394,ScuolaInglese. Sec. XIx. Marine. Due graziosi pastel
 BO0624_81829,100138,391,395,Perez Alonso. Due bimbe in giardino.Tavola firmata. Cornice in legno,780,97.1,False,positional,,,Quadri,,
 BO0624_81829,100139,392,5,"scolpito edorato.Alt.cm.28, larg. cm.17.",781,97.4,False,positional,,,Quadri,,
 BO0624_81829,100140,393,6,"396.Ignoto Toscano.Studio d'alberi. Forte impressione dal vero. Cornice legno dorato. Alt.cm.34,larg.cm.21.",782,99.0,False,positional,,,Quadri,,
-BO0624_81829,100141,394,397,"Vallin R.Paesaggio. Dipinto su tela firmato. Cornice bianca.Alt. cm,3l.",783,97.1,False,positional,,,Quadri,,
+BO0624_81829,100141,394,397,"Vallin R.Paesaggio. Dipinto su tela firmato. Cornice bianca.Alt. cm,3l.",783,97.1,False,positional,VALLIN J.,,Quadri,,
 BO0624_81829,100142,395,398,Tomasi Lodovico. Marina con barche. Bella impressione. Tavola fir-,784,96.9,False,positional,,,Quadri,,
 BO0624_81829,100143,396,9,larg.cm.53.#n,785,92.3,False,positional,,,Quadri,,
 BO0624_81829,100144,397,10,"mata.Cornice legno dorato. Alt.cm.13,larg.cm. 2l.",786,96.8,False,positional,,,Quadri,,

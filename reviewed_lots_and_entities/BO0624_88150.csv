@@ -19,7 +19,7 @@ BO0624_88150,654786,17,25,"T. WERNER, Portrat einer Romerin,mit gelbem Uberwurf,
 BO0624_88150,654787,18,26,"LUDWIG KNAUS,geb.1829.Portrat der Lina Morgenstern, ein sehr gutes Bildnis dieser Kunstlerin. Olgemalde auf Leinwand, im Oval-Gold-R. Grofe 60X51 cm.",40,99.0,False,positional,MORGENSTERN JOHAN FRIEDRICH,,OGGETTI IN ORO,,Sec. XIX
 BO0624_88150,654788,19,27,"F. HORN,Italienerin vor einem Brunnen. O1gemalde auf Leinwand. Grofe 28X21 cm.",41,98.0,False,positional,,,GEMALDE,,
 BO0624_88150,654789,20,31,"PORTRAT EINES OFFIZIERS. Auferst nett erhalten,in frischen freundlichen Farben gemalt. Olgemalde auf Leinwand. G. R. Grofe 64X50 cm.",44,98.8,False,positional,,,GEMALDE,,
-BO0624_88150,654790,21,32,"u.33. MORITZ VON SCHWIND, geb.1804,Wien. Zwei angeblich von diesem Meister in seinen Jugendjahren gemalte, zur Ausschmuckung einer Vorhalle dienende Kolossalgemalde. Darstellung: Episoden aus der Trojanischen Herrschaft, sehr figurenreich und farbenprachtig, sie geben Zeugnis von viel Geschick. Olgemalde auf Leinwand. Grobe 190X185 cm.",45,99.5,False,positional,,Scuola Viennese,GEMALDE,,Sec. XIX
+BO0624_88150,654790,21,32,"u.33. MORITZ VON SCHWIND, geb.1804,Wien. Zwei angeblich von diesem Meister in seinen Jugendjahren gemalte, zur Ausschmuckung einer Vorhalle dienende Kolossalgemalde. Darstellung: Episoden aus der Trojanischen Herrschaft, sehr figurenreich und farbenprachtig, sie geben Zeugnis von viel Geschick. Olgemalde auf Leinwand. Grobe 190X185 cm.",45,99.5,False,positional,VON SCHWIND MORITZ,Scuola Viennese,GEMALDE,,Sec. XIX
 BO0624_88150,654791,22,34,ITALIENISCHES HIRTENLEBEN. Landschaft mit Figuren. 18.Jahrhundert. O1gemalde,46,98.0,False,positional,,,GEMALDE,,
 BO0624_88150,654792,23,35,"J. UNRUH, 1829, Greifswald. Portrat eines jungen Mannes. Olgemalde auf Leinwand. Grofe 25X21 cm.",48,98.3,False,positional,,,GEMALDE,,Sec. XIX
 BO0624_88150,654793,24,36,"H. KRAUSE, 1850. Portrat eines alteren Mannes, signiert. Olgemalde auf Leinwand. Grofe 37X31 cm.",49,98.3,False,positional,,,GEMALDE,,Sec. XIX
@@ -198,32 +198,32 @@ BO0624_88150,654965,196,304,"MUSCHELARBEIT,Dekorationsgegenstand des 18. Jahrhun
 BO0624_88150,654966,197,305,"PISTOLE im Mahagonie-Kasten,mit Zubehorteilen.",322,95.7,False,positional,,,Fayencen; Meistergeigen,,
 BO0624_88150,654967,198,306,KLEINES SCHRANKCHEN mit Likorservice. Um 1840.,323,95.7,False,positional,,,Fayencen; Meistergeigen,,Sec. XIX
 BO0624_88150,654968,199,307,ALT-BRESCIANER GEIGE. Zettel: mona alumnus Brixiae fexit Anno Dom.1706.,327,97.1,False,positional,Bapt. Rogerius; Nicolai Amati,,,,Sec. XVIII
-BO0624_88150,654969,200,308,ALTE ITALIENISCHE MEISTERGEIGE.18. Jahrhundert.,331,95.7,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654970,201,2,309.ALTE ITALIENISCHE MEISTERGEIGE.18.Jahrhundert.,332,98.0,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654971,202,3,"Grofe bis fur 80 Personen, mit eingewebten figurlichen oder biblischen Darstellungen. Sehr interessant, werden ev.im ganzen oder",333,99.2,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654972,203,4,310-314.FUNF DAMAST-TISCHTUCHER. einzeln ausgeboten. Vor 1800.,334,98.3,False,positional,Bapt. Rogerius; Nicolai Amati,,,,Sec. XIX
-BO0624_88150,654973,204,315,"KOLLEKTION SPITZEN, Hauben, Shawls, Kragen, Einsatze etc. Brautausstattung von 1790,z.T. Brussler Arbeit. Sehr interessant fur Kunstschulen und Museen. Zirka 3oo verschiedene Gegenstande, wird im ganzen oder einzeln ausgeboten.",335,99.1,False,positional,Bapt. Rogerius; Nicolai Amati,,,,Sec. XVIII
-BO0624_88150,654974,205,316,"MECKLENBURGER TRACHT fur Frauen. Rock, Mieder, Hut, besetzt mit buntem Band.",336,97.3,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654975,206,7,"317-321. FUNF MECKLENBURGER TUCHER, bunt und weif bestickt. 18. Jahrhundert.",337,98.6,False,positional,Bapt. Rogerius; Nicolai Amati,,,,Sec. XVIII
-BO0624_88150,654976,207,8,"322 u.323. ZWEI TURKISCHE SHAWLS, gewebt und gestickt, gut erhalten. Um 1800.",338,98.6,False,positional,Bapt. Rogerius; Nicolai Amati,,,,Sec. XIX
-BO0624_88150,654977,208,324,"BROKAT-TISCHDECKE,mit herrlicher Silberstickerei. Um 1800. Grofe 100X100 cm.",339,97.3,False,positional,Bapt. Rogerius; Nicolai Amati,,,,Sec. XIX
+BO0624_88150,654969,200,308,ALTE ITALIENISCHE MEISTERGEIGE.18. Jahrhundert.,331,95.7,False,none,,,,,
+BO0624_88150,654970,201,2,309.ALTE ITALIENISCHE MEISTERGEIGE.18.Jahrhundert.,332,98.0,False,none,,,,,
+BO0624_88150,654971,202,3,"Grofe bis fur 80 Personen, mit eingewebten figurlichen oder biblischen Darstellungen. Sehr interessant, werden ev.im ganzen oder",333,99.2,False,none,,,,,
+BO0624_88150,654972,203,4,310-314.FUNF DAMAST-TISCHTUCHER. einzeln ausgeboten. Vor 1800.,334,98.3,False,none,,,,,Sec. XIX
+BO0624_88150,654973,204,315,"KOLLEKTION SPITZEN, Hauben, Shawls, Kragen, Einsatze etc. Brautausstattung von 1790,z.T. Brussler Arbeit. Sehr interessant fur Kunstschulen und Museen. Zirka 3oo verschiedene Gegenstande, wird im ganzen oder einzeln ausgeboten.",335,99.1,False,none,,,,,Sec. XVIII
+BO0624_88150,654974,205,316,"MECKLENBURGER TRACHT fur Frauen. Rock, Mieder, Hut, besetzt mit buntem Band.",336,97.3,False,none,,,,,
+BO0624_88150,654975,206,7,"317-321. FUNF MECKLENBURGER TUCHER, bunt und weif bestickt. 18. Jahrhundert.",337,98.6,False,none,,,,,Sec. XVIII
+BO0624_88150,654976,207,8,"322 u.323. ZWEI TURKISCHE SHAWLS, gewebt und gestickt, gut erhalten. Um 1800.",338,98.6,False,none,,,,,Sec. XIX
+BO0624_88150,654977,208,324,"BROKAT-TISCHDECKE,mit herrlicher Silberstickerei. Um 1800. Grofe 100X100 cm.",339,97.3,False,none,,,,,Sec. XIX
 BO0624_88150,654978,209,325,"STOPF- UND NAMEN-TUCHER in Leinen, und einige Spitzen. Um 1800.",340,96.7,False,title_direct,,,Spitzen,,Sec. XIX
-BO0624_88150,654979,210,326330,HOLSTEINISCHE KISSEN. Nordische Gobelinweberei. 18. Jahrhundert. Groben ca.100X50 cm.,341,95.8,False,positional,Bapt. Rogerius; Nicolai Amati,,BIANCHERIA,,Sec. XVIII
-BO0624_88150,654980,211,12,"331—336. SECHS STUHLKISSEN,in der Art der Holsteinischen Bauerngobelins. 18.Jahrhundert. Grofen ca.40X35 cm.",342,98.6,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654981,212,13,"337-360. KOLLEKTION MINIATUREN UND ELFENBEIN-SCHNITZEREIEN,beSonders schone Kopien nach alten Originalen.",343,98.6,False,positional,Bapt. Rogerius; Nicolai Amati,,MINIATURE,,
-BO0624_88150,654982,213,361375,"KOLLEKTION DELFT-GEGENSTANDE. 10 Vasen,4 Teller, 1 Krug. Blauer",344,94.5,False,positional,Bapt. Rogerius; Nicolai Amati,,PIATTI,,
-BO0624_88150,654983,214,15,und mehrfarbiger Dekor. Sehr gute und interessante Kopien alter Stucke.,345,97.9,False,positional,Bapt. Rogerius; Nicolai Amati,,OGGETTI VARI,,
-BO0624_88150,654984,215,376,"RHEINISCHER KRUG mit Zinndeckel, 17. Jahrhundert. (Henkel beschadigt.) Hohe 20 cm. China,um 1800.",346,89.3,False,positional,Bapt. Rogerius; Nicolai Amati,,,,Sec. XVII
-BO0624_88150,654985,216,377,ZWEI ZINNSALZFASSER. Nach 1800.,348,93.5,False,positional,Bapt. Rogerius; Nicolai Amati,,,,Sec. XIX
-BO0624_88150,654986,217,378,"MINIATUR, auf Elfenbein, im Bronzerahmchen (gute Kopie nach Original). Grofe 6X 4 cm. MINIATUR, auf Elfenbein,im Bronzerahmen (gute Kopie). Grofe 10X5 cm. BRONZE-BECHER, reiche Gravierung. Indien, 18. Jahrhundert. Hohe 15 cm.",349,54.3,False,positional,Bapt. Rogerius; Nicolai Amati,,MINIATURE,,Sec. XVIII
-BO0624_88150,654987,218,381,"GESCHNITZTES UHRGEHAUSE,Eichenholz mit Bemalung; Spindeluhr. 17.Jahrhundert.",352,97.3,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654988,219,6,Grofe 18 cm.,353,91.7,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654989,220,7,angebracht). Durchmesser 43 cm.,354,96.6,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654990,221,385,"MESSINGLEUCHTER, runder FuB, gedrehte Saule.18. Jahrhundert.Hohe 35 cm.",355,97.1,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654991,222,386,"MECKLENBURGER HUTSCHACHTEL, ovale Holzschachtel mit bunter Bemalung. Lange 40 cm.",356,97.5,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654992,223,10,"387.ALTE ITALIENISCHE MEISTERGEIGE,auf dem Zettel:Joseph Guanerius. fecit. Cremone anno 17io. Die Geige hat einen schonen reinen Ton. Gut erhaltenes Exemplar.",357,99.0,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
-BO0624_88150,654993,224,389,"PLATED-FLASCHEN-UNTERSATZE,vierzehn.Um 1800. ELFENBEINSCHNITZEREI, auf rundem Sockel der alte Fritz. Um 180o. Hohe 10 cm.",359,77.1,False,positional,Bapt. Rogerius; Nicolai Amati,,PIATTI,,Sec. XIX
-BO0624_88150,654994,225,390,"APOTHEKER-MORSER. Bukholz, schweres, seltenes und altes Stuck. 18.Jahrhundert. Hohe 30 cm,Durchmesser 24 cm.",360,98.1,False,positional,Bapt. Rogerius; Nicolai Amati,,,,
+BO0624_88150,654979,210,326330,HOLSTEINISCHE KISSEN. Nordische Gobelinweberei. 18. Jahrhundert. Groben ca.100X50 cm.,341,95.8,False,none,,,BIANCHERIA,,Sec. XVIII
+BO0624_88150,654980,211,12,"331—336. SECHS STUHLKISSEN,in der Art der Holsteinischen Bauerngobelins. 18.Jahrhundert. Grofen ca.40X35 cm.",342,98.6,False,none,,,,,
+BO0624_88150,654981,212,13,"337-360. KOLLEKTION MINIATUREN UND ELFENBEIN-SCHNITZEREIEN,beSonders schone Kopien nach alten Originalen.",343,98.6,False,none,,,MINIATURE,,
+BO0624_88150,654982,213,361375,"KOLLEKTION DELFT-GEGENSTANDE. 10 Vasen,4 Teller, 1 Krug. Blauer",344,94.5,False,none,,,PIATTI,,
+BO0624_88150,654983,214,15,und mehrfarbiger Dekor. Sehr gute und interessante Kopien alter Stucke.,345,97.9,False,none,,,OGGETTI VARI,,
+BO0624_88150,654984,215,376,"RHEINISCHER KRUG mit Zinndeckel, 17. Jahrhundert. (Henkel beschadigt.) Hohe 20 cm. China,um 1800.",346,89.3,False,none,,,,,Sec. XVII
+BO0624_88150,654985,216,377,ZWEI ZINNSALZFASSER. Nach 1800.,348,93.5,False,none,,,,,Sec. XIX
+BO0624_88150,654986,217,378,"MINIATUR, auf Elfenbein, im Bronzerahmchen (gute Kopie nach Original). Grofe 6X 4 cm. MINIATUR, auf Elfenbein,im Bronzerahmen (gute Kopie). Grofe 10X5 cm. BRONZE-BECHER, reiche Gravierung. Indien, 18. Jahrhundert. Hohe 15 cm.",349,54.3,False,none,,,MINIATURE,,Sec. XVIII
+BO0624_88150,654987,218,381,"GESCHNITZTES UHRGEHAUSE,Eichenholz mit Bemalung; Spindeluhr. 17.Jahrhundert.",352,97.3,False,none,,,,,
+BO0624_88150,654988,219,6,Grofe 18 cm.,353,91.7,False,none,,,,,
+BO0624_88150,654989,220,7,angebracht). Durchmesser 43 cm.,354,96.6,False,none,,,,,
+BO0624_88150,654990,221,385,"MESSINGLEUCHTER, runder FuB, gedrehte Saule.18. Jahrhundert.Hohe 35 cm.",355,97.1,False,none,,,,,
+BO0624_88150,654991,222,386,"MECKLENBURGER HUTSCHACHTEL, ovale Holzschachtel mit bunter Bemalung. Lange 40 cm.",356,97.5,False,none,,,,,
+BO0624_88150,654992,223,10,"387.ALTE ITALIENISCHE MEISTERGEIGE,auf dem Zettel:Joseph Guanerius. fecit. Cremone anno 17io. Die Geige hat einen schonen reinen Ton. Gut erhaltenes Exemplar.",357,99.0,False,none,,,,,
+BO0624_88150,654993,224,389,"PLATED-FLASCHEN-UNTERSATZE,vierzehn.Um 1800. ELFENBEINSCHNITZEREI, auf rundem Sockel der alte Fritz. Um 180o. Hohe 10 cm.",359,77.1,False,none,,,PIATTI,,Sec. XIX
+BO0624_88150,654994,225,390,"APOTHEKER-MORSER. Bukholz, schweres, seltenes und altes Stuck. 18.Jahrhundert. Hohe 30 cm,Durchmesser 24 cm.",360,98.1,False,none,STUCK FRANZ VON,,,,
 BO0624_88150,654995,226,391,"S.PHEPPELIN,1744.Portrat einer vornehmen Dame im Zeitgewand. Vortreffliche Zeichnung der Gesichtszuge und Gewandung. Signum: S. Pheppelin, fecit 1744. GrofBe 65X80 cm.",364,98.8,False,positional,,,GEMALDE,,Sec. XVIII
 BO0624_88150,654996,227,2,ca.60X40cm.,365,90.9,False,positional,,,GEMALDE,,
 BO0624_88150,654997,228,3,"392-394.DREI OLGEMALDE,18.Jahrhundert. Ohne Rahmen,auf Leinwand. Grofen",366,98.6,False,title_direct,,,CORNICI,,

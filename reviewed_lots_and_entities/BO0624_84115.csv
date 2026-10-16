@@ -7,8 +7,8 @@ BO0624_84115,190834,5,6,## Les Enfants aux pampres.,124,100.0,False,positional,B
 BO0624_84115,190835,6,8,## Feuille d'etudes.,182,100.0,False,positional,BOUCHER,,,,
 BO0624_84115,190836,7,9,"## Les Crepes. l existe plusieurs etudes pour ce dessin, soit a la sepia (vente de la coll. Derenaucourt,Paris,1883);soit au crayon noir (vente de la coll.E.Féral,Paris,1go1); soit a la sanguine (vente de la coll. Roblin, Paris, 1goo)",205,97.2,False,positional,BOUCHER,,,,Sec. XIX
 BO0624_84115,190837,8,10,## Portrait de M.Bailleul.,218,100.0,False,positional,COCHIN le Fils,,,,
-BO0624_84115,190838,9,I,"l s'agit sans doute ici de Bailleul,geographe et graveur du roi pour les finances ，qui fut de bonne heure en relation avec C.-N. Cochin:en 173g,il éditait les estampes de 1artiste concernant les fetes du mariage de Madame Premiere de France avec 1'Infant, et en 1747,il signait un etat de paiement pour la gravure des inscriptions des quatre estampes du meme Cochin,retracant les principaux episodes du mariage du Dauphin,en 1745 (cf. Mercure de France,oct.1739,p.2438,et Nouvelles archives de lart francais,3e serie [Revue de lart francais ancien et moderne],t.Il,1885,p.163).",230,99.9,False,positional,COCHIN le Fils,,STAMPE E INCISIONI,,Sec. XVIII
-BO0624_84115,190839,10,10,bis,232,75.0,False,positional,COCHIN le Fils,,,,
+BO0624_84115,190838,9,I,"l s'agit sans doute ici de Bailleul,geographe et graveur du roi pour les finances ，qui fut de bonne heure en relation avec C.-N. Cochin:en 173g,il éditait les estampes de 1artiste concernant les fetes du mariage de Madame Premiere de France avec 1'Infant, et en 1747,il signait un etat de paiement pour la gravure des inscriptions des quatre estampes du meme Cochin,retracant les principaux episodes du mariage du Dauphin,en 1745 (cf. Mercure de France,oct.1739,p.2438,et Nouvelles archives de lart francais,3e serie [Revue de lart francais ancien et moderne],t.Il,1885,p.163).",230,99.9,False,none,COCHIN NICOLAS,,STAMPE E INCISIONI,,Sec. XVIII
+BO0624_84115,190839,10,10,bis,232,75.0,False,none,,,,,
 BO0624_84115,190840,11,11,## Illumination des Ecuries de Versailles,259,100.0,False,positional,COCHIN le Fils,,,,
 BO0624_84115,190841,12,12,"## Lancement de naoires au Haore, en presence du roi (20 septembre 1749).",286,100.0,False,positional,DESCAMPS,,,,Sec. XVIII
 BO0624_84115,190842,13,13,## Les Jardins de la Villa d'Este.,309,100.0,False,positional,FRAGONARD,,,,
@@ -34,7 +34,7 @@ BO0624_84115,190861,32,33,## Interieur de palais.,737,100.0,False,positional,MAR
 BO0624_84115,190862,33,34,## La Corbeille de mariage.,758,100.0,False,positional,MARILLIER,,,,
 BO0624_84115,190863,34,35,## Portrait de Mme Papillon de La Ferte.,779,100.0,False,positional,MOREAU le Jeune,,,,
 BO0624_84115,190864,35,36,## Fetes du mariage de Marie-Antoinette.,804,100.0,False,positional,MOREAU le Jeune,,,,
-BO0624_84115,190865,36,I,llumination du parc de Versailles,806,98.5,False,positional,MOREAU le Jeune,,,,
+BO0624_84115,190865,36,I,llumination du parc de Versailles,806,98.5,False,none,,,,,
 BO0624_84115,190866,37,36,bis,829,75.0,False,positional,MOREAU le Jeune,,,,
 BO0624_84115,190867,38,I,l n'y a donc aucun doute quant aux sujets de ces deux dessins. Reste a en deter- miner l'auteur.,869,99.5,False,title_direct,,,Dessins,,
 BO0624_84115,190868,39,I,"l parait demontre maintenant que le Festin royal et le Bal pare font partie de la meme serie d''esquisses croquees et lavees par Moreau le jeune d'apres nature,en vue des dessins definitivement prepares pour la gravure, comme l'est l'Illumination du musee du Louvre. L'un de ces dessins a d'ailleurs conserve sur sa monture le visa du duc d'Aumont (Bon.L. D. D.)et celui de Papillon de La Ferte(Arrette pour etre execute.",883,99.9,False,title_direct,MOREAU ADRIAN,,STAMPE E INCISIONI,,
@@ -61,9 +61,9 @@ BO0624_84115,190888,59,55,## Feuille d’etudes : trois femmes en pied.,1353,100
 BO0624_84115,190889,60,56,"## Feuille d'etudes :deux femmes, 'une en pied, l'autre en buste.",1386,69.0,False,positional,WATTEAU,,,,
 BO0624_84115,190890,61,57,## Feuille d'etude : une femme couchee.,1409,100.0,False,positional,WATTEAU,,,,
 BO0624_84115,190891,62,58,## Feuille d'etudes : deux enfants.,1434,100.0,False,positional,WATTEAU,,,,
-BO0624_84115,190892,63,2,"vers la droite, il est coiffe d'un bourrelet et a la main droite posee en avant.",1437,98.7,False,positional,WATTEAU,,,,
-BO0624_84115,190893,64,3,"b.A droite, buste d’un enfant, la tete coiffee d’un bourrelet et",1438,98.4,False,positional,WATTEAU,,,,
-BO0624_84115,190894,65,4,"tournee de trois-quarts a droite, a demi couchee sur le bras droit.",1439,98.5,False,positional,WATTEAU,,,,
+BO0624_84115,190892,63,2,"vers la droite, il est coiffe d'un bourrelet et a la main droite posee en avant.",1437,98.7,False,none,,,,,
+BO0624_84115,190893,64,3,"b.A droite, buste d’un enfant, la tete coiffee d’un bourrelet et",1438,98.4,False,none,,,,,
+BO0624_84115,190894,65,4,"tournee de trois-quarts a droite, a demi couchee sur le bras droit.",1439,98.5,False,none,,,,,
 BO0624_84115,190895,66,59,## Feuille d'etude :un enfant.,1462,100.0,False,positional,WATTEAU,,,,
 BO0624_84115,190896,67,60,## Le Savoyard a la marmotte.,1483,100.0,False,positional,WATTEAU,,,,
 BO0624_84115,190897,68,61,## Le Pelerin.,1504,100.0,False,positional,WATTEAU,,,,

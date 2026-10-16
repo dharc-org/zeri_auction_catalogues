@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84234,398462,1,1825,1898.,9,61.5,False,positional,BOUDIN,,,,Sec. XIX
 BO0624_84234,398463,2,1829,1890.,24,61.5,False,positional,BROWN,Scuola di Dusseldorf,,,Sec. XIX
-BO0624_84234,398464,3,2,## Arret au carrefour.,28,100.0,False,positional,BROWN,,,,
+BO0624_84234,398464,3,2,## Arret au carrefour.,28,100.0,False,none,,,,,
 BO0624_84234,398465,4,4,## Bords de riviere. 1860.,57,86.5,False,positional,DAUBIGNY,,,,Sec. XIX
 BO0624_84234,398466,5,5,## La Romance.,76,100.0,False,positional,DECAMPS,,,,
 BO0624_84234,398467,6,6,## L'Aieule et les enfants.,92,100.0,False,positional,DECAMPS,,,,
@@ -9,7 +9,7 @@ BO0624_84234,398468,7,7,"## Le Singe bureaucrate. l est assis devant son bureau;
 BO0624_84234,398469,8,8,"## Le Singe gastronome. l est assis dans un vaste fauteuil, devant une table recouverte d'une nappe blanche; il est vetu d'une soutane et il a la serviette sous le menton. ll s'apprete a decouper une volaille qu'un autre singe, travesti en servante, lui apporte sur un plat. Pres du fauteuil,une carafe et deux bouteilles rafraichissent dans un seau.",127,97.1,False,positional,DECAMPS,,PIATTI,,
 BO0624_84234,398470,9,9,## Jeunes Hommes turcs au repos,142,100.0,False,positional,DELACROIX,,,,
 BO0624_84234,398471,10,10,## Interieur d'un corps de garde de soldats maures.,160,100.0,False,positional,DELACROIX,,ARREDAMENTI,,
-BO0624_84234,398472,11,I,"ls sont quatre, couches ou accroupis sur des nattes. L'un d'eux, au premier plan, coiffe d'un fez rouge, detourne la tete. Leurs sandales sont dispersees sur le sol; au fond, des fusils en faisceaux et des gibecieres pendues. Les figures se detachent sur le mur gris.",162,99.8,False,positional,DELACROIX,,,,
+BO0624_84234,398472,11,I,"ls sont quatre, couches ou accroupis sur des nattes. L'un d'eux, au premier plan, coiffe d'un fez rouge, detourne la tete. Leurs sandales sont dispersees sur le sol; au fond, des fusils en faisceaux et des gibecieres pendues. Les figures se detachent sur le mur gris.",162,99.8,False,none,,,,,
 BO0624_84234,398473,12,2,"e vente Cheramy (mai 1go8),n° 294.",187,98.4,False,positional,DELACROIX,,,,
 BO0624_84234,398474,13,12,## Fragment des ( Noces de. Cana 》 Copie d'apres Vezonese.,195,100.0,False,positional,DELACROIX,,OGGETTI VARI,,
 BO0624_84234,398475,14,13,## Recherche pour une des coupoles,208,100.0,False,positional,DELACROIX,,,,
@@ -35,7 +35,7 @@ BO0624_84234,398494,33,33,## Le Cavalier.,499,100.0,False,positional,MOREAU,,,,
 BO0624_84234,398495,34,35,Le Prisonnier.,518,100.0,False,positional,RAFFET,,,,
 BO0624_84234,398496,35,1804,1860.,528,61.5,False,positional,RAFFET,Scuola di Dusseldorf,,,Sec. XIX
 BO0624_84234,398497,36,1812,1867.,535,61.5,False,positional,ROUSSEAU,,,,Sec. XIX
-BO0624_84234,398498,37,36,## Les Hetres; foret de Fontainebleau.,539,100.0,False,positional,ROUSSEAU,,,,
+BO0624_84234,398498,37,36,## Les Hetres; foret de Fontainebleau.,539,100.0,False,none,,,,,
 BO0624_84234,398499,38,38,## Promeneur,566,100.0,False,positional,ROUSSEAU (PIERRE-ETIENNE-THEODORE),,,,
 BO0624_84234,398500,39,39,## Boqueteaux dans la plaine.,582,100.0,False,positional,ROUSSEAU,,,,
 BO0624_84234,398501,40,40,## Vue des Monts Girard; effet d' hiver.,597,100.0,False,positional,ROUSSEAU,,,,
@@ -51,15 +51,15 @@ BO0624_84234,398510,49,53,## Anvers;,781,100.0,False,positional,BOUDIN,Scuola d'
 BO0624_84234,398511,50,55,## La Plage.,807,100.0,False,positional,BOUDIN,,,,
 BO0624_84234,398512,51,56,"## Vue du port de Trouoille, pendant la construction du guai.",821,100.0,False,positional,BOUDIN,,,,
 BO0624_84234,398513,52,1818,1892.,830,61.5,False,positional,BRISSOT DE WARVILLE,,,,Sec. XIX
-BO0624_84234,398514,53,I,"l s'est arrete dans la plaine, pres d'un bouquet d'arbres, dresse au bord d'une mare. Au fond, a droite, des meules. Ciel ensoleille,avec de grandes nuees dorees.",834,99.7,False,positional,BRISSOT DE WARVILLE,,,,
+BO0624_84234,398514,53,I,"l s'est arrete dans la plaine, pres d'un bouquet d'arbres, dresse au bord d'une mare. Au fond, a droite, des meules. Ciel ensoleille,avec de grandes nuees dorees.",834,99.7,False,none,,,,,
 BO0624_84234,398515,54,1810,1880.,846,61.5,False,positional,CALS,Scuola di Monaco,,,Sec. XIX
-BO0624_84234,398516,55,58,"## Le Bon Pere. l est assis de trois quarts a gauche et tient serre contre lui un blondin qui le regarde avec une infinie tendresse. Lui,le pere, se penche vers le front de lenfant et le contemple en un silence ému. Pres de lui, sur une table,il y a une pipe, un panier a poisson et une cruche.",852,97.7,False,positional,CALS,,,,
+BO0624_84234,398516,55,58,"## Le Bon Pere. l est assis de trois quarts a gauche et tient serre contre lui un blondin qui le regarde avec une infinie tendresse. Lui,le pere, se penche vers le front de lenfant et le contemple en un silence ému. Pres de lui, sur une table,il y a une pipe, un panier a poisson et une cruche.",852,97.7,False,none,,,,,
 BO0624_84234,398517,56,59,## Le Vieux Paysan endormi,867,100.0,False,positional,CALS (ADOLPHE-FELIX),,,,
-BO0624_84234,398518,57,I,"l est assis sur sa chaise, et il somnole avec placidite, dans le decor des objets qui lui sont familiers.",869,99.5,False,positional,CALS (ADOLPHE-FELIX),,OGGETTI VARI,,
+BO0624_84234,398518,57,I,"l est assis sur sa chaise, et il somnole avec placidite, dans le decor des objets qui lui sont familiers.",869,99.5,False,none,,,OGGETTI VARI,,
 BO0624_84234,398519,58,1841,1901.,879,61.5,False,positional,CAZIN,,,,Sec. XX
-BO0624_84234,398520,59,60,## Chaumieres parmi les vignes.,883,100.0,False,positional,CAZIN,,,,
+BO0624_84234,398520,59,60,## Chaumieres parmi les vignes.,883,100.0,False,none,,,,,
 BO0624_84234,398521,60,61,## La Bouillie.,894,100.0,False,positional,CHARLET (FRANTZ),,,,
-BO0624_84234,398522,61,62,## Autour du berceau. 1875.,904,87.2,False,positional,CHARLET (FRANTZ),,,,Sec. XIX
+BO0624_84234,398522,61,62,## Autour du berceau. 1875.,904,87.2,False,none,,,,,Sec. XIX
 BO0624_84234,398523,62,63,## L'Etang de Ville-d'Aoray; soleil couchant.,917,100.0,False,positional,COROT,,,,
 BO0624_84234,398524,63,65,"## Ville-d' Aoray, entree du bois.",947,100.0,False,positional,COROT,,OGGETTI IN LEGNO,,
 BO0624_84234,398525,64,66,## Roches au bord de l'eau.,963,100.0,False,positional,COROT,,,,
@@ -68,7 +68,7 @@ BO0624_84234,398527,66,68,La Fete foraine.,990,100.0,False,positional,,ECOLE FRA
 BO0624_84234,398528,67,69,## Gelee blanche.,999,100.0,False,positional,GUILLAUMIN,,,,
 BO0624_84234,398529,68,70,## Paysage d'hiver.,1012,100.0,False,positional,GUILLAUMIN,,,,
 BO0624_84234,398530,69,1819,1891.,1037,61.5,False,positional,JONGKIND,,,,Sec. XIX
-BO0624_84234,398531,70,72,"## La Boozem avec ses moulins,",1041,100.0,False,positional,JONGKIND,,,,
+BO0624_84234,398531,70,72,"## La Boozem avec ses moulins,",1041,100.0,False,none,,,,,
 BO0624_84234,398532,71,73,"## Village d'Overschies, pres d'Amsterdam.",1057,100.0,False,positional,JONGKIND,,,,
 BO0624_84234,398533,72,74,"## Le Fort Rabot,et la porte de France,",1070,100.0,False,positional,JONGKIND,,,,
 BO0624_84234,398534,73,75,"## La Meuse,pres de Vlardingen",1086,100.0,False,positional,JONGKIND,,,,
@@ -95,7 +95,7 @@ BO0624_84234,398554,93,97,## Soldat du Premier Empire,1389,100.0,False,positiona
 BO0624_84234,398555,94,98,## Le Coup de l'etrier.,1403,100.0,False,positional,MEISSONIER,,,,
 BO0624_84234,398556,95,99,## Baigneuses.,1414,100.0,False,positional,MENARD,,,,
 BO0624_84234,398557,96,1831,1903.,1438,61.5,False,positional,PISSARRO,,,,Sec. XX
-BO0624_84234,398558,97,101,## La Causette.,1442,100.0,False,positional,PISSARRO,,,,
+BO0624_84234,398558,97,101,## La Causette.,1442,100.0,False,none,,,,,
 BO0624_84234,398559,98,102,## La Neige sur la route.,1457,100.0,False,positional,PISSARRO,,,,
 BO0624_84234,398560,99,10,3,1469,40.0,False,positional,PISSARRO,,,,
 BO0624_84234,398561,100,104,## Chasseur au marais.,1482,100.0,False,positional,POKITONOW,,,,
@@ -118,7 +118,7 @@ BO0624_84234,398577,116,120,## Retour du bal. 1g06.,1719,83.9,False,positional,T
 BO0624_84234,398578,117,121,## Soleil d'hiver en Norvege. 1911.,1740,90.9,False,positional,THAULOW,,,,Sec. XX
 BO0624_84234,398579,118,122,## Le Vieux Pont.,1756,100.0,False,positional,ZIEM,,,,
 BO0624_84234,398580,119,123,## Aigle tenant un heron.,1775,100.0,False,positional,BARYE,,,,
-BO0624_84234,398581,120,124,Lionne passant.,1785,100.0,False,positional,BARYE,,,,
+BO0624_84234,398581,120,124,Lionne passant.,1785,100.0,False,none,,,,,
 BO0624_84234,398582,121,125,Lion au serpent.,1794,100.0,False,positional,BARYE,,,,
 BO0624_84234,398583,122,126,Lion tenant un guib.,1806,100.0,False,positional,BARYE,,,,
 BO0624_84234,398584,123,127,Cerf bramant.,1816,100.0,False,positional,BARYE,,,,

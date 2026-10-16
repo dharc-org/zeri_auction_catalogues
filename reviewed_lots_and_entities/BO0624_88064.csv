@@ -11,9 +11,9 @@ BO0624_88064,180087,9,2,"Die Gottin, die den Kocher auf dem Ricken tragt, beugt 
 BO0624_88064,180088,10,3,Stranddorf mit Dunen. Im Vordergrund auf den Sand gezogene Boote. Graues und gelbes Gewolk am vollstandig bezogeneni Himmel.,48,99.2,False,positional,RICHARD PARKES BONINGTON,,,,
 BO0624_88064,180089,11,4,"Am Ufer des blauschimmernden Sees,iber den hinweg man unter dem nordlichtartig leuchtenden 1709.",58,96.3,False,positional,JAN BRUEGHEL DER ALTERE,,,,Sec. XVIII
 BO0624_88064,180090,12,5,"Der Heilige ist mit hochgezogenen Armen angebunden. Sein linker Arm ist von einem Pfeil durchbohrt,ein zweiter trifft ihn in die Seite und im Schmerz biegt sich der Korper,von dem das Gewand",69,99.5,False,positional,MICHELANGELO DA CARAVAGGIO,,,,
-BO0624_88064,180091,13,2,"heruntergesunken ist.Qualvoll ist der Blick zum Himmel gerichtet. Leinwand.H.120 cm,B.90 cm.S.R.",70,98.9,False,positional,MICHELANGELO DA CARAVAGGIO,,,,
+BO0624_88064,180091,13,2,"heruntergesunken ist.Qualvoll ist der Blick zum Himmel gerichtet. Leinwand.H.120 cm,B.90 cm.S.R.",70,98.9,False,none,,,,,
 BO0624_88064,180092,14,1776,1837.,75,61.5,False,positional,JOHN CONSTABLE,,,,Sec. XIX
-BO0624_88064,180093,15,6,"Der Blick falt iber ein stehendes Wasser auf eine sonnenbeschienene LandstraBe, die durch Ge- 1652.",79,96.3,False,positional,JOHN CONSTABLE,,,,Sec. XVII
+BO0624_88064,180093,15,6,"Der Blick falt iber ein stehendes Wasser auf eine sonnenbeschienene LandstraBe, die durch Ge- 1652.",79,96.3,False,none,,,,,Sec. XVII
 BO0624_88064,180094,16,7,Die Magd des Hohenpriesters erkennt Petrus beim Feuerschein und bezeichnet ihn den Kriegs- 1749.,88,96.2,False,positional,BENJAMIN CUYP,,,,Sec. XVIII
 BO0624_88064,180095,17,8,"Die Dame,in blauem Kleide mit weibem Uberwurf, sitzt im Park auf einer Steinbank und stitzt 1884.",97,96.3,False,positional,BALTHASAR DENNER,,,,Sec. XIX
 BO0624_88064,180096,18,9,"Eine Dame in gelbem Kleide halt auf einem Sessel sitzend ihr Tochterchen auf dem SchoB,neben ihnen steht ein Knabe in rotem Samtkittelchen mit Strohhut.Weiter Blick in die blaue Ferne. 1646.",108,98.1,False,positional,FRIEDRICH DURCK,,,,Sec. XVII
@@ -22,7 +22,7 @@ BO0624_88064,180098,20,11,Der junge Mann in blauem Rock und weiBem Kragen und go
 BO0624_88064,180099,21,12,"Den Stamm des Kreuzes umfaBt Maria Magdalena, links halt der Hauptmann zu Pferde,rechts reicht ein Henker Christus den Essigschwamm, weiter zurick stehen Maria und Johannes. 1880.",131,97.7,False,positional,,ANTHONIS VAN DYCK,,,Sec. XIX
 BO0624_88064,180100,22,13,"Der Gott schmiedet die Waffen des Aneas. Skizze zu einem Wandgemalde. Aus der Wiener Zeit des Kiinstlers. Papier. H.26 cm, B.52 cm.Bez.:A.F.75. 1618.",138,97.1,False,positional,ANSELM FEUERBACH,,,,Sec. XVII
 BO0624_88064,180101,23,14,"Christus hangt vor verfinstertem Himmel zwischen den Schachern am Kreuz. An dessen Stamm befindet sich links die Gruppe der Frauen mit Johannes, Maria Magdalena am Kreuz niedergesunken. Rechts losen die Henker um das Kleid, weiter zurick erscheint der Hauptmann mit einem Krieger, im Hintergrunde erblickt man die Hauser von Jerusalem.",146,99.5,False,positional,AMBROSIUS FRANCKEN DER ALTERE,,OGGETTI VARI,,
-BO0624_88064,180102,24,2,"Holz. H.236 cm,B. 157 cm.Oben halbrund. G.R. Abb. Tafel 2.",147,98.1,False,positional,AMBROSIUS FRANCKEN DER ALTERE,,OGGETTI IN LEGNO,,
+BO0624_88064,180102,24,2,"Holz. H.236 cm,B. 157 cm.Oben halbrund. G.R. Abb. Tafel 2.",147,98.1,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88064,180103,25,1600,"1649. Der Heilige berihrt, sich herabbeugend,die klaffende Brustwunde der todesmatt im Kerker Niedergesunkenen, deren Antlitz seine Begleiterin mit einer Kerze erleuchtet. 1661.",155,97.3,False,positional,FRANCESCO FURINI,,,,Sec. XVII
 BO0624_88064,180104,26,16,"Links ein Korb mit Taubennest, daneben Meerschweinchen und Kaninchen, Huhner und eine Schildkrote.Eine Katze schleicht sich heran. Leinwand. H. 74 cm,B. 96 cm. G.R. 1805.",164,97.5,False,positional,,,STILLEBEN,,Sec. XIX
 BO0624_88064,180105,27,17,"In ihrem Kammerlein sitzt ein junges Madchen auf ihrem Stuhl am Bett,sie blickt erwartungs-",172,98.4,False,positional,JAN BAPTISTE GREUZE,,,,
@@ -36,7 +36,7 @@ BO0624_88064,180112,34,24,"In einer Bauernstube sitzt auf einem Stuhl die Bauers
 BO0624_88064,180113,35,25,"An einem FluB bemihen sich Hirten, die Herde ins Wasser zu treiben. Diesseits Hirtenfamilie, weiter zurick Hauser und Berge. Leinwand. H. 52 cm,B.69 cin.Gt.Huysman. 1842. S.R. 1886.",246,97.6,False,positional,GERRIT HUYSMAN,,,,Sec. XIX
 BO0624_88064,180114,36,26,Der Blick fallt auf eine belebte BazarstraBe. Uber den in bunten Farben aufleuchtenden Hausern 1678.,255,95.9,False,positional,LOUIS GABRIEL EUGENE ISABEY,,,,Sec. XVII
 BO0624_88064,180115,37,27,"Darunter ein groBer Feuersalamander,im Verein mit einer VergiBimeinnichtblite auf einem grauen",264,98.4,False,positional,JAN VAN KESSEL,,,,
-BO0624_88064,180116,38,28,"Gegenstick zu vorigem. Eidechsen, Schmetterlinge, Kafer. 1863.",272,92.9,False,positional,JAN VAN KESSEL,,,,Sec. XIX
+BO0624_88064,180116,38,28,"Gegenstick zu vorigem. Eidechsen, Schmetterlinge, Kafer. 1863.",272,92.9,False,none,,,,,Sec. XIX
 BO0624_88064,180117,39,29,"Im Vordergrunde stehendes Wasser,von dem aus das Erdreich nach rechts zu einem Walde ansteigt, der sich nach links hinter einem burgahnlichen Bau hinzieht. 1711.",280,97.5,False,positional,BAREND CORNELIS KOEKKOEK,,,,Sec. XVIII
 BO0624_88064,180118,40,30,"Inmitten des Schlachtgetimmels ist der Feldherr beim Anblick des in den Wolken erscheinenden Christus zu Boden gesunken. Einige Krieger bemihen sich um ihn,wahrend andere in panischem ## BILDNIS EINER JUNGEN DAME.",289,92.6,False,positional,GERARD DE LAIRESSE,,,,
 BO0624_88064,180119,41,31,"Die Dame in ausgeschnittenem Kleid, mit Blumen im Haar, tragt einen kleinen Hund auf dem Arm, der durch einen ihm vorgehaltenen Blitenkranz hindurchschaut. Leinwand. H. 82 cm, B. 66 cm.Oval. G.R.",301,99.2,False,positional,JEANNE PHILIBERTE LEDOUX,,,,
@@ -56,10 +56,10 @@ BO0624_88064,180132,54,44,"Vor dem Rost entkleiden Krieger unter Aufsicht des Pr
 BO0624_88064,180133,55,45,"Die Madonna halt den halb am Boden liegenden Leichnam Christi auf den Knien. Leinwand. H. 133 cm, B. 92,5 cm.",430,98.6,False,positional,,ITALIENISCHER MEISTER,,,
 BO0624_88064,180134,56,46,"Christus ist mit einer schweren Dornenkrone gekront, das Haar fallt leicht gewelt herab, der Mund ist leicht geoffnet, der Blick starr geradeaus gerichtet. Holz. H.32 cm, B.23 cm.G.R.",438,99.2,False,positional,,NIEDERLANDISCHER MEISTER,OGGETTI IN LEGNO,,
 BO0624_88064,180135,57,47,Herr mit langem Blondhaar gewandt.,446,95.7,False,positional,,NIEDERLANDISCHER MEISTER,,,
-BO0624_88064,180136,58,48,"Mann in grinem Wams mit gestreiften gelben Armeln und rotem Guirtel; der bartige Kopf ist energisch nach links gewandt. Um den Hals tragt er einen Panzerkragen, in der Rechten einen",456,99.2,False,positional,HALS DIRK,NIEDERLANDISCHER MEISTER,,,
-BO0624_88064,180137,59,49,"Heinrich Ill., Konig von Frankreich und Polen. Leinwand. H.48 cm, B. 38 cm. G.R.",466,98.0,False,positional,,NIEDERLANDISCHER MEISTER,,,
-BO0624_88064,180138,60,50,Halbe Figur.,472,88.0,False,positional,,NIEDERLANDISCHER MEISTER,,,
-BO0624_88064,180139,61,51,Nach Paolo Veronese. 1667.,473,82.6,False,positional,PAOLO VERONESE,NIEDERLANDISCHER MEISTER,,,Sec. XVII
+BO0624_88064,180136,58,48,"Mann in grinem Wams mit gestreiften gelben Armeln und rotem Guirtel; der bartige Kopf ist energisch nach links gewandt. Um den Hals tragt er einen Panzerkragen, in der Rechten einen",456,99.2,False,none,HALS DIRK,,,,
+BO0624_88064,180137,59,49,"Heinrich Ill., Konig von Frankreich und Polen. Leinwand. H.48 cm, B. 38 cm. G.R.",466,98.0,False,none,,,,,
+BO0624_88064,180138,60,50,Halbe Figur.,472,88.0,False,none,,,,,
+BO0624_88064,180139,61,51,Nach Paolo Veronese. 1667.,473,82.6,False,none,PAOLO VERONESE,,,,Sec. XVII
 BO0624_88064,180140,62,52,Durch das halbrund geschlossene Fenster blickt man iber Kessel und verschiedenes Gemise hin- 1695.,494,95.8,False,positional,GABRIEL METSU,,OGGETTI VARI,,Sec. XVII
 BO0624_88064,180141,63,53,Dame in ausgeschnittenem weibem Seidenkleid mit Goldstickerei und blauem Uberwurf. Durch das dunkle Haar schlingt sich ein rotes Bandchen. 1668.,503,97.1,False,positional,PIERRE MIGNARD DER ALTERE,,,,Sec. XVII
 BO0624_88064,180142,64,54,"Die Bauten der Muhle erheben sich am Wehr eines Flusses, der sich nach vorn in einen Weiher ausbreitet. Im Vordergrunde ein Eichbaum, weiter Blick in die bewaldete Ferne. Leinwand. H. 68 cm, B. 61 cm. S. R. 1677.",511,98.0,False,positional,JAN MIENSE MOLENAER,,,,Sec. XVII
@@ -74,7 +74,7 @@ BO0624_88064,180150,72,62,"Rindvieh und Schafe,vom Hirten gehitet, vor einem mac
 BO0624_88064,180151,73,63,"Gegenstick zu vorigem. Ein Pferd mit Schafen und Ziegen auf der Weide vor einem Felsen, den",587,98.3,False,positional,,,TIERSTUCK,,
 BO0624_88064,180152,74,2,"eine Burg kront. Im Hintergrunde erblickt man einen FluB, iber den eine Steinbricke mit machtigen Bogen fuihrt. Der in einen Schafpelz gehillte Hirt fittert einen Hund. Ebenso.",588,99.4,False,positional,,,TIERSTUCK,,
 BO0624_88064,180153,75,1615,1673.,592,61.5,False,positional,SALVATORE ROSA,,,,Sec. XVII
-BO0624_88064,180154,76,64,In zerklifteter Gebirgsgegend mit vereinzelten Hausern und einer wirren Baumgruppe im Vordergrunde hat sich eben ein Gewitter entladen. Im Vordergrunde eine Fischerfamilie. 1670.,597,97.7,False,positional,SALVATORE ROSA,,,,Sec. XVII
+BO0624_88064,180154,76,64,In zerklifteter Gebirgsgegend mit vereinzelten Hausern und einer wirren Baumgruppe im Vordergrunde hat sich eben ein Gewitter entladen. Im Vordergrunde eine Fischerfamilie. 1670.,597,97.7,False,none,,,,,Sec. XVII
 BO0624_88064,180155,77,65,An einer Baumgruppe vorbei fahrt ein Wagen der Stadt zu. Langs des Weges bewegen Bauern 1661.,606,95.6,False,positional,SALOMON VAN RUYSDAEL,,,,Sec. XVII
 BO0624_88064,180156,78,66,"Ein alter weiBhaariger Mann mit Vollbart prift,vor einem Folianten am Tisch sitzend, den Inhalt einer Flasche,welche er in der linken Hand hochhalt. Hinter ihm eine alte Frau,rechts sieht man hinter dem gerafften Vorhang einen Sarkophag. Holz.H. 47cm,B.37 cm.G.R. 1685.",614,98.5,False,positional,DAVID RYCKAERT,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88064,180157,79,67,"Ein sich aus dem Hintergrunde nach vorn schlangelnder FluBlauf zwischen zwei Hohenzigen, dessen Abhange mit Baumen und Gebisch strichweise bewachsen sind. Rechts einzelnes machtiges Felsstick am Ufer,auf den Hohen und am FuBe der Berge Ortschaften und Schlosser, auf dem FluB Segelschiffe.",624,99.5,False,positional,HERMANN SAFTLEBEN,,SCATOLE,,
@@ -89,7 +89,7 @@ BO0624_88064,180165,87,75,"Kopf einer Kuh. Holz. H. 14 cm, B. 12 cm. Bez.E.V.G.R
 BO0624_88064,180166,88,76,"Knabe in schwarzem Wams mit weiBem Kragen und Manschetten. Die Rechte ruht auf einem Postament,die Linke halt das Schwert, das an Riemen und Kette iber die rechte Schulter hangt. Leinwand. H.74 cm,B. 65 cm.G.R. ## BILDNIS KARLS I.VON ENGLAND.",689,92.9,False,positional,ABRAHAM DE VRIES,,,,
 BO0624_88064,180167,89,77,In dunklem Kleid mit iber die Schulter geworfenem Mantel und weibem Spitzenkragen. In der 1801.,696,95.7,False,positional,ADRIAEN DE VRIES,,,,Sec. XIX
 BO0624_88064,180168,90,78,"Der Herr sitzt, die lange Pfeife rauchend in schwarzer Kleidung mit weiBer Weste in steifem Hut",705,98.4,False,positional,FRANCISCO WHEATLEY,,,,
-BO0624_88064,180169,91,79,"Dame,die in weiBem ausgeschnittenem Kleide Gitarre spielend im Freien auf einem Steinblock sitzt. Uber den linken Arim fallt ein roter Schleier auf die Bank herab. Gegenstick zu vorigem. Ebenso. Abb.Tafel 4. 1662.",710,98.1,False,positional,FRANCISCO WHEATLEY,,,,Sec. XVII
+BO0624_88064,180169,91,79,"Dame,die in weiBem ausgeschnittenem Kleide Gitarre spielend im Freien auf einem Steinblock sitzt. Uber den linken Arim fallt ein roter Schleier auf die Bank herab. Gegenstick zu vorigem. Ebenso. Abb.Tafel 4. 1662.",710,98.1,False,none,,,,,Sec. XVII
 BO0624_88064,180170,92,80,"Inmitten alten Gemauers erblickt man iber einer Bristung mit der Inschrift: REMISSIONEM PECCATORVM. S. SIMION. X. den Oberkorper des bartigen Heiligen,der ein Buch unter dem linken Arm,in einem gegen das Gemauer gelehnten Buche liest. Leinwand. H.116 cm,B.94 cm. S.R.",718,99.4,False,positional,FRANCISCO DE ZURBARAN,,,,
 BO0624_88064,180171,93,181,"silhouette eines Herrn, nach links gewandt. Schwarz Lack auf Goldgrund. Gerahmt. H.14cm,B.12cm.",723,97.8,False,positional,,,Miniaturen,,
 BO0624_88064,180172,94,182,"Silhouette einer Frau, nach links gewandt. Ebenso.",724,95.9,False,positional,,,Miniaturen,,
@@ -805,7 +805,7 @@ BO0624_88064,180881,803,480,"Bewaffnete Venus. Heros dient ihr, indem er ihr den
 BO0624_88064,180882,804,483,Mannliche Statue. Aufschrift: IllXAEP. Rubinglas.,1642,95.7,False,positional,,,Antikes Kunstgewerbe,,
 BO0624_88064,180883,805,484,"Mannlicher bartiger Kopf im Helm, geschmuckt mit einem Zentaur, der ein Weib tragt. Karneol.",1647,97.8,False,positional,,,Antikes Kunstgewerbe,,
 BO0624_88064,180884,806,486,Tanzerin.Dunkles Achatglas.,1648,92.9,False,positional,,,Antikes Kunstgewerbe,,
-BO0624_88064,180885,807,487,"Hektor, der sich zum Kampf mit Achilles begibt. Moment der Verabschiedung von Frau und Kind. Bergkristall.Aufschrift:A IllXAEP. Abb.Tafel 13.",1653,98.6,False,positional,,,Antikes Kunstgewerbe,,
+BO0624_88064,180885,807,487,"Hektor, der sich zum Kampf mit Achilles begibt. Moment der Verabschiedung von Frau und Kind. Bergkristall.Aufschrift:A IllXAEP. Abb.Tafel 13.",1653,98.6,False,positional,KAMPF ARTHUR,,Antikes Kunstgewerbe,,
 BO0624_88064,180886,808,488,Komische bartige\_Theatermaske. Smaragdglas. Abb.Tafel 13.,1654,96.5,False,positional,,,Antikes Kunstgewerbe,,
 BO0624_88064,180887,809,2,489.Weiblicher Kopf. Sardonyxpaste. Erworben in Simferopol.,1655,98.2,False,positional,,,Antikes Kunstgewerbe,,
 BO0624_88064,180888,810,3,Rubinglas.,1656,90.0,False,positional,,,Antikes Kunstgewerbe,,

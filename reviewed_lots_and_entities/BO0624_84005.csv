@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_84005,89875,1,1,Jeune Femme en noir.,30,95.0,False,positional,MIEREVELT,,,,
 BO0624_84005,89876,2,8,8—Le Billet doux.,186,100.0,False,positional,MEISSONIER,,,,
 BO0624_84005,89877,3,9,"## 9—Paysage,soleil couchant.",205,100.0,False,positional,ROUSSEAU,,,,
-BO0624_84005,89878,4,10,Ophelie.,222,82.4,False,positional,ROUSSEAU,,,,
+BO0624_84005,89878,4,10,Ophelie.,222,82.4,False,none,,,,,
 BO0624_84005,89879,5,12,Le Lever.,278,84.2,False,positional,MALLET,,,,
 BO0624_84005,89880,6,13,Un Reitre. ## MONNIER,292,62.1,False,title_direct,MONNIER,,,,
 BO0624_84005,89881,7,14,L'Homme au manteau bleu.,303,93.9,False,positional,MONNIER,,,,

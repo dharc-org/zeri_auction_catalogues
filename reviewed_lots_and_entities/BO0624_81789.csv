@@ -28,7 +28,7 @@ BO0624_81789,105856,26,26,"Padovanino (Domenico Varotari detto il). Sec.XVII. L'
 BO0624_81789,105857,27,27,"Raffaello (Scuola di). Sec. XVI. Ritratto di un Pontefice. Dipinto su tela eseguito con verita, a colori vivaci. Alt. cm. 138,largh. cm. 101.",60,66.7,False,positional,Scuola di Raffaello,,Quadri e Disegni Antichi,,Sec. XVI
 BO0624_81789,105858,28,28,"Daniele da Volterra (Daniele Ricciarelli detto). Sec.XVI. Cristo fra i Giudei, avanti la Crocifissione. Sanguigna. Cornice legno nero. Alt.cm.52,largh.cm.33.",61,99.0,False,title_direct,,,Cornici,,
 BO0624_81789,105859,29,29,"Leoni Lodovico. Sec.XVI. Ritratto di giovane donna. Disegno. Cornice legno dipinto. Alt. cm.19, largh.cm.14.",62,98.5,False,title_direct,,,Cornici,,
-BO0624_81789,105860,30,30,"Domenichino (Domenico Zampieri detto il). Sec. xVII. Didone abbandonata.Bei dipinto su tela,di corretto disegno,notevole per l'armonia dei colori e lottima conservazione.Cornice legno dorato. Altezza cm.170,largh.cm.120.",63,99.3,False,title_direct,,,Cornici,,
+BO0624_81789,105860,30,30,"Domenichino (Domenico Zampieri detto il). Sec. xVII. Didone abbandonata.Bei dipinto su tela,di corretto disegno,notevole per l'armonia dei colori e lottima conservazione.Cornice legno dorato. Altezza cm.170,largh.cm.120.",63,99.3,False,title_direct,"DOMENICHINO, ZAMPIERI DOMENICO",,Cornici,,
 BO0624_81789,105861,31,31,"Dolci Carlo. Sec. XVIlI. Gesu Bambino con gli attributi della passione. Graziosissimo dipinto su tavcla. Cornice legno nero. Alt. cm. 46, largh.cm.37.",64,94.5,False,title_direct,DOLCI CARLO,,Cornici,,
 BO0624_81789,105862,32,32,"Barocci Federico. Sec.XVII. Una santa. Dipinto su tela di corretto disegno e buon colorito. Cornice legno nero. Alt. cm. 66, largh. em. 41.",67,66.7,False,title_direct,,,Cornici,,
 BO0624_81789,105863,33,33,"Allori Cristofano. Sec.XVII. La Sacra Famiglia.Finissimo dipinto su rame a vivi colori. Alt. cm.22, largh.cm. 17.",68,98.6,False,positional,"BRONZINO, ALLORI ALESSANDRO",,Quadri e Disegni Antichi,,
@@ -161,7 +161,7 @@ BO0624_81789,105989,159,159,Scuola Francese. Sec.XIX.Ritratto di donna. Pastello
 BO0624_81789,105990,160,160,"Philips Henri Windham.1820-1868. Ritratto di donna. Finissimo dipinto a tinte morbide e delicate. Cornice legno scolpito e dipinto. Altezza cm.73,larg.em.62.",307,97.7,False,title_direct,,,Cornici,,Sec. XIX
 BO0624_81789,105991,161,161,Constable John. 1776-1837. Paesaggio. Acquarello. Cornice legno,309,96.7,False,title_direct,CONSTABLE J. R. A.,,Cornici,,Sec. XIX
 BO0624_81789,105992,162,162,162.Northcote Giacomo.1746-1831.La Deposizione.Sehizzo: Firmato.,311,97.6,False,positional,,,Quadri e Disegni Antichi,,Sec. XVIII
-BO0624_81789,105993,163,162bis,"Morland G.Sec.XVIII.Scena domestica. Dipinto su tela eseguito con grazia, corretto disegno.Cornice legno nero. Alt. cm.77, larg. cm, 62.",313,95.9,False,title_direct,,,Cornici,,
+BO0624_81789,105993,163,162bis,"Morland G.Sec.XVIII.Scena domestica. Dipinto su tela eseguito con grazia, corretto disegno.Cornice legno nero. Alt. cm.77, larg. cm, 62.",313,95.9,False,title_direct,MORLAND GEORGE,,Cornici,,
 BO0624_81789,105994,164,163,"Davis William.Sec.XVIlI.Paesaggio con figurine. Grazioso dipinto su tavola. Cornice legno dorato. Alt. cm. 18,larg. cm.23.",315,69.2,False,title_direct,,,Cornici,,
 BO0624_81789,105995,165,164,"Culverhause. Sec.XIX.Paesaggio con effetto di luna. Bellissimo di- pinto su tavola nella maniera del Turner. Con firma e data. Cornice legno scolpito e dorato. Alt. cm.18,larg, cm.22.",318,77.4,False,title_direct,,,Cornici,,
 BO0624_81789,105996,166,165,Scuola Inglese. Sec. XVIII. Antica insegna di mascaleia. Dipinto su tavola a forma di losange.Cornice originale in legno scolpito e dorato.,319,98.5,False,title_direct,,,Cornici,,Sec. XVIII
@@ -286,7 +286,7 @@ BO0624_81789,106114,284,282,Grazioso smalto ottagonale francese rappresentante u
 BO0624_81789,106115,285,283,Lotto di quattro miniature diverse.,504,94.4,False,title_direct,,,Miniature,,
 BO0624_81789,106116,286,284,"Lotto di otto smalti,mosaici e miniature diverse.",505,96.0,False,title_direct,,,Miniature,,
 BO0624_81789,106117,287,285,"Bella cornicetta in argento cesellato, per miniature. See. XVII.",506,96.8,False,title_direct,,,Miniature,,
-BO0624_81789,106118,288,286,Un operaio. Statuetta in bronzo del Meunier.,510,95.5,False,positional,,,Bronzi; Marmi,,
+BO0624_81789,106118,288,286,Un operaio. Statuetta in bronzo del Meunier.,510,95.5,False,positional,MEUNIER F.,,Bronzi; Marmi,,
 BO0624_81789,106119,289,287,Statuetta in bronzo rappresentante figura di donna nuda.,512,96.5,False,positional,,,Bronzi; Marmi,,
 BO0624_81789,106120,290,288,Figura virile in bronzo.,514,92.0,False,positional,,,Bronzi; Marmi,,
 BO0624_81789,106121,291,289,Donna seduta. Bronzo ben modellato.,516,94.3,False,positional,,,Bronzi; Marmi,,

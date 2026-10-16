@@ -304,7 +304,7 @@ BO0624_88782,214372,302,337,"LEONARDO DA VINCI. Recueil de harges et de tetes. P
 BO0624_88782,214373,303,338,"MEDICI, LORENZO DE. Poesie. Bergamo 1763. Pergamentbd.mit Vergoldung.",474,97.0,False,positional,,,BUCHER,,Sec. XVIII
 BO0624_88782,214374,304,339,ARIOST.Orlando furioso. Florenz 1823. 8 Bde. 4.Mit Portrat. Halb=,476,96.8,False,positional,,,BUCHER,,Sec. XIX
 BO0624_88782,214375,305,340,SAMMLUNG VON 433 GIPSABGUSSEN NACH BERUHMTEN MUSEEN,478,96.2,False,positional,,,BUCHER,,
-BO0624_88782,214376,306,341,GAVARNI. Masques et Visages. Sammlung von 142 ganzseitigen Lithographien.,480,97.2,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88782,214376,306,341,GAVARNI. Masques et Visages. Sammlung von 142 ganzseitigen Lithographien.,480,97.2,False,positional,GAVARNI,,STAMPE E INCISIONI,,
 BO0624_88782,214377,307,342,MORTIMER Sammlung von 15 Original-Radierungen.1778. Folio.1 Mit Widmung an Reynolds. Halbldr.,482,97.8,False,positional,REYNOLDS JOSHUA,,ACQUEFORTI,,Sec. XVIII
 BO0624_88782,214378,308,343,"HEATH, W. Sammlung von 58 Original-Radierungen mit Karikaturen von Heath.",483,97.2,False,positional,,,ACQUEFORTI,,
 BO0624_88782,214379,309,345,FINDEN'S TABLEAUX. London 1838. Folio. Mit 20 Stahlstichtafeln. Reih vergoldeter gruner Ldrbd. Sehr schones Exemplar.,486,98.2,False,positional,,,BUCHER,,Sec. XIX
@@ -410,7 +410,7 @@ BO0624_88782,214478,408,447,UNBEKANNTER MEISTER um 1680. Miniaturportrat eines F
 BO0624_88782,214479,409,448,KONVOLuT:Funf kolorierte Jagdlithographien. Wien ca.1810. Quer=Kleinfolio.,639,97.3,False,positional,,Scuola Viennese,GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88782,214480,410,449,DESGL.: Sieben kolorierte Pferdesportlithographien.Wien ca.1812. Quer-Kleinfolio.,640,97.5,False,positional,,Scuola Viennese,GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88782,214481,411,450,DESGL.: Sechzehn Kupferstiche von Wenzel Hollar.,641,95.7,False,positional,,,OGGETTI IN RAME,,
-BO0624_88782,214482,412,451,M.v.SCHWIND (1804-1871).Marhenmotiv.Sign.Lwd.G.R.92x104 cm.,642,96.6,False,positional,,,GRAPHIK; GEMALDE,,Sec. XIX
+BO0624_88782,214482,412,451,M.v.SCHWIND (1804-1871).Marhenmotiv.Sign.Lwd.G.R.92x104 cm.,642,96.6,False,positional,VON SCHWIND MORITZ,,GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88782,214483,413,452,GEORGE CRUlISHANK (1792-1878). Karnevalszene.Lwd. G.R. 31x42 cm.,643,96.7,False,positional,,,GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88782,214484,414,453,"JAMES BAyNES (um 1800). Romantisce Landshaff. Aquarell. 36,5x53 cm.",645,96.8,False,positional,,,GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88782,214485,415,455,W. GREEN (um 1800). Shottishe Landschaf. Aquarell. 20x29 cm.,646,96.4,False,positional,,,GRAPHIK; GEMALDE,,Sec. XIX
@@ -468,7 +468,7 @@ BO0624_88782,214536,466,510,"SEPIA-PINSELZEICHNuNG von L. Shoneberger: Landschaf
 BO0624_88782,214537,467,511,KOHLEZEICHNUNG von Simon Vouet:Rudkenansicht eines sitzenden Mannes. Weib gehoht.26x24 cm.,725,97.8,False,positional,,,GRAPHIK; GEMALDE,,
 BO0624_88782,214538,468,512,KONVOLUT:20 kolorierte Karikaturenkupfer von Th.Robbin. (Ca.1810.&gt; Quart.,726,97.3,False,positional,,,GRAPHIK; GEMALDE,,Sec. XIX
 BO0624_88782,214539,469,513,DESGL.:27 kolorierte Lithographien von Henry Monnier.(Ca.1835.》 Quer=Quart.,727,97.2,False,positional,MONNIER HENRI,,STAMPE E INCISIONI,,Sec. XIX
-BO0624_88782,214540,470,514,DESGL.:8 kolorierte Lithographien von Gavarni und 5 desgl. von Cham.,728,97.0,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88782,214540,470,514,DESGL.:8 kolorierte Lithographien von Gavarni und 5 desgl. von Cham.,728,97.0,False,positional,GAVARNI,,STAMPE E INCISIONI,,
 BO0624_88782,214541,471,515,DESGL.:35 kolorierte Lithographien von Geniel Goudiet u.a.,729,96.6,False,positional,,,STAMPE E INCISIONI,,
 BO0624_88782,214542,472,516,KONVOLuT: Zwei Porzellan-Ingwertopfe mit Dedel und Blaudekor und zwei Rheinsberger Fayencekaheln mit manganviolettem Dekor.,740,98.4,False,positional,,,KERAMIK,,
 BO0624_88782,214543,473,517,518 EIN PAAR CHINESISCHE PORZELLAN-INGWERTOPFE mit um=,741,96.4,False,positional,,,KERAMIK,,

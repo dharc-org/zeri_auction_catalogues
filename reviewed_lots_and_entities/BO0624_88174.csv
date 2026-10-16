@@ -1,135 +1,135 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88174,458830,1,1590,1677. Haag.,5,78.3,False,positional,ADRIAEN CORNELISZ VAN LINSCHOTEN,,,,Sec. XVII
-BO0624_88174,458831,2,1,Christus auf dem Olberg. Chriftus kniend in blauem Mantel. Ein Engel naht ihm,7,98.7,False,positional,ADRIAEN CORNELISZ VAN LINSCHOTEN,,,,
-BO0624_88174,458832,3,2,Die Heimkehr des verlorenen Sohnes. Vor einer Palaftarchitektur umarmt der Vater,14,98.8,False,positional,ADRIAEN CORNELISZ VAN LINSCHOTEN,,,,
-BO0624_88174,458833,4,3,"Gottvater kront Christus. Rehts Gottvater auf dem Throne, davor kniend Chriftus,",21,98.7,False,positional,ADRIAEN CORNELISZ VAN LINSCHOTEN,,,,
+BO0624_88174,458831,2,1,Christus auf dem Olberg. Chriftus kniend in blauem Mantel. Ein Engel naht ihm,7,98.7,False,none,,,,,
+BO0624_88174,458832,3,2,Die Heimkehr des verlorenen Sohnes. Vor einer Palaftarchitektur umarmt der Vater,14,98.8,False,none,,,,,
+BO0624_88174,458833,4,3,"Gottvater kront Christus. Rehts Gottvater auf dem Throne, davor kniend Chriftus,",21,98.7,False,none,,,,,
 BO0624_88174,458834,5,4,"Ruinen. Hohe Ruinen, im Vordergrunde ein Reiter mit Shimmel. Leinwand. 73X58 cm.Goldrahmen. 1639.Courtrai-UItrecht.",28,87.3,False,positional,PANNINI,,,,Sec. XVII
 BO0624_88174,458835,6,5,Die Flucht nach Agypten. Grobe Landfhaft mit See und Bergen. Im Vordergrunde 1762. VeronaSt.Petersburg.,34,84.6,False,positional,ROELAND SAVERY,,,,Sec. XVIII
 BO0624_88174,458836,7,6,Galathea auf einer von Delphinen gezogenen Mufhel ruhend. Putten halten ihr Gewand.,43,98.8,False,positional,PIETRO ROTARI,,,,
-BO0624_88174,458837,8,7,"Stilleben von Budern, Mulikinftrumenten ufw. 73X93 cm. Bez.:1783. Tannenholzrahmen.",49,98.7,False,positional,PIETRO ROTARI,,,,Sec. XVIII
-BO0624_88174,458838,9,8,Desgleichen von Mulikinftrumenten.,50,97.1,False,positional,PIETRO ROTARI,,,,
-BO0624_88174,458839,10,73,X93 cm. Tannenholzrahmen.,51,95.8,False,positional,PIETRO ROTARI,,,,
+BO0624_88174,458837,8,7,"Stilleben von Budern, Mulikinftrumenten ufw. 73X93 cm. Bez.:1783. Tannenholzrahmen.",49,98.7,False,none,,,,,Sec. XVIII
+BO0624_88174,458838,9,8,Desgleichen von Mulikinftrumenten.,50,97.1,False,none,,,,,
+BO0624_88174,458839,10,73,X93 cm. Tannenholzrahmen.,51,95.8,False,none,,,,,
 BO0624_88174,458840,11,16831733,Antwerpen—Paris.,56,76.9,False,positional,KAREL VAN FALENS,,,,
-BO0624_88174,458841,12,9,Landschaft mit Kuhherde im Vordergrunde. 1705.Neapel.,58,84.8,False,positional,KAREL VAN FALENS,,,,Sec. XVIII
+BO0624_88174,458841,12,9,Landschaft mit Kuhherde im Vordergrunde. 1705.Neapel.,58,84.8,False,none,,,,,Sec. XVIII
 BO0624_88174,458842,13,10,"Alexander und Diogenes. Links Alexander, redhts Diogenes in der Tonne fitzend. Leinwand. 64X95 cm. Goldrahmen.",66,98.6,False,positional,LUCA GIORDANO,,,,
 BO0624_88174,458843,14,11,Der Fischmarkt. Leinwand. 80X65 cm.Goldrahmen. 1624.Rom-Venedig.,70,81.1,False,positional,,NIEDERLANDISCHE SCHULE,,,Sec. XVII
 BO0624_88174,458844,15,12,Der Schutzengel ein mit Rofen bekranztes Madchen fuhrend.,76,97.4,False,positional,DOMENICO FETI,,,,
-BO0624_88174,458845,16,2,Leinwand.110X90cm.,77,94.4,False,positional,DOMENICO FETI,,,,
+BO0624_88174,458845,16,2,Leinwand.110X90cm.,77,94.4,False,none,,,,,
 BO0624_88174,458846,17,1712,1793.Venedig.,81,82.8,False,positional,FRANCESCO GUARDI,,,,Sec. XVIII
-BO0624_88174,458847,18,13,Der Canale Grande mit der Rialtobrudke. Leinwand. 50X71 cm.Goldrahmen.,83,70.4,False,positional,FRANCESCO GUARDI,,,,
+BO0624_88174,458847,18,13,Der Canale Grande mit der Rialtobrudke. Leinwand. 50X71 cm.Goldrahmen.,83,70.4,False,none,CANALE ANTONIO,,,,
 BO0624_88174,458848,19,14,Gemisemarkt.Italienifher Marktplatz mit vielen Perfonen und Gemulehandlern.,88,98.0,False,positional,LONGHI,VENEZIANISCHE SCHULE,,,
-BO0624_88174,458849,20,I,m Vordergrunde eine Heiligenlaule und Brunnen. Hinten Palafte und Campanile. Leinwand. 52X68 cm.Goldrahmen.,89,99.5,False,positional,LONGHI,VENEZIANISCHE SCHULE,,,
+BO0624_88174,458849,20,I,m Vordergrunde eine Heiligenlaule und Brunnen. Hinten Palafte und Campanile. Leinwand. 52X68 cm.Goldrahmen.,89,99.5,False,none,,,,,
 BO0624_88174,458850,21,1658,1724.Hamburg-Wien.,93,87.2,False,positional,FRANZ WERNER TAMM,Scuola Viennese,,,Sec. XVIII
-BO0624_88174,458851,22,15,Stilleben. Fruchte und ein Hahn. Leinwand.67X90 cm.Goldrahmen.,95,97.5,False,positional,FRANZ WERNER TAMM,,,,
+BO0624_88174,458851,22,15,Stilleben. Fruchte und ein Hahn. Leinwand.67X90 cm.Goldrahmen.,95,97.5,False,none,,,,,
 BO0624_88174,458852,23,16,"Anbetung der heiligen drei Konige. Rechts Maria und Josef, von links nahen die Konige.",99,98.2,False,positional,BASSANI,,,,
-BO0624_88174,458853,24,17,Bildnis eines Herrn mit einem kleinen weiben Hund in blauem Rode mit roter,105,98.0,False,positional,BASSANI,,,,
+BO0624_88174,458853,24,17,Bildnis eines Herrn mit einem kleinen weiben Hund in blauem Rode mit roter,105,98.0,False,none,,,,,
 BO0624_88174,458854,25,18,Reitergefecht. Links hinten Turme einer Stadt. Im Vordergrunde kampfende Reiter. Leinwand. 95X80 cm.Goldrahmen.,111,82.8,False,positional,KIEN,,OGGETTI VARI,,
-BO0624_88174,458855,26,19,Landschaft mit einem Brunnen. Eine Frau reidt einem ihr nahenden Krieger den,115,98.0,False,positional,KIEN,,,,
-BO0624_88174,458856,27,2,gefuillten Krug. Im Hintergrunde Haufer. Leinwand. 96X74 cm.Goldrahmen.,116,98.5,False,positional,KIEN,,,,
+BO0624_88174,458855,26,19,Landschaft mit einem Brunnen. Eine Frau reidt einem ihr nahenden Krieger den,115,98.0,False,none,,,,,
+BO0624_88174,458856,27,2,gefuillten Krug. Im Hintergrunde Haufer. Leinwand. 96X74 cm.Goldrahmen.,116,98.5,False,none,,,,,
 BO0624_88174,458857,28,1695,1768.Piacenza-Rom.,120,87.2,False,positional,GIOVANNI PAOLO PANNINI,,,,Sec. XVIII
-BO0624_88174,458858,29,20,"Architekturbild. Antike Baurefte,rechts davor ein Reiter. Leinwand. 69X92 cm. Eidenholzrahmen.",122,98.3,False,positional,GIOVANNI PAOLO PANNINI,,,,
+BO0624_88174,458858,29,20,"Architekturbild. Antike Baurefte,rechts davor ein Reiter. Leinwand. 69X92 cm. Eidenholzrahmen.",122,98.3,False,none,,,,,
 BO0624_88174,458859,30,21,"Rom. Links die Peterskirche, rechts die Stadt von Janicolo aus gelehen. Leinwand. 46X80 cm. Mahagonirahmen mit fchwarzen Eken. 1605.Bologna.",126,93.8,False,positional,,DEUTSCHE SCHULE,,,Sec. XVII
 BO0624_88174,458860,31,22,Stilleben. Tote Tiere und Gemule. Nachtfimmung. Leinwand. 90X 120 cm. Goldrahmen.,132,98.0,False,positional,CARLO ANTONIO PROCACCINI,,,,
-BO0624_88174,458861,32,23,"Bildnis einer Flirstin.? Queen Anne in blauem, buntblumigem Kleide. Leinwand. 104X80 cm. Goldrahmen.",136,98.4,False,positional,CARLO ANTONIO PROCACCINI,,,,
+BO0624_88174,458861,32,23,"Bildnis einer Flirstin.? Queen Anne in blauem, buntblumigem Kleide. Leinwand. 104X80 cm. Goldrahmen.",136,98.4,False,none,,,,,
 BO0624_88174,458862,33,24,"Johannes der Taufer. Rechts fitzt Johannes der Taufer, im Hintergrunde Chriltus, oben Putten.",140,98.3,False,positional,,SCHULE VON BOLOGNA,,,
-BO0624_88174,458863,34,25,"Stilleben. Blumen, Bananen, Pfirfice.",146,95.7,False,positional,,SCHULE VON BOLOGNA,,,
-BO0624_88174,458864,35,26,Bildnis dreier toskanischer Prinzen neben einem Tifhe mit Globus und Karte von,148,98.1,False,positional,,SCHULE VON BOLOGNA,,,
-BO0624_88174,458865,36,27,Die heiligen drei Konige. Links vor der Hutte Maria und Jofef. Von rechts und hinten nahen die Konige. Leinwand. 80X60 cm. Goldrahmen.,153,72.8,False,positional,,SCHULE VON BOLOGNA,,,
-BO0624_88174,458866,37,28,Heiliger Antonius in freier Landfhaft fitzend. Im Arme den Lilienftengel haltend. Halbrund. Leinwand.100X65 cm.Goldrahmen.,155,79.0,False,positional,,SCHULE VON BOLOGNA,,,
-BO0624_88174,458867,38,29,Architekturbild. GroBe Arhitektur mit Saulenhallen und Staffage. Leinwand. 115X195cm.Ohne Rahmen.,157,78.5,False,positional,,SCHULE VON BOLOGNA,CORNICI,,
-BO0624_88174,458868,39,30,Christus und die Samariterin. Von rechts naht die Samariterin mit ihren Gefaben,159,98.1,False,positional,,SCHULE VON BOLOGNA,,,
-BO0624_88174,458869,40,8,"dem Brunnen, links Chriftus und zwei Apoftel. Leinwand.112X93 cm.Goldrahmen.",160,98.6,False,positional,,SCHULE VON BOLOGNA,,,
+BO0624_88174,458863,34,25,"Stilleben. Blumen, Bananen, Pfirfice.",146,95.7,False,none,,,,,
+BO0624_88174,458864,35,26,Bildnis dreier toskanischer Prinzen neben einem Tifhe mit Globus und Karte von,148,98.1,False,none,,,,,
+BO0624_88174,458865,36,27,Die heiligen drei Konige. Links vor der Hutte Maria und Jofef. Von rechts und hinten nahen die Konige. Leinwand. 80X60 cm. Goldrahmen.,153,72.8,False,none,,,,,
+BO0624_88174,458866,37,28,Heiliger Antonius in freier Landfhaft fitzend. Im Arme den Lilienftengel haltend. Halbrund. Leinwand.100X65 cm.Goldrahmen.,155,79.0,False,none,,,,,
+BO0624_88174,458867,38,29,Architekturbild. GroBe Arhitektur mit Saulenhallen und Staffage. Leinwand. 115X195cm.Ohne Rahmen.,157,78.5,False,none,,,CORNICI,,
+BO0624_88174,458868,39,30,Christus und die Samariterin. Von rechts naht die Samariterin mit ihren Gefaben,159,98.1,False,none,,,,,
+BO0624_88174,458869,40,8,"dem Brunnen, links Chriftus und zwei Apoftel. Leinwand.112X93 cm.Goldrahmen.",160,98.6,False,none,,,,,
 BO0624_88174,458870,41,1621,1676.Rom.,163,76.2,False,positional,J. COURTOIS; BOURGUIGNON,,,,Sec. XVII
 BO0624_88174,458871,42,31,Reiterschlacht. 1678.NymwegenAmfterdam.,171,71.9,False,positional,OTTO MARCELLIS VAN SCHRIECK,,OGGETTI VARI,,Sec. XVII
-BO0624_88174,458872,43,32,Stilleben. Felsen mit Pfanzen und Infekten.,173,96.5,False,positional,OTTO MARCELLIS VAN SCHRIECK,,,,
-BO0624_88174,458873,44,2,Leinwand. 50X40 cm. Sdwarzer Rahmen.,174,97.1,False,positional,OTTO MARCELLIS VAN SCHRIECK,,CORNICI,,
+BO0624_88174,458872,43,32,Stilleben. Felsen mit Pfanzen und Infekten.,173,96.5,False,none,,,,,
+BO0624_88174,458873,44,2,Leinwand. 50X40 cm. Sdwarzer Rahmen.,174,97.1,False,none,,,CORNICI,,
 BO0624_88174,458874,45,1711,1794.Venedig.,178,82.8,False,positional,JACOPO MARIESCHI,,,,Sec. XVIII
-BO0624_88174,458875,46,33,"Geburt des Johannes. Links Elifabeth auf dem Bette liegend. In der Mitte die Magd mit dem Kinde, rehts Zaharias. 1788.Florenz",180,93.1,False,positional,JACOPO MARIESCHI,,,,Sec. XVIII
+BO0624_88174,458875,46,33,"Geburt des Johannes. Links Elifabeth auf dem Bette liegend. In der Mitte die Magd mit dem Kinde, rehts Zaharias. 1788.Florenz",180,93.1,False,none,,,,,Sec. XVIII
 BO0624_88174,458876,47,34,"Landschaft mit zwei Figuren, im Laube ist eine Shlange verborgen. Leinwand. 66X50 cm.Goldrahmen.",188,79.7,False,positional,FRANCESCO ZUCCARELLI,,,,
-BO0624_88174,458877,48,35,"Anbetender Heliger. Ein Heiliger in grauer Kutte, betend. Vor ihm zwei Engels putten mit einem Stabe. Blauer Himmel. Leinwand. 62X58 cm.Goldrahmen. 1670.Genua-Mantua.",193,93.0,False,positional,FRANCESCO ZUCCARELLI,,,,Sec. XVII
+BO0624_88174,458877,48,35,"Anbetender Heliger. Ein Heiliger in grauer Kutte, betend. Vor ihm zwei Engels putten mit einem Stabe. Blauer Himmel. Leinwand. 62X58 cm.Goldrahmen. 1670.Genua-Mantua.",193,93.0,False,none,,,,,Sec. XVII
 BO0624_88174,458878,49,36,Noah und die Tiere der Arche. Leinwand. 95X145 cm. Ohne Rahmen.,199,97.5,False,positional,GIOVANNI BENEDETTO CASTIGLIONE,,CORNICI,,
 BO0624_88174,458879,50,37,"Christus im Hause des Simon. Rechts Chriftus, dem Magdalena die FuBe falbt, umgeben von Jungern. Rechts Auspeitfhung von Sklaven. Leinwand. 93X130 cm.Alter bemalter Rahmen. 1733.Haarlem-Amfterdam.",203,92.7,False,positional,,VENEZIANISCHE SCHULE,CORNICI,,Sec. XVIII
 BO0624_88174,458880,51,38,Reitergefecht. Kampf gegen Turken.,209,95.5,False,positional,JAN VAN HUCHTENBURGH,,OGGETTI VARI,,
-BO0624_88174,458881,52,2,Leinwand.95X140 cm. Goldrahmen.,210,96.7,False,positional,JAN VAN HUCHTENBURGH,,,,
-BO0624_88174,458882,53,3,39.Reitergefecht.,211,94.1,False,positional,JAN VAN HUCHTENBURGH,,OGGETTI VARI,,
-BO0624_88174,458883,54,40,"Die Flucht nach Agypten. Joseph in braungelbem Mantel fuhrt den Efel, auf dem Maria und das Kind fitzen. 1621.Ferrara.",219,92.7,False,positional,JAN VAN HUCHTENBURGH,,,,Sec. XVII
+BO0624_88174,458881,52,2,Leinwand.95X140 cm. Goldrahmen.,210,96.7,False,none,,,,,
+BO0624_88174,458882,53,3,39.Reitergefecht.,211,94.1,False,none,,,OGGETTI VARI,,
+BO0624_88174,458883,54,40,"Die Flucht nach Agypten. Joseph in braungelbem Mantel fuhrt den Efel, auf dem Maria und das Kind fitzen. 1621.Ferrara.",219,92.7,False,none,,,,,Sec. XVII
 BO0624_88174,458884,55,41,Anbetung der heiligen drei Konige. Von rechts hinten nahen die Konige der vorne links vor einer Architektur fitzenden Maria. Leinwand. 180X99 cm.Goldrahmen. Abb.Tafel 5.,224,99.1,False,positional,IPPOLITO SCARSELLA,,,,
 BO0624_88174,458885,56,42,"Ausgelassone Gesellschaft. Im Inneren einer Shenke tanzen Manner und Frauen, andere trinken. 1719.Amfterdam",228,90.8,False,positional,PIETER AERTSEN,,,,Sec. XVIII
 BO0624_88174,458886,57,43,"Stilleben von Ziege, Truthahn, Huhnern. Rehts oben ein Knabe. Leinwand. 150X 143 cm. WeiBer Rahmen.",236,75.0,False,positional,JAN WEENIX,,CORNICI,,
-BO0624_88174,458887,58,44,Stilleben. Totes Geflugel und Mann mit Efel.,238,96.6,False,positional,JAN WEENIX,,,,
-BO0624_88174,458888,59,4,Leinwand.145X130 cm.Weiber Rahmen.,239,97.1,False,positional,JAN WEENIX,,CORNICI,,
+BO0624_88174,458887,58,44,Stilleben. Totes Geflugel und Mann mit Efel.,238,96.6,False,none,,,,,
+BO0624_88174,458888,59,4,Leinwand.145X130 cm.Weiber Rahmen.,239,97.1,False,none,,,CORNICI,,
 BO0624_88174,458889,60,1590,1630.Bulto Arlizio-Mailand.,243,91.2,False,positional,DANIELE CRESPI,,,,Sec. XVII
-BO0624_88174,458890,61,45,"Beweinung Christi. Rechts zwei Engel, links der Leichnam Christi mit Joseph von Arimathia und Maria.",245,98.5,False,positional,DANIELE CRESPI,,,,
-BO0624_88174,458891,62,46,"Jehuda und Thamar. Jehuda in braunem Mantel reidt Thamar in blauem Kleid mit weibem Mantel den Ring. Im Hintergrunde Landfhaft mit Arhitekturen. Leinwand,93X100 cm.Goldrahmen. Abb.Tafel1.",253,99.2,False,positional,DANIELE CRESPI,,,,
-BO0624_88174,458892,63,47,Caritas. Eine Frau reicht einem gefangenen alten Manne ihre Bruf. Von rechts blidken zwei Manner durchs Fenfter. Leinwand. 90X118 cm. Shwarzer Rahmen.,257,99.0,False,positional,DANIELE CRESPI,,CORNICI,,
+BO0624_88174,458890,61,45,"Beweinung Christi. Rechts zwei Engel, links der Leichnam Christi mit Joseph von Arimathia und Maria.",245,98.5,False,none,,,,,
+BO0624_88174,458891,62,46,"Jehuda und Thamar. Jehuda in braunem Mantel reidt Thamar in blauem Kleid mit weibem Mantel den Ring. Im Hintergrunde Landfhaft mit Arhitekturen. Leinwand,93X100 cm.Goldrahmen. Abb.Tafel1.",253,99.2,False,none,,,,,
+BO0624_88174,458892,63,47,Caritas. Eine Frau reicht einem gefangenen alten Manne ihre Bruf. Von rechts blidken zwei Manner durchs Fenfter. Leinwand. 90X118 cm. Shwarzer Rahmen.,257,99.0,False,none,,,CORNICI,,
 BO0624_88174,458893,64,48,Die heilige Familie mit dem Stifter. Leinwand. 75X90cm.Goldrahmen.,261,69.3,False,positional,TIZIAN,,,,
 BO0624_88174,458894,65,49,Venus und Amor. Leinwand 85X50 cm. Shwarzer Rahmen.,267,81.9,False,positional,,DEUTSCHE SCHULE,CORNICI,,
-BO0624_88174,458895,66,50,Die Uberraschung. Die fhmaulenden Jager uberralht ein Eber. 30X36 cm. Shwarzer Rahmen. 1563.Florenz.,268,91.1,False,positional,,DEUTSCHE SCHULE,CORNICI,,Sec. XVI
+BO0624_88174,458895,66,50,Die Uberraschung. Die fhmaulenden Jager uberralht ein Eber. 30X36 cm. Shwarzer Rahmen. 1563.Florenz.,268,91.1,False,none,,,CORNICI,,Sec. XVI
 BO0624_88174,458896,67,51,Madonna mit dem Kinde. Maria itzend in bordeauxrotem Kleide mit graugrunem Mantel. Auf ihrem Arm das Kind in weibem Rodkhen an ihre Bruft gelchmiegt. Holz.65X52 cm. Shwarzer Rahmen.,273,99.2,False,positional,FRANCESCO DEI ROSSI; IL SALVIATI,,CORNICI,,
 BO0624_88174,458897,68,52,Dulce domum or the Return from Shool.,277,96.0,False,positional,JOHN JONES; W.R.BIGG,,,,
-BO0624_88174,458898,69,53,Black Monday or the Departure for Shool.,281,96.3,False,positional,JOHN JONES; W.R.BIGG,,,,
+BO0624_88174,458898,69,53,Black Monday or the Departure for Shool.,281,96.3,False,none,,,,,
 BO0624_88174,458899,70,54,Kartenspielende Bauern.,287,93.6,False,positional,TENIERS,,,,
-BO0624_88174,458900,71,55,"Landschait.Auf einer Anhohe eine Hute mit Taubenfhlag, rechts ein Tumpel, links in der Ferne ein Dorf.",293,98.5,False,positional,TENIERS,,,,
+BO0624_88174,458900,71,55,"Landschait.Auf einer Anhohe eine Hute mit Taubenfhlag, rechts ein Tumpel, links in der Ferne ein Dorf.",293,98.5,False,none,,,,,
 BO0624_88174,458901,72,56,Landschaft mit Hirfhen in einem Walde.,299,96.1,False,positional,J. E. RIDINGER,,,,
 BO0624_88174,458902,73,57,"Der Reiter. Ein Reiter, gefolgt von feinen Hunden,reitet auf einem Shimmel in rotem 1792.Plymouth-London.",305,87.1,False,positional,,NIEDERLANDISCHE SCHULE,,,Sec. XVIII
 BO0624_88174,458903,74,58,"Caritas. Caritas mit drei Kindern in rotem Mantel, das eine an ihrer Bruft faugend.",315,98.2,False,positional,SIR JOSHUA REYNOLDS,,,,
 BO0624_88174,458904,75,59,Bacchantenzug von I. Beth.,321,94.1,False,positional,P. P.RUBENS,,,,
-BO0624_88174,458905,76,60,Wachsbossierung. Chriftus mit der Dornenkrone. 17. Jahrhundert.,325,97.5,False,positional,P. P.RUBENS,,,,Sec. XVII
-BO0624_88174,458906,77,61,Bilnis eines jungen vornehmen Madcens in blauem Kleide und violettem Mantel mit zwei Hunden..,331,98.4,False,positional,P. P.RUBENS,,,,
+BO0624_88174,458905,76,60,Wachsbossierung. Chriftus mit der Dornenkrone. 17. Jahrhundert.,325,97.5,False,none,,,,,Sec. XVII
+BO0624_88174,458906,77,61,Bilnis eines jungen vornehmen Madcens in blauem Kleide und violettem Mantel mit zwei Hunden..,331,98.4,False,none,,,,,
 BO0624_88174,458907,78,62,"Stilleben, Mufhel, toter Kanarienvogel, Fructe und Blumen. Holz. 49X38 cm.Schwarzer Rahmen. Bez.v.Oft.",337,98.4,False,positional,VAN OST,,CORNICI,,
 BO0624_88174,458908,79,63,"FluBlandschait. Links der FluB mit Booten und einem Hugel mit Kuhen, redts ein Stadttor und die Kuppeln und Turme einer Stadt. Kupfer. 36X43 cm. Schwarzer Rahmen.",341,67.5,False,positional,,NIEDERLANDISCHE SCHULE,CORNICI,,
-BO0624_88174,458909,80,64,"Die heilige Familie. In einer Landfhaft mit Hugeln fitzt Maria auf einer Rafenbank,",345,98.2,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_88174,458910,81,65,"Hafen mit antiker Ruine und ShloB links, rechts die ftille See mit Shiffen. Leinwand. 33X42 cm. Shwarzer Rahmen. 1677.Amfterdam.",353,92.2,False,positional,,NIEDERLANDISCHE SCHULE,CORNICI,,Sec. XVII
+BO0624_88174,458909,80,64,"Die heilige Familie. In einer Landfhaft mit Hugeln fitzt Maria auf einer Rafenbank,",345,98.2,False,none,,,,,
+BO0624_88174,458910,81,65,"Hafen mit antiker Ruine und ShloB links, rechts die ftille See mit Shiffen. Leinwand. 33X42 cm. Shwarzer Rahmen. 1677.Amfterdam.",353,92.2,False,none,,,CORNICI,,Sec. XVII
 BO0624_88174,458911,82,66,"Landschaft bei Sonnenuntergang. Vorne links ein Shiff, in der Mitte eine Kirhe, hinter der die Sonne untergeht.",359,81.7,False,positional,AERNOUTVAN DER NEER,,,,
-BO0624_88174,458912,83,67,"Bildnis einer lyralpielenden Dame in fhwarzem, tiefausgefhnittenem Kleide. Leinwand. 70X55 cm.Shwarzer Rahmen. 1720.Antwerpen.",366,92.2,False,positional,AERNOUTVAN DER NEER,,CORNICI,,Sec. XVIII
+BO0624_88174,458912,83,67,"Bildnis einer lyralpielenden Dame in fhwarzem, tiefausgefhnittenem Kleide. Leinwand. 70X55 cm.Shwarzer Rahmen. 1720.Antwerpen.",366,92.2,False,none,,,CORNICI,,Sec. XVIII
 BO0624_88174,458913,84,68,"Landschaft mit Kuhen, die links unter Baumen mit ihrem Hirten lagern, Rehts ein 1656.Leiden-Haag.",372,88.5,False,positional,PIETER VAN BLOEMEN,,,,Sec. XVII
 BO0624_88174,458914,85,69,FluBlandschaft mit Segelfhiffen und Stafage. Holz. 49X65 cm.Gelhnitzter Rahmen.,381,70.5,False,positional,JAN VAN GOYEN,,CORNICI,,
-BO0624_88174,458915,86,70,Hirt und Hirtin. Die Hirtin auf den rehten Arm geltutzt. Hinter ihr der Hirten=,390,98.1,False,positional,JAN VAN GOYEN,,,,
-BO0624_88174,458916,87,2,knabe Flote blafend.,391,95.0,False,positional,JAN VAN GOYEN,,,,
+BO0624_88174,458915,86,70,Hirt und Hirtin. Die Hirtin auf den rehten Arm geltutzt. Hinter ihr der Hirten=,390,98.1,False,none,,,,,
+BO0624_88174,458916,87,2,knabe Flote blafend.,391,95.0,False,none,,,,,
 BO0624_88174,458917,88,1616,1680.Dortredt-Amfterdam.,397,90.2,False,positional,FERDINAND BOL,,,,Sec. XVII
-BO0624_88174,458918,89,71,"Jakob trifft Rahel am Brunnen. Rechts ein halbnadkter Hirt, von dem Rudken gefehen, in der Mitte hinter dem Brunnen Rahel und eine Dienerin. Links die Shafherde und Jacob.",399,96.0,False,positional,FERDINAND BOL,,,,
+BO0624_88174,458918,89,71,"Jakob trifft Rahel am Brunnen. Rechts ein halbnadkter Hirt, von dem Rudken gefehen, in der Mitte hinter dem Brunnen Rahel und eine Dienerin. Links die Shafherde und Jacob.",399,96.0,False,none,,,,,
 BO0624_88174,458919,90,72,"Bildnis des Erzherzog Rudolf, Erzbifhofs von Olmutz, in weibem Hermelinmantel",407,98.0,False,positional,CARL SUCHY,,,,
-BO0624_88174,458920,91,2,und Orden.,408,90.0,False,positional,CARL SUCHY,,DECORAZIONI DA PARETE,,
+BO0624_88174,458920,91,2,und Orden.,408,90.0,False,none,,,DECORAZIONI DA PARETE,,
 BO0624_88174,458921,92,1680,1731.Antwerpen.,414,84.8,False,positional,J. BAPTISTA LAMBRECHTS,,,,Sec. XVIII
-BO0624_88174,458922,93,73,Tanzende Bauern vor einer Shanke zum Klang einer Fiedel.,416,97.3,False,positional,J. BAPTISTA LAMBRECHTS,,,,
-BO0624_88174,458923,94,2,Leinwand. 58X48 cm.Shwarzer Rahmen.,417,97.1,False,positional,J. BAPTISTA LAMBRECHTS,,CORNICI,,
+BO0624_88174,458922,93,73,Tanzende Bauern vor einer Shanke zum Klang einer Fiedel.,416,97.3,False,none,,,,,
+BO0624_88174,458923,94,2,Leinwand. 58X48 cm.Shwarzer Rahmen.,417,97.1,False,none,,,CORNICI,,
 BO0624_88174,458924,95,1694,1757.Wien-St.Polten.,421,88.4,False,positional,DANIEL GRAN,Scuola Viennese,,,Sec. XVIII
-BO0624_88174,458925,96,74,"Selbstbildnis in blauem offenen Rodke mit der Palette in der Hand, mit weiber Perudke. Leinwand. 65X48 cm.Shwarzer Rahmen. Abb.Tafel 3.",423,98.9,False,positional,DANIEL GRAN,,CORNICI,,
-BO0624_88174,458926,97,75,"Toilette der Venus. Venus, nadkt, mit der Pflege ihres Fubes befhaftigt. Ein Putto",427,98.1,False,positional,DANIEL GRAN,,OGGETTI VARI,,
-BO0624_88174,458927,98,76,"Abundantia. Waldlandfhaft mit nadkten Nymphen und Gotinnen, die ein grobes Horn mit Frudten fullen. 1742.Augsburg.",435,91.9,False,positional,DANIEL GRAN,,,,Sec. XVIII
+BO0624_88174,458925,96,74,"Selbstbildnis in blauem offenen Rodke mit der Palette in der Hand, mit weiber Perudke. Leinwand. 65X48 cm.Shwarzer Rahmen. Abb.Tafel 3.",423,98.9,False,none,,,CORNICI,,
+BO0624_88174,458926,97,75,"Toilette der Venus. Venus, nadkt, mit der Pflege ihres Fubes befhaftigt. Ein Putto",427,98.1,False,none,,,OGGETTI VARI,,
+BO0624_88174,458927,98,76,"Abundantia. Waldlandfhaft mit nadkten Nymphen und Gotinnen, die ein grobes Horn mit Frudten fullen. 1742.Augsburg.",435,91.9,False,none,,,,,Sec. XVIII
 BO0624_88174,458928,99,77,", Reiterkampf. Kampf um die Fahne auf einem Hugel. Leinwand.45X65 cm.Shwarzer Rahmen. 1609.Caravaggio-Porto dErcole.",443,82.9,False,positional,GEORG PHILIPP RUGENDAS,,CORNICI,,Sec. XVII
 BO0624_88174,458929,100,78,"Der Heilige Sebastian. Der Heilige ift mit hochgezogenen Armen angebunden. Sein linker Arm ift von einem Pfeil durhbohrt, ein zweiter trifft ihn in die Seite und im Shmerz biegt fih der Korper, von dem das Gewand heruntergelunken ift. Qualvoll 1616.Herentals-Antwerpen.",449,94.4,False,positional,MICHEL ANGELO DA CARAVAGGIO,,,,Sec. XVII
 BO0624_88174,458930,101,79,Die Auferweckung des Lazarus. Rehts Chriftus in grunem Kleide und rotem Mantel,459,98.1,False,positional,FRANZ FRANKEN der Altere,,,,
-BO0624_88174,458931,102,80,"Bildnis eines Gelehrten,der,in grunlichem Rod mit Spitzenmanfhetten und geloftem Hemdkragen,mit dem Ganfekiel in der Rehten am Tifh vor einem But fitzt,Hinter ihm find mahtige Folianten aufgebaut.",469,99.2,False,positional,FRANZ FRANKEN der Altere,,,,
-BO0624_88174,458932,103,81,Pieta. Die Madonna halt den halb am Boden liegenden Leichnam Chrifl auf den Knien.,476,98.2,False,positional,FRANZ FRANKEN der Altere,,,,
-BO0624_88174,458933,104,82,"Die Marter des heiligen Laurentius. Vor dem Rolt entkleiden Krieger unter Aufficht des Prafekten den Heiligen, zu dem vom Himmel Engel herabfchweben. Von allen Seiten drangt id Volk herbei. Im Hintergrunde find vor romifchen Ruinen die Kirchenfhatze aufgebaut.",477,99.4,False,positional,FRANZ FRANKEN der Altere,,,,
+BO0624_88174,458931,102,80,"Bildnis eines Gelehrten,der,in grunlichem Rod mit Spitzenmanfhetten und geloftem Hemdkragen,mit dem Ganfekiel in der Rehten am Tifh vor einem But fitzt,Hinter ihm find mahtige Folianten aufgebaut.",469,99.2,False,none,,,,,
+BO0624_88174,458932,103,81,Pieta. Die Madonna halt den halb am Boden liegenden Leichnam Chrifl auf den Knien.,476,98.2,False,none,,,,,
+BO0624_88174,458933,104,82,"Die Marter des heiligen Laurentius. Vor dem Rolt entkleiden Krieger unter Aufficht des Prafekten den Heiligen, zu dem vom Himmel Engel herabfchweben. Von allen Seiten drangt id Volk herbei. Im Hintergrunde find vor romifchen Ruinen die Kirchenfhatze aufgebaut.",477,99.4,False,none,,,,,
 BO0624_88174,458934,105,83,Der Astronom. Vor einer zerklufteten Felswand erblidkt man das Bruftbild eines 1662.,483,95.1,False,positional,JUDITH LEISTER,,,,Sec. XVII
 BO0624_88174,458935,106,84,St. Simeon. Inmiten alten Gemauers erblickt man uber einer Bruftung mit der,490,98.0,False,positional,FRANCISCO DE ZURBARAN,,,,
-BO0624_88174,458936,107,I,"nfhrif:REMISSIONEM PECCATORVM. S.SIMION.X. den Oberkorper des bartigen Heiligen, der, ein Buh unter dem linken Arm, in einem gegen das Gemauer gelehnten Buhe lielt.",494,99.7,False,positional,FRANCISCO DE ZURBARAN,,,,
+BO0624_88174,458936,107,I,"nfhrif:REMISSIONEM PECCATORVM. S.SIMION.X. den Oberkorper des bartigen Heiligen, der, ein Buh unter dem linken Arm, in einem gegen das Gemauer gelehnten Buhe lielt.",494,99.7,False,none,,,,,
 BO0624_88174,458937,108,1747,1801.,498,61.5,False,positional,FRANCISCO WHEATLEY,,,,Sec. XIX
-BO0624_88174,458938,109,85,"Bildnis eines Herrn, eine lange Pfeife rauchend, auf einem Felsblodk neben einer",500,98.1,False,positional,FRANCISCO WHEATLEY,,,,
-BO0624_88174,458939,110,2,"Buhe fitzend, nach rechts gewandt, Shwarzer Rodk mit weiber Wefte. Leinwand. 70X60 cm.Shwarzer Rahmen. Abb.Tafel 1.",501,99.1,False,positional,FRANCISCO WHEATLEY,,CORNICI,,
-BO0624_88174,458940,111,3,"86.Bildnis einer Dame. Dame, die,in weibem ausgefchnittenen Kleide, Gitarre fpielend im Freien auf einem Steinblodk fitzt. Uber den linken Arm fallt ein roter Sdleier auf die Bank herab. Gegenftudk zu vorigem. Leinwand. 70X60 cm. Shwarzer Rahmen. Abb.Tafel 1.",502,99.6,False,positional,FRANCISCO WHEATLEY,,CORNICI,,
-BO0624_88174,458941,112,87,"Adam und Eva. Am Baum der Erkenntnis, um den fih die Shlange mit menfh# lichem Kopf geringelt hat, reicht Eva Adam den Apfel. Leinwand. H.160 cm,Br.108 cm.Shwarzer Rahmen. Befhadigt. 1676.",506,97.8,False,positional,FRANCISCO WHEATLEY,,CORNICI,,Sec. XVII
+BO0624_88174,458938,109,85,"Bildnis eines Herrn, eine lange Pfeife rauchend, auf einem Felsblodk neben einer",500,98.1,False,none,,,,,
+BO0624_88174,458939,110,2,"Buhe fitzend, nach rechts gewandt, Shwarzer Rodk mit weiber Wefte. Leinwand. 70X60 cm.Shwarzer Rahmen. Abb.Tafel 1.",501,99.1,False,none,,,CORNICI,,
+BO0624_88174,458940,111,3,"86.Bildnis einer Dame. Dame, die,in weibem ausgefchnittenen Kleide, Gitarre fpielend im Freien auf einem Steinblodk fitzt. Uber den linken Arm fallt ein roter Sdleier auf die Bank herab. Gegenftudk zu vorigem. Leinwand. 70X60 cm. Shwarzer Rahmen. Abb.Tafel 1.",502,99.6,False,none,,,CORNICI,,
+BO0624_88174,458941,112,87,"Adam und Eva. Am Baum der Erkenntnis, um den fih die Shlange mit menfh# lichem Kopf geringelt hat, reicht Eva Adam den Apfel. Leinwand. H.160 cm,Br.108 cm.Shwarzer Rahmen. Befhadigt. 1676.",506,97.8,False,none,,,CORNICI,,Sec. XVII
 BO0624_88174,458942,113,88,"Bekehrung. Ein Monh leitet einen Greis und zwei Knaben fchutzend von dem Drahen hinweg, der auf einem Felsvorfprung erfheint. Leinwand.H.140 cm, Br.130 cm. Goldrahmen.",512,85.3,False,positional,THEODOOR VAN TULDEN,,,,
 BO0624_88174,458943,114,89,"Tierstick. Vor einer Felswand, an der vorbei man auf weites Hugelland blidkt, lagert eine Herde. Die Hirtin halt eine Kuh, wahrend ein Knabe ein HolzgefaB",517,99.0,False,positional,GIUSEPPE TASSONI,,,,
-BO0624_88174,458944,115,90,Desgleichen. Gegenftudk zu vorigem. Der Hirt unterhalt fid mit einem jungen 1668.,522,94.8,False,positional,GIUSEPPE TASSONI,,,,Sec. XVII
+BO0624_88174,458944,115,90,Desgleichen. Gegenftudk zu vorigem. Der Hirt unterhalt fid mit einem jungen 1668.,522,94.8,False,none,,,,,Sec. XVII
 BO0624_88174,458945,116,91,"Weihefest der Diana. Die Gottin, die den Kocher auf dem Rudken tragt, beugt fich zu einer yor ihr knienden Nymphe herab, die fie, fie mit einem Blumenkranze fhmudkend,in ihren Dienft aufnimmmt. Drei ihrer neuen Gefahrtinnen fhauen ehr 1786.",533,98.3,False,positional,JOHANN VAN BOCKHORST,,,,Sec. XVIII
 BO0624_88174,458946,117,92,"Alt-Athen. In der Nahe eines Rundtempels find viele Jungfrauen verlammelt, die nah Anweifung der Priefter ein Feft vorbereiten.",542,74.9,False,positional,PIERRE LESUEUR,,,,
 BO0624_88174,458947,118,93,"Hollandisches Interieur nah dem Gemalde im KailerFriedrih-Mufeum Berlin, von I.Beth. 1819.",549,95.3,False,positional,PIETER-DE HOOGHE,Scuola di Berlino,ARREDAMENTI,,Sec. XIX
 BO0624_88174,458948,119,94,"Brustbildnis Konigs Georg Ill. von England, von vorn gelehen. Der Konig tragt ein pelzverbramtes Gewand mit fhwarzfeidener Binde um den Hals, von dem ein an blauem Ordensband befeftigter Orden herabhangt.Auf der linken Bruftfeite zeigt fic ein Ordensftern.Das von dichtem braunen Lodenhaar umrahmte Antlitz ift glatt.rafiert. 1823.",555,98.8,False,positional,GEORGE HENRY HARLOW,,DECORAZIONI DA PARETE,,Sec. XIX
 BO0624_88174,458949,120,95,"Bildnis des Sir Calvert im dunklen Gehrok, der am Halsausfhnit die gelbe Wefte und das weiBe Spitzenhalstudh freilabt. Der leicht ergraute Kopf ift wenig nach rechts",563,99.1,False,positional,HENRY RAEBURN,,,,
 BO0624_88174,458950,121,96,"Bildnis der Mib O'Neill als Julia. Entwurf zu einem Kupferftih. Auf einer Baluftrade, die eine Teralle gegen den im Mondfhein ftill daliegenden Park abfhlieBt, fteht die Kunftlerin im weiben goldgeftickten Empirekleid finnend da.Ihren Oberkorper be= leuchtet das Licht einer hangenden Ollampe. Links ift eine rote Draperie angebracht, die auf die Baluftrade herabfallt.",571,99.6,False,positional,HENRY E.DAWE,,,,
-BO0624_88174,458951,122,97,"Unangenehme Uberraschung. Kinder mit einer Vogelfinte haben aus einem Korbhen eine Reihe miteinander verketeter Tauben auffteigen lalfen, auf die plotzlic ein die Kinder fih uber das Ereignis freuen. 1709.",577,98.0,False,positional,HENRY E.DAWE,,,,Sec. XVIII
+BO0624_88174,458951,122,97,"Unangenehme Uberraschung. Kinder mit einer Vogelfinte haben aus einem Korbhen eine Reihe miteinander verketeter Tauben auffteigen lalfen, auf die plotzlic ein die Kinder fih uber das Ereignis freuen. 1709.",577,98.0,False,none,,,,,Sec. XVIII
 BO0624_88174,458952,123,98,"FluBlandschaft. Im Vordergrunde ein mahtiger Felskegel, an dellen bewaldetem Abhang ein Dorfchen liegt.",584,98.5,False,positional,MEINDERT HOBBEMA,,,,
-BO0624_88174,458953,124,99,Brustbild eines Edelmannes mit grauem Knebel- und Spitzbart in fhwarzem pelze 1693.,591,95.0,False,positional,MEINDERT HOBBEMA,,,,Sec. XVII
+BO0624_88174,458953,124,99,Brustbild eines Edelmannes mit grauem Knebel- und Spitzbart in fhwarzem pelze 1693.,591,95.0,False,none,,,,,Sec. XVII
 BO0624_88174,458954,125,100,"Brustbild eines jungen Prinzen in reich mit Gold verzierter Ruftung mit weibem Spitzenkragen, halb nach links gewandt. Leinwand. H. 34 cm, Br.27 cm. Shwarzer Rahmen.",598,66.9,False,positional,CLAUDIO COELLO,,CORNICI,,
-BO0624_88174,458955,126,101,"Parade. Ubungen von Reiterei und FuBvolk in welligem Gelande, hinter dem machtige Berge auftauhen, deren einen eine Burg kront. Leinwand. H. 84 cm, Br. 25 cm. Goldrahmen.",603,71.7,False,positional,CLAUDIO COELLO,,,,
-BO0624_88174,458956,127,102,"Schlacht.Im hugeligen Gelande,in dellen Vordergrunde ein Reitertrupp wartet,feht man Fubvolk mit Reitern im Handgemenge. Weiter den im Hintergrunde auf= tauchenden Bergen zu marfhieren Truppen, Gegenftucdk zu vorigem. Ebenfo,",604,99.1,False,positional,CLAUDIO COELLO,,,,
+BO0624_88174,458955,126,101,"Parade. Ubungen von Reiterei und FuBvolk in welligem Gelande, hinter dem machtige Berge auftauhen, deren einen eine Burg kront. Leinwand. H. 84 cm, Br. 25 cm. Goldrahmen.",603,71.7,False,none,,,,,
+BO0624_88174,458956,127,102,"Schlacht.Im hugeligen Gelande,in dellen Vordergrunde ein Reitertrupp wartet,feht man Fubvolk mit Reitern im Handgemenge. Weiter den im Hintergrunde auf= tauchenden Bergen zu marfhieren Truppen, Gegenftucdk zu vorigem. Ebenfo,",604,99.1,False,none,,,,,
 BO0624_88174,458957,128,103,"The Blue Bell Iron near Dedham. Von links nah rehts ein Weg, dahinter Hutten",608,97.4,False,positional,JOHN CONSTABLE,,,,
-BO0624_88174,458958,129,2,und Baume. Vorn Walfertumpel. Leinwand. 52X76 cm.Goldrahmen.,609,98.2,False,positional,JOHN CONSTABLE,,,,
+BO0624_88174,458958,129,2,und Baume. Vorn Walfertumpel. Leinwand. 52X76 cm.Goldrahmen.,609,98.2,False,none,,,,,
 BO0624_88174,458959,130,1512,1578.Utrecht-Antwerpen.,613,89.8,False,positional,ANTON MOR VAN DASHORST,,,,Sec. XVI
-BO0624_88174,458960,131,104,Queen Mary. In fhwarzem Kleide mit weiber Haube und Kragen. Holz.49X41 cm.Goldrahmen.Ausgeftelt auf The Tudor Exhibition.New Gallery 1890.,615,98.5,False,positional,ANTON MOR VAN DASHORST,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88174,458960,131,104,Queen Mary. In fhwarzem Kleide mit weiber Haube und Kragen. Holz.49X41 cm.Goldrahmen.Ausgeftelt auf The Tudor Exhibition.New Gallery 1890.,615,98.5,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88174,458961,132,105,Silbernes Vaschen mit gravierter Ornamentik.,621,95.6,False,positional,,,ARBEITEN IN SILBER,,
 BO0624_88174,458962,133,2,"Holland. H.5,5 cm, 23g",622,95.2,False,positional,,,ARBEITEN IN SILBER,,
 BO0624_88174,458963,134,3,106.Desgleichen. H.5cm.23g.,623,96.2,False,positional,,,ARBEITEN IN SILBER,,
@@ -333,50 +333,50 @@ BO0624_88174,459160,331,298,Convolut. Bronzebefhlage und Ringe. Empire.,907,95.2
 BO0624_88174,459161,332,299,"Hausaltarchen in Barodrahmen, vergoldet, mit WahsChriftuskind im Brokatkleide.",908,97.4,False,positional,,,ARREDAMENTI,,
 BO0624_88174,459162,333,27,"H.30 cm,",909,82.4,False,positional,,,STOFFE,,
 BO0624_88174,459163,334,1544,1628.,914,61.5,False,positional,GIACOMO PALMA IL GIOVINO,,,,Sec. XVII
-BO0624_88174,459164,335,300,"Bildnis eines Jinglings. Jungling im dunklem Wams mit gefalteter Halskraule und Federhut. Das frilfche Antlitz fhmudkt ein aufgedrehter Shnurrbart, Leinwand.H. 74 cm, Br.61 cm.Goldrahmen.",917,72.3,False,positional,GIACOMO PALMA IL GIOVINO,,,,
+BO0624_88174,459164,335,300,"Bildnis eines Jinglings. Jungling im dunklem Wams mit gefalteter Halskraule und Federhut. Das frilfche Antlitz fhmudkt ein aufgedrehter Shnurrbart, Leinwand.H. 74 cm, Br.61 cm.Goldrahmen.",917,72.3,False,none,,,,,
 BO0624_88174,459165,336,301,"Die Bleiche.Auf den Wiefen, die fid zu eiden Seiten desKanals ausbreiten,ind 1759.",923,94.3,False,positional,JAN MOLENAER,,,,Sec. XVIII
 BO0624_88174,459166,337,302,"Der Brief. In einer Bauernftube fitzt auf einem Stuhl die Bauersfrau, einen Brief",932,97.5,False,positional,JAN JOSEF HOOREMANS,,,,
-BO0624_88174,459167,338,2,"lefend; ein Mann blidkt uber ihre Shulter mit hinein, wahrend ein Burfhe, der beim Kohlenbeken befhaftigt ift, neugierig hinfhaut. Hinter dem Paar fhakert ein zweites, wahrend zwei Manner vom Kamin aus zulehen. Leinwand. H. 60 cm, Br. 50 cm. Goldrahmen.",933,99.6,False,positional,JAN JOSEF HOOREMANS,,CAMINI,,
+BO0624_88174,459167,338,2,"lefend; ein Mann blidkt uber ihre Shulter mit hinein, wahrend ein Burfhe, der beim Kohlenbeken befhaftigt ift, neugierig hinfhaut. Hinter dem Paar fhakert ein zweites, wahrend zwei Manner vom Kamin aus zulehen. Leinwand. H. 60 cm, Br. 50 cm. Goldrahmen.",933,99.6,False,none,,,CAMINI,,
 BO0624_88174,459168,339,1601,1673.,937,61.5,False,positional,ANTHONY PALAMEDESZ,,,,Sec. XVII
-BO0624_88174,459169,340,303,"Gesellschaftsstick. An einem weib gedeckten Tifh fitzt ein Kavalier mit einer Dame beim Wein. Eine zweite fdhaut zu.Im Hintergrunde fpielt eine Dame Gitarre, wahrend drei Manner bei ihr eifrig diskutieren. Holz.H. 42 cm, Br. 57 cm.Goldrahmen. 1670.",939,98.1,False,positional,ANTHONY PALAMEDESZ,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88174,459169,340,303,"Gesellschaftsstick. An einem weib gedeckten Tifh fitzt ein Kavalier mit einer Dame beim Wein. Eine zweite fdhaut zu.Im Hintergrunde fpielt eine Dame Gitarre, wahrend drei Manner bei ihr eifrig diskutieren. Holz.H. 42 cm, Br. 57 cm.Goldrahmen. 1670.",939,98.1,False,none,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88174,459170,341,304,FluBlandschaft. An einer Baumgruppe vorbei fahrt ein Wagen der Stadt zu. Langs des Weges bewegen Bauern einen Nachen mit Ruben in derlelben Richtung. Im Vordergrunde Fifher.,945,91.5,False,positional,SALOMONVAN RUYSDAEL,,,,
-BO0624_88174,459171,342,305,"Brustbild eines mannlichen Heiligen in geiflichem Gewande mit Pelzuberwurf. Das bartige Antlitz ift zur Seite geneigt, der Blidk zum Himmel erhoben, in dellen vom Sternennymbus beleuchteten Wolken Engelskopfe erfcheinen. In den Handen halt der",952,99.2,False,positional,SALOMONVAN RUYSDAEL,,,,
-BO0624_88174,459172,343,2,Heilige Kruzifix und Martyrerpalme.,953,97.1,False,positional,SALOMONVAN RUYSDAEL,,,,
+BO0624_88174,459171,342,305,"Brustbild eines mannlichen Heiligen in geiflichem Gewande mit Pelzuberwurf. Das bartige Antlitz ift zur Seite geneigt, der Blidk zum Himmel erhoben, in dellen vom Sternennymbus beleuchteten Wolken Engelskopfe erfcheinen. In den Handen halt der",952,99.2,False,none,,,,,
+BO0624_88174,459172,343,2,Heilige Kruzifix und Martyrerpalme.,953,97.1,False,none,,,,,
 BO0624_88174,459173,344,1622,1665.,958,61.5,False,positional,THOMAS VON APSHOVEN,,,,Sec. XVII
-BO0624_88174,459174,345,306,"Bauernfeierabend. Vor dem Haufe links, aus delfen offener Tur zwei Burfhen treten,nimmt der Bauer,an einer Tonne itzend und die Kanne bereithaltend, das Glas von feiner Frau entgegen. Die Kinder um die Tonne herum mufizieren oder hauen,wie zwei Manner weiter zuruidk, aufmerklam zu.Weiter Blidk in die hugelige Landfhaft, die rechts ein Hugelabhang abfhlieBt.",961,88.5,False,positional,THOMAS VON APSHOVEN,,,,
-BO0624_88174,459175,346,307,"Mann mit Pelzkappe.Der Mann in fhwarzem, pelzverbramtem Mantel ift halb",967,97.2,False,positional,THOMAS VON APSHOVEN,,,,
-BO0624_88174,459176,347,2,"nah rechts gewandt. Die Pelzmutze ift tief bis uber die Augen gezogen, ein Mund fhutz bededt das Kinn bis zum Munde, fo dab nur die grauen Schnurrbarthaare hervorfhauen.",968,99.4,False,positional,THOMAS VON APSHOVEN,,,,
+BO0624_88174,459174,345,306,"Bauernfeierabend. Vor dem Haufe links, aus delfen offener Tur zwei Burfhen treten,nimmt der Bauer,an einer Tonne itzend und die Kanne bereithaltend, das Glas von feiner Frau entgegen. Die Kinder um die Tonne herum mufizieren oder hauen,wie zwei Manner weiter zuruidk, aufmerklam zu.Weiter Blidk in die hugelige Landfhaft, die rechts ein Hugelabhang abfhlieBt.",961,88.5,False,none,,,,,
+BO0624_88174,459175,346,307,"Mann mit Pelzkappe.Der Mann in fhwarzem, pelzverbramtem Mantel ift halb",967,97.2,False,none,,,,,
+BO0624_88174,459176,347,2,"nah rechts gewandt. Die Pelzmutze ift tief bis uber die Augen gezogen, ein Mund fhutz bededt das Kinn bis zum Munde, fo dab nur die grauen Schnurrbarthaare hervorfhauen.",968,99.4,False,none,,,,,
 BO0624_88174,459177,348,1631,1691.,974,61.5,False,positional,JUAN DE VALDES LEAL,,,,Sec. XVII
-BO0624_88174,459178,349,308,"Martyrer in der Lowengrube. Im Zwinger knien in gebudkter Haltung Glaubige, zum Teil in Prieftergewandern. In der Mitte erwartet ein Bifhof in Pontifikaltradt, ab, uber dellen Bruiftung Zufhauer in antiker Gewandung fih an dem Shaufpiel weiden. den Blidk zum Himmel erhoben, die herannahenden Lowen. Seine Geftalt hebt fic im Lichtftrahl,der hinter einer Wolkehervortrit,hell von dem Gemauer des Zwingers Olgemalde auf Leinwand; abgefaBte Eden. H. 30,5 cm, Br. 41 cm. Goldrahmen.",976,67.4,False,positional,JUAN DE VALDES LEAL,,,,
+BO0624_88174,459178,349,308,"Martyrer in der Lowengrube. Im Zwinger knien in gebudkter Haltung Glaubige, zum Teil in Prieftergewandern. In der Mitte erwartet ein Bifhof in Pontifikaltradt, ab, uber dellen Bruiftung Zufhauer in antiker Gewandung fih an dem Shaufpiel weiden. den Blidk zum Himmel erhoben, die herannahenden Lowen. Seine Geftalt hebt fic im Lichtftrahl,der hinter einer Wolkehervortrit,hell von dem Gemauer des Zwingers Olgemalde auf Leinwand; abgefaBte Eden. H. 30,5 cm, Br. 41 cm. Goldrahmen.",976,67.4,False,none,,,,,
 BO0624_88174,459179,350,309,"Christus,in hellem Gewande, das ein gelber Gurtel zulammenhalt, und blauem Mantel, weift mit beiden Handen auf die entblobte Bruft, eine Bewegung, die ein",983,98.7,False,positional,LODOVICO BARBIERI,,,,
 BO0624_88174,459180,351,310,"Italienische Landschaft mit Schenke und kleinen Staffagefiguren. Holz.22X25 cm.Gefhnitzter Goldrahmen,",991,98.0,False,positional,JACOPO BASSANO,,OGGETTI IN LEGNO,,
 BO0624_88174,459181,352,31,l. Antike Szene. Vor dem Zelt eines antiken Kaifers find mehrere Gruppen von,997,98.7,False,positional,PIETER AERTSEN,,OGGETTI VARI,,
-BO0624_88174,459182,353,1508,1575.Amfterdam.,999,84.8,False,positional,PIETER AERTSEN,,,,Sec. XVI
+BO0624_88174,459182,353,1508,1575.Amfterdam.,999,84.8,False,none,,,,,Sec. XVI
 BO0624_88174,459183,354,312,"Amor, den Pieil schleifend. Olkopie nah dem Gemalde Paftell 177 in der Dres=",1005,97.3,False,positional,ANTON RAPHAEL MENGS,,,,
 BO0624_88174,459184,355,313,Christus und Johannes fth kuillend. Als nackte Knablein auf grunem Boden vor einem roten Vorhange. Leinwand.34X44cm. Goldrahmen.,1014,98.4,False,positional,Leonardo da Vinci,,BIANCHERIA,,
 BO0624_88174,459185,356,314,Der Morgen.,1019,83.3,False,positional,CHRISTIAN VALDERWANG; Claude Lorrain,,,,
-BO0624_88174,459186,357,315,Der Mittag. Wie Nr. 314.,1020,91.3,False,positional,CHRISTIAN VALDERWANG; Claude Lorrain,,,,
-BO0624_88174,459187,358,316,Die Dammerung. Wie Nr. 314.,1021,92.3,False,positional,CHRISTIAN VALDERWANG; Claude Lorrain,,,,
-BO0624_88174,459188,359,317,Der Abend.Wie Nr.314.,1022,90.9,False,positional,CHRISTIAN VALDERWANG; Claude Lorrain,,,,
+BO0624_88174,459186,357,315,Der Mittag. Wie Nr. 314.,1020,91.3,False,none,,,,,
+BO0624_88174,459187,358,316,Die Dammerung. Wie Nr. 314.,1021,92.3,False,none,,,,,
+BO0624_88174,459188,359,317,Der Abend.Wie Nr.314.,1022,90.9,False,none,,,,,
 BO0624_88174,459189,360,318,"Die Musikanten.Vor einer Shenke fpielen Mufikanten Geige und Dudelfadk, Bauern horen zu. Leinwand.44X30 cm.Goldrahmen.",1026,98.3,False,positional,Jan Steen,,,,
-BO0624_88174,459190,361,319,Bildnis eines alten Mannes in rotem Rodke und Mutze mit grauem Vollbart. Auf der Bruft hangt ein Medaillon. Leinwand. 50X36 cm. Shwarzer Rahmen.,1030,68.8,False,positional,Jan Steen,,CORNICI,,
-BO0624_88174,459191,362,320,"Stilleben. Totes Geflugel, Fafane ufw. Leinwand. 45X65 cm.Schwarzer Rahmen.",1032,97.2,False,positional,Jan Steen,,CORNICI,,
-BO0624_88174,459192,363,321,"Stilleben. Totes Geflugel, Enten ufw. Leinwand. 45X65 cm. Shwarzer Rahmen. 1588.Verona-Venedig.",1033,85.0,False,positional,Jan Steen,,CORNICI,,Sec. XVI
+BO0624_88174,459190,361,319,Bildnis eines alten Mannes in rotem Rodke und Mutze mit grauem Vollbart. Auf der Bruft hangt ein Medaillon. Leinwand. 50X36 cm. Shwarzer Rahmen.,1030,68.8,False,none,,,CORNICI,,
+BO0624_88174,459191,362,320,"Stilleben. Totes Geflugel, Fafane ufw. Leinwand. 45X65 cm.Schwarzer Rahmen.",1032,97.2,False,none,,,CORNICI,,
+BO0624_88174,459192,363,321,"Stilleben. Totes Geflugel, Enten ufw. Leinwand. 45X65 cm. Shwarzer Rahmen. 1588.Verona-Venedig.",1033,85.0,False,none,,,CORNICI,,Sec. XVI
 BO0624_88174,459193,364,322,Salome mit dem Haupte des Johannes. Im Hintergrunde vier Perfonen.,1039,97.0,False,positional,PAOLO VERONESE,,,,
-BO0624_88174,459194,365,2,Leinwand. 105X68 cm. Goldrahmen.,1040,96.7,False,positional,PAOLO VERONESE,,,,
+BO0624_88174,459194,365,2,Leinwand. 105X68 cm. Goldrahmen.,1040,96.7,False,none,,,,,
 BO0624_88174,459195,366,1619,1669. Bruffel.,1044,82.8,False,positional,PEETER MEERT,,,,Sec. XVII
-BO0624_88174,459196,367,323,Bildnis eines jungen Mannes in fhwarzem Rocke mit weibem Kragen. Mit Shnurr- bart und Fliege und langem Lockenhaar. Leinwand. 48X40 cm.Shwarzer Rahmen.,1046,66.1,False,positional,PEETER MEERT,,CORNICI,,
+BO0624_88174,459196,367,323,Bildnis eines jungen Mannes in fhwarzem Rocke mit weibem Kragen. Mit Shnurr- bart und Fliege und langem Lockenhaar. Leinwand. 48X40 cm.Shwarzer Rahmen.,1046,66.1,False,none,,,CORNICI,,
 BO0624_88174,459197,368,324,"Die Rast. Vor einer Shenke links raftet eine Gefelfhaft mit zwei Pferden, rechts reitet ein Mann auf einem Efel. Leinwand. 46X56 cm.Shwarzer Rahmen.",1051,98.6,False,positional,Wouwerman,,CORNICI,,
-BO0624_88174,459198,369,325,Bildnis eines Gelehrten in fchwarzem Rocke mit weiBen gepufften Armeln. Auf dem,1055,97.5,False,positional,Wouwerman,,,,
-BO0624_88174,459199,370,2,Kopfe ein Barett. Leinwand. 78X65. Gefhnitzter Rahmen.,1056,98.0,False,positional,Wouwerman,,CORNICI,,
+BO0624_88174,459198,369,325,Bildnis eines Gelehrten in fchwarzem Rocke mit weiBen gepufften Armeln. Auf dem,1055,97.5,False,none,,,,,
+BO0624_88174,459199,370,2,Kopfe ein Barett. Leinwand. 78X65. Gefhnitzter Rahmen.,1056,98.0,False,none,,,CORNICI,,
 BO0624_88174,459200,371,1610,1690. Antwerpen-Bruillel.,1059,90.2,False,positional,DAVID TENIERS d.J.,,,,Sec. XVII
-BO0624_88174,459201,372,326,"Der Steinbruch.In einem hell befhienenen Steinbruch drei Arbeiter, ein Wanderer geht rechts auf der Anhohe. Leihte Bewolkung. Holz. 45X62 cm.Goldrahmen.",1061,68.1,False,positional,DAVID TENIERS d.J.,,OGGETTI IN LEGNO,,
-BO0624_88174,459202,373,327,Madonna mit den Kindern und einem das Kreuz haltenden Engel. Im Hintergrunde die heilige Katharina.,1066,85.2,False,positional,DAVID TENIERS d.J.,,,,
-BO0624_88174,459203,374,328,Ecce homo. Francifeur Serci notarius Syndicus Provintiae dedit. Leinwand. 60X55 cm. Alter gemalter Rahmen.,1073,73.5,False,positional,DAVID TENIERS d.J.,,CORNICI,,
-BO0624_88174,459204,375,329,"Das Urteil des Paris. Paris fitzt rehts auf einem Felfen, vor ihm die nadkten",1078,97.4,False,positional,DAVID TENIERS d.J.,,,,
-BO0624_88174,459205,376,2,Gattinnen und feine Herde.,1079,96.2,False,positional,DAVID TENIERS d.J.,,,,
+BO0624_88174,459201,372,326,"Der Steinbruch.In einem hell befhienenen Steinbruch drei Arbeiter, ein Wanderer geht rechts auf der Anhohe. Leihte Bewolkung. Holz. 45X62 cm.Goldrahmen.",1061,68.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88174,459202,373,327,Madonna mit den Kindern und einem das Kreuz haltenden Engel. Im Hintergrunde die heilige Katharina.,1066,85.2,False,none,,,,,
+BO0624_88174,459203,374,328,Ecce homo. Francifeur Serci notarius Syndicus Provintiae dedit. Leinwand. 60X55 cm. Alter gemalter Rahmen.,1073,73.5,False,none,,,CORNICI,,
+BO0624_88174,459204,375,329,"Das Urteil des Paris. Paris fitzt rehts auf einem Felfen, vor ihm die nadkten",1078,97.4,False,none,,,,,
+BO0624_88174,459205,376,2,Gattinnen und feine Herde.,1079,96.2,False,none,,,,,
 BO0624_88174,459206,377,1471,1528.Nurnberg.,1085,83.9,False,positional,ALBRECHT DURER,Scuola di Norimberga,,,Sec. XVI
-BO0624_88174,459207,378,330,Kreuztragung Christi. Holzfchnitt aus der groBen Paffion. Wallerzeichen: Reichsadler. 39X29 cm.Eicenrahmen.,1087,86.6,False,positional,ALBRECHT DURER,,,,
+BO0624_88174,459207,378,330,Kreuztragung Christi. Holzfchnitt aus der groBen Paffion. Wallerzeichen: Reichsadler. 39X29 cm.Eicenrahmen.,1087,86.6,False,none,,,,,
 BO0624_88174,459208,379,331,"Dose. Ahat mit Goldbronzerand, reih graviert.Der Dedkel reih belegt mit Orna=",1092,97.4,False,positional,,,SCATOLE,,
 BO0624_88174,459209,380,332,"Diadem. Bronze mit Emaille-Ornament, Sirenenfigur mit Perlen=, Rubinen= und Smaragdenbelatz. H.9 cm. In Lederetui. Abb. Tafel 8.",1094,98.3,False,positional,,,KUNSTGEWERBLICHE ARBEITEN,,
 BO0624_88174,459210,381,333,"Spieluhr in Form eines Flugels. Die Klaviatur enthalt TintenfaB und Uhr, der",1095,97.4,False,positional,,,OGGETTI VARI,,
@@ -444,52 +444,52 @@ BO0624_88174,459271,442,13,"389.Fayence-Eberkopf, innen vergoldet, als Tifchaufa
 BO0624_88174,459272,443,390,"Tiefer Teller und flacher Teller, Meiben,mit Reliefzierat,Vogelkartufhen und Mittel",1197,97.6,False,positional,,,PIATTI,,
 BO0624_88174,459273,444,15,"ftuck BlumenftrauB, die Kartulhenrander vergoldet. Shwertermarke. Dm.27u.24cm.",1198,98.0,False,positional,,,KUNSTGEWERBLICHE ARBEITEN,,
 BO0624_88174,459274,445,1751,1818.,1202,61.5,False,positional,H.FuGER,,,,Sec. XIX
-BO0624_88174,459275,446,391,"Bildnis einer Grafin Merfeld in blauem Kleide mit offenen Lodken. Sign.: H. Fuger. Dm.7,5cm.",1204,97.7,False,positional,H.FuGER,,,,
+BO0624_88174,459275,446,391,"Bildnis einer Grafin Merfeld in blauem Kleide mit offenen Lodken. Sign.: H. Fuger. Dm.7,5cm.",1204,97.7,False,none,,,,,
 BO0624_88174,459276,447,392,Bildnis einer Dame in violetem Kleide mit weiBem Kragen auf grauem Grunde. Sig. Rund. Dm.6 cm.Shwarzer Rahmen.,1208,82.4,False,positional,J. ENDER,,CORNICI,,
 BO0624_88174,459277,448,393,Bildnis einer Dame mit grauem Muff und Spitzenhaube. Sig.,1215,96.5,False,positional,ALPHEUS,,,,
-BO0624_88174,459278,449,2,"Oval. 7X5,5 cm. Shwarzer Rahmen.",1216,96.7,False,positional,ALPHEUS,,CORNICI,,
-BO0624_88174,459279,450,8,nit el=,1227,100.0,False,positional,ALPHEUS,,,,
+BO0624_88174,459278,449,2,"Oval. 7X5,5 cm. Shwarzer Rahmen.",1216,96.7,False,none,,,CORNICI,,
+BO0624_88174,459279,450,8,nit el=,1227,100.0,False,none,,,,,
 BO0624_88174,459280,451,394,Die Brautwerbung. In einer Bauernftube ift um den jungen Freier die Familie der Braut verfammelt. Bez.: L. Mottau. In Empiregoldrahmen mit plaftifhen Blumenguirlanden. 13X19cm.,1236,69.5,False,positional,L.MOTTAU,,,,
-BO0624_88174,459281,452,395,"Gobelin mit einer Szene aus dem Leben des Silvio, des Sohnes des Aeneas und des Linco. Breiter Rand mit Ornamenten und Figurenkartufhen. Flandern, 16. Jahrh. 3,25X3,35m.",1237,98.8,False,positional,L.MOTTAU,,,,Sec. XVI
-BO0624_88174,459282,453,396,Biedermeiergarnitur.,1238,90.5,False,positional,L.MOTTAU,,,,
-BO0624_88174,459283,454,397,"Barockschrank, braunes Eihenholz, reih gefhnitzt mit Valen auf den Fullungen. Der obere Rand volutenformig ausgebildet. Bronzebefhlage. H.200 cm, Br.175 cm.T.50 cm,",1242,98.7,False,positional,L.MOTTAU,,,,
-BO0624_88174,459284,455,398,"Vergoldeter Salonspiegel mit vier Leuhterhaltern. H. 200 cm, Br.ca.100cm.",1243,97.2,False,positional,L.MOTTAU,,,,
-BO0624_88174,459285,456,399,"Damenschreibtisch. Mahagoni mit gelhweiften Beinen, der obere Auffatz mit einem Mittelfah und vier Schubladen. 110X90cm.",1244,98.3,False,positional,L.MOTTAU,,,,
-BO0624_88174,459286,457,400,"Kronleuchter, vergoldete Bronze, fur 20 Kerzen, aus Blattwerk. 18. Jahrhundert. H.120cm.",1245,92.4,False,positional,L.MOTTAU,,,,Sec. XVIII
-BO0624_88174,459287,458,401,"Standuhr aus vergoldeter Bronze. Hebe mit Kanne und Becher neben dem Pofta= ment, das die Uhr tragt, ftehend. Das Werk von Ph. Monfey, Paris, innen ge ftempelt von Japy freres. H.50cm.",1247,98.9,False,positional,L.MOTTAU,,VASI,,
-BO0624_88174,459288,459,402,Goldwage fur Munzforten um 1800. In Lederetui.,1248,95.7,False,positional,L.MOTTAU,,,,Sec. XIX
-BO0624_88174,459289,460,403,"Pulverhorn, Melinghals mit Relief: Jager und Hunde.",1249,96.0,False,positional,L.MOTTAU,,,,
-BO0624_88174,459290,461,404,Alte ungarische Chronik ohne Jahreszahl.,1250,95.1,False,positional,L.MOTTAU,,,,
-BO0624_88174,459291,462,405,"Ofenkachel, unglaliert, mit Reliefmedaillons in Rollenwerk. Zwei Sultankopfe und in der Mitte der Kopf des Michael Paleologus, Kaifer von Byzanz. 16.Jahrhundert, aus Rothenburg a.Tauber (vergl. Jahrbuh der K.Preub. Kunftfammlungen 1885). 22X9cm.",1251,99.1,False,positional,L.MOTTAU,,,,Sec. XIX
-BO0624_88174,459292,463,406,"Leibung einer Majolikavase mit vier Medaillons mit Putten auf Delphin und mit Flote und Fadel, dazwifhen auf blauem Grunde je ein Fabelwelen.Luftriert. Gubbio, 16. Jahrhundert, in Futteral montiert.",1252,99.0,False,positional,L.MOTTAU,Scuola Umbra,,,Sec. XVI
-BO0624_88174,459293,464,407,"Pistole, arabifh, mit Silberauflage, getrieben und taufhiert, mit ShnappfhloB. L.54cm.",1253,97.6,False,positional,L.MOTTAU,,,,
-BO0624_88174,459294,465,408,"Elfenbeinschnitzerei, Plakette mit dem Bildnille Friedrid Wilhelms IIl. 11X7 cm.Eicenrahmen,",1254,97.8,False,positional,L.MOTTAU,,,,
-BO0624_88174,459295,466,409,Desgleichen mit dem Bildnille der Konigin Luife. 11X7 cm.Eicenrahmen.,1255,97.1,False,positional,L.MOTTAU,,,,
-BO0624_88174,459296,467,410,"Miniatur der Herzogin von Devonshire auf Elfenbein, die Laute fpielend mit grobem Gainsboroughhut. Oval. 8X6,5 cm. Shwarzer Rahmen.",1256,98.4,False,positional,L.MOTTAU,,CORNICI,,
-BO0624_88174,459297,468,411,MeiBener Kaffeekanne mit Reliefrand und vergoldetem Henkel. H.25cm.,1257,97.0,False,positional,L.MOTTAU,,OGGETTI VARI,,
-BO0624_88174,459298,469,412,"Japanisches Schwert mit reicher Elfenbeinfdhnitzerei an Shneide und Griff, teilweile bemalt. L.85 cm.",1258,98.0,False,positional,L.MOTTAU,,,,
-BO0624_88174,459299,470,413,"Hausaltar, Ebenholz und Silber. Auf der Predella die Anbetung der Hirten in Silber, freireliefiert gearbeitet, daruber im Tabernakel die Kreuzigung und Magdalena am FuBe des Kreuzes, daruber Medaillon mit Himmelfahrt Chrifti, zu hohff Gott= vater. Uberall kleine Kartufchen und Figuren aus Silber getrieben. H.110cm.",1260,86.3,False,positional,L.MOTTAU,,,,
-BO0624_88174,459300,471,414,"Porzellanstockgriff mit Anficht des Heidelberger Shlolles und Goldrocailledekor. L.6,5cm.",1261,97.8,False,positional,L.MOTTAU,,,,
-BO0624_88174,459301,472,415,Facher aus Elfenbein mit Goldauflage und Perlmutterhulfe. Drei englifhe Litho= graphien als Faherblatt.,1262,84.4,False,positional,L.MOTTAU,,SCOMPARTI,,
-BO0624_88174,459302,473,416,"Grober gotischer Schrank mit Mabwerk und Sheiben. Lang 260 cm,hoch 255 cm, tief 60 cm.",1264,97.6,False,positional,L.MOTTAU,,,,
-BO0624_88174,459303,474,417,Holzkruzifix mit braungeftrichenem Chriftus. H.125cm,1265,87.8,False,positional,L.MOTTAU,,,,
-BO0624_88174,459304,475,418,Grobe indische Sindare. Mahagoniholz grun lackiert. L.140cm.,1267,89.1,False,positional,L.MOTTAU,,,,
-BO0624_88174,459305,476,419,Gestickter Gebetvorhang mit Koranlprucen auf fchwarzem Grunde mit gelber und gelbgruiner reicher Stidkerei. 400X200cm.,1269,98.3,False,positional,L.MOTTAU,,,,
-BO0624_88174,459306,477,420,"Chinesischer Ofenschirm aus Bladwoodgeltell, durchbrochen gearbeitet mit zifelierter Mellingplatte. Geifterfzenen. H.70cm. 1630. Haag.",1270,94.4,False,positional,L.MOTTAU,,,,Sec. XVII
+BO0624_88174,459281,452,395,"Gobelin mit einer Szene aus dem Leben des Silvio, des Sohnes des Aeneas und des Linco. Breiter Rand mit Ornamenten und Figurenkartufhen. Flandern, 16. Jahrh. 3,25X3,35m.",1237,98.8,False,none,,,,,Sec. XVI
+BO0624_88174,459282,453,396,Biedermeiergarnitur.,1238,90.5,False,none,,,,,
+BO0624_88174,459283,454,397,"Barockschrank, braunes Eihenholz, reih gefhnitzt mit Valen auf den Fullungen. Der obere Rand volutenformig ausgebildet. Bronzebefhlage. H.200 cm, Br.175 cm.T.50 cm,",1242,98.7,False,none,,,,,
+BO0624_88174,459284,455,398,"Vergoldeter Salonspiegel mit vier Leuhterhaltern. H. 200 cm, Br.ca.100cm.",1243,97.2,False,none,,,,,
+BO0624_88174,459285,456,399,"Damenschreibtisch. Mahagoni mit gelhweiften Beinen, der obere Auffatz mit einem Mittelfah und vier Schubladen. 110X90cm.",1244,98.3,False,none,,,,,
+BO0624_88174,459286,457,400,"Kronleuchter, vergoldete Bronze, fur 20 Kerzen, aus Blattwerk. 18. Jahrhundert. H.120cm.",1245,92.4,False,none,,,,,Sec. XVIII
+BO0624_88174,459287,458,401,"Standuhr aus vergoldeter Bronze. Hebe mit Kanne und Becher neben dem Pofta= ment, das die Uhr tragt, ftehend. Das Werk von Ph. Monfey, Paris, innen ge ftempelt von Japy freres. H.50cm.",1247,98.9,False,none,,,VASI,,
+BO0624_88174,459288,459,402,Goldwage fur Munzforten um 1800. In Lederetui.,1248,95.7,False,none,,,,,Sec. XIX
+BO0624_88174,459289,460,403,"Pulverhorn, Melinghals mit Relief: Jager und Hunde.",1249,96.0,False,none,,,,,
+BO0624_88174,459290,461,404,Alte ungarische Chronik ohne Jahreszahl.,1250,95.1,False,none,,,,,
+BO0624_88174,459291,462,405,"Ofenkachel, unglaliert, mit Reliefmedaillons in Rollenwerk. Zwei Sultankopfe und in der Mitte der Kopf des Michael Paleologus, Kaifer von Byzanz. 16.Jahrhundert, aus Rothenburg a.Tauber (vergl. Jahrbuh der K.Preub. Kunftfammlungen 1885). 22X9cm.",1251,99.1,False,none,,,,,Sec. XIX
+BO0624_88174,459292,463,406,"Leibung einer Majolikavase mit vier Medaillons mit Putten auf Delphin und mit Flote und Fadel, dazwifhen auf blauem Grunde je ein Fabelwelen.Luftriert. Gubbio, 16. Jahrhundert, in Futteral montiert.",1252,99.0,False,none,,Scuola Umbra,,,Sec. XVI
+BO0624_88174,459293,464,407,"Pistole, arabifh, mit Silberauflage, getrieben und taufhiert, mit ShnappfhloB. L.54cm.",1253,97.6,False,none,,,,,
+BO0624_88174,459294,465,408,"Elfenbeinschnitzerei, Plakette mit dem Bildnille Friedrid Wilhelms IIl. 11X7 cm.Eicenrahmen,",1254,97.8,False,none,,,,,
+BO0624_88174,459295,466,409,Desgleichen mit dem Bildnille der Konigin Luife. 11X7 cm.Eicenrahmen.,1255,97.1,False,none,,,,,
+BO0624_88174,459296,467,410,"Miniatur der Herzogin von Devonshire auf Elfenbein, die Laute fpielend mit grobem Gainsboroughhut. Oval. 8X6,5 cm. Shwarzer Rahmen.",1256,98.4,False,none,,,CORNICI,,
+BO0624_88174,459297,468,411,MeiBener Kaffeekanne mit Reliefrand und vergoldetem Henkel. H.25cm.,1257,97.0,False,none,,,OGGETTI VARI,,
+BO0624_88174,459298,469,412,"Japanisches Schwert mit reicher Elfenbeinfdhnitzerei an Shneide und Griff, teilweile bemalt. L.85 cm.",1258,98.0,False,none,,,,,
+BO0624_88174,459299,470,413,"Hausaltar, Ebenholz und Silber. Auf der Predella die Anbetung der Hirten in Silber, freireliefiert gearbeitet, daruber im Tabernakel die Kreuzigung und Magdalena am FuBe des Kreuzes, daruber Medaillon mit Himmelfahrt Chrifti, zu hohff Gott= vater. Uberall kleine Kartufchen und Figuren aus Silber getrieben. H.110cm.",1260,86.3,False,none,,,,,
+BO0624_88174,459300,471,414,"Porzellanstockgriff mit Anficht des Heidelberger Shlolles und Goldrocailledekor. L.6,5cm.",1261,97.8,False,none,,,,,
+BO0624_88174,459301,472,415,Facher aus Elfenbein mit Goldauflage und Perlmutterhulfe. Drei englifhe Litho= graphien als Faherblatt.,1262,84.4,False,none,,,SCOMPARTI,,
+BO0624_88174,459302,473,416,"Grober gotischer Schrank mit Mabwerk und Sheiben. Lang 260 cm,hoch 255 cm, tief 60 cm.",1264,97.6,False,none,,,,,
+BO0624_88174,459303,474,417,Holzkruzifix mit braungeftrichenem Chriftus. H.125cm,1265,87.8,False,none,,,,,
+BO0624_88174,459304,475,418,Grobe indische Sindare. Mahagoniholz grun lackiert. L.140cm.,1267,89.1,False,none,,,,,
+BO0624_88174,459305,476,419,Gestickter Gebetvorhang mit Koranlprucen auf fchwarzem Grunde mit gelber und gelbgruiner reicher Stidkerei. 400X200cm.,1269,98.3,False,none,,,,,
+BO0624_88174,459306,477,420,"Chinesischer Ofenschirm aus Bladwoodgeltell, durchbrochen gearbeitet mit zifelierter Mellingplatte. Geifterfzenen. H.70cm. 1630. Haag.",1270,94.4,False,none,,,,,Sec. XVII
 BO0624_88174,459307,478,421,"Eisvergnigen.Vor der Stadtmauer, uber die der Turm und das fhneebededte Dah gefrorenen FluB. Ein Paar Kinder ziehen einen Shlitten, in dem ein kleines Madcen litzt. Am Ufer ftehen Spazierganger zulchauend und fidh unterhaltend beieinander. Rects und links von der Hutte des Brudkenwarters fallt der Blick auf eine weite, im Hintergrunde von Hugeln abgefhlollene fchneebededkte Ebene, in der ganz",1278,99.5,False,positional,ESAYAS VAN DE VELDE,,,,
-BO0624_88174,459308,479,430,Der verlorene Sohn.,1283,90.0,False,positional,ESAYAS VAN DE VELDE,,,,
-BO0624_88174,459309,480,431,"Lithographie eines Reiters. 17X22 cm. Biedermeier-Rahmen,",1287,96.4,False,positional,ESAYAS VAN DE VELDE,Biedermeier,CORNICI,,
-BO0624_88174,459310,481,432,Der heilige Bernhard. Pergamentbild.24X18 cm.Stidkereirahmen.,1288,96.7,False,positional,ESAYAS VAN DE VELDE,,,,
+BO0624_88174,459308,479,430,Der verlorene Sohn.,1283,90.0,False,none,,,,,
+BO0624_88174,459309,480,431,"Lithographie eines Reiters. 17X22 cm. Biedermeier-Rahmen,",1287,96.4,False,none,,Biedermeier,CORNICI,,
+BO0624_88174,459310,481,432,Der heilige Bernhard. Pergamentbild.24X18 cm.Stidkereirahmen.,1288,96.7,False,none,,,,,
 BO0624_88174,459311,482,1615,1673.Neapel-Rom.,1292,85.7,False,positional,SALVATORE ROSA,,,,Sec. XVII
-BO0624_88174,459312,483,423,"Die Verkindigung Maria. Zu Maria, die an ihrem Betftuhl fitzt, tritt mit einem Lilienftengel der Engel. Leinwand. Goldrahmen. 1678.",1298,96.4,False,positional,SALVATORE ROSA,,,,Sec. XVII
+BO0624_88174,459312,483,423,"Die Verkindigung Maria. Zu Maria, die an ihrem Betftuhl fitzt, tritt mit einem Lilienftengel der Engel. Leinwand. Goldrahmen. 1678.",1298,96.4,False,none,,,,,Sec. XVII
 BO0624_88174,459313,484,424,"Landschaft. Einem Stadtchen mit roten Giebeldachern find nach links, zum be= fahrenen FluB hin,Refte eines antiken Bauwerks vorgelagert. Im Vordergrunde und am FluB zahlreiche Perfonen. Holz. H. 38,5 cm. Br.49 cm. Sdwarzer Rahmen.",1304,99.1,False,positional,JAN OSSENBEECK,,CORNICI,,
-BO0624_88174,459314,485,425,Die Anbetung der Hirten. Maria und das in der Krippe auf Stroh liegende Kind hell beleuchtet. Davor knien die Hirten. Im Hintergrunde die Tiere.Von oben fhweben hell beleuchtete Engelsputten mit einem Spruhband herein. Leinwand. 74X60 cm.Goldrahmen.,1308,75.3,False,positional,JAN OSSENBEECK,,,,
-BO0624_88174,459315,486,426,"Christus am Kreuz. Chriftus hangt mit weit ausgebreiteten Armen, aus der Seiten=",1313,97.5,False,positional,JAN OSSENBEECK,,,,
-BO0624_88174,459316,487,2,"wunde blutend, am Kreuz. Seine Lenden umhult ein dunnes Shieiertud.Der Nimbus Chrifti tritt plaftifch vor.In den Edftudken der Kreuzarme erfheinen die Bruftbilder Maria und des Johannes. Holz, Kreuzform mit profilierter Randleifte. H.247cm,Br.232cm.",1314,99.6,False,positional,JAN OSSENBEECK,,OGGETTI IN LEGNO,,
+BO0624_88174,459314,485,425,Die Anbetung der Hirten. Maria und das in der Krippe auf Stroh liegende Kind hell beleuchtet. Davor knien die Hirten. Im Hintergrunde die Tiere.Von oben fhweben hell beleuchtete Engelsputten mit einem Spruhband herein. Leinwand. 74X60 cm.Goldrahmen.,1308,75.3,False,none,,,,,
+BO0624_88174,459315,486,426,"Christus am Kreuz. Chriftus hangt mit weit ausgebreiteten Armen, aus der Seiten=",1313,97.5,False,none,,,,,
+BO0624_88174,459316,487,2,"wunde blutend, am Kreuz. Seine Lenden umhult ein dunnes Shieiertud.Der Nimbus Chrifti tritt plaftifch vor.In den Edftudken der Kreuzarme erfheinen die Bruftbilder Maria und des Johannes. Holz, Kreuzform mit profilierter Randleifte. H.247cm,Br.232cm.",1314,99.6,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88174,459317,488,1790,",Wien.",1318,61.5,False,positional,J. KREICZINGER,Scuola Viennese,,,
-BO0624_88174,459318,489,427,"Leopold II. 1790. In weiber, rotbefetzter Uniform,mit dem Orden vom goldenen VlieBe. Bez. J. Kreiczinger pinx: i. a. Wienna. 1790. Leinwand.84X66 cm.Goldrahmen.",1321,67.0,False,positional,J. KREICZINGER,,DECORAZIONI DA PARETE,,Sec. XVIII
-BO0624_88174,459319,490,428,"Der Christusknabe mit der Weltkugel, von Johann Eillarts. 45X32 cm. Belhnitten.",1322,82.1,False,positional,J. KREICZINGER,,,,
-BO0624_88174,459320,491,429,PreuBische Kirassiere und eine andere Lithographie.,1324,96.2,False,positional,J. KREICZINGER,,STAMPE E INCISIONI,,
+BO0624_88174,459318,489,427,"Leopold II. 1790. In weiber, rotbefetzter Uniform,mit dem Orden vom goldenen VlieBe. Bez. J. Kreiczinger pinx: i. a. Wienna. 1790. Leinwand.84X66 cm.Goldrahmen.",1321,67.0,False,none,,,DECORAZIONI DA PARETE,,Sec. XVIII
+BO0624_88174,459319,490,428,"Der Christusknabe mit der Weltkugel, von Johann Eillarts. 45X32 cm. Belhnitten.",1322,82.1,False,none,,,,,
+BO0624_88174,459320,491,429,PreuBische Kirassiere und eine andere Lithographie.,1324,96.2,False,none,,,STAMPE E INCISIONI,,
 BO0624_88174,459321,492,433,"Bibel, zwei Bande, mit Stiden. Uberfetzt yon Dr.M. Luther. Tubingen, Cotta 1730. Grober Folio-Lederband mit ShlieBen. Altes und Neues Teftament.",1327,68.9,False,positional,FR.WENTZEL,,,,Sec. XVIII
 BO0624_88174,459322,493,434,Bibende Magdalena. 24X18 cm. Shwarzer Rahmen.,1332,95.5,False,positional,,,CORNICI,,
 BO0624_88174,459323,494,435,Mater dolorosa. X18 cm.Biedermeier-Rahmen.,1334,74.6,False,positional,,Biedermeier,CORNICI,,

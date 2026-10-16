@@ -51,7 +51,7 @@ BO0624_81847,152795,49,36,"ALBERELLO maiolica di Caltagirone, Sec. XVHI.",76,96.
 BO0624_81847,152796,50,38,"FRANCESCO GUARDI (Imitazione da). —Capricci, due dipinti su tela in cornice dorata, 25 x 44 ciasc. 37.IGNOTO. - Architetture, due dipinti su tela con cornici dorate.",77,73.7,False,none,GUARDI FRANCESCO,,CORNICI,,
 BO0624_81847,152797,51,39,"VAN THULDEN THEODORO (Fiam.), Sec. XVII. - Soggetto stori-",79,97.0,False,none,,,,,Sec. XVII
 BO0624_81847,152798,52,20,"co, dipinto su tela in cornice dorata, 35 x 40.",80,96.7,False,none,,,,,
-BO0624_81847,152799,53,21,"40.PANNINI G. BATT.,SeC. XVII.— Paesaggio con rovine, dipinto",81,97.3,False,none,,,,,
+BO0624_81847,152799,53,21,"40.PANNINI G. BATT.,SeC. XVII.— Paesaggio con rovine, dipinto",81,97.3,False,none,PANNINI GIOVANNI PAOLO,,,,
 BO0624_81847,152800,54,22,"su tela in cornice dorata,68x 40.",82,95.5,False,none,,,,,
 BO0624_81847,152801,55,41,"G. B. SALVI (detto il Sassoferrato), Sec. XVII. -Testa della Ver- gine, dipinto su tela, cornice dorata.",83,74.2,False,none,"SASSOFERRATO, GIOV. BATTISTA SALVI",,,,Sec. XVII
 BO0624_81847,152802,56,42,"F. GILLMANS, Fiam., Sec. XVII. — Natura morta, dipinto su tavola in cornice dorata, 25 x 34.",85,98.2,False,none,,,,,Sec. XVII
@@ -223,9 +223,9 @@ BO0624_81847,152967,221,200,"HUBERT ROBERT, Sec. XVIHI.—Nello studio del pitto
 BO0624_81847,152968,222,6,"cornice dorata, 78 x 63. Vedi illustrazione.",305,97.6,False,none,,,,,
 BO0624_81847,152969,223,204,"MORONI G. B., Sec. XVI. — Ritratto d’uomo, dipinto su tela in",306,96.4,False,none,,,,,Sec. XVI
 BO0624_81847,152970,224,8,"cornice dorata, 67 × 53.",307,95.2,False,none,,,,,
-BO0624_81847,152971,225,9,"202.ZAMPIERI DOMENICO,detto il DOMENICHINO,Sec.XVI-XVII. Visione di S. Teresa, tela con cornice, 1.30 x 95.",308,99.0,False,none,,,,,
+BO0624_81847,152971,225,9,"202.ZAMPIERI DOMENICO,detto il DOMENICHINO,Sec.XVI-XVII. Visione di S. Teresa, tela con cornice, 1.30 x 95.",308,99.0,False,none,"DOMENICHINO, ZAMPIERI DOMENICO",,,,
 BO0624_81847,152972,226,10,"re, su tela cornice dorata, 71 x 62.",309,95.7,False,none,,,,,
-BO0624_81847,152973,227,11,"204.PANNINI GIO.PAOLO,Sec.XVIII. Paese roccioso con figure, su tela cornice dorata, 71 x 62.",310,98.3,False,none,,,,,
+BO0624_81847,152973,227,11,"204.PANNINI GIO.PAOLO,Sec.XVIII. Paese roccioso con figure, su tela cornice dorata, 71 x 62.",310,98.3,False,none,PANNINI GIOVANNI PAOLO,,,,
 BO0624_81847,152974,228,205,"RIVALTA AUGUSTO. — Amor materno, gruppo in bronzo.",311,95.7,False,none,,,,,
 BO0624_81847,152975,229,13,206.,312,66.7,False,none,,,,,
 BO0624_81847,152976,230,14,COLONNA marmo verde di Prato.,313,94.9,False,none,,,,,
@@ -369,7 +369,7 @@ BO0624_81847,153113,367,4,"L'incendio di Troia, su tavola cornice guilloche, 40 
 BO0624_81847,153114,368,344,"VECELLIO TIZIANO (Scuola di), Sec. XVI. Sacra Famiglia,",506,96.1,False,none,TIZIANO VECELLIO,Scuola di Tiziano,,,Sec. XVI
 BO0624_81847,153115,369,2,"dipinto su tela in cornice dorata, 90 x 4.33.",507,97.7,False,none,,,,,
 BO0624_81847,153116,370,342,"QUINTIN METSYS, Sec:XVI.—Madonna col Bambino, dipinto su tavola in cornice guilloche, 37 x 45. Vedi illustrazione.",508,88.6,False,none,,,,,
-BO0624_81847,153117,371,343,"FRA FILIPPO LIPPI, Sec. XV. -—L'Adorazione del Divin Figlio, dipinto su tavola con tabernacolo in stile, 68 x 40. Vedi illustrazione.",510,98.4,False,none,,,,,Sec. XV
+BO0624_81847,153117,371,343,"FRA FILIPPO LIPPI, Sec. XV. -—L'Adorazione del Divin Figlio, dipinto su tavola con tabernacolo in stile, 68 x 40. Vedi illustrazione.",510,98.4,False,none,LIPPI FILIPPINO,,,,Sec. XV
 BO0624_81847,153118,372,344,"STROZZI BERNARDO detto il CAPPUCCINO, Sec. XVII. -S. Cecilia, su tela cornice scolpita e dorata, 1.88 x 4.22. Alla recente esposizione della pittura Italiana del 600 e 700 nel Palazzo Pitti a Firenze era ammirato nella grande sala dello Strozzi e Feti. Vedi riproduzione nell'lllustrazione Italiana del 25 giugno 1922, pag. 746. Vedi illustrazione.",511,96.5,False,none,,,,,Sec. XVII
 BO0624_81847,153119,373,345,"VAN DYCK ANTONIO, Sec. XVII.La Pieta, dipinto su tela 80× 70, cornice guilloche gia appartenuto a patrizia famiglia genovese. Vedi illustrazione.",513,91.2,False,none,VAN DYCK ANTON,,,,
 BO0624_81847,153120,374,346,"VANNUCCI PIETRO detto il PERUGINO, Sec. XV.— Madonna con bambino in braccio, dipinto su tavola, in cornice a tabernacolo in stile, 82x 53. Vedi illustrazione.",515,91.9,False,none,"VANUCCI PIETRO, PERUGINO",,OGGETTI VARI,,
@@ -505,19 +505,19 @@ BO0624_81847,153249,503,479,"IGNOTO VENEZIANO, Sec. XVII. — Testa di S. Teresa
 BO0624_81847,153250,504,480,"RENI GUIDO (Scuola di), Sec. XVII. — L'Adorazione di Cristo nell'Orto, dipinto su tela in cornice dorata, 53 × 38.",719,65.8,False,none,GUIDO RENI,Scuola di Guido Reni,,,Sec. XVII
 BO0624_81847,153251,505,481,"MARATTA CARLO, Sec. XVII. -—La Vergine (mezzo busto), di- pinto su tela, cornice dorata, 50 x 40.",721,70.1,False,none,MARATTI CARLO,,,,Sec. XVII
 BO0624_81847,153252,506,482,"NOLP (Ol.), Sec. XVIl. - Paese d'inverno con pattinatori, dipin- to su tavola in cornice nera, dim. 30 x 40.",723,70.6,False,none,,,,,
-BO0624_81847,153253,507,483,"MOUCHERON ISAAC (Ol.), Sec. XVII. — Paesaggio con figure, dipinto su tela in cornice guilloche.",725,97.7,False,none,,,,,Sec. XVII
+BO0624_81847,153253,507,483,"MOUCHERON ISAAC (Ol.), Sec. XVII. — Paesaggio con figure, dipinto su tela in cornice guilloche.",725,97.7,False,none,MOUCHERON FREDERIK,,,,Sec. XVII
 BO0624_81847,153254,508,484,"KNELLER GODFROY (Ing.), Sec. XVII. — Ritratto dell'Infante Charles Qa Duca di Grafton, dipinto su tela in cornice guilloche, dim. 1.21 x 90. e",726,98.5,False,none,,,,,Sec. XVII
 BO0624_81847,153255,509,485,"CASSA da corredo noce scolpito, Sec. XVI.",727,95.0,False,none,,,,,Sec. XVI
 BO0624_81847,153256,510,486,"TAvOLA da centro in noce scolpito con gambe tornite, stile Se- colo XVI, m. 2.02 x 80.",728,82.8,False,none,,,,,
 BO0624_81847,153257,511,487,"CREDENZONE noce a pilastri scannellati, Sec. XVI.",730,95.8,False,none,,,,,Sec. XVI
 BO0624_81847,153258,512,488,"BIANCHI LUIGI. —Contadina, dipinto su tela in cornice dorata, 1.30x71.",731,97.0,False,none,,,,,
-BO0624_81847,153259,513,489,"PALIZZI FILIPPO. — Studi di teste di bovi e pecore, su tela, 56× 42.",732,96.8,False,none,,,,,
-BO0624_81847,153260,514,490,PALIZZI FILIPPO. --,733,88.2,False,none,,,,,
+BO0624_81847,153259,513,489,"PALIZZI FILIPPO. — Studi di teste di bovi e pecore, su tela, 56× 42.",732,96.8,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153260,514,490,PALIZZI FILIPPO. --,733,88.2,False,none,PALIZZI FILIPPO,,,,
 BO0624_81847,153261,515,23,"-Studi di asinello, cane, gatto,su tela,",734,96.0,False,none,,,,,
-BO0624_81847,153262,516,494,"PALIZZI FILIPPO.— Studi di teste capra, asinello e bue, su tela, 44x33.",735,97.0,False,none,,,,,
-BO0624_81847,153263,517,25,"492.PALIZZI FILIPPO.— Studi di capre e pecore, su tela, 33 x 49.",736,97.5,False,none,,,,,
-BO0624_81847,153264,518,493,"PALIZZI FILIPPO.— Studio di teste, su tela, 33 x 52.",737,95.9,False,none,,,,,
-BO0624_81847,153265,519,494,"PALIZZI FILIPPO. —Studio di pecore, su tela, 30 x 54.",738,96.0,False,none,,,,,
+BO0624_81847,153262,516,494,"PALIZZI FILIPPO.— Studi di teste capra, asinello e bue, su tela, 44x33.",735,97.0,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153263,517,25,"492.PALIZZI FILIPPO.— Studi di capre e pecore, su tela, 33 x 49.",736,97.5,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153264,518,493,"PALIZZI FILIPPO.— Studio di teste, su tela, 33 x 52.",737,95.9,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153265,519,494,"PALIZZI FILIPPO. —Studio di pecore, su tela, 30 x 54.",738,96.0,False,none,PALIZZI FILIPPO,,,,
 BO0624_81847,153266,520,496,"COLONNA in marmo verde di Prato. 495.1 RIVALTA AUGUSTO. — Amazzone, gruppo in bronzo.",740,74.4,False,none,,,,,
 BO0624_81847,153267,521,497,"DUE VASI in porcellana di Canton. LUCERNA Fiorentina grande a due beccucci, bronzo, circa metri 4.60. FIORIERA marmo scolpito.",742,68.8,False,none,,,VASI,,
 BO0624_81847,153268,522,500,"POLTRONA Dantesca noce scolpito, sedile e schienale cuoio, frangia rossa.",744,97.2,False,none,,,POLTRONE,,
@@ -692,19 +692,19 @@ BO0624_81847,153436,690,656,"BISEO CESARE.— Araba, tela cornice dorata.",1014,
 BO0624_81847,153437,691,657,"STEFFANI LUIGI.— Mucche al torrente, dipinto su tela in cor-",1015,96.6,False,none,,,,,
 BO0624_81847,153438,692,658,"CARNEVALI GIOVANNI detto il PICCIO, Sec. XIX?— Ritratto di Carbonaro,dipinto su tela in cornice policromata,95x44.",1017,98.2,False,none,,,,,
 BO0624_81847,153439,693,659,"INDUNO G.?—Ritratto di donna, dipinto su tela in cornice dorata, 55x45.",1018,97.1,False,none,,,,,
-BO0624_81847,153440,694,660,"PALIZZI FILIPPO.—Studi di pecore, pavone e barbagianni, su",1019,96.5,False,none,,,,,
-BO0624_81847,153441,695,661,"PALIZZI FILIPPO.—Studio di testa montone, pecore e cane, su",1021,96.6,False,none,,,,,
+BO0624_81847,153440,694,660,"PALIZZI FILIPPO.—Studi di pecore, pavone e barbagianni, su",1019,96.5,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153441,695,661,"PALIZZI FILIPPO.—Studio di testa montone, pecore e cane, su",1021,96.6,False,none,PALIZZI FILIPPO,,,,
 BO0624_81847,153442,696,662,"PALIZZIFILIPPO.— Studi di pecore, cani, gatti, su tela,37 x 52.",1023,96.6,False,none,,,,,
-BO0624_81847,153443,697,663,"1 PALIZZI FILIPPO. Studio di capre, su tela, 35 x 48.",1024,96.1,False,none,,,,,
-BO0624_81847,153444,698,664,PALIZZI FILIPPO.,1025,88.2,False,none,,,,,
-BO0624_81847,153445,699,665,PALIZZI FILIPPO.54×39.,1026,91.3,False,none,,,,,
-BO0624_81847,153446,700,666,PALIZZI FILIPPO.,1027,88.2,False,none,,,,,
-BO0624_81847,153447,701,667,PALIZZI FILIPPO.,1028,88.2,False,none,,,,,
-BO0624_81847,153448,702,668,"PALIZZI FILIPPO. -- Volpe in attesa, su tela (pendent del pre- cedente), 24x40.",1033,85.9,False,none,,,,,
-BO0624_81847,153449,703,669,"PALIZZI FILIPPO. --Due capre, su tela, 21 x 26.",1035,95.3,False,none,,,,,
+BO0624_81847,153443,697,663,"1 PALIZZI FILIPPO. Studio di capre, su tela, 35 x 48.",1024,96.1,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153444,698,664,PALIZZI FILIPPO.,1025,88.2,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153445,699,665,PALIZZI FILIPPO.54×39.,1026,91.3,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153446,700,666,PALIZZI FILIPPO.,1027,88.2,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153447,701,667,PALIZZI FILIPPO.,1028,88.2,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153448,702,668,"PALIZZI FILIPPO. -- Volpe in attesa, su tela (pendent del pre- cedente), 24x40.",1033,85.9,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153449,703,669,"PALIZZI FILIPPO. --Due capre, su tela, 21 x 26.",1035,95.3,False,none,PALIZZI FILIPPO,,,,
 BO0624_81847,153450,704,4,"Studio di cavallo e bue,su tela,21x27.",1036,97.4,False,none,,,,,
-BO0624_81847,153451,705,5,670.PALIZZI FILIPPO.—S,1037,95.5,False,none,,,,,
-BO0624_81847,153452,706,6,"674.PALIZZI FILIPPO.-S Studio di buoi,su tela,21x20.",1038,98.0,False,none,,,,,
+BO0624_81847,153451,705,5,670.PALIZZI FILIPPO.—S,1037,95.5,False,none,PALIZZI FILIPPO,,,,
+BO0624_81847,153452,706,6,"674.PALIZZI FILIPPO.-S Studio di buoi,su tela,21x20.",1038,98.0,False,none,PALIZZI FILIPPO,,,,
 BO0624_81847,153453,707,672,"GALLI RICCARDO.—Lavandaie al Torrente, dipinto su tavola in cornice dorata.",1039,97.3,False,none,,,,,
 BO0624_81847,153454,708,673,"DALBONO E.— Marina, acquerello in cornice dorata. VAsO a mezza palla, maiolica di Palermo con medaglione ritrat-",1041,71.8,False,none,,,VASI,,
 BO0624_81847,153455,709,674,"BARZANTI LICINIO.—Rose, dipinto su tela in cornice dorata.",1042,96.5,False,none,,,,,

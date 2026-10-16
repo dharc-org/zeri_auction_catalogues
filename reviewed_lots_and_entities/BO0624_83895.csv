@@ -1,93 +1,93 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83895,89613,1,1587,4661,10,61.5,False,positional,ADRIAENSSEN (ALEXANDER),,,,
-BO0624_83895,89614,2,2,La Jardiniere de Cuivre. 1685,12,86.8,False,positional,ADRIAENSSEN (ALEXANDER),,,,Sec. XVII
+BO0624_83895,89614,2,2,La Jardiniere de Cuivre. 1685,12,86.8,False,none,,,,,Sec. XVII
 BO0624_83895,89615,3,3,Les Peches.,24,90.9,False,positional,AELST (WILLEM VAN),,,,
-BO0624_83895,89616,4,4,一 Les Raisins.,32,92.9,False,positional,AELST (WILLEM VAN),,,,
+BO0624_83895,89616,4,4,一 Les Raisins.,32,92.9,False,none,,,,,
 BO0624_83895,89617,5,5,## BAEN (JAN DE),39,100.0,False,title_direct,BAEN (JAN DE),,,,
-BO0624_83895,89618,6,1655,1702,41,61.5,False,positional,BAEN (JAN DE),,,,Sec. XVIII
+BO0624_83895,89618,6,1655,1702,41,61.5,False,none,,,,,Sec. XVIII
 BO0624_83895,89619,7,1651,1708,53,61.5,False,positional,BAKHUYSEN (LUDOLF),,,,Sec. XVIII
-BO0624_83895,89620,8,6,"La Flotte hollandaise. ancre; autour d’elles, des bachots a voiles vicnnent promener et ballotter des curieux.",61,89.0,False,positional,BAKHUYSEN (LUDOLF),,,,
+BO0624_83895,89620,8,6,"La Flotte hollandaise. ancre; autour d’elles, des bachots a voiles vicnnent promener et ballotter des curieux.",61,89.0,False,none,,,,,
 BO0624_83895,89621,9,7,"Portrait d'Homme. l est vu de trois quarts a droite, a mi-corps. Son visage est grave,les sourcils fronces,le menton double d'un pli gras. ll est coiffe de ses cheveux noirs partages sur le milieu du front. ll est vetu d'un pourpoint noir et d'un manteau de meme couleur : son col de batiste blanche,rabattu, est noue par un cordonnet blanc a gland. De la main gauche, a hauteur de labdomen,il tient, ses gants; la main apparait aux poignets.",75,98.1,False,positional,BEELDEMAEKER(ADRIAEN CORNELISZ.),,STAMPE E INCISIONI,,
 BO0624_83895,89622,10,8,一 Cour de Ferme. ou1621-1675,85,68.2,False,positional,BERGEN (DIRCK VAN DEN),,,,Sec. XVII
 BO0624_83895,89623,11,9,- Le Ciboire de Vermeil.,96,95.5,False,positional,BEYEREN (ABRAHAM HENDRICKSZ.VAN),,,,
 BO0624_83895,89624,12,10,Le Dessert. ou1621-1675,119,59.5,False,positional,BEYEREN (ABRAHAM HENDRICKSZ.VAN),,,,Sec. XVII
-BO0624_83895,89625,13,11,Les Poissons.,121,88.9,False,positional,BEYEREN (ABRAHAM HENDRICKSZ.VAN),,,,
-BO0624_83895,89626,14,12,"- Retour de la Peche, a Scheveningue. ou 1621-1675",127,80.5,False,positional,BEYEREN (ABRAHAM HENDRICKSZ.VAN),,,,Sec. XVII
+BO0624_83895,89625,13,11,Les Poissons.,121,88.9,False,none,,,,,
+BO0624_83895,89626,14,12,"- Retour de la Peche, a Scheveningue. ou 1621-1675",127,80.5,False,none,,,,,Sec. XVII
 BO0624_83895,89627,15,13,Le Panier de Fruits.,144,92.7,False,positional,BEYEREN (ABRAHAM HENDRICKSZ. VAN),,,,
-BO0624_83895,89628,16,14,— Raisins et Citrons.,150,92.3,False,positional,BEYEREN (ABRAHAM HENDRICKSZ. VAN),,,,
-BO0624_83895,89629,17,15,Poissons a l'office 1680,160,82.6,False,positional,BEYEREN (ABRAHAM HENDRICKSZ. VAN),,,,Sec. XVII
+BO0624_83895,89628,16,14,— Raisins et Citrons.,150,92.3,False,none,,,,,
+BO0624_83895,89629,17,15,Poissons a l'office 1680,160,82.6,False,none,,,,,Sec. XVII
 BO0624_83895,89630,18,16,Jeune Femme a l'CEillet rouge.,173,95.1,False,positional,BOL(FERDINAND),,,,
-BO0624_83895,89631,19,17,Portrait d'un Savant.,185,93.0,False,positional,BOL(FERDINAND),,,,
-BO0624_83895,89632,20,I,"l est assis de trois quarts a droite, sur un fauteuil a accoudoirs de boiset il est vu jusqu'a mi-jambes. Son visage tres brun porte la trace ombree d'une barbe recente. Sur sa levre superieure une fine moustache; une mouche tres courte a la naissance du menton qui se dessine sur le pli gras du cou. Son nez est busque; ses yeux sont petits et intelligents; mais ce savant ne doit guere douter de sa science. Sa physionomie quelque peu insolente denonce un certain contentement de soi-meme. Sur ses cheveux chatain clair,il est coiffe d'un feutre noir a larges bords; il est vetu d'une soutane noire a petits boutons serres sur le devant de la poitrine et sur la facc superieure de la manche.Autour du cou,il porte un rabat large de batiste blanche empesee.",187,99.9,False,positional,BOL(FERDINAND),,SCOMPARTI,,
+BO0624_83895,89631,19,17,Portrait d'un Savant.,185,93.0,False,none,,,,,
+BO0624_83895,89632,20,I,"l est assis de trois quarts a droite, sur un fauteuil a accoudoirs de boiset il est vu jusqu'a mi-jambes. Son visage tres brun porte la trace ombree d'une barbe recente. Sur sa levre superieure une fine moustache; une mouche tres courte a la naissance du menton qui se dessine sur le pli gras du cou. Son nez est busque; ses yeux sont petits et intelligents; mais ce savant ne doit guere douter de sa science. Sa physionomie quelque peu insolente denonce un certain contentement de soi-meme. Sur ses cheveux chatain clair,il est coiffe d'un feutre noir a larges bords; il est vetu d'une soutane noire a petits boutons serres sur le devant de la poitrine et sur la facc superieure de la manche.Autour du cou,il porte un rabat large de batiste blanche empesee.",187,99.9,False,none,LE BRUN CHARLES,,SCOMPARTI,,
 BO0624_83895,89633,21,1629,ou1650-1677,202,84.6,False,positional,BORSSOM (ANTHONY VAN),,,,Sec. XVII
-BO0624_83895,89634,22,18,## 一 Vaches paissant dans un Pre.,206,100.0,False,positional,BORSSOM (ANTHONY VAN),,,,
-BO0624_83895,89635,23,19,de Harlem. 1697,218,69.2,False,positional,BORSSOM (ANTHONY VAN),,,,Sec. XVII
+BO0624_83895,89634,22,18,## 一 Vaches paissant dans un Pre.,206,100.0,False,none,,,,,
+BO0624_83895,89635,23,19,de Harlem. 1697,218,69.2,False,none,,,,,Sec. XVII
 BO0624_83895,89636,24,20,Le Chaland.,238,87.0,False,positional,CAPELLE (JAN VAN DE),,,,
 BO0624_83895,89637,25,21,La Cafetiere d'Etain.,247,93.0,False,positional,CLAESZ (PIETER),,OGGETTI IN PELTRO,,
-BO0624_83895,89638,26,22,La Coupe ciselée.,255,91.4,False,positional,CLAESZ (PIETER),,,,
-BO0624_83895,89639,27,23,La Coupe renversee.,263,92.3,False,positional,CLAESZ (PIETER),,,,
-BO0624_83895,89640,28,24,Le Jambon. 1691,269,69.2,False,positional,CLAESZ (PIETER),,,,Sec. XVII
+BO0624_83895,89638,26,22,La Coupe ciselée.,255,91.4,False,none,,,,,
+BO0624_83895,89639,27,23,La Coupe renversee.,263,92.3,False,none,,,,,
+BO0624_83895,89640,28,24,Le Jambon. 1691,269,69.2,False,none,,,,,Sec. XVII
 BO0624_83895,89641,29,25,Vaches dans un Paysage montagneux.,280,95.7,False,positional,CUYP (AELBERT),,,,
-BO0624_83895,89642,30,26,La Bergere.,289,87.0,False,positional,CUYP (AELBERT),,,,
-BO0624_83895,89643,31,27,Bouvier au milieu de son Troupeau.,299,95.7,False,positional,CUYP (AELBERT),,,,
+BO0624_83895,89642,30,26,La Bergere.,289,87.0,False,none,,,,,
+BO0624_83895,89643,31,27,Bouvier au milieu de son Troupeau.,299,95.7,False,none,,,,,
 BO0624_83895,89644,32,1620,1691,313,61.5,False,positional,CUYP(AELBERT),,,,Sec. XVII
 BO0624_83895,89645,33,1620,1691,318,61.5,False,positional,CUYP (AELBERT),,,,Sec. XVII
-BO0624_83895,89646,34,28,Le Soir au bord du Lac.,320,93.6,False,positional,CUYP (AELBERT),,,,
-BO0624_83895,89647,35,29,L'Homme au Calot de Soie noire.,328,95.2,False,positional,CUYP (AELBERT),,,,
-BO0624_83895,89648,36,I,"l est represente de trois quarts a droite,jusqu'a mi-corps.ll a le teint vif,des yeux clairs sous des paupieres fatiguees, le nez bossue, la bouche et le menton caches sous les moustaches et la barbe grisonnantes mais legeres;les joues marquees de rides profondes,le crane denude,coiffe d'un calot de soie noire. Son col, de batiste blanche empesee, est rabattu sur son pourpoint noir qu'on voit dans louverture du manteau a parements de velours,de meme couleur.",330,99.9,False,positional,CUYP (AELBERT),,,,
+BO0624_83895,89646,34,28,Le Soir au bord du Lac.,320,93.6,False,none,,,,,
+BO0624_83895,89647,35,29,L'Homme au Calot de Soie noire.,328,95.2,False,none,,,,,
+BO0624_83895,89648,36,I,"l est represente de trois quarts a droite,jusqu'a mi-corps.ll a le teint vif,des yeux clairs sous des paupieres fatiguees, le nez bossue, la bouche et le menton caches sous les moustaches et la barbe grisonnantes mais legeres;les joues marquees de rides profondes,le crane denude,coiffe d'un calot de soie noire. Son col, de batiste blanche empesee, est rabattu sur son pourpoint noir qu'on voit dans louverture du manteau a parements de velours,de meme couleur.",330,99.9,False,none,,,,,
 BO0624_83895,89649,37,1620,1691,337,61.5,False,positional,CUYP(AELBERT),,,,Sec. XVII
-BO0624_83895,89650,38,30,Le Cheval isabelle.,339,92.3,False,positional,CUYP(AELBERT),,,,
+BO0624_83895,89650,38,30,Le Cheval isabelle.,339,92.3,False,none,,,,,
 BO0624_83895,89651,39,31,Famille de Berger. 1651ou1652,351,70.8,False,positional,CUYP (AELBERT),,,,
 BO0624_83895,89652,40,32,Portrait d'une jeune Princesse.,362,95.2,False,positional,CUYP (JACOB GERRITSZ.),,,,
-BO0624_83895,89653,41,33,Portrait d'Adriana Pannier.,372,94.5,False,positional,CUYP (JACOB GERRITSZ.),,,,
-BO0624_83895,89654,42,34,a Delft. 1671,381,63.6,False,positional,CUYP (JACOB GERRITSZ.),,,,Sec. XVII
+BO0624_83895,89653,41,33,Portrait d'Adriana Pannier.,372,94.5,False,none,,,,,
+BO0624_83895,89654,42,34,a Delft. 1671,381,63.6,False,none,,,,,Sec. XVII
 BO0624_83895,89655,43,35,"Coings, Peches et Melons d'Eau.",407,95.1,False,positional,DIELAERT (CH.VAN),,,,
-BO0624_83895,89656,44,38,A l'office.,412,87.0,False,positional,DIELAERT (CH.VAN),,,,
+BO0624_83895,89656,44,38,A l'office.,412,87.0,False,none,,,,,
 BO0624_83895,89657,45,1615,1675,422,61.5,False,positional,DOU (GERARD),,,,Sec. XVII
-BO0624_83895,89658,46,36,Portrait de IArtiste.,424,93.0,False,positional,DOU (GERARD),,,,
-BO0624_83895,89659,47,37,Dans Il'Atelier du Peintre.,432,94.5,False,positional,DOU (GERARD),,,,
+BO0624_83895,89658,46,36,Portrait de IArtiste.,424,93.0,False,none,,,,,
+BO0624_83895,89659,47,37,Dans Il'Atelier du Peintre.,432,94.5,False,none,,,,,
 BO0624_83895,89660,48,39,1 Portrait d'Homme.,447,92.3,False,positional,,ECOLE HOLLANDAISE,,,
 BO0624_83895,89661,49,40,"L'Homme a l'Orange. l est vu jusqu'a mi-corps de face, en vetement noir, rabat et rebras blancs; il tient de la main gauche relevee une orange,et engage les doigts de la main droite,le bras ploye,dans louverture du pourpoint.",466,95.3,False,positional,,ECOLE HOLLANDAISE,,,
-BO0624_83895,89662,50,41,Portrait d'Homme.,472,91.4,False,positional,,ECOLE HOLLANDAISE,,,
-BO0624_83895,89663,51,42,Fleurs.,480,80.0,False,positional,,ECOLE HOLLANDAISE,,,
-BO0624_83895,89664,52,43,Fleurs.,488,80.0,False,positional,,ECOLE HOLLANDAISE,,,
+BO0624_83895,89662,50,41,Portrait d'Homme.,472,91.4,False,none,,,,,
+BO0624_83895,89663,51,42,Fleurs.,480,80.0,False,none,,,,,
+BO0624_83895,89664,52,43,Fleurs.,488,80.0,False,none,,,,,
 BO0624_83895,89665,53,44,Portrait de Femme.,497,91.9,False,positional,,ECOLE HOLLANDAISE,,,
-BO0624_83895,89666,54,45,Portrait de Femme.,503,91.9,False,positional,,ECOLE HOLLANDAISE,,,
+BO0624_83895,89666,54,45,Portrait de Femme.,503,91.9,False,none,,,,,
 BO0624_83895,89667,55,46,Un Homme d'Eglise. entre 1655 et 1656,519,64.4,False,positional,"ELIAS (NICOLAS),SURNOMME PICKENOY",,,,Sec. XVII
-BO0624_83895,89668,56,47,Portrait de Femme.,521,91.9,False,positional,"ELIAS (NICOLAS),SURNOMME PICKENOY",,,,
+BO0624_83895,89668,56,47,Portrait de Femme.,521,91.9,False,none,,,,,
 BO0624_83895,89669,57,48,La Femme a la Bible. 1660,530,82.6,False,positional,FABRITIUS (BARENT),,,,Sec. XVII
 BO0624_83895,89670,58,49,L'Enfant a la Toque fourrée.,540,94.7,False,positional,FLINCK (GOVAERT),,,,
-BO0624_83895,89671,59,I,"l est vu jusqu'a mi-corps de trois quarts a droite.Sa jolie figure,aux traits reguliers, aux joues pleines et roses,au petit nez fripon,aux yeux intelligents,s'encadre de ses cheveux boucles chatain clair qui voltigent de chaque cote de sa figure. ll est coiffe d'un bonnet marron,garni sur le devant de fourrure et orne d'un affiquet d''or a chaton de pierreries. ll est vetu d'un habit de velours loutre sur le devant duquel vient jouer le pan d'une cravate ecossaise a effiloches de soie. La figure se detache sur un fond brun qui se degrade en gris a la droite de la tete.",542,99.9,False,positional,FLINCK (GOVAERT),,,,
+BO0624_83895,89671,59,I,"l est vu jusqu'a mi-corps de trois quarts a droite.Sa jolie figure,aux traits reguliers, aux joues pleines et roses,au petit nez fripon,aux yeux intelligents,s'encadre de ses cheveux boucles chatain clair qui voltigent de chaque cote de sa figure. ll est coiffe d'un bonnet marron,garni sur le devant de fourrure et orne d'un affiquet d''or a chaton de pierreries. ll est vetu d'un habit de velours loutre sur le devant duquel vient jouer le pan d'une cravate ecossaise a effiloches de soie. La figure se detache sur un fond brun qui se degrade en gris a la droite de la tete.",542,99.9,False,none,LE BRUN CHARLES,,,,
 BO0624_83895,89672,60,1596,1656,551,61.5,False,positional,GOYEN JAN VAN),,,,Sec. XVII
-BO0624_83895,89673,61,50,Le Retour de la Noce.,553,93.0,False,positional,GOYEN JAN VAN),,,,
-BO0624_83895,89674,62,51,Ville au Bord d'un Canal.,559,94.1,False,positional,GOYEN JAN VAN),,,,
-BO0624_83895,89675,63,52,Plage a Maree basse. 1699,567,82.6,False,positional,GOYEN JAN VAN),,,,Sec. XVII
+BO0624_83895,89673,61,50,Le Retour de la Noce.,553,93.0,False,none,,,,,
+BO0624_83895,89674,62,51,Ville au Bord d'un Canal.,559,94.1,False,none,CANALE ANTONIO,,,,
+BO0624_83895,89675,63,52,Plage a Maree basse. 1699,567,82.6,False,none,,,,,Sec. XVII
 BO0624_83895,89676,64,53,Foret au bord de l'Eau.,582,93.6,False,positional,HACKAERT (JAN),,,,
 BO0624_83895,89677,65,54,Portrait d'un Prince d'Orange.,594,95.1,False,positional,HALS (FRANS),,,,
-BO0624_83895,89678,66,I,"l est represente de trois quarts a droite,debout. ll porte une armure d'apparat, a dorures ct a nielles d'une incomparable richesse. ll a les chcveux quelque peu grisonnants,rejetes en arriere. Sa barbe taillee en pointe pose sur une fraise de batiste blanche a plis rigides et garnie de point-coupe. Dans sa physionomie presque souriante,il y a de la cruaute et du scepticisme. ll appuie a sa hanche sa main droite renversee,le bras ploye.Pres de lui, sur une table couverte dun tapis rouge,il a place ses gantelets et son casque a cimier, dont il touche le frontal de la main gauche.",596,99.9,False,positional,HALS (FRANS),,,,
+BO0624_83895,89678,66,I,"l est represente de trois quarts a droite,debout. ll porte une armure d'apparat, a dorures ct a nielles d'une incomparable richesse. ll a les chcveux quelque peu grisonnants,rejetes en arriere. Sa barbe taillee en pointe pose sur une fraise de batiste blanche a plis rigides et garnie de point-coupe. Dans sa physionomie presque souriante,il y a de la cruaute et du scepticisme. ll appuie a sa hanche sa main droite renversee,le bras ploye.Pres de lui, sur une table couverte dun tapis rouge,il a place ses gantelets et son casque a cimier, dont il touche le frontal de la main gauche.",596,99.9,False,none,,,,,
 BO0624_83895,89679,67,1594,apres 1679,605,80.0,False,positional,HEDA (WILLEM CLAESZ.),,,,Sec. XVII
-BO0624_83895,89680,68,55,Le Broc d'Etain.,607,90.9,False,positional,HEDA (WILLEM CLAESZ.),,OGGETTI IN PELTRO,,
-BO0624_83895,89681,69,56,Le Verre de Boheme.,615,92.3,False,positional,HEDA (WILLEM CLAESZ.),,,,
-BO0624_83895,89682,70,57,Le Tourteau.,623,88.0,False,positional,HEDA (WILLEM CLAESZ.),,,,
+BO0624_83895,89680,68,55,Le Broc d'Etain.,607,90.9,False,none,,,OGGETTI IN PELTRO,,
+BO0624_83895,89681,69,56,Le Verre de Boheme.,615,92.3,False,none,,,,,
+BO0624_83895,89682,70,57,Le Tourteau.,623,88.0,False,none,,,,,
 BO0624_83895,89683,71,58,La Coupe. apres1679,638,62.5,False,positional,HEDA (WILLEM CLAESZ.),,,,
-BO0624_83895,89684,72,59,Cafetiere et Jambon.,640,92.7,False,positional,HEDA (WILLEM CLAESZ.),,,,
-BO0624_83895,89685,73,60,Les Verres de Venise.,648,93.0,False,positional,HEDA (WILLEM CLAESZ.),,,,
-BO0624_83895,89686,74,61,La Montre.,654,85.7,False,positional,HEDA (WILLEM CLAESZ.),,,,
-BO0624_83895,89687,75,62,Les Huitres et le Pichet de Gres. apres 1679,660,82.1,False,positional,HEDA (WILLEM CLAESZ.),,,,Sec. XVII
+BO0624_83895,89684,72,59,Cafetiere et Jambon.,640,92.7,False,none,,,,,
+BO0624_83895,89685,73,60,Les Verres de Venise.,648,93.0,False,none,,,,,
+BO0624_83895,89686,74,61,La Montre.,654,85.7,False,none,,,,,
+BO0624_83895,89687,75,62,Les Huitres et le Pichet de Gres. apres 1679,660,82.1,False,none,,,,,Sec. XVII
 BO0624_83895,89688,76,63,Le Baguier de Nacre.,669,92.7,False,positional,HEDA (WILLEM CLAESZ.),,,,
-BO0624_83895,89689,77,64,Le Pichet de Gres. 1695,677,81.0,False,positional,HEDA (WILLEM CLAESZ.),,,,Sec. XVII
+BO0624_83895,89689,77,64,Le Pichet de Gres. 1695,677,81.0,False,none,,,,,Sec. XVII
 BO0624_83895,89690,78,65,Poulet roti et Fruits.,687,93.3,False,positional,HEEM (CORNELIS DE),,,,
-BO0624_83895,89691,79,66,Le Homard et la Cruche. 1695,695,84.6,False,positional,HEEM (CORNELIS DE),,,,Sec. XVII
+BO0624_83895,89691,79,66,Le Homard et la Cruche. 1695,695,84.6,False,none,,,,,Sec. XVII
 BO0624_83895,89692,80,67,Les Escargots de Vigne.,702,93.6,False,positional,HEEM (CORNELIS DE),,,,
-BO0624_83895,89693,81,68,Roses et Raisins 1685ou1684,712,69.6,False,positional,HEEM (CORNELIS DE),,,,
+BO0624_83895,89693,81,68,Roses et Raisins 1685ou1684,712,69.6,False,none,,,,,
 BO0624_83895,89694,82,69,La Coupe a pied.,722,90.9,False,positional,HEEM (JAN DAVIDSZ. DE),,,,
 BO0624_83895,89695,83,70,Les Fleurs. 1685ou1684,741,61.1,False,positional,HEEM (JAN DAVIDSZ. DE),,,,
-BO0624_83895,89696,84,71,Les Huitres.,743,88.0,False,positional,HEEM (JAN DAVIDSZ. DE),,,,
-BO0624_83895,89697,85,72,Une Assiettee de Fruits.,751,93.9,False,positional,HEEM (JAN DAVIDSZ. DE),,,,
-BO0624_83895,89698,86,73,"Toile.Hlaut.,o,55; larg.,o,60. 1685 ou1684",759,81.2,False,positional,HEEM (JAN DAVIDSZ. DE),,,,Sec. XVII
+BO0624_83895,89696,84,71,Les Huitres.,743,88.0,False,none,,,,,
+BO0624_83895,89697,85,72,Une Assiettee de Fruits.,751,93.9,False,none,,,,,
+BO0624_83895,89698,86,73,"Toile.Hlaut.,o,55; larg.,o,60. 1685 ou1684",759,81.2,False,none,,,,,Sec. XVII
 BO0624_83895,89699,87,74,Raisins et Pommes d'Apis. Le Pate de Fruits.,770,69.6,False,positional,HEEM JAN DAVIDSZ. DE),,,,
-BO0624_83895,89700,88,75,Le Bol de Porcelaine de Chine.,788,95.1,False,positional,HEEM JAN DAVIDSZ. DE),,,,
-BO0624_83895,89701,89,76,Ecrevisse et Citron.,794,92.7,False,positional,HEEM JAN DAVIDSZ. DE),,,,
+BO0624_83895,89700,88,75,Le Bol de Porcelaine de Chine.,788,95.1,False,none,,,,,
+BO0624_83895,89701,89,76,Ecrevisse et Citron.,794,92.7,False,none,,,,,
 BO0624_83895,89702,90,78,## HELST (BARTHOLOMEUS VAN DER) 1615-1670 1851,801,93.5,False,title_direct,HELST (BARTHOLOMEUS VAN DER),,,,Sec. XVII
 BO0624_83895,89703,91,79,Le Lievre.,813,85.7,False,positional,HENDRIKS (WIJBRAND),,,,
 BO0624_83895,89704,92,80,1 Paysage d'Italie. 1695,824,81.8,False,positional,HEUSCH (WILLEM DE),,,,Sec. XVII
@@ -96,103 +96,103 @@ BO0624_83895,89706,94,82,"Portrait de Guillaume Maurice de Nassau, prince d'Oran
 BO0624_83895,89707,95,83,La Partie de Jacquet. 1755,854,83.3,False,positional,HOOCH (PIETER DE),,,,Sec. XVIII
 BO0624_83895,89708,96,84,Portrait d'Homme. 1749,864,80.0,False,positional,HUCHTENBURGH JOHAN VAN),,,,Sec. XVIII
 BO0624_83895,89709,97,85,Fleurs et Fruits.,875,91.4,False,positional,HUYSUM JAN VAN),,,,
-BO0624_83895,89710,98,86,- Fleurs dans une Niche. 1749,887,84.0,False,positional,HUYSUM JAN VAN),,,,Sec. XVIII
+BO0624_83895,89710,98,86,- Fleurs dans une Niche. 1749,887,84.0,False,none,,,,,Sec. XVIII
 BO0624_83895,89711,99,87,Le Melon d'Eau.,894,90.3,False,positional,HUYSUM JAN VAN),,,,
 BO0624_83895,89712,100,88,Le Maitre a chanter. 1664,910,82.6,False,positional,JANSSENS (PIETER ELINGA),,,,Sec. XVII
 BO0624_83895,89713,101,89,Portrait du Docteur William Harvey. 1664,919,89.5,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,Sec. XVII
 BO0624_83895,89714,102,90,Portrait d'Homme. 1664,932,80.0,False,positional,"JANSSENS(CORNELIS),VANCEULEN",,,,Sec. XVII
 BO0624_83895,89715,103,91,Portrait de Lord Waterpark.,943,94.5,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,
-BO0624_83895,89716,104,92,Portrait d'Homme. 1664,953,80.0,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,Sec. XVII
+BO0624_83895,89716,104,92,Portrait d'Homme. 1664,953,80.0,False,none,,,,,Sec. XVII
 BO0624_83895,89717,105,93,Portrait de Benjamin Rudford.,962,94.9,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,
-BO0624_83895,89718,106,94,Portrait de Sir John Gage.,970,94.3,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,
-BO0624_83895,89719,107,I,"l apparait sur un fond brun jusqu'a mi-corps de trois quarts a droite,vetu d''un pourpoint noir sous un manteau de meme couleur a revers de soie et a manches ornees de passementeries et de bandes de velours. Sa tete au visage doux, cheveux et barbe chatains taillee en pointe,pose sur une ample fraise rabattue etplissee debatiste blanche bordee de dentelle.",972,99.9,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,
+BO0624_83895,89718,106,94,Portrait de Sir John Gage.,970,94.3,False,none,,,,,
+BO0624_83895,89719,107,I,"l apparait sur un fond brun jusqu'a mi-corps de trois quarts a droite,vetu d''un pourpoint noir sous un manteau de meme couleur a revers de soie et a manches ornees de passementeries et de bandes de velours. Sa tete au visage doux, cheveux et barbe chatains taillee en pointe,pose sur une ample fraise rabattue etplissee debatiste blanche bordee de dentelle.",972,99.9,False,none,,,,,
 BO0624_83895,89720,108,1594,1664,977,61.5,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,Sec. XVII
-BO0624_83895,89721,109,95,"Portrait de l'Artiste. l est represente de trois quarts a droite jusqu'a mi-corps : il a des yeux clairs sous une arcade sourciliere levee. Son nez est busque, sa bouche apparait serieuse dans l'encadrement des moustaches et de la barbiche chatain clair;il porte une fraise de batiste blanche plissee,rabattue. ll est vetu d'une simarre noire a bande de satin de meme couleur.Fond brun.",981,97.2,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,
-BO0624_83895,89722,110,96,"Portrait d'Homme en Armure. l est vu de trois quarts a droite,jusqu'a mi-corps: ses cheveux chatain roux,partages par une raie sur le sommet de la tete, encadrent de leurs boucles tombantes son visage maigre aux yeux expressifs, a la bouche legerement pincee,au menton osseux. ll porte une armure a epaulieres,et,a la place du gorgerin,il a autour du cou un col de batiste blanche rabattu et empese. Au defaut des cubitieres, on apercoit la manche jaune du pourpoint. La figure se detache sur un rideau rouge et un fond brun.",989,97.4,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,
+BO0624_83895,89721,109,95,"Portrait de l'Artiste. l est represente de trois quarts a droite jusqu'a mi-corps : il a des yeux clairs sous une arcade sourciliere levee. Son nez est busque, sa bouche apparait serieuse dans l'encadrement des moustaches et de la barbiche chatain clair;il porte une fraise de batiste blanche plissee,rabattue. ll est vetu d'une simarre noire a bande de satin de meme couleur.Fond brun.",981,97.2,False,none,,,,,
+BO0624_83895,89722,110,96,"Portrait d'Homme en Armure. l est vu de trois quarts a droite,jusqu'a mi-corps: ses cheveux chatain roux,partages par une raie sur le sommet de la tete, encadrent de leurs boucles tombantes son visage maigre aux yeux expressifs, a la bouche legerement pincee,au menton osseux. ll porte une armure a epaulieres,et,a la place du gorgerin,il a autour du cou un col de batiste blanche rabattu et empese. Au defaut des cubitieres, on apercoit la manche jaune du pourpoint. La figure se detache sur un rideau rouge et un fond brun.",989,97.4,False,none,LE BRUN CHARLES,,,,
 BO0624_83895,89723,111,97,La Femme a la Rose.,996,92.3,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,
-BO0624_83895,89724,112,98,Portrait d'une Elegante.,1004,93.9,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,
-BO0624_83895,89725,113,100,Le Berger.,1011,81.8,False,positional,JANSSENS (CORNELIS) VAN CEULEN,,,,
+BO0624_83895,89724,112,98,Portrait d'une Elegante.,1004,93.9,False,none,,,,,
+BO0624_83895,89725,113,100,Le Berger.,1011,81.8,False,none,,,,,
 BO0624_83895,89726,114,1622,1678,1021,61.5,False,positional,JARDIN (KAREL DU),,,,Sec. XVII
-BO0624_83895,89727,115,99,La Sortie du Troupeau.,1023,93.3,False,positional,JARDIN (KAREL DU),,,,
+BO0624_83895,89727,115,99,La Sortie du Troupeau.,1023,93.3,False,none,,,,,
 BO0624_83895,89728,116,1616,1697,1030,61.5,False,positional,JONGH (LUDOLF DE),,,,Sec. XVII
-BO0624_83895,89729,117,10,l.- Portrait d'une jeune Femme.,1032,96.6,False,positional,JONGH (LUDOLF DE),,,,
+BO0624_83895,89729,117,10,l.- Portrait d'une jeune Femme.,1032,96.6,False,none,,,,,
 BO0624_83895,89730,118,1621,ou1622-1695,1040,81.5,False,positional,KALFF (WILLEM),,,,Sec. XVII
-BO0624_83895,89731,119,102,Citrons et Coings.,1042,89.5,False,positional,KALFF (WILLEM),,,,
-BO0624_83895,89732,120,103,La Cruche de Gres blanc.,1046,92.0,False,positional,KALFF (WILLEM),,,,
-BO0624_83895,89733,121,104,Ciboire de Metal et Verre de Boheme. ou 1597-1667,1054,80.5,False,positional,KALFF (WILLEM),,OGGETTI IN METALLO,,Sec. XVII
+BO0624_83895,89731,119,102,Citrons et Coings.,1042,89.5,False,none,,,,,
+BO0624_83895,89732,120,103,La Cruche de Gres blanc.,1046,92.0,False,none,,,,,
+BO0624_83895,89733,121,104,Ciboire de Metal et Verre de Boheme. ou 1597-1667,1054,80.5,False,none,,,OGGETTI IN METALLO,,Sec. XVII
 BO0624_83895,89734,122,105,"Portrait d'Homme. l est debout, de trois quarts a droite,la main gauche appuyee de dos a la hanche,la main droite,le bras allonge, posant sur un balustre; ses cheveux sont chatain clair ainsi que sa moustache et sa barbiche. Son visage est osseux : ses yeux ont de la vie. ll est vetu d'un pourpoint et de hauts-de-chausses noirs; sa fraise rabattue en batiste souple et ses rebras en batiste empesee sont garnis d'une etroite dentelle.",1067,98.1,False,positional,KEYSER (THOMAS DE),,,,
 BO0624_83895,89735,123,106,Portrait d'une jeune Femme.,1079,92.9,False,positional,KEYSER (THOMAS DE),,,,
-BO0624_83895,89736,124,107,L'Accouchee.,1090,84.6,False,positional,KEYSER (THOMAS DE),,,,
-BO0624_83895,89737,125,108,Un Buveur. 1677,1096,66.7,False,positional,KEYSER (THOMAS DE),,,,Sec. XVII
+BO0624_83895,89736,124,107,L'Accouchee.,1090,84.6,False,none,,,,,
+BO0624_83895,89737,125,108,Un Buveur. 1677,1096,66.7,False,none,,,,,Sec. XVII
 BO0624_83895,89738,126,109,Le Coq de Bruyere blanc. 1693,1113,83.6,False,positional,LELIENBERGH (CORNELIS),,,,Sec. XVII
 BO0624_83895,89739,127,110,Femme dans un Parc.,1125,90.0,False,positional,MAES (NICOLAES),,,,
 BO0624_83895,89740,128,1652,1693,1138,61.5,False,positional,MAES (NICOLAES),,,,Sec. XVII
-BO0624_83895,89741,129,11,l.- Portrait d'Homme.,1140,94.7,False,positional,MAES (NICOLAES),,,,
-BO0624_83895,89742,130,I,"l est vu de trois quarts a droite debout, jusqu'a mi-corps,la main droite tendue, creusee en sebile,la main gauche tenant des gants. Son visage,aux yeux ironiquement humbles,apparait en pleine lumiere. ll est coiffe d'un feutre noir a larges bords, sur ses cheveux bruns et vetu de noir, son col de batiste blanche empese et noue par un cordon a glands de coton blanc.Sa manche se termine par un rebras de batiste blanche.",1142,99.9,False,positional,MAES (NICOLAES),,STAMPE E INCISIONI,,
+BO0624_83895,89741,129,11,l.- Portrait d'Homme.,1140,94.7,False,none,,,,,
+BO0624_83895,89742,130,I,"l est vu de trois quarts a droite debout, jusqu'a mi-corps,la main droite tendue, creusee en sebile,la main gauche tenant des gants. Son visage,aux yeux ironiquement humbles,apparait en pleine lumiere. ll est coiffe d'un feutre noir a larges bords, sur ses cheveux bruns et vetu de noir, son col de batiste blanche empese et noue par un cordon a glands de coton blanc.Sa manche se termine par un rebras de batiste blanche.",1142,99.9,False,none,,,STAMPE E INCISIONI,,
 BO0624_83895,89743,131,1652,1695,1149,61.5,False,positional,MAES (NICOLAES),,,,Sec. XVII
-BO0624_83895,89744,132,112,Portrait de Femme agee. 1706,1151,83.0,False,positional,MAES (NICOLAES),,,,Sec. XVIII
+BO0624_83895,89744,132,112,Portrait de Femme agee. 1706,1151,83.0,False,none,,,,,Sec. XVIII
 BO0624_83895,89745,133,113,"Portrait d'Homme. l est assis sur un fauteuil a accoudoirs de bois de trois quarts a droite et vu jusqu'a mi-jambes. Son attitude est quelque peu roide. Il a des cheveux qui lui descendent sur le front. Ses traits sont accentues, empese et rabattu. ll passe lindex de la main droite entre les boutonnieres du vetement, le coude appuye a laccoudoir du fauteuil ; et de la main gauche, il retient, au bord d'une table couverte d'un tapis,une lettre ouverte, ecrite sur papier blanc. Sur son bras gauche,un manteau noir est drape.",1166,98.4,False,positional,MAN (CORNELIS DE),,OGGETTI IN LEGNO,,
 BO0624_83895,89746,134,114,Portrait de Femme.,1174,89.5,False,positional,MERCK(JACOBUS FRANSZ.VAN DER),,,,
-BO0624_83895,89747,135,115,La Lecture. u1650-4667,1183,57.1,False,positional,MERCK(JACOBUS FRANSZ.VAN DER),,,,
+BO0624_83895,89747,135,115,La Lecture. u1650-4667,1183,57.1,False,none,,,,,
 BO0624_83895,89748,136,116,Une Ville au bord de I'Eau. 1641,1198,85.2,False,positional,MEYER (HENDRIK DE),,,,Sec. XVII
 BO0624_83895,89749,137,117,Portrait d'Homme.,1208,88.9,False,positional,MIEREVELD (MICHIEL JANSZ. VAN),,,,
-BO0624_83895,89750,138,118,-Portrait d'un Homme age.,1218,92.0,False,positional,MIEREVELD (MICHIEL JANSZ. VAN),,,,
-BO0624_83895,89751,139,I,"l est represente de trois quarts a droite, jusqu'a la poitrine. ll a les yeux petits et le regard aigu, le nez fort, les levres minces; ses cheveux sont rares et gris; grises egalement sa barbe en pointe et ses moustaches. Il a le col enserre dans une fraise aux tuyautes rigides. ll est vetu d'un pourpoint noir, a manches lie de vin,et d'un manteau garni de fourrure.",1220,99.9,False,positional,MIEREVELD (MICHIEL JANSZ. VAN),,,,
+BO0624_83895,89750,138,118,-Portrait d'un Homme age.,1218,92.0,False,none,,,,,
+BO0624_83895,89751,139,I,"l est represente de trois quarts a droite, jusqu'a la poitrine. ll a les yeux petits et le regard aigu, le nez fort, les levres minces; ses cheveux sont rares et gris; grises egalement sa barbe en pointe et ses moustaches. Il a le col enserre dans une fraise aux tuyautes rigides. ll est vetu d'un pourpoint noir, a manches lie de vin,et d'un manteau garni de fourrure.",1220,99.9,False,none,,,,,
 BO0624_83895,89752,140,1567,1641,1225,61.5,False,positional,MIEREVELD(MICHIELJANSZ.VAN),,,,Sec. XVII
-BO0624_83895,89753,141,119,Portrait d'une Veuve. 1641,1227,81.6,False,positional,MIEREVELD(MICHIELJANSZ.VAN),,,,Sec. XVII
+BO0624_83895,89753,141,119,Portrait d'une Veuve. 1641,1227,81.6,False,none,,,,,Sec. XVII
 BO0624_83895,89754,142,120,Portrait d'un Vieillard.,1240,92.0,False,positional,MIEREVELD (MICHIEL JANSZ. VAN),,,,
-BO0624_83895,89755,143,I,"l est assis de trois quarts a droite, vu jusqu'a mi-jambes, le teint brun sous les cheveux, la moustache et la barbe gris. Il porte la fraise a tuyautes souples,un pourpoint noir sous le manteau de meme couleur qui s'ecarte pour laisser apparaitre les deux mains, les bras ployes. La main gauche tient les gants. A droite, sur un gueridon, on voit un petit livre ouvert.",1242,99.9,False,positional,MIEREVELD (MICHIEL JANSZ. VAN),,STAMPE E INCISIONI,,
+BO0624_83895,89755,143,I,"l est assis de trois quarts a droite, vu jusqu'a mi-jambes, le teint brun sous les cheveux, la moustache et la barbe gris. Il porte la fraise a tuyautes souples,un pourpoint noir sous le manteau de meme couleur qui s'ecarte pour laisser apparaitre les deux mains, les bras ployes. La main gauche tient les gants. A droite, sur un gueridon, on voit un petit livre ouvert.",1242,99.9,False,none,LE BRUN CHARLES,,STAMPE E INCISIONI,,
 BO0624_83895,89756,144,1567,1641,1249,61.5,False,positional,MIEREVELD (MICHIEL JANSZ.VAN),,,,Sec. XVII
-BO0624_83895,89757,145,12,l.- Portrait d'un Prince.,1251,95.7,False,positional,MIEREVELD (MICHIEL JANSZ.VAN),,,,
-BO0624_83895,89758,146,I,"l apparait de trois quarts a gauche,en buste, ses cheveux coiffes en toupet sur le haut de la tete, la barbe taillee en pointe, les moustaches relevees sur la levre, les yeux vivants,la bouche aimable. Il porte, sur son armure d'acier bruni a clous d'or,une echarpe rouge brodee, insigne de son commandement. lla autour du cou une fraise blanche a tuyautes souples garnie de guipure et attachee sur le devant par un cordonnet que terminent des glands de coton blanc.",1253,99.9,False,positional,MIEREVELD (MICHIEL JANSZ.VAN),,,,
-BO0624_83895,89759,147,122,Portrait d'Homme. 1641,1259,78.0,False,positional,MIEREVELD (MICHIEL JANSZ.VAN),,,,Sec. XVII
+BO0624_83895,89757,145,12,l.- Portrait d'un Prince.,1251,95.7,False,none,,,,,
+BO0624_83895,89758,146,I,"l apparait de trois quarts a gauche,en buste, ses cheveux coiffes en toupet sur le haut de la tete, la barbe taillee en pointe, les moustaches relevees sur la levre, les yeux vivants,la bouche aimable. Il porte, sur son armure d'acier bruni a clous d'or,une echarpe rouge brodee, insigne de son commandement. lla autour du cou une fraise blanche a tuyautes souples garnie de guipure et attachee sur le devant par un cordonnet que terminent des glands de coton blanc.",1253,99.9,False,none,,,,,
+BO0624_83895,89759,147,122,Portrait d'Homme. 1641,1259,78.0,False,none,,,,,Sec. XVII
 BO0624_83895,89760,148,123,Portrait d'une vieille Hollandaise. 1681,1270,88.3,False,positional,MIEREVELD (MICHIEL JANSZ.VAN),,,,Sec. XVII
 BO0624_83895,89761,149,124,La Femme au petit Chien. 1681,1280,83.6,False,positional,"MIERIS (FRANS VAN),LE VIEUX",,,,Sec. XVII
 BO0624_83895,89762,150,125,La Belle Dentelliere.,1297,90.9,False,positional,"MIERIS(FRANSVAN),LE VIEUX",,,,
-BO0624_83895,89763,151,126,Portrait ae lArtiste.,1307,90.9,False,positional,"MIERIS(FRANSVAN),LE VIEUX",,,,
-BO0624_83895,89764,152,I,"l est represente devant son chevalet,la tete tournee de trois quarts a droite,en pourpoint marron aux manches a taillades, sur une chemise blanche,garnie au poignet et au col,d'une broderie souple;il est coiffe d'un feutre a plumes; il est en train de bourrer sa pipe. Il apparait accoude a une fenetre ouverte, sur l'appui de laquelle est drape un riche tapis de Smyrne.A droite de la fenetre,un verre de Boheme. A gauche, au fond et en haut, une portiere vert fonce en partie relevee.",1309,99.9,False,positional,"MIERIS(FRANSVAN),LE VIEUX",,,,
+BO0624_83895,89763,151,126,Portrait ae lArtiste.,1307,90.9,False,none,,,,,
+BO0624_83895,89764,152,I,"l est represente devant son chevalet,la tete tournee de trois quarts a droite,en pourpoint marron aux manches a taillades, sur une chemise blanche,garnie au poignet et au col,d'une broderie souple;il est coiffe d'un feutre a plumes; il est en train de bourrer sa pipe. Il apparait accoude a une fenetre ouverte, sur l'appui de laquelle est drape un riche tapis de Smyrne.A droite de la fenetre,un verre de Boheme. A gauche, au fond et en haut, une portiere vert fonce en partie relevee.",1309,99.9,False,none,,,,,
 BO0624_83895,89765,153,1640,1679,1316,61.5,False,positional,MIGNON (ABRAHAM),,,,Sec. XVII
-BO0624_83895,89766,154,127,Fleurs et Fruits,1318,88.9,False,positional,MIGNON (ABRAHAM),,,,
-BO0624_83895,89767,155,128,"Roses, Tulipes et Pavots. 1679",1324,83.6,False,positional,MIGNON (ABRAHAM),,,,Sec. XVII
+BO0624_83895,89766,154,127,Fleurs et Fruits,1318,88.9,False,none,,,,,
+BO0624_83895,89767,155,128,"Roses, Tulipes et Pavots. 1679",1324,83.6,False,none,,,,,Sec. XVII
 BO0624_83895,89768,156,129,Fleurs et Poissons.,1339,90.0,False,positional,MIGNON (ABRAHAM),,,,
 BO0624_83895,89769,157,130,"Portrait d'un Cadet. l est vu de trois quarts a droite,jusqu’a mi-corps,lescheveux noirs et tombant sur lefront,les traits gros,les yeux d'intelligence lente. ll est vetu d'un pourpoint marron, avec d'amples manches aux revers boutonnes et soutaches de blanc. ll porte un large col empese, garni de guipure.",1351,96.7,False,positional,MOLENAER JAN MIENSE),,,,
-BO0624_83895,89770,158,131,Seduction. 1695,1354,66.7,False,positional,MOLENAER JAN MIENSE),,,,Sec. XVII
+BO0624_83895,89770,158,131,Seduction. 1695,1354,66.7,False,none,,,,,Sec. XVII
 BO0624_83895,89771,159,132,Le Coup de l'Etrier. 1758,1373,80.9,False,positional,MOMMERS (HENDRICK),,,,Sec. XVIII
 BO0624_83895,89772,160,133,Premiere Aventure. 1658,1385,79.1,False,positional,MOOR (CAREL DE),,,,Sec. XVII
 BO0624_83895,89773,161,134,Portrait d'un Gentilhomme.,1394,92.6,False,positional,MOREELSE (PAULUS),,,,
-BO0624_83895,89774,162,I,"l est represente detrois quarts a droite,la tete de face,lesyeux vifs,lestraits forts,la barbe et es cheveux courts;il porte sous la fraise blanche a tuyautes rigides un pourpoint de satin noir a fleurettes de velours, ferme par des boutons de metal,et un haut-de-chausses de meme etoffe; son ceinturon de soie brodee est a boucle d'or; de la main gauche nue et portee en avant,il soutient du geste des doigts a demi ouverts ce qu'il dit, et il appuie a la hanche sa main droite fermee et tenant les gants a crispins.",1396,99.9,False,positional,MOREELSE (PAULUS),,OGGETTI IN METALLO,,
+BO0624_83895,89774,162,I,"l est represente detrois quarts a droite,la tete de face,lesyeux vifs,lestraits forts,la barbe et es cheveux courts;il porte sous la fraise blanche a tuyautes rigides un pourpoint de satin noir a fleurettes de velours, ferme par des boutons de metal,et un haut-de-chausses de meme etoffe; son ceinturon de soie brodee est a boucle d'or; de la main gauche nue et portee en avant,il soutient du geste des doigts a demi ouverts ce qu'il dit, et il appuie a la hanche sa main droite fermee et tenant les gants a crispins.",1396,99.9,False,none,,,OGGETTI IN METALLO,,
 BO0624_83895,89775,163,1571,1658,1407,61.5,False,positional,MOREELSE(PAULUS),,,,Sec. XVII
-BO0624_83895,89776,164,135,Portrait de Femme.,1409,89.5,False,positional,MOREELSE(PAULUS),,,,
+BO0624_83895,89776,164,135,Portrait de Femme.,1409,89.5,False,none,,,,,
 BO0624_83895,89777,165,136,Portrait de jeune Femme. 1705,1419,83.6,False,positional,MOREELSE (PAULUS),,,,Sec. XVIII
 BO0624_83895,89778,166,137,La Sonate. 1691,1434,66.7,False,positional,MUSSCHER (MICHIEL VAN),,,,Sec. XVII
 BO0624_83895,89779,167,138,Portrait d'une Princesse. 1677,1449,84.2,False,positional,NASON (PIETER),,,,Sec. XVII
 BO0624_83895,89780,168,139,L'Hiver sur la Riviere. 1677,1461,83.0,False,positional,NEER (AERT VAN DER),,,,Sec. XVII
 BO0624_83895,89781,169,140,Les Pecheurs a la Ligne.,1470,92.0,False,positional,NEER (AERT VAN DER),,,,
-BO0624_83895,89782,170,141,Lever de Lune a lEmbouchure du Canal. 1677,1478,88.9,False,positional,NEER (AERT VAN DER),,,,Sec. XVII
+BO0624_83895,89782,170,141,Lever de Lune a lEmbouchure du Canal. 1677,1478,88.9,False,none,CANALE ANTONIO,,,,Sec. XVII
 BO0624_83895,89783,171,142,Effet de Lune. 1677,1487,74.3,False,positional,NEER (AERT VAN DER),,,,Sec. XVII
 BO0624_83895,89784,172,143,Le Soir sur le Canal.,1496,90.9,False,positional,NEER (AERT VAN DER),,,,
-BO0624_83895,89785,173,144,"Incendie, la Nuit.",1504,88.9,False,positional,NEER (AERT VAN DER),,,,
-BO0624_83895,89786,174,145,L'Incendie.,1510,83.3,False,positional,NEER (AERT VAN DER),,,,
-BO0624_83895,89787,175,146,Incenaie. 1705,1520,64.0,False,positional,NEER (AERT VAN DER),,,,Sec. XVIII
+BO0624_83895,89785,173,144,"Incendie, la Nuit.",1504,88.9,False,none,,,,,
+BO0624_83895,89786,174,145,L'Incendie.,1510,83.3,False,none,,,,,
+BO0624_83895,89787,175,146,Incenaie. 1705,1520,64.0,False,none,,,,,Sec. XVIII
 BO0624_83895,89788,176,147,La Lettre. 1685,1531,66.7,False,positional,NEER(EGLON HENDRIK VAN DER),,,,Sec. XVII
 BO0624_83895,89789,177,148,A lAuberge.,1544,83.3,False,positional,OSTADE (ADRIAEN VAN),,,,
-BO0624_83895,89790,178,149,Interieur de Paysans. 1685,1554,81.6,False,positional,OSTADE (ADRIAEN VAN),,ARREDAMENTI,,Sec. XVII
+BO0624_83895,89790,178,149,Interieur de Paysans. 1685,1554,81.6,False,none,,,ARREDAMENTI,,Sec. XVII
 BO0624_83895,89791,179,150,Les Harangueurs.,1569,88.2,False,positional,OSTADE (ADRIAEN VAN),,,,
-BO0624_83895,89792,180,151,Au Coin de lAtre.,1575,88.9,False,positional,OSTADE (ADRIAEN VAN),,,,
-BO0624_83895,89793,181,153,En Foret.,1588,80.0,False,positional,OSTADE (ADRIAEN VAN),,,,
+BO0624_83895,89792,180,151,Au Coin de lAtre.,1575,88.9,False,none,,,,,
+BO0624_83895,89793,181,153,En Foret.,1588,80.0,False,none,,,,,
 BO0624_83895,89794,182,1610,1685,1600,61.5,False,positional,OSTADE (ADRIAEN VAN),,,,Sec. XVII
-BO0624_83895,89795,183,152,Le Buveur mecontent.,1602,90.5,False,positional,OSTADE (ADRIAEN VAN),,,,
+BO0624_83895,89795,183,152,Le Buveur mecontent.,1602,90.5,False,none,,,,,
 BO0624_83895,89796,184,1621,1649,1610,61.5,False,positional,OSTADE (ISACK VAN),,,,Sec. XVII
 BO0624_83895,89797,185,1625,1654,1613,61.5,False,positional,POTTER (PAULUS),,,,Sec. XVII
-BO0624_83895,89798,186,154,Chevaux et Vaches au Paturage.,1615,93.5,False,positional,POTTER (PAULUS),,,,
+BO0624_83895,89798,186,154,Chevaux et Vaches au Paturage.,1615,93.5,False,none,,,,,
 BO0624_83895,89799,187,155,Boeufs au Paturage. 1675,1633,80.0,False,positional,POTTER (PAULUS),,,,Sec. XVII
 BO0624_83895,89800,188,156,Paturage dans les Bruyeres.,1644,92.9,False,positional,PYNACKER (ADAM),,,,
-BO0624_83895,89801,189,157,Le Bac. 1669,1652,57.1,False,positional,PYNACKER (ADAM),,,,Sec. XVII
+BO0624_83895,89801,189,157,Le Bac. 1669,1652,57.1,False,none,,,,,Sec. XVII
 BO0624_83895,89802,190,158,Portrait du Peintre par Lui-meme.,1665,94.1,False,positional,REMBRANDT VAN RYN,,,,
-BO0624_83895,89803,191,I,"l s'est represente la tete de profil a gauche,le torse de trois quarts a gauche, jusqu'a mi-corps.Il s'est arrange un costume, d'une chape grenat, a broderies d'or, fermee sur le sternum par trois boutons demi-spheriques de metal; a l'aide d'une echarpe bleutee plusieurs fois passee autour du cou, il a comble l'interstice laisse par l'echancrure de la chape et de la ruche etroite et souple qui garnit le bord de sa chemise. Dans lecartement de la chape, on apercoit une chaine d'or double qui passe sur un pour- point brun.",1667,99.9,False,positional,REMBRANDT VAN RYN,,OGGETTI IN METALLO,,
-BO0624_83895,89804,192,I,"l a coiffe ses cheveux frises et longs,noirs a reflets fauves, d'un bonnet de velours grenat garni d'un rang de perles et orne sur le cote d'une plume. Son profil se detache sur un fond gris fer en. pleine lumiere,avec une expression curieusement melancolique.L'eil,a la paupiere elegerement baissee, s'abandonne,pour ainsi dire,a une contemplation interieure;la bouche,aux levres disjointes,marquee par une fine moustache,a un relevement des muscles,relevement prcsque insaisissable qui suffit a traduire un etat dame aggrave damertume.Le menton,fleuri d'une barbe courte,indique,par un dessin precis et franc, la structure du maxillaire inferieur; enfin, dominant le cou que lombre du menton envahit en partie,lorcille apparait presque entiere sous l'ondulation souple des cheveux:elle apparait rose etvivante,recevant juste la lumiere qu'il faut.",1669,99.9,False,positional,REMBRANDT VAN RYN,,,,
+BO0624_83895,89803,191,I,"l s'est represente la tete de profil a gauche,le torse de trois quarts a gauche, jusqu'a mi-corps.Il s'est arrange un costume, d'une chape grenat, a broderies d'or, fermee sur le sternum par trois boutons demi-spheriques de metal; a l'aide d'une echarpe bleutee plusieurs fois passee autour du cou, il a comble l'interstice laisse par l'echancrure de la chape et de la ruche etroite et souple qui garnit le bord de sa chemise. Dans lecartement de la chape, on apercoit une chaine d'or double qui passe sur un pour- point brun.",1667,99.9,False,none,LE BRUN CHARLES,,OGGETTI IN METALLO,,
+BO0624_83895,89804,192,I,"l a coiffe ses cheveux frises et longs,noirs a reflets fauves, d'un bonnet de velours grenat garni d'un rang de perles et orne sur le cote d'une plume. Son profil se detache sur un fond gris fer en. pleine lumiere,avec une expression curieusement melancolique.L'eil,a la paupiere elegerement baissee, s'abandonne,pour ainsi dire,a une contemplation interieure;la bouche,aux levres disjointes,marquee par une fine moustache,a un relevement des muscles,relevement prcsque insaisissable qui suffit a traduire un etat dame aggrave damertume.Le menton,fleuri d'une barbe courte,indique,par un dessin precis et franc, la structure du maxillaire inferieur; enfin, dominant le cou que lombre du menton envahit en partie,lorcille apparait presque entiere sous l'ondulation souple des cheveux:elle apparait rose etvivante,recevant juste la lumiere qu'il faut.",1669,99.9,False,none,,,,,
 BO0624_83895,89805,193,1606,1669,1678,61.5,False,positional,REMBRANDT VAN RYN,,,,Sec. XVII
-BO0624_83895,89806,194,159,Portrait de la Mere de l'Artiste.,1680,94.1,False,positional,REMBRANDT VAN RYN,,,,
+BO0624_83895,89806,194,159,Portrait de la Mere de l'Artiste.,1680,94.1,False,none,,,,,
 BO0624_83895,89807,195,160,Portrait d'un Gentilhomme. 1660,1693,84.7,False,positional,REMBRANDT VAN RYN,,,,Sec. XVII
 BO0624_83895,89808,196,161,Les Peches.,1703,83.3,False,positional,RING (PIETER DE),,,,
 BO0624_83895,89809,197,162,Chevres paissant sur la Montagne. u1629-1682,1713,81.0,False,positional,ROMEYN (WILLEM),,,,Sec. XVII
@@ -201,63 +201,63 @@ BO0624_83895,89811,199,164,La Passerelle sur la Riviere. ou1629-1682,1737,77.8,F
 BO0624_83895,89812,200,165,Chasseurs a l'Affut. ou1629-16S2,1750,70.4,False,positional,RUISDAEL (JACOB VAN),,,,
 BO0624_83895,89813,201,166,I LEtang au Pied de la Colline. ou1629-1682,1765,78.9,False,positional,RUISDAEL (JACOB VAN),,,,Sec. XVII
 BO0624_83895,89814,202,167,La Maison en Construction.,1776,92.6,False,positional,RUISDAEL JACOB VAN),,,,
-BO0624_83895,89815,203,168,La Chasse au Canard sauvage.,1784,93.1,False,positional,RUISDAEL JACOB VAN),,,,
+BO0624_83895,89815,203,168,La Chasse au Canard sauvage.,1784,93.1,False,none,,,,,
 BO0624_83895,89816,204,169,一 -Troupeaux paissant a IEntree d'un Bois.,1797,95.2,False,positional,RUYSDAEL JACOB SALOMONSZ. VAN),,OGGETTI IN LEGNO,,
 BO0624_83895,89817,205,170,Bord de Riviere en Hollande.,1806,93.1,False,positional,RUYSDAEL (SALOMON VAN),,,,
 BO0624_83895,89818,206,171,Les Pecheurs.,1817,85.7,False,positional,RUYSDAEL (SALOMON VAN),,,,
 BO0624_83895,89819,207,172,Le Sloop de Peche.,1826,89.5,False,positional,RUYSDAEL (SALOMON VAN),,,,
-BO0624_83895,89820,208,173,Le Retour du Troupeau,1836,91.3,False,positional,RUYSDAEL (SALOMON VAN),,,,
+BO0624_83895,89820,208,173,Le Retour du Troupeau,1836,91.3,False,none,,,,,
 BO0624_83895,89821,209,174,Le Passage du Gue.,1846,89.5,False,positional,SOOLMAKER JAN FRANCISCUS),,,,
-BO0624_83895,89822,210,175,Le Magister.,1855,84.6,False,positional,SOOLMAKER JAN FRANCISCUS),,,,
+BO0624_83895,89822,210,175,Le Magister.,1855,84.6,False,none,,,,,
 BO0624_83895,89823,211,176,Les Noces de Cana.,1870,89.5,False,positional,STEEN JAN),,,,
 BO0624_83895,89824,212,177,La Joie en Famille. ?,1881,90.0,False,positional,STEEN JAN),,,,
 BO0624_83895,89825,213,178,Poissons pres d'une Gourde de Gres.,1891,94.4,False,positional,STEENWYCK (HARMEN VAN),,,,
 BO0624_83895,89826,214,179,"Raisins,Peches et Poires.",1904,92.3,False,positional,STREECK (JURIAAN VAN),,,,
-BO0624_83895,89827,215,180,"Olivettes,Peches et Pommes.",1910,92.9,False,positional,STREECK (JURIAAN VAN),,,,
+BO0624_83895,89827,215,180,"Olivettes,Peches et Pommes.",1910,92.9,False,none,,,,,
 BO0624_83895,89828,216,1620,ou1625-1672,1919,84.6,False,positional,TEMPEL (ABRAHAM VAN DEN),,,,Sec. XVII
-BO0624_83895,89829,217,18,l.-Portrait de Femme.,1921,95.0,False,positional,TEMPEL (ABRAHAM VAN DEN),,,,
+BO0624_83895,89829,217,18,l.-Portrait de Femme.,1921,95.0,False,none,,,,,
 BO0624_83895,89830,218,1636,1672,1931,61.5,False,positional,VELDE (ADRIAEN VAN DE),,,,Sec. XVII
-BO0624_83895,89831,219,182,-Troupeau dans le Marecage. 1672,1933,84.7,False,positional,VELDE (ADRIAEN VAN DE),,,,Sec. XVII
+BO0624_83895,89831,219,182,-Troupeau dans le Marecage. 1672,1933,84.7,False,none,,,,,Sec. XVII
 BO0624_83895,89832,220,183,Chevaux au Vert.,1946,88.2,False,positional,VELDE (ADRIAEN VAN DE),,,,
-BO0624_83895,89833,221,184,Dispute de Chien et de Boeuf.,1950,93.3,False,positional,VELDE (ADRIAEN VAN DE),,,,
-BO0624_83895,89834,222,185,Vaches et Brebis au Paturage.,1956,93.3,False,positional,VELDE (ADRIAEN VAN DE),,,,
-BO0624_83895,89835,223,186,Paturage au Bord d'une Mare. 1672,1966,85.7,False,positional,VELDE (ADRIAEN VAN DE),,,,Sec. XVII
+BO0624_83895,89833,221,184,Dispute de Chien et de Boeuf.,1950,93.3,False,none,,,,,
+BO0624_83895,89834,222,185,Vaches et Brebis au Paturage.,1956,93.3,False,none,,,,,
+BO0624_83895,89835,223,186,Paturage au Bord d'une Mare. 1672,1966,85.7,False,none,,,,,Sec. XVII
 BO0624_83895,89836,224,187,Le Coq et les Poules.,1979,90.9,False,positional,VELDE (ADRIAEN VAN DE),,,,
 BO0624_83895,89837,225,188,L'Heure du Repos ou 1620-Apres 1660,1993,65.5,False,positional,VELDE (JAN JANSZ.VAN DE),,,,Sec. XVII
-BO0624_83895,89838,226,189,Le Verre de Venise et lOrange coupee. 1707,1995,88.9,False,positional,VELDE (JAN JANSZ.VAN DE),,,,Sec. XVIII
+BO0624_83895,89838,226,189,Le Verre de Venise et lOrange coupee. 1707,1995,88.9,False,none,,,,,Sec. XVIII
 BO0624_83895,89839,227,190,La Flotte a lAncre. 1707,2006,80.0,False,positional,"VELDE (WILLEM VAN DE),le Jeune",,,,Sec. XVIII
 BO0624_83895,89840,228,191,La Visite a la Flotte. 1707,2015,82.4,False,positional,"VELDE(WILLEM VAN DE),le Jeune",,,,Sec. XVIII
 BO0624_83895,89841,229,192,Sloops de Peche a l'Ancre. 1707,2024,84.7,False,positional,"VELDE (WILLEM VAN DE), le Jeune",,,,Sec. XVIII
 BO0624_83895,89842,230,193,Mer calme.,2033,81.8,False,positional,"VELDE (WILLEM VAN DE),le Jeune",,,,
-BO0624_83895,89843,231,194,La Fregate.,2041,83.3,False,positional,"VELDE (WILLEM VAN DE),le Jeune",,,,
-BO0624_83895,89844,232,195,Coup de Vent au Large.,2049,91.3,False,positional,"VELDE (WILLEM VAN DE),le Jeune",,,,
-BO0624_83895,89845,233,196,Un Coup d'Orage.,2057,88.2,False,positional,"VELDE (WILLEM VAN DE),le Jeune",,,,
+BO0624_83895,89843,231,194,La Fregate.,2041,83.3,False,none,,,,,
+BO0624_83895,89844,232,195,Coup de Vent au Large.,2049,91.3,False,none,,,,,
+BO0624_83895,89845,233,196,Un Coup d'Orage.,2057,88.2,False,none,,,,,
 BO0624_83895,89846,234,197,Portrait d'Homme jeune.,2064,91.7,False,positional,VERELST (HERMAN),,,,
 BO0624_83895,89847,235,198,Les Pecheurs au Large. ou1612-1675,2072,72.4,False,positional,VLIEGER (SIMON DE),,,,Sec. XVII
 BO0624_83895,89848,236,199,I Interieur d'une Cathedrale.,2084,93.3,False,positional,VLIET (HENDRICK CORNELISZ. VAN),,ARREDAMENTI,,
 BO0624_83895,89849,237,2,oo.- Poissons dans un Panier.,2094,98.1,False,positional,VONCK JAN),,,,
 BO0624_83895,89850,238,1640,ou1644-1719,2103,84.6,False,positional,WEENIX (JAN),,,,Sec. XVIII
-BO0624_83895,89851,239,201,L'Oie et le Chien.,2105,89.5,False,positional,WEENIX (JAN),,,,
-BO0624_83895,89852,240,202,Le Paon.,2110,77.8,False,positional,WEENIX (JAN),,,,
+BO0624_83895,89851,239,201,L'Oie et le Chien.,2105,89.5,False,none,,,,,
+BO0624_83895,89852,240,202,Le Paon.,2110,77.8,False,none,,,,,
 BO0624_83895,89853,241,1640,1719,2120,61.5,False,positional,WEENIX (JAN),,,,Sec. XVIII
 BO0624_83895,89854,242,16211660,## 203.-Le Bateau de Fete.,2125,100.0,False,positional,WEENIX (JAN BAPTIST),,,,
 BO0624_83895,89855,243,1621,1660,2144,61.5,False,positional,WEENIX (JAN BAPTIST),,,,Sec. XVII
-BO0624_83895,89856,244,204,Chien veillant sur le Butin.,2146,93.1,False,positional,WEENIX (JAN BAPTIST),,,,
-BO0624_83895,89857,245,205,Le Repos a la Chasse. 1692,2156,81.6,False,positional,WEENIX (JAN BAPTIST),,,,Sec. XVII
+BO0624_83895,89856,244,204,Chien veillant sur le Butin.,2146,93.1,False,none,,,,,
+BO0624_83895,89857,245,205,Le Repos a la Chasse. 1692,2156,81.6,False,none,,,,,Sec. XVII
 BO0624_83895,89858,246,206,La Chaire de IEglise.,2169,90.9,False,positional,WITTE (EMANUEL DE),,POLTRONE,,
-BO0624_83895,89859,247,207,Interieur d'Eglise.,2177,90.0,False,positional,WITTE (EMANUEL DE),,ARREDAMENTI,,
-BO0624_83895,89860,248,208,Interieur d'Eglise. 1668,2185,80.0,False,positional,WITTE (EMANUEL DE),,ARREDAMENTI,,Sec. XVII
+BO0624_83895,89859,247,207,Interieur d'Eglise.,2177,90.0,False,none,,,ARREDAMENTI,,
+BO0624_83895,89860,248,208,Interieur d'Eglise. 1668,2185,80.0,False,none,,,ARREDAMENTI,,Sec. XVII
 BO0624_83895,89861,249,209,Combat de Cavalerie. 1668,2192,80.9,False,positional,WOUWERMAN (PHILIPS),,,,Sec. XVII
 BO0624_83895,89862,250,210,Depart pour la Chasse.,2207,91.3,False,positional,WOUWERMAN (PHILIPS),,,,
 BO0624_83895,89863,251,1619,1668,2218,61.5,False,positional,WOUWERMAN (PHILIPS),,,,Sec. XVII
-BO0624_83895,89864,252,2,ll.-Le Repos des Voyageurs au Pied des Ruines.,2220,98.9,False,positional,WOUWERMAN (PHILIPS),,,,
+BO0624_83895,89864,252,2,ll.-Le Repos des Voyageurs au Pied des Ruines.,2220,98.9,False,none,,,,,
 BO0624_83895,89865,253,1619,1668,2229,61.5,False,positional,WOUWERMAN (PHILIPS),,,,Sec. XVII
-BO0624_83895,89866,254,212,Le Pansage.,2231,83.3,False,positional,WOUWERMAN (PHILIPS),,,,
-BO0624_83895,89867,255,213,Cheval blanc au Vert.,2239,90.9,False,positional,WOUWERMAN (PHILIPS),,,,
-BO0624_83895,89868,256,214,La Berline dans la Montagne. 1668,2251,85.7,False,positional,WOUWERMAN (PHILIPS),,,,Sec. XVII
+BO0624_83895,89866,254,212,Le Pansage.,2231,83.3,False,none,,,,,
+BO0624_83895,89867,255,213,Cheval blanc au Vert.,2239,90.9,False,none,,,,,
+BO0624_83895,89868,256,214,La Berline dans la Montagne. 1668,2251,85.7,False,none,,,,,Sec. XVII
 BO0624_83895,89869,257,215,Au Seuil de la Chaumiere.,2268,92.3,False,positional,WOUWERMAN (PHILIPS),,,,
-BO0624_83895,89870,258,216,Chevaux a la Porte dune Auberge. 1668,2274,87.3,False,positional,WOUWERMAN (PHILIPS),,,,Sec. XVII
+BO0624_83895,89870,258,216,Chevaux a la Porte dune Auberge. 1668,2274,87.3,False,none,,,,,Sec. XVII
 BO0624_83895,89871,259,217,Avant le Depart pour la Chasse.,2289,93.8,False,positional,WOUWERMAN (PHILIPS),,,,
-BO0624_83895,89872,260,218,L'Apparition.,2293,85.7,False,positional,WOUWERMAN (PHILIPS),,,,
+BO0624_83895,89872,260,218,L'Apparition.,2293,85.7,False,none,,,,,
 BO0624_83895,89873,261,2,i9.-DevantlaFerme.,2306,97.0,False,positional,WYNANTS JAN),,,,
-BO0624_83895,89874,262,I,mprime pour,2315,95.7,False,positional,WYNANTS JAN),,,,
+BO0624_83895,89874,262,I,mprime pour,2315,95.7,False,none,,,,,

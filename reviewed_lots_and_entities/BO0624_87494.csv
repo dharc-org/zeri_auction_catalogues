@@ -1,163 +1,163 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87494,664511,1,I,m Vordergrunde das Bollwerk eines Hafens mit vielen Schiffen; rechts und links Hauser.— Schones figurenreiches,64,99.5,False,positional,Andreas Achenbach,,,,
 BO0624_87494,664512,2,I,"n einer waldreichen Gegend ein Dorf, wohin sich vom",133,99.0,False,positional,S.Berg,,,,
-BO0624_87494,664513,3,8,## 9,143,100.0,False,positional,S.Berg,,,,
-BO0624_87494,664514,4,11,Landschaft.,144,87.0,False,positional,S.Berg,,,,
+BO0624_87494,664513,3,8,## 9,143,100.0,False,none,DE MOMPER JODOCUS,,,,
+BO0624_87494,664514,4,11,Landschaft.,144,87.0,False,none,,,,,
 BO0624_87494,664515,5,I,"n einer baumreichen Gegend ein vom Hochwasser umspiltes Bauernhaus,bei Mondscheinbeleuchtung.-Sehr stimmungsvoll gemaltes Bild.",160,99.6,False,positional,K. Berton,,,,
-BO0624_87494,664516,6,13,Winterlandschaft.,164,91.4,False,positional,K. Berton,,,,
-BO0624_87494,664517,7,14,"Landschaft. m Waldesdunkel an einem Teich ein einsames Reh. Gegenstuck zum Vorigen.—— Holz, gleiche Grosse. Unten links voll bezeichnet.",174,95.1,False,positional,K. Berton,,OGGETTI IN LEGNO,,
+BO0624_87494,664516,6,13,Winterlandschaft.,164,91.4,False,none,,,,,
+BO0624_87494,664517,7,14,"Landschaft. m Waldesdunkel an einem Teich ein einsames Reh. Gegenstuck zum Vorigen.—— Holz, gleiche Grosse. Unten links voll bezeichnet.",174,95.1,False,none,,,OGGETTI IN LEGNO,,
 BO0624_87494,664518,8,15,"Genrebild. n einem mit Laub umwachsenen, offenen Fenster liegen zwei Manner, ihre irdenen Pfeifen rauchend und aufmerksam nach etwas spahend. In Farbe und Zeichnung gleich schones Bild.",182,97.4,False,positional,Pieter de Bloot,,OGGETTI VARI,,
 BO0624_87494,664519,9,16,Aufbruch zur Falkenjagd.,190,93.9,False,positional,Jan Both,,,,
-BO0624_87494,664520,10,I,"m Vordergrunde rechts auf einem ansteigenden Wege ein Cavalier mit seiner Dame zu Pferde; daneben mehrere Hunde. Links ein kleiner Fluss, iber den eine Bricke zu einer Schlossruine fuihrt. An den Ufern des Flusses schone Baum- und Schilfpartien.-Die Figuren, Pferde und Hunde meisterhaft in der Zeichnung und von n schoner coloristischer Wirkung. Wahrscheinlich ist die Staffage von dem Bruder, Andries Both, ausgefihrt. — Siehe Abbildung.",192,99.9,False,positional,Jan Both,,,,
-BO0624_87494,664521,11,19,Landschaft.,195,87.0,False,positional,Jan Both,,,,
+BO0624_87494,664520,10,I,"m Vordergrunde rechts auf einem ansteigenden Wege ein Cavalier mit seiner Dame zu Pferde; daneben mehrere Hunde. Links ein kleiner Fluss, iber den eine Bricke zu einer Schlossruine fuihrt. An den Ufern des Flusses schone Baum- und Schilfpartien.-Die Figuren, Pferde und Hunde meisterhaft in der Zeichnung und von n schoner coloristischer Wirkung. Wahrscheinlich ist die Staffage von dem Bruder, Andries Both, ausgefihrt. — Siehe Abbildung.",192,99.9,False,none,BOTH JAN,,,,
+BO0624_87494,664521,11,19,Landschaft.,195,87.0,False,none,,,,,
 BO0624_87494,664522,12,20,Stillleben.,231,87.0,False,positional,Joh. Bronkhorst,,,,
 BO0624_87494,664523,13,I,"nmitten einer aufgeregten Menge steht Christus,neben ihm in demithiger Haltung die Ehebrecherin,von Bewaffneten gehalten,ihr Urtheil erwartend.Alle Figuren in Kniegrosse und mit charakteristischen Gesichtszigen.— Das ganze Bild in sehr warmem Colorit gemalt, ist von hoher plastischer Wirkung und lasst unschwer den Pinsel des Meisters erkennen. Siehe Abbildung.",243,99.9,False,positional,Lucas Cranach,,,,
 BO0624_87494,664524,14,23,Portrait. n halbdunkler Manier das Kniestick eines lesenden Mannes mit meisterhaft gemaltem Kopf. Interessantes gut durchgefihrtes Bild.,262,96.9,False,positional,Balthasar Denner,,,,
 BO0624_87494,664525,15,24,David mit dem Haupte Goliaths.,270,95.1,False,positional,Christ.Wilh. Ernst Dietrici,,,,
-BO0624_87494,664526,16,25,Portrait.,274,84.2,False,positional,Christ.Wilh. Ernst Dietrici,,,,
+BO0624_87494,664526,16,25,Portrait.,274,84.2,False,none,,,,,
 BO0624_87494,664527,17,26,"Portrait. n Leinticher gehillt und gehalten yon Joseph, der Mutter Maria, Magdalena und Johannes, der Leichnam des Herrn, den sie ins Grab zu legen im Begriff sind.",310,97.4,False,positional,A.van Dijck,,,,
 BO0624_87494,664528,18,27,"## Joh. Franz Ermels,",315,100.0,False,title_direct,Joh. Franz Ermels,,,,
-BO0624_87494,664529,19,29,Landschaft.,319,87.0,False,positional,Joh. Franz Ermels,,,,
-BO0624_87494,664530,20,I,n waldiger Gegend im Vordergrunde ein Mihle; daneben,321,99.0,False,positional,Joh. Franz Ermels,,,,
+BO0624_87494,664529,19,29,Landschaft.,319,87.0,False,none,,,,,
+BO0624_87494,664530,20,I,n waldiger Gegend im Vordergrunde ein Mihle; daneben,321,99.0,False,none,,,,,
 BO0624_87494,664531,21,I,"m Vordergrunde Maria,den Oberkorper des todten Heilandes",331,99.1,False,positional,Frangois Francken,,,,
-BO0624_87494,664532,22,30,Die Grablegung Christi.,333,93.6,False,positional,Frangois Francken,,,,
-BO0624_87494,664533,23,31,"Jesus, Kranke heilend.",339,93.0,False,positional,Frangois Francken,,,,
-BO0624_87494,664534,24,32,## Der hl. Franziscus.,347,100.0,False,positional,Frangois Francken,,,,
-BO0624_87494,664535,25,33,Die hl. Katharina.,353,91.4,False,positional,Frangois Francken,,,,
+BO0624_87494,664532,22,30,Die Grablegung Christi.,333,93.6,False,none,,,,,
+BO0624_87494,664533,23,31,"Jesus, Kranke heilend.",339,93.0,False,none,,,,,
+BO0624_87494,664534,24,32,## Der hl. Franziscus.,347,100.0,False,none,,,,,
+BO0624_87494,664535,25,33,Die hl. Katharina.,353,91.4,False,none,,,,,
 BO0624_87494,664536,26,34,Genrebild.,365,85.7,False,positional,E.Fried,,,,
-BO0624_87494,664537,27,35,Genrebild.,373,85.7,False,positional,E.Fried,,,,
+BO0624_87494,664537,27,35,Genrebild.,373,85.7,False,none,,,,,
 BO0624_87494,664538,28,37,Motiv aus Tyrol. m Vordergrunde ein Bergsee; rechts daneben ein Fischerhaus ; Abendstimmung.,396,90.6,False,positional,Joh. Christoph Frisch,,,,
 BO0624_87494,664539,29,38,Das Menuett.,404,88.0,False,positional,F. Gouyaux,,,,
-BO0624_87494,664540,30,I,"n einem Rococo-Zimmer um einen Tisch gruppirt Damen Vor dem Tisch zwei Herren, und Herren in Maskencostim. Gut ausgefihrtes die eine Dame auf den Schultern tragen.Bild.",414,99.7,False,positional,F. Gouyaux,,,,
+BO0624_87494,664540,30,I,"n einem Rococo-Zimmer um einen Tisch gruppirt Damen Vor dem Tisch zwei Herren, und Herren in Maskencostim. Gut ausgefihrtes die eine Dame auf den Schultern tragen.Bild.",414,99.7,False,none,,,,,
 BO0624_87494,664541,31,47,Der Kurpfuscher.,492,90.9,False,positional,Marten Heemskerk,,,,
-BO0624_87494,664542,32,48,Portrait.,498,84.2,False,positional,Marten Heemskerk,,,,
+BO0624_87494,664542,32,48,Portrait.,498,84.2,False,none,,,,,
 BO0624_87494,664543,33,49,"Christus und die Ehebrecherin. nmitten einer aufgeregten Gruppe Hohepriester und Schriftgelehrter steht Christus, neben sich die Ehebrecherin in deAlle Figuren in Kniegrosse und mit meisterhaft ausgefihrten charakteristischen Gesichtsziigen. Das ganze Bild von imposanter und packender Wirkung. Siehe mithiger Haltung.— Abbildung.",514,95.3,False,positional,Gerard von Honthorst,,OGGETTI VARI,,
 BO0624_87494,664544,34,50,Hollandische Landschaft. m Vordergrunde ein von Booten belebter Fluss ; im Hintergrund Panorama der Stadt Utrecht.,524,88.3,False,positional,G.van Hoom,,,,
 BO0624_87494,664545,35,51,Pomona und eine alte Frau.,534,94.3,False,positional,Jacob Jordaens,,,,
 BO0624_87494,664546,36,60,Loreley.,598,82.4,False,positional,Ferd. Koster,,,,
 BO0624_87494,664547,37,61,Landschaft.,606,87.0,False,positional,C.Lido,,,,
-BO0624_87494,664548,38,62,Landschaft.,614,87.0,False,positional,C.Lido,,,,
+BO0624_87494,664548,38,62,Landschaft.,614,87.0,False,none,,,,,
 BO0624_87494,664549,39,63,3Landschaft.,626,88.0,False,positional,C.Ligethi,,,,
 BO0624_87494,664550,40,58,"Traum des Mars. n einem Waldeshain liegt, schlafend auf einer Moosbank,",636,86.9,False,positional,Gerard de Lairesse,,,,
 BO0624_87494,664551,41,59,Portrait.,644,84.2,False,positional,Charles Lebrun,,,,
 BO0624_87494,664552,42,I,n Kupferstich-Manier grau in grau gemaltes Bild des,659,99.0,False,positional,Anton Longo,,OGGETTI IN RAME,,
 BO0624_87494,664553,43,I,m Vordergrunde Wasser und Klosteransicht; hinten griine,673,99.1,False,positional,Baron Maasburg,,,,
-BO0624_87494,664554,44,67,Landschaft.,679,87.0,False,positional,Baron Maasburg,,,,
+BO0624_87494,664554,44,67,Landschaft.,679,87.0,False,none,,,,,
 BO0624_87494,664555,45,70,Mars und Venus.,712,90.3,False,positional,Frans van Mieris,,,,
-BO0624_87494,664556,46,71,Mars und Venus.,718,90.3,False,positional,Frans van Mieris,,,,
-BO0624_87494,664557,47,72,Landschaft.,722,87.0,False,positional,Frans van Mieris,,,,
+BO0624_87494,664556,46,71,Mars und Venus.,718,90.3,False,none,,,,,
+BO0624_87494,664557,47,72,Landschaft.,722,87.0,False,none,,,,,
 BO0624_87494,664558,48,73,Jacobs Traum.,732,88.9,False,positional,Joh. Peter Molitor,,,,
 BO0624_87494,664559,49,74,Winterlandschaft.,744,91.4,False,positional,Pieter Molijn d. J.,,,,
 BO0624_87494,664560,50,I,"m Vordergrunde ein kleiner See mit Wasserfall; iber dem See eine Bricke, worauf Hirt mit Schafen. Am Ufer drei andere Figuren mit bepacktem Esel.Der Hintergrund Waldlandschaft mit schoner Perspective.",779,99.7,False,positional,Isaak de Moucheron,,,,
 BO0624_87494,664561,51,I,"m Vordergrunde der Rhein mit einer Bricke, dahinter die Gut durchgefihrtes Bild",795,99.4,False,positional,G.van Multen,,,,
-BO0624_87494,664562,52,81,Landschaft.,808,87.0,False,positional,G.van Multen,,,,
+BO0624_87494,664562,52,81,Landschaft.,808,87.0,False,none,,,,,
 BO0624_87494,664563,53,83,Seestick.,830,84.2,False,positional,G.W. Opdenhoff,,,,
 BO0624_87494,664564,54,84,Genrebild.,842,85.7,False,positional,Adriaan van Ostade,,,,
-BO0624_87494,664565,55,85,Genrebild.,846,85.7,False,positional,Adriaan van Ostade,,,,
+BO0624_87494,664565,55,85,Genrebild.,846,85.7,False,none,,,,,
 BO0624_87494,664566,56,86,Stillleben.,858,87.0,False,positional,J.Papouschek,,,,
 BO0624_87494,664567,57,I,"n vorziglich gemaltem Helldunkel liegt der schlafende Amor auf einem Kissen. In der rechten Hand seinen Bogen, in der Linken seinen Pfeil haltend. Im Hintergrunde Baumgruppen.— Vorziglich ausgefihrtes Bild.",909,99.8,False,positional,S. Quercino,,BIANCHERIA,,
 BO0624_87494,664568,58,92,Portrait.,926,84.2,False,positional,Max Rabes,,,,
 BO0624_87494,664569,59,93,Anbetung der hl. drei Konige.,934,94.7,False,positional,Paul Rembrandt van Rijn,,,,
 BO0624_87494,664570,60,94,Die Grablegung Christi.,946,93.6,False,positional,Guido Reni,,,,
-BO0624_87494,664571,61,95,"Betende Madonna. n Profil-Stellung und mit gesenktem Haupte, die Hande zum Gebet gefaltet, das Brustbild einer Madonna. In schoner, Helldunkel-Manier gemalt,mit warmem Colorit.",954,94.8,False,positional,Guido Reni,,,,
+BO0624_87494,664571,61,95,"Betende Madonna. n Profil-Stellung und mit gesenktem Haupte, die Hande zum Gebet gefaltet, das Brustbild einer Madonna. In schoner, Helldunkel-Manier gemalt,mit warmem Colorit.",954,94.8,False,none,,,,,
 BO0624_87494,664572,62,96,Ecce Homo.,962,85.7,False,positional,Guido Reni,,,,
 BO0624_87494,664573,63,97,Hl. Petrus.,974,85.7,False,positional,Jose de Ribera,,,,
-BO0624_87494,664574,64,98,Lowe.,979,72.7,False,positional,Jose de Ribera,,,,
+BO0624_87494,664574,64,98,Lowe.,979,72.7,False,none,,,,,
 BO0624_87494,664575,65,99,Die Enthauptung Holofernes.,993,94.5,False,positional,Hyacinthe Rigaud,,,,
 BO0624_87494,664576,66,100,Das Schweisstucb.,1003,88.9,False,positional,Vincenzo Romano,,,,
 BO0624_87494,664577,67,101,Schaferin mit Heerde.,1013,90.9,False,positional,Joh. Heinr. Roos,,,,
 BO0624_87494,664578,68,I,"n vornehmer, anmuthiger Haltung und schoner reicher Gewandung, steht die Muttergottes in Kniegrosse, dass Jesu- kind auf dem Arme. Ueber beider Haupter Glorienschein.",1034,99.7,False,positional,Joh. Rottenhammer,,,,
 BO0624_87494,664579,69,105,Die heilige Familie.,1042,90.5,False,positional,Peter Paul Rubens,,,,
-BO0624_87494,664580,70,I,"n vorziglichster Ausfihrung und Charakteristik sehen wir der Schriftgelehrten im den zwolfjahrigen Christus inmitten seiner Rede Tempel, die voll Staunen und Bewunderung lauschen. Im Hintergrunde in der Thur des Tempels die Sehr fein gezeichnetes Mutter Maria und der hl. Joseph.—S Bild von schoner Farbenharmonie.  Siehe Abbildung.",1050,99.8,False,positional,Peter Paul Rubens,,,,
+BO0624_87494,664580,70,I,"n vorziglichster Ausfihrung und Charakteristik sehen wir der Schriftgelehrten im den zwolfjahrigen Christus inmitten seiner Rede Tempel, die voll Staunen und Bewunderung lauschen. Im Hintergrunde in der Thur des Tempels die Sehr fein gezeichnetes Mutter Maria und der hl. Joseph.—S Bild von schoner Farbenharmonie.  Siehe Abbildung.",1050,99.8,False,none,,,,,
 BO0624_87494,664581,71,I,"n einer bergigen, romantischen Gegend mit Wasserfall eine einsame Frau auf dem Wege zu ihrer Hitte.",1077,99.5,False,positional,J. Salzer,,,,
 BO0624_87494,664582,72,I,n einer Ruine ruht ein Schafer mit seiner Kuh und Schaf-,1107,99.1,False,positional,H. Schuchmann,,,,
 BO0624_87494,664583,73,I,"m Vordergrunde ein Bauer, eine Heerde Kihe und Schafe zur Tranke fihrend; dabei eine Frau zu Pferde mit einem Kind auf dem Arme. Im Hintergrunde bergige Landschaft.",1116,99.7,False,positional,P.P. Rubens,,,,
 BO0624_87494,664584,74,I,n gebirgiger Gegend im Vordergrunde ein kleiner See mit Wasserfall und Figuren-Staffage. Weiter hinten auf einem Berg eine alte Burg.,1130,99.6,False,positional,"Christ, Georg Schutz",,,,
-BO0624_87494,664585,75,I,m Vordergrunde ein beschneiter Waldweg mit Figuren und Schlitten.-Waldige Scenerie.,1136,44.8,False,positional,"Christ, Georg Schutz",,,,
-BO0624_87494,664586,76,131,Genrebild.,1138,47.1,False,positional,"Christ, Georg Schutz",,,,
+BO0624_87494,664585,75,I,m Vordergrunde ein beschneiter Waldweg mit Figuren und Schlitten.-Waldige Scenerie.,1136,44.8,False,none,,,,,
+BO0624_87494,664586,76,131,Genrebild.,1138,47.1,False,none,,,,,
 BO0624_87494,664587,77,132,Genrebild.,1148,31.8,False,positional,Christ. Georg Schutz d. J.,,,,
-BO0624_87494,664588,78,I,n einem mit abgepfickten Blumen umgebenen Vogelkafig sitzt ein gefangener Sperling; nebenan auf der Erde ein leeres Nest.—,1150,32.1,False,positional,Christ. Georg Schutz d. J.,,,,
-BO0624_87494,664589,79,I,"n Wolken gehillt steht die Madonna auf einer Sichel, die",1154,38.3,False,positional,Christ. Georg Schutz d. J.,,,,
+BO0624_87494,664588,78,I,n einem mit abgepfickten Blumen umgebenen Vogelkafig sitzt ein gefangener Sperling; nebenan auf der Erde ein leeres Nest.—,1150,32.1,False,none,,,,,
+BO0624_87494,664589,79,I,"n Wolken gehillt steht die Madonna auf einer Sichel, die",1154,38.3,False,none,,,,,
 BO0624_87494,664590,80,I,"n einer Glasschussel, die auf einem Tische steht, eine Crystallflasche; um dieselbe gruppirt Trauben, Kirschen etc. sowie Capuziner-Blumen.",1162,46.6,False,positional,A. von Schwarzenfeld,,,,
-BO0624_87494,664591,81,I,"m Vordergrunde zechende Krieger, die vor einem Wirths- haus sitzen; weiter rechts zwei ankommende vornehme Reiter, die von dem Wirthe eingeladen werden, an dem Zechgelage theilzunehmen.-Sehr schones Bild von tadelloser Ausfuihrung. Leinwand. Br.7o,H. 55 cm,in Goldrahmen.",1170,44.8,False,positional,A. von Schwarzenfeld,,,,
-BO0624_87494,664592,82,I,m Hintergrunde Neapel und der Vesuv; vorne der von,1174,41.4,False,positional,A. von Schwarzenfeld,,,,
-BO0624_87494,664593,83,I,"n ganzer Figur, auf einem Halbmond stehend. Leinwand.H.72,Br. 55 cm,ohne Rahmen.",1181,47.1,False,positional,A. von Schwarzenfeld,,CORNICI,,
-BO0624_87494,664594,84,I,n einem muschelartigen und von Delphinen gezogenen,1183,42.1,False,positional,A. von Schwarzenfeld,,,,
-BO0624_87494,664595,85,I,"n kraftigem braunem Ton gemalte und gut gezeichnete Vollfigur einer Bacchantin.  Restaurirung bedirftiges Bild. Leinwand. H. 110,Br. 105 cim,ohne Rahmen.",1185,38.7,False,positional,A. von Schwarzenfeld,,CORNICI,,
-BO0624_87494,664596,86,160,Genrebild.,1187,23.5,False,positional,A. von Schwarzenfeld,,,,
-BO0624_87494,664597,87,161,"Portrait. n Rembrandt-Manier ausgefuhrtes Brustbild einer Edeldame. Leinwand. H. 55,Br. 45 cm,in Goldrahmen.",1191,39.3,False,positional,A. von Schwarzenfeld,,,,
+BO0624_87494,664591,81,I,"m Vordergrunde zechende Krieger, die vor einem Wirths- haus sitzen; weiter rechts zwei ankommende vornehme Reiter, die von dem Wirthe eingeladen werden, an dem Zechgelage theilzunehmen.-Sehr schones Bild von tadelloser Ausfuihrung. Leinwand. Br.7o,H. 55 cm,in Goldrahmen.",1170,44.8,False,none,,,,,
+BO0624_87494,664592,82,I,m Hintergrunde Neapel und der Vesuv; vorne der von,1174,41.4,False,none,,,,,
+BO0624_87494,664593,83,I,"n ganzer Figur, auf einem Halbmond stehend. Leinwand.H.72,Br. 55 cm,ohne Rahmen.",1181,47.1,False,none,,,CORNICI,,
+BO0624_87494,664594,84,I,n einem muschelartigen und von Delphinen gezogenen,1183,42.1,False,none,,,,,
+BO0624_87494,664595,85,I,"n kraftigem braunem Ton gemalte und gut gezeichnete Vollfigur einer Bacchantin.  Restaurirung bedirftiges Bild. Leinwand. H. 110,Br. 105 cim,ohne Rahmen.",1185,38.7,False,none,,,CORNICI,,
+BO0624_87494,664596,86,160,Genrebild.,1187,23.5,False,none,,,,,
+BO0624_87494,664597,87,161,"Portrait. n Rembrandt-Manier ausgefuhrtes Brustbild einer Edeldame. Leinwand. H. 55,Br. 45 cm,in Goldrahmen.",1191,39.3,False,none,REMBRANDT VAN RIJN,,,,
 BO0624_87494,664598,88,162,Portrait.,1197,80.0,False,positional,Joh. Konr. Seekatz,,,,
 BO0624_87494,664599,89,163,Portrait.,1209,41.7,False,positional,Friedr. Karl Jos. Simmler,,,,
 BO0624_87494,664600,90,165,Studienkopf.,1219,40.0,False,positional,Francois Snijders,,,,
 BO0624_87494,664601,91,166,Johannes der Taufer.,1225,36.4,False,positional,Leonello Spada,,,,
-BO0624_87494,664602,92,167,Landschaft.,1232,83.3,False,positional,Leonello Spada,,,,
-BO0624_87494,664603,93,168,Landschaft.,1252,83.3,False,positional,Leonello Spada,,,,
+BO0624_87494,664602,92,167,Landschaft.,1232,83.3,False,none,,,,,
+BO0624_87494,664603,93,168,Landschaft.,1252,83.3,False,none,,,,,
 BO0624_87494,664604,94,169,Der Traum.,1258,36.4,False,positional,David Teniers,,,,
-BO0624_87494,664605,95,I,"n einer Ruine ruht hingestreckt,mit dem Kopfe auf seinem Bindel, ein schlafender Jungling. Ihm erscheinen in einer Wolke drei liebreizende Grazien,nur mit Lendentichern bekleidet. Rechts durch einen Bogen Aussicht auf eine schone",1264,45.8,False,positional,David Teniers,,,,
-BO0624_87494,664606,96,I,"n purpurnem, mit Hermelin gefittcrtem Mantel steht die hl. Katharina auf einem Bollwerk,in der linken Hand eine Palme, zu ihren Fissen ein Schwert. Im Hintergrund eine Stadtansicht, sowie Manner, die beschaftigt sind, ein Rad aufzuschlagen.",1268,41.7,False,positional,David Teniers,,,,
+BO0624_87494,664605,95,I,"n einer Ruine ruht hingestreckt,mit dem Kopfe auf seinem Bindel, ein schlafender Jungling. Ihm erscheinen in einer Wolke drei liebreizende Grazien,nur mit Lendentichern bekleidet. Rechts durch einen Bogen Aussicht auf eine schone",1264,45.8,False,none,,,,,
+BO0624_87494,664606,96,I,"n purpurnem, mit Hermelin gefittcrtem Mantel steht die hl. Katharina auf einem Bollwerk,in der linken Hand eine Palme, zu ihren Fissen ein Schwert. Im Hintergrund eine Stadtansicht, sowie Manner, die beschaftigt sind, ein Rad aufzuschlagen.",1268,41.7,False,none,,,,,
 BO0624_87494,664607,97,I,n Rembrandt-Manier gemaltes Profil-Brustbild eines alten,1297,42.9,False,positional,Georges Todd,,,,
 BO0624_87494,664608,98,193,Portrait.,1303,80.0,False,positional,L.Tourny,,,,
 BO0624_87494,664609,99,I,n vollendeter Technik gemalt; wahrscheinlich von Lessing.,1315,46.8,False,positional,Theodor van Tulden,,,,
-BO0624_87494,664610,100,I,"n einem Zimmer vor halboffenem Fenster zwei lesende Kinder.- Wirkungsvolles, mit schonen Lichteffecten gemaltes Bild.",1319,40.6,False,positional,Theodor van Tulden,,,,
+BO0624_87494,664610,100,I,"n einem Zimmer vor halboffenem Fenster zwei lesende Kinder.- Wirkungsvolles, mit schonen Lichteffecten gemaltes Bild.",1319,40.6,False,none,,,,,
 BO0624_87494,664611,101,I,"n einer wild-romantischen, mit Baumen besetzten felsigen Gegend, ein Gebirgsbach mit Wasserfall. — Vorziglich gemaltes Bild.",1329,41.9,False,positional,Paul Veronese,,,,
-BO0624_87494,664612,102,I,"n einer Schneelandschaft steht ein Treiber, auf dem Riicken einen Hasen tragend, in der Hand eine Klapper. Leinwand.H. 34,Br.29 cm,in Goldrahmen.",1337,39.6,False,positional,Paul Veronese,,,,
-BO0624_87494,664613,103,200,"Albrecht Adam, 1786-1862. Thoreinfahrt zu einer Stadt. Tuschzeichnung. Br. 35, H. 23 cm.",1339,34.9,False,positional,Paul Veronese,,,,Sec. XIX
+BO0624_87494,664612,102,I,"n einer Schneelandschaft steht ein Treiber, auf dem Riicken einen Hasen tragend, in der Hand eine Klapper. Leinwand.H. 34,Br.29 cm,in Goldrahmen.",1337,39.6,False,none,,,,,
+BO0624_87494,664613,103,200,"Albrecht Adam, 1786-1862. Thoreinfahrt zu einer Stadt. Tuschzeichnung. Br. 35, H. 23 cm.",1339,34.9,False,none,,,,,Sec. XIX
 BO0624_87494,664614,104,201,"Eugen Adam, moderner Meister. Kriegsscenein einem Bauernhof. Koblezeichnung. Br. 70. H.52 cm.Bezeichnet.",1347,47.1,False,positional,A. Volkert,,,,
-BO0624_87494,664615,105,202,"Derselbe. Portrait eines osterreichischen Dragoners zu Pferde. Bleistiftzeichnung. Br. 16,H. 15 cm.",1354,38.1,False,positional,A. Volkert,,,,
-BO0624_87494,664616,106,203,"Heinrich Aldegrever, 1502-1562. Die Badestube. Lascives Bild. Tuschzeichnung. H. 33, Br. 28 cm.",1362,37.4,False,positional,A. Volkert,,,,Sec. XVI
-BO0624_87494,664617,107,204,"Andrea dAgnolo del Sarto, 1487-1531. Allegorie. Federzeichnung.H. 25,Br. 23 cm.",1364,34.0,False,positional,A. Volkert,,,,Sec. XVI
-BO0624_87494,664618,108,205,"Francesci Albani, 1578-1660. Galathea. Bleistiftzeichnung. Br.26, H. 18 cm.",1372,33.7,False,positional,A. Volkert,,,,Sec. XVII
-BO0624_87494,664619,109,206,"Christofano Allori, 1577-1621. Der Engel trostet Hagar. Bleistiftzeichnung. H. 27, Br. 23 cm.",1380,33.3,False,positional,A. Volkert,,,,Sec. XVII
-BO0624_87494,664620,110,207,"Jacopo Amigoni, 1675—1752. Amoretten. Bleistiftzeichnung. Br. 10, H. 9 cm.",1382,37.4,False,positional,A. Volkert,,,,Sec. XVII
-BO0624_87494,664621,111,208,"Antonio Balestra, 1666-1734. Brustbild eines Sterbenden. Federzeichnung. H. 20, Br. 11 cm.",1386,36.1,False,positional,A. Volkert,,,,Sec. XVII
-BO0624_87494,664622,112,209,"E.Bendemann,1811-1889. Studienkopf Bleistiftzeichnung. H. 22, Br. 16 cm.",1392,35.8,False,positional,A. Volkert,,,,Sec. XIX
-BO0624_87494,664623,113,210,"A. Biebiena. Allegorie auf das jingste Gericht. Tuschzeichnung. H. 43, Br.35 cm.",1398,37.1,False,positional,A. Volkert,,,,
-BO0624_87494,664624,114,211,"Auguste Blanchard, Paris. Kuhgasse in Gorlitz. Tuschzeichnung. Br. 24, H.19 cm.",1402,36.4,False,positional,A. Volkert,,,,
-BO0624_87494,664625,115,212,"Derselbe. Partie bei Raden unfern Schandau. Tuschirte Bleistiftzeichnung. Br. 32,H. 23 cm.",1406,41.2,False,positional,A. Volkert,,,,
-BO0624_87494,664626,116,213,"Abraham Bloemaert,1565-1658.Christi Geburt zu Bethlehem. Tuschzeichnung.Br. 40,H.30 cm.Bezeichnet.",1408,32.6,False,positional,A. Volkert,,,,Sec. XVI
-BO0624_87494,664627,117,214,Derselbe. Adam und Eva.,1413,37.8,False,positional,A. Volkert,,,,
-BO0624_87494,664628,118,215,"C. Borksele.Landschaft mit Baumen. Bleistiftzeichnung. Br. 44,H.35 cm. Bezeichnet.",1415,36.8,False,positional,A. Volkert,,,,
-BO0624_87494,664629,119,216,"Edmus Bouchardon,1698--1762. Studienkopf. Rothelzeichnung.H.19,Br. 18 cm.Bezeichnet.",1417,41.1,False,positional,A. Volkert,,,,Sec. XVII
-BO0624_87494,664630,120,217,"Anton Braith,moderner Meister. Zur Tranke gehende Kihe. Bleistiftzeichnung. Br. 36,H. 26 cm. Bezeichnet.",1423,43.3,False,positional,A. Volkert,,,,
+BO0624_87494,664615,105,202,"Derselbe. Portrait eines osterreichischen Dragoners zu Pferde. Bleistiftzeichnung. Br. 16,H. 15 cm.",1354,38.1,False,none,,,,,
+BO0624_87494,664616,106,203,"Heinrich Aldegrever, 1502-1562. Die Badestube. Lascives Bild. Tuschzeichnung. H. 33, Br. 28 cm.",1362,37.4,False,none,,,,,Sec. XVI
+BO0624_87494,664617,107,204,"Andrea dAgnolo del Sarto, 1487-1531. Allegorie. Federzeichnung.H. 25,Br. 23 cm.",1364,34.0,False,none,DEL SARTO ANDREA,,,,Sec. XVI
+BO0624_87494,664618,108,205,"Francesci Albani, 1578-1660. Galathea. Bleistiftzeichnung. Br.26, H. 18 cm.",1372,33.7,False,none,,,,,Sec. XVII
+BO0624_87494,664619,109,206,"Christofano Allori, 1577-1621. Der Engel trostet Hagar. Bleistiftzeichnung. H. 27, Br. 23 cm.",1380,33.3,False,none,"BRONZINO, ALLORI ALESSANDRO",,,,Sec. XVII
+BO0624_87494,664620,110,207,"Jacopo Amigoni, 1675—1752. Amoretten. Bleistiftzeichnung. Br. 10, H. 9 cm.",1382,37.4,False,none,,,,,Sec. XVII
+BO0624_87494,664621,111,208,"Antonio Balestra, 1666-1734. Brustbild eines Sterbenden. Federzeichnung. H. 20, Br. 11 cm.",1386,36.1,False,none,,,,,Sec. XVII
+BO0624_87494,664622,112,209,"E.Bendemann,1811-1889. Studienkopf Bleistiftzeichnung. H. 22, Br. 16 cm.",1392,35.8,False,none,,,,,Sec. XIX
+BO0624_87494,664623,113,210,"A. Biebiena. Allegorie auf das jingste Gericht. Tuschzeichnung. H. 43, Br.35 cm.",1398,37.1,False,none,,,,,
+BO0624_87494,664624,114,211,"Auguste Blanchard, Paris. Kuhgasse in Gorlitz. Tuschzeichnung. Br. 24, H.19 cm.",1402,36.4,False,none,,,,,
+BO0624_87494,664625,115,212,"Derselbe. Partie bei Raden unfern Schandau. Tuschirte Bleistiftzeichnung. Br. 32,H. 23 cm.",1406,41.2,False,none,,,,,
+BO0624_87494,664626,116,213,"Abraham Bloemaert,1565-1658.Christi Geburt zu Bethlehem. Tuschzeichnung.Br. 40,H.30 cm.Bezeichnet.",1408,32.6,False,none,,,,,Sec. XVI
+BO0624_87494,664627,117,214,Derselbe. Adam und Eva.,1413,37.8,False,none,,,,,
+BO0624_87494,664628,118,215,"C. Borksele.Landschaft mit Baumen. Bleistiftzeichnung. Br. 44,H.35 cm. Bezeichnet.",1415,36.8,False,none,,,,,
+BO0624_87494,664629,119,216,"Edmus Bouchardon,1698--1762. Studienkopf. Rothelzeichnung.H.19,Br. 18 cm.Bezeichnet.",1417,41.1,False,none,,,,,Sec. XVII
+BO0624_87494,664630,120,217,"Anton Braith,moderner Meister. Zur Tranke gehende Kihe. Bleistiftzeichnung. Br. 36,H. 26 cm. Bezeichnet.",1423,43.3,False,none,BRAITH ANTON,,,,
 BO0624_87494,664631,121,218,"Derselbe. Thierstick. Bleistiftzeichnung. Br. 14,H. 9 cm.",1437,42.7,False,positional,Hans Wertinger,,OGGETTI VARI,,
 BO0624_87494,664632,122,219,"Joh. Christian Brand, 1723-1795. Ein Madchen, Pilze",1468,43.4,False,positional,H. Wagner,,,,Sec. XVIII
 BO0624_87494,664633,123,220,"W.Bryer.H Heimkehrende Reiter, eine Furt passirend. Aquarell.Br.41,H.31 cm.",1472,40.3,False,title_direct,,,Aquarelle,,
 BO0624_87494,664634,124,221,"Derselbe. Pferdeschwemme vor einem Festungsthor. Aquarell. Br.37,H.31 cm.",1476,32.4,False,title_direct,,,Aquarelle,,
 BO0624_87494,664635,125,222,"Derselbe. Reiter vor einer Schmiede. Aquarell. Br. 41,H.29 cm.",1482,43.6,False,title_direct,,,Aquarelle,,
-BO0624_87494,664636,126,223,"Jacques Callot, 1594-1635. Betender Monch.",1484,32.0,False,positional,H. Wagner,,,,Sec. XVII
-BO0624_87494,664637,127,224,"A. Calme, moderner Meister. Wald- und Flusslandschaft. Tuschzeichnung. Br. 39,H.30 cm.Bezeichnet.",1488,37.1,False,positional,H. Wagner,,,,
-BO0624_87494,664638,128,225,"Simone Cantarini genannt Pesarese,1612-1648. Die heilige Familie. Bleistiftzeichnung. H.14,Br.10 cm.",1496,42.8,False,positional,H. Wagner,,,,Sec. XVII
-BO0624_87494,664639,129,226,"Agostino Caracci, 1557-1602. Der knieende hl. Franciscus.",1498,35.9,False,positional,H. Wagner,,,,Sec. XVI
-BO0624_87494,664640,130,227,"Derselbe. Der heilige Franciscus in der Wiste. Federzeichnung. Br. 27,H. 18 cm.",1513,44.4,False,positional,H. Wagner,,,,
-BO0624_87494,664641,131,228,"Derselbe. Tod des hl. Franciscus. Bleistiftzeichnung. H. 28,Br. 20 cm. Bezeichnet A.C.",1525,46.3,False,positional,H. Wagner,,,,
-BO0624_87494,664642,132,229,"Polidoro Caldara-Caravaggio, 1495--1543. Auszug aus",1529,33.1,False,positional,H. Wagner,,,,Sec. XV
-BO0624_87494,664643,133,230,"Giuseppe Cesari, 1560-1640. Tuschzeichnung. Br. 35,H. 28 cm.",1533,34.4,False,positional,H. Wagner,,,,Sec. XVI
-BO0624_87494,664644,134,231,"Derselbe. Studienkopf. Tuschzeichnung. H. 22, Br.16 cm.",1537,32.8,False,positional,H. Wagner,,,,
-BO0624_87494,664645,135,232,"Alonso Sanchez Coello, 1513-1590. Die heilige Familie. Bleistiftzeichnung. H.26,Br.17 cm.",1541,37.0,False,positional,H. Wagner,,,,Sec. XVI
-BO0624_87494,664646,136,233,"Jules Louis Coignet, 1798 --1860. Abgestorbener Baumstamm.",1545,39.6,False,positional,H. Wagner,,,,Sec. XVIII
-BO0624_87494,664647,137,234,"Sebastiano Conca, 1679--1764. Die heilige Maria, dem heiligen Bernhard das Scapulier reichend. Tuschirte Bleistiftzeichnung.H. 60, Br. 33 cm.",1549,37.3,False,positional,H. Wagner,,,,Sec. XVII
-BO0624_87494,664648,138,235,"Antonio Correggio,1494-1534. Ein Sterbender. Tuschirte Bleistiftzeichnung. H. 36,Br. 26 cm.",1551,41.7,False,positional,H. Wagner,,,,Sec. XVI
-BO0624_87494,664649,139,236,"Derselbe. Zwei musicirende Engel in Wolken. Rothelzeichnung. Br. 17,H.15 cm.",1562,40.5,False,positional,H. Wagner,,,,
-BO0624_87494,664650,140,237,"Pietro da Cortona genannt Berrettini 1596-1669. Die hl. Theresia,einer Kranken erscheinend. Federzeichnung. H. 26,Br.25 cm,",1568,40.7,False,positional,H. Wagner,,,,Sec. XVII
-BO0624_87494,664651,141,238,"Derselbe. Symbolische Darstellung. Tuschirte Bleistiftzeichnung. H. 29, Br. 20 cm.",1576,36.4,False,positional,H. Wagner,,,,
-BO0624_87494,664652,142,239,Derselbe. David erschlagt den Riesen Goliath.,1578,43.0,False,positional,H. Wagner,,,,
-BO0624_87494,664653,143,240,Derselbe. Die Kreuztragung Christi.,1580,41.1,False,positional,H. Wagner,,,,
-BO0624_87494,664654,144,241,Derselbe.Christus beim Sturme auf dem Meere.,1604,46.9,False,positional,H. Wagner,,,,
-BO0624_87494,664655,145,242,Derselbe. Zwei mythologische Darstellungen auf einem Carton.,1614,38.5,False,positional,H. Wagner,,,,
-BO0624_87494,664656,146,243,"Domenico Cresti, 1558-1638. Allegorie.",1621,33.8,False,positional,H. Wagner,,,,Sec. XVI
+BO0624_87494,664636,126,223,"Jacques Callot, 1594-1635. Betender Monch.",1484,32.0,False,none,,,,,Sec. XVII
+BO0624_87494,664637,127,224,"A. Calme, moderner Meister. Wald- und Flusslandschaft. Tuschzeichnung. Br. 39,H.30 cm.Bezeichnet.",1488,37.1,False,none,,,,,
+BO0624_87494,664638,128,225,"Simone Cantarini genannt Pesarese,1612-1648. Die heilige Familie. Bleistiftzeichnung. H.14,Br.10 cm.",1496,42.8,False,none,,,,,Sec. XVII
+BO0624_87494,664639,129,226,"Agostino Caracci, 1557-1602. Der knieende hl. Franciscus.",1498,35.9,False,none,CARRACCI AGOSTINO,,,,Sec. XVI
+BO0624_87494,664640,130,227,"Derselbe. Der heilige Franciscus in der Wiste. Federzeichnung. Br. 27,H. 18 cm.",1513,44.4,False,none,,,,,
+BO0624_87494,664641,131,228,"Derselbe. Tod des hl. Franciscus. Bleistiftzeichnung. H. 28,Br. 20 cm. Bezeichnet A.C.",1525,46.3,False,none,,,,,
+BO0624_87494,664642,132,229,"Polidoro Caldara-Caravaggio, 1495--1543. Auszug aus",1529,33.1,False,none,CARAVAGGIO,,,,Sec. XV
+BO0624_87494,664643,133,230,"Giuseppe Cesari, 1560-1640. Tuschzeichnung. Br. 35,H. 28 cm.",1533,34.4,False,none,,,,,Sec. XVI
+BO0624_87494,664644,134,231,"Derselbe. Studienkopf. Tuschzeichnung. H. 22, Br.16 cm.",1537,32.8,False,none,,,,,
+BO0624_87494,664645,135,232,"Alonso Sanchez Coello, 1513-1590. Die heilige Familie. Bleistiftzeichnung. H.26,Br.17 cm.",1541,37.0,False,none,SANCHEZ-COELLO ALONZO,,,,Sec. XVI
+BO0624_87494,664646,136,233,"Jules Louis Coignet, 1798 --1860. Abgestorbener Baumstamm.",1545,39.6,False,none,,,,,Sec. XVIII
+BO0624_87494,664647,137,234,"Sebastiano Conca, 1679--1764. Die heilige Maria, dem heiligen Bernhard das Scapulier reichend. Tuschirte Bleistiftzeichnung.H. 60, Br. 33 cm.",1549,37.3,False,none,,,,,Sec. XVII
+BO0624_87494,664648,138,235,"Antonio Correggio,1494-1534. Ein Sterbender. Tuschirte Bleistiftzeichnung. H. 36,Br. 26 cm.",1551,41.7,False,none,CORREGGIO,,,,Sec. XVI
+BO0624_87494,664649,139,236,"Derselbe. Zwei musicirende Engel in Wolken. Rothelzeichnung. Br. 17,H.15 cm.",1562,40.5,False,none,,,,,
+BO0624_87494,664650,140,237,"Pietro da Cortona genannt Berrettini 1596-1669. Die hl. Theresia,einer Kranken erscheinend. Federzeichnung. H. 26,Br.25 cm,",1568,40.7,False,none,,,,,Sec. XVII
+BO0624_87494,664651,141,238,"Derselbe. Symbolische Darstellung. Tuschirte Bleistiftzeichnung. H. 29, Br. 20 cm.",1576,36.4,False,none,,,,,
+BO0624_87494,664652,142,239,Derselbe. David erschlagt den Riesen Goliath.,1578,43.0,False,none,,,,,
+BO0624_87494,664653,143,240,Derselbe. Die Kreuztragung Christi.,1580,41.1,False,none,,,,,
+BO0624_87494,664654,144,241,Derselbe.Christus beim Sturme auf dem Meere.,1604,46.9,False,none,,,,,
+BO0624_87494,664655,145,242,Derselbe. Zwei mythologische Darstellungen auf einem Carton.,1614,38.5,False,none,,,,,
+BO0624_87494,664656,146,243,"Domenico Cresti, 1558-1638. Allegorie.",1621,33.8,False,none,,,,,Sec. XVI
 BO0624_87494,664657,147,244,Derselbe. Allegorische Darstellung.,1623,47.3,False,positional,,Niederlandische Schule,,,
-BO0624_87494,664658,148,245,"H. Deutsch, moderner Meister. Der Morgenritt.",1627,41.0,False,positional,,Niederlandische Schule,,,
+BO0624_87494,664658,148,245,"H. Deutsch, moderner Meister. Der Morgenritt.",1627,41.0,False,none,,,,,
 BO0624_87494,664659,149,246,"Derselbe.Der Spazierritt. Aquarell. Br. 17, H. 16 cm. Bezeichnet.",1633,39.6,False,title_direct,,,Aquarelle,,
 BO0624_87494,664660,150,247,"Christ. Wilh.Ernst Dietrici, 1712-1774. Die Geisselung Christi. Bleistiftzeichnung. H. 37, Br. 28 cm.",1645,36.6,False,title_direct,Christ.Wilh. Ernst Dietrici,,,,Sec. XVIII
-BO0624_87494,664661,151,248,Derselbe.,1649,50.0,False,positional,,Niederlandische Schule,,,
-BO0624_87494,664662,152,249,"Joh. Georg von Dillis, 1759-1811. 6 Blatt weidende Kuhe auf 1 Carton. Federzeichnung. Je H. 9, Br. 9 cm.",1659,35.7,False,positional,,Niederlandische Schule,,,Sec. XVIII
+BO0624_87494,664661,151,248,Derselbe.,1649,50.0,False,none,,,,,
+BO0624_87494,664662,152,249,"Joh. Georg von Dillis, 1759-1811. 6 Blatt weidende Kuhe auf 1 Carton. Federzeichnung. Je H. 9, Br. 9 cm.",1659,35.7,False,none,,,,,Sec. XVIII
 BO0624_87494,664663,153,250,"K. Dorfler, moderner Meister. Vor dem Wettrennen.",1667,42.0,False,positional,,Vlamische Schule,,,
-BO0624_87494,664664,154,251,Derselbe. Wahrend des Rennens.,1676,34.4,False,positional,,Vlamische Schule,,,
+BO0624_87494,664664,154,251,Derselbe. Wahrend des Rennens.,1676,34.4,False,none,,,,,
 BO0624_87494,664665,155,252,Derselbe.,1680,52.2,False,positional,,Deutsche Schule,,,
 BO0624_87494,664666,156,253,"Derselbe. Fahrt vom Trabrennen. Aquarell. Br. 18, H.11 cm. Bezeichnet.",1690,39.0,False,title_direct,,,Aquarelle,,
 BO0624_87494,664667,157,254,"A. Dubois, moderner Meister. Das Menuett. Aquarell. H.12, Br.9 cm.Bezeichnet.",1696,46.5,False,title_direct,,,Aquarelle,,
-BO0624_87494,664668,158,255,Derselbe. Tanzende Bauern.,1700,41.4,False,positional,,Deutsche Schule,,,
-BO0624_87494,664669,159,256,"Albrecht Direr, nach ihm. Tod der hl. Mutter Maria. Federzeichnung. H. 30, Br. 23 cm.",1737,43.3,False,positional,DURER ALBRECHT,Deutsche Schule,,,
+BO0624_87494,664668,158,255,Derselbe. Tanzende Bauern.,1700,41.4,False,none,,,,,
+BO0624_87494,664669,159,256,"Albrecht Direr, nach ihm. Tod der hl. Mutter Maria. Federzeichnung. H. 30, Br. 23 cm.",1737,43.3,False,none,DURER ALBRECHT,,,,
 BO0624_87494,664670,160,257,"Th.Ender,moderner Meister. Fluss-Landschaft. Aquare'l. Br. 30,H. 23 cm. Bezeichnet.",1744,42.5,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87494,664671,161,258,"A. Erbe, moderner Meister. 2 Silhouetten-Bildchen auf 1 Carton.",1745,46.2,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87494,664672,162,259,Derselbe. Scene aus einem Affenkafig.,1746,36.4,False,positional,,,Handzeichnungen; Aquarelle,,
@@ -245,7 +245,7 @@ BO0624_87494,664753,243,341,"Domenico Mastaglio, um 1800. In einer Barbierstube.
 BO0624_87494,664754,244,342,"Francesco Mazzuoli, 1504-1540. Die Auferstehung Christi. Federzeichnung. H. 39,Br. 25 cm.",1951,97.6,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XVI
 BO0624_87494,664755,245,344,"Joh.Heinr.Menken,1764 -1837.Waldlandschaft. Tuschirte Kohlezeichnung. Br. 45,H. 38 cm.",1953,97.6,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XVIII
 BO0624_87494,664756,246,345,"Joh. Jacob Mettenleiter, 1750 --1825. Allegorische Darstellung. Federzeichnung. H. 21, Br. 15 cm.",1954,97.7,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XVIII
-BO0624_87494,664757,247,346,"Willem van Mieris, 1662-1747. Bauerngruppe. Tuschirte Federzeichnung. H. 15, Br. 15 cm.",1955,97.5,False,positional,MIERIS WILLEM VAN,,Handzeichnungen; Aquarelle,,Sec. XVII
+BO0624_87494,664757,247,346,"Willem van Mieris, 1662-1747. Bauerngruppe. Tuschirte Federzeichnung. H. 15, Br. 15 cm.",1955,97.5,False,positional,FRANS VAN MIERIS,,Handzeichnungen; Aquarelle,,Sec. XVII
 BO0624_87494,664758,248,347,"Pierre Mignard, 1640--1725. Engelskopf.",1956,94.6,False,positional,MIGNARD PIERRE,,Handzeichnungen; Aquarelle,,Sec. XVII
 BO0624_87494,664759,249,348,"Johann Peter Molitor, 17021757. Allegorie.",1958,95.1,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87494,664760,250,349,"Christian Morgenstern, 1805-1867. Wilde Berggegend. Aquarell. Br. 24, H. 16 cm.",1960,97.3,False,title_direct,MORGENSTERN JOHAN FRIEDRICH,,Aquarelle,,Sec. XIX
@@ -314,7 +314,7 @@ BO0624_87494,664822,312,411,Caspar yon Schulz. Waldlandschaft.,2049,94.1,False,p
 BO0624_87494,664823,313,412,"Andreas Schurch, um 1670. Brustbild eines nackten Mannes.",2051,96.4,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XVII
 BO0624_87494,664824,314,413,"Christ.Georg Schitz, 1718-1791. Stadtthor von Rothenburg an der Tauber. Tuschirte Bleistiftzeichnung. Br.49,H. 35 cm. Bezeichnet.",2053,98.4,False,title_direct,"Christ, Georg Schutz",,,,Sec. XVIII
 BO0624_87494,664825,315,414,"Christ.Georg Schitz, 1758-1823. Schloss Schaumburg und Umgebung. Aquarell. Br.75,H. 53 cm. Bezeichnet.",2054,97.9,False,title_direct,"Christ, Georg Schutz",,Aquarelle,,Sec. XVIII
-BO0624_87494,664826,316,415,"Moritz von Schwind, 18041871. Ruhende Hero. Bleistiftzeichnung. Br. 25,H.7 cm.",2055,97.3,False,positional,,,Handzeichnungen; Aquarelle,,
+BO0624_87494,664826,316,415,"Moritz von Schwind, 18041871. Ruhende Hero. Bleistiftzeichnung. Br. 25,H.7 cm.",2055,97.3,False,positional,VON SCHWIND MORITZ,,Handzeichnungen; Aquarelle,,
 BO0624_87494,664827,317,416,"J. J. Sedelmeyer, 1704—1761. Der hl. Ambrosius. Tuschirte Federzeichnung. H. 24, Br.18 cm. Bezeichnet.",2056,97.8,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XVIII
 BO0624_87494,664828,318,417,"Otto Seitz, moderner Meister. Klausen in Tyrol. Aquarell. Br. 31,H. 13 cm.Bezeichnet.",2057,97.5,False,title_direct,,,Aquarelle,,
 BO0624_87494,664829,319,418,"August Seyffer, 1774-1845. Waldpartie. Tuschirte Federzeichnung. Br. 18,H.12 cm.",2058,97.4,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XIX
@@ -361,7 +361,7 @@ BO0624_87494,664869,359,458,"H. Wurmbrand, moderner Meister. Partie aus Bayern."
 BO0624_87494,664870,360,459,"Derselbe. Partie aus dem Thiiringerwald. Aquarell. Br. 27, H. 18 cm. Bezeichnet.",2113,97.3,False,title_direct,,,Aquarelle,,
 BO0624_87494,664871,361,460,Derselbe. Ruine am Konigssee.,2114,93.1,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87494,664872,362,461,Derselbe.,2116,80.0,False,positional,,,Handzeichnungen; Aquarelle,,
-BO0624_87494,664873,363,462,"Domenico Zampieri, 1581-1641. Fahre iber cinen Fluss. Federzeichnung.Br.25,H. 18 cm.",2118,97.5,False,positional,,,Handzeichnungen; Aquarelle,,Sec. XVII
+BO0624_87494,664873,363,462,"Domenico Zampieri, 1581-1641. Fahre iber cinen Fluss. Federzeichnung.Br.25,H. 18 cm.",2118,97.5,False,positional,"DOMENICHINO, ZAMPIERI DOMENICO",,Handzeichnungen; Aquarelle,,Sec. XVII
 BO0624_87494,664874,364,463,"Januarius Zick, 1733-1797. Portrait eines alten Mannes. Tuschzeichnung. H. 12, Br. 10 cm.",2119,97.6,False,positional,ZICK JANUARIUS,,Handzeichnungen; Aquarelle,,Sec. XVIII
 BO0624_87494,664875,365,464,"Derselbe.Die hl. Theresia. Tuschirte Bleistiftzeichnung. Br. 20, H. 18 cm.Bezeichnet.",2120,97.5,False,positional,,,Handzeichnungen; Aquarelle,,
 BO0624_87494,664876,366,465,"A. Zick,moderner Meister.Psyche an der Quelle.",2121,95.7,False,positional,,,Handzeichnungen; Aquarelle,,

@@ -3,9 +3,9 @@ BO0624_84207,60121,1,I,Interieur d’artiste.,22,95.0,False,positional,BIDA,,ARR
 BO0624_84207,60122,2,2,Dahabieh ensable dans le Nil. Toile. Signee et datee : 1877.,30,98.2,False,positional,BELLY,,,,Sec. XIX
 BO0624_84207,60123,3,3,Une Marchande de bijoux a Pompei. 1860,39,90.1,False,positional,BOULANGER,,BIGIOTTERIA,,Sec. XIX
 BO0624_84207,60124,4,4,Diogene jetant sa sebile.,54,96.0,False,positional,DECAMPS,,,,
-BO0624_84207,60125,5,I,"mportant dessin au fusain, rehausse de pastel et de gouache. Signe a gauche, sur une pierre : Decamps et date : 1843.",61,99.5,False,positional,DECAMPS,,,,Sec. XIX
+BO0624_84207,60125,5,I,"mportant dessin au fusain, rehausse de pastel et de gouache. Signe a gauche, sur une pierre : Decamps et date : 1843.",61,99.5,False,none,DECAMPS ALEXANDRE,,,,Sec. XIX
 BO0624_84207,60126,6,1803,1860,72,61.5,False,positional,DECAMPS,Scuola di Dusseldorf,,,Sec. XIX
-BO0624_84207,60127,7,5,Les Catalans pres de Marseille.,74,96.8,False,positional,DECAMPS,,,,
+BO0624_84207,60127,7,5,Les Catalans pres de Marseille.,74,96.8,False,none,,,,,
 BO0624_84207,60128,8,6,Au bord de la mer.,86,94.4,False,positional,DUEZ,,,,
 BO0624_84207,60129,9,8,Portrait de Jeune Femme. avril 1880.),108,78.0,False,positional,JACQUET,,,,Sec. XIX
 BO0624_84207,60130,10,9,Le Tambourinaire.,122,94.1,False,positional,MARCHETTI,,,,
@@ -13,7 +13,7 @@ BO0624_84207,60131,11,10,"Le Garde du palais, epoque Henri III. Aquarelle. Signe
 BO0624_84207,60132,12,12,--Francesca di Rimini.,153,92.7,False,positional,SCHEFFER,,,,
 BO0624_84207,60133,13,13,Le Taureau vainqueur.,169,93.0,False,positional,WERBOECKHOVEN,,,,
 BO0624_84207,60134,14,14,"Homme adosse a un mur, tenant sa canne de la main droite.",175,97.3,False,positional,VILLEGAS,,,,
-BO0624_84207,60135,15,15,Le Lever.,182,84.2,False,positional,VILLEGAS,,,,
+BO0624_84207,60135,15,15,Le Lever.,182,84.2,False,none,,,,,
 BO0624_84207,60136,16,1520,"16—La Vierge a leillet, tenant l'Enfant Jesus; fond de paysage.",196,100.0,False,positional,BLES,,,,
 BO0624_84207,60137,17,1755,1838,210,61.5,False,positional,BILCOQ,,,,Sec. XIX
 BO0624_84207,60138,18,17,Diane.,215,76.9,False,positional,BOUCHER,,,,
@@ -29,22 +29,22 @@ BO0624_84207,60147,27,26,La Presentation au Temple.,297,94.3,False,positional,,E
 BO0624_84207,60148,28,27,Portrait de la Fille du Titien.,304,95.2,False,positional,TIZIANO VECELLIO,ECOLE VENITIENNE,,,
 BO0624_84207,60149,29,28,"Portrait de deux Jeunes Filles representees en buste, vetues de riches costumes. 1778",316,95.1,False,positional,,ECOLE VENITIENNE,,,Sec. XVIII
 BO0624_84207,60150,30,29,—— Les Joueurs de des.,329,92.3,False,positional,EISEN,,,,
-BO0624_84207,60151,31,30,Fruits et Gibiers.,336,91.9,False,positional,EISEN,,,,
+BO0624_84207,60151,31,30,Fruits et Gibiers.,336,91.9,False,none,,,,,
 BO0624_84207,60152,32,31,Les Chanteurs. 1695,349,76.5,False,positional,FYT,,,,Sec. XVII
 BO0624_84207,60153,33,32,Le Coq et la Perle. 16mai1881:,364,73.5,False,positional,HONDEKOETER,,,,
 BO0624_84207,60154,34,33,"Poules, paon et pigeons dans un parc. 1811",378,89.7,False,positional,HONDEKOETER,,,,Sec. XIX
 BO0624_84207,60155,35,34,La Bonne Mere.,389,89.7,False,positional,HUET,,,,
-BO0624_84207,60156,36,9,11 mars 1887.),401,92.3,False,positional,HUET,,,,Sec. XIX
+BO0624_84207,60156,36,9,11 mars 1887.),401,92.3,False,none,,,,,Sec. XIX
 BO0624_84207,60157,37,1619,1690,432,61.5,False,positional,LEBRUN,,,,Sec. XVII
-BO0624_84207,60158,38,37,"Projet, a la gloire d’un Prince de la Maison",434,96.6,False,positional,LEBRUN,,,,
+BO0624_84207,60158,38,37,"Projet, a la gloire d’un Prince de la Maison",434,96.6,False,none,,,,,
 BO0624_84207,60159,39,3,g—La Famille malheureuse. Interieur rustique.,461,70.6,False,positional,PRUD'HON,,ARREDAMENTI,,
 BO0624_84207,60160,40,4,I——Minerve et Thetis.,487,97.4,False,positional,RUBENS,,,,
 BO0624_84207,60161,41,1625,1682,500,61.5,False,positional,RUYSDAEL,,,,Sec. XVII
-BO0624_84207,60162,42,42,—La Grande mare.,502,90.3,False,positional,RUYSDAEL,,,,
+BO0624_84207,60162,42,42,—La Grande mare.,502,90.3,False,none,,,,,
 BO0624_84207,60163,43,43,Jeune Femme pleurant.,516,93.0,False,positional,SUBLEYRAS,,,,
 BO0624_84207,60164,44,44,"Les Danseurs. l est cite dans le Catalogue raisonne de SMITH, vol. III, page 403, no 536. Il a éte expose a 1Institution britannique en 1829.",539,94.5,False,positional,TENIERS LE JEUNE,,,,Sec. XIX
 BO0624_84207,60165,45,45,—Portrait d'une Dame.,546,92.7,False,positional,TOURNIERES,,,,
-BO0624_84207,60166,46,9,16mai1881:,550,90.0,False,positional,TOURNIERES,,,,
+BO0624_84207,60166,46,9,16mai1881:,550,90.0,False,none,,,,,
 BO0624_84207,60167,47,47,—— Le Cavalier au repos.,571,93.0,False,positional,WOUWERMAN,,,,
 BO0624_84207,60168,48,48,"ceramique, simulant la serpentine.",583,95.5,False,positional,,,FAIENCES; PORCELAINES,,
 BO0624_84207,60169,49,49,"— Angleterre. Petit vase, de forme ovoide,a deux anses formees de serpents et piedouche, en faience; decor fond blanc marbre de dorure sur la panse,et fond violet également marbre au col et au pied. Fin du xvinl siecle.",584,99.3,False,positional,,,VASI,,

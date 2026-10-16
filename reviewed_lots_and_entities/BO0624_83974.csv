@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83974,98611,1,2,Une Route dans le Midi.,26,95.7,False,positional,DECAMPS,,,,
-BO0624_83974,98612,2,I,dee premiere de la composition suivante.,28,98.7,False,positional,DECAMPS,,,,
+BO0624_83974,98612,2,I,dee premiere de la composition suivante.,28,98.7,False,none,,,,,
 BO0624_83974,98613,3,5,"PAIRE DE vAsEs ovoides, en ancien celadon blanc craquele de Chine, animaux en leger relief et en bleu.",67,99.0,False,positional,,,VASI,,
 BO0624_83974,98614,4,6,"GRAND PLAT en ancienne e porcelaine de la Compagnie des Indes, decor de grosses fleurs en emaux de couleurs.",71,99.1,False,positional,,,PIATTI,,
 BO0624_83974,98615,5,7,"DeUx GRANDEs couPEs,en ancienne porcelaine de la Compagnie des Indes,decor simulant une fleur de lotus, avec medaillons reserves, charges de branchages,en dorure.A l'interieur, gere de fleurs.",72,99.5,False,positional,,,ARREDAMENTI,,

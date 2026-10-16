@@ -9,8 +9,8 @@ BO0624_81790,23795,7,7,Raffaello (copia da) Sec. XVII).Galatea. Bel disegno alla
 BO0624_81790,23796,8,8,Andrea del Sarto (Scuola di). Sec. XVI. La Vergine col Bambino e. S. Giovannino. Bel dipinto su tavola a colori delicati. Cornice noce lu-,18,99.2,False,title_direct,DEL SARTO ANDREA,Scuola di Andrea del Sarto,Cornici,,Sec. XVI
 BO0624_81790,23797,9,9,"Scuola Veneziana. Sec. XVI. Mose spezza le tavole della legge. Sehizzo a penna,acquarellato. Cornice legno scolpito e dipinto. Alt. cm.16,",20,99.2,False,title_direct,,Scuola Veneziana,Cornici,,Sec. XVI
 BO0624_81790,23798,10,10,Bonifazio Veneziano. Sec. XVI. La Vergine fra Santi. Dipinto su,22,97.5,False,positional,,,Quadri Antichi,,Sec. XVI
-BO0624_81790,23799,11,11,Schiavone Andrea (Scuola di). Sec. XVI. La Pieta. Dipinto su ta-,24,97.4,False,positional,,,Quadri Antichi,,Sec. XVI
-BO0624_81790,23800,12,12,"Schiavone Andrea. (Seuola di) Sec.XVI. Cristo che sorge del Santo Sepolero,circondato da santi. Sehizzo dipinto su tavola. Cornice legno",26,98.9,False,title_direct,,,Cornici,,
+BO0624_81790,23799,11,11,Schiavone Andrea (Scuola di). Sec. XVI. La Pieta. Dipinto su ta-,24,97.4,False,positional,"SCHIAVONE, MELDOLLA ANDREA",,Quadri Antichi,,Sec. XVI
+BO0624_81790,23800,12,12,"Schiavone Andrea. (Seuola di) Sec.XVI. Cristo che sorge del Santo Sepolero,circondato da santi. Sehizzo dipinto su tavola. Cornice legno",26,98.9,False,title_direct,"SCHIAVONE, MELDOLLA ANDREA",,Cornici,,
 BO0624_81790,23801,13,13,Tintoretto (Giacomo Robusti detto il). Sec.XVI. Ritratto di gentiluomo veneziano con manto rosso. Forte dipinto su tela di buon colo-,28,98.8,False,positional,TINTORETTO,,Quadri Antichi,,
 BO0624_81790,23802,14,14,Parmigianino (Francesco Mazzola detto il). Sec. XVI. L'Annun-,30,97.3,False,positional,,,Quadri Antichi,,Sec. XVI
 BO0624_81790,23803,15,15,Mazzola Girolamo. Sec. XVI. La Vergine col Bambino. Sec. XVI.,32,97.3,False,positional,,,Quadri Antichi,,Sec. XVI
@@ -43,7 +43,7 @@ BO0624_81790,23829,41,40,"Carlo Dolci. Sec.XVII. Paride. Bel dipinto su tela, Co
 BO0624_81790,23830,42,41,"Bassano Leandro. Sec.XVII.La Cena in Emmaus.Dipinto su tela con molte figure, interessante e bello. Cornice. Alt. cm. 72, largh. em. 97.",78,98.8,False,title_direct,BASSANO GIACOMO,,Cornici,,
 BO0624_81790,23831,43,42,Morazzone (Pier Francesco Mazzucchelli detto il). Sec. XVHI.,79,97.3,False,positional,,,Quadri Antichi,,
 BO0624_81790,23832,44,43,Lionello Spada. Sec. XVII.Due figure di proflo: un vecchio ed un giovinetto. Dipinto su tavola di forte colorito e tocco vigoroso. Cornice,81,98.9,False,title_direct,,,Cornici,,
-BO0624_81790,23833,45,44,Pannini Francesco. Sec. XVIll.Paesaggio con architettura. Bel di-,83,97.6,False,positional,,,Quadri Antichi,,
+BO0624_81790,23833,45,44,Pannini Francesco. Sec. XVIll.Paesaggio con architettura. Bel di-,83,97.6,False,positional,PANNINI GIOVANNI PAOLO,,Quadri Antichi,,
 BO0624_81790,23834,46,45,Carbone. Sec. XVII. Soggetto allegorico. Sehizzo alla sanguigna. Cor-,85,97.7,False,positional,,,Quadri Antichi,,Sec. XVII
 BO0624_81790,23835,47,46,"Benedetto Castiglione. Sec.XVII. L'assassinio della strega. Sehizzo a penna. Cornice in legno scolpito e dorato. Alt. cm. 20, largh. em.26.",87,98.9,False,title_direct,,,Cornici,,
 BO0624_81790,23836,48,47,Salvator Rosa. Sec. XVIll. Paesaggio con un vulcano. Dipinto su tela,88,97.7,False,positional,ROSA SALVATOR,,Quadri Antichi,,
@@ -100,7 +100,7 @@ BO0624_81790,23886,98,96,"Duplessis Joseph Sifrede.1725-1802.Ritratto del Cardin
 BO0624_81790,23887,99,97,Boucher Francois. 1703-1770. Bacco bambino e putti. Schizzo a,186,97.5,False,positional,BOUCHER FRANCOIS,,Quadri Antichi,,Sec. XVIII
 BO0624_81790,23888,100,98,"Boucher Francois. 1703-1770.Ritratto di giovane gentildonna in costume di Diana.Dipinto ammirevole,affascinante.a colori delicati. Cornice legno seolpito e dorato. Alt.cm.130,larg. cm. 98.",188,99.2,False,title_direct,BOUCHER FRANCOIS,,Cornici,,Sec. XVIII
 BO0624_81790,23889,101,99,"Boucher Francois.1703-1770. Putti astronomi: spondo di paese. Bel dipinto a grisaille, su tavola. Cornice legno nero, Alt. em.22, larghezza cm.58.",189,98.9,False,title_direct,BOUCHER FRANCOIS,,Cornici,,Sec. XVIII
-BO0624_81790,23890,102,100,Federico di Moucheron. Sec.XVIlI. Paesaggio. Bell'aequarello a colori. Cornice in legno dorato.,190,97.8,False,title_direct,,,Cornici,,
+BO0624_81790,23890,102,100,Federico di Moucheron. Sec.XVIlI. Paesaggio. Bell'aequarello a colori. Cornice in legno dorato.,190,97.8,False,title_direct,MOUCHERON FREDERIK,,Cornici,,
 BO0624_81790,23891,103,101,"Grimou Alessio.1680-1740.Idillio. Grazioso dipinto su rame a colori vivi; disegno spigliato e sicuro. Cornice legno scolpito e dorato. Altezza cm.22,larg.cm.16.",191,98.7,False,title_direct,,,Cornici,,Sec. XVIII
 BO0624_81790,23892,104,102,"Mignard Pietro. Sec.XVIlI. Ritratto di giovane dama,in ricco abito ornato di trine.Dipinto su tela di superba bellezza,affascinante per la armonia dei colori, la vivacita dell'espressione,la correttezza del disegno. Un vero capolavoro! Ricca cornice in legno scolpito e dorato.",195,99.3,False,positional,MIGNARD PIERRE,,Quadri Antichi,,
 BO0624_81790,23893,105,103,"Poussin (Gaspare Dughet detto). Sec.XVII. Paesaggi con vignette. Due bellissimi acquarelli. Corniei legno scolpito e dorato. Alt. cm.45,",200,98.4,False,title_direct,"DUGHET GASPARD, POUSSIN",,Cornici,,

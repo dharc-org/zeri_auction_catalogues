@@ -9,19 +9,19 @@ BO0624_87722,515363,7,7,"Halbfigur eines Knaben, welcher einen Krug zum Munde fu
 BO0624_87722,515364,8,8,"Reitergefecht im Vordergrunde einer Landschaft. Leinwand. Links mit dem Namen des Kunstlers bezeichnet. H. 49 cm, B.57 cm. G.R.",36,99.2,False,positional,KAREL BREYDEL,,OGGETTI VARI,,
 BO0624_87722,515365,9,9,"Kavaliere zu Pferde vor einem Erfrischungszelt. Holz. H. 35 cm, B. 28 cm. S.R.",40,98.6,False,positional,C.VAN FALENS,,OGGETTI IN LEGNO,,
 BO0624_87722,515366,10,10,"Junge Furstin in einem Parke sitzend. Sie nimmt Fruchte, welche ihr ein Leinwand.H.38 cm, B.31 cm.G.-R.",44,98.5,False,positional,C. NETSCHER,,,,
-BO0624_87722,515367,11,2,Mohr prasentiert.,45,94.1,False,positional,C. NETSCHER,,,,
+BO0624_87722,515367,11,2,Mohr prasentiert.,45,94.1,False,none,,,,,
 BO0624_87722,515368,12,1,'11,51,66.7,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_87722,515369,13,1703,1762.,56,61.5,False,positional,CHRISTOPH JANNECK,,,,Sec. XVIII
-BO0624_87722,515370,14,13,lLot mit seinen Tochtern in der Hohle.,58,96.1,False,positional,CHRISTOPH JANNECK,,,,
-BO0624_87722,515371,15,14,"Gegenstucke. Sehr fein gemalte Bildchen auf Kupfer. H. 27 cm, B. 21 cm. S.R.",60,97.9,False,positional,CHRISTOPH JANNECK,,OGGETTI IN RAME,,
-BO0624_87722,515372,16,15,"Brustbild eines bartigen Greises mit kahler Stirn. Leinwand.H.48 cm,B.35 cm.Gerahmt.",64,98.2,False,positional,CHRISTOPH JANNECK,,,,
+BO0624_87722,515370,14,13,lLot mit seinen Tochtern in der Hohle.,58,96.1,False,none,,,,,
+BO0624_87722,515371,15,14,"Gegenstucke. Sehr fein gemalte Bildchen auf Kupfer. H. 27 cm, B. 21 cm. S.R.",60,97.9,False,none,,,OGGETTI IN RAME,,
+BO0624_87722,515372,16,15,"Brustbild eines bartigen Greises mit kahler Stirn. Leinwand.H.48 cm,B.35 cm.Gerahmt.",64,98.2,False,none,,,,,
 BO0624_87722,515373,17,16,"Brustbild eines Persers mit Pelzmutze und Pelzkragen. Um den Hals tragt der Dargestellte eine goldene Kette. Feines Bildchen auf Leinwand. Von G.F.Schmidt radiert. H.31 cm, B.25 cm. G.R. Aus dem Nachlasse des Kupferstechers Georg Friedrich Schmidt stammend.",69,82.4,False,positional,REMBRANDT,,,,
 BO0624_87722,515374,18,17,Partie am Canal Grande in Venedig. Gondeln belebt.,74,97.0,False,positional,A.CANAL,,,,
 BO0624_87722,515375,19,19,"Niederlandisches Interieur. Im Vordergrunde vier rauchende und trinkende Bauern in lebhafter Unterhaltung. Reizendes Bildchen auf Holz mit dem Namen des Ostade bezeichnet. H. 25 cm, B. 29 cm.S.R.",85,99.2,False,positional,A. v. OSTADE,,ARREDAMENTI,,
 BO0624_87722,515376,20,20,"Ein Trinker umarmt eine Frau, welche lachend vor einem Tische sitzt. Auf letzterem ein brennendes Licht.",89,98.5,False,positional,J.v. CRAESBEECK,,,,
 BO0624_87722,515377,21,21,"21. Haibfigur der Madonna in dunklem Mantel, welche das Christuskind im Arme halt. Auf Goldgrund. Interessantes Bild auf",97,90.3,False,positional,,ALTDEUTSCHE SCHULE,,,
-BO0624_87722,515378,22,22,22.Portrat des P.P.Rubens.,101,63.3,False,positional,RUBENS PETER PAUL,ALTDEUTSCHE SCHULE,,,
-BO0624_87722,515379,23,23,Interieur mit Laute spielender Frau. Nach F.v. Mieris.,102,97.1,False,positional,,ALTDEUTSCHE SCHULE,ARREDAMENTI,,
+BO0624_87722,515378,22,22,22.Portrat des P.P.Rubens.,101,63.3,False,none,RUBENS PETER PAUL,Scuola di Rubens,,,
+BO0624_87722,515379,23,23,Interieur mit Laute spielender Frau. Nach F.v. Mieris.,102,97.1,False,none,FRANS VAN MIERIS,,ARREDAMENTI,,
 BO0624_87722,515380,24,24,"Das Brustbild des Prinzen Heinrich von PreuBen in Brustharnisch. Leinwand. H. 77 cm, B.57 cm.G.R.mit Krone.",107,98.6,False,positional,ANT.PESNE,,,,
 BO0624_87722,515381,25,25,Eigenportrat des Malers in Halbfigur vor einer Staffelei. Links auf einem Tische Bucher.,111,98.3,False,positional,C.F. HOSENFELDER,,,,
 BO0624_87722,515382,26,26,"Afrikanische Landschaft mit zerstreut liegender Ansiedelung. Im Vordergrunde Neger, einen Tanz auffuhrend. Leinwand, signiert. H.81 cm, B. 130 cm. S.R.",117,68.2,False,positional,F. POST,,,,
@@ -38,7 +38,7 @@ BO0624_87722,515392,36,37,"Lager am Ufer eines Flusses. Im Mittelgrunde eine Sta
 BO0624_87722,515393,37,38,Blick auf eine befestigte Hafenstadt. Im Vordergrunde mehrere Fahrzeuge auf bewegter See.,175,98.3,False,positional,BONAVENTURA PEETERS,,,,
 BO0624_87722,515394,38,39,"Halbfigur Konig Ludwigs XVI. von Frankreich. Die Rechte stutzt sich auf das Lilienzepter, die Linke hat den Federhut gefaBt. Im Hintergrunde blauer Vor- hang mit Gold-Ornamenten.",183,91.3,False,positional,,FRANZOSISCHE SCHULE,OGGETTI IN ORO,,
 BO0624_87722,515395,39,40,Aibum enthaltend 23 Aquarelle und Zeichnungen von P. Molyn u. a. Dabei Wertvolle Kollektion.,190,98.3,False,positional,P. A. MOLYN,,,,
-BO0624_87722,515396,40,2,ganz vorzugliche Blatter.,191,96.0,False,positional,P. A. MOLYN,,,,
+BO0624_87722,515396,40,2,ganz vorzugliche Blatter.,191,96.0,False,none,,,,,
 BO0624_87722,515397,41,42,"Venus und Amor in einer Landschaft. Sehr fein gemaltes Bildchen auf Kupfer. H. 14 cm,B. 10 cm. S.R.",195,98.4,False,positional,CARRACCI,,OGGETTI IN RAME,,
 BO0624_87722,515398,42,43,"Landschaft mit Aquadukt. Im Vordergrunde links verfallene Hauser. Ruhende Landleute als Staffage. Gutes Bild auf Holz. H.58 cm,B.91 cm.G.-R.",201,98.9,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_87722,515399,43,44,"Die heilige Magdalena in Reue. Halbfigur mit landschaftlichem Hintergrund. Leinwand.H.93 cm, B.73 cm.S.R.",205,98.5,False,positional,P.P. RUBENS,,,,
@@ -47,7 +47,7 @@ BO0624_87722,515401,45,46,In einer Steinkartouche die heilige Jungfrau das Chris
 BO0624_87722,515402,46,47,Kniestuck des Berliner Bankiers David Splitgerber. Vor seinem Arbeitstische in einem Lehnstuhle sitzend.,225,98.6,False,positional,J. M. FALBE,Scuola di Berlino,SCOMPARTI,,
 BO0624_87722,515403,47,48,"Brustbild eines jungeren Mannes mit Schnurrbartchen und schwarzem Barett auf dem vollen dunklen Haar. Leinwand.H.47 cm,B.37 cm.G.-R.",231,98.9,False,positional,REMBRANDT v. RIJN,,,,
 BO0624_87722,515404,48,49,Im Vordergrunde einer Landschaft eine Henne und junge Enten.,237,97.5,False,positional,M. d'HONDECOETER,,,,
-BO0624_87722,515405,49,50,Henne mit Kuchlein im Vordergrunde einer Landschaft. Gegenstucke. 1754.,238,94.0,False,positional,M. d'HONDECOETER,,,,Sec. XVIII
+BO0624_87722,515405,49,50,Henne mit Kuchlein im Vordergrunde einer Landschaft. Gegenstucke. 1754.,238,94.0,False,none,,,,,Sec. XVIII
 BO0624_87722,515406,50,51,Die funf Sinne durch Amorettenszenen dargestellt: 1666.,246,92.3,False,positional,JAN de WIT,,,,Sec. XVII
 BO0624_87722,515407,51,52,"Stillleben. Fruchte verschiedener Art, zwei gefullte Weinglaser, gekochte Krabbenetc. Gutes Bild auf Holz. In der Mitte unten mit dem Namen des Kunstlers bezeichnet. H. 40 cm, B.60cm.S.R. 1683.",264,97.8,False,positional,JACOB van ES,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87722,515408,52,53,Landschaft mit groBen Baumen und Blick auf einen fernen Felsenberg. Als 1657.,271,94.6,False,positional,J.d'ARTHOIS,,,,Sec. XVII
@@ -56,27 +56,27 @@ BO0624_87722,515410,54,55,"Christus am Kreuz zwischen den beiden Schachern. Am F
 BO0624_87722,515411,55,56,"Der verlorene Sohn. Er sitzt rechts zwischen zwei Frauen am Stamme eines Baumes. Links Liebespaare an einer mit Speisen besetzten Tafel. Im Hintergrunde die Wirtin, welche ankreidet. Vorzugliches Bild des Meisters mit dessen Monogramm und der Jahreszahl 1638 (Sterbejahr) versehen.",298,99.5,False,positional,CORNELIS CORNELISZ van HAARLEM,,,,Sec. XVII
 BO0624_87722,515412,56,57,"Die Madonna mit dem Kinde, welch' letzteres von einem Bischof verehrt wird. Leinwand. H.122 cm,B.89 cm.S.R.",304,98.6,False,positional,J. de ROSSI,,,,
 BO0624_87722,515413,57,58,"Kleines AItarchen mit zwei Flugeln. Die Madonna mit dem Kinde, St. Katharina und St. Barbara. Totalgrosse: H.14 cm,B.18 cm.G.R,",308,98.8,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_87722,515414,58,59,"Eine Nonne mit zum Gebet gefalteten Handen, vor ihr ein geoffnetes Buch. Interessantes Bildchen auf Holz. H. 33 cm, B.15 cm.G.-R.",309,71.8,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_87722,515415,59,60,"Auf einem Postamente steht ein Korb mit Gartenblumen der verschiedensten Fein gemaltes Bild, auf Leinwand. H. 53 cm, B.71 cm.G.R.",311,98.8,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI VARI,,
-BO0624_87722,515416,60,5,Art.,312,75.0,False,positional,VOLTZ FRIEDRICH JOHANN,NIEDERLANDISCHE SCHULE,,,
+BO0624_87722,515414,58,59,"Eine Nonne mit zum Gebet gefalteten Handen, vor ihr ein geoffnetes Buch. Interessantes Bildchen auf Holz. H. 33 cm, B.15 cm.G.-R.",309,71.8,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87722,515415,59,60,"Auf einem Postamente steht ein Korb mit Gartenblumen der verschiedensten Fein gemaltes Bild, auf Leinwand. H. 53 cm, B.71 cm.G.R.",311,98.8,False,none,,,OGGETTI VARI,,
+BO0624_87722,515416,60,5,Art.,312,75.0,False,none,VOLTZ FRIEDRICH JOHANN,Scuola di Waldmuller,,,
 BO0624_87722,515417,61,1606,1683.,317,61.5,False,positional,J.D. de HEEM,,,,Sec. XVII
-BO0624_87722,515418,62,61,"Stilleben. Auf einem Tische ein Korb mit Fruchten, ein halbgefulter Romer, gekochter Hummer etc. Holz. Sehr fein in der Farbe und Ausfuhrung. H.44 cm, Br.63 cm.G.R. Siehe Reproduktion",319,99.2,False,positional,J.D. de HEEM,,OGGETTI IN LEGNO,,
+BO0624_87722,515418,62,61,"Stilleben. Auf einem Tische ein Korb mit Fruchten, ein halbgefulter Romer, gekochter Hummer etc. Holz. Sehr fein in der Farbe und Ausfuhrung. H.44 cm, Br.63 cm.G.R. Siehe Reproduktion",319,99.2,False,none,,,OGGETTI IN LEGNO,,
 BO0624_87722,515419,63,62,Ansicht eines Palastes mit reicher Saulenarchitektur. Vornehme Gesellschaft,323,98.0,False,positional,P. PATEL,,,,
 BO0624_87722,515420,64,63,"Ein junges Madchen hat eine reich skulptierte Vase mit Blumen gefaBt, welche auf einem Postament steht.",328,83.8,False,positional,JAN VICTORS,,VASI,,
 BO0624_87722,515421,65,64,"Landschaft mit Blick auf Dorf an einem Flusse.Im Vordergrunde Baume am Rande eines Fahrweges. Zahlreiche Personen und Tiere als Staffage. Holz. Das Bild ist im rechten Vordergrunde signiert: (J. Coert 1611?) H.73 cm, B. 124 cm. S.R.",338,80.9,False,positional,,NIEDERLANDISCHER KUNSTLER,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87722,515422,66,65,"Stilleben mit Erd- und Himmelsglobus, aufgeschlagenen Folianten, getriebenem",345,98.0,False,positional,A.BERNARDT,,,,
-BO0624_87722,515423,67,66,"Stilleben mit Erd- und Himmelsglobus, aufgeschlagenen Folianten, Taschenuhr etc. Ebenso, mit dem vollen Namen des Kunstlers. Holz. H. 87 cm, B. 115 cm. S.R. 1813.",346,97.3,False,positional,A.BERNARDT,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_87722,515423,67,66,"Stilleben mit Erd- und Himmelsglobus, aufgeschlagenen Folianten, Taschenuhr etc. Ebenso, mit dem vollen Namen des Kunstlers. Holz. H. 87 cm, B. 115 cm. S.R. 1813.",346,97.3,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_87722,515424,68,67,Die Frau des Kupferstechers Chodowiecki. Brustbild in schwarzem Kleid und grauem Schleier.,354,98.3,False,positional,ANTON GRAFF,,,,
 BO0624_87722,515425,69,68,"Die Madonna, das Kind auf dem SchoBe haltend. Links ein Engelskopfchen. Leinwand. H.26 cm, B. 19 cm.Reich skulptierter G.R. 1770.",361,96.7,False,positional,G. B. TIEPOLO,,,,Sec. XVIII
 BO0624_87722,515426,70,69,Inneres eines niederlandischen Wirtshauses. Im Vordergrunde rauchende und trinkende Bauern um einen Tisch versammelt.,369,98.7,False,positional,D. TENIERS,,,,
 BO0624_87722,515427,71,70,Sturm einer Armee auf eine Stadt an einem Flusse. Im Mittelgrunde Citadelle 1690.,373,94.9,False,positional,A.FRANS v. d. MEULEN,,,,Sec. XVII
-BO0624_87722,515428,72,71,"Schlacht in der Nahe des Meeres, welches am Horizonte sichtbar wird. Ganz",379,97.9,False,positional,A.FRANS v. d. MEULEN,,,,
+BO0624_87722,515428,72,71,"Schlacht in der Nahe des Meeres, welches am Horizonte sichtbar wird. Ganz",379,97.9,False,none,,,,,
 BO0624_87722,515429,73,72,Brustbild einer Patrizierin mit weiBer Haube und Muhisteinkragen.,387,97.7,False,positional,,ALTDEUTSCHE SCHULE,,,
-BO0624_87722,515430,74,73,"Brustbild eines Gelehrten mit kurzem Vollbart. Schwarze Kleidung. Holz. H.32 cm, B.24 cm. G.R. Siehe Reproduktion auf Tafel XVI.",388,98.8,False,positional,,ALTDEUTSCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_87722,515431,75,3,"Holz.Interessantes Bild. H.39 cm, B.27 cm. S.R. Siehe Reproduktion auf Tafel XIl.",389,98.7,False,positional,,ALTDEUTSCHE SCHULE,OGGETTI IN LEGNO,,
+BO0624_87722,515430,74,73,"Brustbild eines Gelehrten mit kurzem Vollbart. Schwarze Kleidung. Holz. H.32 cm, B.24 cm. G.R. Siehe Reproduktion auf Tafel XVI.",388,98.8,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87722,515431,75,3,"Holz.Interessantes Bild. H.39 cm, B.27 cm. S.R. Siehe Reproduktion auf Tafel XIl.",389,98.7,False,none,,,OGGETTI IN LEGNO,,
 BO0624_87722,515432,76,1683,1757.,393,61.5,False,positional,ANTOINE PESNE,,,,Sec. XVIII
-BO0624_87722,515433,77,74,"Das Eigenportrat des Kunstlers. Brustbild in halber Wendung nach links in dunkelblauem Rock und Allongeperricke. Prachtiges Portrat des Meisters aus dem Nachlasse des Kupferstechers Georg Friedrich Schmidt. Leinwand.H.76 cm,B.66 cm.G.-R.Siehe Reproduktion auf Tafel I.",396,73.4,False,positional,ANTOINE PESNE,,,,
-BO0624_87722,515434,78,75,Das Portrat des Kupferstechers Georg Friedrich Schmidt. Brustbild in blauem,397,98.0,False,positional,ANTOINE PESNE,,,,
+BO0624_87722,515433,77,74,"Das Eigenportrat des Kunstlers. Brustbild in halber Wendung nach links in dunkelblauem Rock und Allongeperricke. Prachtiges Portrat des Meisters aus dem Nachlasse des Kupferstechers Georg Friedrich Schmidt. Leinwand.H.76 cm,B.66 cm.G.-R.Siehe Reproduktion auf Tafel I.",396,73.4,False,none,,,,,
+BO0624_87722,515434,78,75,Das Portrat des Kupferstechers Georg Friedrich Schmidt. Brustbild in blauem,397,98.0,False,none,,,,,
 BO0624_87722,515435,79,76,FluB mit felsigen Ufern bei sturmischem Wetter. Wanderer als Staffage.,407,97.8,False,positional,NICOLAS POUSSIN,,,,
 BO0624_87722,515436,80,77,Konig Eduard von England in Palastina verwundet. Seine Gemahlin saugt das Gift aus der Wunde. 1688.,418,95.8,False,positional,A. GERARD v.REINERTZENS,,,,Sec. XVII
 BO0624_87722,515437,81,78,Vor der Sintflut. Um eine mit Fruchten und Wein besetzte Tafel eine Gesell schaft von schmausenden und musizierenden Mannern und Weibern. Im Hinter- 1698.,426,97.3,False,positional,CORNELIS CORNELISZ van HAARLEM,,,,Sec. XVII
@@ -84,18 +84,18 @@ BO0624_87722,515438,82,79,"Marktplatz. Im Vordergrunde Obst-und Geflugelverkaufe
 BO0624_87722,515439,83,80,"Soldaten im Lager. An einem Flusse sind die Lagerzelte aufgeschlagen, und mehrere Gruppen von Soldaten haben sich neben diesen hingestreckt.",440,98.9,False,positional,GEORG PHILIPP RUGENDAS,,OGGETTI VARI,,
 BO0624_87722,515440,84,81,"Das Urteil des Paris. Paris unter einem Baume sitzend mustert, den Apfel in 1654.",446,94.8,False,positional,HENDRIK van BALEN,,,,Sec. XVII
 BO0624_87722,515441,85,82,"Brustbild eines jungen Mannes mit groBem Hut und breiter gefalteter Halskrause. Vorzugliches Portrat auf Leinwand. H. 45 cm, B.37 cm. S.R.",454,98.9,False,positional,KAREL FABRITIUS,,,,
-BO0624_87722,515442,86,2,"Siehe Reproduktion auf Tafel XIl,",455,97.0,False,positional,KAREL FABRITIUS,,,,
+BO0624_87722,515442,86,2,"Siehe Reproduktion auf Tafel XIl,",455,97.0,False,none,,,,,
 BO0624_87722,515443,87,82,"a. Mehrere Fregatten auf ruhiger See in der Nahe einer niederlandischen Hafenstadt. Hubsches Bild auf Leinewand. Rechts auf einer Planke signiert. H.50 cm, B. 70 cm. G.R. 1652.",459,97.9,False,positional,A.SCKOMAKER,,,,Sec. XVII
 BO0624_87722,515444,88,83,"Interieur mit schmausenden und trinkenden Bauern an einem Kamin. Hubsches Bildchen auf Holz. H.24 cm, B.29 cm.G.R. Siehe Reproduktion auf Tafel VII.",466,99.0,False,positional,P. de BLOOT,,ARREDAMENTI,,
 BO0624_87722,515445,89,84,"Brustbild eines bartigen Mannes mit kurz geschorenem Haar, sowie Schnurr-",472,97.9,False,positional,C. de vos,,,,
-BO0624_87722,515446,90,2,"und Knebelbart. Schones Portrat mit Altersbezeichnung und Monogramm.Leinwand. H.55 cm, B.44 cm. S. R,",473,99.0,False,positional,C. de vos,,,,
-BO0624_87722,515447,91,3,Siehe Reproduktion auf Tafel XV.,474,96.9,False,positional,C. de vos,,,,
-BO0624_87722,515448,92,85,"Portrat einer Dame in schwarzer Kleidung und Muhlsteinkragen. Leinwand. Mit Altersbezeichnung und Monogramm. H. 55 cm,B. 44 cm. S.R. Siehe Reproduktion auf Tafel XIV. 1673.",475,97.5,False,positional,C. de vos,,,,Sec. XVII
+BO0624_87722,515446,90,2,"und Knebelbart. Schones Portrat mit Altersbezeichnung und Monogramm.Leinwand. H.55 cm, B.44 cm. S. R,",473,99.0,False,none,,,,,
+BO0624_87722,515447,91,3,Siehe Reproduktion auf Tafel XV.,474,96.9,False,none,,,,,
+BO0624_87722,515448,92,85,"Portrat einer Dame in schwarzer Kleidung und Muhlsteinkragen. Leinwand. Mit Altersbezeichnung und Monogramm. H. 55 cm,B. 44 cm. S.R. Siehe Reproduktion auf Tafel XIV. 1673.",475,97.5,False,none,,,,,Sec. XVII
 BO0624_87722,515449,93,86,"Landschaft mit Hausern auf einem Felsen. Zwei Hirten mit ihrer Herde an einem Bache. Feines Bildchen.Leinwand. H.27 cm,B.36 cm.S.R. 1648.",481,96.9,False,positional,SALVATOR ROSA,,,,Sec. XVII
 BO0624_87722,515450,94,87,"Die heil. Jungfrau mit dem Kinde in einer Gebirgslandschaft ruhend. Sehr feines Bildchen, auf eine runde Holzplatte gemalt. Diam.:23 cm. G.R.",488,67.6,False,positional,SIMONE da PESARO,,,,
 BO0624_87722,515451,95,88,"Der kleine Johannes, das Kreuz in der Linken durch eine Landschaft gehend. Links das Lamm. Ganz vorzuglich in der Farbe. Holz. H.30 cm, B.27 cm.G.-R.",492,98.9,False,positional,ANTONIO ALLEGRI,,OGGETTI IN LEGNO,,
 BO0624_87722,515452,96,89,"Haibfigur einer vornehmen Dame in reichem goldgestickten Kostum und prachtigem Spitzenkragen, die Rechte halt ein Buch, die Linke stutzt sich auf die Tischkante.",498,99.1,False,positional,,FLAMIISCHE SCHULE,,,
-BO0624_87722,515453,97,2,"Um den Hals tragt die Dargestellte eine goldene Schmuckkette. Portrat von hervorragender Schonheit. Auch in kostumlicher Beziehung sehr interessant. Leinwand. H.109 cm, B.93 cm. Siehe Reproduktion auf Tafel VIl.",499,99.5,False,positional,HALS DIRK,FLAMIISCHE SCHULE,,,
+BO0624_87722,515453,97,2,"Um den Hals tragt die Dargestellte eine goldene Schmuckkette. Portrat von hervorragender Schonheit. Auch in kostumlicher Beziehung sehr interessant. Leinwand. H.109 cm, B.93 cm. Siehe Reproduktion auf Tafel VIl.",499,99.5,False,none,HALS DIRK,,,,
 BO0624_87722,515454,98,1683,1757.,510,61.5,False,positional,ANTOINE PESNE,,,,Sec. XVIII
 BO0624_87722,515455,99,92,"Das Urteil Salomonis. Rechts der Konig auf einem Throne von Raten umgeben, als Mittelgruppe die beiden Mutter sowie der Henker mit erhobenem Schwert und links zuschauendes Volk. 1733.",516,97.8,False,positional,TH. BOYERMANS,,,,Sec. XVIII
 BO0624_87722,515456,100,93,"Am Ufer eines Flusses, anscheinend die Donau bei Belgrad, Gefecht zwischen Osterreichischer und turkischer Reiterei. Am jenseitigen Ufer Gebaude. Feines Bild auf Leinwand mit dem Monogramm auf einer im Wasser schwimmenden Planke.",528,99.3,False,positional,JAN van HUCHTENBURGH,,,,
@@ -103,56 +103,56 @@ BO0624_87722,515457,101,94,"Partie bei Tivoli. Links Wasserfall mit dem Sibyllen
 BO0624_87722,515458,102,95,"Interieur mit Magistratspersonen an einem Tische. Arme Leute, von rechts",539,97.9,False,positional,G. THOMAS,,ARREDAMENTI,,
 BO0624_87722,515459,103,96,"Landschaft mit groBen Baumen im Vordergrunde. Links FluB mit felsigen Das Portrat des Kupferstechers Schmidt in jungeren Jahren, halb nach links gewendet mit rotem Barett. Leinwand.H.64 cm,B.54 cm.S.R.",551,78.7,False,positional,J. SONJE,,,,
 BO0624_87722,515460,104,97,"Triptychon. In der Mitte Christus am Kreuz, Maria und St. Johannes. Auf dem linken Flugel: Die Geburt Christi, ein Pilger und ein Donator. Auf dem rechten Flugel: Die Auferstehung Christi, ein Bischof und die Donatorin.Auf dem linken Flugel aussen: St. Bartholomaus.",564,99.4,False,positional,,ALT-NIEDERLANDISCH,COPPE,,
-BO0624_87722,515461,105,98,"Die heilige Jungfrau, St. Anna, St. Agnes und ein Apostel in ganzen Figuren stehend.Rechts knieende Donatorin.",568,98.6,False,positional,,ALT-NIEDERLANDISCH,,,
-BO0624_87722,515462,106,I,"nteressantes Bild auf Holz.H.23 cm, B.51 cm.S.R.",570,98.9,False,positional,,ALT-NIEDERLANDISCH,OGGETTI IN LEGNO,,
+BO0624_87722,515461,105,98,"Die heilige Jungfrau, St. Anna, St. Agnes und ein Apostel in ganzen Figuren stehend.Rechts knieende Donatorin.",568,98.6,False,none,,,,,
+BO0624_87722,515462,106,I,"nteressantes Bild auf Holz.H.23 cm, B.51 cm.S.R.",570,98.9,False,none,,,OGGETTI IN LEGNO,,
 BO0624_87722,515463,107,1578,1651.,574,61.5,False,positional,MATTEO ROSELLI,,,,Sec. XVII
-BO0624_87722,515464,108,99,"Das Mirakel des heil. Paulus. Der Heilige in rotem Mantel rechts stehend heit einen kranken Jungling, welcher ihm von seinen Angehorigen gebracht wird. Dabei das Portrat des Malers.",576,99.2,False,positional,MATTEO ROSELLI,,,,
+BO0624_87722,515464,108,99,"Das Mirakel des heil. Paulus. Der Heilige in rotem Mantel rechts stehend heit einen kranken Jungling, welcher ihm von seinen Angehorigen gebracht wird. Dabei das Portrat des Malers.",576,99.2,False,none,,,,,
 BO0624_87722,515465,109,100,"GroBe Landschaft mit Fahrweg, dessen linke Seite mit groben Baumen ein-",582,97.2,False,positional,JACOB RUISDAEL,,,,
-BO0624_87722,515466,110,2,"gefaBt ist. Im Hintergrunde eine Stadt, als Staffage ein Verdeckwagen.",583,98.5,False,positional,JACOB RUISDAEL,,,,
-BO0624_87722,515467,111,3,"Ganz vorzuglich in der Wirkung. Holz, monogrammiert. H. 76 cm, B. 110 cm. G.R. Siehe Reproduktion auf Tafel IX.",584,99.0,False,positional,JACOB RUISDAEL,,OGGETTI IN LEGNO,,
+BO0624_87722,515466,110,2,"gefaBt ist. Im Hintergrunde eine Stadt, als Staffage ein Verdeckwagen.",583,98.5,False,none,,,,,
+BO0624_87722,515467,111,3,"Ganz vorzuglich in der Wirkung. Holz, monogrammiert. H. 76 cm, B. 110 cm. G.R. Siehe Reproduktion auf Tafel IX.",584,99.0,False,none,,,OGGETTI IN LEGNO,,
 BO0624_87722,515468,112,1682,1759.,588,61.5,False,positional,J.HOREMANS,,,,Sec. XVIII
-BO0624_87722,515469,113,101,"In dem Hofe eines niederlandischen Wirtshauses trinkende, rauchende und Kegel spielende Gaste. Rechts an der Tur ein Leiermann. Schones Bild auf Leinwand. Mit Signatur. H.64 cm, B.77 cm. G.R. Siehe Reproduktion 1723.",590,97.8,False,positional,J.HOREMANS,,,,Sec. XVIII
+BO0624_87722,515469,113,101,"In dem Hofe eines niederlandischen Wirtshauses trinkende, rauchende und Kegel spielende Gaste. Rechts an der Tur ein Leiermann. Schones Bild auf Leinwand. Mit Signatur. H.64 cm, B.77 cm. G.R. Siehe Reproduktion 1723.",590,97.8,False,none,,,,,Sec. XVIII
 BO0624_87722,515470,114,102,"Familienszene. Im Vordergrunde einer Parklandschaft vornehmer Mann in braunem Kostum, neben ihm seine Gemahlin in weifem Atlaskleid, welche ihr",598,98.6,False,positional,SIR GODFREY KNELLER,,,,
-BO0624_87722,515471,115,2,"jungstes Kind im Arme halt. Links ein Knabe mit Fruchten. Prachtiges Gemalde des beruhmten Portrat-Malers. Leinwand. H. 166 cm, B.149 cm. G.R.",599,99.3,False,positional,SIR GODFREY KNELLER,,,,
+BO0624_87722,515471,115,2,"jungstes Kind im Arme halt. Links ein Knabe mit Fruchten. Prachtiges Gemalde des beruhmten Portrat-Malers. Leinwand. H. 166 cm, B.149 cm. G.R.",599,99.3,False,none,,,,,
 BO0624_87722,515472,116,1605,1691.,606,61.5,False,positional,AALBERT CUIJP,,,,Sec. XVII
-BO0624_87722,515473,117,103,"Auf einem Tische totes Wild, wobei ein Schwan auf dem Rucken liegend. Rechts von der Wand herabhangend Geflugel. Junger Jager einen Hasen haltend wird im Hintergrunde sichtbar.",608,98.9,False,positional,AALBERT CUIJP,,,,
+BO0624_87722,515473,117,103,"Auf einem Tische totes Wild, wobei ein Schwan auf dem Rucken liegend. Rechts von der Wand herabhangend Geflugel. Junger Jager einen Hasen haltend wird im Hintergrunde sichtbar.",608,98.9,False,none,,,,,
 BO0624_87722,515474,118,104,Die heilige Jungfrau betrauert den Leichnam Christi.,614,96.2,False,positional,A. v. DYCK,,,,
-BO0624_87722,515475,119,105,Die heilige Jungfrau den Leichnam Christi auf dem SchoBe haltend.,618,97.0,False,positional,A. v. DYCK,,,,
+BO0624_87722,515475,119,105,Die heilige Jungfrau den Leichnam Christi auf dem SchoBe haltend.,618,97.0,False,none,,,,,
 BO0624_87722,515476,120,106,Brustbild der Margarete von Valois in schwarzer Taille und weiBer Spitzenhaube. Am Hals eine doppelte Goldkette. 1544.,624,96.1,False,positional,FRANCOIS CLOUET,,,,Sec. XVI
 BO0624_87722,515477,121,107,"Maria und Joseph das Christuskind, welches zwischen ihnen am Boden liegt, kniend anbetend. Dahinter der Stall mit Ochs und Esel, in der Ferne eine Landschaft. Prachtvolles Bild. Leinwand. Rund.Diam.:142 cm.G.R. Siehe Reproduktion auf Tafel VI. 1695.",632,98.1,False,positional,GIOV. ANTONIO SOGLIANI,,,,Sec. XVII
 BO0624_87722,515478,122,108,Konigin Sophie Charlotte von PreuBen in blauer ausgeschnittener Taille und,638,97.4,False,positional,PIERRE MIGNARD,,,,
-BO0624_87722,515479,123,2,"Prachtiges Portrat. Vorzuglich in der Farbe. Leinwand, oval. H.72 cm, B.57 cm. Alter G.-R. Siehe Reproduktion auf Tafel X.",639,99.1,False,positional,PIERRE MIGNARD,,,,
-BO0624_87722,515480,124,3,rotem Ueberwurf.,640,93.8,False,positional,PIERRE MIGNARD,,,,
+BO0624_87722,515479,123,2,"Prachtiges Portrat. Vorzuglich in der Farbe. Leinwand, oval. H.72 cm, B.57 cm. Alter G.-R. Siehe Reproduktion auf Tafel X.",639,99.1,False,none,,,,,
+BO0624_87722,515480,124,3,rotem Ueberwurf.,640,93.8,False,none,,,,,
 BO0624_87722,515481,125,109,GroBe baumreiche Landschaft. Im Vordergrunde Hirten mit ihrer Herde an,644,97.2,False,positional,NICOLAAS BERCHEM,,,,
-BO0624_87722,515482,126,2,"einem Bach. Abendstimmung. Leinwand.H.103 cm,B.116 cm.G.R.",645,98.2,False,positional,NICOLAAS BERCHEM,,,,
+BO0624_87722,515482,126,2,"einem Bach. Abendstimmung. Leinwand.H.103 cm,B.116 cm.G.R.",645,98.2,False,none,,,,,
 BO0624_87722,515483,127,1644,1736.,649,61.5,False,positional,ET. ALLEGRAIN,,,,Sec. XVIII
-BO0624_87722,515484,128,110,"Partie bei Tivoli mit Blick auf Sibyllentempel und Wasserfall. Zwei Personen als Staffage. Leinwand. H.90 cm, B.117 cm.G.-R. 1659.",651,96.3,False,positional,ET. ALLEGRAIN,,,,Sec. XVII
+BO0624_87722,515484,128,110,"Partie bei Tivoli mit Blick auf Sibyllentempel und Wasserfall. Zwei Personen als Staffage. Leinwand. H.90 cm, B.117 cm.G.-R. 1659.",651,96.3,False,none,,,,,Sec. XVII
 BO0624_87722,515485,129,111,"Abraham und Lot trennen sich mit ihren Familien und Herden.Im Vorder- grunde eine junge Mutter mit ihren Kindern, rechts im Hintergrunde das Gefolge. Schones Bild mit lebensgroBen Figuren. Leinwand. H. 150 cm, B.200 cm.G.R.",661,81.0,False,positional,B.BREENBERGH,,,,
 BO0624_87722,515486,130,112,"Felspartie an der englischen Kuste mit brandendem Meer. Gut gemaltes Bild auf Holz. H. 36 cm, B.46 cm.S.R.",667,67.9,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_87722,515487,131,113,"Vor einem Wirtshaus in einer niederlandischen DorfstraBe findet eine Bauernbelustigung statt. Ganz links ein Tisch mit Schmausenden. Leinwand. Mit dem Monogramm des Kunstlers. H. 51 cm, B.72 cm. G.R. Siehe Reproduktion auf Tafel XIV.",672,99.1,False,positional,DAVID TENIERS,,,,
 BO0624_87722,515488,132,114,"Ein Kriegslager. Szene vor einem Zelte. Ein Offizier ist im Begriff, einen Schimmel zu besteigen. Rechts Frucht- und Gemusehandlerinnen. Leinwand, signiert. H. 88 cm, B.75 cm. S.R. Siehe Reproduktion auf Tafel VII. 1758.",676,97.8,False,positional,P.van BLOEMEN,,,,Sec. XVIII
 BO0624_87722,515489,133,115,"Halbfigur einer jungen Dame in roter Sammettaille und weiBem Ueberwurf. Leinwand, oval. H.85 cm, B.66 cm.G.R.",682,78.7,False,positional,J. VOLLEVENS,,,,
 BO0624_87722,515490,134,116,"In einer Cartouche Halbfigur der heil. Jungfrau, welche das Christuskind im",687,97.3,False,positional,H.v. BALEN,,,,
-BO0624_87722,515491,135,2,Arme halt. Unten eine von A.Brueghel gemalte Blumengirlande.,688,98.3,False,positional,H.v. BALEN,,,,
+BO0624_87722,515491,135,2,Arme halt. Unten eine von A.Brueghel gemalte Blumengirlande.,688,98.3,False,none,BRUEGEL,,,,
 BO0624_87722,515492,136,1705,1765.,694,61.5,False,positional,CHARLES van LOO,,,,Sec. XVIII
-BO0624_87722,515493,137,117,"Franz der Erste, romischer Kaiser, in ganzer Figur. Er tragt ein reich gesticktes Hofkleid mit dem Orden des goldenen Vlieses. Links auf einem Tische Krone,",696,98.7,False,positional,CHARLES van LOO,,DECORAZIONI DA PARETE,,
-BO0624_87722,515494,138,2,"Reichsapfel und Hermelinmantel. Portrat von hervorragender Schonheit. H. 220 cm, B. 125 cm. S.R. Siehe Reproduktion auf Tafel II.",697,99.2,False,positional,CHARLES van LOO,,,,
+BO0624_87722,515493,137,117,"Franz der Erste, romischer Kaiser, in ganzer Figur. Er tragt ein reich gesticktes Hofkleid mit dem Orden des goldenen Vlieses. Links auf einem Tische Krone,",696,98.7,False,none,,,DECORAZIONI DA PARETE,,
+BO0624_87722,515494,138,2,"Reichsapfel und Hermelinmantel. Portrat von hervorragender Schonheit. H. 220 cm, B. 125 cm. S.R. Siehe Reproduktion auf Tafel II.",697,99.2,False,none,,,,,
 BO0624_87722,515495,139,1705,1767.,702,61.5,False,positional,CHARLES van LOO,,,,Sec. XVIII
-BO0624_87722,515496,140,118,"Maria Theresia, die Gemahlin des vorher beschriebenen, in ausgeschnittenem Atlaskleid und Purpurmantel. Die Rechte halt das Szepter. Ebenso schon. Gegenstuck zu vorhergehendem Bilde. H.220 cm, B.114 cm. S.R. Siehe",705,78.3,False,positional,CHARLES van LOO,,,,
+BO0624_87722,515496,140,118,"Maria Theresia, die Gemahlin des vorher beschriebenen, in ausgeschnittenem Atlaskleid und Purpurmantel. Die Rechte halt das Szepter. Ebenso schon. Gegenstuck zu vorhergehendem Bilde. H.220 cm, B.114 cm. S.R. Siehe",705,78.3,False,none,,,,,
 BO0624_87722,515497,141,119,"Huftbild einer jungen Dame in roter Taille mit Spitzenbesatz. Hubsches Bildchen auf Holz.H.30 cm,B.24 cm.S.R",713,70.2,False,positional,G. COQUES,,OGGETTI IN LEGNO,,
 BO0624_87722,515498,142,120,"Der Leichnam Christi am FuB des Kreuzes von den Seinigen betrauert. Fein gemaltes Bildchen auf Holz. H. 41 cm, B. 26 cm. Brauner R.",718,68.0,False,positional,B. TISI,,OGGETTI IN LEGNO,,
 BO0624_87722,515499,143,121,Kardinal Richelieu. Brustbild in rotem Ornat.,723,95.6,False,positional,PH. DE CHAMPAGNE,,,,
-BO0624_87722,515500,144,2,"Feines Bildchen auf einer ovalen Kupferplatte. H. 20 cm, B. 15. S.R.",724,98.4,False,positional,PH. DE CHAMPAGNE,,,,
+BO0624_87722,515500,144,2,"Feines Bildchen auf einer ovalen Kupferplatte. H. 20 cm, B. 15. S.R.",724,98.4,False,none,,,,,
 BO0624_87722,515501,145,1633,1702.,728,61.5,False,positional,J.DE BAEN,,,,Sec. XVIII
-BO0624_87722,515502,146,122,"Brustbild eines Mannes mit Henriquatre in schwarzer Kleidung.Rechts oben ein Wappen und die Inschrift: Lus de Tranefeld Anno 1653, aetat. 43. Leinwand. H.84 cm, B.69 cm.S.R.",730,89.3,False,positional,J.DE BAEN,,,,Sec. XVII
+BO0624_87722,515502,146,122,"Brustbild eines Mannes mit Henriquatre in schwarzer Kleidung.Rechts oben ein Wappen und die Inschrift: Lus de Tranefeld Anno 1653, aetat. 43. Leinwand. H.84 cm, B.69 cm.S.R.",730,89.3,False,none,,,,,Sec. XVII
 BO0624_87722,515503,147,123,"Brustbild eines Mannes mit spitzem Hut und auf die Schultern herabfallendem Lockenhaar. Feines Bildchen auf Holz. H. 18 cm, B. 15 cm. G.R. 1661",735,96.7,False,positional,TER BORCH,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87722,515504,148,124,Stilleben mit totem Hasen und verschiedenem Geflugel. Rechts ein Wache,741,97.2,False,positional,JAN FIJT,,,,
 BO0624_87722,515505,149,125,"GroBe Landschaft mit reichem Baumwuchs, Wasser und Gebauden. Eine Barenjagd als Staffage. Sehr gutes Bild auf Leinwand.H.100 cm, B.125 cm.G.-R. 1607.",749,96.8,False,positional,,NIEDERLANDISCHE SCHULE,,,Sec. XVII
 BO0624_87722,515506,150,126,"Gebirgslandschaft mit Gebauden. Im Vordergrunde bei einer Brucke, welche einen Bach uberspannt, die heil. Familie auf der Wanderschaft ruhend. Auch sonst noch staffiert. Sehr schones Bild auf Holz.H.81 cm,B.119 cm.G.R. 1795.",756,97.9,False,positional,G.v.CONINXLOO,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_87722,515507,151,127,"Entwurf zu einem Plafond. Genien und Amoretten auf Wolken. Leinwand.H.70 cm,B.54 cm.G.-R",762,97.7,False,positional,G. D. TIEPOLO,,,,
-BO0624_87722,515508,152,128,"Stilleben. Weintrauben, Birnen und Kirschen auf einem Postament. Kupfer.H.15 cm, B.22 cm.S.R.",768,79.7,False,positional,G. D. TIEPOLO,,OGGETTI IN RAME,,
+BO0624_87722,515508,152,128,"Stilleben. Weintrauben, Birnen und Kirschen auf einem Postament. Kupfer.H.15 cm, B.22 cm.S.R.",768,79.7,False,none,,,OGGETTI IN RAME,,
 BO0624_87722,515509,153,129,"Huftbild einer jungen Furstin in blauer ausgeschnittener Taille und lila UberLeinwand.H.74 cm,B.55 cm.G.R. wurf.",775,95.9,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_87722,515510,154,130,"Haibfigur eines Mannes in rotem Rock und Allonge-Perucke. Leinwand.H.78 cm,B.60 cm.G.-R.",777,97.7,False,positional,,DEUTSCHE SCHULE,,,
+BO0624_87722,515510,154,130,"Haibfigur eines Mannes in rotem Rock und Allonge-Perucke. Leinwand.H.78 cm,B.60 cm.G.-R.",777,97.7,False,none,,,,,
 BO0624_87722,515511,155,131,"Halbfigur eines lachenden Schafers mit roter Mutze und Schaferstab. Gut gemaltes Bild auf Leinwand. H. 71 cm, B. 51 cm. S.R.",781,70.6,False,positional,NICOLAAS MAES,,,,
 BO0624_87722,515512,156,132,"Interieur. Der Tod holt einen Wucherer. Feines Bildchen auf Kupfer. H.22 cm, B. 17 cm. G.-R.",786,97.7,False,positional,FRANCKEN,,ARREDAMENTI,,
 BO0624_87722,515513,157,133,"Kopf eines schlafenden Junglings. Fein gemaltes Bildchen auf Holz. H. 13 cm, B.9 cm.S.R.",790,97.6,False,positional,H.MEMLING,,OGGETTI IN LEGNO,,
@@ -160,25 +160,25 @@ BO0624_87722,515514,158,134,"Ein Bauer mit einer AIten an einem Tische sitzend u
 BO0624_87722,515515,159,135,"Die heilige Jungfrau in rotem Mantel, das Christuskind auf dem SchoBe haltend. Auf Goldgrund. Holz.H.66 cm,B.49 cm.S.R.",799,77.9,False,positional,J. METSU,,OGGETTI IN LEGNO,,
 BO0624_87722,515516,160,136,"Stilleben mit toten Fischen, Hummer und Korb mit Fruchten. Leinwand. Rechts signiert. H.79 cm, B.108 cm. S.R.",804,98.1,False,positional,A. ADRIAENSSEN,,,,
 BO0624_87722,515517,161,137,"Die Auffindung Mosis. Rechts von ihren Frauen umgeben die Konigstochter,",808,97.2,False,positional,N. POUSSIN,,,,
-BO0624_87722,515518,162,2,welche den in einem Korbe schwimmenden Mosesknaben bemerkt.,809,98.3,False,positional,N. POUSSIN,,,,
-BO0624_87722,515519,163,3,"GroBe figurenreiche Komposition auf Leinwand. H.170 cm, B.245 cm.G.R.",810,98.5,False,positional,N. POUSSIN,,,,
+BO0624_87722,515518,162,2,welche den in einem Korbe schwimmenden Mosesknaben bemerkt.,809,98.3,False,none,,,,,
+BO0624_87722,515519,163,3,"GroBe figurenreiche Komposition auf Leinwand. H.170 cm, B.245 cm.G.R.",810,98.5,False,none,,,,,
 BO0624_87722,515520,164,138,"DorfstraBe mit zahlreichen Figuren und Tieren staffiert. Leinwand auf Holz.H.26 cm, B.38 cm.S.R.",814,72.4,False,positional,J.BREUGHEL,,OGGETTI IN LEGNO,,
 BO0624_87722,515521,165,139,"Die Darstellung Christi im Tempel. Auf Kupfer.H.22 cm, B.16 cm.G.R.",819,97.0,False,positional,FRANCKEN,,OGGETTI IN RAME,,
 BO0624_87722,515522,166,140,"Halbfigur der Madonna mit dem Kinde. Auf Goldgrund. Ho1z.H.20 cm, B.14 cm.S.R. 1744.",823,94.3,False,positional,,RUSSISCHE SCHULE,,,Sec. XVIII
 BO0624_87722,515523,167,141,"Darstellung einer Schlacht. Im Vordergrunde Reitergefecht. Holz.H.38 cm,B.42cm.S.R",829,97.6,False,positional,C. BREYDEL,,OGGETTI IN LEGNO,,
 BO0624_87722,515524,168,142,"Im Vordergrunde einer Landschaft unter Baumen sitzt Amor, welcher eine Eule",836,97.4,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_87722,515525,169,143,Huftbild eines jungen Mannes in Allongeperucke und reicher goldgestickter,840,97.3,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_87722,515526,170,144,Landschaft mit Blick auf die hohen Ufer eines Stromes. Im Vordergrunde unter groBen Baumen Manner zu FuB und zu Pferd.,849,98.3,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_87722,515527,171,145,145. Zwei Landschaften mit Wasser und Staffage.,857,95.7,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_87722,515528,172,146,146.,859,0.0,False,positional,,NIEDERLANDISCHE SCHULE,,,
+BO0624_87722,515525,169,143,Huftbild eines jungen Mannes in Allongeperucke und reicher goldgestickter,840,97.3,False,none,,,,,
+BO0624_87722,515526,170,144,Landschaft mit Blick auf die hohen Ufer eines Stromes. Im Vordergrunde unter groBen Baumen Manner zu FuB und zu Pferd.,849,98.3,False,none,,,,,
+BO0624_87722,515527,171,145,145. Zwei Landschaften mit Wasser und Staffage.,857,95.7,False,none,,,,,
+BO0624_87722,515528,172,146,146.,859,0.0,False,none,,,,,
 BO0624_87722,515529,173,147,"Brustbild enier Dame in schwarzer Taille, Spitzenkragen und Perlenschmuck. Blumen im blonden Haar. Leinwand.H.76 cm,B.63 cm.G.-R",865,98.4,False,positional,A. van DYCK,,,,
 BO0624_87722,515530,174,148,"Die Madonna mit dem Christuskinde, St.Johannes, St.Katharina und zwei Engeln. Im Hintergrunde Landschaft. Gutes Bild auf Holz.H.41 cm,B. 49 cm.G.R. 1707.",871,96.9,False,positional,,VENETIANISCHER MEISTER,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_87722,515531,175,149,Marine. Auf ruhiger See unweit einer hollandischen Hafenstadt mehrere,877,97.1,False,positional,W.v. de VELDE,,,,
 BO0624_87722,515532,176,150,"Die heilige Jungfrau mit dem Kinde, welches in einer Wiege ruht. Leinwand.H.55 cm,B.45 cm.G.-R.",883,79.0,False,positional,GUIDO RENI,,,,
 BO0624_87722,515533,177,151,"Ein Greis in seiner Zelle sitzend, liest in einem Folianten.",888,96.7,False,positional,G. van den EECKHOUT,,,,
 BO0624_87722,515534,178,152,Weibliches Brustbild mit Spitzenhaube und Muhlsteinkragen.,894,96.6,False,positional,MIEREVELT,,,,
-BO0624_87722,515535,179,2,"Leinwand. H.65 cm,B.48 cm.S.R.mit Schildpattimitation.",895,98.1,False,positional,MIEREVELT,,,,
-BO0624_87722,515536,180,3,Fischerboote.,896,92.3,False,positional,MIEREVELT,,,,
+BO0624_87722,515535,179,2,"Leinwand. H.65 cm,B.48 cm.S.R.mit Schildpattimitation.",895,98.1,False,none,,,,,
+BO0624_87722,515536,180,3,Fischerboote.,896,92.3,False,none,,,,,
 BO0624_87722,515537,181,153,Weibliches Brustbild mit Spitzenkragen.,901,95.0,False,positional,van DYCK,,,,
 BO0624_87722,515538,182,154,"Die agyptische Konigstochter, auf einer Erderhohung sitzend, empfangt den Mosesknaben, welcher von einer Dienerin gebracht wird.",907,71.4,False,positional,G. FLINCK,,,,
 BO0624_87722,515539,183,155,"Ein Geigenspieler, welcher ein Glas Wein emporhalt. Leinwand. H. 71 cm,B.55 cm.S.R.",914,97.5,False,positional,A.BROUWER,,,,
@@ -192,10 +192,10 @@ BO0624_87722,515546,190,162,"Ecce homo. Leinwand auf Holz.H.34 cm, B.27 cm.G.R."
 BO0624_87722,515547,191,163,"Zwei Kinder, nebeneinander sitzend. In ovaler Einfassung.",956,96.4,False,positional,,ENGLISCHE SCHULE,,,
 BO0624_87722,515548,192,164,Winterlandschaft mit Blick auf eine Steinbrucke. Reich staffiert.,962,96.9,False,positional,,NIEDERLANDISCHER KUNSTLER,,,
 BO0624_87722,515549,193,165,"Christus am Kreuz. Zu beiden Seiten Maria, St.Johannes und St. Magdalena. Holz.H.47cm,B.33 cm.S.R.",968,97.9,False,positional,,ALT-NIEDERLANDISCH,OGGETTI IN LEGNO,,
-BO0624_87722,515550,194,166,Kopf einer Dame mit gepudertem Haar und Perlenkollier.,972,96.4,False,positional,,ALT-NIEDERLANDISCH,,,
-BO0624_87722,515551,195,167,Hafenpartie mit Badenden.,976,92.3,False,positional,,ALT-NIEDERLANDISCH,,,
-BO0624_87722,515552,196,168,Kustenpartie mit Staffage.,977,92.6,False,positional,,ALT-NIEDERLANDISCH,,,
-BO0624_87722,515553,197,169,"Brustbild eines bartigen Mannes mit pelzverbramtem Rock. Holz.H.36cm,B.29 cm.S.R,",983,97.5,False,positional,,ALT-NIEDERLANDISCH,OGGETTI IN LEGNO,,
-BO0624_87722,515554,198,170,"AItes O1bild, angeb. Willmanns. .Das Martyrium eines Heiligen",984,96.6,False,positional,,ALT-NIEDERLANDISCH,,,
-BO0624_87722,515555,199,171,Desgleichen. Das heil. Abendmahl.,985,93.8,False,positional,,ALT-NIEDERLANDISCH,,,
-BO0624_87722,515556,200,172,Desgleichen. Der Erzengel Michael.,986,94.1,False,positional,,ALT-NIEDERLANDISCH,,,
+BO0624_87722,515550,194,166,Kopf einer Dame mit gepudertem Haar und Perlenkollier.,972,96.4,False,none,,,,,
+BO0624_87722,515551,195,167,Hafenpartie mit Badenden.,976,92.3,False,none,,,,,
+BO0624_87722,515552,196,168,Kustenpartie mit Staffage.,977,92.6,False,none,,,,,
+BO0624_87722,515553,197,169,"Brustbild eines bartigen Mannes mit pelzverbramtem Rock. Holz.H.36cm,B.29 cm.S.R,",983,97.5,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87722,515554,198,170,"AItes O1bild, angeb. Willmanns. .Das Martyrium eines Heiligen",984,96.6,False,none,,,,,
+BO0624_87722,515555,199,171,Desgleichen. Das heil. Abendmahl.,985,93.8,False,none,,,,,
+BO0624_87722,515556,200,172,Desgleichen. Der Erzengel Michael.,986,94.1,False,none,,,,,

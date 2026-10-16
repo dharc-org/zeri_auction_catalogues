@@ -2,39 +2,39 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_87944,381168,1,3,"| Grossvater mit Enkeln. Sepia 18,5/14,5 Bezeichnet:Baume.                                            |",11,98.2,False,positional,,,Gemalde,,
 BO0624_87944,381169,2,5,| Flusslandschaft mit Fischer. Holz 34/49 Bezeichnet:Karl Ben.                                        |,13,98.3,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_87944,381170,3,6,"| Waldteich mit Badenden. Bezeichnet: Bonfils.                                                | Holz 22/25,5   |",16,98.2,False,positional,Louise BONFILS,,OGGETTI IN LEGNO,,
-BO0624_87944,381171,4,8,"| Dorfstrasse mit Staffage.                                                                   | Holz 21,5/32,5 |",19,97.5,False,positional,Louise BONFILS,,OGGETTI IN LEGNO,,
-BO0624_87944,381172,5,9,| Winter im Walde mit Holzhauern. Bezeichnet: FL.(Monogramm).                                 | Leinw.24/33    |,20,98.5,False,positional,Louise BONFILS,,,,
-BO0624_87944,381173,6,10,"| Pierre Charles C0MTE, 1823-1895, Paris. Romeo und Julia. Bezeichnet : P. C.                 | Holz 26/17     |",21,98.1,False,positional,Louise BONFILS,,OGGETTI IN LEGNO,,Sec. XIX
-BO0624_87944,381174,7,11,"| J.B. C. COROT.(Angeblich Jugendarbeit.) Bauernhof.                                          | Leinw. 32/39,5 |",22,97.5,False,positional,Louise BONFILS,,,,
-BO0624_87944,381175,8,12,"| Waldweg. Bezeichnet: Cuny.                                                                  | Holz 27/20,5   |",23,96.0,False,positional,Louise BONFILS,,OGGETTI IN LEGNO,,
-BO0624_87944,381176,9,13,"| A. DANNEQUIN, Paris. Waldausgang. Bezeichnet: A. Dannequin.                                 | Holz 3224      |",24,97.6,False,positional,Louise BONFILS,,OGGETTI IN LEGNO,,
-BO0624_87944,381177,10,15,| Fischer bei Auvers s'Oise. Bezeichnet: Daubigny.                                            | Holz 23/40     |,26,97.4,False,positional,Louise BONFILS,,OGGETTI IN LEGNO,,
-BO0624_87944,381178,11,17,| Landschaft mit Wasser und Hausern. Leinw.32/41 Bezeichnet : H. C. D.    |,30,97.6,False,positional,Louise BONFILS,,,,
-BO0624_87944,381179,12,18,"| Bauernhaus am Wasser. Leinw.24/32,5 Bezeichnet:Deshayes.                |",32,97.3,False,positional,Louise BONFILS,,,,
-BO0624_87944,381180,13,18,| Waldwasser. Leinw.24/45                                                 |,34,93.6,False,positional,Louise BONFILS,,,,
-BO0624_87944,381181,14,20,"| Strassenansicht mit maurischen Hausern. Holz 38,5/26 Bezeichnct: Diego. |",36,97.8,False,positional,Louise BONFILS,,OGGETTI IN LEGNO,,
-BO0624_87944,381182,15,21,"| Landschaft mit Dorf und Geholz. Holz 20,5/27                            |",37,96.6,False,positional,Louise BONFILS,,OGGETTI IN LEGNO,,
-BO0624_87944,381183,16,22,| Bricke im Walde. Leinw.41/32                                            |,39,94.7,False,positional,Louise BONFILS,,,,
-BO0624_87944,381184,17,23,"| Damenportrat mit kleinem Hund. Holz 34/23,5 Bezeichnet: Garrido.        |",41,97.6,False,positional,Louise BONFILS,,OGGETTI IN LEGNO,,
-BO0624_87944,381185,18,24,"| Infanterist. Aquarell 16,5/9 Bereichnet: Monogramm P. G.                |",43,97.2,False,positional,Louise BONFILS,,,,
-BO0624_87944,381186,19,25,| 5Landschaft mit Staffage. Metall 22/26 Bezeichnet: Gillot.              |,45,97.3,False,positional,Louise BONFILS,,OGGETTI IN METALLO,,
-BO0624_87944,381187,20,28,"| Henri HARPIGNIES, geb. 1819, Valenciennes. Karton 13,5/20 Landschaftsstudie.                                   |",49,97.9,False,positional,Louise BONFILS,,,,Sec. XIX
-BO0624_87944,381188,21,29,"| Leinw.38/29,5 Strasse in einem alten Stadtchen. Bezeichnet: HERVIER.                                           |",50,97.7,False,positional,Louise BONFILS,,,,
-BO0624_87944,381189,22,30,"| Charles Emile JACQUE, 1813—1894, Paris. Holz 21,5/36 Dorfstrasse. Bezeichnet: Ch.Jacque.                       |",51,98.2,False,positional,Louise BONFILS,,OGGETTI IN LEGNO,,Sec. XIX
-BO0624_87944,381190,23,31,| Mondscheinlandschaft mit Wasser. Leinw.34/45                                                                   |,53,96.6,False,positional,Louise BONFILS,,,,
-BO0624_87944,381191,24,32,"| Pierre Eugene LAC0STE, geb. 1815,Paris. Kentauren rauben Nymphen. Leinw. 33/43 Bezeichnet:Eugene Lacoste 1866. |",54,98.6,False,positional,Louise BONFILS,,,,Sec. XIX
-BO0624_87944,381192,25,33,"| Felsenlandschaft mit grosser Eiche. Leinw.43,5/30 Bezeichnet:G.L.76.                                           |",55,97.8,False,positional,Louise BONFILS,,,,
-BO0624_87944,381193,26,34,"| Felix Hippolyte LAN0UE, 1812-1872.Ivry. Flusslandschaft mit grossen Baumen. Leinw.40/65                        |",56,98.2,False,positional,Louise BONFILS,,,,Sec. XIX
+BO0624_87944,381171,4,8,"| Dorfstrasse mit Staffage.                                                                   | Holz 21,5/32,5 |",19,97.5,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87944,381172,5,9,| Winter im Walde mit Holzhauern. Bezeichnet: FL.(Monogramm).                                 | Leinw.24/33    |,20,98.5,False,none,,,,,
+BO0624_87944,381173,6,10,"| Pierre Charles C0MTE, 1823-1895, Paris. Romeo und Julia. Bezeichnet : P. C.                 | Holz 26/17     |",21,98.1,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_87944,381174,7,11,"| J.B. C. COROT.(Angeblich Jugendarbeit.) Bauernhof.                                          | Leinw. 32/39,5 |",22,97.5,False,none,COROT JEAN-BAPTISTE-CAMILLE,,,,
+BO0624_87944,381175,8,12,"| Waldweg. Bezeichnet: Cuny.                                                                  | Holz 27/20,5   |",23,96.0,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87944,381176,9,13,"| A. DANNEQUIN, Paris. Waldausgang. Bezeichnet: A. Dannequin.                                 | Holz 3224      |",24,97.6,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87944,381177,10,15,| Fischer bei Auvers s'Oise. Bezeichnet: Daubigny.                                            | Holz 23/40     |,26,97.4,False,none,DAUBIGNY C. FRANCOIS,,OGGETTI IN LEGNO,,
+BO0624_87944,381178,11,17,| Landschaft mit Wasser und Hausern. Leinw.32/41 Bezeichnet : H. C. D.    |,30,97.6,False,none,,,,,
+BO0624_87944,381179,12,18,"| Bauernhaus am Wasser. Leinw.24/32,5 Bezeichnet:Deshayes.                |",32,97.3,False,none,,,,,
+BO0624_87944,381180,13,18,| Waldwasser. Leinw.24/45                                                 |,34,93.6,False,none,,,,,
+BO0624_87944,381181,14,20,"| Strassenansicht mit maurischen Hausern. Holz 38,5/26 Bezeichnct: Diego. |",36,97.8,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87944,381182,15,21,"| Landschaft mit Dorf und Geholz. Holz 20,5/27                            |",37,96.6,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87944,381183,16,22,| Bricke im Walde. Leinw.41/32                                            |,39,94.7,False,none,,,,,
+BO0624_87944,381184,17,23,"| Damenportrat mit kleinem Hund. Holz 34/23,5 Bezeichnet: Garrido.        |",41,97.6,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87944,381185,18,24,"| Infanterist. Aquarell 16,5/9 Bereichnet: Monogramm P. G.                |",43,97.2,False,none,,,,,
+BO0624_87944,381186,19,25,| 5Landschaft mit Staffage. Metall 22/26 Bezeichnet: Gillot.              |,45,97.3,False,none,,,OGGETTI IN METALLO,,
+BO0624_87944,381187,20,28,"| Henri HARPIGNIES, geb. 1819, Valenciennes. Karton 13,5/20 Landschaftsstudie.                                   |",49,97.9,False,none,HARPIGNIES HENRI,,,,Sec. XIX
+BO0624_87944,381188,21,29,"| Leinw.38/29,5 Strasse in einem alten Stadtchen. Bezeichnet: HERVIER.                                           |",50,97.7,False,none,,,,,
+BO0624_87944,381189,22,30,"| Charles Emile JACQUE, 1813—1894, Paris. Holz 21,5/36 Dorfstrasse. Bezeichnet: Ch.Jacque.                       |",51,98.2,False,none,JACQUE,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_87944,381190,23,31,| Mondscheinlandschaft mit Wasser. Leinw.34/45                                                                   |,53,96.6,False,none,,,,,
+BO0624_87944,381191,24,32,"| Pierre Eugene LAC0STE, geb. 1815,Paris. Kentauren rauben Nymphen. Leinw. 33/43 Bezeichnet:Eugene Lacoste 1866. |",54,98.6,False,none,,,,,Sec. XIX
+BO0624_87944,381192,25,33,"| Felsenlandschaft mit grosser Eiche. Leinw.43,5/30 Bezeichnet:G.L.76.                                           |",55,97.8,False,none,,,,,
+BO0624_87944,381193,26,34,"| Felix Hippolyte LAN0UE, 1812-1872.Ivry. Flusslandschaft mit grossen Baumen. Leinw.40/65                        |",56,98.2,False,none,,,,,Sec. XIX
 BO0624_87944,381194,27,35,"| Marine an der Kiste. Bezeichnet:Lepine.                                                           | Leinw.20,5/28                                         |",59,97.1,False,positional,G.LEPINE,,,,
-BO0624_87944,381195,28,36,| Desgl. bei Etretat mit Fischerbooten. Bezeichnet:G.Lepine.                                        | Leinw.24/19                                           |,61,97.8,False,positional,G.LEPINE,,,,
-BO0624_87944,381196,29,38,| Die Seine in Paris. Bezeichnet:A.Madl..                                                           | Leinw.38/61                                           |,64,97.0,False,positional,G.LEPINE,,,,
-BO0624_87944,381197,30,40,| Auf der Weide.                                                                                    | Holz 33/45                                            |,67,94.1,False,positional,G.LEPINE,,OGGETTI IN LEGNO,,
-BO0624_87944,381198,31,41,"| Flusslandschaft mit Kirche. Bezeichnet:C.Mazeau 1856.                                             | Leinw.0val 24,5/32                                    |",68,97.9,False,positional,G.LEPINE,,,,Sec. XIX
-BO0624_87944,381199,32,42,| Meister um die Mitte des 19. Jahrhunderts. Landschaft. Bezeichnung unleserlich:Paris 1851.        | Holz 37/56                                            |,69,98.5,False,positional,G.LEPINE,,OGGETTI IN LEGNO,,Sec. XIX
-BO0624_87944,381200,33,43,"| P. MENESTRIER, Paris. Die Durance und Blick auf das Gebirge. Bezeichnet:P.Menestrier.             | Holz 24,5/35                                          |",70,98.4,False,positional,G.LEPINE,,OGGETTI IN LEGNO,,
-BO0624_87944,381201,34,44,"| Leon Germain PEL0uSE, 1845-1891,Pierrelaye. Landschaftsstudie mit Wasser und Brucke. Karton 33/25 |                                                       |",71,98.4,False,positional,G.LEPINE,,,,Sec. XIX
-BO0624_87944,381202,35,45,"| Baumlandschaft mit Wasser.                                                 | Leinw.32,5/40  |",74,96.3,False,positional,G.LEPINE,,,,
-BO0624_87944,381203,36,48,| 8 Landschaft mit grossem Baum und ruhendem Wanderer.                       | Leinw.3224     |,78,97.6,False,positional,G.LEPINE,,,,
-BO0624_87944,381204,37,49,| Dorfansicht.                                                               | Holz 18/25     |,79,93.6,False,positional,G.LEPINE,,OGGETTI IN LEGNO,,
-BO0624_87944,381205,38,51,"| Theodore VALERI0, 1819-1879, Vichy. Marine. Ruhige See am Strande.         | Leinw.27/36    |",82,98.0,False,positional,G.LEPINE,,,,Sec. XIX
-BO0624_87944,381206,39,52,"| E. VALLEE, Paris. Landschaft mit Baumen und Wasser. Bezeichnet:Et. Vallee. | Leinw.17/32    |",83,98.2,False,positional,G.LEPINE,,,,
+BO0624_87944,381195,28,36,| Desgl. bei Etretat mit Fischerbooten. Bezeichnet:G.Lepine.                                        | Leinw.24/19                                           |,61,97.8,False,none,LEPINE STANISLAS,,,,
+BO0624_87944,381196,29,38,| Die Seine in Paris. Bezeichnet:A.Madl..                                                           | Leinw.38/61                                           |,64,97.0,False,none,,,,,
+BO0624_87944,381197,30,40,| Auf der Weide.                                                                                    | Holz 33/45                                            |,67,94.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87944,381198,31,41,"| Flusslandschaft mit Kirche. Bezeichnet:C.Mazeau 1856.                                             | Leinw.0val 24,5/32                                    |",68,97.9,False,none,,,,,Sec. XIX
+BO0624_87944,381199,32,42,| Meister um die Mitte des 19. Jahrhunderts. Landschaft. Bezeichnung unleserlich:Paris 1851.        | Holz 37/56                                            |,69,98.5,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_87944,381200,33,43,"| P. MENESTRIER, Paris. Die Durance und Blick auf das Gebirge. Bezeichnet:P.Menestrier.             | Holz 24,5/35                                          |",70,98.4,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87944,381201,34,44,"| Leon Germain PEL0uSE, 1845-1891,Pierrelaye. Landschaftsstudie mit Wasser und Brucke. Karton 33/25 |                                                       |",71,98.4,False,none,,,,,Sec. XIX
+BO0624_87944,381202,35,45,"| Baumlandschaft mit Wasser.                                                 | Leinw.32,5/40  |",74,96.3,False,none,,,,,
+BO0624_87944,381203,36,48,| 8 Landschaft mit grossem Baum und ruhendem Wanderer.                       | Leinw.3224     |,78,97.6,False,none,,,,,
+BO0624_87944,381204,37,49,| Dorfansicht.                                                               | Holz 18/25     |,79,93.6,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87944,381205,38,51,"| Theodore VALERI0, 1819-1879, Vichy. Marine. Ruhige See am Strande.         | Leinw.27/36    |",82,98.0,False,none,,,,,Sec. XIX
+BO0624_87944,381206,39,52,"| E. VALLEE, Paris. Landschaft mit Baumen und Wasser. Bezeichnet:Et. Vallee. | Leinw.17/32    |",83,98.2,False,none,,,,,

@@ -1,11 +1,11 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88399,216761,1,2,"Adam, Albrecht, Schlachtenmaler, geb. 1786 in Nordlingen, gest. 1862 in Munchen.",7,98.6,False,title_direct,"Adam, J.",,,,Sec. XVIII
-BO0624_88399,216762,2,3,Agricola.,19,88.9,False,positional,"Adam, J.",,,,
-BO0624_88399,216763,3,4,"4.Albani, Franzesco, geb.1578 in Bologna, gest. 1660 daselbst. Nach einer Freske von Raffael, der Triumph der Galathea.",25,100.0,False,positional,"Adam, J.",Scuola Bolognese,,,Sec. XVI
-BO0624_88399,216764,4,5,## 5.Derselbe.,29,100.0,False,positional,"Adam, J.",,,,
-BO0624_88399,216765,5,6,## 6. Derselbe.,35,100.0,False,positional,"Adam, J.",,,,
-BO0624_88399,216766,6,7,"Albuzzi, Roma, 1846 gemalt. talienerin mit rotem Mieder, welche eine Taube futtert.",43,81.8,False,positional,"Adam, J.",,,,Sec. XIX
-BO0624_88399,216767,7,8,"Allori, Alessandro, genannt A.Bronzino, geb.1535 in Florenz, gest. 1607 daselbst.",47,98.7,False,positional,"Adam, J.",,,,Sec. XVI
+BO0624_88399,216762,2,3,Agricola.,19,88.9,False,none,,,,,
+BO0624_88399,216763,3,4,"4.Albani, Franzesco, geb.1578 in Bologna, gest. 1660 daselbst. Nach einer Freske von Raffael, der Triumph der Galathea.",25,100.0,False,none,,Scuola Bolognese,,,Sec. XVI
+BO0624_88399,216764,4,5,## 5.Derselbe.,29,100.0,False,none,,,,,
+BO0624_88399,216765,5,6,## 6. Derselbe.,35,100.0,False,none,,,,,
+BO0624_88399,216766,6,7,"Albuzzi, Roma, 1846 gemalt. talienerin mit rotem Mieder, welche eine Taube futtert.",43,81.8,False,none,,,,,Sec. XIX
+BO0624_88399,216767,7,8,"Allori, Alessandro, genannt A.Bronzino, geb.1535 in Florenz, gest. 1607 daselbst.",47,98.7,False,none,"BRONZINO, AGNOLO DI COSIMO",,,,Sec. XVI
 BO0624_88399,216768,8,2000,8000,59,100.0,False,positional,,,Oelgemalde; Aquarelle,,
 BO0624_88399,216769,9,10000,1200,63,100.0,False,positional,,,Oelgemalde; Aquarelle,,Sec. XIII
 BO0624_88399,216770,10,5000,5000,65,100.0,False,positional,,,Oelgemalde; Aquarelle,,
@@ -42,405 +42,405 @@ BO0624_88399,216800,40,1050,3200,231,100.0,False,positional,,,Oelgemalde; Aquare
 BO0624_88399,216801,41,1360,#0,240,50.0,False,positional,TASSAERT OCTAVE,,Oelgemalde; Aquarelle,,
 BO0624_88399,216802,42,40,0,242,50.0,False,positional,TASSAERT OCTAVE,,Oelgemalde; Aquarelle,,
 BO0624_88399,216803,43,26,"Cignani, Carlo, Graf, geb.1628 in Bologna, gest. 1719 in Forli. Europa auf dem Stiere sitzend.",256,98.3,False,positional,Catalani,Scuola Bolognese,,,Sec. XVII
-BO0624_88399,216804,44,27,"Class-Altenburg, August Hermann.",260,95.2,False,positional,Catalani,,,,
-BO0624_88399,216805,45,28,"Closs, Gustav Paul, geb. 1840 in Stutgart, gest. 1870 in Prien am Chiemsee.",266,97.9,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216806,46,29,"29. Deininger, Karl Franz, geb. 1845 in Bamberg.",272,100.0,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216807,47,30,## 30. Derselbe.,278,100.0,False,positional,Catalani,,,,
-BO0624_88399,216808,48,31,## 31. Derselbe.,284,100.0,False,positional,Catalani,,,,
-BO0624_88399,216809,49,32,"Dietrich, Joh.Friedr.,Historienmaler, geb. 1789 in Biberach, gest. 1846 in Stuttgart.",290,98.1,False,positional,Catalani,,,,Sec. XVIII
-BO0624_88399,216810,50,4000,2000,300,100.0,False,positional,Catalani,,,,
-BO0624_88399,216811,51,5000,3000,304,100.0,False,positional,Catalani,,,,
-BO0624_88399,216812,52,300,2000,308,100.0,False,positional,Catalani,,,,
-BO0624_88399,216813,53,3000,2000,312,100.0,False,positional,Catalani,,,,
-BO0624_88399,216814,54,2000,"33. Diez, Samuel Friedrich, geb. 1803 in Neuhaus bei Sonneberg, gest. 1873 in Meiningen.",315,100.0,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216815,55,34,"Domenichino,genannt Domenico Zampieri, geb. 1581 in Bologna, gest. 1641 in Neapel.",321,98.1,False,positional,Catalani,Scuola Bolognese,,,Sec. XVI
-BO0624_88399,216816,56,35,"Donny, Desire, geb. 1798 in Brugge, gest. 1861 daselbst. Hollandisches Strandbild mit Segelschiffen, und Fischern. Holz, Goldrahmen,Hohe 25 cm, Breite 34 cm,Bez.unten rechts: D.Donny 54.",325,99.1,False,positional,Catalani,,OGGETTI IN LEGNO,,Sec. XVIII
-BO0624_88399,216817,57,36,"Dreber,Heinrich Franz,geb.1822 in Dresden,gest.1875 in Rom. Waldlandschaff mit reicher Staffage,im Hintergrunde Rom mit Tiberlandschaff.",326,98.9,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216818,58,37,"Durck, Friedrich, geb.1809 in Leipzig, gest. 1884 in Munchen. Portrat einer jungen Dame aus der Munchner Schonheitsgallerie. Leinwand, Goldrahmen,Hohe 65 cm,Breite 55 cm,Bez.Mifte rechts.",330,99.2,False,positional,Catalani,Scuola di Monaco,,,Sec. XIX
-BO0624_88399,216819,59,2,"38.Eibner, Friedrich, Architekturmaler, geb. 1828 zu Hilpoltstein, Oberpfalz, gest.1879 in Munchen. Ulmer Munster vor dem Ausbau des Turmes mit Trodelmarktbuden und alten Strassen und Hausern, mit reicher Staffage. Leinwand, Goldrahmen, Hohe 50 cm, Breite 60 cm, Bez.unten rechts.",331,99.6,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216820,60,1500,5000,349,100.0,False,positional,Catalani,,,,
-BO0624_88399,216821,61,800,8000,353,100.0,False,positional,Catalani,,,,
-BO0624_88399,216822,62,1500,1000,357,100.0,False,positional,Catalani,,,,Sec. XI
-BO0624_88399,216823,63,800,1000,361,100.0,False,positional,Catalani,,,,Sec. XI
-BO0624_88399,216824,64,2,M0,363,80.0,False,positional,Catalani,,,,
-BO0624_88399,216825,65,16700,8570,367,100.0,False,positional,Catalani,,,,
-BO0624_88399,216826,66,4000,Z200,371,100.0,False,positional,Catalani,,,,
-BO0624_88399,216827,67,1,eo0,372,85.7,False,positional,Catalani,,,,
-BO0624_88399,216828,68,3000,SUUn,376,100.0,False,positional,Catalani,,,,
-BO0624_88399,216829,69,20,2S,378,57.1,False,positional,Catalani,,,,
-BO0624_88399,216830,70,4,ne,380,80.0,False,positional,Catalani,,,,
-BO0624_88399,216831,71,5300,## 41.Derselbe.,386,100.0,False,positional,Catalani,,,,
-BO0624_88399,216832,72,42,Derselbe.,392,84.2,False,positional,Catalani,,,,
-BO0624_88399,216833,73,43,"Elsasser, Friedrich Aug.,geb.1810 in Berlin, gest.1845 in Rom.",398,97.5,False,positional,Catalani,Scuola di Berlino,,,Sec. XIX
-BO0624_88399,216834,74,44,"Faber du Faur, v. Christ. Wilh., geb. 1780 in Stuttgart, gest. 1857 daselbst.",404,97.8,False,positional,Catalani,,,,Sec. XVIII
-BO0624_88399,216835,75,45,"Faber du Faur,v. OHto, Schlachtenmaler, geb. 1828 in Ludwigsburg, gest. 1901 in Munchen.",410,98.2,False,positional,Catalani,Manifattura di Ludwigsburg,,,Sec. XIX
-BO0624_88399,216836,76,46,"Frey, Johannes Jakob, geb.1813 in Basel, gest.1865 in Frascafi. Eine vom Samum uberraschte Karawane.",416,98.4,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216837,77,47,Derselbe.,420,84.2,False,positional,Catalani,,,,
-BO0624_88399,216838,78,48,Derselbe.,426,84.2,False,positional,Catalani,,,,
-BO0624_88399,216839,79,49,"Funk, Heinrich, geb. 1807 in Herford, gest. 1877 in Stutgart. Abend am Gardasee bei Alpengluhen.",432,98.3,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216840,80,500,500,438,100.0,False,positional,Catalani,,,,
-BO0624_88399,216841,81,3000,2000,444,100.0,False,positional,Catalani,,,,
-BO0624_88399,216842,82,6000,5000,448,100.0,False,positional,Catalani,,,,
-BO0624_88399,216843,83,2000,4000,452,100.0,False,positional,Catalani,,,,
-BO0624_88399,216844,84,2000,"- 50.Gaul,A., Baden-Baden.",455,100.0,False,positional,Catalani,,,,
-BO0624_88399,216845,85,51,"Gegenbaur,Josef,Historienmaler, geb.1800 in Wangen iAllgu, gest. 1876 in Rom.",459,98.0,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216846,86,52,"Gmelin, G., Landschaftsmaler des 19. Jahrhunderts, lebte in Rom. Salerno mit Aussicht auf das Meer und Gebirge.",469,98.6,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216847,87,53,"Greive, Joh.Conrad, geb.1837 in Amsterdam. Hollandische Landschaft, Amsterdamer Hafen mit Segelbooten, im Hintergrunde Ansicht der Stadt Amsterdam.",470,98.9,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216848,88,54,"Grund, Johann,Historienmaler, geb.1808 in Wien,gest.1887 in Baden-Baden.",474,97.9,False,positional,Catalani,Scuola Viennese,,,Sec. XIX
-BO0624_88399,216849,89,55,"Derselbe. talienisches Madchen, welches in ein Kloster geht.",482,90.6,False,positional,Catalani,,,,
-BO0624_88399,216850,90,56,"van Haarlem,Cornelis,geb.1582 in Haarlem,gest.1638 daselbst. Drei nackte Modchen in reizenden Stellungen schlafen auf einer Wiese unter bemoosten Baumen, Faune belauschen sie.",486,99.1,False,positional,Catalani,,,,Sec. XVI
-BO0624_88399,216851,91,57,"Heideloff, C.A,geb.1788 in Stuttgart, gest. 1865 in Hassfurt. Kaiser Maximilian mit Gefolge am Grabe Herzogs Eberhard von Wurttemberg auf Einsiedel.",490,99.0,False,positional,Catalani,,,,Sec. XVIII
-BO0624_88399,216852,92,58,"Heinel, Ed., Genre- und Landschaftsmaler. Genrebild aus dem bayrischen Gebirge mit spielenden Kindern.",494,98.5,False,positional,Catalani,,,,
-BO0624_88399,216853,93,4000,5000,502,100.0,False,positional,Catalani,,,,
-BO0624_88399,216854,94,2000,500,506,100.0,False,positional,Catalani,,,,
-BO0624_88399,216855,95,2000,3000,510,100.0,False,positional,Catalani,,,,
-BO0624_88399,216856,96,2000,4000,514,100.0,False,positional,Catalani,,,,
-BO0624_88399,216857,97,5000,15000,518,100.0,False,positional,Catalani,,,,
-BO0624_88399,216858,98,2300,UUO,522,100.0,False,positional,Catalani,,,,
-BO0624_88399,216859,99,400,"59. Herdtle, H.,Landschaffts- und Architekturmaler, geb. 1819 in Stuttgart, gest. 1889 daselbst.",527,100.0,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216860,100,60,"Hitz, Conrad, geb. 1797 in Langenau, Kant. Zurich.",533,96.7,False,positional,Catalani,,,,Sec. XVIII
-BO0624_88399,216861,101,61,"Hoevenaer, W. Utrecht.",539,92.7,False,positional,Catalani,,,,
-BO0624_88399,216862,102,62,"Hoftenroth,Woldemar, geb. 1802 in Dresden, gest. 1894 in Wachnitz. Kopie nach Guido Reni.",545,98.2,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216863,103,63,"Huthsteiner, Robert, fruher Professor in Stuttgart. Schlossplatz in Stuttgart mit Ansicht des Alten Schlosses und",551,98.7,False,positional,Catalani,,,,
-BO0624_88399,216864,104,64,"Jackel, Henry, Berlin.",557,92.7,False,positional,Catalani,Scuola di Berlino,,,
-BO0624_88399,216865,105,65,"Jakob,Paul Emil,Historienmaler,geb.1802 in Gotha,gest.1866 daselbst.",563,97.8,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216866,106,66,"de Keyser,Nicaise,geb.1813 inSantoliet,gest.1887in Antwerpen. Italienerin,mit einer Eidechse spielend,am Brunnen.",569,98.7,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216867,107,67,"Kjeltberg, A.",570,88.0,False,positional,Catalani,,,,
-BO0624_88399,216868,108,400,800,582,100.0,False,positional,Catalani,,,,
-BO0624_88399,216869,109,3000,3000,584,100.0,False,positional,Catalani,,,,
-BO0624_88399,216870,110,800,800,588,100.0,False,positional,Catalani,,,,
-BO0624_88399,216871,111,8000,2000,594,100.0,False,positional,Catalani,,,,
-BO0624_88399,216872,112,800,"68. Kremer, Petrus, geb. 1801 in Antwerpen.",597,100.0,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216873,113,69,"Leibnitz, H.",605,87.0,False,positional,Catalani,,,,
-BO0624_88399,216874,114,70,Derselbe.,613,84.2,False,positional,Catalani,,,,
-BO0624_88399,216875,115,71,"von Loos, M.",619,87.0,False,positional,Catalani,,,,
-BO0624_88399,216876,116,72,"Luini, Bernadino, genannt del Lupino, geb. 1475 in Luini am",625,97.3,False,positional,Catalani,,,,Sec. XV
-BO0624_88399,216877,117,73,"Macholdt, Ernst, geb.1814 in Coburg.",633,95.7,False,positional,Catalani,,,,Sec. XIX
-BO0624_88399,216878,118,74,"Maes,Jan Baptist Lodewijk,geb.1794 in Gent,gest.1856 in Rom.",639,97.5,False,positional,Catalani,,,,Sec. XVIII
-BO0624_88399,216879,119,75,"Magiotto,(Majotto) Domenico, geb.1713 in Venedig,gest.1794.",647,97.3,False,positional,Catalani,,,,Sec. XVIII
-BO0624_88399,216880,120,2000,2000,663,100.0,False,positional,Catalani,,,,
-BO0624_88399,216881,121,2000,100,669,100.0,False,positional,Catalani,,,,
-BO0624_88399,216882,122,20000,400,673,100.0,False,positional,Catalani,,,,
-BO0624_88399,216883,123,3000,10000,677,100.0,False,positional,Catalani,,,,
-BO0624_88399,216884,124,2000,291h,681,100.0,False,positional,Catalani,,,,
-BO0624_88399,216885,125,81000,357,685,100.0,False,positional,Catalani,,,,
-BO0624_88399,216886,126,5860,<!-- image -->,689,100.0,False,positional,Catalani,,,,
-BO0624_88399,216887,127,4,cvo,692,85.7,False,positional,Catalani,,,,
-BO0624_88399,216888,128,77,"de Mattoni, Pietro, genannt Pietro della Vecchia,geb.1605 in Venedig, gest.1678 daselbst.",704,98.3,False,positional,Catalani,,,,Sec. XVII
-BO0624_88399,216889,129,78,"78. Maulbetsch, Ant. Franz, geb. 1724 in Langenargen, gest. 1796 in Wien.",710,100.0,False,positional,Catalani,Scuola Viennese,,,Sec. XVIII
+BO0624_88399,216804,44,27,"Class-Altenburg, August Hermann.",260,95.2,False,none,,,,,
+BO0624_88399,216805,45,28,"Closs, Gustav Paul, geb. 1840 in Stutgart, gest. 1870 in Prien am Chiemsee.",266,97.9,False,none,,,,,Sec. XIX
+BO0624_88399,216806,46,29,"29. Deininger, Karl Franz, geb. 1845 in Bamberg.",272,100.0,False,none,,,,,Sec. XIX
+BO0624_88399,216807,47,30,## 30. Derselbe.,278,100.0,False,none,,,,,
+BO0624_88399,216808,48,31,## 31. Derselbe.,284,100.0,False,none,,,,,
+BO0624_88399,216809,49,32,"Dietrich, Joh.Friedr.,Historienmaler, geb. 1789 in Biberach, gest. 1846 in Stuttgart.",290,98.1,False,none,DIETRICH C.W.E.,,,,Sec. XVIII
+BO0624_88399,216810,50,4000,2000,300,100.0,False,none,,,,,
+BO0624_88399,216811,51,5000,3000,304,100.0,False,none,,,,,
+BO0624_88399,216812,52,300,2000,308,100.0,False,none,,,,,
+BO0624_88399,216813,53,3000,2000,312,100.0,False,none,,,,,
+BO0624_88399,216814,54,2000,"33. Diez, Samuel Friedrich, geb. 1803 in Neuhaus bei Sonneberg, gest. 1873 in Meiningen.",315,100.0,False,none,,,,,Sec. XIX
+BO0624_88399,216815,55,34,"Domenichino,genannt Domenico Zampieri, geb. 1581 in Bologna, gest. 1641 in Neapel.",321,98.1,False,none,"DOMENICHINO, ZAMPIERI DOMENICO",Scuola Bolognese,,,Sec. XVI
+BO0624_88399,216816,56,35,"Donny, Desire, geb. 1798 in Brugge, gest. 1861 daselbst. Hollandisches Strandbild mit Segelschiffen, und Fischern. Holz, Goldrahmen,Hohe 25 cm, Breite 34 cm,Bez.unten rechts: D.Donny 54.",325,99.1,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88399,216817,57,36,"Dreber,Heinrich Franz,geb.1822 in Dresden,gest.1875 in Rom. Waldlandschaff mit reicher Staffage,im Hintergrunde Rom mit Tiberlandschaff.",326,98.9,False,none,,,,,Sec. XIX
+BO0624_88399,216818,58,37,"Durck, Friedrich, geb.1809 in Leipzig, gest. 1884 in Munchen. Portrat einer jungen Dame aus der Munchner Schonheitsgallerie. Leinwand, Goldrahmen,Hohe 65 cm,Breite 55 cm,Bez.Mifte rechts.",330,99.2,False,none,,Scuola di Monaco,,,Sec. XIX
+BO0624_88399,216819,59,2,"38.Eibner, Friedrich, Architekturmaler, geb. 1828 zu Hilpoltstein, Oberpfalz, gest.1879 in Munchen. Ulmer Munster vor dem Ausbau des Turmes mit Trodelmarktbuden und alten Strassen und Hausern, mit reicher Staffage. Leinwand, Goldrahmen, Hohe 50 cm, Breite 60 cm, Bez.unten rechts.",331,99.6,False,none,,,,,Sec. XIX
+BO0624_88399,216820,60,1500,5000,349,100.0,False,none,,,,,
+BO0624_88399,216821,61,800,8000,353,100.0,False,none,,,,,
+BO0624_88399,216822,62,1500,1000,357,100.0,False,none,,,,,Sec. XI
+BO0624_88399,216823,63,800,1000,361,100.0,False,none,,,,,Sec. XI
+BO0624_88399,216824,64,2,M0,363,80.0,False,none,,,,,
+BO0624_88399,216825,65,16700,8570,367,100.0,False,none,,,,,
+BO0624_88399,216826,66,4000,Z200,371,100.0,False,none,,,,,
+BO0624_88399,216827,67,1,eo0,372,85.7,False,none,,,,,
+BO0624_88399,216828,68,3000,SUUn,376,100.0,False,none,,,,,
+BO0624_88399,216829,69,20,2S,378,57.1,False,none,,,,,
+BO0624_88399,216830,70,4,ne,380,80.0,False,none,,,,,
+BO0624_88399,216831,71,5300,## 41.Derselbe.,386,100.0,False,none,,,,,
+BO0624_88399,216832,72,42,Derselbe.,392,84.2,False,none,,,,,
+BO0624_88399,216833,73,43,"Elsasser, Friedrich Aug.,geb.1810 in Berlin, gest.1845 in Rom.",398,97.5,False,none,,Scuola di Berlino,,,Sec. XIX
+BO0624_88399,216834,74,44,"Faber du Faur, v. Christ. Wilh., geb. 1780 in Stuttgart, gest. 1857 daselbst.",404,97.8,False,none,,,,,Sec. XVIII
+BO0624_88399,216835,75,45,"Faber du Faur,v. OHto, Schlachtenmaler, geb. 1828 in Ludwigsburg, gest. 1901 in Munchen.",410,98.2,False,none,,Manifattura di Ludwigsburg,,,Sec. XIX
+BO0624_88399,216836,76,46,"Frey, Johannes Jakob, geb.1813 in Basel, gest.1865 in Frascafi. Eine vom Samum uberraschte Karawane.",416,98.4,False,none,,,,,Sec. XIX
+BO0624_88399,216837,77,47,Derselbe.,420,84.2,False,none,,,,,
+BO0624_88399,216838,78,48,Derselbe.,426,84.2,False,none,,,,,
+BO0624_88399,216839,79,49,"Funk, Heinrich, geb. 1807 in Herford, gest. 1877 in Stutgart. Abend am Gardasee bei Alpengluhen.",432,98.3,False,none,,,,,Sec. XIX
+BO0624_88399,216840,80,500,500,438,100.0,False,none,,,,,
+BO0624_88399,216841,81,3000,2000,444,100.0,False,none,,,,,
+BO0624_88399,216842,82,6000,5000,448,100.0,False,none,,,,,
+BO0624_88399,216843,83,2000,4000,452,100.0,False,none,,,,,
+BO0624_88399,216844,84,2000,"- 50.Gaul,A., Baden-Baden.",455,100.0,False,none,,,,,
+BO0624_88399,216845,85,51,"Gegenbaur,Josef,Historienmaler, geb.1800 in Wangen iAllgu, gest. 1876 in Rom.",459,98.0,False,none,,,,,Sec. XIX
+BO0624_88399,216846,86,52,"Gmelin, G., Landschaftsmaler des 19. Jahrhunderts, lebte in Rom. Salerno mit Aussicht auf das Meer und Gebirge.",469,98.6,False,none,,,,,Sec. XIX
+BO0624_88399,216847,87,53,"Greive, Joh.Conrad, geb.1837 in Amsterdam. Hollandische Landschaft, Amsterdamer Hafen mit Segelbooten, im Hintergrunde Ansicht der Stadt Amsterdam.",470,98.9,False,none,,,,,Sec. XIX
+BO0624_88399,216848,88,54,"Grund, Johann,Historienmaler, geb.1808 in Wien,gest.1887 in Baden-Baden.",474,97.9,False,none,,Scuola Viennese,,,Sec. XIX
+BO0624_88399,216849,89,55,"Derselbe. talienisches Madchen, welches in ein Kloster geht.",482,90.6,False,none,,,,,
+BO0624_88399,216850,90,56,"van Haarlem,Cornelis,geb.1582 in Haarlem,gest.1638 daselbst. Drei nackte Modchen in reizenden Stellungen schlafen auf einer Wiese unter bemoosten Baumen, Faune belauschen sie.",486,99.1,False,none,,,,,Sec. XVI
+BO0624_88399,216851,91,57,"Heideloff, C.A,geb.1788 in Stuttgart, gest. 1865 in Hassfurt. Kaiser Maximilian mit Gefolge am Grabe Herzogs Eberhard von Wurttemberg auf Einsiedel.",490,99.0,False,none,,,,,Sec. XVIII
+BO0624_88399,216852,92,58,"Heinel, Ed., Genre- und Landschaftsmaler. Genrebild aus dem bayrischen Gebirge mit spielenden Kindern.",494,98.5,False,none,,,,,
+BO0624_88399,216853,93,4000,5000,502,100.0,False,none,,,,,
+BO0624_88399,216854,94,2000,500,506,100.0,False,none,,,,,
+BO0624_88399,216855,95,2000,3000,510,100.0,False,none,,,,,
+BO0624_88399,216856,96,2000,4000,514,100.0,False,none,,,,,
+BO0624_88399,216857,97,5000,15000,518,100.0,False,none,,,,,
+BO0624_88399,216858,98,2300,UUO,522,100.0,False,none,,,,,
+BO0624_88399,216859,99,400,"59. Herdtle, H.,Landschaffts- und Architekturmaler, geb. 1819 in Stuttgart, gest. 1889 daselbst.",527,100.0,False,none,,,,,Sec. XIX
+BO0624_88399,216860,100,60,"Hitz, Conrad, geb. 1797 in Langenau, Kant. Zurich.",533,96.7,False,none,,,,,Sec. XVIII
+BO0624_88399,216861,101,61,"Hoevenaer, W. Utrecht.",539,92.7,False,none,,,,,
+BO0624_88399,216862,102,62,"Hoftenroth,Woldemar, geb. 1802 in Dresden, gest. 1894 in Wachnitz. Kopie nach Guido Reni.",545,98.2,False,none,GUIDO RENI,,,,Sec. XIX
+BO0624_88399,216863,103,63,"Huthsteiner, Robert, fruher Professor in Stuttgart. Schlossplatz in Stuttgart mit Ansicht des Alten Schlosses und",551,98.7,False,none,,,,,
+BO0624_88399,216864,104,64,"Jackel, Henry, Berlin.",557,92.7,False,none,,Scuola di Berlino,,,
+BO0624_88399,216865,105,65,"Jakob,Paul Emil,Historienmaler,geb.1802 in Gotha,gest.1866 daselbst.",563,97.8,False,none,,,,,Sec. XIX
+BO0624_88399,216866,106,66,"de Keyser,Nicaise,geb.1813 inSantoliet,gest.1887in Antwerpen. Italienerin,mit einer Eidechse spielend,am Brunnen.",569,98.7,False,none,,,,,Sec. XIX
+BO0624_88399,216867,107,67,"Kjeltberg, A.",570,88.0,False,none,,,,,
+BO0624_88399,216868,108,400,800,582,100.0,False,none,,,,,
+BO0624_88399,216869,109,3000,3000,584,100.0,False,none,,,,,
+BO0624_88399,216870,110,800,800,588,100.0,False,none,,,,,
+BO0624_88399,216871,111,8000,2000,594,100.0,False,none,,,,,
+BO0624_88399,216872,112,800,"68. Kremer, Petrus, geb. 1801 in Antwerpen.",597,100.0,False,none,,,,,Sec. XIX
+BO0624_88399,216873,113,69,"Leibnitz, H.",605,87.0,False,none,,,,,
+BO0624_88399,216874,114,70,Derselbe.,613,84.2,False,none,,,,,
+BO0624_88399,216875,115,71,"von Loos, M.",619,87.0,False,none,,,,,
+BO0624_88399,216876,116,72,"Luini, Bernadino, genannt del Lupino, geb. 1475 in Luini am",625,97.3,False,none,BERNARDINO LUINI,,,,Sec. XV
+BO0624_88399,216877,117,73,"Macholdt, Ernst, geb.1814 in Coburg.",633,95.7,False,none,,,,,Sec. XIX
+BO0624_88399,216878,118,74,"Maes,Jan Baptist Lodewijk,geb.1794 in Gent,gest.1856 in Rom.",639,97.5,False,none,NICOLAES MAES,,,,Sec. XVIII
+BO0624_88399,216879,119,75,"Magiotto,(Majotto) Domenico, geb.1713 in Venedig,gest.1794.",647,97.3,False,none,,,,,Sec. XVIII
+BO0624_88399,216880,120,2000,2000,663,100.0,False,none,,,,,
+BO0624_88399,216881,121,2000,100,669,100.0,False,none,,,,,
+BO0624_88399,216882,122,20000,400,673,100.0,False,none,,,,,
+BO0624_88399,216883,123,3000,10000,677,100.0,False,none,,,,,
+BO0624_88399,216884,124,2000,291h,681,100.0,False,none,,,,,
+BO0624_88399,216885,125,81000,357,685,100.0,False,none,,,,,
+BO0624_88399,216886,126,5860,<!-- image -->,689,100.0,False,none,,,,,
+BO0624_88399,216887,127,4,cvo,692,85.7,False,none,,,,,
+BO0624_88399,216888,128,77,"de Mattoni, Pietro, genannt Pietro della Vecchia,geb.1605 in Venedig, gest.1678 daselbst.",704,98.3,False,none,,,,,Sec. XVII
+BO0624_88399,216889,129,78,"78. Maulbetsch, Ant. Franz, geb. 1724 in Langenargen, gest. 1796 in Wien.",710,100.0,False,none,,Scuola Viennese,,,Sec. XVIII
 BO0624_88399,216890,130,79,"## 79. Mayer, G.",714,100.0,False,title_direct,"Mayer, G.",,,,
-BO0624_88399,216891,131,80,"Millner,Karl, geb.1825 in Mindelheim. Dorfpartie an der Amper bei Munchen mit Bauernfuhrwerk. Leinwand, Goldrahmen, Hohe 24 cm,Breite 30 cm,Bez.unten links.",720,99.0,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216892,132,2,81.Monogramm F.H.P.,721,94.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,216893,133,82,Monogramm 0.P. 1839.,727,92.3,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216894,134,83,Monogramm 18 C.H.16.,733,92.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,216895,135,10000,1500,745,100.0,False,positional,"Mayer, G.",Scuola Ferrarese,,,Sec. XVI
-BO0624_88399,216896,136,2000,500,749,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216897,137,800,800,751,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216898,138,1500,- 84.Monogramm 18 C.H.16.,756,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216899,139,85,"Monti, Giovanni Bafista,geb.1610 in Genua,gest.1657 daselbst. Lucretia Borgia, Kniestuck.",764,98.3,False,positional,"Mayer, G.",,,,Sec. XVII
-BO0624_88399,216900,140,86,"de Moucheron, Isaac, genannt Ordonnance, geb. 1670 in Amsterdam,gest.1744 daselbst. talienische Landschaft mit Figuren.",768,80.4,False,positional,"Mayer, G.",,,,Sec. XVII
-BO0624_88399,216901,141,87,"Muhlig, Meno, geb. 1823 in Eibenstock, gest.1873 in Dresden. Partie aus Bohmen, Zigeuner am Feuer bei Mondaufgang.",774,98.6,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216902,142,88,"Muller, Gustav Adolf, geb.1828 in Hildburghausen. Eine auf Diwan ruhende Turkin. Leinwand,Goldrahmen, Hohe 138 cm, Breite 102 cm,Bez.unten rechts.",778,98.9,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216903,143,89,Derselbe. Ein italienischer Sanger mit Mandoline.,779,96.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,216904,144,90,"Derselbe. talienerin mit Hut und Tamburin,in der Hand ein Weinglas haltend.",787,92.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,216905,145,91,Derselbe.,789,84.2,False,positional,"Mayer, G.",,,,
-BO0624_88399,216906,146,92,"Nagel, J., geb. in Esslingen.",795,94.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,216907,147,2,"Die Neckarbrucke bei Kongen mit Herzog ulrichdenkmal, Heu-",796,98.2,False,positional,"Mayer, G.",,,,
-BO0624_88399,216908,148,1500,2000,806,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216909,149,5000,1000,810,100.0,False,positional,"Mayer, G.",,,,Sec. XI
-BO0624_88399,216910,150,2000,2000,812,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216911,151,2000,2000,814,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216912,152,2000,YO160,822,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216913,153,40,UD,824,66.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,216914,154,21000,1100,828,100.0,False,positional,"Mayer, G.",,,,Sec. XII
-BO0624_88399,216915,155,4400,5300,832,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216916,156,5770,4300,836,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216917,157,5300,"| 94.Nahl, Karl, geb. 1819 in Kassel. Kopie nach Guido Reni, Apollo mit dem Sonnenwagen. Leinwand, Goldrahmen,Hohe 85 cm, Breite 140 cm,Bez.unten links.                                                                                                                                                     |               2000 |",840,98.3,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216918,158,28000,"| 95.van der Neer,Eglon Hendrik,geb.1635/36 in Amsterdam, gest. 1703 in Dusseldorf. Der orientalische Sklavenhndler mit Kupplerin,im Hintergrunde ein die Szene beobachtender Knabe; rechts fein durchgefuhrter Tischteppich mit Kupferkanne. Leinwand, Goldrahmen,Hohe 60 cm, Breite 50 cm. Siehe Abbildung |              15000 |",841,99.0,False,positional,"Mayer, G.",,,,Sec. XVII
-BO0624_88399,216919,159,3600,"| Ansicht von Venedig, mit der Dogana und Canale grande, auf welchem viele Gondeln und Segelschiffe auf- und abfahren. Leinwand, Goldrahmen, Hohe 62 cm, Breite 91 cm,Bez. unten rechts.                                                                                                                     |               2000 |",843,98.6,False,positional,"Mayer, G.",,,,
-BO0624_88399,216920,160,1300,"| 98.Derselbe. Ansicht von Palermo, mit Blick auf den Meerbusen. Leinwand, Goldrahmen, Hohe 37 cm, Breite 53 cm, Bez.unten rechts.                                                                                                                                                                           |               1200 |",844,98.0,False,positional,"Mayer, G.",,,,Sec. XIII
+BO0624_88399,216891,131,80,"Millner,Karl, geb.1825 in Mindelheim. Dorfpartie an der Amper bei Munchen mit Bauernfuhrwerk. Leinwand, Goldrahmen, Hohe 24 cm,Breite 30 cm,Bez.unten links.",720,99.0,False,none,,,,,Sec. XIX
+BO0624_88399,216892,132,2,81.Monogramm F.H.P.,721,94.7,False,none,,,,,
+BO0624_88399,216893,133,82,Monogramm 0.P. 1839.,727,92.3,False,none,,,,,Sec. XIX
+BO0624_88399,216894,134,83,Monogramm 18 C.H.16.,733,92.7,False,none,,,,,
+BO0624_88399,216895,135,10000,1500,745,100.0,False,none,,Scuola Ferrarese,,,Sec. XVI
+BO0624_88399,216896,136,2000,500,749,100.0,False,none,,,,,
+BO0624_88399,216897,137,800,800,751,100.0,False,none,,,,,
+BO0624_88399,216898,138,1500,- 84.Monogramm 18 C.H.16.,756,100.0,False,none,,,,,
+BO0624_88399,216899,139,85,"Monti, Giovanni Bafista,geb.1610 in Genua,gest.1657 daselbst. Lucretia Borgia, Kniestuck.",764,98.3,False,none,,,,,Sec. XVII
+BO0624_88399,216900,140,86,"de Moucheron, Isaac, genannt Ordonnance, geb. 1670 in Amsterdam,gest.1744 daselbst. talienische Landschaft mit Figuren.",768,80.4,False,none,MOUCHERON FREDERIK,,,,Sec. XVII
+BO0624_88399,216901,141,87,"Muhlig, Meno, geb. 1823 in Eibenstock, gest.1873 in Dresden. Partie aus Bohmen, Zigeuner am Feuer bei Mondaufgang.",774,98.6,False,none,,,,,Sec. XIX
+BO0624_88399,216902,142,88,"Muller, Gustav Adolf, geb.1828 in Hildburghausen. Eine auf Diwan ruhende Turkin. Leinwand,Goldrahmen, Hohe 138 cm, Breite 102 cm,Bez.unten rechts.",778,98.9,False,none,,,,,Sec. XIX
+BO0624_88399,216903,143,89,Derselbe. Ein italienischer Sanger mit Mandoline.,779,96.9,False,none,,,,,
+BO0624_88399,216904,144,90,"Derselbe. talienerin mit Hut und Tamburin,in der Hand ein Weinglas haltend.",787,92.8,False,none,,,,,
+BO0624_88399,216905,145,91,Derselbe.,789,84.2,False,none,,,,,
+BO0624_88399,216906,146,92,"Nagel, J., geb. in Esslingen.",795,94.1,False,none,,,,,
+BO0624_88399,216907,147,2,"Die Neckarbrucke bei Kongen mit Herzog ulrichdenkmal, Heu-",796,98.2,False,none,,,,,
+BO0624_88399,216908,148,1500,2000,806,100.0,False,none,,,,,
+BO0624_88399,216909,149,5000,1000,810,100.0,False,none,,,,,Sec. XI
+BO0624_88399,216910,150,2000,2000,812,100.0,False,none,,,,,
+BO0624_88399,216911,151,2000,2000,814,100.0,False,none,,,,,
+BO0624_88399,216912,152,2000,YO160,822,100.0,False,none,,,,,
+BO0624_88399,216913,153,40,UD,824,66.7,False,none,,,,,
+BO0624_88399,216914,154,21000,1100,828,100.0,False,none,,,,,Sec. XII
+BO0624_88399,216915,155,4400,5300,832,100.0,False,none,,,,,
+BO0624_88399,216916,156,5770,4300,836,100.0,False,none,,,,,
+BO0624_88399,216917,157,5300,"| 94.Nahl, Karl, geb. 1819 in Kassel. Kopie nach Guido Reni, Apollo mit dem Sonnenwagen. Leinwand, Goldrahmen,Hohe 85 cm, Breite 140 cm,Bez.unten links.                                                                                                                                                     |               2000 |",840,98.3,False,none,GUIDO RENI,,,,Sec. XIX
+BO0624_88399,216918,158,28000,"| 95.van der Neer,Eglon Hendrik,geb.1635/36 in Amsterdam, gest. 1703 in Dusseldorf. Der orientalische Sklavenhndler mit Kupplerin,im Hintergrunde ein die Szene beobachtender Knabe; rechts fein durchgefuhrter Tischteppich mit Kupferkanne. Leinwand, Goldrahmen,Hohe 60 cm, Breite 50 cm. Siehe Abbildung |              15000 |",841,99.0,False,none,VAN DER NEER A.,,,,Sec. XVII
+BO0624_88399,216919,159,3600,"| Ansicht von Venedig, mit der Dogana und Canale grande, auf welchem viele Gondeln und Segelschiffe auf- und abfahren. Leinwand, Goldrahmen, Hohe 62 cm, Breite 91 cm,Bez. unten rechts.                                                                                                                     |               2000 |",843,98.6,False,none,CANALE ANTONIO,,,,
+BO0624_88399,216920,160,1300,"| 98.Derselbe. Ansicht von Palermo, mit Blick auf den Meerbusen. Leinwand, Goldrahmen, Hohe 37 cm, Breite 53 cm, Bez.unten rechts.                                                                                                                                                                           |               1200 |",844,98.0,False,none,,,,,Sec. XIII
 BO0624_88399,216921,161,2050,"| 99.Obach, Kaspar, geb. 1807 in Zurich, gest. 1865 in Stuftgarf. Gesamtansicht von Stuttgart, vom Hasenberg aus gesehen. Aquarell, Goldrahmen, Hohe 55 cm,Breite 75 cm, Bez. unten rechts.                                                                                                                  |                800 |",845,98.6,False,title_direct,,,Aquarelle,,Sec. XIX
-BO0624_88399,216922,162,102,| 102. Derselbe. Gebirgslandschaff mit Schloss Ortenberg in Graubunden.,848,89.2,False,positional,"Mayer, G.",,,,
-BO0624_88399,216923,163,103,"103. Peters, Pietronella,geb.1848 in Stuttgart.",850,56.4,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216924,164,104,"Plagemann, Carl Gustav, Historienmaler, geb. 1805 zu Soder- telje in Sodermanland (Schweden). Heilige Katharina, Kniestuck nach Tizian. Leinwand,Goldrahmen,Hohe 133 cm,Breite 96 cm.                                                                                                                                                                               | 4000               |",852,98.9,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216925,165,105,"Derselbe. Kopie nach Paola Veronese,Original inpanien,Venus und Adonis. Leinwand, Goldrahmen,Hohe 187 cm Breite 208 cm.                                                                                                                                                                                                                                             | 5000               |",853,98.4,False,positional,"Mayer, G.",,,,
-BO0624_88399,216926,166,106,"Pollack, Leopold, Genremaler,geb. 1806 zu Lodenitz (Bohmen). Junge Turkin,welche eine Brieftaube fliegen lasst, im Hintergrunde eine turkische Stadt bei Abendbeleuchtung. Leinwand,Goldrahmen,Hohe 180 cm,Breite 120 cm,Bez.Pollack,Rom 1853.                                                                                                                      | 5000               |",854,99.2,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216927,167,107,"Portaels,Jean Francois, geb.1818 in Vilvorde bei Brussel,gest. 1895 in Brussel. Orientalin mit farbiger Haube, Schmuck und Korb. Holz, Goldrahmen,Hohe 82 cm, Breite 66 cm, Bez. unten links.                                                                                                                                                                       | 5000               |",855,98.9,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,Sec. XIX
-BO0624_88399,216928,168,108,"Preller, Johann Friedrich,der Aeltere,geb.1804 in Eisenach,gest. 1878 daselbst. Schiffbruch an der Meereskuste. Im Vordergrunde zerschelltes Schiff mit Schiffbruchigen an felsiger Kuste, in Hintergrunde be- wegte See mit Meervogeln bei interessant beleuchtetem Himmel. Leinwand, Goldrahmen, Hohe 140cm, Breite 195 cm, Bez.FP, Weimar 1853. Siehe Abbildung. | 20000              |",856,99.4,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216929,169,109,"Primaticcio,Franzesco, geb.1504 in Bologna,gest.1570 in Paris. Diana von Poitiers,Herzogin von Valentinois,mit leichtem Schleier umhullter Halbakt von hervorragender Feinheit, um Arme und Hals Perlenschmuck. Bedeutendes Bild. Holz, Hohe 45 cm, Breite 35 cm. Siehe Abbildung.20000                                                                             |                    |",857,99.3,False,positional,"Mayer, G.",Scuola Bolognese,OGGETTI IN LEGNO,,Sec. XVI
-BO0624_88399,216930,170,100,<!-- image -->,861,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216931,171,140,4000,876,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216932,172,109,"a.Querfurth,August, geb.1696 in Wolfenbuttel, gest.1761 in Wien. Schlacht unter Fuhrung des Herzogs Carl Alexander von Wurttemberg.",878,98.8,False,positional,"Mayer, G.",Scuola Viennese,,,Sec. XVII
-BO0624_88399,216933,173,110,"von Riedel,Aug.Heinr.,geb.1802inBayreuth, gest.1883 in Rom. La Moretta, italienisches Madchen in Tracht mit Korallenkette. Leinwand, Goldrahmen,Hohe 138 cm, Breite 100cm. Siehe Abbildung.",884,98.9,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216934,174,111,"von Riedmiller, Franz Xaver, geb. 1829 in Konstanz. Hochgebirgslandschaff mit See.",885,97.5,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216935,175,112,"Riesener,Henry Francois,geb.1767 in Paris,gest.1828 daselbst. Portrat der Grafin Adelinsky,Hofdame der Konigin Katharina. Leinwand,Hohe 66cm, Breite 55cm. Bez. Seite links.",889,98.8,False,positional,"Mayer, G.",,,,Sec. XVIII
-BO0624_88399,216936,176,113,"von Rustige,Heinrich Franz Gaudens, geb.1810 in Werl, Galerie direktor in Stuttgart. a.Derselbe. Gebirgslandschaft mit Burg und Reiter.",890,75.3,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216937,177,114,"Derselbe. Szene aus Jungfrau von Orleans. Leinwand, Goldrahmen, Hohe 50 cm, Breite 65cm. Bez. unten links.",900,98.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216938,178,115,"Salviati, Constanza, Malerin aus Rom. Kopie nach Domenichino Sybilla.",901,97.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216939,179,116,"Schade,E.",902,80.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216940,180,5000,5000,914,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216941,181,3000,300,920,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216942,182,800,3000,924,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216943,183,300,800,928,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216944,184,1500,2000,932,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216945,185,119,"Schiavoni, Giovanni, geb.1804 in Trient, gest.1868. Turkin mit Buch und rotem Turban, Brustbild. Leinwand,Goldrahmen,Hohe 80cm, Breite 64cm, Bez. unten links.",941,98.7,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216946,186,120,"Schiavoni, Natale, geb. 1777 in Chioggia, gest. 1858 in Venedig. Ruhende nackte Venus, sich im Spiegel betrachtend. Leinwand, Goldrahmen,Hohe 122 cm,Breite 154 cm.Bez. unten rechts.",946,79.2,False,positional,"Mayer, G.",,SPECCHI,,Sec. XVIII
-BO0624_88399,216947,187,121,"Schmidt, Carl, Galeriedirektor in Dresden, geb.1808 in Leipzig. Perseus und Andromeda.",947,97.6,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216948,188,122,"Schopin, Heinrich Friedrich, eigentlich Henri Frederic Chopin, geb. 1804 in Lubeck, gest.1880 in Paris.",951,98.0,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216949,189,123,"Schuster, Rudolf, geb.1848 in Markneukirchen.",967,95.5,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216950,190,2,"Winterlandschaff mit See, Schiffen und Bauern, welche Stamme aus dem Wasser ziehen.",968,98.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,216951,191,2000,5000,976,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216952,192,1500,3000,980,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216953,193,5000,2000,984,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216954,194,2000,500,988,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216955,195,15000,5500,994,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216956,196,8100,3650-,998,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216957,197,1600,<!-- image -->,1002,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216958,198,1387,"| 124.Seele,Johann Baptist,geb.1772 in Wolfach,gest.1814 inKarlsruhe. Ein verwundeter Franzose wird von 2 Kameraden auf zwei ge- kreuzten Gewehren aus der Schlacht getragen.                                                                                          | [Anfchlag inMark   |",1017,98.7,False,positional,"Mayer, G.",,,,Sec. XVIII
-BO0624_88399,216959,199,15000,"| 125. Sicco-Hempenius. Vieh auf der Weide. Im Vordergrunde schwarz-weiss gefleckter Stier mit Kuhen am Wasser, Belgische Rasse. Leinwand, Hohe 110 cm,Breite 220 cm,in kupferfarbigem Rahmen mit Gold                                                                 | 12000              |",1022,98.5,False,positional,"Mayer, G.",,CORNICI,,
-BO0624_88399,216960,200,100,"| eingelegt, Bez. unten links. Siehe Abbildung. 126. Simonsen, Niels, geb.1807 in Kopenhagen, gest.1885 daselbst. Seerauber auf einem Segelschiffe machen einen Angriff auf ein anderes Schiff. Leinwand, Hohe 57 cm,Breite 81 cm, Bez. unten rechts. Siehe Abbildung. | 2000               |",1023,99.2,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216961,201,11300,"| Leinwand,Goldrahmen,Hohe 152 cm,Breite 198cm. Gegenstuck zu Nr.131.                                                                                                                                                                                                  | 10000              |",1028,95.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,216962,202,131,Derselbe.                                                                                                                                                                                                                             | [Anfchlag inMark       |,1029,92.3,False,positional,"Mayer, G.",,,,
-BO0624_88399,216963,203,132,"Sfieler, Josef Karl, geb. 1781 in Mainz, gest. 1858 in Munchen. Portrat einer jungen Dame aus der Munchner Schonheitsgalerie mit Perlkollier und Haarschleifen. Leinwand, Goldrahmen, Hohe 72cm,Breite 60 cm. Bez. hinten 1828.       | 1500                   |",1032,99.1,False,positional,"Mayer, G.",Scuola di Monaco,,,Sec. XVIII
+BO0624_88399,216922,162,102,| 102. Derselbe. Gebirgslandschaff mit Schloss Ortenberg in Graubunden.,848,89.2,False,none,,,,,
+BO0624_88399,216923,163,103,"103. Peters, Pietronella,geb.1848 in Stuttgart.",850,56.4,False,none,,,,,Sec. XIX
+BO0624_88399,216924,164,104,"Plagemann, Carl Gustav, Historienmaler, geb. 1805 zu Soder- telje in Sodermanland (Schweden). Heilige Katharina, Kniestuck nach Tizian. Leinwand,Goldrahmen,Hohe 133 cm,Breite 96 cm.                                                                                                                                                                               | 4000               |",852,98.9,False,none,TIZIANO VECELLIO,,,,Sec. XIX
+BO0624_88399,216925,165,105,"Derselbe. Kopie nach Paola Veronese,Original inpanien,Venus und Adonis. Leinwand, Goldrahmen,Hohe 187 cm Breite 208 cm.                                                                                                                                                                                                                                             | 5000               |",853,98.4,False,none,PAOLO VERONESE,,,,
+BO0624_88399,216926,166,106,"Pollack, Leopold, Genremaler,geb. 1806 zu Lodenitz (Bohmen). Junge Turkin,welche eine Brieftaube fliegen lasst, im Hintergrunde eine turkische Stadt bei Abendbeleuchtung. Leinwand,Goldrahmen,Hohe 180 cm,Breite 120 cm,Bez.Pollack,Rom 1853.                                                                                                                      | 5000               |",854,99.2,False,none,,,,,Sec. XIX
+BO0624_88399,216927,167,107,"Portaels,Jean Francois, geb.1818 in Vilvorde bei Brussel,gest. 1895 in Brussel. Orientalin mit farbiger Haube, Schmuck und Korb. Holz, Goldrahmen,Hohe 82 cm, Breite 66 cm, Bez. unten links.                                                                                                                                                                       | 5000               |",855,98.9,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88399,216928,168,108,"Preller, Johann Friedrich,der Aeltere,geb.1804 in Eisenach,gest. 1878 daselbst. Schiffbruch an der Meereskuste. Im Vordergrunde zerschelltes Schiff mit Schiffbruchigen an felsiger Kuste, in Hintergrunde be- wegte See mit Meervogeln bei interessant beleuchtetem Himmel. Leinwand, Goldrahmen, Hohe 140cm, Breite 195 cm, Bez.FP, Weimar 1853. Siehe Abbildung. | 20000              |",856,99.4,False,none,,,,,Sec. XIX
+BO0624_88399,216929,169,109,"Primaticcio,Franzesco, geb.1504 in Bologna,gest.1570 in Paris. Diana von Poitiers,Herzogin von Valentinois,mit leichtem Schleier umhullter Halbakt von hervorragender Feinheit, um Arme und Hals Perlenschmuck. Bedeutendes Bild. Holz, Hohe 45 cm, Breite 35 cm. Siehe Abbildung.20000                                                                             |                    |",857,99.3,False,none,HALS DIRK,Scuola Bolognese,OGGETTI IN LEGNO,,Sec. XVI
+BO0624_88399,216930,170,100,<!-- image -->,861,100.0,False,none,,,,,
+BO0624_88399,216931,171,140,4000,876,100.0,False,none,,,,,
+BO0624_88399,216932,172,109,"a.Querfurth,August, geb.1696 in Wolfenbuttel, gest.1761 in Wien. Schlacht unter Fuhrung des Herzogs Carl Alexander von Wurttemberg.",878,98.8,False,none,,Scuola Viennese,,,Sec. XVII
+BO0624_88399,216933,173,110,"von Riedel,Aug.Heinr.,geb.1802inBayreuth, gest.1883 in Rom. La Moretta, italienisches Madchen in Tracht mit Korallenkette. Leinwand, Goldrahmen,Hohe 138 cm, Breite 100cm. Siehe Abbildung.",884,98.9,False,none,,,,,Sec. XIX
+BO0624_88399,216934,174,111,"von Riedmiller, Franz Xaver, geb. 1829 in Konstanz. Hochgebirgslandschaff mit See.",885,97.5,False,none,,,,,Sec. XIX
+BO0624_88399,216935,175,112,"Riesener,Henry Francois,geb.1767 in Paris,gest.1828 daselbst. Portrat der Grafin Adelinsky,Hofdame der Konigin Katharina. Leinwand,Hohe 66cm, Breite 55cm. Bez. Seite links.",889,98.8,False,none,,,,,Sec. XVIII
+BO0624_88399,216936,176,113,"von Rustige,Heinrich Franz Gaudens, geb.1810 in Werl, Galerie direktor in Stuttgart. a.Derselbe. Gebirgslandschaft mit Burg und Reiter.",890,75.3,False,none,,,,,Sec. XIX
+BO0624_88399,216937,177,114,"Derselbe. Szene aus Jungfrau von Orleans. Leinwand, Goldrahmen, Hohe 50 cm, Breite 65cm. Bez. unten links.",900,98.0,False,none,,,,,
+BO0624_88399,216938,178,115,"Salviati, Constanza, Malerin aus Rom. Kopie nach Domenichino Sybilla.",901,97.0,False,none,"DOMENICHINO, ZAMPIERI DOMENICO",,,,
+BO0624_88399,216939,179,116,"Schade,E.",902,80.0,False,none,,,,,
+BO0624_88399,216940,180,5000,5000,914,100.0,False,none,,,,,
+BO0624_88399,216941,181,3000,300,920,100.0,False,none,,,,,
+BO0624_88399,216942,182,800,3000,924,100.0,False,none,,,,,
+BO0624_88399,216943,183,300,800,928,100.0,False,none,,,,,
+BO0624_88399,216944,184,1500,2000,932,100.0,False,none,,,,,
+BO0624_88399,216945,185,119,"Schiavoni, Giovanni, geb.1804 in Trient, gest.1868. Turkin mit Buch und rotem Turban, Brustbild. Leinwand,Goldrahmen,Hohe 80cm, Breite 64cm, Bez. unten links.",941,98.7,False,none,,,,,Sec. XIX
+BO0624_88399,216946,186,120,"Schiavoni, Natale, geb. 1777 in Chioggia, gest. 1858 in Venedig. Ruhende nackte Venus, sich im Spiegel betrachtend. Leinwand, Goldrahmen,Hohe 122 cm,Breite 154 cm.Bez. unten rechts.",946,79.2,False,none,,,SPECCHI,,Sec. XVIII
+BO0624_88399,216947,187,121,"Schmidt, Carl, Galeriedirektor in Dresden, geb.1808 in Leipzig. Perseus und Andromeda.",947,97.6,False,none,,,,,Sec. XIX
+BO0624_88399,216948,188,122,"Schopin, Heinrich Friedrich, eigentlich Henri Frederic Chopin, geb. 1804 in Lubeck, gest.1880 in Paris.",951,98.0,False,none,,,,,Sec. XIX
+BO0624_88399,216949,189,123,"Schuster, Rudolf, geb.1848 in Markneukirchen.",967,95.5,False,none,,,,,Sec. XIX
+BO0624_88399,216950,190,2,"Winterlandschaff mit See, Schiffen und Bauern, welche Stamme aus dem Wasser ziehen.",968,98.8,False,none,,,,,
+BO0624_88399,216951,191,2000,5000,976,100.0,False,none,,,,,
+BO0624_88399,216952,192,1500,3000,980,100.0,False,none,,,,,
+BO0624_88399,216953,193,5000,2000,984,100.0,False,none,,,,,
+BO0624_88399,216954,194,2000,500,988,100.0,False,none,,,,,
+BO0624_88399,216955,195,15000,5500,994,100.0,False,none,,,,,
+BO0624_88399,216956,196,8100,3650-,998,100.0,False,none,,,,,
+BO0624_88399,216957,197,1600,<!-- image -->,1002,100.0,False,none,,,,,
+BO0624_88399,216958,198,1387,"| 124.Seele,Johann Baptist,geb.1772 in Wolfach,gest.1814 inKarlsruhe. Ein verwundeter Franzose wird von 2 Kameraden auf zwei ge- kreuzten Gewehren aus der Schlacht getragen.                                                                                          | [Anfchlag inMark   |",1017,98.7,False,none,,,,,Sec. XVIII
+BO0624_88399,216959,199,15000,"| 125. Sicco-Hempenius. Vieh auf der Weide. Im Vordergrunde schwarz-weiss gefleckter Stier mit Kuhen am Wasser, Belgische Rasse. Leinwand, Hohe 110 cm,Breite 220 cm,in kupferfarbigem Rahmen mit Gold                                                                 | 12000              |",1022,98.5,False,none,,,CORNICI,,
+BO0624_88399,216960,200,100,"| eingelegt, Bez. unten links. Siehe Abbildung. 126. Simonsen, Niels, geb.1807 in Kopenhagen, gest.1885 daselbst. Seerauber auf einem Segelschiffe machen einen Angriff auf ein anderes Schiff. Leinwand, Hohe 57 cm,Breite 81 cm, Bez. unten rechts. Siehe Abbildung. | 2000               |",1023,99.2,False,none,,,,,Sec. XIX
+BO0624_88399,216961,201,11300,"| Leinwand,Goldrahmen,Hohe 152 cm,Breite 198cm. Gegenstuck zu Nr.131.                                                                                                                                                                                                  | 10000              |",1028,95.9,False,none,,,,,
+BO0624_88399,216962,202,131,Derselbe.                                                                                                                                                                                                                             | [Anfchlag inMark       |,1029,92.3,False,none,,,,,
+BO0624_88399,216963,203,132,"Sfieler, Josef Karl, geb. 1781 in Mainz, gest. 1858 in Munchen. Portrat einer jungen Dame aus der Munchner Schonheitsgalerie mit Perlkollier und Haarschleifen. Leinwand, Goldrahmen, Hohe 72cm,Breite 60 cm. Bez. hinten 1828.       | 1500                   |",1032,99.1,False,none,,Scuola di Monaco,,,Sec. XVIII
 BO0624_88399,216964,204,133,"Stockler, Emanuel, geb.1819 in Nikolsburg. Eine Dame in ganzer Figur, im Rokokokostum, eines der be- deutendsten Bilder der ganzen Sammlung. Aquarell, Goldrahmen, Hohe 127 cm,Breite 87 cm. Bez.unten rechts.                        | 50000 Siehe Abbildung. |",1033,99.1,False,title_direct,,,FOTOGRAFIE,,Sec. XIX
-BO0624_88399,216965,205,134,"Storch,Frederik Ludwig,geb.1805 in Kjerte auf Funen, gest.1883 in Kopenhagen. Italienerin mif entblosster Brust mit Mandoline, im Hintergrunde das Meer mit Bergen. Leinwand, Goldrahmen, Hohe 57 cm, Breite 47 cm, Bez.Mitte rechts. | 2000                   |",1034,99.1,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,216966,206,135,"Strecker, Wilhelm, geb.1795, gest.1857 in Stuttgart. Semele in Erwartung Jupiters. Leinwand, Goldrahmen, Hohe 68 cm,Breite 56 cm, Bez.unten links.                                                                                    | 1200                   |",1035,98.6,False,positional,"Mayer, G.",,,,Sec. XVIII
-BO0624_88399,216967,207,136,"Derselbe. Pomona, Brustbild eines Madchens mit Blumenkranz und Fruchten. Leinwand, Goldrahmen, Hohe 78 cm, Breite 60 cm,Bez.unten links.                                                                                              | 1000                   |",1036,98.5,False,positional,"Mayer, G.",,,,Sec. XI
-BO0624_88399,216968,208,137,"Tisi, Benvenuto, genannt Garofelo, geb. 1481 bei Ferrara, gest. 1559 daselbst. Madonna mit dem Jesuskind,im Hintergrund Landschaff mit Gebirge. Holz,Goldrahmen, Hohe 52cm, Breite 37 cm, Bez.hinten 1525.                            | 10000                  |",1038,99.0,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,Sec. XV
-BO0624_88399,216969,209,808,808,1040,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216970,210,800,3300,1046,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216971,211,2290,3100,1049,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216972,212,1850,7,1053,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216973,213,137,"a.Unbekannt. Niederlander Schule. Amorelten in Parklandschaff mit Fruchten.                                                                                                                |   [Anfchlag inMark | b.Desgleichen. Amoretten in Parklandschaft mit Fruchten. Leinwand,Goldrahmen,Hohe 50 cm,Breite 65cm. Gegenstuck zu Nr.137a.                                                                |               1000 |",1062,72.9,False,positional,"Mayer, G.",,,,Sec. XI
-BO0624_88399,216974,214,138,"Unbekannt. Art Hetsch. Parklandschaff mit Liebespaar. Leinwand,Goldrahmen,Hohe 76 cm,Breite 94 cm.                                                                                       |               1500 |",1063,98.0,False,positional,"Mayer, G.",,,,Sec. XVI
-BO0624_88399,216975,215,139,"Unbekannt. Franzosische Schule. Faun uiberrascht zwei Nymphen. Holz, Goldrahmen,Hohe 35 cm,Breite 47 cm. Siehe Abbildung.                                                                |               1000 |",1064,98.4,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,Sec. XI
-BO0624_88399,216976,216,140,"Unbekannt. Art Pflug. Wurttembergische Infanterie im Gefecht am Wegkreuz. Holz, Goldrahmen,Hohe 35cm,Breite 47 cm.                                                                       |                500 |",1065,98.3,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,
+BO0624_88399,216965,205,134,"Storch,Frederik Ludwig,geb.1805 in Kjerte auf Funen, gest.1883 in Kopenhagen. Italienerin mif entblosster Brust mit Mandoline, im Hintergrunde das Meer mit Bergen. Leinwand, Goldrahmen, Hohe 57 cm, Breite 47 cm, Bez.Mitte rechts. | 2000                   |",1034,99.1,False,none,,,,,Sec. XIX
+BO0624_88399,216966,206,135,"Strecker, Wilhelm, geb.1795, gest.1857 in Stuttgart. Semele in Erwartung Jupiters. Leinwand, Goldrahmen, Hohe 68 cm,Breite 56 cm, Bez.unten links.                                                                                    | 1200                   |",1035,98.6,False,none,,,,,Sec. XVIII
+BO0624_88399,216967,207,136,"Derselbe. Pomona, Brustbild eines Madchens mit Blumenkranz und Fruchten. Leinwand, Goldrahmen, Hohe 78 cm, Breite 60 cm,Bez.unten links.                                                                                              | 1000                   |",1036,98.5,False,none,,,,,Sec. XI
+BO0624_88399,216968,208,137,"Tisi, Benvenuto, genannt Garofelo, geb. 1481 bei Ferrara, gest. 1559 daselbst. Madonna mit dem Jesuskind,im Hintergrund Landschaff mit Gebirge. Holz,Goldrahmen, Hohe 52cm, Breite 37 cm, Bez.hinten 1525.                            | 10000                  |",1038,99.0,False,none,,,OGGETTI IN LEGNO,,Sec. XV
+BO0624_88399,216969,209,808,808,1040,100.0,False,none,,,,,
+BO0624_88399,216970,210,800,3300,1046,100.0,False,none,,,,,
+BO0624_88399,216971,211,2290,3100,1049,100.0,False,none,,,,,
+BO0624_88399,216972,212,1850,7,1053,100.0,False,none,,,,,
+BO0624_88399,216973,213,137,"a.Unbekannt. Niederlander Schule. Amorelten in Parklandschaff mit Fruchten.                                                                                                                |   [Anfchlag inMark | b.Desgleichen. Amoretten in Parklandschaft mit Fruchten. Leinwand,Goldrahmen,Hohe 50 cm,Breite 65cm. Gegenstuck zu Nr.137a.                                                                |               1000 |",1062,72.9,False,none,,,,,Sec. XI
+BO0624_88399,216974,214,138,"Unbekannt. Art Hetsch. Parklandschaff mit Liebespaar. Leinwand,Goldrahmen,Hohe 76 cm,Breite 94 cm.                                                                                       |               1500 |",1063,98.0,False,none,,,,,Sec. XVI
+BO0624_88399,216975,215,139,"Unbekannt. Franzosische Schule. Faun uiberrascht zwei Nymphen. Holz, Goldrahmen,Hohe 35 cm,Breite 47 cm. Siehe Abbildung.                                                                |               1000 |",1064,98.4,False,none,,,OGGETTI IN LEGNO,,Sec. XI
+BO0624_88399,216976,216,140,"Unbekannt. Art Pflug. Wurttembergische Infanterie im Gefecht am Wegkreuz. Holz, Goldrahmen,Hohe 35cm,Breite 47 cm.                                                                       |                500 |",1065,98.3,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88399,216977,217,141,"Unbekannt. Anlagensee mit Vogelhaus, im Hintergrunde Stuttgart. Aquarell, Goldrahmen, Hohe 46 cm, Breite 64 cm.                                                                           |                200 |",1066,98.2,False,title_direct,,,Aquarelle,,
-BO0624_88399,216978,218,142,"Unbekannt. Marskopf. Kreidezeichnung, Goldrahmen,Hohe 68 cm,Breite 55 cm.                                                                                                                |                 50 |",1067,97.3,False,positional,"Mayer, G.",,,,
+BO0624_88399,216978,218,142,"Unbekannt. Marskopf. Kreidezeichnung, Goldrahmen,Hohe 68 cm,Breite 55 cm.                                                                                                                |                 50 |",1067,97.3,False,none,,,,,
 BO0624_88399,216979,219,143,"Unbekannt. Portrat unter Glas mit 9 Miniaturen nach italienischen Meistern. Aquarell, Goldrahmen, Hohe 122 cm, Breite 104 cm. Siehe Abbildung.                                           |               5000 |",1068,98.6,False,title_direct,,,MINIATURE,,
 BO0624_88399,216980,220,144,"Unbekannt. Niederlander Schule. Trauung vor einem niederlandischen Burgermeister aus der Zeit des 30jahrigen Krieges. Aquarell, Goldrahmen, Hohe 35 cm, Breite 51 cm, Bez. unten rechts. |                500 |",1069,98.9,False,title_direct,,,Aquarelle,,
-BO0624_88399,216981,221,500,<!-- image -->,1078,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216982,222,1600,| 156. Unbekannt. Art Harper. Die Landschaft Berg bei Stuttgart mit dem Holzgarten im 18. Jahr- hundert.                                                                                                                                                 |   [Anfchlag in Mark |,1081,97.8,False,positional,"Mayer, G.",,,,Sec. XVIII
-BO0624_88399,216983,223,15000,"| Leinwand, Goldrahmen,Hohe 46cm,Breite 64 cm. 157. Unbekannter Meister. Italienische Schule. Brustbild einer italienischen Dame in Kostum aus dem 15. Jahr- hundert. (Bedeutendes Stuck.)                                                               |                 800 |",1083,98.3,False,positional,"Mayer, G.",,,,Sec. XV
-BO0624_88399,216984,224,10500,"| Leinwand,Goldrahmen,Hohe 48 cm,Breite 38cm. 158. Unbekannt. Nach einer Komposition von Raffael. Venus und Vulkan mit Amoreffen, welche Bogen spannen und einen Fruchtenkorb uiberreichen. Holz, Goldrahmen, Hohe 64 cm, Breite 46 cm. Siehe Abbildung. |               20000 |",1084,98.8,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,
-BO0624_88399,216985,225,320,| 159. Unbekannt. Stehender Rappe in Landschaff.                                                                                                                                                                                                         |                3000 |,1085,96.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216986,226,1300,"| Oval auf Pappe, Goldrahmen, Hohe 32 cm,Breite 40 cm. 161. Unbekannt. Franzosischer Jager auf Vorposten.                                                                                                                                                |                 100 |",1087,97.6,False,positional,"Mayer, G.",,,,
-BO0624_88399,216987,227,2570,"| Glasgemalde,Hohe 40 cm, Breite 47 cm. 163. Unbekannt. Portrat einer Dame in rotem Kleide.                                                                                                                                                              |                 600 |",1089,97.2,False,positional,"Mayer, G.",,,,
-BO0624_88399,216988,228,166,Unbekannt.                                                                                                                                                                                                                                           | [Anfchlag inMark   |,1093,92.6,False,positional,"Mayer, G.",,,,
+BO0624_88399,216981,221,500,<!-- image -->,1078,100.0,False,none,,,,,
+BO0624_88399,216982,222,1600,| 156. Unbekannt. Art Harper. Die Landschaft Berg bei Stuttgart mit dem Holzgarten im 18. Jahr- hundert.                                                                                                                                                 |   [Anfchlag in Mark |,1081,97.8,False,none,,,,,Sec. XVIII
+BO0624_88399,216983,223,15000,"| Leinwand, Goldrahmen,Hohe 46cm,Breite 64 cm. 157. Unbekannter Meister. Italienische Schule. Brustbild einer italienischen Dame in Kostum aus dem 15. Jahr- hundert. (Bedeutendes Stuck.)                                                               |                 800 |",1083,98.3,False,none,STUCK FRANZ VON,,,,Sec. XV
+BO0624_88399,216984,224,10500,"| Leinwand,Goldrahmen,Hohe 48 cm,Breite 38cm. 158. Unbekannt. Nach einer Komposition von Raffael. Venus und Vulkan mit Amoreffen, welche Bogen spannen und einen Fruchtenkorb uiberreichen. Holz, Goldrahmen, Hohe 64 cm, Breite 46 cm. Siehe Abbildung. |               20000 |",1084,98.8,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88399,216985,225,320,| 159. Unbekannt. Stehender Rappe in Landschaff.                                                                                                                                                                                                         |                3000 |,1085,96.0,False,none,,,,,
+BO0624_88399,216986,226,1300,"| Oval auf Pappe, Goldrahmen, Hohe 32 cm,Breite 40 cm. 161. Unbekannt. Franzosischer Jager auf Vorposten.                                                                                                                                                |                 100 |",1087,97.6,False,none,,,,,
+BO0624_88399,216987,227,2570,"| Glasgemalde,Hohe 40 cm, Breite 47 cm. 163. Unbekannt. Portrat einer Dame in rotem Kleide.                                                                                                                                                              |                 600 |",1089,97.2,False,none,,,,,
+BO0624_88399,216988,228,166,Unbekannt.                                                                                                                                                                                                                                           | [Anfchlag inMark   |,1093,92.6,False,none,,,,,
 BO0624_88399,216989,229,167,"Unbekannt. Senn und Sennerin, im Hintergrunde Gebirgssee. Aquarell, Hohe 22 cm, Breite 19 cm,Goldrahmen.                                                                                                                                             | 100                |",1096,98.1,False,title_direct,,,Aquarelle,,
 BO0624_88399,216990,230,168,"| 168. Unbekannt. Domane Klein-Hohenheim mit Pferden, mit Birkach und Hohen- neuffen. Aquarell, Goldrahmen,Hohe 15 cm,Br",1097,88.5,False,title_direct,,,Aquarelle,,
 BO0624_88399,216991,231,169,"169.Unbekannt. Neckarlandschaff mit schwabischer Alb. Aquarell, Goldrahmen,Hohe 13 cm,Breite 17 cm,Bez.Marie 1834. Wahrs",1098,64.3,False,title_direct,,,Aquarelle,,Sec. XIX
 BO0624_88399,216992,232,170,"| 170. Unbekannt. Gebirgslandschaff mit See, Sennhutte und Bauerin. Aquarell, Goldrahmen, Hohe 18 cm, Breite 24 cm,Bez.M",1099,96.1,False,title_direct,,,Aquarelle,,
 BO0624_88399,216993,233,171,"171. Unbekannt. Gebirgslandschaff mit Kloster und Monchen. Aquarell, Goldrahmen, Hohe 16 cm, Breite 22 cm.",1100,73.9,False,title_direct,,,Aquarelle,,
-BO0624_88399,216994,234,172,"Unbekannt. Christus im Garten Gethsemane, von einem Engel unterstutzt. Achatplatte, schwarzer Rahmen,Hohe 19 cm,Breite 16 cm.                                                                                                                        | 500                |",1101,98.4,False,positional,"Mayer, G.",,CORNICI,,
-BO0624_88399,216995,235,173,"Veronese,Paolo, eigentlich Paolo Caliari oder Cagliari, geb.1528 in Verona, gest.1588 in Venedig. Brustbild einer edlen Dame in interessantem Kostum. Leinwand, Goldrahmen,Hohe 55 cm,Breite 47 cm. Siehe Abbildung.30000                             |                    |",1102,99.1,False,positional,"Mayer, G.",,,,Sec. XVI
-BO0624_88399,216996,236,174,"Volz, H., geb. in Biberach. Fahrende Leute in der schwabischen Dorfschenke. Leinwand, Goldrahmen, Hohe 40 cm, Breite 32 cm, Bez.unten links.                                                                                                         | 500                |",1103,98.5,False,positional,"Mayer, G.",,,,
-BO0624_88399,216997,237,175,"Derselbe. Gipsfigurenhandler in einer schwabischen Dorfschenke, am Tisch Bauer mit Bauerin und Bauernjungen in schwabischer Tracht. Leinwand, Goldrahmen, Hohe 38 cm, Breite 49 cm, Bez.unten rechts.                                                | 800                |",1104,99.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216998,238,1550,11SD,1108,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,216999,239,1000,12560,1112,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217000,240,460,3600,1116,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217001,241,177,"Wappers,Baron,Egidius Karel Gustav,geb.1803 in Antwerpen, gest. 1874 in Paris.",1133,97.4,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217002,242,179,## 179. Derselbe.,1143,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217003,243,180,"180. Wustlich, Offo,geb.1819 in Pfaffendorf, gest.1886 in Schonberg bei Passau.",1151,100.0,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217004,244,181,## 181. Derselbe.,1157,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217005,245,182,## 182. Derselbe.,1163,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217006,246,183,"Wijck,Thomas,geb.1616 in Beverwijk, gest.1677 in Haarlem. Landschaft mit Ruine und Figuren.",1173,97.8,False,positional,"Mayer, G.",,,,Sec. XVII
-BO0624_88399,217007,247,400,2000,1179,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217008,248,10000,2000,1183,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217009,249,2000,1200,1187,100.0,False,positional,"Mayer, G.",,,,Sec. XIII
-BO0624_88399,217010,250,1200,Siehe Abbildung.,1191,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217011,251,184,"Zampieri, Domenico, genannt Dominichino, geb. 1581 in Bologna, gest. 1641 in Neapel. Die heilige Cacilie mit Notenblatt. Leinwand, Goldrahmen, Hohe 82 cm, Breite 66 cm. Siehe Abbildung.   | [Anfchlag in Mark             |",1194,99.0,False,positional,"Mayer, G.",Scuola Bolognese,,,Sec. XVI
-BO0624_88399,217012,252,185,"Zwecker, Johann Baptist, geb. 1815 in Frankfurt, gest. 1876 in London. Zwei Hunde (Pinscher).                                                                                               | 5000                          |",1196,97.8,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217013,253,186,"| 186. Derselbe. Gestut Weil mit Pferden. Leinwand, Goldrahmen, Hohe 88 cm, Breite 140 cm, Bez. unten rechts.",1198,97.5,False,positional,"Mayer, G.",,,,
-BO0624_88399,217014,254,187,"187. Derselbe. Gestut Weil mit Pferden, mit Aussicht auf das Neckartal. Leinwand, Goldrahmen,Hohe 88 cm,Breite 142 cm,Be",1199,81.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217015,255,188,"Alexander I. emperor of all the Russias. Sculpsit W. Bromlay. Mahagoni-Rahmen, mit Goldbronze-Rosetten. Hohe 65 cm,Breite 45 cm.                                                            | 80                            |",1200,98.4,False,positional,"Mayer, G.",,CORNICI,,
-BO0624_88399,217016,256,189,"La Bourse a St. Petersbourg. Peint par B.Paterssen 1807. Hohe 45 cm, Breite 62 cm. Siehe Abbildungen.                                                                                       | 400                           |",1201,98.0,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217017,257,190,"La nouvelle eglise de Kazan dans la Perspective de Newsky a St. Petersbourg. Hohe 45 cm, Breite 62 cm.                                                                                      | 400                           |",1202,98.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217018,258,191,"Le grand Theatre Imperial daselbst.                                                                                                                                                         | Hohe 45 cm,Breife 62 cm. 400  |",1203,96.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217019,259,192,"Vue de la Sennoy de foin daselbst.                                                                                                                                                          | Hohe 43 cm, Breite 63 cm. 400 |",1204,96.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217020,260,193,"A view in Russia from a Noblemans Seat near Wyborg in Finn- land. J. Clark Etshed. Hohe 44 cm, Breite 52 cm.                                                                                | 600                           |",1205,98.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217021,261,194,"A scene in Russian Finnland. Aquatinted by M. Merigot. Hohe 43 cm,Breite 53 cm.                                                                                                              | 600                           |",1206,97.5,False,positional,"Mayer, G.",,,,
-BO0624_88399,217022,262,1400,13570,1210,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217023,263,17,aLS,1214,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217024,264,229,9-201,1217,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217025,265,1362,3570,1221,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217026,266,1850,"| 195.A scene in Russian Finnland. Aquatinted by M. Merigot. Hohe 43 cm,Breite 53 cm. Gegenstuck zu Nr. 194.                                                                                         |   Anfchlag inMark 600 |",1225,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217027,267,196,| 196. Ansicht von Petersburg. Dessine d'apres nature par Vorobiew 1846.,1227,97.1,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217028,268,197,"197. Desgleichen. Hohe 38 cm,Breite 57 cm. Gegenstuck zu Nr. 196.",1228,81.1,False,positional,"Mayer, G.",,,,
+BO0624_88399,216994,234,172,"Unbekannt. Christus im Garten Gethsemane, von einem Engel unterstutzt. Achatplatte, schwarzer Rahmen,Hohe 19 cm,Breite 16 cm.                                                                                                                        | 500                |",1101,98.4,False,none,,,CORNICI,,
+BO0624_88399,216995,235,173,"Veronese,Paolo, eigentlich Paolo Caliari oder Cagliari, geb.1528 in Verona, gest.1588 in Venedig. Brustbild einer edlen Dame in interessantem Kostum. Leinwand, Goldrahmen,Hohe 55 cm,Breite 47 cm. Siehe Abbildung.30000                             |                    |",1102,99.1,False,none,PAOLO VERONESE,,,,Sec. XVI
+BO0624_88399,216996,236,174,"Volz, H., geb. in Biberach. Fahrende Leute in der schwabischen Dorfschenke. Leinwand, Goldrahmen, Hohe 40 cm, Breite 32 cm, Bez.unten links.                                                                                                         | 500                |",1103,98.5,False,none,,,,,
+BO0624_88399,216997,237,175,"Derselbe. Gipsfigurenhandler in einer schwabischen Dorfschenke, am Tisch Bauer mit Bauerin und Bauernjungen in schwabischer Tracht. Leinwand, Goldrahmen, Hohe 38 cm, Breite 49 cm, Bez.unten rechts.                                                | 800                |",1104,99.0,False,none,,,,,
+BO0624_88399,216998,238,1550,11SD,1108,100.0,False,none,,,,,
+BO0624_88399,216999,239,1000,12560,1112,100.0,False,none,,,,,
+BO0624_88399,217000,240,460,3600,1116,100.0,False,none,,,,,
+BO0624_88399,217001,241,177,"Wappers,Baron,Egidius Karel Gustav,geb.1803 in Antwerpen, gest. 1874 in Paris.",1133,97.4,False,none,,,,,Sec. XIX
+BO0624_88399,217002,242,179,## 179. Derselbe.,1143,100.0,False,none,,,,,
+BO0624_88399,217003,243,180,"180. Wustlich, Offo,geb.1819 in Pfaffendorf, gest.1886 in Schonberg bei Passau.",1151,100.0,False,none,,,,,Sec. XIX
+BO0624_88399,217004,244,181,## 181. Derselbe.,1157,100.0,False,none,,,,,
+BO0624_88399,217005,245,182,## 182. Derselbe.,1163,100.0,False,none,,,,,
+BO0624_88399,217006,246,183,"Wijck,Thomas,geb.1616 in Beverwijk, gest.1677 in Haarlem. Landschaft mit Ruine und Figuren.",1173,97.8,False,none,,,,,Sec. XVII
+BO0624_88399,217007,247,400,2000,1179,100.0,False,none,,,,,
+BO0624_88399,217008,248,10000,2000,1183,100.0,False,none,,,,,
+BO0624_88399,217009,249,2000,1200,1187,100.0,False,none,,,,,Sec. XIII
+BO0624_88399,217010,250,1200,Siehe Abbildung.,1191,100.0,False,none,,,,,
+BO0624_88399,217011,251,184,"Zampieri, Domenico, genannt Dominichino, geb. 1581 in Bologna, gest. 1641 in Neapel. Die heilige Cacilie mit Notenblatt. Leinwand, Goldrahmen, Hohe 82 cm, Breite 66 cm. Siehe Abbildung.   | [Anfchlag in Mark             |",1194,99.0,False,none,"DOMENICHINO, ZAMPIERI DOMENICO",Scuola Bolognese,,,Sec. XVI
+BO0624_88399,217012,252,185,"Zwecker, Johann Baptist, geb. 1815 in Frankfurt, gest. 1876 in London. Zwei Hunde (Pinscher).                                                                                               | 5000                          |",1196,97.8,False,none,,,,,Sec. XIX
+BO0624_88399,217013,253,186,"| 186. Derselbe. Gestut Weil mit Pferden. Leinwand, Goldrahmen, Hohe 88 cm, Breite 140 cm, Bez. unten rechts.",1198,97.5,False,none,,,,,
+BO0624_88399,217014,254,187,"187. Derselbe. Gestut Weil mit Pferden, mit Aussicht auf das Neckartal. Leinwand, Goldrahmen,Hohe 88 cm,Breite 142 cm,Be",1199,81.9,False,none,,,,,
+BO0624_88399,217015,255,188,"Alexander I. emperor of all the Russias. Sculpsit W. Bromlay. Mahagoni-Rahmen, mit Goldbronze-Rosetten. Hohe 65 cm,Breite 45 cm.                                                            | 80                            |",1200,98.4,False,none,,,CORNICI,,
+BO0624_88399,217016,256,189,"La Bourse a St. Petersbourg. Peint par B.Paterssen 1807. Hohe 45 cm, Breite 62 cm. Siehe Abbildungen.                                                                                       | 400                           |",1201,98.0,False,none,,,,,Sec. XIX
+BO0624_88399,217017,257,190,"La nouvelle eglise de Kazan dans la Perspective de Newsky a St. Petersbourg. Hohe 45 cm, Breite 62 cm.                                                                                      | 400                           |",1202,98.1,False,none,,,,,
+BO0624_88399,217018,258,191,"Le grand Theatre Imperial daselbst.                                                                                                                                                         | Hohe 45 cm,Breife 62 cm. 400  |",1203,96.9,False,none,,,,,
+BO0624_88399,217019,259,192,"Vue de la Sennoy de foin daselbst.                                                                                                                                                          | Hohe 43 cm, Breite 63 cm. 400 |",1204,96.8,False,none,,,,,
+BO0624_88399,217020,260,193,"A view in Russia from a Noblemans Seat near Wyborg in Finn- land. J. Clark Etshed. Hohe 44 cm, Breite 52 cm.                                                                                | 600                           |",1205,98.1,False,none,,,,,
+BO0624_88399,217021,261,194,"A scene in Russian Finnland. Aquatinted by M. Merigot. Hohe 43 cm,Breite 53 cm.                                                                                                              | 600                           |",1206,97.5,False,none,,,,,
+BO0624_88399,217022,262,1400,13570,1210,100.0,False,none,,,,,
+BO0624_88399,217023,263,17,aLS,1214,100.0,False,none,,,,,
+BO0624_88399,217024,264,229,9-201,1217,100.0,False,none,,,,,
+BO0624_88399,217025,265,1362,3570,1221,100.0,False,none,,,,,
+BO0624_88399,217026,266,1850,"| 195.A scene in Russian Finnland. Aquatinted by M. Merigot. Hohe 43 cm,Breite 53 cm. Gegenstuck zu Nr. 194.                                                                                         |   Anfchlag inMark 600 |",1225,100.0,False,none,,,,,
+BO0624_88399,217027,267,196,| 196. Ansicht von Petersburg. Dessine d'apres nature par Vorobiew 1846.,1227,97.1,False,none,,,,,Sec. XIX
+BO0624_88399,217028,268,197,"197. Desgleichen. Hohe 38 cm,Breite 57 cm. Gegenstuck zu Nr. 196.",1228,81.1,False,none,,,,,
 BO0624_88399,217029,269,198,"Schreibzimmer der Konigin Katharina, fruheren Prinzessin Peter von Oldenburg, im Palais von St. Petersburg. Aquarell, dessine par M. Vorobiew 1816. Hohe 36 cm,Breite 55 cm.                  |                   400 |",1229,98.8,False,title_direct,,,Aquarelle,,Sec. XIX
-BO0624_88399,217030,270,199,"Schlafzimmer der Konigin Katharina, fruheren Prinzessin Peter von Oldenburg in St.Petersburg. Dessine par M. Vorobiew 1816. Hohe 36 cm,Breite 55 cm. Gegenstuck zu Nr. 198.                   |                   400 |",1230,98.8,False,positional,"Mayer, G.",,OGGETTI VARI,,Sec. XIX
-BO0624_88399,217031,271,200,"Ein Zimmer der Konigin Katharina, vorherigen Prinzessin Peter von Oldenburg,im Palais in St.Petersburg.Dessine par M. Vorobiew. Hohe 50 cm,Breite 45 cm.                                      |                   600 |",1231,98.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,217032,272,201,"Vue du Palais Imperial de Gatschina, de son jardin et de ses environs. Entrepris aux frais de Jean Walser, Negociant de la premiere classe a Moscou publie en 1799. Hohe 48 cm, Breite 72 cm. |                  1000 |",1232,98.9,False,positional,"Mayer, G.",,,,Sec. XVIII
-BO0624_88399,217033,273,202,"Kammenoi ostrow et les environs a St. Petersbourg peint par B. Paterssen 1806. Hohe 44 cm,Breite 63 cm.                                                                                       |                   600 |",1233,98.1,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217034,274,203,"Le palais Imperial de Tauride et les environs a St. Petersbourg, peint par B. Paterssen 1806. Hohe 45 cm, Breite 63 cm.                                                                       |                   600 |",1234,98.3,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217035,275,204,"Vue de lAmiraute a St. Petersbourg. Dessine par J. Urenius 1816. Hohe 45 cm, Breite 62 cm.                                                                                                    |                   600 |",1235,97.8,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217036,276,205,"Vue des Boutiques russes au perspectif de Newsky avec la maison de ville a St. Petersbourg. Hohe 45 cm, Breite 62 cm. Gegenstuck zu Nr. 204.                                                  |                   600 |",1236,98.6,False,positional,"Mayer, G.",,,,
-BO0624_88399,217037,277,206,"La Banque de l'Empire. Hohe 44 cm,Breite 63 cm.                                                                                                                                               |                   600 |",1237,96.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217038,278,207,"Le nouveau Pont de fer dans la perspective de Newsky a St. Peters- bourg. Hohe 45 cm, Breite 63 cm.                                                      |   [Anfchlag inMark 600 |",1238,98.3,False,positional,"Mayer, G.",,,,
-BO0624_88399,217039,279,208,"L'Obelisque aux victoires de Roumaintzof et de la statue de Sou- vorof a St. Petersbourg; peint par Paterssen 1806. Hohe 45 cm, Breite 63 cm.            |                    600 |",1240,98.6,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217040,280,209,"La Statue équestre de Pierre le Grand a Sf. Petersbourg; peint par B. Paterssen 1806. Hohe 45 cm, Breife 63 cm.                                          |                    600 |",1241,98.2,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217041,281,210,"Facade principale du Chateau St. Michel sur la grande entree a St. Petersbourg;peint par B. Paterssen 1807. Hohe 45 cm, Breife 63 cm.                    |                    600 |",1242,98.5,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217042,282,211,"Palais Imperial, pris du cote de midi de la Forteresse a St. Peters- bourg. Hohe 45 cm, Breite 63 cm.                                                    |                    500 |",1243,98.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217043,283,212,"Palais de Marbre,pris du cote de midi de la Forteresse a St. Peters- bourg. Hohe 45 cm, Breite 63 cm.                                                    |                    500 |",1244,98.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217044,284,213,"| 213. Erbe, Louis,Reliefkarte von Palastina mit Plan von Jerusalem 1842. Hohe 48 cm,Breite 43 cm, Goldrahmen.",1245,80.8,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217045,285,214,"214. Derselbe, Reliefkarte von Deutschland 1843. |                     20 |",1246,35.1,False,positional,"Mayer, G.",,,,Sec. XIX
-BO0624_88399,217046,286,215,"Rath, Carl, Tubingen, Reliefkarte von Wurtfemberg. Hohe 85 cm,Breite 64 cm,Goldrahmen.                                                                   |                     50 |",1247,97.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,217047,287,216,"Derselbe, Reliefkarte von Wurttemberg. Hohe 85 cm, Breite 64 cm, Goldrahmen.                                                                             |                     50 |",1248,97.4,False,positional,"Mayer, G.",,,,
-BO0624_88399,217048,288,217,"Kaiser Napoleon, nach Isabey, grave par Tielker. Hohe 24 cm, Breite 18 cm, Goldrahmen.                                                                   |                     20 |",1249,97.6,False,positional,"Mayer, G.",,,,
-BO0624_88399,217049,289,218,"Grossfurst Konstantin, Lithographie in Mahagonirahmen mit Rosetten. Hohe 50 cm,Breite 41 cm.                                                             |                     60 |",1250,97.9,False,positional,"Mayer, G.",,STAMPE E INCISIONI,,
-BO0624_88399,217050,290,219,"Wilhelm, Konig von Wurtemberg, Stich von Spachholz. Hohe 59 cm,Breite 46 cm,Goldrahmen.                                                                  |                    150 |",1251,97.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217051,291,220,"Nurnberg, Stich von Loser. Hohe 60 cm, Breite 80 cm, Goldrahmen mit Wappen.                                                                              |                     50 |",1252,97.3,False,positional,"Mayer, G.",Scuola di Norimberga,,,
-BO0624_88399,217052,292,221,"Ein Osterreichischer Feldmarschall, Lithographie von Kriehaber. Hohe 32 cm,Breite 29 cm, Goldrahmen.                                                     |                     20 |",1253,98.0,False,positional,"Mayer, G.",,STAMPE E INCISIONI,,
-BO0624_88399,217053,293,2300,1880,1257,100.0,False,positional,"Mayer, G.",Scuola di Monaco,,,Sec. XIX
-BO0624_88399,217054,294,3700,B10o,1263,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217055,295,180,160,1267,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217056,296,200,<!-- image -->,1272,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217057,297,13607,20,1276,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217058,298,3400,00,1280,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217059,299,22201,26000,1284,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217060,300,222,"Eine Romerin, dem Bade entsteigend, nach Correggio. Stich von Chevenin. Hohe 49 cm,Breite 55 cm,Goldrahmen.                                                                                                                 | Anfchlag in Mark 100   |",1286,98.4,False,positional,"Mayer, G.",,,,
-BO0624_88399,217061,301,223,"Karlshohe bei Ludwigsburg. Photographie, Hohe 66 cm, Breife 92 cm, schwarzer Rahmen.                                                                                                                                        | 60                     |",1288,97.6,False,positional,"Mayer, G.",Manifattura di Ludwigsburg,CORNICI,,
-BO0624_88399,217062,302,224,"Wolfjagd, Stich von Choller. Hohe 82 cm,Breite 97 cm, Goldrahmen.                                                                                                                                                           | 100                    |",1289,97.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217063,303,225,"Binnenhafen nach Meierheim. Oeldruck. Hohe 65 cm, Breite 88 cm, Goldrahmen.                                                                                                                                                 | 60                     |",1290,97.3,False,positional,"Mayer, G.",,,,
+BO0624_88399,217030,270,199,"Schlafzimmer der Konigin Katharina, fruheren Prinzessin Peter von Oldenburg in St.Petersburg. Dessine par M. Vorobiew 1816. Hohe 36 cm,Breite 55 cm. Gegenstuck zu Nr. 198.                   |                   400 |",1230,98.8,False,none,,,OGGETTI VARI,,Sec. XIX
+BO0624_88399,217031,271,200,"Ein Zimmer der Konigin Katharina, vorherigen Prinzessin Peter von Oldenburg,im Palais in St.Petersburg.Dessine par M. Vorobiew. Hohe 50 cm,Breite 45 cm.                                      |                   600 |",1231,98.7,False,none,,,,,
+BO0624_88399,217032,272,201,"Vue du Palais Imperial de Gatschina, de son jardin et de ses environs. Entrepris aux frais de Jean Walser, Negociant de la premiere classe a Moscou publie en 1799. Hohe 48 cm, Breite 72 cm. |                  1000 |",1232,98.9,False,none,DU JARDIN KAREL,,,,Sec. XVIII
+BO0624_88399,217033,273,202,"Kammenoi ostrow et les environs a St. Petersbourg peint par B. Paterssen 1806. Hohe 44 cm,Breite 63 cm.                                                                                       |                   600 |",1233,98.1,False,none,,,,,Sec. XIX
+BO0624_88399,217034,274,203,"Le palais Imperial de Tauride et les environs a St. Petersbourg, peint par B. Paterssen 1806. Hohe 45 cm, Breite 63 cm.                                                                       |                   600 |",1234,98.3,False,none,,,,,Sec. XIX
+BO0624_88399,217035,275,204,"Vue de lAmiraute a St. Petersbourg. Dessine par J. Urenius 1816. Hohe 45 cm, Breite 62 cm.                                                                                                    |                   600 |",1235,97.8,False,none,,,,,Sec. XIX
+BO0624_88399,217036,276,205,"Vue des Boutiques russes au perspectif de Newsky avec la maison de ville a St. Petersbourg. Hohe 45 cm, Breite 62 cm. Gegenstuck zu Nr. 204.                                                  |                   600 |",1236,98.6,False,none,,,,,
+BO0624_88399,217037,277,206,"La Banque de l'Empire. Hohe 44 cm,Breite 63 cm.                                                                                                                                               |                   600 |",1237,96.1,False,none,,,,,
+BO0624_88399,217038,278,207,"Le nouveau Pont de fer dans la perspective de Newsky a St. Peters- bourg. Hohe 45 cm, Breite 63 cm.                                                      |   [Anfchlag inMark 600 |",1238,98.3,False,none,,,,,
+BO0624_88399,217039,279,208,"L'Obelisque aux victoires de Roumaintzof et de la statue de Sou- vorof a St. Petersbourg; peint par Paterssen 1806. Hohe 45 cm, Breite 63 cm.            |                    600 |",1240,98.6,False,none,,,,,Sec. XIX
+BO0624_88399,217040,280,209,"La Statue équestre de Pierre le Grand a Sf. Petersbourg; peint par B. Paterssen 1806. Hohe 45 cm, Breife 63 cm.                                          |                    600 |",1241,98.2,False,none,,,,,Sec. XIX
+BO0624_88399,217041,281,210,"Facade principale du Chateau St. Michel sur la grande entree a St. Petersbourg;peint par B. Paterssen 1807. Hohe 45 cm, Breife 63 cm.                    |                    600 |",1242,98.5,False,none,,,,,Sec. XIX
+BO0624_88399,217042,282,211,"Palais Imperial, pris du cote de midi de la Forteresse a St. Peters- bourg. Hohe 45 cm, Breite 63 cm.                                                    |                    500 |",1243,98.0,False,none,,,,,
+BO0624_88399,217043,283,212,"Palais de Marbre,pris du cote de midi de la Forteresse a St. Peters- bourg. Hohe 45 cm, Breite 63 cm.                                                    |                    500 |",1244,98.0,False,none,,,,,
+BO0624_88399,217044,284,213,"| 213. Erbe, Louis,Reliefkarte von Palastina mit Plan von Jerusalem 1842. Hohe 48 cm,Breite 43 cm, Goldrahmen.",1245,80.8,False,none,,,,,Sec. XIX
+BO0624_88399,217045,285,214,"214. Derselbe, Reliefkarte von Deutschland 1843. |                     20 |",1246,35.1,False,none,,,,,Sec. XIX
+BO0624_88399,217046,286,215,"Rath, Carl, Tubingen, Reliefkarte von Wurtfemberg. Hohe 85 cm,Breite 64 cm,Goldrahmen.                                                                   |                     50 |",1247,97.7,False,none,,,,,
+BO0624_88399,217047,287,216,"Derselbe, Reliefkarte von Wurttemberg. Hohe 85 cm, Breite 64 cm, Goldrahmen.                                                                             |                     50 |",1248,97.4,False,none,,,,,
+BO0624_88399,217048,288,217,"Kaiser Napoleon, nach Isabey, grave par Tielker. Hohe 24 cm, Breite 18 cm, Goldrahmen.                                                                   |                     20 |",1249,97.6,False,none,ISABEY EUGENE,,,,
+BO0624_88399,217049,289,218,"Grossfurst Konstantin, Lithographie in Mahagonirahmen mit Rosetten. Hohe 50 cm,Breite 41 cm.                                                             |                     60 |",1250,97.9,False,none,,,STAMPE E INCISIONI,,
+BO0624_88399,217050,290,219,"Wilhelm, Konig von Wurtemberg, Stich von Spachholz. Hohe 59 cm,Breite 46 cm,Goldrahmen.                                                                  |                    150 |",1251,97.8,False,none,,,,,
+BO0624_88399,217051,291,220,"Nurnberg, Stich von Loser. Hohe 60 cm, Breite 80 cm, Goldrahmen mit Wappen.                                                                              |                     50 |",1252,97.3,False,none,,Scuola di Norimberga,,,
+BO0624_88399,217052,292,221,"Ein Osterreichischer Feldmarschall, Lithographie von Kriehaber. Hohe 32 cm,Breite 29 cm, Goldrahmen.                                                     |                     20 |",1253,98.0,False,none,,,STAMPE E INCISIONI,,
+BO0624_88399,217053,293,2300,1880,1257,100.0,False,none,,Scuola di Monaco,,,Sec. XIX
+BO0624_88399,217054,294,3700,B10o,1263,100.0,False,none,,,,,
+BO0624_88399,217055,295,180,160,1267,100.0,False,none,,,,,
+BO0624_88399,217056,296,200,<!-- image -->,1272,100.0,False,none,,,,,
+BO0624_88399,217057,297,13607,20,1276,100.0,False,none,,,,,
+BO0624_88399,217058,298,3400,00,1280,100.0,False,none,,,,,
+BO0624_88399,217059,299,22201,26000,1284,100.0,False,none,,,,,
+BO0624_88399,217060,300,222,"Eine Romerin, dem Bade entsteigend, nach Correggio. Stich von Chevenin. Hohe 49 cm,Breite 55 cm,Goldrahmen.                                                                                                                 | Anfchlag in Mark 100   |",1286,98.4,False,none,CORREGGIO,,,,
+BO0624_88399,217061,301,223,"Karlshohe bei Ludwigsburg. Photographie, Hohe 66 cm, Breife 92 cm, schwarzer Rahmen.                                                                                                                                        | 60                     |",1288,97.6,False,none,,Manifattura di Ludwigsburg,CORNICI,,
+BO0624_88399,217062,302,224,"Wolfjagd, Stich von Choller. Hohe 82 cm,Breite 97 cm, Goldrahmen.                                                                                                                                                           | 100                    |",1289,97.0,False,none,,,,,
+BO0624_88399,217063,303,225,"Binnenhafen nach Meierheim. Oeldruck. Hohe 65 cm, Breite 88 cm, Goldrahmen.                                                                                                                                                 | 60                     |",1290,97.3,False,none,,,,,
 BO0624_88399,217064,304,226,"Ammerhof-Domane. Aquarell. Hohe 67 cm, Breite 59 cm.                                                                                                                                                                        | 20                     |",1291,96.2,False,title_direct,,,Aquarelle,,
-BO0624_88399,217065,305,227,"Die deutsche Nationalversammlung in der Paulskirche zu Frankfurt. Lithographie von E. Meyer. Hohe 68 cm,Breite 89 cm, Goldrahmen.                                                                                           | 60                     |",1292,98.4,False,positional,"Mayer, G.",,STAMPE E INCISIONI,,
-BO0624_88399,217066,306,228,Ellen Adderby. Lithographie. Goldrahmen.                                                                                                                                                                                     | 20                     |,1293,95.2,False,positional,"Mayer, G.",,STAMPE E INCISIONI,,
-BO0624_88399,217067,307,230,"1 Basrelief, Eisen, Pilgerfahrt des Grafen Eberhard im Bart nach Jerusalem im Jahre 1468. Hohe 41 cm, Breite 49cm.                                                                                                           | 100                    |",1295,98.3,False,positional,"Mayer, G.",,OGGETTI IN FERRO,,Sec. XV
-BO0624_88399,217068,308,231,"2 Empire-Girandolen mit 5 Lichtern, getragen von je einer weib lichen Figur mit vergoldeten Flugeln und Schmetterlingen auf einer vergoldeten Kugel. Bronze mit vergoldeten Verzierungen. Hohe 96 cm. Anschlag je 10000 Mk. | 20000                  |",1296,99.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217069,309,232,"2 Empire-Girandolen von vergoldeter Bronze zu je 7 Lichtern, von einer weiblichen Figur von dunkler Bronze getragen, das Postament gleichfalls von dunkler Bronze mit vergoldeten Verzierungen. Hohe 90 cm.                 | je 10000 Mk. 20000     |",1297,99.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217070,310,233,"2 Empire-Girandolen zu 4 Lichtern von vergoldeter Bronze,Amo- retten von dunkler Bronze auf vergoldeten Kugeln, runde Saulen mit Rosengirlanden. Hohe 58 cm. je 3000 Mk.                                                    | 6000                   |",1298,98.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217071,311,234,"2 Empire-Girandolen von vergoldeter Bronze mit 4Pantherkopfen zu je 5 Lichtern, getragen von einer weiblichen Figur von dunkler Bronze, das Postament mit vergoldeter Figur.                                                            | [Anfchlag in Mark   |",1299,98.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217072,312,235,2 Empire-Girandolen zu je 5 Lichtern mit vergoldeter Bronze mit Lowenpratzen.l goo0 Hohe 66cm. je 3000 Mk.                                                                                                                             | 6000                |,1301,98.2,False,positional,"Mayer, G.",,,,
-BO0624_88399,217073,313,236,"1 Goldbronzejardiniere mit Amoretten, welche den Herbst, die Fischerei und die Jagd darstellen, mit Kristallschale. Hohe 52cm.                                                                                                         | 2000                |",1302,98.4,False,positional,"Mayer, G.",,,,
-BO0624_88399,217074,314,237,"2 Jaspisvasen mit Delphinen und Neptunkopfen aus Goldbronze, verziert.voo0 Hohe 28 cm. je 1000 Mk.                                                                                                                                      | 2000                |",1303,98.0,False,positional,"Mayer, G.",,,,Sec. XI
-BO0624_88399,217075,315,238,"2 Girandolen mit je 4 Lichtern aus vergoldeten Lilienzweigen,welche von rotgestrichenen Amoretten auf runden, vergoldeten Saulen getragen werden. Hohe 102cm. je 3000 Mk.                                                              | 6000                |",1304,98.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217076,316,239,"2 Empire-Girandolen mit je 3 Lichtern, mit Schlangenkopfen und Empireverzierungen. Hohe 53 cm. je 500 Mk.                                                                                                                              | 1000                |",1305,98.1,False,positional,"Mayer, G.",,,,Sec. XI
-BO0624_88399,217077,317,240,"1 Rubinglasvase mit reich vergoldeten Ornamenten und2 Henkeln. Hohe 78cm, Breite 40 cm.                                                                                                                                                | 800                 |",1306,97.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217078,318,241,"2 Rubinglas-Girandolen mit reichen Goldornamenten und ver- goldeten Bronzebeschlagen mit je 2 Henkeln mit Amoretten, sowie mit Bronzefuss mit Amoretten und Girlanden, mit Bronze- leuchter fur je 12 Lichter. Hohe 106cm. je 1500 Mk. | 3000                |",1307,99.1,False,positional,"Mayer, G.",,LAMPADE,,Sec. XVI
-BO0624_88399,217079,319,242,"2 Rubinglasvasen mit reichen Goldornamenten, 4- und 5teilig. Hohe 76 cm, Durchmesser 43 cm. je 800 Mk.                                                                                                                                  | 1600                |",1308,98.1,False,positional,"Mayer, G.",,,,Sec. XVII
-BO0624_88399,217080,320,243,2 Rubinglas-Saulen mit Blumenvasen. Hohe 163 cm. je 500 Mk.                                                                                                                                                                            | 1000                |,1309,96.8,False,positional,"Mayer, G.",,,,Sec. XI
-BO0624_88399,217081,321,244,"2 grosse Bronzeleuchter mit verziertem Fuss, Strauch darstellend, fur 22 Lichter. Hohe 160 cm, Breite 80 cm. je 500 Mk.                                                                                                                | 1000                |",1310,98.3,False,positional,"Mayer, G.",,,,Sec. XI
-BO0624_88399,217082,322,245,1 Bronzegirandole fur 3 Birnen mit Glasfackeln. Hohe 160 cm.                                                                                                                                                                           | 800                 |,1311,96.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217083,323,246,2 Bronzegirandolen mit je 3 Birnen fur elektrisches Licht mit Glas- fackeln. Hohe 160 cm.je 800 Mk.&#124;1600                                                                                                                          |                     |,1312,98.1,False,positional,"Mayer, G.",,,,Sec. XVII
-BO0624_88399,217084,324,18700,980,1318,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217085,325,400,0,1320,40.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217086,326,500,0,1322,40.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217087,327,9600,B0UD,1330,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217088,328,42,| 248. 1 Pflanzenstander mit Bronzebeschlagen und 4 Majolikaplatten. H6he 130 cm.                                                                                 | 300                      |,1335,98.2,False,positional,"Mayer, G.",,,,
-BO0624_88399,217089,329,200,"| Hohe 44 cm,Durchmesser 70cm. 251.2 vergoldete Konsolen mit Kopfen. Hohe 30cm,Breite 22cm.                                                                       | 50                       |",1338,97.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217090,330,320,"| 252. 5 vergoldete Konsolen. Hohe 22 cm,Breite 17 cm.                                                                                                            | 50                       |",1339,96.3,False,positional,"Mayer, G.",,,,
-BO0624_88399,217091,331,3500,"| 253. 1 grauer Jaspistafelaufsatz (russische Inschriff). Hohe 38 cm, Durchmesser 47 cm.                                                                          | 500                      |",1340,97.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217092,332,400,"| 254.1 Fruchteschale mit blauem Glas und Bronzeverzierung. Hohe 30 cm,Durchmesser 31 cm.                                                                         | 100                      |",1341,97.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217093,333,60200,"| 255. 2 sechseckige lila Porzellanvasen mit vergoldeten Bronzeverzie- rungen, die Porzellanplatten mit farbigen Blumenstrussen bemalt.                           | 2000                     |",1342,97.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217094,334,2570,"| 257.1 Standuhr mit Holzsockel. Hohe 40 cm, Breite 30 cm.                                                                                                        | 50                       |",1344,95.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,217095,335,4000,"| 258. 2 chinesische Imarivasen mit reliefierten Drachen und Blumen- malerei, mit chinesischen Marken bezeichnet. Hohe 67 cm,Durchmesser 37cm.                    | 3000                     |",1345,98.2,False,positional,"Mayer, G.",,,,
-BO0624_88399,217096,336,262,"2 japanische Satsumavasen mit Blumenzweigen. Hohe 28 cm, Durchmesser 14 cm.                                                                                                      | Anfchlag in Mark 300   |",1349,97.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217097,337,263,"2 japanische Eisenvasen mit Goldverzierungen. Hohe 26 cm, Durchmesser 16cm.                                                                                                     | 300                    |",1351,97.4,False,positional,"Mayer, G.",,,,
-BO0624_88399,217098,338,264,"2 japanische Tonvasen mit Figuren und Vogeln, braun und Gold. Hohe 19cm, Durchmesser 11 cm.                                                                                     | 40                     |",1352,97.8,False,positional,"Mayer, G.",,OGGETTI IN ORO,,
-BO0624_88399,217099,339,265,2 kleine Imarivaschen mit roten und blauen Blumen. Hohe 12cm.                                                                                                                   | 40                     |,1353,96.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217100,340,266,1 Emile Galle-Vase mit farbigen Blumen.                                                                                                                                         | Hohe 20cm. 30          |,1354,96.2,False,positional,"Mayer, G.",,VASI,,
-BO0624_88399,217101,341,267,1 Emile Galle-Vase mit lila Blumen. Hohe 12 cm.                                                                                                                                 | 30                     |,1355,96.0,False,positional,"Mayer, G.",,VASI,,
-BO0624_88399,217102,342,268,"1 Laugervase, blau mit roten Blumen.                                                                                                                                            | Hohe 40 cm. 80         |",1356,96.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217103,343,269,"1 Porzellanvase mit Blumengirlanden, Marke Gien. Hohe 30 cm.                                                                                                                    | 80                     |",1357,96.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217104,344,270,2 blaue Glasvasen mit Goldornamenten und farbigen Blumen. Hohe 33cm.                                                                                                            | 400                    |,1358,97.2,False,positional,"Mayer, G.",,,,
-BO0624_88399,217105,345,271,"2 blaue Henkelglasvasen mit Glasstopseln, mit reichen Silber ornamenten. Hohe 23 cm.                                                                                             | 300                    |",1359,97.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,217106,346,272,"2 Amoretten auf Schwan und Lowe, dunkelgrun mit Gold, Sevre. Hohe 18 cm.                                                                                                        | 600                    |",1360,97.3,False,positional,"Mayer, G.",,OGGETTI IN ORO,,
-BO0624_88399,217107,347,273,"1 Tintenzeug, blau mit Gold. (Marke Meissen.) 2730                                                                                                                              | 300                    |",1361,96.1,False,positional,"Mayer, G.",Scuola di Meissen,OGGETTI IN ORO,,
-BO0624_88399,217108,348,274,"1 Dejeunerservice, weiss mit Gold und feinen farbigen Landschaften in Miniaturmalerei, bestehend aus: 1 Milchkanne, 2 Tassen mit Untertassen, 1 Zuckerdose und 1 Servierplatte. | 1500                   |",1362,98.9,False,positional,"Mayer, G.",,OGGETTI IN ORO,,Sec. XVI
-BO0624_88399,217109,349,275,"1 Dejeunerservice mit Malerei, hellbraun mit Kopfen und Musik emblemen,bestehend aus:1 gezackten Plafte,1 Milchkanne,1 Te kanne, 1 Zuckerdose, 3 Tassen mit 2 Untertassen.      | 800                    |",1363,98.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217110,350,276,"2 meergrune Beinglasvasen mit vergoldeten Henkeln und Deckeln. Hohe 60 cm, Durchmesser 32 cm.                                                                                   | 800                    |",1364,97.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217111,351,277,"2 Jaspisvasen mit Schlangengriffen von vergoldeter Bronze. Hohe 34 cm, Durchmesser 16 cm.&#124;1000                                                                             |                        |",1365,97.9,False,positional,"Mayer, G.",,,,Sec. XI
-BO0624_88399,217112,352,930,210,1369,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217113,353,140,140,1371,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217114,354,130,205~,1377,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217115,355,10050,870,1381,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217116,356,1800,00,1387,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217117,357,278,"1 Teekanne mit Deckel, Henkel und Ausguss (Marke Ludwigsburg, weiss, mit Krone). ae81",1392,94.3,False,positional,"Mayer, G.",Manifattura di Ludwigsburg,,,
-BO0624_88399,217118,358,279,"1 Milchkanne,geschuppt,mit farbigen Blumen,Henkel,Deckel und 3 Fussen (Marke Ludwigsburg, mit Krone).",1398,98.0,False,positional,"Mayer, G.",Manifattura di Ludwigsburg,,,
-BO0624_88399,217119,359,280,"1 Milchkanne mit farbigen Blumen, Henkel, Deckel und Ausguss (Marke Alt-Wien).",1399,97.3,False,positional,"Mayer, G.",Scuola Viennese,,,
-BO0624_88399,217120,360,1600,- mit chinesischen Marken versehen. Durchmesser 63 cm.,1403,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217121,361,282,"1 grosse japanische Wandplatte mit vielen Figuren, mit Marken versehen. Durchmesser 55 cm.",1404,97.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217122,362,10001,"283. 1 grosse japanische Fayence-Wandplatte mit Vogeln, Blumen und Schmetterlingen, Marke bez. Durchmesser 47 cm.",1408,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217123,363,284,"2 enghalsige,rote mit vergoldeten Ornamenten versehene Glasvasen. Hohe 36 cm,Durchmesser 18 cm.",1409,97.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217124,364,285,"2 Blumenvasen mit erhabenen Rosetten und Blumen, weiss und grun. Je 25 Mk.",1410,97.3,False,positional,"Mayer, G.",,,,
-BO0624_88399,217125,365,286,"2 kolossale japanische Porzellanvasen, Grundfarbe blau,mit zwei Drachen in erhabener und weisser Arbeit.",1411,98.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217126,366,287,"1 kolossale quarzartige Achatvase mit 2 Henkeln und 2 blasenden Amor von vergoldeter Bronze auf Postament, von sardopolischem Porphyr mit Bronzeverzierung. (Russische Inschriff.) Hohe der Vase 135 cm,Hohe des Sockels 96 cm, Durchmesser der Vase 130 cm, Durchmesser des Sockels 62 cm.",1416,87.3,False,positional,"Mayer, G.",,VASI,,
-BO0624_88399,217127,367,288,"2 hohe Kandelaber von blauem Glas mit vergoldeter Bronze,oben Vasen von brillantiertem braunen Glas zu je 21 Lichtern, an der Seite 2 Amor, die Sockel von dunkler Bronze mit sehr schonen vergoldeten Bronzeverzierungen.",1417,99.1,False,positional,"Mayer, G.",,CANDELABRI,,
-BO0624_88399,217128,368,289,2 Marmorvasen auf viereckigen Marmorpostamenten mit Basreliefs von Weitbrecht.,1421,97.5,False,positional,"Mayer, G.",,BASSORILIEVI,,
-BO0624_88399,217129,369,31000,22015,1429,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217130,370,4,svo,1431,85.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,217131,371,400,300,1437,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217132,372,2000,1500,1441,100.0,False,positional,"Mayer, G.",Scuola Ferrarese,,,Sec. XVI
-BO0624_88399,217133,373,800,400,1445,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217134,374,50,8000,1449,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217135,375,20000,50000,1453,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217136,376,2000,"290. 2 Alabastervasen, je mit Deckel und 2 Henkeln, mit erhabenen Verzierungen. Hohe 100 cm, Durchmesser 36 cm. Je 800 Mk.",1456,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217137,377,291,"1 hoher,achteckiger Tisch von blauem Glas, mit Bronzeverzie rung,Empire. Hohe 113 cm, Durchmesser 89 cm.",1457,98.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217138,378,292,"1 runder Tisch mit Lavaplatte mit farbigen Figuren und Verzierungen in gotischem Stil, Fuss von Ebenholz, ebenfalls mit vergoldeten gotischen Verzierungen.",1458,98.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,217139,379,293,"1 Kreuz von weissem Marmor, Postament von schwarzem Marmor, mit biblischer Aufschriff. Hohe 78 cm.",1462,97.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217140,380,294,"1 Kanone, fahrbar, mit Protzkasten und Bronzerohr. Lange 67 cm, gesamte Lange 167 cm.",1463,97.6,False,positional,"Mayer, G.",,,,
-BO0624_88399,217141,381,295,"1 Spiegel, golddurchbrochen, holzgeschnitzt und reich vergoldet, mit Ornamenten und Engelskopf. Hohe 215 cm, Breite 142 cm.",1464,98.3,False,positional,"Mayer, G.",,SPECCHI,,
-BO0624_88399,217142,382,296,"1 facettierter Kristallglasspiegel, holzgeschnitzt mit 3 Engeln und Ornamenten. Hohe 170 cm, Breite 155 cm.",1465,98.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217143,383,297,1 holzgeschnitzter Spiegel mit Blumen und Ornamenten.,1466,96.3,False,positional,"Mayer, G.",,SPECCHI,,
-BO0624_88399,217144,384,298,"1 grosser vergoldeter Spiegel mit faceffierfem Kristallglas mit Ornamenten. Hohe 156 cm,Breite 85 cm.",1470,98.0,False,positional,"Mayer, G.",,SPECCHI,,
-BO0624_88399,217145,385,299,"1 durchbrochener Barockspiegel mit Facetten, Glas,reich vergoldet. Hohe 112 cm, Breite 95 cm.",1471,97.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217146,386,300,"1 Venetianer Spiegel mit Gold- und Glasrahme, geschliffene Ornamente. Hohe 125 cm, Breite 70 cm.",1472,97.8,False,positional,"Mayer, G.",,OGGETTI IN ORO,,
-BO0624_88399,217147,387,301,"1 kleiner Kristallglasspiegel, Cuivre-poli, zum Aufstellen.",1474,96.6,False,positional,"Mayer, G.",,,,
-BO0624_88399,217148,388,302,"2 Tischplaften, mit Ansichten von Schloss Babelsberg, mit Perl muttereinlagen. Hohe 48 cm,Breite 82 cm.",1478,98.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217149,389,303,"2 japanische Wandschirme, 3teilig und 5teilig, mit Landschaften und Figuren, Lackmalereien. Hohe 180 cm, Breite 47 cm.",1479,98.2,False,positional,"Mayer, G.",,,,
-BO0624_88399,217150,390,1600,2000,1485,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217151,391,3000,200,1489,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217152,392,1500,1500,1491,100.0,False,positional,"Mayer, G.",Scuola Ferrarese,,,Sec. XVI
-BO0624_88399,217153,393,1500,800,1497,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217154,394,800,600,1501,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217155,395,1200,80,1505,100.0,False,positional,"Mayer, G.",Scuola di Monaco,,,
-BO0624_88399,217156,396,200,1500,1509,100.0,False,positional,"Mayer, G.",Scuola Ferrarese,,,Sec. XVI
-BO0624_88399,217157,397,4000,10500-,1513,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217158,398,600,2254,1519,100.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217159,399,3800,"| Hohe 108 cm,Breite 134 cm,Tiefe 40 cm. 307. 1 grosser Blumentisch, holzgeschnitzt, reich vergoldet. Hohe 98 cm, Breite 90 cm.                                                                                                                                                                                                          | 500 800                  |        |",1525,98.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217160,400,30,Mk. | 30 Mk.                                                                                                                                                                                                                                                                                                                                 | 30 Mk.                   | 30 Mk. |,1540,93.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217161,401,311,"Mobelgarnitur, Mahagoni, Jugendstil, mit seidenem Fantasiestoff bezogen, bestehend aus:                                                                                  | Anfchlag in Mark   |",1543,98.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217162,402,1,"Kanapee,2 Fauteuils,2 Sesseln 1 Bankchen in Kerbschnitzerei . 1 Schreibtisch, Mahagoni .. 312. 1 Mobelgarnitur, Gestell schwarz mit salmfarbenem Seidestoff be-              | 500 80 150         |",1545,99.7,False,positional,"Mayer, G.",,SCOMPARTI,,
-BO0624_88399,217163,403,313,"1 Porzellanschrank, Nussbaum, weiss mit Gold, mit gewundenen Glasern, mit rotem Samt ausgeschlagen. Hohe 220 cm, Breite 103 cm.                                          | 80 1600 8000       |",1547,98.5,False,positional,"Mayer, G.",,OGGETTI IN ORO,,Sec. XVII
-BO0624_88399,217164,404,314,"1 Konsoltisch mit vergoldetem geschnitztem Gestell, mit roter                                                                                                            |                    |",1548,96.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217165,405,315,"1 Fussbodenteppich,Brusseler Fabrikat.                                                                                                                                   | 200                |",1550,95.3,False,positional,"Mayer, G.",,,,
-BO0624_88399,217166,406,316,1 desgleichen. 317. 1 Smyrna Fussbodenteppich.                                                                                                                           | 300                |,1551,95.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217167,407,35,qm.                                                                                                                                                                         | 800                |,1552,85.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,217168,408,318,"1 Paar japanische Portieren seidegestickt mit Blumen und Vogeln. 2 Flugel je Lange 3,12 m, Breite 1,20 m.                                                                | 3000               |",1553,98.2,False,positional,"Mayer, G.",,COPPE,,
-BO0624_88399,217169,409,319,"1 Paar desgleichen. 2 Flugel je Lange 2,80 m, Breite 1,08 m.                                                                                                             | 1500               |",1554,96.9,False,positional,"Mayer, G.",,COPPE,,Sec. XVI
-BO0624_88399,217170,410,320,"1 orientalische Vorlage Lange 1,90 m, Breife 1,09 m.                                                                                                                      | 800                |",1555,96.4,False,positional,"Mayer, G.",,,,
-BO0624_88399,217171,411,321,"2 Handtuchhalter, weiss und grun lackiert, mit Glasstangen.                                                                                                              | 80                 |",1556,96.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,217172,412,322,"1 Chaiselongue, 4 Sessel mit rotem Saffian bezogen.                                                                                                                      | 400                |",1557,96.4,False,positional,"Mayer, G.",,,,
-BO0624_88399,217173,413,323,"1 Mobelgarnitur, Gestelle schwarz, gepolstert und mit rotem Saffian                                                                                                      |                    |",1558,97.0,False,positional,"Mayer, G.",,,,
-BO0624_88399,217174,414,1,"Konsoltisch von schwarz gebeiztem Holz mit weisser Mar- morplatte und Spiegelaufsatz. Tisch hoch 101 cm, lang 129 cm, fief 0,43 cm, Spiegelaufsatz hoch 165 cm,breit 96 cm. | 500                |",1560,99.4,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,
-BO0624_88399,217175,415,2,"Spieltische, schwarz gebeizt, das Oberblaft mit Tuch bezogen je 150 Mk. 1 Pfeilertisch von schwarzem Holz mit 2 Etagen                                                      | 300 200            |",1561,99.2,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,
-BO0624_88399,217176,416,1,Kleeblatttischchen ebenso                                                                                                                                                   | 80                 |,1562,96.6,False,positional,"Mayer, G.",,,,
-BO0624_88399,217177,417,324,"Mobelgarnitur, die Gestelle schwarz, gepolstert und mit rotem Saffian bezogen, bestehend in:                                                                                                                                         | [Anfchlag inMark   |",1563,98.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217178,418,1,"Kanapee,4 Fauteuils, 10 Sesseln                                                                                                                                                                                                         | 2000               | Spiegel in schwarz gebeiztem, reich geschnitztem Rahmen mit Engeln und Blumenbuketts, gehalten von einem geschnitzten Amor, mit einem Lichterarm (von Radspieler in Munchen) 2 Eckdiwans, die Gestelle schwarz gepolstert und mit rotem | 1000               |",1566,93.2,False,positional,"Mayer, G.",,CORNICI,,Sec. XI
-BO0624_88399,217179,419,2,Pfeilerschranke von schwarz gebeiztem Holz mit Spiegel- aufsatzen .je 600 Mk.                                                                                                                                                           | 1200               |,1568,98.8,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,Sec. XIII
-BO0624_88399,217180,420,1,"Spieltisch, ebenso .                                                                                                                                                                                                                    | 150                |",1570,95.5,False,positional,"Mayer, G.",,,,
-BO0624_88399,217181,421,1,reich geschnitzter Tisch ebenso .                                                                                                                                                                                                       | 500                | rundes Tischchen von schwarzem Holz                                                                                                                                                                                                     | 80                 |,1573,68.4,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,
-BO0624_88399,217182,422,2,Jardinieren von schwarzem Holz mit Zinkeinsatz je 4o Mk.                                                                                                                                                                                | 80                 |,1574,98.3,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,
-BO0624_88399,217183,423,1,Bucher-Etagere zum Drehen von schwarzem Holz                                                                                                                                                                                            | 50                 |,1575,97.9,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,
-BO0624_88399,217184,424,325,"1 Tischchen,schwarz poliert mit Bronzevergoldung,auf dem Blaft ein Damenbreft                                                                                                                                                        | 40                 |",1576,97.6,False,positional,"Mayer, G.",,,,
-BO0624_88399,217185,425,326,"1 grosser Bibliothekschrank, oben mit 6 Glasturen, der Untersatz mit 6 Holzturen und Schubladen von mattem, gebeiztem, schwarzem Holz.                                                                                                |                    |",1577,98.5,False,positional,"Mayer, G.",,OGGETTI IN LEGNO,,
-BO0624_88399,217186,426,327,"2 Kanapees, mit gestreiffem Seidestoff bezogen, 4 Fauteuils des- gleichen, 2 runde Tische e：                                                                                                                                          | 1000               |",1579,97.9,False,positional,"Mayer, G.",,SCOMPARTI,,Sec. XI
-BO0624_88399,217187,427,328,"1 Salonschrank, Kirschbaum mit Einlagen. Lange 78 cm,Hohe 130 cm, Tiefe 36 cm.                                                                                                                                                        | 600                |",1580,97.5,False,positional,"Mayer, G.",,,,
-BO0624_88399,217188,428,2,"Konsoltische, ebenso, mit Marmorplatten. Lange 100 cm, H6he 100 cm, Tiefe 40 cm. Je 400 Mk.                                                                                                                                             | 800                |",1581,98.9,False,positional,"Mayer, G.",,,,
-BO0624_88399,217189,429,1,Schreibtisch.                                                                                                                                                                                                                           | 300                |,1582,94.1,False,positional,"Mayer, G.",,,,
-BO0624_88399,217190,430,1,"zweiter Salonschrank. Lange 173 cm,Hohe 135 cm, Tiefe 36 cm.                                                                                                                                                                            | 300                |",1584,98.4,False,positional,"Mayer, G.",,,,
-BO0624_88399,217191,431,329,"2 Bankette, Kirschbaum mit Einlagen mit Tapisseriebezug,                                                                                                                                                                                                         | [Anfchlag in Mark Lange 110 cm, Hohe 52 cm.   | Flugelbank Je 200 Mk.                                                                                                                                                                                                                                              | 600                                           |",1585,86.8,False,positional,"Mayer, G.",,,,
-BO0624_88399,217192,432,330,"1 halbrundes Tischchen, Kirschbaum mit Einlagen. Hohe 82 cm,Durchmesser 37 cm.                                                                                                                                                                                   | 150                                           |",1588,97.5,False,positional,"Mayer, G.",,,,
-BO0624_88399,217193,433,331,"7 maurische Hangelampen mit Kugeln von mattrosa Glas, auf welchen rote und vergoldete Arabesken. Ganze Hohe der Lampen 100 cm, Durchmesser der Kugeln 40 cm.                                                                                                    | Je 250 Mk. 1750                               |",1589,98.8,False,positional,"Mayer, G.",,LAMPADE,,Sec. XVIII
-BO0624_88399,217194,434,332,"1 kleiner Schreibtisch, Rusternholz,Biedermeierzeit. Hohe 75 cm, Lange 91 cm, Breite 52 cm.                                                                                                                                                                     | 150                                           |",1590,97.8,False,positional,"Mayer, G.",Biedermeier,,,
-BO0624_88399,217195,435,333,"Mobelgarnitur, Gestelle, Kirschbaum mit Einlagen, Bezug rote Seide, bestehend aus: 1 Kanapee, Lange 110, Hohe 80 cm.                                                                                                                                            |                                               |",1591,98.2,False,positional,"Mayer, G.",,,,
-BO0624_88399,217196,436,3,"Fauteuils,3 Fantasiestuhlen 334.1 runder Tisch, Kirschbaum mit Einlagen                                                                                                                                                                                            | 2000 100                                      |",1592,98.8,False,positional,"Mayer, G.",,SCOMPARTI,,
-BO0624_88399,217197,437,335,2 Kanapee mit gestreiffem Seidestoff bezogen .Je 150 Mk.                                                                                                                                                                                                         | 300                                           |,1593,96.7,False,positional,"Mayer, G.",,,,
-BO0624_88399,217198,438,336,"1 Garnitur Rokoko-Mobel, Gestelle sehr reich geschnitzt und ver- goldet, bezogen mit dunkelrotem Samt, 1 Sofa, Lange 17o,Hohe 150cm, 3 Fauteuils, 6 Sessel, 1 viereckiger Tisch mit Marmorplatfe. Lange 152 cm, Breite 78 cm,Hohe 80 cm. Siehe Abbildung. 30000 |                                               |",1595,99.2,False,positional,"Mayer, G.",,SCOMPARTI,,
-BO0624_88399,217199,439,5700,"| 339. 2 alte Wedgwood-Vasen auf Fussen mit Deckeln, Louis XVI, mit erhabenen Ornamenten. Hohe 19 cm,Durchmesser 14 cm.     |                      400 |",1603,97.9,False,positional,"Mayer, G.",,OGGETTI VARI,,
-BO0624_88399,217200,440,820,"| 340. 1 Wedgwood-Kaffeemaschine,braun,Louis XVI.,mit erhabenen Figuren, sehr schon. Hohe 24 cm, Durchmesser 21 cm.         |                      200 |",1604,98.2,False,positional,"Mayer, G.",,OGGETTI VARI,,
-BO0624_88399,217201,441,20600,"| 341.1 Tasse mit Untertasse, Dekor und reicher Vergoldung, auf der Obertasse das Stammschloss Wurttemberg gemalt.          |                      300 |",1605,97.4,False,positional,"Mayer, G.",,,,
-BO0624_88399,217202,442,310,"| 344.1 Schussel, Ludwigsburger Porzellan, weiss mit vergoldetem Namenszug F. R. Durchmesser 25 cm, Tiefe 11 cm,Fuss 12 cm. |                      100 |",1608,98.3,False,positional,"Mayer, G.",Manifattura di Ludwigsburg,SCATOLE,,
-BO0624_88399,217203,443,1000,"+10v0 | 346. 2 basreliefartige Lithographien, Nuditaten, merkwurdige Stucke. Lange 50 cm, Breite 41 cm.                           |                      100 |",1610,97.5,False,positional,"Mayer, G.",,STAMPE E INCISIONI,,
-BO0624_88399,217204,444,380,"| 349. 1 runde Glasscheibe mit in Blei gefasstem farbigem wurttem- bergischen Wappen, etwa 1830. Durchmesser 31 cm.         |                       80 |",1613,98.2,False,positional,"Mayer, G.",,OGGETTI IN PIOMBO,,Sec. XIX
-BO0624_88399,217205,445,1050,"| 350. 2 Paar Meissner Tassen, etwa 1770, mit Ansichten und Figuren.                                                        |                      300 |",1614,96.4,False,positional,"Mayer, G.",,,,Sec. XVIII
+BO0624_88399,217065,305,227,"Die deutsche Nationalversammlung in der Paulskirche zu Frankfurt. Lithographie von E. Meyer. Hohe 68 cm,Breite 89 cm, Goldrahmen.                                                                                           | 60                     |",1292,98.4,False,none,,,STAMPE E INCISIONI,,
+BO0624_88399,217066,306,228,Ellen Adderby. Lithographie. Goldrahmen.                                                                                                                                                                                     | 20                     |,1293,95.2,False,none,,,STAMPE E INCISIONI,,
+BO0624_88399,217067,307,230,"1 Basrelief, Eisen, Pilgerfahrt des Grafen Eberhard im Bart nach Jerusalem im Jahre 1468. Hohe 41 cm, Breite 49cm.                                                                                                           | 100                    |",1295,98.3,False,none,EISEN CHARLES,,OGGETTI IN FERRO,,Sec. XV
+BO0624_88399,217068,308,231,"2 Empire-Girandolen mit 5 Lichtern, getragen von je einer weib lichen Figur mit vergoldeten Flugeln und Schmetterlingen auf einer vergoldeten Kugel. Bronze mit vergoldeten Verzierungen. Hohe 96 cm. Anschlag je 10000 Mk. | 20000                  |",1296,99.1,False,none,,,,,
+BO0624_88399,217069,309,232,"2 Empire-Girandolen von vergoldeter Bronze zu je 7 Lichtern, von einer weiblichen Figur von dunkler Bronze getragen, das Postament gleichfalls von dunkler Bronze mit vergoldeten Verzierungen. Hohe 90 cm.                 | je 10000 Mk. 20000     |",1297,99.1,False,none,,,,,
+BO0624_88399,217070,310,233,"2 Empire-Girandolen zu 4 Lichtern von vergoldeter Bronze,Amo- retten von dunkler Bronze auf vergoldeten Kugeln, runde Saulen mit Rosengirlanden. Hohe 58 cm. je 3000 Mk.                                                    | 6000                   |",1298,98.8,False,none,,,,,
+BO0624_88399,217071,311,234,"2 Empire-Girandolen von vergoldeter Bronze mit 4Pantherkopfen zu je 5 Lichtern, getragen von einer weiblichen Figur von dunkler Bronze, das Postament mit vergoldeter Figur.                                                            | [Anfchlag in Mark   |",1299,98.9,False,none,,,,,
+BO0624_88399,217072,312,235,2 Empire-Girandolen zu je 5 Lichtern mit vergoldeter Bronze mit Lowenpratzen.l goo0 Hohe 66cm. je 3000 Mk.                                                                                                                             | 6000                |,1301,98.2,False,none,,,,,
+BO0624_88399,217073,313,236,"1 Goldbronzejardiniere mit Amoretten, welche den Herbst, die Fischerei und die Jagd darstellen, mit Kristallschale. Hohe 52cm.                                                                                                         | 2000                |",1302,98.4,False,none,,,,,
+BO0624_88399,217074,314,237,"2 Jaspisvasen mit Delphinen und Neptunkopfen aus Goldbronze, verziert.voo0 Hohe 28 cm. je 1000 Mk.                                                                                                                                      | 2000                |",1303,98.0,False,none,,,,,Sec. XI
+BO0624_88399,217075,315,238,"2 Girandolen mit je 4 Lichtern aus vergoldeten Lilienzweigen,welche von rotgestrichenen Amoretten auf runden, vergoldeten Saulen getragen werden. Hohe 102cm. je 3000 Mk.                                                              | 6000                |",1304,98.8,False,none,,,,,
+BO0624_88399,217076,316,239,"2 Empire-Girandolen mit je 3 Lichtern, mit Schlangenkopfen und Empireverzierungen. Hohe 53 cm. je 500 Mk.                                                                                                                              | 1000                |",1305,98.1,False,none,,,,,Sec. XI
+BO0624_88399,217077,317,240,"1 Rubinglasvase mit reich vergoldeten Ornamenten und2 Henkeln. Hohe 78cm, Breite 40 cm.                                                                                                                                                | 800                 |",1306,97.8,False,none,,,,,
+BO0624_88399,217078,318,241,"2 Rubinglas-Girandolen mit reichen Goldornamenten und ver- goldeten Bronzebeschlagen mit je 2 Henkeln mit Amoretten, sowie mit Bronzefuss mit Amoretten und Girlanden, mit Bronze- leuchter fur je 12 Lichter. Hohe 106cm. je 1500 Mk. | 3000                |",1307,99.1,False,none,,,LAMPADE,,Sec. XVI
+BO0624_88399,217079,319,242,"2 Rubinglasvasen mit reichen Goldornamenten, 4- und 5teilig. Hohe 76 cm, Durchmesser 43 cm. je 800 Mk.                                                                                                                                  | 1600                |",1308,98.1,False,none,,,,,Sec. XVII
+BO0624_88399,217080,320,243,2 Rubinglas-Saulen mit Blumenvasen. Hohe 163 cm. je 500 Mk.                                                                                                                                                                            | 1000                |,1309,96.8,False,none,,,,,Sec. XI
+BO0624_88399,217081,321,244,"2 grosse Bronzeleuchter mit verziertem Fuss, Strauch darstellend, fur 22 Lichter. Hohe 160 cm, Breite 80 cm. je 500 Mk.                                                                                                                | 1000                |",1310,98.3,False,none,,,,,Sec. XI
+BO0624_88399,217082,322,245,1 Bronzegirandole fur 3 Birnen mit Glasfackeln. Hohe 160 cm.                                                                                                                                                                           | 800                 |,1311,96.9,False,none,,,,,
+BO0624_88399,217083,323,246,2 Bronzegirandolen mit je 3 Birnen fur elektrisches Licht mit Glas- fackeln. Hohe 160 cm.je 800 Mk.&#124;1600                                                                                                                          |                     |,1312,98.1,False,none,,,,,Sec. XVII
+BO0624_88399,217084,324,18700,980,1318,100.0,False,none,,,,,
+BO0624_88399,217085,325,400,0,1320,40.0,False,none,TASSAERT OCTAVE,,,,
+BO0624_88399,217086,326,500,0,1322,40.0,False,none,TASSAERT OCTAVE,,,,
+BO0624_88399,217087,327,9600,B0UD,1330,100.0,False,none,,,,,
+BO0624_88399,217088,328,42,| 248. 1 Pflanzenstander mit Bronzebeschlagen und 4 Majolikaplatten. H6he 130 cm.                                                                                 | 300                      |,1335,98.2,False,none,,,,,
+BO0624_88399,217089,329,200,"| Hohe 44 cm,Durchmesser 70cm. 251.2 vergoldete Konsolen mit Kopfen. Hohe 30cm,Breite 22cm.                                                                       | 50                       |",1338,97.8,False,none,,,,,
+BO0624_88399,217090,330,320,"| 252. 5 vergoldete Konsolen. Hohe 22 cm,Breite 17 cm.                                                                                                            | 50                       |",1339,96.3,False,none,,,,,
+BO0624_88399,217091,331,3500,"| 253. 1 grauer Jaspistafelaufsatz (russische Inschriff). Hohe 38 cm, Durchmesser 47 cm.                                                                          | 500                      |",1340,97.1,False,none,,,,,
+BO0624_88399,217092,332,400,"| 254.1 Fruchteschale mit blauem Glas und Bronzeverzierung. Hohe 30 cm,Durchmesser 31 cm.                                                                         | 100                      |",1341,97.8,False,none,,,,,
+BO0624_88399,217093,333,60200,"| 255. 2 sechseckige lila Porzellanvasen mit vergoldeten Bronzeverzie- rungen, die Porzellanplatten mit farbigen Blumenstrussen bemalt.                           | 2000                     |",1342,97.8,False,none,,,,,
+BO0624_88399,217094,334,2570,"| 257.1 Standuhr mit Holzsockel. Hohe 40 cm, Breite 30 cm.                                                                                                        | 50                       |",1344,95.7,False,none,,,,,
+BO0624_88399,217095,335,4000,"| 258. 2 chinesische Imarivasen mit reliefierten Drachen und Blumen- malerei, mit chinesischen Marken bezeichnet. Hohe 67 cm,Durchmesser 37cm.                    | 3000                     |",1345,98.2,False,none,,,,,
+BO0624_88399,217096,336,262,"2 japanische Satsumavasen mit Blumenzweigen. Hohe 28 cm, Durchmesser 14 cm.                                                                                                      | Anfchlag in Mark 300   |",1349,97.9,False,none,,,,,
+BO0624_88399,217097,337,263,"2 japanische Eisenvasen mit Goldverzierungen. Hohe 26 cm, Durchmesser 16cm.                                                                                                     | 300                    |",1351,97.4,False,none,,,,,
+BO0624_88399,217098,338,264,"2 japanische Tonvasen mit Figuren und Vogeln, braun und Gold. Hohe 19cm, Durchmesser 11 cm.                                                                                     | 40                     |",1352,97.8,False,none,,,OGGETTI IN ORO,,
+BO0624_88399,217099,339,265,2 kleine Imarivaschen mit roten und blauen Blumen. Hohe 12cm.                                                                                                                   | 40                     |,1353,96.9,False,none,,,,,
+BO0624_88399,217100,340,266,1 Emile Galle-Vase mit farbigen Blumen.                                                                                                                                         | Hohe 20cm. 30          |,1354,96.2,False,none,,,VASI,,
+BO0624_88399,217101,341,267,1 Emile Galle-Vase mit lila Blumen. Hohe 12 cm.                                                                                                                                 | 30                     |,1355,96.0,False,none,,,VASI,,
+BO0624_88399,217102,342,268,"1 Laugervase, blau mit roten Blumen.                                                                                                                                            | Hohe 40 cm. 80         |",1356,96.0,False,none,,,,,
+BO0624_88399,217103,343,269,"1 Porzellanvase mit Blumengirlanden, Marke Gien. Hohe 30 cm.                                                                                                                    | 80                     |",1357,96.8,False,none,,,,,
+BO0624_88399,217104,344,270,2 blaue Glasvasen mit Goldornamenten und farbigen Blumen. Hohe 33cm.                                                                                                            | 400                    |,1358,97.2,False,none,,,,,
+BO0624_88399,217105,345,271,"2 blaue Henkelglasvasen mit Glasstopseln, mit reichen Silber ornamenten. Hohe 23 cm.                                                                                             | 300                    |",1359,97.7,False,none,,,,,
+BO0624_88399,217106,346,272,"2 Amoretten auf Schwan und Lowe, dunkelgrun mit Gold, Sevre. Hohe 18 cm.                                                                                                        | 600                    |",1360,97.3,False,none,,,OGGETTI IN ORO,,
+BO0624_88399,217107,347,273,"1 Tintenzeug, blau mit Gold. (Marke Meissen.) 2730                                                                                                                              | 300                    |",1361,96.1,False,none,,Scuola di Meissen,OGGETTI IN ORO,,
+BO0624_88399,217108,348,274,"1 Dejeunerservice, weiss mit Gold und feinen farbigen Landschaften in Miniaturmalerei, bestehend aus: 1 Milchkanne, 2 Tassen mit Untertassen, 1 Zuckerdose und 1 Servierplatte. | 1500                   |",1362,98.9,False,none,,,OGGETTI IN ORO,,Sec. XVI
+BO0624_88399,217109,349,275,"1 Dejeunerservice mit Malerei, hellbraun mit Kopfen und Musik emblemen,bestehend aus:1 gezackten Plafte,1 Milchkanne,1 Te kanne, 1 Zuckerdose, 3 Tassen mit 2 Untertassen.      | 800                    |",1363,98.8,False,none,,,,,
+BO0624_88399,217110,350,276,"2 meergrune Beinglasvasen mit vergoldeten Henkeln und Deckeln. Hohe 60 cm, Durchmesser 32 cm.                                                                                   | 800                    |",1364,97.9,False,none,,,,,
+BO0624_88399,217111,351,277,"2 Jaspisvasen mit Schlangengriffen von vergoldeter Bronze. Hohe 34 cm, Durchmesser 16 cm.&#124;1000                                                                             |                        |",1365,97.9,False,none,,,,,Sec. XI
+BO0624_88399,217112,352,930,210,1369,100.0,False,none,,,,,
+BO0624_88399,217113,353,140,140,1371,100.0,False,none,,,,,
+BO0624_88399,217114,354,130,205~,1377,100.0,False,none,,,,,
+BO0624_88399,217115,355,10050,870,1381,100.0,False,none,,,,,
+BO0624_88399,217116,356,1800,00,1387,100.0,False,none,,,,,
+BO0624_88399,217117,357,278,"1 Teekanne mit Deckel, Henkel und Ausguss (Marke Ludwigsburg, weiss, mit Krone). ae81",1392,94.3,False,none,,Manifattura di Ludwigsburg,,,
+BO0624_88399,217118,358,279,"1 Milchkanne,geschuppt,mit farbigen Blumen,Henkel,Deckel und 3 Fussen (Marke Ludwigsburg, mit Krone).",1398,98.0,False,none,,Manifattura di Ludwigsburg,,,
+BO0624_88399,217119,359,280,"1 Milchkanne mit farbigen Blumen, Henkel, Deckel und Ausguss (Marke Alt-Wien).",1399,97.3,False,none,,Scuola Viennese,,,
+BO0624_88399,217120,360,1600,- mit chinesischen Marken versehen. Durchmesser 63 cm.,1403,100.0,False,none,,,,,
+BO0624_88399,217121,361,282,"1 grosse japanische Wandplatte mit vielen Figuren, mit Marken versehen. Durchmesser 55 cm.",1404,97.8,False,none,,,,,
+BO0624_88399,217122,362,10001,"283. 1 grosse japanische Fayence-Wandplatte mit Vogeln, Blumen und Schmetterlingen, Marke bez. Durchmesser 47 cm.",1408,100.0,False,none,,,,,
+BO0624_88399,217123,363,284,"2 enghalsige,rote mit vergoldeten Ornamenten versehene Glasvasen. Hohe 36 cm,Durchmesser 18 cm.",1409,97.9,False,none,,,,,
+BO0624_88399,217124,364,285,"2 Blumenvasen mit erhabenen Rosetten und Blumen, weiss und grun. Je 25 Mk.",1410,97.3,False,none,,,,,
+BO0624_88399,217125,365,286,"2 kolossale japanische Porzellanvasen, Grundfarbe blau,mit zwei Drachen in erhabener und weisser Arbeit.",1411,98.1,False,none,,,,,
+BO0624_88399,217126,366,287,"1 kolossale quarzartige Achatvase mit 2 Henkeln und 2 blasenden Amor von vergoldeter Bronze auf Postament, von sardopolischem Porphyr mit Bronzeverzierung. (Russische Inschriff.) Hohe der Vase 135 cm,Hohe des Sockels 96 cm, Durchmesser der Vase 130 cm, Durchmesser des Sockels 62 cm.",1416,87.3,False,none,,,VASI,,
+BO0624_88399,217127,367,288,"2 hohe Kandelaber von blauem Glas mit vergoldeter Bronze,oben Vasen von brillantiertem braunen Glas zu je 21 Lichtern, an der Seite 2 Amor, die Sockel von dunkler Bronze mit sehr schonen vergoldeten Bronzeverzierungen.",1417,99.1,False,none,,,CANDELABRI,,
+BO0624_88399,217128,368,289,2 Marmorvasen auf viereckigen Marmorpostamenten mit Basreliefs von Weitbrecht.,1421,97.5,False,none,,,BASSORILIEVI,,
+BO0624_88399,217129,369,31000,22015,1429,100.0,False,none,,,,,
+BO0624_88399,217130,370,4,svo,1431,85.7,False,none,,,,,
+BO0624_88399,217131,371,400,300,1437,100.0,False,none,,,,,
+BO0624_88399,217132,372,2000,1500,1441,100.0,False,none,,Scuola Ferrarese,,,Sec. XVI
+BO0624_88399,217133,373,800,400,1445,100.0,False,none,,,,,
+BO0624_88399,217134,374,50,8000,1449,100.0,False,none,,,,,
+BO0624_88399,217135,375,20000,50000,1453,100.0,False,none,,,,,
+BO0624_88399,217136,376,2000,"290. 2 Alabastervasen, je mit Deckel und 2 Henkeln, mit erhabenen Verzierungen. Hohe 100 cm, Durchmesser 36 cm. Je 800 Mk.",1456,100.0,False,none,,,,,
+BO0624_88399,217137,377,291,"1 hoher,achteckiger Tisch von blauem Glas, mit Bronzeverzie rung,Empire. Hohe 113 cm, Durchmesser 89 cm.",1457,98.0,False,none,,,,,
+BO0624_88399,217138,378,292,"1 runder Tisch mit Lavaplatte mit farbigen Figuren und Verzierungen in gotischem Stil, Fuss von Ebenholz, ebenfalls mit vergoldeten gotischen Verzierungen.",1458,98.7,False,none,,,,,
+BO0624_88399,217139,379,293,"1 Kreuz von weissem Marmor, Postament von schwarzem Marmor, mit biblischer Aufschriff. Hohe 78 cm.",1462,97.9,False,none,,,,,
+BO0624_88399,217140,380,294,"1 Kanone, fahrbar, mit Protzkasten und Bronzerohr. Lange 67 cm, gesamte Lange 167 cm.",1463,97.6,False,none,,,,,
+BO0624_88399,217141,381,295,"1 Spiegel, golddurchbrochen, holzgeschnitzt und reich vergoldet, mit Ornamenten und Engelskopf. Hohe 215 cm, Breite 142 cm.",1464,98.3,False,none,,,SPECCHI,,
+BO0624_88399,217142,382,296,"1 facettierter Kristallglasspiegel, holzgeschnitzt mit 3 Engeln und Ornamenten. Hohe 170 cm, Breite 155 cm.",1465,98.1,False,none,,,,,
+BO0624_88399,217143,383,297,1 holzgeschnitzter Spiegel mit Blumen und Ornamenten.,1466,96.3,False,none,,,SPECCHI,,
+BO0624_88399,217144,384,298,"1 grosser vergoldeter Spiegel mit faceffierfem Kristallglas mit Ornamenten. Hohe 156 cm,Breite 85 cm.",1470,98.0,False,none,,,SPECCHI,,
+BO0624_88399,217145,385,299,"1 durchbrochener Barockspiegel mit Facetten, Glas,reich vergoldet. Hohe 112 cm, Breite 95 cm.",1471,97.8,False,none,,,,,
+BO0624_88399,217146,386,300,"1 Venetianer Spiegel mit Gold- und Glasrahme, geschliffene Ornamente. Hohe 125 cm, Breite 70 cm.",1472,97.8,False,none,,,OGGETTI IN ORO,,
+BO0624_88399,217147,387,301,"1 kleiner Kristallglasspiegel, Cuivre-poli, zum Aufstellen.",1474,96.6,False,none,,,,,
+BO0624_88399,217148,388,302,"2 Tischplaften, mit Ansichten von Schloss Babelsberg, mit Perl muttereinlagen. Hohe 48 cm,Breite 82 cm.",1478,98.0,False,none,,,,,
+BO0624_88399,217149,389,303,"2 japanische Wandschirme, 3teilig und 5teilig, mit Landschaften und Figuren, Lackmalereien. Hohe 180 cm, Breite 47 cm.",1479,98.2,False,none,,,,,
+BO0624_88399,217150,390,1600,2000,1485,100.0,False,none,,,,,
+BO0624_88399,217151,391,3000,200,1489,100.0,False,none,,,,,
+BO0624_88399,217152,392,1500,1500,1491,100.0,False,none,,Scuola Ferrarese,,,Sec. XVI
+BO0624_88399,217153,393,1500,800,1497,100.0,False,none,,,,,
+BO0624_88399,217154,394,800,600,1501,100.0,False,none,,,,,
+BO0624_88399,217155,395,1200,80,1505,100.0,False,none,,Scuola di Monaco,,,
+BO0624_88399,217156,396,200,1500,1509,100.0,False,none,,Scuola Ferrarese,,,Sec. XVI
+BO0624_88399,217157,397,4000,10500-,1513,100.0,False,none,,,,,
+BO0624_88399,217158,398,600,2254,1519,100.0,False,none,,,,,
+BO0624_88399,217159,399,3800,"| Hohe 108 cm,Breite 134 cm,Tiefe 40 cm. 307. 1 grosser Blumentisch, holzgeschnitzt, reich vergoldet. Hohe 98 cm, Breite 90 cm.                                                                                                                                                                                                          | 500 800                  |        |",1525,98.1,False,none,,,,,
+BO0624_88399,217160,400,30,Mk. | 30 Mk.                                                                                                                                                                                                                                                                                                                                 | 30 Mk.                   | 30 Mk. |,1540,93.0,False,none,,,,,
+BO0624_88399,217161,401,311,"Mobelgarnitur, Mahagoni, Jugendstil, mit seidenem Fantasiestoff bezogen, bestehend aus:                                                                                  | Anfchlag in Mark   |",1543,98.0,False,none,,,,,
+BO0624_88399,217162,402,1,"Kanapee,2 Fauteuils,2 Sesseln 1 Bankchen in Kerbschnitzerei . 1 Schreibtisch, Mahagoni .. 312. 1 Mobelgarnitur, Gestell schwarz mit salmfarbenem Seidestoff be-              | 500 80 150         |",1545,99.7,False,none,,,SCOMPARTI,,
+BO0624_88399,217163,403,313,"1 Porzellanschrank, Nussbaum, weiss mit Gold, mit gewundenen Glasern, mit rotem Samt ausgeschlagen. Hohe 220 cm, Breite 103 cm.                                          | 80 1600 8000       |",1547,98.5,False,none,,,OGGETTI IN ORO,,Sec. XVII
+BO0624_88399,217164,404,314,"1 Konsoltisch mit vergoldetem geschnitztem Gestell, mit roter                                                                                                            |                    |",1548,96.8,False,none,,,,,
+BO0624_88399,217165,405,315,"1 Fussbodenteppich,Brusseler Fabrikat.                                                                                                                                   | 200                |",1550,95.3,False,none,,,,,
+BO0624_88399,217166,406,316,1 desgleichen. 317. 1 Smyrna Fussbodenteppich.                                                                                                                           | 300                |,1551,95.9,False,none,,,,,
+BO0624_88399,217167,407,35,qm.                                                                                                                                                                         | 800                |,1552,85.7,False,none,,,,,
+BO0624_88399,217168,408,318,"1 Paar japanische Portieren seidegestickt mit Blumen und Vogeln. 2 Flugel je Lange 3,12 m, Breite 1,20 m.                                                                | 3000               |",1553,98.2,False,none,,,COPPE,,
+BO0624_88399,217169,409,319,"1 Paar desgleichen. 2 Flugel je Lange 2,80 m, Breite 1,08 m.                                                                                                             | 1500               |",1554,96.9,False,none,,,COPPE,,Sec. XVI
+BO0624_88399,217170,410,320,"1 orientalische Vorlage Lange 1,90 m, Breife 1,09 m.                                                                                                                      | 800                |",1555,96.4,False,none,,,,,
+BO0624_88399,217171,411,321,"2 Handtuchhalter, weiss und grun lackiert, mit Glasstangen.                                                                                                              | 80                 |",1556,96.7,False,none,,,,,
+BO0624_88399,217172,412,322,"1 Chaiselongue, 4 Sessel mit rotem Saffian bezogen.                                                                                                                      | 400                |",1557,96.4,False,none,,,,,
+BO0624_88399,217173,413,323,"1 Mobelgarnitur, Gestelle schwarz, gepolstert und mit rotem Saffian                                                                                                      |                    |",1558,97.0,False,none,,,,,
+BO0624_88399,217174,414,1,"Konsoltisch von schwarz gebeiztem Holz mit weisser Mar- morplatte und Spiegelaufsatz. Tisch hoch 101 cm, lang 129 cm, fief 0,43 cm, Spiegelaufsatz hoch 165 cm,breit 96 cm. | 500                |",1560,99.4,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88399,217175,415,2,"Spieltische, schwarz gebeizt, das Oberblaft mit Tuch bezogen je 150 Mk. 1 Pfeilertisch von schwarzem Holz mit 2 Etagen                                                      | 300 200            |",1561,99.2,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88399,217176,416,1,Kleeblatttischchen ebenso                                                                                                                                                   | 80                 |,1562,96.6,False,none,,,,,
+BO0624_88399,217177,417,324,"Mobelgarnitur, die Gestelle schwarz, gepolstert und mit rotem Saffian bezogen, bestehend in:                                                                                                                                         | [Anfchlag inMark   |",1563,98.1,False,none,,,,,
+BO0624_88399,217178,418,1,"Kanapee,4 Fauteuils, 10 Sesseln                                                                                                                                                                                                         | 2000               | Spiegel in schwarz gebeiztem, reich geschnitztem Rahmen mit Engeln und Blumenbuketts, gehalten von einem geschnitzten Amor, mit einem Lichterarm (von Radspieler in Munchen) 2 Eckdiwans, die Gestelle schwarz gepolstert und mit rotem | 1000               |",1566,93.2,False,none,,,CORNICI,,Sec. XI
+BO0624_88399,217179,419,2,Pfeilerschranke von schwarz gebeiztem Holz mit Spiegel- aufsatzen .je 600 Mk.                                                                                                                                                           | 1200               |,1568,98.8,False,none,,,OGGETTI IN LEGNO,,Sec. XIII
+BO0624_88399,217180,420,1,"Spieltisch, ebenso .                                                                                                                                                                                                                    | 150                |",1570,95.5,False,none,,,,,
+BO0624_88399,217181,421,1,reich geschnitzter Tisch ebenso .                                                                                                                                                                                                       | 500                | rundes Tischchen von schwarzem Holz                                                                                                                                                                                                     | 80                 |,1573,68.4,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88399,217182,422,2,Jardinieren von schwarzem Holz mit Zinkeinsatz je 4o Mk.                                                                                                                                                                                | 80                 |,1574,98.3,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88399,217183,423,1,Bucher-Etagere zum Drehen von schwarzem Holz                                                                                                                                                                                            | 50                 |,1575,97.9,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88399,217184,424,325,"1 Tischchen,schwarz poliert mit Bronzevergoldung,auf dem Blaft ein Damenbreft                                                                                                                                                        | 40                 |",1576,97.6,False,none,,,,,
+BO0624_88399,217185,425,326,"1 grosser Bibliothekschrank, oben mit 6 Glasturen, der Untersatz mit 6 Holzturen und Schubladen von mattem, gebeiztem, schwarzem Holz.                                                                                                |                    |",1577,98.5,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88399,217186,426,327,"2 Kanapees, mit gestreiffem Seidestoff bezogen, 4 Fauteuils des- gleichen, 2 runde Tische e：                                                                                                                                          | 1000               |",1579,97.9,False,none,,,SCOMPARTI,,Sec. XI
+BO0624_88399,217187,427,328,"1 Salonschrank, Kirschbaum mit Einlagen. Lange 78 cm,Hohe 130 cm, Tiefe 36 cm.                                                                                                                                                        | 600                |",1580,97.5,False,none,,,,,
+BO0624_88399,217188,428,2,"Konsoltische, ebenso, mit Marmorplatten. Lange 100 cm, H6he 100 cm, Tiefe 40 cm. Je 400 Mk.                                                                                                                                             | 800                |",1581,98.9,False,none,,,,,
+BO0624_88399,217189,429,1,Schreibtisch.                                                                                                                                                                                                                           | 300                |,1582,94.1,False,none,,,,,
+BO0624_88399,217190,430,1,"zweiter Salonschrank. Lange 173 cm,Hohe 135 cm, Tiefe 36 cm.                                                                                                                                                                            | 300                |",1584,98.4,False,none,,,,,
+BO0624_88399,217191,431,329,"2 Bankette, Kirschbaum mit Einlagen mit Tapisseriebezug,                                                                                                                                                                                                         | [Anfchlag in Mark Lange 110 cm, Hohe 52 cm.   | Flugelbank Je 200 Mk.                                                                                                                                                                                                                                              | 600                                           |",1585,86.8,False,none,,,,,
+BO0624_88399,217192,432,330,"1 halbrundes Tischchen, Kirschbaum mit Einlagen. Hohe 82 cm,Durchmesser 37 cm.                                                                                                                                                                                   | 150                                           |",1588,97.5,False,none,,,,,
+BO0624_88399,217193,433,331,"7 maurische Hangelampen mit Kugeln von mattrosa Glas, auf welchen rote und vergoldete Arabesken. Ganze Hohe der Lampen 100 cm, Durchmesser der Kugeln 40 cm.                                                                                                    | Je 250 Mk. 1750                               |",1589,98.8,False,none,,,LAMPADE,,Sec. XVIII
+BO0624_88399,217194,434,332,"1 kleiner Schreibtisch, Rusternholz,Biedermeierzeit. Hohe 75 cm, Lange 91 cm, Breite 52 cm.                                                                                                                                                                     | 150                                           |",1590,97.8,False,none,,Biedermeier,,,
+BO0624_88399,217195,435,333,"Mobelgarnitur, Gestelle, Kirschbaum mit Einlagen, Bezug rote Seide, bestehend aus: 1 Kanapee, Lange 110, Hohe 80 cm.                                                                                                                                            |                                               |",1591,98.2,False,none,,,,,
+BO0624_88399,217196,436,3,"Fauteuils,3 Fantasiestuhlen 334.1 runder Tisch, Kirschbaum mit Einlagen                                                                                                                                                                                            | 2000 100                                      |",1592,98.8,False,none,,,SCOMPARTI,,
+BO0624_88399,217197,437,335,2 Kanapee mit gestreiffem Seidestoff bezogen .Je 150 Mk.                                                                                                                                                                                                         | 300                                           |,1593,96.7,False,none,,,,,
+BO0624_88399,217198,438,336,"1 Garnitur Rokoko-Mobel, Gestelle sehr reich geschnitzt und ver- goldet, bezogen mit dunkelrotem Samt, 1 Sofa, Lange 17o,Hohe 150cm, 3 Fauteuils, 6 Sessel, 1 viereckiger Tisch mit Marmorplatfe. Lange 152 cm, Breite 78 cm,Hohe 80 cm. Siehe Abbildung. 30000 |                                               |",1595,99.2,False,none,,,SCOMPARTI,,
+BO0624_88399,217199,439,5700,"| 339. 2 alte Wedgwood-Vasen auf Fussen mit Deckeln, Louis XVI, mit erhabenen Ornamenten. Hohe 19 cm,Durchmesser 14 cm.     |                      400 |",1603,97.9,False,none,,,OGGETTI VARI,,
+BO0624_88399,217200,440,820,"| 340. 1 Wedgwood-Kaffeemaschine,braun,Louis XVI.,mit erhabenen Figuren, sehr schon. Hohe 24 cm, Durchmesser 21 cm.         |                      200 |",1604,98.2,False,none,,,OGGETTI VARI,,
+BO0624_88399,217201,441,20600,"| 341.1 Tasse mit Untertasse, Dekor und reicher Vergoldung, auf der Obertasse das Stammschloss Wurttemberg gemalt.          |                      300 |",1605,97.4,False,none,,,,,
+BO0624_88399,217202,442,310,"| 344.1 Schussel, Ludwigsburger Porzellan, weiss mit vergoldetem Namenszug F. R. Durchmesser 25 cm, Tiefe 11 cm,Fuss 12 cm. |                      100 |",1608,98.3,False,none,,Manifattura di Ludwigsburg,SCATOLE,,
+BO0624_88399,217203,443,1000,"+10v0 | 346. 2 basreliefartige Lithographien, Nuditaten, merkwurdige Stucke. Lange 50 cm, Breite 41 cm.                           |                      100 |",1610,97.5,False,none,,,STAMPE E INCISIONI,,
+BO0624_88399,217204,444,380,"| 349. 1 runde Glasscheibe mit in Blei gefasstem farbigem wurttem- bergischen Wappen, etwa 1830. Durchmesser 31 cm.         |                       80 |",1613,98.2,False,none,,,OGGETTI IN PIOMBO,,Sec. XIX
+BO0624_88399,217205,445,1050,"| 350. 2 Paar Meissner Tassen, etwa 1770, mit Ansichten und Figuren.                                                        |                      300 |",1614,96.4,False,none,,,,,Sec. XVIII

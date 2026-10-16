@@ -1,19 +1,19 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87924,167710,1,17,Jahrh.,17,76.9,False,positional,,HOLLANDISCHE SCHULE,,,
-BO0624_87924,167711,2,1,"Portrat eines bartigen Monches, den Kopf auf die Hande gestutzt. Auf Holz.H.44 cm.B.35 cm. S.-R.",19,98.9,False,positional,,HOLLANDISCHE SCHULE,OGGETTI IN LEGNO,,
+BO0624_87924,167711,2,1,"Portrat eines bartigen Monches, den Kopf auf die Hande gestutzt. Auf Holz.H.44 cm.B.35 cm. S.-R.",19,98.9,False,none,,,OGGETTI IN LEGNO,,
 BO0624_87924,167712,3,2,"Liebespaar, von einer alteren Frau belauscht. Freie Darstellung. Fein gemalte Gouache. H. 3o cm. B. 24 cm. Gerahmt.",23,99.1,False,positional,J. B. HUET,,,,
 BO0624_87924,167713,4,3,Seesturm. Blick auf die bewegte See. Im Vordergrunde Schiffbruchige. Lwd.H.48 cm.B.6o cm.G.R.,27,98.9,False,positional,CL. JOSEPHVERNET,,,,
 BO0624_87924,167714,5,4,Gebirgige Landschaft bei Abendbeleuchtung. Hirten als Staffage. Jahrh.,32,93.8,False,positional,CL.JOSEPH VERNET,,,,
 BO0624_87924,167715,6,5,"Portrat. Brustbild eines Fursten in Rustung und Allongeperucke. Kreidezeichnung, oval. H.30 cm. B. 21 cm. G.-R.",40,99.0,False,positional,,FRANZOSISCHE SCHULE,,,
 BO0624_87924,167716,7,6,Allegorische Darstellung. Eine Frau erschreckt eine andere durch das,46,98.5,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_87924,167717,8,2,Vorhalten einer Maske.,47,95.5,False,positional,,FRANZOSISCHE SCHULE,,,
+BO0624_87924,167717,8,2,Vorhalten einer Maske.,47,95.5,False,none,,,,,
 BO0624_87924,167718,9,18,Jahrh.,53,76.9,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_87924,167719,10,7,"Eine junge Winzerin in Halbfigur, an einer Balustrade lehnend, halt eine Traube in der Linken.",55,98.9,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_87924,167720,11,2,Lwd. H. 81 cm. B. 69 cm. G.R.,56,95.8,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_87924,167721,12,17,Jahrh.,60,76.9,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_87924,167722,13,8,"Madonna. Die heil. Jungfrau, in Halbfigur sitzend, reicht dem Kinde die Brust. Landschaft im Hintergrunde. Auf Holz. H. 61 cm. B. 45 cm. G.R.",62,99.2,False,positional,,FRANZOSISCHE SCHULE,OGGETTI IN LEGNO,,
+BO0624_87924,167719,10,7,"Eine junge Winzerin in Halbfigur, an einer Balustrade lehnend, halt eine Traube in der Linken.",55,98.9,False,none,,,,,
+BO0624_87924,167720,11,2,Lwd. H. 81 cm. B. 69 cm. G.R.,56,95.8,False,none,,,,,
+BO0624_87924,167721,12,17,Jahrh.,60,76.9,False,none,,Scuola Bolognese,,,
+BO0624_87924,167722,13,8,"Madonna. Die heil. Jungfrau, in Halbfigur sitzend, reicht dem Kinde die Brust. Landschaft im Hintergrunde. Auf Holz. H. 61 cm. B. 45 cm. G.R.",62,99.2,False,none,,,OGGETTI IN LEGNO,,
 BO0624_87924,167723,14,9,10. Zwei gebirgige Landschaften mit Wasser bei Abendbeleuchtung. Grosse Figuren und Tierstaffage. Gegenstucke.,81,99.1,False,positional,M. ROBINEAU,,,,
-BO0624_87924,167724,15,2,Lwd. Mit Kunstlernamen. H.67 cm. B.86 cm. G.R.,82,97.6,False,positional,M. ROBINEAU,,,,
+BO0624_87924,167724,15,2,Lwd. Mit Kunstlernamen. H.67 cm. B.86 cm. G.R.,82,97.6,False,none,,,,,
 BO0624_87924,167725,16,11,Die Familie des Malers Boucher beim Fruhstuck. Das Original im Louvre zu Paris.,86,84.1,False,positional,FRANCOIS BOUCHER,,,,
 BO0624_87924,167726,17,12,Geflugelte Amorette mit Hund. Fragment eines grosseren Bildes. Lwd. H.68 cm. B.52 cm. G.-R.,93,98.2,False,positional,R. LEVRAC-TOURNIERES,,OGGETTI VARI,,
 BO0624_87924,167727,18,13,Die Madonna mit dem Blumen streuenden Engel. Original im Louvre Zu Paris.,97,97.9,False,positional,RAFFAELLO SANTI,,,,
@@ -23,7 +23,7 @@ BO0624_87924,167730,21,16,In einer Landschaft Liebespaare mit Amoretten. Auf Hol
 BO0624_87924,167731,22,17,"Diana. Halbfigur in einer Landschaft, die Rechte auf die Brust gelegt.",116,97.8,False,positional,WILLIAM ETTY,,,,
 BO0624_87924,167732,23,18,19. Zwei Landschafts-Friese. Als grosse Staffage galante Hirtenszenen. Gegenstucke.,124,98.1,False,positional,FRANCOIS BOUCHER,,,,
 BO0624_87924,167733,24,18,Jahrh.,139,76.9,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_87924,167734,25,20,Blumenstick. In einer skulptierten Vase Gartenblumen verschiedener Art. In einem Korbe daneben zwei Tauben. 1826.,141,96.3,False,positional,,FRANZOSISCHE SCHULE,OGGETTI VARI,,Sec. XIX
+BO0624_87924,167734,25,20,Blumenstick. In einer skulptierten Vase Gartenblumen verschiedener Art. In einem Korbe daneben zwei Tauben. 1826.,141,96.3,False,none,,,OGGETTI VARI,,Sec. XIX
 BO0624_87924,167735,26,21,"Eine junge Frau schmuckt die Statue der Venus mit einer Guirlande. Zeichnung in Sepia. H. 44 cm. B. 29,s cm. G.-R.",149,98.6,False,positional,J. J. F. LE BARBIER,,,,
 BO0624_87924,167736,27,23,"23. Zwei Pastoralen. Ein junger Mann bringt seiner Geliebten Blumen. Hirten, ein Vogelnest betrachtend. Gegensticke.",153,98.7,False,positional,,FRANCOIS BOUCHER SCHULE,,,
 BO0624_87924,167737,28,24,Landschaft. Gebirgige Gegend mit Fluss. Im Vordergrunde Hirten bei Ruinen.,159,92.8,False,positional,,FRANCOIS BOUCHER SCHULE,,,
@@ -31,17 +31,17 @@ BO0624_87924,167738,29,25,"Ein Knabe mit Strohhut, den Triangel schlagend. Halbf
 BO0624_87924,167739,30,26,Hirtenszene. Ein Kavalier in rotem Kostum bringt einer unter einem Baume ruhenden Schaferin eine Weintraube.,171,98.6,False,positional,,ANTOINE WATTEAU SCHULE,,,
 BO0624_87924,167740,31,27,"Der Sommer. Drei Amoretten, bei Ahrengarben den Sommer symbolisierend. Treffliches Bild auf Lwd. H. 48 cm.B. 62 cm.G.-R.",177,98.7,False,positional,FRANCOIS BOUCHER,,,,
 BO0624_87924,167741,32,28,Ein junger Krieger kniet vor einer Priesterin. Ein Madchen steht,183,97.7,False,positional,J. B. HUET,,,,
-BO0624_87924,167742,33,2,daneben.,184,87.5,False,positional,J. B. HUET,,,,
+BO0624_87924,167742,33,2,daneben.,184,87.5,False,none,,,,,
 BO0624_87924,167743,34,1712,1793.,191,61.5,False,positional,FRANCESCO GUARDI,,,,Sec. XVIII
-BO0624_87924,167744,35,29,Venedig. Der Canal grande mit der Kirche Maria della salute. Viele 1808.,193,94.1,False,positional,FRANCESCO GUARDI,,,,Sec. XIX
+BO0624_87924,167744,35,29,Venedig. Der Canal grande mit der Kirche Maria della salute. Viele 1808.,193,94.1,False,none,CANALE ANTONIO,,,,Sec. XIX
 BO0624_87924,167745,36,30,"Bei Tivoli. Ein Wasserfall, zwischen Felsen zu Tal sturzend, im Hintergrund die Villa des Maecenas. Zeichnung in Kreide mit der Kunstlerbezeichnung. H. 65 cm. B. 49 cm. G.R. 1770.",202,97.6,False,positional,HUBERT ROBERT,,,,Sec. XVIII
 BO0624_87924,167746,37,31,Geflugelter Genius mit Amoretten auf Wolken. Geistvolle Skizze auf Lwd. H.3I cm. B. 3s cn. G.-R.,208,98.3,False,positional,FRANCOIS BOUCHER,,,,
 BO0624_87924,167747,38,32,"Huftbild einer vornehmen Dame in dunkelblauer, ausgeschnittener Taille, das dunkle Haar hangt zu beiden Seiten des Hauptes in Locken herab. Lwd. H.76cm. B. 63 cm. G.R.",212,99.1,False,positional,THOMAS LAWRENCE,,,,
 BO0624_87924,167748,39,33,"Weiblicher Akt. Halbfgur, von der Seite gesehen. 1768.",217,91.8,False,positional,G. RICARD,,,,Sec. XVIII
 BO0624_87924,167749,40,34,"Architektur. Die Ruinen eines romischen Palastes, im Mittelgrunde der Tempel der Sibylle, links eine reich skulptierte Vase. Krieger und Frauen als Staffage.",225,94.6,False,positional,GIOV. P. PANNINI,,VASI,,
 BO0624_87924,167750,41,35,36.&gt;La Musique.《-&gt;La Fontaine de lamour.《 Zwei Schafer-,232,97.3,False,positional,FRANCOIS BOUCHER,,,,
-BO0624_87924,167751,42,2,szenen. a) Ein junger Mann macht seiner Geliebten eine Liebeserklarung. Auf einer Fontane die Inschrift: Fontaine de lamour.-b) Bei einer Fontane sitzt ein junges musizierendes Paar. Gegenstucke.,233,99.5,False,positional,FRANCOIS BOUCHER,,,,
-BO0624_87924,167752,43,3,Vorzugliche Bilder von grosser Kraft und Farbenfrische. Lwd. H. 14o cm. B. 114 cm. G.-R. Abbildungen auf Tafel I und 2.,234,99.1,False,positional,FRANCOIS BOUCHER,,FOTOGRAFIE,,
+BO0624_87924,167751,42,2,szenen. a) Ein junger Mann macht seiner Geliebten eine Liebeserklarung. Auf einer Fontane die Inschrift: Fontaine de lamour.-b) Bei einer Fontane sitzt ein junges musizierendes Paar. Gegenstucke.,233,99.5,False,none,,,,,
+BO0624_87924,167752,43,3,Vorzugliche Bilder von grosser Kraft und Farbenfrische. Lwd. H. 14o cm. B. 114 cm. G.-R. Abbildungen auf Tafel I und 2.,234,99.1,False,none,,,FOTOGRAFIE,,
 BO0624_87924,167753,44,37,Vier Amoretten in einer Landschaft. Die eine lasst eine Taube als Liebesboten fliegen. Durch den Kupferstich bekannte Komposition. Auf Lwd. H. 6o cm. B. 74 cm. G.R. Abbildung auf Tafel 7. 1805.,238,97.8,False,positional,FRANCOIS BOUCHER,,OGGETTI IN RAME,,Sec. XIX
 BO0624_87924,167754,45,38,"Weibliches Bildnis. Junges anmutiges Madchen, ein rosa Band im lichtbraunen Haar, nach rechts gewendet. Brustbild. 1808.",255,96.5,False,positional,JEAN BAPTISTE GREUZE,,,,Sec. XIX
 BO0624_87924,167755,46,39,"Landschaft. An dem felsigen und bewaldeten Ufer eines Flusses Fischer, die Netze einziehend. 1778.",263,95.7,False,positional,HUBERT ROBERT,,,,Sec. XVIII
@@ -76,6 +76,6 @@ BO0624_87924,167783,74,66,Modell einer Buttermaschine aus Nussholz. Franzosisch.
 BO0624_87924,167784,75,67,"Vorderteil einer Kasel, farbige Petit-Pointstickerei, auf der Mitte des Kreuzes das Agnus Dei. 17. Jahrh. Gr. 106 zu 66 cm.",348,98.7,False,positional,,,ANTIQUITATEN,,Sec. XVII
 BO0624_87924,167785,76,68,Gerahmter Farbendruck von Bonnet nach Fr. Boucher. Portrat einer der Tochter des Boucher. Sehr seltenes und interessantes Blatt. Ohne Rand.Gr.-Fol. Abbildung auf Tafel 8.,349,99.1,False,positional,BOUCHER FRANCOIS,,ANTIQUITATEN,,
 BO0624_87924,167786,77,5,Ferdinand IV. von Neapel und seine Familie. Schones Blatt. Im Schriftrand etwas fleckig. Roy.Qu.-Fol.,350,99.0,False,positional,,,ANTIQUITATEN,,
-BO0624_87924,167787,78,70,Farbendruck unter Glas Romische Ruinen nach Giov. P. Pannini. Fol.,351,97.6,False,positional,,Scuola Romana,ANTIQUITATEN,,
+BO0624_87924,167787,78,70,Farbendruck unter Glas Romische Ruinen nach Giov. P. Pannini. Fol.,351,97.6,False,positional,PANNINI GIOVANNI PAOLO,Scuola Romana,ANTIQUITATEN,,
 BO0624_87924,167788,79,71,"Les cris de Paris. Etudes prises dans le bas Peuple ou les Cris de Paris. Premiere Suitte 1737. Bouchardon inv. C * S. (5 Folgen mit je 12 Bl. und zwei einzelnen,nicht numerierten, also 62 Bl. 1o Bl. fehlen in vorliegendem Exemplar. Gebunden. Fol.",352,99.4,False,positional,,,ANTIQUITATEN,,Sec. XVIII
 BO0624_87924,167789,80,72,"Galerie francaise de femmes celebres par leurs talens, leur rang ou leur beaute ou portrait en pied. Dessines par, Laute d'apres des originaux inedits graves par Gatin et colories. Paris. Durand. 69 Blatt fein colorierte Stiche. Einige wenige Blatter lose und nicht ganz tadelfrei. Halbfranzband. Kl.-Fol.",353,99.5,False,positional,,,ANTIQUITATEN,,

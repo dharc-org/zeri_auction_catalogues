@@ -45,7 +45,7 @@ BO0624_88094,406292,43,668,"W.Lindner, Kanalufer.Olgemalde. H.81 cm,B.100cm. Gol
 BO0624_88094,406293,44,669,"W. Lindner, Berglandschaft. Olgemalde. H. 80 cm,B.100 cm.Goldrahmen.",90,96.9,False,title_direct,,,Olgemalde,,
 BO0624_88094,406294,45,670,"H. Kehnert, Waldrand im Winter. Olgemalde.",91,95.0,False,title_direct,,,Olgemalde,,
 BO0624_88094,406295,46,671,"M. Stauss, Margaretenblumen. Olgemalde.",93,94.6,False,title_direct,,,Olgemalde,,
-BO0624_88094,406296,47,672,"Artur Kampf, Fischerfrauen am Strand. Temperagemalde.",95,96.2,False,title_direct,,,Gemalde,,
+BO0624_88094,406296,47,672,"Artur Kampf, Fischerfrauen am Strand. Temperagemalde.",95,96.2,False,title_direct,KAMPF ARTHUR,,Gemalde,,
 BO0624_88094,406297,48,673,"0. Knige, Brustbild Kaiser Wilhelms I. Olgemalde.",97,95.7,False,title_direct,,,Olgemalde,,
 BO0624_88094,406298,49,674,"Richard Fuchs, Sonnenuntergang in der Wuste.Olgemalde. H. 54 cm, B.72 cm.Schwarzer Rahmen.",99,97.7,False,title_direct,,,CORNICI,,
 BO0624_88094,406299,50,675,"Wallat,Helgoland. Olgemalde. H.31 cm, B. 61 cm.Goldrahmen.",100,96.4,False,title_direct,,,Olgemalde,,
@@ -143,7 +143,7 @@ BO0624_88094,406390,141,759,"F. Krostewitz, Landschaft.Nach dem Gemalde von Remb
 BO0624_88094,406391,142,760,"Eduard Einschlag, Neptuns Meerfahrt. Originalradierung vor aller Schrift. Handsigniert. H. 39cm,B.96 cm.",220,98.0,False,positional,,,Stiche,,
 BO0624_88094,406392,143,2,"761.Gertrud Frank,Dienstmann.Farbige Originallithographie. H.52 cm,B.32 cm.",221,98.6,False,positional,,,Stiche,,
 BO0624_88094,406393,144,762,Desgleichen auf hellem Papier.,222,93.5,False,positional,,,Stiche,,
-BO0624_88094,406394,145,4,"Lithographie. 763. Artur Kampf, Einsegnung von Freiwilligen 1813.",223,98.4,False,positional,,,Stiche,,Sec. XIX
+BO0624_88094,406394,145,4,"Lithographie. 763. Artur Kampf, Einsegnung von Freiwilligen 1813.",223,98.4,False,positional,KAMPF ARTHUR,,Stiche,,Sec. XIX
 BO0624_88094,406395,146,5,"H.75 cm,B.102 cm.",224,94.1,False,positional,,,Stiche,,
 BO0624_88094,406396,147,764,"F.A.Borner, Strand. Originalschabkunstblatt vor aller Schrift. Handsigniert. H.31,5 cm, B. 44 cm.",225,77.1,False,positional,,,Stiche,,
 BO0624_88094,406397,148,765,"Unbekannter Meister, Heroische Landschaft.Nach einem alten Gemalde. Radierung vor aller Schrift. H.50 cm,B.62 cm.",227,67.1,False,title_direct,,,ACQUEFORTI,,
@@ -177,7 +177,7 @@ BO0624_88094,406424,175,791,"Leopold Graf von Kalckreuth, Kinzelsau. Originalrad
 BO0624_88094,406425,176,792,"F.A. Borner, Moltke auf dem Totenbett. Nach einer Zeichnung von Ferdinand Grafen von Harrach.S Schabkunstblatt vor aller",268,98.3,False,positional,,,Stiche,,
 BO0624_88094,406426,177,793,"F. A. Borner, Lachender Mannerkopf. Originalschabkunstblatt",273,96.5,False,positional,,,Stiche,,
 BO0624_88094,406427,178,794,"Fr.L.Meyer, Zigeunerpaar. Nach dem Gemalde von R. Henne-",275,96.3,False,title_direct,,,Gemalde,,
-BO0624_88094,406428,179,795,"Eduard Einschlag, Im Cafe. Nach dem Gemalde von Degas. Sechster Druck der unverstahlten Platte. Radierung. H.22,5 cm,B.31 cm.",277,98.3,False,title_direct,,,ACQUEFORTI,,
+BO0624_88094,406428,179,795,"Eduard Einschlag, Im Cafe. Nach dem Gemalde von Degas. Sechster Druck der unverstahlten Platte. Radierung. H.22,5 cm,B.31 cm.",277,98.3,False,title_direct,DEGAS EDGAR,,ACQUEFORTI,,
 BO0624_88094,406429,180,796,"Eduard Einschlag, Polnischer Furst. Nach dem Gemalde von Rembrandt. Radierung vor aller Schrift. Handsigniert. H.18 cm,B.14 cm.",278,98.4,False,title_direct,REMBRANDT VAN RIJN,,ACQUEFORTI,,
 BO0624_88094,406430,181,797,"B. Mannfeld, Bildnis Menzels. Nach Eduard Magnus. Radierung. H.24 cm,B.18cm.",279,97.2,False,positional,,,Stiche,,
 BO0624_88094,406431,182,798,"F.A. Borner, Moltke auf dem Totenbett. Nach einer Zeichnung von Ferdinand Grafen von Harrach. Schabkunstblatt vor aller Schrift. Vorletzter Probedruck. H.36 cm, B. 43 cm.",280,85.4,False,positional,,,Stiche,,
@@ -195,7 +195,7 @@ BO0624_88094,406442,193,808,Zeichnungen deutscher Kinstler. Sechs Lichtdrucke. D
 BO0624_88094,406443,194,809,Zeichnungen deutscher Kinstler.S Sechs Lichtdrucke.Deutscher Kunstverein in Berlin 1893.,296,97.8,False,positional,,Scuola di Berlino,Stiche,,Sec. XIX
 BO0624_88094,406444,195,810,"Aus Konig Friedrichs Zeit. Kriegs- und Friedens-Helden, gezeichnet von Adolf Menzel, in Holz geschnitten von Eduard Kretzschmar. Berlin 1886.",297,98.5,False,positional,MENZEL ADOLPH VON,Scuola di Berlino,Stiche,,Sec. XIX
 BO0624_88094,406445,196,811,"Desgleichen, ebenso.",298,90.0,False,positional,,,Stiche,,
-BO0624_88094,406446,197,812,"Vier Photographien nach Reliefs von Constantin Meunier. H.51 cm, B. 70 cm. Holzrahmen.",299,97.6,False,positional,,,Stiche,,
+BO0624_88094,406446,197,812,"Vier Photographien nach Reliefs von Constantin Meunier. H.51 cm, B. 70 cm. Holzrahmen.",299,97.6,False,positional,MEUNIER F.,,Stiche,,
 BO0624_88094,406447,198,813,"Konigssee. Nach dem Gemalde von Albert Rieger. Oldruck. H. 66 cm, B. 100 cm.Goldrahmen.",300,97.6,False,title_direct,,,Gemalde,,
 BO0624_88094,406448,199,814,Parforceritt. Nach dem Gemalde von G. Koch. Oidruck.,301,96.0,False,title_direct,,,Gemalde,,
 BO0624_88094,406449,200,815,"Der Zinsgroschen. Nach dem Gemalde von Tizian. Vierfarbendruck. H.72cm,B.54cm.",303,97.4,False,title_direct,TIZIANO VECELLIO,,Gemalde,,

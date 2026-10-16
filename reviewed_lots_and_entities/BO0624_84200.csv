@@ -5,7 +5,7 @@ BO0624_84200,699287,3,5,Messire Charles-Francois-Paul Le Normant de Tournehem.,2
 BO0624_84200,699288,4,6,Portrait en pied d'un Seigneur. Epreuve en noir.,32,97.9,False,positional,,ECOLEFRANCAISE,,,
 BO0624_84200,699289,5,3,Portrait de Mlle Duclos.,36,95.8,False,positional,DESPLACES,,,,
 BO0624_84200,699290,6,8,Tres Frail Sisters.,57,94.7,False,positional,DUPLESSIS-BERTAUX,,,,
-BO0624_84200,699291,7,10,Portrait du Prince de Galles. Epreuve en noir.,71,96.7,False,positional,DUPLESSIS-BERTAUX,,,,
+BO0624_84200,699291,7,10,Portrait du Prince de Galles. Epreuve en noir.,71,96.7,False,none,,,,,
 BO0624_84200,699292,8,I1,La Visite au Grand-Pere.,76,93.9,False,positional,SMITH,,,,
 BO0624_84200,699293,9,I2,"Jeune Femme assise dans un fauteuil et tenant un carton a dessin sur ses genoux,",84,98.1,False,positional,TENRE,,SCOMPARTI,,
 BO0624_84200,699294,10,13,La Signature du Contrat de la Noce de Village.,92,96.8,False,positional,WATTEAU,,,,
@@ -25,11 +25,11 @@ BO0624_84200,699307,23,27,Portrait de Jeune Femme.,256,93.9,False,positional,,EC
 BO0624_84200,699308,24,28,Le Triomphe de Junon.,269,93.0,False,positional,AMICONI,,,,
 BO0624_84200,699309,25,29,Vue presumee du Port de Toulon.,279,95.2,False,positional,BLARENBERGH,,,,
 BO0624_84200,699310,26,1829,1890,289,61.5,False,positional,BROWN,Scuola di Dusseldorf,,,Sec. XIX
-BO0624_84200,699311,27,3,o—Le Marechal de Vaux.,291,97.7,False,positional,BROWN,,,,
-BO0624_84200,699312,28,I,"l est represente a cheval, accompagne de ses aides de camp, explorant le champ de bataille de Fontenoy.",293,99.5,False,positional,BROWN,,,,
+BO0624_84200,699311,27,3,o—Le Marechal de Vaux.,291,97.7,False,none,,,,,
+BO0624_84200,699312,28,I,"l est represente a cheval, accompagne de ses aides de camp, explorant le champ de bataille de Fontenoy.",293,99.5,False,none,,,,,
 BO0624_84200,699313,29,32,32—Portrait d’un Grand-pretre.,314,100.0,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84200,699314,30,33,## 33—La Jeune Bergere.,324,100.0,False,positional,FLINCK,,,,
-BO0624_84200,699315,31,34,Portrait d’un Dignitaire chinois.,331,95.5,False,positional,FLINCK,,,,
+BO0624_84200,699315,31,34,Portrait d’un Dignitaire chinois.,331,95.5,False,none,,,,,
 BO0624_84200,699316,32,35,— Judith venant de couper la tete d'Holopherne.,339,96.7,False,positional,LAURENS,,,,
 BO0624_84200,699317,33,36,—La Naissance d'un dieu. 1679,349,84.6,False,positional,NATOIRE,,,,Sec. XVII
 BO0624_84200,699318,34,37,Portrait presume de l'Artiste.,359,95.1,False,positional,STEEN,,,,

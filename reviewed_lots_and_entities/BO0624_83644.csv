@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83644,85839,1,2,"Pendant du precedent,",38,95.2,False,positional,,,TABLEAUX,,
 BO0624_83644,85840,2,3,Portrait de Madame Adelaide.,46,96.4,False,positional,DROUAIS,,,,
-BO0624_83644,85841,3,4,Portrait de Mme Victoire.,52,96.0,False,positional,DROUAIS,,,,
+BO0624_83644,85841,3,4,Portrait de Mme Victoire.,52,96.0,False,none,,,,,
 BO0624_83644,85842,4,5,Portrait du Dauphin.,60,95.0,False,positional,,ECOLE FRANCAISE,,,
 BO0624_83644,85843,5,11,—Les Cascatelles de Tivoli.,122,94.3,False,positional,HUBERT-ROBERT,,,,
 BO0624_83644,85844,6,20,Sous ce numero seront vendus les tableaux non catalogues.,215,97.4,False,positional,WITT (EMMANUEL DE),,,,

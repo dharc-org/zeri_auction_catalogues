@@ -17,12 +17,12 @@ BO0624_5760,202391,15,15,"ENAMEL COPPER COUPE Limoges, Late XVI Century Allegori
 BO0624_5760,202392,16,16,ENAMEL PLAQUE,106,89.7,False,title_direct,,,ENAMEL PLAQUE,,
 BO0624_5760,202393,17,17,FOUR HISPANO-MoRESQUE PLATES tives. Deep gold lustre.,121,97.1,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,
 BO0624_5760,202394,18,2,"XVII Century 18. HISPANO-MORESQUE SMALL VASE Inverted pear-shape, with expanding lip; displaying a foli-",122,99.0,False,title_direct,,HISPANO-MORESQUE,VASI,,Sec. XVII
-BO0624_5760,202395,19,3,ated design on a white ground. Fine copper lustre.,123,98.0,False,positional,,ITALIAN; HISPANO-MORESQUE,LUSTRI,,
+BO0624_5760,202395,19,3,ated design on a white ground. Fine copper lustre.,123,98.0,False,positional,,,LUSTRI,,
 BO0624_5760,202396,20,19,CASTEL DURANTE ALBERELLO yellows and greens.,132,96.6,False,title_direct,,CASTEL DURANTE,,,
 BO0624_5760,202397,21,2,"XVI Century 20.DERUTA MAJOLICA PLATE Circular, lobed deep plate with futed cavetto; the centre decorated with foliage. Mother-of-pearl lustre.",133,99.3,False,title_direct,,,LUSTRI,,Sec. XVI
 BO0624_5760,202398,22,21,"URBINO MAJOLICA PLATE XVI Century Circular deep plate, exhibiting a representation of the VisITATION OF SAINT ANN in the characteristic colors of Urbino. (Repaired.)",138,88.2,False,title_direct,,,MAJOLICA,,Sec. XVI
 BO0624_5760,202399,23,22,"CAFFAGGIOLO MAJOLICA VASE Oviform, with tapering neck; exhibiting in a foliated cartouche a female portrait bust, painted in characteristic colors, finely glazed. The obverse side having the Caffaggiolo mark (Repaired.)",146,99.3,False,title_direct,,,VASI,,
-BO0624_5760,202400,24,2,"NovE DIsH ON Low FoOT Venetian, XVIII Century 23 Grayish-blue; with central design of foral motives in polychrome, and a narrow border of geometrical design.",147,99.4,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,Sec. XVIII
+BO0624_5760,202400,24,2,"NovE DIsH ON Low FoOT Venetian, XVIII Century 23 Grayish-blue; with central design of foral motives in polychrome, and a narrow border of geometrical design.",147,99.4,False,positional,,Scuola Veneziana,FAIENCE; LUSTRE WARE,,Sec. XVIII
 BO0624_5760,202401,25,24,"CAFFAGGIOLO MAJOLICA EWER XVII Century Oviform, with tapering neck and short straight spout; scrolled royal-blue with scrollings. Inscribed: So d Betonica.",150,99.0,False,title_direct,,,EWER,,Sec. XVII
 BO0624_5760,202402,26,25,"HISPANO-MORESQUE PLATE XVI Century The wide rim modeled with leaves in relief on a ground of foral motives and the centre with a boss, on which is the cross of Malta in white. Copper-gold reflets.",154,99.2,False,title_direct,,HISPANO-MORESQUE,OGGETTI IN ORO,,Sec. XVI
 BO0624_5760,202403,27,26,"HISPANO-MORESQUE LUSTRE PLATE XVI Century Circular, with embossed tondo; the whole enriched with conventionalized foliage and scrollings. Fine deep gold reflets. (Repaired.)",158,99.1,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,Sec. XVI
@@ -30,7 +30,7 @@ BO0624_5760,202404,28,27,PAIR ITALIAN FAIENCE LARGE PLATES The broad rims with R
 BO0624_5760,202405,29,28,"HISPANO-MORESQUE LUSTRE PLAQUE XVI Century Circular, with embossed tondino; decorated with complex",167,98.5,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,Sec. XVI
 BO0624_5760,202406,30,29,HISPANO-MORESQUE LUSTRE PLATE XVI Century The central boss occupied by a fower and encircled by bands. The rim with various conventionalized foral designs; the lustre of golden iridescence.,172,99.2,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,Sec. XVI
 BO0624_5760,202407,31,30,"HISPANO-MORESQUE LUSTRE PLATE Deep plate; exhibiting a highly conventionalized motive. Fine gold reflets. Diameter,14 inches.",177,98.8,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,
-BO0624_5760,202408,32,I,n soft copper reflets on a white ground.,179,98.7,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202408,32,I,n soft copper reflets on a white ground.,179,98.7,False,positional,,,FAIENCE; LUSTRE WARE,,
 BO0624_5760,202409,33,32,HISPANO-MoRESQUE LUSTRE PLATE XVI Century Wide rim with alternating designs of leaves and conventionalized fowers with touches of blue. The centre occupied by a boss with the Maltese cross in white and surrounded by geometrical designs. Copper lustre.,182,99.4,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,Sec. XVI
 BO0624_5760,202410,34,33,"HISPANO-MoRESQUE LUSTRE DEEP PLATE XVI Century Designs of conventional flowers and arabesques decorating the rim, with a leaf pattern in relief. Copper lustre.",186,80.9,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,Sec. XVI
 BO0624_5760,202411,35,34,"ITALIAN MAJOLICA LARGE PLATE XVII Century Deep blue, with central coat of arms in gray and blue and the rim with foral decoration in gray.",191,98.9,False,title_direct,,ITALIAN,MAJOLICA,,Sec. XVII
@@ -43,39 +43,39 @@ BO0624_5760,202417,41,40,"URBINO MAJOLICA PLATE Italian,Late XVI Century Scene r
 BO0624_5760,202418,42,41,"CALTHAGIRONE MAJOLICA VASE XVII Century Oviform, with incurving short neck; displaying in characteristic colors a portrait medallion and scrolled leafage.",220,99.0,False,title_direct,,,VASI,,Sec. XVII
 BO0624_5760,202419,43,42,"URBINO MAJOLICA PLATE XVI Century Deep cavetto, with finely drawn representation before an architectural background of THE KING RECEIvING HELEN OF TROY. The marli enriched with figures of sporting putti.",224,85.0,False,title_direct,TROYON CONSTANTIN,,MAJOLICA,,Sec. XVI
 BO0624_5760,202420,44,43,"URBINO MAJOLICA PLATE Italian, XVI Century Circular, with deep cavetto; glazed with scene representing ULYSSES AND AJAX IN DEADLY COMBAT; distance vieW of mediaeval castles.(Repaired.)",229,99.2,False,title_direct,,,MAJOLICA,,Sec. XVI
-BO0624_5760,202421,45,I,"talian,Early XVI Century",236,98.0,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,Sec. XVI
+BO0624_5760,202421,45,I,"talian,Early XVI Century",236,98.0,False,positional,,,FAIENCE; LUSTRE WARE,,Sec. XVI
 BO0624_5760,202422,46,45,DERUTA MAJOLICA PLATE,245,93.3,False,title_direct,,,MAJOLICA,,
-BO0624_5760,202423,47,46,URBINO DEEP PLATE XVI Century A subject from Virgil portrayed in polychrome. Fine example.,254,98.3,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,Sec. XVI
-BO0624_5760,202424,48,47,PESARO PLATE,257,88.9,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
-BO0624_5760,202425,49,48,PESARO PLATE,261,88.9,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
-BO0624_5760,202426,50,49,PESARO PLATE,273,88.9,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
-BO0624_5760,202427,51,50,DERUTA PLATE,277,88.9,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202423,47,46,URBINO DEEP PLATE XVI Century A subject from Virgil portrayed in polychrome. Fine example.,254,98.3,False,positional,,,FAIENCE; LUSTRE WARE,,Sec. XVI
+BO0624_5760,202424,48,47,PESARO PLATE,257,88.9,False,positional,,,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202425,49,48,PESARO PLATE,261,88.9,False,positional,,,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202426,50,49,PESARO PLATE,273,88.9,False,positional,,,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202427,51,50,DERUTA PLATE,277,88.9,False,positional,,,FAIENCE; LUSTRE WARE,,
 BO0624_5760,202428,52,51,DERUTA MAJOLICA PLATE,285,93.3,False,title_direct,,,MAJOLICA,,
-BO0624_5760,202429,53,52,URBINO DEEP PLATE XVI Century Depicting in brilliant colors the subject of Muzio-Scevola burning his right hand. Inscribed on the reverse:Muzio che,294,99.0,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,Sec. XVI
-BO0624_5760,202430,54,2,"la sua destra erante chocie, 1548.",295,97.0,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,Sec. XVI
-BO0624_5760,202431,55,3,56.PESARO PLATE,296,93.8,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
-BO0624_5760,202432,56,53,"PESARO PLATE XVI Century The cavetto with a half-length figure of a woman, in profle, and surrounded by fowering branches. To the right of the",303,90.2,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,Sec. XVI
+BO0624_5760,202429,53,52,URBINO DEEP PLATE XVI Century Depicting in brilliant colors the subject of Muzio-Scevola burning his right hand. Inscribed on the reverse:Muzio che,294,99.0,False,positional,,,FAIENCE; LUSTRE WARE,,Sec. XVI
+BO0624_5760,202430,54,2,"la sua destra erante chocie, 1548.",295,97.0,False,positional,,,FAIENCE; LUSTRE WARE,,Sec. XVI
+BO0624_5760,202431,55,3,56.PESARO PLATE,296,93.8,False,positional,,,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202432,56,53,"PESARO PLATE XVI Century The cavetto with a half-length figure of a woman, in profle, and surrounded by fowering branches. To the right of the",303,90.2,False,positional,,,FAIENCE; LUSTRE WARE,,Sec. XVI
 BO0624_5760,202433,57,54,"LARGE URBINO MAJOLICA PLATE XVI Century Flat rim and deep cavetto, within which is represented the legendary PASIPHAE AND THE BULL,in brilliant colors.",311,99.0,False,title_direct,,,MAJOLICA,,Sec. XVI
 BO0624_5760,202434,58,55,"URBINO MAJOLICA PLATTER XVI Gentury Three-lobed deep dish, the centre displaying a seated Emperor of three sea divinities, grotesques, dolphins and the like. In",315,99.0,False,title_direct,,,MAJOLICA,,
-BO0624_5760,202435,59,2,"with his vassals,enclosed within a fine Raphaelesque design the characteristic colors.The back decorated in relief with pelicans afrontes.",316,99.3,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202435,59,2,"with his vassals,enclosed within a fine Raphaelesque design the characteristic colors.The back decorated in relief with pelicans afrontes.",316,99.3,False,positional,,,FAIENCE; LUSTRE WARE,,
 BO0624_5760,202436,60,I,"talian,XVI Century 57. URBINO MAJOLICA DISH",325,98.8,False,title_direct,,,MAJOLICA,,
-BO0624_5760,202437,61,58,"URBINO DEEPPLATE XVI Century Portraying an historical scene of homage being paid the conqueror by the presentation of the head of the vanquished,in brilliant colorings. The reverse inscribed:Il Richo do de lonorata testa, 1548.",336,100.0,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,Sec. XVI
-BO0624_5760,202438,62,59,URBINO PLATE,341,88.9,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
-BO0624_5760,202439,63,60,60.PESARO PLATE,348,100.0,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202437,61,58,"URBINO DEEPPLATE XVI Century Portraying an historical scene of homage being paid the conqueror by the presentation of the head of the vanquished,in brilliant colorings. The reverse inscribed:Il Richo do de lonorata testa, 1548.",336,100.0,False,positional,,,FAIENCE; LUSTRE WARE,,Sec. XVI
+BO0624_5760,202438,62,59,URBINO PLATE,341,88.9,False,positional,,,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202439,63,60,60.PESARO PLATE,348,100.0,False,positional,,,FAIENCE; LUSTRE WARE,,
 BO0624_5760,202440,64,61,"61.CASTEL DURANTE PLATE Representing on a blue ground,bust portrait of a young woman in profile to right, with banderoll",354,86.9,False,title_direct,,CASTEL DURANTE,,,
 BO0624_5760,202441,65,62,"CASTEL DURANTE“AMATORIO”PLATE talian,XVII Century",358,71.6,False,title_direct,,CASTEL DURANTE,,,
-BO0624_5760,202442,66,63,"DERUTA TWO-HANDLED VASE XVI Gentury Circular, with tapering neck and faring lip; on splayed foot. Decorated in characteristic Deruta colors of golden-yellow and blue with leafage and armorial bearings. Fine mother-ofpearl reflets.(Repaired.)",366,99.4,False,positional,,ITALIAN; HISPANO-MORESQUE,VASI,,
-BO0624_5760,202443,67,64,DERUTA PLATE,367,88.9,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202442,66,63,"DERUTA TWO-HANDLED VASE XVI Gentury Circular, with tapering neck and faring lip; on splayed foot. Decorated in characteristic Deruta colors of golden-yellow and blue with leafage and armorial bearings. Fine mother-ofpearl reflets.(Repaired.)",366,99.4,False,positional,,,VASI,,
+BO0624_5760,202443,67,64,DERUTA PLATE,367,88.9,False,positional,,,FAIENCE; LUSTRE WARE,,
 BO0624_5760,202444,68,65,"LARGE URBINO MAJOLICA PLATE Depicting the biblical legend of Moses and the brazen serpent. A beautiful specimen, in a good state of preservation.",380,99.0,False,title_direct,,,MAJOLICA,,
 BO0624_5760,202445,69,66,CASTEL DURANTE TWO-HANDLED VASE,385,95.4,False,title_direct,,CASTEL DURANTE,VASES,,
-BO0624_5760,202446,70,I,"talian,XVI Century",389,97.3,False,positional,,ITALIAN; HISPANO-MORESQUE,FAIENCE; LUSTRE WARE,,
+BO0624_5760,202446,70,I,"talian,XVI Century",389,97.3,False,positional,,,FAIENCE; LUSTRE WARE,,
 BO0624_5760,202447,71,I,"talian,XVI Century",398,97.3,False,positional,,CASTEL DURANTE,EWER,,
 BO0624_5760,202448,72,68,"FAENZA MAJOLICA VASE XVI Century Oviform,with slender neck and slightly faring lip. Decorated in fine blues, golden-yellows and greens and depicting the semi-draped figure of Strength. Inscribed at base: A—",403,99.3,False,title_direct,,Scuola Faentina,VASI,,Sec. XVI
-BO0624_5760,202449,73,69,"FAENZA PHARMACY VASE Italian,XVI Century Oviform; with central portrait medallion inscribed:Faustin A. B., and further inscribed on the banderolle, Ceceb d. Yagaritis with diagonal motives of scrolled leafage and dolphins, in blues, yellows, greens and brick-red. Very interesting specimen.",408,99.5,False,positional,,CASTEL DURANTE,EWER,,
+BO0624_5760,202449,73,69,"FAENZA PHARMACY VASE Italian,XVI Century Oviform; with central portrait medallion inscribed:Faustin A. B., and further inscribed on the banderolle, Ceceb d. Yagaritis with diagonal motives of scrolled leafage and dolphins, in blues, yellows, greens and brick-red. Very interesting specimen.",408,99.5,False,positional,,Scuola Faentina,EWER,,
 BO0624_5760,202450,74,70,"HISPANO-MORESQUE LUSTRE PLAQUE XVI Century Circular, the embossed tondino decorated with a spiral motive; the tondo and fange with arabesque scrollings, leafage and lotus blossoms,outlined in blue. Fine gold lustre. (Repaired.)",412,99.3,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,Sec. XVI
 BO0624_5760,202451,75,71,"HISPANO-MORESQUE LUSTRE PLAQUE XVI Century Circular, with embossed tondino; decorated with highly conventionalized foral motives, outlined in blue. Deep gold lustre.",416,99.1,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,Sec. XVI
 BO0624_5760,202452,76,72,"STANNIFEROUS ENAMEL ToNDO School of Della Robbia,Florentine,XV Century Modeled in bas-relief, depicting before a blue background the seated three-quarter length figure of the Madonna, gracefully draped, with the Child in her arms; both figures are haloed and brilliantly glazed in soft white. Enclosed in a frame of",420,99.5,False,title_direct,BOTH JAN,Scuola di Giovanni Della Robbia,BASSORILIEVI,,
-BO0624_5760,202453,77,73,"URBINO OVAL PLATTER XVII Century The embossed centre depicting the JUDGMENT OF PARIS; around are four lobed cartouches enriched with grotesques and Raphaelesque designs interrupted by mascarons and masks in relief. The back lavishly decorated with encarpa and fowing ribbons, inscribed within a cartouche: Alfons Pata Nacci Fecit Vrbini in Bote Gadi Ios Batis Bocioni 16o7.",426,99.6,False,positional,,CASTEL DURANTE,EWER,,Sec. XVII
+BO0624_5760,202453,77,73,"URBINO OVAL PLATTER XVII Century The embossed centre depicting the JUDGMENT OF PARIS; around are four lobed cartouches enriched with grotesques and Raphaelesque designs interrupted by mascarons and masks in relief. The back lavishly decorated with encarpa and fowing ribbons, inscribed within a cartouche: Alfons Pata Nacci Fecit Vrbini in Bote Gadi Ios Batis Bocioni 16o7.",426,99.6,False,positional,,,EWER,,Sec. XVII
 BO0624_5760,202454,78,74,HISPANO-MORESQUE LUSTRE PLAQUE in blue. Fine gold lustre. (Repaired.),433,97.7,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,
 BO0624_5760,202455,79,75,"75.POLYCHROME TERRA-COTTA BAS-RELIEF School of Rossellino,Florentine,XV Century MADoNNA AND CHILD. Three-quarter length",434,59.0,False,title_direct,,Scuola Fiorentina,BASSORILIEVI,,
 BO0624_5760,202456,80,76,## 76. GLAZED TERRA-COTTA STATUE,438,100.0,False,title_direct,,,TERRA-COTTA STATUE,,
@@ -85,34 +85,34 @@ BO0624_5760,202459,83,79,"CARvED PEARWoOD STATUE Southern France, XV Century. MA
 BO0624_5760,202460,84,80,80.IMPORTANT SCULPTURED PEARWOOD GROUP,463,100.0,False,positional,,,TERRA-COTTA STATUE,,
 BO0624_5760,202461,85,81,## 81.POLYCHROMED TERRA-COTTA BUST,474,100.0,False,title_direct,,,TERRA-COTTA BUST,,
 BO0624_5760,202462,86,82,POINT DE VENISE HEADDRESS Late XVII Century Exquisite foral design of varied blossom forms and foliated scrolls in fine punto relievo; edge picote.,487,99.0,False,positional,,ITALIAN,LACES,,Sec. XVII
-BO0624_5760,202463,87,83,PAIR POINT DE VENISE LAPPETS AND STRIP OF POINT PLAT DE VENISE XVIII Century,488,98.1,False,positional,,ITALIAN,LACES,,Sec. XVIII
-BO0624_5760,202464,88,3,(B) Strip of point plat de Venise in floral and scroll design.,489,98.3,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202465,89,4,"(A) Berain design of vases and foral forms and scrolling leaves on a ground of brides picotees, dainty foral dentelé edge.",490,99.2,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202466,90,5,"(A)Length (each),15 inches;width,4 inches;（B)Length,24",491,98.0,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202467,91,6,84.,492,66.7,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202468,92,7,"inches;width,134 inches.",493,95.8,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202469,93,8,POINT DE VENISE BORDER XVIII Century Dainty design of scrolling leaves and fowers with varied and,494,99.0,False,positional,,ITALIAN,LACES,,Sec. XVIII
-BO0624_5760,202470,94,9,interesting edge.,495,94.1,False,positional,,ITALIAN,LACES,,
+BO0624_5760,202463,87,83,PAIR POINT DE VENISE LAPPETS AND STRIP OF POINT PLAT DE VENISE XVIII Century,488,98.1,False,positional,,,LACES,,Sec. XVIII
+BO0624_5760,202464,88,3,(B) Strip of point plat de Venise in floral and scroll design.,489,98.3,False,positional,,,LACES,,
+BO0624_5760,202465,89,4,"(A) Berain design of vases and foral forms and scrolling leaves on a ground of brides picotees, dainty foral dentelé edge.",490,99.2,False,positional,,,LACES,,
+BO0624_5760,202466,90,5,"(A)Length (each),15 inches;width,4 inches;（B)Length,24",491,98.0,False,positional,,,LACES,,
+BO0624_5760,202467,91,6,84.,492,66.7,False,positional,,,LACES,,
+BO0624_5760,202468,92,7,"inches;width,134 inches.",493,95.8,False,positional,,,LACES,,
+BO0624_5760,202469,93,8,POINT DE VENISE BORDER XVIII Century Dainty design of scrolling leaves and fowers with varied and,494,99.0,False,positional,,,LACES,,Sec. XVIII
+BO0624_5760,202470,94,9,interesting edge.,495,94.1,False,positional,,,LACES,,
 BO0624_5760,202471,95,85,"BORDER OF ITALIAN TAPE LACE XVHI Century Interesting design of archaic foral scrollings with very beautiful brides, border of tiny S-scrolls; edge ajouré.",499,99.0,False,title_direct,,ITALIAN,,,
 BO0624_5760,202472,96,86,BORDER OF ITALIAN BOBBIN LACE XVIII Century Bold pattern of star-shaped foral forms surrounded by in-,503,98.5,False,title_direct,,ITALIAN,,,Sec. XVIII
-BO0624_5760,202473,97,87,STRIP OF POINT DE GAZE Very charming design of leaves and blossoms on a filmy reseau;,509,98.2,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202474,98,88,BORDER OF POINT PLAT DE VENISE with straight edge.,514,97.0,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202475,99,2,XVIII Century,515,92.9,False,positional,,ITALIAN,LACES,,Sec. XVIII
-BO0624_5760,202476,100,3,Exquisite and intricate design in point de neige of a formal arrangement of lily and leaf device; border of similar pattern,516,99.2,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202477,101,89,"89.BORDER OF POINT DE MILAN XVII Century With design of delicate leaf scrolls on very beautiful reseau. Depth,7 inches;l",522,94.8,False,positional,,ITALIAN,LACES,,Sec. XVII
-BO0624_5760,202478,102,90,## 90. BORDER AND CUFFS OF PoINT DE VENISE A BRIDES PICOTEES XVIII Century,525,100.0,False,positional,,ITALIAN,LACES,,Sec. XVIII
-BO0624_5760,202479,103,91,"POINT DE VENISE BORDER XVII Century A marvelous piece of needlepoint, the jours and tiny star-like brides with the delicacy of frost fowers. A museum specimen.",531,99.0,False,positional,,ITALIAN,LACES,,Sec. XVII
-BO0624_5760,202480,104,92,BoRDER OF PoINT PLAT DE VENISE Early XVIII Century Delicate pattern of small scrolls and tiny star-like fowers. Edge a jour.,536,73.8,False,positional,,ITALIAN,LACES,,Sec. XVIII
-BO0624_5760,202481,105,93,"POINT DE VENISE BORDER XVIII Century Rarely lovely border of punto a relievo, having formal pattern of tiny perles, foral ornament and foliated scrollings; beautiful light brides and straight edge of similar design in miniature.",540,99.3,False,positional,,ITALIAN,LACES,,Sec. XVIII
-BO0624_5760,202482,106,94,"POINT DE VENISE PLASTRON sign, dentelé edge.",549,96.6,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202483,107,95,SUMPTUOUS GROS POINT DE VENISE BORDER,550,96.1,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202484,108,97,BORDER OF POINT DE VENISE A LA ROSE foral scrollings and fine foral edge.,560,98.0,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202485,109,98,PAIR PUNTO GOTICO LACE COVERS Old Cluniac design of star-centred circles divided into squares; narrow edge a jour.,565,84.7,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202486,110,99,"BORDER OF VENETIAN NEEDLEPOINT XVII Century An infinity of stitches make up this extraordinarily beautiful example of Venetian point a laiguille, the intricate foral and rocaille scrollings in minute relief resembling delicate carving in ivory; the-brides and tricots must be seen through a glass to be appreciated.",569,99.5,False,positional,,ITALIAN,LACES,,Sec. XVII
+BO0624_5760,202473,97,87,STRIP OF POINT DE GAZE Very charming design of leaves and blossoms on a filmy reseau;,509,98.2,False,positional,,,LACES,,
+BO0624_5760,202474,98,88,BORDER OF POINT PLAT DE VENISE with straight edge.,514,97.0,False,positional,,,LACES,,
+BO0624_5760,202475,99,2,XVIII Century,515,92.9,False,positional,,,LACES,,Sec. XVIII
+BO0624_5760,202476,100,3,Exquisite and intricate design in point de neige of a formal arrangement of lily and leaf device; border of similar pattern,516,99.2,False,positional,,,LACES,,
+BO0624_5760,202477,101,89,"89.BORDER OF POINT DE MILAN XVII Century With design of delicate leaf scrolls on very beautiful reseau. Depth,7 inches;l",522,94.8,False,positional,,,LACES,,Sec. XVII
+BO0624_5760,202478,102,90,## 90. BORDER AND CUFFS OF PoINT DE VENISE A BRIDES PICOTEES XVIII Century,525,100.0,False,positional,,,LACES,,Sec. XVIII
+BO0624_5760,202479,103,91,"POINT DE VENISE BORDER XVII Century A marvelous piece of needlepoint, the jours and tiny star-like brides with the delicacy of frost fowers. A museum specimen.",531,99.0,False,positional,,,LACES,,Sec. XVII
+BO0624_5760,202480,104,92,BoRDER OF PoINT PLAT DE VENISE Early XVIII Century Delicate pattern of small scrolls and tiny star-like fowers. Edge a jour.,536,73.8,False,positional,,,LACES,,Sec. XVIII
+BO0624_5760,202481,105,93,"POINT DE VENISE BORDER XVIII Century Rarely lovely border of punto a relievo, having formal pattern of tiny perles, foral ornament and foliated scrollings; beautiful light brides and straight edge of similar design in miniature.",540,99.3,False,positional,,,LACES,,Sec. XVIII
+BO0624_5760,202482,106,94,"POINT DE VENISE PLASTRON sign, dentelé edge.",549,96.6,False,positional,,,LACES,,
+BO0624_5760,202483,107,95,SUMPTUOUS GROS POINT DE VENISE BORDER,550,96.1,False,positional,,,LACES,,
+BO0624_5760,202484,108,97,BORDER OF POINT DE VENISE A LA ROSE foral scrollings and fine foral edge.,560,98.0,False,positional,,,LACES,,
+BO0624_5760,202485,109,98,PAIR PUNTO GOTICO LACE COVERS Old Cluniac design of star-centred circles divided into squares; narrow edge a jour.,565,84.7,False,positional,,,LACES,,
+BO0624_5760,202486,110,99,"BORDER OF VENETIAN NEEDLEPOINT XVII Century An infinity of stitches make up this extraordinarily beautiful example of Venetian point a laiguille, the intricate foral and rocaille scrollings in minute relief resembling delicate carving in ivory; the-brides and tricots must be seen through a glass to be appreciated.",569,99.5,False,positional,,Scuola Veneziana,LACES,,Sec. XVII
 BO0624_5760,202487,111,100,"RETICELLA AND GOTHIC LACE BORDER Band of reticella of interesting design in beautiful ivory tone. edged by dentele Gothic lace. Evidently the border for a bed cover. Length,9 feet 11 inches;width,6 feet 10 inches.",574,99.1,False,title_direct,,GOTHIC,BIANCHERIA,,
-BO0624_5760,202488,112,2,Late XVII Century 101. GUIPURE DE FLANDRE FLOUNCE,575,98.0,False,positional,,ITALIAN,LACES,,Sec. XVII
-BO0624_5760,202489,113,3,Bold design of intricately interlacing scrolls and floral forms and a large mesh. (In two pieces.),576,98.9,False,positional,,ITALIAN,LACES,,
-BO0624_5760,202490,114,102,102. POINT DE MILAN TRIMMING FOR AN ALB Late XVIII Gentury Flounce and pair of cuffs. Design of beautiful foliated scrol,580,70.2,False,positional,,ITALIAN,LACES,,
+BO0624_5760,202488,112,2,Late XVII Century 101. GUIPURE DE FLANDRE FLOUNCE,575,98.0,False,positional,,,LACES,,Sec. XVII
+BO0624_5760,202489,113,3,Bold design of intricately interlacing scrolls and floral forms and a large mesh. (In two pieces.),576,98.9,False,positional,,,LACES,,
+BO0624_5760,202490,114,102,102. POINT DE MILAN TRIMMING FOR AN ALB Late XVIII Gentury Flounce and pair of cuffs. Design of beautiful foliated scrol,580,70.2,False,positional,,,LACES,,
 BO0624_5760,202491,115,103,"103. RUBY VELVET CUSHION Deep wine-crimson velvet, mounted with galloon and gold",586,88.1,False,title_direct,,,OGGETTI IN ORO,,
 BO0624_5760,202492,116,104,GENOESE CRIMSON CUT VELVET CUSHION Design of horn-shaped jardiniere with scrolling foral pendants,588,98.0,False,title_direct,,,VELVETS,,
 BO0624_5760,202493,117,105,PAIR CRIMSON VELVET CUSHIONS Mounted with gold galloon.,590,96.4,False,title_direct,,,OGGETTI IN ORO,,
@@ -424,7 +424,7 @@ BO0624_5760,202798,422,394,"DERUTA MAJOLICA VASE XVI Century Pineapple form; on 
 BO0624_5760,202799,423,395,"FAENZA MAJOLICA VASE Bottle-shaped,with slender neck; decorated in blues, goldenbrowns and yellows, with a portrait medallion, grotesque masks",1867,98.6,False,title_direct,,Scuola Faentina,VASI,,
 BO0624_5760,202800,424,396,"FIRENZE PLAQUE XV Century Circular; the deep cavetto enriched with a large feur-de-lys within a shield, the rim with conventional motives. In deep jade-green. Diameter,12 inches.",1869,98.9,False,title_direct,,,PLAQUES,,Sec. XV
 BO0624_5760,202801,425,397,"FIRENZE PLAQUE XV Century Circular; the deep cavetto enriched with a shield seme with feurs-de-lys, surrounded by conventional foral motives. In jade-green. (Restored.) Diameter,13/4 inches.",1870,98.9,False,title_direct,,,PLAQUES,,Sec. XV
-BO0624_5760,202802,426,398,"SMALL URBINO PLATE XVI Century Circular, with deep cavetto; in brilliantly enameled colors exhibiting the Legends of Perseus; the head of Medusa and a",1871,98.7,False,positional,,ITALIAN; HISPANO-MORESQUE,MAJOLICA; PLAQUES; VASES,,Sec. XVI
+BO0624_5760,202802,426,398,"SMALL URBINO PLATE XVI Century Circular, with deep cavetto; in brilliantly enameled colors exhibiting the Legends of Perseus; the head of Medusa and a",1871,98.7,False,positional,,,MAJOLICA; PLAQUES; VASES,,Sec. XVI
 BO0624_5760,202803,427,399,"399. SMALL CASTEL DURANTE PLATE Deep cavetto, exhibiting a profle female portrait inscribed, Margarita Bella; the marli",1873,71.7,False,title_direct,,CASTEL DURANTE,,,
 BO0624_5760,202804,428,400,"400. URBINO MAJOLICA PLATE JOSEPH BEING DRAWN FROM THE WELL. Circular; the back enriched with girali motives. Diameter,1",1877,92.1,False,title_direct,,,MAJOLICA,,
 BO0624_5760,202805,429,401,401. URBINO MAJOLICA PLATE,1878,80.6,False,title_direct,,,MAJOLICA,,
@@ -445,124 +445,124 @@ BO0624_5760,202819,443,417,"HISPANO-MORESQUE LUSTRE PLAQUE XVI Century conventio
 BO0624_5760,202820,444,418,"HISPANO-MORESQUE LUSTRE PLAQUE XVI Century Tondino in bold relief, nulled in deep blue and golden-yellow refets, the tondo with heart-shaped devices alternating with conventionalized trees and foliage;broad fange with recurring design.",1969,99.1,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,Sec. XVI
 BO0624_5760,202821,445,419,"HISPANO-MORESQUE LUSTRE PLAQUE XVI Century Circular dish, with domed centre; richly decorated with arabesque and scrolled foral motives, the golden-yellow lustre relieved with touches of fine blue reflets.",1974,88.1,False,title_direct,,HISPANO-MORESQUE,LUSTRI,,Sec. XVI
 BO0624_5760,202822,446,420,"DERUTA MAJOLICA PLATE XVI Century Circular; in the deep tondo is portrayed in profle facing to the left, a maid of classic contour with draped head. The ban-",1978,98.7,False,title_direct,,,MAJOLICA,,Sec. XVI
-BO0624_5760,202823,447,421,SMALLDERUTA PLATE,1987,89.5,False,positional,,ITALIAN; HISPANO-MORESQUE,MAJOLICA; PLAQUES; VASES,,
+BO0624_5760,202823,447,421,SMALLDERUTA PLATE,1987,89.5,False,positional,,,MAJOLICA; PLAQUES; VASES,,
 BO0624_5760,202824,448,422,DERUTA MAJOLICA PLATE,1996,91.3,False,title_direct,,,MAJOLICA,,
 BO0624_5760,202825,449,423,CASTEL DURANTE DISH,2007,90.5,False,title_direct,,CASTEL DURANTE,,,
 BO0624_5760,202826,450,424,"DERUTA MAJOLICA PLATE XVI Century Circular, with deep cavetto; enriched with a profile portrait bust of a maiden holding a foral branch; the marli displaying a sun ray motive. Beautiful iridescent glaze of golden-yellow outlined in blue.",2014,99.1,False,title_direct,,,MAJOLICA,,Sec. XVI
-BO0624_5760,202827,451,425,"FAENZA FRUIT DISH Italian,XVI Century Circular lobed dish, with undulating surface; the embossed centre depicting the scene of the CARITA ROMANA; around are dolphins and leafage in blues, greens, yellows and reds.",2018,99.0,False,positional,,ITALIAN; HISPANO-MORESQUE,MAJOLICA; PLAQUES; VASES,,
+BO0624_5760,202827,451,425,"FAENZA FRUIT DISH Italian,XVI Century Circular lobed dish, with undulating surface; the embossed centre depicting the scene of the CARITA ROMANA; around are dolphins and leafage in blues, greens, yellows and reds.",2018,99.0,False,positional,,Scuola Faentina,MAJOLICA; PLAQUES; VASES,,
 BO0624_5760,202828,452,426,"SUPERB URBINO PLAQUE, LUSTRED AT GUBBIO Dated 1533 The scene represented is taken from the story by Velerio Massinio, entitled THE sCHOOLMAsTER. An aged preceptor,nude but for a helmet, is pursued by jeering school children with birches. On the left three male figures are commenting upon the scene. The background with excellent perspective shows to the right, spired edifices and to the left bell tents. On the back, within a wreath of fowers summarily sketched in rubyred, is inscribed: 1533 Delli falischi il preciettore igiusti. Nel Vo Libro di Vale Mass. Cap. 5 in Urbino. The initials L. has not yet been identified, but it suggests an artist possessed of great technical ability.",2022,99.7,False,title_direct,,Scuola Umbra,PLAQUES,,Sec. XVI
 BO0624_5760,202829,453,427,FAENZA MAJOLICA PLAQUE,2032,91.7,False,title_direct,,Scuola Faentina,MAJOLICA,,
-BO0624_5760,202830,454,428,"FAENZA FRUIT DISH talian, XVI Century",2043,69.1,False,positional,,ITALIAN; HISPANO-MORESQUE,MAJOLICA; PLAQUES; VASES,,Sec. XVI
+BO0624_5760,202830,454,428,"FAENZA FRUIT DISH talian, XVI Century",2043,69.1,False,positional,,Scuola Faentina,MAJOLICA; PLAQUES; VASES,,Sec. XVI
 BO0624_5760,202831,455,429,"CASTEL DURANTE MAJOLICA PLATE XVI Century Amatorio plaque, depicting on a blue ground the profle portrait bust of a youth facing to the right, richly habited and wearing a helmet of fantastic design. On the banderolle is inscribed: GLAvco.(Repaired.)",2052,99.2,False,title_direct,,CASTEL DURANTE,MAJOLICA,,Sec. XVI
 BO0624_5760,202832,456,430,"CASTEL DURANTE MAJOLICA PLATE XVI Century Amatorio plaque, bearing a beautifully drawn bust-length female portrait with characteristic headdress. The banderolle inscribed:LIv-IA BELLA. In the finely enameled colors of",2059,99.1,False,title_direct,,CASTEL DURANTE,MAJOLICA,,Sec. XVI
 BO0624_5760,202833,457,431,URBINO MAJOLICA PLATE,2068,91.3,False,title_direct,,,MAJOLICA,,
 BO0624_5760,202834,458,432,GUBBI0 MAJOLICA DISH,2079,90.9,False,title_direct,,,MAJOLICA,,
-BO0624_5760,202835,459,433,IMPORTANT DERUTA PLATE,2088,91.7,False,positional,,ITALIAN; HISPANO-MORESQUE,MAJOLICA; PLAQUES; VASES,,
+BO0624_5760,202835,459,433,IMPORTANT DERUTA PLATE,2088,91.7,False,positional,,,MAJOLICA; PLAQUES; VASES,,
 BO0624_5760,202836,460,434,CAFFAGGIOLO MAJOLICA PLATE XVI Century Circular; the tondino enriched with the Medici coat of arms in relief; the marli with a conventional foral motive. On the back within a series of circles is enclosed the Caffaggiolo mark.,2099,99.1,False,title_direct,,,MAJOLICA,,Sec. XVI
 BO0624_5760,202837,461,435,"MAJOLICA PLATE ON FOOT Urbino, XVI Century Representing in brilliant colors ALEXANDER IN THE CONQUEST OF AsIA. Surmounting the domed cupola of a classic temple, is the coat of arms of the Forteguerri family.",2107,99.0,False,title_direct,,,MAJOLICA,,Sec. XVI
 BO0624_5760,202838,462,436,URBINO MAJOLICA PLATE,2112,91.3,False,title_direct,,,MAJOLICA,,
 BO0624_5760,202839,463,437,DERUTA MAJOLICA PLATE,2119,91.3,False,title_direct,,,MAJOLICA,,
-BO0624_5760,202840,464,438,:GUBBI0PLATE,2128,84.6,False,positional,,ITALIAN; HISPANO-MORESQUE,MAJOLICA; PLAQUES; VASES,,
+BO0624_5760,202840,464,438,:GUBBI0PLATE,2128,84.6,False,positional,,,MAJOLICA; PLAQUES; VASES,,
 BO0624_5760,202841,465,439,GUBBI0 MAJOLICA PLATE,2137,91.3,False,title_direct,,,MAJOLICA,,
 BO0624_5760,202842,466,44,I. .GUBBIO MAJOLICA PLATE,2153,95.8,False,title_direct,,Scuola Umbra,MAJOLICA,,
 BO0624_5760,202843,467,442,DERUTA MAJOLICA PLATE,2162,91.3,False,title_direct,,,MAJOLICA,,
 BO0624_5760,202844,468,443,".DERUTA MAJOLICA PLATE XVI Century Circular; the tondo exhibiting before a blue ground the profile portrait bust of a galeated warrior, facing to the left, with a cloak draped about his shoulders. The banderolle bears the inscription: Alesandero M S. The border painted and enclosing conventional foral and imbricated motives. In superbly enameled yellows and blues.",2173,100.0,False,title_direct,,,MAJOLICA,,Sec. XVI
 BO0624_5760,202845,469,444,"URBINO MAJOLICA FIASCA verse, ORPHEUS CHARMING THE ANIMALS. A.URBINO MAJOLICA FIASCA XVI Century Similar to the preceding. Depicting VULCAN FORGING THE ARRows FOR cUPID's BoW and on the reverse another mythological subject.",2183,84.1,False,title_direct,,,MAJOLICA,,Sec. XVI
-BO0624_5760,202846,470,445,"PAIR CAFFAGGIOLO ALBERELLI ncurved sides; richly enameled colors of fine golds, brown and variegated blues, with scrolled and voluted leafage and the Medici ring, enclosing the lion rampant surmounted by a crown.",2194,93.3,False,positional,,ITALIAN; HISPANO-MORESQUE,MAJOLICA; PLAQUES; VASES,,
+BO0624_5760,202846,470,445,"PAIR CAFFAGGIOLO ALBERELLI ncurved sides; richly enameled colors of fine golds, brown and variegated blues, with scrolled and voluted leafage and the Medici ring, enclosing the lion rampant surmounted by a crown.",2194,93.3,False,positional,,,MAJOLICA; PLAQUES; VASES,,
 BO0624_5760,202847,471,446,"PAIR HISPANO-MORESQUE VASES Early XV Century Incurving cylindrical, with tapering high neck; richly enameled in gold and blue with girali motives and ivy leafage.",2199,98.8,False,title_direct,,HISPANO-MORESQUE,VASES,,Sec. XV
 BO0624_5760,202848,472,I,"t is composed of seven Poems entitled ""Haft Awrang,The Seven Stars, i.e. the stars of the ""Great Bear."" It also bears the name of ""Sab'a""which also means ""seven"" in Arabic. Folio, original Oriental binding of lacquered paper ornamented in panel effect with foral border and triple centre pieces painted in natural colors on a background of bronze color sprinkled with gold in iridescent effect; red leather doublures with bronze lacquered edge (rebacked with leather and rehinged).",2214,99.9,False,positional,,PERSIAN,OGGETTI IN ORO,,
-BO0624_5760,202849,473,I,"n addition to the miniatures there are 9 Sarlows, or headbands.",2218,99.2,False,positional,,PERSIAN,MINIATURE,,
-BO0624_5760,202850,474,447,"Concluded T IS IN AN ADMIRABLE STATE OF PRESERVATION, comes from the Library barrekeh-i-Safiyeh-i-Safaviyeh,which means ""Pious Foundation on the blessed",2234,96.2,False,positional,,PERSIAN,ILLUMINATED MANUSCRIPT,,
+BO0624_5760,202849,473,I,"n addition to the miniatures there are 9 Sarlows, or headbands.",2218,99.2,False,positional,,,MINIATURE,,
+BO0624_5760,202850,474,447,"Concluded T IS IN AN ADMIRABLE STATE OF PRESERVATION, comes from the Library barrekeh-i-Safiyeh-i-Safaviyeh,which means ""Pious Foundation on the blessed",2234,96.2,False,positional,,,ILLUMINATED MANUSCRIPT,,
 BO0624_5760,202851,475,448,## ITALIAN FURNITURE,2239,100.0,False,title_direct,,ITALIAN,FURNITURE,,
-BO0624_5760,202852,476,449,"INLAID WALNUT WRITING CASE Italian,XVI Century Rectangular; fitted for writing materials; enriched with certosina inlay, exhibiting an intriguing geometrical design.",2247,98.8,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202853,477,450,"INLAID WALNUT MINIATURE CHEST Italian, XVI Century Oblong molded hinged top, with central applied panel depicting in intarsia animalistic and foral motives; the front and side panels enriched with various landscape scenes inlaid and incised. The front panel with central escutcheon fanked by unicorns and other animalistic figures. Claw feet.",2251,91.5,False,positional,,ITALIAN,MINIATURE,,Sec. XVI
-BO0624_5760,202854,478,451,"CARVED AND POLYCHROMED CASSETINA Veronese, First Half XV Gentury Rectangular hinged top; the front decorated with incised depiction of THE ADoRATIoN OF THE MAGI;polychromed in green and red,while on the back is the monogram of the painter, Stefano da Zevio.On molded arcaded base.",2256,91.5,False,positional,PAOLO VERONESE,ITALIAN,FURNITURE,,
-BO0624_5760,202855,479,452,"CARVED WALNUT LOW CHAIR Tuscan,XVI Century Arcaded open back, scrolled bar slats, fat-carved, with hexafoils connected by five slender spindles; quadrangular seat having two rosetted projections; on block and turned stretchered legs.",2262,94.4,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202856,480,453,"CARVED WALNUT SIDE CHAIR Italian, XVII Century Canted open back, with S-scrolled finials, two scrolled bar slats connected by a single spindle; square seat, on ring-turned and block stretchered legs, bun feet. The seat covered in crim- son velvet.",2263,96.8,False,positional,,ITALIAN,FURNITURE,,Sec. XVII
-BO0624_5760,202857,481,454,"WALNUT LOW CHAIR Italian,XVII Century Open canted back,leaf-carved finials, scrolled bar slat and lower slat connected by five slender spindles; rush seat, on columnar box stretchered legs.",2265,98.9,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202852,476,449,"INLAID WALNUT WRITING CASE Italian,XVI Century Rectangular; fitted for writing materials; enriched with certosina inlay, exhibiting an intriguing geometrical design.",2247,98.8,False,positional,,,FURNITURE,,
+BO0624_5760,202853,477,450,"INLAID WALNUT MINIATURE CHEST Italian, XVI Century Oblong molded hinged top, with central applied panel depicting in intarsia animalistic and foral motives; the front and side panels enriched with various landscape scenes inlaid and incised. The front panel with central escutcheon fanked by unicorns and other animalistic figures. Claw feet.",2251,91.5,False,positional,,,MINIATURE,,Sec. XVI
+BO0624_5760,202854,478,451,"CARVED AND POLYCHROMED CASSETINA Veronese, First Half XV Gentury Rectangular hinged top; the front decorated with incised depiction of THE ADoRATIoN OF THE MAGI;polychromed in green and red,while on the back is the monogram of the painter, Stefano da Zevio.On molded arcaded base.",2256,91.5,False,positional,PAOLO VERONESE,,FURNITURE,,
+BO0624_5760,202855,479,452,"CARVED WALNUT LOW CHAIR Tuscan,XVI Century Arcaded open back, scrolled bar slats, fat-carved, with hexafoils connected by five slender spindles; quadrangular seat having two rosetted projections; on block and turned stretchered legs.",2262,94.4,False,positional,,Scuola Toscana,FURNITURE,,
+BO0624_5760,202856,480,453,"CARVED WALNUT SIDE CHAIR Italian, XVII Century Canted open back, with S-scrolled finials, two scrolled bar slats connected by a single spindle; square seat, on ring-turned and block stretchered legs, bun feet. The seat covered in crim- son velvet.",2263,96.8,False,positional,,,FURNITURE,,Sec. XVII
+BO0624_5760,202857,481,454,"WALNUT LOW CHAIR Italian,XVII Century Open canted back,leaf-carved finials, scrolled bar slat and lower slat connected by five slender spindles; rush seat, on columnar box stretchered legs.",2265,98.9,False,positional,,,FURNITURE,,
 BO0624_5760,202858,482,455,"ITALIAN WALNUT SMALL CABINET XVII Century With drop-front enclosing numerous drawers and a central door of architectural design; at either side, carved figures. The apron with central carving of two putti supporting an escutcheon. A drawer in the upper portion of each side.",2266,99.3,False,title_direct,,ITALIAN,OGGETTI IN LEGNO,,Sec. XVII
-BO0624_5760,202859,483,456,"CARVED WALNUT SIDE CHAIR Northern Italian,Antique Period Open canted back,with leaf finials, the uprights having imbricated motives; scrolled bar slat carved with leafage; molded square seat, on columnar box stretchered legs.",2270,87.7,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202860,484,457,"CARVED WALNUT AND PINE LOW CHAIR Abruzzi,XVI Century Open back, with two bar slats archaically flat-carved and having gorged imbricated motives; rectangular seat; on quadrangular box stretchered legs.",2272,99.0,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202861,485,458,"CARVED WALNUT AND PINE LOW CHAIR Abruzzi, XVI Century Similar to preceding, with slight variation in details.",2273,98.1,False,positional,,ITALIAN,FURNITURE,,Sec. XVI
-BO0624_5760,202862,486,5,"Italian,XVII Century 459. SMALL WALNUT TABLE",2274,97.7,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202863,487,6,ports.,2275,83.3,False,positional,,ITALIAN,OGGETTI VARI,,
-BO0624_5760,202864,488,460,"CARVED BEECHWOOD SAVONAROLA CHAIR Italian,XVII Century Arched back, enriched with gorged rosetted medallion;eight",2279,98.2,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202865,489,461,"CARVED WALNUT SGABELLO CHAIR Italian,XVI Century Scrolled panel back, enriched with carved stellate motives; angular massive seat with trifid projection at back; on three splayed rectangular legs. XVII Century The body composed of numerous drawers in the centre of",2282,84.2,False,positional,,ITALIAN,FURNITURE,,Sec. XVII
+BO0624_5760,202859,483,456,"CARVED WALNUT SIDE CHAIR Northern Italian,Antique Period Open canted back,with leaf finials, the uprights having imbricated motives; scrolled bar slat carved with leafage; molded square seat, on columnar box stretchered legs.",2270,87.7,False,positional,,,FURNITURE,,
+BO0624_5760,202860,484,457,"CARVED WALNUT AND PINE LOW CHAIR Abruzzi,XVI Century Open back, with two bar slats archaically flat-carved and having gorged imbricated motives; rectangular seat; on quadrangular box stretchered legs.",2272,99.0,False,positional,,,FURNITURE,,
+BO0624_5760,202861,485,458,"CARVED WALNUT AND PINE LOW CHAIR Abruzzi, XVI Century Similar to preceding, with slight variation in details.",2273,98.1,False,positional,,,FURNITURE,,Sec. XVI
+BO0624_5760,202862,486,5,"Italian,XVII Century 459. SMALL WALNUT TABLE",2274,97.7,False,positional,,,FURNITURE,,
+BO0624_5760,202863,487,6,ports.,2275,83.3,False,positional,,,OGGETTI VARI,,
+BO0624_5760,202864,488,460,"CARVED BEECHWOOD SAVONAROLA CHAIR Italian,XVII Century Arched back, enriched with gorged rosetted medallion;eight",2279,98.2,False,positional,,,FURNITURE,,
+BO0624_5760,202865,489,461,"CARVED WALNUT SGABELLO CHAIR Italian,XVI Century Scrolled panel back, enriched with carved stellate motives; angular massive seat with trifid projection at back; on three splayed rectangular legs. XVII Century The body composed of numerous drawers in the centre of",2282,84.2,False,positional,,,FURNITURE,,Sec. XVII
 BO0624_5760,202866,490,462,ITALIAN WALNUT SMALL CABINET which is a door with two carved figures.,2284,97.1,False,title_direct,,ITALIAN,OGGETTI IN LEGNO,,
 BO0624_5760,202867,491,463,"ITALIAN WALNUT CABINET XVII Century Rectangular. The apron with two drawers having figure knobs and sculptures at the corners; the drop-front enclosing many drawers and a small door in architectural design, fanked by figures.",2288,99.1,False,title_direct,,ITALIAN,,,Sec. XVII
-BO0624_5760,202868,492,464,on turned and block box stretchered legs.,2293,95.2,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202869,493,465,"Open back, with five baluster spindles crowned by a scrolled pediment carved with a central cartouche and fanked by imbricated leafage; square side supports with scrolled finials; rectangular seat covered in crimson cut velvet; on quadrangular box stretchered legs.",2295,99.2,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202868,492,464,on turned and block box stretchered legs.,2293,95.2,False,positional,,,FURNITURE,,
+BO0624_5760,202869,493,465,"Open back, with five baluster spindles crowned by a scrolled pediment carved with a central cartouche and fanked by imbricated leafage; square side supports with scrolled finials; rectangular seat covered in crimson cut velvet; on quadrangular box stretchered legs.",2295,99.2,False,positional,,,FURNITURE,,
 BO0624_5760,202870,494,466,"CRIMSON VELVET WALNUT ARMCHAIR Italian Renaissance Slightly canted open square back, with gilded acanthus finials; molded straight arms projecting beyond ball-turned supports ; rectangular seat, on quadrangular stretchered legs; carved frontal stretcher. Velvet of a later date.",2296,99.3,False,title_direct,,,VELVETS,,
-BO0624_5760,202871,495,I,talian Renaissance,2297,97.3,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202872,496,468,PAIR GILDED AND POLYCHROMED PEDESTALS talian Renaissance,2301,76.3,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202871,495,I,talian Renaissance,2297,97.3,False,positional,,,FURNITURE,,
+BO0624_5760,202872,496,468,PAIR GILDED AND POLYCHROMED PEDESTALS talian Renaissance,2301,76.3,False,positional,,,FURNITURE,,
 BO0624_5760,202873,497,469,TWO CRIMSON VELVET WALNUT ARMCHAIRS,2311,94.6,False,title_direct,,,VELVETS,,
-BO0624_5760,202874,498,470,WALNUT SGABELLO CHAIR,2317,91.3,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202875,499,2,"Italian, XVI Century Canted back, silhouetted in the form of a lyre sustaining a lily, with a sunken heart-shape device; molded and massive angular seat, on three splayed legs and frontal stretcher.",2318,99.5,False,positional,,ITALIAN,FURNITURE,,Sec. XVI
-BO0624_5760,202876,500,3,"47I. WALNUT CENTRE TABLE Tuscan,XVI Century",2319,97.7,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202877,501,4,Rectangular overhanging top; the frieze fitted with drawer having a bronze cherub-handle; supported by reel-turned box stretchered legs and block feet.,2320,99.3,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202874,498,470,WALNUT SGABELLO CHAIR,2317,91.3,False,positional,,,FURNITURE,,
+BO0624_5760,202875,499,2,"Italian, XVI Century Canted back, silhouetted in the form of a lyre sustaining a lily, with a sunken heart-shape device; molded and massive angular seat, on three splayed legs and frontal stretcher.",2318,99.5,False,positional,,,FURNITURE,,Sec. XVI
+BO0624_5760,202876,500,3,"47I. WALNUT CENTRE TABLE Tuscan,XVI Century",2319,97.7,False,positional,,Scuola Toscana,FURNITURE,,
+BO0624_5760,202877,501,4,Rectangular overhanging top; the frieze fitted with drawer having a bronze cherub-handle; supported by reel-turned box stretchered legs and block feet.,2320,99.3,False,positional,,,FURNITURE,,
 BO0624_5760,202878,502,472,ITALIAN BEECHWOOD SAVONAROLA CHAIR XVI Century Formed of eight double curved supports with straight base,2324,98.1,False,title_direct,,ITALIAN,,,Sec. XVI
-BO0624_5760,202879,503,2,rails. Shaped back with three incised rosettes.,2325,97.8,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202879,503,2,rails. Shaped back with three incised rosettes.,2325,97.8,False,positional,,,FURNITURE,,
 BO0624_5760,202880,504,3,ITALIAN BEECHWOOD SAVONAROLA CHAIR XVI Century 473.,2326,98.0,False,title_direct,,ITALIAN,,,Sec. XVI
-BO0624_5760,202881,505,4,"Formed of eight double curved supports, the front ones carved; on square base rails. Shaped back with incised central rosette.",2327,99.2,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202882,506,474,"PAIR WROUGHT IRON PRICKET TORCHERES Italian,XV Gentury Slender hexagonal shaft, enriched with clustered scrollings. Circular grease-tray. On scrolled Gothic tripod.",2328,98.8,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202883,507,475,"PAIR WROUGHT IRON PRICKET TORCHERES Italian,XV Century",2332,96.4,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202884,508,476,WROUGHT IRON TORCHERE Italian Gothic Period Circular knopped shaft on arched tripod support; large cylindrical candle-holder. talian,2338,95.7,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202885,509,477,"INLAID CARVED WALNUT CREDENZA Oblong molded top, with nulled cornice molding; the front fitted with frieze drawer and central cupboard door enriched with panels of burl walnut, fanked by grotesque masks and sculptured caryatid pilasters.",2343,99.1,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202886,510,478,"CARVED WALNUT CREDENZA Northern Italian Oblong molded top; the cornice molding carved with lunettes, opening as shallow drawer; the central cupboard door carved with armorial bearings. On leaf-carved base with drawer and molded plinth, claw feet.",2347,93.9,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202887,511,479,"CARVED WALNUT CASSONE Central Italian,XVI Century Rectangular; molded, wrought iron bound top; the front boldly carved with a central scrolled cartouche and flanked by female masks enclosed within cartouches. The torus-molded base carved with leafage, fruit and cross ribbons.",2352,99.3,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202888,512,480,"WALNUT CENTRE TABLE North Italian,XVII Century Rectangular molded top, supported by four block and turned and two molded side stretchers.",2356,85.6,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202889,513,481,CARVED WALNUT CREDENZA,2360,91.7,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202881,505,4,"Formed of eight double curved supports, the front ones carved; on square base rails. Shaped back with incised central rosette.",2327,99.2,False,positional,,,FURNITURE,,
+BO0624_5760,202882,506,474,"PAIR WROUGHT IRON PRICKET TORCHERES Italian,XV Gentury Slender hexagonal shaft, enriched with clustered scrollings. Circular grease-tray. On scrolled Gothic tripod.",2328,98.8,False,positional,,,FURNITURE,,
+BO0624_5760,202883,507,475,"PAIR WROUGHT IRON PRICKET TORCHERES Italian,XV Century",2332,96.4,False,positional,,,FURNITURE,,
+BO0624_5760,202884,508,476,WROUGHT IRON TORCHERE Italian Gothic Period Circular knopped shaft on arched tripod support; large cylindrical candle-holder. talian,2338,95.7,False,positional,,,FURNITURE,,
+BO0624_5760,202885,509,477,"INLAID CARVED WALNUT CREDENZA Oblong molded top, with nulled cornice molding; the front fitted with frieze drawer and central cupboard door enriched with panels of burl walnut, fanked by grotesque masks and sculptured caryatid pilasters.",2343,99.1,False,positional,,,FURNITURE,,
+BO0624_5760,202886,510,478,"CARVED WALNUT CREDENZA Northern Italian Oblong molded top; the cornice molding carved with lunettes, opening as shallow drawer; the central cupboard door carved with armorial bearings. On leaf-carved base with drawer and molded plinth, claw feet.",2347,93.9,False,positional,,,FURNITURE,,
+BO0624_5760,202887,511,479,"CARVED WALNUT CASSONE Central Italian,XVI Century Rectangular; molded, wrought iron bound top; the front boldly carved with a central scrolled cartouche and flanked by female masks enclosed within cartouches. The torus-molded base carved with leafage, fruit and cross ribbons.",2352,99.3,False,positional,,,FURNITURE,,
+BO0624_5760,202888,512,480,"WALNUT CENTRE TABLE North Italian,XVII Century Rectangular molded top, supported by four block and turned and two molded side stretchers.",2356,85.6,False,positional,,,FURNITURE,,
+BO0624_5760,202889,513,481,CARVED WALNUT CREDENZA,2360,91.7,False,positional,,,FURNITURE,,
 BO0624_5760,202890,514,482,"CRIMSON CUT VELVET WALNUT ARMCHAIR Florentine,XVI Century Rectangular slightly canted back, with leaf-carved finials; straight fat arms projecting beyond turned supports; rectangular seat, on block and ball-turned stretchered legs. Seat and back covered in fine Renaissance drap d'or cut crimson velvet.",2366,99.3,False,title_direct,,Scuola Fiorentina,VELVETS,,
-BO0624_5760,202891,515,483,"FIVE INLAID CARVED WALNUT SIDE CHAIRS Northern Italian,XVII Century Open canted back, with carved acanthus finials; two scrolled bar slats; fan-shaped seat with carved lambrequin; on quadrangular stretchered legs; the frontal stretcher in recurring",2368,99.2,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202892,516,2,design. With loose leather seats.,2369,96.9,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202891,515,483,"FIVE INLAID CARVED WALNUT SIDE CHAIRS Northern Italian,XVII Century Open canted back, with carved acanthus finials; two scrolled bar slats; fan-shaped seat with carved lambrequin; on quadrangular stretchered legs; the frontal stretcher in recurring",2368,99.2,False,positional,,,FURNITURE,,
+BO0624_5760,202892,516,2,design. With loose leather seats.,2369,96.9,False,positional,,,FURNITURE,,
 BO0624_5760,202893,517,3,"484 CRIMSON VELVET WALNUT ARMCHAIR Italian Renaissance Slightly canted open square back, with gilded acanthus finials; molded straight arms projecting beyond vase baluster supports; rectangular seat, on quadrangular stretchered legs; carved and pierced frontal stretcher centring cartouche. Velvet of late date.",2370,99.7,False,title_direct,,,VASI,,
-BO0624_5760,202894,518,485,"CARVED WALNUT REFECTORY TABLE XVI Century Oblong molded top,having a notched valance;on lyre-shaped end supports with claw feet connected by central serpentined traverse, securely mortised and tenoned. (Traverse restored.)",2371,99.1,False,positional,,ITALIAN,FURNITURE,,Sec. XVI
+BO0624_5760,202894,518,485,"CARVED WALNUT REFECTORY TABLE XVI Century Oblong molded top,having a notched valance;on lyre-shaped end supports with claw feet connected by central serpentined traverse, securely mortised and tenoned. (Traverse restored.)",2371,99.1,False,positional,,,FURNITURE,,Sec. XVI
 BO0624_5760,202895,519,489,CRIMSON VELVET CARVED. WALNUT ARMCHAIR,2376,94.9,False,title_direct,,,VELVETS,,
-BO0624_5760,202896,520,I,"talian Renaissance rectangular seat, on block and turned front legs and ball feet connected by double frontal stretcher and lower side stretchers.",2378,99.7,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202896,520,I,"talian Renaissance rectangular seat, on block and turned front legs and ball feet connected by double frontal stretcher and lower side stretchers.",2378,99.7,False,positional,,,FURNITURE,,
 BO0624_5760,202897,521,487,TWO GREEN VELVET WALNUT ARMCHAIRS,2384,94.3,False,title_direct,,,VELVETS,,
 BO0624_5760,202898,522,488,TWO GREEN VELVET WALNUT ARMCHAIRS,2388,94.3,False,title_direct,,,VELVETS,,
-BO0624_5760,202899,523,I,talian Renaissance,2390,97.3,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202900,524,I,"talian, XVI Gentury",2392,97.3,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202899,523,I,talian Renaissance,2390,97.3,False,positional,,,FURNITURE,,
+BO0624_5760,202900,524,I,"talian, XVI Gentury",2392,97.3,False,positional,,,FURNITURE,,
 BO0624_5760,202901,525,490,"TWO CRIMSON VELVET CARVED WALNUT ARMCHAIRS talian, XVII Century",2396,77.8,False,title_direct,,,VELVETS,,Sec. XVII
 BO0624_5760,202902,526,491,CRIMSON VELVET CARVED WALNUT ARMCHAIR,2402,94.9,False,title_direct,,,VELVETS,,
-BO0624_5760,202903,527,I,"talian,XVII Century",2404,97.4,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202904,528,I,talian Renaissance,2408,97.3,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202903,527,I,"talian,XVII Century",2404,97.4,False,positional,,,FURNITURE,,
+BO0624_5760,202904,528,I,talian Renaissance,2408,97.3,False,positional,,,FURNITURE,,
 BO0624_5760,202905,529,493,"ITALIAN WALNUT SMALL CREDENZA XVII Century The body, a cupboard enclosed by two doors, which are separated and fanked by three pilasters with carved escutcheons. Above, two drawers separated by carving of a cherub and with leaf carvings at the ends. Gadrooned base. Supported on lion paws.",2413,99.3,False,title_direct,,ITALIAN,OGGETTI IN LEGNO,,Sec. XVII
-BO0624_5760,202906,530,494,"PAIR WALNUT FOLDING MONASTERY CHAIRS Northern Italian,XVI Century X-shape; the open back with five molded supports continuing centred with a cartouche in relief.",2417,86.4,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202907,531,495,THREE CARVED WALNUT SIDE CHAIRS,2419,93.9,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202908,532,496,RARE BYZANTINE CARVED WoOD TRIPOD TABLE,2425,95.1,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202909,533,I,"talian, XII-XIII Century",2429,97.9,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202910,534,I,"talian,XVII Century",2436,97.4,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202906,530,494,"PAIR WALNUT FOLDING MONASTERY CHAIRS Northern Italian,XVI Century X-shape; the open back with five molded supports continuing centred with a cartouche in relief.",2417,86.4,False,positional,,,FURNITURE,,
+BO0624_5760,202907,531,495,THREE CARVED WALNUT SIDE CHAIRS,2419,93.9,False,positional,,,FURNITURE,,
+BO0624_5760,202908,532,496,RARE BYZANTINE CARVED WoOD TRIPOD TABLE,2425,95.1,False,positional,,,FURNITURE,,
+BO0624_5760,202909,533,I,"talian, XII-XIII Century",2429,97.9,False,positional,,,FURNITURE,,
+BO0624_5760,202910,534,I,"talian,XVII Century",2436,97.4,False,positional,,,FURNITURE,,
 BO0624_5760,202911,535,498,CUT VELVET CARVED WALNUT ARMCHAIR,2440,94.3,False,title_direct,,,VELVETS,,
-BO0624_5760,202912,536,I,"talian,XVII Century",2442,97.4,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202912,536,I,"talian,XVII Century",2442,97.4,False,positional,,,FURNITURE,,
 BO0624_5760,202913,537,500,"ITALIAN WALNUT STIPO A BAMBOCCI XVII Century In two sections. The frieze with two drawers separated by carved figures of putti supporting an escutcheon and flanked by putti. The hinged drop front when opened discloses interior fitted with numerous drawers and carved with figures and architectural designs; fanking these,and at the sides, are groups of sculptured figures. The lower portion has one door with fluted pilasters having Corinthian capitals.",2448,99.6,False,title_direct,,ITALIAN,,,Sec. XVII
 BO0624_5760,202914,538,5,"O1. ITALIAN WALNUT CREDENZA Brescia,XVI-XVII Century Rectangular.The apron with two wide and three narrow drawers with heavy carvings of acanthus and leaf scrollings. The body arranged as a cupboard with two wide doors and one narrow door with carved fruits and flowers. The base on animal-head supports,fitted with one drawer.",2452,99.8,False,title_direct,,ITALIAN,OGGETTI IN LEGNO,,
 BO0624_5760,202915,539,502,ITALIAN WALNUT SMALL CREDENZA ing pilasters at each side.,2457,96.6,False,title_direct,,ITALIAN,,,
 BO0624_5760,202916,540,503,GOTHIC CHESTNUT AND CYPRESS MoNEY CHANGER's TABLE,2461,96.1,False,title_direct,,GOTHIC,,,
-BO0624_5760,202917,541,504,"CARVED WALNUT STIPO A BAMBOCCI Italian,XVI Century Rectangular molded top with leaf-carved edges;the front fitted with three frieze drawers, the central one a box drawer carved with putti supporting a Viscount's coroneted escutcheon; dropfront revealing architecturally sculptured interior with nuThe front and side pilasters carved in high relief with various figures, putti and satyrs. With original wrought iron clasp",2469,99.5,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202918,542,2,"merous small cupboards,drawers and secret compartments. and lock.In good condition.",2470,98.8,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202919,543,5,"O5.CARVED WALNUT CHEST-OF-DRAWERS Italian Renaissance Rectangular molded top;the front fitted with five drawers paneled in burl walnut and having reeded moldings,and handles formed of sculptured heads in relief;the top drawer centring a baron's coroneted escutcheon.The stiles are also carved in relief with putti,caryatids and an imbricated motive.On scrolled supports.",2474,99.9,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202920,544,507,"IMPORTANT CARVED WALNUT AND GOLD ILLUMINATED Italian,XVI Century CASSONE",2486,97.3,False,positional,,ITALIAN,OGGETTI IN ORO,,
-BO0624_5760,202921,545,5,O8. IMPORTANT CARVED WALNUT AND GOLD ILLUMINATED CAS-,2494,99.0,False,positional,,ITALIAN,OGGETTI IN ORO,,
-BO0624_5760,202922,546,I,"talian,XVI Century SONE",2495,97.9,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202923,547,509,"BEAUTIFULLY CARVED WALNUT AND GOLD ILLUMINATED CASSONE Italian,XVI Century",2501,97.4,False,positional,,ITALIAN,OGGETTI IN ORO,,
-BO0624_5760,202924,548,I,n a fine state of preservation and having an excellent patina.,2511,99.2,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202925,549,511,"WALNUT.SGABELLO CHAIR North Italian,XVI Century Scrolled panel back, with central rosette and piercing; massive square seat with trifid projection at back, on three spreading legs. CARVED WALNUT CREDENZA and claw feet.",2513,89.6,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202926,550,512,"CARVED WALNUT CREDENZA Central Italian,XVI Century Rectangular top with notched cornice molding, supported by voluted and horizontally molded corbels enclosing carved torus-molded drawer with knop handle. The central cupboard door with a mascaron in relief, fanked by futed and and quilled pilasters. On gadrooned base with claw feet.",2517,99.4,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202927,551,513,INLAID WALNUT CREDENZA media; on deeply nulled base and claw feet.,2521,97.0,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202917,541,504,"CARVED WALNUT STIPO A BAMBOCCI Italian,XVI Century Rectangular molded top with leaf-carved edges;the front fitted with three frieze drawers, the central one a box drawer carved with putti supporting a Viscount's coroneted escutcheon; dropfront revealing architecturally sculptured interior with nuThe front and side pilasters carved in high relief with various figures, putti and satyrs. With original wrought iron clasp",2469,99.5,False,positional,,,FURNITURE,,
+BO0624_5760,202918,542,2,"merous small cupboards,drawers and secret compartments. and lock.In good condition.",2470,98.8,False,positional,,,FURNITURE,,
+BO0624_5760,202919,543,5,"O5.CARVED WALNUT CHEST-OF-DRAWERS Italian Renaissance Rectangular molded top;the front fitted with five drawers paneled in burl walnut and having reeded moldings,and handles formed of sculptured heads in relief;the top drawer centring a baron's coroneted escutcheon.The stiles are also carved in relief with putti,caryatids and an imbricated motive.On scrolled supports.",2474,99.9,False,positional,,,FURNITURE,,
+BO0624_5760,202920,544,507,"IMPORTANT CARVED WALNUT AND GOLD ILLUMINATED Italian,XVI Century CASSONE",2486,97.3,False,positional,,,OGGETTI IN ORO,,
+BO0624_5760,202921,545,5,O8. IMPORTANT CARVED WALNUT AND GOLD ILLUMINATED CAS-,2494,99.0,False,positional,,,OGGETTI IN ORO,,
+BO0624_5760,202922,546,I,"talian,XVI Century SONE",2495,97.9,False,positional,,,FURNITURE,,
+BO0624_5760,202923,547,509,"BEAUTIFULLY CARVED WALNUT AND GOLD ILLUMINATED CASSONE Italian,XVI Century",2501,97.4,False,positional,,,OGGETTI IN ORO,,
+BO0624_5760,202924,548,I,n a fine state of preservation and having an excellent patina.,2511,99.2,False,positional,,,FURNITURE,,
+BO0624_5760,202925,549,511,"WALNUT.SGABELLO CHAIR North Italian,XVI Century Scrolled panel back, with central rosette and piercing; massive square seat with trifid projection at back, on three spreading legs. CARVED WALNUT CREDENZA and claw feet.",2513,89.6,False,positional,,,FURNITURE,,
+BO0624_5760,202926,550,512,"CARVED WALNUT CREDENZA Central Italian,XVI Century Rectangular top with notched cornice molding, supported by voluted and horizontally molded corbels enclosing carved torus-molded drawer with knop handle. The central cupboard door with a mascaron in relief, fanked by futed and and quilled pilasters. On gadrooned base with claw feet.",2517,99.4,False,positional,,,FURNITURE,,
+BO0624_5760,202927,551,513,INLAID WALNUT CREDENZA media; on deeply nulled base and claw feet.,2521,97.0,False,positional,,,FURNITURE,,
 BO0624_5760,202928,552,514,"ITALIAN WALNUT CABINET XVI Century Rectangular, in two sections. The upper portion is arranged as a cupboard enclosed by two doors and above, one drawer with four brackets, fanked by pilasters.The lower portion with two doors and a drawer. Gadroon carving on the base. Lion paw supports. Height,65 inches;width,32 inches.",2527,99.4,False,title_direct,,ITALIAN,,,Sec. XVI
-BO0624_5760,202929,553,2,515.,2528,75.0,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202930,554,3,"WALNUT LECTERN Northern Italian,XV Century Rectangular columnar support, on square molded base; oblong missal support.",2529,99.1,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202931,555,516,"CARVED WALNUT LECTERN Umbrian,XVI Century Rectangular pedestal, carved with a roulean motive; on square molded box base; the revolving pyramidal top with rosetted sides supported by four voluted corbels.",2533,99.0,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202932,556,517,"CARVED WALNUT CASSONE Florentine,Late XVI Century Rectangular molded hinged top; the frieze guilloche-molded, closing three panels carved in cavo relievo with elongated quatrefoils and a central cartouche; on nulled base. The whole structure supported by carved and polychromed kneeling angels.",2537,99.3,False,positional,,ITALIAN,FURNITURE,,Sec. XVI
-BO0624_5760,202933,557,518,"CARVED WALNUT CREDENZA Piedmontese, XVII Century",2541,95.9,False,positional,,ITALIAN,FURNITURE,,Sec. XVII
-BO0624_5760,202934,558,2,"Rectangular molded top; the front fitted with two frieze drawers and double enclosing doors, which, with the massive stiles and rails,are modeled and gouged to a diamond or lozenge design, characteristic of an earlier period.",2542,99.5,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202935,559,520,EBONIZED SAVONAROLA CHAIR,2551,92.6,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202936,560,521,"CARVED BEECHWOOD SAVONAROLA CHAIR Tuscan,XVI Gentury Oblong back, with incurving corners; punched to a circular medallion and stellate design; five spindle curule arms and legs, with lifting seat folding on a pivot. Claw feet.",2556,99.1,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202937,561,522,CARVED WALNUT SAVONAROLA CHAIR,2557,93.8,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202938,562,523,"CARVED WALNUT CREDENZA Tuscan,XVI Century Oblong hinged top with leaf-carved edges; the front fitted with central paneled cupboard door with a carved rosette and knop handle, enclosed by an astragal molding. The frieze and pilasters molded and nulled.",2561,99.2,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202939,563,524,"CARVED WALNUT CASSONE handles. Traces of polychrome exist. talian,XVI Century",2569,83.0,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202940,564,525,CARVED OAK CABINET,2572,90.0,False,positional,,ITALIAN,FURNITURE,,
-BO0624_5760,202941,565,526,CARVED WALNUT SANSOVINO CASSONE,2580,93.9,False,positional,SANSOVINO JACOPO,ITALIAN,FURNITURE,,
-BO0624_5760,202942,566,527,POLYCHROMED AND GOLD ILLUMINATED CASSONE,2588,95.2,False,positional,,ITALIAN,OGGETTI IN ORO,,
-BO0624_5760,202943,567,528,CARVED WALNUT CASSONE,2594,91.3,False,positional,,ITALIAN,FURNITURE,,
+BO0624_5760,202929,553,2,515.,2528,75.0,False,positional,,,FURNITURE,,
+BO0624_5760,202930,554,3,"WALNUT LECTERN Northern Italian,XV Century Rectangular columnar support, on square molded base; oblong missal support.",2529,99.1,False,positional,,,FURNITURE,,
+BO0624_5760,202931,555,516,"CARVED WALNUT LECTERN Umbrian,XVI Century Rectangular pedestal, carved with a roulean motive; on square molded box base; the revolving pyramidal top with rosetted sides supported by four voluted corbels.",2533,99.0,False,positional,,Scuola Umbra,FURNITURE,,
+BO0624_5760,202932,556,517,"CARVED WALNUT CASSONE Florentine,Late XVI Century Rectangular molded hinged top; the frieze guilloche-molded, closing three panels carved in cavo relievo with elongated quatrefoils and a central cartouche; on nulled base. The whole structure supported by carved and polychromed kneeling angels.",2537,99.3,False,positional,,Scuola Fiorentina,FURNITURE,,Sec. XVI
+BO0624_5760,202933,557,518,"CARVED WALNUT CREDENZA Piedmontese, XVII Century",2541,95.9,False,positional,,,FURNITURE,,Sec. XVII
+BO0624_5760,202934,558,2,"Rectangular molded top; the front fitted with two frieze drawers and double enclosing doors, which, with the massive stiles and rails,are modeled and gouged to a diamond or lozenge design, characteristic of an earlier period.",2542,99.5,False,positional,,,FURNITURE,,
+BO0624_5760,202935,559,520,EBONIZED SAVONAROLA CHAIR,2551,92.6,False,positional,,,FURNITURE,,
+BO0624_5760,202936,560,521,"CARVED BEECHWOOD SAVONAROLA CHAIR Tuscan,XVI Gentury Oblong back, with incurving corners; punched to a circular medallion and stellate design; five spindle curule arms and legs, with lifting seat folding on a pivot. Claw feet.",2556,99.1,False,positional,,Scuola Toscana,FURNITURE,,
+BO0624_5760,202937,561,522,CARVED WALNUT SAVONAROLA CHAIR,2557,93.8,False,positional,,,FURNITURE,,
+BO0624_5760,202938,562,523,"CARVED WALNUT CREDENZA Tuscan,XVI Century Oblong hinged top with leaf-carved edges; the front fitted with central paneled cupboard door with a carved rosette and knop handle, enclosed by an astragal molding. The frieze and pilasters molded and nulled.",2561,99.2,False,positional,,Scuola Toscana,FURNITURE,,
+BO0624_5760,202939,563,524,"CARVED WALNUT CASSONE handles. Traces of polychrome exist. talian,XVI Century",2569,83.0,False,positional,,,FURNITURE,,
+BO0624_5760,202940,564,525,CARVED OAK CABINET,2572,90.0,False,positional,,,FURNITURE,,
+BO0624_5760,202941,565,526,CARVED WALNUT SANSOVINO CASSONE,2580,93.9,False,positional,SANSOVINO JACOPO,,FURNITURE,,
+BO0624_5760,202942,566,527,POLYCHROMED AND GOLD ILLUMINATED CASSONE,2588,95.2,False,positional,,,OGGETTI IN ORO,,
+BO0624_5760,202943,567,528,CARVED WALNUT CASSONE,2594,91.3,False,positional,,,FURNITURE,,

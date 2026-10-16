@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88547,559842,1,17,Jahrhundert,18,88.0,False,positional,TEN COMPE; ADRIAEN v.d.VELDE,Scuola Fiorentina,,,
 BO0624_88547,559843,2,18,Jahrhundert,24,88.0,False,positional,,HOLLANDISCH,,,
-BO0624_88547,559844,3,3,Wandernde Musikanten vor einem Bauernhaus.,27,97.6,False,positional,,HOLLANDISCH,,,
+BO0624_88547,559844,3,3,Wandernde Musikanten vor einem Bauernhaus.,27,97.6,False,none,,,,,
 BO0624_88547,559845,4,16571712,- Leinwand.Gr.25X23 cm.G.R.Bez.,33,100.0,False,positional,ERNST STUVEN,,,,
 BO0624_88547,559846,5,1770,1794,38,61.5,False,positional,GEORG LUDWIG ECKHARDT,,,,Sec. XVIII
 BO0624_88547,559847,6,1758,1883,44,61.5,False,positional,FRIEDRICH ROSENBERG,,,,Sec. XIX
@@ -16,7 +16,7 @@ BO0624_88547,559855,14,1741,1807,106,61.5,False,positional,ANGELICA KAUFFMANN,,,
 BO0624_88547,559856,15,1658,1724,113,61.5,False,positional,FRANZ WERNER TAMM,,,,Sec. XVIII
 BO0624_88547,559857,16,1596,1674,122,61.5,False,positional,LEONARD BRAMER,,,,Sec. XVII
 BO0624_88547,559858,17,1600,1678,132,61.5,False,positional,PIETER CODDE,,,,Sec. XVII
-BO0624_88547,559859,18,19,Zwei Raucher am Tisch sitzend.,134,95.1,False,positional,PIETER CODDE,,,,
+BO0624_88547,559859,18,19,Zwei Raucher am Tisch sitzend.,134,95.1,False,none,,,,,
 BO0624_88547,559860,19,1605,1652,138,61.5,False,positional,ELIAS VONCK,,,,Sec. XVII
 BO0624_88547,559861,20,1635,1703,148,61.5,False,positional,EGLON HENDRIK van der NEER,,,,Sec. XVIII
 BO0624_88547,559862,21,1579,1657,154,61.5,False,positional,FRANS SNYDERS,,,,Sec. XVII
@@ -25,52 +25,52 @@ BO0624_88547,559864,23,1641,1680,167,61.5,False,positional,JAN VAN KESSEL,Scuola
 BO0624_88547,559865,24,1610,1652,181,61.5,False,positional,JAN ASSELYN,,,,Sec. XVII
 BO0624_88547,559866,25,1813,1887,187,61.5,False,positional,NICAISE DE KEYSER,,,,Sec. XIX
 BO0624_88547,559867,26,1803,1863,193,61.5,False,positional,AUGUST LUCAS,,,,Sec. XIX
-BO0624_88547,559868,27,28,"Sizilianische Gebirgslandschaft mit Schlossern, Gegend von Catania. Im Vorder",195,98.0,False,positional,AUGUST LUCAS,,,,
-BO0624_88547,559869,28,2,grund waschende Madchen. Leinwand.Gr.107X151 cm.G.R.Monogrammiert und dat.1841.,196,98.7,False,positional,AUGUST LUCAS,,,,Sec. XIX
+BO0624_88547,559868,27,28,"Sizilianische Gebirgslandschaft mit Schlossern, Gegend von Catania. Im Vorder",195,98.0,False,none,,,,,
+BO0624_88547,559869,28,2,grund waschende Madchen. Leinwand.Gr.107X151 cm.G.R.Monogrammiert und dat.1841.,196,98.7,False,none,,,,,Sec. XIX
 BO0624_88547,559870,29,1796,1890,205,61.5,False,positional,ANTONIO MANUEL DA FONSECA,Scuola di Dusseldorf,,,Sec. XIX
-BO0624_88547,559871,30,29,Almadraba. An der portugisischen Kuiste wird ein Tunfischfang durch Aufziehen,208,98.1,False,positional,ANTONIO MANUEL DA FONSECA,,,,
+BO0624_88547,559871,30,29,Almadraba. An der portugisischen Kuiste wird ein Tunfischfang durch Aufziehen,208,98.1,False,none,,,,,
 BO0624_88547,559872,31,30,"Strabe in einer hollindischen Stadt mit Dame, Handlern und Madchen als Figuren staffage. a. Zwei berittene Jager in bergiger FluBlandschaft.",214,76.4,False,title_direct,,,Figuren,,
 BO0624_88547,559873,32,31,Italienische Berglandschaft mit Bach und badenden Frauen.,227,97.4,False,positional,,DEUTSCHER MEISTER,,,
-BO0624_88547,559874,33,2,Leinwand.Gr.23x30cm.G.R.Bez.Appeggi.20.8.52.,228,97.7,False,positional,,DEUTSCHER MEISTER,,,
+BO0624_88547,559874,33,2,Leinwand.Gr.23x30cm.G.R.Bez.Appeggi.20.8.52.,228,97.7,False,none,,,,,
 BO0624_88547,559875,34,1802,1883,232,61.5,False,positional,AUGUST RIEDEL,,,,Sec. XIX
 BO0624_88547,559876,35,1819,1884,242,61.5,False,positional,JEAN BAPTISTE VAN MOER,,,,Sec. XIX
 BO0624_88547,559877,36,1805,1867,249,61.5,False,positional,CHRISTIAN MORGENSTERN,,,,Sec. XIX
 BO0624_88547,559878,37,1808,1880,261,61.5,False,positional,KARL FRIEDRICH LESSING,Scuola di Monaco,,,Sec. XIX
 BO0624_88547,559879,38,1848,1894,269,61.5,False,positional,BRUNO PIGLHEIN,,,,Sec. XIX
 BO0624_88547,559880,39,1821,1870,278,61.5,False,positional,CHARLES HOGUET,Scuola di Dusseldorf,,,Sec. XIX
-BO0624_88547,559881,40,39,a. Hollandische Kuste mit Windmihlen. Aquarell.Gr.18X34 cm.G.R.Bez.und dat.61.,283,98.7,False,positional,CHARLES HOGUET,,,,
-BO0624_88547,559882,41,39,"b. Die Pfalz bei Caub am Rhein. Aquarell.Gr.18,5x28 cm.G.R.Bez.und dat.65.",284,98.6,False,positional,CHARLES HOGUET,,,,
+BO0624_88547,559881,40,39,a. Hollandische Kuste mit Windmihlen. Aquarell.Gr.18X34 cm.G.R.Bez.und dat.61.,283,98.7,False,none,,,,,
+BO0624_88547,559882,41,39,"b. Die Pfalz bei Caub am Rhein. Aquarell.Gr.18,5x28 cm.G.R.Bez.und dat.65.",284,98.6,False,none,,,,,
 BO0624_88547,559883,42,1812,1897,294,61.5,False,positional,LOUIS GURLITT,,,,Sec. XIX
 BO0624_88547,559884,43,1833,1900,303,61.5,False,positional,ANTOINE VOLLON,Scuola di Monaco,,,Sec. XX
 BO0624_88547,559885,44,43,Mit Heu beladenes Segelboot bei frischer Brise an der hollandischen Kuste. Leinwand.Gr.80X131cm.G.R.Bez. 1881,307,96.2,False,positional,JAN H. BAREND KOEKKOEK,,,,Sec. XIX
 BO0624_88547,559886,45,44,"Bach im Walde, Ausblick auf freies Land. 1868",316,90.5,False,positional,ADOLF DRESSLER,,,,Sec. XIX
 BO0624_88547,559887,46,45,Fischerboote im Sturm. Leinwand.Gr.58X82cm.G.R.Bez.,322,97.0,False,positional,EDUARD HILDEBRANDT,,,,
-BO0624_88547,559888,47,46,"Sumpflandschaft,Abendstimmung.",323,95.1,False,positional,EDUARD HILDEBRANDT,,,,
-BO0624_88547,559889,48,3,Leinwand.Gr.110X150 cm.G.R.Monogrammiert.,324,97.6,False,positional,EDUARD HILDEBRANDT,,,,
+BO0624_88547,559888,47,46,"Sumpflandschaft,Abendstimmung.",323,95.1,False,none,,,,,
+BO0624_88547,559889,48,3,Leinwand.Gr.110X150 cm.G.R.Monogrammiert.,324,97.6,False,none,,,,,
 BO0624_88547,559890,49,1842,1915,328,61.5,False,positional,PAUL MEYERHEIM,,,,Sec. XX
-BO0624_88547,559891,50,7,Abbildung Tafel 7.,334,100.0,False,positional,PAUL MEYERHEIM,,,,
+BO0624_88547,559891,50,7,Abbildung Tafel 7.,334,100.0,False,none,,,,,
 BO0624_88547,559892,51,1865,1908,339,61.5,False,positional,WALTER LEISTIKOW,Scuola di Monaco,,,Sec. XX
-BO0624_88547,559893,52,49,Kiefern im Grunewald. Pastell.Gr.39X34 cm.S.R.Bez. 1896,342,92.3,False,positional,WALTER LEISTIKOW,,,,Sec. XIX
+BO0624_88547,559893,52,49,Kiefern im Grunewald. Pastell.Gr.39X34 cm.S.R.Bez. 1896,342,92.3,False,none,,,,,Sec. XIX
 BO0624_88547,559894,53,50,"Landweg im Herbst, im Hintergrunde ein Dorf. Aquarell.Gr.35X40 cm.S.R.Bez.",348,97.9,False,positional,LUDWIG MUNTHE,,,,
 BO0624_88547,559895,54,51,Bauer mit Kuhen pfluigend.,352,94.3,False,positional,A.MOELLER,,,,
-BO0624_88547,559896,55,2,Leinwand.Gr.7088 cm.G.R.Bez.und dat.13.,353,97.4,False,positional,A.MOELLER,,,,
+BO0624_88547,559896,55,2,Leinwand.Gr.7088 cm.G.R.Bez.und dat.13.,353,97.4,False,none,,,,,
 BO0624_88547,559897,56,1844,1910,357,61.5,False,positional,WILLEM MARIS,,,,Sec. XX
 BO0624_88547,559898,57,1849,1914,364,61.5,False,positional,HUBERT VON HERKOMER,,,,Sec. XX
 BO0624_88547,559899,58,55,Abend in einem schottischen Dorfe. Leinwand.Gr.50X60 cm.G.R.Bez.,382,67.3,False,positional,JAMES WHITELAW HAMILTON,,,,
-BO0624_88547,559900,59,56,"In meinem Garten, Helensburgh. Leinwand.Gr.50X60 cm.G.R.Bez.",384,97.4,False,positional,JAMES WHITELAW HAMILTON,,,,
+BO0624_88547,559900,59,56,"In meinem Garten, Helensburgh. Leinwand.Gr.50X60 cm.G.R.Bez.",384,97.4,False,none,,,,,
 BO0624_88547,559901,60,57,Bricke in einem schottischen Ort. Holz.Gr.27X35 cm.G.R.Bez.,385,97.4,False,title_direct,,,Holz,,
 BO0624_88547,559902,61,58,"Tal am oberen Clyde, Schottland. Holz.Gr.27x35cm.S.R.Bez.",386,97.3,False,title_direct,,,Holz,,
 BO0624_88547,559903,62,59,"Strabenszene in Nizza. Aquarell.Gr.27,5X37,5 cm.G.R.Bez.",392,97.3,False,positional,PAUL SIGNAC,,,,
 BO0624_88547,559904,63,60,Strandszene mit Figuren.,396,93.9,False,title_direct,,,Figuren,,
 BO0624_88547,559905,64,61,Zwei Frauen mit einem Kind.,408,94.5,False,positional,DORA HITZ,,,,
-BO0624_88547,559906,65,62,Russisches Dreigespann.,412,93.6,False,positional,DORA HITZ,,,,
+BO0624_88547,559906,65,62,Russisches Dreigespann.,412,93.6,False,none,,,,,
 BO0624_88547,559907,66,63,"Junge Dame in Schwarz, stehend im Profil. Holz.Gr.49X21,5cm.G-R.Bez.",420,97.7,False,title_direct,,,Holz,,
 BO0624_88547,559908,67,1825,1905,432,61.5,False,positional,VALENTIN RUTHS,,,,Sec. XX
 BO0624_88547,559909,68,68,Gartenstick. Leinwand.Gr.40X32 cm.S.R.Bez.,449,96.4,False,positional,GOTTHARD KUHL,,,,
-BO0624_88547,559910,69,69,Fischerboot auf See.,450,92.7,False,positional,GOTTHARD KUHL,,,,
+BO0624_88547,559910,69,69,Fischerboot auf See.,450,92.7,False,none,,,,,
 BO0624_88547,559911,70,70,Madchen in der Kuiche.,455,93.3,False,positional,B.ORLOWSKY,,,,
 BO0624_88547,559912,71,71,Bauerin in hugeliger Herbstlandschaft mit Dorf.,461,96.8,False,positional,JOHANNES THIEL,,,,
-BO0624_88547,559913,72,2,Pastell.Gr.39X48cm.G.R.Bez.,462,96.3,False,positional,JOHANNES THIEL,,,,
+BO0624_88547,559913,72,2,Pastell.Gr.39X48cm.G.R.Bez.,462,96.3,False,none,,,,,
 BO0624_88547,559914,73,1855,1915,479,61.5,False,positional,MAX FLASHAR,,,,Sec. XX
 BO0624_88547,559915,74,77,Der Konigsee. Leinwand.Gr.80x115 cm.G.R.Bez.und dat. Minchen 1878.,488,97.7,False,positional,DANIEL SOMOGYI,,,,Sec. XIX
 BO0624_88547,559916,75,78,Fischerboot. Leinwand.Gr.32X44 cm.G.R.Bez.,492,96.4,False,positional,HERVIER,,,,

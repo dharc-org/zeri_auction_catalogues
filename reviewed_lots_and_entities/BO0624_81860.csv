@@ -90,7 +90,7 @@ BO0624_81860,50441,88,68,OROLOGIO in oro con 《 chatelaine 》 a tre smalti mon
 BO0624_81860,50442,89,69,OROLOGIO in oro con smalto e giargoni. Luigi XIV. dorati. Piani in marmo giallo. Luigi XV.,160,69.6,False,positional,,Periodo di Luigi XIV,Condizioni di Vendita,,
 BO0624_81860,50443,90,70,DUE PICCOLI CASSETTONI in noce a marqueterie con bronzi,162,97.3,False,positional,,,Condizioni di Vendita,,
 BO0624_81860,50444,91,71,SCRIVANIA in bois de fer e rose a marqueterie. Luigi XV. SEGGIOLONE in noce tappezzato in cuoio di prima montatura. Luigi XIV. COMODINO in bois de fer e rose a marqueterie. Luigi XV.,164,55.3,False,positional,,Periodo di Luigi XIV,OGGETTI IN LEGNO,,
-BO0624_81860,50445,92,74,"PALIZZI NICOLA. Santuario di S. Michele dipinto ad olio su tela,cornice dorata.(Proveniente dalla collezione del pittore",166,98.7,False,positional,,,Condizioni di Vendita,COLLEZIONE EUGENIO BUONO,
+BO0624_81860,50445,92,74,"PALIZZI NICOLA. Santuario di S. Michele dipinto ad olio su tela,cornice dorata.(Proveniente dalla collezione del pittore",166,98.7,False,positional,PALIZZI FILIPPO,,Condizioni di Vendita,COLLEZIONE EUGENIO BUONO,
 BO0624_81860,50446,93,75,DALL'OCA BIANCA. 《 Giorno di mercato a Firenze 》. Dipinto ad olio su legno. Cornice nera. (Firmato con dedica). Eugenio Buono di Napoli).,167,88.1,False,positional,,,Condizioni di Vendita,,
 BO0624_81860,50447,94,76,DE NITTIS GIUSEPPE.《 Bois de Boulogne 》. Dipinto ad olio. Cornice nera ed oro.,169,97.9,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_81860,50448,95,77,BASAITI MARCO.La Cena dei dodici Apostoli.Dipinto su ta-,173,97.3,False,positional,,,Condizioni di Vendita,,
@@ -160,7 +160,7 @@ BO0624_81860,50511,158,150,COPERTA in stoffa fondo crema con ciniglia. Luigi XIV
 BO0624_81860,50512,159,151,COPERTA in broccato fondo rosso. Luigi XIII.,315,95.5,False,positional,,,Condizioni di Vendita,,
 BO0624_81860,50513,160,152,PALIOTTO in broccato fondo rosa. Luigi XIV.,316,95.3,False,positional,,Periodo di Luigi XIV,Condizioni di Vendita,,
 BO0624_81860,50514,161,153,PORTIERA in peluche ceieste con applicazioni in ricamo. Luigi XIV.,317,88.5,False,positional,,Periodo di Luigi XIV,Condizioni di Vendita,,
-BO0624_81860,50515,162,154,"PALIZZI FILIPPO. Campagna di Battipaglia con cacciatore dipinto ad olio su legno, cornice dorata.",319,71.1,False,positional,,,Condizioni di Vendita,,
+BO0624_81860,50515,162,154,"PALIZZI FILIPPO. Campagna di Battipaglia con cacciatore dipinto ad olio su legno, cornice dorata.",319,71.1,False,positional,PALIZZI FILIPPO,,Condizioni di Vendita,,
 BO0624_81860,50516,163,155,MANCINI ANTONIO. Notturno Buono di Napoli).,325,95.2,False,positional,,,Condizioni di Vendita,,
 BO0624_81860,50517,164,156,VERTUNNI ACHILLE. La torre di Asturra dove fu imprigio-,326,96.4,False,positional,,,Condizioni di Vendita,,
 BO0624_81860,50518,165,157,COSTUMI CINESI. Gruppo a tre figure in porcellana policromata. Sassonia 1a epoca.,331,97.5,False,positional,,,Condizioni di Vendita,,
@@ -271,7 +271,7 @@ BO0624_81860,50622,269,264,"GRANDE COPERTA in broccatello verde con frangia Luig
 BO0624_81860,50623,270,265,GRANDE OROLOGIO in legno ebano e bronzi dor.Luigi XIV.,567,96.4,False,positional,,Periodo di Luigi XIV,Condizioni di Vendita,,
 BO0624_81860,50624,271,266,CAPPUCCINA. Orologio in bronzo dorato di elegantissima forma a piccola 《 rocailles &gt;. Vienna. Luigi XIV.,568,72.8,False,positional,,Periodo di Luigi XIV,Condizioni di Vendita,,
 BO0624_81860,50625,272,267,"MICHETTI F. P. 《 Studi &gt;. Due dipinti ad olio, cornice nera ed oro.",570,90.8,False,positional,,,Condizioni di Vendita,,
-BO0624_81860,50626,273,268,"PALIZZI FILIPPO. Cani con beccacce, dipinto ad olio su tela, cornice dorata.",572,85.7,False,positional,,,Condizioni di Vendita,,
+BO0624_81860,50626,273,268,"PALIZZI FILIPPO. Cani con beccacce, dipinto ad olio su tela, cornice dorata.",572,85.7,False,positional,PALIZZI FILIPPO,,Condizioni di Vendita,,
 BO0624_81860,50627,274,269,VASO SFERICO in maiolica fondo verde con decorazioni in nero. Persia. Sec. XVII.,577,81.5,False,positional,,,VASI,,Sec. XVII
 BO0624_81860,50628,275,270,BOTTIGLIA in maiolica policromata. Persia. Sec. XVI (collo mancante).,579,89.3,False,positional,,,Condizioni di Vendita,,Sec. XVI
 BO0624_81860,50629,276,271,CREDENZINA in noce. Firenze. Sec. XVI.,581,94.4,False,positional,,,Condizioni di Vendita,,Sec. XVI
@@ -299,8 +299,8 @@ BO0624_81860,50650,297,291,"DUE CUSCINI in velluto rosso, con ricco bordo in ric
 BO0624_81860,50651,298,292,"TELA SFILATA in colore m. 3,20. Sec. XVI.",625,94.9,False,positional,,,Condizioni di Vendita,,Sec. XVI
 BO0624_81860,50652,299,293,"FATTORI GIOVANNI. Studio. Disegno a penna, cornice nera.",627,96.3,False,positional,FATTORI GIOVANNI,,Condizioni di Vendita,,
 BO0624_81860,50653,300,294,"VINEA FRANCESCO. Baccante, dipinto ad olio su legno, cor- nice dorata.",628,86.9,False,positional,,,Condizioni di Vendita,,
-BO0624_81860,50654,301,295,"PALIZZI FILIPPO. Vitello dis. acquerellato, cornice in legno. Firmato e datato 1859 con dedica al Marchese di Sogliano.",630,98.3,False,positional,,,Condizioni di Vendita,,Sec. XIX
-BO0624_81860,50655,302,296,"PALIZZI FILIPPO. Toro, disegno acquerellato in cornice. Firmato e datato 1859.",631,97.4,False,positional,,,Condizioni di Vendita,,Sec. XIX
+BO0624_81860,50654,301,295,"PALIZZI FILIPPO. Vitello dis. acquerellato, cornice in legno. Firmato e datato 1859 con dedica al Marchese di Sogliano.",630,98.3,False,positional,PALIZZI FILIPPO,,Condizioni di Vendita,,Sec. XIX
+BO0624_81860,50655,302,296,"PALIZZI FILIPPO. Toro, disegno acquerellato in cornice. Firmato e datato 1859.",631,97.4,False,positional,PALIZZI FILIPPO,,Condizioni di Vendita,,Sec. XIX
 BO0624_81860,50656,303,297,"MARTE e DIANA due statuette di bronzo, basi in marmo. Sec. XVII.",632,96.8,False,positional,,,Condizioni di Vendita,,Sec. XVII
 BO0624_81860,50657,304,298,"MARTE E VENERE due statuette in bronzo, basi in marmo. Sec. XVII.",636,88.9,False,positional,,,Condizioni di Vendita,,Sec. XVII
 BO0624_81860,50658,305,299,CAPPUCCINA. Orologio bronzo dorato. Francese. Luigi XVI.,641,96.3,False,positional,,,Condizioni di Vendita,,

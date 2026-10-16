@@ -446,7 +446,7 @@ BO0624_88092,552772,444,529,"CREMONESER GEIGE,/i-Geige,Signum: Atonius Stradivar
 BO0624_88092,552773,445,3,530.ALT-BRESCIANER GEIGE.Zettel:,632,96.9,False,positional,,,GEIGEN,,
 BO0624_88092,552774,446,531,"FRANzOSISCHER KUPFERSTICH,Darstellung aus der Gotterlehre, Ruotte sculp.",639,97.2,False,title_direct,,,KUPFERSTICHE,,
 BO0624_88092,552775,447,2,"532u.533. ZWEI ENGLISCHE KUPFERSTICHE;Drawn by F. Wheatley, engraved by R.",640,98.6,False,title_direct,,,KUPFERSTICHE,,
-BO0624_88092,552776,448,534,"VIER KUPFERSTICHE nach Morland, von A. Suntach; La Chasse du La Becassine, La Chasse du Canard, La Chasse du Faisan, La Chasse du Lievre. Grofe 31 X 27 cm.",642,98.7,False,title_direct,,,KUPFERSTICHE,,
+BO0624_88092,552776,448,534,"VIER KUPFERSTICHE nach Morland, von A. Suntach; La Chasse du La Becassine, La Chasse du Canard, La Chasse du Faisan, La Chasse du Lievre. Grofe 31 X 27 cm.",642,98.7,False,title_direct,MORLAND GEORGE,,KUPFERSTICHE,,
 BO0624_88092,552777,449,535,"ZWEI KOLORIERTE ZEICHNUNGEN, Herr und Dame. Tracht des 18. Jahrhunderts, holsteinisch,im Holzrahmen.Grofe 32 X 20 cm. Siehe Abbildung Tafel XI.",643,98.6,False,positional,,,KUPFERSTICHE,,Sec. XVIII
 BO0624_88092,552778,450,536,"ZWEI BUNTE KUPFERSTICHE, Portrat eines danischen Konigs und einer Konigin, Jahrhundert, im geschnitzten Rahmen. Grofe 30 X 20 cm. Siehe Abbildung Tafel XI.",645,67.5,False,title_direct,,,KUPFERSTICHE,,
 BO0624_88092,552779,451,537,"FRIEDRICH V, zu Pferde, schwarzer Stich von Ridinger, im Rahmen. Grobe 25 X 35 cm. Siehe Abbildung Tafel XI.",646,98.1,False,positional,,,KUPFERSTICHE,,
@@ -524,6 +524,6 @@ BO0624_88092,552850,522,607,G. D. NACH KRETZSCHMAR.Garnwickeln. Bezeichnet (Mono
 BO0624_88092,552851,523,608,"KAULBACH, bezeichnet K.1858. Brustbild einer alten Dame im Biedermeierkostim, mit Haube. O1gemalde auf Leinwand. Grofe 55X65 cm.",735,98.4,False,positional,KAULBACH HERMANN,,GEMALDE,,Sec. XIX
 BO0624_88092,552852,524,609,"KAULBACH,bezeichnet K. 1858. Brustbild eines alten Herrn in Biedermeiertracht.",736,97.4,False,positional,KAULBACH HERMANN,,GEMALDE,,Sec. XIX
 BO0624_88092,552853,525,610,"KUCHENMULLER, Sizilianische Landschaft. Ausblick aus dem Torbogen eines alten",738,97.4,False,positional,,,GEMALDE,,
-BO0624_88092,552854,526,611,"KOEKOECK,BARENS CORNELIS, geb.1803 in Middelburg. haufen.",740,96.4,False,positional,,,GEMALDE,,Sec. XIX
+BO0624_88092,552854,526,611,"KOEKOECK,BARENS CORNELIS, geb.1803 in Middelburg. haufen.",740,96.4,False,positional,KOEKKOEK B. C.,,GEMALDE,,Sec. XIX
 BO0624_88092,552855,527,612,"WEIDMANN, Kunstmaler und Afrikareisender. Park von Gebirgen, Waldern und Seen eingeschlossen. Olgemalde auf Leinwand. Lange 310 cm,Breite 190 cm.",742,98.6,False,positional,,,GEMALDE,,
 BO0624_88092,552856,528,613,"HOLLANDISCHE SCHULE. Oigemalde auf Leinwand in lebhaften Farben gehalten, gute Zeichnung der Figuren mit Unterschrift: Wie een ouf Huys heeft te greyen; En een jouch weef heeft te vleyen; En een clock moet gade steen, segn wanneer heeft die gedeen. Grofe 186X102 cm.",743,99.2,False,positional,STEEN JAN,,GEMALDE,,

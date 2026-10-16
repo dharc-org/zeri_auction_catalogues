@@ -373,7 +373,7 @@ BO0624_88690,565496,371,389,DEUTSCH.Um 1801.,1121,93.3,False,positional,,,Gemald
 BO0624_88690,565497,372,392,Bildnis eines Herrn.F 63 cm.G.R.,1123,93.9,False,positional,,,Gemalde,,
 BO0624_88690,565498,373,393,"Alter Mann. Halbfigur eines Alten vor einem Anschlag Pressfreiheit der 48er Jahre. Bez. B fec 1848. Lwd.22X15,5 cm. G.R.",1128,98.3,False,positional,,,Gemalde,,Sec. XIX
 BO0624_88690,565499,374,394,"Hirtenszene. Der Hirte mit seinen Schafen u. Ziegen rastet bei einer Brucke, im Hintergrund Architektur und Berge. Eiche. 38X51 cm. G. R. 62009",1130,96.3,False,positional,,,Gemalde,,
-BO0624_88690,565500,375,395,"DROOCHSLOOT,JOST C.(1586-1666).",1140,93.3,False,positional,,,Gemalde,,Sec. XVII
+BO0624_88690,565500,375,395,"DROOCHSLOOT,JOST C.(1586-1666).",1140,93.3,False,positional,DROOCHSLOOT JOOST CORN.,,Gemalde,,Sec. XVII
 BO0624_88690,565501,376,365,- 396,1144,100.0,False,positional,,,Gemalde,,
 BO0624_88690,565502,377,235397,- Bauernkirmef. Auf dem Dorfplatz unter Baumen die tanzende u. trinkende Gesellschaft. Lwd. 58x82 cm. G.R.,1150,100.0,False,positional,,,Gemalde,,
 BO0624_88690,565503,378,391,<!-- image -->,1152,100.0,False,positional,,,Gemalde,,
@@ -383,97 +383,97 @@ BO0624_88690,565506,381,399,"Schlafender junger Jager. Am Fufe eines kleinen Abh
 BO0624_88690,565507,382,401,und Segeln. Lwd. 38x57 cm. H.R.,1181,93.1,False,positional,,,Gemalde,,
 BO0624_88690,565508,383,402,"Orientale. ln reicher Kleidung mit einem Turban, Halbfigur hinter einer Bristung. Holz. 29X26 cm. G. R. Tatel14",1185,98.1,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88690,565509,384,404,"- Landschaft mit Panorama einer Schlacht. Von einer Anhohe gesehen spielt sich im Vordergrund ein Reiterkampf, unten im Tal Gefecht zwischen zwei Parteien ab, die durch den Lauf eines Flusses voneinander geschieden sind. Lwd. 91X132cm.G.R.",1192,100.0,False,positional,,FRANZOSISCH,,,
-BO0624_88690,565510,385,405,"Bildnis eines Herrn. In Allongeperucke. Dreiviertelprofl nach links. Halbfigur. Holz. 73,5X59,5 cm. Breiter Goldrahmen.",1193,98.2,False,positional,,FRANZOSISCH,OGGETTI IN LEGNO,,
-BO0624_88690,565511,386,406,"Drei Verkauferinnen. Kartoffelhandlerin, stehend vor Architektur.Milchmadchen vor ahnlichem Hintergrund.- Traubenverkauferin vor Brucke am Wasser. Alle drei mit franzosischen Unterschriften. Holz je 16x12 cm. G. R.",1205,99.0,False,positional,,FRANZOSISCH,OGGETTI IN LEGNO,,
-BO0624_88690,565512,387,407,"Tierstilleben. Zwei Hunde bei einer Jagdbeute, die aus einem Hasen und Geflugel besteht. Lwd. 118x150 cm. G.R. Tafel 11",1207,98.3,False,positional,,FRANZOSISCH,,,
-BO0624_88690,565513,388,408,Jagdstille ben. Eberkopf und Hase. Landschaftlicher Hintergrund. Lwd. 104X65cm.,1209,97.4,False,positional,,FRANZOSISCH,,,
+BO0624_88690,565510,385,405,"Bildnis eines Herrn. In Allongeperucke. Dreiviertelprofl nach links. Halbfigur. Holz. 73,5X59,5 cm. Breiter Goldrahmen.",1193,98.2,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565511,386,406,"Drei Verkauferinnen. Kartoffelhandlerin, stehend vor Architektur.Milchmadchen vor ahnlichem Hintergrund.- Traubenverkauferin vor Brucke am Wasser. Alle drei mit franzosischen Unterschriften. Holz je 16x12 cm. G. R.",1205,99.0,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565512,387,407,"Tierstilleben. Zwei Hunde bei einer Jagdbeute, die aus einem Hasen und Geflugel besteht. Lwd. 118x150 cm. G.R. Tafel 11",1207,98.3,False,none,,,,,
+BO0624_88690,565513,388,408,Jagdstille ben. Eberkopf und Hase. Landschaftlicher Hintergrund. Lwd. 104X65cm.,1209,97.4,False,none,,,,,
 BO0624_88690,565514,389,409,Bildnis eines Orientalen. Brustbild eines bartigen Alten mit federge-,1218,97.1,False,positional,GELDER AART DE,,,,
-BO0624_88690,565515,390,410,Esau und Jakob. An einem Tisch die beiden Bruider iber das Linsenge-,1223,97.1,False,positional,GELDER AART DE,,,,
-BO0624_88690,565516,391,3,G0,1224,80.0,False,positional,GELDER AART DE,,,,
-BO0624_88690,565517,392,490,V50,1228,100.0,False,positional,GELDER AART DE,,,,
-BO0624_88690,565518,393,130,460,1234,100.0,False,positional,GELDER AART DE,,,,
-BO0624_88690,565519,394,411,"S Strandlandschaft. Am flachen Ufer zahlreiche Fischer und Segelboote. Holz.25,5X34 cm.Schw.R.",1238,98.4,False,positional,GELDER AART DE,,OGGETTI IN LEGNO,,
-BO0624_88690,565520,395,413,Spiegel. Lwd. 105X85 cm. G.R.,1246,92.6,False,positional,GELDER AART DE,,SPECCHI,,
-BO0624_88690,565521,396,414,Schlo Bansicht. An einem Fluf liegt das mittelalterliche Schlof. Staffagefiguren. Holz. 28X39 cm. H.R. Tafel 9,1251,98.1,False,positional,GELDER AART DE,,OGGETTI IN LEGNO,,
-BO0624_88690,565522,397,415,"Stallinterieur. Im Vordergrund Kuh und Ziegen, dahinter Bauer bei der Arbeit.Holz.49x55 cm.H.R. HONDECOETER MELCHIOR,dessen Schule.",1255,98.4,False,positional,GELDER AART DE,,OGGETTI IN LEGNO,,
-BO0624_88690,565523,398,416,"- 6 Huhnerhof. Hahn, Zwei Hennen und Kuchlein vor landschaftlichem Hintergrund. Bez. M. H. Holz. 30X36 cm. G.R.",1257,100.0,False,positional,GELDER AART DE,,OGGETTI IN LEGNO,,
+BO0624_88690,565515,390,410,Esau und Jakob. An einem Tisch die beiden Bruider iber das Linsenge-,1223,97.1,False,none,,,,,
+BO0624_88690,565516,391,3,G0,1224,80.0,False,none,,,,,
+BO0624_88690,565517,392,490,V50,1228,100.0,False,none,,,,,
+BO0624_88690,565518,393,130,460,1234,100.0,False,none,,,,,
+BO0624_88690,565519,394,411,"S Strandlandschaft. Am flachen Ufer zahlreiche Fischer und Segelboote. Holz.25,5X34 cm.Schw.R.",1238,98.4,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565520,395,413,Spiegel. Lwd. 105X85 cm. G.R.,1246,92.6,False,none,,,SPECCHI,,
+BO0624_88690,565521,396,414,Schlo Bansicht. An einem Fluf liegt das mittelalterliche Schlof. Staffagefiguren. Holz. 28X39 cm. H.R. Tafel 9,1251,98.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565522,397,415,"Stallinterieur. Im Vordergrund Kuh und Ziegen, dahinter Bauer bei der Arbeit.Holz.49x55 cm.H.R. HONDECOETER MELCHIOR,dessen Schule.",1255,98.4,False,none,D'HONDECOETER MELCHIOR,,OGGETTI IN LEGNO,,
+BO0624_88690,565523,398,416,"- 6 Huhnerhof. Hahn, Zwei Hennen und Kuchlein vor landschaftlichem Hintergrund. Bez. M. H. Holz. 30X36 cm. G.R.",1257,100.0,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88690,565524,399,417,"Reiterschlacht.Um den Fahnentrager wildes Kampfgetummel. 32,5X43cm.G.R. TALIENISCH BYZANTINISCHE SCHULE.",1261,79.3,False,title_direct,,ITALIENISCHE SCHULE,OGGETTI VARI,,
 BO0624_88690,565525,400,418,"punzter Grund. Holz. 73,5x67 cm.G.R. TALIENISCHE SCHULE. Um 1500.",1266,68.0,False,title_direct,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,Sec. XVI
 BO0624_88690,565526,401,419,und zwei Manner. Holz. 41X34 cm.G. R. TALIENISCHE SCHULE. 15.Jahrh.,1271,67.3,False,title_direct,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88690,565527,402,420,Junglingsportrat. Profl nach links in roter Kappe und Damastgewand. Brustbild. Oben im Halbrund geschlossen. 52X32 cm. G.R.,1275,98.3,False,positional,GELDER AART DE,,,,
+BO0624_88690,565527,402,420,Junglingsportrat. Profl nach links in roter Kappe und Damastgewand. Brustbild. Oben im Halbrund geschlossen. 52X32 cm. G.R.,1275,98.3,False,none,,,,,
 BO0624_88690,565528,403,I,TALIENISCHE SCHULE. 16.Jahrh.,1277,98.2,False,title_direct,,ITALIENISCHE SCHULE,,,
 BO0624_88690,565529,404,I,TALIENISCHE SCHULE. Um 1600.,1281,98.1,False,title_direct,,ITALIENISCHE SCHULE,,,Sec. XVII
 BO0624_88690,565530,405,422,G.R. TALIENISCHE SCHULE. Um 1600 (Art der Carracci).,1286,94.5,False,title_direct,CARRACCI,ITALIENISCHE SCHULE,,,Sec. XVII
-BO0624_88690,565531,406,423,"Brustbild des hl. Franziskus. Der Heilige im Gebet nach links gewandt, die stigmatisierten Hande gefaltet. Lwd. 36,5X29,5 cm.In Keilrahmen.(Ruckseits gedruckter Zettel aus dem 19. Jahrh. ,Augustino Carracci""). - Holz.",1288,97.8,False,positional,GELDER AART DE,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88690,565531,406,423,"Brustbild des hl. Franziskus. Der Heilige im Gebet nach links gewandt, die stigmatisierten Hande gefaltet. Lwd. 36,5X29,5 cm.In Keilrahmen.(Ruckseits gedruckter Zettel aus dem 19. Jahrh. ,Augustino Carracci""). - Holz.",1288,97.8,False,none,CARRACCI,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88690,565532,407,424,Keilrahmen. TALIENISCHE SCHULE. 17.Jahrh.,1300,84.8,False,title_direct,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565533,408,425,nach rechrs im Oval. Lwd. 66x51 cm. G. R.,1303,94.7,False,positional,,ITALIENISCHE SCHULE,,,
+BO0624_88690,565533,408,425,nach rechrs im Oval. Lwd. 66x51 cm. G. R.,1303,94.7,False,none,,,,,
 BO0624_88690,565534,409,426,"einen von einem Engel geleiteten Priester segnet. Holz. 38,5X31 cm. ITALIENISCHE SCHULE. 18.Jahrh.",1304,97.9,False,title_direct,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88690,565535,410,427,Palastansicht. Mit Staffagefiguren. Lwd. 25X45 cm. TALIENISCHE SCHULE.,1307,80.0,False,title_direct,,ITALIENISCHE SCHULE,,,
 BO0624_88690,565536,411,428,Bauerin. Halbfigur einer Frau in zerissenem Gewand mit weiBem Kopftuch. Lwd.74X61cm.G.R. ITALIENISCHE SCHULE.1.H. 19.Jahrh.,1309,98.3,False,title_direct,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565537,412,429,"Wasser durch Gondeln, Boote und Segel belebt. Lwd. 31X42 cm. G. R. KONNINCK SALOMON (1609-1656).",1310,97.8,False,positional,,ITALIENISCHE SCHULE,,,Sec. XVII
-BO0624_88690,565538,413,430,- Mannliches Bildnis. Brustbild mit schwarzem Kappchen und Rock. Lwd. 53×46cm.G.R.,1313,100.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565539,414,1500,"- 431 Mannliches Bildnis. In schwarzem Wams und grofem Hut. Halbfigur hinter einer Brustung. 22,5×19 cm. G. R. KOLNISCH.Um 1520-30.",1325,100.0,False,positional,,ITALIENISCHE SCHULE,,,Sec. XVI
-BO0624_88690,565540,415,432,"- Christus und Maria in Halbfiguren. Gegenstucke. Christus mit Dornenkrone und gefesselten Handen im Dreiviertelprofil nach rechts, Maria entsprechend nach links gewandt, mit betend gefalteten Handen. Holz. 54X36,5 cm. Schw.R.",1327,100.0,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88690,565541,416,433,"Mythologische Darstellung. In der Mitte baden sechs Frauen ein Kind, daneben ein Mann an einem Kohlenbecken, im Hintergrund links ibergeben zwei Frauen das Kind einem Hirten.Lwd. 88X120 cm.G.R. Tafel6 LASTMAN PIETER(1583-1633). <!-- image -->",1331,97.8,False,positional,,ITALIENISCHE SCHULE,CAMINI,,Sec. XVII
+BO0624_88690,565537,412,429,"Wasser durch Gondeln, Boote und Segel belebt. Lwd. 31X42 cm. G. R. KONNINCK SALOMON (1609-1656).",1310,97.8,False,none,,,,,Sec. XVII
+BO0624_88690,565538,413,430,- Mannliches Bildnis. Brustbild mit schwarzem Kappchen und Rock. Lwd. 53×46cm.G.R.,1313,100.0,False,none,,,,,
+BO0624_88690,565539,414,1500,"- 431 Mannliches Bildnis. In schwarzem Wams und grofem Hut. Halbfigur hinter einer Brustung. 22,5×19 cm. G. R. KOLNISCH.Um 1520-30.",1325,100.0,False,none,,Scuola di Colonia,,,Sec. XVI
+BO0624_88690,565540,415,432,"- Christus und Maria in Halbfiguren. Gegenstucke. Christus mit Dornenkrone und gefesselten Handen im Dreiviertelprofil nach rechts, Maria entsprechend nach links gewandt, mit betend gefalteten Handen. Holz. 54X36,5 cm. Schw.R.",1327,100.0,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565541,416,433,"Mythologische Darstellung. In der Mitte baden sechs Frauen ein Kind, daneben ein Mann an einem Kohlenbecken, im Hintergrund links ibergeben zwei Frauen das Kind einem Hirten.Lwd. 88X120 cm.G.R. Tafel6 LASTMAN PIETER(1583-1633). <!-- image -->",1331,97.8,False,none,,,CAMINI,,Sec. XVII
 BO0624_88690,565542,417,434,"Auffindung des Moses. Die aegyptische Konigstochter steht in rotem Gewand und gelbem Mantel nach links, begleitet von ihrem Mohren mit Sonnenschirm. Vor ihr kniet die Schwester des Moses mit dem nackten Knaben. Rechts vorne das Korbchen. Holz. 83,5X67,5 cm.Schw.R. Tafel 10 FRANZOSISCH. 16 Jahih. <!-- image -->",1341,98.3,False,title_direct,,FRANZOSISCH,OGGETTI IN LEGNO,,
 BO0624_88690,565543,418,435,"Joseph im Gefangnis. Er erzahlt dem Mundschenk und dem Backer Pharaos seine Traume. Holz. 34X24,5 cm.G.R. Literatur: H. Nasse, Gemalde aus der Sammlung des Univ.Prof. Dr. Freih. v.Bissing in ,Munchner Jahrbuch 1911 S. 232, Abb. 17.",1347,99.1,False,title_direct,,Scuola di Monaco,OGGETTI IN LEGNO,,Sec. XX
-BO0624_88690,565544,419,436,Bauernprugelei. In einer Scheune gehen mehrere Bauern mit Messern 3,1351,95.5,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565545,420,437,"Winterlandschaft. Am FuBe einer Stadtmauer ein zugefrorener Fluf, auf dem zahlreiches Volk, Schlitten fahrend oder Schlitrschuh laufend sich belustigt. Bezeichnet rechts unten:D. Maas Lwd. 65X90 cm. G. R. Tufel 12",1359,99.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565546,421,438,"Bildnis der Frau A. Meyer  1818. Alte Frau, Brustbild,halb im Profl nach rechts. Pastell. Oval. 28,5X21,5 cm. Notizen auf der Ruckseite.In originalem dunkelbraun poliertem Holzrahmen mit ovalem Bildausschnit. 500",1363,98.0,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88690,565547,422,439,"Christus in Halbfigur frontal gesehen in Gewand und Mantel mit SchlieBe, in der Linken die Weltkugel mit Kreuz mit der Rechten segnend. Holz. 54X37 cm. Schw.R.",1371,98.7,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88690,565548,423,439,"a Beweinung Christi. Maria den Leichnam des Sohnes stitzend, zu Seiten Johannes und eine trauernde Frau. Komporition in Halbfiguren. Holz. X33 cm.H.R.",1375,95.0,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88690,565549,424,440,Brauner R. mit dem Vogel. Kupfer. 57X48 cm. H.R.,1390,85.0,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN RAME,,
-BO0624_88690,565550,425,441,4000,1393,100.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565551,426,1000,"MOLENAER,JAN MIENSE (1605-1668) zugeschr.",1397,100.0,False,positional,MOLENAER JAN MIENSE,ITALIENISCHE SCHULE,,,Sec. XVII
-BO0624_88690,565552,427,443,zechender Gesellschaft.Lwd.79X106 cm. G.R. MOLYN PIETER (1595-1661).,1400,74.8,False,positional,,ITALIENISCHE SCHULE,,,Sec. XVII
-BO0624_88690,565553,428,444,"und Vieh. Holz. Rund. Dm.51 cm.G.R. ,",1407,93.9,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88690,565554,429,445,Messe. Holz. 48X39 cm. Schw.R.,1414,92.9,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88690,565555,430,6300446,<!-- image -->,1420,100.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565556,431,60,<!-- image -->,1422,100.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565557,432,455,NIEDERLANDISCH. Um 1600.,1436,100.0,False,positional,,ITALIENISCHE SCHULE,,,Sec. XVII
-BO0624_88690,565558,433,447,"Die hl. Katharina. Die Heilige im Gebet vor dem Kruzifix knieend. Zu Haupten der Heiligen ein Engel mit Schwert, Krone und Palme einen Jungling abweisend. Kupfer von gelbem Seidenstoff eingefaβt. 21,5X16 cm. Proflierter Marketterierahmen.",1438,99.1,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN RAME,,
-BO0624_88690,565559,434,448,"- Wirtshausszene. Auf einem Faf sitzt der Wirt mit Schreibtafel, neben ihm steht ein Bauer.Holz. 21X17 cm. G.R.",1443,100.0,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88690,565560,435,449,- Landschaft. Blick auf eine langgestreckte Stadt mit Kirchturm und Windmihle. Auf dem Weg Staffagefiguren. Eiche. 39X64 cm.G.R.,1445,100.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565561,436,451,451,1447,100.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565562,437,452,"Scheuneninterieur. Rechts hinten eine Frau mit Schusseln und Topfen, im Vordergrund Gemuisestilleben;in einem 2. Raum ein rauchender Bauer und ein Kind. Holz. 25X30 cm.G.R.",1450,98.8,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88690,565563,438,453,"- 3Kicheninterieur. Im Hintergrund beim Kamin ein aufgehangter Ochs, daneben ein Mann und eine Frau. Im Vordergrund aufgestapelte Topfe, Fasser, Kleidungsstuicke und Gemuise. Gegenstick zu Nr. 452.",1452,100.0,False,positional,,ITALIENISCHE SCHULE,CAMINI,,
-BO0624_88690,565564,439,454,"Rastende Jager. Vor einer Baumgruppe ruht ein Jager mit seinem Hund, neben ihm steht ein zweiter Kavalier, seine lange Flinte ladend. Rechts Fluflauf.Lwd.85X111 cm. G.R.",1456,98.8,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565565,440,457,- 456 Flu Blan d schaft. Rechts baumbestandener Hugel mit Weg. Am Wasser Fischer und ein Jager mit Hunden. 38X57 cm. G. R.,1462,100.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565566,441,458,"Der hl. Hieronymus in Halbfigur. Vor einer Landschaft, ein Kruzifix",1464,97.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565567,442,130,459 113X77 cm.G.R.,1478,89.5,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565568,443,460,<!-- image --> 810,1482,71.4,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565569,444,461,"Bildnis eines Munzsammlers. In einer Zimmerecke am Fenster sitzend an einem Tisch nach vorn gewandt, in der Rechten eine Munze, auf dem Tisch ein aufgeschlagenes numismatisches Werk. Bez. unter dem Fenster G.J. Palthe fec 1736. Holz. 40,5X34 cm.G.R.",1499,99.2,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,Sec. XVIII
-BO0624_88690,565570,445,462,POEL EGBERT VAN DER (1621-1664).,1502,100.0,False,positional,VAN DER POEL EGBERT,ITALIENISCHE SCHULE,,,Sec. XVII
-BO0624_88690,565571,446,463,"Seestick. Mit Fischerbooten im Vordergrunde in einem gemalten Rahmen. Auf demselben rechts unten bezeichnet:J. Porcellis 1622. Holz. 38X58,5 cm.",1509,98.6,False,positional,,ITALIENISCHE SCHULE,CORNICI,,Sec. XVII
-BO0624_88690,565572,447,61200,- 464,1517,100.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88690,565573,448,465,- 5 Selb st bil d ni s. Alte Kopie nach dem Original in den Uffzien.Lwd. 85X62 cm.Schw.R.,1522,100.0,False,positional,,ITALIENISCHE SCHULE,,,
+BO0624_88690,565544,419,436,Bauernprugelei. In einer Scheune gehen mehrere Bauern mit Messern 3,1351,95.5,False,none,,,,,
+BO0624_88690,565545,420,437,"Winterlandschaft. Am FuBe einer Stadtmauer ein zugefrorener Fluf, auf dem zahlreiches Volk, Schlitten fahrend oder Schlitrschuh laufend sich belustigt. Bezeichnet rechts unten:D. Maas Lwd. 65X90 cm. G. R. Tufel 12",1359,99.0,False,none,,,,,
+BO0624_88690,565546,421,438,"Bildnis der Frau A. Meyer  1818. Alte Frau, Brustbild,halb im Profl nach rechts. Pastell. Oval. 28,5X21,5 cm. Notizen auf der Ruckseite.In originalem dunkelbraun poliertem Holzrahmen mit ovalem Bildausschnit. 500",1363,98.0,False,none,,,,,Sec. XIX
+BO0624_88690,565547,422,439,"Christus in Halbfigur frontal gesehen in Gewand und Mantel mit SchlieBe, in der Linken die Weltkugel mit Kreuz mit der Rechten segnend. Holz. 54X37 cm. Schw.R.",1371,98.7,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565548,423,439,"a Beweinung Christi. Maria den Leichnam des Sohnes stitzend, zu Seiten Johannes und eine trauernde Frau. Komporition in Halbfiguren. Holz. X33 cm.H.R.",1375,95.0,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565549,424,440,Brauner R. mit dem Vogel. Kupfer. 57X48 cm. H.R.,1390,85.0,False,none,,,OGGETTI IN RAME,,
+BO0624_88690,565550,425,441,4000,1393,100.0,False,none,,,,,
+BO0624_88690,565551,426,1000,"MOLENAER,JAN MIENSE (1605-1668) zugeschr.",1397,100.0,False,none,MOLENAER JAN MIENSE,,,,Sec. XVII
+BO0624_88690,565552,427,443,zechender Gesellschaft.Lwd.79X106 cm. G.R. MOLYN PIETER (1595-1661).,1400,74.8,False,none,,,,,Sec. XVII
+BO0624_88690,565553,428,444,"und Vieh. Holz. Rund. Dm.51 cm.G.R. ,",1407,93.9,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565554,429,445,Messe. Holz. 48X39 cm. Schw.R.,1414,92.9,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565555,430,6300446,<!-- image -->,1420,100.0,False,none,,,,,
+BO0624_88690,565556,431,60,<!-- image -->,1422,100.0,False,none,,,,,
+BO0624_88690,565557,432,455,NIEDERLANDISCH. Um 1600.,1436,100.0,False,none,,,,,Sec. XVII
+BO0624_88690,565558,433,447,"Die hl. Katharina. Die Heilige im Gebet vor dem Kruzifix knieend. Zu Haupten der Heiligen ein Engel mit Schwert, Krone und Palme einen Jungling abweisend. Kupfer von gelbem Seidenstoff eingefaβt. 21,5X16 cm. Proflierter Marketterierahmen.",1438,99.1,False,none,,,OGGETTI IN RAME,,
+BO0624_88690,565559,434,448,"- Wirtshausszene. Auf einem Faf sitzt der Wirt mit Schreibtafel, neben ihm steht ein Bauer.Holz. 21X17 cm. G.R.",1443,100.0,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565560,435,449,- Landschaft. Blick auf eine langgestreckte Stadt mit Kirchturm und Windmihle. Auf dem Weg Staffagefiguren. Eiche. 39X64 cm.G.R.,1445,100.0,False,none,,,,,
+BO0624_88690,565561,436,451,451,1447,100.0,False,none,,,,,
+BO0624_88690,565562,437,452,"Scheuneninterieur. Rechts hinten eine Frau mit Schusseln und Topfen, im Vordergrund Gemuisestilleben;in einem 2. Raum ein rauchender Bauer und ein Kind. Holz. 25X30 cm.G.R.",1450,98.8,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565563,438,453,"- 3Kicheninterieur. Im Hintergrund beim Kamin ein aufgehangter Ochs, daneben ein Mann und eine Frau. Im Vordergrund aufgestapelte Topfe, Fasser, Kleidungsstuicke und Gemuise. Gegenstick zu Nr. 452.",1452,100.0,False,none,,,CAMINI,,
+BO0624_88690,565564,439,454,"Rastende Jager. Vor einer Baumgruppe ruht ein Jager mit seinem Hund, neben ihm steht ein zweiter Kavalier, seine lange Flinte ladend. Rechts Fluflauf.Lwd.85X111 cm. G.R.",1456,98.8,False,none,,,,,
+BO0624_88690,565565,440,457,- 456 Flu Blan d schaft. Rechts baumbestandener Hugel mit Weg. Am Wasser Fischer und ein Jager mit Hunden. 38X57 cm. G. R.,1462,100.0,False,none,,,,,
+BO0624_88690,565566,441,458,"Der hl. Hieronymus in Halbfigur. Vor einer Landschaft, ein Kruzifix",1464,97.0,False,none,,,,,
+BO0624_88690,565567,442,130,459 113X77 cm.G.R.,1478,89.5,False,none,,,,,
+BO0624_88690,565568,443,460,<!-- image --> 810,1482,71.4,False,none,,,,,
+BO0624_88690,565569,444,461,"Bildnis eines Munzsammlers. In einer Zimmerecke am Fenster sitzend an einem Tisch nach vorn gewandt, in der Rechten eine Munze, auf dem Tisch ein aufgeschlagenes numismatisches Werk. Bez. unter dem Fenster G.J. Palthe fec 1736. Holz. 40,5X34 cm.G.R.",1499,99.2,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88690,565570,445,462,POEL EGBERT VAN DER (1621-1664).,1502,100.0,False,none,VAN DER POEL EGBERT,,,,Sec. XVII
+BO0624_88690,565571,446,463,"Seestick. Mit Fischerbooten im Vordergrunde in einem gemalten Rahmen. Auf demselben rechts unten bezeichnet:J. Porcellis 1622. Holz. 38X58,5 cm.",1509,98.6,False,none,,,CORNICI,,Sec. XVII
+BO0624_88690,565572,447,61200,- 464,1517,100.0,False,none,,,,,
+BO0624_88690,565573,448,465,- 5 Selb st bil d ni s. Alte Kopie nach dem Original in den Uffzien.Lwd. 85X62 cm.Schw.R.,1522,100.0,False,none,,,,,
 BO0624_88690,565574,449,468,"Die Mutter Gottes in der Mandorla zwischen den Heiligen Petrus und Paulus. Maria gekront, sitzt auf einem von ihrem Mantel bedeckten Thron iber dem Regenbogen, im Rucken die Strahlenmandorla. Auf ihrem Schofe das nackte Kind sitzend, vor das die Mutter einen zarten Schleier breitet. Links steht Petrus mit dem Schlussel, rechts Paulus mit Schwert und geoffnetem Buch, beide Apostel mit Scheibennimben. Zu FuBen Maria klein das Lamm Gottes mit Kreuzesfahne, Kelch und Scheibenkreuznimbus. Der Boden mit Bluitenpflanzen. Tafelgemalde in Tempera. 55X66 cm. In schwarzem Tafel 7",1528,99.6,False,title_direct,,,SCATOLE,,
 BO0624_88690,565575,450,469,Totenkopf und Geifel. Lwd. 104X91 cm. G. R.,1536,95.0,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565576,451,470,Apostel. Brustbild eines greisen Alten in braunem Rock. Lwd. 62X52 cm. Schw.R.,1541,97.3,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565577,452,471,Romische Ruinenlandschaft. Mit Hirtenpaar und verschiedenartigem Vieh. In der Mitte vorne ein Schimmel. Bezeichnet rechts unten auf einem Tafel 12 Stein J.H.Roos 1682. Lwd. 102X115 cm.G.R.,1552,98.9,False,positional,RIBALTA FRANCISCO DE,Scuola Romana,,,Sec. XVII
-BO0624_88690,565578,453,472,Lagerszene. Vor einem Zelt mehrere berittene Soldaten und Marketenderinnen. Lwd.34X45 cm.Schw.R.,1556,97.9,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565579,454,473,gegenwerfen. Links hinten das Schlachtfeld. Lwd. 51X64 cm. G. R.,1558,96.7,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565580,455,474,Lwd.105X80 cm.G.R.,1562,89.5,False,positional,RIBALTA FRANCISCO DE,,,,
+BO0624_88690,565576,451,470,Apostel. Brustbild eines greisen Alten in braunem Rock. Lwd. 62X52 cm. Schw.R.,1541,97.3,False,none,,,,,
+BO0624_88690,565577,452,471,Romische Ruinenlandschaft. Mit Hirtenpaar und verschiedenartigem Vieh. In der Mitte vorne ein Schimmel. Bezeichnet rechts unten auf einem Tafel 12 Stein J.H.Roos 1682. Lwd. 102X115 cm.G.R.,1552,98.9,False,none,ROOS JOHANN HEINRICH,Scuola Romana,,,Sec. XVII
+BO0624_88690,565578,453,472,Lagerszene. Vor einem Zelt mehrere berittene Soldaten und Marketenderinnen. Lwd.34X45 cm.Schw.R.,1556,97.9,False,none,,,,,
+BO0624_88690,565579,454,473,gegenwerfen. Links hinten das Schlachtfeld. Lwd. 51X64 cm. G. R.,1558,96.7,False,none,,,,,
+BO0624_88690,565580,455,474,Lwd.105X80 cm.G.R.,1562,89.5,False,none,,,,,
 BO0624_88690,565581,456,475,"Johannes der Taufer. Der jugendliche Heilige mit blonden Locken, Brustbild. Profl nach links. Hintergrund FluBlandschaft mit Gebirgskette. Lwd. Aus Sammlung Oppolzer Innsbruck, Auktions-Katalog Helbing, Minchen, 3. XII. 1906, Nr. 18. -H. Nasse, Gemalde aus der Sammlung des Univ. Prof. Dr. Freiherrn Fr. W. von Bissing ,5X33 cm. Rahmen im Renaissancestil. Tafel14 im Munchner Jahrbuch 1911 Seite 228.",1567,87.8,False,title_direct,,Scuola di Monaco,CORNICI,COLLEZIONE EGON RITTER VON OPPOLZER,Sec. XX
-BO0624_88690,565582,457,476,"- Damen bildnis. Junge Frau in grauem, rotgemustertem Kleid mit Spitzenausputz, die Rechte auf die Stuhllehne gelegt. Kniestick nach links. Lwd. 98X85cm.G.R.",1573,100.0,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565583,458,477,73X87 cm.Schw.R.,1587,88.2,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565584,459,478,"- Altarflugel. Doppelseitig. Vorderseite: Enthauptung der hl. Katharina. Zu beiden Seiten Zuschauer. Hintergrund Landschaft mit Goldgrund. Rechts unten der knieende Stifter und Inschrift:winnhart dechant pfarrer zu ()tzelhofen 1473 — Ruckseite: Martyrium der hl. Agatha. An einem Balken hangt die nackte Heilige, der zwei Henker die Brust herausreifen. Rechts der Richter und zwei junge Manner. Landschaft. 93X73 cm. Schwarze Leiste.",1593,100.0,False,positional,RIBALTA FRANCISCO DE,,,,Sec. XV
-BO0624_88690,565585,460,479,"Einhornjagd und Wurzel Jesse. Der Erzengel Gabriel mit den vier Hunden treibt Maria das Einhorn zu, die umgeben von den Symbolen der unbefleckten Empfangnis im Garten thront, daruber Jesaia von dem Zweige mit Reben mit den Vorfahren und Verkundern Christi ausgehen, im Mittelpunkt Christus als Schmerzensmann. Unten knieen als Stifter mit ihren Wappen ein Mann mit Frau und Tochter. Zahlreiche Spruchbander. Unten (wohl falsch restauriert) MCCCLI. Holz. 124X86 cm. Schwarze Holzleiste.",1597,99.6,False,positional,RIBALTA FRANCISCO DE,,OGGETTI IN LEGNO,,
-BO0624_88690,565586,461,483,"- Altarflugel. Engel der Verkundigung. Nach links gewandt, in einer Bogenhalle.Holz.105X31 cm. Gotisierende Leiste. Inschrift:Ex votto 1753. Holz. 32,5X19,5 cm.",1601,83.7,False,positional,RIBALTA FRANCISCO DE,,OGGETTI IN LEGNO,,Sec. XVIII
-BO0624_88690,565587,462,484,Anbetung der Hirten. In einer Felshohle mit zwei Offnungen. Links von,1612,97.1,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565588,463,220486,48X36 cm.H.R.,1622,77.4,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565589,464,487,Landschaft mit Reitern. Zwischen Baumgruppen zwei Reiter und eine Reiterin.Undeutlich bez.:Holz.35X50 cm.G.R.,1626,98.1,False,positional,RIBALTA FRANCISCO DE,,OGGETTI IN LEGNO,,
-BO0624_88690,565590,465,488,Jungstes Gericht und Auferstehung. Seligen und der Absturz der Verdammten. Holz. 32x51 cm.,1630,97.7,False,positional,RIBALTA FRANCISCO DE,,OGGETTI IN LEGNO,,
-BO0624_88690,565591,466,485,"- Christus im Kreise von Aposteln Heiligen, Martyrern und Engeln, darunter Michael, zu Seiten der Aufstieg der",1632,100.0,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565592,467,160,"Nachtliche Feuersbrunst. Um ein Standbild, versammeln sich Fluchtlinge mit ihrer geretteten Habe. Im Hintergrund brennendes Gebaude und Saulen.",1646,98.6,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565593,468,489,"Holz.37,5×24 cm.G.R.",1647,90.5,False,positional,RIBALTA FRANCISCO DE,,OGGETTI IN LEGNO,,
-BO0624_88690,565594,469,490,stucke. Holz. 22X26 cm. G.R.,1649,92.3,False,positional,RIBALTA FRANCISCO DE,,OGGETTI IN LEGNO,,
-BO0624_88690,565595,470,491,"Mannliches Bildnis. Brustbild eines Kavaliers mit Spitzbart nach rechts mit Krause u. sch warzen Rock, oben Wappen u.Jahrzahl 1602. Holz. 49X41 cm. H.R.",1659,98.6,False,positional,RIBALTA FRANCISCO DE,,OGGETTI IN LEGNO,,Sec. XVII
-BO0624_88690,565596,471,492,Waldlandschaft. Auf einem Weg schreitet eine Jagdgesellschaft mit Hunden <!-- image -->,1663,93.4,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565597,472,493,"Ruinenlandschaft mit Viehherde. An einem Brunnen trankt ein Hirtenpaar die verschiedenen Tiere. Rechts eine Frau mit Kindern. Lwd. 48,5X 66cm.G.R.",1675,98.6,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565598,473,494,"- Beim Dorfschreiber. In einer Scheunentenne rechts der Dorfschreiber, umlagert von Mannern u. Frauen mit Briefen. Im Hintergrund an Banken Bauern und Bauerinnen bei der Unterhaltung. Holz. 46X64 cm. Schw. R.Tafel 9 Zwei neutestamentliche Szenen. Begegnung Christi mit Maria Magdalena in einem Raum (bei Simon) und Christi Beweinung unter dem Kreuz. Holz. Je ca. 16,5X12,5 cm. Rahmen profliert. Marketieriearbeit.",1680,68.4,False,positional,RIBALTA FRANCISCO DE,,CORNICI,,
-BO0624_88690,565599,474,6,Hirtenszene. Hirtin und Hirten tranken die Schafherde. Rechts ein Gehoft,1689,98.6,False,positional,RIBALTA FRANCISCO DE,,,,
-BO0624_88690,565600,475,90,496 unter Baumen.Lwd. 59X84 cm.G. R.,1690,95.7,False,positional,RIBALTA FRANCISCO DE,,,,
+BO0624_88690,565582,457,476,"- Damen bildnis. Junge Frau in grauem, rotgemustertem Kleid mit Spitzenausputz, die Rechte auf die Stuhllehne gelegt. Kniestick nach links. Lwd. 98X85cm.G.R.",1573,100.0,False,none,,,,,
+BO0624_88690,565583,458,477,73X87 cm.Schw.R.,1587,88.2,False,none,,,,,
+BO0624_88690,565584,459,478,"- Altarflugel. Doppelseitig. Vorderseite: Enthauptung der hl. Katharina. Zu beiden Seiten Zuschauer. Hintergrund Landschaft mit Goldgrund. Rechts unten der knieende Stifter und Inschrift:winnhart dechant pfarrer zu ()tzelhofen 1473 — Ruckseite: Martyrium der hl. Agatha. An einem Balken hangt die nackte Heilige, der zwei Henker die Brust herausreifen. Rechts der Richter und zwei junge Manner. Landschaft. 93X73 cm. Schwarze Leiste.",1593,100.0,False,none,,,,,Sec. XV
+BO0624_88690,565585,460,479,"Einhornjagd und Wurzel Jesse. Der Erzengel Gabriel mit den vier Hunden treibt Maria das Einhorn zu, die umgeben von den Symbolen der unbefleckten Empfangnis im Garten thront, daruber Jesaia von dem Zweige mit Reben mit den Vorfahren und Verkundern Christi ausgehen, im Mittelpunkt Christus als Schmerzensmann. Unten knieen als Stifter mit ihren Wappen ein Mann mit Frau und Tochter. Zahlreiche Spruchbander. Unten (wohl falsch restauriert) MCCCLI. Holz. 124X86 cm. Schwarze Holzleiste.",1597,99.6,False,none,METSU GABRIEL,,OGGETTI IN LEGNO,,
+BO0624_88690,565586,461,483,"- Altarflugel. Engel der Verkundigung. Nach links gewandt, in einer Bogenhalle.Holz.105X31 cm. Gotisierende Leiste. Inschrift:Ex votto 1753. Holz. 32,5X19,5 cm.",1601,83.7,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88690,565587,462,484,Anbetung der Hirten. In einer Felshohle mit zwei Offnungen. Links von,1612,97.1,False,none,,,,,
+BO0624_88690,565588,463,220486,48X36 cm.H.R.,1622,77.4,False,none,,,,,
+BO0624_88690,565589,464,487,Landschaft mit Reitern. Zwischen Baumgruppen zwei Reiter und eine Reiterin.Undeutlich bez.:Holz.35X50 cm.G.R.,1626,98.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565590,465,488,Jungstes Gericht und Auferstehung. Seligen und der Absturz der Verdammten. Holz. 32x51 cm.,1630,97.7,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565591,466,485,"- Christus im Kreise von Aposteln Heiligen, Martyrern und Engeln, darunter Michael, zu Seiten der Aufstieg der",1632,100.0,False,none,,,,,
+BO0624_88690,565592,467,160,"Nachtliche Feuersbrunst. Um ein Standbild, versammeln sich Fluchtlinge mit ihrer geretteten Habe. Im Hintergrund brennendes Gebaude und Saulen.",1646,98.6,False,none,,,,,
+BO0624_88690,565593,468,489,"Holz.37,5×24 cm.G.R.",1647,90.5,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565594,469,490,stucke. Holz. 22X26 cm. G.R.,1649,92.3,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88690,565595,470,491,"Mannliches Bildnis. Brustbild eines Kavaliers mit Spitzbart nach rechts mit Krause u. sch warzen Rock, oben Wappen u.Jahrzahl 1602. Holz. 49X41 cm. H.R.",1659,98.6,False,none,,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88690,565596,471,492,Waldlandschaft. Auf einem Weg schreitet eine Jagdgesellschaft mit Hunden <!-- image -->,1663,93.4,False,none,,,,,
+BO0624_88690,565597,472,493,"Ruinenlandschaft mit Viehherde. An einem Brunnen trankt ein Hirtenpaar die verschiedenen Tiere. Rechts eine Frau mit Kindern. Lwd. 48,5X 66cm.G.R.",1675,98.6,False,none,,,,,
+BO0624_88690,565598,473,494,"- Beim Dorfschreiber. In einer Scheunentenne rechts der Dorfschreiber, umlagert von Mannern u. Frauen mit Briefen. Im Hintergrund an Banken Bauern und Bauerinnen bei der Unterhaltung. Holz. 46X64 cm. Schw. R.Tafel 9 Zwei neutestamentliche Szenen. Begegnung Christi mit Maria Magdalena in einem Raum (bei Simon) und Christi Beweinung unter dem Kreuz. Holz. Je ca. 16,5X12,5 cm. Rahmen profliert. Marketieriearbeit.",1680,68.4,False,none,,,CORNICI,,
+BO0624_88690,565599,474,6,Hirtenszene. Hirtin und Hirten tranken die Schafherde. Rechts ein Gehoft,1689,98.6,False,none,,,,,
+BO0624_88690,565600,475,90,496 unter Baumen.Lwd. 59X84 cm.G. R.,1690,95.7,False,none,,,,,
 BO0624_88690,565601,476,497,"Platte. Rund, mit sechs aus demselben Stuick gedrechselten Deckelbuchsen, Drei kleine Deckelpokale. Dunn gedrechselt, mit hohen schlanken Deckel-",1696,66.0,False,positional,,,Elfenbein,,
 BO0624_88690,565602,477,498,"knaufen. Nurnberg. 17.Jahrh.H. 20,18,14 cm.",1697,95.1,False,positional,,Scuola di Norimberga,Elfenbein,,
 BO0624_88690,565603,478,499,"Zwei runde Buchsen. H.9, Dm. 7,5 cm., bezw. H. 75, Dm. 6 cm.",1698,96.2,False,positional,,,Elfenbein,,

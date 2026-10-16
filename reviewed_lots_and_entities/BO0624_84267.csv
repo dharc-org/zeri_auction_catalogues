@@ -3,7 +3,7 @@ BO0624_84267,611226,1,1,## Le Sacrifice a Priape.,17,100.0,False,positional,CARE
 BO0624_84267,611227,2,2,## Bacchanale.,36,100.0,False,positional,CARESME,,,,
 BO0624_84267,611228,3,3,## La Halte a l'auberge.,57,100.0,False,positional,LALLEMAND,,,,
 BO0624_84267,611229,4,5,## Portrait presume,95,100.0,False,positional,BOILLY,,,,
-BO0624_84267,611230,5,6,Portrait presume de Charlotte-Jeanne Le Boullenger.,107,100.0,False,positional,BOILLY,,,,
+BO0624_84267,611230,5,6,Portrait presume de Charlotte-Jeanne Le Boullenger.,107,100.0,False,none,,,,,
 BO0624_84267,611231,6,8,## Portrait de jeune femme.,128,100.0,False,positional,DESHAYS,,,,
 BO0624_84267,611232,7,9,## Portrait de Madame Necker.,145,100.0,False,positional,DUPLESSIS,,,,
 BO0624_84267,611233,8,10,## Portrait de Necker.,165,100.0,False,positional,DUPLESSIS,,,,
@@ -18,7 +18,7 @@ BO0624_84267,611241,16,18,## Portrait presume,294,100.0,False,positional,LARGILL
 BO0624_84267,611242,17,19,## Portrait de jeune femme.,310,100.0,False,positional,LARGILLIERE,,,,
 BO0624_84267,611243,18,20,## La Dame a l'eventail.,325,100.0,False,positional,NONNOTTE,,,,
 BO0624_84267,611244,19,21,"## Portrait presume fs, 1668  Caen, 1752.",358,69.2,False,positional,TOURNIERES,,,,Sec. XVII
-BO0624_84267,611245,20,22,"## Portrait de Jean Duc,le fils.",362,100.0,False,positional,TOURNIERES,,,,
+BO0624_84267,611245,20,22,"## Portrait de Jean Duc,le fils.",362,100.0,False,none,,,,,
 BO0624_84267,611246,21,23,"## Portrait d'homme. l est debout, vu a mi-corps, dans l'embrasure d'une fenetre cintree quorne une draperie verte. Le visage tourne de trois quarts vers la droite, il tient de la main gauche un pli du",379,95.7,False,positional,TOURNIERES,,,,
 BO0624_84267,611247,22,24,## Portrait de femme en Diane.,400,100.0,False,positional,TROY,,,,
 BO0624_84267,611248,23,25,"GrAND vAsE en porcelaine de Chine, orne d'un arbuste sur fond jaune.",417,97.8,False,positional,,,VASI,,

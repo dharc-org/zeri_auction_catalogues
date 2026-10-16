@@ -1,8 +1,8 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_65739,647617,1,3,## TABLEAUX ANCIENS,5,100.0,False,none,,,,,
 BO0624_65739,647618,2,4,NATURE MORTE Amsterdam-1844,64,65.2,False,positional,ARNOLDUS BLOEMERS,,,,Sec. XIX
-BO0624_65739,647619,3,5,"NATUREMORTE DE FLEURS,DEFRUITSETD'UNFAISAN DORE DEPOSE SUR UNE PLINTHE.",66,98.6,False,positional,ARNOLDUS BLOEMERS,,,,
-BO0624_65739,647620,4,6,"GRAND POTEN TERRE CUITE PLACE SUR UNE PLINTHE ENPIERRE, DEBORDANT DE FLEURS MULTICOLORES.",70,98.9,False,positional,ARNOLDUS BLOEMERS,,,,
+BO0624_65739,647619,3,5,"NATUREMORTE DE FLEURS,DEFRUITSETD'UNFAISAN DORE DEPOSE SUR UNE PLINTHE.",66,98.6,False,none,,,,,
+BO0624_65739,647620,4,6,"GRAND POTEN TERRE CUITE PLACE SUR UNE PLINTHE ENPIERRE, DEBORDANT DE FLEURS MULTICOLORES.",70,98.9,False,none,,,,,
 BO0624_65739,647621,5,7,SCENES DE BASSE-COUR.-DEUX PENDANTS,80,97.1,False,positional,J.BOGDANI,,,,
 BO0624_65739,647622,6,I3,BUTIN DE CHASSE,149,90.9,False,positional,G.DONCK,,,,
 BO0624_65739,647623,7,12,"Serie dequatredessus deportespeintssurtoile,deformecontournee,asujetsdegroupesd'amours symbolisant la Musique,la Geometrie,l'Arithmetique,etc.Une des toiles montre un buste de Descartes et deux medaillons aux effigies de Newton et de Leibniz. Cadres en bois sculptes et dores.-Louis XV.",163,99.5,False,positional,ANTONIE ELLIGER,Periodo di Luigi XV,OGGETTI IN LEGNO,,
@@ -10,29 +10,29 @@ BO0624_65739,647624,8,18,PAYSAGE,209,82.4,False,positional,LEONARD DE FRANCE,,,,
 BO0624_65739,647625,9,19,PAYSAGE,251,82.4,False,positional,JAN GRIFFIER,,,,
 BO0624_65739,647626,10,I,"l est represente debout a mi-jambes regardant le spectateur, sa palette et ses pinceaux en main. Il est vetu d'une simarre brunatre et coiffe d'un beret sous lequel retombent ses cheveux boucles. A droite une toile sur le chevalet dont on voit le verso, une table avec nombre d'objets divers; luth, globe, modeles de platre,livres,une montre,etc.Dans le fond, accroche au mur et dans un cadre sculpte, un tableau representant Renaud et Armide. Un superbe tapis de Smyrne drape est suspendu au premier plan.",398,99.9,False,positional,MICHIEL VAN MUSSCHER,,OGGETTI VARI,,
 BO0624_65739,647627,11,1603,Amsterdam—1677,423,84.8,False,positional,AERT VAN DER NEER,,,,Sec. XVII
-BO0624_65739,647628,12,33,PAYSAGES.— UNE PAIREDETABLEAUXFAISANTPENDANTS,425,96.6,False,positional,AERT VAN DER NEER,,,,
+BO0624_65739,647628,12,33,PAYSAGES.— UNE PAIREDETABLEAUXFAISANTPENDANTS,425,96.6,False,none,,,,,
 BO0624_65739,647629,13,34,PORTRAITPRESUME DE MRS.GEO.BARING,441,95.7,False,positional,JOHN OPIE,,,,
 BO0624_65739,647630,14,35,NATURE MORTE DEVOLAILLE ET DEFLEURS,451,95.9,False,positional,G. J. J. VAN OS,,,,
-BO0624_65739,647631,15,36,"NATURE MORTE DE FRUITS DEPOSES SURUNEPLINTHEENPIERRE: MELON,CERISES,PRUNES,FRAMBOISES,NOISETTES,ETC.",457,98.5,False,positional,G. J. J. VAN OS,,,,
-BO0624_65739,647632,16,37,NATURE MORTE DE FRUITS ET DE FLEURS,463,95.9,False,positional,G. J. J. VAN OS,,,,
+BO0624_65739,647631,15,36,"NATURE MORTE DE FRUITS DEPOSES SURUNEPLINTHEENPIERRE: MELON,CERISES,PRUNES,FRAMBOISES,NOISETTES,ETC.",457,98.5,False,none,,,,,
+BO0624_65739,647632,16,37,NATURE MORTE DE FRUITS ET DE FLEURS,463,95.9,False,none,,,,,
 BO0624_65739,647633,17,42,- 43 PAYSAGE,512,100.0,False,positional,GILLIS ROMBOUTS,,,,
 BO0624_65739,647634,18,45,"UNE PAIRE DE DESSUS DE PORTE PEINTSSURTOILEETDANS DES CADRESENBOISSCULPTE,REPRESENTANTUNEPOULEETSESPOUSSINS ET UN FAISAN ARGENTE. Hauteurs go, largeurs 74 centimetres.",556,86.8,False,positional,AERT SCHOUMAN,,,,
-BO0624_65739,647635,19,46,"DESSUS DE PORTE PEINT SUR TOILE REPRESENTANT UN COQ, UN FAISAN,UNEPERDRIX,PUISDESPERROQUETS,L'UNBLANC,L'AUTRE ROUGE,PERCHESSURDESBRANCHES",563,98.9,False,positional,AERT SCHOUMAN,,,,
+BO0624_65739,647635,19,46,"DESSUS DE PORTE PEINT SUR TOILE REPRESENTANT UN COQ, UN FAISAN,UNEPERDRIX,PUISDESPERROQUETS,L'UNBLANC,L'AUTRE ROUGE,PERCHESSURDESBRANCHES",563,98.9,False,none,,,,,
 BO0624_65739,647636,20,1746,Tilburg-1822,567,82.8,False,positional,G.VAN SPAENDONCK,,,,Sec. XIX
-BO0624_65739,647637,21,48,LE JOUR DES ROIS,575,91.4,False,positional,G.VAN SPAENDONCK,,,,
+BO0624_65739,647637,21,48,LE JOUR DES ROIS,575,91.4,False,none,,,,,
 BO0624_65739,647638,22,47,## 49 NATUREMORTE,606,100.0,False,positional,JURRIAEN VAN STREECK,,,,
-BO0624_65739,647639,23,54,54,616,100.0,False,positional,JURRIAEN VAN STREECK,,,,
-BO0624_65739,647640,24,55,MARINE,617,100.0,False,positional,JURRIAEN VAN STREECK,,,,
+BO0624_65739,647639,23,54,54,616,100.0,False,none,,,,,
+BO0624_65739,647640,24,55,MARINE,617,100.0,False,none,,,,,
 BO0624_65739,647641,25,50,VACHES AU PATURAGE AU BORD D'UN FLEUVE PAR UNE JOURNEE D'ETE,647,97.6,False,positional,JACOB VAN STRIJ,,,,
-BO0624_65739,647642,26,51,SCENE CHAMPETRE,651,90.9,False,positional,JACOB VAN STRIJ,,,,
+BO0624_65739,647642,26,51,SCENE CHAMPETRE,651,90.9,False,none,,,,,
 BO0624_65739,647643,27,56,MARINE,672,80.0,False,positional,DAVID TENIERS,,,,
 BO0624_65739,647644,28,57,- 60 VUE DEVILLE,691,100.0,False,positional,J.H.VERHEYEN,,,,
 BO0624_65739,647645,29,61,GROS TEMPS Haarlem——1640,715,65.0,False,positional,HENDRICK CORNELISZ VROOM,,,,Sec. XVII
-BO0624_65739,647646,30,62,VOILIER TANGUANT SUR UNE MER HOULEUSE,717,96.1,False,positional,HENDRICK CORNELISZ VROOM,,,,
+BO0624_65739,647646,30,62,VOILIER TANGUANT SUR UNE MER HOULEUSE,717,96.1,False,none,,,,,
 BO0624_65739,647647,31,63,"TENTURE DE SALON PEINTE SUR TOILE, COMPOSEE DE QUATRE",732,97.2,False,positional,G.MALLEYN,,DECORAZIONI DA PARETE,,
-BO0624_65739,647648,32,I,"ls representant des coins de basse-cour avec coq,poules,poussins, paon,faisan,pigeon, toucan, etc. et des etangs avec des oiseaux aquatiques, tels que pelican, flamant, becasse, canards. Les dessus de porte a vases de fleurs.",735,99.8,False,positional,G.MALLEYN,,VASI,,
+BO0624_65739,647648,32,I,"ls representant des coins de basse-cour avec coq,poules,poussins, paon,faisan,pigeon, toucan, etc. et des etangs avec des oiseaux aquatiques, tels que pelican, flamant, becasse, canards. Les dessus de porte a vases de fleurs.",735,99.8,False,none,,,VASI,,
 BO0624_65739,647649,33,65,"Dessus de porte peint sur toile, representant un renard venant d'attraper un coq. Fond de paysage montagneux.",755,98.6,False,positional,JACOB DE WIT,,,,
-BO0624_65739,647650,34,66,"Hauteur 69,largeur 154 centimetres.",758,100.0,False,positional,JACOB DE WIT,,,,
+BO0624_65739,647650,34,66,"Hauteur 69,largeur 154 centimetres.",758,100.0,False,none,,,,,
 BO0624_65739,647651,35,67,"Grande armoire en pallisandre, a decor sculpte,a fronton saillant a écusson, des écoincons.A deux grandes portes avec des festons de fleurs, des amours, des noeuds de ruban, etc.Dans le bas, deux tiroirs avec des tetes de cherubins sculptees servant de poignees de tirage.XVIIe",765,99.4,False,positional,,,OGGETTI VARI,,
 BO0624_65739,647652,36,68,"Grande armoire en racine de noyer a deux grandes portes a moulures profilees.Fronton saillant. Travail allemand du XVIIe siecle.—Haut. 225,larg. 225 cent.",767,99.0,False,positional,,,OGGETTI VARI,,Sec. XVII
 BO0624_65739,647653,37,6,"g Petit cabinet en bois de rose,a porte solitaire munie d'une glace dans un encadrement sculpte. La base,de forme contournee,contient trois tiroirs.—XVIIIe siecle.—Haut.23o,larg.I15 cent. Cabinet en racine de noyer, de forme contournee. La partie superieure a porte solitaire, bombee et incrustee,est entouree de dix tiroirs.La partie inferieure de dimension plus grande contient quatre tiroirs. Monture en bronze.—Travail allemand du XVIHIe siecle. —Haut. 17o, larg.I23 cent.",769,75.1,False,positional,,,OGGETTI IN LEGNO,,
@@ -182,97 +182,97 @@ BO0624_65739,647796,180,218,Lustre en cuivre a suspension a six bras.XVIle siecl
 BO0624_65739,647797,181,219,Lustre a suspension en cuivre a huit bras.XVIle siecle.,1190,96.4,False,positional,,,LUSTRI,,
 BO0624_65739,647798,182,220,"Lustre en cuivre a suspension a douze bras, disposes en deux etages.XVIle siecle.",1191,97.5,False,positional,,,LUSTRI,,
 BO0624_65739,647799,183,22,ISTATUETTE EQUESTRE EN BRONZE DE LOUIS XIV.,1199,97.7,False,positional,FRANCOIS GIRARDON,,,,
-BO0624_65739,647800,184,222,Le baiser. - Double buste en bronze d'un couple s'embrassant. Sur socle en marbre. - Travail francais du XVIHIe siecle.- Haut.28 cent.,1206,98.4,False,positional,FRANCOIS GIRARDON,,,,
-BO0624_65739,647801,185,223,"Une paire de figurines en bronze, representant un centaure portant une figurine damour sur le dos.Socles en marbre.",1207,98.3,False,positional,FRANCOIS GIRARDON,,,,
-BO0624_65739,647802,186,224,"Encrier en bronze a patine verte et doree,a deux recipients fixes sur un plateau en porcelaine verte de Sevres.-XIXe siecle.",1208,98.4,False,positional,FRANCOIS GIRARDON,,,,
-BO0624_65739,647803,187,225,"226 Deux paire de chandeliers pour cierges,en cuivre, sur trepieds ornes de tetes de cheru-",1209,97.8,False,positional,FRANCOIS GIRARDON,,CANDELABRI,,
-BO0624_65739,647804,188,227,Trois paires de chandeliers et un chandelier en cuivre. - XVIle siecle. - 7 pieces.,1211,97.4,False,positional,FRANCOIS GIRARDON,,CANDELABRI,,
-BO0624_65739,647805,189,228,"Garniture de foyer en cuivre, composee dune pelle, d’un balai, d’un attisoir et d’une paire de",1212,97.8,False,positional,FRANCOIS GIRARDON,,,,
-BO0624_65739,647806,190,229,23o Deux paires de grands seaux en cuivre.- XIXe siecle.- Par paire.,1214,96.9,False,positional,FRANCOIS GIRARDON,,,,Sec. XIX
-BO0624_65739,647807,191,231,"Pot-au-feu espagnol en bronze,- XVlle siecle.",1215,95.5,False,positional,FRANCOIS GIRARDON,,,,
-BO0624_65739,647808,192,232,Tapis de la manufacture d'Aubusson a decor de medaillons et de lambrequins fleuris. Fond,1219,97.8,False,positional,FRANCOIS GIRARDON,,AUBUSSONS,,
-BO0624_65739,647809,193,233,Grand tapis oriental en soie. Le medaillon se detachant sur un fond rouge de vin. — 4oo x 285 cent.,1221,97.9,False,positional,FRANCOIS GIRARDON,,,,
-BO0624_65739,647810,194,234,Tapis persan en soie 168xI24 cent.,1222,94.3,False,positional,FRANCOIS GIRARDON,,,,
-BO0624_65739,647811,195,235,Tapis persan.. 200 x 193 cent.,1223,93.1,False,positional,FRANCOIS GIRARDON,,,,
-BO0624_65739,647812,196,236,Tapis persan... 196 x 138 cent.,1224,93.1,False,positional,FRANCOIS GIRARDON,,,,
+BO0624_65739,647800,184,222,Le baiser. - Double buste en bronze d'un couple s'embrassant. Sur socle en marbre. - Travail francais du XVIHIe siecle.- Haut.28 cent.,1206,98.4,False,none,,,,,
+BO0624_65739,647801,185,223,"Une paire de figurines en bronze, representant un centaure portant une figurine damour sur le dos.Socles en marbre.",1207,98.3,False,none,,,,,
+BO0624_65739,647802,186,224,"Encrier en bronze a patine verte et doree,a deux recipients fixes sur un plateau en porcelaine verte de Sevres.-XIXe siecle.",1208,98.4,False,none,,,,,
+BO0624_65739,647803,187,225,"226 Deux paire de chandeliers pour cierges,en cuivre, sur trepieds ornes de tetes de cheru-",1209,97.8,False,none,,,CANDELABRI,,
+BO0624_65739,647804,188,227,Trois paires de chandeliers et un chandelier en cuivre. - XVIle siecle. - 7 pieces.,1211,97.4,False,none,,,CANDELABRI,,
+BO0624_65739,647805,189,228,"Garniture de foyer en cuivre, composee dune pelle, d’un balai, d’un attisoir et d’une paire de",1212,97.8,False,none,,,,,
+BO0624_65739,647806,190,229,23o Deux paires de grands seaux en cuivre.- XIXe siecle.- Par paire.,1214,96.9,False,none,,,,,Sec. XIX
+BO0624_65739,647807,191,231,"Pot-au-feu espagnol en bronze,- XVlle siecle.",1215,95.5,False,none,,,,,
+BO0624_65739,647808,192,232,Tapis de la manufacture d'Aubusson a decor de medaillons et de lambrequins fleuris. Fond,1219,97.8,False,none,,,AUBUSSONS,,
+BO0624_65739,647809,193,233,Grand tapis oriental en soie. Le medaillon se detachant sur un fond rouge de vin. — 4oo x 285 cent.,1221,97.9,False,none,,,,,
+BO0624_65739,647810,194,234,Tapis persan en soie 168xI24 cent.,1222,94.3,False,none,,,,,
+BO0624_65739,647811,195,235,Tapis persan.. 200 x 193 cent.,1223,93.1,False,none,,,,,
+BO0624_65739,647812,196,236,Tapis persan... 196 x 138 cent.,1224,93.1,False,none,,,,,
 BO0624_65739,647813,197,237,"Les heures de la table.-Suite de guatre gravures au pointillé, imprimees en couleurs.--Encadrees.",1229,97.9,False,positional,L.M.BONNET,,OGGETTI VARI,,
-BO0624_65739,647814,198,1,"Le Dejeuner.—D'apres J.B.Huet.In-4. en haut. Le Souper. —D'apres J. B. Huet. In-4. en haut. Le Gouter. --D'apres P. A. Baudouin.E. Bocher, No.24.In-4. en haut.",1232,59.0,False,positional,L.M.BONNET,,,,
-BO0624_65739,647815,199,4,Le Diner.——D'apres J. B. Huet. In-4. en haut.,1233,97.4,False,positional,L.M.BONNET,,,,
-BO0624_65739,647816,200,I,"mpressions en couleurs, au reperage.",1235,98.6,False,positional,L.M.BONNET,,,,
+BO0624_65739,647814,198,1,"Le Dejeuner.—D'apres J.B.Huet.In-4. en haut. Le Souper. —D'apres J. B. Huet. In-4. en haut. Le Gouter. --D'apres P. A. Baudouin.E. Bocher, No.24.In-4. en haut.",1232,59.0,False,none,Scuola di Huet J.B.,,,,
+BO0624_65739,647815,199,4,Le Diner.——D'apres J. B. Huet. In-4. en haut.,1233,97.4,False,none,Scuola di Huet J.B.,,,,
+BO0624_65739,647816,200,I,"mpressions en couleurs, au reperage.",1235,98.6,False,none,,,,,
 BO0624_65739,647817,201,238,"The Palais RoyalGarden Walk.-Promenadedu Jardin du Palais R o y a 1. — Imprimee en couleurs. Datee 1787. Adresse: A Paris, Rue St. Jacques, N°. 55. —Gr. in-folio obl.——Encadrée. Grandes marges.",1241,98.9,False,positional,LOUIS LE COEUR,,,,Sec. XVIII
 BO0624_65739,647818,202,239,La Pro m e na de Pu blique.—Imprimee en couleurs.—Gr. in-folio obl.--Grandes,1247,97.3,False,positional,L.P.DEBUCOURT,,,,
-BO0624_65739,647819,203,240,"Le Compliment ou la Matinée du Jour de l'An.Les Bouquets ou la Fete de la Grand-Maman.Une paire de gravures imprimees en couleurs, datees:1787et 1788—,a Paris chez lauteur cour du Louure la 5emeportea gauche en entrant par la colonade au Ier.'—-In-folio ——Encadree.",1252,99.2,False,positional,L.P.DEBUCOURT,,STAMPE E INCISIONI,,Sec. XVIII
-BO0624_65739,647820,204,241,"Les deux baisers.Gravure imprimée en couleurs, datee:1766,—,a Paris chez lauteur, Cour du vieux Louure la 5eme porte agauche en entrant par la Colonade au premier."" n-folio obl.—Encadrée.",1256,92.7,False,positional,L.P.DEBUCOURT,,STAMPE E INCISIONI,,Sec. XVIII
-BO0624_65739,647821,205,242,"La R o s e.—La M a i n.—Une paire de gravures imprimees en couleurs. Avec les vers.— Se vend a Paris chez Depeuille,Md.d'Estampes, Rue Denis no.52.Section de Bon Conseil.",1258,98.8,False,positional,L.P.DEBUCOURT,,STAMPE E INCISIONI,,
-BO0624_65739,647822,206,243,"Frederique Sophie Wilhelmine, Princesse d'Orange.",1262,96.9,False,positional,L.P.DEBUCOURT,,,,
-BO0624_65739,647823,207,244,Frédérique Louise Wilhelmine.,1268,94.9,False,positional,L.P.DEBUCOURT,,,,
+BO0624_65739,647819,203,240,"Le Compliment ou la Matinée du Jour de l'An.Les Bouquets ou la Fete de la Grand-Maman.Une paire de gravures imprimees en couleurs, datees:1787et 1788—,a Paris chez lauteur cour du Louure la 5emeportea gauche en entrant par la colonade au Ier.'—-In-folio ——Encadree.",1252,99.2,False,none,,,STAMPE E INCISIONI,,Sec. XVIII
+BO0624_65739,647820,204,241,"Les deux baisers.Gravure imprimée en couleurs, datee:1766,—,a Paris chez lauteur, Cour du vieux Louure la 5eme porte agauche en entrant par la Colonade au premier."" n-folio obl.—Encadrée.",1256,92.7,False,none,,,STAMPE E INCISIONI,,Sec. XVIII
+BO0624_65739,647821,205,242,"La R o s e.—La M a i n.—Une paire de gravures imprimees en couleurs. Avec les vers.— Se vend a Paris chez Depeuille,Md.d'Estampes, Rue Denis no.52.Section de Bon Conseil.",1258,98.8,False,none,,,STAMPE E INCISIONI,,
+BO0624_65739,647822,206,243,"Frederique Sophie Wilhelmine, Princesse d'Orange.",1262,96.9,False,none,,,,,
+BO0624_65739,647823,207,244,Frédérique Louise Wilhelmine.,1268,94.9,False,none,,,,,
 BO0624_65739,647824,208,245,"Les Nou veau x E pou x. -Jeune mari surprenant son epouse a sa toilette. Gravure par Mixelle, imprimee en couleurs.Avec A.P.D.R. et sans noms des artistes. Encadree.",1278,98.8,False,positional,C.L.DESRAIS,,OGGETTI VARI,,
 BO0624_65739,647825,209,246,"La Déclara tio n.-L'Ama nt Pre s san t.—Une paire de gravures par A.Legrand,",1284,97.3,False,positional,J.B.HUET,,STAMPE E INCISIONI,,
-BO0624_65739,647826,210,247,"L'Heur eu x Cha t.-Gravure imprimee en couleurs. Bonnet direx.Encadree. a La Ch ute Ina te n d ue.-Gravure par J. Morret, imprimee en couleurs. A ladresse de Bonnet.—Encadree.",1287,72.9,False,positional,J.B.HUET,,STAMPE E INCISIONI,,
+BO0624_65739,647826,210,247,"L'Heur eu x Cha t.-Gravure imprimee en couleurs. Bonnet direx.Encadree. a La Ch ute Ina te n d ue.-Gravure par J. Morret, imprimee en couleurs. A ladresse de Bonnet.—Encadree.",1287,72.9,False,none,,,STAMPE E INCISIONI,,
 BO0624_65739,647827,211,248,"L'Aveu difficile.Gravure par F. Janinet,1787,imprimee en couleurs.",1291,97.7,False,positional,N.LAVREINCE,,STAMPE E INCISIONI,,Sec. XVIII
-BO0624_65739,647828,212,249,"La Co m pa ra iso n. -Gravure par Janinet, 1786, imprimee en couleurs.",1292,97.0,False,positional,N.LAVREINCE,,STAMPE E INCISIONI,,Sec. XVIII
-BO0624_65739,647829,213,25,"o L'Indiscretion.Gravure par F. Janinet,imprimee en couleurs.",1293,98.3,False,positional,N.LAVREINCE,,STAMPE E INCISIONI,,
-BO0624_65739,647830,214,I,"s sont encadrés, les adresses sont coupees.",1297,98.8,False,positional,N.LAVREINCE,,,,
+BO0624_65739,647828,212,249,"La Co m pa ra iso n. -Gravure par Janinet, 1786, imprimee en couleurs.",1292,97.0,False,none,JANINET FRANCOIS,,STAMPE E INCISIONI,,Sec. XVIII
+BO0624_65739,647829,213,25,"o L'Indiscretion.Gravure par F. Janinet,imprimee en couleurs.",1293,98.3,False,none,JANINET FRANCOIS,,STAMPE E INCISIONI,,
+BO0624_65739,647830,214,I,"s sont encadrés, les adresses sont coupees.",1297,98.8,False,none,,,,,
 BO0624_65739,647831,215,252,",The Wo man ta King Coffée'.--,The Milk Woman"".-Une paire de gravures",1301,96.9,False,positional,L.MARIN-BONNET,,STAMPE E INCISIONI,,
 BO0624_65739,647832,216,253,Les deux boutons. Le miroir consulté.-Une paire de gravures imprimees en couleurs.—Encadrees.,1306,98.3,False,positional,P.A.WILLE,,SPECCHI,,
 BO0624_65739,647833,217,256,Dulce Domum or the Return from School.-BlackMonday or the,1311,96.6,False,positional,W.R.BIGG,,,,
 BO0624_65739,647834,218,257,"A Visit to the Boarding School.-AVisit to the Child at Nurse. Dec.28, 1789,by J.R.Smith.——fol.oblong.—Marges.——Encadrées.",1316,98.7,False,positional,G.MORLAND,,,,Sec. XVIII
-BO0624_65739,647835,219,258,A Party Angling.-The Anglers Repast.-Une paire de gravures par G. Keating et W. Ward imprimees en couleurs.Publ. London.Nov.28th. 1789 by J.R. Smith.— Encadrees.,1317,99.0,False,positional,G.MORLAND,,STAMPE E INCISIONI,,Sec. XVIII
-BO0624_65739,647836,220,261,Prepanning a recruit.-Recruit deserted.-Une paire de gravures par,1322,96.9,False,positional,G.MORLAND,,STAMPE E INCISIONI,,
+BO0624_65739,647835,219,258,A Party Angling.-The Anglers Repast.-Une paire de gravures par G. Keating et W. Ward imprimees en couleurs.Publ. London.Nov.28th. 1789 by J.R. Smith.— Encadrees.,1317,99.0,False,none,,,STAMPE E INCISIONI,,Sec. XVIII
+BO0624_65739,647836,220,261,Prepanning a recruit.-Recruit deserted.-Une paire de gravures par,1322,96.9,False,none,,,STAMPE E INCISIONI,,
 BO0624_65739,647837,221,262,"The Family distress occasioned by the Loss of a Child.-The Family's Happiness restored by their Childs return.-Une paire de gravures d'apres Cosse,imprimees en couleurs.Directed by L. Schiavonetti. London, Publ.",1326,99.3,False,positional,M.PLACE,,STAMPE E INCISIONI,,
 BO0624_65739,647838,222,263,Tom and his pidgeons.-The favorite rabbit.-Une paire de gravures,1331,96.9,False,positional,J.RUSSELL,,STAMPE E INCISIONI,,
 BO0624_65739,647839,223,264,"Serie de quatre gravures d'apres et par J. R. Smith, imprimees en couleurs. Publ. London Jan.Ist I79I.-In-fol.-Encadrées.——Marges.",1335,98.4,False,positional,J.R.SMITH,,STAMPE E INCISIONI,,
 BO0624_65739,647840,224,265,"Selling Rabbits.—The Citizens Retreat.-Publ. Jany. I,I796.—Une paire de gravures par W.Ward, imprimees en couleurs.-Gr. in-fol. obl.-Encadrees. Marges.",1353,98.6,False,positional,J.WARD,,STAMPE E INCISIONI,,
 BO0624_65739,647841,225,266,"V e n u s a n d C u p i d s. - Gravure par R. M. Meadows, imprimee en couleurs. Publ. London, Jan.22,1797.-Encadrée.",1357,98.1,False,positional,R.WESTALL,,STAMPE E INCISIONI,,Sec. XVIII
-BO0624_65739,647842,226,267,F. WHEATLEY. The Full of the Honey Moon.The Wane of the Honey Moon.—Une paire de gravures a la maniere noire par R. Laurie.- Encadrees.,1358,98.5,False,positional,R.WESTALL,,STAMPE E INCISIONI,,
-BO0624_65739,647843,227,268,P. SIMON d'apres W. PETERS. -Sha kes peare. Much ado a bout not hing.Gravure encadree.,1359,97.6,False,positional,R.WESTALL,,STAMPE E INCISIONI,,
+BO0624_65739,647842,226,267,F. WHEATLEY. The Full of the Honey Moon.The Wane of the Honey Moon.—Une paire de gravures a la maniere noire par R. Laurie.- Encadrees.,1358,98.5,False,none,,,STAMPE E INCISIONI,,
+BO0624_65739,647843,227,268,P. SIMON d'apres W. PETERS. -Sha kes peare. Much ado a bout not hing.Gravure encadree.,1359,97.6,False,none,,,STAMPE E INCISIONI,,
 BO0624_65739,647844,228,26,"g Findin g (In a bo g). - The Ret u r n Ho me. - Une paire de gravures en couleurs d'apres W. P. Hodges. London, Publ. July Ist 1833.- Encadrees. Breaking Cover (Hold Hard)-Beating a Gorse Cover.-Overa Brook.- Going at a Stone Wall.-Yoi, yoi, at him Hannibal.Th e D e a t h. (W o o h o o p). -- Suite de six estampes, en couleurs. Publ. London, March,I, 1825, by S. &amp; J. Fuller. -Encadrées.",1389,77.0,False,positional,H.ALKEN,,BIANCHERIA,,Sec. XIX
 BO0624_65739,647845,229,27,"IHorse Dealings NoI-No 2.Messrs Screwdriver &amp; Reardone opinions conde gravures d'apres R. Scanlan.Publ. Aug.2,1841.—Encadrees.",1393,99.2,False,positional,J.HARRIS,,STAMPE E INCISIONI,,Sec. XIX
-BO0624_65739,647846,230,272,"Fores's Coaching Recollections. -All Right. Gravure d'apres C. C. Henderson, imprimee en couleurs. London, Publ. Jan. I, 1843.— Grandes marges. —Encadrée.",1394,98.6,False,positional,J.HARRIS,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_65739,647846,230,272,"Fores's Coaching Recollections. -All Right. Gravure d'apres C. C. Henderson, imprimee en couleurs. London, Publ. Jan. I, 1843.— Grandes marges. —Encadrée.",1394,98.6,False,none,,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_65739,647847,231,273,Preparing to Start.-At Speed.-Winning. - Weighing &amp; Rubbing 1825.-Encadrees.,1398,97.3,False,positional,G.HUNT,,,,Sec. XIX
 BO0624_65739,647848,232,274,"Li ver po o1 Gra n d St ee ple C ha se. 1839. -I. Stone Wall, First round. -II.Brook Suite de quatre nd Second round.III.Brook 3rd Second Round.—IV.Coming In.gravures imprimees en couleurs. London, Publ. June, 1, 1839. - Encadrees.",1403,71.6,False,positional,CH. HUNT,,STAMPE E INCISIONI,,Sec. XIX
-BO0624_65739,647849,233,275,Leamington Grand Steeple Chase 1837.-S Suite de quatre gravures d'apres,1404,97.9,False,positional,CH. HUNT,,STAMPE E INCISIONI,,Sec. XIX
+BO0624_65739,647849,233,275,Leamington Grand Steeple Chase 1837.-S Suite de quatre gravures d'apres,1404,97.9,False,none,,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_65739,647850,234,276,"Tom Moody. - The Whipper In. - Suite de quatre gravures par Geo. Hunt, imprimees",1409,97.3,False,positional,J. POLLARD,,STAMPE E INCISIONI,,
-BO0624_65739,647851,235,277,"Mc Queen's Coachings. London, Publ. Dec. Ist 189o. - Grandes marges. —— Encadree.",1412,97.2,False,positional,J. POLLARD,,,,
+BO0624_65739,647851,235,277,"Mc Queen's Coachings. London, Publ. Dec. Ist 189o. - Grandes marges. —— Encadree.",1412,97.2,False,none,,,,,
 BO0624_65739,647852,236,278,"H u n t e r s a t Gr a s s. - Gravure d'apres B. Marshall imprimee en couleurs. Publ. Cambridge Jan.I,1812.Sur papier Whatman,181o.-Marges.——Encadrée.",1416,98.6,False,positional,W.WARD,,STAMPE E INCISIONI,,Sec. XIX
-BO0624_65739,647853,237,279,Artistes anonymes.—S Suite de huit petites estampes en couleurs a sujets de chasse au renard (Fox Hunting).- Encadrees.,1417,98.3,False,positional,W.WARD,,STAMPE E INCISIONI,,
-BO0624_65739,647854,238,28,"o P.C. LA FARGUE.-Gezigt van 't Groots Gebouw van Bentinck in 't Voorhout te 'sGravenhage, gelyk t Zig A° I75I vertoonde toen het ten Stadhouderlijk Verblyf diende.-Gravure signeeetdatee: 1757.-Encadree.",1421,99.5,False,positional,W.WARD,,STAMPE E INCISIONI,,Sec. XVIII
-BO0624_65739,647855,239,281,"C.H.HODGES.Rutger Jan Schimmelpenninck,RaadPensionaris der Ba taafsc he Repu bliek. Portrait a la maniere noire. Gr. in-fol.- Encadrée. b,Les sentinelles en Defaut"".-,Vous avez la Clef,mais ila trouvé la Serrure"". Une paire de gravures anonymes, imprimees en couleuts.— Encadrees.",1424,67.0,False,positional,W.WARD,,STAMPE E INCISIONI,,
-BO0624_65739,647856,240,282,R.VINKELES dapres T. P. C.HAAG.-Willem de V et Frederica Sophia Wil hel mina.- Une paire de portraits equestres graves.- Encadres.,1425,98.4,False,positional,W.WARD,,,,
-BO0624_65739,647857,241,283,"Malle Jan,de snelste Harddraver van Europa,te Rotterdam door een Liefhebber naar het leve getekend en in het kooper gebracht, 1768.— Gravure anonyme encadree.",1426,98.7,False,positional,W.WARD,,STAMPE E INCISIONI,,Sec. XVIII
-BO0624_65739,647858,242,284,Sous ce numero se vendront des estampes diverses.  I3 pieces.,1427,96.7,False,positional,W.WARD,,OGGETTI VARI,,
-BO0624_65739,647859,243,285,"C.L.AGRIcOLA.-Bouquets de fleurs dans des fioles en verre translucide placées sur une table ou l'on voit des insectes.-Une paire de gouaches se faisant pendants, encadrees.—Haut. 32.5, larg.26 cent.",1430,99.0,False,positional,W.WARD,,,,
-BO0624_65739,647860,244,286,C. L.AGRIcOLA.-Oiseau perche sur une branche d'arbre.Aquarelle,1431,96.8,False,positional,W.WARD,,,,
-BO0624_65739,647861,245,287,"JAN DE BEYER.-Vue du gra nd marché a Harlem.-Aquarelle encadree.Haut.23, larg. 37 cent.",1433,97.6,False,positional,W.WARD,,,,
-BO0624_65739,647862,246,289,"J. CATs.-,te Warmond langs de kerkop het huys van den Predikguant en het Kost School te zien'.—Aquarelle encadrée.-Signee et datee: Haut.32, larg.44.5 cent.",1435,90.2,False,positional,W.WARD,,,,
-BO0624_65739,647863,247,290,"J.CATS. Aquarelle encadree, signee au revers et daté: 1792.——Haut. 27, larg.36 cent.",1438,97.4,False,positional,W.WARD,,,,Sec. XVIII
-BO0624_65739,647864,248,291,"J.CATs.—,,Aan delaage Vuursche, bij hetinkomen van Hilversum"" —Aquarelle encadree, signee au revers et datee: 1794.—Haut. 28.5, larg.38.5 cent.",1439,98.5,False,positional,W.WARD,,,,Sec. XVIII
-BO0624_65739,647865,249,292,"RIDDER COLONNA. — Dia n e. ——B a c c h u s. —— Une paire de dessins, signes, encadrés.-— Haut. 14, larg. 19 cent.",1440,97.9,False,positional,W.WARD,,,,
-BO0624_65739,647866,250,292,"B. CRAEYVANGER.-Dans la ména gerie.-Aquarelle signee et encadree. Haut.18,larg.25.5 cent.",1441,97.7,False,positional,W.WARD,,,,
-BO0624_65739,647867,251,294,"D. DALENs. -Paysage montagneux avec ruines et chateaux. Aquarelle signee, encadree.— Haut.27,larg.36.5 cent.",1442,98.0,False,positional,W.WARD,,,,
+BO0624_65739,647853,237,279,Artistes anonymes.—S Suite de huit petites estampes en couleurs a sujets de chasse au renard (Fox Hunting).- Encadrees.,1417,98.3,False,none,,,STAMPE E INCISIONI,,
+BO0624_65739,647854,238,28,"o P.C. LA FARGUE.-Gezigt van 't Groots Gebouw van Bentinck in 't Voorhout te 'sGravenhage, gelyk t Zig A° I75I vertoonde toen het ten Stadhouderlijk Verblyf diende.-Gravure signeeetdatee: 1757.-Encadree.",1421,99.5,False,none,,,STAMPE E INCISIONI,,Sec. XVIII
+BO0624_65739,647855,239,281,"C.H.HODGES.Rutger Jan Schimmelpenninck,RaadPensionaris der Ba taafsc he Repu bliek. Portrait a la maniere noire. Gr. in-fol.- Encadrée. b,Les sentinelles en Defaut"".-,Vous avez la Clef,mais ila trouvé la Serrure"". Une paire de gravures anonymes, imprimees en couleuts.— Encadrees.",1424,67.0,False,none,,,STAMPE E INCISIONI,,
+BO0624_65739,647856,240,282,R.VINKELES dapres T. P. C.HAAG.-Willem de V et Frederica Sophia Wil hel mina.- Une paire de portraits equestres graves.- Encadres.,1425,98.4,False,none,,,,,
+BO0624_65739,647857,241,283,"Malle Jan,de snelste Harddraver van Europa,te Rotterdam door een Liefhebber naar het leve getekend en in het kooper gebracht, 1768.— Gravure anonyme encadree.",1426,98.7,False,none,,,STAMPE E INCISIONI,,Sec. XVIII
+BO0624_65739,647858,242,284,Sous ce numero se vendront des estampes diverses.  I3 pieces.,1427,96.7,False,none,,,OGGETTI VARI,,
+BO0624_65739,647859,243,285,"C.L.AGRIcOLA.-Bouquets de fleurs dans des fioles en verre translucide placées sur une table ou l'on voit des insectes.-Une paire de gouaches se faisant pendants, encadrees.—Haut. 32.5, larg.26 cent.",1430,99.0,False,none,,,,,
+BO0624_65739,647860,244,286,C. L.AGRIcOLA.-Oiseau perche sur une branche d'arbre.Aquarelle,1431,96.8,False,none,,,,,
+BO0624_65739,647861,245,287,"JAN DE BEYER.-Vue du gra nd marché a Harlem.-Aquarelle encadree.Haut.23, larg. 37 cent.",1433,97.6,False,none,,,,,
+BO0624_65739,647862,246,289,"J. CATs.-,te Warmond langs de kerkop het huys van den Predikguant en het Kost School te zien'.—Aquarelle encadrée.-Signee et datee: Haut.32, larg.44.5 cent.",1435,90.2,False,none,,,,,
+BO0624_65739,647863,247,290,"J.CATS. Aquarelle encadree, signee au revers et daté: 1792.——Haut. 27, larg.36 cent.",1438,97.4,False,none,,,,,Sec. XVIII
+BO0624_65739,647864,248,291,"J.CATs.—,,Aan delaage Vuursche, bij hetinkomen van Hilversum"" —Aquarelle encadree, signee au revers et datee: 1794.—Haut. 28.5, larg.38.5 cent.",1439,98.5,False,none,,,,,Sec. XVIII
+BO0624_65739,647865,249,292,"RIDDER COLONNA. — Dia n e. ——B a c c h u s. —— Une paire de dessins, signes, encadrés.-— Haut. 14, larg. 19 cent.",1440,97.9,False,none,,,,,
+BO0624_65739,647866,250,292,"B. CRAEYVANGER.-Dans la ména gerie.-Aquarelle signee et encadree. Haut.18,larg.25.5 cent.",1441,97.7,False,none,,,,,
+BO0624_65739,647867,251,294,"D. DALENs. -Paysage montagneux avec ruines et chateaux. Aquarelle signee, encadree.— Haut.27,larg.36.5 cent.",1442,98.0,False,none,,,,,
 BO0624_65739,647868,252,295,"J. GRIFFIER (Maniere de).-Vue de riviere serpentant a travers une valleeetlongeant desrives montagneusesavec des vues devilles et des cha t eau x;au premier plan des embarcations.Aquarelle encadrée.-Haut.38, larg. 49.5 cent.",1443,99.1,False,title_direct,JAN GRIFFIER,,,,
-BO0624_65739,647869,253,296,"W.HENDRIKS. -Distribution de nourriture aux pau vres de Harlem. ——Aquarelle encadree, signe des initiales au verso.—Haut. 3o, larg.39 cent.",1444,98.5,False,positional,W.WARD,,,,
-BO0624_65739,647870,254,297,"W.HENDRIKS. -Fete publique au village de Ede (Gueldre). -Aquarelle encadrée.— Annotée au verso:,Optocht der boeren te Ede, den 8 Maart 1785,voor het huis van den Predikant"".——Haut.26,larg.39 cent.",1445,98.9,False,positional,W.WARD,,,,Sec. XVIII
-BO0624_65739,647871,255,298,J. VAN HUCHTENBURG. —(Maniere de).- C ho c s de ca valerie. ——Une paire de,1446,97.0,False,positional,W.WARD,,,,
-BO0624_65739,647872,256,299,"J.A. LANGENDIJK.Scene de foire a vec des sa ltim ba n ques, probablement sur la place nommee jadis,Oude Botermarkt', actuellement le,Rambrandtplein'a Amsterdam. On y voit un groupe de cavaliers et d'amazones et des pietons. —— Aquarelle encadree. — Signee et datee:18o3.—Haut.25.5,larg.32.5cent.",1448,99.3,False,positional,W.WARD,,,,
-BO0624_65739,647873,257,302,"MAITRE ANONYME.—Vue du ,Dam' avec l'ancien hotel de ville,",1451,96.4,False,positional,W.WARD,,,,
-BO0624_65739,647874,258,303,"MAITRE ANONYME. -Pa ysages boisés a vec figures.-- Une paire de dessins encadres.—Haut.4o,larg.51.5 cent.",1453,98.0,False,positional,W.WARD,,,,
-BO0624_65739,647875,259,304,"MAITRE ANONYME.-Vue d'un jardin de plaisanceavec voliere et vivier; des personnages donnant a manger aux volatiles. ——Dessin encadre.—Haut. 36, larg.27 cent.",1454,98.7,False,positional,W.WARD,,,,
-BO0624_65739,647876,260,305,W. VAN MIERES. —- R e n a u d e t A r m i d e. — Dessin au crayon. — Signe et date: 17o3.-—,1455,97.4,False,positional,W.WARD,,,,
-BO0624_65739,647877,261,307,"H. NUMAN.-Vue de ville en hiver; ca nal prise par la glace. -Aquarelle encadrée.—- Haut. 36.5, larg. 50 cent.",1458,98.0,False,positional,W.WARD,,,,
-BO0624_65739,647878,262,309,"G. J. VAN Os. -- Bé t a il a u pa t u ra g e. -- Aquarelle encadree, signee et datée: 1838. Haut.24.5,larg.33.5 cent.",1460,98.1,False,positional,W.WARD,,,,Sec. XIX
-BO0624_65739,647879,263,310,"DU PRE.-Paysages arcadiens avec figures mythologigues.-Une paire d'aquarelles encadrees, signées et datees: 1785. ——D'apres Francois Millet.—— Haut. 38,",1461,98.6,False,positional,W.WARD,,,,Sec. XVIII
-BO0624_65739,647880,264,311,"J. H. PRINS. — Vu e a D e1ft.  Aquarelle encadree. — Haut. 35, larg. 38.5 cent.",1463,97.0,False,positional,W.WARD,,,,
-BO0624_65739,647881,265,312,"J. H. PRINS. —Vu e a Ley de. —— Aquarelle encadrée. ——Haut. 32.5, larg. 38 cent.",1464,97.0,False,positional,W.WARD,,,,
-BO0624_65739,647882,266,313,"C. PRONK. - L' h otel de ville a Mid del bou r g. —- Dessin en couleurs, encadre. — Haut. 38,larg. 49.5 cent.",1465,97.9,False,positional,W.WARD,,,,
-BO0624_65739,647883,267,314,"A. RADEMAKER.—,St. Jans Kerk en Kerkhof', a Utrecht.—D'apres Jan",1466,96.6,False,positional,W.WARD,,,,
-BO0624_65739,647884,268,315,"VAN DE SANDE BAKHUYZEN. -Patura ge a vec bétail.-Aquarelle encadrée, signee et datée:1841.—Haut.29,larg.41 cent.",1467,98.1,False,positional,W.WARD,,,,Sec. XIX
-BO0624_65739,647885,269,316,"A. SCHOUMAN.-Groupe de volatiles dans un coin de parc: paon faisant la roue, paonne, poules, canard et pigeons.—Aquarelle encadree.—Haut.25,5, larg.37 cent.",1472,98.6,False,positional,W.WARD,,,,
-BO0624_65739,647886,270,317,"H. SPILMAN.-Vue de l'édifice,De Kanselarij'a Leeuwarden. Dessin en couleurs.——Encadré.——Haut. 3o,larg.37 cent.",1473,98.1,False,positional,W.WARD,,,,
-BO0624_65739,647887,271,318,"J.VAN STRIJ.—Berger avec bétail au bord d'un fleuve.-Aquarelle encadree.—Haut.35,larg.43 cent.",1474,97.8,False,positional,W.WARD,,,,
+BO0624_65739,647869,253,296,"W.HENDRIKS. -Distribution de nourriture aux pau vres de Harlem. ——Aquarelle encadree, signe des initiales au verso.—Haut. 3o, larg.39 cent.",1444,98.5,False,none,,,,,
+BO0624_65739,647870,254,297,"W.HENDRIKS. -Fete publique au village de Ede (Gueldre). -Aquarelle encadrée.— Annotée au verso:,Optocht der boeren te Ede, den 8 Maart 1785,voor het huis van den Predikant"".——Haut.26,larg.39 cent.",1445,98.9,False,none,,,,,Sec. XVIII
+BO0624_65739,647871,255,298,J. VAN HUCHTENBURG. —(Maniere de).- C ho c s de ca valerie. ——Une paire de,1446,97.0,False,none,VAN HUCHTENBURG JAN,,,,
+BO0624_65739,647872,256,299,"J.A. LANGENDIJK.Scene de foire a vec des sa ltim ba n ques, probablement sur la place nommee jadis,Oude Botermarkt', actuellement le,Rambrandtplein'a Amsterdam. On y voit un groupe de cavaliers et d'amazones et des pietons. —— Aquarelle encadree. — Signee et datee:18o3.—Haut.25.5,larg.32.5cent.",1448,99.3,False,none,,,,,
+BO0624_65739,647873,257,302,"MAITRE ANONYME.—Vue du ,Dam' avec l'ancien hotel de ville,",1451,96.4,False,none,,,,,
+BO0624_65739,647874,258,303,"MAITRE ANONYME. -Pa ysages boisés a vec figures.-- Une paire de dessins encadres.—Haut.4o,larg.51.5 cent.",1453,98.0,False,none,,,,,
+BO0624_65739,647875,259,304,"MAITRE ANONYME.-Vue d'un jardin de plaisanceavec voliere et vivier; des personnages donnant a manger aux volatiles. ——Dessin encadre.—Haut. 36, larg.27 cent.",1454,98.7,False,none,DU JARDIN KAREL,,,,
+BO0624_65739,647876,260,305,W. VAN MIERES. —- R e n a u d e t A r m i d e. — Dessin au crayon. — Signe et date: 17o3.-—,1455,97.4,False,none,,,,,
+BO0624_65739,647877,261,307,"H. NUMAN.-Vue de ville en hiver; ca nal prise par la glace. -Aquarelle encadrée.—- Haut. 36.5, larg. 50 cent.",1458,98.0,False,none,,,,,
+BO0624_65739,647878,262,309,"G. J. VAN Os. -- Bé t a il a u pa t u ra g e. -- Aquarelle encadree, signee et datée: 1838. Haut.24.5,larg.33.5 cent.",1460,98.1,False,none,,,,,Sec. XIX
+BO0624_65739,647879,263,310,"DU PRE.-Paysages arcadiens avec figures mythologigues.-Une paire d'aquarelles encadrees, signées et datees: 1785. ——D'apres Francois Millet.—— Haut. 38,",1461,98.6,False,none,MILLET JEAN FRANCOIS,,,,Sec. XVIII
+BO0624_65739,647880,264,311,"J. H. PRINS. — Vu e a D e1ft.  Aquarelle encadree. — Haut. 35, larg. 38.5 cent.",1463,97.0,False,none,,,,,
+BO0624_65739,647881,265,312,"J. H. PRINS. —Vu e a Ley de. —— Aquarelle encadrée. ——Haut. 32.5, larg. 38 cent.",1464,97.0,False,none,,,,,
+BO0624_65739,647882,266,313,"C. PRONK. - L' h otel de ville a Mid del bou r g. —- Dessin en couleurs, encadre. — Haut. 38,larg. 49.5 cent.",1465,97.9,False,none,,,,,
+BO0624_65739,647883,267,314,"A. RADEMAKER.—,St. Jans Kerk en Kerkhof', a Utrecht.—D'apres Jan",1466,96.6,False,none,,,,,
+BO0624_65739,647884,268,315,"VAN DE SANDE BAKHUYZEN. -Patura ge a vec bétail.-Aquarelle encadrée, signee et datée:1841.—Haut.29,larg.41 cent.",1467,98.1,False,none,BACKHUYSEN LUDOLF,,,,Sec. XIX
+BO0624_65739,647885,269,316,"A. SCHOUMAN.-Groupe de volatiles dans un coin de parc: paon faisant la roue, paonne, poules, canard et pigeons.—Aquarelle encadree.—Haut.25,5, larg.37 cent.",1472,98.6,False,none,,,,,
+BO0624_65739,647886,270,317,"H. SPILMAN.-Vue de l'édifice,De Kanselarij'a Leeuwarden. Dessin en couleurs.——Encadré.——Haut. 3o,larg.37 cent.",1473,98.1,False,none,,,,,
+BO0624_65739,647887,271,318,"J.VAN STRIJ.—Berger avec bétail au bord d'un fleuve.-Aquarelle encadree.—Haut.35,larg.43 cent.",1474,97.8,False,none,,,,,
 BO0624_65739,647888,272,319,"J.H.VERHEYEN.-Vue de la Cathédrale a Utrecht.-Grande aquarelle encadrée.—Haut.6o.5,larg.78 cent.",1475,97.9,False,title_direct,J.H.VERHEYEN,,,,
 BO0624_65739,647889,273,320,"J.H. VERHEYEN. -Vue de ville; un charlatan haranguant un groupe de ba dau d s.—Aquarelle encadree.—Haut.46.5, larg. 59.5 cent.",1476,98.3,False,title_direct,J.H.VERHEYEN,,,,
-BO0624_65739,647890,274,321,"PHILIP WOUWERMANs. (Maniere de).-Le maréchal-ferrant.Dessin a 1'aquarelle,encadre.—Haut.3o, larg.39 cent.",1477,98.0,False,positional,W.WARD,,,,
-BO0624_65739,647891,275,322,328 Vues topographigues en Hollande et ailleurs. - Sept aquarelles,1478,96.9,False,positional,W.WARD,,,,
-BO0624_65739,647892,276,343,348Portraits de membres de la Maison d'Orange.Six aquarelles encadrees.-Par piece ou en lots.,1482,97.8,False,positional,W.WARD,,,,
-BO0624_65739,647893,277,349,Serie de guatreaquarelles aeffigies de damesavec desattributs sym bolisa nt les qua tre saisons. -Ajoute: deux aquarelles a sujets de dresseurs d'ours et de chiens. —- Six pieces.,1483,98.8,False,positional,W.WARD,,,,
+BO0624_65739,647890,274,321,"PHILIP WOUWERMANs. (Maniere de).-Le maréchal-ferrant.Dessin a 1'aquarelle,encadre.—Haut.3o, larg.39 cent.",1477,98.0,False,none,WOUWERMAN PHILIPS,,,,
+BO0624_65739,647891,275,322,328 Vues topographigues en Hollande et ailleurs. - Sept aquarelles,1478,96.9,False,none,,,,,
+BO0624_65739,647892,276,343,348Portraits de membres de la Maison d'Orange.Six aquarelles encadrees.-Par piece ou en lots.,1482,97.8,False,none,,,,,
+BO0624_65739,647893,277,349,Serie de guatreaquarelles aeffigies de damesavec desattributs sym bolisa nt les qua tre saisons. -Ajoute: deux aquarelles a sujets de dresseurs d'ours et de chiens. —- Six pieces.,1483,98.8,False,none,,,,,

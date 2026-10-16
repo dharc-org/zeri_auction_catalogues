@@ -1,7 +1,7 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_87834,310710,1,1670,1715.,9,61.5,False,positional,ADRIAAN GRYEFF,,,,Sec. XVIII
 BO0624_87834,310711,2,1610,1680.,15,61.5,False,positional,E.v.HEEMSKERK,Scuola Romana,,,Sec. XVII
-BO0624_87834,310712,3,2,Drei Bauern am Fenster rauchend und singend. 1702.,17,92.5,False,positional,E.v.HEEMSKERK,,,,Sec. XVIII
+BO0624_87834,310712,3,2,Drei Bauern am Fenster rauchend und singend. 1702.,17,92.5,False,none,,,,,Sec. XVIII
 BO0624_87834,310713,4,3,"Hirten mit ihren Tieren bei einem Schuppen rastend. Auf Leinwand.Mit dem Namen des Kinstlers bezeichnet.H.16 cm,B.19 cm.S.R. 1690.",24,97.2,False,positional,PEETER BOUT,,,,Sec. XVII
 BO0624_87834,310714,5,4,"Waldpartie mit kriegerischem Transport. Hibsches Bildchen aufLeinwand.H.35 cm,B.43cm.G.R.",30,98.9,False,positional,F.van der MEULEN,,,,
 BO0624_87834,310715,6,5,"Stilleben.Auf einem Steinpostamente Pflaumen, Erdbeeren, Johannisbeeren usw. Sehr feines Bildchen auf Hole.Auf dem Postament bezeichnet.H.24 cm,B.18 cm.G.R.",34,99.3,False,positional,J. de HEEM,,,,
@@ -13,22 +13,22 @@ BO0624_87834,310720,11,10,"Inmitten eines schon komponierten Blumenkranzes mit S
 BO0624_87834,310721,12,11,"Hirten beten das neugeborene Christuskind an. Rechts zwei Engel, in den Luften eine Engelsglorie.",68,98.4,False,positional,J.ROTTENHAMMER,,,,
 BO0624_87834,310722,13,12,"Interieur mit musizierender Gesellschaft. Links eine Dame am Spinett. Hibsches Bild aufHolz.H.43cm,B.67cm.S.R. 1656.",72,96.4,False,positional,DIRK HALS,,ARREDAMENTI,,Sec. XVII
 BO0624_87834,310723,14,13,"Vanitas.-Bei goldenen PrunkgefaBen, einem Beutel mit Geld,eine Sanduhr und ein menschlicher Schadel.",78,98.5,False,positional,PAULUS van PAETZ,,,,
-BO0624_87834,310724,15,17,Jahrhundert.,80,88.0,False,positional,PAULUS van PAETZ,Scuola Fiorentina,,,
-BO0624_87834,310725,16,I,"nteressantes Bild auf Leinwand.Rechts auf einem Zettel die volle Signatur des Kinstlers.1655.H.47 cm, B.47cm.S.R.",82,99.6,False,positional,PAULUS van PAETZ,,,,Sec. XVII
+BO0624_87834,310724,15,17,Jahrhundert.,80,88.0,False,none,,Scuola Fiorentina,,,
+BO0624_87834,310725,16,I,"nteressantes Bild auf Leinwand.Rechts auf einem Zettel die volle Signatur des Kinstlers.1655.H.47 cm, B.47cm.S.R.",82,99.6,False,none,,,,,Sec. XVII
 BO0624_87834,310726,17,14,"Italienische Ansicht mit kastellartigem Gebaude im rechten Vordergrunde. Als Staffage ein junges Madchen, von einem Manne belauscht. Auf Leinwand.Das Bild ist in der Mitte auf einem Vasenpostament bezeichnet.H.100 cm, B.128 cm.G.R.",86,99.3,False,positional,A. de DOMINICIS,,,,
 BO0624_87834,310727,18,15,"Wirtshaus-Interieur mit rauchenden Bauern, um eine Tonne sitzend. AufKupfer.H.20 cm,B.26 cm.S.R. Jahrhundert.",92,92.5,False,positional,L.le NAIN,,ARREDAMENTI,,
 BO0624_87834,310728,19,16,"Reiterschlacht. Sehr lebendig gemaltet Bild aufLeinwand.H.59 cm,B.71 cm.S.R,",98,98.0,False,positional,G.P.RUGENDAS,,OGGETTI VARI,,
-BO0624_87834,310729,20,1666,1742.,100,61.5,False,positional,G.P.RUGENDAS,,,,Sec. XVIII
+BO0624_87834,310729,20,1666,1742.,100,61.5,False,none,,,,,Sec. XVIII
 BO0624_87834,310730,21,1778,1814.,103,61.5,False,positional,JAN KOBELL,,,,Sec. XIX
-BO0624_87834,310731,22,17,Im Vordergrunde einer Wiesenlandschaft stehende Kuh und zwei liegende Schafe Daneben die junge Hirtin. Jahrhundert.,105,93.1,False,positional,JAN KOBELL,,,,
+BO0624_87834,310731,22,17,Im Vordergrunde einer Wiesenlandschaft stehende Kuh und zwei liegende Schafe Daneben die junge Hirtin. Jahrhundert.,105,93.1,False,none,,,,,
 BO0624_87834,310732,23,18,"Niederlandische Dorflandschaft mit Windmuihle.Landlute als Staffage. ReizendesBildchen aufHolz,mit dem Namen desKinstlersbezeichnet.H.22cm,B.20 cm.G.-R. Jahrhundert.",113,95.2,False,positional,NICOLAES MOLENAER,,,,
 BO0624_87834,310733,24,19,"Eine Gelehrtenstube.Der Inhaber erhalt von zwei Landleuten Geld und Viktualien. Im Hintergrunde hangt das beruhmte Gemalde von D. Teniers:Die Bogenschutzen. Interessantes Bild aufLeinwand.H.100 cm,B.158cm.G-R. 1704.",119,98.1,False,positional,B.van den BOSCH,,,,Sec. XVIII
 BO0624_87834,310734,25,20,"Interieur mit lustiger Gesellschaft. Der eine raucht, der andere geigt und der dritte halt ein Glas Bier empor.",125,81.3,False,positional,CORNELIS DUSART,,ARREDAMENTI,,
 BO0624_87834,310735,26,21,"Zwei alte Frauen, an einem Tische sitzend.Die eine halt einen Hund auf dem SchoBe und hebt das Glas.",132,98.5,False,positional,FRANS HALS,,,,
-BO0624_87834,310736,27,2,"Gutes Bildchen aufHolz.H.29cm,B.22 cm.S.R.",133,97.6,False,positional,FRANS HALS,,,,
+BO0624_87834,310736,27,2,"Gutes Bildchen aufHolz.H.29cm,B.22 cm.S.R.",133,97.6,False,none,,,,,
 BO0624_87834,310737,28,17,Jahrhundert.,137,88.0,False,positional,B.van den BOSCH,Scuola Fiorentina,,,
-BO0624_87834,310738,29,22,"Beim Arzt. Ein Doktor in seinem Laboratorium,von Patienten umgeben. Links im Hintergrunde wird eine FuBoperation vollzogen, rechts Adepten bei der Arbeit. Interessantes Bild aufLeinwand.H.66cm,B.84cm.G.-R.",139,99.3,False,positional,B.van den BOSCH,,,,
-BO0624_87834,310739,30,23,"Ein Maler in seinem Atelier, von seinen Schulern umgeben. Gegenstuck zu vorher- gehendem Bilde.",140,89.4,False,positional,B.van den BOSCH,,,,
+BO0624_87834,310738,29,22,"Beim Arzt. Ein Doktor in seinem Laboratorium,von Patienten umgeben. Links im Hintergrunde wird eine FuBoperation vollzogen, rechts Adepten bei der Arbeit. Interessantes Bild aufLeinwand.H.66cm,B.84cm.G.-R.",139,99.3,False,none,,,,,
+BO0624_87834,310739,30,23,"Ein Maler in seinem Atelier, von seinen Schulern umgeben. Gegenstuck zu vorher- gehendem Bilde.",140,89.4,False,none,,,,,
 BO0624_87834,310740,31,24,Halbfigur der Madonna mit dem Christuskind. Die Aureolen mit Ornamenten 1669.,149,94.6,False,positional,,SIENESISCHER MEISTER,,,Sec. XVII
 BO0624_87834,310741,32,25,Blick auf ein Fischerdorf in den hollandischen Dunen. Am Strande im Vorder-,158,98.0,False,positional,ABR. WILLAERTS,,,,
 BO0624_87834,310742,33,26,"Huftbild einer alten Frau mit Kopftuch. In Rembrandtscher Manier gemaltes Bild aufHolz.H.36cm,B.27cm.S.R. 1774.",162,96.3,False,positional,C.W.E.DIETRICH,,,,Sec. XVIII
@@ -39,31 +39,31 @@ BO0624_87834,310746,37,30,Alchimist in seiner Werkstatt iber einem Folianten bru
 BO0624_87834,310747,38,31,Der Chirurg.Ein Bauer wird am Ohr operiert. Seine Familie steht klagend daneben.,201,98.1,False,positional,J. M. MOLENAER,,,,
 BO0624_87834,310748,39,32,"Wirtshaus-Interieur mit trinkenden Bauern; links sitzender Mann,ein Madchen",208,98.0,False,positional,A.von OSTADE,,ARREDAMENTI,,
 BO0624_87834,310749,40,33,Kustenlandschaft mit Stadtchen auf bewaldeter Anhohe.,214,97.2,False,positional,ABR. WILLAERTS,,,,
-BO0624_87834,310750,41,1577,1664.,216,61.5,False,positional,ABR. WILLAERTS,,,,Sec. XVII
+BO0624_87834,310750,41,1577,1664.,216,61.5,False,none,,,,,Sec. XVII
 BO0624_87834,310751,42,1614,1652.,224,61.5,False,positional,BONAVENTUUR PEETERS,,,,Sec. XVII
-BO0624_87834,310752,43,34,"Kustenpartie mit Bauernhof. Links au1 der bewegten See zwei Boote. Holz.Mit Monogramm und Jahreszahl.H.34cm,B.41cm.S.R.",226,98.7,False,positional,BONAVENTUUR PEETERS,,OGGETTI IN LEGNO,,
+BO0624_87834,310752,43,34,"Kustenpartie mit Bauernhof. Links au1 der bewegten See zwei Boote. Holz.Mit Monogramm und Jahreszahl.H.34cm,B.41cm.S.R.",226,98.7,False,none,,,OGGETTI IN LEGNO,,
 BO0624_87834,310753,44,35,"Die heil. Magdalena in einer Felsengrotte betend. Erleuchtet wird die Darstellung durch eine an einem Baumast hangende Lampe. Sehr fein gemaltes Bild auf Holz.H.54cm,B.43 cm.G.R.",229,99.1,False,positional,A. van der WERFF,,OGGETTI IN LEGNO,,
 BO0624_87834,310754,45,36,"Hafenstadt an felsiger Kuste.Im Vordergrunde rechts ein altes Kastell.Der freie Platz im Vordergrunde ist mit Figuren und Tieren staffiert. Leinwand.Linls unten der volle Name des Kiunstlers und die Jahreszahl.H.78cm,B.95cm.S.R. 1672.",235,98.3,False,positional,H. de JODE,,,,Sec. XVII
 BO0624_87834,310755,46,37,"Gerichtsszene. Vor einem Palaste sitzt ein Richter, von vielen Gelehrten um-",242,98.0,False,positional,B.FABRITIUS,,,,
 BO0624_87834,310756,47,38,"Hof eines niederlandischen Bauernhauses. Die Frau ist mit Waschen beschaftigt, der Mann kommt eine Treppe herab. Im Vordergrunde verschiedene Geratschaften.",250,99.0,False,positional,ROELOF de VRIES,,,,
-BO0624_87834,310757,48,2,"Auf Holz.H.69 cm,B.57 cm.S.R.",251,96.6,False,positional,ROELOF de VRIES,,OGGETTI IN LEGNO,,
+BO0624_87834,310757,48,2,"Auf Holz.H.69 cm,B.57 cm.S.R.",251,96.6,False,none,,,OGGETTI IN LEGNO,,
 BO0624_87834,310758,49,1554,1626.,255,61.5,False,positional,PAUL BRILL,,,,Sec. XVII
-BO0624_87834,310759,50,39,Waldlandschaft mit FluB. Im Vordergrunde links predigt Johannes dem ver- 1652.,257,94.6,False,positional,PAUL BRILL,,,,Sec. XVII
+BO0624_87834,310759,50,39,Waldlandschaft mit FluB. Im Vordergrunde links predigt Johannes dem ver- 1652.,257,94.6,False,none,,,,,Sec. XVII
 BO0624_87834,310760,51,40,Mehrere Schiffe auf bewegter See.,267,95.5,False,positional,BONAVENTUUR PEETERS,,,,
 BO0624_87834,310761,52,1658,1702.,271,61.5,False,positional,P.BOUT; BOUDEWYNS,,,,Sec. XVIII
-BO0624_87834,310762,53,1644,1711.,273,61.5,False,positional,P.BOUT; BOUDEWYNS,,,,Sec. XVIII
-BO0624_87834,310763,54,41,"Jahrmarktsszene in einer niederlandischen Stadt. Interessantes Bild mit Humderten von Figuren.Auf Holz.H.55 cm,B.S0 cm.G.-R. 1638.",275,96.8,False,positional,P.BOUT; BOUDEWYNS,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_87834,310762,53,1644,1711.,273,61.5,False,none,,,,,Sec. XVIII
+BO0624_87834,310763,54,41,"Jahrmarktsszene in einer niederlandischen Stadt. Interessantes Bild mit Humderten von Figuren.Auf Holz.H.55 cm,B.S0 cm.G.-R. 1638.",275,96.8,False,none,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87834,310764,55,42,"Die heil. Magdalena in Anbetung des Kruzifixes, im Vordergrunde einer Felslandschaft kniend.",281,98.3,False,positional,CORNELIS CORNELISZ,,,,
-BO0624_87834,310765,56,1631,1668.,285,61.5,False,positional,CORNELIS CORNELISZ,,,,Sec. XVII
+BO0624_87834,310765,56,1631,1668.,285,61.5,False,none,,,,,Sec. XVII
 BO0624_87834,310766,57,1582,1642.,290,61.5,False,positional,P. van LAAR,,,,Sec. XVII
-BO0624_87834,310767,58,43,"Markt auf dem freien Platze einer kleinen Stadt bei Rom. Im Vordergrunde Hirten mit ihrem Vieh sowie tanzende Landleute. Vielfiguriges Bild aufLeinwand.H.68 cm,B.84 cm.S.R. 1680.",292,97.7,False,positional,P. van LAAR,,,,Sec. XVII
+BO0624_87834,310767,58,43,"Markt auf dem freien Platze einer kleinen Stadt bei Rom. Im Vordergrunde Hirten mit ihrem Vieh sowie tanzende Landleute. Vielfiguriges Bild aufLeinwand.H.68 cm,B.84 cm.S.R. 1680.",292,97.7,False,none,,,,,Sec. XVII
 BO0624_87834,310768,59,44,"Fischmarkt in einer Hafenstadt unweit der See. Ein Fischer bietet seine Waren an. Sehr gutes Bild auif Leinwand,mit demMonogramm desKinstlers.H.41 cm,B.56 cm.G-R. 1657.",298,97.5,False,positional,E.van HEEMSKERK,,,,Sec. XVII
 BO0624_87834,310769,60,45,"Halbfigur eines Bauern in schwarzer Kleidung, welcher einen Korb mit Eiern halt. SehrlebendigimAusdruck.AfHolz.H.84cm,B.70cm.G.R. SieheAbbildung aufTafelXVI.",304,99.0,False,positional,A.BLOEMAERT,,,,
 BO0624_87834,310770,61,46,"Bartiger Mann in schwarzer Kleidung, in einem Lehnstuhl sitzend, beide Hande auf die Stuhllehnen gelegt.",308,98.5,False,positional,SCIPIONE da GAETANO,,,,
 BO0624_87834,310771,62,47,Christus am Kreuz zwischen Maria und St. Johannes. Links kniender Donator in Rustung. 1678.,314,95.3,False,positional,BARTHOLOMAUS de BRUYN,,,,Sec. XVII
 BO0624_87834,310772,63,48,Hugelige Landschaft mit reichem Baumwuchs und Wasser. Einige Personen als Staffage. 1733.,322,95.3,False,positional,J. WIJNANTS,,,,Sec. XVIII
 BO0624_87834,310773,64,49,"Vor dem Portal eines Palastes ist eine vornehme Gesellschaft im Begriff, zur Falkenjagd aufzubrechen.",330,98.5,False,positional,KAREL van FALENS,,,,
-BO0624_87834,310774,65,50,"Ecce homo.Auf einer Estrade vor dem Palaste des Pilatus wird Christus dem Volke ausgestelt, letzteres fullt den Vordergrund der Darstellung. AufHolz.Das Monogramm sowiedie BezeichnungEccehomobefindet sich aufeiner Tafel iber der Tir des 1678.",336,98.3,False,positional,KAREL van FALENS,,,,Sec. XVII
+BO0624_87834,310774,65,50,"Ecce homo.Auf einer Estrade vor dem Palaste des Pilatus wird Christus dem Volke ausgestelt, letzteres fullt den Vordergrund der Darstellung. AufHolz.Das Monogramm sowiedie BezeichnungEccehomobefindet sich aufeiner Tafel iber der Tir des 1678.",336,98.3,False,none,,,,,Sec. XVII
 BO0624_87834,310775,66,51,Im Vordergrunde einer Landschaft junger Mann beim Melken einer Kuh. Da- 1639.,346,94.5,False,positional,KAREL DUJARDIN,,,,Sec. XVII
 BO0624_87834,310776,67,52,Landschaft mit schloBartigem Gebaude im Mittelgrunde. Rechts vorn als groBe Staffage die VerstoBung der Hagar.,356,98.6,False,positional,ROELAND SAVERY,,,,
 BO0624_87834,310777,68,53,"Toter Schwan im Vordergrunde einer Landschaft,von einem Baumstamm herabhangend.Daneben Melonen. 1616.",362,95.9,False,positional,J. WEENIX,,,,Sec. XVII
@@ -71,24 +71,24 @@ BO0624_87834,310778,69,54,"Das Gastmahl des Belsazar. In einer koniglichen Halle
 BO0624_87834,310779,70,55,"Brustbild eines Orientalen mit Turban. Die Rechte ruht auf der Brust. Kraiftig gemaltes Bild in Rembrandt'scher Mamier.Auf Holz.H.81 cm,B.65 cm.S.R.",372,99.0,False,positional,A.de GELDER,,OGGETTI IN LEGNO,,
 BO0624_87834,310780,71,56,Landschaft mit altem Dom bei Abendbeleuchtung. Als Staffage heimkehrende Hirten mit ihrer Herde.,376,84.5,False,positional,JAN LOOTEN,,,,
 BO0624_87834,310781,72,57,Die Abrechnung. Anscheinend eine Darstellung aus den Gleichnissen Christi.,383,98.0,False,positional,G.van EECKHOUT,,,,
-BO0624_87834,310782,73,2,In einer Halle empfangen Weinbergsarbeiter vom Besitzer den Lohn fur ihre Muhe.,384,98.7,False,positional,G.van EECKHOUT,,,,
+BO0624_87834,310782,73,2,In einer Halle empfangen Weinbergsarbeiter vom Besitzer den Lohn fur ihre Muhe.,384,98.7,False,none,,,,,
 BO0624_87834,310783,74,1676,1765.,390,61.5,False,positional,TH. MICHAU,,,,Sec. XVIII
-BO0624_87834,310784,75,58,Landschaft mit Blick auf ein angebautes FluBtal. Rechts auf einer Anhohe ein 1642.,392,94.9,False,positional,TH. MICHAU,,,,Sec. XVII
+BO0624_87834,310784,75,58,Landschaft mit Blick auf ein angebautes FluBtal. Rechts auf einer Anhohe ein 1642.,392,94.9,False,none,,,,,Sec. XVII
 BO0624_87834,310785,76,59,"Viehmarkt auf einem freien Platz,mit Tempeln und Ruinen.Rechts ein Erfrischungszelt mit zechenden Soldaten. Schones,reich komponiertes Bild aufLeinwand.H.60 cm,B.80 cm.S.R. 1643.",403,97.7,False,positional,PIETER van LAAR,,,,Sec. XVII
 BO0624_87834,310786,77,60,"Lasset die Kindlein zu mir kommen. Christus, inmitten seiner Junger sitzend, liebkost Kinder.",409,98.3,False,positional,M. PEPIJN,,,,
 BO0624_87834,310787,78,61,"Die Ehebrecherin vor Christus.Der Heiland, in der Mitte stehend,halt die Ehebrecherin an der Hand,wahrend er die bekannten biblischen Worte zu sprechen scheint. Der ganze ibrige Raum des Bildes mit Pharisaern angefuillt. 1638.",415,98.2,False,positional,LUCAS CRANACH,,,,Sec. XVII
 BO0624_87834,310788,79,62,"Halbfigur eines jungen Madchens in rotem, mit Goldtressen besetztem Kostim. Auf dem Haupte eine mit Perlen gezierte Haube,um den Hals einen prachtigen Spitzenkragen. 1567.",425,97.6,False,positional,PAULUS MOREELSE,,,,Sec. XVI
 BO0624_87834,310789,80,63,"St.Hieronymus in Kardinalstracht vor dem Lesepult in seiner Zelle. Rechts im Hintergrunde Landschaft. nteressantes Bild auf Holz,mit mehrfachen Inschriften.H.77 cm,B.105 cm.G-R.",433,71.7,False,positional,MARINUS van ROMMERSWALE,,OGGETTI IN LEGNO,,
 BO0624_87834,310790,81,64,"Die Brustbilder St. Johannes, des Taufers, St. Andreas und St. Petrus, von Aureolen umgeben. Auf ornamentiertem Goldgrund. Jeder Kopf in einer durch Pilaster hergestellten Abteilung.",441,99.1,False,positional,,SPANISCHER MEISTER,,,
-BO0624_87834,310791,82,65,"Aehnliche Darstellung in ahnlicher Anordnung. St. Andreas, St. Jacobus und St.Philippus. 1671.",442,95.4,False,positional,,SPANISCHER MEISTER,,,Sec. XVII
+BO0624_87834,310791,82,65,"Aehnliche Darstellung in ahnlicher Anordnung. St. Andreas, St. Jacobus und St.Philippus. 1671.",442,95.4,False,none,,,,,Sec. XVII
 BO0624_87834,310792,83,66,"In einer Halle Christus mit seinen Jungern beim Abendmahl. Der Maler hat den Augenblick dargestellt, wo Christus die Worte spricht: Einer von Euch wird mich verraten. nRembrandtschem Heldunlel gemaltesBild.Links im dunllen Grunde signiert.H.47cm,B.60cm.G.-R.",450,77.7,False,positional,J. de Wet,,,,
 BO0624_87834,310793,84,67,In einer auBerordentlich reich komponierten Landschaft mit zahlreichen Gebauden und reicher Figurenstaffage im Vordergrunde links die auf der Flucht ruhende heil.Familie. 1574.,459,97.7,False,positional,J.de PATINIER,,,,Sec. XVI
 BO0624_87834,310794,85,68,Brustbild des Apostels Paulus mit Buch und Schwert.,467,97.1,False,positional,MARTEN van HEEMSKERK,,,,
 BO0624_87834,310795,86,69,In einem schon komponierten Blumenkranz die Verkundigung der Jungfrau,474,97.9,False,positional,D.SEGHERS; J.ROTTENHAMMER,,,,
 BO0624_87834,310796,87,1682,1759.,486,61.5,False,positional,J.J.HOREMANS,,,,Sec. XVIII
-BO0624_87834,310797,88,71,72. Trinkende Gesellschaft bei einer Fontaine. Musizierende Gesellschaft auf einer Parkterrasse.,488,98.4,False,positional,J.J.HOREMANS,,,,
+BO0624_87834,310797,88,71,72. Trinkende Gesellschaft bei einer Fontaine. Musizierende Gesellschaft auf einer Parkterrasse.,488,98.4,False,none,,,,,
 BO0624_87834,310798,89,I,"nteressantes Bild auf einer oben abgerundeten Holztafel.H.74 cm,B.65 cm.S.R.",496,99.3,False,positional,,FLAMISCHE SCHULE,,,
-BO0624_87834,310799,90,73,Die Anbetung der heil. drei Konige. Im Hintergrunde eine Landschaft mit Gebauden. 1680.,498,95.1,False,positional,,FLAMISCHE SCHULE,,,Sec. XVII
+BO0624_87834,310799,90,73,Die Anbetung der heil. drei Konige. Im Hintergrunde eine Landschaft mit Gebauden. 1680.,498,95.1,False,none,,,,,Sec. XVII
 BO0624_87834,310800,91,74,"Landschaft. In der Mitte Kirche, von Baumen umgeben, etwas weiter zurick die Dacher eines Dorfes.",504,98.4,False,positional,J. van KESSEL,,,,
 BO0624_87834,310801,92,75,"Die heilige Katharina von Alexandria,die Krone auf dem Haupte,mit ihren Marterinstrumenten auf dem Korper ihres Peinigers stehend. Letzterer in konig-",510,99.0,False,positional,,SPANISCHER MEISTER,,,
 BO0624_87834,310802,93,76,"Bauernhof. Im Vordergrunde Wascherinnen bei einem Ziehbrunnen, ein Bauernkarren,Vieh verschiedener Art usw. 1678.",521,96.3,False,positional,P.SCHOUBROECK,,,,Sec. XVII
@@ -98,35 +98,35 @@ BO0624_87834,310805,96,79,"Christus am Kreuz zwischen Maria und St. Johannes. Zu
 BO0624_87834,310806,97,80,Niederlandische FluBlandschaft mit Fischern.Rechts am Ufer hinter Baumen eine Dorfkirche. 1556.,550,95.7,False,positional,JAN van GOIJEN,,,,Sec. XVI
 BO0624_87834,310807,98,81,"Christus, an eine Saule gefesselt, von drei Henkern gegeiBelt. Links unten ein anbetender Donator. Jahrhundert.",558,92.6,False,positional,BARTH. de BRUYN,,,,
 BO0624_87834,310808,99,82,"St. Clemens in ganzer Figur stehend, die Rechte auf einen Muhlstein gestutzt, die Linke eine Palme haltend. Die Goldornamente sowie der ornamentierte Hinter-",566,99.0,False,positional,,SPANISCHER MEISTER,,,
-BO0624_87834,310809,100,2,grund in erhabener Arbeit.,567,96.2,False,positional,,SPANISCHER MEISTER,,,
-BO0624_87834,310810,101,1564,1638.,574,61.5,False,positional,,SPANISCHER MEISTER,,,Sec. XVII
+BO0624_87834,310809,100,2,grund in erhabener Arbeit.,567,96.2,False,none,,,,,
+BO0624_87834,310810,101,1564,1638.,574,61.5,False,none,,,,,Sec. XVII
 BO0624_87834,310811,102,83,"Im Vordergrunde einer schon komponierten Landschaft ein aus Kriegsknechten und Volk bestehender Zug,Christus und die beiden Schacher zur Schadelstatte geleitend. Ein Hauptbild des Meisters mit vollem Kinstlernamen.Auf Holz.H.120 cm,B.162 cm. G-R.",578,99.4,False,positional,PIETER BRUEGHEL d.J.,,OGGETTI IN LEGNO,,
 BO0624_87834,310812,103,84,In einer Halle Christus von den Pharisaern umgeben die biblischen Worte auf 1629.,582,94.9,False,positional,OTHO van VEEN,,,,Sec. XVII
 BO0624_87834,310813,104,85,"Das Urteil. In einer Saulenhalle sitzt auf einem Thron der Konig, von seinem Darstellung aus der Geschichte des Moses. 1632.",590,96.6,False,positional,H.van BALEN,,,,Sec. XVII
 BO0624_87834,310814,105,86,Vor den Toren einer niederlandischen Stadt tummeln sich zahlreiche Personen auf,602,98.1,False,positional,CLAAS MOLENAER,,,,
 BO0624_87834,310815,106,87,"Die Konigin von Saba auf einem Thron sitzend emptangt in Gegenwart ihres Hofstaates die Geschenke des Konigs David. Leinwand.H.90 cm,B.125 cm.G.R.",608,99.0,False,positional,G. B. TIEPOLO,,,,
-BO0624_87834,310816,107,2,"stuck zu vorhergehendem Bilde. Leinwand.H.90 cm,B.125 cm.G.-R.",609,98.3,False,positional,G. B. TIEPOLO,,,,
+BO0624_87834,310816,107,2,"stuck zu vorhergehendem Bilde. Leinwand.H.90 cm,B.125 cm.G.-R.",609,98.3,False,none,STUCK FRANZ VON,,,,
 BO0624_87834,310817,108,89,"Grofe Waldlandschaft mit Durchblick ins Freie. Im Vordergrunde zwei Kuhe, einen Bach durchschreitend.",613,82.6,False,positional,ROELOF van VRIES,,,,
 BO0624_87834,310818,109,90,"Inneres einer gotischen Kirche mit reicher Architektur.Im Vordergrunde die nach den Emporen fihrende Treppe. Als Staffage Christus und die Ehebrecherin. AufHolz.H.90 cm,B.120 cm.S.R. SieheAbbildung aufTafelVI.",622,99.3,False,positional,ANTONIS de LORME,,,,
-BO0624_87834,310819,110,1631,1668.,624,61.5,False,positional,ANTONIS de LORME,,,,Sec. XVII
+BO0624_87834,310819,110,1631,1668.,624,61.5,False,none,,,,,Sec. XVII
 BO0624_87834,310820,111,1595,1672.,629,61.5,False,positional,LUCAS van UDEN,,,,Sec. XVII
-BO0624_87834,310821,112,91,Landschaft mit Blick auf ferne Gebirge.Im Vordergrunde ein waldiges Terrain mit Landleuten und Vieh.,631,98.5,False,positional,LUCAS van UDEN,,,,
+BO0624_87834,310821,112,91,Landschaft mit Blick auf ferne Gebirge.Im Vordergrunde ein waldiges Terrain mit Landleuten und Vieh.,631,98.5,False,none,,,,,
 BO0624_87834,310822,113,92,"Dreiteiliges Altarbild. Auf der mittleren Tafel:Die Anbetung der heil. drei Konige. Links: Die Anbetung der Hirten. Rechts: die Beschneidung Christi AufHolz.Oben in Halbrund abschlieβend.Totalgr6βe:H.120 cm,B.167cm.",639,99.3,False,positional,,ANTWERPENER MEISTER,,,
 BO0624_87834,310823,114,93,"Reiterschlacht am Ufer eines Flusses. Im Vordergrunde wird ein Offizier auf sprengendem Pferde von seinem Gegner erschossen. Prichtiges Bild auf Holz.H.72 cm,B.105 cm.G.R. SieheAbbildungaufTafelXVI. 1702.",645,98.0,False,positional,PALAMEDESPALAMEDESZ,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_87834,310824,115,94,"Schlagerei vor einem Dorfwirtshaus. Leinwand.In der Mitte unten eine undeutliche Signatur.H.54 cm,B.64 cm.Brauner R.",651,98.7,False,positional,R.BRAKENBURGH,,,,
 BO0624_87834,310825,116,1600,1634.,662,61.5,False,positional,W.v.VALCKERT,,,,Sec. XVII
-BO0624_87834,310826,117,96,"In einer Kuche ist die Kochin mit dem Zurichten von Gemuise beschaftigt. Der ganze linke Vordergrund ist mit EBwaren der verschiedensten Art ausgefuilt, durch eine geoffnete Tur im Hintergrunde sieht man Christus mit den beiden Jungern von Emmaus bei Tische. 1664.",664,98.5,False,positional,W.v.VALCKERT,,,,Sec. XVII
+BO0624_87834,310826,117,96,"In einer Kuche ist die Kochin mit dem Zurichten von Gemuise beschaftigt. Der ganze linke Vordergrund ist mit EBwaren der verschiedensten Art ausgefuilt, durch eine geoffnete Tur im Hintergrunde sieht man Christus mit den beiden Jungern von Emmaus bei Tische. 1664.",664,98.5,False,none,,,,,Sec. XVII
 BO0624_87834,310827,118,97,"Bei einer Fontane hat sich eine vornehme Jagdgesellschaft niedergelassen,um das Fruhstuck einzunehmen.Die Pferde,des Aufbruchs harrend, stehen daneben. Im Hintergrund Landschaft mit Wasserfall zwischen Felsen. 1629.",672,98.1,False,positional,J. B.WEENIX,,,,Sec. XVII
 BO0624_87834,310828,119,98,Dreiteiliger Fligelaltar. In der Mitte Christus am Kreuz zwischen den beiden 1655.,681,94.9,False,positional,OTHO van VEEN,,,,Sec. XVII
 BO0624_87834,310829,120,99,"Landschaft. Im Mittelgrunde ein felsiger Hugel mit Burg, in der Ferne Stadt an einem Gewasser.Im Vordergrunde Landleute mit ihren Tieren. Schone Landschaft.Auf Leinwand.H.75 cm,B.102 cm.G-R. 1670.",690,97.9,False,positional,HERMAN van SWANEVELT,,,,Sec. XVII
 BO0624_87834,310830,121,100,"Kuchen-Interieur. Im Vordergrunde: Stilleben von Kuchengeratschaften,Gemuse,",696,97.3,False,positional,H.M.SORGH,,ARREDAMENTI,,
 BO0624_87834,310831,122,101,Brustbild eines bartigen Mannes in schwarzer Kleidung und Muhlsteinkragen. AufHolz.H.47cmB.33cm.S.R. Siehe Abbildung auf Tafel XIlI.,701,98.5,False,positional,M. MIEREVELT,,,,
 BO0624_87834,310832,123,102,Auf dem Marktplatze einer kleinen niederlandischen Stadt eine Frucht- und,707,97.3,False,positional,Q.BREKELENKAM,,,,
-BO0624_87834,310833,124,2,"Gemisehandlerin,ihre Ware anbietend. Auf Holz,rechts am Tischrande mit dem Namen des Malers bezeichnet.H.51 cm,B.76 cm.S.R.",708,99.2,False,positional,Q.BREKELENKAM,,OGGETTI IN LEGNO,,
+BO0624_87834,310833,124,2,"Gemisehandlerin,ihre Ware anbietend. Auf Holz,rechts am Tischrande mit dem Namen des Malers bezeichnet.H.51 cm,B.76 cm.S.R.",708,99.2,False,none,,,OGGETTI IN LEGNO,,
 BO0624_87834,310834,125,1620,1691.,712,61.5,False,positional,AELBERT CUIJP,,,,Sec. XVII
-BO0624_87834,310835,126,103,Vor einem niederlandischen Bauernhause Hirten bei ihrem Vieh. Ein Knabe melkt eine Ziege. Abendstimmung.,714,98.1,False,positional,AELBERT CUIJP,,,,
+BO0624_87834,310835,126,103,Vor einem niederlandischen Bauernhause Hirten bei ihrem Vieh. Ein Knabe melkt eine Ziege. Abendstimmung.,714,98.1,False,none,,,,,
 BO0624_87834,310836,127,105,"St. Andreas und St. Petrus vor einem Brokatteppich in ganzen Figuren stehend. Beide Heilige halten Bucher,Kreuz und Schlussel.",725,98.4,False,positional,,SPANISCHER MEISTER,SCATOLE,,
-BO0624_87834,310837,128,106,"St.Franziskus von Padua und St. Sebastian.Ersterer mit den Wundmalen der Stigmatisation,letzterer,von Pfeilen durchbohrt,vor einem Brokatteppich. Beide Bilder werden durch ein geschnitztes,gotisches Ornament in Halbrund abgeschlossen.AufHolz.H.34 cm, B.76 cm.G.-R. SieheAbbildungenaufTafelVII. 1679.",726,98.5,False,positional,,SPANISCHER MEISTER,FOTOGRAFIE,,Sec. XVII
+BO0624_87834,310837,128,106,"St.Franziskus von Padua und St. Sebastian.Ersterer mit den Wundmalen der Stigmatisation,letzterer,von Pfeilen durchbohrt,vor einem Brokatteppich. Beide Bilder werden durch ein geschnitztes,gotisches Ornament in Halbrund abgeschlossen.AufHolz.H.34 cm, B.76 cm.G.-R. SieheAbbildungenaufTafelVII. 1679.",726,98.5,False,none,,,FOTOGRAFIE,,Sec. XVII
 BO0624_87834,310838,129,107,"Landleute auf einem Platze in Rom ihre Ware feilhaltend. Im Vordergrunde rechts eine Gemuisehandlerin. Leinwand.H.50cm,B.58cm.S.R. 1779.",732,96.6,False,positional,H.MOMMERS,,,,Sec. XVIII
 BO0624_87834,310839,130,108,"Familienszene im Hofe eines Landhauses. Links ein Liebespaar. Interessantes,reich komponiertes Bild auf Leinwand.Rechts unten signiert.H.65 cm,B.82 cm.Alter R. SieheAbbildungaufTafelXII.",738,98.9,False,positional,J. S. CHARDIN,,,,
 BO0624_87834,310840,131,109,Hafenpartie mit Wartturm. Im rechten Vordergrunde eine Galeere sowie mehrere Kriegsschiffe vor Anker.Ganz vorn rechts ein belebter Quai,744,98.5,False,positional,M.MARIESCHI,,,,
@@ -134,38 +134,38 @@ BO0624_87834,310841,132,111,"Brustbild einer Frau in schwarzer Kleidung, Haubche
 BO0624_87834,310842,133,112,Zwei Kuhe und ein Stier im Vordergrunde einer Landschaft. Die eine Kuh ist liegend dargestellt.,756,97.9,False,positional,P.POTTER,,,,
 BO0624_87834,310843,134,113,"Die heil. Familie,Elisabeth, Zacharias und Johannes in einer Halle. In den Liften Gott Vater, von einem Engelsorchester umgeben. Auf Holz.H.61cm,B.47 cm.G.R. SieheAbbildung aufTafel XI. 1678.",762,97.5,False,positional,BENVENUTO TISI (GAROFALO),,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87834,310844,135,114,Gebirgige Landschaft bei Abendbeleuchtung. Im Vordergrunde ein hugeliges Terrain mit weidendem und ruhendem Vieh. Rechts eine antike Fontane.,767,98.6,False,positional,KAREL DUJARDIN,,,,
-BO0624_87834,310845,136,2,Der Flote blasende Hirt in einiger Entfernung.,768,97.8,False,positional,KAREL DUJARDIN,,,,
+BO0624_87834,310845,136,2,Der Flote blasende Hirt in einiger Entfernung.,768,97.8,False,none,,,,,
 BO0624_87834,310846,137,1614,1677.,774,61.5,False,positional,W.van HERP,,,,Sec. XVII
-BO0624_87834,310847,138,115,"Familienfest. Vor einem altertumlichen Hause hat eine schmausende, trinkende und musizierende Gesellschaft Platz genommen. Ein junger Mann sucht eine sich straubende Magd zu umarmen. Kriftig und wirkungsvoll gemaltes Bild auf Leinwand.H.73 cm,B.110 cn.S.R. 1707.",776,98.2,False,positional,W.van HERP,,,,Sec. XVIII
+BO0624_87834,310847,138,115,"Familienfest. Vor einem altertumlichen Hause hat eine schmausende, trinkende und musizierende Gesellschaft Platz genommen. Ein junger Mann sucht eine sich straubende Magd zu umarmen. Kriftig und wirkungsvoll gemaltes Bild auf Leinwand.H.73 cm,B.110 cn.S.R. 1707.",776,98.2,False,none,,,,,Sec. XVIII
 BO0624_87834,310848,139,116,"Auf stark bewegter See mehrere Fregatten unweit der felsigen Kuiste. Grau in Grau gemaltes Bild mit Zuhilfenahme der Feder.Auf Holz.Der Name des Meisters auf einer schuimmenden Planke.H.75 cm,B.105 cm.S.R. 1668.",782,97.8,False,positional,W.van de VELDE,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_87834,310849,140,117,"Der Aufbruch zur Jagd. Vor den Wallen eines Schlosses ist eine vornehme Jagdgesellschaft im Begriff, aufzubrechen. Falkenjager, Pikeure und Hunde begleiten den Zug. 1676.",788,97.2,False,positional,PHILIPS WOUWERMAN,,,,Sec. XVII
 BO0624_87834,310850,141,118,"19. Zwei niederlandische Interieurs. Kuche,mit Kochin. Madchen am Spinnrad.Gegensticke.",798,97.6,False,positional,D. van TOL,,,,
 BO0624_87834,310851,142,17,Jahrhundert.,806,88.0,False,positional,F.HEREMANS,Scuola Fiorentina,,,
-BO0624_87834,310852,143,120,"Dorf an einem Flusse, vom Kirchturm uberragt. Auf dem Wasser mehrere",808,97.1,False,positional,F.HEREMANS,,,,
+BO0624_87834,310852,143,120,"Dorf an einem Flusse, vom Kirchturm uberragt. Auf dem Wasser mehrere",808,97.1,False,none,,,,,
 BO0624_87834,310853,144,121,"Der heilige Jacobus von Compostella mit Pilgerhut und Stab, auf einem Throne sitzend. Das Gewand sowie der ornamentierte Hintergrund mit reicher Ver-",816,98.6,False,positional,,SPANISCHER MEISTER,,,
-BO0624_87834,310854,145,2,goldung in erhabener Arbeit.,817,96.4,False,positional,,SPANISCHER MEISTER,,,
+BO0624_87834,310854,145,2,goldung in erhabener Arbeit.,817,96.4,False,none,,,,,
 BO0624_87834,310855,146,1619,1690.,828,61.5,False,positional,CH.LE BRUN,,,,Sec. XVII
-BO0624_87834,310856,147,122,Die Anbetung der heil. drei Konige in einer Felsenlandschaft: Rechts im Vordergrunde die heil. Familie. 1625.,830,95.7,False,positional,CH.LE BRUN,,,,Sec. XVII
+BO0624_87834,310856,147,122,Die Anbetung der heil. drei Konige in einer Felsenlandschaft: Rechts im Vordergrunde die heil. Familie. 1625.,830,95.7,False,none,,,,,Sec. XVII
 BO0624_87834,310857,148,123,Krieg. In einer Landschaft zwischen Waffensticken der verschiedensten Art eine junge Frau mit ihren drei Kindern. Im Hintergrunde Kampfszene bei einer brennenden Stadt.,838,98.8,False,positional,J.BRUEGHEL; H.van BALEN,,,,
-BO0624_87834,310858,149,124,"Frieden.In einem bluhenden Garten eine junge Frau mit zwei Kindern sowie Dienern,welche eingemachte Fruchte auf ein Brett stellen.Weiter zuruck Damwild an einer Fontane. Gegenstick zu vorhergehendem Bilde.",842,99.0,False,positional,J.BRUEGHEL; H.van BALEN,,,,
+BO0624_87834,310858,149,124,"Frieden.In einem bluhenden Garten eine junge Frau mit zwei Kindern sowie Dienern,welche eingemachte Fruchte auf ein Brett stellen.Weiter zuruck Damwild an einer Fontane. Gegenstick zu vorhergehendem Bilde.",842,99.0,False,none,,,,,
 BO0624_87834,310859,150,125,Allegorie. Inmitten eines architektonischen Aufbaues steht Christus unter einem Baldachin.Um ihn herum vierzehn Evangelisten.Zu seinen FuBen allegorische Figuren.,850,98.8,False,positional,J.MABUSE,,,,
 BO0624_87834,310860,151,126,Wachtstube mit Karten spielenden Soldaten. Im Vordergrunde ein Mohr bei,856,97.2,False,positional,DAVID TENIERS,,,,
 BO0624_87834,310861,152,127,Landschaft mit Wasser und Bauernhof unter Baumen.Staffiert.,862,96.7,False,positional,CORNELIS DECKER,,,,
 BO0624_87834,310862,153,128,"Altarblatt. Die hl. Jungfrau mit dem Kinde auf einem Thron zwischen zwei Heiligen sitzend.Zu ihren FuBen ein kniender Donator.In einer oberen Abteilung,von gotischen Ornamenten umgeben,Christus am Kreuz,mit den Angehorigen und Kriegsknechten zu beiden Seiten. Hierzu zwei Flugel mit je zwei Darstellungen in ahnlicher Anordnung: Die Verkundigung Maria, Die Anbetung der Hirten,Die Kronung der Maria und Die Anbetung der Konige. AufHolz.H.120resp.148cm,B.160 cm. SieheAbbildungaufTafelV.",869,99.6,False,positional,,SPANISCHER MEISTER,COPPE,,
-BO0624_87834,310863,154,1575,1632.,871,61.5,False,positional,,SPANISCHER MEISTER,,,Sec. XVII
+BO0624_87834,310863,154,1575,1632.,871,61.5,False,none,,,,,Sec. XVII
 BO0624_87834,310864,155,1657,1720.,874,61.5,False,positional,PIETER van BLOEMEN,,,,Sec. XVIII
-BO0624_87834,310865,156,129,"Kriegszug. In einer felsigen Landschaft polnische Krieger zu Pferde, Gefangene und geraubtes Vieh mit sich treibend. Im Vordergrunde Frauen bei den Leichen",876,98.7,False,positional,PIETER van BLOEMEN,,,,
+BO0624_87834,310865,156,129,"Kriegszug. In einer felsigen Landschaft polnische Krieger zu Pferde, Gefangene und geraubtes Vieh mit sich treibend. Im Vordergrunde Frauen bei den Leichen",876,98.7,False,none,,,,,
 BO0624_87834,310866,157,130,"31. Mannliches und weibliches Brustbild, die Hande zum Gebet zusammen-",885,97.1,False,positional,H.MEMLING,,,,
 BO0624_87834,310867,158,1593,1678.,891,61.5,False,positional,JACOB JORDAENS,,,,Sec. XVII
 BO0624_87834,310868,159,1620,1670.,897,61.5,False,positional,PIETER MULIER d.Ae.,,,,Sec. XVII
-BO0624_87834,310869,160,133,"Niederlandische Landschaft mit Fischerdorf an einem FluB. Reich staffiert.In der Manier des van Goijen gemaltes Bild. AufHolz.H.42cm,B.52cm.S.R.",899,98.6,False,positional,PIETER MULIER d.Ae.,,,,
+BO0624_87834,310869,160,133,"Niederlandische Landschaft mit Fischerdorf an einem FluB. Reich staffiert.In der Manier des van Goijen gemaltes Bild. AufHolz.H.42cm,B.52cm.S.R.",899,98.6,False,none,GOYEN JAN VAN,,,,
 BO0624_87834,310870,161,1578,1656.,911,61.5,False,positional,P.NEEFFS; D. TENIERS,,,,Sec. XVII
-BO0624_87834,310871,162,1610,1690.,913,61.5,False,positional,P.NEEFFS; D. TENIERS,,,,Sec. XVII
-BO0624_87834,310872,163,135,Inneres einer gotischen Kirche mit Blick in das Hauptschiff. Zahlreiche An- Jahrhundert.,915,90.1,False,positional,P.NEEFFS; D. TENIERS,,,,
+BO0624_87834,310871,162,1610,1690.,913,61.5,False,none,,,,,Sec. XVII
+BO0624_87834,310872,163,135,Inneres einer gotischen Kirche mit Blick in das Hauptschiff. Zahlreiche An- Jahrhundert.,915,90.1,False,none,,,,,
 BO0624_87834,310873,164,136,"Die Madonna in blauem mit.Goldborten verbramtem Mantel unter einem in Relief geschnitzten Baldachin stehend und dem Christuskinde einen Apfel reichend. Unten im Goldfries die Inschrift:Ave gratia plena""",925,99.0,False,positional,,SPANISCHER MEISTER,,,
-BO0624_87834,310874,165,137,"Maria,von ihren Angehorigen umgeben, auf dem Totenbett.",929,96.4,False,positional,,SPANISCHER MEISTER,,,
-BO0624_87834,310875,166,I,"nteressantes Bild auf Holz.Mit geschnitzten Ornamenten am Oberrande.H.S0 cm,B.S8 cm.G.-R.",930,99.4,False,positional,,SPANISCHER MEISTER,OGGETTI IN LEGNO,,
-BO0624_87834,310876,167,132,"Ein niederlandischer Patrizier in schwarzer Kleidung und groBem Hut steht neben seiner Gemahlin. Letztere halt ihr jungstes Kind auf dem SchoBe, das altere Schwesterchen steht daneben.",932,98.9,False,positional,,SPANISCHER MEISTER,,,
+BO0624_87834,310874,165,137,"Maria,von ihren Angehorigen umgeben, auf dem Totenbett.",929,96.4,False,none,,,,,
+BO0624_87834,310875,166,I,"nteressantes Bild auf Holz.Mit geschnitzten Ornamenten am Oberrande.H.S0 cm,B.S8 cm.G.-R.",930,99.4,False,none,,,OGGETTI IN LEGNO,,
+BO0624_87834,310876,167,132,"Ein niederlandischer Patrizier in schwarzer Kleidung und groBem Hut steht neben seiner Gemahlin. Letztere halt ihr jungstes Kind auf dem SchoBe, das altere Schwesterchen steht daneben.",932,98.9,False,none,,,,,
 BO0624_87834,310877,168,138,"Landschaft. Im Vordergrunde am FuBe eines Baumes zwei Kuhe und mehrere Schafe.Der Hirt mit seinem Hunde sitzt daneben. Gutes Bild arufLeinwand mit obigen Namen bezeichnet.H.49 cm,B.44 cm.G.R.",937,98.9,False,positional,LE DUCQ,,,,
 BO0624_87834,310878,169,139,"Die Enthauptung St. Johannis des Taufers.  Rechts Salome, das Haupt auf einer Schussel empfangend,",941,97.9,False,positional,LUCAS CRANACH,,SCATOLE,,
 BO0624_87834,310879,170,140,"Mehrere Kriegsschiffe auf See unweit der Kuste. Holz.H.39 c,B.58 cm.G-R.",947,97.2,False,positional,C. C. von WIERINGEN,,OGGETTI IN LEGNO,,
@@ -181,25 +181,25 @@ BO0624_87834,310888,179,149,Tanzende Bauern vor einer Schanke. Unter einer klein
 BO0624_87834,310889,180,150,"In einer schon komponierten Landschaft Apollo, von den Musen umgeben, ein Streichinstrument spielend. Rechts Konig Midas als Preisrichter zwischen Apollo 1616.",1011,97.1,False,positional,G. B. TIEPOLO,,,,Sec. XVII
 BO0624_87834,310890,181,151,Auf einem freien Platze in Rom auf einer Estrade sitzen die Triumvirn. ihren Befehl werden zahlreiche Personen auf grausame Weise hingerichtet.,1020,98.6,False,positional,FRANS FRANCKEN,,,,
 BO0624_87834,310891,182,152,"53. Zwei Stilleben mit Muscheln.Gegensticke. Hibsche Bildchen aufHolz.H.26cm,B.33 cm. G.-R.",1024,97.7,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_87834,310892,183,18,Jahrhundert.,1026,88.0,False,positional,,NIEDERLANDISCHE SCHULE,,,
+BO0624_87834,310892,183,18,Jahrhundert.,1026,88.0,False,none,,Scuola Fiorentina,,,
 BO0624_87834,310893,184,154,"Zwei Reitergefechte.Gegensticke. Auβerordentlich lebendig und farbenfrisch gemalte Bilder.Leinwand.H.74 cm,B.95 cm.S.R.",1030,98.3,False,positional,JACQUES COURTOIS,,FOTOGRAFIE,,
-BO0624_87834,310894,185,1621,1676.,1032,61.5,False,positional,JACQUES COURTOIS,,,,Sec. XVII
+BO0624_87834,310894,185,1621,1676.,1032,61.5,False,none,,,,,Sec. XVII
 BO0624_87834,310895,186,1640,1691.,1036,61.5,False,positional,N. van VERENDAEL,,,,Sec. XVII
-BO0624_87834,310896,187,155,In einer Mauernische eine Vase mit Gartenblumen; ein Schmetterling belebt die Darstellung. 1770.,1040,95.1,False,positional,N. van VERENDAEL,,VASI,,Sec. XVIII
+BO0624_87834,310896,187,155,In einer Mauernische eine Vase mit Gartenblumen; ein Schmetterling belebt die Darstellung. 1770.,1040,95.1,False,none,,,VASI,,Sec. XVIII
 BO0624_87834,310897,188,156,Paulus in Lystra.Auf dem freien Platze einer Hafenstadt predigt Paulus dem,1047,97.4,False,positional,,FLAMISCHER MEISTER,,,
-BO0624_87834,310898,189,2,zahlreich erschienenen Volke.,1048,96.6,False,positional,,FLAMISCHER MEISTER,,,
+BO0624_87834,310898,189,2,zahlreich erschienenen Volke.,1048,96.6,False,none,,,,,
 BO0624_87834,310899,190,15,Jahrhundert.,1054,88.0,False,positional,,SPANISCHER MEISTER,,,
-BO0624_87834,310900,191,157,"Christus am Kreuz zwischen Maria und St. Johannes. Am oberen Rande des Bildes ein holzgeschnitzter gotischer Baldachin. Auf Holz.H.65 cm,B.57cm.G.R. 1749.",1056,97.0,False,positional,,SPANISCHER MEISTER,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_87834,310900,191,157,"Christus am Kreuz zwischen Maria und St. Johannes. Am oberen Rande des Bildes ein holzgeschnitzter gotischer Baldachin. Auf Holz.H.65 cm,B.57cm.G.R. 1749.",1056,97.0,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_87834,310901,192,158,BlumenstrauB in einer skulptierten Vase. 1680.,1062,89.7,False,positional,J. van HUYSUM,,VASI,,Sec. XVII
 BO0624_87834,310902,193,159,Niederlandisches Interieur mit Karten spielenden Bauern. Links ein Liebes-,1070,97.3,False,positional,E. van HEEMSKERK,,ARREDAMENTI,,
-BO0624_87834,310903,194,2,parchen.,1071,87.5,False,positional,E. van HEEMSKERK,,,,
+BO0624_87834,310903,194,2,parchen.,1071,87.5,False,none,,,,,
 BO0624_87834,310904,195,1554,1626.,1077,61.5,False,positional,PAUL BRILL,,,,Sec. XVII
-BO0624_87834,310905,196,160,"Im Vordergrunde einer Waldlandschaf, mit Durchblick auf ferne Gebirge, Diana mit ihren Nymphen, einen Hirsch hetzend. Leinwand.H.93cm,B.125cm.S.R. 1722.",1079,96.9,False,positional,PAUL BRILL,,,,Sec. XVIII
+BO0624_87834,310905,196,160,"Im Vordergrunde einer Waldlandschaf, mit Durchblick auf ferne Gebirge, Diana mit ihren Nymphen, einen Hirsch hetzend. Leinwand.H.93cm,B.125cm.S.R. 1722.",1079,96.9,False,none,,,,,Sec. XVIII
 BO0624_87834,310906,197,161,WeiBbartiger Eremit mit gefalteten Handen und emporgerichteten Blicken; auf einem Tisch zwei Folianten. Halbfigur. 1680.,1085,96.1,False,positional,J. SCHALCKEN,,,,Sec. XVII
 BO0624_87834,310907,198,162,Inneres einer niederlandischen Schule.Der Schulmeister unterrichtet Kinder,1093,97.4,False,positional,E.van HEEMSKERK,,,,
-BO0624_87834,310908,199,2,im Lesen.,1094,88.9,False,positional,E.van HEEMSKERK,,,,
+BO0624_87834,310908,199,2,im Lesen.,1094,88.9,False,none,,,,,
 BO0624_87834,310909,200,1622,1674.,1100,61.5,False,positional,J. LINGELBACH,,,,Sec. XVII
-BO0624_87834,310910,201,163,"Campo vacchino in Rom. Mit Figuren und Tieren auBerordentich reich staffiert. Leinwand.H.36cm,B.44cm.G-R.",1102,98.1,False,positional,J. LINGELBACH,,,,
+BO0624_87834,310910,201,163,"Campo vacchino in Rom. Mit Figuren und Tieren auBerordentich reich staffiert. Leinwand.H.36cm,B.44cm.G-R.",1102,98.1,False,none,,,,,
 BO0624_87834,310911,202,164,"Landschaft mit Bauernhof. Im Vordergrunde Landleute mit ihren Tieren. ReizendesBildchen auf Kupfer.H.23cm,B.32cm.G.-R. 1740.",1105,96.2,False,positional,FRANZ de PAULA FERG,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_87834,310912,203,165,"66. Zwei Landschaften mit Ruinen, Figuren und Tierstaffage. Gegensticke. Leinwamd.H.34cm,B.25cm.S.R.",1111,97.9,False,positional,J.v.RUISDAEL,,,,
 BO0624_87834,310913,204,167,"Dorf, von Baumen umgeben, an einem breiten Strom. Landleute als Staffage. Reizendes Bild.aufLeinwand.H.26cm,B.34cm.S.R.",1115,98.3,False,positional,S.v.RUYSDAEL,,,,

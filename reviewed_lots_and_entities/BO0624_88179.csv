@@ -1,16 +1,16 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88179,578456,1,1636,1695.Utrecht-Amfterdam.,11,89.8,False,positional,MELCHIOR DHONDECOETER,,,,Sec. XVII
-BO0624_88179,578457,2,1,"Kampfende Hahne. Zwei kampfende Hahne, rechts vorn einige Eier.",13,98.4,False,positional,MELCHIOR DHONDECOETER,,,,
+BO0624_88179,578457,2,1,"Kampfende Hahne. Zwei kampfende Hahne, rechts vorn einige Eier.",13,98.4,False,none,,,,,
 BO0624_88179,578458,3,2,"Stilleben.Tote Huhner, Tauben und kleinere Vogel.",18,97.9,False,positional,,HOLLANDISCHER MEISTER,,,
-BO0624_88179,578459,4,3,Stilleben. Tote Singvogel.,20,96.0,False,positional,,HOLLANDISCHER MEISTER,,,
+BO0624_88179,578459,4,3,Stilleben. Tote Singvogel.,20,96.0,False,none,,,,,
 BO0624_88179,578460,5,4,Italienische Landschaft mit FluB und Bruide. Staffage=Figuren zwifhen hohen Bergen. Leinwand. 35X40 cm.Goldrahmen.,25,99.1,False,positional,,ITALIENISIERENDER NIEDERLANDER,,,
 BO0624_88179,578461,6,5,"Der Raucher. Hollandifcher Bauer in graugelbem Kittel neben einem Tifhe fitzend,",31,98.7,False,positional,ESAIAS BOURSSE,,,,
 BO0624_88179,578462,7,6,Herrenportrat in braunem Rodk mit roter Halsbinde und Spitzen in Abendlandfhaft.,36,98.8,False,positional,,NIEDERLANDISCHER MEISTER,,,
-BO0624_88179,578463,8,7,"Der Eisgang. Auf eine Anhohe haben fid die Bewohner gefluichtet, hinten links der hochgehende die Haufer uiberflutende Flub und Eis. Holz. 30X37 cm.Goldrahmen.",41,99.4,False,positional,,NIEDERLANDISCHER MEISTER,OGGETTI IN LEGNO,,
+BO0624_88179,578463,8,7,"Der Eisgang. Auf eine Anhohe haben fid die Bewohner gefluichtet, hinten links der hochgehende die Haufer uiberflutende Flub und Eis. Holz. 30X37 cm.Goldrahmen.",41,99.4,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88179,578464,9,8,"Maria in blauem Mantel betend, Bruftbild.",45,97.5,False,positional,SASSOFERRATO,ITALIENISCHE SCHULE,,,
 BO0624_88179,578465,10,9,"Die Herde. Vor einer Hute fitzt eine Scaferin mit Spinnrocken, vor ihr Shafe, 1802. S.Matteo della Decima-Bologna.",49,80.0,False,positional,,NIEDERLANDISCHE SCHUILE,,,Sec. XIX
 BO0624_88179,578466,11,10,"Christus auf dem Oelberg. Chriftus kniet im Gebet, zu ihm fchwebt in einer Wolke ein Engel, ihm den Keld reihend. Holz. 24X30 cm.Goldrahmen. Abb.Tafel5.",59,99.0,False,positional,GAETANO GANDOLFI,,OGGETTI IN LEGNO,,
-BO0624_88179,578467,12,11,Bildnis einer Prinzessin in graugelbgeblumtem Seidenkleid mit hoher Frifur. Leinwand. 95X65 cm.Oval. Goldrahmen.,63,80.0,False,positional,GAETANO GANDOLFI,,,,
+BO0624_88179,578467,12,11,Bildnis einer Prinzessin in graugelbgeblumtem Seidenkleid mit hoher Frifur. Leinwand. 95X65 cm.Oval. Goldrahmen.,63,80.0,False,none,,,,,
 BO0624_88179,578468,13,12,"Die Flichtlinge. Rechts einige Offiziere zu Pferde, denen zwei Manner zu FuBe nahen. Im Hintergrunde ein grofer Reifewagen und Ruhende. Holz.55X70 cm.Goldrahmen.",69,68.1,False,positional,Wouvermann,NIEDERLANDER,OGGETTI IN LEGNO,,
 BO0624_88179,578469,14,13,"Anbetung der Hirten.Vor einer zerfallenen Architektur fitzt Maria,vor ihr das Kind.Von oben fliegt ein Engel herbei. Von rechts nahen die Hirten, das Kind anbetend.",73,99.1,False,positional,TIEPOLO,,,,
 BO0624_88179,578470,15,14,"Anbetung eines Pangottes. Vor der Statue eines Pans knien in reider Kleidung ein alter Konig und eine Konigin. Im Vordergrunde und hinten Gefolge und Dienerinnen, rehts eine, einen roten Vorhang raffend. Im Hintergrunde eine Saulen-Arhitektur Leinwand 185X132cm.Goldrahmen.",79,99.4,False,positional,,ITALIENISCHER MEISTER,,,
@@ -95,16 +95,16 @@ BO0624_88179,578548,93,85,"Delfter Napi, blaues Dekor. Durhmeller 16 cm.",185,71
 BO0624_88179,578549,94,86,Zwei Deliter Napfe mit buntem Dekor. Durhmelfer 16 cm.,187,77.8,False,positional,,,PORZELLAN; FAYENCEN; GLAS,,
 BO0624_88179,578550,95,87,Diana and her Nymphs. Rotheltich 24X32 cm.Goldrahmen.,194,72.9,False,positional,CARLO MARATTI-BALDREY,,,,
 BO0624_88179,578551,96,88,Soldatenspielen. 21X31 cm. NuBbaumrahmen.,199,96.2,False,positional,JEAURAT,,,,
-BO0624_88179,578552,97,89,Maskenball. 32X49 cm.Goldrahmen.,200,95.2,False,positional,JEAURAT,,,,
+BO0624_88179,578552,97,89,Maskenball. 32X49 cm.Goldrahmen.,200,95.2,False,none,,,,,
 BO0624_88179,578553,98,90,"Zwei Frauen mit Mufikinftrument von UItamaro. 30X40 cm.WeiBer Rahmen, D.BOSIO.",204,92.4,False,positional,,,CORNICI,,
 BO0624_88179,578554,99,91,Japanerin mit zwei Kindern. 40X30 cm.WeiBer Rahmen.,206,97.0,False,positional,,,CORNICI,,
 BO0624_88179,578555,100,2,"92.Japanerin, lefend und Tee trinkend. 40X30 cm.WeiBer Rahmen.",207,98.3,False,positional,,,CORNICI,,
 BO0624_88179,578556,101,1803,1902.Canterbury-Vernon Holme.,211,91.8,False,positional,THOMAS COOPER,,,,Sec. XX
-BO0624_88179,578557,102,93,"Schafherde und Ackergaul.Auf einer Weide ruhen Shafe,rechts fteht ein Acker= gaul, vor ihm kniet der Hirte. Hinten links weite Landfhaft. Bez.: Thomas G. Cooper 1862. 1723.Lubedk-London.",213,93.5,False,positional,THOMAS COOPER,,,,Sec. XIX
+BO0624_88179,578557,102,93,"Schafherde und Ackergaul.Auf einer Weide ruhen Shafe,rechts fteht ein Acker= gaul, vor ihm kniet der Hirte. Hinten links weite Landfhaft. Bez.: Thomas G. Cooper 1862. 1723.Lubedk-London.",213,93.5,False,none,,,,,Sec. XIX
 BO0624_88179,578558,103,94,Bilanis eines bartigen Mannes. Grauer Vollbart.,221,96.8,False,positional,SIR GODFREY KNELLER,,,,
-BO0624_88179,578559,104,2,Leinwand. 62X42 cm.Shwarzer Rahmen.,222,97.1,False,positional,SIR GODFREY KNELLER,,CORNICI,,
+BO0624_88179,578559,104,2,Leinwand. 62X42 cm.Shwarzer Rahmen.,222,97.1,False,none,,,CORNICI,,
 BO0624_88179,578560,105,1578,1656.Antwerpen.,226,84.8,False,positional,PIETER NEEFS,,,,Sec. XVII
-BO0624_88179,578561,106,95,"Kircheninneres, gotifhe Kirche mit Kapelle. Holz.35X42 cm. Shwarzer Rahmen.",228,97.9,False,positional,PIETER NEEFS,,CORNICI,,
+BO0624_88179,578561,106,95,"Kircheninneres, gotifhe Kirche mit Kapelle. Holz.35X42 cm. Shwarzer Rahmen.",228,97.9,False,none,,,CORNICI,,
 BO0624_88179,578562,107,96,a Neun Aquarelle und Tufhzeichnungen.,232,96.0,False,positional,,,STICHEN; ZEICHNUNGEN; AQUARELLEN,,
 BO0624_88179,578563,108,2,b&gt; Acht Spottstiche auf die Wind Koopers.,233,97.7,False,positional,,,STICHEN; ZEICHNUNGEN; AQUARELLEN,,
 BO0624_88179,578564,109,4,d&gt; Neunzehn Stiche und Lithos.,235,96.9,False,positional,,,STAMPE E INCISIONI,,
@@ -117,37 +117,37 @@ BO0624_88179,578570,115,97,Franzosische Karikatur auf den Konig von England. 32X
 BO0624_88179,578571,116,98,Franzosische Karikatur. Le petit electeur de Treves. X19 cm.Eichenholzrahmen.,258,78.7,False,positional,,,STICHEN; ZEICHNUNGEN; AQUARELLEN,,
 BO0624_88179,578572,117,99,Englische Karikatur. Catharina Il. 22X29 cm.,260,96.5,False,positional,,,STICHEN; ZEICHNUNGEN; AQUARELLEN,,
 BO0624_88179,578573,118,100,Probite.Farbftih. 27X23 cm.Goldrahmen.,264,94.7,False,positional,DESRAIS-MERCIER,,,,
-BO0624_88179,578574,119,10,l. Franzosische Karikatur auf Konig Georg von England.,265,98.1,False,positional,DESRAIS-MERCIER,,,,
-BO0624_88179,578575,120,23,X24 cm.Eichenrahmen.,266,95.0,False,positional,DESRAIS-MERCIER,,,,
-BO0624_88179,578576,121,102,Englische Karikatur auf die Niederlage Preubens. X28 cm.Eidenrahmen.,267,80.3,False,positional,DESRAIS-MERCIER,,,,
-BO0624_88179,578577,122,103,"Englische Karikatur. The Politician. Stich nach dem Gemalde von S. H. Grimm, X23 cm.Eicenrahmchen.",269,85.0,False,positional,DESRAIS-MERCIER,,,,
-BO0624_88179,578578,123,104,"Die Schlacht von Belle-Alliance am 18. Juni 1815. Kupferftich von D. Sluyter und W.Hoogkamer; gezeichnet von H. P.Ofterhuis.Zeitgenllifche Darftellung.Probe= druck.Gerahmt. Hohe 57cm, Breite73 cm.",271,98.9,False,positional,DESRAIS-MERCIER,,,,Sec. XIX
+BO0624_88179,578574,119,10,l. Franzosische Karikatur auf Konig Georg von England.,265,98.1,False,none,,,,,
+BO0624_88179,578575,120,23,X24 cm.Eichenrahmen.,266,95.0,False,none,,,,,
+BO0624_88179,578576,121,102,Englische Karikatur auf die Niederlage Preubens. X28 cm.Eidenrahmen.,267,80.3,False,none,,,,,
+BO0624_88179,578577,122,103,"Englische Karikatur. The Politician. Stich nach dem Gemalde von S. H. Grimm, X23 cm.Eicenrahmchen.",269,85.0,False,none,,,,,
+BO0624_88179,578578,123,104,"Die Schlacht von Belle-Alliance am 18. Juni 1815. Kupferftich von D. Sluyter und W.Hoogkamer; gezeichnet von H. P.Ofterhuis.Zeitgenllifche Darftellung.Probe= druck.Gerahmt. Hohe 57cm, Breite73 cm.",271,98.9,False,none,,,,,Sec. XIX
 BO0624_88179,578579,124,106,"Hafenlandschaft, belebt mit vielen Shiffen und Menfhen. Leinwand. 40X60 cm.Goldrahmen. X21 cm. Shwarzer Rahmen.",277,85.9,False,positional,ADRIAENS FRANS BOUDEWIINS,,CORNICI,,
 BO0624_88179,578580,125,107,Der Abschied. Lavierte Federzeichnung.,282,94.7,False,positional,,HOLLANDISCHER MEISTER,,,
 BO0624_88179,578581,126,108,"Schiff auf fturmifher See. Bez.:Louis Serruijs, 1848. Leinwand. 95X72 cm.Goldrahmen",286,97.5,False,positional,LOUIS SERRUIIS,,,,Sec. XIX
-BO0624_88179,578582,127,2,108a. Schiff auf bewegter See. Leinwand.95X72cm.Goldrahmen.,287,98.2,False,positional,LOUIS SERRUIIS,,,,
-BO0624_88179,578583,128,3,109.Lithographie. Abfhatzung der Kunffhatze. 48X65 cm.Goldrahmen.,288,98.4,False,positional,LOUIS SERRUIIS,,STAMPE E INCISIONI,,
-BO0624_88179,578584,129,110,"Landschaft. FluB mit Dorf, rechts eine hohgelegene Kirche. Die Uhr mit Uhr= werk verfehen. Holz. 55X75 cm.Goldrahmen.",292,76.8,False,positional,LOUIS SERRUIIS,,OGGETTI IN LEGNO,,
+BO0624_88179,578582,127,2,108a. Schiff auf bewegter See. Leinwand.95X72cm.Goldrahmen.,287,98.2,False,none,,,,,
+BO0624_88179,578583,128,3,109.Lithographie. Abfhatzung der Kunffhatze. 48X65 cm.Goldrahmen.,288,98.4,False,none,,,STAMPE E INCISIONI,,
+BO0624_88179,578584,129,110,"Landschaft. FluB mit Dorf, rechts eine hohgelegene Kirche. Die Uhr mit Uhr= werk verfehen. Holz. 55X75 cm.Goldrahmen.",292,76.8,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88179,578585,130,111,Geblers Tod. Bez.: M. Dilger.,298,92.3,False,positional,M.DILGER,,,,
-BO0624_88179,578586,131,112,Josef und der Christusknabe durh eine Landfhaft mit antiken Ruinen fchreitend. Holz. 82X58 cm. Shwarzer Rahmen. 112a.Raub der Europa. Holz. 58X82 cm.Eihenrahmen.,302,80.8,False,positional,M.DILGER,,CORNICI,,
-BO0624_88179,578587,132,113,Bildnis des heiligen Ludwig im Hermelinmantel und mit der Krone auf dem Haupte. Holz.40X35 cm.Sdwarzer Rahmen.,304,98.2,False,positional,M.DILGER,,CORNICI,,
-BO0624_88179,578588,133,4,113a Bildnis der Blanche de Castelle. Gegenftudk zum vorhergehenden. Holz.40X35 cm. Sdwarzer Rahmen.,305,99.0,False,positional,M.DILGER,,CORNICI,,
+BO0624_88179,578586,131,112,Josef und der Christusknabe durh eine Landfhaft mit antiken Ruinen fchreitend. Holz. 82X58 cm. Shwarzer Rahmen. 112a.Raub der Europa. Holz. 58X82 cm.Eihenrahmen.,302,80.8,False,none,,,CORNICI,,
+BO0624_88179,578587,132,113,Bildnis des heiligen Ludwig im Hermelinmantel und mit der Krone auf dem Haupte. Holz.40X35 cm.Sdwarzer Rahmen.,304,98.2,False,none,,,CORNICI,,
+BO0624_88179,578588,133,4,113a Bildnis der Blanche de Castelle. Gegenftudk zum vorhergehenden. Holz.40X35 cm. Sdwarzer Rahmen.,305,99.0,False,none,,,CORNICI,,
 BO0624_88179,578589,134,1802,1850.Paris-Boulogne.,309,88.4,False,positional,JEAN ANTOINE THEODORE GUDIN,,,,Sec. XIX
-BO0624_88179,578590,135,114,Hafen. Am Bollwerk eines Hafens landet ein Boot mit Segeln. Bez.:Gudin 1825. Leinwand. 54X65 cm.Ohne Rahmen.,311,98.1,False,positional,JEAN ANTOINE THEODORE GUDIN,,CORNICI,,Sec. XIX
-BO0624_88179,578591,136,115,Dame am Klavier.In blauem Kleide mit rola Shleifen. Leinwand. 82X65 cm.Ohne Rahmen.,315,97.6,False,positional,JEAN ANTOINE THEODORE GUDIN,,CORNICI,,
+BO0624_88179,578590,135,114,Hafen. Am Bollwerk eines Hafens landet ein Boot mit Segeln. Bez.:Gudin 1825. Leinwand. 54X65 cm.Ohne Rahmen.,311,98.1,False,none,,,CORNICI,,Sec. XIX
+BO0624_88179,578591,136,115,Dame am Klavier.In blauem Kleide mit rola Shleifen. Leinwand. 82X65 cm.Ohne Rahmen.,315,97.6,False,none,,,CORNICI,,
 BO0624_88179,578592,137,116,Stilleben. Vale mit Georginen und Mohn. Bez.: C. Henze 1879. Leinwand. 80X62 cm. Ohne Rahmen.,318,97.7,False,positional,C.HENZE,,CORNICI,,Sec. XIX
 BO0624_88179,578593,138,117,"Anbetung der heiligen drei Konige vor Maria und dem Kinde, die rechts mit Jofeph fitzt. Leinwand. 70X54cm.Goldrahmen.",322,84.2,False,positional,,ITALIENISCHER MEISTER,,,
-BO0624_88179,578594,139,118,Bildnis eines jungen Mannes in rotem Gewande und braunen Lodken. Oval. Leinwand. 80X65 cm. Goldrahmen.,327,76.8,False,positional,,ITALIENISCHER MEISTER,,,
+BO0624_88179,578594,139,118,Bildnis eines jungen Mannes in rotem Gewande und braunen Lodken. Oval. Leinwand. 80X65 cm. Goldrahmen.,327,76.8,False,none,,,,,
 BO0624_88179,578595,140,119,Brustbild der Madonna. Sehr defekt. Leinwand. 85X60 cm.Goldrahmen.,332,96.9,False,positional,,ITALIENISCHER MEISTER,,,
-BO0624_88179,578596,141,120,Der Bauer. Ein Bauer geht mit feinem Hunde uber das Eis. Eine Axt tragt er unter dem Arm.,333,97.7,False,positional,,ITALIENISCHER MEISTER,,,
+BO0624_88179,578596,141,120,Der Bauer. Ein Bauer geht mit feinem Hunde uber das Eis. Eine Axt tragt er unter dem Arm.,333,97.7,False,none,,,,,
 BO0624_88179,578597,142,121,Bildnis einer Dame in rotem Kleide mit blauem Mantel.,339,96.3,False,positional,,FRANZOSISCHER MEISTER,,,
-BO0624_88179,578598,143,2,Leinwand.70X55cm.Goldrahmen.,340,96.4,False,positional,,FRANZOSISCHER MEISTER,,,
+BO0624_88179,578598,143,2,Leinwand.70X55cm.Goldrahmen.,340,96.4,False,none,,,,,
 BO0624_88179,578599,144,1805,1867.Paris.,344,80.0,False,positional,JAQUES BRASCASSAT,,,,Sec. XIX
-BO0624_88179,578600,145,122,"Die Zauberin in ihrer Stube fitzend, umgeben von ihren Werkzeugen. Leinwand. 46X57cm.Goldrahmen.",346,80.0,False,positional,JAQUES BRASCASSAT,,,,
+BO0624_88179,578600,145,122,"Die Zauberin in ihrer Stube fitzend, umgeben von ihren Werkzeugen. Leinwand. 46X57cm.Goldrahmen.",346,80.0,False,none,,,,,
 BO0624_88179,578601,146,123,"Mr. Louis Guerin, Commissionaire et Controllur des Boic-Carrez age de 58 ans, en726.",351,97.6,False,positional,,FRANZOSISCHER MEISTER,,,
-BO0624_88179,578602,147,124,"Die hellige Pamilie. Maria und Jofeph und die fpielenden Kinder. Leinwand. 80X140 cm.Gelchnitzter Rahmen,",357,98.1,False,positional,,FRANZOSISCHER MEISTER,CORNICI,,
+BO0624_88179,578602,147,124,"Die hellige Pamilie. Maria und Jofeph und die fpielenden Kinder. Leinwand. 80X140 cm.Gelchnitzter Rahmen,",357,98.1,False,none,,,CORNICI,,
 BO0624_88179,578603,148,125,Die Kuhmagd.,361,84.6,False,positional,,NIEDERLANDER,,,
-BO0624_88179,578604,149,126,"Inneres einer hollandifchen, weibgetunchten Kirche mit braunem Geftuhl. Leinwand. 90X78 cm. Sdwarzer Rahmen.",365,98.1,False,positional,,NIEDERLANDER,CORNICI,,
+BO0624_88179,578604,149,126,"Inneres einer hollandifchen, weibgetunchten Kirche mit braunem Geftuhl. Leinwand. 90X78 cm. Sdwarzer Rahmen.",365,98.1,False,none,,,CORNICI,,
 BO0624_88179,578605,150,127,Spanischer Facher. Gefhnitztes und eingelegtes Elfenbeingeftell. Lithographie mit tarantellatanzenden Italienern.,368,81.9,False,positional,,,SCOMPARTI,,
 BO0624_88179,578606,151,128,"Reiterpistole. Stahl, taufhiert,mit vergoldetem Silberbefhlag, reich getrieben.Der Griff mit Silberdraht umwidkelt. Lange 50 cm.",370,76.7,False,positional,,,OGGETTI IN METALLO,,
 BO0624_88179,578607,152,129,Reiterpistole wie Nr. 128.,372,92.3,False,positional,,,ARBEITEN IN STEIN; HOLZ,,
@@ -234,282 +234,282 @@ BO0624_88179,578687,232,205,Gestell fur Effig und Oel. Zinn. Hohe 20 cm.,480,80.
 BO0624_88179,578688,233,206,Kupferrechaud mit PorzellanfuBen. Durchmeller 23 cm.,482,96.2,False,positional,,,BRONZEBESCHLAGE,,
 BO0624_88179,578689,234,207,Breiter Eisendolch mit Holzgriff. Lange 40 cm.,483,80.0,False,positional,,,BRONZEBESCHLAGE,,
 BO0624_88179,578690,235,208,Kupferstich. Anfiht des Zeughaufes in Berlin. 28X40cm.,490,87.8,False,positional,GEORG BALTHASAR PROBST,Scuola di Berlino,OGGETTI IN RAME,,
-BO0624_88179,578691,236,209,Der Erntewagen. 19.Jahrhundert.,495,93.5,False,positional,GEORG BALTHASAR PROBST,,,,
-BO0624_88179,578692,237,210,Kopf einer Muse. 18. Jahrhundert.,497,93.8,False,positional,GEORG BALTHASAR PROBST,,,,Sec. XVIII
-BO0624_88179,578693,238,211,Anbetung der Hirten. 18. Jahrhundert.,499,94.4,False,positional,GEORG BALTHASAR PROBST,,,,Sec. XVIII
-BO0624_88179,578694,239,212,Sitzender Krieger. Leinwand.34X42cm.Goldrahmen.,501,95.7,False,positional,GEORG BALTHASAR PROBST,,,,
-BO0624_88179,578695,240,213,Landschaft mit Bricke. 18.Jahrhundert. Leinwand.34X40 cm.Goldrahmen.,502,97.0,False,positional,GEORG BALTHASAR PROBST,,,,
-BO0624_88179,578696,241,214,Rauchender Ungar.,503,88.9,False,positional,GEORG BALTHASAR PROBST,,,,
-BO0624_88179,578697,242,215,"Bildnis eines Herrn, um 1860. Leinwand. 42X34 cm.Goldrahmen.",506,67.4,False,positional,GEORG BALTHASAR PROBST,,,,Sec. XIX
-BO0624_88179,578698,243,216,Konig Murath. Leinwand.53X41 cm.Goldrahmen. 216a. Kopf Johannes des Taufers. Leinwand.58X44 cm.Moderner Rahmen.,508,76.7,False,positional,GEORG BALTHASAR PROBST,,CORNICI,,
-BO0624_88179,578699,244,217,Franzosische Soldaten auf Vorposten. 19. Jahrhundert. Leinwand.22X24cm.Goldrahmen.,509,75.8,False,positional,GEORG BALTHASAR PROBST,,,,Sec. XIX
-BO0624_88179,578700,245,218,Sizilianische Landschaft. Holz.35X27 cm.Goldrahmen.,511,96.1,False,positional,GEORG BALTHASAR PROBST,,OGGETTI IN LEGNO,,
-BO0624_88179,578701,246,219,Der Raucher.,512,84.6,False,positional,GEORG BALTHASAR PROBST,,,,
-BO0624_88179,578702,247,220,Der Eremit. 19.Jahrhundert.,516,92.6,False,positional,GEORG BALTHASAR PROBST,,,,
-BO0624_88179,578703,248,221,Zwei Frauen.Studienkopfe.Um 1880.,518,94.1,False,positional,GEORG BALTHASAR PROBST,,,,Sec. XIX
+BO0624_88179,578691,236,209,Der Erntewagen. 19.Jahrhundert.,495,93.5,False,none,,,,,
+BO0624_88179,578692,237,210,Kopf einer Muse. 18. Jahrhundert.,497,93.8,False,none,,,,,Sec. XVIII
+BO0624_88179,578693,238,211,Anbetung der Hirten. 18. Jahrhundert.,499,94.4,False,none,,,,,Sec. XVIII
+BO0624_88179,578694,239,212,Sitzender Krieger. Leinwand.34X42cm.Goldrahmen.,501,95.7,False,none,,,,,
+BO0624_88179,578695,240,213,Landschaft mit Bricke. 18.Jahrhundert. Leinwand.34X40 cm.Goldrahmen.,502,97.0,False,none,,,,,
+BO0624_88179,578696,241,214,Rauchender Ungar.,503,88.9,False,none,,,,,
+BO0624_88179,578697,242,215,"Bildnis eines Herrn, um 1860. Leinwand. 42X34 cm.Goldrahmen.",506,67.4,False,none,,,,,Sec. XIX
+BO0624_88179,578698,243,216,Konig Murath. Leinwand.53X41 cm.Goldrahmen. 216a. Kopf Johannes des Taufers. Leinwand.58X44 cm.Moderner Rahmen.,508,76.7,False,none,,,CORNICI,,
+BO0624_88179,578699,244,217,Franzosische Soldaten auf Vorposten. 19. Jahrhundert. Leinwand.22X24cm.Goldrahmen.,509,75.8,False,none,,,,,Sec. XIX
+BO0624_88179,578700,245,218,Sizilianische Landschaft. Holz.35X27 cm.Goldrahmen.,511,96.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88179,578701,246,219,Der Raucher.,512,84.6,False,none,,,,,
+BO0624_88179,578702,247,220,Der Eremit. 19.Jahrhundert.,516,92.6,False,none,,,,,
+BO0624_88179,578703,248,221,Zwei Frauen.Studienkopfe.Um 1880.,518,94.1,False,none,,,,,Sec. XIX
 BO0624_88179,578704,249,222,Maria mit Kind und Engeln. Leinwand. 68X55 cm.Ohne Rahmen.,523,96.5,False,positional,MURILLO,,CORNICI,,
-BO0624_88179,578705,250,223,Der zwolfjahrige Christus im Tempel. Leinwand.45X55cm.Goldrahmen.,524,68.6,False,positional,MURILLO,,,,
+BO0624_88179,578705,250,223,Der zwolfjahrige Christus im Tempel. Leinwand.45X55cm.Goldrahmen.,524,68.6,False,none,,,,,
 BO0624_88179,578706,251,224,"Lustige Gesellschaft. Ein Kavalier in blauem Rodke fteht hinter einer Brultung, auf der ein Krug, ein Teller mit Auftern und ein Fab ftehen. Hinter ihm eine Dirne mit Weinglas und Kanne. 1718.Antwerpen-London.",529,93.3,False,positional,JAN VAN SON,,PIATTI,,Sec. XVIII
 BO0624_88179,578707,252,225,Hollandische Landschait mit Kanal und Shiffen. Im Hintergrunde ein Ort mit Kirhturm.,538,97.6,False,positional,,NIEDERLANDISCHER MEISTER,,,
 BO0624_88179,578708,253,1852,"226. Stilleben. Auf einem Marmortifh ein Teller mit Austern und Zitrone, Trauben und",544,100.0,False,positional,M.C. SCHENK,,PIATTI,,
-BO0624_88179,578709,254,2,Fruchten.Bez.:M.C.Shenk.1852. Holz. 36X26 cm.Goldrahmen.,545,98.1,False,positional,M.C. SCHENK,,OGGETTI IN LEGNO,,Sec. XIX
+BO0624_88179,578709,254,2,Fruchten.Bez.:M.C.Shenk.1852. Holz. 36X26 cm.Goldrahmen.,545,98.1,False,none,,,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88179,578710,255,227,Hollandischer Fischer. Holz.23X14 cm.Goldrahmen.,549,95.8,False,positional,,HOLLANDISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88179,578711,256,228,"Winterlandschaft. Links ein Kanal, rehts Weg mit kahlen Baumen. Bez.:L.Apol. Holz. 31X21 cm.Goldrahmen.",552,98.0,False,positional,L.APOL,,OGGETTI IN LEGNO,,
-BO0624_88179,578712,257,229,"Bildnis eines alten Mannes mit langem, weibem Haar. 19. Jahrhundert. Leinwand. 57X47 cm.Goldrahmen.",556,79.5,False,positional,L.APOL,,,,Sec. XIX
-BO0624_88179,578713,258,230,Hafenbild um 1890. Leinwand. 70X115 cm. Ohne Rahmen.,559,77.5,False,positional,L.APOL,,CORNICI,,Sec. XIX
-BO0624_88179,578714,259,231,Die heilige Justina. 18. Jahrhundert. Leinwand. 74X57cm. Shwarzer Rahmen.,560,97.1,False,positional,L.APOL,,CORNICI,,Sec. XVIII
-BO0624_88179,578715,260,233,Alpenseelandschaft.19. Jahrhundert. Kupfer.47X63 cm.Ohne Rahmen.,561,67.3,False,positional,L.APOL,,CORNICI,,
-BO0624_88179,578716,261,234,Marchenbild.Um 1880. Leinwand. 32X35cm.Goldrahmen.,563,95.9,False,positional,L.APOL,,,,Sec. XIX
-BO0624_88179,578717,262,235,Raub der Sabinerinnen.19.Jahrhundert. Leinwand.45X35cm.Goldrahmen.,564,69.2,False,positional,L.APOL,,,,
-BO0624_88179,578718,263,236,Heiliger mit Christuskind. Leinwand. 62X44 cm.Shwarzer Rahmen.,567,71.6,False,positional,L.APOL,,CORNICI,,
-BO0624_88179,578719,264,237,Maria mit stehendem Christuskind.,568,94.1,False,positional,L.APOL,,,,
-BO0624_88179,578720,265,14,Leinwand. 76X56 cm.Goldrahmen.,569,94.9,False,positional,L.APOL,,,,
-BO0624_88179,578721,266,15,238.Waldlandschaft. 19. Jahrhundert. Leinwand. 63X50 cm.Goldrahmen.,570,97.6,False,positional,L.APOL,,,,Sec. XIX
-BO0624_88179,578722,267,239,Bildnis eines Herren in blauem Rodke mit gelber Welte. 18. Jahrhundert. Leinwand.71X56 cm.Goldrahmen.,571,98.0,False,positional,L.APOL,,,,Sec. XVIII
-BO0624_88179,578723,268,240,Familienszene.18.Jahrhundert.,572,93.3,False,positional,L.APOL,,,,
-BO0624_88179,578724,269,18,Leinwand. 30X25 cm.Goldrahmen,573,94.9,False,positional,L.APOL,,,,
-BO0624_88179,578725,270,19,241.Landschaft. 19. Jahrhundert. Leinwand. 40X30 cm.Goldrahmen.,574,97.5,False,positional,L.APOL,,,,Sec. XIX
-BO0624_88179,578726,271,242,Mann mit Krug. 18. Jahrhundert. Leinwand. 46X36 cm.Eidenrahmen.,575,96.7,False,positional,L.APOL,,,,Sec. XVIII
-BO0624_88179,578727,272,243,Mann mit Fiasco. 18. Jahrhundert.,576,93.8,False,positional,L.APOL,,,,Sec. XVIII
-BO0624_88179,578728,273,22,Leinwand. 46X36 cn. Eichenrahmen. Pendant zum vorhergehenden Bilde.,577,97.7,False,positional,L.APOL,,,,
-BO0624_88179,578729,274,23,244.Desgleichen.,578,90.9,False,positional,L.APOL,,,,
-BO0624_88179,578730,275,245,Desgleichen.,579,84.6,False,positional,L.APOL,,,,
-BO0624_88179,578731,276,25,246.Knabe mit Hund. 19. Jahrhundert. Leinwand. 45X35 cm. Ohne Rahmen.,580,97.7,False,positional,L.APOL,,CORNICI,,Sec. XIX
-BO0624_88179,578732,277,247,Bettlerknabe.19.Jahrhundert.,581,93.1,False,positional,L.APOL,,,,
-BO0624_88179,578733,278,2,Leinwand. 45X35 cm.Ohne Rahmen.,582,96.7,False,positional,L.APOL,,CORNICI,,
-BO0624_88179,578734,279,3,248.Landschaft.19.Jahrhundert. Holz. 38X52 cm. Ohne Rahmen.,583,98.2,False,positional,L.APOL,,CORNICI,,
-BO0624_88179,578735,280,249,Anbetung der heiligen drei Konige. 19.Jahrhundert. Leinwand.24X36 cm.Goldrahmen.,584,97.5,False,positional,L.APOL,,,,
-BO0624_88179,578736,281,250,Landschaft. 19.Jahrhundert. Leinwand. 30X40 cm.Goldrahmen.,585,96.4,False,positional,L.APOL,,,,
-BO0624_88179,578737,282,251,Italienische Landschaft. 18.Jahrhundert.,587,95.0,False,positional,L.APOL,,,,
-BO0624_88179,578738,283,252,Spielende Kinder. 17.Jahrhundert. Niederland. Holz.37X48 cm.Goldrahmen.,591,74.3,False,positional,L.APOL,,OGGETTI IN LEGNO,,
-BO0624_88179,578739,284,253,Hig.Ignatius. 18.Jahrhundert. Leinwand. 32X26 cm.Goldrahmen.,593,96.6,False,positional,L.APOL,,,,
-BO0624_88179,578740,285,254,Bildnis eines Gefangenen. 19.Jahrhundert.,594,95.1,False,positional,L.APOL,,,,
-BO0624_88179,578741,286,5,Leinwand. 77X63 cm. Holzrahmen.,595,96.6,False,positional,L.APOL,,,,
-BO0624_88179,578742,287,6,255.Falkenjagd.19. Jahrhundert. Leinwand. 63X95 cm.Goldrahmen.,596,98.3,False,positional,L.APOL,,,,
-BO0624_88179,578743,288,256,Vision eines Engels. 17. Jahrhundert.,597,94.4,False,positional,L.APOL,,,,Sec. XVII
-BO0624_88179,578744,289,8,Leinwand. 70X96 cm.Ohne Rahmen.,598,96.7,False,positional,L.APOL,,CORNICI,,
-BO0624_88179,578745,290,9,257.Dekorative Kustenlandschait. 18. Jahrhundert.,599,97.9,False,positional,L.APOL,,,,Sec. XVIII
-BO0624_88179,578746,291,10,Leinwand.35X88cm.Goldrahmen.,600,94.7,False,positional,L.APOL,,,,
-BO0624_88179,578747,292,258,Antiker Krieger auf ein Shlob weifend. 19. Jahrhundert. Leinwand. 95X68 cm.Goldrahmen.,601,75.9,False,positional,L.APOL,,,,Sec. XIX
+BO0624_88179,578712,257,229,"Bildnis eines alten Mannes mit langem, weibem Haar. 19. Jahrhundert. Leinwand. 57X47 cm.Goldrahmen.",556,79.5,False,none,,,,,Sec. XIX
+BO0624_88179,578713,258,230,Hafenbild um 1890. Leinwand. 70X115 cm. Ohne Rahmen.,559,77.5,False,none,,,CORNICI,,Sec. XIX
+BO0624_88179,578714,259,231,Die heilige Justina. 18. Jahrhundert. Leinwand. 74X57cm. Shwarzer Rahmen.,560,97.1,False,none,,,CORNICI,,Sec. XVIII
+BO0624_88179,578715,260,233,Alpenseelandschaft.19. Jahrhundert. Kupfer.47X63 cm.Ohne Rahmen.,561,67.3,False,none,,,CORNICI,,
+BO0624_88179,578716,261,234,Marchenbild.Um 1880. Leinwand. 32X35cm.Goldrahmen.,563,95.9,False,none,,,,,Sec. XIX
+BO0624_88179,578717,262,235,Raub der Sabinerinnen.19.Jahrhundert. Leinwand.45X35cm.Goldrahmen.,564,69.2,False,none,,,,,
+BO0624_88179,578718,263,236,Heiliger mit Christuskind. Leinwand. 62X44 cm.Shwarzer Rahmen.,567,71.6,False,none,,,CORNICI,,
+BO0624_88179,578719,264,237,Maria mit stehendem Christuskind.,568,94.1,False,none,,,,,
+BO0624_88179,578720,265,14,Leinwand. 76X56 cm.Goldrahmen.,569,94.9,False,none,,,,,
+BO0624_88179,578721,266,15,238.Waldlandschaft. 19. Jahrhundert. Leinwand. 63X50 cm.Goldrahmen.,570,97.6,False,none,,,,,Sec. XIX
+BO0624_88179,578722,267,239,Bildnis eines Herren in blauem Rodke mit gelber Welte. 18. Jahrhundert. Leinwand.71X56 cm.Goldrahmen.,571,98.0,False,none,,,,,Sec. XVIII
+BO0624_88179,578723,268,240,Familienszene.18.Jahrhundert.,572,93.3,False,none,,,,,
+BO0624_88179,578724,269,18,Leinwand. 30X25 cm.Goldrahmen,573,94.9,False,none,,,,,
+BO0624_88179,578725,270,19,241.Landschaft. 19. Jahrhundert. Leinwand. 40X30 cm.Goldrahmen.,574,97.5,False,none,,,,,Sec. XIX
+BO0624_88179,578726,271,242,Mann mit Krug. 18. Jahrhundert. Leinwand. 46X36 cm.Eidenrahmen.,575,96.7,False,none,,,,,Sec. XVIII
+BO0624_88179,578727,272,243,Mann mit Fiasco. 18. Jahrhundert.,576,93.8,False,none,,,,,Sec. XVIII
+BO0624_88179,578728,273,22,Leinwand. 46X36 cn. Eichenrahmen. Pendant zum vorhergehenden Bilde.,577,97.7,False,none,,,,,
+BO0624_88179,578729,274,23,244.Desgleichen.,578,90.9,False,none,,,,,
+BO0624_88179,578730,275,245,Desgleichen.,579,84.6,False,none,,,,,
+BO0624_88179,578731,276,25,246.Knabe mit Hund. 19. Jahrhundert. Leinwand. 45X35 cm. Ohne Rahmen.,580,97.7,False,none,,,CORNICI,,Sec. XIX
+BO0624_88179,578732,277,247,Bettlerknabe.19.Jahrhundert.,581,93.1,False,none,,,,,
+BO0624_88179,578733,278,2,Leinwand. 45X35 cm.Ohne Rahmen.,582,96.7,False,none,,,CORNICI,,
+BO0624_88179,578734,279,3,248.Landschaft.19.Jahrhundert. Holz. 38X52 cm. Ohne Rahmen.,583,98.2,False,none,,,CORNICI,,
+BO0624_88179,578735,280,249,Anbetung der heiligen drei Konige. 19.Jahrhundert. Leinwand.24X36 cm.Goldrahmen.,584,97.5,False,none,,,,,
+BO0624_88179,578736,281,250,Landschaft. 19.Jahrhundert. Leinwand. 30X40 cm.Goldrahmen.,585,96.4,False,none,,,,,
+BO0624_88179,578737,282,251,Italienische Landschaft. 18.Jahrhundert.,587,95.0,False,none,,,,,
+BO0624_88179,578738,283,252,Spielende Kinder. 17.Jahrhundert. Niederland. Holz.37X48 cm.Goldrahmen.,591,74.3,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88179,578739,284,253,Hig.Ignatius. 18.Jahrhundert. Leinwand. 32X26 cm.Goldrahmen.,593,96.6,False,none,,,,,
+BO0624_88179,578740,285,254,Bildnis eines Gefangenen. 19.Jahrhundert.,594,95.1,False,none,,,,,
+BO0624_88179,578741,286,5,Leinwand. 77X63 cm. Holzrahmen.,595,96.6,False,none,,,,,
+BO0624_88179,578742,287,6,255.Falkenjagd.19. Jahrhundert. Leinwand. 63X95 cm.Goldrahmen.,596,98.3,False,none,,,,,
+BO0624_88179,578743,288,256,Vision eines Engels. 17. Jahrhundert.,597,94.4,False,none,,,,,Sec. XVII
+BO0624_88179,578744,289,8,Leinwand. 70X96 cm.Ohne Rahmen.,598,96.7,False,none,,,CORNICI,,
+BO0624_88179,578745,290,9,257.Dekorative Kustenlandschait. 18. Jahrhundert.,599,97.9,False,none,,,,,Sec. XVIII
+BO0624_88179,578746,291,10,Leinwand.35X88cm.Goldrahmen.,600,94.7,False,none,,,,,
+BO0624_88179,578747,292,258,Antiker Krieger auf ein Shlob weifend. 19. Jahrhundert. Leinwand. 95X68 cm.Goldrahmen.,601,75.9,False,none,,,,,Sec. XIX
 BO0624_88179,578748,293,259,Gefangener Offizier. Leinwand. 69X95 cm. Goldrahmen.,606,96.0,False,positional,SZKITSAK,,,,
-BO0624_88179,578749,294,260,Falkenjagd.19.Jahrhundert.,607,92.6,False,positional,SZKITSAK,,,,
-BO0624_88179,578750,295,261,Dekoratives Bild. Hirtenfzene. 18. Jahrhundert. Leinwand. 51X93 cm.Goldrahmen.,609,97.3,False,positional,SZKITSAK,,,,Sec. XVIII
-BO0624_88179,578751,296,262,Die Marien am Grabe.18. Jahrhundert.,610,94.4,False,positional,SZKITSAK,,,,
-BO0624_88179,578752,297,263,Der heilige Franziskus. Leinwand. 45X32 cm. Shwarzer Rahmen.,612,96.6,False,positional,SZKITSAK,,CORNICI,,
-BO0624_88179,578753,298,264,Niesender alter Mann. Leinwand. 55X45 cm. Brauner Rahmen.,613,96.4,False,positional,SZKITSAK,,CORNICI,,
-BO0624_88179,578754,299,265,"Mannliches Bildnis in braunem Rocke, um 1850. Leinwand. 69X55 cm.Goldrahmen.",614,97.3,False,positional,SZKITSAK,,,,Sec. XIX
-BO0624_88179,578755,300,266,Heilige Sippe.19.Jahrhundert. Bauernkunft. Leinwand. 68X88cm. Ohne Rahmen.,615,97.2,False,positional,SZKITSAK,,CORNICI,,
+BO0624_88179,578749,294,260,Falkenjagd.19.Jahrhundert.,607,92.6,False,none,,,,,
+BO0624_88179,578750,295,261,Dekoratives Bild. Hirtenfzene. 18. Jahrhundert. Leinwand. 51X93 cm.Goldrahmen.,609,97.3,False,none,,,,,Sec. XVIII
+BO0624_88179,578751,296,262,Die Marien am Grabe.18. Jahrhundert.,610,94.4,False,none,,,,,
+BO0624_88179,578752,297,263,Der heilige Franziskus. Leinwand. 45X32 cm. Shwarzer Rahmen.,612,96.6,False,none,,,CORNICI,,
+BO0624_88179,578753,298,264,Niesender alter Mann. Leinwand. 55X45 cm. Brauner Rahmen.,613,96.4,False,none,,,CORNICI,,
+BO0624_88179,578754,299,265,"Mannliches Bildnis in braunem Rocke, um 1850. Leinwand. 69X55 cm.Goldrahmen.",614,97.3,False,none,,,,,Sec. XIX
+BO0624_88179,578755,300,266,Heilige Sippe.19.Jahrhundert. Bauernkunft. Leinwand. 68X88cm. Ohne Rahmen.,615,97.2,False,none,,,CORNICI,,
 BO0624_88179,578756,301,267,Heilung des Tobias. Leinwand. 92X157cm.Goldrahmen.,619,95.9,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578757,302,268,Madonna in Wolken thronend. Leinwand. 207X153 cm.Ohne Rahmen.,620,96.7,False,positional,,ITALIENISCHE SCHULE,CORNICI,,
-BO0624_88179,578758,303,269,"Der Parlamentar. Auf einer Mauer ein franzofifher Offzier eine weiBe Fahne fhwingend,neben ihm ein Trompeter, hinten die brennende Stadt. Leinwand. 69X56 cm.Goldrahmen.",622,70.9,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578759,304,270,"Tod des Sobieski. Sobieski in einfader Hutte auf feinem Sterbebett, um ihn Sol daten. Sein Leibpferd nimmt von ihm Abfhied. Leinwand. 74X100 cm. Ohne Rahmen.",623,66.1,False,positional,,ITALIENISCHE SCHULE,CORNICI,,
-BO0624_88179,578760,305,271,Tiroler Jager. Skizze. Pappe auf Leinwand. 26X25 cm. Shwarzer Rahmen.,625,97.0,False,positional,,ITALIENISCHE SCHULE,CORNICI,,
-BO0624_88179,578761,306,272,"Maria mit Kind, primitives Madonnenbild. Leinwand. 47X35 cm.Ohne Rahmen.",626,97.1,False,positional,,ITALIENISCHE SCHULE,CORNICI,,
-BO0624_88179,578762,307,9,273.Parklandschaft. 19.Jahrhundert. Leinwand. 26X34 cm.Goldrahmen.,627,98.4,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578763,308,274,"Ecce homo. 18. Jahrhundert. Chriftus mit Dornenkrone auf dem Kreuze fitzend, oben trauernde Engel. Leinwand. 31X24 cm.Goldrahmen.",628,98.4,False,positional,,ITALIENISCHE SCHULE,,,Sec. XVIII
-BO0624_88179,578764,309,275,"Wandlandschait. 19. Jahrhundert, mit Haus im Walde und spielenden Kindern. Leinwand. 33X40 cm.Goldrahmen.",629,98.0,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578765,310,276,"Anbetung des Kindes. 18. Jahrhundert.In der Mitte die Huitte, davor anbetender Hirt und Frau mit Brot. Leinwand. 27X38 cm.Goldrahmen.",630,98.4,False,positional,,ITALIENISCHE SCHULE,,,Sec. XVIII
-BO0624_88179,578766,311,277,"Bildnis eines Herren. 19. Jahrhundert, in fhwarzem Rode mit grobem Shnurrbart. Leinwand.43X32 cm.Goldrahmen.",631,98.1,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578767,312,278,Hero und Leander. Hero umfangt am Rande des Meeres den Leichnam Leanders. Leinwand.28X36cm.Goldrahmen.,632,98.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578768,313,279,"Landschaft. 19. Jahrhundert. Auf der Hohe ein ShloB, Walder. Leinwand. 30X45 cm.Goldrahmen.",633,97.7,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578769,314,280,Der Trost.19.Jahrhundert. Ein Monch troftet einen Gefangenen. Leinwand. 31X23cm.Goldrahmen.,636,97.8,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578770,315,281,Die Armee Napoleons durchfhreitet bei cinem Gewitter einen Flub. 19. Jahrhundert. Leinwand.34X44cm.Goldrahmen.,637,98.1,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578771,316,282,"Anbetung des Kindes. 19. Jahrhundert. Von rehts nahen die Hirten,links Josef, in der Mitte Maria und das Kind in der Krippe.",638,98.3,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578772,317,4,Leinwand.80X64cm.Goldrahmen.,639,96.4,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578773,318,5,283.Heilige Familie. 19. Jahrhundert. Oeldrudk. Leinwand.80X64 cm.Goldrahmen.,640,98.6,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578774,319,284,Ausbruch des Vesuvs. 19.Jahrhundert.,641,94.4,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578775,320,7,Leinwand.76X113cm.Goldrahmen.,642,96.6,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578776,321,8,285.Damenbildnis. UIm 1820. Leinwand. 72X51 cm.Goldrahmen.,643,98.2,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
+BO0624_88179,578757,302,268,Madonna in Wolken thronend. Leinwand. 207X153 cm.Ohne Rahmen.,620,96.7,False,none,,,CORNICI,,
+BO0624_88179,578758,303,269,"Der Parlamentar. Auf einer Mauer ein franzofifher Offzier eine weiBe Fahne fhwingend,neben ihm ein Trompeter, hinten die brennende Stadt. Leinwand. 69X56 cm.Goldrahmen.",622,70.9,False,none,,,,,
+BO0624_88179,578759,304,270,"Tod des Sobieski. Sobieski in einfader Hutte auf feinem Sterbebett, um ihn Sol daten. Sein Leibpferd nimmt von ihm Abfhied. Leinwand. 74X100 cm. Ohne Rahmen.",623,66.1,False,none,,,CORNICI,,
+BO0624_88179,578760,305,271,Tiroler Jager. Skizze. Pappe auf Leinwand. 26X25 cm. Shwarzer Rahmen.,625,97.0,False,none,,,CORNICI,,
+BO0624_88179,578761,306,272,"Maria mit Kind, primitives Madonnenbild. Leinwand. 47X35 cm.Ohne Rahmen.",626,97.1,False,none,,,CORNICI,,
+BO0624_88179,578762,307,9,273.Parklandschaft. 19.Jahrhundert. Leinwand. 26X34 cm.Goldrahmen.,627,98.4,False,none,,,,,
+BO0624_88179,578763,308,274,"Ecce homo. 18. Jahrhundert. Chriftus mit Dornenkrone auf dem Kreuze fitzend, oben trauernde Engel. Leinwand. 31X24 cm.Goldrahmen.",628,98.4,False,none,,,,,Sec. XVIII
+BO0624_88179,578764,309,275,"Wandlandschait. 19. Jahrhundert, mit Haus im Walde und spielenden Kindern. Leinwand. 33X40 cm.Goldrahmen.",629,98.0,False,none,,,,,Sec. XIX
+BO0624_88179,578765,310,276,"Anbetung des Kindes. 18. Jahrhundert.In der Mitte die Huitte, davor anbetender Hirt und Frau mit Brot. Leinwand. 27X38 cm.Goldrahmen.",630,98.4,False,none,,,,,Sec. XVIII
+BO0624_88179,578766,311,277,"Bildnis eines Herren. 19. Jahrhundert, in fhwarzem Rode mit grobem Shnurrbart. Leinwand.43X32 cm.Goldrahmen.",631,98.1,False,none,,,,,Sec. XIX
+BO0624_88179,578767,312,278,Hero und Leander. Hero umfangt am Rande des Meeres den Leichnam Leanders. Leinwand.28X36cm.Goldrahmen.,632,98.0,False,none,,,,,
+BO0624_88179,578768,313,279,"Landschaft. 19. Jahrhundert. Auf der Hohe ein ShloB, Walder. Leinwand. 30X45 cm.Goldrahmen.",633,97.7,False,none,,,,,Sec. XIX
+BO0624_88179,578769,314,280,Der Trost.19.Jahrhundert. Ein Monch troftet einen Gefangenen. Leinwand. 31X23cm.Goldrahmen.,636,97.8,False,none,,,,,Sec. XIX
+BO0624_88179,578770,315,281,Die Armee Napoleons durchfhreitet bei cinem Gewitter einen Flub. 19. Jahrhundert. Leinwand.34X44cm.Goldrahmen.,637,98.1,False,none,,,,,Sec. XIX
+BO0624_88179,578771,316,282,"Anbetung des Kindes. 19. Jahrhundert. Von rehts nahen die Hirten,links Josef, in der Mitte Maria und das Kind in der Krippe.",638,98.3,False,none,,,,,Sec. XIX
+BO0624_88179,578772,317,4,Leinwand.80X64cm.Goldrahmen.,639,96.4,False,none,,,,,
+BO0624_88179,578773,318,5,283.Heilige Familie. 19. Jahrhundert. Oeldrudk. Leinwand.80X64 cm.Goldrahmen.,640,98.6,False,none,,,,,Sec. XIX
+BO0624_88179,578774,319,284,Ausbruch des Vesuvs. 19.Jahrhundert.,641,94.4,False,none,,,,,
+BO0624_88179,578775,320,7,Leinwand.76X113cm.Goldrahmen.,642,96.6,False,none,,,,,
+BO0624_88179,578776,321,8,285.Damenbildnis. UIm 1820. Leinwand. 72X51 cm.Goldrahmen.,643,98.2,False,none,,,,,Sec. XIX
 BO0624_88179,578777,322,286,Kinderbild. Bez.:Henriette Hodker. 7. Juni 1874. Leinwand.31X26 cm.Goldrahmen.,647,97.3,False,positional,HENRIETTE HOCKER,,,,Sec. XIX
 BO0624_88179,578778,323,287,Dekorative Landschaft. Leinwand.75X105 cm.Goldrahmen.,653,96.2,False,positional,SZKITSAK,,,,
-BO0624_88179,578779,324,2,288.Hunde (Oeldruk). Holz. 26X30 cm.Goldrahmen.,654,97.7,False,positional,SZKITSAK,,OGGETTI IN LEGNO,,
-BO0624_88179,578780,325,289,Madchen in Renaissancetracht.,655,93.3,False,positional,SZKITSAK,,,,
-BO0624_88179,578781,326,4,Leinwand. 27X22 cm.Ohne Rahmen.,656,96.7,False,positional,SZKITSAK,,CORNICI,,
-BO0624_88179,578782,327,5,290.Gethsemane.18.Jahrhundert. Holz.29X22 cm.Goldrahmen.,657,98.2,False,positional,SZKITSAK,,OGGETTI IN LEGNO,,
-BO0624_88179,578783,328,291,Urteil Salomonis.,658,88.9,False,positional,SZKITSAK,,,,
-BO0624_88179,578784,329,7,P.FRANK. 1709.,659,92.3,False,positional,SZKITSAK,,,,Sec. XVIII
-BO0624_88179,578785,330,8,Pergament. 18X27 cm. Schwarzer Rahmen.,660,97.2,False,positional,SZKITSAK,,CORNICI,,
-BO0624_88179,578786,331,292,Josef Kainz. Leinwand. 54X37cm.Goldrahmen.,661,95.1,False,positional,SZKITSAK,,,,
-BO0624_88179,578787,332,293,Anbetung des Kindes. 18.Jahrhundert. Holz. 28X36 cm.Goldrahmen.,662,96.7,False,positional,SZKITSAK,,OGGETTI IN LEGNO,,
-BO0624_88179,578788,333,294,Konig Lear und feine tote Tochter. Um 1880. Leinwand.40X50cm.Goldrahmen.,663,71.9,False,positional,SZKITSAK,,,,Sec. XIX
-BO0624_88179,578789,334,295,"Der heilige Aloysius. 18. Jahrhundert. Leinwand.34X49 cm.Goldrahmen,",665,68.0,False,positional,SZKITSAK,,,,Sec. XVIII
-BO0624_88179,578790,335,296,Votivbild. Heilung eines Blinden. 18. Jahrhundert.,667,95.8,False,positional,SZKITSAK,,,,Sec. XVIII
-BO0624_88179,578791,336,297,Ecce Homo. 18.Jahrhundert.,669,92.3,False,positional,SZKITSAK,,,,
-BO0624_88179,578792,337,298,Betendes Madchen. 19.Jahrhundert.,671,93.9,False,positional,SZKITSAK,,,,
-BO0624_88179,578793,338,299,Liebespaar in Renaissancetradt im Walde. 19. Jahrhundert. Leinwand. 27X22 cm.Goldrahmen.,673,97.6,False,positional,SZKITSAK,,,,Sec. XIX
-BO0624_88179,578794,339,300,Oeldruck.Waldlandfhaft mit Kuhen. Pappe. 26X21 cm. Shwarzer Rahmen.,674,96.9,False,positional,SZKITSAK,,CORNICI,,
+BO0624_88179,578779,324,2,288.Hunde (Oeldruk). Holz. 26X30 cm.Goldrahmen.,654,97.7,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88179,578780,325,289,Madchen in Renaissancetracht.,655,93.3,False,none,,,,,
+BO0624_88179,578781,326,4,Leinwand. 27X22 cm.Ohne Rahmen.,656,96.7,False,none,,,CORNICI,,
+BO0624_88179,578782,327,5,290.Gethsemane.18.Jahrhundert. Holz.29X22 cm.Goldrahmen.,657,98.2,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88179,578783,328,291,Urteil Salomonis.,658,88.9,False,none,,,,,
+BO0624_88179,578784,329,7,P.FRANK. 1709.,659,92.3,False,none,,,,,Sec. XVIII
+BO0624_88179,578785,330,8,Pergament. 18X27 cm. Schwarzer Rahmen.,660,97.2,False,none,,,CORNICI,,
+BO0624_88179,578786,331,292,Josef Kainz. Leinwand. 54X37cm.Goldrahmen.,661,95.1,False,none,,,,,
+BO0624_88179,578787,332,293,Anbetung des Kindes. 18.Jahrhundert. Holz. 28X36 cm.Goldrahmen.,662,96.7,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88179,578788,333,294,Konig Lear und feine tote Tochter. Um 1880. Leinwand.40X50cm.Goldrahmen.,663,71.9,False,none,,,,,Sec. XIX
+BO0624_88179,578789,334,295,"Der heilige Aloysius. 18. Jahrhundert. Leinwand.34X49 cm.Goldrahmen,",665,68.0,False,none,,,,,Sec. XVIII
+BO0624_88179,578790,335,296,Votivbild. Heilung eines Blinden. 18. Jahrhundert.,667,95.8,False,none,,,,,Sec. XVIII
+BO0624_88179,578791,336,297,Ecce Homo. 18.Jahrhundert.,669,92.3,False,none,,,,,
+BO0624_88179,578792,337,298,Betendes Madchen. 19.Jahrhundert.,671,93.9,False,none,,,,,
+BO0624_88179,578793,338,299,Liebespaar in Renaissancetradt im Walde. 19. Jahrhundert. Leinwand. 27X22 cm.Goldrahmen.,673,97.6,False,none,,,,,Sec. XIX
+BO0624_88179,578794,339,300,Oeldruck.Waldlandfhaft mit Kuhen. Pappe. 26X21 cm. Shwarzer Rahmen.,674,96.9,False,none,,,CORNICI,,
 BO0624_88179,578795,340,301,Gebirgslandschaft mit Jager. Bez.: E. Weingarten.,685,95.7,False,positional,E.WEINGARTEN,,,,
 BO0624_88179,578796,341,302,"Oidruck. Muter mit zwei Kindern, betend. Leinwand. 50X60 cm.Shwarzer Rahmen.",692,66.1,False,positional,A.HARTINGER,,CORNICI,,
-BO0624_88179,578797,342,303,Gebirgslandschaft. Hohe Berge mit Burgen. Im Vordergrunde eine gededkte Bruidke und Planwagen. Leinwand. 50X38 cm.Goldrahmen.,697,98.4,False,positional,A.HARTINGER,,,,
+BO0624_88179,578797,342,303,Gebirgslandschaft. Hohe Berge mit Burgen. Im Vordergrunde eine gededkte Bruidke und Planwagen. Leinwand. 50X38 cm.Goldrahmen.,697,98.4,False,none,,,,,
 BO0624_88179,578798,343,304,"Maria mit Kind. Maria das Kind widkelnd, oben Engelskopfe. Leinwand. 67X47 cm.Goldrahmen.",701,97.7,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578799,344,305,Einzug preuBischer Soldaten in eine eroberte Stadt durh ein Tor. 19. Jahrhundert. Leinwand.68X58 cm.Goldrahmen.,705,98.2,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578800,345,306,"Die Spieler. In einer Shenke Monche und Landsknehte beim Spiel. Wahrend der eine Landsknecht mit einem Madchen fherzt, fieht ihm der Monch in die Karten. 19.Jahrhundert.",706,98.8,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578801,346,307,", Mannliches Bildnis in grunem Rocke mit roten Auffhlagen und Jabot.",710,97.0,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578802,347,308,"Herrenbildnis, 19. Jahrhundert.",712,93.3,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578803,348,309,Mannliches Bildnis. Zweite Halfte des 19. Jahrhunderts. Leinwand.74X59 cm.Goldrahmen.,714,97.6,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578804,349,310,Madonna.18.Jahrhundert. Leinwand. 61X49 cm.Goldrahmen.,715,96.2,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578805,350,311,Der Schiffbruch.19.Jahrhundert.,716,93.8,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578806,351,312,Damenbildnis. 19.Jahrhundert. Leinwand.78X58 cm.Goldrahmen.,718,96.6,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578807,352,313,Christus auf Wolken schwebend. 18. Jahrhundert.,719,95.7,False,positional,,ITALIENISCHE SCHULE,,,Sec. XVIII
-BO0624_88179,578808,353,314,"Enthauptung des hlg.Petrus.Im Vordergrunde Petrus, dem ein nadkter Henkers= knecht das Haupt abfhlagt.Dahinter der Hauptmann, oben Chriftus in den Wolken thronend.18.Jahrhundert. Holz. 31X23 cm.Shwarzer Rahmen.",721,99.0,False,positional,,ITALIENISCHE SCHULE,CORNICI,,
-BO0624_88179,578809,354,315,Faun und Nymphe.18. Jahrhundert.,722,93.8,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578810,355,316,"Die heilige Familie. Redts Jofef an der Hobelbank, Maria links am Spinnrodken， in der Mitte der Jefusknabe,die Spane zufammenkehrend. 18. Jahrhundert. Leinwand.27X38 cm.Goldrahmen.",724,98.9,False,positional,,ITALIENISCHE SCHULE,,,Sec. XVIII
-BO0624_88179,578811,356,317,Maria und ihre Eltern. Hinter einem Tifhe Joachim in einem Bude lefend. Links,725,97.4,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578812,357,318,Landschaft. FluB mit Brucke und Muhle. 19. Jahrhundert. Leinwand. 24X28cm.Goldrahmen.,727,97.5,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578813,358,319,"Die Wanderung nach Bethlehem. Mondfheinlandfchaft mit Ruine, links unten der Stall, davor Jofef und Maria.19. Jahrhundert. Leinwand.30X35 cm.Goldrahmen.",728,98.6,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578814,359,320,Die Werber. Vier Werber bemuhen fich an einem Tifhe mit Speifen und Getranken um einen Bauern. 18. Jahrhundert. Holz.22X32cm.Goldrahmen.,729,98.5,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,Sec. XVIII
-BO0624_88179,578815,360,321,Soldaten auf Wache. Auf einem Hugel liegen funf Soldaten im Verftedk. 19. Jahr= hundert.,730,97.6,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578816,361,322,"Der Ritlischwur. In der Mitte drei fhworende Eidgenollen, rechts hinten die ubrigen.",732,97.6,False,positional,,ITALIENISCHE SCHULE,,,
+BO0624_88179,578799,344,305,Einzug preuBischer Soldaten in eine eroberte Stadt durh ein Tor. 19. Jahrhundert. Leinwand.68X58 cm.Goldrahmen.,705,98.2,False,none,,,,,Sec. XIX
+BO0624_88179,578800,345,306,"Die Spieler. In einer Shenke Monche und Landsknehte beim Spiel. Wahrend der eine Landsknecht mit einem Madchen fherzt, fieht ihm der Monch in die Karten. 19.Jahrhundert.",706,98.8,False,none,,,,,
+BO0624_88179,578801,346,307,", Mannliches Bildnis in grunem Rocke mit roten Auffhlagen und Jabot.",710,97.0,False,none,,,,,
+BO0624_88179,578802,347,308,"Herrenbildnis, 19. Jahrhundert.",712,93.3,False,none,,,,,Sec. XIX
+BO0624_88179,578803,348,309,Mannliches Bildnis. Zweite Halfte des 19. Jahrhunderts. Leinwand.74X59 cm.Goldrahmen.,714,97.6,False,none,,,,,Sec. XIX
+BO0624_88179,578804,349,310,Madonna.18.Jahrhundert. Leinwand. 61X49 cm.Goldrahmen.,715,96.2,False,none,,,,,
+BO0624_88179,578805,350,311,Der Schiffbruch.19.Jahrhundert.,716,93.8,False,none,,,,,Sec. XIX
+BO0624_88179,578806,351,312,Damenbildnis. 19.Jahrhundert. Leinwand.78X58 cm.Goldrahmen.,718,96.6,False,none,,,,,
+BO0624_88179,578807,352,313,Christus auf Wolken schwebend. 18. Jahrhundert.,719,95.7,False,none,,,,,Sec. XVIII
+BO0624_88179,578808,353,314,"Enthauptung des hlg.Petrus.Im Vordergrunde Petrus, dem ein nadkter Henkers= knecht das Haupt abfhlagt.Dahinter der Hauptmann, oben Chriftus in den Wolken thronend.18.Jahrhundert. Holz. 31X23 cm.Shwarzer Rahmen.",721,99.0,False,none,,,CORNICI,,
+BO0624_88179,578809,354,315,Faun und Nymphe.18. Jahrhundert.,722,93.8,False,none,,,,,
+BO0624_88179,578810,355,316,"Die heilige Familie. Redts Jofef an der Hobelbank, Maria links am Spinnrodken， in der Mitte der Jefusknabe,die Spane zufammenkehrend. 18. Jahrhundert. Leinwand.27X38 cm.Goldrahmen.",724,98.9,False,none,,,,,Sec. XVIII
+BO0624_88179,578811,356,317,Maria und ihre Eltern. Hinter einem Tifhe Joachim in einem Bude lefend. Links,725,97.4,False,none,,,,,
+BO0624_88179,578812,357,318,Landschaft. FluB mit Brucke und Muhle. 19. Jahrhundert. Leinwand. 24X28cm.Goldrahmen.,727,97.5,False,none,,,,,Sec. XIX
+BO0624_88179,578813,358,319,"Die Wanderung nach Bethlehem. Mondfheinlandfchaft mit Ruine, links unten der Stall, davor Jofef und Maria.19. Jahrhundert. Leinwand.30X35 cm.Goldrahmen.",728,98.6,False,none,,,,,
+BO0624_88179,578814,359,320,Die Werber. Vier Werber bemuhen fich an einem Tifhe mit Speifen und Getranken um einen Bauern. 18. Jahrhundert. Holz.22X32cm.Goldrahmen.,729,98.5,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88179,578815,360,321,Soldaten auf Wache. Auf einem Hugel liegen funf Soldaten im Verftedk. 19. Jahr= hundert.,730,97.6,False,none,,,,,Sec. XIX
+BO0624_88179,578816,361,322,"Der Ritlischwur. In der Mitte drei fhworende Eidgenollen, rechts hinten die ubrigen.",732,97.6,False,none,,,,,
 BO0624_88179,578817,362,323,Seekiste mit Boot an der See. Mondfchein. Leinwand.48X64 cm.Goldrahmen.,737,70.3,False,positional,V. D. NEER,,,,
-BO0624_88179,578818,363,324,Bildnis eines Herrn in braunem Mantel mit fhwarzem Kragen. Braune Peridke. 18.Jahrhundert.,742,97.8,False,positional,V. D. NEER,,,,
-BO0624_88179,578819,364,2,Paltell. 54X35 cm. Eicenholzrahmen.,743,97.0,False,positional,V. D. NEER,,,,
-BO0624_88179,578820,365,3,Abb.Tafel 1.,744,91.7,False,positional,V. D. NEER,,,,
-BO0624_88179,578821,366,325,Bildnis einer Dame in tief ausgefhnittenem braunen Kleide mit braunen kurzen Loden. 18.Jahrhundert. Paftell. 54X35 cm.Eichenholzrahmen. Abb.Tafel 1.,749,98.6,False,positional,V. D. NEER,,,,
-BO0624_88179,578822,367,326,Bildnis eines alten Mannes in braunem Kitel mit weiben Loden und graublauer,750,97.4,False,positional,V. D. NEER,,,,
-BO0624_88179,578823,368,3,Kappe.18.Jahrhundert. Paltell.54X35 cm.Eihenholzrahmen.,751,98.1,False,positional,V. D. NEER,,,,
+BO0624_88179,578818,363,324,Bildnis eines Herrn in braunem Mantel mit fhwarzem Kragen. Braune Peridke. 18.Jahrhundert.,742,97.8,False,none,,,,,
+BO0624_88179,578819,364,2,Paltell. 54X35 cm. Eicenholzrahmen.,743,97.0,False,none,,,,,
+BO0624_88179,578820,365,3,Abb.Tafel 1.,744,91.7,False,none,,,,,
+BO0624_88179,578821,366,325,Bildnis einer Dame in tief ausgefhnittenem braunen Kleide mit braunen kurzen Loden. 18.Jahrhundert. Paftell. 54X35 cm.Eichenholzrahmen. Abb.Tafel 1.,749,98.6,False,none,,,,,
+BO0624_88179,578822,367,326,Bildnis eines alten Mannes in braunem Kitel mit weiben Loden und graublauer,750,97.4,False,none,,,,,
+BO0624_88179,578823,368,3,Kappe.18.Jahrhundert. Paltell.54X35 cm.Eihenholzrahmen.,751,98.1,False,none,,,,,
 BO0624_88179,578824,369,1833,Homburg-Wien.,755,82.8,False,positional,KARLLOTZ,Scuola Viennese,,,
-BO0624_88179,578825,370,327,"Damenbildnis in fdhwarzem Kleide mit gelodkten Haaren, tiefes Decollete. Mitte der 70er Jahre. Leinwand. 23X18 cm. Holzrahmen mit Goldleife.",757,98.5,False,positional,KARLLOTZ,,,,
-BO0624_88179,578826,371,328,Mondscheinlandschaft.19.Jahrhundert. Leinwand. 35X45 cm.Goldrahmen.,758,68.0,False,positional,KARLLOTZ,,,,
-BO0624_88179,578827,372,329,Versuchung des heiligen Antonius. 18. Jahrhundert. Holz.44X35cm.Goldrahmen.,760,97.3,False,positional,KARLLOTZ,,OGGETTI IN LEGNO,,Sec. XVIII
-BO0624_88179,578828,373,5,330.Italienerknabe mit toter Gans.19.Jahrhundert. Leinwand. 50X26 cm. Shwarzer Rahmen.,761,98.8,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578829,374,6,331.Landschaft.18.Jahrhundert.,762,96.7,False,positional,KARLLOTZ,,,,
-BO0624_88179,578830,375,7,Leinwand.45X53cm.Ohne Rahmen.,763,96.6,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578831,376,332,Frierende Knaben.19.Jahrhundert. Leinwand.53X42cm.Goldrahmen.,764,96.7,False,positional,KARLLOTZ,,,,
-BO0624_88179,578832,377,333,Servire. Madden eine Calla begiebend. Oeldruds. Leinwand.44X31 cm.Goldrahmen.,765,97.3,False,positional,KARLLOTZ,,,,
-BO0624_88179,578833,378,334,Gebirgslandschait mit See und Fifhern. 19. Jahrhundert. Leinwand.39X48cm.Goldrahmen.,766,97.6,False,positional,KARLLOTZ,,,,Sec. XIX
-BO0624_88179,578834,379,335,Maria und heilige Anna. 18. Jahrhundert. Leinwand. 35X28 cm.Shwarzer Rahmen.,767,97.3,False,positional,KARLLOTZ,,CORNICI,,Sec. XVIII
-BO0624_88179,578835,380,336,Der Golf von Neapel. 19.Jahrhundert. Leinwand. 30X48 cm Ohne Rahmen.,768,97.0,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578836,381,337,Damenbildnis mit blauem Kopftuche. Leinwand.33X24 cm.Shwarzer Rahmen.,769,97.1,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578837,382,14,"338.Der Golf von Neapel, vom Pofilippo aus gefehen. Leinwand. 30X48 cm.Ohne Rahmen.",770,98.1,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578838,383,339,Die Flucht nach Aegypten. 18. Jahrhundert. Leinwand.27X39 cm.Goldrahmen.,771,70.3,False,positional,KARLLOTZ,,,,Sec. XVIII
-BO0624_88179,578839,384,340,Seestlick. Brennendes Kaftell bei Mondfhein. Leinwand.42X56 cm.Goldrahmen.,773,97.3,False,positional,KARLLOTZ,,,,
-BO0624_88179,578840,385,341,Landschaft. Bah mit Weiden. Pappe.21X24 cm.Goldrahmen.,774,96.2,False,positional,KARLLOTZ,,,,
-BO0624_88179,578841,386,342,Stilleben. Stuhl mit grunem Tuch und Flote.,775,95.3,False,positional,KARLLOTZ,,,,
-BO0624_88179,578842,387,343,Winterlandschaft.19.Jahrhundert. Leinwand. 24X19 cm.Goldrahmen.,777,96.8,False,positional,KARLLOTZ,,,,
-BO0624_88179,578843,388,344,Waldlandschaft. 19. Jahrhundert.,778,93.5,False,positional,KARLLOTZ,,,,Sec. XIX
-BO0624_88179,578844,389,345,Friedrich Barbarossa und Heinrich der Lowe. 19. Jahrhundert.,780,96.6,False,positional,KARLLOTZ,,,,Sec. XIX
-BO0624_88179,578845,390,346,Kopf des Ecce homo. 18 Jahrhundert.,782,94.3,False,positional,KARLLOTZ,,,,Sec. XVIII
-BO0624_88179,578846,391,347,"Alpenlandschaft. Hutte und Bach, in der Ferne hohe Berge",784,96.4,False,positional,KARLLOTZ,,,,
-BO0624_88179,578847,392,348,Reiter vor einer Villa. UIm 1880. Leinwand. 48X68 cm.Ohne Rahmen.,786,96.8,False,positional,KARLLOTZ,,CORNICI,,Sec. XIX
-BO0624_88179,578848,393,349,Reiterinnen vor einem Hause. UIm 1880.,787,94.7,False,positional,KARLLOTZ,,,,Sec. XIX
-BO0624_88179,578849,394,350,"Winteriandschaft. Anfiht einer Stadt mit Fabriken, vorn ein zugefrorener Flub mit Eishackern und Holzfallern. Holz. 45X71 cm. Ohne Rahmen.",789,98.5,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578850,395,351,"Landschait. Gebirgslandfhaft mit Burgen, miten durch den Vordergrund ein FluB",790,97.4,False,positional,KARLLOTZ,,,,
-BO0624_88179,578851,396,352,Galoppierender Schimmel. 19.Jahrhundert. Leinwand. 37X42 cm.Goldrahmen.,792,97.1,False,positional,KARLLOTZ,,,,
-BO0624_88179,578852,397,353,"Die Konigin von Saba. 19. Jahrhundert. Salomon fpielt vor der Konigin von Saba,",793,97.4,False,positional,KARLLOTZ,,,,Sec. XIX
-BO0624_88179,578853,398,354,"Christus und feine Juinger im Tempel. Runder Tempel, darinnen Chriftus mit er hobener linker Hand, um ihn feine Junger. Leinwand. 110X80 cm.Ohne Rahmen.",795,98.6,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578854,399,355,"Traum des heiligen Aloysius.Vorne redhts die groBe Getalt des fhlafenden Heiligen, dahinter die aufgeregte See mit Shiff und dahinterliegender Kirhe. Von oben hereinbrechendes Licht mit Engelskopfen. Leinwand. 100X78 cm.Gruner moderner Rahmen.",796,99.2,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578855,400,356,Landschaft mit Kirhe und Bergen. 19. Jahrhundert.,797,95.8,False,positional,KARLLOTZ,,,,Sec. XIX
-BO0624_88179,578856,401,357,"Dekorative Landschait, Flub und Dorf. Leinwand. 48X112 cm.Goldrahmen.",803,67.3,False,positional,KARLLOTZ,,,,
-BO0624_88179,578857,402,358,Desgleichen. Kirhe und Klofter. Leinwand. 48X112 cm.Goldrahmen.,805,96.7,False,positional,KARLLOTZ,,,,
-BO0624_88179,578858,403,359,"Judith mit dem Haupte des Holofernes, hinter ihr die Dienerin. 19. Jahrhundert.",806,97.4,False,positional,KARLLOTZ,,,,Sec. XIX
-BO0624_88179,578859,404,5,Leinwand.95X76 cm.Goldrahmen.,807,96.6,False,positional,KARLLOTZ,,,,
-BO0624_88179,578860,405,6,360.Madonna. Leinwand. 35X29 cm. Ohne Rahmen.,808,97.6,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578861,406,361,Jesus.,809,71.4,False,positional,KARLLOTZ,,,,
-BO0624_88179,578862,407,362,Martyrer. Leinwand. 88X68 cm. Ohne Rahmen.,813,95.0,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578863,408,363,Mondscheinlandschaft.19. Jahrhundert.,814,94.6,False,positional,KARLLOTZ,,,,
-BO0624_88179,578864,409,364,Christus am Kreuze mit Johannes und der Maria. 18. Jahrhundert.,816,96.8,False,positional,KARLLOTZ,,,,Sec. XVIII
-BO0624_88179,578865,410,365,Das Abendmahl. 18.Jahrhundert.,818,93.3,False,positional,KARLLOTZ,,,,
-BO0624_88179,578866,411,366,Seekiste. 18. Jahrhundert. Pappe.23X32 cm.Schwarzer Rahmen.,820,96.5,False,positional,KARLLOTZ,,CORNICI,,Sec. XVIII
-BO0624_88179,578867,412,367,"19. Jahrhundert. Vom Turme fturzt fih eine Frau, die von einem rotgekleideten Krieger verfolgt wird, in die Tiefe. Leinwand. 41X32cm,Goldrahmen.",821,98.6,False,positional,KARLLOTZ,,,,Sec. XIX
-BO0624_88179,578868,413,368,Winterberglandschaft. i9.Jahrhundert. Leinwand.12X17cm. Schwarzer Rahmen.,822,97.2,False,positional,KARLLOTZ,,CORNICI,,
-BO0624_88179,578869,414,369,Die Bettlerin. 19. Jahrhundert. Pappe.17X12 cm.Goldrahmen.,823,96.4,False,positional,KARLLOTZ,,,,Sec. XIX
-BO0624_88179,578870,415,370,Der Philosoph.,824,86.7,False,positional,KARLLOTZ,,,,
+BO0624_88179,578825,370,327,"Damenbildnis in fdhwarzem Kleide mit gelodkten Haaren, tiefes Decollete. Mitte der 70er Jahre. Leinwand. 23X18 cm. Holzrahmen mit Goldleife.",757,98.5,False,none,,,,,
+BO0624_88179,578826,371,328,Mondscheinlandschaft.19.Jahrhundert. Leinwand. 35X45 cm.Goldrahmen.,758,68.0,False,none,,,,,
+BO0624_88179,578827,372,329,Versuchung des heiligen Antonius. 18. Jahrhundert. Holz.44X35cm.Goldrahmen.,760,97.3,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88179,578828,373,5,330.Italienerknabe mit toter Gans.19.Jahrhundert. Leinwand. 50X26 cm. Shwarzer Rahmen.,761,98.8,False,none,,,CORNICI,,
+BO0624_88179,578829,374,6,331.Landschaft.18.Jahrhundert.,762,96.7,False,none,,,,,
+BO0624_88179,578830,375,7,Leinwand.45X53cm.Ohne Rahmen.,763,96.6,False,none,,,CORNICI,,
+BO0624_88179,578831,376,332,Frierende Knaben.19.Jahrhundert. Leinwand.53X42cm.Goldrahmen.,764,96.7,False,none,,,,,
+BO0624_88179,578832,377,333,Servire. Madden eine Calla begiebend. Oeldruds. Leinwand.44X31 cm.Goldrahmen.,765,97.3,False,none,,,,,
+BO0624_88179,578833,378,334,Gebirgslandschait mit See und Fifhern. 19. Jahrhundert. Leinwand.39X48cm.Goldrahmen.,766,97.6,False,none,,,,,Sec. XIX
+BO0624_88179,578834,379,335,Maria und heilige Anna. 18. Jahrhundert. Leinwand. 35X28 cm.Shwarzer Rahmen.,767,97.3,False,none,,,CORNICI,,Sec. XVIII
+BO0624_88179,578835,380,336,Der Golf von Neapel. 19.Jahrhundert. Leinwand. 30X48 cm Ohne Rahmen.,768,97.0,False,none,,,CORNICI,,
+BO0624_88179,578836,381,337,Damenbildnis mit blauem Kopftuche. Leinwand.33X24 cm.Shwarzer Rahmen.,769,97.1,False,none,,,CORNICI,,
+BO0624_88179,578837,382,14,"338.Der Golf von Neapel, vom Pofilippo aus gefehen. Leinwand. 30X48 cm.Ohne Rahmen.",770,98.1,False,none,,,CORNICI,,
+BO0624_88179,578838,383,339,Die Flucht nach Aegypten. 18. Jahrhundert. Leinwand.27X39 cm.Goldrahmen.,771,70.3,False,none,,,,,Sec. XVIII
+BO0624_88179,578839,384,340,Seestlick. Brennendes Kaftell bei Mondfhein. Leinwand.42X56 cm.Goldrahmen.,773,97.3,False,none,,,,,
+BO0624_88179,578840,385,341,Landschaft. Bah mit Weiden. Pappe.21X24 cm.Goldrahmen.,774,96.2,False,none,,,,,
+BO0624_88179,578841,386,342,Stilleben. Stuhl mit grunem Tuch und Flote.,775,95.3,False,none,,,,,
+BO0624_88179,578842,387,343,Winterlandschaft.19.Jahrhundert. Leinwand. 24X19 cm.Goldrahmen.,777,96.8,False,none,,,,,
+BO0624_88179,578843,388,344,Waldlandschaft. 19. Jahrhundert.,778,93.5,False,none,,,,,Sec. XIX
+BO0624_88179,578844,389,345,Friedrich Barbarossa und Heinrich der Lowe. 19. Jahrhundert.,780,96.6,False,none,,,,,Sec. XIX
+BO0624_88179,578845,390,346,Kopf des Ecce homo. 18 Jahrhundert.,782,94.3,False,none,,,,,Sec. XVIII
+BO0624_88179,578846,391,347,"Alpenlandschaft. Hutte und Bach, in der Ferne hohe Berge",784,96.4,False,none,,,,,
+BO0624_88179,578847,392,348,Reiter vor einer Villa. UIm 1880. Leinwand. 48X68 cm.Ohne Rahmen.,786,96.8,False,none,,,CORNICI,,Sec. XIX
+BO0624_88179,578848,393,349,Reiterinnen vor einem Hause. UIm 1880.,787,94.7,False,none,,,,,Sec. XIX
+BO0624_88179,578849,394,350,"Winteriandschaft. Anfiht einer Stadt mit Fabriken, vorn ein zugefrorener Flub mit Eishackern und Holzfallern. Holz. 45X71 cm. Ohne Rahmen.",789,98.5,False,none,,,CORNICI,,
+BO0624_88179,578850,395,351,"Landschait. Gebirgslandfhaft mit Burgen, miten durch den Vordergrund ein FluB",790,97.4,False,none,,,,,
+BO0624_88179,578851,396,352,Galoppierender Schimmel. 19.Jahrhundert. Leinwand. 37X42 cm.Goldrahmen.,792,97.1,False,none,,,,,
+BO0624_88179,578852,397,353,"Die Konigin von Saba. 19. Jahrhundert. Salomon fpielt vor der Konigin von Saba,",793,97.4,False,none,,,,,Sec. XIX
+BO0624_88179,578853,398,354,"Christus und feine Juinger im Tempel. Runder Tempel, darinnen Chriftus mit er hobener linker Hand, um ihn feine Junger. Leinwand. 110X80 cm.Ohne Rahmen.",795,98.6,False,none,,,CORNICI,,
+BO0624_88179,578854,399,355,"Traum des heiligen Aloysius.Vorne redhts die groBe Getalt des fhlafenden Heiligen, dahinter die aufgeregte See mit Shiff und dahinterliegender Kirhe. Von oben hereinbrechendes Licht mit Engelskopfen. Leinwand. 100X78 cm.Gruner moderner Rahmen.",796,99.2,False,none,,,CORNICI,,
+BO0624_88179,578855,400,356,Landschaft mit Kirhe und Bergen. 19. Jahrhundert.,797,95.8,False,none,,,,,Sec. XIX
+BO0624_88179,578856,401,357,"Dekorative Landschait, Flub und Dorf. Leinwand. 48X112 cm.Goldrahmen.",803,67.3,False,none,,,,,
+BO0624_88179,578857,402,358,Desgleichen. Kirhe und Klofter. Leinwand. 48X112 cm.Goldrahmen.,805,96.7,False,none,,,,,
+BO0624_88179,578858,403,359,"Judith mit dem Haupte des Holofernes, hinter ihr die Dienerin. 19. Jahrhundert.",806,97.4,False,none,,,,,Sec. XIX
+BO0624_88179,578859,404,5,Leinwand.95X76 cm.Goldrahmen.,807,96.6,False,none,,,,,
+BO0624_88179,578860,405,6,360.Madonna. Leinwand. 35X29 cm. Ohne Rahmen.,808,97.6,False,none,,,CORNICI,,
+BO0624_88179,578861,406,361,Jesus.,809,71.4,False,none,,,,,
+BO0624_88179,578862,407,362,Martyrer. Leinwand. 88X68 cm. Ohne Rahmen.,813,95.0,False,none,,,CORNICI,,
+BO0624_88179,578863,408,363,Mondscheinlandschaft.19. Jahrhundert.,814,94.6,False,none,,,,,
+BO0624_88179,578864,409,364,Christus am Kreuze mit Johannes und der Maria. 18. Jahrhundert.,816,96.8,False,none,,,,,Sec. XVIII
+BO0624_88179,578865,410,365,Das Abendmahl. 18.Jahrhundert.,818,93.3,False,none,,,,,
+BO0624_88179,578866,411,366,Seekiste. 18. Jahrhundert. Pappe.23X32 cm.Schwarzer Rahmen.,820,96.5,False,none,,,CORNICI,,Sec. XVIII
+BO0624_88179,578867,412,367,"19. Jahrhundert. Vom Turme fturzt fih eine Frau, die von einem rotgekleideten Krieger verfolgt wird, in die Tiefe. Leinwand. 41X32cm,Goldrahmen.",821,98.6,False,none,,,,,Sec. XIX
+BO0624_88179,578868,413,368,Winterberglandschaft. i9.Jahrhundert. Leinwand.12X17cm. Schwarzer Rahmen.,822,97.2,False,none,,,CORNICI,,
+BO0624_88179,578869,414,369,Die Bettlerin. 19. Jahrhundert. Pappe.17X12 cm.Goldrahmen.,823,96.4,False,none,,,,,Sec. XIX
+BO0624_88179,578870,415,370,Der Philosoph.,824,86.7,False,none,,,,,
 BO0624_88179,578871,416,371,Alpler.Oldruck.,832,87.5,False,positional,HARTINGER,,,,
-BO0624_88179,578872,417,372,Lagerscene.18.Jahrhundert.,833,92.6,False,positional,HARTINGER,,,,
-BO0624_88179,578873,418,373,Alpenlandschait mit Stadt und Kirche. Leinwand.29X41cm.Goldrahmen.,838,97.0,False,positional,HARTINGER,,,,
-BO0624_88179,578874,419,374,Nachtliche Fischer.19.Jahrhundert. Oeldruk. Leinwand. 37X48 cm. Goldrahmen.,841,71.3,False,positional,HARTINGER,,,,
-BO0624_88179,578875,420,375,"Bildnis einer Dame, 80 Jahre. 19. Jahrhundert. Leinwand. 40X32 cm.Goldrahmen.",843,71.8,False,positional,HARTINGER,,,,Sec. XIX
-BO0624_88179,578876,421,376,Heilige Familie. Leinwand. 46X37 cm.Goldrahmen.,846,78.4,False,positional,HARTINGER,,,,
-BO0624_88179,578877,422,377,Alpenlandschaft mit See. 30X40 cm.Ohne Rahmen.,847,64.8,False,positional,HARTINGER,,CORNICI,,
-BO0624_88179,578878,423,378,Arabierin.19.Jahrhundert. Leinwand. 42X31 cm.Goldrahmen.,850,71.4,False,positional,HARTINGER,,,,
-BO0624_88179,578879,424,379,Gahnender Mann. 19.Jahrhundert. Leinwand. 50X39 cm. Ohne Rahmen.,851,96.7,False,positional,HARTINGER,,CORNICI,,
-BO0624_88179,578880,425,380,Herrenbildnis mit Brille.19. Jahrhundert. Leinwand. 52X42 cm.Ohne Rahmen.,852,69.6,False,positional,HARTINGER,,CORNICI,,
-BO0624_88179,578881,426,381,Dekoratives Stilleben. Urne mit Blumen. Leinwand. 62X48 cm.Goldrahmen.,854,97.1,False,positional,HARTINGER,,,,
+BO0624_88179,578872,417,372,Lagerscene.18.Jahrhundert.,833,92.6,False,none,,,,,
+BO0624_88179,578873,418,373,Alpenlandschait mit Stadt und Kirche. Leinwand.29X41cm.Goldrahmen.,838,97.0,False,none,,,,,
+BO0624_88179,578874,419,374,Nachtliche Fischer.19.Jahrhundert. Oeldruk. Leinwand. 37X48 cm. Goldrahmen.,841,71.3,False,none,,,,,
+BO0624_88179,578875,420,375,"Bildnis einer Dame, 80 Jahre. 19. Jahrhundert. Leinwand. 40X32 cm.Goldrahmen.",843,71.8,False,none,,,,,Sec. XIX
+BO0624_88179,578876,421,376,Heilige Familie. Leinwand. 46X37 cm.Goldrahmen.,846,78.4,False,none,,,,,
+BO0624_88179,578877,422,377,Alpenlandschaft mit See. 30X40 cm.Ohne Rahmen.,847,64.8,False,none,,,CORNICI,,
+BO0624_88179,578878,423,378,Arabierin.19.Jahrhundert. Leinwand. 42X31 cm.Goldrahmen.,850,71.4,False,none,,,,,
+BO0624_88179,578879,424,379,Gahnender Mann. 19.Jahrhundert. Leinwand. 50X39 cm. Ohne Rahmen.,851,96.7,False,none,,,CORNICI,,
+BO0624_88179,578880,425,380,Herrenbildnis mit Brille.19. Jahrhundert. Leinwand. 52X42 cm.Ohne Rahmen.,852,69.6,False,none,,,CORNICI,,
+BO0624_88179,578881,426,381,Dekoratives Stilleben. Urne mit Blumen. Leinwand. 62X48 cm.Goldrahmen.,854,97.1,False,none,,,,,
 BO0624_88179,578882,427,382,"Der Wasserfall. Ueber hohe Felfen fallt ein dunner Wallerfall, oben der bewolkte",858,97.5,False,positional,J.B.HAEN,,,,
-BO0624_88179,578883,428,2,"Himmel, rechts grober, weibgrauer Felfen. Leinwand. 96X63 cm. Goldrahmen.",859,98.5,False,positional,J.B.HAEN,,,,
-BO0624_88179,578884,429,3,O.LEPIE. 1850.,860,92.3,False,positional,J.B.HAEN,,,,Sec. XIX
-BO0624_88179,578885,430,383,"Landschaft. Melk an der Donau.Im Mittelgrunde ein breiter FluB, rechts auf hohem Felfen eine Kirhe mit Klofter. Darunter ein Dorf. Leinwand. 77X92 cm.Goldrahmen. Bez.:O.Lepie 1850.",862,73.3,False,positional,J.B.HAEN,,,,Sec. XIX
-BO0624_88179,578886,431,384,Landschaft. Alpenfee mit Dorf. Leinwand. 77X92 cm. Goldrahmen. Bez.:F.Lepie 1889.,863,97.4,False,positional,J.B.HAEN,,,,Sec. XIX
+BO0624_88179,578883,428,2,"Himmel, rechts grober, weibgrauer Felfen. Leinwand. 96X63 cm. Goldrahmen.",859,98.5,False,none,,,,,
+BO0624_88179,578884,429,3,O.LEPIE. 1850.,860,92.3,False,none,,,,,Sec. XIX
+BO0624_88179,578885,430,383,"Landschaft. Melk an der Donau.Im Mittelgrunde ein breiter FluB, rechts auf hohem Felfen eine Kirhe mit Klofter. Darunter ein Dorf. Leinwand. 77X92 cm.Goldrahmen. Bez.:O.Lepie 1850.",862,73.3,False,none,,,,,Sec. XIX
+BO0624_88179,578886,431,384,Landschaft. Alpenfee mit Dorf. Leinwand. 77X92 cm. Goldrahmen. Bez.:F.Lepie 1889.,863,97.4,False,none,,,,,Sec. XIX
 BO0624_88179,578887,432,385,"Alte Frau, die in der erhobenen linken Hand ein Glas halt. Holz.16X12cm.Goldrahmen.",867,97.6,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88179,578888,433,386,"Der Raucher. Ein alter bartiger Mann zundet fih feine Pfeife an einer gluhenden Kohle an, die er aus einem vor ihm ftehenden Kohlenbedken mit einer Zange her= vorgeholt hat.",868,98.8,False,positional,,NIEDERLANDISCHE SCHULE,,,
+BO0624_88179,578888,433,386,"Der Raucher. Ein alter bartiger Mann zundet fih feine Pfeife an einer gluhenden Kohle an, die er aus einem vor ihm ftehenden Kohlenbedken mit einer Zange her= vorgeholt hat.",868,98.8,False,none,,,,,
 BO0624_88179,578889,434,387,"Bildnis eines jungen Madchens in gelbem Kleide mit weibem Umfhlagetud, im Haar eine Rofe. Leinwand.65X 40 cm. Goldrahmen.",874,98.3,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_88179,578890,435,388,Bildnis eines Ungarn. Der bartige Kopf des in fhwarzen Rodk gekleideten Mannes,879,97.5,False,positional,,NIEDERLANDISCHE SCHULE,,,
+BO0624_88179,578890,435,388,Bildnis eines Ungarn. Der bartige Kopf des in fhwarzen Rodk gekleideten Mannes,879,97.5,False,none,,,,,
 BO0624_88179,578891,436,389,Zwei kleine Heiligenbildchen. Hlg. Franz und hlg. Klara. 18. Jahrhundert. 1684.,886,93.7,False,positional,AMERLING,,,,Sec. XVIII
 BO0624_88179,578892,437,390,"Bildnis eines vornehmen Herrn. Der Herr fitzt, auf ein Poftament geftuitzt, im Park, gepuderte Allongeperidke, braune Kleidung. Uber die Knie und den Arm legt fid ein roter Seidenmantel. 1749.",893,97.5,False,positional,KASPAR NETSCHER,,,,Sec. XVIII
 BO0624_88179,578893,438,391,"Bildnis einer Dame. Die Dame, in blauem Kleide mit weibem Uberwurf, fitzt im Park auf einer Steinbank und ftuitzt die Linke auf eine Baluftrade. Leinwand. Hohe 73 cm,Breite 62 cm.Goldrahmen. Abb.Tafel 2.",903,99.0,False,positional,BALTHASAR DENNER,,,,
 BO0624_88179,578894,439,392,Der Schreiber. Leinwand. 27X21 cm. Shwarzer Rahmen.,907,95.9,False,positional,REMBRANDT,,CORNICI,,
-BO0624_88179,578895,440,393,Italienische Landschaft. 18.Jahrhundert. Leinwand.22X28 cm.Goldrahmen.,911,69.7,False,positional,REMBRANDT,,,,
+BO0624_88179,578895,440,393,Italienische Landschaft. 18.Jahrhundert. Leinwand.22X28 cm.Goldrahmen.,911,69.7,False,none,,,,,
 BO0624_88179,578896,441,394,Madonna del Granduca. Holz. 32X22. Moderner gruiner Rahmen.,916,96.5,False,positional,RAFFAEL,,CORNICI,,
-BO0624_88179,578897,442,395,Landschaft. Leinwand. 22X28 cm.Goldrahmen.,917,95.1,False,positional,RAFFAEL,,,,
-BO0624_88179,578898,443,396,Bildnis eines Herrn mit langem weiben Haare. Leinwand. 34X28 cm.Ohne Rahmen.,918,71.7,False,positional,RAFFAEL,,CORNICI,,
-BO0624_88179,578899,444,397,"Kistenlandschaft. Leinwand. 22X28 cm.Goldrahmen,",920,95.7,False,positional,RAFFAEL,,,,
-BO0624_88179,578900,445,6,398.Frauenkopi.19.Jahrhundert.,921,96.7,False,positional,RAFFAEL,,,,
-BO0624_88179,578901,446,7,Holz. 17X15 cm. Shwarzer Rahmen.,922,96.7,False,positional,RAFFAEL,,CORNICI,,
-BO0624_88179,578902,447,399,Alpensee. Leinwand. 29X37cm.Goldrahmen.,923,94.7,False,positional,RAFFAEL,,,,
-BO0624_88179,578903,448,400,Ofiziersbildnis.,924,88.2,False,positional,RAFFAEL,,,,
-BO0624_88179,578904,449,401,Kuh und Schafe.,927,87.5,False,positional,RAFFAEL,,,,
-BO0624_88179,578905,450,402,Landschaft mit badenden Frauen. Leinwand. 32X25 cm.Goldrahmen.,931,96.7,False,positional,RAFFAEL,,,,
-BO0624_88179,578906,451,403,Religiose Szene. 18. Jahrhundert. Holz.25X20 cm.Goldrahmen.,932,67.4,False,positional,RAFFAEL,,OGGETTI IN LEGNO,,Sec. XVIII
-BO0624_88179,578907,452,404,Ecce homo. 18. Jahrhundert. Leinwand. 34X27 cm.Ohne Rahmen.,935,70.6,False,positional,RAFFAEL,,CORNICI,,Sec. XVIII
-BO0624_88179,578908,453,405,Pferde vor einer Hlitte.,936,92.0,False,positional,RAFFAEL,,,,
-BO0624_88179,578909,454,7,Leinwand. 32 x 40 cm. Ohne Rahmen.,937,96.9,False,positional,RAFFAEL,,CORNICI,,
-BO0624_88179,578910,455,8,406.Sonnenuntergang. Holz. 10X16 cm.Shwarzer Rahmen.,938,98.0,False,positional,RAFFAEL,,CORNICI,,
-BO0624_88179,578911,456,9,407.Heilige Magdalena. 18.Jahrhundert.,939,97.3,False,positional,RAFFAEL,,,,
-BO0624_88179,578912,457,10,Bled.23X18 cm.Goldrahmen.,940,94.1,False,positional,RAFFAEL,,,,
-BO0624_88179,578913,458,408,Italiener-Knabenkopf. 19.Jahrhundert. Holz.19X12 cm.Shwarzer Rahmen.,941,67.3,False,positional,RAFFAEL,,CORNICI,,
-BO0624_88179,578914,459,409,Bildnis eines Herrn. Um 1870. Leinwand.36X27 cm.Ohne Rahmen.,944,69.7,False,positional,RAFFAEL,,CORNICI,,Sec. XIX
-BO0624_88179,578915,460,410,Tobias mit dem Engel.18.Jahrhundert. Leinwand. 33X19 cm.Ohne Rahmen.,945,67.3,False,positional,RAFFAEL,,CORNICI,,
-BO0624_88179,578916,461,411,Winterlandschaft. 18. Jahrhundert. Leinwand. 21X29 cm.Goldrahmen.,947,96.8,False,positional,RAFFAEL,,,,Sec. XVIII
+BO0624_88179,578897,442,395,Landschaft. Leinwand. 22X28 cm.Goldrahmen.,917,95.1,False,none,,,,,
+BO0624_88179,578898,443,396,Bildnis eines Herrn mit langem weiben Haare. Leinwand. 34X28 cm.Ohne Rahmen.,918,71.7,False,none,,,CORNICI,,
+BO0624_88179,578899,444,397,"Kistenlandschaft. Leinwand. 22X28 cm.Goldrahmen,",920,95.7,False,none,,,,,
+BO0624_88179,578900,445,6,398.Frauenkopi.19.Jahrhundert.,921,96.7,False,none,,,,,
+BO0624_88179,578901,446,7,Holz. 17X15 cm. Shwarzer Rahmen.,922,96.7,False,none,,,CORNICI,,
+BO0624_88179,578902,447,399,Alpensee. Leinwand. 29X37cm.Goldrahmen.,923,94.7,False,none,,,,,
+BO0624_88179,578903,448,400,Ofiziersbildnis.,924,88.2,False,none,,,,,
+BO0624_88179,578904,449,401,Kuh und Schafe.,927,87.5,False,none,,,,,
+BO0624_88179,578905,450,402,Landschaft mit badenden Frauen. Leinwand. 32X25 cm.Goldrahmen.,931,96.7,False,none,,,,,
+BO0624_88179,578906,451,403,Religiose Szene. 18. Jahrhundert. Holz.25X20 cm.Goldrahmen.,932,67.4,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88179,578907,452,404,Ecce homo. 18. Jahrhundert. Leinwand. 34X27 cm.Ohne Rahmen.,935,70.6,False,none,,,CORNICI,,Sec. XVIII
+BO0624_88179,578908,453,405,Pferde vor einer Hlitte.,936,92.0,False,none,,,,,
+BO0624_88179,578909,454,7,Leinwand. 32 x 40 cm. Ohne Rahmen.,937,96.9,False,none,,,CORNICI,,
+BO0624_88179,578910,455,8,406.Sonnenuntergang. Holz. 10X16 cm.Shwarzer Rahmen.,938,98.0,False,none,,,CORNICI,,
+BO0624_88179,578911,456,9,407.Heilige Magdalena. 18.Jahrhundert.,939,97.3,False,none,,,,,
+BO0624_88179,578912,457,10,Bled.23X18 cm.Goldrahmen.,940,94.1,False,none,,,,,
+BO0624_88179,578913,458,408,Italiener-Knabenkopf. 19.Jahrhundert. Holz.19X12 cm.Shwarzer Rahmen.,941,67.3,False,none,,,CORNICI,,
+BO0624_88179,578914,459,409,Bildnis eines Herrn. Um 1870. Leinwand.36X27 cm.Ohne Rahmen.,944,69.7,False,none,,,CORNICI,,Sec. XIX
+BO0624_88179,578915,460,410,Tobias mit dem Engel.18.Jahrhundert. Leinwand. 33X19 cm.Ohne Rahmen.,945,67.3,False,none,,,CORNICI,,
+BO0624_88179,578916,461,411,Winterlandschaft. 18. Jahrhundert. Leinwand. 21X29 cm.Goldrahmen.,947,96.8,False,none,,,,,Sec. XVIII
 BO0624_88179,578917,462,412,Salome mit dem Haupte des Johannes. Leinwand. 126X99 cm.Goldrahmen.,951,66.7,False,positional,PETER PAUIL RUBENS,SCHULE des PETER PAUIL RUBENS,,,
 BO0624_88179,578918,463,413,"Bildnis eines Herrn. Aus der Mitte des 19. Jahrhunderts. Leinwand. 73X58 cm. Shwarzer Rahmen. Bez.: Shimon, Pef 1843.",959,66.7,False,positional,SCHIMON,,CORNICI,,Sec. XIX
-BO0624_88179,578919,464,414,"Bildnis eines Mannes mit offenem Hemd. Deutfh, XVIll. Jahrhundert. Leinwand. 30X24 cm.Goldrahmen.",960,79.0,False,positional,SCHIMON,,,,
-BO0624_88179,578920,465,415,"Christus, das Kreuz tragend.18.Jahrhundert. Leinwand. 62X49 cm.Goldrahmen.",962,97.2,False,positional,SCHIMON,,,,
+BO0624_88179,578919,464,414,"Bildnis eines Mannes mit offenem Hemd. Deutfh, XVIll. Jahrhundert. Leinwand. 30X24 cm.Goldrahmen.",960,79.0,False,none,,,,,
+BO0624_88179,578920,465,415,"Christus, das Kreuz tragend.18.Jahrhundert. Leinwand. 62X49 cm.Goldrahmen.",962,97.2,False,none,,,,,
 BO0624_88179,578921,466,416,"Bacchus. Der nadkte Gott sitzt auf einem Pantherfell, in der erhobenen Rechten eine Traube haltend.",971,89.5,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88179,578922,467,417,Bildnis eines Grafen Szechenyi. 19. Jahrhundert. Leinwand.104X84cm.Goldrahmen.,976,97.4,False,positional,,ITALIENISCHE SCHULE,,,Sec. XIX
-BO0624_88179,578923,468,418,BiBende Magdalena. 18.Jahrhundert. Leinwand. 100X78 cm. Schwarzer Rahmen.,977,97.1,False,positional,,ITALIENISCHE SCHULE,CORNICI,,
+BO0624_88179,578922,467,417,Bildnis eines Grafen Szechenyi. 19. Jahrhundert. Leinwand.104X84cm.Goldrahmen.,976,97.4,False,none,,,,,Sec. XIX
+BO0624_88179,578923,468,418,BiBende Magdalena. 18.Jahrhundert. Leinwand. 100X78 cm. Schwarzer Rahmen.,977,97.1,False,none,,,CORNICI,,
 BO0624_88179,578924,469,419,BiBende Magdalena. Die unbekleidete Magdalena wird von einem Engel mit Kruzifix getroftet.,981,91.8,False,positional,,VENEZIANISCHE SCHULE,,,
 BO0624_88179,578925,470,420,Verklindigungsengel. Mit hocherhobener rechter Hand. In der linken Hand einen Lilienftengel haltend. Leinwand 91X74 cm.Moderner gruiner Rahmen.,988,68.8,False,positional,,ITALIENISCHER MEISTER,CORNICI,,
-BO0624_88179,578926,471,421,Schafherde und Efel. 19. Jahrhundert. Leinwand. 49X63 cm.Ohne Rahmen.,990,66.7,False,positional,,ITALIENISCHER MEISTER,CORNICI,,Sec. XIX
-BO0624_88179,578927,472,422,Kopf eines Jinglings.,992,90.9,False,positional,,ITALIENISCHER MEISTER,,,
-BO0624_88179,578928,473,423,Bildnis einer Dame in blauem Kleide um 1840. Leinwand.69X55cm.Goldrahmen.,996,72.9,False,positional,,ITALIENISCHER MEISTER,,,Sec. XIX
-BO0624_88179,578929,474,424,Bildnis eines Offiziers um 1810. Leinwand.72X55cm.Kirschrahmen.,998,96.8,False,positional,,ITALIENISCHER MEISTER,,,Sec. XIX
-BO0624_88179,578930,475,425,Schlachtenbild. 18.Jahrhundert. Leinwand.55X85 cm.Goldrahmen.,999,96.7,False,positional,,ITALIENISCHER MEISTER,,,
+BO0624_88179,578926,471,421,Schafherde und Efel. 19. Jahrhundert. Leinwand. 49X63 cm.Ohne Rahmen.,990,66.7,False,none,,,CORNICI,,Sec. XIX
+BO0624_88179,578927,472,422,Kopf eines Jinglings.,992,90.9,False,none,,,,,
+BO0624_88179,578928,473,423,Bildnis einer Dame in blauem Kleide um 1840. Leinwand.69X55cm.Goldrahmen.,996,72.9,False,none,,,,,Sec. XIX
+BO0624_88179,578929,474,424,Bildnis eines Offiziers um 1810. Leinwand.72X55cm.Kirschrahmen.,998,96.8,False,none,,,,,Sec. XIX
+BO0624_88179,578930,475,425,Schlachtenbild. 18.Jahrhundert. Leinwand.55X85 cm.Goldrahmen.,999,96.7,False,none,,,,,
 BO0624_88179,578931,476,426,Mann und Knaben. Leinwand.77X87 cm. Goldrahmen.,1004,78.4,False,positional,CORREGGIO,,,,
-BO0624_88179,578932,477,427,M&amp;nner und Knaben. Leinwand.80X88 cm.Goldrahmen,1005,96.2,False,positional,CORREGGIO,,,,
+BO0624_88179,578932,477,427,M&amp;nner und Knaben. Leinwand.80X88 cm.Goldrahmen,1005,96.2,False,none,,,,,
 BO0624_88179,578933,478,428,Kopf eines bartigen Mannes. Leinwand.51X40 cm.Ohne Rahmen.,1010,69.0,False,positional,TINTORETTO,,CORNICI,,
 BO0624_88179,578934,479,429,Landschaft. 19.Jahrhundert. Aquarell. Pappe 26X34 cm.Goldrahmen.,1014,96.8,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578935,480,430,Landschaft.19.Jahrhundert. Aquarell. Pappe 26X34 cm.Goldrahmen.,1015,96.8,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578936,481,431,Zwei Damen der Rokokozeit als Shaferinnen.,1016,95.3,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578937,482,432,Dekoratives Landschaftsbild. Italienifher Walferfall. Leinwand. 50X94 cm.Goldrahmen.,1018,97.6,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578938,483,433,Christuskopf. Leinwand. 51X40 cm. Goldrahmen.,1019,95.3,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578939,484,434,Seestick.,1020,80.0,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578940,485,435,Landschaft mit GieBbach. 18.Jahrhundert. Leinwand. 49X56 cm.Goldrahmen.,1022,97.1,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578941,486,436,"Konig Lear, in seinen Armen Cordelia haltend. 19. Jahrhundert. Leinwand. 55X43 cm.Goldrahmen.",1023,97.8,False,positional,KHEVENHULLER,,,,Sec. XIX
-BO0624_88179,578942,487,437,Tiroler Schanke. 19.Jahrhundert. Leinwand.44X53 cm.Goldrahmen.,1024,96.7,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578943,488,438,Dame.Oldrudk. Pappe. 44X32 cm.Goldrahmen.,1025,95.0,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578944,489,439,Bildnis eines alten Mannes. Apoftel (. 18. Jahrhundert. Leinwand.53X40 cm.Goldrahmen.,1026,97.5,False,positional,KHEVENHULLER,,,,Sec. XVIII
-BO0624_88179,578945,490,440,Insel Philae.19.Jahrhundert. Leinwand. 45X59 cm.Goldrahmen.,1027,96.6,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578946,491,441,Drei Studienkopfe. UIm 1880. Leinwand. 44X55cm.Goldrahmen.,1028,96.4,False,positional,KHEVENHULLER,,,,Sec. XIX
-BO0624_88179,578947,492,442,Bildnis eines geharnischten Mannes. 19. Jahrhundert. Leinwand. 72X57 cm.Ohne Rahmen.,1029,97.5,False,positional,KHEVENHULLER,,CORNICI,,Sec. XIX
-BO0624_88179,578948,493,443,Stilleben. Totes Geflugel. Leinwand. 46X45 cm. Shwarzer Rahmen.,1030,96.7,False,positional,KHEVENHULLER,,CORNICI,,
-BO0624_88179,578949,494,444,Bildnis eines Mannes. Karl XIl. von Frankreich ().,1031,95.7,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578950,495,445,Kopf eines Apostels. 18. Jahrhundert.,1033,94.4,False,positional,KHEVENHULLER,,,,Sec. XVIII
-BO0624_88179,578951,496,446,Maria (Kopf). Holz.20X26 cm. Gruiner Holzrahmen.,1035,95.6,False,positional,KHEVENHULLER,,OGGETTI IN LEGNO,,
-BO0624_88179,578952,497,447,Landschaft mit Kuhen. Holz.24X34 cm.Goldrahmen.,1036,95.7,False,positional,KHEVENHULLER,,OGGETTI IN LEGNO,,
-BO0624_88179,578953,498,448,Wistenlandschait. 19.Jahrhundert. Leinwand. 45X60 cm. Goldrahmen.,1041,65.3,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578954,499,449,SchloB und Parklandschaft. Leinwand. 56X44 cm.Goldrahmen.,1043,96.4,False,positional,KHEVENHULLER,,,,
-BO0624_88179,578955,500,450,Jagdstilleben.,1044,86.7,False,positional,KHEVENHULLER,,,,
+BO0624_88179,578935,480,430,Landschaft.19.Jahrhundert. Aquarell. Pappe 26X34 cm.Goldrahmen.,1015,96.8,False,none,,,,,
+BO0624_88179,578936,481,431,Zwei Damen der Rokokozeit als Shaferinnen.,1016,95.3,False,none,,,,,
+BO0624_88179,578937,482,432,Dekoratives Landschaftsbild. Italienifher Walferfall. Leinwand. 50X94 cm.Goldrahmen.,1018,97.6,False,none,,,,,
+BO0624_88179,578938,483,433,Christuskopf. Leinwand. 51X40 cm. Goldrahmen.,1019,95.3,False,none,,,,,
+BO0624_88179,578939,484,434,Seestick.,1020,80.0,False,none,,,,,
+BO0624_88179,578940,485,435,Landschaft mit GieBbach. 18.Jahrhundert. Leinwand. 49X56 cm.Goldrahmen.,1022,97.1,False,none,,,,,
+BO0624_88179,578941,486,436,"Konig Lear, in seinen Armen Cordelia haltend. 19. Jahrhundert. Leinwand. 55X43 cm.Goldrahmen.",1023,97.8,False,none,,,,,Sec. XIX
+BO0624_88179,578942,487,437,Tiroler Schanke. 19.Jahrhundert. Leinwand.44X53 cm.Goldrahmen.,1024,96.7,False,none,,,,,
+BO0624_88179,578943,488,438,Dame.Oldrudk. Pappe. 44X32 cm.Goldrahmen.,1025,95.0,False,none,,,,,
+BO0624_88179,578944,489,439,Bildnis eines alten Mannes. Apoftel (. 18. Jahrhundert. Leinwand.53X40 cm.Goldrahmen.,1026,97.5,False,none,,,,,Sec. XVIII
+BO0624_88179,578945,490,440,Insel Philae.19.Jahrhundert. Leinwand. 45X59 cm.Goldrahmen.,1027,96.6,False,none,,,,,
+BO0624_88179,578946,491,441,Drei Studienkopfe. UIm 1880. Leinwand. 44X55cm.Goldrahmen.,1028,96.4,False,none,,,,,Sec. XIX
+BO0624_88179,578947,492,442,Bildnis eines geharnischten Mannes. 19. Jahrhundert. Leinwand. 72X57 cm.Ohne Rahmen.,1029,97.5,False,none,,,CORNICI,,Sec. XIX
+BO0624_88179,578948,493,443,Stilleben. Totes Geflugel. Leinwand. 46X45 cm. Shwarzer Rahmen.,1030,96.7,False,none,,,CORNICI,,
+BO0624_88179,578949,494,444,Bildnis eines Mannes. Karl XIl. von Frankreich ().,1031,95.7,False,none,,,,,
+BO0624_88179,578950,495,445,Kopf eines Apostels. 18. Jahrhundert.,1033,94.4,False,none,,,,,Sec. XVIII
+BO0624_88179,578951,496,446,Maria (Kopf). Holz.20X26 cm. Gruiner Holzrahmen.,1035,95.6,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88179,578952,497,447,Landschaft mit Kuhen. Holz.24X34 cm.Goldrahmen.,1036,95.7,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88179,578953,498,448,Wistenlandschait. 19.Jahrhundert. Leinwand. 45X60 cm. Goldrahmen.,1041,65.3,False,none,,,,,
+BO0624_88179,578954,499,449,SchloB und Parklandschaft. Leinwand. 56X44 cm.Goldrahmen.,1043,96.4,False,none,,,,,
+BO0624_88179,578955,500,450,Jagdstilleben.,1044,86.7,False,none,,,,,
 BO0624_88179,578956,501,451,Frichtestilleben. Leinwand. 40X47 cm.Goldrahmen. ## UNBEKANNT.,1050,86.5,False,positional,GALLLAJO,,,,
-BO0624_88179,578957,502,452,Landschaft mit Kihen. 19. Jahrhundert.,1056,94.6,False,positional,GALLLAJO,,,,Sec. XIX
-BO0624_88179,578958,503,453,Zwei weibliche Studienkopfe.1880er Jahre.,1058,95.2,False,positional,GALLLAJO,,,,
-BO0624_88179,578959,504,454,Blumenstilleben.18. Jahrhundert.,1060,93.8,False,positional,GALLLAJO,,OGGETTI VARI,,
-BO0624_88179,578960,505,455,Bildnis eines Herrn. Niederl. XVIl. Jahrhundert. Kopie. Leinwand. 66X53cm.Moderner Rahmen.,1062,97.6,False,positional,GALLLAJO,,CORNICI,,
-BO0624_88179,578961,506,456,Bildnis eines jungen Madchens. 19. Jahrhundert. Leinwand. 55X42 cm.Goldrahmen.,1063,97.3,False,positional,GALLLAJO,,,,Sec. XIX
-BO0624_88179,578962,507,457,Spielende Fichse. 19.Jahrhundert.,1064,93.9,False,positional,GALLLAJO,,,,
-BO0624_88179,578963,508,458,Bildnis eines Ungarn. 19.Jahrhundert.,1066,94.6,False,positional,GALLLAJO,,,,
-BO0624_88179,578964,509,459,"Christus, das Brot brechend. Kupfer.63X40 cm.Goldrahmen.",1068,96.4,False,positional,GALLLAJO,,OGGETTI IN RAME,,
-BO0624_88179,578965,510,460,Waldige Gebirgslandschait. 19.Jahrhundert. Leinwand. 46X58cm.Goldrahmen.,1069,97.1,False,positional,GALLLAJO,,,,
-BO0624_88179,578966,511,461,Die Familie der heiligen Maria. 18. Jahrhundert.,1070,95.7,False,positional,GALLLAJO,,,,Sec. XVIII
-BO0624_88179,578967,512,462,Schiffbrlichige. 18.Jahrhundert.,1072,93.8,False,positional,GALLLAJO,,,,
-BO0624_88179,578968,513,463,Tirkenschlacht. Leinwand. 53X79 cm.Goldrahmen.,1074,95.6,False,positional,GALLLAJO,,,,
-BO0624_88179,578969,514,464,Blumenstilleben.18. Jahrhundert. Leinwand. 68X100 cm.Goldrahmen.,1075,96.8,False,positional,GALLLAJO,,OGGETTI VARI,,
+BO0624_88179,578957,502,452,Landschaft mit Kihen. 19. Jahrhundert.,1056,94.6,False,none,,,,,Sec. XIX
+BO0624_88179,578958,503,453,Zwei weibliche Studienkopfe.1880er Jahre.,1058,95.2,False,none,,,,,
+BO0624_88179,578959,504,454,Blumenstilleben.18. Jahrhundert.,1060,93.8,False,none,,,OGGETTI VARI,,
+BO0624_88179,578960,505,455,Bildnis eines Herrn. Niederl. XVIl. Jahrhundert. Kopie. Leinwand. 66X53cm.Moderner Rahmen.,1062,97.6,False,none,,,CORNICI,,
+BO0624_88179,578961,506,456,Bildnis eines jungen Madchens. 19. Jahrhundert. Leinwand. 55X42 cm.Goldrahmen.,1063,97.3,False,none,,,,,Sec. XIX
+BO0624_88179,578962,507,457,Spielende Fichse. 19.Jahrhundert.,1064,93.9,False,none,,,,,
+BO0624_88179,578963,508,458,Bildnis eines Ungarn. 19.Jahrhundert.,1066,94.6,False,none,,,,,
+BO0624_88179,578964,509,459,"Christus, das Brot brechend. Kupfer.63X40 cm.Goldrahmen.",1068,96.4,False,none,,,OGGETTI IN RAME,,
+BO0624_88179,578965,510,460,Waldige Gebirgslandschait. 19.Jahrhundert. Leinwand. 46X58cm.Goldrahmen.,1069,97.1,False,none,,,,,
+BO0624_88179,578966,511,461,Die Familie der heiligen Maria. 18. Jahrhundert.,1070,95.7,False,none,,,,,Sec. XVIII
+BO0624_88179,578967,512,462,Schiffbrlichige. 18.Jahrhundert.,1072,93.8,False,none,,,,,
+BO0624_88179,578968,513,463,Tirkenschlacht. Leinwand. 53X79 cm.Goldrahmen.,1074,95.6,False,none,,,,,
+BO0624_88179,578969,514,464,Blumenstilleben.18. Jahrhundert. Leinwand. 68X100 cm.Goldrahmen.,1075,96.8,False,none,,,OGGETTI VARI,,

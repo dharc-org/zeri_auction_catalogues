@@ -346,7 +346,7 @@ BO0624_88759,279799,344,457,"Serie degli uomini illustri nella pittura,  scultur
 BO0624_88759,279800,345,458,"Grose,Fr. Antiquities of Ireland. London 1797. 2 Bde. Folio. Mit 2 Titelkupfern, gestochenen Titeln und 266 schonen Kupfertafeln. Rote Maroquinbde.mit dekorativer Vergoldung. Prachtexemplar auf groBem Papier.",512,99.0,False,positional,,,BUCHER,,Sec. XVIII
 BO0624_88759,279801,346,459,Choix de Gravures a l'eau-forte de la Galerie de Lucien Bonaparte. Londres 1812.Folio. Mit 142 radierten Tafeln. Hochst dekorativer reich vergoldeter Maroquinbd.mit Goldschnitt. Prachtexemplar.,513,98.9,False,positional,,Manifattura di Hochst,STAMPE E INCISIONI,,Sec. XIX
 BO0624_88759,279802,347,460,"Les Francais peints par Eux-memes.Paris 1840. 9 Bde. 40. Mit 8 gezeichneten Titeln, 407 Holzschnitt-Tafeln sowie 1331 Holzschnitten i. T. von Daumier, Gavarnis, Monnier u.a. Halblederbde. mit Vergoldung.E Erste Ausgabe des berihmten Werkes. Sehr schones ganz vollstandiges Exemplar.",514,99.3,False,positional,DAUMIER,,BUCHER,,Sec. XIX
-BO0624_88759,279803,348,461,Gavarni. Masques et Visages. Paris o.J. Folio. Mit einigen Holzschnitten i. T. sowie 70 prachtvollen ganzseitigen Lithographien von Gavarni. Original-,515,98.6,False,positional,,,STAMPE E INCISIONI,,
+BO0624_88759,279803,348,461,Gavarni. Masques et Visages. Paris o.J. Folio. Mit einigen Holzschnitten i. T. sowie 70 prachtvollen ganzseitigen Lithographien von Gavarni. Original-,515,98.6,False,positional,GAVARNI,,STAMPE E INCISIONI,,
 BO0624_88759,279804,349,462,Le Sage. Gil Blas. Vignettes par Jean Gigoux. Paris 1836. In 2 Leinenbden.,517,97.2,False,positional,,,BUCHER,,Sec. XIX
 BO0624_88759,279805,350,463,Balzac. Contes Drolatiques. Paris 1855. Mit Holzschnitten von Gustave,518,97.1,False,positional,,,BUCHER,,Sec. XIX
 BO0624_88759,279806,351,464,La Fontaine. Fables. Paris 1839. Mit 240 Holzschnitten von Grandville.,520,97.1,False,positional,,,BUCHER,,Sec. XIX
@@ -484,7 +484,7 @@ BO0624_88759,279937,482,605,W. VAN BEMMEL: Romantische Landschaft bei Gewitler. 
 BO0624_88759,279938,483,606,SCHULE DES Fr. FRANCKEN:Gefangennahme Christi. Lwd. S-R. 85x61 cm.,729,96.8,False,positional,,Famiglia Francken,GRAPHIK; GEMALDE,,
 BO0624_88759,279939,484,607,SPANISCHE SCHULE (um 1700): Bildnis einer Edeldame in Parklandschaft. Lwd.S.R.63x46 cm.,730,97.6,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88759,279940,485,608,AQUATINTA (Ende 18. Jahrh.): Spazierganger vor einem romischen TORE.,732,96.9,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
-BO0624_88759,279941,486,609,"SCHULE DES GASPARD DUGHET (gest. 1675 zu Rom): Halienische Landschaft mit Ruinen, am FluB Hirten mit Herde lagernd. Lwd.S.-R 46×59cm.",733,98.4,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVII
+BO0624_88759,279941,486,609,"SCHULE DES GASPARD DUGHET (gest. 1675 zu Rom): Halienische Landschaft mit Ruinen, am FluB Hirten mit Herde lagernd. Lwd.S.-R 46×59cm.",733,98.4,False,positional,"DUGHET GASPARD, POUSSIN",,GRAPHIK; GEMALDE,,Sec. XVII
 BO0624_88759,279942,487,610,SCHULE DES EMANUEL MURANT (gest. 1700): Meereskuste mit Burg,734,96.6,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
 BO0624_88759,279943,488,611,ART DES RIEDINGER: Hirsche und Rehe im Walde. Holz. S.R. 43×75cm.,736,96.8,False,positional,,,OGGETTI IN LEGNO,,
 BO0624_88759,279944,489,612,MALER DES 18. JAHRH.: Bildnis eines graubartigen Pilgers in brauner,737,97.0,False,positional,,,GRAPHIK; GEMALDE,,Sec. XVIII
@@ -537,7 +537,7 @@ BO0624_88759,279990,535,659,GER. BUNTDRUCK von C. Breitbach.,808,93.5,False,posi
 BO0624_88759,279991,536,660,W. KUHNERT: Der Konigstiger. Sign.und datiert 90.Lwd. G.R. 63×80 cm. Abbildung Tafel 4.,809,97.6,False,positional,,,GEMALDE; GRAPHIK,,
 BO0624_88759,279992,537,661,D. P. VAN LOKHORST:Die Schafherde. In Flachlandschaft eine grasende Schafherde. Sign. Lwd. S.-R. 38x58 cm.,810,98.0,False,positional,,,GEMALDE; GRAPHIK,,
 BO0624_88759,279993,538,662,DERSELBE: Kuhe in der Tranke. Ruckwarts Flachlandschaft mit figurlicher Abbildung Tafel 4.,811,97.8,False,positional,,,GEMALDE; GRAPHIK,,
-BO0624_88759,279994,539,663,B. C. KOEKKOEK (1803-1862): Waldlandschaft. Auf einem Waldweg Rast von umherziehenden Bauern. Zur Rechten ein vor einem Marterl betendes Paar.Lwd.G.R. 80x106 cm. Abbildung Tafel 3.,813,98.8,False,positional,,,GEMALDE; GRAPHIK,,Sec. XIX
+BO0624_88759,279994,539,663,B. C. KOEKKOEK (1803-1862): Waldlandschaft. Auf einem Waldweg Rast von umherziehenden Bauern. Zur Rechten ein vor einem Marterl betendes Paar.Lwd.G.R. 80x106 cm. Abbildung Tafel 3.,813,98.8,False,positional,KOEKKOEK B. C.,,GEMALDE; GRAPHIK,,Sec. XIX
 BO0624_88759,279995,540,664,HERM. SEEGER: Lautespielendes Madchen am Strand. Sign. Lwd. G.R. 70x90cm.,814,97.1,False,positional,,,GEMALDE; GRAPHIK,,
 BO0624_88759,279996,541,665,A.FLAMM: Wascherinnen im Tal bei Tivoli. Sign. Lwd. G.R. 45x35 cm.,815,96.8,False,positional,,,GEMALDE; GRAPHIK,,
 BO0624_88759,279997,542,666,"P. DIEHL: Seestick Vor Terschelling"". Sign. Lwd. S.-R. 65x85 cm.",816,96.5,False,positional,,,GEMALDE; GRAPHIK,,

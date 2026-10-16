@@ -2,7 +2,7 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_84223,304213,1,I,"l est assis, en habit bleu, sur une chaise de bois, devant une table ou sont épars des godets, un porte-crayon et une tige fleurie de renoncule. Le visage de trois quarts vers la droite,il tient un feuillet sur lequel il vient de peindre des roses.",336,99.8,False,positional,,ECOLE FRANCAISE,OGGETTI IN LEGNO,,
 BO0624_84223,304214,2,21,Amours musiciens. Amours architectes. Amours peintres.— Amours sculpteurs.— Amours poetes. — Amours astronomes.,347,98.5,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84223,304215,3,21,bis des personnages dansant dans un parc.,363,97.6,False,positional,,ECOLE FRANCAISE,,,
-BO0624_84223,304216,4,I,l est monte sur un piedouche garni de bronze.,365,98.9,False,positional,,ECOLE FRANCAISE,,,
+BO0624_84223,304216,4,I,l est monte sur un piedouche garni de bronze.,365,98.9,False,none,,,,,
 BO0624_84223,304217,5,23,## HUET,383,100.0,False,title_direct,HUET,,,,
 BO0624_84223,304218,6,35,## 35 —La Fontaine.,591,100.0,False,positional,ROBERT,,,,
 BO0624_84223,304219,7,36,## 36—La Pyramide.,608,100.0,False,positional,ROBERT,,,,

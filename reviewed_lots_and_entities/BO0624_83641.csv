@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83641,680983,1,16,-La cuisiniere.,7,89.7,False,positional,BONVIN,,,,
-BO0624_83641,680984,2,27,Les Chaumieres.,16,90.3,False,positional,BONVIN,,,,
+BO0624_83641,680984,2,27,Les Chaumieres.,16,90.3,False,none,,,,,
 BO0624_83641,680985,3,32,Buste de jeune femme.,31,95.2,False,positional,HENNER,,,,
 BO0624_83641,680986,4,47,Portrait d'homme.,42,91.4,False,positional,RIBOT,,,,
 BO0624_83641,680987,5,48,La femme aux bouteilles.,52,93.9,False,positional,RIBOT,,,,

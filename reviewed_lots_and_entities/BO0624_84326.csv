@@ -2,8 +2,8 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_84326,364052,1,1812,1867.,51,61.5,False,positional,ROUSSEAU,,,,Sec. XIX
 BO0624_84326,364053,2,1847,1906.,69,61.5,False,positional,THAULOW,,,,Sec. XX
 BO0624_84326,364054,3,3,Boissy-d'Anglas presidant la seance du Iprairial a la Convention.,174,98.5,False,positional,VERNET,,,,
-BO0624_84326,364055,4,12,13,182,100.0,False,positional,VERNET,,,,
-BO0624_84326,364056,5,14,donne a N. Lancret.,185,100.0,False,positional,VERNET,,,,
+BO0624_84326,364055,4,12,13,182,100.0,False,none,,,,,
+BO0624_84326,364056,5,14,donne a N. Lancret.,185,100.0,False,none,LANCRET NICOLAS,,,,
 BO0624_84326,364057,6,15,L'Eau.,199,76.9,False,positional,,ECOLE ITALIENNE,,,
 BO0624_84326,364058,7,16,一,211,40.0,False,positional,GAEL,,,,
 BO0624_84326,364059,8,20,"decorees en émaux polychromes, de scenes a personnages.",271,97.2,False,positional,,,Objets d'Art,,

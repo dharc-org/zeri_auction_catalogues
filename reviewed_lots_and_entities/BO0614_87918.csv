@@ -25,7 +25,7 @@ BO0614_87918,521409,23,23,"Jan Paul Gillemans (geb.zu Antwerpen 1618,gest. nach 
 BO0614_87918,521410,24,24,J.H. Gryeff. Stilleben.,243,66.7,False,title_direct,J.H.Gryeff,,,,
 BO0614_87918,521411,25,25,"Willem Klaasz Heda (geb. zu Haarlem 1594, gest. nach 1678). Stilleben.",259,70.1,False,title_direct,Willem Klaasz Heda,,,,Sec. XVI
 BO0614_87918,521412,26,26,"Gerard Hoet  (geb.zu Bommel 1648,gest. im Haag 1733). Diana und ihre Nymphen im Bade.",276,62.6,False,title_direct,Gerard Hoet,,,,Sec. XVII
-BO0614_87918,521413,27,27,Schlachtenszene,286,100.0,False,positional,Gerard Hoet,,,,
+BO0614_87918,521413,27,27,Schlachtenszene,286,100.0,False,none,,,,,
 BO0614_87918,521414,28,28,"Abraham Janssens van Nuyssen (geb.zu Antwerpen 1575, gest.1632). Sybilla",296,62.6,False,title_direct,Abraham Janssens van Nuyssen,,,,Sec. XVI
 BO0614_87918,521415,29,29,"Alexander Keirincx (geb. zu Antwerpen 1600, gest. zu Amsterdam 1652). Waldlandschaft mit alttestamentlicher Darstellung.",304,59.4,False,title_direct,Alexander Keirincx,,,,Sec. XVII
 BO0614_87918,521416,30,30,"Johann Kupetzky (geb. zu Poesing bei Pressburg 1666, gest. zu Nuirnberg 1740). Portrat eines Malers.",314,73.0,False,title_direct,Johann Kupetzky,,,,Sec. XVII
@@ -59,16 +59,16 @@ BO0614_87918,521443,57,57,"Herman van Swanevelt  (geb. zu Woerden 1600, gest. zu
 BO0614_87918,521444,58,58,"Jan Philips van Thielen (geb. zu Mecheln 1618, gest. zu Boisschot 1667). Blumenstilleben.",656,67.7,False,title_direct,Jan Philips van Thielen,,OGGETTI VARI,,Sec. XVII
 BO0614_87918,521445,59,59,"Jan Philips van Thielen (geb. zu Mecheln 1618, gest. zu Boisschot 1667). Gegenstick zum Vorigen.",670,40.4,False,title_direct,Jan Philips van Thielen,,,,Sec. XVII
 BO0614_87918,521446,60,60,"Lucas van Uden (geb.zu Antwerpen 1595, gest. daselbst 1672). Dorflandschaft.",678,72.7,False,title_direct,Lucas van Uden,,,,Sec. XVI
-BO0614_87918,521447,61,61,Unbekannt. Ecce-homo.,686,64.5,False,positional,Lucas van Uden,,,,
+BO0614_87918,521447,61,61,Unbekannt. Ecce-homo.,686,64.5,False,none,,,,,
 BO0614_87918,521448,62,62,Unbekannt. Mater dolorosa. Gegenstick zum Vorigen.,703,87.4,False,positional,,Art des Jan Steen,,,
-BO0614_87918,521449,63,63,Unbekannt. Predigt des hl. Johannes.,711,82.1,False,positional,,Art des Jan Steen,,,
-BO0614_87918,521450,64,64,Unbekannt. St. Antonius in Landschaft.,727,82.5,False,positional,,Art des Jan Steen,,,
-BO0614_87918,521451,65,65,Unbekannt. Der Fischhandler.,729,75.6,False,positional,,Art des Jan Steen,,,
-BO0614_87918,521452,66,66,Unbekannt. Winterlandschaft.,737,75.6,False,positional,,Art des Jan Steen,,,
-BO0614_87918,521453,67,67,Unbekannt. Landschaft.,747,66.7,False,positional,,Art des Jan Steen,,,
-BO0614_87918,521454,68,68,Unbekannt. Flamische Landschaft mit reicher figirlicher Staffage. 17. Jahrhundert.,753,92.6,False,positional,,Art des Jan Steen,,,Sec. XVII
-BO0614_87918,521455,69,69,Unbekannt. Gegenstick zum Vorigen.,764,81.5,False,positional,,Art des Jan Steen,,,
-BO0614_87918,521456,70,70,Unbekannt. Blumenstilleben.,772,74.4,False,positional,,Art des Jan Steen,OGGETTI VARI,,
+BO0614_87918,521449,63,63,Unbekannt. Predigt des hl. Johannes.,711,82.1,False,none,,,,,
+BO0614_87918,521450,64,64,Unbekannt. St. Antonius in Landschaft.,727,82.5,False,none,,,,,
+BO0614_87918,521451,65,65,Unbekannt. Der Fischhandler.,729,75.6,False,none,,,,,
+BO0614_87918,521452,66,66,Unbekannt. Winterlandschaft.,737,75.6,False,none,,,,,
+BO0614_87918,521453,67,67,Unbekannt. Landschaft.,747,66.7,False,none,,,,,
+BO0614_87918,521454,68,68,Unbekannt. Flamische Landschaft mit reicher figirlicher Staffage. 17. Jahrhundert.,753,92.6,False,none,,,,,Sec. XVII
+BO0614_87918,521455,69,69,Unbekannt. Gegenstick zum Vorigen.,764,81.5,False,none,,,,,
+BO0614_87918,521456,70,70,Unbekannt. Blumenstilleben.,772,74.4,False,none,,,OGGETTI VARI,,
 BO0614_87918,521457,71,71,"Adriaen Hendriksz Verboom (geb.zu Amsterdam 1628, gest. daselbst nach 1667). Landschaft bei Abendstimmung.",782,62.1,False,title_direct,Adriaen Hendriksz Verboom,,,,Sec. XVII
 BO0614_87918,521458,72,72,"Esaias van de Velde (geb. zu Amsterdam vor 1590, gest.zu Leiden 1630). Rast im Walde.",800,71.0,False,title_direct,Esaias van de Velde,,,,Sec. XVI
 BO0614_87918,521459,73,73,"Esaias van de Velde (geb. zu Amsterdam vor 1590, gest.zu Leiden 1630). Markt am Wall.",804,42.2,False,title_direct,Esaias van de Velde,,,,Sec. XVI

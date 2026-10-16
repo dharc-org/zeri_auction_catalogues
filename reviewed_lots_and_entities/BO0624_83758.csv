@@ -19,7 +19,7 @@ BO0624_83758,33716,17,17,"Crome. Une Ferme, pres Norwich.",283,83.0,False,positi
 BO0624_83758,33717,18,18,"CROOS, J.VAN. 1650. Marine par un gros temps.",297,73.8,False,title_direct,CROOS,,,,Sec. XVII
 BO0624_83758,33718,19,19,"Cuyp, Albert. 1606-1667. Le Depart pour la chasse.",316,65.8,False,positional,CUYP,,,,Sec. XVII
 BO0624_83758,33719,20,20,Drolling. 1752-1817. La Fuite.,329,45.7,False,positional,DROLLING,,,,Sec. XVIII
-BO0624_83758,33720,21,21,Drolling. 1752-1817. Le Regret.,333,53.1,False,positional,DROLLING,,,,Sec. XVIII
+BO0624_83758,33720,21,21,Drolling. 1752-1817. Le Regret.,333,53.1,False,none,,,,,Sec. XVIII
 BO0624_83758,33721,22,22,"GRYF, ADRIEN. XVII siecle. Chasseurs, chiens et gibier.",364,68.4,False,title_direct,GRYF,,,,Sec. XVII
 BO0624_83758,33722,23,23,"HALS, DIRCK.1589-1656. Scene de cour.",384,55.3,False,title_direct,HALS,,,,Sec. XVII
 BO0624_83758,33723,24,24,Mierevelt. 1567-1641. Portrait d’une Dame de qualite.,399,77.1,False,positional,MIEREVELT,,,,Sec. XVI
@@ -47,14 +47,14 @@ BO0624_83758,740017,45,45,VoS. 1590-1678. Chiens et gibier.,782,65.3,False,title
 BO0624_83758,740018,46,46,Wouwerman. 1620-1668. Le Depart pour la chasse.,793,73.2,False,positional,WOUWERMAN,,,,Sec. XVII
 BO0624_83758,740019,47,47,Wouwerman. Halte devant une chaumiere.,812,83.1,False,positional,WOUWERMAN,,,,
 BO0624_83758,740020,48,48,"WYNANTS, JEAN. 1600-1670. Paysage; effet de soleil couchant.",833,71.1,False,title_direct,WYNANTS,,,,Sec. XVII
-BO0624_83758,740022,49,49,Ecole hollandaise. XVIII siecle. Paravent a six feuilles.,837,38.9,False,positional,WYNANTS,,ARREDAMENTI,,Sec. XVIII
-BO0624_83758,740023,50,50,Garniture de cinq pieces,839,43.6,False,positional,WYNANTS,,,,
-BO0624_83758,740024,51,51,Deux grandes potiches,841,42.9,False,positional,WYNANTS,,,,
-BO0624_83758,740025,52,52,Medaillon ovale,845,40.9,False,positional,WYNANTS,,,,
-BO0624_83758,740026,53,53,Medaillon ovale,847,32.4,False,positional,WYNANTS,,,,
+BO0624_83758,740022,49,49,Ecole hollandaise. XVIII siecle. Paravent a six feuilles.,837,38.9,False,none,,,ARREDAMENTI,,Sec. XVIII
+BO0624_83758,740023,50,50,Garniture de cinq pieces,839,43.6,False,none,,,,,
+BO0624_83758,740024,51,51,Deux grandes potiches,841,42.9,False,none,,,,,
+BO0624_83758,740025,52,52,Medaillon ovale,845,40.9,False,none,,,,,
+BO0624_83758,740026,53,53,Medaillon ovale,847,32.4,False,none,,,,,
 BO0624_83758,740027,54,55,Deux grands landiers en bronze,848,38.3,False,positional,,ECOLE HOLLANDAISE,,,
-BO0624_83758,740028,55,56,Grande pendule,852,40.0,False,positional,,ECOLE HOLLANDAISE,,,
-BO0624_83758,740029,56,57,Statuette en bronze,858,34.0,False,positional,,ECOLE HOLLANDAISE,,,
+BO0624_83758,740028,55,56,Grande pendule,852,40.0,False,none,,,,,
+BO0624_83758,740029,56,57,Statuette en bronze,858,34.0,False,none,,,,,
 BO0624_83758,740030,57,58,Paire de candelabres,865,51.6,False,positional,,,CANDELABRI,,
 BO0624_83758,740031,58,59,Paire de candelabres,879,38.8,False,positional,,,CANDELABRI,,
 BO0624_83758,740032,59,60,Deux Chenets,886,38.9,False,positional,,,SCULPTURES,,

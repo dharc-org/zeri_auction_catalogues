@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84034,728151,1,3,"France,plus tard Charles X).",41,96.3,False,positional,DROUAIS,,,,
-BO0624_84034,728152,2,1752,).,43,0.0,False,positional,DROUAIS,,,,
+BO0624_84034,728152,2,1752,).,43,0.0,False,none,,,,,
 BO0624_84034,728153,3,10,"Anne-Henriette de France, dite Madame Henriette,seconde fille de Louis XV (1727-",147,98.1,False,positional,NATTIER,Periodo di Luigi XV,,,Sec. XVIII
 BO0624_84034,728154,4,21,## ECOLE FRANCAISE,279,100.0,False,title_direct,,ECOLE FRANCAISE,,,
 BO0624_84034,728155,5,I,"l est en costume de theatre,debout, en pied, de face.",347,99.0,False,positional,,ECOLE FRANCAISE,,,

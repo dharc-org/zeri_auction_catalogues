@@ -1,47 +1,47 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83649,13377,1,1610,1690,22,61.5,False,positional,TENIERS,,,,Sec. XVII
-BO0624_83649,13378,2,1,Paysage et figures.,24,94.7,False,positional,TENIERS,,,,
+BO0624_83649,13378,2,1,Paysage et figures.,24,94.7,False,none,,,,,
 BO0624_83649,13379,3,2,La Fete de la grand’mere.,39,96.0,False,positional,BOILLY,,,,
-BO0624_83649,13380,4,1660,?,41,0.0,False,positional,BOILLY,,,,
+BO0624_83649,13380,4,1660,?,41,0.0,False,none,,,,,
 BO0624_83649,13381,5,1660,1700,56,61.5,False,positional,BOUDEWYNS,Scuola Veneziana,,,Sec. XVIII
-BO0624_83649,13382,6,3,Paysage montueux. 1625,58,82.1,False,positional,BOUDEWYNS,,,,Sec. XVII
+BO0624_83649,13382,6,3,Paysage montueux. 1625,58,82.1,False,none,,,,,Sec. XVII
 BO0624_83649,13383,7,4,Le Marche aux poissons.,74,95.7,False,positional,BREUGHEL,,,,
-BO0624_83649,13384,8,5,LeBac.,89,83.3,False,positional,BREUGHEL,,,,
+BO0624_83649,13384,8,5,LeBac.,89,83.3,False,none,,,,,
 BO0624_83649,13385,9,6,Paysage accidente. 1674,109,82.9,False,positional,BREUGHEL,,,,Sec. XVII
 BO0624_83649,13386,10,7,Portrait d’un Architecte.,128,96.0,False,positional,CHAMPAIGNE,,,,
 BO0624_83649,13387,11,8,Les Deux Musiciens.,140,94.7,False,positional,CODDE,,,,
-BO0624_83649,13388,12,I,"ls sont assis dans un interieur. L'un d'eux, la tete couverte d'un chapeau a larges bords,les jambes croisees, pince du luth; l'autre porte un vetement gris et joue du violon; pres de lui, une basse. A droite, une table couverte d'un tapis rouge sur lequel sont poses une figure academique et differents objets de musique.",142,99.8,False,positional,CODDE,,ARREDAMENTI,,
-BO0624_83649,13389,13,10,Fruits et gibier.,145,91.4,False,positional,CODDE,,,,
+BO0624_83649,13388,12,I,"ls sont assis dans un interieur. L'un d'eux, la tete couverte d'un chapeau a larges bords,les jambes croisees, pince du luth; l'autre porte un vetement gris et joue du violon; pres de lui, une basse. A droite, une table couverte d'un tapis rouge sur lequel sont poses une figure academique et differents objets de musique.",142,99.8,False,none,,,ARREDAMENTI,,
+BO0624_83649,13389,13,10,Fruits et gibier.,145,91.4,False,none,,,,,
 BO0624_83649,13390,14,1744,1829,161,61.5,False,positional,DE MARNE,,,,Sec. XIX
-BO0624_83649,13391,15,9,Interieur de corps de garde.,163,96.4,False,positional,DE MARNE,,ARREDAMENTI,,
+BO0624_83649,13391,15,9,Interieur de corps de garde.,163,96.4,False,none,,,ARREDAMENTI,,
 BO0624_83649,13392,16,1661,1743,179,61.5,False,positional,DESPORTES,,,,Sec. XVIII
 BO0624_83649,13393,17,1645,1730,186,61.5,False,positional,DE TROY,,,,Sec. XVIII
-BO0624_83649,13394,18,11,"Portrait de Bernard Hilaire,de Roqueleyne,baron de",188,97.1,False,positional,DE TROY,,,,
-BO0624_83649,13395,19,1,lfigura a a1'Exposition des portraits snationaux en 1878.,198,99.1,False,positional,DE TROY,,,,Sec. XIX
+BO0624_83649,13394,18,11,"Portrait de Bernard Hilaire,de Roqueleyne,baron de",188,97.1,False,none,,,,,
+BO0624_83649,13395,19,1,lfigura a a1'Exposition des portraits snationaux en 1878.,198,99.1,False,none,,,,,Sec. XIX
 BO0624_83649,13396,20,1712,1774,206,61.5,False,positional,DIETRICH,,,,Sec. XVIII
-BO0624_83649,13397,21,12,Vue d’Italie;effet de soleil couchant.,208,96.1,False,positional,DIETRICH,,,,
-BO0624_83649,13398,22,13,Cavaliers au trot. ()-1678,215,81.0,False,positional,DIETRICH,,,,Sec. XVII
+BO0624_83649,13397,21,12,Vue d’Italie;effet de soleil couchant.,208,96.1,False,none,,,,,
+BO0624_83649,13398,22,13,Cavaliers au trot. ()-1678,215,81.0,False,none,,,,,Sec. XVII
 BO0624_83649,13399,23,14,Le Passage du gue.,231,91.9,False,positional,DU JARDIN,,,,
 BO0624_83649,13400,24,1810,1860,243,61.5,False,positional,DREUX,Scuola di Dusseldorf,,,Sec. XIX
 BO0624_83649,13401,25,1,t91-66g1,248,94.1,False,positional,ANTON VAN,,,,
-BO0624_83649,13402,26,15,Le Mariage mystique de sainte Catherine. g-1740,250,88.6,False,positional,ANTON VAN,,,,Sec. XVIII
+BO0624_83649,13402,26,15,Le Mariage mystique de sainte Catherine. g-1740,250,88.6,False,none,,,,,Sec. XVIII
 BO0624_83649,13403,27,16,17 — Paysages de la campagne romaine.,272,95.8,False,positional,FERG,Scuola Romana,,,
-BO0624_83649,13404,28,20,Le Concert.,277,87.0,False,positional,FERG,,,,
+BO0624_83649,13404,28,20,Le Concert.,277,87.0,False,none,,,,,
 BO0624_83649,13405,29,18,Jesus-Christ allant au Calvaire. ?-1740?,287,88.6,False,positional,FRANCK,,,,Sec. XVIII
 BO0624_83649,13406,30,19,——Portrait d’un Jeune Garcon.,301,94.5,False,positional,GRIMOUX,,,,
 BO0624_83649,13407,31,21,Oiseaux dans un parc. 1733,316,83.3,False,positional,HONDEKOETER,,,,Sec. XVIII
 BO0624_83649,13408,32,22,Le Depart pour la chasse au faucon. 1687,334,89.5,False,positional,HUGHTENBURGH,,,,Sec. XVII
 BO0624_83649,13409,33,23,"-Le Marche sur le Campo-Vaccino, a Rome.",353,96.1,False,positional,LINGELBACH,,,,
 BO0624_83649,13410,34,24,L'Embarquement.,370,90.3,False,positional,LOUTHERBOURG,,,,
-BO0624_83649,13411,35,25,"Le Chateau fort. l est construit au bord dune riviere.A droite, des pecheurs a la ligne et deux hommes montes dans une barque. Vers le fond, quelques bateaux a voiles au",393,94.6,False,positional,LOUTHERBOURG,,,,
+BO0624_83649,13411,35,25,"Le Chateau fort. l est construit au bord dune riviere.A droite, des pecheurs a la ligne et deux hommes montes dans une barque. Vers le fond, quelques bateaux a voiles au",393,94.6,False,none,,,,,
 BO0624_83649,13412,36,26,—La Femme au perroquet. 1701,407,84.0,False,positional,MUSSCHER,,,,Sec. XVIII
 BO0624_83649,13413,37,27,Interieur deglise. 1684,422,81.0,False,positional,MOLYN,,ARREDAMENTI,,Sec. XVII
 BO0624_83649,13414,38,28,Portrait dune Dame de qualite.,446,95.1,False,positional,NETSCHER,,,,
 BO0624_83649,13415,39,29,Interieur rustique.,459,92.3,False,positional,NEEFFS,,ARREDAMENTI,,
 BO0624_83649,13416,40,1621,1673,473,61.5,False,positional,PYNACKER,,,,Sec. XVII
-BO0624_83649,13417,41,3,o—Paysage au soleil couchant.,475,98.2,False,positional,PYNACKER,,,,
+BO0624_83649,13417,41,3,o—Paysage au soleil couchant.,475,98.2,False,none,,,,,
 BO0624_83649,13418,42,1612,1671,487,61.5,False,positional,OSTADE,,,,Sec. XVII
-BO0624_83649,13419,43,31,Vue d’un parc.,488,89.7,False,positional,OSTADE,,,,
+BO0624_83649,13419,43,31,Vue d’un parc.,488,89.7,False,none,,,,,
 BO0624_83649,13420,44,32,Bains antiques. 1808,502,77.8,False,positional,ROBERT,,STAMPE E INCISIONI,,Sec. XIX
 BO0624_83649,13421,45,33,Monuments en ruine.,525,92.3,False,positional,ROBERT,,,,
 BO0624_83649,13422,46,34,Ruines et personnages. g-1685,539,80.8,False,positional,ROBERT,,,,Sec. XVII
@@ -53,19 +53,19 @@ BO0624_83649,13427,51,38,Le Garde-Manger.,604,90.9,False,positional,SNYDERS,,,,
 BO0624_83649,13428,52,3,g—Predication de saint Jean.,623,98.2,False,positional,HACKAERT,,,,
 BO0624_83649,13429,53,41,Le Benedicite. Retour de guinguette.,650,73.7,False,positional,TENIERS,,,,
 BO0624_83649,13430,54,42,——Le Concert flamand.,671,92.3,False,positional,TENIERS,,,,
-BO0624_83649,13431,55,43,L'Epiciere hollandaise.,687,93.6,False,positional,TENIERS,,,,
-BO0624_83649,13432,56,4,achete des harengs.,697,100.0,False,positional,TENIERS,,,,
-BO0624_83649,13433,57,45,Paysage boise.,698,89.7,False,positional,TENIERS,,,,
+BO0624_83649,13431,55,43,L'Epiciere hollandaise.,687,93.6,False,none,,,,,
+BO0624_83649,13432,56,4,achete des harengs.,697,100.0,False,none,,,,,
+BO0624_83649,13433,57,45,Paysage boise.,698,89.7,False,none,,,,,
 BO0624_83649,13434,58,1668,1752,712,61.5,False,positional,TOURNIERES,,,,Sec. XVIII
-BO0624_83649,13435,59,44,Portrait de Jeune Femme.,714,93.9,False,positional,TOURNIERES,,,,
+BO0624_83649,13435,59,44,Portrait de Jeune Femme.,714,93.9,False,none,,,,,
 BO0624_83649,13436,60,1610,:690,728,54.5,False,positional,TENIERS,,,,
-BO0624_83649,13437,61,1595,1672,734,61.5,False,positional,TENIERS,,,,Sec. XVII
-BO0624_83649,13438,62,48,Marine.,735,80.0,False,positional,TENIERS,,,,
+BO0624_83649,13437,61,1595,1672,734,61.5,False,none,,,,,Sec. XVII
+BO0624_83649,13438,62,48,Marine.,735,80.0,False,none,,,,,
 BO0624_83649,13439,63,1595,1672,751,61.5,False,positional,UDEN,,,,Sec. XVII
-BO0624_83649,13440,64,46,47 —Paysages boises avec figures et animaux.,755,96.6,False,positional,UDEN,,,,
+BO0624_83649,13440,64,46,47 —Paysages boises avec figures et animaux.,755,96.6,False,none,,,,,
 BO0624_83649,13441,65,1633,1707,765,61.5,False,positional,VELDE,,,,Sec. XVIII
-BO0624_83649,13442,66,49,Vue d'Italie.,766,88.9,False,positional,VELDE,,,,
-BO0624_83649,13443,67,I,mportant tableau de l'artiste. Signe et date 1761.,772,99.0,False,positional,VELDE,,,,Sec. XVIII
+BO0624_83649,13442,66,49,Vue d'Italie.,766,88.9,False,none,,,,,
+BO0624_83649,13443,67,I,mportant tableau de l'artiste. Signe et date 1761.,772,99.0,False,none,,,,,Sec. XVIII
 BO0624_83649,13444,68,5,o-Marine au soleil couchant.,780,98.2,False,positional,VERNET,,,,
 BO0624_83649,13445,69,1714,1789,794,61.5,False,positional,VERNET,,,,Sec. XVIII
 BO0624_83649,13446,70,52,"Vue d’un port. Les Jardins du Colysee a Lille, vers la fin du XVIIIe siecle.",809,88.9,False,positional,WATTEAU,,,,Sec. XVIII

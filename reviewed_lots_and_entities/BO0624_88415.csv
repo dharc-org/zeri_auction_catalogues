@@ -1,10 +1,10 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_88415,205394,1,2,3. Zwei Darstellungen von chirurgischen Operationen. Kopien eines deutschen Kunstlers,17,98.8,False,positional,D. TENIERS,,OGGETTI VARI,,
-BO0624_88415,205395,2,4,"Der Tabulettkramer,anscheinend nach einer Komposition des A.van Ostade. Leinwand.",18,98.8,False,positional,D. TENIERS,,,,
-BO0624_88415,205396,3,5,"Die Bauerin bei dem Urindoktor. Auf Holz,mit dem Namen des Kopisten Debie. Hohe 23cm,Br.31 cm.Brauner Rahmen. 1811.",20,96.8,False,positional,D. TENIERS,,CORNICI,,Sec. XIX
+BO0624_88415,205395,2,4,"Der Tabulettkramer,anscheinend nach einer Komposition des A.van Ostade. Leinwand.",18,98.8,False,none,ADRIAEN VAN OSTADE,,,,
+BO0624_88415,205396,3,5,"Die Bauerin bei dem Urindoktor. Auf Holz,mit dem Namen des Kopisten Debie. Hohe 23cm,Br.31 cm.Brauner Rahmen. 1811.",20,96.8,False,none,,,CORNICI,,Sec. XIX
 BO0624_88415,205397,4,6,"Stilleben mit Frichten und Hering. Leinwd.,monogramm. H. 27 cm,Br. 40 cm. G.-R.",26,98.6,False,positional,KATH.TREU,,,,
 BO0624_88415,205398,5,7,8. Zwei innere Ansichten mit Bauernszenen.Gegensticke. Holz.Kopien aus dem,30,98.6,False,positional,ISACK VAN OSTADE,,OGGETTI IN LEGNO,,
-BO0624_88415,205399,6,18,"Jahrh.H.23 cm,Br.35cm.G.-R.",31,94.3,False,positional,ISACK VAN OSTADE,,,,
+BO0624_88415,205399,6,18,"Jahrh.H.23 cm,Br.35cm.G.-R.",31,94.3,False,none,,,,,
 BO0624_88415,205400,7,9,"Lavinia,die Tochter des Meisters.Leinwand. H.104 cm,Br.83 cm. G.R.",35,98.4,False,positional,TIZIANO VECELLIO,,,,
 BO0624_88415,205401,8,10,"Die Venetianerin.Leinwand,beschadigt. H.104 cm,Br.83 cm.G.R. geboren.",39,91.3,False,positional,G.G.SAVOLDO,,,,
 BO0624_88415,205402,9,11,1ia. Zwei kleine Felsenlandschaften mit Wasser und Staffage. Gegensticke. Holz. Jahrhundert.,45,90.9,False,positional,N.PERELLE,,OGGETTI IN LEGNO,,
@@ -12,38 +12,38 @@ BO0624_88415,205403,10,12,"Lesender Philosoph bei Kerzenbeleuchtung. Holz. H. 22
 BO0624_88415,205404,11,13,"Brustbild eines bartlosen Mannes in Leibrock und Vatermordern. Leinwand. H.36 cm, Br.27cm.G.-R. 1774",58,95.7,False,positional,,DEUTSCHE SCHULE,,,Sec. XVIII
 BO0624_88415,205405,12,14,"Brustbild eines Orientalen mit Pelzmitze.Proflansicht.Holz.H. 29 cm,Br.21 cm. S.R.",64,98.1,False,positional,C.W.E.DIETRICH,,OGGETTI IN LEGNO,,
 BO0624_88415,205406,13,15,"Helene Fourment im Pelz. Leinwand. H. 93 cm, Br.75 cm. G.-R.",68,97.2,False,positional,P.P.RUBENS,,,,
-BO0624_88415,205407,14,2,"16.Weibliche Halbfgur mit entbloBtem Oberkorper.Leinwand. H. 93 cm, Br.75 cm.G.R.",69,98.7,False,positional,P.P.RUBENS,,,,
-BO0624_88415,205408,15,17,"Stilleben mit Weintrauben, Pfrsichen. Rosen usw.Leinwand, monogrammiert. Hohe 47cm,Br.43 cm.",72,98.3,False,positional,P.P.RUBENS,,,,
+BO0624_88415,205407,14,2,"16.Weibliche Halbfgur mit entbloBtem Oberkorper.Leinwand. H. 93 cm, Br.75 cm.G.R.",69,98.7,False,none,,,,,
+BO0624_88415,205408,15,17,"Stilleben mit Weintrauben, Pfrsichen. Rosen usw.Leinwand, monogrammiert. Hohe 47cm,Br.43 cm.",72,98.3,False,none,,,,,
 BO0624_88415,205409,16,18,"Eber,von Hunden angefallen.Leinwand. H.20 cm,Br.27-cm. S.R. Jahrhundert.",76,88.2,False,positional,KARL RUTHART,,,,
 BO0624_88415,205410,17,19,"Die Anbetung der Heiligen drei Konige. Holz. H. 39 cm,Br.104 cm.Ohne R",82,97.8,False,positional,,ITALIENISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88415,205411,18,20,"21. Weibliche Brustbilder in blauen Kostimen. H.45 cm, Br. 34 cm. Rokoko-G.R.",86,97.9,False,positional,,DEUTSCHE SCHULE,,,
 BO0624_88415,205412,19,22,"Huftbild einer jungen Dame in blauer, ausgeschnittener Taille und gepudertem Haar. Rechts auf einem Tische Bicher.Pastellgemalde.H.64 cm, Br. 42 cm. Rokoko-G.R.",93,99.0,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_88415,205413,20,23,- 24.Weibliches Brustbild mit schwarzer Krause um den Hals. Pastellgemalde. Rokoko-G.-R.,95,100.0,False,positional,HALS DIRK,FRANZOSISCHE SCHULE,,,
-BO0624_88415,205414,21,17,18.Jahrhundert.,97,90.3,False,positional,,FRANZOSISCHE SCHULE,,,
-BO0624_88415,205415,22,25,"Aquarellierte Federzeichnung: Furst mit Gefolge auf der Jagd.Vielfiguriges Bild in Landschaft.H. 43 cm,Br. 53 cm.S.R.",101,98.7,False,positional,,FRANZOSISCHE SCHULE,,,
+BO0624_88415,205413,20,23,- 24.Weibliches Brustbild mit schwarzer Krause um den Hals. Pastellgemalde. Rokoko-G.-R.,95,100.0,False,none,HALS DIRK,,,,
+BO0624_88415,205414,21,17,18.Jahrhundert.,97,90.3,False,none,,Scuola Fiamminga,,,
+BO0624_88415,205415,22,25,"Aquarellierte Federzeichnung: Furst mit Gefolge auf der Jagd.Vielfiguriges Bild in Landschaft.H. 43 cm,Br. 53 cm.S.R.",101,98.7,False,none,,,,,
 BO0624_88415,205416,23,26,"Landliches Interieur mit Familienszene. Lichteffekt. Holz.Bez.:J. G.Leitner.Wien 1830.H. 32 cm,Br.25 cm.G.-R.",105,98.6,False,positional,GEORG LEITNER,Scuola Viennese,ARREDAMENTI,,Sec. XIX
 BO0624_88415,205417,24,27,"Inneres einer Weberei mit Familienszene. Auf Holz mit dem Naimen des Kopisten Debie.H.43cm,Br.53cm.G.-R.",111,98.5,False,positional,CORNELIS DECKER; A.VON OSTADE,,OGGETTI IN LEGNO,,
 BO0624_88415,205418,25,28,"Hollandische FluBlandschaft mit groBen Baumen im rechten Vordergrund. Fahre als Staffage.Leinwand. Mit dem Namen des Kopisten Debie. H. 84 cm,Br.125 cm.G.-R.",117,99.0,False,positional,FRANZ HALS,,,,
-BO0624_88415,205419,26,29,"Brustbild eines Mannes mit schwarzem Schlapphut. Kopie von W. Nirnberg. Leinwd.,",118,98.0,False,positional,FRANZ HALS,,,,
+BO0624_88415,205419,26,29,"Brustbild eines Mannes mit schwarzem Schlapphut. Kopie von W. Nirnberg. Leinwd.,",118,98.0,False,none,,,,,
 BO0624_88415,205420,27,30,"Loth mit seinen beiden Tochtern. Im Hintergrunde brennend Sodom und Gomorrha. Leinwand,signiert.H.105 cm,Br.135 cm.G.-R.",123,98.7,False,positional,J.G. MEYER,,,,
 BO0624_88415,205421,28,31,"Diana und Endymion.Leinwand. H.76 cm,Br.92 cm.G.R.",131,97.0,False,positional,J. B. DES HAYES,,,,
-BO0624_88415,205422,29,32,"Hirten, ihr Vieh zur Tranke treibend. Kupfer, signiert.H.40 cm, Br. 30 cm. G.R.",132,98.0,False,positional,J. B. DES HAYES,,OGGETTI IN RAME,,
-BO0624_88415,205423,30,33,"Madonna mit Kind. Halbfg. Auf ovale Kupferplatte gemalt. H. 19 cin, Br. 21 cm. G.R.",133,98.0,False,positional,J. B. DES HAYES,,,,
+BO0624_88415,205422,29,32,"Hirten, ihr Vieh zur Tranke treibend. Kupfer, signiert.H.40 cm, Br. 30 cm. G.R.",132,98.0,False,none,,,OGGETTI IN RAME,,
+BO0624_88415,205423,30,33,"Madonna mit Kind. Halbfg. Auf ovale Kupferplatte gemalt. H. 19 cin, Br. 21 cm. G.R.",133,98.0,False,none,,,,,
 BO0624_88415,205424,31,34,"Dame mit Facher, in ganzer Figur, stehend. Kreidezeichnung. H. 34 cm, Br. 21 cm. 1677",141,94.7,False,positional,A.V.D.NEER,,SCOMPARTI,,Sec. XVII
-BO0624_88415,205425,32,35,"Niederlandisches Dorf an einem Gewasser bei Mondbeleuchtung. Leinwand, signiert. H.38cm,Br.57cm.G.-R.",145,98.5,False,positional,A.V.D.NEER,,,,
-BO0624_88415,205426,33,6,- Br. 62cm.G.-R.,148,100.0,False,positional,A.V.D.NEER,,,,
-BO0624_88415,205427,34,50,"Bacchus bei dem trunkenen Silen. Daneben ein Konig mit Begleitung. Leinwand. H.38 cm,Br.46cm.G.-R.",150,98.4,False,positional,A.V.D.NEER,,,,
+BO0624_88415,205425,32,35,"Niederlandisches Dorf an einem Gewasser bei Mondbeleuchtung. Leinwand, signiert. H.38cm,Br.57cm.G.-R.",145,98.5,False,none,,,,,
+BO0624_88415,205426,33,6,- Br. 62cm.G.-R.,148,100.0,False,none,,,,,
+BO0624_88415,205427,34,50,"Bacchus bei dem trunkenen Silen. Daneben ein Konig mit Begleitung. Leinwand. H.38 cm,Br.46cm.G.-R.",150,98.4,False,none,,,,,
 BO0624_88415,205428,35,51,"Mannlicher Akt in stirzender Stellung,vom Ricken gesehen. Links klagender bartiger Mann. Leinwand. Mit griechischer Inschrift und Monogramm A.A.R. H.117 cm, Br.130cm.G.R.",154,99.1,False,positional,,SCHULE DES JUSEPE RIBERA,,,
 BO0624_88415,205429,36,17,Jahrhundert.,158,88.0,False,positional,,SCHULE DES VELASQUEZ,,,
 BO0624_88415,205430,37,36,"Genrebild mit sechs Personen. Holz.H.27 cm,Br.21 cm.G.-R",164,97.3,False,positional,ADRIAEN VAN OSTADE,,OGGETTI IN LEGNO,,
 BO0624_88415,205431,38,37,"Madonna,in der Hand ein Buch haltend. Holz. H.28 cm,Br.20 cm.G.R, Jahrhundert.",168,89.2,False,positional,PHILIPPO LIPPI,,OGGETTI IN LEGNO,,
 BO0624_88415,205432,39,38,"Anbetung. O1 auf Kupferplatte. H.29,5 cm,Br.24 cm.S.R. Jahrhundert.",174,87.2,False,positional,,NIEDERLANDER SCHULE,,,
-BO0624_88415,205433,40,39,"Mann in roter Jacke, mit Trinkpokal in der Hand. Ol auf Pappe. H. 34 cm, Br. 26 cm. G.-R. Abb.Tafel4",180,98.4,False,positional,,NIEDERLANDER SCHULE,,,
+BO0624_88415,205433,40,39,"Mann in roter Jacke, mit Trinkpokal in der Hand. Ol auf Pappe. H. 34 cm, Br. 26 cm. G.-R. Abb.Tafel4",180,98.4,False,none,,,,,
 BO0624_88415,205434,41,40,"Landschaft mit liegender und stehender Kuh. Holz. H. 24 cm,Br. 30 cm. G.-R.",184,97.8,False,positional,A.V.D.VELDE,,OGGETTI IN LEGNO,,
 BO0624_88415,205435,42,41,"Thomas Morus. Brustbild,in schwarzem pelzverbramten Mantel und Kappchen.",189,97.9,False,positional,PH. DE KONING,,,,
 BO0624_88415,205436,43,1615,1673.,193,61.5,False,positional,SALV. ROSA,,,,Sec. XVII
 BO0624_88415,205437,44,1605,1654.,197,61.5,False,positional,LUCA FERRARI,,,,Sec. XVII
-BO0624_88415,205438,45,43,Christus als Knabe im Tempel lehrend. Komposition von funf Halbfiguren. Leinwand. Jahrhundert.,200,91.2,False,positional,LUCA FERRARI,,,,
+BO0624_88415,205438,45,43,Christus als Knabe im Tempel lehrend. Komposition von funf Halbfiguren. Leinwand. Jahrhundert.,200,91.2,False,none,,,,,
 BO0624_88415,205439,46,44,"Eule zwischen toten Vogeln und Frichten. Holz. H. 35 cm,Br.53 cm. S. R.",206,97.7,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88415,205440,47,45,"Entwurf zu einem Tabernakelrahmen mit Engelskopfen.Sepiazeichnung,bez.Palma.V",210,98.1,False,positional,PALMA VECCHIO,,STAMPE E INCISIONI,,
 BO0624_88415,205441,48,46,"Landschaft mit Baum im Vordergrunde. Tuschzeichng. H. 14 cm, Br.19 cm. Gerahm. Jahrhundert.",215,90.6,False,positional,J. W. v. GOETHE,,,,
@@ -54,17 +54,17 @@ BO0624_88415,205445,52,53,"Venus,im Vordergrunde eine Landschaft, auf einem Ruhe
 BO0624_88415,205446,53,53,"a. Hirtenstuck. In einer Landschaft, dessen Mittelgrund von einem Bauernhof einponiertes Bild. Leinwand. Auf dem Durchschnitt eines Baumstammes mit dem Namen Jahrhundert.",238,95.6,False,positional,A. CUIJP,,,,
 BO0624_88415,205447,54,54,a-b. Portrat eines Fursten in Rustung und Hermelinmantel.Die Gemahlin des vorher 1600.,245,95.8,False,positional,,DEUTSCHE SCHULE,,,Sec. XVII
 BO0624_88415,205448,55,55,"Ein Mann umarmt eine sitzende,mit Naharbeit beschaftigte Frau. Auf eine runde Holz",252,98.2,False,positional,LUCAS V.VALCKENBORCH,,OGGETTI IN LEGNO,,
-BO0624_88415,205449,56,2,platte gemalt. Durchm.17 cm.G.R.,253,96.8,False,positional,LUCAS V.VALCKENBORCH,,,,
+BO0624_88415,205449,56,2,platte gemalt. Durchm.17 cm.G.R.,253,96.8,False,none,,,,,
 BO0624_88415,205450,57,17,"Jahrhundert. Halbfguren zweier trinkender Manner, einer mit Federhut und Pfeife in halbgeoffnetem Oberkleid.Holz.H.78 cm,Br. 48 cm.Brauner R. Jahrhundert.",259,91.0,False,positional,,HOLLANDISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88415,205451,58,57,"Kaiserin Maria Theresia in Witwentracht. Brustbild. Leinwand. H. 45 cm, Br. 35 cm. G.-R. 1679.",267,95.2,False,positional,THOMAS DE KEIJSER,,,,Sec. XVII
-BO0624_88415,205452,59,58,"Wilhelm von Oranien, Brustbild,mit kurz gehaltenem Bart, in halber Wendung nach rechts. Uber dem schwarzen,mit Gold gestickten Wams gefaltelte weiBe Halskrause Holz.H.44 cm,Br.32 cm.S.R. 1678",271,97.8,False,positional,THOMAS DE KEIJSER,,OGGETTI IN LEGNO,,Sec. XVII
+BO0624_88415,205452,59,58,"Wilhelm von Oranien, Brustbild,mit kurz gehaltenem Bart, in halber Wendung nach rechts. Uber dem schwarzen,mit Gold gestickten Wams gefaltelte weiBe Halskrause Holz.H.44 cm,Br.32 cm.S.R. 1678",271,97.8,False,none,,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88415,205453,60,59,"Das Urteil des Midas. Der Satyr Marsyas blast die Panfote. Midas, rechts stehend, stitzt sich auf seine Schulter. Links Apollo, die Leyer im Arm. En grisaille auf Leinwand gemalt.H.28 cm,Br.38 cm.S.R.",277,99.2,False,positional,JACOB JORDAENS,,,,
 BO0624_88415,205454,61,60,"Im Vordergrunde einer Landschaft von vielem Volk umgeben St. Johannes, Christus taufend. Links ein Engel, das Gewand Christi haltend. Lwd.H. 81 cm, Br. 76 cm. G-R. Abb.Tafel6",281,99.1,False,positional,CASP. DE CRAYER,,,,
 BO0624_88415,205455,62,17,Jahrhundert.,289,88.0,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_88415,205456,63,62,Das Martyrium einer Heiligen. Figurenreiche Komposition mit Engeln in den Luften.,292,98.1,False,positional,,DEUTSCHE SCHULE,,,
+BO0624_88415,205456,63,62,Das Martyrium einer Heiligen. Figurenreiche Komposition mit Engeln in den Luften.,292,98.1,False,none,,,,,
 BO0624_88415,205457,64,63,"Religiose Allegorie. Ein Engel zeigt dem schlafenden heiligen Joseph die zukiunftige Gattin Maria.In den Luften Cherubim.Leinwand,mit einer anscheinend spater hinzugefugten Signatur.H.130 cm,Br.180 cm.G.-R. 1647",296,98.1,False,positional,GIOVANNI LANFRANCO,,,,Sec. XVII
 BO0624_88415,205458,65,64,Brustbild der Francoise d Aubigne Marquise de Maintenon. Huftbild in roter Taille ## MONOGRAMM H.C.INV.,306,88.4,False,positional,PIERRE MIGNARD,,,,
-BO0624_88415,205459,66,65,"Innere Ansicht. Mann in Frauenkleidern auf einem Steckenpferd reitend, Trommler Jahrhundert.",311,91.1,False,positional,PIERRE MIGNARD,,,,
+BO0624_88415,205459,66,65,"Innere Ansicht. Mann in Frauenkleidern auf einem Steckenpferd reitend, Trommler Jahrhundert.",311,91.1,False,none,,,,,
 BO0624_88415,205460,67,66,"Viglius van Zuichem,Prasident des Geh.Rates, Brussel Brustbild in schwarzem Wams. Holz.H.55cm,Br.45cm.S.R. Jahrhundert.",319,93.2,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88415,205461,68,67,Toter Hase von der Wand herabhangend. Dunkler Grund. Leinwand. H. 88 cm.,328,97.8,False,positional,J.B.WEENIX,,,,
 BO0624_88415,205462,69,67,a. Schlachtenszene. Im Vordergrunde ein Fuhrer mit seinen Offizieren. Leinwand 1516.,332,95.5,False,positional,J.COURTOIS.BOURGNIGNON,,,,Sec. XVI
@@ -77,28 +77,28 @@ BO0624_88415,205468,75,73,"Blick auf ein militarisches Lager. Im Vordergrunde li
 BO0624_88415,205469,76,74,"Reiterscharmutzel im Vordergrunde einer Gebirgslandschaft. Im Vordergrunde ein Kavalier vom Pferde gestochen. Leinwand. H.53 cm,Br. 72 cm.G.R.",376,71.0,False,positional,JOS. PARROCEL,,,,
 BO0624_88415,205470,77,75,"Diana mit ihren Nymphen nach der Jagd bei der gemachten Beute. Holz. H. 44 cu, Br.40cm.S.R. 1813.",381,95.6,False,positional,,P.P. RUBENS.SCHULE,OGGETTI IN LEGNO,,Sec. XIX
 BO0624_88415,205471,78,76,"Harzlandschaft. Durch ein Felsentor blickt man auf die von der Morgensonne beleuchteten felsigen Abhange des Bodetals. Wild und Jager als Staffage. Leinwand, signiert.H.95cm, Br.116cm.",387,99.2,False,positional,JANUS GENELLI,,,,
-BO0624_88415,205472,79,2,"H.66cm,Br.95 cm.G.-R.",388,95.0,False,positional,JANUS GENELLI,,,,
-BO0624_88415,205473,80,1621,1676.,390,61.5,False,positional,JANUS GENELLI,,,,Sec. XVII
-BO0624_88415,205474,81,80,"Der Kirchenvater St.Augustin,vor einem Pult sitzend und schreibend.Leinwand. H.55cm,Br.42cm.G.-R.",394,98.4,False,positional,JANUS GENELLI,,,,
+BO0624_88415,205472,79,2,"H.66cm,Br.95 cm.G.-R.",388,95.0,False,none,,,,,
+BO0624_88415,205473,80,1621,1676.,390,61.5,False,none,,,,,Sec. XVII
+BO0624_88415,205474,81,80,"Der Kirchenvater St.Augustin,vor einem Pult sitzend und schreibend.Leinwand. H.55cm,Br.42cm.G.-R.",394,98.4,False,none,,,,,
 BO0624_88415,205475,82,77,"Ein Heiliger im blauen Gewand und roten Mantel halt das auf einem Kissen ruhende Christuskind. Rechts ein Engel, die Rechte zum Himmel erhoben. Leinwand, H. 81 cm, Br.68cm.G.-R. Jahrhundert.",400,95.8,False,positional,,DEUTSCHE SCHULE,BIANCHERIA,,
-BO0624_88415,205476,83,78,Geibelung Christi. EinfuB von M. Schongauer. Gruppe von finf Personen in einer,406,98.0,False,positional,,DEUTSCHE SCHULE,OGGETTI VARI,,
-BO0624_88415,205477,84,2,"offenen Halle.Holz.H:92 cm,Br.76 cm.",407,97.2,False,positional,,DEUTSCHE SCHULE,OGGETTI IN LEGNO,,
+BO0624_88415,205476,83,78,Geibelung Christi. EinfuB von M. Schongauer. Gruppe von finf Personen in einer,406,98.0,False,none,,,OGGETTI VARI,,
+BO0624_88415,205477,84,2,"offenen Halle.Holz.H:92 cm,Br.76 cm.",407,97.2,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88415,205478,85,19,Jahrhundert.,413,88.0,False,positional,PIETRO FONTANA,Scuola Fiorentina,,,
-BO0624_88415,205479,86,81,"St Augustin, auf Wolken sitzend, in einem Buch schreibend. Unten St. Johannes der",415,98.1,False,positional,PIETRO FONTANA,,,,
-BO0624_88415,205480,87,2,"Taufer und St.Dominikus. Leinwand. H. 230 cm,Br.110 cm.G.-R.",416,98.2,False,positional,PIETRO FONTANA,,,,
+BO0624_88415,205479,86,81,"St Augustin, auf Wolken sitzend, in einem Buch schreibend. Unten St. Johannes der",415,98.1,False,none,,,,,
+BO0624_88415,205480,87,2,"Taufer und St.Dominikus. Leinwand. H. 230 cm,Br.110 cm.G.-R.",416,98.2,False,none,,,,,
 BO0624_88415,205481,88,19,Jahrhundert.,420,88.0,False,positional,T.PASQUOTTI,Scuola Fiorentina,,,
-BO0624_88415,205482,89,82,"Die heilige Therese feht bei Christus fir die im Fegefeuer Leidenden. Leinwand, sign. H.180 cm,Br.104 cm.G.-R. a. Maria Guise, Mutter der Maria Stuart,in reich mit Spitzen besetztem Sterbeheimd",422,71.4,False,positional,T.PASQUOTTI,,,,
+BO0624_88415,205482,89,82,"Die heilige Therese feht bei Christus fir die im Fegefeuer Leidenden. Leinwand, sign. H.180 cm,Br.104 cm.G.-R. a. Maria Guise, Mutter der Maria Stuart,in reich mit Spitzen besetztem Sterbeheimd",422,71.4,False,none,,,,,
 BO0624_88415,205483,90,83,"St. Petrus,auf Wolken sitzend, halt das Christuskind auf dem SchoB.Unten St.Antonius und Ignatius von Loyola.Leinwand, oben abgerundet, signiert.H. 238 cm. Br.110cm.",433,96.1,False,positional,MENEGAZZI,,,,
 BO0624_88415,205484,91,84,Im Vordergrunde einer Barockkirche reicht cin Engel einer heiligen Nonne die KomBr.110cm.,440,98.3,False,positional,SCAGGIARI,,,,
 BO0624_88415,205485,92,85,"Heiliger auf einem Postament,von vier Bischofen umgeben. Leinwand, signiert.Hohe 160cm,Br.90 cm.G.-R. 1842.",448,96.0,False,positional,E.VIGEE-LEBRUN,,,,Sec. XIX
-BO0624_88415,205486,93,86,"Familiengruppe. Eine junge Frau im weiben Gewand, im Vordergrunde einer Landschaft sitzend, ihr Kind saugend. Ihr Gatte, die Tonpfeife in der Hand,daneben. Leinwand.H.130 cm,Br.110 cm.G.-R.",452,99.2,False,positional,E.VIGEE-LEBRUN,,,,
-BO0624_88415,205487,94,87,":Der Leichnam Christi von zwei Engeln gehalten. Lebensgrobe Figuren. Leinwand. H.132cm,Br. 164 cm.G.-R. Abb.Tafel6",458,98.6,False,positional,E.VIGEE-LEBRUN,,,,
-BO0624_88415,205488,95,1596,1666.,460,61.5,False,positional,E.VIGEE-LEBRUN,,,,Sec. XVII
+BO0624_88415,205486,93,86,"Familiengruppe. Eine junge Frau im weiben Gewand, im Vordergrunde einer Landschaft sitzend, ihr Kind saugend. Ihr Gatte, die Tonpfeife in der Hand,daneben. Leinwand.H.130 cm,Br.110 cm.G.-R.",452,99.2,False,none,,,,,
+BO0624_88415,205487,94,87,":Der Leichnam Christi von zwei Engeln gehalten. Lebensgrobe Figuren. Leinwand. H.132cm,Br. 164 cm.G.-R. Abb.Tafel6",458,98.6,False,none,,,,,
+BO0624_88415,205488,95,1596,1666.,460,61.5,False,none,,,,,Sec. XVII
 BO0624_88415,205489,96,87,"a. Rosen und Tulpen in einem dunkelgrinen Glaspokal. Holz. Rechts unten signiert. H.51 cm,Br.36cm.G.-R. 1776.",464,96.5,False,positional,JACOB VAN ES,,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_88415,205490,97,88,"Die Opferung der Polyxena. Figurenreiche Komposition. Kupfer.H.39 cm, Br. 53 cm.",470,98.0,False,positional,BALTHASAR BESCHEY,,OGGETTI IN RAME,,
 BO0624_88415,205491,98,89,Kustenlandschaft bei Mondbeleuchtung. Im Vordergrunde Manner bei einem Feuer.,477,98.0,False,positional,GROOTVELD,,,,
 BO0624_88415,205492,99,90,"GroBe Marktszene mit Zelten und Buden im Mittelgrunde. Vorn Schlachter, sein Ge- 1592.",481,95.1,False,positional,JACOPO DA PONTE.BASSANO,,BASTONI,,Sec. XVI
-BO0624_88415,205493,100,91,"Die Wunder des heiligen Franziskus von Paula, Sehr reich komponiertes Bild. Eine",486,98.1,False,positional,JACOPO DA PONTE.BASSANO,,,,
+BO0624_88415,205493,100,91,"Die Wunder des heiligen Franziskus von Paula, Sehr reich komponiertes Bild. Eine",486,98.1,False,none,,,,,
 BO0624_88415,205494,101,92,"a-b. Zwei Stilleben:Blumen und Frichte, durch Insekten belebt. Gegensticke. Leinwd.. Jahrhundert",496,91.8,False,positional,GEORG KNEIP,,,,
 BO0624_88415,205495,102,93,"a-b. Ein Bildhauer in seiner Werkstatt, vor einer Biste sitzend. Links ein Famulus.Ein Maler, an einem Landschaftsbilde malend. Zu beiden Seiten Schiler. Gegensticke",505,99.4,False,positional,,NIEDERLANDISCHE SCHULE,,,
 BO0624_88415,205496,103,94,"Halbfigur eines Geistlichen, daneben ein Knabe in reicher Gewandung, Geld in ein Beutel werfend,den der Dargestellte in der Rechten halt. Rechts oben ein Wappe und Aet. suae 60 mit Jahreszahl·1690. Leinwand. H. 80 cm,Br.64 cm. S. R. a Die heilige Jungfrau, das Christuskind auf dem Schobe haltend. Rechts der kleine",511,84.1,False,positional,,DEUTSCHE SCHULE,,,Sec. XVII
@@ -108,241 +108,241 @@ BO0624_88415,205499,106,97,"Kopf eines Satyrs. Leinwand.H.36 cm, Br. 30 cm. G.-R
 BO0624_88415,205500,107,98,"Miss Lundens.Brustbild. Nach P. P. Rubens. Farbendruck mit Rand.Roy.-Fol: Alter, holzgeschnitzter Rahmen.",540,98.5,False,positional,G.MAILE,Scuola di Rubens,CORNICI,,
 BO0624_88415,205501,108,16971750,"- 99-100. Das Konzert. Eine Gesellschaft von acht Personen um einen Tisch sitzend,verschiedene Instrumente spielend. Im Hintergrunde drei Zuhorer.Die Szene spielt auf einer SchloBterrasse.—In einer Halle Familienszene von neun Figuren. Rechts nimmt ein junger Mann eine Flasche aus einem Eiskihler. Leinwand, Gegensticke. Ersteres Bild ist falschlich mit dem Monogramm P. H. bezeichnet.AuBerdem findet sich auf einem Buche der Name Sandraert.H.41 cm,Br.55 cm.G.-R. Abb.Tafel4u.",546,100.0,False,positional,CORNELIS TROOST,,,,
 BO0624_88415,205502,109,1625,1713.,551,61.5,False,positional,CARLO MARATTI,,,,Sec. XVIII
-BO0624_88415,205503,110,101,"Adam und Eva im Paradies, von Tieren verschiedener Art umgeben. In den Luften Engelsglorie. Sehr reiche Komposition.Leinwand.H.127 cm,Br. 100 cm.G.R. ca.1515.",553,96.0,False,positional,CARLO MARATTI,,,,Sec. XVI
+BO0624_88415,205503,110,101,"Adam und Eva im Paradies, von Tieren verschiedener Art umgeben. In den Luften Engelsglorie. Sehr reiche Komposition.Leinwand.H.127 cm,Br. 100 cm.G.R. ca.1515.",553,96.0,False,none,,,,,Sec. XVI
 BO0624_88415,205504,111,102,"Alter Mann,ein Madchen liebkosend. Halbfiguren.Kupfer.Mit dem Namen des Kinstlers, der Jahreszahl 1503 und dem Merkurstab bezeichnet. Wahrscheinlich Wiederholung des in der Galerie Weber sub No.26 verkauften Bildes.H. 45 cm,Br.36 cm. G,R.",559,99.1,False,positional,JACOPO DA BARBARI,,OGGETTI IN RAME,,Sec. XVI
 BO0624_88415,205505,112,103,"Brustbild eines bartigen Mannes in breitrandigem hohen Hut. Leinwand. H. 46 cm,",565,97.4,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_88415,205506,113,2,103a. Brustbild einer alteren Frau mit rotem Kopftuch und goldenen Ohrringen. Leinwand.,566,98.8,False,positional,,DEUTSCHE SCHULE,,,
-BO0624_88415,205507,114,3,"H.46 cm,Br.36cm.Gerahmt.",567,95.8,False,positional,,DEUTSCHE SCHULE,,,
+BO0624_88415,205506,113,2,103a. Brustbild einer alteren Frau mit rotem Kopftuch und goldenen Ohrringen. Leinwand.,566,98.8,False,none,,,,,
+BO0624_88415,205507,114,3,"H.46 cm,Br.36cm.Gerahmt.",567,95.8,False,none,,,,,
 BO0624_88415,205508,115,104,"Die Verkundigung der Hirten auf dem Felde. Holz. H. 21 cm,Br.33 cm. S. R. 1623.",571,93.7,False,positional,L.BASSANO,,OGGETTI IN LEGNO,,Sec. XVII
 BO0624_88415,205509,116,105,"Brustbild der Madonna, vom Christuskind umarmt.Oval.Leinwand. H. 40 cm,",577,97.1,False,positional,,ITALIENISCHE SCHULE,,,
-BO0624_88415,205510,117,17,Jahrhundert.,579,88.0,False,positional,,ITALIENISCHE SCHULE,,,
+BO0624_88415,205510,117,17,Jahrhundert.,579,88.0,False,none,,Scuola Fiorentina,,,
 BO0624_88415,205511,118,1625,1713.,583,61.5,False,positional,CARLO MARATTI,,,,Sec. XVIII
-BO0624_88415,205512,119,106,"Die heilige Jungfrau in faltigen Gewandern und Kopftuch, die Hande iber der Brust",586,97.6,False,positional,CARLO MARATTI,,,,
-BO0624_88415,205513,120,16,Jahrhundert.,590,88.0,False,positional,CARLO MARATTI,Scuola Fiorentina,,,
+BO0624_88415,205512,119,106,"Die heilige Jungfrau in faltigen Gewandern und Kopftuch, die Hande iber der Brust",586,97.6,False,none,,,,,
+BO0624_88415,205513,120,16,Jahrhundert.,590,88.0,False,none,,Scuola Fiorentina,,,
 BO0624_88415,205514,121,109,"Brustbild eines lachenden Mannes mit Hut. Holz. H. 44 cm, Br. 33 cm. G.-R.",597,97.1,False,positional,A.V.OSTADE,,OGGETTI IN LEGNO,,
 BO0624_88415,205515,122,110,Landschaft mit dichtem Wald im rechten Vordergrunde. Ganz vorn an einem Gewasser,601,97.5,False,positional,JACOB VAN RUISDAEL,,,,
-BO0624_88415,205516,123,2,"Hirt mit Schafen. Holz. H.44 cm, Br.60 cm.G.-R. Abb. Tafel 3",602,98.2,False,positional,JACOB VAN RUISDAEL,,OGGETTI IN LEGNO,,
+BO0624_88415,205516,123,2,"Hirt mit Schafen. Holz. H.44 cm, Br.60 cm.G.-R. Abb. Tafel 3",602,98.2,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88415,205517,124,1656,1746.,606,61.5,False,positional,NICOLAS DE LARGILLIERE,,,,Sec. XVIII
-BO0624_88415,205518,125,111,"Damenbildnis. Brustbild, von vorne gesehen, mit entbloBtem Hals. Die Linke hat den roten Uberwurf gefaBt. Dunkler Grund. Leinwand.H.68 cm,Br.50 cm.G.-R.",608,98.6,False,positional,NICOLAS DE LARGILLIERE,,,,
+BO0624_88415,205518,125,111,"Damenbildnis. Brustbild, von vorne gesehen, mit entbloBtem Hals. Die Linke hat den roten Uberwurf gefaBt. Dunkler Grund. Leinwand.H.68 cm,Br.50 cm.G.-R.",608,98.6,False,none,HALS DIRK,,,,
 BO0624_88415,205519,126,112,"a-b.Christus mit der Weltkugel.Betende Madonna.Halbfiguren. Oval.Kupfer. H.16 cm,Br.13 cm.G.-R. 1724.",612,95.8,False,positional,BERNARDO LUTI,,OGGETTI IN RAME,,Sec. XVIII
 BO0624_88415,205520,127,113,"Huftbild einer alteren Dame mit weiBer Haube. Ein roter Vorhang schlieBt den Hintergrund.Leinwand. H.76 cm,Br. 61 cm.S.R.",618,98.3,False,positional,JOHN OPIE,,,,
 BO0624_88415,205521,128,114,"Die buBende Magdalena in Halbfigur. Vor ihr das Kruzifx. Leinwand. H. 112 cm, Br.188cm.G.-R. 1613.",622,95.0,False,positional,L.CARDI DA CIGOLI,,,,Sec. XVII
 BO0624_88415,205522,129,115,"Die Madonna mit dem schlafenden Kinde und St. Johannes. Leinwand.H. 42 cm, Br.33cm.G.R. Jahrhundert.",633,91.1,False,positional,,NIEDERLANDISCHE SCHULE,,,
-BO0624_88415,205523,130,116,"Landleute mit Karren in einem Hohlweg. Im Hintergrunde Kirchturm. Holz. H.18 cm, Br.15 cm.S.R.",637,97.8,False,positional,,NIEDERLANDISCHE SCHULE,OGGETTI IN LEGNO,,
-BO0624_88415,205524,131,117,"- Jagdstilleben. Sitzender Jagdhund mit erlegtem Wild (Hase, Fasan, Rebhihner usw.). An einem Baum lehnt eine Jagdfinte. Leinwand. H. 80 cm,Br.132 cm. G.-R. Jahrhundert.",639,95.9,False,positional,,NIEDERLANDISCHE SCHULE,,,
+BO0624_88415,205523,130,116,"Landleute mit Karren in einem Hohlweg. Im Hintergrunde Kirchturm. Holz. H.18 cm, Br.15 cm.S.R.",637,97.8,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88415,205524,131,117,"- Jagdstilleben. Sitzender Jagdhund mit erlegtem Wild (Hase, Fasan, Rebhihner usw.). An einem Baum lehnt eine Jagdfinte. Leinwand. H. 80 cm,Br.132 cm. G.-R. Jahrhundert.",639,95.9,False,none,,,,,
 BO0624_88415,205525,132,118,"Die Madonna auf Wolken,von einer Engelglorie umgeben. Vor ihr St. Antonius, das Christkind umarmend.Links unten St. Catarina kniend. Oben abgerundet. Leinwand. H. 57 cm, Br. 29 cm.In Barock-Altarrahmen mit freistehenden Saulen.Oben im Oval:Gott Vater und die Taube.(Olmalerei.)",645,99.2,False,positional,,DEUTSCHE SCHULE,,,
 BO0624_88415,205526,133,119,"Seestick mit vielen Schiffen bei Mondbeleuchtung. Grau in Grau. Holz. H.47 cim, Jahrhundert.",649,90.4,False,positional,JACOB VAN RUISDAEL,,OGGETTI IN LEGNO,,
 BO0624_88415,205527,134,120,"Allegorie auf die Freundschaft. Komposition von vier Figuren. Leinwand. H. 96 cm, Br.115 cm.G.-R. 120a.Das Opfer der Iphigenie (?).Leinwand. H. 96 cm, Br.115 cm.G.R.",655,73.8,False,positional,F.S.LOCHBICHLER,,,,
-BO0624_88415,205528,135,121,"Mucius Scaevola vor dem Zelte des Konigs Porsenna, legt die Hand ins Feuer. Lein- wand, signiert. H. 96 cm, Br. 115 cm. G.R.",657,79.6,False,positional,F.S.LOCHBICHLER,,,,
-BO0624_88415,205529,136,122,"Konig Alexander laBt von Apelles seine Geliebte malen. Leinwand.H.96 cm, Br.115cm.G.-R.",659,97.6,False,positional,F.S.LOCHBICHLER,,,,
-BO0624_88415,205530,137,123,Pygmalion kniet vor seiner zum Leben erwachten Statue der Galathea. Leinwand.,660,97.4,False,positional,F.S.LOCHBICHLER,,,,
-BO0624_88415,205531,138,7,"H.96cm,Br.115cm.G.-R.",661,95.0,False,positional,F.S.LOCHBICHLER,,,,
-BO0624_88415,205532,139,8,Br.63cm.G.-R.,662,91.7,False,positional,F.S.LOCHBICHLER,,,,
-BO0624_88415,205533,140,123,"a. Furst Poniatowski.Brustbild in Uniform. Leinwand. H. 64 cm,Br. 52 cm. G.R Jahrhundert.",666,90.3,False,positional,F.S.LOCHBICHLER,,,,
+BO0624_88415,205528,135,121,"Mucius Scaevola vor dem Zelte des Konigs Porsenna, legt die Hand ins Feuer. Lein- wand, signiert. H. 96 cm, Br. 115 cm. G.R.",657,79.6,False,none,,,,,
+BO0624_88415,205529,136,122,"Konig Alexander laBt von Apelles seine Geliebte malen. Leinwand.H.96 cm, Br.115cm.G.-R.",659,97.6,False,none,,,,,
+BO0624_88415,205530,137,123,Pygmalion kniet vor seiner zum Leben erwachten Statue der Galathea. Leinwand.,660,97.4,False,none,,,,,
+BO0624_88415,205531,138,7,"H.96cm,Br.115cm.G.-R.",661,95.0,False,none,,,,,
+BO0624_88415,205532,139,8,Br.63cm.G.-R.,662,91.7,False,none,,,,,
+BO0624_88415,205533,140,123,"a. Furst Poniatowski.Brustbild in Uniform. Leinwand. H. 64 cm,Br. 52 cm. G.R Jahrhundert.",666,90.3,False,none,,,,,
 BO0624_88415,205534,141,124,"Brustbild eines Knaben mit breitrandigem Hut. Holz. H.24 cm, Br. 16 cm. S. R.",672,97.2,False,positional,,DEUTSCHE SCHULE,OGGETTI IN LEGNO,,
 BO0624_88415,205535,142,125,"26. Jager zu Pferde.-Bauerin mit Esel in einer Landschaft. Gegensticke. Leinwand, signiert.H.38 cm, Br.27 cm.G.-R.",676,98.1,False,positional,ELSNER,,,,
-BO0624_88415,205536,143,127,"Eine Alte, Geld zahlend. Links hinter ihr ein Knabe. Holz. H. 29 cm, Br. 21 cm. S.R.",680,97.4,False,positional,ELSNER,,OGGETTI IN LEGNO,,
+BO0624_88415,205536,143,127,"Eine Alte, Geld zahlend. Links hinter ihr ein Knabe. Holz. H. 29 cm, Br. 21 cm. S.R.",680,97.4,False,none,,,OGGETTI IN LEGNO,,
 BO0624_88415,205537,144,128,"Nachtlandschaft mit Wasser. Zwei Knaben bei einem Feuer. Leinwand. H. 23 cm, Br.31 cm.S.R. Gerahmtes Aquatintablatt von Schwechten nach F. Kruger. Die Huldigung Konig",684,68.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205538,145,129,Friedrich Wilhelm IV im Lustgarten zu Berlin.Roy.-Qu.Fol.,686,96.5,False,positional,K.SEEKATZ,Scuola di Berlino,,,
-BO0624_88415,205539,146,4,130-31. Zwei gerahmte Kupferstiche von Benj. Smith und Thom. Ryder nach Beechey.Punktiermanier.Konig Georg IHl. und Konigin Charlotte von England in,687,99.3,False,positional,K.SEEKATZ,,OGGETTI IN RAME,,
-BO0624_88415,205540,147,5,ganzen Figuren. Sehr schone Drucke mit Rand um die Darstellungen. Roy.-Fol.,688,98.6,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,
-BO0624_88415,205541,148,132,"Gerahmte Silhouette aus der Goethezeit. Junger Mann mit Hut und Spazierstock, eine",689,97.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205542,149,7,"Blume haltend.H.18 cm,Br.10 cm.",690,96.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205543,150,8,"132a-b. Zwei gerahmte englische Farbendrucke (Schabkunst), nach Morland. The first",691,98.7,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,
-BO0624_88415,205544,151,9,"of September. Morning. Evening. Schone Drucke,unter Passepartout. Roy.-Qu.-Fol",692,98.6,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,
-BO0624_88415,205545,152,133,Gerahmter Farbendruck von J. Daniell (Schabkunst).Filial piety. Pero nahrt ihren zum Hungertod verurteilten Vater im Gefangnis. Prachtiger Druck mit etwas Rand. Roy.-Fol.,693,98.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205546,153,2,134.Gerahmter Farbendruck von W.Bond.(Punktiermanier.) The misteries of Udolyto,694,98.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205547,154,3,nach Singleton.Schoner Druck mit Rand.Gr.-Fol.,695,97.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205548,155,135,Desgleichen von Bar t oloz zi nach Fuiseli (ebenso). Prince Arthur's Vision. Schoner Abdruck mit Rand.Gr.-Fol.,696,98.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205549,156,5,136.,697,75.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205550,157,6,Gerahmter Farbendruck. Krayonmanier.Von Demarteau nach Huet. Hirtenszene. Mit Rand um die Darstellung. Qu.-Fol.,698,99.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205551,158,137,Gerahmtes Schabkunstblatt Admiral Nelson in ganzer Figur.Im Hintergrund See-,699,97.4,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,
-BO0624_88415,205552,159,8,schlacht.Mit Rand ohne jede Schrift.Gr.-Fol.,700,97.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205553,160,9,"138-39. Zwei gerahmte, farbige Aquatintablatter von Rich ter und M ora sc h.Wehlen",701,98.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205554,161,10,an der Eibe und Dresden.Mit Rand.Gr.-Qu.-Fol.,702,96.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205555,162,11,140-41. Zwei desgleichen von Ziegler und Ham m er: Ansicht von Mannheim und,703,98.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205556,163,12,Blick auf den llsenstein im Harz.Ebenso.,704,96.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205557,164,13,142-43. Zwei gerahmte Farbendrucke von Gubier nach Huet. Les pecheurs und Vue,705,98.0,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,
-BO0624_88415,205558,165,14,d'une fontaine anti.ue.Krayonmanier.Wenig Rand. Qu.-Fol.,706,97.2,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205559,166,144,Ein desgleichen. Punktiermanier.Von Levilly nach Burnay.L'abandon. Mit Rand.,707,97.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205560,167,16,Kl.-Fol.,708,80.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205561,168,17,145-46. Zwei gerahmte Farbendrucke von A. Le G ra n d nach Lagrenee. Punktiermanier. Le plus beau titre.Hls sont heureux. Mit Rand um die Darstellungen. Eine Scheibe zerbrochen.Gr.-Fol.,709,99.2,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,
-BO0624_88415,205562,169,18,147-48. Zwei desgleichen von A. Le Gra n d nach W. Peters und Vieira Portnensis. Zwei,710,98.2,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205563,170,19,Engelsdarstellungen. Gegensticke.Fol.,711,95.9,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205564,171,149,Vier gerahmte Farbendrucke von Mariage nach Garnier.Vier Darstellungen aus der romischen Geschichte. Mit Rand um die Darstellungen. Gr-Qu.-Fol.,712,98.6,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,
-BO0624_88415,205565,172,150,"Kleine viereckige Dose. Vergoldetes Kupfer. Auf dem Deckel Relief:Schaukelnde Madchen,Kavalier und Musikanten.Rocailleornamente. 18. Jahrh. Lg.6 cm. und Also Lieb von Liebe stammt."" Durchm.5,5 cm.Um 1800.",718,83.3,False,positional,K.SEEKATZ,,OGGETTI IN RAME,,Sec. XVIII
-BO0624_88415,205566,173,151,Kleine ovale Silberdose mit Teilvergoldung.Im Deckel Medaille:Puttenpaar Spruch:Wie das Licht vom Feuer entflammt,720,98.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205567,174,152,"Flache silberne Dose. Eingraviert: Neurokoko-Ornamente und C. v. P.Anfang 19. Jahrh. Lg.7,5cm.",721,97.8,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XIX
-BO0624_88415,205568,175,153,"Langlich-viereckige Silberdose mit Flechtornament und C. K.Anfang 19. Jahrh. Lg.9,8cm.",722,97.6,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205569,176,6,154.,723,75.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205570,177,7,"Kupfervergoldete Dose in Form einer Koffertruhe.Graviert mit Blumen. 18. Jahrh. Lg. 8,5 cm.",724,98.9,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
-BO0624_88415,205571,178,8,155.,725,75.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205572,179,9,"Ovale Dose aus exotischer Nub, ganz bedeckt mit Schnitzerei in fachem Relief: Passionswerkzeuge,Bischofsabzeichen usw. Goldene Montierung. 18. Jahrh.Lg.10 cm.",726,99.3,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
-BO0624_88415,205573,180,10,156.,727,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205574,181,11,"Ovale,kupfervergoldete Dose mit Lorbeerkranz-Bordiren.Um 1790. Lg. 8,5 cm.",728,97.9,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
-BO0624_88415,205575,182,12,157.,729,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205576,183,13,"Runde Schildpattdose mit Reliefportrait: Martin Luther. Anfang 19. Jahrh. Durchmesser 7,5 cm.",730,98.3,False,positional,K.SEEKATZ,,OGGETTI VARI,,Sec. XIX
-BO0624_88415,205577,184,158,Runde Maserholzdose. Im Deckel vergoldetes Portratrelief:Feldmarschall v. Blucher. Bez.:Heuberger.Um 1820.Durchm. 9 cm.,731,80.6,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205578,185,159,"Kupfervergoldete Doppeldose mit Rocailleornamenten in fachem Relief. 18. Jahrh. Lg.8,5cm.",733,92.1,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205579,186,160,Viereckige Bronzedose. Ganz bedeckt mit Reliefs: Jagdszenen. Auf dem Boden eingraviert: Raucher am Tisch usw. 18. Jahrh. Lg. 7 cm.,735,98.8,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205580,187,161,"- Kupfervergoldete,ovale Dosemit guillochiertem Streifenmuster. Im Deckel kleine, ovale Miniatur eines Fursten mit Haarbeutel und blauem Uniformrock mit roten Auf schlagen.Um 1780. Lg.8 cm, H. 3,7 cm.",737,100.0,False,positional,K.SEEKATZ,,MINIATURE,,Sec. XVIII
-BO0624_88415,205581,188,162,"- Runde Dose aus dunkelgrinem Poudre d'ecail mit Bodenguillochierung. Iim Deckel Relief in Rot:,J. J. Rousseau et la vue du pavillon qu'il habitoit a Ermenonville."" Ende 18.Jahrh.Durchm.7,5 cm.",739,100.0,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205582,189,163,"Runde Schildpattdose. Im Deckel Miniatur:Halbfigur eines Bauern in Zipfelmutze und messer 8,5cm.",740,97.9,False,positional,K.SEEKATZ,,MINIATURE,,
-BO0624_88415,205583,190,164,1810.Lg.11cm.,742,85.7,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205584,191,165,unter Glas groBes Monogramm. Ende 18. Jahrh. Lg. 17 cm.,743,96.2,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205585,192,166,"Runde Dose aus braunem, gefecktem Stein. Vergoldete Montierung. 18. Jahrh. Durch-",744,97.4,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
-BO0624_88415,205586,193,167,Runde schwarze Dose mit Schildpattfutter. Im Deckel Reliefportrat:Louis XVIlI. de,746,97.5,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205587,194,168,"Japanische Bronzedose. Innen versilbert, auBen dunkelgrun patiniert,mit teilvergold",748,97.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205588,195,169,"- Bergkristalldose. Geschweifte hohe Form,silbervergoldete Montierung. Eingeschliffen: Gartner-Embleme und Ranken.Mitte 18. Jahrh. Lg. 6,5 cm, H. 3,5 cm.",751,100.0,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205589,196,170,"Silberne Dose, geschweift; im Doppeldeckel U h r, deren rankenumgebenes Zifferblatt bezeichnet:London.18. Jahrh.Lg.7 cm.",752,98.3,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205590,197,171,Rocailleeinrahmung. Mitte 18. Jahrh. Lg.8 cm.,754,95.3,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205591,198,172,"Silberne Dose. Geschweift; innen vergoldet, auBen graviert:Neurokoko-Ornamente.",755,97.4,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205592,199,173,"- Runde Schildpattdose mit Silbereinlage im Deckel:Von Trophaen und Ranken un gebene Adler, mit Schriftband ,vive la reine de Prusse"". (Sophie Charlotte.) 18. Jahrh. Durchm.7,4cm.",758,100.0,False,positional,K.SEEKATZ,,OGGETTI VARI,,Sec. XVIII
-BO0624_88415,205593,200,174,"Ovale, silbervergoldete Dose mit reliefierten und gravierten Rosenranken. Im Deckel: groBes Miniatur-Brustbild der Konigin Victoria von England. Ende 19. Jahrhundert.",759,98.8,False,positional,K.SEEKATZ,,MINIATURE,,Sec. XIX
-BO0624_88415,205594,201,175,Runde schwarze Dose mit Schildpattfutter. Im Deckel vertieftes Oval:vier Kriegs-,761,97.5,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205595,202,176,"Runde braune Dose mit Schildpattfutter, Goldbordiren und ovaler Miniatur im Deckel:",763,97.6,False,positional,K.SEEKATZ,,MINIATURE,,
-BO0624_88415,205596,203,177,"Runde Elfenbeindose. Im Deckel Hiftbild einer Dame mit grober Puderfrisur,in hellem",765,97.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205597,204,178,"Runde Elfenbeindose. Im Deckel Miniatur:Liebespaar, sich kissend,unter einem Bauu. Schildpattfutter.Ende 18.Jahrh.Durchm.8,5 cm.",767,98.4,False,positional,K.SEEKATZ,,MINIATURE,,
-BO0624_88415,205598,205,179,"Schildpattfutter.Um 1810.Durchm.7,8 cm.",769,95.0,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205599,206,180,"Muschelformige Dose aus dunkelbraunem Berustein, mit vergoldeter Montierung 18.Jahrh.Lg.7,2 cm.",770,97.9,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205600,207,181,"GroBe schatullenformige Dose aus Milchglas mit farbiger Emailmalerei:auBen Jagd szenen, im Innendeckel vornehme Tafelrunde. Mitte 18. Jahrh.Vergoldete Montierung. Lg. 10,8 cm,Br.7,8 cm, H. 6,6 cm.",771,98.9,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
-BO0624_88415,205601,208,182,"Ovale Emaildose, weif,mit Schwarzmalerei:Ansicht eines Klosters, Szenen aus dem geistlichen Leben usw. Im Innendeckel Bildnis :,P. Constantinus"". 18. Jahrh. Lg. 8,4 cn.",772,98.7,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205602,209,183,"Viereckige Emaildose, turkisblau,mit silbernem Reliefdekor:Chinesenszenen auf den Effendi Bassa,Botschafter der ottomanischen Pforte an dem Konigl. PreuBischen Hoff. 1763"".Lg.8cm.",774,69.9,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205603,210,184,"Desgleichen, turkisblau, mit Silberdekor:PreuBische Embleme,Trophaen,Friedrichs-",775,97.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205604,211,185,"Ovale Emaildose mit Grisaillemalerei ganz bedeckt: Staffierte FluBlandschaften.Im Innendeckel buntes Bild: Zwei Amoretten.Vergoldete Montierung. Dresden.18. Jahrh. Lg.8,5cm.",776,98.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205605,212,186,"Viereckige Emaildose. Bunt bemalt. Im Innendeckel Portrat Friedrich des GroBen; auBen friedericianische Embleme, Trophaen usw. Auf dem Boden:,concerto per il fauto"".18. Jahrh.Lg. 7,8 cm.",777,98.9,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205606,213,187,"Hohe runde Emaildose, tirkisfarbig,mit Camaieu-Bildchen:Liebespaare und Einzelfiguren. Im weiben Innendeckel sitzende Pierette in Zartblau. Vergoldete Montierung. 18.Jahrh.Durchm.5,5 cm.",778,92.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205607,214,188,"Viereckige Emaildose mit farbiger Malerei auf pastos gekorntem Grund:Spielkarten, Kupferstiche und Zeitungsblatter nachahmende Quodlibets. Vergoldete Montierung. Berlin,zweite Halfte 18. Jahrh. Lg. 7,8 cm.",780,99.0,False,positional,K.SEEKATZ,Scuola di Berlino,OGGETTI IN RAME,,Sec. XVIII
-BO0624_88415,205608,215,189,"Desgleichen, weiB, mit goldenem Stern- und Rocailledekor, mit wenig Blau und Grin. Silberne Montierung. Battersee, 18.Jahrh.Lg.8 cm.",781,98.4,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205609,216,10,190.,782,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205610,217,11,"Desgleichen,bunt bemalt, mit Quodlibets aus Noten- und Spruchblattern. Im Deckel Karte des Konigreichs Neapel. Bronzemontierung. 18. Jahrh. Lg. 7,8 cm.",783,99.0,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205611,218,191,"Ovale Thiringer Porzellandose. AuBen blaue Blumen in rot und golden gehohten Rocaillekartuschen;innen drei Personen bei Gesang und Flotenspiel,in einfarbig Purpur. (Deckel gesprungen.)Vergoldete Montierung. Um 1775. Lg. 8 cm.",784,99.1,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205612,219,13,"18.Jahrh.Vergoldete Montierung.Lg.8,5 cm.",785,96.4,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205613,220,194,"Breite, herzformige Dose aus hellem, rot geadertem Achat. Vergoldete Montierung. 18.Jahrh. Lg.9 cm. Langlich-ovale Dose aus hellem Horn mit goldenen Einlagen: Blumen, Ranken usw. 18.Jahrh.Lg.10 cm.",787,67.6,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205614,221,195,"Runde Elfenbeindose. Im Deckel vergoldetes Reliefbrustbild:,Luise, Konigin von l'reuBen"".Bez.:Detler.Schildpattfutter. Anfang 19. Jahrh. Durchm.7 cm. Stern und blauem Ordensband.Um 1800. Durchm.7cm.",788,84.6,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205615,222,196,"Runde Lackdose. Auf dem Deckel farbiges Brustbild eines Fursten mit Haarbeutel,",790,97.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205616,223,197,"GroBe runde Lackdose,schwarz,mit buntem Schlachtenbild. Innen in roter Schrift: ,Ruckzug der Kosaken,Baskieren, Kalmucken,Tartaren usw. Eroberung zweier",791,98.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205617,224,198,Runde Lackdose. Schwarz. Im Deckel Brustbild eines alteren Herrn mit Vatermordern,792,97.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205618,225,21,"Kanonen und Fahnen.""Wahl Stobwasser. Um 1825. Durchm. 11,5 cm.",793,97.4,False,positional,K.SEEKATZ,,BANDIERE,,Sec. XIX
-BO0624_88415,205619,226,22,"und Halsorden. Wahl Stobwasser. Datiert 1831.Durchm. 9,4 cm.",794,97.4,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205620,227,23,"Im Deckel von 32 halben Perlen umrahmte Miniatur:Brustbild einer Dame. Ende 18.Jahrh.Lg.8,5 cm,H.3,6 cm.",795,98.6,False,positional,K.SEEKATZ,,MINIATURE,,
-BO0624_88415,205621,228,199,"Ovale Lackdose,rot-weib-golden gestreift, mit Silbermontierung und Schildpattfutter.",796,97.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205622,229,200,"Ovale Dose von hoher Form aus verschiedenfarbigen Marmorstuicken, mit vergoldeter Montierung. Im Innendeckel Schriftplattchen:,Sou venir des Marbres de Bayreuth de Mr. 1e H. C. R. Richter. An spach le 9me Juin 1792. Lange 9,8cm. Paare. Rocaille-Umrahmung. Mitte 18.Jahrh.Lg.8 cm.",797,89.3,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
-BO0624_88415,205623,230,201,Geschweifte Schildpattdose. Im Deckel Silbereinlagen:Schaukelnde und tanzende,799,97.4,False,positional,K.SEEKATZ,,OGGETTI VARI,,
-BO0624_88415,205624,231,202,"Kleine Emaildose. Schwarzer Grund. Auf dem Deckel Chinesenszene, auf den Seiten",800,97.4,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205625,232,203,"GroBe runde Dose aus rotem poudre d'ecail mit Sternen und Streifen in Goldpiquet. Im Boden Blumenkorb auf Schildpattplatte. Schildpattfutter. Im Deckel farbiges Porzellanbild:Vornehme Dame als Madonna,mit dornenkranzhaltendem Kindchen. Ende 18.Jahrh.Durchm.9 cm. einzelne Bauernfiguren, im Innendeckel Halbfigur eines Chinesenknaben. 18. Jahrh. Lg.5cm.",801,85.2,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
-BO0624_88415,205626,233,204,Ovale Berliner Porzellantasse mit silbervergoldeter Montierung. Bunt bemalt mit Rosen,803,97.7,False,positional,K.SEEKATZ,Scuola di Berlino,,,
-BO0624_88415,205627,234,2,"205.Viereckige Emaildose, farbig bemalt. Auf dem Deckel:Raucher, am Tisch sitzend. Auf Montierung.18. Jahrh.Lg.8,6 cm.",804,99.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205628,235,3,"und VergiBmeinnicht. Auf dem Deckel: Silhouetteeiner Da me,auf Eichenlaub umkranztem rosa Grund. Im Innendeckel Monogr.: v. L. Ende 18. Jahrh. Lg. 7,7 cm.",805,99.3,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205629,236,206,"Desgleichen, farbig bemalt. Auf den Seiten kleine Landschaften in Gringrau; auf dem Deckel: Husar, in einer Versammlung von Monchen ein Vivat ausbringend. ,Es lebe der Conig von Preiben.) Nach einem Stich von Chodowiecki. Im Innendeckel: Halbfigur Friedrich des Gro Ben.Bronzemontierung. 18. Jahrh. Lg. 8 cm. 18.Jahrh. Lg.9,4 cm.",806,96.2,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205630,237,207,"Desgleichen, farbig bemalt mit Puttenszenen.Vergoldete Montierung.Dresder.",808,97.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205631,238,208,"Desgleichen, farbig bemalt und mit goldenen Reliefauflagen:Landschaften,kriegerische Szenen, Liebespaare usw. Vergoldete Montierung. 18. Jahrh. Lg. 8,6 cm. (Deckel aus- gebessert.)",809,95.8,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205632,239,209,"Desgleichen.Rosa Grund,mit pastosem,weibem Gittermuster und Grisaillelandschaften in ausgesparten Reserven. Im Innendeckel farbiges Brustbild einer Dame als Schaferin. Vergoldete Bronzemontierung. 18. Jahrh. Lg. 7,8 cm. Viereckige fridericianische Emaildose. Farbig bemalt mit Kurierbildern und Inschriften:,cito! cito nach Magdeburg""und ,Abrisse des Konigl. PreuB. Couriers Herrn Lieutnant Barcn von Puttlitz etc.. Bezuiglich auf den Sieg Friedrichs des GroBen bei Borna. 1757. Berlin. 18. Jahrh. Vergoldete Montierung.Lg.8,6 cm. Viereckige Fayencedose mit leicht geschweifter Vorderseite. Farbig bemalt mit groben BlumenstrauBen. Im Innendeckel Schaferpaar.Auf dem Boden rote Marke:W. 18. Jahrh. Lg. 8 cm.",812,60.9,False,positional,K.SEEKATZ,Scuola di Berlino,,,Sec. XVIII
-BO0624_88415,205633,240,212,Kleine ovale Schildpattdose mit farbigen Gold- und Silbereinlagen:Stilleben in Rocaille,814,97.7,False,positional,K.SEEKATZ,,OGGETTI IN ORO,,
-BO0624_88415,205634,241,213,Runde flache Schildpattdose. Im Deckel Eglomiseminiatur:Landschaft mit Staffage-,815,97.5,False,positional,K.SEEKATZ,,OGGETTI VARI,,
-BO0624_88415,205635,242,14,"umrahmung. Mitte 18.Jahrh.Lg.5,3 cm.",816,95.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205636,243,15,"figuren in der Art des Blarenberghe. (Blasig.) Ende 18. Jahrh. Durchm. 6,5 cm.",817,97.9,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205637,244,214,"Runde Porzellandose. AuBen ganz vergoldet, mit bunten deutschen BlumenstrauBen Im Innendeckel ovales, medaillonartiges Portrat einer jungen Dame, vor ihrem Schmuckkastchen sitzend. Durchm. 7 cm.",818,98.9,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205638,245,215,Viereckige Stobwasserdose mit Halbfigur eines jungen Madchens in altdeutschem,819,97.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205639,246,216,Holzgeschnitzte Dose in Gestalt eines hockenden Affen mit roten Glasaugen. 18. Jahrh.,820,97.6,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
-BO0624_88415,205640,247,19,"Kostim, im Hintergrund Kirchenruine. Bez.: St. 402. Anfang 19. Jahrh. Lg. 8,8 cm.",821,97.9,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205641,248,20,H.10cm,822,80.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205642,249,217,"Viereckige Emaildose. Turkisblau mit weiBen Bliten,Notenblattern usw. in Pastoreur-",823,97.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205643,250,22,"malerei. 18. Jahrh. Lg.6,8 cm.",824,94.5,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205644,251,23,"218.Viereckige Emaildose. WeiB mit grin-blau-goldenem Reliefdekor: Gartnerembleme, Vogel, Rocaillen usw.Silbervergoldete Montierung. Erste Halfte 18. Jahrh. Lg.6,7 cm.",825,99.1,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205645,252,219,MeiBener Dose. AuBen blaue Bandornamente mit Rosen;im Innendeckel:Landschaft mit Kostimfiguren. Silbervergoldete Montierung. Im Boden  Schwertermarke. Lg. 7 cm. in Bunt. Vergoldete Montierung. Lg. 8 cm.,826,87.9,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205646,253,220,Viereckige Porzellandose. AuBen Watteauszenen in Grun und Rot; innen Schaferszene,828,97.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205647,254,221,"Trapezformige Emaildose mit farbigen Quodlibets aus Noten, Instrumenten, Masken usw.;innen Streublumen. 18.Jahrh. Gr.8X6 cm.",829,98.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205648,255,222,Runde Porzellandose. Flechtgrund mit bunter Blumenmalerei Bronzemontierung. Durchm.9cm.,830,90.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205649,256,223,"Viereckige Lackdose, flach, mit buntem Deckelbild: Junge Dame bei der Toilette, auf einem Sofa sitzend. Anfang 19. Jahrh.Lg.9,2 cm.",832,98.4,False,positional,K.SEEKATZ,,OGGETTI VARI,,Sec. XIX
-BO0624_88415,205650,257,224,"Langlich-ovale Lackdose, schwarz-rot mit vergoldeter Montierung und Silberpiquet: Wappen (von Stammer), Ranken, Spruch und Datum 1794. Lg. 10 cm.",833,98.6,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205651,258,225,Runde Lackdose.Rotlich-braun mit sternformigem Ornament.Um 1800.Durchm.,834,97.2,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205652,259,2,"7,8cm.",835,83.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205653,260,3,Runde Lackdose mit farbigem Bild:Portrat (Kniebild) eines sitzenden jungen Mad-,836,98.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205654,261,226,chens mit Buch.Anfang 19. Jahrh. Durchm.9 cm.,837,95.5,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205655,262,5,227.,838,75.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205656,263,6,"Runde Lackdose. Schwarz,auf dem Deckel auf Goldgrund:Ehestandsthermometer. Um 1825.Durchm.9cm.",839,98.9,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205657,264,7,Viereckige Berliner Porzellandose. Mit bunten Blumen und Frichten.Vergoldete,840,98.7,False,positional,K.SEEKATZ,Scuola di Berlino,,,
-BO0624_88415,205658,265,229,"Montierung. Zeptermarke.19. Jahrh.Lg. 6,5 cm.",841,95.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205659,266,230,"Runde Lackdose. Dunkelschildpattfarbig;im Deckel Schrift in Silberpiquet:Ach Stolberg unser Paulus ist nicht mehr hienieden.""(Chronogramm, dessen Auflosung 1821 ergibt.Durchm.9 cm.",842,91.5,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205660,267,231,"Kleine Dose aus einer Tigermuschel mit silberner Montierung. 18. Jahrh. Lg. 4,9 cm.",844,97.5,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XVIII
-BO0624_88415,205661,268,232,"Kofferformige Dose,Holz mit Lackmalerei,bunte Blumen und Rocaillen.18. Jahrh. H.5,2 cm, Lg. 8,8 cm.",845,97.9,False,positional,K.SEEKATZ,,OGGETTI IN LEGNO,,
-BO0624_88415,205662,269,233,Viereckige Porzellandose. Schaferszene in Grau-Grin-Rosa.Vergoldete Montierung. Lg. 8 cm.,846,97.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205663,270,14,Bemalt in Gold-Grin-Purpur mit Watteaufiguren;innen,847,97.1,False,positional,K.SEEKATZ,,OGGETTI IN ORO,,
-BO0624_88415,205664,271,15,"Silbergetriebene Dose. Passige,hohe Form mit Fruchtbischel auf dem Deckel und",848,98.1,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205665,272,235,"GuBeiserne Dose. Truhenform,im Deckel Relief mit figirlicher Szene. Anfang 19. Jahr. Lg.10 cm.",849,97.8,False,positional,K.SEEKATZ,,SCATOLE,,Sec. XIX
-BO0624_88415,205666,273,234,"teilweise vergoldeten Ranken. Ornamente ringsum. Durchm.6,5 cm.",850,96.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205667,274,18,"Viereckige Porzellandose mit Portrat Friedrichs des GroBen, Soldatenszenen und Streu-",851,98.2,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205668,275,236,"blumen.Lange 8,5 cm.",852,90.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205669,276,237,"Kleine Dose aus Wurzelholz,halbrund gebogen, mit Klappdeckel. Lange 6 cm.",853,97.2,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205670,277,21,238.,854,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205671,278,22,"Viereckige flache Blechdose mit Lackbild: Jager mit Vorstehhund.Biedermeierzeit. Lg.11,7cm.",855,98.3,False,positional,K.SEEKATZ,Biedermeier,,,
-BO0624_88415,205672,279,239,"Porzellandose.Hohe,korbahnliche Form mit Stilpdeckel. Mit rotgrinen Streublumen. Sevresmarke mit C.T.H. 5,5 cm.",856,98.2,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205673,280,240,"Porzellandeckeldose fir Zundholzer. Truhenform.WeiB-blau-golden.Blaue Marke S.P.M.Um 1850.Lg.9,5 cm.",857,98.0,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205674,281,241,Alte viereckige Schildpattdose mit Silber-und Perlmuttereinlagen. Lg.7cm.,858,97.3,False,positional,K.SEEKATZ,,OGGETTI VARI,,
-BO0624_88415,205675,282,242,Goldene Taschenuhr mit getriebener Kapsel.Figirliche Szene. London. 18.Jahrh.,859,97.4,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205676,283,27,243.,860,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205677,284,28,"Bez.:Charleson,",861,89.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205678,285,29,Muschelformige Emaildose. Bunt. Mit antiken Szenen.Anfang 18. Jahrh.Lg. 9 cm.,862,98.0,False,positional,K.SEEKATZ,,STAMPE E INCISIONI,,Sec. XVIII
-BO0624_88415,205679,286,244,"Viereckige Emaildose. Bunt.Galante Szenen und Blumenbordiiren. Bronzemontierung.18.Jahrh.Lg.8,5cm.",863,97.9,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205680,287,31,245.,864,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205681,288,32,"Goldener Halsschmuck und zwei Knopfe. Mit drei ovalen Emailminiaturen (Amoretten), Weinlaub und Perlbordire.Um 1800.Im alten Etui.",865,98.8,False,positional,K.SEEKATZ,,OGGETTI VARI,,Sec. XIX
-BO0624_88415,205682,289,246,Halskette aus vier Reihen Granaten mit finf silbervergoldeten Zwischenstucken in Filigran.,866,97.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205683,290,247,"Ovales Schalchen aus braunlichem Onyx; silberner Boden, Rand mit groBen StraB- steinen besetzt. 18. Jahrh.",867,83.8,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205684,291,248,Ovale Dose aus grau-rosa Ba n dac hat.Silberne Montierung und durchbrochener Seitenbelag.18.Jahrh.Lg.7 cm.,869,98.1,False,positional,K.SEEKATZ,,SCATOLE,,
-BO0624_88415,205685,292,37,249.Gotischer Maserholzloffel mit silbernem Heiligenfigirchen am Stielende. 15.16. Jahrh.,870,98.3,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205686,293,38,250.,871,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205687,294,39,"Kleiner holzgeschnitzter Rahmen mit reich durchbrochenem Laub- und Rocaille werk.18.Jahrh.Lichte Weite 7,5X9 cm.",872,98.7,False,positional,K.SEEKATZ,,CORNICI,,
-BO0624_88415,205688,295,40,Standuhr. Gehause zwischen Alabastersaulen;im Giebel Schwan und Blumen aus Stoff.,873,98.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205689,296,251,Bez.:Joh.Simeon Lux in Ebersdorf.Um 1800.H.50 cm.,874,95.9,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205690,297,252,Kleiner Altar mit Saulen und Giebel. Schwarz mit Schildpattauflagen.Dazu Elfenbeinstatuette der Madonna. 18. Jahrh.H.35 cm. 252a. Niederlandischer Meister. Anfang 17. Jahrh. Saloime mit dem Haupt des Johannes. Holz. H. 69 cm.Br. 53 cm. S.R.,875,68.2,False,positional,K.SEEKATZ,,OGGETTI IN LEGNO,,Sec. XVIII
-BO0624_88415,205691,298,253,"Uhr mit bronzevergoldeter Lowenfigur, deren Augen und Zunge beweglich sind. GroBer",877,97.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205692,299,254,"Sechseckige Tischuhr. Silbernes Ziffernblatt.Bez.:Gabriel, London",878,96.9,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205693,300,3,Bronze. Um1700.,879,92.9,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205694,301,4,Schaustick aus vergoldeter Filigranarbeit und Korallen. Von drei Figurchen ge,880,98.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205695,302,256,"Kleine sechseckige Tischuhr.Versilbert. Bez.:,Marcus Maijo Lublin fecet.Um 1700. tragene Hutte mit Gotzenbild. Lg. 18 cm.",881,78.4,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205696,303,257,"Konvolut:Hellenistischer Portratkopf aus gebranntem Ton, Glasflu Bkette mit Tonskarabaus,Holzpuppe( (Spielzeug) undMiniaturTem p el sau le aus Ton. Von agyptischer Ausgrabung stammend. zwei Bronzefragmente,eines mit Froschkopf. Gleicher Herkunft.",883,84.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205697,304,258,Desgleichen:Bron zes ta tuette einer agyptischen Gottheit (hellpatiniert) und,885,97.4,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205698,305,259,"Desgleichen: Funf kleine Tonbilder von Mumiensargen,z.T. blauglasiert und eines groBer,buntbemalt. Ebendaher.",886,98.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205699,306,11,260,887,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205700,307,12,"Desgleichen: Drei ebenso und die Gottin Bubastis thronend nebst Mumienbildern eines Ibis und eines Menschen, blauglasiert, und altorientalischer Zeugungsgott.",888,99.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205701,308,13,261.,889,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205702,309,14,Altagyptische Holzstatuette einer Toten mit Bemalungsspuren.H. 23 cm. Ebendaher.,890,98.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205703,310,15,262.,891,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205704,311,16,"Alter Haarschmuck (Einstecknadel).Mit zahlreichen Diamanten, zwei Rubinen und Perlen besetzt.18. Jahrh.",892,98.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205705,312,263,Lange goldene Kette mit Lorgnonfassung. Bunt emalliert.Um 1850.,893,96.8,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205706,313,18,264.Viereckige Emaildose. Sprunge.,894,95.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205707,314,19,"Bunt. Schlacht-und Lagerszenen. 18.Jahrh. Lg.8,5 cm.",895,97.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205708,315,20,265.,896,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205709,316,21,"Langliche Emaildose mit geschweiften Ecken. Bunt. Galante Paare in Landschaften. 18.Jahrh.Lg.14,5cm.",897,98.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205710,317,266,"Emailanhanger. Flakon, mit bunten Schaferszenen. An Kettchen.",898,96.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205711,318,23,"267-69. Drei alte silberne Ringe mit Namen, Steinen usw. 18. Jahrh.",899,97.6,False,positional,K.SEEKATZ,,,,Sec. XVIII
-BO0624_88415,205712,319,270,"Alter goldener Ring, gebuckelt, mit grunem Stein.",900,95.8,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205713,320,25,271-72. Goldener Doppelring mit Bliten und silbervergoldeter Ring mit St. Georg.,901,98.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205714,321,26,"273.Gabel und Loffel, silbervergoldet. Ziseliert mit Fullhornern,Merkurstab usw. Fran-",902,98.2,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205715,322,27,"zosisch, um 1800. Gew. 90 g.",903,94.1,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205716,323,28,275.,904,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205717,324,29,"Konvolut: Silberner Zuckerloffel mit Frauenbiste,Munzloffel,zwei kleine Loffel mit Figuren (Gesamtgew. 90 g) und alter kupfervergoldeter Loffel.",905,98.9,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205718,325,30,276.,906,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205719,326,31,"Durchbrochene Eisenschale,rund. Aus Eichenlaubgewinde. Um 1830. Durchm. 24 cin.",907,98.0,False,positional,K.SEEKATZ,,,,Sec. XIX
-BO0624_88415,205720,327,277,"Chinesische glasierte Steinzeuggruppe: Zwei Knaben, ein Gerat tragend. H. 13 cm.",908,97.4,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205721,328,278,Korbchen aus alten Silber- und versilberten Kupferminzen. Durchm.10 cm.,909,97.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205722,329,279,Kupferversilbertes Necessaire. Getrieben mit Rocaillen und Bluten. Ohne Inhalt. 18.Jahrh.,910,97.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205723,330,280,Langlich ovale Tabaksdose. Kupfer und Messing. Mit Relief: Bataille bey Zorndorf usw.18.Jahrh.,911,97.8,False,positional,K.SEEKATZ,,OGGETTI IN RAME,,
-BO0624_88415,205724,331,281,"Drei alte Tanzfiguren, geschnitzt aus Holz und Bein. Mit Bleigewichten. 18. Jahrh.",912,97.5,False,positional,K.SEEKATZ,,OGGETTI IN LEGNO,,Sec. XVIII
-BO0624_88415,205725,332,282,"Chinesisches Perlmutterdoschen,rechteckig,mit abgeschragten Kanten. Eingraviert: Gartenszenen,mit Blitenbordure.",913,98.2,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205726,333,283,"Konvolut sechs verschiedener silberner Medaillen:Zwei a lte Pate nm uinzen, eine in Filigranfassung, zwei Friedensmedaillen,Auferstehungsmedaille (vergoldet) und ovale Plakette mit Muttergottes.Messing-",914,99.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205727,334,39,plakette mit Anbetung der Weisen.,915,95.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205728,335,40,284.,916,66.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205729,336,41,"Desgleichen von 24 alten Spindelkloben, darunter sechs mit Rubinsteinen, fuinf vergoldet als Anhanger.",917,98.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205730,337,42,285.Desgleichen von 40 alten Spindelkloben.,918,96.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205731,338,286,"Desgleichen, ebenso.",919,90.0,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205732,339,2,"287.Desgleichen,ebenso.",920,95.7,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205733,340,288,Armband aus zehn vergoldeten Spindelkloben.,921,95.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205734,341,289,"Desgleichen,ebenso,aus 16 Spindelkloben.",922,95.1,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205735,342,290,Halsband aus 15 Spindelkloben.,923,93.5,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205736,343,291,"Riechdoschen als Anhanger, in Birnenform ; gerautet. Lg. 9 cm.",924,96.6,False,positional,K.SEEKATZ,,,,
-BO0624_88415,205737,344,7,292.1 Konvolut: Drei kleine silberne Kellen mit vergoldeten Laffen. 18. bis Anfang 19. Jahrh.,925,98.9,False,positional,K.SEEKATZ,,,,Sec. XIX
+BO0624_88415,205538,145,129,Friedrich Wilhelm IV im Lustgarten zu Berlin.Roy.-Qu.Fol.,686,96.5,False,none,,Scuola di Berlino,,,
+BO0624_88415,205539,146,4,130-31. Zwei gerahmte Kupferstiche von Benj. Smith und Thom. Ryder nach Beechey.Punktiermanier.Konig Georg IHl. und Konigin Charlotte von England in,687,99.3,False,none,,,OGGETTI IN RAME,,
+BO0624_88415,205540,147,5,ganzen Figuren. Sehr schone Drucke mit Rand um die Darstellungen. Roy.-Fol.,688,98.6,False,none,,,STAMPE E INCISIONI,,
+BO0624_88415,205541,148,132,"Gerahmte Silhouette aus der Goethezeit. Junger Mann mit Hut und Spazierstock, eine",689,97.6,False,none,,,,,
+BO0624_88415,205542,149,7,"Blume haltend.H.18 cm,Br.10 cm.",690,96.8,False,none,,,,,
+BO0624_88415,205543,150,8,"132a-b. Zwei gerahmte englische Farbendrucke (Schabkunst), nach Morland. The first",691,98.7,False,none,MORLAND GEORGE,,STAMPE E INCISIONI,,
+BO0624_88415,205544,151,9,"of September. Morning. Evening. Schone Drucke,unter Passepartout. Roy.-Qu.-Fol",692,98.6,False,none,,,STAMPE E INCISIONI,,
+BO0624_88415,205545,152,133,Gerahmter Farbendruck von J. Daniell (Schabkunst).Filial piety. Pero nahrt ihren zum Hungertod verurteilten Vater im Gefangnis. Prachtiger Druck mit etwas Rand. Roy.-Fol.,693,98.8,False,none,,,,,
+BO0624_88415,205546,153,2,134.Gerahmter Farbendruck von W.Bond.(Punktiermanier.) The misteries of Udolyto,694,98.7,False,none,,,,,
+BO0624_88415,205547,154,3,nach Singleton.Schoner Druck mit Rand.Gr.-Fol.,695,97.8,False,none,,,,,
+BO0624_88415,205548,155,135,Desgleichen von Bar t oloz zi nach Fuiseli (ebenso). Prince Arthur's Vision. Schoner Abdruck mit Rand.Gr.-Fol.,696,98.1,False,none,,,,,
+BO0624_88415,205549,156,5,136.,697,75.0,False,none,,,,,
+BO0624_88415,205550,157,6,Gerahmter Farbendruck. Krayonmanier.Von Demarteau nach Huet. Hirtenszene. Mit Rand um die Darstellung. Qu.-Fol.,698,99.1,False,none,HUET J.B.,,,,
+BO0624_88415,205551,158,137,Gerahmtes Schabkunstblatt Admiral Nelson in ganzer Figur.Im Hintergrund See-,699,97.4,False,none,,,STAMPE E INCISIONI,,
+BO0624_88415,205552,159,8,schlacht.Mit Rand ohne jede Schrift.Gr.-Fol.,700,97.7,False,none,,,,,
+BO0624_88415,205553,160,9,"138-39. Zwei gerahmte, farbige Aquatintablatter von Rich ter und M ora sc h.Wehlen",701,98.8,False,none,,,,,
+BO0624_88415,205554,161,10,an der Eibe und Dresden.Mit Rand.Gr.-Qu.-Fol.,702,96.6,False,none,,,,,
+BO0624_88415,205555,162,11,140-41. Zwei desgleichen von Ziegler und Ham m er: Ansicht von Mannheim und,703,98.0,False,none,,,,,
+BO0624_88415,205556,163,12,Blick auf den llsenstein im Harz.Ebenso.,704,96.3,False,none,,,,,
+BO0624_88415,205557,164,13,142-43. Zwei gerahmte Farbendrucke von Gubier nach Huet. Les pecheurs und Vue,705,98.0,False,none,HUET J.B.,,STAMPE E INCISIONI,,
+BO0624_88415,205558,165,14,d'une fontaine anti.ue.Krayonmanier.Wenig Rand. Qu.-Fol.,706,97.2,False,none,,,,,
+BO0624_88415,205559,166,144,Ein desgleichen. Punktiermanier.Von Levilly nach Burnay.L'abandon. Mit Rand.,707,97.3,False,none,,,,,
+BO0624_88415,205560,167,16,Kl.-Fol.,708,80.0,False,none,,,,,
+BO0624_88415,205561,168,17,145-46. Zwei gerahmte Farbendrucke von A. Le G ra n d nach Lagrenee. Punktiermanier. Le plus beau titre.Hls sont heureux. Mit Rand um die Darstellungen. Eine Scheibe zerbrochen.Gr.-Fol.,709,99.2,False,none,,,STAMPE E INCISIONI,,
+BO0624_88415,205562,169,18,147-48. Zwei desgleichen von A. Le Gra n d nach W. Peters und Vieira Portnensis. Zwei,710,98.2,False,none,,,,,
+BO0624_88415,205563,170,19,Engelsdarstellungen. Gegensticke.Fol.,711,95.9,False,none,,,,,
+BO0624_88415,205564,171,149,Vier gerahmte Farbendrucke von Mariage nach Garnier.Vier Darstellungen aus der romischen Geschichte. Mit Rand um die Darstellungen. Gr-Qu.-Fol.,712,98.6,False,none,,,STAMPE E INCISIONI,,
+BO0624_88415,205565,172,150,"Kleine viereckige Dose. Vergoldetes Kupfer. Auf dem Deckel Relief:Schaukelnde Madchen,Kavalier und Musikanten.Rocailleornamente. 18. Jahrh. Lg.6 cm. und Also Lieb von Liebe stammt."" Durchm.5,5 cm.Um 1800.",718,83.3,False,none,,,OGGETTI IN RAME,,Sec. XVIII
+BO0624_88415,205566,173,151,Kleine ovale Silberdose mit Teilvergoldung.Im Deckel Medaille:Puttenpaar Spruch:Wie das Licht vom Feuer entflammt,720,98.3,False,none,,,,,
+BO0624_88415,205567,174,152,"Flache silberne Dose. Eingraviert: Neurokoko-Ornamente und C. v. P.Anfang 19. Jahrh. Lg.7,5cm.",721,97.8,False,none,,,SCATOLE,,Sec. XIX
+BO0624_88415,205568,175,153,"Langlich-viereckige Silberdose mit Flechtornament und C. K.Anfang 19. Jahrh. Lg.9,8cm.",722,97.6,False,none,,,,,Sec. XIX
+BO0624_88415,205569,176,6,154.,723,75.0,False,none,,,,,
+BO0624_88415,205570,177,7,"Kupfervergoldete Dose in Form einer Koffertruhe.Graviert mit Blumen. 18. Jahrh. Lg. 8,5 cm.",724,98.9,False,none,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205571,178,8,155.,725,75.0,False,none,,,,,
+BO0624_88415,205572,179,9,"Ovale Dose aus exotischer Nub, ganz bedeckt mit Schnitzerei in fachem Relief: Passionswerkzeuge,Bischofsabzeichen usw. Goldene Montierung. 18. Jahrh.Lg.10 cm.",726,99.3,False,none,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205573,180,10,156.,727,66.7,False,none,,,,,
+BO0624_88415,205574,181,11,"Ovale,kupfervergoldete Dose mit Lorbeerkranz-Bordiren.Um 1790. Lg. 8,5 cm.",728,97.9,False,none,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205575,182,12,157.,729,66.7,False,none,,,,,
+BO0624_88415,205576,183,13,"Runde Schildpattdose mit Reliefportrait: Martin Luther. Anfang 19. Jahrh. Durchmesser 7,5 cm.",730,98.3,False,none,,,OGGETTI VARI,,Sec. XIX
+BO0624_88415,205577,184,158,Runde Maserholzdose. Im Deckel vergoldetes Portratrelief:Feldmarschall v. Blucher. Bez.:Heuberger.Um 1820.Durchm. 9 cm.,731,80.6,False,none,,,,,Sec. XIX
+BO0624_88415,205578,185,159,"Kupfervergoldete Doppeldose mit Rocailleornamenten in fachem Relief. 18. Jahrh. Lg.8,5cm.",733,92.1,False,none,,,,,Sec. XVIII
+BO0624_88415,205579,186,160,Viereckige Bronzedose. Ganz bedeckt mit Reliefs: Jagdszenen. Auf dem Boden eingraviert: Raucher am Tisch usw. 18. Jahrh. Lg. 7 cm.,735,98.8,False,none,,,,,Sec. XVIII
+BO0624_88415,205580,187,161,"- Kupfervergoldete,ovale Dosemit guillochiertem Streifenmuster. Im Deckel kleine, ovale Miniatur eines Fursten mit Haarbeutel und blauem Uniformrock mit roten Auf schlagen.Um 1780. Lg.8 cm, H. 3,7 cm.",737,100.0,False,none,,,MINIATURE,,Sec. XVIII
+BO0624_88415,205581,188,162,"- Runde Dose aus dunkelgrinem Poudre d'ecail mit Bodenguillochierung. Iim Deckel Relief in Rot:,J. J. Rousseau et la vue du pavillon qu'il habitoit a Ermenonville."" Ende 18.Jahrh.Durchm.7,5 cm.",739,100.0,False,none,ROUSSEAU JEAN-JACQUES,,SCATOLE,,
+BO0624_88415,205582,189,163,"Runde Schildpattdose. Im Deckel Miniatur:Halbfigur eines Bauern in Zipfelmutze und messer 8,5cm.",740,97.9,False,none,,,MINIATURE,,
+BO0624_88415,205583,190,164,1810.Lg.11cm.,742,85.7,False,none,,,,,Sec. XIX
+BO0624_88415,205584,191,165,unter Glas groBes Monogramm. Ende 18. Jahrh. Lg. 17 cm.,743,96.2,False,none,,,,,Sec. XVIII
+BO0624_88415,205585,192,166,"Runde Dose aus braunem, gefecktem Stein. Vergoldete Montierung. 18. Jahrh. Durch-",744,97.4,False,none,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205586,193,167,Runde schwarze Dose mit Schildpattfutter. Im Deckel Reliefportrat:Louis XVIlI. de,746,97.5,False,none,,,SCATOLE,,
+BO0624_88415,205587,194,168,"Japanische Bronzedose. Innen versilbert, auBen dunkelgrun patiniert,mit teilvergold",748,97.6,False,none,,,,,
+BO0624_88415,205588,195,169,"- Bergkristalldose. Geschweifte hohe Form,silbervergoldete Montierung. Eingeschliffen: Gartner-Embleme und Ranken.Mitte 18. Jahrh. Lg. 6,5 cm, H. 3,5 cm.",751,100.0,False,none,,,,,Sec. XVIII
+BO0624_88415,205589,196,170,"Silberne Dose, geschweift; im Doppeldeckel U h r, deren rankenumgebenes Zifferblatt bezeichnet:London.18. Jahrh.Lg.7 cm.",752,98.3,False,none,,,SCATOLE,,
+BO0624_88415,205590,197,171,Rocailleeinrahmung. Mitte 18. Jahrh. Lg.8 cm.,754,95.3,False,none,,,,,Sec. XVIII
+BO0624_88415,205591,198,172,"Silberne Dose. Geschweift; innen vergoldet, auBen graviert:Neurokoko-Ornamente.",755,97.4,False,none,,,SCATOLE,,
+BO0624_88415,205592,199,173,"- Runde Schildpattdose mit Silbereinlage im Deckel:Von Trophaen und Ranken un gebene Adler, mit Schriftband ,vive la reine de Prusse"". (Sophie Charlotte.) 18. Jahrh. Durchm.7,4cm.",758,100.0,False,none,,,OGGETTI VARI,,Sec. XVIII
+BO0624_88415,205593,200,174,"Ovale, silbervergoldete Dose mit reliefierten und gravierten Rosenranken. Im Deckel: groBes Miniatur-Brustbild der Konigin Victoria von England. Ende 19. Jahrhundert.",759,98.8,False,none,,,MINIATURE,,Sec. XIX
+BO0624_88415,205594,201,175,Runde schwarze Dose mit Schildpattfutter. Im Deckel vertieftes Oval:vier Kriegs-,761,97.5,False,none,,,SCATOLE,,
+BO0624_88415,205595,202,176,"Runde braune Dose mit Schildpattfutter, Goldbordiren und ovaler Miniatur im Deckel:",763,97.6,False,none,,,MINIATURE,,
+BO0624_88415,205596,203,177,"Runde Elfenbeindose. Im Deckel Hiftbild einer Dame mit grober Puderfrisur,in hellem",765,97.6,False,none,,,,,
+BO0624_88415,205597,204,178,"Runde Elfenbeindose. Im Deckel Miniatur:Liebespaar, sich kissend,unter einem Bauu. Schildpattfutter.Ende 18.Jahrh.Durchm.8,5 cm.",767,98.4,False,none,,,MINIATURE,,
+BO0624_88415,205598,205,179,"Schildpattfutter.Um 1810.Durchm.7,8 cm.",769,95.0,False,none,,,,,Sec. XIX
+BO0624_88415,205599,206,180,"Muschelformige Dose aus dunkelbraunem Berustein, mit vergoldeter Montierung 18.Jahrh.Lg.7,2 cm.",770,97.9,False,none,,,SCATOLE,,
+BO0624_88415,205600,207,181,"GroBe schatullenformige Dose aus Milchglas mit farbiger Emailmalerei:auBen Jagd szenen, im Innendeckel vornehme Tafelrunde. Mitte 18. Jahrh.Vergoldete Montierung. Lg. 10,8 cm,Br.7,8 cm, H. 6,6 cm.",771,98.9,False,none,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205601,208,182,"Ovale Emaildose, weif,mit Schwarzmalerei:Ansicht eines Klosters, Szenen aus dem geistlichen Leben usw. Im Innendeckel Bildnis :,P. Constantinus"". 18. Jahrh. Lg. 8,4 cn.",772,98.7,False,none,,,,,Sec. XVIII
+BO0624_88415,205602,209,183,"Viereckige Emaildose, turkisblau,mit silbernem Reliefdekor:Chinesenszenen auf den Effendi Bassa,Botschafter der ottomanischen Pforte an dem Konigl. PreuBischen Hoff. 1763"".Lg.8cm.",774,69.9,False,none,,,,,Sec. XVIII
+BO0624_88415,205603,210,184,"Desgleichen, turkisblau, mit Silberdekor:PreuBische Embleme,Trophaen,Friedrichs-",775,97.5,False,none,,,,,
+BO0624_88415,205604,211,185,"Ovale Emaildose mit Grisaillemalerei ganz bedeckt: Staffierte FluBlandschaften.Im Innendeckel buntes Bild: Zwei Amoretten.Vergoldete Montierung. Dresden.18. Jahrh. Lg.8,5cm.",776,98.8,False,none,,,,,
+BO0624_88415,205605,212,186,"Viereckige Emaildose. Bunt bemalt. Im Innendeckel Portrat Friedrich des GroBen; auBen friedericianische Embleme, Trophaen usw. Auf dem Boden:,concerto per il fauto"".18. Jahrh.Lg. 7,8 cm.",777,98.9,False,none,,,,,
+BO0624_88415,205606,213,187,"Hohe runde Emaildose, tirkisfarbig,mit Camaieu-Bildchen:Liebespaare und Einzelfiguren. Im weiben Innendeckel sitzende Pierette in Zartblau. Vergoldete Montierung. 18.Jahrh.Durchm.5,5 cm.",778,92.1,False,none,,,,,
+BO0624_88415,205607,214,188,"Viereckige Emaildose mit farbiger Malerei auf pastos gekorntem Grund:Spielkarten, Kupferstiche und Zeitungsblatter nachahmende Quodlibets. Vergoldete Montierung. Berlin,zweite Halfte 18. Jahrh. Lg. 7,8 cm.",780,99.0,False,none,,Scuola di Berlino,OGGETTI IN RAME,,Sec. XVIII
+BO0624_88415,205608,215,189,"Desgleichen, weiB, mit goldenem Stern- und Rocailledekor, mit wenig Blau und Grin. Silberne Montierung. Battersee, 18.Jahrh.Lg.8 cm.",781,98.4,False,none,,,,,
+BO0624_88415,205609,216,10,190.,782,66.7,False,none,,,,,
+BO0624_88415,205610,217,11,"Desgleichen,bunt bemalt, mit Quodlibets aus Noten- und Spruchblattern. Im Deckel Karte des Konigreichs Neapel. Bronzemontierung. 18. Jahrh. Lg. 7,8 cm.",783,99.0,False,none,,,,,Sec. XVIII
+BO0624_88415,205611,218,191,"Ovale Thiringer Porzellandose. AuBen blaue Blumen in rot und golden gehohten Rocaillekartuschen;innen drei Personen bei Gesang und Flotenspiel,in einfarbig Purpur. (Deckel gesprungen.)Vergoldete Montierung. Um 1775. Lg. 8 cm.",784,99.1,False,none,,,,,Sec. XVIII
+BO0624_88415,205612,219,13,"18.Jahrh.Vergoldete Montierung.Lg.8,5 cm.",785,96.4,False,none,,,,,
+BO0624_88415,205613,220,194,"Breite, herzformige Dose aus hellem, rot geadertem Achat. Vergoldete Montierung. 18.Jahrh. Lg.9 cm. Langlich-ovale Dose aus hellem Horn mit goldenen Einlagen: Blumen, Ranken usw. 18.Jahrh.Lg.10 cm.",787,67.6,False,none,,,SCATOLE,,
+BO0624_88415,205614,221,195,"Runde Elfenbeindose. Im Deckel vergoldetes Reliefbrustbild:,Luise, Konigin von l'reuBen"".Bez.:Detler.Schildpattfutter. Anfang 19. Jahrh. Durchm.7 cm. Stern und blauem Ordensband.Um 1800. Durchm.7cm.",788,84.6,False,none,,,,,Sec. XIX
+BO0624_88415,205615,222,196,"Runde Lackdose. Auf dem Deckel farbiges Brustbild eines Fursten mit Haarbeutel,",790,97.5,False,none,,,,,
+BO0624_88415,205616,223,197,"GroBe runde Lackdose,schwarz,mit buntem Schlachtenbild. Innen in roter Schrift: ,Ruckzug der Kosaken,Baskieren, Kalmucken,Tartaren usw. Eroberung zweier",791,98.7,False,none,,,,,
+BO0624_88415,205617,224,198,Runde Lackdose. Schwarz. Im Deckel Brustbild eines alteren Herrn mit Vatermordern,792,97.5,False,none,,,,,
+BO0624_88415,205618,225,21,"Kanonen und Fahnen.""Wahl Stobwasser. Um 1825. Durchm. 11,5 cm.",793,97.4,False,none,,,BANDIERE,,Sec. XIX
+BO0624_88415,205619,226,22,"und Halsorden. Wahl Stobwasser. Datiert 1831.Durchm. 9,4 cm.",794,97.4,False,none,,,,,Sec. XIX
+BO0624_88415,205620,227,23,"Im Deckel von 32 halben Perlen umrahmte Miniatur:Brustbild einer Dame. Ende 18.Jahrh.Lg.8,5 cm,H.3,6 cm.",795,98.6,False,none,,,MINIATURE,,
+BO0624_88415,205621,228,199,"Ovale Lackdose,rot-weib-golden gestreift, mit Silbermontierung und Schildpattfutter.",796,97.6,False,none,,,,,
+BO0624_88415,205622,229,200,"Ovale Dose von hoher Form aus verschiedenfarbigen Marmorstuicken, mit vergoldeter Montierung. Im Innendeckel Schriftplattchen:,Sou venir des Marbres de Bayreuth de Mr. 1e H. C. R. Richter. An spach le 9me Juin 1792. Lange 9,8cm. Paare. Rocaille-Umrahmung. Mitte 18.Jahrh.Lg.8 cm.",797,89.3,False,none,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205623,230,201,Geschweifte Schildpattdose. Im Deckel Silbereinlagen:Schaukelnde und tanzende,799,97.4,False,none,,,OGGETTI VARI,,
+BO0624_88415,205624,231,202,"Kleine Emaildose. Schwarzer Grund. Auf dem Deckel Chinesenszene, auf den Seiten",800,97.4,False,none,,,,,
+BO0624_88415,205625,232,203,"GroBe runde Dose aus rotem poudre d'ecail mit Sternen und Streifen in Goldpiquet. Im Boden Blumenkorb auf Schildpattplatte. Schildpattfutter. Im Deckel farbiges Porzellanbild:Vornehme Dame als Madonna,mit dornenkranzhaltendem Kindchen. Ende 18.Jahrh.Durchm.9 cm. einzelne Bauernfiguren, im Innendeckel Halbfigur eines Chinesenknaben. 18. Jahrh. Lg.5cm.",801,85.2,False,none,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205626,233,204,Ovale Berliner Porzellantasse mit silbervergoldeter Montierung. Bunt bemalt mit Rosen,803,97.7,False,none,,Scuola di Berlino,,,
+BO0624_88415,205627,234,2,"205.Viereckige Emaildose, farbig bemalt. Auf dem Deckel:Raucher, am Tisch sitzend. Auf Montierung.18. Jahrh.Lg.8,6 cm.",804,99.1,False,none,,,,,
+BO0624_88415,205628,235,3,"und VergiBmeinnicht. Auf dem Deckel: Silhouetteeiner Da me,auf Eichenlaub umkranztem rosa Grund. Im Innendeckel Monogr.: v. L. Ende 18. Jahrh. Lg. 7,7 cm.",805,99.3,False,none,,,,,Sec. XVIII
+BO0624_88415,205629,236,206,"Desgleichen, farbig bemalt. Auf den Seiten kleine Landschaften in Gringrau; auf dem Deckel: Husar, in einer Versammlung von Monchen ein Vivat ausbringend. ,Es lebe der Conig von Preiben.) Nach einem Stich von Chodowiecki. Im Innendeckel: Halbfigur Friedrich des Gro Ben.Bronzemontierung. 18. Jahrh. Lg. 8 cm. 18.Jahrh. Lg.9,4 cm.",806,96.2,False,none,,,,,Sec. XVIII
+BO0624_88415,205630,237,207,"Desgleichen, farbig bemalt mit Puttenszenen.Vergoldete Montierung.Dresder.",808,97.3,False,none,,,,,
+BO0624_88415,205631,238,208,"Desgleichen, farbig bemalt und mit goldenen Reliefauflagen:Landschaften,kriegerische Szenen, Liebespaare usw. Vergoldete Montierung. 18. Jahrh. Lg. 8,6 cm. (Deckel aus- gebessert.)",809,95.8,False,none,,,,,Sec. XVIII
+BO0624_88415,205632,239,209,"Desgleichen.Rosa Grund,mit pastosem,weibem Gittermuster und Grisaillelandschaften in ausgesparten Reserven. Im Innendeckel farbiges Brustbild einer Dame als Schaferin. Vergoldete Bronzemontierung. 18. Jahrh. Lg. 7,8 cm. Viereckige fridericianische Emaildose. Farbig bemalt mit Kurierbildern und Inschriften:,cito! cito nach Magdeburg""und ,Abrisse des Konigl. PreuB. Couriers Herrn Lieutnant Barcn von Puttlitz etc.. Bezuiglich auf den Sieg Friedrichs des GroBen bei Borna. 1757. Berlin. 18. Jahrh. Vergoldete Montierung.Lg.8,6 cm. Viereckige Fayencedose mit leicht geschweifter Vorderseite. Farbig bemalt mit groben BlumenstrauBen. Im Innendeckel Schaferpaar.Auf dem Boden rote Marke:W. 18. Jahrh. Lg. 8 cm.",812,60.9,False,none,,Scuola di Berlino,,,Sec. XVIII
+BO0624_88415,205633,240,212,Kleine ovale Schildpattdose mit farbigen Gold- und Silbereinlagen:Stilleben in Rocaille,814,97.7,False,none,,,OGGETTI IN ORO,,
+BO0624_88415,205634,241,213,Runde flache Schildpattdose. Im Deckel Eglomiseminiatur:Landschaft mit Staffage-,815,97.5,False,none,,,OGGETTI VARI,,
+BO0624_88415,205635,242,14,"umrahmung. Mitte 18.Jahrh.Lg.5,3 cm.",816,95.8,False,none,,,,,
+BO0624_88415,205636,243,15,"figuren in der Art des Blarenberghe. (Blasig.) Ende 18. Jahrh. Durchm. 6,5 cm.",817,97.9,False,none,,,,,Sec. XVIII
+BO0624_88415,205637,244,214,"Runde Porzellandose. AuBen ganz vergoldet, mit bunten deutschen BlumenstrauBen Im Innendeckel ovales, medaillonartiges Portrat einer jungen Dame, vor ihrem Schmuckkastchen sitzend. Durchm. 7 cm.",818,98.9,False,none,,,,,
+BO0624_88415,205638,245,215,Viereckige Stobwasserdose mit Halbfigur eines jungen Madchens in altdeutschem,819,97.5,False,none,,,,,
+BO0624_88415,205639,246,216,Holzgeschnitzte Dose in Gestalt eines hockenden Affen mit roten Glasaugen. 18. Jahrh.,820,97.6,False,none,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205640,247,19,"Kostim, im Hintergrund Kirchenruine. Bez.: St. 402. Anfang 19. Jahrh. Lg. 8,8 cm.",821,97.9,False,none,,,,,Sec. XIX
+BO0624_88415,205641,248,20,H.10cm,822,80.0,False,none,,,,,
+BO0624_88415,205642,249,217,"Viereckige Emaildose. Turkisblau mit weiBen Bliten,Notenblattern usw. in Pastoreur-",823,97.6,False,none,,,,,
+BO0624_88415,205643,250,22,"malerei. 18. Jahrh. Lg.6,8 cm.",824,94.5,False,none,,,,,Sec. XVIII
+BO0624_88415,205644,251,23,"218.Viereckige Emaildose. WeiB mit grin-blau-goldenem Reliefdekor: Gartnerembleme, Vogel, Rocaillen usw.Silbervergoldete Montierung. Erste Halfte 18. Jahrh. Lg.6,7 cm.",825,99.1,False,none,,,,,Sec. XVIII
+BO0624_88415,205645,252,219,MeiBener Dose. AuBen blaue Bandornamente mit Rosen;im Innendeckel:Landschaft mit Kostimfiguren. Silbervergoldete Montierung. Im Boden  Schwertermarke. Lg. 7 cm. in Bunt. Vergoldete Montierung. Lg. 8 cm.,826,87.9,False,none,,,SCATOLE,,
+BO0624_88415,205646,253,220,Viereckige Porzellandose. AuBen Watteauszenen in Grun und Rot; innen Schaferszene,828,97.5,False,none,,,,,
+BO0624_88415,205647,254,221,"Trapezformige Emaildose mit farbigen Quodlibets aus Noten, Instrumenten, Masken usw.;innen Streublumen. 18.Jahrh. Gr.8X6 cm.",829,98.3,False,none,,,,,
+BO0624_88415,205648,255,222,Runde Porzellandose. Flechtgrund mit bunter Blumenmalerei Bronzemontierung. Durchm.9cm.,830,90.7,False,none,,,,,
+BO0624_88415,205649,256,223,"Viereckige Lackdose, flach, mit buntem Deckelbild: Junge Dame bei der Toilette, auf einem Sofa sitzend. Anfang 19. Jahrh.Lg.9,2 cm.",832,98.4,False,none,,,OGGETTI VARI,,Sec. XIX
+BO0624_88415,205650,257,224,"Langlich-ovale Lackdose, schwarz-rot mit vergoldeter Montierung und Silberpiquet: Wappen (von Stammer), Ranken, Spruch und Datum 1794. Lg. 10 cm.",833,98.6,False,none,,,,,Sec. XVIII
+BO0624_88415,205651,258,225,Runde Lackdose.Rotlich-braun mit sternformigem Ornament.Um 1800.Durchm.,834,97.2,False,none,,,,,Sec. XIX
+BO0624_88415,205652,259,2,"7,8cm.",835,83.3,False,none,,,,,
+BO0624_88415,205653,260,3,Runde Lackdose mit farbigem Bild:Portrat (Kniebild) eines sitzenden jungen Mad-,836,98.7,False,none,,,,,
+BO0624_88415,205654,261,226,chens mit Buch.Anfang 19. Jahrh. Durchm.9 cm.,837,95.5,False,none,,,,,Sec. XIX
+BO0624_88415,205655,262,5,227.,838,75.0,False,none,,,,,
+BO0624_88415,205656,263,6,"Runde Lackdose. Schwarz,auf dem Deckel auf Goldgrund:Ehestandsthermometer. Um 1825.Durchm.9cm.",839,98.9,False,none,,,,,Sec. XIX
+BO0624_88415,205657,264,7,Viereckige Berliner Porzellandose. Mit bunten Blumen und Frichten.Vergoldete,840,98.7,False,none,,Scuola di Berlino,,,
+BO0624_88415,205658,265,229,"Montierung. Zeptermarke.19. Jahrh.Lg. 6,5 cm.",841,95.3,False,none,,,,,
+BO0624_88415,205659,266,230,"Runde Lackdose. Dunkelschildpattfarbig;im Deckel Schrift in Silberpiquet:Ach Stolberg unser Paulus ist nicht mehr hienieden.""(Chronogramm, dessen Auflosung 1821 ergibt.Durchm.9 cm.",842,91.5,False,none,,,,,Sec. XIX
+BO0624_88415,205660,267,231,"Kleine Dose aus einer Tigermuschel mit silberner Montierung. 18. Jahrh. Lg. 4,9 cm.",844,97.5,False,none,,,SCATOLE,,Sec. XVIII
+BO0624_88415,205661,268,232,"Kofferformige Dose,Holz mit Lackmalerei,bunte Blumen und Rocaillen.18. Jahrh. H.5,2 cm, Lg. 8,8 cm.",845,97.9,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88415,205662,269,233,Viereckige Porzellandose. Schaferszene in Grau-Grin-Rosa.Vergoldete Montierung. Lg. 8 cm.,846,97.7,False,none,,,,,
+BO0624_88415,205663,270,14,Bemalt in Gold-Grin-Purpur mit Watteaufiguren;innen,847,97.1,False,none,,,OGGETTI IN ORO,,
+BO0624_88415,205664,271,15,"Silbergetriebene Dose. Passige,hohe Form mit Fruchtbischel auf dem Deckel und",848,98.1,False,none,,,SCATOLE,,
+BO0624_88415,205665,272,235,"GuBeiserne Dose. Truhenform,im Deckel Relief mit figirlicher Szene. Anfang 19. Jahr. Lg.10 cm.",849,97.8,False,none,,,SCATOLE,,Sec. XIX
+BO0624_88415,205666,273,234,"teilweise vergoldeten Ranken. Ornamente ringsum. Durchm.6,5 cm.",850,96.8,False,none,,,,,
+BO0624_88415,205667,274,18,"Viereckige Porzellandose mit Portrat Friedrichs des GroBen, Soldatenszenen und Streu-",851,98.2,False,none,,,,,
+BO0624_88415,205668,275,236,"blumen.Lange 8,5 cm.",852,90.5,False,none,,,,,
+BO0624_88415,205669,276,237,"Kleine Dose aus Wurzelholz,halbrund gebogen, mit Klappdeckel. Lange 6 cm.",853,97.2,False,none,,,SCATOLE,,
+BO0624_88415,205670,277,21,238.,854,66.7,False,none,,,,,
+BO0624_88415,205671,278,22,"Viereckige flache Blechdose mit Lackbild: Jager mit Vorstehhund.Biedermeierzeit. Lg.11,7cm.",855,98.3,False,none,,Biedermeier,,,
+BO0624_88415,205672,279,239,"Porzellandose.Hohe,korbahnliche Form mit Stilpdeckel. Mit rotgrinen Streublumen. Sevresmarke mit C.T.H. 5,5 cm.",856,98.2,False,none,,,,,
+BO0624_88415,205673,280,240,"Porzellandeckeldose fir Zundholzer. Truhenform.WeiB-blau-golden.Blaue Marke S.P.M.Um 1850.Lg.9,5 cm.",857,98.0,False,none,,,,,Sec. XIX
+BO0624_88415,205674,281,241,Alte viereckige Schildpattdose mit Silber-und Perlmuttereinlagen. Lg.7cm.,858,97.3,False,none,,,OGGETTI VARI,,
+BO0624_88415,205675,282,242,Goldene Taschenuhr mit getriebener Kapsel.Figirliche Szene. London. 18.Jahrh.,859,97.4,False,none,,,,,
+BO0624_88415,205676,283,27,243.,860,66.7,False,none,,,,,
+BO0624_88415,205677,284,28,"Bez.:Charleson,",861,89.7,False,none,,,,,
+BO0624_88415,205678,285,29,Muschelformige Emaildose. Bunt. Mit antiken Szenen.Anfang 18. Jahrh.Lg. 9 cm.,862,98.0,False,none,,,STAMPE E INCISIONI,,Sec. XVIII
+BO0624_88415,205679,286,244,"Viereckige Emaildose. Bunt.Galante Szenen und Blumenbordiiren. Bronzemontierung.18.Jahrh.Lg.8,5cm.",863,97.9,False,none,,,,,
+BO0624_88415,205680,287,31,245.,864,66.7,False,none,,,,,
+BO0624_88415,205681,288,32,"Goldener Halsschmuck und zwei Knopfe. Mit drei ovalen Emailminiaturen (Amoretten), Weinlaub und Perlbordire.Um 1800.Im alten Etui.",865,98.8,False,none,,,OGGETTI VARI,,Sec. XIX
+BO0624_88415,205682,289,246,Halskette aus vier Reihen Granaten mit finf silbervergoldeten Zwischenstucken in Filigran.,866,97.8,False,none,,,,,
+BO0624_88415,205683,290,247,"Ovales Schalchen aus braunlichem Onyx; silberner Boden, Rand mit groBen StraB- steinen besetzt. 18. Jahrh.",867,83.8,False,none,,,,,Sec. XVIII
+BO0624_88415,205684,291,248,Ovale Dose aus grau-rosa Ba n dac hat.Silberne Montierung und durchbrochener Seitenbelag.18.Jahrh.Lg.7 cm.,869,98.1,False,none,,,SCATOLE,,
+BO0624_88415,205685,292,37,249.Gotischer Maserholzloffel mit silbernem Heiligenfigirchen am Stielende. 15.16. Jahrh.,870,98.3,False,none,,,,,
+BO0624_88415,205686,293,38,250.,871,66.7,False,none,,,,,
+BO0624_88415,205687,294,39,"Kleiner holzgeschnitzter Rahmen mit reich durchbrochenem Laub- und Rocaille werk.18.Jahrh.Lichte Weite 7,5X9 cm.",872,98.7,False,none,,,CORNICI,,
+BO0624_88415,205688,295,40,Standuhr. Gehause zwischen Alabastersaulen;im Giebel Schwan und Blumen aus Stoff.,873,98.1,False,none,,,,,
+BO0624_88415,205689,296,251,Bez.:Joh.Simeon Lux in Ebersdorf.Um 1800.H.50 cm.,874,95.9,False,none,,,,,Sec. XIX
+BO0624_88415,205690,297,252,Kleiner Altar mit Saulen und Giebel. Schwarz mit Schildpattauflagen.Dazu Elfenbeinstatuette der Madonna. 18. Jahrh.H.35 cm. 252a. Niederlandischer Meister. Anfang 17. Jahrh. Saloime mit dem Haupt des Johannes. Holz. H. 69 cm.Br. 53 cm. S.R.,875,68.2,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88415,205691,298,253,"Uhr mit bronzevergoldeter Lowenfigur, deren Augen und Zunge beweglich sind. GroBer",877,97.6,False,none,,,,,
+BO0624_88415,205692,299,254,"Sechseckige Tischuhr. Silbernes Ziffernblatt.Bez.:Gabriel, London",878,96.9,False,none,METSU GABRIEL,,,,
+BO0624_88415,205693,300,3,Bronze. Um1700.,879,92.9,False,none,,,,,
+BO0624_88415,205694,301,4,Schaustick aus vergoldeter Filigranarbeit und Korallen. Von drei Figurchen ge,880,98.7,False,none,,,,,
+BO0624_88415,205695,302,256,"Kleine sechseckige Tischuhr.Versilbert. Bez.:,Marcus Maijo Lublin fecet.Um 1700. tragene Hutte mit Gotzenbild. Lg. 18 cm.",881,78.4,False,none,,,,,Sec. XVIII
+BO0624_88415,205696,303,257,"Konvolut:Hellenistischer Portratkopf aus gebranntem Ton, Glasflu Bkette mit Tonskarabaus,Holzpuppe( (Spielzeug) undMiniaturTem p el sau le aus Ton. Von agyptischer Ausgrabung stammend. zwei Bronzefragmente,eines mit Froschkopf. Gleicher Herkunft.",883,84.8,False,none,,,,,
+BO0624_88415,205697,304,258,Desgleichen:Bron zes ta tuette einer agyptischen Gottheit (hellpatiniert) und,885,97.4,False,none,,,,,
+BO0624_88415,205698,305,259,"Desgleichen: Funf kleine Tonbilder von Mumiensargen,z.T. blauglasiert und eines groBer,buntbemalt. Ebendaher.",886,98.1,False,none,,,,,
+BO0624_88415,205699,306,11,260,887,66.7,False,none,,,,,
+BO0624_88415,205700,307,12,"Desgleichen: Drei ebenso und die Gottin Bubastis thronend nebst Mumienbildern eines Ibis und eines Menschen, blauglasiert, und altorientalischer Zeugungsgott.",888,99.0,False,none,,,,,
+BO0624_88415,205701,308,13,261.,889,66.7,False,none,,,,,
+BO0624_88415,205702,309,14,Altagyptische Holzstatuette einer Toten mit Bemalungsspuren.H. 23 cm. Ebendaher.,890,98.1,False,none,,,,,
+BO0624_88415,205703,310,15,262.,891,66.7,False,none,,,,,
+BO0624_88415,205704,311,16,"Alter Haarschmuck (Einstecknadel).Mit zahlreichen Diamanten, zwei Rubinen und Perlen besetzt.18. Jahrh.",892,98.5,False,none,,,,,
+BO0624_88415,205705,312,263,Lange goldene Kette mit Lorgnonfassung. Bunt emalliert.Um 1850.,893,96.8,False,none,,,,,Sec. XIX
+BO0624_88415,205706,313,18,264.Viereckige Emaildose. Sprunge.,894,95.5,False,none,,,,,
+BO0624_88415,205707,314,19,"Bunt. Schlacht-und Lagerszenen. 18.Jahrh. Lg.8,5 cm.",895,97.0,False,none,,,,,
+BO0624_88415,205708,315,20,265.,896,66.7,False,none,,,,,
+BO0624_88415,205709,316,21,"Langliche Emaildose mit geschweiften Ecken. Bunt. Galante Paare in Landschaften. 18.Jahrh.Lg.14,5cm.",897,98.5,False,none,,,,,
+BO0624_88415,205710,317,266,"Emailanhanger. Flakon, mit bunten Schaferszenen. An Kettchen.",898,96.6,False,none,,,,,
+BO0624_88415,205711,318,23,"267-69. Drei alte silberne Ringe mit Namen, Steinen usw. 18. Jahrh.",899,97.6,False,none,,,,,Sec. XVIII
+BO0624_88415,205712,319,270,"Alter goldener Ring, gebuckelt, mit grunem Stein.",900,95.8,False,none,,,,,
+BO0624_88415,205713,320,25,271-72. Goldener Doppelring mit Bliten und silbervergoldeter Ring mit St. Georg.,901,98.1,False,none,,,,,
+BO0624_88415,205714,321,26,"273.Gabel und Loffel, silbervergoldet. Ziseliert mit Fullhornern,Merkurstab usw. Fran-",902,98.2,False,none,,,,,
+BO0624_88415,205715,322,27,"zosisch, um 1800. Gew. 90 g.",903,94.1,False,none,,,,,Sec. XIX
+BO0624_88415,205716,323,28,275.,904,66.7,False,none,,,,,
+BO0624_88415,205717,324,29,"Konvolut: Silberner Zuckerloffel mit Frauenbiste,Munzloffel,zwei kleine Loffel mit Figuren (Gesamtgew. 90 g) und alter kupfervergoldeter Loffel.",905,98.9,False,none,,,,,
+BO0624_88415,205718,325,30,276.,906,66.7,False,none,,,,,
+BO0624_88415,205719,326,31,"Durchbrochene Eisenschale,rund. Aus Eichenlaubgewinde. Um 1830. Durchm. 24 cin.",907,98.0,False,none,,,,,Sec. XIX
+BO0624_88415,205720,327,277,"Chinesische glasierte Steinzeuggruppe: Zwei Knaben, ein Gerat tragend. H. 13 cm.",908,97.4,False,none,,,,,
+BO0624_88415,205721,328,278,Korbchen aus alten Silber- und versilberten Kupferminzen. Durchm.10 cm.,909,97.1,False,none,,,,,
+BO0624_88415,205722,329,279,Kupferversilbertes Necessaire. Getrieben mit Rocaillen und Bluten. Ohne Inhalt. 18.Jahrh.,910,97.7,False,none,,,,,
+BO0624_88415,205723,330,280,Langlich ovale Tabaksdose. Kupfer und Messing. Mit Relief: Bataille bey Zorndorf usw.18.Jahrh.,911,97.8,False,none,,,OGGETTI IN RAME,,
+BO0624_88415,205724,331,281,"Drei alte Tanzfiguren, geschnitzt aus Holz und Bein. Mit Bleigewichten. 18. Jahrh.",912,97.5,False,none,,,OGGETTI IN LEGNO,,Sec. XVIII
+BO0624_88415,205725,332,282,"Chinesisches Perlmutterdoschen,rechteckig,mit abgeschragten Kanten. Eingraviert: Gartenszenen,mit Blitenbordure.",913,98.2,False,none,,,,,
+BO0624_88415,205726,333,283,"Konvolut sechs verschiedener silberner Medaillen:Zwei a lte Pate nm uinzen, eine in Filigranfassung, zwei Friedensmedaillen,Auferstehungsmedaille (vergoldet) und ovale Plakette mit Muttergottes.Messing-",914,99.0,False,none,,,,,
+BO0624_88415,205727,334,39,plakette mit Anbetung der Weisen.,915,95.5,False,none,,,,,
+BO0624_88415,205728,335,40,284.,916,66.7,False,none,,,,,
+BO0624_88415,205729,336,41,"Desgleichen von 24 alten Spindelkloben, darunter sechs mit Rubinsteinen, fuinf vergoldet als Anhanger.",917,98.5,False,none,,,,,
+BO0624_88415,205730,337,42,285.Desgleichen von 40 alten Spindelkloben.,918,96.6,False,none,,,,,
+BO0624_88415,205731,338,286,"Desgleichen, ebenso.",919,90.0,False,none,,,,,
+BO0624_88415,205732,339,2,"287.Desgleichen,ebenso.",920,95.7,False,none,,,,,
+BO0624_88415,205733,340,288,Armband aus zehn vergoldeten Spindelkloben.,921,95.5,False,none,,,,,
+BO0624_88415,205734,341,289,"Desgleichen,ebenso,aus 16 Spindelkloben.",922,95.1,False,none,,,,,
+BO0624_88415,205735,342,290,Halsband aus 15 Spindelkloben.,923,93.5,False,none,,,,,
+BO0624_88415,205736,343,291,"Riechdoschen als Anhanger, in Birnenform ; gerautet. Lg. 9 cm.",924,96.6,False,none,,,,,
+BO0624_88415,205737,344,7,292.1 Konvolut: Drei kleine silberne Kellen mit vergoldeten Laffen. 18. bis Anfang 19. Jahrh.,925,98.9,False,none,,,,,Sec. XIX
 BO0624_88415,205738,345,293,"Kleiner chinesischer Bronzebuddha,vergoldet. In Glaskasten,auf geschnitztem Posta-",939,97.6,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205739,346,2,ment.,940,80.0,False,positional,,,OSTASIATISCHE KUNST,,
 BO0624_88415,205740,347,3,"294-95. Ein Paar chinesische Tabaksdosen aus Elfenbein,vierkantig,mit achteckigem Deckel",941,98.9,False,positional,,,OSTASIATISCHE KUNST,,

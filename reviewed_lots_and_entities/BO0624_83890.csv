@@ -1,258 +1,258 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_83890,122089,1,1755,1859,4,61.5,False,positional,BEECHEY (SIR WILLIAM),,,,Sec. XIX
 BO0624_83890,122090,2,1755,1859,25,61.5,False,positional,BEECHEY (SIR WILLIAM),,,,Sec. XIX
-BO0624_83890,122091,3,2,Portrait de Lady Stanhope.,27,96.2,False,positional,BEECHEY (SIR WILLIAM),,,,
-BO0624_83890,122092,4,3,"Portrait de John Bannister. l est vetu d'une redingote a la Spencer boutonnee,brune, col de velours rabattu, et revers largement ouverts sur un gilet jaune qui laisse passer le jabot de la chemise, et le noeud de la cravate de linon blanc.",41,94.1,False,positional,BEECHEY (SIR WILLIAM),,,,
-BO0624_83890,122093,5,4,Portrait de Lady Spencer.,45,96.0,False,positional,BEECHEY (SIR WILLIAM),,,,
-BO0624_83890,122094,6,5,Portrait de I'Amiral Douglas.,53,96.6,False,positional,BEECHEY (SIR WILLIAM),,,,
-BO0624_83890,122095,7,I,"l est vu de trois quarts a gauche jusqu'a mi-corps,le visage hale sous ses cheveux grisonnants,les yeux tres bleus, le menton emergeant des pointes du col empese. l porte Ihabit bleu a boutons de metal, les epaulettes d'or a graines d'epinards.Un jabot a petits plis passe dans I'ecartement des revers.",57,99.8,False,positional,BEECHEY (SIR WILLIAM),,OGGETTI IN METALLO,,
+BO0624_83890,122091,3,2,Portrait de Lady Stanhope.,27,96.2,False,none,,,,,
+BO0624_83890,122092,4,3,"Portrait de John Bannister. l est vetu d'une redingote a la Spencer boutonnee,brune, col de velours rabattu, et revers largement ouverts sur un gilet jaune qui laisse passer le jabot de la chemise, et le noeud de la cravate de linon blanc.",41,94.1,False,none,,,,,
+BO0624_83890,122093,5,4,Portrait de Lady Spencer.,45,96.0,False,none,,,,,
+BO0624_83890,122094,6,5,Portrait de I'Amiral Douglas.,53,96.6,False,none,,,,,
+BO0624_83890,122095,7,I,"l est vu de trois quarts a gauche jusqu'a mi-corps,le visage hale sous ses cheveux grisonnants,les yeux tres bleus, le menton emergeant des pointes du col empese. l porte Ihabit bleu a boutons de metal, les epaulettes d'or a graines d'epinards.Un jabot a petits plis passe dans I'ecartement des revers.",57,99.8,False,none,,,OGGETTI IN METALLO,,
 BO0624_83890,122096,8,1801,1828,66,61.5,False,positional,BONINGTON (RICHARD PARKES),,,,Sec. XIX
-BO0624_83890,122097,9,6,Louis XIV et Marie Mancini.,68,96.3,False,positional,BONINGTON (RICHARD PARKES),,,,
-BO0624_83890,122098,10,7,Francois I et Charles-Quint.,78,96.4,False,positional,BONINGTON (RICHARD PARKES),,,,
-BO0624_83890,122099,11,8,- Le Page. 1828,87,66.7,False,positional,BONINGTON (RICHARD PARKES),,,,Sec. XIX
+BO0624_83890,122097,9,6,Louis XIV et Marie Mancini.,68,96.3,False,none,,,,,
+BO0624_83890,122098,10,7,Francois I et Charles-Quint.,78,96.4,False,none,,,,,
+BO0624_83890,122099,11,8,- Le Page. 1828,87,66.7,False,none,,,,,Sec. XIX
 BO0624_83890,122100,12,9,La Sieste.,103,90.0,False,positional,BONINGTON (RICHARD PARKES),,,,
-BO0624_83890,122101,13,10,Devotion. 1828,111,66.7,False,positional,BONINGTON (RICHARD PARKES),,,,Sec. XIX
+BO0624_83890,122101,13,10,Devotion. 1828,111,66.7,False,none,,,,,Sec. XIX
 BO0624_83890,122102,14,11,Vue de Caen.,128,88.0,False,positional,BONINGTON (RICHARD PARKES),,,,
-BO0624_83890,122103,15,12,L'arrivée du Bateau de peche.,134,94.9,False,positional,BONINGTON (RICHARD PARKES),,,,
-BO0624_83890,122104,16,13,Chateau de Falaise. 1828,150,81.8,False,positional,BONINGTON (RICHARD PARKES),,,,Sec. XIX
+BO0624_83890,122103,15,12,L'arrivée du Bateau de peche.,134,94.9,False,none,,,,,
+BO0624_83890,122104,16,13,Chateau de Falaise. 1828,150,81.8,False,none,,,,,Sec. XIX
 BO0624_83890,122105,17,14,-Environs de Dunkerque.,157,93.3,False,positional,BONINGTON (RICHARD PARKES),,,,
-BO0624_83890,122106,18,15,Paysage.,163,82.4,False,positional,BONINGTON (RICHARD PARKES),,,,
-BO0624_83890,122107,19,16,Bord de Mer.,171,88.0,False,positional,BONINGTON (RICHARD PARKES),,,,
-BO0624_83890,122108,20,17,Marine.,177,80.0,False,positional,BONINGTON (RICHARD PARKES),,,,
-BO0624_83890,122109,21,18,Marine. 1828,184,60.0,False,positional,BONINGTON (RICHARD PARKES),,,,Sec. XIX
+BO0624_83890,122106,18,15,Paysage.,163,82.4,False,none,,,,,
+BO0624_83890,122107,19,16,Bord de Mer.,171,88.0,False,none,,,,,
+BO0624_83890,122108,20,17,Marine.,177,80.0,False,none,,,,,
+BO0624_83890,122109,21,18,Marine. 1828,184,60.0,False,none,,,,,Sec. XIX
 BO0624_83890,122110,22,19,Petite Plage. 1876,194,75.0,False,positional,BONINGTON (RICHARD PARKES),,,,Sec. XIX
 BO0624_83890,122111,23,20,Interieur de Ferme. 1847,204,81.8,False,positional,BRISTOW (EDWARD),,ARREDAMENTI,,Sec. XIX
 BO0624_83890,122112,24,21,La Balancoire. 1857,216,76.5,False,positional,COLLINS(WILLIAM),,,,Sec. XIX
 BO0624_83890,122113,25,22,"Bords de la Riviere Stour,Suffolk. 1857",225,89.2,False,positional,CONSTABLE (JOHN),,,,Sec. XIX
 BO0624_83890,122114,26,23,La Vallee de la Riviere Stour. 1857,242,87.9,False,positional,CONSTABLE (JOHN),,,,Sec. XIX
 BO0624_83890,122115,27,24,- Glebe Farm.,257,87.0,False,positional,CONSTABLE(JOHN),,,,
-BO0624_83890,122116,28,25,Vue d'Edimbourg. 1857,265,78.9,False,positional,CONSTABLE(JOHN),,,,Sec. XIX
+BO0624_83890,122116,28,25,Vue d'Edimbourg. 1857,265,78.9,False,none,,,,,Sec. XIX
 BO0624_83890,122117,29,26,- Petite Marine agitee.,272,93.0,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122118,30,27,Vue de Hastings.,278,90.9,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122119,31,28,La Baie de Whitestable.,286,93.6,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122120,32,29,Baie pres de Cromer. 1857,290,82.6,False,positional,CONSTABLE (JOHN),,,,Sec. XIX
+BO0624_83890,122118,30,27,Vue de Hastings.,278,90.9,False,none,,,,,
+BO0624_83890,122119,31,28,La Baie de Whitestable.,286,93.6,False,none,,,,,
+BO0624_83890,122120,32,29,Baie pres de Cromer. 1857,290,82.6,False,none,,,,,Sec. XIX
 BO0624_83890,122121,33,30,Le Cottage de Gandish a East Bergholt. Effet d'hiver.,303,97.1,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122122,34,31,"V Vue a Winchmore Hill, Middle-Essex",313,95.9,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122123,35,32,Chantier pour la construction des bateaux.,319,96.5,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122124,36,33,"La Vallee de Dedham, 1857",329,82.6,False,positional,CONSTABLE (JOHN),,,,Sec. XIX
+BO0624_83890,122122,34,31,"V Vue a Winchmore Hill, Middle-Essex",313,95.9,False,none,,,,,
+BO0624_83890,122123,35,32,Chantier pour la construction des bateaux.,319,96.5,False,none,,,,,
+BO0624_83890,122124,36,33,"La Vallee de Dedham, 1857",329,82.6,False,none,,,,,Sec. XIX
 BO0624_83890,122125,37,34,La Vallee de Dedham.,342,92.7,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122126,38,35,Portrait de Femme.,348,91.9,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122127,39,36,L'Enfant a la Chevre.,356,93.0,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122128,40,37,L'Etude en Foret. 1857,366,80.0,False,positional,CONSTABLE (JOHN),,,,Sec. XIX
+BO0624_83890,122126,38,35,Portrait de Femme.,348,91.9,False,none,,,,,
+BO0624_83890,122127,39,36,L'Enfant a la Chevre.,356,93.0,False,none,,,,,
+BO0624_83890,122128,40,37,L'Etude en Foret. 1857,366,80.0,False,none,,,,,Sec. XIX
 BO0624_83890,122129,41,38,La Ferme.,375,84.2,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122130,42,39,Moulin a eau.,385,88.9,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122131,43,40,Etude d'arbres.,389,90.3,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122132,44,41,"Le Moulin de Strafford, Dedham. 1857",393,87.9,False,positional,CONSTABLE (JOHN),,,,Sec. XIX
+BO0624_83890,122130,42,39,Moulin a eau.,385,88.9,False,none,,,,,
+BO0624_83890,122131,43,40,Etude d'arbres.,389,90.3,False,none,,,,,
+BO0624_83890,122132,44,41,"Le Moulin de Strafford, Dedham. 1857",393,87.9,False,none,,,,,Sec. XIX
 BO0624_83890,122133,45,42,Palissade bordant un Chemin.,408,94.7,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122134,46,43,"Eglise Sainte-Marie, a Stratford, pres de Dedham.",414,96.8,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122135,47,44,— Paysage (Esquisse).,420,91.4,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122136,48,45,— Paysage d'Eté (Esquisse).,426,93.6,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122137,49,46,Paysage. 1857,433,63.6,False,positional,CONSTABLE (JOHN),,,,Sec. XIX
+BO0624_83890,122134,46,43,"Eglise Sainte-Marie, a Stratford, pres de Dedham.",414,96.8,False,none,,,,,
+BO0624_83890,122135,47,44,— Paysage (Esquisse).,420,91.4,False,none,,,,,
+BO0624_83890,122136,48,45,— Paysage d'Eté (Esquisse).,426,93.6,False,none,,,,,
+BO0624_83890,122137,49,46,Paysage. 1857,433,63.6,False,none,,,,,Sec. XIX
 BO0624_83890,122138,50,47,Fillette dans un Paysage.,445,94.1,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122139,51,48,Le Champ.,449,84.2,False,positional,CONSTABLE (JOHN),,,,
-BO0624_83890,122140,52,49,La Vallée de Dedham (Grisaille). 1837,455,87.9,False,positional,CONSTABLE (JOHN),,,,Sec. XIX
+BO0624_83890,122139,51,48,Le Champ.,449,84.2,False,none,,,,,
+BO0624_83890,122140,52,49,La Vallée de Dedham (Grisaille). 1837,455,87.9,False,none,,,,,Sec. XIX
 BO0624_83890,122141,53,50,",—Bords de Riviere.",464,91.4,False,positional,CONSTABLE JOHN),,,,
-BO0624_83890,122142,54,51,Bceufs au Paturage:Etude.,472,94.1,False,positional,CONSTABLE JOHN),,,,
-BO0624_83890,122143,55,52,Le Chemin tournant. 1831,478,81.8,False,positional,CONSTABLE JOHN),,,,Sec. XIX
+BO0624_83890,122142,54,51,Bceufs au Paturage:Etude.,472,94.1,False,none,,,,,
+BO0624_83890,122143,55,52,Le Chemin tournant. 1831,478,81.8,False,none,,,,,Sec. XIX
 BO0624_83890,122144,56,53,L'Idylle au Bois. 1770,488,80.0,False,positional,CORBOULD (RICHARD),,OGGETTI IN LEGNO,,Sec. XVIII
 BO0624_83890,122145,57,54,La Femme a la Fleur de Soleil.,497,95.1,False,positional,COTES (FRANCIS),,,,
-BO0624_83890,122146,58,55,Portrait de Lady Williams.,503,94.3,False,positional,COTES (FRANCIS),,,,
-BO0624_83890,122147,59,56,",—Portrait d'un jeune Garcon.",513,94.5,False,positional,COTES (FRANCIS),,,,
-BO0624_83890,122148,60,57,"Marine,",518,80.0,False,positional,COTES (FRANCIS),,,,
+BO0624_83890,122146,58,55,Portrait de Lady Williams.,503,94.3,False,none,,,,,
+BO0624_83890,122147,59,56,",—Portrait d'un jeune Garcon.",513,94.5,False,none,,,,,
+BO0624_83890,122148,60,57,"Marine,",518,80.0,False,none,,,,,
 BO0624_83890,122149,61,58,Paysage panoramique.,528,92.7,False,positional,CROME JOHN),,,,
 BO0624_83890,122150,62,1782,1842,538,61.5,False,positional,COTMAN JAMES SELL),,,,Sec. XIX
 BO0624_83890,122151,63,1769,1824,541,61.5,False,positional,CROME (JOHN),,,,Sec. XIX
-BO0624_83890,122152,64,59,View on the River Yare. 1646,543,84.6,False,positional,CROME (JOHN),,,,Sec. XVII
+BO0624_83890,122152,64,59,View on the River Yare. 1646,543,84.6,False,none,,,,,Sec. XVII
 BO0624_83890,122153,65,60,—Portrait de Charles I d'Angleterre.,553,95.8,False,positional,DOBSON (WILLIAM),,,,
-BO0624_83890,122154,66,I,"l est debout, de face, en pourpoint rouge a creves, le manteau bleu double de satin blanc, drape poitrine, et passe sous la fraise souple,garnie de point coupe.",555,99.7,False,positional,DOBSON (WILLIAM),,,,
-BO0624_83890,122155,67,I,"l a les cheveux bruns,la barbiche et les moustaches legerement rousses.ll s'appuie de la main gauche a la sphere d'or surmontee de la croix de Saint-Georges qui est placee sur une table couverte d'un tapis vert, pres du diademe d'or orne de gemmes et de perles. Derriere lui une draperie vert-bronze est en partie relevee.",557,99.8,False,positional,DOBSON (WILLIAM),,,,
-BO0624_83890,122156,68,I,l est represente jusqu'a mi-jambe.,559,98.5,False,positional,DOBSON (WILLIAM),,,,
-BO0624_83890,122157,69,61,"Portrait d'un jeune Prince. l est vu jusqu'a mi-corps,presque de face, en armure.portant lecharpe rouge du commandement. Le visage rose et plein s'encadre de ses cheveux longs ct ondules, chatain fonce; a la place du gorgerin, il porte un col de batiste blanche empese,rabattu sur un hausse-col noir. Les yeux sont grands ct noirs; les levres rouges et sensuelles, le menton fin et delicat.",565,96.5,False,positional,DOBSON (WILLIAM),,,,
+BO0624_83890,122154,66,I,"l est debout, de face, en pourpoint rouge a creves, le manteau bleu double de satin blanc, drape poitrine, et passe sous la fraise souple,garnie de point coupe.",555,99.7,False,none,,,,,
+BO0624_83890,122155,67,I,"l a les cheveux bruns,la barbiche et les moustaches legerement rousses.ll s'appuie de la main gauche a la sphere d'or surmontee de la croix de Saint-Georges qui est placee sur une table couverte d'un tapis vert, pres du diademe d'or orne de gemmes et de perles. Derriere lui une draperie vert-bronze est en partie relevee.",557,99.8,False,none,,,,,
+BO0624_83890,122156,68,I,l est represente jusqu'a mi-jambe.,559,98.5,False,none,,,,,
+BO0624_83890,122157,69,61,"Portrait d'un jeune Prince. l est vu jusqu'a mi-corps,presque de face, en armure.portant lecharpe rouge du commandement. Le visage rose et plein s'encadre de ses cheveux longs ct ondules, chatain fonce; a la place du gorgerin, il porte un col de batiste blanche empese,rabattu sur un hausse-col noir. Les yeux sont grands ct noirs; les levres rouges et sensuelles, le menton fin et delicat.",565,96.5,False,none,LE PRINCE,,,,
 BO0624_83890,122158,70,62,-Portrait d'homme.,574,91.4,False,positional,,ECOLE ANGLAISE,,,
-BO0624_83890,122159,71,63,", - Jeune Fille a lécharpe. 1849",582,84.6,False,positional,,ECOLE ANGLAISE,,,Sec. XIX
+BO0624_83890,122159,71,63,", - Jeune Fille a lécharpe. 1849",582,84.6,False,none,,,,,Sec. XIX
 BO0624_83890,122160,72,64,Etude. 1849,594,55.6,False,positional,ETTY (WILLIAM),,,,Sec. XIX
 BO0624_83890,122161,73,65,Apres le Bain,603,89.7,False,positional,ETTY (WILLIAM),,,,
-BO0624_83890,122162,74,66,—Le Miroir de la Nymphe. 1788,611,84.6,False,positional,ETTY (WILLIAM),,SPECCHI,,Sec. XVIII
+BO0624_83890,122162,74,66,—Le Miroir de la Nymphe. 1788,611,84.6,False,none,,,SPECCHI,,Sec. XVIII
 BO0624_83890,122163,75,67,Portrait du Prince de Galles.,619,94.9,False,positional,GAINSBOROUGH (THOMAS),,,,
-BO0624_83890,122164,76,68,Portrait d'Homme. 1788,625,80.0,False,positional,GAINSBOROUGH (THOMAS),,,,Sec. XVIII
+BO0624_83890,122164,76,68,Portrait d'Homme. 1788,625,80.0,False,none,,,,,Sec. XVIII
 BO0624_83890,122165,77,69,"Portrait d'une Princesse Royale, 1788",636,88.6,False,positional,GAINSBOROUGH (THOMAS),,,,Sec. XVIII
 BO0624_83890,122166,78,70,Portrait de Miss Boone. 1788,645,84.6,False,positional,GAINSBOROUGH (THOMAS),,,,Sec. XVIII
 BO0624_83890,122167,79,71,Portrait de jeune Femme.,662,93.9,False,positional,GAINSBOROUGH(THOMAS),,,,
-BO0624_83890,122168,80,72,—Portrait de Miss Edgar. 1788,670,84.6,False,positional,GAINSBOROUGH(THOMAS),,,,Sec. XVIII
+BO0624_83890,122168,80,72,—Portrait de Miss Edgar. 1788,670,84.6,False,none,,,,,Sec. XVIII
 BO0624_83890,122169,81,73,La Fillette au Chien,683,93.0,False,positional,GAINSBOROUGH(THOMAS),,,,
-BO0624_83890,122170,82,74,La Hutte dans la Foret.,689,93.6,False,positional,GAINSBOROUGH(THOMAS),,,,
-BO0624_83890,122171,83,75,Le Moulin.,693,85.7,False,positional,GAINSBOROUGH(THOMAS),,,,
+BO0624_83890,122170,82,74,La Hutte dans la Foret.,689,93.6,False,none,,,,,
+BO0624_83890,122171,83,75,Le Moulin.,693,85.7,False,none,,,,,
 BO0624_83890,122172,84,76,Portrait de Miss Edgar. 1872,705,84.6,False,positional,GAINSBOROUGH (THOMAS),,,,Sec. XIX
 BO0624_83890,122173,85,77,Le Repos des Contrebandiers.,714,94.7,False,positional,GOOD (THOMAS SWORD),,,,
-BO0624_83890,122174,86,78,La Chanson.,720,87.0,False,positional,GOOD (THOMAS SWORD),,,,
-BO0624_83890,122175,87,79,La Lecon de Musique. 1819,728,82.6,False,positional,GOOD (THOMAS SWORD),,,,Sec. XIX
+BO0624_83890,122174,86,78,La Chanson.,720,87.0,False,none,,,,,
+BO0624_83890,122175,87,79,La Lecon de Musique. 1819,728,82.6,False,none,,,,,Sec. XIX
 BO0624_83890,122176,88,80,La Musicienne (Portrait de la Comtesse d'Essex).,737,96.8,False,positional,HARLOW (GEORGE HENRY),,,,
-BO0624_83890,122177,89,8,l.- Portrait de jeune Femme en robe blanche.,745,98.8,False,positional,HARLOW (GEORGE HENRY),,,,
-BO0624_83890,122178,90,82,Portrait de jeune Femme en robe noire. 1819,753,90.2,False,positional,HARLOW (GEORGE HENRY),,,,Sec. XIX
+BO0624_83890,122177,89,8,l.- Portrait de jeune Femme en robe blanche.,745,98.8,False,none,,,,,
+BO0624_83890,122178,90,82,Portrait de jeune Femme en robe noire. 1819,753,90.2,False,none,,,,,Sec. XIX
 BO0624_83890,122179,91,83,Buste de Femme. 1810,764,77.8,False,positional,HARLOW (GEORGE HENRY),,,,Sec. XIX
 BO0624_83890,122180,92,84,Portrait presume de Mrs. Fitz Herbert. 1810,778,90.0,False,positional,HOPPNER JOHN),,,,Sec. XIX
 BO0624_83890,122181,93,85,Portrait de Mrs.Home. 1810,787,83.3,False,positional,HOPPNER JOHN),,,,Sec. XIX
 BO0624_83890,122182,94,86,Portrait de Miss Raine. 1810,802,84.6,False,positional,HOPPNER JOHN),,,,Sec. XIX
 BO0624_83890,122183,95,87,## 一 Portrait de jeune Femme.,819,100.0,False,positional,HOPPNER JOHN),,,,
-BO0624_83890,122184,96,88,Portrait de Mrs. Jordan. 1810,825,84.6,False,positional,HOPPNER JOHN),,,,Sec. XIX
+BO0624_83890,122184,96,88,Portrait de Mrs. Jordan. 1810,825,84.6,False,none,,,,,Sec. XIX
 BO0624_83890,122185,97,89,Jeune Femme en noir.,842,92.7,False,positional,HOPPNER (JOHN),,,,
-BO0624_83890,122186,98,90,Portrait de Mrs.Arbuthnot.,850,94.3,False,positional,HOPPNER (JOHN),,,,
-BO0624_83890,122187,99,91,Portrait d'Homme.,858,91.4,False,positional,HOPPNER (JOHN),,,,
-BO0624_83890,122188,100,I,"l est vu jusqu'a micorps,de profl a droite. Son visage est replet,son teint vif; son crane,denude, est entoure d'une couronne de cheveux grisonnants, qui se continuent le long de loreille en un court favoris. ll est vetu d'une redingote gros bleu boutonnee, qui laisse apparaitre,entrc les revers,la cravate et le col blancs.La figure se detache sur un fond gris.A gauche,un rideau rouge est releve.",860,99.9,False,positional,HOPPNER (JOHN),,,,
+BO0624_83890,122186,98,90,Portrait de Mrs.Arbuthnot.,850,94.3,False,none,,,,,
+BO0624_83890,122187,99,91,Portrait d'Homme.,858,91.4,False,none,,,,,
+BO0624_83890,122188,100,I,"l est vu jusqu'a micorps,de profl a droite. Son visage est replet,son teint vif; son crane,denude, est entoure d'une couronne de cheveux grisonnants, qui se continuent le long de loreille en un court favoris. ll est vetu d'une redingote gros bleu boutonnee, qui laisse apparaitre,entrc les revers,la cravate et le col blancs.La figure se detache sur un fond gris.A gauche,un rideau rouge est releve.",860,99.9,False,none,DEBUCOURT P.L.,,,,
 BO0624_83890,122189,101,1648,1725,865,61.5,False,positional,KNELLER(SIR GODFREY),,,,Sec. XVIII
-BO0624_83890,122190,102,92,Portrait d'une jeune Femme en Toilette bleue.,867,96.7,False,positional,KNELLER(SIR GODFREY),,OGGETTI VARI,,
-BO0624_83890,122191,103,93,"Portrait de Mr. Whitley, fils du Colonel Roger Whitley.",877,97.2,False,positional,KNELLER(SIR GODFREY),,,,
-BO0624_83890,122192,104,I,"l est debout, de trois quarts a droite,en costume de marechal de camp,la main gauche portee en avant et posee sur son baton de commandement; la main droite renversee, appuyee contre la cuisse. Il porte I'habit jaune aux manches brodees, a revers garnis de velours vert et de dentelle blanche, une ceinture rouge est un pretexte a un flot deruban qui se chiffonne a la taille.",879,99.9,False,positional,KNELLER(SIR GODFREY),,,,
+BO0624_83890,122190,102,92,Portrait d'une jeune Femme en Toilette bleue.,867,96.7,False,none,,,OGGETTI VARI,,
+BO0624_83890,122191,103,93,"Portrait de Mr. Whitley, fils du Colonel Roger Whitley.",877,97.2,False,none,,,,,
+BO0624_83890,122192,104,I,"l est debout, de trois quarts a droite,en costume de marechal de camp,la main gauche portee en avant et posee sur son baton de commandement; la main droite renversee, appuyee contre la cuisse. Il porte I'habit jaune aux manches brodees, a revers garnis de velours vert et de dentelle blanche, une ceinture rouge est un pretexte a un flot deruban qui se chiffonne a la taille.",879,99.9,False,none,,,,,
 BO0624_83890,122193,105,1648,1725,888,61.5,False,positional,KNELLER (SIR GODFREY),,,,Sec. XVIII
-BO0624_83890,122194,106,94,## I Portrait d'un jeune Prince.,892,100.0,False,positional,KNELLER (SIR GODFREY),,,,
-BO0624_83890,122195,107,I,"l est vu en pied, de face, sur une terrasse, appuye contre une urne de picrre, decoree d'un basreliet representant livresse de Silene,urne placee sous une fontaine en forme de dauphin,qui verse son eau dans une coquille de marbre blanc.",894,99.8,False,positional,KNELLER (SIR GODFREY),,,,
-BO0624_83890,122196,108,I,"l est vetu d'un surcot de velours bleu,a taillades blanches,et a demi drape d'un manteau de longs cheveux blonds. Il est chausse de cothurnes, ajoutes, sur des bas de soie blanche.",896,99.7,False,positional,KNELLER (SIR GODFREY),,,,
-BO0624_83890,122197,109,95,Portrait de jeune Femme. 1850,900,85.2,False,positional,KNELLER (SIR GODFREY),,,,Sec. XIX
+BO0624_83890,122194,106,94,## I Portrait d'un jeune Prince.,892,100.0,False,none,,,,,
+BO0624_83890,122195,107,I,"l est vu en pied, de face, sur une terrasse, appuye contre une urne de picrre, decoree d'un basreliet representant livresse de Silene,urne placee sous une fontaine en forme de dauphin,qui verse son eau dans une coquille de marbre blanc.",894,99.8,False,none,,,,,
+BO0624_83890,122196,108,I,"l est vetu d'un surcot de velours bleu,a taillades blanches,et a demi drape d'un manteau de longs cheveux blonds. Il est chausse de cothurnes, ajoutes, sur des bas de soie blanche.",896,99.7,False,none,,,,,
+BO0624_83890,122197,109,95,Portrait de jeune Femme. 1850,900,85.2,False,none,,,,,Sec. XIX
 BO0624_83890,122198,110,96,Portrait de Mrs. Tyrell 1850,914,84.6,False,positional,LAWRENCE (SIR THOMAS),,,,Sec. XIX
 BO0624_83890,122199,111,97,Portraits de Charles Binny et de ses deux Filles.,927,97.0,False,positional,LAWRENCE (SIR THOMAS),,,,
-BO0624_83890,122200,112,I,"ls se sont installes a l'entree d'une terrasse, d'ou lon apercoit a droite, un parc, puis une colline lointaine.",929,99.5,False,positional,LAWRENCE (SIR THOMAS),,,,
+BO0624_83890,122200,112,I,"ls se sont installes a l'entree d'une terrasse, d'ou lon apercoit a droite, un parc, puis une colline lointaine.",929,99.5,False,none,,,,,
 BO0624_83890,122201,113,1769,1850,944,61.5,False,positional,LAWRENCE (SIR THOMAS),Scuola di Monaco,,,Sec. XIX
-BO0624_83890,122202,114,98,Portrait de Miss Brummel.,946,94.1,False,positional,LAWRENCE (SIR THOMAS),,,,
-BO0624_83890,122203,115,99,Portrait de Caroline Fry.,956,94.1,False,positional,LAWRENCE (SIR THOMAS),,,,
-BO0624_83890,122204,116,100,Portrait de Miss Crocker.,968,92.3,False,positional,LAWRENCE (SIR THOMAS),,,,
+BO0624_83890,122202,114,98,Portrait de Miss Brummel.,946,94.1,False,none,,,,,
+BO0624_83890,122203,115,99,Portrait de Caroline Fry.,956,94.1,False,none,,,,,
+BO0624_83890,122204,116,100,Portrait de Miss Crocker.,968,92.3,False,none,,,,,
 BO0624_83890,122205,117,1769,1850,979,61.5,False,positional,LAWRENCE (SIR THOMAS),Scuola di Monaco,,,Sec. XIX
-BO0624_83890,122206,118,10,l.-Portrait de la Comtesse de Darnley.,981,97.3,False,positional,LAWRENCE (SIR THOMAS),,,,
-BO0624_83890,122207,119,102,Buste de jeune Femme.,993,90.9,False,positional,LAWRENCE (SIR THOMAS),,,,
-BO0624_83890,122208,120,103,Portrait de jeune Garcon. 1850,999,84.2,False,positional,LAWRENCE (SIR THOMAS),,,,Sec. XIX
+BO0624_83890,122206,118,10,l.-Portrait de la Comtesse de Darnley.,981,97.3,False,none,,,,,
+BO0624_83890,122207,119,102,Buste de jeune Femme.,993,90.9,False,none,,,,,
+BO0624_83890,122208,120,103,Portrait de jeune Garcon. 1850,999,84.2,False,none,,,,,Sec. XIX
 BO0624_83890,122209,121,104,Portrait de jeune Femme.,1012,92.0,False,positional,LAWRENCE (SIR THOMAS),,,,
-BO0624_83890,122210,122,105,Buste de jeune Femme. 1879,1018,81.6,False,positional,LAWRENCE (SIR THOMAS),,,,Sec. XIX
+BO0624_83890,122210,122,105,Buste de jeune Femme. 1879,1018,81.6,False,none,,,,,Sec. XIX
 BO0624_83890,122211,123,106,Paysage. 1680,1032,60.9,False,positional,LEE (FREDERICK RICHARD),,,,Sec. XVII
 BO0624_83890,122212,124,107,Portrait de Femme.,1047,89.5,False,positional,LELY (SIR PETER),,,,
-BO0624_83890,122213,125,108,Portrait d'une Princesse d'Orange.,1057,94.3,False,positional,LELY (SIR PETER),,,,
-BO0624_83890,122214,126,11,o.-Les Bucherons.,1068,93.8,False,positional,LELY (SIR PETER),,,,
+BO0624_83890,122213,125,108,Portrait d'une Princesse d'Orange.,1057,94.3,False,none,,,,,
+BO0624_83890,122214,126,11,o.-Les Bucherons.,1068,93.8,False,none,,,,,
 BO0624_83890,122215,127,1763,1804,1080,61.5,False,positional,MORLAND (GEORGE),,,,Sec. XIX
-BO0624_83890,122216,128,109,-Les Patineurs.,1082,86.7,False,positional,MORLAND (GEORGE),,,,
-BO0624_83890,122217,129,111,Jeune Fille au bord de l'Eau. 1804,1092,86.2,False,positional,MORLAND (GEORGE),,,,Sec. XIX
+BO0624_83890,122216,128,109,-Les Patineurs.,1082,86.7,False,none,,,,,
+BO0624_83890,122217,129,111,Jeune Fille au bord de l'Eau. 1804,1092,86.2,False,none,,,,,Sec. XIX
 BO0624_83890,122218,130,112,Le Repos du Bucheron.,1099,90.9,False,positional,MORLAND (GEORGE),,,,
-BO0624_83890,122219,131,113,Paysage et Chaumiere.,1109,90.9,False,positional,MORLAND (GEORGE),,,,
-BO0624_83890,122220,132,114,Bucherons.—Hiver.,1115,88.2,False,positional,MORLAND (GEORGE),,,,
-BO0624_83890,122221,133,115,Bucherons.,1122,81.8,False,positional,MORLAND (GEORGE),,,,
+BO0624_83890,122219,131,113,Paysage et Chaumiere.,1109,90.9,False,none,,,,,
+BO0624_83890,122220,132,114,Bucherons.—Hiver.,1115,88.2,False,none,,,,,
+BO0624_83890,122221,133,115,Bucherons.,1122,81.8,False,none,,,,,
 BO0624_83890,122222,134,1765,1804,1130,61.5,False,positional,MORLAND (GEORGE),,,,Sec. XIX
-BO0624_83890,122223,135,117,"Faisan et Chien, 1807",1134,76.9,False,positional,MORLAND (GEORGE),,,,Sec. XIX
+BO0624_83890,122223,135,117,"Faisan et Chien, 1807",1134,76.9,False,none,,,,,Sec. XIX
 BO0624_83890,122224,136,118,Jeune Fille.,1144,84.6,False,positional,OPIE (JOHN),,,,
-BO0624_83890,122225,137,116,Vue de la Baie de Freshwater.Isle de Wight.,1156,95.5,False,positional,OPIE (JOHN),,,,
-BO0624_83890,122226,138,122,Portrait d'Homme age.,1165,90.9,False,positional,OPIE (JOHN),,,,
+BO0624_83890,122225,137,116,Vue de la Baie de Freshwater.Isle de Wight.,1156,95.5,False,none,,,,,
+BO0624_83890,122226,138,122,Portrait d'Homme age.,1165,90.9,False,none,,,,,
 BO0624_83890,122227,139,119,Vaches au Bord des Etangs. 1825,1173,84.7,False,positional,PRIEST (THOMAS),,,,Sec. XIX
 BO0624_83890,122228,140,120,"Portrait du Major Hope. l est vu deface,jusqua micorps,en habit marron,gilet jaune,a boutons d'or,chemise de batiste blanche brodee,marquee d'un large bouton d'or a chaton de pierres, le col enserre dans une cravate blanche.Les yeux sont bleus,les traits accuses,les pommettes roses, les cheveux blancs coupes courts sur les tempes et coiffes en toupet sur le crane.",1185,96.9,False,positional,RAEBURN (SIR HENRY),,,,
-BO0624_83890,122229,141,121,"Portrait de George IV, d'Angleterre.",1191,94.4,False,positional,RAEBURN (SIR HENRY),,,,
-BO0624_83890,122230,142,I,"l est vetu d'un habit noir,boutonne,qui laisse voir, dans lecartement des revers,une cravate blanche a mince broderie d'or. Les pointes du col empese font saillie autour du menton.",1195,99.7,False,positional,RAEBURN (SIR HENRY),,,,
+BO0624_83890,122229,141,121,"Portrait de George IV, d'Angleterre.",1191,94.4,False,none,,,,,
+BO0624_83890,122230,142,I,"l est vetu d'un habit noir,boutonne,qui laisse voir, dans lecartement des revers,une cravate blanche a mince broderie d'or. Les pointes du col empese font saillie autour du menton.",1195,99.7,False,none,,,,,
 BO0624_83890,122231,143,1756,1825,1204,61.5,False,positional,RAEBURN (SIR HENRY),,,,Sec. XIX
-BO0624_83890,122232,144,123,-Portrait du Colonel Ramsay et de sa Femme.,1206,95.3,False,positional,RAEBURN (SIR HENRY),,,,
-BO0624_83890,122233,145,I,"ls sont tous deux dans un parc, a lombre de grands arbres,et vus jusqu'a mi-jambes. Au premier plan, a gauche,la jeune femme cst assise sur un fauteuil, de profil a droite,la tete tournee de trois quarts. Son visage est mince et avenant; son teint est frais sous le jeu des meches folles de ses cheveux chatain cendre qui s'echappent de son serre-tete blanc, sur le front, et tombent cn tresses bouclees derriere la tete.Elle est vetue d'un costume blanc,au corsage ouvert en pointe, sur lequel elle a jete une echarpe blanche egalement ct garnie d'une ruche.De sa main droite, elle tient ses gants jaune de Suede. Elle porte une boucle d'oreille ornee d'une perle en poire, un rang de perles autour du cou,et,au poignet droit,un bracelet en cheveux a fermoir dor.",1208,99.9,False,positional,RAEBURN (SIR HENRY),,SCOMPARTI,,
+BO0624_83890,122232,144,123,-Portrait du Colonel Ramsay et de sa Femme.,1206,95.3,False,none,,,,,
+BO0624_83890,122233,145,I,"ls sont tous deux dans un parc, a lombre de grands arbres,et vus jusqu'a mi-jambes. Au premier plan, a gauche,la jeune femme cst assise sur un fauteuil, de profil a droite,la tete tournee de trois quarts. Son visage est mince et avenant; son teint est frais sous le jeu des meches folles de ses cheveux chatain cendre qui s'echappent de son serre-tete blanc, sur le front, et tombent cn tresses bouclees derriere la tete.Elle est vetue d'un costume blanc,au corsage ouvert en pointe, sur lequel elle a jete une echarpe blanche egalement ct garnie d'une ruche.De sa main droite, elle tient ses gants jaune de Suede. Elle porte une boucle d'oreille ornee d'une perle en poire, un rang de perles autour du cou,et,au poignet droit,un bracelet en cheveux a fermoir dor.",1208,99.9,False,none,,,SCOMPARTI,,
 BO0624_83890,122234,146,1756,1823,1219,61.5,False,positional,RAEBURN (SIR HENRY),,,,Sec. XIX
-BO0624_83890,122235,147,124,"一 Portrait de Mrs. Pattison, nee Margaret Moncrieff, femme de John Pattison, de Helsingrove, Glasgow. 1825",1221,95.5,False,positional,RAEBURN (SIR HENRY),,,,Sec. XIX
+BO0624_83890,122235,147,124,"一 Portrait de Mrs. Pattison, nee Margaret Moncrieff, femme de John Pattison, de Helsingrove, Glasgow. 1825",1221,95.5,False,none,,,,,Sec. XIX
 BO0624_83890,122236,148,125,"Portrait de Mrs. James Monteith, nee Miss Margaret Thomson, de Camphill. 1825",1234,93.8,False,positional,RAEBURN (SIR HENRY),,,,Sec. XIX
 BO0624_83890,122237,149,126,Portrait de John Murray et de son Frere. 1825,1251,89.7,False,positional,RAEBURN (SIR HENRY),,,,Sec. XIX
 BO0624_83890,122238,150,127,Portrait de Lady Ramsey.,1264,92.0,False,positional,RAEBURN (SIR HENRY),,,,
-BO0624_83890,122239,151,128,Portrait de jeune Femme. 1792,1270,83.6,False,positional,RAEBURN (SIR HENRY),,,,Sec. XVIII
+BO0624_83890,122239,151,128,Portrait de jeune Femme. 1792,1270,83.6,False,none,,,,,Sec. XVIII
 BO0624_83890,122240,152,129,Portrait de Mrs. Schindlerin. 1792,1287,85.7,False,positional,REYNOLDS (SIR JOSHUA),,,,Sec. XVIII
 BO0624_83890,122241,153,130,"— Portrait de lord Mulgrave, enfant. 1792",1300,87.7,False,positional,REYNOLDS (SIR JOSHUA),,,,Sec. XVIII
 BO0624_83890,122242,154,131,Resignation.,1315,84.6,False,positional,REYNOLDS(SIR JOSHUA),,,,
-BO0624_83890,122243,155,I,l est vetu d’une robe d'interieur verte garnie de fourrure.,1321,99.1,False,positional,REYNOLDS(SIR JOSHUA),,ARREDAMENTI,,
+BO0624_83890,122243,155,I,l est vetu d’une robe d'interieur verte garnie de fourrure.,1321,99.1,False,none,,,ARREDAMENTI,,
 BO0624_83890,122244,156,1725,1792,1332,61.5,False,positional,REYNOLDS (SIR JOSHUA),,,,Sec. XVIII
-BO0624_83890,122245,157,132,"- Portrait de Francis, dixieme comte de Huntingdon.",1334,95.9,False,positional,REYNOLDS (SIR JOSHUA),,,,
-BO0624_83890,122246,158,I,"l est represente debout, la tete regardant le spectateur, de trois quarts a droite. Son visage est mince sous des cheveux poudres. ll est vetu d'un habit bleu de ciel,a passementeries noire et or et a revers de large fourrure. Son gilet est de drap d'or; il porte sur sa cravate a barbe de dentelle, un large ruban noir, et tient de la main droite,contre la cuisse, son tricorne a plume blanche.De la main gauche, il s'appuie a la hanche, le bras ploye.",1336,99.9,False,positional,REYNOLDS (SIR JOSHUA),,,,
+BO0624_83890,122245,157,132,"- Portrait de Francis, dixieme comte de Huntingdon.",1334,95.9,False,none,,,,,
+BO0624_83890,122246,158,I,"l est represente debout, la tete regardant le spectateur, de trois quarts a droite. Son visage est mince sous des cheveux poudres. ll est vetu d'un habit bleu de ciel,a passementeries noire et or et a revers de large fourrure. Son gilet est de drap d'or; il porte sur sa cravate a barbe de dentelle, un large ruban noir, et tient de la main droite,contre la cuisse, son tricorne a plume blanche.De la main gauche, il s'appuie a la hanche, le bras ploye.",1336,99.9,False,none,,,,,
 BO0624_83890,122247,159,1725,1792,1345,61.5,False,positional,REYNOLDS(SIR JOSHUA),,,,Sec. XVIII
-BO0624_83890,122248,160,133,Portrait d'Homme.,1347,88.9,False,positional,REYNOLDS(SIR JOSHUA),,,,
-BO0624_83890,122249,161,I,"l cst represente debout, a mi-jambes, de face, la tete tournee de trois quarts a droite. Il est coiffe d'une perruque poudree a marteaux. Son teint est rubicond,ses traits accentues; il semble pincer legerement les levres,et soulever les muscles de la voute sourciliere; il est serieux,mais dans ses yeux, dans sa bouche, dans le pli de ses joues pres du nez,il y a comme un sourire intelligent et affable.",1349,99.9,False,positional,REYNOLDS(SIR JOSHUA),,,,
-BO0624_83890,122250,162,I,"l s'appuie du bras droit ploye au dossier d'un fauteuil tendu de velours de Genes rouge, et de la main gauche,le bras pendant naturellement,il porte,par le fourreau blanc son epee,dont la poignee apparait dans Iombre, derriere la manche.",1353,99.8,False,positional,REYNOLDS(SIR JOSHUA),,SCOMPARTI,,
+BO0624_83890,122248,160,133,Portrait d'Homme.,1347,88.9,False,none,,,,,
+BO0624_83890,122249,161,I,"l cst represente debout, a mi-jambes, de face, la tete tournee de trois quarts a droite. Il est coiffe d'une perruque poudree a marteaux. Son teint est rubicond,ses traits accentues; il semble pincer legerement les levres,et soulever les muscles de la voute sourciliere; il est serieux,mais dans ses yeux, dans sa bouche, dans le pli de ses joues pres du nez,il y a comme un sourire intelligent et affable.",1349,99.9,False,none,,,,,
+BO0624_83890,122250,162,I,"l s'appuie du bras droit ploye au dossier d'un fauteuil tendu de velours de Genes rouge, et de la main gauche,le bras pendant naturellement,il porte,par le fourreau blanc son epee,dont la poignee apparait dans Iombre, derriere la manche.",1353,99.8,False,none,,,SCOMPARTI,,
 BO0624_83890,122251,163,1725,1792,1360,61.5,False,positional,REYNOLDS (SIR JOSHUA),,,,Sec. XVIII
-BO0624_83890,122252,164,134,Portrait de Lady Sondes.,1362,92.0,False,positional,REYNOLDS (SIR JOSHUA),,,,
-BO0624_83890,122253,165,135,"Portrait de Sedgwick,Avoue et Rapporteur de la Commission du Commerce.",1374,97.2,False,positional,REYNOLDS (SIR JOSHUA),,,,
-BO0624_83890,122254,166,I,"l est represente a mi-corps, de trois quarts a droite,le bras pendant le long du corps; figurc quelque peu marquee par les annees, sous les cheveux poudres,coiffes a cadenette.",1376,99.7,False,positional,REYNOLDS (SIR JOSHUA),,,,
-BO0624_83890,122255,167,I,l est vetu d’un habit et d’un gilet gris a passementerie d'or.,1378,99.2,False,positional,REYNOLDS (SIR JOSHUA),,,,
+BO0624_83890,122252,164,134,Portrait de Lady Sondes.,1362,92.0,False,none,,,,,
+BO0624_83890,122253,165,135,"Portrait de Sedgwick,Avoue et Rapporteur de la Commission du Commerce.",1374,97.2,False,none,,,,,
+BO0624_83890,122254,166,I,"l est represente a mi-corps, de trois quarts a droite,le bras pendant le long du corps; figurc quelque peu marquee par les annees, sous les cheveux poudres,coiffes a cadenette.",1376,99.7,False,none,,,,,
+BO0624_83890,122255,167,I,l est vetu d’un habit et d’un gilet gris a passementerie d'or.,1378,99.2,False,none,,,,,
 BO0624_83890,122256,168,1725,1792,1391,61.5,False,positional,REYNOLDS (SIR JOSHUA),,,,Sec. XVIII
-BO0624_83890,122257,169,136,"Portrait de Mary Wharton, plus tard Mrs. Garland.",1393,95.8,False,positional,REYNOLDS (SIR JOSHUA),,,,
-BO0624_83890,122258,170,137,Portrait d'une jeune Femme avec un Manchon. 1792,1405,90.3,False,positional,REYNOLDS (SIR JOSHUA),,,,Sec. XVIII
+BO0624_83890,122257,169,136,"Portrait de Mary Wharton, plus tard Mrs. Garland.",1393,95.8,False,none,,,,,
+BO0624_83890,122258,170,137,Portrait d'une jeune Femme avec un Manchon. 1792,1405,90.3,False,none,,,,,Sec. XVIII
 BO0624_83890,122259,171,138,Portrait de Lady Courtenay.,1418,92.9,False,positional,REYNOLDS (SIR JOSHUA),,,,
-BO0624_83890,122260,172,139,"Lady Mary Isabelle Somerset, enfant. 1792",1426,88.3,False,positional,REYNOLDS (SIR JOSHUA),,,,Sec. XVIII
+BO0624_83890,122260,172,139,"Lady Mary Isabelle Somerset, enfant. 1792",1426,88.3,False,none,,,,,Sec. XVIII
 BO0624_83890,122261,173,140,"Portrait de Jean Marquis de Granby. l parle et souligne du geste de la main droite,lindex et le pouce portes en avant,ce qu'il est en train de dire.",1449,86.0,False,positional,REYNOLDS (SIR JOSHUA),,OGGETTI VARI,,
-BO0624_83890,122262,174,141,Portrait du General Stringer Lawrence.,1463,94.9,False,positional,REYNOLDS (SIR JOSHUA),,,,
-BO0624_83890,122263,175,I,"l est vu de face,a mi-corps,en habit bleu et gilet rouge a passementerie d'or,une cravate blanche retombant en barbe de dentelle sur legilet.",1465,99.6,False,positional,REYNOLDS (SIR JOSHUA),,,,
+BO0624_83890,122262,174,141,Portrait du General Stringer Lawrence.,1463,94.9,False,none,LAVREINCE NICOLAS,,,,
+BO0624_83890,122263,175,I,"l est vu de face,a mi-corps,en habit bleu et gilet rouge a passementerie d'or,une cravate blanche retombant en barbe de dentelle sur legilet.",1465,99.6,False,none,,,,,
 BO0624_83890,122264,176,1725,1792,1472,61.5,False,positional,REYNOLDS (SIR JOSHUA),,,,Sec. XVIII
-BO0624_83890,122265,177,142,L'Amour et Venus.,1474,88.9,False,positional,REYNOLDS (SIR JOSHUA),,,,
-BO0624_83890,122266,178,143,Jeunesse d'Hercule (Grisaille),1480,93.3,False,positional,REYNOLDS (SIR JOSHUA),,,,
-BO0624_83890,122267,179,144,Lady Mary Leslie (Esquisse). 1802,1490,84.7,False,positional,REYNOLDS (SIR JOSHUA),,,,Sec. XIX
+BO0624_83890,122265,177,142,L'Amour et Venus.,1474,88.9,False,none,,,,,
+BO0624_83890,122266,178,143,Jeunesse d'Hercule (Grisaille),1480,93.3,False,none,,,,,
+BO0624_83890,122267,179,144,Lady Mary Leslie (Esquisse). 1802,1490,84.7,False,none,,,,,Sec. XIX
 BO0624_83890,122268,180,145,Portrait de Miss Elisabeth Tighe. 1802,1501,87.7,False,positional,ROMNEY(GEORGE),,,,Sec. XIX
 BO0624_83890,122269,181,146,Lady Hamilton en Ariane. 1802,1516,83.6,False,positional,ROMNEY (GEORGE),,,,Sec. XIX
 BO0624_83890,122270,182,147,Portrait de Miss Gore.,1533,91.3,False,positional,ROMNEY(GEORGE),,,,
-BO0624_83890,122271,183,148,La Veuve.,1544,80.0,False,positional,ROMNEY(GEORGE),,,,
+BO0624_83890,122271,183,148,La Veuve.,1544,80.0,False,none,,,,,
 BO0624_83890,122272,184,1754,1802,1554,61.5,False,positional,ROMNEY (GEORGE),,,,Sec. XIX
 BO0624_83890,122273,185,1734,1802,1557,61.5,False,positional,ROMNEY (GEORGE),,,,Sec. XIX
-BO0624_83890,122274,186,149,Portrait de lady Waldegrave.,1559,93.1,False,positional,ROMNEY (GEORGE),,,,
-BO0624_83890,122275,187,150,"Portrait de la marquise de Hertford,enfant. 1802",1567,90.3,False,positional,ROMNEY (GEORGE),,,,Sec. XIX
+BO0624_83890,122274,186,149,Portrait de lady Waldegrave.,1559,93.1,False,none,,,,,
+BO0624_83890,122275,187,150,"Portrait de la marquise de Hertford,enfant. 1802",1567,90.3,False,none,,,,,Sec. XIX
 BO0624_83890,122276,188,151,"Portrait de John Dawes. l tient un papier de la main gauche, le bras ploye appuye sur un coin de table, ou se trouvent des livres et un encrier;il insere,dans sa poche,sa main droite.",1590,93.5,False,positional,ROMNEY (GEORGE),,,,
-BO0624_83890,122277,189,152,La jeune Fille aux Fleurs. 1802,1596,84.7,False,positional,ROMNEY (GEORGE),,,,Sec. XIX
+BO0624_83890,122277,189,152,La jeune Fille aux Fleurs. 1802,1596,84.7,False,none,,,,,Sec. XIX
 BO0624_83890,122278,190,153,Daphnis et Chloe.,1609,88.9,False,positional,ROMNEY (GEORGE),,,,
-BO0624_83890,122279,191,154,Jeune Fille lisant.,1617,90.0,False,positional,ROMNEY (GEORGE),,,,
-BO0624_83890,122280,192,155,Portrait du Frere de IArtiste.(Effet de Lumiere.) 1802,1623,91.1,False,positional,ROMNEY (GEORGE),,,,Sec. XIX
+BO0624_83890,122279,191,154,Jeune Fille lisant.,1617,90.0,False,none,,,,,
+BO0624_83890,122280,192,155,Portrait du Frere de IArtiste.(Effet de Lumiere.) 1802,1623,91.1,False,none,,,,,Sec. XIX
 BO0624_83890,122281,193,156,Amour et Psyche. 1806,1634,76.9,False,positional,ROMNEY (GEORGE),,,,Sec. XIX
 BO0624_83890,122282,194,157,- Portrait de Miss Gollighby.,1649,92.9,False,positional,RUSSELL JOHN),,,,
-BO0624_83890,122283,195,158,"Portrait de Lady Boyd, petite-fille du 3 Comte d'Oxford. 1850",1655,92.3,False,positional,RUSSELL JOHN),,,,Sec. XIX
+BO0624_83890,122283,195,158,"Portrait de Lady Boyd, petite-fille du 3 Comte d'Oxford. 1850",1655,92.3,False,none,,,,,Sec. XIX
 BO0624_83890,122284,196,159,Devant la Ferme. 1859,1672,76.9,False,positional,STANNARD (JOSEPH),,,,Sec. XIX
 BO0624_83890,122285,197,160,A l'Entree de lAllee. 1851,1688,81.6,False,positional,STARK (JAMES),,,,Sec. XIX
 BO0624_83890,122286,198,161,Le Lac de Thun.,1699,87.5,False,positional,TURNER JOSEPH MALLORD WILLIAM),,,,
-BO0624_83890,122287,199,164,Le Bac.,1708,75.0,False,positional,TURNER JOSEPH MALLORD WILLIAM),,,,
+BO0624_83890,122287,199,164,Le Bac.,1708,75.0,False,none,,,,,
 BO0624_83890,122288,200,1796,1851,1718,61.5,False,positional,VINCENT (GEORGE),,,,Sec. XIX
-BO0624_83890,122289,201,162,Le Moulin a Eau.,1720,88.2,False,positional,VINCENT (GEORGE),,,,
+BO0624_83890,122289,201,162,Le Moulin a Eau.,1720,88.2,False,none,,,,,
 BO0624_83890,122290,202,163,"Portrait de Robert Tompson, Major-General de Cromwell.",1732,96.3,False,positional,WALKER(ROBERT),,,,
-BO0624_83890,122291,203,I,"l est vu jusqua micorps,de trois quarts a gauche,en armure.A la place du gorgerin,il porte un col de batiste blanche,rabattu et empese, sur lequel descendent ses longs cheveux bruns.Il a les traits accentues,pleins de caractere, et deja marques par les sillons de I'age mur.",1734,99.8,False,positional,WALKER(ROBERT),,,,
+BO0624_83890,122291,203,I,"l est vu jusqua micorps,de trois quarts a gauche,en armure.A la place du gorgerin,il porte un col de batiste blanche,rabattu et empese, sur lequel descendent ses longs cheveux bruns.Il a les traits accentues,pleins de caractere, et deja marques par les sillons de I'age mur.",1734,99.8,False,none,,,,,
 BO0624_83890,122292,204,1747,1801,1740,61.5,False,positional,WHEATLEY(FRANCIS),,,,Sec. XIX
-BO0624_83890,122293,205,165,La Decouverte. nspire par Lindor et Clara. Chp. I1. Grave par Stannier.,1748,87.4,False,positional,WHEATLEY(FRANCIS),,,,
+BO0624_83890,122293,205,165,La Decouverte. nspire par Lindor et Clara. Chp. I1. Grave par Stannier.,1748,87.4,False,none,,,,,
 BO0624_83890,122294,206,166,"- John Knox prechant devant les Lords de la Congrégation, 10 juin 1559.",1753,97.1,False,positional,WILKIE (SIR DAVID),,,,Sec. XVI
-BO0624_83890,122295,207,167,## Le Repos du Chasseur. 1840,1763,88.9,False,positional,WILKIE (SIR DAVID),,,,Sec. XIX
+BO0624_83890,122295,207,167,## Le Repos du Chasseur. 1840,1763,88.9,False,none,,,,,Sec. XIX
 BO0624_83890,122296,208,168,Portrait de Miss Greatorex. 1766,1776,85.2,False,positional,WYATT (HENRY),,,,Sec. XVIII
 BO0624_83890,122297,209,169,Portrait de M.Roques.,1792,90.9,False,positional,AVED (JACQUES-ANDRE-JOSEPH),,,,
-BO0624_83890,122298,210,I,"l est assis,de trois quarts a gauche, sur un fauteuil,et vu jusqu'a mi-jambe. Son visage est souriant et affable,avec des traits reguliers,des yeux clairs,une fossette profonde au menton,un front vaste,et un teint brun,sous une perruque poudree,petite, a maseaux et a cadenette. Il est vetu d'un habit rouge a revers attaches par des boutons de metal, d'un gilet fleuri a fond blanc passemente d'or,et d'une culotte rouge prise dans des chausses blanches.Il appuie sur sa jambe, avec la main gauche,un carton ferme par un noud de ruban bleu, et tient de la main droite un papier chiffonne, sur lequel on lit une phrase du personnage represente.",1794,99.9,False,positional,AVED (JACQUES-ANDRE-JOSEPH),,OGGETTI IN METALLO,,
-BO0624_83890,122299,211,172,一 Paysage.,1803,81.8,False,positional,AVED (JACQUES-ANDRE-JOSEPH),,,,
+BO0624_83890,122298,210,I,"l est assis,de trois quarts a gauche, sur un fauteuil,et vu jusqu'a mi-jambe. Son visage est souriant et affable,avec des traits reguliers,des yeux clairs,une fossette profonde au menton,un front vaste,et un teint brun,sous une perruque poudree,petite, a maseaux et a cadenette. Il est vetu d'un habit rouge a revers attaches par des boutons de metal, d'un gilet fleuri a fond blanc passemente d'or,et d'une culotte rouge prise dans des chausses blanches.Il appuie sur sa jambe, avec la main gauche,un carton ferme par un noud de ruban bleu, et tient de la main droite un papier chiffonne, sur lequel on lit une phrase du personnage represente.",1794,99.9,False,none,,,OGGETTI IN METALLO,,
+BO0624_83890,122299,211,172,一 Paysage.,1803,81.8,False,none,,,,,
 BO0624_83890,122300,212,1700,1729,1813,61.5,False,positional,BAR (BONAVENTURE DE),,,,Sec. XVIII
-BO0624_83890,122301,213,170,La Noce champetre. 1770,1815,79.1,False,positional,BAR (BONAVENTURE DE),,,,Sec. XVIII
+BO0624_83890,122301,213,170,La Noce champetre. 1770,1815,79.1,False,none,,,,,Sec. XVIII
 BO0624_83890,122302,214,171,Le Moulin a Eau.,1829,88.2,False,positional,BOUCHER (FRANCOIS),,,,
 BO0624_83890,122303,215,1705,1770,1842,61.5,False,positional,BOUCHER(FRANCOIS),,,,Sec. XVIII
-BO0624_83890,122304,216,173,La jolie Pecheuse. 1770,1844,79.1,False,positional,BOUCHER(FRANCOIS),,,,Sec. XVIII
+BO0624_83890,122304,216,173,La jolie Pecheuse. 1770,1844,79.1,False,none,,,,,Sec. XVIII
 BO0624_83890,122305,217,174,Dans la Solitude.,1859,88.9,False,positional,BOUCHER (FRANCOIS),,,,
-BO0624_83890,122306,218,175,La belle Endormie. 1770,1873,79.1,False,positional,BOUCHER (FRANCOIS),,,,Sec. XVIII
+BO0624_83890,122306,218,175,La belle Endormie. 1770,1873,79.1,False,none,,,,,Sec. XVIII
 BO0624_83890,122307,219,176,L'Amour va etre pris.,1888,90.9,False,positional,BOUCHER (FRANCOIS),,,,
-BO0624_83890,122308,220,177,L'Amour est enchaine.,1896,90.9,False,positional,BOUCHER (FRANCOIS),,,,
-BO0624_83890,122309,221,178,Pastorale.,1909,81.8,False,positional,BOUCHER (FRANCOIS),,,,
+BO0624_83890,122308,220,177,L'Amour est enchaine.,1896,90.9,False,none,,,,,
+BO0624_83890,122309,221,178,Pastorale.,1909,81.8,False,none,,,,,
 BO0624_83890,122310,222,1705,1770,1921,61.5,False,positional,BOUCHER (FRANCOIS),,,,Sec. XVIII
 BO0624_83890,122311,223,1705,1770,1924,61.5,False,positional,BOUCHER(FRANCOIS),,,,Sec. XVIII
-BO0624_83890,122312,224,179,Pecheur au bord du Gave.,1926,92.0,False,positional,BOUCHER(FRANCOIS),,,,
-BO0624_83890,122313,225,180,"Bacchante endormie,Faune et Amours.",1934,94.4,False,positional,BOUCHER(FRANCOIS),,,,
+BO0624_83890,122312,224,179,Pecheur au bord du Gave.,1926,92.0,False,none,,,,,
+BO0624_83890,122313,225,180,"Bacchante endormie,Faune et Amours.",1934,94.4,False,none,,,,,
 BO0624_83890,122314,226,181,Le Printemps.,1945,85.7,False,positional,BOUCHER (FRANCOIS),,,,
-BO0624_83890,122315,227,182,L'Eté.,1957,71.4,False,positional,BOUCHER (FRANCOIS),,,,
-BO0624_83890,122316,228,183,L'Automne.,1968,81.8,False,positional,BOUCHER (FRANCOIS),,,,
-BO0624_83890,122317,229,184,L'Hiver.,1976,77.8,False,positional,BOUCHER (FRANCOIS),,,,
-BO0624_83890,122318,230,185,Venus et l'Amour.,1984,88.9,False,positional,BOUCHER (FRANCOIS),,,,
+BO0624_83890,122315,227,182,L'Eté.,1957,71.4,False,none,,,,,
+BO0624_83890,122316,228,183,L'Automne.,1968,81.8,False,none,,,,,
+BO0624_83890,122317,229,184,L'Hiver.,1976,77.8,False,none,,,,,
+BO0624_83890,122318,230,185,Venus et l'Amour.,1984,88.9,False,none,,,,,
 BO0624_83890,122319,231,187,Moise.,1999,71.4,False,positional,BOUCHER (FRANCOIS),,,,
-BO0624_83890,122320,232,I,"l est represente debout, derriere un balcon de pierre,vetu d'une chlamyde de velours vert a broderie dor, attachee sur Iepaule par un joyau. ll tient de la main gauche la baguette, dont il se servira pour commander au nom du Dieu des Juifs,et soutient, de la main droite,les tables de la loi,ou sont inscritsles dix commandements.",2001,99.8,False,positional,BOUCHER (FRANCOIS),,,,
+BO0624_83890,122320,232,I,"l est represente debout, derriere un balcon de pierre,vetu d'une chlamyde de velours vert a broderie dor, attachee sur Iepaule par un joyau. ll tient de la main gauche la baguette, dont il se servira pour commander au nom du Dieu des Juifs,et soutient, de la main droite,les tables de la loi,ou sont inscritsles dix commandements.",2001,99.8,False,none,,,,,
 BO0624_83890,122321,233,1699,1779,2011,61.5,False,positional,CHARDIN (JEAN-BAPTISTE-SIMEON),,,,Sec. XVIII
-BO0624_83890,122322,234,188,- Jeune Garcon faisant un Chateau de Cartes.,2013,95.3,False,positional,CHARDIN (JEAN-BAPTISTE-SIMEON),,,,
+BO0624_83890,122322,234,188,- Jeune Garcon faisant un Chateau de Cartes.,2013,95.3,False,none,,,,,
 BO0624_83890,122323,235,1758,1778,2025,61.5,False,positional,CHALLE (CHARLES-MICHEL-ANGE),,,,Sec. XVIII
-BO0624_83890,122324,236,186,La Comparaison.,2027,87.5,False,positional,CHALLE (CHARLES-MICHEL-ANGE),,,,
+BO0624_83890,122324,236,186,La Comparaison.,2027,87.5,False,none,,,,,
 BO0624_83890,122325,237,1602,1674,2037,61.5,False,positional,CHAMPAIGNE (PHILIPPE DE),,,,Sec. XVII
 BO0624_83890,122326,238,1699,1779,2040,61.5,False,positional,CHARDIN JEAN-BAPTISTE-SIMEON),,,,Sec. XVIII
-BO0624_83890,122327,239,189,"Le Chateau de Cartes. l est vu de profl a droite, en habit marron, protege par un tablier de drap rouge, ses cheveux noirs frises, attaches derriere par un noud de ruban heliotrope et coiffes d'un tricorne noir a boutons de metal et passementerie d'or.",2046,95.3,False,positional,CHARDIN JEAN-BAPTISTE-SIMEON),,OGGETTI IN METALLO,,
-BO0624_83890,122328,240,190,Le Clavecin.,2063,84.6,False,positional,CHARDIN JEAN-BAPTISTE-SIMEON),,,,
-BO0624_83890,122329,241,191,Le Concert. 1745,2071,69.0,False,positional,CHARDIN JEAN-BAPTISTE-SIMEON),,,,Sec. XVIII
+BO0624_83890,122327,239,189,"Le Chateau de Cartes. l est vu de profl a droite, en habit marron, protege par un tablier de drap rouge, ses cheveux noirs frises, attaches derriere par un noud de ruban heliotrope et coiffes d'un tricorne noir a boutons de metal et passementerie d'or.",2046,95.3,False,none,,,OGGETTI IN METALLO,,
+BO0624_83890,122328,240,190,Le Clavecin.,2063,84.6,False,none,,,,,
+BO0624_83890,122329,241,191,Le Concert. 1745,2071,69.0,False,none,,,,,Sec. XVIII
 BO0624_83890,122330,242,192,"Dans loffice, ou une chatte vivait en paix avec ses trois petits, un chien vient apporter la guerre : il s'est elance sur la chatte qu'il tient renversee sous sa lourde patte; mais la chatte se defend des crocs qui la menacent, et lui laboure la tete de ses griffes : elle erase meme sous son poids un de ses petits qui miaule. A droite, derriere la traverse d'un billot charge de victuailles, et a gauche, se faisant un rempart de pieces de gibier posees a terre, deux autres petits chats assistent,inquiets,a la bataille. 1707",2089,99.5,False,positional,DESPORTES (FRANCOIS),,,,Sec. XVIII
 BO0624_83890,122331,243,193,## DROUAIS (FRANCOIS-HUBERT),2102,100.0,False,title_direct,DROUAIS (FRANCOIS-HUBERT),,,,
-BO0624_83890,122332,244,1727,1775,2104,61.5,False,positional,DROUAIS (FRANCOIS-HUBERT),,,,Sec. XVIII
+BO0624_83890,122332,244,1727,1775,2104,61.5,False,none,,,,,Sec. XVIII
 BO0624_83890,122333,245,1725,1802,2116,61.5,False,positional,DUPLESSIS (JOSEPH-SILFREDE),,,,Sec. XIX
-BO0624_83890,122334,246,194,Portrait de Louis Dussieux.,2118,92.9,False,positional,DUPLESSIS (JOSEPH-SILFREDE),,,,
-BO0624_83890,122335,247,I,"l est debout, de face,vu jusqu'a mi-jambes, accoude du bras gauche sur une commode dont le marbre porte un journal et une pendule de bronze dore. ll appuie contre la cuisse sa main droite,le bras allonge.",2120,99.8,False,positional,DUPLESSIS (JOSEPH-SILFREDE),,,,
-BO0624_83890,122336,248,I,"l a une jolie tete au teint vif,sous sa perruque poudree,et une spirituelle expression avec sa bouche fine et sesyeux illumines de malice.",2122,99.6,False,positional,DUPLESSIS (JOSEPH-SILFREDE),,,,
+BO0624_83890,122334,246,194,Portrait de Louis Dussieux.,2118,92.9,False,none,,,,,
+BO0624_83890,122335,247,I,"l est debout, de face,vu jusqu'a mi-jambes, accoude du bras gauche sur une commode dont le marbre porte un journal et une pendule de bronze dore. ll appuie contre la cuisse sa main droite,le bras allonge.",2120,99.8,False,none,,,,,
+BO0624_83890,122336,248,I,"l a une jolie tete au teint vif,sous sa perruque poudree,et une spirituelle expression avec sa bouche fine et sesyeux illumines de malice.",2122,99.6,False,none,,,,,
 BO0624_83890,122337,249,195,Jeux d'Enfants:le Palet,2133,92.0,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83890,122338,250,196,"Jeux dEnfants :la Raquette. ls sont vetus de vestes claires et de culottes,et portent des ceintures faites d'une echarpe.La fillette est en robe rouge sur une jupe bleue.",2147,91.3,False,positional,,ECOLE FRANCAISE,,,
+BO0624_83890,122338,250,196,"Jeux dEnfants :la Raquette. ls sont vetus de vestes claires et de culottes,et portent des ceintures faites d'une echarpe.La fillette est en robe rouge sur une jupe bleue.",2147,91.3,False,none,,,,,
 BO0624_83890,122339,251,197,La jeune Femme au Bonnet blanc.,2154,93.8,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83890,122340,252,198,La jeune Femme a la Guirlande fleurie.,2162,94.9,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83890,122341,253,199,Portrait de Femme.,2172,89.5,False,positional,,ECOLE FRANCAISE,,,
-BO0624_83890,122342,254,200,Portrait de Femme. 1806,2180,79.1,False,positional,,ECOLE FRANCAISE,,,Sec. XIX
+BO0624_83890,122340,252,198,La jeune Femme a la Guirlande fleurie.,2162,94.9,False,none,,,,,
+BO0624_83890,122341,253,199,Portrait de Femme.,2172,89.5,False,none,,,,,
+BO0624_83890,122342,254,200,Portrait de Femme. 1806,2180,79.1,False,none,,,,,Sec. XIX
 BO0624_83890,122343,255,201,LeReveil deVenus. 1806,2191,78.0,False,positional,FRAGONARD (JEAN-HONORE),,,,Sec. XIX
 BO0624_83890,122344,256,202,L'Amour. 1682,2204,60.9,False,positional,FRAGONARD (JEAN-HONORE),,,,Sec. XVII
 BO0624_83890,122345,257,203,《Noli me tangere》 1857,2217,76.9,False,positional,GELEE (CLAUDE),,,,Sec. XIX
@@ -260,64 +260,64 @@ BO0624_83890,122346,258,204,- Portrait de Mme de la Pleigne.,2232,93.5,False,pos
 BO0624_83890,122347,259,205,La Femme au Chale jaune. 1805,2248,83.6,False,positional,GRASSI (JOSEPH),,,,Sec. XIX
 BO0624_83890,122348,260,206,Le Reveil. 1805,2261,66.7,False,positional,GREUZE(JEAN-BAPTISTE),,,,Sec. XIX
 BO0624_83890,122349,261,207,Deception.,2278,81.8,False,positional,GREUZE(JEAN-BAPTISTE),,,,
-BO0624_83890,122350,262,208,Les Bles.,2289,80.0,False,positional,GREUZE(JEAN-BAPTISTE),,,,
-BO0624_83890,122351,263,209,Les Foins.,2301,81.8,False,positional,GREUZE(JEAN-BAPTISTE),,,,
+BO0624_83890,122350,262,208,Les Bles.,2289,80.0,False,none,,,,,
+BO0624_83890,122351,263,209,Les Foins.,2301,81.8,False,none,,,,,
 BO0624_83890,122352,264,1725,1805,2317,61.5,False,positional,GREUZE (JEAN-BAPTISTE),,,,Sec. XIX
 BO0624_83890,122353,265,1725,1805,2324,61.5,False,positional,GREUZE(JEAN-BAPTISTE),,,,Sec. XIX
-BO0624_83890,122354,266,210,Les deux Sceurs.,2326,88.2,False,positional,GREUZE(JEAN-BAPTISTE),,,,
+BO0624_83890,122354,266,210,Les deux Sceurs.,2326,88.2,False,none,,,,,
 BO0624_83890,122355,267,1636,1716,2338,61.5,False,positional,LA FOSSE (CHARLES DE),,,,Sec. XVIII
-BO0624_83890,122356,268,2,ll.-Le Triomphe d'Amphitrite.,2340,98.2,False,positional,LA FOSSE (CHARLES DE),,,,
-BO0624_83890,122357,269,212,Le Menuet.,2349,81.8,False,positional,LA FOSSE (CHARLES DE),,,,
+BO0624_83890,122356,268,2,ll.-Le Triomphe d'Amphitrite.,2340,98.2,False,none,,,,,
+BO0624_83890,122357,269,212,Le Menuet.,2349,81.8,False,none,,,,,
 BO0624_83890,122358,270,1690,1745,2363,61.5,False,positional,LANCRET(NICOLAS),,,,Sec. XVIII
 BO0624_83890,122359,271,1656,1746,2368,61.5,False,positional,LARGILLIERE(NICOLAS DE),,,,Sec. XVIII
-BO0624_83890,122360,272,213,Portrait d'une Dame et de sa Fille.,2370,94.4,False,positional,LARGILLIERE(NICOLAS DE),,,,
+BO0624_83890,122360,272,213,Portrait d'une Dame et de sa Fille.,2370,94.4,False,none,,,,,
 BO0624_83890,122361,273,214,## LARGILLIERE(NICOLAS DE),2383,100.0,False,title_direct,LARGILLIERE(NICOLAS DE),,,,
-BO0624_83890,122362,274,1656,1746,2385,61.5,False,positional,LARGILLIERE(NICOLAS DE),,,,Sec. XVIII
+BO0624_83890,122362,274,1656,1746,2385,61.5,False,none,,,,,Sec. XVIII
 BO0624_83890,122363,275,1656,1746,2400,61.5,False,positional,LARGILLIERE (NICOLASDE),,,,Sec. XVIII
-BO0624_83890,122364,276,215,Portrait de Femme.,2402,89.5,False,positional,LARGILLIERE (NICOLASDE),,,,
-BO0624_83890,122365,277,216,Portrait de Femme. 1746,2412,79.1,False,positional,LARGILLIERE (NICOLASDE),,,,Sec. XVIII
+BO0624_83890,122364,276,215,Portrait de Femme.,2402,89.5,False,none,,,,,
+BO0624_83890,122365,277,216,Portrait de Femme. 1746,2412,79.1,False,none,,,,,Sec. XVIII
 BO0624_83890,122366,278,217,-Femme au Corsage bleu.,2423,91.3,False,positional,LARGILLIERE (NICOLAS DE),,,,
-BO0624_83890,122367,279,218,Jeune Femme a la Ceinture noire.,2431,93.9,False,positional,LARGILLIERE (NICOLAS DE),,,,
+BO0624_83890,122367,279,218,Jeune Femme a la Ceinture noire.,2431,93.9,False,none,,,,,
 BO0624_83890,122368,280,1656,1746,2442,61.5,False,positional,LARGILLIERE (NICOLAS DE),,,,Sec. XVIII
-BO0624_83890,122369,281,2,i9.- Jeune Femme au Corsage rouge.,2444,98.4,False,positional,LARGILLIERE (NICOLAS DE),,,,
+BO0624_83890,122369,281,2,i9.- Jeune Femme au Corsage rouge.,2444,98.4,False,none,,,,,
 BO0624_83890,122370,282,220,Offrande a lAmour.,2458,89.5,False,positional,LE MOINE (FRANCOIS),,,,
 BO0624_83890,122371,283,221,Les Buveurs.,2467,84.6,False,positional,LE NAIN (LESFRERES),,,,
 BO0624_83890,122372,284,222,Scene de Paysans.,2482,88.9,False,positional,LE NAIN (LESFRERES),,,,
-BO0624_83890,122373,285,223,Famille de Paysans.,2488,90.0,False,positional,LE NAIN (LESFRERES),,,,
-BO0624_83890,122374,286,224,Paysans francais. 1745,2498,78.0,False,positional,LE NAIN (LESFRERES),,,,Sec. XVIII
+BO0624_83890,122373,285,223,Famille de Paysans.,2488,90.0,False,none,,,,,
+BO0624_83890,122374,286,224,Paysans francais. 1745,2498,78.0,False,none,,,,,Sec. XVIII
 BO0624_83890,122375,287,225,Portrait d'une Femme de qualite.,2507,93.9,False,positional,LOO (JEAN-BAPTISTE VAN),,,,
-BO0624_83890,122376,288,226,Portrait de la Comtesse della Rena,2515,94.4,False,positional,LOO (JEAN-BAPTISTE VAN),,,,
+BO0624_83890,122376,288,226,Portrait de la Comtesse della Rena,2515,94.4,False,none,,,,,
 BO0624_83890,122377,289,227,-Portrait de Turgot.,2526,90.0,False,positional,LOO (LOUIS-MICHEL VAN),,,,
-BO0624_83890,122378,290,I,"l est spirituel et calme d'aspect; l'autorite de son regard se tempere de bonhomie. ll est coiffe de la perruque poudree a marteau et cadenette. De la main droite, le bras ploye ct porte en avant, il tient un pli qui porte cette suscription : Au roy. Il a insere sa main droite dans sa poche : il a des manchettes de dentelle.",2530,99.8,False,positional,LOO (LOUIS-MICHEL VAN),,,,
+BO0624_83890,122378,290,I,"l est spirituel et calme d'aspect; l'autorite de son regard se tempere de bonhomie. ll est coiffe de la perruque poudree a marteau et cadenette. De la main droite, le bras ploye ct porte en avant, il tient un pli qui porte cette suscription : Au roy. Il a insere sa main droite dans sa poche : il a des manchettes de dentelle.",2530,99.8,False,none,,,,,
 BO0624_83890,122379,291,1700,1777,2538,61.5,False,positional,NATOIRE(CHARLES-JOSEPH),,,,Sec. XVIII
-BO0624_83890,122380,292,228,Bacchante. 1766,2540,66.7,False,positional,NATOIRE(CHARLES-JOSEPH),,,,Sec. XVIII
+BO0624_83890,122380,292,228,Bacchante. 1766,2540,66.7,False,none,,,,,Sec. XVIII
 BO0624_83890,122381,293,229,Portrait de Marie Leczinska. 1766,2555,85.7,False,positional,NATTIER (JEAN-MARC),,,,Sec. XVIII
 BO0624_83890,122382,294,230,Portrait de jeune Fille. 1766,2570,83.6,False,positional,NATTIER (JEAN-MARC),,,,Sec. XVIII
 BO0624_83890,122383,295,231,Portrait de Mme de Flavacourt en Diane. 1785,2583,89.4,False,positional,NATTIER (JEAN-MARC),,,,Sec. XVIII
 BO0624_83890,122384,296,232,Portrait de Mme de Sevré. 1756,2602,84.2,False,positional,NONNOTTE(DONATIEN),,,,Sec. XVIII
 BO0624_83890,122385,297,233,Les Fiancailles dans le Parc 1756,2615,86.2,False,positional,PATER (JEAN-BAPTISTE-JOSEPH),,,,Sec. XVIII
 BO0624_83890,122386,298,234,La Cueillette de Roses.,2634,91.7,False,positional,PATER (JEAN-BAPTISTE-JOSEPH),,,,
-BO0624_83890,122387,299,235,La Romance. 1756,2656,69.0,False,positional,PATER (JEAN-BAPTISTE-JOSEPH),,,,Sec. XVIII
+BO0624_83890,122387,299,235,La Romance. 1756,2656,69.0,False,none,,,,,Sec. XVIII
 BO0624_83890,122388,300,236,La Chiromancienne.,2677,89.5,False,positional,PATER(JEAN-BAPTISTE-JOSEPH),,,,
-BO0624_83890,122389,301,237,Fete Galante. 1825,2687,72.7,False,positional,PATER(JEAN-BAPTISTE-JOSEPH),,,,Sec. XIX
+BO0624_83890,122389,301,237,Fete Galante. 1825,2687,72.7,False,none,,,,,Sec. XIX
 BO0624_83890,122390,302,238,La Vertu aux prises avec le Vice.,2706,94.1,False,positional,PRUD'HON (PIERRE),,,,
 BO0624_83890,122391,303,239,Portrait de jeune Femme.,2716,92.0,False,positional,ROSALBA CARRIERA,,,,
 BO0624_83890,122392,304,240,Boulevard du Temple.,2733,90.5,False,positional,SAINT-AUBIN (GABRIEL DE),,,,
-BO0624_83890,122393,305,241,La Fete a Saint-Cloud. 1717,2741,82.4,False,positional,SAINT-AUBIN (GABRIEL DE),,,,Sec. XVIII
+BO0624_83890,122393,305,241,La Fete a Saint-Cloud. 1717,2741,82.4,False,none,,,,,Sec. XVIII
 BO0624_83890,122394,306,242,La petite Fille a la Perruche.,2750,93.5,False,positional,SANTERRE(JEAN-BAPTISTE),,,,
-BO0624_83890,122395,307,243,Jeune Femme a la Lettre. 1772,2756,83.6,False,positional,SANTERRE(JEAN-BAPTISTE),,,,Sec. XVIII
+BO0624_83890,122395,307,243,Jeune Femme a la Lettre. 1772,2756,83.6,False,none,,,,,Sec. XVIII
 BO0624_83890,122396,308,244,Portraitd'Homme.,2769,88.2,False,positional,TOCQUE (LOUIS),,,,
-BO0624_83890,122397,309,I,"l est vu,a mi-corps,de trois quarts a droite,le visage rosc, dans lencadrement de la perruque poudree; il est vetu d'un habit de velours marron, a bouton de metal, ouvert sur un gilet bleu galonne d'or; son epaule gauche porte une draperie rouge qui vient se chiffonner en gros plis devant la poitrine et se perd derriere le dos.Il porte une cravate blanche a barbe de dentelle.",2771,99.9,False,positional,TOCQUE (LOUIS),,OGGETTI IN METALLO,,
+BO0624_83890,122397,309,I,"l est vu,a mi-corps,de trois quarts a droite,le visage rosc, dans lencadrement de la perruque poudree; il est vetu d'un habit de velours marron, a bouton de metal, ouvert sur un gilet bleu galonne d'or; son epaule gauche porte une draperie rouge qui vient se chiffonner en gros plis devant la poitrine et se perd derriere le dos.Il porte une cravate blanche a barbe de dentelle.",2771,99.9,False,none,,,OGGETTI IN METALLO,,
 BO0624_83890,122398,310,1668,1752,2778,61.5,False,positional,TOURNIERES (ROBERT LE VRAC),,,,Sec. XVIII
-BO0624_83890,122399,311,245,— Portrait d'une Cantatrice. 1752,2780,84.7,False,positional,TOURNIERES (ROBERT LE VRAC),,,,Sec. XVIII
+BO0624_83890,122399,311,245,— Portrait d'une Cantatrice. 1752,2780,84.7,False,none,,,,,Sec. XVIII
 BO0624_83890,122400,312,246,Portrait de Femme.,2792,89.5,False,positional,TROY JEAN-FRANCOIS DE),,,,
 BO0624_83890,122401,313,247,Peches et Cerises. 1824,2808,79.1,False,positional,VALLAYER-COSTER,,,,Sec. XIX
 BO0624_83890,122402,314,248,Jeune Fille en robe blanche. 1842,2821,85.7,False,positional,VESTIER(ANTOINE),,,,Sec. XIX
 BO0624_83890,122403,315,249,Portrait de IArtiste. 1842,2834,81.6,False,positional,VIGEE-LEBRUN (MmeLOUISE-ELISABETH),,,,Sec. XIX
 BO0624_83890,122404,316,250,Les deux Soeurs. 1842,2847,76.9,False,positional,VIGEE-LEBRUN (MmLOUISE-ELISABETH),,,,Sec. XIX
 BO0624_83890,122405,317,251,Portrait de Mrs. Chinnery. 1842,2858,84.2,False,positional,VIGEE-LEBRUN(MmeLOUISE-ELISABETH),,,,Sec. XIX
-BO0624_83890,122406,318,252,Portrait de Femme assise. 1842,2869,84.2,False,positional,VIGEE-LEBRUN(MmeLOUISE-ELISABETH),,,,Sec. XIX
+BO0624_83890,122406,318,252,Portrait de Femme assise. 1842,2869,84.2,False,none,,,,,Sec. XIX
 BO0624_83890,122407,319,253,Femme en blanc. 1721,2888,75.7,False,positional,VIGEE-LEBRUN (Mme LOUISE-ELISABETH),,,,Sec. XVIII
 BO0624_83890,122408,320,254,La Lorgneuse.,2903,85.7,False,positional,WATTEAU (ANTOINE),,,,
-BO0624_83890,122409,321,255,Jeu d'Amours.,2911,85.7,False,positional,WATTEAU (ANTOINE),,,,
-BO0624_83890,122410,322,I,mprime pour CH.SEDELMEYER par LAHURE PARIS,2918,98.8,False,positional,WATTEAU (ANTOINE),,,,
+BO0624_83890,122409,321,255,Jeu d'Amours.,2911,85.7,False,none,,,,,
+BO0624_83890,122410,322,I,mprime pour CH.SEDELMEYER par LAHURE PARIS,2918,98.8,False,none,,,,,

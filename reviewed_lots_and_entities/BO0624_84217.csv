@@ -208,13 +208,13 @@ BO0624_84217,86814,206,235,LA FuITE EN EGyPTE. Bronze patine avec incrusta-,1136
 BO0624_84217,86815,207,236,"— SAINT GEoRGEs. Bronze dore, signe:Frémiet.",1141,95.1,False,positional,FREMIET,,,,
 BO0624_84217,86816,208,237,"—L'ANTIQUAIRE DU PONT DES ARTs.Buste de vicillard, en terre cuite. Signe:H. Icard, 1881.",1146,97.6,False,positional,H.ICARD,,,,Sec. XIX
 BO0624_84217,86817,209,238,"—VasE en argent, cuivre et agate. Une grenouille est",1150,96.1,False,positional,LALIQUE,,VASI,,
-BO0624_84217,86818,210,239,"—VasE en argent, a long col, avec incrustations en",1155,95.9,False,positional,LALIQUE,,VASI,,
-BO0624_84217,86819,211,240,"- GoBELET en verre irise, dans une resille en argent",1160,96.1,False,positional,LALIQUE,,,,
+BO0624_84217,86818,210,239,"—VasE en argent, a long col, avec incrustations en",1155,95.9,False,none,,,VASI,,
+BO0624_84217,86819,211,240,"- GoBELET en verre irise, dans une resille en argent",1160,96.1,False,none,,,,,
 BO0624_84217,86820,212,241,"PLATRE ORIGINAL DE《L'ARLEQUIN）.Debout,les bras croises, il regarde la foule d'un air narquois, pret a lancer sa boutade. Sur le socle: St Marceaux, 1879.",1169,98.6,False,positional,SAINT-MARCEAUX,,PIATTI,,Sec. XIX
-BO0624_84217,86821,213,242,"-BusTE DE GABRIELE D'ANNUNZIo. Bronze a cire perdue,",1174,96.1,False,positional,SAINT-MARCEAUX,,,,
+BO0624_84217,86821,213,242,"-BusTE DE GABRIELE D'ANNUNZIo. Bronze a cire perdue,",1174,96.1,False,none,,,,,
 BO0624_84217,86822,214,243,"Deux vAsEs en bronze,l'anse en forme de figurine",1182,96.0,False,positional,VALLGREN,,VASI,,
-BO0624_84217,86823,215,244,"-LA SouRcE. Femme agenouillee, tenant un vase. Bronze patine. Signe : Vallgren, Paris, 1898.",1187,97.6,False,positional,VALLGREN,,VASI,,Sec. XIX
-BO0624_84217,86824,216,245,-GRouPE et statuettes. Pleureuses. Signes:Vallgren.,1188,95.9,False,positional,VALLGREN,,,,
+BO0624_84217,86823,215,244,"-LA SouRcE. Femme agenouillee, tenant un vase. Bronze patine. Signe : Vallgren, Paris, 1898.",1187,97.6,False,none,,,VASI,,Sec. XIX
+BO0624_84217,86824,216,245,-GRouPE et statuettes. Pleureuses. Signes:Vallgren.,1188,95.9,False,none,,,,,
 BO0624_84217,86825,217,246,"-DEUx GRANDEs AMPHOREs,de style antique. Bronze.",1191,95.7,False,positional,,,BRONZES DE DECORATION,,
 BO0624_84217,86826,218,247,"-VITRINE de milieu, monture en acier bruni, les quatre faces et le plafond en glace claire. Ouvrant sur les cotes a paumelles, fermant a serrure. A linterieur,",1197,98.7,False,title_direct,,,VITRINES,,
 BO0624_84217,86827,219,248,"- GRANDE vITRINE murale en acier bruni;devant glace claire d'une seule piece,ouvrant a coulisse; cotes et plafond en glace claire. Fond en bois recouvert de velours rouge. Tablettes en verre et en bois recouvert",1204,99.0,False,positional,,,OGGETTI IN LEGNO,,

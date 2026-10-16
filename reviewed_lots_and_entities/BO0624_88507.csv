@@ -111,7 +111,7 @@ BO0624_88507,240691,109,115,"Holland. Meister,XVll. Jahrh. Interieur. In vornehm
 BO0624_88507,240692,110,116,"Jung, K., Bauernstuben-lnterieur mit Staffage.",287,95.5,False,title_direct,K. Bauer,,,,
 BO0624_88507,240693,111,117,"Jungheim, C., Gebirgssee. Bleistiftzeichnung.Bezeichnet.30X46 cm.",288,96.8,False,positional,,,Aquarelle / Handzeichnungen,,
 BO0624_88507,240694,112,118,"Klombeck,J.B.,Wald mit Holzsammlern. Bleistiftzeichn. Bezeichnet.30X45 cm.",290,97.2,False,positional,,,Aquarelle / Handzeichnungen,,
-BO0624_88507,240695,113,119,"Koekkoek,B.C.(1803-1862),Blick in einen Wald.",291,95.5,False,positional,,,Aquarelle / Handzeichnungen,,Sec. XIX
+BO0624_88507,240695,113,119,"Koekkoek,B.C.(1803-1862),Blick in einen Wald.",291,95.5,False,positional,KOEKKOEK B. C.,,Aquarelle / Handzeichnungen,,Sec. XIX
 BO0624_88507,240696,114,120,"Kolbe, Dr.C. Wilh.(1764-1835), Junger Stier.",295,95.0,False,positional,,,Aquarelle / Handzeichnungen,,Sec. XVIII
 BO0624_88507,240697,115,121,"Maurer, O., Gablenberg. Madchen am Brunnen. Tuschzeichnung. Bezeichnet und datiert 1882.32,5X39,5 cm.",299,97.9,False,positional,,,Aquarelle / Handzeichnungen,,Sec. XIX
 BO0624_88507,240698,116,122,"Pozzi, Massimiliano Guiseppe (Mannheim 1770-1842), Entwirfe von Bildsaulen fur ein projektiertes Monument. Bezeichnet und datiert 1828.5 Blatt.",300,98.6,False,positional,,,Aquarelle / Handzeichnungen,,Sec. XVIII
@@ -132,38 +132,38 @@ BO0624_88507,240712,130,136,Mannerportrat. Brustbild eines alten Soldaten in fri
 BO0624_88507,240713,131,137,Interieur. Blick in ein vornehmes Empire-Zimmer mit Vitrine.,347,96.7,False,positional,August von Brandis,,ARREDAMENTI,,
 BO0624_88507,240714,132,138,Bauerngehoft. Rechts unter Baumen ein Eifeler Bauerngehoft mit Schindeldachern. Schwarzer Rahmen. Pappe.26X31 cm. a Landschaft. Durch die Mitte des Bildes windet sich ein Bach. Im Hintergrund uiberragt eine Dorfkirche eine Baumgruppe.Bez. Schw.Rahmen. Pappe.31 X44 cm.,353,73.0,False,positional,Peter Bicken,,CORNICI,,
 BO0624_88507,240715,133,139,"Beim Frihstick. In bauerlichem Gemach sitzt ein Mann am Tisch, vor ihm auf dem Stuhl ein Hundchen. In der geoffneten Tir erscheint eine Frau mit Bierkrug.",357,98.7,False,positional,Joseph Cremer,,,,
-BO0624_88507,240716,134,140,Der iberraschte Liebhaber. Vor dem Fenster auf einer Bank sitzt der Hausherr,359,97.4,False,positional,Joseph Cremer,,,,
+BO0624_88507,240716,134,140,Der iberraschte Liebhaber. Vor dem Fenster auf einer Bank sitzt der Hausherr,359,97.4,False,none,,,,,
 BO0624_88507,240717,135,141,"An der nordischen Kiste. Im Vordergrund ein Fischerboot mit reicher Besatzung. In der Ferne die kahle, felsige Kiste. Schw. Rahmen. Leinwand. 56X85 cm.",366,98.6,False,positional,Hans Dahl,,CORNICI,,
 BO0624_88507,240718,136,142,"Sandgrube. In einer tiefen Mulde ein Pferdegespann, welches von einem Bauern beladen wird.Ueber der farbenprachtigen steilen Wand der bewolkte Himmel. Bezeichnet. Goldrahmen.Leinwand.80X100 cm.",371,98.9,False,positional,F.Delaforgue,,,,
-BO0624_88507,240719,137,143,"Traurige Botschaft. Am Tisch sitzt ein junges Madchen, in der Hand einen Brief trocknet. Daneben ein Kind und ein Hund. Goldrahmen. Leinwand. 108X86 cm.",375,98.6,False,positional,F.Delaforgue,,,,
-BO0624_88507,240720,138,144,Neckerei. Ein junges Madchen ist bei der Lektire eingenickt. Im Hintergrund 1877 Brissel.,376,89.6,False,positional,F.Delaforgue,,,,Sec. XIX
+BO0624_88507,240719,137,143,"Traurige Botschaft. Am Tisch sitzt ein junges Madchen, in der Hand einen Brief trocknet. Daneben ein Kind und ein Hund. Goldrahmen. Leinwand. 108X86 cm.",375,98.6,False,none,,,,,
+BO0624_88507,240720,138,144,Neckerei. Ein junges Madchen ist bei der Lektire eingenickt. Im Hintergrund 1877 Brissel.,376,89.6,False,none,,,,,Sec. XIX
 BO0624_88507,240721,139,145,Lustige Einquartierung. In einem Hof belustigen sich Soldaten mit den Wascherinnen. Bezeichnet.Goldrahmen.Leinwand.42X49 cm.,385,98.4,False,positional,Adolf Alex.Dillens,,,,
 BO0624_88507,240722,140,146,Der Besuch. Vor einem Bauernhaus ist ein Mann mit beladenem Maulesel an-,389,97.2,False,positional,van der Elst,,,,
 BO0624_88507,240723,141,147,"Blumenstilleben. Auf sammetbedecktem Tisch eine Delftvase mit grobem FeldblumenstrauB.Heller Hintergrund. Bezeichnet.Schw.Rahmen.Leinw.73X55,5 cm.",396,98.6,False,positional,C.Enger,,CORNICI,,
 BO0624_88507,240724,142,148,Tierstick.Blick in eine Hundehitte mit schlafendem Hund. Bezeichnet J.Evrard Goldrahmen.Leinwand.42X31 cm.,400,98.1,False,title_direct,J.Evrard,,,,
 BO0624_88507,240725,143,149,"Gefluigelhof.Vor einer Scheune eine grobe Anzahl Huhner, Pfauen, Truten und",404,97.3,False,positional,Eugen Frank-Colon,,,,
 BO0624_88507,240726,144,150,Strand bei Heyst. Am Strande liegen verschiedene Fischerboote. Stark bewolkter Himmel. Bezeichnet. Schwarzer Rahmen.Leinwand. 63X94 cm.,411,98.5,False,positional,Einer From,,CORNICI,,
-BO0624_88507,240727,145,151,Ruhige See. Auf leicht bewegter See mehrere Segler. Am Horizont leichte Bewolkung. Bezeichnet u. datiert Heyst 1895. Schwarzer Rahmen. Leinwand. 65X96 cm. a Bewegte See. Gegenstick zu vorigem.,412,88.0,False,positional,Einer From,,CORNICI,,Sec. XIX
+BO0624_88507,240727,145,151,Ruhige See. Auf leicht bewegter See mehrere Segler. Am Horizont leichte Bewolkung. Bezeichnet u. datiert Heyst 1895. Schwarzer Rahmen. Leinwand. 65X96 cm. a Bewegte See. Gegenstick zu vorigem.,412,88.0,False,none,,,CORNICI,,Sec. XIX
 BO0624_88507,240728,146,152,Studienkopf. Kopf eines jungen Mannes mit entsetztem Gesichtsausdruck; aus der Bergpredigt. Goldrahmen.Papier.23X20 cm.,417,98.3,False,positional,Ed. von Gebhardt,,,,
-BO0624_88507,240729,147,153,"Studienkopf. Brustbild,eines alteren Mannes (Ministrant) nach links. Bezeichnet und datiert 1867. Sepia. Goldrahmen. Pappe.38X34 cm. 1824.",418,96.5,False,positional,Ed. von Gebhardt,,,,Sec. XIX
+BO0624_88507,240729,147,153,"Studienkopf. Brustbild,eines alteren Mannes (Ministrant) nach links. Bezeichnet und datiert 1867. Sepia. Goldrahmen. Pappe.38X34 cm. 1824.",418,96.5,False,none,,,,,Sec. XIX
 BO0624_88507,240730,148,154,Parforcejagd. Ueber einen Wassergraben geht die wilde Jagd. Schwarzer Rahmen.Holz. 13X19 cm.,423,97.8,False,positional,Theodore Gericault,,CORNICI,,
 BO0624_88507,240731,149,155,Feindlicher Angriff. Ein Artilleriegespann wird von einem feindlichen Luftballon angegriffen. Bezeichnet und datiert.Goldrahmen.Leinwand.47X60 cm.,427,98.6,False,positional,W.Grabheim,,,,
 BO0624_88507,240732,150,156,Stilleben. Stiefmitterchen in Vase und ein MaBkrug. Schwarzer Rahmen.Pappe. 36X30 cm.,431,97.6,False,positional,K.Gutmann,,CORNICI,,
 BO0624_88507,240733,151,157,"An der Schelde. Auf das flache, sandige Ufer ist ein Fischerboot gezogen. Bezeichnet. Stimmungsvolle Landschaft. Schwarzer Rahmen.Leinwand.58X78 cm.",435,98.6,False,positional,Wilh. Hambuchen,,CORNICI,,
-BO0624_88507,240734,152,158,An der Maasmundung. Am seichten Ufer ist ein Fischerboot festgemacht. Im,437,97.2,False,positional,Wilh. Hambuchen,,,,
+BO0624_88507,240734,152,158,An der Maasmundung. Am seichten Ufer ist ein Fischerboot festgemacht. Im,437,97.2,False,none,,,,,
 BO0624_88507,240735,153,159,Blumenstuck.Vor dunklem Hintergrund eine Empire-Vase mit buntem BlumenstrauB.Bezeichnet und datiert 1913.Goldrahmen.Leinwand. Oval.72X53 cm.,443,98.6,False,positional,Ad. Heller,,OGGETTI VARI,,Sec. XX
 BO0624_88507,240736,154,160,Zwei Bildnisse. Brustbild einer hessischen Bauerin und eines Bauern in Tracht.,447,97.4,False,positional,Karl Hoff,,,,
 BO0624_88507,240737,155,161,Hollandischer Hafen. Zu beiden Seiten eines Wasserarmes haben groBe Kahne festgemacht. Monogrammiert.Schwarzer Rahmen.Leinwand. 46X58 cm.,452,98.5,False,positional,Frieda Honigmann,,CORNICI,,
 BO0624_88507,240738,156,162,Motiv am Grunewaldsee. Blick auf das Ufer des Sees mit dunklen Kiefern.,456,97.2,False,positional,Eduard Horst,,,,
 BO0624_88507,240739,157,163,Eifeldorf. Auf einer Anhohe mehrere Bauernhauser um die Kirche gruppiert. Bezeichnet.Schwarzer Rahmen. Holz.24X35 cm.,461,98.3,False,positional,H. Jetschmann,,CORNICI,,
 BO0624_88507,240740,158,164,Monschau. Blick in die HauptstraBe Monschaus mit ihren verschneiten alten,465,97.3,False,positional,K. J. Joest,,,,
-BO0624_88507,240741,159,165,Monschau. Blick auf die Roerbricke und das Scheiblersche Rote Haus. Prachtige Winterlandschaft. Bezeichnet.Goldrahmen.Leinwand.65X80 cm.,470,98.5,False,positional,K. J. Joest,,,,
+BO0624_88507,240741,159,165,Monschau. Blick auf die Roerbricke und das Scheiblersche Rote Haus. Prachtige Winterlandschaft. Bezeichnet.Goldrahmen.Leinwand.65X80 cm.,470,98.5,False,none,,,,,
 BO0624_88507,240742,160,166,Winterlandschaft. Auf zugefrorenem Wasserlauf erscheint ein Bauer mit seiner Frau. Links unter Baumen ein Bauernhaus.,473,98.3,False,positional,A. Jungbluth,,,,
 BO0624_88507,240743,161,167,"Niederrheinisches Dorf. DorfstraBe,von strohgedeckten Hauschen umsaumt, bei",479,97.3,False,positional,Eugen Kampf,,,,
-BO0624_88507,240744,162,168,"Am Strand. Auf den flachen Strand ist eine Fischerbarke gezogen, dahinter ragen einige Fischerhauschen hervor. Bezeichnet. Schwarzer Rahmen.Pappe. 32X24 cm.",481,98.7,False,positional,Eugen Kampf,,CORNICI,,
-BO0624_88507,240745,163,169,Seestick. An der Mohle von Scheveningen schaumt die leicht bewegte See. Segler beleben das Wasser. Studie.Goldrahmen.Pappe.31X26 cm.,482,98.5,False,positional,Eugen Kampf,,,,
+BO0624_88507,240744,162,168,"Am Strand. Auf den flachen Strand ist eine Fischerbarke gezogen, dahinter ragen einige Fischerhauschen hervor. Bezeichnet. Schwarzer Rahmen.Pappe. 32X24 cm.",481,98.7,False,none,,,CORNICI,,
+BO0624_88507,240745,163,169,Seestick. An der Mohle von Scheveningen schaumt die leicht bewegte See. Segler beleben das Wasser. Studie.Goldrahmen.Pappe.31X26 cm.,482,98.5,False,none,,,,,
 BO0624_88507,240746,164,170,"Im Oktober.Im Vordergrund ein Vorstehhund, einen Hasen apportierend, dahinter",486,97.4,False,positional,C.Kappeler,,,,
-BO0624_88507,240747,165,171,"Herbstlandschaft. Am Waldessaum hat ein Jagdhund einen kapitalen Hirsch gestellt. Rechts ein Wiesental, welches im Hintergrund von Bergen abgeschlossen wird. Bezeichnet. Schwarzer Rahmen.Leinwand. 65X97 cm.",488,99.0,False,positional,C.Kappeler,,CORNICI,,
+BO0624_88507,240747,165,171,"Herbstlandschaft. Am Waldessaum hat ein Jagdhund einen kapitalen Hirsch gestellt. Rechts ein Wiesental, welches im Hintergrund von Bergen abgeschlossen wird. Bezeichnet. Schwarzer Rahmen.Leinwand. 65X97 cm.",488,99.0,False,none,,,CORNICI,,
 BO0624_88507,240748,166,172,"Menschenlos. In dunklem Gemach, sparlich durch Kerzen erhellt, steht rechts ein bekranzter Sarg. Links sitzt die Frau des Verstorbenen, auf dem Schob ein kleines Kind haltend. Die letzten Habseligkeiten sind in ein Bundel gepackt, welches zu ihren FuBen liegt. Daneben steht ein barfibiges Madchen mit einer Puppe.",492,99.3,False,positional,Eugen Klinckenberg,,,,
 BO0624_88507,240749,167,173,Charakterkopf. Brustbild eines alten Mannes mit Brille nach rechts. Bezeichnet und datiert 1896. Goldrahmen.Pappe. 40X28 cm.,498,98.3,False,positional,Richard Klingen,,,,Sec. XIX
 BO0624_88507,240750,168,174,"Die Erbin. In einer sauber hergerichteten Bauernstube sitzen um einen weiB gedeckten Tisch die Erben, Manner und Frauen in Gebirgstracht. Rechts sitzt der Notar, aus dem Testament vorlesend. Vor dem Tisch steht lauschend die junge Erbin. Rechts am Fenster eine Frau mit Kind.",502,99.3,False,positional,Karl Kricheldorf,,,,
@@ -184,14 +184,14 @@ BO0624_88507,240764,182,188,Interieur. In altem Rokokozimmer sitzt dem Fenster g
 BO0624_88507,240765,183,189,Winterlandschaft. In mit Tannen bestandener Schneelandschaft an einem See,580,97.3,False,positional,Miller-Lingke,,,,
 BO0624_88507,240766,184,190,Aufziehendes Gewitter. Die letzten Strahlen der Sonne beleuchten eine flache Landschaft mit Seen. Bezeichnet.Goldrahmen.Leinwand.23X30 cm.,585,98.5,False,positional,G. H. Minch,,,,
 BO0624_88507,240767,185,191,Alpenlandschaft.Alpensee mit der Zugspitze. Abendstimmung. Schwarzer Rahmen.Holz.12X22 cm.,589,97.8,False,positional,,Minchener Schule,CORNICI,,
-BO0624_88507,240768,186,192,"Alpenlandschaft.Im Vordergrund eine Halde mit figirlicher Staffage, dahinter erheben sich schneebedeckte Bergriesen. Goldrahmen.Pappe.29X36 cm.",590,98.6,False,positional,,Minchener Schule,,,
+BO0624_88507,240768,186,192,"Alpenlandschaft.Im Vordergrund eine Halde mit figirlicher Staffage, dahinter erheben sich schneebedeckte Bergriesen. Goldrahmen.Pappe.29X36 cm.",590,98.6,False,none,,,,,
 BO0624_88507,240769,187,193,Landschaft mit Bauerngehoft bei untergehender Sonne.,594,96.2,False,positional,P.S.M,,,,
 BO0624_88507,240770,188,194,"Herbstlandschaft. Den Vordergrund nimmt ein Weiher mit gelbem Schilf ein,",599,97.3,False,positional,H.Notthoff,,,,
 BO0624_88507,240771,189,195,"Am Strande des Nils liegt eine Aegyptierin, vor ihr steht ein Reiher und zur Seite zwei Kraniche. Bezeichnet.Malpappe.32X56 cm.",607,98.4,False,positional,R.Ofgen,,,,
 BO0624_88507,240772,190,196,"Hundebildnis.Vor landschaftlichem Hintergrund sitzt ein schwarzer, weib gefleckter",611,97.6,False,positional,C.Opdenhoff,,,,
 BO0624_88507,240773,191,197,Nordisches Fjord. Im Vordergrund liegen am Strande mehrere Fischerboote.,617,97.2,False,positional,H. Petersen,,,,
-BO0624_88507,240774,192,198,Marine. Blick auf einen Hafen mit groBen Seglern.,621,95.9,False,positional,H. Petersen,,,,
-BO0624_88507,240775,193,199,Marine. Nordisches Fjord mit zwei Fischkuttern.,622,95.7,False,positional,H. Petersen,,,,
+BO0624_88507,240774,192,198,Marine. Blick auf einen Hafen mit groBen Seglern.,621,95.9,False,none,,,,,
+BO0624_88507,240775,193,199,Marine. Nordisches Fjord mit zwei Fischkuttern.,622,95.7,False,none,,,,,
 BO0624_88507,240776,194,201,"Landschaft am Kanal. Zu beiden Seiten des Wassers Hauser, im Vordergrund",631,97.2,False,positional,A. Sant,,,,
 BO0624_88507,240777,195,202,"Landschaft. Links am Ufer eines Sees unter Baumen ein Landhaus, vor welchem",636,97.3,False,positional,F.Scheuren,,,,
 BO0624_88507,240778,196,203,Winterlandschaft in der Art des Schelfhout.,643,95.5,False,positional,Schmitz,,,,
@@ -201,17 +201,17 @@ BO0624_88507,240781,199,206,Allegorie. Auf einem Berggipfel haben sich die Kinst
 BO0624_88507,240782,200,207,Patrouille. Auf einer Anhohe im hohen Grase eine Kurassierpatrouille. Links Blick in das Moseltal. Bezeichnet. Goldrahmen.Leinwand.26X37 cm.,667,98.5,False,positional,Chr. Sell d.Ae.,,,,
 BO0624_88507,240783,201,208,Ernte. Bauern entladen einen Erntewagen. Goldrahmen.Pappe.30X21 cm.,671,97.0,False,title_direct,K. Bauer,,,,
 BO0624_88507,240784,202,209,"Damenportrat. Huftbild einer vornehmen Dame in Balltoilette, in der Hand einen",675,97.4,False,positional,Stickelberg,,,,
-BO0624_88507,240785,203,210,Madchenbildnis.Brustbild eines hubschen jungen Madchens in Biedermeierkostim. Die schwarzen Haarflechten fallen iber die Schultern.,680,98.5,False,positional,Stickelberg,,,,
+BO0624_88507,240785,203,210,Madchenbildnis.Brustbild eines hubschen jungen Madchens in Biedermeierkostim. Die schwarzen Haarflechten fallen iber die Schultern.,680,98.5,False,none,,,,,
 BO0624_88507,240786,204,211,Zwei Portrats. Brustbild einer vornehmen Dame und eines Herrn in Biedermeierkostumen. Goldrahmen d.Zt.Leinwand.80X60 cm. 1879 Aachen.,685,93.6,False,positional,Friedrich Thomas,,,,Sec. XIX
-BO0624_88507,240787,205,212,Mannerbildnis. Brustbild eines junges Mannes in Biedermeieranzug.,689,96.9,False,positional,Friedrich Thomas,,,,
-BO0624_88507,240788,206,213,Schnitterin. Huftbild einer jungen Bauerin in reizender Biedermeiertracht.,695,97.3,False,positional,Friedrich Thomas,,,,
-BO0624_88507,240789,207,214,Madchenbildnis. Kniebild eines jungen Madchens in Biedermeiertracht.,696,97.1,False,positional,Friedrich Thomas,,,,
+BO0624_88507,240787,205,212,Mannerbildnis. Brustbild eines junges Mannes in Biedermeieranzug.,689,96.9,False,none,,,,,
+BO0624_88507,240788,206,213,Schnitterin. Huftbild einer jungen Bauerin in reizender Biedermeiertracht.,695,97.3,False,none,,,,,
+BO0624_88507,240789,207,214,Madchenbildnis. Kniebild eines jungen Madchens in Biedermeiertracht.,696,97.1,False,none,,,,,
 BO0624_88507,240790,208,215,"Alpenlandschaft. Ueber eine Waldwiese blickt man auf eine Gruppe schneebedeckter Berge. Bezeichnet.Goldrahmen.Leinwand.18,5X26,5 cm. Herbstlandschaft. Der im Vordergrunde liegende See von Baumgruppen umstanden. Bezeichnet. Schwarzer Rahmen. Holz. 17X24 cm. Winterlandschaft. In schneeiger Landschaft im Vordergrunde hochstammige Baumgruppe, unter welcher zwei Frauen einen Pfad begehen. Im Hintergrund Buschwerk. Bezeichnet. Schwarzer Rahmen. Holz. 17X24 cm.",706,61.4,False,positional,R. O. Unverdrob,,CORNICI,,
-BO0624_88507,240791,209,218,Sumpflandschaft mit stark bewolktem Himmel.,707,95.5,False,positional,R. O. Unverdrob,,,,
-BO0624_88507,240792,210,219,Seestuck mit Einmaster im Vordergrund.,708,94.9,False,positional,R. O. Unverdrob,,,,
-BO0624_88507,240793,211,220,Landschaft. Inmitten einer von Baumen bestandenen Landschaft verschiedene,714,97.3,False,positional,R. O. Unverdrob,,,,
-BO0624_88507,240794,212,221,Abendlandschaft. Von Schilf und Baumgruppen umstandener See in Mondschein-,715,97.3,False,positional,R. O. Unverdrob,,,,
-BO0624_88507,240795,213,222,"Waldlandschaft, von einem FuBpfad durchquert, der von einer Frau begangen wird. Bezeichnet. Schwarzer Rahmen. Holz. 17X24 cm.",716,98.3,False,positional,R. O. Unverdrob,,CORNICI,,
+BO0624_88507,240791,209,218,Sumpflandschaft mit stark bewolktem Himmel.,707,95.5,False,none,,,,,
+BO0624_88507,240792,210,219,Seestuck mit Einmaster im Vordergrund.,708,94.9,False,none,,,,,
+BO0624_88507,240793,211,220,Landschaft. Inmitten einer von Baumen bestandenen Landschaft verschiedene,714,97.3,False,none,,,,,
+BO0624_88507,240794,212,221,Abendlandschaft. Von Schilf und Baumgruppen umstandener See in Mondschein-,715,97.3,False,none,,,,,
+BO0624_88507,240795,213,222,"Waldlandschaft, von einem FuBpfad durchquert, der von einer Frau begangen wird. Bezeichnet. Schwarzer Rahmen. Holz. 17X24 cm.",716,98.3,False,none,,,CORNICI,,
 BO0624_88507,240796,214,223,Mannerportrat. Brustbild eines jungen Mannes in Biedermeieranzug. Schwarzer Rahmen d.Zt. Leinwand.24X19 cm. 1881.,721,95.8,False,positional,Aloys Venth,,CORNICI,,Sec. XIX
 BO0624_88507,240797,215,224,Tierstudie. Finf Kopfe von Schafen auf dunklem Hintergrund. Schwarzer Rahmen. Pappe. 35X26 cm.,727,97.8,False,positional,Eug. Joseph Verboekhoven,,CORNICI,,
 BO0624_88507,240798,216,225,"Alpenlandschaft. Vor hohem, vereistem und verschneitem Bergriesen liegt ein",732,97.3,False,positional,E.A. Weber,,,,
@@ -220,90 +220,90 @@ BO0624_88507,240800,218,227,Studienkopf. Brustbild eines Mannes in schwarzem Tal
 BO0624_88507,240801,219,228,"Marine. Auf leicht bewegter See ein grober Segler,an dessen Seite ein bemanntes Bezeichnet und datiert 53.Eichenholzrahmen. Leinwand. 40X62 cm.",746,98.6,False,positional,Joseph Andreas Weib,,,,
 BO0624_88507,240802,220,229,"Interieur. In hollandischer Stube sitzt in halbrundem Sessel eine junge Hollanderin, ein aufgeschlagenes Buch in den Handen haltend. 1798 Mannheim.",750,93.5,False,positional,R. Wenk,,ARREDAMENTI,,Sec. XVIII
 BO0624_88507,240803,221,230,"Waldlandschaft. Im Vordergrund ein Wassertimpel mit Enten. Dahinter unter Baumen ein Mann, der sich mit einer Holzsammlerin unterhalt.",758,98.5,False,positional,Caspar Wolf,,,,
-BO0624_88507,240804,222,231,"Die Wahnsinnige. Brustbild eines jungen Madchens in Mieder, mit beiden Handen zerzaust sie das aufgeloste Haar. Schwarzer Rahmen. Leinwand. 67X56 cm. 1652.",764,96.9,False,positional,Caspar Wolf,,CORNICI,,Sec. XVII
+BO0624_88507,240804,222,231,"Die Wahnsinnige. Brustbild eines jungen Madchens in Mieder, mit beiden Handen zerzaust sie das aufgeloste Haar. Schwarzer Rahmen. Leinwand. 67X56 cm. 1652.",764,96.9,False,none,,,CORNICI,,Sec. XVII
 BO0624_88507,240805,223,232,Darbringung im Tempel. In reich architektonischem Tempel halt der Hohepriester den niedergeknieten Frauen das Jesusknablein entgegen. Figurenreiches Bild.,772,98.7,False,positional,Pieter van Avont,,,,
-BO0624_88507,240806,224,233,Anbetung der hl. Konige. Vor einer Ruine die hl. Familie; die hl. Konige mit 1708.,774,94.0,False,positional,Pieter van Avont,,,,Sec. XVIII
+BO0624_88507,240806,224,233,Anbetung der hl. Konige. Vor einer Ruine die hl. Familie; die hl. Konige mit 1708.,774,94.0,False,none,,,,,Sec. XVIII
 BO0624_88507,240807,225,234,"Marine. Auf der vom Sturme gepeitschten See ein groBer Segler in Not. Rechts auf steilem Felsen ein Schlob, ein Segler wird davor gegen die Brandung geschleudert. 1632.",781,97.2,False,positional,Ludolf Bakhuyzen,,,,Sec. XVII
 BO0624_88507,240808,226,235,Verkindigung. Vor einem Betpult kniet die Madonna und hat sich dem auf 1592.,788,93.9,False,positional,Hendrik van Balen,,,,Sec. XVI
 BO0624_88507,240809,227,236,Verkindigung der Hirten. Zwischen allerlei liegendem Vieh sind die schlafenden Hirten erschreckt aufgesprungen und lauschen dem auf hellen Wolken erscheinenden Engel. Goldrahmen.Holz.20X28 cm.,794,99.0,False,positional,Giacomo Bassano,,OGGETTI IN LEGNO,,
-BO0624_88507,240810,228,237,"Die vier Jahreszeiten,Fruhling, Sommer, Herbst und Winter. Vier Landschaften mit reicher Figurenstaffage. Schwarzer Rahmen. Leinwand. Je 74X90 cm.",795,98.6,False,positional,Giacomo Bassano,,CORNICI,,
+BO0624_88507,240810,228,237,"Die vier Jahreszeiten,Fruhling, Sommer, Herbst und Winter. Vier Landschaften mit reicher Figurenstaffage. Schwarzer Rahmen. Leinwand. Je 74X90 cm.",795,98.6,False,none,,,CORNICI,,
 BO0624_88507,240811,229,238,Tierstick. An einer Waldlichtung vier klaffende Jagdhunde. In der Ferne wird ein Dorf sichtbar. Schwarzer Rahmen.Leinwand. 41X55 cm.,801,98.4,False,positional,Jan Beeldemaker,,CORNICI,,
 BO0624_88507,240812,230,239,"Tierstick. An einem Wassertimpel lagert eine Kuhherde, der Hirt badet, sein Hund klafft einen Bullen an. Bezeichnet. Schw.Rahmen. Leinwand. 38,5X51 cm.",805,98.6,False,positional,Dirk van Berghen,,CORNICI,,
-BO0624_88507,240813,231,1645,1690.,807,61.5,False,positional,Dirk van Berghen,,,,Sec. XVII
+BO0624_88507,240813,231,1645,1690.,807,61.5,False,none,,,,,Sec. XVII
 BO0624_88507,240814,232,1657,1720.,811,61.5,False,positional,Pieter van Bloemen,,,,Sec. XVIII
-BO0624_88507,240815,233,240,"Italienische Bauern. Vor einem Wirtshaus sitzen und lagern Manner, Frauen und Kinder, spielend und trinkend. Im Hintergrund werden die Hauser einer Ort",814,98.7,False,positional,Pieter van Bloemen,,,,
+BO0624_88507,240815,233,240,"Italienische Bauern. Vor einem Wirtshaus sitzen und lagern Manner, Frauen und Kinder, spielend und trinkend. Im Hintergrund werden die Hauser einer Ort",814,98.7,False,none,,,,,
 BO0624_88507,240816,234,241,Alte Frau. Vor dunklem Hintergrund Brustbild einer hablichen Alten mit Brille und rotem Kopftuch. Sie singt von einem Notenblatt,820,98.4,False,positional,Pieter Brueghel,,,,
 BO0624_88507,240817,235,242,Venus und Amor. Vor einem Monument lagert Venus in Unterhaltung mit einem Amor. Links Blick auf eine Landschaft. Goldrahmen.Leinwand.25X34 cm.,824,98.6,False,positional,Lodovico Carracci,,,,
 BO0624_88507,240818,236,243,Landschaft. Im Vordergrund auf einer alten Weide lagert und weidet eine Kuh- 1747.,828,94.3,False,positional,Michael Carre,,,,Sec. XVIII
 BO0624_88507,240819,237,244,"Reltergefecht. Am Saum eines Waldes bekampfen sich die feindlichen Reiter,",838,97.3,False,positional,Jacques Courtois,,,,
-BO0624_88507,240820,238,1621,1676.,840,61.5,False,positional,Jacques Courtois,,,,Sec. XVII
-BO0624_88507,240821,239,18,Jahrh.,845,76.9,False,positional,Jacques Courtois,Scuola Bolognese,,,
-BO0624_88507,240822,240,245,"Stilleben. Auf einem Tisch malerisch aufgestapelt Bicher, Globus, Violine usw.",847,97.4,False,positional,Jacques Courtois,,,,
-BO0624_88507,240823,241,246,Jagd und Fischerei. Rechts vor einem groben Wasserbassin mit hohem Brunnenmonument mehrere Fischer bei der Arbeit. Ein junges Madchen bekommt den Fang in die geraffte Schurze. Links unter einem Baum ein groBes Frichtestilleben und zwei Jager mit Hund. Im Hintergrund eine gebirgige Landschaft mit SchloB am Jahrh. Madonna mit Kind. Kniebild der Gottesmutter in rotem Kleid und mit blauem Jahrh.,855,87.2,False,positional,Jacques Courtois,,,,
+BO0624_88507,240820,238,1621,1676.,840,61.5,False,none,,,,,Sec. XVII
+BO0624_88507,240821,239,18,Jahrh.,845,76.9,False,none,,Scuola Bolognese,,,
+BO0624_88507,240822,240,245,"Stilleben. Auf einem Tisch malerisch aufgestapelt Bicher, Globus, Violine usw.",847,97.4,False,none,,,,,
+BO0624_88507,240823,241,246,Jagd und Fischerei. Rechts vor einem groben Wasserbassin mit hohem Brunnenmonument mehrere Fischer bei der Arbeit. Ein junges Madchen bekommt den Fang in die geraffte Schurze. Links unter einem Baum ein groBes Frichtestilleben und zwei Jager mit Hund. Im Hintergrund eine gebirgige Landschaft mit SchloB am Jahrh. Madonna mit Kind. Kniebild der Gottesmutter in rotem Kleid und mit blauem Jahrh.,855,87.2,False,none,,,,,
 BO0624_88507,240824,242,248,Damenbildnis.Huftbild einer vornehmen Dame in dekolletiertem Kleid und gelb-,873,97.4,False,positional,van Dyck,,,,
 BO0624_88507,240825,243,249,Gesangstunde. In vornehmem Rokokosalon sitzt am Fligel der alte Lehrer. Neben 1675.,880,94.3,False,positional,J. F.E.,,,,Sec. XVII
 BO0624_88507,240826,244,250,Landschaft mit Wasserfall. Ueber Felsgewirr stirzt ein Gebirgsbach schaumend zur Tiefe. Strauchwerk bedeckt die kahlen Felsen. Im Hintergrund Hohenzige. Schwarzer Rahmen d.Zt. Holz. 26X20 cm.,889,98.9,False,positional,Allart van Everdingen,,CORNICI,,
-BO0624_88507,240827,245,251,Landschaft. Holl. Motiv. SchloB am Wasser.,895,95.0,False,positional,Allart van Everdingen,,,,
-BO0624_88507,240828,246,18,Jahrh.,899,76.9,False,positional,Allart van Everdingen,Scuola Bolognese,,,
-BO0624_88507,240829,247,253,"Damenbildnis. Brustbild einer jungen Dame in dekolletiertem, blauseidenem,mit Pelz verbramtem Kleid.Hohe, gepuderte Frisur. Schw.Rahmen.Lwd. 47X37 cm.",901,98.6,False,positional,Allart van Everdingen,,CORNICI,,
-BO0624_88507,240830,248,254,Allegorie. Vor einer Saulenhalle sitzt erhoht eine vornehme Dame mit Buch. Rechts zu ihren FuBen Krieger mit Fahne und Blick auf hellbeleuchtete Architektur. Reich verzierter Rokokorahmen.Leinwand. 58X42 cm.,902,99.0,False,positional,Allart van Everdingen,,,,
-BO0624_88507,240831,249,255,"Damenbildnis. Vor landschaftlichem Hintergrund sitzt eine vornehme junge Dame als Schaferin. Das lockige Haar ist dem Beschauer zugewandt. In der rechten Hand halt sie einen Stab, wahrend die Linke ein neben ihr ruhendes Schaf halt. Anmutiges Portrat. Schwarzer Rahmen.Leinwand.66X55 cm. Jahrh.",906,98.2,False,positional,Allart van Everdingen,,CORNICI,,
-BO0624_88507,240832,250,256,"Portrat eines Gelehrten. Neben einem Tisch, auf welchem aufgeschlagene Bicher",910,97.4,False,positional,Allart van Everdingen,,,,
-BO0624_88507,240833,251,257,Damenportrat. Brustbild einer vornehmen Dame mit Barett. Goldrahmen.Oval. Holz.29X25 cm.,915,97.7,False,positional,Allart van Everdingen,,OGGETTI IN LEGNO,,
-BO0624_88507,240834,252,258,"Dame mit Hund. Im Park sitzt auf einer Bank eine vornehme Dame, daneben",917,97.2,False,positional,Allart van Everdingen,,,,
+BO0624_88507,240827,245,251,Landschaft. Holl. Motiv. SchloB am Wasser.,895,95.0,False,none,,,,,
+BO0624_88507,240828,246,18,Jahrh.,899,76.9,False,none,,Scuola Bolognese,,,
+BO0624_88507,240829,247,253,"Damenbildnis. Brustbild einer jungen Dame in dekolletiertem, blauseidenem,mit Pelz verbramtem Kleid.Hohe, gepuderte Frisur. Schw.Rahmen.Lwd. 47X37 cm.",901,98.6,False,none,,,CORNICI,,
+BO0624_88507,240830,248,254,Allegorie. Vor einer Saulenhalle sitzt erhoht eine vornehme Dame mit Buch. Rechts zu ihren FuBen Krieger mit Fahne und Blick auf hellbeleuchtete Architektur. Reich verzierter Rokokorahmen.Leinwand. 58X42 cm.,902,99.0,False,none,,,,,
+BO0624_88507,240831,249,255,"Damenbildnis. Vor landschaftlichem Hintergrund sitzt eine vornehme junge Dame als Schaferin. Das lockige Haar ist dem Beschauer zugewandt. In der rechten Hand halt sie einen Stab, wahrend die Linke ein neben ihr ruhendes Schaf halt. Anmutiges Portrat. Schwarzer Rahmen.Leinwand.66X55 cm. Jahrh.",906,98.2,False,none,,,CORNICI,,
+BO0624_88507,240832,250,256,"Portrat eines Gelehrten. Neben einem Tisch, auf welchem aufgeschlagene Bicher",910,97.4,False,none,,,,,
+BO0624_88507,240833,251,257,Damenportrat. Brustbild einer vornehmen Dame mit Barett. Goldrahmen.Oval. Holz.29X25 cm.,915,97.7,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88507,240834,252,258,"Dame mit Hund. Im Park sitzt auf einer Bank eine vornehme Dame, daneben",917,97.2,False,none,,,,,
 BO0624_88507,240835,253,259,"Stilleben. Vor dunklem Hintergrund liegen auf einem Tisch mit zurickgeschobener Tischdecke ein Teller mit Messer und Zitrone, eine Schissel mit Pastete,ein groBer Weinhumpen und eine umgeworfene Prunkschale. 1695.",923,97.8,False,positional,Pieter Claesz Heda,,PIATTI,,Sec. XVII
 BO0624_88507,240836,254,260,"Geflugelhof. Neben einem Gefligelkorb steht ein Pfau, der von einem Hund angebelt wird. Darum allerhand anderes Gefligel.Goldr. Leinwand. 68X92 cm.",929,98.6,False,positional,Melchior d'Hondecoeter,,,,
-BO0624_88507,240837,255,261,"Geflugelstick. An einer Mauer ein weiBer Hahn und ein Huhn, welche iber einen Frosch erschrecken. Goldrahmen.Holz. 28X27 cm. Jahrh.",930,96.0,False,positional,Melchior d'Hondecoeter,,OGGETTI IN LEGNO,,
-BO0624_88507,240838,256,262,Madonna mit Kind. Brustbild der Gottesmutter vor goldenem Hintergrund.,936,97.1,False,positional,Melchior d'Hondecoeter,,,,
-BO0624_88507,240839,257,263,"Madonna mit Kind. Vor dunklem Hintergrund Kniebild der Gottesmutter,vor sich auf den Armen das nackte Kind haltend. Goldrahmen. Leinwand.102X88 cm.",937,98.6,False,positional,Melchior d'Hondecoeter,,,,
-BO0624_88507,240840,258,264,Madonna mit Kind. Kniebild der sitzenden Madonna in rotem Kleid und blauem,942,97.3,False,positional,Melchior d'Hondecoeter,,,,
-BO0624_88507,240841,259,17,Jahrh.,944,76.9,False,positional,Melchior d'Hondecoeter,Scuola Bolognese,,,
+BO0624_88507,240837,255,261,"Geflugelstick. An einer Mauer ein weiBer Hahn und ein Huhn, welche iber einen Frosch erschrecken. Goldrahmen.Holz. 28X27 cm. Jahrh.",930,96.0,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88507,240838,256,262,Madonna mit Kind. Brustbild der Gottesmutter vor goldenem Hintergrund.,936,97.1,False,none,,,,,
+BO0624_88507,240839,257,263,"Madonna mit Kind. Vor dunklem Hintergrund Kniebild der Gottesmutter,vor sich auf den Armen das nackte Kind haltend. Goldrahmen. Leinwand.102X88 cm.",937,98.6,False,none,,,,,
+BO0624_88507,240840,258,264,Madonna mit Kind. Kniebild der sitzenden Madonna in rotem Kleid und blauem,942,97.3,False,none,,,,,
+BO0624_88507,240841,259,17,Jahrh.,944,76.9,False,none,,Scuola Bolognese,,,
 BO0624_88507,240842,260,1593,1678.,952,61.5,False,positional,Jacob Jordaens,,,,Sec. XVII
-BO0624_88507,240843,261,265,Hl. Paulus. Kniebild des Heiligen in reichem Ornat. Der charakteristische bartige Kopf ist in andachtiger Gebarde nach oben gewandt. 1566.,954,96.6,False,positional,Jacob Jordaens,,,,Sec. XVI
+BO0624_88507,240843,261,265,Hl. Paulus. Kniebild des Heiligen in reichem Ornat. Der charakteristische bartige Kopf ist in andachtiger Gebarde nach oben gewandt. 1566.,954,96.6,False,none,,,,,Sec. XVI
 BO0624_88507,240844,262,266,"Damenbildnis.Huftbild einer jungen Dame in Miederkleid und mit gescheiteltem, lockigem Haar. In der rechten Hand halt sie einen Apfel. Dunkler Hintergrund.",961,98.7,False,positional,Lambert Lombard,,,,
 BO0624_88507,240845,263,267,"Interieur. In einer Bauernstube sitzen am Fenster, um einen Tisch, drei rauchende Bauern beim Kartenspiel. Bezeichnet. Schwarzer Rahmen.Holz. 37X31 cm. 1697.",966,97.0,False,positional,Jan Miense Molenaer,,ARREDAMENTI,,Sec. XVII
 BO0624_88507,240846,264,268,"Edymion und Luna. In gebirgiger Landschaft ist Edymion unter einem Baume, von der Jagd ermidet, eingeschlafen. Neben ihm ein Amor. Rechts erscheint auf einem von Schwanen getragenen Sessel Luna. Monogrammiert H. M. Jahrh. Christus, die Kinder im Tempel segnend. In der Mitte kniet die Gottesmutter, einem Hohepriester das nackte Knablein entgegenhaltend. Dahinter, vor Saulenarchitektur und links stehen die Gelehrten. Rechts, vor einem Ausblick in den Tempelhof, malerisch gekleidete Frauen mit Kindern. Schwarzer Rahmen.Holz. 156X190 cm. Jahrh. Landschaft. Links vor einer Ruine wird ein grober Gemisemarkt abgehalten. Rechts eine weite FluBlandschaft. Goldrahmen.Holz.63X53 cm. Jahrh.",980,63.2,False,positional,Hendrik Mommers,,CORNICI,,Sec. XVIII
 BO0624_88507,240847,265,271,Mannerbildnis. Brustbild des gelehrten Rabbiners David Benjamin Orti van B. Jahrh. Supraporte. Landschaft mit weidender Schafherde. Jahrh.,992,69.9,False,positional,,Hollandische Schule,OGGETTI VARI,,
-BO0624_88507,240848,266,273,Biblische Darstellung. Rechts im Vordergrund sitzt Christus und erklart das Gleichnis von der wunderbaren Brotvermehrung seinen Zuhorern. Im Hintergrund hugeliges Gelande. Schwarzer Rahmen. Holz. 61X79 cm.,1007,99.0,False,positional,,Hollandische Schule,CORNICI,,
-BO0624_88507,240849,267,274,"Guitarrespielerin.Vor geraffter Portiere sitzt eine vornehme Dame, daneben das Goldrahmen.Holz.20X15 cm.",1008,98.1,False,positional,,Hollandische Schule,OGGETTI IN LEGNO,,
-BO0624_88507,240850,268,275,Landschaft mit Hohlweg und Staffage. Schwarzer Rahmen. Holz. 25X28 cm.,1010,97.1,False,positional,,Hollandische Schule,CORNICI,,
-BO0624_88507,240851,269,276,Felsenlandschaft mit Staffage.,1011,93.5,False,positional,,Hollandische Schule,,,
+BO0624_88507,240848,266,273,Biblische Darstellung. Rechts im Vordergrund sitzt Christus und erklart das Gleichnis von der wunderbaren Brotvermehrung seinen Zuhorern. Im Hintergrund hugeliges Gelande. Schwarzer Rahmen. Holz. 61X79 cm.,1007,99.0,False,none,,,CORNICI,,
+BO0624_88507,240849,267,274,"Guitarrespielerin.Vor geraffter Portiere sitzt eine vornehme Dame, daneben das Goldrahmen.Holz.20X15 cm.",1008,98.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88507,240850,268,275,Landschaft mit Hohlweg und Staffage. Schwarzer Rahmen. Holz. 25X28 cm.,1010,97.1,False,none,,,CORNICI,,
+BO0624_88507,240851,269,276,Felsenlandschaft mit Staffage.,1011,93.5,False,none,,,,,
 BO0624_88507,240852,270,277,"Anbetung der hl. Konige. Vor einer Ruine sitzt die Gottesmutter in rotem Mantel mit dem Jesuskind auf dem SchoB, links daneben Joseph, dem sie ein kostbares WeihrauchgefaB reicht. Rechts knien und stehen die drei Konige mit ihrem Gefolge und bringen Geschenke dar. Im Hintergrund eine Gebirgslandschaft. Galeriebild.",1017,99.4,False,positional,Barend van Orley,,,,
 BO0624_88507,240853,271,278,"Aurora. In einem Triumphwagen, von zwei feurigen Schimmeln gezogen, steht 1546.",1021,94.0,False,positional,Giulio Pippi,,,,Sec. XVI
 BO0624_88507,240854,272,279,Mannerbildnis. Brustbild eines alten Mannes nach links. AeuBerst feiner Charakterkopf mit grauem Haar und Vollbart. Schwarzer Rahmen. Leinwand. 78X58 cm.,1029,98.7,False,positional,Rembrandt,,CORNICI,,
-BO0624_88507,240855,273,280,"Mannerbildnis. Brustbild eines vornehmen, bartigen Mannes in reicher Kleidung und mit schwarzem Sammetbarett. Goldrahmen.Leindwand.100X76 cm. Jahrh. Portrat eines Kurfursten.Huftbild in reichem Ornat, Hermelinmantel und kostbarem Pektorale. Neben ihm liegt ein reich verziertes Schwert und der Kurfirstenhut. Goldrahmen.Leinwand.92X68 cm. Jahrh.",1039,71.4,False,positional,Rembrandt,,,,
-BO0624_88507,240856,274,282,Zwei Rheinlandschaften. AeuBerst fein gemalte Landschaften.,1045,96.6,False,positional,Rembrandt,,,,
+BO0624_88507,240855,273,280,"Mannerbildnis. Brustbild eines vornehmen, bartigen Mannes in reicher Kleidung und mit schwarzem Sammetbarett. Goldrahmen.Leindwand.100X76 cm. Jahrh. Portrat eines Kurfursten.Huftbild in reichem Ornat, Hermelinmantel und kostbarem Pektorale. Neben ihm liegt ein reich verziertes Schwert und der Kurfirstenhut. Goldrahmen.Leinwand.92X68 cm. Jahrh.",1039,71.4,False,none,,,,,
+BO0624_88507,240856,274,282,Zwei Rheinlandschaften. AeuBerst fein gemalte Landschaften.,1045,96.6,False,none,,,,,
 BO0624_88507,240857,275,283,"Moses, Wasser schiagend. Vor einem dunklen Felsen steht Moses, umgeben",1050,97.1,False,positional,Peter Paul Rubens,,,,
-BO0624_88507,240858,276,284,Konig David. Brustbild in rotem Sammetmantel mit Hermelinkragen. Er begleitet sich auf der Harfe und hat das weibbartige Haupt nach oben gerichtet. Schwarzer Rahmen. Leinwand. 74X60 cm.,1052,98.9,False,positional,Peter Paul Rubens,,CORNICI,,
-BO0624_88507,240859,277,285,"Susanna im Bade. Vor einem Brunnen kauert die Nackte, dahinter die beiden 1742.",1056,94.0,False,positional,Peter Paul Rubens,,,,Sec. XVIII
+BO0624_88507,240858,276,284,Konig David. Brustbild in rotem Sammetmantel mit Hermelinkragen. Er begleitet sich auf der Harfe und hat das weibbartige Haupt nach oben gerichtet. Schwarzer Rahmen. Leinwand. 74X60 cm.,1052,98.9,False,none,,,CORNICI,,
+BO0624_88507,240859,277,285,"Susanna im Bade. Vor einem Brunnen kauert die Nackte, dahinter die beiden 1742.",1056,94.0,False,none,,,,,Sec. XVIII
 BO0624_88507,240860,278,286,Schlachtendarstellung. Auf einem grinen Hugel sind die feindlichen Reiter in heibem Kampie aneinander geraten. Im Hintergrund wird ein Zeltlager sichtbar. Bewolkter Himmel.Wallensteinsche Kostime. Goldrahmen.Leinwand.43X62 cm.,1063,99.1,False,positional,Georg Philipp Rugendas,,,,
-BO0624_88507,240861,279,286,a Schlachtendarstellung. Aehnliche Darstellung wie voriges. Gegenstick. 1742.,1065,94.4,False,positional,Georg Philipp Rugendas,,,,Sec. XVIII
+BO0624_88507,240861,279,286,a Schlachtendarstellung. Aehnliche Darstellung wie voriges. Gegenstick. 1742.,1065,94.4,False,none,,,,,Sec. XVIII
 BO0624_88507,240862,280,287,Reiterschlacht. Links vor einer bewaldeten Anhohe ist zwischen feindlichen Reitern ein heiBer Kampf entbrannt. Rechts im Tal Fliehende und eine befestigte Anhohe. 1681.,1072,97.2,False,positional,Georg Philipp Rugendas,,OGGETTI VARI,,Sec. XVII
 BO0624_88507,240863,281,288,"Landschaft. Am Rande eines Waldsees jagen zwei Reiter einen Hirsch, der",1079,97.2,False,positional,Jacob Sal. van Ruisdael,,,,
 BO0624_88507,240864,282,289,"Landschaft. Durch bewaldetes Gelande ein Bach, der im Vordergrund von einer Holzbricke iberspannt wird. Goldrahmen.Holz.42X60 cm. Jahrh.",1084,96.2,False,positional,Ruysdael,,OGGETTI IN LEGNO,,
-BO0624_88507,240865,283,290,"Zwei Tafelgemalde. Vor goldgemustertem Hintergrund nackte, tanzende Putten. Goldrahmen.Holz.90X112 cm. Jahrh.",1090,95.1,False,positional,Ruysdael,,OGGETTI IN LEGNO,,
-BO0624_88507,240866,284,291,Christus. Vor dunklem Hintergrund Brustbild in rotem Mantel nach rechts.,1096,97.2,False,positional,Ruysdael,,,,
+BO0624_88507,240865,283,290,"Zwei Tafelgemalde. Vor goldgemustertem Hintergrund nackte, tanzende Putten. Goldrahmen.Holz.90X112 cm. Jahrh.",1090,95.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88507,240866,284,291,Christus. Vor dunklem Hintergrund Brustbild in rotem Mantel nach rechts.,1096,97.2,False,none,,,,,
 BO0624_88507,240867,285,292,Lustige Gesellschaft. In einer Bauernschenke sitzen um Tische Landsknechte,1101,97.3,False,positional,Antoine Palamedesz Stevaerts,,,,
-BO0624_88507,240868,286,293,Konversation.In vornehmem Gemach ist eine groBe Gesellschaft von Damen und,1106,97.4,False,positional,Antoine Palamedesz Stevaerts,,,,
-BO0624_88507,240869,287,294,Konversation.Aehnliche Darstellung wie vorige. 1690.,1111,90.9,False,positional,Antoine Palamedesz Stevaerts,,,,Sec. XVII
+BO0624_88507,240868,286,293,Konversation.In vornehmem Gemach ist eine groBe Gesellschaft von Damen und,1106,97.4,False,none,,,,,
+BO0624_88507,240869,287,294,Konversation.Aehnliche Darstellung wie vorige. 1690.,1111,90.9,False,none,,,,,Sec. XVII
 BO0624_88507,240870,288,295,Bauernstuben-Interieur. In der Mitte einer Bauernstube sitzt an einem FaB ein Trinker mit Pfeife und Steinkrug. Er unterhalt sich mit einer in der Ecke sitzenSchwarzer Rahmen.Leinwand. 29X39 cm.,1117,99.0,False,positional,David Teniers d.J.,,ARREDAMENTI,,
-BO0624_88507,240871,289,296,Bauernbelustigung. Links vor einem Wirtshaus sitzen trinkende und schmausende Manner und Frauen. Im Vordergrund kugelspielende und rechts im Hintergrund tanzende Paare. Schwarzer Rahmen. Leinwand auf Holz.30X40 cm.,1118,99.1,False,positional,David Teniers d.J.,,CORNICI,,
+BO0624_88507,240871,289,296,Bauernbelustigung. Links vor einem Wirtshaus sitzen trinkende und schmausende Manner und Frauen. Im Vordergrund kugelspielende und rechts im Hintergrund tanzende Paare. Schwarzer Rahmen. Leinwand auf Holz.30X40 cm.,1118,99.1,False,none,,,CORNICI,,
 BO0624_88507,240872,290,297,"Allegorie. Auf Wolken thronend die Gottesmutter in rotem Kleid und blauem Mantel, ihr zur Seite sitzt das segnende Jesuskind. Die Wolkengebilde werden von schwebenden Engeln getragen. Goldrahmen.Leinwand.64X46cm.",1122,99.0,False,positional,Giov. Domenico Tiepolo,,,,
 BO0624_88507,240873,291,298,Venus und Amor. Kopie nach dem bekannten Bild Tizians. Goldrahmen.Leinwand.74X102 cm.,1126,97.6,False,title_direct,Tizian,,,,
-BO0624_88507,240874,292,299,Madonna. Brustbild der Gottesmutter in rotem Kleid und mit blauem Kopftuch. Schwarzer Rahmen.Leinwand. 64X52 cm.,1130,98.2,False,positional,Tizian,,CORNICI,,
-BO0624_88507,240875,293,300,Tierstuick.In einer Hutte liegt ein weiBer Pudel. Schw.Rahmen. Lwd. 64X52 cm.,1131,97.3,False,positional,Tizian,,CORNICI,,
+BO0624_88507,240874,292,299,Madonna. Brustbild der Gottesmutter in rotem Kleid und mit blauem Kopftuch. Schwarzer Rahmen.Leinwand. 64X52 cm.,1130,98.2,False,none,,,CORNICI,,
+BO0624_88507,240875,293,300,Tierstuick.In einer Hutte liegt ein weiBer Pudel. Schw.Rahmen. Lwd. 64X52 cm.,1131,97.3,False,none,,,CORNICI,,
 BO0624_88507,240876,294,301,Landschaft. Bauernhaus am Bach unter Baumen. Leinwand.64X54 cm.,1132,96.8,False,title_direct,K. Bauer,,,,
-BO0624_88507,240877,295,302,Landschaft. Aehnlich wie vorige. 1629.,1133,87.0,False,positional,Tizian,,,,Sec. XVII
+BO0624_88507,240877,295,302,Landschaft. Aehnlich wie vorige. 1629.,1133,87.0,False,none,,,,,Sec. XVII
 BO0624_88507,240878,296,303,Landschaft. Durch eine wilde Gebirgslandschaft windet sich ein FluB. Auf den Hohen werden Schlosser und an den Hangen Dorfer sichtbar. Auf dem Wege im Vordergrund ein Hirt mit Schafherde und links Wanderer. Jahrh.,1139,97.6,False,positional,David Vinck-Boons,,SCATOLE,,
-BO0624_88507,240879,297,304,"Madonna mit Kind. Unter geraffter Portiere Kniebild der Madonna, dem Kind die",1148,97.4,False,positional,David Vinck-Boons,,,,
-BO0624_88507,240880,298,305,Hl. Petrus.Vor landschaftlichem Hintergrund ganze Figur des Heiligen in schreitender Stellung. Holz.28X18cm.,1149,98.1,False,positional,David Vinck-Boons,,OGGETTI IN LEGNO,,
-BO0624_88507,240881,299,306,"Hl. Franziskus. Vor landschaftlichem Hintergrund der Heilige in Monchskutte, in der Hand ein Kruzifix haltend. Holz.28X18cm.",1150,98.3,False,positional,David Vinck-Boons,,OGGETTI IN LEGNO,,
-BO0624_88507,240882,300,307,Ruckkehr des verlorenen Sohnes. Im Vordergrund des Hofes begriBt der Vater den heimkehrenden Sohn. Im Hintergrund trift man Anstalten fir die Festlichkeit. Schwarzer Rahmen.Holz. 25X19 cm.,1151,98.9,False,positional,David Vinck-Boons,,CORNICI,,
-BO0624_88507,240883,301,308,Grablegung. Fluigelbild. Die heiligen Manner legen auf Ticher den fahlen Leichnam Christi ins Grab vor einem Grashigel. In andachtigem Gebet knien die hl.Frauen darum.Im Hintergrund die Auferstehung. Metallrahmen.Holz.60X35 cm.,1152,99.1,False,positional,David Vinck-Boons,,OGGETTI IN LEGNO,,
-BO0624_88507,240884,302,309,Madonna mit Kind. Unter geraffter griner Portiere Kniebild der Gottesmutter in rotem Kleid und blauem Mantel. Dem auf dem rechten Arm haltenden Knablein,1153,98.7,False,positional,David Vinck-Boons,,,,
-BO0624_88507,240885,303,310,Madonna. Vor dunklem Hintergrund Brustbild der Gottesmutter mit blauem Kopftuch. Schwarzer Rahmen.Holz. 46X35 cm. Jahrh.,1158,95.6,False,positional,David Vinck-Boons,,CORNICI,,
-BO0624_88507,240886,304,311,"Anbetung der Hirten. In einer Grotte kniet Maria mit dem Neugeborenen, dahinter steht Joseph. Rechts knien andachtig die herbeigeeilten Hirten.",1162,98.6,False,positional,David Vinck-Boons,,,,
-BO0624_88507,240887,305,312,Anbetung der hl. Konige. In einer Saulenhalle sitzt rechts die hl. Familie. Links die Konige mit zahlreichem Gefolge. Sie bringen kostbare Geschenke dar. Schwarzer Rahmen. Holz. 65X51 cm. 1653.,1166,97.5,False,positional,David Vinck-Boons,,CORNICI,,Sec. XVII
+BO0624_88507,240879,297,304,"Madonna mit Kind. Unter geraffter Portiere Kniebild der Madonna, dem Kind die",1148,97.4,False,none,,,,,
+BO0624_88507,240880,298,305,Hl. Petrus.Vor landschaftlichem Hintergrund ganze Figur des Heiligen in schreitender Stellung. Holz.28X18cm.,1149,98.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88507,240881,299,306,"Hl. Franziskus. Vor landschaftlichem Hintergrund der Heilige in Monchskutte, in der Hand ein Kruzifix haltend. Holz.28X18cm.",1150,98.3,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88507,240882,300,307,Ruckkehr des verlorenen Sohnes. Im Vordergrund des Hofes begriBt der Vater den heimkehrenden Sohn. Im Hintergrund trift man Anstalten fir die Festlichkeit. Schwarzer Rahmen.Holz. 25X19 cm.,1151,98.9,False,none,,,CORNICI,,
+BO0624_88507,240883,301,308,Grablegung. Fluigelbild. Die heiligen Manner legen auf Ticher den fahlen Leichnam Christi ins Grab vor einem Grashigel. In andachtigem Gebet knien die hl.Frauen darum.Im Hintergrund die Auferstehung. Metallrahmen.Holz.60X35 cm.,1152,99.1,False,none,,,OGGETTI IN LEGNO,,
+BO0624_88507,240884,302,309,Madonna mit Kind. Unter geraffter griner Portiere Kniebild der Gottesmutter in rotem Kleid und blauem Mantel. Dem auf dem rechten Arm haltenden Knablein,1153,98.7,False,none,,,,,
+BO0624_88507,240885,303,310,Madonna. Vor dunklem Hintergrund Brustbild der Gottesmutter mit blauem Kopftuch. Schwarzer Rahmen.Holz. 46X35 cm. Jahrh.,1158,95.6,False,none,,,CORNICI,,
+BO0624_88507,240886,304,311,"Anbetung der Hirten. In einer Grotte kniet Maria mit dem Neugeborenen, dahinter steht Joseph. Rechts knien andachtig die herbeigeeilten Hirten.",1162,98.6,False,none,,,,,
+BO0624_88507,240887,305,312,Anbetung der hl. Konige. In einer Saulenhalle sitzt rechts die hl. Familie. Links die Konige mit zahlreichem Gefolge. Sie bringen kostbare Geschenke dar. Schwarzer Rahmen. Holz. 65X51 cm. 1653.,1166,97.5,False,none,,,CORNICI,,Sec. XVII
 BO0624_88507,240888,306,313,Marine. Auf der ruhigen See im Vordergrund eini Fischerboot mit der Oranier-,1173,97.4,False,positional,Simon de Vlieger,,,,
 BO0624_88507,240889,307,1621,1664.,1180,61.5,False,positional,Jan Baptist Weenix,,,,Sec. XVII
 BO0624_88507,240890,308,315,"Landschaft. Links ansteigendes Waldgelande, rechts ein See, an dessen Ufer 1660.",1189,94.0,False,positional,Jan Wijnants,,,,Sec. XVII
@@ -312,6 +312,6 @@ BO0624_88507,240892,310,317,Heilige Cacilia. Vor geraffter Portiere sitzt die He
 BO0624_88507,240893,311,318,Die heilige Familie. Handkoloriert. J. B.Paggius Patr. Genuensis.Pict. stud. inv.,1212,97.4,False,positional,"Barbe,J. Baptista",,,,
 BO0624_88507,240894,312,319,"10 Blatt kolorierte Stiche:Aus dem Leben Christi.Dominicale Paschale et n verziertem Rahmen.Plgr.19,5X14 cm.",1217,78.0,False,positional,"Mayr, Joh.Bapt.",,CORNICI,,
 BO0624_88507,240895,313,320,Landschaft am Bach. In der Ferne ein Dorf.,1222,95.2,False,positional,Peter Bicken,,,,
-BO0624_88507,240896,314,321,Interieur. Blick in das Innere einer Eifelbauernkiche. Dunkl. Rahm.24X34 cm.,1226,97.3,False,positional,Peter Bicken,,ARREDAMENTI,,
-BO0624_88507,240897,315,322,Verwundeten-Transport. Vor einem Dorfe ist ein Ochsengespann mit verwundeten Jahrh.,1230,93.8,False,positional,Peter Bicken,,,,
-BO0624_88507,240898,316,323,Kirchen-Interieur. Blick in das Mittelschiff eines Domes mit reicher Staffage.,1239,97.4,False,positional,Peter Bicken,,ARREDAMENTI,,
+BO0624_88507,240896,314,321,Interieur. Blick in das Innere einer Eifelbauernkiche. Dunkl. Rahm.24X34 cm.,1226,97.3,False,none,,,ARREDAMENTI,,
+BO0624_88507,240897,315,322,Verwundeten-Transport. Vor einem Dorfe ist ein Ochsengespann mit verwundeten Jahrh.,1230,93.8,False,none,,,,,
+BO0624_88507,240898,316,323,Kirchen-Interieur. Blick in das Mittelschiff eines Domes mit reicher Staffage.,1239,97.4,False,none,,,ARREDAMENTI,,

@@ -2,25 +2,25 @@ catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confide
 BO0624_88801,613025,1,1,"ROMISCH,1.JAHRHUNDERT N.CHR.",1,98.2,False,none,,Scuola Romana,,,
 BO0624_88801,613026,2,3,"FLORENZ,UM 1450.",22,96.8,False,none,,,,,Sec. XV
 BO0624_88801,613027,3,4,"ANDREA DELLA ROBBIA,WERKSTATT. n einer Muschelnische Christus mit Nimbus. Profilierte Rahmung mit Lorbeer girlande und Eierstab. Unten Fries von sechs geflugelten Engelskopfen, die durch Lorbeergirlanden verbunden sind. Bekronung Palmette,unten seitlich rechts und links je eine Rosette. Das Figurliche und die Profile weif, Nimbus",44,95.3,False,title_direct,ANDREA DELLA ROBBIA,Scuola di Giovanni Della Robbia,,,
-BO0624_88801,613028,4,5,"ROBBIA-WERKSTATT,UM1500.",51,97.9,False,positional,ANDREA DELLA ROBBIA,,,,
-BO0624_88801,613029,5,6,"VENEZIANISCH,UM 1550.",59,97.6,False,positional,ANDREA DELLA ROBBIA,Scuola Veneziana,,,Sec. XVI
-BO0624_88801,613030,6,7,"ITALIENISCH,16.JAHRHUNDERT.",71,98.1,False,positional,ANDREA DELLA ROBBIA,,,,
-BO0624_88801,613031,7,8,"BOLOGNA,1.HALFTE 17.JAHRHUNDERT.",83,98.4,False,positional,ANDREA DELLA ROBBIA,Scuola Bolognese,,,
-BO0624_88801,613032,8,9,"12 ITALIENISCH,wohI LOMBARDISCH,17.JAHRHUNDERT.",88,97.9,False,positional,ANDREA DELLA ROBBIA,Scuola Lombarda,,,
-BO0624_88801,613033,9,13,"ITALIENISCH,UM 1800.",98,92.7,False,positional,ANDREA DELLA ROBBIA,,,,Sec. XIX
-BO0624_88801,613034,10,14,"NIEDERLANDISCH,17.JAHRHUNDERT.",104,95.1,False,positional,ANDREA DELLA ROBBIA,,,,
+BO0624_88801,613028,4,5,"ROBBIA-WERKSTATT,UM1500.",51,97.9,False,none,DELLA ROBBIA ANDREA,,,,
+BO0624_88801,613029,5,6,"VENEZIANISCH,UM 1550.",59,97.6,False,none,,Scuola Veneziana,,,Sec. XVI
+BO0624_88801,613030,6,7,"ITALIENISCH,16.JAHRHUNDERT.",71,98.1,False,none,,,,,
+BO0624_88801,613031,7,8,"BOLOGNA,1.HALFTE 17.JAHRHUNDERT.",83,98.4,False,none,,Scuola Bolognese,,,
+BO0624_88801,613032,8,9,"12 ITALIENISCH,wohI LOMBARDISCH,17.JAHRHUNDERT.",88,97.9,False,none,,Scuola Lombarda,,,
+BO0624_88801,613033,9,13,"ITALIENISCH,UM 1800.",98,92.7,False,none,,,,,Sec. XIX
+BO0624_88801,613034,10,14,"NIEDERLANDISCH,17.JAHRHUNDERT.",104,95.1,False,none,,,,,
 BO0624_88801,613035,11,15,"VEIT STOSS (um 1450 Nurnberg 1533),WERKSTATT.",112,96.6,False,title_direct,VEIT STOSS,Scuola di Norimberga,,,Sec. XV
-BO0624_88801,613036,12,16,"FRANKISCH,ANFANG 16.JAHRHUNDERT.",126,96.9,False,positional,VEIT STOSS,,,,
+BO0624_88801,613036,12,16,"FRANKISCH,ANFANG 16.JAHRHUNDERT.",126,96.9,False,none,,,,,
 BO0624_88801,613037,13,17,"PETER FLOTNER (tatig in Nurnberg, gest.1546).",136,96.5,False,title_direct,PETER FLOTNER,Scuola di Norimberga,,,Sec. XVI
 BO0624_88801,613038,14,20,"AMBRUOGIO LORENZETTI (tatig Siena, ca.1323-1345).",168,96.8,False,title_direct,AMBRUOGIO LORENZETTI,Scuola Senese,,,Sec. XIV
 BO0624_88801,613039,15,21,FRANCESCO BONSIGNORI (1455Verona 1519).,184,96.0,False,title_direct,FRANCESCO BONSIGNORI,,,,Sec. XVI
 BO0624_88801,613040,16,24,"BERNARDINO LUINI (1475 Luini,1530).",235,95.5,False,title_direct,BERNARDINO LUINI,,,,Sec. XV
 BO0624_88801,613041,17,25,"BERNARDINO DI ANTONIO LICINIO,GEN.PORDENONE (ca.1490 dentifizierung der Dargestellten durch Vergleich mit dem Bildnis Luinis auf dem Fresko neben dem Hochaltar von San Maurizio in Mailand. Vgl. Hans Floerke,Der Mensch der Renaissance und seine Kleidung, Munchen 1917,",263,89.2,False,title_direct,BERNARDINO DI ANTONIO LICINIO,,,,Sec. XV
-BO0624_88801,613042,18,26,"MAILANDISCHE SCHULE,1.HALFTE 16.JAHRHUNDERT.",276,96.6,False,positional,BERNARDINO DI ANTONIO LICINIO,Scuola Milanese,,,
+BO0624_88801,613042,18,26,"MAILANDISCHE SCHULE,1.HALFTE 16.JAHRHUNDERT.",276,96.6,False,none,,Scuola Milanese,,,
 BO0624_88801,613043,19,28,"LAVINIA FONTANA (1552Bologna,Rom 1614).",296,96.0,False,title_direct,LAVINIA FONTANA,,,,Sec. XVII
-BO0624_88801,613044,20,34,"ANTWERPNER MEISTER,UM 1520.",366,96.3,False,positional,LAVINIA FONTANA,,,,Sec. XVI
-BO0624_88801,613045,21,I,"m Vordergrunde einer Landschaft,mit Bergen, Gewassern,Burgen und An= siedelungen,sitzt in der Mitte Maria,das Kind haltend,das in ine,auf ihrem SchoBe stehende flache Schale mit Kirschen greift. Links, halb kniend, die heilige Katharina mit Schwert und Ring,rechts sitzend eine Heilige mit Palm zweig,die dem Kinde eine Blume reicht. Im Mittelgrund rechts Joseph,links Engel, die an einem Baume Apfel schutteln. In der Hohe Erscheinung des segnenden Gottvater und der Taube.",370,99.9,False,positional,LAVINIA FONTANA,,OGGETTI VARI,,
-BO0624_88801,613046,22,36,"NIEDERLANDISCH,2.HALFTE 16.JAHRHUNDERT.",391,96.2,False,positional,LAVINIA FONTANA,,,,
+BO0624_88801,613044,20,34,"ANTWERPNER MEISTER,UM 1520.",366,96.3,False,none,,,,,Sec. XVI
+BO0624_88801,613045,21,I,"m Vordergrunde einer Landschaft,mit Bergen, Gewassern,Burgen und An= siedelungen,sitzt in der Mitte Maria,das Kind haltend,das in ine,auf ihrem SchoBe stehende flache Schale mit Kirschen greift. Links, halb kniend, die heilige Katharina mit Schwert und Ring,rechts sitzend eine Heilige mit Palm zweig,die dem Kinde eine Blume reicht. Im Mittelgrund rechts Joseph,links Engel, die an einem Baume Apfel schutteln. In der Hohe Erscheinung des segnenden Gottvater und der Taube.",370,99.9,False,none,,,OGGETTI VARI,,
+BO0624_88801,613046,22,36,"NIEDERLANDISCH,2.HALFTE 16.JAHRHUNDERT.",391,96.2,False,none,,,,,
 BO0624_88801,613047,23,42,"CORNELIS HOLSTEYN (1618Haarlem,Amsterdam 1658).",483,96.7,False,title_direct,CORNELIS HOLSTEYN,,,,Sec. XVII
 BO0624_88801,613048,24,43,"FERDINAND BOL (1616 Dordrecht,Amsterdam 1680).",495,96.6,False,title_direct,FERDINAND BOL,,,,Sec. XVII
 BO0624_88801,613049,25,44,"PHILIPP WOUWERMAN (1619,Haarlem 1668).",511,95.9,False,title_direct,PHILIPP WOUWERMAN,,,,Sec. XVII
@@ -36,34 +36,34 @@ BO0624_88801,613058,34,56,"FRANCOIS BOUCHER (1703,Paris 1770).",650,95.5,False,t
 BO0624_88801,613059,35,57,"CHARLES ANDRE VAN LOO (1705 Nizza,Paris 1765).",660,96.6,False,title_direct,CHARLES ANDRE VAN LOO,,,,Sec. XVIII
 BO0624_88801,613060,36,58,NORBERT SECKL (1725-1748).,670,93.9,False,title_direct,NORBERT SECKL,,,,Sec. XVIII
 BO0624_88801,613061,37,59,"ANTON GRAFF (1736 Winterthur,Dresden 1813),zugeschrieben.",680,97.3,False,title_direct,ANTON GRAFF,,,,Sec. XVIII
-BO0624_88801,613062,38,63,"OSTERREICHISCH,ENDE 18.JAHRHUNDERT.",711,95.8,False,positional,ANTON GRAFF,,,,
+BO0624_88801,613062,38,63,"OSTERREICHISCH,ENDE 18.JAHRHUNDERT.",711,95.8,False,none,,,,,
 BO0624_88801,613063,39,66,EDOUARD GAUTIER D'AGOTY (1745Paris-1783Florenz).,746,96.8,False,title_direct,EDOUARD GAUTIER D'AGOTY,,,,
 BO0624_88801,613064,40,67,EDOUARD GAUTIER D'AGOTY (1745 Paris-1783 Florenz).,760,97.9,False,title_direct,EDOUARD GAUTIER D'AGOTY,,,,Sec. XVIII
 BO0624_88801,613065,41,68,CARLO LASINIO (1757 Treviso-1838Pisa).,774,95.9,False,title_direct,CARLO LASINIO,,,,Sec. XVIII
 BO0624_88801,613066,42,69,CARLO LASINIO (1757 Treviso-1838Pisa).,784,95.9,False,title_direct,CARLO LASINIO,,,,Sec. XVIII
-BO0624_88801,613067,43,70,"BRUSSEL,2.HALFTE 18.JAHRHUNDERT. n einer Waldlichtung berittene Hirten mit Kamelen,Hunden und Ziegen,im Begriff zu rasten; ein Mann hebt eine Frau vom Pferd. Der Gruppe voraus schreitet ein Engel, seine rechte Hand weist auf die bergige Landschaft. Borte gebildet aus Blumengewinden mit groBen Akanthusblattern,eingefaBt von Akanthusstab und wellig verkreuzten Bandern,die Ecken sowie die obere und untere Mitte durch Rosetten betont.",797,96.0,False,positional,CARLO LASINIO,,OGGETTI VARI,,
-BO0624_88801,613068,44,71,"DEUTSCH,ENDE 17.JAHRHUNDERT.",805,94.7,False,positional,CARLO LASINIO,,,,
-BO0624_88801,613069,45,72,"SCHLESWIGHOLSTEIN,17.JAHRHUNDERT.",813,95.5,False,positional,CARLO LASINIO,,,,
-BO0624_88801,613070,46,73,"PERSIEN,19.JAHRHUNDERT.",823,93.6,False,positional,CARLO LASINIO,,,,
-BO0624_88801,613071,47,74,"SPANISCHMAURISCH,17.JAHRHUNDERT.",831,95.4,False,positional,CARLO LASINIO,,,,
-BO0624_88801,613072,48,77,"BASEL,UM 1500.",866,92.9,False,positional,CARLO LASINIO,,,,Sec. XVI
-BO0624_88801,613073,49,I,"n Truhenform.Auf kassettiertem Grund an den Langsseiten Fabeltiere,Eich= hornchen und Hasen,an den Schmalseiten je ein Vogel. Deckel mit von zwei Lowen gehaltenem Wappenschild mit den Buchstaben ,bk""und Helmzier. Ausgeschnittener Sockel, ebenfalls mit Tierdarstellungen.",870,99.8,False,positional,CARLO LASINIO,,,,
-BO0624_88801,613074,50,27,",5cm,Tiefe 15 cm.",874,90.9,False,positional,CARLO LASINIO,,,,
-BO0624_88801,613075,51,78,"DEUTSCH,16.JAHRHUNDERT.",878,95.7,False,positional,CARLO LASINIO,,,,
-BO0624_88801,613076,52,79,"FRANZOSISCH,UM 1830/40.",885,93.6,False,positional,CARLO LASINIO,,,,Sec. XIX
+BO0624_88801,613067,43,70,"BRUSSEL,2.HALFTE 18.JAHRHUNDERT. n einer Waldlichtung berittene Hirten mit Kamelen,Hunden und Ziegen,im Begriff zu rasten; ein Mann hebt eine Frau vom Pferd. Der Gruppe voraus schreitet ein Engel, seine rechte Hand weist auf die bergige Landschaft. Borte gebildet aus Blumengewinden mit groBen Akanthusblattern,eingefaBt von Akanthusstab und wellig verkreuzten Bandern,die Ecken sowie die obere und untere Mitte durch Rosetten betont.",797,96.0,False,none,,,OGGETTI VARI,,
+BO0624_88801,613068,44,71,"DEUTSCH,ENDE 17.JAHRHUNDERT.",805,94.7,False,none,,,,,
+BO0624_88801,613069,45,72,"SCHLESWIGHOLSTEIN,17.JAHRHUNDERT.",813,95.5,False,none,,,,,
+BO0624_88801,613070,46,73,"PERSIEN,19.JAHRHUNDERT.",823,93.6,False,none,,,,,
+BO0624_88801,613071,47,74,"SPANISCHMAURISCH,17.JAHRHUNDERT.",831,95.4,False,none,,,,,
+BO0624_88801,613072,48,77,"BASEL,UM 1500.",866,92.9,False,none,,,,,Sec. XVI
+BO0624_88801,613073,49,I,"n Truhenform.Auf kassettiertem Grund an den Langsseiten Fabeltiere,Eich= hornchen und Hasen,an den Schmalseiten je ein Vogel. Deckel mit von zwei Lowen gehaltenem Wappenschild mit den Buchstaben ,bk""und Helmzier. Ausgeschnittener Sockel, ebenfalls mit Tierdarstellungen.",870,99.8,False,none,,,,,
+BO0624_88801,613074,50,27,",5cm,Tiefe 15 cm.",874,90.9,False,none,,,,,
+BO0624_88801,613075,51,78,"DEUTSCH,16.JAHRHUNDERT.",878,95.7,False,none,,,,,
+BO0624_88801,613076,52,79,"FRANZOSISCH,UM 1830/40.",885,93.6,False,none,,,,,Sec. XIX
 BO0624_88801,613077,53,80,"PARIS,UM 1800,Von THOMIRE.",893,94.3,False,title_direct,THOMIRE,,,,Sec. XIX
-BO0624_88801,613078,54,81,"SUDDEUTSCH,ANFANG 18.JAHRHUNDERT.",905,95.5,False,positional,THOMIRE,,,,
-BO0624_88801,613079,55,82,"MANTUA,UM 1460.",916,93.3,False,positional,THOMIRE,,,,Sec. XV
-BO0624_88801,613080,56,83,"FLORENZ,UM1550.",930,90.3,False,positional,THOMIRE,,,,
-BO0624_88801,613081,57,84,"ITALIEN,UM 1550.",940,90.9,False,positional,THOMIRE,,,,Sec. XVI
-BO0624_88801,613082,58,85,"OBERITALIEN,1.HALFTE 16.JAHRHUNDERT.",948,95.9,False,positional,THOMIRE,,,,
-BO0624_88801,613083,59,86,"ITALIEN,16.JAHRHUNDERT.",960,93.6,False,positional,THOMIRE,,,,
-BO0624_88801,613084,60,87,"SUDTIROL oder ITALIEN,UM 1500.",971,95.1,False,positional,THOMIRE,,,,Sec. XVI
-BO0624_88801,613085,61,88,"SUDTIROL,17.JAHRHUNDERT.",981,93.9,False,positional,THOMIRE,,,,
-BO0624_88801,613086,62,89,"FRANZOSISCH,UM 1600.",991,95.0,False,positional,THOMIRE,,,,Sec. XVII
-BO0624_88801,613087,63,90,"EGER,1.HALFTE 17.JAHRHUNDERT.",1001,94.9,False,positional,THOMIRE,,,,
-BO0624_88801,613088,64,91,"FRANZOSISCH,1.HALFTE 18.JAHRHUNDERT.",1014,97.2,False,positional,THOMIRE,,,,
-BO0624_88801,613089,65,92,"FRANZOSISCH,2.VIERTEL 18.JAHRHUNDERT.",1028,97.3,False,positional,THOMIRE,,,,
-BO0624_88801,613090,66,93,"FRANZOSISCH,UM 1750.",1036,95.0,False,positional,THOMIRE,,,,Sec. XVIII
+BO0624_88801,613078,54,81,"SUDDEUTSCH,ANFANG 18.JAHRHUNDERT.",905,95.5,False,none,,,,,
+BO0624_88801,613079,55,82,"MANTUA,UM 1460.",916,93.3,False,none,,,,,Sec. XV
+BO0624_88801,613080,56,83,"FLORENZ,UM1550.",930,90.3,False,none,,,,,
+BO0624_88801,613081,57,84,"ITALIEN,UM 1550.",940,90.9,False,none,,,,,Sec. XVI
+BO0624_88801,613082,58,85,"OBERITALIEN,1.HALFTE 16.JAHRHUNDERT.",948,95.9,False,none,,,,,
+BO0624_88801,613083,59,86,"ITALIEN,16.JAHRHUNDERT.",960,93.6,False,none,,,,,
+BO0624_88801,613084,60,87,"SUDTIROL oder ITALIEN,UM 1500.",971,95.1,False,none,,,,,Sec. XVI
+BO0624_88801,613085,61,88,"SUDTIROL,17.JAHRHUNDERT.",981,93.9,False,none,,,,,
+BO0624_88801,613086,62,89,"FRANZOSISCH,UM 1600.",991,95.0,False,none,,,,,Sec. XVII
+BO0624_88801,613087,63,90,"EGER,1.HALFTE 17.JAHRHUNDERT.",1001,94.9,False,none,,,,,
+BO0624_88801,613088,64,91,"FRANZOSISCH,1.HALFTE 18.JAHRHUNDERT.",1014,97.2,False,none,,,,,
+BO0624_88801,613089,65,92,"FRANZOSISCH,2.VIERTEL 18.JAHRHUNDERT.",1028,97.3,False,none,,,,,
+BO0624_88801,613090,66,93,"FRANZOSISCH,UM 1750.",1036,95.0,False,none,,,,,Sec. XVIII
 BO0624_88801,613091,67,94,"DAVID ROENTGEN,Nachfolge,UM 1780.",1046,95.5,False,title_direct,DAVID ROENTGEN,,,,Sec. XVIII
-BO0624_88801,613092,68,95,"FRANZOSISCH,1.HALFTE 19.JAHRHUNDERT.",1058,95.9,False,positional,DAVID ROENTGEN,,,,
+BO0624_88801,613092,68,95,"FRANZOSISCH,1.HALFTE 19.JAHRHUNDERT.",1058,95.9,False,none,,,,,

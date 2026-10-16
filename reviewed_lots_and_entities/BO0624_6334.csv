@@ -76,21 +76,21 @@ BO0624_6334,74875,74,87,SCUOLA CREMONESE. Madonna col Bambino.,837,69.0,False,ti
 BO0624_6334,74876,75,88-89,SCUOLA ROMANA  Secolo XVI. Due battaglie.,845,52.6,False,title_direct,,SCUOLA ROMANA,,,Sec. XVI
 BO0624_6334,74877,76,95,"SCUOLA PRIMITIVA FIORENTINA  - 95.Cristo e i dodici Apostoli.Predella di altare in - campo d'oro.  Tavola -Cornice dorata.-Altezza m. 0,23X1,31.  Le Christ et les douze Apotres; devant de retable.Peinture sur fond d'or.",861,51.4,False,title_direct,,SCUOLA PRIMITIVA FIORENTINA,PALE D'ALTARE,,
 BO0624_6334,74878,77,96,"SCUOLA VENEZIANA  - 96.Madonna del Rosario.  Tela.--Altezza m.0,90X0,73.  La Vierge du Rosaire.",867,44.0,False,title_direct,,SCUOLA VENEZIANA,,,
-BO0624_6334,74879,78,90-91,"IGNOTO. Due quadri: Teste di Santi.  Tele.-Cornici di noce.—Altezza m. 0,34X0.28.  Deux tableaux:tetes de Saints.",875,55.9,False,positional,,SCUOLA VENEZIANA,CORNICI,,
-BO0624_6334,74880,79,92,IGNOTO. La Crocifissione.,879,81.0,False,positional,,SCUOLA VENEZIANA,,,
+BO0624_6334,74879,78,90-91,"IGNOTO. Due quadri: Teste di Santi.  Tele.-Cornici di noce.—Altezza m. 0,34X0.28.  Deux tableaux:tetes de Saints.",875,55.9,False,none,,,CORNICI,,
+BO0624_6334,74880,79,92,IGNOTO. La Crocifissione.,879,81.0,False,none,,,,,
 BO0624_6334,74881,80,93,"SCUOLA SPAGNUOLA  Secolo XVII. La Sacra Famiglia.  Tela.-Cornice dorata.-Altezza m.1,50X1.10.  La Vierge assise et St Joseph tiennent ensemble I'Enfant Jesus.",893,58.8,False,title_direct,,SCUOLA SPAGNUOLA,,,Sec. XVII
-BO0624_6334,74882,81,94,IGNOTO. Madonna col Bambino.,897,83.3,False,positional,,SCUOLA SPAGNUOLA,,,
-BO0624_6334,74883,82,97,IGNOTO. Il Redentore e la Madonna.,900,86.7,False,positional,,SCUOLA SPAGNUOLA,,,
-BO0624_6334,74884,83,98,"IGNOTO. La Vergine con Gesu bambino,attorniati da",906,91.3,False,positional,,SCUOLA SPAGNUOLA,,,
+BO0624_6334,74882,81,94,IGNOTO. Madonna col Bambino.,897,83.3,False,none,,,,,
+BO0624_6334,74883,82,97,IGNOTO. Il Redentore e la Madonna.,900,86.7,False,none,,,,,
+BO0624_6334,74884,83,98,"IGNOTO. La Vergine con Gesu bambino,attorniati da",906,91.3,False,none,,,,,
 BO0624_6334,74885,84,99,SCUOLA GENOVESE  Secolo XVII. Ritratto di un Cardinale di famiglia Grimaldi.,917,76.0,False,title_direct,,SCUOLA GENOVESE,,,Sec. XVII
 BO0624_6334,74886,85,100,SCUOLA GENOVESE  Secolo XVII. Ritratto di un doge genovese.,925,65.9,False,title_direct,,SCUOLA GENOVESE,,,Sec. XVII
 BO0624_6334,74887,86,101,"SCUOLA NAPOLETANA  Secolo XVII. Gesu morto, le tre Marie e Giuseppe d'Arimatea.",935,75.8,False,title_direct,,SCUOLA NAPOLETANA,,,Sec. XVII
-BO0624_6334,74888,87,102,INCERTO (NARDI FELICE?). Busto di un frate Cappuccino.,945,71.6,False,positional,,SCUOLA NAPOLETANA,,,
-BO0624_6334,74889,88,103,"INCERTO Secolo XVII. Busto di eremita.  Tela. - Cornice a finto ebano a sbalzo. -Altezza m. 0,39X0,29  Buste d'un hermite.",956,66.3,False,positional,,SCUOLA NAPOLETANA,,,Sec. XVII
-BO0624_6334,74890,89,104,"IGNOTO Secolo XVII. S. Giovanni Evangelista.  Dipinto sopra agata.- Cornice di ebano.  St Jean l'Evangeliste assis; fond de paysage; au dessus, la Conception.",968,62.9,False,positional,,SCUOLA NAPOLETANA,,,Sec. XVII
-BO0624_6334,74891,90,105,IGNOTO Secolo XVII.  Santa Cecilia.  Dipinto sopra agata.- Cornice di ebano e pietre dure. Sainte Cecile.Peinture sur agathe.,972,83.6,False,positional,,SCUOLA NAPOLETANA,,,Sec. XVII
-BO0624_6334,74892,91,106,IGNOTO Secolo XVII. Paesaggio con figure.,974,66.7,False,positional,,SCUOLA NAPOLETANA,,,Sec. XVII
-BO0624_6334,74893,92,107,IGNOTO Secolo XVII. Sacra Famiglia in un paesaggio.,978,74.7,False,positional,,SCUOLA NAPOLETANA,,,Sec. XVII
+BO0624_6334,74888,87,102,INCERTO (NARDI FELICE?). Busto di un frate Cappuccino.,945,71.6,False,none,,,,,
+BO0624_6334,74889,88,103,"INCERTO Secolo XVII. Busto di eremita.  Tela. - Cornice a finto ebano a sbalzo. -Altezza m. 0,39X0,29  Buste d'un hermite.",956,66.3,False,none,,,,,Sec. XVII
+BO0624_6334,74890,89,104,"IGNOTO Secolo XVII. S. Giovanni Evangelista.  Dipinto sopra agata.- Cornice di ebano.  St Jean l'Evangeliste assis; fond de paysage; au dessus, la Conception.",968,62.9,False,none,,,,,Sec. XVII
+BO0624_6334,74891,90,105,IGNOTO Secolo XVII.  Santa Cecilia.  Dipinto sopra agata.- Cornice di ebano e pietre dure. Sainte Cecile.Peinture sur agathe.,972,83.6,False,none,,,,,Sec. XVII
+BO0624_6334,74892,91,106,IGNOTO Secolo XVII. Paesaggio con figure.,974,66.7,False,none,,,,,Sec. XVII
+BO0624_6334,74893,92,107,IGNOTO Secolo XVII. Sacra Famiglia in un paesaggio.,978,74.7,False,none,,,,,Sec. XVII
 BO0624_6334,74894,93,108,SCUOLA ITALIANA  Secolo XVII. Susanna tentata dai vecchioni.,986,66.7,False,title_direct,,SCUOLA ITALIANA,,,Sec. XVII
 BO0624_6334,74895,94,109,SCUOLA ITALIANA  Secolo XVIII. Diana cacciatrice.,991,53.7,False,title_direct,,SCUOLA ITALIANA,,,Sec. XVIII
 BO0624_6334,74896,95,110-110A,SCUOLA ITALIANA  Secolo XVIII. Due quadri: Paesaggi.,997,62.3,False,title_direct,,SCUOLA ITALIANA,,,Sec. XVIII
@@ -98,11 +98,11 @@ BO0624_6334,74897,96,111,ELASQUEZ (RODRIGUEZ DE SILVA Y) DIEGO  Sevilla.-1599-16
 BO0624_6334,74898,97,112,"MIEREVELT MICHELE GIOVANNI  Delft.-1567-1611,Ritratto di giovanetto.",1013,55.6,False,title_direct,MIEREVELT MICHELE GIOVANNI,,,,Sec. XVI
 BO0624_6334,74899,98,113-114,MOLYN PIETRO  detto il TEMPEsTA. Haarlem -1637()-1701. Due dipinti:Mare in burrasca.,1023,62.5,False,title_direct,MOLYN PIETRO,,,,Sec. XVII
 BO0624_6334,74900,99,119,"BREUGHEL PIETRO (il Giovane)  detto l'ENFER.  Bruxelles-1564(l)-1638. L'Inferno. 'Enfer et ses tourments. Representation etrange avec figures hu- maines,monstres et animaux fantastiques.",1034,74.4,False,title_direct,BREUGHEL PIETRO,,,,Sec. XVI
-BO0624_6334,74901,100,120,RUYTEN (van) GIOV. MICHELE  Anversa.-1813. Paesaggio con figure.,1036,57.5,False,positional,MOLYN PIETRO,,,,Sec. XIX
+BO0624_6334,74901,100,120,RUYTEN (van) GIOV. MICHELE  Anversa.-1813. Paesaggio con figure.,1036,57.5,False,none,,,,,Sec. XIX
 BO0624_6334,74902,101,115-116,MIEL GIOVANNI  detto DELLA VITE.  Anversa.-1599. Due dipinti:Bevitori allosteria e soggetto campestre.,1052,71.8,False,title_direct,MIEL GIOVANNI,,,,Sec. XVI
 BO0624_6334,74903,102,117-118,TENIERS DAVIDE （il Giovane)  Anversa.-1610-1690? Due quadri: testa di uomo e testa di donna.,1062,67.2,False,title_direct,TENIERS DAVIDE,,,,Sec. XVII
 BO0624_6334,74904,103,121,VERMEULEN ANDREA  Dordrecht-1763-1814. Interno di una cattedrale.,1077,59.3,False,title_direct,VERMEULEN ANDREA,,,,Sec. XVIII
-BO0624_6334,74905,104,122,VOS (de) CORNELIO  Anversa.-1585-1651. La Flagellazione.,1085,51.4,False,positional,VERMEULEN ANDREA,,,,Sec. XVII
+BO0624_6334,74905,104,122,VOS (de) CORNELIO  Anversa.-1585-1651. La Flagellazione.,1085,51.4,False,none,,,,,Sec. XVII
 BO0624_6334,74906,105,123,NEER (van der) ARTURO  Scuola Olandese.-1660. Marina.,1093,59.7,False,positional,NEER ARTURO,,,,Sec. XVII
 BO0624_6334,74907,106,124-129,SCUOLA FIAMMINGA  Secolo xVII. Sei dipinti:Fiori.,1103,53.5,False,title_direct,,SCUOLA FIAMMINGA,,,
 BO0624_6334,74908,107,130,ZEGERS DANIELE  Anversa -—1590-61. La Maddalena entro ghirlanda di fiori.,1113,73.4,False,title_direct,ZEGERS DANIELE,,,,Sec. XVI
@@ -112,7 +112,7 @@ BO0624_6334,74911,110,133-134,ZEEMAN J.  Scuola Olandese.-1807. Due Marine.,1144
 BO0624_6334,74912,111,135,"VAN DYCK ANTONIO  (attribuito a)  Secolo XVIl. Ritratto di giovane donna in costume, la testa con lunga capigliatura adorna di piume.",1158,79.4,False,title_direct,VAN DYCK ANTONIO,,,,
 BO0624_6334,74913,112,136,HELST (van der) BARTOLOMEO (?)  mort en 1670. Due bambine in costume dei sec.XVI condotte da una istitutrice.,1167,78.3,False,positional,HELST BARTOLOMEO,,,,Sec. XVII
 BO0624_6334,74914,113,137-138,"POELEMBURG (von) CORNELIO  Scuola Olandese,-1586-1667. Due dipinti: figure e paesaggi.",1177,56.9,False,positional,POELEMBURG CORNELIO,,,,Sec. XVII
-BO0624_6334,74915,114,139,BOOKS. Scuola Fiamminga. Bambocciata.,1185,64.0,False,positional,POELEMBURG CORNELIO,Scuola Fiamminga,,,
+BO0624_6334,74915,114,139,BOOKS. Scuola Fiamminga. Bambocciata.,1185,64.0,False,none,,Scuola Fiamminga,,,
 BO0624_6334,74916,115,140,CRANACH LUCA (il Vecchio)  (attribuito a). Busto di prospetto di personaggio olandese.,1195,68.8,False,title_direct,CRANACH LUCA,,,,
 BO0624_6334,74917,116,141,"DENNER BALTHAZAR  Hambourg -1685-1749. Mezza figura di vecchia, con rosario nelle mani.",1206,74.2,False,title_direct,DENNER BALTHAZAR,,,,Sec. XVIII
 BO0624_6334,74918,117,142,STOM MATTEO  Scuola Fiamminga.-Secolo XVIl. Battaglia.,1216,71.8,False,title_direct,STOM MATTEO,Scuola Fiamminga,,,

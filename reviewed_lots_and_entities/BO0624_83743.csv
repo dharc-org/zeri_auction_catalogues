@@ -7,7 +7,7 @@ BO0624_83743,56509,5,5,LE BARBIER. Nymphe portant des fleurs.,71,82.5,False,titl
 BO0624_83743,56510,6,6,LE BARBIER. Nymphe sortant du bain.,73,80.7,False,title_direct,LE BARBIER,,,,
 BO0624_83743,56511,7,7,LE PRINCE. Les Fermieres.,77,56.2,False,title_direct,LE PRINCE,,,,
 BO0624_83743,56512,8,8,Queverdo. Le Galant Jardinier.,85,81.6,False,positional,QUEVERDO,,,,
-BO0624_83743,56513,9,9,Vibert. Profil de Bonaparte.,96,85.1,False,positional,QUEVERDO,,,,
+BO0624_83743,56513,9,9,Vibert. Profil de Bonaparte.,96,85.1,False,none,,,,,
 BO0624_83743,56514,10,10,Vibert. Portrait dHomme.,106,80.0,False,positional,VIBERT,,,,
 BO0624_83743,56515,11,11,ECOLE FRANCAISE. Portrait de Jeune Femme.,114,73.8,False,title_direct,,ECOLE FRANCAISE,,,
 BO0624_83743,56516,12,12,ECOLE FRANCAISE. La Surprise.,120,71.4,False,title_direct,,ECOLE FRANCAISE,,,
@@ -16,8 +16,8 @@ BO0624_83743,56518,14,14,De Marne. La Promenade du matin. La Promenade du soir.,
 BO0624_83743,56519,15,15,Morland. Fishermen.,159,69.0,False,positional,MORLAND,,,,
 BO0624_83743,56520,16,16,Vernet. Le Bivouac.,163,52.2,False,positional,VERNET,,,,
 BO0624_83743,56521,17,17,Boilly. Le Vieuc Jaloux.,170,80.0,False,positional,BOILLY,,,,
-BO0624_83743,56522,18,18,Breydel. Combats de Cavaliers.,184,41.2,False,positional,BOILLY,,,,
-BO0624_83743,56523,19,19,Casanova. Le Cosaque.,191,68.8,False,positional,BOILLY,,,,
+BO0624_83743,56522,18,18,Breydel. Combats de Cavaliers.,184,41.2,False,none,,,,,
+BO0624_83743,56523,19,19,Casanova. Le Cosaque.,191,68.8,False,none,,,,,
 BO0624_83743,56524,20,20,De Troy. Esther devant Assuerus.,205,83.6,False,positional,DE TROY,,,,
 BO0624_83743,56525,21,21,Dujardin. Les Marchandes de Poissons.,230,84.4,False,positional,DUJARDIN,,,,
 BO0624_83743,56526,22,22,Forain. Souvenir.,240,57.1,False,positional,FORAIN,,,,
@@ -31,7 +31,7 @@ BO0624_83743,56533,29,29,Vibert. Napoleon I et le roi de Rome enfant.,347,87.8,F
 BO0624_83743,56534,30,30,Vibert. Le Pape et l'Empereur.,370,84.6,False,positional,VIBERT,,,,
 BO0624_83743,56535,31,31,Vibert. L'Audience de l'Empereur.,382,87.7,False,positional,VIBERT,,,,
 BO0624_83743,56536,32,32,Weenix. Le Gibier.,390,54.5,False,positional,WEENIX,,,,
-BO0624_83743,56537,33,33,Weenix. Apres la Chasse.,393,80.0,False,positional,WEENIX,,,,
+BO0624_83743,56537,33,33,Weenix. Apres la Chasse.,393,80.0,False,none,WEENIX J. B.,,,,
 BO0624_83743,56538,34,34,Ecole Flamande. XVII siecle. Portraits des ducs de Brabant.,409,68.2,False,positional,,ECOLE FLAMANDE,,,Sec. XVII
 BO0624_83743,56539,35,35,ECOLE FRANCAISE. XIX siecle. Jeune Fille en buste.,419,60.0,False,title_direct,,ECOLE FRANCAISE,,,Sec. XIX
 BO0624_83743,56540,36,36,ECOLE HOLLANDAISE. XVII siecle. Apres la Bataille.,429,53.7,False,title_direct,,ECOLE HOLLANDAISE,,,Sec. XVII

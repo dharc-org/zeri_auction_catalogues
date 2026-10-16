@@ -82,7 +82,7 @@ BO0624_88795,517020,80,141,"ROMISCH,2.HALFTE 2.JAHRHUNDERTn.CHR.",814,95.9,False
 BO0624_88795,517021,81,142,"ROMISCH,VIELLEICHT NOCH ZEIT DER REPUBLIK.",820,95.3,False,positional,,Scuola Romana,ANTIKEN,,
 BO0624_88795,517022,82,149,"GERINI,NICCOLO DIPIETRO,dessen NACHFOLGER,nach 1368. MariamitdemKinde.",889,97.1,False,positional,,ITALIENISCHE SCHULEN,,,Sec. XIV
 BO0624_88795,517023,83,151,"MARCHE DI ANCONA,MITTE 15.JAHRHUNDERT,wahrscheinlich GIOVANNI nschrift S HICH...US. Oben rundbogig geschlossen.",911,70.9,False,positional,"LORENZETTI,PIETRO",,,,
-BO0624_88795,517024,84,152,"MILANO, GIOVANNI DA,tatig in Mailand und Florenz 13501369. Triptychon.",926,97.1,False,positional,"LORENZETTI,PIETRO",,,,
+BO0624_88795,517024,84,152,"MILANO, GIOVANNI DA,tatig in Mailand und Florenz 13501369. Triptychon.",926,97.1,False,none,,,,,
 BO0624_88795,517025,85,155,"VANNUCCI,FRANCESCO,tatig in Siena,erwahnt 1361,1362,1367 und vielleicht",961,97.9,False,positional,,SCHULE VONSIENA,,,Sec. XIV
 BO0624_88795,517026,86,156,"VENEZIANISCH,14.JAHRHUNDERT,wahrscheinlich ,MEISTER DES PIRANO",974,97.6,False,title_direct,,VENEZIANISCH,,,
 BO0624_88795,517027,87,I,"n einem Armsessel mit bunter Stickerei sitzt die Dame in schwarzem Gewand uber weifem Unterkleid. Kniestuck nach links, das Gesicht von vorne.",1008,99.6,False,positional,"CARBONI, GIOVANNI BERNARDO",,,,
@@ -91,21 +91,21 @@ BO0624_88795,517029,89,I,"n schwarzem Kleid mit weifen Manschetten, uber dem Haa
 BO0624_88795,517030,90,I,"n der Mitte sitzt Maria mit dem Kinde, rechts Gruppe von Engeln, links Joseph in einem Buche lesend.",1067,99.5,False,positional,,ITALIENISCHE SCHULE,OGGETTI VARI,,
 BO0624_88795,517031,91,179,"ADRIAENSSEN,ALEXANDER,1587-1661 zugeschrieben. Fischstilleben.",1195,96.8,False,positional,,DEUTSCHE SCHULE,,,Sec. XVII
 BO0624_88795,517032,92,I,"n einem grofen Kreis von Zuschauern bewegen sich maskierte Paare, im Vorder grunde eine zahlreiche Menge, links eine Kutsche. Ruckwarts die Antwerpener Stadt mauer mit Baumen und sitzendem Publikum.",1204,99.7,False,positional,"ALSLOT,DENIS",,,,
-BO0624_88795,517033,93,181,"DYCK,ANTONIUS VAN,Antwerpen 1599-1641 Blackfriars (London).",1212,97.4,False,positional,"ALSLOT,DENIS",,,,Sec. XVII
+BO0624_88795,517033,93,181,"DYCK,ANTONIUS VAN,Antwerpen 1599-1641 Blackfriars (London).",1212,97.4,False,none,VAN DYCK ANTON,,,,Sec. XVII
 BO0624_88795,517034,94,I,"m Vordergrund der Wirtsstube sitzt der Bauer, seine Pfeife anzundend, neben ihm am Feuer ein Hund, links mehrere Krige. Links hinten Gruppe von fuinf Bauern.",1260,99.7,False,positional,"HEEMSKERCK,EGBERT VAN",,OGGETTI VARI,,
 BO0624_88795,517035,95,I,"n einer weiten FluBlandschaft sitzt Maria, dem Kinde die Brust reichend. Links Joseph, den Esel abschirrend. Im Mittelgrund Saule mit stirzendem Gotzenbild. An den Windungen des FluBlaufes stehen Kirchen, Burgen und Hauser.",1313,99.8,False,positional,"PATINIR,JOACHIM DE",,,,
 BO0624_88795,517036,96,196,"TENIERS DAVID D.J.,Antwerpen 16101690. Brussel (AIte Kopie).",1358,96.5,False,positional,"SNYDERS,FRANS",,,,
-BO0624_88795,517037,97,I,"m Vordergrund Frau mit Krug, Bauer mit Korb,Huhner und Gerat,auf dem Wehr sitzender Bauer mit Krug und Pfeife.",1362,99.5,False,positional,"SNYDERS,FRANS",,,,
+BO0624_88795,517037,97,I,"m Vordergrund Frau mit Krug, Bauer mit Korb,Huhner und Gerat,auf dem Wehr sitzender Bauer mit Krug und Pfeife.",1362,99.5,False,none,,,,,
 BO0624_88795,517038,98,199,"VENEZIANISCH,ENDE 15.JAHRHUNDERT,Werkstatt des ANTONIO RIZO.",1392,96.7,False,title_direct,,VENEZIANISCH,,,
 BO0624_88795,517039,99,200,"VENEZIANISCH,15. JAHRHUNDERT.",1408,93.1,False,title_direct,,VENEZIANISCH,,,
 BO0624_88795,517040,100,I,"n einer Saulenhalle kniet Maria vor dem Betpult, vor ihr steht der Engel. Rechts im Hintergrund ein Bett mit Vorhangen, oben an der Wand des Raumes die Halbfigur",1453,99.7,False,positional,,ITALIENISCH,,,
 BO0624_88795,517041,101,I,n der Art des Meisters der Blutenburger Figuren.,1483,98.9,False,positional,,BAYERISCH=SCHWABISCH,,,
 BO0624_88795,517042,102,I,"n goldenem Gewand und Mantel, ein Buch in Handen, die Krone auf dem offenen Haar.",1487,99.4,False,positional,,BODENSEEGEBIET,,,
 BO0624_88795,517043,103,20,cm.,1514,57.1,False,positional,,NIEDERRHEINISCH,,,
-BO0624_88795,517044,104,212,"SCHWEIZERISCH,UM 1540.",1516,93.3,False,positional,,NIEDERRHEINISCH,,,Sec. XVI
-BO0624_88795,517045,105,213,"FLAMISCH,2.HALFTE 17.JAHRHUNDERT.",1524,95.5,False,positional,,NIEDERRHEINISCH,,,
-BO0624_88795,517046,106,214,"DEUTSCH(?),18.JAHRHUNDERT.",1530,91.7,False,positional,,NIEDERRHEINISCH,,,
-BO0624_88795,517047,107,215,"FRANZOSISCH,18.JAHRHUNDERT.",1534,94.5,False,positional,,NIEDERRHEINISCH,,,
+BO0624_88795,517044,104,212,"SCHWEIZERISCH,UM 1540.",1516,93.3,False,none,,,,,Sec. XVI
+BO0624_88795,517045,105,213,"FLAMISCH,2.HALFTE 17.JAHRHUNDERT.",1524,95.5,False,none,,Scuola Fiamminga,,,
+BO0624_88795,517046,106,214,"DEUTSCH(?),18.JAHRHUNDERT.",1530,91.7,False,none,,,,,
+BO0624_88795,517047,107,215,"FRANZOSISCH,18.JAHRHUNDERT.",1534,94.5,False,none,,,,,
 BO0624_88795,517048,108,216,"ITALIENISCH,17.JAHRHUNDERT.",1540,94.5,False,title_direct,,ITALIENISCH,,,
 BO0624_88795,517049,109,217,ITALIENISCH.,1546,84.6,False,title_direct,,ITALIENISCH,,,
 BO0624_88795,517050,110,218,ITALIENISCH.,1552,84.6,False,title_direct,,ITALIENISCH,,,
@@ -279,8 +279,8 @@ BO0624_88795,517217,277,474,"JOSEPHUS,FLAVIUS. Historien und Bucher von alten ju
 BO0624_88795,517218,278,475,"MUNSTER,SEBASTIAN. Cosmographia, das ist Beschreibung der gantzen Welt. Mit zahlreichen Holzschnitten. Basel,Bey den Henricpetrinischen 1628. Gr.Fol. Gepr. Schwldr.mit MessingschlieBen. —Dasselbe Werk in alterer Ausgabe.Fol. Gepr. Schwldrbd. dat. 1579.—Dasselbe",2789,99.2,False,positional,,,BUCHER,,Sec. XVII
 BO0624_88795,517219,279,476,"PLUTARCH. Historien. Ubersetzung von Xylander und Lochinger. Mit Holzschn.von Jost Amman. Frankfurt,Pet. Schmid und S. Feyerabend 1580. Fol. Gepr. Schwldr. Andr.I, p.320 — Dabei: Bris so nius,Bar na bas. Lexicon Juris. Frankfurt, Joh. Wechel 1587. Fol. Schwldr.",2793,99.4,False,positional,,,BUCHER,,Sec. XVI
 BO0624_88795,517220,280,478,"BIBELINLUTHERSUBERSETZUNG. Mit Holzschnitten.Wittenberg,Hans Lufft.1551. 1. Bd. (Altes Test.) Fol. Gepr. Schwldr. —Dabei: Selnec cerus. Nic. Die Propheten. Leipzig, Jac. Berwalds Erben 1579. Fol. Gepr. Schwldrbd.mit Messingbeschlagen und #schliefen. Besitzervermerk von 1579.",2799,99.4,False,positional,"FOUILLOUX,JACOBENVON",,,,Sec. XVI
-BO0624_88795,517221,281,479,"WEIGEL,CHRIST.",2800,86.7,False,positional,"FOUILLOUX,JACOBENVON",,,,
-BO0624_88795,517222,282,480,"RIPOLL,THOMAS. Martyrologium Sacri Ordinis Praedicatorum. Rom, Hier. Mainardus 1733. 4. Schwldr. —Dabei: Lo hr,Fra n c. Jos. Evangelische Milch d. i. Ewige Wahrheiten auf alle Sonntag... Bd. 1. Augsburg, Math. Rieger 1753. Fol. Schwldr. —Dabei: Gepr. Schwldrbd. von 1753 als Kasten.",2803,99.2,False,positional,"FOUILLOUX,JACOBENVON",,,,Sec. XVIII
-BO0624_88795,517223,283,481,"OVIDIUS,PUBLIUS. Herscheppinge. Ins Hollandische ubersetzt von J. V. Vondel. Mit Stichen von Bouttats, Bouche u.and. Amsterdam 1703. Gr.Fol. Ldr.-Dabei: F énélon, Telemache. Ins Deutsche ibersetzt von Benj. Neukirch. Mit Kupfern. 3. Teil. Ansbach 1729. Fol. Ldr. mit Goldpressung.",2804,99.4,False,positional,"FOUILLOUX,JACOBENVON",,OGGETTI IN RAME,,Sec. XVIII
-BO0624_88795,517224,284,482,D'HANCARVILLE.,2805,89.7,False,positional,"FOUILLOUX,JACOBENVON",,,,
-BO0624_88795,517225,285,483,(BAILLIEGROHMAN). don1904.Gr.Fol.Leder.,2811,94.6,False,positional,"FOUILLOUX,JACOBENVON",,OGGETTI IN PELLE,,
+BO0624_88795,517221,281,479,"WEIGEL,CHRIST.",2800,86.7,False,none,,,,,
+BO0624_88795,517222,282,480,"RIPOLL,THOMAS. Martyrologium Sacri Ordinis Praedicatorum. Rom, Hier. Mainardus 1733. 4. Schwldr. —Dabei: Lo hr,Fra n c. Jos. Evangelische Milch d. i. Ewige Wahrheiten auf alle Sonntag... Bd. 1. Augsburg, Math. Rieger 1753. Fol. Schwldr. —Dabei: Gepr. Schwldrbd. von 1753 als Kasten.",2803,99.2,False,none,,,,,Sec. XVIII
+BO0624_88795,517223,283,481,"OVIDIUS,PUBLIUS. Herscheppinge. Ins Hollandische ubersetzt von J. V. Vondel. Mit Stichen von Bouttats, Bouche u.and. Amsterdam 1703. Gr.Fol. Ldr.-Dabei: F énélon, Telemache. Ins Deutsche ibersetzt von Benj. Neukirch. Mit Kupfern. 3. Teil. Ansbach 1729. Fol. Ldr. mit Goldpressung.",2804,99.4,False,none,,,OGGETTI IN RAME,,Sec. XVIII
+BO0624_88795,517224,284,482,D'HANCARVILLE.,2805,89.7,False,none,,,,,
+BO0624_88795,517225,285,483,(BAILLIEGROHMAN). don1904.Gr.Fol.Leder.,2811,94.6,False,none,,,OGGETTI IN PELLE,,

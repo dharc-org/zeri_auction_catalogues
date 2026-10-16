@@ -237,7 +237,7 @@ BO0624_81839,164518,235,221,"Van de Velde Isaia,1597-1630. Caccia a cavallo. Tel
 BO0624_81839,164519,236,222,"Baciccia (Gaulli Gio.Batt. detto), 1639-1709.Ritratto del Pontefice Clemente Ix. Tela.Cornice scolpita e dorata. Cent. 67X50.",432,98.3,False,positional,,,Quadri,,Sec. XVII
 BO0624_81839,164520,237,223,"Piazzetta G. B. 1632-1750. Giovine donna veneziana con canestro,e",436,96.9,False,positional,PIAZZETTA JEAN-BAPTISTE,,Quadri,,Sec. XVII
 BO0624_81839,164521,238,224,"Vanvitel G.(Gaspare dagli occhiali),1647-1736. Paesaggio romano. Tela. Fine dipinto,bella armonia di colori. Cornice dorata. Cent. 35x27.",441,98.5,False,positional,,,Quadri,,Sec. XVII
-BO0624_81839,164522,239,225,"Pannini Paolo, sec. XVIl. Architettura con rovine e macchiette. Bello,",442,97.0,False,positional,,,Quadri,,
+BO0624_81839,164522,239,225,"Pannini Paolo, sec. XVIl. Architettura con rovine e macchiette. Bello,",442,97.0,False,positional,PANNINI GIOVANNI PAOLO,,Quadri,,
 BO0624_81839,164523,240,226,"Morone Domenico,1442-1508. La Vergine col Bambino. Tavola.Cornice scolpita e dorata.Cent. 43X39.",444,97.9,False,positional,,,Quadri,,Sec. XV
 BO0624_81839,164524,241,227,"Bibbiena (Galli Ferdinando),1657-1743. Notturno. Interno con molte figure.Tela. Cornice dorata. Cent.75X55.",448,98.0,False,positional,,,Quadri,,Sec. XVII
 BO0624_81839,164525,242,228,"Bibbiena (Galli Ferdinando), 1657-1743. Notturno. Interno con molte figure. Tela. Cornice dorata.Cent. 75X55.",451,74.7,False,positional,,,Quadri,,Sec. XVII
@@ -367,7 +367,7 @@ BO0624_81839,164648,365,342,"Barbieri Giov.,1780-1864. Paesaggio con figure. Fin
 BO0624_81839,164649,366,343,"Paolo Veronese (Maniera). Presentazione di Maria al Tempio. Bellissimo dipinto su tela a bianco e nero, in cornice dipinta e dorata. Cent. 90X55.",715,98.6,False,positional,PAOLO VERONESE,,Quadri,,
 BO0624_81839,164650,367,344,"Piazzetta G. B., sec. xVIll. Ecce Homo. Magnifico dipinto su vetro, ovale. Cornice antica scolpita e dorata. Cent. 44X34.",716,69.0,False,positional,PIAZZETTA JEAN-BAPTISTE,,Quadri,,
 BO0624_81839,164651,368,345,"Ruysdaal Giac., sec. xVll. Paesaggio. Tela. Cornice nera guillochee. Cent.49X41.",718,89.1,False,positional,,,Quadri,,
-BO0624_81839,164652,369,346,"Pannini Francesco, sec. xVll. Architettura con macchiette. Dipinto su tela. Cornice circolare nera guillochee. Diametro cent. 26.",725,68.4,False,positional,,,Quadri,,
+BO0624_81839,164652,369,346,"Pannini Francesco, sec. xVll. Architettura con macchiette. Dipinto su tela. Cornice circolare nera guillochee. Diametro cent. 26.",725,68.4,False,positional,PANNINI GIOVANNI PAOLO,,Quadri,,
 BO0624_81839,164653,370,347,"Poussin Nicolo, 1594-1665. Mose salvato dalle acque. Tela ovale. Cor-",731,97.0,False,positional,"DUGHET GASPARD, POUSSIN",,Quadri,,Sec. XVII
 BO0624_81839,164654,371,348,"Magnasco Alessandro detto il Lisandrino, sec. XVllI. Paesaggio con figure. Tela. Cornice scolpita e dorata. Cent. 75X98. Importante dipinto,caratteristico.Buona la prospettiva aerea,violento e",736,98.9,False,positional,,,Quadri,,
 BO0624_81839,164655,372,349,"Sodoma (Antonio Razzi detto il),1477-1549. La Vergine col Bambino. Fondo di paesaggio.Tavola. Cornice di noce, a tabernacolo. Cent. 75X57. Vedi tavola N.5.",740,98.6,False,positional,,,Quadri,,Sec. XVI
@@ -430,7 +430,7 @@ BO0624_81839,164711,428,410,"Due bei vasi in maiolica di Faenza, bella decorazio
 BO0624_81839,164712,429,411,"David Lod. Ant., sec. xVill. Cane. Dipinto su tela. Cornice dorata Cent.40X47.",854,88.7,False,positional,,,Quadri,,
 BO0624_81839,164713,430,412,"Scuola Fiamminga, sec. xVI. Scena di genere. Tela. Cornice dorata. Cent.37X45.",861,97.3,False,positional,,Scuola Fiamminga,Quadri,,
 BO0624_81839,164714,431,413,"Longhi Aless., scc. XVllI. Ritratto di Gentildonna con maschera. Buon dlpinto su tela, cornice legno scolpito e dorato. Cent.63X49.",864,98.4,False,positional,,,Quadri,,
-BO0624_81839,164715,432,414,"Pannini Francesco (Scuola di), sec. XVIll. Prospettiva con rovine. Due buoni e vigorosi bozzetti su tela. Cornici dorate. Cent. 40X30.",865,98.4,False,positional,,,CORNICI,,
+BO0624_81839,164715,432,414,"Pannini Francesco (Scuola di), sec. XVIll. Prospettiva con rovine. Due buoni e vigorosi bozzetti su tela. Cornici dorate. Cent. 40X30.",865,98.4,False,positional,PANNINI GIOVANNI PAOLO,,CORNICI,,
 BO0624_81839,164716,433,415,"Empoli (Chimienti Jacopo detto 1),1554-1640.Ritratto di Gentiluomo. Tela.Cornice dorata.Cent.80X67. Magnifico dipinto nella seconda maniera dellartista,pastosa e di gra-",866,98.8,False,positional,,,Quadri,,Sec. XVI
 BO0624_81839,164717,434,416,"Longhi Pietro (Maniera),1702-1785. Scena settecentesca.Tela. Cornice legno nero guillochee.Cent.53X40.",870,77.6,False,positional,LONGHI PIETRO,,Quadri,,Sec. XVIII
 BO0624_81839,164718,435,417,"Longhi Pietro Maniera),1702-1785. Scena settecentesca.Tela. Cornice",875,97.0,False,positional,LONGHI PIETRO,,Quadri,,Sec. XVIII

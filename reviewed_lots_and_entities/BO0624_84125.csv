@@ -1,6 +1,6 @@
 catalogue_id,chunk_db_id,chunk_id,num,title,matched_line,match_score,low_confidence,entity_match_method,artist,school,object_type,collection,period
 BO0624_84125,165007,1,2,— Diane et ses suivantes dans un paysage.,28,97.4,False,positional,,ECOLE ITALIENNE,,,
-BO0624_84125,165008,2,3,Nativite.,34,88.9,False,positional,,ECOLE ITALIENNE,,,
+BO0624_84125,165008,2,3,Nativite.,34,88.9,False,none,,,,,
 BO0624_84125,165009,3,4,Baigneuse.,39,90.0,False,positional,,ECOLE MODERNE,,,
 BO0624_84125,165010,4,5,Bacchanales.,47,91.7,False,positional,GILLOT,,,,
 BO0624_84125,165011,5,6,Bacchanale.—,56,90.9,False,positional,LE BARBIER L'AINE,,,,
@@ -42,7 +42,7 @@ BO0624_84125,165046,40,43,"— Portrait de Femme,representee en Diane. Toile. Ha
 BO0624_84125,165047,41,44,"-Paysages, Vues de ville, riviere et personnages.",179,100.0,False,positional,,ECOLE FRANCAISE,,,
 BO0624_84125,165048,42,45,— Paysages avec riviere et personnages.,187,96.0,False,positional,,ECOLE HOLLANDAISE,,,
 BO0624_84125,165049,43,46,"— Paysage, cours d’eau et pecheurs.",196,95.4,False,positional,,ECOLE HOLLANDAISE,,,
-BO0624_84125,165050,44,47,"Bergers, bergeres et animaux.",204,94.7,False,positional,,ECOLE HOLLANDAISE,POLTRONE,,
+BO0624_84125,165050,44,47,"Bergers, bergeres et animaux.",204,94.7,False,none,,,POLTRONE,,
 BO0624_84125,165051,45,48,-Deux vases-cornets en ancien biscuit de,211,96.3,False,positional,,,BISCOTTI,,
 BO0624_84125,165052,46,49,"— Sucrier couvert et quatre tasses et soucoupes en ancienne porcelaine dure de Sevres, decor d'armoiries en couleur, et bordure a dentelle en dorure.",213,99.0,False,positional,,,FAIENCES; PORCELAINES,,
 BO0624_84125,165053,47,50,"- Service a the en porcelaine de Chine, decor a personnages.",214,97.4,False,positional,,,OGGETTI VARI,,
