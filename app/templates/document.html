@@ -16,7 +16,7 @@
   </div>
   </div>
 
-  <form id="catalogueForm" action="/save_document" method="post" class="col-md-6">
+  <form id="catalogueForm" action="{{ root }}/save_document" method="post" class="col-md-6">
     <input type="hidden" name="catalogue_id" value="{{ catalogue_id }}">
     <input type="hidden" name="anchor" id="anchor">
 
@@ -145,7 +145,7 @@ document.querySelectorAll('.chunk').forEach(chunk => {
   const catalogueId = "{{ catalogue_id }}";
   console.log("CatalogueID from template:", catalogueId);
   setInterval(() => {
-      fetch(`/heartbeat/${catalogueId}`, { method: "POST" })
+      fetch(`{{ root }}/heartbeat/${catalogueId}`, { method: "POST" })
           .then(r => r.json())
           .then(data => {
               if (data.status === "locked_by_other") {
@@ -156,7 +156,7 @@ document.querySelectorAll('.chunk').forEach(chunk => {
 
   // Release lock when closing tab or navigating away
   window.addEventListener("beforeunload", function () {
-      const url = `/release_lock/${catalogueId}`;
+      const url = `{{ root }}/release_lock/${catalogueId}`;
       navigator.sendBeacon(url);
   });
 
@@ -341,7 +341,7 @@ document.querySelectorAll('.chunk').forEach(chunk => {
   formData.append("catalogue_id", catalogueId);
   formData.append("num", num);
 
-  const res = await fetch("/resolve_inconsistency", {
+  const res = await fetch("{{ root }}/resolve_inconsistency", {
     method: "POST",
     body: formData
   });
