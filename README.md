@@ -143,7 +143,6 @@ If `--all` the transformation is applied to all catalogues. Default behaviour on
 includes the mapping of IIIF images (from our server to AMS Historica), if applicable (i.e. if we had the page annotated correctly, and if we were able to find the corresponding page in Historica, since the naming conventions slightly differ).
 
 TODO:
-
  * finalise human-revision of reconciliation and regenerate the RDF dataset to add Wikidata links
  * revise 73 catalogues that return empty NER and more that return partial NER
  * remember to add catalogues missing because the OCR failed
