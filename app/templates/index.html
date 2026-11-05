@@ -55,6 +55,13 @@ new Chart(document.getElementById('stackedBar'), {
 
 <section class="project_stats col-md-9">
   <!-- <h2>Documents</h2> -->
+  <label class="switch-wrap">
+    <span id="toggle-reviewed-label">Display reviewed catalogues</span>
+    <span class="switch">
+      <input type="checkbox" id="toggle-reviewed" checked>
+      <span class="slider"></span>
+    </span>
+  </label>
   <table>
   <tr>
     <th title="catalogue id">
@@ -82,7 +89,7 @@ new Chart(document.getElementById('stackedBar'), {
   </tr>
 
   {% for cat, val in documents.items() %}
-  <tr>
+  <tr{% if val.reviewed %} class="reviewed-row"{% endif %}>
     <td><a href="{{ root }}/document/{{ cat }}">{{ cat }}</a></td>
     <!-- <td>{{ val.chunks }}</td>
     <td class="{{'inconsistent' if val.expected_chunks != val.chunks else '' }}">{{ val.expected_chunks }}</td>
@@ -104,6 +111,21 @@ new Chart(document.getElementById('stackedBar'), {
   </tr>
   {% endfor %}
 </table>
+<script>
+  // client-side only: show/hide reviewed rows
+  const toggle = document.getElementById("toggle-reviewed");
+  const toggleLabel = document.getElementById("toggle-reviewed-label");
+  function setReviewedHidden(hidden) {
+    document.querySelectorAll("tr.reviewed-row").forEach(tr => tr.style.display = hidden ? "none" : "");
+    toggle.checked = !hidden;
+    toggleLabel.textContent = hidden ? "Hide reviewed catalogues" : "Display reviewed catalogues";
+    try { localStorage.setItem("hideReviewed", hidden ? "1" : "0"); } catch (e) {}
+  }
+  toggle.addEventListener("change", () => setReviewedHidden(!toggle.checked));
+  let startHidden = false;
+  try { startHidden = localStorage.getItem("hideReviewed") === "1"; } catch (e) {}
+  setReviewedHidden(startHidden);
+</script>
 
 </section>
 {% endblock %}
