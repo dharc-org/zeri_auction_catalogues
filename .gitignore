@@ -4,5 +4,5 @@ documents.db-journal
 app/.env
 app/__pycache__/
 
-# docling
+# docling - lock files
 docling/documents/*/.lock
