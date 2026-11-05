@@ -27,7 +27,7 @@
         <label>Num:</label>
         <input type="text" name="num[]" value="{{ ch.num }}"><br>
         <label>Title:</label>
-        <input type="text" name="title[]" value="{{ ch.title }}"><br>
+        <textarea name="title[]" class="title-input" rows="1">{{ ch.title }}</textarea><br>
         <label>Text:</label>
         <textarea name="text[]">{{ ch.text }}</textarea>
         <div class="controls">
@@ -296,7 +296,7 @@ document.querySelectorAll('.chunk').forEach(chunk => {
 
       newChunk.innerHTML = `
           <label>Num:</label><input type="text" name="num[]"><br>
-          <label>Title:</label><input type="text" name="title[]"><br>
+          <label>Title:</label><textarea name="title[]" class="title-input" rows="1"></textarea><br>
           <label>Text:</label><textarea name="text[]"></textarea><br>
           <label>Image URL:</label>
           <input type="text" name="image_online[]" list="${datalistId}" value="${prevImage || ''}" oninput="updatePreview(this)">

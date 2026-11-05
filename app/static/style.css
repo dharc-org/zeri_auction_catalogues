@@ -34,6 +34,7 @@ td.has-issues { background-color: #ffcccc; font-weight: bold; }
 .chunk.needs-revision { border-color: #d9534f; background-color: #fff5f5; }
 textarea { width: 90%; height: 6rem; }
 input[type=text] { width: 90%; }
+textarea.title-input { height: auto; min-height: 0; resize: none; field-sizing: content; }
 .controls { display: flex; gap: 0.5rem; margin-top: 0.5rem; }
 .btn { background: white; color: black; border: solid 1px black; padding: 6px 12px; border-radius: 4px; cursor: pointer; }
 .btn.save:hover {background: black; color: white;}
