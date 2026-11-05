@@ -11,11 +11,11 @@
 </head>
 <body>
   <h1>Catalogue: {{ catalogue_id }}</h1>
-  <a href="/">← Back to all catalogues</a>
+  <a href="{{ root }}/">← Back to all catalogues</a>
 
   {% for ch in chunks %}
     <div class="chunk {% if ch.needs_revision %}needs-revision{% endif %}">
-      <form action="/update_chunk" method="post">
+      <form action="{{ root }}/update_chunk" method="post">
         <input type="hidden" name="catalogue_id" value="{{ ch.catalogue_id }}">
         <input type="hidden" name="index" value="{{ ch.index }}">
         <label><b>{{ ch.num }}</b> — Title</label>
