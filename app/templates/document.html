@@ -427,9 +427,15 @@ document.querySelectorAll('.chunk').forEach(chunk => {
   });
 
   // Zoom
-  let zoomLevel = 1;
+  const DEFAULT_ZOOM = 1.5;
+  let zoomLevel = DEFAULT_ZOOM;
+  try { zoomLevel = parseFloat(localStorage.getItem("zoomLevel")) || DEFAULT_ZOOM; } catch (e) {}
   let translateX = 0;
   let translateY = 0;
+  try {
+    translateX = parseFloat(localStorage.getItem("translateX")) || 0;
+    translateY = parseFloat(localStorage.getItem("translateY")) || 0;
+  } catch (e) {}
 
   const img = document.getElementById("current-image");
   const frame = document.getElementById("image-frame");
@@ -437,6 +443,11 @@ document.querySelectorAll('.chunk').forEach(chunk => {
   function applyTransform() {
     img.style.transform =
       `translate(${translateX}px, ${translateY}px) scale(${zoomLevel})`;
+    try {
+      localStorage.setItem("zoomLevel", zoomLevel);
+      localStorage.setItem("translateX", translateX);
+      localStorage.setItem("translateY", translateY);
+    } catch (e) {}
   }
 
   function zoomIn() {
@@ -503,22 +514,13 @@ function setImage(src) {
   const img = document.getElementById("current-image");
   img.src = src;
 
-  // reset zoom/pan
-  zoomLevel = 1;
-  translateX = 0;
-  translateY = 0;
+  // keep current zoom and pan so the same portion shows on every image
   applyTransform();
 }
 
 
-  // Optional: zoom on mouse wheel
-  //const img = document.getElementById("current-image");
-  img.addEventListener("wheel", function(e){
-      e.preventDefault();
-      zoomLevel += e.deltaY * -0.001; // adjust sensitivity
-      zoomLevel = Math.min(Math.max(0.1, zoomLevel), 5); // clamp between 0.1 and 5
-      img.style.transform = `scale(${zoomLevel})`;
-  });
+  // wheel zoom is handled by the frame listener above (it keeps the pan)
+  applyTransform();
 </script>
 
 {% endblock %}
