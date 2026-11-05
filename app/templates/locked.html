@@ -16,13 +16,13 @@
     </div>
 
     <div class="mt-4">
-        <a href="/" class="btn btn-secondary">⬅ Back to Documents</a>
+        <a href="{{ root }}/" class="btn btn-secondary">⬅ Back to Documents</a>
     </div>
 
     <!-- {% if is_admin %}
     <hr>
     <div class="mt-4">
-        <form method="post" action="/force_unlock/{{ catalogue_id }}">
+        <form method="post" action="{{ root }}/force_unlock/{{ catalogue_id }}">
             <button class="btn btn-danger">Force Unlock (Admin Only)</button>
         </form>
     </div>
