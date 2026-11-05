@@ -83,19 +83,19 @@ new Chart(document.getElementById('stackedBar'), {
 
   {% for cat, val in documents.items() %}
   <tr>
-    <td><a href="/document/{{ cat }}">{{ cat }}</a></td>
+    <td><a href="{{ root }}/document/{{ cat }}">{{ cat }}</a></td>
     <!-- <td>{{ val.chunks }}</td>
     <td class="{{'inconsistent' if val.expected_chunks != val.chunks else '' }}">{{ val.expected_chunks }}</td>
     <td>{{ val.issues }}</td>
     <td>{{ val.issues_percent }}</td> -->
     <td>
     {% if val.reviewed %}
-      <form method="post" action="/undo_review" style="display:inline">
+      <form method="post" action="{{ root }}/undo_review" style="display:inline">
         <input type="hidden" name="document_id" value="{{ cat }}">
         <button type="submit" class="undo-btn"><img src="{{ url_for('static', path='/images/undo.png') }}" alt="">Undo review</button>
       </form>
     {% else %}
-      <form method="post" action="/mark_reviewed" style="display:inline">
+      <form method="post" action="{{ root }}/mark_reviewed" style="display:inline">
         <input type="hidden" name="document_id" value="{{ cat }}">
         <button type="submit" class="review-btn"><img src="{{ url_for('static', path='/images/check.png') }}" alt="">Mark as reviewed</button>
       </form>
@@ -107,3 +107,4 @@ new Chart(document.getElementById('stackedBar'), {
 
 </section>
 {% endblock %}
+
