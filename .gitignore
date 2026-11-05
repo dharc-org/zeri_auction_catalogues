@@ -1,2 +1,7 @@
+# datatune app
 app/documents.db
 app/.env
+app/__pycache__/
+
+# docling
+.lock
