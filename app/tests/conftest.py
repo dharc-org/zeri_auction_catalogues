@@ -6,6 +6,9 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.append(str(ROOT))
 os.environ["PYTEST_RUNNING"] = "1"
 
+os.environ.setdefault("SECRET", "test-secret")
+os.environ.setdefault("VALID_USERS", '{"marilena.daquino2@unibo.it":"admin"}')
+
 import pytest
 import sqlite3
 from fastapi.testclient import TestClient
