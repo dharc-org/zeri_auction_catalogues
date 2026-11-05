@@ -11,23 +11,23 @@ import itsdangerous
 import json, time, os
 from pathlib import Path
 import conf as c
+from dotenv import load_dotenv
 # -----------------------------------------------------------------------------
 # CONFIG
 # -----------------------------------------------------------------------------
+load_dotenv()
 
 BASE_DIR = Path(__file__).parent
 DATA_DIR = Path("../docling/documents")
 DB_PATH = BASE_DIR / "documents.db"
 
 LOCK_TIMEOUT = 60 * 30
-SECRET = "CHANGE_THIS_REMEMBER_SECRET"
+SECRET = os.environ["SECRET"]
 
-VALID_USERS = {
-    "marilena.daquino2@unibo.it": "admin",
-    "valentina.rossetti7@unibo.it" : "zeri2026ROSSETTI",
-    "valentina.pasqual2@unibo.it" : "zeri2026PASQUAL",
-    "francesca.mambelli6@unibo.it" : "zeri2026MAMBELLI"
-}
+VALID_USERS = json.loads(os.environ["VALID_USERS"])
+middleware = [
+    Middleware(SessionMiddleware, secret_key=SECRET)
+]
 
 serializer = itsdangerous.URLSafeTimedSerializer(SECRET)
 
