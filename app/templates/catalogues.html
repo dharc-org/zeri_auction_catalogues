@@ -25,7 +25,7 @@
     </tr>
     {% for c in catalogues %}
     <tr>
-      <td><a href="/catalogue/{{ c.catalogue_id }}">{{ c.catalogue_id }}</a></td>
+      <td><a href="{{ root }}/catalogue/{{ c.catalogue_id }}">{{ c.catalogue_id }}</a></td>
       <td>{{ c.total }}</td>
       <td class="{{ 'warn' if c.issues > 0 else 'ok' }}">{{ c.issues }}</td>
       <td>{{ c.percent_issues }}%</td>
