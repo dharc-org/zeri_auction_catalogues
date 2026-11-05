@@ -25,9 +25,6 @@ LOCK_TIMEOUT = 60 * 30
 SECRET = os.environ["SECRET"]
 
 VALID_USERS = json.loads(os.environ["VALID_USERS"])
-middleware = [
-    Middleware(SessionMiddleware, secret_key=SECRET)
-]
 
 serializer = itsdangerous.URLSafeTimedSerializer(SECRET)
 
@@ -36,7 +33,7 @@ serializer = itsdangerous.URLSafeTimedSerializer(SECRET)
 # -----------------------------------------------------------------------------
 
 middleware = [
-    Middleware(SessionMiddleware, secret_key="CHANGE_ME_SECRET")
+    Middleware(SessionMiddleware, secret_key=SECRET)
 ]
 
 from contextlib import asynccontextmanager
