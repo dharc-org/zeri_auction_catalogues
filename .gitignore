@@ -1,6 +1,6 @@
 # datatune app
-app/documents.db
-app/documents.db-journal
+documents.db
+documents.db-journal
 app/.env
 app/__pycache__/
 
