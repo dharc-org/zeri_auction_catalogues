@@ -1,9 +1,9 @@
 <!-- Sidebar -->
    <div class="d-flex flex-column" id="sidebar">
        <div class="p-5 sticky-top">
-          <p class="logout"><a href="/logout">Logout</a> | <a href="/">Home</a></p>
-           <h1><a href="/">data<b>tune</b></a></h1>
-           <!--<h2 class="menu_title">{{projects.project_name}}</h2>-->
+          <p class="logout"><a href="{{ root }}/logout">Logout</a> | <a href="{{ root }}/">Home</a></p>
+           <h1><a href="{{ root }}/">data<b>tune</b></a></h1>
+	   
            {% if projects.document_id %}
             <h3 class="menu_subtitle">{{projects.document_id}}</h3>
            {% endif %}
@@ -36,7 +36,7 @@
 
            <!-- <ul class="nav flex-column">
                <li class="nav-item">
-                   <a class="nav-link" href="/documents">Documents</a>
+                   <a class="nav-link" href="{{ root }}/documents">Documents</a>
                </li>
            </ul> -->
 
