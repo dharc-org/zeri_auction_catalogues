@@ -6,3 +6,6 @@ app/__pycache__/
 
 # docling - lock files
 docling/documents/*/.lock
+
+# local venv
+.zac_venv
