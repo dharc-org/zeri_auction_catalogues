@@ -23,9 +23,10 @@ LOCK_TIMEOUT = 60 * 30
 SECRET = "CHANGE_THIS_REMEMBER_SECRET"
 
 VALID_USERS = {
-    "marilena.daquino2@unibo.it": "admin",    
+    "marilena.daquino2@unibo.it": "admin",
     "valentina.rossetti7@unibo.it" : "zeri2026ROSSETTI",
-    "valentina.pasqual2@unibo.it" : "zeri2026PASQUAL"
+    "valentina.pasqual2@unibo.it" : "zeri2026PASQUAL",
+    "francesca.mambelli6@unibo.it" : "zeri2026MAMBELLI"
 }
 
 serializer = itsdangerous.URLSafeTimedSerializer(SECRET)
@@ -49,7 +50,27 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(middleware=middleware, lifespan=lifespan)
 
-templates = Jinja2Templates(directory="templates")
+# Support serving under a sub-path behind a reverse proxy (e.g. nginx /datatune/):
+# the proxy strips the prefix and sends it in X-Forwarded-Prefix.
+@app.middleware("http")
+async def forwarded_prefix(request: Request, call_next):
+    prefix = request.headers.get("x-forwarded-prefix", "").rstrip("/")
+    if prefix:
+        # ASGI expects "path" to include root_path (needed by mounts like /static)
+        request.scope["root_path"] = prefix
+        request.scope["path"] = prefix + request.scope["path"]
+    return await call_next(request)
+
+def url(request: Request, path: str) -> str:
+    return request.scope.get("root_path", "") + path
+
+def redirect(request: Request, path: str) -> RedirectResponse:
+    return RedirectResponse(url(request, path), status_code=303)
+
+templates = Jinja2Templates(
+    directory="templates",
+    context_processors=[lambda request: {"root": request.scope.get("root_path", "")}],
+)
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 def sort_url(request, column):
@@ -61,7 +82,7 @@ def sort_url(request, column):
     else:
         new_order = "asc"
 
-    return f"/?sort={column}&order={new_order}"
+    return url(request, f"/?sort={column}&order={new_order}")
 
 templates.env.globals["sort_url"] = sort_url
 
@@ -278,7 +299,7 @@ def require_login(request: Request):
         except Exception:
             pass
 
-    raise HTTPException(status_code=303, headers={"Location": "/login"})
+    raise HTTPException(status_code=303, headers={"Location": url(request, "/login")})
 
 
 @app.get("/login")
@@ -296,7 +317,7 @@ def login(
 ):
     if VALID_USERS.get(email) == password:
         request.session["user"] = email
-        response = RedirectResponse("/", status_code=303)
+        response = redirect(request, "/")
         if remember:
             response.set_cookie(
                 "remember_token",
@@ -318,7 +339,7 @@ def logout(request: Request, user: str = Depends(require_login)):
         if p.is_dir():
             release_lock(p.name, user)
     request.session.clear()
-    response = RedirectResponse("/login", status_code=303)
+    response = redirect(request, "/login")
     response.delete_cookie("remember_token")
     return response
 
@@ -333,6 +354,7 @@ def fetch_documents_stats():
     cur.execute("SELECT id, reviewed FROM catalogues ORDER BY id")
     docs = {r["id"]: {"reviewed": r["reviewed"]} for r in cur.fetchall()}
     conn.close()
+    print(docs)  # check what reviewed values actually look like
     return docs
 
     # cur.execute("""
@@ -640,7 +662,7 @@ async def save_document(request: Request, user: str = Depends(require_login)):
     # Release lock after saving
     release_lock(catalogue_id, user)
 
-    return RedirectResponse(f"/document/{catalogue_id}", status_code=303)
+    return redirect(request, f"/document/{catalogue_id}")
 
 
 # -----------------------------------------------------------------------------
@@ -648,7 +670,7 @@ async def save_document(request: Request, user: str = Depends(require_login)):
 # -----------------------------------------------------------------------------
 
 @app.post("/mark_reviewed")
-def mark_reviewed(document_id: str = Form(...), user: str = Depends(require_login)):
+def mark_reviewed(request: Request, document_id: str = Form(...), user: str = Depends(require_login)):
     conn = get_db()
     conn.execute(
         "UPDATE catalogues SET reviewed = 1 WHERE id = ?",
@@ -656,11 +678,11 @@ def mark_reviewed(document_id: str = Form(...), user: str = Depends(require_logi
     )
     conn.commit()
     conn.close()
-    return RedirectResponse("/", status_code=303)
+    return redirect(request, "/")
 
 
 @app.post("/undo_review")
-def undo_review(document_id: str = Form(...), user: str = Depends(require_login)):
+def undo_review(request: Request, document_id: str = Form(...), user: str = Depends(require_login)):
     conn = get_db()
     conn.execute(
         "UPDATE catalogues SET reviewed = 0 WHERE id = ?",
@@ -668,7 +690,7 @@ def undo_review(document_id: str = Form(...), user: str = Depends(require_login)
     )
     conn.commit()
     conn.close()
-    return RedirectResponse("/", status_code=303)
+    return redirect(request, "/")
 
 
 # -----------------------------------------------------------------------------
@@ -695,3 +717,4 @@ async def resolve_inconsistency(
     conn.close()
 
     return JSONResponse({"success": resolved})
+
