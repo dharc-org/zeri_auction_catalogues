@@ -8,7 +8,7 @@ from starlette.middleware.sessions import SessionMiddleware
 import sqlite3
 import pandas as pd
 import itsdangerous
-import json, time, os
+import json, time, os, re
 from pathlib import Path
 import conf as c
 from dotenv import load_dotenv
@@ -659,7 +659,10 @@ async def save_document(request: Request, user: str = Depends(require_login)):
     # Release lock after saving
     release_lock(catalogue_id, user)
 
-    return redirect(request, f"/document/{catalogue_id}")
+    # Return to the card the user was on (anchor is posted by the form)
+    anchor = form.get("anchor") or ""
+    fragment = f"#{anchor}" if re.fullmatch(r"chunk_\d+", anchor) else ""
+    return redirect(request, f"/document/{catalogue_id}{fragment}")
 
 
 # -----------------------------------------------------------------------------
